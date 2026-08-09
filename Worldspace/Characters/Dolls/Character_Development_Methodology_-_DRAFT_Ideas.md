@@ -2892,3 +2892,198 @@ examples of concepts already captured above), and Chapter 11 (the book's own clo
 book (~3,000 lines) and the chapters read cover its clear core; the remaining chapters are judged, based on
 their titles and the pattern established by the chapters actually read, to be additional worked examples and
 brainstorming exercises layered on top of the same framework already captured in full, not new concepts.)*
+
+## From *Characters & Viewpoint* — Orson Scott Card
+
+A foundational, broad-scope craft book (1988) covering character invention and characterization technique in
+general prose fiction. Despite heavy overlap in territory already covered by Truby, Kress, Corbett, and
+Weiland, several of its frameworks are genuinely distinct axes not yet captured anywhere in this file, and are
+recorded below in original form. Part III of the book (Chapters 13-18) is deliberately scoped out — it's about
+prose narration mechanics specific to written fiction (first- vs. third-person narrative voice, tense,
+omniscient vs. limited POV, distance in time, unreliable narrators), which is a different medium's concern than
+a game built on branching dialogue and a fixed third-person camera, and doesn't bear on character psychology.
+
+- **The Ten Ways We Come to Know a Character** (Chapter 1) — a systematic checklist, distinct from and
+  complementary to the Lie/Want/Need/Ghost vocabulary already captured from Weiland: Action (what she does,
+  the strongest and easiest form of characterization, but shallow on its own), Motive (what she means to do —
+  the same action reads as heroism or villainy purely based on motive), the Past (what's been done to her and
+  what she's done), Reputation (what others say about her before/apart from the audience meeting her directly
+  — with the note that if a reputation is going to be violated, the story owes the audience an explanation for
+  why the reputation was wrong), Stereotypes (an unavoidable first filter the audience runs on any new
+  character — useful as a deliberate tool, either played straight for background efficiency or played against
+  for a memorable reveal), Network (the observation that a person is a genuinely different self in each
+  relationship — a companion should read differently in a scene with the player than in a scene with her own
+  found-family or estranged kin, and that contrast is itself characterization, not inconsistency), Habits and
+  Patterns, Talents and Abilities, Tastes and Preferences, and Body (deliberately placed last — physical
+  description is the weakest and most overused tool, and a character can be fully known to the audience through
+  the other nine categories without ever specifying appearance in detail). **Directly usable as a coverage
+  checklist**: when a companion feels thin, check which of these ten categories has never actually been shown
+  on-screen, rather than defaulting to writing another physical-description or backstory-exposition pass.
+- **The Interrogation Technique** (Chapter 2) — a concrete brainstorming method for wringing a shallow idea
+  into a genuine story or character beat: repeatedly ask causal questions (*why would she do that, what would
+  it cause, what's the result*) and refuse to settle for the first answer that comes to mind, because the first
+  answer is reliably a cliché (the "cliché shelf" — everyone has a mental library of stock answers they reach
+  for without noticing). Two supplementary moves: **exaggeration** (push a trait further than realism strictly
+  allows, to make an ordinary detail interesting — with the caution that too much exaggeration tips a character
+  into unbelievable caricature) and **the twist** (take the audience's working assumption about a character or
+  situation and deliberately invert it). A short three-question audience-trust checklist from the same chapter
+  is worth keeping as a running QA pass on any new scene: *So what?* (why should the player care), *Oh yeah?*
+  (would this character actually do that), and *Huh?* (is it clear what's happening and who's involved).
+- **The MICE Quotient** (Chapter 5) — a diagnostic for what kind of story a given scene, questline, or
+  companion arc actually is, and therefore how much full psychological characterization it actually needs.
+  Four factors are present in every story in varying proportion: **Milieu** (the world/setting itself is the
+  point — characters can be thin, near-stereotypical, since attention belongs on the place), **Idea** (a
+  question posed and answered — a mystery or puzzle structure, where characters need only enough depth to
+  populate suspects/clues credibly), **Character** (a person's intolerable role becomes the story — this is
+  the only one of the four that demands the full Lie/Want/Need/Ghost treatment, because the story doesn't end
+  until she's found a new role, returned to the old one, or given up), and **Event** (the world itself is out
+  of balance and the story is the effort to restore it — characters can be defined almost entirely by what they
+  do and why, with minimal interiority, and the story can still land). Card's "contract with the reader" rule
+  follows from this: whichever factor a piece opens on sets the audience's expectation for what will resolve it,
+  and a story that spends real time on a factor without paying it off will feel like a broken promise. **Directly
+  usable as a calibration tool**: before writing a District Under-Questline or a minor NPC's beat, name which
+  MICE factor it actually is — a Milieu- or Event-type Under-Questline doesn't need (and shouldn't be forced
+  to carry) full companion-grade characterization, while anything that is genuinely a Character-type thread
+  does, regardless of scale.
+- **The Hierarchy of Characters** (Chapter 6) — three tiers (walk-ons/placeholders, minor characters, major
+  characters) with concrete, controllable levers for signaling which tier a given character belongs in, useful
+  for calibrating exactly how much design investment a District NPC, a repeating Under-Questline figure, or a
+  full companion actually warrants:
+  - **Walk-ons** disappear by leaning into stereotype — behaving exactly as expected draws no attention, which
+    is the point.
+  - **Minor characters** are made memorable without being promoted to major status via three specific tools:
+    eccentricity (an unexpected, specific trait combination), exaggeration (one trait pushed further than
+    realism allows), or obsessiveness (a fixation the character can't let go of) — deployed once, briefly, then
+    the character exits. The chapter's own rule of thumb: minor characters should flash once, brightly, like a
+    flashbulb, not be carefully built out the way a major character is.
+  - **Major-character status** is signaled through eight controllable techniques, independent of raw
+    characterization depth: strangeness relative to the audience's baseline, sheer amount of narrative time
+    devoted to her, her potential to make choices that matter, how much other characters focus on or talk about
+    her (the **Focus technique** — a character can become the story's most important figure through others'
+    attention to her without ever appearing directly, the way Sauron dominates *The Lord of the Rings* through
+    reputation and consequence rather than page-time; directly reusable for antagonist design, letting a
+    District's most feared figure loom large through NPC dialogue and consequence long before — or without ever
+    — appearing on-screen), frequency of appearance, degree of active involvement (a passive character who's
+    merely present fades no matter how often she shows up; only active participation registers), audience
+    sympathy, and point-of-view/narration weight.
+- **Raising the Emotional Stakes** (Chapter 7) — five levers, several of which sharpen material already
+  captured elsewhere in this file: **Suffering** (loses power with repetition — the first instance of pain or
+  grief raises a character's stature, but the third or fourth reads as comic or whiny; power comes from showing
+  the cause and meaning of the pain, not from escalating detail), **Sacrifice** (self-chosen loss for a greater
+  good reads as far more powerful than the identical loss suffered passively or by accident — direct
+  reinforcement of this project's own mutual-sacrifice mechanic), **Jeopardy** (anticipated pain is often more
+  potent than pain delivered — but jeopardy only works if the audience genuinely believes the threat could be
+  carried out; an antagonist's credibility, once established through one real, delivered threat, makes every
+  subsequent threat land harder), **Sexual Tension** (a specific, non-obvious caution: romantic/sexual tension
+  is a function of uncertainty, and it measurably drops once a couple achieves stated mutual fulfillment —
+  worth flagging as a pacing concern for any companion romance content written *after* the romance officially
+  locks in, since the tension-based engine that drove earlier scenes is no longer available and needs to be
+  deliberately replaced with a different one, such as the stability/domesticity beats or the external-threat
+  beats a Flat Arc companion would use), and **Signs and Portents** (linking a character's internal
+  crisis to something visible in her physical surroundings — weather, environmental instability, a piece of
+  Tepenia's own infrastructure failing at the same moment — as a subtler alternative to dialogue for signaling
+  that a companion's personal crisis has stakes beyond herself).
+- **Characters We Love / Characters We Hate** (Chapter 8) — the single richest chapter in the book: a working
+  checklist of concrete, portable sympathy and antipathy levers.
+  - *Sympathy levers*: Altruism calibrated by role (a **Victim** earns pity but also a trace of contempt unless
+    her lack of choice or her courage in enduring is made explicit; a **Savior** earns admiration but risks
+    looking foolish or intrusive if she "rescues" someone who didn't ask for it or wasn't actually failing on
+    her own; a **Sacrifice** earns real admiration only if the cause is shown to matter and no better option
+    existed — an empty or self-glorifying sacrifice reads as waste, not nobility); visible Plan and Purpose
+    (a character actively pursuing something reads as more sympathetic than one merely reacting to events);
+    Courage paired with Fair Play (courage alone isn't enough — a character who wins by cheating or gloats
+    afterward forfeits sympathy even if her cause was just); **Draftee or Volunteer** (a sharp, non-obvious
+    rule: for a thankless, unglamorous task, volunteering earns sympathy and being forced into it reads as
+    weak; for a task that will bring glory or recognition, the reverse is true — modestly waiting to be asked
+    earns more sympathy than pushing to be chosen, since eagerness for glory reads as hubris); Dependability
+    (a kept promise, especially one that's costly to keep, is one of the strongest and most reusable sympathy
+    engines in fiction — directly reinforces the value of binding companion loyalty and promise-keeping beats
+    into arcs); Cleverness without displayed Intelligence (a character who solves problems is loved; a
+    character who visibly knows she's smarter than everyone around her is resented — competence should
+    surprise the character herself as much as the audience); and Endearing Imperfections (a character who is
+    otherwise fully sympathetic needs a few small, specific, believable flaws, or she stops being believable —
+    directly reinforces this project's existing design instinct against costless goodness, extended down to the
+    level of individual characterization rather than just ending design).
+  - *Antipathy levers*: the **Sadist/Bully** distinction (the defining trait isn't a love of causing pain, it's
+    a love of power and control over someone else's ability to determine their own life — a sharper,
+    more usable definition of "irredeemable villain" than pain-infliction alone, and directly applicable to
+    calibrating exactly which District antagonists or DLC villains should be built as genuinely unsympathetic);
+    **Assassin vs. Avenger** (violence and even killing are not automatic antipathy triggers — motive and the
+    victim's deserts determine whether a killing reads as monstrous or heroic; the same act can sit anywhere on
+    the moral spectrum depending on why it was done and who it was done to); the **Self-Appointed/Usurper Rule**
+    (a genuinely sharp, non-obvious finding: claiming a position or authority one was not granted by any outside
+    legitimacy is one of the most reliable ways to destroy audience sympathy — more reliable than the underlying
+    action itself. A character who seizes power is far easier to hate than one who is *given* power by
+    circumstance or by someone else's decision, even if the destination is identical. Directly usable for
+    calibrating District power-grab antagonists and any Doll or human figure whose authority in a questline is
+    contested — whether her authority is legitimately conferred or self-claimed is often a stronger sympathy
+    lever than whether her goals are good); Oathbreaking (breaking a promise reads as one of the most
+    irrecoverable acts of villainy available — reinforces the Dependability sympathy lever from the opposite
+    direction); and the **Understandable Villain** principle (every antagonist is the hero of her own internal
+    story and believes her actions are justified — but this technique has a hard limit: a character established
+    as a genuine sadist, bully, usurper, or irrationally dangerous figure cannot be walked back into audience
+    sympathy without revealing that she wasn't actually that thing after all; compensating virtues can win the
+    antagonist *respect* as a worthy opponent, but not forgiveness for the defining trait itself. Useful as a
+    hard boundary check on any planned redemption arc: confirm which category, if any, the character's defining
+    negative trait falls into before promising the audience a redemption the material can't actually support).
+- **The Hero and the Common Man** (Chapter 9) — a single core claim, useful as a calibration axis distinct from
+  the Lie/Want/Need arc machinery: every workable protagonist must read as simultaneously *Realistic*
+  (believable, relatable, grounded in recognizable detail) and *Romantic* (in Northrop Frye's technical sense —
+  larger-than-life, admirable, someone the audience is willing to be a temporary disciple of). A companion who
+  is only Realistic reads as flat and forgettable no matter how psychologically accurate she is; a companion who
+  is only Romantic reads as unbelievable no matter how impressive her abilities are. The chapter's practical
+  technique for a companion who currently reads as too ordinary: go looking for what's already quietly
+  extraordinary about her — often a virtue she doesn't value in herself and that the story hasn't yet made
+  visible — rather than bolting on a new dramatic trait. Directly usable as a diagnostic when a companion feels
+  underwhelming in playtesting: ask separately "do I believe her?" and "am I in awe of her?" — a weak companion
+  is usually failing one specific side of that pair, not both.
+- **Making the Audience Believe** (Chapter 11) — four techniques for earning belief in a character, several of
+  which are concrete implementation tools for material this file has already established the *why* of:
+  **Elaboration of Motive** (a shallow, single-cause motive reads as cliché; layering in a second, even
+  contradictory motive — and letting later revelations retroactively re-color the meaning of earlier scenes —
+  is a specific technique for delivering a companion's Ghost/backstory reveal as a genuine re-reading of what
+  the player already witnessed, rather than a flat info-dump); **Attitude** (a POV or dialogue character's
+  attitude toward what she's seeing characterizes her at least as much as it describes what's in front of her —
+  directly usable for writing companion reactions/banter to the same District event, where the reaction itself
+  should reveal more about her than the event does); the **Remembered Past**, specifically the caution that a
+  flashback stopping the present action to explain a character is far weaker than a "memory as present event"
+  (a past disclosure that itself changes what happens next, rather than pausing to explain something already
+  decided) — and the **Expectation technique** for the **Implied Past**, arguably the single most portable
+  find in this chapter: a character's Ghost or Wound doesn't need to be told at all if her *learned expectation*
+  is shown instead — a companion who instinctively flinches from an offered kindness, or who braces for
+  punishment after admitting a small mistake, communicates a wound more effectively than the wound's backstory
+  ever could, purely through the mismatch between the harmless present moment and her calibrated reaction to
+  it; and **Justification**, a proportional rule for any unusual companion ability, trait, or capability that
+  will matter later: the more bizarre or story-critical the trait, the earlier and more thoroughly it needs to
+  be planted, and conversely a trait shown only for flavor should not be over-justified, since heavy setup
+  creates a promise that the trait will pay off again later.
+- **Transformations** (Chapter 12) — a four-way taxonomy of *why* a character's change reads as legitimate,
+  complementary to (not a replacement for) Weiland's Lie/Want/Need change-arc mechanics, since it answers a
+  different question: not what the internal engine of the change is, but what kind of claim the story is making
+  about whether "change" happened at all. (1) **Unmasking, not changing** — the character was always this way,
+  and the story either shows her staying consistent throughout or reveals that an apparent late change was
+  really her true nature finally surfacing once circumstances allowed it (Macbeth's ambition was never created
+  by the witches' prophecy, only unlocked by it) — directly useful for a Fall Arc companion where the darkness
+  should read as always having been latent, not manufactured by the story's events. (2) **Changed by outside
+  force** — nature/instinct or environment/treatment reshapes her, and the story's job is to show the causal
+  mechanism clearly (a companion raised in one District who is measurably different after prolonged exposure to
+  another's culture or hardship). (3) **Changed by her own will** — the character actively chooses to become
+  someone new, which is the shape closest to Weiland's Positive Change Arc. (4) **Unexplained/absurd change**
+  — a legitimate but genre-dependent option where change is deliberately left uncaused, which only works if the
+  story signals early that it operates by that rule; sprung on an audience expecting normal causality, it reads
+  as a writing failure, not a deliberate choice. A separate, sharp practical rule for justifying any character
+  change: the more important the character and the bigger the change, the earlier and more thoroughly it needs
+  setup — and if a character has tried and failed to change before (a companion with a prior failed attempt at
+  reform, sobriety, or reconciliation), what actually needs justifying is not the desire to change but
+  specifically *why this attempt succeeds where the others didn't*.
+
+*(Read in full: Chapters 1-3, 5-9, 11, and 12 — all of Part I "Inventing Characters" and Part II "Constructing
+Characters," which is the book's material on character psychology and audience response. Chapter 4 ("Making
+Decisions" — naming conventions and consistency-bible practice) and Chapter 10 ("The Comic Character" — controlled-
+disbelief technique for comedy specifically) were read but deliberately excluded above: Chapter 4's practices
+are prose-craft housekeeping this project already handles through its own canon/megasheet discipline, and
+Chapter 10 is a comedy-writing technique tangential to the psychological-depth focus of this methodology, though
+it may be worth a second look if a specifically comic-relief companion archetype is ever designed. Part III
+(Chapters 13-18, "Performing Characters") was sampled but not read in depth and is scoped out entirely as
+prose-narration-voice mechanics — first/third person, tense, distance in time, unreliable narrators — that
+apply to written fiction, not to this project's branching-dialogue, fixed-camera medium.)*
