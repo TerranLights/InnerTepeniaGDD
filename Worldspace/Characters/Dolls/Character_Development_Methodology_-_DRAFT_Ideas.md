@@ -3087,3 +3087,103 @@ it may be worth a second look if a specifically comic-relief companion archetype
 (Chapters 13-18, "Performing Characters") was sampled but not read in depth and is scoped out entirely as
 prose-narration-voice mechanics — first/third person, tense, distance in time, unreliable narrators — that
 apply to written fiction, not to this project's branching-dialogue, fixed-camera medium.)*
+
+## From *Create A Character Clinic* — Holly Lisle
+
+A workbook-style craft book (2006) built around two distinct tools: a needs-based interrogation system for
+character invention (Section One), and — the book's standout, genuinely novel contribution — a named catalogue
+of common characterization failure modes with a sharp meta-principle attached to each (Section Three). Section
+Two ("Bring Them to Life" — first-person interview, showing character through exposition/dialogue/action) is
+scoped out as a lighter restatement of show-don't-tell material already captured in depth from Card and Corbett.
+
+- **Compelling Need via Maslow's Hierarchy** — a genuinely distinct organizing axis from the Enneagram-rooted
+  motivational typing this project already relies on heavily. Rather than asking "what type of person is she"
+  (Enneagram's question), this tool asks "which literal tier of unmet human need is most urgently driving her
+  right now" (Physiological → Safety → Love/Belonging → Esteem → Self-Actualization), and treats every
+  believable character as being organized around one **Compelling Need** — the single thing she wants or needs
+  to escape badly enough to risk what she values most to get it or get away from it. The book's own
+  "dart-throw" technique — pick an arbitrary point on the hierarchy and build backward from there — is a useful
+  fast unsticking method for a companion whose core drive isn't yet clear. Two sharper findings inside the
+  same framework: (1) a need can be **pursued** (moving toward something wanted) or **fled** (avoiding a
+  remembered pain), and these aren't symmetrical — fleeing implies a specific prior event that must eventually
+  surface, while pursuing can run on pure aspiration; (2) most people are motivated by some mix of pain-avoidance
+  and pleasure-seeking, and a reliable way to generate a genuine dramatic bind for a companion is to construct a
+  scenario where getting the thing she wants specifically requires her to walk through the very pain she's
+  spent the story avoiding — forcing the two poles of her own motivation into direct conflict with each other,
+  rather than pitting her against a purely external obstacle.
+- **The Public/Private Values Gap** (from the Moral Stance chapter) — a compact, sharp diagnostic distinct from
+  the "everybody is the hero of their own story" material already captured from Card: interrogate a character's
+  private moral code (what she'll cheat at, lie about, or stay silent on when no one's watching) *against* her
+  public moral code (what she'll publicly claim to believe, publicly condemn, or publicly perform), and treat
+  the gap between the two — not either one alone — as the character detail worth writing. A companion whose
+  private and public values are identical reads as flat; the specific place where she'll be self-righteous in
+  public about something she quietly permits herself in private (or the reverse — quietly living up to a
+  standard she'd never claim credit for) is more diagnostic of who she actually is than either column alone.
+- **The Sins of Characterization** (Section Three) — the book's real contribution: fifteen named, commonly-
+  committed characterization failure modes, organized under Exposition, Dialogue, and Action, each built around
+  the same sharp meta-principle — *almost none of these are absolute rules; nearly every one of them is a
+  legitimate technique under specific narrative conditions, and only becomes a "sin" when deployed as a
+  reflexive habit rather than a deliberate choice matched to what the scene actually needs.* That meta-principle
+  is itself worth keeping as a standing check on this file's other material: any characterization "rule"
+  captured elsewhere in this methodology should be understood as conditional in the same way, not absolute.
+  - *Sins of Exposition*: **The Core Dump** (a wall of background information that stops the story to deliver
+    it — legitimate only at genuine time-skip transitions, never as a way to front-load a companion's
+    backstory); **Dust and Cobwebs** (an exhaustive inventory of a character's appearance, possessions, or
+    surroundings — legitimate specifically when the pile-up of detail itself signals that the character or
+    situation is abnormal: crazy, dangerous, spooky, offbeat, or a situation nobody would willingly choose,
+    embedded in action rather than presented as a static list); **Mirror, Mirror on the Wall** (a character
+    studying her own reflection as a delivery mechanism for physical description — nearly always a dead cliché,
+    legitimate only when the moment reveals something about her psychology or relationship to herself rather
+    than her measurements); **Behemoth** (a runaway, breathless, borderline-unpunctuated sentence — legitimate
+    for anxious introspection, genuine danger, or a chase, and dangerous specifically because heavy blocks of
+    unbroken prose measurably lower a reader's willingness to keep reading, a concrete pacing caution); and
+    **Superman vs. The Gremlin** (a flawless, invulnerable protagonist against a wholly irredeemable antagonist,
+    or the reverse — legitimate only if paired with two specific fixes: give the protagonist one quality she
+    genuinely shares with the antagonist's worst trait, and give the antagonist one quality she genuinely shares
+    with the protagonist's best trait, so appearance never substitutes for what each character actually
+    believes and chooses — directly usable as a design check for the villain/anti-hero supplement sheet, and a
+    concrete implementation of Card's already-captured Understandable Villain principle).
+  - *Sins of Dialogue*: **The As You Know, Bob** (two characters reciting facts they both already know, purely
+    for the reader's benefit — legitimate specifically when the recitation itself is the point: characters who
+    have shared a hardship revisiting it together to reinforce their bond or mark their shared distance from a
+    common enemy, which is a real, recognizable human behavior, not just an info-dump); **Headless Horsemen**
+    (dialogue stripped of all tags, action, and physical grounding — legitimate for fast escape/chase exchanges,
+    heated arguments where cross-talk itself communicates the chaos, banter that's strong enough to carry
+    itself, or a deliberate, brief withholding of who's speaking); **Coffee and a Bagel** (aimless small talk
+    with no real content — legitimate, and can become genuinely tense, specifically when the mundane
+    conversation is a visible surface over something dangerous or significant happening underneath it, provided
+    the reader is given some signal — a preceding or intercut scene, a visible tell — that the pleasantness is a
+    mask); **Seltzer** (dialogue included purely because the writer thought it was clever or fun to write, with
+    no bearing on the scene — legitimate as long as something genuinely important is also happening in the same
+    scene, so the "fizz" doesn't obscure a scene that has nothing else going on); and **Elephant at the Tea
+    Party** (characters conspicuously talking around the one thing that actually matters — a failure mode when
+    the writer has simply lost track of the stakes, but a genuine technique when used deliberately: to signal
+    that characters are keeping secrets from each other, to reveal a character's true feelings through what
+    they pointedly don't say, or to let two characters' separate compelling needs collide without either being
+    resolved in the moment).
+  - *Sins of Action*: **The Ben Franklin** (step-by-step narration of mundane daily routine with no dramatic
+    weight); **The Snowman** (a dramatic, high-stakes setup that fizzles with no real consequence — "the author
+    chickened out"; directly reinforces this project's own no-costless-anything design instinct, applied here to
+    individual dramatic beats rather than endings specifically); **Door, Two Guns, No Ammo** (escalating a
+    dramatic action sequence without having planned how the character actually gets out of it, forcing either an
+    implausible rescue or an unearned death — a concrete caution to know a companion's actual capabilities
+    before writing her into a crisis that requires them); **Naked Chick at the Opera** (a tonal or genre-breaking
+    surprise dropped in with no narrative context, which reads as a writing failure rather than a twist — a
+    surprise needs a foundation, not just novelty); and **The Brain Transplant** (a character established as
+    incompetent suddenly displaying impossible brilliance, or the established genius suddenly acting
+    inexplicably stupid, purely to resolve the plot — presented as a pure, exceptionless sin with no legitimate
+    use case, unlike every other entry in the catalogue. This is the same underlying failure as Bell's already-
+    captured Deus Ex Machina caution, but viewed through the character-consistency lens rather than the plot-
+    mechanism lens: the fix isn't just "earn the rescue through prior action," it's "never let a character solve
+    a problem using a capability the story hasn't established she has").
+
+*(Read in full: Section One's opening framing and the Compelling Need chapter (Maslow's Hierarchy, the
+Compelling Need Chart, pursue/avoid and pain/pleasure mechanics), the Moral Stance chapter (Public/Private
+Values Gap), and all of Section Three (all fifteen named Sins across Exposition, Dialogue, and Action, in full,
+including every worked example and its legitimate-use conditions). Sampled but not read in comparable depth:
+the Work & Play, Past, Present, Future, Friends/Enemies & Lovers, and Culture/Religion/Education chapters of
+Section One — each follows the identical chart-plus-worked-example pattern as the Compelling Need chapter, and
+the specific interrogation questions they contain overlap substantially with backstory/Ghost material already
+captured in depth from Corbett, Weiland, and Card; skimmed enough to confirm no additional distinct concepts
+were present. Section Two ("Bring Them to Life") was skipped entirely as a lighter restatement of
+show-don't-tell material already captured. Disposition not yet decided.)*
