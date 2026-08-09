@@ -8,6 +8,36 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+## This Week's Absolute Top Priority *(set 2026-08-09, through ~2026-08-16)*
+
+Three items the developer named as the most direly urgent work of the week, in this order. See
+`project_weekly_top_priorities_2026_08_09` memory for full context — these take precedence over everything else
+in this file, including the rest of "High Priority" below, until done or explicitly reprioritized.
+
+- [ ] **1. Historical vignette audit against Robot Universals + national canon**
+  Take the completed *Robot Universals* reference book (`TepenianUniverseTimeline/Reference/Robot_Universals/`)
+  together with everything now known about the country/national canon, and re-check the existing historical
+  vignettes to see whether they still hold up — and whether they can now be improved given everything learned
+  since they were written. Independent of items 2-3 below; can run in parallel with them.
+
+- [ ] **2. Synthesize a working character-creation methodology model**
+  Turn the accumulated `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md`
+  brainstorm into an actual, usable methodology document — not just a running scratchpad of distilled book
+  notes. This is the same underlying gap as the existing "Character Development Methodology" entry further
+  down this file, now elevated to top priority. The ongoing book-mining effort feeding that draft file becomes
+  secondary to this synthesis step starting now — mining should only continue alongside or once synthesis is
+  underway, since synthesis may reveal exactly which remaining books are still worth reading.
+
+- [ ] **3. Re-pass existing Companion/Romance questlines using the new methodology**
+  Once item 2 produces a working model, run it against the Companion and Romance questlines already written
+  for the existing Dolls, to check whether they still hold up and whether they can now be improved with the
+  sharper toolkit. Depends on item 2's output. Broader in scope than the existing "Doll Character Spec /
+  Companion-Romance backstory depth" entry further down (which lists only the six companions still missing
+  this pass entirely) — this is a re-pass across *all* existing companion/romance questlines, not just the
+  unfinished ones.
+
+---
+
 ## High Priority
 
 - [x] **DLC city Physical Infrastructure deep-dive — Methodology #1 AND Methodology #2 COMPLETE for all 34 non-Byrd cities**
