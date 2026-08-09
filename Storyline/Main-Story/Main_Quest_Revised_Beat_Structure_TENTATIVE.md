@@ -108,7 +108,15 @@ friction/favor state (and the player's choices at and around the Hub climax) can
 - **A purely negative ending for Concordia as a whole — the city left substantially worse off, with nothing
   gained — should be a real, reachable outcome, but a minority one**, reserved for genuinely poor accumulated
   standing (very high friction, badly mismanaged relationships across the districts) rather than something a
-  reasonably careful playthrough stumbles into.
+  reasonably careful playthrough stumbles into. **This is not a hypothetical category — it is the existing
+  Pariah Failsafe system**, confirmed 2026-08-09: `Storyline/Endings/Secret-Endings/Failsafes.md` (27 endings,
+  reachable when the player holds Hated or Vilified reputation with all 13 districts/factions simultaneously)
+  and the related `Near_Pariah_Endings.md` (6 endings, for the 10–12-hostile-district band just short of full
+  Pariah). The "purely negative ending" bullet in this section's required distribution is describing the
+  Pariah/Near-Pariah system, not proposing a new category — this section's job is to confirm that system
+  already satisfies the "minority, not majority" requirement (27+6 failsafe endings against 116 total endings
+  project-wide is a real minority share) and to note it as the canonical answer whenever "what does a purely
+  negative full-game ending actually look like" comes up.
 - **Bittersweet or mixed endings — Concordia surviving and continuing, but visibly changed, at real and named
   cost — should be the most common ending category by a real margin**, reachable across a wide band of
   accumulated-friction states, not narrowly gated to only the most extreme mid-range outcomes.

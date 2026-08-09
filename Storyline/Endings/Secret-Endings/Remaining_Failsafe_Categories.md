@@ -23,6 +23,23 @@ All endings use the standard treatment:
 
 **All six categories complete.**
 
+**Flagged 2026-08-09 — Pariah Failsafe count (27, in `Failsafes.md`) may be worth revisiting, not necessarily
+expanding yet.** This tracker's own "Ending Count — Full Project" table below lists Pariah Failsafes as a fixed
+27 with no open/TBD marker, and the six categories above are separately confirmed complete — nothing here is
+currently flagged as in-progress or incomplete. However: the project now has an actual repeatable methodology
+for constructing purely negative endings specifically (K.M. Weiland's three-way Negative Change Arc taxonomy —
+Disillusionment, Fall, Corruption — captured in `Worldspace/Characters/Dolls/
+Character_Development_Methodology_-_DRAFT_Ideas.md`, and formally codified as the project's "No Good Endings"
+law at every scale including full-game scale in `Storyline/Main-Story/
+Main_Quest_Revised_Beat_Structure_TENTATIVE.md`), which didn't exist when the 27 Pariah Failsafes were
+originally designed. Dev's own framing: this may allow for a fair number more Pariah failsafes than currently
+exist, now that there's a real construction method for negative endings specifically, rather than the 27
+having been designed ad hoc. **This is a flag, not a decision to expand** — the 27 stay as-is until a
+deliberate future pass actually applies the Weiland taxonomy against the existing Pariah trigger space (Hated/
+Vilified across all 13 districts) to see whether additional, genuinely distinct negative endings emerge, the
+same way the district/DLC/full-game No Good Endings sections above were built by applying the methodology
+deliberately rather than by ad hoc addition.
+
 ---
 
 ## Already Decided NOT to Design
