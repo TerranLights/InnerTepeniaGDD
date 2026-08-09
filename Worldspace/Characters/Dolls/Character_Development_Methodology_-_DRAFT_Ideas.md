@@ -19,6 +19,48 @@ scoped narrowly to one mechanic (romance dealbreaker traits), not general inner-
 
 ---
 
+## Standing Scope Note: This Methodology Applies Fully to Non-Linear (Game) Storytelling
+
+**Clarified by dev (2026-08-09).** Every book mined into this file so far is craft theory written for linear
+media — novels, screenplays, film, TV — where a story unfolds in exactly one fixed order for every reader or
+viewer, and where beats are conventionally pinned to specific percentages of total runtime (the Inciting Event
+at 12%, the Midpoint at 50%, the Third Plot Point at 75%, and so on). Inner Tepenia and the planned Outer
+Tepenia trilogy are non-linear: player agency, branching questlines, and replayability mean there is no single
+fixed order or fixed runtime a companion's story unfolds across.
+
+**This does not mean a separate methodology needs to be built for non-linear storytelling.** Dev's explicit
+correction: every technique captured in this file — the Lie, the Ghost, Want vs. Need, the Characteristic
+Moment, the Midpoint's Moment of Truth, the Third Plot Point's Ultimate Choice, chiastic mirroring, the Six
+Life Arcs and their shadows/flat states/antagonists, all of it — is **just as valid and just as applicable in
+a non-linear setting as in a linear one.** The content of the methodology is not linear-specific. Only one
+assumption baked into the linear-media source material doesn't carry over cleanly: **fixed, predictable timing.**
+
+**The actual adjustment needed, going forward:** define every beat by its *functional role* in a Doll's arc,
+never by a fixed percentage of anything. "The Midpoint" isn't a timestamp at the literal halfway point of a
+companion's total content — it's whichever specific scene is the one where she has her Moment of Truth and
+shifts from reactive to active, wherever in the player's actual playthrough that scene happens to land. The
+same holds for every other beat: the Inciting Event is whichever scene first cracks her Normal World, not a
+scene required to occur at some specific percentage-of-content mark. This is a small, mechanical translation,
+not a conceptual rebuild.
+
+**Branching and replayability don't break this either — they multiply it.** A Dual-Outcome Perk questline with
+several possible resolutions isn't one arc with an ambiguous ending; it's *several complete arcs*, one per
+branch, each with its own full beat structure (its own Third Plot Point Ultimate Choice, its own Climax, its
+own Resolution/New Normal World) — the branching just means a Doll can have more than one fully-formed
+possible arc simultaneously on file, not that any single arc's own internal structure gets to be incomplete.
+Likewise, a Doll's Lie, Want, Need, and Ghost are fixed facts about who she is, independent of the order in
+which a given player happens to encounter her content — the beat structure holds *within* whatever order a
+specific playthrough actually surfaces, since it's about her internal journey, not about imposing a fixed
+reading order on the player.
+
+**How to apply, right now:** treat every technique already captured in this file as directly usable for
+Inner Tepenia's actual non-linear content, with the single standing translation above always in force — replace
+any percentage-based beat placement with role-based beat identification, and treat each branch of a Dual-
+Outcome questline as its own complete arc rather than trying to force one arc to cover every possible outcome
+at once.
+
+---
+
 ## Candidate mechanisms, as of 2026-08-08
 
 - **Enneagram-Rooted Contradiction.** Every companion already has a type/wing/instinct assignment. Inner
