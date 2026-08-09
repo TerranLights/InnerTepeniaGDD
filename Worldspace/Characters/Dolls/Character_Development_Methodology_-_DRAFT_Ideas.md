@@ -2085,13 +2085,278 @@ companion who "won" her Hero Arc in the base game isn't meant to stay heroic-and
 appearance should logically involve her being asked to let go of that very identity in favor of the next stage
 (Queen).
 
-**Full beat-by-beat structural templates exist for each of the six arcs** (sampled in depth via the Hero Arc:
-Normal World/Beginning → Inciting Event/Call to Adventure → First Plot Point/Crossing the Threshold, etc.),
-essentially *Creating Character Arcs*' own beat structure re-skinned with archetypal specifics and worked
-examples per beat. Not reproduced here in full for all six arcs (see the disclosure at the end of this entry)
-— the Master List table above and the Hero Arc sample together give the reusable shape; building out any one
-arc's full beat sheet for a specific Doll is a matter of applying the already-captured *Creating Character
-Arcs* beat structure with this book's specific Lie/Truth/setting/antagonist content substituted in.
+**Full beat-by-beat structural templates exist for each of the six arcs** — all six now read in complete
+depth, not just sampled via the Hero Arc. Each follows the same underlying *Creating Character Arcs* skeleton
+(Normal World → Inciting Event → First Plot Point → First Pinch Point → Midpoint → Second Pinch Point → False
+Victory → Third Plot Point → Climax → Climactic Moment → Resolution) re-skinned with archetype-specific content.
+Condensed below, beat by beat, with the psychologically load-bearing detail kept and the film/book examples
+mostly trimmed for space (a handful are kept where the example is itself clarifying).
+
+**Maiden Arc — Coming of Age.** *Protected World → Real World.*
+- **Beginning (Provided For But Unprepared):** still inside a Protected World that increasingly chafes; rules
+  followed to be rewarded/avoid punishment, not out of conviction.
+- **Inciting Event (Predator's Proposal):** an outside force arrives offering an apparent way out — sometimes
+  literally dangerous, sometimes just "grown-up," always something her Too-Good Mother/Naïve Father (also
+  internal aspects of her own naïvety, not just literal family) fail to see through or are too eager to accept.
+- **First Plot Point (Protector Arrives):** she accepts the proposal and takes an irreversible first step out
+  of childhood; a Protector figure (external or the rising of her own inner Protector) arrives — not her
+  savior, a catalyst for her own change.
+- **First Pinch Point (Predator Sees Through Disguise):** as she quietly individuates, the Predator notices and
+  escalates control/threat in response.
+- **Midpoint (Identities/Loyalties/Wants Conflict):** a Moment of Truth forces a choice between who she used to
+  be and who she's becoming — she claims real responsibility for a choice for the first time.
+- **Second Pinch Point (Unmasked):** her transformation is discovered by her old world; people who don't want
+  her to change try to keep her "for her own good."
+- **False Victory (Bride Price):** the Predator raises the stakes/cost of returning, tempting her to believe
+  the sacrifice for growth might not be worth it after all.
+- **Third Plot Point (Marriage Treaty Threatened — "Wandering in the Wilderness"):** caught fully between
+  worlds, unable to return to childhood, not yet safely arrived at adulthood — Kim Hudson's evocative term for
+  this liminal state, generalizable to any archetype's Third Plot Point.
+- **Climax (Fights Back):** she refuses to surrender her hard-won self-understanding.
+- **Climactic Moment (Comes of Age):** triumph, with or without a Protector's help — she is now an equal.
+- **Resolution (Kingdom Renewed for Another Generation):** restrictive figures cast off; she ensures the tribe's
+  continuation. **Note:** the Predator and the Protector are not necessarily different characters — a single
+  love-interest figure can *be* the Predator (Rochester in *Jane Eyre*), which is worth keeping as a live option
+  rather than defaulting to two separate figures.
+
+**Hero Arc — Slaying the Dragon.** *Normal World → Adventure World.*
+- **Beginning (Complacent But Unfulfilled):** a mature young adult, chafing against an unlived life but not yet
+  brave enough to leave; rumors of a Dragon threatening the Kingdom exist but haven't touched him personally yet.
+- **Inciting Event (Call to Adventure):** a stranger or a strange discovery draws him in against his tribe's
+  advice; he's offered a quest in service to the Kingdom's need and initially resists it out of complacency.
+- **First Plot Point (Crosses the Threshold):** the Kingdom's trouble becomes personal and undeniable (someone
+  loved is hurt, or the village itself is attacked); he leaves through a Door of No Return, excited despite his
+  grief, though his grasp of power is still immature.
+- **First Pinch Point (Motives and Actions Questioned — "Who Do You Think You Are?"):** pushback from mentors,
+  allies, or the antagonist forces him to confront that he's been *playing* at being a Hero rather than actually
+  being one; he doesn't yet know who he really is.
+- **Midpoint ("Remembering" Who He Is):** an ambiguous confrontation with the antagonist yields a Moment of
+  Truth — a real glimpse of his own power and identity — but grandiosity and the lure of unchecked power remain
+  live temptations even as those who love him keep watching to see how he'll actually use his growing strength.
+- **Second Pinch Point (Betrayal — "It's All Your Fault"):** betrayed by someone trusted (an ally, or an enemy
+  in disguise), and blamed for a real setback — sometimes fairly, sometimes as the target of others' resentment
+  toward his earlier carelessness — forcing deeper reflection on his own values.
+- **False Victory (Means, Not Ends):** a desperate gambit wins against the Dragon, but only by compromising
+  everything he's learned so far — a hollow victory bought through the wrong means.
+- **Third Plot Point (All Is Lost):** a great loss, possibly of someone he loves, possibly of himself
+  symbolically or literally — forcing the real choice between the immature, power-hungry self he was and
+  something new; the final integration of power and love comes down to this single choice.
+- **Climax (Resurrection):** because this is a Positive Change Arc, he chooses rightly — life and love — and
+  rises again, this time willingly facing even death for the sake of what he now understands matters.
+- **Climactic Moment (Dragon Vanquished):** his inner transformation is what makes the literal defeat of the
+  antagonist possible — the outer victory is the visible proof of the inner one.
+- **Resolution (Kingdom at Peace):** he returns with the healing elixir, now fully initiated, taking on real
+  responsibility within the Kingdom rather than simply going home unchanged.
+
+**Note:** the Hero's love-interest figure functions specifically to teach him the capacity for sacrifice, and
+"the damsel he rescues" is explicitly framed as a symbolic externalization of a part of his *own* psyche, not
+simply a separate person to be saved — a useful reminder when designing a Hero-arc Doll's own supporting cast:
+they can double as literal externalizations of her internal stakes, not just independent characters she happens
+to interact with.
+
+**Queen Arc — Defending the Kingdom.** *Domestic World → Monarchic World.*
+- **Beginning (Dangers of Dependency):** fulfilled but at risk of over-identifying with her dependents'
+  need for her, binding them too tightly instead of letting them individuate.
+- **Inciting Event (Enemies at the Door):** the Kingdom is threatened and existing leadership (King) proves
+  unfit or unwilling; she refuses the Call to Leadership, hoping the existing King can still be convinced to act.
+- **First Plot Point (Entering the Castle):** she reluctantly leaves her Domestic World to demand protection
+  from the King, not yet ready to take charge herself.
+- **First Pinch Point (Children Clamor for Action):** her own dependents trust her more than the King and want
+  her to act; she resists, still hoping for the existing system to work.
+- **Midpoint (Leading the Charge):** a Moment of Truth — her love alone isn't enough, and she can't rely on
+  others either; she must lead her own people into the fight, not do it alone (a sharp contrast with the Hero's
+  solitary triumph) and not shield them from it either.
+- **Second Pinch Point (Children Become Adults):** her dependents individuate in response to her example,
+  demanding responsibility of their own.
+- **False Victory (Protects Her Children):** she makes a deal that protects them at the cost of their
+  independence — a failure of leadership disguised as care, drifting toward Sorceress/Tyrant territory.
+- **Third Plot Point (Kingdom in Chaos):** her attempt to protect-without-truly-leading plunges the Kingdom into
+  crisis as the external threat breaches the borders.
+- **Climax (Releases Her Children, Accepts Her Crown):** she trusts her people to take up their own parts and
+  willingly leaves the Domestic World behind for good.
+- **Climactic Moment (Kingdom Is Saved):** working *together* — not alone — the threat is repelled.
+- **Resolution (Kingdom Prospers):** she ascends fully into Ruler; her former dependents have grown up alongside
+  her. **Note:** unlike the Maiden and Hero, who resist their arc out of fear, the Queen resists specifically
+  out of *contentment* — she's earned her current position and doesn't want it to end, a genuinely distinct
+  psychological driver worth keeping separate from fear-based resistance when writing a mature, satisfied
+  companion's reluctance to grow further.
+
+**King Arc — Becoming the Sacrifice.** *Regal World → Preternatural World.*
+- **Beginning (Replete But Vaguely Unsatisfied):** the height of temporal power, peace and prosperity achieved,
+  but an inarticulate sense that something must still change.
+- **Inciting Event (Plea for Action Against Unprecedented Cataclysm):** an unprecedented, explicitly
+  supernatural/non-worldly threat arrives; he initially dismisses it as just another physical problem he can
+  solve as he always has.
+- **First Plot Point (Confronts Cataclysm With Administrative/Military Might):** his usual methods entangle
+  rather than solve the threat; he begins to comprehend his own mortality for the first time.
+- **First Pinch Point (Sword Breaks — the Old Methods of Success Aren't Working):** he loses his greatest symbol
+  of power in a failed gambit; doubt spreads among his subjects and within himself. A precisely-named beat worth
+  keeping as its own concept: a mature, previously-successful companion's established competencies specifically
+  fail against *this* threat, forcing recognition that conquest isn't the answer this time.
+- **Midpoint (Witnesses True Supernatural Nature of Cataclysm):** a Moment of Truth — his power means nothing
+  against this force; it demands not victory but propitiation. His subjects only see him as suddenly impotent.
+- **Second Pinch Point (Rebellion — Subjects Lose Faith):** as he begins shedding his kingly identity to
+  understand the threat, some subjects lose faith and actively revolt; only the already-maturing Heroes and
+  Queens around him remain loyal. A useful sorting mechanic: a leader's visible vulnerability is what separates
+  opportunists from genuinely loyal supporting cast.
+- **False Victory (Tries to Stop the Cataclysm With Kingly Might):** caving to the desire to avoid self-
+  sacrifice, he meets it in the field with force and achieves only a small, insufficient success.
+- **Third Plot Point (Kingdom on the Brink):** true peril; subjects reveal their true colors, some proving
+  scoundrels and some proving worthy successors; he recognizes what he must do.
+- **Climax (Bequeaths the Crown, Offers Self as Propitiation):** he passes his crown and offers himself,
+  divested of all royalty, to the threat — over the horrified objections of those who don't understand.
+- **Climactic Moment (Sacrifices to Ensure Kingdom's Survival):** the sacrifice is accepted; the Cataclysm ends.
+- **Resolution (Departs Liberated Kingdom):** he departs — literally or symbolically — no longer King but Elder.
+  **Note:** the Cataclysm is explicitly *not* evil — it's morally neutral, representing the plain demands of
+  Life and Death that no amount of strength can out-fight, only accept. A distinct arc-shape from every other:
+  victory here means surrender, not conquest.
+
+**Crone Arc — Facing Down Death.** *Uncanny World → Underworld.*
+- **Beginning (Lure of Retirement):** withdrawn, diminished, resigned rather than at peace — "earned rest" that
+  is really lethargy and unprocessed grief for the power/identity just surrendered as King.
+- **Inciting Event (The Dream of Death):** a premonition of a coming imbalance between Life and Death — a
+  Death Blight the wider world can't yet perceive as anything but ordinary trouble.
+- **First Plot Point (Boards the Ferry):** drawn out of retirement (often by a younger Hero's need or her own
+  love for them), she leaves the Kingdom for the literal or symbolic Underworld, doubtful she can accomplish
+  anything but willing to try one more good turn.
+- **First Pinch Point (Death Is Not Fooled by Her Little Tricks):** her small magic gets her only so far; her
+  true weakness turns out to be one of insight/perception, not physical frailty — startling, but also revealing
+  a broader power she hadn't known she had access to.
+- **Midpoint (Chooses to Seek Life):** a Moment of Truth — the choice between giving up and rising again "in a
+  new capacity, not King and not Crone, but the beginning of a Mage." She chooses to fight the Blight, forcing
+  the antagonist to notice her as a real spiritual power for the first time.
+- **Second Pinch Point (Temptation):** offered false immortality — the promise that Death will never touch her
+  — by a Tempter figure; she refuses outright use but doesn't yet fully reject it either, keeping it "in her
+  pocket."
+- **False Victory (Seeks Physical Immortality):** provoked by anger at the suffering and stupidity of those she
+  loves, she partially succumbs to the immortality temptation, unleashing darkness even without completing the
+  process.
+- **Third Plot Point (Death Prevails):** the Blight is loosed in full; Life is not erased but *zombified* — a
+  worse fate, since the line between Life and Death itself blurs. She recognizes her own choice unbalanced things.
+- **Climax (Embraces Death):** deeply humbled, she casts away the offered immortal power and recognizes Death
+  not as an enemy but as Life's necessary partner — submitting willingly to transformation.
+- **Climactic Moment (Death Transformed):** her acceptance transforms her from feeble Crone into a powerful
+  Mage; the Blight lifts, though Death itself is never banished (nor should it be).
+- **Resolution (Reintegrates Into a Renewed Kingdom):** formally honored but changed beyond full understanding
+  by those around her — she doesn't return to the throne but departs again on a wider mission (the Mage's own
+  arc). **Note:** this is the one arc explicitly built around *disempowerment leading to re-empowerment* rather
+  than power accumulation — a structural inversion of the other five, useful for any companion whose established
+  power/identity has already been stripped away by prior events and whose real test is choosing to rise again
+  rather than settle into comfortable, resigned diminishment.
+
+**Mage Arc — Joining the Divine.** *Liminal World → Yonder World.*
+- **Beginning (Powerful But Limited):** enlightened, revered, roving without a fixed home, careful of his own
+  power, seeing himself as a servant rather than a master, already at peace with Death (though not yet with Evil).
+- **Inciting Event (Revelation/Rise of Evil):** learns of Evil's return; may try to enlist a Hero, who dawdles,
+  forcing him to act alone.
+- **First Plot Point (Climbs the Mountain):** ascends to a Yonder World only he can fully perceive or comprehend;
+  confronts Evil directly or a Sorcerer serving as its conduit.
+- **First Pinch Point (Evil Infiltrates the Camp of Man):** ordinary people's courage fails under this pressure;
+  compromises are made; he returns to counsel and mentor, deeply invested in their fate even as he can't make
+  their choices for them.
+- **Midpoint (Confronting Evil — and Also Evil in the Heart of Man):** a Moment of Truth — he realizes he cannot
+  defeat the evil inclinations in other people's own hearts; he can only clear a fair path and then step back to
+  hope. This is the one arc's climax that is fundamentally about restraint rather than direct decisive action.
+- **Second Pinch Point (Heart Is Broken by Man's Suffering):** those he loves are betrayed and broken; he can
+  comfort but cannot fix it, and it costs him.
+- **False Victory (Refuses to Interfere With Man's Choices — and Man Chooses Wrong):** he wins the inner battle
+  to let others choose freely, and they choose wrong, with real fallout he must stand back and witness.
+- **Third Plot Point (Brink of Annihilation):** the Kingdom faces literal death in the outer conflict; he faces
+  his own final transformation — the full step into the Yonder World.
+- **Climax (Meeting With the Divine):** confronted by the Divine, raised above mortal limitation; finishes what
+  began in the Crone Arc, now leaving Death for Life rather than the reverse.
+- **Climactic Moment (Evil Redeemed/Destroyed):** he does not personally win the final battle — his presence and
+  prior guidance inspire *others* to do so.
+- **Resolution (Kingdom Renewed for Another Cycle):** he departs, in sorrow but without regret, having "fought
+  the good fight." **Note:** Weiland herself struggled to find true Mage-Arc-as-protagonist examples — this
+  arc is far more often embodied as a Mentor supporting *someone else's* story than as a standalone companion
+  questline in its own right; treat it as the least likely of the six to be a full dedicated arc for a Doll, and
+  the most likely to appear as texture within a younger companion's story instead. Also worth keeping as its
+  own sharp, portable metaphor: the "clipped cocoon" — helping a struggling protégé too much, out of love,
+  denies them the very struggle that would have strengthened them; the Mage's defining trial is restraint, not
+  action.
+
+### The Twelve Shadow Archetypes, Individually — full psychological profiles
+
+Beyond the passive/aggressive/core-virtue table above, each of the twelve shadows has a distinct, specific
+psychological shape worth keeping on file individually rather than only as a compact label:
+
+- **Damsel (Maiden's passive shadow):** carries an unformed, unnamed fear rooted in lifelong dependence; her
+  "goodness" is mistaken for maturity by others (and sometimes by herself) because it looks like caution, but
+  it's actually a refusal to make *any* choice. Genuinely dangerous specifically because she is unprepared: when
+  the day finally comes that no one rides in to save her, her supposed maturity leaves her defenseless.
+- **Vixen (Maiden's aggressive shadow):** more conscious than the Damsel — she recognizes her antagonists and
+  resents restraint — but lacks the courage for true individuation, so she fakes power through manipulation
+  that collapses the instant someone stronger pushes back. Her core wound is **devaluing and "selling" her own
+  worth** rather than claiming genuine sovereignty; her healthy-arc lesson is birthing real self-esteem and
+  self-respect. Can devolve further into the Bully rather than growing into the Hero if left unaddressed.
+- **Coward (Hero's passive shadow):** hides genuine fear behind "false maturity" — a rationalized abdication of
+  responsibility ("someone should stay behind"). Critically: **his beliefs literally comprise the Hero's own
+  Lie** — the Coward isn't a separate psychology, he's the externalized form of the protagonist's unresolved
+  fear (seen in supporting characters like Ron Weasley or Threepio, who dramatize the Hero's own inner Coward).
+- **Bully (Hero's aggressive shadow):** power that is "brittle," not free-flowing — "stuck in hatred" where the
+  Hero arcs into love. Becomes, through cycles of abuse, "the very thing he himself fears and hates." Retains a
+  flicker of genuine defiance/personal power that never fully surrenders — this retained stubbornness is
+  precisely what preserves hope for eventual redemption, worth reframing as a seed of potential rather than
+  purely a liability when writing a Bully-type companion.
+- **Snow Queen (Queen's passive shadow):** may have gone through the *motions* of a completed Hero Arc —
+  chronologically adult, outwardly responsible — without ever doing the real internal work; a "sleepwalker"
+  down a path laid out by others rather than the true quest her heart called her to. Her deepest fear is
+  specifically **love itself**, because it demands the maturity/responsibility/reality she's spent her life
+  avoiding. Distinctively, her redemption is catalyzed *externally* — she must be "thawed" by someone choosing
+  to fight for her — rather than through her own unprompted effort, a useful specific dynamic for a
+  romanceable Snow-Queen-type Doll.
+- **Sorceress (Queen's aggressive shadow):** the "pseudo-sacrifice" trap — apparent selflessness that secretly
+  demands endless repayment ("if they sacrifice for their children, the children must then pay and pay and pay
+  — by being appropriately grateful, by living the life the parents wish they had lived"). Specifically and
+  dangerously **traps her own dependents in perpetual dependence**, actively sabotaging their own Maiden/Hero
+  arcs to keep them close — a multi-generational corruption mechanic, not just personal failure. Can escalate
+  into full Tyrant if unaddressed.
+- **Puppet (King's passive shadow):** holds real, often inherited or ill-earned power without the maturity to
+  wield it responsibly — a dangerous "spoiled brat" entitlement precisely because power and immaturity are
+  paired. Often not fully his own fault (thrust into power before completing earlier arcs); his most honest fix
+  is often a return to a properly-timed earlier arc (Maiden/Hero) rather than trying to solve King-level
+  problems directly. Related concept worth keeping: **"possession by an archetype"** — even a character who
+  legitimately earned a position can stall by over-identifying with it and refusing to let go when the time
+  comes, risking a forced rather than willing sacrifice.
+- **Tyrant (King's aggressive shadow):** refuses to surrender power specifically as **a rejection of his own
+  mortality** — "the unrepentant Tyrant is always doomed" precisely because his grip on power is death-denial
+  in disguise. Directly resonant with this project's own established robot mortality/integrity canon (Robot
+  Universals Ch.4) — a robot Tyrant-type character clinging to power as literal death-avoidance is a
+  particularly native fit for this setting. If a redemption does occur, it very often still ends in the King's
+  own death — surrendering power late doesn't buy back the option of a clean, costless survival. Left
+  unaddressed, can escalate further into Witch, then Sorcerer, across successive arc-stages.
+- **Hermit (Crone's passive shadow):** her core temptation isn't fear specifically but **existential surrender**
+  — "what's the point?" — genuinely distinct from the fear-rooted passivity of the younger shadows. A useful,
+  specific register for an aging, war-weary, or previously-broken companion's resistance to further engagement:
+  not terror, but exhaustion and perceived meaninglessness.
+- **Witch (Crone's aggressive shadow):** feeds off the vitality of the young (the Snow White pattern — a
+  beautiful facade concealing exactly this predation), weaponizing wisdom/insight as punishment rather than
+  guidance. Her apparent power is borrowed from the *next* arc's trappings without its actual wisdom — she's
+  "gotten ahead of herself."
+- **Miser (Mage's passive shadow):** bitterness that is, underneath, anger at his own mortality — having
+  amassed enormous wisdom and power across a full life, he still cannot buy off Death, and punishes the world
+  by hoarding rather than sharing what he's earned, believing himself unjustly owed more than his fate has
+  given him.
+- **Sorcerer (Mage's aggressive shadow):** the sharpest, most portable single distinction in the whole shadow
+  system — seeks **"power over" life rather than "power to" accept and allow it** (control/domination/greed
+  vs. enabling). His core wound is an emptiness accumulation can never fill — "not all the songs of earth, not
+  all the stars of heaven could fill your emptiness" — because in seeking control he has "lost himself and his
+  true name." A clean single-axis test worth applying to any Doll's use of power or knowledge: is she reaching
+  for control over others' lives, or for the capacity to let life unfold?
+
+**A calibration worth carrying forward explicitly: redemption gets structurally harder, not just narratively
+harder, the further along the life cycle a shadow archetype sits.** Weiland is direct about this — a "redeemed"
+Tyrant nearly always still dies; the Third Act's aggressive shadows (Witch, Sorcerer) are explicitly harder to
+redeem than the First Act's (Vixen, Bully), partly because of accumulated corruption and partly because the
+character is, literally, running out of time. This gives real, textually-grounded support for calibrating this
+project's own ending-distribution work (see the Design Note above): **a younger, earlier-arc companion's
+negative or shadow-state arc should more plausibly land bittersweet or even redeemed; an elder-stage
+companion's equivalent failure should more plausibly land as genuinely, irreversibly negative** — not as an
+arbitrary rule, but because the archetypal logic of the system itself supports that distribution shape. Also
+worth keeping as closing reassurance for writing any fully negative ending: even total local defeat doesn't
+imply the wider world's defeat — "the cycle of life wants always to continue... new life and new growth will
+return to the Kingdom once more like new green grass after a bitter winter."
 
 ### The Twelve Shadow Archetypes — negative-arc content, precisely mapped onto the existing Negative Arc taxonomy
 
@@ -2204,17 +2469,15 @@ named content:
   Warrior, and other named archetypes exist outside this six-arc system and can be mined on their own terms
   where they fit better than anything in this taxonomy.
 
-*(Read in depth: the Introduction, Chapter 1 (the full Six Life Arcs overview), Chapter 3 (The Hero Arc, read
-in full as a worked sample of the beat-by-beat template all six arc chapters share), Chapter 8 (Introduction to
-the Twelve Shadow Archetypes, in full), Chapter 15 (Introduction to the Six Flat Archetypes, in full), Chapter
-22 (Introduction to the Twelve Archetypal Antagonists, in full), Chapter 29 (the closing practical-application
-chapter, in full), and both appendices (Master List of the Archetypal Character Arcs; How Story Structure and
-Archetypal Character Arcs Mirror Each Other) in full. Not read individually: the remaining 5 Life Arc chapters,
-all 12 Shadow Archetype chapters, the remaining 5 Flat Archetype chapters, and all 12 Antagonist chapters —
-this is a deliberate scope call, not a time-pressure skip, matching the same judgment made for Maisel's 30
-scenario chapters above. The four "Introduction to..." framing chapters plus the two appendices already supply
-the complete, compact reference table for all 24 archetypes (names, core virtues, Lie/Truth pairs, symbolic
-settings, and antagonist pairings), and the one full Hero Arc chapter demonstrates the beat-by-beat template in
-enough depth to apply it to any of the other five arcs on demand — reading all 29 chapters individually would
-mean reading the same structural pattern (setup → beat-by-beat breakdown → worked film/book examples →
-key-points summary) twenty-plus more times with different archetype names substituted in.)*
+*(UPDATED — per dev request for "sufficient detail" on the arcs and shadow archetypes specifically: all six
+Life Arc chapters (2-7: Maiden, Hero, Queen, King, Crone, Mage) and all six Shadow Archetype chapters (9-14:
+Damsel/Vixen, Coward/Bully, Snow Queen/Sorceress, Puppet/Tyrant, Hermit/Witch, Miser/Sorcerer — covering all
+twelve individual shadows) have now been read in full, beat-by-beat and archetype-by-archetype, not merely
+sampled via the Hero Arc and the Master List. That full detail is captured above. Still read only at the
+framing/overview level, not individually: the six Flat Archetype chapters (16-21: Child, Lover, Parent, Ruler,
+Elder, Mentor) and the twelve Antagonist chapters (23-28: Authority/Predator, Dragon/Sick King, Invader/Empty
+Throne, Cataclysm/Rebel, Death Blight/Tempter, Evil/Weakness of Humankind) — Chapter 15's Flat-archetype intro
+and Chapter 22's Antagonist intro already captured above still supply the compact reference for those two
+categories, and were judged sufficient since the dev's request specifically named the arcs and the shadow
+archetypes, not these two remaining categories. Also still read only via the Master List/Appendix level: the
+closing practical-application chapter (29) and both appendices, already fully captured above.)*
