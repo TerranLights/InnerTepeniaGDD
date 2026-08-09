@@ -1672,3 +1672,221 @@ with material already captured from Truby, Corbett, and St. John under different
 distinctive content (plot pacing, Energetic Markers, scene types) sits outside this methodology's established
 scope, this is judged adequately mined without a full page-by-page pass — a deliberate scope call, not a
 time-pressure skip.)*
+
+## From *Creating Character Arcs* — K.M. Weiland
+
+This is, without qualification, the single richest and most systematic source mined so far for this
+methodology. Where other books offer scattered techniques, Weiland offers a complete, precisely-named,
+internally-consistent vocabulary (Lie / Want / Need / Ghost / Truth / Normal World / Impact Character) mapped
+onto exact structural beats, covering all three arc types (Positive, Flat, Negative) with equal rigor —
+including a genuinely valuable three-way taxonomy of *negative* arcs that directly serves this project's
+existing "No Good Endings" law and dual-outcome companion design. Given the density, this entry is organized
+by concept cluster rather than strictly by chapter.
+
+### Core Vocabulary (the foundation — apply to every Doll)
+
+- **The Lie.** A single-sentence, specific false belief a Doll holds about herself or the world, statable in
+  one sentence with qualifiers as needed (Weiland's own worked example: *"Jane Eyre isn't worthy to be
+  loved... qualified by her belief that she can earn love by enslaving herself to others"*). The Lie is the
+  actual foundation for everything else — find it before anything else. Critically, **the Lie is not the same
+  as its symptoms** (fear, extreme hurt, inability to forgive, guilt, secrets, shame) — those are visible
+  products of the Lie, not the Lie itself, and it's a common mistake to write the symptom convincingly while
+  never actually naming the underlying false belief it comes from.
+- **Want vs. Need.** The Want is the external, tangible, plot-level goal — concrete, pursuable, often
+  genuinely admirable on its own terms. The Need is the internal Truth that actually cures the Lie, and it
+  usually **precludes or requires sacrificing the Want**, at least until the Doll has earned the right to have
+  both. The sharp, useful warning here: pursuing the Want, on its own, actively *deepens* enslavement to the
+  Lie rather than resolving it — a Doll chasing her Want without addressing her Need is not neutral, she's
+  digging in deeper. (This is a more mechanically precise version of Truby's Desire/Need and Boutros's
+  Goal/Lesson already captured above — worth keeping as the sharpest-edged variant of the three.)
+- **The Ghost.** The backstory wound that explains *why* the Doll believes the Lie — "every effect must have a
+  cause." Directly convergent with St. John's Prime Motivating Incident (above), but Weiland adds a genuinely
+  useful proportionality rule: **the bigger the Ghost, the bigger the Lie, the bigger the arc.** Calibrate a
+  companion's wound to the scale of transformation her questline is actually meant to deliver — don't attach a
+  world-shaking Lie to a throwaway Ghost, or vice versa.
+  - **Three deliberate options for how/whether to reveal the Ghost**, worth treating as a real decision menu
+    rather than defaulting to one: (1) gradual reveal with a late grand payoff (the already-familiar
+    spoon-feeding technique); (2) **origin-prologue** — dramatize the Ghost directly as its own opening
+    sequence *before* the "real" story begins (Spider-Man, Batman Begins), which changes the character's
+    starting point itself — she doesn't open the story already believing the Lie, she opens *acquiring* it
+    on-screen; (3) **never reveal it at all**, explicitly validated as a legitimate authorial choice when an
+    obviously-significant-but-cloaked past serves the story better than a specific answer. Worth using
+    deliberately for at least one companion whose Ghost stays permanently unstated.
+- **The Characteristic Moment.** The single most rigorous "first scene" checklist gathered from any source in
+  this file — worth treating as the master version, superseding the looser versions already captured from
+  Boutros and St. John. A protagonist's introduction should, ideally in one scene: introduce her, reveal her
+  name, indicate demographic basics, indicate physical characteristics, establish her narrative role, **hook
+  sympathy or interest before revealing major flaws** (sequencing matters — identification has to land first),
+  demonstrate her prevailing personality trait, show a scene-level goal, indicate the larger story goal, hint
+  at the Lie, and influence or foreshadow the plot. **"Think big"**: don't settle for the smallest safe
+  demonstration of a trait — if compassion is the point, don't have her pat a stray dog, have her run into
+  traffic for a crying stranger's child; if bravado is the point, don't have her strut, have her pick a fight
+  with five opponents and nearly win. Some characters legitimately need a **double-sided or multi-part
+  Characteristic Moment** — a childhood-prologue moment plus an adult reestablishment, or two separate scenes
+  each proving a different facet — when one scene can't carry the full weight.
+- **The Normal World as symbolic dramatization of the Lie**, not just a setting. The opening world itself
+  should be actively *built* to enable and reinforce the Lie — it's "the comfiest place ever for that Lie to
+  continue its existence," whether or not it's comfortable for the Doll herself (she can be outwardly fine and
+  inwardly miserable in it). A companion's home city, starting circumstances, or founding trauma-context can be
+  deliberately constructed this way — and the contrast between that Normal World and wherever her questline
+  takes her should be maximized, not softened, to make the change land.
+
+### Structural Beats (where the internal arc lands in the story)
+
+- **The Moment of Truth, at the story's Midpoint.** A precise, genuinely distinct beat from the Black Moment
+  (St. John, above) — this is the *middle* turning point, not the low point. Here the Doll subconsciously
+  accepts the Truth and shifts from a reactive role (things happen to her) to an active role (she starts
+  driving the conflict) — **without yet consciously rejecting the Lie.** She'll keep *claiming* to believe the
+  Lie for the rest of the arc's middle section, but her actions will increasingly betray the Truth she's
+  secretly already accepted. This "caught between the Lie and the Truth" double-consciousness — saying one
+  thing, doing another, and not yet able to admit the contradiction to herself — is a genuinely useful,
+  precise psychological state to write toward at a companion questline's midpoint, distinct from both the
+  opening entrenchment and the climactic reckoning.
+- **The Third Plot Point: the Ultimate Choice Between Want and Need.** Sharper and more precise than a generic
+  "worst moment" — this is a **forced, soul-wrenching choice** between the Want (now finally, tantalizingly
+  within reach) and the Need (the Truth, now fully understood), where having both is no longer possible. The
+  discipline: this only lands if both options carry real weight — "the stronger the yearning for the Thing He
+  Wants at this point, the more powerful the Third Plot Point." Whatever she chooses, she loses something real.
+  Once she chooses Truth (in a Positive Change Arc), the choice must become an irreversible *action*, not just
+  a decision — she burns the bridge back, so the choice can't quietly be walked back later even if her resolve
+  wavers. Weiland notes this beat is very often marked by an actual or symbolic death (literal death, a funeral
+  passed on the road, professional/social death) — the motif must connect organically to the story, never
+  arbitrarily, but the pall of it is nearly always present.
+- **Negative Change Arc Climax — two possible outcomes**, worth keeping as a clean binary for any companion or
+  district-faction arc heading toward a bad end: (1) **hollow victory** — she gets the Want, but the win is
+  empty, and the Climactic Moment includes her own crushing realization that the fight wasn't worth what it
+  cost her; or (2) **total loss** — she fails both the inner and outer battle at once, because she never
+  equipped herself with the Truth. Either way, her actions at the climax should read as **a magnified
+  reflection of the exact Lie she opened the story believing** — the ending should rhyme with the beginning,
+  only worse.
+
+### The Three Arc Types
+
+- **Positive Change Arc** — already the default assumption underlying most of this file's other captured
+  material; not separately restated here.
+- **Flat Arc — "the Truth the Character Believes."** A genuinely valuable third arc type, distinct from
+  anything else in this file: a character who *already* holds the Truth at the story's start and experiences
+  little internal change; her arc is about using that already-settled Truth to transform the Lie-ridden world
+  or people around her, rather than being transformed herself. Two Normal World variants: (1) she starts in a
+  genuinely good, Truth-aligned place she must leave to protect, or which comes under direct threat; (2) she
+  starts in a Lie-cursed world she's committed to overturning. **Practical uses for this project**: an
+  already-resolved companion returning in a later DLC (Weiland's own example — Thor gets a Positive Change Arc
+  in his first film, then a Flat Arc in the second, once his Truth is already won); a mentor-type companion who
+  functions as catalyst for *other* companions' growth rather than needing her own; or, notably, **the Flat Arc
+  character is very often the Impact Character for someone else's Change Arc** (see below) — the two concepts
+  compose naturally.
+- **Negative Change Arc — three distinct, precisely-defined variations**, directly serving this project's
+  established "No Good Endings" law and Dual-Outcome Perk design. Crucially, **the Want, Need, and Ghost stay
+  structurally identical to a Positive Change Arc for the same character concept — only how she handles the
+  Ghost differs** (falls prey to it vs. overcomes it), meaning a single fully-developed Doll Sheet can honestly
+  support either a positive or a negative version of the same companion, decided late, rather than needing two
+  separate character concepts:
+  1. **The Disillusionment Arc** — *believes Lie → overcomes Lie → new Truth is tragic.* Not morally negative
+     at all — she genuinely grows into real understanding — but the Truth she arrives at is cold and hard
+     rather than redemptive. Useful for a companion whose "growth" is realistically bleak: she stops being
+     naive, and that's the whole tragedy.
+  2. **The Fall Arc** — *believes Lie → clings to Lie → rejects every offered chance at the Truth → ends up
+     believing an even stronger/worse Lie.* The classic tragedy shape: every opportunity to change is actively
+     refused, she sinks further, and she typically drags others down with her. Ends in ruin, not just failure.
+  3. **The Corruption Arc** — *sees the Truth clearly → rejects it → embraces the Lie.* The most emotionally
+     devastating of the three because she starts good, or at least genuinely capable of good, already living
+     in a Truth-aligned world — and *consciously* throws it away. Distinct from Disillusionment: *"it's
+     possible to be disillusioned without being corrupted, and possible to be corrupted without being
+     disillusioned"* (Bernhardt, quoted) — these are not degrees of the same failure, they're different
+     failure shapes entirely, and worth choosing deliberately rather than defaulting to whichever feels most
+     "tragic" in the abstract.
+  - **The Negative-Arc-specific Lie structure**: unlike a Positive Change Arc (where the Lie is about something
+    she *lacks*), in a Negative Change Arc the Lie is about **something she already possesses but devalues or
+    takes for granted** — and she's willing to sacrifice that real, good thing chasing the Lie's false promise.
+    Generative question for a corruption-flavored companion or hostile faction leader: name the specific good
+    thing she already has, that she is about to throw away.
+  - **"Whatever he chooses, he will have to sacrifice something of great value. Likewise, whatever he chooses,
+    he will also gain something of great value."** A strong, generalizable law for any major branching choice
+    a Doll or district faction faces — both options must be genuinely costly *and* genuinely rewarding, not one
+    obviously-correct option dressed up as a dilemma. This gives psychological grounding to this project's
+    existing Dual-Outcome Perk law, not just mechanical justification for it.
+
+### Practical FAQ Tools (highly portable, worth using directly)
+
+- **The 3-question arc-selection method** — a fast decision procedure for picking which arc (and which Negative
+  Arc variant) actually fits a given Doll or companion concept: (1) What's the genre/tone requirement — does
+  this story need a happy or sad landing? (2) Where does she start — a comparatively good place (→ Flat,
+  Disillusionment, or Corruption) or a comparatively bad one (→ Positive Change or Fall)? What does she believe
+  at the outset — a Lie (→ Positive, Disillusionment, or Fall) or the Truth (→ Flat or Corruption)? (3) Where
+  does she end — happier (Positive/Flat) or worse (Disillusionment/Fall/Corruption)? Cross-referencing all
+  three answers narrows the field to one arc type fast.
+- **The "same event, beginning vs. end" consistency check.** A sharp, concrete QA test for whether a companion's
+  arc has real teeth: *if she had to face the Climax's events back at the story's beginning, would she react
+  the same way she does at the end?* If yes — if nothing about how she'd handle it has actually changed — the
+  arc isn't doing its job, regardless of how much has "happened" to her along the way. Worth running against
+  any drafted companion questline before finalizing it.
+- **Character arc as subplot — three usable variants**, useful for calibrating how much arc-weight a given
+  companion actually needs relative to her role in a questline: **Shallow Arc** (a familiar, archetypal arc
+  used mostly as background texture and subtext, with few explicit beats — appropriate for action-forward
+  companions who need *some* depth without center-stage treatment); **Tangential Arc** (a full, real arc that's
+  only obliquely connected to the main plot — it could plausibly have happened via any number of unrelated
+  triggers, and removing it would cost heart but not structure); **Extra Arc** (a character carries *two*
+  simultaneous arcs — e.g., a Flat Arc powering the main plot's structural needs, plus a separate, smaller
+  Change Arc as a genuine subplot, Weiland's own example being Jurassic Park's Dr. Grant, whose Flat Arc about
+  nature's ungovernability drives the plot while his separate Change Arc about learning to value children runs
+  underneath it). This is a valuable, flexible tool: a single companion doesn't need to pick just one arc for
+  just one purpose.
+- **The Impact Character.** A formally named *function*, not a character-type slot — the person (or persons)
+  who embodies the Truth and, through sustained proximity and friction against the protagonist's Lie, catalyzes
+  her eventual change. **"If the antagonist represents the outer conflict, the impact character represents the
+  inner conflict"** — the friction isn't opposing goals, it's opposing worldviews. Critically, the Impact
+  Character can be *any* story role simultaneously — the antagonist, a mentor, a sidekick, the love interest,
+  someone present for the whole story or only intermittently (looming large in memory even when physically
+  absent), or **even a collective** (Weiland's example: the whole town of Radiator Springs in *Cars*). Directly
+  portable: when designing any Doll's arc, explicitly ask *who or what is her Impact Character* — and don't
+  assume it has to be a single named person; a city, a district's culture, or an entire subnet could
+  legitimately fill this role for a companion whose growth is catalyzed by a *place* rather than a person.
+- **Minor character arc calibration — "minor arc" vs. "full arc," and how to choose.** Explicit, useful
+  permission (with guidance) against over-investing in every single NPC: most minor characters need only a
+  compressed "minor arc" — a real goal, met with real obstacles, resolved one way or another by the story's
+  end — not the full Lie/Want/Need/Ghost treatment. Only a handful of characters in any given story can bear
+  the weight of a full arc without becoming exhausting or diluting the theme. **The deciding factor for
+  promoting a minor character to a full arc is theme, not affection for the character** — three concrete
+  techniques for using minor arcs thematically: (1) give different minor characters different *angles* on the
+  same thematic question, rather than duplicating the protagonist's angle; (2) deliberately contrast a
+  sidekick's beliefs against the protagonist's, since real differences (not just loyal support) are what
+  generate thematic material; (3) **look for genuine similarity, not just difference, between protagonist and
+  antagonist** — "the only rule is to find a similarity," positive or negative, since shared ground between
+  hero and antagonist is often more thematically potent than their opposition. This sharpens and generalizes
+  St. John's "villain as the protagonist's flaw personified" (above) into a broader technique: find *a* real
+  commonality, not necessarily the flaw specifically.
+- **Series-spanning arcs — directly relevant to this project's DLC structure.** Two models: (1) **one
+  overarching arc across the whole series**, where the Lie introduced in the base game isn't fully resolved
+  until a much later DLC (structural beats get stretched proportionally across installments rather than
+  compressed into one); or (2) **a fresh arc per installment**, where each DLC gives a returning companion a
+  new, self-contained Lie to work through, optionally building on Truths she already secured in an earlier
+  DLC (Weiland's own example: Thor gets a Positive Change Arc in film one, then a Flat Arc in film two, once
+  his first Truth is already won and he's using it to change the world around him instead). A **bonus layering
+  technique**: even within one overarching arc, each individual installment can carry its own smaller,
+  self-contained "mini-Lie" that contributes to the larger Lie's eventual resolution, rather than each DLC
+  simply being an unmarked slice of one continuous journey. Directly applicable to any companion who recurs
+  across the base game and multiple DLCs (per this project's own Subnet DLC Companion Reservation and Cross-DLC
+  Bypass Design Law precedents already in place).
+- **Rewards and Punishments as the mechanical engine of change.** A concrete, almost mechanical technique for
+  making a change feel earned rather than asserted: systematically let Lie-based choices *backfire* and
+  Truth-based choices *pay off*, shifting the ratio gradually across the arc rather than flipping it suddenly.
+  Early on, Lie-based choices should lead to close-to-full disasters; as the Doll begins acting more in line
+  with the Truth (even before she can consciously admit it — see the Midpoint material above), her outcomes
+  should shift toward **"yes, but..." partial disasters** — a distinct, useful third outcome-category between
+  clean success and clean failure, where she gets *some* of what she wanted, at a cost, rather than nothing at
+  all. This gives a concrete dial for tuning quest/dialogue-choice consequences: Lie-aligned choices trend
+  worse, Truth-aligned choices trend better, and the gap between them should narrow as a companion's own arc
+  progresses.
+
+*(Given the exceptional density and quality of this book, a large fraction was read in genuine depth: the full
+Introduction; Chapters 1–5 (Lie, Want/Need, Ghost, Characteristic Moment, Normal World) in full; the Midpoint
+and Third Plot Point chapters in full; the Negative Change Arc's First Act across all three variations, plus
+its Climax and Resolution, in full; the Flat Arc's First Act in full; and five of the seven FAQ chapters (arc
+selection, subplot arcs, the Impact Character, minor character arcs, rewards and punishments, and series arcs)
+in full. Not read in comparable depth: Chapters 6–8 (First Act through First Half of the Second Act of the
+Positive Change Arc — largely plot-pacing mechanics layered onto the already-captured Lie/Want/Need/Ghost
+throughline, lower marginal value given how much of the underlying framework is already captured above), the
+Flat and Negative Arcs' Second and Third Act chapters beyond what's summarized here, and FAQ Chapter 26 (What
+if My Story Has No Character Arc?). Given how comprehensively the core framework — which is what actually
+generalizes across every future Doll — has already been captured, this is judged sufficient without a complete
+page-by-page pass; the unread material is chiefly beat-by-beat elaboration of principles already on file.)*
