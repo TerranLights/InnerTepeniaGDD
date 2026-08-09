@@ -3186,4 +3186,125 @@ Section One — each follows the identical chart-plus-worked-example pattern as 
 the specific interrogation questions they contain overlap substantially with backstory/Ghost material already
 captured in depth from Corbett, Weiland, and Card; skimmed enough to confirm no additional distinct concepts
 were present. Section Two ("Bring Them to Life") was skipped entirely as a lighter restatement of
-show-don't-tell material already captured. Disposition not yet decided.)*
+show-don't-tell material already captured. Moved to `x-trash/`.)*
+
+## From *Creating Characters: How to Build Story People* — Dwight V. Swain
+
+A 1991 craft classic (Swain also wrote the widely-cited *Techniques of the Selling Writer*), organized as 14
+Q&A chapters. Unlike Lauther, this is genuine argued technique, and several chapters — particularly the pair on
+motivation — are among the richest, most mechanically precise material mined in this whole effort. Chapters 2-4
+(searching out characters, labeling, fleshing out with tags/traits) and 7 (emotion) were sampled and found to
+overlap heavily with Card's and Corbett's already-captured material. Chapters 11-14 (comedy, physical
+description craft, dialogue-writing craft, and adapting characters to short-story/novel/stage/radio length and
+contemporary-subculture research) were sampled and scoped out as prose-craft or print-media-specific technique
+that doesn't transfer to this project's medium, or as generic "research real-world subcultures" advice this
+project's own far more developed fictional culture-building already supersedes.
+
+- **The Ability to Care — the absolute floor beneath any character** (Chapter 1). Before Lie, Want, Need,
+  Ghost, or any other machinery, Swain's claim is that a character isn't a character at all until she has ONE
+  thing — major or trivial, doesn't matter which — that she genuinely cares about, consciously or not. The
+  entire technique that follows from this: assign the character something to care about, then build the story
+  by threatening exactly that thing. This is a genuinely useful minimum-viable-character check, distinct from
+  and more foundational than any of the richer frameworks already captured — directly usable as a floor test
+  for minor/background District NPCs and Under-Questline figures who don't warrant full Lie/Want/Need
+  treatment: does this character have at least one thing she cares about that the scene could threaten? If not,
+  she isn't yet a character, just a label.
+- **Purpose vs. Motive, and a practical design-sequencing tip** (Chapter 5). Swain draws a sharp line between
+  **Purpose** (what a character wants to *do* — external, action-oriented, concrete: marry him, rob the bank,
+  win the promotion) and **Motive** (*why* she wants it — internal, often unknown even to herself, ultimately a
+  rationalization). His specific, practical claim: design is almost always easier starting from Purpose and
+  inventing the Motive afterward, rather than starting from a psychological motive and trying to derive an
+  action from it. Directly usable as a companion-writing workflow tip: when a companion's arc feels stuck, lock
+  down her concrete goal first, then generate the "why" second, rather than waiting for the psychology to
+  arrive before the goal does.
+- **Direction, Goal, Drive, and Attitude — the four-part architecture of a character's inner world** (Chapter
+  6), each piece distinct and complementary to material already captured:
+  - **Direction** — a character's general, often-unverbalized "tendency to lead the kind of life she enjoys."
+    Swain (via sociologist W.I. Thomas, plus his own addition) frames this as a blend of five underlying
+    wishes: **Adventure, Security, Recognition, Response** (the human need to feel cared about/loved), and
+    **Power**. This is a genuinely distinct diagnostic axis from both Maslow's Hierarchy (already captured from
+    Lisle) and Enneagram — more socially/relationally oriented than Maslow's biological-to-actualization ladder,
+    and worth keeping as a third available lens (alongside Enneagram-type and Maslow-tier) for identifying what
+    a given companion is actually chasing.
+  - **Goal** — specific and situational, born of dissatisfaction with the present state. Swain splits **General
+    Goal** (the throughline the whole story serves — survive the threat, restore the status quo) from
+    **Immediate Goals** (the scene-by-scene sub-goals in its service), and offers a clean one-line diagnostic
+    for whether a piece of content is actually a story at all: *"A chronicle is a record of what happened. A
+    story is the record of how somebody deals with danger."* Directly usable as a QA test for any drafted
+    companion biography or Under-Questline outline: if it reads as a chronicle of events rather than an account
+    of someone dealing with a threat to something she cares about, it isn't a story yet.
+  - **Drive** — the intensity behind pursuing the goal (the "give a hoot" factor), broken into a clean, portable
+    four-step formula: (1) give the character something to care about, (2) give her a goal that fits her
+    Direction, (3) **threaten** that goal / that thing she cares about, (4) establish concrete **reasons she
+    can't just quit** — split into **External reasons** (a literal external constraint forces continued
+    engagement) and **Internal reasons** (named psychological compulsions: Pride, Shame, Duty, Gratitude,
+    Loyalty). This four-step formula is directly reusable as a stakes-construction checklist for any companion
+    or DLC main questline climax, and the External/Internal split on "reasons not to quit" is a sharp, concrete
+    two-column checklist worth applying directly.
+  - **Attitude** — a persistent, not-necessarily-rational "hangup": a character's habitual, default disposition
+    toward a topic or situation, which in aggregate forms her **dominant attitude** / point of view. The sharp
+    addition here: a believable character's dominant attitude is rarely monolithic — real depth comes from
+    giving her one narrower, genuinely contradictory blind spot that surfaces only under specific circumstances
+    (Swain's own example: a colleague outspokenly committed to racial equality in general, who turned out to
+    hold a quiet, ugly exception for one specific ethnic group). Directly usable as a companion depth technique:
+    establish one consistent dominant attitude, then plant exactly one narrow, genuine exception to it that only
+    surfaces under a specific, plantable circumstance — a controlled inconsistency rather than a random one.
+  - **Drift vs. Drive** — most real people, and by extension most background characters, don't actually have
+    Drive; they have **Drift** (following the path of least resistance, decisions made passively). A drifting
+    character works fine in a bit part but is fatally weak as a protagonist or major companion. This is the
+    psychological-motivation-side counterpart to Card's already-captured structural Character Hierarchy
+    (walk-on/minor/major) — worth treating the two as a matched pair: Card tells you how much narrative *weight*
+    a character needs, Swain's Drift/Drive tells you how much internal *engine* she needs to justify carrying it.
+- **Body, Environment, Experience, and Ideas — the four-part background taxonomy** (Chapter 8, "Bent Twigs"),
+  distinct from (not a restatement of) Corbett's and Weiland's Ghost/Wound material: **Body** (heredity,
+  physical attributes/handicaps, age/sex/health — the body a character has shapes how the world treats her,
+  which shapes her worldview); **Environment/Milieu** (not just physical setting but social stratum — which
+  groups she owes allegiance to, and what those groups implicitly demand of her); **Experience** (lived events)
+  — paired with a genuinely sharp principle worth treating as a standing check on this project's own
+  frequently-shared backstory templates (war orphan, exile, diaspora refugee): ***it is not the objective event
+  that creates the psychological effect, it's the character's individual interpretation of and reaction to
+  it*** — the same insult or hardship produces categorically different people depending purely on how each one
+  processes it, and two companions who share a structurally similar backstory template should be built to
+  react to it in genuinely different ways, not just relocated to different Districts; and **Ideas** — a fourth
+  category not otherwise captured: exposure to a specific belief system, philosophy, book, speech, or person's
+  worldview as its own independent shaping force, distinct from lived experience or trauma. Given this
+  project's unusually rich religious/philosophical landscape (Polydimensional Animism, the other robot
+  religions, competing national ideologies), "what specific idea or worldview reshaped this character's
+  thinking, and from whom or where did she first encounter it" is a genuinely underused question type worth
+  adding to the standard companion-background toolkit alongside Ghost/Wound.
+- **Wild Cards — a two-tier taxonomy for offbeat/deviant characters** (Chapter 9), useful for both minor
+  District colorful-eccentric NPCs and for the villain/anti-hero supplement sheet: **The Eccentric** (an open,
+  harmless deviation from the norm — someone who has staked her whole sense of individuality on one narrow,
+  fiercely defended personal domain) versus **The Psycho** (a masked, hidden deviation, read by others as a
+  threat rather than a curiosity) — the practical dividing line is concealment: eccentric behavior is worn
+  openly, psycho behavior is actively hidden from the people around the character. Each type gets a parallel
+  three-question diagnostic: for the Eccentric, (1) what specific, concrete, visible form does the eccentricity
+  take, (2) what psychological purpose does it actually serve for her, (3) how is the audience meant to feel
+  about her (deliberately chosen, not left to chance); for the Psycho, the same three questions reframed around
+  concealment — what reveals the deviance, how does she mask it, and what internal logic makes it make sense
+  from her own point of view. The underlying mechanism offered for "irrational" behavior is a genuinely useful
+  generative technique: locate a tension or pain too unbearable for the character to face directly, then choose
+  a specific defense mechanism (displacement — redirecting a reaction toward a safer target — being the most
+  common, alongside fixation, regression, dissociation) as the visible quirk that results; the quirk is then a
+  legible symptom of a real, locatable wound rather than an arbitrary flourish. A companion caution worth
+  keeping as a consistency guardrail: **the Immutability of Personality Types** — a period-psychiatry principle
+  Swain quotes approvingly, holding that a fundamental personality type doesn't convert into a different one
+  under story stress (intensity can shift; the underlying type shouldn't) — independent confirmation of this
+  project's own practice of treating a Doll's Enneagram type as fixed across her arc even as wing, subtype, or
+  health-level shift.
+- **Climax Potential** (Chapter 10) — a precise mechanical recipe for constructing a protagonist's or
+  companion's climax: give her not one but *two* things she genuinely cares about (Swain's own example: love
+  and security), such that the climax can force a genuine, structurally clean choice between them, with only
+  one path available under the story's actual constraints. This is a concrete implementation technique for this
+  project's own mutual-sacrifice mechanic and No Good Endings law — rather than writing a generic "hard choice"
+  climax, identify the specific second thing the companion values that her main goal will cost her, early
+  enough in the arc that both halves of the eventual choice have been genuinely earned by the time the climax
+  arrives.
+
+*(Read in full: Chapters 1, 5, 6, 8, 9, and the Protagonist/Antagonist/Climax Potential portion of Chapter 10.
+Sampled and scoped out: Chapters 2-4 and 7 (redundant with Card/Corbett material already captured), the
+remainder of Chapter 10 (Love Interest, Bit-Players, Character-in-Depth — restating already-captured
+Hierarchy/proportionality material), and Chapters 11-14 (comedy technique, physical-description and dialogue
+prose-craft, and short-story/novel/stage/radio length-and-medium adaptation plus contemporary-subculture
+research advice — none of which transfers meaningfully to this project's medium or its already far more
+developed fictional culture). Disposition not yet decided.)*
