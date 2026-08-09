@@ -2023,6 +2023,198 @@ not. Record before it gets lost in the surrounding material:
   self-contained sections requiring no reference back to this draft file, into: `Game-Mechanics/Core-Mechanics/
   Companion_System.md` (a new "No Good Endings — Ending Distribution and Cost Calibration" section, plus the
   Romance-lock rule folded into "The Double Gate"), `Storyline/Side-Content/District_Under_Questline_Design_
-  Method.md` (district/faction scale), and — pending — the DLC and full-game equivalents. This entry remains
-  here as the original working-draft record, but the mechanic files, not this file, are now the source of
-  truth for actual design/implementation work.
+  Method.md` (district/faction scale), `Storyline/DLC-Questlines/DLC_Main_Questline_Design_Method.md` (DLC/
+  subnet scale), and `Storyline/Main-Story/Main_Quest_Revised_Beat_Structure_TENTATIVE.md` (full-game scale,
+  which also identifies the existing 27-ending Pariah Failsafe system as the concrete instantiation of the
+  "purely negative" category, and flags it — in `Storyline/Endings/Secret-Endings/Remaining_Failsafe_
+  Categories.md` — as possibly worth expanding now that a repeatable negative-ending methodology exists). All
+  four are complete as of 2026-08-09 (commit c19fd99 and follow-up 4760eb9). This entry remains here as the
+  original working-draft record, but the mechanic files, not this file, are now the source of truth for actual
+  design/implementation work.
+
+## From *Writing Archetypal Character Arcs* — K.M. Weiland
+
+The third and final Weiland title mined. Where *Creating Character Arcs* (above) supplied the *structure*
+(Lie/Want/Need/Ghost/Characteristic Moment, precise beats, the three-way Negative Arc taxonomy), this book
+supplies ready-made *content* to fill that structure with: a complete taxonomy of 24 named archetypes — six
+life-stage arcs, their twelve shadow (negative) counterparts, their six flat/resting states, and their twelve
+external antagonists — each with a pre-built thematic Lie/Truth pair, symbolic setting, and named opposition.
+This is, functionally, a large pre-populated content library that plugs directly into the machinery already
+captured from the flagship book, rather than a new methodology of its own.
+
+### The Six Life Arcs — a complete life-cycle sequence with ready-made Lie/Truth pairs
+
+The system's spine is a 12-node sequence alternating Flat (resting) states and Positive Change (transforming)
+arcs, each Flat state being simultaneously the state a character rests in *after* completing the previous arc
+and *before* beginning the next one:
+
+**Child → Maiden Arc → Lover → Hero Arc → Parent → Queen Arc → Ruler → King Arc → Elder → Crone Arc → Mentor →
+Mage Arc**
+
+The six arcs group into three life-thirds, each with its own thematic macro-phase — directly useful for
+placing a given Doll's current arc within a larger life-progression frame: **First Act/Individuation** (Maiden
++ Hero, roughly a character's first third of life), **Second Act/Integration** (Queen + King, roughly the
+middle third), **Third Act/Transcendence** (Crone + Mage, roughly the final third). Each arc also has a genre-
+like "Story Type" (Maiden=Initiation, Hero=Quest, Queen=Battle, King=Awakening, Crone=Pilgrimage, Mage=Mission),
+an identity-transition formula (e.g., Hero: Individual→Protector, moving from Normal World to Adventure World),
+and an escalating symbolic setting scope (Home→Village→Kingdom→Empire→Underworld→Cosmos) — together a fast way
+to sanity-check whether a companion's current questline's scale/stakes actually match her stated arc-stage.
+
+**The single most portable asset in this book: six pre-built, archetypally-grounded thematic Lie/Truth pairs**,
+directly pluggable into the Lie/Want/Need machinery already captured from *Creating Character Arcs* — rather
+than inventing a Lie from scratch for every Doll, start by checking whether one of these six already fits her
+life-stage:
+- **Maiden — Submission vs. Sovereignty:** *"Submission to authority is necessary for survival"* vs.
+  *"Personal sovereignty is necessary for growth and survival."*
+- **Hero — Complacency vs. Courage:** *"My actions are insignificant in the overall scope of the world"* vs.
+  *"All my actions affect those I love."*
+- **Queen — Control vs. Leadership:** *"Only my loving control can protect those I love"* vs. *"Only wise
+  leadership and trust in those I love can protect them and allow us all to grow."*
+- **King — Strength vs. Surrender:** *"Physical strength is the pinnacle of human achievement"* vs.
+  *"Spiritual strength requires me to relinquish my physical strength."*
+- **Crone — Death vs. Life:** *"All life ends in death"* vs. *"Life is Death and Death is Life."*
+- **Mage — Attachment vs. Transcendence:** *"My love must protect others from the difficult journey of life"*
+  vs. *"True love is transcendent and allows life to unfold."*
+
+**Each arc is fundamentally about death and rebirth of identity, not "becoming" the archetype.** A crucial
+framing distinct from a simple growth model: *"the Hero Arc is not about becoming a Hero, but reaching the
+apotheosis of that archetype and then transitioning out of the height of its power into Death/Rebirth."* A
+Doll doesn't complete an arc and then stay in it forever — completing it is itself the setup for eventually
+surrendering that identity to grow into the next one. Directly useful for series/DLC-spanning companions: a
+companion who "won" her Hero Arc in the base game isn't meant to stay heroic-and-static forever; her next
+appearance should logically involve her being asked to let go of that very identity in favor of the next stage
+(Queen).
+
+**Full beat-by-beat structural templates exist for each of the six arcs** (sampled in depth via the Hero Arc:
+Normal World/Beginning → Inciting Event/Call to Adventure → First Plot Point/Crossing the Threshold, etc.),
+essentially *Creating Character Arcs*' own beat structure re-skinned with archetypal specifics and worked
+examples per beat. Not reproduced here in full for all six arcs (see the disclosure at the end of this entry)
+— the Master List table above and the Hero Arc sample together give the reusable shape; building out any one
+arc's full beat sheet for a specific Doll is a matter of applying the already-captured *Creating Character
+Arcs* beat structure with this book's specific Lie/Truth/setting/antagonist content substituted in.
+
+### The Twelve Shadow Archetypes — negative-arc content, precisely mapped onto the existing Negative Arc taxonomy
+
+Each of the six arcs has two shadow (negative) counterparts — a **passive** pole and an **aggressive** pole —
+representing two different failure modes around the same core virtue:
+
+| Arc | Core Virtue | Passive Shadow | Aggressive Shadow |
+|---|---|---|---|
+| Maiden | Dependence | Damsel (Submissive) | Vixen (Deceptive) |
+| Hero | Courage | Coward (Ineffectual) | Bully (Destructive) |
+| Queen | Love | Snow Queen (Defensive) | Sorceress (Manipulative/Vampiric) |
+| King | Power | Puppet (Irresponsible) | Tyrant (Oppressive) |
+| Crone | Insight | Hermit (Misanthropic) | Witch (Punitive) |
+| Mage | Enlightenment | Miser (Selfish) | Sorcerer (Evil) |
+
+- **The passive shadow avoids the consequences of the core virtue; the aggressive shadow weaponizes it.** Both
+  are failures to grow, not opposite psychologies — the passive pole represents "fatal immaturity," an extended
+  refusal of the call to the next stage; the aggressive pole represents *overcompensation for the same
+  underlying fear*, dressed up as competence ("getting things done... but not actually moving forward").
+- **The two poles are latent within each other, not separate people.** *"Inherent within any Coward is usually
+  a latent Bully, just as the Bully is often a Coward at heart."* Useful consistency check when writing a
+  shadow-state Doll: her surface presentation (passive or aggressive) shouldn't be treated as her whole
+  psychology — the opposite pole should be visible underneath, even if suppressed.
+- **A precise, genuinely new mapping onto the already-captured Negative Change Arc taxonomy** (Disillusionment/
+  Fall/Corruption, from *Creating Character Arcs* above) — five possible shapes for a shadow-archetype
+  character's own arc:
+  - Negative → Positive = an ordinary **Positive Change Arc** (redemption into the healthy archetype)
+  - Positive → Negative = a **Corruption Arc**
+  - **Passive → Aggressive = specifically a Fall Arc** (denial giving way to open destructiveness)
+  - **Aggressive → Passive = specifically a Disillusionment Arc** (a controlling character's aggression
+    breaking down into resignation)
+  - No change at all = a **Negative Flat Arc** — a static shadow character more likely to function as
+    antagonist or a negative Impact Character dragging *someone else's* story down, rather than as a
+    protagonist in her own right.
+
+  This gives concrete psychological texture to the abstract three-way taxonomy already captured: a Fall Arc
+  companion should read specifically as passive-denial curdling into open aggression over the course of her
+  arc; a Disillusionment Arc companion should read as aggressive control breaking down into passive resignation.
+- **Antagonist-design technique: draw a protagonist's antagonist from the *next* arc-stage's aggressive
+  shadow, not necessarily her own stage's.** *"A Queen almost always has to confront and overcome a Tyrant"* —
+  the King Arc's aggressive shadow, one stage ahead of her own. This makes the antagonist do double duty: an
+  obstacle in the plot, *and* "a shadow version of the protagonist's own potential self" — both a temptation
+  (a preview of the power she's about to gain) and a caution (what she could become if she handles that power
+  badly). A forward-looking cautionary mirror, distinct from but compatible with the same-stage "villain as
+  protagonist's flaw personified" technique already captured from St. John and the main Weiland book.
+
+### The Six Flat/Resting Archetypes — formalizing the Impact Character as archetypal content
+
+The six interstitial states (Child, Lover, Parent, Ruler, Elder, Mentor) are where the machinery of the
+already-captured **Flat Arc** and **Impact Character** concepts (from *Creating Character Arcs*) gets concrete,
+named content:
+
+- **A Flat Arc protagonist IS, by definition, functioning as the Impact Character for someone else's Change
+  Arc.** Not a coincidence or a common pattern — this book treats it as the actual definition: *"The Flat Arc
+  protagonist is the Impact Character in someone else's Positive Change Arc."*
+- **"Flat Arc stories are Positive Change Arc stories in disguise" — the same cast can be read from multiple
+  angles.** *"You can often overlay any appropriate Positive Change archetypal journey upon the Flat Arc
+  character's story — but with a supporting character enacting the actual journey."* Worked example: in *The
+  Lord of the Rings*, Gandalf (Mentor, Flat) can be read as the actual protagonist of his own confrontation
+  with age-appropriate antagonists, while Frodo/the Hobbits undergo their own Hero Arcs around him — "flip the
+  script" and either character can be read as the story's true center. Directly useful for multi-companion
+  scenes: the same encounter can be *designed* once and then deliberately viewed through each present
+  companion's own vantage point to check whose arc it's actually serving, and whether a scene meant to develop
+  one companion is accidentally doing more work for another's story instead.
+- **A calibration rule for which negative archetypes a Flat companion can plausibly engage with**: a Flat
+  character's antagonists/negative-supporting-cast should be drawn from arc-stages she's *already passed*, not
+  ones ahead of her. A Parent (the Flat state after Queen) can plausibly help or defeat a Damsel/Vixen,
+  Coward/Bully, or Snow Queen/Sorceress — the "younger" shadow pairs from stages she's already lived through —
+  but confronting a later pair like Puppet/Tyrant (King's shadows) means **she herself needs to advance into a
+  full Queen Arc rather than remain Flat.** This gives a concrete, checkable trigger for "does this mentor-type
+  Doll actually need her own Change Arc after all" — if her questline is pushing her up against a shadow-stage
+  beyond what she's already lived, that's the tell.
+
+### The Twelve Archetypal Antagonists — vocabulary for structuring opposition
+
+- **Antagonist vs. Antagonistic Force, formally distinguished.** The *antagonist* is a concrete
+  character/agent; the *antagonistic force* is the abstract, thematic obstacle it can represent (a Dragon as
+  antagonist standing in for the antagonistic force of "greed" or "stagnation"). Worth naming both deliberately
+  for any significant companion or district antagonist: the concrete agent in the plot, and the abstract thing
+  that agent stands in for.
+- **Antagonist status is orthogonal to morality.** *"It is possible for the antagonist to be the most moral
+  person in the story and the protagonist the least moral"* — especially relevant for Negative Change Arc
+  companions, where whoever tries to stop her fall is functioning as her antagonist regardless of how sympathetic
+  or correct they are.
+- **Inner/outer antagonist pairing is a deliberate authorial choice, not fixed per archetype.** The same named
+  pair (e.g., Maiden's Authority/Predator) can be split either way — internalized Authority with an externalized
+  Predator, or the reverse — "two sides of the same coin," with the choice driven by whether the story is more
+  relationship-driven (favor internal) or action-driven (favor external).
+- **The Contagonist — a genuinely new character-function type, distinct from both antagonist and Impact
+  Character.** Borrowed from the Dramatica system: a "subplot antagonist" who is *not* the Big Bad, and who may
+  even be nominally on the protagonist's side, but who actively works against her growth from a position of
+  closeness and trust — encouraging her to back out of the real conflict or take the wrong moral path,
+  competing with the "guardian"/mentor-Impact-Character for influence over her (the devil-and-angel-on-the-
+  shoulder framing). A useful, precisely-named slot for a companion or ally NPC who isn't a villain but who
+  quietly functions as a drag on another companion's growth — distinct from a straightforward negative Impact
+  Character, since the contagonist's opposition is about the protagonist's *methods* and *resolve*, not about
+  representing the opposing thematic Lie directly.
+
+### Practical Application
+
+- **Two-slot minimum supporting-cast checklist for any companion's personal questline**: does she have at least
+  one Impact Character (a Flat-archetype figure who already knows the Truth she's working toward), and does she
+  have a named antagonist pair (drawn from her arc's own antagonist set, or — per the technique above — from
+  the next stage's aggressive shadow)? A fast audit for whether a companion's supporting cast is actually doing
+  its job.
+- **"Where has this character already been" determines what her next arc should be**, directly useful for
+  planning a returning companion's next DLC appearance: identify which arc she already completed, and the next
+  one in the fixed sequence is the natural candidate — not a repeat of the same arc-type she already resolved.
+- **This is one system among many, not exhaustive** — Weiland's own closing caution: Trickster, Femme Fatale,
+  Warrior, and other named archetypes exist outside this six-arc system and can be mined on their own terms
+  where they fit better than anything in this taxonomy.
+
+*(Read in depth: the Introduction, Chapter 1 (the full Six Life Arcs overview), Chapter 3 (The Hero Arc, read
+in full as a worked sample of the beat-by-beat template all six arc chapters share), Chapter 8 (Introduction to
+the Twelve Shadow Archetypes, in full), Chapter 15 (Introduction to the Six Flat Archetypes, in full), Chapter
+22 (Introduction to the Twelve Archetypal Antagonists, in full), Chapter 29 (the closing practical-application
+chapter, in full), and both appendices (Master List of the Archetypal Character Arcs; How Story Structure and
+Archetypal Character Arcs Mirror Each Other) in full. Not read individually: the remaining 5 Life Arc chapters,
+all 12 Shadow Archetype chapters, the remaining 5 Flat Archetype chapters, and all 12 Antagonist chapters —
+this is a deliberate scope call, not a time-pressure skip, matching the same judgment made for Maisel's 30
+scenario chapters above. The four "Introduction to..." framing chapters plus the two appendices already supply
+the complete, compact reference table for all 24 archetypes (names, core virtues, Lie/Truth pairs, symbolic
+settings, and antagonist pairings), and the one full Hero Arc chapter demonstrates the beat-by-beat template in
+enough depth to apply it to any of the other five arcs on demand — reading all 29 chapters individually would
+mean reading the same structural pattern (setup → beat-by-beat breakdown → worked film/book examples →
+key-points summary) twenty-plus more times with different archetype names substituted in.)*
