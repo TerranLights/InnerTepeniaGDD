@@ -3307,4 +3307,103 @@ remainder of Chapter 10 (Love Interest, Bit-Players, Character-in-Depth — rest
 Hierarchy/proportionality material), and Chapters 11-14 (comedy technique, physical-description and dialogue
 prose-craft, and short-story/novel/stage/radio length-and-medium adaptation plus contemporary-subculture
 research advice — none of which transfers meaningfully to this project's medium or its already far more
-developed fictional culture). Disposition not yet decided.)*
+developed fictional culture). Moved to `long-term_reference/`.)*
+
+## From *Creating Unforgettable Characters* — Linda Seger
+
+A screenwriting-focused craft book, structured around extensive working-screenwriter interviews (Ron Bass,
+Judith Guest, Robert Benton, Kurt Luedtke, and others) rather than a single authorial voice. Technically
+unusual among this whole effort: the source file is a scanned physical book with no text layer, so it was mined
+by direct visual sampling of page-spread images (TOC-guided, chapter-by-chapter) rather than the usual
+pdftotext/pandoc extraction — slower per page, so this pass is a real but partial sample rather than an
+exhaustive read, concentrated on the chapters most likely to add non-redundant material (2, 4, and 10).
+
+- **The Six-Stage Character-Creation Sequence** (Chapter 2) — a practical ordering, not a new theory: (1) get
+  the first idea from observation/experience, (2) create the first broad strokes, (3) find the character's core
+  for consistency, (4) find the paradoxes for complexity, (5) add emotions/attitudes/values, (6) add specific,
+  unique details. Useful mainly as a sequencing checklist for a companion draft that feels stalled — identifies
+  which of the six stages hasn't actually been done yet, rather than vaguely "needing more work."
+- **The Trait Implication Web** (Chapter 2) — a sharper, more mechanical version of the general "one trait
+  implies others" principle already touched on elsewhere in this file: a single established fact about a
+  character (profession, upbringing, a specific credential) implies a whole cluster of secondary, less-obvious
+  consistent traits — and, crucially, the converse failure mode: a character who's been given a headline trait
+  (photographic memory, elite training, a stated expertise) but who doesn't display any of that trait's
+  downstream implications reads as inconsistent, not deep. Directly usable as an efficient enrichment technique
+  for a companion built from one strong seed fact: derive the implied secondary web (what else would someone
+  with this specific background plausibly know, notice, or react to) rather than inventing unrelated flourishes.
+- **"Actable" description** (Chapter 2) — a screenwriting-specific concept with a portable core: a description
+  is more useful the more it implies something a performer can *do* (a gesture, a tilt of the head, a specific
+  physicality) rather than a static adjective ("pretty," "strong"). Given this project's own Early Access
+  funding plan explicitly earmarks VO and animation work, this maps directly onto companion physical-direction
+  notes: prefer describing a Doll's default posture, characteristic gesture, or movement quality over adjective-
+  only physical description, since the former is what an animator or voice actor can actually use.
+- **Erikson's later-life crisis stages** (Chapter 4) — two named developmental crises usable as a life-stage-
+  appropriate complement to Weiland's Six Life Arcs already captured in depth: **Generativity vs. Stagnation**
+  (a midlife crisis of whether one has lived up to one's own talents and made a lasting contribution — maps
+  naturally onto a Queen/King-stage companion) and **Integrity vs. Despair** (a late-life crisis of whether
+  one's life had meaning at all, distinct from a simple accounting of accomplishments — maps onto a Crone/Mage-
+  stage companion). Useful as a sharper, named target for what kind of existential crisis fits a companion at a
+  given life-arc stage, rather than a generic "she's questioning her life" beat.
+- **The Self-Sabotaging Bind** (Chapter 4, via the *Rain Man* case study) — a sharp, specific psychological
+  trap distinct from anything else captured: a character's *conscious* goal is to disprove a formative negative
+  judgment about herself (a parent's, a mentor's, a District's), while her *unconscious* pattern of behavior
+  keeps re-confirming exactly that judgment. The character isn't simply pursuing a goal — she's structurally
+  positioned to keep failing at it in a way that validates the very wound she's trying to escape. Directly
+  usable for a Fall Arc or Corruption Arc companion: name the specific judgment she's trying to disprove, then
+  design her habitual behavior pattern to unconsciously keep proving it right, creating real dramatic irony the
+  player can watch play out before the companion herself recognizes it.
+- **Introvert/Extravert pairing and "X-in-Y-clothing" layering** (Chapter 4) — two companion techniques on the
+  Jungian introvert/extravert axis (used here as a craft tool, not a replacement for Enneagram): first, a
+  practical casting rule — introverted characters can carry real narrative weight, but conventionally need to
+  be paired with a more extraverted character who can move the external action, since introversion alone tends
+  to stall plot-facing scenes (directly relevant to companion-pairing/party-banter design: an introspective
+  companion benefits from being paired with an outward-facing one in shared scenes). Second, a sharper
+  diagnostic layering technique drawn from the same source material: a character can *perform* one type
+  outwardly (extraverted, socially fluent, "gorgeous and charming") while being fundamentally the other type
+  underneath (a private, walled-off introvert whose true feelings are hidden even from herself) — an
+  "introvert in extravert clothing," in Seger's own phrase. This is a concrete, reusable mask/truth split
+  distinct from a simple secret: the performed trait and the true trait are opposite poles of the same axis,
+  not unrelated.
+- **Story Problem vs. Character Problem** (Chapter 10) — a troubleshooting diagnostic for a companion who
+  "won't come alive" no matter how much surface color is added: check whether the actual fault lies in the
+  *story* rather than the *character*. Kurt Luedtke's specific test, worth keeping as a standing question: if
+  this character is genuinely necessary and the surrounding story is sound, why wouldn't she come alive? If a
+  character only exists to mechanically service the plot ("walk in, throw a switch, get off" — a pure
+  plot-function NPC dressed up as a character), no amount of added ticks, quirks, or backstory will fix her;
+  the fix is structural, either replacing her narrative function or admitting the surrounding story doesn't
+  actually need her to be a full character at all (which folds back into Card's already-captured MICE Quotient/
+  Hierarchy calibration).
+- **The Hidden Self-Recognition Block** (Chapter 10) — a specific, actionable technique for a writer stuck on a
+  character they find themselves disliking or unable to access: the block is often caused by the character
+  embodying a trait the writer dislikes and represses in themselves (cruelty, willfulness, stupidity), and the
+  practical unblocking move is to consciously locate and acknowledge that same trait in oneself — even finding
+  a measure of compassion for it — which then unlocks genuine access to the character rather than judgment of
+  her from a safe distance. Worth keeping as a literal process tip for whenever a companion or antagonist
+  (especially for the villain/anti-hero supplement sheet) is proving unusually resistant to write.
+- **"Character Takes Over" as an ambiguous diagnostic signal, not an automatic verdict** (Chapter 10) — when a
+  supporting character starts dominating a story beyond her intended scope, working screenwriters interviewed
+  in this chapter split on what that means, and the useful takeaway is the split itself: it can mean a genuine
+  structural flaw (the story was "contrived rather than constructed," and the imbalance reveals poor planning),
+  or it can mean the writer has hit real creative momentum and should follow the character's pull because the
+  result is actually a better story. The diagnostic question worth asking either way: is a "too-obedient"
+  character just being pushed through a plot like a puppet (a red flag — genuine characters should occasionally
+  surprise or resist their own writer), or is an over-assertive character actually revealing a truth about the
+  story the outline hadn't accounted for?
+
+*(Sampled via direct image reading rather than exhaustive read-through, given the scanned source: Chapter 2's
+opening and "Core of the Character"/paradox sections, Chapter 4's opening through the Jungian typology
+discussion (not the abnormal-psychology section that follows it), the opening and "Nonhuman Character" portion
+of Chapter 8 (the "Symbolic Character" section and the halo-effect/mascot material were judged lower-priority —
+largely a restatement of the Trait Implication Web applied to advertising mascots and anthropomorphized
+animals, less relevant than Robot Universals already provides for this project's actual synthetic-being
+population), and the opening several pages of Chapter 10. Not sampled: Chapter 1 (Researching the Character —
+likely to overlap with Swain's already-captured research material), Chapter 3 (Creating the Backstory — likely
+to overlap with Corbett/Weiland/Swain's Ghost material, beyond the one economy-of-exposition tip noted above),
+Chapter 5 (Creating Character Relationships), Chapter 6 (Adding Supporting and Minor Characters — likely
+overlap with Card's Hierarchy), Chapter 7 (Writing Dialogue — likely overlap with Lisle's Sins of Dialogue and
+Card), Chapter 9 (Beyond Stereotyping — likely overlap with Card's stereotype material), and the remainder of
+Chapters 4, 8, and 10. Given the extra friction of image-based sampling and the meaningful redundancy risk
+across the unsampled chapters, this is being treated as a good-faith partial pass rather than continuing to
+exhaustive completion — flag for a deeper follow-up pass only if a future session specifically needs Chapters
+5, 6, or 9's territory (character relationships, minor-character calibration, or stereotyping) and finds the
+already-captured Card/Corbett/Weiland material insufficient.)*
