@@ -2760,3 +2760,123 @@ outside this methodology's scope, consistent with the precedent set by *Writing 
 deliberate scope call: the chiastic-structure concept and the New Normal World taxonomy are the book's real
 contribution to this methodology, and both have been captured in full; the remaining ~4,000 lines are
 elaboration of principles (individual paired-beat deep dives) or material genuinely outside scope.)*
+
+## From *The Last Fifty Pages* — James Scott Bell
+
+A short, tightly-focused craft book specifically about ending design — directly on-target for this project's
+own No Good Endings law and Dual-Outcome Perk work, and it maps onto both with real precision.
+
+- **"Satisfaction," not "happiness," is the actual target — and satisfaction specifically requires the outcome
+  to feel *earned*, regardless of whether it's a happy or a downbeat ending.** A tragic ending can satisfy
+  completely if it feels inevitable given who the character was; a nominally happy ending fails to satisfy if
+  it wasn't paid for. This is the same underlying claim as this project's own No Good Endings law, arrived at
+  independently — worth citing as convergent confirmation, and worth using "does this feel earned" as the
+  actual QA question when checking any drafted ending, rather than "is this the outcome I wanted for her."
+- **The Mirror Moment — a precisely defined, two-type version of the Midpoint's Moment of Truth already
+  captured from Weiland above.** At the true middle of a story, the protagonist is forced into a moment of
+  self-confrontation, and which of two types it is determines the entire shape of her arc:
+  1. **The Moral Mirror Moment** — she looks inward and sees a compromised or flawed self reflected back, and
+     the rest of the story becomes a live question of whether she'll change. This type can run in either
+     direction — the more common negative-to-positive shift, but also positive-to-negative (a character who
+     sees a colder, harder self coming into being and chooses to let it happen), and a distinct tragic variant
+     where the character is offered a genuine chance at grace or change and consciously declines it.
+  2. **The Death-Stakes Mirror Moment** — she does *not* confront a moral flaw at all; instead she realizes,
+     mid-crisis, that the odds against her are genuinely severe enough that she might not survive (physically,
+     professionally, or psychologically). The resulting arc isn't moral transformation but a shift from
+     stasis to strength — she remains fundamentally the same person, but has to grow tougher and more capable
+     to survive what's coming. This is the shape that explains characters who don't morally change across a
+     story (an unflappable action-hero type) while still having a real, load-bearing Midpoint: the stakes are
+     what's transforming, not her character.
+  - **Directly useful as a diagnostic**: before finalizing a companion's Midpoint scene, decide explicitly
+    which of these two types it is. A Positive/Negative Change Arc companion needs Type 1 (a real self-
+    confrontation with her Lie made undeniable); a Flat Arc companion more naturally takes Type 2 (a mortal-
+    stakes realization that hardens her resolve without requiring her to actually change who she is).
+- **Practical workflow note, matching (and specifically justified by) advice already captured elsewhere in
+  this file**: rather than starting from either a blank ending or a fully blank middle, find the Mirror Moment
+  first — it's described as the single scene that reveals what a given story (or Doll's arc) is actually
+  about, and once it's fixed, both the ending and the earlier setup can be built to support it.
+- **Act 3 beats, several worth naming and keeping distinct from material already captured**: a **"Doorway of
+  No Return #2"** — the transition from the story's middle into its final act needs a concrete plot mechanism
+  (a discovery, a clue, a setback) that makes the climax actually reachable, not just an emotional shift;
+  **"Mounting Forces"** — the antagonist escalates specifically because the protagonist's commitment to the
+  fight is now unmistakable; **"Lights Out"** — the point where it looks like all is genuinely lost (the same
+  territory as the already-captured Black Moment/Third Plot Point, given a punchier alternate name); and the
+  **"Q Factor"** — a distinct, genuinely useful addition: a specific emotional jolt, arriving right around
+  "Lights Out," that supplies the protagonist the courage to actually go into the final confrontation. Its
+  defining feature is that it works by *calling back to something specific established early in the story* —
+  an object, a line, a person reminding her of her own earlier words — rather than being a fresh burst of
+  resolve invented on the spot. Directly portable: for any companion's climactic turning point, identify one
+  specific, plantable Act 1 detail (an object, a promise, a piece of dialogue) that can be deliberately
+  recalled at her lowest moment to fuel the choice that follows — a concrete instance of the chiastic mirroring
+  already captured from *Next Level Plot Structure*, applied specifically to emotional payoff rather than
+  visual symbolism.
+- **The Final Battle is explicitly Outer (can she overcome the external forces), Inner (will she make the
+  right choice), or both — and for a negative ending, these invert.** A negative ending's climax shouldn't just
+  be "something bad happens" — it should show a specific, locatable *absence* of the exact courage (physical
+  or moral) that the positive version of the same beat would have required. Directly useful for constructing
+  Pariah Failsafe or other negative-category endings under the existing distribution law: name precisely which
+  courage — physical or moral — the character fails to summon, rather than writing generic failure.
+- **The Five Shapes of Endings** — a clean taxonomy that maps with unusual precision onto the ending-
+  distribution law already codified as this project's canon:
+  1. **The Lead Wins** — she gains her objective, but *a true victory must still cost something*: an internal
+     or external wound that leaves a lasting mark even in triumph. This is the template for this project's own
+     "costly positive" ending category — not a new idea, but useful independent confirmation with a memorable
+     name.
+  2. **The Lead Loses** — a downbeat ending, ideally carrying a real thematic/moral point rather than being
+     failure for its own sake (classical catharsis: the audience is relieved they don't share the character's
+     fate, and implicitly warned). This is the direct template for the Pariah Failsafe category.
+  3. **The Lead Sacrifices** — arguably the most resonant of all five, and **the single closest match in any
+     source mined so far to this project's own specific "give up what's wanted most, specifically to gain
+     something even more meaningful" mechanic.** The character consciously surrenders her Want — sometimes her
+     life — for a cause or person, and is "resurrected" one way or another: either she survives and gains
+     something unexpected and more valuable than what she gave up, or she doesn't survive but her sacrifice
+     visibly changes or inspires those left behind. This is the direct literary template for this project's
+     "costly positive" companion/romance endings and should be treated as the primary reference shape for that
+     category going forward, not just one option among the five.
+  4. **The Lead "Wins" But Really Loses** — she technically gets what she was after, but at a moral cost that
+     makes the whole thing a net loss; the objective was corrupt or corrupting from the start. This is the
+     literary shape of a Corruption Arc's climax (already captured from Weiland above) — worth treating these
+     as the same beat under two different names, converging independently.
+  5. **Open-Ended** — the plot resolves without full closure, deliberately left to the audience's imagination.
+     Flagged as legitimately risky for genre fiction specifically (readers of genre fiction expect a definite
+     resolution as an implicit part of the "reading contract"; it's a better fit for literary fiction that's
+     more comfortable leaving things unresolved). **Worth flagging as a real caution for this project
+     specifically**: a game audience arguably expects definitive closure on a companion arc even more strongly
+     than a novel reader does, since the player invested active choices, not just reading time — an
+     open-ended companion ending should be used sparingly and deliberately, not as a default escape from
+     having to commit to one of the other four shapes.
+- **Resonant endings — two named final-scene techniques, useful as a menu for a companion's closing beat**:
+  **"Into the Sunset"** — a character, once the conflict resolves, visibly departs the story's central setting,
+  which can register as either hopeful or bittersweet depending entirely on what's been earned along the way
+  (the same physical gesture — walking away — can carry opposite emotional weight); and **"Completing the
+  Circle"** — a frame-narration technique where the story opens in a "present" that's revisited at the very
+  end, giving the audience a felt sense of having come full circle, distinct from (but compatible with) the
+  chiastic mirroring already captured from *Next Level Plot Structure*.
+- **Four common ending failure modes, worth keeping as a standing pre-ship checklist**:
+  - **Deus ex machina** — any last-minute rescue or resolution must be set up by the protagonist's own prior
+    actions, not arrive as unearned coincidence or a stranger's convenient intervention. The fix isn't
+    "no rescues allowed," it's that whoever or whatever intervenes must do so *because of* something the
+    protagonist specifically did earlier in the story, not by chance.
+  - **Loose ends** — a concrete, reusable technique for tidying minor-character fates without a clumsy info-
+    dump: route the wrap-up through a single returning secondary character in one focused late scene, letting
+    her answer a short round of "what happened to X" questions, rather than trying to resolve every thread
+    through the main plot itself.
+  - **"Only a dream" (or any twist that retroactively invalidates everything the audience just experienced)**
+    — flagged as one of the most reliably disappointing endings in fiction, and specifically dangerous in long-
+    form (a full quest or companion arc) even though the identical device can work in short-form content where
+    the twist is baked into the format's own expectations from the start. Worth a hard caution against ever
+    using this shape for a full companion questline or DLC main questline.
+  - **The talkative villain** — never let a villain's expository monologue be the direct mechanism that buys
+    the protagonist time to escape or be rescued; deliver any necessary villain exposition either well before
+    the moment of maximum urgency, or after the villain has already been dealt with, to someone else entirely.
+
+*(Read in depth: Chapters 1-5 (Endings Are Hard; What Should an Ending Do?; Should You Know Your Ending Before
+You Write?, including the full Mirror Moment framework; About Act 3, including the LOCK System and all named
+Act 3 beats; and The Shape of Your Ending, all five shapes read in full), Chapter 8 (Resonant Endings, in full),
+and Chapter 9 (Avoiding Common Ending Problems, in full). Not read in comparable depth: Chapter 6 (The Meaning
+of Your Ending), Chapter 7 (Brainstorming Endings — likely a writer's-process exercise chapter, lower priority
+given the strong material already captured), Chapter 10 (Some Endings Examined — likely additional worked
+examples of concepts already captured above), and Chapter 11 (the book's own closing chapter). This is a short
+book (~3,000 lines) and the chapters read cover its clear core; the remaining chapters are judged, based on
+their titles and the pattern established by the chapters actually read, to be additional worked examples and
+brainstorming exercises layered on top of the same framework already captured in full, not new concepts.)*
