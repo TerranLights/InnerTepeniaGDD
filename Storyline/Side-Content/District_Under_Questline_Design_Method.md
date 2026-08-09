@@ -194,6 +194,81 @@ shape, not an exception.
 
 ---
 
+## No Good Endings — Ending Distribution and Cost Calibration (District/Faction Scale)
+
+**What this is:** the project's standing "No Good Endings" design law, applied at district/faction scale
+rather than the companion/romance scale it was originally defined for. This section is written to stand on
+its own — nothing here requires reading the character-development source material this was distilled from
+(`Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md`), and the fuller companion-
+scale version of the same law is authoritatively defined in `Game-Mechanics/Core-Mechanics/Companion_System.md`
+under its own "No Good Endings" section, which this one deliberately mirrors in structure.
+
+**What the law actually says.** "No Good Endings" does not mean no positive endings. It means no *costless*
+positive endings. A district or faction's under-questline (or, by extension, its main questline) is allowed —
+expected — to resolve well for that district or faction. What it is never allowed to do is resolve well for
+free.
+
+**The required distribution, at district/faction scale.** Across the full set of possible resolutions for a
+given district's under-questline (or, more broadly, across the full set of under-questlines running for a
+single district):
+
+- **Purely negative resolutions — the district or faction ending up worse off than it started, with nothing
+  gained — should be a minority.** One, or at most a handful, out of the total candidates for a given
+  district. A real option, not the default and not the majority.
+- **Bittersweet or mixed resolutions should be the largest category, by a real margin.** Most under-questlines,
+  most of the time, should land the district or faction somewhere genuinely improved in some respect and
+  genuinely worse off in another — not purely triumphant, not purely tragic.
+- **Genuinely positive resolutions for a district or faction must be real and achievable** — never a trap,
+  never a hollow win dressed up as a victory. But, exactly as at the companion scale, they are never free.
+
+**The core mechanic: the district/faction pays a real, named price for its own genuinely positive outcome.**
+For a district or faction under-questline's resolution to actually qualify as positive under this law, the
+district or faction itself — not just an individual NPC or Notable Figure involved — must give up something it
+genuinely values, specifically in order to secure whatever makes the resolution good. This is the district-
+scale equivalent of a companion sacrificing something dear specifically to gain the player: the district's own
+version of "the Want" (something concrete it holds or is pursuing — a piece of its independence from Concordia
+or from a rival district, a tradition or practice central to its own civic identity, a resource or piece of
+infrastructure, its standing or leverage relative to a rival district, or a comfortable illusion about itself
+that its own civic belief has let it avoid confronting) has to be put in genuine, structural conflict with
+whatever the positive resolution actually delivers, and the district has to lose the former to secure the
+latter. Not a sacrifice that turns out to be trivial or easily reversed once the "real" prize is revealed — a
+real, named loss, paid in full, for a real gain.
+
+**How this interacts with the existing belief-consequence default (Step 2, above).** These are two distinct,
+compatible disciplines, not the same rule twice. The belief-consequence default governs whether a district's
+own civic conviction survives being tested by pressure (it should — a district lives by what it believes,
+rather than being maneuvered into concluding its belief was wrong). This section governs what a district must
+pay to reach a good outcome, independent of whether its belief survives. A district can hold onto its own core
+conviction *and* still have to pay a real price for a positive resolution — in fact, the strongest candidates
+will often do both at once: the district's belief survives being tested, and that survival is exactly what
+costs it something (upholding the conviction is what forces the sacrifice, rather than the sacrifice being
+some unrelated tax layered on top).
+
+**Why this matters for under-questlines specifically.** Because under-questline candidates are never narrowed
+down the way a district's main questline is (Step 2, above — every candidate that passes the tests is kept as
+real content, not competed down to one), a district can easily end up with many under-questlines that all
+happen to trend positive, all cheaply, without anyone deliberately choosing that distribution. This section
+exists specifically to prevent that drift: because there's no narrowing-down step to naturally filter out
+weak, costless "wins," the ending-distribution and cost-calibration check has to be applied deliberately,
+candidate by candidate, rather than trusted to emerge on its own.
+
+**How to apply this when constructing candidate chains (Step 2).** For any candidate chain whose resolution is
+meant to read as genuinely good for the district or faction involved:
+
+1. **Name the specific real thing the district/faction gives up**, before treating the candidate as finished.
+   If nothing comes to mind, the candidate's resolution isn't ready yet — it's a hollow win waiting for its
+   price tag, and should be reworked or explicitly downgraded to a bittersweet resolution instead.
+2. **Scale the cost to what the district actually has and values**, per its own established civic belief
+   (input 5) and character, not to some universal standard of sacrifice. A resource-poor district doesn't need
+   to lose something enormous to feel a real loss; a resource-rich or power-heavy district may need to lose
+   something bigger to register at all.
+3. **Track the running distribution across a district's full under-questline set**, not just per-candidate.
+   If a district's candidates are trending heavily toward costless positive outcomes, that's a signal to either
+   rework some of them toward bittersweet, or to more rigorously apply step 1 above to the ones already marked
+   positive.
+
+---
+
 ## Worth Your Attention
 
 This method has only been run once, informally, against a single district (Leo, three "original" and three
@@ -201,6 +276,8 @@ This method has only been run once, informally, against a single district (Leo, 
 to an explicit starting point since that requirement postdates the test run). Worth testing deliberately
 rather than assuming an answer: how the starting-point requirement holds up in practice — whether every
 district's Full Extrapolation actually has enough Notable Figures and location-level detail to anchor 5
-genuinely distinct candidates without straining — and how the belief-consequence default holds up against a
+genuinely distinct candidates without straining — how the belief-consequence default holds up against a
 district whose own civic belief is less performance-and-recognition-coded than Leo's, or against a candidate
-that's cross-district by construction rather than single-district.
+that's cross-district by construction rather than single-district — and how the ending-distribution and
+cost-calibration discipline above holds up once it's actually run against a full candidate set for a district,
+rather than defined in the abstract.

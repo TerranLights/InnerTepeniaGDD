@@ -82,6 +82,69 @@ candidate But/Therefore chains for the DLC's main questline (per the grammar in
 
 ---
 
+## No Good Endings — Ending Distribution and Cost Calibration (DLC/Subnet Scale)
+
+**What this is:** the project's standing "No Good Endings" design law, applied at DLC/subnet scale. This
+section is written to stand on its own — the fuller companion-scale version of the same law is authoritatively
+defined in `Game-Mechanics/Core-Mechanics/Companion_System.md` under its own "No Good Endings" section, and the
+district/faction-scale version lives in `Storyline/Side-Content/District_Under_Questline_Design_Method.md`.
+This is the same law again, at the scale of an entire subnet's DLC main questline.
+
+**What the law actually says.** "No Good Endings" does not mean no positive endings. It means no *costless*
+positive endings. A DLC's main questline is allowed — expected — to resolve well for the subnet, its cities,
+and the factions/figures caught up in it. What it is never allowed to do is resolve well for free.
+
+**The required distribution.** Because a DLC has only *one* main questline (Step 2 above narrows candidates
+down to a single chosen chain, unlike a district's under-questlines, which keep every qualifying candidate),
+this law applies slightly differently than at district scale: rather than governing the distribution across
+many parallel candidates for the same subnet, it governs the distribution across the DLC's own set of possible
+*resolution branches* for that one main questline (the different ways the questline's climactic choice can
+resolve). Within that set:
+
+- **A purely negative resolution — the subnet or its cities left worse off with nothing gained — should be a
+  minority** among the questline's possible resolution branches. A real, available branch, not the default and
+  not the majority of the outcome space.
+- **Bittersweet or mixed resolutions should be the largest category of the available branches, by a real
+  margin.**
+- **A genuinely positive resolution for the subnet must be real and achievable** — never a trap, never a
+  hollow win. But, exactly as at every other scale, never free.
+
+**The core mechanic: the subnet pays a real, named price for its own genuinely positive outcome.** For a DLC
+main questline's best-case resolution branch to actually qualify as positive under this law, the subnet or its
+constituent cities — not just an individual Notable Figure or faction leader involved — must give up something
+they genuinely value, specifically in order to secure whatever the positive resolution actually delivers. This
+is the subnet-scale version of a companion sacrificing something dear specifically to gain the player: the
+subnet's own equivalent of "the Want" (its own collective identity/theme per input 5 above, a piece of
+inter-city autonomy, a resource, a trade relationship, standing relative to another subnet or to Concordia
+itself, or a comfortable collective self-image the questline's own escalating pressure exposes) has to be put
+in genuine, structural conflict with whatever the positive resolution delivers, and the subnet has to lose the
+former to secure the latter for real — not a sacrifice that turns out to be trivial or reversible once the
+"real" prize is revealed.
+
+**Why this matters specifically for a DLC main questline.** Because Step 2 above already applies a strict
+"characteristically consistent, actually emergent, non-conflicting" filter and narrows many candidates down to
+one, there's a real risk that the single chosen chain gets selected primarily for how well it satisfies those
+three tests, without anyone separately checking whether its resolution branches actually satisfy this ending-
+distribution law. The two checks are independent and both required: a candidate can be perfectly emergent,
+consistent, and non-conflicting while still resolving toward an all-branches-positive or all-branches-costless
+outcome space. Apply this section as its own explicit pass over the finally-chosen chain's resolution branches,
+not as something the Step 2 tests already guarantee.
+
+**How to apply this once a DLC main questline chain is chosen:**
+
+1. **Name the specific real thing the subnet/cities give up**, for whichever resolution branch is meant to
+   read as the best/most positive outcome, before treating that branch as finished. If nothing comes to mind,
+   it isn't ready — rework it or explicitly reclassify it as bittersweet.
+2. **Scale the cost to what the subnet actually has and values**, per its own established collective identity
+   (input 5) and its cities' established social contracts and inter-city relationships (input 7) — not to a
+   universal standard.
+3. **Make sure the full set of resolution branches for the questline's climactic choice actually spans the
+   required distribution** — at least one real negative branch (even if narrow), a larger bittersweet middle,
+   and a positive branch with its price named — rather than defaulting to a simple binary of "the correct good
+   ending" versus "the ending you get for failing."
+
+---
+
 ## Worth Your Attention
 
 Input 6 is the newest and least-precedented of the eight, and — per the Weighting note above — the one
@@ -92,4 +155,8 @@ that. A strong candidate chain should be able to stand entirely on inputs 1–5,
 holds together *because* of a lore-history connection, treat that as a sign to strengthen its grounding
 in the stronger inputs rather than leaning harder on input 6. If input 6 is used at all, remember only
 the *final* setting-condition of a translated suggestion is live at game-time — everything upstream of
-it is already-resolved backstory, not something still in motion.
+it is already-resolved backstory, not something still in motion. **Also worth testing deliberately once this
+method is actually run against a real subnet:** how the ending-distribution and cost-calibration section above
+holds up in practice — whether a single chosen main-questline chain can comfortably support a full spread of
+negative/bittersweet/positive resolution branches, or whether some subnet concepts naturally resist a genuine
+negative branch (or a genuine positive one) and need a different approach.

@@ -78,6 +78,82 @@ None of the three is the "correct" one; each is a legitimate resolution reachabl
 
 ---
 
+## No Good Endings — Ending Distribution and Cost Calibration (Full-Game Scale)
+
+**What this is:** the project's standing "No Good Endings" design law, applied at the scale of the entire
+game's ending itself — the Beat 11 Hub climax and whatever resolution follows it. This section is written to
+stand on its own. The same law is authoritatively defined at companion/romance scale in `Game-Mechanics/
+Core-Mechanics/Companion_System.md`, at district/faction scale in `Storyline/Side-Content/
+District_Under_Questline_Design_Method.md`, and at DLC/subnet scale in `Storyline/DLC-Questlines/
+DLC_Main_Questline_Design_Method.md`. This is the same law again, scaled all the way up to Concordia as a
+whole.
+
+**What the law actually says.** "No Good Endings" does not mean no positive endings. It means no *costless*
+positive endings. The game's ending is allowed — expected — to resolve well for Concordia, its districts, and
+the player's own relationships within it. What it is never allowed to do is resolve well for free.
+
+**How this interacts with the Talk/Sneak/Fight resolution paths, above.** The three paths (Talk, Sneak, Fight)
+are *routes* to a resolution, gated by build rather than by moral standing, and the document above is already
+explicit that none of the three is "the correct one" — that principle should stay exactly as written and is
+not in tension with this section. This section governs something different: not which *route* the player takes
+through the climax, but what the *outcome* at the far end of any given route actually costs Concordia (and the
+player, and whichever companions/districts are present) to secure. A player could reach the same or a similarly
+positive outcome via Talk, Sneak, or Fight — the route doesn't have to determine the outcome's ending category
+— but whichever outcome results, if it's meant to read as genuinely good, it must cost something real, by the
+same law that governs every smaller-scale questline in this project.
+
+**The required distribution, at full-game scale.** Across the space of possible endings the accumulated
+friction/favor state (and the player's choices at and around the Hub climax) can produce:
+
+- **A purely negative ending for Concordia as a whole — the city left substantially worse off, with nothing
+  gained — should be a real, reachable outcome, but a minority one**, reserved for genuinely poor accumulated
+  standing (very high friction, badly mismanaged relationships across the districts) rather than something a
+  reasonably careful playthrough stumbles into.
+- **Bittersweet or mixed endings — Concordia surviving and continuing, but visibly changed, at real and named
+  cost — should be the most common ending category by a real margin**, reachable across a wide band of
+  accumulated-friction states, not narrowly gated to only the most extreme mid-range outcomes.
+- **A genuinely positive ending for Concordia — the city coming through the Hub climax in a state clearly
+  better than a bittersweet resolution — must be real and achievable** for a player who has played the network
+  well (broad accumulated favor, addressed rather than worsened the districts' standing grievances). It is
+  never free.
+
+**The core mechanic: Concordia itself pays a real, named price for its own best-case ending.** For the full
+game's best-case ending to actually qualify as positive under this law, Concordia as a whole — not just an
+individual companion, district, or faction — must give up something the city genuinely values, specifically in
+order to secure whatever makes that ending good. Candidates worth drafting against, once this section is acted
+on: a piece of the Falkland Treaty's own protections or the secrecy that has shielded some district from its
+consequences up to now; some measure of Libra's own governance autonomy or authority, however the Beat 9/Beat
+11 governance decision resolves; standing or leverage with a specific district whose grievance had to be
+overruled rather than satisfied in order to reach this outcome; or the comfortable version of Concordia's own
+self-image that surviving the Recognition Cascade's full implications forces the city to give up. Whichever
+specific cost is chosen, it needs to be as concrete and named as any companion's personal sacrifice — not an
+abstract "things were hard" gesture, but a specific, nameable thing Concordia had and no longer has, traded
+specifically for the specific good thing the ending delivers.
+
+**Why this matters here specifically.** The Hub climax already aggregates nearly every other system's own
+accumulated weight (district friction/favor, the Recognition Cascade, the Falkland Treaty discovery, Libra's
+governance decision) into one converging moment — which means it's also where the risk of an accidentally
+costless "good ending" is highest, precisely because so many separate systems are all being asked to resolve
+positively at once. A best-case ending assembled from every subsystem's own best-case outcome, with no single
+overall cost named for Concordia itself, would violate this law even if none of the individual contributing
+systems violated it on their own. This section exists specifically to catch that aggregate failure mode, which
+none of the individual district- or DLC-scale sections could catch on their own.
+
+**How to apply this once the climax and its resolution are drafted in full:**
+
+1. **Name the specific real thing Concordia as a whole gives up**, for whichever ending is meant to read as the
+   game's best-case outcome, before treating that ending as finished.
+2. **Check the aggregate, not just the parts.** Even if every contributing subsystem (district under-questline
+   resolutions, DLC main-questline resolutions, companion endings, the Recognition Cascade, the Falkland Treaty
+   discovery) individually satisfies its own No Good Endings requirement, verify the combined full-game ending
+   still carries its own distinct, named, city-scale cost — the parts summing correctly doesn't guarantee the
+   whole does.
+3. **Make sure the full space of possible full-game endings actually spans the required distribution** — a
+   real, reachable negative ending; a broad, well-populated bittersweet middle; and a positive ending with its
+   price named — rather than collapsing into a simple pass/fail against the accumulated friction total.
+
+---
+
 ## What's Deliberately Left Open
 
 - The opening task (8 candidates, none chosen).

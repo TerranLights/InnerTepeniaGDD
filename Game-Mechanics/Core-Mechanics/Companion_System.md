@@ -24,6 +24,58 @@ The single companion slot means each companion choice is a genuine commitment. T
 
 ---
 
+## No Good Endings — Ending Distribution and Cost Calibration
+
+This is the project's standing design law for how every companion questline, and every romance arc, must resolve. It is referenced elsewhere in the repo (`README.md`, `Reference/Game_Design_Fundamentals_and_Fun_Architecture.md`) as an existing discipline, but this section is its authoritative, complete definition — the law lives here first.
+
+**Mechanical consequence, confirmed 2026-08-09:** a companion questline's ending category (negative, bittersweet/mixed, or positive) has a direct mechanical effect on Romance eligibility — reaching a negative ending permanently locks out that character's Romance questline, regardless of MACHINE build or traits. See "Gate 1 is not satisfied by mere completion," under "The Double Gate," below, for the full rule and rationale.
+
+### What the law actually says
+
+**"No Good Endings" does not mean no positive endings.** It means no *costless* positive endings. A companion questline or romance arc is allowed — expected — to end well. What it is never allowed to do is end well for free.
+
+This distinction matters because the phrase is easy to misread as a mandate for grimness. It is not. The law is a constraint on the *price* of a good outcome, not a ban on good outcomes existing.
+
+### The required distribution
+
+Across a given companion's full set of possible questline/romance endings:
+
+- **Negative endings are a minority** — one, or at most a handful, of the total possible outcomes for any given companion. They are a real option, not the default and not the majority.
+- **Bittersweet or mixed endings should be the largest category, by a real margin.** Most companions, most of the time, should land somewhere that is genuinely good in some ways and genuinely costly in others — not purely tragic, not purely triumphant.
+- **Genuinely positive endings must be real and achievable** — never a trap, never an illusion of victory that's secretly hollow. But they are never free.
+
+### The core mechanic: mutual sacrifice as the price of the bond
+
+For a genuinely positive ending to actually qualify as positive under this law, the companion — and ideally the player as well — must sacrifice something they truly care about, **specifically in order to gain each other.** The bond itself is the thing being purchased at real price, not an unrelated cost paid alongside an otherwise-free win.
+
+Concretely: the companion's stated Want (her external goal — a career, a home, an independence, a reunion with someone else, a long-held ambition) should be put into genuine, structural conflict with the relationship at the climactic choice point of her questline. Choosing the relationship should cost her the Want — or some other named, precious thing — for real. Not a Want that turns out to have been fake, unimportant, or easily replaced once the "real" prize (the relationship) is revealed. A real thing, genuinely wanted, genuinely lost.
+
+The same is true in reverse where the design allows it: the player should ideally have something of their own on the table too — time, an opportunity, a resource, a piece of their own independence — so the sacrifice isn't one-sided.
+
+**A positive ending that costs nothing is not a positive ending under this law.** It's a hollow ending dressed up as a win — its own distinct failure mode, exactly as much to be avoided as an unearned tragic ending. Both failures share the same root problem: an outcome that wasn't actually earned by the story that led to it.
+
+### Why this law exists
+
+Two related reasons, both load-bearing:
+
+1. **Trade-offs are what make a choice a choice.** This law is the psychological grounding for the project's existing Dual-Outcome Companion Perk design (every companion questline resolves into 2–5 mutually exclusive perks, each a genuine trade-off, not a strictly-better/strictly-worse pair). If the "good" branch costs nothing, it isn't really a branch — it's just the correct answer, and the other options exist only to be avoided. A choice worth making is a choice that costs something no matter which way it goes.
+2. **Earned emotion resonates; free emotion doesn't.** A relationship, a victory, or a happy ending that arrives without cost reads as unearned even when the audience can't immediately articulate why — and unearned positive beats are forgettable in a way that costly ones aren't. The price is what makes the reader/player believe the reward was real.
+
+### How to apply this when designing a companion's endings
+
+When drafting or reviewing any companion's set of possible questline/romance outcomes:
+
+1. **Plan the distribution explicitly, up front**, rather than letting it emerge accidentally. Name which one or two endings are meant to be genuinely negative. Name the larger set that should land bittersweet. Identify which ending(s) are meant to read as the "best" or most positive outcome.
+2. **For every ending meant to read as genuinely positive, explicitly name what real thing is being sacrificed to earn it** before considering the design finished. If nothing comes to mind, the ending isn't ready — it's still a hollow win waiting for its price tag.
+3. **Put the Want and the relationship in direct, structural conflict at the questline's climactic choice**, not as background flavor but as the actual mechanism of the choice. The companion should have to choose, and the choice should cost her something she was genuinely pursuing.
+4. **Check that the loss is proportionate to the companion, not to some universal standard.** What she has to give up should be scaled to what she actually possesses and values — a companion of modest means doesn't need to lose a fortune to feel a real loss; a companion of considerable means might need to lose something bigger to register at all. The measure is "does this cost *her* something real," not "is this the biggest possible loss."
+
+### This principle scales unchanged to district, DLC, and full-game questlines
+
+This is not a companion-specific rule dressed up as a general one — it is the same structural principle at every scope the game uses. A district's, faction's, or subnet's genuinely positive resolution should cost that district/faction/subnet something real and named — a piece of its independence, a tradition, a resource, standing with a rival, a comfortable illusion about itself — specifically in order to gain something even more valuable, using the identical minority-negative/majority-bittersweet/costly-positive distribution described above, just applied at civilizational rather than interpersonal scale. See the full parallel treatment of this at district/faction scope in `Storyline/Side-Content/District_Under_Questline_Design_Method.md`, at DLC/subnet scope in `Storyline/DLC-Questlines/DLC_Main_Questline_Design_Method.md`, and at full-game scope in `Storyline/Main-Story/Main_Quest_Revised_Beat_Structure_TENTATIVE.md`.
+
+---
+
 ## Total Recruitable Pool
 
 **Main game target: TBD — higher than originally estimated.** The pool should be large enough that multiple playthroughs feel genuinely different. Specific count to be established as character design work progresses. **Partially resolved 2026-07-20:** the DLC side of this total now has a real allocation framework (see "Multiple Native Companions Per DLC" below) rather than being an open guess — once each DLC's companion count within its assigned range is finalized, the true grand total (main game + all 7 DLCs) will be derivable rather than estimated.
@@ -168,6 +220,29 @@ Non-recruitable named NPCs: romance status is decided on a per-character basis d
 Romance requires two independent conditions to be met simultaneously. Failing either one closes the route.
 
 **Gate 1 — Questline prerequisite:** The player must have completed the relevant relationship-building questline content with this character. The relationship has to have been built through shared experience and choices, not just dialogue options. This gate is the same for all characters.
+
+**Gate 1 is not satisfied by mere completion — the companion questline's ending type matters, confirmed
+2026-08-09.** Per the "No Good Endings" design law above, every companion questline resolves into one of three
+ending categories: negative, bittersweet/mixed, or positive. Gate 1 is only satisfied by a **bittersweet/mixed
+or positive** ending. **Reaching a negative ending to a companion's personal questline permanently disqualifies
+that character's Romance questline for the remainder of the playthrough** — the Romance route becomes
+structurally unavailable, full stop, regardless of the player's MACHINE stats, traits, or anything else. This
+holds even if the player's build would otherwise clear Gate 2 cleanly (the right stat thresholds, no forbidden
+traits per "Forbidden Traits," below): a negative Companion-questline ending overrides Gate 2 entirely, the
+same way a forbidden trait overrides the standard stat-threshold check (see "Implementation precedence,"
+under "Forbidden Traits," below) — it isn't a competing check the player might still pass on some other
+ground, it's a hard lock that makes Gate 2 irrelevant. A bittersweet/mixed ending, by contrast, is a full pass
+for Gate 1's purposes — the player is not required to secure the companion's best possible personal-questline
+outcome in order to remain eligible for Romance, only to avoid the negative one.
+
+**Why:** a negative ending means the relationship itself broke down or ended badly on its own terms — the
+foundation Romance would need to build on (shared experience, trust, the relationship having actually
+strengthened rather than collapsed) never existed in a state Romance could plausibly grow out of. A
+bittersweet ending, by contrast, still represents a relationship that survived and holds real value, even at
+real cost — exactly the kind of foundation Romance is built to develop further. Locking Romance behind
+"non-negative," rather than behind "the single best outcome," keeps the Dual-Outcome Perk trade-offs genuine
+(a bittersweet resolution is not merely a lesser prize that also happens to forfeit Romance) while still making
+sure Romance never has to pretend a story where things went badly for this character never happened.
 
 **Gate 2 — MACHINE stat / trait threshold:** Each character has a specific profile of what they find attractive, derived from their personality, sensibilities, and history. The player's MACHINE stats and traits must meet that profile. This gate is unique per character.
 

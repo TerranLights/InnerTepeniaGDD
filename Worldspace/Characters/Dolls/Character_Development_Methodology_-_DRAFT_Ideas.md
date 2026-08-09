@@ -2010,3 +2010,19 @@ not. Record before it gets lost in the surrounding material:
   companion gives up something dear specifically in order to gain the player. The player and/or a companion can
   still be the one paying part of that price on the civilization's behalf, but the civilizational stakes need
   their own named sacrifice, not just a reflection of the personal one.
+- **Mechanical consequence — negative Companion-questline endings lock out Romance, confirmed 2026-08-09.** A
+  companion's Companion (personal) questline ending category directly gates her Romance questline: a negative
+  ending permanently disqualifies Romance for that character for the rest of the playthrough, full stop,
+  regardless of MACHINE build or traits. A bittersweet/mixed ending still permits Romance to unlock normally —
+  only the negative category locks it out. Rationale: a negative ending means the relationship broke down or
+  ended badly on its own terms, so the foundation Romance needs to build on never existed in a usable state; a
+  bittersweet ending still represents a relationship that survived and holds real value, even at real cost,
+  which is exactly the foundation Romance is built to develop further.
+- **This is now formally codified as canon, not just recorded here.** The full authoritative version of this
+  entire Design Note — including the mechanical Romance-lock rule above — has been written in full, as
+  self-contained sections requiring no reference back to this draft file, into: `Game-Mechanics/Core-Mechanics/
+  Companion_System.md` (a new "No Good Endings — Ending Distribution and Cost Calibration" section, plus the
+  Romance-lock rule folded into "The Double Gate"), `Storyline/Side-Content/District_Under_Questline_Design_
+  Method.md` (district/faction scale), and — pending — the DLC and full-game equivalents. This entry remains
+  here as the original working-draft record, but the mechanic files, not this file, are now the source of
+  truth for actual design/implementation work.
