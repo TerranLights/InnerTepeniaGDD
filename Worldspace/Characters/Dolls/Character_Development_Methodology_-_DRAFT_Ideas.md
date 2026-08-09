@@ -1595,3 +1595,80 @@ robot psychology, Doll culture, and this project's own established canon, in the
 above). Do not build out full worked scenarios for every axis at this stage — the goal of the future session is
 breadth of axis ideas first, matching how this whole draft file has operated so far (collect candidates, defer
 full construction).
+
+## From *Writing Deep Scenes* — Martha Alderson & Jordan Rosenfeld
+
+This book is organized around a four-quarter plot-pacing framework (Beginning / Emerging Middle / Deeper
+Middle / End, each with fixed "Energetic Markers" like the Point of No Return and the Dark Night) tracking
+three braided plotlines — Action, Emotion, Theme — through every scene. Most of its Action-plotline content and
+its scene-type/pacing mechanics are pure plot-structure craft, outside this methodology's scope (consistent
+with this file's established practice of deprioritizing pure plot/setting/pacing material from other books).
+Its Emotion and Theme material substantially overlaps with arc/climax concepts already captured from Truby,
+Corbett, and St. John above — the same beats recur under new vocabulary (Point of No Return ≈ inciting
+incident, the Dark Night ≈ the Black Moment, the Triumph ≈ the climax). Given that overlap, this book earns a
+lighter-weight treatment than the others: the genuinely new or distinctly-angled items below, not a full
+restatement of arc theory already on file.
+
+- **Strength, Longing, and Fear as the three specific things a Doll's introduction must establish — a distinct
+  triad from Goal/Desire/Lesson.** Where Goal/Desire/Lesson (Boutros, above) covers what she wants and why,
+  this triad adds a component the others don't name explicitly: **Strength** — a positive, competence-based
+  trait or talent, shown early, independent of her wound or her goal. Combined with Longing (roughly equivalent
+  to Desire) and Fear (roughly equivalent to the Greatest Fear already captured from St. John), the discipline
+  is to establish all three quickly, in the same early scene(s), rather than leading with wound/flaw alone —
+  *Wool*'s Jules is introduced as visibly excellent at her mechanical work before anything about her reluctance
+  or fear is shown. Useful check for a companion's introduction: does it show what she's good at, not just what
+  she wants or what hurts her?
+  - **Fear should be hinted, not displayed, in an opening.** A calibration note worth keeping distinct from the
+    Black Moment (where fear is supposed to fully land): "a flicker of anxiety... a tremor of terror... a
+    shiver of dread" is the right opening register — a character who reads as already fully terrified or timid
+    in her first scene risks alienating rather than engaging. Save the full weight of the fear for later.
+
+- **A compact three-stage trait arc**, worth keeping as a fast mnemonic alongside the fuller arc material
+  already captured: **Beginning — introduce traits (both light and dark). Middle (both halves) — deepen and
+  break those same traits under pressure. End — reveal the changed, transformed character.** The value is in
+  the discipline of keeping it to the *same* traits established in the opening rather than introducing new
+  ones late — a companion's transformation should read as those specific early-established traits being tested
+  and altered, not as a different person appearing at the climax.
+
+- **Systematically placing "shadow" material at specific structural locations, not just having it present
+  somewhere.** Citing Jung's shadow (the parts of a personality "outside the light of consciousness"), the
+  book's specific craft contribution is *where* to locate it: in scenes where the protagonist is not in
+  control, in settings under an antagonist's rule, at turning points that force confrontation with a hidden
+  flaw or a hidden skill, and in imagery. Useful as a placement checklist: rather than trusting a Doll's shadow
+  material to surface organically, deliberately seed it at loss-of-control moments and antagonist-controlled
+  spaces specifically.
+
+- **Flaws are repurposed into tools by the end, not eliminated.** A precise, worth-keeping phrasing distinct
+  from "overcomes her flaw": *"his flaws are not completely overcome, they have been transformed into useful
+  tools and resources that the now-integrated protagonist can use for his own growth and the growth of
+  others."* The generative question for a companion's resolution isn't "how does she stop having this flaw,"
+  it's "what does this exact flaw become useful for once she understands where it came from."
+  - **The hero/villain distinction is awareness, not the presence or absence of the flaw itself** — worth
+    stating alongside St. John's "villain as the protagonist's flaw personified" (above) as a sharpened,
+    compatible companion principle: what actually separates the two is that the protagonist's flaw becomes
+    *conscious and integrated*, while the antagonist's identical or mirrored flaw stays unconscious and
+    ultimately becomes fatal to him. Two characters can share a flaw; only one of them ever sees it.
+
+- **The Thematic Significance Statement construction technique.** A concrete, generative device for turning a
+  vague theme-word into something specific enough to actually guide writing: take a generic abstract theme
+  (loss, friendship, overcoming adversity) and complete it with a specific, committed outcome clause — and
+  note explicitly that **the same abstract theme can resolve in opposite directions** depending on the specific
+  story (*"hurt that comes with loss... is inevitable and brings about ultimate healing"* vs. *"...leads to
+  revenge and destruction"*). The discipline is refusing to leave a Doll's or a district's core theme as a bare
+  word — force it into a full, specific, falsifiable-feeling sentence before treating it as settled, since the
+  same starting word can honestly point in incompatible directions and only the completed sentence actually
+  commits to one.
+
+*(Read in full: the Introduction and Chapter One (Plot Overview, establishing the Action/Emotion/Theme
+framework and the four-quarter structure), Chapter Eight (Emotion in the Beginning Scenes) in full, and the
+opening sections of Chapter Ten (Emotion in the Deeper Middle) and Chapter Eleven (Emotion in the End Scenes).
+Chapter Fourteen's Thematic Significance Statement section was read directly. Not read in depth: Chapters Two
+and Three (Scene Overview, Scene Types — pacing/scene-mechanics craft), all of Part One (Action in each
+quarter — plot-pacing craft, confirmed out of scope by the pattern established with prior books), Chapter Nine
+(Emotion in the Emerging Middle — the middle chapters follow the same established arc pattern as Eight/Ten/
+Eleven with no indication of a structurally different technique), and most of Part Three (Theme) outside the
+Thematic Significance Statement section. Given how much of this book's psychological-arc content converges
+with material already captured from Truby, Corbett, and St. John under different names, and that its
+distinctive content (plot pacing, Energetic Markers, scene types) sits outside this methodology's established
+scope, this is judged adequately mined without a full page-by-page pass — a deliberate scope call, not a
+time-pressure skip.)*
