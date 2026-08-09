@@ -1890,3 +1890,74 @@ Flat and Negative Arcs' Second and Third Act chapters beyond what's summarized h
 if My Story Has No Character Arc?). Given how comprehensively the core framework — which is what actually
 generalizes across every future Doll — has already been captured, this is judged sufficient without a complete
 page-by-page pass; the unread material is chiefly beat-by-beat elaboration of principles already on file.)*
+
+## From *Creating Character Arcs Workbook* — K.M. Weiland
+
+The exercise-format companion to the book above, restructured as five full chapters (Positive Change, Flat,
+and all three Negative Change Arc variants — Disillusionment, Fall, Corruption), each walking every single
+structural beat from Characteristic Moment through Resolution as a fill-in-the-blank exercise set. Because the
+main book only gave the Negative Arc variants full First Act treatment before compressing the middle and end
+into a shared discussion, **this workbook's real distinct value is that it fully works out the Midpoint, Second
+Half of the Second Act, and Third Plot Point for the Fall and Corruption Arcs specifically** — beats the main
+book left underdeveloped for those two variants. That gap-filling material is what's captured below; the
+exercise questions themselves are otherwise near-identical restatements of the main book's own checklists
+already on file, so they aren't reproduced separately.
+
+- **The Negative Arc's Midpoint is a refused chance at redemption, not merely an absent realization.** A
+  sharper, "dark mirror" version of the Moment of Truth already captured from the main book: in a Fall or
+  Corruption Arc, the character genuinely *sees* the Truth clearly enough at the Midpoint to have a real chance
+  to embrace it — and then **consciously rejects it in favor of embracing a worse Lie.** This is a different
+  and more damning shape than simply failing to notice the Truth; the character had the opening and chose
+  against it. Weiland's own worked examples make this concrete: Anakin explicitly agrees aloud that a secret
+  relationship with Padmé "would destroy them," then marries her anyway; Heathcliff is offered the chance to
+  accept he's better off without the dead Cathy, and instead chooses to court her haunting rather than let her
+  go. For a corrupted companion or hostile faction leader, the Midpoint isn't "the moment she didn't get it" —
+  it's "the moment she got it, and said no anyway," on screen, in a way the audience/player can witness
+  directly.
+- **Escalation via explicit Before/After scene-pairing.** A concrete drafting exercise worth using directly:
+  write four early scenes demonstrating a companion's original Lie-driven (or Truth-driven, for a Corruption
+  Arc) behavior, then deliberately draft four *parallel* later scenes that put the character in a structurally
+  similar situation but show the same behavior pattern escalated or inverted. Weiland's paired example: "Before
+  — Heathcliff hated and resisted his cruel brother-in-law Hindley, but still subjected himself to Hindley's
+  punishments. After — Heathcliff does everything he can to destroy Hindley." The technique's value is
+  structural parallelism, not just "things get worse" — pairing a *specific* early scene with a *specific* later
+  one that occupies the same narrative slot makes the deterioration legible rather than merely asserted.
+- **The Four-Domain Damage Assessment.** A clean, reusable checklist for cataloguing how a Doll's fall or
+  corruption manifests, worth using directly when writing a negative-arc companion's Second Half of the Second
+  Act: what are the destructive consequences of her Lie-driven mindset and actions on herself, specifically
+  broken into (a) mental, (b) emotional, (c) physical, and (d) spiritual — plus, separately, at least four
+  distinct destructive consequences on the world and other characters around her. Forces the corruption to be
+  shown across multiple concrete domains rather than staying vague or single-note.
+- **The Truth never fully disappears, even mid-fall — it persists subconsciously and has to be actively
+  suppressed.** Explicit in both the Fall and Corruption exercise sets: "How is the Truth still present in the
+  character's life, if only on a subconscious level?" and "How is the character in more desperate need than
+  ever of the Thing She Needs — even though she won't admit it?" Useful discipline for writing a companion
+  mid-corruption: she isn't simply "evil now" with the Truth erased — she's actively, effortfully resisting
+  something she still partly knows, which is what keeps her human/legible rather than becoming a flat villain.
+- **The Negative Arc's Third Plot Point is an apparent triumph that is actually the true low point** — the
+  precise inverse of the Positive Change Arc's devastating-low-that-forces-a-choice. The character achieves
+  real, tangible victory in the external plot (Heathcliff completes his revenge and gains the property; Sister
+  Aloysius successfully has Father Flynn expelled) — but the "win" is hollow, costs her soul, and brings her no
+  closer to what she actually needed. Worth treating this inversion as a deliberate craft choice for a
+  corrupted companion's climactic beat: give her the material victory in full, on-screen, precisely so its
+  emptiness can land harder than a straightforward defeat would.
+  - **Foil supporting characters at this beat, in two directions at once**: some supporting characters should
+    visibly demonstrate the better road the protagonist could have walked had she chosen the Truth instead
+    (a road-not-taken contrast), while other supporting characters should show their *own* negative descent as
+    a direct, visible consequence of the protagonist's corrupting influence. Populating a fallen companion's
+    Third-Plot-Point scene with both types of foil at once — someone who chose differently, and someone she
+    dragged down with her — sharpens the moment considerably more than either alone.
+  - **Third Act of a Fall/Corruption Arc as inverted resurrection**: rather than rising from the low point
+    strengthened, the character "rages futilely against death... rather than rising into a personal
+    resurrection," blocking the pain of what she's lost with self-justification (the Thing she Wanted was
+    "worth the price"). This gives a specific emotional register for a corrupted companion's final act, distinct
+    from simple villainous confidence: defensive, effortful self-conviction rather than genuine certainty.
+
+*(Given the heavy structural and question-level overlap with the main book already captured in full above, this
+workbook was read specifically for the gap it fills — the Fall and Corruption Arcs' Midpoint, Second Half of
+the Second Act, and Third Plot Point sections, all read in full. The Positive Change Arc chapter, the Flat Arc
+chapter, and the Disillusionment Arc chapter were not read in comparable depth, since their exercises are
+near-identical restatements of material already captured from the main book with no comparable gap to fill —
+the main book already gave those three variants (or in Disillusionment's case, a fully worked adjacent example)
+complete beat-by-beat coverage. This is a deliberate, targeted read rather than a full pass, aimed specifically
+at what the main book left thin.)*
