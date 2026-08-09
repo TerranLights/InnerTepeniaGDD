@@ -2791,6 +2791,18 @@ own No Good Endings law and Dual-Outcome Perk work, and it maps onto both with r
     which of these two types it is. A Positive/Negative Change Arc companion needs Type 1 (a real self-
     confrontation with her Lie made undeniable); a Flat Arc companion more naturally takes Type 2 (a mortal-
     stakes realization that hardens her resolve without requiring her to actually change who she is).
+- **The LOCK System — a four-part checklist for whether a protagonist and her core conflict can sustain a full
+  story.** Lead (a protagonist worth following, capable of carrying real stakes), Objective (something she
+  wants or needs badly enough to drive the whole story), Confrontation (opposition strong enough that the
+  Objective is genuinely in doubt), Knockout (an ending that lands with real force — tying directly back to
+  the "satisfaction" standard above). Bell ties the Confrontation leg to death-stakes in physical, professional,
+  and psychological form — a partial (three-item) overlap with the fuller **Five Fundamental Types of Death**
+  already captured earlier in this file (Social, Spiritual, Psychological, Professional, Physical). Bell's
+  version isn't a fifth independent source confirming a five-item list, only three of the five — the existing
+  five-type framework should stay the canonical version the methodology actually uses, not be narrowed down to
+  match Bell's shorter list. Directly usable as a pre-write checklist for any companion arc or DLC main
+  questline: confirm all four LOCK letters are present, and confirm the Confrontation is pinned to at least one
+  of the full five named kinds of death (not just the three Bell names) rather than a vaguer, unnamed threat.
 - **Practical workflow note, matching (and specifically justified by) advice already captured elsewhere in
   this file**: rather than starting from either a blank ending or a fully blank middle, find the Mirror Moment
   first — it's described as the single scene that reveals what a given story (or Doll's arc) is actually
