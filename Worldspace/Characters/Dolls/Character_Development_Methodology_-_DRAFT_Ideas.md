@@ -2430,6 +2430,60 @@ named content:
   Doll actually need her own Change Arc after all" — if her questline is pushing her up against a shadow-stage
   beyond what she's already lived, that's the tell.
 
+**Individual profiles for all six Flat archetypes** (each entry: what the state represents, its scope/setting,
+and its distinct value as a design tool):
+
+- **Child (precedes Maiden).** Represents raw, untapped potential rather than any Truth actually learned yet —
+  a state of trust, resilience, and freedom from responsibility, symbolically bounded by "Home." Because a
+  Child hasn't learned anything archetypal yet, she can't hand down wisdom the way later Flat states can — her
+  impact on others comes instead from her sheer unguarded presence, which can startle hardened older characters
+  back toward their own lost openness. Directly useful for a very young or newly-activated Doll: she doesn't
+  need a borrowed Truth to be narratively useful to an older companion's arc — her mere unformed honesty can do
+  real work on its own.
+- **Lover (between Maiden and Hero).** Represents first, unformed love/passion — intense but possessive and
+  immature, since it's built on only one completed arc (Maiden's "personal sovereignty is necessary for growth
+  and survival"). Distinctively episodic: unlike the Maiden and Hero arcs on either side of it, the Lover's
+  symbolic setting (the village) doesn't expand — she stays in place while everything else changes around her.
+  Not limited to romance specifically — the same intensity-without-full-maturity register applies to any young
+  character's all-consuming devotion to a skill, cause, or craft. Most useful for catalyzing *other* still-
+  Maiden-stage characters, especially the specific person she loves, whose own Maiden Arc her love may be the
+  literal trigger for.
+- **Parent (between Hero and Queen).** The Hero's "happily ever after," made literal: stable, content, focused
+  inward on the hearth rather than outward on the wider Kingdom, having already proven the capacity for
+  sacrifice that defines the Hero. Her Truth to pass down is a lived, daily version of the Hero's own — "all my
+  actions affect those I love" — made prosaic rather than heroic. Her single most important relationship is with
+  a Maiden-stage character, since the Parent/Maiden dynamic is definitionally the site of first individuation —
+  and a Parent who fails to represent the Truth well risks becoming that Maiden's own antagonist (Too-Good
+  Mother, Naïve Father) rather than her guide. Directly useful design check: a Parent-archetype companion's
+  primary narrative utility is almost always in relation to a specific younger Doll she's raising or has raised,
+  not in relation to the wider world.
+- **Ruler (between Queen and King).** The height of a person's power, and — distinctively — someone who has
+  already achieved both full inner mastery (via Maiden/Hero) *and* real outer control (via Queen), which is
+  specifically what makes her fit to bring order to others: she can master a Kingdom because she's already
+  mastered herself. Content, not ambitious — she's already at the top of her own defined, bordered realm and
+  isn't reaching for more. Most useful for initiating Hero-stage characters into adulthood, and for smoothly
+  handing power to an up-and-coming Queen without resistance (the healthy version of a succession that, done
+  badly, produces a Puppet or Tyrant instead). A clean litmus test for distinguishing Ruler from Parent in a
+  given Doll: does she primarily *love and protect* her charges (Parent), or does she primarily *impose healthy
+  order and demand responsibility from* them (Ruler)?
+- **Elder (between King and Crone).** The resting form of the Crone — someone freshly and often painfully
+  withdrawn from temporal power after the King Arc's sacrifice, still integrating grief and loss rather than
+  fully at peace. Symbolically isolated (a hut in the woods) even when not literally alone; her wisdom is real
+  but has to be actively sought out by others rather than freely given, since she's still processing her own
+  transition. Distinctively unlikely to interact meaningfully with Ruler- or King-stage characters (proximity to
+  power risks pulling her backward into a regression she's still recovering from) and unlikely to be sought by a
+  Hero specifically (a Hero at her door usually signals *her own* Call to the Crone Arc, not a mentorship
+  errand). Best paired with a Child, Maiden, Lover, Parent, or Queen — someone earlier in the cycle than she is.
+- **Mentor (between Crone and Mage).** Has already completed the Crone Arc and made a real, hard-won peace with
+  mortality — which is exactly what frees her to wander untethered (no fixed home, symbolically "the whole
+  Kingdom") and to actively *call* younger characters into their own quests rather than merely waiting to be
+  asked, unlike every quieter Flat archetype before her. The one Flat archetype defined by being a deliberate
+  catalyst rather than a passive resource: she shows up specifically to make something happen. Most naturally
+  paired with Hero- and King-stage companions, since her arrival tends to coincide with the two biggest
+  structural thresholds in the whole cycle (First Plot Point and Third Plot Point equivalents). Worth
+  remembering when casting a Mentor-type Doll: her presence in a scene should itself signal that something
+  consequential is about to be demanded of whoever she's approaching.
+
 ### The Twelve Archetypal Antagonists — vocabulary for structuring opposition
 
 - **Antagonist vs. Antagonistic Force, formally distinguished.** The *antagonist* is a concrete
@@ -2455,6 +2509,63 @@ named content:
   Character, since the contagonist's opposition is about the protagonist's *methods* and *resolve*, not about
   representing the opposing thematic Lie directly.
 
+**Individual profiles for all six antagonist pairs**, each one an outer/inner duo tied to a specific Life Arc,
+usable as a menu when a companion or district needs a concretely-shaped opponent rather than a generic "bad guy":
+
+- **Authority and Predator (Maiden's antagonists).** Authority is the genuine paradox at the center of a
+  Maiden's world: the same figures who raised and protect her are also who she must break from, and they are
+  rarely evil — usually just people who have run out of what they know how to teach, or who cling out of real
+  love rather than malice. The Predator is a seductive, toxic promise of a shortcut out of that world (romantic
+  or otherwise) who, if accepted, only re-entrenches her in the very control structure she was trying to escape
+  — and can double as her own inner critic, the voice insisting she isn't ready to trust herself. Useful design
+  note: Authority and Predator don't have to be different people — a single figure (a love interest, a boss, a
+  faction) can plausibly *be* both at once.
+- **Dragon and Sick King (Hero's antagonists).** The Dragon is a comparatively simple, external "monster" —
+  not because Heroes actually face simpler moral situations, but because a young protagonist genuinely
+  *perceives* conflict in binary terms at this stage; whatever the Dragon guards or hoards (the "elixir")
+  symbolizes the Kingdom's wellbeing, not just treasure. The Sick King represents systemic failure of
+  leadership one level up — a corrupted or incapacitated authority whose illness is the *reason* the Kingdom
+  needs a Hero in the first place, and who can only be healed (or replaced) by the Hero's own growth. Both are
+  explicitly also internal: the Dragon mirrors the Hero's own capacity for selfish, hoarding power; the Sick
+  King mirrors his own temptation toward corrupted authority. A companion pursuing a Hero Arc plausibly needs
+  both a monster to fight *and* a failing authority figure whose failure is what made the fight necessary.
+- **Invader and Empty Throne (Queen's antagonists).** The Invader is an external threat still viewed through an
+  "us vs. them" lens (a Queen's worldview hasn't yet broadened past her own household/Kingdom) — and, notably,
+  the Invader is often just as tribal in the opposite direction, which leaves real room for a story where
+  reconciliation rather than conquest resolves the conflict. The Empty Throne is the more load-bearing of the
+  two: existing leadership has failed or is simply, healthily, vacated, and it's specifically the *absence* of
+  a functioning authority — not the Invader alone — that forces the Queen to step up rather than delegate. A
+  useful district/faction-scale application: an external threat alone rarely justifies a companion or faction
+  leader stepping into real power; pairing it with a genuine leadership vacuum does.
+- **Cataclysm and Rebel (King's antagonists).** The first of the "spiritual" antagonist pairs — the Cataclysm
+  is deliberately supernatural or at least unprecedented, specifically because it can't be defeated by any of
+  the King's previously-successful methods; its real function isn't malice but a messenger's warning that the
+  time for holding onto power has passed. The Rebels are the King's own subjects, understandably distrustful of
+  a leader who appears to be faltering or withdrawing right when they need him most — and they represent the
+  part of the King himself that also wants to refuse the coming sacrifice and cling to power by force instead.
+  Notably, Rebels are frequently redeemable, sometimes by the King's own sacrifice. Useful for succession-crisis
+  or "beloved leader in visible decline" district storylines: give the crisis both an unprecedented external
+  shape the old guard's usual tools can't solve, and a faction of doubters close to home whose distrust is
+  understandable rather than cartoonish.
+- **Death Blight and Tempter (Crone's antagonists).** By this stage the antagonists have become almost entirely
+  internal/symbolic even when they're given external form: the Death Blight is never really Death itself but an
+  *imbalance* between Life and Death (a culture that's over-embraced death, or one that's refused to accept it
+  at all) — old age, illness, isolation, or a "death culture" infecting the young the Crone mentors are all valid
+  concrete manifestations. The Tempter offers a specific, seductive trap: the promise of power *over* death
+  (echoing the Sorcerer's core corruption already captured above) rather than peace *with* it — and works best
+  when the temptation is genuinely persuasive, since the strength of the argument sets the ceiling on how
+  meaningful the Crone's eventual refusal can be.
+- **Evil and the Weakness of Humankind (Mage's antagonists).** The most abstract pairing in the whole system,
+  fittingly, since the Mage has moved furthest from the young arcs' simple us-vs-them framing. "Evil" here is
+  rarely a person — more often a faceless, near-mythic force (or, in a small/realistic story, something as
+  modest as one person's private corruption) — while "the Weakness of Humankind" is the far more intimate and
+  dangerous half of the pair: ordinary frailty in the hearts of the very people the Mage loves and is about to
+  leave behind. Critically, **the Mage cannot defeat this second antagonist directly** — trying to control or
+  protect people from their own weakness is itself established as the Mage's own potential fall into evil (see
+  the Sorcerer's "power over" corruption, above). His only real tool is example and inspiration, then stepping
+  back. Directly reinforces the Mage Arc's own defining lesson already captured: restraint, not action, is the
+  climax.
+
 ### Practical Application
 
 - **Two-slot minimum supporting-cast checklist for any companion's personal questline**: does she have at least
@@ -2469,15 +2580,12 @@ named content:
   Warrior, and other named archetypes exist outside this six-arc system and can be mined on their own terms
   where they fit better than anything in this taxonomy.
 
-*(UPDATED — per dev request for "sufficient detail" on the arcs and shadow archetypes specifically: all six
-Life Arc chapters (2-7: Maiden, Hero, Queen, King, Crone, Mage) and all six Shadow Archetype chapters (9-14:
-Damsel/Vixen, Coward/Bully, Snow Queen/Sorceress, Puppet/Tyrant, Hermit/Witch, Miser/Sorcerer — covering all
-twelve individual shadows) have now been read in full, beat-by-beat and archetype-by-archetype, not merely
-sampled via the Hero Arc and the Master List. That full detail is captured above. Still read only at the
-framing/overview level, not individually: the six Flat Archetype chapters (16-21: Child, Lover, Parent, Ruler,
-Elder, Mentor) and the twelve Antagonist chapters (23-28: Authority/Predator, Dragon/Sick King, Invader/Empty
-Throne, Cataclysm/Rebel, Death Blight/Tempter, Evil/Weakness of Humankind) — Chapter 15's Flat-archetype intro
-and Chapter 22's Antagonist intro already captured above still supply the compact reference for those two
-categories, and were judged sufficient since the dev's request specifically named the arcs and the shadow
-archetypes, not these two remaining categories. Also still read only via the Master List/Appendix level: the
-closing practical-application chapter (29) and both appendices, already fully captured above.)*
+*(FULLY UPDATED — every chapter in Parts 1 through 4 has now been read individually and in depth, per dev
+request. All six Life Arc chapters (2-7: Maiden, Hero, Queen, King, Crone, Mage), all six Shadow Archetype
+chapters (9-14, covering all twelve individual shadows), all six Flat Archetype chapters (16-21: Child, Lover,
+Parent, Ruler, Elder, Mentor), and all six Antagonist-pair chapters (23-28, covering all twelve individual
+antagonists) have been read and distilled above — not sampled via a single worked example plus the Master List,
+as in the first pass. Only Part 5 (the closing practical-application Chapter 29) and both appendices remain at
+the framing/overview level captured in the original pass, since those chapters are themselves already
+summary-level material in the source rather than per-archetype deep dives. This book is now essentially fully
+mined for this methodology's purposes.)*
