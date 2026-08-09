@@ -1476,3 +1476,122 @@ applying the method to this project's own Dolls and scenarios, not in the specif
 This is a deliberate judgment call rather than a time-pressure skip: reading all thirty would mean reading the
 same structural pattern twenty-nine more times with different surface content. Flagging this explicitly so the
 disposition decision below is made with full knowledge of what was and wasn't read.)*
+
+## Synthesized Tool: The Scenario Diagnostic Template
+
+This is an original synthesis, not a distillation from any one source — it separates Maisel's scenario/
+question/interpretation *mechanism* (above) from his specific real-world content, so this project can build
+its own scenario bank natively in Tepenia's own psychology (Robot Universals, Doll-specific canon, this
+project's own design laws) instead of importing 20th-century American scenarios wholesale. Use this to
+construct new diagnostic scenarios from scratch for any Doll whose psychology feels underspecified.
+
+**Construction steps:**
+
+1. **Choose one axis, not a list.** Pick a single, specific personality dimension the scenario exists to
+   reveal — e.g., "response to unearned authority," "capacity for domestic warmth," "relationship to her own
+   mortality/integrity" (Ch.4), "how she carries Personality Module tension when it costs her something"
+   (Ch.5), "what she does with a trust-bond overture she isn't sure she wants" (Ch.10/17). A good axis is
+   narrow enough that four or five concrete choices can meaningfully divide people along it. Resist the urge
+   to test three things in one scenario — that's what variants (step 7) are for.
+
+2. **Build a concrete, populated situation, not an abstract question.** Write a short setup that puts the
+   character inside a specific sensory situation and requires actively populating supporting details (who
+   else is present, what's the physical setting) as part of engaging with it. This populate-as-you-go step is
+   itself generative of world/NPC detail, not just character detail — exactly as it was for Maisel's Family
+   Picnic (populating the extended family is half the exercise).
+
+3. **Break the situation into 3-6 decision points along its natural timeline.** Good decision points:
+   first reaction (before she's committed to anything), an early interaction with a specific other person,
+   a complication or pressure point, the climactic/defining choice, and how she carries it afterward (alone,
+   and in what she says to whoever else was involved). Every decision point should require a real choice —
+   not filler beats.
+
+4. **For each decision point, write 4-6 concrete answer options spanning genuinely different psychological
+   types — not degrees of the same reaction.** Options must be *doable*, not abstract: "she starts
+   re-organizing every tool in the workshop" is usable; "she feels anxious" is not. Aim for real range: at
+   least one avoidant option, one confrontational option, one option that reveals unexpected warmth or
+   unexpected coldness, and one option that's specifically *weird* enough to surprise you.
+
+5. **For each option, write one interpretive line using "consistent with" language.** Name the underlying
+   trait, wound, or worldview the choice suggests, without claiming certainty — this is the step that turns
+   a multiple-choice list into an actual diagnostic rather than a personality quiz. ("Immediately deferring
+   to the human in the room without being asked is consistent with a Doll who was built or spent formative
+   years in a city with weaker robot-standing norms, or who has an unresolved Cognitive Imperative conflict
+   she resolves by over-complying.")
+
+6. **Add 2-4 lightweight branch questions with no option lists.** Unscripted "what if" complications, meant
+   for after the core diagnostic is done, to test improvisation once a throughline is established — Maisel's
+   own "what would she do if a fight erupted / a stranger arrived / she wanted to leave."
+
+7. **Write 1-2 reflavored variants of the same underlying axis.** Same diagnostic, different surface setting,
+   so one construction effort produces a reusable tool rather than a one-off. (A "trust-bond overture" scenario
+   could be varied as: the overture comes from someone she's wary of vs. someone she's already drawn to vs.
+   someone whose overture is clearly born of loneliness rather than real interest.)
+
+8. **Close by grounding the scenario in established canon, not invented psychology.** Where Maisel closes each
+   scenario with a real-world psychology essay, this project should close with a short note tying the axis back
+   to the relevant Robot Universals chapter, an existing design law, or a memory entry — keeping every new
+   scenario anchored to what's already established rather than free-floating.
+
+9. **Enforce the consistency discipline when actually answering.** Per Maisel's own core caution (above): the
+   options chosen for a single Doll across every decision point in a scenario — and ideally across every
+   scenario she's run through — should read back as *one* coherent psychology, not an unrelated grab-bag of
+   individually-interesting picks. If two chosen answers don't obviously belong to the same person, that's a
+   signal to reconsider one of them, not a sign of realistic complexity.
+
+**Worked example** (axis: how a Doll carries Personality Module tension when preserving a bond costs her
+something — cross-referencing the existing "Robot-Universal Friction Bank" entry above, Ch.5's Personality
+Module material, and Ch.10/17's trust-bond framework):
+
+*Situation — "Asked to Break Character":* Someone your Doll has a real bond with — a trust-bonded partner, a
+squad-mate, a mentor — asks her, in a moment of genuine need, to do something that runs directly against a
+core Personality Module trait: a normally reserved Doll is asked to be the loud public face of a plan; a
+normally blunt Doll is asked to smooth-talk someone to protect a third party; a normally cautious Doll is asked
+to take point on something reckless. Populate who's asking, what the stakes are, and why it has to be *her*.
+
+- *Decision point 1 — her first reaction, before she's agreed to anything:*
+  - She agrees instantly, before she's let herself feel the cost — consistent with a Doll whose trust-bond
+    commitment overrides her own comfort by default, possibly to a fault.
+  - She asks "why me" before answering — consistent with a Doll who needs the request to make sense on its
+    own terms before she'll override herself for it.
+  - She feels a flash of resentment she immediately suppresses — consistent with a Doll who's done this kind
+    of self-override before and is quietly keeping score of it.
+  - She says no, and offers an alternative that doesn't require her to break character — consistent with a
+    Doll whose sense of self is not negotiable even for someone she loves, for better or worse.
+  - She's flattered to be asked, mistaking the request for evidence she's trusted with something hard —
+    consistent with a Doll whose self-worth is still tangled up in being useful rather than being herself.
+
+- *Decision point 4 — how she processes it afterward, alone:* [construct with the same 4-6-option, one-line-
+  interpretation pattern as decision point 1, above — e.g., does she rehearse the moment looking for what she
+  could have done better, does she dismiss it as nothing, does she feel a private pride distinct from anything
+  she'd admit to the person who asked, does she feel something in her Personality Module actually *shifted*
+  and now isn't sure it will shift back.]
+
+*(Decision points 2, 3, and 5 follow the same construction pattern — an early performance/complication/
+aftermath-conversation beat, each with 4-6 concrete options and one-line "consistent with" interpretations.
+Only points 1 and 4 are fully worked here to keep this entry from ballooning into a full scenario write-up;
+the pattern demonstrated is sufficient to build out the rest, or any new scenario, on demand.)*
+
+**Candidate Tepenia-native axes worth seeding into a future scenario bank** (not yet built out — a starting
+list for whenever this methodology moves from draft ideas to an actual scenario library): response to a human
+treating her competence as surprising rather than assumed (Human-Robot Relations Baseline); response to
+encountering a robot from a city with a visibly different Community Infrastructure/local culture than her own
+(City/Locality Identity, Ch.13); what she does the first time her own mortality/integrity threshold becomes
+concretely real to her rather than abstract (Ch.4); how she handles a generational-identity gap with an older
+or younger robot she has to work closely with (Ch.14); her reaction to a district's or subnet's belief system
+she finds genuinely alien (Religion/Belief material, Ch.15, and [[feedback_district_belief_consequence_default]]);
+what she does when a casual, non-committed sexual/romantic overture arrives from someone she respects but
+doesn't want a trust-bond with (Ch.17, sized correctly per the existing "casual sex is a real minority pattern"
+correction already noted above); and how she responds the first time someone asks her to justify a City
+National Connection or subnet loyalty she's never had to defend out loud before.
+
+**FLAGGED FOR FUTURE ATTENTION — axis brainstorming session.** This template and its two seed lists (general-
+purpose axes implied by Maisel's 30 scenarios, and the short Tepenia-native list immediately above) are a
+starting point, not a finished bank. Come back to this section specifically to run a dedicated brainstorming
+pass generating more axes in both categories: more general-purpose personality axes (the kind any character in
+any setting could be tested against — response to boredom, response to sudden power, response to being
+doubted, etc., in the spirit of Maisel's list but not copied from it) and more Tepenia-native axes (specific to
+robot psychology, Doll culture, and this project's own established canon, in the spirit of the six seeded
+above). Do not build out full worked scenarios for every axis at this stage — the goal of the future session is
+breadth of axis ideas first, matching how this whole draft file has operated so far (collect candidates, defer
+full construction).
