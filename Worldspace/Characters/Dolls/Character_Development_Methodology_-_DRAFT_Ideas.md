@@ -2566,26 +2566,54 @@ usable as a menu when a companion or district needs a concretely-shaped opponent
   back. Directly reinforces the Mage Arc's own defining lesson already captured: restraint, not action, is the
   climax.
 
-### Practical Application
+### Practical Application — expanded from the closing chapter's full "Five Considerations" framework
 
-- **Two-slot minimum supporting-cast checklist for any companion's personal questline**: does she have at least
-  one Impact Character (a Flat-archetype figure who already knows the Truth she's working toward), and does she
-  have a named antagonist pair (drawn from her arc's own antagonist set, or — per the technique above — from
-  the next stage's aggressive shadow)? A fast audit for whether a companion's supporting cast is actually doing
-  its job.
-- **"Where has this character already been" determines what her next arc should be**, directly useful for
-  planning a returning companion's next DLC appearance: identify which arc she already completed, and the next
-  one in the fixed sequence is the natural candidate — not a repeat of the same arc-type she already resolved.
-- **This is one system among many, not exhaustive** — Weiland's own closing caution: Trickster, Femme Fatale,
-  Warrior, and other named archetypes exist outside this six-arc system and can be mined on their own terms
-  where they fit better than anything in this taxonomy.
+The source book closes with five named considerations for actually applying this whole system, plus a handful
+of standing caveats about the system's own limits. Worth capturing as a genuine five-step workflow, not just
+the two items already distilled from it above:
 
-*(FULLY UPDATED — every chapter in Parts 1 through 4 has now been read individually and in depth, per dev
+1. **Identify which archetype is actually already present, rather than picking one abstractly first.** Two
+   valid directions: start from an archetype and build a Doll to fit it, or — usually more productive when a
+   companion concept already exists — look at what's already been established about her and ask which of the
+   six arcs (or which shadow, if she's meant to start compromised) her existing material already gestures
+   toward. The generative discipline either way is naming the arc explicitly rather than leaving it implicit.
+2. **Consider the arc across a whole series, not just one story, if the companion recurs.** Already captured
+   above as "series-spanning arcs" and "where has this character already been determines what's next" — worth
+   restating here as its own numbered step in the workflow: before locking a returning companion's DLC arc,
+   explicitly decide whether this is a fresh full arc, a Flat Arc built on a Truth she already earned, or a
+   smaller sub-arc nested inside a larger one spanning multiple appearances.
+3. **Use the protagonist's chosen arc to select and populate her supporting cast.** The two-slot checklist
+   already captured above (an Impact Character from the Flat archetypes, an antagonist pair matched to her arc)
+   is this step in compact form — worth keeping as the fast version, with the fuller version being: once a
+   Doll's arc is fixed, actively look for which specific Flat archetype and which specific antagonist pairing
+   from the system best serve that arc, rather than inventing supporting-cast roles from scratch each time.
+4. **Let the chosen archetype's built-in theme actually govern word and scene choice**, not just the big Lie/
+   Truth statement. Each arc arrives with its own thematic gravity (the Maiden's submission-vs-sovereignty, the
+   King's strength-vs-surrender, and so on, already captured above) — once an archetype is chosen for a Doll,
+   treat that theme as a standing filter for what imagery, dialogue, and minor scene choices actually belong in
+   her material, not just a note attached to her Lie/Truth pair.
+5. **Draw on the designer's own lived experience of these same life stages as a resource, not just an abstract
+   system.** The book's closing argument is that a writer's personal sense of which arc she's currently
+   living — or has already lived, or is only beginning to approach — is itself real material worth mining when
+   writing a Doll at that same stage, since the archetypal pattern is something every person actually goes
+   through, not just a structure imposed on fiction from outside.
+
+**Standing caveats worth keeping alongside the five steps:**
+- **The system doesn't have to be applied literally or in strict sequence.** A Doll's story can use archetypal
+  language and beats symbolically without any of the trappings being literal, and a single story can blend or
+  compress multiple arcs rather than presenting exactly one per neatly bounded chapter of her life.
+- **This is one archetype system among many, not exhaustive or the only valid lens.** Named archetype-types
+  that sit outside this particular six-arc cycle (a Trickster, a Femme Fatale, a straightforward Warrior, and
+  others) remain legitimate tools in their own right for a Doll whose psychology doesn't map cleanly onto any
+  of the 24 archetypes captured above — the system should be reached for because it fits, not forced onto every
+  companion regardless of fit.
+
+*(FULLY UPDATED — every chapter in Parts 1 through 5 has now been read individually and in depth, per dev
 request. All six Life Arc chapters (2-7: Maiden, Hero, Queen, King, Crone, Mage), all six Shadow Archetype
 chapters (9-14, covering all twelve individual shadows), all six Flat Archetype chapters (16-21: Child, Lover,
-Parent, Ruler, Elder, Mentor), and all six Antagonist-pair chapters (23-28, covering all twelve individual
-antagonists) have been read and distilled above — not sampled via a single worked example plus the Master List,
-as in the first pass. Only Part 5 (the closing practical-application Chapter 29) and both appendices remain at
-the framing/overview level captured in the original pass, since those chapters are themselves already
-summary-level material in the source rather than per-archetype deep dives. This book is now essentially fully
-mined for this methodology's purposes.)*
+Parent, Ruler, Elder, Mentor), all six Antagonist-pair chapters (23-28, covering all twelve individual
+antagonists), and the closing practical-application Chapter 29 (its full "Five Considerations" workflow plus
+standing caveats, expanded above from the earlier compressed 3-bullet pass) have all been read and distilled in
+full. Only the two appendices remain at the level captured in the original pass — appropriate, since they are
+themselves nothing more than a compact cross-reference table restating material already captured in full above,
+not additional content of their own. This book is now fully mined for this methodology's purposes.)*
