@@ -1961,3 +1961,52 @@ near-identical restatements of material already captured from the main book with
 the main book already gave those three variants (or in Disillusionment's case, a fully worked adjacent example)
 complete beat-by-beat coverage. This is a deliberate, targeted read rather than a full pass, aimed specifically
 at what the main book left thin.)*
+
+## Design Note: Ending Distribution, and What "No Good Endings" Actually Means
+
+**This is a standing calibration note from the dev, not sourced from any book — flagged prominently here
+because the last two entries (Weiland's Negative Change Arc taxonomy and its Workbook gap-fill) are dense
+enough on tragic/fallen outcomes that they could be misread as a recommendation to default to them.** They are
+not. Record before it gets lost in the surrounding material:
+
+- **Negative endings are one option among several, not the default or the majority.** For companion and
+  romance questlines across the project, the intended distribution is: negative endings are a minority — one,
+  or at most a handful, of the total possible outcomes for any given Doll; **bittersweet/mixed endings should
+  be the most common category by a real margin**; and genuinely positive endings should be achievable and
+  real, not a trap or an illusion.
+- **This project's existing "No Good Endings" law does *not* mean "no positive endings."** It means no
+  *costless* positive endings. A true positive resolution must still cost the Doll (and ideally the player too)
+  something real — it is not a "no good endings" law in the sense of forbidding good outcomes, it's a law
+  against good outcomes that come free.
+- **The specific mechanic for a genuine positive ending, as the dev described it: the Doll (and ideally the
+  player) sacrifices something they truly care about, specifically *in order to* gain each other** — not an
+  unrelated cost paid on the side, but the bond itself being the thing purchased at real price. Losing
+  something dear is the price of the relationship, not an incidental tax on an otherwise-free win.
+- **This is a direct, natural application of Weiland's own machinery already captured above**, which is worth
+  using explicitly rather than reinventing: the Third Plot Point's "Ultimate Choice Between Want and Need" is
+  exactly the structural slot for this — and Weiland's own law that *"whatever he chooses, he will have to
+  sacrifice something of great value; likewise, whatever he chooses, he will also gain something of great
+  value"* is precisely the mechanism the dev is describing. The reframe for a genuine positive companion
+  ending: **the Want and the relationship are put in direct conflict at the Third Plot Point, and choosing the
+  relationship costs the Want (or some other named, precious thing) for real** — not a Want that turns out to
+  have been fake or easily replaced, but a real loss, paid in full, for a real gain. A positive ending that
+  doesn't cost anything isn't a positive ending under this project's law, it's a hollow one dressed up as a win
+  — which is its own failure mode, distinct from (but just as much to be avoided as) an unearned tragic ending.
+- **Practical implication for future Doll-arc design**: when drafting a companion's set of possible endings,
+  explicitly plan the distribution up front rather than letting it emerge accidentally — name which few
+  endings are negative (Disillusionment/Fall/Corruption, per Weiland's taxonomy above), name the larger set
+  that are bittersweet/mixed, and for any ending meant to read as genuinely positive, explicitly name what real
+  thing is being sacrificed to earn it before calling the design done.
+- **This entire principle scales up unchanged — the same law governs district, DLC, and civilizational-level
+  questlines, not just companion/romance arcs.** The dev's own framing: this is the identical structural
+  principle, just applied at the scope of a civilization rather than at the scope of two people who become
+  close friends or entangled lovers. A district's, faction's, or subnet's genuinely positive resolution should
+  cost that district/faction/subnet something real and named — not just an individual Doll — in order to gain
+  something even more valuable, using the exact same distribution rule (few purely negative outcomes, a larger
+  bittersweet middle, positive outcomes real but never free). Concretely: when a District Main or
+  Under-Questline is heading toward its best-case resolution, name what the district/city/faction is giving up
+  — a piece of its independence, a tradition, a resource, standing with a rival, a comfortable illusion about
+  itself — specifically *in order to* gain the thing that makes the ending genuinely good, the same way a
+  companion gives up something dear specifically in order to gain the player. The player and/or a companion can
+  still be the one paying part of that price on the civilization's behalf, but the civilizational stakes need
+  their own named sacrifice, not just a reflection of the personal one.
