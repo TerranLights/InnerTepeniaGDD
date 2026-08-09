@@ -1045,3 +1045,294 @@ Like Characters, Traits, Dynamics, Pitfalls, and the closing Checklist — cover
 character-psychology-generation content; the unread sections are either prose-craft (voice/projection,
 physical-description writing) or a standard biographical questionnaire of the kind this project already has
 precedent for. This is likely close to fully mined already.)*
+
+## From *Writing With Emotion, Tension, and Conflict* — Cheryl St. John
+
+- **Conflict vs. Delay, sharply distinguished.** Real conflict is an *intolerable* state of affairs that the
+  character cannot ignore, explain away, or resolve with a brief civil conversation. "Delay" — losing keys,
+  missing a bus, a minor misunderstanding — creates friction but isn't conflict, because nothing structural is
+  actually at stake. The sharpest formulation: **"Conflict is not the characters fighting with each other. It's
+  them fighting with themselves."** A disagreement that a five-minute honest conversation would resolve is a
+  misunderstanding, not a conflict — real conflict has to be rooted in something a conversation can't fix
+  (an opposed belief, a wound, an irreconcilable need). Directly useful as a gut-check for companion
+  relationship writing and district under-questline conflicts: if the tension would evaporate the moment two
+  characters just talked honestly, it isn't load-bearing yet — find what's underneath that makes honesty itself
+  costly or impossible.
+  - Also useful: **bickering/anger without deep motivation reads as childish**, and is really only earned for
+    antagonists (where it characterizes them as lesser) — protagonists and companions need conflict with actual
+    roots, not simply raised voices.
+
+- **The Three Goal Categories** — a fast concreteness test for any stated Goal: is it Possession of something,
+  Relief from something, or Revenge for something? If a companion's stated goal doesn't cleanly fall into one
+  of these, it's probably still too abstract to write scenes against.
+
+- **Eliminate the Return to the Ordinary World.** A mechanical technique for locking a character into her
+  conflict rather than merely motivating her toward it: give her (or have another character give her) a
+  concrete, irreversible action that closes off retreat — St. John's example is Quint in *Jaws* destroying the
+  boat's radio and burning out its engine, physically preventing anyone from turning back once the hunt has
+  begun. Directly portable to companion questline design: look for a concrete in-fiction act (not just a
+  resolution or a promise) that removes a companion's ability to simply walk away from her under-questline's
+  central conflict partway through.
+
+- **Prime Motivating Incident / Prime Motivating Factor** — St. John's term for what this draft has elsewhere
+  called the Flaw's originating wound, with one additional wrinkle worth keeping: the incident often seeds a
+  **distorted belief** the character then spends a lifetime either confirming or fighting, not just a fear or
+  a habit. Her worked example (a mother tells her seven-year-old son he's a devil who deserves to burn, then
+  burns his Christmas gift in front of him) produces a character who spends his entire adult life believing
+  himself fundamentally unlovable — the belief is factually false, but the character has adopted it as truth,
+  and it governs every relationship he has from that point on. Useful framing for a Doll's core wound: it's
+  not just "what happened to her," it's "what false thing did the incident convince her was true about
+  herself," which is the thing her arc (if she has one) would actually need to disconfirm.
+  - **Pairing technique**: motivating factors don't have to be negative — a character with a charmed life who
+    believes in love and family becomes far more interesting paired against a cynic, and vice versa. Directly
+    portable to deliberately-opposed companion-pair design (see Conflict in Opposites below).
+
+- **Backstory's Five Slots** (a compact, portable checklist distinct from the fuller questionnaires already
+  captured from other books): Belief System (faith, politics, philosophy, worldview), Values (what does she
+  hold as important, and by whose standard does she judge right and wrong), Family and Friends, Fears and
+  Phobias (what does she avoid, and what does she need to feel safe/important/loved), and the Prime Motivating
+  Incident (the thing that kicks her into motion). Useful as a fast five-question first pass before going
+  deeper with the longer questionnaires already in this file.
+
+- **Unravel Backstory an Inch at a Time — and make the *other characters* need to know, not just the reader.**
+  A refinement on the already-captured spoon-feeding principle: the strongest version isn't just pacing
+  revelation for the audience, it's structuring the story so an *in-fiction* character has a real, escalating
+  need to understand the secret before it's revealed (St. John's worked example: Eugene's disfigurement in
+  *Pay It Forward* isn't explained until his own love interest, Arlene, is about to make a decision that
+  depends on trusting him). This gives a companion's backstory reveal two audiences with two different stakes
+  at once — the player and another character in the fiction — rather than being purely expository. Directly
+  useful for structuring when and to whom a companion's core wound gets revealed in a romance or companion
+  questline: withhold it until a specific other character's trust or choice actually turns on knowing it.
+
+- **"Givens" — pre-loaded audience sympathy, favorable and unfavorable.** Certain categories of character or
+  circumstance arrive with built-in audience sympathy or antipathy before any individual writing happens at
+  all: **favorable givens** — children, animals, parent-child bonds, sibling loyalty, grandparents, orphans,
+  underdogs; **unfavorable givens** — bullies, infidelity, abuse, oppression, unfairness. Useful as a fast
+  calibration tool when starting a new companion or antagonist: naming which givens are already in play tells
+  you how much additional sympathy-building work a character needs versus how much is already free, and lets
+  you deliberately subvert a given (an "underdog" given attached to a character who turns out cruel, for
+  instance) for a sharper effect than starting from neutral.
+
+- **Compare-and-Contrast Self-Image.** A character's self-image is only meaningful relative to a specific
+  measuring stick — a social circle, a family member, a rival — not in the abstract. St. John's worked
+  examples: a heroine who measures herself against a circle of proper widows and judges her own "half-French"
+  blood as an excuse for impropriety; a man who reflects on the deprivation of his own orphaned childhood while
+  watching over children who'll never know hunger, which simultaneously justifies his choices to himself and
+  reveals his wound. The generative question: **who or what is this Doll's yardstick**, and what does she tell
+  herself about why she does/doesn't measure up to it?
+
+- **Show the Symptom Before the Cause.** A refinement on the already-captured "flaw revealed early, backstory
+  delayed" principle: display the *behavioral* expression of the flaw (a compulsive routine, a rigid need for
+  control, an inability to accept a compliment) in full, vivid color well before its origin is explained, so
+  the audience is actively wondering why rather than being told why. St. John's Addie (obsessive laundry
+  routine, need to be seen as a town pillar) is fully characterized for chapters before her trauma is revealed
+  — by the time it comes, "her behavior becomes completely justified and believable" retroactively rather than
+  needing to be justified up front.
+
+- **"Come to Realize" (CTR) needs to be seeded from the beginning, or it reads as contrived.** A late-story
+  change of heart only earns its impact if the character had the *potential* for that specific change visible,
+  even faintly, from early on — not a personality reversal invented to fit the ending. Practical implication
+  for companion arcs: before locking in a companion's late-questline realization, check that an attentive
+  player could plausibly look back at her introduction and see the seed already there, however small.
+
+- **Conflict in Opposites, companion-pairing version.** Even allies, friends, or kin generate richer material
+  when they hold genuinely opposed values rather than just complementary skills — the *why* of the opposition
+  matters more than the fact of it. Cross-reference with the "team-picking" framing also given here: a good
+  ensemble (St. John's examples are the *Friends* and *Big Bang Theory* casts) is not picked for balanced
+  utility alone but for maximal contrast in personality, background, and worldview, the way a gym-class captain
+  picks specialists rather than six versions of the same all-rounder. Useful lens for auditing a subnet or
+  district's companion roster: are the personalities/worldviews actually opposed in ways that generate friction,
+  or just differently skinned?
+
+- **The "Character Is Not You" caution.** A specific, useful check against writer's-comfort drift: resist
+  giving a character the same instincts, reactions, and worldview you yourself would default to, since
+  characters who all think like their author blur into each other across a large cast. Worth flagging
+  specifically for a project with 35+ cities' worth of Dolls being generated by the same author (and now the
+  same methodology) — a standing risk this whole effort should watch for as more companions get built from the
+  same toolkit.
+
+- **Coping Mechanisms as their own explicit category.** "Over a lifetime we unconsciously develop coping
+  mechanisms to avoid pain or deny unpleasantness... these can improve or distort our self-image." This
+  independently converges with Boutros's "coping/defence mechanism" questionnaire item (*The Craft of
+  Character*, above) — worth treating as a first-class field on a Doll's core sheet rather than an optional
+  extra, given two unrelated craft sources both singled it out.
+
+- **GMC Character Sheet and Character Prep Sheet** — St. John's own compact planning templates, useful as an
+  alternative, faster-to-fill entry point alongside Boutros's longer questionnaire already captured:
+  - **GMC sheet**: how the story starts / the moment of change; motivation (backstory factors); long-term
+    goal; short-term goal (concrete steps); flaw, plus a plan for how an antagonist could use it against her;
+    internal conflict (for romance specifically: "I can't love him because ___"); external conflict; the
+    Black Moment (when the worst happens); the Come-to-Realize; and theme.
+  - **Prep sheet**: name, age, job/position, family, personality, ten descriptor adjectives, strongest trait,
+    weakest trait, greatest fear, internal motivation/conflict.
+  - The **"I can't love him because ___"** prompt is a specifically useful one-line generative device for
+    romanceable companions: forces the internal obstacle to romance into a single sentence before any scenes
+    get written, distinct from (and more romance-specific than) the general Flaw framing already captured.
+
+- **"What price will he pay?"** — a single checklist question from St. John's closing exercises worth keeping
+  distinct from the fuller checklists already captured, since none of the other frameworks in this file ask it
+  explicitly: not just what a companion wants and what's in the way, but what she is willing to *give up or
+  damage* — a relationship, a belief about herself, a piece of her own moral code — in order to get it.
+
+- **External Goal / Internal Goal / Greatest Fear, as three distinct and sometimes contradictory layers.** A
+  refinement worth keeping alongside Goal/Desire/Lesson (Boutros) as a third, differently-shaped tool: St.
+  John's worked example (*Runaway Bride*'s Maggie) separates a character's *external* goal (go through with
+  this wedding), her *internal* goal (find someone to love safely), and her *greatest fear* (losing her own
+  identity inside a relationship, or ending up alone) — and the generative power is in making the external and
+  internal goals actively **pull in different directions**, not just point the same way at different depths.
+  A companion whose external and internal goals are already in tension before the story starts has a
+  built-in engine; one where they simply agree is flatter.
+  - **The Goal/Motivation mismatch table**: the same external Goal (freedom, recognition, forgiveness, peace,
+    riches, love, passion) can spring from wildly different internal Motivations (not enough self-confidence
+    to commit; being passed over for past accomplishments; needing to regain self-respect; a chaotic
+    childhood; believing oneself unlovable so compensating by acquiring things; a parent who preferred a
+    sibling; an emotionally sterile upbringing). Generative use: pick the external Goal first, then
+    deliberately choose a *non-obvious* Motivation for it rather than the first one that comes to mind.
+  - **Self-preservation (external) vs. self-protection (internal)**, offered as the two most primal universal
+    motivations underneath everything else — a compact axiom worth keeping as a fallback when a Doll's
+    motivation feels underspecified.
+
+- **External conflict keeps characters together; internal conflict is what pushes them apart.** A sharp,
+  structural law for companion romance and relationship writing, worth treating as close to a standing rule:
+  external conflict (danger, a shared mission, a mystery, external families/factions in opposition) is the
+  engine that puts two characters in each other's orbit and keeps them there, but it does not by itself create
+  real relational tension — two characters facing pure external opposition with no internal conflict (St.
+  John's example: *Romeo and Juliet*, where the leads are never actually at odds with each other) read as a
+  weaker, one-note structure than a pairing where the *internal* conflict (an opposed belief, a wound, an
+  unshareable secret) is what keeps them genuinely apart even while circumstance keeps throwing them together.
+  The strongest version, per St. John, uses both simultaneously: external forces that repeatedly force two
+  companions into proximity, while an internal, backstory-rooted obstacle is what makes real closeness
+  genuinely costly. Directly useful as a design check for any companion romance or bonded-pair relationship:
+  name the external force keeping them in contact, and separately name the *internal* thing that would keep
+  them apart even if the external pressure vanished tomorrow — if there isn't one, the pairing is only half-built.
+
+- **Eugene's rule, generalized: don't over-withhold past the point of usefulness.** A necessary counterweight
+  to the spoon-feeding principle already captured (twice) above: St. John flags her own example from *Indiana
+  Jones* as a case where the backstory (young Indy's fall into a railcar of snakes) was withheld too long —
+  it wasn't revealed until the *next film* rather than the one where his fear of snakes actually matters, and
+  she argues the original scene would have hit harder with the backstory already in place. The lesson isn't
+  "always delay," it's that revelation timing should be judged by when the payoff scene needs the emotional
+  weight, not by a reflexive instinct to keep everything mysterious as long as possible.
+
+- **A Villain as the Protagonist's Own Flaw, Personified.** A sharp, distinct antagonist-design principle: give
+  the antagonist the *same* goal as the protagonist, then have him embody the exact flaw the protagonist is
+  struggling with, taken to its unmediated extreme — St. John's example is *Jerry Maguire*'s Bob Sugar, Jerry's
+  own mentor, who wants exactly what Jerry wants but pursues it with "all head and no heart," personifying the
+  very callousness Jerry needs to overcome in himself. **"The antagonists who evoke the most emotion are the
+  ones who could have been heroes if they'd made better choices."** Distinct from Boutros's "villain believes
+  she's doing good" (above) — this is specifically about structural mirroring between hero and antagonist
+  rather than about the villain's own interiority, and the two techniques combine well.
+
+- **New Information as a formal escalation device, and roughly where to place it.** A concrete category worth
+  naming on its own: a reveal ("you have a son," "you have six weeks to live," discovering someone thought
+  dead is alive, uncovering a lie) is doing its job specifically when it **forces an existing goal to change**,
+  not just when it's dramatic. St. John's own practice is to place a first major reveal/escalation roughly a
+  third of the way into a story and a second, larger one around two-thirds through — a rough, portable pacing
+  guideline for where a District Under-Questline's own mid-point and late-point twists should land structurally.
+
+- **The Black Moment, formally defined and derived from the specific established fear — not from generic
+  tragedy.** "The character's darkest fear comes to pass. All is lost... It is an internal crisis, not an
+  external event." The critical discipline: the low point of a companion's arc should be engineered to match
+  *her specific, already-established* Greatest Fear precisely (per the triad above), not simply be "something
+  bad happens." If a companion's fear is being abandoned, her Black Moment is specifically that the one person
+  she needed shows contempt or turns away — not an unrelated external disaster that merely happens to occur
+  near the story's low point. St. John's own worked case study (*Pay It Forward*'s Trevor, Arlene, and Eugene)
+  demonstrates the technique's full power: a single plot event (Trevor's absent father returning, and Arlene
+  giving him another chance) serves as **three different characters' Black Moments simultaneously**, each one
+  hitting a different, previously-established internal fear — Trevor's fear of losing the better life he's
+  only just tasted, Eugene's fear of being hurt again after finally risking vulnerability, and Arlene's fear of
+  repeating her own worst mistake. This is a strong, reusable ensemble technique: **one climactic event, read
+  through several companions' separately-established fears at once**, rather than each companion needing her
+  own separate crisis scene.
+  - Related: **ensemble characters can have different inciting incidents even when sharing a story.** "One
+    person's inciting incident doesn't always have to be the same as another's" — the same event (a teacher's
+    assignment) is Trevor's inciting incident, while an entirely different, downstream event (Trevor bringing
+    a homeless man home) is his mother Arlene's. Useful for multi-companion or party-based scenes: a single
+    narrative beat doesn't need to mean the same structural thing to every companion present for it.
+
+- **Comparing and Contrasting as a compact emotion-generation technique, extended to ensembles and settings, not
+  just individuals.** Beyond the individual-level "compare-and-contrast self-image" technique already captured:
+  St. John's *Pay It Forward* analysis stacks contrast at every level simultaneously — visual/setting contrast
+  (casino lights and money against homeless people warming themselves at trash-barrel fires), physical contrast
+  (Eugene's burn scars against an unmarked face in the same shot), and a compact **adjective-plus-vocation
+  tagging shorthand** (Swain's technique, cited by St. John) for instantly generating built-in contrast between
+  any two characters sharing a scene: *a highly educated teacher* vs. *a struggling change girl at a casino and
+  a stripper*, *straightforward and challenging* vs. *inhibited and defensive*. Useful as a fast first-pass tool
+  when populating a scene or questline with multiple companions/NPCs: tag each with one adjective + one
+  vocation/role, and check that no two tags in the same scene are too similar.
+
+- **Sacrifice must be scaled to what the specific character actually has, not to objective magnitude.** "A
+  wealthy person can't 'sacrifice' disposable cash." The generative question isn't "what's the biggest possible
+  loss," it's "what does *this specific* Doll actually have that's scarce or precious to her," which will look
+  entirely different for a companion of means versus one with almost nothing. A second, distinct category of
+  sacrifice worth keeping alongside the material/physical kind: **sacrificing a core belief or principle**
+  under pressure (St. John's example: a character who believes violence is never the answer, boxed into a
+  situation where she has no choice but to use it to save someone) — this is itself a sacrifice, of the
+  character's self-concept rather than a possession, and pairs directly with the Flaw/distorted-belief material
+  already captured above.
+
+- **Characterize through routine competence and small habitual gestures, not only through dramatic reveals.**
+  St. John's worked case study of the *Longmire* pilot's cold open is worth citing directly: before a word of
+  backstory is spoken, the character is established entirely through procedural competence and small habitual
+  behavior — a makeshift shower built from spare parts, visible scars, beer cans scattered through a
+  half-remodeled kitchen, sniffing a rifle barrel to professionally identify it's been fired and cleaned,
+  wiping his feet before delivering a death notification to a stranger's widow. The single line that lands
+  hardest in the whole sequence is the terse, deflecting **"Hurt it"** in response to "what happened to your
+  hand?" — an entire arc of grief and a drinking problem compressed into two words that actively withhold
+  rather than explain. This is a sharper, more concrete version of "Show the Symptom Before the Cause" (above):
+  competent, ordinary behavior performed under visible strain characterizes at least as effectively as a
+  dramatic confession, and terse deflection in dialogue can carry more weight than an explanatory answer would.
+
+- **Speech patterns as a diagnostic output of already-established psychology**, a reusable correlation table
+  for keeping a Doll's dialogue consistent with her established wounds rather than drifting into generic
+  "witty companion" voice: someone shaped by past failure speaks hesitantly or evasively; someone burned before
+  turns bitter and talks down to others; someone genuinely loving offers concern and caring advice unprompted;
+  someone consumed by resentment speaks ill of everyone and finds no pleasure in anything; low self-esteem
+  shows up as either tearing others down to feel bigger, avoiding topics of uncertainty, boasting, or never
+  offering a suggestion for fear of rejection; confidence shows up as genuine, unthreatened appreciation of
+  others' accomplishments. The discipline: once a Doll's core wound and self-esteem level are fixed, her
+  dialogue patterns across every scene should be checkable against this table rather than invented fresh each
+  time for a "good line."
+
+- **Dialogue as subtext — a scene can mean something other than what it literally says, and objects/settings
+  can carry a trait even when nominally describing something else.** A named, distinct technique from the
+  already-captured "show don't tell": two characters can have an entire second conversation underneath the
+  literal one (St. John's example: a lawman and a preacher trade dueling Bible verses that are really about
+  whether to show mercy, while a third character watching correctly senses the real subject without being told
+  what it is) — and a description of a *house* ("a woman refusing to accept her age") can characterize a
+  person who isn't even present in the scene. Useful for companion-adjacent worldbuilding: a description of a
+  Doll's dwelling, workspace, or personal effects can carry the same characterizing weight as a line of her own
+  dialogue.
+
+- **Reaction-word choice is itself a characterization decision, not a neutral report of fact.** The specific
+  verb used to describe how a character responds to something carries real status/personality information even
+  when the underlying event is identical — *shouted* vs. *yelled* vs. *called out* vs. *squeaked* vs.
+  *screeched* vs. *pleaded* are not interchangeable, and St. John flags that overusing crying specifically as a
+  sympathy-generator tends to *lower* a character's perceived status rather than raise it ("Can you see Sarah
+  Connor crying — or would she just jump in and take on the Terminator?"). Worth flagging as a caution for any
+  future writing (dialogue, quest text, companion banter) that narrates a Doll's reactions: the verb is doing
+  characterization work whether or not that's intended.
+  - Related caution, worth a one-line cross-reference rather than a full rule: a writer's own unexamined
+    attitudes can leak into characterization unintentionally as unintended subtext. This is effectively the
+    same failure mode this project already guards against structurally via
+    [[feedback_no_national_stereotypes]] and [[feedback_zodiac_districts_not_infiction]] — a craft-level
+    version of the same discipline, applied to individual psychology rather than group representation.
+
+*(Now read in substantial depth: Defining Conflict, An Explicit Mission and Opposition, Plot and
+Internal/External Conflict, Character Goals and Organization, Conflict Checklist, Learning Emotional Triggers
+(skimmed — mostly the author's personal research/journaling practice rather than a generative technique, aside
+from the "Method Writing" note above), Motivation and Realism, Characters and Emotion, Word Pictures and
+Digging More Deeply, Feeling the Story (the full *Pay It Forward* case study), Sacrifice and Evocative vs.
+Emotional Writing, Character as a Compass for Emotions, Where Do Great Characters Come From, The Reader Must
+Care, Techniques to Make the Reader Care (through the GMC/Prep sheets and plot-point pacing note), Revealing
+Character Through Speech, and Expressing Emotion by Omission. That covers essentially the entirety of Parts
+One, Two, and Six — the character/conflict/emotion core of the book — plus the character-relevant halves of
+the Dialogue part.
+
+Confirmed genuinely peripheral to this methodology after direct sampling (not skipped blind): "Creating
+Realism with Setting Details: Details Affect Character" turned out to be almost entirely setting/prose-research
+craft despite its title (one minor point folded into "Show the Symptom Before the Cause" above), and the rest
+of Part Three (Setting, five more chapters), all of Part Four (Tension, three chapters), What's in a Name
+(literal name-selection method, not psychology), and Wrapping Up (the author's personal career-discipline
+advice) are pure prose-craft or writer's-life material with no further character-psychology content to mine.
+This book is now close to fully mined for this methodology's purposes.)*
