@@ -253,18 +253,18 @@ gets promoted into a proper Full_Extrapolation Finding as part of the relevant p
 Legend: **+ already has it** (may still need light expansion or promotion into Full_Extrapolation) · plain
 entry = needs full development from scratch.
 
-### 01 — Cancer — **ALL 7 PHASES COMPLETE (2026-08-16)**
-- Architecture — **Done** (Finding VIII)
-- Sensory Profile — **Done** (Finding IX)
-- Export Culture — **Done** (Finding X)
-- Religious/Philosophical Landscape — **Done** (Finding XI — "Keeping," plus the Ofrenda/Día de los Muertos fusion)
-- Fashion — **Done** (Finding XII)
-- Arcanet Culture (dedicated) — **Done** (Finding XIII — formalized the Mother's Circuit)
-- Visitor Experience / Visitor-to-Resident Transition — **Done** (Finding XIV)
-- Ordinary Daily Life — **Done** (Finding XV, Phase 5)
-- Thematic Breadth Catalog — **Done** (Finding XVI, Phase 6)
-- Robot-Specific Culture — **Done** (Finding XVII, Phase 7 — first-pass; full Robot Universals triage still pending, see the plan's own "Planned follow-on" section)
-- First district to complete the full 7-phase process — serves as the worked-example template for the other 12, the same role Cancer already played for the original Megasheet process.
+### 01 — Cancer — **ALL 7 PHASES COMPLETE — REWRITTEN FROM SCRATCH 2026-08-16**
+- Architecture — **Done** (Finding VIII — apse vernacular, **the Window Reach**, Growing Towers, root tenants; Stage 2's rectilinear Overcrowding-era building as a standing architectural confession)
+- Sensory Profile — **Done** (Finding IX — adds **windbells** and the constant arm's-height foliage contact)
+- Export Culture — **Done** (Finding X — **cast windbells** and rooted stock give Cancer real physical exports, not only expertise)
+- Religious/Philosophical Landscape — **Done** (Finding XI — "Keeping," the Ofrenda, and **the problem of the unkept**: adoption of lapsed Keepings, and the refusal to ritualize final failure)
+- Fashion — **Done** (Finding XII — general-population; irregular non-tailored silhouette, visible mending, **the split token**)
+- Arcanet Culture — **Done** (Finding XIII — oral/social general baseline, **the posted-outcomes record**, Mother's Circuit correctly scoped as caregiving-robot-specific)
+- Visitor Experience / Transition — **Done** (Finding XIV — **a term of shared work**, then simply staying)
+- Ordinary Daily Life — **Done** (Finding XV — **Attunement** as the district's most-performed daily practice, entirely non-grief)
+- Thematic Breadth Catalog — **Done** (Finding XVI — The Turning, The Long Room, **The Long Shelf**, The Pit Gardens, The Foundry, votive forms, reach-band tools)
+- Robot-Specific Culture — **Done** (Finding XVII — robots hold most adopted Keepings because they outlive the households around them; first-pass, full Robot Universals triage still pending)
+- **Why rewritten:** the first pass re-labelled existing canon rather than generating new culture, and "applied" the Real-World Basis method from memory instead of researching. Redone with actual research on all eight picks; **four had never been used at all** (Père Lachaise, Arcosanti, Findhorn, Hundertwasserhaus) and three of those four produced the file's strongest material. **This is the reference example for the other 12 districts** — see `Real-World_Basis_Extrapolation_Method.md`'s worked-example table.
 
 ### 02 — Taurus — **ALL 7 PHASES COMPLETE (2026-08-16)**
 - Architecture — **Done** (Finding V)

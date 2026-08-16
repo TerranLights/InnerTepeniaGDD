@@ -50,132 +50,513 @@
 
 ---
 
-## VIII. Architecture — formalizing what's already established, not inventing from scratch (District Culture Development Plan, Phase 1)
+## District Culture Development Plan — Phases 1-7
 
-**Proposed:** Cancer's architecture doesn't need new invention so much as consolidation — the Mega-Init's "What It Feels Like" section (curved, gentle corridors, no straight lines, white-and-green palette, living plantlife woven directly into structural surfaces) and this file's own Finding II (the haze as a side effect of plant-transpiration scale) already describe a real, coherent architectural identity; it just hasn't been named as one. Per `District_Vision_Notes/Cancer.md`, the curve-over-straight-line rule is explicit and deliberate: straight lines read as institutional, and Cancer's whole design philosophy exists to *not* read that way. Two building eras are now distinguishable using the Two-Stage lens (`00b_Two_Stage_Methodology.md`): **Stage 1 architecture** (the original late-2560s-onward sanctuary construction — organic, curved, plant-integrated, built when the district had 250 years and no war pressure to design unhurriedly) and a **Stage 2 layer** added under the Overcrowding Decision's triage pressure (c. 2813) — functional, faster-built institutional additions that plausibly *do* read straighter and more clinical than the founding design intent, tucked behind the same institutional walls Finding IV already establishes as where Cancer's strain actually lives. The tension between Cancer's calm public curves and its hidden, harder-edged crisis-era institutional interiors is architectural, not just experiential — the building stock itself carries the district's "visible virtue, hidden cost" pattern.
+**Rewritten from scratch 2026-08-16**, replacing an earlier, weaker first pass. The first attempt leaned too
+heavily on re-labeling material Cancer already had, and in two places presented a narrow professional or
+ritual-specific practice as if it described the whole district. This rewrite follows the full instruction set:
+`Phase_Instructions/00b_General_Population_Discipline.md` (general population by default, narrow cases scoped
+explicitly), `Real-World_Basis_Extrapolation_Method.md` **with actual research performed on all eight of
+Cancer's `District-Inspirational-Influences.md` picks** rather than working from memory, `00b_Two_Stage_Methodology.md`,
+and the color-coded district map. Findings I-VII above are untouched original 2026-07-09 material.
+
+**Research basis for this pass (all eight picks, concretely researched):** Epidaurus (the abaton's two-part
+structure — open waiting hall plus dark enclosed sleeping chamber; enkoimesis; purification before entry; the
+*iamata*, inscribed stelai publicly recording roughly seventy cures; votive offerings shaped like the body part
+seeking healing) · Gardens by the Bay (Supertrees: structural core, living planting-panel skin, canopy;
+they vent exhaust air from the cooled conservatories, harvest solar, and collect rainwater) · Findhorn Ecovillage
+(**Attunement** — a circle, joined hands, a brief tuning-in before beginning *any* task, mundane ones included;
+sharing circles; "being over doing") · Père Lachaise (concessions of 10/30/50 years or in perpetuity —
+perpetuity **conditional on descendants continuing to maintain the grave**; unmaintained remains are boxed,
+tagged, and moved to the Aux Morts ossuary; and a real modern practice of **adopting** an abandoned monument,
+restoring it, and receiving the concession in return) · Ospedale degli Innocenti (Brunelleschi's nine-bay
+portico; della Robbia's swaddled-infant medallions; the *balie*, wet nurses who were poor local women and
+sometimes the birth mothers themselves; the *Balie e Bambini* ledgers recording each foundling's life and death;
+and **split tokens** — a coin broken in half, one half left with the surrendered child, against the day it might
+be made whole again) · Arcosanti (apse-form quarter-domes oriented for solar gain; a bronze **bell foundry**
+whose windbell sales fund the community; residents hold rotating work assignments; newcomers arrive through a
+five-week workshop, and residents are workshop alumni who stayed) · Eden Project (built inside an exhausted
+china clay pit worked for 160 years and left sterile; linked geodesic biomes) · Hundertwasserhaus (the
+**Window Right** — a tenant may decorate and alter the facade as far as their arm reaches from their own
+window; **tree tenants** — trees living inside rooms with branches through the windows, holding standing as
+occupants; roof forestation; the 1958 Mouldiness Manifesto declaring the straight line an architectural tyranny).
+
+---
+
+## VIII. Architecture (District Culture Development Plan, Phase 1)
+
+**Proposed.** Cancer's existing canon establishes *what* the district looks like — curved corridors, no straight
+lines, living plantlife woven into the structure, a soft haze. It has never established *why the building
+tradition works that way* or what the general population's own relationship to the built environment actually
+is. That is what this Finding adds.
+
+**The apse form is Cancer's structural vernacular.** The district's dwellings and smaller institutions are built
+predominantly as apse-form half-shells — quarter-domes, closed and thick-walled at the back, open and glazed at
+the front, oriented to catch and hold what light and warmth the district's systems provide. This is the
+mechanical reason Cancer has no straight lines, and it reframes the district's own stated aesthetic rule
+(`District_Vision_Notes/Cancer.md`: straight lines "read as institutional") as something stronger than taste —
+the curve came first, out of how the founding generation could actually build warm, cheap, thermally efficient
+shelter at speed for a traumatized population, and the cultural meaning accreted onto it afterward across 250
+years. Cancer didn't choose curves because they felt kind; curves were what it could build, and the district
+spent two and a half centuries deciding that what it had was what kindness looks like.
+
+**The Window Reach — a genuine, named civic right, and the single most important addition here.** Every Cancer
+resident holds a recognized, unwritten right to plant, paint, hang, carve, or otherwise alter the exterior wall
+of their own dwelling **as far as they can physically reach from their own window**, and no further. The limit
+is the arm, not a permit. This is why a district as institution-dense as Cancer nonetheless reads as personal
+and hand-made at street level: every building, including the large ones, carries a continuous irregular band of
+individually-tended growth, colour, and small objects at roughly arm's height around each window, and each
+band is legibly the work of one specific person. It is the most-exercised right in the district, held by
+essentially everyone, and it is the clearest general-population expression of Cancer's whole "everyone
+contributes what they can" ethos — the contribution is small, physical, permanent, and yours.
+
+**Growing Towers, and the mechanical source of the haze.** Distributed through the district are tall structures
+built as a load-bearing core wrapped in a living planting skin and topped with a broad canopy: part hydroponic
+production, part air handling. They draw warm, saturated air off the growing understory and vent it high, and
+they collect the condensate back down through channelled runnels in the core. This gives Finding II's ambient
+haze an actual physical mechanism rather than leaving it as a vague consequence of scale — the fog is the
+district's own agricultural infrastructure breathing out, all day, everywhere at once.
+
+**Root tenants.** A mature plant growing inside a dwelling holds a recognized informal standing of its own. A
+household that leaves is expected to arrange the plant's continued care rather than remove it, and the
+arrangement is tracked the same way everything else in Cancer is tracked — informally, socially, on the Green
+Ledger (Finding I). This is a small, ordinary, universally-understood obligation, not a devotional practice.
+
+**Two-Stage reading (`00b_Two_Stage_Methodology.md`).** Stage 1's ~250 years of unhurried construction produced
+the apse vernacular and the Growing Towers. Stage 2's Overcrowding Decision (c. 2813) produced something else
+entirely: fast, rectilinear, hard-cornered institutional building, thrown up under emergency load. Those
+structures are still standing and still in use, and in a district where the straight line is culturally read as
+the mark of the institutional and the unkind, **they function as a permanent, unmissable architectural
+confession of an emergency whose written records Cancer's own archivists destroyed.** The buildings testify
+where the archive does not. This is the sharpest thing in this Finding, and it makes Finding IV's
+"hidden behind institutional walls" pattern literal: the walls are the evidence.
 
 ---
 
 ## IX. Sensory Profile (District Culture Development Plan, Phase 1)
 
-**Proposed:** Cancer's sensory identity is warmth made literal and constant, built from material already established across the Mega-Init and `District_Canon_Reference.md`'s Community Infrastructure section rather than invented fresh. **Sound:** the lullaby tradition is genuinely ambient, not staged — per the Mega-Init, someone is nearly always singing somewhere nearby, audible but distant; layered under that, a low, constant murmur of care-work (broth simmering in kitchens that never close, the soft water-sounds of the Communal Warm-Soak Houses) rather than mechanical or industrial noise. Hushed, unhurried speech is the norm — the district's whole "slow enough" pace has an acoustic signature, not just a walking-speed one. **Smell:** food is a near-constant presence given the broth kitchens' never-closing status, layered against the green, humid, plant-heavy air Finding II already establishes; institutions add a second, more clinical layer underneath — the antiseptic-and-fabric smell of the Threshold Waiting Rooms and caregiving facilities, present but not dominant, confirming the same institutional/street split Finding IV describes. **Touch/temperature:** warmth is Cancer's signature sense, not just its stated value — humid air, warm-soak houses, curved soft-edged surfaces designed to avoid the hard corners "institutional" architecture would have. **Sight:** the Mega-Init's soft, hazy, fog-like light remains the dominant visual signature — green everywhere, gentle rather than saturated color, nothing sharp-edged in the public register. **Stage 2 addition:** per the Architecture finding above, institutional interiors under crisis load plausibly carry a harder sensory register than the public street-level experience — brighter, more clinical lighting, less of the ambient hum, a place where the district's calm audibly and visibly stops.
+**Proposed.** Answered against the template's four sub-fields separately, per `Phase_Instructions/01`.
+
+**Sound.** The already-canon layer is distant, near-constant singing, audible but too far off to make out. This
+Finding adds the layer beneath it: **windbells**, cast in the district and hung in numbers at the Growing
+Towers' vent throats and along the reach-bands beneath windows, so that the towers' own exhaust keeps a soft,
+irregular, unsynchronised chiming going across the whole district at all hours. It is not music and nobody
+treats it as music — it is simply the sound the district makes while its systems run, and residents notice it
+only when it stops. Under both layers: the low domestic murmur of a place where a great deal of quiet
+conversation happens in the open. No mechanical or industrial noise anywhere in the public register.
+
+**Smell.** Wet green — heavy plant transpiration at agricultural scale — over the constant background of the
+broth kitchens. Beneath both, a specific mineral note: warm wet stone and clay, off the condensate runnels
+channelling water back down through the Growing Towers' cores.
+
+**Feel.** Persistently warm and humid, unusually so for Concordia. The signature tactile experience of walking
+through Cancer is **brushing foliage constantly at arm's height** — the Window Reach means the district's
+planting is concentrated exactly at the level where a passing body meets it, so contact with living plant matter
+is continuous and unavoidable rather than something you go and seek out in a park. Surfaces are curved and
+soft-edged; there are very few hard corners to catch a hip or an elbow.
+
+**First impressions for visitors.** Per the Mega-Init, nobody rushes to help an unhurt stranger, but the
+impression that they would is immediate and strong; eye contact and small acknowledgements come from humans and
+robots alike. What a first-time visitor tends to actually notice first, in order: the warmth and the wet air,
+then the sound of the bells, then — only after a little while — that the irregular planted band running along
+every wall at arm's height is not landscaping but thousands of individual people's personal work.
 
 ---
 
 ## X. Export Culture (District Culture Development Plan, Phase 1)
 
-**Proposed:** Cancer's civic function — caregiving, integration, bereavement — is specifically the kind of expertise that exports as *people and practice*, not goods, which fits a district whose whole founding purpose was producing skilled caregivers rather than manufacturing anything. Three concrete export threads, each traceable to something already established: **(1) Trained caregiving and companion-model robots.** The Mega-Init already states Cancer's own robot population leans toward caregiving/companion models with deep emotional bonding protocols and integration facilitators — the district that raises and trains these units plausibly becomes where other districts turn when they need genuinely skilled caregiving robots rather than generic ones, making trained companion-model placement a real, named Cancer export. **(2) Integration specialists.** Cancer's founding purpose was absorbing traumatized populations into a single functioning community — 250 years of practice at exactly that (per this file's own Finding III) makes Cancer-trained integration specialists a plausible standing export to any district managing its own refugee-absorption strain, most directly Scorpio and Gemini, both confirmed Stage 2 Override destinations for war-traumatized populations per `City_Refugee_District_Affinities.md`. **(3) The Second Chair Workshops' memorial craft.** Already an established named trade (Finding I companion material, `District_Canon_Reference.md`), specialized enough in building and maintaining memorial furniture/objects that its practitioners plausibly take commissions from residents of other districts who want a Cancer-style memorial object rather than improvising their own equivalent — a small, specific, named craft export rather than a generalized "Cancer exports comfort" claim. **Not yet resolved:** whether the Rationing of Grief conflict (Libra capping Cancer's bereavement-care timelines, Hard Facts table) was partly a response to Cancer's care model becoming influential *outside* Cancer's own borders — worth deciding once Libra's own Full_Extrapolation reaches its Phase 1 pass, since it would tie both districts' new material together.
+**Proposed.** Cancer's exports were previously assumed to be entirely people and expertise, on the reasoning
+that a caregiving district doesn't manufacture. Research on Arcosanti and Gardens by the Bay overturns that:
+Cancer has two genuine physical export goods, both direct by-products of infrastructure it already runs.
+
+**(1) Cast windbells.** The district maintains a real foundry tradition, and windbells are its one true
+manufactured good — cast, tuned by ear, and traded across Concordia. They are Cancer's most recognisable
+physical export precisely because they are not solemn: a Cancer bell in a Gemini stairwell or a Sagittarius
+waystation is an ordinary pleasant object, not a memorial. Bell-casting and bell-tuning are respected skilled
+trades with no caregiving component at all, which makes them one of the clearest examples of Cancer's economy
+extending beyond its headline function.
+
+**(2) Rooted stock and cuttings.** The Growing Towers (Finding VIII) produce continuous surplus plant material,
+and Cancer supplies living plants, cuttings, and rooted stock to districts that want greenery and have no way to
+propagate it. This is a steady, unglamorous, high-volume trade and it is probably, by mass, the largest single
+thing Cancer sends outward.
+
+**(3) Trained caregiving and companion-model robots**, per the Mega-Init's own established robot population —
+other districts turn to Cancer when they need genuinely practised caregiving units rather than generic ones.
+
+**(4) Integration specialists**, per Finding III's 250 years of practice at absorbing traumatised populations —
+a standing export to any district managing refugee-absorption strain, most directly Scorpio and Gemini, both
+confirmed Stage 2 Override destinations (`City_Refugee_District_Affinities.md`).
+
+**(5) The Second Chair Workshops' memorial craft**, taken on commission from residents of other districts who
+want a Cancer-made memorial object rather than improvising an equivalent.
+
+**Open, carried forward:** whether the Rationing of Grief (Libra capping Cancer's bereavement-care timelines,
+Hard Facts) was partly a reaction to Cancer's care model becoming influential *outside* its own borders. Worth
+resolving when Libra's own Phase 1 pass runs.
 
 ---
 
-## XI. Religious/Philosophical Landscape — "Keeping" (District Culture Development Plan, Phase 2)
+## XI. Religious/Philosophical Landscape — Keeping (District Culture Development Plan, Phase 2)
 
-**Proposed:** Cancer's dominant belief system was never named as a belief system before now, the same way Pisces' own Syncretic Religion "didn't start meaningful" — it's the direct doctrinal reading of a practice already established as canon: a robot companion continuing a deceased human's daily routines for years, the specific chairs kept at dinner tables, Habit-Keeping Evenings where families "keeping" a person's routines share what they've been doing. Proposed name: **Keeping** (practitioners: **Keepers**), directly derived from the district's own already-existing terminology rather than invented fresh. **Core tenet:** a person is the shape of what they did, and that shape doesn't have to stop — not a claim about souls or an afterlife, but a grounded, practical philosophy that fits Cancer's whole care-focused, unmystical character better than a metaphysical one would. Death ends the body, not necessarily the pattern, and the pattern can be genuinely continued — not just symbolically honored — by whoever or whatever keeps enacting it. This explains why Cancer's memorial culture reads as *active continuation* rather than passive remembrance: the Second Chair Workshops, the open-air memorial circles' voice-notes, a caregiving robot maintaining a routine for years, are all devotional acts within a real (if unlabeled) belief system, not simply grief management. Robots are natural, central practitioners rather than tools used by human believers — their durability and precision make them uniquely suited to *actually* keeping a pattern going, not just remembering that one existed.
+**Proposed.** Cancer's dominant belief has been sitting in canon unnamed: a robot companion continuing a
+deceased human's daily routines for years; specific chairs kept at dinner tables; Habit-Keeping Evenings where
+households share what they have been keeping. Named here as **Keeping**, its practitioners **Keepers**, using
+the district's own existing vocabulary.
 
-**A concrete practice within Keeping — the Ofrenda, fused from Día de los Muertos (developer-suggested, 2026-08-16).** Per the Real-World Basis Extrapolation Method (fused on structural/thematic fit, not on any feeder-city national link — no Cancer diaspora contributor currently traces to Mexico specifically, and none is needed for this to fit): the Ofrenda — a home altar holding photos, favorite foods, and personal objects of the dead, understood as genuinely welcoming them back rather than merely commemorating them — is close to a ready-made material practice for Keeping's own core tenet. Proposed as a real, standing Cancer institution alongside the Second Chair Workshops (which build the memorial furniture) rather than replacing them: where a kept chair preserves a *place* at the table, a household or communal Ofrenda preserves the specific *things* a person loved, refreshed and tended the way the Green Ledger's plant-care labor already works — a living, maintained object, not a static shrine. Distinct in tone from Cancer's more muted institutional register (Threshold Waiting Rooms, the Quiet Register): the Ofrenda tradition, true to its own real-world character, would plausibly bring a rare note of color, warmth, and even joy into Cancer's otherwise grief-adjacent visual identity — worth deliberately preserving that tonal contrast rather than flattening it into the district's usual quiet register. **Flagged for later character work:** the developer's own framing (dolls/characters who "carry on" this tradition) makes this a strong candidate for Phase 6's people-entries (role-placeholder only, per that phase's binding naming rule) or for whichever doll eventually gets confirmed as Cancer's own anchor companion (currently undecided — see `District_Source_Index.md`) — not resolved into an actual named figure here.
+**Core tenet.** A person is the shape of what they did, and that shape does not have to stop. This is not a
+claim about souls or an afterlife — it is a practical position, which suits Cancer's grounded, unmystical
+character: death ends the body, not necessarily the pattern, and the pattern can be genuinely *continued*,
+not merely commemorated, by whoever goes on enacting it. It is why Cancer's memorial culture reads as active
+maintenance rather than remembrance.
 
-**A minor, marginal presence:** Cymatics Reverence (`Worldspace/Factions/Robot_Religions/Cymatics_reverence/`) — robots' wider-than-human sound/vibration perception draws a small minority of Cancer's own robot population toward it, plausibly finding a natural home given the district's established ambient lullaby tradition (Mega-Init) and acoustic sensory signature (Finding IX). Not dominant, not in tension with Keeping — a genuinely separate small thread, the way the template's own "dominant or marginal" framing expects most districts to have more than one entry.
+**The problem of the unkept — the hard edge Keeping needs, and the most substantial addition in this pass.**
+A belief that patterns can continue indefinitely runs into an obvious wall: keepers die, households end,
+diaspora communities lose their last member, and Cancer has absorbed enough destroyed-city populations
+(`District_Refugee_Diaspora_Composition.md`: Esperanza, Zukelli, and Cape Adare are all destroyed cities and
+together make up over half the district's outer diaspora) that lapsed Keepings accumulate faster than families
+can absorb them. Cancer's answer, and its most morally serious institution: **adoption of the unkept.** A lapsed
+Keeping — a routine nobody is left to continue, an Ofrenda nobody is left to tend — can be formally taken up by
+a stranger. Volunteers are quietly matched to unkept patterns, and taking one on is understood as a real,
+open-ended obligation rather than a gesture. Long-settled Cancer households frequently keep at least one
+routine belonging to someone they never met.
 
-**Diaspora reinforcement, not contradiction:** Esperanza's Founding Birth Anniversary (`District_Refugee_Diaspora_Composition.md`, already folded into Cancer's Paired Creches) already carries its own quasi-devotional "sacred first birth" framing — its continued observance inside Cancer reads as birth's own version of the same underlying Keeping logic applied to arrival rather than departure, reinforcing rather than competing with the dominant belief.
+**And the failure state, which Cancer refuses to make administratively easy.** Not everything gets adopted.
+When a Keeping finally lapses with no one to take it, the objects are not discarded: they are tagged and moved
+to a communal holding, and remain available for adoption indefinitely. But the *practice* stops, and Cancer
+treats that stopping as a genuine death — a second one, and by the district's own logic the more final of the
+two. There is no ritual that makes it acceptable and the district has deliberately never developed one. This is
+the point where Cancer's whole belief system admits it cannot deliver what it promises, and the district's
+choice to leave that unresolved rather than smooth it over is entirely consistent with its established habit of
+absorbing costs quietly (Finding IV).
+
+**The Ofrenda** *(developer-suggested, 2026-08-16)*. Fused from Día de los Muertos on structural fit rather than
+any feeder-city national link: a household altar holding photographs, favourite foods, and personal objects,
+understood as genuinely welcoming someone back rather than simply commemorating them. It sits alongside the
+Second Chair Workshops rather than replacing them — a kept chair preserves a *place*, an Ofrenda preserves the
+specific *things* a person loved, tended and refreshed the way the Green Ledger's plant work already is. Its
+tonal register is deliberately unlike the rest of Cancer's muted institutional palette: colour, warmth, and
+real celebration inside an otherwise grief-adjacent visual identity. That contrast should be preserved
+deliberately, not flattened. **Flagged for later character work:** a strong candidate for Phase 6's
+role-placeholder people, or for whichever doll is eventually confirmed as Cancer's anchor companion (currently
+undecided, see `District_Source_Index.md`) — not resolved into a named figure here.
+
+**Marginal presences.** Cymatics Reverence (`Worldspace/Factions/Robot_Religions/Cymatics_reverence/`) has a
+small foothold among Cancer's robot population, whose wider-than-human vibration perception finds an obvious
+object of attention in a district saturated with windbells and distant singing — a minority thread, not in
+tension with Keeping. Separately, Esperanza's Founding Birth Anniversary, already transplanted into Cancer's
+Paired Creches, carries its own quasi-devotional register and reads as Keeping's logic applied to arrival
+rather than departure.
 
 ---
 
 ## XII. Fashion (District Culture Development Plan, Phase 2)
 
-**Correction, 2026-08-16:** an earlier draft of this Finding centered on hospital/caregiver-staff work vests — a narrow professional uniform, not general district fashion. Cancer's population spans caregivers, therapists, refugee families, elders, social workers, and integration specialists (Mega-Init), and per Finding XV many hold ordinary non-caregiving jobs entirely; a nurse's on-shift vest doesn't describe what any of them generally wear. This Finding now describes the actual general population.
+**Proposed, describing the general population** per `Phase_Instructions/00b_General_Population_Discipline.md`.
+Cancer's population includes caregivers and therapists, but also elders, refugee families, administrators,
+shopkeepers, and the substantial share holding ordinary non-caregiving jobs (Finding XV) — this Finding
+describes what all of them wear, with occupational dress scoped as the narrower case it is.
 
-**Genuinely new synthesis, fused from two of Cancer's own Real-World Basis picks at the concrete level (`Real-World_Basis_Extrapolation_Method.md`), not previously mined for Fashion:** Hundertwasserhaus's real, documented design philosophy rejects straight lines on principle — fused directly against Cancer's own established architecture rule (`District_Vision_Notes/Cancer.md`: "architecture with no straight lines... they read as institutional"), this extends the same governing principle to clothing silhouette: irregular, asymmetric cuts and soft draping over crisp, rigid tailoring, since a straight-seamed garment would read as institutional the same way a straight corridor would. Findhorn Ecovillage's own real, documented low-consumption, hand-made-or-home-dyed clothing culture gives Cancer's general population a genuine practical, humble baseline consistent with Finding I's "everyone contributes what they can" ethos — worn by elders, administrators, and refugee families alike, not tied to any one occupation.
+**Silhouette: the straight line is avoided in cloth exactly as it is in construction.** Hundertwasser's
+Mouldiness Manifesto condemned the straight line as architectural tyranny; Cancer's own canon independently
+holds that straight lines read as institutional. Extended to dress, this produces a general preference for
+irregular, asymmetric cuts, soft draping, and curved hems over crisp tailoring and hard seams. A sharply
+tailored garment reads, in Cancer, roughly the way a bare rectilinear corridor does — not offensive, but cold,
+and faintly official.
 
-**Repair over replacement, genuinely district-wide:** consistent with the care-debt economy (Finding I's Green Ledger) and the Second Chair Workshops' repair ethos, clothing across the whole population is visibly patched and mended rather than discarded — a real, general marker distinct from anywhere in Concordia running on credits instead of care-debt. **Diaspora layering, general rather than occupational:** Mawson-descended households lean toward warm, soft palettes district-wide (Finding V's diaspora material), unconnected to any specific job. **Marker of origin within Concordia:** irregular-cut, visibly mended, humbly-made clothing in warm, soft tones — instantly distinct from Taurus's own heirloom-precise dress or any district running on a harder, more institutional aesthetic.
+**Making and upkeep: homespun, and mended in the open.** Findhorn's documented low-consumption, hand-made and
+home-dyed clothing culture fuses directly with Cancer's care-debt economy. Clothing is generally made or
+finished at home, dyed with what's available, and — critically — **mended visibly rather than invisibly.** A
+repair is not concealed; showing that a garment has been kept going is the same value that keeps a dead
+person's chair at the table, applied to cloth. A wardrobe with no visible mends suggests either very recent
+arrival or an unwillingness to accept help, and both are noticed.
+
+**The split token — the district's one near-universal worn object.** Fused from the Ospedale degli Innocenti's
+documented practice of breaking a coin in half and leaving one half with a surrendered infant, against the day
+it might be matched and made whole: Cancer residents very commonly wear one half of a deliberately broken small
+object — metal, ceramic, or shell — at the collar or wrist. The meanings are individual and not interchangeable:
+a person lost, a person searched for, a separation never resolved, a Keeping taken up, a bond between two living
+people who expect to be parted. Nobody asks which. It is worn by a large share of the general population across
+every occupation and age, and it is the single most recognisable visual marker of a Cancer resident anywhere in
+Concordia.
+
+**Palette.** Warm, soft, low-saturation — greens, unbleached naturals, and the warm tones Mawson-descended
+households favour district-wide (`District_Refugee_Diaspora_Composition.md`).
+
+**The narrower occupational case, correctly scoped.** Caregivers, therapists, and creche staff on shift wear
+practical unrestrictive working garments suited to sustained physical contact, compatible with
+`Game-Mechanics/Combat/District_Armor_Augmentations_and_Protection.md`'s existing Cancer set (Sanctuary Warden
+Vest, Caretaker's Embrace Plating) as its unarmored professional ancestor. This describes what one profession
+wears at work — not what Cancer residents generally wear.
 
 ---
 
-## XIII. Arcanet Culture — the Mother's Circuit is already Cancer's Arcanet relationship, just never named as one (District Culture Development Plan, Phase 3)
+## XIII. Arcanet Culture (District Culture Development Plan, Phase 3)
 
-**Proposed:** Cancer doesn't need an invented Arcanet relationship — it already has one, established but never framed as such: the **Mother's Circuit**, caregiving robots' informal shared emotional-data network (Vision Notes recap), plus this file's own Finding VI, which already identifies a **Surveillance Faction** forming specifically around "whatever facility physically houses the Mother's Circuit's aggregated data" (proposed name there: **the Circuit House**). Read together, these already describe a real, specific Arcanet Culture — this Finding formalizes it rather than inventing something new. **Oral/social vs. archival:** Cancer leans strongly oral and social in its *general* information culture — the care-debt economy runs entirely on informal, unwritten social tracking (Finding I's Green Ledger, "never actually written down"), consistent with Concordia's own Data Nexus (Gemini/The Circuit) being the archival specialist district, not Cancer. The Mother's Circuit is the one real exception: a genuinely archival, aggregated data layer sitting inside an otherwise oral-culture district — which is exactly why it's generating internal friction (Finding VI) rather than being simply accepted. **Privacy norms:** already established as unusually low — Finding V's Zhongshan-descended caregiver finds Cancer's whole "informational-openness ethos" genuinely uncomfortable, a direct, concrete confirmation of what the template asks under "how privacy norms shape network behavior." The Mother's Circuit's drift "into something resembling surveillance" is the load-bearing mechanism behind that openness: a network built to help caregivers share emotional-context data for better care has organically become something closer to ambient monitoring, and residents who value privacy (like Finding V's placeholder character) experience it as a genuine cost of living in Cancer, not a hypothetical one. **Relationship to Gemini:** Cancer is a consumer/dependent of Concordia's wider Arcanet infrastructure (physically anchored at Gemini/The Circuit, the city's own Data Nexus), not a producer of network capacity — the Mother's Circuit is a local, caregiving-specific application running on top of that wider infrastructure, not a competing or parallel system.
+**Proposed.** Stated general baseline first, per `00b`, with the specific institution scoped separately.
+
+**General baseline: Cancer is an oral and social information culture, not an archival one.** The care-debt
+economy that organises daily obligation across the whole district runs entirely on informal, unwritten, socially
+held tracking (Finding I's Green Ledger, explicitly "never actually written down"). Ordinary Cancer residents
+use Concordia's Arcanet the way people use a utility — practically, without much cultural investment, and with
+no particular expectation that it is where important things live. Important things live in people.
+
+**Except for one thing, which Cancer inscribes permanently: outcomes.** Fused from Epidaurus's *iamata*, the
+inscribed stelai on which the sanctuary publicly recorded roughly seventy cures — Cancer maintains a genuine,
+public, permanent record of successful outcomes. Recoveries, completed integrations, stabilised units, resolved
+Keepings: these are posted and kept, in physical inscription as much as in any Arcanet record, in the open where
+anyone can read them. It functions as morale infrastructure for a population doing extremely hard work, and it
+is one of the district's few genuinely triumphant registers.
+
+**And the thing that record does not contain is the point.** Cancer inscribes what worked. It has no
+corresponding record of what did not — no register of failed integrations, of caregivers who burned out and were
+quietly reassigned, of the Overcrowding Decision's triage, whose written records the district's own archivists
+destroyed. A visitor reading the posted outcomes would conclude Cancer nearly always succeeds. This is
+Finding IV's "visible virtue, hidden cost" pattern expressed as an information system, and it is the most
+consequential thing about how Cancer handles recorded knowledge.
+
+**The narrower institutional case, correctly scoped: the Mother's Circuit.** The caregiving robots' shared
+emotional-data network is a real, archival, aggregated system — and it is genuinely exceptional within an
+otherwise oral district, which is precisely why it generates friction rather than passing unnoticed. Finding VI
+already identifies a Surveillance Faction forming around the facility housing its aggregated data. It is
+caregiving-robot infrastructure, not the general population's relationship to information, and the two should
+not be conflated. Its drift toward something resembling ambient monitoring is a real cost of living in Cancer
+for privacy-reserved residents — Finding V's Zhongshan-descended caregiver is the established concrete case.
+
+**Relationship to Gemini.** Cancer is a consumer of Concordia's wider network infrastructure, anchored at
+Gemini, and a producer of nothing informational except the posted outcomes. It has no ambition to be an
+information district and does not compete with one.
 
 ---
 
 ## XIV. Visitor Experience / Visitor-to-Resident Transition (District Culture Development Plan, Phase 4)
 
-**Visitor Experience, largely already written, just not labeled as such:** the Mega-Init's own "What It Feels Like" section is written directly from an unhurt, unknown visitor's point of view — nobody rushes to help because you don't need it, but the felt impression that they would if you did; genuine eye contact and waving from both humans and robots; someone singing softly, audible but distant; a slow but "slow enough" pace. This Finding treats that passage as Cancer's canonical Visitor Experience answer rather than re-deriving one. **Both visitor types apply, in different registers:** cross-district visitors mostly arrive for a specific service (grief counseling, integration support, hospital care) — Cancer's whole civic function serves the rest of Concordia, so this is routine rather than remarkable. Pre-placement arrivals are structurally rarer today than during the founding era (most now go through the diaspora-affinity process, per `City_Refugee_District_Affinities.md`), but Cancer's founding logic — "no one left behind" extending to outsiders and strangers as a matter of founding logic, not policy (Finding III) — plausibly still makes it a real, if secondary, fallback destination for people who don't cleanly fit anywhere else's affinity ranking. **Physical context (color-coded map):** Cancer sits in the middle ring, not Hub-adjacent and not one of the two outer gateway districts — most visitors arriving here have already had some baseline contact with Concordia itself before reaching Cancer specifically, unlike Sagittarius or Capricorn, whose own eventual Phase 4 findings will need to cover genuine first-contact-with-the-whole-city material that Cancer's doesn't need to.
+**Visitor Experience.** The Mega-Init's account stands as canonical and is not re-derived here: reserve without
+coldness, care that is available without hovering, a slow-but-alive pace. Per the colour-coded district map,
+Cancer sits in the middle ring — not Hub-adjacent, not one of the two outer gateway districts — so essentially
+every arrival has already crossed some other part of Concordia to get here, and nobody experiences Cancer as
+their first contact with the city.
 
-**Visitor-to-Resident Transition, proposed:** unusually fast and low-friction compared to what a district with a real "us" would require, directly following from Finding III's own logic — Cancer's founding population never had an established community to measure a newcomer against, so there was never a strong "insider" threshold to cross in the first place. The real, practical marker isn't time-based or ceremonial; it's **structural inclusion in the care-debt economy** — the moment someone is asked to tend a section of the district's plantlife (Finding I's Green Ledger), invited to a Broth Night, or starts appearing in someone's informal accounting of who's owed and who's owing, they've functionally become a resident, often within days rather than months. **A genuine complication, not smoothed over:** this fast structural transition doesn't guarantee a fast *psychological* one — Finding V's Zhongshan-descended caregiver placeholder is the concrete counter-case, someone who has plausibly been structurally "in" for a long time while still privately maintaining the reserved distance her own home culture's privacy norms taught her, quietly uncomfortable with exactly the informational openness (Finding XIII) that makes Cancer's transition so fast for everyone else.
+**Both visitor types apply.** Cross-district visitors mostly arrive for a specific service, which is routine
+rather than remarkable in a district whose civic function serves the whole city. Pre-placement arrivals are
+rarer now that diaspora affinity handles most placement, but Finding III's founding logic — no prior "us" for an
+outsider to be measured against — plausibly still makes Cancer the fallback for people who fit nowhere else's
+ranking.
+
+**Visitor-to-Resident Transition: a term of shared work, then simply staying.** Fused from Arcosanti's
+documented model, where newcomers arrive through a fixed-length workshop and residents are the alumni who
+stayed: an arriving person in Cancer is placed, quickly and without ceremony, into a term of ordinary shared
+work — a stretch of the Growing Towers to tend, shifts in a broth kitchen, hours in a creche or a warm-soak
+house. The work is real and needed, not therapeutic busywork, and the placement is not framed as a test. The
+transition to resident is not a decision anyone announces; it is what has happened once the term has ended and
+the person is still doing the work, and once they have started appearing in other people's informal reckoning
+of who is owed and who owes (the Green Ledger, Finding I). Structural residency arrives fast in Cancer, often
+within weeks, for the reason Finding III already gives: the district never had a prior in-group to be admitted
+to.
+
+**A physical artifact of arrival.** New arrivals are commonly given, or make, half of a broken token
+(Finding XII) — most often paired with whoever brought them in, vouched for them, or worked the first term
+alongside them. It is a small, ordinary practice and not everyone keeps it up, but it is where a large fraction
+of the district's worn half-tokens actually come from.
+
+**A genuine complication, not smoothed over.** Fast structural inclusion does not mean fast psychological
+belonging. Finding V's Zhongshan-descended caregiver is the established counter-case: someone long since
+structurally inside, still privately maintaining the reserve her own home culture taught her, quietly
+uncomfortable with exactly the informational openness that makes Cancer's transition so quick for everyone else.
 
 ---
 
 ## XV. Ordinary Daily Life (District Culture Development Plan, Phase 5)
 
-**Governing test applied:** not one line below is caregiving, grief-processing, or integration work restated in more detail — per the developer's own standard (Scorpio residents don't spend twelve hours a day in grief ritual, and neither does a Cancer resident spend every waking hour caregiving), everything here is deliberately what a resident's day contains *around* the district's headline function.
+**Governing test applied** (`Phase_Instructions/05`): nothing below is caregiving, grief-work, or integration
+restated in more detail. Cancer residents do not spend their days grieving any more than Scorpio residents do.
 
-**Routines:** most Cancer residents hold ordinary, non-caregiving jobs the district needs just to function day to day — general retail, small-scale repair and maintenance work distinct from the Second Chair Workshops' specialized craft, transit and delivery work moving goods between districts, administrative record-keeping unrelated to care. A robot resident's morning routine is as likely to be self-maintenance and a scheduled Arcanet check-in as anything care-related. Commutes within the district are short (Finding — color-coded map, middle-ring district, moderate scale), so most residents' day doesn't involve significant travel.
+**Attunement — the district's most-performed daily practice, and it has nothing to do with grief.** Fused from
+Findhorn's documented practice: before beginning any shared task, Cancer residents pause briefly together —
+often literally forming a small circle, often just a held moment of shared silence — to settle before starting.
+It happens before a kitchen shift, before moving furniture, before a repair crew opens a wall, before a family
+meal. It takes perhaps twenty seconds. It is completely unremarkable to residents and immediately conspicuous to
+visitors, who routinely misread it as religious; it is not, and Keepers and non-believers do it identically.
+More than any memorial practice, this is the thing a person from Cancer does constantly and everywhere, and it
+is the habit they find hardest to drop when they live somewhere else.
 
-**Mundane concerns:** a leaking pipe in a shared residential cluster; a delayed shipment through the ordinary retail economy; a noisy neighbor during the district's otherwise hushed evenings (Finding IX); whether a friend's unrelated personal drama (a strained relationship, a work dispute with a supervisor) resolves before a shared meal; the small, real anxiety of not being sure whether one currently owes or is owed care-debt on the Green Ledger, given it's deliberately never written down — a distinctly Cancer-flavored mundane worry, but a mundane one, not a crisis.
+**Routines.** A large share of residents hold ordinary jobs the district needs to function and that have no
+caregiving component: retail, general repair and maintenance, transit and delivery, records and administration,
+foundry and bell-tuning work (Finding X), plant propagation for the export trade. Nearly everyone, whatever
+their job, does some window-reach tending (Finding VIII) in the morning or evening — a few minutes of watering,
+pinching back, or fussing at their own arm's-length stretch of wall. Robot residents' mornings run to
+self-maintenance and a network check as readily as to anything care-related.
 
-**Personal struggles:** a teenager or young adult chafing at the district's own deliberate slowness, wanting the noise and speed of somewhere like Leo and resenting Cancer's hushed pace as suffocating rather than comforting — a genuine, small-scale generational friction distinct from the district's large-scale historical wounds. A resident quietly worried they're not "useful" enough within the care-debt economy, unrelated to any specific grief event — an ordinary insecurity about pulling one's own weight, the kind any economy without hard numbers can produce.
+**Mundane concerns.** Whether the condensate runnel above someone's window is dripping onto their planting again
+and who is supposed to fix it. A neighbour's windbell that is genuinely, specifically annoying. Whether a
+delivery arrives before the kitchens change over. The quiet, real anxiety of not being certain whether you are
+currently owed or owing on the Green Ledger, since it is deliberately never written down — a distinctly Cancer
+worry, but an ordinary one.
 
-**Escapism/downtime:** Broth Nights (Finding I companion material) already serve a social function, but residents also have purely recreational outlets distinct from any memorial framing — informal music-making unconnected to the lullaby tradition specifically, simple craft hobbies distinct from the Second Chair Workshops, board or tabletop games in the Communal Warm-Soak Houses' more social hours. Robot residents' own downtime plausibly includes Glitch-Coolant socializing (Tepenia-wide robot culture canon), with Cancer's own bohemian-vs-working-class variety-vs-potency split (per that canon's own established range) worth deciding case by case rather than defaulting to one register district-wide.
+**Personal struggles.** A young resident who finds the district's slowness suffocating rather than comforting
+and wants Leo's noise — the exact mirror of the Taurus resident who secretly wants the same thing. A person
+quietly convinced they are not useful enough within an economy that has no numbers to reassure them with. Someone
+who has taken on an adopted Keeping (Finding XI) and has privately begun to resent it, and cannot say so, because
+the whole point is that you do not put it down.
+
+**Escapism and downtime.** Purely recreational and unconnected to memorial practice: informal music-making that
+is not lullaby tradition, small private crafts deliberately kept outside the Second Chair Workshops' orbit
+(not everything needs to become a meaningful object), games and long social hours in the Communal Warm-Soak
+Houses, and competitive window-reach gardening — a genuine low-stakes neighbourhood rivalry over whose stretch
+of wall looks best, entirely unserious and widely enjoyed. Robot residents' downtime includes Glitch-Coolant
+socialising per Tepenia-wide canon.
 
 ---
 
 ## XVI. Thematic Breadth Catalog (District Culture Development Plan, Phase 6)
 
-**Extends `District_Canon_Reference.md`'s existing Community Infrastructure & Social Life section — doesn't re-derive it.** That section already covers Cancer's own Additions, Small offices, and Social cohesion mechanisms in depth; this Finding adds the four categories it doesn't cover, per role/archetype-only rule for people entries (binding, District Culture Development Plan instruction).
+**Extends `District_Canon_Reference.md`'s existing Community Infrastructure & Social Life section** (Additions /
+Small offices / Social cohesion mechanisms, 2026-07-29) with the four categories it does not cover. People
+entries are role placeholders only, never named — binding developer instruction.
 
-**Named places and landmarks:**
-- **The Circuit House** — formalizing Findings VI/XIII's own proposed name for the facility physically housing the Mother's Circuit's aggregated data; the Surveillance Faction's own informal gathering site.
-- **The Wheel** — fused from Ospedale degli Innocenti's *ruota degli esposti* (`Real-World_Basis_Extrapolation_Method.md`'s own worked example): a rotating drum built into a clinic or creche wall, letting someone leave an infant, a newly-activated robot, or simply a token, anonymously and without face-to-face contact — a direct, physical continuation of Cancer's founding-era intake logic (Finding III), still standing and still used.
-- **The Dreaming Hall** — fused from Epidaurus's abaton, a dormitory-style annex to a Threshold Waiting Room where someone in acute crisis can sleep in a deliberately calm, guided environment; its adjoining small performance space (fused from Epidaurus's own theater-as-treatment element) hosts Lullaby Nights performances specifically for Dreaming Hall residents, not general audiences — treatment-through-ritual rather than entertainment.
+**Named places and landmarks**
+- **The Turning** — an anonymous-surrender point, fused from the Ospedale's foundling wheel: a rotating drum
+  built into the wall of an older creche, allowing an infant, a newly activated unit, or simply an object to be
+  left without anyone being seen. Founding-era, still standing, still used, though rarely.
+- **The Long Room** — fused from Epidaurus's abaton, whose two-part structure the research makes specific: an
+  open colonnaded waiting hall giving onto a dark, quiet, enclosed sleeping chamber. Cancer's version is for
+  people who cannot be alone at night — not a clinic and not a shelter, simply a supervised place to sleep near
+  others. Attached to it is a small performance alcove where lullaby-masters sing for the sleepers rather than
+  for an audience.
+- **The Long Shelf** — fused from Père Lachaise's ossuary: the communal holding where the objects of lapsed
+  Keepings are tagged and kept indefinitely, available for adoption (Finding XI). Nothing on it is ever
+  discarded. It is quiet, orderly, and among the saddest places in Concordia.
+- **The Pit Gardens** — fused from the Eden Project, built inside an exhausted 160-year china clay pit: a
+  neighbourhood occupying a decommissioned founding-era excavation, now the most densely planted ground in the
+  district, its Growing Towers rooted well below street level.
+- **The Foundry** — where the windbells are cast and tuned (Finding X).
+- **The Circuit House** — formalising Findings VI and XIII's own proposed name for the facility physically
+  housing the Mother's Circuit's aggregated data.
 
-**Physical things:**
-- **The Waiting Chair** — a specific, recognizable style of memorial chair (Second Chair Workshops craft) deliberately left visibly empty at a household table, distinct from other kept objects by its conspicuous emptiness rather than active use.
-- **Memory tokens** — the small physical items (carved, molded, or simply personal objects) left at open-air memorial circles alongside voice-notes; individually unremarkable, collectively the circles' whole visual character.
-- **Quiet Register tokens** — the actual physical object behind the Quiet Register's nonverbal doorway signal: a small, deliberately simple hung marker, turned or placed a certain way to mean "I need help but can't ask directly right now."
-- **The household Ofrenda** — per Finding XI, cataloged here as a recurring physical object-set (photographs, favorite foods, personal items), present in some form in a meaningful share of Cancer households.
+**Physical things**
+- **Split-token halves** (Finding XII) — the district's near-universal worn object.
+- **Votive forms** — fused from Epidaurus's documented body-part votives: small cast or moulded shapes
+  representing specifically what someone is trying to recover — a hand, a component, a house, a name — left at
+  the Long Room or an Ofrenda. Cheap, made in quantity, individually meaningless and collectively overwhelming.
+- **Windbells**, in enormous numbers, the district's ambient soundscape made physical.
+- **The Waiting Chair** — the Second Chair Workshops' signature form, kept conspicuously empty at a table.
+- **Quiet Register tokens** — the physical marker hung at a doorway meaning "I need help and cannot ask."
+- **Reach-band tools** — the short-handled trimmers, hooks, and watering canes made specifically for working an
+  arm's length of wall from inside a window.
 
-**People (role/archetype placeholders only):**
-- A veteran Second Chair Workshop craftsperson, known specifically for Waiting Chairs.
-- A Circuit House data-technician, uneasy about their own role in the Mother's Circuit's surveillance drift.
-- A neighborhood's recognized Ofrenda-keeper, known for maintaining an unusually well-tended communal altar.
-- Whoever holds the informal, rotating duty of checking the Wheel.
-- An ordinary shopkeeper or repair-trade worker with no caregiving role at all — grounding Finding XV's own Ordinary Daily Life material in an actual recurring figure.
+**People (role/archetype placeholders only)**
+- A bell-caster, and separately a bell-tuner, who work by ear and disagree.
+- A Long Shelf custodian, whose real work is matching lapsed Keepings to volunteers willing to adopt them.
+- An attendant of the Turning, whose job is mostly to not be present at the wrong moment.
+- A propagation worker supplying the district's cuttings-and-rooted-stock export.
+- An ordinary shopkeeper or repair-trade worker with no caregiving role at all, grounding Finding XV.
+- A neighbourhood's acknowledged best window-reach gardener, quietly competitive about it.
+- A Circuit House technician uneasy about their own part in the Mother's Circuit's drift.
 
-**Settings:**
-- The specific, recurring texture of early morning Green Ledger plant-tending, done alone, before the rest of the district wakes.
-- The muffled contrast of passing an institution's exterior wall and sensing, without seeing, the harder sensory register within (Findings IV/IX) — a situational texture rather than a named place.
-- A Broth Night's exact in-progress atmosphere — communal cooking, live informal music, the specific feeling of a "Zukelli table" within it (diaspora material, Finding V's companion diaspora content) — as a recurring situation, not a fixed venue.
+**Settings**
+- Pre-dawn window-reach tending, done alone, half the district awake and none of them talking.
+- The moment a shared task pauses for Attunement, and a visitor doesn't know to stop walking.
+- The Growing Towers' vents changing note as the load shifts, and every bell in the district answering at once.
+- A Broth Night mid-swing — potluck cooking, informal live music, a recognisable "Zukelli table" inside it.
+- An adoption match being made at the Long Shelf: no ceremony, a short conversation, an object handed over.
 
 ---
 
-## XVII. Robot-Specific Culture — the capstone (District Culture Development Plan, Phase 7)
+## XVII. Robot-Specific Culture (District Culture Development Plan, Phase 7)
 
-**Scope note:** this Finding runs the adapted six-step process from `Phase_Instructions/07_Phase_7_Robot_Specific_Culture.md` against Cancer specifically, drawing directly on Findings I-XVI above. It does **not** perform a full chapter-by-chapter triage against the complete *Robot Universals* text (that reference lives in the separate `TepenianUniverseTimeline` repo and wasn't loaded in full for this pass) — it works instead from Cancer's own already-rich established robot-population material plus the confirmed Tepenia-Wide Robot Culture Canon (Input Category E), which is where the strongest, most specific findings come from regardless. Flagged honestly rather than overclaiming completeness.
+**Scope note.** This pass works from Cancer's established robot-population material plus the confirmed
+Tepenia-wide robot-culture canon; it is **not** a full chapter-by-chapter *Robot Universals* triage, which lives
+in the `TepenianUniverseTimeline` repo and is planned as a separate follow-on across all 13 districts (see the
+Plan's "Planned follow-on" section). Stated plainly rather than overclaimed.
 
-**Lens:** theme/role-based, per the finalized Phase 7 decision — Cancer's robot population organizes its own culture around the district's defining vocation, **caregiving**, the way a calling shapes a subculture rather than a homeland.
+**Lens:** theme/role-based, per the finalized Phase 7 decision — Cancer's robot population organises its culture
+around the district's defining vocation, **care and continuation**. Per `00b`, this describes the district's
+general robot population, not only its caregiving models; Cancer also runs foundry, propagation, maintenance,
+transit, and administrative units, and they are included below.
 
-**Finding 1 — A robot continuing a deceased human's routines for years is Cancer's single most defining robot-culture fact, and it was already canon before this phase started.** *(Inheritance: Genuinely emergent, robot-only. Iceberg: Deep Culture.)* Robots aren't immortal — they simply live considerably longer than humans do, which is enough on its own: no human population could sustain this practice the same way, since a robot's own much longer natural lifespan, durability, and precision routinely outlasts the remaining lifespan of the human keeper they're honoring. This is the load-bearing anchor the rest of this Finding builds from.
+**Finding 1 — Continuing a dead person's routine is Cancer's defining robot practice, and it turns on lifespan,
+not immortality.** *(Inheritance: genuinely emergent, robot-only. Iceberg: Deep Culture.)* Established canon
+before this pass: a robot companion continuing a deceased human's daily routines for years. Robots are **not**
+immortal — they simply live considerably longer than humans, and that difference alone is sufficient: a robot
+keeper routinely outlasts the remaining lifespan of the person who would otherwise have kept the pattern going,
+which no human keeper can promise. Everything below builds on this.
 
-**Finding 2 — Robots are Keeping's primary theological practitioners, not tools used by human believers.** *(Inheritance: Adapted pool-draw. Iceberg: Deep Culture.)* Per Finding XI's own text, robot embodiment doesn't just enable Keeping's practice, it changes its character: a human keeper can only keep a routine going for their own remaining lifetime, while a robot keeper's own considerably longer lifespan lets a single kept routine plausibly outlast several human generations before the robot's own eventual end catches up to it — not immortal, just long-lived enough that the difference reads as doctrinally significant. That difference in scale plausibly makes robot-led Keeping the tradition's own most respected, most doctrinally "complete" form — worth treating robot Keepers as senior/authoritative within the belief system, not junior participants in a human-led one.
+**Finding 2 — Robots hold most of Cancer's adopted Keepings, and this is the district's quiet demographic
+reality.** *(Inheritance: adapted pool-draw. Iceberg: Deep Culture.)* Directly downstream of Finding XI's
+unkept-Keeping problem: because robots outlast the human generations around them, they are structurally the
+population most often present when a Keeping lapses, and they take on adopted patterns at a far higher rate than
+humans do. A long-lived Cancer robot may be maintaining several routines for people it never met, inherited one
+after another as the households around it ended. This is the most emotionally load-bearing robot-culture fact in
+the district and it is entirely new to this pass.
 
-**Finding 3 — The Mother's Circuit is genuinely robot-emergent technology built on an adapted-inherited human value.** *(Inheritance: Adapted pool-draw, mixed — the underlying value of informal, unwritten mutual tracking is inherited from the district's own human care-debt economy (Green Ledger); the specific networked, aggregated-data form only robots would build and use this way is genuinely emergent. Iceberg: Deep Culture — this is about trust, cooperation, and privacy, not surface aesthetics.)* The Surveillance Faction's own discomfort (Finding VI) is itself a robot-culture-internal disagreement about how far an adapted practice should be allowed to drift from its inherited original intent — worth treating as a real fault line within Cancer's robot population, not just a human/robot tension.
+**Finding 3 — Robot standing in Attunement is fully equal, and quietly matters.** *(Inheritance: adapted
+pool-draw. Iceberg: Deep Culture.)* Attunement (Finding XV) is performed identically by humans and robots, in
+mixed circles, before ordinary shared work — no separate protocol, no deference in either direction. In a
+district where robots are otherwise heavily concentrated in service and caregiving roles, a universal
+twenty-second daily practice in which nobody defers to anybody is a real, structural piece of Cancer's
+egalitarianism, and it applies to foundry and transit units exactly as it does to companion models.
 
-**Finding 4 — Second Chair Workshops craftsmanship is a genuine robot-labor draw, valued for precision and durability.** *(Inheritance: Adapted pool-draw. Iceberg: Surface Culture — crafts & material culture.)* Consistent with the theme/role lens: a caregiving-adjacent skilled trade is exactly where Cancer's robot population would concentrate, the same logic Robot Universals' own locality-dominant weighting predicts.
+**Finding 4 — The Mother's Circuit is a robot-built institution expressing an inherited human value, and its
+internal argument is a robot argument.** *(Inheritance: mixed — the underlying value of informal mutual tracking
+is inherited from the district's human care-debt economy; the networked aggregated form is genuinely emergent.
+Iceberg: Deep Culture.)* Finding VI's Surveillance Faction is best read not as a human/robot tension but as a
+disagreement *within* Cancer's robot population about how far an adapted practice may drift from what it was
+adapted from.
 
-**Finding 5 — Senior caregiving robots and newly-activated robots share a real Kinship bond, rooted in ongoing shared condition, not a single incident.** *(Inheritance: Adapted pool-draw. Iceberg: Deep Culture.)* Per the Kinship-specific reminder ported from the outer-city methodology (start from the shared experience, not from "what's the local mentorship structure"): the actual shared experience is *having been oriented and stabilized in Cancer specifically*, an ongoing condition, not the one-time event of arrival at the Wheel (Finding XVI) or a Paired Creche placement. A newly-activated robot and the senior robot who helped stabilize it share this condition indefinitely, which is what the bond is actually made of — the Wheel/Paired Creches are supporting municipal detail, not the mechanism itself. **Input D translation, applied:** the Wheel's own real-world basis (Ospedale degli Innocenti) is a human-infant parallel; its genuine robot-specific analog isn't "robots also get left at the Wheel the same way," it's this Kinship structure — a newly-activated robot needs orientation, not rescue, and the robot-specific culture that grows around providing that orientation is the actual finding, not a reskinned human one.
+**Finding 5 — Kinship runs on shared ongoing condition, not shared incident.** *(Inheritance: adapted pool-draw.
+Iceberg: Deep Culture.)* Per the Kinship reminder ported from the outer-city methodology: the real bond among
+Cancer robots is the continuing condition of having been oriented and stabilised in this district specifically —
+an ongoing shared life, not the one-time event of arriving at the Turning or being placed in a Paired Creche.
+Those are supporting municipal detail; the bond is the shared condition. **Input D translation applied:** the
+Turning's real-world basis is a human-infant surrender mechanism, and the robot-specific analog is not "units
+also get left there" but this — a newly activated unit needs orientation rather than rescue, and the culture
+that grew up around providing it is the actual finding.
 
-**Consistency checks:**
-- **Human-Robot Relations Baseline:** Cancer fits the general egalitarian, skewed-robot baseline with no exception — not a Kunlun/Dome-Fuji-style forbidding case. No contradiction found.
-- **Fragmentation Matrix:** Cancer is already tagged **high-Grief** (with Taurus, `Fragmentation_Matrix.md`) — directly reinforces every finding above rather than contradicting any of them.
-- **Robot Elementals & Solar Symbols:** unconfirmed whether Concordia's districts participate in this system at all (`city-symbol-pairs.md` has no district entries, only outer cities) — **deliberately not resolved here**, flagged as an open question for whoever runs this system's own district-level decision, not invented in this pass.
+**Consistency checks.**
+- **Human-Robot Relations Baseline:** fits the egalitarian, robot-skewed national baseline; no exception, no
+  contradiction. Finding 3 is a local deepening of it.
+- **Fragmentation Matrix:** Cancer is tagged **high-Grief** with Taurus — directly reinforces Findings 1 and 2
+  rather than conflicting with them.
+- **Robot Elementals & Solar Symbols:** `to-be-integrated/city-symbol-pairs.md` contains no district entries, so
+  whether Concordia's districts participate in that system at all is unconfirmed. Deliberately not resolved
+  here; flagged for whoever owns that system.
 
-**The Swap Test:** tested against Scorpio, per this phase's own suggested comparison (a similarly wound/care-adjacent district). Scorpio's established register is confrontation-based — direct reckoning with loss (Rebirth Ritual, Archive of Final Confessions) — categorically different from Cancer's continuation-based register. None of Findings 1-5 survive an unchanged swap onto Scorpio; each is genuinely anchored in Cancer's own specific theme, not a generic "district that deals with death" template.
+**Swap Test.** Tested against Scorpio, the nearest comparable register (both founding-era districts built around
+the same original wound, per the Deep Dive's sibling-districts finding). Scorpio's method is confrontation —
+descent, reckoning, rebirth; Cancer's is continuation. None of Findings 1-5 survive the swap: a robot who
+maintains an absent person's pattern for decades and a robot who guides someone through deliberate
+self-dissolution are answering the same question in structurally opposite ways. Genuinely Cancer-specific.
 
-**Output-shape decision (provisional):** folded directly into `Cancer_Full_Extrapolation.md`, consistent with Phases 1-6, rather than a separate `Local_District_Robot_Culture/` folder. This matches the outer-city precedent's own eventual choice (a dedicated sibling folder) only in spirit, not in structure — **this placement decision is provisional, made for this worked example, and should be revisited before running Phase 7 on the remaining 12 districts**, not treated as a silently-locked-in default.
+**Output-shape decision (provisional).** Folded into `Cancer_Full_Extrapolation.md` alongside Phases 1-6 rather
+than a separate `Local_District_Robot_Culture/` folder. The outer-city precedent chose a dedicated sibling
+folder; that question stays open for districts and should be settled before Phase 7 scales past the early
+worked examples.
 
 ---
 
 ## Worth Your Attention
 
-**Original standout, still holding:** Section IV — the overcrowding strain being real but hidden behind institutional walls rather than visible on the street — resolves what otherwise reads as a genuine tension between Cancer's documented capacity crises and its own calm, unhurried street-level Vision Notes, without discarding either fact. Section VIII later confirmed this pattern isn't just experiential, it's architectural — the district's own building stock carries two visibly different eras.
+**Original standout, unchanged:** Finding IV — the overcrowding strain being real but hidden behind institutional
+walls rather than visible on the street — still resolves what would otherwise be a genuine contradiction between
+Cancer's documented capacity crises and its calm, unhurried street-level Vision Notes, without discarding either.
 
-**Standout of the full 7-phase District Culture Development Plan pass (Findings VIII-XVII, completed 2026-08-16):** Finding XVII (Robot-Specific Culture) is the one worth flagging above the rest, precisely because it required inventing almost nothing new — the single most defining robot-culture fact in the entire district (a robot continuing a deceased human's routines for years) was already sitting in the Mega-Init as an established, unremarked detail, never before recognized as what it actually is: the load-bearing anchor of a whole unnamed belief system (Finding XI's "Keeping") and the reason robots are Keeping's senior practitioners, not human believers' tools. The whole arc from Finding I to Finding XVII — formalizing scattered-but-real material far more often than inventing from nothing — is Cancer's own version of the same lesson Section VIII first surfaced: this district had more already established, and more already coherent, than it had ever gotten credit for in one place.
+**Standout of the full 7-phase pass (Findings VIII-XVII, rewritten from scratch 2026-08-16):** **Finding XI's
+problem of the unkept, and Finding XVII's Finding 2 following from it.** Naming Cancer's belief system was the
+easy half; the half that actually matters is that a religion of continuation has to answer what happens when
+continuation fails, and Cancer's answer — strangers adopting the routines of people they never met, with robots
+quietly carrying most of that load because they outlive everyone around them — gives the district a genuine
+moral centre it did not previously have. The Long Shelf, where unadopted Keepings wait indefinitely and nothing
+is ever thrown away, is the single most useful new location this pass produced.
+
+**Second, worth flagging separately:** the **Window Reach** (Finding VIII) is the most broadly applicable new
+idea here — a universally-held right to alter your own wall as far as your arm reaches. It explains, mechanically
+and at general-population scale, how an institution-dense district still reads as personal and hand-made, and it
+supplies texture to Architecture, Sensory Profile, Ordinary Daily Life, and Thematic Breadth simultaneously.
+
+**Process note for the remaining districts.** This rewrite exists because the first pass re-labelled existing
+canon instead of generating new culture, and never actually researched the district's real-world picks. Doing
+that research properly produced the Window Reach, the split token, Attunement, the Long Shelf, the windbells,
+the Growing Towers, the posted-outcomes record, and the work-term transition — none of which existed in any
+form before. **Four of Cancer's eight picks (Père Lachaise, Arcosanti, Findhorn, Hundertwasserhaus) had never
+been used at all**, and three of those four produced the strongest material in this file. Assume the same is
+true of every remaining district's unused picks.

@@ -11,6 +11,22 @@ be before describing their culture.
 first** — Sensory Profile's "first impressions" sub-field is a real risk for the same narrow-context-as-default
 mistake caught in Fashion (Phase 2).
 
+## 0. Do the real-world research ONCE, up front, before Phase 1 — it feeds all seven phases
+
+**Added 2026-08-16, from Cancer's from-scratch rewrite.** `Real-World_Basis_Extrapolation_Method.md` was
+originally scoped mainly to Phase 6, on the assumption that places/things/people were where real-world picks
+paid off. Cancer's rewrite disproved that: properly-researched picks fed **every phase**, and several fed
+multiple at once. Hundertwasser's Window Right became Architecture *and* Sensory Profile *and* Ordinary Daily
+Life *and* Thematic Breadth; Arcosanti's bell foundry became Architecture, Sensory Profile, Export Culture, and
+a location; Findhorn's Attunement became the backbone of Ordinary Daily Life and a Robot-Specific Culture
+finding.
+
+**So: before writing anything for a district, research all of its `District-Inspirational-Influences.md` picks
+— every tier, Primary through Supporting — at the concrete level, and keep the results to hand for the whole
+run.** Doing it per-phase wastes effort and, worse, means later phases never see material that would have
+answered them. Cancer's own research summary is recorded at the head of its Phase 1-7 block in
+`Cancer_Full_Extrapolation.md` as the format to follow.
+
 ---
 
 ## 1. What each category actually asks for

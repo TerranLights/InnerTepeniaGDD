@@ -29,6 +29,16 @@ transformation mask worn only by residents mid-transformation, a caregiver's wor
 stage-visibility dressing, each mistaken for the whole district's Fashion. That file is the binding cross-phase
 discipline for avoiding this, not a one-off Fashion note.
 
+**Second binding lesson, from Cancer's from-scratch rewrite (2026-08-16): actually run the research.** The point
+of these phases is to *generate new culture*, not to re-label material the district already had under new
+headings. The developer's own words when this went wrong: *"stop repurposing everything into new packages."*
+The single most effective corrective is `../../Real-World_Basis_Extrapolation_Method.md`, executed properly —
+which means **real web research on every one of the district's `District-Inspirational-Influences.md` picks,
+at the concrete level, not recalled from memory.** Cancer's first pass worked from memory, used two picks
+loosely, and left four untouched; when the research was actually run, three of those four untouched picks
+produced the strongest material in the district. See that file's worked-example table — it is the reference
+standard for what a properly-executed pass looks like.
+
 ## Files
 
 0. `00b_General_Population_Discipline.md` — cross-phase discipline, read first, every phase, every district
