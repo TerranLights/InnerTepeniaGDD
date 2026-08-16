@@ -33,7 +33,12 @@
 - **Palmer subnet:** `Palmer_Subnet/`
 - **Halley subnet:** `Halley_Subnet/`
 - **Janbogo/Ross subnet:** `Janbogo_Subnet/`
-- **Mirny subnet:** `Mirny_Subnet/` (Zhongshan, Sinheung, and Shirayuki's profiles live together in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md` instead, since their analysis was done as one comparative regional piece)
+- **Mirny subnet:** `Mirny_Subnet/`. Zhongshan, Sinheung, and Shirayuki were first scored together as one
+  comparative regional piece in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md` (2026-07-06) — **each now
+  also has its own dedicated file here (2026-08-16)**, re-derived independently against the much deeper
+  Cultural Spec Sheets each city has grown since. The axis scores are unchanged from the original regional
+  read; the individual files carry substantially more grounding and cross-reference the regional piece rather
+  than duplicating it.
 - **Mawson subnet:** `Mawson_Subnet/`
 - **Byrd subnet:** `Byrd_Subnet/`
 - **Amundsen Station:** `Amundsen_Station/` (not one of the 35 cities, included for completeness)

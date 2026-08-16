@@ -1,5 +1,19 @@
 # The Tri-Cities — Regional Personality Analysis
 
+**Superseded-in-part, 2026-08-16:** the axis scores below are unchanged and still authoritative, but each city
+now also has its own dedicated, more deeply-grounded write-up in `City_Enneagram_Personalities/Mirny_Subnet/`
+(`Zhongshan.md`, `Sinheung.md`, `Shirayuki.md`), re-derived against the full Cultural Spec Sheets these three
+cities have grown into since this file was written. This regional piece remains the right place for the
+comparative/founding-history material below (the Jeju-do partition, the amalgamation timeline, the shared
+"Alternative Culture" question) — it's just no longer each city's only Enneagram source.
+
+**See also, added 2026-08-16:** `Tri-Cities_Overlap_and_Distinguishing_Guide.md`, in this same folder — a
+different, more practical layer of analysis on top of this file's personality read: every point where the
+three cities actually overlap with *each other* (shared national populations at different tiers, an identical
+public/private-heritage structure, the shared Jeju-do founding mechanism, identical war/unification status,
+shared physical infrastructure), and what concretely distinguishes each city's version of that overlap in
+actual dialogue, character writing, or level design.
+
 **Purpose:** Zhongshan, Sinheung, and Shirayuki sit clustered together in the real-world Larsemann Hills, share one physical airport (the Tri-Cities Airport), and share a highway tri-junction (Hwy 4/22/110) — but their City Vision Notes sessions gave each one a genuinely distinct personality. This file applies the Enneagram's three sub-classifications — Major Theme (Center of Intelligence), Hornevian Group, and Harmonic Group — to each city as a whole, the same framework the developer uses to design individual Doll characters, treating each city's established culture as a "personality" in its own right. Session date: 2026-07-06.
 
 **Note on method:** these are not psychological profiles of individual residents — they're readings of each city's own collective character, built entirely from what's already established in `Specs/` and `Local_Cultures/` for each city, plus the developer's own City Vision Notes sessions. Reasoning is grounded in specific, already-canonical details, not generic Enneagram trivia.
