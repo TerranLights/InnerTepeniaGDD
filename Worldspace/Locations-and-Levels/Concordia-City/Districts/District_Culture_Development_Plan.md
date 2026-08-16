@@ -253,17 +253,18 @@ gets promoted into a proper Full_Extrapolation Finding as part of the relevant p
 Legend: **+ already has it** (may still need light expansion or promotion into Full_Extrapolation) · plain
 entry = needs full development from scratch.
 
-### 01 — Cancer
-- Architecture **+** (has it)
-- Sensory Profile — needed
-- Export Culture — needed
-- Religious/Philosophical Landscape — needed
-- Fashion — needed
-- Arcanet Culture (dedicated) — needed
-- Visitor Experience / Visitor-to-Resident Transition — needed
-- Ordinary Daily Life — needed (Phase 5)
-- Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+### 01 — Cancer — **ALL 7 PHASES COMPLETE (2026-08-16)**
+- Architecture — **Done** (Finding VIII)
+- Sensory Profile — **Done** (Finding IX)
+- Export Culture — **Done** (Finding X)
+- Religious/Philosophical Landscape — **Done** (Finding XI — "Keeping," plus the Ofrenda/Día de los Muertos fusion)
+- Fashion — **Done** (Finding XII)
+- Arcanet Culture (dedicated) — **Done** (Finding XIII — formalized the Mother's Circuit)
+- Visitor Experience / Visitor-to-Resident Transition — **Done** (Finding XIV)
+- Ordinary Daily Life — **Done** (Finding XV, Phase 5)
+- Thematic Breadth Catalog — **Done** (Finding XVI, Phase 6)
+- Robot-Specific Culture — **Done** (Finding XVII, Phase 7 — first-pass; full Robot Universals triage still pending, see the plan's own "Planned follow-on" section)
+- First district to complete the full 7-phase process — serves as the worked-example template for the other 12, the same role Cancer already played for the original Megasheet process.
 
 ### 02 — Taurus
 - Sensory Profile **+** (has it)
@@ -425,20 +426,39 @@ phase — not by district. Mark complete only once every one of the 13 districts
 for the "already has it" districts needing promotion rather than fresh writing) is written into its
 `*_Full_Extrapolation.md`.
 
-- [ ] Phase 1 — Architecture (9 new + 4 existing confirmed sufficient)
-- [ ] Phase 1 — Sensory Profile (11 new + 2 existing confirmed sufficient)
-- [ ] Phase 1 — Export Culture (12 new + 1 promoted from Libra's README/Mega_Init)
-- [ ] Phase 2 — Religious/Philosophical Landscape (12 new + 1 existing, Pisces, as reference)
-- [ ] Phase 2 — Fashion (13 new)
-- [ ] Phase 3 — Arcanet Culture, dedicated section (11 new + 2 promoted, Gemini/Sagittarius)
-- [ ] Phase 4 — concept definition pass (Visitor Experience / Visitor-to-Resident Transition, one-time)
-- [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (13 new)
-- [ ] Phase 5 — Ordinary Daily Life (13 new; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
-- [ ] Phase 6 — Thematic Breadth Catalog (13 new; places/things/people-as-placeholders/settings per district)
-- [ ] Phase 7 — lens decision pass (Robot-Specific Culture, theme/role-based, one-time)
-- [ ] Phase 7 — Robot-Specific Culture (13 new)
+- [ ] Phase 1 — Architecture (1/13 done: Cancer; 8 new + 4 existing confirmed sufficient remain)
+- [ ] Phase 1 — Sensory Profile (1/13 done: Cancer; 10 new + 2 existing confirmed sufficient remain)
+- [ ] Phase 1 — Export Culture (1/13 done: Cancer; 11 new + 1 promoted from Libra's README/Mega_Init remain)
+- [ ] Phase 2 — Religious/Philosophical Landscape (1/13 done: Cancer; 11 new + 1 existing, Pisces, as reference remain)
+- [ ] Phase 2 — Fashion (1/13 done: Cancer; 12 new remain)
+- [x] Phase 3 — Arcanet Culture, dedicated section — **lens established** (Gemini treated as the network center Cancer's own finding is written relative to, per Phase 3 Step A, even though Gemini's own dedicated Finding hasn't been formally written yet) — 1/13 districts done: Cancer; 10 new + 2 promoted (Gemini, Sagittarius) remain
+- [x] Phase 4 — concept definition pass (Visitor Experience / Visitor-to-Resident Transition, one-time) — **finalized**, see `Phase_Instructions/04...md` §1
+- [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (1/13 done: Cancer; 12 new remain)
+- [ ] Phase 5 — Ordinary Daily Life (1/13 done: Cancer; 12 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
+- [ ] Phase 6 — Thematic Breadth Catalog (1/13 done: Cancer; 12 new remain; places/things/people-as-placeholders/settings per district)
+- [x] Phase 7 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/07...md` §1
+- [ ] Phase 7 — Robot-Specific Culture (1/13 done: Cancer, first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 12 new remain)
 
 Once all seven phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and
 the Thematic Breadth Catalog — Local District Robot Culture can then begin the same way the outer-city version
 did, on solid ground rather than in isolation.
+
+---
+
+## Planned follow-on (after all 13 districts clear all 7 phases): a full Robot Universals triage pass
+
+**Developer instruction, 2026-08-16 — not yet started, explicitly gated on every district finishing all 7
+phases first.** Cancer's own Phase 7 pass (`Cancer_Full_Extrapolation.md` Finding XVII) was run without loading
+the complete *Robot Universals* reference text in full (`TepenianUniverseTimeline/Reference/Robot_Universals/`)
+— it worked instead from Cancer's own already-established robot-population material plus the confirmed
+Tepenia-Wide Robot Culture Canon, and said so honestly rather than overclaiming a full triage. Once every
+district has been through all 7 phases once, run a dedicated second pass, district by district: go through
+*Robot Universals* chapter by chapter and identify the specific shapes/forms each universal takes in that
+particular district — the same **Universal-by-Universal Triage** step already described in
+`Phase_Instructions/07_Phase_7_Robot_Specific_Culture.md` §3, just run properly against the complete text this
+time, now that every district has a full Phase 1-7 foundation (not just Phase 5/6-level material) to triage
+each universal against. This is a deliberate second look, not a correction of anything wrong in the first pass —
+Phase 7's own first-pass findings (theme/role-based, grounded in each district's established material) remain
+valid; this pass exists to catch whatever a proper universal-by-universal walk surfaces that a
+material-first approach wouldn't.
