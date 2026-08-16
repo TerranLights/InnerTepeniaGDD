@@ -2,7 +2,14 @@
 Reference-Materials/Treaties/
 Press-Outreach/
 to-be-integrated/treaties/
-Worldspace/Characters/Dolls/**/Reference_Images/
+Worldspace/Characters/Dolls/**/Reference_Images/*
+# Exception: keep the two z-template Reference_Images folders trackable via a .gitkeep placeholder.
+# Without this, these folders are always empty (templates have no actual images), and git never
+# tracks empty directories at all — so they vanish on any operation that resets the working tree
+# to match git's committed state (branch switches, `git clean`, a fresh clone, etc.), forcing them
+# to be manually recreated over and over. Real dolls' actual Reference_Images files stay ignored.
+!Worldspace/Characters/Dolls/Still-Present_-_In-Game/z-template/Reference_Images/.gitkeep
+!Worldspace/Characters/Dolls/Past_History_-_Known_to_Tepenians/z-template/Reference_Images/.gitkeep
 Worldspace/Factions/basis collection - robot religions/**/*.mp4
 Worldspace/Factions/basis collection - robot religions/**/*.m4a
 Reference/Materials/books/*
