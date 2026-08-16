@@ -66,8 +66,8 @@
 ### 10. Pisces / The Markets – Black Market / Underworld
 ##### Suggested genres:
 * Dark Electronic / Synthwave (neon hazy underworld)
-* Trap / Hip-Hop or Darkwave (fluid gray-zone deals and vice)
-* Industrial or Trip-Hop (shadowy, opportunistic atmosphere)
+* Trap / Darkwave (fluid gray-zone deals and vice)
+* Industrial (shadowy, opportunistic atmosphere)
 ##### Vibe fit: Dim hazy neon-reflected puddles and whispered deals in hidden alcoves. Music with a dangerous, dreamy edge.
 
 ### 11. Sagittarius (The Frostlands) – Frontier / Exploration

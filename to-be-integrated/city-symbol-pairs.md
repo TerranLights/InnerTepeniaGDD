@@ -44,7 +44,7 @@ coincidence.
 |---|---|---|---|
 | Palmer City | Earth | Fire | A fully, completely alive city of art, music, and culture — rivaling Las Vegas, New Orleans, and St. Petersburg — inside a harsh, unforgiving surrounding environment |
 | Esperanza | Mars | Wood | Revived from centuries of drifting through other various conditions, back to being oriented around families — its original purpose |
-| Rothera | *(TBD — see The Asteroid Belt, below)* | Earth | "Built to Last, By Never Being in One Place" — a decentralized industrial base spread deliberately across Adelaide Island, output reaching every other Palmer subnet city |
+| Rothera | Asteroid Belt | Earth | "Built to Last, By Never Being in One Place" — a decentralized industrial base spread deliberately across Adelaide Island, output reaching every other Palmer subnet city; the heavily decentralized nature is a direct, literal match for the Asteroid Belt symbol itself |
 | Marambio | Neptune | Electricity | A demanding dual hub (port + airport) handled with quiet, undramatized capability |
 | Port Lockroy | Neptune | Water | A courier settlement built on diligence directly — a relay point moving parcels and other transportable goods between the Peninsula and the mainland |
 | Sejong | Jupiter | Air | Diplomatic coordination as an art form — gathering many neighbors, giving each somewhere to belong |
@@ -92,15 +92,15 @@ coincidence.
 
 ---
 
-## A Tenth Symbol Candidate: The Asteroid Belt
+## A Tenth Solar Symbol: The Asteroid Belt
 
-**Flagged 2026-08-05, developer-directed, not yet finalized.** Reconsidering Rothera's own "Built to Last, By
-Never Being in One Place" decentralized-industrial identity raised a genuine gap in the 9-planet set: nothing
-in it captures *decentralization itself* — strength through distribution, no single point of failure, nothing
-to strike that would eliminate the whole at once. The Asteroid Belt is the candidate fix. Full write-up
-drafted in `planetary-appended-symbols.md` and `planetary-symbols.md`, in the same format as the other nine —
-**not yet assigned to Rothera or anywhere else**, kept open pending further development, per direct
-instruction. Rothera's own planet slot below is left marked TBD rather than pre-assigned.
+**Flagged 2026-08-05, developer-directed. Assigned to Rothera, confirmed 2026-08-10, with total certainty.**
+Reconsidering Rothera's own "Built to Last, By Never Being in One Place" decentralized-industrial identity
+raised a genuine gap in the 9-planet set: nothing in it captures *decentralization itself* — strength through
+distribution, no single point of failure, nothing to strike that would eliminate the whole at once. The
+Asteroid Belt fills that gap, and Rothera's heavily decentralized industrial base (spread deliberately across
+Adelaide Island) is a direct, literal match for it — no longer just a candidate fix, a confirmed pick. Full
+write-up in `planetary-appended-symbols.md` and `planetary-symbols.md`, in the same format as the other nine.
 
 ## Distribution Notes
 
@@ -112,8 +112,8 @@ war damage, but **drifting away from an original purpose or condition, then retu
 oriented), and Byrd (dormant for centuries, then found and developed by an exploration crew). All three stay
 comfortably pre-war. The earlier zero-Mars finding is superseded.
 
-**Planet usage (33 assigned cities, Rothera TBD):** Neptune 7, Earth 6, Jupiter 4, Uranus 3, Mars 3, Saturn 3,
-Pluto 3, Mercury 3, Venus 1. **Neptune reviewed 2026-08-05** — Sinheung moved to Uranus, since its Assertive/
+**Planet/Solar usage (34 assigned cities):** Neptune 7, Earth 6, Jupiter 4, Uranus 3, Mars 3, Saturn 3,
+Pluto 3, Mercury 3, Venus 1, Asteroid Belt 1 (Rothera, confirmed 2026-08-10). **Neptune reviewed 2026-08-05** — Sinheung moved to Uranus, since its Assertive/
 Reactive, outsized-national-pride profile sat awkwardly against Neptune's quiet, doesn't-announce-itself
 character, and directly undercut Sayowa's own established profile, which explicitly contrasts its quiet,
 uncredited service work against Sinheung's own need for recognition. The remaining seven Neptune cities
