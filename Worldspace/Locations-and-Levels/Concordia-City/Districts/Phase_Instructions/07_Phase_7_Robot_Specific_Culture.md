@@ -7,6 +7,10 @@ for the eventual **Local District Robot Culture** work (the direct parallel to t
 isn't there yet, exactly the same dependency that existed for outer cities before their own Local Robot Culture
 work began. Do not start this phase for a district until Phases 1-6 are done for that district.
 
+**Read `00b_General_Population_Discipline.md` first.** A narrow robot subtype's culture (one profession, one
+institution's staff) is not automatically the district's general robot-population culture — the same check
+that caught the Fashion mistakes applies here too, per-robot-population rather than per-human-population.
+
 ---
 
 ## 1. What this phase actually asks for, and the lens decision it requires

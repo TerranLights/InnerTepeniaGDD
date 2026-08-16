@@ -5,6 +5,12 @@
 every bit as load-bearing a Robot-Specific Culture prerequisite as the template-derived gaps — arguably more so.
 It is **not** one of the outer-city template's 32 categories; it has no city-level precedent to translate from.
 
+**This phase is the reliable cross-check for `00b_General_Population_Discipline.md`'s rule in every other
+phase** — its own Step A (state the headline function, then write away from it) already forces a genuine
+general-population answer by design. When Fashion, Sensory Profile, or another category is written *before*
+this one, double back and confirm it doesn't contradict what this Finding establishes about who actually lives
+here and what they actually do (exactly how the Cancer and Leo Fashion mistakes were caught).
+
 ---
 
 ## 1. What this phase actually asks for

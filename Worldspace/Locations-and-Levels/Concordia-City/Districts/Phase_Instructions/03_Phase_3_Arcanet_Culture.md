@@ -4,6 +4,11 @@
 genuinely *dedicated* section — Gemini and Sagittarius only had incidental mentions scattered across
 Full_Extrapolation/Mega_Init/README. This phase formalizes a real, dedicated Arcanet Culture Finding for all 13.
 
+**Read `00b_General_Population_Discipline.md` first.** If the strongest existing material is a specific
+institution's Arcanet use (like Cancer's Mother's Circuit — genuinely caregiving-robot-specific), state the
+district's own general information-culture baseline separately and explicitly — don't let the specific
+institution stand in for the general answer. Cancer's own Finding XIII does this correctly; use it as the model.
+
 ---
 
 ## 1. What this category actually asks for

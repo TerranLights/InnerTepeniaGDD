@@ -7,8 +7,9 @@ Phase 6 (Thematic Breadth) needs to know what a district looks/sounds/smells lik
 and Phase 7 (Robot-Specific Culture) needs to know what a district produces and where robots would physically
 be before describing their culture.
 
-**Status as of 2026-08-16:** Cancer is done (worked example, `Cancer_Full_Extrapolation.md` Findings VIII-X).
-No other district has run this phase yet.
+**Status as of 2026-08-16:** Cancer, Taurus, and Leo are done. **Read `00b_General_Population_Discipline.md`
+first** — Sensory Profile's "first impressions" sub-field is a real risk for the same narrow-context-as-default
+mistake caught in Fashion (Phase 2).
 
 ---
 

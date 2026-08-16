@@ -32,6 +32,24 @@
 
 ---
 
+## V. Architecture (District Culture Development Plan, Phase 1)
+
+**Proposed:** Scorpio's architecture is already substantially established — this Finding consolidates it into a dedicated treatment. **Baseline:** dark reds and blacks, corridors leading progressively inward to invite-only chambers (Mega-Init), a genuinely nested, layered building logic rather than Cancer's open, spread-out design or Taurus's courtyard-centered one. **Steam is structural, not decorative** — engineered thermal design that physically creates privacy pockets in public space, per `District_Canon_Reference.md`'s own "privacy is a physical property of the district, not a social courtesy." **Depth as an architectural language, already established via Finding III:** the fog thickening with depth means Scorpio's buildings are legible by how obscured they are — a visitor can read their own access level architecturally, without being told. **Purpose-built specialized spaces** (Mask Foundries, Silence Booths, private threshold rooms for near-death simulation) give the district a genuine range of distinct interior architectures serving specific therapeutic functions, not a single uniform building type repeated throughout.
+
+---
+
+## VI. Sensory Profile (District Culture Development Plan, Phase 1)
+
+**Proposed:** **Sound:** quiet — explicitly confirmed as neither crushing nor hostile, just quiet (Mega-Init), with Silence Booths existing for residents needing to intensify that quiet further into total sensory withdrawal. **Smell:** steam-heavy and mineral, closer to a bathhouse's wet-stone humidity than Cancer's green plant-humidity or Leo's performance-material sweetness — genuine engineered fog, not ambient haze (Mega-Init's own explicit contrast with Cancer). **Feel:** humid warmth of a categorically different character than Cancer's — private, enclosing, steam-thickened rather than open and airy; the mask culture (`District_Canon_Reference.md`) adds a tactile/visual layer no other district has, since a resident's own face is routinely covered in public. **First impressions for visitors:** guarded but not hostile — per the Mega-Init, nobody's unfriendly, but a visitor needs either a known contact or a legible reason to be there; the dominant emotional register is "acceptance, not tranquility," the specific fatalism of a culture that's made peace with death being the one guarantee.
+
+---
+
+## VII. Export Culture (District Culture Development Plan, Phase 1)
+
+**Proposed, largely already established as canon rather than invented:** Scorpio's civic function — psychological transformation — already exports directly, per `District_Canon_Reference.md`'s own text. **(1) Near-death simulation services, already stated as serving all of Concordia.** "Near-death simulation facilities have waiting lists years long, with genuine demand from across Concordia" — this is Export Culture as already-written canon, simply not yet labeled as such; Scorpio is, right now, the only district providing this specific service citywide. **(2) Trained rebirth facilitators and trauma therapists.** The Identity Collapse Epidemic (Hard Facts) forced Scorpio to develop techniques faster and harder than anywhere else in Concordia — "the techniques that worked became the foundation of modern rebirth practice," making Scorpio-trained practitioners a plausible export to any district needing serious psychological/trauma expertise, the way Cancer exports integration specialists for a gentler register of the same underlying need. **(3) Confession-recording and archival technique.** The Archive of Final Confessions' own established robot type — confession-recording archivists — represents a specific, exportable archival discipline distinct from Taurus's genealogical record-keeping: recording testimony under emotional duress, a genuinely different skill.
+
+---
+
 ## Worth Your Attention
 
 Section I is the standout proposal — it resolves the reputation-access question without inventing a formal system, instead deriving two distinct, earned paths (visible transformation progress for insiders, vouching plus code-respect for outsiders) directly from mechanisms the district's own existing culture already establishes.

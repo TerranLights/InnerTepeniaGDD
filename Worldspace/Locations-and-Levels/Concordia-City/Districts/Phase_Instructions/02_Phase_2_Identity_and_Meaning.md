@@ -5,6 +5,19 @@ only); Fashion was 0/13 as a dedicated category (only incidental diaspora-transp
 Both build directly on Phase 1's now-established texture (Architecture, Sensory Profile) plus whatever
 `District_Refugee_Diaspora_Composition.md` already implies for the target district.
 
+**Binding rule, added 2026-08-16 after a real, repeated mistake — [[feedback_district_fashion_general_not_professional]]:**
+Fashion describes the district's **general population**, not a specific profession's or narrow context's version
+of it presented as the default. Confirmed wrong twice: Scorpio's transformation-phase masks (worn only by
+residents currently mid-transformation) and Cancer's hospital-caregiver work vest (worn only by staff on shift)
+were both initially written as if they answered the whole district's fashion — caught because both directly
+contradicted that same district's own established general population (Scorpio has non-transformation residents;
+Cancer has elders, refugee families, and non-caregiving workers) or its own Ordinary Daily Life finding (Leo's
+performer-visibility dressing contradicted its own established majority-support-worker population). Before
+finalizing Fashion for any district: check whether the strongest existing material actually describes the
+general population or a specific subgroup — if the latter, do genuine new synthesis for the general answer
+(Real-World Basis Extrapolation Method at the concrete level is the right tool) and present the narrow case
+as an explicitly-scoped exception on top of it, never as the default.
+
 ---
 
 ## 1. What each category actually asks for

@@ -4,6 +4,10 @@
 because Tepenia has real outsiders (Upper Earth, or simply someone from a different city) arriving; districts
 need an intra-Concordia translation of the same concept before any per-district content can be written.
 
+**Read `00b_General_Population_Discipline.md` first** — "what a visitor notices first" and "what marks the
+transition" both risk defaulting to one narrow visitor archetype instead of the district's genuinely general
+visitor experience; check Step A's visitor-type decision against it.
+
 ---
 
 ## 1. What this category actually asks for, and its district translation
