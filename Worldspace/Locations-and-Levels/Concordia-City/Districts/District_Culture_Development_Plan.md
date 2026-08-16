@@ -266,17 +266,18 @@ entry = needs full development from scratch.
 - Robot-Specific Culture — **Done** (Finding XVII, Phase 7 — first-pass; full Robot Universals triage still pending, see the plan's own "Planned follow-on" section)
 - First district to complete the full 7-phase process — serves as the worked-example template for the other 12, the same role Cancer already played for the original Megasheet process.
 
-### 02 — Taurus
-- Sensory Profile **+** (has it)
-- Architecture — needed
-- Export Culture — needed
-- Religious/Philosophical Landscape — needed
-- Fashion — needed
-- Arcanet Culture (dedicated) — needed
-- Visitor Experience / Visitor-to-Resident Transition — needed
-- Ordinary Daily Life — needed (Phase 5)
-- Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+### 02 — Taurus — **ALL 7 PHASES COMPLETE (2026-08-16)**
+- Architecture — **Done** (Finding V)
+- Sensory Profile — **Done** (Finding VI — extended the pre-existing Soundscape Finding III)
+- Export Culture — **Done** (Finding VII)
+- Religious/Philosophical Landscape — **Done** (Finding VIII — "The Recorded Bond")
+- Fashion — **Done** (Finding IX)
+- Arcanet Culture (dedicated) — **Done** (Finding X)
+- Visitor Experience / Visitor-to-Resident Transition — **Done** (Finding XI)
+- Ordinary Daily Life — **Done** (Finding XII, Phase 5)
+- Thematic Breadth Catalog — **Done** (Finding XIII, Phase 6)
+- Robot-Specific Culture — **Done** (Finding XIV, Phase 7 — first-pass; full Robot Universals triage still pending)
+- Second district to complete the full 7-phase process.
 
 ### 03 — Leo
 - Architecture — needed
@@ -426,18 +427,18 @@ phase — not by district. Mark complete only once every one of the 13 districts
 for the "already has it" districts needing promotion rather than fresh writing) is written into its
 `*_Full_Extrapolation.md`.
 
-- [ ] Phase 1 — Architecture (1/13 done: Cancer; 8 new + 4 existing confirmed sufficient remain)
-- [ ] Phase 1 — Sensory Profile (1/13 done: Cancer; 10 new + 2 existing confirmed sufficient remain)
-- [ ] Phase 1 — Export Culture (1/13 done: Cancer; 11 new + 1 promoted from Libra's README/Mega_Init remain)
-- [ ] Phase 2 — Religious/Philosophical Landscape (1/13 done: Cancer; 11 new + 1 existing, Pisces, as reference remain)
-- [ ] Phase 2 — Fashion (1/13 done: Cancer; 12 new remain)
-- [x] Phase 3 — Arcanet Culture, dedicated section — **lens established** (Gemini treated as the network center Cancer's own finding is written relative to, per Phase 3 Step A, even though Gemini's own dedicated Finding hasn't been formally written yet) — 1/13 districts done: Cancer; 10 new + 2 promoted (Gemini, Sagittarius) remain
+- [ ] Phase 1 — Architecture (2/13 done: Cancer, Taurus; 7 new + 4 existing confirmed sufficient remain)
+- [ ] Phase 1 — Sensory Profile (2/13 done: Cancer, Taurus; 9 new + 2 existing confirmed sufficient remain)
+- [ ] Phase 1 — Export Culture (2/13 done: Cancer, Taurus; 10 new + 1 promoted from Libra's README/Mega_Init remain)
+- [ ] Phase 2 — Religious/Philosophical Landscape (2/13 done: Cancer, Taurus; 10 new + 1 existing, Pisces, as reference remain)
+- [ ] Phase 2 — Fashion (2/13 done: Cancer, Taurus; 11 new remain)
+- [x] Phase 3 — Arcanet Culture, dedicated section — **lens established** (Gemini treated as the network center each district's own finding is written relative to, per Phase 3 Step A, even though Gemini's own dedicated Finding hasn't been formally written yet) — 2/13 districts done: Cancer, Taurus; 9 new + 2 promoted (Gemini, Sagittarius) remain
 - [x] Phase 4 — concept definition pass (Visitor Experience / Visitor-to-Resident Transition, one-time) — **finalized**, see `Phase_Instructions/04...md` §1
-- [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (1/13 done: Cancer; 12 new remain)
-- [ ] Phase 5 — Ordinary Daily Life (1/13 done: Cancer; 12 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
-- [ ] Phase 6 — Thematic Breadth Catalog (1/13 done: Cancer; 12 new remain; places/things/people-as-placeholders/settings per district)
+- [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (2/13 done: Cancer, Taurus; 11 new remain)
+- [ ] Phase 5 — Ordinary Daily Life (2/13 done: Cancer, Taurus; 11 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
+- [ ] Phase 6 — Thematic Breadth Catalog (2/13 done: Cancer, Taurus; 11 new remain; places/things/people-as-placeholders/settings per district)
 - [x] Phase 7 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/07...md` §1
-- [ ] Phase 7 — Robot-Specific Culture (1/13 done: Cancer, first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 12 new remain)
+- [ ] Phase 7 — Robot-Specific Culture (2/13 done: Cancer, Taurus, both first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 11 new remain)
 
 Once all seven phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and
