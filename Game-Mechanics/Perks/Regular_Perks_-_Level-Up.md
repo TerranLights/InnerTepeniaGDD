@@ -126,6 +126,7 @@ Requirements use MACHINE stat abbreviations: **M** Might · **A** Agility · **C
 | **Sonic Attunement** *(added 2026-07-26, quest-gated — completion of the relevant questline is the gate itself, no stat/skill threshold needed on top)* | Quest-gated | 1 | Full Cymaticist sonic-practice standing, earned through the questline itself rather than through stat investment. |
 | **Golden Eye Calibration** *(added 2026-07-26, quest-gated)* | Quest-gated | 1 | *(Effect not yet designed — carried over from the Skills.md restructure as a placeholder quest-gated perk.)* |
 | **Holographic Projection** *(added 2026-07-26)* | C 7 ||OR|| N 8, E 8; Hacking 60 ||OR|| Sleight of Hand 100 | 1 | Use a data network to project a "decoy" version of oneself elsewhere — the decoy can't manipulate anything; its only function is distraction. Reachable through a hacker's build (Calculation + Hacking) or a con-artist's build (Nerve + Engine + Sleight of Hand) alike. |
+| **Golden Ring Devotee** *(added 2026-08-11, surfaced while designing TBN [TCY-42 ravishing extravagant Lillian]'s Romance Beat 2 check — see `Core-Mechanics/Companion_System.md`)* | H 7, Insight 70 OR Narrative 70 | 1 | Deep understanding of Leo's grand/intimate performance tradition (the "Golden Ring") — recognized by practitioners of either house as someone who genuinely gets it, not a tourist. Unique dialogue options with Leo performers across both houses; surfaces the district's own internal politics normally closed to outsiders. |
 
 ---
 

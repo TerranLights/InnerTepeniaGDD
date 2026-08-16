@@ -365,6 +365,72 @@ the existing trait pool doesn't contain something that actually captures what sh
 companion, pause and design a new trait to fill that gap. This makes trait-gate assignment a real, ongoing
 trait-design pipeline in its own right, not just a companion-design pass.
 
+### Romance Beat Checks — A Binding Design Law, Established 2026-08-11
+
+**Every beat in a companion's Courtship Sequence (Gate 3) carries its own mechanical check, built from
+multiple qualifying routes spread across up to six distinct categories** — never a single stat threshold
+alone. This generalizes the pattern first built for TBN [TCY-42 ravishing extravagant Lillian]'s Beat 2 (see
+her own Romance Design, below) into a standing rule for the whole roster going forward.
+
+**The six categories, with minimum/ideal route counts per beat:**
+
+1. **Skills** (minimum 3, ideally 5+) — drawn from the 26-skill list (`Character-Creation/Skills.md`), buffable
+   per the general Buffable-Stat-Check Law (current effective value counts, including temporary buffs from
+   food, chems, or equipment).
+2. **Non-disqualifying Traits** (minimum 1, ideally 2+) — a specific character-creation trait that, if the
+   player holds it, directly satisfies the beat on its own. **Always distinct from, and never overlapping
+   with, this companion's own Forbidden Trait(s)** — a trait route here unlocks a beat; a Forbidden Trait locks
+   Romance entirely at Gate 2, before any beat is even reachable. The two lists must never share a trait.
+3. **Perks** (minimum 1, ideally 2+) — drawn from the level-up perk pool (`Perks/Regular_Perks_-_Level-Up.md`),
+   acquired through play rather than character creation, same distinction from Traits that Gate 2 itself
+   already draws ("Perks are explicitly excluded from Gate 2... A player cannot perk their way into a romance
+   they weren't built for") — that exclusion is specific to Gate 2's own identity-defining threshold and does
+   not extend to individual beat checks, which are free to use Perks as a route.
+4. **Non-disqualifying MACHINE stats** (optional) — a raw stat threshold, same buffable convention as Gate 2's
+   own stat gate. Not every beat's content naturally maps onto a raw MACHINE stat; skip this category for a
+   given beat rather than forcing an artificial stat tie-in.
+5. **World knowledge** (minimum 1 route, ideally 2-3) — specific, conclusive information about this particular
+   doll, obtainable through any means: main questlines, companion questlines, district Under-Questlines, NPC
+   conversation, or general exploration. Not restricted to any single source.
+6. **District reputation status** (minimum 1 route, ideally 2) — not restricted to one type or one district.
+   Draws on the two favorable/ambiguous tier tracks from `Reputation_System.md`'s own grid: the five 🟢
+   favorable tiers (Accepted, Liked, Smiling Troublemaker, Good-Natured Rascal, Idolized) and the five ⚪
+   ambiguous tiers excluding Neutral (Mixed, Unpredictable, Dark Hero, Soft-Hearted Devil, Wild Child) — a
+   companion's reputation route can key off either track, or both, depending on what fits her.
+
+   **Escalating specificity within the reputation category itself, established 2026-08-11:** as a beat's own
+   position in the Courtship Sequence advances, which tiers actually qualify narrows on both tracks in lockstep
+   — the same "noticeably harder, not brutally" principle applied specifically to this category:
+   - **Opening beats:** any 🟢 tier qualifies (all five), and separately, any ⚪ tier qualifies (all five) — the
+     loosest form, just "has a real favorable-or-complicated standing here at all."
+   - **Middle beats:** narrows to the top three of each track — 🟢 Liked, Good-Natured Rascal, or Idolized;
+     ⚪ Dark Hero, Soft-Hearted Devil, or Wild Child. Accepted and Mixed/Unpredictable no longer qualify — the
+     floor tiers of each track are filtered out.
+   - **Late/culminating beats:** narrows to exactly one tier per track — 🟢 Idolized only; ⚪ Wild Child only,
+     the single most extreme state on each track (Wild Child extends the Wild-Child-as-companion-content
+     pattern, previously Companion-quest-only via the Personal Questline Design Rule above, into Romance
+     content for the first time).
+   - A given beat only needs to specify which track(s) it uses and which of the three narrowing stages applies
+     — it doesn't need to offer both tracks at every stage if only one genuinely fits that companion's own
+     established relationships.
+
+**A beat's total route count will comfortably clear the Minimum Five Solutions floor (`Skills.md`) on its own
+given the minimums above** — this law is a stricter, Romance-specific elaboration of that general rule, not a
+competing one.
+
+**Escalating difficulty:** each subsequent beat in a Courtship Sequence should read as noticeably, perceptibly
+harder to clear than the one before it — never brutally so, never flat across the whole sequence. This applies
+both to numeric thresholds (a later beat's stat/skill number should sit visibly higher than an earlier beat's)
+and to the non-numeric categories' rarity/specificity (a later beat's qualifying knowledge or reputation state
+should be harder-won than an earlier beat's). The final, culminating beat should be the hardest in the
+sequence to clear, matching its own structural weight as the turning point.
+
+**Not retroactive by default.** This law governs beat construction for every Romance design built or revised
+from 2026-08-11 onward. The already-published Courtship Sequences elsewhere in this roster (Vosora, Michelle,
+Favi, and the rest) predate this law and currently carry purely narrative, uncheck-gated beats — they are not
+automatically retrofitted; whether and when to bring them into compliance is a separate decision, not implied
+by this entry.
+
 ### The Signal
 
 When a player has completed the questline prerequisite but does not meet the **stat** threshold (a forbidden
@@ -463,6 +529,7 @@ The following characters are confirmed romanceable. Thresholds are documented he
 | Ayako Hayashi | Recruitable companion | Investigation ≥ 7, Humanity ≥ 7, Calculation ≥ 6 | See character file | 4w5 Self-Pres; Red Spiral medic; highest Investigation gate in the roster; see full design note below |
 | Lyuba Baranova | Recruitable companion | Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6 | TBD | 8w7 Sexual; silver-tongue / unarmed fighter; Aries; highest Nerve gate in the roster; see full design note below |
 | TCY-25 "Rui" | Recruitable companion | TBD | TBD | 9w1 Self-Pres; Scorpio transformation practitioner; confirmed recruitable 2026-07-10; thresholds pending Phase 3 personality design |
+| TBN [TCY-42 ravishing extravagant Lillian] | Recruitability undecided; **confirmed romanceable 2026-08-11** | See character file | See character file | 7w8 Social-Countertype; Leo, intimate-tradition house; first companion with a Courtship Sequence beat built under the Romance Beat Checks law (below); full design in her own `Questlines/README.md` |
 | **Majyao Bisyugota** | **Non-recruitable NPC** | Humanity ≥ 7, Investigation ≥ 6, Calculation ≥ 6 | See character file | 4w5 Self-Pres; teahouse keeper; romance through repeated visits and questline depth; Blood River Tea thread — see design note below |
 | **Trisha Miller** | **Non-recruitable NPC** | Nerve ≥ 7, Humanity ≥ 7, Might ≥ 7 | See character file | 8w7 Social; radio host; romance through recurring off-air encounters; see full design note below |
 
@@ -996,6 +1063,8 @@ Lyuba's romance is the arc of the player becoming the one person she cannot read
 - **The literature wall:** The player can ask about her collection. She will talk about a specific work — one she returns to, what it gets right about something, why it stays. The player who responds with an actual position — agreement, pushback, a real question that shows they have been tracking what she said — gets somewhere. The player who admires the collection and moves on gets warmth but not access. This is not a test. It is simply how she opens: through the things she thinks about. *(Requires home access — reserved for post-romance content.)*
 
 - **The paper books:** She shows the player one of the paper books — not the collection, one specific one — and says briefly what makes it the one she chose. The books are private in a way the datashards are not. She is allowing the player access to something she does not show routinely. The right response is not the perfect reaction. It is a real one. She is watching for presence, not performance. *(Requires home access — reserved for post-romance content.)*
+
+---
 
 ---
 
