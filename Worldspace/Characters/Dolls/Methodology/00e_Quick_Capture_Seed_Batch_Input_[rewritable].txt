@@ -1,0 +1,17 @@
+UNPROCESSED SEEDS — INBOX
+Paste filled-in copies of 00c_Quick_Capture_Seed_Template.txt below, one per character,
+separated by "---". Newest entries go at the bottom. Once a seed has been run through the
+Derivation Protocol (00a) and turned into an actual Doll folder / Stage 1 sheet, delete it
+from this file — this is a staging area, not permanent storage.
+
+---
+
+(Imelda Sánchez and Jasmine Blakeley, both processed 2026-08-15, have been cleared from this file. Imelda's
+folder is at Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Imelda Sánchez/ [DLC 3/Palmer
+companion]. Jasmine has no folder in this repo — per developer decision 2026-08-15, she isn't significant
+enough within Tepenia's setting to be "known to" its citizens, so her file lives only in the
+TepenianUniverseTimeline repo, at Worldspace/Characters/Dolls/Jasmine Blakeley/.)
+
+---
+
+
