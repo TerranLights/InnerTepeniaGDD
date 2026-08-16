@@ -159,6 +159,15 @@ Her connection to Mirny's own Russian founding-operator heritage is real but not
 ---
 
 ## Design Notes & Open Questions
+- **Anti-hero classification, flagged 2026-08-11 for questline design:** when personal questline work begins for
+  her, classify Lyuba as an anti-hero in addition to her standing recruitable/romanceable companion status —
+  not a replacement for either, an additional lens layered on top. Draw on the now-fully-mined
+  `Character_Development_Methodology_-_Villains_and_Antiheroes_-_DRAFT_Ideas.md` supplement (Morrell, Cowden,
+  Simmons, Cartlidge) when charting her arc. Her existing profile already reads as a strong fit for that
+  material even before any of it is formally applied — the Sexual 8's testing/confrontation-as-love pattern
+  below, "protecting something when you built your identity around never needing protection yourself," and her
+  own name meaning "love" while she expresses it through confrontation rather than tenderness are all exactly
+  the kind of moral-complexity/irredeemability-adjacent territory that supplement exists for.
 - **District:** Aries — confirmed. Mid-level spire. Quiet apartment in a loud district. The literary collection is a known anomaly to her neighbors; nobody says anything about it.
 - **Romance:** Confirmed. Stat thresholds: Nerve ≥ 8, Humanity ≥ 7, Engine ≥ 6. The Sexual 8 romance arc should involve the player passing tests they may not know they're taking — she is assessing whether you can hold your ground, whether you are genuinely present, whether you'll be there when it's inconvenient. The payoff is a form of trust that is genuinely rare from someone who built a life around not needing to give it. Beat design TBD in Companion_System.md.
 - **Name note:** Lyuba/Lyubov means "love" in Russian. An 8 whose name means love, who shows love through protection and confrontation rather than tenderness, is a thematic tension that should run explicitly through her questline — not as irony but as the truth about her that only surfaces close in.
