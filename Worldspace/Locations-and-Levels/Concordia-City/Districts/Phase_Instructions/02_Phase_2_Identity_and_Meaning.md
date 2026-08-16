@@ -1,0 +1,152 @@
+# Phase 2 — Identity and Meaning (Religious/Philosophical Landscape, Fashion)
+
+**Purpose:** close two of the confirmed-absent categories. Religious/Philosophical Landscape was 1/13 (Pisces
+only); Fashion was 0/13 as a dedicated category (only incidental diaspora-transplant clothing mentions existed).
+Both build directly on Phase 1's now-established texture (Architecture, Sensory Profile) plus whatever
+`District_Refugee_Diaspora_Composition.md` already implies for the target district.
+
+---
+
+## 1. What each category actually asks for
+
+- **Religious/Philosophical Landscape (template §18):** *"what belief systems, robot religions, or secular
+  philosophies are dominant or marginal here; what the [location] thinks about meaning and endurance."* Bulleted
+  format in the template — list distinct belief systems rather than one prose blob.
+- **Fashion (template §11):** *"clothing styles; palette; aesthetic sensibilities; what clothing maintenance and
+  repair culture looks like; any reliable markers of origin."* District translation: "markers of origin" for a
+  district means what marks someone as *from this district specifically* within Concordia (as opposed to a
+  city's version, which marks national/cultural origin) — plausibly diaspora-inflected (what a feeder
+  population's own clothing traditions contributed) layered under whatever the district's own civic function
+  produces as practical dress.
+
+---
+
+## 2. Prerequisites
+
+Phase 1 should be done first for the target district where possible — Sensory Profile and Architecture both
+feed directly into Fashion (a district's built environment and physical conditions shape what people actually
+wear) and into Religious/Philosophical Landscape (a district's physical/sensory identity is often where a belief
+system's practice becomes visible — see Pisces' own light-palette-as-religious-meaning finding below). Not a
+hard blocker if Phase 1 hasn't run yet for a given district, but expect a weaker result.
+
+---
+
+## 3. Sources to read, per district
+
+1. **Robot religions:** `Worldspace/Factions/Robot_Religions/` — six folders exist (`Cymatics_reverence`,
+   `God-mind_universe_simulation`, `Ice-Cold_Buddhism`, `Polydimensional_Animism`, `Sylvester_James_Gates_Adinkras`,
+   `The_Eyes_of_Gold`), at varying levels of development. Check which, if any, already has a presence implied
+   for the target district before assuming a district needs an entirely new belief system invented for it —
+   most districts should draw on this existing roster rather than each getting a bespoke religion.
+2. **`District_Refugee_Diaspora_Composition.md`**, that district's own section — feeder cities' established
+   religious/philosophical practices (where documented in that city's own Local_Cultures file) are the most
+   direct, already-grounded source for what a district's population would actually believe, weighted by
+   population share.
+3. **Pisces' own Religious/Philosophical content — read this first as the reference model, not just a checklist
+   item.** It is *not* written as an isolated section; it's woven directly into narrative Findings.
+   `Pisces_Full_Extrapolation.md` Finding III ("The purple/blue/red light bath is atmospheric first, but has
+   acquired religious meaning it never had at the start") is the model: a belief system (the Syncretic Religion,
+   "the Believers") emerging from and expressed through the district's own already-established sensory/physical
+   identity, not bolted on as an abstract list. Follow this shape, not a dry doctrinal summary.
+4. **Fashion:** `Game-Mechanics/Combat/District_Armor_Augmentations_and_Protection.md` — already-existing,
+   distinct system of rare named armor *sets* per district (loot-tier wearables). Check this before writing
+   Fashion content, not to duplicate it but to make sure everyday Fashion reads as the common baseline underneath
+   that system, the same relationship the outer-city gear catalog (`to-be-integrated/gear/gear_collection_DRAFT_-_armor.md`)
+   already establishes between everyday clothing and rare armor.
+5. **`District_Canon_Reference.md`**'s Community Infrastructure section — clothing-adjacent institutions (a
+   craft workshop, a maintenance/repair trade) may already exist there under a different heading.
+6. **`District-Inspirational-Influences.md`** — apply `Real-World_Basis_Extrapolation_Method.md` for both
+   categories: a real-world pick's actual documented belief systems/philosophical traditions and clothing
+   traditions are concrete, researchable material, not just atmosphere.
+7. **The color-coded district map** — relevant mainly to Fashion: whether the target district is a small,
+   sheltered, Hub-adjacent wedge or one of the two exposed outer-ring giants (Sagittarius, Capricorn) plausibly
+   affects how function-first vs. how insulated/hardy everyday dress needs to be, independent of the
+   Concordia-wide climate being otherwise uniform (see `District_Culture_Development_Plan.md`'s Governing
+   Methodology §4).
+
+---
+
+## 4. Process
+
+**Step A — Religious/Philosophical Landscape: draw from the existing 6-religion roster before inventing a new
+one.** Check `Worldspace/Factions/Robot_Religions/` for a plausible fit first. Only propose a genuinely new
+belief system (like Pisces' Syncretic Religion) when the district's own established character doesn't map onto
+anything already in the roster — and when proposing one, follow Pisces' model: ground it in something the
+district already, verifiably has (a physical/sensory trait, a founding wound, a civic function), not an
+abstract theological invention.
+
+**Step B — Weight religious content by diaspora composition, then check what the district's own civic function
+adds.** A district's population isn't just its feeder cities' religions imported unchanged — ask what the
+district's own defining function (grief, industry, information, etc.) does to an imported belief system once
+it's practiced there for 250 years (Stage 1) and then tested by the war (Stage 2). Pisces' own finding is the
+model: a belief system that didn't start meaningful, but 50 years of practice made it so.
+
+**Step C — Fashion: start from function, not aesthetics.** Per the Weapon/Gear Catalog's own governing
+philosophy (`Worldspace/Weapons_and_Tools_Philosophy.md`) applied to clothing instead of weapons: a district's
+everyday dress is what its actual working conditions, civic function, and physical environment (Architecture,
+Sensory Profile from Phase 1) produce, not a designed "look." Ask: what would someone doing this district's
+actual daily work need to wear, and what would 250 years of that need becoming custom actually look like?
+
+**Step D — Layer diaspora-transplant clothing on top of the functional baseline, not instead of it.**
+`District_Refugee_Diaspora_Composition.md` already documents fragments of what specific feeder populations
+brought with them culturally — check whether any of that touches clothing/textile craft specifically, and treat
+it as a real but partial layer over the district's own function-driven baseline, not the whole picture.
+
+**Step E — Check `District_Armor_Augmentations_and_Protection.md` for contradiction before finalizing.** If that
+file already establishes a named armor set with specific materials/aesthetics for the target district, Fashion's
+everyday-clothing content should read as compatible with (ideally, an implied precursor to) that set, not
+contradict it.
+
+---
+
+## 5. Per-district status
+
+| District | Religious/Philosophical Landscape | Fashion |
+|---|---|---|
+| 01 Cancer | needed | needed |
+| 02 Taurus | needed | needed |
+| 03 Leo | needed | needed |
+| 04 Scorpio | needed | needed |
+| 05 Aries | needed | needed |
+| 06 Capricorn | needed | needed |
+| 07 Aquarius | needed | needed |
+| 08 Libra | needed | needed |
+| 09 Gemini | needed | needed |
+| 10 Pisces | **has it** (Finding III et al.) — use as reference model for the other 12 | needed |
+| 11 Sagittarius | needed | needed |
+| 12 Virgo | needed | needed |
+| 13 Hub | needed | needed |
+
+---
+
+## 6. Output format and placement
+
+Same convention as Phase 1: new Roman-numeral Findings appended to `{Name}_Full_Extrapolation.md`, tagged
+`(District Culture Development Plan, Phase 2)`, opening with **Proposed:**, updating the file's own Worth Your
+Attention section afterward. Religious/Philosophical content should read as a narrative Finding in Pisces' own
+style (a belief emerging from something already established), not a dry bulleted doctrine list, even though the
+city template itself uses bullets — the template's format is a content checklist, not a mandatory prose style,
+and Pisces' own precedent is the stronger existing model.
+
+---
+
+## 7. Rules and pitfalls specific to this phase
+
+- **Don't give every district its own bespoke religion.** Most should draw on the existing 6-religion roster;
+  a new Pisces-style emergent belief system should be the exception, reserved for districts whose established
+  character genuinely doesn't fit anything already there.
+- **Don't write Fashion as pure aesthetics.** Function first (Step C), diaspora layering second (Step D).
+- **Check for contradiction with `District_Armor_Augmentations_and_Protection.md`** before finalizing Fashion —
+  this is the one Phase 2 pitfall most likely to produce an actual continuity error rather than just thin
+  content.
+- **Capricorn caution carries over from Phase 1** — its undecided core injustice mechanism may affect what its
+  population actually believes about meaning/endurance; consider keeping Capricorn's Religious/Philosophical
+  finding provisional until that decision lands.
+
+---
+
+## 8. Worked example
+
+None yet as of 2026-08-16 — Phase 1 (Cancer) is the only phase/district combination executed so far. Pisces'
+pre-existing Finding III serves as the closest available model for this phase's Religious/Philosophical work,
+even though it predates this plan.
