@@ -2,9 +2,9 @@
 
 ## TBN (designation: TCY-06) / "Elva"
 
-**Role / Archetype:** Leo performer; Star War political faction representative (established house)
+**Role / Archetype:** Leo performer; representative of the "grand" tradition in Leo's grand/intimate performance-house divide (currently labeled "The Star War," a name flagged for replacement — see `District_Canon_Reference.md`)
 **Primary Location(s):** Leo (Entertainment district)
-**Affiliation(s):** Leo Star War — established (winning) performance house
+**Affiliation(s):** Leo's grand-tradition performance house — dominant through 250 years of inherited structural advantage, not victory (see below)
 **Companion Potential:** No — NPC
 
 ## Core Identity

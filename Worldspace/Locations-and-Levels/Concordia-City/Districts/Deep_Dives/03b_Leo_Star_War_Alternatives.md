@@ -92,3 +92,15 @@ Put together: **an accident of geography (Step 1) created a divide that a well-i
 - **A concrete, dateable "and now what" beat, same shape as Capricorn's c. 2761 discovery:** an independent review — plausibly surfaced by one of Gemini's data archaeologists, per that district's own established role connecting buried cross-district patterns — could reveal that the Allocation Formula was never actually re-justified once scarcity ended, proving the intimate tradition's disadvantage was inherited, not earned. This is the concrete present-day hook Option 1 was flagged as lacking on its own.
 - **Names left open:** the deceased master and the surviving apprentice-successor are both left unnamed for now, as placeholders ("the old master," "the new master") pending future naming, consistent with how other not-yet-named figures in this project have been handled.
 - **Non-malice audit status:** with this confirmed, Leo's item is complete and ready to move from "candidate alternatives ready for review" to "resolved" in `Cross_District_Non_Malice_Audit.md`, pending the same combined promotion pass as the other confirmed items.
+
+---
+
+## Naming Candidates (flagged 2026-08-11, deferred — not yet chosen)
+
+**Why this exists:** the combined version above was briefly re-flagged on 2026-08-07 as "developer reconsidering whether this belongs in Leo's history at all." Resolved 2026-08-11 — the combined version stays, but that reconsideration surfaced a real, separate problem: **"The Star War" names a war, and the confirmed version has no war in it** — no fight, no victory, no defeat, just an accident of geography, an uncalibrated formula, and an unrelated wartime death 250 years later. The name is now flagged for replacement. Deliberately deferred rather than decided now — recorded here so the candidates aren't lost the way the original three options briefly were.
+
+- **The Long Drift** — foregrounds the 250-year, nobody's-fault structural compounding (Steps 1+2) as the real spine of the story, with the 2812 death as the event that finally gave it a face.
+- **The Uneven Inheritance** — foregrounds the inheritance/succession angle: both the formula's slow compounding and the 2812 apprentice's non-hereditary succession.
+- **The Twin Domes** — foregrounds the concrete, walkable Twin Founding origin (two dome clusters) as the name's identity, with the formula and the 2812 death as what happened to that original split.
+
+**Until one is chosen (or a different name is proposed instead), "The Star War" remains the working label** — used project-wide as an in-world colloquial/dramatic name residents and historians apply to the divide, not a literal description of what happened. Existing files referencing "The Star War (mid-2740s)" as an actual fifteen-year civil war are now stale against the confirmed combined version above and need the same correction whenever they're next touched — not swept proactively, since the name itself isn't settled yet either.
