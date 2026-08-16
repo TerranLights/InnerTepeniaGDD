@@ -11,13 +11,20 @@
 **Romance Potential:** Yes — per the binding "all recruitable companions are romanceable" rule (`Companion_System.md`); thresholds TBD
 
 ## Core Identity
-**Activation Date & Origin:**
+**Activation Date & Origin:** **Confirmed 2026-08-15 (developer, "absolute certainty"):** Tepenia-native —
+synthesized and built in Davis (Mirny subnet), not an Upper Earth exile. Davis's Primary founding-wave nation is
+China, consistent with her "Chinese" placeholder descriptor. Precise activation date TBD.
 
 **Enneagram / Personality Framework:**
-- Type: XwY (Z Subvariant)
-- Major Theme: Thinking / Feeling / Instinctive
-- Hornevian Group: Withdrawn / Compliant / Assertive
-- Harmonic Group: Positive Outlook / Competency / Reactive
+- **Type: 7w8 (Self-Preservation Subvariant) — confirmed 2026-08-15.** Main Type only; no personality detail
+  built out around it yet.
+- **Undercurrent: not yet determined.** Per this project's own Undercurrent rules
+  (`Worldspace/Enneagram/Undercurrents.md`), this is a genuinely open, optional field — not every doll has one,
+  and "none identified yet" is a normal, complete state, not a gap to flag. Developer has explicitly not ruled
+  one in or out for her.
+- Major Theme: Thinking *(deterministic from Type 7 alone, per the standard lookup table)*
+- Hornevian Group: Assertive *(deterministic from Type 7 alone)*
+- Harmonic Group: Positive Outlook *(deterministic from Type 7 alone)*
 
 **MACHINE Stat Profile (rough baseline):**
 - Might:

@@ -45,10 +45,6 @@ Being requested by name matters. She was not reassigned; she was sought out. Her
 
 What happened to Hana Jinn after her work at ARUTaG — and whether she survived to see the Falkland Treaty or the wars — is not yet established.
 
-**Connection to Mallory Dufay**
-
-Hana's research was theoretical only — metamaterials for mass drivers, on paper. The tangible follow-through — the actual first launches and construction of orbital infrastructure — was overseen by Mallory Dufay, a structural and safety inspector from The CSA (Texas), active closer to the mid-2300s. Whether Hana and Mallory ever had direct contact is unknown; they were not colocated. See `Worldspace/Characters/Dolls/Past_History_-_Known_to_Tepenians/Mallory Dufay/`.
-
 ---
 
 ## Presence in Tepenian/Concordia Lore
@@ -100,7 +96,6 @@ TBD
 - **URUK connection:** She worked at the facility where robot sentience began. What did that mean to her? What did she know, or witness, or carry from that place?
 - **The whalesong:** A researcher at an underwater facility who loved listening to whales. Small and specific and real. Worth anchoring something to.
 - **Requested by name:** She was singled out. Why her specifically? What made her irreplaceable?
-- **The other half of the thread:** Hana dreamed it up on paper; Mallory Dufay built it and kept people alive doing so. A theorist/hands-on-engineer pairing spanning two different post-war nations.
 
 ---
 
