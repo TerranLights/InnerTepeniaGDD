@@ -47,9 +47,9 @@ Inner-Tepenia-specific lore.
 **Status: flagged as its own project, nothing designed yet.** The chemistry-derived version already in
 `platonic-solids-symbols.md` stays as the current working content until/unless this new system replaces it.
 Other "sets-of-five" candidates already considered and set aside, for reference: duality-pair cognitive
-faculties, a tiered robot-classification system, the Five Aggregates (Skandhas), five states of matter — see
-`platonic-solids-symbols.md`'s own "Alternate Directions Considered" section and this conversation's own
-history for the fuller list.
+faculties, a tiered robot-classification system, the Five Aggregates (Skandhas), five states of matter, the
+Five Senses, and Sun Tzu's Five Strategic Assessments (added 2026-08-16) — see `platonic-solids-symbols.md`'s
+own "Alternate Directions Considered" section and this conversation's own history for the fuller list.
 
 ---
 

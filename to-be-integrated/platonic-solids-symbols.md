@@ -103,3 +103,15 @@ mark five ranks or generations — of Doll firmware, of an in-fiction "Order of 
 complexity tiers. Set aside for now for the same reason: it's a genuinely promising direction, but it needs an
 actual in-world institution or hierarchy to attach to before it stops being speculation, and none of the
 project's established material currently supplies one.
+
+**The Five Senses (Sight, Sound, Smell, Taste, Touch) — added 2026-08-16, not yet mapped.** A genuinely
+universal five-part set, shared by human and (in some adapted form) robot experience alike — no assignment of
+which sense goes to which solid has been made yet; recorded here as a candidate framework, not a designed
+system.
+
+**Sun Tzu's Five Strategic Assessments (五事) — added 2026-08-16, not yet mapped.** From *The Art of War*'s
+opening chapter — the Way (moral alignment/purpose), the Weather (timing/conditions beyond one's control), the
+Terrain (the ground actually being fought over), the Leadership (command/generalship), and the Discipline
+(organization/method). A framework about *assessment* rather than fixed trait, genuinely different in kind
+from every other candidate on this list — no assignment to a specific solid has been made yet; recorded here
+as a candidate framework, not a designed system.
