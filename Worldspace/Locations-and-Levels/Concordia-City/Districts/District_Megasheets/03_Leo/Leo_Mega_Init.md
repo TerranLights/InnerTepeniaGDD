@@ -16,7 +16,7 @@
 |---|---|
 | **Zodiac / Role** | Leo — Entertainment / Performance / Pride |
 | **Founding era** | Early Federation Boom (2570s–2590s) — intentionally developed as the entertainment/morale district to combat the psychological toll of Antarctic exile |
-| **Defining internal wound** | The Star War (mid-2740s) — a roughly fifteen-year feud between rival performance houses, nominally aesthetic (grand spectacle vs. intimate form), functionally political; the winning house still holds power today |
+| **Defining internal wound** | The grand/intimate performance divide (name not yet chosen — corrected 2026-08-16 away from the old "Star War" framing; see `Deep_Dives/03b_Leo_Star_War_Alternatives.md`'s CONFIRMED Combined Version, 2026-07-29) — a founding-era construction accident (two separate dome clusters, one naturally suited to grand spectacle, one to intimate form) compounded over 250 years by a never-recalibrated resource formula, with the grand tradition's current leadership dating only to 2812, when its old master was killed in the Long Night War's destruction of Zukelli and a non-hereditary apprentice inherited the seat |
 | **Defining post-war wound** | The Dimming (2789–2790) — Aries cut Leo's power for six months during an energy crisis; the memory is sacred and explains the district's disproportionate ferocity about power priority |
 | **Status** | Living, functioning district, present-day (≈2822–2827) |
 
