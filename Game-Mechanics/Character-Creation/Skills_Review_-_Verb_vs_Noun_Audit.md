@@ -16,7 +16,7 @@ the current state of `Skills.md`, reproduced for review.
 So this file is self-contained without needing to dig back through chat history:
 
 - **Cryptography & Decryption** → rename to **Cryptography** alone (Decryption folds in; distinct discipline
-  from Arcanet Navigation & Hacking, confirmed keeping it a skill).
+  from Hacking, confirmed keeping it a skill).
 - **Data Archaeology** → cut as a skill, becomes the perk **Data Archaeologist** (identity-noun perk naming
   convention, gated at 8 Calculation / 75 Cryptography — effect still undesigned).
 - **Data Leakage & Information Warfare** → split. "Data Leakage" cut entirely (reads as a tactic, not an

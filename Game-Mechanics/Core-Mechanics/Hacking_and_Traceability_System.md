@@ -43,7 +43,7 @@ The world contains a variety of hackable entities, each with their own security 
 
 ## Access Requirements — The OR Gate
 
-Hack targets are **half-gated**: the player needs to meet **either** a Calculation stat threshold **or** an Arcanet Navigation & Hacking skill threshold (or both). Meeting one is enough to attempt. Meeting neither means the interface doesn't respond — the system is simply beyond the player character's current capability to read.
+Hack targets are **half-gated**: the player needs to meet **either** a Calculation stat threshold **or** a Hacking skill threshold (or both). Meeting one is enough to attempt. Meeting neither means the interface doesn't respond — the system is simply beyond the player character's current capability to read.
 
 **Example threshold pairs:**
 
@@ -91,7 +91,7 @@ The path from "always caught" to "truly invisible" requires deliberate investmen
 | Stage | Means | Effect |
 |-------|-------|--------|
 | **Default** | No investment | All hacks traceable; consequence probability based on skill vs. system level |
-| **High Hacking skill** | Arcanet Navigation & Hacking 60–75 | Reduced trace signature; passive hacks on Level 1–2 systems may not register |
+| **High Hacking skill** | Hacking 60–75 | Reduced trace signature; passive hacks on Level 1–2 systems may not register |
 | **Data Ghost perk** | C 7, Hacking 55 | Trace risk significantly reduced; passive hacks on Level 1–2 systems have high chance of no trace; active hacks still leave a signature |
 | **Ghost in the Machine perk** | Level 24+, C 7, Hacking 90 | **Completely untraceable** on all Level 0–3 systems (C ≤5 / Hacking ≤50 requirement); see perk details below |
 | **High-level targets** | Level 4–6 systems | Even Ghost in the Machine does not cover these; they remain traceable without additional future perks or questline access |
@@ -102,7 +102,7 @@ The path from "always caught" to "truly invisible" requires deliberate investmen
 
 *Full entry in `Regular_Perks_-_Level-Up.md`.*
 
-- **Prerequisites**: Level 24+, Calculation 7+, Arcanet Navigation & Hacking 90+
+- **Prerequisites**: Level 24+, Calculation 7+, Hacking 90+
 - **Effect**: Any hack on a system with a Calculation requirement of 5 or below **OR** a Hacking skill requirement of 50 or below is completely untraceable — no log entry, no signature, no consequence.
 - **Scope**: Covers all Level 0–3 systems. Level 4–6 systems (C 7+ / Hacking 75+ requirement) remain traceable.
 - **Design intent**: Makes a dedicated master hacker effectively invisible to most of the city's civilian and low-faction infrastructure. High-security targets — military systems, faction command networks, critical grid infrastructure — remain risky even at peak capability.

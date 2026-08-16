@@ -79,7 +79,7 @@ Currently underrepresented vs its Fallout Strength equivalent. See pending work:
 | Decentralized Systems Design | Primary (systems architecture) |
 | Power Grid Management | Primary (grid optimization math) |
 | Data Archaeology | Secondary (interpreting recovered data) |
-| Arcanet Navigation & Hacking | Primary (writing exploits, routing) |
+| Hacking | Primary (writing exploits, routing) |
 | Information Verification & Analysis | Secondary (cross-referencing logic) |
 | Cryptography & Decryption | Primary (computational code-breaking) |
 | Pre-War Lore & History | Secondary (logical inference from evidence) |
@@ -148,7 +148,7 @@ Currently underrepresented vs its Fallout Strength equivalent. See pending work:
 | Decentralized Systems Design | Secondary (spotting systemic patterns) |
 | Undergrid Navigation & Salvaging | Secondary (reading underground environments) |
 | Data Archaeology | Primary (recognizing patterns in old data) |
-| Arcanet Navigation & Hacking | Secondary (reading network topology) |
+| Hacking | Secondary (reading network topology) |
 | Information Verification & Analysis | Primary (distinguishing true from false) |
 | Rumor & Network Intelligence | Primary (identifying reliable information) |
 | Cryptography & Decryption | Secondary (recognizing cipher patterns) |

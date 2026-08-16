@@ -58,7 +58,7 @@ A master diplomat and negotiator with impeccable poise. Calm, balanced, and skil
 **yet-TBN-NPC_D-09_Master-Hacker**  
 An enigmatic information broker who exists half in the physical world and half in the data streams. Witty, elusive, and always three steps ahead.  
 **Role**: Information / Hacking / Social Engineering  
-**Key Traits**: High Calculation & Investigation, Arcanet Navigation & Hacking.
+**Key Traits**: High Calculation & Investigation, Hacking.
 
 ### 10. Pisces / The Markets
 **yet-TBN-NPC_D-10_Charmer**  

@@ -247,7 +247,7 @@ Libra constructed the Neutral Ground as controlled neutrality — the appearance
 - Idolized reputation with Janbogo Subnet Nexus
 - Complete all Gemini quests, including "Whispers in the Wires," "Truth Archive," and the sprawling "Infinite Network" questline
 - Reach maximum reputation with **TBN-NPC_D-09_Master-Hacker** (enigmatic information broker)
-- Arcanet Navigation & Hacking 80+ and Deception & Narrative Crafting 75+
+- Hacking 80+ and Deception & Narrative Crafting 75+
 
 **World Trigger**
 After "Infinite Network" concludes, a specific Arcanet node in Janbogo's deepest infrastructure — one the player visited during the questline — begins displaying a persistent signal pattern they will recognize from earlier in the questline. It is not a message. It is a confirmation: the final piece of the player's untraceable identity infrastructure has been installed. That pattern, on that specific node, is the trigger.
