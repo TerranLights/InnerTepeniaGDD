@@ -182,6 +182,12 @@ Not a damage type in the BG3 sense — Siphon effects don't deal damage, they re
 
 Ties Inner Tepenia's weapon category taxonomy — 7 conventional, 3 energy-adjacent, 3 Tepenia-original with no Fallout equivalent — to the damage types above. Every weapon the player finds ultimately deals damage through one or more of the types already defined; this is the index between "what you're holding" and "what it actually does."
 
+**See also, added 2026-08-16:** `Worldspace/Weapon_Item_Catalog.md` — the item-level layer under each category
+below (named tool/weapon archetypes, not just the category), including a base-game-vs-DLC availability split:
+Small Guns and Long Guns are entirely DLC-specific (border-city-only, per proximity to Upper Earth); Heavy
+Weapons splits within the category — Thermal Lance is base-game/Concordia, everything else in that category is
+DLC-specific.
+
 ### Conventional
 
 | Category | Primary Type(s) | Notes |

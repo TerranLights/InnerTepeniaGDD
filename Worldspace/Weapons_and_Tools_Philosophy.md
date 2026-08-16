@@ -1,5 +1,9 @@
 # Weapons & Tools Philosophy
 
+**See also, added 2026-08-16:** `Weapon_Item_Catalog.md`, in this same folder — the item-level layer this file
+doesn't cover (named tool/weapon archetypes within each category below, translating every Fallout: New Vegas
+weapon type into Tepenia's own vocabulary, plus new Tepenia-original items FNV's setting never needed).
+
 **Cross-media reference.** This document is philosophy, not mechanics — no damage types, no stats, no AP costs. It exists so the TV series (set during the Second Interwar Period, 2564-2812, well before Inner Tepenia's own post-Long-Night-War present) can depict these categories in their original, unweaponized civilian identity, while Inner Tepenia itself explores what happens to the same objects once a war forces them into a different role. See `project_tepenia_multimedia_expansion` context: this repo is the shared canon source multiple downstream projects (novel, TV) will eventually pull from, the same way `Orbital-Infrastructure/` already is.
 
 ---

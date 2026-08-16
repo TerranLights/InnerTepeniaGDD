@@ -1,0 +1,40 @@
+CROSS-CUTTING NOTES — patterns noticed while going through all 36 cities (splatter_1 through 7), plus
+standout candidates worth promoting to the polished Weapon_Item_Catalog.md eventually. Not organized, just
+flagging what jumped out.
+
+RECURRING MOTIFS (the same underlying tool-shape shows up city after city — worth deciding whether these
+should be ONE catalog entry each with many cities' worth of flavor text, rather than 8+ near-duplicate items):
+- Cargo/dock hooks — Marambio, Sanay, Janbogo, Zukelli, Casey, Byrd, Cape Adare, Esperanza, Juan Carlos all
+  have some version of this. One generic "Cargo Hook" item, flavored per-district, probably beats 9 separate
+  near-identical entries.
+- Chains/cables/tow-lines — Marambio, Belgrano, Lazar, Sanay, Troll, Sayowa. Same logic as above.
+- Ice-core/deep-drilling tools — already a Bladed Melee catalog item, but Vostok's version is a genuine
+  outlier (deepest, most extreme, 25-million-year-sealed-lake stakes) and probably deserves its own named
+  variant rather than folding into the generic entry.
+- Hospitality/serving implements (kettle, tray, carving tools) — Palmer City, Janbogo, Zukelli, Juan Carlos,
+  Mawson all have a version. Worth one strong "Serving Implement" item with per-city flavor rather than five
+  near-duplicates.
+- Wind-engineering struts/anchors — Denison, Dumont d'Urville, Princess Elisabeth, Mirny (Windbreak Turbine
+  Fragment, already catalogued). Same consolidation logic.
+
+STANDOUT, GENUINELY UNIQUE CANDIDATES (worth individual promotion, not generic):
+- Byrd's salvaged aircraft propeller-blade fragment — real narrative weight (the connection to the rest of
+  Tepenia that no longer works), nothing else in the roster has this specific emotional charge
+- Scott's volcanic-ash collection tongs — the single most geographically/scientifically specific item in the
+  whole set (Mount Erebus fallout, one city's one real industry)
+- Halley's relocation-rig cable/winch — the literal mechanism of a city that physically moves; unmatched
+  anywhere else
+- Vostok's deep ice-core drill — see above, the extremity is the point
+- Zukelli's post-destruction salvage framing — the only city in the roster whose gear should read as
+  scavenged-from-ruins rather than actively-in-use; worth deciding whether this framing extends to any other
+  war-damaged city or stays unique to Zukelli
+- Dome Fuji's religious/pilgrimage implement — the only genuinely devotional item in the whole set; needs
+  careful, specific writing rather than generic "monastery prop" treatment
+
+OPEN QUESTION FOR WHOEVER ORGANIZES THIS NEXT: should the final gear_collection_DRAFT_-_weapons.md be
+organized by CITY (36 entries, matching this brainstorm's own structure) or by WEAPON CATEGORY (folding each
+city's contribution into Weapon_Item_Catalog.md's existing 13-category structure, the way the Zhongshan/
+Mirny/Sinheung items already were)? The category structure is probably the better long-term home given how
+much overlap exists between cities (see Recurring Motifs above), but the city-by-city structure is what makes
+each item's specific origin story legible. Possibly both: category-organized in the main catalog, with a
+per-city index pointing back at which items came from where.
