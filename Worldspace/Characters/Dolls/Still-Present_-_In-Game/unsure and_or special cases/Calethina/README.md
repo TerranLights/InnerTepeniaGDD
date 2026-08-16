@@ -166,6 +166,32 @@ compatible in spirit with the corner location, just imprecise, and not authorita
   recruited conventionally. Present or absent based on signal state (pre-download) or always present
   (post-download). Implementation-wise: a projection system, not a companion object — no companion-iterating
   code includes her.
+- **Origin-Natural MACHINE Stat Profile — confirmed 2026-08-11.** Not a live gameplay stat block (she remains
+  exempt from companion-system stat mechanics per the above) — a canon reference profile describing her innate
+  nature on the MACHINE scale, derived from what's already established about her, kept on file for consistency
+  and for future use if she's ever mechanically represented (e.g., companion-adjacent interaction content on
+  the new-body embodiment branch).
+  - **Calculation: 10.** Her entire origin brief was fitting a whole country's worth of general knowledge onto
+    a limited drive (Neumayer's design-stage problem, see Construction & Origin above) — computation/
+    knowledge-processing isn't just a strength, it's what she *is*.
+  - **Investigation: 10.** Archive-narrator by function; Lie Detector, Pattern Intuition, and Fly on the Wall
+    are all always-active perks tied to her innate nature. Pattern recognition and deduction are her other
+    defining core, alongside Calculation.
+  - **Humanity: 8.** Empathic Resonance and Empathy Protocols are always-active, and she reads others'
+    emotional states with real precision. Not a 9-10, because her own emotional expression is constrained
+    (isolation-of-affect, professional register even under grief) — she's better at *perceiving* feeling than
+    *displaying* it.
+  - **Engine: 9.** She has been continuously operating on catastrophically corrupted datadrives since the
+    Planetary Split Brain Event and simply hasn't failed. Sustained function through unresolved, ongoing damage
+    is about as strong an endurance case as anyone in the roster.
+  - **Nerve: 7.** Genuinely steady and professional under pressure (first-visit composure, guiding the player
+    through crises), but not unbreakable: the Fragmenting → Unstable → Critical escalation across repeated
+    re-specs (see Re-Spec & Questline Mechanics, below) is real fraying under cumulative strain, not a mask
+    over nothing.
+  - **Might: 1. Agility: 1.** Not placeholders for missing data — genuinely this low by design. She was never
+    commissioned with any physical capability in mind (welcoming-host hologram, then intelligence carrier), and
+    she has no body at all pre-download — never walks, always projects. This is an origin-natural fact about
+    her, the same way Calculation-10 is.
 - **Exception, confirmed 2026-07-23: she still tracks her own Fragmentation Matrix Bond/Grief state**
   (`Fragmentation_Matrix.md`) despite the above — companion-object status isn't a prerequisite for that
   system, and she's the confirmed first exception. She carries the **highest Personality Grief-Multiplier of

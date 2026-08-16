@@ -82,7 +82,10 @@ TBD — her legacy depends partly on what became of the resettlement and whether
 
 ## Relationships
 
-TBD
+**Confirmed 2026-08-10** (canonical source: `TepenianUniverseTimeline/Worldspace/Characters/Dolls/Maggie Aarden/Personal_Background/Relationships.md`):
+- A robot friend — name not yet chosen.
+- Two husbands, both during the First Interwar Period: her first husband grew old alongside her and died of old age; her second husband died in the War of Upper Earth.
+- Names, species, and fuller circumstances for all three are not yet established.
 
 ---
 

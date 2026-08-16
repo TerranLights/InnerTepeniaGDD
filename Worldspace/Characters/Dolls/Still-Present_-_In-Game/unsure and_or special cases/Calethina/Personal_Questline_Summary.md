@@ -63,6 +63,55 @@ grid health and event intensity. The original draft's own trigger (return to the
 first district visit) is already close to a guaranteed early main-quest beat and didn't need the
 Accomplishment Weight fix.
 
+### The "Unusual Readings" Trigger System (2026-08-09)
+
+**What this is:** the concrete, in-fiction mechanism that starts Step 3 and paces its early escalation —
+developed during a character-development-methodology worked example (see
+`Worldspace/Characters/Dolls/Methodology/05_Beats_Paths_Results.md` for the design process this came out of),
+now written here as real, confirmed content. **Operates at a different granularity from the Accomplishment
+Weight System below, not in competition with it**: the Accomplishment Weight System governs the macro
+Step-3→4 timing from many different sources; this system supplies the specific narrative beats and their
+mechanical cost that make Step 3 feel like an active, escalating investigation rather than an abstract point
+total.
+
+**The trigger pool — "network-related" world events.** Something in the world becomes able to communicate that
+previously couldn't: the player fixes something that couldn't be fixed before, forges a connection between two
+previously-unconnected things, restores a link that had been severed. Thematically load-bearing, not arbitrary
+— this is a direct extension of Calethina's own established nature (her visual quality is already "a direct,
+literal readout of world/grid health"; she is, structurally, a network/signal being).
+
+- **District-bound triggers**: a minimum of 3 per district (ideally up to 7), across all 13 districts (12
+  Zodiac-coded + the neutral Hub) — a minimum of **39 district-relevant trigger points**. Exact triggers
+  per district not yet designed; deferred until each district's own content is further along.
+- **Non-district-bound triggers**: a separate pool, not tied to any specific district, specifically so a
+  player pursuing a Pariah Failsafe path (where all 13 districts have gone hostile) still has access to at
+  least one valid trigger. Target: a minimum of 20, ideally up to 40. Exact triggers not yet designed.
+- **Activation rule**: completing **any single one** of the pool (district-bound or not) is sufficient — no
+  player needs to seek out a specific one, and the pool's size and dual-track design (district + non-district)
+  is specifically what keeps this system from repeating the accessibility mistake an earlier draft of the
+  Inciting-Event design made (see [[feedback_always_present_companion_gating]] in project memory) — it does not
+  depend on any single optional mechanic, and remains available even in a fully-hostile playthrough.
+
+**Pacing.** The player completes one trigger from the pool. After roughly **24 in-game hours**, Calethina takes
+the player aside to mention "unusual readings" she can't make sense of. If the player agrees to look into it,
+this begins Step 3's active investigation. Each subsequent trigger completed (after a similar ~24-hour delay)
+produces another "unusual readings" conversation, escalating the investigation further.
+
+**Mechanical cost — the corruption tie-in.** Each "unusual readings" event does two things at once: it raises
+Calethina's own suspicion that reality isn't what she'd always assumed (narrative escalation), and it
+**increases her corruption level**, tracked via her existing Fragmentation Matrix (Fragmenting → Unstable →
+Critical), because she's actively trying to reconcile conflicting data. This means investigating costs her
+stability — genuine mechanical stakes tied directly to narrative progress, not just narrated cost with no
+system backing it.
+
+**What this leaves open, deliberately.** The specific trigger content per district and in the non-district pool
+is not designed yet — this is the *system*, not the full list, and per the same reasoning as the rest of Step
+3-5's "deliberately deferred" status (see the top of this file), the actual trigger content should wait until
+each district and the wider world are further codified. This system does not extend past Step 3's early
+escalation — anything beyond the first several "unusual readings" beats (including whatever plays the role of a
+Second Pinch Point) is intentionally left for later, since it could end up being something else entirely once
+more of the surrounding world exists to draw on.
+
 ### Step 3 — What's Actually Wrong
 **Timing:** Mid Act 1, advancing toward the midpoint. **This is where the Accomplishment Weight System
 (`Game-Mechanics/Core-Mechanics/Accomplishment_Weight_System.md`) actually drives progression**, replacing
