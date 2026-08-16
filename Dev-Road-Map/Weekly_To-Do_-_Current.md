@@ -14,19 +14,17 @@ Three items the developer named as the most direly urgent work of the week, in t
 `project_weekly_top_priorities_2026_08_09` memory for full context — these take precedence over everything else
 in this file, including the rest of "High Priority" below, until done or explicitly reprioritized.
 
-- [ ] **1. Historical vignette audit against Robot Universals + national canon**
+- [ ] **1. Historical vignette audit against Robot Universals + national canon — starting 2026-08-12**
   Take the completed *Robot Universals* reference book (`TepenianUniverseTimeline/Reference/Robot_Universals/`)
   together with everything now known about the country/national canon, and re-check the existing historical
   vignettes to see whether they still hold up — and whether they can now be improved given everything learned
-  since they were written. Independent of items 2-3 below; can run in parallel with them.
+  since they were written. Independent of items 2-3 below; can run in parallel with them. **Developer confirmed
+  2026-08-11 this is starting tomorrow (2026-08-12).**
 
-- [ ] **2. Synthesize a working character-creation methodology model**
-  Turn the accumulated `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md`
-  brainstorm into an actual, usable methodology document — not just a running scratchpad of distilled book
-  notes. This is the same underlying gap as the existing "Character Development Methodology" entry further
-  down this file, now elevated to top priority. The ongoing book-mining effort feeding that draft file becomes
-  secondary to this synthesis step starting now — mining should only continue alongside or once synthesis is
-  underway, since synthesis may reveal exactly which remaining books are still worth reading.
+- [x] **2. Synthesize a working character-creation methodology model — COMPLETE 2026-08-09, see `DONE.md`**
+  `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md`'s brainstorm is now a full
+  5-stage pipeline (`Methodology/01`–`05`) plus a scale-driven `00a`/`00b` intake layer, with
+  `00_Overall_Process_Scaffold.md` refreshed to match. Full writeup in `DONE.md`. Unblocks item 3 below.
 
 - [ ] **3. Re-pass existing Companion/Romance questlines using the new methodology**
   Once item 2 produces a working model, run it against the Companion and Romance questlines already written
@@ -80,9 +78,9 @@ in this file, including the rest of "High Priority" below, until done or explici
 - [ ] **Byrd↔Janbogo aviation refueling stop — needs a real fix**
   See `TODO.md`'s "Decision Required" section for the underlying problem.
 
-- [ ] **Cross-district non-malice audit — 5 of 9 items remain**
-  4 of 9 already resolved; the remaining 5 all have candidate alternatives already written up. See
-  `Cross_District_Non_Malice_Audit.md` and `TODO.md`'s "Decision Required" section.
+- [x] **Cross-district non-malice audit — COMPLETE, actually finished 2026-07-29, see `DONE.md`**
+  This line was stale — `Cross_District_Non_Malice_Audit.md` itself already stated all 9 of 9 items resolved
+  and promoted, predating this Weekly To-Do file's own 2026-07-23 creation. Caught and fixed 2026-08-11.
 
 - [ ] **Per-district inter-city conflicts — measure, assess, derive, and synthesize** *(flagged 2026-07-31)*
   Using `District_Refugee_Diaspora_Composition.md`'s own weighted composition per district, work through what
@@ -106,7 +104,8 @@ in this file, including the rest of "High Priority" below, until done or explici
   find common ground — not a repeat of the diaspora file's own "brought with them" transplant framing or the
   Deep Dive findings. Further raw material for Under-Questline generation once both passes exist.
 
-- [ ] **Per-district ordinary daily life — measure, assess, derive, and synthesize** *(flagged 2026-07-31)*
+- [ ] **Per-district ordinary daily life — measure, assess, derive, and synthesize** *(flagged 2026-07-31,
+  starting 2026-08-12)*
   Go through each of the 13 districts and work out what an ordinary resident's actual day-to-day life is
   like — daily routines, mundane concerns, personal struggles, and forms of personal escapism/downtime —
   distinct from whatever that district's own defining civic identity or institutional purpose is. Explicit
@@ -115,7 +114,8 @@ in this file, including the rest of "High Priority" below, until done or explici
   lives are currently underexplored across the corpus. This is a third, distinct pass alongside the conflicts
   and friendships items directly above — not about inter-community dynamics at all, but about what any single
   resident's own life actually consists of day to day. Further raw material for Under-Questline generation
-  (and general NPC/character writing) once all three passes exist.
+  (and general NPC/character writing) once all three passes exist. **Developer confirmed 2026-08-11 this is
+  starting tomorrow (2026-08-12), alongside the vignette audit above.**
 
 - [ ] **District Main vs. Under-Questline candidates — generate more** ⭐ *(unblocked 2026-08-08 — see below)*
   Structure and both governing files (`District_Main_Questlines.md`, `District_Under_Questline_Design_Method.md`)
@@ -145,30 +145,26 @@ in this file, including the rest of "High Priority" below, until done or explici
   needing this pass: Kendra Heinrich, Meyzan Yocazhda, Michelle Stanton, Salagéa Aparast, Vosora Lashár
   Tanslock, and Calethina.
 
-- [ ] **Character Development Methodology — psychological depth & inner conflict, instruction sheet not yet
-  written** *(flagged 2026-08-08)*
-  Confirmed gap, checked directly: no methodology currently exists anywhere in the repo for producing genuine
-  psychological depth and inner personal conflict for a given Doll — only fill-in templates that capture
-  *what fields* to fill (Enneagram type, Internal Conflict as a labeled blank) without a method for how to
-  generate something genuinely deep for them. Closest precedent is `Forbidden_Trait_Design_Method.md`
-  (derives from Enneagram/history/sensibilities, but scoped to one narrow mechanic). **Draft ideas file
-  started:** `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md` — currently a
-  scratchpad of candidate mechanisms (Enneagram-Rooted Contradiction, the Robot-Universal Friction Bank,
-  the Anti-Stereotype/Round-vs-Flat Check, the Branch-Justification Check), deliberately not yet organized
-  into an actual methodology document. Next step: keep adding candidate ideas, then sort into a real
-  structured instruction sheet once there's enough material.
+- [x] **Character Development Methodology — psychological depth & inner conflict, instruction sheet — COMPLETE
+  2026-08-09** *(flagged 2026-08-08)*
+  Duplicate of Top Priority item #2 above — same gap, same resolution. See `DONE.md`.
 
-- [ ] **Villain/Anti-Hero supplement sheet — addition to the main methodology, not a fork** *(flagged 2026-08-09)*
+- [ ] **Villain/Anti-Hero supplement sheet — extraction complete 2026-08-11, organizing pass still open**
   A second, separate document specifically for villains and anti-heroes, sitting alongside the main
-  character-creation methodology above rather than replacing or forking it — antagonist/anti-hero design has
+  character-creation methodology rather than replacing or forking it — antagonist/anti-hero design has
   distinct concerns (irredeemability thresholds, sympathetic-villain calibration) that don't map cleanly onto
-  the protagonist/companion-focused arc machinery the main methodology is built around. Raw material already in
-  hand from the *Characters & Viewpoint* (Card) distillation (the Sadist/Bully definition, the Self-Appointed/
-  Usurper Rule, the Understandable Villain principle's hard limit) and from Weiland's Antagonist material
-  already in the draft file. Two still-queued books are specifically earmarked to feed this sheet rather than
-  the main methodology: *Bullies, Bastards And Bitches* (Morrell) and *Fallen Heroes: Sixteen Master Villain
-  Archetypes* (Cowden). See `project_villain_antihero_supplement_sheet_flagged` memory. Not yet started — no
-  file exists yet.
+  the protagonist/companion-focused arc machinery the main methodology is built around. **This line was stale**
+  (said "not yet started — no file exists yet"): the file
+  `Worldspace/Characters/Dolls/Character_Development_Methodology_-_Villains_and_Antiheroes_-_DRAFT_Ideas.md`
+  exists (1194 lines) and **all four queued books are now fully mined** — *Bullies, Bastards And Bitches*
+  (Morrell, all 12 chapters + appendix), *Fallen Heroes: Sixteen Master Villain Archetypes* (Cowden, full
+  book), *The Anti-Hero in the American Novel* (Simmons, all 4 chapters + Conclusion), and *Heroes and
+  Anti-Heroes in Medieval Romance* (Cartlidge, all 14 chapters + Introduction, finished 2026-08-11). Two
+  further candidates (*The Biology of Horror*, Morgan; *Sixguns and Society*, Wright) are deliberately
+  deferred, not forgotten. **What's actually still open:** the file's own status line still reads "pure
+  brainstorm, not yet organized into an actual instruction sheet" — the extraction is done, the organizing
+  pass into a real structured document is the one remaining piece of work. See
+  `project_villain_antihero_supplement_sheet_flagged` memory (also due for a refresh).
 
 ---
 
@@ -243,14 +239,34 @@ specs," which stays in `TODO.md` only for now.
   alone.
 
 - [ ] **Doll Enneagram gaps — review pass**
-  Four characters missing a type entirely: Maria (FR-03), Momo (TCY-45), Eirwyn Cardoss (Off-World template
-  has no Enneagram field), and **Calethina** — flagged in the original TODO entry as "no standard README,"
+  **Momo (TCY-45) resolved 2026-08-11:** 4w5 Main + 9w1 Undercurrent (the project's first confirmed
+  Undercurrent, see `Worldspace/Enneagram/Undercurrents.md`), Instinctual Subvariant still undetermined for
+  both. **Eirwyn "Eira" Cardoss also resolved 2026-08-11:** 5w4 Main (Social) + 3w4 Undercurrent (Sexual), ~55%/45%
+  split (a real deviation from the ~80/20 working baseline) — the first doll typed against the Off-World
+  template, which had no Enneagram field until now. **HKD-172 also resolved 2026-08-11** (not
+  originally on this list, but was also untyped): 9w8, Social. Two characters remain missing a type entirely:
+  Maria (FR-03) and **Calethina** — flagged in the original TODO entry as "no standard README,"
   which is now stale (she has a full master `README.md` as of this session) but she still has no formally
   assigned Enneagram type, so worth confirming whether that's still a real gap or already implicitly
   answered by everything now written about her. Two missing a subvariant: Charlene (XT-17, 5w4) and Angelina
   (XT-21, 7w8). Broader pass: confirm existing subvariant assignments are correct across all typed dolls
   before Phase 3 personality work begins. Don't design companion perks, attraction profiles, or romance
   gates for the type-missing characters until this is resolved.
+
+- [ ] **Lyuba Baranova — classify as anti-hero when her personal questline design begins** *(flagged 2026-08-11)*
+  Additional lens layered on top of her standing recruitable/romanceable companion status, not a replacement
+  for it. Apply the now-fully-mined `Character_Development_Methodology_-_Villains_and_Antiheroes_-_DRAFT_Ideas.md`
+  supplement (Morrell, Cowden, Simmons, Cartlidge all complete) when charting her arc. Note also written
+  directly into her own `README.md`'s Design Notes & Open Questions. She's not yet in active questline
+  design — this is a forward flag for whenever that work actually starts (see the personal-questline queue in
+  `TODO.md`: Fenny, Lyuba, Rui, plus DLC companions).
+
+- [ ] **Wire existing methodology files to the new Enneagram entry point** *(flagged 2026-08-09)*
+  `Worldspace/Enneagram/README.md` now exists as the designated link target for any character-creation
+  methodology that needs Enneagram material (see `project_enneagram_deep_dive_folder_plan` memory). Not yet
+  actually wired in anywhere — the Stage 1–5 pipeline in `Worldspace/Characters/Dolls/Methodology/` (Stage 3 in
+  particular) and the `TepenianUniverseTimeline` seed-to-README process still don't cross-reference it.
+  Deliberately deferred; low-risk, additive, easy to pick up whenever.
 
 **Housekeeping done alongside this list, 2026-07-23:** Juan Carlos's post-Long-Night-War status — already
 resolved in-session (Destroyed, targeted for its archive/customs function) but still sitting as an open

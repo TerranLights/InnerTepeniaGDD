@@ -9,6 +9,49 @@ resolved.
 
 ## Completed
 
+- [x] **Cross-District Non-Malice Audit — all 9 of 9 items resolved and promoted, 2026-07-29 (staleness in `Weekly_To-Do_-_Current.md` caught and fixed 2026-08-11)**
+  Applied the rule established for Capricorn's core injustice to every other district's `District_Canon_Reference.md`
+  entry: Tepenia's tone has no room for a district's defining historical tension to come from active malice,
+  jealousy, or deliberate exploitation — only non-malicious structural inertia (a reasonable crisis-era decision
+  never revisited once things improved, with nobody presently benefiting from or defending the unfairness). All
+  9 items resolved: Gemini's Great Corruption (locked to accident, never sabotage, if ever revealed), Taurus's
+  Insulation Schism (passes as-is), Virgo's Year of Silence (passes as-is), Taurus's Stockpiling Culture's Dark
+  Side (reworked to crisis-panic uncertainty, not selfishness), Aries's Political Weapon + Libra's Surveillance
+  Files + Scorpio's Forbidden Archive War (reworked together via `Cross_District_Power_Leverage_Alternatives.md`),
+  Leo's Star War (reworked into one sequential history — Twin Founding → Allocation Formula → the Untimely Loss),
+  and Cancer's Rationing of Grief (reworked via the Automatic Compliance Formula + a legitimate exemption
+  misfiled as defiance). Consistency edits also made to `Deep_Dives/08_Libra_Deep_Dive.md`,
+  `Deep_Dives/12_Virgo_Deep_Dive.md`, and `Deep_Dives/03_Leo_Deep_Dive.md`. A related loose end — the old
+  Cross-District Notes line "Both of them use it" (Pisces/Scorpio) implying active leverage — was also resolved
+  the same day, reworded to "Neither has ever had to change, and both are better off for it — neither one
+  minds, and neither is in a hurry to be found." Full reasoning/rejected-options record preserved in
+  `Cross_District_Power_Leverage_Alternatives.md`, `Deep_Dives/03b_Leo_Star_War_Alternatives.md`, and
+  `Deep_Dives/01b_Cancer_Rationing_of_Grief_Alternatives.md`. **Caught stale 2026-08-11:** `Weekly_To-Do_-_Current.md`
+  (created 2026-07-23, predating this item's own 2026-07-29 completion) still listed this as "5 of 9 items
+  remain" under High Priority — `Cross_District_Non_Malice_Audit.md` itself already stated "all 9 of 9 items
+  resolved and promoted" the whole time. Corrected in place.
+
+- [x] **Character-creation methodology synthesized into a working, usable document — 2026-08-09**
+  This week's Absolute Top Priority item #2 (and the identical "Character Development Methodology —
+  psychological depth & inner conflict, instruction sheet not yet written" entry it duplicated). The
+  ~3,459-line `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md` book-mining
+  scratchpad has been fully reconciled into an actual 5-stage pipeline in
+  `Worldspace/Characters/Dolls/Methodology/`: **01 Input Information** (everything that must exist or be
+  gathered before generative work starts), **02 Information Processing** (the diagnostic toolkit for
+  interrogating raw inputs into a genuine, specific psychology), **03 Character Data** (Stage 2's structured
+  output as reusable profile fields), **04 Story Material** (converting a finished profile into role/cast/
+  thematic shape), and **05 Beats, Paths & Results** (the full beat-by-beat branching machinery). A compression
+  intake layer sitting in front of Stage 1 was added on top, built specifically for scale (1,185+ Dolls):
+  **00a Initial Input** (6 Minimal Seed Fields — name, folder pointer, vision statement, robot/human, Enneagram,
+  location of origin — plus a Derivation Protocol mapping those onto all 25 of Stage 1's categories) and
+  **00b Clarification Protocol** (confidence-tagging algorithm that only surfaces a question for whatever the
+  derivation genuinely can't resolve; validated on Ayako Hayashi with zero clarification questions generated).
+  `00_Overall_Process_Scaffold.md` was refreshed the same day to describe the finished pipeline rather than the
+  original pre-consolidation map. **Not done:** actually re-running existing Companion/Romance questlines
+  against this new methodology (Top Priority item #3, depends on this item) — and wiring
+  `Worldspace/Enneagram/README.md` (the now-complete 9-type Enneagram deep-dive) into Stage 3 as a
+  cross-reference, still flagged Medium Priority, deliberately deferred.
+
 - [x] **Palmer City/Shirayuki/Mawson/Lazar Community Infrastructure expansion cross-referenced into district diaspora counterparts — 2026-08-02**
   The 2026-07-31 Community Infrastructure expansion for these four cities (new Additions and Social Cohesion Mechanisms — see `project_community_infrastructure_expansion_pass` memory) was checked against every `District_Refugee_Diaspora_Composition.md` entry where each city appears as a named diaspora contributor (12 entries total: Mawson×3, Lazar×3, Shirayuki×3, Palmer City×3), and new material folded in as "brought with them" transplants wherever a genuine fit existed. 10 of 12 entries gained new material — standout additions include Lazar's Transit Spine landing almost natively inside the Hub's own Grand Transit Exchange (the single cleanest transplant in the whole file), Shirayuki's Battle Halls fitting Leo's competitive-recognition economy almost perfectly, and Mawson's Anniversary Returns custom finding a distinctly apt home in Leo's own tiered-fame culture. 2 entries were deliberately left untouched: Palmer City→Scorpio is a grief-driven Stage 2 Override entry (not ordinary cultural affinity, per the file's own established framing), and Palmer City→Libra is explicitly framed as "too small for anything beyond quiet private observance" — adding grand new venues there would have undercut that deliberate characterization rather than served it. Full reasoning and new prose in `District_Refugee_Diaspora_Composition.md` itself, cross-reference note added to the file's own header.
 
