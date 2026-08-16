@@ -4,6 +4,18 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Enemy AI / hostile NPC behavior design — flagged 2026-08-16, deliberately deferred, not started
+
+**Explicitly for later — not part of the current District Culture Development Plan work.** Needs its own
+dedicated design pass at some future point: how particular characters/NPCs actually behave once hostile —
+combat AI patterns, aggression triggers, faction-specific tactical behavior, whether hostility style should
+vary by district/faction/character archetype (a Capricorn industrial-yard tough vs. an Aries security model vs.
+a Pisces black-market enforcer, etc.), and how this interacts with the project's existing Checks-not-Rolls
+terminology law and the Forbidden Trait / Gate mechanics already established for dialogue. Not scoped further
+than this yet — flagged so it isn't lost, not something to start now.
+
+---
+
 ## Tri-Cities fled-vs-stayed diaspora angle — flagged 2026-08-16, one of three cities done
 
 Zhongshan's own Cultural Spec Sheet (`Local_Cultures/Mirny_Subnet/Zhongshan.md`, §32) has a developed
