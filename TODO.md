@@ -4,6 +4,21 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Tri-Cities fled-vs-stayed diaspora angle — flagged 2026-08-16, one of three cities done
+
+Zhongshan's own Cultural Spec Sheet (`Local_Cultures/Mirny_Subnet/Zhongshan.md`, §32) has a developed
+fled-vs-stayed diaspora dynamic: the city survives the Long Night War damaged but partially operational, and
+its Concordia diaspora is split between those who fled and those who stayed, with unspoken guilt on both
+sides. Sinheung and Shirayuki share the exact same war-damage status (all three resolved together as
+"damaged; partially operational" specifically because of how tightly co-located they are) but neither has
+this angle built out yet in their own Diaspora Character sections (§32 of `Sinheung.md` / `Shirayuki.md`).
+Flagged during the Tri-Cities Enneagram/overlap work — see
+`Local_Cultures/Mirny_Subnet/Tri-Cities_Overlap_and_Distinguishing_Guide.md`'s Overlap 5. Worth a coordinated
+pass across all three (including a consistency check on Zhongshan's existing version) rather than developing
+Sinheung's and Shirayuki's independently, given how tightly the three cities' fates are already linked.
+
+---
+
 ## An original Platonic Solid symbol system — flagged 2026-08-03, new project, not yet designed
 
 Grew out of drafting `to-be-integrated/platonic-solids-symbols.md`: the 5 Platonic solids no longer map to
