@@ -44,6 +44,56 @@ Home access is granted when the romance is established and revoked if the romanc
 
 ---
 
+## Skill & Stat Checks
+
+**Added 2026-08-09.** Generalizes the existing "Romance gates check permanent base stats only" rule (above)
+into the two standing laws governing every other skill/stat check in the game.
+
+**Terminology, confirmed 2026-08-16 (full law in `Character-Creation/Skills.md`'s "Flat Thresholds, No Dice
+Rolls"):** these are **checks**, never "rolls" — not even casually. No randomness exists behind a skill/stat
+check anywhere in this system; the word "roll" implies exactly the mechanic this project doesn't have. The sole
+named exception is ranged combat hit chance and aimed-shot body-part probability, where actual randomness
+applies and "roll" is accurate.
+
+**Every stat/skill check in the game evaluates the player's current, effective stat total, including temporary
+buffs — with exactly one standing exception: Romance questline trigger checks (Gate 2, above), which check only
+the permanent, unadjusted MACHINE stat.**
+Food, chems, equipment, and any other stacking bonus all count toward every ordinary dialogue/quest/world-
+interaction check in the game, exactly as in Fallout: New Vegas — a player with a natural 5 Strength who eats
+Bighorner or Brahmin Steak for a temporary +2 Strength buff passes a check requiring 7 Strength exactly as if
+the 7 were natural (see, for example, the Tyrone/Melissa/Great Khans interaction in the Chomps Lewis supply
+questline — the +2 Strength buff lets the player deliver the "I'm sorry, I can't hear you over the sound of all
+these muscles" line at 5 base Strength). Romance gates are the sole named exception to this rule, not the
+default — every other system that reads a MACHINE stat should assume buffs count unless a future rule names
+another explicit exception the same way this one is named.
+
+**The Perfect-10 Mastery Dividend: a Natural 10 in a stat/skill check should let the player talk their way past
+a real number of subsequent checks within that same questline — never a permanent, game-wide effect.**
+A **Natural 10** is a *permanent* stat value of 10, reached only through starting character-creation
+allocation, spending Intense Training points, or installing a non-Dr.-Usanagi implant (see
+`Character-Creation/Permanent_MACHINE_Stat_Increases.md`) — the three established permanent-stat-increase
+paths. An **Adjusted 10** is a stat that merely reads 10 right now because of a temporary buff stacked on a
+lower permanent value, per the buffable-check rule above. The Mastery Dividend is earned only by a Natural 10;
+an Adjusted 10 clears the single check it's attached to, exactly as the buffable-check rule requires, but
+represents no genuine, rare life-area mastery and does not unlock the Dividend.
+
+**Implementation: a Natural 10 option is offered as its own separate dialogue choice**, distinct from an
+ordinary buffable stat check on the same stat, so the two are never conflated in the UI or in the underlying
+check logic:
+```
+{{NPC dialogue}}
+
+[10 STAT] {{dialogue}}
+[Nat 10 STAT] {{dialogue}}   // grants the Mastery Dividend for the rest of this questline
+[55 SKILL-A] {{dialogue}}
+[80 SKILL-B] {{dialogue}}
+[45 SKILL-C] {{dialogue}}
+```
+The plain `[10 STAT]` option stays ordinarily buffable and only resolves the single check it's attached to; the
+separate `[Nat 10 STAT]` option is what gates the Dividend, and only a permanent Natural 10 can select it.
+
+---
+
 ## World Canon
 
 **No Indians or South Asians ever came to Tepenia.**

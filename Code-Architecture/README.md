@@ -34,6 +34,7 @@ them implicit in scattered examples.
 | `09_Build_Order_and_Key_Decisions.md` | The order systems get built in, and the rationale behind the biggest architectural calls |
 | `10_Character_Asset_Pipeline.md` | DAZ Studio → Blender → Godot character asset pipeline; where rigging actually happens |
 | `11_2D_Reference_to_3D_Character_Pipeline.md` | Converting the existing companion reference-image dolls into 3D models; AI image-to-3D tool landscape; relationship to the DAZ pipeline (open) |
+| `12_Text_Based_Testing_Harness.md` | Headless Godot + numbered-menu text interface for validating dialogue, checks, combat, and world state before any visual work — same logic classes the 3D game reuses, just a different presentation layer |
 
 ## Standing rules for this folder
 
@@ -53,8 +54,10 @@ them implicit in scattered examples.
 ## What's still missing (not yet covered by any file here)
 
 This folder currently covers character stats, combat, the grid/camera/movement stack, world/district/
-reputation state, saving, and graphics scaling — all migrated from prior work. **Not yet designed at all:**
-the quest/dialogue system's own data structures and state tracking, the UI layer (menus, HUD, inventory,
+reputation state, saving, graphics scaling, and (as of 2026-08-16) a text-based testing harness with an initial
+dialogue-system data structure — all migrated from prior work, plus `12`'s new material. **Not yet designed at
+all:** the dialogue system's full state-tracking depth beyond what `12` sketches for harness purposes (quest
+stage integration, save-file persistence of dialogue/quest flags), the UI layer (menus, HUD, inventory,
 character creation screens as actual scene/script structure), the perk/trait/ability *content* pipeline
 beyond the Resource shape itself, companion-specific systems (approval, romance gates, personal
 questlines as code), the Godot object field for Concordia-refugee sub-district tracking (blocked on

@@ -98,23 +98,71 @@ Plus 3 new columns:
 ### Conditions column — syntax convention
 
 A light, consistent syntax, so this parses predictably into JSON later instead of needing free-prose
-interpretation each time:
+interpretation each time. Two genuinely different kinds of condition, established 2026-08-16 — **Checks** and
+**Gates** — display and behave differently, so the syntax below is grouped by which one each condition is.
 
+**Checks — numeric, always visible, FNV-precedent display rule (confirmed 2026-08-16):**
 - Stat check: `Humanity >= 7` — full stat name, this project's 7 MACHINE stats (Might, Agility, Calculation,
   Humanity, Investigation, Nerve, Engine)
+- Skill check: `Repair >= 50` — full skill name, this project's 26 skills
 - Permanent-only check (Romance Gate 2's own binding exception, `Companion_System.md`): `Humanity(perm) >= 7`
-- Forbidden Trait (categorical block, always wins over any stat threshold — see "Forbidden Traits" in
-  `Companion_System.md`): `FORBIDDEN Trait: NoMercy`
+- **Display rule, exactly matching Fallout: New Vegas's own convention:** if the player's current value meets
+  or exceeds the requirement, only the requirement is shown — `[50 Repair]`. If the player's current value is
+  *below* the requirement, both are shown, current first — `[17/50 Repair]`. This isn't cosmetic — a Check is
+  visible and selectable either way; the number format alone tells the player whether they'd pass before they
+  commit. Full display/UI detail in `Code-Architecture/12_Text_Based_Testing_Harness.md`.
+
+**Gates — binary, hidden entirely if unmet, no bracket display at all — confirmed 2026-08-16:**
+- Perk requirement (unlocks a unique line — the option doesn't exist without it, there's no "attempt it
+  anyway" the way a Check has): `Perk: IronFist`
+- Trait requirement (same logic as Perk — possession-gated, not attemptable): `Trait: Reclaimer`
 - Reputation tier (`Reputation_System.md`): `Rep(Leo) >= Liked`
 - Wild Child status (Idolized + Vilified simultaneously): `WildChild(Cancer)`
 - Companion-perk bypass (e.g. Imelda's Charisma-check bypass while she's an active party member):
   `Companion:Imelda present`
-- Multiple conditions on one row: `;` = AND by default; write `OR` explicitly when that's actually meant
+- **If the player *lacks* a Perk/Trait/Reputation/etc. requirement, the option is simply absent — silently,
+  with no feedback at all.** This is the ordinary case, confirmed directly by the developer: "if the player has
+  some particular perk and/or trait and/or reputation-status, then the dialogue option appears. If not, then
+  the dialogue option doesn't appear."
 
-**Pass/fail is not a separate column — it's two Topic rows.** A stat check gates which of two (or more) Topic
-rows is available at all: one row conditioned `Investigation >= 7` leading to the sharper response, a fallback
-row (no condition, or the inverse) leading to the plain one. This is how the real FNV source file already does
-it, and it keeps this project's own "deterministic, no randomness" stat-check law (`Universal_Rules.md`)
+**Forbidden Trait — a named exception to the Gate rule above, not itself a plain Gate:** `FORBIDDEN Trait:
+NoMercy`. This already exists as **binding canon** in `Companion_System.md`'s "Forbidden Traits" section
+(confirmed 2026-07-28, explicitly scoped to "actual game code — C++/GDScript/JSON dialogue data"), and
+Dialogue's own Conditions syntax has to implement it correctly rather than fold it into the silent-hide Gate
+pattern above:
+- **Never silent.** Where an ordinary Gate simply removes an option from the list with zero trace, a Forbidden
+  Trait always surfaces — a player carrying one is deliberately shown *why* a route is closed, not left to
+  guess. Purpose (developer's own framing, 2026-08-16): the player should understand why a doll is rejecting
+  their romantic advances, so they can plan a subsequent playthrough accordingly.
+- **Precedence over the ordinary stat-gate Check, per the existing binding rule:** a Forbidden Trait check
+  evaluates *first*. If present, the game shows the character's own distinct rejection line instead of the
+  normal stat-threshold Check display — the two never show simultaneously for the same interaction.
+- **Its own tone, distinct from an ordinary failed Check's Signal line:** a Signal (failing a normal stat Check)
+  implicitly invites "come back once you've grown." A Forbidden Trait rejection reads as a genuinely closed
+  door — "this isn't something that changes," never a "not yet." See Ayako Hayashi's own rejection line
+  (`Companion_System.md`) for the calibrated example of this register.
+- **Scope, as currently established:** this exception is specifically documented for Romance Gate 2 (the
+  romance-eligibility check). Whether an ordinary non-romance Forbidden-Trait-gated line should behave the same
+  way (visible-with-rejection) or fall back to a plain silent Gate hasn't come up yet — treat Romance as the
+  confirmed case, and flag any non-romance Forbidden Trait use for the same question before assuming it works
+  identically.
+
+**Why Checks and (most) Gates split the way they do:** a Check is something the player's build makes them more
+or less likely to succeed at, and it's dramatically useful to show that tension (New Vegas shows a failing
+Speech check right alongside a passing one, and lets you walk into it anyway). An ordinary Gate is a yes/no fact
+about the player's build or the world state — having Perk: Iron Fist, or not; being Liked in Leo, or not —  with
+no meaningful "attempt" to dramatize, so it's simply absent when unmet. Forbidden Trait sits outside both
+patterns on purpose: it's gate-like (binary, not a stat threshold) but deliberately not silent, because the whole
+point of a romance rejection is that the player learns something from it.
+
+- Multiple conditions on one row (Check or Gate, or a mix): `;` = AND by default; write `OR` explicitly when
+  that's actually meant
+
+**Pass/fail is not a separate column — it's two Topic rows.** A Check gates which of two (or more) Topic rows
+fires *after* the player selects it — one row conditioned `Investigation >= 7` leading to the sharper response,
+a fallback row (no condition, or the inverse) leading to the plain one. This is how the real FNV source file
+already does it, and it keeps this project's own "deterministic, no randomness" stat-check law
+(`Universal_Rules.md`)
 naturally enforced by the format itself rather than needing a separate mechanic to express it.
 
 ### File naming and folder structure

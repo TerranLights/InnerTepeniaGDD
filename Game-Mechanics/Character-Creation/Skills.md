@@ -22,6 +22,14 @@ The only context where random number generation applies is ranged combat hit cha
 
 **Companion effects follow the same logic.** A companion with Investigation 10 does not give the player a "+X bonus to Investigation rolls." They extend the player's effective detection floor — certain things are automatically noticed when that companion is present that would otherwise require an Investigation threshold the player hasn't met.
 
+**Terminology, confirmed 2026-08-16 — binding for all writing about this system, not just formal spec: these are
+"checks," never "rolls."** The word "roll" itself implies randomness that doesn't exist here, even used
+casually or descriptively — there is no dice, no chance, no probability distribution behind a skill or stat
+check anywhere in Inner Tepenia or the wider Outer Tepenia series. Say "a Repair check," "a Humanity check," "an
+Investigation check" — never "a Repair roll." (Ranged combat hit chance and aimed-shot body-part probability
+remain the sole named exception where actual randomness applies, per above — "roll" is accurate language there,
+and only there.)
+
 ---
 
 ## Core Design Law: Minimum Five Solutions
