@@ -65,3 +65,29 @@ It's still dangerous to prove. The shape of what is missing is itself evidence �
 **No faction-antagonism route** — nothing establishes a specific district as being on documented bad terms with Michelle or The Long Frequency; general Janbogo cultural friction over speed-vs-verification isn't the same as a confirmed antagonism, so not forced. (Route 3 above is the sympathetic-individual-within-the-antagonist-institution pattern, not the player's-own-reputation-with-an-opposed-faction pattern.)
 
 **Left untouched / explicitly out of scope for this retrofit:** her MACHINE stats, personality/voice, and companion traits remain placeholder — a separate, larger Phase 3 development task already tracked in her own file's TODOs.
+
+---
+
+## Romance Quest
+
+**Stat gate:** Calculation ≥ 7 (primary), Humanity ≥ 6 (secondary), Engine ≥ 7 (tertiary)
+
+**Rationale:** Michelle is a 5w6 Social type, same as Vosora, but her emotional core is distinct. Where Vosora's intimacy is through shared intellectual pursuit, Michelle's is through shared commitment to a place. She built the Arcanet — the Antarctican internet — and she chose to stay in Concordia when she has the means to leave. Calculation is primary because she needs genuine intellectual depth. Humanity is secondary because she built something that connects everyone; she cares about people collectively and needs to feel the player does too. Engine at 7 — the highest tertiary in the roster — reflects that she has sustained an enormous ongoing commitment for a very long time; she is drawn only to someone who can match that kind of staying power.
+
+**Forbidden traits:** see Michelle's own character file (`README.md`, "Romance — Forbidden Traits" section) for her specific forbidden trait and rationale.
+
+**Signal line** (if stat threshold not met): *"You seem like someone passing through. I don't have much use for those."*
+
+**Gate 3 — Romance beats** (after companion quest completion):
+
+Michelle's romance is about the player coming to understand why she stays, and demonstrating that they understand it in the only way that counts — by making the same kind of choice themselves.
+
+1. **Engage with the Arcanet as more than infrastructure:** The romantic path requires understanding that what she built isn't just a communications network — it's what she chose to give. Questions about why she built it the way she did, what she was trying to make possible. She notices the difference between someone who appreciates the achievement and someone who understands the intention behind it.
+
+2. **Ask the real question:** At some point the player genuinely asks why she stays when she could leave. The romantic path is a player who listens to the answer and takes it seriously — not using it, not performing interest, not skipping past it. The answer is the most honest thing she offers.
+
+3. **The Rastra moment:** She teaches the player to maintain the vehicle that makes leaving possible. This is an act of trust — she is giving the player access to her capacity to go. The romantic path treats this with the weight it deserves, not as a tutorial.
+
+4. **Choose the city when it would be easier not to:** During her quest, a choice arises where the player could deprioritize Concordia's needs for something personally advantageous. The romantic path doesn't. She stayed because she believes in this place; the player has to demonstrate they understand what that means in practice.
+
+5. **The view from outside:** The most intimate thing she can offer is showing the player what Concordia looks like from a position where leaving is genuinely possible — literally, from the Rastra outside the city, or metaphorically, from her perspective as someone who could go anywhere and chose here. The romance closes with that shared vantage point.

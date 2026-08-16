@@ -8,7 +8,7 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency — data recovery wing; Great Corruption investigation
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6; forbidden trait (permanent dealbreaker, confirmed 2026-07-28): Narrative Ghost; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Investigation ≥ 6, Nerve ≥ 6; forbidden trait (permanent dealbreaker, confirmed 2026-07-28): Narrative Ghost; full romance beat design in this file's own `Questlines/README.md` and in `Worldspace/Characters/Dolls/Doll_Questline_Directory.md`
 
 ---
 

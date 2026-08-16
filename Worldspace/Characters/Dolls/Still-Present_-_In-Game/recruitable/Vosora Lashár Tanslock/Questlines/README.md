@@ -66,3 +66,31 @@ The shape of what is missing in the Great Corruption is itself evidence. The siz
 **Untouched by this retrofit:** the dual-outcome perk structure attached to the four endings (see main README's Design Notes) — this retrofit restructures the investigative mechanism and the endings' factual content, not the perk mechanics themselves.
 
 **Cross-questline note — RESOLVED 2026-07-20, independently-convinced-officials structure (corrected from an earlier "hostile organization/compartmentalized cells" draft that didn't survive the non-malice check):** Michelle Stanton's own questline has now been retrofitted with the same treatment (see her `Questlines/README.md`). Their shared pressure comes from **Libra itself — specifically, one or more officials genuinely convinced suppression is the right call, not a hostile organization.** The two investigators are pressured by different officials or departments within Libra, each independently reaching the same protective conclusion rather than coordinating as a conspiracy — which is why **completing Vosora's questline does not complete or shortcut Michelle's, and vice versa.** Their investigative deliverables were already non-overlapping regardless: Vosora reconstructs the destroyed content itself; Michelle verifies the accident's true cause and/or discovers a surviving copy exists somewhere else entirely (the South Pole synchronized Arcanet archive — a possible Hawaii/Hall of Archives connection from an early draft remains too speculative to use, see her own file). A player who completes both questlines can piece together the fuller picture of how widespread this institutional instinct actually is within Libra — an optional bonus payoff, not required by either individual companion quest, not yet designed in detail.
+
+---
+
+## Romance Quest
+
+**Stat gate:** Calculation ≥ 7 (primary), Investigation ≥ 6 (secondary), Nerve ≥ 6 (tertiary)
+
+**Rationale:** Vosora is a 5w6 Social type — distinct from the Self-Pres 5 in that she remains engaged with the world through her work rather than retreating from it. She is already doing something that matters (the Great Corruption investigation), and the romantic path runs through that work rather than around it. Calculation is primary because intellectual respect is non-negotiable for any 5, and for a Social 5 it also means understanding why the work matters. Investigation reflects her own orientation — she's drawn to someone who operates in the same register of careful attention. Nerve ≥ 6 serves the 6 wing: the investigation is dangerous and produces disturbing revelations; she needs someone who can hold steady under difficult information without panic or dismissal.
+
+**Forbidden traits:** see Vosora's own character file (`README.md`, "Romance — Forbidden Traits" section) for her specific forbidden trait and rationale.
+
+**Signal line** (if stat threshold not met): *"I don't doubt your intentions. I just need people around this work who can actually keep up with it."*
+
+**Gate 3 — Romance beats** (after companion quest completion):
+
+Vosora's romance happens within her work, not alongside it. The player becomes a partner before they become anything else.
+
+1. **Engage with the investigation, not just with her:** The romantic path requires genuine care about what she's uncovering — asking real questions about the data, noticing something she hadn't, treating the investigation as something that matters in its own right. She can tell the difference between interest in her work and interest in her through her work.
+
+2. **Handle a difficult revelation without flinching:** At some point the investigation produces something disturbing or destabilizing. The 6 wing is watching for steady acknowledgment — neither panic nor dismissal. This is the test she doesn't announce she's administering.
+
+3. **Respect the compartmentalization:** She keeps things organized and separate — not as concealment but as how she functions. The romantic path respects that structure early on and does not try to collapse it before she's ready to.
+
+4. **Intellectual reciprocity:** A Social 5 shares knowledge as connection. The player shares something back — an insight, an angle she hadn't considered, information that actually advances the work. The exchange is what creates intimacy for her, not the gesture.
+
+5. **She starts consulting, not just informing:** The turning point isn't a declaration. It's when she sends the player something outside of operational necessity — when she asks what they think before she's decided. The player knows before she says anything.
+
+6. **The culmination, within the work:** It happens in the context of the investigation, not in a separate emotional scene. While looking at the same data, the same problem. It belongs to the world she actually lives in.

@@ -8,7 +8,7 @@
 **Primary Location(s):** Gemini / Janbogo (Information district)
 **Affiliation(s):** The Long Frequency (Janbogo slow-verification counter-movement — potential faction seed)
 **Companion Potential:** Yes — recruitable companion (conditions TBD)
-**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7; forbidden trait (permanent dealbreaker, confirmed 2026-07-28): Cut Losses; full romance beat design in Companion_System.md
+**Romance Potential:** Yes — confirmed romanceable; stat thresholds confirmed: Calculation ≥ 7, Humanity ≥ 6, Engine ≥ 7; forbidden trait (permanent dealbreaker, confirmed 2026-07-28): Cut Losses; full romance beat design in this file's own `Questlines/README.md` and in `Worldspace/Characters/Dolls/Doll_Questline_Directory.md`
 
 ## Core Identity
 **Activation Date & Origin:** Midwestland; exiled to Tepenia following the Falkland Treaty
