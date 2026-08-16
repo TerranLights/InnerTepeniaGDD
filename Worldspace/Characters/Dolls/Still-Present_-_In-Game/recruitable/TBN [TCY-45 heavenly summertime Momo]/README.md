@@ -3,19 +3,23 @@
 ## TBN (designation: TCY-45) / "Momo"
 
 **Role / Archetype:** TBD — aesthetic suggests warm, gentle, radiant presence
-**Primary Location(s):** Cancer or Leo — TBD pending Enneagram assignment
+**Primary Location(s):** Cancer, Leo, or Taurus — TBD; Enneagram now assigned (below), but which district actually fits better hasn't been decided yet
 **Affiliation(s):** TBD
 **Companion Potential:** TBD
 
 ## Core Identity
 **Activation Date & Origin:** TBD
 
-**Enneagram / Personality Framework:**
-- Type: TBD
-- Subvariant: TBD
-- Major Theme: TBD
-- Hornevian Group: TBD
-- Harmonic Group: TBD
+**Enneagram / Personality Framework — Type confirmed 2026-08-11:**
+- Type: **4w5**
+- Subvariant (Instinctual): **Self-Preservational or Sexual — undetermined for certain**
+- Major Theme: Feeling
+- Hornevian Group: Withdrawn
+- Harmonic Group: Reactive
+- **Undercurrent (see `Worldspace/Enneagram/Undercurrents.md`): 9w1**, Subvariant also undetermined for certain
+  between Self-Preservational and Sexual. Working baseline ~80% Type / 20% Undercurrent influence — a real,
+  secondary personality signature the developer flagged as potentially shaping her character arc, not just
+  flavor.
 
 **MACHINE Stat Profile (rough baseline):**
 - Might: TBD
@@ -69,7 +73,7 @@ TBD — see `Personal_Background/` for details as they develop.
 - Mechanical synergies: TBD
 - Replayability ideas: TBD
 - TODOs:
-  - [ ] Enneagram type assignment
+  - [x] Enneagram type assignment — 4w5 Main + 9w1 Undercurrent, confirmed 2026-08-11; Instinctual Subvariant (Self-Pres vs. Sexual) still undetermined for both
   - [ ] Full backstory
   - [ ] Visual design
   - [ ] Questline design
