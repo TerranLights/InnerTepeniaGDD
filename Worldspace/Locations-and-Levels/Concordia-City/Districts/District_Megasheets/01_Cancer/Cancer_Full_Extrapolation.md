@@ -534,29 +534,272 @@ worked examples.
 
 ---
 
+---
+
+## XVIII. Cuisine, Music, and Arts (District Culture Development Plan, Phase 7)
+
+**Proposed.** Native to Cancer, developed here — distinct from the transplanted food, music, and craft traditions
+`District_Refugee_Diaspora_Composition.md` already records arriving with Esperanza, Zukelli, Mawson, and Cape
+Adare populations.
+
+### Cuisine — human
+
+**The central food object is a pot that is never emptied.** Cancer's communal broth kitchens are already
+established as never closing; the native practice underneath that is a **perpetual pot** — never finished,
+never started fresh, topped up continuously with whatever comes in, running without interruption for years and
+in a few celebrated cases for generations. A kitchen's pot has a known age, and that age is a real point of
+neighbourhood pride. The district's own belief system (Finding XI) makes this more than a cooking method: a
+pot nobody lets stop is the same act as a routine nobody lets stop, performed with stock instead of habit.
+Letting a pot go out is a small local tragedy and, in the older kitchens, a genuine scandal.
+
+**Distinct from Taurus's Long Stew Rotation**, which is household-based, closed, and moves between families on
+a schedule. Cancer's is public, static, permanently open, and belongs to nobody.
+
+**Social context.** Food here is not hospitality and not celebration — it is **the default form of unasked
+help**. Being handed something to eat is what happens in Cancer when someone can see you need something and
+doesn't want to make you say so; it is the edible form of the Quiet Register. Refusing food is therefore a
+much heavier social act than refusing food elsewhere, and everyone knows it.
+
+### Cuisine — robot / siligel
+
+**Siligel in Cancer is prepared, not dispensed, and this is the district's sharpest culinary divergence from
+the rest of Concordia.** The national baseline treats siligel as maintenance intake
+(`Robot_Physiology_and_Cultural_Practices.md`). In a district where feeding someone is how care is expressed,
+that framing doesn't survive contact with local culture: Cancer siligel is made *by someone, for someone*,
+adjusted to a specific unit's known wear and current condition, and handed over in person. A machine that
+simply dispenses it reads, locally, as neglect. **Siligel kitchens run alongside the broth kitchens on the
+same never-closing principle**, and often in the same building, which means the district's two populations eat
+in the same rooms at the same hours — quietly one of the more unusual things about Cancer, and something a
+visitor from a more segregated district notices immediately.
+
+**Coolant and glitch-coolant.** Per the national variety-vs-potency axis, Cancer sits in neither pole cleanly
+and this is characteristic rather than a dodge: its glitch-coolant culture is **deliberately, self-consciously
+moderate** — limited in strength by local convention rather than by supply, because a large share of the
+district's robot population is on call for work where being impaired is a real problem. What Cancer developed
+instead is **timing**: glitch-coolant is drunk in specific protected contexts where someone else is explicitly
+covering for you, most often in the Communal Warm-Soak Houses' late hours. The custom is not "drink weak" but
+"never drink un-covered," and arranging cover for someone is itself a recognized favour on the Green Ledger.
+
+### Music
+
+**Cancer's musical culture is participatory, not performative — the structural opposite of Leo's.** The
+established lullaby-masters are genuine specialists, but they are not the district's music; the district's
+music is that **essentially everyone sings, constantly, and competence is beside the point.** This is why the
+Mega-Init's ambient distant singing is always audible somewhere: it is not performance drifting over from a
+venue, it is ordinary people singing while doing other things, and nobody is listening critically. A resident
+who cannot sing well sings anyway, and would be puzzled to be told this was notable.
+
+**The one form treated seriously** is singing to someone who cannot respond — an unconscious patient, a dying
+person, an unresponsive unit. This is where the lullaby-masters' actual craft lives, and it is judged, taught,
+and taken very seriously indeed. The distinction residents draw is not between good and bad singers but
+between singing *with* someone and singing *to* someone who cannot answer.
+
+**Instrumentation is minimal and mostly percussive-incidental** — the district is already saturated with
+windbell sound (Finding IX), and local music tends to work with that ambient layer rather than over it.
+
+### Arts & Aesthetics
+
+**Visual art:** Cancer's real folk-art form is the **Window Reach** (Finding VIII) — thousands of individual
+arm's-length compositions in living plant matter, paint, hung objects, and carving, renewed constantly, with
+no curation and no permanence. It is the largest body of art in the district by an enormous margin and none of
+it is signed or considered art by the people making it.
+
+**Craft:** the Second Chair Workshops (memorial furniture) and the bell foundry (Finding X) are the two
+recognized skilled trades. They sit oddly beside each other — one makes objects for the dead, one makes
+objects that are simply pleasant — and the district is comfortable with that.
+
+**Literature — the outcome notice.** Cancer is an oral culture that writes almost nothing down (Finding XIII),
+with exactly one exception: the permanently posted record of successful outcomes. Consequently **the outcome
+notice is Cancer's only genuine literary form**, and there is a real, recognized craft to writing one well —
+brief, plain, specific, naming the person and what changed, without sentiment and without claiming more than
+happened. Well-written notices are quietly admired and sometimes copied out and kept. Badly written ones —
+vague, boastful, or over-warm — are a recognized local embarrassment.
+
+---
+
+## XIX. Human-Robot Relations, Counterculture, and Private Life (District Culture Development Plan, Phase 7)
+
+**Proposed.**
+
+### Human-Robot Relations
+
+**Cancer's local inflection on the national egalitarian baseline is that here the two populations are raised
+together from the beginning.** The Paired Creches — already established, where newly activated robots and human
+infants are cared for side by side — mean a substantial share of Cancer-born residents of both kinds have known
+the other population intimately since before memory. This produces a baseline ease that reads as unusual
+elsewhere in Concordia: cross-population households, lifelong friendships that began in a creche, and a general
+absence of the small hesitations that mark first contact in districts where the populations are raised apart.
+Cancer people are recognizable in other districts partly by this — they treat robots and humans with an
+identical unthinking familiarity that reads as either admirable or slightly presumptuous depending on where
+they are.
+
+**And there is one real asymmetry running against it, which the district does not discuss.** The Mother's
+Circuit (Finding XIII) is a robot-only channel. In a district whose whole social fabric is built on shared
+visibility, Cancer's robots have an information layer about the district's emotional state that Cancer's humans
+simply do not have access to. Nobody designed this as an exclusion and no robot experiences it as an advantage,
+but it is structurally real, humans are broadly aware it exists, and the district's habit of not naming
+uncomfortable things (Finding IV) means it goes almost entirely unaddressed.
+
+### Underground / Counterculture — those who decline
+
+**Derived from what Cancer compels.** The district requires, of everyone, that you be legible as needing help:
+unlocked doors, the Quiet Register, open-door hours, the care-debt ledger, the Mother's Circuit. Almost nothing
+here is enforced and all of it is expected. The counterculture is therefore not criminal and not political — it
+is **people who decline to be cared for.**
+
+They lock their doors. They keep their windows bare, taking no part in the Window Reach. They will not appear
+on the Green Ledger in either direction, refusing both help and the obligation to give it, which in a district
+with no currency effectively means opting out of the economy. Some arrange, in advance and in writing, that no
+Keeping of theirs is to be adopted after they die — the sharpest possible rejection of Cancer's central
+promise. They are not organized, they have no name for themselves, and they do not gather; the closest thing to
+a community among them is a mutual, recognizing, entirely silent acknowledgement between people who have made
+the same choice.
+
+**The genuinely painful part, and the thing that makes this a real conflict rather than a curiosity:** Cancer
+cannot bring itself to simply leave them alone. Within the district's own framework, refusing care is
+indistinguishable from being unable to ask for it — which is precisely what the Quiet Register exists to catch.
+Every act of withdrawal is therefore read as a symptom requiring gentler, more persistent attention, and the
+more firmly someone declines the more concerned their neighbours become. It is a trap with no villain in it:
+sincere care, applied to people who have clearly said no, by a culture that has no way to hear that as an
+answer.
+
+### Private Life & Minority Communities
+
+**The integration bargain: you may keep anything private except the fact that you need something.** Cancer
+extends unusual latitude on belief, origin, household arrangement, and personal history — Finding III's founding
+logic means there was never an in-group whose norms had to be adopted. What it does not extend latitude on is
+concealment of need, and every minority community here negotiates against that single point rather than against
+a demand to assimilate generally.
+
+**The established concrete case** is the privacy-reserved thread — Zhongshan-descended residents and others from
+non-prying founding cultures (Finding V), long since structurally inside the district while still finding its
+informational openness genuinely uncomfortable. Behind closed doors, such households commonly maintain a
+**second, private reckoning** — their own quiet internal record of what they owe and are owed, kept separately
+because they cannot bring themselves to leave it entirely to the informal social memory the Green Ledger runs
+on. It is not a rejection of the care-debt economy; it is participation in it with a hidden backup.
+
+**Generational cost:** children raised in such households grow up bilingual in the district's two modes and
+frequently end up as informal intermediaries — the people other reserved households send to deal with a
+Circuit House matter or an over-attentive neighbour.
+
+---
+
+## XX. Municipal Holidays (District Culture Development Plan, Phase 7)
+
+**Proposed.** Three native observances, distinct from Federation-wide holidays and from the transplanted
+observances the diaspora file records.
+
+- **The Giving Down** *(late in the growing cycle; public, practical, unsentimental)* — the Growing Towers'
+  annual heavy-propagation period, when surplus cuttings and rooted stock exceed what the export trade can move.
+  The overflow is given away: to other districts, to arrivals, to anyone who turns up. There is no ceremony
+  attached and residents would resist adding one. It is Cancer at its most characteristic — a genuine
+  civic-scale act of generosity conducted with the emotional register of a delivery schedule.
+
+- **Reach Day** *(mid-year; public, competitive, and entirely unserious)* — the one day the Window Reach
+  (Finding VIII) is formally judged. Neighbourhoods walk each other's streets, argue vigorously about
+  arm's-length garden compositions, and award nothing but bragging rights. It is loud by Cancer standards,
+  genuinely funny, occasionally petty, and the single least solemn thing the district does. Visitors are
+  frequently surprised by it, having been told Cancer is a sad place.
+
+- **The Standing Match** *(early in the year; quiet, semi-public)* — the day on which adoptions of unkept
+  Keepings (Finding XI) are formally matched. Volunteers and lapsed patterns are brought together, and the
+  matches made are witnessed rather than announced. It is the most solemn date in the district's own calendar
+  and is deliberately kept small — Cancer's instinct is that an adoption is a private obligation that happens to
+  need a witness, not a public occasion.
+
+## XXI. Cross-District Consequences and Clarifications
+
+**Proposed.** Three points surfaced by the completion QA pass — two consequences Cancer's own new infrastructure
+imposes on its neighbours, and one internal clarification.
+
+**The Growing Towers vent into shared air, and Cancer is not the only district living in it.** Concordia is
+enclosed. Warm saturated air pushed high by the towers (Finding VIII) does not leave the city — it migrates,
+and the districts nearest Cancer receive a measurably damper draught than they otherwise would. This is a
+genuine, long-standing, low-grade civic irritation rather than a crisis: nobody is harmed, but condensation
+appears where neighbours would rather it didn't, and Cancer is periodically and unsuccessfully asked to do
+something about it. The district's position — that the towers feed the hydroponic supply the whole city eats
+from — is both true and self-serving, which is exactly why the complaint never resolves. Worth carrying into
+neighbouring districts' own passes rather than leaving as a Cancer-only detail.
+
+**Windbells and Taurus.** Cancer's one manufactured export (Finding X) is a noise-making object, and Taurus
+enforces quiet hours as a real institution. The two districts also share Concordia's most established internal
+migration route, Cancer-to-Taurus. The result is not that Taurus refuses them: Taurus buys Cancer windbells
+readily and hangs them **indoors**, in sheltered courtyards and interior passages where they sound only when a
+door is opened. Cancer bell-makers know this and produce a recognized quieter, lower-toned variant specifically
+for the Taurus trade — a small, concrete, entirely amicable instance of two districts' cultures shaping a
+physical object between them.
+
+**The Long Room and the Threshold Waiting Rooms are not the same institution.** The Threshold Waiting Rooms are
+short-stay, daytime, and reactive: somewhere to decompress for an hour after receiving hard news, before going
+home to family. The Long Room (Finding XVI) is overnight and ongoing: somewhere to sleep near other people for
+as many nights as needed, used by residents who simply cannot be alone at night. Different duration, different
+hour, different need. In practice many residents use both, and it is common to be walked from one to the other
+by whoever is with them.
+
+---
+
 ## Worth Your Attention
 
 **Original standout, unchanged:** Finding IV — the overcrowding strain being real but hidden behind institutional
 walls rather than visible on the street — still resolves what would otherwise be a genuine contradiction between
 Cancer's documented capacity crises and its calm, unhurried street-level Vision Notes, without discarding either.
 
-**Standout of the full 7-phase pass (Findings VIII-XVII, rewritten from scratch 2026-08-16):** **Finding XI's
-problem of the unkept, and Finding XVII's Finding 2 following from it.** Naming Cancer's belief system was the
-easy half; the half that actually matters is that a religion of continuation has to answer what happens when
-continuation fails, and Cancer's answer — strangers adopting the routines of people they never met, with robots
-quietly carrying most of that load because they outlive everyone around them — gives the district a genuine
-moral centre it did not previously have. The Long Shelf, where unadopted Keepings wait indefinitely and nothing
-is ever thrown away, is the single most useful new location this pass produced.
+**Standout of the full pass (Findings VIII-XXI):** **Finding XI's problem of the unkept, and Finding XVII's
+Finding 2 following from it.** Naming Cancer's belief system was the easy half; the half that matters is that a
+religion of continuation has to answer what happens when continuation fails. Cancer's answer — strangers
+adopting the routines of people they never met, with robots quietly carrying most of that load because they
+outlive the households around them — gives the district a moral centre it did not previously have. The Long
+Shelf, where unadopted Keepings wait indefinitely and nothing is ever discarded, is the single most useful new
+location the pass produced.
 
-**Second, worth flagging separately:** the **Window Reach** (Finding VIII) is the most broadly applicable new
-idea here — a universally-held right to alter your own wall as far as your arm reaches. It explains, mechanically
-and at general-population scale, how an institution-dense district still reads as personal and hand-made, and it
-supplies texture to Architecture, Sensory Profile, Ordinary Daily Life, and Thematic Breadth simultaneously.
+**Second, most broadly applicable:** the **Window Reach** (Finding VIII) — a universally-held right to alter
+your own wall as far as your arm reaches. It explains, mechanically and at general-population scale, how an
+institution-dense district still reads as personal and hand-made, and it feeds Architecture, Sensory Profile,
+Ordinary Daily Life, Arts, and Thematic Breadth simultaneously. It is also the district's entire visual-art
+tradition (Finding XVIII) and one of its three holidays (Finding XX).
 
-**Process note for the remaining districts.** This rewrite exists because the first pass re-labelled existing
-canon instead of generating new culture, and never actually researched the district's real-world picks. Doing
-that research properly produced the Window Reach, the split token, Attunement, the Long Shelf, the windbells,
-the Growing Towers, the posted-outcomes record, and the work-term transition — none of which existed in any
-form before. **Four of Cancer's eight picks (Père Lachaise, Arcosanti, Findhorn, Hundertwasserhaus) had never
-been used at all**, and three of those four produced the strongest material in this file. Assume the same is
-true of every remaining district's unused picks.
+**Third, and the most useful thing Phase 7 produced:** the **perpetual pot** (Finding XVIII) — communal broth
+kitchens whose stock is never finished and never restarted, running for years or generations, their age a point
+of neighbourhood pride. It is the district's central belief performed with food instead of habit, and unlike
+most of Cancer's memorial culture it is entirely ordinary, entirely daily, and not sad.
+
+**Tonal note worth protecting.** Cancer is easy to write as unrelentingly mournful, and the passes above
+deliberately resist that. **Reach Day** (Finding XX) is loud, competitive, and funny; the **windbells**
+(Finding X) are pleasant objects with no memorial content; the **Ofrenda** (Finding XI) brings real colour and
+celebration; and the perpetual pot is a source of pride rather than grief. A player should be able to spend a
+long time in Cancer and find it warm rather than heavy. Preserve that balance in anything added later.
+
+---
+
+## QA — Completion Check (District Culture Development Plan)
+
+**Run 2026-08-16.** Gates 1-8 per `Phase_Instructions/00c_Completion_QA_Checklist.md`.
+
+- **Gate 1 — Template coverage.** PASS after remediation. The pass initially completed with six template
+  sections unwritten; Phase 7 (Findings XVIII-XX) closed Cuisine incl. siligel, Music, Arts & Aesthetics,
+  Human-Robot Relations, Underground/Counterculture, Private Life & Minority Communities, and Municipal
+  Holidays. All sections marked Phase 1-8 in the Plan's audit table are now answered.
+- **Gate 2 — General-population discipline.** PASS after remediation. Fashion (Finding XII) was rewritten after
+  initially describing caregiver work clothing as the district default. Music (Finding XVIII) was written
+  general-first by design — the lullaby-masters are scoped as specialists, and the general finding is that
+  everyone sings badly and constantly.
+- **Gate 3 — Contradiction check against Ordinary Daily Life.** PASS. Findings XVIII-XXI checked against
+  Finding XV's population picture; the non-caregiving majority is reflected in the bell trades, propagation
+  work, and the counterculture's opt-out from the care economy.
+- **Gate 4 — Swap Test.** PASS. Swapped against Scorpio (the sibling founding-era district responding to the
+  same original wound by the opposite method). Continuation-vs-confrontation breaks every finding cleanly: a
+  perpetual pot, an adopted routine, and a district that cannot hear "no" as an answer are all
+  continuation-logic artifacts with no Scorpio equivalent.
+- **Gate 5 — Cross-district consistency.** PASS with two consequences promoted to canon in Finding XXI (tower
+  venting into shared enclosed air; windbells vs. Taurus quiet hours, resolved as an indoor-hung quieter
+  variant). No new religion or faction required inventing here beyond Keeping, which was already established
+  in this pass and is properly named and grounded.
+- **Gate 6 — Duplicate institutions.** PASS with one clarification promoted to canon in Finding XXI (the Long
+  Room vs. the pre-existing Threshold Waiting Rooms — different duration, hour, and need).
+- **Gate 7 — Unused research captured.** Recorded: the *balie* (the Ospedale's wet nurses, sometimes the birth
+  mothers themselves), della Robbia's swaddled-infant facade medallions, the snakes and dogs sleeping among
+  patients in Epidaurus's abaton, and Eden's Fibonacci-geometry Core building. None fused; all remain available
+  for a future expansion pass.
+- **Gate 8 — Standout recorded.** Yes, in Worth Your Attention above.
+
+**Verdict: COMPLETE.** Cancer is the reference example for the remaining twelve districts.

@@ -343,7 +343,10 @@ entry = needs full development from scratch.
 - Visitor Experience / Transition — **Done** (Finding XIV — **a term of shared work**, then simply staying)
 - Ordinary Daily Life — **Done** (Finding XV — **Attunement** as the district's most-performed daily practice, entirely non-grief)
 - Thematic Breadth Catalog — **Done** (Finding XVI — The Turning, The Long Room, **The Long Shelf**, The Pit Gardens, The Foundry, votive forms, reach-band tools)
-- Robot-Specific Culture — **Done** (Finding XVII — robots hold most adopted Keepings because they outlive the households around them; first-pass, full Robot Universals triage still pending)
+- Robot-Specific Culture — **Done** (Finding XVII, Phase 8 — robots hold most adopted Keepings because they outlive the households around them; first-pass, full Robot Universals triage still pending)
+- Native Culture — **Done** (Findings XVIII-XX, Phase 7 — the **perpetual pot** and prepared-not-dispensed siligel; participatory rather than performative music; the outcome notice as the district's only literary form; Paired-Creche-derived human-robot intimacy plus the Mother's Circuit asymmetry; **the counterculture of those who decline to be cared for**, and Cancer's inability to hear refusal as anything but a symptom; three holidays including the deliberately unserious **Reach Day**)
+- Cross-district consequences — **Done** (Finding XXI — tower venting into shared enclosed air; windbells vs. Taurus quiet hours resolved as an indoor-hung quieter variant; Long Room vs. Threshold Waiting Rooms distinguished)
+- **QA — Completion Check: PASSED** (all 8 gates, `Phase_Instructions/00c_Completion_QA_Checklist.md`, recorded at the foot of the district's own file)
 - **Why rewritten:** the first pass re-labelled existing canon rather than generating new culture, and "applied" the Real-World Basis method from memory instead of researching. Redone with actual research on all eight picks; **four had never been used at all** (Père Lachaise, Arcosanti, Findhorn, Hundertwasserhaus) and three of those four produced the file's strongest material. **This is the reference example for the other 12 districts** — see `Real-World_Basis_Extrapolation_Method.md`'s worked-example table.
 
 ### 02 — Taurus — **ALL 7 PHASES COMPLETE (2026-08-16)**
@@ -518,8 +521,10 @@ for the "already has it" districts needing promotion rather than fresh writing) 
 - [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (3/13 done: Cancer, Taurus, Leo; 10 new remain)
 - [ ] Phase 5 — Ordinary Daily Life (3/13 done: Cancer, Taurus, Leo; 10 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
 - [ ] Phase 6 — Thematic Breadth Catalog (3/13 done: Cancer, Taurus, Leo; 10 new remain; places/things/people-as-placeholders/settings per district)
+- [ ] Phase 7 — Native Culture (1/13 done: Cancer; 12 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
 - [x] Phase 8 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/08...md` §1
 - [ ] Phase 8 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
+- [ ] **QA Completion Check** (1/13 passed: Cancer; 12 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. Taurus and Leo have not been QA'd and are known to predate Phase 7, the research-first rule, and the general-population discipline.)
 
 Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and
