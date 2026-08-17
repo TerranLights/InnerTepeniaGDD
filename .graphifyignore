@@ -1,0 +1,36 @@
+# graphify scope for the Inner Tepenia GDD knowledge graph.
+#
+# What the graph is for: the game's own content — lore, in-world history, the
+# Tepenian universe, design and mechanics. Everything the project actually
+# authored.
+#
+# What is deliberately out: source books, papers, treaties, and other
+# real-world reference media. Those are reading material, not game content.
+# What we need from them has already been extracted by hand into
+# Reference/Real-World/ (and into the design files themselves), and that
+# extracted material IS in scope. There is no value in graphing the PDFs and
+# EPUBs themselves, and doing so would dominate extraction cost with noise.
+
+# --- Real-world source media (44 GB of books, PDFs, and bundled sample code)
+Reference/Materials/
+
+# --- More real-world source media living outside Reference/ (95 PDFs, 19 EPUBs)
+to-be-integrated/books/
+to-be-integrated/treaties/
+
+# --- graphify's own output
+graphify-out/
+
+# --- Explicitly kept in scope, for the record (no pattern needed, listed as
+#     documentation of intent):
+#       Worldspace/                 core lore, characters, factions, locations
+#       Background-Lore/            per-city historical vignettes
+#       Storyline/                  quests, endings, DLC
+#       Neo-Races-and-Cultures/     culture catalogs
+#       Game-Mechanics/             systems design
+#       Reference/Real-World/       hand-extracted research (the useful residue
+#                                   of the excluded source media)
+#       Reference/Images/           maps and visual reference
+#       Dev-Road-Map/, Code-Architecture/, Theoretical-Calculations/,
+#       General-Overview-Notes/, to-be-integrated/ (minus books & treaties),
+#       and the root logs (TODO.md, DONE.md, README.md)

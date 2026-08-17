@@ -15,3 +15,8 @@ Worldspace/Factions/basis collection - robot religions/**/*.m4a
 Reference/Materials/books/*
 to-be-integrated/books/*
 Repo_Text_Size_Log.md
+
+# graphify build artifacts — machine-specific (absolute paths), regenerable.
+# The build plan is kept: it is the resume contract.
+graphify-out/*
+!graphify-out/BUILD_PLAN.md
