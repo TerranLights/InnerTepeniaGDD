@@ -1,7 +1,7 @@
 # District Source Index
 
 **Written 2026-08-16.** Companion file to `District_Culture_Development_Plan.md` — a full inventory of every
-file in the repo that carries real content about each of Concordia's 13 districts, so Phases 1-7 have a known
+file in the repo that carries real content about each of Concordia's 13 districts, so Phases 1-8 have a known
 source base to work from instead of re-discovering it district by district. Built from a direct structural
 audit of the `Districts/` folder plus a dedicated repo-wide sweep (`Storyline/`, `Worldspace/` outside
 Districts, `Game-Mechanics/`, `Dev-Road-Map/`, `Background-Lore/`, `Neo-Races-and-Cultures/`, `TODO.md`,
@@ -11,7 +11,7 @@ not game content, pure noise for this purpose.
 **How to read this file:** Part 1 lists sources that apply to all 13 districts uniformly (same file pattern,
 different district plugged in, or one shared file with a section per district). Part 2 lists genuine
 district-specific extras — the material that doesn't exist symmetrically across all 13, which is exactly the
-material most worth knowing about before starting Phases 1-7.
+material most worth knowing about before starting Phases 1-8.
 
 ---
 
@@ -23,7 +23,7 @@ material most worth knowing about before starting Phases 1-7.
 |---|---|
 | `District_Megasheets/{NN}_{Name}/README.md` | current-era district overview |
 | `District_Megasheets/{NN}_{Name}/{Name}_Mega_Init.md` | current-era Hard Facts / founding-init data |
-| `District_Megasheets/{NN}_{Name}/{Name}_Full_Extrapolation.md` | current-era Roman-numeral Findings — **this is where Phases 1-7 content gets appended** |
+| `District_Megasheets/{NN}_{Name}/{Name}_Full_Extrapolation.md` | current-era Roman-numeral Findings — **this is where Phases 1-8 content gets appended** |
 | `District_Megasheets/{NN}_{Name}/{Name}_Cross_Reference_Synthesis.md` | current-era inter-district Findings |
 | `District_Megasheets_PreWar/{NN}_{Name}/` (same 4 files) | identical structure, pre-war state |
 | `Deep_Dives/{NN}_{Name}_Deep_Dive.md` | narrative-finding deep dive, diaspora-informed |
@@ -63,7 +63,7 @@ material most worth knowing about before starting Phases 1-7.
 | `../Concordia_Second_Interwar_Cultural_Sheet.md`, `../World_Map_Boundaries.md`, `../city-and-district_layout_-_preliminary_suggestions.md` | Concordia-level layout/founding/climate context |
 | `Outside-World/Tepenian-Federation/Locations/Cities/Specs/Concordia.md` | Concordia's own city-spec entry among the outer-city Specs files |
 | `Outside-World/Tepenian-Federation/Locations/Cities/City_Refugee_District_Affinities.md` | reverse-direction map: all 35 outer cities → their top-3 Concordia district refugee-affinity picks |
-| `Reference/Images/Maps/Concordia_City_-_Extended_map_-_with_labels_-_Color-Coded_by_District.jpeg` | the actual color-coded radial city map — confirms Hub-centric layout, wildly uneven district sizes (Sagittarius/Capricorn huge outer-ring giants with no Hub contact vs. Gemini/Leo/Aquarius/Scorpio/Aries/Virgo/Libra small Hub-adjacent wedges), and the 3 highway ramps (2 in Sagittarius, 1 at Capricorn/Sagittarius border) — load-bearing for all 7 phases, see `District_Culture_Development_Plan.md`'s Governing Methodology §4 |
+| `Reference/Images/Maps/Concordia_City_-_Extended_map_-_with_labels_-_Color-Coded_by_District.jpeg` | the actual color-coded radial city map — confirms Hub-centric layout, wildly uneven district sizes (Sagittarius/Capricorn huge outer-ring giants with no Hub contact vs. Gemini/Leo/Aquarius/Scorpio/Aries/Virgo/Libra small Hub-adjacent wedges), and the 3 highway ramps (2 in Sagittarius, 1 at Capricorn/Sagittarius border) — load-bearing for all 8 phases, see `District_Culture_Development_Plan.md`'s Governing Methodology §4 |
 
 ### Storyline / mechanics files with a per-district slice (confirmed genuinely symmetric)
 
@@ -194,8 +194,8 @@ material most worth knowing about before starting Phases 1-7.
 ## Known real gaps this index surfaces
 
 - **Virgo has no confirmed anchor doll/companion** — every other district has at least one. Worth deciding
-  whether this matters before Phase 6 (Thematic Breadth) or Phase 7 (Robot-Specific Culture) reach Virgo.
+  whether this matters before Phase 6 (Thematic Breadth) or Phase 8 (Robot-Specific Culture) reach Virgo.
 - **Capricorn's core injustice mechanism** is still an open decision (4 contenders, `06b_Capricorn_Alternative_Conditions.md`) — this plausibly blocks a clean Phase 5/6 pass for Capricorn specifically.
 - **Three dolls have undecided district homes** touching Cancer/Leo/Taurus (`Momo`, `Mei-Li`) and Hub/Pisces
-  (`Maria`) — resolving these isn't required to run Phases 1-7, but content written for the affected districts
+  (`Maria`) — resolving these isn't required to run Phases 1-8, but content written for the affected districts
   should stay compatible with either outcome until resolved.

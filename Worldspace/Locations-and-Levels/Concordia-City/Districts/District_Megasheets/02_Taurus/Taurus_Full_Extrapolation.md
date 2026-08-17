@@ -117,9 +117,9 @@
 
 ---
 
-## XIV. Robot-Specific Culture — the capstone (District Culture Development Plan, Phase 7)
+## XIV. Robot-Specific Culture — the capstone (District Culture Development Plan, Phase 8)
 
-**Scope note, same as Cancer's own Phase 7 pass:** works from Taurus's own already-established robot-population material plus the confirmed Tepenia-Wide Robot Culture Canon, not a full chapter-by-chapter *Robot Universals* triage — that fuller pass is planned as a later follow-on across all 13 districts (see the Plan file's own "Planned follow-on" section).
+**Scope note, same as Cancer's own Phase 8 pass:** works from Taurus's own already-established robot-population material plus the confirmed Tepenia-Wide Robot Culture Canon, not a full chapter-by-chapter *Robot Universals* triage — that fuller pass is planned as a later follow-on across all 13 districts (see the Plan file's own "Planned follow-on" section).
 
 **Lens:** theme/role-based — Taurus's robot population organizes around the district's own defining vocation, **domestic permanence and lineage**.
 

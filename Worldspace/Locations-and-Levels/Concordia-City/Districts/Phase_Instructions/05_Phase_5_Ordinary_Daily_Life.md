@@ -28,7 +28,7 @@ hours, go home, go to bed, and repeat — that's the failure mode this phase exi
 not just Scorpio.
 
 This applies equally to **human and robot residents** — a robot's version of "ordinary daily life, distinct
-from institutional purpose" is exactly what Phase 7 will need as raw material.
+from institutional purpose" is exactly what Phase 8 will need as raw material.
 
 ---
 
@@ -121,8 +121,8 @@ district's material naturally produces.
   have different textures.
 - **Don't skip escapism/downtime** — it's the element most likely to get cut for space, and it's explicitly
   required by the governing instruction.
-- **This phase feeds directly into Phase 7.** Write with an eye toward "what would a robot's version of this
-  actually look like," even when focusing on the human population, since Phase 7 will need to draw on this
+- **This phase feeds directly into Phase 8.** Write with an eye toward "what would a robot's version of this
+  actually look like," even when focusing on the human population, since Phase 8 will need to draw on this
   material directly.
 
 ---

@@ -9,6 +9,24 @@ Experience, Visitor-to-Resident Transition, Fashion), and likely-genuinely-N/A (
 Seasonal Rhythms — all 13 districts share Concordia's own single language and climate, so these shouldn't be
 forced into district-level content).
 
+> ### ⚠ RE-AUDIT, 2026-08-16 — the tiers above account for only 16 of the 32 sections
+>
+> Caught immediately after Cancer's full 7-phase pass: Cancer cleared every phase and **still had no Cuisine,
+> no Music, no Arts, no Counterculture, no Municipal Holidays, and no district-level Human-Robot Relations** —
+> and `siligel`, established Tepenia-wide robot-food canon, appeared zero times in the entire file. Sixteen of
+> the template's thirty-two sections were never classified into any tier, so no phase was ever assigned to
+> them.
+>
+> **The specific reasoning error:** several missing categories were waved off as "already covered in fragments
+> by `District_Refugee_Diaspora_Composition.md`." That file covers what feeder populations **brought in**. It
+> does not cover what the district itself **developed**. Transplanted ≠ native, and a district whose only
+> cuisine is other cities' cuisine has no cuisine.
+>
+> The corrected full-32 classification is in the "Complete template audit" section below. It adds **Phase 7**
+> for the seven genuinely-missing native-culture categories, and a mandatory closing QA gate
+> (`Phase_Instructions/00c_Completion_QA_Checklist.md`) so that no district can be marked complete with silent
+> gaps again.
+
 **Purpose of this file:** a real, finishable plan for closing every one of those gaps, district by district —
 not another "ongoing/never-closed" work area like the weapon/gear catalog. The end state this plan targets:
 every one of the 13 districts reaches parity with the outer cities' template on every category that genuinely
@@ -33,6 +51,52 @@ generation) and aren't folded in here; they're noted for awareness, not treated 
 
 ---
 
+## Complete template audit — all 32 sections (2026-08-16)
+
+Every section of `Local_Cultures/CITY_CULTURE_TEMPLATE.md`, classified for districts. Four verdicts:
+**Covered** (real district material already exists elsewhere, under a different name), **Phase N** (this plan
+handles it), **Absorbed** (legitimately answered inside another category rather than needing its own), and
+**N/A** (genuinely doesn't apply to a district as opposed to a city).
+
+| # | Template section | Verdict | Where it lives / why |
+|---|---|---|---|
+| 1 | National/Ethnic Composition | Covered | `District_Refugee_Diaspora_Composition.md`, weighted per district |
+| 2 | Founding Story | Covered | Mega-Init Hard Facts + `Historical_Pressures.md` |
+| 3 | Climate Character | Absorbed | Districts *do* have distinct micro-climates (Cancer humid, Leo notably warm) — answered inside Sensory Profile, Phase 1. The original "N/A" call was too hasty but the content lands correctly. |
+| 4 | Seasonal Rhythms | N/A | Concordia is enclosed; no district-level seasonal variation established |
+| 5 | Post-Culture Identity | Covered | Mega-Init One-Line Pitch + Canon Reference "What It Really Is" |
+| 6 | Social Contract & Unwritten Rules | Covered | Canon Reference "Cultural Texture" — genuinely strong for every district |
+| 7 | Who This District Attracts | Covered | Mega-Init "Who Lives Here, and Why" |
+| 8 | Language | N/A | Shared city-wide. *Open question flagged:* district-specific jargon/slang may still be real — see QA checklist. |
+| 9 | Architecture | **Phase 1** | |
+| 10 | Cuisine (human / social / **robot-siligel**) | **Phase 7** | **Was missing entirely.** The siligel sub-section is the most serious omission — established national canon, zero district coverage. |
+| 11 | Fashion | **Phase 2** | |
+| 12 | Music | **Phase 7** | **Was missing.** Cancer's lullaby tradition is canon and was never developed as a musical culture. |
+| 13 | Arts & Aesthetics | **Phase 7** | **Was missing** — visual arts, literature, crafts |
+| 14 | Sensory Profile | **Phase 1** | |
+| 15 | Division of Industry | Absorbed | Occupations in Canon Reference "Inhabitants"; economic structure in Phase 1's Export Culture and Phase 5's Ordinary Daily Life |
+| 16 | Human-Robot Relations | **Phase 7** | **Was missing.** Distinct from Phase 8's Robot-Specific Culture: that covers robot culture *among robots*, this covers how the two populations actually relate *in this district*. |
+| 17 | Robot-Specific Culture | **Phase 8** | |
+| 18 | Religious / Philosophical Landscape | **Phase 2** | |
+| 19 | Underground / Counterculture | **Phase 7** | **Was missing**, and it is the richest of the seven — every district with a strong dominant culture generates something that pushes against it. |
+| 20 | Private Life & Minority Communities | **Phase 7** | **Was missing** — the integration bargain, public face vs. behind closed doors |
+| 21 | Political Character | Covered | Cross-Reference Synthesis + Canon Reference |
+| 22 | Relationship to Upper Earth | N/A | A Concordia-level and national-level relationship, not a district-level one |
+| 23 | Relationship to Other Districts | Covered | `District_Natural_Allies.md`, `Historical_Inter-District_Effects.md`, Cross-Reference Synthesis |
+| 24 | Arcanet Culture | **Phase 3** | |
+| 25 | Export Culture | **Phase 1** | |
+| 26 | Municipal Holidays | **Phase 7** | **Was missing.** A standing TODO already flags holiday gaps project-wide. |
+| 27 | Visitor Experience | **Phase 4** | |
+| 28 | Visitor-to-Resident Transition | **Phase 4** | |
+| 29 | Notable Local Landmarks | Covered | `Regional-Characteristics/District_Prominent_Features.md`, extended by Phase 6 |
+| 30 | Significant Local Events | Covered | `Historical_Pressures.md` |
+| 31 | Notable Figures | Covered | Full Extrapolation's own Notable Figures finding |
+| 32 | Diaspora Character in Concordia | N/A | Self-referential for a district — they *are* in Concordia |
+
+**Totals:** 12 Covered · 2 Absorbed · 4 N/A · 14 assigned to Phases 1-8.
+
+---
+
 ## Why Robot-Specific Culture goes last, not first
 
 Robot-Specific Culture is the hard blocker for the eventual goal, but it's blocked *because* the groundwork
@@ -52,17 +116,25 @@ opener — everything else in this plan exists to give it something real to buil
 
 This plan says *what* to close and in *what order*; it doesn't invent its own writing process — the project
 already has one, mirrored for districts from the outer-city Megasheet method. Three existing files govern how
-Phases 1-7's content actually gets synthesized. Read them before starting any phase, not just this plan.
+Phases 1-8's content actually gets synthesized. Read them before starting any phase, not just this plan.
+
+**For the generative toolkit — how new culture actually gets invented — see
+`../../Cultural_Synthesis_Techniques.md`.** Fourteen named techniques (Bounded Personal Franchise, Failure State
+of the Core Value, Universal Micro-Practice, Ambiguous Universal Object, Retroactive Mechanism, Necessity Before
+Meaning, Surviving Witness, Asymmetric Record-Keeping, Non-Thematic Export, Membership by Unremarked
+Persistence, Negative Image, Native Before Transplanted, Unused-Tier Mine, Population Share Check), each with a
+divergence table showing the same operation producing unlike results in unlike places. The phase files say what
+to cover; the toolkit says how to invent it. **Never carry one district's answers into another.**
 
 **For extensive, phase-by-phase how-to instructions, see `Phase_Instructions/`** (added 2026-08-16) — one
-dedicated, self-contained file per phase (`00_Index.md` plus `01_Phase_1_...md` through `07_Phase_7_...md`),
+dedicated, self-contained file per phase (`00_Index.md` plus `01_Phase_1_...md` through `08_Phase_8_...md`),
 each going far deeper than this section into category definitions, sources, step-by-step process, per-district
 status, output format, and phase-specific pitfalls. This section stays a compressed summary; the phase files are
 the actual execution reference.
 
 1. **`City_Megasheet_Compilation_Guide.md`** (Outside-World/.../City_Megasheets/), explicitly mirrored for
    districts (see `Cancer_Mega_Init.md`'s own header). Its Step 2 posture — **"invent, but every invention has
-   to be traceable back to something already established"** — is the one that governs Phases 1-7 directly,
+   to be traceable back to something already established"** — is the one that governs Phases 1-8 directly,
    since all new content lands in each district's `Full_Extrapolation.md`, the same file Step 2 produces. Concrete
    rules from it that carry over unchanged: name things specifically rather than leaving placeholder concepts
    abstract; frame every new section as proposed extrapolation, not locked canon; and — already a *pre-existing*
@@ -81,7 +153,7 @@ the actual execution reference.
    - Standing rule from this same guide, binding for every phase: **every new Full_Extrapolation section closes
      with its own "Worth Your Attention" callout**, written into the file itself, not left only in chat.
 2. **`00b_Two_Stage_Methodology.md`** — Stage 1 (organic ~250-year pre-war formation, 2564-2812) vs. Stage 2 (the
-   Long Night War's fallout acting on an already-formed community, 2812 onward). Most of Phases 1-7's content is
+   Long Night War's fallout acting on an already-formed community, 2812 onward). Most of Phases 1-8's content is
    present-day (Architecture-as-it-stands, current Fashion, current Ordinary Daily Life), but *why* something
    looks the way it does routinely reaches back into Stage 1 causation — keep the two layers distinct rather
    than treating a district's whole character as war-caused.
@@ -103,7 +175,7 @@ which file or section it lives in.
 4. **The color-coded district map** — `Reference/Images/Maps/Concordia_City_-_Extended_map_-_with_labels_-_Color-Coded_by_District.jpeg`.
    (A second version of this map with quest-route arrows overlaid also exists in the same folder — **still
    tentative, not yet confirmed canon, don't reference it in phase work until the developer says otherwise.**)
-   Added 2026-08-16 — genuinely load-bearing spatial data that applies across **all seven phases**, not just
+   Added 2026-08-16 — genuinely load-bearing spatial data that applies across **all eight phases**, not just
    Architecture. Confirmed from the map:
    - **Concordia is a literal radial city.** The Hub (unlabeled small white circle) sits at the exact geometric
      center; all 12 zodiac districts arrange in wedges radiating outward from it. This isn't just narrative
@@ -150,7 +222,7 @@ written). Resolving these definitions is a prerequisite step, done once, not per
   a district's own defining civic identity or industry (Cancer's caregiving, Aquarius's whatever Aquarius's
   identity resolves to, etc.) is what a district's robot population organizes its own culture around, the way a
   workplace or a calling shapes a subculture rather than a homeland does. This lens gets decided once, then
-  applied per district in Phase 7.
+  applied per district in Phase 8.
 - **Religious/Philosophical Landscape.** Same shape as the city version — which of Tepenia's established robot
   religions (Polydimensional Animism, etc.) and human belief systems have real presence in this district, and
   how the district's own defining character (grief-heavy Cancer vs. whatever Libra's is) inflects practice.
@@ -185,7 +257,7 @@ written). Resolving these definitions is a prerequisite step, done once, not per
   these — a resident's daily routine has to happen somewhere, among some people, using some things — so this
   phase is the direct, systematic follow-through: naming and cataloging what Phase 5 only implied. This is what
   actually gives level design and quest writing enough varied, concrete material to work with, and gives
-  Robot-Specific Culture (Phase 7) a full physical/social world to embed itself in, not just a single thematic
+  Robot-Specific Culture (Phase 8) a full physical/social world to embed itself in, not just a single thematic
   landmark repeated in different shapes. **Rule for the "people" entries (developer instruction, 2026-08-16):
   no actual names.** Write these as role/archetype placeholders only — "a veteran repair-shop owner," "a
   recurring streetside vendor," "the neighborhood's informal mediator" — never invented proper names. The
@@ -201,7 +273,7 @@ written). Resolving these definitions is a prerequisite step, done once, not per
 
 ---
 
-## Execution order (7 phases)
+## Execution order (8 phases)
 
 Phased by category across all 13 districts, not district-by-district in isolation — this keeps each category's
 depth and tone consistent across all 13 before moving to the next, the same way the outer cities' work was
@@ -227,7 +299,15 @@ pursued as systematic category sweeps rather than one city being finished in iso
    (role/archetype only, no invented names — see mini-definition above), and settings that exist because a real
    population lives there, refracted through the district's theme rather than restating it literally. Directly
    follows through on what Phase 5's daily-life routines already implied but didn't itemize.
-7. **Phase 7 — Robot-Specific Culture.** The capstone. Requires the theme/role-based lens decision above, then
+7. **Phase 7 — Native Culture.** *(Added 2026-08-16 by the full-32 re-audit. Robot-Specific Culture, previously
+   Phase 7, was renumbered to Phase 8 so this could take its correct position in the sequence.)* The seven
+   categories the original tier analysis missed entirely: Cuisine including robot/siligel culture, Music, Arts
+   & Aesthetics, Human-Robot Relations, Underground/Counterculture, Private Life & Minority Communities, and
+   Municipal Holidays. It sits before Phase 8 because four of the seven feed it directly — a district's
+   siligel culture, its human-robot relations, its counterculture, and its private-life bargain are all inputs
+   to Robot-Specific Culture, not outputs of it. **Native, not transplanted** is its governing discipline. See
+   `Phase_Instructions/07_Phase_7_Native_Culture.md`.
+8. **Phase 8 — Robot-Specific Culture.** The capstone. Requires the theme/role-based lens decision above, then
    draws on every prior phase — Architecture, Sensory Profile, Religious/Philosophical, Fashion, Ordinary Daily
    Life, and now the Thematic Breadth Catalog especially, since robot culture needs an actual populated world
    (places/things/people) to embed itself in — exactly mirroring how the outer cities' Local Robot Culture drew
@@ -276,7 +356,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — **Done** (Finding XI)
 - Ordinary Daily Life — **Done** (Finding XII, Phase 5)
 - Thematic Breadth Catalog — **Done** (Finding XIII, Phase 6)
-- Robot-Specific Culture — **Done** (Finding XIV, Phase 7 — first-pass; full Robot Universals triage still pending)
+- Robot-Specific Culture — **Done** (Finding XIV, Phase 8 — first-pass; full Robot Universals triage still pending)
 - Second district to complete the full 7-phase process.
 
 ### 03 — Leo — **ALL 7 PHASES COMPLETE (2026-08-16)**
@@ -289,7 +369,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — **Done** (Finding XI)
 - Ordinary Daily Life — **Done** (Finding XII, Phase 5)
 - Thematic Breadth Catalog — **Done** (Finding XIII, Phase 6)
-- Robot-Specific Culture — **Done** (Finding XIV, Phase 7 — first-pass; full Robot Universals triage still pending)
+- Robot-Specific Culture — **Done** (Finding XIV, Phase 8 — first-pass; full Robot Universals triage still pending)
 - Third district to complete the full 7-phase process.
 - **Resolved during this pass, 2026-08-16:** the pending Leo Star War issue ([[project_leo_star_war_resolution_and_rename_pending]]) was fixed opportunistically — Findings II and IV in `Leo_Full_Extrapolation.md` (and the Mega_Init's Hard Facts row) were stale against the confirmed 2026-07-29 Combined Version and have been corrected. Per direct developer instruction, "The Star War" is not used anywhere in this file's new or corrected material — the replacement name itself remains undecided and deliberately deferred, referred to descriptively instead.
 
@@ -303,7 +383,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 - Note: Scorpio's diaspora composition is the Stage 2 Override case (Casey/Zukelli/Belgrano/Palmer City, grief-driven, not ordinary affinity) — Fashion and Religious/Philosophical content here should account for that same grief-driven character rather than defaulting to a generic treatment.
 
 ### 05 — Aries
@@ -316,7 +396,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 
 ### 06 — Capricorn
 - Architecture — needed
@@ -328,8 +408,8 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
-- Note: `Staging/07_Capricorn_Robot_Rights_National_Parallel.md` exists but is a labor/political-rights thread, not robot-*culture* content — confirmed not a substitute for the Phase 7 Robot-Specific Culture Finding, though it may be worth cross-referencing once that Finding is written.
+- Robot-Specific Culture — needed (Phase 8)
+- Note: `Staging/07_Capricorn_Robot_Rights_National_Parallel.md` exists but is a labor/political-rights thread, not robot-*culture* content — confirmed not a substitute for the Phase 8 Robot-Specific Culture Finding, though it may be worth cross-referencing once that Finding is written.
 
 ### 07 — Aquarius
 - Architecture **+** (has it)
@@ -341,7 +421,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 
 ### 08 — Libra
 - Export Culture **+** (has it, but only in `README.md`/`Libra_Mega_Init.md` — promote into a proper
@@ -354,7 +434,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 
 ### 09 — Gemini
 - Arcanet Culture **+** (incidental mentions in Full_Extrapolation/Mega_Init/README — promote into one
@@ -367,7 +447,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 - Note: Gemini is the Stage 2 Override target for Zukelli specifically — same grief-adjacent consideration as Scorpio, narrower in scope.
 
 ### 10 — Pisces
@@ -380,7 +460,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 
 ### 11 — Sagittarius
 - Architecture **+** (has it)
@@ -392,7 +472,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 
 ### 12 — Virgo
 - Architecture — needed
@@ -404,7 +484,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 
 ### 13 — Hub
 - Architecture — needed
@@ -416,7 +496,7 @@ entry = needs full development from scratch.
 - Visitor Experience / Visitor-to-Resident Transition — needed
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 7)
+- Robot-Specific Culture — needed (Phase 8)
 - Note: the Hub's diaspora is almost entirely "overflow," not affinity-driven (per `District_Refugee_Diaspora_Composition.md`) — its Visitor Experience / Visitor-to-Resident Transition entry is likely the single most load-bearing of all 13, since the Hub's whole identity runs through people arriving without a natural first destination.
 
 ---
@@ -438,29 +518,29 @@ for the "already has it" districts needing promotion rather than fresh writing) 
 - [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (3/13 done: Cancer, Taurus, Leo; 10 new remain)
 - [ ] Phase 5 — Ordinary Daily Life (3/13 done: Cancer, Taurus, Leo; 10 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
 - [ ] Phase 6 — Thematic Breadth Catalog (3/13 done: Cancer, Taurus, Leo; 10 new remain; places/things/people-as-placeholders/settings per district)
-- [x] Phase 7 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/07...md` §1
-- [ ] Phase 7 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
+- [x] Phase 8 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/08...md` §1
+- [ ] Phase 8 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
 
-Once all seven phases are checked complete, the districts are at genuine parity with the outer cities' template
+Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and
 the Thematic Breadth Catalog — Local District Robot Culture can then begin the same way the outer-city version
 did, on solid ground rather than in isolation.
 
 ---
 
-## Planned follow-on (after all 13 districts clear all 7 phases): a full Robot Universals triage pass
+## Planned follow-on (after all 13 districts clear all 8 phases): a full Robot Universals triage pass
 
 **Developer instruction, 2026-08-16 — not yet started, explicitly gated on every district finishing all 7
-phases first.** Cancer's own Phase 7 pass (`Cancer_Full_Extrapolation.md` Finding XVII) was run without loading
+phases first.** Cancer's own Phase 8 pass (`Cancer_Full_Extrapolation.md` Finding XVII) was run without loading
 the complete *Robot Universals* reference text in full (`TepenianUniverseTimeline/Reference/Robot_Universals/`)
 — it worked instead from Cancer's own already-established robot-population material plus the confirmed
 Tepenia-Wide Robot Culture Canon, and said so honestly rather than overclaiming a full triage. Once every
-district has been through all 7 phases once, run a dedicated second pass, district by district: go through
+district has been through all 8 phases once, run a dedicated second pass, district by district: go through
 *Robot Universals* chapter by chapter and identify the specific shapes/forms each universal takes in that
 particular district — the same **Universal-by-Universal Triage** step already described in
-`Phase_Instructions/07_Phase_7_Robot_Specific_Culture.md` §3, just run properly against the complete text this
+`Phase_Instructions/08_Phase_8_Robot_Specific_Culture.md` §3, just run properly against the complete text this
 time, now that every district has a full Phase 1-7 foundation (not just Phase 5/6-level material) to triage
 each universal against. This is a deliberate second look, not a correction of anything wrong in the first pass —
-Phase 7's own first-pass findings (theme/role-based, grounded in each district's established material) remain
+Phase 8's own first-pass findings (theme/role-based, grounded in each district's established material) remain
 valid; this pass exists to catch whatever a proper universal-by-universal walk surfaces that a
 material-first approach wouldn't.

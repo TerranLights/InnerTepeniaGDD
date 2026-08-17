@@ -39,16 +39,25 @@ loosely, and left four untouched; when the research was actually run, three of t
 produced the strongest material in the district. See that file's worked-example table — it is the reference
 standard for what a properly-executed pass looks like.
 
+**The generative toolkit: `../../Cultural_Synthesis_Techniques.md`.** Fourteen named techniques, each a
+*question with a structure* rather than an answer, with divergence tables showing the same operation producing
+unlike results across different kinds of place. This is where the actual new culture comes from — the phase
+files say *what* to cover, the toolkit says *how to invent it*. Its one hard rule: **never carry another
+location's answers into a new one.** If two places produce similar-shaped answers to the same technique, at
+least one is wrong.
+
 ## Files
 
 0. `00b_General_Population_Discipline.md` — cross-phase discipline, read first, every phase, every district
+0. `00c_Completion_QA_Checklist.md` — the closing gate; a district is complete only when it passes all 8 gates
 1. `01_Phase_1_Lived-in_Texture.md` — Architecture, Sensory Profile, Export Culture
 2. `02_Phase_2_Identity_and_Meaning.md` — Religious/Philosophical Landscape, Fashion
 3. `03_Phase_3_Arcanet_Culture.md`
 4. `04_Phase_4_Visitor_Experience_and_Transition.md`
 5. `05_Phase_5_Ordinary_Daily_Life.md`
 6. `06_Phase_6_Thematic_Breadth_Catalog.md`
-7. `07_Phase_7_Robot_Specific_Culture.md`
+7. `07_Phase_7_Native_Culture.md` — Cuisine (incl. siligel), Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays
+8. `08_Phase_8_Robot_Specific_Culture.md`
 
 ## Status
 

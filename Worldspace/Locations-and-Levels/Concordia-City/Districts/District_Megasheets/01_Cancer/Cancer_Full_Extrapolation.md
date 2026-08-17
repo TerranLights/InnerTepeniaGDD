@@ -50,7 +50,7 @@
 
 ---
 
-## District Culture Development Plan — Phases 1-7
+## District Culture Development Plan — Phases 1-8
 
 **Rewritten from scratch 2026-08-16**, replacing an earlier, weaker first pass. The first attempt leaned too
 heavily on re-labeling material Cancer already had, and in two places presented a narrow professional or
@@ -462,14 +462,14 @@ entries are role placeholders only, never named — binding developer instructio
 
 ---
 
-## XVII. Robot-Specific Culture (District Culture Development Plan, Phase 7)
+## XVII. Robot-Specific Culture (District Culture Development Plan, Phase 8)
 
 **Scope note.** This pass works from Cancer's established robot-population material plus the confirmed
 Tepenia-wide robot-culture canon; it is **not** a full chapter-by-chapter *Robot Universals* triage, which lives
 in the `TepenianUniverseTimeline` repo and is planned as a separate follow-on across all 13 districts (see the
 Plan's "Planned follow-on" section). Stated plainly rather than overclaimed.
 
-**Lens:** theme/role-based, per the finalized Phase 7 decision — Cancer's robot population organises its culture
+**Lens:** theme/role-based, per the finalized Phase 8 decision — Cancer's robot population organises its culture
 around the district's defining vocation, **care and continuation**. Per `00b`, this describes the district's
 general robot population, not only its caregiving models; Cancer also runs foundry, propagation, maintenance,
 transit, and administrative units, and they are included below.
@@ -527,9 +527,9 @@ descent, reckoning, rebirth; Cancer's is continuation. None of Findings 1-5 surv
 maintains an absent person's pattern for decades and a robot who guides someone through deliberate
 self-dissolution are answering the same question in structurally opposite ways. Genuinely Cancer-specific.
 
-**Output-shape decision (provisional).** Folded into `Cancer_Full_Extrapolation.md` alongside Phases 1-6 rather
+**Output-shape decision (provisional).** Folded into `Cancer_Full_Extrapolation.md` alongside Phases 1-7 rather
 than a separate `Local_District_Robot_Culture/` folder. The outer-city precedent chose a dedicated sibling
-folder; that question stays open for districts and should be settled before Phase 7 scales past the early
+folder; that question stays open for districts and should be settled before Phase 8 scales past the early
 worked examples.
 
 ---

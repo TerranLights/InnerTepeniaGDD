@@ -1,11 +1,11 @@
-# Phase 7 — Robot-Specific Culture
+# Phase 8 — Robot-Specific Culture
 
 **Purpose:** the capstone, and the actual downstream goal this entire plan exists to set up. Robot-Specific
 Culture was confirmed 0/13 — zero dedicated headings anywhere across all 13 districts. This is the hard blocker
 for the eventual **Local District Robot Culture** work (the direct parallel to the already-complete
 `Local_Robot_Culture/` treatment given to all 36 outer-world cities) — but it's blocked *because* the groundwork
 isn't there yet, exactly the same dependency that existed for outer cities before their own Local Robot Culture
-work began. Do not start this phase for a district until Phases 1-6 are done for that district.
+work began. Do not start this phase for a district until Phases 1-7 are done for that district.
 
 **Read `00b_General_Population_Discipline.md` first.** A narrow robot subtype's culture (one profession, one
 institution's staff) is not automatically the district's general robot-population culture — the same check
@@ -34,7 +34,7 @@ function* instead of *city/nation*.
 
 ## 2. Prerequisites
 
-**Hard prerequisite: Phases 1-6 complete for the target district.** This phase draws on every one of them
+**Hard prerequisite: Phases 1-7 complete for the target district.** This phase draws on every one of them
 directly — Architecture/Sensory Profile (where robots physically live/work, what the district feels like to a
 robot's senses), Religious/Philosophical Landscape/Fashion (what robots in this district might believe or wear),
 Arcanet Culture (network relationship), Ordinary Daily Life (what a robot resident's actual day looks like,
@@ -101,8 +101,8 @@ and the Input Category E canon files listed in the substitution table.
 
 ## 5. Per-district status
 
-All 13 districts: **blocked pending Phases 1-6.** Do not attempt Phase 7 for any district before its own
-Phases 1-6 are checked complete in `District_Culture_Development_Plan.md`'s progress tracker.
+All 13 districts: **blocked pending Phases 1-7.** Do not attempt Phase 8 for any district before its own
+Phases 1-7 are checked complete in `District_Culture_Development_Plan.md`'s progress tracker.
 
 ---
 
@@ -110,17 +110,17 @@ Phases 1-6 are checked complete in `District_Culture_Development_Plan.md`'s prog
 
 Per the outer-city precedent's own resolved output-shape decision (`Local_Robot_Culture_Methodology`'s own
 "RESOLVED — Output shape" note: build in a wholly separate, dedicated folder, not in-place expansion), the
-same question needs a decision for districts before Phase 7 content gets written: **does district Robot-Specific
+same question needs a decision for districts before Phase 8 content gets written: **does district Robot-Specific
 Culture get its own new `Local_District_Robot_Culture/` sibling folder (mirroring the outer-city structure), or
-does it fold into each district's own `Full_Extrapolation.md` like Phases 1-6?** Not yet decided — flag this as
-an open question to resolve at the start of the first district's actual Phase 7 pass, not something to default
+does it fold into each district's own `Full_Extrapolation.md` like Phases 1-7?** Not yet decided — flag this as
+an open question to resolve at the start of the first district's actual Phase 8 pass, not something to default
 silently either way.
 
 ---
 
 ## 7. Rules and pitfalls specific to this phase
 
-- **Don't start this phase for a district whose Phases 1-6 aren't done.** This is a hard, not soft, prerequisite
+- **Don't start this phase for a district whose Phases 1-7 aren't done.** This is a hard, not soft, prerequisite
   — the whole plan's sequencing exists to prevent exactly this mistake.
 - **Don't skip the mandatory translation step for Input D.** A real-world Inspirational-Influences parallel is
   never itself a robot custom.
@@ -134,5 +134,5 @@ silently either way.
 
 ## 8. Worked example
 
-None yet — this phase is gated behind Phases 1-6 for every district, and no district has cleared that gate as
+None yet — this phase is gated behind Phases 1-7 for every district, and no district has cleared that gate as
 of 2026-08-16.

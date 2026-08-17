@@ -81,12 +81,17 @@ hard blocker if Phase 1 hasn't run yet for a given district, but expect a weaker
 
 ## 4. Process
 
-**Step A — Religious/Philosophical Landscape: draw from the existing 6-religion roster before inventing a new
-one.** Check `Worldspace/Factions/Robot_Religions/` for a plausible fit first. Only propose a genuinely new
-belief system (like Pisces' Syncretic Religion) when the district's own established character doesn't map onto
-anything already in the roster — and when proposing one, follow Pisces' model: ground it in something the
-district already, verifiably has (a physical/sensory trait, a founding wound, a civic function), not an
-abstract theological invention.
+**Step A — Let the district's own character decide, and don't force it into the existing roster.** Check
+`Worldspace/Factions/Robot_Religions/` (six exist, at varying development) to see whether one genuinely fits —
+but **a brand-new belief system emerging from the analysis is a perfectly good outcome, not a problem.** That is
+part of the point of this whole synthesis: working out what a place is actually like will sometimes produce
+something no pre-existing category covers. Cancer's Keeping, Taurus's Recorded Bond, and Pisces' Syncretic
+Religion all arrived this way. The one real requirement is grounding: a new belief must come out of something
+the district verifiably already has — a physical or sensory trait, a founding wound, a civic function, an
+established practice nobody had named yet — rather than being an abstract theological invention dropped on top.
+If a new religion or faction does emerge, record it properly (name it, and cross-reference it from
+`Worldspace/Factions/Robot_Religions/` or `Worldspace/Factions/`) so it enters canon cleanly rather than living
+only inside one district's file.
 
 **Step B — Weight religious content by diaspora composition, then check what the district's own civic function
 adds.** A district's population isn't just its feeder cities' religions imported unchanged — ask what the

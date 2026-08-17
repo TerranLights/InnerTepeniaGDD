@@ -5,7 +5,7 @@ caregiving facilities any more than a real-world "government town" is wall-to-wa
 phase systematically catalogs the wider cast of places, things, people, and settings a district needs to feel
 like a real, lived-in place — refracted through its theme, not restating it literally. It's the direct,
 systematic follow-through on what Phase 5's daily-life routines already implied but didn't itemize, and it's
-what gives Phase 7 (Robot-Specific Culture) an actual populated world to embed itself in.
+what gives Phase 8 (Robot-Specific Culture) an actual populated world to embed itself in.
 
 **Read `00b_General_Population_Discipline.md` first** — this phase's own founding premise (theme, not thing) is
 the same principle as that file's rule, applied to places/things/settings instead of Fashion specifically: don't

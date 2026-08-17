@@ -4,14 +4,14 @@
 Architecture (4/13 districts had it), Sensory Profile (2/13), Export Culture (1/13, and even that one
 misplaced). This is the lowest-lift phase and the most direct physical foundation for everything after it:
 Phase 6 (Thematic Breadth) needs to know what a district looks/sounds/smells like before placing things in it,
-and Phase 7 (Robot-Specific Culture) needs to know what a district produces and where robots would physically
+and Phase 8 (Robot-Specific Culture) needs to know what a district produces and where robots would physically
 be before describing their culture.
 
 **Status as of 2026-08-16:** Cancer, Taurus, and Leo are done. **Read `00b_General_Population_Discipline.md`
 first** — Sensory Profile's "first impressions" sub-field is a real risk for the same narrow-context-as-default
 mistake caught in Fashion (Phase 2).
 
-## 0. Do the real-world research ONCE, up front, before Phase 1 — it feeds all seven phases
+## 0. Do the real-world research ONCE, up front, before Phase 1 — it feeds all eight phases
 
 **Added 2026-08-16, from Cancer's from-scratch rewrite.** `Real-World_Basis_Extrapolation_Method.md` was
 originally scoped mainly to Phase 6, on the assumption that places/things/people were where real-world picks
@@ -54,7 +54,7 @@ same bar cities were, adapted only where a district-specific translation is genu
 
 ## 2. Prerequisites
 
-None. Phase 1 is the entry point — every other phase either draws on it directly (Phase 6, Phase 7) or doesn't
+None. Phase 1 is the entry point — every other phase either draws on it directly (Phase 6, Phase 8) or doesn't
 depend on it at all (Phase 5). Safe to start immediately for any district.
 
 ---
