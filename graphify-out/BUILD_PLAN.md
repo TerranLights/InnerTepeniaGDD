@@ -10,7 +10,12 @@ universe. Real-world source media (`Reference/Materials/` 44 GB, `to-be-integrat
 `Reference/Real-World/` is kept, since that is the actual data.
 
 **Corpus after filtering:** 62,339 files → **2,763** (2,664 documents · 93 images · 6 papers) · ~3.3M words ·
-**137 extraction chunks**. Semantic extraction runs through host subagents (no `GEMINI_API_KEY` set).
+**137 extraction chunks**.
+
+**Extraction backend: host subagents. This is settled — do not re-raise it.** The developer has no way to set
+`GEMINI_API_KEY`/`GOOGLE_API_KEY`, so the Gemini path is unavailable, not merely unconfigured. The host agent
+is the LLM, dispatching `general-purpose` subagents per chunk, exactly as the skill's no-key path specifies.
+Future sessions should not suggest the key again or treat its absence as a blocker.
 
 ---
 
@@ -68,9 +73,29 @@ means: re-run the cache check above, dispatch the remaining chunks, then continu
 message, then merge and **write the cache**. The cache write is what makes the checkpoint durable — do not
 skip it, and do not batch several checkpoints before caching.
 
+> ### ⚠ "Failed: session limit" does NOT mean the agent is dead
+> Learned 2026-08-16. When the session limit hits, subagents report `status: failed` — but they are
+> **suspended, not terminated**, and several resumed on their own once the window reset and wrote correct
+> output hours later. Two chunks completed this way after being written off as lost.
+>
+> **Before re-dispatching anything after a window reset: run `ListAgents` and check the chunk files on disk.**
+> Re-dispatching a chunk whose original is still alive wastes a full agent's budget (~100k tokens) producing a
+> byte-identical result. Writes are idempotent so nothing breaks — the cost is pure waste. Check first.
+
+> ### ⚠ Dispatch in waves of 5, not 10
+> Learned 2026-08-16, the hard way: a first attempt at B1 dispatched all 10 chunks at once and **all ten died
+> on the session limit before a single one wrote its output** — 220 files read, zero yield. Each agent reads
+> ~22 lore files (~27k words) before it writes anything, so a wide fan-out spends a lot of budget with nothing
+> durable to show for it.
+>
+> **Dispatch 5 chunks per wave, and write the cache after every wave.** A 10-chunk checkpoint is therefore two
+> waves. This halves in-flight exposure and doubles the number of durable save points. The failure itself was
+> clean — no partial files, no poisoned cache — which is the design working, but the wasted spend is avoidable.
+
 **Per-checkpoint procedure**
-1. Dispatch that checkpoint's chunks — all Agent calls in a **single message**, `subagent_type="general-purpose"`,
-   each writing an absolute `graphify-out/.graphify_chunk_NN.json`.
+1. Dispatch that checkpoint's chunks **in waves of 5** — each wave's Agent calls in a **single message**,
+   `subagent_type="general-purpose"`, each writing an absolute `graphify-out/.graphify_chunk_NN.json`.
+   Cache after each wave (step 3) before starting the next.
 2. Merge chunk files → `.graphify_semantic_new.json`.
 3. `save_semantic_cache(..., allowed_source_files=<this checkpoint's files>, prompt_file=SPEC)`.
 4. Tick the box below, note the date.
@@ -78,11 +103,11 @@ skip it, and do not batch several checkpoints before caching.
 
 | # | Checkpoint | Landmark(s) | Chunks | Files | Done |
 |---|---|---|---|---|---|
-| B1 | Locations 1/4 | `Worldspace/Locations-and-Levels` | 10 | ~220 | [ ] |
-| B2 | Locations 2/4 | `Worldspace/Locations-and-Levels` | 10 | ~220 | [ ] |
-| B3 | Locations 3/4 | `Worldspace/Locations-and-Levels` | 10 | ~220 | [ ] |
-| B4 | Locations 4/4 | `Worldspace/Locations-and-Levels` | 6 | ~115 | [ ] |
-| B5 | Characters 1/4 | `Worldspace/Characters` | 10 | ~220 | [ ] |
+| B1 | Locations 1/4 | `Worldspace/Locations-and-Levels` | 10 | ~220 | [x] |
+| B2 | Locations 2/4 | `Worldspace/Locations-and-Levels` | 10 | ~220 | [x] |
+| B3 | Locations 3/4 | `Worldspace/Locations-and-Levels` | 10 | ~220 | [x] |
+| B4 | Locations 4/4 | `Worldspace/Locations-and-Levels` | 6 | ~115 | [x] |
+| B5 | Characters 1/4 | `Worldspace/Characters` | 10 | ~220 | [x] |
 | B6 | Characters 2/4 | `Worldspace/Characters` | 10 | ~220 | [ ] |
 | B7 | Characters 3/4 | `Worldspace/Characters` | 10 | ~220 | [ ] |
 | B8 | Characters 4/4 | `Worldspace/Characters` | 4 | ~69 | [ ] |
@@ -92,9 +117,26 @@ skip it, and do not batch several checkpoints before caching.
 | B12 | Storyline 2/2 | `Storyline` | 7 | ~148 | [ ] |
 | B13 | Systems & world rules | `Game-Mechanics`, `Worldspace/Factions`, `Worldspace/Enneagram`, `Worldspace/Robot_Biology_and_Culture`, `Worldspace` (loose) | 10 | ~173 | [ ] |
 | B14 | Research, drafts & meta | `Reference/Real-World`, `Reference/Images`, `Reference` (loose), `to-be-integrated`, `Neo-Races-and-Cultures`, `Dev-Road-Map`, `Code-Architecture`, `General-Overview-Notes`, `Theoretical-Calculations`, `testing`, root files | 20 | ~292 | [ ] |
+| B15 | **Gap-fill pass — mandatory, see warning above** | full-corpus cache check against all 2,763 detected files; dispatch whatever is still uncached (expect a handful of real strays like B2's 20, plus legitimate empty stubs) | — | — | [ ] |
+
+> ### ⚠ A "success" chunk can still silently drop specific files — verify per-checkpoint, don't trust the count
+> Learned 2026-08-17 on B2: after caching, 22 of B2's 220 files were still uncached. 2 were the expected
+> empty-stub case (harmless, matches B1's pattern). The other **20 were real files** — 9 concept-art `.jpg`s
+> (chunk B2_04) and 11 Janbogo-subnet Megasheet files (chunk B2_10) — whose subagents both reported clean
+> success with real node/edge counts, yet specific files from their own assigned list never produced a cached
+> entry. Most likely cause: a `source_file` value that didn't match `detect`'s path exactly (encoding, an
+> apostrophe in "Dumont d'Urville", etc.) — not investigated further because the chunk JSONs were already
+> deleted post-merge by the time this was caught.
+>
+> **Consequence:** a nonzero node/edge count is not proof a chunk's *entire* file list actually got cached.
+> **Do not chase individual stragglers mid-run** — it fragments effort. Instead: **after every checkpoint,
+> run the cache check scoped to that checkpoint's own file list (not just the merge step) and note the gap
+> count** in the log below, then keep moving. **B15 (below, after B14) is a mandatory full-corpus gap-fill
+> pass** that catches everything any checkpoint missed, in one pass, before Phase C builds the graph. Do not
+> skip B15 even if every checkpoint above looks clean.
 
 **Landmarks** (a whole content area finished — good natural stopping points):
-- [ ] 🏁 **Locations complete** — after B4. Every district, city, and level in the graph.
+- [x] 🏁 **Locations complete** — after B4. Every district, city, and level in the graph.
 - [ ] 🏁 **Characters complete** — after B8. All dolls, NPCs, companions.
 - [ ] 🏁 **Historical corpus complete** — after B10. Per-city vignettes and courses of events.
 - [ ] 🏁 **Narrative complete** — after B12. Quests, endings, DLC.
@@ -139,3 +181,8 @@ These are near-free compared to extraction, but each needs the one before it.
 | Date | Event |
 |---|---|
 | 2026-08-16 | Phase A complete. Scope agreed at full (2,763 files) after cost review. Extraction not yet started. |
+| 2026-08-17 | B1 (Locations 1/4) complete and cached: 214/214 real files (6 legitimately-empty stub files correctly left unstamped). 1,463 nodes, 3,099 edges, 30 hyperedges. First dispatch (10 at once) died to session limits with zero yield — no damage, but wasteful; switched to waves of 5. Learned mid-checkpoint that "failed: session limit" agents are suspended, not dead, and can resume on their own — check `ListAgents` + disk before ever re-dispatching. Real per-chunk runtime once actually executing is ~5-10 min, not hours. |
+| 2026-08-17 | B2 (Locations 2/4) complete and cached: 198/220 files cached, 22 uncached (2 legitimate empty stubs + **20 real files from chunks B2_04 and B2_10 that reported success but never cached** — see warning above). 511 nodes, 834 edges, 30 hyperedges. Added the mandatory B15 gap-fill checkpoint as a direct result. Waves of 5 ran clean this time with zero wasted re-dispatch, after checking `ListAgents` + disk first per the B1 lesson. |
+| 2026-08-17 | B3 (Locations 3/4) complete and cached: 220/220 files cached, 0 gaps. 435 nodes, 541 edges, 30 hyperedges. Both waves reported false "failed: session limit" (chunks 2, 4, 5 in wave 1) but all had actually written valid output to disk before the notification fired — confirmed via direct file check, no re-dispatch needed, zero wasted spend. |
+| 2026-08-17 | B4 (Locations 4/4) complete and cached: 115/115 files cached, 0 gaps. 201 nodes, 349 edges, 18 hyperedges. Again, 2 of 6 chunks reported false "failed: session limit" but had written valid output; confirmed via disk check, no re-dispatch. **Locations landmark complete** — all districts, cities, and levels are in the graph. |
+| 2026-08-17 | B5 (Characters 1/4) complete and cached: 220/220 files cached, 0 gaps. 369 nodes, 349 edges, 23 hyperedges. All 5 wave-2 chunks (6-10) reported false "failed: session limit" but had all written valid output; confirmed via disk check, no re-dispatch, zero wasted spend. |
