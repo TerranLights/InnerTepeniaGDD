@@ -110,7 +110,7 @@ skip it, and do not batch several checkpoints before caching.
 | B5 | Characters 1/4 | `Worldspace/Characters` | 10 | ~220 | [x] |
 | B6 | Characters 2/4 | `Worldspace/Characters` | 10 | ~220 | [x] |
 | B7 | Characters 3/4 | `Worldspace/Characters` | 10 | ~220 | [x] |
-| B8 | Characters 4/4 | `Worldspace/Characters` | 4 | ~69 | [ ] |
+| B8 | Characters 4/4 | `Worldspace/Characters` | 4 | ~69 | [x] |
 | B9 | Background-Lore 1/2 | `Background-Lore` | 11 | ~242 | [ ] |
 | B10 | Background-Lore 2/2 | `Background-Lore` | 11 | ~228 | [ ] |
 | B11 | Storyline 1/2 | `Storyline` | 8 | ~176 | [ ] |
@@ -137,7 +137,7 @@ skip it, and do not batch several checkpoints before caching.
 
 **Landmarks** (a whole content area finished — good natural stopping points):
 - [x] 🏁 **Locations complete** — after B4. Every district, city, and level in the graph.
-- [ ] 🏁 **Characters complete** — after B8. All dolls, NPCs, companions.
+- [x] 🏁 **Characters complete** — after B8. All dolls, NPCs, companions.
 - [ ] 🏁 **Historical corpus complete** — after B10. Per-city vignettes and courses of events.
 - [ ] 🏁 **Narrative complete** — after B12. Quests, endings, DLC.
 - [ ] 🏁 **Extraction complete** — after B14. Ready for the stretch goals.
@@ -188,3 +188,4 @@ These are near-free compared to extraction, but each needs the one before it.
 | 2026-08-17 | B5 (Characters 1/4) complete and cached: 220/220 files cached, 0 gaps. 369 nodes, 349 edges, 23 hyperedges. All 5 wave-2 chunks (6-10) reported false "failed: session limit" but had all written valid output; confirmed via disk check, no re-dispatch, zero wasted spend. |
 | 2026-08-22 | Resumed after a rate-limit checkpoint from 2026-08-17. Verified B5 was genuinely cached (967/2763 = exactly B1-B5 combined) before trusting the file's checkboxes, per "cache is authoritative." B6 (Characters 2/4) complete: wave 1 (chunks 1-5, 110 files) was already sitting on disk from before the interruption — verified valid, merged, and cached (110/110, 0 gaps). Wave 2 (chunks 6-10, 110 files) dispatched fresh: 127/220 files cached total for the checkpoint, 93 uncached. Unlike B2's silent-drop bug, every subagent in wave 2 explicitly reported the uncached files as unfilled template placeholders (most of the SHD-02/STP-06/STP-09/STP-10/TCY-02/SE-157/SE-164/IT-021/HKD-172 folders are dev stubs with no real content) — a legitimately high stub rate for this character batch, not a hidden extraction failure. Left for B15 gap-fill to double-check. 132 nodes, 175 edges, 8 hyperedges total for B6. |
 | 2026-08-22 | B7 (Characters 3/4) complete: both waves dispatched fresh this session (10 chunks, 220 files). 46/220 files cached (29 wave 1, 17 wave 2); the rest were confirmed by subagent reports as unfilled dev-stub templates (Loyalties/PreWar_History/Relationships/Timeline/War_Experiences/Logs-README consistently blank across the "unsure and/or special cases" and recruitable folders covered here — Lillian, Momo, WM-06, Mei-Li, Charlene, Angelina, Luna, Villena, Vosora, Calethina, Itzel, Leticia, Meifa, Nóra, Rosalva, Tiancheng, Duqing, Leeson, Yelan, Maria, Akina, Winola, Annika, Miranda, Genri). 154 nodes, 171 edges, 14 hyperedges total for B7. |
+| 2026-08-22 | B8 (Characters 4/4) complete: single wave, all 4 chunks (69 files) dispatched at once since it's under the 5-chunk wave cap. 32/69 files cached; remainder were blank z-template/character-stub files (Olivia, Miko, Irene, Ísabel, plus the two Dolls z-template scaffolds) confirmed empty by subagent reports, alongside real content from Major_NPCs, Minor_non-Doll_NPCs, Enneagram_Character_Index, Unnamed_Cancer_Defector, and the Upper-Earth Defectors summary/tie-in docs. 138 nodes, 144 edges, 8 hyperedges. **Characters landmark complete** — all dolls, NPCs, and companions are in the graph. |
