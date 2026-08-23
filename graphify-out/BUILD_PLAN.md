@@ -112,7 +112,7 @@ skip it, and do not batch several checkpoints before caching.
 | B7 | Characters 3/4 | `Worldspace/Characters` | 10 | ~220 | [x] |
 | B8 | Characters 4/4 | `Worldspace/Characters` | 4 | ~69 | [x] |
 | B9 | Background-Lore 1/2 | `Background-Lore` | 11 | ~242 | [x] |
-| B10 | Background-Lore 2/2 | `Background-Lore` | 11 | ~228 | [ ] |
+| B10 | Background-Lore 2/2 | `Background-Lore` | 11 | ~228 | [x] |
 | B11 | Storyline 1/2 | `Storyline` | 8 | ~176 | [ ] |
 | B12 | Storyline 2/2 | `Storyline` | 7 | ~148 | [ ] |
 | B13 | Systems & world rules | `Game-Mechanics`, `Worldspace/Factions`, `Worldspace/Enneagram`, `Worldspace/Robot_Biology_and_Culture`, `Worldspace` (loose) | 10 | ~173 | [ ] |
@@ -138,7 +138,7 @@ skip it, and do not batch several checkpoints before caching.
 **Landmarks** (a whole content area finished — good natural stopping points):
 - [x] 🏁 **Locations complete** — after B4. Every district, city, and level in the graph.
 - [x] 🏁 **Characters complete** — after B8. All dolls, NPCs, companions.
-- [ ] 🏁 **Historical corpus complete** — after B10. Per-city vignettes and courses of events.
+- [x] 🏁 **Historical corpus complete** — after B10. Per-city vignettes and courses of events.
 - [ ] 🏁 **Narrative complete** — after B12. Quests, endings, DLC.
 - [ ] 🏁 **Extraction complete** — after B14. Ready for the stretch goals.
 
@@ -190,3 +190,4 @@ These are near-free compared to extraction, but each needs the one before it.
 | 2026-08-22 | B7 (Characters 3/4) complete: both waves dispatched fresh this session (10 chunks, 220 files). 46/220 files cached (29 wave 1, 17 wave 2); the rest were confirmed by subagent reports as unfilled dev-stub templates (Loyalties/PreWar_History/Relationships/Timeline/War_Experiences/Logs-README consistently blank across the "unsure and/or special cases" and recruitable folders covered here — Lillian, Momo, WM-06, Mei-Li, Charlene, Angelina, Luna, Villena, Vosora, Calethina, Itzel, Leticia, Meifa, Nóra, Rosalva, Tiancheng, Duqing, Leeson, Yelan, Maria, Akina, Winola, Annika, Miranda, Genri). 154 nodes, 171 edges, 14 hyperedges total for B7. |
 | 2026-08-22 | B8 (Characters 4/4) complete: single wave, all 4 chunks (69 files) dispatched at once since it's under the 5-chunk wave cap. 32/69 files cached; remainder were blank z-template/character-stub files (Olivia, Miko, Irene, Ísabel, plus the two Dolls z-template scaffolds) confirmed empty by subagent reports, alongside real content from Major_NPCs, Minor_non-Doll_NPCs, Enneagram_Character_Index, Unnamed_Cancer_Defector, and the Upper-Earth Defectors summary/tie-in docs. 138 nodes, 144 edges, 8 hyperedges. **Characters landmark complete** — all dolls, NPCs, and companions are in the graph. |
 | 2026-08-23 | B9 (Background-Lore 1/2) complete: full 242/242 files cached, 0 gaps — this corpus is prose vignettes/course-of-events chains, not stub templates, so cache-hit rate was near-total (unlike Characters). Wave 1 hit the session limit mid-dispatch (chunks 2, 3, 5 reported "failed: session limit") but per the documented lesson all 5 chunks had already written valid output to disk — confirmed via `ListAgents` + direct file check, zero re-dispatch, zero wasted spend. Waves 2 and the final 22-file chunk 11 ran clean. 741 nodes, 900 edges, 33 hyperedges total for B9, covering Amundsen Station, Byrd, Halley subnet (Abowasa, Belgrano, Halley, Lazar, Neumayer, Princess Elisabeth, Sanay, Troll), and Janbogo subnet (Cape Adare, Denison, Dumont d'Urville, Fort McMurdo, Janbogo, Scott, Zukelli) plus Mawson subnet start (Dome Fuji, Mawson). |
+| 2026-08-23 | B10 (Background-Lore 2/2) complete: full 228/228 files cached, 0 gaps. Full-corpus cache check confirms 1,628/2,763 files cached total (exactly B1-B10 combined). Covered the rest of Mawson subnet (Sayowa) plus all of Mirny subnet (Casey, Davis, Kunlun, Mirny, Shirayuki, Sinheung, Vostok, Zhongshan) and Palmer subnet (Esperanza, Juan Carlos, Marambio, Palmer City, Port Lockroy, Rothera, Sejong, Signy), plus the Background-Lore/Cities README files. Ran across a usage-limit reset mid-checkpoint (between wave 1 and wave 2 dispatch); resumed cleanly with no lost work since nothing had been dispatched yet at the reset point. All three waves (5+5+1 chunk) ran clean with no session-limit failures this time. 802 nodes, 899 edges, 33 hyperedges total for B10. **Historical corpus landmark complete** — every per-city vignette and course-of-events chain is in the graph. |
