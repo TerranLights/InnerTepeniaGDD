@@ -10,7 +10,12 @@ from this file — this is a staging area, not permanent storage.
 folder is at Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/Imelda Sánchez/ [DLC 3/Palmer
 companion]. Jasmine has no folder in this repo — per developer decision 2026-08-15, she isn't significant
 enough within Tepenia's setting to be "known to" its citizens, so her file lives only in the
-TepenianUniverseTimeline repo, at Worldspace/Characters/Dolls/Jasmine Blakeley/.)
+TepenianUniverseTimeline repo, at Worldspace/Characters/Dolls/Jasmine Blakeley/.
+
+TBN [STP-06 thicc Chinese Hao], processed 2026-08-24, has also been cleared from this file. Her folder is at
+Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [STP-06 thicc Chinese Hao]/ — main-game
+recruitable roster, no DLC reassignment. **"Hao" remains an unofficial working name only** — the developer has
+not yet chosen her official name; see her README.md's Naming note and Design Notes TODO.)
 
 ---
 
