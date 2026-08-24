@@ -155,6 +155,12 @@ resume at the next unchecked checkpoint below. `PY=$(cat graphify-out/.graphify_
 `SPEC="/home/kuroskalacs/.claude/skills/graphify/references/extraction-spec.md"` are assumed set in every
 snippet. All commands run from the repo root with `INPUT_PATH='.'`.
 
+**No-delete policy for all of Phase C.** C2 is irreversible-shaped (see below), so every intermediate file
+this phase produces or reads (`.graphify_detect.json`, `.graphify_semantic.json`, `.graphify_extract.json`,
+`.graphify_ast.json`, `.graphify_analysis.json`, `.graphify_labels.json`) is kept as a backup for the whole
+phase, including past C6 where the skill's normal procedure would delete them. Do not run any cleanup/`rm`
+step in this phase without asking first.
+
 - [ ] **C0 — Assemble the full semantic cache into one file.** The B1-B15 checkpoints wrote to graphify's
       per-file cache, not to a single semantic JSON. Rebuild `.graphify_semantic.json` from the cache before
       merging with AST:
@@ -207,13 +213,15 @@ snippet. All commands run from the repo root with `INPUT_PATH='.'`.
       (unlikely here, but check the C2 node count first).
       **Resume marker:** `graphify-out/graph.html` exists.
 
-- [ ] **C6 — Save manifest, cost tracker, clean up, final report** (skill Step 9). This deletes the
-      intermediate `.graphify_*` scratch files (detect/extract/ast/semantic/analysis JSONs and any leftover
-      chunk files) — **do this last**, after C0-C5 are all confirmed done, since earlier checkpoints in this
-      section depend on those files still being present.
-      **Resume marker:** `graphify-out/cost.json` exists and updated; `graphify-out/graph.json`,
-      `GRAPH_REPORT.md`, and (if `--obsidian`/`--wiki` requested) the vault/wiki dirs are the only
-      `graphify-out/` artifacts left besides `BUILD_PLAN.md` and this file's siblings.
+- [ ] **C6 — Save manifest and cost tracker, final report.** Run skill Step 9's manifest/cost-tracker logic,
+      but **skip its cleanup lines entirely** — do not delete `.graphify_detect.json`, `.graphify_extract.json`,
+      `.graphify_ast.json`, `.graphify_semantic.json`, `.graphify_analysis.json`, or any `.graphify_chunk_*.json`
+      leftovers. Per explicit instruction, nothing gets deleted at any point in Phase C: these intermediates
+      are the backup if `graph.json`/`GRAPH_REPORT.md` ever need to be rebuilt or audited later. If disk
+      space becomes a real concern, ask before removing anything — don't default to graphify's normal
+      cleanup behavior here.
+      **Resume marker:** `graphify-out/cost.json` exists and updated; all intermediate `.graphify_*` files
+      from C0-C5 are still present alongside `graph.json`, `GRAPH_REPORT.md`, and `graph.html`.
 
 **After C6, the build is done.** Paste the God Nodes / Surprising Connections / Suggested Questions sections
 from `GRAPH_REPORT.md` into chat per the skill's normal closing behavior, and offer to trace the most
