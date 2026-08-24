@@ -8,6 +8,36 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+## Active Threads as of the 2026-08-16 → 2026-08-24 outage stretch
+
+Two parallel threads were in progress across a run of Claude weekly-limit resets coinciding with power outages
+at the developer's home. Recorded here as a resume point in case of another outage.
+
+- [x] **`/graphify` knowledge-graph build over the full GDD corpus — COMPLETE 2026-08-24**
+  Built a full knowledge graph of this repo via the `graphify` skill: 2,763 files detected, 2,504 semantically
+  extracted (259 confirmed legitimate empty dev-stub templates), yielding **9,128 nodes, 14,195 edges, 1,142
+  communities**. Outputs: `graphify-out/graph.json`, `graphify-out/GRAPH_REPORT.md`, `graphify-out/graph.html`.
+  Full checkpoint history (B1–B15 extraction, C0–C6 graph build) in `graphify-out/BUILD_PLAN.md`. Verified
+  correct post-build (node/edge counts cross-checked against the report, cache re-confirmed at 2,504/2,763,
+  no regression). Nothing further needed unless new content is added to the repo (`--update`) or specific
+  queries are wanted (`graphify query "<question>"`).
+
+- [ ] **District Culture Development Plan — 3/13 districts through partial phases, 1/13 through all 7**
+  `Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Culture_Development_Plan.md` — a 7-phase
+  gap-closing pass (Architecture, Sensory Profile, Export Culture, Religious/Philosophical Landscape, Fashion,
+  Arcanet Culture, Visitor Experience, Ordinary Daily Life, Thematic Breadth Catalog, Native Culture incl.
+  siligel cuisine/music/arts/human-robot relations/counterculture/private life/municipal holidays,
+  Robot-Specific Culture) across all 13 Concordia districts, closing the same template gaps the outer cities
+  already have filled. **Status:** Cancer, Taurus, and Leo have all started; **only Cancer has completed
+  Phase 7 (Native Culture) and passed the completion QA gate** (`Phase_Instructions/00c_Completion_QA_Checklist.md`).
+  Taurus and Leo predate Phase 7, the research-first rule, and the general-population-not-professional-role
+  discipline, and have not been QA'd. **10 districts** (Aquarius, Aries, Capricorn, Gemini, Libra, Pisces,
+  Sagittarius, Scorpio, Virgo, and the remaining district) haven't been started at all. See the plan file's
+  own checklist (bottom section) for exact per-phase counts. **Explicitly gated follow-on, not yet started:**
+  a full Robot Universals triage pass, district by district, once all 13 clear all 7 phases.
+
+---
+
 ## This Week's Absolute Top Priority *(set 2026-08-09, through ~2026-08-16)*
 
 Three items the developer named as the most direly urgent work of the week, in this order. See
