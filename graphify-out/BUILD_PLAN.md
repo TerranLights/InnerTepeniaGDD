@@ -147,18 +147,77 @@ work lives, so a half-built graph is already useful for it. B13/B14 are the long
 
 ---
 
-## Phase C — stretch goals (cheap, but gated on Phase B)
+## Phase C — build the graph (cheap, but gated on Phase B; each checkpoint needs the one before it)
 
-These are near-free compared to extraction, but each needs the one before it.
+Unlike Phase B, these steps are cheap (no subagent dispatch, no token cost worth tracking) but each writes a
+file that **is** the resume marker — if a window cuts out mid-Phase-C, check which marker file exists and
+resume at the next unchecked checkpoint below. `PY=$(cat graphify-out/.graphify_python)` and
+`SPEC="/home/kuroskalacs/.claude/skills/graphify/references/extraction-spec.md"` are assumed set in every
+snippet. All commands run from the repo root with `INPUT_PATH='.'`.
 
-- [ ] **C1 — Merge semantic + AST** → `.graphify_extract.json` (Step 3 Part C)
-- [ ] **C2 — Build, cluster, analyze** → `graph.json`, `GRAPH_REPORT.md` (Step 4)
-      Note the `#479` shrink-guard: `to_json` refuses to write a graph smaller than the existing one. If it
-      refuses, **do not force past it** — surface the message.
-- [ ] **C3 — Graph health check** (Step 4.5, read-only integrity gate)
-- [ ] **C4 — Label communities** and regenerate questions with real labels, then re-export (Step 5)
-- [ ] **C5 — HTML visualization** (Step 6). ⚠ Honesty rule: warn before running viz on >5,000 nodes.
-- [ ] **C6 — Save manifest, cost tracker, final report** (Step 9)
+- [ ] **C0 — Assemble the full semantic cache into one file.** The B1-B15 checkpoints wrote to graphify's
+      per-file cache, not to a single semantic JSON. Rebuild `.graphify_semantic.json` from the cache before
+      merging with AST:
+      ```
+      $PY -c "
+      import json
+      from graphify.cache import check_semantic_cache
+      from pathlib import Path
+      d = json.loads(Path('graphify-out/.graphify_detect.json').read_text(encoding='utf-8'))
+      all_files = [f for cat in ('document','paper','image') for f in d['files'].get(cat, [])]
+      cn, ce, ch, unc = check_semantic_cache(all_files, root='.', prompt_file='$SPEC')
+      merged = {'nodes': cn, 'edges': ce, 'hyperedges': ch, 'input_tokens': 0, 'output_tokens': 0}
+      Path('graphify-out/.graphify_semantic.json').write_text(json.dumps(merged, ensure_ascii=False), encoding='utf-8')
+      print(f'{len(cn)} nodes, {len(ce)} edges, {len(ch)} hyperedges assembled from cache ({len(unc)} files still uncached)')
+      "
+      ```
+      **Resume marker:** `graphify-out/.graphify_semantic.json` exists and its node count roughly matches
+      the 2,504-file cache tally. If `len(unc)` here is >259 (more than the known legitimate-empty count),
+      stop and investigate before proceeding — something regressed.
+
+- [ ] **C1 — Merge semantic + AST → `.graphify_extract.json`** (skill Step 3 Part C). AST is already
+      `0 nodes, 0 edges` (this corpus is prose, confirmed in Phase A) so this is really just a passthrough
+      of C0's output, but run the real merge code so the node/edge counts and provenance match the skill's
+      normal path.
+      **Resume marker:** `graphify-out/.graphify_extract.json` exists.
+
+- [ ] **C2 — Build, cluster, analyze → `graph.json`, `GRAPH_REPORT.md`** (skill Step 4). This is the first
+      **irreversible-shaped** step: `to_json` has a shrink-guard (`#479`) that refuses to write a graph
+      smaller than any existing `graphify-out/graph.json`. Since no `graph.json` exists yet this run, the
+      guard won't fire — but if this checkpoint is ever re-run after a partial success, **do not force past
+      a shrink refusal**; surface the message and investigate instead of overwriting.
+      **Resume marker:** `graphify-out/graph.json` and `graphify-out/.graphify_analysis.json` both exist.
+      Note the node/edge/community counts printed — expect somewhere in the low thousands of nodes given
+      ~2,500 cached files.
+
+- [ ] **C3 — Graph health check** (skill Step 4.5, read-only, never blocks). Run it and read the output;
+      if it prints a `GRAPH HEALTH WARNING`, surface it plainly but continue — this step never re-runs
+      anything itself.
+      **Resume marker:** none needed (read-only) — just re-run it if unsure, it's idempotent and cheap.
+
+- [ ] **C4 — Label communities.** Read `.graphify_analysis.json`, look at each community's node labels, and
+      write a 2-5 word plain-language name per community (this is a judgment call, not a script — do it by
+      reading the actual node lists, not by guessing from community IDs). Then regenerate questions with
+      real labels and re-export per skill Step 5 (writes `.graphify_labels.json` and re-writes `graph.json`
+      with `community_name` populated).
+      **Resume marker:** `graphify-out/.graphify_labels.json` exists with as many entries as there are
+      communities in `.graphify_analysis.json`.
+
+- [ ] **C5 — HTML visualization** (skill Step 6). ⚠ Honesty rule: warn before running viz on >5,000 nodes
+      (unlikely here, but check the C2 node count first).
+      **Resume marker:** `graphify-out/graph.html` exists.
+
+- [ ] **C6 — Save manifest, cost tracker, clean up, final report** (skill Step 9). This deletes the
+      intermediate `.graphify_*` scratch files (detect/extract/ast/semantic/analysis JSONs and any leftover
+      chunk files) — **do this last**, after C0-C5 are all confirmed done, since earlier checkpoints in this
+      section depend on those files still being present.
+      **Resume marker:** `graphify-out/cost.json` exists and updated; `graphify-out/graph.json`,
+      `GRAPH_REPORT.md`, and (if `--obsidian`/`--wiki` requested) the vault/wiki dirs are the only
+      `graphify-out/` artifacts left besides `BUILD_PLAN.md` and this file's siblings.
+
+**After C6, the build is done.** Paste the God Nodes / Surprising Connections / Suggested Questions sections
+from `GRAPH_REPORT.md` into chat per the skill's normal closing behavior, and offer to trace the most
+interesting suggested question.
 
 **Optional extras, only on request:** `--obsidian` vault · `--wiki` · `--svg` · `--graphml` · `--neo4j` ·
 `--falkordb` · `--mcp`.
