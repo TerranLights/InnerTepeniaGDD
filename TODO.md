@@ -908,6 +908,55 @@ Zhongshan, Sinheung, and Shirayuki were founded via a peaceful diplomatic partit
 - [ ] **Neo-Races and Neo-Cultures — Phase 2 synthesis (flagged 2026-07-17, ready to start)**
   Phase 1c (Cultural Iceberg Per-Nation Entries — 12-item Surface Culture + 17-item Deep Culture findings, per Primary/Significant nation) is now complete for all 35 Tepenian cities across all 6 subnets (Halley, Palmer, Mirny, Janbogo, Mawson, Byrd), see `Neo-Races-and-Cultures/_Method/Progress_Tracker.md` for the full per-city status record. **Not yet done:** Phase 2 — actually naming and crystallizing each city's own synthesized neo-culture/neo-race from that completed research. Every city's own "Synthesis Notes" section currently holds only a working first-pass draft, explicitly flagged throughout as not yet developer-confirmed. Also still open, deliberately deferred alongside Phase 2: the reserved Notable-tier passes for Palmer City (43 nations total) and Byrd (41 nations total), where only Primary+Significant tier was catalogued during Phase 1c; and any further cross-subnet or Federation-wide synthesis once all 35 cities' Phase 2 work is complete.
 
+- [ ] **Neo-Races and Neo-Cultures — Phase 3, the orbital extension (flagged 2026-08-24, not started)**
+  The third and final phase of the Neo-Cultures project, sibling to the Phase 2 entry directly above. Scoped in
+  `Neo-Races-and-Cultures/README.md` as *"extend the same method to the orbital infrastructure population that
+  carries the Cryptograph Helix timeline forward,"* with `Neo-Races-and-Cultures/Orbital_Cryptograph_Helix_Era/`
+  already existing as a **reserved, currently empty folder** awaiting it. Until now this phase had no tracked
+  entry anywhere — it existed only as that one README sentence and the empty folder.
+
+  **The goal:** synthesize the **localized orbital neo-cultures** — plural and mutually distinct, not one
+  undifferentiated "orbital culture" — meeting the same bar the surface cities do per the project README: a
+  genuine *"real, new 'third thing,' culturally distinct from any of the origin populations that fed into it,"*
+  the way Taiwanese, Singaporean, Québécois, and Afrikaner are real distinct peoples rather than variant
+  flavors of a parent nationality. The developer's own surface worked example is a *"Zhongshanese"* people.
+
+  **Developer clarification, 2026-08-24 — the derivation inputs, and an explicit correction.** Orbital
+  settlements **do not need other orbital settlements to derive a basis from**; a real-world orbital analog was
+  never an obligatory input, and an earlier framing that treated its absence as a blocker was wrong. What the
+  derivation actually needs is three things:
+  1. **Who lives there** — the population itself.
+  2. **What sort of culture — more precisely and more in-universe-consistently, what sort of "neo-culture"** —
+     they have.
+  3. **How such a people would live, operate, function, and build their lives in what is effectively a closed
+     environment**, with only minimal physical commuting/travel/transportation between separate orbital
+     infrastructure locations.
+
+  From those three, derive/extrapolate/synthesize the localized orbital neo-cultures. **The closed-environment
+  constraint set is itself the generative input** — it does the job real-world comparanda do for a surface
+  city. A population plus a specific set of conditions, run forward over generations, produces a distinct
+  people; that is the logic this whole project already runs on, with conditions supplied by the environment
+  rather than by a parallel real-world community. The **minimal-inter-location-travel constraint is a
+  generative asset, not just a hardship to describe** — it is precisely what would make separate orbital
+  locations' neo-cultures diverge from each other.
+
+  **Method files that carry over unchanged:** `_Method/Cultural_Iceberg_Method.md` (Hall's surface/deep-culture
+  sorting — a sorting framework, so it applies regardless of where the raw material came from) and
+  `_Method/Human_Universals_Culture_Framework.md` (Brown's universals as a believability floor and
+  question-generator).
+
+  **Dependencies and standing:** Phase 1c is **complete for all 35 surface cities**, so the groundwork this
+  extends from is genuinely done. Phase 2 (naming/crystallizing each surface city's neo-culture) is still
+  open — see the entry above — and it is worth deciding whether Phase 3 must wait on it or can run in
+  parallel, since the orbital population's origins trace back to those same surface cities. **Hard dependency:**
+  input 1 ("who lives there") is not yet answered — orbital population composition is its own unstarted,
+  deliberately-reserved high-token task (`project_orbital_composition` memory). The methodology can be built
+  without it; an actual pass cannot run without it.
+
+  **Related but distinct work:** the universal Cultural Synthesis Methodology instruction set planned for
+  2026-08-29 (see `Dev-Road-Map/Weekly_To-Do_-_Current.md`) is about building the *reusable tooling* that would
+  cover orbital settlements as a setting class. **This entry is the actual pass**, run with that tooling.
+
 - [ ] **Hitchhiking as a valid travel mechanic on specific highways — established 2026-07-05**
   Hitchhiking is a genuinely normal, valid way to get around Tepenia — not a last resort — on a specific subset of highways: Hwy 7 (Belgrano Highway), Hwy 4 (Mawson-Sinheung Highway), Hwy 110 (Coastal Cut Highway), Hwy 2 (Dumont Coast Highway), and a short segment of Hwy 1 specifically between Marambio and Rothera. Written into `City_Relationship_Database.md`'s Highway Quick Reference section. **Still open:** the in-world reasoning for why these specific routes support it (traffic density, freight-truck culture, a cultural norm specific to those subnets, something else), and whether/how this becomes an actual gameplay travel mechanic (a fast-travel alternative, a random-encounter system, a skill check, or purely flavor/lore).
 

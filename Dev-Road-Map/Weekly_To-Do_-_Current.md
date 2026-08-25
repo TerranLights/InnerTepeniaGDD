@@ -67,8 +67,8 @@ at the developer's home. Recorded here as a resume point in case of another outa
   configured, so this labeling has to be done by the host assistant reading community contents directly
   (as this session's `graphify label .` run confirmed: "no LLM backend configured, keeping placeholders").
 
-- [ ] **District Culture Development Plan — 3/13 districts through partial phases, 1/13 through all 7**
-  `Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Culture_Development_Plan.md` — a 7-phase
+- [ ] **District Culture Development Plan — 3/13 districts through all 8 phases, 1/13 QA-passed**
+  `Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Culture_Development_Plan.md` — an 8-phase
   gap-closing pass (Architecture, Sensory Profile, Export Culture, Religious/Philosophical Landscape, Fashion,
   Arcanet Culture, Visitor Experience, Ordinary Daily Life, Thematic Breadth Catalog, Native Culture incl.
   siligel cuisine/music/arts/human-robot relations/counterculture/private life/municipal holidays,
@@ -79,7 +79,152 @@ at the developer's home. Recorded here as a resume point in case of another outa
   discipline, and have not been QA'd. **10 districts** (Aquarius, Aries, Capricorn, Gemini, Libra, Pisces,
   Sagittarius, Scorpio, Virgo, and the remaining district) haven't been started at all. See the plan file's
   own checklist (bottom section) for exact per-phase counts. **Explicitly gated follow-on, not yet started:**
-  a full Robot Universals triage pass, district by district, once all 13 clear all 7 phases.
+  a full Robot Universals triage pass, district by district, once all 13 clear all 8 phases.
+
+  **⚠️ AUDITED 2026-08-24 — read `Districts/District_Culture_Plan_Audit_2026-08-24.md` before resuming this.**
+  A full verification pass was run over the plan as applied to Cancer, comparing the discarded first-pass
+  results against the 2026-08-16 from-scratch rewrite and checking every load-bearing citation against source.
+  **The rewrite holds up** — all 8 real-world picks genuinely researched, Gate 1's mechanical check passes, the
+  diaspora arithmetic and every cross-file citation verified accurate, and Findings I-VII integrate cleanly
+  with VIII-XXI with no contradictions. **Issues found, none fatal**, and per developer instruction 2026-08-24
+  **left unfixed for a closer look together on Saturday**:
+
+  - **The Plan file + `Phase_Instructions/` phase-count and status drift.** Phase 7 (Native Culture) was
+    inserted 2026-08-16 and Robot-Specific renumbered 7→8, but the downstream cleanup was never swept. A full
+    grep classifies **19 items into five categories** (full tables with exact file:line and before/after text
+    are in the audit file, §Issue 1&2):
+
+    - **⭐ Category D — 3 false status claims. FIX THESE FIRST, BEFORE ANYTHING ELSE IN THIS ITEM.** These are
+      not counting errors; they are factually wrong statements about project state, sitting in the exact files
+      a new session opens to orient itself.
+      · **D1** `Phase_Instructions/00_Index.md:62-66` — *"No other district/phase combination has been executed
+      yet as of this writing."* Cancer has all 8 phases **and** a passed QA gate; Taurus and Leo have all 8 each.
+      · **D2** `Phase_Instructions/08_Phase_8_Robot_Specific_Culture.md:104` — *"All 13 districts: blocked
+      pending Phases 1-7. Do not attempt Phase 8 for any district…"* Read literally, this forbids work already
+      done three times.
+      · **D3** *(most harmful item in the whole audit)* same file, **:137**, in a section literally headed
+      **"8. Worked example"** — *"None yet … no district has cleared that gate."* **Cancer's Finding XVII is a
+      completed, QA-passed Phase 8 worked example.** A Saturday session opening this file to start a new
+      district would think it was pioneering the phase from nothing, and would lose the Swap Test framing, the
+      Inheritance/Iceberg tagging convention, and the honest-scope-note pattern Cancer already established.
+    - **Category A — 8 genuinely stale phase counts, safe to change.** Per-district headers in the Plan (lines
+      336, 352, 363, 365, 376, 538) plus `00_Index.md:9` and `00b_General_Population_Discipline.md:3`.
+      Plan line 538 contradicts its own section heading three lines above it.
+    - **Categories B + C — 7 strings that are CORRECT. DO NOT TOUCH.** Six are `Phases 1-7` meaning *Phase 8's
+      prerequisite range* (a correct range, not a stale total); one is Plan line 14's historical re-audit note,
+      which describes the pre-renumber world and **is the explanation for why the 8th phase exists at all.**
+    - **Category E — 1 pointer needing a decision** (`01_Phase_1_...md:27` names a block that doesn't exist
+      under that name).
+
+    **A bulk find-and-replace is unsafe** — it would corrupt all seven Category B/C strings, *and* would still
+    miss D1 entirely, since D1 contains no phase-count string to match on. Hand-fix only.
+  - **Finding XII's palette** cites the diaspora file for "warm tones" content that **does not exist there**
+    (zero colour/palette hits in that file), and sits in mild tension with the Mega-Init's established
+    white-and-green palette.
+  - **`Cancer/README.md`** bills itself as the "Complete Megasheet" but was **compiled 2026-07-09** and is
+    missing all of Findings VIII-XXI — ~90% of the district's cultural content. Needs a decision on whether
+    district READMEs are meant to be periodically recompiled.
+  - Minor ordering/cosmetic items, and one haze-mechanism nuance worth a deliberate confirm.
+
+  The audit file carries exact file:line references with before/after text, explicit **do-not-change** lists
+  with reasoning, the six carried-forward open items from Cancer's own file, and a recommended sequencing —
+  including **audit Taurus and Leo against the same checklist before extending the plan to new districts**,
+  since both are marked complete but have never passed the QA gate.
+
+- [ ] **⭐ SATURDAY 2026-08-29 — build the universal Cultural Synthesis Methodology instruction set**
+  *(Developer instruction, 2026-08-24. Deliberately not started — no sufficient token window left this week;
+  this is Opus work, gated on the Pro→Max5x switch, see [[project_tier_switch_opus_2026_08_29]].)*
+
+  **The deliverable:** take the cultural synthesis methodology already expanded and proven on the **Cancer**
+  district and generalize it into a **massive, intricate, repeatable instruction set that works for any
+  setting** — any of the 13 Concordia districts, any of the 35 outer Tepenian cities, DLC locations, and
+  **possibly orbital-infrastructure settlements** as a third, genuinely different setting class.
+
+  **Why now and not earlier:** Cancer is the first location taken all the way through with real research, the
+  general-population discipline, the generative toolkit, and a passed QA gate — so for the first time there is
+  a complete, verified worked example to generalize *from* rather than theorize about. Its audit
+  (`Districts/District_Culture_Plan_Audit_2026-08-24.md`) confirms the pass holds up, which is what makes it
+  safe to treat as the reference standard.
+
+  **What already exists and feeds this — most of the raw material is written, it needs assembling:**
+  - `Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md` — **already scoped deliberately
+    general** ("Concordia districts, the 35 outer Tepenian cities, DLC locations, or a location in any future
+    project"). 14 named techniques, each a *question with a structure*, each with a divergence table. Has a
+    governing filter (Characteristic Plausibility) and a player-facing test. **This is the core; the new
+    instruction set should be built around it rather than duplicating it.**
+  - `Worldspace/Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md` — its sibling: supplies the raw
+    material (concrete web research on a location's real-world influence picks) that the techniques operate on.
+  - `Districts/Phase_Instructions/` — 11 files: `00_Index`, `00b_General_Population_Discipline`,
+    `00c_Completion_QA_Checklist`, and `01`–`08` per-phase how-tos.
+  - `Districts/District_Culture_Development_Plan.md` — the *what* and *what order*, incl. the 32-section
+    template audit and the phase-dependency reasoning.
+  - `Districts/00b_Two_Stage_Methodology.md` — Stage 1 (organic pre-war formation) vs Stage 2 (war fallout).
+  - `.../City_Megasheets/City_Megasheet_Compilation_Guide.md` — the **outer-city** master pipeline
+    (synthesize → invent → cross-reference) that the district plan was itself mirrored from.
+  - `.../Local_Cultures/CITY_CULTURE_TEMPLATE.md` — the 32-section template.
+  - `.../Local_Robot_Culture_Methodology/` — 4 files, the outer-city robot-culture parallel.
+  - **Cancer's own `Cancer_Full_Extrapolation.md`** — the QA-passed worked example, Findings VIII-XXI.
+
+  **The key structural insight to build on:** there are already **two parallel instantiations** of the same
+  underlying method — the outer-city Megasheet pipeline and the district 8-phase plan — and the district one
+  was *explicitly mirrored from* the city one. Two independent instantiations of one method is exactly the
+  raw material for abstracting a general third. The real work is separating **what is genuinely universal**
+  (the technique toolkit, the general-population discipline, the Swap Test, the phase-dependency logic, the
+  "invent, but traceable to something established" posture, the QA gates) from **what is setting-specific**
+  (the 32-section template's per-setting Covered/Phase/Absorbed/N/A classification, Concordia's enclosed-air
+  shared-environment consequences, the Arcanet-culture phase, the district-vs-city Visitor Experience framing).
+
+  **The orbital case — developer clarification, 2026-08-24. An earlier draft of this note framed this as the
+  methodology's hardest blocker on the grounds that orbital settlements have no real-world orbital analog to
+  research the way Epidaurus or Arcosanti were researched. That framing was wrong and is corrected here:
+  orbital settlements do not need other orbital settlements to derive a basis from. It was never an obligatory
+  input.** What the derivation actually needs is three things:
+
+  1. **Who lives there** — the population itself.
+  2. **What sort of culture — more precisely and more in-universe-consistently, what sort of "neo-culture"** —
+     they have.
+  3. **How such a people would live, operate, function, and build their lives in what is effectively a closed
+     environment**, with only minimal physical commuting/travel/transportation between separate orbital
+     infrastructure locations.
+
+  From those three, derive/extrapolate/synthesize the **localized orbital neo-cultures**. The closed-environment
+  constraint set *is* the generative input — it does the job real-world comparanda do for a surface city. A
+  population plus a specific set of conditions, run forward over generations, produces a distinct people; that
+  is the same logic the neo-culture project already runs on, just with conditions supplied by the environment
+  rather than by a real-world parallel community.
+
+  **This is already anticipated in canon — do not build it from scratch.** `Neo-Races-and-Cultures/` is the
+  established home for exactly this, and its README already scopes the orbital case as **Phase 3**: *"extend
+  the same method to the orbital infrastructure population that carries the Cryptograph Helix timeline
+  forward."* `Neo-Races-and-Cultures/Orbital_Cryptograph_Helix_Era/` exists as a **reserved, currently empty
+  folder** waiting for it. Relevant existing method files: `_Method/Cultural_Iceberg_Method.md` (Hall's
+  surface/deep-culture sorting — a sorting framework, so it applies unchanged regardless of where the raw
+  material came from), `_Method/Human_Universals_Culture_Framework.md` (Brown's universals as a believability
+  floor and a question-generator), and `_Method/City_Types_Reference.md`.
+
+  **The neo-culture standard to hold to,** per that README: a genuine new people — *"a real, new 'third thing,'
+  culturally distinct from any of the origin populations that fed into it,"* the way Taiwanese, Singaporean,
+  Québécois, and Afrikaner are real distinct peoples rather than variant flavors of a parent nationality. The
+  developer's own worked example is a *"Zhongshanese"* people. Orbital neo-cultures should meet the same bar,
+  and should be **localized** — plural, differing between orbital locations, not one undifferentiated "orbital
+  culture." The minimal-inter-location-travel constraint is precisely what would make them diverge from each
+  other, so it is a generative asset, not just a hardship to describe.
+
+  **Useful precedent for a setting that doesn't fit the standard input shape:** `Neo-Races-and-Cultures/`
+  already flags **Concordia** as needing different treatment, since its population is drawn from every other
+  city rather than having its own founding-nation composition. Orbital is the second such case. Whatever the
+  general instruction set does about input-shape variation should cover both.
+
+  **Real dependency to be aware of:** item 1 ("who lives there") is not yet answered — orbital population
+  composition is its own unstarted, deliberately-reserved high-token task ([[project_orbital_composition]]).
+  The methodology can be *built* without it, but an actual orbital neo-culture pass is gated on it.
+
+  **Constraints that must survive generalization** (all currently binding, all learned the hard way):
+  never carry one location's answers into another (if two places produce similar-shaped answers to the same
+  technique, at least one is wrong); general population by default, narrow professional/ritual cases scoped
+  explicitly; actually run the research rather than working from memory; the template is a **floor, not a
+  ceiling** (new religions/factions/whole new categories are legitimate discoveries); and new work that
+  contradicts old work must **say so in the text** rather than silently rewriting canon.
 
 ---
 
