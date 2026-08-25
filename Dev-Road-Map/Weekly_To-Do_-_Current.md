@@ -19,8 +19,53 @@ at the developer's home. Recorded here as a resume point in case of another outa
   communities**. Outputs: `graphify-out/graph.json`, `graphify-out/GRAPH_REPORT.md`, `graphify-out/graph.html`.
   Full checkpoint history (B1–B15 extraction, C0–C6 graph build) in `graphify-out/BUILD_PLAN.md`. Verified
   correct post-build (node/edge counts cross-checked against the report, cache re-confirmed at 2,504/2,763,
-  no regression). Nothing further needed unless new content is added to the repo (`--update`) or specific
-  queries are wanted (`graphify query "<question>"`).
+  no regression).
+
+  **Superseded same day by a full `--update` catch-up run, also 2026-08-24, after the STP-06 "Hao" character
+  work (below) landed:** incremental detection found 267 files changed since the above build (2 code, 265
+  docs) — far more than just Hao's 7 files, since ~260 other docs across the repo had drifted out of sync with
+  the graph. Ran the full 13-parallel-subagent semantic re-extraction, merged via `build_merge`, verified no
+  real data loss (1,898/1,901 "missing" nodes confirmed as legitimate duplicate-ID cleanup where the source
+  file is still represented elsewhere; the 3 genuinely at-risk nodes — Mountain Pass Airport and two Dome
+  Fuji/Sanay concept-art images — backed up to `graphify-out/orphaned_nodes_backup_2026-08-24.json` before
+  forcing the write). **Current state: 8,192 nodes, 14,027 edges, 1,235 communities.**
+
+  **A real bug was hit and fixed during this run, worth remembering:** the rebuild initially wrote generic
+  `Community N` placeholder labels over ~1,400 previously-curated community names. First-pass recovery
+  attempt used `graphify`'s own `remap_communities_to_previous()` hub-overlap matching against the pre-update
+  backup (`graphify-out/2026-08-24/.graphify_analysis.json` + `.graphify_labels.json`, both auto-preserved by
+  graphify's own backup step) — but the first fix was itself subtly wrong: it checked "does an old label exist
+  for this community's final numeric ID," not "did this ID arise from a genuine overlap match," so ~299
+  communities with **zero real overlap** to anything old still coincidentally landed on an old ID and
+  inherited a wrong, unrelated label. Caught by the developer explicitly asking to verify names actually match
+  content. Fixed properly by re-deriving the match set directly (only crediting communities that appear in the
+  greedy overlap-matching's `matched_new_ids`, not just "some old label exists at this ID") — **936 of 1,235
+  communities got a verified, correct recovered label; the other 299 were left as honest generic placeholders**
+  rather than guessed/borrowed ones, since they're genuinely new content with no prior name to recover.
+  Spot-checked 10 of the 936 against their actual node content — all correct.
+
+  **What the 299 generic ones actually are, for context:** overwhelmingly small clusters (113 are single-node,
+  54 are pairs) totaling 1,203 nodes, almost entirely the ~250 previously-unindexed doll-character template
+  stub files (`Personal_Background/Timeline.md`, `Loyalties.md`, `Relationships.md`, etc. — mostly boilerplate
+  `[Character Name] — X` scaffolding with no real content yet) that this update run was the first to ever
+  process. Not mislabeled real content — genuinely new, mostly-empty clusters that never had a name to recover
+  in the first place.
+
+  **⏸️ DEFERRED TO SATURDAY 2026-08-29 — full labeling scan, not yet started.** Developer requested a full,
+  complete scan of the entire graph JSON to verify/assign accurate labels across the board — not just filling
+  in the 299 generic ones, but actually re-checking the whole label set for correctness, since the bug above
+  proved labels can silently drift wrong. **Why deferred:** developer is at 94% of their weekly Claude Pro
+  model allotment as of Tuesday 2026-08-25, too tight to safely start a task this size. **Why Saturday
+  specifically:** developer is switching from Pro to the Max5x plan this Saturday (2026-08-29) — see
+  `[[project_tier_switch_opus_2026_08_29]]` memory — which resets the budget picture entirely (Opus access,
+  5-hour session windows, much larger weekly allotment). **Resume point:** `graphify-out/graph.json` currently
+  has 1,235 communities; 936 have verified-correct recovered labels, 299 have honest generic placeholders. The
+  task on Saturday is a genuine full pass — re-verify the 936 (spot-check basis established this session
+  showed all correct, but only 10/936 were actually checked) and properly name the 299 new ones (per Step 5 of
+  the `/graphify` skill: read each community's node list, assign an accurate 2-5 word label from actual
+  content, regenerate `graph.json`/`GRAPH_REPORT.md`/`graph.html`). No GEMINI_API_KEY/GOOGLE_API_KEY is
+  configured, so this labeling has to be done by the host assistant reading community contents directly
+  (as this session's `graphify label .` run confirmed: "no LLM backend configured, keeping placeholders").
 
 - [ ] **District Culture Development Plan — 3/13 districts through partial phases, 1/13 through all 7**
   `Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Culture_Development_Plan.md` — a 7-phase
