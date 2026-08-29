@@ -1,0 +1,152 @@
+# Cross-District Differentiation Table
+
+**Created 2026-08-29, after six districts.** One page listing **what each completed district's answer is, per
+category**, so that a new district can be checked against a single file instead of by re-reading six
+`Full_Extrapolation.md`s.
+
+**Why this exists.** `00c` **Gate 6(b)** requires every new district to be checked for near-collisions against
+every district already completed. **That check gets more expensive with each district and it has already
+failed once** — see the caught-late collision recorded below. At six districts the cost is real; at ten it
+would be prohibitive, and the check would quietly stop being run.
+
+**How to use it.** Before writing a category for a new district, read its row. **If your answer rhymes with any
+entry, either differentiate it explicitly and inline (Gate 6b) or change it.** After completing a district, add
+its column **in the same commit**.
+
+> **The governing rule this serves** (`Cultural_Synthesis_Techniques.md`): *never carry one location's answers
+> into another — if two places produce similar-shaped answers to the same technique, at least one of them is
+> wrong.*
+
+---
+
+## 1. Capability shape and deficit location
+
+**The typology is now closed** — all four shapes are filled, so every remaining district falls into one of them
+(`00e` §5).
+
+| District | Shape | Characteristic failure | Deficits *addressed* or *diffuse*? |
+|---|---|---|---|
+| **Cancer** (Sanctuary) | two deficits | cannot set limits; nobody advocates for themselves | — |
+| **Taurus** | one absence *(no fall)* | holds value, cannot defend or reallocate it → **the city's donor district** | **diffuse** — donor to everyone, no counterparty, no politics |
+| **Leo** | double absence *(no exaltation, no fall)* | one instrument only → **no graceful degradation** | — |
+| **Scorpio** | net-negative *(no exaltation, two deficits)* | world-class diagnosis, nowhere to convalesce | — |
+| **The Power Core** (Aries) | **complete** | cannot price or ration; cannot keep a schedule | **both addressed** — concentrated in the Government District, its opposite number |
+| **The Yards** (Capricorn) | **complete** | can build anything, cannot say what for → substitutes the deadline as meaning | **one of each** — care addressed (the Sanctuary); meaning diffuse |
+
+---
+
+## 2. Music *(five entries, no collisions)*
+
+| District | The general population's musical culture |
+|---|---|
+| **Taurus** | Everyone sings, **quietly, indoors, close-harmony, at conversational volume**, about lineage. No professionals. |
+| **Leo** | Almost nobody plays. The general population are **expert listeners**; a large private amateur tradition happens where nobody can hear it. |
+| **Scorpio** | Everyone **speaks simultaneously** and nobody is individually audible. Heard without being identified. |
+| **The Power Core** | **Massed, loud, choral.** Choirs founded after named incidents, carrying the district's only history and administering its bereavement funds. |
+| **The Yards** | **Long, constructed, cyclical, work-timed.** The merit is in the building and error is audible. Nobody improvises in public. |
+
+---
+
+## 3. Counterculture *(five entries; four types)*
+
+| District | Name | What it does |
+|---|---|---|
+| **Taurus** | *the unprovenanced* (no self-name) | **Refuses the record.** |
+| **Leo** | *the Company* (grand self-name) | **Refuses recognition** — and is famous for it, which is the joke. |
+| **Scorpio** | *the Loud* (cannot agree on a self-name) | **Refuses the silence.** The only one of the five that causes real harm as well as being right. |
+| **The Power Core** | *the Tally* (adopted insult) | **Adds** an accounting the district cannot perform. The only one that adds rather than refuses. |
+| **The Yards** | *the Recalibration Underground* **(pre-existing canon)** | **Demands the district's own rule be applied literally.** The only one *more orthodox* than its mainstream — which is why it cannot be dismissed as heresy. |
+
+> **Two rules that came out of this row.** **(1) Check for an existing counterculture in canon before deriving
+> one** — Capricorn already had its, and Step C correctly *confirmed* rather than replaced it. **(2) Do not
+> default to a refusal.** Three of five are refusals; the two that are not are the more interesting.
+
+---
+
+## 4. Records, archives, and what a district writes down
+
+| District | What is recorded | Access | Duration | Consent |
+|---|---|---|---|---|
+| **Taurus** | property, lineage, objects | public within the district | permanent, inherited | not a concept — the record is civic |
+| **Scorpio** | **people, and what they said** | sealed by default | held until released or closed | **the subject's, and revocable** |
+| **Leo** | **standing** — the recognition tiers | wholly public | permanent; **no erase function** | not sought |
+| **The Power Core** | **operational state only** — near-total telemetry, near-zero institutional memory | open to anyone who needs it | ephemeral | not a concept |
+| **The Yards** | **processes** — specification, tolerance, who, when, pass/fail | work public, private life private | permanent | not sought |
+
+*The Yards additionally runs an **informal favor ledger** in parallel with the formal archive, and would be
+offended by the suggestion that it is a record. Distinguished from Taurus's inherited grudges (attached to an
+address) and Scorpio's injury ledger (sealed, records wrongs).*
+
+---
+
+## 5. Food, and what being fed means
+
+| District | The meaning |
+|---|---|
+| **Taurus** | Being fed from the household rotation = **admission**. A private threshold nobody explains. |
+| **Leo** | Being *served* = **rank**. A public signal everyone reads instantly. |
+| **Scorpio** | Food states **where you are in a process** — the dieta card. Nobody remarks on it. |
+| **The Power Core** | Food **kept warm and waiting** at the gallery for whoever comes off a bad shift — **collective, ambient, available to anyone**. Nobody serves it and nobody is owed it. |
+| **The Yards** | **One person feeds another** after a bad shift **and does not mention why** — deliberately unacknowledged, because acknowledgement would make it a favor, and a favor is a ledger entry. |
+
+> ⚠ **Caught-late collision, recorded rather than quietly fixed.** The Power Core and the Yards entries were
+> written a day apart and are nearly the same practice — *feed someone after a bad shift without comment.*
+> **Gate 6b did not catch it**, because checking a sixth district against five predecessors by re-reading them
+> is exactly the check that gets skipped. **This table exists because of this collision.** The two are now
+> differentiated on the axis that actually separates them: the Power Core's is **collective and ambient** and
+> comes from having no vocabulary for offering; the Yards' is **individual and deliberately silent** and comes
+> from avoiding the creation of an obligation. Same act, opposite reasons, and both files now say so inline.
+
+---
+
+## 6. Visitor-to-resident transition
+
+| District | What converts a visitor into a resident |
+|---|---|
+| **Cancer** | structural inclusion |
+| **Taurus** | **two stages** — welcomed (earned in kind), then *recorded* |
+| **Leo** | reaching the first rung of the recognition order — becoming a **known face** |
+| **Scorpio** | **admission to a cell** — two-stage, the second stage unfalsifiable, membership concealed |
+| **The Power Core** | **holding a qualification** — you may sign for work. Nobody cares where you came from |
+| **The Yards** | **test-and-admit over years**, plus a **thirty-year threshold** after which your judgment is your own |
+
+---
+
+## 7. Conflict and dissent grammar
+
+| District | How dissent is expressed |
+|---|---|
+| **Taurus** | **physical obstruction** — bodies in doorways, carried out |
+| **Leo** | **performance** |
+| **Scorpio** | **amputation and deferral** — the injury ledger; no native arbitration at all |
+| **The Labs** | **organizing** *(assigned from Taurus's three-way set; not yet written)* |
+| **The Yards** | **silence** — decades-long non-verbal feuds; and **complaint takes the form of procedure** |
+
+**Three-way sets used so far, so they are not re-used:**
+- **Protest grammar** — Taurus (obstructs) / the Labs (organizes) / Leo (performs).
+- **Injury and redress** — Leo (display) / Taurus (retention) / Scorpio (durable quiet injury).
+- **How a decision gets made** — the Power Core (someone signs, now) / the Yards (procedure decides) / the
+  Government District (deliberation continues).
+
+---
+
+## 8. Shadow — the one-line statement
+
+| District | The shadow |
+|---|---|
+| **Cancer** | care that is hard to end; visible virtue, hidden cost |
+| **Taurus** | **cannot tell generosity from erosion** — both feel like saying yes slowly |
+| **Leo** | **cannot fail gradually**; and the ledger has no erase function |
+| **Scorpio** | produces enormous care and **cannot get it past the cell boundary** |
+| **The Power Core** | **cannot notice what it is losing** — and its ethic forbids the accounting that would show it |
+| **The Yards** | keeps substituting the deadline for meaning, **and experiences that as focus** |
+
+---
+
+## 9. Maintenance
+
+- **Add a column in the same commit that completes a district.** A table nobody updates is worse than none.
+- **When a category collides**, differentiate **inline in the district's own finding** — not only here. This
+  file is the index; the districts' own files must carry the distinction where a reader will meet it.
+- **Rows may be added.** Fashion, architecture, holidays and human-robot relations all have five or six entries
+  now and are not yet tabled; add them when a collision threatens rather than pre-emptively.

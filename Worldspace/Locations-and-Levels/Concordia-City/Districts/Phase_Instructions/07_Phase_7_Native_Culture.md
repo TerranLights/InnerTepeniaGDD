@@ -87,12 +87,21 @@ where its counterculture already lives.**
 > your own seed and then finding it. That is circular and yields a worse answer than deriving honestly.
 > **In Mode B, derive from Step C and treat any Phase 5 resonance as corroboration, not as the source.**
 
+> **First, check whether the district already has one in canon.** *(Added 2026-08-29.)* Capricorn did — the
+> Recalibration Underground — and Step C correctly **confirmed** it rather than inventing a rival. That is a
+> legitimate and probably under-used outcome: a district with an established dissenting body does not need a
+> second one, and giving it one would be the same error as inventing a religion for a district that already has
+> a named faith (`02_Phase_2` §8). **Search `District_Unity_of_Opposites.md` and the district's Canon Reference
+> before deriving.**
+>
 > **Do not default to a refusal.** *(Added 2026-08-29, after four countercultures.)* Three of the four so far
 > are refusals — Taurus's decline the record, Leo's decline recognition, Scorpio's decline the silence — and the
 > shape was becoming a habit. **Aries's breaks it: the Tally *add* a practice the district does not have at
 > all**, keeping unofficial ledgers of what the district gave away and what it cost, in a culture whose ethic
-> forbids the accounting. **A counterculture can refuse what the district demands, or perform what the district
-> cannot.** The second kind is rarer, more interesting, and much likelier to be missed — check for it
+> forbids the accounting. **A counterculture can refuse what the district demands, perform what the district
+> cannot, or demand the district's own stated rule be applied more literally than the mainstream applies it** —
+> Capricorn's is the third kind, and it is the hardest to dismiss precisely because it is *more* orthodox than
+> the establishment it embarrasses. The second kind is rarer, more interesting, and much likelier to be missed — check for it
 > deliberately, especially where the capability reading has already named a faculty the district lacks, since
 > that is exactly where someone will be doing it unofficially.
 

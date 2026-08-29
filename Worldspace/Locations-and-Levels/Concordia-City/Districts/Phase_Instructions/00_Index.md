@@ -340,3 +340,65 @@ invent. → `00e` §5.
 - **Research-by-difference validated.** The three Aries picks skipped as redundant genuinely were — all sat in
   the same industrial-extraction cluster the district was already saturated with — and that was predicted before
   skipping them, not rationalized after.
+
+
+---
+
+## Fifth round of updates — six districts, and a collision that got through (2026-08-29)
+
+Capricorn was the third Mode B run and the first QA to include Gate 10 on the archetype panel. The most useful
+item this round is a **failure**.
+
+### A near-collision got through Gate 6b, and the fix is a standing artifact
+
+The Power Core and the Yards were written a day apart and given **nearly the same food custom** — *feed someone
+after a bad shift without comment.* **Gate 6b did not catch it**, for a structural reason worth naming:
+checking a sixth district against five predecessors **by re-reading them** is exactly the check that gets
+skipped once it is expensive, and at ten districts it would never be run at all.
+
+→ **`../Cross_District_Differentiation_Table.md`**, new: each completed district's answer per category —
+capability shape, music, counterculture, records, food, transition, dissent grammar, shadow — on one page. Gate
+6b now costs one file read. **The two districts have been differentiated inline** (collective and ambient
+versus individual and deliberately silent; same act, opposite reasons), and the developer has put maintaining
+the table on the Weekly To-Do as a standing habit.
+
+### Rule 3 — a position is not guaranteed to get what it wants
+
+**Developer correction, and it closes a hole that would have compounded badly.** Nothing stopped a valid panel
+objection from being treated as an obligation on the district. **Accept every reasonable want across eleven
+positions and thirteen districts and you retrofit each of them with a children's space, a courtship venue, an
+eldercare route and a festival — thirteen districts that read the same.** Added with a concrete test *(would
+satisfying this make the district more like the other twelve?)* and a fifth disposition, **`unmet`**, which
+should be **common**; a panel that never produces it is being run wrong. Applied retroactively: four Capricorn
+objections were re-graded from `accepted`/`noted` to `unmet`. → `00f` Rule 3.
+
+### The Gate 1 self-audit rule failed twice and has been made mechanical
+
+The rule *"write the open list from the scan output, not from memory"* was **violated on the very next district
+in the same direction**, and again on the one after. Four errors across Aries and Capricorn, **all four
+flattering the pass.** An instruction to read carefully does not survive an author grading their own work.
+→ **`00c` Gate 1 now requires pasting the raw per-term counts into the QA block**, so that every disposition is
+checkable against the data instead of taken on trust.
+
+### Writing around a reserved decision — a protocol
+
+Capricorn carried an explicitly reserved developer choice (the Narrow Door). *"Just don't write that part"* is
+insufficient, because **material never written is indistinguishable from material nobody noticed.** The
+protocol: identify what would foreclose the choice, **write the surrounding culture in full anyway**, and where
+the substrate hands you the deciding artifact, **record it as available and deliberately withheld with a note on
+what it would decide.** Capricorn's Gate 7 does this with the apprentice's handbook. **The next pass inherits a
+loaded, labelled gun rather than an absence.** → `00e` §5.
+
+### Smaller
+
+- **The capability typology is closed** — all four shapes now have worked examples, so every remaining district
+  falls into one. And the addressed/diffuse axis has a **third configuration**: the Yards has one of each, which
+  is why it can perceive its care deficit and not its meaning deficit.
+- **Check for an existing counterculture before deriving one.** Capricorn already had the Recalibration
+  Underground and Step C correctly confirmed rather than replaced it. It is also a **fifth type** — the only one
+  *more orthodox* than its mainstream. → `07_Phase_7` Step C.
+- **Gate 9 is 5 for 5, always in pre-Plan material.** Strong enough that the standing prediction for district
+  seven is now framed as falsification: if it *doesn't* fire, that is the more informative result.
+- **The prediction table is at twelve straight confirmations and should be read as house style, not evidence.**
+  See the warning in `00e` §11b; the two things that would restore it as a test have both been identified and
+  neither has been done.

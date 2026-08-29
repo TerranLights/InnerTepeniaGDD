@@ -348,7 +348,15 @@ and available at every hour because there is no hour at which nobody is working.
 
 **The one genuinely local practice: food is kept warm and waiting for whoever comes off a bad shift**, without
 anyone being asked and without it being remarked on. **This is the district's affection**, and it is close to
-the only form it takes publicly.
+the only form it takes publicly. **It is collective and ambient** — nobody serves it, nobody is owed it, and
+anyone coming off a bad shift may take it. Aries does this because it has **no vocabulary for offering**, not
+because it is being discreet.
+
+> **Distinguished from the Yards, which does something that looks identical** *(Gate 6b, caught 2026-08-29 —
+> see `Cross_District_Differentiation_Table.md` §5)*. Capricorn also feeds someone after a bad shift without
+> mentioning it, but **one person feeds another and the silence is deliberate**, to avoid creating an
+> obligation. **Aries' version is a pot left out; the Yards' version is a decision not to be thanked.** Same
+> act, opposite reasons.
 
 **(b) Robot cuisine and siligel.** Siligel provision here is **continuous rather than scheduled** — available at
 every gallery station, unregulated, and taken standing. The local peculiarity is that **Aries makes no

@@ -127,6 +127,30 @@ It produces flaws that feel *inevitable rather than assigned*, and — criticall
 villain**, which is what makes them compatible with this project's non-malice discipline and with
 `00d_Shadow_Proportion_Discipline.md`.
 
+### Writing around a reserved decision
+
+**Added 2026-08-29, from Capricorn.** Some districts carry a choice the developer has explicitly reserved —
+Capricorn's Narrow Door, and the five districts still lacking a settled in-fiction name. **A pass must be able
+to run without foreclosing it**, and "just don't write that part" is not sufficient, because **material that
+was never written is indistinguishable from material nobody noticed.**
+
+**The protocol, which Capricorn's pass used:**
+
+1. **Identify what would foreclose the choice** before writing anything. For Capricorn that was any finding
+   asserting a *mechanism* for the injustice rather than the *culture around* it.
+2. **Write the surrounding culture fully.** A reserved decision is not a reason to write thinly. Capricorn got
+   all eight phases; the creed, the memorial, the promotion culture and the emotional conditions around the Door
+   are all written, and **every one of them is compatible with all six of the reserved alternatives.**
+3. **Where the substrate hands you the deciding artifact, record it as *available and deliberately withheld*,
+   with a note on what it would decide.** Capricorn's Gate 7 does this with the apprentice's handbook — the
+   substrate's most damning single document — stating plainly that writing it would settle the question, and
+   that it should be written the moment the decision lands. **This is the whole point of the protocol:** the
+   next pass inherits a loaded, labelled gun rather than an absence.
+4. **State the reservation at the head of the pass**, so a reader does not mistake restraint for oversight.
+
+**A pass run this way is finished, not partial.** Only one choice is outstanding, and it is outstanding on
+purpose.
+
 ### The row has a *shape*, and the shape tells you how to read it
 
 **Added 2026-08-29, after five districts.** The four completed capability readings did not differ only in
@@ -140,12 +164,23 @@ first, then apply the matching question. Every remaining district falls into one
 | **Double absence** | Leo (no exaltation, no fall) | *What is the one instrument it does have?* The absence says it runs on a single faculty; it does not say which. | No fallback → no graceful degradation |
 | **Net-negative** — more deficits than strengths | Scorpio (no exaltation, two deficits) | *Does its civic function require the faculties it lacks?* | Care district whose weakest term is care |
 
-**And a question to ask of every row regardless of shape, which Aries produced and no earlier district
-raised: is the deficit *addressed* or *diffuse*?** Taurus's weakness makes it a donor to everyone — diffuse, no
+**The typology is now closed.** All four shapes are filled — Complete (the Power Core, the Yards), one absence
+(Taurus), double absence (Leo), net-negative (Scorpio) — so **every remaining district falls into a shape that
+already has a worked example.** Read the shape first, then the matching question, then the worked example as a
+model for *procedure* and never for content.
+
+**And a question to ask of every row regardless of shape — three configurations now observed, so this is a real
+axis rather than a one-off: is the deficit *addressed* or *diffuse*?** Taurus's weakness makes it a donor to everyone — diffuse, no
 counterparty, no politics. **Aries's two deficits are both concentrated in a single other district**, which is
 also the district it is set against — so its weakness has a name, a location, and a permanent grievance
 attached. **A deficit with an address produces inter-district politics; a diffuse one produces drift.** Check
 `F_Rulerships.md` for whether the missing faculties cluster anywhere before writing the consequence.
+
+**The Yards supplied the third configuration and the sharpest consequence: one addressed, one diffuse.** Its
+care deficit sits in the district it is set against, so it has a name, a location and a permanent grievance —
+the two districts argue about it constantly. Its meaning deficit sits nowhere in particular. **So the Yards
+knows it has a care problem and does not know it has a meaning problem, because there is nobody across the
+table saying so.** Where a deficit lands determines whether the district can even perceive it.
 
 > **⚠ Three districts still to come share Leo's double absence — do not reuse Leo's answer.** Gemini,
 > Sagittarius and Aquarius also have neither an amplified capacity nor a rejected one. Leo's reading ("no second
@@ -410,17 +445,31 @@ districts only.**
 > **Rule going forward: state, for each prediction, what observation would falsify it — before running the
 > pass — and pick districts that look least likely to conform rather than most.**
 
-**Revised and new predictions, for district five:**
+**Prediction results, districts five and six.** Aries returned six of six; Capricorn returned six of six.
+**Twelve consecutive confirmations, which is why the caution below is stated more strongly than the record.**
 
-- Its pre-Plan findings will contain **no statement of a relationship** with any other district — comparisons
-  and contrasts do not count *(revised from the failed prediction above)*.
-- Its most load-bearing finding will be a **name for something already in its canon** *(4 for 4)*.
-- Its strongest structural finding will come from the **capability reading**, not the shadow material *(4 for 4)*.
-- Any substrate/canon contradiction will resolve **both-are-true** *(5 for 5)*.
-- **Gate 9 will fire, and the failure will be in pre-Plan 2026-07-09 material** *(3 for 3)*.
-- **At least one of its Inspirational-Influences picks will produce a finding that could not have been derived
-  from substrate and canon alone** *(2 for 2 in Scorpio — the ayahuasca aftercare and the sky-burial
-  cheerfulness were both underivable, and both landed in the top three findings)*.
+| Prediction | Status |
+|---|---|
+| Pre-Plan findings contain **no statement of a relationship** with another district | **HELD** (2/2 since revision) |
+| Most load-bearing finding will be a **name for something already in canon** | **HELD (6/6)** |
+| Strongest structural finding comes from the **capability reading** | **HELD (6/6)** |
+| Contradictions resolve **both-are-true** | **HELD (7/7)** |
+| **Gate 9 fires, and the failure is in pre-Plan 2026-07-09 material** | **HELD (5/5)** |
+| **At least one pick produces a finding underivable from substrate and canon** | **HELD (4/4)** |
+
+> **⚠ The confirmation problem has got worse, not better, and the honest reading is that these have stopped
+> being predictions.** Twelve straight confirmations from a grader who wrote the predictions, chose the
+> districts, ran the passes and marked the results is not evidence about the rules. **The one prediction that
+> ever failed did so on a countable fact.** Every survivor is interpretive.
+>
+> **Two things would restore the test, and neither has been done:** run a district *chosen because it looks
+> least likely to conform* (the Hub was identified for this and is deferred by the developer), or state in
+> advance **what observation would falsify each prediction** rather than what would confirm it. **Until one of
+> those happens, treat this table as a description of house style rather than as a finding.**
+
+**Standing prediction for district seven**, framed as falsification: **Gate 9 will fire in pre-Plan material —
+and if it does not, that is the most informative result available**, because it would mean the 2026-07-09 pass
+was not uniformly optimistic and the rule needs narrowing rather than extending.
 
 ---
 

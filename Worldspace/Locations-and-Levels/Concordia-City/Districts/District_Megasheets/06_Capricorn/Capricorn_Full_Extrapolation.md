@@ -356,7 +356,14 @@ culture, it is an unceremonious one.)*
 
 **The one real food custom is small and telling:** you feed the person coming off a shift that went badly, and
 you do not mention why. **Care here is delivered as provision without acknowledgment**, because acknowledgment
-would make it a favor, and a favor is an entry.
+would make it a favor, and a favor is an entry. **It is individual and directed** — a specific person feeds a
+specific person, and the silence is a deliberate act of protection.
+
+> **Distinguished from the Power Core, which does something that looks identical** *(Gate 6b, caught 2026-08-29
+> — see `Cross_District_Differentiation_Table.md` §5)*. Aries also feeds people after bad shifts without
+> comment, but **its version is a pot left standing at the gallery**, collective and available to anyone, and
+> its silence is inarticulacy rather than intent. **The Yards' silence is the whole point of the gesture.**
+> Same act, opposite reasons.
 
 **(b) Robot cuisine and siligel.** Siligel provision is **scheduled, standardized, and audited** — the Yards is
 the district most likely to have a specification for it, and its siligel is regarded across Concordia as

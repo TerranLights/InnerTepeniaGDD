@@ -10,6 +10,33 @@ file and start a fresh one for the next stretch of work).
 
 ## Active Threads as of the 2026-08-16 → 2026-08-24 outage stretch
 
+- [ ] **STANDING HABIT — cross-check `Districts/Cross_District_Differentiation_Table.md` on every district pass,
+  and keep it updated.** *(Developer instruction, 2026-08-29.)* Not a task to complete; **a habit to maintain.**
+
+  **What it is.** One page giving each completed district's answer per category — capability shape, music,
+  counterculture, records, food, transition, dissent grammar, shadow — so a new district can be checked against
+  **one file** instead of by re-reading six or ten `Full_Extrapolation.md`s.
+
+  **Why it matters more than it looks.** `00c` Gate 6(b) requires every new district to be checked for
+  near-collisions against every district already finished. **That cost rises with each district, and it has
+  already failed once**: the Power Core and the Yards were written a day apart and given nearly the same food
+  custom — *feed someone after a bad shift without comment* — and the check did not catch it, because checking
+  a sixth district against five predecessors by re-reading them is precisely the check that gets skipped when
+  it is expensive. Both files now carry an inline distinction and the table records the miss.
+
+  **The habit, concretely:**
+  - **Before** writing a category for a new district, read that category's row. If the answer rhymes with any
+    existing entry, either differentiate it **inline in the district's own finding** or change it.
+  - **After** completing a district, add its column **in the same commit** as the pass.
+  - **When a category reaches five or six entries and starts to feel crowded, add it as a new row** rather than
+    waiting for a collision.
+
+  **Why this is worth protecting:** the governing rule of the whole methodology is *never carry one location's
+  answers into another — if two places produce similar-shaped answers, at least one is wrong.* **This table is
+  the only mechanical instrument enforcing that rule**, and it will be most valuable exactly when there are
+  enough districts that nobody can hold them all in mind — which is the point at which collisions become
+  invisible and the districts quietly homogenize.
+
 - [ ] **⚠ FULL graphify rebuild with semantic extraction — NOT `--update`. Diagnosed 2026-08-29.**
   Deferred by the developer to a later session; recorded here with the measurements so it is actionable rather
   than a reminder.

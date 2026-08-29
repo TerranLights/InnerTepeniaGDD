@@ -116,12 +116,18 @@ its own register instead. The probe list is written in *template* vocabulary; a 
 is exactly the district that will score zero on it. **A cluster of substance-not-term results is a sign the pass
 worked, not that it failed.**
 
-> **⚠ Write the open list from the scan output, not from memory — self-audit error runs in one direction.**
-> *(Added 2026-08-29.)* On Aries I made two errors reading my own scan: I listed `game` as open when it was
-> covered, and omitted `humor` from the open list entirely when it had scored **zero**. The scan produced both
-> numbers correctly; I read them carelessly. **Both errors flattered the pass**, which is not random — it is the
-> direction self-auditing always fails in. **Paste the scan output, mark each term against it one at a time, and
-> re-check specifically for the flattering direction before writing the block.** Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
+> **⚠ PASTE THE SCAN OUTPUT INTO THE QA BLOCK. Do not summarize it.** *(Rule strengthened 2026-08-29, because
+> the weaker version failed twice.)*
+>
+> The original rule said to *write the open list from the scan output rather than from memory.* **That rule was
+> then violated on the very next district, in the same direction.** On Aries I listed `game` as open when it was
+> covered and omitted `humor` when it scored zero; on Capricorn I listed `funeral` as absent when it scored 1
+> and omitted `death` when it scored zero. **Four errors across two districts, all four flattering the pass.**
+>
+> An instruction to read carefully does not survive contact with an author grading their own work. **The fix has
+> to be mechanical: paste the raw per-term counts into the QA block.** Then the disposition of every term is
+> checkable against the data by anyone, including you a week later, and a mis-reading becomes visible instead of
+> invisible. Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
 district (they live outside the Full_Extrapolation, in Canon Reference / Mega-Init / diaspora file) — a
 district missing its Canon Reference Cultural Texture entry, for instance, has a real hole that this plan was
 never going to fill.
@@ -199,6 +205,12 @@ Check the district's new material against the districts already completed. Three
 **(a) Within the district.** New Findings frequently invent something the district already has under another
 name. Scan the district's Canon Reference Community Infrastructure list against every new named place/practice.
 If two are genuinely close, either merge them or state the relationship explicitly.
+
+> **Use `../Cross_District_Differentiation_Table.md` for this half.** *(Added 2026-08-29.)* It lists each
+> completed district's answer per category on one page, so this check costs one file read instead of six.
+> **It exists because this gate already failed once** — the Power Core and the Yards were given nearly the same
+> food custom a day apart. **Read the relevant row before writing a category, and add the district's column in
+> the same commit that completes it.**
 
 **(b) Against districts already completed — the new half, and it gets harder with every district finished.**
 Structurally similar institutions will keep arising across districts, because the same categories are being
