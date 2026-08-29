@@ -174,6 +174,37 @@ at the developer's home. Recorded here as a resume point in case of another outa
   (the 32-section template's per-setting Covered/Phase/Absorbed/N/A classification, Concordia's enclosed-air
   shared-environment consequences, the Arcanet-culture phase, the district-vs-city Visitor Experience framing).
 
+  **⭐ THE GOVERNING ARCHITECTURAL CONSTRAINT — developer instruction, 2026-08-29.** This methodology must work
+  for **any location, any setting**: a Concordia district, one of the 35 outer cities, a state or country, an
+  orbital-infrastructure location, or something not yet invented. **Different location types do not have the
+  same base information available**, and the method must never assume a substrate that only some settings have.
+
+  Build it as **three separable layers**:
+
+  1. **The universal core** — the questions every location must answer, the generative techniques, the binding
+     disciplines, the QA gate. This layer is the same everywhere and must reference **no** type-specific input.
+  2. **A pluggable input layer** — whatever substrate that location type happens to have. This varies
+     enormously, and the core must degrade gracefully when a given input is simply absent:
+     - *Concordia districts:* the **zodiac substrate** (`Districts/Zodiac_Personality_Substrate/`), the
+       Enneagram group assignment, `District_Refugee_Diaspora_Composition.md`, `Historical_Pressures.md`
+     - *The 35 outer cities:* real-world station heritage, `District-Inspirational-Influences.md`-style picks,
+       BAS READER climate data, `Official_Population_Census.md`, founding-nation tiers
+     - *Orbital settlements:* closed-environment constraints, population origin, minimal-inter-location-travel
+       — and **no real-world analog and no zodiac**
+     - *States/countries:* not yet defined
+  3. **The output template** — also type-varying (the 32-section city template vs. its district adaptation).
+
+  **The zodiac is the worked example of why this matters.** It applies to **Concordia's 13 districts and
+  nothing else** — no city, country, or orbital location draws on it. If it leaks into the universal core, the
+  method silently assumes a 12-fold structure with built-in aspect geometry that no other setting has, and
+  produces nonsense the moment it is pointed at a city.
+
+  **Related trap, worth stating explicitly:** the zodiac substrate is *unusually* productive — it generated the
+  Concordia accountability finding, the dignity-based flaw generator, and a complete inter-district conflict
+  geometry. That productivity is tempting to generalise from, and doing so would be a mistake: it comes
+  precisely from the rigid 12-fold structure and pre-existing relational geometry that make it non-portable.
+  **Generalise from the *questions* it answered, never from its structure.**
+
   **The orbital case — developer clarification, 2026-08-24. An earlier draft of this note framed this as the
   methodology's hardest blocker on the grounds that orbital settlements have no real-world orbital analog to
   research the way Epidaurus or Arcosanti were researched. That framing was wrong and is corrected here:
