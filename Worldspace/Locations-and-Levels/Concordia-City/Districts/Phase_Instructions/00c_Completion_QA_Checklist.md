@@ -266,6 +266,34 @@ fire on them and check them before checking anything written later.
 A "no route back" that nobody in the district has ever perceived as a problem is a textbook shadow finding under
 `00d` — unintended, unnoticed, and discoverable only by a player who goes looking.
 
+## Gate 10 — The Review Panel
+
+**Added 2026-08-29, at the developer's direction.** Full mechanism and roster:
+**`00f_Review_Panel.md`.** Run it **after Gates 0-9 and before finalizing the standout**, because it frequently
+changes what the standout should be.
+
+**Why it exists:** every other gate in this file is a check the author runs against their own reasoning. Gates
+0-9 catch omissions, contradictions and over-generalizations; **they cannot catch what a person standing in the
+district would notice and the author would not.**
+
+**The panel is built on K.M. Weiland's archetypes and John Truby's character web**, both already mined into this
+project's character methodology. The standing panel is **Weiland's six Flat Archetypes — Child, Lover, Parent,
+Ruler, Elder, Mentor** — the *resting* life-stages, which is exactly what a reviewer should be: someone settled
+in a position rather than mid-crisis. Behind them sit the **six Life Arcs** (can this passage even happen here?)
+and the **twelve Shadows** (what does this place enable in someone already gone wrong), pulled in as needed.
+**Truby's four-corner opposition is the check on the panel itself** — if three positions raised the same
+objection in different clothes, the panel has collapsed to one lens.
+
+**These are positions in a human life, not roles in a society or a studio**, which is why the roster carries
+unchanged to cities, nations, orbital settlements — and to novels and films as readily as to this game.
+
+**Two rules, both load-bearing:** a position with nothing to say **says nothing** (manufacturing objections to
+fill slots is the failure mode), and reviewers are **not required to be fair or right** — the Neighbor From
+Across the Line is biased by design, and the Shadows are hostile by definition. Record the objection, then decide it: **accepted**, **noted**, or **rejected**, each with a reason.
+
+**Honest scope:** this reduces single-lens bias; it does not make the review independent, since the same author
+writes both the district and the panel. Do not report its output as a second opinion.
+
 ## Recording the result
 
 Append a short QA block to the district's `Full_Extrapolation.md`:
@@ -273,7 +301,7 @@ Append a short QA block to the district's `Full_Extrapolation.md`:
 ```
 ## QA — Completion Check (District Culture Development Plan)
 
-**Run YYYY-MM-DD.** Gates 0-9 per `Phase_Instructions/00c_Completion_QA_Checklist.md`.
+**Run YYYY-MM-DD.** Gates 0-10 per `Phase_Instructions/00c_Completion_QA_Checklist.md`.
 - Gate 0 Completion claim vs. file: ...
 - Gate 1 Template coverage: PASS / issues found and fixed: ...
 - Gate 2 General-population: ...
@@ -284,6 +312,7 @@ Append a short QA block to the district's `Full_Extrapolation.md`:
 - Gate 7 Unused research: recorded above / at ...
 - Gate 8 Standout: recorded in Worth Your Attention.
 - Gate 9 Asymmetry: findings checked for unwritten reverse cases; ...
+- Gate 10 Review Panel: run; see the panel block below.
 ```
 
 Only after this block exists may the district be marked complete in the Plan's per-district checklist — and per

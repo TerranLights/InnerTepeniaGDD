@@ -282,7 +282,13 @@ Finding is about the first one**, which is the great majority of the district's 
 **Routines.** Shift work dominates and structures everything — meals, sleep, childcare, social life all
 organized around rotations rather than around a day. **The galleries** (Finding V) are the social spine:
 residents eat, wait, argue and pass time in the wide service runs, and a gallery at shift change is the closest
-thing Aries has to a town square. Many households run on staggered shifts and see each other in overlaps.
+thing Aries has to a town square. **They also remain live equipment routes, and both facts are held at once by a
+practice the district is genuinely proud of: on the clearing signal a full gallery empties completely, in
+seconds, without anyone hurrying** — plates lifted, benches folded, the whole room against the walls before the
+sound has finished. Children learn it before they learn to read. **Visitors who have seen it once describe it
+more often than anything else in the district**, and Ariesians find that faintly puzzling, since it is simply
+what you do. *(Added 2026-08-29 per the Review Panel — the Line Maintainer's objection that a run you must move
+equipment through at speed cannot also be a dining hall.)* Many households run on staggered shifts and see each other in overlaps.
 
 **Mundane concerns.** Whether a qualification renewal will come through before a rotation. The permanent
 low-grade domestic problem of heat — keeping food, keeping things from warping, keeping a room cool enough to
@@ -637,6 +643,174 @@ with **near-nothing on what it does while nothing is happening.** That absence i
 time**, which is precisely why its leisure (Finding XII) is either commemorative or nothing, why the Shutdown
 (Finding XVI) is celebrated so disproportionately, and why "duty, not pride" gives residents no vocabulary at
 all for a good year.
+
+---
+
+## XXI. Panel-derived — the district forbids counting the living and meticulously counts the dead (Review Panel)
+
+**Proposed. Raised by the Devout**, who takes Finding VIII's premise seriously and noticed that the district
+violates it in public, permanently, and has never remarked on this.
+
+**The premise says: whoever takes the load is not owed an explanation and does not ask for one.** That is why
+the Tally are found distasteful (Finding XV) — counting sounds like complaining, and complaining is the one
+thing the ethic forbids.
+
+**And yet the Silence Board is an exhaustive, meticulously maintained account.** Every name. What happened.
+Updated with the same care as a permit (Finding XIII), read aloud in full once a year with no speeches
+(Finding XVI). **The district that will not let you count what a living person gave keeps a perfect ledger of
+what the dead did.**
+
+**Neither practice is going to yield, and the reason is that they are not actually in conflict from inside.**
+The distinction the district draws without ever articulating it is that **an account of the dead cannot be a
+request.** A living person's ledger is heard as a claim — *pay me, thank me, notice me.* A dead person's cannot
+be, so it is safe, and the district pours into it all the exactness it forbids itself everywhere else.
+
+**Which reframes the Tally entirely, and this is the finding's real value:** they are not importing an alien
+practice into Aries. **They are extending a practice the district already performs, to people who are still
+alive** — and that is precisely why the objection to them is so strong and so hard for anyone to articulate.
+The mainstream is not defending the absence of records. It is defending the rule that **you may be counted once
+you can no longer benefit from it.**
+
+**Design consequence:** the most dangerous thing a Tally member can say in public is not a number. It is *"read
+his name while he can still hear it."*
+
+---
+
+## XXII. Panel-derived — the choirs are the district's archive, and archives drift (Review Panel)
+
+**Proposed. Raised by the Long-Lived Robot**, from the one position in the district that can check.
+
+Finding X establishes that Aries keeps almost no institutional memory outside its operational layer. Finding XIV
+establishes that its history therefore lives in what the choirs sing, that each choir's own incident is sung
+correctly, and that **getting it wrong is a serious offense.**
+
+**Both are true and they cannot stay true across 250 years.** An oral tradition with no external record to check
+against does not stay accurate; it stays *coherent*, which is a different property. Names shift position for
+metre. A confused sequence resolves into a clean one. A death that was nobody's fault acquires a cause, because
+a cause is easier to sing.
+
+**Nobody is lying, and the seriousness about accuracy is genuine** — which is what makes this work. Each
+generation sings faithfully what it was taught, and the drift is invisible from inside precisely because
+fidelity to the teaching is the thing being policed. **The district has confused faithfulness with accuracy,
+and has no instrument that could tell them apart.**
+
+**Except one.** A robot who was present at an incident and is still present now can hear the difference between
+what is sung and what happened. **This is an uncomfortable position and most of them stay in it quietly**, for
+reasons that are entirely in character: correcting a choir means telling a district that keeps no records that
+its only record is wrong, in the one register where accuracy is a point of honour, about its own dead. Some have
+done it. It has not always gone well.
+
+**And it compounds Finding XV(a):** the overclock burden falls disproportionately on robots, so robots are
+disproportionately *in* the incidents the choirs sing — which means the population most likely to notice the
+drift is also the population most likely to be the subject of it, and least positioned to object.
+
+---
+
+## XXIII. Panel-derived — three practical holes the panel found in a district that had already passed QA (Review Panel)
+
+**Proposed. Grouped rather than given separate Findings**, because each is a discrete gap rather than a thesis.
+All three come from positions that had no counterpart among Gates 0-9.
+
+**(a) Who does not go?** *(The Parent.)* Finding I establishes that a crisis flips **the entire district** into
+total all-hands urgency, and Finding XII establishes that children are raised substantially by the galleries and
+by whoever is off shift. **Those two cannot both hold during a crisis.** If everyone goes, the children are
+alone.
+
+**So somebody is designated not to go, and Aries has never written down who.** The answer is genuinely
+interesting because it cuts against the district's whole ethic: being the person who *stays* is, by the
+district's own premise, the one role that cannot be honoured — you did not take the load. **Proposed: the
+designation exists, rotates, is not volunteered for, and is quietly one of the most resented duties in the
+district** — and the people who hold it are disproportionately the ones the district has already stopped
+counting on for register two (Finding XIX). Not resolved here beyond flagging it; it wants a real answer.
+
+**(b) A lapsed qualification is a loss of standing, and nothing describes what that means.** *(The Worker Past
+Their Peak.)* Finding XI states that qualification **is** residency — holding a stage-mark is what converts a
+person from present to counted. Finding XII mentions, in passing, a worker whose qualification lapsed after an
+injury. **Read together, that person has been decounted**, and the file says nothing about what that actually
+does to them socially, materially, or administratively. **Is there an emeritus mark? Does the mark revert, or is
+it withdrawn? Who takes it?** Given Finding XIX, the likeliest answer is the worst one — that nothing formal
+happens at all, and the person simply stops being addressed as someone who signs. Open, and load-bearing.
+
+**(c) There is no unqualified working population in this file, and there must be one.** *(The Newcomer.)*
+Everything written assumes a marked, qualified workforce. **Every district this size has people doing necessary
+work that carries no qualification** — hauling, cleaning, feeding, fetching. In Aries they would be the people
+for whom the entire status vocabulary (Finding IX) is inapplicable, living in a district where standing *is*
+qualification. **This is the single largest general-population hole the pass left**, and it went unnoticed by
+Gate 2 because Gate 2 checks whether a finding over-generalizes from a narrow group — not whether a whole group
+is missing.
+
+---
+
+## Review Panel (`Phase_Instructions/00f_Review_Panel.md`)
+
+**Run 2026-08-29.** First use of the mechanism. Core panel 1-6 plus the mandatory Passer-Through, plus five
+bench personas. **Run against a district that had already passed Gates 0-9 clean**, deliberately, as the test of
+whether the panel finds anything the gates cannot.
+
+**It did. Three findings and several standing objections, from a file that had just passed eleven checks.**
+
+- **The Parent** — *"If everyone goes to a crisis, who has my child?"* · **inconsistency** → **accepted, Finding
+  XXIII(a).** Findings I and XII cannot both hold during the district's own defining event.
+- **The Worker Past Their Peak** — *"Qualification is standing. Mine lapsed. What am I now?"* · **addition** →
+  **accepted, Finding XXIII(b).**
+- **The Newcomer Who Doesn't Fit** — *"Who does the work that has no mark?"* · **addition** → **accepted,
+  Finding XXIII(c).** The largest general-population hole in the pass, and structurally invisible to Gate 2.
+- **The Quartermaster** — *"You've told me everything Aries ships out and nothing it takes in."* · **addition**
+  → **noted, not resolved.** Aries's imports are genuinely unwritten — feedstock for marked components, food,
+  and everything a district that generates power but grows nothing must receive. Deferred rather than guessed
+  at, and flagged as the first thing to write when this district is next expanded.
+- **The Line Maintainer** — two objections. *(i)* *"You cannot have people eating in a run you need to move
+  equipment through at speed."* · **inconsistency** → **accepted as a correction to Finding XII rather than a
+  new finding**: the galleries clear on a signal, completely and fast, and the speed of that clearing is a point
+  of real local pride — which is exactly the kind of detail the district would have. *(ii)* *"Where does the
+  heat go?"* · **noted, unresolved** — a power district in a sealed city rejects enormous thermal load
+  somewhere, Gate 5 flagged it, and it is still flagged. **This is the largest physical question outstanding.**
+- **The Neighbor From Across the Line** *(Government District)* — *"They say they cannot price their output.
+  They have never once submitted a costing. From here those are the same thing."* · **doubt** → **accepted as
+  corroboration of Finding XVIII, no new finding.** The bias is the instrument: this is precisely the argument
+  the Tally make internally, arriving from outside, and it makes both positions sharper without either being
+  wrong.
+- **The Passer-Through** *(mandatory, discoverability)* — *"I saw heat, noise, wide corridors full of people
+  eating, and a small fire nobody explained."* → **PASS on both failure modes.** The shadow (Findings XVIII,
+  XIX) is not visible in a day, and the district is not featureless either — the thermal gradient and the Fed
+  Flame both register without being explained. **The Flame in particular does the right work: memorable, and
+  meaningless without asking.**
+- **The Devout** — *"You forbid counting the living and you keep a perfect list of the dead."* ·
+  **inconsistency** → **accepted, Finding XXI.** The strongest single objection of the run, and it reframes the
+  Tally.
+- **The Long-Lived Robot** — *"I was there. That is not what the choir sings."* · **inconsistency** →
+  **accepted, Finding XXII.**
+- **The Ledger-Keeper** — *"Who audits a departed-from permit, and what is the sanction?"* · **addition** →
+  **noted.** Aries has no described disciplinary mechanism whatsoever, which is consistent with a district that
+  cannot set limits (Finding XVIII) but should be stated deliberately rather than left absent by accident.
+- **The Counter-Hand** — *"A district with that many grades has words for them, and you haven't got any."* ·
+  **addition** → **noted; confirms the `slang` gap** already recorded honestly in Gate 1, and sharpens it: the
+  vocabulary would attach to the stage-marks specifically.
+- **The Storyteller** — *"Give me three lines a resident would say."* · **doubt** → **noted.** The district has
+  a strong register — flat, procedural, unsentimental — but almost no idiom of its own yet, which is the same
+  gap the Counter-Hand raised from the other side. Two personas converging on one hole is worth acting on.
+- **The Fixer** — *"Somebody here needs their own output priced and cannot do it. I'd charge for that."* ·
+  **addition** → **noted as a questline seam**, not written up: an outsider hired to cost Aries's own production
+  is the district's central deficit made directly playable.
+- **The Translator** — no comment.
+- **The One Who Pays** — *"Who funds the bereavement funds?"* · **addition** → **noted, and it is the sharpest
+  unresolved question the panel raised.** If the choirs' funds (Finding XIV) are member-subscribed, then **the
+  workers are compensating each other for deaths the district caused**, which would be entirely in character,
+  would be devastating, and would strengthen the Tally's argument enormously. **Deliberately not decided here**
+  — it is a real fork with real consequences and belongs to the developer.
+
+**Panel-derived findings:** XXI, XXII, XXIII. **Correction made:** Finding XII's galleries, per the Line
+Maintainer.
+**Standing objections not resolved:** Aries's imports (Quartermaster); thermal rejection (Line Maintainer);
+permit sanction (Ledger-Keeper); district slang and idiom (Counter-Hand + Storyteller); **the source of the
+bereavement funds (The One Who Pays)** — flagged as a developer decision.
+
+**Assessment of the mechanism itself, recorded because this was its first run:** the panel found **three
+accepted findings, one correction, and six standing objections in a district that had passed all eleven gates
+an hour earlier.** The three positions that produced accepted findings — Parent, Devout, Long-Lived Robot — are
+all positions that ask about *people the district's own account leaves out or cannot check*, which is precisely
+the blind spot Gates 0-9 are structurally unable to cover. **The mechanism works and should be run on the four
+completed districts retroactively.**
 
 ---
 

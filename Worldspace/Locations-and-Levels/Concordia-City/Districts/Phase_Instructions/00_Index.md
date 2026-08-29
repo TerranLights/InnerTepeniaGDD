@@ -55,8 +55,17 @@ least one is wrong.
 0. `00e_Substrate_Application_Pass.md` — how to apply `../Zodiac_Personality_Substrate/` to a district.
    Two modes (second pass for Cancer/Taurus/Leo, first-pass input for the other ten), the overlap check that
    stops it becoming a re-labelling exercise, the capability reading, and the translation discipline.
+0. `00f_Review_Panel.md` — **positioned observers who read a finished location and say what they would add,
+   doubt, or flag.** Added 2026-08-29 to cover the one thing the other gates structurally cannot: what a person
+   standing in the place would notice that the author would not. Runs as Gate 10. **Built on K.M. Weiland's
+   archetypes and John Truby's character web**, both already mined into the character methodology — the standing
+   panel is Weiland's **six Flat Archetypes (Child, Lover, Parent, Ruler, Elder, Mentor)**, the *resting*
+   life-stages, with the six Life Arcs and twelve Shadows as a bench and Truby's four-corner opposition as the
+   check on the panel itself. **These are positions in a human life, not roles in a society or a studio**, so
+   the roster carries unaltered to cities, nations and orbital settlements — and to novels and films as readily
+   as to this game. One of the few instruments here already fit for the universal location methodology.
 0. `00c_Completion_QA_Checklist.md` — the closing gate; a district is complete only when it passes all
-   **ten gates, 0 through 9** *(expanded 2026-08-29 after Taurus)*. **Gate 0** verifies the Plan's completion
+   **eleven gates, 0 through 10** *(expanded 2026-08-29 after Taurus)*. **Gate 0** verifies the Plan's completion
    claim against the file itself — it caught a district marked "ALL 8 PHASES COMPLETE" that was missing an
    entire phase. **Gate 9** checks whether a finding wrote only the favorable half of a symmetrical mechanism.
 1. `01_Phase_1_Lived-in_Texture.md` — Architecture, Sensory Profile, Export Culture
