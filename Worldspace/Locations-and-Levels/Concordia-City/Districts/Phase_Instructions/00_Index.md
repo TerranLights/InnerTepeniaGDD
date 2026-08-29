@@ -496,6 +496,11 @@ against the Plan's own audit. And the coverage data across all eight completed d
 work is its civic function, Aries because of the martyrs, the Yards because the missing guild burial fund became
 a finding. **Where nothing else pulled it in, it is absent, and the instrument never asked.**
 
+**Bounded the same day, at the developer's direction:** the *question* is obligatory, **a section is not.**
+Real cities do not give every district a burial ground, and Concordia — sealed, with no ground to open — makes a
+centralized or exported answer the expected one. *"The body goes to Scorpio"* is a complete answer worth a line.
+**Thirteen bespoke funerary traditions in one sealed city would be its own Gate 6b failure.**
+
 **That is the second structural hole found in the Plan**, after *no phase covers inter-district relationships*.
 → New Phase 7 category with its questions at `07_Phase_7` §1b; **back-filling all eight completed districts is
 now a recorded task in the Plan**, not a tidy-up. The two sharpest unanswered versions are the Labs (a
