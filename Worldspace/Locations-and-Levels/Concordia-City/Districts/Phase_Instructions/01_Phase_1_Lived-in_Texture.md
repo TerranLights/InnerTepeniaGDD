@@ -24,8 +24,9 @@ finding.
 **So: before writing anything for a district, research all of its `District-Inspirational-Influences.md` picks
 — every tier, Primary through Supporting — at the concrete level, and keep the results to hand for the whole
 run.** Doing it per-phase wastes effort and, worse, means later phases never see material that would have
-answered them. Cancer's own research summary is recorded at the head of its Phase 1-7 block in
-`Cancer_Full_Extrapolation.md` as the format to follow.
+answered them. Cancer's own research summary is recorded at the head of its **Phases 1-8** block in
+`Cancer_Full_Extrapolation.md` (the heading there reads "District Culture Development Plan — Phases 1-8") as
+the format to follow.
 
 ---
 

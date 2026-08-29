@@ -1,6 +1,6 @@
 # Cross-Phase Discipline — General Population, Not Narrow Context
 
-**Added 2026-08-16, after a real, repeated mistake caught during the Scorpio pass.** This applies across all 7
+**Added 2026-08-16, after a real, repeated mistake caught during the Scorpio pass.** This applies across all 8
 phases, not just one — read it alongside `00_Index.md` before starting any phase for any district.
 
 ---

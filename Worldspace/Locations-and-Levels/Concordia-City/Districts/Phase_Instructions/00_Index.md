@@ -6,7 +6,7 @@ and actually execute that phase for all 13 districts without needing to reconstr
 from `../District_Source_Index.md`, or from conversation memory.
 
 **How these relate to the other governing files** (don't duplicate them, point to them):
-- `../District_Culture_Development_Plan.md` — the *what* and *in what order*: the 7-phase structure, the
+- `../District_Culture_Development_Plan.md` — the *what* and *in what order*: the 8-phase structure, the
   per-district checklist, the progress tracker.
 - `../District_Source_Index.md` — the *where*: every file in the repo carrying real content about each district.
 - `../../Real-World_Basis_Extrapolation_Method.md` — the technique for deriving concrete places/things/people/
@@ -61,6 +61,36 @@ least one is wrong.
 
 ## Status
 
-Phase 1 has one completed worked example (Cancer — `Cancer_Full_Extrapolation.md` Findings VIII-X, done
-2026-08-16) demonstrating the method described in `01_Phase_1_Lived-in_Texture.md`. No other district/phase
-combination has been executed yet as of this writing.
+**Updated 2026-08-29.** Three districts have now been through the full eight-phase sequence:
+
+- **Cancer — all 8 phases COMPLETE and QA-PASSED.** Rewritten from scratch 2026-08-16 with real research on
+  all eight of its real-world picks. `Cancer_Full_Extrapolation.md` Findings VIII-XXI, with the completion QA
+  block recorded at the foot of that file. **It is the reference example for every phase**, not just Phase 1 —
+  but see the warning below on what that does and does not mean.
+- **Taurus — all 8 phases complete (2026-08-16), NOT QA'd.** Predates Phase 7, the research-first rule, and
+  the general-population discipline. Treat with caution and re-check before relying on it.
+- **Leo — all 8 phases complete (2026-08-16), NOT QA'd.** Same caveats as Taurus.
+
+The remaining ten districts have not been started. See `../District_Culture_Development_Plan.md`'s progress
+tracker for exact per-phase counts, which are authoritative over this summary.
+
+### ⚠ Cancer is a reference for METHOD, never a template for CONTENT
+
+**Read this before using Cancer as a model for anything.** Cancer demonstrates *how thoroughly* a district
+should be worked — real research actually run, general-population discipline applied, findings tagged honestly,
+the Swap Test performed, gaps reported rather than padded. **Copy that standard.**
+
+**Do not copy its answers, its institutions, or its shape.** Every district must be derived from its own
+material, on its own terms. Cancer has care institutions, a caregiving-robot network, and memorial workshops
+because *Cancer* is what it is — that implies nothing about what any other district contains. There is no
+reason to expect a hospital-equivalent, a Green Ledger-equivalent, or a Keeping-equivalent anywhere else, and
+inventing one "because Cancer has one" is precisely the failure this methodology exists to prevent.
+
+The binding rule from `../../Cultural_Synthesis_Techniques.md` applies with full force: **never carry one
+location's answers into another — if two places produce similar-shaped answers to the same technique, at least
+one of them is wrong.** `00c_Completion_QA_Checklist.md`'s **Gate 4 (Swap Test)** is the mechanical check: if a
+finding would survive being swapped onto a comparable district essentially unchanged, it hasn't localised and
+must go back.
+
+A finished district should be unmistakably *itself*. Twelve districts reading as variations on Cancer would
+mean the methodology failed, however polished each one is.

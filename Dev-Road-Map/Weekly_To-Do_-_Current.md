@@ -321,10 +321,19 @@ in this file, including the rest of "High Priority" below, until done or explici
   Core premise established 2026-07-04 (a diplomat assaulted a gynoid, killed in self-defense — she's Akina);
   the three specific identities involved are not yet chosen. See `TODO.md`'s "Decision Required" section.
 
-- [ ] **Capricorn's core injustice — mechanism not yet chosen**
-  Expanded 2026-07-20 from a rename question into a mechanism question; 4 contenders shortlisted, none
-  chosen. See `Districts/Deep_Dives/06b_Capricorn_Alternative_Conditions.md` and `TODO.md`'s "Decision
-  Required" section.
+- [x] **Capricorn's core injustice — RESOLVED 2026-07-29 as "The Narrow Door." This entry was stale; corrected 2026-08-29.**
+  This tracker said "4 contenders shortlisted, none chosen" for a month after the decision was actually made.
+  `Districts/Deep_Dives/06b_Capricorn_Alternative_Conditions.md` line 79 carries the confirmation, and
+  `DONE.md` records it too — only this file was out of date. **The resolution is a composite of three
+  independently-true mechanisms, not a single pick:** Option #2 (guild patronage over merit) + Option #7
+  (calibration/scheduling drift), together called **nAlpha**, with Option #8 (a physical master-workstation
+  ceiling mistaken for policy) layered on top as a separately-true condition. The layers compound rather than
+  merely coexist — scarcity turns nAlpha's mild bias into near-total exclusion, and the resulting homogeneous
+  master pool is the only body with authority to recalibrate the schedule or fund an expansion, so neither ever
+  happens. **The distinctive result: the injustice is invisible from the inside, not merely unaddressed** —
+  each layer looks like an ordinary, reasonable problem of its own kind.
+  *(Note: `nAlpha` is real project vocabulary — part of an nAlpha-through-nEpsilon option-combination naming
+  convention also used in `Deep_Dives/10c_Pisces_Black_Market_Origin.md`. It is not a typo; do not "fix" it.)*
 
 - [ ] **Byrd↔Janbogo aviation refueling stop — needs a real fix**
   See `TODO.md`'s "Decision Required" section for the underlying problem.

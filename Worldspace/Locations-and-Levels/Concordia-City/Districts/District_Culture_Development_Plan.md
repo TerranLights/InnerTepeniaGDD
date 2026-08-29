@@ -11,7 +11,7 @@ forced into district-level content).
 
 > ### ⚠ RE-AUDIT, 2026-08-16 — the tiers above account for only 16 of the 32 sections
 >
-> Caught immediately after Cancer's full 7-phase pass: Cancer cleared every phase and **still had no Cuisine,
+> Caught immediately after Cancer's full 7-phase pass *(the count is correct here — this describes the plan as it stood BEFORE Phase 7 Native Culture was inserted and Robot-Specific was renumbered 7→8; do not "correct" it to 8)*: Cancer cleared every phase and **still had no Cuisine,
 > no Music, no Arts, no Counterculture, no Municipal Holidays, and no district-level Human-Robot Relations** —
 > and `siligel`, established Tepenia-wide robot-food canon, appeared zero times in the entire file. Sixteen of
 > the template's thirty-two sections were never classified into any tier, so no phase was ever assigned to
@@ -333,7 +333,7 @@ gets promoted into a proper Full_Extrapolation Finding as part of the relevant p
 Legend: **+ already has it** (may still need light expansion or promotion into Full_Extrapolation) · plain
 entry = needs full development from scratch.
 
-### 01 — Cancer — **ALL 7 PHASES COMPLETE — REWRITTEN FROM SCRATCH 2026-08-16**
+### 01 — Cancer — **ALL 8 PHASES COMPLETE — REWRITTEN FROM SCRATCH 2026-08-16**
 - Architecture — **Done** (Finding VIII — apse vernacular, **the Window Reach**, Growing Towers, root tenants; Stage 2's rectilinear Overcrowding-era building as a standing architectural confession)
 - Sensory Profile — **Done** (Finding IX — adds **windbells** and the constant arm's-height foliage contact)
 - Export Culture — **Done** (Finding X — **cast windbells** and rooted stock give Cancer real physical exports, not only expertise)
@@ -349,7 +349,7 @@ entry = needs full development from scratch.
 - **QA — Completion Check: PASSED** (all 8 gates, `Phase_Instructions/00c_Completion_QA_Checklist.md`, recorded at the foot of the district's own file)
 - **Why rewritten:** the first pass re-labelled existing canon rather than generating new culture, and "applied" the Real-World Basis method from memory instead of researching. Redone with actual research on all eight picks; **four had never been used at all** (Père Lachaise, Arcosanti, Findhorn, Hundertwasserhaus) and three of those four produced the file's strongest material. **This is the reference example for the other 12 districts** — see `Real-World_Basis_Extrapolation_Method.md`'s worked-example table.
 
-### 02 — Taurus — **ALL 7 PHASES COMPLETE (2026-08-16)**
+### 02 — Taurus — **ALL 8 PHASES COMPLETE (2026-08-16)**
 - Architecture — **Done** (Finding V)
 - Sensory Profile — **Done** (Finding VI — extended the pre-existing Soundscape Finding III)
 - Export Culture — **Done** (Finding VII)
@@ -360,9 +360,9 @@ entry = needs full development from scratch.
 - Ordinary Daily Life — **Done** (Finding XII, Phase 5)
 - Thematic Breadth Catalog — **Done** (Finding XIII, Phase 6)
 - Robot-Specific Culture — **Done** (Finding XIV, Phase 8 — first-pass; full Robot Universals triage still pending)
-- Second district to complete the full 7-phase process.
+- Second district to complete the full 8-phase process.
 
-### 03 — Leo — **ALL 7 PHASES COMPLETE (2026-08-16)**
+### 03 — Leo — **ALL 8 PHASES COMPLETE (2026-08-16)**
 - Architecture — **Done** (Finding V)
 - Sensory Profile — **Done** (Finding VI)
 - Export Culture — **Done** (Finding VII)
@@ -373,7 +373,7 @@ entry = needs full development from scratch.
 - Ordinary Daily Life — **Done** (Finding XII, Phase 5)
 - Thematic Breadth Catalog — **Done** (Finding XIII, Phase 6)
 - Robot-Specific Culture — **Done** (Finding XIV, Phase 8 — first-pass; full Robot Universals triage still pending)
-- Third district to complete the full 7-phase process.
+- Third district to complete the full 8-phase process.
 - **Resolved during this pass, 2026-08-16:** the pending Leo Star War issue ([[project_leo_star_war_resolution_and_rename_pending]]) was fixed opportunistically — Findings II and IV in `Leo_Full_Extrapolation.md` (and the Mega_Init's Hard Facts row) were stale against the confirmed 2026-07-29 Combined Version and have been corrected. Per direct developer instruction, "The Star War" is not used anywhere in this file's new or corrected material — the replacement name itself remains undecided and deliberately deferred, referred to descriptively instead.
 
 ### 04 — Scorpio
@@ -535,7 +535,7 @@ did, on solid ground rather than in isolation.
 
 ## Planned follow-on (after all 13 districts clear all 8 phases): a full Robot Universals triage pass
 
-**Developer instruction, 2026-08-16 — not yet started, explicitly gated on every district finishing all 7
+**Developer instruction, 2026-08-16 — not yet started, explicitly gated on every district finishing all 8
 phases first.** Cancer's own Phase 8 pass (`Cancer_Full_Extrapolation.md` Finding XVII) was run without loading
 the complete *Robot Universals* reference text in full (`TepenianUniverseTimeline/Reference/Robot_Universals/`)
 — it worked instead from Cancer's own already-established robot-population material plus the confirmed
