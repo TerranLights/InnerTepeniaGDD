@@ -419,17 +419,25 @@ entry = needs full development from scratch.
 - **QA Completion Check — PASSED 2026-08-29**, Gates 0-9. Gate 0 failed (under-claiming), **Gate 2 failed on pre-existing material** (the mask error, flagged by the developer), Gate 9 failed and produced Finding XIX. `sport`, `game`, `slang`, `gender` remain open.
 - Note: Scorpio's diaspora composition is the Stage 2 Override case (Casey/Zukelli/Belgrano/Palmer City, grief-driven, not ordinary affinity) — Fashion and Religious/Philosophical content here should account for that same grief-driven character rather than defaulting to a generic treatment.
 
-### 05 — Aries
-- Architecture — needed
-- Sensory Profile — needed
-- Export Culture — needed
-- Religious/Philosophical Landscape — needed
-- Fashion — needed
-- Arcanet Culture (dedicated) — needed
-- Visitor Experience / Visitor-to-Resident Transition — needed
-- Ordinary Daily Life — needed (Phase 5)
-- Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 8)
+### 05 — Aries (The Power Core) — **ALL 8 PHASES COMPLETE + QA PASSED (2026-08-29)** — *second Mode B district*
+
+> **Gate 0: PASS — the first clean result on this gate.** Claim and file agreed. Recorded because three of the
+> four preceding districts failed it (Taurus and Leo over-claiming, Scorpio under-claiming).
+
+- Architecture — **Done 2026-08-29** (Finding V — built around access; no room ever built for deliberating)
+- Sensory Profile — **Done 2026-08-29** (Finding VI — the significant sound is a *change* in the sound)
+- Export Culture — **Done 2026-08-29** (Finding VII — power, marked components, and people who are good in an emergency)
+- Religious/Philosophical Landscape — **Done 2026-08-29** (Finding VIII — names the load-premise under "Overclock Martyrs" and "duty, not pride"; the Fed Flame)
+- Fashion — **Done 2026-08-29** (Finding IX — heat-rated working dress and the stage-mark; martyrs explicitly *not* the baseline)
+- Arcanet Culture (dedicated) — **Done 2026-08-29** (Finding X — total operational telemetry, near-zero institutional memory; the permit and the handover)
+- Visitor Experience / Visitor-to-Resident Transition — **Done 2026-08-29** (Finding XI — qualification *is* residency; conflict geometry written in per Mode B)
+- Ordinary Daily Life — **Done 2026-08-29** (Finding XII, Phase 5 — the galleries, shift rotation)
+- Thematic Breadth Catalog — **Done 2026-08-29** (Finding XIII, Phase 6 — four picks researched at concrete level)
+- Native Culture — **Done 2026-08-29** (Findings XIV-XVI, Phase 7 — the choirs are the district's archive *and* its compensation mechanism)
+- Robot-Specific Culture — **Done 2026-08-29** (Finding XVII, Phase 8 — first-pass)
+- Substrate findings — **Done 2026-08-29** (Findings XVIII-XX, folded in as Mode B input)
+- **QA Completion Check — PASSED 2026-08-29**, Gates 0-9. Gate 0 passed; **Gate 9 failed and produced Finding XIX** (fourth consecutive district where the failure was in pre-Plan material). `sport`, `slang`, `gender`, `elder` remain open; `funeral` and `humor` recorded as covered-in-substance.
+- **First district with a complete four-term capability row**, and the first whose structural deficits have a specific address — both are concentrated in the district it is set against.
 
 ### 06 — Capricorn
 - Architecture — needed
@@ -551,10 +559,10 @@ for the "already has it" districts needing promotion rather than fresh writing) 
 - [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (3/13 done: Cancer, Taurus, Leo; 10 new remain)
 - [ ] Phase 5 — Ordinary Daily Life (3/13 done: Cancer, Taurus, Leo; 10 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
 - [ ] Phase 6 — Thematic Breadth Catalog (3/13 done: Cancer, Taurus, Leo; 10 new remain; places/things/people-as-placeholders/settings per district)
-- [ ] Phase 7 — Native Culture (4/13 done: Cancer, Taurus, Leo, Scorpio; 9 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
+- [ ] Phase 7 — Native Culture (5/13 done: Cancer, Taurus, Leo, Scorpio, Aries; 8 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
 - [x] Phase 8 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/08...md` §1
 - [ ] Phase 8 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
-- [ ] **QA Completion Check** (4/13 passed: Cancer, Taurus, Leo, Scorpio; 9 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
+- [ ] **QA Completion Check** (5/13 passed: Cancer, Taurus, Leo, Scorpio, Aries; 8 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
 
 Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and

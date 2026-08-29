@@ -125,7 +125,8 @@ professional performers are not its general musical culture.
 | 02 Taurus | **Done 2026-08-29** — added retroactively; the district had been marked "all phases complete" without it |
 | 03 Leo | **Done 2026-08-29** — added retroactively; same defect as Taurus, caught by Gate 0 |
 | 04 Scorpio | **Done 2026-08-29** — first Mode B district |
-| 05-13 | Not started |
+| 05 Aries | **Done 2026-08-29** — second Mode B district |
+| 06-13 | Not started |
 
 ---
 
