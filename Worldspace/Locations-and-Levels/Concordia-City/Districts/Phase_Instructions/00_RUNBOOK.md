@@ -180,8 +180,20 @@ district can even see it.*
 **2.3 Write it as a capability profile, not a diagnosis** — two strong faculties, two weak, then **one
 consequence.** If your consequence reads like another district's, it is wrong.
 
-> ⚠ **Two districts still share the double absence — Gemini and Sagittarius. Do not reuse either existing
-> answer.**
+> ⚠ **Sagittarius is the fourth district on the double absence — there are now three existing answers not to
+> reuse** (Leo *cannot fail gradually*; the Labs *cannot form a stable intention*; the Circuit *cannot make a
+> correction outrank the error*). **And it carries a second hazard the others did not: it is the Circuit's
+> opposition, and the Circuit was written first.** The danger there is not contradiction — **it is symmetry.**
+> The substrate is explicit that this particular opposition *presents as kinship and stalls there*, which makes
+> "write it as the mirror image" the most tempting and most wrong move available. **Its consequence must be
+> unrelated to the Circuit's, not inverse to it.**
+
+> ⚠ **Schedule Virgo and Pisces together, and write neither in ignorance of the other.** They are the two most
+> distinctive rows left in the table and they are **structural opposites on the single faculty of
+> verification** — Virgo holds it at maximum (the only district whose ruler is also its exalted planet), Pisces
+> at minimum (the only district where one faculty holds both detriment and fall). **That is the cleanest
+> inter-district conflict the dignity system produces anywhere**, and writing them a month apart without
+> reference would waste it. Whichever runs second must read the first's file before Step 2.
 
 **When a shape repeats, the procedure is three steps and only the first is shared.** *(Method recovered from
 Aquarius, which shares Leo's shape exactly and produced an unrelated finding.)*
@@ -256,7 +268,38 @@ and let them differ where the district's own character says they should. **Diver
 resemblance implied**, because it shows the reasoning.
 
 **3.6 Record what you skipped and why**, in Gate 7. Name the genuine omission separately from the redundant
-ones.
+ones. **Three outcomes now, not two — *changed*, *ornamented*, *withheld*** (`00c` Gate 7). Expect roughly
+70-80% of picks to change findings.
+
+**3.7 ⚠ Read `../District_Refugee_Diaspora_Composition.md`. Five of the nine completed districts did not, and
+it is the largest unexploited source in the folder.** *(Measured 2026-08-29 across all nine
+`Full_Extrapolation.md` files, findings only.)*
+
+```
+                diaspora  transplant  refugee
+01 Cancer          7          3          6
+02 Taurus          3          2          2
+03 Leo             6          4          0
+04 Scorpio         0          0          0     ← a Stage 2 Override district
+05 Aries           1          0          0
+06 Capricorn       0          0          0
+07 Aquarius        0          0          0
+08 Libra           0          0          1
+09 Gemini          1          3          5
+```
+
+**Scorpio is the indictment.** It is one of the four **Stage 2 Override** districts — four destroyed cities
+were routed into it specifically — and its file uses the word *refugee* **zero times.** Capricorn, Aquarius and
+Libra are the same story without the aggravating factor.
+
+**The file is per-district, already written, weighted, and specific**, down to named transplanted institutions
+and social-cohesion mechanisms per contributing city. **The Circuit's two best culture findings came out of it
+and out of nothing else** — the Zukelli food-and-music venues (Finding XVII) and the Memory Circles as the
+district's first funerary institution (Finding XXII). Neither was reachable from the substrate, from canon, or
+from any research pick.
+
+**This is the same failure as the Aquarius research case, in a different costume:** a rich, specific, already-
+written source declared unnecessary without being opened.
 
 ---
 
@@ -280,6 +323,11 @@ ones.
 - **Phase 2 religion: use the Naming technique before inventing.** *(6 for 6.)* Search canon for religious
   register attached to non-religious objects. **It does not always return a religion** — a district that already
   has one yields a *stake*, a *compact*, or a *creed* instead.
+- **When a category comes up empty, ask who *brought* one before inventing one.** *(New technique, 2026-08-29,
+  from the Circuit — see `../../Cultural_Synthesis_Techniques.md`, **Borrowed Form**.)* A district that lacks a
+  form very often has an incoming population that already had one, and **an institution the district borrowed
+  is a better answer than one it invented**, because it explains something already in canon and it carries a
+  built-in relationship: the host uses it, values it, and cannot quite say what it is receiving.
 - **Check `../Cross_District_Differentiation_Table.md` before writing each category.** See Step 6.
 - **General-population discipline throughout** (`00b`). Highest-risk categories: Fashion, Music, Sensory
   first-impressions, Visitor Experience.

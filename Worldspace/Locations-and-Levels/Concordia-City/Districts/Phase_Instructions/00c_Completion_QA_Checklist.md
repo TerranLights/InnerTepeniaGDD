@@ -105,6 +105,41 @@ for t in siligel cuisine music counterculture holiday human-robot glitch-coolant
 done
 ```
 
+> ### ⚠ The strip is the weakest part of this gate, and it has silently failed. Verify it. *(Added 2026-08-29,
+> after the Circuit.)*
+>
+> **The same scan was run three times over the nine completed districts and returned three different answers.**
+> Only the third was trustworthy. Nothing about the terms changed; **the strip boundary did.**
+>
+> **Three defects, all now fixed:**
+>
+> 1. **The header string is load-bearing and undocumented as such.** The command keys on
+>    `^## QA — Completion Check`. Eight districts use exactly that. **The Circuit's own pass wrote
+>    `# QA Block — Gates 0-10` instead, so the strip matched nothing and the entire QA block was counted as
+>    findings** — which made two districts appear to have death vocabulary they do not have. **That header
+>    string is now a fixed convention. Do not reword it.**
+> 2. **A too-generous boundary cuts real findings.** A pattern like `/Review Panel/` also matches the
+>    legitimate `## XXI. Panel-derived —` findings that live in the findings body, silently deleting them
+>    before counting. **Cut at the QA header and only the QA header.**
+> 3. **The strip was never verified.** It is now mandatory to prove it worked *before* recording any count:
+>
+> ```
+> # after stripping, this MUST return 0 — if it does not, the strip failed and every count below is invalid
+> grep -cE '· sport [0-9]|per-term counts|^ *funeral [0-9]' /tmp/findings.md
+> ```
+>
+> **Do not use `grep -c "Gate [0-9]"` as the verification** — it matches the legitimate `## XIX. Gate 9
+> finding —` headers that belong in the findings, and will report contamination on six districts that are
+> clean.
+>
+> ### Use stems, not whole words
+>
+> **`funeral` does not match `funerary`, and `mortuary` was never on the term list at all.** Re-scanning the
+> nine districts with `funerar` and `mortuar` added found real coverage in Scorpio (`funerar` 1, `mortuar` 2)
+> and the Circuit (`funerar` 2) that the original list scored as zero. **Prefer the stem in every case**:
+> `funerar` · `mortuar` · `religio` · `philosoph` · `architect` · `counterculture`. A **0** on any whole-word
+> term must be re-run against its stem before it is recorded as anything.
+
 Any zero is a fail. **So is a term that appears only inside a sentence declaring it absent** — the word being
 present is not the category being covered, and the gate is worthless if it accepts its own excuses.
 
@@ -255,6 +290,18 @@ reader will assume it's a duplicate.
 
 ## Gate 7 — Unused-research capture
 
+> **Three outcomes, not two.** *(Third added 2026-08-29, from the Circuit.)* Every researched pick is recorded
+> as **changed a finding**, **ornamented one**, or — new — **deliberately withheld.** A withheld pick is one
+> whose use would foreclose something the developer has explicitly held open: Wall Street open-outcry hand
+> signals are the natural grammar for the Circuit's reserved Lightwave Polyrhythm, so the pick was researched,
+> found excellent, and **not spent.** *(Withheld is not the same as unused. Record what it would have given and
+> what it is being held for, so a later pass can spend it the moment the concept opens.)*
+>
+> **And a running yield norm, now that four passes have countable figures:** Aquarius 4 of 6 · Libra 4 of 4 ·
+> the Circuit 8 of 10 changed, 2 ornamented, 1 withheld, 1 genuine omission. **Expect roughly 70-80% to change
+> findings.** A pass reporting 100% should be suspected of counting ornament as change; a pass reporting under
+> half either chose badly or stopped pushing before the picks paid out.
+
 Research always surfaces more than gets used. Before closing the district, record the leftovers in the
 district's own research summary — the specific real-world details found but not fused, and why. They are the
 first place to look when the district is next expanded. *Cancer's leftovers:* the *balie* (wet nurses who were
@@ -270,6 +317,22 @@ cross-district standout digest.
 ---
 
 ## Gate 9 — Asymmetry check: was only the favorable half written?
+
+> ### ⚠ Run it on the findings *this pass just wrote*, not only on the inherited ones. *(Added 2026-08-29.)*
+>
+> **Gate 9 has now fired on eight consecutive districts and every single time the defect was in the pre-Plan
+> 2026-07-09 material.** That looks like a strong gate. It is also, read carefully, **an untested one**: eight
+> for eight against one known defect class, and **not once has it been run against a finding written under this
+> methodology.** When the thirteen pre-Plan sets are clean, a gate with a perfect record will have no
+> demonstrated future yield.
+>
+> **So the gate now has two passes.** *Inherited* — the pre-Plan findings, at Step 1, before writing. *Own* —
+> **every new threshold, conversion, price, status or admission this pass introduced, checked the same way
+> before the QA block is written.** The Circuit's pass caught one this way and only by accident (going to zero
+> vs. drifting out of circulation, two mechanisms that both amount to *you stop being repeated*), which is
+> exactly the collision the own-pass check exists to find deliberately.
+>
+> **A pass that reports Gate 9 firing only on inherited material has probably not run the second pass.**
 
 **Added 2026-08-29 after Taurus, where this caught a real hole in existing canon.**
 

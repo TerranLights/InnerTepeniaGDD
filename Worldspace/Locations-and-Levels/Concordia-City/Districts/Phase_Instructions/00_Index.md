@@ -611,3 +611,93 @@ back-fill.**
   Lightwave Polyrhythm, and scoping a reserved developer concept is not this pass's to do. **Recording a
   withheld pick is a third Gate 7 outcome** alongside *changed* and *ornamented*, and it should be used whenever
   research would foreclose something held open.
+
+
+---
+
+## Ninth round of updates — the instrument, not the counts (2026-08-29)
+
+**This round produced no new district. It produced a correction to the round-8 evidence, a correction to that
+correction, and the discovery that the measuring apparatus was the problem in both directions.** Recorded at
+length because it is the first time the project's standing honesty problem has been caught by the author rather
+than by the developer.
+
+### The same scan, run three times, returned three answers
+
+Round 8's headline was that death practice appears only where another finding dragged it in, and that **two
+districts scored zero on every term.** Re-checking it after the Circuit:
+
+1. **First re-scan said the claim was false** — the Labs and the Government District appeared to have death
+   vocabulary after all. **That re-scan was contaminated:** it counted each district's own QA block, in which
+   those very terms appear *because the QA block honestly reported them as missing.*
+2. **Second re-scan cut too generously**, using a `Review Panel` boundary that also deleted the legitimate
+   `## XXI. Panel-derived —` findings living in the findings body.
+3. **Third re-scan, cut at the QA header and verified before counting, confirmed the original claim** — and
+   confirmed it against **five terms rather than four**, including `funerar` and `mortuar`, neither of which
+   had ever been scanned. **The Labs and the Government District are zero on all five.** Scorpio is richer than
+   recorded (8, not 7, plus a previously uncounted `funerar` 1 and `mortuar` 2).
+
+**Nothing about the terms changed between the three runs. Only the strip boundary did.**
+
+### Three defects in Gate 1, all fixed
+
+- **The QA header string is load-bearing and was undocumented as such.** The gate's own strip command keys on
+  `^## QA — Completion Check`. Eight districts use exactly that string; **the Circuit's own pass wrote
+  `# QA Block — Gates 0-10` instead**, so the strip matched nothing. **The pass broke the tool it was being
+  measured with.** Header corrected in the Circuit's file; the string is now a fixed convention.
+- **The strip was never verified.** It is now mandatory to prove it worked before recording a count — and the
+  obvious verification (`grep -c "Gate [0-9]"`) is wrong, because it matches the legitimate `Gate 9 finding`
+  headers and reports contamination on six clean districts. A precise residue marker is specified instead.
+- **Whole words instead of stems.** `funeral` does not match `funerary`; `mortuary` was never on the list.
+  **A 0 must now be re-run against its stem before it is recorded as anything.**
+
+> **The honesty note, stated plainly.** The runbook records that self-audit error in this project has run in
+> **one direction — toward flattering the pass — on every occasion measured.** This round is the first
+> counter-example: the first re-scan ran *against* the pass and was also wrong. **The direction was never the
+> real problem. An unverified instrument was.** A scan whose boundary is undefined will return whatever the
+> last edit happened to make it return, and the author will believe it either way.
+
+### The largest unexploited source in the folder, measured
+
+`District_Refugee_Diaspora_Composition.md` is per-district, weighted, and specific down to named transplanted
+institutions. **Five of the nine completed districts make no use of it whatsoever** — Scorpio 0/0/0,
+Capricorn 0/0/0, Aquarius 0/0/0, Libra 0/0/1, Aries 1/0/0. **Scorpio is the indictment**: a Stage 2 Override
+district, with four destroyed cities routed into it on purpose, using the word *refugee* zero times.
+
+**The Circuit's two best culture findings came out of that file and out of nothing else**, neither reachable
+from the substrate, canon, or any research pick. **This is the Aquarius research failure in a different
+costume** — a rich, already-written source declared unnecessary without being opened. → runbook Step 3.7.
+
+### A new generative technique: Borrowed Form
+
+**When a location has no form for something every society needs, check who arrived carrying one before
+inventing.** A borrowed institution beats an invented one because it explains something already in canon, it
+arrives with a relationship attached (used by people it does not belong to, in front of people it does), and
+**the host usually cannot say what it is receiving** — which is where the third-order finding lives. →
+`Cultural_Synthesis_Techniques.md`.
+
+### Gate 9 is eight for eight and has never actually been tested
+
+Every one of those eight firings was against the **same known defect class**: pre-Plan 2026-07-09 material.
+**Not once has Gate 9 been run against a finding written under this methodology.** When the thirteen inherited
+sets are clean, a gate with a perfect record will have no demonstrated future yield. **It now has two passes** —
+inherited at Step 1, and **the pass's own new thresholds before the QA block is written.** The Circuit caught
+one that way and only by accident.
+
+### Smaller
+
+- **Gate 7 has a third outcome: *withheld*** — researched, found excellent, and deliberately not spent because
+  using it would foreclose something the developer has held open. Distinct from *unused*: record what it would
+  have given and what it is being held for.
+- **A research-yield norm, now that four passes have countable figures.** Aquarius 4/6 · Libra 4/4 · the Circuit
+  8/10 changed. **Expect 70-80%.** A pass reporting 100% is probably counting ornament as change; one reporting
+  under half chose badly or stopped early.
+- **Scheduling for the remaining four.** **Virgo and Pisces must be written as a pair** — the two most
+  distinctive rows left, and structural opposites on the single faculty of verification, which is the cleanest
+  inter-district conflict the dignity system produces. **Sagittarius is double-absence #4 and the Circuit's
+  opposition**, and its hazard is not contradiction but **symmetry**: the substrate says this opposition
+  presents as kinship, which makes "write it as the mirror" the most tempting wrong move available.
+- **A non-finding, recorded so it is not rediscovered.** A count of disposition tags across the four Panel runs
+  suggested Aquarius and Libra had skipped the five-disposition vocabulary entirely. **They had not** — all four
+  runs have full panels with the mandatory Passer-Through and Lover faculty. The count was measuring backtick
+  formatting, not method.

@@ -865,7 +865,11 @@ being able to say what it was receiving.
 ---
 ---
 
-# QA Block — Gates 0-10, the Circuit, 2026-08-29
+## QA — Completion Check (District Culture Development Plan)
+
+**Gates 0-10, the Circuit, 2026-08-29.** *(Header wording is the eight-district convention and must stay
+exactly this string — `00c` Gate 1's strip command keys on it. This pass originally used `# QA Block`, which
+the command does not match; see the round-9 note in `00_Index.md`.)*
 
 **Per `00c`, and per the standing rule that raw scan output is pasted and never summarized.**
 

@@ -398,3 +398,44 @@ Full discipline in `Concordia-City/Districts/Phase_Instructions/00b_General_Popu
 7. **Add to this file.** Any new operation that produced a good result and could plausibly produce a
    *different* good result elsewhere gets extracted into its architecture, its question, its divergence table,
    and one brief instance.
+
+
+---
+
+## Technique — Borrowed Form *(added 2026-08-29, from the Circuit)*
+
+**When a location has no form for something every society needs, do not invent one until you have checked who
+arrived carrying one.**
+
+**The move.** A place's population is not homogeneous and did not all originate there. Where a category comes
+up empty — mourning, celebration, arbitration, hospitality, apprenticeship — **look at the incoming
+populations' own home traditions before generating anything.** If one of them already had the missing form,
+that is very likely the real answer, and it is a better answer than an invention for three reasons:
+
+1. **It explains an institution that already exists** rather than adding a parallel one. The Circuit's Zukelli
+   Memory Circles were sitting in canon as a "grief-processing space"; reading them as **the district's first
+   funerary institution, taught to it by its refugees**, explains why they exist at all in a district whose
+   native practice was to report a death and let it decay out of circulation.
+2. **It comes with a relationship, free.** A borrowed form is used by people it does not belong to, in the
+   presence of people it does. That asymmetry generates ordinary, low-stakes, unresolvable social texture
+   without anyone being at fault — a host-born resident who attends and feels they have no right to be there;
+   a donor community that has never objected and finds it touching.
+3. **The host usually cannot say what it is receiving**, which is where the third-order finding lives. The
+   Circuit adores the Zukelli food-and-music venues and believes it is enjoying the cooking. What it is
+   actually experiencing, in the only rooms where this is possible, is **a meal with a beginning and an end,
+   eaten in one place, with the same people present at the end as at the start** — a form it has no native
+   version of and cannot name.
+
+**The diagnostic question:** *does this district lack the form, or does it merely lack a native one?*
+
+**The two failure modes.**
+- **Do not use this to skip the capability reading.** The borrowed form should explain a gap the capability
+  reading already predicted, not paper over one nobody looked for.
+- **Do not make the donor community a solution.** They did not arrive to fix anything, they are not thanked,
+  and the borrowing is usually invisible to both sides. If the transplant reads as the district being rescued,
+  it has been written wrong.
+
+**Where the material is.** `Concordia-City/Districts/District_Refugee_Diaspora_Composition.md` — weighted
+per-district composition with named, portable institutions and social-cohesion mechanisms per contributing
+city. **Measured 2026-08-29: five of the nine completed districts make no use of it at all**, including
+Scorpio, which is a Stage 2 Override district and uses the word *refugee* zero times.

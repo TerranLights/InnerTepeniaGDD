@@ -39,6 +39,29 @@ district does with a body.
 **And the measured consequence across eight completed districts is unambiguous.** Findings-only counts, QA
 blocks stripped:
 
+> ### ✅ Re-verified 2026-08-29 against nine districts, with a verified strip and a wider term set.
+>
+> **The table below is the original eight-district scan and is superseded by this one.** The headline claim
+> survives and is now better sourced than when it was made — **including against the two stems that were never
+> scanned the first time.**
+>
+> | District | death | funeral | funerar | mortuar | mourn |
+> |---|---|---|---|---|---|
+> | **Scorpio** | **8** | 0 | **1** | **2** | 0 |
+> | Cancer | 3 | 0 | 0 | 0 | 1 |
+> | Aries | 3 | 0 | 0 | 0 | 0 |
+> | **The Circuit** | 2 | 0 | **2** | 0 | **3** |
+> | Taurus | 1 | 1 | 0 | 0 | 1 |
+> | Leo | 1 | 0 | 0 | 0 | 1 |
+> | The Yards | 0 | 1 | 0 | 0 | 1 |
+> | **The Labs** | **0** | **0** | **0** | **0** | **0** |
+> | **The Government District** | **0** | **0** | **0** | **0** | **0** |
+>
+> **The two zeroes are confirmed, and confirmed against five terms rather than four.** Scorpio is richer than
+> first recorded (8, not 7, plus previously-uncounted `funerar` and `mortuar`). **The Circuit is the only
+> district whose numbers come from a section written on purpose** rather than dragged in by another finding —
+> which is what the category was added to produce.
+>
 > ⚠ **Scan-term correction, 2026-08-29, found by the Circuit's Gate 1.** The term `funeral` **does not match
 > `funerary`**, which is the word a section on this subject is most likely to actually use. The Circuit's own
 > §XXII scored **0** on `funeral` while scoring **2** on the `funerar` stem. **Use the `funerar` stem, not
