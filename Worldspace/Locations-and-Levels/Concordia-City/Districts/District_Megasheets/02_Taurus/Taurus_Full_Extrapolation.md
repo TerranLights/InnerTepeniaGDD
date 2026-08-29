@@ -149,3 +149,514 @@
 **Original standout, still holding:** Section I — reading the Coldsiders divide's visual subtlety as consistent with, rather than a softening of, its actual social significance — ties directly into a pattern Taurus shows everywhere: this is a district that keeps its real fault lines quiet by cultural habit, not because they've stopped mattering.
 
 **Standout of the full 7-phase District Culture Development Plan pass (Findings V-XIV, completed 2026-08-16):** Finding VIII (Religious/Philosophical Landscape — The Recorded Bond) is the one worth flagging above the rest, because it's the single thread every other new Finding ties back into. Once "a bond isn't fully real until it's recorded" is named as Taurus's actual governing belief, Finding VII's stay-put export economy, Finding X's trauma-driven distrust of Arcanet-only archiving, Finding XI's two-stage visitor-to-resident transition, and Finding XIV's robot-status-by-lineage system all read as the same underlying value expressed six different ways, rather than six separate district facts that happen to coexist. The Unverified's own unacknowledged pain (already established canon) turns out to have real theological weight once the belief behind the Registry is finally named — the same kind of payoff Cancer's own Finding XI (Keeping) produced, confirming this is a repeatable pattern worth watching for in the remaining 11 districts: a district's most load-bearing "new" finding is very often a name for something it was already quietly believing.
+
+---
+
+# Phase 7 — Native Culture (added 2026-08-29)
+
+**Why this section exists.** Taurus's original pass ran Phases 1-6 and 8 and was written before Phase 7 was
+inserted into the Plan (2026-08-16). The QA gate at the bottom of this file found the resulting holes
+mechanically: `siligel`, `music`, `counterculture`, `holiday`, `funeral`, `sport`, `humor` and `slang` all
+returned **zero** occurrences. Phase 7 covers seven of those categories directly. Written per
+`Phase_Instructions/07_Phase_7_Native_Culture.md`, governing discipline **native, not transplanted** — the
+diaspora file records what feeder populations brought; this records what Taurus itself developed across 250
+years.
+
+---
+
+## XV. Cuisine, Music, and Arts — the district that makes things out of time (Phase 7)
+
+**Proposed — the unifying insight, which each of the three categories then expresses differently: Taurus is not a
+district that produces raw material, so its entire material culture is built on transformation by duration
+rather than by ingredient.** It has no Growing Towers and no farmland; per Finding XII its goods arrive by
+shipment from Sagittarius. What it has instead is 250 years of not moving, and every craft it developed converts
+that into value. **The question a Taurus resident asks about anything made is not "what is it made of" but "how
+long has it been going."**
+
+**(a) Human food.** The district's cuisine is a **preservation cuisine, not a production one** — it takes in
+ordinary imported stock and makes it remarkable by holding it. This is why the established "best preserved and
+fermented food in the city by general consensus" claim is structurally true rather than a boast: no other
+district is willing to wait that long.
+
+**The central food object is the household rotation** — the already-canon **Long Stew Rotation** read literally
+and at full weight. A household's pot is never fully emptied. It is added to, drawn from, and carried forward,
+and the oldest ones in the district are understood to be genuinely continuous with pots started generations ago.
+Nobody claims the *matter* is original; what is claimed, and what matters under The Recorded Bond (Finding
+VIII), is that the **rotation was never broken.** A household that lets its pot go cold and empty has done
+something socially legible and quietly serious, and restarting is not the same as continuing.
+
+The **household vessel** (Finding XIII) is the rotation's ceremonial counterpart — sealed rather than
+continuous, opened rarely, and the object a household's provenance documentation is most likely to actually
+cover.
+
+**(b) What eating means.** **Being fed from a household's rotation is the district's real admission ritual, and
+it is Finding XI's Stage Two made edible.** A guest can be given tea, a full meal, hospitality of every visible
+kind, and none of it signifies. Being served from the pot does, because it takes something out of a continuity
+that cannot be replaced and gives it to you. Residents do not explain this to newcomers and are frequently
+unaware it needs explaining. **A newcomer can therefore be warmly hosted for years without once being fed, and
+without ever knowing that a line existed.**
+
+**(c) Robot cuisine and siligel — the district's own inflection.** *(Per `Robot_Physiology_and_Cultural_Practices.md`.)*
+**Taurus applies the rotation logic to siligel, and this is the single most Taurus-specific thing in the
+category.** Households maintain a **siligel culture** — a living starter stock, fed and carried forward exactly
+as the stew pot is, from which the household's robot members' siligel is prepared. The practice is not
+efficient; centrally produced siligel is available and cheaper. It persists because a robot fed from a
+four-generation household culture carries the same lineage standing that Finding XIV.1 already establishes for
+the robot's own tenure — **the food inherits the household's provenance, and confers it.** The Heirloom
+Provenance Offices document notable cultures alongside furniture.
+
+**Glitch-Coolant** falls on the established **working-class potency** side rather than the bohemian variety
+side, consistent with a residential district — but with a real local inflection: consumption is domestic and
+small-group, in household-adjacent gatherings (Finding XII), never in anything resembling a venue. **Taurus has
+no bar culture at all**, which is genuinely unusual in Concordia and follows directly from the noise ordinances
+and the household-centered social fabric rather than from any disapproval. There is no temperance sentiment
+here; there is simply nowhere public to do it.
+
+**(d) Music — and the constraint that defines it.** Taurus has a **fiercely enforced quiet ordinance** (Finding
+III) and, per the substrate reading below, a civic art that is fundamentally **vocal**. Those are in tension,
+and the tension is the finding: **Taurus's music is real, ubiquitous, and quiet by construction.**
+
+The district's native form is **unaccompanied close-harmony singing at conversational volume**, sung indoors and
+in doorways by ordinary residents rather than performers. Instruments are close to absent — not banned, simply
+impractical, because an instrument's volume cannot be modulated the way a voice can and carries past a wall
+where a voice does not. **The general population sings; Taurus has essentially no professional musicians**, and
+exports none. *(Note the geometry: performance-as-vocation belongs to Leo, one of the two districts Taurus grinds hardest against — substrate §8.)*
+
+- **Serious register:** sung recitation of household lineage and service history — the Genealogy Registry Halls'
+  written content in its oral parallel form (Finding X establishes that oral genealogical knowledge is
+  deliberately maintained as a living backup). It is sung because singing is how long lists are remembered
+  accurately, and it is one of the few things a Taurus household will do at full voice indoors.
+- **Social register:** the doorway songs, already half-established as **Quiet Hour Storytelling** (Finding XIII)
+  — performance pitched low enough that only those right at the threshold can hear. Attendance is physical
+  proximity; you have to come stand at the door.
+- **Mourning is sung**, and it is the one occasion on which the quiet ordinance is understood to be suspended
+  for a household without anyone needing to ask.
+
+**(e) Arts and aesthetics — visible repair as the district's aesthetic principle.** Taurus's heirloom-repair
+co-ops (Finding IX) are already canon; what was never stated is the aesthetic that follows. **A mend is not
+concealed here. It is the ornament.** An object's repair history is legible on its surface deliberately, because
+under The Recorded Bond the visible mend is a record, and a record is what makes the thing real. A flawlessly
+invisible restoration is regarded as slightly dishonest — competent work that erased evidence. **An object with
+no visible mends is a young object, and says so.**
+
+Literature: the district's characteristic written form is the **provenance document**, and the good ones are
+genuinely read for pleasure. A well-composed provenance — a chair's full documented passage through four
+households, with the incidents attached — is Taurus's equivalent of a novel, and skilled provenance-writing is a
+recognized minor art with recognized practitioners.
+
+---
+
+## XVI. Human-Robot Relations, Counterculture, and Private Life (Phase 7)
+
+**Proposed.**
+
+**(a) Human-Robot Relations — the local inflection is that the axis isn't human-versus-robot at all.** The
+national baseline is egalitarian and robot-skewed, and restating it is not a finding. Taurus's inflection
+follows from Finding XIV.2: **the bonded pair, not the individual, is the fundamental social unit here.** The
+consequence is that the district's real social division runs between **paired and unpaired**, and it cuts
+straight across both populations. An unpaired human and an unpaired robot in Taurus have far more in common with
+each other than either has with a bonded pair — same difficulty securing household-scale housing built around
+paired courtyards, same absence from the ceremonial calendar, same slight illegibility to a culture whose forms
+all assume two.
+
+**This is what would look strange to a visitor from another district**: not any human-robot friction, of which
+Taurus has notably little, but the fact that a competent, well-regarded, entirely unremarkable single adult of
+either species is treated as *not quite finished*. Nobody says it. It is in the housing stock, the ceremonies,
+and the registry forms.
+
+**And it is precisely why the Unverified's wound cuts as deep as it does** (Finding VIII): the Registry Collapse
+did not merely strip a legal status, it dropped thousands of people from the paired category into the unpaired
+one without any of them changing anything about their actual relationships.
+
+**(b) Counterculture — the unprovenanced.** *(Derived per Step C from the district's specific demand, not from
+generic rebellion.)* **What Taurus requires of everyone is that they be recorded.** The counterculture is
+therefore the people who have a record available to them and decline to use it.
+
+The seed is already in canon — Finding XII's "small unrecorded personal crafts deliberately kept apart from the
+heirloom-repair co-ops (not everything needs to become a genealogical object)." Formalized here: a loose,
+entirely legal, entirely sympathetic practice of making things **deliberately undocumented** — unsigned,
+unregistered, not entered anywhere, and often deliberately impermanent. Objects meant to be used up. Work that
+will leave no trace and is not supposed to.
+
+- **The mainstream's word for them is "unprovenanced," and they have no word for themselves**, which is the
+  point — being named is the thing they are declining. The asymmetry is deliberate: this is a district that
+  names and documents, so refusing the label *is* the position.
+- **Backbone:** disproportionately the young, disproportionately Coldsiders, and disproportionately residents
+  from the privacy-reserved founding cultures below — but not exclusively, and it is a practice rather than a
+  faction. It has no organization, no leadership, and nothing to join.
+- **How the two regard each other:** the mainstream reads it as a phase, mildly wasteful, faintly sad — *making
+  things nobody will remember* — and is not hostile. Practitioners read the mainstream as unable to enjoy
+  anything without first filing it. **Neither is villainous and neither is wrong.**
+- **The genuinely uncomfortable relationship is not with the mainstream — it is with the Unverified.** One group
+  had its record destroyed and is fighting to be re-entered; the other has a record and won't use it. Both
+  populations are sympathetic, their positions are irreconcilable, and the friction between them is quiet,
+  personal, and never institutional. **This is the strongest under-quest seam in the district.**
+
+**(c) Private Life and Minority Communities — the integration bargain and its generational bill.** Finding X
+already establishes that Zhongshan- and Sanay-descended residents (both privacy-reserved founding cultures)
+experience real friction with Taurus's unusually low internal privacy.
+
+**The bargain:** they receive what Taurus genuinely delivers — permanence, warmth, housing that outlasts them,
+and a community that will not let them fall — and they pay in **visibility**. Lineage, property, household
+composition, and service history are all effectively public here.
+
+**Behind closed doors:** they maintain a second, unrecorded interior life, and have for generations. Private
+observances, family knowledge, and relationships that simply never enter a Registry Hall ledger.
+
+**The generational cost, and it is a real one nobody intended:** Taurus's preservation machinery only preserves
+what is submitted to it. **A family that protects its interior life by keeping it out of the record loses that
+interior life within about three generations**, because the district has no other mechanism for carrying
+anything forward. Their neighbors' histories survive in full; theirs survive as far back as living memory
+reaches and no further. The district is not doing this to them. They are not doing it to themselves either,
+exactly. It is simply what the bargain costs, and it comes due long after anyone chose it.
+
+---
+
+## XVII. Municipal Holidays (Phase 7)
+
+**Proposed — three local observances, deliberately not all solemn.**
+
+**1. The Standing** *(civic, warm, moderately formal; annual).* The existing canon festival "celebrating
+families who never left" (Finding VII), named. Households that have held the same unit continuously for a full
+generation are read out by address at the neighborhood level. **The reading is by address, not by family name**,
+which is exactly the district's own logic — the unit is the thing with continuity, and the family is its current
+occupant. Warm rather than triumphal; the atmosphere is closer to a long registry recital than a celebration,
+and residents genuinely enjoy it.
+
+**2. The Broaching** *(household-scale, social, funny; occasional rather than calendrical).* A household opens a
+vessel that has been sealed for years. Neighbors are invited, which given the district's admission norms makes
+an invitation a real signal. **The results are frequently bad** — sometimes inedible — and this is the entire
+appeal. A spectacularly failed broaching is remembered and retold for decades, and being the household that
+produced one carries genuine affectionate status. It is the district's main venue for open laughter and the
+closest thing Taurus has to slapstick.
+
+**3. The Loud Night** *(annual, one night, mildly silly, quietly revealing).* The noise ordinance is formally
+suspended from dusk to dawn once a year. **Most of the district finds it exhausting and goes to bed at the usual
+hour**, which residents will tell you cheerfully and without irony. The people who actually use it are the
+young, the unprovenanced, and — disproportionately and unremarked — **the Coldsiders**, whose side of the
+district has less to protect and less invested in the ordinance being enforced. Nobody has ever noticed this out
+loud. It is one of the more efficient ways for a player to see the Insulation Schism without being told about
+it, precisely because the night is framed as harmless fun.
+
+*(Federation-wide holidays are observed in Taurus in the district's own register — quietly, at household scale,
+and with more food than noise.)*
+
+---
+
+# Second Pass — Zodiac Substrate Application (2026-08-29)
+
+**Procedure:** `Phase_Instructions/00e_Substrate_Application_Pass.md`, **Mode A**, source
+`Zodiac_Personality_Substrate/02_Taurus.md` plus `F_Rulerships.md` §5-6, `D_Aspect_Geometry.md` §5, and
+`B_Modalities.md` §3.
+
+**Mode A step zero — overlap check, run before writing anything.** Nineteen substrate concepts grepped against
+this file's Findings I-XIV. **Result: near-zero overlap — ten concepts scored 0, and every apparent hit above
+zero proved to be a false positive on inspection** ("voice" was metaphorical political voice; "ledger" was a
+genealogy ledger, not a debt ledger; "first impressions" was visitor sensory impression, not the vetting lock;
+"plains" matched *ex-plains*). **Most notably, `Scorpio` scored zero: Taurus's own opposite district is not
+mentioned anywhere in its extrapolation.** The substrate is therefore genuinely additive and the pass proceeds.
+
+**Proportion statement, required before findings** (`00d_Shadow_Proportion_Discipline.md`): **Taurus works.**
+It is the district that actually delivers on what it promises — housing that outlasts its occupants, a community
+that does not let people fall, food worth eating, and a continuity that residents value sincerely and are right
+to value. Nothing below is a claim that the district is secretly otherwise. Every finding here is a *byproduct*
+of a district succeeding at what it set out to do.
+
+---
+
+## XVIII. Capability profile — Taurus can hold value but cannot defend or reallocate it, and is the city's donor district (Second Pass)
+
+**Proposed — the pass's primary generator, and its most consequential output.** *(Substrate: `F_Rulerships.md`
+§5-6, D2 row.)*
+
+Stated as a capability profile rather than a diagnosis:
+
+- **Structurally strong at holding and increasing value.** Nothing decays here that anyone can prevent.
+- **Structurally strong at care and belonging** — per the substrate, **the strongest domestic capacity of any
+  district in the system.** This is not a compliment loosely applied; it is the district's actual peak faculty
+  and it should be written as genuinely excellent.
+- **Structurally weak at assertion.** It will not evict, will not strike, will not initiate a claim, and absorbs
+  encroachment rather than answering it.
+- **And uniquely, it despises nothing.** *(Substrate: Taurus is the only district in the twelve with no fall at
+  all.)* There is no faculty Taurus actively rejects, no category of person it refuses on principle, and no
+  position it will not at least hear out.
+
+**The consequence, which is the finding: Taurus is Concordia's donor district. It never refuses on principle —
+only slowly — and the rest of the city has learned this.**
+
+When Concordia needs space, labor, budget flex, a place to put people, or a concession from somebody, Taurus is
+where it goes, because Taurus is the one district that will not turn it into a fight. Nobody decided this and no
+one administers it. It is an emergent routing behavior that every other district discovered independently over
+250 years, the way water finds a slope.
+
+**And Taurus does not experience this as exploitation. It experiences it as being depended on** — which its
+self-image welcomes, because being the reliable one is precisely what the district understands itself to be.
+It is not wrong about that. It is genuinely reliable, and the city genuinely does depend on it.
+
+**The shadow — unintended, unnoticed, and requiring no villain anywhere:** the district has no mechanism for
+distinguishing generosity from erosion. Both feel identical from the inside, because both consist of saying yes
+slowly. There is no institution in Taurus whose job is to total up what has been given, no threshold at which
+anything triggers, and no vocabulary for "we have given enough" — asking for the ledger back would require
+exactly the faculty the district lacks. **The Insulation Schism's original resource diversions are the oldest
+visible instance of this, but they are not a special case; they are the routine mechanism, caught once.**
+
+**Discoverability check (`00d` test 3):** none of this is visible on arrival. It surfaces only if a player
+compares what Taurus supplies to what Taurus receives — across districts, over time, deliberately. A resident
+asked directly would say the district is generous, and would be telling the truth.
+
+---
+
+## XIX. The unrepeated check — Finding II has a dark twin, and it was never written (Second Pass)
+
+**Proposed.** *(Substrate §3, "first-impression lock"; §14 hook 2.)*
+
+The substrate's most usable shadow trait is that verdicts here are formed on a first read, never articulated,
+and never re-run. Applied institutionally: **a newcomer is assessed once, informally, within days, and that
+assessment is never reopened, because nobody's job is to reopen it.**
+
+**This corrects a real incompleteness in existing canon.** Finding II establishes that earned trust converts a
+stranger into someone whose door is answered warmly "the first time, every time after" — and wrote only the
+favorable case. **The mechanism is symmetrical and the file never said so.** A verdict that goes the other way
+is equally permanent, equally unspoken, and equally never revisited. The switch does not have a reset.
+
+What makes this Taurus-shaped rather than merely unfair: **nobody involved is aware a judgment is being
+maintained.** There was no hearing, no announcement, and no record — which is conspicuous in the district that
+records everything, and is exactly why it persists. The Recorded Bond (Finding VIII) holds that a thing becomes
+real by being witnessed and entered. **An unwritten verdict is, by the district's own theology, not real** —
+so there is nothing to appeal, nothing to correct, and no office that would accept the correction.
+
+**Design hook, no villain required:** an under-quest built on overturning a judgment that was **correct when it
+was made** and has been wrong for twenty years. The person who made it is not cruel, is often dead, and in the
+most characteristic version has long since forgotten forming it at all.
+
+---
+
+## XX. The Scorpio opposition — the district's missing relationship, and it is self-inflicted (Second Pass)
+
+**Proposed.** *(Substrate §8; `D_Aspect_Geometry.md` §5. Taurus's opposition is **District 4, Scorpio**; its two
+squares are **Leo** and **the Labs**.)*
+
+The overlap check found Scorpio mentioned **zero times** in this file. That is a genuine hole, and the substrate
+fills it with a mechanism rather than a rivalry.
+
+**The mechanism: Taurus retains, Scorpio purges.** Every friction on this axis reduces to ownership,
+inheritance, shared property, and what is permitted to be destroyed. Neither district has a mediating gear —
+both are of the entrenching kind, so disputes here do not resolve, they persist and get inherited.
+
+**The supply relationship, which neither side can accept gracefully:** Taurus's peak faculty — domestic care and
+belonging, the strongest in the city — is precisely the faculty Scorpio is weakest in. Taurus has exactly what
+Scorpio structurally cannot generate, and the transfer is nonetheless close to impossible, because accepting it
+would require Scorpio to concede the deficit and Taurus to assert a price. Neither is equipped for its half.
+
+**The second-order point, and the more valuable one: the opposition is self-inflicted.** Per the substrate, a
+community over-identified with holding **generates the crises that break it open** — stability pursued past a
+certain point manufactures its own catastrophe. **Read against Finding XVIII, the Registry Collapse and the
+Insulation Schism stop looking like things that happened to Taurus and start looking like things Taurus's own
+success produced.** Not through fault, and not through anyone's malice: a district that will not reallocate
+accumulates pressure it has no valve for, and pressure with no valve eventually chooses its own exit.
+
+**Contradiction to flag rather than resolve** (`00e` §7): this reading is available to the *player* and to the
+design, but **not to the district**, which experiences both events as external calamities. Nothing here licenses
+an in-world faction that blames Taurus for its own wounds. That reading should stay structural.
+
+**Also unexploited, and noted per the standing opportunity:** the district's two hardest frictions *(substrate
+§8)*. **Leo** is entrenchment against entrenchment with nothing shared — the argument is never about facts, only about whose way is correct. **The Labs** is
+material against ideological: private sensory contentment against collective abstract reform, each reading the
+other as a moral failure rather than a difference. Both remain undeveloped in district canon.
+
+---
+
+## XXI. Dissent is physical, and the two districts it isn't are the two Taurus grinds against (Second Pass)
+
+**Proposed.** *(Substrate §6 and §14 hook 3.)*
+
+**Taurus's protest grammar is obstruction with the body.** Residents sit in doorways, stand in machine paths,
+and have to be physically carried. It is not aggressive, not rhetorical, and not organized; it produces no
+demands document and no spokesperson. The substrate's source image is exact — someone who does not petition,
+does not argue, and does not grieve, but simply becomes mass in the way and stays there.
+
+**This falls directly out of Findings XVIII and XIX.** A district structurally incapable of initiating a claim
+still needs *some* way to register refusal, and what remains when assertion is unavailable is presence. It is
+the one form of resistance that requires no institution, no vocabulary, and nobody's permission.
+
+**The clean differentiation: Concordia's three protest grammars belong to Taurus and to the two districts it
+grinds hardest against** *(substrate §8)*. The Labs organizes; Leo performs; Taurus obstructs. Each finds the other two slightly
+embarrassing. That is a ready-made, no-villain source of mutual incomprehension across three districts, and none
+of it is currently written down.
+
+**Corollary — Taurus has no internal dispute-resolution mechanism at all,** and this is a real structural fact
+rather than an oversight. *(Substrate §15 records that the source corpus offers no resolution mechanism for two
+of this temperament in conflict; the only remedies attested are time and physical separation.)* **This supplies
+the missing machinery behind Finding I.** The district keeps its fault lines quiet not only by cultural habit
+but because it has nothing that could settle them — a Taurus internal dispute does not conclude, it gets
+separated and then inherited. **A 250-year-old unaddressed Insulation Schism is not a failure of will. It is
+what this district's disputes structurally do.**
+
+---
+
+## XXII. Payment in kind, and grudges that come with the address (Second Pass)
+
+**Proposed — two mechanisms, both absent from the file, both immediately usable.** *(Substrate §14 hooks 10 and
+7; §7.)*
+
+**(a) Favors create material ledger entries, not moral ones.** A debt here is discharged with an object, a
+shift, or a meal — **thanks does not clear it.** Newcomers who try to settle up with gratitude read as
+freeloaders and are never told why, because from the inside there is nothing to tell: the obligation is simply
+outstanding, the way an unpaid bill is outstanding, and nobody experiences an unpaid bill as requiring
+explanation.
+
+**This supplies the mechanism Finding XI left unspecified.** Finding XI established a two-stage visitor-to-
+resident transition — welcomed, then recorded — but did not say how Stage One is actually earned. **It is earned
+in kind.** Trust is not extended for being pleasant; it accrues through completed material exchanges, which is
+also why it takes so long and why it is so permanent once it lands. And it explains a failure mode the district
+has never diagnosed: **a newcomer who is generous but never lets anyone repay them will not advance**, because
+they have prevented the only mechanism that could admit them. They will read the district as cold. The district
+will read them as impossible to place.
+
+**(b) Grudges attach to addresses and are inherited with the unit.** Per the substrate, grudge-bearing is a
+defining trait rather than a lapse, and grudges here are held the way property is held — indefinitely, and
+passed on. Applied to a district whose continuity runs through housing stock: **the feud belongs to the unit,
+not the family.** Current occupants therefore maintain frictions they had no part in starting, frequently cannot
+explain the origin of, and would not describe as a grudge at all — merely as the way things are with that
+household, which is simply a fact about the neighborhood, like which stairwell floods.
+
+**This is the most immediately playable thing in the second pass**, it requires no villain, and it produces the
+district's own characteristic flavor of injustice: harm sustained by people who did not cause it, against people
+who did not earn it, maintained by nobody, and correctable — as Finding XIX establishes — by no existing office.
+
+---
+
+## XXIII. Contradiction found and reconciled: the most static district in the system is also a migration destination (Second Pass)
+
+**Proposed.** *(Substrate §10 and `B_Modalities.md` §3.)*
+
+The substrate is unusually emphatic that Taurus occupies **the most static position in the entire system**, with
+every source agreeing independently. Established canon says something that looks opposite: Taurus is a standing
+migration destination, continuously absorbing stabilized Cancer refugees and hardy Sagittarius settlers (Finding
+XI), with enough throughput to strain neighborhoods and generate real old-timer-versus-newcomer tension.
+
+**Canon wins, per `00e` §7 — and a both-are-true reading resolves it cleanly, as it did twice for Cancer.**
+
+**Taurus absorbs people readily and changes practice never.** The two are not in tension; they are the same
+disposition. The substrate's actual claim is not that this temperament resists *arrivals* — it is that it
+**refuses to be the one who moves first.** Newcomers are genuinely welcomed, housed well, and folded in. What
+does not happen is the district adapting to them. **Its population turns over while its culture does not**, and
+the district reads that as hospitality rather than as a demand, because from the inside nothing is being
+required of anyone — the newcomers simply become like everyone else, as people do.
+
+**The Insulation Schism is the same reading applied to material**: a quarter-millennium-old resource gradient
+that persists not because anyone defends it but because nothing in the district is built to move first.
+
+**This also finally answers a question the substrate itself flags as unanswerable.** `02_Taurus.md` §15 records
+a genuine source gap — the corpus assumes property throughout and never asks what this temperament looks like
+with nothing to hold, which it calls "a real problem for a working-class residential district." **The Coldsiders
+are that answer**, and it is authored rather than sourced: this temperament without holdings does not become
+resentful or mobile. It becomes **patient in a way that is indistinguishable from acceptance**, which is exactly
+why the divide has stayed quiet for 250 years and why the district's dominant culture has never had to
+acknowledge it. Nobody is being suppressed. Nobody is pushing.
+
+---
+
+## QA — Completion Check (District Culture Development Plan)
+
+**Run 2026-08-29.** Gates 1-8 per `Phase_Instructions/00c_Completion_QA_Checklist.md`. **This is Taurus's first
+completion QA** — the district was previously marked done without ever passing this gate, and predates Phase 7,
+the research-first rule, the general-population discipline, and the shadow-proportion discipline.
+
+- **Gate 1 Template coverage: FAILED on first run, fixed.** Mechanical check returned **zero** for `siligel`,
+  `music`, `counterculture`, `holiday`, `funeral`, `sport`, `humor`, and `slang` — the same class of silent
+  omission that forced Cancer's rewrite, and confirmation that the gate catches real holes rather than
+  hypothetical ones. **Phase 7 (Findings XV-XVII) was missing entirely** and has been written. Cuisine §c
+  (robot cuisine / siligel) was the single largest gap and is now the district's strongest food finding.
+  **Honesty note on the re-run.** A second mechanical check now returns non-zero for all eight terms, but three
+  of those are **false passes** — `funeral`, `humor`, and `slang` appear *only in this QA block's own text
+  naming them as gaps*. Counting those as coverage would be exactly the self-deception this gate exists to
+  prevent. The true position: **mourning practice is covered substantively** (Finding XV establishes sung
+  mourning, and the one occasion the quiet ordinance is suspended for a household without anyone asking) though
+  the word "funeral" never appears; and **humor is covered substantively** (the Broaching, Finding XVII, is the
+  district's main venue for open laughter and its closest thing to slapstick). ***Genuinely still open,
+  deliberately left rather than padded: `sport`, `game`, and `slang`.*** Taurus's recreational life beyond quiet
+  downtime, and its local vocabulary, are real remaining holes.
+- **Gate 2 General-population: PASS, with one deliberate correction.** Music was written specifically to avoid
+  the Fashion-class failure that has now hit three districts: Taurus's musical culture is **ordinary residents
+  singing**, and the finding states explicitly that the district has essentially no professional musicians.
+  Cuisine describes household practice, not a chef's version. The unprovenanced are written as a diffuse
+  practice rather than a faction, so they cannot be mistaken for the general population either.
+- **Gate 3 Contradiction check: PASS.** Findings checked against Finding XII (Ordinary Daily Life). Two things
+  reconciled rather than smoothed: the vocal-culture finding against the established noise ordinances (resolved
+  as quiet-by-construction music, and Finding XII's own established quiet socializing supports it), and the
+  static-position reading against canon migration inflow (Finding XXIII, both-are-true). Finding XIX is recorded
+  as **correcting** Finding II rather than contradicting it — Finding II wrote only the favorable half of a
+  symmetrical mechanism.
+- **Gate 4 Swap Test: PASS.** Swapped against **the Yards (Capricorn)** — deliberately chosen as Taurus's
+  closest structural affinity *(substrate: shared temperament family)*, sharing its material register and its material/working-class register, which makes it the hardest
+  available swap rather than a convenient one. **Finding XVIII fails the swap immediately and correctly:** the
+  Yards can initiate and can refuse, so "the district that never refuses on principle" is unavailable to it, and
+  the donor-routing behavior collapses. Findings XIX, XXII(b), and XXIII are equally Taurus-locked — a district
+  that reassesses, that does not inherit its housing continuously, or that moves first cannot host any of them.
+  **Finding XXI(a) is the weakest** — physical obstruction could plausibly be written for the Yards too — and
+  survives only on its corollary, the absence of any internal dispute-resolution mechanism, which the Yards does
+  not share. Flagged honestly rather than defended.
+- **Gate 5 Cross-district: PASS, one new discovery recorded properly.** The **unprovenanced** (Finding XVI) are
+  a new counterculture with no existing slot; recorded here as a named practice with a stated backbone and a
+  stated relationship to both the mainstream and the Unverified, per Gate 5's requirement that discoveries enter
+  canon cleanly rather than being crammed into an existing construct. **Export coherence:** Taurus's preserved
+  goods and insulation consulting (Finding VII) are unaffected; the new material adds no exports. The
+  previously-noted Cancer-windbells-versus-Taurus-quiet-hours friction stands and is now sharper, since Finding
+  XV establishes the quiet ordinance as load-bearing for the district's entire musical culture rather than a
+  mere preference. **Shared-environment:** the fermentation smell established in Finding VI is reinforced by
+  Finding XV's household rotations and, in an enclosed city, necessarily reaches neighbors — worth noting on the
+  Scorpio and Undergrid boundaries.
+- **Gate 6 Duplicate institutions: PASS, two distinctions stated.** The **siligel culture** is distinct from the
+  **household vessel** (Finding XIII): the vessel is sealed and ceremonial, the culture is living and daily, and
+  both are documented by the same Heirloom Provenance Offices. The **Long Stew Rotation** (existing) and the
+  siligel culture are deliberate parallels for the two populations, not duplicates — stated explicitly in
+  Finding XV so the next reader does not merge them.
+- **Gate 7 Unused research: recorded.** Substrate material found and deliberately *not* used: the **whispered
+  lie at the decommissioning** (substrate §14 hook 4) — strong, and a good fit, but it needs a decommissioning
+  rite this district does not yet have; the **Midas block** (hook 5); **sanction by unsettling** (hook 6), which
+  the substrate itself flags as requiring reconciliation with the national three-tier justice system before use;
+  the **Aldebaran / Pleiades name-bank** (§12), unused pending district naming; **copper**, **emerald**,
+  **indigo and pink**, and the **V / Winter Octagon** shape names, all unused material-palette candidates; and
+  the **three decans** (§11) as a sub-neighborhood scheme, which maps suggestively onto the district's existing
+  warm-side/cold-side geography but was not forced.
+- **Gate 8 Standout: recorded in Worth Your Attention below.**
+
+**Mode A note per `00e` §10:** the overlap-check result is recorded at the head of the Second Pass section. The
+original pass's own material (Findings I-XIV) is left intact; this QA block is the district's first, since no
+prior one existed to preserve.
+
+---
+
+## Worth Your Attention — updated 2026-08-29
+
+**Standout of the Phase 7 + Second Pass work: Finding XVIII — Taurus is Concordia's donor district.**
+
+The capability reading produced something no other district in the system can produce, because **Taurus is the
+only one of the twelve with no fall at all** — nothing it actively despises, and therefore nothing it refuses on
+principle. Run out to its institutional consequence, that single structural fact generates a city-scale routing
+behavior: when Concordia needs space, budget flex, labor, or somewhere to put people, it goes to Taurus, because
+Taurus is the one district that will not turn the request into a fight. **Nobody decided this. No one
+administers it. Every other district discovered it independently over 250 years.**
+
+What makes it the standout rather than merely a good finding is what it does to material already in the file.
+The Insulation Schism and the Bonded Pair Registry Collapse — the district's two defining wounds, both
+previously written as things that *happened to* Taurus — become legible as things Taurus's own success
+produced, through a mechanism containing no malice at any point. A district that holds superbly and cannot
+reallocate accumulates pressure it has no valve for. **And it cannot see this, because it has no institution
+whose job is to total up what has been given, and asking for that total would require precisely the faculty it
+lacks.**
+
+It also passes the hardest form of the Swap Test in the file — it fails immediately against the Yards, Taurus's
+closest temperamental relative — which is the strongest available evidence that the finding is local rather
+than generic.
+
+**Runner-up: Finding XIX**, for a different reason — it is the clearest case so far of a second pass *correcting*
+existing canon rather than extending it. Finding II wrote only the favorable half of the trust mechanism. The
+substrate revealed the mechanism is symmetrical, which means the district's warmth and its most characteristic
+injustice are **the same institution seen from two sides**, and neither requires anyone to act in bad faith.
+
+**The original standouts still hold** — Finding I (fault lines kept quiet by habit) and Finding VIII (The
+Recorded Bond as the district's governing belief). Finding XXI's corollary now supplies Finding I with an actual
+mechanism: the fault lines stay quiet partly by cultural habit, and partly because Taurus has no machinery
+capable of settling them.
