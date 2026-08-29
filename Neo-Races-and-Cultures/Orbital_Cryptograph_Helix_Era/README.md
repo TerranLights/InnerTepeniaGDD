@@ -94,25 +94,50 @@ The orbital case has to differ from the Tepenian surface case **specifically**, 
      entertainment, literature, music, humour, arts — the whole ordinary output of a living population. Much of
      it plausibly **never reaches Earth at all**, and has no reason to.
 
-  3. **Transmission is thin, and that is the actual governing condition.** Post-Long-Night-War, the only
-     robot-occupied part of the planet is Antarctica — a frozen hellscape with very limited transmission
-     capability. Contact is therefore sparse and unreliable rather than routine, which means the question is
-     not "which way does knowledge flow" but **how little flows at all, in either direction**.
+  3. **Contact is NOT uniformly thin — it is thin only after the war. This is the single most important
+     correction in this file.** *(Developer clarification, 2026-08-29.)* An earlier draft treated sparse
+     transmission as the permanent governing condition. **That is wrong, and the era split is load-bearing:**
 
-  **Why this matters more than it first appears:** thin contact is the single most productive fact available
-  for Phase 3. Cultural divergence becomes the *default* rather than something requiring justification. It
-  follows that orbital neo-cultures drift from Tepenian surface culture quickly and for no ideological reason;
-  that separate orbital locations drift from *each other* too (compounding the minimal-inter-location-travel
-  constraint above); that whole bodies of orbital literature, music, and humour may be entirely unknown on the
-  surface, and vice versa; and that a surface character encountering orbital culture should find it **genuinely
-  foreign rather than a familiar variant** — which is exactly the "real, new third thing" bar this project sets.
+     - **Early Second Interwar Period → 2812 (Tepenia as a proper, functioning country).** Orbital
+       infrastructure is already in place from early in the period, and the link is **rich**. Tepenia can
+       transmit **enormous** volumes of data to orbit, and where bandwidth is not enough it **physically
+       transports datadrives** up. What moves includes **backups and archives of the Arcanet itself** — and the
+       Arcanet is not only Antarctican in content. It is supplemented by datadrives carried down from **Upper
+       Earth and the old pre-war human internet**, layered together with **Tepenians' own original cultures**
+       and their native Antarctican network activity.
+     - **2812 onward (post-Long-Night-War, post-Planetary Split Brain).** *This* is where the limitation begins.
+       The only robot-occupied part of the planet is Antarctica, with badly degraded transmission capability.
+     - **Even post-war, the channel is not closed.** Specific people and characters can still transmit to orbit
+       regularly. It simply stops being an ordinary, routine, society-wide occurrence.
 
-  This also sits comfortably with existing canon on unreliable connectivity: the Planetary Split Brain severed
-  every inter-subnet Arcanet link, and the extreme-altitude interior cities (Dome Fuji, Kunlun, Vostok) have
-  effectively no Arcanet at all. Patchy, failure-prone communication is already how this world works.
+  **What this actually means for Phase 3 — and it is better than the isolation reading it replaces.**
 
-  **Open and worth deciding deliberately:** what little does cross, how it crosses, how reliably, who controls
-  it, and whether either side has an accurate picture of the other at all.
+  Orbital society did not develop in a vacuum and is not culturally impoverished. It received, over roughly two
+  and a half centuries of good connection, a **vast inherited archive**: Tepenian culture, Antarctican network
+  life, and through it the salvaged remains of Upper Earth and the pre-war human internet. Whatever it became,
+  it became **on top of all of that**.
+
+  So the shape of the story is **not** two populations that never spoke. It is **two populations that shared
+  nearly everything for centuries and were then severed mid-sentence.** Divergence begins from a common, very
+  rich baseline and accelerates only after 2812. That is a far stronger foundation for a distinct people than
+  isolation would have been — and it means orbital neo-culture should read as *recognisably descended from*
+  Tepenian culture while having gone somewhere Tepenia did not follow.
+
+  **A consequence worth chasing:** orbit may hold **clean archives of things the surface has since lost.**
+  Backups sent up before 2812 would predate the war and everything after it. Set against the Circuit's
+  established data-archaeology work recovering what the **Great Corruption** took, this is a potentially major
+  connection — the material Concordia is painstakingly reconstructing from fragments may be sitting intact in
+  orbit, held by people who have limited ability to send it back and possibly no idea it is wanted. Flagged as a
+  strong lead, **not yet canon** — decide deliberately rather than assuming.
+
+  This also fits established canon on post-war connectivity generally: the Planetary Split Brain severed every
+  inter-subnet Arcanet link, and the extreme-altitude interior cities (Dome Fuji, Kunlun, Vostok) have
+  effectively no Arcanet at all. Degraded, failure-prone communication is specifically a *post-war* condition
+  across this whole setting, not a permanent feature of it.
+
+  **Open and worth deciding deliberately:** how much still crosses post-war, by what means, how reliably, who
+  controls or brokers it, whether either side now has an accurate picture of the other, and what orbit knows
+  about the war itself — including whether it watched.
 
 ---
 
