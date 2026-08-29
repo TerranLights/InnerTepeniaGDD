@@ -1738,10 +1738,18 @@ Lover) — with sourced characterizations of each pole. Book pp. 60-67, 88-91, 1
 and in active use as a QA panel at
 `Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` §4b.
 
-**Not mined:** Part I entirely — the **boy-psychology precursors** to each faculty (ch. 3), "Masculine
-Potentials" (ch. 2), "Man Psychology" (ch. 4) — and the Conclusion's practical techniques for accessing the
-archetypes (p. 143 ff.). **The boy-psychology precursors are the obvious next pass**, since they would give the
-panel a developmental axis it currently lacks: what each faculty looks like before it matures.
+**Part I mined 2026-08-29 in a second pass**, completing the taxonomy. The four **immature precursors** and
+their bipolar shadows, on the identical active-passive structure — **Divine Child** → King (High Chair Tyrant /
+Weakling Prince), **Precocious Child** → Magician (Know-It-All Trickster / Dummy), **Oedipal Child** → Lover
+(Mama's Boy / Dreamer), **Hero** → Warrior (Grandstander Bully / Coward). The complete sixteen-name system is in
+the book's Figure 1 (pp. 16-17). Also captured: the developmental order, the **bipolar switching mechanic** (a
+psyche possessed by one pole slides or jumps to the other), the pyramid-over-pyramid model of the Self, and the
+Maya principle that boyhood structures are **built over rather than demolished** and keep generating. Two
+corrections to the first pass came out of Figure 1: the Magician's active shadow is the *Detached* Manipulator
+and the Lover's is the *Addicted* Lover.
+
+**Still unmined:** Chapter 1 ("The Crisis in Masculine Ritual Process") and the **Conclusion** (p. 143 ff.),
+which is the only remaining section likely to yield method rather than taxonomy. Low priority.
 
 **Framing note for downstream use:** the book presents these as archetypes of *the mature masculine*. In the
 Review Panel they are used as **diagnostic axes for a place** — order, action, knowledge, connection — not as

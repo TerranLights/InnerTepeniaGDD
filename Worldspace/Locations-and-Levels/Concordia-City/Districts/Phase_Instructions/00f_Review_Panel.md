@@ -229,13 +229,119 @@ These replace the generic passive/aggressive pair in §4 with eight specific, so
 - **The Impotent Lover** — *what has gone dead here?* "Flattened affect — lack of enthusiasm, lack of vividness,
   lack of aliveness." **Ask this of any district that reads as competent and joyless.**
 
+---
+
+## 4c. Panel E — the immature precursors *(the developmental axis)*
+
+**Mined 2026-08-29 from Part I, completing the extraction begun in §4b.** This is the axis §4b lacked: **what
+each faculty looks like before it matures.**
+
+**The mapping is stated outright by the book** (p. 15): *"the Divine Child, modulated and enriched by life's
+experiences, becomes the King; the Precocious Child becomes the Magician; the Oedipal Child becomes the Lover;
+and the Hero becomes the Warrior."* Each immature archetype has its own **bipolar shadow**, on the identical
+active-passive structure — giving a complete sixteen-name system, captured whole in the book's Figure 1
+(pp. 16-17).
+
+| Faculty | Immature precursor | Active shadow | Passive shadow |
+|---|---|---|---|
+| King | **The Divine Child** | The High Chair Tyrant | The Weakling Prince |
+| Magician | **The Precocious Child** | The Know-It-All Trickster | The Dummy |
+| Lover | **The Oedipal Child** | The Mama's Boy | The Dreamer |
+| Warrior | **The Hero** | The Grandstander Bully | The Coward |
+
+**Developmental order:** the Divine Child powers up first; the Precocious and Oedipal Children next; **the Hero
+governs the last stage of boyhood.** *(Corrections to §4b from Figure 1: the Magician's active shadow is the*
+**Detached** *Manipulator, and the Lover's is the* **Addicted** *Lover.)*
+
+### Two mechanics worth more than the names
+
+**1. The poles switch, and the switch is the tell.** *"As is the case with all bipolar disorders, the Ego
+possessed by one pole will, from time to time, gradually slide or suddenly jump over to the other pole… he will
+switch from tyrannical outbursts to depressed passivity, or from apparent weakness to rageful displays."*
+**Applied to a place: a district that oscillates between grandiosity and helplessness is not inconsistent — it
+is one condition seen at two settings.** The Coward "will feel invaded and run-over, like a doormat" until *"the
+hidden grandiosity of the Grandstander Bully within him will erupt… an assault for which the other is totally
+unprepared."*
+
+**2. The immature layer is never demolished, only built over.** The book's own image (p. 43): *"The ancient
+Maya seldom destroyed earlier structures from their cities' pasts. Like them, we do not want to demolish the
+pyramids of boyhood, for they were and will always remain generators of power and gateways to energy resources
+from our primordial past."* **Applied: a mature place still contains its founding-era immaturity, and that
+layer is still generating.** Do not write a developed district as having outgrown its origins — write it as
+having built over them.
+
+### The review questions
+
+**The Divine Child *(pre-King)* — does this place think it is owed?** *"The Divine Child wants just to be and
+to have all things flow toward him. He does not want to do."* **Ask: what does this place expect to receive by
+right of what it is, rather than what it does?** Its positive form is the source of a place's sense of its own
+possibility, and the book warns that new life here is fragile: *"whenever the Divine Child within us makes
+itself known, attack from the Herods, within and without, is not far behind."*
+- **High Chair Tyrant** — grandiosity, hubris, limitless demand; rejects what it actually needs because it was
+  not offered on exactly the right terms.
+- **Weakling Prince** — *"occupies a less easily detectable throne."* Dictates through *"silent or whining and
+  complaining helplessness"*; the whole system reorganizes around its comfort. **Ask who here is obeyed because
+  they are fragile.**
+
+**The Precocious Child *(pre-Magician)* — is knowledge here used to understand, or to rank?**
+- **Know-It-All Trickster** — *"expert at creating appearances, and then 'selling' us on those appearances."*
+  Deflates, exposes, dominates conversation. **Its energy is envy**: *"The less a man is in touch with his true
+  talents and abilities, the more he will envy others… Envy blocks creativity."* And it has a **real positive
+  function** — the Fool in the king's court, *"very good at deflating Egos… and often we need deflating."*
+  **Ask: who here punctures inflation, and is anyone allowed to?**
+- **The Dummy** — feigned or genuine incapacity. The sharp part: *"The Dummy's ineptitude is frequently less
+  than honest. He may grasp far more than he shows, and his duncelike behavior may mask a hidden grandiosity
+  that feels itself too important (as well as too vulnerable) to come into the world."*
+
+**The Oedipal Child *(pre-Lover)* — what is this place still bound to?** Its positive form is genuine: *"warm,
+related, and affectionate,"* the origin of a place's spirituality and its *"sense of the mystic oneness and
+mutual communion of all things."*
+- **Mama's Boy** — chasing an idealized thing through endless substitutes, *"never satisfied with a mortal
+  woman, because what he is seeking is the immortal Goddess."* **Ask: does this place measure everything
+  against something it has idealized and cannot have?**
+- **The Dreamer** — *"isolated and cut off from all human relationships"*; relationships are with intangible
+  things; *"accomplishes little and appears withdrawn."* Its dishonesty is unconscious: the grandiosity *"lies
+  hidden by the Dreamer's depression."*
+
+**The Hero *(pre-Warrior)* — and this is the most useful of the four for reviewing a place.** The book is
+emphatic that **the Hero is not maturity**: *"only an advanced form of Boy psychology — the most advanced form,
+the peak, actually, of the masculine energies of the boy… Yet it is immature, and when it is carried over into
+adulthood as the governing archetype, it blocks men from full maturity."*
+- **Grandstander Bully** — *"claims center stage as his birthright"*; attacks aimed at *"staving off recognition
+  of his underlying cowardice and deep insecurity."* Patton is the book's example — *"sidelined precisely
+  because he was a hero and not fully a warrior."*
+- **The Coward** — caves to whoever is most forceful, *"like a doormat,"* then erupts.
+
+> **The Hero's diagnosis scales directly to a place, and the book applies it that way itself.** *"The Hero's
+> downfall is that he doesn't know and is unable to acknowledge his own limitations… Denial of death — the
+> ultimate limitation on human life — is his specialty."* The book then turns this on a whole civilization —
+> the *"conquest"* of nature, with pollution and environmental catastrophe as *"the increasingly obvious
+> penalties for such a brash and immature project"* — and concludes: **"When we do not face our true
+> limitations, we are inflated, and sooner or later our inflation will be called to account."**
+>
+> **This is the single best question Part I supplies for a district review: *what limitation does this place
+> refuse to acknowledge, and what will call it to account?***
+
+**And the test for whether a place has actually matured**, from the same passage: the *"death"* of the Hero is
+the encounter with true humility, which *"consists of two things. The first is knowing our limitations. And the
+second is getting the help we need."*
+
+> **Worth noting as retroactive validation: Aries fails both halves.** It cannot price or ration (does not know
+> its limitations) and cannot accept the one district structurally able to do it for it (cannot get the help it
+> needs). Finding XVIII was derived independently, from the capability row, before this panel existed — and the
+> two arrive at the same place by different routes.
+
 ### Limits of this extraction
 
-- **Verified from source:** the four faculties, the bipolar structure, all eight shadow-pole names, and the
-  characterizations quoted above (book pp. 60-67, 88-91, 108-111, 132-139).
-- **Not yet mined:** Part I's **boy-psychology precursors** — the immature forms that precede each faculty —
-  Chapter 2's "Masculine Potentials," Chapter 4's "Man Psychology," and the Conclusion's practical techniques
-  for accessing the archetypes. **These would deepen the panel and are the obvious next pass.**
+- **Verified from source:** the four faculties and their eight shadow poles (pp. 60-67, 88-91, 108-111,
+  132-139); **the four immature precursors and their eight shadow poles** (Figure 1, pp. 16-17, with
+  characterizations from pp. 13-42); the triune structure, the bipolar switching mechanic, the pyramid-over-
+  pyramid model, and the Maya "build over, never demolish" principle. **All sixteen archetype names are now
+  extracted and verified.**
+- **Not yet mined:** Chapter 1 ("The Crisis in Masculine Ritual Process") and the **Conclusion's practical
+  techniques for accessing the archetypes** (p. 143 ff.). Chapter 2's framing and Chapter 4's opening are
+  captured above in substance. The Conclusion is the only remaining section likely to yield method rather than
+  taxonomy, and is a low-priority follow-up.
 - **`Book_TOC_Master_Reference.md` has been updated** to record that this book is now partially mined rather
   than uncataloged.
 
