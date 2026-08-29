@@ -5,6 +5,8 @@ gate set: **every gate is a check the author runs against their own reasoning.**
 contradictions and over-generalizations. They cannot catch *what a person standing in the place would notice and
 the author would not*, because the person checking is the person who wrote it.
 
+> **⚠ Read `00_RUNBOOK.md` first** — this panel is **Step 7** of that procedure and Gate 10 of the QA.
+
 **This is the answer to that.** A standing panel of positioned observers who read a completed location and say
 what they would add, doubt, or flag.
 

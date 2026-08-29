@@ -10,6 +10,9 @@ the file. Nothing in the process checked. This gate is that check.
 
 ---
 
+> **⚠ Read `00_RUNBOOK.md` first** — these gates are **Step 6** of that procedure, and several of them are
+> meant to have been run earlier (Gate 0 at Step 0, Gate 9 at Step 1).
+
 ## The governing test: characteristic consistency
 
 Every gate below serves one underlying question, and it is worth stating plainly before the checklist starts:

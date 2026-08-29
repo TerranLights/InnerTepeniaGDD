@@ -9,6 +9,8 @@ every district already completed. **That check gets more expensive with each dis
 failed once** — see the caught-late collision recorded below. At six districts the cost is real; at ten it
 would be prohibitive, and the check would quietly stop being run.
 
+> **⚠ Read `Phase_Instructions/00_RUNBOOK.md` first** — mandatory before any district culture work.
+
 **Where this sits in the process:** `Phase_Instructions/00_RUNBOOK.md` **Step 4** (check before writing each
 category) and **Step 6** (Gate 6b), with the column added at **Step 8**.
 

@@ -7,7 +7,18 @@ than **when you need it** — five rounds of retrospective notes appended to `00
 of it into the sequence you actually work in, with each discipline stated at the point of use and every failure
 mode attached to the district it was learned on.
 
-**Read this end to end before starting a district.** The detail files are the reference; this is the procedure.
+**Reading this in full is mandatory before any district or location culture work** — a new pass, an edit to an
+existing `Full_Extrapolation.md`, a single phase, a QA gate, a Review Panel run, or a change to the methodology
+itself. That rule is stated bindingly in the project's `CLAUDE.md`. The detail files are the reference; **this
+is the procedure.**
+
+**Do not skip it because the task looks small.** Every failure recorded below was found during work that looked
+small — a completion claim false for two weeks, a general-population error still live six weeks after the
+discipline file was written about it, two districts given the same custom a day apart.
+
+**And keep it current.** A methodology change that does not update this file has not been made — the next pass
+will follow the runbook, not the commit message. **Update it in the same commit**, and record what was learned
+and on which district.
 
 > **The one rule under all of it** (`../../Cultural_Synthesis_Techniques.md`): **never carry one location's
 > answers into another.** If two places produce similar-shaped answers to the same technique, at least one is

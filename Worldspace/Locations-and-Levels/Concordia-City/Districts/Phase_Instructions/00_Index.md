@@ -1,8 +1,9 @@
 # District Culture Development Plan — Phase Instructions
 
-> ## ➤ START AT `00_RUNBOOK.md`
+> ## ⚠ MANDATORY — START AT `00_RUNBOOK.md`
 >
-> **The runbook is the operational entry point** — the whole procedure for running one district, start to
+> **Reading the runbook in full is required before any district or location culture work**, per the project
+> `CLAUDE.md`. **The runbook is the operational entry point** — the whole procedure for running one district, start to
 > finish, in the order you actually work in, with each discipline stated at the point of use and every failure
 > mode attached to the district it was learned on.
 >
