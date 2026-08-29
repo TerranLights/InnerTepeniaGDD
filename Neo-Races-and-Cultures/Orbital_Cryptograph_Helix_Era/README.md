@@ -70,11 +70,21 @@ The orbital case has to differ from the Tepenian surface case **specifically**, 
   TCY-45 seed in `Worldspace/Characters/Dolls/Methodology/00e_Quick_Capture_Seed_Batch_Input_[rewritable].txt`).
   So at least part of the orbital population is there for **medical** reasons, which is a founding pressure no
   surface city has.
-- **Orbital society is a knowledge recipient.** Also established canon: STP-06's entire life's work is
-  developing more material-efficient farming and harvesting methods and **transmitting the schematics upward**,
-  so that space-dwelling Tepenians can better provide for themselves (see her `README.md`). That implies an
-  orbital population dependent on surface expertise, and a surface population that knows it. That relationship
-  is a culture-shaping pressure in both directions.
+- **Knowledge moves between surface and orbit, and the traffic is not one-way.** Established canon supplies one
+  concrete flow: STP-06's entire life's work is developing more material-efficient farming and harvesting
+  methods and **transmitting the schematics upward**, so that space-dwelling Tepenians can better provide for
+  themselves (see her `README.md`).
+
+  **Do not over-read that into dependency.** *(Developer correction, 2026-08-29.)* Orbital society is **not
+  necessarily or exclusively a knowledge recipient.** One documented transfer in one direction is not a
+  relationship of reliance, and treating it as one would make the orbital population passive — a worse and less
+  accurate reading than the canon actually supports. Assume genuine two-way exchange until established
+  otherwise, and note that an orbital environment plausibly *originates* knowledge the surface cannot: whatever
+  can only be learned, made, observed, or tested off-planet. What direction any given exchange runs, and what
+  each side holds that the other needs, is **open** and worth deciding deliberately rather than defaulting.
+
+  What the canon does establish is that the two populations are **in contact and materially concerned with each
+  other's problems**, which is a culture-shaping pressure on both — independent of who is teaching whom.
 
 ---
 
