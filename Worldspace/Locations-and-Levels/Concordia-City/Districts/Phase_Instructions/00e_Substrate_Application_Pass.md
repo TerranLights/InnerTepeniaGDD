@@ -145,6 +145,22 @@ institutional consequence — it is the district the rest of the city routes its
 is the one that will not turn a request into a fight. **Ask what it means for a district to lack that faculty
 entirely**, rather than reading the row as incomplete.
 
+**Then research the deficit — a technique Scorpio produced and the highest-yield use of the research rule so
+far.** *(Added 2026-08-29.)* The capability reading tells you what a district structurally **cannot** do. It
+does not tell you what the missing thing looks like. **Go find a real-world culture that has it, and the
+contrast writes the finding.**
+
+Worked example: Scorpio's row gives *world-class diagnosis with nowhere to convalesce.* Researching Iquitos
+ayahuasca practice at the concrete level revealed that real transformative practice devotes as much structure to
+the **aftermath** as to the event — a restrictive regime continuing weeks past, integration circles, a follow-up
+a month later, and practitioners' own view that most of the processing happens on the rest days. **Scorpio has
+the ceremony and not the aftercare**, and that sentence was not derivable from the substrate or from canon. The
+deficit was known in the abstract; the research made it specific, and specificity is the whole difference
+between a capability note and a finding.
+
+**Sequence it deliberately: capability reading first, then research aimed at the gap it named.** Researching
+before you know the deficit produces interesting material with nowhere to attach.
+
 **Write it as a capability profile, not a diagnosis.** Two strong faculties and two weak ones, each stated as
 what the district can and cannot institutionally do — then one consequence that follows. In Cancer's case the
 consequence was that a resident with no dependent has no route to be heard. **Every district's consequence will
@@ -195,9 +211,11 @@ Leo's produced three grammars of injury and redress.
 Taurus + the Labs + Leo; Leo's was Leo + Taurus + Scorpio. **Taurus and Leo appear in both**, which means a
 district accumulates characterizations from other districts' passes. Before writing a new set, **check what the
 district was already assigned in someone else's** — the two must be consistent, and where they are not, the
-earlier one usually wins because it is already load-bearing. The upside is that this network converges: by the
-sixth or seventh district most of the matrix is already filled in, and the remaining sets get easier and better
-grounded rather than harder. **Pick the
+earlier one usually wins because it is already load-bearing. The upside is that this network converges, and faster than expected: **by the fourth district there were
+already two complete triples across the same three districts** — music (Taurus sings / Leo listens / Scorpio
+speaks simultaneously) and counterculture (Taurus refuses the record / Leo refuses recognition / Scorpio refuses
+the silence). Both are now tabled inline in the districts' own files per `00c` Gate 6b. The remaining sets get
+easier and better grounded rather than harder. **Pick the
 category first, then read all three off the geometry** — deriving one district's answer alone tends to produce
 something generic, because there is nothing to differentiate it against.
 
@@ -319,22 +337,39 @@ from where, and how they are received) and Phase 7's Counterculture and Private 
 district defines itself against). **Do not defer it to a substrate section**; that is a Mode A shape and it is
 the reason Mode A districts read as having a bolted-on relationships chapter.
 
-**3. Expect the counterculture seed to already exist in Phase 5.** Two for two — see
-`07_Phase_7_Native_Culture.md` Step C0. In Mode B, Phase 5 is written earlier in the same pass, so the seed will
-be fresh: **write Phase 5 without thinking about counterculture at all, then mine it.** Deliberately planting a
-seed to harvest later produces a worse result than finding a real one.
+**3. The Phase 5 counterculture seed is a Mode A technique, and this guidance was wrong.** *(Corrected
+2026-08-29 after actually running Mode B.)* The original version of this note said to write Phase 5 without
+thinking about counterculture and then mine it. **That does not work in a single pass.** The technique's power
+in Mode A comes from the seed having been written *by someone not thinking about counterculture*, often months
+earlier — a genuinely independent observation. Writing both in one sitting means planting your own seed and
+then finding it, which is circular and produces a worse answer than deriving honestly.
 
-**Falsifiable predictions for district four**, recorded so this methodology can be tested rather than merely
-accumulated. If these fail, the rules above are wrong and should be revised, not defended:
+**So in Mode B: derive the counterculture from Step C** — what does this district require of everyone, and who
+cannot or will not give it — and treat any Phase 5 resonance as corroboration rather than as the source. That
+is what Scorpio actually did, and its counterculture is the strongest of the four. **Step C0 applies to Mode A
+districts only.**
 
-- Its Phase 5 finding will contain a usable counterculture seed *(2 for 2)*.
-- Its most load-bearing finding will be a **name for something already in its canon** rather than an invention
-  *(3 for 3)*.
-- Its strongest structural finding will come from the **capability reading**, not from the shadow material
-  *(3 for 3)*.
-- It will mention **at most one** of its own geometric conflict partners in its pre-Plan findings *(3 for 3)*.
-- Any contradiction between substrate and canon will resolve **both-are-true** rather than one-side-wins
-  *(4 for 4 across three districts)*.
+**Predictions for district four — results, recorded honestly 2026-08-29 after running Scorpio.**
+
+| Prediction | Result |
+|---|---|
+| Phase 5 will contain a usable counterculture seed | **Void in Mode B** — see §11b.3. The technique is Mode A only; the prediction was not testable as written. |
+| Most load-bearing finding will be a *name* for something already in canon | **HELD** (4/4) — "the peace of knowing" named as the premise both schools share. |
+| Strongest structural finding will come from the capability reading | **HELD** (4/4) — Finding XVIII. |
+| Will mention at most one geometric conflict partner in pre-Plan findings | **FAILED on the stated terms** — Scorpio mentions three. **The underlying claim survives in a sharper form:** every mention is a *sensory or architectural contrast* ("unlike Cancer's green humidity"), and **none is a relationship.** Districts do compare themselves to neighbors; they do not relate to them. Revised below rather than quietly restated. |
+| Contradictions will resolve both-are-true | **HELD** (5/5) — fixed objective, mobile method. |
+
+**Revised and new predictions, for district five:**
+
+- Its pre-Plan findings will contain **no statement of a relationship** with any other district — comparisons
+  and contrasts do not count *(revised from the failed prediction above)*.
+- Its most load-bearing finding will be a **name for something already in its canon** *(4 for 4)*.
+- Its strongest structural finding will come from the **capability reading**, not the shadow material *(4 for 4)*.
+- Any substrate/canon contradiction will resolve **both-are-true** *(5 for 5)*.
+- **Gate 9 will fire, and the failure will be in pre-Plan 2026-07-09 material** *(3 for 3)*.
+- **At least one of its Inspirational-Influences picks will produce a finding that could not have been derived
+  from substrate and canon alone** *(2 for 2 in Scorpio — the ayahuasca aftercare and the sky-burial
+  cheerfulness were both underivable, and both landed in the top three findings)*.
 
 ---
 

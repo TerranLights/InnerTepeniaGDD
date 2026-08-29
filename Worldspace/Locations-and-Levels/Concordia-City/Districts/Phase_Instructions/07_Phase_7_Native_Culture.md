@@ -64,7 +64,8 @@ part of the template across this entire project. Siligel is national canon; how 
 and regards it is genuinely district-differentiating, and Glitch-Coolant's existing bohemian/working-class
 split is a ready-made axis to localize.
 
-**Step C0 — Look for the counterculture's seed in Ordinary Daily Life before deriving it.** *(Added 2026-08-29.)*
+**Step C0 — Look for the counterculture's seed in Ordinary Daily Life before deriving it. *(Mode A districts
+only — see the scope note at the end of this step.)*** *(Added 2026-08-29.)*
 Phase 5 is written to describe people doing ordinary things, which means it routinely records small acts of
 quiet non-compliance without recognizing them as such. Taurus's entire counterculture was already sitting in its
 Phase 5 finding as a throwaway clause — *"small unrecorded personal crafts deliberately kept apart from the
@@ -79,6 +80,12 @@ Both seeds were single throwaway clauses describing an ordinary person's downtim
 formalized counterculture is more grounded than anything derivation alone would have produced. **Phase 5
 records what people do when nobody is making them perform their district's values — which is, definitionally,
 where its counterculture already lives.**
+
+> **Scope: Mode A only.** *(Corrected 2026-08-29 after the first Mode B run.)* The technique works because the
+> seed was written by someone **not thinking about counterculture**, often months earlier — an independently
+> observed detail. In Mode B, Phase 5 and Phase 7 are written in the same pass, so mining Phase 5 means planting
+> your own seed and then finding it. That is circular and yields a worse answer than deriving honestly.
+> **In Mode B, derive from Step C and treat any Phase 5 resonance as corroboration, not as the source.**
 
 **Step C — Counterculture: derive it from the dominant culture's specific pressure, never from generic
 rebellion.** The strongest countercultures are the exact negative image of what the district demands. A district

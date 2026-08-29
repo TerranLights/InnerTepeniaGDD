@@ -208,3 +208,57 @@ Taurus and Leo each appeared in the other's set and their characterizations must
 
 **Five falsifiable predictions for district four** are now recorded in `00e` §11b, so the next run tests this
 methodology instead of merely adding to it.
+
+
+---
+
+## Third round of updates — what the first Mode B district added (2026-08-29)
+
+Scorpio was the first **Mode B** run: substrate folded in as a first-pass input rather than bolted on. Three
+gates failed, two of them in ways no previous district had shown, and one piece of guidance written *before*
+Mode B was run turned out to be wrong when actually executed.
+
+**Gate 0 fails in both directions.** Scorpio's Plan block listed three completed phases as "needed" and counted
+Phase 1 at 3/13 while all three were written to full depth. **Under-claiming**, not over-claiming. Gate 0 is a
+**reconciliation** step — read the file, read the claim, correct whichever is wrong. → `00c` Gate 0.
+
+**A recorded failure is not a fixed failure — audit the source, not the lesson.** `00b` names three districts as
+its canonical general-population failures. Checked: **Cancer corrected, Leo corrected, and Scorpio — the
+district the file names *first*, as the origin case — still broken**, with Finding VI asserting that residents'
+faces are "routinely covered in public." Six weeks after the discipline document was written about it. **The
+origin example is the likeliest to be left uncorrected, because writing the lesson down feels like fixing it.**
+Gate 2's scope is now explicitly *including every pre-existing Finding*, since a run scoped to new material
+would have missed this entirely — as mine did, until the developer flagged it. → `00c` Gate 2.
+
+**Gate 1 needs a third outcome.** A category can be **covered in substance and absent in term** — Scorpio's
+`funeral` scored zero while mortuary practice was the pass's most developed category, because the district's
+vocabulary is procedural. Record it as such; **do not insert the word to make the grep pass**, which games the
+gate and degrades the prose. → `00c` Gate 1.
+
+**Correcting guidance I wrote before running Mode B.** §11b originally said to write Phase 5 without thinking
+about counterculture and then mine it. **That is not executable in a single pass** — it means planting your own
+seed and finding it. The Phase 5 seed technique depends on the seed being an *independent* prior observation, so
+it is **Mode A only**; Mode B derives from Step C instead. Scorpio did that and produced the strongest
+counterculture of the four. → `00e` §11b.3, `07_Phase_7` Step C0.
+
+**New technique — research the deficit.** The capability reading tells you what a district structurally cannot
+do; it does not tell you what the missing thing *looks like*. **Find a real culture that has it, and the
+contrast writes the finding.** Scorpio's row gave "nowhere to convalesce"; researching Iquitos ayahuasca
+practice revealed that real transformative practice devotes as much structure to the aftermath as to the event —
+yielding *Scorpio has the ceremony and not the aftercare*, a sentence not derivable from substrate or canon.
+**Sequence it: capability reading first, then research aimed at the gap it named.** → `00e` §5.
+
+**Prioritize research by difference, not by tier.** Scorpio's picks were researched top-down by
+PRIMARY/SECONDARY/SUPPORTING, and the two skipped as redundant (temazcal, Native American sweat lodge) genuinely
+did overlap the sento pick on steam — but the pick left unmined was **New Orleans Voodoo/Vodou**, the only one
+touching *community-scale religious practice* rather than individual process. **The most valuable pick is the
+one least like the others, regardless of its tier.** → recorded in Scorpio's Gate 7.
+
+**Validated on first use: Gate 6's inter-district half.** Scorpio needed it twice — its archives against
+Taurus's, and its counterculture against Taurus's and Leo's — and both are now tabled inline in the finding
+itself. The three-way network is also converging faster than predicted: **by the fourth district there are two
+complete triples** across the same three districts, on music and on counterculture.
+
+**Prediction results are recorded in `00e` §11b** rather than summarized here. Four of five held; one failed on
+its stated terms and has been revised rather than quietly restated, and one was void because it assumed Mode A.
+Six predictions now stand for district five.

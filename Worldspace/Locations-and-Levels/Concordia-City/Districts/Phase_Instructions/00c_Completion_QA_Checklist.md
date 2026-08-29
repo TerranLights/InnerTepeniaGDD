@@ -57,6 +57,12 @@ weeks and nothing in the process was looking at it. Leo carried the identical de
 > progress tracker must both be corrected in the same commit that adds the phase, and the phase file's own
 > per-district status table reset accordingly.
 
+**It fails in both directions — confirmed on Scorpio, 2026-08-29.** Scorpio's block listed Architecture,
+Sensory Profile and Export Culture as **"needed"** and the tracker counted Phase 1 at 3/13, while all three were
+already written to full depth as Findings V-VII. **The Plan was under-claiming**, which wastes work rather than
+hiding gaps but is the same defect. **Treat Gate 0 as a reconciliation step, not an anti-over-claiming one:**
+read the file, read the claim, and correct whichever is wrong.
+
 A completion claim is a factual assertion about a file. Verify it against the file, not against memory of
 having done the work.
 
@@ -86,15 +92,37 @@ done
 ```
 
 Any zero is a fail. **So is a term that appears only inside a sentence declaring it absent** — the word being
-present is not the category being covered, and the gate is worthless if it accepts its own excuses. Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
+present is not the category being covered, and the gate is worthless if it accepts its own excuses.
+
+**But there is a third outcome, and it needs recording as such rather than forced into pass or fail.** A
+category can be **covered in substance and absent in term**. Scorpio's `funeral` returned **zero** while
+mortuary practice was the single most developed category in its pass — a body-breakers' institution, a
+collective-cremation-derived holiday, and a whole doctrine about how death-work is conducted. The district
+simply does not use that word; its vocabulary is procedural. Leo's `humor` behaved the same way.
+
+**Record it as "covered in substance, absent in term" and move on.** Do **not** insert the word to make the
+grep pass — that is gaming the gate, it degrades the prose, and it destroys the check's value for everyone
+after you. The mechanical scan finds candidates; you decide which of the three outcomes each one is. Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
 district (they live outside the Full_Extrapolation, in Canon Reference / Mega-Init / diaspora file) — a
 district missing its Canon Reference Cultural Texture entry, for instance, has a real hole that this plan was
 never going to fill.
 
 ## Gate 2 — General-population discipline
 
-Per `00b_General_Population_Discipline.md`. For each Finding, ask: does this describe the general population,
-or one profession's / ritual's / narrow context's version presented as the default? Highest-risk categories:
+Per `00b_General_Population_Discipline.md`. For each Finding — **including every pre-existing one, not only
+what this pass wrote** — ask: does this describe the general population, or one profession's / ritual's /
+narrow context's version presented as the default?
+
+> **⚠ A recorded failure is not a fixed failure. Audit the source, not the lesson.** `00b` names three districts
+> as its canonical examples. Checked 2026-08-29: **Cancer was corrected, Leo was corrected, and Scorpio — the
+> district the file names first, as the origin case — was still broken**, with Finding VI asserting that a
+> resident's face is "routinely covered in public." The lesson had been written down and the source had been
+> left alone for six weeks. **The origin example is the one most likely to be uncorrected**, precisely because
+> writing the discipline file feels like having dealt with it. Whenever a discipline document cites a district,
+> open that district and confirm the text was actually changed.
+
+Note that this gate found its Scorpio instance only because the developer flagged it mid-pass. A Gate 2 run
+scoped to new material would have missed it entirely, which is why the scope above is explicit. Highest-risk categories:
 **Fashion** (failed three times: Scorpio's masks, Cancer's caregiver vest, Leo's performer dressing), Music,
 Sensory Profile's "first impressions," Visitor Experience.
 
