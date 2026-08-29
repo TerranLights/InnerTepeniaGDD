@@ -163,8 +163,50 @@ and Pisces' own precedent is the stronger existing model.
 
 ---
 
-## 8. Worked example
+## 8. The Naming technique — run this before inventing a belief system
 
-None yet as of 2026-08-16 — Phase 1 (Cancer) is the only phase/district combination executed so far. Pisces'
-pre-existing Finding III serves as the closest available model for this phase's Religious/Philosophical work,
-even though it predates this plan.
+**Added 2026-08-29, on two-for-two evidence.** Both districts that have completed this phase produced their
+Religious/Philosophical finding the same way, and in both it became the single most load-bearing finding in the
+district's entire file:
+
+- **Cancer — "The Keeping."**
+- **Taurus — "The Recorded Bond,"** derived directly from `District_Canon_Reference.md`'s own existing sentence,
+  *"the rebuilt registry became something close to sacred; maintaining it is a civic honor."*
+
+Neither was invented. **In both cases the district was already visibly believing something, in canon, in
+religious register, and nobody had named it.** Naming it retroactively organized material that had been reading
+as a set of unrelated district facts: once Taurus's belief was named, its stay-put export economy, its distrust
+of Arcanet-only archiving, its two-stage visitor transition, and its robot-status-by-lineage system all resolved
+into one value expressed five different ways.
+
+**The procedure, run first, before generating anything:**
+
+1. **Search the district's existing canon for religious-register language attached to non-religious objects.**
+   The tells are literal: *sacred, honor, sworn, kept, owed, witnessed, proper, must, never*. A registry
+   described as "close to sacred" and a duty described as "a civic honor" are theological statements about
+   a filing system, and they are already written down.
+2. **Ask what proposition would have to be true for that language to make sense.** For Taurus: *a bond is not
+   fully real until it is witnessed and recorded.* State it as one sentence a resident would agree with.
+3. **Test it against the district's defining wound.** A correctly-named belief gives the wound weight it did not
+   previously have. Taurus's Registry Collapse stops being a bureaucratic tragedy and becomes a genuine
+   unresolved question about whether thousands of people's bonds still count — which in turn explains why the
+   culture will not discuss them.
+4. **Only if the search comes back empty should you generate a belief system from scratch.**
+
+**Why this is the ordering rule and not merely a tip:** a generated belief has to be argued into the district's
+existing material, and frequently does not fit. A named one arrives already load-bearing, because it was
+holding the weight all along. **A district's most important "new" finding is very often a name for something it
+was quietly believing the whole time** — and if the search does come back empty, that emptiness is itself worth
+recording, because it means the district's meaning-structure is genuinely elsewhere.
+
+**The counter-check:** the name must not be portable. If "The Recorded Bond" would work equally well as Cancer's
+belief, it has been written too abstractly. Both existing names fail a swap onto each other immediately, which
+is the standard to hit.
+
+---
+
+## 9. Worked examples
+
+**Taurus — Finding VIII, "The Recorded Bond"** (2026-08-16), the fullest available model, and the one this
+phase's Naming technique above was derived from. **Cancer — Finding XI, "The Keeping."** Pisces' pre-existing
+Finding III predates this plan but remains a useful third reference for register and length.

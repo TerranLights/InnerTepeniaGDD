@@ -40,6 +40,14 @@ Per district, before writing:
 - `A_Elements.md` and `B_Modalities.md` — its temperament family and its relationship to change
 - `G_Correspondences.md` — material texture, already filtered for Antarctic enclosure
 - `E_Decans.md` — optional sub-neighbourhood texture; weakly sourced, treat as a menu
+- **`NN_<Sign>.md` §15 Source Gaps — read it as an input, not a disclaimer.** *(Added 2026-08-29.)* This section
+  looks like a caveats list and is in practice one of the highest-yield generators in the folder. **Two of
+  Taurus's strongest structural findings came from it and from nowhere else:** the corpus's admission that it
+  says nothing about this temperament *under poverty* is what produced the Coldsiders reading, and its admission
+  that it offers *no resolution mechanism* for two of this temperament in conflict is what finally supplied the
+  missing machinery behind a 250-year-old unresolved schism. **Where the sources have a hole, ask whether the
+  hole is the district's mechanism.** A faculty the corpus cannot describe is often a faculty the district does
+  not have — and that absence, made institutional, is a finding no amount of positive material would produce.
 - The district's existing `Deep_Dives/`, `District_Vision_Notes/`, and `District_Canon_Reference.md` entry
 
 **The Hub is a genuine exception.** Ophiuchus has no element, no modality, no opposing sign, and no aspects at
@@ -72,6 +80,14 @@ done
   write a second pass.** Record that the substrate corroborated the existing work and stop. That is a real and
   useful outcome, not a failure.
 - **Partial** — write only the genuinely new material. Do not pad it out to look like a full pass.
+- **Correction** *(added 2026-08-29 — a fourth outcome, and the most valuable one).* The substrate shows an
+  **existing** finding to be half-written rather than wrong. Taurus's Finding II had described a trust mechanism
+  in only its favorable direction; the substrate revealed the mechanism is symmetrical, which turned the
+  district's warmth and its most characteristic injustice into a single institution seen from two sides. **Write
+  this as an explicit correction of the named prior Finding, not as a new independent one**, and say in the text
+  that it corrects rather than contradicts — the original finding was true, just incomplete. Expect this outcome
+  wherever the original pass wrote about admission, trust, or belonging, because those are the findings a
+  well-meaning pass writes only the pleasant half of. See `00c` **Gate 9**.
 
 ---
 
@@ -103,6 +119,15 @@ It produces flaws that feel *inevitable rather than assigned*, and — criticall
 villain**, which is what makes them compatible with this project's non-malice discipline and with
 `00d_Shadow_Proportion_Discipline.md`.
 
+**When a district has fewer than four terms, the absence itself is the finding.** *(Added 2026-08-29 — this
+affects six of the thirteen.)* `F_Rulerships.md` §5 notes that Gemini, Leo, Sagittarius and Aquarius have
+neither exaltation nor fall, Taurus has no fall, and Scorpio has no exaltation. **Do not treat the thin row as
+less material to work with.** Taurus's entire principal finding came out of the empty cell: having no fall means
+there is nothing it actively despises, therefore nothing it refuses on principle, therefore — run out to its
+institutional consequence — it is the district the rest of the city routes its unwanted asks through, because it
+is the one that will not turn a request into a fight. **Ask what it means for a district to lack that faculty
+entirely**, rather than reading the row as incomplete.
+
 **Write it as a capability profile, not a diagnosis.** Two strong faculties and two weak ones, each stated as
 what the district can and cannot institutionally do — then one consequence that follows. In Cancer's case the
 consequence was that a resident with no dependent has no route to be heard. **Every district's consequence will
@@ -124,6 +149,16 @@ translated into district names. Three things to do with it:
   canon agree, the pairing is doubly grounded. Where they disagree, read them **together** before discarding
   either — the disagreement is often more accurate than either axis alone.
 
+**The three-way differentiation set — the most reusable trick the Taurus pass produced.** *(Added 2026-08-29.)*
+A district plus its two hardest frictions makes a **natural three-way contrast for any single behavior
+category**, because the geometry guarantees they differ on the same axis without overlapping. Taurus's protest
+grammar fell out of this immediately: **the Labs organizes, Leo performs, Taurus obstructs** — three answers to
+one question, each finding the other two faintly embarrassing, none of them villainous, none of them previously
+written down. The technique generalizes to any category where districts must differ but have no reason to
+conflict: how each mourns, celebrates, apologizes, courts, settles a dispute, or treats a stranger. **Pick the
+category first, then read all three off the geometry** — deriving one district's answer alone tends to produce
+something generic, because there is nothing to differentiate it against.
+
 **Standing opportunity:** none of the four canon district pairs is a square or an opposition. All six
 oppositions and twelve squares remain unexploited by district canon.
 
@@ -137,10 +172,18 @@ The substrate *will* contradict established material. That is expected and it is
 
 - **Canon wins.** The substrate is proposed reference; Deep Dives, Vision Notes, and Canon Reference outrank it.
 - **State the contradiction in the text**, with the reconciliation. Do not silently pick one.
-- **Look for a both-are-true reading first.** Cancer's two contradictions both resolved that way: the
-  district reads as unhurried at street level *and* is institutionally expansionist; entry is fast for
-  *structural residency* and sideways-only for *belonging*. Two thresholds, two registers — not one truth and
-  one error.
+- **Look for a both-are-true reading first — three for three so far, so treat it as the default expectation
+  rather than a hopeful first try.** Cancer's two contradictions resolved that way (unhurried at street level
+  *and* institutionally expansionist; entry fast for *structural residency*, sideways-only for *belonging*), and
+  so did Taurus's (the most static position in the system *and* a standing migration destination — it absorbs
+  people readily and changes practice never).
+
+  **The recurring shape is worth naming, because knowing it makes the reconciliation findable rather than
+  lucky:** in every case so far the contradiction turned out to be **one disposition producing two opposite
+  effects on two different objects, or at two different scales.** So when the substrate and canon disagree, do
+  not ask which is true — ask *what single trait would produce both of these*, and check whether the two claims
+  are actually about different objects (people vs. practice, structure vs. belonging, street level vs.
+  institution). If they are, both stand, and the pair is more informative than either half.
 - **Where it genuinely cannot be reconciled, leave it flagged as open** rather than deciding unilaterally.
 
 ---
@@ -160,7 +203,17 @@ vocabulary, rulers, decans — may appear outside a bracketed citation, and none
 text under any circumstances.
 
 A useful check when finished: **grep the new material for zodiac terms and confirm every hit is inside a
-citation or a section header.**
+citation or a section header.** Use word boundaries on *every* alternative — a pattern with a bare `mars` will
+match inside `grammars` and send you chasing a leak that isn't there:
+
+```
+awk 'NR>{last line of the original pass}' <District>_Full_Extrapolation.md > /tmp/new.md
+grep -Ein '\b(venus|mars|moon|saturn|mercury|jupiter|pluto|uranus|neptune)\b|\b(domicile|exalted|detriment|decans?)\b|\b(trines?|squares?|sextiles?|quincunx|opposition)\b|\b(cardinal|fixed|mutable)\b|zodiac|astrolog' /tmp/new.md
+```
+
+Inspect **every** hit rather than trusting the count. In the Taurus pass this surfaced four genuine leaks in
+district-facing prose (`squares`, `trine`) that had to be rewritten into district vocabulary, alongside two
+legitimate in-citation uses and one false positive.
 
 ---
 

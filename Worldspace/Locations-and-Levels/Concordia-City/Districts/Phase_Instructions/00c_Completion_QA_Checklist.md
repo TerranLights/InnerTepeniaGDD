@@ -40,19 +40,53 @@ district and a grief district correctly yields completely different answers.
 
 ---
 
+## Gate 0 — Does the completion claim match the file?
+
+**Added 2026-08-29 after Taurus.** Run this before anything else, because it is the cheapest gate and it caught
+the largest single error found so far.
+
+Open the Plan's per-district block and **count the phases it lists against the phases the file actually
+contains.** Taurus's block read **"ALL 8 PHASES COMPLETE (2026-08-16)"** while listing only ten items, **none of
+which was Phase 7** — a phase that had been inserted into the Plan that same day. The claim was false for two
+weeks and nothing in the process was looking at it. Leo carried the identical defect.
+
+**The standing rule this implies, which is binding going forward:**
+
+> **When a phase is added to the Plan, every district already marked complete reverts to incomplete for that
+> phase.** Adding a phase does not retroactively complete it anywhere. The Plan's per-district blocks and its
+> progress tracker must both be corrected in the same commit that adds the phase, and the phase file's own
+> per-district status table reset accordingly.
+
+A completion claim is a factual assertion about a file. Verify it against the file, not against memory of
+having done the work.
+
 ## Gate 1 — Template coverage
 
 Open `District_Culture_Development_Plan.md`'s **Complete template audit** table. For every one of the 32
 sections marked **Phase 1-8**, confirm the district's `Full_Extrapolation.md` actually answers it. Not
 "gestures at it" — answers it.
 
-Fast mechanical check for the categories most often silently missed:
+Fast mechanical check for the categories most often silently missed. **Run it per-term, and on the findings
+only.** Two ways this check has actually failed in practice, both fixed below:
+
+- **An aggregated `grep -c` with alternation cannot tell you which category is missing** — it returns the count
+  of lines matching *any* term, so a file strong on `cuisine` and empty on `siligel` scores well. The original
+  version of this gate had exactly that defect. Loop per term instead.
+- **The QA block contaminates its own re-run.** A QA block that honestly names its gaps makes those very terms
+  register as present the next time the check runs. Taurus's re-run showed `funeral`, `humor`, and `slang`
+  "passing" for precisely this reason. Cut the QA block before counting.
 
 ```
-grep -ci "siligel\|cuisine\|music\|counterculture\|holiday\|human-robot" <District>_Full_Extrapolation.md
+# per-term, findings only — stop before the QA block
+sed '/^## QA — Completion Check/,$d' <District>_Full_Extrapolation.md > /tmp/findings.md
+for t in siligel cuisine music counterculture holiday human-robot glitch-coolant \
+         funeral sport game humor slang death child elder gender; do
+  printf "%-16s %s\n" "$t" "$(grep -ci "$t" /tmp/findings.md)"
+done
 ```
 
-Any zero is a fail. Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
+Any zero is a fail. **So is a term that appears only inside a sentence declaring it absent** — the word being
+present is not the category being covered, and the gate is worthless if it accepts its own excuses. Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
 district (they live outside the Full_Extrapolation, in Canon Reference / Mega-Init / diaspora file) — a
 district missing its Canon Reference Cultural Texture entry, for instance, has a real hole that this plan was
 never going to fill.
@@ -78,6 +112,17 @@ unchanged if you swapped in a comparable district? Pick the swap partner deliber
 map position (two small Hub-adjacent wedges) or similar civic register (two care/wound-adjacent districts).
 If a Finding survives the swap intact, it hasn't localized; send it back or document honestly that nothing
 district-specific emerged (a legitimate outcome — see the Honesty Check in the outer-city robot methodology).
+
+**Choosing the partner — sharpened 2026-08-29.** Pick **the district most likely to survive the swap, not a
+convenient comparable.** The gate is only informative if it could plausibly fail. Taurus was swapped against
+**the Yards** — its closest structural affinity, sharing both its temperament family and its material,
+working-class civic register — which is why the swap result carries weight: the strongest finding failed the
+hardest available partner. A swap against a district with nothing in common proves nothing and should not be
+recorded as a pass.
+
+**Record which finding was weakest under the swap, not just that the set passed.** Taurus's QA names Finding
+XXI(a) as the one that nearly survived and states what it survives on. A gate that only ever reports success is
+not being run honestly.
 
 ## Gate 5 — Cross-district consistency
 
@@ -124,6 +169,31 @@ cross-district standout digest.
 
 ---
 
+## Gate 9 — Asymmetry check: was only the favorable half written?
+
+**Added 2026-08-29 after Taurus, where this caught a real hole in existing canon.**
+
+For every Finding describing a **threshold, gate, conversion, verdict, admission, or status change**, ask: *the
+mechanism runs both ways — did the file write both?*
+
+Taurus's Finding II established that earned trust converts a stranger into someone whose door is answered warmly
+"the first time, every time after." It wrote only the favorable case. **The mechanism is symmetrical: a verdict
+that goes the other way is equally permanent, equally unspoken, and equally never revisited** — and because it
+is never written down, the district's own belief system leaves nothing to appeal. That is the district's most
+characteristic injustice, and its warmth and its injustice turned out to be *the same institution seen from two
+sides*, with nobody acting in bad faith at any point.
+
+This is cheap to run and high-yield, because the omission is almost never deliberate — a pass writing about how
+a district welcomes people simply does not think to ask what happens to the people it doesn't.
+
+**Ask of each such Finding:**
+1. What happens to someone the mechanism decides *against*?
+2. Is that outcome as durable as the favorable one? (Usually yes, and usually unwritten.)
+3. Is there any route back? (Usually none, and usually nobody has noticed there isn't.)
+
+A "no route back" that nobody in the district has ever perceived as a problem is a textbook shadow finding under
+`00d` — unintended, unnoticed, and discoverable only by a player who goes looking.
+
 ## Recording the result
 
 Append a short QA block to the district's `Full_Extrapolation.md`:
@@ -131,7 +201,8 @@ Append a short QA block to the district's `Full_Extrapolation.md`:
 ```
 ## QA — Completion Check (District Culture Development Plan)
 
-**Run YYYY-MM-DD.** Gates 1-8 per `Phase_Instructions/00c_Completion_QA_Checklist.md`.
+**Run YYYY-MM-DD.** Gates 0-9 per `Phase_Instructions/00c_Completion_QA_Checklist.md`.
+- Gate 0 Completion claim vs. file: ...
 - Gate 1 Template coverage: PASS / issues found and fixed: ...
 - Gate 2 General-population: ...
 - Gate 3 Contradiction check: ...
@@ -140,6 +211,8 @@ Append a short QA block to the district's `Full_Extrapolation.md`:
 - Gate 6 Duplicate institutions: ...
 - Gate 7 Unused research: recorded above / at ...
 - Gate 8 Standout: recorded in Worth Your Attention.
+- Gate 9 Asymmetry: findings checked for unwritten reverse cases; ...
 ```
 
-Only after this block exists may the district be marked complete in the Plan's per-district checklist.
+Only after this block exists may the district be marked complete in the Plan's per-district checklist — and per
+Gate 0, the block you write there must list every phase the file actually contains, not a summary claim.

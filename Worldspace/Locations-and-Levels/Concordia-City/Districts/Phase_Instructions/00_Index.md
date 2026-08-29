@@ -55,7 +55,10 @@ least one is wrong.
 0. `00e_Substrate_Application_Pass.md` — how to apply `../Zodiac_Personality_Substrate/` to a district.
    Two modes (second pass for Cancer/Taurus/Leo, first-pass input for the other ten), the overlap check that
    stops it becoming a re-labelling exercise, the capability reading, and the translation discipline.
-0. `00c_Completion_QA_Checklist.md` — the closing gate; a district is complete only when it passes all 8 gates
+0. `00c_Completion_QA_Checklist.md` — the closing gate; a district is complete only when it passes all
+   **ten gates, 0 through 9** *(expanded 2026-08-29 after Taurus)*. **Gate 0** verifies the Plan's completion
+   claim against the file itself — it caught a district marked "ALL 8 PHASES COMPLETE" that was missing an
+   entire phase. **Gate 9** checks whether a finding wrote only the favorable half of a symmetrical mechanism.
 1. `01_Phase_1_Lived-in_Texture.md` — Architecture, Sensory Profile, Export Culture
 2. `02_Phase_2_Identity_and_Meaning.md` — Religious/Philosophical Landscape, Fashion
 3. `03_Phase_3_Arcanet_Culture.md`
@@ -67,15 +70,21 @@ least one is wrong.
 
 ## Status
 
-**Updated 2026-08-29.** Three districts have now been through the full eight-phase sequence:
+**Updated 2026-08-29.** Three districts have been through the full sequence; two have passed QA:
 
 - **Cancer — all 8 phases COMPLETE and QA-PASSED.** Rewritten from scratch 2026-08-16 with real research on
   all eight of its real-world picks. `Cancer_Full_Extrapolation.md` Findings VIII-XXI, with the completion QA
   block recorded at the foot of that file. **It is the reference example for every phase**, not just Phase 1 —
   but see the warning below on what that does and does not mean.
-- **Taurus — all 8 phases complete (2026-08-16), NOT QA'd.** Predates Phase 7, the research-first rule, and
-  the general-population discipline. Treat with caution and re-check before relying on it.
-- **Leo — all 8 phases complete (2026-08-16), NOT QA'd.** Same caveats as Taurus.
+- **Taurus — all 8 phases COMPLETE and QA-PASSED (2026-08-29).** Its 2026-08-16 "complete" marking was false:
+  Phase 7 was absent entirely and the Plan's own block claimed otherwise for two weeks. Phase 7 (Findings
+  XV-XVII), a Mode A substrate second pass (XVIII-XXIII), and the district's first completion QA were all run
+  2026-08-29. **It is now the reference example for the substrate second pass and for the Naming technique**,
+  under the same method-not-content warning that governs Cancer below.
+- **Leo — all 8 phases claimed complete (2026-08-16), NOT QA'd, and Phase 7 is missing.** It carries the exact
+  defect just corrected in Taurus, including the same false "ALL 8 PHASES COMPLETE" block. **It is the obvious
+  next district**, and its correction is a known quantity: run Gate 0, write Phase 7, run the Mode A overlap
+  check, then QA. Do not rely on Leo's material until this is done.
 
 The remaining ten districts have not been started. See `../District_Culture_Development_Plan.md`'s progress
 tracker for exact per-phase counts, which are authoritative over this summary.
@@ -100,3 +109,49 @@ must go back.
 
 A finished district should be unmistakably *itself*. Twelve districts reading as variations on Cancer would
 mean the methodology failed, however polished each one is.
+
+
+---
+
+## What the two QA-passed districts changed about the method
+
+**Added 2026-08-29**, after Cancer and Taurus became the first two districts to pass the completion gate. Recorded
+here because these are cross-phase and would otherwise be buried in one district's file. Each is filed in full
+where it operates; this is the index to them.
+
+**Process defects found and fixed:**
+
+1. **A completion claim is not evidence of completion.** Taurus was marked "ALL 8 PHASES COMPLETE" while missing
+   Phase 7 entirely. → `00c` **Gate 0**, plus the binding rule that **adding a phase reverts every
+   already-complete district to incomplete for that phase**, corrected in the same commit.
+2. **Gate 1's own command was broken.** An aggregated `grep -c` with alternation cannot identify *which*
+   category is missing, and the QA block contaminates its own re-run — a block honestly naming its gaps makes
+   those terms register as present next time. → both fixed in `00c` Gate 1.
+3. **The translation-discipline check needs word boundaries on every alternative**, or a bare `mars` matches
+   inside `grammars`. → corrected pattern in `00e` §8.
+
+**Techniques added, each earned by evidence rather than proposed:**
+
+4. **The Naming technique** *(2 for 2)* — both districts' governing belief already existed in canon, in
+   religious register, unnamed. Search before inventing. → `02_Phase_2` §8.
+5. **Absence is content** *(affects 6 of 13 districts)* — a thin capability row is not less material. Taurus's
+   principal finding came out of an empty cell. → `00e` §5.
+6. **Source gaps are generative** — the substrate's §15 "what the corpus doesn't cover" produced two of Taurus's
+   best structural findings. Where the sources have a hole, ask whether the hole is the district's mechanism.
+   → `00e` §2.
+7. **The three-way differentiation set** — a district plus its two hardest frictions answers any one behavioral
+   question three distinguishable ways at once. → `00e` §6.
+8. **The asymmetry check** — a pass writing about how a district welcomes people does not think to ask what
+   happens to those it doesn't. → `00c` **Gate 9**.
+9. **A second pass can correct, not only extend** — the fourth overlap-check outcome, and the most valuable.
+   → `00e` §3.
+10. **Both-are-true is the default expectation for contradictions** *(3 for 3)*, and the recurring shape is now
+    named: one disposition producing two opposite effects on two different objects or at two different scales.
+    → `00e` §7.
+11. **Swap against the hardest partner, not a convenient comparable**, and record which finding was weakest.
+    → `00c` Gate 4.
+
+**The one thing that did not generalize:** Cancer and Taurus produced findings of completely different *kinds* —
+a care district whose shadow is care that cannot be ended, and a stability district whose shadow is generosity
+indistinguishable from erosion. Nothing about either transferred to the other, which is the methodology working
+as intended. **The techniques generalize; the answers never do.**

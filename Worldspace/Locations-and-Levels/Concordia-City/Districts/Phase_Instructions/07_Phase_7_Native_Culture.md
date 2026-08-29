@@ -64,6 +64,14 @@ part of the template across this entire project. Siligel is national canon; how 
 and regards it is genuinely district-differentiating, and Glitch-Coolant's existing bohemian/working-class
 split is a ready-made axis to localize.
 
+**Step C0 — Look for the counterculture's seed in Ordinary Daily Life before deriving it.** *(Added 2026-08-29.)*
+Phase 5 is written to describe people doing ordinary things, which means it routinely records small acts of
+quiet non-compliance without recognizing them as such. Taurus's entire counterculture was already sitting in its
+Phase 5 finding as a throwaway clause — *"small unrecorded personal crafts deliberately kept apart from the
+heirloom-repair co-ops (not everything needs to become a genealogical object)"* — and needed formalizing rather
+than inventing. **Re-read Phase 5 looking specifically for the word "not," and for anything a resident is
+described as deliberately keeping out of an institution.** That is usually the counterculture, already observed.
+
 **Step C — Counterculture: derive it from the dominant culture's specific pressure, never from generic
 rebellion.** The strongest countercultures are the exact negative image of what the district demands. A district
 built on compulsory visibility generates people who refuse to be seen; one built on permanence generates people
@@ -72,7 +80,14 @@ this district require of everyone, and who cannot or will not give it?** That po
 Keep it sympathetic rather than criminal, per the project's established non-malice discipline
 (`Cross_District_Non_Malice_Audit.md`).
 
-**Step D — Human-Robot Relations: find the local inflection, not the national baseline.** The national baseline
+**Step D — Human-Robot Relations: find the local inflection, not the national baseline.** **The strongest
+available move is that the district reorganizes its population along a different axis entirely** *(added
+2026-08-29)*. Taurus's finding is not that humans and robots relate unusually there — it is that the operative
+social division is **paired versus unpaired**, which cuts across both populations and leaves an unpaired human
+and an unpaired robot with far more in common with each other than either has with a bonded pair. That is a
+genuine local inflection, it is invisible from the national baseline, and it made the district's existing
+central wound cut deeper. **Ask: is there a category here that matters more than species?** If so, that is the
+finding, and the human-robot question answers itself underneath it. The national baseline
 is egalitarian and robot-skewed (`project_human_robot_relations_baseline`). Restating it is not a finding. The
 finding is what *this district's* function does to that baseline — which roles each population concentrates in,
 where friction actually occurs, and what here would look unusual to a resident of another district.
