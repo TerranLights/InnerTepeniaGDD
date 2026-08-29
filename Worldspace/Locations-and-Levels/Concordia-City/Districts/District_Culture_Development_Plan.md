@@ -376,7 +376,11 @@ entry = needs full development from scratch.
 - **QA Completion Check — PASSED 2026-08-29**, Gates 1-8. Gate 1 failed on first run (`siligel`, `music`, `counterculture`, `holiday` all zero) and was fixed by Phase 7. `sport`, `game`, and `slang` remain honestly open.
 - Second district to complete the full 8-phase process, and the second to pass QA.
 
-### 03 — Leo — **ALL 8 PHASES COMPLETE (2026-08-16)**
+### 03 — Leo — **ALL 8 PHASES COMPLETE + QA PASSED (Phase 7 and QA added 2026-08-29)**
+
+> **Correction, 2026-08-29.** This block previously read "ALL 8 PHASES COMPLETE (2026-08-16)" while listing ten
+> items, **none of which was Phase 7** — the identical defect corrected in Taurus the same day, and the one Taurus's
+> pass flagged as remaining. **Gate 0 was written specifically to catch this and caught it on first use.**
 - Architecture — **Done** (Finding V)
 - Sensory Profile — **Done** (Finding VI)
 - Export Culture — **Done** (Finding VII)
@@ -387,7 +391,10 @@ entry = needs full development from scratch.
 - Ordinary Daily Life — **Done** (Finding XII, Phase 5)
 - Thematic Breadth Catalog — **Done** (Finding XIII, Phase 6)
 - Robot-Specific Culture — **Done** (Finding XIV, Phase 8 — first-pass; full Robot Universals triage still pending)
-- Third district to complete the full 8-phase process.
+- **Native Culture — Done 2026-08-29** (Findings XV-XVII, Phase 7 — added retroactively; Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
+- **Zodiac Substrate Second Pass — Done 2026-08-29** (Findings XVIII-XXIII, Mode A; overlap check near-zero with one genuine partial, so the pass was additive)
+- **QA Completion Check — PASSED 2026-08-29**, Gates 0-9. Gate 0 failed (see correction above); Gate 1 failed with **twelve of sixteen categories at zero**, including `music` at 1 in the performance district; **Gate 9 failed and produced Finding XX**. `sport`, `game`, `slang`, `funeral`, `elder`, `gender` remain honestly open.
+- Third district to complete the full 8-phase process, and the third to pass QA.
 - **Resolved during this pass, 2026-08-16:** the pending Leo Star War issue ([[project_leo_star_war_resolution_and_rename_pending]]) was fixed opportunistically — Findings II and IV in `Leo_Full_Extrapolation.md` (and the Mega_Init's Hard Facts row) were stale against the confirmed 2026-07-29 Combined Version and have been corrected. Per direct developer instruction, "The Star War" is not used anywhere in this file's new or corrected material — the replacement name itself remains undecided and deliberately deferred, referred to descriptively instead.
 
 ### 04 — Scorpio
@@ -535,10 +542,10 @@ for the "already has it" districts needing promotion rather than fresh writing) 
 - [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (3/13 done: Cancer, Taurus, Leo; 10 new remain)
 - [ ] Phase 5 — Ordinary Daily Life (3/13 done: Cancer, Taurus, Leo; 10 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
 - [ ] Phase 6 — Thematic Breadth Catalog (3/13 done: Cancer, Taurus, Leo; 10 new remain; places/things/people-as-placeholders/settings per district)
-- [ ] Phase 7 — Native Culture (2/13 done: Cancer, Taurus; 11 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
+- [ ] Phase 7 — Native Culture (3/13 done: Cancer, Taurus, Leo; 10 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
 - [x] Phase 8 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/08...md` §1
 - [ ] Phase 8 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
-- [ ] **QA Completion Check** (2/13 passed: Cancer, Taurus; 11 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Leo** has still not been QA'd and predates Phase 7, the research-first rule, and the general-population discipline — it is the remaining instance of the defect Taurus was just corrected for, and should be next.)
+- [ ] **QA Completion Check** (3/13 passed: Cancer, Taurus, Leo; 10 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **All three districts that predated the QA gate have now been brought through it.** The remaining ten have not been started at all, so they enter the pipeline clean and should be run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward.)
 
 Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and

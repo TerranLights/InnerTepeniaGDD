@@ -70,7 +70,9 @@ least one is wrong.
 
 ## Status
 
-**Updated 2026-08-29.** Three districts have been through the full sequence; two have passed QA:
+**Updated 2026-08-29.** Three districts have been through the full sequence, and **all three have now passed
+QA**. The remaining ten have not been started, so they enter clean and should run in **Mode B** — substrate
+folded in as a first-pass input rather than bolted on afterward.
 
 - **Cancer — all 8 phases COMPLETE and QA-PASSED.** Rewritten from scratch 2026-08-16 with real research on
   all eight of its real-world picks. `Cancer_Full_Extrapolation.md` Findings VIII-XXI, with the completion QA
@@ -81,10 +83,11 @@ least one is wrong.
   XV-XVII), a Mode A substrate second pass (XVIII-XXIII), and the district's first completion QA were all run
   2026-08-29. **It is now the reference example for the substrate second pass and for the Naming technique**,
   under the same method-not-content warning that governs Cancer below.
-- **Leo — all 8 phases claimed complete (2026-08-16), NOT QA'd, and Phase 7 is missing.** It carries the exact
-  defect just corrected in Taurus, including the same false "ALL 8 PHASES COMPLETE" block. **It is the obvious
-  next district**, and its correction is a known quantity: run Gate 0, write Phase 7, run the Mode A overlap
-  check, then QA. Do not rely on Leo's material until this is done.
+- **Leo — all 8 phases COMPLETE and QA-PASSED (2026-08-29).** Corrected the same day as Taurus and in the same
+  way. **Gate 0 was written off the Taurus run and caught Leo's identical false completion claim on its first
+  use**; **Gate 9 (asymmetry) also failed on first use and produced the pass's runner-up finding** — a
+  recognition ladder that had been written with only an up direction. Leo is the reference example for
+  **"absence is content"**, having the thinnest capability row in the system.
 
 The remaining ten districts have not been started. See `../District_Culture_Development_Plan.md`'s progress
 tracker for exact per-phase counts, which are authoritative over this summary.

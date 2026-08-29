@@ -151,3 +151,528 @@
 **Also flagged, 2026-08-16:** Sections II and IV were corrected during this same pass — both previously described an actual "Star War" with a winning and losing house, stale against the confirmed 2026-07-29 Combined Version (Twin Founding → Allocation Formula → 2812 Untimely Loss at Zukelli, no war, no conquest). Fixed opportunistically while adding the phases below rather than left for a separate sweep. "The Star War" and "Golden Ring" (as a district-name stand-in) are avoided throughout this file's own newer material at the developer's direct instruction, 2026-08-16 — the event's real replacement name is still undecided and deliberately deferred.
 
 **Standout of the full 7-phase District Culture Development Plan pass (Findings V-XIV, completed 2026-08-16):** Finding 1 of Finding XIV (Robot-Specific Culture) is the one worth flagging above the rest — the Leo Deep Dive's own root-cause insight (robots proving personhood through undeniable performance, because lived recognition never fully caught up to 2318's legal settlement) turns out to be Leo's own version of the pattern already seen in Cancer (Keeping) and Taurus (The Recorded Bond): the district's single most load-bearing fact was already sitting in established canon, just never named as what it actually is. Here, that fact isn't a belief system — it's the literal, continuous stakes a robot performer carries every time they step into the district's own spotlight.
+
+---
+
+# Phase 7 — Native Culture (added 2026-08-29)
+
+**Why this section exists — Gate 0 failure.** The Plan's block for Leo read **"ALL 8 PHASES COMPLETE
+(2026-08-16)"** while listing ten items, **none of which was Phase 7**; the file itself jumps from Phase 6
+(Finding XIII) straight to Phase 8 (Finding XIV). This is the identical defect corrected in Taurus on
+2026-08-29, and Leo was flagged then as the remaining instance. Gate 1 then returned **zero** for twelve of
+sixteen probed categories — including `music`, which scoring 1 in *this* district is its own indictment.
+
+Written per `Phase_Instructions/07_Phase_7_Native_Culture.md`, governing discipline **native, not
+transplanted**, and under `00b_General_Population_Discipline.md`, which matters here more than in any other
+district: **Leo's professional performers are not Leo's general culture**, and this file has already had to
+correct that exact error once, in Finding IX.
+
+---
+
+## XV. Cuisine, Music, and Arts — a district where the general population are experts at watching (Phase 7)
+
+**Proposed — the unifying insight. In a district saturated with professional performance, the ordinary
+resident's relationship to art is not making it. It is knowing, in detail and out loud, why a thing worked.**
+Leo's general culture is a **connoisseur culture**, not an amateur one, and that single inversion drives all
+three categories below. It is also the correct application of the general-population discipline rather than an
+evasion of it: Finding XII already establishes that most residents hold support work, and a district where
+everybody can see world-class technique nightly develops audiences, not hobbyists.
+
+**(a) Human food — the occasion is the dish.** Leo's canon smell is already "performance materials and
+something sweet being cooked," and Finding XII establishes bars, bistros, and catering as the district's actual
+employment base. What was never stated is what any of it is *for*.
+
+**Food in Leo is punctuation. You eat because something happened.** A booking, a tier climb, a debut, a good
+notice, a survived disaster — each produces a meal, and the district manufactures occasions out of remarkably
+small events specifically so that the meal has a reason. The characteristic form is a large shared platter
+**broken open at the table in front of everyone**, portioned publicly by whoever is being honored. Nobody in
+Leo is comfortable eating alone; solitary eating reads, faintly and unfairly, as evidence that nothing is
+happening to you.
+
+**The quiet consequence, and it is a real one nobody intended: a resident's diet tracks their career.** Someone
+in a fallow stretch does not eat badly because they are poor. They eat badly because the occasions stopped, and
+the district has no eating tradition that does not require one. **[This is a shadow finding — unintended,
+unnoticed, and invisible unless a player looks at a specific person's kitchen over time.]**
+
+**(b) Robot cuisine and siligel — consumption as display.** *(Per `Robot_Physiology_and_Cultural_Practices.md`.)*
+In most of Tepenia, siligel intake is private and utilitarian. **In Leo it is conspicuous**, taken in view,
+and there is a genuine service craft around presenting it well — vessels, timing, staging. The sharp local rule:
+**a robot who is *served* their siligel rather than administering it themselves is being marked as high
+standing**, and the service is performed by someone junior in the recognition order. Being fed is a status
+display here.
+
+**Note the deliberate cross-district contrast, stated so the next reader does not merge them:** in Taurus, being
+fed from a household's rotation is *admission* — a private threshold nobody explains. In Leo, being fed is
+*rank* — a public signal everybody reads instantly. Same act, opposite social function.
+
+**Glitch-Coolant** falls on the established **bohemian-variety** side, the opposite pole from Taurus's
+working-class potency. Leo's venues carry range rather than strength: signature preparations, seasonal
+novelties, and — inevitably — house pours named after performers, whose continued presence on a menu is itself
+a minor recognition metric that everyone monitors and nobody admits to monitoring.
+
+**(c) Music — and the general-population correction that defines it.** Leo has professional performers in
+abundance, and they are **not** the finding. The finding is that **Leo's general population are expert
+listeners**, and that this is a real, transmissible skill with its own vocabulary, taught informally from
+childhood by people who work the venues.
+
+- **The serious register is attending.** An ordinary Leo resident can articulate why a set failed with a
+  precision that visitors find startling and occasionally rude. Criticism is not a profession here; it is
+  general literacy.
+- **Amateur music-making is genuinely rarer in Leo than in most districts**, and for a reason that is neither
+  snobbery nor prohibition: everyone can hear exactly how far short they fall. The bar is not gatekept, it is
+  simply audible.
+- **Which is why Leo's actual amateur tradition happens where nobody can hear it.** The **Resonance Chambers**
+  (`District_Canon_Reference.md`, and Finding XII's escapism material) — private, unrecorded, off the
+  promenade's information network — are where ordinary residents play, sing, and work at things they will never
+  perform. **Leo has a large, thriving amateur musical culture that is invisible by design**, and most residents
+  would be mortified to have it described as one.
+- **Cymatics Reverence** (Finding VIII) supplies the devotional register, and it lands on the listening side
+  rather than the performing side: attending a resonance work attentively is itself the practice.
+
+**(d) Arts and aesthetics — the hide economy.** Leo's aesthetic principle is that **an object's value is who
+wore it, not what it is.** Regalia, coats, instruments, and stage pieces are inherited from predecessors and
+worn openly as such; a piece with no history attached is merely expensive. The retired star's coat on her
+successor's shoulders is the district's central aesthetic object, and the transfer is the point.
+
+**Stated against Taurus deliberately, because both are provenance systems and they are not the same one:**
+Taurus documents an object to prove **continuity** — the chain was never broken. Leo displays an object to
+transfer **standing** — the chain is precisely what is being claimed. One is a record; the other is a claim.
+
+Literature: Leo's characteristic composed form is **the introduction** — the spoken billing that presents a
+performer to a room. Good ones are written, kept, reused, and admired; a great introduction can meaningfully
+advance the person it introduces, and writing them is a recognized minor craft with practitioners who never
+appear on any bill themselves.
+
+---
+
+## XVI. Human-Robot Relations, Counterculture, and Private Life (Phase 7)
+
+**Proposed.**
+
+**(a) Human-Robot Relations — the local inflection is that the same act is not the same job.** The national
+baseline is egalitarian and robot-skewed, and Leo shows notably little friction on it. The inflection comes
+straight out of Finding XIV.1: a robot's performance here doubles as continuous proof of personhood, which a
+human performer never has to make.
+
+**The consequence nobody wrote down: humans in Leo know this, and it quietly deforms ordinary professional
+life.** A human who beats a robot for a booking has won a career competition; the robot has lost something with
+a different weight attached. Nobody arranged this and nobody can undo it. Some human performers overcorrect by
+deferring — stepping back from a slot, softening a critique — which robot colleagues find **more** insulting
+than losing straightforwardly, because it treats the personhood question as settled in the wrong direction.
+Others refuse to acknowledge the asymmetry at all, which reads as callousness and usually isn't.
+
+**Everybody in Leo is acting in good faith and the situation still does not resolve**, because the asymmetry is
+real and neither species can make it not be. That is the district's most honest human-robot texture, and it
+would look strange to a visitor from a district where a job is only a job.
+
+**(b) Counterculture — the Company.** *(Derived per Step C from Leo's specific demand; seed located per Step C0
+in the Phase 5 finding, which already recorded that genuine escapism here means finding a moment without an
+audience.)*
+
+**What Leo requires of everyone is that they want to be witnessed.** Its counterculture is therefore residents
+who are good and who systematically decline recognition — refusing billing, turning down tier advancement,
+working under other people's names, and insisting that the ordinary work of the district is worth as much as
+the headline.
+
+**And because they are still Leo, they cannot help performing the refusal.** They have a name for themselves —
+**the Company**, meaning that everyone is in the company and nobody is the lead — a look, a circuit of venues,
+and a genuine scene. **They are, to their considerable irritation, somewhat famous for not wanting to be
+famous.** The mainstream regards them with affectionate exasperation and enjoys pointing out that a company
+still has a billing order, which is true and which they have no good answer to.
+
+**Their built-in tragedy, and it needs no antagonist:** a member who declines advancement on principle for
+twenty years, in a district where the public record *is* the person, ends up with no record of having existed.
+The most talented among them are the least documented. Some make peace with that. Some discover, far too late,
+that they wanted the thing they spent a career refusing, and there is no mechanism to go back and claim it.
+
+**The genuinely uncomfortable relationship is not with the mainstream — it is with the never-booked** (Finding
+XIX). The Company is loudly declining exactly what those people were quietly denied. Both groups are
+sympathetic, the friction between them is personal rather than institutional, and neither side can say the true
+thing out loud without cruelty. **This is the district's strongest under-quest seam.**
+
+**(c) Private Life and Minority Communities — the two-layer social life.** Leo absorbs newcomers **fast and
+shallow by design**: warmth is immediate, genuine, and cheap. What is not cheap is the second layer.
+
+**The integration bargain:** you receive real, immediate welcome and an unusually fast route to being *present*
+in the district. You pay with **permanent legibility of your standing** — where you sit in the recognition order
+is public, discussed, and updated without your consent.
+
+**Behind that: Leo's inner circles are very small and are entered only by people who can hear the worst as well
+as the best.** The district's actual intimacy is a brutally honest private register that visitors never see and
+frequently do not believe exists, because it sits directly underneath the warmest public manner in Concordia.
+Shirayuki-descended families (the Ashiato Atelier lineage, per the diaspora material) are notably good at this
+second layer and notably ambivalent about the first.
+
+**The generational cost, unintended and structurally invisible:** Leo raises children on praise, and the
+district's own transmitted wisdom is that praise must be aimed at conduct rather than appearance. Families that
+get it wrong produce adults who **cannot distinguish being loved from being watched** — and Leo has no
+mechanism to notice, because from the outside a well-attended person and a cherished person look identical.
+The district is not doing this to anyone. It simply has no instrument that measures the difference.
+
+---
+
+## XVII. Municipal Holidays (Phase 7)
+
+**Proposed — three observances, deliberately different in scale and register.**
+
+**1. The Long Bill** *(generational, enormous, roughly once every three decades).* Leo's defining showcase is
+**not annual**. It runs on a long cycle most residents see once or twice in a lifetime, and its program is
+assembled across the whole intervening period. **The consequences are the interesting part:** entire careers are
+timed to peak for it, and the district therefore contains a permanent population of people who were
+extraordinary in the wrong decade — technically undiminished, structurally unlucky, and treated with a respect
+that everyone can hear is slightly consolatory. A Long Bill year reorganizes the district's whole social order;
+the years around it are quietly the most anxious in Leo's calendar.
+
+**2. The Dark Hour** *(annual, solemn, genuinely difficult).* A voluntary district-wide darkening in memory of
+The Dimming. **For most of Concordia this would be a mild inconvenience. For Leo it is close to unbearable**,
+because darkness here carries a specific inherited psychological charge (Finding VI) and the district's entire
+sensory identity is light. That is exactly why it is observed and why it is not lengthened. The Candlelight
+Halls (Finding V) are its permanent architectural counterpart, and they are full that night.
+
+**3. Understudy Night** *(annual, chaotic, extremely popular, quietly revealing).* For one night the
+recognition order formally inverts: understudies take the headline slots, and established names perform their
+understudies' material — often badly, always to affectionate heckling. **The joke everyone participates in is
+that the quality is beloved rather than good.** It is Leo's most genuinely relaxed evening and the only sanctioned
+occasion on which a district legend can be publicly bad without it counting. Careers have started here.
+Nobody's has ever ended here, which is itself the point and is not accidental.
+
+---
+
+# Second Pass — Zodiac Substrate Application (2026-08-29)
+
+**Procedure:** `Phase_Instructions/00e_Substrate_Application_Pass.md`, **Mode A**, source
+`Zodiac_Personality_Substrate/05_Leo.md` plus `F_Rulerships.md` §5-6, `D_Aspect_Geometry.md` §5,
+`B_Modalities.md` §3, and — per the 2026-08-29 methodology update — the substrate's **§15 Source Gaps** read as
+a generative input rather than a disclaimer.
+
+**Mode A step zero — overlap check.** Eighteen substrate concepts grepped against Findings I-XIV. **Result:
+near-zero, with one genuine partial.** Fifteen concepts scored 0. Every apparent hit above zero was a false
+positive on inspection — all twelve "prop" hits were the word `**Proposed:**`, the single "Aquarius" hit was a
+Fragmentation Matrix grouping rather than the opposition relationship, and the "burnout" hit was one
+individual's personal struggle in Finding XII rather than a structural economy. **The one real overlap is
+"the substitution"** (applause replacing what applause was meant to confirm), which Finding VIII already raises
+as the district's open authenticity question — so the substrate is used below to *supply a mechanism* for that
+question rather than to restate it. **Scorpio scored zero** — the same blind spot Taurus showed toward its own hardest friction. The pass is
+genuinely additive; it proceeds.
+
+**Proportion statement, required before findings** (`00d`): **Leo works, and it works for the whole city.** It
+finds talent other districts would never have identified, it develops that talent seriously, and it supplies
+Concordia's morale infrastructure — a function no other district performs and one the city would badly miss.
+Its warmth is real, not a front, and its welcome is genuinely extended to strangers. Everything below is a
+byproduct of a district doing that job well.
+
+---
+
+## XVIII. Capability profile — Leo has no second instrument, and therefore cannot fail gradually (Second Pass)
+
+**Proposed — the pass's primary generator.** *(Substrate: `F_Rulerships.md` §5-6; `05_Leo.md` §10 and §14
+hook 10. Applies the 2026-08-29 "absence is content" rule, of which Leo is the strongest available test.)*
+
+Leo's capability row is the **thinnest in the entire system**: one faculty at full strength, one faculty
+structurally weak, and — uniquely with three other districts — **neither an amplified capacity nor a rejected
+one** *(substrate: no exaltation and no fall)*. The temptation is to read that as missing data. It is not — it
+is the finding.
+
+- **Structurally excellent at conferring recognition.** Leo can make a person *real* in Concordia by noticing
+  them, and the status it grants is not decorative — it travels, it is honored in other districts, and it
+  changes what its holder can do. This is a genuine and rare civic capability.
+- **Structurally weak at limit, structure, and maintenance.** Restraint has no institutional home here.
+- **No amplified faculty and no despised one.** Nothing in Leo works better than it naturally should, and
+  nothing is actively rejected.
+
+**The consequence: Leo is the least redundant district in Concordia.** Every capability it has descends from a
+single faculty — the power to confer and withdraw recognition — and it has no second instrument to reach for.
+Other districts have a fallback register when their primary one fails. Leo has exactly one, and it is the same
+one it does everything with: hiring, honoring, disciplining, mourning, and governing are all the same act
+performed at different volumes.
+
+**Which produces the district's most characteristic structural behavior: Leo has no graceful degradation.** Its
+institutions run at full endurance until they don't, and then fail totally and at once, because there is nothing
+to degrade *into*. A venue does not decline; it is full, and then it is finished. A reputation does not soften;
+it holds, and then it is gone.
+
+**And this is already in canon as history, unexplained until now: The Dimming.** Leo's response to losing its
+light was not graduated, and the Candlelight Halls exist because the district had to build the memory of that
+into its architecture rather than into a procedure. **A district with a fallback would have adapted. Leo had to
+be rebuilt and then commemorate it.**
+
+**Shadow proportion:** none of this makes Leo fragile in daily life — it is robust, and unusually so, right up
+until it isn't. Residents do not experience the district as precarious and are not wrong to feel secure most of
+the time. **The shadow is that Leo cannot tell the difference between "fine" and "about to not be fine,"**
+because it has no instrument that reads the middle of the range. **[Discoverability: invisible on arrival;
+surfaces only across a long enough timeframe to watch one institution actually go.]**
+
+---
+
+## XIX. Blacklisting by omission — the signature injustice, and it leaves no evidence (Second Pass)
+
+**Proposed.** *(Substrate §3 "exile by omission" and §14 hook 7.)*
+
+**Leo's characteristic injustice is that the rival is never denounced — only never booked.** Someone too good,
+too soon, or too well-received is not opposed, blocked, or spoken against. They simply do not appear on bills,
+and each individual non-appearance has a perfectly good reason: the slot suited someone else, the season was
+already programmed, the room was wrong, the timing was off. **Every decision is individually defensible. Nobody
+ever made the decision that actually matters, because it was never a single decision.**
+
+This requires **no malice whatsoever**, which is precisely why it is durable. The people doing it would deny it
+sincerely and would pass any honest examination of their own motives. There is no conspiracy, no list, and
+nothing on record — and there is nothing on record because *nothing ever happened.*
+
+**The design consequence: any investigation into it has to run on absence rather than evidence.** The player
+cannot find a document, because the document does not exist and never did. What exists is a pattern of
+non-events — a name missing from twelve programs it should plausibly have been on. **Proving it requires
+demonstrating a negative in a district that keeps meticulous records of everything that *did* occur**, which is
+a genuinely novel investigative shape and belongs to Leo alone.
+
+**Worth stating as a structural inverse of Taurus, since both produce durable exclusion with nothing to
+appeal:** Taurus excludes by a **verdict formed once and never revisited**; Leo excludes by **a verdict never
+formed at all.** One has an unwritten judgment; the other has no judgment, only an accumulation of reasonable
+individual choices. Neither district's machinery can correct its own version, and for opposite reasons.
+
+---
+
+## XX. Gate 9 finding — the recognition hierarchy has no descent, and nobody in Leo can fall quietly (Second Pass)
+
+**Proposed. This finding exists because of the asymmetry check** (`00c` Gate 9, added 2026-08-29), and it is
+the first time that gate has been run on a district. It caught a real hole immediately.
+
+**Finding III describes how a person climbs Leo's four recognition tiers. Nothing in this file describes how
+anyone comes down** — and the mechanism is not symmetrical by kindness, it is symmetrical by construction.
+
+The climb is public: the fame-ledger walls, the Recognition Registrar's Office, the promenade's information
+network. **Therefore the decline is public through the identical machinery**, and at the same speed. There is no
+de-listing procedure, no emeritus standing, no quiet retirement, and no way to step down that is not simply
+being seen to have stopped. **Nobody built an exit, because building one would have required somebody to
+propose, out loud, that people fall — and in a district where humiliation is the mortal wound, no one has ever
+been willing to be that person.**
+
+Combined with Finding XVIII, this is the same structural fact in a human life: **a career in Leo ends the way a
+Leo institution fails — completely, at once, and in view.**
+
+**The non-malicious core:** the walls simply have no erase function. Nobody is maintaining anyone's decline.
+The record is doing exactly what it was built to do, which is show where everybody stands, and it does that
+just as accurately on the way down. **[This is a textbook shadow under `00d`: unintended, unnoticed — residents
+experience the ledger as fair, and it is — and discoverable only by a player who follows one specific person
+over time rather than reading the district.]**
+
+**Ready-made design hook:** the district's kindest available institution would be somewhere to go when you have
+come down, and Leo has never built one. Whether it could — and who would first admit to needing it — is a
+genuine, unresolved, no-villain question worth an under-quest.
+
+---
+
+## XXI. The people who keep Leo running cannot earn the only currency it has (Second Pass)
+
+**Proposed.** *(Substrate §3 "refusal of the dirty work" and §14 hook 6, read against this file's own Finding
+XII.)*
+
+The substrate holds that this temperament structurally will not do the cleanup — that after every occasion
+there is clutter left for somebody, and the district is not interested in being that somebody. **Established
+canon appears to contradict this: Finding XII says most Leo residents *are* the support staff** — venue
+maintenance, catering, logistics.
+
+**Both are true, and the reconciliation is the finding.** Leo does the work. What it cannot do is **see** it.
+
+Standing in Leo comes from recognition, and recognition requires being witnessed. **Support work is defined by
+not being witnessed** — it happens before the room fills and after it empties. So the majority of Leo's
+population performs labor the district genuinely depends on while being structurally unable to accumulate the
+one currency the district actually uses. Finding XI already noticed the symptom without naming the cause, when
+it recorded that a resident without performance ambition may remain a "perpetual visitor" after years of living
+here.
+
+**This is not a grievance about pay or respect, and writing it that way would be a mistake.** Leo's support
+workers are decently treated, genuinely valued in ordinary human terms, and often love the district. The
+grievance — where it exists, and it is quiet — is about **standing**: about being a permanent resident of a
+place whose only mechanism for saying *you are someone here* cannot reach you.
+
+**No villain, and no reform faction, because there is nothing to reform.** Nobody is withholding recognition.
+The recognition is real and it is honestly administered. It simply cannot see work that happens in an empty
+room.
+
+**Cross-district note for Gate 5:** whatever Leo generates that leaves the district — waste, noise, spent
+material — arrives somewhere in an enclosed city, and the cleanup deficit is the substrate's flagged source of
+**non-malicious inter-district hostility.** Not resolved here; flagged as a real, unexploited seam.
+
+---
+
+## XXII. Conflict geometry — three unwritten relationships, and a three-way reading of injury (Second Pass)
+
+**Proposed.** *(Substrate §8; `D_Aspect_Geometry.md` §5. Leo's opposition is **the Labs**; its two hardest
+frictions are **Taurus** and **Scorpio**. All three are absent from this file.)*
+
+**The district Leo is structurally set against — the Labs — presents a currency problem, not a hostility.**
+Leo's entire economy runs on recognition. The Labs categorically declines to spend that currency: it does not care about standing and does
+not feel the need to confer or receive it. **So Leo experiences the Labs's ordinary indifference as a deliberate
+insult, and the Labs cannot understand what it is being accused of.** Neither pole adapts. The substrate's
+mythic frame is worth keeping as a design image rather than as in-world content: the two poles cut off from
+each other leave one side wounded and the other side frozen, and what thaws it is untutored sincerity rather
+than negotiation.
+
+**The two hardest frictions differ from each other, and one is much nastier:**
+
+- **Taurus** — the irritant is specific and easy to get wrong. It is not that Taurus is dull. **It is that
+  Taurus's quiet self-containment reads to Leo as a rebuke rather than a difference.** A district that visibly
+  does not need to be witnessed is, to Leo, an argument being made at its expense — and Taurus is not making an
+  argument at all, which Leo cannot quite believe.
+- **Scorpio** — the deadlier one, and structurally unwinnable. Leo's instrument is display; Scorpio's is
+  durable, quiet injury aimed where it will not heal. **Leo cannot win a fight whose scoreboard is invisible**,
+  and does not reliably know when one has started. Scorpio also is not competing for the same object: it does
+  not contest the spotlight, it contests power, so Leo can hold the entire stage and still lose everything that
+  mattered.
+
+**The three-way differentiation set** *(applying the technique added 2026-08-29; Leo and its two hardest
+frictions answer one question three incompatible ways)*. **The question: what do you do when you are wronged?**
+
+| District | Instrument | What redress means |
+|---|---|---|
+| **Leo** | Display | The injury must be *seen*. Redress is public acknowledgment; an unwitnessed apology is not an apology. |
+| **Taurus** | Retention | The grievance is kept, attached to the address, and inherited. It is never discharged and never needs to be. |
+| **Scorpio** | Durable injury | Quiet, precise, permanent, and aimed where it cannot be repaired. Nothing is announced. |
+
+Each finds the other two incomprehensible: Leo reads Taurus as sullen and Scorpio as underhanded; Taurus reads
+Leo as hysterical; Scorpio reads Leo's need for a public accounting as an admission of weakness. **No villain in
+any of the three**, and three fully-formed conflict grammars that district canon has never used.
+
+---
+
+## XXIII. Contradiction reconciled: the most static position in the system is also the district of constant novelty (Second Pass)
+
+**Proposed.** *(Substrate §10 and `B_Modalities.md` §3. Resolves via the both-are-true shape named in `00e` §7 —
+one disposition producing two opposite effects on two different objects.)*
+
+The substrate places Leo in the **most change-resistant modality group**, which "does not refuse change; it
+refuses to be the one who moves first," where mid-season days "seem almost boringly similar." Canon says the
+opposite: Leo is Concordia's district of reinvention, novelty, and constant turnover, tagged low-Grief with
+bonds "driven by novelty rather than depth," and its own Fashion finding contrasts it with Taurus precisely on
+rebuilding-toward-reinvention.
+
+**Canon wins, and both are true: Leo changes its content ceaselessly and its form not at all.**
+
+The acts change, the names on the bill change, the fashions and the house pours change constantly and by
+design. **The structure producing all that novelty has not moved in 250 years** — four recognition tiers, a
+public ledger, patronage, the Registrar's Office, the unwritten rule that standing comes from being seen.
+Novelty is Leo's *product*. The machine manufacturing it is immovable, and cannot be moved from outside.
+
+**This directly explains why the Company (Finding XVI) is internal, and why it still fails.** A district of this
+modality only ever changes from the inside, so the challenge to Leo's form correctly arises *within* Leo rather
+than being imported. And it fails anyway — not through suppression, which never happens, but because its members
+decline the one mechanism that would let them accumulate the standing to change anything, and so erase
+themselves instead. **The form defeats its reformers without anyone lifting a finger.**
+
+**Two further findings mined from the substrate's own §15 Source Gaps**, per the 2026-08-29 rule that a hole in
+the sources is often the district's mechanism:
+
+- **"Silent on poverty."** The corpus assumes means throughout and never describes this temperament without
+  money — its nearest datum being that even broke, it finds a way to spend. Applied: **hardship in Leo is
+  hidden, because visibly being unable to spend is a status death.** The district's poor do not look poor, and
+  Finding XII's already-established "reputation-trading café debts" turn out to be the visible edge of a real
+  informal credit economy running on standing rather than collateral. **Leo therefore has meaningful material
+  distress that its own instruments cannot detect**, on top of Finding XXI's population that its status
+  mechanism cannot reach. Authored, not sourced.
+- **"Thin on non-rival peers."** The corpus barely describes how this temperament relates to an equal it does
+  not perceive as a threat. Applied: **Leo has no institutional form for collaboration between genuine
+  equals.** Everything is a billing order, and two performers of identical standing is a state the district's
+  machinery cannot represent — so it invents a distinction, usually seniority or tenure, and everyone pretends
+  the distinction was always there. Co-billing is the closest Leo gets, and it is understood by everyone
+  involved as unstable.
+
+---
+
+## QA — Completion Check (District Culture Development Plan)
+
+**Run 2026-08-29.** Gates 0-9 per `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Leo's first completion
+QA**, and the first run of the expanded gate set.
+
+- **Gate 0 Completion claim vs. file: FAILED.** The Plan's block read "ALL 8 PHASES COMPLETE (2026-08-16)" while
+  listing ten items, none of them Phase 7; the file jumps Finding XIII (Phase 6) to Finding XIV (Phase 8). This
+  is the second confirmed instance of the defect, after Taurus, and it was predicted in advance — **which is the
+  gate working as designed.** Corrected in the Plan in the same commit as this pass.
+- **Gate 1 Template coverage: FAILED on first run, largely fixed.** Per-term check on findings only returned
+  **zero for twelve of sixteen** probed categories: `siligel`, `counterculture`, `holiday`, `glitch-coolant`,
+  `funeral`, `sport`, `game`, `humor`, `slang`, `death`, `child`, `elder`, `gender`. `music` returned **1**, in
+  the performance district. Phase 7 (Findings XV-XVII) supplies Cuisine incl. siligel, Music, Arts, Human-Robot
+  Relations, Counterculture, Private Life, and Holidays. ***Genuinely still open, deliberately left rather than
+  padded: `sport`, `game`, `slang`, `funeral`, `elder`, and `gender`.*** Leo's mortuary practice is a real hole and an unusually
+  interesting one given Finding XX — a district that cannot let anyone descend quietly has an obvious unanswered
+  question about how it handles a death, and that is left for a later pass rather than guessed at here.
+- **Gate 2 General-population: PASS, and this was the highest-risk gate in this district.** Leo has already
+  failed it once, in Finding IX. Music was therefore written *specifically* as the general population's
+  culture — expert listening, plus a large private amateur tradition in the Resonance Chambers — with the
+  professional performers explicitly excluded from the finding rather than standing in for it. Cuisine describes
+  ordinary residents' eating, not venue catering. The Company is written as a scene with a name, not as the
+  general population.
+- **Gate 3 Contradiction check: PASS.** All new findings checked against Finding XII. One apparent contradiction
+  was found and reconciled rather than smoothed (Finding XXI — the substrate's "won't do the cleanup" against
+  canon's support-worker majority; resolved as *does the work, cannot see it*), and one more at the modality
+  level (Finding XXIII). Finding XX is recorded as **completing** Finding III rather than contradicting it.
+- **Gate 4 Swap Test: PASS.** Swapped against **the Power Core**, chosen per the sharpened rule as the partner
+  most likely to survive rather than a convenient one — same temperament family, comparably loud, comparably
+  status-conscious. **Finding XVIII fails the swap immediately and correctly:** the Power Core has a full
+  four-term capability model, so it possesses exactly the redundancy the finding says Leo lacks, and the
+  no-graceful-degradation consequence collapses. XX and XXI are equally Leo-locked, both depending on a public
+  recognition ledger the Power Core does not have. **Weakest: Finding XIX** — patronage and quiet exclusion
+  could plausibly be written for other districts, and it survives only on the specific booking mechanism that
+  makes the exclusion consist of non-events rather than decisions. Flagged rather than defended.
+- **Gate 5 Cross-district: PASS, one new discovery recorded properly.** **The Company** is a new counterculture
+  with no existing slot, recorded with a name, a stated self-conception, a backbone, and stated relationships to
+  both the mainstream and the never-booked. **Export coherence:** unaffected; Finding XV adds no exports.
+  **Shared-environment:** Finding XXI flags the cleanup/waste question as a genuine unexploited inter-district
+  seam rather than resolving it.
+- **Gate 6 Duplicate institutions: PASS, two distinctions stated.** The **Company** is distinct from the
+  **never-booked** — one declines recognition, the other was denied it — and the finding says so explicitly,
+  because the two will otherwise be merged by the next reader. **Understudy Night** is distinct from the
+  existing **open-access understudy nights** (Finding XIII): the latter is a standing weekly access route, the
+  former is an annual inversion of the tier order.
+- **Gate 7 Unused research: recorded.** Deliberately not used: the **star-name bank** (Regulus at the heart,
+  Denebola "the judge who cometh" at the tail, **Adhafera, "the funeral pyre"**) and substrate hook 2's venue
+  architecture built from it — strong, and held back pending the district's unresolved official name, but the
+  funeral-pyre venue is the obvious candidate for the mortuary gap named in Gate 1. Also unused: **gold** and
+  the sickle/triangle geometry as a material palette; **mountains** as topography; the **hide economy's**
+  second half (a permanent unexplained distance kept from whoever once humbled the district); **de-escalation by
+  music and washing** as a working non-violent riot protocol; the **three decans** as sub-neighborhood texture;
+  and both of the substrate's deliberately-unresolved contradictions (whether this temperament is genuinely
+  brave, and whether it holds grudges), which remain design menus per `00e` §12.
+- **Gate 8 Standout: recorded in Worth Your Attention below.**
+- **Gate 9 Asymmetry: FAILED on first run, fixed — and this gate earned its place immediately.** Finding III
+  described the recognition hierarchy's ascent and nothing else. The reverse case was unwritten, is equally
+  public by identical machinery, and has no exit procedure at all. → **Finding XX**, which is the second-strongest
+  output of this pass.
+
+**Mode A note per `00e` §10:** the overlap-check result is recorded at the head of the Second Pass. Findings
+I-XIV are left intact, including the 2026-08-16 corrections logged in Findings II and IV.
+
+---
+
+## Worth Your Attention — updated 2026-08-29
+
+**Standout of the Phase 7 + Second Pass work: Finding XVIII — Leo has no second instrument.**
+
+Leo's capability row is the thinnest in the system: no amplified faculty and no despised one. Under the old
+reading that was thin data. Under the "absence is content" rule it produced the district's deepest structural
+fact — **every capability Leo has descends from one faculty, the power to confer recognition, and it has nothing
+else to reach for.** Hiring, honoring, disciplining, mourning, and governing are the same act at different
+volumes.
+
+From which follows the thing that makes it the standout: **Leo cannot fail gradually.** No fallback register
+means no partial failure — its institutions run at full endurance and then stop. **And that retroactively
+explains The Dimming**, which has sat in canon as an event without a mechanism. A district with redundancy would
+have adapted; Leo had to be rebuilt, and then had to build the memory of it into its architecture because it had
+no procedure to put it in.
+
+**Runner-up: Finding XX**, notable less for its content than for how it was found. It is the first output of the
+asymmetry check, which was added to the QA gate three hours earlier off the Taurus run — and it caught, on its
+first use, that this file had described a status ladder with only an up direction for six weeks. **Leo's warmth
+and its cruelty turn out to be the same ledger read in two directions**, with nobody maintaining anyone's
+decline and no erase function ever built, because proposing one would have required somebody to say out loud
+that people fall.
+
+**Methodology note worth carrying forward.** Leo is now the third district whose most load-bearing fact was
+already sitting in canon unnamed — after Cancer's Keeping and Taurus's Recorded Bond. But Leo's differs in kind,
+and the difference is instructive: **Leo already had a named religion (Cymatics Reverence), so the Naming
+technique did not produce a belief system here.** It produced a *stake* instead — the continuous personhood
+proof a robot performer carries, per Finding XIV.1. **The technique finds whatever the district's unnamed
+load-bearing thing actually is; it does not always find a religion**, and a district that already has one is
+exactly where that becomes visible.
+
+**The original standouts still hold** — Finding I (the professionalized blur between general warmth and personal
+attention) and the 2026-08-16 corrections logged in Findings II and IV.
