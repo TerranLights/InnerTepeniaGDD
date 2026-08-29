@@ -70,21 +70,49 @@ The orbital case has to differ from the Tepenian surface case **specifically**, 
   TCY-45 seed in `Worldspace/Characters/Dolls/Methodology/00e_Quick_Capture_Seed_Batch_Input_[rewritable].txt`).
   So at least part of the orbital population is there for **medical** reasons, which is a founding pressure no
   surface city has.
-- **Knowledge moves between surface and orbit, and the traffic is not one-way.** Established canon supplies one
-  concrete flow: STP-06's entire life's work is developing more material-efficient farming and harvesting
-  methods and **transmitting the schematics upward**, so that space-dwelling Tepenians can better provide for
-  themselves (see her `README.md`).
+- **Orbital society is NOT a knowledge recipient, and "one-way vs. two-way transmission" is the wrong frame
+  entirely.** *(Developer clarification, 2026-08-29 — this supersedes two earlier readings, both of which were
+  too narrow.)*
 
-  **Do not over-read that into dependency.** *(Developer correction, 2026-08-29.)* Orbital society is **not
-  necessarily or exclusively a knowledge recipient.** One documented transfer in one direction is not a
-  relationship of reliance, and treating it as one would make the orbital population passive — a worse and less
-  accurate reading than the canon actually supports. Assume genuine two-way exchange until established
-  otherwise, and note that an orbital environment plausibly *originates* knowledge the surface cannot: whatever
-  can only be learned, made, observed, or tested off-planet. What direction any given exchange runs, and what
-  each side holds that the other needs, is **open** and worth deciding deliberately rather than defaulting.
+  Established canon supplies one concrete flow: STP-06's life's work is developing more material-efficient
+  farming and harvesting methods and **transmitting the schematics upward** (see her `README.md`). That is one
+  documented transfer. It is not a relationship of reliance, and reading it as one would make the orbital
+  population passive.
 
-  What the canon does establish is that the two populations are **in contact and materially concerned with each
-  other's problems**, which is a culture-shaping pressure on both — independent of who is teaching whom.
+  **Three things are true instead:**
+
+  1. **Orbital environments originate knowledge the surface physically cannot produce.** There are real
+     categories of research possible only in low or zero gravity and impossible on a planet — the developer
+     notes this as established real-world fact without specifying which. *(Real-world candidates worth
+     verifying before use: protein and crystal growth without sedimentation; combustion and flame behaviour
+     without convection; alloy and glass formation where density no longer separates components; fluid
+     dynamics without buoyancy; tissue growth that collapses under gravity. Treat as a research to-do, not as
+     settled setting detail.)* So orbit is a **source** of knowledge in its own right, not a downstream
+     consumer of the surface's.
+
+  2. **They make their own culture, not just their own science.** Space-dwelling Tepenians produce their own
+     entertainment, literature, music, humour, arts — the whole ordinary output of a living population. Much of
+     it plausibly **never reaches Earth at all**, and has no reason to.
+
+  3. **Transmission is thin, and that is the actual governing condition.** Post-Long-Night-War, the only
+     robot-occupied part of the planet is Antarctica — a frozen hellscape with very limited transmission
+     capability. Contact is therefore sparse and unreliable rather than routine, which means the question is
+     not "which way does knowledge flow" but **how little flows at all, in either direction**.
+
+  **Why this matters more than it first appears:** thin contact is the single most productive fact available
+  for Phase 3. Cultural divergence becomes the *default* rather than something requiring justification. It
+  follows that orbital neo-cultures drift from Tepenian surface culture quickly and for no ideological reason;
+  that separate orbital locations drift from *each other* too (compounding the minimal-inter-location-travel
+  constraint above); that whole bodies of orbital literature, music, and humour may be entirely unknown on the
+  surface, and vice versa; and that a surface character encountering orbital culture should find it **genuinely
+  foreign rather than a familiar variant** — which is exactly the "real, new third thing" bar this project sets.
+
+  This also sits comfortably with existing canon on unreliable connectivity: the Planetary Split Brain severed
+  every inter-subnet Arcanet link, and the extreme-altitude interior cities (Dome Fuji, Kunlun, Vostok) have
+  effectively no Arcanet at all. Patchy, failure-prone communication is already how this world works.
+
+  **Open and worth deciding deliberately:** what little does cross, how it crosses, how reliably, who controls
+  it, and whether either side has an accurate picture of the other at all.
 
 ---
 
