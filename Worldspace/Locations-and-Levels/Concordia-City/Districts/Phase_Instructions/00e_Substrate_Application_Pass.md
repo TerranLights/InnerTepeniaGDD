@@ -180,6 +180,13 @@ also the district it is set against — so its weakness has a name, a location, 
 attached. **A deficit with an address produces inter-district politics; a diffuse one produces drift.** Check
 `F_Rulerships.md` for whether the missing faculties cluster anywhere before writing the consequence.
 
+**And Aquarius supplied a fourth: *reciprocal*, which is the most stuck of the four.** The faculty the Labs
+lacks is strongest in the district it is set against — **and that district lacks precisely what the Labs is
+built from.** Each holds exactly what the other needs. **Because there is no asymmetry, there is no petitioner**,
+and neither side can be the one who asks without conceding the whole axis. A one-way dependency at least has a
+direction; a reciprocal one has none, and the substrate's own summary of it is *"the two are each other's only
+real supply, and neither will ask."*
+
 **The Yards supplied the third configuration and the sharpest consequence: one addressed, one diffuse.** Its
 care deficit sits in the district it is set against, so it has a name, a location and a permanent grievance —
 the two districts argue about it constantly. Its meaning deficit sits nowhere in particular. **So the Yards
@@ -449,31 +456,36 @@ districts only.**
 > **Rule going forward: state, for each prediction, what observation would falsify it — before running the
 > pass — and pick districts that look least likely to conform rather than most.**
 
-**Prediction results, districts five and six.** Aries returned six of six; Capricorn returned six of six.
-**Twelve consecutive confirmations, which is why the caution below is stated more strongly than the record.**
+**Prediction results through district seven.** Aquarius returned six of six. **Eighteen consecutive
+confirmations.**
 
 | Prediction | Status |
 |---|---|
-| Pre-Plan findings contain **no statement of a relationship** with another district | **HELD** (2/2 since revision) |
-| Most load-bearing finding will be a **name for something already in canon** | **HELD (6/6)** |
-| Strongest structural finding comes from the **capability reading** | **HELD (6/6)** |
-| Contradictions resolve **both-are-true** | **HELD (7/7)** |
-| **Gate 9 fires, and the failure is in pre-Plan 2026-07-09 material** | **HELD (5/5)** |
-| **At least one pick produces a finding underivable from substrate and canon** | **HELD (4/4)** |
+| Pre-Plan findings contain **no relationship statement** with another district | **HELD** (3/3 since revision) |
+| Most load-bearing finding is a **name for something already in canon** | **HELD (7/7)** |
+| Strongest structural finding comes from the **capability reading** | **HELD (7/7)** |
+| Contradictions resolve **both-are-true** | **HELD (8/8)** |
+| **Gate 9 fires, in pre-Plan 2026-07-09 material** | **HELD (6/6)** |
+| **A pick produces a finding underivable from substrate and canon** | **HELD (5/5)** |
 
-> **⚠ The confirmation problem has got worse, not better, and the honest reading is that these have stopped
-> being predictions.** Twelve straight confirmations from a grader who wrote the predictions, chose the
-> districts, ran the passes and marked the results is not evidence about the rules. **The one prediction that
-> ever failed did so on a countable fact.** Every survivor is interpretive.
+> **⚠ Eighteen straight confirmations from a self-grader is not evidence, and the record should now be read as
+> a description of house style.** The single prediction that ever failed did so on a **countable** fact; every
+> survivor is interpretive. **This has been flagged for three rounds without either remedy being applied.**
 >
-> **Two things would restore the test, and neither has been done:** run a district *chosen because it looks
-> least likely to conform* (the Hub was identified for this and is deferred by the developer), or state in
-> advance **what observation would falsify each prediction** rather than what would confirm it. **Until one of
-> those happens, treat this table as a description of house style rather than as a finding.**
+> **The two remedies remain what they were:** run a district chosen *because it looks least likely to conform*
+> (**the Hub** was identified for this and is deferred by the developer), or **state in advance what observation
+> would falsify each prediction** rather than what would confirm it.
+>
+> **One thing has changed, and it is worth more than the eighteen.** Law 0 produced the project's **first
+> genuinely controlled comparison** — the same district, same author, same day, at two and at six researched
+> picks, with the strongest findings appearing only in the second condition (`00_RUNBOOK.md`, "The evidence for
+> this law"). **That is a real result about a rule, obtained by accident, and it is the model for how the
+> remaining rules should be tested:** change one variable mid-pass and record what appears that was not there
+> before.
 
-**Standing prediction for district seven**, framed as falsification: **Gate 9 will fire in pre-Plan material —
-and if it does not, that is the most informative result available**, because it would mean the 2026-07-09 pass
-was not uniformly optimistic and the rule needs narrowing rather than extending.
+**Standing prediction for district eight**, framed as falsification: **Gate 9 will fire in pre-Plan material —
+and if it does not, that is the most informative result available**, since it would mean the 2026-07-09 pass was
+not uniformly optimistic and the rule needs narrowing rather than extending.
 
 ---
 

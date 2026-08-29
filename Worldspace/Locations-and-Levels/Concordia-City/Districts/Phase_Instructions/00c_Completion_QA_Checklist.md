@@ -114,6 +114,20 @@ mortuary practice was the single most developed category in its pass — a body-
 collective-cremation-derived holiday, and a whole doctrine about how death-work is conducted. The district
 simply does not use that word; its vocabulary is procedural. Leo's `humor` behaved the same way.
 
+**There is a fourth outcome, and conflating it with the third is a real error I made before catching it.**
+*(Added 2026-08-29 after Aquarius.)* A term can be **absent and unexplained**, which is a genuine hole rather
+than a stylistic difference:
+
+- **Covered in substance, absent in term** — the district *has* the thing and expresses it in its own
+  vocabulary. *(The Yards' mortuary practice is thin **and Finding XIV explains why** — the guild's burial fund
+  is one of the two things it structurally never developed. The absence is itself the finding.)*
+- **Absent and unexplained** — nothing in the pass accounts for the gap. *(The Labs scores zero on both
+  `funeral` and `death`, and **nothing explains it.** A district running a thirty-year closed experiment on
+  residents who live inside it has an obvious unanswered question about what happens when one of them dies.)*
+
+**The test is one question: does the pass say why the thing is missing?** If yes, it is a finding. If no, it is
+a hole, and it goes in the open list **however elegant the district's silence looks.**
+
 **Record it as "covered in substance, absent in term" and move on.** Do **not** insert the word to make the
 grep pass — that is gaming the gate, it degrades the prose, and it destroys the check's value for everyone
 after you. The mechanical scan finds candidates; you decide which of the three outcomes each one is.

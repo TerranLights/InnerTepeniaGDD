@@ -68,6 +68,36 @@ this.
 5. **Letting the QA gates substitute for thinking.** Eleven gates confirm a pass is not *wrong*. **None of them
    can tell you it is not thin.**
 
+## The evidence for this law — a controlled case, recorded because it is the only one available
+
+**Aquarius, 2026-08-29.** The pass researched **two of nine** picks and declared the remaining seven redundant
+**from their titles**. Law 0 was written mid-pass, naming that exact anti-pattern, and **four more picks were
+then actually researched.** Same district, same author, same day, before and after.
+
+**The two strongest findings in the district came from picks four, five and six, and did not exist at two.**
+
+- **Picks 4 and 5** (Akademgorodok, MIT Media Lab) produced the convergence behind **Finding XVII** — two real
+  institutions, sixty years and one ideology apart, in which **the objector is the one who leaves.**
+- **Pick 6** (Christiania) produced **Finding XVIII**, the pass's best: two long-running utopian communities each
+  built a formal mechanism by which one person could act against the collective, **and the district has
+  neither** — which is the whole of its capability deficit made institutional.
+
+**Neither finding was reachable from the substrate, from canon, or from the two picks originally researched.**
+**The seven "redundant" picks were not redundant. Four of them were the pass.**
+
+> **This is also the argument against the convenient version of Step 3.4.** Difference-not-tier is a real rule,
+> and it can be used to justify stopping early. **Redundancy asserted from a title is a guess.**
+
+## The companion failure — research used as decoration
+
+**Doing the research is not the same as letting it change anything.** After each pick, ask plainly: **did this
+change a finding, or did it ornament one?** Both answers are honest and they must be recorded differently.
+
+On Aquarius: **Christiania changed the pass** — it produced a finding that did not previously exist.
+**Tsukuba did not** — it yielded two useful nuances (relocation was effectively compelled; the district's dark
+reputation was factually false) and no finding. **Say which.** A citation attached to a conclusion that would
+have been written anyway is decoration, and it makes a thin pass look researched.
+
 ## The test
 
 Before closing a district, ask: **could a person live an entire life here, and would that life be unlike a life
@@ -150,8 +180,22 @@ district can even see it.*
 **2.3 Write it as a capability profile, not a diagnosis** — two strong faculties, two weak, then **one
 consequence.** If your consequence reads like another district's, it is wrong.
 
-> ⚠ **Three districts still share Leo's double absence. Do not reuse Leo's answer.** The absence tells you a
-> district runs on one instrument; it does not tell you which, and the whole finding lives in that answer.
+> ⚠ **Two districts still share the double absence — Gemini and Sagittarius. Do not reuse either existing
+> answer.**
+
+**When a shape repeats, the procedure is three steps and only the first is shared.** *(Method recovered from
+Aquarius, which shares Leo's shape exactly and produced an unrelated finding.)*
+
+1. **The shape gives you the question** — here, *what is the one instrument?* This part is identical across
+   every district with the same row, and is the only part that is.
+2. **The ruler gives you the instrument.** Leo's is **recognition**. The Labs' is **the collective.** Nothing
+   about the shape predicts which; you have to read the row.
+3. **The instrument gives you the consequence, and this is where the districts separate entirely.** Leo, running
+   on recognition with no fallback → **cannot fail gradually.** The Labs, running on the collective while
+   holding two irreconcilable accounts of what serving it means → **cannot form a stable intention.** *Same
+   shape, same question, opposite results.*
+
+**If your step-3 consequence resembles the earlier district's, you have stopped at step 1 and assumed the rest.**
 
 ---
 

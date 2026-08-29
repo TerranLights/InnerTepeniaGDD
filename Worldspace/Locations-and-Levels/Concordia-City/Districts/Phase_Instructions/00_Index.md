@@ -416,3 +416,60 @@ loaded, labelled gun rather than an absence.** → `00e` §5.
 - **The prediction table is at twelve straight confirmations and should be read as house style, not evidence.**
   See the warning in `00e` §11b; the two things that would restore it as a test have both been identified and
   neither has been done.
+
+
+---
+
+## Sixth round of updates — seven districts, and the first controlled test of a rule (2026-08-29)
+
+Aquarius was the fourth Mode B run and the first pass governed by **LAW 0**. It produced something no earlier
+round could: **a controlled comparison.**
+
+### The Law 0 case, which is the strongest evidence any rule in this methodology has
+
+The pass researched **two of nine** picks and declared the rest redundant **from their titles**. Law 0 was
+written mid-pass, naming that anti-pattern, and four more were then actually researched. **Same district, same
+author, same day, before and after.** **The two strongest findings came from picks four, five and six and did
+not exist at two.** The seven "redundant" picks were not redundant — **four of them were the pass.**
+
+Recorded in the runbook under *"The evidence for this law."* **It is also the model for testing everything
+else here:** change one variable mid-pass and record what appears that was not there before.
+
+### The companion failure — research used as decoration
+
+Doing the research is not the same as letting it change anything. **After each pick, ask: did this change a
+finding, or ornament one?** Christiania changed the Aquarius pass; Tsukuba yielded two nuances and no finding.
+**Both are honest; say which.** A citation attached to a conclusion that would have been written anyway makes a
+thin pass look researched. → `00_RUNBOOK.md` Step 3.
+
+### When a capability shape repeats, only the first step is shared
+
+The Labs shares Leo's shape exactly and the runbook warned against reusing the answer. **The procedure that
+made it work is now written down:** the **shape** gives you the question (*what is the one instrument?*); the
+**ruler** gives you the instrument (recognition vs. the collective); **the instrument gives you the
+consequence**, and that is where the districts separate — *cannot fail gradually* against *cannot form a stable
+intention.* **If your consequence resembles the earlier district's, you stopped at step 1.** Two double-absence
+districts remain: Gemini and Sagittarius. → `00e` §5.
+
+### Gate 1 has a fourth outcome, and I was conflating two of them
+
+**Covered in substance, absent in term** *(the district has the thing and names it differently — the Yards'
+thin mortuary practice, **which Finding XIV explains**)* is not the same as **absent and unexplained** *(the
+Labs scores zero on `funeral` and `death` and **nothing accounts for it**, in a district running a thirty-year
+closed experiment on people who live inside it)*. **The test is one question: does the pass say why the thing
+is missing?** If not, it is a hole, however elegant the silence looks. → `00c` Gate 1.
+
+### Smaller, all from Aquarius
+
+- **A district's dissent may not be a population at all** — a **sixth counterculture type**. The Labs' review
+  board and underground annex are the same people, so it can be neither reformed nor opposed from within. **Ask
+  whether the contradiction is between groups or inside each person** before writing a faction that would be a
+  fabrication. → `07_Phase_7` Step C.
+- **A fourth deficit configuration: *reciprocal*, and the most stuck of the four.** Each pole holds exactly what
+  the other lacks, so **there is no asymmetry and therefore no petitioner.** → `00e` §5.
+- **Negative panel results are results** — a shadow question returning *not guilty*, a Life Arc returning *yes,
+  trivially*, and a silence are all characterizing. And **a position declining to speak because another covered
+  the ground is correct behaviour**, not a gap. → `00f` Rule 0.
+- **The prediction table is at eighteen straight confirmations** and has been flagged for three rounds without
+  either remedy being applied. It should be read as house style. **The Law 0 case above is the first real
+  result about a rule this project has produced**, and it was obtained by accident rather than by design.

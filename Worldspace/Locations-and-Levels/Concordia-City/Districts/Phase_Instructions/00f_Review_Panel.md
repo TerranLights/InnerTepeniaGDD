@@ -511,8 +511,24 @@ writes both the location and the panel's objections. What changes is *what gets 
 constraint on attention, and constrained attention finds what unconstrained attention misses. **A real
 improvement, and not a second opinion.** Do not report its output as though someone else produced it.
 
+**Rule 0 — A negative result is a result, and must be recorded rather than discarded.** *(Added 2026-08-29
+from Aquarius.)* Three kinds, all informative:
+
+- **A shadow question that returns "not guilty."** The Detached Manipulator — *who withholds what people need to
+  know?* — found **nobody** in the Labs, which withholds nothing; its failure is absence of record, not
+  concealment. **That exonerates the district on a specific charge**, which is worth knowing precisely because
+  the shadow positions are written to be hostile.
+- **A Life Arc that returns "yes, trivially."** The Maiden — *can a young person separate here?* — is answered
+  by the Labs immediately and easily, because it is **where people separating from elsewhere arrive.** An easy
+  yes characterizes a district as sharply as a silence does.
+- **A silence.** Already recorded (§3): the King arc found nothing in the Labs, because **nobody there
+  experiences themselves as powerful.**
+
 **Rule 1 — A position with nothing to say must say nothing.** Most will have no comment on most locations.
-**Manufacturing an objection to fill a slot is the failure mode**, exactly as padding Gate 1 is.
+**Manufacturing an objection to fill a slot is the failure mode**, exactly as padding Gate 1 is. **And a
+position declining to speak *because another position already covered the ground* is correct behaviour, not a
+gap** — on Aquarius the Parent stayed silent rather than duplicating the Child, which is the four-corner rule
+working before the check rather than after it.
 
 **Rule 2 — Reviewers need not be sympathetic, fair, or correct.** The Neighbor is biased. The shadows are
 hostile. The Elder will insist on things that are not true. **Their objections are data about how the place is
