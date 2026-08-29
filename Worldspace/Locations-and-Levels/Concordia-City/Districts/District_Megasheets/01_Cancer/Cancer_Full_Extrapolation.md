@@ -803,3 +803,301 @@ long time in Cancer and find it warm rather than heavy. Preserve that balance in
 - **Gate 8 — Standout recorded.** Yes, in Worth Your Attention above.
 
 **Verdict: COMPLETE.** Cancer is the reference example for the remaining twelve districts.
+
+---
+---
+
+# Second Pass — Zodiac Substrate Application (2026-08-29)
+
+**What this is.** A second extrapolation pass run after the `Zodiac_Personality_Substrate/` extraction
+(2026-08-29) made a much stronger reference basis available than existed when Findings VIII–XXI were written.
+Substrate file: `../../Zodiac_Personality_Substrate/04_Cancer.md`, plus the cross-cutting files
+`B_Modalities.md`, `C_Polarity.md`, `D_Aspect_Geometry.md`, `F_Rulerships.md`, `G_Correspondences.md`.
+
+**What it is not.** Not a rewrite. Findings VIII–XXI stand, and their QA block above remains the record of
+*that* pass. Before writing, every major substrate contribution was checked against the existing text: **the
+overlap was effectively zero** — none of the capability profile, the smother-lock, the initiating reading, the
+political grammar, the sideways-entry mechanic, the sub-quarters, the material register, or the conflict
+geometry appeared anywhere in Findings I–XXI. This pass adds those. Where it *complicates* an existing finding
+rather than extending it, that is stated outright rather than smoothed over (see XXVI and XXIV).
+
+**Discipline note.** The zodiac is out-of-fiction design shorthand only. Below, substrate reasoning is cited in
+brackets so it can be audited; **none of that vocabulary belongs in player-facing text or in-world prose.**
+
+---
+
+## XXII. The Capability Profile — what the Sanctuary structurally cannot do
+
+**Proposed.** The single most useful thing the substrate supplies. Cancer's existing findings describe what the
+district *has*; this describes what it is *constitutionally unable to produce*, which explains a great deal
+that was previously just observed.
+
+Four capabilities, two strong and two failing *(substrate §10: Moon rules, Jupiter exalted, Saturn in
+detriment, Mars in fall)*:
+
+- **Care governs.** Not a value the district holds — the faculty it actually runs on. Reflective and cyclical
+  rather than generative: it works on what already exists rather than originating.
+- **Belonging expands.** The district's sense of "our people" reaches past the household into ancestry,
+  history, and the unmet dead. Finding XI's adoption of unkept Keepings is this faculty operating at full
+  strength: strangers' routines become family obligations because the boundary of family is elastic here.
+- **Limits fail.** The Sanctuary has no working mechanism for refusal, and formal authority sits badly on it.
+  It can absorb, host, and continue; it cannot say *no*, cannot close a case, and cannot cap an obligation.
+  Every institution it builds is therefore open-ended by construction.
+- **Self-assertion fails.** **Nobody in the Sanctuary fights for themselves.** Aggression exists here only as
+  proxy — fierce, effective, and available exclusively on behalf of a dependent.
+
+**The design consequence is the sharpest thing in this pass: a resident with no ward has no standing.** A
+grievance voiced on one's own behalf is not merely unpersuasive, it is close to unintelligible — the district
+has no grammar for it. A grievance voiced on behalf of someone in your care is heard immediately and acted on
+with real force.
+
+Which means residents acquire dependents in order to acquire a voice, and **the district cannot perceive this
+as corruption**, because taking on a ward is by definition virtuous here. A person with no one to speak for is
+politically mute; a person who has accumulated wards is powerful, and looks selfless while doing it. This is
+not cynicism in the population — it is the only route the structure leaves open.
+
+Note the interaction with Finding IV's "visible virtue, hidden cost" pattern: this is the same shape, now with
+a mechanism under it.
+
+---
+
+## XXIII. The Smother-Lock — the district's incentive against recovery
+
+**Proposed, and the darkest finding in the file.** *(Substrate §3, the central shadow mechanism.)*
+
+A ward who recovers is a ward who leaves. The Sanctuary's entire security rests on being needed, so **every
+incentive in its caregiving apparatus quietly rewards non-recovery** — and the district cannot see this,
+because each individual act within it is genuinely kind.
+
+Institutionally this shows up as:
+
+- **Discharge that never quite completes.** Paperwork with one more required signature, one more review cycle,
+  one more follow-up appointment. Nobody is refusing to release anyone. The process simply has no terminus,
+  because closing a case is the refusal-shaped act the district cannot perform (XXII).
+- **Graduation without removal.** Wards who have recovered stay on the rolls indefinitely, still counted, still
+  visited, still "checked on." The roll only grows.
+- **Support that expands to fill the recipient.** Assistance calibrated to need at intake is never recalibrated
+  downward, because reducing care reads as withdrawal of love.
+
+**The tension with Finding XI is real and should be kept, not resolved.** Adopting an unkept Keeping is
+presented there — correctly — as the district's most morally serious institution. It is also, structurally, the
+acquisition of a permanent dependent who can never recover, because the person whose routine is being kept is
+already dead. **The Sanctuary's noblest practice is also its purest expression of the smother-lock**, and both
+readings are true simultaneously. That is exactly the kind of unresolvable knot this district should have.
+
+**Player-facing inversion worth building:** the standard quest shape is *obtain help*. Here the hard version is
+*get help withdrawn* — and the district genuinely cannot process the request, because withdrawal and
+abandonment are the same act in its vocabulary.
+
+---
+
+## XXIV. The Sanctuary Initiates — and sincerely believes it is only defending
+
+**Proposed. This complicates the existing tonal reading and should be adopted deliberately.**
+
+Findings I–XXI consistently render Cancer as calm, slow, unhurried, receptive. The substrate says something
+harder: this district is an **initiator** *(substrate §10: cardinal modality; §2 on cardinal water surging
+outward and making immediate impact)*. It moves first. It expands its protectorate. It annexes responsibility
+that was not offered to it, quickly and decisively, and describes every increment of that expansion as
+protection.
+
+Both readings are true and the contradiction is the finding. Street-level pace really is unhurried — Finding IV
+established that, and it holds. But **the institution is expansionist**, and its expansion is invisible to
+itself because the vocabulary available for it is always defensive: not *we took this on* but *they needed
+someone*.
+
+Concretely: the Sanctuary's remit grows without anyone voting to grow it. A population is checked on, then
+enrolled, then counted, then budgeted for. Another district's failure becomes a Sanctuary caseload within a
+season. The apparatus that absorbed the Overcrowding Decision's load never gave that load back.
+
+**This also lands on a city-level finding.** `B_Modalities.md` identifies four initiating districts sharing one
+budget — the Power Core, the Sanctuary, the Government District, and the Yards — and argues that four
+initiators unable to tolerate deadlock will *manufacture* crises as their only method of breaking one. **The
+Sanctuary is one of the four.** Its version does not look like a manufactured crisis; it looks like a surge in
+identified need, arriving at exactly the moment an allocation is contested. Nobody is lying. The district
+genuinely finds what it goes looking for.
+
+---
+
+## XXV. The Political Grammar — no escalation ladder, and the chores as the real bulletin
+
+**Proposed.** How pressure is actually exercised and read here. *(Substrate §3, §6.)*
+
+**Grievance is invisible until it detonates.** The Sanctuary is frightened of its own anger — it expects
+isolation as the punishment for expressing it — so complaint accumulates silently for long periods and then
+releases all at once, without a visible run-up, after which the district wants to treat the episode as
+something that did not happen. **There is no escalation ladder.** A disturbance here has no warning phase that
+an outsider would recognise as one.
+
+**What exists instead is a passive register**, and it is the district's genuine political instrument:
+services quietly withheld, permits that sit, unsigned notes, invitations that stop arriving, a name left off a
+list. None of it is deniable and none of it is stated. Reading this register accurately is a real skill —
+arguably *the* Sanctuary skill — and a player who cannot read it will experience the district as placid right
+up until it isn't.
+
+**The reliable public tell is displacement into labour.** A resident absorbed in work they love is fine; a
+resident grimly doing work they *hate* is the alarm. At district scale: **a sudden civic burst of scrubbing,
+repair, and renovation means a political crisis is being suppressed.** Nothing will be said about it. The
+Growing Towers get maintained, the reach-bands get pruned back hard, the broth kitchens get scoured — and
+somewhere a decision is being fought over that no one will name.
+
+**And a quieter structural fact about who holds power:** this district decides brilliantly among two or three
+presented options and seizes up completely when asked to survey a field and generate the options itself. So
+**the power is not in the vote; it is in whoever assembles the slate.** A clerk with no title and no
+constituency, who drafts the shortlist the circle will choose from, governs more than the circle does — and
+would be genuinely baffled to be told so.
+
+---
+
+## XXVI. Entry, Corrected — the sideways shuffle
+
+**Proposed. This complicates Finding XIV and the two need reconciling.**
+
+Finding XIV describes visitor-to-resident transition as a term of ordinary shared work, after which one is
+simply staying — a legible, walkable path. The substrate flatly contradicts the legibility: **entry here is
+sideways and never frontal, and a direct petition to belong is the one route that reliably fails** *(substrate
+§7)*. People arrive through an in-law, a colleague's cousin, a mutual acquaintance neither party especially
+likes. Adjacency, not application.
+
+**Reconciliation — both are true, describing different thresholds.** The term of shared work is *structural*
+residency: it is fast, it is genuinely offered to anyone, and Finding III explains why (the district never had a
+prior in-group to be admitted to). What it confers is standing to be present and counted. **It does not confer
+belonging**, and residents will not experience the two as related.
+
+Belonging is conferred only sideways, and its test is the **uninvited gathering**: a standing weekly event that
+issues no invitations, where attending unbidden is the proof, and asking whether you are welcome is the
+disqualifying answer. Hosts occasionally skip notice deliberately, to see who comes anyway.
+
+**There is no intermediate tier.** You are not a friend here; you become family or you remain a guest
+indefinitely. Finding XIV's Zhongshan-descended caregiver is the exact case: structurally inside for decades,
+never sideways-admitted, and correctly perceiving that something was never extended.
+
+**Player-facing consequence:** a gate that cannot be solved by asking, doing favours, or completing a task
+chain. The player must become *adjacent* — and directness will read as suspicious rather than honest.
+
+---
+
+## XXVII. The Three Quarters
+
+**Proposed** as optional sub-district texture *(substrate §11; single-sourced and weakly attested — treat as a
+menu, not a requirement)*.
+
+- **The Old Core** — openly warm and openly possessive. Loyalty is audited continuously and jealousy is not
+  hidden. The district's most emotionally direct quarter, and its least private.
+- **The Clinical Quarter** — cold-faced and hyper-perceptive, reading as unfeeling while being the opposite.
+  Where the Sanctuary keeps its files, its assessors, and the Circuit House (Findings VI, XIII). The quarter
+  outsiders find most alarming and residents find most reliable.
+- **The Hospice Edge** — self-sacrificial past the point of self-protection. The district's saints and its
+  easiest marks, in the same streets. Where the Long Shelf and the Long Room (Finding XVI) plausibly sit.
+
+The inward-core / outward-edge arrangement is a design choice, not a source claim.
+
+---
+
+## XXVIII. Material Register
+
+**Proposed** *(substrate §12; `G_Correspondences.md`)*. Concrete texture the earlier pass lacked.
+
+- **Metal: silver. Stones: pearl, opal, moonstone.** All four are the district's by way of its governing
+  faculty rather than by local geology, which matters — these are *chosen* associations in a city with no
+  mineral wealth of its own.
+- **The opal is the load-bearing detail.** Opal **cannot be synthesised**. In a sealed city where manufactured
+  diamond is cheap and industrial, the Sanctuary's signature stone is one Concordia cannot make for itself —
+  every piece is either pre-exile inheritance or imported at real cost. A district that gives its stones away
+  at bonding ceremonies and adoption matches is giving away something genuinely irreplaceable, and knows it.
+- **Colours: violet and ice blue** — cooler than the warm palette Finding XII proposes. Worth reconciling; the
+  likeliest read is warm textiles against cool architecture, which also fits Finding IX's light.
+- **Topography: rivers, trees, and parks — notably *not* the sea.** The district's water imagery should be
+  riverine and cultivated, never oceanic. The Growing Towers' condensate runnels (Finding VIII) already fit
+  this exactly; the correspondence confirms rather than redirects.
+- **Body register: the stomach and the breast** — read functionally as *giving out nourishment* and *taking in
+  nourishment*, with health defined as keeping the two in balance. That is the district's own medical
+  philosophy in one line, and it indicts the smother-lock (XXIII) from inside the district's own framework:
+  a Sanctuary that only gives out is, by its own medicine, sick.
+- **Sky detail worth using:** the cluster in this constellation is dimmed by water vapour, making it a
+  traditional rain-predictor — **a sign that reads the weather by how badly it can see.** For a district that
+  navigates entirely by reading unspoken distress, that is an unusually apt civic emblem.
+
+---
+
+## XXIX. Conflict Geometry — the three structural frictions
+
+**Proposed** *(substrate §8; `D_Aspect_Geometry.md`)*. Finding XXI covers consequences of Cancer's own
+infrastructure on neighbours. This covers structural antagonism, which is different and was entirely absent.
+
+**Against the Yards — the runaway loop.** The Sanctuary's true structural opposite is the achievement-and-
+authority district, and the relationship is not a standoff but a **feedback loop**: every increment of
+Sanctuary demand purchases an increment of Yards withholding, which purchases more demand. Its whole subject
+matter is *what is enough and what is not enough*. The sting is that the Sanctuary genuinely cannot generate
+the limit-setting the Yards specialise in (XXII) — **it must import that capacity or collapse**, which makes
+its antagonist also its necessary supplier. Note both districts are initiators (XXIV), so neither will wait.
+
+**Against the Power Core — contempt for displayed need.** The Sanctuary's central political instrument is
+visible, testified need. That is precisely what the Power Core reads as fraud and weaponised weakness. This is
+the loud friction: open, mutually exasperated, and unresolvable, because each district's legitimate operating
+method is the other's evidence of bad character.
+
+**Against the Government District — the quiet one, and the nastier.** Both believe themselves the fair party.
+The Sanctuary's fairness is loyalty-weighted and felt; the Government District's is procedural and balanced.
+Worse, **both respond to friction by concealing what they actually feel**, so nothing reaches the table at all.
+No open fight — just decades of unresolved courtesy, which sits directly under the Rationing of Grief (Finding
+X's open question) and offers a mechanism for it that requires no villain on either side.
+
+**Allies, briefly.** Scorpio and the Markets are the natural affinities — both districts that will name what
+the Sanctuary will not. The Scorpio alliance holds on one condition: **the Sanctuary must concede control**,
+which XXII says it is structurally poor at. The Markets affinity is the dangerous one — two districts that both
+dissolve into whoever they are near make a flood, not a home. Taurus remains the cleanest partnership, which
+Finding XXI's windbell trade already demonstrates in miniature.
+
+---
+
+## XXX. Those Who Reject the Nest
+
+**Proposed.** A second, distinct dissident current, not to be merged with Finding XIX's counterculture.
+
+Finding XIX establishes people who **decline to be cared for** — they refuse help while accepting the premise
+that care is what the district is for. This is different: a native-born faction that **rejects belonging
+itself** *(substrate §13)*. Any nest whatsoever induces something close to panic in them. Their stated aim is
+to build tribes on shared ideals rather than shared kinship, adoption, or proximity.
+
+The distinction matters for design. Finding XIX's decliners are read by the district as symptoms — people who
+cannot ask, which is exactly what the Quiet Register exists to catch. **These are read as apostates**, and the
+Sanctuary has no framework for them at all: they are not in distress, they are not ungrateful, and they are not
+leaving. They simply do not want what the district is.
+
+They are also, awkwardly, **natives** — raised in creches, kept in Keepings, formed entirely by the apparatus
+they reject, and still needing it on an ordinary daily level. Pair them with the smother-lock (XXIII) and there
+is a genuine emancipation movement available: people arguing that the Sanctuary's kindest institutions are
+mechanisms for preventing people from leaving, made by people the district raised.
+
+---
+
+## Second-Pass QA
+
+- **Overlap check (the first thing run).** Every major substrate contribution was tested against Findings
+  I–XXI before writing. Overlap was effectively zero on all ten checked concepts. **This pass adds; it does not
+  re-label.**
+- **Gate 2 — general population.** XXII, XXV, and XXVI describe the district generally. The Three Quarters
+  (XXVII) is explicitly optional sub-district texture. No profession's version is presented as the default.
+- **Gate 3 — contradiction check against Ordinary Daily Life (XV).** Two genuine contradictions surfaced and
+  are recorded rather than smoothed: XXIV (initiating vs. the established unhurried reading — resolved as
+  street-pace vs. institutional behaviour) and XXVI (sideways entry vs. XIV's term of shared work — resolved as
+  two different thresholds, structural residency vs. belonging). XXVIII's cool palette vs. XII's warm one is
+  flagged as needing a decision.
+- **Gate 4 — Swap Test.** Run against Taurus, the nearest register (both receptive, both domestic, canonically
+  the closest partnership). **None of XXII–XXX survives the swap.** The capability profile is specific: Taurus
+  can refuse and will, at length. The smother-lock requires a dependent population, which Taurus does not have.
+  Sideways entry contradicts Taurus's documented household hospitality. The Yards opposition is Cancer's alone.
+  Confirmed district-specific.
+- **Gate 6 — duplicate institutions.** XXX was checked against XIX's counterculture and is distinct
+  (declining care vs. rejecting belonging); the distinction is stated in-text so a later reader does not merge
+  them. XXVII's quarters were placed to contain existing named locations rather than inventing rivals to them.
+- **Substrate gaps carried forward, unfixed.** The source corpus is silent on architecture, clothing, music,
+  funerary practice, governance forms, law, economy, and — a real gap for a sanctuary district — **any
+  treatment of strangers at civic or migratory scale**. Its outsider material is entirely interpersonal.
+  Everything institutional above is therefore derivation from individual-scale material, and should be read as
+  proposal rather than extraction.
+- **Not resolved here:** the palette conflict (XXVIII vs. XII), and whether the Three Quarters (XXVII) is
+  adopted at all.
+
+**Verdict: second pass COMPLETE.** Findings VIII–XXI remain valid and their QA record stands unaltered.
