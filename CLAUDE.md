@@ -42,6 +42,10 @@ the goal.** The QA gates can confirm a pass is not *wrong*; **none of them can t
 - **A Review Panel position is not guaranteed to get what it wants.** If satisfying an objection would make the
   district more like the other twelve, the disposition is **`unmet`** and the refusal is written as
   characterization, not as a gap to close.
+- **Real-world inspirations are sources, not specifications.** A location is under no obligation to match its
+  inspiration; divergence is fine and often better. **The two tests that bind are internal** — is it
+  characteristically consistent with *itself*, and is it consistent in-world within the Tepenian universe? A
+  striking real fact is not automatically a district fact.
 - **Never carry one location's answers into another.** If two places produce similar-shaped answers to the same
   technique, at least one is wrong.
 

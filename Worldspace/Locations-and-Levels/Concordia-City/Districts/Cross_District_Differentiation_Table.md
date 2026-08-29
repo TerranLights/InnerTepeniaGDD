@@ -37,6 +37,7 @@ its column **in the same commit**.
 | **Scorpio** | net-negative *(no exaltation, two deficits)* | world-class diagnosis, nowhere to convalesce | — |
 | **The Power Core** (Aries) | **complete** | cannot price or ration; cannot keep a schedule | **both addressed** — concentrated in the Government District, its opposite number |
 | **The Yards** (Capricorn) | **complete** | can build anything, cannot say what for → substitutes the deadline as meaning | **one of each** — care addressed (the Sanctuary); meaning diffuse |
+| **The Labs** (Aquarius) | double absence | one instrument, two irreconcilable accounts of it → **cannot form a stable intention**; cannot credit an individual or protect a dissenter | **reciprocal** — each pole holds exactly what the other lacks (Leo), and neither will ask |
 
 ---
 
@@ -49,6 +50,7 @@ its column **in the same commit**.
 | **Scorpio** | Everyone **speaks simultaneously** and nobody is individually audible. Heard without being identified. |
 | **The Power Core** | **Massed, loud, choral.** Choirs founded after named incidents, carrying the district's only history and administering its bereavement funds. |
 | **The Yards** | **Long, constructed, cyclical, work-timed.** The merit is in the building and error is audible. Nobody improvises in public. |
+| **The Labs** | **An open corpus anyone may extend, unattributed.** No performance at all; the only event is publication — with bitter, entirely deniable attribution disputes underneath. |
 
 ---
 
@@ -61,6 +63,7 @@ its column **in the same commit**.
 | **Scorpio** | *the Loud* (cannot agree on a self-name) | **Refuses the silence.** The only one of the five that causes real harm as well as being right. |
 | **The Power Core** | *the Tally* (adopted insult) | **Adds** an accounting the district cannot perform. The only one that adds rather than refuses. |
 | **The Yards** | *the Recalibration Underground* **(pre-existing canon)** | **Demands the district's own rule be applied literally.** The only one *more orthodox* than its mainstream — which is why it cannot be dismissed as heresy. |
+| **The Labs** | *(none — and that is the finding)* | **Not a population at all.** The review board and the underground annex are the same people; the contradiction is inside each person. **Cannot be reformed from within and cannot be opposed from within.** There is nobody to organise. |
 
 > **Two rules that came out of this row.** **(1) Check for an existing counterculture in canon before deriving
 > one** — Capricorn already had its, and Step C correctly *confirmed* rather than replaced it. **(2) Do not
@@ -77,6 +80,7 @@ its column **in the same commit**.
 | **Leo** | **standing** — the recognition tiers | wholly public | permanent; **no erase function** | not sought |
 | **The Power Core** | **operational state only** — near-total telemetry, near-zero institutional memory | open to anyone who needs it | ephemeral | not a concept |
 | **The Yards** | **processes** — specification, tolerance, who, when, pass/fail | work public, private life private | permanent | not sought |
+| **The Labs** | **only what worked** — successes published free and complete; failures never written, not falsified | wholly open | permanent | **absolute for members, not a category for subjects** |
 
 *The Yards additionally runs an **informal favor ledger** in parallel with the formal archive, and would be
 offended by the suggestion that it is a record. Distinguished from Taurus's inherited grudges (attached to an
@@ -93,6 +97,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **Scorpio** | Food states **where you are in a process** — the dieta card. Nobody remarks on it. |
 | **The Power Core** | Food **kept warm and waiting** at the gallery for whoever comes off a bad shift — **collective, ambient, available to anyone**. Nobody serves it and nobody is owed it. |
 | **The Yards** | **One person feeds another** after a bad shift **and does not mention why** — deliberately unacknowledged, because acknowledgement would make it a favor, and a favor is a ledger entry. |
+| **The Labs** | **No native cuisine at all.** Eats every other district's food, secondhand and slightly wrong, entirely unembarrassed. Being fed means nothing here. |
 
 > ⚠ **Caught-late collision, recorded rather than quietly fixed.** The Power Core and the Yards entries were
 > written a day apart and are nearly the same practice — *feed someone after a bad shift without comment.*
@@ -114,6 +119,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **Scorpio** | **admission to a cell** — two-stage, the second stage unfalsifiable, membership concealed |
 | **The Power Core** | **holding a qualification** — you may sign for work. Nobody cares where you came from |
 | **The Yards** | **test-and-admit over years**, plus a **thirty-year threshold** after which your judgment is your own |
+| **The Labs** | **conversion** — no door is closed and no one is admitted; you keep up or stop coming. **The barrier is a hundred metres inside, unmarked** |
 
 ---
 
@@ -145,6 +151,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **Scorpio** | produces enormous care and **cannot get it past the cell boundary** |
 | **The Power Core** | **cannot notice what it is losing** — and its ethic forbids the accounting that would show it |
 | **The Yards** | keeps substituting the deadline for meaning, **and experiences that as focus** |
+| **The Labs** | **has no instrument that registers one person**, so it keeps doing real harm in the course of real good — sincerely, and without a record of it |
 
 ---
 

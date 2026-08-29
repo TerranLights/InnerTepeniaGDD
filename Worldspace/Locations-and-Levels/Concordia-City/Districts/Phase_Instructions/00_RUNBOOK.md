@@ -179,7 +179,39 @@ assumed.** Several passes have researched two picks out of eight or nine and dec
 their titles** — which is a guess wearing the costume of a method. **Look at each pick at least far enough to
 know what it would have given**, and record that in Gate 7 rather than the assumption.
 
-**3.5 Record what you skipped and why**, in Gate 7. Name the genuine omission separately from the redundant
+**3.5 The inspiration is a source, not a specification.** *(Developer instruction, 2026-08-29 — and this is as
+important as the instruction to do the research at all.)*
+
+**A pick is an *inspiration*. It is not a template to be transcribed, and the location is under no obligation to
+match it.** Three outcomes are all legitimate:
+
+- The location ends up closely resembling its inspiration **with a new paint job** — fine.
+- It takes **one mechanism** and diverges everywhere else — fine, and commonest.
+- It goes somewhere **the inspiration never went** — fine, and often the best result.
+
+**The two tests that actually bind are internal, not external:**
+
+1. **Is it characteristically consistent with *itself*?** Does this follow from what this place already is?
+2. **Is it consistent in-world, within the Tepenian universe as a whole?**
+
+**Nothing requires fidelity to the real-world case.** The research exists to supply ideas, mechanisms, and
+consequences a designer would not have reached alone — **not to be reproduced.**
+
+**Two failure modes to watch, both easy:**
+
+- **Transcription.** Mapping a real place onto a district feature-for-feature produces a **costumed version of
+  somewhere real**, not a place. The test above catches it: ask whether each imported element follows from the
+  district's own character, or only from the source's.
+- **Importing a vivid detail that does not follow.** A striking real fact is not automatically a district fact.
+  *(This is the standing `feedback_realworld_fact_vs_fiction_driver` rule applied to place: a striking fact is
+  not automatically a culture driver.)* **If the only argument for a detail is that it is interesting, cut it or
+  earn it.**
+
+**Preferred shape when writing a fusion:** state what the real case did, then state what **this** place does —
+and let them differ where the district's own character says they should. **Divergence stated is stronger than
+resemblance implied**, because it shows the reasoning.
+
+**3.6 Record what you skipped and why**, in Gate 7. Name the genuine omission separately from the redundant
 ones.
 
 ---
