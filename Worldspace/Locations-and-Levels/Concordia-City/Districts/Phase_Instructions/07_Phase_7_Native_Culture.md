@@ -72,6 +72,14 @@ heirloom-repair co-ops (not everything needs to become a genealogical object)"* 
 than inventing. **Re-read Phase 5 looking specifically for the word "not," and for anything a resident is
 described as deliberately keeping out of an institution.** That is usually the counterculture, already observed.
 
+**Confirmed 2026-08-29 — two for two, so run this step before deriving, not after.** Leo's entire counterculture
+was likewise already present in its Phase 5 finding, as the observation that genuine escapism there means
+finding a moment *without an audience*, in private unrecorded spaces off the district's information network.
+Both seeds were single throwaway clauses describing an ordinary person's downtime, and in both cases the
+formalized counterculture is more grounded than anything derivation alone would have produced. **Phase 5
+records what people do when nobody is making them perform their district's values — which is, definitionally,
+where its counterculture already lives.**
+
 **Step C — Counterculture: derive it from the dominant culture's specific pressure, never from generic
 rebellion.** The strongest countercultures are the exact negative image of what the district demands. A district
 built on compulsory visibility generates people who refuse to be seen; one built on permanence generates people

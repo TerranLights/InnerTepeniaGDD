@@ -72,6 +72,14 @@ for t in "<capability terms>" "<shadow mechanism>" "<modality>" "<entry mechanic
 done
 ```
 
+**Never trust the counts — inspect every non-zero hit before believing it.** Both Mode A runs so far had a
+high false-positive rate, and in each case the raw numbers would have produced the wrong conclusion. Actual
+examples: `prop` matched every `**Proposed:**` (twelve phantom hits in Leo); a bare `mars` matched inside
+`grammars`; `plains` matched inside `explains`; "voice" matched a metaphorical *political* voice; "ledger"
+matched a genealogy ledger rather than a debt ledger; an "Aquarius" hit was a Fragmentation Matrix grouping
+rather than the opposition relationship. **Grep to find candidates, then read each one in context.** The
+per-concept count is a search tool, never evidence.
+
 **Read the result honestly:**
 
 - **Near-zero overlap** — the substrate is genuinely additive. Proceed. *(Cancer scored 0 on nine of ten
@@ -119,6 +127,15 @@ It produces flaws that feel *inevitable rather than assigned*, and — criticall
 villain**, which is what makes them compatible with this project's non-malice discipline and with
 `00d_Shadow_Proportion_Discipline.md`.
 
+> **⚠ Three districts still to come share Leo's double absence — do not reuse Leo's answer.** Gemini,
+> Sagittarius and Aquarius also have neither an amplified capacity nor a rejected one. Leo's reading ("no second
+> instrument, therefore no graceful degradation") followed from *what its single strong faculty happens to be* —
+> recognition — not from the absence alone. **The absence tells you the district runs on one instrument; it does
+> not tell you which, and the whole finding lives in the answer to that.** A second district characterized as
+> "cannot fail gradually" would be the exact failure this methodology exists to prevent. Taurus and Leo already
+> demonstrate the range: a *single* absence produced a donor district, a *double* absence produced a
+> non-redundant one, and the two readings have nothing in common.
+
 **When a district has fewer than four terms, the absence itself is the finding.** *(Added 2026-08-29 — this
 affects six of the thirteen.)* `F_Rulerships.md` §5 notes that Gemini, Leo, Sagittarius and Aquarius have
 neither exaltation nor fall, Taurus has no fall, and Scorpio has no exaltation. **Do not treat the thin row as
@@ -136,6 +153,21 @@ be different in kind, not just in detail.** If yours reads like a variant of ano
 ---
 
 ## 6. Conflict geometry
+
+> **⚠ Structural gap in the eight-phase model, confirmed 2026-08-29 — read this before anything else in this
+> section.** **None of the eight phases covers inter-district relationships.** Phases 1-8 are all
+> *inward-facing*: what a district looks like, believes, eats, wears, and does. Nothing asks what it is to its
+> neighbors. The consequence is measurable and it is systemic:
+>
+> - Taurus's completed file mentioned **Scorpio, its own opposite district, zero times.**
+> - Leo's mentioned **Scorpio zero times** and its opposite district only as an unrelated aside.
+> - Spot-checked across the ten unstarted districts, the same silence holds — **Aries and Virgo mention none of
+>   the four districts probed; Capricorn mentions one, once.**
+>
+> **So this section is currently the only place in the entire methodology where inter-district relationships get
+> written at all.** That is a real hole in the Plan, not a quirk of two districts. Until a phase exists for it,
+> **treat §6 as mandatory rather than optional**, and in Mode B write the geometry *into* the district's phases
+> as they are drafted rather than leaving it to a later pass that may never come.
 
 `D_Aspect_Geometry.md` §5 gives each district its opposition, two squares, and its affinities, already
 translated into district names. Three things to do with it:
@@ -155,7 +187,17 @@ category**, because the geometry guarantees they differ on the same axis without
 grammar fell out of this immediately: **the Labs organizes, Leo performs, Taurus obstructs** — three answers to
 one question, each finding the other two faintly embarrassing, none of them villainous, none of them previously
 written down. The technique generalizes to any category where districts must differ but have no reason to
-conflict: how each mourns, celebrates, apologizes, courts, settles a dispute, or treats a stranger. **Pick the
+conflict: how each mourns, celebrates, apologizes, courts, settles a dispute, or treats a stranger. **Used twice
+so far, on different categories, and it worked both times** — Taurus's set produced three protest grammars,
+Leo's produced three grammars of injury and redress.
+
+**But the sets are a network, not independent triples, and this needs watching.** Taurus's set was
+Taurus + the Labs + Leo; Leo's was Leo + Taurus + Scorpio. **Taurus and Leo appear in both**, which means a
+district accumulates characterizations from other districts' passes. Before writing a new set, **check what the
+district was already assigned in someone else's** — the two must be consistent, and where they are not, the
+earlier one usually wins because it is already load-bearing. The upside is that this network converges: by the
+sixth or seventh district most of the matrix is already filled in, and the remaining sets get easier and better
+grounded rather than harder. **Pick the
 category first, then read all three off the geometry** — deriving one district's answer alone tends to produce
 something generic, because there is nothing to differentiate it against.
 
@@ -256,6 +298,43 @@ anywhere else. Inventing one because Cancer has one is exactly the failure `00_I
 
 **The proportion note in that section is worth copying structurally** — an explicit statement, before the
 findings, of what the district sincerely is and does well.
+
+---
+
+## 11b. Mode B — what the remaining ten actually need
+
+**Added 2026-08-29**, after all three Mode A districts completed. The remaining ten run in Mode B, and three
+things learned from Mode A change how that should be done.
+
+**1. They are not clean, and an earlier version of this note wrongly said they were.** Every one of the ten
+carries **four to seven pre-Plan findings written 2026-07-09** *(verified by count)*. Those predate the
+shadow-proportion discipline, the general-population discipline, the research-first rule, and Gate 9 — and both
+Gate 9 failures found so far were in exactly this early material. **Read a district's existing findings and run
+Gate 9 against them before writing new phases**, or the new work gets layered onto unexamined optimistic
+material, which is the specific failure Mode A was invented to repair.
+
+**2. Write the conflict geometry in, at the phase where it belongs.** Per §6, nothing in Phases 1-8 asks for it,
+so in Mode B it has to be inserted deliberately. The natural homes are Phase 4 (Visitor Experience — who arrives
+from where, and how they are received) and Phase 7's Counterculture and Private Life categories (who the
+district defines itself against). **Do not defer it to a substrate section**; that is a Mode A shape and it is
+the reason Mode A districts read as having a bolted-on relationships chapter.
+
+**3. Expect the counterculture seed to already exist in Phase 5.** Two for two — see
+`07_Phase_7_Native_Culture.md` Step C0. In Mode B, Phase 5 is written earlier in the same pass, so the seed will
+be fresh: **write Phase 5 without thinking about counterculture at all, then mine it.** Deliberately planting a
+seed to harvest later produces a worse result than finding a real one.
+
+**Falsifiable predictions for district four**, recorded so this methodology can be tested rather than merely
+accumulated. If these fail, the rules above are wrong and should be revised, not defended:
+
+- Its Phase 5 finding will contain a usable counterculture seed *(2 for 2)*.
+- Its most load-bearing finding will be a **name for something already in its canon** rather than an invention
+  *(3 for 3)*.
+- Its strongest structural finding will come from the **capability reading**, not from the shadow material
+  *(3 for 3)*.
+- It will mention **at most one** of its own geometric conflict partners in its pre-Plan findings *(3 for 3)*.
+- Any contradiction between substrate and canon will resolve **both-are-true** rather than one-side-wins
+  *(4 for 4 across three districts)*.
 
 ---
 

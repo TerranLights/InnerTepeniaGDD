@@ -71,8 +71,14 @@ least one is wrong.
 ## Status
 
 **Updated 2026-08-29.** Three districts have been through the full sequence, and **all three have now passed
-QA**. The remaining ten have not been started, so they enter clean and should run in **Mode B** — substrate
-folded in as a first-pass input rather than bolted on afterward.
+QA**. The remaining ten should run in **Mode B** — substrate folded in as a first-pass input rather than bolted
+on afterward.
+
+> **Correction, same day.** An earlier version of this line said the remaining ten "enter clean." **They do
+> not.** Every one of them carries **four to seven pre-Plan findings written 2026-07-09** (verified by count),
+> predating the shadow-proportion discipline, the general-population discipline, the research-first rule, and
+> Gate 9. Both Gate 9 failures found so far were in exactly that early material. **Read and Gate-9 a district's
+> existing findings before writing new phases onto them.** See `00e_Substrate_Application_Pass.md` §11b.
 
 - **Cancer — all 8 phases COMPLETE and QA-PASSED.** Rewritten from scratch 2026-08-16 with real research on
   all eight of its real-world picks. `Cancer_Full_Extrapolation.md` Findings VIII-XXI, with the completion QA
@@ -154,7 +160,51 @@ where it operates; this is the index to them.
 11. **Swap against the hardest partner, not a convenient comparable**, and record which finding was weakest.
     → `00c` Gate 4.
 
-**The one thing that did not generalize:** Cancer and Taurus produced findings of completely different *kinds* —
-a care district whose shadow is care that cannot be ended, and a stability district whose shadow is generosity
-indistinguishable from erosion. Nothing about either transferred to the other, which is the methodology working
-as intended. **The techniques generalize; the answers never do.**
+**The one thing that did not generalize:** the three districts produced findings of completely different
+*kinds* — a care district whose shadow is care that cannot be ended, a stability district whose shadow is
+generosity indistinguishable from erosion, and a recognition district whose shadow is that it cannot fail
+gradually. Nothing transferred between any of them, which is the methodology working as intended. **The
+techniques generalize; the answers never do.**
+
+---
+
+## Second round of updates — what the third district added (2026-08-29)
+
+Leo was the first run of the expanded gate set, and **two of the three new gates failed on first real use**,
+which is the result worth having: they were catching things rather than confirming them. What it changed:
+
+**A structural hole in the Plan, not a district problem.** **No phase covers inter-district relationships.**
+Phases 1-8 are all inward-facing. Measured: Taurus's completed file mentioned its own opposite district **zero**
+times; Leo's mentioned one of its two hardest frictions **zero** times; and across the ten unstarted districts,
+**Aries and Virgo mention none of four probed neighbors, Capricorn mentions one, once.** Until a phase exists,
+`00e` §6 is the only place this gets written and is now mandatory rather than optional. → `00e` §6.
+
+**Gate 6 now checks against completed districts, not just within one.** Leo came within a sentence of colliding
+with Taurus twice — both districts attach meaning to *being fed*, and both have an object-provenance system.
+Neither pair is a duplicate, but the contrast has to be stated **inline in the finding** or the next reader
+merges them. This gets harder with every district finished. → `00c` Gate 6.
+
+**Gate 9 should be run on a district's *earliest* findings first.** Both instances found so far were pre-Plan
+material from 2026-07-09, and that is not coincidence: those findings were written to explain how a district
+works, a framing that documents the favorable path and stops. → `00c` Gate 9.
+
+**Never trust the overlap check's counts.** Both Mode A runs had high false-positive rates — `prop` matching
+every `**Proposed:**`, `mars` inside `grammars`, `plains` inside `explains`, a metaphorical "voice", a
+genealogy "ledger". Grep finds candidates; only reading them is evidence. → `00e` §3.
+
+**Absence-is-content validated, with a warning attached.** Taurus's *single* absence produced a donor district;
+Leo's *double* absence produced a non-redundant one; the two readings have nothing in common. **Three districts
+still to come share Leo's double absence** — the absence tells you a district runs on one instrument, never
+which one, and the entire finding lives in that answer. → `00e` §5.
+
+**The Naming technique does not always return a religion.** Leo already had one, so the search surfaced a
+**stake** instead. The technique's real object is *the district's unnamed load-bearing thing*; a belief system
+is only its commonest form, and a district that already has a religion should not be given a second one to fill
+a slot. → `02_Phase_2` §8.
+
+**Also validated at 2 for 2:** the counterculture seed already sitting in Phase 5 (→ `07_Phase_7` Step C0), and
+the three-way differentiation set — which turns out to be **a network rather than independent triples**, since
+Taurus and Leo each appeared in the other's set and their characterizations must stay consistent. → `00e` §6.
+
+**Five falsifiable predictions for district four** are now recorded in `00e` §11b, so the next run tests this
+methodology instead of merely adding to it.

@@ -145,11 +145,29 @@ Check the district's new material against the districts already completed. Three
    spills goes into volume shared with its neighbors. *Worked example:* Cancer's Growing Towers vent humid air
    — which has to arrive somewhere.
 
-## Gate 6 — Duplicate-institution check
+## Gate 6 — Duplicate-institution check, within the district AND against completed neighbors
 
-New Findings frequently invent something the district already has under another name. Scan the district's
-Canon Reference Community Infrastructure list against every new named place/practice. If two are genuinely
-close, either merge them or state the relationship explicitly. *Worked example:* Cancer's new Long Room vs. its
+**Extended 2026-08-29 after Leo**, which twice came within a sentence of colliding with Taurus.
+
+**(a) Within the district.** New Findings frequently invent something the district already has under another
+name. Scan the district's Canon Reference Community Infrastructure list against every new named place/practice.
+If two are genuinely close, either merge them or state the relationship explicitly.
+
+**(b) Against districts already completed — the new half, and it gets harder with every district finished.**
+Structurally similar institutions will keep arising across districts, because the same categories are being
+asked of every one of them. **That is not a failure and they must not be homogenized — but the contrast has to
+be stated in the text, or the next reader merges them.** Leo produced two near-collisions with Taurus in a
+single pass:
+
+| Both districts have | Taurus | Leo |
+|---|---|---|
+| A meaning attached to **being fed** | *Admission* — a private threshold nobody explains | *Rank* — a public signal everybody reads |
+| A **provenance system for objects** | Documents an object to prove **continuity** | Displays an object to transfer **standing** |
+
+Each was written with an explicit "stated against Taurus deliberately, because these are not the same thing"
+sentence. **Do that inline, in the finding, not in a footnote** — a reader meeting Leo's siligel custom without
+it will assume it duplicates Taurus's. **The check: for every named institution, ask whether a completed
+district has something structurally adjacent, and if so name the difference in the finding itself.** *Worked example:* Cancer's new Long Room vs. its
 existing Threshold Waiting Rooms — related but distinct, and the distinction has to be written down or the next
 reader will assume it's a duplicate.
 
@@ -185,6 +203,13 @@ sides*, with nobody acting in bad faith at any point.
 
 This is cheap to run and high-yield, because the omission is almost never deliberate — a pass writing about how
 a district welcomes people simply does not think to ask what happens to the people it doesn't.
+
+**Run it on the district's *earliest* findings first.** Both instances found so far were in pre-Plan material
+written 2026-07-09 — Taurus's Finding II and Leo's Finding III — and this is not a coincidence. Those findings
+predate `00d_Shadow_Proportion_Discipline.md` entirely and were written to explain how a district *works*, which
+is a framing that naturally documents the favorable path and stops. **Every district still carries four to seven
+of these early findings** *(verified 2026-08-29 across the ten unstarted districts)*, so expect this gate to
+fire on them and check them before checking anything written later.
 
 **Ask of each such Finding:**
 1. What happens to someone the mechanism decides *against*?

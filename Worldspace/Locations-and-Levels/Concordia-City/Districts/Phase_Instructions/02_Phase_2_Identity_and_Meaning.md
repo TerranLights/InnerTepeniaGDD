@@ -193,6 +193,18 @@ into one value expressed five different ways.
    culture will not discuss them.
 4. **Only if the search comes back empty should you generate a belief system from scratch.**
 
+**Refinement from Leo, 2026-08-29 — the technique does not always return a religion, and knowing that prevents
+forcing one.** Leo made it three for three, but its result differed in kind: **Leo already had a named religion**
+(Cymatics Reverence), so the search did not surface a belief system. It surfaced a **stake** instead — the
+continuous proof of personhood a robot performer carries every time they perform, which was sitting in the
+district's own Deep Dive unnamed and turned out to be the most load-bearing fact in the file.
+
+**So the technique's actual object is "the district's unnamed load-bearing thing," and a belief system is only
+its most common form.** Other forms it can take: a stake (what is genuinely at risk here that is at risk
+nowhere else), a compact (what the district agreed to and never wrote down), or a debt (what it owes and does
+not discuss). **If the district already has a named religion, expect one of those instead — and do not invent a
+second religion to fill a slot that is already occupied.**
+
 **Why this is the ordering rule and not merely a tip:** a generated belief has to be argued into the district's
 existing material, and frequently does not fit. A named one arrives already load-bearing, because it was
 holding the weight all along. **A district's most important "new" finding is very often a name for something it
