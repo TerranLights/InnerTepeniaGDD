@@ -1,5 +1,9 @@
 # Phase 2 — Identity and Meaning (Religious/Philosophical Landscape, Fashion)
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** close two of the confirmed-absent categories. Religious/Philosophical Landscape was 1/13 (Pisces
 only); Fashion was 0/13 as a dedicated category (only incidental diaspora-transplant clothing mentions existed).
 Both build directly on Phase 1's now-established texture (Architecture, Sensory Profile) plus whatever

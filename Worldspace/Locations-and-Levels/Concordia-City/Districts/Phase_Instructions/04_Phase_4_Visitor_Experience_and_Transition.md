@@ -1,5 +1,9 @@
 # Phase 4 — Visitor Experience / Visitor-to-Resident Transition
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** close a confirmed-absent category with genuinely no district-level precedent — cities have this
 because Tepenia has real outsiders (Upper Earth, or simply someone from a different city) arriving; districts
 need an intra-Concordia translation of the same concept before any per-district content can be written.

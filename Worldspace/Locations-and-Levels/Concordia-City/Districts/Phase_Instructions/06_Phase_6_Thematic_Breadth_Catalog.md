@@ -1,5 +1,9 @@
 # Phase 6 — Thematic Breadth Catalog
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** a district is built around a **theme**, not a **thing** — Cancer isn't literally wall-to-wall
 caregiving facilities any more than a real-world "government town" is wall-to-wall government buildings. This
 phase systematically catalogs the wider cast of places, things, people, and settings a district needs to feel

@@ -1,5 +1,9 @@
 # Phase 5 — Ordinary Daily Life
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** this phase is a pre-existing developer TODO item (`Dev-Road-Map/Weekly_To-Do_-_Current.md` lines
 107-118, flagged 2026-07-31, confirmed to start 2026-08-12), folded into this plan on 2026-08-16 because it's
 every bit as load-bearing a Robot-Specific Culture prerequisite as the template-derived gaps — arguably more so.

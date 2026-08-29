@@ -1,5 +1,9 @@
 # Phase 7 — Native Culture
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** the seven template categories covering a district's own home-grown culture — what it eats, plays,
 makes, believes about its two populations, hides, and celebrates. Runs before Phase 8 because four of the seven
 are direct inputs to Robot-Specific Culture.

@@ -1,5 +1,9 @@
 # Phase 8 — Robot-Specific Culture
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** the capstone, and the actual downstream goal this entire plan exists to set up. Robot-Specific
 Culture was confirmed 0/13 — zero dedicated headings anywhere across all 13 districts. This is the hard blocker
 for the eventual **Local District Robot Culture** work (the direct parallel to the already-complete

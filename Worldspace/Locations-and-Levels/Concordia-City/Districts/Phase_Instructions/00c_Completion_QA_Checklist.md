@@ -13,6 +13,12 @@ the file. Nothing in the process checked. This gate is that check.
 > **⚠ Read `00_RUNBOOK.md` first** — these gates are **Step 6** of that procedure, and several of them are
 > meant to have been run earlier (Gate 0 at Step 0, Gate 9 at Step 1).
 
+> **⚠ LAW 0 applies here more than anywhere.** *(`00_RUNBOOK.md`.)* **These eleven gates can confirm that a pass
+> is not *wrong*. Not one of them can tell you it is not *thin*.** A district can pass every gate below and
+> still be shallow — template-complete, internally consistent, correctly scoped, and lifeless. **Passing QA is
+> not the same as being finished**, and the closing test in Law 0 is the one that decides: *could a person live
+> an entire life here, and would that life be unlike a life in any of the other twelve?*
+
 ## The governing test: characteristic consistency
 
 Every gate below serves one underlying question, and it is worth stating plainly before the checklist starts:

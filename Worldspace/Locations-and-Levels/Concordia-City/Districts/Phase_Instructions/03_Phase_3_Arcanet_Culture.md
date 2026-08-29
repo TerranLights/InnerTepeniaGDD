@@ -1,5 +1,9 @@
 # Phase 3 — Arcanet Culture
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** close the last of the "present but inconsistent" gaps. Arcanet Culture had zero districts with a
 genuinely *dedicated* section — Gemini and Sagittarius only had incidental mentions scattered across
 Full_Extrapolation/Mega_Init/README. This phase formalizes a real, dedicated Arcanet Culture Finding for all 13.

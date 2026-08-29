@@ -1,5 +1,9 @@
 # Cross-Phase Discipline — General Population, Not Narrow Context
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Added 2026-08-16, after a real, repeated mistake caught during the Scorpio pass.** This applies across all 8
 phases, not just one — read it alongside `00_Index.md` before starting any phase for any district.
 

@@ -1,5 +1,9 @@
 # Cross-Phase Discipline — The Shadow Is Not the District
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Added 2026-08-29, after a real error caught in Cancer's second extrapolation pass.** Binding for every phase,
 every district, and for any location methodology derived from this one. Read alongside
 `00b_General_Population_Discipline.md`.

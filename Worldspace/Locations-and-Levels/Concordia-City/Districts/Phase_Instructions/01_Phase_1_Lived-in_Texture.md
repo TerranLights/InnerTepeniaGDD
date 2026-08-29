@@ -1,5 +1,9 @@
 # Phase 1 — Lived-in Texture (Architecture, Sensory Profile, Export Culture)
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Purpose:** close the three "present but inconsistent" gaps from the original city-template comparison —
 Architecture (4/13 districts had it), Sensory Profile (2/13), Export Culture (1/13, and even that one
 misplaced). This is the lowest-lift phase and the most direct physical foundation for everything after it:

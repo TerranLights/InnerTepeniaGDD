@@ -1,5 +1,9 @@
 # Cross-Phase Procedure — Applying the Zodiac Personality Substrate
 
+> **⚠ Read `00_RUNBOOK.md` first.** It is the mandatory entry point for all district and location
+> culture work (binding per the project `CLAUDE.md`), and it opens with **LAW 0 — depth over speed**,
+> which governs everything in this file.
+
 **Written 2026-08-29**, generalised from Cancer's substrate application pass (`District_Megasheets/01_Cancer/
 Cancer_Full_Extrapolation.md`, "Second Pass"). This is the repeatable procedure for using
 `../Zodiac_Personality_Substrate/` on **any** district.
