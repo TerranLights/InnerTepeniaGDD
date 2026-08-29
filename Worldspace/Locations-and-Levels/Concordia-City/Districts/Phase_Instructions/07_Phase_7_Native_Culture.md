@@ -60,8 +60,26 @@ missing guild burial fund became a finding. **Where nothing else pulled it in, i
 
 ### The category, and the questions
 
-**Every human society has one.** This is not optional content and it is not only for districts with a
-death-adjacent function.
+**Every society has a relationship to its dead, so the *question* is obligatory. A local cemetery is not, and
+neither is a dedicated section.** *(Developer note, 2026-08-29.)* In a real city most districts have a local
+burial ground — **but not all of them do**, and the ones that don't are not thereby societies without death
+practice. **The gap this category closes is that the instrument never asked, not that every district is missing
+a graveyard.**
+
+**So the deliverable is an answer, and *"it happens somewhere else"* is a complete one.** Concordia is a sealed
+city with **finite interior volume and no ground to open** — which makes a centralized or exported answer the
+*expected* one and a district-local burial ground the **exception that needs a reason.** Scorpio's mortuary
+function is a citywide service; a district that uses it has answered the question fully by using it.
+
+**Write a Death and the Dead section only where the district's answer is characteristic of that district.**
+Where the answer is *"the body goes to Scorpio, the family does what families do, and nothing about that is
+particular to us,"* **record it in a line and move on — do not inflate it into a section to satisfy a
+checklist.** A thin invented rite is worse than an honest sentence. *(Same discipline as Gate 8: a category that
+produces nothing standout for this district is allowed to produce nothing.)*
+
+**The obligation, precisely:** ask the four questions below of every district; **write a section only where the
+answers are distinctive.** Do not manufacture divergence — thirteen bespoke funerary traditions in one sealed
+city would be its own Gate 6b failure.
 
 - **What happens to a body here?** Concordia is sealed — **every district's answer is constrained by that**, and
   no two need answer alike.
@@ -70,12 +88,17 @@ death-adjacent function.
 - **What is remembered, by whom, and for how long?** Distinguish the **record** from the **rite** — Aries sings
   its dead and keeps no archive; Libra keeps everything and marks nothing.
 - **Who is not mourned properly, and why not?** The most productive of these, and usually a shadow finding.
+- **Is the absence itself the finding?** A district with no practice of its own is a real and often better
+  answer than an invented one — **but say *why*.** Somewhere that outsources its dead because it has no room,
+  because its people arrived too recently to have buried anyone here, or because it would rather not look, are
+  three different districts.
 - **And the two districts scoring zero have the sharpest unanswered versions:** the Labs runs a thirty-year
   closed experiment on residents who live inside it; **Libra legislated how long other people may grieve** and
   has no stated practice for its own dead.
 
 **Back-filling the eight completed districts is now a real outstanding task**, not a tidy-up. It is recorded in
-the Plan.
+the Plan. **Expect that pass to produce fewer than eight sections** — and that is the correct outcome, not an
+incomplete one.
 
 ---
 
