@@ -1,5 +1,9 @@
 # District Culture Development Plan
 
+> **➤ To actually run a district, start at `Phase_Instructions/00_RUNBOOK.md`.** This file is the *what*
+> and *in what order* — the eight phases, the per-district blocks, and the progress tracker. The runbook is the
+> *how*: the full procedure in working order, with every discipline and failure mode at its point of use.
+
 **Written 2026-08-16.** Direct follow-on to the gap analysis comparing Concordia's 13 districts against the 36
 outer cities' `Local_Cultures/CITY_CULTURE_TEMPLATE.md` (32 sections). That analysis found four tiers: strong
 and comparable (Founding history, Political character, Notable Figures, Population/diaspora — the latter via

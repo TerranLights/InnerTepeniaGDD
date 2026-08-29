@@ -9,6 +9,9 @@ every district already completed. **That check gets more expensive with each dis
 failed once** — see the caught-late collision recorded below. At six districts the cost is real; at ten it
 would be prohibitive, and the check would quietly stop being run.
 
+**Where this sits in the process:** `Phase_Instructions/00_RUNBOOK.md` **Step 4** (check before writing each
+category) and **Step 6** (Gate 6b), with the column added at **Step 8**.
+
 **How to use it.** Before writing a category for a new district, read its row. **If your answer rhymes with any
 entry, either differentiate it explicitly and inline (Gate 6b) or change it.** After completing a district, add
 its column **in the same commit**.

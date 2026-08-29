@@ -1,5 +1,16 @@
 # District Culture Development Plan — Phase Instructions
 
+> ## ➤ START AT `00_RUNBOOK.md`
+>
+> **The runbook is the operational entry point** — the whole procedure for running one district, start to
+> finish, in the order you actually work in, with each discipline stated at the point of use and every failure
+> mode attached to the district it was learned on.
+>
+> **This index is the file catalog, the per-district status, and the historical record** of how each rule came
+> to exist (the five dated round-summaries at the foot of this file). That record is worth keeping and is **not
+> the thing to read before starting a district** — it is organized by when each rule was learned rather than by
+> when you need it, which is exactly what the runbook fixes.
+
 **Written 2026-08-16.** One dedicated, self-contained instruction file per phase of
 `../District_Culture_Development_Plan.md` — detailed enough that a future session can open a single phase file
 and actually execute that phase for all 13 districts without needing to reconstruct method from the Plan file,
@@ -49,6 +60,7 @@ least one is wrong.
 
 ## Files
 
+0. **`00_RUNBOOK.md` — the procedure. Read this first, every time.**
 0. `00b_General_Population_Discipline.md` — cross-phase discipline, read first, every phase, every district
 0. `00d_Shadow_Proportion_Discipline.md` — **the Shadow is a byproduct, never the district's operating
    principle.** Also read first. Prevents a well-sourced pass from rendering a district as sinister.
