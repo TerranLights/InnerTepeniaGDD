@@ -135,7 +135,8 @@ professional performers are not its general musical culture.
 | 03 Leo | **Done 2026-08-29** — added retroactively; same defect as Taurus, caught by Gate 0 |
 | 04 Scorpio | **Done 2026-08-29** — first Mode B district |
 | 05 Aries | **Done 2026-08-29** — second Mode B district |
-| 06-13 | Not started |
+| 06 Capricorn | **Done 2026-08-29** — third Mode B district; first Review Panel run on the archetype roster |
+| 07-13 | Not started |
 
 ---
 
