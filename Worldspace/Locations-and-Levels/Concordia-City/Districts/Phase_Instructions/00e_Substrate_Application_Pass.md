@@ -180,6 +180,18 @@ also the district it is set against — so its weakness has a name, a location, 
 attached. **A deficit with an address produces inter-district politics; a diffuse one produces drift.** Check
 `F_Rulerships.md` for whether the missing faculties cluster anywhere before writing the consequence.
 
+**The Circuit supplied a sixth — *multiply addressed* — and it inverts the assumption behind all five others.**
+Its missing faculty is at home in **two** districts and at its strongest of anywhere in the city in a **third**.
+Three suppliers, and it receives from none: one is its opposite number whose opposition *presents as kinship
+and stalls there*, one is commercially entangled and temperamentally unreachable, and one fails on a small human
+mechanism — the Circuit approaches, someone becomes moved enough to stop talking, and the Circuit reads a
+stopped conversation as a finished one. **More addresses is worse, not better.** With one counterparty you get a
+grievance, and a grievance is a relationship you can eventually act on. **With three you get shopping** — a
+district that visits all of them, receives from none, and experiences the arrangement as being unusually
+well-connected. **Abundance of options reads as abundance of supply, so no deficit is ever perceived at all.**
+*(This is the strongest structural result of the Gemini pass and the most portable to other locations: when
+checking a deficit, count the addresses. A count above one should raise suspicion, not reassurance.)*
+
 **Libra supplied a fifth — *reciprocal plus an outside dependency* — and with it a refinement that matters more
 than the taxonomy: being addressed is not enough, because the *relationship type* decides whether the supply
 line functions.** Libra borrows individual authority from Leo easily (an easy affinity) and cannot borrow force

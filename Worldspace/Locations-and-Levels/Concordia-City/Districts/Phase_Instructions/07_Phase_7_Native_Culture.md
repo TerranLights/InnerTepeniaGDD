@@ -39,6 +39,12 @@ district does with a body.
 **And the measured consequence across eight completed districts is unambiguous.** Findings-only counts, QA
 blocks stripped:
 
+> ⚠ **Scan-term correction, 2026-08-29, found by the Circuit's Gate 1.** The term `funeral` **does not match
+> `funerary`**, which is the word a section on this subject is most likely to actually use. The Circuit's own
+> §XXII scored **0** on `funeral` while scoring **2** on the `funerar` stem. **Use the `funerar` stem, not
+> `funeral`**, and treat the counts below as a possible undercount for the same reason. Re-scan during the
+> back-fill.
+
 | District | death | funeral | burial | mourn |
 |---|---|---|---|---|
 | Scorpio | **7** | 0 | **5** | 0 |
@@ -232,7 +238,8 @@ professional performers are not its general musical culture.
 | 06 Capricorn | **Done 2026-08-29** — third Mode B district; first Review Panel run on the archetype roster |
 | 07 Aquarius | **Done 2026-08-29** — fourth Mode B district; first run under LAW 0 |
 | 08 Libra | **Done 2026-08-29** — fifth Mode B district; first complete research set (4/4) |
-| 09-13 | Not started |
+| 09 Gemini | **Done 2026-08-29** — sixth Mode B district; **first district to receive the Death and the Dead category as part of the pass rather than by back-fill** |
+| 10-13 | Not started |
 
 ---
 

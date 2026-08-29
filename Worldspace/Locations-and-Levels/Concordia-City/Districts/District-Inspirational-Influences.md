@@ -74,7 +74,7 @@
 - Geneva, Switzerland [SECONDARY]
 - Brussels (EU Quarter) [SECONDARY]
 
-### 09 Gemini [TBN]
+### 09 Gemini [The Circuit]
 - Songdo, South Korea [PRIMARY]
 - Dubai Media City [PRIMARY]
 - Bloomberg/Reuters newsroom culture [PRIMARY]

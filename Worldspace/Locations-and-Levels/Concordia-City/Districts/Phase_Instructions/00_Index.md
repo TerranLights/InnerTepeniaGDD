@@ -97,6 +97,11 @@ least one is wrong.
 QA**. The remaining ten should run in **Mode B** — substrate folded in as a first-pass input rather than bolted
 on afterward.
 
+> **Progress, updated 2026-08-29 after the Circuit.** **9 of 13 districts are complete and QA-passed** —
+> Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini. **Four remain: Pisces, Sagittarius,
+> Virgo, and the Hub** *(the Hub deferred by the developer, who has an approach in mind for it)*. **Gate 9 has
+> now fired on eight consecutive districts and every single time in the pre-Plan 2026-07-09 material.**
+
 > **Correction, same day.** An earlier version of this line said the remaining ten "enter clean." **They do
 > not.** Every one of them carries **four to seven pre-Plan findings written 2026-07-09** (verified by count),
 > predating the shadow-proportion discipline, the general-population discipline, the research-first rule, and
@@ -538,3 +543,71 @@ the same rule**, after countercultures and religions: **check before deriving.**
   taught, now confirmed on the other shape.
 - **Research yield is now trackable.** Libra 4/4 changed findings; Aquarius 4 of 6 did; the *changed-or-
   ornamented* test is doing real work and should keep being recorded per district.
+
+
+---
+
+## Eighth round of updates — the Circuit, and a deficit count that inverts a standing assumption (2026-08-29)
+
+**Gemini was the sixth Mode B run and the third district on the two-term capability shape** — the shape the
+runbook explicitly warns must supply only the *question*, never the answer. It didn't: transmission as the one
+instrument produced **"a correction can never outrank the thing it corrects,"** which has nothing in common with
+Leo's *cannot fail gradually* or the Labs' *cannot form a stable intention*. **Three districts, one shape, three
+unrelated failures. The procedure holds.**
+
+### Count the addresses. More than one is a warning, not a reassurance.
+
+**The pass's most portable result, and it inverts what the previous five configurations implied.** Every earlier
+reading treated an *addressed* deficit as the legible case and a *diffuse* one as the drifting case. The Circuit
+is addressed **three times over** — its missing faculty is at home in two districts and strongest of anywhere in
+a third — **and it is the worst-off district on the table for exactly that reason.** One counterparty produces a
+grievance, and a grievance is a relationship. **Three produce shopping**: the district visits all of them,
+receives from none (three unrelated failures, no pattern visible from inside), and experiences the whole
+arrangement as being unusually well-connected. **Abundance of options reads as abundance of supply.** → `00e` §5.
+
+### Gate 0 passed, and the negative result is worth as much as the catches
+
+**First accurate Plan claim in the districts checked** — after Taurus and Leo over-claiming and Scorpio
+under-claiming. Recorded rather than passed over, because a gate's non-firing is data about the gate. One
+borderline in the under-claiming direction: Sensory was marked *needed* when substantial Vision Notes material
+existed and should have been marked *promote*.
+
+### A scan-term defect in the death category, found six hours after the category was written
+
+Gate 1 scored the Circuit **0 on `funeral`** while its Death and the Dead section scored **2 on the `funerar`
+stem** — **`funeral` does not match `funerary`, which is the word such a section actually uses.** The eight-
+district evidence table in `07_Phase_7` §1b was built on the wrong string and may undercount. **Corrected in
+place, flagged for re-scan during the back-fill.** *(The lesson generalizes: when a term returns 0 across
+multiple districts, check the stem before concluding the content is absent.)*
+
+### The category's new bound got its first real test, and passed
+
+The Circuit **earned** a Death and the Dead section, and the bound is what made it good: disposal is one line
+(*sealed city, no ground, the body goes to Scorpio*) and **the distinctive part is duration** — Circuit mourning
+lasts exactly as long as the item stays in circulation. **The district had no funerary institution for 250 years
+and learned one from its refugees**, recently and incompletely, which explains an institution already in canon
+rather than inventing a parallel. **First district to receive the category as part of the pass rather than by
+back-fill.**
+
+### Smaller
+
+- **A new counterculture type: one that makes no demand at all.** Seven types were on record — three refusals,
+  one that adds, one that demands literal application, one that is not a population, one that fails by being
+  accommodated. The Circuit's **withholds and asks nothing of anybody**, and the district finds it *unsettling*
+  rather than wrong, because **you cannot triangulate against silence.** → the table's §3.
+- **A shadow position finally returned something.** After two consecutive "not guilty" verdicts, the Know-It-All
+  Trickster returned **partially guilty against the Circuit — and only on self-image, not conduct.** The
+  district's expertise is real; only its estimate of that expertise's reach is inflated. **A partial conviction
+  is a more useful result than either a clean acquittal or a conviction**, and the panel should be watched for
+  more of them.
+- **Truby convergence from three genuinely opposed corners.** The Child, the Parent and the Elder — the
+  unwatched, the housebound, the forgotten — independently found the same absence: **the district has no form
+  that holds still.** None was looking for it.
+- **`unmet` came out thin (one clean instance) and that is recorded as a possible weakness rather than
+  explained away.** The honest reading is that the Circuit is an unusually accommodating district; the reading a
+  later pass should test first is that the panel was run softly.
+- **Research yield: 10 items, 8 changed findings, 2 ornamented.** Libra 4/4, Aquarius 4 of 6. **One item was
+  deliberately withheld** — Wall Street open-outcry hand signals are the natural grammar for the reserved
+  Lightwave Polyrhythm, and scoping a reserved developer concept is not this pass's to do. **Recording a
+  withheld pick is a third Gate 7 outcome** alongside *changed* and *ornamented*, and it should be used whenever
+  research would foreclose something held open.

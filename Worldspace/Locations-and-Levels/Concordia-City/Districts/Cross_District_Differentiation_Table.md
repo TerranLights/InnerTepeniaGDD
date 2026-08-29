@@ -1,6 +1,6 @@
 # Cross-District Differentiation Table
 
-**Created 2026-08-29, after six districts.** One page listing **what each completed district's answer is, per
+**Created 2026-08-29, after six districts. Nine districts as of 2026-08-29.** One page listing **what each completed district's answer is, per
 category**, so that a new district can be checked against a single file instead of by re-reading six
 `Full_Extrapolation.md`s.
 
@@ -39,6 +39,7 @@ its column **in the same commit**.
 | **The Yards** (Capricorn) | **complete** | can build anything, cannot say what for → substitutes the deadline as meaning | **one of each** — care addressed (the Sanctuary); meaning diffuse |
 | **The Labs** (Aquarius) | double absence | one instrument, two irreconcilable accounts of it → **cannot form a stable intention**; cannot credit an individual or protect a dissenter | **reciprocal** — each pole holds exactly what the other lacks (Leo), and neither will ask |
 | **The Government District** (Libra) | **complete** | writes excellent law it cannot enforce; **cannot produce anyone personally accountable for a decision** | **reciprocal + outside** — force addressed in the Power Core (its opposite, asymmetric); individual authority in Leo, an easy affinity. **Borrows faces readily, hands not at all** |
+| **The Circuit** (Gemini) | double absence | one instrument — **transmission** — so its only measure of importance is **arrival order**; **a correction can never outrank the error** | **multiply addressed** — meaning is at home in the Frostlands *and* the Markets and strongest of all in the Sanctuary. **Three suppliers, three unrelated failures, no grievance ever forms** |
 
 ---
 
@@ -53,6 +54,7 @@ its column **in the same commit**.
 | **The Yards** | **Long, constructed, cyclical, work-timed.** The merit is in the building and error is audible. Nobody improvises in public. |
 | **The Labs** | **An open corpus anyone may extend, unattributed.** No performance at all; the only event is publication — with bitter, entirely deniable attribution disputes underneath. |
 | **The Government District** | **Ceremonial and scheduled.** A piece exists because an occasion required one. Technically excellent, two centuries deep, and nobody would put it on for pleasure. |
+| **The Circuit** | **Impersonation.** Two voices, one of them playing a real named person — voice, cadence, tics. Inseparable from ordinary speech, because relaying news *is* doing the voices. **The district's only functioning ranking instrument, and it does not know it has one.** |
 
 ---
 
@@ -67,6 +69,7 @@ its column **in the same commit**.
 | **The Yards** | *the Recalibration Underground* **(pre-existing canon)** | **Demands the district's own rule be applied literally.** The only one *more orthodox* than its mainstream — which is why it cannot be dismissed as heresy. |
 | **The Labs** | *(none — and that is the finding)* | **Not a population at all.** The review board and the underground annex are the same people; the contradiction is inside each person. **Cannot be reformed from within and cannot be opposed from within.** There is nobody to organise. |
 | **The Government District** | *the True Believers* **(pre-existing canon)** | **Entirely proper, fully procedural, completely correct — and structurally incapable of arriving anywhere.** The only one that fails by being *accommodated* rather than resisted. The three canon factions are **one gradient, not three positions.** |
+| **The Circuit** | *"room-only"* (a term for accounts before it was a term for people; they use no name) | **Withholds, and demands nothing of anybody.** The first that makes no demand at all — they decline to put *their own* accounts on the network, believing some things are damaged by transmission. **The district cannot triangulate against silence**, so it is unsettled rather than opposed, and avoids rather than absorbs. |
 
 > **Two rules that came out of this row.** **(1) Check for an existing counterculture in canon before deriving
 > one** — Capricorn already had its, and Step C correctly *confirmed* rather than replaced it. **(2) Do not
@@ -85,6 +88,7 @@ its column **in the same commit**.
 | **The Yards** | **processes** — specification, tolerance, who, when, pass/fail | work public, private life private | permanent | not sought |
 | **The Labs** | **only what worked** — successes published free and complete; failures never written, not falsified | wholly open | permanent | **absolute for members, not a category for subjects** |
 | **The Government District** | **everything, and it publishes almost none of it** | sealed outward, internally open | permanent | **holds everyone else's absolutely and has almost none of its own** |
+| **The Circuit** | **nothing, by construction** — it is the transmitting half of its own faculty and has no custody instinct. Its one archive is a *recovery* project for records it already lost | wholly open | **none — duration is demand-limited** | not a concept; the only sanction is on the source, never the item |
 
 *The Yards additionally runs an **informal favor ledger** in parallel with the formal archive, and would be
 offended by the suggestion that it is a record. Distinguished from Taurus's inherited grudges (attached to an
@@ -103,6 +107,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Yards** | **One person feeds another** after a bad shift **and does not mention why** — deliberately unacknowledged, because acknowledgement would make it a favor, and a favor is a ledger entry. |
 | **The Labs** | **No native cuisine at all.** Eats every other district's food, secondhand and slightly wrong, entirely unembarrassed. Being fed means nothing here. |
 | **The Government District** | **Being fed means you are a *guest*** — a relation established and formally honoured. The only entry where the meaning is about the **pair** rather than the eater. Expert in everyone else's cuisine; its own eating is thin and hurried. |
+| **The Circuit** | **Being fed means somebody is trying to keep you longer.** A meal is spread across four venues; food is the one polite instrument for detaining a person past the point they meant to leave, and it is received as a compliment. **The axis is duration, which no other entry uses.** The injury is being fed and then not talked to. |
 
 > ⚠ **Caught-late collision, recorded rather than quietly fixed.** The Power Core and the Yards entries were
 > written a day apart and are nearly the same practice — *feed someone after a bad shift without comment.*
@@ -126,6 +131,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Yards** | **test-and-admit over years**, plus a **thirty-year threshold** after which your judgment is your own |
 | **The Labs** | **conversion** — no door is closed and no one is admitted; you keep up or stop coming. **The barrier is a hundred metres inside, unmarked** |
 | **The Government District** | **employment, and it is fast and genuinely open** — what takes decades is not entry but learning to read the room, and no institution bridges that gap |
+| **The Circuit** | **being repeated.** You are a visitor while what you say stops with the person you told; you are a resident the first time it reaches a stranger. A week is normal, nobody administers it — and **you stop being one the same way, with nobody noticing, including you** |
 
 ---
 
@@ -138,6 +144,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **Scorpio** | **amputation and deferral** — the injury ledger; no native arbitration at all |
 | **The Labs** | **organizing** *(assigned from Taurus's three-way set; not yet written)* |
 | **The Yards** | **silence** — decades-long non-verbal feuds; and **complaint takes the form of procedure** |
+| **The Circuit** | **circulation** — a grievance has to travel to exist. Nothing is confronted; it is repeated until it is either everywhere or forgotten. **The one grievance that structurally cannot travel is the one from people who can no longer get out** |
 
 **Three-way sets used so far, so they are not re-used:**
 - **Protest grammar** — Taurus (obstructs) / the Labs (organizes) / Leo (performs).
@@ -159,10 +166,27 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Yards** | keeps substituting the deadline for meaning, **and experiences that as focus** |
 | **The Labs** | **has no instrument that registers one person**, so it keeps doing real harm in the course of real good — sincerely, and without a record of it |
 | **The Government District** | keeps producing **correct outcomes nobody is answerable for**; its harmony is purchased with someone else's suffering **and it experiences the purchase as fairness** |
+| **The Circuit** | **destroys people's standing continuously with nobody deciding to, and experiences the whole process as an open market** — its one sacred principle (never stop a person from saying a thing) is exactly what forbids building the instrument that would fix it |
 
 ---
 
-## 9. Maintenance
+## 9. Fashion *(new row, 2026-08-29 — added when the Circuit threatened a collision, per §10's rule)*
+
+| District | The general population's dress |
+|---|---|
+| **Cancer** | *(corrected off the caregiver work-vest; see `00b`)* |
+| **Leo** | *(corrected off performer stage-dressing; see `00b`)* |
+| **Scorpio** | *(corrected off the transformation-phase masks; see `00b`)* |
+| **The Circuit** | **Two halves that do not match, worn on purpose.** Separate over- and under-layer wardrobes combined at the door; paired and repeating patterns; solid color uncommon. **Produced by mobility, not by function, rank, or ritual state** — you cannot own a coordinated outfit when the outer layer comes off a dozen times a day. Second-order: a *matched* outfit reads as *not going anywhere else today*. |
+
+> **The distinguishing axis for future districts:** the three corrected entries above all failed by using a
+> narrow role's kit as the general answer. The Circuit's is the first Fashion row derived from **the district's
+> daily movement pattern** rather than its work. Do not reuse that derivation — check what *else* produces
+> clothing before defaulting to it.
+
+---
+
+## 10. Maintenance
 
 - **Add a column in the same commit that completes a district.** A table nobody updates is worse than none.
 - **When a category collides**, differentiate **inline in the district's own finding** — not only here. This
