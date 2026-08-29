@@ -22,7 +22,8 @@ Each phase file below assumes you've read the Plan file's own entry for that pha
 into the actual how-to. Work phase-by-phase across all 13 districts (not district-by-district) — see the Plan's
 own "Execution order" section for why.
 
-**Read `00b_General_Population_Discipline.md` before starting any phase, for any district.** A real, repeated
+**Read `00b_General_Population_Discipline.md` AND `00d_Shadow_Proportion_Discipline.md` before starting any
+phase, for any district.** A real, repeated
 mistake (caught in Scorpio, then found on audit in Cancer and Leo too) was presenting a narrow
 profession's/context's/ritual's version of a category as if it were the district's general answer — a
 transformation mask worn only by residents mid-transformation, a caregiver's work vest, a performer's
@@ -49,6 +50,8 @@ least one is wrong.
 ## Files
 
 0. `00b_General_Population_Discipline.md` — cross-phase discipline, read first, every phase, every district
+0. `00d_Shadow_Proportion_Discipline.md` — **the Shadow is a byproduct, never the district's operating
+   principle.** Also read first. Prevents a well-sourced pass from rendering a district as sinister.
 0. `00c_Completion_QA_Checklist.md` — the closing gate; a district is complete only when it passes all 8 gates
 1. `01_Phase_1_Lived-in_Texture.md` — Architecture, Sensory Profile, Export Culture
 2. `02_Phase_2_Identity_and_Meaning.md` — Religious/Philosophical Landscape, Fashion

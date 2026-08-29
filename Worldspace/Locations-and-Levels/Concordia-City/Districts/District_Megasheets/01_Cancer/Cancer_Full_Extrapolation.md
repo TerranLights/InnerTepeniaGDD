@@ -824,6 +824,31 @@ rather than extending it, that is stated outright rather than smoothed over (see
 **Discipline note.** The zodiac is out-of-fiction design shorthand only. Below, substrate reasoning is cited in
 brackets so it can be audited; **none of that vocabulary belongs in player-facing text or in-world prose.**
 
+### ⚠ Proportion — read before using any finding below
+
+*(Added 2026-08-29 after this pass was first written with the balance wrong. See
+`../../Phase_Instructions/00d_Shadow_Proportion_Discipline.md`.)*
+
+**The Sanctuary is not its shadow.** This district runs on a sincere, coherent, and largely successful idea of
+what care is and what a community owes its vulnerable — and it *delivers* on that idea. People are sheltered
+here who would not be sheltered anywhere else. The creches work. The broth kitchens feed whoever arrives. The
+Keepings are genuinely kept. That is the district's reality, day to day, for almost everyone in it.
+
+The findings below identify consequences that follow from that sincere pursuit **without anyone intending them
+and without anyone inside noticing**. They are real, and they are edge conditions of a system that ordinarily
+works — not the system's actual operating principle.
+
+Three consequences for how this material is used:
+
+- **Nobody in-world experiences the district this way.** A resident asked about discharge paperwork will
+  describe a thorough process that protects people. They are not being evasive; that is what it looks like
+  from inside, and they are largely right.
+- **The player should not perceive any of this on arrival.** First contact with Cancer should read exactly as
+  Findings I–XXI describe: warm, unhurried, available without hovering. The material below is **discoverable**,
+  in specific situations, by a player who genuinely investigates — never announced.
+- **No villains, and no cynicism in the population.** Every mechanism below works with everyone acting in good
+  faith. If any of it seems to require someone to be knowingly self-serving, it has been read wrong.
+
 ---
 
 ## XXII. The Capability Profile — what the Sanctuary structurally cannot do
@@ -851,23 +876,33 @@ grievance voiced on one's own behalf is not merely unpersuasive, it is close to 
 has no grammar for it. A grievance voiced on behalf of someone in your care is heard immediately and acted on
 with real force.
 
-Which means residents acquire dependents in order to acquire a voice, and **the district cannot perceive this
-as corruption**, because taking on a ward is by definition virtuous here. A person with no one to speak for is
-politically mute; a person who has accumulated wards is powerful, and looks selfless while doing it. This is
-not cynicism in the population — it is the only route the structure leaves open.
+The ordinary, benign form of this is simply that **the district's public life is conducted in the second
+person**: people speak up about their neighbour's damp wall, their ward's missed appointment, their creche's
+staffing. It produces a genuinely attentive civic culture, and residents experience it as decency rather than
+as a workaround, because it *is* decency.
+
+The unintended consequence sits at the margin: someone with nobody to speak for has no route to be heard at
+all, and there is no procedure for noticing that. Over a long enough period, influence accrues to those with
+the most people in their care — not because anyone is gaming it, and not visibly to anyone involved. **The
+district has no way to perceive this as a distribution of power**, because taking on a ward is by definition
+virtuous here. Nobody is being cynical. The structure simply leaves no other opening, and the isolated go
+unheard while everyone is doing exactly what they should.
 
 Note the interaction with Finding IV's "visible virtue, hidden cost" pattern: this is the same shape, now with
 a mechanism under it.
 
 ---
 
-## XXIII. The Smother-Lock — the district's incentive against recovery
+## XXIII. The Smother-Lock — care that finds it hard to end
 
-**Proposed, and the darkest finding in the file.** *(Substrate §3, the central shadow mechanism.)*
+**Proposed.** *(Substrate §3.)* **Read this against the proportion note above.** The Sanctuary's care works,
+and most people it takes in are helped and go on with their lives. What follows is a drift at the edges of that
+system, invisible from inside because every individual act composing it is genuinely kind.
 
-A ward who recovers is a ward who leaves. The Sanctuary's entire security rests on being needed, so **every
-incentive in its caregiving apparatus quietly rewards non-recovery** — and the district cannot see this,
-because each individual act within it is genuinely kind.
+A ward who recovers is a ward who leaves. Nobody in the district thinks in those terms — but the apparatus was
+built by people for whom being needed *is* security, and it inherited that shape. The result is a mild,
+persistent, unexamined bias: **ending care is slightly harder here than beginning it**, at every point in the
+process, for reasons that always look like thoroughness.
 
 Institutionally this shows up as:
 
@@ -876,14 +911,17 @@ Institutionally this shows up as:
   because closing a case is the refusal-shaped act the district cannot perform (XXII).
 - **Graduation without removal.** Wards who have recovered stay on the rolls indefinitely, still counted, still
   visited, still "checked on." The roll only grows.
-- **Support that expands to fill the recipient.** Assistance calibrated to need at intake is never recalibrated
-  downward, because reducing care reads as withdrawal of love.
+- **Support that expands to fill the recipient.** Assistance calibrated at intake is rarely recalibrated
+  downward — not because anyone refuses to, but because nobody's job is to propose it, and reducing care feels
+  like withdrawing affection. Where someone *does* propose it, it usually happens without fuss.
 
-**The tension with Finding XI is real and should be kept, not resolved.** Adopting an unkept Keeping is
-presented there — correctly — as the district's most morally serious institution. It is also, structurally, the
-acquisition of a permanent dependent who can never recover, because the person whose routine is being kept is
-already dead. **The Sanctuary's noblest practice is also its purest expression of the smother-lock**, and both
-readings are true simultaneously. That is exactly the kind of unresolvable knot this district should have.
+**The tension with Finding XI is real and should be kept, not resolved — but keep it in the right order.**
+Adopting an unkept Keeping is, first and straightforwardly, the district's most morally serious institution and
+one of the genuinely admirable things in Concordia. It is *also* a permanent obligation that by its nature can
+never be discharged, since the person whose routine is kept is already dead. Both are true, and the second does
+not undercut the first. A reader should come away thinking the practice is beautiful and noticing, secondarily,
+that the Sanctuary has built its highest ideal around a bond that cannot end. **Nobody in the district has ever
+framed it that way**, and a resident told so would find the observation strange rather than damning.
 
 **Player-facing inversion worth building:** the standard quest shape is *obtain help*. Here the hard version is
 *get help withdrawn* — and the district genuinely cannot process the request, because withdrawal and
@@ -1066,9 +1104,15 @@ Sanctuary has no framework for them at all: they are not in distress, they are n
 leaving. They simply do not want what the district is.
 
 They are also, awkwardly, **natives** — raised in creches, kept in Keepings, formed entirely by the apparatus
-they reject, and still needing it on an ordinary daily level. Pair them with the smother-lock (XXIII) and there
-is a genuine emancipation movement available: people arguing that the Sanctuary's kindest institutions are
-mechanisms for preventing people from leaving, made by people the district raised.
+they reject, and still needing it on an ordinary daily level.
+
+**Handle their argument carefully.** They are the one group positioned to notice XXIII from inside, and the
+temptation is to let them state it as an exposé. They should not be right in that register. Their objection is
+temperamental and prior to evidence — they dislike belonging as such, and would dislike it in a district that
+had no smother-lock at all. What makes them useful is that a temperamental objection occasionally lands on
+something real, and neither they nor anyone else can tell which of their complaints are which. A player who
+takes them at their word gets a distorted picture; a player who dismisses them entirely misses the one thing
+they see clearly.
 
 ---
 

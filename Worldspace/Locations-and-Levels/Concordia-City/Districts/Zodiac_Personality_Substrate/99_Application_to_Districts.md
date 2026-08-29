@@ -163,6 +163,13 @@ But record the disagreement rather than silently dropping it — a mismatch is o
 
 ## 7. Standing cautions
 
+- **⚠ The Shadow is not the district — and this folder's weighting will mislead you if you let it.** The
+  per-sign files give §3 Shadow heavy weight because the *extraction* brief prioritised capturing failure
+  modes. **That is an artifact of extraction, not a claim about how much of a district is shadow.** Applying a
+  sign file proportionally to its own section lengths yields a district that is largely pathology, which is
+  wrong. A district runs on its own sincere idea of doing good, and that idea mostly works; the shadow is what
+  that pursuit produces unintentionally and unnoticed, discoverable only by a player who genuinely
+  investigates. Full rule and the three tests: `../Phase_Instructions/00d_Shadow_Proportion_Discipline.md`.
 - **Everything at institutional scale is derivation.** The source books describe individuals, not populations.
   The per-sign files mark derived material; preserve that marking when it lands in canon.
 - **Do not flatten source disagreements.** Several were deliberately preserved (whether Scorpio is possessive;
