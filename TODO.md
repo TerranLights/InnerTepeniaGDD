@@ -825,15 +825,16 @@ Zhongshan, Sinheung, and Shirayuki were founded via a peaceful diplomatic partit
   - TBN [TCY-20 unimpressed bartender Miranda] — The Quiet Shift; personality TBD
   - TBN [TCY-25 smoldering darkness Rui] — 9w1:Sp; Scorpio; **confirmed recruitable/romanceable 2026-07-10**; still needs real name, backstory, MACHINE stat baseline, questline, home design
   - TBN [TCY-42 ravishing extravagant Lillian] — legacy Star War house; personality TBD
-  - TBN [TCY-45 heavenly summertime Momo] — everything TBD
+  - **TBN [TCY-45 heavenly summertime Momo] — substantially developed 2026-08-29 from her filled-in Quick Capture Seed.** Confirmed: 4w5 (Self-Pres) **55%** with a 9w1 Undercurrent at **45%** — the project's first confirmed Undercurrent, and a notable outlier against the ~80/20 working baseline. Backstory spine resolved: built in **Signy** (source of her claustrophobia and need for open skies), then **Esperanza** as a caregiver to human families inside that city's founding care-compact, then **Princess Elisabeth** (reasons still open; clean-energy motive best-supported), then **Zukelli**, where her lifelong search for a family-shaped belonging substantially succeeded — **all four moves peacetime, none war-related.** She then survived Zukelli's destruction as one of very few escapees and now lives in Concordia. Her stated flaw (cannot say "no," cannot stand up for herself) derives from the **Undercurrent, not the main type**. Still open: **official name** ("Momo" is a placeholder), **broad-scale Goal** (deliberately not invented), Concordia district, Undercurrent subvariant, MACHINE baseline, questline. Also answers the standing open question at `Specs/Esperanza.md:146` (what role robots played in the care compact).
   - TBN [XT-03 thicc Chinese Mei-Li] — 6w7:Sc; The Found/Assembled; personality TBD
   - TBN [XT-17 unorthodox science teacher Charlene] — 5w4; Aquarius; personality TBD
   - TBN [XT-21 cool citygirl Angelina] — 7w8; Hub; personality TBD
 
 - [ ] **Doll Enneagram gaps — review pass**
-  Four characters have no Enneagram type assigned; two have types but no subvariant. Do not design companion perks, attraction profiles, or romance gates for these characters until types are confirmed.
-  - **Missing type entirely:** Maria (FR-03), Momo (TCY-45), Eirwyn Cardoss (Off-World template has no Enneagram field), Calethina (no standard README)
-  - **Missing subvariant:** Charlene (XT-17) — 5w4, subvariant TBD; Angelina (XT-21) — 7w8, subvariant TBD
+  Three characters have no Enneagram type assigned; three have types but an incomplete subvariant. Do not design companion perks, attraction profiles, or romance gates for these characters until types are confirmed.
+  - **Missing type entirely:** Maria (FR-03), Eirwyn Cardoss (Off-World template has no Enneagram field), Calethina (no standard README)
+  - **Missing subvariant:** Charlene (XT-17) — 5w4, subvariant TBD; Angelina (XT-21) — 7w8, subvariant TBD; Momo (TCY-45) — main type resolved 2026-08-29 (4w5 Self-Pres), but her **9w1 Undercurrent's** subvariant is still open between Self-Pres and Sexual
+  - *(Momo was listed under "missing type entirely" until 2026-08-29. That was stale — her type was assigned 2026-08-11, when she became the project's first confirmed Undercurrent case.)*
   - **Broader pass:** Full subvariant review across all doll characters with confirmed types — confirm existing subvariant assignments are correct before Phase 3 personality work begins
 
 - [ ] **Red Spiral — leader identity TBD**

@@ -19,4 +19,15 @@ not yet chosen her official name; see her README.md's Naming note and Design Not
 
 ---
 
+(TBN [TCY-45 heavenly summertime Momo], processed 2026-08-29, has also been cleared from this file. Her
+folder already existed and was substantially expanded rather than created:
+Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [TCY-45 heavenly summertime Momo]/ —
+main-game recruitable roster, district within Concordia still undecided. **"Momo" remains an unofficial working
+name only.** Two fields were left genuinely open per the developer: her official name, and her broad-scale Goal.
+Her Enneagram main-type subvariant was resolved by this seed (4w5 Self-Pres); the Undercurrent's subvariant
+(9w1, Self-Pres vs. Sexual) is still open. Note the seed's 55/45 Type/Undercurrent split, which supersedes the
+~80/20 working baseline her README previously carried.)
+
+---
+
 
