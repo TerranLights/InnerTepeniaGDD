@@ -10,6 +10,46 @@ file and start a fresh one for the next stretch of work).
 
 ## Active Threads as of the 2026-08-16 → 2026-08-24 outage stretch
 
+- [ ] **⚠ FULL graphify rebuild with semantic extraction — NOT `--update`. Diagnosed 2026-08-29.**
+  Deferred by the developer to a later session; recorded here with the measurements so it is actionable rather
+  than a reminder.
+
+  **The problem is coverage, not configuration.** The enforcement config is already maximal — a `PreToolUse`
+  hook in `.claude/settings.json` runs `graphify hook-guard` on `Bash|Grep` **and** `Read|Glob`, firing on
+  essentially every lookup, plus the `CLAUDE.md` rule. **The graph is being consulted first and is returning
+  bad answers.** Measured node counts in `graphify-out/graph.json`:
+
+  | File | Lines | Nodes in graph |
+  |---|---|---|
+  | `District_Megasheets/01_Cancer/Cancer_Full_Extrapolation.md` | ~900 | **45** |
+  | `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md` | 3,459 (17 books) | **1** |
+  | `…_Villains_and_Antiheroes_-_DRAFT_Ideas.md` | 1,194 (4 books) | **7** |
+
+  **The two largest extraction files in the repo are indexed at roughly 1/45th the density of a comparable
+  district file.** Large consolidated files appear to be summarized into near-nothing by semantic extraction.
+  **Real consequence, 2026-08-29:** a graph query for Weiland's twelve shadow archetypes returned *Shadowrun*
+  and *Minmax Build* nodes, and I concluded the material was unextracted. It was — 585 lines of it, including
+  all twelve names with full profiles. **The book was then partly re-mined from source unnecessarily.**
+
+  **Two further findings from the same diagnosis:**
+  - **Raising `--budget` does not fix it.** Tested at 8000 against the default ~2000 on the same query: same
+    irrelevant start-nodes, still no hit. Truncation is a real but secondary problem; **coverage is primary.**
+  - **`graphify update .` is AST-only and costs no API calls** — meaning **it adds essentially nothing
+    semantically for a prose repo like this one.** If the repeated `/graphify .` runs took the update path,
+    that would explain why they appeared to accomplish nothing. **A rebuild must run full semantic extraction.**
+
+  **Also badly stale:** graph last built **2026-08-29 00:33**. None of that day's substantial new files —
+  `00f_Review_Panel.md`, `King_Warrior_Magician_Lover_Extraction.md`, `Book_Extraction_Index.md`, or the Scorpio
+  and Aries full passes — are in it at all (zero hits each).
+
+  **Interim workaround already in place:** `Reference/Real-World/Book_Extraction_Index.md` makes all 23 book
+  extractions findable without depending on the graph. **Grep the consolidated DRAFT files directly** rather
+  than querying for their contents until the rebuild lands.
+
+  **When rebuilding, worth testing:** whether splitting or chunking the two DRAFT files at extraction time
+  produces usable node density, since their current representation is the single worst coverage gap in the
+  graph.
+
 Two parallel threads were in progress across a run of Claude weekly-limit resets coinciding with power outages
 at the developer's home. Recorded here as a resume point in case of another outage.
 
