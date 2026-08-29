@@ -360,6 +360,19 @@ instruction to read carefully does not survive an author grading their own work.
 · fail · covered in substance, absent in term** — the third is normal, and **never insert a word to make the
 grep pass.**
 
+> ⚠ **And the counts are only as good as the strip. Verify it before you record anything.** *(Added
+> 2026-08-29, round 9.)* The same scan was run three times over nine districts and returned **three different
+> answers** — the terms never changed, only the boundary did. **The QA header must be exactly
+> `## QA — Completion Check` (eight districts use it; the Circuit's pass wrote something else and the strip
+> silently matched nothing, counting the whole QA block as findings).** Use **stems, not whole words** —
+> `funeral` does not match `funerary`, and `mortuary` was never on the list at all. **A 0 must be re-run
+> against its stem before it is recorded as anything.** Full procedure and the correct verification command —
+> the obvious one is wrong — in `00c` Gate 1.
+
+> ⚠ **Gate 9 runs twice now.** Inherited material at Step 1, **and the thresholds this pass itself just
+> wrote**, before the QA block. Gate 9 is eight for eight and **every firing was against the same inherited
+> defect class** — it has never been tested against a finding written under this methodology. See `00c`.
+
 **Gate 4 — swap against the partner most likely to survive**, not a convenient comparable. **Record which
 finding was weakest**, not just that the set passed.
 
@@ -409,8 +422,13 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
 
 **Recorded here because they are easy to stop seeing.**
 
-- **Self-audit error runs in one direction.** Every mis-reading of my own QA output across six districts
-  flattered the pass. Not one ran the other way. **Re-check specifically in the flattering direction.**
+- **Self-audit error was thought to run in one direction. Round 9 found it does not, and that is worse.**
+  Across six districts every mis-reading of my own QA output flattered the pass, and the rule was to re-check
+  in the flattering direction. **Then a round-9 re-scan ran *against* the pass — and was also wrong.** Three
+  runs of one scan gave three answers because the strip boundary was never specified or verified. **The
+  direction was never the real problem; an unverified instrument was.** A scan whose boundary is undefined
+  returns whatever the last edit happened to make it return, and the author will believe it either way.
+  **Re-check in both directions, and verify the tool before trusting either.**
 - **The prediction table is at twelve straight confirmations and should be read as house style, not evidence.**
   The predictions were written, the districts chosen, the passes run and the results graded by the same person.
   **The only prediction that ever failed did so on a countable fact; every survivor is interpretive.** Two
