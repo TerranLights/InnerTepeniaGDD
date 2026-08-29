@@ -1719,10 +1719,33 @@ The following folders under `Reference/Materials/books/` were not surveyed in th
 large: "we'll need to set aside Math_and_Computation/ for some other time, because that will probably eat
 up the rest of my allotment"), `Cpp/`, and the loose
 top-level singles (`Evolutionary Psychology and Information Systems Research.pdf`, `Human Universals -
-Donald E Brown`, `King-Warrior-Magician-Lover`, `Mythology - Matt Clayton`, `Some of the Dead Are Still
+Donald E Brown`, `King-Warrior-Magician-Lover` — **partially mined 2026-08-29, see its own section below**, `Mythology - Matt Clayton`, `Some of the Dead Are Still
 Breathing`, `sound_travelling_through_bone...`, `The Art of Character`, `The History of Our Universe in 21
 Stars`, `The Routledge International Handbook of Dialectical Thinking`). Flag for a future pass if the
 developer wants them included.
+
+## King, Warrior, Magician, Lover — Robert Moore & Douglas Gillette (1990) — partially mined 2026-08-29
+
+Reached for while building the district Review Panel, on the understanding that it had already been extracted.
+**It had not** — it sat on the uncataloged list above with only its filename recorded. The PDF in
+`Reference/Materials/books/` is an **image-only scan with zero extractable text** (`pdftotext` returns 0 words),
+so it was read visually, targeted by chapter.
+
+**Mined:** the four archetypal faculties and their **active-passive bipolar shadow** structure, which the book
+states is uniform across all four — **King** (shadows: the Tyrant / the Weakling), **Warrior** (the Sadist / the
+Masochist), **Magician** (the Manipulator / the Denying "Innocent" One), **Lover** (the Addict / the Impotent
+Lover) — with sourced characterizations of each pole. Book pp. 60-67, 88-91, 108-111, 132-139. Captured in full
+and in active use as a QA panel at
+`Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` §4b.
+
+**Not mined:** Part I entirely — the **boy-psychology precursors** to each faculty (ch. 3), "Masculine
+Potentials" (ch. 2), "Man Psychology" (ch. 4) — and the Conclusion's practical techniques for accessing the
+archetypes (p. 143 ff.). **The boy-psychology precursors are the obvious next pass**, since they would give the
+panel a developmental axis it currently lacks: what each faculty looks like before it matures.
+
+**Framing note for downstream use:** the book presents these as archetypes of *the mature masculine*. In the
+Review Panel they are used as **diagnostic axes for a place** — order, action, knowledge, connection — not as
+claims about gender, and are not written as gendered when applied.
 
 (`Memetics/` — 14 files — **was** covered, flagged 2026-07-20 by the developer as directly relevant to the
 Cryptograph Helix novel series alongside DNA computing; see its own section below.)

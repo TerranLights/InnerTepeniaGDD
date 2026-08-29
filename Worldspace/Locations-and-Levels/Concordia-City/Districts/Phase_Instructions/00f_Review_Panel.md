@@ -24,6 +24,9 @@ character work.
 - **John Truby, *The Anatomy of Story*** — the **character web** and **four-corner opposition**: characters
   defined by opposition to one another, pushed to corners so each attacks the same weakness from a genuinely
   different direction, each carrying a distinct cluster of values.
+- **Robert Moore & Douglas Gillette, *King, Warrior, Magician, Lover*** (1990) — four archetypal **faculties**,
+  each with an **active-passive bipolar shadow**. Added 2026-08-29; see §4b for the extraction note, because
+  unlike the other two **this book had not in fact been mined** when it was reached for.
 
 **Why this base rather than a list of social roles.** An invented roster drifts toward whatever the author
 happens to think of, and would need rebuilding for every medium and setting. **These archetypes are positions in
@@ -143,6 +146,101 @@ Two standing questions carry most of the value without needing the full twelve:
 
 ---
 
+## 4b. Panel D — the four faculties and their bipolar shadows *(Moore & Gillette)*
+
+**Extraction note, recorded honestly.** This book was reached for on the understanding that it had already been
+data-extracted. **It had not.** `Reference/Real-World/Book_TOC_Master_Reference.md` lists
+`King-Warrior-Magician-Lover` among the **uncataloged top-level singles**, explicitly "flag for a future pass" —
+only the filename was ever recorded. The PDF in `Reference/Materials/books/` is an **image-only scan** (zero
+extractable text), so the material below was read visually from the source and is quoted from it directly.
+**What follows is verified; the rest of the book is still unmined** — see the limits at the end of this section.
+
+**Why this panel is not redundant with Panel A.** Weiland's Flat Archetypes are **who is looking** — positions in
+a life. Moore & Gillette's four are **what is being examined** — faculties a whole thing needs in order to
+function. The two axes are orthogonal and compose: a Parent can ask the Lover's question, and should.
+
+> **A framing decision, stated rather than glossed.** The book presents these as archetypes of *the mature
+> masculine*. **Used here they are diagnostic axes for a place — order, action, knowledge, connection — not
+> claims about gender**, and nothing in this panel should be written as gendered when applied to a district, a
+> city, or a settlement.
+
+> **⚠ Terminology collision — read this before using both panels together.** Two names now appear in two
+> systems with different meanings, and conflating them will produce nonsense:
+>
+> | Term | In Weiland *(Panels A/B)* | In Moore & Gillette *(Panel D)* |
+> |---|---|---|
+> | **King** | a **Life Arc** — the passage of sacrificing personal power for the realm | a **faculty** — order, blessing, generativity |
+> | **Lover** | a **Flat Archetype** — a person oriented toward one other person | a **faculty** — connection, aliveness, vision |
+>
+> **Always name the system when using either term** — "the King *arc*" versus "the King *faculty*", "the Lover
+> *position*" versus "the Lover *faculty*". The Queen, Crone, Mage, Maiden, Hero, Child, Parent, Ruler, Elder
+> and Mentor are unambiguous; only these two collide.
+
+**The structure is uniform and the book says so outright:** each archetype "displays an **active-passive bipolar
+shadow structure**." One pole inflates and seizes; the other deflates and abdicates.
+
+| Faculty | In fullness | Active shadow | Passive shadow |
+|---|---|---|---|
+| **King** | order, blessing, generativity, stewardship of the whole | **The Tyrant** | **The Weakling** |
+| **Warrior** | disciplined action, boundary, transpersonal devotion | **The Sadist** | **The Masochist** |
+| **Magician** | knowledge, technique, insight, containment | **The Manipulator** | **The Denying "Innocent" One** |
+| **Lover** | connection, aliveness, sensuality, vision | **The Addict** | **The Impotent Lover** |
+
+### The four standing questions
+
+**The King — *does this place bless anyone?*** The archetype in fullness "sees others in all their talent and
+worth… honors them and promotes them," "minimizes punishment and maximizes praise," and is steward "not only for
+all people, but for the environment, the natural world." **Ask: who is seen and valued here, by what mechanism,
+and who is never noticed at all?** A place with no blessing mechanism has a real hole even when everything else
+works.
+
+**The Warrior — *can this place act, and can it stop?*** Discipline, boundary, and "transpersonal loyalty."
+**Ask: what can this place decide and execute; what will it refuse; and where does its detachment sit?** The
+book's warning is the useful part — detachment "does leave the door open to the 'demon' of cruelty."
+
+**The Magician — *who knows, and how does knowing pass?*** Thoughtfulness, technical proficiency, "detached
+knowledge of various possible outcomes and understanding of lines of force." **Ask: where is the specialist
+knowledge here, who holds it, and how does anyone else get it?**
+
+**The Lover — *is this place alive, and could anyone love it?*** Connection, sensuality, vision, "the imaging
+and visioning" without which "the people perish." **Ask: where is the beauty, the pleasure, the joy — and would
+a resident say they loved living here?** **This is the question the rest of the gate set never asks**, and it is
+the most likely single omission in a district written from structure outward.
+
+### The eight shadow questions — the adversarial bench
+
+These replace the generic passive/aggressive pair in §4 with eight specific, sourced accusations.
+
+- **The Tyrant** — *what does this place attack because it is new?* Sourced: he "hates all beauty, all
+  innocence, all strength, all talent, all life energy," because "he lacks inner structure and he is afraid —
+  terrified, really — of his own hidden weakness."
+- **The Weakling** — *where does this place abdicate?* The pole behind the Tyrant: without identification with
+  the role, "he feels he is nothing." **Ask where authority exists on paper and nobody is exercising it.**
+- **The Sadist** — *where is hardness admired past the point of function?* Note the book's link: the Sadist's
+  hatred of the weak is "really the Sadist's own hidden Masochist."
+- **The Masochist** — *where does this place absorb harm and call it virtue?*
+- **The Manipulator** — *who withholds what people need to know for their own well-being?* Sourced and precise:
+  he "maneuvers people by withholding from them information they may need," and "charges heavily for the little
+  information he does give, which is usually just enough to demonstrate his superiority."
+- **The Denying "Innocent" One** — *what does this place refuse to know that it already knows?* The most useful
+  of the eight for shadow work, and a different angle on `00d` than any existing gate.
+- **The Addict** — *what is this place lost in?* "Lostness… the victim of his own sensitivity," pursuing
+  intensity past function.
+- **The Impotent Lover** — *what has gone dead here?* "Flattened affect — lack of enthusiasm, lack of vividness,
+  lack of aliveness." **Ask this of any district that reads as competent and joyless.**
+
+### Limits of this extraction
+
+- **Verified from source:** the four faculties, the bipolar structure, all eight shadow-pole names, and the
+  characterizations quoted above (book pp. 60-67, 88-91, 108-111, 132-139).
+- **Not yet mined:** Part I's **boy-psychology precursors** — the immature forms that precede each faculty —
+  Chapter 2's "Masculine Potentials," Chapter 4's "Man Psychology," and the Conclusion's practical techniques
+  for accessing the archetypes. **These would deepen the panel and are the obvious next pass.**
+- **`Book_TOC_Master_Reference.md` has been updated** to record that this book is now partially mined rather
+  than uncataloged.
+
+---
+
 ## 5. Composition — Truby's four-corner rule, applied to the panel itself
 
 **Truby's four-corner opposition is a check on the panel, not on the location.** Its principle: four characters
@@ -216,11 +314,13 @@ standout should be.
    question**. Do not re-read it six times generally; reading against a single question is faster and much
    sharper.
 2. **Add the Passer-Through and the Neighbor**, always.
-3. **Pull in Life Arcs and Shadows** where the material touches them; record their silences.
-4. **Apply the four-corner check** (§5) before accepting the run.
-5. **Record only real objections**, then decide each explicitly: **accepted** (write it), **noted** (real but
+3. **Run the Lover's question every time** — *is this place alive, and could anyone love it?* It is the one
+   question no other gate asks, and the likeliest omission in any district built from structure outward.
+4. **Pull in Life Arcs, Faculties and Shadows** where the material touches them; record their silences.
+5. **Apply the four-corner check** (§5) before accepting the run.
+6. **Record only real objections**, then decide each explicitly: **accepted** (write it), **noted** (real but
    deferred — say why), **rejected** (say why; a position being wrong is a normal and useful result).
-6. **Panel-derived material becomes a normal Finding**, tagged so its provenance is visible.
+7. **Panel-derived material becomes a normal Finding**, tagged so its provenance is visible.
 
 **Output block**, appended after the QA block:
 
@@ -249,7 +349,8 @@ standout should be.
   should be carried there rather than rebuilt.
 - **Six mandatory positions is the practical ceiling for attentive use.** The Arcs and Shadows are a bench, not
   a checklist. Running all twenty-four on every district would produce shallower passes, not broader coverage.
-- **The per-archetype shadow and antagonist names still need pulling from the source** (§4).
+- **Weiland's per-archetype shadow and antagonist names still need pulling from the source** (§4). Moore &
+  Gillette's eight are now extracted and verified (§4b), but that book's Part I remains unmined.
 - **Positions drift toward the author's sympathies over repeated use.** The Neighbor and the shadows are the
   most prone to softening, because both are written to be unwelcome. Check periodically that they still bite.
 - **Aries's panel run (2026-08-29) predates this roster.** It was run against the earlier invented list of

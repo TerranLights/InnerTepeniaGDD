@@ -284,6 +284,14 @@ and the **twelve Shadows** (what does this place enable in someone already gone 
 **Truby's four-corner opposition is the check on the panel itself** — if three positions raised the same
 objection in different clothes, the panel has collapsed to one lens.
 
+**A fourth panel, added the same day, comes from Moore & Gillette's *King, Warrior, Magician, Lover*:** four
+**faculties** a functioning place needs — order/blessing, disciplined action, knowledge, and aliveness — each
+with an active and a passive shadow (Tyrant/Weakling, Sadist/Masochist, Manipulator/Denying Innocent,
+Addict/Impotent Lover). Where Weiland's archetypes are *who is looking*, these are *what is being examined*, so
+they compose rather than compete. **Run the Lover faculty's question on every district without exception** —
+*is this place alive, and could anyone love it?* — because it is the one question no other gate in this file
+asks, and it is the likeliest omission in any district written from structure outward.
+
 **These are positions in a human life, not roles in a society or a studio**, which is why the roster carries
 unchanged to cities, nations, orbital settlements — and to novels and films as readily as to this game.
 
