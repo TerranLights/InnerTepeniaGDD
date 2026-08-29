@@ -180,6 +180,15 @@ also the district it is set against — so its weakness has a name, a location, 
 attached. **A deficit with an address produces inter-district politics; a diffuse one produces drift.** Check
 `F_Rulerships.md` for whether the missing faculties cluster anywhere before writing the consequence.
 
+**Libra supplied a fifth — *reciprocal plus an outside dependency* — and with it a refinement that matters more
+than the taxonomy: being addressed is not enough, because the *relationship type* decides whether the supply
+line functions.** Libra borrows individual authority from Leo easily (an easy affinity) and cannot borrow force
+from the Power Core at all (the district it is set against). **So a deficit addressed across an antagonism is
+functionally worse than a diffuse one** — the district can see precisely where the remedy is and cannot reach
+it, and what fills that gap is projection: the substrate notes Libra's disowned capacity for force gets
+attributed to Aries, filed and cross-referenced. **Ask not only *where* a deficit lives but *what stands
+between*.**
+
 **And Aquarius supplied a fourth: *reciprocal*, which is the most stuck of the four.** The faculty the Labs
 lacks is strongest in the district it is set against — **and that district lacks precisely what the Labs is
 built from.** Each holds exactly what the other needs. **Because there is no asymmetry, there is no petitioner**,

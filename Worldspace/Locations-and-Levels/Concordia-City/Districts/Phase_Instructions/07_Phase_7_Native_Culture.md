@@ -25,7 +25,57 @@ to know what to write *around*, not what to repeat.
 | 16 | **Human-Robot Relations** | How do the two populations actually coexist *here specifically*? Distinct from Phase 8: that is robot culture among robots; this is the relationship between the groups. |
 | 19 | **Underground / Counterculture** | What exists beneath or against the dominant culture? Who forms its backbone? How do mainstream and counterculture actually regard each other? |
 | 20 | **Private Life & Minority Communities** | What is the integration bargain? Public face vs. what lives behind closed doors? What has it cost, generationally? |
-| 26 | **Municipal Holidays** | Local civic observances distinct from Federation-wide holidays — occasion, rough time of year, public/ceremonial vs. private in character. |
+| 26 | **Municipal Holidays** |
+| — | **Death and the Dead** *(no template section — added 2026-08-29, see §1b)* | Local civic observances distinct from Federation-wide holidays — occasion, rough time of year, public/ceremonial vs. private in character. |
+
+---
+
+## 1b. ⚠ The eighth category — Death and the Dead *(added 2026-08-29; a real gap in the 32-section template)*
+
+**The 32-section template has no mortuary slot.** Not a thin one — **none.** Verified against the Plan's own
+"Complete template audit": there is no section for funerary practice, mourning, burial, remembrance, or what a
+district does with a body.
+
+**And the measured consequence across eight completed districts is unambiguous.** Findings-only counts, QA
+blocks stripped:
+
+| District | death | funeral | burial | mourn |
+|---|---|---|---|---|
+| Scorpio | **7** | 0 | **5** | 0 |
+| Aries | **4** | 0 | 0 | 0 |
+| Cancer | 3 | 0 | 0 | 1 |
+| Taurus | 1 | 1 | 0 | 1 |
+| Leo | 1 | 0 | 0 | 1 |
+| The Yards | 0 | 1 | 2 | 1 |
+| **The Labs** | **0** | **0** | **0** | **0** |
+| **The Government District** | **0** | **0** | **0** | **0** |
+
+**Death practice appears only where some *other* finding happened to drag it in.** Scorpio has it because
+mortuary work is its civic function; Aries because of the martyrs and the Silence Board; the Yards because the
+missing guild burial fund became a finding. **Where nothing else pulled it in, it is simply absent** — and
+**the template never asked.**
+
+**That is not a district-level omission. It is a hole in the instrument**, and it is the second one found
+*(the first: no phase covers inter-district relationships, `00e` §6)*.
+
+### The category, and the questions
+
+**Every human society has one.** This is not optional content and it is not only for districts with a
+death-adjacent function.
+
+- **What happens to a body here?** Concordia is sealed — **every district's answer is constrained by that**, and
+  no two need answer alike.
+- **Who does it?** A trade, a duty, a rotation, an outside service? *(Scorpio's body-breakers are one answer;
+  the Yards, which never developed a burial fund, is another.)*
+- **What is remembered, by whom, and for how long?** Distinguish the **record** from the **rite** — Aries sings
+  its dead and keeps no archive; Libra keeps everything and marks nothing.
+- **Who is not mourned properly, and why not?** The most productive of these, and usually a shadow finding.
+- **And the two districts scoring zero have the sharpest unanswered versions:** the Labs runs a thirty-year
+  closed experiment on residents who live inside it; **Libra legislated how long other people may grieve** and
+  has no stated practice for its own dead.
+
+**Back-filling the eight completed districts is now a real outstanding task**, not a tidy-up. It is recorded in
+the Plan.
 
 ---
 

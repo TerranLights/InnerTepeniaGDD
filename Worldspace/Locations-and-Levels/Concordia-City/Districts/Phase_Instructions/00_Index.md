@@ -473,3 +473,63 @@ is missing?** If not, it is a hole, however elegant the silence looks. → `00c`
 - **The prediction table is at eighteen straight confirmations** and has been flagged for three rounds without
   either remedy being applied. It should be read as house style. **The Law 0 case above is the first real
   result about a rule this project has produced**, and it was obtained by accident rather than by design.
+
+
+---
+
+## Seventh round of updates — eight districts, and a second hole in the instrument (2026-08-29)
+
+Libra was the fifth Mode B run and the first pass in which **every** Inspirational-Influences pick was
+researched at the concrete level — four of four, **all four of which changed findings rather than ornamenting
+them.** But the round's most consequential result came from noticing that a QA outcome had repeated.
+
+### The template has no category for death, and this is measurable
+
+`funeral`/`death` came back **absent and unexplained** on two consecutive districts. Checking rather than
+assuming coincidence: **the 32-section template has no mortuary slot at all** — not a thin one, none — verified
+against the Plan's own audit. And the coverage data across all eight completed districts is unambiguous
+(findings only, QA blocks stripped):
+
+**Scorpio 7 · Aries 4 · Cancer 3 · Taurus 1 · Leo 1 · the Yards 0-2 · the Labs 0 · the Government District 0.**
+
+**Death practice appears only where some *other* finding happened to drag it in** — Scorpio because mortuary
+work is its civic function, Aries because of the martyrs, the Yards because the missing guild burial fund became
+a finding. **Where nothing else pulled it in, it is absent, and the instrument never asked.**
+
+**That is the second structural hole found in the Plan**, after *no phase covers inter-district relationships*.
+→ New Phase 7 category with its questions at `07_Phase_7` §1b; **back-filling all eight completed districts is
+now a recorded task in the Plan**, not a tidy-up. The two sharpest unanswered versions are the Labs (a
+thirty-year closed experiment on residents who live inside it) and Libra (**legislated how long other people may
+grieve; no stated practice for its own dead**).
+
+### Being addressed is not enough — the relationship type decides
+
+**A refinement worth more than the fifth configuration it came with.** Libra's deficits are both addressed:
+force in **the Power Core, the district it is set against**; individual authority in **Leo, an easy affinity**.
+**Result: it borrows faces from Leo readily and cannot borrow hands from Aries at all.** So **a deficit
+addressed across an antagonism is functionally worse than a diffuse one** — the district can see exactly where
+the remedy is and cannot reach it, and what fills the gap is projection. **Ask not only where a deficit lives
+but what stands between.** → `00e` §5.
+
+### Check canon for an existing no-villain mechanism before deriving one
+
+Canon already contained Libra's: *"No one at Libra ever compiled a deliberate dossier system. Instead, four
+separate strands of Libra's own thorough, two-centuries-long record-keeping culture"* converged. **A complete
+no-villain shadow, written before this methodology existed.** Where canon supplies the mechanism, the pass's job
+is to explain **why that district was the one it happened to** — not to invent a parallel. **Third instance of
+the same rule**, after countercultures and religions: **check before deriving.** → `00d`.
+
+### Smaller
+
+- **A panel run can produce no standalone finding and still be a success.** Libra's produced none; two accepted
+  objections **folded into existing findings.** That is the panel working on a pass that was already sound.
+  → `00f` §8.
+- **A second shadow position returned "not guilty"** — the Tyrant found nothing in Libra, as the Detached
+  Manipulator found nothing in the Labs. **Negative shadow results narrow what a player should be looking for**
+  and are accumulating usefully.
+- **Three complete four-term rows now exist** (the Power Core, the Yards, the Government District) and they
+  produced three unrelated failures — *cannot price or schedule*, *cannot say what for*, *cannot enforce or be
+  accountable*. **The shape does not determine the answer**, which is the same lesson the double-absence pair
+  taught, now confirmed on the other shape.
+- **Research yield is now trackable.** Libra 4/4 changed findings; Aquarius 4 of 6 did; the *changed-or-
+  ornamented* test is doing real work and should keep being recorded per district.

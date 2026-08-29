@@ -273,6 +273,10 @@ ones.
   it? **The Phase 5 seed technique is Mode A only.** **Do not default to a refusal:** a counterculture can
   refuse, can *add* what the district cannot do (the Tally), or can **demand the district's own rule be applied
   more literally than the mainstream does** (the Recalibration Underground).
+- **Phase 7 has an eighth category the template omits: Death and the Dead** (`07_Phase_7` §1b, added
+  2026-08-29). **The 32-section template has no mortuary slot at all**, and measured across eight districts,
+  death practice appears only where some other finding dragged it in — **two districts scored zero on every
+  term.** Every society has one; write it deliberately.
 - **Phase 2 religion: use the Naming technique before inventing.** *(6 for 6.)* Search canon for religious
   register attached to non-religious objects. **It does not always return a religion** — a district that already
   has one yields a *stake*, a *compact*, or a *creed* instead.

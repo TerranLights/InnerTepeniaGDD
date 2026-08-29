@@ -579,7 +579,11 @@ standout should be.
    explicitly: **accepted** (write it), **noted** (real but deferred — say why), **rejected** (say why; a
    position being wrong is a normal and useful result), or — where two positions conflict and both are right —
    **refereed** (§4d: state what each is right about, where each overreaches, and write the settlement).
-7. **Panel-derived material becomes a normal Finding**, tagged so its provenance is visible.
+7. **Panel-derived material becomes a normal Finding**, tagged so its provenance is visible — **or it
+   strengthens an existing one, which is an equally good outcome.** *(Added 2026-08-29: Libra's run produced
+   **no standalone finding at all**; two accepted objections folded into existing Findings instead. That is the
+   panel working on a pass that was already sound, and it should be recorded as a result rather than read as a
+   weak run.)*
 
 **Output block**, appended after the QA block:
 

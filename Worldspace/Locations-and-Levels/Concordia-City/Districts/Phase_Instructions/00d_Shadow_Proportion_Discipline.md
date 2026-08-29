@@ -50,6 +50,19 @@ actually said about failure modes — those sections are dense on purpose. **Tha
 extraction, not a statement about how much of a district is shadow.** Applying a substrate file proportionally
 to its own section lengths will produce a district that is 40% pathology, which is wrong.
 
+## Check canon for an existing no-villain mechanism before deriving one
+
+**Added 2026-08-29, from Libra.** Canon sometimes already contains the mechanism, fully formed, and deriving a
+second one wastes the work and risks contradicting it. `District_Canon_Reference.md` says of the Surveillance
+Files: ***"No one at Libra ever compiled a deliberate dossier system. Instead, four separate strands of Libra's
+own thorough, two-centuries-long record-keeping culture"*** converged into one. **That is a complete no-villain
+shadow — no author, no decision, no malice — written before this methodology existed.**
+
+**So search the district's Canon Reference for its existing shadow material first.** Where canon already
+supplies the mechanism, the pass's job is to explain **why that district was the one it happened to** — which is
+what the capability reading is for — not to invent a parallel. *(Same rule as for countercultures in
+`07_Phase_7` Step C and religions in `02_Phase_2` §8: **check before deriving.**)*
+
 ## The model to copy
 
 **Capricorn's "The Narrow Door"** (`../Deep_Dives/06b_Capricorn_Alternative_Conditions.md`) is the standard.

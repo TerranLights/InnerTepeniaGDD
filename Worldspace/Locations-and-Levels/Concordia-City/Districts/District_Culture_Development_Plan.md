@@ -599,6 +599,13 @@ for the "already has it" districts needing promotion rather than fresh writing) 
 - [ ] Phase 7 — Native Culture (8/13 done: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra; 5 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
 - [x] Phase 8 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/08...md` §1
 - [ ] Phase 8 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
+- [ ] **⚠ BACK-FILL: Death and the Dead, all 8 completed districts.** *(New 2026-08-29.)* **The 32-section
+  template has no mortuary category** — verified against the audit above. Measured across the eight completed
+  districts, death practice appears **only where another finding dragged it in** (Scorpio 7 mentions, Aries 4,
+  Cancer 3), and **the Labs and the Government District score zero on every term.** Every society has funerary
+  practice; the instrument simply never asked. Category and questions now at
+  `Phase_Instructions/07_Phase_7_Native_Culture.md` §1b. **Sharpest two:** the Labs runs a thirty-year closed
+  experiment on residents, and Libra legislated how long others may grieve and has no practice for its own dead.
 - [ ] **QA Completion Check** (8/13 passed: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra; 5 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
 
 Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
