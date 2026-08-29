@@ -141,6 +141,58 @@ The orbital case has to differ from the Tepenian surface case **specifically**, 
 
 ---
 
+---
+
+## The founding wound — ESTABLISHED CANON, 2026-08-29
+
+**Orbit watched the Long Night War happen, and was helpless to intervene. They watched their own progenitive —
+or sister — civilization die, and were powerless to help.**
+
+This is orbital society's founding trauma, and it should be treated with the same structural weight that
+Concordia's districts give the original exile: the thing the whole culture is a response to.
+
+**Note the distinction from every Tepenian surface culture.** Concordia's districts are built by and for
+*survivors* — people who were in it. Orbit's population was **not** in it. They are not survivors; they are
+**witnesses**. That is a different wound and it produces a different people. Surface Tepenia carries what was
+done to it. Orbit carries what it watched and could not stop.
+
+**One open question, flagged by the developer and worth deciding deliberately:** whether Tepenia is orbit's
+**progenitor** (parent — orbit descends from it) or its **sister** (peer — the two grew up alongside each
+other). The emotional shape differs sharply: failing a parent is not the same as failing a sibling, and the
+answer will colour everything from mourning customs to how orbital residents talk about the surface today.
+
+### Consequences worth building from — EXTRAPOLATION, not yet canon
+
+Offered as candidates. None of this is settled; pick deliberately rather than adopting the list.
+
+- **Perfect observation, zero agency.** Orbit had the best vantage point in existence. It plausibly holds the
+  **most complete record of the Long Night War anywhere** — observation data about Tepenia's own destruction
+  that Tepenia itself does not have. Combined with the pre-war archive point above, this makes orbit a
+  potentially decisive witness to events the surface has only fragmentary memory of.
+- **Two opposite cultural responses, both plausible — pick one, or split them across locations.** Either an
+  obsessive **witness/documentation culture** (if you could not act, you can at least record, completely and
+  forever), or its inverse, a **taboo on watching** — a people who turned the cameras away and built a norm
+  against looking down. Different orbital locations answering this differently would be an excellent source of
+  the plural divergence Phase 3 needs.
+- **"Never helpless again" as a civic imperative** — or its opposite, a settled fatalism about reach. Both are
+  coherent responses to the same event.
+- **They grieved a civilization that did not entirely die.** Tepenia survived, wounded. So orbit's mourning was
+  in some measure *premature* — accurate about the death of the old Tepenia, wrong about the people. What do
+  you do with completed grief for the not-quite-dead?
+- **And they may still not know how much survived.** The war degraded transmission precisely when they most
+  needed to check. A population that watched a civilization die, lost the ability to confirm it, and has been
+  living with an unresolved question ever since is a genuinely distinctive starting condition — and it makes
+  any surface-orbit contact in the present enormously charged.
+- **Individual relationships crossed the gap regardless.** Established canon already has people on both sides
+  of it: a Zukelli-descended refugee fled *to* orbit for gravity-related medical relief (TCY-45 seed), and a
+  surface researcher's life work is sending farming schematics *up* (STP-06). Whatever the civilizational
+  trauma, ordinary personal ties persisted through and after it.
+
+**Left open:** *why* they were helpless — no descent capability, no capacity to affect ground events, deliberate
+non-intervention, or something else. The emotional core is fixed; the mechanism is not.
+
+---
+
 ## Method files that carry over unchanged
 
 These are derivation engines, not real-world-research tools, so the absence of an orbital analog does not
