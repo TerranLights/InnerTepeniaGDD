@@ -158,7 +158,8 @@ professional performers are not its general musical culture.
 | 05 Aries | **Done 2026-08-29** — second Mode B district |
 | 06 Capricorn | **Done 2026-08-29** — third Mode B district; first Review Panel run on the archetype roster |
 | 07 Aquarius | **Done 2026-08-29** — fourth Mode B district; first run under LAW 0 |
-| 08-13 | Not started |
+| 08 Libra | **Done 2026-08-29** — fifth Mode B district; first complete research set (4/4) |
+| 09-13 | Not started |
 
 ---
 

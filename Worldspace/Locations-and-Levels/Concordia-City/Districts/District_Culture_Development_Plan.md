@@ -491,18 +491,28 @@ entry = needs full development from scratch.
 - **QA Completion Check — PASSED 2026-08-29**, Gates 0-10. Gate 9 failed → Finding XVII (**sixth consecutive district, again pre-Plan material**). **`funeral`/`death` flagged as the largest remaining hole** — a thirty-year closed experiment on residents has an unanswered question about what happens when one dies.
 - **First district with a *reciprocal* deficit** — it and Leo each hold exactly what the other lacks, and neither will ask.
 
-### 08 — Libra
-- Export Culture **+** (has it, but only in `README.md`/`Libra_Mega_Init.md` — promote into a proper
-  Full_Extrapolation Finding as part of Phase 1, don't rewrite from scratch)
-- Architecture — needed
-- Sensory Profile — needed
-- Religious/Philosophical Landscape — needed
-- Fashion — needed
-- Arcanet Culture (dedicated) — needed
-- Visitor Experience / Visitor-to-Resident Transition — needed
-- Ordinary Daily Life — needed (Phase 5)
-- Thematic Breadth Catalog — needed (Phase 6)
-- Robot-Specific Culture — needed (Phase 8)
+### 08 — Libra (The Government District) — **ALL 8 PHASES COMPLETE + QA PASSED (2026-08-29)** — *fifth Mode B district*
+
+> **Gate 0: PASS**, and the Plan's promote-don't-rewrite instruction for Export Culture was followed (Finding IV).
+> **THREE RESERVED ITEMS stand, none decided by the pass:** the **Perpetual Emergency's causation** (canon states
+> it cannot be answered; the substrate's third reading is recorded as available and **not adopted**), the
+> **carved-out-claw origin**, and the district's **in-fiction name**.
+> **All four picks researched at concrete level — the first complete set — and all four changed findings.**
+
+- Export Culture — **Done 2026-08-29** (Finding IV — *promoted* from README/Mega_Init; convening is the largest export, and enforcement is the one thing it cannot export)
+- Architecture — **Done 2026-08-29** (Finding V — no throne, no founder, bilateral symmetry, **the Empty Seat**)
+- Sensory Profile — **Done 2026-08-29** (Finding VI — deliberately the least striking district in Concordia, with one green light)
+- Religious/Philosophical Landscape — **Done 2026-08-29** (Finding VII — *justice is a mechanism, and a mechanism that admits exceptions is broken*; the seat-not-person rule)
+- Fashion — **Done 2026-08-29** (Finding VIII — understatement; rank invisible in dress by design)
+- Arcanet Culture (dedicated) — **Done 2026-08-29** (Finding IX — everything kept, nothing published; **the Files reframed**)
+- Visitor Experience / Transition — **Done 2026-08-29** (Finding X — fast entry, decades to comprehend; the demographic monoculture; conflict geometry written in)
+- Ordinary Daily Life — **Done 2026-08-29** (Finding XI, Phase 5 — the corridor as the social unit)
+- Thematic Breadth Catalog — **Done 2026-08-29** (Finding XII, Phase 6)
+- Native Culture — **Done 2026-08-29** (Findings XIII-XV, Phase 7 — a district that hosts; **all three holidays are somebody else's**)
+- Robot-Specific Culture — **Done 2026-08-29** (Finding XVI, Phase 8 — first-pass)
+- Substrate findings — **Done 2026-08-29** (Findings XVII-XIX)
+- **Review Panel — no standalone finding; two objections folded into existing findings**, a first. Two `unmet`.
+- **QA Completion Check — PASSED 2026-08-29**, Gates 0-10. Gate 9 failed → Finding XVIII (**seventh consecutive district, again pre-Plan**). **`funeral`/`death` absent and unexplained** — a district that legislated how long others may mourn has no stated practice for its own dead. Largest remaining hole.
 
 ### 09 — Gemini
 - Arcanet Culture **+** (incidental mentions in Full_Extrapolation/Mega_Init/README — promote into one
@@ -586,10 +596,10 @@ for the "already has it" districts needing promotion rather than fresh writing) 
 - [ ] Phase 4 — Visitor Experience / Visitor-to-Resident Transition (3/13 done: Cancer, Taurus, Leo; 10 new remain)
 - [ ] Phase 5 — Ordinary Daily Life (3/13 done: Cancer, Taurus, Leo; 10 new remain; pre-existing TODO item, `Weekly_To-Do_-_Current.md` lines 107-118)
 - [ ] Phase 6 — Thematic Breadth Catalog (3/13 done: Cancer, Taurus, Leo; 10 new remain; places/things/people-as-placeholders/settings per district)
-- [ ] Phase 7 — Native Culture (7/13 done: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius; 6 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
+- [ ] Phase 7 — Native Culture (8/13 done: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra; 5 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
 - [x] Phase 8 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/08...md` §1
 - [ ] Phase 8 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
-- [ ] **QA Completion Check** (7/13 passed: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius; 6 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
+- [ ] **QA Completion Check** (8/13 passed: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra; 5 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
 
 Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and
