@@ -138,11 +138,32 @@ Two standing questions carry most of the value without needing the full twelve:
 - **The aggressive shadow** — *What can be taken here by someone willing to be seen taking it? Who holds power
   that nobody is checking?*
 
-> **The individual twelve shadow and twelve antagonist names are not in the current extraction.** The DRAFT file
-> records that all six shadow chapters and all six antagonist-pair chapters were read and distilled, but the
-> per-archetype names were not carried into the extracted notes. **Pull them from the source before using the
-> full roster** — `to-be-integrated/books/long-term_reference/Writing Archetypal Character Arcs…epub`. Until
-> then use the passive/aggressive pair above, which is the structural distinction that matters.
+> **Correction, 2026-08-29 — an earlier version of this section wrongly said the twelve shadow names were not
+> extracted.** They are, in full, with individual psychological profiles, at
+> `Worldspace/Characters/Dolls/Character_Development_Methodology_-_DRAFT_Ideas.md` **line 2332 onward** (section:
+> *"The Twelve Shadow Archetypes, Individually — full psychological profiles"*). I failed to find them because I
+> searched the graph rather than the file; see `Reference/Real-World/Book_Extraction_Index.md`, which exists to
+> stop that recurring.
+
+**The twelve, for use here** *(passive / aggressive per arc)*:
+
+| Life Arc | Passive shadow | Aggressive shadow |
+|---|---|---|
+| Maiden | Damsel | Vixen |
+| Hero | Coward | Bully |
+| Queen | Snow Queen | Sorceress |
+| King | Puppet | Tyrant |
+| Crone | Hermit | Witch |
+| Mage | Miser | Sorcerer |
+
+**Each has a full profile at the line above** — use those rather than the names alone; several carry specific
+mechanics worth applying to a place (the Sorceress's multi-generational dependency trap; the Snow Queen's
+externally-catalysed thaw; the Coward whose beliefs *"literally comprise the Hero's own Lie"*).
+
+> **And note the convergence with Panel D**, which is not trivial: Weiland and Moore & Gillette, written
+> independently, both give the **Hero** a **Coward / Bully** shadow pair and the **King** a **Tyrant** — and both
+> organize every shadow as an **active-versus-passive bipolar pair.** Two independent systems arriving at the
+> same structure is the strongest available argument for building this panel on that base.
 
 ---
 
@@ -544,8 +565,11 @@ standout should be.
   should be carried there rather than rebuilt.
 - **Six mandatory positions is the practical ceiling for attentive use.** The Arcs and Shadows are a bench, not
   a checklist. Running all twenty-four on every district would produce shallower passes, not broader coverage.
-- **Weiland's per-archetype shadow and antagonist names still need pulling from the source** (§4). **Moore &
-  Gillette is now fully mined** — all sixteen archetypes (§4b, §4c) and the usable half of the Conclusion (§4d).
+- **Both base books are now fully available.** Weiland's twelve shadows are extracted with full profiles (§4,
+  corrected 2026-08-29); Moore & Gillette is fully mined (§4b, §4c, §4d). **The twelve Archetypal Antagonists**
+  are also extracted and remain the one part of Weiland's system this panel does not yet use.
+- **Before mining anything, check `Reference/Real-World/Book_Extraction_Index.md`.** Twenty-three books are
+  already extracted across three locations, and this file twice claimed material was missing that was not.
 - **Positions drift toward the author's sympathies over repeated use.** The Neighbor and the shadows are the
   most prone to softening, because both are written to be unwelcome. Check periodically that they still bite.
 - **Aries's panel run (2026-08-29) predates this roster.** It was run against the earlier invented list of
