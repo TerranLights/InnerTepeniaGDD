@@ -516,6 +516,32 @@ improvement, and not a second opinion.** Do not report its output as though some
 hostile. The Elder will insist on things that are not true. **Their objections are data about how the place is
 experienced, not verdicts on whether it is right.**
 
+**Rule 3 — A position is not guaranteed to get what it wants, and forcing the place to provide it is the single
+most damaging thing this panel can do.** *(Added 2026-08-29 at the developer's direction.)*
+
+A panelist raising a genuine want does **not** create an obligation on the location. Three of the outcomes are
+about the *writing*; this one is about the *place*:
+
+> **Before accepting any objection, ask: would satisfying this make the district more like the other twelve?**
+> **If yes, it is almost certainly `unmet`, not `accepted`.**
+
+**The failure mode this prevents, stated plainly.** Run eleven positions against thirteen districts and accept
+every want, and you will retrofit each district with a children's space, a courtship venue, an eldercare
+institution, a welfare route, a festival, and a place to be idle — **and you will have written thirteen
+districts that read the same.** Every one of those accommodations is individually reasonable. Together they are
+homogenization, and they would undo the entire point of a per-district methodology. **The panel exists to find
+what a place is, not to bring it up to a standard.**
+
+**A want that the location characteristically would not and should not satisfy is a finding about the
+location.** The Yards has nowhere purposeless to stand. The correct output is not *the Yards needs a commons* —
+it is *the Yards has no concept of purposeless space, and here is what that does to a childhood.* **The
+persona goes unsatisfied, and that is the answer.**
+
+**Test each objection against the district's own established character before deciding it**, exactly as Gate 4's
+Swap Test tests a finding. This is the panel's version of the same discipline, and it answers to the same
+standing rule: **never carry one location's answers into another** — including answers the panel itself
+supplied.
+
 ---
 
 ## 8. How to run it
@@ -544,6 +570,7 @@ standout should be.
 
 **Run YYYY-MM-DD.** Flat Archetypes cast as: Child = …, Lover = …, …
 - **The Parent** (cast as …) — <objection> · *inconsistency* → accepted, Finding NN
+- **The Child** (cast as …) — <objection> · *addition* → **unmet** — the district would not provide this; recorded as characterization in Finding NN
 - **The Lover** — no comment.
 - **The Passer-Through** — <what they saw> → PASS / fails on <which mode>
 **Life Arcs consulted:** … **Silences recorded:** …
@@ -570,6 +597,10 @@ standout should be.
   are also extracted and remain the one part of Weiland's system this panel does not yet use.
 - **Before mining anything, check `Reference/Real-World/Book_Extraction_Index.md`.** Twenty-three books are
   already extracted across three locations, and this file twice claimed material was missing that was not.
+- **The `unmet` disposition should be common, and if it never appears the panel is being run wrong.** A
+  location that satisfies every position on the panel has no character. Expect several `unmet` results per
+  district, and expect the interesting ones to cluster on the positions the district is worst equipped for —
+  which is exactly where its identity is sharpest.
 - **Positions drift toward the author's sympathies over repeated use.** The Neighbor and the shadows are the
   most prone to softening, because both are written to be unwelcome. Check periodically that they still bite.
 - **Aries's panel run (2026-08-29) predates this roster.** It was run against the earlier invented list of

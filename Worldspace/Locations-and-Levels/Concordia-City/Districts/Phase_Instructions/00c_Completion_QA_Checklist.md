@@ -295,9 +295,17 @@ asks, and it is the likeliest omission in any district written from structure ou
 **These are positions in a human life, not roles in a society or a studio**, which is why the roster carries
 unchanged to cities, nations, orbital settlements — and to novels and films as readily as to this game.
 
-**Two rules, both load-bearing:** a position with nothing to say **says nothing** (manufacturing objections to
-fill slots is the failure mode), and reviewers are **not required to be fair or right** — the Neighbor From
-Across the Line is biased by design, and the Shadows are hostile by definition. Record the objection, then decide it: **accepted**, **noted**, or **rejected**, each with a reason.
+**Three rules, all load-bearing:** a position with nothing to say **says nothing** (manufacturing objections to
+fill slots is the failure mode); reviewers are **not required to be fair or right** — the Neighbor From Across
+the Line is biased by design, and the Shadows are hostile by definition; and **a position is not guaranteed to
+get what it wants.**
+
+**That third rule is the one most likely to be violated, and the most damaging when it is.** Before accepting
+any objection, ask whether satisfying it would make this district **more like the other twelve** — because
+accepting every reasonable want across eleven positions and thirteen districts retrofits each of them with a
+children's space, a courtship venue, an eldercare route and a festival, and produces thirteen districts that
+read the same. **A want the location characteristically would not satisfy is a finding about the location**, and
+is recorded with the **`unmet`** disposition rather than treated as a gap to close. Record the objection, then decide it: **accepted**, **noted**, or **rejected**, each with a reason.
 
 **Honest scope:** this reduces single-lens bias; it does not make the review independent, since the same author
 writes both the district and the panel. Do not report its output as a second opinion.

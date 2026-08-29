@@ -678,6 +678,13 @@ kind of structure here.**
 positions that were not looking for it. Not a tragedy. A district where a great deal of life happens, all of it
 alongside work, and nobody has ever stood anywhere purposeless long enough to notice the shape of it.
 
+> **Explicitly not a to-do list** *(per `00f` Rule 3)*. **The Yards should not be given a commons, a courtship
+> venue, or an aesthetic life outside craft.** Three panel positions wanted those things and correctly did not
+> get them; the district is characteristically incapable of generating any of them, and supplying them would
+> make it read like everywhere else. **The finding is the absence and what the absence does to a life here** —
+> a childhood conducted inside working structures, a courtship conducted at a shared bench over years, and a
+> people who can find a joint beautiful and have no idea what to do with a view.
+
 ---
 
 ## XXII. Panel-derived — refereed: stopping on time is honored, stopping by choice has no vocabulary (Review Panel)
@@ -784,14 +791,26 @@ its proper archetype roster** (`00f`, rebuilt earlier the same day).
 **Elder** = a retiree; **Mentor** = a sponsoring master. Plus the mandatory **Passer-Through**, the **Neighbor**
 (the Sanctuary), and the **Lover faculty**.
 
-- **The Child** — *"There is nowhere to go that isn't for something."* · **addition** → **accepted, Finding XXI.**
-- **The Lover** — *"Where would we go?"* · **addition** → **accepted, Finding XXI.**
+- **The Child** — *"There is nowhere to go that isn't for something."* · **addition** → **UNMET**, written up
+  as characterization in **Finding XXI**.
+- **The Lover** — *"Where would we go?"* · **addition** → **UNMET**, Finding XXI.
 - **The Lover faculty** *(mandatory)* — *"You can find a joint beautiful and nothing else."* · **doubt** →
-  **accepted, Finding XXI.** The faculty question earned its mandatory status on first use.
-- **The Parent** — *"Who has my child during a shift?"* · **addition** → **noted, partially merged.** The
-  distinct angle is institutional rather than spatial and it is real — Finding XV(c) records childcare as the
-  district's least-developed institution. **Recorded honestly as a partial four-corner collapse:** the Parent's
-  objection is close enough to the Child's that it was not counted as an independent corner.
+  **UNMET**, Finding XXI. The faculty question earned its mandatory status on first use.
+- **The Parent** — *"Who has my child during a shift?"* · **addition** → **UNMET.** The distinct angle is
+  institutional rather than spatial and it is real — Finding XV(c) records childcare as the district's
+  least-developed institution — **but the Yards is not going to build a crèche and should not be given one.**
+  A district that openly admits it *"cannot relate to young children"* having a thin childcare institution is
+  **characteristic, not deficient.** *(Also recorded honestly as a partial four-corner collapse: the Parent's
+  objection is close enough to the Child's that it was not counted as an independent corner.)*
+
+> **Disposition correction, 2026-08-29 — this run predates Rule 3 and was re-graded against it.** The four
+> objections above were originally recorded as `accepted` / `noted`. **All four are `unmet`.** Every one names
+> something the Yards genuinely lacks and genuinely would not provide: a commons, a courtship venue, an
+> aesthetic vocabulary outside craft, a childcare institution. **Satisfying any of them would have made the
+> Yards more like the other twelve districts**, which is exactly the test Rule 3 now requires. The findings
+> themselves were already written as characterization rather than as gaps and stand unchanged; **only the
+> dispositions were wrong, and the mislabelling is the kind that would have licensed a later pass to "fix" the
+> district.**
 - **The Elder** — *"I stopped, and I am happy. Your Finding XIX is wrong."* · **inconsistency** →
   **REFEREED, Finding XXII.** First use of the disposition.
 - **The Mentor** *(a sponsoring master)* — *"I can give you honest grounds for every sponsorship I ever made."*
