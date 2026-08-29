@@ -1748,8 +1748,22 @@ Maya principle that boyhood structures are **built over rather than demolished**
 corrections to the first pass came out of Figure 1: the Magician's active shadow is the *Detached* Manipulator
 and the Lover's is the *Addicted* Lover.
 
-**Still unmined:** Chapter 1 ("The Crisis in Masculine Ritual Process") and the **Conclusion** (p. 143 ff.),
-which is the only remaining section likely to yield method rather than taxonomy. Low priority.
+**Conclusion checked and partly mined 2026-08-29 — third pass. This book is now finished for this project's
+purposes.** Roughly the first half is usable and is concentrated in the "Techniques → Active Imagination
+Dialogue" section: the **board-meeting framing** of a structured internal dialogue among differentiated
+positions (a striking independent convergence with the Review Panel's own mechanism), the **Ego-as-referee
+method** for adjudicating two positions that are *"both right, but both excessive"*, the discipline of writing
+each voice **uncensored before deciding it**, the sharpening that one must ask **how** a shadow manifests rather
+than **whether** it does, and the **persecutor stop-rule** (if the dialogue turns purely hostile, stop and
+invoke a positive form first). Also one design insight — shadow forms *"really want… to be noticed, honored,
+and taken seriously,"* and stop acting out once they are — and one worldbuilding line (p. 144) listing what a
+civilization calls the four faculties on to do.
+
+**Checked and deliberately not taken:** the other three techniques — **Invocation**, **Admiring Men**, and
+**Acting "As If"** — are personal-development practices for an individual accessing his own psyche and do not
+transfer to reviewing a place. The closing **"A Final Word"** is a polemic on contemporary gender politics and
+carries no method. **Chapter 1** ("The Crisis in Masculine Ritual Process") remains unread and is not expected
+to yield taxonomy or method beyond what Chapters 2-4 already gave.
 
 **Framing note for downstream use:** the book presents these as archetypes of *the mature masculine*. In the
 Review Panel they are used as **diagnostic axes for a place** — order, action, knowledge, connection — not as

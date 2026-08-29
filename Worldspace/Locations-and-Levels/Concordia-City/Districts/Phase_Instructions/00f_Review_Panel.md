@@ -347,6 +347,92 @@ second is getting the help we need."*
 
 ---
 
+---
+
+## 4d. Method from the Conclusion — how to run a panel of conflicting voices
+
+**Mined 2026-08-29.** The Conclusion was checked for usability and is **partly usable** — see the honest split at
+the end of this section. The usable part is unexpectedly valuable: **the book independently describes this
+panel's own mechanism**, and supplies the one thing `00f` was missing.
+
+### The convergence, recorded because it is not trivial
+
+The book's first technique is **active imagination dialogue**: the conscious Ego enters into deliberate
+conversation with other differentiated points of view, *"often… best to do this on paper, writing both the Ego's
+thoughts and feelings and the 'opponent's' thoughts and feelings **just as they come, without censoring
+them**."* And the framing it reaches for, unprompted, is exactly this file's: *"you may get in touch with more
+than one other point of view. **Treat the dialogue, then, as a board meeting, and listen to what everybody has
+to say.**"* Also *"as in any successful board meeting, we at least need to agree to disagree,"* and the modest
+promise that at minimum it will *"scope out the opposition and get most of the cards on the table."*
+
+**A book written in 1990 about individual psychology arrived at the same instrument for the same reason.** That
+is worth more than a citation: it means the mechanism is not an artifact of how this project happens to work.
+
+### What it adds — the referee method *(this file's real gap, now filled)*
+
+`00f` §8 says to decide each objection **accepted / noted / rejected**. **It never said what to do when two
+positions genuinely conflict and both are right.** The book's second worked dialogue supplies it: the Ego acts
+as **referee** between two archetypes in direct conflict, hears both out in full, and then rules —
+
+> *"You've each presented your point of view. Now, we've got to come to some kind of agreement. It seems to me
+> **you're both right, but both excessive.**"*
+
+— and then sets a limit on **each** rather than picking a winner. **Adopt this as the fourth disposition:
+`refereed`.** When two panelists conflict, do not choose. State what each is right about, state where each
+overreaches, and write the finding as the settlement. *(Note how well this composes with the both-are-true rule
+in `00e` §7 — same instinct, arriving from a different source.)*
+
+### Three disciplines worth taking
+
+**1. Ask *how*, not *whether*.** The Conclusion's stated first step is critical self-appraisal, and it is blunt
+about the wrong question: *"there is no use asking ourselves **if** the negative or shadow sides of the
+archetypes are showing up in our lives. The realistic, honest question we need to ask is **how** they are
+manifesting."* **Applied: never ask whether a district has a shadow. Ask how this district's shadow manifests.**
+This sharpens `00d` — a pass that concludes "no shadow here" has asked the wrong question.
+
+**2. Write the objection uncensored, in the position's own voice, *before* deciding it.** The technique's own
+instruction. A panelist's objection recorded as a tidy summary has already been half-adjudicated; recorded in
+voice, it keeps its force and is likelier to survive into a finding.
+
+**3. The persecutor stop-rule — and it is `00d` arriving from another direction.** The book cautions that if the
+dialogue turns up *"a really hostile presence… so vicious that you will need support to continue,"* the correct
+move is to stop, and *"invoke a positive archetypal energy form **before you even open the dialogue**."*
+**Applied: if the shadow panelists are turning the district into pure pathology, stop, and re-run a faculty in
+its fullness first.** Shadow-proportion failure is a real and repeated risk in this project; this is a
+procedural guard against it.
+
+### One design insight, not a review technique
+
+*"Conducting a dialogue with inner 'opponents'… will defuse much of their power. What they — like all children —
+really want is to be **noticed, honored, and taken seriously**. And they have a right to be. Once they are
+honored, and their feelings validated, **they no longer need to act out through our lives**."*
+
+**Applied to a place rather than a psyche: a district's shadow behaviour often persists because the thing
+driving it has never been acknowledged, and stops when it is.** That is a questline engine rather than a QA
+tool — a resolution that requires no defeat of anyone, which suits this project's non-malice discipline
+exactly. Worth carrying to `Storyline/`.
+
+### What was checked and deliberately not taken
+
+**Recorded so nobody re-mines it hoping for more.** The Conclusion's remaining three techniques —
+**Invocation** (focused imaging, praying to an image of the archetype, candles and incense), **Admiring Men**
+(reading the biographies of admirable figures), and **Acting "As If"** (method-acting oneself into a faculty) —
+are **personal-development practices for an individual accessing his own psyche. None of them transfers to
+reviewing a place**, and forcing them to would produce exactly the kind of decorative pseudo-method this
+methodology keeps trying to avoid.
+
+The closing **"A Final Word"** is a polemic about contemporary gender politics, and carries no method. Not
+taken.
+
+**Also noted, one genuinely useful line from p. 144 that belongs to worldbuilding rather than to this panel:**
+the four faculties are described as what a civilization calls on *"to organize laws out of chaos, to stimulate
+enormous outpourings of creativity and generativity (like those that produced early civilizations), to gain
+some capacity to steward nature, both inner and outer, and to arouse tender appreciation and relatedness."*
+**That is a four-part test for whether an invented civilization is complete**, and it should be picked up by the
+universal location methodology rather than here.
+
+---
+
 ## 5. Composition — Truby's four-corner rule, applied to the panel itself
 
 **Truby's four-corner opposition is a check on the panel, not on the location.** Its principle: four characters
@@ -424,8 +510,10 @@ standout should be.
    question no other gate asks, and the likeliest omission in any district built from structure outward.
 4. **Pull in Life Arcs, Faculties and Shadows** where the material touches them; record their silences.
 5. **Apply the four-corner check** (§5) before accepting the run.
-6. **Record only real objections**, then decide each explicitly: **accepted** (write it), **noted** (real but
-   deferred — say why), **rejected** (say why; a position being wrong is a normal and useful result).
+6. **Record only real objections**, **in the position's own voice and uncensored** (§4d), then decide each
+   explicitly: **accepted** (write it), **noted** (real but deferred — say why), **rejected** (say why; a
+   position being wrong is a normal and useful result), or — where two positions conflict and both are right —
+   **refereed** (§4d: state what each is right about, where each overreaches, and write the settlement).
 7. **Panel-derived material becomes a normal Finding**, tagged so its provenance is visible.
 
 **Output block**, appended after the QA block:
@@ -438,6 +526,7 @@ standout should be.
 - **The Lover** — no comment.
 - **The Passer-Through** — <what they saw> → PASS / fails on <which mode>
 **Life Arcs consulted:** … **Silences recorded:** …
+**Refereed conflicts:** <position> vs <position> → settlement …
 **Four-corner check:** <did the objections come from different directions?>
 **Panel-derived findings:** NN, NN.
 **Standing objections not resolved:** …
@@ -455,8 +544,8 @@ standout should be.
   should be carried there rather than rebuilt.
 - **Six mandatory positions is the practical ceiling for attentive use.** The Arcs and Shadows are a bench, not
   a checklist. Running all twenty-four on every district would produce shallower passes, not broader coverage.
-- **Weiland's per-archetype shadow and antagonist names still need pulling from the source** (§4). Moore &
-  Gillette's eight are now extracted and verified (§4b), but that book's Part I remains unmined.
+- **Weiland's per-archetype shadow and antagonist names still need pulling from the source** (§4). **Moore &
+  Gillette is now fully mined** — all sixteen archetypes (§4b, §4c) and the usable half of the Conclusion (§4d).
 - **Positions drift toward the author's sympathies over repeated use.** The Neighbor and the shadows are the
   most prone to softening, because both are written to be unwelcome. Check periodically that they still bite.
 - **Aries's panel run (2026-08-29) predates this roster.** It was run against the earlier invented list of
