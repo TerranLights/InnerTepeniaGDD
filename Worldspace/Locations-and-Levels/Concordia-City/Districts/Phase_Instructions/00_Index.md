@@ -52,6 +52,9 @@ least one is wrong.
 0. `00b_General_Population_Discipline.md` — cross-phase discipline, read first, every phase, every district
 0. `00d_Shadow_Proportion_Discipline.md` — **the Shadow is a byproduct, never the district's operating
    principle.** Also read first. Prevents a well-sourced pass from rendering a district as sinister.
+0. `00e_Substrate_Application_Pass.md` — how to apply `../Zodiac_Personality_Substrate/` to a district.
+   Two modes (second pass for Cancer/Taurus/Leo, first-pass input for the other ten), the overlap check that
+   stops it becoming a re-labelling exercise, the capability reading, and the translation discipline.
 0. `00c_Completion_QA_Checklist.md` — the closing gate; a district is complete only when it passes all 8 gates
 1. `01_Phase_1_Lived-in_Texture.md` — Architecture, Sensory Profile, Export Culture
 2. `02_Phase_2_Identity_and_Meaning.md` — Religious/Philosophical Landscape, Fashion

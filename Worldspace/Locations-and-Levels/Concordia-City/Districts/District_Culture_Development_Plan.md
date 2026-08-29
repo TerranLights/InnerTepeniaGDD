@@ -126,6 +126,12 @@ Persistence, Negative Image, Native Before Transplanted, Unused-Tier Mine, Popul
 divergence table showing the same operation producing unlike results in unlike places. The phase files say what
 to cover; the toolkit says how to invent it. **Never carry one district's answers into another.**
 
+**For applying the zodiac personality substrate, see `Phase_Instructions/00e_Substrate_Application_Pass.md`**
+(added 2026-08-29). `Zodiac_Personality_Substrate/` mines eight astrology texts into a per-district design
+reference — temperament, capability profile, shadow, material texture, and a complete inter-district conflict
+geometry. It is **out-of-fiction design shorthand only** and applies to Concordia's districts and nothing else
+in the setting. `00e` is the repeatable procedure for using it; Cancer's own file carries the worked example.
+
 **For extensive, phase-by-phase how-to instructions, see `Phase_Instructions/`** (added 2026-08-16) — one
 dedicated, self-contained file per phase (`00_Index.md` plus `01_Phase_1_...md` through `08_Phase_8_...md`),
 each going far deeper than this section into category definitions, sources, step-by-step process, per-district
