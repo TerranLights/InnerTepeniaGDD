@@ -127,11 +127,23 @@ are easy to repeat if this folder is ever extended.
 
 Distinct from our own defects above. Reported consistently and independently by nearly every agent:
 
-- **Almost nothing at collective or civic scale.** These books describe individual psychology and one-to-one
-  compatibility. They do not describe what a *population* of a temperament does, how it governs, or what
-  institutions it builds. Every district-scale and institutional reading in this folder is therefore
-  **derivation**, and the per-sign files mark it as such. This is the single largest limitation of the whole
-  substrate.
+- **Very little at collective or civic scale — but treat this claim with care.** These books overwhelmingly
+  describe individual psychology and one-to-one compatibility rather than what a *population* of a temperament
+  does, how it governs, or what institutions it builds. Most district-scale and institutional readings in this
+  folder are therefore **derivation**, and the per-sign files mark them as such.
+
+  **Qualified 2026-08-29.** An early, emphatic version of this note called it "the single largest limitation of
+  the whole substrate." The supplement round showed that overstated: for Scorpio the "no civic or
+  collective-scale material" verdict turned out to be **partly a slicing artifact**, and the recovered text
+  contained institutional material after all (an employer loyalty-exclusivity rule, a two-stage tribe-admission
+  test, an eighth-house resources/estates assignment, and the corpus's only description of this type
+  *concentrated in numbers* — which is what a district actually is). Aquarius similarly gained six
+  institutional footholds it was previously reported as lacking entirely.
+
+  **The generalisable lesson, worth applying to any future pass:** a gap logged against a single source should
+  trigger an extraction check before it is trusted. Several confident "the corpus is silent on X" findings in
+  this folder were really "our slice was silent on X." The gaps that survived re-checking are real; the ones
+  recorded before the supplement round should be re-verified before anyone relies on them.
 - **Silva has real structural holes, not only slicing ones.** He has no dark-side or decan chapter for Virgo at
   all, and no "What Does the Aquarius Need?" chapter — confirmed against the fully reassembled text.
 - **Decans are weak.** Only two of eight books mention them.
