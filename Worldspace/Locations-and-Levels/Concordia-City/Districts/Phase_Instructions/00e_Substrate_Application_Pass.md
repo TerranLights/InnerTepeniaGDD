@@ -127,6 +127,26 @@ It produces flaws that feel *inevitable rather than assigned*, and — criticall
 villain**, which is what makes them compatible with this project's non-malice discipline and with
 `00d_Shadow_Proportion_Discipline.md`.
 
+### The row has a *shape*, and the shape tells you how to read it
+
+**Added 2026-08-29, after five districts.** The four completed capability readings did not differ only in
+content — they differed in **which cells were filled**, and that determined the whole procedure. Read the shape
+first, then apply the matching question. Every remaining district falls into one of these.
+
+| Shape | Districts so far | The question that unlocks it | What it produced |
+|---|---|---|---|
+| **Complete** — all four terms | Aries | *Where do the deficits live?* Two real strengths and two real deficits is a **balance**, not a gap; the finding is what the trade-off costs. | Cannot price or schedule; deficits concentrated in one named neighbour |
+| **One absence** | Taurus (no fall) | *What does it mean to lack this faculty entirely?* | Despises nothing → refuses nothing on principle → the city's donor district |
+| **Double absence** | Leo (no exaltation, no fall) | *What is the one instrument it does have?* The absence says it runs on a single faculty; it does not say which. | No fallback → no graceful degradation |
+| **Net-negative** — more deficits than strengths | Scorpio (no exaltation, two deficits) | *Does its civic function require the faculties it lacks?* | Care district whose weakest term is care |
+
+**And a question to ask of every row regardless of shape, which Aries produced and no earlier district
+raised: is the deficit *addressed* or *diffuse*?** Taurus's weakness makes it a donor to everyone — diffuse, no
+counterparty, no politics. **Aries's two deficits are both concentrated in a single other district**, which is
+also the district it is set against — so its weakness has a name, a location, and a permanent grievance
+attached. **A deficit with an address produces inter-district politics; a diffuse one produces drift.** Check
+`F_Rulerships.md` for whether the missing faculties cluster anywhere before writing the consequence.
+
 > **⚠ Three districts still to come share Leo's double absence — do not reuse Leo's answer.** Gemini,
 > Sagittarius and Aquarius also have neither an amplified capacity nor a rejected one. Leo's reading ("no second
 > instrument, therefore no graceful degradation") followed from *what its single strong faculty happens to be* —
@@ -160,6 +180,19 @@ between a capability note and a finding.
 
 **Sequence it deliberately: capability reading first, then research aimed at the gap it named.** Researching
 before you know the deficit produces interesting material with nowhere to attach.
+
+**And research does not only name the gap — it can supply the *substitute institution* that fills it.**
+*(Added 2026-08-29, from Aries.)* This is a larger claim than "research gives concrete texture," and it is now
+demonstrated. Aries has two structural holes: it keeps almost no institutional memory outside its operational
+layer, and it cannot price what it loses, so it cannot institutionally compensate for it. **Welsh coalfield
+choral practice — choirs founded after named disasters, for rehabilitation *and fundraising* — filled both at
+once.** The choirs became the district's archive *and* its compensation mechanism, and neither function was
+derivable from substrate or canon.
+
+**So when a capability reading leaves a district structurally unable to do something a functioning society
+needs, go looking for how a real culture that also lacked the formal institution did it anyway.** Real cultures
+are full of workarounds that no design process would invent, because they were evolved under the same
+constraint rather than designed around it.
 
 **Write it as a capability profile, not a diagnosis.** Two strong faculties and two weak ones, each stated as
 what the district can and cannot institutionally do — then one consequence that follows. In Cancer's case the
@@ -358,6 +391,24 @@ districts only.**
 | Strongest structural finding will come from the capability reading | **HELD** (4/4) — Finding XVIII. |
 | Will mention at most one geometric conflict partner in pre-Plan findings | **FAILED on the stated terms** — Scorpio mentions three. **The underlying claim survives in a sharper form:** every mention is a *sensory or architectural contrast* ("unlike Cancer's green humidity"), and **none is a relationship.** Districts do compare themselves to neighbors; they do not relate to them. Revised below rather than quietly restated. |
 | Contradictions will resolve both-are-true | **HELD** (5/5) — fixed objective, mobile method. |
+
+> **⚠ The predictions have stopped being a test, and this needs fixing before district six.**
+> *(Recorded 2026-08-29 after Aries returned six for six.)* Every prediction so far has been **written by the
+> same person who then chose the district, ran the pass, and graded the result.** That is not a test; it is a
+> checklist being satisfied. The one prediction that ever failed (the geometric-partner count, on Scorpio) failed
+> on a *countable* fact — which is precisely the kind a self-grader cannot fudge — while the ones that keep
+> holding are the interpretive ones. **Treat the current hit rate as evidence about the grader, not about the
+> rules.**
+>
+> **The designed falsification test, and it is sitting right there: run the Hub next, and run it to break these
+> rules rather than to confirm them.** `13_Ophiuchus_Hub.md` has no element, no modality, no aspects, and no
+> capability row at all. **Four of the six predictions below are inapplicable to it by construction and a fifth
+> is unlikely to hold.** That makes it the only district in the set that can genuinely falsify this methodology
+> rather than pad its record — and if the toolkit produces a good Hub anyway, that result is worth more than
+> five more confirmations.
+>
+> **Rule going forward: state, for each prediction, what observation would falsify it — before running the
+> pass — and pick districts that look least likely to conform rather than most.**
 
 **Revised and new predictions, for district five:**
 

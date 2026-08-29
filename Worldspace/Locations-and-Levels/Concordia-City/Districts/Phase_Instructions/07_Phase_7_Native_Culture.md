@@ -87,6 +87,15 @@ where its counterculture already lives.**
 > your own seed and then finding it. That is circular and yields a worse answer than deriving honestly.
 > **In Mode B, derive from Step C and treat any Phase 5 resonance as corroboration, not as the source.**
 
+> **Do not default to a refusal.** *(Added 2026-08-29, after four countercultures.)* Three of the four so far
+> are refusals — Taurus's decline the record, Leo's decline recognition, Scorpio's decline the silence — and the
+> shape was becoming a habit. **Aries's breaks it: the Tally *add* a practice the district does not have at
+> all**, keeping unofficial ledgers of what the district gave away and what it cost, in a culture whose ethic
+> forbids the accounting. **A counterculture can refuse what the district demands, or perform what the district
+> cannot.** The second kind is rarer, more interesting, and much likelier to be missed — check for it
+> deliberately, especially where the capability reading has already named a faculty the district lacks, since
+> that is exactly where someone will be doing it unofficially.
+
 **Step C — Counterculture: derive it from the dominant culture's specific pressure, never from generic
 rebellion.** The strongest countercultures are the exact negative image of what the district demands. A district
 built on compulsory visibility generates people who refuse to be seen; one built on permanence generates people

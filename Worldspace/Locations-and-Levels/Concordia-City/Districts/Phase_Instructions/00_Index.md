@@ -262,3 +262,72 @@ complete triples** across the same three districts, on music and on countercultu
 **Prediction results are recorded in `00e` §11b** rather than summarized here. Four of five held; one failed on
 its stated terms and has been revised rather than quietly restated, and one was void because it assumed Mode A.
 Six predictions now stand for district five.
+
+
+---
+
+## Fourth round of updates — five districts, and a problem with the evidence (2026-08-29)
+
+Aries was the second Mode B run and the first district with no phases written at all. It also returned **six
+predictions out of six**, which is the finding that matters most here — and not in the way it looks.
+
+### ⚠ The most important item: the predictions have stopped being a test
+
+Every prediction in `00e` §11b has been **written, then graded, by the same person who chose the district and
+ran the pass.** That is a checklist being satisfied, not a test being passed. The single prediction that has
+ever failed — the geometric-partner count, on Scorpio — failed on a **countable** fact, which is precisely the
+kind a self-grader cannot fudge, while the ones that keep holding are all **interpretive**. **Treat the current
+record as evidence about the grader, not about the rules.**
+
+**The designed falsification test is available and should be run next: the Hub.** `13_Ophiuchus_Hub.md` has no
+element, no modality, no aspects, and no capability row — **four of the six standing predictions are
+inapplicable to it by construction and a fifth is unlikely to hold.** It is the one district that can genuinely
+break this methodology instead of padding its record. If the toolkit produces a good Hub anyway, that is worth
+more than five further confirmations. **New standing rule: state what would falsify each prediction before
+running the pass, and choose districts that look least likely to conform.** → `00e` §11b.
+
+### The capability row has a *shape*, and the shape sets the procedure
+
+Five readings now give a complete typology, and it is the single most reusable thing this round produced.
+**Complete** (Aries — all four terms; the finding is what the balance costs), **one absence** (Taurus — what
+does lacking this faculty entirely mean?), **double absence** (Leo — what is the one instrument it *does* have?),
+**net-negative** (Scorpio — does its civic function require what it lacks?). Every remaining district falls into
+one of these, and **reading a row without first identifying its shape produces the wrong question.** → `00e` §5.
+
+**Plus a new question for every row: is the deficit *addressed* or *diffuse*?** Taurus's weakness makes it a
+donor to everyone — no counterparty, no politics. **Aries's two deficits are concentrated in one named
+district, which is also the one it is set against** — so its weakness has a location and a permanent grievance
+attached. **A deficit with an address produces inter-district politics; a diffuse one produces drift.**
+
+### Self-audit error runs in one direction
+
+On Aries I misread my own Gate 1 scan twice — listing `game` as open when it was covered, and omitting `humor`
+from the open list when it had scored **zero**. The scan was correct both times; the reading was not. **Both
+errors flattered the pass.** That is not random, and the fix is mechanical: **write the open list from the scan
+output rather than from memory, and re-check specifically in the flattering direction.** → `00c` Gate 1.
+
+### Research can supply a substitute *institution*, not just texture
+
+A larger claim than the research-first rule and now demonstrated. Aries has two structural holes — almost no
+institutional memory outside its operational layer, and no way to price what it loses, therefore no way to
+compensate. **Welsh coalfield choral practice filled both at once**: choirs founded after named disasters, for
+rehabilitation *and fundraising*, became the district's archive **and** its compensation mechanism. **When a
+capability reading leaves a district unable to do something a functioning society needs, look for how a real
+culture under the same constraint did it anyway.** Real cultures are full of workarounds no design process would
+invent. → `00e` §5.
+
+### Smaller, but worth carrying
+
+- **"Covered in substance, absent in term" is normal, not exceptional** — three districts running. And the
+  pattern is legible: it is almost always the **emotionally loaded generic words** (`funeral`, `humor`) that go
+  missing, because a well-developed district says those things in its own register. **A cluster of these is a
+  sign the pass worked.** → `00c` Gate 1.
+- **Don't default the counterculture to a refusal.** Three of four were refusals and the shape was becoming a
+  habit; Aries's **adds** a practice the district cannot perform. Check deliberately for the second kind,
+  especially where the capability reading has named a missing faculty — that is where someone will be doing it
+  unofficially. → `07_Phase_7` Step C.
+- **Gate 0 has caught a real defect in three of the four districts that had a claim to check.** Cheapest gate in
+  the file, highest yield. Aries passing it clean is not a reason to relax it. → `00c` Gate 0.
+- **Research-by-difference validated.** The three Aries picks skipped as redundant genuinely were — all sat in
+  the same industrial-extraction cluster the district was already saturated with — and that was predicted before
+  skipping them, not rationalized after.

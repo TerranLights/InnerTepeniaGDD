@@ -57,6 +57,11 @@ weeks and nothing in the process was looking at it. Leo carried the identical de
 > progress tracker must both be corrected in the same commit that adds the phase, and the phase file's own
 > per-district status table reset accordingly.
 
+**Track record after five districts: this gate has caught a real defect in three of the four districts that
+had a completion claim to check** (Taurus and Leo over-claiming, Scorpio under-claiming; Aries passed clean,
+Cancer predates the gate). **It is the cheapest gate here and the highest-yield.** Do not treat it as a
+formality because it occasionally passes.
+
 **It fails in both directions — confirmed on Scorpio, 2026-08-29.** Scorpio's block listed Architecture,
 Sensory Profile and Export Culture as **"needed"** and the tracker counted Phase 1 at 3/13, while all three were
 already written to full depth as Findings V-VII. **The Plan was under-claiming**, which wastes work rather than
@@ -102,7 +107,21 @@ simply does not use that word; its vocabulary is procedural. Leo's `humor` behav
 
 **Record it as "covered in substance, absent in term" and move on.** Do **not** insert the word to make the
 grep pass — that is gaming the gate, it degrades the prose, and it destroys the check's value for everyone
-after you. The mechanical scan finds candidates; you decide which of the three outcomes each one is. Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
+after you. The mechanical scan finds candidates; you decide which of the three outcomes each one is.
+
+**This third outcome is normal, not exceptional — three districts in a row now.** Scorpio's `funeral`, Leo's
+`humor`, Aries's `funeral` *and* `humor`. And there is a pattern worth knowing: **it is almost always the
+emotionally loaded generic words that go missing**, because a well-developed district expresses those things in
+its own register instead. The probe list is written in *template* vocabulary; a district that has found its own
+is exactly the district that will score zero on it. **A cluster of substance-not-term results is a sign the pass
+worked, not that it failed.**
+
+> **⚠ Write the open list from the scan output, not from memory — self-audit error runs in one direction.**
+> *(Added 2026-08-29.)* On Aries I made two errors reading my own scan: I listed `game` as open when it was
+> covered, and omitted `humor` from the open list entirely when it had scored **zero**. The scan produced both
+> numbers correctly; I read them carelessly. **Both errors flattered the pass**, which is not random — it is the
+> direction self-auditing always fails in. **Paste the scan output, mark each term against it one at a time, and
+> re-check specifically for the flattering direction before writing the block.** Also confirm the sections marked **Covered** genuinely are covered *somewhere* for this
 district (they live outside the Full_Extrapolation, in Canon Reference / Mega-Init / diaspora file) — a
 district missing its Canon Reference Cultural Texture entry, for instance, has a real hole that this plan was
 never going to fill.
