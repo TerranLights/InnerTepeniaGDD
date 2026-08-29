@@ -20,9 +20,66 @@ discipline file was written about it, two districts given the same custom a day 
 will follow the runbook, not the commit message. **Update it in the same commit**, and record what was learned
 and on which district.
 
+---
+
+# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.
+
+**Standing law, stated by the developer 2026-08-29. It governs every step below and overrides any of them that
+would be served by hurrying.**
+
+**Worldbuilding is upstream of the entire project.** Every character, questline, faction, companion arc,
+personal struggle, daily hardship, pastime and small joy in this universe is **downstream of decisions made
+here**. A shallow district does not produce a shallow district — it produces shallow people living in it,
+shallow problems for them to have, and shallow reasons for a player to care. **The cost of going fast here is
+not paid here.** It is paid later, everywhere, by work that cannot be fixed without coming back and redoing
+this.
+
+**Therefore:**
+
+- **Contemplate before writing.** Sit with the material. The first plausible answer is usually the generic one,
+  and a generic answer is worse than no answer because it occupies the slot.
+- **Do actual web research.** Not recalled from memory, not inferred from the name of a place. **Cancer's
+  from-scratch rewrite was forced by exactly this failure**, and every strongest finding since has come from
+  research actually run — the ayahuasca aftercare, the Baku flame, the Welsh choirs, the Pullman rents, Oneida's
+  mutual criticism.
+- **Chase nth-order effects.** *(This is the `Cross_Reference_Synthesis_Technique` applied to place.)* For every
+  finding, ask **"and what does that cause?" three times.** First-order is the observation. Second-order is
+  usually the interesting one. **Third-order is where the district stops resembling anywhere else.** The Yards'
+  housing being an asset on the books is first-order; that it therefore cannot flex in a downturn is second;
+  that the request is consequently never made, which the district reads as evidence it isn't needed, is third —
+  and the third is the finding.
+- **Go deep on the specific, not wide on the general.** One institution understood to its third-order
+  consequences beats six sketched.
+- **Take the time.** There is no deadline on this and no credit for finishing a district quickly.
+
+## The anti-patterns this law exists to stop
+
+**Named plainly, and I have committed the first three.**
+
+1. **Producing a district because it is the next one**, rather than because it has been thought through.
+   Completion is not the goal; **a district somebody could live in is the goal.**
+2. **Skipping research picks by declaring them redundant.** The difference-not-tier rule (Step 3.4) is real, but
+   it is also *convenient*, and it has been used to research two picks out of eight or nine on several passes.
+   **A pick is only redundant once you have actually looked at it.** Redundancy asserted from the title is a
+   guess.
+3. **Treating "the phase is covered" as "the phase is done."** A finding that answers the template question is
+   the floor, not the ceiling.
+4. **Accepting the first coherent answer** because it fits and the pass is long.
+5. **Letting the QA gates substitute for thinking.** Eleven gates confirm a pass is not *wrong*. **None of them
+   can tell you it is not thin.**
+
+## The test
+
+Before closing a district, ask: **could a person live an entire life here, and would that life be unlike a life
+in any of the other twelve?** If the honest answer is *"probably, I suppose"*, the pass is not finished
+regardless of what the gates say.
+
+---
+
 > **The one rule under all of it** (`../../Cultural_Synthesis_Techniques.md`): **never carry one location's
 > answers into another.** If two places produce similar-shaped answers to the same technique, at least one is
-> wrong. Every gate below serves that.
+> wrong. Every gate below serves that. **Law 0 is what makes it possible to obey** — two places produce
+> similar-shaped answers mainly when neither was thought about long enough to become itself.
 
 ---
 
@@ -115,9 +172,12 @@ the burial fund and the patron's day missing.**
 named disasters, for rehabilitation *and fundraising* — gave Aries both the archive it lacks and the
 compensation mechanism it cannot build.
 
-**3.4 Prioritize by difference, not by tier.** Most pick-lists contain a redundant cluster. **The most valuable
-pick is the one least like the others, whatever its PRIMARY/SECONDARY/SUPPORTING label.** Capricorn's five
-industrial cities were genuinely redundant; Pullman and the guilds were not.
+**3.4 Prioritize by difference, not by tier — but prioritizing is not the same as skipping.** *(Tightened under
+Law 0.)* Most pick-lists contain a redundant cluster, and **the most valuable pick is the one least like the
+others**, whatever its PRIMARY/SECONDARY/SUPPORTING label. **But redundancy has to be established, not
+assumed.** Several passes have researched two picks out of eight or nine and declared the rest redundant **from
+their titles** — which is a guess wearing the costume of a method. **Look at each pick at least far enough to
+know what it would have given**, and record that in Gate 7 rather than the assumption.
 
 **3.5 Record what you skipped and why**, in Gate 7. Name the genuine omission separately from the redundant
 ones.

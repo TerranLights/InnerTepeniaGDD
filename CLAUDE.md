@@ -14,6 +14,23 @@ the index's historical round-notes — and reconstructing it from those is how t
 work that looked small: a completion claim that was false for two weeks, a general-population error still live
 six weeks after the discipline file was written about it, and two districts given the same custom a day apart.
 
+### ⚠ LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.
+
+**Standing law. It overrides every other instruction in this section, and applies to all worldbuilding, not only
+to districts.**
+
+**Everything in this universe is downstream of its worldbuilding** — every character, questline, faction,
+companion arc, personal struggle, daily hardship and small joy. **A shallow location produces shallow people
+living in it and shallow reasons to care about them**, and the cost is not paid at the time; it is paid later,
+everywhere, by work that cannot be fixed without coming back and redoing the foundation.
+
+**So: contemplate before writing. Do actual web research rather than recalling. Chase nth-order effects — for
+every finding ask "and what does that cause?" three times, because the third-order answer is where a place stops
+resembling anywhere else. Go deep on the specific rather than wide on the general. Take the time.**
+
+**There is no credit for finishing quickly.** Completion is not the goal; **a place somebody could live in is
+the goal.** The QA gates can confirm a pass is not *wrong*; **none of them can tell you it is thin.**
+
 ### Non-negotiables the runbook will re-state, listed here so they are never a surprise
 
 - **`Cross_District_Differentiation_Table.md` — read the relevant row BEFORE writing a category, and add the
