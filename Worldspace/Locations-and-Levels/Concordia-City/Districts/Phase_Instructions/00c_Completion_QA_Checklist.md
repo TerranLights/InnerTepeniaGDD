@@ -91,6 +91,17 @@ having done the work.
 > exactly as misleading as a Plan listing unwritten phases as written**, and it is worse in one respect: the
 > Plan is read by whoever runs the next pass, but the megasheet is read by *everyone*.
 >
+> **⚠ And it fails in both directions — confirmed 2026-08-29 on Cancer.** The Markets' megasheet listed
+> **resolved** questions as open. Cancer's `01b` deep dive states *"Not yet promoted into
+> `District_Canon_Reference.md`"* about a promotion that **had already happened, in full.** **A file's
+> self-reported status is unreliable in both directions: check the target, never the claim.**
+>
+> **And check the district's own culture file against confirmed mechanisms, not just against open lists.**
+> Cancer's defining historical wound had its mechanism confirmed 2026-07-29 and promoted into canon —
+> **and the culture pass written three weeks later contained none of it** (zero mentions of the exemption, the
+> compliance formula, or the automatic flag). **A confirmed mechanism is not self-executing; somebody has to
+> use it.**
+>
 > **So: open the district's own open-questions list and check each item against the Deep_Dives folder before
 > writing anything.** Cheap, and it has already caught three items on its first run.
 
@@ -148,6 +159,16 @@ done
 > no body and no event**, so the funerary words genuinely do not apply. **Add `griev` and `bereave`**, and
 > re-check the back-fill districts against them. *(Three stem defects now — `funerar`, `mortuar`, `griev` — all
 > found by a district whose content was present and scored zero. Assume the list is still incomplete.)*
+>
+> **⚠ FIFTH DEFECT, and it is structural rather than lexical — 2026-08-29, from Cancer's depth re-run.**
+> **The documented strip does not work on a file with more than one QA block, and it fails silently.** Cancer
+> has three. `sed '/^## QA — Completion Check/,$d'` cuts at the **first**, capturing 773 lines of the
+> 2026-08-16 pass and **none** of the pass being scanned, which began at line 1152. **A Mode C pass scanned
+> this way scores zero on everything it just wrote and reads as a total failure.**
+>
+> **Mode C rule: strip from the pass's own opening header to its own QA header**, e.g.
+> `awk '/^# Third Pass/{f=1} f'` — and verify with a **proof-of-hit** against a string you know the new
+> section contains, not only with a residue check.
 >
 > **Fourth scan-term defect, 2026-08-29, from the Undergrid — and this one is a *character*, not a word.**
 > `human-robot` returned **0** while the content was present and correctly scoped: the finding uses an **en

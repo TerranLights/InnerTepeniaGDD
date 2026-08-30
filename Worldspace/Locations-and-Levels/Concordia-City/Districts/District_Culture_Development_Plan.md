@@ -344,7 +344,14 @@ gets promoted into a proper Full_Extrapolation Finding as part of the relevant p
 Legend: **+ already has it** (may still need light expansion or promotion into Full_Extrapolation) · plain
 entry = needs full development from scratch.
 
-### 01 — Cancer — **ALL 8 PHASES COMPLETE — REWRITTEN FROM SCRATCH 2026-08-16**
+### 01 — Cancer — **ALL 8 PHASES COMPLETE — REWRITTEN 2026-08-16 — DEPTH RE-RUN 2026-08-29**
+- **THIRD PASS — full 8-phase depth re-run, Gates 0-11, 2026-08-29.** Findings XXXI-LI. **First district run in Mode C** (`00e` §1), and the first ever run here of **Gate 0, Gate 9, Gate 10 and Gate 11** — three of which did not exist when the earlier passes ran.
+  - **Gate 0 fired four times**, including a **false claim in the runbook itself** (Gate 9 was recorded as "12 of 12"; it had **never been run on Cancer or Taurus** — corrected to 10 of 10), and the discovery that **canon's confirmed Rationing of Grief mechanism appears nowhere in the district's culture file** despite being promoted three weeks before the rewrite.
+  - **Gate 9, first run: Finding XXXII** — §III wrote inclusion as founding logic and never asked what happens to those refused. **The Overcrowding Decision is the reverse, its records were destroyed as an act of care, and every surviving account belongs to a beneficiary or a decision-maker.**
+  - **Capability re-derived: Cancer is a *complete* row** (previously mis-filed in the differentiation table as "two deficits") → **no edge at any scale**, which answers canon's open Mother's Circuit question: *there was never a line to cross.*
+  - **Research: 9 changed findings, 2 ornamented, 1 withheld** (Père Lachaise's reclamation apparatus, held for the deferred disposal question — Finding XLI).
+  - **Borrowed Form back-fill discharged** (Finding XLII); **death category written** (XXXIX, disposal deferred); **all eight phases re-derived** against the capability reading (XLIV-LI).
+  - **Translation discipline failed and was corrected** — 79 uses of the zodiac name in new prose, a Mode C hazard now recorded in `00e` §8.
 - Architecture — **Done** (Finding VIII — apse vernacular, **the Window Reach**, Growing Towers, root tenants; Stage 2's rectilinear Overcrowding-era building as a standing architectural confession)
 - Sensory Profile — **Done** (Finding IX — adds **windbells** and the constant arm's-height foliage contact)
 - Export Culture — **Done** (Finding X — **cast windbells** and rooted stock give Cancer real physical exports, not only expertise)

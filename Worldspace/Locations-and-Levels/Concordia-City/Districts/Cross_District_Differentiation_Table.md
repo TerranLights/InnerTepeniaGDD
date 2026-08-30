@@ -32,7 +32,7 @@ opposites, and the Undergrid is the one still unwritten** (`00e` §5).
 
 | District | Shape | Characteristic failure | Deficits *addressed* or *diffuse*? |
 |---|---|---|---|
-| **Cancer** (Sanctuary) | two deficits | cannot set limits; nobody advocates for themselves | — |
+| **The Sanctuary** (Cancer) | **complete** *(corrected 2026-08-29 — was mis-filed as "two deficits", which is not one of the five shapes)* | **no edge at any scale** — not around a home, a district, or a person; its safety is made of other people's restraint | **both addressed** — limits in the Yards (its opposite), and the professional register it lacks is available from the Undergrid, which supplies it *because* it does not do warmth |
 | **Taurus** | one absence *(no fall)* | holds value, cannot defend or reallocate it → **the city's donor district** | **diffuse** — donor to everyone, no counterparty, no politics |
 | **Leo** | double absence *(no exaltation, no fall)* | one instrument only → **no graceful degradation** | — |
 | **Scorpio** | net-negative *(no exaltation, two deficits)* | world-class diagnosis, nowhere to convalesce | — |
@@ -139,7 +139,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 
 | District | What converts a visitor into a resident |
 |---|---|
-| **Cancer** | structural inclusion |
+| **The Sanctuary** | **shared labour** — a term of work alongside someone, then simply staying. No ceremony, no moment. **And no exit either:** the rolls never close and a person who leaves is still spoken of in the present tense |
 | **Taurus** | **two stages** — welcomed (earned in kind), then *recorded* |
 | **Leo** | reaching the first rung of the recognition order — becoming a **known face** |
 | **Scorpio** | **admission to a cell** — two-stage, the second stage unfalsifiable, membership concealed |
@@ -180,7 +180,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 
 | District | The shadow |
 |---|---|
-| **Cancer** | care that is hard to end; visible virtue, hidden cost |
+| **The Sanctuary** | **it cannot protect anyone from the Sanctuary** — every instrument it has for noticing something is wrong is an instrument for supplying more care, and the loop closes with nobody at fault |
 | **Taurus** | **cannot tell generosity from erosion** — both feel like saying yes slowly |
 | **Leo** | **cannot fail gradually**; and the ledger has no erase function |
 | **Scorpio** | produces enormous care and **cannot get it past the cell boundary** |

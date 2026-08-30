@@ -1120,3 +1120,59 @@ Three now, and they are the honest cost of a methodology that improved while it 
 - **Borrowed Form**, Cancer / Taurus / Leo.
 - **`siligel`**, a standing blind spot rather than a term problem — it scored zero on two consecutive districts
   that both handle it directly.
+
+
+---
+
+## Depth re-run programme — district 01, the Sanctuary (2026-08-29)
+
+**Developer instruction: re-run the full 8-phase process on all twelve zodiac districts, one at a time, at
+depth, with no time constraint.** The Hub stays deferred. **Cancer ran first, and it was the hardest possible
+starting case** — the runbook's own reference example, the deepest existing pass, and therefore the district
+where confirmation was the likeliest failure.
+
+### It produced a new mode
+
+**Mode C — the depth re-run.** Neither Mode A nor Mode B fit a district that already has completed phases,
+a substrate second pass and two QA blocks. **The defining rule: the existing material is a prior pass to be
+audited, not a foundation to build on**, and all four outcomes — corroborate, extend, correct, contradict —
+are legitimate. → `00e` §1, with three observed hazards.
+
+### Gate 0 fired four times, and one of them was a false claim in the runbook written hours earlier
+
+- The Plan's *"QA PASSED (all 8 gates)"* is stale: Cancer ran **Gates 1-8 as of 2026-08-16**; the set is now
+  **0-11**. **Gate 0, Gate 9, Gate 10 and Gate 11 had never been run on this district.**
+- **The runbook's "Gate 9 has fired on 12 of 12 districts" was false.** Verified: **Cancer and Taurus have no
+  Gate 9 finding and score 0 on every marker.** True figure: **10 of 10 where run.** The bad number came from
+  *assuming* the gate had run everywhere — **not a bad scan, an inference** — hours after the same
+  stale-flattering-count error was corrected on Step 2. **Corrected and recorded rather than quietly fixed.**
+- **Gate 0's second half fires in both directions.** The Markets' megasheet listed resolved questions as open;
+  **Cancer's `01b` deep dive says a promotion is pending that had already happened in full.** → `00c`.
+- **And the catch that mattered: canon's confirmed Rationing of Grief mechanism appears nowhere in Cancer's
+  culture file** — confirmed 2026-07-29, promoted into canon, and the rewrite three weeks later used none of
+  it. **A confirmed mechanism is not self-executing.**
+
+### The capability was mis-shaped, and re-deriving it answered an open canon question
+
+Cancer was filed as *"two deficits"* — not one of the five shapes. **It is a complete row**, the fourth, and
+the complete-row question is *what does the balance cost?* rather than *what is missing?* The answer: **the
+district has no edge at any scale** — not around a home, not around the district, not around a person — **so
+its safety is made entirely of other people's restraint.**
+
+**That answers something canon asks and leaves open.** The Mother's Circuit is recorded with the puzzle
+*"nobody quite knows when that line was crossed."* **Nobody knows because there was never a line**, and
+safeguarding research supplies what one would have been made of — proportionality and a consent default, both
+of which are limits.
+
+### Smaller
+
+- **A fifth Gate 1 defect, structural rather than lexical.** The documented strip cuts at the *first* QA block;
+  on a three-QA-block file it captured **773 lines of the old pass and none of the new one**, silently.
+- **Mode C leaks the old file's vocabulary.** 79 uses of the zodiac name in new prose, against 2 / 0 / 1 / 0 in
+  the four passes immediately prior. **The register is contagious.** Corrected; recorded in `00e` §8.
+- **A panel-level silence worth more than the arc silences: not one of nine positions asked for more care.**
+  In twelve panels no district has produced that. **It is the strongest available confirmation that a shadow is
+  correctly placed** — everything wrong in the Sanctuary is downstream of an abundance.
+- **Gate 9's own-pass half is now 3 catches in 4 outings**, and Gate 11 is 2 for 2 on flagging a real
+  over-write before it shipped.
+- **Two back-fill tasks discharged for this district** — Borrowed Form (XLII) and the death category (XXXIX).

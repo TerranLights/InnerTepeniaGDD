@@ -23,6 +23,33 @@ Not a phase. The eight phases are *content categories*; this is a layer that cut
 | **Overlap check** | **Mandatory** (§3) | Not applicable |
 | **Existing QA record** | Left intact; the new pass gets its own QA block | Single QA at completion, as normal |
 
+### Mode C — the depth re-run *(added 2026-08-29, from Cancer)*
+
+**A third mode, defined because neither existing one fit.** A district whose **phases and substrate pass are
+both complete**, revisited against a methodology that has materially changed since. Cancer had eight phases, a
+substrate second pass and two QA blocks, and was re-run under roughly fifteen rules that postdated all of it.
+
+| | Mode C |
+|---|---|
+| **Applies to** | any district being re-run after its phases *and* substrate pass are complete |
+| **Shape** | a new dated section; **the existing material is a prior pass to be audited, not a foundation** |
+| **Legitimate outcomes** | corroborate · extend · **correct** · contradict — all four |
+| **Characteristic risk** | **confirmation** — re-reading the old pass and calling agreement a result |
+| **QA** | its own block; earlier blocks left intact as the record of different passes |
+
+**Three Mode C hazards, all observed on the first run:**
+
+1. **The Gate 1 strip breaks silently** — see `00c` Gate 1. A Mode C file has multiple QA blocks and the
+   documented command cuts at the first one, capturing none of the new pass.
+2. **⚠ The old file's vocabulary leaks into the new pass.** Cancer's existing material predates the
+   translation discipline and uses the zodiac name throughout. **Writing alongside it produced 79 uses of that
+   name in new prose** — against 2, 0, 1 and 0 in the four passes immediately before, which were written
+   beside no such file. **The register is contagious. Sweep the new section specifically, and expect a worse
+   result than a Mode B pass would give.**
+3. **Phase coverage reads as failure when it is not.** The eight phases already exist in the same file, so a
+   re-derivation legitimately scores **0** on categories it had nothing to add to. That is Gate 1's third
+   outcome applied at pass level. **Do not pad a category to score its term.**
+
 **Do not run Mode A on a Mode B district.** Producing a bolted-on "substrate section" for a district whose
 phases have not been written yet fragments its file for no reason. In Mode B the substrate is simply one more
 input, alongside the district's Deep Dive, Vision Notes, Canon Reference entry, diaspora composition, and

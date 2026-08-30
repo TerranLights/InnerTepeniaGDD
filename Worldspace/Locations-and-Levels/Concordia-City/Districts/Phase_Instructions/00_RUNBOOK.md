@@ -202,7 +202,19 @@ what would foreclose the choice before you write, not after.**
 For each existing finding describing a **threshold, gate, conversion, verdict, admission or status change**,
 ask: *the mechanism runs both ways — did the file write both?*
 
-**This has fired on 12 of 12 districts, and every time the failure was in the 2026-07-09 material.** *(The gate's second, own-pass half is separate and is 2 for 3 — see `00c` Gate 9.)* Those
+**This has fired on 10 of 10 districts *where it was run*, and every time the failure was in the 2026-07-09
+material.** *(The gate's second, own-pass half is separate and is 2 for 3 — see `00c` Gate 9.)*
+
+> ⚠ **The count was "12 of 12" for a few hours on 2026-08-29 and that was false.** **Gate 9 has never been run
+> on Cancer or Taurus** — verified: both score **0** on `Gate 9`, `both ways` and `route back`, while every
+> other district carries an explicit Gate 9 finding. **Cancer's QA ran Gates 1–8 as they existed on 2026-08-16;
+> Gate 9 did not exist yet.** The corrected figure was reached by *assuming* the gate had run everywhere,
+> which is the same stale-flattering-count error corrected on Step 2 in the same session — **and this one was
+> not even a bad scan, it was an inference.** *(Recorded rather than quietly fixed, per the standing honesty
+> rule.)*
+>
+> **Cancer and Taurus are therefore the only two districts whose pre-Plan material has never been asymmetry-
+> checked**, and Cancer's depth re-run is the first time it happens. Those
 findings were written to explain how a district *works*, a framing that documents the favorable path and stops.
 Taurus's trust converted a stranger permanently and never said the reverse is equally permanent; Leo's ladder
 had only an up direction; Scorpio's legible progress meant legible stalling; Aries wrote the emergency case and
