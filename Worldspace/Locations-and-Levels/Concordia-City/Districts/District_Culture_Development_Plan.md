@@ -613,6 +613,18 @@ for the "already has it" districts needing promotion rather than fresh writing) 
   sections.** The instrument simply never asked. Category and questions now at
   `Phase_Instructions/07_Phase_7_Native_Culture.md` §1b. **Sharpest two:** the Labs runs a thirty-year closed
   experiment on residents, and Libra legislated how long others may grieve and has no practice for its own dead.
+- [ ] **Downstream audit, AFTER district culture is finished** *(developer decision, 2026-08-29 — recorded so
+  the sequencing fact is not lost, not as a concern)*. **The inhabitants/questline/NPC layers were all built
+  before the 8-phase culture passes and have not been revisited since.** Dates, measured:
+  `District-Quest-NPCs/` (13 files, ~1,418 lines) **2026-07-22** · `District_Under_Questlines.md` (~1,516
+  lines) **2026-07-30** · `District_Main_Questlines.md` **2026-07-29** · the Under-Questline design method
+  **2026-08-09** — against culture passes running **2026-08-16 to 2026-08-29**.
+  **Contradiction risk is low** (Gate 3 held on every pass; canon went in unchanged). **What to actually check
+  is *exploitation*** — those files were written without the backlog, the not-looking, going-to-zero, the
+  closers, the Fog, *nobody is ever declared dead*, or the three-month silence, which is the material that most
+  directly generates quests. **Not verified — inferred from dates.** A single district checked properly
+  (Virgo or Pisces, the most mechanism-heavy) would turn it into a measurement before any re-pass is committed
+  to.
 - [ ] **QA Completion Check** (12/13 passed: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces, Sagittarius, Virgo; **1 remains — the Hub, deferred by the developer** — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
 
 Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
