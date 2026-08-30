@@ -22,6 +22,17 @@ material that was already extracted and concluded it was missing. **Check this i
 | `Worldspace/Characters/Dolls/Character_Development_Methodology_-_Villains_and_Antiheroes_-_DRAFT_Ideas.md` | **4 books**, 1,194 lines | Same convention |
 | `Reference/Real-World/King_Warrior_Magician_Lover_Extraction.md` | **1 book** | Standalone |
 | `Neo-Races-and-Cultures/_Method/Human_Universals_Extraction.md` | **1 book** | Standalone |
+| `Reference/Real-World/*_Extraction.md` | **worldbuilding-track books, 2026-08-29 onward** | Standalone, one file per book |
+
+> **A second track opened 2026-08-29: worldbuilding/culture extraction, distinct from the character-craft track
+> above.** Of 2,310 eBooks in `Reference/Materials/books/`, 23 had been extracted before this date — all
+> character-craft. The district-culture-synthesis programme (13 zodiac districts) had been running entirely on
+> live web research and the zodiac substrate with zero book support. This track targets that gap: philosophy,
+> religion, history, economics, psychology, memetics, strategy, and related clusters, prioritized by relevance
+> to active work (faction/religion design, district economies, survival culture, founding-era mass-movement
+> psychology) rather than exhaustively. **Files land as standalone `*_Extraction.md`, one per book**, matching
+> the King Warrior Magician Lover / Human Universals convention — not folded into the consolidated DRAFT files,
+> which are character-craft-specific.
 
 **On the two forms.** The consolidated DRAFTs are not a worse format — a large part of their value is the
 **cross-book reconciliation** they carry (Weiland's Want/Need/Lie/Ghost reconciled against Truby's
@@ -97,6 +108,7 @@ from line 2088:
 |---|---|---|
 | `Reference/Real-World/King_Warrior_Magician_Lover_Extraction.md` | Moore & Gillette, *King, Warrior, Magician, Lover* (1990) | **Effectively complete** — all 16 archetypes, the structural model, and the usable half of the Conclusion. Only ch. 1 unread. Source PDF is an image-only scan; read visually |
 | `Neo-Races-and-Cultures/_Method/Human_Universals_Extraction.md` | Donald E. Brown, *Human Universals* | Feeds the Neo-Races/Cultures framework |
+| `Reference/Real-World/The_True_Believer_Extraction.md` | Eric Hoffer, *The True Believer* (1951) | **Complete** — full text, all 4 Parts, 18 chapters, 125 numbered sections. First book of the 2026-08-29 worldbuilding-extraction pass. Endnote apparatus (~185pp of citations) not mined — bibliographic only |
 
 ---
 
