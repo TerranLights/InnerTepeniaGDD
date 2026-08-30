@@ -182,8 +182,18 @@ back? **A "no route back" nobody has perceived as a problem is a textbook shadow
 
 ## Step 2 — The capability reading, before any research
 
-**This is the primary generator and it comes first.** *(`00e` §5; `F_Rulerships.md` §5-6.)* **6 of 6 districts'
-strongest structural finding came from here.**
+**This produces the district's spine and it comes first.** *(`00e` §5; `F_Rulerships.md` §5-6.)*
+
+> ⚠ **A claim this step used to make about itself was stale and flattering, and is corrected here.** It read
+> *"6 of 6 districts' strongest structural finding came from here."* **Measured across twelve, that is no longer
+> true.** Of the four passes that named a Gate 8 standout explicitly: **the Circuit's came from Step 2; the
+> Markets' came from Ordinary Daily Life; the Frostlands' came from the death category; the Undergrid's came
+> from an institutional consequence two orders downstream.** **One clean hit in four.**
+>
+> **What Step 2 reliably produces is the *skeleton* — the thing every other finding hangs on and without which
+> the pass has no shape.** It is still first, still mandatory, and still the reason the districts do not
+> converge. **It is not where the best finding comes from any more, and pretending otherwise mis-sets where the
+> effort goes.**
 
 **2.1 Identify the row's *shape*, then ask the matching question. The typology was declared closed at four and
 was not** — the Markets exposed a fifth. **Five shapes; the two remaining districts are one of each:**
@@ -365,6 +375,17 @@ written source declared unnecessary without being opened.
   is a better answer than one it invented**, because it explains something already in canon and it carries a
   built-in relationship: the host uses it, values it, and cannot quite say what it is receiving.
 - **Check `../Cross_District_Differentiation_Table.md` before writing each category.** See Step 6.
+- ⚠ **Ordinary Daily Life (Phase 5) is a generator, not a coverage box.** *(Promoted 2026-08-29, on the
+  measurement above.)* It has been run as a category to be filled and it has produced **the single best finding
+  of the twelve-district set** — the Markets' *not-looking*, an exhausting public utility of deliberate
+  inattention performed by everyone all day, which reframed that district from indifferent to actively
+  hospitable and supplied its shadow. **The Undergrid's shift overlap and the Frostlands' people-who-stay came
+  from the same phase.**
+  **Why it outperforms:** Step 2 tells you what a district *cannot do*; Phase 5 is where you find out **what
+  that costs an ordinary person between one hour and the next** — and the third-order consequence of a
+  capability deficit almost always shows up in somebody's Tuesday rather than in an institution. **Budget real
+  time here. Ask what the district's ordinary rhythm demands of a person who is not exceptional, and what it
+  fails to provide for people whose lives do not fit it.**
 - **General-population discipline throughout** (`00b`). Highest-risk categories: Fashion, Music, Sensory
   first-impressions, Visitor Experience.
 
@@ -466,6 +487,16 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
 
 **Recorded here because they are easy to stop seeing.**
 
+- **⚠ A zero from a scan is not a result until you have proved the scan could have found a hit.** *(Added
+  2026-08-29, after the third instance in one working session.)* **Three times now a scan of mine has returned
+  a confident wrong answer from a pattern assumption**: the Gate 1 strip boundary (round 9, three different
+  answers to one question), a composition file read past the limits it states about itself (round 11,
+  withdrawn), and a Gate 8 compliance check that reported three districts skipping the gate **when all twelve
+  had run it and three simply use a different heading style.** In every case the tool was fine and **the
+  pattern was wrong.**
+  **So: before drawing any conclusion from an absence, run the scan against a case you know contains a hit.**
+  If it does not find that one, it has not found anything. This is the general form of the four stem defects in
+  `00c` Gate 1, and it applies to every grep in this methodology, not only that gate.
 - **Self-audit error was thought to run in one direction. Round 9 found it does not, and that is worse.**
   Across six districts every mis-reading of my own QA output flattered the pass, and the rule was to re-check
   in the flattering direction. **Then a round-9 re-scan ran *against* the pass — and was also wrong.** Three

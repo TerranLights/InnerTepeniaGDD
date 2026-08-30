@@ -1040,3 +1040,76 @@ runbook should say so.**
 - **Twelve districts done. The Hub is the only one left, it is deferred, it has no capability row, and the
   Frostlands pass filed the only Ophiuchus material in the corpus under its own name (Finding XXX there).**
   Everything needed to start it is now in one place.
+
+
+---
+
+## Fifteenth round — correcting two claims the methodology was making about itself (2026-08-29)
+
+**Twelve districts complete. The Hub remains deferred by the developer and nothing in this round touches it** —
+its material (no capability row, round 10; the corpus's only Ophiuchus chapter, filed at the Frostlands'
+Finding XXX) is already where it will be found, and it is deliberately left alone.
+
+**This round is three measurements. Two of them corrected claims this methodology had been repeating about
+itself, and both corrections make the instrument less flattering and more useful.**
+
+### Step 2 is the spine, not the source of the best finding — and it had been claiming otherwise
+
+The runbook has been asserting that **"6 of 6 districts' strongest structural finding came from here."** That
+was stale at six and **measured across twelve it is no longer true.** Of the four passes that named a Gate 8
+standout explicitly:
+
+| District | Standout | Came from |
+|---|---|---|
+| The Circuit | multiply-addressed deficit | **Step 2** |
+| The Markets | the not-looking | **Phase 5 — Ordinary Daily Life** |
+| The Frostlands | nobody is ever declared dead | **Phase 7 §1b — the death category** |
+| The Undergrid | the backlog | an institutional consequence two orders downstream |
+
+**One clean hit in four.** Step 2 still comes first, is still mandatory, and is still the reason twelve
+districts have not converged — **it produces the skeleton every other finding hangs on.** But it is not where
+the best material comes from any more, and the claim was mis-setting where the effort goes.
+
+### The consequence: Ordinary Daily Life is promoted from coverage box to generator
+
+**Phase 5 produced the single best finding of the twelve-district set** and has been run as a category to be
+filled. **The reason it outperforms is structural:** Step 2 tells you what a district *cannot do*; **Phase 5 is
+where you find out what that costs an ordinary person between one hour and the next** — and a capability
+deficit's third-order consequence almost always surfaces in somebody's Tuesday rather than in an institution.
+The Markets' *not-looking*, the Undergrid's shift overlap, and the Frostlands' people-who-stay all came from
+there. → runbook Step 4.
+
+### Borrowed Form: right technique, wrong denominator
+
+Four consecutive passes have produced Borrowed Form findings, which reads as four for four. **It is not.** The
+three early districts that used the diaspora file *most heavily* — **Cancer, Taurus and Leo — produced zero
+findings from it**, citing it 7, 3 and 6 times purely as texture. **Not once was it asked what the host
+district could not do for itself.**
+
+**The honest claim is narrower and more useful: the technique works every time it is applied, and it was never
+applied before it existed.** The file sat open in front of three passes that used it decoratively. **Cancer,
+Taurus and Leo are now a recorded back-fill candidate** — same class as the death category, and **expect fewer
+than three findings**, because some districts genuinely borrowed nothing.
+
+### A zero from a scan is not a result until the scan is proved able to find a hit
+
+**Third instance in one working session**, and the third is what makes it a rule rather than an anecdote:
+
+1. **Round 9** — the Gate 1 strip boundary gave **three different answers to one question**, and only the
+   verified third was true.
+2. **Round 11** — a composition file read past the limits it states about itself; the finding was withdrawn.
+3. **This round** — a Gate 8 compliance check reported three districts skipping the gate. **All twelve had run
+   it.** Three simply use a different heading style, and my pattern did not match it.
+
+**In every case the tool was fine and the pattern was wrong.** The rule now stated in the runbook's honesty
+section: **before drawing any conclusion from an absence, run the scan against a case you know contains a
+hit.** If it does not find that one, it has found nothing. **This is the general form of the four Gate 1 stem
+defects** (`funerar`, `mortuar`, `griev`, dash normalization) and it applies to every grep in this methodology.
+
+### Standing back-fill tasks, consolidated
+
+Three now, and they are the honest cost of a methodology that improved while it ran:
+- **Death and the Dead**, eight districts, with the corrected stem list.
+- **Borrowed Form**, Cancer / Taurus / Leo.
+- **`siligel`**, a standing blind spot rather than a term problem — it scored zero on two consecutive districts
+  that both handle it directly.
