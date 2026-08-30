@@ -10,6 +10,26 @@ file and start a fresh one for the next stretch of work).
 
 ## Active Threads as of the 2026-08-16 → 2026-08-24 outage stretch
 
+- [ ] **⭐ URGENT — Wu Xing generating/overcoming cycles missing from `Robot_Elementals.md`.**
+  *(Flagged 2026-08-30, during the Universal Location Methodology build.)* **Deliberately set aside for now,
+  not fixed** — do the first couple of Universal Location Methodology test runs *without* this first, since
+  those runs may themselves surface information relevant to how the elementals should relate that isn't
+  obvious yet from theory alone.
+
+  **What's missing:** `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/
+  City_Symbolic_Substrate/Robot_Elementals.md` does not document the Wu Xing generating (Wood→Fire→Earth→
+  Metal→Water→Wood) or overcoming (Wood→Earth→Water→Fire→Metal→Wood) cycles for its five Wu Xing-descended
+  members. **Why it matters:** if documented, the element symbol system would move from THIN to RICH for
+  those five members and would supply real inter-city relational geometry — the direct equivalent of what
+  zodiac oppositions/squares do for districts, which is currently the *only* thing generating inter-location
+  relationships anywhere in the project (per `00e` §6 in the district runbook).
+
+  **Why it's not being fixed now:** it needs a developer ruling on how the system's non-Wu-Xing members —
+  Air, Electricity, Electromagnetism — relate to a five-member cycle they were never part of, and that
+  ruling changes an existing canon reference file. Not a documentation task alone; a design decision. See
+  `02_Generators_Capability_and_Symbols.md` §6.4 in the Universal Location Methodology for the full
+  registered-systems context this sits inside of.
+
 - [ ] **STANDING HABIT — cross-check `Districts/Cross_District_Differentiation_Table.md` on every district pass,
   and keep it updated.** *(Developer instruction, 2026-08-29.)* Not a task to complete; **a habit to maintain.**
 

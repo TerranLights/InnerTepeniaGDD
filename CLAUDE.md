@@ -1,9 +1,21 @@
 ## ⚠ MANDATORY — District / location culture synthesis
 
+**Two separate methodologies exist for this. Use the right one — they are not interchangeable.**
+
+- **A Concordia district** (any of the 13) — use the **district-specific methodology**,
+  `Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md`. **This is the one
+  to use for districts.** It is battle-tested and fire-tested: built from 13 real passes, carries the specific
+  errors that shaped every one of its rules, and has a verified track record. Nothing below changes this — the
+  district runbook remains the authority for district work.
+- **Any other location** — a city, subnet, nation, orbital-infrastructure unit, highway, structure, vessel,
+  ruin, or anything not a Concordia district — use the **Universal Location Methodology**,
+  `Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md`. **Added 2026-08-30. Status:
+  working draft, unvalidated** — built by generalizing the district method's findings, but not yet pressure-tested
+  against a real location. Use it, but treat its results as provisional until it has a track record of its own.
+
 **Any work on a district's, city's, or location's local culture — a new pass, an edit to an existing
 `Full_Extrapolation.md`, a phase, a QA gate, a Review Panel run, or a methodology change — MUST begin by reading
-`Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md` in full, before
-touching anything else.**
+the applicable runbook above, in full, before touching anything else.**
 
 **This is not a suggestion and not a "consult if unsure."** The runbook is the operational procedure: eight
 ordered steps, eleven QA gates (0-10), the Review Panel with its five dispositions, and the standing honesty
