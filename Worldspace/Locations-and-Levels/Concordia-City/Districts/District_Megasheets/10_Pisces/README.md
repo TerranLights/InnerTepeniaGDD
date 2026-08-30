@@ -109,7 +109,12 @@ Carried forward from the deep dive and Vision Notes:
 - Whether the getting-lost feeling is tied specifically to the shifting-walls/routes mechanic, or reads as general disorientation from crowding and clutter
 - What specifically constitutes "stepping on the wrong toes" — not yet explored
 - Whether the purple/blue/red light bath connects to the Syncretic Religion or dream-tech den culture, or is purely atmospheric
-- **The Flood's own precise timing and mechanical nature** — flagged in the deep dive as needing a dedicated pass before building further on the Flood/Syncretic-Religion connection, including checking it against Gemini's own not-yet-dated Great Corruption
+- ~~**The Flood's own precise timing and mechanical nature**~~ — **MECHANISM RESOLVED 2026-07-29**, `Deep_Dives/10b_Pisces_Flood_Mechanism.md`, Candidate D **"The Mosaic"**: dozens of small simultaneous local collapses, no external trigger, and **nothing about anyone's memories changed — only the `owner` bookkeeping broke**, cluster by cluster, never fully repaired. **The date remains genuinely open** (twice moved, currently c. 2771).
+- ~~**The black-market origin**~~ — **RESOLVED 2026-07-29**, `Deep_Dives/10c_Pisces_Black_Market_Origin.md` ("nBeta").
+- ~~**The Tolerance Pact**~~ — **RESOLVED 2026-07-29**, `Deep_Dives/10d_Pisces_Tolerance_Pact.md`: **not an arrangement at all**, an unnegotiated equilibrium individual Libra operatives arrived at through ordinary self-interest.
+
+> ⚠ **These three were listed as open for a month after they were settled**, and Gate 0 caught it during the
+> 2026-08-29 culture pass. **Check this list against `Deep_Dives/` before trusting it.**
 - Whether Pisces residents informally organize around which district produced them (ex-Scorpio dissolution-seekers, ex-Leo burnouts) as distinguishable internal communities, per the deep dive's own open conflict thread
 - The previously-deferred question of tying Pisces' black-market identity to the national currency fracture (remains explicitly out of scope, still deferred)
 

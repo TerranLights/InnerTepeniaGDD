@@ -97,8 +97,8 @@ least one is wrong.
 QA**. The remaining ten should run in **Mode B** — substrate folded in as a first-pass input rather than bolted
 on afterward.
 
-> **Progress, updated 2026-08-29 after the Circuit.** **9 of 13 districts are complete and QA-passed** —
-> Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini. **Four remain: Pisces, Sagittarius,
+> **Progress, updated 2026-08-29 after the Markets.** **10 of 13 districts are complete and QA-passed** —
+> Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces. **Three remain: Sagittarius,
 > Virgo, and the Hub** *(the Hub deferred by the developer, who has an approach in mind for it)*. **Gate 9 has
 > now fired on eight consecutive districts and every single time in the pre-Plan 2026-07-09 material.**
 
@@ -701,3 +701,75 @@ one that way and only by accident.
   suggested Aquarius and Libra had skipped the five-disposition vocabulary entirely. **They had not** — all four
   runs have full panels with the mandatory Passer-Through and Lover faculty. The count was measuring backtick
   formatting, not method.
+
+
+---
+
+## Tenth round — the Markets, a fifth capability shape, and Gate 9's first live test (2026-08-29)
+
+**Seventh Mode B run, and the first written under the Virgo/Pisces pairing rule.** Three results are worth
+carrying forward beyond the district itself.
+
+### The four-shape typology was declared closed and was wrong
+
+It had no name for a row where **one faculty holds both of its terms**. There are exactly two such districts
+and they are mirror images: **the Undergrid's ruling faculty is also its exalted one** — verification at
+maximum, twice over — and **the Markets hold both weak terms on that same faculty**, verification at minimum,
+twice over. **A fifth shape, the *doubled row*, and it asks a different question**: not *what does the balance
+cost?*, which is meaningless where there is no balance, but ***which faculty is doubled, and in which
+direction?*** The Markets' answer — **it can price anything and cannot prove what anything is** — was not
+reachable from the complete-row question. → `00e` §5, runbook Step 2.1, table §1.
+
+**The pairing rule now follows from the shape rather than from taste.** Two districts holding one faculty at
+opposite extremes are each other's exact remedy — **which is precisely why the remedy is unacceptable**, since
+taking it means conceding the other's authority over the faculty itself. Finding VII records what the
+Undergrid's pass must not rediscover, and that pass must read the Markets' file before its Step 2.
+
+### Gate 9's own-pass half fired on its first outing
+
+Round 9 added a second Gate 9 pass — against the findings the pass itself just wrote — on the reasoning that
+eight consecutive firings against **one inherited defect class** is not a tested gate. **It fired immediately**,
+on Finding XX, a visitor-to-resident mechanism I had written and considered finished: it said what converts a
+visitor and never said what happens to someone the mechanism never converts. **A person can live in the Markets
+for twenty years still receiving visitor-courtesy and experience it the whole time as the district being
+wonderful to them.** The inherited half fired too, for the ninth consecutive district.
+
+### Gate 0 has a second job, and it caught three items on its first run
+
+The gate reconciles **the Plan's claim about the file**. It never checked **the file's claim about itself** —
+and the Markets' megasheet listed **three** questions as open that had been resolved in dedicated deep dives a
+month earlier: the Flood mechanism, the black-market origin, and the Tolerance Pact, all settled 2026-07-29.
+**A summary file telling every reader that the district's three most load-bearing mechanisms are undecided is
+as misleading as a Plan listing unwritten phases as written, and worse in one respect** — the Plan is read by
+whoever runs the next pass; the megasheet is read by everyone. → `00c` Gate 0, runbook Step 0.2.
+
+### Smaller
+
+- **The `funerar` stem caught a second section that `funeral` scored at zero.** Round 9's fix is now confirmed
+  on two districts rather than inferred from one.
+- **`unmet` came out at three, against the Circuit's one — and the difference is diagnostic, not effort.** The
+  Markets have something that improvement would genuinely destroy (the not-looking is the same instrument that
+  makes them the only district that takes anyone); the Circuit largely did not. **That is the beginning of an
+  actual check on whether the panel is being run honestly**, replacing the previous position of simply
+  asserting that `unmet` should be common.
+- **A shadow position returned a *redirected* conviction** — the Addicted Lover fails on the obvious charge (the
+  substrate makes this temperament conservative, not dissolute; **the district that looks reckless is the
+  cautious one**) and lands on **an addiction to being needed**, which puts the shadow on the district's warmest
+  people rather than its worst. Running tally: not guilty · not guilty · partial · redirected. **The roster is
+  getting more useful as it is worked.**
+- **Second use of the *withheld* Gate 7 outcome**, and it validates the category: Tangier's multi-currency
+  regime is directly applicable and was not spent, because the Markets/currency-fracture tie is explicitly
+  deferred and using it would have forced the question.
+- **The diaspora file went unread in this pass, was caught at Step 8, and was then actually read.** Recorded as
+  a miss rather than excused: **the rule survived nine districts and failed on the first one written after it
+  was made.** Reading it produced **Finding XXIX and corrections to three others**, which is the second measured
+  confirmation of round 9's claim — this time against the author who wrote the claim. **Two findings from it are
+  worth carrying beyond this district:** the Markets are **~87.7% from one city and have no idea**, because the
+  not-looking includes not asking where anyone came from — the one demographic fact that would explain the
+  district to itself is the exact category its central discipline never mentions; and Shirayuki's open,
+  name-based mentorship tradition **could not survive the transplant and became entry-by-traded-vulnerability**,
+  which is Findings IX and XII derived independently, months earlier, in a different file. **Two independent
+  derivations converging is the strongest confirmation this methodology can produce**, and it happened by
+  accident because a step was skipped and then recovered.
+- **Process consequence: Step 3.7 is being moved earlier.** It sat inside Step 3 (research), where it competes
+  with the picks and gets skipped. **It belongs at Step 0**, with the other mandatory reads.

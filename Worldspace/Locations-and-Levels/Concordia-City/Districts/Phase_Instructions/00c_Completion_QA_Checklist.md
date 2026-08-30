@@ -80,6 +80,20 @@ read the file, read the claim, and correct whichever is wrong.
 A completion claim is a factual assertion about a file. Verify it against the file, not against memory of
 having done the work.
 
+> ### ⚠ Gate 0 also checks the file's claim about *itself*. *(Added 2026-08-29, from the Markets.)*
+>
+> The gate was written to reconcile **the Plan's claim about the file**. That is half the job. **A district's
+> own megasheet carries a "What's Actually Open" list, and those lists go stale silently** — the Markets'
+> listed **three** questions as unresolved that had been answered in dedicated deep dives a month earlier
+> (`10b` the Flood mechanism, `10c` the black-market origin, `10d` the Tolerance Pact, all 2026-07-29).
+>
+> **A summary file telling every reader that the district's three most load-bearing mechanisms are undecided is
+> exactly as misleading as a Plan listing unwritten phases as written**, and it is worse in one respect: the
+> Plan is read by whoever runs the next pass, but the megasheet is read by *everyone*.
+>
+> **So: open the district's own open-questions list and check each item against the Deep_Dives folder before
+> writing anything.** Cheap, and it has already caught three items on its first run.
+
 ## Gate 1 — Template coverage
 
 Open `District_Culture_Development_Plan.md`'s **Complete template audit** table. For every one of the 32

@@ -540,6 +540,7 @@ entry = needs full development from scratch.
 - Ordinary Daily Life — needed (Phase 5)
 - Thematic Breadth Catalog — needed (Phase 6)
 - Robot-Specific Culture — needed (Phase 8)
+- **ALL PHASES COMPLETE and QA-PASSED 2026-08-29**, Gates 0-10, seventh Mode B district. `Pisces_Full_Extrapolation.md` Findings VII-XXVIII. **First district written under the Virgo/Pisces pairing rule** — Finding VII records what the Undergrid's pass must not rediscover, and **that pass must read this file before its Step 2**. Gate 0 passed on phases but **fired on a new failure class — the megasheet's own "What's Actually Open" list was three items stale** (Flood mechanism, black-market origin, Tolerance Pact all resolved 2026-07-29). Gate 9 fired on **both** passes — inherited (Finding IX) and, for the first time anywhere, **on this pass's own new material**. **Research: 11 items, 9 changed findings, 1 ornamented, 1 withheld, 1 named omission.** Panel produced **three `unmet`**, against the Circuit's one.
 
 ### 11 — Sagittarius
 - Architecture **+** (has it)
@@ -610,7 +611,7 @@ for the "already has it" districts needing promotion rather than fresh writing) 
   sections.** The instrument simply never asked. Category and questions now at
   `Phase_Instructions/07_Phase_7_Native_Culture.md` §1b. **Sharpest two:** the Labs runs a thirty-year closed
   experiment on residents, and Libra legislated how long others may grieve and has no practice for its own dead.
-- [ ] **QA Completion Check** (9/13 passed: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini; 4 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
+- [ ] **QA Completion Check** (10/13 passed: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces; 3 remain — `Phase_Instructions/00c_Completion_QA_Checklist.md`. **Four districts complete. Scorpio (2026-08-29) was the first Mode B run — substrate folded in as a first-pass input rather than bolted on — and is the reference example for that mode.** The remaining ten should run in **Mode B** — substrate as a first-pass input, folded into the phases as written, not bolted on afterward. **They do not enter clean:** each carries 4-7 pre-Plan findings from 2026-07-09 that predate the shadow, general-population, and research-first disciplines, and both Gate 9 failures so far were in exactly that kind of material — read and Gate-9 them first. See `Phase_Instructions/00e_Substrate_Application_Pass.md` §11b.)
 
 Once all eight phases are checked complete, the districts are at genuine parity with the outer cities' template
 on everything that legitimately applies to a district, plus the pre-existing Ordinary Daily Life prerequisite and

@@ -119,7 +119,9 @@ regardless of what the gates say.
 `00b_General_Population_Discipline.md` · `00d_Shadow_Proportion_Discipline.md` ·
 `00e_Substrate_Application_Pass.md` · `00f_Review_Panel.md`.
 
-**0.2 Run Gate 0 — reconcile the Plan's claim against the file.** *(`00c` Gate 0.)* Open the district's block in
+**0.2 Run Gate 0 — reconcile the Plan's claim against the file, *and the file's own open-questions list against
+the Deep_Dives folder.*** *(Second half added 2026-08-29 — the Markets' megasheet listed three resolved
+mechanisms as open, a month after they were settled.)* *(`00c` Gate 0.)* Open the district's block in
 `../District_Culture_Development_Plan.md` and count the phases it claims against the phases the file contains.
 **This gate has caught a real defect in three of the six districts checked** — Taurus and Leo over-claiming
 ("ALL 8 PHASES COMPLETE" while missing Phase 7 entirely), Scorpio **under**-claiming (three finished phases
@@ -131,6 +133,13 @@ input. **All remaining districts are Mode B.**
 
 **0.4 They do not enter clean.** Every district carries **4-7 pre-Plan findings from 2026-07-09** that predate
 the shadow, general-population and research-first disciplines. **Read them before writing over them.**
+
+**0.4b ⚠ Read `../District_Refugee_Diaspora_Composition.md` NOW, not at research time.** *(Moved here from
+Step 3.7 on 2026-08-29, because it was skipped on the very first pass after it was written.)* It lived inside
+the research step, where it competed with the pick list and lost. **It is a mandatory read, not a research
+option.** Five of the first nine districts ignored it; the Markets pass skipped it too and only caught the
+omission at Step 8 — reading it then produced a new finding and corrections to three others, including the
+discovery that **the district is ~87.7% from a single city and has no idea.** Full evidence at Step 3.7.
 
 **0.5 Note any reserved decision** and state it at the head of the pass. *(`00e` §5, protocol from Capricorn.)*
 Five districts still lack a settled in-fiction name; Capricorn's Narrow Door is reserved outright. **Identify
@@ -161,8 +170,8 @@ back? **A "no route back" nobody has perceived as a problem is a textbook shadow
 **This is the primary generator and it comes first.** *(`00e` §5; `F_Rulerships.md` §5-6.)* **6 of 6 districts'
 strongest structural finding came from here.**
 
-**2.1 Identify the row's *shape*, then ask the matching question. The typology is closed** — every remaining
-district falls into one of four:
+**2.1 Identify the row's *shape*, then ask the matching question. The typology was declared closed at four and
+was not** — the Markets exposed a fifth. **Five shapes; the two remaining districts are one of each:**
 
 | Shape | Worked example | The question that unlocks it |
 |---|---|---|
@@ -170,6 +179,7 @@ district falls into one of four:
 | **One absence** | Taurus (no fall) | *What does lacking this faculty entirely mean?* |
 | **Double absence** | Leo (no exaltation, no fall) | *What is the one instrument it does have?* |
 | **Net-negative** | Scorpio | *Does its civic function require what it lacks?* |
+| **Doubled row** *(added 2026-08-29)* | the Markets; **the Undergrid, unwritten** | *Which faculty is doubled, and in which direction?* |
 
 **2.2 Then ask: are the deficits *addressed* or *diffuse*?** Three configurations observed. Both addressed (the
 Power Core — concentrated in its own opposite number, so its weakness has a name and a permanent grievance).
@@ -317,9 +327,11 @@ written source declared unnecessary without being opened.
   refuse, can *add* what the district cannot do (the Tally), or can **demand the district's own rule be applied
   more literally than the mainstream does** (the Recalibration Underground).
 - **Phase 7 has an eighth category the template omits: Death and the Dead** (`07_Phase_7` §1b, added
-  2026-08-29). **The 32-section template has no mortuary slot at all**, and measured across eight districts,
-  death practice appears only where some other finding dragged it in — **two districts scored zero on every
-  term.** Every society has one; write it deliberately.
+  2026-08-29). **The 32-section template has no mortuary slot at all**, and measured across nine districts with
+  a verified strip and five terms, death practice appears only where some other finding dragged it in — **two
+  districts score zero on every term.** **The question is obligatory; a section is not** — write one only where
+  the answer is distinctive, and **use the `funerar` stem**, which has now caught two sections that `funeral`
+  scored at zero.
 - **Phase 2 religion: use the Naming technique before inventing.** *(6 for 6.)* Search canon for religious
   register attached to non-religious objects. **It does not always return a religion** — a district that already
   has one yields a *stake*, a *compact*, or a *creed* instead.

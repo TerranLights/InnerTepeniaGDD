@@ -180,6 +180,21 @@ also the district it is set against — so its weakness has a name, a location, 
 attached. **A deficit with an address produces inter-district politics; a diffuse one produces drift.** Check
 `F_Rulerships.md` for whether the missing faculties cluster anywhere before writing the consequence.
 
+**The Markets supplied a fifth *shape*, which is a different axis from the deficit configurations below.** The
+four-shape typology (complete / one absence / double absence / net-negative) was declared closed. **It was not
+— it had no name for a row where one faculty holds *both* of its terms.** There are exactly two such districts
+and they are mirror images: **the Undergrid's ruling faculty is also its exalted one** (verification at
+maximum, twice over) and **the Markets hold both weak terms on that same faculty** (verification at minimum,
+twice over). Every other district spreads its strengths and deficits across different faculties.
+
+**So the shape asks a different question.** "What does the balance cost?" is meaningless where there is no
+balance. **Ask instead: *which faculty is doubled, and in which direction?*** The Markets' answer — *it can
+price anything and cannot prove what anything is* — could not have been reached from the complete-row question.
+
+**And the pairing rule follows from the shape, not from taste:** two districts holding one faculty at opposite
+extremes are each other's exact remedy, which is why they must be written together, and why **the remedy is
+unacceptable** — taking it means conceding the other's authority over the faculty itself.
+
 **The Circuit supplied a sixth — *multiply addressed* — and it inverts the assumption behind all five others.**
 Its missing faculty is at home in **two** districts and at its strongest of anywhere in the city in a **third**.
 Three suppliers, and it receives from none: one is its opposite number whose opposition *presents as kinship

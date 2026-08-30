@@ -262,7 +262,8 @@ professional performers are not its general musical culture.
 | 07 Aquarius | **Done 2026-08-29** — fourth Mode B district; first run under LAW 0 |
 | 08 Libra | **Done 2026-08-29** — fifth Mode B district; first complete research set (4/4) |
 | 09 Gemini | **Done 2026-08-29** — sixth Mode B district; **first district to receive the Death and the Dead category as part of the pass rather than by back-fill** |
-| 10-13 | Not started |
+| 10 Pisces | **Done 2026-08-29** — seventh Mode B district; **first written under the Virgo/Pisces pairing rule**; second district to earn a Death and the Dead section in-pass |
+| 11-13 | Not started |
 
 ---
 

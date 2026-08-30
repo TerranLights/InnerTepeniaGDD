@@ -1,6 +1,6 @@
 # Cross-District Differentiation Table
 
-**Created 2026-08-29, after six districts. Nine districts as of 2026-08-29.** One page listing **what each completed district's answer is, per
+**Created 2026-08-29, after six districts. Ten districts as of 2026-08-29.** One page listing **what each completed district's answer is, per
 category**, so that a new district can be checked against a single file instead of by re-reading six
 `Full_Extrapolation.md`s.
 
@@ -26,8 +26,9 @@ its column **in the same commit**.
 
 ## 1. Capability shape and deficit location
 
-**The typology is now closed** — all four shapes are filled, so every remaining district falls into one of them
-(`00e` §5).
+**The typology gained a fifth shape after the Markets** — the **doubled row**, where one faculty holds both of
+its weak terms (the Markets) or both of its strong ones (the Undergrid). **There are exactly two, they are
+opposites, and the Undergrid is the one still unwritten** (`00e` §5).
 
 | District | Shape | Characteristic failure | Deficits *addressed* or *diffuse*? |
 |---|---|---|---|
@@ -40,6 +41,7 @@ its column **in the same commit**.
 | **The Labs** (Aquarius) | double absence | one instrument, two irreconcilable accounts of it → **cannot form a stable intention**; cannot credit an individual or protect a dissenter | **reciprocal** — each pole holds exactly what the other lacks (Leo), and neither will ask |
 | **The Government District** (Libra) | **complete** | writes excellent law it cannot enforce; **cannot produce anyone personally accountable for a decision** | **reciprocal + outside** — force addressed in the Power Core (its opposite, asymmetric); individual authority in Leo, an easy affinity. **Borrows faces readily, hands not at all** |
 | **The Circuit** (Gemini) | double absence | one instrument — **transmission** — so its only measure of importance is **arrival order**; **a correction can never outrank the error** | **multiply addressed** — meaning is at home in the Frostlands *and* the Markets and strongest of all in the Sanctuary. **Three suppliers, three unrelated failures, no grievance ever forms** |
+| **The Markets** (Pisces) | **doubled row** *(new shape — one faculty holds both weak terms)* | verification at minimum, twice over, against the city's highest valuing capacity → **it can price anything and cannot prove what anything is** | addressed in **the Undergrid**, which holds the same faculty doubled at maximum — **and taking the remedy means conceding authority over what things *are*** |
 
 ---
 
@@ -55,6 +57,7 @@ its column **in the same commit**.
 | **The Labs** | **An open corpus anyone may extend, unattributed.** No performance at all; the only event is publication — with bitter, entirely deniable attribution disputes underneath. |
 | **The Government District** | **Ceremonial and scheduled.** A piece exists because an occasion required one. Technically excellent, two centuries deep, and nobody would put it on for pleasure. |
 | **The Circuit** | **Impersonation.** Two voices, one of them playing a real named person — voice, cadence, tics. Inseparable from ordinary speech, because relaying news *is* doing the voices. **The district's only functioning ranking instrument, and it does not know it has one.** |
+| **The Markets** | **Communal, slow, played from doorways into the alley, and nobody leads.** No piece has a composer — not lost, not suppressed: **the question has never been interesting to anyone here.** The one domain where the district's great deficit produces no injury at all, which is why it is the district's relief. |
 
 ---
 
@@ -70,6 +73,7 @@ its column **in the same commit**.
 | **The Labs** | *(none — and that is the finding)* | **Not a population at all.** The review board and the underground annex are the same people; the contradiction is inside each person. **Cannot be reformed from within and cannot be opposed from within.** There is nobody to organise. |
 | **The Government District** | *the True Believers* **(pre-existing canon)** | **Entirely proper, fully procedural, completely correct — and structurally incapable of arriving anywhere.** The only one that fails by being *accommodated* rather than resisted. The three canon factions are **one gradient, not three positions.** |
 | **The Circuit** | *"room-only"* (a term for accounts before it was a term for people; they use no name) | **Withholds, and demands nothing of anybody.** The first that makes no demand at all — they decline to put *their own* accounts on the network, believing some things are damaged by transmission. **The district cannot triangulate against silence**, so it is unsettled rather than opposed, and avoids rather than absorbs. |
+| **The Markets** | *the unjoined* **(promoted from canon)** | **Refuses a consolation.** Flood-affected residents who will not accept the religion's permission to stop asking whose memories they carry, and have spent decades trying to rebuild by hand the ownership map that broke. **They demand the district resume a question it agreed to drop** — and might be right, since the content survived and only the attribution was lost. The district's conscience, not its opposition. |
 
 > **Two rules that came out of this row.** **(1) Check for an existing counterculture in canon before deriving
 > one** — Capricorn already had its, and Step C correctly *confirmed* rather than replaced it. **(2) Do not
@@ -89,6 +93,7 @@ its column **in the same commit**.
 | **The Labs** | **only what worked** — successes published free and complete; failures never written, not falsified | wholly open | permanent | **absolute for members, not a category for subjects** |
 | **The Government District** | **everything, and it publishes almost none of it** | sealed outward, internally open | permanent | **holds everyone else's absolutely and has almost none of its own** |
 | **The Circuit** | **nothing, by construction** — it is the transmitting half of its own faculty and has no custody instinct. Its one archive is a *recovery* project for records it already lost | wholly open | **none — duration is demand-limited** | not a concept; the only sanction is on the source, never the item |
+| **The Markets** | **nothing, and for the opposite reason to the Circuit's** — it has custody of everything and **no faculty for describing any of it.** Its only archive is *people*: elders who personally remember which object passed through whose hands | not a concept | **one lifetime, and it dies with them** | disclosures are permanent and unwithdrawable — **death is the only thing that stops material moving** |
 
 *The Yards additionally runs an **informal favor ledger** in parallel with the formal archive, and would be
 offended by the suggestion that it is a record. Distinguished from Taurus's inherited grudges (attached to an
@@ -108,6 +113,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Labs** | **No native cuisine at all.** Eats every other district's food, secondhand and slightly wrong, entirely unembarrassed. Being fed means nothing here. |
 | **The Government District** | **Being fed means you are a *guest*** — a relation established and formally honoured. The only entry where the meaning is about the **pair** rather than the eater. Expert in everyone else's cuisine; its own eating is thin and hurried. |
 | **The Circuit** | **Being fed means somebody is trying to keep you longer.** A meal is spread across four venues; food is the one polite instrument for detaining a person past the point they meant to leave, and it is received as a compliment. **The axis is duration, which no other entry uses.** The injury is being fed and then not talked to. |
+| **The Markets** | **Being fed means somebody looked at you.** In a district whose universal social labor is deliberate inattention, a plate handed across a doorway is an admission that you were noticed and that the noticing was permitted. **The axis is attention.** Residents remember a given meal for thirty years and cannot explain to an outsider why it mattered. |
 
 > ⚠ **Caught-late collision, recorded rather than quietly fixed.** The Power Core and the Yards entries were
 > written a day apart and are nearly the same practice — *feed someone after a bad shift without comment.*
@@ -132,6 +138,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Labs** | **conversion** — no door is closed and no one is admitted; you keep up or stop coming. **The barrier is a hundred metres inside, unmarked** |
 | **The Government District** | **employment, and it is fast and genuinely open** — what takes decades is not entry but learning to read the room, and no institution bridges that gap |
 | **The Circuit** | **being repeated.** You are a visitor while what you say stops with the person you told; you are a resident the first time it reaches a stranger. A week is normal, nobody administers it — and **you stop being one the same way, with nobody noticing, including you** |
+| **The Markets** | **the neighbours stop not-looking at you.** No admission, no vetting, no door — you become a resident the day somebody on your lane looks directly at you and remarks on your business. **The only entry on this table where converting feels *worse* than being a visitor**, and every newcomer misreads it as hostility |
 
 ---
 
@@ -145,6 +152,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Labs** | **organizing** *(assigned from Taurus's three-way set; not yet written)* |
 | **The Yards** | **silence** — decades-long non-verbal feuds; and **complaint takes the form of procedure** |
 | **The Circuit** | **circulation** — a grievance has to travel to exist. Nothing is confronted; it is repeated until it is either everywhere or forgotten. **The one grievance that structurally cannot travel is the one from people who can no longer get out** |
+| **The Markets** | **withdrawal, then delayed discharge** — nothing is answered in the room; everything is processed alone afterward and returns days later fully formed. Escalation runs *looking at you* → exclusion → one disproportionate detonation. **No ladder is visible from outside** |
 
 **Three-way sets used so far, so they are not re-used:**
 - **Protest grammar** — Taurus (obstructs) / the Labs (organizes) / Leo (performs).
@@ -167,6 +175,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Labs** | **has no instrument that registers one person**, so it keeps doing real harm in the course of real good — sincerely, and without a record of it |
 | **The Government District** | keeps producing **correct outcomes nobody is answerable for**; its harmony is purchased with someone else's suffering **and it experiences the purchase as fairness** |
 | **The Circuit** | **destroys people's standing continuously with nobody deciding to, and experiences the whole process as an open market** — its one sacred principle (never stop a person from saying a thing) is exactly what forbids building the instrument that would fix it |
+| **The Markets** | **its greatest kindness and its worst neglect are the same act, and it has no instrument that could tell them apart** — distinguishing *wants privacy* from *is drowning* is a verification problem, and verification is the faculty at its lowest state here |
 
 ---
 
@@ -178,6 +187,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **Leo** | *(corrected off performer stage-dressing; see `00b`)* |
 | **Scorpio** | *(corrected off the transformation-phase masks; see `00b`)* |
 | **The Circuit** | **Two halves that do not match, worn on purpose.** Separate over- and under-layer wardrobes combined at the door; paired and repeating patterns; solid color uncommon. **Produced by mobility, not by function, rank, or ritual state** — you cannot own a coordinated outfit when the outer layer comes off a dozen times a day. Second-order: a *matched* outfit reads as *not going anywhere else today*. |
+| **The Markets** | **Second-hand, mended, layered, bright — and not read as poverty.** Clothing is a *find*: you are asked where you got it, never what it cost. Repairs are embroidered rather than hidden. **Produced by the salvage economy and by an aesthetic faculty, not by work or mobility.** The vice trades' theatrical costume is explicitly *work clothing* and locals read it instantly. |
 
 > **The distinguishing axis for future districts:** the three corrected entries above all failed by using a
 > narrow role's kit as the general answer. The Circuit's is the first Fashion row derived from **the district's
