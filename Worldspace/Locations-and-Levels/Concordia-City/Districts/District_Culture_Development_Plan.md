@@ -603,16 +603,41 @@ for the "already has it" districts needing promotion rather than fresh writing) 
 - [ ] Phase 7 — Native Culture (8/13 done: Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra; 5 new remain — Cuisine incl. siligel, Music, Arts, Human-Robot Relations, Counterculture, Private Life, Municipal Holidays)
 - [x] Phase 8 — lens decision pass (Robot-Specific Culture, theme/role-based) — **finalized**, see `Phase_Instructions/08...md` §1
 - [ ] Phase 8 — Robot-Specific Culture (3/13 done: Cancer, Taurus, Leo, all first-pass only — full Robot Universals triage still pending per the "Planned follow-on" section above; 10 new remain)
-- [ ] **⚠ BACK-FILL: Death and the Dead, all 8 completed districts.** *(New 2026-08-29.)* **The 32-section
-  template has no mortuary category** — verified against the audit above. Measured across the eight completed
-  districts, death practice appears **only where another finding dragged it in** (Scorpio 7 mentions, Aries 4,
-  Cancer 3), and **the Labs and the Government District score zero on every term.** Every society has funerary
-  practice; **the question is obligatory, a section is not** — a sealed city with no ground to open makes a
-  centralized or exported answer the expected one, and *"the body goes to Scorpio"* is a complete answer worth
-  one line. **Ask all eight, write a section only where the answer is distinctive, and expect fewer than eight
-  sections.** The instrument simply never asked. Category and questions now at
-  `Phase_Instructions/07_Phase_7_Native_Culture.md` §1b. **Sharpest two:** the Labs runs a thirty-year closed
-  experiment on residents, and Libra legislated how long others may grieve and has no practice for its own dead.
+- [ ] **⚠ BACK-FILL: Death and the Dead — every district that predates the category.** *(Recorded 2026-08-29;
+  scope corrected and confirmed by the developer.)*
+
+  **Nine districts to check:** Cancer · Taurus · Leo · Scorpio · Aries · Capricorn · Aquarius · Libra ·
+  **and the Circuit's own §XXII should be re-scanned with the corrected term list.** *(The Markets, the
+  Frostlands and the Undergrid each received the category in-pass and need no back-fill; the Hub has not been
+  written.)*
+
+  **Why it exists.** **The 32-section template has no mortuary category at all** — verified against the
+  Complete template audit above. Across the districts written before the category existed, death practice
+  appears **only where some other finding dragged it in**, and **the Labs and the Government District score
+  zero on every term.** Every society has one; the instrument simply never asked.
+
+  **The bound, and it governs the whole task.** **The question is obligatory. A section is not.** Concordia is
+  sealed with no ground to open, which makes a centralized or exported answer the *expected* one — *"the body
+  goes to Scorpio"* is a complete answer worth one line. **Ask all nine; write a section only where the answer
+  is distinctive; expect fewer than nine sections.** Thirteen bespoke funerary traditions in one sealed city
+  would be a Gate 6b failure in its own right.
+
+  **Use the corrected term list**, not the original one: `death` · `funerar` · `mortuar` · `mourn` · **`griev`**
+  · **`bereave`** · `burial`, case-insensitive, against a **dash-normalized** copy. **Four scan defects were
+  found in four consecutive districts, every one by content that existed and scored zero** — assume the list is
+  still short. Category, questions and full defect history at
+  `Phase_Instructions/07_Phase_7_Native_Culture.md` §1b.
+
+  **The four sharpest unanswered versions, as leads:** **the Labs** runs a thirty-year closed experiment on
+  residents who live inside it · **the Government District** legislated how long other people may grieve and has
+  no stated practice for its own dead · **Cancer** believes "the dead are maintained" and the category was never
+  asked of it directly · **Aries** has martyrs and a Silence Board and no funerary practice written.
+
+  **Worked examples to write against** — all three earned their sections and none did it the same way: the
+  Markets *(the district's only recognized ending, and the one thing it will not recirculate)*, the Frostlands
+  *(no body, so nobody is ever declared dead)*, the Undergrid *(it retrieves its own and hands them over at a
+  threshold)*.
+
 - [ ] **Downstream audit, AFTER district culture is finished** *(developer decision, 2026-08-29 — recorded so
   the sequencing fact is not lost, not as a concern)*. **The inhabitants/questline/NPC layers were all built
   before the 8-phase culture passes and have not been revisited since.** Dates, measured:
