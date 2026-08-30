@@ -110,6 +110,7 @@ from line 2088:
 | `Neo-Races-and-Cultures/_Method/Human_Universals_Extraction.md` | Donald E. Brown, *Human Universals* | Feeds the Neo-Races/Cultures framework |
 | `Reference/Real-World/The_True_Believer_Extraction.md` | Eric Hoffer, *The True Believer* (1951) | **Complete** — full text, all 4 Parts, 18 chapters, 125 numbered sections. First book of the 2026-08-29 worldbuilding-extraction pass. Endnote apparatus (~185pp of citations) not mined — bibliographic only |
 | `Reference/Real-World/The_Meme_Machine_Extraction.md` | Susan Blackmore, *The Meme Machine* (1999) | **Complete** — full substantive arc, all 18 chapters through the book's own closing synthesis. Weighted deliberately: religion/transmission/internet/self chapters extracted in full depth, sex/mate-choice chapters (9-10) compressed as lower-yield for this project's purposes |
+| `Reference/Real-World/Man_and_His_Symbols_Extraction.md` | Jung et al., *Man and His Symbols* (1964) | **⚠ PARTIAL, 2 of 5 sections — resume at p. 158.** Jung's own chapter (pp. 18-103) and Henderson's "Ancient Myths and Modern Man" (pp. 104-158) read in full and extracted. Von Franz's "The Process of Individuation" (flagged by the book's own intro as possibly the crux of the volume), Jaffé's visual-arts chapter, and Jacobi's case study **not yet read** |
 
 ---
 
