@@ -731,7 +731,9 @@ a terminal.
 not.** A section is written here because the answer is genuinely distinctive, not to satisfy the checklist.)*
 
 **Disposal is one line, and that line is the complete and correct answer to it.** Concordia is sealed and has
-no ground to open; the body goes to Scorpio, which does this for the city as a civic function; the family does
+no ground to open — **and what the city actually does with remains is unresolved and deliberately not asserted
+here** *(corrected 2026-08-29; the earlier claim naming Scorpio was invented and canon contains no mortuary
+arrangement for any district — deferred by the developer)*. The family does
 what families do. **Nothing about that is particular to the Circuit and it should not be inflated.**
 
 **What *is* particular is duration — and the substrate is what pointed at it.** The `§15 Source Gaps` note

@@ -504,6 +504,13 @@ a finding. **Where nothing else pulled it in, it is absent, and the instrument n
 **Bounded the same day, at the developer's direction:** the *question* is obligatory, **a section is not.**
 Real cities do not give every district a burial ground, and Concordia — sealed, with no ground to open — makes a
 centralized or exported answer the expected one. *"The body goes to Scorpio"* is a complete answer worth a line.
+
+> ⚠ **Superseded 2026-08-29, and the historical text above is left standing on purpose.** *"The body goes to
+> Scorpio"* **was invented.** Canon contains no mortuary arrangement for any district, and the line it was
+> half-remembered from belongs to **Cancer**. The disposal question is now **deferred by the developer** and
+> every pass writes it as unresolved — see runbook Step 0.4c. **The round-8 reasoning above is still correct in
+> every other respect**; only the worked example was wrong, and it is preserved because this index is the
+> historical record and deleting it would hide how the error propagated.
 **Thirteen bespoke funerary traditions in one sealed city would be its own Gate 6b failure.**
 
 **That is the second structural hole found in the Plan**, after *no phase covers inter-district relationships*.
@@ -583,7 +590,7 @@ multiple districts, check the stem before concluding the content is absent.)*
 ### The category's new bound got its first real test, and passed
 
 The Circuit **earned** a Death and the Dead section, and the bound is what made it good: disposal is one line
-(*sealed city, no ground, the body goes to Scorpio*) and **the distinctive part is duration** — Circuit mourning
+(*sealed city, no ground, disposal since **withdrawn as invented** and now deferred — see above*) and **the distinctive part is duration** — Circuit mourning
 lasts exactly as long as the item stays in circulation. **The district had no funerary institution for 250 years
 and learned one from its refugees**, recently and incompletely, which explains an institution already in canon
 rather than inventing a parallel. **First district to receive the category as part of the pass rather than by

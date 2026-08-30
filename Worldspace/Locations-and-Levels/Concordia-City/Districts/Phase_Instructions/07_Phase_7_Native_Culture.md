@@ -113,9 +113,9 @@ city with **finite interior volume and no ground to open** — which makes a cen
 function is a citywide service; a district that uses it has answered the question fully by using it.
 
 **Write a Death and the Dead section only where the district's answer is characteristic of that district.**
-Where the answer is *"the body goes to Scorpio, the family does what families do, and nothing about that is
-particular to us,"* **record it in a line and move on — do not inflate it into a section to satisfy a
-checklist.** A thin invented rite is worse than an honest sentence. *(Same discipline as Gate 8: a category that
+Where the answer is *"the remains go wherever the city's arrangement sends them, the family does what families
+do, and nothing about that is particular to us,"* **record it in a line and move on — do not inflate it into a
+section to satisfy a checklist.** *(And per §1b, do not name that arrangement: it is deferred.)* A thin invented rite is worse than an honest sentence. *(Same discipline as Gate 8: a category that
 produces nothing standout for this district is allowed to produce nothing.)*
 
 **The obligation, precisely:** ask the four questions below of every district; **write a section only where the
