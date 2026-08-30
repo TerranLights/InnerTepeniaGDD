@@ -263,7 +263,8 @@ professional performers are not its general musical culture.
 | 08 Libra | **Done 2026-08-29** — fifth Mode B district; first complete research set (4/4) |
 | 09 Gemini | **Done 2026-08-29** — sixth Mode B district; **first district to receive the Death and the Dead category as part of the pass rather than by back-fill** |
 | 10 Pisces | **Done 2026-08-29** — seventh Mode B district; **first written under the Virgo/Pisces pairing rule**; second district to earn a Death and the Dead section in-pass |
-| 11-13 | Not started |
+| 11 Sagittarius | **Done 2026-08-29** — eighth Mode B district; **Death and the Dead is the strongest section yet** (no body, so nobody is ever declared dead) |
+| 12-13 | Not started |
 
 ---
 

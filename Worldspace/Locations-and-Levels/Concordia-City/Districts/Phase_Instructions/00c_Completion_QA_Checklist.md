@@ -142,6 +142,13 @@ done
 > grep -cE '· sport [0-9]|per-term counts|^ *funeral [0-9]' /tmp/findings.md
 > ```
 >
+> **Third scan-term defect, 2026-08-29, from the Frostlands.** The death-category term list has **no grief
+> stem.** The Frostlands scored `funerar` 0 · `mortuar` 0 · `mourn` 0 · `burial` 0 against **`death` 10,
+> `griev` 6, `bereave` 1** and a full Death and the Dead section — because **its characteristic bereavement has
+> no body and no event**, so the funerary words genuinely do not apply. **Add `griev` and `bereave`**, and
+> re-check the back-fill districts against them. *(Three stem defects now — `funerar`, `mortuar`, `griev` — all
+> found by a district whose content was present and scored zero. Assume the list is still incomplete.)*
+>
 > **Do not use `grep -c "Gate [0-9]"` as the verification** — it matches the legitimate `## XIX. Gate 9
 > finding —` headers that belong in the findings, and will report contamination on six districts that are
 > clean.

@@ -1,6 +1,6 @@
 # Cross-District Differentiation Table
 
-**Created 2026-08-29, after six districts. Ten districts as of 2026-08-29.** One page listing **what each completed district's answer is, per
+**Created 2026-08-29, after six districts. Eleven districts as of 2026-08-29.** One page listing **what each completed district's answer is, per
 category**, so that a new district can be checked against a single file instead of by re-reading six
 `Full_Extrapolation.md`s.
 
@@ -42,6 +42,7 @@ opposites, and the Undergrid is the one still unwritten** (`00e` §5).
 | **The Government District** (Libra) | **complete** | writes excellent law it cannot enforce; **cannot produce anyone personally accountable for a decision** | **reciprocal + outside** — force addressed in the Power Core (its opposite, asymmetric); individual authority in Leo, an easy affinity. **Borrows faces readily, hands not at all** |
 | **The Circuit** (Gemini) | double absence | one instrument — **transmission** — so its only measure of importance is **arrival order**; **a correction can never outrank the error** | **multiply addressed** — meaning is at home in the Frostlands *and* the Markets and strongest of all in the Sanctuary. **Three suppliers, three unrelated failures, no grievance ever forms** |
 | **The Markets** (Pisces) | **doubled row** *(new shape — one faculty holds both weak terms)* | verification at minimum, twice over, against the city's highest valuing capacity → **it can price anything and cannot prove what anything is** | addressed in **the Undergrid**, which holds the same faculty doubled at maximum — **and taking the remedy means conceding authority over what things *are*** |
+| **The Frostlands** (Sagittarius) | double absence *(fourth)* | one instrument — **meaning** — so **it can only keep what can be made to mean something**, and the unrankable is dropped at the moment of telling, undetectably | addressed in **the Circuit** and **the Undergrid** — and **neither line has ever run**, because both suppliers are *inward* and this district has no practice at travelling in that direction |
 
 ---
 
@@ -58,6 +59,7 @@ opposites, and the Undergrid is the one still unwritten** (`00e` §5).
 | **The Government District** | **Ceremonial and scheduled.** A piece exists because an occasion required one. Technically excellent, two centuries deep, and nobody would put it on for pleasure. |
 | **The Circuit** | **Impersonation.** Two voices, one of them playing a real named person — voice, cadence, tics. Inseparable from ordinary speech, because relaying news *is* doing the voices. **The district's only functioning ranking instrument, and it does not know it has one.** |
 | **The Markets** | **Communal, slow, played from doorways into the alley, and nobody leads.** No piece has a composer — not lost, not suppressed: **the question has never been interesting to anyone here.** The one domain where the district's great deficit produces no injury at all, which is why it is the district's relief. |
+| **The Frostlands** | **Long, solo, written to be sung alone** — the sound you make across a twelve-hour haul, and to tell anyone in earshot that a person is out there. **A room full of Frostlanders will talk for six hours and not sing together.** Plenty of melody, almost no fixed-content form; the one rigid form in the district was imported and is filed as an accent. |
 
 ---
 
@@ -74,6 +76,7 @@ opposites, and the Undergrid is the one still unwritten** (`00e` §5).
 | **The Government District** | *the True Believers* **(pre-existing canon)** | **Entirely proper, fully procedural, completely correct — and structurally incapable of arriving anywhere.** The only one that fails by being *accommodated* rather than resisted. The three canon factions are **one gradient, not three positions.** |
 | **The Circuit** | *"room-only"* (a term for accounts before it was a term for people; they use no name) | **Withholds, and demands nothing of anybody.** The first that makes no demand at all — they decline to put *their own* accounts on the network, believing some things are damaged by transmission. **The district cannot triangulate against silence**, so it is unsettled rather than opposed, and avoids rather than absorbs. |
 | **The Markets** | *the unjoined* **(promoted from canon)** | **Refuses a consolation.** Flood-affected residents who will not accept the religion's permission to stop asking whose memories they carry, and have spent decades trying to rebuild by hand the ownership map that broke. **They demand the district resume a question it agreed to drop** — and might be right, since the content survived and only the attribution was lost. The district's conscience, not its opposition. |
+| **The Frostlands** | *"the Fog"* (the district's word; they don't use it) | **Correct, popular, and completely ineffective.** They raise seals, intervals, tolerances, inspection dates — and are **invited, agreed with sincerely, and never acted on**, because the district has no form in which those become a decision. **The first counterculture facing no opposition of any kind that fails anyway**; the obstacle is an absent mechanism, not resistance. |
 
 > **Two rules that came out of this row.** **(1) Check for an existing counterculture in canon before deriving
 > one** — Capricorn already had its, and Step C correctly *confirmed* rather than replaced it. **(2) Do not
@@ -94,6 +97,7 @@ opposites, and the Undergrid is the one still unwritten** (`00e` §5).
 | **The Government District** | **everything, and it publishes almost none of it** | sealed outward, internally open | permanent | **holds everyone else's absolutely and has almost none of its own** |
 | **The Circuit** | **nothing, by construction** — it is the transmitting half of its own faculty and has no custody instinct. Its one archive is a *recovery* project for records it already lost | wholly open | **none — duration is demand-limited** | not a concept; the only sanction is on the source, never the item |
 | **The Markets** | **nothing, and for the opposite reason to the Circuit's** — it has custody of everything and **no faculty for describing any of it.** Its only archive is *people*: elders who personally remember which object passed through whose hands | not a concept | **one lifetime, and it dies with them** | disclosures are permanent and unwithdrawable — **death is the only thing that stops material moving** |
+| **The Frostlands** | **only what can be made to mean something** — everything else is dropped at the moment of telling, by a filter nobody installed | wholly open, given away to anyone who asks | as long as the story stays worth telling | not a concept; **the district has no notion of proprietary competence at all** |
 
 *The Yards additionally runs an **informal favor ledger** in parallel with the formal archive, and would be
 offended by the suggestion that it is a record. Distinguished from Taurus's inherited grudges (attached to an
@@ -114,6 +118,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Government District** | **Being fed means you are a *guest*** — a relation established and formally honoured. The only entry where the meaning is about the **pair** rather than the eater. Expert in everyone else's cuisine; its own eating is thin and hurried. |
 | **The Circuit** | **Being fed means somebody is trying to keep you longer.** A meal is spread across four venues; food is the one polite instrument for detaining a person past the point they meant to leave, and it is received as a compliment. **The axis is duration, which no other entry uses.** The injury is being fed and then not talked to. |
 | **The Markets** | **Being fed means somebody looked at you.** In a district whose universal social labor is deliberate inattention, a plate handed across a doorway is an admission that you were noticed and that the noticing was permitted. **The axis is attention.** Residents remember a given meal for thirty years and cannot explain to an outsider why it mattered. |
+| **The Frostlands** | **Being fed means you were counted.** Rations are arithmetic here, against known requirements for known durations, by people who have watched a miscount kill somebody — so a plate is a place on a manifest somebody made in advance. **The axis is inclusion in the count.** The strange injury: a warm, generous, *unplanned* meal reads as lovely to a visitor and mildly alarming to a resident. |
 
 > ⚠ **Caught-late collision, recorded rather than quietly fixed.** The Power Core and the Yards entries were
 > written a day apart and are nearly the same practice — *feed someone after a bad shift without comment.*
@@ -139,6 +144,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Government District** | **employment, and it is fast and genuinely open** — what takes decades is not entry but learning to read the room, and no institution bridges that gap |
 | **The Circuit** | **being repeated.** You are a visitor while what you say stops with the person you told; you are a resident the first time it reaches a stranger. A week is normal, nobody administers it — and **you stop being one the same way, with nobody noticing, including you** |
 | **The Markets** | **the neighbours stop not-looking at you.** No admission, no vetting, no door — you become a resident the day somebody on your lane looks directly at you and remarks on your business. **The only entry on this table where converting feels *worse* than being a visitor**, and every newcomer misreads it as hostility |
+| **The Frostlands** | **being given a real job, within hours** — no probation, no vetting, no questions. Warmest and fastest in Concordia, and a designed vulnerability: suspicion has to be taught here and mostly isn't. **But residency is not membership** — a clan is accumulated crossings, so the second stage has no completion state and for some people never begins |
 
 ---
 
@@ -153,6 +159,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Yards** | **silence** — decades-long non-verbal feuds; and **complaint takes the form of procedure** |
 | **The Circuit** | **circulation** — a grievance has to travel to exist. Nothing is confronted; it is repeated until it is either everywhere or forgotten. **The one grievance that structurally cannot travel is the one from people who can no longer get out** |
 | **The Markets** | **withdrawal, then delayed discharge** — nothing is answered in the room; everything is processed alone afterward and returns days later fully formed. Escalation runs *looking at you* → exclusion → one disproportionate detonation. **No ladder is visible from outside** |
+| **The Frostlands** | **public argument, and then nothing** — dissent goes straight to a debate hall, is heard openly and at length, and produces no action unless it can be made to mean something. **Heresy is entertainment; repetition gets a smaller room.** No sanction beyond that, ever: outside is lethal and nobody here gets left in it |
 
 **Three-way sets used so far, so they are not re-used:**
 - **Protest grammar** — Taurus (obstructs) / the Labs (organizes) / Leo (performs).
@@ -176,6 +183,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **The Government District** | keeps producing **correct outcomes nobody is answerable for**; its harmony is purchased with someone else's suffering **and it experiences the purchase as fairness** |
 | **The Circuit** | **destroys people's standing continuously with nobody deciding to, and experiences the whole process as an open market** — its one sacred principle (never stop a person from saying a thing) is exactly what forbids building the instrument that would fix it |
 | **The Markets** | **its greatest kindness and its worst neglect are the same act, and it has no instrument that could tell them apart** — distinguishing *wants privacy* from *is drowning* is a verification problem, and verification is the faculty at its lowest state here |
+| **The Frostlands** | **everything it does to care for its people is done in the register of meaning, and the things that would actually keep them alive have no meaning in them** — so the knowledge that would prevent the next disaster falls through the telling, every time, and the archive fills up with excellent stories |
 
 ---
 
@@ -188,6 +196,7 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 | **Scorpio** | *(corrected off the transformation-phase masks; see `00b`)* |
 | **The Circuit** | **Two halves that do not match, worn on purpose.** Separate over- and under-layer wardrobes combined at the door; paired and repeating patterns; solid color uncommon. **Produced by mobility, not by function, rank, or ritual state** — you cannot own a coordinated outfit when the outer layer comes off a dozen times a day. Second-order: a *matched* outfit reads as *not going anywhere else today*. |
 | **The Markets** | **Second-hand, mended, layered, bright — and not read as poverty.** Clothing is a *find*: you are asked where you got it, never what it cost. Repairs are embroidered rather than hidden. **Produced by the salvage economy and by an aesthetic faculty, not by work or mobility.** The vice trades' theatrical costume is explicitly *work clothing* and locals read it instantly. |
+| **The Frostlands** | **One good outer layer, kept for years, read by its repair history** — where it has been patched, with what, how many times, which says roughly what a service record would elsewhere. **A visibly new coat is the conspicuous garment.** Underneath: thin, cheap, extremely bright. **Visitors who only see people outdoors think the district dresses in grey.** |
 
 > **The distinguishing axis for future districts:** the three corrected entries above all failed by using a
 > narrow role's kit as the general answer. The Circuit's is the first Fashion row derived from **the district's

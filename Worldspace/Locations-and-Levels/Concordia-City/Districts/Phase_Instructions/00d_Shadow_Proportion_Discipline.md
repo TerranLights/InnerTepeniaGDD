@@ -50,6 +50,36 @@ actually said about failure modes — those sections are dense on purpose. **Tha
 extraction, not a statement about how much of a district is shadow.** Applying a substrate file proportionally
 to its own section lengths will produce a district that is 40% pathology, which is wrong.
 
+## ⚠ Do not scale an individual's behavior into a civic sanction
+
+**Added 2026-08-29, from the Frostlands, after a developer correction.**
+
+The substrate files describe **one person at a time** — that is what the source books are, and several of the
+files say so outright in their own §15. **A line about how this temperament treats a friend is not a statement
+about how the district treats a resident**, and promoting one into the other produces institutions no
+population would tolerate.
+
+**The instance:** the substrate says this temperament *"exiles people who keep losing the same argument"* —
+which in the source is a person ending a friendship with someone who will not move on. The pass turned it into
+a district that **socially excludes a whole faction for being tedious.** The developer's objection was
+immediate and correct: *"it may be annoying, but it's not something that they would drive people into
+essentially near-guaranteed death over."*
+
+**Two rules come out of it.**
+
+1. **Ask what population share the source claim describes** — the same question `00b` asks about Fashion, now
+   applied to shadow material. An individual's impatience scales to **a smaller room and a shorter hearing**,
+   not to a sanction.
+2. **A sanction must be proportionate to the district's physical conditions, and those conditions must be
+   checked.** In the Frostlands, *outside is lethal* — so any exclusion-shaped penalty is a death sentence in
+   practice, and a culture whose deepest reflex is that nobody gets left out in the cold **will not impose one
+   over tedium.** Before writing any exclusion, ask what it physically costs the excluded person **in that
+   district**, and whether the district would actually pay that price for that offense.
+
+**And the corrected version was better.** Replacing exclusion with *"they are invited, agreed with, and nothing
+follows"* produced a stronger finding — **a failure mode with no opponent in it**, which is exactly what `00d`
+asks for and what the exile version could never have been, since exile requires somebody to do the excluding.
+
 ## Check canon for an existing no-villain mechanism before deriving one
 
 **Added 2026-08-29, from Libra.** Canon sometimes already contains the mechanism, fully formed, and deriving a

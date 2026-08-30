@@ -97,8 +97,8 @@ least one is wrong.
 QA**. The remaining ten should run in **Mode B** — substrate folded in as a first-pass input rather than bolted
 on afterward.
 
-> **Progress, updated 2026-08-29 after the Markets.** **10 of 13 districts are complete and QA-passed** —
-> Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces. **Three remain: Sagittarius,
+> **Progress, updated 2026-08-29 after the Frostlands.** **11 of 13 districts are complete and QA-passed** —
+> Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces, Sagittarius. **Two remain:
 > Virgo, and the Hub** *(the Hub deferred by the developer, who has an approach in mind for it)*. **Gate 9 has
 > now fired on eight consecutive districts and every single time in the pre-Plan 2026-07-09 material.**
 
@@ -848,3 +848,73 @@ is extra content, and the check should be re-run whenever a pass runs long.**
   treat as a warning about counting ornament as change rather than as an achievement. **Both recent passes
   named an item as ornament and one as withheld**, which is the discipline working — but the trend should be
   watched, not celebrated.
+
+
+---
+
+## Twelfth round — the Frostlands, and a correction that improved the finding (2026-08-29)
+
+**Eighth Mode B run, and the first district written directly after its own opposition** — the case the runbook
+warns about, where the hazard is symmetry rather than contradiction.
+
+### The non-symmetry check earned its place
+
+Both this district and the Circuit have record problems, and the obvious move was to write one as the other
+inverted. **The three-step procedure held.** Shape gave the question; the ruler gave the instrument
+(**meaning**); the instrument gave a consequence unrelated to the Circuit's: **the Frostlands can only keep
+what can be made to mean something, and everything else is dropped at the moment of telling** — by a filter
+nobody installed, which nobody can detect, because the only evidence would be knowledge the district never had
+a form for. **The Circuit keeps everything and ranks nothing; the Frostlands keep only what they have already
+ranked.** Different object, different moment, different detectability. Finding VII carries the comparison as a
+table so a later pass can check it rather than trust it.
+
+### The developer caught a scale error the own-pass gate did not
+
+The counterculture was first written as a group the district **socially excludes for being tedious**. That was
+wrong twice: it **scaled an individual-psychological source line** — one person ending a friendship with
+someone who will not move on — **into a civic sanction**, and it ignored the district's physical conditions.
+The developer's objection: *"it may be annoying, but it's not something that they would drive people into
+essentially near-guaranteed death over."* **In a district where outside is lethal, exclusion is not a mild
+penalty**, and a culture whose deepest reflex is that nobody gets left in the cold would not impose one over
+boredom.
+
+**Two rules recorded in `00d`:** ask what population share a *shadow* source claim describes, the same question
+`00b` asks about Fashion; and **check what a sanction physically costs in that district** before writing it.
+
+**And the corrected version is better.** *They are invited, agreed with sincerely, and nothing follows* is a
+**failure mode with no opponent in it** — which is exactly what `00d` asks for and what the exile version
+structurally could not be, since exile requires somebody to do the excluding. **Recorded because the honest
+lesson is not "I made an error" but "the error was making the finding weaker, and the constraint improved
+it."**
+
+**Gate 9's own-pass half did not catch this. A human reader did.** One catch and one miss across two outings is
+the accurate record.
+
+### The Source Gaps technique had its best run yet
+
+The substrate declares three absences — **grief, scarcity, and cold** — and does not connect them. **All three
+are the district's present condition**: sixty-three dead and routine expedition losses, a bust that took the
+political power and left the infrastructure, and a cold that is *"the fundamental organizing fact of
+existence."* **The Frostlands are living in the exact three conditions their own temperament has no vocabulary
+for**, and so they perform all three in the only register they have — memorial, narration, philosophy — **all
+of which work, at the highest standard, to no effect.**
+
+### Smaller
+
+- **A third scan-term defect: the death list has no grief stem.** `funerar` 0 · `mortuar` 0 · `mourn` 0 ·
+  `burial` 0 against `death` 10, **`griev` 6, `bereave` 1**, with a full mortuary section — because this
+  district's characteristic bereavement **has no body and no event**, so funerary words do not apply. Three
+  stem defects now, all found the same way. **Assume the list is still incomplete.**
+- **A Panel position was structurally uncastable for the first time in eleven districts.** The Undergrid could
+  not be voiced as the Neighbor because **there is no relationship to speak from** — no history, no grievance,
+  no trade, no contact. **A silence that confirms a finding rather than merely recording one.**
+- **`unmet` at one, and it partly contradicts last round's claim.** After the Markets produced three, I argued
+  the count was diagnostic of how much a district has worth protecting. **The Frostlands have plenty and still
+  produced mostly `refereed`** — because their problems are **absences they have never perceived**, not
+  trade-offs they have chosen, and **a district cannot refuse to give up something it does not know it has.**
+  Two variables, not one.
+- **Gate 6b's new previous-district-first rule paid immediately**, since the Circuit was both the most recent
+  district and this one's structural opposition — the collision risk twice over.
+- **Finding XXX is a reserved handoff to the Hub**, filed because the Sagittarius substrate contains **the only
+  Ophiuchus chapter in the corpus** and nobody would look for it there. It pairs with round 10's finding that
+  the Hub has no capability row: **§16 is the closest thing to a substitute generator that exists.**
