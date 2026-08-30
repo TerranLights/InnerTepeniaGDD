@@ -918,3 +918,65 @@ of which work, at the highest standard, to no effect.**
 - **Finding XXX is a reserved handoff to the Hub**, filed because the Sagittarius substrate contains **the only
   Ophiuchus chapter in the corpus** and nobody would look for it there. It pairs with round 10's finding that
   the Hub has no capability row: **§16 is the closest thing to a substitute generator that exists.**
+
+
+---
+
+## Thirteenth round — the gates check the work against itself, and nothing checks it against the world (2026-08-29)
+
+**Eleven districts. This round is one measurement and one new gate, and the measurement is the uncomfortable
+part.**
+
+### Every error the developer has caught is the same kind, and no gate looks that way
+
+**Seven on record, across the whole project:** Esperanza's framing (real-world trivia foregrounded over what the
+place is in-world) · a character's peacetime moves written as war-driven · Scorpio's mask culture (a narrow
+practice as the general one — this became `00b`) · the Review Panel built as studio roles (wrong category of
+thing entirely) · death made an obligatory section rather than an obligatory question · diaspora ranking
+weights read as population shares · the Frostlands "exiling" people for tedium.
+
+**Now the gates.** Gate 0 checks a claim against a file. Gate 1 checks coverage. Gate 3 checks contradiction.
+Gate 6b checks duplication. Gate 9 checks whether a mechanism was written both ways. **Every one of them
+compares two things that are already inside the project.**
+
+> **The eleven-gate apparatus is entirely internal-consistency checking. All seven developer catches were
+> external plausibility failures** — material that was coherent, sourced, differentiated, survived every gate
+> and a full Review Panel, and was **wrong about how people behave.**
+
+**The Frostlands case is the clean demonstration**: the district-exiles-the-boring version passed Gates 0
+through 10 *and* a nine-position panel. Nothing in the apparatus had a standpoint from which to notice.
+
+### Gate 11 — plausibility
+
+Four questions, asked of a district's strongest findings: **would a person actually do this · at this cost,
+priced in that district's physical conditions · for this reason · and whose behavior am I actually
+describing?** The second matters most and is the one the Frostlands failed: **the same sanction is not the same
+act in two places**, and exclusion where outside is lethal is not exclusion where it means being unfollowed.
+
+**And the gate is reported as the weakest on the list, deliberately.** A self-audit runs a plausibility check
+with **the same faculty that produced the error.** The developer has been the only working instance — **seven
+for seven, against an apparatus that caught none of them.** So Gate 11 records **what it cleared as well as
+what it flagged**, which is the only way to ever find out whether it does anything. → `00c`, runbook Step 6,
+and a note in `00f` that **the panel does not do this job either and looks as though it does.**
+
+### The scale error, named once
+
+**Three of the seven catches are one mistake in three costumes** — `00b`'s narrow-role-as-general-population,
+`00d`'s individual-psychology-as-civic-sanction, and a weighted-ranking file read as a census. **One question
+covers all three:** *what population, over what span, does my source actually describe, and am I asserting it
+of a larger one?* Cross-referenced into `00b` and `00d` rather than left as three separate lessons.
+
+### Smaller
+
+- **The counterculture typology has not converged, and that is measurable.** Ten distinct types across eleven
+  districts — refuse the record · refuse recognition · refuse the silence · *add* a missing faculty · demand the
+  rule applied literally · not a population at all · fails by being accommodated · withholds and asks nothing ·
+  refuses a consolation · correct, popular and completely ineffective. **Essentially zero repetition**, which is
+  the best available evidence that the never-carry-answers rule is doing real work rather than being asserted.
+- **Research yield across five measured passes: 67% · 100% · 80% · 82% · 78%.** Back inside the band after the
+  peak, and the two high passes are the two that named an item as *ornament* and one as *withheld* — the
+  discipline that keeps the number honest.
+- **Both remaining districts are edge cases, and the instrument has never been run on one.** Virgo is the second
+  **doubled row** and the city's most diverse composition; **the Hub has no capability row at all.** Eleven
+  districts have been run where the primary generator works. **Neither of the last two is a normal run**, and
+  the Hub in particular is the falsification test the honesty notes have been asking for since round 5.

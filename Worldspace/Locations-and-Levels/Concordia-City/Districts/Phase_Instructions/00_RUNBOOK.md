@@ -409,6 +409,14 @@ grep pass.**
 > wrote**, before the QA block. Gate 9 is eight for eight and **every firing was against the same inherited
 > defect class** — it has never been tested against a finding written under this methodology. See `00c`.
 
+**Gate 11 — plausibility, and it is the one direction the other gates cannot look.** *(Added 2026-08-29.)*
+**Every gate above checks a relation between two things already inside the project.** Gate 11 checks the work
+against the world: *would a person actually do this — at this cost, in this district's physical conditions, for
+this reason?* Plus **the scale question**, which is three of the seven developer catches in one sentence:
+**what population, over what span, does my source actually describe, and am I asserting it of a larger one?**
+**It is the weakest gate on the list and `00c` says why** — a self-audit runs it with the same faculty that
+produced the error. Report what it flagged *and* what it cleared.
+
 **Gate 4 — swap against the partner most likely to survive**, not a convenient comparable. **Record which
 finding was weakest**, not just that the set passed.
 
@@ -465,6 +473,11 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
   direction was never the real problem; an unverified instrument was.** A scan whose boundary is undefined
   returns whatever the last edit happened to make it return, and the author will believe it either way.
   **Re-check in both directions, and verify the tool before trusting either.**
+- **The gates have never caught a plausibility failure, and the developer has caught seven.** Measured across
+  eleven districts. Every gate checks something inside the project against something else inside the project;
+  **the errors that got through were all coherent, sourced, differentiated, and wrong about how people
+  behave.** Gate 11 exists to look in that direction and **is not expected to work well** — record what it
+  clears, so the next external catch can be checked against it.
 - **The prediction table is at twelve straight confirmations and should be read as house style, not evidence.**
   The predictions were written, the districts chosen, the passes run and the results graded by the same person.
   **The only prediction that ever failed did so on a countable fact; every survivor is interpretive.** Two

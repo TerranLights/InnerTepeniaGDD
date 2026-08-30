@@ -49,6 +49,18 @@ who actually lives in the district.
 
 ---
 
+## ⚠ This is one instance of a larger error, named 2026-08-29
+
+**Three of the seven errors the developer has caught in this project are the same mistake in different
+costumes:** this file's narrow-role-as-general-population, `00d`'s one-person's-psychology-as-civic-sanction,
+and a weighted-ranking source read as a population count. **One question catches all three:**
+
+> **What population, over what span, does my source actually describe — and am I asserting it of a larger
+> one?**
+
+**Ask it of every source, not only the substrate** — research findings, canon lines, composition files, and
+this project's own earlier passes. Full statement at `00c` **Gate 11**.
+
 ## The actual process fix
 
 1. **Identify what population share the strongest existing material describes.** If it's a subset — a

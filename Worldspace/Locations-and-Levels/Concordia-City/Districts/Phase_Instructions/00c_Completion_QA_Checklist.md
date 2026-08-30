@@ -395,6 +395,69 @@ fire on them and check them before checking anything written later.
 A "no route back" that nobody in the district has ever perceived as a problem is a textbook shadow finding under
 `00d` — unintended, unnoticed, and discoverable only by a player who goes looking.
 
+## Gate 11 — Plausibility: would a person actually do this?
+
+**Added 2026-08-29, after eleven districts, and it exists because of a measured pattern rather than a hunch.**
+
+### The measurement
+
+**Every substantive error the developer has caught in this project belongs to one class, and no other gate
+checks for it.** Seven on record:
+
+| Catch | What was wrong |
+|---|---|
+| Esperanza's framing | real-world trivia foregrounded over what the place *is* in-world |
+| A character's moves read as war-driven | a causal frame asserted that the facts did not support |
+| Scorpio's "mask culture" | a narrow practice presented as the general one → became `00b` |
+| The Review Panel as studio roles | the wrong *category of thing* entirely |
+| Death as an obligatory section | a real finding over-generalized into a requirement |
+| Diaspora percentages | a source read past the limits it states about itself |
+| The Frostlands' "exile" | individual psychology scaled to civic sanction, ignoring what it physically costs |
+
+**Now compare what the gates catch.** Gate 0: claim against file. Gate 1: coverage. Gate 3: contradiction.
+Gate 6b: duplication. Gate 9: one-way mechanisms. **Every one of them checks a relation between two things
+already inside the project.** Not one checks the work against **the world.**
+
+> **The gate set is entirely internal-consistency checking, and every developer catch has been an external
+> plausibility failure** — material that was coherent, sourced, well-differentiated, passed every gate, and was
+> wrong about how people behave.
+
+### The gate
+
+**Before closing a district, take its three or four strongest findings and ask, of each, in this order:**
+
+1. **Would a person actually do this?** Not *is it consistent* — would somebody, on an ordinary day, with
+   ordinary motives, actually behave this way?
+2. **At this cost?** Price the behavior **in that district's physical conditions.** Social exclusion in the
+   Frostlands is exposure to lethal cold; in the Circuit it is being unfollowed. **The same sanction is not the
+   same act in two places, and a cost has to be paid by somebody for a reason proportionate to it.**
+3. **For this reason?** Annoyance does not buy a death. Tedium does not buy exile. **If the stated motive
+   would not, in life, produce the stated action, the finding is wrong however well it is sourced.**
+4. **Whose behavior am I actually describing?** — the scale question, below.
+
+### The scale error, named once because it is three of the seven
+
+**`00b` (narrow role → general population), `00d` (one person's psychology → civic sanction), and the diaspora
+misreading (a weighted sample → a population) are the same error in three costumes.** One question catches all
+three:
+
+> **What population, over what span, does my source actually describe — and am I asserting it of a larger
+> one?**
+
+**Ask it of every source, not just the substrate**: research findings, canon lines, the diaspora file, and
+this project's own earlier passes.
+
+### ⚠ And this is the weakest gate on the list. Say so.
+
+**A self-audit cannot reliably run a plausibility check**, because the thing being checked is the author's own
+sense of how people behave — the same faculty that produced the error. **The developer has been the only
+working instance of this gate**, catching seven for seven while the eleven-gate apparatus caught none of them.
+
+**So Gate 11 is not a substitute for that and should not be reported as if it were.** It is a prompt to look in
+the one direction the other gates cannot. **Record what it flagged and what it passed**, so that the next time
+the developer catches something, it is possible to check whether this gate had looked at it and cleared it — 
+which is the only way to find out whether it does anything at all.
+
 ## Gate 10 — The Review Panel
 
 **Added 2026-08-29, at the developer's direction.** Full mechanism and roster:
