@@ -604,6 +604,27 @@ standout should be.
 
 ---
 
+## ⚠ The panel does not check plausibility either, and it looks as though it does
+
+**Added 2026-08-29, after eleven districts.** This file reads like the place a *would-people-actually-do-this*
+objection would surface. **It is not, and the distinction matters because the panel's approval has been
+treated as reassurance.**
+
+**Every position here asks whether the district serves *them*** — the Child wants the children accounted for,
+the Ruler wants a counterpart to negotiate with, the Neighbor wants its grievance heard, the Lover faculty
+asks whether the place is lovable. **Those are questions about coverage, fairness and vitality, asked from
+inside the fiction by someone who already accepts its premises.**
+
+> **A panelist cannot object that a district is implausible, because the panelist only exists if it is.**
+
+**The demonstration, and it is recent.** The Frostlands' counterculture was first written as a district that
+**socially excludes people for being tedious** — in a place where outside is lethal. That version passed Gates
+0 through 10 **and a full nine-position panel with two mandatory outside positions.** Not one of them had a
+standpoint from which to notice, because every one of them was a person living in a district where that was
+already normal.
+
+**So plausibility is `00c` Gate 11's job, it runs separately, and a clean panel is not evidence for it.**
+
 ## 9. Known limits
 
 - **Not independent review** (§7). Better-directed attention, not a second opinion.
