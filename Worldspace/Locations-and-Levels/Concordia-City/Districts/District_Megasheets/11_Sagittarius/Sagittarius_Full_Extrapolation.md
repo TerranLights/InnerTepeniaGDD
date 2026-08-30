@@ -691,7 +691,10 @@ implicitly refused. They keep records. That is the entire practice.
 most distinctive one on the table.)*
 
 **Disposal is not one line here, because there is frequently nothing to dispose of.** Every other district in
-Concordia sends its dead to Scorpio. **The Frostlands are the one district whose dead routinely do not come
+Concordia has *some* arrangement for its dead — **what it is has not been decided and this pass does not
+assert one** *(corrected 2026-08-29; the earlier "goes to Scorpio" claim was invented, canon contains no
+mortuary arrangement for any district, and the question is deferred by the developer)*. **Which matters less
+here than anywhere: the Frostlands are the one district whose dead routinely do not come
 home** — lost on a crossing, under ice, in a structure that went down, at a distance that made recovery
 impossible or not worth another crew.
 

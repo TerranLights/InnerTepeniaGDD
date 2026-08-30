@@ -676,8 +676,9 @@ Undergrid could have taken it at any point in two hundred and fifty years.
 
 *(Phase 7 §1b. A section is written because the answer is distinctive; §II is promoted and completed.)*
 
-**Disposal ends where everyone else's does — the body goes to Scorpio.** What is particular is everything
-before that.
+⚠ **Where the remains ultimately go is unresolved and this pass does not assert it** *(corrected 2026-08-29;
+the earlier "goes to Scorpio" claim was invented — deferred by the developer)*. **What is particular here is
+everything before that point, and none of it depends on the answer.**
 
 **The Undergrid retrieves its own dead, and it is the only district that does.** A recovery in a flooded gallery
 or a collapsed run is a confined-space operation, and nobody else in Concordia is competent to perform one.
@@ -685,10 +686,11 @@ or a collapsed run is a confined-space operation, and nobody else in Concordia i
 rigging, shoring, careful sequence, two people who know the route. Nobody has ever remarked on this. It is
 simply the job, done by the people whose job it is.
 
-**And the handover happens at a threshold, and Scorpio's people are not permitted past it.** This is not
-hostility — the two districts get on well — but the rule is absolute and unstated: **the Undergrid brings its
-dead up to the boundary and no further help is accepted.** The district that controls access to everything
-exercises the control at exactly one moment where it costs it something.
+**And the handover happens at a threshold, and whoever receives the dead is not permitted past it.** This is
+not hostility toward anyone — the rule is absolute and unstated: **the Undergrid brings its dead up to the
+boundary itself and no further help is accepted below it.** The district that controls access to everything
+exercises that control at exactly one moment where it costs it something. *(Who receives them at the boundary
+is the deferred question above; the refusal to let them come down is the finding, and it holds regardless.)*
 
 **The private practice, promoted from §II and sustained:** a partner's decorated junction box or cable run left
 untouched for a period, and **the specific tunnels the person knew best recited aloud** before that territory is

@@ -156,6 +156,25 @@ discovery that **the district is ~87.7% from a single city and has no idea.** Fu
 >
 > **Composition-share as a design axis is parked** by developer decision — not urgent, revisit later.
 
+**0.4c ⚠ Two questions are deferred by the developer and must NOT be answered by a culture pass.** *(Set
+2026-08-29.)*
+
+1. **Disposal of the dead.** **Canon has no mortuary arrangement for any district** — no cremation, no
+   interment, no civic service, verified. A sealed city with no ground to open must do something and **the
+   project has not decided what.** Deferred deliberately, because deriving it now risks locking an answer the
+   deep passes may reshape. **Write it as explicitly unresolved.** *(An earlier version of `07_Phase_7` §1b
+   asserted "the body goes to Scorpio, which does this for the city as a civic function." **That was invented**
+   and passed Gate 3 on three districts because each pass checked against the previous pass rather than against
+   canon. Removed. **Do not reintroduce it.**)*
+2. **Siligel refining.** **Two answers exist in the repo and disagree** — `Quest-Triggers.md` puts refined
+   siligel in **Aries** foundries; Virgo's §IV proposes **Capricorn**. The Frostlands mine the precursors either
+   way. **Deferred as a mechanical/supply-chain question rather than a cultural one.** A pass may write a
+   district's *relationship* to siligel — who handles it, what it costs them, what the trade means locally —
+   **but must not settle who refines it**, and must not build a finding that depends on the answer.
+
+**Both are Gate 7 *withheld* material if research bears on them, and Step 0.5 reserved-handoff findings if a
+pass turns up something that would decide them.**
+
 **0.5 Note any reserved decision** and state it at the head of the pass — **and know that you will probably
 find material for it anyway.** *(Protocol extended 2026-08-29, after it happened four times.)*
 

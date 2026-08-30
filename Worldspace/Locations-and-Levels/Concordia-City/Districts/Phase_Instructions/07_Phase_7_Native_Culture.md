@@ -122,8 +122,19 @@ produces nothing standout for this district is allowed to produce nothing.)*
 answers are distinctive.** Do not manufacture divergence — thirteen bespoke funerary traditions in one sealed
 city would be its own Gate 6b failure.
 
-- **What happens to a body here?** Concordia is sealed — **every district's answer is constrained by that**, and
-  no two need answer alike.
+- ⚠ **DO NOT ANSWER "what happens to a body."** *(Developer decision, 2026-08-29 — deferred.)*
+  **Concordia has no canonical disposal arrangement.** No cremation, no interment, no civic mortuary service,
+  for any district — verified against `District_Canon_Reference.md`, which contains none of it. A sealed city
+  with finite interior volume and no ground to open must do *something*, and **the project has not decided
+  what.**
+  **An earlier version of this section asserted that "the body goes to Scorpio, which does this for the city as
+  a civic function." That was invented, and it was wrong twice over** — it is not in canon, and the line it was
+  half-remembered from (*"the most elaborate memorial tradition in the city; the dead are not simply remembered,
+  they are maintained"*) **belongs to Cancer, not Scorpio.** It passed Gate 3 on three districts because each
+  pass checked against the previous pass instead of against canon.
+  **Until it is decided: write disposal as explicitly unresolved.** Say the district's practice *around* the
+  dead and state that where the remains go is not established. **Do not invent a mechanism, and do not repeat
+  another pass's invention.**
 - **Who does it?** A trade, a duty, a rotation, an outside service? *(Scorpio's body-breakers are one answer;
   the Yards, which never developed a burial fund, is another.)*
 - **What is remembered, by whom, and for how long?** Distinguish the **record** from the **rite** — Aries sings

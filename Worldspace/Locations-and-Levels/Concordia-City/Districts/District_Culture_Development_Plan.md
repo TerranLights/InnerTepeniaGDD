@@ -616,9 +616,11 @@ for the "already has it" districts needing promotion rather than fresh writing) 
   appears **only where some other finding dragged it in**, and **the Labs and the Government District score
   zero on every term.** Every society has one; the instrument simply never asked.
 
-  **The bound, and it governs the whole task.** **The question is obligatory. A section is not.** Concordia is
-  sealed with no ground to open, which makes a centralized or exported answer the *expected* one — *"the body
-  goes to Scorpio"* is a complete answer worth one line. **Ask all nine; write a section only where the answer
+  **⚠ DISPOSAL IS DEFERRED — do not answer it.** *(Developer decision, 2026-08-29.)* **Canon has no mortuary
+  arrangement for any district**, and an earlier version of this task asserted one that was invented. Write
+  disposal as **explicitly unresolved** in every district; the practice *around* the dead does not depend on it.
+
+  **The bound, and it governs the whole task.** **The question is obligatory. A section is not.** **Ask all nine; write a section only where the answer
   is distinctive; expect fewer than nine sections.** Thirteen bespoke funerary traditions in one sealed city
   would be a Gate 6b failure in its own right.
 

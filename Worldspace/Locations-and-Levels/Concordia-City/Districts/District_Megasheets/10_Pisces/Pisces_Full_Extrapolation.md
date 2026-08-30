@@ -646,8 +646,11 @@ entirely unmoved**, and will leave unable to say whether they won.
 *(Phase 7 §1b. **The bound applies — a section is written because the answer is distinctive, not to satisfy a
 checklist.**)*
 
-**Disposal is one line and should not be inflated:** sealed city, no ground, the body goes to Scorpio, which
-does this for Concordia as a civic function.
+⚠ **Disposal is deliberately unresolved and this pass does not assert it.** *(Corrected 2026-08-29 — an
+earlier version claimed "the body goes to Scorpio, which does this for Concordia as a civic function." **That
+was invented; canon contains no mortuary arrangement for any district**, and the question is deferred by the
+developer.)* A sealed city with no ground to open must do something and the project has not decided what.
+**Everything below is about the district's practice around its dead, which does not depend on the answer.**
 
 **What is distinctive is that this is the only ending the district recognizes at all.** The Markets take apart
 and recirculate everything — goods, debts, obligations, augmentations, standing, identities, origin-labels.
