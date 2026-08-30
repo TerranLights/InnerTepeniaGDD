@@ -97,9 +97,9 @@ least one is wrong.
 QA**. The remaining ten should run in **Mode B** — substrate folded in as a first-pass input rather than bolted
 on afterward.
 
-> **Progress, updated 2026-08-29 after the Frostlands.** **11 of 13 districts are complete and QA-passed** —
-> Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces, Sagittarius. **Two remain:
-> Virgo, and the Hub** *(the Hub deferred by the developer, who has an approach in mind for it)*. **Gate 9 has
+> **Progress, updated 2026-08-29 after the Undergrid.** **12 of 13 districts are complete and QA-passed** —
+> Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces, Sagittarius, Virgo. **One
+> remains: the Hub** *(the Hub deferred by the developer, who has an approach in mind for it)*. **Gate 9 has
 > now fired on eight consecutive districts and every single time in the pre-Plan 2026-07-09 material.**
 
 > **Correction, same day.** An earlier version of this line said the remaining ten "enter clean." **They do
@@ -980,3 +980,63 @@ of a larger one?* Cross-referenced into `00b` and `00d` rather than left as thre
   **doubled row** and the city's most diverse composition; **the Hub has no capability row at all.** Eleven
   districts have been run where the primary generator works. **Neither of the last two is a normal run**, and
   the Hub in particular is the falsification test the honesty notes have been asking for since round 5.
+
+
+---
+
+## Fourteenth round — the Undergrid, and Gate 11's first outing (2026-08-29)
+
+**Ninth Mode B run, twelfth district, and the first pass run with Gate 11.**
+
+### Gate 11 worked on its first try, and caught the Frostlands' error one district later
+
+**The gate flagged Finding XXI**, where a newcomer who reports a genuine fault too early has doors close
+"permanently." **Priced against the district's actual conditions, that was written harder than the Undergrid
+would pay** — a decent district that needs the labour does not end somebody's prospects over one correct
+report. **The finding was bounded before it shipped**: what closes is the audit-privilege door, not the person;
+they keep the job, the crew and the training.
+
+**That is the exact shape of the error the developer caught on the Frostlands**, caught this time by the
+apparatus. **One data point, and it is recorded as one** — the gate also *cleared* four other findings, which
+is logged so a future external catch can be checked against what Gate 11 passed.
+
+### The pairing rule paid, and the second doubled row is not the first inverted
+
+The Markets' file was read in full before Step 2, as the rule requires. **Every term of the two rows is
+mirrored — and the consequences are not.** The Markets can price anything and cannot prove what a thing *is*;
+**the Undergrid can measure anything and cannot declare anything *finished*, because *done* is a valuation.**
+Different object, and — the part that matters — **different tense**: the Markets have been at their equilibrium
+for two centuries, while **the Undergrid's load accumulates and has not detonated yet.** Two districts the
+table calls opposites are not in the same kind of trouble.
+
+**And the reciprocity turned out to be total** — every faculty inverted, both of the Undergrid's deficits at
+their strongest in the Markets. **The most complete supply relationship the dignity system produces, and
+unusable from both ends**: the Markets cannot concede authority over what things *are*, and the Undergrid
+cannot accept that worth is what someone will pay, **because it already knows what it has been paid.**
+
+### Borrowed Form is 3 for 3 and should be promoted
+
+**Three consecutive districts in which the missing faculty was supplied by an incoming community and filed by
+the host as pleasant local colour**: the Markets learned mourning from Zukelli; the Frostlands' only durable
+record-form is Denison's recitation; and **the Undergrid's only closure instrument is Davis's Quiet Credit and
+Casey's Junction Toast** — peer-issued sign-off, running nightly in every bar in the district, which nobody
+recognizes as the thing the district cannot do for itself. **That is no longer an occasional technique and the
+runbook should say so.**
+
+### Smaller
+
+- **A fourth scan-term defect, and it is a character.** `human-robot` scored 0 because the finding uses an **en
+  dash**. **Four defects in four consecutive districts** — `funerar`, `mortuar`, `griev`, dash normalization —
+  **every one found by content that existed and scored zero.** Run the list against a dash-normalized copy.
+- **A standing blind spot, not a term problem: `siligel` scored 0 on the Frostlands *and* the Undergrid** — one
+  district that mines its precursors, one that runs its purification. **Two in a row is a pattern.**
+- **Gate 9's own-pass half is 2 for 3** and its catch here strengthened the spine rather than patching a hole:
+  **nobody administers the grant of audit privilege**, so a resident can serve the probation and never be
+  released from it — Finding VII operating on a person's status instead of a work order.
+- **`unmet` at one again, and it now has an explanation that survives two tests.** It measures **what a district
+  is knowingly protecting.** The Undergrid consciously protects exactly one thing — **non-ownership** — and
+  produced exactly one `unmet`, on precisely that. The rest of its problems are absences it has never
+  perceived, and you cannot refuse to surrender what you do not know you have.
+- **Twelve districts done. The Hub is the only one left, it is deferred, it has no capability row, and the
+  Frostlands pass filed the only Ophiuchus material in the corpus under its own name (Finding XXX there).**
+  Everything needed to start it is now in one place.

@@ -149,6 +149,18 @@ done
 > re-check the back-fill districts against them. *(Three stem defects now — `funerar`, `mortuar`, `griev` — all
 > found by a district whose content was present and scored zero. Assume the list is still incomplete.)*
 >
+> **Fourth scan-term defect, 2026-08-29, from the Undergrid — and this one is a *character*, not a word.**
+> `human-robot` returned **0** while the content was present and correctly scoped: the finding uses an **en
+> dash**. **Run the term list against a dash-normalized copy of the text** (`sed 's/[–—]/-/g'`) as well as
+> case-insensitively.
+>
+> **Four defects in four consecutive districts** — `funerar`, `mortuar`, `griev`, dash normalization — **every
+> one found by content that existed and scored zero.** The list should still be assumed incomplete.
+>
+> **And a standing blind spot rather than a term problem: `siligel` scored 0 on both the Frostlands and the
+> Undergrid**, in a district that mines its precursors and a district that runs its purification. **Two in a
+> row is a pattern.** Check it deliberately rather than trusting the scan to surface it.
+>
 > **Do not use `grep -c "Gate [0-9]"` as the verification** — it matches the legitimate `## XIX. Gate 9
 > finding —` headers that belong in the findings, and will report contamination on six districts that are
 > clean.
