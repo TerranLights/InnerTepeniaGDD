@@ -860,29 +860,28 @@ not, and no friction at any point** — which is, in its way, the most Markets t
 
 ---
 
-## XXIX. ⚠ Added after the pass was written — the district is nine-tenths from one city and does not know it
+## XXIX. ⚠ Added after the pass was written — what the diaspora file actually supplies
 
 **Recorded as a correction rather than folded in silently.** This pass reached its QA block without consulting
 `District_Refugee_Diaspora_Composition.md` — **one commit after that file was measured and named the largest
 unexploited source in the folder.** The rule survived nine districts and failed on the first one written after
 it. The file was then read, and **it changes three findings.** Both facts belong on the record.
 
-### The composition, and it is the most lopsided in Concordia
+### The composition — and a correction to how this pass first read it
 
-**Shirayuki ~87.7%. Dome Fuji ~12.3%. Nobody else clears the threshold.** No other district is remotely this
-concentrated.
+**Two cities clear the file's listing threshold: Shirayuki, then Dome Fuji.** An earlier version of this
+finding treated the file's percentages as population shares and claimed the district was "nine-tenths from one
+city." **That was a misreading and it is withdrawn.**
 
-**And the district has no idea.** Finding XX establishes that the not-looking includes **not asking where you
-came from**, and §V establishes that origin-labels dissolve within a few years because nothing ever raises
-them. **So the one demographic fact that would most obviously explain the Markets to themselves is the exact
-category of fact their central social discipline is built to never mention.** Nobody is hiding it. There has
-simply never been an occasion on which anyone counted, and there is no faculty here that could have (Finding
-VII).
+**The file states its own limits and they matter:** the figures are **weighted relative-ranking scores, not a
+census** — *"not a literal population count… roughly this much bigger/smaller than that other contributor"* —
+and only cities above a ~3–4% threshold get an entry, with **smaller communities present in every district**
+and simply not itemized. **A city can be the largest listed contributor and still be a minority of the actual
+population.** Nothing in this project establishes the real split, and **no finding here rests on one.**
 
-**Third-order:** every visiting district reads the Markets as Concordia's great mixture — the place everyone
-ends up — and **it is very nearly a single-city quarter wearing that reputation.** The reputation is not false
-about *function*; it is badly wrong about *population*, and the Markets cannot correct it because they do not
-possess the information either.
+**What survives, and it needs no numbers:** Shirayuki and Dome Fuji are the two communities large enough to
+have brought **institutions** with them, and those institutions are traceable in the district today. That is
+the file's real yield, and it is what the rest of this finding is built on.
 
 ### What it corrects
 
@@ -917,8 +916,8 @@ warmer, more transparent welcome."*
 
 **That is Finding IX's information economy and Finding XII's vouching, derived independently, from a different
 file, by a different pass, months earlier.** Two derivations converging is the strongest confirmation available
-here — and it also means **the district's entry ritual is experienced as a loss by the very population that
-makes up nine-tenths of it**, every generation, without anyone naming what was lost.
+here — and it also means **the district's entry ritual is experienced as a loss by one of its largest incoming
+communities**, every generation, without anyone naming what was lost.
 
 
 ---

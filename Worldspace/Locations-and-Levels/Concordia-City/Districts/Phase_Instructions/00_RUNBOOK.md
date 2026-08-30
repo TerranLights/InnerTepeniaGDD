@@ -141,36 +141,20 @@ option.** Five of the first nine districts ignored it; the Markets pass skipped 
 omission at Step 8 — reading it then produced a new finding and corrections to three others, including the
 discovery that **the district is ~87.7% from a single city and has no idea.** Full evidence at Step 3.7.
 
-> ### ⚠ Read the *concentration*, not just the entries. It varies by a factor of four and nobody has used it.
-> *(Measured across all thirteen districts, 2026-08-29.)*
+> ### ⚠ Do not read the percentages as population shares. *(Corrected 2026-08-29 by the developer.)*
 >
-> | District | contributors | top | top-2 | largest |
-> |---|---|---|---|---|
-> | **10 Pisces** | **2** | **87.7** | **100.0** | Shirayuki |
-> | 13 The Hub | 5 | 41.2 | 68.1 | Lazar |
-> | 11 Sagittarius | 7 | 39.6 | 57.3 | Denison |
-> | **05 Aries** | **3** | 39.0 | **73.9** | Denison |
-> | 07 Aquarius | 6 | 36.4 | 56.1 | Halley |
-> | 09 Gemini | 7 | 30.0 | 58.7 | Janbogo |
-> | 04 Scorpio | 7 | 29.8 | 54.8 | Casey |
-> | 02 Taurus | 9 | 26.3 | 41.3 | Lazar |
-> | 01 Cancer | 7 | 24.6 | 46.6 | Esperanza |
-> | 03 Leo | 9 | 23.9 | 42.7 | Casey |
-> | 06 Capricorn | 8 | 22.9 | 42.5 | Neumayer |
-> | 08 Libra | 10 | 19.2 | 33.8 | Zhongshan |
-> | **12 Virgo** | 8 | **13.3** | **25.6** | Davis |
+> The composition file states its own limits and an earlier version of this section ignored them. **The figures
+> are weighted relative-ranking scores, not a census** — the file's own words: *"relative-ranking figures, not a
+> literal population count… treat the percentages as 'roughly this much bigger/smaller than that other
+> contributor,' not as census-grade precision."* It also lists **only cities clearing a ~3–4% threshold**, and
+> notes that **smaller communities exist in every district** and are simply not itemized.
 >
-> **Top-2 share runs from 25.6% to 100%.** These are not the same kind of social object and the passes have
-> been treating them as if they were. **A district that is nine-tenths one city has a dominant transplanted
-> culture that reads as native** — its "local" customs are somebody's imported ones, unrecognized. **A district
-> whose largest contributor is 13% has no such thing** and its culture must be synthesis or friction, because
-> nothing arrived big enough to set the tone. **Aries is effectively three cities and its file uses *refugee*
-> and *transplant* zero times.**
+> **So a city can be a large listed contributor and a minority of the actual population at the same time**, and
+> nothing in this project establishes the real split. **Do not build a finding on a percentage.** Use the file
+> for what it actually supplies: **named, portable institutions and customs, and how each one adapts on
+> arrival** — which is where its real yield has always come from.
 >
-> **Directly relevant to the two districts left:** Sagittarius is **concentrated** (57.3% top-2) and Virgo is
-> **the most diverse district in Concordia** (25.6%, nothing above 13.3%). **So the Markets and the Undergrid
-> are opposites on this axis too** — one city pretending to be a mixture, against a genuine mixture — which is
-> a second, independent reason to write them as a pair.
+> **Composition-share as a design axis is parked** by developer decision — not urgent, revisit later.
 
 **0.5 Note any reserved decision** and state it at the head of the pass. *(`00e` §5, protocol from Capricorn.)*
 Five districts still lack a settled in-fiction name; Capricorn's Narrow Door is reserved outright. **Identify

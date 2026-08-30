@@ -781,24 +781,31 @@ whoever runs the next pass; the megasheet is read by everyone. → `00c` Gate 0,
 
 **Ten districts done. This round is three measurements, one of which was aimed at my own recent work.**
 
-### Diaspora concentration varies by a factor of four and no pass has used it
+### ⚠ A misreading, caught by the developer, recorded rather than quietly deleted
 
-The Markets' 87.7%-from-one-city finding looked like a curiosity about one district. **Measured across all
-thirteen, it is an axis**, and top-2 contributor share runs from **25.6% (Virgo) to 100% (the Markets)**, with
-contributor counts from **2 to 10**.
+**This round originally led with a claim that diaspora composition varies by a factor of four across the
+thirteen districts and is an unused design axis — including that the Markets are "nine-tenths from one city."
+That was wrong and it is withdrawn.**
 
-**These are not the same kind of social object.** A district that is nine-tenths one city **has a dominant
-transplanted culture that reads to everyone, including its residents, as native** — its "local" customs are
-somebody's imports, unrecognized as such. A district whose largest contributor is 13% **cannot have one**, and
-its culture has to be synthesis or friction, because nothing arrived big enough to set a tone. **Aries is
-effectively three cities — 73.9% between two of them — and its file uses *refugee* and *transplant* zero
-times.**
+**The composition file states its own limits in its own methodology note, and I had read that note and quoted
+from it earlier in the same session.** The figures are **weighted relative-ranking scores, not a census** —
+*"not a literal population count… roughly this much bigger/smaller than that other contributor, not
+census-grade precision"* — and the file lists **only cities clearing a ~3–4% threshold**, stating explicitly
+that **smaller communities exist in every district** and are not itemized. **So a city can be the largest
+listed contributor and simultaneously a minority of the actual population**, which is precisely the
+developer's correction, and nothing in the project establishes the real split.
 
-**And it lands directly on the two districts left.** Sagittarius is concentrated (57.3% top-2); **Virgo is the
-most diverse district in Concordia**, nothing above 13.3%. **So the Markets and the Undergrid are opposites on
-this axis as well as on verification** — one city pretending to be a mixture, against a real one. A second,
-independent reason to write them as a pair, and it was sitting in a file nobody had opened. → runbook Step
-0.4b.
+**What this costs and what it does not.** The withdrawn claim was a *quantitative* one. **The diaspora file's
+actual yield is unaffected**, because that yield has always been qualitative: named, portable institutions and
+**how each one adapts on arrival** — Shirayuki's garment ateliers arriving as self-expression and converting to
+concealment, its open name-based mentorship failing to survive and re-forming as entry-by-traded-vulnerability,
+Dome Fuji's fixed-date observance persisting inside a religion with no calendar. **None of those depend on a
+percentage and all of them still stand.**
+
+**The lesson is narrower and more useful than the finding would have been: do not build a finding on a number
+whose source disclaims it.** The file warned about this in writing, at the top, and the pass used the numbers
+anyway because they were tidy. **Composition-share as a design axis is parked by developer decision** — not
+urgent, revisit later. → runbook Step 0.4b.
 
 ### The Hub has no capability row — the primary generator does not work there
 
