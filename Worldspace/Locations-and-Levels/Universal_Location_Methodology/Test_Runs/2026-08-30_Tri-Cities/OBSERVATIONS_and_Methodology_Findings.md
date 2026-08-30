@@ -167,6 +167,48 @@ only the comparison against the full population caught it.
 > know how much cities differ *in general*. **Report the z-score, not the difference.**
 > **Without this, any three locations will appear to differ meaningfully on any metric.**
 
+## 2.5 A second over-claim, caught by the same scan discipline — and canon had a better line
+
+**What happened.** Phase 5's Finding R-1 originally claimed as new the observation that Sinheung needs to be
+seen while Zhongshan refuses to look. **The verification scan found canon already carries the contrast in three
+places**, and one of them is better than what I wrote: Sinheung's own sheet says its people prefer a city that
+*"wears its ambition openly **rather than performing quiet superiority the way Zhongshan does next door**."*
+
+**Canon has *Sinheung's reading of Zhongshan* — as superiority.** My draft had Sinheung reading it as
+ordinary quiet, which is flatter and less true.
+
+**What survived, revised:** canon states the opposition as **temperament**; the capability frame states it as a
+**supply relationship that cannot complete** — and the misattribution of motive *(Sinheung reads structural
+preoccupation as contempt)* is the part canon does not have.
+
+> **Pattern worth naming, now that it has happened twice in one run:** **both of my false-novelty claims were
+> about the *most interesting* findings.** The pull toward "canon has never noticed this" is strongest exactly
+> where the finding is most attractive. **Treat any "this is new" claim about a headline finding as
+> presumptively false until scanned.**
+
+## 2.6 Building the whole run on an exceptional configuration — caught by the developer, not by me
+
+**What happened.** The run was structured as a **simultaneous three-location co-write**, and every headline
+finding depends on that. **I did not notice this was exceptional** until the developer stated the
+architectural rule: *the methodology's fundamental unit is one location, start to finish; multi-location is a
+possible extra, never the base structure.*
+
+**Why it was not caught internally.** `01` §5.3 *permits* co-writing a small set, so nothing in the procedure
+flagged it. **The methodology has no check that asks whether the configuration being run is representative** —
+and the first-ever test was run on the single least representative location set in the project.
+
+> **This is the district folder's recorded failure repeating in a new costume.** The README's own criticism is
+> that *"eighteen consecutive prediction confirmations came from a self-grader,"* with the unapplied remedy
+> being **to run the case chosen because it looks least likely to conform.** I ran the case most likely to
+> conform and was about to report the confirmation.
+>
+> **PROPOSED — a new pre-flight line, and it is cheap:**
+> ***"Is this location's configuration typical, or exceptional? If exceptional, say in what way, and say which
+> findings depend on the exceptional property."*** A pass cannot correct for a bias it has not declared.
+
+**Full analysis in `03_Generalizing_Back_to_the_Base_Methodology.md`, which is now the run's primary
+deliverable.**
+
 ---
 
 # 3. Findings about the METHODOLOGY
@@ -304,10 +346,32 @@ factually correct."*
 
 ---
 
+## 4.3 A rule this run broke, self-caught and recorded rather than quietly tolerated
+
+**`01` §5.2 rule 4: *do not build the location's single strongest finding on a provisional assumption.***
+
+**Phase 5's Finding R-4 — that Sinheung is replaceable, because the Federation needs the chambers rather than
+Sinheung, and the design belongs to Neumayer — is the run's strongest single finding.** It rests on **what the
+Federation needs**, and **the Federation has no pass**: it is a Band-6 polity that has never been written.
+**The finding therefore rests on exactly the kind of provisional parental assumption the rule forbids
+building on.**
+
+**Not withdrawn** — the Neumayer design-authority fact is canon and load-bearing on its own — **but flagged**,
+and the flag is the point. The alternative was to notice and say nothing.
+
+> **Observation about the rule itself:** it is easy to obey while writing a weak finding and hard to obey when
+> the strong one arrives, **because you do not know which finding is strongest until the pass is nearly done.**
+> **PROPOSED: move this check from `01` §5.2 (where it reads as advice at declaration time) into Step 5
+> Reconciliation, as a retrospective question — *"which finding is strongest, and what does it rest on?"***
+
+---
+
 # 5. Running list of PROPOSED methodology changes
 
-**Not applied. Collected for a single decision after all three passes finish**, per the runbook's own rule that
-a methodology change and its runbook update land in the same commit.
+> **⚠ Superseded and expanded.** The consolidated, confidence-ordered list of **fourteen** proposals now lives
+> in **`03_Generalizing_Back_to_the_Base_Methodology.md` §7**, restructured around the developer's
+> single-location-first correction. **The table below is the original nine, kept as a record of what was
+> visible before that correction reframed the run.**
 
 | # | File | Change | Confidence |
 |---|---|---|---|
