@@ -58,7 +58,7 @@ has ever needed.*
   production is itself one of the city's exports). Glitch-Coolant — **confirmed a genuine open slot**: Fort
   McMurdo isn't named in either canon category — this pass derives its placement, see §6. Robot Elementals &
   Solar Symbols — confirmed directly: **Solar symbol Jupiter + Robo-Element Earth**
-  (`to-be-integrated/city-symbol-pairs.md`, "the de facto capital — dominance so obvious it needs no assertion,
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "the de facto capital — dominance so obvious it needs no assertion,
   quietly load-bearing"). Human-Robot Relations Baseline — ordinary, with §16 already giving unusually strong
   confirmation (genuinely, not just nominally, origin-blind and species-blind on the shift floor). The
   Fragmentation Matrix checked and found not to apply. **Fabrication chambers were explicitly considered and

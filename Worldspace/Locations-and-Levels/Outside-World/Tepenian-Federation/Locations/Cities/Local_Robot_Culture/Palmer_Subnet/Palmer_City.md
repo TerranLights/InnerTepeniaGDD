@@ -73,7 +73,7 @@ performance, because for the robots actually living it, it was plausibly always 
   lists; Palmer City is named in neither, a genuine open slot this pass derives, see §6 — arguably the single
   most natural bohemian-pole fit found anywhere in this project, given the city's whole civic economy already
   runs on curated variety and spectacle. Robot Elementals & Solar Symbols — confirmed directly: **Solar symbol
-  Earth + Robo-Element Fire** (`to-be-integrated/city-symbol-pairs.md`: "a fully, completely alive city of art,
+  Earth + Robo-Element Fire** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "a fully, completely alive city of art,
   music, and culture — rivaling Las Vegas, New Orleans, and St. Petersburg — inside a harsh, unforgiving
   surrounding environment") — already on file, no duplicate-pair risk within the subnet. Human-Robot Relations
   Baseline — **the single most concentrated, most institutionally load-bearing local instance found anywhere in

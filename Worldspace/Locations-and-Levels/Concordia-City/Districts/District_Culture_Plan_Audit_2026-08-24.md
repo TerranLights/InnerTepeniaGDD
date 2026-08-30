@@ -68,7 +68,7 @@ siligel 6 · cuisine 4 · music 13 · counterculture 5 · holiday 4 · human-rob
   *only two* high-Grief districts. ✓
 - **Armor set** — Sanctuary Warden Vest / Caretaker's Embrace Plating: confirmed in
   `District_Armor_Augmentations_and_Protection.md:64`. ✓
-- **`to-be-integrated/city-symbol-pairs.md` "contains no district entries"**: confirmed, zero matches. ✓
+- **`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` "contains no district entries"**: confirmed, zero matches. ✓
 - **"Scorpio and Gemini, both confirmed Stage 2 Override destinations"**: confirmed — they are Override 1 and
   Override 2 in `City_Refugee_District_Affinities.md`. ✓
 - **Middle-ring map position**: confirmed, Plan line 188. ✓

@@ -80,7 +80,7 @@ every robot who calls this the one city in Tepenia the war never touched.*
   §2, §6, and Cross-Reference Synthesis. Glitch-Coolant — checked directly against `Robot_Physiology_and_
   Cultural_Practices.md`'s own two named-category lists; Signy is named in neither, a genuine open slot this
   pass derives, see §6. Robot Elementals & Solar Symbols — confirmed directly: **Solar symbol Mercury +
-  Robo-Element Water** (`to-be-integrated/city-symbol-pairs.md`: "small, isolated, careful self-sufficient
+  Robo-Element Water** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "small, isolated, careful self-sufficient
   planning at the margins") — already on file, no duplicate-pair risk. Human-Robot Relations Baseline —
   **a genuine, load-bearing local exception worth flagging directly, not an ordinary confirmation**: see
   Cross-Reference Synthesis. The Fragmentation Matrix checked and found not to apply. Gen/Mark (Cradle) —

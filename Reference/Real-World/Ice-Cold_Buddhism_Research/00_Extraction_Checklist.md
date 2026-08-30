@@ -43,6 +43,7 @@ may not be readable (epub — unconfirmed as of folder creation).
 | `06_Meditative_Practice_and_Ritual.md` | Real historical Buddhist meditative practice — grounding for what actual Ice-Cold Buddhist practice/ritual would look like |
 | `07_Zen_Aesthetics_and_Philosophy.md` | Zen Buddhism philosophy — minimalist aesthetic, koan tradition, possible tonal register |
 | `08_Synthesis_Doctrine_Notes.md` | Pulling everything together into candidate doctrine fragments, cross-referenced against the existing physics grounding |
+| `09_Vocabulary_Sheet.md` | **Added 2026-08-29.** Consolidated working glossary/vocabulary table pulling terms from `01`-`04`, `07`-`08` plus the newly-added `Buddhism_and_Intelligent_Technology_Extraction.md` into one lookup point. Explicitly tentative — a basis for an eventual doctrine write-up, not itself doctrine |
 
 ---
 

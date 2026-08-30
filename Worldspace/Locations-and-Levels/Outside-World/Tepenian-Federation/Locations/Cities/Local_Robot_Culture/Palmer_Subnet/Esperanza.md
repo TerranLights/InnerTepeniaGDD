@@ -81,7 +81,7 @@ the actual, literal shape of family life, not an unfortunate exception to it.*
   in this entire file**, see §1 and Cross-Reference Synthesis. Glitch-Coolant — checked directly against
   `Robot_Physiology_and_Cultural_Practices.md`'s own two named-category lists; Esperanza is named in neither, a
   genuine open slot this pass derives, see §6. Robot Elementals & Solar Symbols — confirmed directly: **Solar
-  symbol Mars + Robo-Element Wood** (`to-be-integrated/city-symbol-pairs.md`: "revived from centuries of
+  symbol Mars + Robo-Element Wood** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "revived from centuries of
   drifting through other various conditions, back to being oriented around families — its original purpose").
   Per the symbol file's own clarifying note, this tracks an internal, *pre-war* civic drift-and-return (the
   Enneagram-profile correction discussed below), not a post-destruction revival — no other Palmer-subnet city

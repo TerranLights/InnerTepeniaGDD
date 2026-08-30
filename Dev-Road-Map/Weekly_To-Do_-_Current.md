@@ -520,7 +520,9 @@ specs," which stays in `TODO.md` only for now.
 - [ ] **Where do cities/districts actually get their water.**
 - [ ] **What standard is Tepenian currency actually based on** — deliberately the first domino; the actual
   *name* (see the separate "National currency name and mechanics" entry above/below) is downstream of this,
-  not decided in parallel. Also: don't use the word "scrip" in new writing — see that entry for why.
+  not decided in parallel. Also: the old placeholder term for the currency has been removed repo-wide
+  (2026-08-29) — don't reintroduce it in new writing; see the "National currency name and mechanics" `TODO.md`
+  entry for why.
 - [ ] **General standards of living, and the cost of things.**
 - [ ] **What does it actually mean to be "rich" in Tepenia** — follows directly from the item above.
 - [ ] **How is sewage and septic waste treated/handled.**

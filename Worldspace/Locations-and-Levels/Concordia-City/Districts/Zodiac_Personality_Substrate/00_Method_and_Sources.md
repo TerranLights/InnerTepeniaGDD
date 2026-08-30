@@ -34,7 +34,7 @@ See `feedback_zodiac_districts_not_infiction` in project memory for the full sta
 
 Tepenia already has an **eight-element robot elemental system** (with Platonic solids, Wu Xing, and Six
 Perfections associations) assigned to **subnets**, and that system **is in-fiction**
-(`Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`, `to-be-integrated/elementals_short_list.md`).
+(`Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`, `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md`).
 
 The zodiac's **four classical elements** (Fire / Earth / Air / Water) in this folder are:
 - a different system, of a different size,

@@ -62,7 +62,7 @@ all.*
   (`Robot_Physiology_and_Cultural_Practices.md`, established 2026-07-04) this pass's own search missed. Checked
   directly against both confirmed categories, Dome Fuji fits neither — see §6 for the corrected reasoning.
   Robot Elementals — **Pluto + Water exists
-  for Dome Fuji, but only in `to-be-integrated/city-symbol-pairs.md`, explicitly marked "not canon, not
+  for Dome Fuji, but only in `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, explicitly marked "not canon, not
   binding, exploratory first pass"** — a different status than every prior city's pre-existing pick, all of
   which were already fully integrated; treated here as the strongest available lead, not settled fact.
   Human-Robot Relations Baseline — Dome Fuji **is** one of the baseline's own two confirmed exceptions (with
@@ -106,7 +106,7 @@ all.*
 | Arcanet Etiquette *(Part IV worked example)* | **Yes, and genuinely extreme — even more so than Kunlun** | "Isolation within isolation," per the city's own Historical Vignette material; see §9. |
 | Robot Biology and Culture | **Yes** | Siligel consumed at genuinely low temperatures as a devotional discipline, already established; see §6. |
 | Glitch-Coolant | **Yes — corrected 2026-08-10, checked against real canon, fits neither category** | A genuine third kind of non-fit, alongside Casey's and Davis's own earlier non-fits; see §6. |
-| Robot Elementals & Solar Symbols | **Yes — a pre-existing but not-yet-integrated proposal** | Solar symbol Pluto + Robo-Element Water exists in draft form (`to-be-integrated/city-symbol-pairs.md`), explicitly grounded in "extreme isolation embraced as devotion, dissolving the self/environment boundary." Platonic Solids excluded, consistent with prior cities (a separate, still-undesigned system). See §5. |
+| Robot Elementals & Solar Symbols | **Yes — a pre-existing but not-yet-integrated proposal** | Solar symbol Pluto + Robo-Element Water exists in draft form (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`), explicitly grounded in "extreme isolation embraced as devotion, dissolving the self/environment boundary." Platonic Solids excluded, consistent with prior cities (a separate, still-undesigned system). See §5. |
 | Human-Robot Relations Baseline | **Not a local expression — Dome Fuji IS the exception clause itself, and more besides** | Same situation as Kunlun: no egalitarian coexistence to characterize locally, since there's no human population at all. Dome Fuji additionally has no fabrication chamber of its own — a distinctive fact this table exists to record precisely, not to derive further local content from directly (that work happens in §4). |
 | The Fragmentation Matrix (Bond/Grief) | **N/A (out of scope)** | Same reasoning as every prior standalone subnet city — a player-facing mechanic, not a culture-content input. |
 

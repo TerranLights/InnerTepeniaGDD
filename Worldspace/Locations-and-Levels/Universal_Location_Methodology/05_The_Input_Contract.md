@@ -1,0 +1,446 @@
+# The Input Contract — What Must Be Supplied, and What the Methodology Produces
+
+> **⚠ Read `00_RUNBOOK.md` first.** This file defines the boundary of the whole procedure.
+
+**Added 2026-08-30, at the developer's direction**, after the methodology was drafted and the question was
+asked directly: *which pieces of information cannot be created within this process and must be provided?*
+
+**Answering it produced one finding large enough to sit at the top of the file.**
+
+---
+
+# 0. The headline: all eight generators are inputs
+
+`02_Generators_Capability_and_Symbols.md` builds the methodology's entire spine from eight generators, and
+requires at least three of them to run. **Every one of the eight is a thing the methodology cannot produce.**
+
+| Generator | Who supplies it |
+|---|---|
+| G1 Assigned symbolic substrate | Supplied — the assignment is made in a separate pass |
+| G2 Physical & environmental constraint | Supplied — real geography, or authored geography |
+| G3 Function & purpose | Supplied — canon decides what a place is for |
+| G4 Founding condition | Supplied — canon |
+| G5 Network position | Supplied — the map and infrastructure files |
+| G6 Defining event | Supplied — the timeline |
+| G7 Real-world inspiration | **Split** — the *designation* is supplied; the *research* is the method's own work |
+| G8 Demographic composition | Supplied — census and composition files |
+
+**This is the correct architecture, not a defect.** A derivation engine is supposed to be constraint-fed; it
+cannot also supply its own axioms without becoming circular. **But it means the input surface is much larger
+than "a name and a map,"** and a pass that starts without it will either stall or quietly invent — and quiet
+invention is the failure mode this whole methodology exists to prevent.
+
+**The district methodology already knew a version of this and stated it once, in a limits section**
+(`00e` §12): *"The substrate cannot tell you a district's history. It supplies temperament, capability, and
+relational geometry. Founding events, migrations, and specific crises come from elsewhere."* **This file
+generalizes that from one generator to all eight, and from history to the whole input surface.**
+
+---
+
+# 1. Four categories, not two
+
+The naive split is *inputs* and *outputs*. **There are four**, and the two middle ones are where the real rules
+live.
+
+| Category | Definition | Example |
+|---|---|---|
+| **PROVIDED** | The methodology has **no mechanism** to generate it | Where the place physically is; who founded it; how many live there |
+| **RESERVED** | The methodology **could** generate it, but authority belongs elsewhere | A person's proper name; the disposal-of-the-dead question; a location's official in-fiction name |
+| **PRODUCED** | The methodology's actual output, always as **Proposed:** | The capability profile; the culture; the findings |
+| **REQUESTED** | The pass discovers it needs something that does not exist, and **emits a specific request rather than inventing** | "This location's arrival mode is undetermined and Phase 2 cannot run without it" |
+
+**RESERVED is not a weaker form of PROVIDED.** A provided input is missing; a reserved decision is *deliberately
+withheld*, and the correct behaviour differs completely — you stub or block on a missing input, but you **write
+fully around** a reserved one, per the protocol in `00_RUNBOOK.md` Step 0.5.
+
+**REQUESTED is an output type and should be treated as one.** A pass that ends with three well-formed input
+requests has done real work. A pass that ends with three quiet inventions has done damage that is invisible
+until someone else contradicts it.
+
+---
+
+# 2. PROVIDED — the full list
+
+Organized by when the pass needs it, because that determines what happens if it is missing.
+
+## 2.1 Tier 0 — Blocking. The pass cannot start.
+
+| Input | Why it blocks |
+|---|---|
+| **Existence and designation** | That this location exists at all, and something to call it — even provisionally |
+| **Position in the world** | Where it physically is. Everything in G2 and G5 descends from this |
+| **Population magnitude** | Not composition — just the order of magnitude, because it sets the **scale band**, and the band changes what every later phase is asking (`01` §2) |
+| **Parent** | What contains it — or an explicit statement that nothing does |
+
+**If a Tier 0 input is missing: stop and request it.** Do not proceed on a guess. Four of the seven substantive
+errors recorded in this project were scale, scope or frame errors, and all four would have been visible in a
+completed Tier 0 block.
+
+## 2.1b Tier 0b — Temporal frame. Extremely helpful, not obligatory.
+
+**Reclassified 2026-08-30 at the developer's direction, and the reasoning is worth keeping in full because it
+corrects a wrong assumption in the first draft.**
+
+**An earlier version listed temporal frame as blocking. It is not.** Type and setting usually imply era closely
+enough to proceed: a location in orbit around Jupiter is evidently future; a medieval village is evidently past;
+a city suburb is present or near-present. **The pass can run on an inferred era**, and demanding an explicit one
+would block work that could proceed perfectly well.
+
+**But its real value is not dating, and calling it "which era" undersold it.** The frame's actual work is
+setting the **epistemic horizon**:
+
+> **What would the people here know about? What are they aware of? What has already happened to them, and what
+> has not happened yet?**
+
+**The sharpest case is a major event, and specifically which side of it this pass sits on.** A location written
+*before* a war and the *same* location written *after* it are not the same place with different dates — they
+differ in what its residents have lived through, what they expect, what they consider normal, and what they
+cannot yet imagine. **A location may legitimately need both passes**, and the pair is more informative than
+either alone.
+
+**So the rule is:**
+
+- **Declare the frame if it is known.** It sharpens every phase, and it sharpens Phase 6 (Meaning) and Phase 2
+  (Composition) most.
+- **If it is not known, declare it as inferred, and say what it was inferred from.** An inferred frame is a
+  perfectly workable input; an *undeclared* one is not, because later readers cannot tell whether an anachronism
+  is deliberate.
+- **Where the location straddles a major event, say which side this pass is on** — and if the answer is "both,"
+  that is two passes, not one hedged document.
+
+**The one hard rule that survives from the blocking version:** *the same location at two eras is two documents.*
+Hedging one document across a threshold event produces a place that is coherent at neither.
+
+## 2.2 Tier 1 — Spine-critical. At least three required.
+
+**These are the generators.** `02` requires three independent ones; **three of the following must be present or
+the capability profile cannot be built**, and without the profile nothing downstream has a spine.
+
+| Input | What specifically is needed |
+|---|---|
+| **Physical & environmental facts** | Terrain, climate, altitude, exposure, hazards, what the site provides and withholds |
+| **Function / purpose** | What the place is *for* — and separately, **what its parent needs from it**, because those two disagreeing is itself a generator |
+| **Founding condition** | Who, when, why, under what constraint, **with what, and without what** |
+| **Network position** | What connects, in which direction, carrying what volume |
+| **Population composition** | Who is here, in what proportion, from where |
+| **Defining events** | What has happened *to* this place |
+| **Symbol assignment** | If the location's class participates in a symbol system at all |
+| **Real-world inspiration designation** | *Which* real-world case anchors it — the research is then the method's own work |
+
+**If fewer than three are available: the pass may proceed but must say so**, and must expect a measurably
+thinner result. Record which generators were unavailable — an absent generator is data about the state of the
+canon, not just about the pass.
+
+## 2.3 Tier 2 — Enriching. The pass runs without them and is worse.
+
+- **Existing scattered canon about the place** — the "formalize before inventing" step has nothing to formalize
+  without it
+- **The parent's determined properties** — climate, currency, law, calendar, language family *(`01` §5.1)*
+- **Sibling set membership** — without it the differentiation instrument cannot run and the no-sibling
+  substitutes must be used instead
+- **Inspirational-influence picks** — the research tier list
+- **Prior passes on this location** — and their epistemic status
+- **Adjacent locations' completed passes** — needed for Phase 5 and Gate 6
+- **Physical/spatial layout** — a map, or an adjacency list
+
+## 2.4 Tier 3 — Optional particulars: known things that touch the place
+
+**None of these is required. Every one of them, if present, measurably improves the result** — and the reason
+is worth stating precisely, because it changes how they are used.
+
+### The principle: these are testimony, not attributes
+
+**The eight generators are *attributes* of the place** — properties it has. Physical constraint, function,
+composition. They describe it directly.
+
+**A known particular is *testimony*.** A character who lives there, an object made there, a vehicle that runs
+the route — none of these is a property of the place. **Each is a thing that touches the place and bears
+witness to it**, and you reason *backward* from the particular to what must be true for it to exist.
+
+> **The procedural consequence, and it is the whole value: you do not record a particular, you interrogate
+> it.** *"Character X lives here"* is a roster entry and adds nothing. ***"What must be true of this place for X
+> to have become who X is?"*** is a derivation, and it will produce things the attribute generators cannot.
+
+**This is `Cultural_Synthesis_Techniques.md` §7, The Surviving Witness, pointed at living canon instead of
+physical remains** — the same logic, different evidence.
+
+### The interrogation procedure
+
+Run per particular. Five steps, and step 2 is the one that does the work.
+
+1. **Look it up in canon**, via the registry in `00_RUNBOOK.md` §B–D. **The particular is a handle; the canon
+   entry behind it is the actual input.** A name you cannot look up is not yet a usable particular.
+2. **Ask what must be true of the place for this to exist, or to be the way it is.** Not what the particular
+   says *about itself* — what it *implies about its surroundings*.
+3. **Chase to third order**, per LAW 0.
+4. **Classify the evidence tier** — see the hazard below. Is this typical, or notable-therefore-atypical?
+5. **Record whether it changed a finding or ornamented one**, per Gate 7. Both are honest; they are not the
+   same.
+
+### The catalog
+
+| Particular | What to interrogate it for | Feeds |
+|---|---|---|
+| **A resident, past or present** | What the place taught them · what it failed to teach · what they had to leave to get · what they still do that only makes sense here | 2, 4, 7, 9 |
+| **Someone who came** | **What the place offers that is worth relocating for** · what they gave up to get here · whether the promise held · **and whether they were pulled by the place or pushed from elsewhere** — those are different arrivals *(see the note below)* | 2, 4, 5, 7 |
+| **Someone who left** | **What drives people out** · whether they were pushed or simply outgrew it · what they could not get here | 2, 5, 7 |
+| **Someone who stayed when others left** | What holds a person here past the point of sense | 2, 4, 6 |
+| **Someone who refuses to go there** | Reputation from outside; the Neighbor's view before you run the panel | 5 |
+| **An object made or carried there** | Materials available · tooling · the problem it solves · who carries it | 1, 3, 8, 10 |
+| **A vehicle or conveyance** | Distances that matter · terrain · what moves in bulk · maintenance skills present | 1, 3, 5, 7 |
+| **A food or drink** | Agriculture or import · preservation constraint · what a meal *is* here | 8 |
+| **A song, artwork, or story** | **What a place makes art *about* is diagnostic** — and what it never depicts | 6, 8 |
+| **A building or landmark** | Construction era · what it was for · whether it is still used for that | 3, 10 |
+| **A route, road, or connection** | Direction and volume · what is upstream and downstream | 5 |
+| **A custom, law, or prohibition** | What it exists to prevent — **a rule is a fossil of a problem** | 7 |
+| **A job or trade practiced there** | The standing cost being paid · what the economy actually runs on | 1, 7 |
+| **A slang term or speech marker** | What the place has enough of to need a word for | 8 |
+| **A minor incident** *(not a defining event)* | Ordinary friction; how the place handles a small thing | 4, 7 |
+| **A death, grave, or memorial** | **The hardest category to source, and this is the best handle into it** | 6 |
+| **A grievance or alliance** | Relation geometry, already half-written | 5 |
+| **Concept art, a photograph, a map** | Texture directly — and it constrains, which is the point | 3, 10 |
+| **A faction with a presence there** | **Why here?** What the place offers them that elsewhere does not | 5, 7 |
+| **A known absence** | Something notably *not* here — often the sharpest single input available | any |
+
+> ### The arrival pair — and why "who came" is not just "who left" inverted
+>
+> **Added 2026-08-30 at the developer's direction, correcting a real asymmetry in the first draft**, which wrote
+> the repulsion case and skipped its mirror on the assumption that what drives people out is always sharper.
+> **That is wrong for any place people choose**, and the correction has a worked example in canon.
+>
+> **Shirayuki** is the Federation's clearest attraction case — a city whose school system grew into a nationwide
+> draw and whose downtown became art-filled and gallery-dense, such that people **make excuses to be able to
+> move there.** Its symbol pairing reads *Uranus + Fire* — a natural outlier — and the outlier status is the
+> attraction rather than the cost. **A pass that only ever asked "what drives people out" would have produced a
+> Shirayuki with no explanation for why anyone is there.**
+>
+> **So run both, and keep them distinct:**
+> - **Pull** — the place offers something obtainable nowhere else. Interrogate: *what specifically, is it still
+>   true, and who is disappointed?*
+> - **Push** — the person was leaving somewhere else and this was the destination. Interrogate: *what were they
+>   escaping, and does this place know it is a refuge rather than a choice?*
+>
+> **A place made of pulls and a place made of pushes behave completely differently** — in confidence, in how it
+> treats newcomers, in whether it believes its own reputation. **Ask which mix this is**, and note that a place
+> can shift from one to the other across eras without noticing *(which pairs directly with the epistemic-horizon
+> question in §2.1b)*.
+
+### ⚠ The special case: a known "first," "only," or "last"
+
+**The highest-yield particular type, and worth asking about explicitly even when nothing else is known.**
+
+If canon says this is *the only place that does X*, *the first place where Y happened*, or *the last place still
+doing Z* — **that is differentiation handed to you for free**, and it satisfies Gate 6 before the pass begins.
+
+**Interrogate it hardest:** what made it possible *here and nowhere else*? What did the other places have that
+prevented it, or lack that made it unnecessary? **A uniqueness claim always implies a comparison, and the
+comparison is usually more interesting than the claim.**
+
+### The four hazards
+
+**1. The single-witness fallacy — the main one.** **Known characters are, by definition, notable — therefore
+atypical.** A place derived from its named residents becomes a place of exceptional people, which is wrong
+everywhere above Band 1. This is the general-population discipline in a new costume.
+> **The fix is not to avoid characters; it is to label the evidence tier.** A notable resident is genuine
+> evidence of **what this place can produce at its extreme** — which is useful, and is not the same claim as
+> what it typically produces. **Say which you are asserting.**
+
+**2. Over-fitting.** Building the place around accommodating one known particular. The particular is evidence
+*about* the place, not a specification *for* it.
+
+**3. Circularity.** If the character's backstory was itself written from this location's culture pass, feeding
+it back is self-confirmation. **See §6.1 — the rule applies to particulars most of all**, because character and
+location canon cross-pollinate constantly.
+
+**4. Canon drift.** A character file and a location file can disagree because one was updated and the other
+was not. **When they conflict, that is a genuine finding site, not an error to smooth** — apply the
+both-are-true test before deciding either is wrong.
+
+### How particulars relate to the generators
+
+**They are not a ninth generator** — a particular does not produce a capability profile on its own.
+
+**But they can substitute for a missing generator at reduced strength.** Where G8 (composition) is unavailable,
+four or five known residents are a weak but real sample. Where G4 (founding condition) is unavailable, the
+oldest known particular is a floor on the place's age and a witness to its early character. **Say that this is
+what you are doing**, and expect a thinner result.
+
+**And they can conflict with a generator, which is the best thing they do.** A physical generator saying the
+place is hostile and a known resident who chose to stay is a conflict — and per `02` §5.3 the question is not
+which is wrong but *what single property would produce both.*
+
+## 2.5 Type-specific inputs
+
+Some types need things a Settlement does not, and a pass that assumes the Settlement input set will silently
+under-specify them.
+
+| Type | Additionally requires |
+|---|---|
+| **Polity** | Member list · what it determines for members · basis of legitimacy · succession rule |
+| **Installation** | Controlling institution · mission · staffing and rotation model · who it answers to |
+| **Corridor** | Both endpoints · traffic type and volume · maintenance authority · chokepoints and seasonal closure |
+| **Structure** | Purpose · builder · physical specification · current structural condition |
+| **Vessel** | Route and range · crew model · home port · what it carries |
+| **Natural feature** | Physical specification · who holds claim or access · hazard profile |
+| **Network locus** | Topology position · access norms · **where the physical substrate actually sits** |
+| **Interstitial** | The full set it is between · what each neighbour sends it |
+| ***modifier:* Ruined** | Former state · destruction event · current occupancy · **what physically remains** |
+| ***modifier:* Contested** | Whose account this pass is writing, stated explicitly |
+| ***modifier:* Seasonal** | Both populations, and the handover |
+
+---
+
+# 3. RESERVED — the methodology must not decide these
+
+**Could be generated. Must not be.** The distinction is authority, not capability.
+
+| Reserved | Why |
+|---|---|
+| **Proper names of people** | **Standing binding rule.** Phase 10 people-entries are role placeholders permanently — *"a veteran repair-shop owner"* — because the developer names these personally once the roles exist |
+| **A location's official in-fiction name** | Several are explicitly open. A pass may use a working designation and must not settle one |
+| **Canon-level rulings that constrain many locations** | Anything whose answer would bind places beyond this one — the disposal-of-the-dead question is the standing example: a sealed city must do *something* and the project has not decided what. **Write practice *around* the dead; do not invent the mechanism** |
+| **Supply-chain and mechanical facts with existing contradictory canon** | Where two files already disagree, a culture pass must not adjudicate |
+| **Anything the developer has explicitly deferred** | Listed at the head of each pass per Step 0.5 |
+| **Whether the location exists at all** | Not the methodology's call |
+
+**The protocol when a pass turns up material bearing on a reserved question** — and it will, repeatedly:
+
+> **Do not bury it in a parenthesis and do not use it.** Write it as a **numbered finding, marked reserved**,
+> stating what was found, what it would decide, and explicitly that it is **not adopted here.** A parenthesis is
+> lost; a reserved finding is a handoff, and the next pass inherits a loaded, labelled instrument rather than an
+> absence.
+
+---
+
+# 4. PRODUCED — what the methodology actually outputs
+
+Everything downstream of the generators. **All of it carries the standing `Proposed:` status** — the district
+convention that no finding is locked canon on arrival.
+
+- The **four-quadrant capability profile**, its shape, and its deficit addresses
+- All eleven phases' content
+- **Named** institutions, practices, customs, places and things *(names of places and practices are produced;
+  names of people are not)*
+- **New belief systems, factions and institutions** where the analysis genuinely produces one — *"the template is
+  a floor, not a ceiling"* — provided each is named, defined and cross-referenced so it enters canon cleanly
+- The differentiation axes and the inline comparisons
+- The QA and Review Panel blocks
+- **Input requests** *(§5)*
+- **Recorded nulls** — a category that produced nothing, with the reason
+
+---
+
+# 5. REQUESTED — the output nobody thinks of as an output
+
+**When a pass discovers it needs something that does not exist, the correct move is to emit a request, not to
+invent.** A well-formed request states four things:
+
+1. **What is missing**, precisely.
+2. **Which phase is blocked** and how badly — cannot-run, or runs-thinner.
+3. **What the pass did instead** — stubbed, assumed provisionally, or skipped.
+4. **What would change if the answer came back differently** — the sensitivity, so the developer knows what is
+   riding on it.
+
+**Collect these in a block at the end of the pass.** They are the highest-value thing a pass hands the next
+person, and they are the mechanism by which the methodology grows the canon instead of quietly fabricating it.
+
+---
+
+# 6. Input acceptance — the provenance question
+
+The developer's framing: an input may be **written by a human** or **synthesized by a separate, outside AI
+process.** **The contract does not care which.** It cares about four properties, and a human-written input can
+fail them exactly as easily as a generated one.
+
+| Property | Test |
+|---|---|
+| **Stable** | Will this still say the same thing next month? An input still under active debate is a *reserved decision*, not an input |
+| **Attributed** | Can you tell where it came from? An unattributed fact cannot be re-checked when it turns out to matter |
+| **Scoped** | **Does it state its own limits?** The composition file does exactly this — it says outright that its figures are *"relative-ranking figures, not a literal population count."* **A pass that reads a source past its own stated limits has committed one of the seven recorded developer catches** |
+| **Non-circular** | **See below — this is the one that specifically threatens an AI-generated input pipeline** |
+
+## 6.1 The circularity rule
+
+> **An input must not be derived from this methodology's own output for the same location.**
+
+If an outside process writes a founding story *by reading the location's completed culture pass*, and that
+founding story is then fed back in as a Tier 1 generator, **the pass is confirming itself.** The result will be
+perfectly coherent and will contain no information.
+
+**This is not hypothetical — the district methodology already found the same defect in miniature and corrected
+it.** The Phase 5 counterculture-seed technique works in Mode A because the seed was written months earlier by
+someone not thinking about counterculture. In Mode B, where both are written in one pass, it is *"planting your
+own seed and then finding it,"* which is *"circular and yields a worse answer than deriving honestly."* **The
+technique was explicitly scoped to Mode A only for exactly this reason.**
+
+**Generalized: track provenance direction.** An input generated downstream of a location's culture pass is not
+an input to that pass. It may be a legitimate input to a *different* location's pass, or to a later re-run under
+a materially changed methodology — but it must be labelled, or the circularity becomes invisible.
+
+## 6.2 What outside AI synthesis can and cannot supply
+
+**Can:** anything in the PROVIDED list, on the same terms as a human — physical facts, founding stories,
+composition, events, network position. The four acceptance properties are the whole test.
+
+**Cannot:** anything RESERVED. A reserved decision is reserved *to the developer specifically*; it is a question
+of authority, and no generating process discharges it. **An outside process may propose; it may not settle.**
+
+---
+
+# 7. The pre-flight checklist
+
+Run before Phase 0. **Cheap, and it is the input-side equivalent of Gate 0.**
+
+```
+## Input Contract Check
+
+**Tier 0 (blocking):**
+- Existence & designation:        present / MISSING
+- Position in the world:          present / MISSING
+- Population magnitude (→ band):  present / MISSING
+- Parent:                         present / explicitly none / MISSING
+
+**Tier 0b (strongly recommended, not blocking):**
+- Temporal frame:                 given / INFERRED (from: ...) / straddles an event (which side: ...)
+- Epistemic horizon:              what would people here know about, and what has not happened yet?
+
+**Tier 1 (need ≥3):**  [list which are present]   → count: n
+**Tier 2 (enriching):** [list absences]
+
+**Tier 3 (optional particulars — none required; each one improves the result):**
+- Known residents / arrivals / leavers:   [names, and whether each is pull or push]
+- Known objects, vehicles, food, art:     ...
+- Known buildings, routes, landmarks:     ...
+- Known customs, laws, trades, slang:     ...
+- Known deaths, memorials, incidents:     ...
+- Known grievances or alliances:          ...
+- Concept art / images / maps:            ...
+- **Any known "first," "only," or "last":**  ...   ← ask explicitly even if nothing else is known
+- **Any known notable absence:**             ...
+- *For each: looked up in canon? · evidence tier (typical / notable-therefore-atypical)? · changed a finding or ornamented one?*
+
+**Type-specific:**      [per §2.5 for this type]
+
+**Reserved decisions in force for this pass:**  ...
+**Provenance check:** any input derived from this location's own prior output?  yes/no
+**Sources that state their own limits:**  [and confirmation those limits were respected]
+
+**Verdict:** proceed / proceed-thin (say why) / BLOCKED (emit requests)
+```
+
+---
+
+# 8. Why this file makes the methodology safer rather than smaller
+
+**The boundary was always there; it was just unwritten.** A pass that does not know what it is not allowed to
+invent will invent it — not maliciously, but because a blank in a template reads as an instruction to fill it,
+and because a coherent invention is indistinguishable from a recalled fact three weeks later.
+
+**The district folder has a recorded instance of exactly this.** A mortuary mechanism was invented, written as
+though canonical, and *passed the contradiction gate on three consecutive districts* — because each pass checked
+against the previous pass rather than against canon. It was neither malicious nor careless; **it was a blank
+that got filled and then cited.**
+
+**An explicit input contract is what stops that.** It converts *"I don't know, so I'll write something
+plausible"* into *"I don't know, so I'll write a request" —* and a request is visible, answerable, and cannot be
+mistaken for canon by the next reader.

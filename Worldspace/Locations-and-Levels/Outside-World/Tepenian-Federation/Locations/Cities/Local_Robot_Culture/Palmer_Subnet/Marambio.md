@@ -66,7 +66,7 @@ outliving him.*
   most load-bearing input in this entire file**, see §7 and Cross-Reference Synthesis. Glitch-Coolant — checked
   directly against `Robot_Physiology_and_Cultural_Practices.md`'s own two named-category lists; Marambio is
   named in neither, a genuine open slot this pass derives, see §6. Robot Elementals & Solar Symbols — confirmed
-  directly: **Solar symbol Neptune + Robo-Element Electricity** (`to-be-integrated/city-symbol-pairs.md`: "a
+  directly: **Solar symbol Neptune + Robo-Element Electricity** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "a
   demanding dual hub (port + airport) handled with quiet, undramatized capability"). **A third Neptune-paired
   city within the Palmer subnet alone** (after Juan Carlos's Neptune+Metal; Port Lockroy, not yet run, also
   holds Neptune per the same table) — resolved the same way the Halley subnet's own three-Neptune repeat was

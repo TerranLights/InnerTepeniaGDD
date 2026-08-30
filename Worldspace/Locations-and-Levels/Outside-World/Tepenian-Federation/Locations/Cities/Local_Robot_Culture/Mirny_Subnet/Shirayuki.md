@@ -47,7 +47,7 @@ arc every robot already lives individually: made by others first, self-authored 
 - **Input E — Tepenia-Wide Robot Culture Canon:** all 5 applicable members checked. Robot Biology and
   Culture, Glitch-Coolant (a sixth distinct local variant — home-crafted/traded within creative circles, see
   §6). **Robot Elementals & Solar Symbols — corrected 2026-08-10:** this file's original claim of "no
-  pre-existing pick for Shirayuki" was wrong — `to-be-integrated/city-symbol-pairs.md` already assigns
+  pre-existing pick for Shirayuki" was wrong — `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` already assigns
   **Solar symbol Uranus + Robo-Element Fire**, missed by this pass's own search. See §5 for the corrected
   reasoning. Human-Robot Relations Baseline (§16 already notes robots slightly outnumber humans, 601,844 to
   576,469 — confirmed, not expanded). The Fragmentation Matrix checked and found not to apply.

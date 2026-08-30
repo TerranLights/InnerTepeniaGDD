@@ -15,7 +15,7 @@ and anything reaching Mirny, Byrd, or Denison required trucking, postal service,
 there. 24 done as of this batch. Batch 5, per direct developer instruction, returns to post-Tower full
 connectivity with genuinely fresh occurrences distinct from batch 3, cross-referenced against
 `city-symbol-pairs.md` (Rothera = Earth/reliable-decentralized-output; own planet still an open question — see
-The Asteroid Belt candidate, `to-be-integrated/city-symbol-pairs.md`) as a thematic undertone. 30 done as of
+The Asteroid Belt candidate, `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`) as a thematic undertone. 30 done as of
 this batch — Rothera's own full target complete. Batch 6, per direct developer instruction, returns to
 Batch 4's own pre-Tower, subnet-bounded framing with genuinely fresh occurrences, distinct from both Batch 4
 and each other, now also cross-referenced against Rothera's own Earth element (planet still TBD). 36 done as

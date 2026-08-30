@@ -54,7 +54,7 @@ with nothing to adapt at all.*
   wide canon as bohemian/cosmopolitan-variety** — alongside Janbogo and Shirayuki — a direct confirmation, not
   a new derivation, and one that reinforces rather than contradicts the already-established siligel-craft
   ethic). **Robot Elementals & Solar Symbols — corrected 2026-08-10:** this pass's original claim of "no
-  pre-existing pick for Zhongshan" was wrong — `to-be-integrated/city-symbol-pairs.md` already assigns
+  pre-existing pick for Zhongshan" was wrong — `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` already assigns
   **Solar symbol Saturn + Robo-Element Metal**, missed by this pass's own search. The Metal proposal below
   turns out to match the real pick; only the framing and the missing Solar symbol needed correcting. Human-
   Robot Relations Baseline (§16 gives the richest, most specific founding-story material of any city in this
@@ -249,7 +249,7 @@ localize per city.*
 - **New landmark/event/figure candidates surfaced but not resolved here:** none beyond the figures above.
 - **Process correction, 2026-08-10:** this file's own Robot Elemental finding (§5) originally claimed no
   pre-existing pick existed and framed Metal as a first-ever proposal. A pre-existing pick (Saturn + Metal)
-  already existed in `to-be-integrated/city-symbol-pairs.md`, missed by this pass's own search — corrected in
+  already existed in `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, missed by this pass's own search — corrected in
   place. The Metal reasoning itself was already right; only the framing and the missing Solar symbol needed
   fixing.
 

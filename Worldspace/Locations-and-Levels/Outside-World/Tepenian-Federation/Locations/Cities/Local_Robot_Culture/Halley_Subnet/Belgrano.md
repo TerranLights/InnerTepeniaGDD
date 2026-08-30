@@ -73,7 +73,7 @@ anyone to measure anything: is the thing in front of her still airworthy, and di
   against `Robot_Physiology_and_Cultural_Practices.md`'s own bohemian-variety and working-class-potency example
   lists; Belgrano is named in neither** — a genuine open slot this pass derives, see §6. Robot Elementals & Solar
   Symbols — confirmed directly: **Solar symbol Neptune + Robo-Element Metal**
-  (`to-be-integrated/city-symbol-pairs.md`: "a resourceful salvage-and-engineering economy — turning old
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "a resourceful salvage-and-engineering economy — turning old
   aircraft parts into new working assets through patient, diligent labor, not spectacle") — already on file, not
   a fresh proposal, but **notably the exact same Solar+Element pair already assigned to Neumayer**, the second
   exact-pair duplicate found in this project (after Cape Adare/Zukelli's own Earth+Wood) — addressed directly

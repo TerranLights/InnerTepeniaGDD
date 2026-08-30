@@ -70,7 +70,7 @@ online.*
   Wouldn't Serve by Feel") and Course of Events candidate (#9, "A Toast, Precisely Poured") already dramatizing
   its origin. This pass treats that resolution as confirmed and adds the robot-specific angle — see §6. Robot
   Elementals & Solar Symbols — confirmed directly: **Solar symbol Neptune + Robo-Element Metal**
-  (`to-be-integrated/city-symbol-pairs.md`: "precise, self-contained work that rewards inquiry rather than
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "precise, self-contained work that rewards inquiry rather than
   announcing itself") — already on file, not a fresh proposal. Human-Robot Relations Baseline — ordinary
   confirmation, meritocratic inflection: §16 ties standing directly to demonstrated competence within the
   shared research/engineering mission. The Fragmentation Matrix checked and found not to apply.

@@ -87,7 +87,7 @@ faction aside long enough to do the job in front of her.*
   higher-quality, "still limited and strong, just better-made." This directly resolves both Sanay's and
   Neumayer's own forward-flagged Glitch-Coolant comparison questions — see §6 and the Swap Test. Robot
   Elementals & Solar Symbols — confirmed directly: **Solar symbol Neptune + Robo-Element Electricity**
-  (`to-be-integrated/city-symbol-pairs.md`: "the subnet's real freight-and-aviation distribution hub — genuine
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "the subnet's real freight-and-aviation distribution hub — genuine
   working-class logistics muscle, redistributing goods that arrive via Sanay and Belgrano onward by air") —
   already on file, not a fresh proposal, and the third Neptune-paired city in this subnet (with Neumayer and
   Belgrano) — but the only one of the three paired with Electricity rather than Metal, addressed directly in

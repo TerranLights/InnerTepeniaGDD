@@ -264,7 +264,7 @@ localize per city.*
 - **New landmark/event/figure candidates surfaced but not resolved here:** none beyond what's noted above.
 - **Process correction, 2026-08-10:** this file's own Robot Elemental finding (§5) originally claimed no
   pre-existing pick existed and framed Earth as a first-ever proposal. A pre-existing pick (Mars + Earth)
-  already existed in `to-be-integrated/city-symbol-pairs.md`, missed by this pass's own search — corrected in
+  already existed in `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, missed by this pass's own search — corrected in
   place. The Earth reasoning itself was already right; only the framing and the missing Solar symbol needed
   fixing.
 

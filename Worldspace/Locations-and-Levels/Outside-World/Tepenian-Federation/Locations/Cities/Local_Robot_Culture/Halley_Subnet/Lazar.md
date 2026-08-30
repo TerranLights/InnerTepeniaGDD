@@ -76,7 +76,7 @@ market's name than the city's.*
   Glitch-Coolant — **checked directly against `Robot_Physiology_and_Cultural_Practices.md`'s own bohemian-
   variety and working-class-potency example lists; Lazar is named in neither** — a genuine open slot this pass
   derives, see §6. Robot Elementals & Solar Symbols — confirmed directly: **Solar symbol Jupiter + Robo-Element
-  Wood** (`to-be-integrated/city-symbol-pairs.md`: "by far Tepenia's single largest city... built and
+  Wood** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "by far Tepenia's single largest city... built and
   continually reshaped by relentless waves of immigration, its own name phonetically shifted by sheer
   population mass, gathering whoever arrives and giving them somewhere to belong") — already on file, not a
   fresh proposal, and the second Jupiter-paired city in the subnet (with Sanay) — addressed directly in

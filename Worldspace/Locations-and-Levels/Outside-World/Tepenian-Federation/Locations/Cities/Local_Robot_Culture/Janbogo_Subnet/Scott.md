@@ -63,7 +63,7 @@ account for.*
   volume, explicitly contrasted against Fort McMurdo's own industrial-scale production). Glitch-Coolant —
   **confirmed a genuine open slot**, the same situation as Fort McMurdo — this pass derives its placement, see
   §6. Robot Elementals & Solar Symbols — confirmed directly: **Solar symbol Saturn + Robo-Element Water**
-  (`to-be-integrated/city-symbol-pairs.md`, "the deliberately quiet counterpart next door to a loud capital,
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "the deliberately quiet counterpart next door to a loud capital,
   content not to be noticed"). Human-Robot Relations Baseline — ordinary, with §16 already giving unusually
   strong local texture (genuine personal familiarity, not just role-based egalitarianism). The Fragmentation
   Matrix checked and found not to apply.

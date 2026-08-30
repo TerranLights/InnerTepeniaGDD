@@ -55,7 +55,7 @@ recitation everyone learns to say with pride instead of fear.*
   either canon category, and Janbogo's own already-completed Swap Test explicitly rules Denison *out* of the
   bohemian/variety pole specifically — this pass derives its placement into working-class/potency, see §6.
   Robot Elementals & Solar Symbols — confirmed directly: **Solar symbol Venus + Robo-Element Metal**
-  (`to-be-integrated/city-symbol-pairs.md`, "a single fused, comprehensively interlinked structure — the most
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "a single fused, comprehensively interlinked structure — the most
   extreme wind-engineering conditions in the country met with an equally extreme, uncompromising structural
   answer"). Denison is the *only* Venus-assigned city in the whole 34-city table — no cross-city Solar-symbol
   repeat to navigate, unlike Cape Adare's shared Earth+Wood pair with Zukelli. Human-Robot Relations Baseline —

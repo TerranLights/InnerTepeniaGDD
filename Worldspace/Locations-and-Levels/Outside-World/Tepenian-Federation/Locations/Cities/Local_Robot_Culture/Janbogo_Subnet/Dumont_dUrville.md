@@ -55,7 +55,7 @@ actually stops.*
   wind's effect on outdoor equipment). Glitch-Coolant — **confirmed a genuine open slot**: Dumont d'Urville
   isn't named in either canon category — this pass derives its placement, see §6. Robot Elementals & Solar
   Symbols — confirmed directly: **Solar symbol Mercury + Robo-Element Fire**
-  (`to-be-integrated/city-symbol-pairs.md`, "small but intensely alive — 'New Orleans at 1/20th scale'").
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "small but intensely alive — 'New Orleans at 1/20th scale'").
   Human-Robot Relations Baseline — ordinary, with §16 already giving a specific local inflection (robots take
   a disproportionate share of exposed outdoor work, "straightforward risk calculus... without much friction").
   The Fragmentation Matrix checked and found not to apply.

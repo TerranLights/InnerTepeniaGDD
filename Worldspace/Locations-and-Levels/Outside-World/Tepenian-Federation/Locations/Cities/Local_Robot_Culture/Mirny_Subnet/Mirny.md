@@ -44,7 +44,7 @@ actually tested yet.*
   positively places it in the working-class/potency category instead, see §6), Human-Robot Relations Baseline.
   **Robot Elementals & Solar Symbols — corrected 2026-08-10:** this file's original claim that "no city-level
   element assignment exists anywhere yet" and its own informal Water/Metal proposals were both wrong —
-  `to-be-integrated/city-symbol-pairs.md` already assigns Mirny **Solar symbol Saturn + Robo-Element Earth**,
+  `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` already assigns Mirny **Solar symbol Saturn + Robo-Element Earth**,
   missed by this pass's own search. See §5 for the corrected reasoning. Platonic Solids remain excluded as a
   separate, still-undesigned system. The Fragmentation Matrix checked and found not to apply, same reasoning as
   Janbogo.
@@ -287,7 +287,7 @@ localize per city.*
   above — no wholly new landmark or event is being proposed by this pass.
 - **Process correction, 2026-08-10:** this file's own Robot Elemental finding (§5) originally claimed no
   city-level assignment existed anywhere in canon and informally proposed Water (Metal secondary). Both were
-  wrong — a pre-existing pick (Saturn + Earth) already existed in `to-be-integrated/city-symbol-pairs.md`,
+  wrong — a pre-existing pick (Saturn + Earth) already existed in `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`,
   missed by this pass's own search. Corrected in place; the stale cross-reference this created in Vostok's own
   file (§5, comparing its Water pick against Mirny's since-withdrawn one) has also been corrected.
 

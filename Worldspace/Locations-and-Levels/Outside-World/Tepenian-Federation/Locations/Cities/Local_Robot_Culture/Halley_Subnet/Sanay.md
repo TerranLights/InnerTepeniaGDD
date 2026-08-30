@@ -72,7 +72,7 @@ was built to prove: that taking real damage and staying functional are not the s
   `Robot_Physiology_and_Cultural_Practices.md`'s own bohemian-variety and working-class-potency example lists,
   Sanay named in neither — this pass derives its placement, see §6. Robot Elementals & Solar Symbols —
   confirmed directly: **Solar symbol Jupiter + Robo-Element Electromagnetism**
-  (`to-be-integrated/city-symbol-pairs.md`: "Holds the literal Arcanet nexus — the invisible hub everything
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "Holds the literal Arcanet nexus — the invisible hub everything
   else connects through, weight self-evident without needing credit") — already on file, not a fresh proposal.
   Human-Robot Relations Baseline — **Sanay is not merely a local instance of this baseline; it's the confirmed
   literal originating case.** `Robot_Physiology_and_Cultural_Practices.md`'s own "Human-Robot Relations —

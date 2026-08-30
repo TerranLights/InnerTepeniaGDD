@@ -73,7 +73,7 @@ spent generations actively protecting one shared, unglamorous hour at the end of
   choices, more potency," established directly during Rothera's own 2026-07-04 developer-vision session — see
   `City_Vision_Notes/Rothera.md`). See §6 for what this pass adds beyond simple recognition. Robot Elementals &
   Solar Symbols — confirmed directly: **Solar symbol Asteroid Belt + Robo-Element Earth**
-  (`to-be-integrated/city-symbol-pairs.md`: "the heavily decentralized nature is a direct, literal match for
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "the heavily decentralized nature is a direct, literal match for
   the Asteroid Belt symbol itself," confirmed with total certainty 2026-08-10 — the *only* Asteroid Belt
   assignment in the entire 35-city table). Human-Robot Relations Baseline — ordinary, ground-level confirmation
   (§16, robots and humans ending mismatched shifts at the same bars). The Fragmentation Matrix checked and

@@ -517,7 +517,7 @@ that grew up around providing it is the actual finding.
   contradiction. Finding 3 is a local deepening of it.
 - **Fragmentation Matrix:** Cancer is tagged **high-Grief** with Taurus — directly reinforces Findings 1 and 2
   rather than conflicting with them.
-- **Robot Elementals & Solar Symbols:** `to-be-integrated/city-symbol-pairs.md` contains no district entries, so
+- **Robot Elementals & Solar Symbols:** `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` contains no district entries, so
   whether Concordia's districts participate in that system at all is unconfirmed. Deliberately not resolved
   here; flagged for whoever owns that system.
 

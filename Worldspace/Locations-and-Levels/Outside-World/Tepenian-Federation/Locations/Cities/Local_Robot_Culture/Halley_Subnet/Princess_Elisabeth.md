@@ -85,7 +85,7 @@ was never quite the same thing that would have killed her.*
   `Robot_Physiology_and_Cultural_Practices.md`'s own bohemian-variety and working-class-potency example
   lists; Princess Elisabeth is named in neither** — a genuine open slot this pass derives into a distinct
   third category, see §6. Robot Elementals & Solar Symbols — confirmed directly: **Solar symbol Uranus +
-  Robo-Element Electricity** (`to-be-integrated/city-symbol-pairs.md`: "self-generated power, a genuine
+  Robo-Element Electricity** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "self-generated power, a genuine
   technological outlier by design") — already on file, not a fresh proposal; Uranus is unique within this
   subnet (no duplicate-pair risk), though the Electricity Robo-Element is also independently held by Troll —
   confirmed as an ordinary, expected repeat at the single-Element level (Electricity appears 4 times across

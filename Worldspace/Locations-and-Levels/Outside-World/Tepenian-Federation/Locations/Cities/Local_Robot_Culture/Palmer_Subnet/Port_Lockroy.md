@@ -58,7 +58,7 @@ for it.*
   this entire file**, see §1 and Cross-Reference Synthesis. Glitch-Coolant — checked directly against
   `Robot_Physiology_and_Cultural_Practices.md`'s own two named-category lists; Port Lockroy is named in
   neither, a genuine open slot this pass derives, see §6. Robot Elementals & Solar Symbols — confirmed
-  directly: **Solar symbol Neptune + Robo-Element Water** (`to-be-integrated/city-symbol-pairs.md`: "a courier
+  directly: **Solar symbol Neptune + Robo-Element Water** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "a courier
   settlement built on diligence directly — a relay point moving parcels and other transportable goods between
   the Peninsula and the mainland"). **A third Palmer-subnet Neptune-paired city**, alongside Juan Carlos
   (Metal) and Marambio (Electricity) — resolved the same way as the prior two: a genuine, ordinary single-slot

@@ -8,7 +8,7 @@
 
 **Stop and read this before using anything below.**
 
-Tepenia has an **eight-element robot elemental system** — Platonic-solid, Wu Xing, and Six Perfections associations, assigned to **subnets**, documented in `Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md` and `to-be-integrated/elementals_short_list.md`. That system **is real canon**. Players encounter it. Characters believe in it, name things after it, and organize around it.
+Tepenia has an **eight-element robot elemental system** — Platonic-solid, Wu Xing, and Six Perfections associations, assigned to **subnets**, documented in `Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md` and `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md`. That system **is real canon**. Players encounter it. Characters believe in it, name things after it, and organize around it.
 
 **Everything in this file is a different thing entirely.** The four classical elements here are:
 

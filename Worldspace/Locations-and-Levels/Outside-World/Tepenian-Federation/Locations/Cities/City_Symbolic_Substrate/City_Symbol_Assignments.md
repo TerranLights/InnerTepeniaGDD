@@ -1,13 +1,15 @@
-# City Symbol Pairs — Planet + Robot-Element
+# City Symbol Assignments — Planet + Robot-Element, Per City
 
-**What this is:** a first-pass "symbol-pair" (Planet + Robot-Element) for each of Tepenia's 35 outer cities,
-derived from each city's own established personality — specifically the three-axis reads already worked out
-in `City_Enneagram_Personalities/` (Major Theme: Thinking/Feeling/Instinctive; Hornevian Group:
+**What this is:** a Planet + Robot-Element symbol pair for each of Tepenia's 35 outer cities, derived from
+each city's own established personality — specifically the three-axis reads already worked out in
+`../City_Enneagram_Personalities/` (Major Theme: Thinking/Feeling/Instinctive; Hornevian Group:
 Withdrawn/Compliant/Assertive; Harmonic Group: Positive Outlook/Competency/Reactive), cross-checked against
-each city's own defining established facts. Draws on the 8 Robot Elementals (`elementals_short_list.md`) and
-the 9-planet symbol system (`planetary-symbols.md` / `planetary-appended-symbols.md`) — two otherwise
-independent systems, paired here per-city for the first time. Not canon, not binding — an exploratory first
-pass, same spirit as `Subnet_Symbolic_Associations.md`.
+each city's own defining established facts. Draws on the 8 Robot Elementals (`Robot_Elementals.md`) and the
+10 Planetary Symbols (`Planetary_Symbols.md`) — two otherwise independent systems, paired here per-city.
+
+**Status: official reference framework, promoted from `to-be-integrated/city-symbol-pairs.md` 2026-08-30.**
+Already cited as established reference material by multiple `Local_Robot_Culture/` city files before this
+promotion; confirmed working reference, still open to future revision the way any canon document is.
 
 **Abowasa is excluded** — paused pending its own founding-nation fix, per standing project practice.
 
@@ -18,7 +20,7 @@ Times" faction, Zukelli's and Denison's destruction, Janbogo being left standing
 present-day airfield conflict, Rothera's war-survival framing) — caught and corrected 2026-08-05, re-derived
 from each city's actual pre-war-established character instead.
 
-**Overlap between cities is expected and, in places, deliberate** — with only 9 planets and 8 elements across
+**Overlap between cities is expected and, in places, deliberate** — with only 10 planets and 8 elements across
 34 cities, some repetition is mathematically inevitable, and a few repeats specifically echo already-
 established lore rather than being arbitrary: Kunlun, Vostok, and Dome Fuji all landing on **Pluto**
 (Isolation) mirrors their already-established extreme-isolation kinship and Ice Cold Buddhism connection, not
@@ -100,7 +102,8 @@ raised a genuine gap in the 9-planet set: nothing in it captures *decentralizati
 distribution, no single point of failure, nothing to strike that would eliminate the whole at once. The
 Asteroid Belt fills that gap, and Rothera's heavily decentralized industrial base (spread deliberately across
 Adelaide Island) is a direct, literal match for it — no longer just a candidate fix, a confirmed pick. Full
-write-up in `planetary-appended-symbols.md` and `planetary-symbols.md`, in the same format as the other nine.
+write-up in `Planetary_Symbols.md`, placed in Solar System order (between Mars and Jupiter) per developer
+direction 2026-08-30.
 
 ## Distribution Notes
 

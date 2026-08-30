@@ -132,7 +132,7 @@ Confirmed existing members of this tier:
   absent; a real search-miss on this exact point already required correcting three already-drafted cities
   (Mawson, Dome Fuji — see their own Reference Notes — plus this note itself, added after the miss).
 - **Robot Elementals & Solar Symbols — corrected and expanded 2026-08-10.** This is genuinely **two
-  independent per-city symbol slots, not one system**, both drawn from `to-be-integrated/city-symbol-pairs.md`
+  independent per-city symbol slots, not one system**, both drawn from `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`
   (self-marked "not canon, not binding, exploratory first pass," but real and populated for all 35 outer
   cities except Abowasa, paused pending its own founding-nation fix):
   - **The 8 Robo-Elements** (Earth, Air, Fire, Water, Wood, Metal, Electricity, Magnetism) — `project_robot_elementals_and_platonic_solids` memory.

@@ -1,15 +1,17 @@
-# The Seven Elements of Tepenia
+# The Eight Elements of Tepenia
 
-An appended version of a fusion of the Greek and Chinese elemental systems, adjusted for robots
+An appended version of a fusion of the Greek and Chinese elemental systems, adjusted for robots.
+
+**Status: official reference framework, promoted from `to-be-integrated/elementals_short_list.md` 2026-08-30.**
+Confirmed working reference; still open to future revision the way any canon document is.
 
 **Source note:** Earth, Fire, Water, Wood, and Metal (the Chinese Wu Xing five) and Electricity (the first
-"robot element") already had full content drafted in `Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`,
-built when these were used to assign personalities to the five multi-city subnets — reproduced here as-is.
-Electromagnetism is that same file's "Magnetism" entry, broadened slightly to also cover signal and
-transmission (the reason for the renaming). Air is new — the Greek/Western import that file mentioned only in
-passing (considered for Mawson, passed over for Wood) but never wrote up in full; drafted here to match the
-others' tone and depth. These eight are a settled set, not open for redesign — this file just finishes writing
-them down.
+"robot element") already had full content drafted in `Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`
+(a separate, subnet-scale symbolic layer, not folded into this promotion — see this folder's own `README.md`),
+reproduced here as-is. Electromagnetism is that same file's "Magnetism" entry, broadened slightly to also
+cover signal and transmission (the reason for the renaming). Air is new — the Greek/Western import that file
+mentioned only in passing (considered for Mawson, passed over for Wood) but never wrote up in full. These
+eight are a settled set, not open for redesign — this file just finishes writing them down.
 
 ## Earth
 

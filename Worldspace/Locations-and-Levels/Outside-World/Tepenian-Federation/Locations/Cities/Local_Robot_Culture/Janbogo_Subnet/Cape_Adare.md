@@ -54,7 +54,7 @@ and never once cared whose city this was supposed to be.*
   either the bohemian/variety or working-class/potency category anywhere in
   `Robot_Physiology_and_Cultural_Practices.md` — this pass derives its placement, see §6. Robot Elementals &
   Solar Symbols — confirmed directly: **Solar symbol Earth + Robo-Element Wood**
-  (`to-be-integrated/city-symbol-pairs.md`, "Big-city warmth at small-town scale, unhurried, community-first").
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "Big-city warmth at small-town scale, unhurried, community-first").
   **Important note carried forward from research: Zukelli holds the identical pair** (Earth + Wood, its own
   reasoning being its genre-diverse music scene) — the only true symbol-pair repeat this pass has encountered
   with a same-subnet sibling not yet run, requiring extra Swap Test discipline; see §5 and the Swap Test.

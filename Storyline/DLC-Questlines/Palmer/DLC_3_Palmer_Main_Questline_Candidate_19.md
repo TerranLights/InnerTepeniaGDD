@@ -15,8 +15,8 @@ beyond this subnet's own already-complete set of ten. Uses the Linear Escalation
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Established, project-wide fact** — the national energy-backed scrip fractured post-war into regional
-  scrip and a separate trade standard, per `project_national_currency_history` — a real, unresolved economic
+- **Established, project-wide fact** — the national energy-backed currency fractured post-war into regional
+  currency and a separate trade standard, per `project_national_currency_history` — a real, unresolved economic
   gap this chain treats as needing a genuine regional answer for Palmer subnet specifically.
 - **Rothera's own established industrial output** — the subnet's most reliable, productive manufacturing
   base, a natural candidate for backing any new regional trade standard.
@@ -34,7 +34,7 @@ beyond this subnet's own already-complete set of ten. Uses the Linear Escalation
 
 ## The Chain
 
-**SETUP** — With the national energy-backed scrip fractured, Palmer subnet's own surviving economic
+**SETUP** — With the national energy-backed currency fractured, Palmer subnet's own surviving economic
 centers — Rothera's industry, Signy's marine resources, Port Lockroy's modest trade, and whatever's left of
 Marambio's and Esperanza's own historical shipping relationships — need some kind of working regional
 trade-standard to actually exchange goods and value with each other again. The player is asked to help

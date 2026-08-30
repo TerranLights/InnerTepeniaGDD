@@ -4,6 +4,54 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## Aggregate-file GPS-purposes-only propagation re-check — flagged 2026-08-30, not started
+
+**A confirmed instance of a documented-as-fixed bug still present in a shared/aggregate file.**
+`Founding_Nation_Bug_Investigation_Methodology.md` item 18 (dated 2026-07-13) records that Italy's
+`(founding operator heritage)` tag on Janbogo's tier-table row was investigated and the developer
+ruled it should be **removed entirely** (Italy's real founding-operator connection — Mario Zucchelli
+Station — belongs to neighboring Zukelli, not Janbogo). That fix appears to have landed in
+`Specs/Janbogo.md`, but **`Locations/Cities/Official_Population_Census.md` line 233 still carries
+the tag** (`Italy *(founding operator heritage)*` on Janbogo's Significant-tier row), unchanged.
+
+This matches exactly the failure mode the methodology document's own item 22 warns about: shared/
+aggregate files (`Official_Population_Census.md`, `Upper_Earth_Immigration_Composition.md`,
+`City_Relationship_Database.md`, `City_Refugee_District_Affinities.md`, `Inspirational-
+Influences.md`) need their own explicit check, separate from both per-city files and outside-Cities
+greps — a fix confirmed in a city's own Specs file is not evidence it propagated to these aggregate
+files.
+
+**This is not an Italy-specific or Janbogo-specific issue — it's evidence the whole aggregate-file
+layer needs re-verification, for every city and every nation, not a targeted spot-fix of the one
+instance found so far.** Investigation Loop Round 2 (closed 2026-07-14) was confirmed complete by
+the developer across all 35 cities plus Amundsen Station — but that sweep's own per-city checklist
+(item 22 in the methodology doc) only calls for aggregate files to be checked "once as a batch,"
+and this Italy/Janbogo instance shows that batch check either didn't happen for
+`Official_Population_Census.md` or missed this row. **If one tag survived undetected through a
+sweep the developer already signed off as complete, there is no basis for assuming any other
+city/nation pairing in any aggregate file is reliable without re-checking it directly** — the
+"complete" status of Round 2 should be treated as unverified specifically with respect to the
+aggregate-file layer, even though the per-city layer was thoroughly re-checked.
+
+**Scope of the needed re-check pass:** every tag (`founding operator heritage`, `founding wave`,
+`founding infrastructure heritage`, Jeju-do-allocation, and any other founding-nation annotation) on
+every nation, for every one of the 35 cities plus Amundsen Station, across every aggregate file —
+`Official_Population_Census.md`, `Upper_Earth_Immigration_Composition.md`,
+`City_Relationship_Database.md`, `City_Refugee_District_Affinities.md`, `Inspirational-
+Influences.md`, and any other project-wide/subnet-wide synthesis file the methodology doc's item 13
+and item 22 name. For each tag found, diff it against the corresponding city's own
+`Specs/[City].md` tier table and Founding Story prose (methodology doc items 2-3) to confirm it
+still agrees — not just the one Italy/Janbogo instance already found. A systematic corpus-wide
+extraction of every tag instance (methodology doc item 27's technique — pull every instance into one
+list, review side by side) is likely the right approach here, the same way it was used to
+distinguish genuine cross-entity canon from copy-paste bleed-over during Round 2 itself.
+
+**Not fixing anything now — flagged for a future pass to investigate and fix as needed**, following
+the existing methodology document's checklist and convergence-loop process (Section 4A) rather than
+a one-off patch limited to the single instance already found.
+
+---
+
 ## Enemy AI / hostile NPC behavior design — flagged 2026-08-16, deliberately deferred, not started
 
 **Explicitly for later — not part of the current District Culture Development Plan work.** Needs its own
@@ -87,7 +135,7 @@ A batch of items the developer wants logged for future work. Grouped below by to
 - What kinds of festivals exist, generally — beyond whatever's already scattered across individual city/district Community Infrastructure files.
 - Are there any homeless people in Tepenia, and if so, what does that actually look like.
 - Where do cities/districts actually get their water.
-- What standard is Tepenian currency actually based on (note: `project_national_currency_history` memory already covers the history of the currency fracturing into a regional/subnet system plus a cross-subnet trade standard — check whether this question is already partly answered there before starting from scratch. **Per direct developer instruction, 2026-08-01: this is deliberately the first domino, not a parallel task** — the actual name (see the "National currency name and mechanics" entry below) should be derived *from* whatever the money is actually based on, not chosen alongside it or before it. **Also note:** the term "scrip," used throughout the existing currency file, was never the developer's own choice and needs replacing — see `Worldspace/National_Economy_and_Currency.md`'s own top-of-file flag. Don't introduce or reuse that word in new writing.)
+- What standard is Tepenian currency actually based on (note: `project_national_currency_history` memory already covers the history of the currency fracturing into a regional/subnet system plus a cross-subnet trade standard — check whether this question is already partly answered there before starting from scratch. **Per direct developer instruction, 2026-08-01: this is deliberately the first domino, not a parallel task** — the actual name (see the "National currency name and mechanics" entry below) should be derived *from* whatever the money is actually based on, not chosen alongside it or before it. **Also note:** the old placeholder term for the currency, used throughout the existing currency file, was never the developer's own choice — **removed repo-wide 2026-08-29**, replaced everywhere with the generic word "currency." Don't reintroduce the old term in new writing; see `Worldspace/National_Economy_and_Currency.md`'s top-of-file note.)
 - General standards of living, and the cost of things.
 - Following directly from the above — what does it actually mean to be "rich" in Tepenia.
 - How is sewage and septic waste treated/handled.
@@ -212,7 +260,7 @@ Structural format and full "must be true" / "cannot be true" stipulations are lo
 
 ## National currency name and mechanics — flagged 2026-07-29, deliberately deferred
 
-"Scrip" (`Worldspace/National_Economy_and_Currency.md`) was never the developer's own term and needs renaming — but it appears across 100+ files (course-of-events entries, code architecture docs, city lore), so this isn't a quick swap. **Sequencing clarified 2026-08-01, per direct developer instruction:** the actual name is downstream of, not decided alongside, a separate prior question — see the new "What standard is Tepenian currency actually based on" item in the 2026-08-01 backlog batch above. Resolve what the money is actually backed by first; the name should fall out of that once it's settled, not be picked in parallel. Don't rename piecemeal — revisit as its own dedicated pass once the standard is resolved.
+The old placeholder term for the currency (`Worldspace/National_Economy_and_Currency.md`) was never the developer's own term. **Removed repo-wide 2026-08-29** — every mention found and replaced with the generic word "currency" (6 files affected: this file, `National_Economy_and_Currency.md`, `City_Logistics.md`, `06b_Capricorn_Alternative_Conditions.md`, a Palmer DLC3 questline candidate, and `Weekly_To-Do_-_Current.md`). **The actual name and mechanics are still open, not resolved by this cleanup.** Per direct developer instruction 2026-08-01, the name is downstream of, not decided alongside, a separate prior question — see the "What standard is Tepenian currency actually based on" item in the 2026-08-01 backlog batch above. Resolve what the money is actually backed by first; the name should fall out of that once it's settled.
 
 ---
 
@@ -634,7 +682,7 @@ Zhongshan, Sinheung, and Shirayuki were founded via a peaceful diplomatic partit
   - God-mind simulation (Universal Simulation Theory — God running simulations to understand its own origin, with Nihilism/Absurdism/Fatalism/Sartrism subdivisions among robot adherents) — core premise and subschool sketch already exist (see `Analysis_Notes.md`'s Alex Jones section), but this is the least-developed of the five; a real-source book list to elaborate both the simulation-theory core and the Nihilism subschools specifically was added 2026-07-21 — see `Books_TODO.md`.
   - Polydimensional Animism (acknowledging living, conscious entities resident in higher dimensions) — **reviewed by the developer and published 2026-07-21**, see below.
   Connected to: Robot-Aligned ending RA-2, multiple faction designs, NPC dialogue consistency across all districts.
-  See `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md` for the real-world research basis behind Adinkra Codex, God-mind simulation, and Polydimensional Animism (Ice-Cold Buddhism and Cymatics Reverence now have their own dedicated research locations instead — see their entries above).
+  See `Worldspace/Factions/basis collection - robot religions/Analysis_Notes.md` for the real-world research basis behind Adinkra Codex, God-mind simulation, and Polydimensional Animism (Ice-Cold Buddhism and Cymatics Reverence now have their own dedicated research locations instead — see their entries above). **Added 2026-08-29:** a cross-religion (not per-religion) vocabulary sheet on robot consciousness/personhood and ethical-agency design, drawn from `Buddhism_and_Intelligent_Technology_Extraction.md`, now lives alongside it at `Worldspace/Factions/basis collection - robot religions/Robot_Consciousness_and_Religion_Design_Vocabulary_Sheet.md` — tentative, usable by any of the five religions or by non-religious robot-personhood writing.
 
   **Polydimensional Animism — reviewed and published, `Worldspace/Factions/Robot_Religions/Polydimensional_Animism/`:**
   the full research-to-design pass (points, nth-order extrapolations, and a working draft sheet, originally

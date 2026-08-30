@@ -10,7 +10,7 @@ rollup file covering Zhongshan/Sinheung/Shirayuki together, not a standalone cit
 below; the three cities it covers are each tracked individually.
 
 **Symbol-system correction pass, 2026-08-10.** Prompted by a developer request to double-check Janbogo, this
-surfaced a real, systemic gap: `to-be-integrated/city-symbol-pairs.md` pairs every one of Tepenia's 35 outer
+surfaced a real, systemic gap: `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` pairs every one of Tepenia's 35 outer
 cities with two *independent* symbols — a Solar symbol (9 planets + the Asteroid Belt/Decentralization, 10
 slots) and a Robo-Element (8 slots), each chosen on its own merits, not a matched pair. Six already-drafted
 files had errors against this: Janbogo, Mirny, and Shirayuki each proposed a fresh Element without checking the

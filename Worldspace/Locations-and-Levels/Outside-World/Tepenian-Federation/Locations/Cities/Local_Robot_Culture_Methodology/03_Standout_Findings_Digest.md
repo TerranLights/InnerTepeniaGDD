@@ -1531,7 +1531,7 @@ Carlos's own forward flag)
   subnet, no founding-population-vs-majority dynamic, no generational post-culture, a ~84%-robot, entirely
   rotating population serving bounded tours of six months to two years. Confirmed genuinely absent from
   `Neo-Races-and-Cultures/` (only a `.gitkeep`), from any Course of Events subfolder structure, and from
-  `to-be-integrated/city-symbol-pairs.md` (explicitly scoped to the 35 outer cities, checked directly rather
+  `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` (explicitly scoped to the 35 outer cities, checked directly rather
   than assumed) — no Solar symbol or Robo-Element proposed here, respecting that scope boundary rather than
   inventing a fresh entry.
 - **The central finding is the single cleanest real test case this entire 35-run project has produced of

@@ -1,5 +1,13 @@
 # Character Summary
 
+**Research complete, 2026-08-30 — see `Reference/Real-World/PTSD_Military_Trauma_Research/
+10_Synthesis_Character_Application.md` before filling in any of the TBD fields below.** A 9-book real-world
+research pass (military ethics, combat PTSD, TBI, moral injury, military culture/leadership) produced
+candidate, cross-source-convergent shapes for his defining wartime action, chronic injuries, voice, romance
+arc, and the split-reputation mechanic — none of it is canon yet, but it's a strong starting point rather than
+a blank page. The synthesis file's own "What's still genuinely open" section lists exactly what's still an
+undecided developer choice.
+
 **Development started 2026-07-24.** Brand new. Enneagram (1w2 Social), MACHINE stats, approximate age, and a
 likely chronic-injury detail are now confirmed (same day) — name, appearance, voice, and full backstory
 specifics are still open. This file exists to hold the concept as it develops, the same way Heather Wendell's
@@ -80,6 +88,13 @@ two old chronic injuries from the war and from military training.
 
 ## Personality & Voice
 - Core summary: TBD
+- **Confirmed direction, 2026-08-29 — extremely dark sense of humor.** Not yet sourced or written; flagged as
+  a future research task at `Reference/Real-World/PTSD_Military_Trauma_Research/00_Extraction_Checklist.md`
+  ("Developer insights, flagged for future research"). Needs real military gallows-humor source material
+  (memoirs, oral history, veteran comedians, academic treatment of dark humor as a coping mechanism) — none of
+  the PTSD-research books currently in hand are dedicated to this specifically — and possibly direct input from
+  people with former-military backgrounds. Do not write his dialogue with a guessed-at dark-humor voice before
+  that research lands; it risks reading as generic edgy quipping instead of the real thing.
 - Speech patterns / quirks / recurring phrases: TBD
 - Behavior under stress or in different districts: plausibly guarded or defensive outside Cancer, given how
   he's regarded elsewhere in the city; worth exploring whether specific districts (particularly Taurus and

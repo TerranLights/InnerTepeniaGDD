@@ -62,7 +62,7 @@ made this city beloved across the whole subnet and got it destroyed.*
   Robot Biology and Culture (§10c/§17 already establish siligel as a recognized, respected craft equal to
   human cooking). Glitch-Coolant — **confirmed a genuine open slot**: Zukelli isn't named in either canon
   category — this pass derives its placement, see §6. Robot Elementals & Solar Symbols — confirmed directly:
-  **Solar symbol Earth + Robo-Element Wood** (`to-be-integrated/city-symbol-pairs.md`, "a place with real
+  **Solar symbol Earth + Robo-Element Wood** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "a place with real
   soul — a huge, genre-diverse music scene grown from hospitality-centered founding instincts and genuine
   demographic breadth"). **Zukelli shares this exact pair with Cape Adare** — the only true symbol-pair repeat
   within this subnet — but the two picks' own reasoning is genuinely distinct (Cape Adare: the literal wooden

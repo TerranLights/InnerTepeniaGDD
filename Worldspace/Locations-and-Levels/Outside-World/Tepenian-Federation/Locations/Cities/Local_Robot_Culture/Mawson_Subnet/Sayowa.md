@@ -63,7 +63,7 @@ identity is "small vessel, outsized cargo" carried without complaint.*
   (`Robot_Physiology_and_Cultural_Practices.md`, 2026-07-04): two categories, bohemian/cosmopolitan-variety
   (Janbogo, Zhongshan, Shirayuki) and working-class/potency (Byrd, Rothera, Troll). Sayowa isn't pre-named in
   either — this pass derives its placement, see §6. Robot Elementals — **Neptune + Earth already on file for
-  Sayowa** (`to-be-integrated/city-symbol-pairs.md`, "not canon, not binding, exploratory first pass"):
+  Sayowa** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "not canon, not binding, exploratory first pass"):
   "the quiet dispatch hub keeping goods moving for everyone else, practical over glamorous." Notably, the same
   file records that Sinheung's own Elemental assignment was moved off Neptune specifically because it
   "directly undercut Sayowa's own established profile" — see Cross-Reference Synthesis. Human-Robot Relations

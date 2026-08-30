@@ -46,7 +46,7 @@ recognizable regardless of who built her or when.*
   Glitch-Coolant (Janbogo already explicitly named in canon as a bohemian/cosmopolitan-variety city, alongside
   Zhongshan and Shirayuki), Human-Robot Relations Baseline. **Robot Elementals & Solar Symbols — corrected
   2026-08-10:** this file's original claim that "no city-level Elemental assignment exists anywhere yet in
-  canon" and its own informal Fire proposal were both wrong — `to-be-integrated/city-symbol-pairs.md` already
+  canon" and its own informal Fire proposal were both wrong — `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` already
   assigns Janbogo **Solar symbol Earth + Robo-Element Air**, missed by this test run's own search. See §5 for
   the corrected reasoning. Platonic Solids remain excluded as a separate, still-undesigned system. The
   Fragmentation Matrix was checked and found not to apply (see Universal Triage Record).

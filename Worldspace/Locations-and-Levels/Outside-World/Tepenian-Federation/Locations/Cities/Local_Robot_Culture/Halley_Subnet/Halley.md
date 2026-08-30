@@ -60,7 +60,7 @@ more than the right to keep its own name on the map.*
   seasonal maritime resupply rhythm as human food). Glitch-Coolant — **confirmed a genuine open slot**: no
   hit anywhere in `Robot_Physiology_and_Cultural_Practices.md` — this pass derives its placement, see §6.
   Robot Elementals & Solar Symbols — confirmed directly: **Solar symbol Mercury + Robo-Element Water**
-  (`to-be-integrated/city-symbol-pairs.md`, "endurance right at the edge of a moving ice shelf, adapting
+  (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`, "endurance right at the edge of a moving ice shelf, adapting
   rather than resisting"). **Halley is explicitly NOT the subnet's technical Arcanet hub** — that role sits at
   Sanay, on stable bedrock, built there by Halley's own residents who traveled to do the hands-on construction
   labor personally, a deliberate, contested founding-era civic trade (naming honor kept, technical control
@@ -264,7 +264,7 @@ localize per city.*
   native to Halley itself exist anywhere in the gathered material (only Salagéa Aparast, a Belgrano native who
   visits as one port among several), and inventing placeholder figures isn't this methodology's job.
 - **Developer-facing data-integrity note, not a culture finding:** Abowasa was deliberately excluded from this
-  subnet's sequence, not overlooked. `to-be-integrated/city-symbol-pairs.md` itself already excludes Abowasa
+  subnet's sequence, not overlooked. `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` itself already excludes Abowasa
   "pending its own founding-nation fix" — confirmed via direct research as a real, developer-flagged
   consistency debt (the same bug class as Sejong's Hangul-continuity issue): Abowasa's entire premise rests on
   a "Finnish and Swedish exiles, jointly" founding population that the project's own established First

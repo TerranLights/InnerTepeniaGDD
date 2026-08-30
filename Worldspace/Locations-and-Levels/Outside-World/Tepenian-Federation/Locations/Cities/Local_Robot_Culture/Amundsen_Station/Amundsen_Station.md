@@ -44,7 +44,7 @@ Universals says it usually is.*
   outer city's:** `Neo-Races-and-Cultures/Amundsen_Station/` contains only a `.gitkeep` — no Catalog file was
   ever built here, consistent with the location never having a settled national population to catalog.
   `Background-Lore/Cities/Amundsen_Station/` has no `Course_of_Events/` subfolder or `_Suggestions.md` file the
-  way every outer city does — only a single Historical Vignettes file. `to-be-integrated/city-symbol-pairs.md`
+  way every outer city does — only a single Historical Vignettes file. `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`
   is explicitly scoped to "all 35 outer cities" and doesn't include Amundsen Station at all — confirmed by
   direct search, not assumed. In their place, this location has one source no outer city has:
   `Storyline/DLC_01_Echoes_of_Amundsen.md`, DLC 1's own dedicated design document, consulted directly for its

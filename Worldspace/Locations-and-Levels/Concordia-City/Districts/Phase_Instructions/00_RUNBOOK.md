@@ -630,6 +630,7 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
 | File | What it is |
 |---|---|
 | **`00_RUNBOOK.md`** | **this file — the procedure** |
+| **`../../Universal_Location_Methodology/`** | **the sibling procedure for locations that are not Concordia districts** — cities, subnets, nations, stations, corridors, structures, ruins, natural features. **See the note below.** |
 | `00_Index.md` | file index, per-district status, and the **historical record** of how each rule was learned (five rounds) |
 | `00b_…Discipline.md` | general population, not narrow context |
 | `00c_Completion_QA_Checklist.md` | Gates 0-10 |
@@ -641,3 +642,50 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
 | `../District_Culture_Development_Plan.md` | the what and in what order; progress tracker |
 | `../../Cultural_Synthesis_Techniques.md` | the generative toolkit — where new culture actually comes from |
 | `../Zodiac_Personality_Substrate/` | per-district substrate; `99_Application_to_Districts.md` is the bridge |
+
+---
+
+## The universal location methodology — added 2026-08-30
+
+**A sibling procedure now exists at `../../Universal_Location_Methodology/`, generalizing this one to any
+location of any type at any scale.** It was derived from this folder rather than replacing it.
+
+**This runbook remains authoritative for Concordia's thirteen districts.** It is evidence-backed across thirteen
+passes; the universal version is a working draft that has not been run on anything. **Districts keep using
+this file.**
+
+**Three things it takes from here unchanged**, on this folder's own instructions: `00f_Review_Panel.md` (which
+states it is *"already fit for the universal location methodology and should be carried there rather than
+rebuilt"*), the Moore & Gillette four-faculty civilization-completeness test (which `00f` §4d explicitly assigns
+there), and `00d_Shadow_Proportion_Discipline.md` (which declares itself binding on *"any location methodology
+derived from this one"*).
+
+**Four things it had to add, each because a district constant became a variable:**
+
+1. **Type, scale band, status and temporal frame are declared**, because all thirteen districts share all four
+   and nothing else does. **The general-population discipline in `00b` inverts below roughly thirty people** —
+   a limit this folder never had to state.
+2. **Three independent generators instead of one.** The zodiac capability reading is not portable; almost
+   nothing outside Concordia has a comparably rich substrate. **Physical and environmental constraint is
+   promoted to a first-class generator** — non-negotiable in fact rather than by convention.
+3. **Two more capability quadrants** — *standing cost* (what a place must keep paying to keep existing) and
+   *grudging tolerance* (what it permits but punishes). The dignity row supplies neither, and in a setting made
+   entirely of hostile-environment settlements they carry a great deal.
+4. **A mandatory relational phase, mid-spine.** `00e` §6 records that no phase here covers inter-district
+   relationships. **The city template it was translated from has that section — §23.** It existed at city scale
+   and was lost in translation to district scale; the universal spine restores it, and places it fifth rather
+   than last so it cannot be dropped the same way twice.
+
+> ### ⚠ Open question for the developer — deliberately not decided here
+>
+> **The project's `CLAUDE.md` makes reading *this* file mandatory before any work on *"a district's, city's, or
+> location's local culture."*** That wording predates the universal methodology and now covers locations this
+> folder was never written for.
+>
+> **Someone running a pass on an orbital station or a highway currently has a binding instruction to read the
+> district procedure and no instruction to read the universal one.** That should probably change, but
+> **`CLAUDE.md` is the project's binding instruction file and editing it is a developer decision**, so it has
+> been left alone and flagged here instead.
+>
+> **The likely fix:** keep this file mandatory for districts, make the universal runbook mandatory for
+> everything else, and have each point at the other — which they now do.
