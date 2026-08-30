@@ -62,6 +62,18 @@ blocks stripped:
 > district whose numbers come from a section written on purpose** rather than dragged in by another finding —
 > which is what the category was added to produce.
 >
+> ### The term list for this category, corrected four times and still assumed incomplete
+>
+> **Scan with all of these, case-insensitively, against a dash-normalized copy of the text:**
+> `death` · `funerar` · `mortuar` · `mourn` · **`griev`** · **`bereave`** · `burial`
+>
+> **Four defects found in four consecutive districts, every one by content that existed and scored zero:**
+> `funeral` does not match *funerary* (the Circuit); `mortuary` was never on the list at all (Scorpio, Leo);
+> **`mourn` does not match *grief*, *grieving* or *bereavement*** — which is the entire register of a district
+> whose characteristic bereavement **has no body and no event** (the Frostlands); and a term can fail on a
+> **character**, since `human-robot` scored zero against an en dash (the Undergrid). **Assume the list is still
+> short.**
+>
 > ⚠ **Scan-term correction, 2026-08-29, found by the Circuit's Gate 1.** The term `funeral` **does not match
 > `funerary`**, which is the word a section on this subject is most likely to actually use. The Circuit's own
 > §XXII scored **0** on `funeral` while scoring **2** on the `funerar` stem. **Use the `funerar` stem, not

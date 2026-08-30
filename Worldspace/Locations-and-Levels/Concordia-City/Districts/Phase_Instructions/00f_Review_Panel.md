@@ -604,6 +604,59 @@ standout should be.
 
 ---
 
+## What twelve districts of panel runs actually established
+
+**Added 2026-08-29. Three results that were sitting in district files and had never been written into this
+one.**
+
+### `unmet` measures what a district is *knowingly protecting* — not how hard the panel was run
+
+This file has said that **`unmet` should be common and a panel that never produces it is being run wrong.**
+That is half right and the other half was costing real time. The counts:
+
+| District | `unmet` | What it consciously protects |
+|---|---|---|
+| **The Markets** | **3** | the not-looking — the instrument that makes it the only district that takes anyone |
+| The Circuit | 1 | little; it is unusually accommodating |
+| The Frostlands | 1 | little; its problems are absences it has never perceived |
+| **The Undergrid** | **1** | **non-ownership — exactly one thing, and the one `unmet` landed on it** |
+
+**A low count is not evidence of a soft panel.** It is evidence that the district's problems are **absences it
+does not know it has**, and **you cannot refuse to surrender something you do not know you hold.** The Markets
+scored three because they have something worth defending and know it; the Undergrid scored one **on precisely
+the one thing it consciously defends.**
+
+**So read `unmet` as a diagnostic of self-knowledge, not of panel rigour** — and when a run comes back low,
+**check whether the district is accommodating or merely unaware** before concluding the panel went easy.
+
+### A position that cannot be cast at all is a finding, and a strong one
+
+**The Frostlands' Neighbor position could not be voiced from the Undergrid** — there was no history, no
+grievance, no trade and no contact to speak from. **A panel position requires a standpoint**, and the absence of
+one is the strongest available confirmation that a relationship genuinely does not exist.
+
+**Record it as a result rather than substituting a different neighbour.** It confirmed that district's Finding
+VIII from the outside, and the Undergrid's own pass later confirmed it from the other side.
+
+### The shadow position is worth running every time, and the results have got sharper as the roster is worked
+
+Six run, and the verdicts are not converging on "not guilty" the way the first two suggested:
+
+| District | Position | Verdict |
+|---|---|---|
+| The Labs | Detached Manipulator | **not guilty** |
+| The Government District | Tyrant | **not guilty** |
+| The Circuit | Know-It-All Trickster | **partially guilty — on self-image, not conduct** |
+| The Markets | Addicted Lover | **guilty on a redirected charge** — not dissolute; addicted to being needed |
+| The Frostlands | Denying "Innocent" One | **partially guilty — on effect rather than intent** |
+| The Undergrid | Detached Manipulator | **not guilty, with the conditions for guilt stated** |
+
+**Two techniques came out of this and both should be used deliberately.** **The redirect** — the literal charge
+fails and an adjacent one lands, which is where the Markets' best shadow material came from. And **the
+conditional acquittal** — *not guilty, and here is exactly what would make it guilty*, which gave the Undergrid
+a live, playable trajectory instead of a verdict. **Pick the position most obviously suited to the district's
+reputation**, because the obvious charge failing is usually where the real one is.
+
 ## ⚠ The panel does not check plausibility either, and it looks as though it does
 
 **Added 2026-08-29, after eleven districts.** This file reads like the place a *would-people-actually-do-this*

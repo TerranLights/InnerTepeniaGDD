@@ -156,7 +156,21 @@ discovery that **the district is ~87.7% from a single city and has no idea.** Fu
 >
 > **Composition-share as a design axis is parked** by developer decision — not urgent, revisit later.
 
-**0.5 Note any reserved decision** and state it at the head of the pass. *(`00e` §5, protocol from Capricorn.)*
+**0.5 Note any reserved decision** and state it at the head of the pass — **and know that you will probably
+find material for it anyway.** *(Protocol extended 2026-08-29, after it happened four times.)*
+
+> **When a pass turns up material bearing on a question the developer has deferred, do not bury it in a
+> parenthesis and do not use it.** Write it as a **numbered finding, marked reserved**, that states what was
+> found, what it would decide, and explicitly that it is **not adopted here.** Four now exist and each was
+> written this way: the Circuit's **Lightwave Polyrhythm** (open-outcry hand signals held, not spent), the
+> Markets' **currency tie** (Tangier's multi-currency regime withheld), the Frostlands' **Finding XXX**
+> (the corpus's only Ophiuchus chapter, filed for the Hub), and the Undergrid's **Finding XXXI** (the one thing
+> that district does not document).
+>
+> **Why a finding rather than a note:** it is numbered, it is in the district's own file where the next pass
+> will read it, and it is legible as *deliberately unspent* rather than as an oversight. **A parenthesis is
+> lost; a reserved finding is a handoff.** It also pairs with Gate 7's third outcome — **research withheld to
+> avoid foreclosing a reserved question is recorded there as *withheld*, not as unused.** *(`00e` §5, protocol from Capricorn.)*
 Five districts still lack a settled in-fiction name; Capricorn's Narrow Door is reserved outright. **Identify
 what would foreclose the choice before you write, not after.**
 
@@ -169,7 +183,7 @@ what would foreclose the choice before you write, not after.**
 For each existing finding describing a **threshold, gate, conversion, verdict, admission or status change**,
 ask: *the mechanism runs both ways — did the file write both?*
 
-**This has fired on 5 of 5 districts, and every time the failure was in the 2026-07-09 material.** Those
+**This has fired on 12 of 12 districts, and every time the failure was in the 2026-07-09 material.** *(The gate's second, own-pass half is separate and is 2 for 3 — see `00c` Gate 9.)* Those
 findings were written to explain how a district *works*, a framing that documents the favorable path and stops.
 Taurus's trust converted a stranger permanently and never said the reverse is equally permanent; Leo's ladder
 had only an up direction; Scorpio's legible progress meant legible stalling; Aries wrote the emergency case and
@@ -253,6 +267,29 @@ Aquarius, which shares Leo's shape exactly and produced an unrelated finding.)*
 
 **If your step-3 consequence resembles the earlier district's, you have stopped at step 1 and assumed the rest.**
 
+> ### ⚠ When a shape repeats, write the comparison into the finding as a table. Required artifact.
+> *(Added 2026-08-29, after it caught a genuine near-miss on three consecutive districts.)*
+>
+> **A prose assurance that "this is different" is not checkable and does not survive the next pass.** Every
+> district that shares a row-shape or a faculty with an already-written one must carry, **inside the finding
+> itself**, a table comparing them on at least four axes:
+>
+> | | earlier district | this one |
+> |---|---|---|
+> | the instrument / doubled faculty | | |
+> | **what it does with the relevant object** | | |
+> | **the characteristic failure** | | |
+> | **where and when the loss happens** | | |
+> | **who can detect it** | | |
+>
+> **Worked instances:** the Circuit vs. the Frostlands (both have record problems; *keeps everything and ranks
+> nothing* against *keeps only what it has ranked*), and the Markets vs. the Undergrid (mirrored rows —
+> **identity vs. completion**, and *present-tense equilibrium* against *accumulating and not yet detonated*).
+>
+> **The tense row is the one that has done the most work and is the easiest to skip.** Two districts can have
+> genuinely opposite mechanics and still be in the same trouble, or identical-looking mechanics and be in
+> completely different trouble, and only the timing axis shows it.
+
 ---
 
 ## Step 3 — Research, aimed at what Step 2 named
@@ -260,7 +297,11 @@ Aquarius, which shares Leo's shape exactly and produced an unrelated finding.)*
 **3.1 Actually run it.** The picks in `../District-Inspirational-Influences.md` are almost always **identity-level
 only** — never mined concretely. That condition forced Cancer's from-scratch rewrite.
 
-**3.2 Research the deficit.** *(`00e` §5. 2 for 2, and it produced the top finding both times.)* The capability
+**3.2 Research the deficit.** *(`00e` §5. **6 for 6**, and it is the single most reliable research move in the
+method.)* Worked instances: Scorpio → ayahuasca aftercare · the Yards → guild burial funds and patron's days ·
+the Circuit → Reuters' Trust Principles and the wire-service kill notice · the Markets → British hallmarking
+and the Knoedler forgeries · the Frostlands → Polynesian wayfinding and the Icelandic sagas · **the Undergrid →
+the aviation Certificate of Release to Service, the sharpest contrast produced in twelve districts.** The capability
 reading says what a district **cannot** do; it does not say what the missing thing looks like. **Find a real
 culture that has it, and the contrast writes the finding.** Scorpio's row said *nowhere to convalesce* →
 researching Iquitos ayahuasca practice showed real transformative practice devotes as much structure to the
@@ -366,7 +407,7 @@ written source declared unnecessary without being opened.
   districts score zero on every term.** **The question is obligatory; a section is not** — write one only where
   the answer is distinctive, and **use the `funerar` stem**, which has now caught two sections that `funeral`
   scored at zero.
-- **Phase 2 religion: use the Naming technique before inventing.** *(6 for 6.)* Search canon for religious
+- **Phase 2 religion: use the Naming technique before inventing.** *(**10 for 10.**)* Search canon for religious
   register attached to non-religious objects. **It does not always return a religion** — a district that already
   has one yields a *stake*, a *compact*, or a *creed* instead.
 - **When a category comes up empty, ask who *brought* one before inventing one.** *(New technique, 2026-08-29,
@@ -374,7 +415,30 @@ written source declared unnecessary without being opened.
   form very often has an incoming population that already had one, and **an institution the district borrowed
   is a better answer than one it invented**, because it explains something already in canon and it carries a
   built-in relationship: the host uses it, values it, and cannot quite say what it is receiving.
+- ⚠ **Name the *axis* a category answers on, and check no completed district already uses it.** *(Added
+  2026-08-29 — this is what the differentiation table is actually tracking and it had never been stated.)*
+  A category is not differentiated by having different content; **it is differentiated by answering a different
+  question.** Food across twelve districts runs: **admission** (Taurus) · **rank** (Leo) · **position in a
+  process** (Scorpio) · **ambient availability** (the Power Core) · **unspoken repair** (the Yards) · **no
+  cuisine at all** (the Labs) · **guesthood** (the Government District) · **duration** (the Circuit) ·
+  **attention** (the Markets) · **inclusion in the count** (the Frostlands) · **unpaid time** (the Undergrid).
+  **Eleven answers, eleven axes, no repeats** — and that is why the row has never collided.
+  **So state the axis explicitly in the finding, in bold**, and check it against the table before writing. **If
+  you cannot name the axis in three or four words, the category has not been differentiated yet** — it has just
+  been described differently.
+- **Check canon before deriving *anything* structural.** *(Consolidated 2026-08-29 — the same rule had been
+  learned separately four times.)* **Countercultures** (the Yards had one), **religions** (the Naming
+  technique), **no-villain shadow mechanisms** (`00d`, from Libra), and **notable figures** all have existing
+  canon more often than a pass expects. Where canon supplies the mechanism, **the pass's job is to explain why
+  this district was the one it happened to** — which is what the capability reading is for — **not to invent a
+  parallel.**
 - **Check `../Cross_District_Differentiation_Table.md` before writing each category.** See Step 6.
+- **After the capability reading, ask whether the district already holds its own remedy.** *(New technique
+  2026-08-29 — `../../Cultural_Synthesis_Techniques.md`, **The Unrecognized Instrument**.)* A deficit is of the
+  *general* faculty, not of every instance: the Frostlands hold two non-narrative recorders they file as an
+  accent and a repair job; **the Undergrid closes items daily on its purification line and never noticed the
+  method generalizes.** **Run it after Step 2, never before** — found first it softens the deficit, found
+  second it sharpens it, and it is the best player-facing lever the method produces.
 - ⚠ **Ordinary Daily Life (Phase 5) is a generator, not a coverage box.** *(Promoted 2026-08-29, on the
   measurement above.)* It has been run as a category to be filled and it has produced **the single best finding
   of the twelve-district set** — the Markets' *not-looking*, an exhausting public utility of deliberate
@@ -393,7 +457,8 @@ written source declared unnecessary without being opened.
 
 ## Step 5 — Substrate findings and contradictions
 
-**Expect the contradiction to resolve both-are-true.** *(7 for 7.)* The recurring shape: **one disposition
+**Expect the contradiction to resolve both-are-true.** *(7 for 7 **as of the seventh district, and not
+deliberately re-tested since** — recorded honestly rather than carried forward as if it were twelve.)* The recurring shape: **one disposition
 producing two opposite effects on two different objects or at two different scales.** Don't ask which is true —
 ask *what single trait would produce both*, then check whether the two claims are about different objects.
 
@@ -494,6 +559,12 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
   withdrawn), and a Gate 8 compliance check that reported three districts skipping the gate **when all twelve
   had run it and three simply use a different heading style.** In every case the tool was fine and **the
   pattern was wrong.**
+  **A fourth instance, found while auditing this very rule into the file:** a check reported a technique
+  missing from `00f` **that was already in it** — the phrase wraps across a line break, and a single-line
+  `grep -F` cannot match it. **This is a recurrence**: the same defect is recorded much earlier in the project,
+  when `00c` appeared to lack a rule for the same reason and was nearly rewritten. **Prose files are
+  hard-wrapped; assume every multi-word pattern is broken somewhere.** Search for the shortest distinctive
+  fragment that fits on one line, or normalize whitespace first.
   **So: before drawing any conclusion from an absence, run the scan against a case you know contains a hit.**
   If it does not find that one, it has not found anything. This is the general form of the four stem defects in
   `00c` Gate 1, and it applies to every grep in this methodology, not only that gate.

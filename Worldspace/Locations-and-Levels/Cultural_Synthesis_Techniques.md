@@ -457,3 +457,56 @@ never applied before it existed.** The file was open in front of three passes th
 per-district composition with named, portable institutions and social-cohesion mechanisms per contributing
 city. **Measured 2026-08-29: five of the nine completed districts make no use of it at all**, including
 Scorpio, which is a Stage 2 Override district and uses the word *refugee* zero times.
+
+
+---
+
+## Technique — The Unrecognized Instrument *(added 2026-08-29, from the Frostlands and the Undergrid)*
+
+**Once the capability reading has named what a district cannot do, ask whether the district is already doing it
+somewhere and has not noticed.**
+
+**This is not Borrowed Form and the two should not be merged.** Borrowed Form asks *who arrived carrying the
+missing thing.* This asks **whether the district built it itself, in one corner, for an unrelated reason, and
+never generalized it.** The answers come from different places and both are usually available.
+
+### Why it keeps working
+
+**A capability deficit is a deficit of the *general* faculty, not of every possible instance.** A district that
+cannot rank things in general can still have one process where ranking is forced on it by physics; a district
+that cannot record can still have one form rigid enough to survive retelling. **That local exception is
+invisible from inside**, because the district experiences it as *just how that job is done* rather than as an
+exception to anything.
+
+### Worked instances
+
+- **The Frostlands** can only keep what can be made to mean something — and hold **two** non-narrative recorders
+  already: an imported fixed-form recitation filed as a regional accent, and **salvage frames recovered from
+  lost expeditions that report intervals and readings without needing any of it to signify.** The district
+  repairs the second for morale and never asks what it saw.
+- **The Undergrid** cannot declare anything finished — and **closes items every day on its siligel purification
+  line**, where two independent measurements agreeing *is* the close-out, because the standard is quantitative
+  and needs nobody's judgment. **It solved its own constitutional problem in one process two hundred and fifty
+  years ago and never noticed the method generalizes.**
+
+### How to run it
+
+1. **Name the missing faculty** from the capability reading.
+2. **Sweep the district's own institutions, trades, machines and safety-critical processes** for anywhere that
+   faculty is being exercised — usually because something external forced it: a physical constraint, a lethal
+   consequence, a machine's design, a two-person rule.
+3. **Ask why it did not spread.** The answer is the finding, and it is normally that **nobody recognized it as
+   an instance of anything** — it was just how that job is done.
+
+### What it is for
+
+**It converts a district's central problem from tragic to *addressable*, without importing anything or making
+the district less itself** — which is the failure mode of every other fix. **The remedy is native, already
+trusted, and already working.** That makes it the best available player-facing lever: the change a player can
+actually cause is not to bring the district something new, but **to connect two things it already has.**
+
+### The failure mode
+
+**Do not go looking for this until the capability reading is finished.** Found first, it becomes a reason to
+soften the deficit; found second, it sharpens it — the district's inability is *more* poignant, not less, once
+you can see it holding the answer and not recognizing it.
