@@ -773,3 +773,71 @@ whoever runs the next pass; the megasheet is read by everyone. → `00c` Gate 0,
   accident because a step was skipped and then recovered.
 - **Process consequence: Step 3.7 is being moved earlier.** It sat inside Step 3 (research), where it competes
   with the picks and gets skipped. **It belongs at Step 0**, with the other mandatory reads.
+
+
+---
+
+## Eleventh round — an unused axis, a district the generator cannot read, and a length check (2026-08-29)
+
+**Ten districts done. This round is three measurements, one of which was aimed at my own recent work.**
+
+### Diaspora concentration varies by a factor of four and no pass has used it
+
+The Markets' 87.7%-from-one-city finding looked like a curiosity about one district. **Measured across all
+thirteen, it is an axis**, and top-2 contributor share runs from **25.6% (Virgo) to 100% (the Markets)**, with
+contributor counts from **2 to 10**.
+
+**These are not the same kind of social object.** A district that is nine-tenths one city **has a dominant
+transplanted culture that reads to everyone, including its residents, as native** — its "local" customs are
+somebody's imports, unrecognized as such. A district whose largest contributor is 13% **cannot have one**, and
+its culture has to be synthesis or friction, because nothing arrived big enough to set a tone. **Aries is
+effectively three cities — 73.9% between two of them — and its file uses *refugee* and *transplant* zero
+times.**
+
+**And it lands directly on the two districts left.** Sagittarius is concentrated (57.3% top-2); **Virgo is the
+most diverse district in Concordia**, nothing above 13.3%. **So the Markets and the Undergrid are opposites on
+this axis as well as on verification** — one city pretending to be a mixture, against a real one. A second,
+independent reason to write them as a pair, and it was sitting in a file nobody had opened. → runbook Step
+0.4b.
+
+### The Hub has no capability row — the primary generator does not work there
+
+**Confirmed against `F_Rulerships.md` and the Hub's own substrate.** Not thin, not two-term: **explicitly
+none** — no element, no modality, no opposing sign, no ruler, no house, in those words. **Step 2 is credited
+with the strongest structural finding on every district run so far, and it returns nothing for exactly one
+district** — the deferred one.
+
+**This is better news than it sounds.** The standing honesty note says the prediction table's twelve
+confirmations should be read as house style, because every pass was written and graded by the same person, and
+that the one real test would be **a district chosen because it looks least likely to conform.** The Hub now has
+a *mechanical* reason to be that test: **it is the one place the generator cannot flatter anything**, because
+it produces nothing to flatter. → runbook Step 2.
+
+### The length check, aimed at my own last two passes
+
+Gemini (867 lines) and Pisces (926) are markedly longer than the earlier band (559–773). **Law 0 says depth,
+not volume, and those are easy to confuse**, so the honest question was whether the recent passes are deeper or
+merely fatter. **Measured — lines per finding, findings only, verified strip:**
+
+```
+Cancer 36 · Taurus 24 · Leo 25 · Scorpio 34 · Aries 32
+Capricorn 33 · Aquarius 34 · Libra 35 · Gemini 34 · Pisces 31
+```
+
+**Stable, 24–36, with the two long passes sitting mid-band.** The growth is in **findings count** (18–23
+early, 25 and 29 recently), not in findings getting flabbier — and it is accounted for: the death category,
+the holidays category, the diaspora finding, and one or two extra research-driven findings. **The extra length
+is extra content, and the check should be re-run whenever a pass runs long.**
+
+### Smaller
+
+- **Gate 6b collisions cluster on the previous district, not across the table.** The Markets needed inline
+  differentiation on **six** rows and **all six were against the Circuit**, written days earlier; against the
+  eight older districts, nothing. **The cause is the author** — the most recently solved shape is the nearest
+  one to reach for. **Run Gate 6b against the previous district in full first.** → `00c`.
+- **Gate 9's own-pass half is 1 for 1** and that is not yet evidence. Recorded as a single data point, not a
+  record.
+- **Research yield: 4/6 · 4/4 · 8/10 · 9/11.** Trending to the top of the 70–80% band, which the norm says to
+  treat as a warning about counting ornament as change rather than as an achievement. **Both recent passes
+  named an item as ornament and one as withheld**, which is the discipline working — but the trend should be
+  watched, not celebrated.

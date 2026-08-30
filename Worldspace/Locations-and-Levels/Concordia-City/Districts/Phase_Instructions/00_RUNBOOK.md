@@ -141,6 +141,37 @@ option.** Five of the first nine districts ignored it; the Markets pass skipped 
 omission at Step 8 — reading it then produced a new finding and corrections to three others, including the
 discovery that **the district is ~87.7% from a single city and has no idea.** Full evidence at Step 3.7.
 
+> ### ⚠ Read the *concentration*, not just the entries. It varies by a factor of four and nobody has used it.
+> *(Measured across all thirteen districts, 2026-08-29.)*
+>
+> | District | contributors | top | top-2 | largest |
+> |---|---|---|---|---|
+> | **10 Pisces** | **2** | **87.7** | **100.0** | Shirayuki |
+> | 13 The Hub | 5 | 41.2 | 68.1 | Lazar |
+> | 11 Sagittarius | 7 | 39.6 | 57.3 | Denison |
+> | **05 Aries** | **3** | 39.0 | **73.9** | Denison |
+> | 07 Aquarius | 6 | 36.4 | 56.1 | Halley |
+> | 09 Gemini | 7 | 30.0 | 58.7 | Janbogo |
+> | 04 Scorpio | 7 | 29.8 | 54.8 | Casey |
+> | 02 Taurus | 9 | 26.3 | 41.3 | Lazar |
+> | 01 Cancer | 7 | 24.6 | 46.6 | Esperanza |
+> | 03 Leo | 9 | 23.9 | 42.7 | Casey |
+> | 06 Capricorn | 8 | 22.9 | 42.5 | Neumayer |
+> | 08 Libra | 10 | 19.2 | 33.8 | Zhongshan |
+> | **12 Virgo** | 8 | **13.3** | **25.6** | Davis |
+>
+> **Top-2 share runs from 25.6% to 100%.** These are not the same kind of social object and the passes have
+> been treating them as if they were. **A district that is nine-tenths one city has a dominant transplanted
+> culture that reads as native** — its "local" customs are somebody's imported ones, unrecognized. **A district
+> whose largest contributor is 13% has no such thing** and its culture must be synthesis or friction, because
+> nothing arrived big enough to set the tone. **Aries is effectively three cities and its file uses *refugee*
+> and *transplant* zero times.**
+>
+> **Directly relevant to the two districts left:** Sagittarius is **concentrated** (57.3% top-2) and Virgo is
+> **the most diverse district in Concordia** (25.6%, nothing above 13.3%). **So the Markets and the Undergrid
+> are opposites on this axis too** — one city pretending to be a mixture, against a genuine mixture — which is
+> a second, independent reason to write them as a pair.
+
 **0.5 Note any reserved decision** and state it at the head of the pass. *(`00e` §5, protocol from Capricorn.)*
 Five districts still lack a settled in-fiction name; Capricorn's Narrow Door is reserved outright. **Identify
 what would foreclose the choice before you write, not after.**
@@ -197,6 +228,15 @@ consequence.** If your consequence reads like another district's, it is wrong.
 > The substrate is explicit that this particular opposition *presents as kinship and stalls there*, which makes
 > "write it as the mirror image" the most tempting and most wrong move available. **Its consequence must be
 > unrelated to the Circuit's, not inverse to it.**
+
+> ⚠ **The Hub has no capability row, and Step 2 does not work for it.** *(Confirmed 2026-08-29 against
+> `F_Rulerships.md` and `13_Ophiuchus_Hub.md`.)* Not "thin", not "two-term" — **explicitly none**: no element,
+> no modality, no opposing sign, no ruler, no house. The substrate says so in those words. **So the primary
+> generator, credited with the strongest structural finding on every district so far, returns nothing for
+> exactly one district**, and that district is the deferred one. **Do not discover this mid-pass.** It also
+> makes the Hub the natural falsification test the standing honesty note has been asking for: the prediction
+> table's twelve confirmations were all produced where the generator works, and **the Hub is the one place it
+> cannot flatter anything.**
 
 > ⚠ **Schedule Virgo and Pisces together, and write neither in ignorance of the other.** They are the two most
 > distinctive rows left in the table and they are **structural opposites on the single faculty of

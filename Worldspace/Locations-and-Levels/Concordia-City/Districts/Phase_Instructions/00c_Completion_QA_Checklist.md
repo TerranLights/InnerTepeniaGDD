@@ -302,6 +302,16 @@ district has something structurally adjacent, and if so name the difference in t
 existing Threshold Waiting Rooms — related but distinct, and the distinction has to be written down or the next
 reader will assume it's a duplicate.
 
+> **Check the most recently written district first.** *(Added 2026-08-29, from the Markets.)* Collisions are
+> not evenly distributed across the table — **they cluster on the district written immediately before.** The
+> Markets required inline differentiation on **six** rows and **all six were against the Circuit**, written the
+> same week: shadow/sanction, music, records, food, counterculture, visitor transition. Against the eight
+> earlier districts, nothing needed differentiating at all.
+>
+> **The cause is the author, not the districts** — whatever was most recently solved is the nearest available
+> shape, and it gets reached for. **So run Gate 6b against the previous district in full before scanning the
+> rest of the table**, and expect that comparison to produce most of the work.
+
 ## Gate 7 — Unused-research capture
 
 > **Three outcomes, not two.** *(Third added 2026-08-29, from the Circuit.)* Every researched pick is recorded
