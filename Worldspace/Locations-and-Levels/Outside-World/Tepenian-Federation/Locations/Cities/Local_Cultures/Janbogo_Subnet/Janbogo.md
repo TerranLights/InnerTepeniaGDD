@@ -23,7 +23,7 @@
 | Significant | Japan, Germany, Italy, South Korea *(founding operator)*, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
-*Janbogo is Tepenia's clearest case of a founding-era civic template surviving its own demographic minority status. Unified Korea founded the city, gave it its name, and set its earliest civic institutions in place — teahouses, communal warmth, the instinct to make daily life worth living under difficult conditions, all worked out independently by the founding population out of the city's own circumstances. But over 130 years, the sheer scale of Chinese and American emigration potential outweighed Korea's smaller founding population, and China and USA became the numerically dominant lineages. The culture did not follow the numbers. It stayed exactly as it was built. People whose ancestry is Chinese, American, Japanese, German — the demographic majority of the city — grew up inside a civic identity that was never theirs by blood and is now inarguably theirs by practice.*
+*Janbogo is Tepenia's clearest case of a founding-era civic template surviving its own demographic minority status. Unified Korea founded the city, gave it its name, and set its earliest civic institutions in place — teahouses, communal warmth, the instinct to make daily life worth living under difficult conditions, all worked out independently by the founding population out of the city's own circumstances. But over roughly two and a half centuries, the sheer scale of Chinese and American emigration potential outweighed Korea's smaller founding population, and China and USA became the numerically dominant lineages. The culture did not follow the numbers. It stayed exactly as it was built. People whose ancestry is Chinese, American, Japanese, German — the demographic majority of the city — grew up inside a civic identity that was never theirs by blood and is now inarguably theirs by practice.*
 
 ---
 
@@ -189,7 +189,7 @@ Warm, communal, meant to be experienced together rather than performed at a dist
 
 Janbogo's founding population — Korean robot exiles and their human partners and supporters — built the city's warmth culture together from the start, and the hosting tradition was never ethnically or species-exclusive: a robot making tea for a human, or a human making coffee for a robot, carries exactly the same social weight. The city's inversion of founding-versus-demographic-majority applies to species dynamics too, in a sense — robots were fully present at the founding, and the culture that emerged treats care and hosting as a shared responsibility regardless of who or what is doing the hosting.
 
-130 years on, human-robot relations in Janbogo are unusually unremarkable in the best sense: nobody treats it as a subject requiring commentary, because the founding culture never made a distinction worth commenting on.
+Roughly two and a half centuries on, human-robot relations in Janbogo are unusually unremarkable in the best sense: nobody treats it as a subject requiring commentary, because the founding culture never made a distinction worth commenting on.
 
 ---
 
@@ -230,7 +230,7 @@ The generational dynamic runs opposite to Zhongshan's slow-grief pattern: becaus
 
 ## 21. Political Character
 
-Practical and consensus-driven, oriented around keeping the supply lifeline to Concordia functioning rather than ideological contest. Janbogo's political energy goes into logistics, wind-safety coordination, and maintaining the polynya's strategic value — a city that has learned, through 130 years of being genuinely needed, that its leverage comes from function rather than rhetoric.
+Practical and consensus-driven, oriented around keeping the supply lifeline to Concordia functioning rather than ideological contest. Janbogo's political energy goes into logistics, wind-safety coordination, and maintaining the polynya's strategic value — a city that has learned, through roughly two and a half centuries of being genuinely needed, that its leverage comes from function rather than rhetoric.
 
 ---
 

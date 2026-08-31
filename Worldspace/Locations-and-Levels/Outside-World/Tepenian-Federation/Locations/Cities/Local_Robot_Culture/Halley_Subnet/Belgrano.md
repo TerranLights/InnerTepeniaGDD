@@ -190,7 +190,7 @@ localize per city.*
   fact about governance, not merely a value — closer to Neumayer's own precision-institute-as-quasi-sacred-space
   finding than to Halley's or Sanay's own more purely attitudinal civic ethics.
 - **[Adapted, Deep, genuinely unresolved]** A real tension surfaced and left honestly unresolved, not smoothed
-  over: as the founding Argentine population diluted to the lowest recognized demographic tier over 130 years,
+  over: as the founding Argentine population diluted to the lowest recognized demographic tier over roughly two and a half centuries,
   a genuine question about who the founding discipline actually belongs to now never reached a formal answer
   (Course of Events #6, "Whose Discipline Is It") — resolved only practically, by simple continued use rather
   than any ruling. Nothing in the gathered material suggests this rises to open conflict among Belgrano's robot

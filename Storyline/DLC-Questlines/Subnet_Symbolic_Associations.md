@@ -144,7 +144,7 @@ the developer's own earlier framing)*.
 
 **The case for it:**
 - Mirny subnet's defining civic act, across multiple cities, is self-naming: Sinheung's first-ever
-  deliberate name after 130 years without one, Shirayuki's fresh naming mid-project, Mirny's own flagged
+  deliberate name after roughly two and a half centuries without one, Shirayuki's fresh naming mid-project, Mirny's own flagged
   (still undecided) rename. Naming yourself is an assertive, illuminating, self-defining act — the closest
   thing to Fire's own core quality of active transformation.
 - Fire's traditional virtue, *propriety* — doing or being the correct, proper thing — maps directly onto a

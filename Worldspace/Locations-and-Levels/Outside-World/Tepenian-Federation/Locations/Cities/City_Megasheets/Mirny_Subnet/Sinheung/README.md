@@ -38,7 +38,7 @@ The city's own re-derived demographic Primary now leads the population outright,
 
 ## What It Feels Like
 
-Heavy industrial fabrication dominates daily life — raw materials trucked in from Davis, worked into finished goods. The single most consequential fact about the city, hiding behind an otherwise modest political profile: it's one of a handful of Tepenian cities that manufactures the actual apparatus that creates robots, shipped nationwide so a robot can be built anywhere in the Federation regardless of local manufacturing capability. Underneath the industry runs a genuinely unusual civic mood — a deep, openly-held sense of pride and forward-looking ambition, sharper and less blended than most post-national Tepenian cities carry. **Corrected 2026-07-13:** for most of this city's development, that pride wasn't embedded in a name the founders chose for themselves — "Soyuz" was never their choice at all. It was embedded instead in a claim the founders had to secure by treaty rather than simply inherit, and the output-driven civic mood is how they spent 130 years proving it. **Updated 2026-07-14:** the city has since chosen its own name — Sinheung, "newly rising" — which now carries that same pride directly, rather than standing in contrast to an unchosen placeholder.
+Heavy industrial fabrication dominates daily life — raw materials trucked in from Davis, worked into finished goods. The single most consequential fact about the city, hiding behind an otherwise modest political profile: it's one of a handful of Tepenian cities that manufactures the actual apparatus that creates robots, shipped nationwide so a robot can be built anywhere in the Federation regardless of local manufacturing capability. Underneath the industry runs a genuinely unusual civic mood — a deep, openly-held sense of pride and forward-looking ambition, sharper and less blended than most post-national Tepenian cities carry. **Corrected 2026-07-13:** for most of this city's development, that pride wasn't embedded in a name the founders chose for themselves — "Soyuz" was never their choice at all. It was embedded instead in a claim the founders had to secure by treaty rather than simply inherit, and the output-driven civic mood is how they spent roughly two and a half centuries proving it. **Updated 2026-07-14:** the city has since chosen its own name — Sinheung, "newly rising" — which now carries that same pride directly, rather than standing in contrast to an unchosen placeholder.
 
 ---
 
@@ -187,7 +187,7 @@ Section V is the most structurally useful proposal here — it gives the city's 
 
 **3rd-order effect:** that gives the renaming real emotional weight beyond ordinary worldbuilding housekeeping. It isn't a city continuing its own tradition of meaningful self-naming — it's a city finally receiving something it was diplomatically denied at the moment of its founding, when a name got attached to it without anyone who actually lived there being asked. Fittingly, the chosen name itself — "newly rising/emerging" — names that exact transition.
 
-**4th-order effect:** this gives the Sinheung name a different kind of weight than an ordinary city-naming decision — not continuing an established pattern, but closing a 130-year-old gap. The name carries the weight of being the city's first real act of self-definition, not its second, and any future writing touching this city's own self-image should treat the name itself as meaningful precisely because of how long it took to arrive.
+**4th-order effect:** this gives the Sinheung name a different kind of weight than an ordinary city-naming decision — not continuing an established pattern, but closing a gap roughly two and a half centuries old. The name carries the weight of being the city's first real act of self-definition, not its second, and any future writing touching this city's own self-image should treat the name itself as meaningful precisely because of how long it took to arrive.
 
 ---
 
@@ -216,7 +216,7 @@ Finding 3 was the most immediately useful item in this document for the develope
 - **The Chamber Works** — the fabrication-synthesis chamber manufacturing facility itself, one of only two functioning sites in Tepenia; the city's single most consequential piece of infrastructure.
 - **The Sinheung Polytechnic** — the city's own university, smaller in scope than Shirayuki's, focused on materials, fabrication, and production.
 - **Production-Line Murals** — public art celebrating the actual labor the city performs, Sinheung's civic aesthetic answer to Zhongshan's spare ink painting.
-- **Fermentation Halls** — communal kimchi and preservation-craft spaces, adapted to the six-month-dark isolation every Larsemann Hills city faces.
+- **Fermentation Halls** — communal kimchi and preservation-craft spaces, adapted to the no-supply-chain isolation every Larsemann Hills city faces.
 - **The Hills Accord Grounds** — the site tied to the observance marking ongoing coexistence with Zhongshan and Shirayuki.
 
 ## Small offices for educational training

@@ -84,7 +84,7 @@ to what came before it, rather than either hiding its era or ignoring its predec
 ###### The downstream consequence of the 2nd-order change — caused by *it*, not by the original conflict.
 
 Because that convention holds as later generations keep building, even that refined layer eventually runs
-out of room as the city keeps growing over 130 years — a third, outer ring develops in a mature
+out of room as the city keeps growing over roughly two and a half centuries — a third, outer ring develops in a mature
 architectural idiom all its own, working with the Larsemann Hills' exposed bedrock rather than against
 it, following the same established convention: visibly its own era, while still carrying legible
 continuity back through the refined layer to the founding core beneath it.

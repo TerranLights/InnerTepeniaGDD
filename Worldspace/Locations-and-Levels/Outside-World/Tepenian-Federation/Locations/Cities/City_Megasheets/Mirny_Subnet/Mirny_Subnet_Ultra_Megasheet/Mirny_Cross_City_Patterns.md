@@ -50,7 +50,7 @@ Three of the subnet's eight cities carry an active or historical "the name itsel
 - **Shirayuki:** carried a placeholder name for the entire Megasheet compilation process, then was freshly, officially named (白雪, "white snow") mid-project.
 - **Mirny:** flagged for an eventual rename, since its current Russian-namesake name no longer matches its own China-Primary/Russia-Significant demographic composition.
 
-**What this produces:** naming in this subnet is unusually active as a civic and narrative mechanism compared to most of Tepenia, where a city's name is typically just an inherited fact. Sinheung's own Cross-Reference Finding 3 already proposed that its first-ever self-naming should carry real, deliberate weight, precisely because it closes a 130-year-old gap rather than continuing an established pattern — a standard borne out directly once the name itself, Sinheung, was actually chosen — worth extending that same standard to Mirny's own eventual rename, given the two cities sit in the same subnet and now share the same underlying civic principle.
+**What this produces:** naming in this subnet is unusually active as a civic and narrative mechanism compared to most of Tepenia, where a city's name is typically just an inherited fact. Sinheung's own Cross-Reference Finding 3 already proposed that its first-ever self-naming should carry real, deliberate weight, precisely because it closes a gap roughly two and a half centuries old rather than continuing an established pattern — a standard borne out directly once the name itself, Sinheung, was actually chosen — worth extending that same standard to Mirny's own eventual rename, given the two cities sit in the same subnet and now share the same underlying civic principle.
 
 ---
 

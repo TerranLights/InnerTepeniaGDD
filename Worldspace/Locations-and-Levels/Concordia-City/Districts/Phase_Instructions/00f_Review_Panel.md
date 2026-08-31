@@ -430,7 +430,7 @@ procedural guard against it.
 really want is to be **noticed, honored, and taken seriously**. And they have a right to be. Once they are
 honored, and their feelings validated, **they no longer need to act out through our lives**."*
 
-**Applied to a place rather than a psyche: a district's shadow behaviour often persists because the thing
+**Applied to a place rather than a psyche: a district's shadow behavior often persists because the thing
 driving it has never been acknowledged, and stops when it is.** That is a questline engine rather than a QA
 tool — a resolution that requires no defeat of anyone, which suits this project's non-malice discipline
 exactly. Worth carrying to `Storyline/`.
@@ -526,7 +526,7 @@ from Aquarius.)* Three kinds, all informative:
 
 **Rule 1 — A position with nothing to say must say nothing.** Most will have no comment on most locations.
 **Manufacturing an objection to fill a slot is the failure mode**, exactly as padding Gate 1 is. **And a
-position declining to speak *because another position already covered the ground* is correct behaviour, not a
+position declining to speak *because another position already covered the ground* is correct behavior, not a
 gap** — on Aquarius the Parent stayed silent rather than duplicating the Child, which is the four-corner rule
 working before the check rather than after it.
 
@@ -629,13 +629,42 @@ the one thing it consciously defends.**
 **So read `unmet` as a diagnostic of self-knowledge, not of panel rigour** — and when a run comes back low,
 **check whether the district is accommodating or merely unaware** before concluding the panel went easy.
 
+> ### ⚠ ADDED 2026-08-30 — `unmet` currently has TWO definitions in this file, and they disagree
+>
+> **Found during the first Review Panel run under the Universal Location Methodology, on a real test case where
+> the two readings differed by a factor of four on one location.** *(That worked case is archived in
+> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+>
+> | Where | Definition | What it measures |
+> |---|---|---|
+> | **§7 Rule 3** | *"would satisfying this make the location more like the others? If yes, it is almost certainly `unmet`"* | **a rule about the WRITING** — an anti-homogenization guard |
+> | **This section** | *"`unmet` measures what a location knowingly protects… you cannot refuse to surrender something you do not know you hold"* | **a diagnostic about the PLACE** — its self-knowledge |
+>
+> **Both are correct and neither is redundant — but they come apart precisely for a location whose defining
+> property is that it does not perceive its own condition.**
+>
+> ### The fix: split the disposition. There are now six.
+>
+> - **`unmet`** — **the location knowingly protects this and would refuse to surrender it.** Keep the
+>   diagnostic meaning. **A low count is informative**, per this section: it means the location's problems are
+>   absences it does not know it has.
+> - **`declined`** *(new)* — **the pass refuses the objection on anti-homogenization grounds, and the location
+>   has no awareness with which to protect anything.** The want is real; satisfying it would make this place
+>   more like its siblings; **and nobody here would defend the refusal, because nobody here has noticed there
+>   is something to defend.**
+>
+> **Write a `declined` refusal as characterization exactly as Rule 3 requires** — *the location has no concept
+> of X, and here is what that does to a life* — **but do not count it as self-knowledge.** **Collapsing the two
+> destroys the signal this section exists to provide**, and inflates the `unmet` count on precisely the
+> locations whose low count would have been the most interesting thing about them.
+
 ### A position that cannot be cast at all is a finding, and a strong one
 
 **The Frostlands' Neighbor position could not be voiced from the Undergrid** — there was no history, no
 grievance, no trade and no contact to speak from. **A panel position requires a standpoint**, and the absence of
 one is the strongest available confirmation that a relationship genuinely does not exist.
 
-**Record it as a result rather than substituting a different neighbour.** It confirmed that district's Finding
+**Record it as a result rather than substituting a different neighbor.** It confirmed that district's Finding
 VIII from the outside, and the Undergrid's own pass later confirmed it from the other side.
 
 ### The shadow position is worth running every time, and the results have got sharper as the roster is worked

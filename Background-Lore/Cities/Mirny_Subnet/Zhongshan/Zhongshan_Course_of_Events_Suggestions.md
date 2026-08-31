@@ -51,7 +51,7 @@ grows and stabilizes, later generations want architecture that reflects genuine 
 not just survival. **Therefore** a second layer forms around the founding core — exile-era
 construction with real design intention behind it, distinct from the purely functional structures at
 the center. **But** even that refined layer eventually runs out of room as the city keeps growing over
-130 years. **Therefore** a third, outer ring develops in a mature architectural idiom all its own,
+roughly two and a half centuries. **Therefore** a third, outer ring develops in a mature architectural idiom all its own,
 working with the Larsemann Hills' exposed bedrock rather than against it — three visibly different
 eras of building, none of them erasing what came before.
 

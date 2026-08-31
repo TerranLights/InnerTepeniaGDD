@@ -8,7 +8,7 @@
 **Role:** The Established — district council representative
 **Species:** Human
 **Age:** Late 60s
-**Origin:** Taurus, multi-generational (five generations)
+**Origin:** Taurus, multi-generational (nine or ten generations)
 
 **Personality:**
 NPC-Taurus-Established-Council-Representative is warm in person and institutionally cold, and these two things are not in contradiction for him because he has never examined them together. He believes in Taurus completely — the bonded family, the stable household, the accumulation of life across generations — in the way a person believes in something that has never failed them personally and that they have therefore never had to question. He is not malicious about the Cold Side. It is not that he wishes them harm. He simply does not experience their situation as a demand on his attention in the same register as the demands on his attention from people whose situations are like his.
@@ -16,7 +16,7 @@ NPC-Taurus-Established-Council-Representative is warm in person and institutiona
 The specific quality that makes him hard to argue with is that he is not defensive. He engages. He listens. He concedes small points gracefully. And then he concludes the same thing he started with, because the framework that would allow him to conclude differently has never had cause to develop.
 
 **Backstory:**
-His family has been in Taurus for five generations. His great-great-grandparents were among the first bonded families to establish in the district after the Falkland Treaty. He grew up hearing that Taurus was the proof that the Falkland refugees could build something stable, something good, something worth protecting. He has protected it by every metric available to him. The Cold Side is not a metric he tracks. He has authorized insulation repairs for the warm side three times in his council tenure and told himself each time that the Cold Side was next on the list. He believes this. The belief is genuine and has produced no action.
+His family has been in Taurus for nine or ten generations. His earliest recorded forebears in the district were among the first bonded families to establish there after the Falkland Treaty. He grew up hearing that Taurus was the proof that the Falkland refugees could build something stable, something good, something worth protecting. He has protected it by every metric available to him. The Cold Side is not a metric he tracks. He has authorized insulation repairs for the warm side three times in his council tenure and told himself each time that the Cold Side was next on the list. He believes this. The belief is genuine and has produced no action.
 
 **Temperament:**
 Patient, reasonable-sounding, moderately good at listening to arguments in the sense of hearing them and not in the sense of being changed by them. Gets subtly uncomfortable when directness exceeds what he considers appropriate in a council context — not angry, just quietly less present. The meeting becomes the framework he hides behind.
@@ -25,7 +25,7 @@ Patient, reasonable-sounding, moderately good at listening to arguments in the s
 Deeply regular. The same meals at the same times. The council meeting schedule has not changed in fifteen years at his insistence; predictability is, for NPC-Taurus-Established-Council-Representative, a value rather than just a preference. Does a morning walk through the warm side of the district, the same route, same duration. Has done this for twenty-five years. The Cold Side is not on the route.
 
 **Living conditions:**
-A multi-generational apartment that has accumulated five generations of family objects. Genuinely beautiful in the way of a space that has been loved for a long time. Warm. The warmth is constant and unremarkable to him. It is the background condition of Taurus as he experiences it.
+A multi-generational apartment that has accumulated nine or ten generations of family objects. Genuinely beautiful in the way of a space that has been loved for a long time. Warm. The warmth is constant and unremarkable to him. It is the background condition of Taurus as he experiences it.
 
 **Physical notes:**
 Carries himself with the ease of someone who has never been cold. Mid-height, solid, moves without urgency. Has the kind of face that is good at looking concerned without changing what it's doing.

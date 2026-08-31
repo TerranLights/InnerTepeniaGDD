@@ -152,7 +152,7 @@
 
 ## 16. Human-Robot Relations
 
-*Prose — how humans and robots coexist, integrate, or conflict in this city specifically; what the founding history means for the baseline; how things stand 130 years in*
+*Prose — how humans and robots coexist, integrate, or conflict in this city specifically; what the founding history means for the baseline; how things stand roughly two and a half centuries in*
 
 ---
 

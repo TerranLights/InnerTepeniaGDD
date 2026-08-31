@@ -33,7 +33,7 @@ McMurdo Station was, before the exile, the largest and best-equipped station on 
 
 The "Fort" prefix was deliberate: a reference to Fort MacMurray, Alberta — a name that by the 2500s meant one thing, industrial resource extraction at scale. The founders were not being subtle about what they were building. This would not be a cultural capital or a symbolic first city. It would be a working city, and the name said so before anyone set foot in it.
 
-Transient, rotational labor was a structural feature from the start — extraction and industrial operations pulled workers from across Tepenia on seasonal and contract rotations. Most rotations ended in departure. Some didn't. Over five generations, enough workers who arrived on a contract chose to stay that the population contributing that labor — overwhelmingly Chinese in origin — grew to match the founding American population exactly, without ever displacing it from the historical record of who built the place.
+Transient, rotational labor was a structural feature from the start — extraction and industrial operations pulled workers from across Tepenia on seasonal and contract rotations. Most rotations ended in departure. Some didn't. Over nine or ten generations, enough workers who arrived on a contract chose to stay that the population contributing that labor — overwhelmingly Chinese in origin — grew to match the founding American population exactly, without ever displacing it from the historical record of who built the place.
 
 ---
 
@@ -167,7 +167,7 @@ With robots making up close to half the Census II population (164,621 of 338,169
 
 ## 18. Religious / Philosophical Landscape
 
-- Living beside a permanently active volcano for five generations produces a particular relationship to catastrophe: ambient rather than acute. Erebus could, in principle, end the city. It has not. Residents have made a kind of peace with a threat that never fully materializes, and that peace shapes how Fort McMurdo thinks about risk more broadly — present, tolerated, not obsessed over.
+- Living beside a permanently active volcano for nine or ten generations produces a particular relationship to catastrophe: ambient rather than acute. Erebus could, in principle, end the city. It has not. Residents have made a kind of peace with a threat that never fully materializes, and that peace shapes how Fort McMurdo thinks about risk more broadly — present, tolerated, not obsessed over.
 - Formal religious observance is thin compared to more contemplative cities; Ice-Cold Buddhism has a presence but not the pilgrimage-level devotion it holds at Dome Fuji or Kunlun. Fort McMurdo's closest thing to a shared philosophy is secular and practical: the work is the meaning.
 
 ---

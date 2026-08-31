@@ -40,7 +40,7 @@
 
 **3rd-order effect:** that gives the renaming real emotional weight beyond ordinary worldbuilding housekeeping. It isn't a city continuing its own tradition of meaningful self-naming — it's a city finally receiving something it was diplomatically denied at the moment of its founding, when a name got attached to it without anyone who actually lived there being asked. Fittingly, the chosen name itself — "newly rising/emerging" — names that exact transition.
 
-**4th-order effect:** this gives the Sinheung name a different kind of weight than an ordinary city-naming decision — not continuing an established pattern, but closing a 130-year-old gap. The name carries the weight of being the city's first real act of self-definition, not its second, and any future writing touching this city's own self-image should treat the name itself as meaningful precisely because of how long it took to arrive.
+**4th-order effect:** this gives the Sinheung name a different kind of weight than an ordinary city-naming decision — not continuing an established pattern, but closing a gap roughly two and a half centuries old. The name carries the weight of being the city's first real act of self-definition, not its second, and any future writing touching this city's own self-image should treat the name itself as meaningful precisely because of how long it took to arrive.
 
 ---
 

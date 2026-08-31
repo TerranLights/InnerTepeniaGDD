@@ -80,7 +80,7 @@
 - Austin, Texas [SECONDARY]
 - Yekaterinburg, Russia [SECONDARY]
 
-##### Sinheung [[ex-Sinheung]]
+##### Sinheung
 - Daegu, South Korea [PRIMARY]
 - Córdoba, Argentina [SECONDARY]
 - Volgograd, Russia [SECONDARY]

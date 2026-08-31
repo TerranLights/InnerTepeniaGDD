@@ -84,6 +84,6 @@ can tell which technique transfers to an ordinary isolated city.
 **Frame: pre-unification, Orbital Era, pre-war.** Three legally separate cities. *(The post-unification
 single-city pass remains a separate REQUESTED document.)*
 
-**Reserved, and not to be foreclosed:** Sinheung's final in-universe name · the unified city's name · whether
-"Alternative Culture" belongs to Shirayuki alone or the whole cluster · the disposal-of-the-dead mechanism ·
-all proper names of people.
+**Reserved, and not to be foreclosed:** the unified city's name · whether "Alternative Culture" belongs to
+Shirayuki alone or the whole cluster · the disposal-of-the-dead mechanism · all proper names of people.
+*(Updated 2026-08-30: **Sinheung's name is now official and is no longer reserved.**)*

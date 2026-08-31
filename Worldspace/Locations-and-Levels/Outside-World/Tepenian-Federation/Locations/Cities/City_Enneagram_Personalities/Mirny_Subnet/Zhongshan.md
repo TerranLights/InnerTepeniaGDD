@@ -45,7 +45,7 @@ historically-earned instinct to keep what matters unbroadcast.
 
 ## Harmonic Group: Competency
 
-Zhongshan handles real hardship — six months of polar dark, genuine isolation, a population with no functioning
+Zhongshan handles real hardship — a two-month polar dark, genuine isolation, a population with no functioning
 supply chain back to anywhere — without visible strain or a hardship reframed into meaning. The whole "chaos
 that is actually structure" pattern is, at root, a description of a system managing its own internal complexity
 calmly and effectively, without anyone needing to step in or make a fuss. The city's own political character

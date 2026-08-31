@@ -47,7 +47,7 @@ This city sits in the Larsemann Hills, a small ice-free oasis on the Ingrid Chri
 
 ## 4. Seasonal Rhythms
 
-The oasis microclimate moderates conditions somewhat compared to the surrounding ice sheet, and the six-month dark/six-month light cycle sets the practical calendar — fabrication runs and shipments scheduled around it, the same as everywhere else in the cluster. But this city's deeper rhythm was never really about the seasons. It measures itself by output on a schedule that doesn't slow down for the dark the way Zhongshan's culture deliberately does next door.
+The oasis microclimate moderates conditions somewhat compared to the surrounding ice sheet, and the ~60-day polar night and ~60-day midnight sun set the practical calendar — fabrication runs and shipments scheduled around it, the same as everywhere else in the cluster. But this city's deeper rhythm was never really about the seasons. It measures itself by output on a schedule that doesn't slow down for the dark the way Zhongshan's culture deliberately does next door.
 
 ---
 
@@ -104,7 +104,7 @@ The result is a city that builds assertively on top of what it inherited rather 
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — Korean food, genuinely and demographically Primary, adapted to the same six-month-dark, no-supply-chain isolation every Larsemann Hills city faces: fermentation and preservation traditions — kimchi and its many regional and household variations chief among them — that were already built for exactly this kind of scarcity, stretched further by 130 years of Antarctic circumstance. Communal, shared-dish eating fits the same output-and-contribution ethos as everything else here — a meal where everyone's dish is visibly part of the spread works the same logic as a fabrication floor: individual contribution, collectively assessed.
+- **a. Human cuisine** — Korean food, genuinely and demographically Primary, adapted to the same no-supply-chain isolation every Larsemann Hills city faces: fermentation and preservation traditions — kimchi and its many regional and household variations chief among them — that were already built for exactly this kind of scarcity, stretched further by roughly two and a half centuries of Antarctic circumstance. Communal, shared-dish eating fits the same output-and-contribution ethos as everything else here — a meal where everyone's dish is visibly part of the spread works the same logic as a fabrication floor: individual contribution, collectively assessed.
 - **b. Social context of eating** — Practical and social rather than ceremonial; unlike Zhongshan's long, ritualized meals, food here is fast to prepare communally and quick to share, fitting a culture with little patience for performance.
 - **c. Robot cuisine / siligel culture** — Substantial, reflecting a genuinely sizable population (rank 16th of ~34 pre-war); siligel preparation here leans practical and efficient rather than the connoisseurship Zhongshan applies to it — consistent with the city's broader output-over-ceremony instinct.
 

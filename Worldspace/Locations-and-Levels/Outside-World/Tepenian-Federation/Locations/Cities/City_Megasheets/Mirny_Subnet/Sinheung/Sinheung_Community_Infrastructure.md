@@ -9,7 +9,7 @@
 - **The Chamber Works** — the fabrication-synthesis chamber manufacturing facility itself, one of only two functioning sites in Tepenia; the city's single most consequential piece of infrastructure.
 - **The Sinheung Polytechnic** — the city's own university, smaller in scope than Shirayuki's, focused on materials, fabrication, and production.
 - **Production-Line Murals** — public art celebrating the actual labor the city performs, Sinheung's civic aesthetic answer to Zhongshan's spare ink painting.
-- **Fermentation Halls** — communal kimchi and preservation-craft spaces, adapted to the six-month-dark isolation every Larsemann Hills city faces.
+- **Fermentation Halls** — communal kimchi and preservation-craft spaces, adapted to the no-supply-chain isolation every Larsemann Hills city faces.
 - **The Hills Accord Grounds** — the site tied to the observance marking ongoing coexistence with Zhongshan and Shirayuki.
 
 ## Small offices for educational training

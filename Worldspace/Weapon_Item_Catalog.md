@@ -239,7 +239,7 @@ Flagged clearly as new proposals, not yet cross-referenced into `Damage_Types.md
 
 **Established 2026-08-16.** Everything above this section is grounded in one specific city's own local
 industry. These items instead come from what's common to *the whole country's* shared conditions — extreme
-cold and six-month dark/light cycles, a standardized national vehicle fleet, robot-human coexistence, and the
+cold and long polar dark/light cycles, a standardized national vehicle fleet, robot-human coexistence, and the
 shared exile history most of the population's own ancestry traces back to. A given item here could plausibly
 show up in the hands of a character from almost any city, unlike the "Genuinely New" section above, where each
 item is tied to one specific place.

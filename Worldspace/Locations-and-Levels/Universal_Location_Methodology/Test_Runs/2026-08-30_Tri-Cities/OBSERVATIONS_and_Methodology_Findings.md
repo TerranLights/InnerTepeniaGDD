@@ -401,8 +401,9 @@ answer differs.)*
    for a present-day pass, nil for this one.
 3. **Whether "Alternative Culture" belongs to Shirayuki alone or all three.** Canon flags this as deliberately
    open pending Zhongshan's and Sinheung's megasheets. *Instead:* **not decided here** — treated as RESERVED.
-4. **Sinheung's final in-universe name** and **the unified city's name** — both explicitly RESERVED. Working
-   designations used; nothing named.
+4. **The unified city's name** — explicitly RESERVED. Working designation used; nothing named.
+   *(Updated 2026-08-30: **Sinheung's name is official and no longer reserved.** It was listed here as
+   reserved alongside the unified city's name; only the latter still is.)*
 
 ---
 

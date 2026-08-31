@@ -32,7 +32,7 @@ China leads, unbroken from founding through present — the one city in Tepenia 
 
 ## What It Feels Like
 
-The quiet lands first — not silence, but a low ambient register distinct from anywhere else in Tepenia. Then the sense of walking into the middle of something already happening, a culture that isn't performing for visitors. Then, within a day, the realization that nobody has asked a single personal question. Architecturally, the city reads as three layers at once: utilitarian founding-era station structures at the core, aesthetically refining exile-era construction around them, and 130 years of outer-ring building in a mature idiom that integrates the Larsemann Hills' exposed bedrock rather than concealing it. Streets look chaotic to a newcomer but sit on a semi-gridlike order every resident navigates without thinking.
+The quiet lands first — not silence, but a low ambient register distinct from anywhere else in Tepenia. Then the sense of walking into the middle of something already happening, a culture that isn't performing for visitors. Then, within a day, the realization that nobody has asked a single personal question. Architecturally, the city reads as three layers at once: utilitarian founding-era station structures at the core, aesthetically refining exile-era construction around them, and roughly two and a half centuries of outer-ring building in a mature idiom that integrates the Larsemann Hills' exposed bedrock rather than concealing it. Streets look chaotic to a newcomer but sit on a semi-gridlike order every resident navigates without thinking.
 
 ---
 

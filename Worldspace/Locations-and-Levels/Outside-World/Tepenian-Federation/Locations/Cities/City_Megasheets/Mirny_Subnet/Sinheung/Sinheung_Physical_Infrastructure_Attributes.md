@@ -137,7 +137,7 @@ hard-won neighborly trust built from nothing.
 
 **Combining:** attribute #12 (the Sinheung Polytechnic, smaller in scope than Shirayuki's own Institute) +
 the existing Cross-Reference Synthesis's Finding 3 (the Sinheung rename was the city's first deliberate
-self-naming, arriving over 130 years after founding, in contrast to Shirayuki's own name being resolved
+self-naming, arriving roughly two and a half centuries after founding, in contrast to Shirayuki's own name being resolved
 within a single day).
 
 **2nd-order effect:** the Polytechnic's own comparatively modest, practical scope relative to Shirayuki's

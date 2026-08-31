@@ -94,7 +94,7 @@ has ever needed.*
 | Cooperation, Morality & Emergent Social Convention | **Yes** | "A crew that can't trust its weakest link fails together" is already a real, specific civic ethic; see §2. |
 | City/Locality as the Seat of Identity | **Yes** | Comfort holding real decision-making weight that ripples nationally, without ever needing external validation, tied specifically to the city's own historical capital status; see §3. |
 | Generational Identity (Gen/Mark) | **No (null), with a confirmed reason** | Fabrication chambers were explicitly considered and rejected here (Erebus hazard) — a real absence, not an unexamined gap. Legitimate Honesty Check outcome. |
-| Religion and Belief | **Yes** | "The work is the meaning," and five generations of ambient-not-acute relationship to Erebus, are already established and specific; see §5 and Cross-Reference Synthesis. |
+| Religion and Belief | **Yes** | "The work is the meaning," and nine or ten generations of ambient-not-acute relationship to Erebus, are already established and specific; see §5 and Cross-Reference Synthesis. |
 | Consumption and Vice Culture | **Yes** | §10c already gives real local inflection; Glitch-Coolant is a genuine open slot this pass derives fresh; see §6. |
 | Sexuality | **Yes** | The city's own "trust expressed as workload, not conversation" hospitality logic gives a direct, well-grounded courtship signal; see §7. |
 | Vernacular Language *(Part IV worked example)* | **Yes** | §8's shift-time vocabulary and Erebus-as-idiom material are already established and rich; see §8. |
@@ -164,7 +164,7 @@ localize per city.*
 ### 5. Religion & Belief — Robot-Specific Local Practice
 
 - **[Directly-inherited, Deep]** §18's own secular ethic — "the work is the meaning" — is already established
-  and specific, alongside five generations of "ambient rather than acute" relationship to living beside a
+  and specific, alongside nine or ten generations of "ambient rather than acute" relationship to living beside a
   permanently active volcano. Confirmed, not invented. Erebus itself functions as a recurring, half-personified
   cultural presence rather than a devotional object — "watched, personified, never quite trusted" (§13),
   entering vernacular directly ("she's smoking today," §8) — closer to a constant civic co-resident than a

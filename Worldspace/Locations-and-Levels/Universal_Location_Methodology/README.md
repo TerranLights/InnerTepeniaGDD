@@ -24,16 +24,30 @@ This folder is that methodology. Those three assignments are honored rather than
 
 ## Status, honestly stated
 
-**This is a derivation, not a validated procedure.** The district methodology earned its rules across thirteen
-districts and roughly fifteen recorded failures; every discipline in it is attached to a specific pass that went
-wrong. **This file has none of that.** It is reasoned from the district methodology's structure, from the
-32-section city template, from the existing symbol systems, and from the real range of location types in this
-project — but it has not yet been run on anything.
+**PARTIALLY VALIDATED as of 2026-08-30 — one location, one complete run.** The district methodology earned its
+rules across thirteen districts and roughly fifteen recorded failures; every discipline in it is attached to a
+specific pass that went wrong. **This methodology now has one such pass, and it is a real one.**
 
-**Expect it to be wrong in ways that will only appear under use.** The plan is to pressure-test it against real
-Tepenian locations and revise. Anything below that survives contact should be marked as having survived, with
-the location it survived on named; anything that fails should be corrected here in the same commit, per the
-same standing rule the district runbook uses.
+> **Zhongshan, Run 3** *(`Test_Runs/2026-08-30_Zhongshan_Run3_Cold/`)* — a **cold** session, with all prior
+> conclusions about the location quarantined, took it through **all eleven phases, all sixteen gates, and the
+> Review Panel.** **Five gates fired; two produced findings the pass would not otherwise contain; one proved
+> structurally unrunnable in a cold pass; and the run passed `05` §6.1's falsifiable test with ten findings
+> absent from the location's existing material.**
+>
+> **Nineteen methodology findings came out of it (`M-0`…`M-19`, indexed in
+> `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`), and every one is implemented in these files.** The
+> largest: **the four-quadrant shape is a property of the admitted input set, not of the location** — two
+> passes on the same city produced opposite shapes purely from different input sets *(`02` §4.0)*.
+
+**Still unvalidated, and this is the honest gap: everything about a THIN location.** Zhongshan had all eight
+generators, deep attribute canon, and a canonical "only" — **it is a best case**, in the same way Run 1's
+three-city co-write was a best case. **The methodology has not been shown to run on a location that is
+starved of inputs, which is the commoner condition.**
+
+**Expect it to be wrong in ways that will still only appear under use.** Anything that survives contact should
+be marked as having survived, **with the location it survived on named** — and **added to
+`06_Worked_Example_Provenance.md` in the same commit**, so a later cold run on that location is not handed its
+own prior conclusions by the required reading.
 
 **What it is *not*:** it is not a replacement for the district methodology. Concordia's thirteen districts have
 a working, evidence-backed procedure and should keep using it. This exists for everywhere else, and for the

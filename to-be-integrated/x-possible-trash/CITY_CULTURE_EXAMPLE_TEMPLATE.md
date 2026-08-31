@@ -30,7 +30,7 @@
 
 ## 2. Founding Story
 
-The Sinian Federation was among the Upper Earth nations that persecuted robots and drove the War of Upper Earth. Zhongshan's founding population were Sinian defectors — Chinese and Sinian citizens who chose exile alongside robots rather than remain with a nation whose ideology they had rejected. This is a loaded origin, and the city has never stopped knowing it. They left their country. They did not leave their culture.
+The Sinian Federation was among the Upper Earth nations that persecuted robots and fought in the War of Upper Earth. *(Wording corrected 2026-08-30 — previously "drove"; no single nation caused that war.)* Zhongshan's founding population were Sinian defectors — Chinese and Sinian citizens who chose exile alongside robots rather than remain with a nation whose ideology they had rejected. This is a loaded origin, and the city has never stopped knowing it. They left their country. They did not leave their culture.
 
 The name *Zhongshan* — the courtesy name of Sun Yat-sen, the founding figure of modern China revered across historical political lines — was chosen deliberately. It signals cultural continuity and political independence in the same gesture: *we kept the name; we did not keep you.*
 
@@ -64,7 +64,7 @@ The return of light is observed but not celebrated loudly — consistent with th
 
 **Name/concept:** *Zhongshan Austere* — colloquially among outsiders, *the Quiet City*
 
-Zhongshan never lost its Chinese identity. What it did was refine it. One hundred and thirty years of Antarctic exile, lived alongside a Russian community with its own tradition of aestheticized endurance, produced something that is neither mainland Chinese nor recognizably Russian — it is Zhongshan. A culture that takes itself seriously, produces careful people, processes loss through art rather than suppression, and considers rushing to be, if not a moral failing, at least a form of bad taste.
+Zhongshan never lost its Chinese identity. What it did was refine it. Roughly two and a half centuries of Antarctic exile, lived alongside a Russian community with its own tradition of aestheticized endurance, produced something that is neither mainland Chinese nor recognizably Russian — it is Zhongshan. A culture that takes itself seriously, produces careful people, processes loss through art rather than suppression, and considers rushing to be, if not a moral failing, at least a form of bad taste.
 
 The city does not perform its culture for outsiders. It does not advertise itself. It is simply what it is, and visitors feel the weight of that immediately — not because anyone says anything, but because the coherence of the culture makes your outsider status obvious from the inside. Both the Chinese and Russian cultural influences are quiet, not hostile, but fundamentally insular. You are welcome here. You are also, always, a guest in someone else's city.
 
@@ -108,7 +108,7 @@ People do not end up in Zhongshan by accident. It is not a transit hub; it is no
 
 - **a. Primary language(s):** Mandarin (Sinian Standard), heavily maintained across generations. Russian is a widespread secondary language — not official, but deeply embedded. Most long-term residents speak both.
 
-- **b. Linguistic character:** Zhongshan Mandarin is notably deliberate in its pacing. Fast speech is considered slightly careless; a measured quality in delivery is the cultural norm. The dialect draws on both Mandarin and Russian, with neither dominating at the structural level: grammar is Mandarin, but emotional vocabulary borrows from Russian freely and without apology. Russian has words for interior states that Mandarin doesn't map cleanly onto; Mandarin has registers of formality and relational nuance that Russian lacks. After five generations of coexistence, speakers borrow across rather than translate. No one explains this; it is simply how people talk.
+- **b. Linguistic character:** Zhongshan Mandarin is notably deliberate in its pacing. Fast speech is considered slightly careless; a measured quality in delivery is the cultural norm. The dialect draws on both Mandarin and Russian, with neither dominating at the structural level: grammar is Mandarin, but emotional vocabulary borrows from Russian freely and without apology. Russian has words for interior states that Mandarin doesn't map cleanly onto; Mandarin has registers of formality and relational nuance that Russian lacks. After nine or ten generations of coexistence, speakers borrow across rather than translate. No one explains this; it is simply how people talk.
 
 - **c. Slang / dialect markers:** A person from Zhongshan is recognizable by their pacing (unhurried, considered), by Russian emotional loanwords woven into Mandarin sentences, and by a particular habit of understatement when describing anything significant. Someone from Zhongshan who says a situation is *complicated* means it is a disaster. Someone who says it is *interesting* means it has their full attention. The more significant something is, the quieter the language around it becomes.
 
@@ -118,7 +118,7 @@ People do not end up in Zhongshan by accident. It is not a transit hub; it is no
 
 ## 9. Architecture
 
-Zhongshan's built environment is layered in a way locals read immediately and outsiders rarely notice. The original station structures — utilitarian Chinese construction from the founding period — form the city's core. First-generation exile architecture built around them: still functional, but beginning to show the aesthetic refinement that characterizes Zhongshan's mature style. The outer rings of the city are the product of 130 years of building in what has become a recognizable Zhongshan idiom: austere, proportional, built to last, with aesthetic care concentrated in details — a doorway, a courtyard threshold, the way a window frames a view of the hills.
+Zhongshan's built environment is layered in a way locals read immediately and outsiders rarely notice. The original station structures — utilitarian Chinese construction from the founding period — form the city's core. First-generation exile architecture built around them: still functional, but beginning to show the aesthetic refinement that characterizes Zhongshan's mature style. The outer rings of the city are the product of roughly two and a half centuries of building in what has become a recognizable Zhongshan idiom: austere, proportional, built to last, with aesthetic care concentrated in details — a doorway, a courtyard threshold, the way a window frames a view of the hills.
 
 Song Dynasty aesthetic principles (sparse, proportional, functional beauty over ornamentation) survived the translation to Antarctic conditions better than more decorative Chinese architectural traditions would have. Russian influence shows in structural robustness, material preference for things that look like they intend to outlast you, and a particular approach to collective interior space — broad shared rooms designed for long gatherings rather than efficient transit.
 
@@ -128,7 +128,7 @@ The Larsemann Hills bedrock is visible throughout the city. Rather than conceali
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** The dominant culinary tradition is a genuine fusion of Northeast Chinese (Dongbei) cooking and Russian cold-weather food — not a deliberate synthesis but an evolved one. Dongbei cuisine was already built for hard winters: hearty, reliant on preservation, rich with fermented and pickled ingredients. Russian food brought its own preservation traditions, dense starches, and long-simmered preparations. After 130 years, the boundary between them has largely dissolved.
+- **a. Human cuisine:** The dominant culinary tradition is a genuine fusion of Northeast Chinese (Dongbei) cooking and Russian cold-weather food — not a deliberate synthesis but an evolved one. Dongbei cuisine was already built for hard winters: hearty, reliant on preservation, rich with fermented and pickled ingredients. Russian food brought its own preservation traditions, dense starches, and long-simmered preparations. After roughly two and a half centuries, the boundary between them has largely dissolved.
 
   The central food object of Zhongshan is the dumpling — and the city's dumpling culture is specific enough that outsiders notice it immediately. Chinese jiaozi and Russian pelmeni arrived as distinct traditions; what exists now is neither, but a Zhongshan dumpling with neighborhood variations across the city. Arguments about the correct dumpling are a local cultural institution. Nobody agrees. Nobody is expected to.
 
@@ -150,7 +150,7 @@ The single most reliable marker of Zhongshan origin is clothing maintenance. The
 
 ## 12. Music
 
-Zhongshan's musical tradition is the most serious in Tepenia — not the most popular, but the most considered. A genuine Sino-Russian classical fusion school developed over 130 years into its own established compositional tradition: Chinese classical instruments (erhu, pipa, guqin) in dialogue with Russian classical structures; the result tends toward the contemplative, structurally dense, and unhurried. A Zhongshan composition takes time to understand. This is considered appropriate.
+Zhongshan's musical tradition is the most serious in Tepenia — not the most popular, but the most considered. A genuine Sino-Russian classical fusion school developed over roughly two and a half centuries into its own established compositional tradition: Chinese classical instruments (erhu, pipa, guqin) in dialogue with Russian classical structures; the result tends toward the contemplative, structurally dense, and unhurried. A Zhongshan composition takes time to understand. This is considered appropriate.
 
 The city is associated across Tepenia with this classical tradition. Other cities produce music for dancing, for working, for gathering. Zhongshan produces music for listening. These are understood as different activities.
 
@@ -201,7 +201,7 @@ The counterculture's relationship to the musical mainstream is direct and delibe
 
 Zhongshan's founding population were people who chose robots over their nation. Their descendants know this, and it shapes the baseline. Human-robot solidarity is not an ideology in Zhongshan — it is a founding fact, absorbed into the culture at a level below conscious argument. The question of whether humans and robots are equals is not a political question here; it is a historical one, and the answer was settled at the city's founding.
 
-After 130 years, the raw intensity of that defection has faded into cultural background. Nobody makes speeches about it. The integration simply is. Human and robot residents participate in the same slow social culture, observe the same rituals of tea and samovar, maintain the same non-prying norms. A robot resident of Zhongshan is Zhongshan before they are a robot.
+After roughly two and a half centuries, the raw intensity of that defection has faded into cultural background. Nobody makes speeches about it. The integration simply is. Human and robot residents participate in the same slow social culture, observe the same rituals of tea and samovar, maintain the same non-prying norms. A robot resident of Zhongshan is Zhongshan before they are a robot.
 
 ---
 

@@ -17,10 +17,25 @@
 `Full_Extrapolation.md`, a phase, a QA gate, a Review Panel run, or a methodology change — MUST begin by reading
 the applicable runbook above, in full, before touching anything else.**
 
-**This is not a suggestion and not a "consult if unsure."** The runbook is the operational procedure: eight
-ordered steps, eleven QA gates (0-10), the Review Panel with its five dispositions, and the standing honesty
-problems. It exists so the method never has to be reconstructed from the phase files, the substrate folder, or
-the index's historical round-notes — and reconstructing it from those is how the errors below happened.
+**This is not a suggestion and not a "consult if unsure."** The runbook is the operational procedure, and it
+exists so the method never has to be reconstructed from the phase files, the substrate folder, or the index's
+historical round-notes — reconstructing it from those is how the errors below happened.
+
+**The two runbooks have different shapes. Do not carry one's structure onto the other:**
+
+| | **District runbook** | **Universal Location Methodology** |
+|---|---|---|
+| Ordered steps | **eight** | **twelve — Step −1 through Step 10** |
+| QA gates | **eleven, 0–10** | **sixteen — 0–11 plus C · F · I · P · G** |
+| Phases | 8 | **11** |
+| Review Panel dispositions | **five** | **six** — `accepted · noted · rejected · refereed · unmet · declined` *(the `unmet`/`declined` split added 2026-08-30; see `00f`)* |
+| Ends with | Record | **Step 10 — the READINESS CHECK, run before declaring a pass complete or handing off** |
+
+> **⚠ Two standing steps in the Universal methodology are easy to skip and are not optional:**
+> **Step 9.5 — the recording law** *(log snags, blockages, dead ends, killed findings and self-corrections, not
+> just successes)* and **Step 10 — the readiness check** *(verify, do not assert; on its first use it caught the
+> largest hole in the anti-contamination protocol)*. **Both were added at the developer's direction,
+> 2026-08-30.**
 
 **Do not skip it because the task looks small.** Every failure recorded in this methodology was found during
 work that looked small: a completion claim that was false for two weeks, a general-population error still live
@@ -77,11 +92,3 @@ Rules:
 - If graphify-out/wiki/index.md exists, use it for broad navigation instead of raw source browsing.
 - Read graphify-out/GRAPH_REPORT.md only for broad architecture review or when query/path/explain do not surface enough context.
 - After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).
-
-**Known limitation, measured 2026-08-29 — do not over-trust the graph for prose.** The two largest book-
-extraction files in the repo are indexed at roughly **1/45th** the node density of a comparable district file
-(`Character_Development_Methodology_-_DRAFT_Ideas.md`: 3,459 lines, **1 node**). A query for material that is
-demonstrably present has returned nothing relevant, and raising `--budget` did not help. **A full semantic
-rebuild is on the Weekly To-Do.** Until it lands: **grep the consolidated DRAFT files directly**, and check
-`Reference/Real-World/Book_Extraction_Index.md` before concluding a book has not been extracted — that index
-exists because a book was assessed as unmined twice when it was not.

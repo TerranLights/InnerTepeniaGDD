@@ -73,6 +73,51 @@ thing named and cross-referenced so it enters canon cleanly?*
 differentiation instrument in Part III.** **Check the most recently written sibling first** — collisions cluster
 there, because whatever was most recently solved is the nearest available shape and it gets reached for. **State
 the contrast inline, in the finding itself**, not in a footnote.
+> ### ⚠ Gate 6 is UNRUNNABLE in a cold pass, by construction — a scheduling problem, not a failure
+> **Added 2026-08-30.** Gate 6 needs the siblings' completed material and the differentiation instrument. **In
+> a cold or anti-contamination pass that material is precisely what is withheld.** **The anti-convergence gate
+> and the circularity rule are in direct conflict, and one of them must lose.**
+>
+> **Resolution: Gate 6 runs LATE — at Step 7, when the withheld files are opened — not never.** Until then run
+> **all four** Part III.4 substitutes and say in the pass that you did.
+>
+> **And an encouraging result worth recording, from a real test case.** When Gate 6 finally ran on one cold
+> pass it found two collisions with the location's own existing canon — **and Gate 4's swap test had already
+> independently flagged one of them as the pass's weakest finding and demoted it, while that canon was still
+> invisible.** **The blind instrument caught what the sighted one later confirmed.** **Gate 4 is therefore
+> partial cover for a deferred Gate 6 and should be run deliberately as such** — pick the swap partner most
+> likely to expose a shared answer. *(The specific collisions are archived in
+> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+>
+> ### ⚠⚠ Before recording ANY mismatch found at Step 7 as wrong or killed, run the both-are-true test (`02` §5.3)
+> **Added 2026-08-31, at the developer's direct instruction after a first draft got this wrong on a real case.**
+> A deferred Gate 6 does not only find duplicates — opening withheld material at Step 7 routinely surfaces
+> outright **contradictions** between a cold pass's own findings and established canon. **The reflex is to
+> declare the cold finding killed. That reflex is the error, not the contradiction.**
+>
+> **`02` §5.3's both-are-true test was written for generator-vs-generator conflict, but nothing previously said
+> it also governs pass-vs-canon conflict at Step 7 — and it should, for exactly the same reason.** *"Do not ask
+> which reading is right. Ask what single property would produce both, then check whether the two claims are
+> about different objects or at different scales."* A contradiction between a cold pass's claim and an opened
+> culture file is very often not a wrongness but a **scale mismatch** — public vs. private, mainstream vs.
+> counterculture, an older generation vs. a newer one, a legal/procedural fact vs. a narrative/emotional one.
+> **The candidate scales to check, in order, before concluding a kill:**
+> 1. Public-facing / mainstream vs. private / minority-community.
+> 2. The dominant culture vs. its own named counterculture.
+> 3. An earlier generation vs. a later one (heritage drift, memory loss, or accumulation over time).
+> 4. A legal/procedural/structural fact vs. a narrative/emotional/mythic one describing the same event.
+>
+> **A flat kill discards a finding entirely. Applying the test instead looks for the reconciling property —
+> very often already written down in the same source that produced the contradiction — before concluding the
+> cold pass's claim was simply wrong.** A real worked case, archived in
+> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`, found the property relocated a demographic-diversity
+> finding from a public/general scale (where existing canon contradicted it) to a private/generational scale
+> (where it was not contradicted, and became a sharper finding than either the original claim or the killed
+> version).
+>
+> **This does not mean every mismatch reconciles.** Some genuinely are wrong at every scale checked — **the
+> test is a required check before declaring a kill, not a guarantee against one.** `00f`'s `refereed`
+> disposition is the Review Panel's version of the identical instinct and should be read alongside this note.
 
 **Gate 7 — Research accounting.** Every researched pick recorded as **changed a finding · ornamented one ·
 deliberately withheld · genuinely omitted.** *Withheld is not unused* — record what it would have given and what
@@ -89,6 +134,19 @@ mechanism decides **against**, whether that outcome is as durable, and **whether
 > has an extremely high hit rate against inherited material and has barely been tested against material written
 > under a methodology that knows about it. **A pass reporting Gate 9 firing only on inherited material has
 > probably not run the second pass.**
+>
+> ### ⭐ First recorded second-pass fire — 2026-08-30
+> **The second pass works, and here is the shape it produced on a real test case, because the shape is
+> reusable.** A membership threshold was written entirely from the favorable side, in a pass whose author had
+> read this gate that morning. **The gate's question — *what happens to someone it decides against, and is
+> there a route back?* — had no answer, and finding one produced the pass's second-strongest finding.**
+> *(The specific worked case is archived in `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+>
+> > **The transferable pattern: a membership mechanism with no author has no appeal process either**, and
+> > **that is a textbook `00d` shadow — unintended, unnoticed, discoverable, and working with everyone acting
+> > in good faith.** **Run Gate 9 against every membership, promotion or admission mechanism a pass writes.**
+> > The favorable path is the one that gets written; the gate exists because it is also the only one that
+> > feels like it needs writing.
 
 **Gate 10 — The Review Panel.** `00f_Review_Panel.md`, **carried unchanged** — it is explicitly fit for this
 methodology and only the casting changes. Six Flat Archetypes, plus the **Passer-Through** and **Neighbor**
@@ -108,6 +166,30 @@ and **whose behavior am I actually describing?**
 > **This is the weakest gate on the list and it should be reported as such.** A self-audit runs it with the same
 > faculty that produced the error. **Record what it flagged *and* what it cleared**, so a later external catch
 > can be checked against whether this gate looked at it.
+>
+> ### ⭐ FIRST RECORDED FIRE — 2026-08-30, on a real test case, and it was found by ARITHMETIC
+>
+> **This gate had never caught anything before this.** It caught two things at once, and the method is worth
+> copying exactly, because it required no judgement at all:
+>
+> **Divide the population by the area. That is the whole technique.**
+>
+> A cold pass had spent nine phases describing a scattered, low-density settlement, complete with real-world
+> comparanda scaled to a small population — and the arithmetic showed a population an order of magnitude denser
+> than the pass's own prose implied, comparable to some of the densest real cities on Earth, with comparanda
+> that had been asserted of a population far smaller than the one actually being described: the exact form of
+> the scale question above. **Both corrections improved the material** — the pass's own texture findings
+> survived the correction and came out sharper for it, not weaker. *(The full worked figures — the actual
+> density computed, the real-world comparanda used, and exactly what got corrected — are archived in
+> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+>
+> > **The transferable rule: before trusting any texture claim, price it against a density figure.** Population
+> > over extent is one division, it needs no interpretation, and **it is the only part of this gate that does
+> > not run on the same faculty that produced the error.** **Run it every time, early.**
+> >
+> > *(Note the redundancy that worked: the same pass's own Phase 0 had already caught the same problem, by
+> > declaring a divergence between its population band and its extent band. **Two different instruments, two
+> > different stages, same catch.** Declaring both bands — `01` §2 — is the cheaper of the two.)*
 
 ---
 
@@ -119,9 +201,36 @@ These have no district equivalent because the district set had no type, band, fr
 
 **Was the four-question canon check (`00_RUNBOOK.md` §E) actually run, against all three tiers?**
 
-- **Universe repo opened deliberately?** It is outside this repo and **invisible to a repo-local search** — a
-  grep-based check will return "not found" confidently and wrongly.
+- **⚠ Was every search that produced a NEGATIVE result actually run across all three tiers — and can you name
+  the search paths?** *(Strengthened 2026-08-30. The old wording asked only whether the universe repo was
+  "opened deliberately," which a pass can answer yes to while every one of its actual sweeps stayed local.)*
+  > **The measured case.** A city underwent **six** escalating integrity re-check passes, the sixth recorded as
+  > *"genuinely clean, the first fully clean pass in this city's re-check history,"* having tried *"fresh grep
+  > angles… **repo-wide**."* **Meanwhile the universe repo still listed the city's retired placeholder name as
+  > a current city, and pointed at a directory path that had not existed since the rename.**
+  >
+  > **"Repo-wide" sounds exhaustive and is not.** The universe repo is not in the repo. **Six genuinely
+  > rigorous passes each searched a space that structurally could not contain the remaining bugs, and each
+  > returned a clean result that was true of the space searched and false of the world.**
+  >
+  > **So: a grep that never left this repo is not evidence about canon. It is evidence about one directory.**
+  > **Name the paths, or the negative result does not count.**
 - **Project canon checked against the source, not against the last pass that cited it?**
+- **⚠ SHARED CONSTANTS — check at the SOURCE, never at the neighbors.** *(Added 2026-08-30, from a measured
+  case: a wrong era length sat in **20 files across 8 locations**, including the city-culture template itself,
+  and had been used as a causal premise in all of them.)*
+  > **Does this pass use a figure that also appears in other locations' files — a duration, an era length, a
+  > generation count, a population, a distance?** **If so, verify it against the timeline or spec that owns it.**
+  >
+  > **A shared constant is invisible to per-file checking by construction.** Every file agrees with every other
+  > file, so any consistency check *between* them passes — and **agreement among siblings then reads as
+  > corroboration**, so the error actively defends itself. **Gate 0 checks a file against its own claims;
+  > this gate checks a claim against canon; neither one asks whether twenty files are wrong together.**
+  >
+  > **And when the corrected figure was carrying an argument, rebuild the argument — do not just renumber.**
+  > In the measured case a cuisine finding was justified by *"feeding itself through a six-month polar night"*;
+  > the real figure was ~60 days, and swapping the number in would have left a weak claim. **The actual
+  > constraint — nothing grows on that continent in any season — was both true and stronger.**
 - **Any thin-looking canon file checked for being a redirect stub** before concluding the canon is thin?
 - **Rank order respected** where sources disagreed, with the contradiction stated rather than silently resolved?
 - **Anything binding beyond this location** routed to RESERVED instead of decided here?
@@ -162,6 +271,20 @@ Two failures, in opposite directions, and both are common:
 classed *originated* goes to Gate 6.** Anything that cannot be classed is a flag — usually it means the parent's
 position on it is genuinely unwritten, which belongs in the provisional-assumptions list rather than being
 silently decided here.
+
+> ### ⭐ The count is the diagnostic — and this gate correctly predicted its own failure mode, on a real case
+> **Added 2026-08-30.** `01` §5.1 warns that **Inflected is the workhorse and is systematically under-used**,
+> and that a pass skipping it *"is working harder for a worse result."*
+>
+> **A real cold pass produced a lopsided ratio — several Originated elements against exactly one Inflected
+> one.** **That ratio is the tell, and it is countable — so make it part of the gate rather than a matter of
+> judgement.** *(The specific counts and the recurring miss they revealed — a purely local holiday invented
+> without ever checking what the location does with a national observance — are archived in
+> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+>
+> **So: count the classes. If Originated outnumbers Inflected by more than about 3:1, stop and re-run the
+> `01` §5.1 order of attempts** — *what does the parent determine → what does it supply that this place
+> inflects → who arrived carrying one → is the place already doing it somewhere → only then invent.*
 
 ## Gate P — Parent reconciliation
 
@@ -287,9 +410,25 @@ sole polity, a one-off megastructure.
   mis-readings that flattered the pass produced a rule to re-check in the flattering direction — and then a
   re-scan ran *against* the pass and was also wrong. **The direction was never the real problem; an unverified
   instrument was.** Re-check in both directions and verify the tool before trusting either.
-- **The gates have never caught a plausibility failure, and the developer has caught seven.** Every gate checks
-  something inside the project against something else inside the project. **The errors that got through were all
-  coherent, sourced, differentiated, and wrong about how people behave.**
+- **~~The gates have never caught a plausibility failure~~ — UPDATED 2026-08-30.** Every gate checks something
+  inside the project against something else inside the project, and **the seven errors the developer caught
+  were all coherent, sourced, differentiated, and wrong about how people behave.** **Gate 11 has now caught one
+  itself**, on a real test case — an order-of-magnitude scale error, found by dividing population by area. **The lesson
+  is narrower than "the gate works": the part that fired was the part that was arithmetic.** The interpretive
+  half of Gate 11 caught nothing, as before. **Prefer a number to a judgement wherever the gate offers a
+  choice.**
+
+- **⭐ A COLD READ IS A CANON-AUDIT INSTRUMENT, and it is the cheapest one available.** *(Added 2026-08-30.)*
+  One cold pass surfaced **four live canon errors** that had survived repeated review: a nation wrongly
+  credited with causing a war *(in cross-project canon, binding five projects)*; a city name recorded as
+  undecided six weeks after it was settled; a polar night stated as **six months** where the location's own
+  spec says **~60 days**, used as the premise for four separate cultural findings; and an exile duration of
+  **130 years** where the timeline gives **~250**.
+  > **Why a cold reader finds these and a continuous one does not: a familiar canon line is *recognized*
+  > rather than parsed.** A claim that has quietly hardened from proposal into fact is visible only to someone
+  > meeting it for the first time. **None of the four was subtle. All four were in plain text in files that had
+  > been read many times.**
+  > **So schedule cold reads for canon maintenance, not only for methodology testing.**
 - **A perfect prediction record from a self-grader is house style, not evidence.** The predictions were written,
   the locations chosen, the passes run and the results graded by the same person. **The only prediction that
   ever failed did so on a countable fact; every survivor is interpretive.** Two things restore it as a test:

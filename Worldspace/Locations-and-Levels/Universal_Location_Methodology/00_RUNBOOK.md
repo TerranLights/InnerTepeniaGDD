@@ -8,9 +8,37 @@ vessel, ruin, natural feature, network region. **Concordia's thirteen districts 
 evidence-backed procedure** at `../Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md` and should keep
 using it. This is for everywhere else.
 
-**Status: unvalidated.** Every rule in the district runbook is attached to a specific pass that went wrong.
-**Nothing here is.** See the README's status note, and treat the first several real runs as tests of the
-instrument as much as of the location.
+**Status: PARTIALLY VALIDATED, as of 2026-08-30.** Every rule in the district runbook is attached to a specific
+pass that went wrong. **Most rules here still are not** — but the position has improved and the improvement is
+specific:
+
+> **At least one location has now been taken through the complete instrument** — all eleven phases, all
+> sixteen gates, and the Review Panel, across multiple cold sessions with prior conclusions quarantined
+> *(logged test instances live under `Test_Runs/`; per-location detail belongs there, not here)*. **Several
+> gates fired, some producing findings the pass would not otherwise contain; at least one gate proved
+> structurally unrunnable in a cold pass; and at least one run passed `05` §6.1's falsifiable test.**
+>
+> **What is now evidence-backed:** the shape/input-set warning (`02` §4.0) · `cost-absent` (`02` §4) ·
+> the admissibility rules (`05` §6.1a–c) · Gate C's search-path requirement · Gate 6's cold-pass
+> unrunnability · Gate 11's density check · Gate 9's second pass · Gate I's class-count diagnostic ·
+> the own-eras upgrade (`01` §5.3a) · the `unmet`/`declined` split (`00f`).
+>
+> **⭐ Added 2026-08-31, Sinheung Run 5 — Gate 6 has now demonstrated a second mode, and it is the more
+> important one.** Every prior Gate 6 fire found *collisions* (duplicate institutions needing differentiation).
+> Sinheung Run 5 found **convergence**: a cold pass built entirely from Tier-1 attribute generators
+> independently reproduced the withheld culture sheet's own central finding, including its sharpest specific
+> claim (the Zhongshan-organic-vs-Sinheung-allocated distinction), stated almost word-for-word, before that
+> file was ever opened. **This is the strongest evidence yet that the generator stack tracks something real
+> about this project's own founding-condition facts, not merely something plausible.** Full writeup:
+> `Test_Runs/2026-08-31_Sinheung_Run5_Cold/12_Step7_Gate6_Withheld_Comparison.md`, M-35.
+>
+> **What is still untested: everything about a THIN location.** Sinheung, like every location run through this
+> instrument so far, turned out to be a best case in some way (rich attribute canon, comparable in depth to
+> Zhongshan) — the "thin canon" assumption behind its own selection was itself found to be wrong (see Sinheung
+> Run 5's Frame declaration). **The next run should be chosen because it looks least likely to conform** — see
+> `04` Part IV on self-graded prediction records.
+
+**Treat the next several real runs as tests of the instrument as much as of the location.**
 
 ---
 
@@ -63,6 +91,21 @@ anyway makes a thin pass look researched.
 > **Could a person live an entire life here — and would that life be unlike a life in any comparable place?**
 
 If the honest answer is *"probably, I suppose,"* the pass is not finished regardless of what the gates say.
+
+> ### ⚠ Restated again, 2026-08-31, mid-Run-5 — because it needs to be heard again, not just cited
+>
+> **Developer instruction, verbatim, given directly during Sinheung's cold pass:**
+>
+> > *"Refining, fine-tuning, and perfecting this methodology is of absolute top-priority and importance to me.
+> > If it takes a month to get it right, then we spend a month testing and refining it."*
+>
+> **What this adds, beyond what LAW 0 already says above:** it is not only that speed is not rewarded — it is
+> that **there is no ceiling on how long this is allowed to take, and no session should treat a long runtime as
+> a signal that something has gone wrong or that it should wrap up.** A pass, a phase, or a single finding that
+> is still open after extensive work is not evidence of failure; stopping early to manufacture a sense of
+> completion is the actual failure. **A future session reading this: you do not need to do this "quickly." You
+> need to do it *right*.** If the honest, current state of the work is "still going," that is a legitimate and
+> expected state, not a problem to paper over.
 
 ---
 
@@ -338,7 +381,15 @@ how a place *works*, which is a framing that documents the favorable path and st
    result.**
 4. Read the **shape**; apply its matching question; **where the shape repeats a sibling, run the three-step rule
    and table the comparison on four axes including tense.**
+   > ⚠ **And read `02` §4.0 before trusting the shape at all. The shape is a property of the INPUT SET, not of
+   > the location** — demonstrated 2026-08-30, when two passes on the same city produced **opposite** shapes
+   > (`cost-dominant` vs `cost-absent`) purely because one admitted the location's known institutions and the
+   > other quarantined them. **Never report a shape without reporting the inputs that produced it**, and where
+   > two input sets exist, **run it twice — the disagreement is worth more than either reading.**
 5. Read each deficit's **address**, and **count the addresses.**
+6. **Divide population by extent.** *(One division; no interpretation.)* It sets the band, exposes a
+   population/extent divergence, and is **the cheapest plausibility check in the methodology** — `04` Gate 11's
+   only recorded catch came from it. **Do it here, not at QA.**
 
 **Do not research yet.** Researching before you know the deficit produces interesting material with nowhere to
 attach.
@@ -365,6 +416,25 @@ detail that does not follow.** **If the only argument for a detail is that it is
 it.**
 
 **3.6 Then run the Unrecognized Instrument** — never before Step 2 is finished.
+
+**⭐ 3.7 Log every search in this location's own research log, as you run it.** *(Standing developer
+instruction, 2026-08-30, Zhongshan Run 3.)* **One dedicated file per location** — for cities,
+`Cities/Research_Logs/[Location]_Research_Log.md`; other location types keep theirs with their own material.
+**Full convention in that folder's `README.md` and in `../Real-World_Basis_Extrapolation_Method.md` Step F.**
+
+**Record the exact search strings verbatim**, the sources actually used, a fact-by-fact table of *what came
+back → which finding it became*, what was **withheld** versus **omitted**, the **divergences from source**, and
+**⭐ the open threads** — sources surfaced but unread, questions not chased, and what each might yield.
+
+**Why it is in the procedure and not in a style guide:** a finished pass publishes conclusions and buries
+evidence. Without the log, the next session cannot re-check a claim against its source, cannot distinguish a
+researched fact from an assumed one, re-runs searches already run — and **loses every deliberately-unpursued
+thread, which is routinely the best material the research produced.** *(Run 3 left seven, including an
+unread Antarctic Treaty management plan governing three stations sharing one site — very likely the highest-value
+unread source for that city's Phase 5 and Phase 7.)*
+
+**It also survives quarantine:** a research log holds *attributes*, not conclusions, so per `05` §6.1 it stays
+**admissible input even to a later cold run on the same location** — which the pass it fed does not.
 
 # Step 4 — Write the phases
 
@@ -462,6 +532,108 @@ a gap to close.
    learned and on which location.** A methodology change that does not update the runbook has not been made —
    the next pass will follow the runbook, not the commit message.
 
+## 9.5 — THE RECORDING LAW: log everything that happened, not everything that worked
+
+**Developer instruction, 2026-08-30 (Run 3, Zhongshan), stated twice in one session. Binding on every pass, not
+only on test runs.** The shared log is
+**`Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`**, which carries the full statement.
+
+> **Record every finding — and "finding" does not mean "successful technique."** It means, in the developer's
+> own enumeration: **ways of achieving results, snags, problems, unintended blockages, etc., etc., etc.**
+
+**What that covers in practice:**
+
+- **Techniques that worked** — and *why* they worked, not merely that they did.
+- **Snags** — anything that slowed the pass, however trivial-seeming.
+- **Problems and unintended blockages** — a step that could not be run, and **what stopped it.**
+- **Contradictions between two instructions inside this methodology.** *(Run 3 found three.)*
+- **Dead ends**, and the exact point at which each died.
+- **Killed findings** — an attractive result destroyed by its own evidence. ***The most valuable entries in the
+  file.*** Run 1's best moment was a finding killed by its own arithmetic; Run 3's was the same.
+- **Self-corrections** — written as *what you believed · why it was wrong · what changed it.*
+- **Environmental and tooling obstacles** — a hook, a stale index, a missing file, a `CLAUDE.md` rule that
+  conflicts with a rule in here.
+- **Anything merely unclear**, even where the guess turned out right.
+
+**Three procedural rules, each already violated at least once:**
+
+1. **Write it when it happens.** Precision decays; a snag logged hours later has lost the file, the wording, and
+   the reason it mattered.
+2. **Log the failure even when you routed around it.** **Solving a problem privately is how a methodology stays
+   broken.**
+3. **Never compress a negative result into a positive one.** *"Checked the census, all fine"* destroys what
+   *"the parse read the wrong column and returned plausible numbers; only a printed row caught it"* preserves.
+
+**Number entries `M-n` continuously across all runs; never restart per run** — recurrence across runs is much
+stronger evidence than a single sighting, and only continuous numbering makes it visible.
+
+> **The location is the whetstone; the methodology is the deliverable.** **A pass that produces a beautiful
+> location and a thin observations log has failed at the thing it was for.**
+
+---
+
+# Step 10 — THE READINESS CHECK
+
+**Standing step, added 2026-08-30 at the developer's direction. Run it before declaring a pass complete and
+before handing off to another session.**
+
+> ## The governing principle: **VERIFY, DO NOT ASSERT.**
+>
+> ***"Everything is ready"* is a claim, and it requires evidence like any other.** The check exists because a
+> handoff feels finished long before it is, and because **the person best placed to declare readiness is the
+> one who can no longer see what they have absorbed.**
+>
+> **On its first use it caught the single largest hole in the anti-contamination protocol** — see below. **It
+> is not a formality.**
+
+## 10.1 Contamination surface — the half that has actually caught something
+
+**Run these against the NEXT pass's subject location, not this one's.**
+
+1. **⚠ Scan auto-loaded memory for the subject location.** *(The check that found M-21.)* Every hit must be
+   **attribute-only** — founding, dates, names, census, corrections, open questions — **or carry a
+   contamination banner.** **An entry stating the place's character, temperament, personality triple, or a
+   signature phrase is a live vector, and it is the only one no do-not-open list can intercept**, because
+   memory is *pushed* into a session rather than pulled by it. **Fix the entry or band it. Nothing else will.**
+2. **Update `06_Worked_Example_Provenance.md` with any worked examples this pass added to the methodology.**
+   An unmanifested example is invisible contamination for the next same-location run.
+3. **Confirm the quarantine list was built by RULE, not by recall** — `05` §6.1's content split applied section
+   by section. **A list assembled from memory is written by the one person who has already read everything.**
+4. **Open the header of every file on the admissible list and check its own cited sources.** A file that cites
+   a withheld document is downstream of it, whatever its filename says. **Seconds per file, and it would have
+   caught both of Run 3's contamination events.**
+5. **Confirm any corpus-wide retrieval layer is flagged as unusable** — a graph, an embedding index, a
+   full-text search cannot honor a quarantine, because quarantine is provenance and retrieval is content.
+
+## 10.2 Path and structure integrity
+
+6. **Every path named in the handoff exists** — admissible and withheld alike. A withheld path that has moved
+   is a quarantine hole.
+7. **The next run's output folder does NOT already exist.** It creates its own; a pre-seeded folder is a
+   contamination risk and a status lie.
+8. **The shared observations file sits OUTSIDE every quarantined folder**, or the next run cannot write to it
+   without breaking its own quarantine *(M-0)*.
+
+## 10.3 Record integrity
+
+9. **Run Gate 0 outward:** does every tracker's completion claim match what the files actually contain?
+   **List what the file contains, never a summary claim.**
+10. **Confirm findings were IMPLEMENTED, not merely recorded.** A finding logged in the observations file and
+    absent from the rule it should have changed has not been made — **the next pass follows the rules, not the
+    log.**
+11. **Check the handoff states what the next run CANNOT prove**, as well as what it can. A run whose limits are
+    undeclared will be over-read.
+
+## What it caught the first time it was run
+
+**Asked whether a handoff was ready, the honest response was to check rather than answer — and the check found
+that a memory entry recording an analytical *technique* had inlined its own per-city results**, including a
+withheld personality read and a quarantined axis phrase, verbatim, in the auto-loaded index. **Ten further
+entries carried conclusion vocabulary about the same cluster.**
+
+> **The declaration "everything is prepared" would have been wrong, and the cold run it authorized would have
+> produced a confident, coherent, contaminated result — precisely the failure the protocol exists to prevent.**
+
 ---
 
 # Where everything lives
@@ -475,6 +647,7 @@ a gap to close.
 | `03_The_Phase_Spine.md` | the eleven phases |
 | `04_QA_Gates_and_Differentiation.md` | gates 0–11 + C/F/I/P/G, and the differentiation instrument |
 | `05_The_Input_Contract.md` | **the boundary — PROVIDED / RESERVED / PRODUCED / REQUESTED, and the pre-flight checklist** |
+| **`06_Worked_Example_Provenance.md`** | ⚠ **CHECK THIS BEFORE THE MANDATORY READ.** Which rules in `00`–`05` and `00f` carry which location's answers as worked examples. **If your subject location is in the manifest, read those rules and skip their examples** — otherwise the required reading hands you your own prior conclusions. **And add your own examples to it in the same commit that adds them to a rule** |
 | `../Cultural_Synthesis_Techniques.md` | **the generative toolkit — sixteen techniques, already general-scope** |
 | `../Real-World_Basis_Extrapolation_Method.md` | the research method |
 | `../Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` | the panel, carried unchanged |

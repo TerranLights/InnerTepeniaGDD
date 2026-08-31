@@ -75,6 +75,13 @@ Stated once here rather than repeated eleven times.
    why.** Expect several per location; a location where every phase fires richly is a location someone has
    over-written. **But distinguish two nulls:** *covered in substance, absent in the expected form* is a finding;
    *absent and unexplained* is a hole. **The test is one question — does the pass say why the thing is missing?**
+   > **⚠ A phase-level null flag does not cover every claim inside that phase.** *(Added 2026-08-31, from a
+   > real case.)* A phase can be honestly marked "unresearched, null" for most of its content and still contain
+   > one un-flagged, ungrounded assertion — the coarse flag creates a false sense that everything in the phase
+   > was deferred, when in fact one specific claim was written anyway, without checking that phase's own
+   > mandatory canon target first (`03` §0.3). **When a phase is partially written and partially deferred, say
+   > which specific claims are grounded and which are not** — do not let a single phase-level null/covered tag
+   > stand in for a claim-by-claim account.
 5. **General-population discipline** (`00b`), **with the Band-1 inversion** from `01` §2.3.
 6. **Shadow proportion** (`00d`): the surface is true, the shadow is also true, and the shadow is a byproduct.
 7. **The player-facing test** (`Cultural_Synthesis_Techniques.md` §0b): push every finding until it has a
@@ -419,8 +426,12 @@ death?*
   is obligatory; a section is not.** Ask: who handles it · what is remembered, by whom, for how long *(distinguish
   the **record** from the **rite**)* · **who is not mourned properly, and why not** *(the most productive of
   these, and usually a shadow finding)* · and **is the absence itself the finding** — if so, say *why*, because
-  a place that outsources its dead for lack of room, for lack of anyone yet to bury, or because it would rather
-  not look, are three different places. **A thin invented rite is worse than an honest sentence.**
+  a place that outsources its dead for lack of room, for lack of anyone yet to bury, because it would rather
+  not look, **or because looking would mean confronting a specific, nameable civic failure — insufficient
+  output, an unmet promise, a broken founding value — are four different places, not three.** *(Fourth reason
+  added 2026-08-31, Sinheung Run 5: distinct from generic "rather not look" in that it ties to a specific named
+  civic value rather than an unspecified reluctance.)* **A thin invented rite is worse than an honest
+  sentence.**
 - **D.** **The Failure State of the Core Value.** What is this place's central promise; under what circumstance
   does it become impossible to keep; what grew up around that circumstance; **and does the culture ritualize the
   failure or refuse to?** *The refusal is often the stronger half.*
@@ -499,7 +510,7 @@ Read the composition material to know what to write *around*.
 
 **Components.** Cuisine — **all populations present**, and the non-human population's version is the most
 skipped item in this project's entire template · Music · Arts, craft and material culture · Dress and
-appearance · **Play, sport, humour, leisure** · **Language and speech markers** *(city template §8, absent from
+appearance · **Play, sports, humor, leisure** · **Language and speech markers** *(city template §8, absent from
 the district set entirely: accent, code-switching, slang, and what dialect reveals; and what marks someone as
 from here)*.
 
@@ -510,6 +521,22 @@ from here)*.
 - **C.** **General-population discipline, hardest here.** A place's professional performers are not its musical
   culture; a uniform is not its fashion. **This category has failed more often than any other in the district
   set.**
+  > ### ⚠ And it failed again in a 2026-08-30 test run — in a pass whose author had read `00b` that morning
+  > **Recorded because the recurrence is the point.** A pass offered, as a city's general music, a specific
+  > performance practice tied to one narrow physical circumstance — vivid, real, and not what most residents'
+  > daily musical life is like. **Gate 2 caught it; the author did not.** *(The full worked case is archived
+  > in `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+  >
+  > **Reading the discipline does not discharge the discipline.** The failure mode is not ignorance — it is
+  > that **the most vivid available material is almost always the narrow material**, and vividness is what a
+  > pass reaches for when it is writing the phase it thinks of as the fun one.
+  >
+  > **The corrected-answer shape to copy:** ask what the *general* condition of the place does to the category
+  > — density, isolation, scarcity, whatever the location's own spine already established — before reaching for
+  > the vivid minority practice. The narrow, vivid material then survives as **an explicitly-scoped minority
+  > practice on top of** the general answer, per `00b` step 3, never as a replacement for it.
+  >
+  > **Practical rule: write the general answer FIRST, before the interesting one exists to be reached for.**
 - **D.** **Name the axis.** Food across twelve districts runs admission · rank · position-in-a-process · ambient
   availability · unspoken repair · no cuisine at all · guesthood · duration · attention · inclusion-in-the-count
   · unpaid time. **Eleven answers, eleven axes, no repeats — which is why the row has never collided.**
@@ -547,6 +574,17 @@ constraint, or a shared exclusion?
 - **D.** **Dual-tag every finding:** an **inheritance** tag (directly inherited / adapted / genuinely emergent)
   and a **depth** tag (surface / deep). **Findings clustering entirely in "directly inherited" or entirely in
   "surface" mean the real work has not happened yet** — that is what the tags are for.
+  > **⚠ Not a target ratio — added 2026-08-31, developer clarification, Sinheung Run 5.** This diagnostic
+  > guards against a pass that clusters *entirely* in inherited/surface — i.e., one that never actually
+  > synthesized anything and is only restating canon under new headings. **It is not a signal to hedge or
+  > artificially balance against multiple "genuinely emergent, deep" findings landing in the same phase.**
+  > Developer, verbatim: *"the whole point of this methodology is to build out, extrapolate, and fully develop
+  > locations, places that feel genuinely 'lived in'... multiple 'emergent,' 'genuinely deep' findings and
+  > results is something that's welcome, because those are attributes and characteristics that will make a
+  > location feel real."* **A phase with several emergent/deep findings is a good result, not a ratio needing
+  > correction — flag a finding as weaker only when something specific about it (a failed swap test, a
+  > provisional-assumption dependency, an unresolved contradiction) actually warrants it, never to manufacture
+  > balance against the phase's other findings.**
 - **E.** **Swap test.** Would this survive unchanged if the location's name were swapped for its nearest
   comparable? If yes, it has not localized.
 
@@ -583,6 +621,12 @@ placeholders under the same naming rule).
 - **B.** Run the real-world research against the location's full pick list, **prioritizing the lower tiers** —
   top-tier picks get absorbed into a location's identity summary early and spent, while lower tiers sit
   unexamined and still hold unspent specificity.
+- **B2.** *(Added 2026-08-31.)* **Run `Cultural_Synthesis_Techniques.md`'s Technique — The Zodiac Lens**, a
+  second, independent source for this phase: all twelve zodiac signs run as non-binding interrogation prompts
+  against this location's own already-established character, each one asked what person/place/thing it would
+  take here, if anything — **never as an assignment, never referencing Concordia's own completed district
+  content.** Zero, one, or several results per sign are all legitimate; record nulls with reasons rather than
+  forcing a result to fill every sign.
 - **C.** Organize under the four headings; **name places and things specifically, leave people as roles.**
 - **D.** Check border-adjacency texture where the location abuts a neighbor whose character might bleed across
   — **a real but easy-to-overuse technique; do not force it.**

@@ -214,13 +214,27 @@ Declared separately from type and band because a settlement can be any of these 
 | **Living** | *(ordinary — no special question)* |
 | **Growing** | Who is arriving, what do they not know, and what is straining? |
 | **Declining** | Who leaves, who *cannot* leave, and what is being maintained by too few people? **The last-person question:** what is the first thing that will stop working, and does anyone know? |
-| **Dying** | Is the end acknowledged? A place that knows it is ending behaves entirely differently from one that does not, and **the pretence is usually the richer choice.** |
+| **Dying** | Is the end acknowledged? A place that knows it is ending behaves entirely differently from one that does not, and **the pretense is usually the richer choice.** |
 | **Dead / ruined** | See Band 0 above. |
 | **Never inhabited** | Why not? *Nobody has tried* and *everyone who tried failed* are different places. |
 | **Seasonal / rotational** | Which population is the subject, and what does the handover feel like? **The two populations may not like each other**, and that is standard rather than exceptional. |
 | **Transit-only** | Who maintains it, and do they count as living here? |
 | **Contested** | Whose account is this? *(See §1.2 — two passes may be correct.)* |
 | **Resettled** | What did the second population inherit and misread? |
+
+> **⚠ A population drop that is migration, not decline.** *(Added 2026-08-31, from a real case.)* Where a
+> setting tracks population across more than one snapshot (a census pair, a before/after), a later figure
+> lower than an earlier one is not automatically **Declining** — check first whether the difference is
+> **migration to a documented destination within the same setting's own future** (a new settlement tier, a
+> new region opened up, an out-migration wave with a known landing point), rather than loss with no clear
+> destination. **This is not the same status as Declining**: Declining's obligatory question is about who
+> *cannot* leave and what a shrinking population can no longer maintain; a location that lost people to a
+> known, documented destination is not straining under that same pressure. **Where this applies, the correct
+> status is still `Living`** (or whichever status the location's *present* condition actually reflects), with
+> the migration stated explicitly in prose — the taxonomy does not need, and should not invent, a dedicated
+> status value for every possible cause of population change; it needs the declaring pass to check the cause
+> before defaulting to Declining. **Any setting with more than one population snapshot for the same location
+> will hit this distinction on its first pass that declares status against both.**
 
 ---
 
@@ -330,6 +344,34 @@ one, it must say so and name the child findings that need revision. This is Gate
 1. **Its own earlier states.** A location with a history is its own sibling set across time. Differentiate the
    present frame against the founding frame and the crisis frame. **The strongest substitute, usually
    available, and the one to reach for first.** *(It is also Phase 5b's substitute — see `03`.)*
+   > ### ⭐ Upgraded 2026-08-30: this may not be a substitute at all
+   > **Run against three eras of one location in a real test case, it produced a sharper result than three
+   > neighboring locations would have — and the reason is structural rather than lucky.**
+   >
+   > **Three eras of one place differ on the chosen axis *by construction*:** they are the same location under
+   > different conditions, so everything except the axis is held constant. **Three neighboring locations differ
+   > on many axes at once**, and the comparison has to be disentangled before it says anything.
+   >
+   > *(A worked instance of this technique is archived in `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`,
+   > since it is specific to one location and this file must stay general.)*
+   >
+   > **So: run the own-eras set even when siblings ARE available.** Treat it as a first-class instrument, not
+   > a fallback — and note it is the only anti-convergence instrument that survives a cold pass intact, since
+   > `04` Gate 6 does not *(see that gate's note)*.
+   >
+   > ### ⚠ Check the axis against the Frame Declaration BEFORE committing to it
+   > **Added 2026-08-31, from a real case.** The technique wants three states — founding, crisis/middle, now.
+   > **A chosen axis's natural third state can sit outside the pass's own declared temporal frame** (`01` §4) —
+   > and where it does, the axis is a two-state axis in practice, not three, for any pass honoring its own
+   > frame boundary (a location straddling an event gets separate passes, per §4 rule 2, never one document
+   > hedged across it). **The more interesting an axis is — the more it tracks something that plausibly changes
+   > across a major era — the more likely its third state falls outside a pre/post-event frame.**
+   >
+   > **Before committing to an own-eras axis: ask whether its natural third state falls inside or outside this
+   > pass's own declared frame.** If outside, either (a) choose a different axis whose three states all sit
+   > inside the frame, or (b) accept and declare a two-state reading rather than silently reaching across the
+   > frame boundary to complete the third. **A two-state result, honestly declared as such, is not a failure of
+   > the technique — it is the technique correctly refusing to violate Gate F.**
 2. **The nearest analogous location at a different scale.** A unique station against the cities; a unique
    polity against its own subnets.
 3. **Real-world comparables**, via `Real-World_Basis_Extrapolation_Method.md` — **divergence stated

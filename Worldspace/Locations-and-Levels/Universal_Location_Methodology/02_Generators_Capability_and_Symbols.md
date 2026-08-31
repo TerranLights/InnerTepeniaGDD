@@ -247,6 +247,36 @@ generating.
 determines the procedure. That generalizes directly to four quadrants, with one addition the district set
 needed and never had.
 
+> ## ⚠⚠ 4.0 — THE SHAPE IS A PROPERTY OF THE ADMITTED INPUT SET, NOT OF THE LOCATION
+>
+> **Demonstrated, not argued, on a real case — the single most important caveat on this entire file.**
+>
+> **Two passes, on the same location, under the same methodology, within the same week, produced OPPOSITE
+> shapes**, from two different admitted input sets — one admitting the location's known institutional
+> particulars, the other quarantining them as culture-pass conclusions and running on attribute canon alone.
+> *(The full worked comparison, with both shape readings and the reconciling synthesis, is archived in
+> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md` — specific to one location, kept out of this general
+> file.)*
+>
+> **Neither pass misread its inputs. Both read them correctly.** Institutional particulars are maintenance
+> obligations by nature — admit them and STANDING COST fills; withhold them and it empties. **The shape follows
+> arithmetically from the input set.**
+>
+> ### What follows, and it is binding
+>
+> 1. **Never report a shape without reporting the input set that produced it.** *"This location is
+>    cost-dominant"* is an incomplete claim. *"This location reads cost-dominant on G2/G4/G5/G8 plus known
+>    particulars"* is a complete one.
+> 2. **A quadrant that fills only from one generator class is suspect.** If STANDING COST is populated entirely
+>    by known institutions and not at all by physical or functional constraint, **the location's cost is
+>    voluntary, not imposed** — and that distinction is usually the more interesting finding than the shape.
+> 3. **Where two input sets are available, run the shape twice and compare.** **The disagreement is worth more
+>    than either reading** — the honest synthesis a location's own standing cost actually consists of is
+>    frequently invisible to either single-input-set reading alone, and obvious the moment they are set side
+>    by side.
+> 4. **This is why `05` §6.1's admissibility question is not bureaucratic.** It does not merely protect against
+>    contamination. **It silently determines the shape**, and therefore the spine, and therefore the pass.
+
 | Shape | What it looks like | The question that unlocks it |
 |---|---|---|
 | **Balanced** | All four quadrants populated | *What does the balance cost?* Two strengths and two deficits is a trade-off, not a gap. |
@@ -255,6 +285,7 @@ needed and never had.
 | **Net-negative** | Deficits outweigh strengths | *Does its function require what it lacks?* |
 | **Doubled** | One quadrant holds two entries where others hold one | *Which faculty is doubled, and in which direction?* **A doubled strength and a doubled deficit are mirror cases and should be written as a pair if both exist.** |
 | **Cost-dominant** *(new)* | STANDING COST is the largest quadrant | *Is this place doing anything other than continuing to exist?* **The district set could not produce this shape because it had no cost quadrant.** It is the expected shape for hostile-environment outposts, declining settlements, and anything on life support — and its finding is usually that the location's identity has quietly become its own maintenance. |
+| **Cost-absent** *(new, 2026-08-30)* | STANDING COST conspicuously **thinner** than every other quadrant, **across independent generators** | *If nothing here has to be paid continuously, **what is holding this place together — and how would anyone know if it stopped?*** **Not the same as an empty quadrant.** An absence asks *what does it mean to lack this?* A **thin** cost quadrant is worse: the obligations exist, they are simply never load-bearing, so **there is no failure signal.** A cost-dominant location is told the instant it stops paying; **a cost-absent one is told nothing, because nothing breaks.** Its characteristic failure is therefore **not collapse but lapse** — a practice performed less often, then rarely, then not, with no moment at which anyone finds out. **Rare, and rare for a reason: most settings punish inattention.** Expect it where the environment is unusually benign, the position unusually secure, or the demography unusually uncontested. ⚠ **Before assigning it, apply §4.0** — a thin cost quadrant is very often an artifact of having withheld the location's known institutions. |
 | **Null** | Nothing in any quadrant | **Fall through to the next generator.** If *every* generator returns null, the location's lack of definition is its definition — see `01` §1.3, the Interstitial procedure. **Do not force a profile onto a place whose character is that it has none.** |
 
 **When a shape repeats across two locations, the three-step rule from `00e` §5 applies unchanged and is the
@@ -286,6 +317,7 @@ reach for the peer-required set only when canon actually supplies a named counte
 | **Diffuse** — nowhere in particular | No counterparty, no politics, **no grievance ever forms.** Produces drift. |
 | **In its own past** | The location **used to be able to do this and lost the capacity.** The remedy is historical, not geographical. Produces a characteristic nostalgia that is *factually correct*, which is rare and rich. **The district set could not generate this case** — thirteen districts of uniform age — but cities, polities and anything Declining produce it often. **See the evidence check below.** |
 | **In the parent** | The remedy exists only at a scale above this one, so reaching it means admitting the location cannot manage itself. **Produces under-reporting**, which is a shadow with no author. |
+| **In a neighbor's present** *(new, 2026-08-31)* | The comparison population — someone who has organically what this location was only allocated or lacks entirely — never departed. They are a living, permanent, physically co-located neighbor, not an absent authority or a departed witness. **Distinct from "in its own past":** the deficit is nameable and the comparison constantly available, but naming it means looking sideways at a peer rather than backward at history. **Likely the sharpest version of a historical deficit available**, since the unfavorable comparison is permanent and close rather than abstract. *(Worked case: Sinheung Run 5 — its paper-secured founding claim sits permanently beside Zhongshan's organic one, a few hundred meters away.)* |
 | **Nowhere at all** | Genuinely unremediable. **Rare, and must be earned** — most apparent cases are actually "in its own past" or "diffuse." |
 
 > #### ⚠ "In its own past" — check whether the EVIDENCE is also in the past
@@ -297,8 +329,25 @@ reach for the peer-required set only when canon actually supplies a named counte
 > itself** — not from denial, but because its evidence has physically departed. **The nostalgia is then not
 > merely factually correct but epistemically unchallengeable**, and no internal reform can originate.
 >
-> *(Worked case: a city that lost 38% of its population to migration, retained its drawing reputation, and
-> continues to attract newcomers to a scene at 62% of the strength that made it famous.)*
+> *(Worked case: **Shirayuki, Run 1** — a city that lost 38% of its population to migration, retained its
+> drawing reputation, and continues to attract newcomers to a scene at 62% of the strength that made it
+> famous.)*
+>
+> #### ⚠ And the harder case: `diffuse` does not remove the witness — it prevents one from ever forming
+> **Added 2026-08-30, Zhongshan Run 3, as the sharper sibling of the case above.**
+>
+> **An exodus takes the people who could name the deficit away. A diffuse address means nobody was ever in a
+> position to notice it.** A grievance requires a counterparty; a diffuse address supplies none; **so no
+> critic is produced in the first place.**
+>
+> **The difference is practical, not philosophical.** The exodus city **can** be told what is wrong with it —
+> by someone who left, by a returning visitor, by a record. **The diffuse city cannot**, because the
+> observation has no natural author and no natural occasion. **Reform in the first case requires listening.
+> In the second it requires someone inventing the question from nothing.**
+>
+> **Check for it wherever the address comes back `diffuse`:** *has anyone here ever had a reason to formulate
+> this as a problem?* **If the honest answer is no, the deficit is not merely unaddressed — it is unspeakable,
+> and that is a much stronger finding.**
 
 ### PEER-REQUIRED — only when a named counterparty exists and is written
 
@@ -381,6 +430,14 @@ different objects and both stand.
 **Where it genuinely cannot be reconciled, leave it flagged as open** rather than deciding unilaterally — and
 note that an unreconciled conflict between two external generators is a *stronger* result than a smooth profile,
 because it is the one thing a designer would never have invented.
+
+> ### ⚠ This test also governs Step 7 — a cold pass's finding vs. opened canon, not only generator vs. generator
+> **Added 2026-08-31, Zhongshan Run 4.** The scope above was written for conflicts between two generators run
+> within the same pass. **It applies with equal force when a deferred Gate 6 opens withheld material and finds
+> a cold pass's own finding contradicts established canon** — that is the identical shape (one property, two
+> readings) with canon standing in for the second generator. **Run this test before recording any such
+> mismatch as a kill.** See `04`'s Gate 6 note for the worked case and the specific scales to check
+> (public/private, mainstream/counterculture, generational, legal-vs-narrative).
 
 ---
 
@@ -486,7 +543,7 @@ step that converts a thin generator into a structured one.
 
 | System | Where | Cardinality | Shape | Notes |
 |---|---|---|---|---|
-| **Zodiac Personality Substrate** | `../Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** |
+| **Zodiac Personality Substrate** | `../Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **This system now has a SECOND, non-assignment use-mode for any location** — see `../Cultural_Synthesis_Techniques.md`'s **Technique — The Zodiac Lens** (added 2026-08-31): all twelve signs run as non-binding interrogation prompts, never as an assignment, and never referencing Concordia's own completed district content. |
 | **Planetary Symbols** | `../Outside-World/.../Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 10 members. One-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired.** |
 | **Robot Elementals** | `.../City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members, positive/negative, Wu Xing correspondences on five. **See the gap below.** |
 | **Planet + Element** | `.../City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use §6.3.** |

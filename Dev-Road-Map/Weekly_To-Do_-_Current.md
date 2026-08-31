@@ -8,11 +8,131 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
-# 🔴 TOP IMMEDIATE URGENT PRIORITY — read this before anything else
+# ✅ RUN 3 COMPLETE — 2026-08-30. Zhongshan taken through the entire instrument, cold.
 
-## ▶ Resume the Universal Location Methodology test run — COLD
+**The first time anything in this project has been through the complete Universal Location Methodology:
+all eleven phases, all sixteen gates (0–11 plus C/F/I/P/G), and the Review Panel.**
+Output: `Universal_Location_Methodology/Test_Runs/2026-08-30_Zhongshan_Run3_Cold/` (7 files).
 
-**Set 2026-08-30. This outranks every other item in this file.**
+- **Passed `05` §6.1's falsifiable test** — **ten findings absent from the city's existing material**, including
+  one that reconciles two ranks of canon *(the 2564 exiles arrived at an inhabited place; every other Tepenian
+  city was founded on an empty one)*.
+- **Five gates fired.** **Gate 11 caught its first plausibility failure in this project's history** — a
+  factor-of-25 scale error, found by dividing population by area. **Gate 9's second pass and Gate I each
+  produced a finding the pass would not otherwise contain.**
+- **Gate 6 proved structurally unrunnable in a cold pass** and now runs at Step 7 by design.
+- ⭐ **Headline methodology finding: the four-quadrant SHAPE is a property of the admitted input set, not of the
+  location.** Two passes, one city, one week, **opposite shapes** — because one admitted the city's known
+  institutions and the other quarantined them.
+- **Four live canon errors surfaced, ALL FOUR NOW FIXED** — the Sinian war-causation claim; Sinheung's name
+  recorded as reserved; the **"six-month" polar night** at the Larsemann Hills cities *(real figure ~60 days)*;
+  and the **"130 years" of exile** *(real figure ~248, per the universe repo's own era timeline)*.
+  ⭐ **The last of these was not a Zhongshan bug at all — it was a stale shared constant across 20 files and 8
+  locations, including `CITY_CULTURE_TEMPLATE.md` itself.** **56 instances corrected**, standardized to
+  **"roughly two and a half centuries"** and **"nine or ten generations"** for future-scan leeway. Amundsen
+  Station's genuine six-month polar night, Leo's six-month Dimming and a Virgo union's real 130-year age were
+  correctly left alone. **Logged as finding M-20, with a new Gate C shared-constant check.**
+- **All findings implemented back into `00`–`05`, `00f`, and the research method**, and indexed in
+  `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` *(M-0 … M-19)*.
+- **New standing conventions:** per-location **research logs** (`Cities/Research_Logs/`) · the **recording law**
+  (`00_RUNBOOK` 9.5) · **`06_Worked_Example_Provenance.md`**, so a re-run is not handed its own prior answers by
+  the required reading.
+
+---
+
+# ✅ RUN 5 COMPLETE — 2026-08-31. Sinheung, cold, all eleven phases / sixteen gates / Review Panel.
+
+**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Sinheung_Run5_Cold/` (15 files).
+
+- ⭐ **The strongest Gate 6 result this methodology has produced.** A cold pass built entirely from Tier-1
+  attribute generators (physical constraint, function, founding condition, symbol pair) independently
+  reproduced the withheld culture sheet's own central finding — including its sharpest specific claim (the
+  Zhongshan-organic-vs-Sinheung-allocated distinction), stated almost word-for-word, before that file was ever
+  opened. Logged as M-35, implemented into `00_RUNBOOK.md`'s status note.
+- **Two genuine methodology additions**, both implemented into the rule files in the same session: a new
+  deficit-address variant, *"in a neighbor's present"* (`02` §4.1, M-36), and a fourth reason a place might
+  outsource its dead (`03` Phase 6 §C, M-37).
+- **Three live contamination events caught and fixed** during the inbound readiness check (M-32/33/34) — a
+  memory entry banded, a research technique corrected mid-pass after a bare-name grep leak, and a mislabeled
+  "attributes" file correctly disqualified via its own header.
+- **Correction to `RESUME_HERE.md`'s own premise:** Sinheung was chosen partly on a "thin canon" assumption
+  that turned out false — its canon is comparable in depth to Zhongshan's. **The genuinely thin location test
+  case remains the largest untested gap**, unchanged from before this run.
+- **Honestly flagged, not resolved:** Sinheung's own physical extent (REQUESTED, blocks a confident density/
+  texture reading), a universe-repo canon check (Gate C, not run this pass), two Review-Panel-noted gaps
+  (crisis childcare, a schematic-interruption contingency), the Unrecognized Instrument (never run), and one
+  finding flagged as the pass's weakest (the quarry export's Gate-4 swap-test risk against Zhongshan).
+
+---
+
+# ✅ THE ZODIAC LENS + EXTENSIONS — 2026-08-31, same session as Run 5. The developer-proposed methodology
+discussion (flagged above as pending) happened, and produced a genuine new instrument family, not just talk.
+
+**Full write-up:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`
+and `17_Zodiac_Elemental_Planetary_CrossCheck.md`. Formalized into `Cultural_Synthesis_Techniques.md` as
+**Technique — The Zodiac Lens**, with two extensions, all implemented in the rule file, not just logged:
+
+- **The base Lens** (M-38): all twelve zodiac signs run as non-binding interrogation prompts against a
+  location's own established character — never Concordia's own application of the signs. First run on
+  Sinheung produced person/place/thing results for 9 of 12 signs.
+- **⭐ Two developer catches, same run, that fixed a real methodology gap:** a fixed target count (one result
+  per sign, then two) is never a principled stopping rule at any number — **implemented as a binding
+  requirement (step 6) that every sign states an explicit, checkable stopping reason**, not just a count.
+  Re-auditing under this rule **reversed Pisces from a genuine null into the richest single-sign result of the
+  whole run** (M-38b) — direct proof the fix mattered, not just process hygiene.
+- **The Elemental/Planetary Cross-Check extension** (M-39, 216 prompts: all 12 signs × 8 Robot Elementals × 10
+  Robot Planetary Symbols, individually) — 56 hits, **including one that closed a real, previously-open Review
+  Panel gap** (a child-rearing support network, via Cancer × Wood). **Recommended execution pattern: 12
+  parallel subagents, one per sign**, plus a coordinating-session-only final cross-sign synthesis pass (M-40) —
+  which found a genuine city-wide structural pattern (institutional decentralization) invisible to any single
+  sign's own results.
+- **The per-HIT contradiction check** (M-41): every kept result gets one deliberate opposite-register candidate
+  checked for whether it *also* fits, kept alongside rather than replacing. Applied to all ~76 combined hits
+  (base run + extension); ~45 produced a genuine second finding.
+- **⭐ "The Sinheung Standard"** (M-42) — a developer-synthesized connection across three separately-derived
+  findings (stone grading, chamber quality control, the guarded engineering archive) into one named civic
+  identity, **promoted directly into `Specs/Sinheung.md` canon**. Recorded honestly: no mechanical step in the
+  procedure found this connection — it took a human reading the complete result set. The technique's own final
+  stage is, and should stay, a human synthesis pass, not a fully automatable checklist.
+
+---
+
+# 🔴 TOP IMMEDIATE — the methodology now appears optimized; confirm with several more cold runs before
+declaring it settled
+
+**Developer's own framing, 2026-08-31:** *"I believe I may say that the methodology appears to be optimized.
+Still, we should do another few test runs just to be sure."* **Not yet proven — this is the actual next
+priority**, and it should be read as skepticism toward the methodology's own apparent success, not
+confirmation of it. Every run so far (Zhongshan ×2, Sinheung) has been run by the same author who built the
+instrument; a run that only ever validates itself is not evidence, per `04` Part IV's own standing caution.
+
+1. **Run the full methodology — including the Zodiac Lens and both its extensions — cold, on several currently
+   untested cities.** Shirayuki remains the clearest never-run candidate. **The genuinely-thin-location test
+   case is still the largest untested gap** after three rich-canon runs in a row (Zhongshan, Zhongshan again,
+   Sinheung) — actively prefer an unusual Type/Band (Corridor, Natural feature, Band 1/5–6, Interstitial, or a
+   thin-canon Settlement) over another rich city, per `RESUME_HERE.md` §2's own ranked guidance, now
+   underscored a third time.
+2. **Treat this next batch of runs as a genuine test of the instrument, not a production pass.** Watch
+   specifically for: whether the Zodiac Lens extensions produce comparably rich results on a thinner-canon
+   location (they may not — Sinheung's own richness may have been load-bearing for how much the cross-checks
+   found); whether the stopping-criterion and contradiction-check disciplines hold up without the same close
+   developer oversight that caught their gaps on Sinheung; and whether a "the methodology is now optimized"
+   read survives contact with a location chosen specifically because it looks least likely to conform.
+3. **Sinheung's own still-open REQUESTED items** (extent/density, universe-repo check, childcare beyond the new
+   Cancer×Wood network, schematic-interruption contingency, the Unrecognized Instrument, the quarry-export swap
+   risk) remain available for a follow-up pass at any time — none are blocking, all are named in
+   `15_Step9_Record_and_Step10_Readiness.md`.
+
+> ### **→ Read `Universal_Location_Methodology/Test_Runs/RESUME_HERE.md` in full before starting any of the
+> above — it has been rewritten to reflect all of this.** Standing pacing instruction, restated there and here
+> because it still governs: *"if it takes a month to get it right, then we spend a month testing and refining
+> it."*
+
+---
+
+## *(Superseded — retained for context)* Resume the Universal Location Methodology test run — COLD
+
+**Set 2026-08-30. ✅ DONE as Run 3, see above.**
 
 > ### **→ Read `Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/RESUME_HERE.md`
 > ### in full, and follow it.**

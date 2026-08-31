@@ -330,7 +330,7 @@ under-specify them.
 
 > **Do not bury it in a parenthesis and do not use it.** Write it as a **numbered finding, marked reserved**,
 > stating what was found, what it would decide, and explicitly that it is **not adopted here.** A parenthesis is
-> lost; a reserved finding is a handoff, and the next pass inherits a loaded, labelled instrument rather than an
+> lost; a reserved finding is a handoff, and the next pass inherits a loaded, labeled instrument rather than an
 > absence.
 
 ---
@@ -404,17 +404,97 @@ methodology's output, so the rule as written permitted all of it as input.**
 
 ### The operational split — and it is clean enough to apply without judgement calls
 
-| **ADMISSIBLE as input — attributes** | **INADMISSIBLE as input — conclusions** |
-|---|---|
-| Physical and environmental facts | *"This city's character is X"* |
-| Founding mechanism, date, and circumstance | *"Its temperament reads as Y"* |
-| Function, industry, what it makes | Any prior pass's **capability, personality, or culture** finding |
-| Network position, routes, adjacency | A prior pass's **shape**, **axis**, or **differentiation** claim |
-| Census, composition, **population change** | Anything phrased as an interpretation rather than a fact |
-| Symbol assignment | |
-| Dated events | |
+| **ADMISSIBLE as input — attributes** | **INADMISSIBLE as input — conclusions** | **⚠ ADMISSIBLE BUT SELF-ORIGINATED** *(added 2026-08-30)* |
+|---|---|---|
+| Physical and environmental facts | *"This city's character is X"* | A fact that is **genuinely canon and genuinely usable**, but which **originated in this same location's own prior culture pass** and was later promoted or migrated |
+| Founding mechanism, date, and circumstance | *"Its temperament reads as Y"* | **Use it — you are usually obliged to.** But **tag every finding that rests on it**, because it is **corroboration, never independent derivation** |
+| Function, industry, what it makes | Any prior pass's **capability, personality, or culture** finding | The commonest source: **a claim migrated upstream into shared canon** — see §6.1b |
+| Network position, routes, adjacency | A prior pass's **shape**, **axis**, or **differentiation** claim | Second commonest: **a symbol or type assignment derived from a prior personality read** |
+| Census, composition, **population change** | Anything phrased as an interpretation rather than a fact | |
+| ⚠ Symbol assignment — **but see §6.1c** | | |
+| Dated events | | |
 
-**These are G1–G8. The admissible column is exactly the generator stack, which is the point.**
+**Columns 1–2 are G1–G8 and their negation. The admissible column is exactly the generator stack, which is the
+point.** **Column 3 exists because the first two assume a claim stays where it was written, and claims move.**
+
+> ### ⚠ 6.1a — ADMISSIBILITY IS A PROPERTY OF CONTENT, NEVER OF FILENAME OR FOLDER
+>
+> **Added 2026-08-30 after this defect contaminated a cold run within its first ten minutes.**
+>
+> A handoff listed `[City]_Physical_Infrastructure_Attributes.md` as safe to open at any time. **The filename
+> says attributes. The file was two passes welded together** — a genuine attribute derivation, *and* a
+> cross-reference section quoting the city's culture pass and full-extrapolation **conclusions verbatim**,
+> including their axis claims. **Its own header named a withheld culture file as a source.**
+>
+> **The rules:**
+>
+> 1. **A file is admissible only if *every section* of it is.** There is no partial read: **you cannot un-see
+>    the second half.** A document that is 60% attributes and 40% conclusions is an **inadmissible document.**
+> 2. **Where a source genuinely mixes the two, the fix is upstream — split the file.** Do not attempt to read
+>    around the conclusions.
+>    > **⚠ The narrower case — one admissible COLUMN and one inadmissible one, in the same table row.** *(Added
+>    > 2026-08-31, from a real case.)* Not every mixed source is a whole file — a registry table can legitimately
+>    > have one admissible field (e.g., a symbol assignment's *members*) and one inadmissible field on the same
+>    > row (e.g., that assignment's derived *rationale*). **A bare-name `grep` returns the entire matching
+>    > line**, exposing the inadmissible field along with the admissible one — the same "cannot un-see" problem
+>    > as rule 1, at finer grain. **The mechanical fix: anchor the search pattern to only the admissible
+>    > columns** (e.g. `grep -oP '^\| CityName \| \S+ \| \S+ \|'` to capture just the first three pipe-delimited
+>    > fields of a markdown table row) **rather than searching by name alone.** Splitting the file (rule 2)
+>    > remains the fix for whole-section mixing; column-anchored extraction is the fix for row-level mixing,
+>    > and the two should not be confused.
+> 3. **Build a quarantine list by RULE, not by RECALL.** Apply the content split above section by section.
+>    **A list assembled from memory is written by the one person who has already read everything, and a
+>    document you have already read does not announce itself as contaminating.** This is the circularity rule
+>    one level up, and it is how the defect above got onto a "safe" list in the first place.
+> 4. **Check the header of every admissible file for its own sources.** A file that cites a withheld document
+>    is downstream of it, whatever it is called. **This check costs seconds and would have caught both
+>    instances.**
+
+> ### ⚠ 6.1b — CANON MIGRATION LAUNDERS PROVENANCE
+>
+> **Added 2026-08-30. Verified, and it produced a live cross-project canon error before it was caught.**
+>
+> **A claim written in a location's culture pass, then migrated upstream into shared canon, becomes admissible
+> — without a word of it changing.**
+>
+> | Stage | What it is | Admissible? |
+> |---|---|---|
+> | Written in the location's own culture file | a culture-pass conclusion | **No** |
+> | Migrated into the shared/universe canon | a *When / Where / Who* fact | **Yes — and correctly so** |
+>
+> **Nothing detects the transition, because nothing is wrong with it.** Routing a broadly-binding claim upstream
+> is exactly what `00_RUNBOOK.md` §E question 3 instructs. **The methodology's own correct behavior builds the
+> laundering channel.**
+>
+> **And migration does not merely relocate a claim — it PROMOTES it.** In the location file it was a
+> subordinate clause in a founding paragraph. In the shared canon it was rewritten as **an answer to a standing
+> open question** *("this directly answers…")*. **Nobody decided to promote it; an open question and a
+> newly-arrived relevant sentence attract each other.** The promoted version carried a word — *"drove"* where
+> the truth was *"participated in"* — **that was wrong, and that then bound five sibling projects.**
+>
+> **Three rules:**
+> 1. **Provenance travels with a migrated fact.** The receiving file records which location's pass produced it,
+>    in one bracketed clause. *(The instance above did this by accident, and the accident is the only reason it
+>    was catchable.)*
+> 2. **Migration must not promote.** A claim keeps its original strength. **"Contributes one name to" is not
+>    "directly answers."** If it genuinely settles an open question, that is a separate decision needing
+>    separate confirmation.
+> 3. **A pass that finds a shared-canon fact citing its own location must tag it `[SELF-ORIGINATED]`** and
+>    treat every dependent finding as corroboration.
+
+> ### ⚠ 6.1c — A SYMBOL ASSIGNMENT MAY BE DOWNSTREAM OF A PERSONALITY READ
+>
+> **Added 2026-08-30.** In this project, `City_Symbol_Assignments.md` states in its own header that every
+> assignment was **"derived from each city's own established personality"** — from a set of prior Enneagram
+> reads. **So G1 is provenance-downstream of a culture pass for all 34 assigned cities**, and §6.1's bare
+> listing of "Symbol assignment" as admissible is **wrong as written for this project.**
+>
+> **The clean salvage, and it generalizes:** **the *pair* is a two-token assignment and the *meanings* live in
+> the system files, which describe symbols rather than this location.** So:
+> - **Usable:** the assigned members, and their definitions read from the system's own files *(per §6.0)*.
+> - **NOT usable:** any *rationale* column in the assignment table. Those are capability verdicts wearing an
+>   index's clothing — *"self-sufficient, ordered complexity, content unexamined"* is a four-term personality
+>   reading, not an assignment.
 
 > **Conclusions are read LAST, and read as a CHECK.** After the pass produces its own findings, compare. **A
 > match is corroboration. A mismatch is a finding site.** Consulted at the start they are contamination;
@@ -436,7 +516,7 @@ technique was explicitly scoped to Mode A only for exactly this reason.**
 
 **Generalized: track provenance direction.** An input generated downstream of a location's culture pass is not
 an input to that pass. It may be a legitimate input to a *different* location's pass, or to a later re-run under
-a materially changed methodology — but it must be labelled, or the circularity becomes invisible.
+a materially changed methodology — but it must be labeled, or the circularity becomes invisible.
 
 ## 6.2 What outside AI synthesis can and cannot supply
 

@@ -7,7 +7,7 @@
 **Census II Population:** 429,820 humans / 407,948 robots / 837,768 combined *(pre-decline figure — see Section 2)*
 **Location:** Confín Coast, Coats Land, southern Weddell Sea (~77°52'S, 34°37'W)
 
-**One-liner:** *A hard, disciplined, purposeful aviation hub — Air Force exiles running the Halley subnet's frontier, its operational discipline intact 130 years on regardless of who's actually living there now.*
+**One-liner:** *A hard, disciplined, purposeful aviation hub — Air Force exiles running the Halley subnet's frontier, its operational discipline intact roughly two and a half centuries on regardless of who's actually living there now.*
 
 *(Corrected 2026-07-04: this section previously blended the city's living second interwar-era identity with its post-war "Decline" into one two-layer culture — the only Tepenian city whose Local_Cultures file did this, breaking from the standard methodology every other city follows of keeping living pre-war culture here and destruction/decline facts in Specs/the post-war layer. The Decline content has been moved to `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md`, where it now has its own dedicated faction entry. This file is restored to describing Belgrano's actual living, functioning second interwar culture only.)*
 
@@ -25,7 +25,7 @@
 | Significant | Germany, UK, Brazil |
 | Notable | Poland, Argentina *(founding wave)*, Czech Republic, Hungary, South Africa, Slovakia, Chile, Croatia, Serbia, Slovenia, Uruguay |
 
-*Belgrano is Tepenia's most extreme case of founding-era institutional culture outlasting the demographic weight of the population that built it. The Air Force base's operators set the entire founding character — shortest Weddell Sea approach of any nation, the Air Force institutional culture, the name itself — and the founding Argentine population still ended up Notable tier, the lowest rung, behind the USA, Germany, UK, and Brazil. Unlike Janbogo (where Korea at least held Significant tier), Belgrano's founding population was essentially demographically erased over 130 years, while the base's own operational culture — military, functional, purposeful, frontier — persisted as the city's operating character almost in spite of the numbers.*
+*Belgrano is Tepenia's most extreme case of founding-era institutional culture outlasting the demographic weight of the population that built it. The Air Force base's operators set the entire founding character — shortest Weddell Sea approach of any nation, the Air Force institutional culture, the name itself — and the founding Argentine population still ended up Notable tier, the lowest rung, behind the USA, Germany, UK, and Brazil. Unlike Janbogo (where Korea at least held Significant tier), Belgrano's founding population was essentially demographically erased over roughly two and a half centuries, while the base's own operational culture — military, functional, purposeful, frontier — persisted as the city's operating character almost in spite of the numbers.*
 
 ---
 
@@ -37,7 +37,7 @@ Named for Manuel Belgrano, the Argentine independence general and creator of the
 
 Over the following century, German, British, Brazilian, and eventually American immigration outpaced the founding Argentine population by sheer scale, the way it did across the Halley subnet generally. But Belgrano never stopped being run like an airbase — the discipline, the function-over-comfort ethos, the frontier bluntness, all survived the demographic shift because nobody arriving found reason to argue with a system that worked in one of the harshest positions in all of Tepenia.
 
-For roughly 130 years, that was the whole story: a hard, purposeful, aviation-and-frontier city at the edge of the Weddell Sea, the least glamorous and most functionally important node in the Halley subnet. Then the Long Night War came — and Belgrano, unlike its neighbors, survived it.
+For roughly two and a half centuries, that was the whole story: a hard, purposeful, aviation-and-frontier city at the edge of the Weddell Sea, the least glamorous and most functionally important node in the Halley subnet. Then the Long Night War came — and Belgrano, unlike its neighbors, survived it.
 
 Belgrano's founding-era significance runs deeper than its own borders, too *(established 2026-07-03, refined same day; expedition detail expanded 2026-07-10)*: it held the richest documentary record of the three earliest Tepenian settlements pointing toward the buried ruins of Byrd Station, and its early industrial/airbase capacity made it the settlement that actually began organizing an expedition. Word of it reached Palmer City and Rothera, who sent their own historical accounts, transport manifests, and maps by ship across the Weddell Sea to Belgrano to sharpen the expedition's heading before departure — a three-settlement effort, even though Belgrano alone built and crewed the vehicles. Belgrano's crews had already built a rough first-generation hauler, "la Arrastradora," but never one tested for a crossing this long — so before departure, a small crew (plausibly mixed, robots and humans, since the route was known and mapped) drove it north to Neumayer, whose scientists reverse-engineered it and redesigned it into something that could actually survive the distance. The crew brought the original back to Belgrano, where it was rebuilt to Neumayer's own specifications — and that rebuilt vehicle, not the rough first attempt, is the one that actually completed the crossing and became the template for what spread across Tepenia as "las Arrastradoras," a name that, as the vehicle multiplied across the country over the generations, wore down into the shorter, cross-linguistically easier "Rastra," the name that stuck internationally even as "Arrastradoras" remained the term of record at home. An all-robot expedition crew drove the rebuilt Arrastradora out from Belgrano into the unmapped interior for the crossing itself — the city's first export was never a product. It was an expedition, built on materials the whole subnet's oldest settlements sent to help it succeed, and on a redesign Neumayer quietly made possible.
 
@@ -69,7 +69,7 @@ Belgrano's aviation operations are seasonally gated by weather windows — fligh
 
 **Name/concept:** *The Airbase That Never Stood Down*
 
-Belgrano's civic character, across its whole 130-year second interwar history, is a hard, disciplined, functionally-minded aviation hub — founded by Argentine Air Force exiles and carried forward by a later demographic majority that never bothered to soften it. That culture is purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic bearing. Function before comfort is not an aspiration here; it's the baseline.
+Belgrano's civic character, across its whole two-and-a-half-century second interwar history, is a hard, disciplined, functionally-minded aviation hub — founded by Argentine Air Force exiles and carried forward by a later demographic majority that never bothered to soften it. That culture is purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic bearing. Function before comfort is not an aspiration here; it's the baseline.
 
 - **a. Founding tension** — Argentina founded the city and set its entire character, then became its smallest recognized demographic tier over the following century-plus. The tension isn't about whose culture is "real" — the founding discipline was thoroughly adopted by everyone who came after, regardless of where they were from, so the question is less "does Argentine culture survive" and more "why did an operational ethos this total prove so contagious to later arrivals."
 
@@ -206,7 +206,7 @@ Governance runs on institutional authority rather than the Federation's normal c
 
 ## 22. Relationship to Upper Earth
 
-Distant and mostly institutional rather than emotional — Belgrano's founding population came from an Air Force posting, not a grievance, and 130 years on, the relationship to Upper Earth is filtered through operational pride (being good at a hard job in a harsh place) more than any raw political sentiment about the exile itself.
+Distant and mostly institutional rather than emotional — Belgrano's founding population came from an Air Force posting, not a grievance, and roughly two and a half centuries on, the relationship to Upper Earth is filtered through operational pride (being good at a hard job in a harsh place) more than any raw political sentiment about the exile itself.
 
 ---
 
