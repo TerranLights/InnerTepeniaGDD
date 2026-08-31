@@ -8,6 +8,65 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+# 🔴 TOP IMMEDIATE URGENT PRIORITY — read this before anything else
+
+## ▶ Resume the Universal Location Methodology test run — COLD
+
+**Set 2026-08-30. This outranks every other item in this file.**
+
+> ### **→ Read `Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/RESUME_HERE.md`
+> ### in full, and follow it.**
+
+**That file is the complete task specification.** It carries the objective, the procedure, the admissible-input
+list, six already-paid-for traps, the settled canon facts, and the definition of "done." **It is written
+specifically for a session with no memory of the previous work, so it does not assume any.**
+
+### ⚠ The one thing to know before opening anything
+
+**The session was closed deliberately, mid-experiment, to get an uncontaminated one.** A re-run performed by
+the session that produced the first run is not an independent test — the author retains the earlier
+conclusions and re-notices them rather than re-deriving them. **A fresh session genuinely cannot remember, and
+that is the entire point.**
+
+**So there is a do-not-open list, and `RESUME_HERE.md` states it precisely.** In short: **do not read Run 1's
+output folder, Run 2's Zhongshan pass, or the three Tri-Cities' `Local_Cultures` / Enneagram /
+Overlap-Guide files before writing your own findings.** Those are prior culture-pass *conclusions* and are
+inadmissible as input. **Read them afterward, as a check.** Opening them first destroys the experiment and
+produces a confident, coherent, worthless result.
+
+### The task, in one line
+
+**Run Zhongshan — alone, cold, exhaustively: all eleven phases, all sixteen gates (0–11 plus C/F/I/P/G), and
+the Review Panel.** **Nothing in this project has ever been taken through the complete instrument** — Run 1
+covered three phases and ran no gates; Run 2 covered the phases but no gates and no panel. **The entire back
+half of the methodology is untested, and that is where a methodology usually breaks.**
+
+**Not Sinheung. Not Shirayuki. One city, finished properly.** They come later, in their own sessions; the
+differentiation test is meaningless until one location has been done all the way through.
+
+### ⏳ And there is no time limit — this is a standing developer instruction, not a courtesy
+
+> *"I don't care how long it takes. If it takes 72 hours to go through the process of creating a solid,
+> repeatable, reusable methodology of establishing one location and that's it, then I'm perfectly fine with it
+> taking 72 hours. I'm not in any hurry. I don't want you to just 'runny-run' through it 'quickly'; what I want
+> is for you to get it **right**."*
+
+**Completion is not the goal; a place somebody could live in is the goal.** The gates can confirm a pass is not
+*wrong* — **none of them can tell you it is thin.**
+
+**The deliverable is the methodology, not the city.** Zhongshan is the whetstone. **Record everything —
+including self-corrections, dead ends, and phases that turn out unrunnable — in the shared observations file
+named in `RESUME_HERE.md`.** Those are worth more than the successes: Run 1's single most valuable moment was
+an attractive finding being killed by its own arithmetic.
+
+**Related, already done and committed** *(so it does not need redoing)*: the methodology itself is current at
+commit `0b226a9` — fourteen changes from Run 1 are already incorporated, including the single-location-first
+architecture. **Use it as it stands.** See also the memory entry
+`project_universal_location_methodology_test_runs`, which deliberately contains **no findings**, for the same
+anti-contamination reason.
+
+---
+
 ## Active Threads as of the 2026-08-16 → 2026-08-24 outage stretch
 
 - [ ] **⭐ URGENT — Wu Xing generating/overcoming cycles missing from `Robot_Elementals.md`.**
