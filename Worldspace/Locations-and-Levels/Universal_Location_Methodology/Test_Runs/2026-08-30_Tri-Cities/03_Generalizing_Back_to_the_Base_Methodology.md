@@ -97,13 +97,13 @@ canon actually supplies a named counterparty.
 
 # 4. Phase 5, rebuilt for one location
 
-**Phase 5 as written assumes neighbours worth writing about.** Tested against the isolated majority case it is
+**Phase 5 as written assumes neighbors worth writing about.** Tested against the isolated majority case it is
 **four-fifths sound and one-fifth sibling-dependent** — better than expected, but the weighting is wrong.
 
 ### What transfers unchanged to a single isolated location
 
 - **5a's core move — *mechanism, not rivalry*.** Works against a supplier, a parent, an absent peer, or a
-  category. **Never needed a neighbour; needed a counterparty.**
+  category. **Never needed a neighbor; needed a counterparty.**
 - **"Write both directions."** For an isolated location the second direction is frequently ***nobody out there
   thinks about this place at all*** — **which is a finding, not a blank.** A location that matters to itself
   and to nobody else is a specific and common condition.
@@ -119,7 +119,7 @@ canon actually supplies a named counterparty.
 
 > **PROPOSED substitute for the single-location case, drawn from `01` §5.3's existing no-sibling list rather
 > than invented:**
-> **Run the three-way set against the location's own eras instead of against neighbours.**
+> **Run the three-way set against the location's own eras instead of against neighbors.**
 > *This place at founding · this place at its crisis · this place now* — **three states of one location, on one
 > chosen category, differentiated the same way.** `01` §5.3 already calls a location's own earlier states *"the
 > strongest substitute and usually available."* **Phase 5b is where that substitute should be named
@@ -168,7 +168,7 @@ the cluster but does not *depend* on it.
 
 **Recorded so a later reader does not mistake these for portable technique.**
 
-- **The "adjacent but unaskable" address type.** Real, and it needs a neighbour close enough to see and a norm
+- **The "adjacent but unaskable" address type.** Real, and it needs a neighbor close enough to see and a norm
   forbidding the asking. **Keep it as a peer-required address; do not present it as common.**
 - **R-2's reciprocal-and-unaskable pair** and **R-3's same-symbol-different-stage pair.** Both require siblings
   with known profiles. **Genuine findings; not templates.**
@@ -211,7 +211,7 @@ errors)*. **All of these are peer-free and therefore genuinely transfer.**
 
 **What was NOT validated, and must not be claimed:** **Phase 5 in the isolated case** · the differentiation
 instrument under normal conditions · **any of the eleven phases except 0, 1 and 5** · every gate · the Review
-Panel · and the methodology's behaviour when canon is *thin* rather than abundant. **This run had ~12,000
+Panel · and the methodology's behavior when canon is *thin* rather than abundant. **This run had ~12,000
 lines of input. The majority case will have a spec sheet and a map.**
 
 > **The next test should be a single isolated location with sparse canon** — the inverse of this one on both

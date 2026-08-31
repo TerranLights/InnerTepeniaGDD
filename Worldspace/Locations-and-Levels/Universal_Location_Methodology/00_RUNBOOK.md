@@ -91,6 +91,48 @@ For anyone who knows that procedure, the differences in one table.
 
 ---
 
+# THE UNIT IS ONE LOCATION
+
+**Developer instruction, 2026-08-30, and it governs the structure of everything below.**
+
+> **This methodology builds ONE location, start to finish.** In the overwhelming majority of instances that is
+> all it will ever do. **Handling several at once is a possible extra, never the base structure.**
+
+**Why this has to be stated rather than assumed.** The first test run *(Tri-Cities, 2026-08-30)* was
+constructed as a **simultaneous three-location co-write** and did not notice that this was exceptional —
+because `01` §5.3 *permits* co-writing a small set, so nothing in the procedure objected. **The result was a
+methodology validated on the least representative configuration in the project**, which is the district
+folder's recorded self-grading failure wearing new clothes.
+
+## What follows from it — the instruments split in two
+
+**Most of this methodology never needed a second location.** The split is clean, and knowing which half you
+are holding is the difference between a pass that runs alone and one that stalls:
+
+| **PEER-FREE — the core. Runs on one location, always available.** | **PEER-REQUIRED — enhancement. Only when siblings exist and are written.** |
+|---|---|
+| The four-quadrant capability frame (`02` §3) | The differentiation table (`04` Part III) |
+| The generator stack and the rule of three (`02` §2, §5) | Gate 6's collision check |
+| **The deficit *address* axis — peer-free half** (`02` §4.1) | The shape typology's *repeat* rule (`02` §4) |
+| The pairing-relation typology (`02` §6.3) | Phase 5b's three-way set (`03`) |
+| Shape *reading* (`02` §4) · named-axis discipline | The address axis's *peer-required* half |
+
+**A single-location pass is not a degraded pass.** It runs the entire left column and substitutes for the
+right, per `01` §5.3. **Say in the pass which substitutes were used.**
+
+## The typicality declaration — one line, and it is not optional
+
+**Add to the frame declaration and to the `05` §7 pre-flight:**
+
+> ***Is this location's configuration typical, or exceptional? If exceptional, in what way — and which findings
+> depend on the exceptional property?***
+
+**A pass cannot correct for a bias it has not declared.** The Tri-Cities run produced seven findings from
+Phase 5 and could not tell that nearly all of them were unavailable to a normal location, because it never
+asked this question.
+
+---
+
 # THE CANON REGISTRY — where to look, and who wins
 
 **Stated up front, because the rest of the methodology says "check canon" in a dozen places and an instruction
@@ -231,7 +273,7 @@ axioms) but it means a pass that starts without its inputs will either stall or 
 
 - **PROVIDED** — the method has no mechanism to generate it. **Missing ⇒ stub, assume provisionally, or block.**
 - **RESERVED** — it *could* generate it, but authority is the developer's. **Missing ⇒ write fully around it**,
-  per Step 0.5. Not the same behaviour as PROVIDED, and confusing the two is the error.
+  per Step 0.5. Not the same behavior as PROVIDED, and confusing the two is the error.
 - **PRODUCED** — the output, always as **Proposed:**.
 - **REQUESTED** — **an output type.** When the pass needs something that does not exist, **emit a well-formed
   request rather than inventing.** A pass ending in three good requests has done real work; a pass ending in
@@ -257,6 +299,17 @@ against what has actually been resolved elsewhere.** Cheapest gate, highest yiel
 **0.4 Read everything the location already has, before writing over it.** Existing material predates whatever
 disciplines have been written since, and inherited findings are where Gate 9 fires hardest.
 
+> **⚠ And read it in this order, because "everything" can be twelve thousand lines.** *(Tri-Cities, 2026-08-30
+> — the cluster carried ~4,000 lines per city before the universe repo was even opened, and an
+> undifferentiated "read everything" is unrunnable at that volume.)*
+>
+> **1.** specs / physical facts → **2.** symbol assignment → **3.** composition, census, **and population
+> change across census snapshots** → **4.** founding and events → **5.** the sibling set's differentiation
+> instrument, if one exists → **6.** *last of all*, the location's own completed culture material.
+>
+> **Culture material is read last and read as a CHECK, never as an input** — see the circularity rule in
+> `05` §6.1. A prior pass's *conclusions* about this same location are not evidence about it.
+
 **0.5 Note reserved decisions and what would foreclose them** — and know you will probably find material
 bearing on them anyway. **When you do: write it as a numbered finding, marked reserved**, stating what was
 found, what it would decide, and that it is explicitly not adopted here. **A parenthesis is lost; a reserved
@@ -273,7 +326,7 @@ write both?* Ask what happens to someone it decides **against**, whether that ou
 **whether there is a route back.**
 
 **This fires on inherited material at a very high rate**, because early material is typically written to explain
-how a place *works*, which is a framing that documents the favourable path and stops.
+how a place *works*, which is a framing that documents the favorable path and stops.
 
 # Step 2 — Build the spine
 
@@ -323,7 +376,7 @@ Standing reminders, all of which have their own recorded failure behind them:
 - **A null is a result**, but distinguish *covered in substance, absent in form* from *absent and unexplained*.
 - **General-population discipline throughout.** **Shadow proportion throughout.**
 - **Phase 5 is mandatory and is written mid-spine specifically so it cannot be dropped.**
-- **Push every finding to a physical or behavioural expression.** The violation is usually the gameplay.
+- **Push every finding to a physical or behavioral expression.** The violation is usually the gameplay.
 
 # Step 5 — Reconciliation
 
@@ -334,6 +387,19 @@ claims are about different objects.
 
 **Canon outranks a generator.** State the contradiction and the reconciliation in the text; do not silently pick
 one. **Where it genuinely cannot be reconciled, flag it open.**
+
+> ### The strongest-finding check — run it here, retrospectively
+>
+> **Ask: *which finding in this pass is the strongest, and what does it rest on?***
+>
+> **`01` §5.2 rule 4 forbids building a location's single strongest finding on a provisional assumption about
+> an unwritten parent.** That rule is easy to obey while writing a weak finding and hard to obey when the
+> strong one arrives — **because you do not know which finding is strongest until the pass is nearly done.**
+> Stated at declaration time it is advice; **stated here it is checkable.**
+>
+> *(Tri-Cities, 2026-08-30: the run's best finding — that a city is replaceable because the thing the parent
+> actually needs is a design owned elsewhere — rested entirely on an assumption about a Band-6 parent that has
+> never been written. Caught only because the question was asked at the end.)*
 
 **Translation discipline:** the generator's vocabulary never appears in the location's own claims. Bracketed
 citations only. **Sweep with word boundaries on every alternative and inspect every hit.**
@@ -351,6 +417,30 @@ the substitutes and **say in the pass that you did.**
 
 **Paste raw scan output. Verify the instrument before trusting any zero. Report what Gate 11 cleared as well as
 what it flagged.**
+
+> ### ⚠ Verification is not only about zeros — the dangerous case is a plausible number
+>
+> **Broadened 2026-08-30 after a measured failure.** A census parse indexed the wrong column and reported
+> **robot-only** retention as though it were combined. **It did not error.** It returned 33 plausible rows, a
+> sensible mean, and a sensible spread — **all wrong.** A zero invites suspicion; *a plausible number does
+> not.*
+>
+> **So:**
+> 1. **Before trusting any computed figure, hand-check ONE row against the source.** Print the row, count the
+>    columns, compare the number to the file. **Do this for plausible results especially.**
+> 2. **Verify by spot-check, not by re-reading the logic.** The wrong column survived four readings of the
+>    code and died instantly to one printed row.
+>
+> ### And score every quantitative claim against the full set, never the local group
+>
+> **A difference between two or three locations means nothing until you know how much locations differ in
+> general.** *(Tri-Cities: a human-vs-robot retention gap looked like an excellent finding across three
+> cities; scored against all 33 it sat at z = ±0.4 and was discarded. The combined-retention finding survived
+> at z = −1.26 and z = +1.41.)*
+>
+> **Report the z-score, not the difference.** Without this, **any** small set of locations will appear to
+> differ meaningfully on **any** metric — and a single-location pass needs this more, not less, since it has no
+> siblings to sanity-check against.
 
 # Step 8 — The Review Panel
 

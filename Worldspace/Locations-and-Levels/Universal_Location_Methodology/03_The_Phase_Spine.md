@@ -78,7 +78,7 @@ Stated once here rather than repeated eleven times.
 5. **General-population discipline** (`00b`), **with the Band-1 inversion** from `01` §2.3.
 6. **Shadow proportion** (`00d`): the surface is true, the shadow is also true, and the shadow is a byproduct.
 7. **The player-facing test** (`Cultural_Synthesis_Techniques.md` §0b): push every finding until it has a
-   physical or behavioural expression — **seen, heard, entered, handled, spoken, done, or hooked.** A finding
+   physical or behavioral expression — **seen, heard, entered, handled, spoken, done, or hooked.** A finding
    that can only be read about is weak. **And the violation is usually the gameplay.**
 8. **Run the four-question canon check** (`00_RUNBOOK.md` §E), against the targets in §0.3 below.
    *Does canon already answer this? · Does this contradict canon? · Does this bind anything beyond this
@@ -314,17 +314,56 @@ edge?*
 whom* — it is ***what does each side refuse to develop, and who supplies it instead?*** Relations of this kind
 are feedback loops, not standoffs.
 
-**Five sub-questions, all obligatory:**
+## ⚠ Weighting depends on whether this location actually has neighbors — and usually it does not
+
+**Added 2026-08-30, after the first test run exercised this phase on the most densely-clustered location set in
+the project and mistook a best case for a measurement.**
+
+**Most locations are isolated.** Tepenia's cities sit 100–600 km apart; stations, structures and natural
+features frequently have no peer at all. **A phase written as though every location has close neighbors will
+return thin for the majority case** — so the sub-questions are weighted, not uniform:
+
+| Sub-question | **Isolated location — the majority** | Clustered location — rare |
+|---|---|---|
+| **5a** Peers | **Optional.** Often the honest answer is a *category* ("the coastal cities"), not a name | Mandatory |
+| **5b** Three-way set | **→ use the own-eras substitute below** | Mandatory |
+| **5c** The parent | **PRIMARY — this is where an isolated location's relational content lives** | Mandatory |
+| **5d** Edge & crossing | Mandatory | Mandatory |
+| **5e** Dependency | **PRIMARY** | Mandatory |
+
+**The good news, verified rather than assumed: four of the five sub-questions are peer-free.** 5a's core move
+*(mechanism, not rivalry)* works against a supplier, a parent, or an absent peer just as well as against a
+neighbor — **it never needed a neighbor, it needed a counterparty.** Only 5b genuinely requires siblings.
+
+> **And for an isolated location, "write both directions" has a specific and valuable second half:** very often
+> the honest outward answer is ***nobody out there thinks about this place at all.*** **That is a finding, not
+> a blank.** A location that matters intensely to itself and to nobody else is a specific, common, and
+> characterizing condition — write it.
+
+**Five sub-questions:**
 
 **5a — Peers.** Who is this place set against, adjacent to, in easy affinity with? For each: what flows, in
 which direction, and what does not. **Distinguish the loud friction from the quiet one — the quiet one is
-usually nastier and better material.**
+usually nastier and better material.** *(Optional for isolated locations — see the weighting above.)*
 
 **5b — The three-way differentiation set.** *(The most reusable trick in the district folder.)* This location
-plus its two hardest frictions makes a **natural three-way contrast for any single behaviour category**, because
+plus its two hardest frictions makes a **natural three-way contrast for any single behavior category**, because
 the geometry guarantees they differ on the same axis without overlapping. **Pick the category first, then read
 all three off the geometry** — deriving one location's answer alone tends to produce something generic, because
 there is nothing to differentiate against.
+
+> **⚠ THE SUBSTITUTE, for the majority case where there are no two peers to contrast against.**
+> **This is the only sub-question that genuinely requires siblings**, and a reader reaching it alone previously
+> had nowhere to go.
+>
+> **Run the three-way set against the location's own eras instead of against neighbors:**
+> ***this place at its founding · this place at its crisis · this place now.***
+>
+> **Same procedure — pick one category first, then read all three states off the timeline.** `01` §5.3a already
+> names a location's own earlier states as *"the strongest substitute, usually available"*; **this is where it
+> actually gets used.** It pairs directly with the two-stage lens in `01` §4, and with the *"in its own past"*
+> deficit address in `02` §4.1 — **if the address came back "in its own past," this substitute is not optional;
+> it is the phase.**
 > **The sets are a network, not independent triples.** A location accumulates characterizations from other
 > locations' passes. **Check what this location was already assigned in someone else's set** before writing a
 > new one; where they conflict, the earlier one usually wins because it is already load-bearing.
@@ -343,7 +382,7 @@ local economy, with no announcement and often no awareness that it has happened.
 dependency nobody has named is a shadow; a dependency everyone has named is politics.
 
 **Type variance.** For a **Corridor** and an **Interstitial** location this phase is the primary one and most of
-the content lives here. For a **Vessel**, relation is to *ports* rather than to neighbours, and the finding is
+the content lives here. For a **Vessel**, relation is to *ports* rather than to neighbors, and the finding is
 usually what it is like to have relations with places that do not have a relation with you.
 
 **Failure modes.**
@@ -407,7 +446,7 @@ sanction from Phase 1 per `02` §3.3. **Primary phase for Polity and Installatio
 
 **Four components.**
 
-**7a — Work and economy.** The division of labour; what it makes; what it sends outward. **Include the
+**7a — Work and economy.** The division of labor; what it makes; what it sends outward. **Include the
 non-thematic export** — something ordinary, emotionally neutral, and unrelated to the headline function, which
 proves the economy is real rather than allegorical. **And do not force export into goods** where the real export
 is people or expertise.
@@ -530,7 +569,7 @@ through the theme, not restating it literally.**
 1. **Named places and landmarks** — specific, not institution-types.
 2. **Physical things** — what residents own, use, encounter.
 3. **People as role-archetypes** — **binding rule: no invented proper names.** *"A veteran repair-shop owner,"*
-   *"the neighbourhood's informal mediator."* The developer names these personally once the roles exist.
+   *"the neighborhood's informal mediator."* The developer names these personally once the roles exist.
 4. **Settings** — atmospheric and situational textures distinct from named landmarks: a kind of street corner,
    a recurring situation.
 
@@ -545,7 +584,7 @@ placeholders under the same naming rule).
   top-tier picks get absorbed into a location's identity summary early and spent, while lower tiers sit
   unexamined and still hold unspent specificity.
 - **C.** Organize under the four headings; **name places and things specifically, leave people as roles.**
-- **D.** Check border-adjacency texture where the location abuts a neighbour whose character might bleed across
+- **D.** Check border-adjacency texture where the location abuts a neighbor whose character might bleed across
   — **a real but easy-to-overuse technique; do not force it.**
 
 **Band variance.** **Band 5–6:** delegate to sub-locations; catalog only what is genuinely national. **Band 0:**

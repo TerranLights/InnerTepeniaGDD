@@ -132,7 +132,7 @@ around and cannot fail.** Ranked by how hard each would stress a *different* loa
 | **A single orbital station** | **The enclosed/orbital modifiers, and a location with no siblings** — so all four no-sibling substitutes get exercised at once. |
 | **Concordia's Hub (Axis Mundi)** | **The Interstitial procedure** (`01` §1.3). The district methodology returns *nothing* here — no capability row at all — so if `01` §1.3 also returns nothing, the type is a label rather than a procedure. **This is the single best falsification case available**, and the district folder independently identified the Hub as its own designated falsifier. |
 | **The Tepenian Federation** | **Band 6.** Tests whether the delegate/distribution machinery works or whether the pass silently reverts to writing a very large town. |
-| **A 12-person research station** | **Band 1 and the general-population inversion.** If the pass invents a general population anyway, `01` §2.3 has not actually changed behaviour. |
+| **A 12-person research station** | **Band 1 and the general-population inversion.** If the pass invents a general population anyway, `01` §2.3 has not actually changed behavior. |
 
 **And state the falsification condition before each run, not after.** For each of the four new gates and the
 four-quadrant frame: *what observation would show this does not work?* That question has never been asked in

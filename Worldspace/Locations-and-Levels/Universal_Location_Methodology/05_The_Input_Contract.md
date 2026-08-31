@@ -50,7 +50,7 @@ live.
 | **REQUESTED** | The pass discovers it needs something that does not exist, and **emits a specific request rather than inventing** | "This location's arrival mode is undetermined and Phase 2 cannot run without it" |
 
 **RESERVED is not a weaker form of PROVIDED.** A provided input is missing; a reserved decision is *deliberately
-withheld*, and the correct behaviour differs completely — you stub or block on a missing input, but you **write
+withheld*, and the correct behavior differs completely — you stub or block on a missing input, but you **write
 fully around** a reserved one, per the protocol in `00_RUNBOOK.md` Step 0.5.
 
 **REQUESTED is an output type and should be treated as one.** A pass that ends with three well-formed input
@@ -224,6 +224,29 @@ Run per particular. Five steps, and step 2 is the one that does the work.
 > treats newcomers, in whether it believes its own reputation. **Ask which mix this is**, and note that a place
 > can shift from one to the other across eras without noticing *(which pairs directly with the epistemic-horizon
 > question in §2.1b)*.
+>
+> ### ⚠ And pull and push differ in DURABILITY, not only in direction
+>
+> **Added 2026-08-30 from a measured case, and it is worth more than the argument originally made for this
+> entry.** The reasoning at the time was that attraction is as informative as repulsion. **The stronger fact
+> is that attraction is *reversible* in a way obligation is not:**
+>
+> > **A population assembled by attraction has already demonstrated willingness to relocate for something
+> > better. It will demonstrate it again.**
+>
+> **So ask of any pull location: *what happens here when somewhere more attractive opens?*** Every attachment
+> a pull location offers tends to be **low-switching-cost** — pleasant, genuinely good, and costless to give
+> up. Push locations accumulate **high-switching-cost** attachments — a trade, a claim, an obligation, people
+> who know your business — which are unpleasant and which hold.
+>
+> **The finding this produces is often that a location's greatest strength and its largest structural
+> vulnerability are the same property**, running in two directions. *(Worked case: a city famous for being the
+> place people move to, which retained 61.8% of its population against a 71.9% national mean when migration
+> became possible — third-lowest of thirty-three. The pull that fills it is the pull that emptied it.)*
+>
+> **Cross-check this against G8's census-change technique** (`02` G8) — pull/push predicts retention, and
+> retention is measurable, so **this is one of the few places the methodology can check its own reading against
+> a number.**
 
 ### ⚠ The special case: a known "first," "only," or "last"
 
@@ -283,7 +306,7 @@ under-specify them.
 | **Vessel** | Route and range · crew model · home port · what it carries |
 | **Natural feature** | Physical specification · who holds claim or access · hazard profile |
 | **Network locus** | Topology position · access norms · **where the physical substrate actually sits** |
-| **Interstitial** | The full set it is between · what each neighbour sends it |
+| **Interstitial** | The full set it is between · what each neighbor sends it |
 | ***modifier:* Ruined** | Former state · destruction event · current occupancy · **what physically remains** |
 | ***modifier:* Contested** | Whose account this pass is writing, stated explicitly |
 | ***modifier:* Seasonal** | Both populations, and the handover |
@@ -362,6 +385,44 @@ fail them exactly as easily as a generated one.
 ## 6.1 The circularity rule
 
 > **An input must not be derived from this methodology's own output for the same location.**
+>
+> **GENERALIZED 2026-08-30, after the first test run found the original wording too narrow to catch the
+> commonest case:**
+>
+> ### **An input must not be a prior culture-pass CONCLUSION about the same location — regardless of which
+> methodology produced it.**
+
+**Why the original rule missed this.** It was scoped by *provenance* — "this methodology's own output" — so a
+completed culture pass written by **any other process** slipped straight through. **The defect is identical.**
+Reading a location's finished Cultural Spec Sheet and then "deriving" that location's culture is the district
+folder's *"planting your own seed and then finding it,"* one level up. **The result is perfectly coherent and
+contains no information.**
+
+**This is not hypothetical.** The Tri-Cities carried roughly 4,000 lines of existing canon *per city* —
+32-section spec sheets, Enneagram reads, and a purpose-built differentiation guide. **None of it was this
+methodology's output, so the rule as written permitted all of it as input.**
+
+### The operational split — and it is clean enough to apply without judgement calls
+
+| **ADMISSIBLE as input — attributes** | **INADMISSIBLE as input — conclusions** |
+|---|---|
+| Physical and environmental facts | *"This city's character is X"* |
+| Founding mechanism, date, and circumstance | *"Its temperament reads as Y"* |
+| Function, industry, what it makes | Any prior pass's **capability, personality, or culture** finding |
+| Network position, routes, adjacency | A prior pass's **shape**, **axis**, or **differentiation** claim |
+| Census, composition, **population change** | Anything phrased as an interpretation rather than a fact |
+| Symbol assignment | |
+| Dated events | |
+
+**These are G1–G8. The admissible column is exactly the generator stack, which is the point.**
+
+> **Conclusions are read LAST, and read as a CHECK.** After the pass produces its own findings, compare. **A
+> match is corroboration. A mismatch is a finding site.** Consulted at the start they are contamination;
+> consulted at the end they are evidence.
+
+**And this gives a single-location pass a falsifiable success measure it otherwise lacks:** *did the pass
+produce anything the existing material does not already contain?* **A pass that only reproduces what is
+already written has failed, even if every sentence is true.**
 
 If an outside process writes a founding story *by reading the location's completed culture pass*, and that
 founding story is then fed back in as a Tier 1 generator, **the pass is confirming itself.** The result will be
@@ -422,7 +483,20 @@ Run before Phase 0. **Cheap, and it is the input-side equivalent of Gate 0.**
 **Type-specific:**      [per §2.5 for this type]
 
 **Reserved decisions in force for this pass:**  ...
-**Provenance check:** any input derived from this location's own prior output?  yes/no
+
+**Scope & configuration:**
+- Written:            ALONE (default) / co-written with ... [if co-written, justify per `01` §5.3b]
+- Configuration:      TYPICAL / EXCEPTIONAL — in what way: ...
+                      [if exceptional, name the findings that will depend on the exceptional
+                       property. A pass cannot correct for a bias it has not declared.]
+- Sibling set:        present / NONE — substitutes used: ... [per `01` §5.3a]
+
+**Provenance check:**
+- Any input derived from this location's own prior output?              yes / no
+- **Any input that is a prior culture-pass CONCLUSION about this place?  yes / no**
+  [if yes: remove it. Conclusions are read LAST, as a check — see §6.1]
+- Canon read in the Step 0.4 triage order, culture files last?           yes / no
+
 **Sources that state their own limits:**  [and confirmation those limits were respected]
 
 **Verdict:** proceed / proceed-thin (say why) / BLOCKED (emit requests)

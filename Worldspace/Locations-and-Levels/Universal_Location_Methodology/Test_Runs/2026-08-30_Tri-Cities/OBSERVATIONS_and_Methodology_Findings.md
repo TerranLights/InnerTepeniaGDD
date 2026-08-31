@@ -21,7 +21,7 @@ out to stress a different and arguably more dangerous axis.**
 
 **These three cities are the hardest possible differentiation case in the project:**
 
-- They sit within **8 km** of each other *(Zhongshan and Sinheung a few hundred metres apart)*
+- They sit within **8 km** of each other *(Zhongshan and Sinheung a few hundred meters apart)*
 - **Identical** climate, identical ice-free-oasis terrain, identical Prydz Bay access
 - **One** shared airport, **one** shared highway tri-junction
 - **The same founding mechanism** — a single three-way Jeju-do partition
@@ -48,7 +48,7 @@ These three cities already carry **~12,000 lines** of existing canon each-cluste
 - full 32-section Cultural Spec Sheets per city
 - per-city Enneagram personality reads
 - a **`Tri-Cities_Overlap_and_Distinguishing_Guide.md`** — a purpose-built differentiation instrument with
-  seven overlaps already analysed
+  seven overlaps already analyzed
 
 **None of that is *this methodology's* output — so `05` §6.1 does not technically forbid feeding it in. But
 feeding it in would be exactly the same defect.** Reading Zhongshan's completed culture file and then

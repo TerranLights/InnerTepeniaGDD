@@ -64,7 +64,7 @@ location? **Pick the partner most likely to survive the swap, not a convenient c
 informative if it could plausibly fail. **Record which finding was weakest under the swap**, not merely that the
 set passed. A gate that only ever reports success is not being run honestly.
 
-**Gate 5 — Cross-location consistency.** Export/import coherence against neighbours; **shared-environment
+**Gate 5 — Cross-location consistency.** Export/import coherence against neighbors; **shared-environment
 consequences** (anything vented, emitted, sounded or spilled arrives somewhere); and **new categories are
 legitimate discoveries** — the check is not *does this already exist, use that instead*, it is only *is the new
 thing named and cross-referenced so it enters canon cleanly?*
@@ -102,7 +102,7 @@ it?* Five dispositions: **accepted · noted · rejected · refereed · unmet.**
 **Gate 11 — Plausibility.** The one direction the others cannot look. **Every other gate checks a relation
 between two things already inside the project.** Take the strongest findings and ask, in order: **would a person
 actually do this** · **at this cost, priced in this location's physical conditions** · **for this reason** ·
-and **whose behaviour am I actually describing?**
+and **whose behavior am I actually describing?**
 > **The scale question, which is three of the seven recorded developer catches in one sentence:**
 > **What population, over what span, does my source actually describe — and am I asserting it of a larger one?**
 > **This is the weakest gate on the list and it should be reported as such.** A self-audit runs it with the same
@@ -198,6 +198,28 @@ When a location is written *after* locations it contains:
 ---
 
 # Part III — The differentiation instrument
+
+> **⚠ This entire Part is PEER-REQUIRED — an enhancement, not the core.** Per `00_RUNBOOK.md`, the methodology's
+> unit is **one location**, and **most passes will have no sibling set at all.** A pass without one is not
+> failing this Part; it is running **III.4**, which is the ordinary path. **Do not treat a missing
+> differentiation table as a missing gate.**
+
+## III.0 ⚠ "Noticed somewhere" is not "available where it is needed"
+
+**Added 2026-08-30 from a verified instance.** A differentiation instrument only works if the findings that
+distinguish its members have actually **reached** it.
+
+**The measured case.** Two cities in one three-city cluster were assigned **the same planetary symbol**. The
+collision *was* noticed — recorded in one city's robot-culture file, correctly, months earlier. **But the
+cluster's own purpose-built differentiation guide contained zero mentions of symbols, planets, or elements.**
+The one file whose entire job was keeping those three cities apart did not know.
+
+> **So, when a differentiation instrument exists, check that it is current:**
+> 1. **Has anything been established about these locations since the instrument was last updated?** Symbol
+>    assignments, census revisions, founding corrections, and renames are the usual stragglers.
+> 2. **A finding recorded in a file nobody consults during differentiation is not doing differentiation work.**
+> 3. **Propagation is part of the finding, not a follow-up.** Per Step 9, the column goes in **the same
+>    commit** — and so does anything discovered about a *sibling* along the way.
 
 ## III.1 What it is
 

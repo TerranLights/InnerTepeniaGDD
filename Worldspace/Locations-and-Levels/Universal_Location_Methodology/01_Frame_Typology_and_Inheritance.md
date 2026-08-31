@@ -73,8 +73,8 @@ attributes will return null on it.** That is not a failure of the location; it i
 **Do not treat a null generator return as a thin location.** Run this instead:
 
 1. **Name what it is between.** Not one thing — the full set. An interstitial place is defined by a
-   *neighbourhood*, and the set's shape is the first finding.
-2. **Ask what each neighbour exports to it that the neighbour cannot keep.** Interstitial places receive
+   *neighborhood*, and the set's shape is the first finding.
+2. **Ask what each neighbor exports to it that the neighbor cannot keep.** Interstitial places receive
    overflow: people, goods, disputes, and traffic that have nowhere else to be. **What arrives here because it
    failed to stay somewhere else?**
 3. **Ask what the place refuses to become.** An interstitial location that acquires a strong identity stops
@@ -124,7 +124,7 @@ passing through.
 
 Below thirty people, **everything is witnessed**. Nobody can do anything unobserved, so there is no private
 sphere, no unnoticed deviance, and no shadow in the `00d` sense — a shadow requires that residents not perceive
-it, and at this scale they perceive everything. **Above it, the first genuinely unwatched behaviour becomes
+it, and at this scale they perceive everything. **Above it, the first genuinely unwatched behavior becomes
 possible**, and with it the first real counterculture.
 
 ### Threshold 2→3 — institutions separate from persons
@@ -137,7 +137,7 @@ methodology applicable at all.**
 ### Threshold 3→4 — internal differentiation becomes mandatory
 
 Above roughly fifty thousand, **"what is the food here" stops having a single answer**, and a pass that gives
-one is describing a neighbourhood and calling it a city. Above this threshold a location **must** be decomposed
+one is describing a neighborhood and calling it a city. Above this threshold a location **must** be decomposed
 into sub-locations, each of which gets its own pass, and the parent's pass covers only what is genuinely shared
 plus the *pattern of variation*.
 
@@ -272,7 +272,7 @@ parent determines, or treating as inherited something the location actually orig
 | Class | What it means | The error it prevents |
 |---|---|---|
 | **Determined** | Fixed by the parent; the location has no say. Climate, currency, the calendar, the language family, physical law | **Writing a local variant of a thing that cannot vary.** A district does not have its own climate. If the pass produced one, the pass is wrong. |
-| **Inflected** | The parent supplies the form; the location supplies its version. A national holiday, observed *this* way | **This is where most good local culture actually lives**, and a pass that skips it in favour of wholly-invented material is working harder for a worse result. |
+| **Inflected** | The parent supplies the form; the location supplies its version. A national holiday, observed *this* way | **This is where most good local culture actually lives**, and a pass that skips it in favor of wholly-invented material is working harder for a worse result. |
 | **Originated** | Exists here, comes from nowhere above. Must be differentiated against siblings | **Claiming origination for something inherited** — which is how two siblings end up "independently" inventing the same custom. |
 | **Aggregated** | The parent's own character is partly the sum or the tension of its children | Ignoring it produces a Band 5–6 polity written as if it were a large Band 3 town. |
 
@@ -307,32 +307,65 @@ excluded from that pass for exactly this reason. **A methodology that assumes to
 written, **its pass must reconcile against its children's registered assumptions** — and where it contradicts
 one, it must say so and name the child findings that need revision. This is Gate P in `04`.
 
-## 5.3 The sibling set — and the case where there isn't one
+## 5.3 The sibling set — an enhancement, not a prerequisite
 
-The differentiation instrument (`04`) needs a comparison set. Sibling sets vary enormously:
+> **⚠ RESTRUCTURED 2026-08-30 at the developer's direction.** An earlier version of this section presented
+> sibling comparison as normal and "no siblings" as an edge case needing substitutes. **That ordering is
+> backwards in practice and taught the wrong instinct.**
+>
+> **The methodology's unit is ONE location, start to finish** *(`00_RUNBOOK.md`, "The unit is one location")*.
+> **A pass with no sibling set is the ordinary case, not a degraded one.** The entire spine — the generator
+> stack, the four-quadrant frame, the peer-free half of the address axis, the pairing typology, the named-axis
+> discipline — **never needed a second location.** Only the *anti-convergence guard* does, and a guard is not a
+> generator.
+>
+> **So read the rest of this section in that order:** §5.3a is the default path. §5.3b applies only when
+> siblings exist **and are already written.**
+
+### 5.3a — The default: one location, no comparison set
+
+**The anti-convergence guard must come from somewhere**, because a location with nothing pushing back is at
+**elevated risk of reading like the author's defaults.** Four substitutes, in order of strength:
+
+1. **Its own earlier states.** A location with a history is its own sibling set across time. Differentiate the
+   present frame against the founding frame and the crisis frame. **The strongest substitute, usually
+   available, and the one to reach for first.** *(It is also Phase 5b's substitute — see `03`.)*
+2. **The nearest analogous location at a different scale.** A unique station against the cities; a unique
+   polity against its own subnets.
+3. **Real-world comparables**, via `Real-World_Basis_Extrapolation_Method.md` — **divergence stated
+   explicitly**, per the source-not-specification rule.
+4. **The generator-conflict method** (`02` §5) — **which needs no comparison set at all, and is the reason
+   this methodology runs three generators rather than one.**
+
+**Say in the pass which substitutes were used.** An unstated substitute reads to a later reader as an
+un-run check.
+
+### 5.3b — When a sibling set does exist
+
+Sibling sets vary enormously:
 
 | Situation | Example | The differentiation strategy |
 |---|---|---|
 | **Large set** | 35 outer cities | Full table; check the most recently written first *(collisions cluster on the previous pass — `00c` Gate 6b)* |
 | **Small set** | 6 subnets, 13 districts | Full table, and expect every pair to be compared |
-| **Set of two** | A mirrored pair | **Write them together.** The district methodology's Virgo/Pisces pairing rule generalizes: two locations holding one faculty at opposite extremes are each other's exact remedy and must not be written a month apart. |
-| **No siblings** | Amundsen Station · the Federation · a unique megastructure | **See below — this is a real gap the district methodology never faced.** |
+| **Set of two** | A mirrored pair | **May be written together** — the district methodology's Virgo/Pisces pairing rule: two locations holding one faculty at opposite extremes are each other's exact remedy and should not be written a month apart. **See the warning below before using this.** |
+| **No siblings** | Amundsen Station · the Federation · a unique megastructure | **Use §5.3a.** This is the ordinary case. |
 
-**When a location has no siblings, the anti-convergence guard must come from somewhere else**, because the
-differentiation table cannot run. Four substitutes, in order of strength:
-
-1. **Its own earlier states.** A location with a long history is its own sibling set across time. Differentiate
-   the present frame against the founding frame and the crisis frame. *(This is the strongest substitute and it
-   is usually available.)*
-2. **The nearest analogous location at a different scale.** A unique station differentiates against the cities;
-   a unique polity against its own subnets.
-3. **Real-world comparables**, via `Real-World_Basis_Extrapolation_Method.md` — and here the divergence has to
-   be stated explicitly, per the source-not-specification rule.
-4. **The generator-conflict method** (`02` §5) — which does not need a sibling set at all, and is the reason
-   the universal methodology runs three generators rather than one.
-
-**A location with no siblings is at elevated risk of reading like the author's defaults**, precisely because
-nothing is pushing back. Say so in the pass, and run substitute 1 without fail.
+> ### ⚠ A co-write is an exception and must be declared as one
+>
+> **The "write them together" permission is narrow, and it has already been over-used.** The first test run of
+> this methodology *(Tri-Cities, 2026-08-30)* extended it from a mirrored **pair** to a designed **three**, and
+> produced a pass in which **nearly every headline finding was unavailable to a normal single-location pass** —
+> without noticing, because nothing in the procedure asked.
+>
+> **Before co-writing anything:**
+> 1. **Declare it as exceptional**, per the typicality line in `00_RUNBOOK.md` and `05` §7.
+> 2. **Name which findings depend on the co-write**, so a later reader can tell which technique transfers.
+> 3. **Confirm the locations are genuinely a mirrored set** — sharing a region is not sharing a faculty at
+>    opposite extremes.
+>
+> **Default to separate passes.** Two locations written separately and then differentiated is the normal
+> procedure; writing them as one document is the exception that must earn itself.
 
 ## 5.4 Children — what a location owes the locations inside it
 
@@ -364,7 +397,12 @@ Goes at the head of every pass, before any content.
                      If it straddles a major event, say which side this pass is on.]
 **Parent:**          <what contains it>   [written? / unwritten — see provisional assumptions below]
 **Children:**        <what it contains>   [or: none]
-**Sibling set:**     <the comparison set>   [or: none — substitute used: <which>]
+**Sibling set:**     <the comparison set>   [or: none — substitutes used: <which, per §5.3a>]
+**Written:**         ALONE (default)  /  co-written with <what>  [if co-written: justify, per §5.3b]
+**Configuration:**   TYPICAL  /  EXCEPTIONAL — in what way: ...
+                     [if exceptional, list the findings that depend on the exceptional property,
+                      so a later reader can tell which technique transfers. A pass cannot correct
+                      for a bias it has not declared.]
 
 **Provisional assumptions about the parent:**
 1. ...

@@ -148,6 +148,29 @@ Its two techniques are already written: **Borrowed Form** (who arrived carrying 
 the **Population Share Check**. Read it for *named portable institutions*, never for percentages — the
 composition data in this project is explicitly weighted relative ranking, not census.
 
+> ### ⚠ Third technique, added 2026-08-30 — read the CHANGE, not just the composition
+>
+> **A composition file is a snapshot. Two snapshots are a generator.** Where a setting has population figures
+> at more than one date, **compute what the location retained** — and this turns out to be one of the most
+> productive peer-free instruments available, precisely because it is arithmetic rather than interpretive.
+>
+> **Why it belongs to G8 rather than G6:** retention is not an *event*, it is a *disposition made visible by*
+> an event. The same shock applied to twenty locations produces twenty different retention figures, and **the
+> differences are the characterization.**
+>
+> **Three rules, all learned the hard way:**
+> 1. **Score against the full set, never the local group** — report the **z-score**. A gap between two or three
+>    locations means nothing until you know how much locations differ in general.
+> 2. **Establish what the snapshots actually measure before interpreting them.** A drop can be deaths,
+>    departures, boundary changes, or a methodology change. *(In this project, Census I → II is **pre-war
+>    migration**, not war loss — and the census file says so explicitly, in a line easy to skim past.)*
+> 3. **Hand-check one row against the source table before trusting any computed figure** *(`00_RUNBOOK.md`
+>    Step 7)*.
+>
+> **What it yields:** who left when leaving became possible, **which is a far sharper question than who lives
+> here** — and it pairs directly with the pull/push distinction in `05` §2.4, since a population assembled by
+> attraction is a population that has already demonstrated willingness to move.
+
 ---
 
 # 3. The capability frame — four quadrants
@@ -252,16 +275,40 @@ most important anti-convergence device in the method:**
 *what is the deficit* but ***where does the thing that would fix it live***, because that determines whether the
 location can perceive its own deficit at all.
 
+**Split into two groups 2026-08-30, because the distinction decides whether a single-location pass can run the
+axis at all.** Per `00_RUNBOOK.md`, the unit is one location — so **run the peer-free set first, always**, and
+reach for the peer-required set only when canon actually supplies a named counterparty.
+
+### PEER-FREE — available to every pass, with or without siblings
+
 | Address | Consequence |
 |---|---|
 | **Diffuse** — nowhere in particular | No counterparty, no politics, **no grievance ever forms.** Produces drift. |
+| **In its own past** | The location **used to be able to do this and lost the capacity.** The remedy is historical, not geographical. Produces a characteristic nostalgia that is *factually correct*, which is rare and rich. **The district set could not generate this case** — thirteen districts of uniform age — but cities, polities and anything Declining produce it often. **See the evidence check below.** |
+| **In the parent** | The remedy exists only at a scale above this one, so reaching it means admitting the location cannot manage itself. **Produces under-reporting**, which is a shadow with no author. |
+| **Nowhere at all** | Genuinely unremediable. **Rare, and must be earned** — most apparent cases are actually "in its own past" or "diffuse." |
+
+> #### ⚠ "In its own past" — check whether the EVIDENCE is also in the past
+> **Added 2026-08-30 from a measured case.** It is not enough to note that the capacity is historical. **Ask
+> separately: are the people who could name this deficit still here?**
+>
+> **Where the deficit was produced by an exodus, the witnesses are the ones who left**, and the remaining
+> population consists entirely of people for whom the place still works. **Such a location cannot diagnose
+> itself** — not from denial, but because its evidence has physically departed. **The nostalgia is then not
+> merely factually correct but epistemically unchallengeable**, and no internal reform can originate.
+>
+> *(Worked case: a city that lost 38% of its population to migration, retained its drawing reputation, and
+> continues to attract newcomers to a scene at 62% of the strength that made it famous.)*
+
+### PEER-REQUIRED — only when a named counterparty exists and is written
+
+| Address | Consequence |
+|---|---|
 | **Single address** | A name, a location, a permanent grievance. **A grievance is a relationship that can eventually be acted on** — this is the *best* case. |
 | **Multiply addressed** | **Worse, counter-intuitively.** Three suppliers and receipt from none reads as being well-connected, so **no deficit is ever perceived.** Abundance of options reads as abundance of supply. **A count above one should raise suspicion, not reassurance.** |
 | **Reciprocal** | Each holds exactly what the other lacks. **The most stuck**, because there is no asymmetry and therefore no petitioner — neither side can ask without conceding the whole axis. |
 | **Across an antagonism** | **Worse than diffuse.** The location can see precisely where the remedy is and cannot reach it, and what fills the gap is projection. |
-| **In its own past** *(new)* | The location **used to be able to do this and lost the capacity.** No sibling holds the remedy; the remedy is historical. Produces a characteristic nostalgia that is *factually correct*, which is rare and rich. **The district set could not generate this case** — thirteen districts of uniform age and stable institutional history — but cities, polities and anything Declining will produce it often. |
-| **In the parent** | The remedy exists but only at a scale above this one, so accessing it means admitting the location cannot manage itself. **Produces under-reporting**, which is a shadow with no author. |
-| **Nowhere at all** | Genuinely unremediable. **Rare, and must be earned** — most apparent cases are actually "in its own past" or "diffuse." |
+| **Adjacent but unaskable** *(new, 2026-08-30)* | The remedy is **nearby, identified, reachable, and on friendly terms** — and the location's own social mechanism forbids the asking. **Worse than across an antagonism**, because an antagonism can at least be named and resented; here the barrier is internal and **presents as courtesy**, so no grievance forms and no petition is ever made. **Requires a close neighbor plus a norm against inquiry — genuinely uncommon. Do not reach for it.** |
 
 **Ask not only where a deficit lives but what stands between.** Being addressed is not enough; the
 *relationship type* decides whether the supply line functions at all.
@@ -343,6 +390,30 @@ because it is the one thing a designer would never have invented.
 particular system, because it is not knowable in advance what symbol sets a future location or project will use.
 **So symbol systems are registered, not built in.**
 
+> ## ⚠ 6.0 — READ THE MEMBER FROM THE FILE. NEVER FROM THE NAME.
+>
+> **Added 2026-08-30 after this error inverted an entire capability reading**, and it is placed first because
+> it costs one minute and can wreck a whole pass.
+>
+> **A registered symbol's meaning is whatever its file says it is** — not what the name means in the tradition
+> you happen to know. **This project's planetary symbols are derived from astronomy, not astrology**, and
+> several will actively mislead anyone who assumes otherwise.
+>
+> **The worked example.** Traditional astrological **Saturn** means structure, limit, discipline, time. **This
+> project's Saturn is nothing of the kind:**
+>
+> > *One word: **Mystery.** Summary: **doesn't care to be fully known.** Positive: **beauty built from
+> > fragments rather than requiring wholeness.** Negative: **held together only loosely — a structure with no
+> > actual cohesion, one disruption away from simply dispersing. Impressive from a distance, insubstantial up
+> > close.***
+>
+> Derived from real Saturn facts: **the rings are debris, not solid; it is the least dense planet and would
+> float.** A pass reading "Saturn = structure" would have produced the **precise opposite** of the intended
+> reading — and would have been internally coherent while doing it.
+>
+> **So: open the file, read the member's actual terms, and quote them into the pass.** Familiarity with a
+> symbol's name is not knowledge of its registered content.
+
 ## 6.1 Registration schema
 
 Any symbol system used as a generator declares:
@@ -355,7 +426,7 @@ Any symbol system used as a generator declares:
 | **Term structure** | How many attributes per member, and what kind | Decides whether shapes are readable |
 | **Structured absences?** | Do some members lack terms others have? | **The single most important field** — see §6.2 |
 | **Cross-relations?** | Are members defined against each other? | Decides whether the system can generate inter-location geometry |
-| **Exhaustion behaviour** | What happens when locations outnumber members | |
+| **Exhaustion behavior** | What happens when locations outnumber members | |
 | **Reuse policy** | Is repetition allowed, deliberate, or forbidden? | |
 | **Valence structure** | Positive/negative? Neutral? Graded? | |
 

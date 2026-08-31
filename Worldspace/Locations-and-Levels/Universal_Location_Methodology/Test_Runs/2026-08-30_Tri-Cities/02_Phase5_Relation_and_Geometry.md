@@ -4,7 +4,7 @@
 
 **Why this phase was run next, out of order.** `03` §0 restores Phase 5 because its absence at district scale
 was *measured* — a completed district file mentioning its own opposite district zero times. **A cluster of
-three cities eight kilometres apart is the sharpest available test of whether the restoration was worth
+three cities eight kilometers apart is the sharpest available test of whether the restoration was worth
 making.** If Phase 5 produces nothing here, it produces nothing anywhere.
 
 **The core move, per `03`:** *write a relation as a mechanism, not a rivalry.* Never *who dislikes whom* —
@@ -19,7 +19,7 @@ direction.** All three pairs below are written in both directions.
 
 ## Zhongshan ↔ Sinheung — an asymmetric non-relationship at extreme proximity
 
-**A few hundred metres apart. Effectively no exchange.**
+**A few hundred meters apart. Effectively no exchange.**
 
 - **What Zhongshan refuses to develop:** any stake in fabrication. Sinheung's raw materials cross **Zhongshan's
   own tri-junction** and Zhongshan takes nothing from them. *(Canon records the fact — Overlap 7. The physical
@@ -47,8 +47,8 @@ correction is recorded rather than quietly absorbed. Sinheung's own spec sheet c
 > **The capability frame states it as a supply relationship that cannot complete.**
 >
 > **Sinheung's standing cost is being witnessed** — output *is* legitimacy, and legitimacy requires an
-> observer. **Zhongshan's standing cost is teaching every generation not to look.** They are neighbours at a
-> few hundred metres, and **Zhongshan is structurally incapable of supplying the one thing Sinheung most
+> observer. **Zhongshan's standing cost is teaching every generation not to look.** They are neighbors at a
+> few hundred meters, and **Zhongshan is structurally incapable of supplying the one thing Sinheung most
 > needs** — not from coldness, but because not-looking is the discipline holding eighteen national communities
 > together *(Phase 1, Finding Z-1)*.
 >
@@ -60,7 +60,7 @@ correction is recorded rather than quietly absorbed. Sinheung's own spec sheet c
 
 **Third order:** this is why Sinheung ships nationwide rather than locally. **A city that needs witnesses and
 lives beside one that will not look must find its audience further away** — and the Federation-wide chamber
-distribution is, read this way, not only an industry but a solution to a neighbour problem.
+distribution is, read this way, not only an industry but a solution to a neighbor problem.
 
 ## Zhongshan ↔ Shirayuki — reciprocal, and therefore the most stuck
 
@@ -81,7 +81,7 @@ neither side can ask without conceding the whole axis."** This pair is a clean i
 
 > **Proposed Finding R-2.** The two cities in the cluster that could most directly repair each other are the
 > two with the least possible conversation, and the obstacle is not hostility — **it is that the question
-> itself is the admission.** Eight kilometres, one highway, one airport, and an unaskable question in each
+> itself is the admission.** Eight kilometers, one highway, one airport, and an unaskable question in each
 > direction.
 
 ## Sinheung ↔ Shirayuki — the same symbol at two different stages
@@ -101,7 +101,7 @@ two.
 - Shirayuki cannot adopt Sinheung's friction, because **the friction is the thing it was founded to not be.**
   Its founding gift was ground nobody contested.
 
-> **Proposed Finding R-3.** Each is a live demonstration of the other's road not taken, eight kilometres away,
+> **Proposed Finding R-3.** Each is a live demonstration of the other's road not taken, eight kilometers away,
 > continuously visible, and **useless to both** — because what each would have to learn is the thing that would
 > unmake it.
 
@@ -254,7 +254,7 @@ the two the run rates highest *(R-4, the replaceability gap; R-1, the witness/no
 
 **Three specific mechanics earned their place:**
 1. **"Mechanism, not rivalry"** prevented the obvious wrong output. The tempting write-up — *three proud
-   neighbouring cities with national rivalries* — is generic, and canon explicitly warns the cluster's weight
+   neighboring cities with national rivalries* — is generic, and canon explicitly warns the cluster's weight
    is diplomatic rather than a rivalry. **The mechanism framing produced non-rivalrous relations that are
    nonetheless painful.**
 2. **"Write both directions"** produced R-1, which exists *only* in the asymmetry: Sinheung's need and

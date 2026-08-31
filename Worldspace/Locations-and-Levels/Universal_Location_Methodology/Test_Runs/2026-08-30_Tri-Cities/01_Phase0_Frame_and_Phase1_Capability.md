@@ -77,11 +77,11 @@ authority; the dual assignment is live and productive, and §1.4 below turns on 
 
 **`01` §2 requires both bands and says the divergence is a finding.** All three are **Band 4 by population**
 (~0.7–1.3M) and **Band 3 by extent** — three cities of roughly a million people each, sharing a **34 km²**
-ice-free oasis, within **8 km**, two of them **a few hundred metres apart.**
+ice-free oasis, within **8 km**, two of them **a few hundred meters apart.**
 
 > **Proposed: this is among the densest inhabited ground in Tepenia, and none of the three cities' files treat
 > density as a fact about their culture.** Band 4 demands mandatory internal differentiation (`01` §2.2,
-> threshold 3→4). **Nothing in the three files decomposes any of them into neighbourhoods.**
+> threshold 3→4). **Nothing in the three files decomposes any of them into neighborhoods.**
 > **Recorded as a null with a reason: the input material is written at Band 3 for Band 4 populations.**
 
 ## 0.3 Generators available and selected
@@ -119,13 +119,13 @@ fragments rather than requiring wholeness"* · *"held together only loosely — 
 | **STRENGTH** | **Work that requires no explanation.** Precision manufacture and a craft tradition that is its own justification. It is trusted with things that must simply be correct. [G1 Metal-positive; G2 the only city of the three with its own food supply] |
 | **DEFICIT** | **Cohesion — and the inability to notice it.** 64% of Zhongshan is not Chinese; its entire public identity is. Eighteen national communities present as one thing *from a distance*. [G8 + G1 Saturn-negative] |
 | **STANDING COST** | **Teaching every generation not to ask.** The non-prying norm is not a mood; it is maintenance, paid continuously by everyone, and invisible as work. **What fails first if it lapses for a week: somebody asks, and the fragments become visible.** |
-| **GRUDGING TOLERANCE** | **Keeping your own heritage.** Nobody forbids it. There is no public venue for it, nobody enquires, and the entire cost falls on you. **Read in-world not as a cost but as a private choice** — which is precisely `00d`'s authorless, unenforced, unnoticed harm. |
+| **GRUDGING TOLERANCE** | **Keeping your own heritage.** Nobody forbids it. There is no public venue for it, nobody inquires, and the entire cost falls on you. **Read in-world not as a cost but as a private choice** — which is precisely `00d`'s authorless, unenforced, unnoticed harm. |
 
 ### The three-generator comparison — all three agree, so build hard *(`02` §5.2)*
 
 | | G1 Symbol | G8 Composition | G2 Physical |
 |---|---|---|---|
-| Says | Metal's **emotion is grief**; excess Metal = *"isolation through over-refinement — cutting away so much it severs real connection"* | 18 nations, one public face; the largest gap in the cluster between *who lives here* and *whose city this is* | Bedrock + its own fishery = **the only city of the three that does not need its neighbours** |
+| Says | Metal's **emotion is grief**; excess Metal = *"isolation through over-refinement — cutting away so much it severs real connection"* | 18 nations, one public face; the largest gap in the cluster between *who lives here* and *whose city this is* | Bedrock + its own fishery = **the only city of the three that does not need its neighbors** |
 | Verdict | **agree** | **agree** | **agree** |
 
 > **Proposed Finding Z-1 — the quiet is not contentment.**
@@ -199,7 +199,7 @@ people want in rather than the reason they stay out.**
 | Quadrant | Reading |
 |---|---|
 | **STRENGTH** | **Converting difference into draw.** Alone among the three it makes its outlier status *attractive.* Schools that pull students from across Tepenia *"for the culture and soul of the place, not academic ranking."* |
-| **DEFICIT** | **Retention — and this one is measured, not inferred.** 61.8% orbital-era retention, **z = −1.26, third lowest of 33 cities**, against Sinheung's 83.1% eight kilometres away. |
+| **DEFICIT** | **Retention — and this one is measured, not inferred.** 61.8% orbital-era retention, **z = −1.26, third lowest of 33 cities**, against Sinheung's 83.1% eight kilometers away. |
 | **STANDING COST** | **Being worth coming to.** A reputation is not owned; it is re-earned every generation. **What fails first if it lapses: nothing visible — which is why nobody is watching it.** |
 | **GRUDGING TOLERANCE** | **Living here without making anything.** The civic identity *is* a shared creative language; someone outside it has no route in. **The city famous for being easy to like is hardest on the person who does not like what it likes.** |
 
@@ -219,7 +219,7 @@ Per `02` §5.3 — *do not ask which is right; ask what single property produces
 
 **Third order — why it is structurally unfixable here:** every attachment Shirayuki offers is a
 **low-switching-cost** attachment. Art, schools, ease of friendship, an outdoor gallery — all genuinely good,
-all costless to give up. **Sinheung's are all high-cost**: a trade, a plant, a claim, and neighbours who know
+all costless to give up. **Sinheung's are all high-cost**: a trade, a plant, a claim, and neighbors who know
 your business. **Shirayuki optimized entirely for arrival and never built anything that hurts to leave.**
 
 **Fourth order — and this is where it stops resembling anywhere else:** the city still draws students
