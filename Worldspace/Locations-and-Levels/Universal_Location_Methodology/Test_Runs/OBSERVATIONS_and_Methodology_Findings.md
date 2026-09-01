@@ -2349,3 +2349,199 @@ the pick, not after — this session's own error was treating "this exact locati
 run" as sufficient grounds for expecting a clean cold read, when the correct check is "has anything with
 authority over this location's own generator inputs already been written."
 
+---
+
+# M-82 — A required-reading RULE FILE itself carried an un-manifested worked example, and it was the exact
+location this session was running cold
+
+**Found 2026-08-31, Run 11 (Sanay Maritime Shipping Port), during the mandatory pre-Phase-0 read of
+`02_Generators_Capability_and_Symbols.md`.** Per `RESUME_HERE.md` §3a item 2 / `00_RUNBOOK.md`'s own
+`06_Worked_Example_Provenance.md` check, this session grepped that manifest for "sanay" before opening any
+of `00`-`05`/`00f` — zero hits, correctly interpreted as "no known worked example to route around." **The
+manifest was wrong.** `02` §6.3 (the pairing-relation typology) states Sanay's own symbol assignment and its
+derived rationale outright, as a worked example: *"Sanay — Jupiter (dominance, gathering) + Electromagnetism
+(invisible bonds, signal, transmission). Orthogonal to complementary — one describes weight, one describes
+reach — and it holds the Arcanet nexus, where the two registers meet exactly."* The second half is exactly
+the "rationale" content `05` §6.1c already names as inadmissible. **This is required reading for every ULM
+pass, on every location, and it was never checked against the manifest that exists specifically to catch
+this.**
+
+**Why the standard check missed it.** `06_Worked_Example_Provenance.md`'s manifest was evidently built once
+and not swept for every subsequent worked example added to `01`-`05`/`00f` as the methodology grew — `02`
+§6.3's own Sanay/Kunlun/Davis worked-example table was added as illustrative material for the pairing-relation
+typology, not flagged at the time as a location-naming worked example requiring a manifest entry. **The
+defect is structural, not this session's own oversight**: the manifest's coverage depends on every future rule
+edit remembering to register itself, and nothing enforces that.
+
+**Impact and mitigation.** G1 (symbol) removed from this pass's selected generators. The exposure itself was
+narrowed using a new technique — see M-83.
+
+**Recommendation, not yet actioned:** `06_Worked_Example_Provenance.md` needs a full sweep of `01`-`05`/`00f`
+for any location name appearing in worked-example prose (not just formally headed "Worked Example" sections),
+since `02` §6.3's table was exactly this kind of unflagged instance.
+
+---
+
+# M-83 — Line/character-level admissibility cuts generalize `05` §6.1a's column-anchoring rule from tables
+to prose, and are now written into the methodology
+
+**Found and implemented 2026-08-31, Run 11, developer-directed** (given directly while `00_Frame_and_
+PreFlight.md` was being written, in response to the M-82 contamination event above). `05` §6.1a already
+anchors row-level table mixing to specific pipe-delimited COLUMNS, so that a bare-name search does not expose
+an inadmissible field sitting beside an admissible one in the same table row. **The developer's observation:
+the identical logic generalizes to prose, at LINE and CHARACTER granularity, once a mixed passage has already
+been read in full** — which is the normal case for a required-reading rule file, since prose (unlike a table)
+is rarely worth pre-filtering line-by-line before the first read. Citing the EXACT admissible line range and
+the EXACT inadmissible line range separately converts an unbounded contamination claim ("this session now
+knows Sanay's symbol pairing") into a precisely bounded one ("line 562 — the member pair — is admissible;
+lines 563-564 — the pairing-relation verdict and its Arcanet-nexus tie — are not").
+
+**Worked case, this run's own M-82 event:** `02_Generators_Capability_and_Symbols.md` line 562
+(`Sanay — Jupiter (...) + Electromagnetism (...)`) is the admissible member pair (with a caveat — its
+parenthetical glosses have not been independently cross-checked against `Planetary_Symbols.md`/
+`Robot_Elementals.md`'s own entries, per `02` §6.0's own read-from-the-file rule); lines 563-564
+(`*Orthogonal to complementary*... it holds the Arcanet nexus, where the two registers meet exactly`) are the
+confirmed inadmissible scope of the exposure. Because this pass's own declared subject excludes the Arcanet
+nexus by scope (§0 of `00_Frame_and_PreFlight.md`), the practically relevant exposure is narrower still than
+the line-level cut alone shows — but the line-level cut is what made that narrowing possible to state with any
+precision.
+
+**Implemented directly in the rule file, not left standing only here**: `05_The_Input_Contract.md` §6.1a now
+carries this as a named sub-rule immediately after the existing column-anchoring note, with instructions for
+using it when preparing a cold-run prep/admissibility-map document (the same convention the Sanay Shipyard
+prep document already uses for Specs-tier line ranges, now explicitly extended to required-reading rule files,
+which had not previously been treated as needing this level of pre-mapping.
+
+---
+
+# M-84 — Band 0 ("Uninhabited") conflates RESIDENCY with PROCEDURE, and an actively-staffed Installation
+exposes the gap
+
+**Found and self-corrected 2026-08-31, Run 11 (Sanay Maritime Shipping Port), during Phase 1's population/
+extent density check.** This run's own Frame Declaration initially declared Population band 0 for the port
+(nobody resides there, by the developer's own port-only scope ruling) and, by extension, assumed `01` §2.4's
+Band 0 procedure applied — Surviving Witness promoted to primary instrument, content written in past tense,
+"who is here temporarily" replacing "what do residents do daily."
+
+**Why this was wrong, caught before it propagated into any phase content.** `01` §2.4's Band 0 procedure is
+written throughout for a *ruin*: building stock, tool wear, an inventory that doesn't balance — testimony left
+behind by people no longer present. The Sanay port is not a ruin. It is an actively operating Installation with
+continuously present rotating dock crews — exactly `01` §1.1's own defining property of the Installation type,
+"staffed rather than settled." **Band 0 as currently written conflates two genuinely different conditions:
+zero RESIDENTS, and zero people PRESENT AT ALL.** An Installation can have the former without the latter, and
+the existing band table has no slot for that combination — it silently assumes they are the same fact.
+
+**What changed it.** Attempting the population/extent density check (`02` §5.1 point 6) directly surfaced the
+mismatch: dividing zero residents by the port's extent produces a meaningless zero, when what actually needed
+checking was the WORKING population's own density against the site — a different, meaningful number the
+current band framework does not ask for.
+
+**The correction adopted this run:** declare 0 for residency specifically (still accurate, and still an honest
+scope artifact of the port-only ruling — see this run's own Frame Declaration §1), but run phase-level
+PROCEDURE at Band-1-equivalent (named-individual-scale analysis, `01` §2.3's Band 1 substitute rule) rather
+than the Band 0 ruin procedure, since the location has a real, present, workable-scale population even though
+none of them live there.
+
+**Not implemented into `01` this session — flagged for developer review rather than forced in**, since it
+touches Mountain Pass Airport's own Run 10 retroactively: that run left "population magnitude/staffing model"
+as a REQUESTED item rather than declaring a band at all, which in hindsight may have been the same gap
+surfacing as an unresolved question rather than a wrong answer. **Recommendation for a future methodology
+session:** `01` §2 likely needs a named case — "staffed, unsettled, non-ruined" — distinct from both Band 0
+(ruin/testimony) and Band 1 (residents who live there), since the Installation type's own defining property
+("staffed rather than settled") describes exactly this condition and currently has no band that fits it
+cleanly.
+
+---
+
+# M-85 — A cold-run PREP DOCUMENT'S OWN DESCRIPTIVE SECTION carried quoted conclusion-tier fragments, and this
+session's own Phase 3 finding brushed uncomfortably close to one
+
+**Found 2026-08-31, Run 11, while drafting Phase 3 (Surface & Texture).** `SanayShipyard_ColdRun_Prep_
+2026-08-31.md` — the mandatory required-reading document for this run, built by a prior session specifically
+to prevent contamination — states in its own "not a virgin location" descriptive section (not its 22-step
+line-ranged reading sequence, which is the part actually meant to be followed) that the withheld
+`Sanay_Community_Infrastructure.md` characterizes the Trade Yard as *"a Guangzhou-Canton-System bounded-contact
+zone"* and Sanay as holding *"'function over sentiment'... as a defended civic value with a stated unequal
+cost."* **This session read that descriptive section in full, as required, before Phase 0 began** — it is not
+part of the reading sequence's own admissible line ranges, but it is part of the document as a whole, which
+`RESUME_HERE.md` itself instructs a fresh session to "read... first, and follow its own sequence below."
+
+**The actual exposure risk, caught rather than ignored.** Phase 3's own independently-derived finding — that
+the Trade Yard reads as a formally bounded, protocol-governed zone, reinforced by this run's own fresh G7
+research into Rotterdam/Durban/Guangzhou's real cargo-type differentiation — sits close enough in shape to the
+withheld "Guangzhou-Canton-System bounded-contact zone" characterization that it cannot honestly be reported
+as clean, independent convergence. **The underlying admissible fact (the Trade Yard's "physically demarcated...
+bounded protocols," `Sanay_Physical_Infrastructure_Attributes.md` item 4) and the G7 research are both
+genuinely independent and admissible** — the risk is specifically that this session's OWN INTERPRETIVE FRAMING
+of that fact was primed by a summary of the withheld conclusion before the finding was drafted, not that the
+finding is fabricated or the underlying fact is inadmissible.
+
+**Why the standard prep-document convention did not prevent this.** The prep document's own stated purpose is
+"this document is not a finding about the shipyard. It classifies sources; it does not draw conclusions from
+them" — but classifying WHY a source is dangerous necessarily requires quoting or paraphrasing enough of its
+content to demonstrate the danger, and that quoted material is itself then read by whoever the document is
+briefing. **This is a structural tension in the prep-document convention itself**, not a drafting error in this
+specific document: a prep document thorough enough to justify its own quarantine boundaries is, by that same
+thoroughness, a vector for exactly the exposure it exists to prevent, in miniature.
+
+**Action taken.** Flagged inline in `01_Phase1_Constraint_and_Capability.md`'s Trade-Yard-adjacent finding (via
+Phase 3's own note) as corroboration-weight only, not independent-derivation weight, to be treated accordingly
+when Gate 6 opens the withheld material. The phrase "function over sentiment" itself has been deliberately
+avoided throughout this run's own Phase 6 (Meaning) drafting, in favor of independently-derived language
+("never refuse at the point of contact"), specifically to avoid laundering the withheld phrase into this pass
+as if freshly derived.
+
+**Recommendation, not yet actioned:** future prep documents for pre-conclused sub-locations should consider
+applying the M-83 line/character-anchoring technique to THEIR OWN descriptive sections, not only to the
+original source files — i.e., a prep document's "why this location is dangerous" section should itself be
+written with enough restraint (naming the general SHAPE of a withheld conclusion without quoting its most
+specific, most reusable phrasing) that a session reading the prep document in full is not handed the same
+specific language it is meant to independently rediscover or avoid.
+
+---
+
+# M-86 — SEVEN of twelve independent Zodiac Lens signs converged on the same institutional shape, exceeding
+every prior convergence this methodology has produced
+
+**Found 2026-08-31, Run 11 (Sanay Maritime Shipping Port), Phase 10's Zodiac Lens cross-sign synthesis.**
+Twelve independent, non-`fork`, self-contained agents — Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra,
+Scorpio, Sagittarius, Capricorn, Aquarius, Pisces — each briefed with this run's own established character
+(Phases 0-10) and one sign's own registered file, with explicit instructions never to reference Concordia's
+own application of the signs and no visibility into each other's work, ran the base Zodiac Lens technique.
+
+**Seven of the twelve — Taurus, Gemini, Virgo, Sagittarius, Capricorn, Scorpio, Aquarius — independently
+converged on an identical two-part institutional shape**: this port runs on exactly one written authority (a
+manual inherited from a defunct founding institution, never formally revised) and exactly one living
+authority (peer-taught workaround knowledge, never formalized), with nothing anywhere reconciling the two.
+Each sign reached this through its own genuinely distinct registered material — Taurus's "first-impression
+lock" shadow, Gemini's Jupiter-in-detriment ("can retrieve anything and rank nothing"), Virgo's
+Mercury-as-scribe "unsigned work" core need, Sagittarius's core need for "a warrant to believe something...
+external and written down," Capricorn's own Pricus myth (resetting to a configuration that no longer holds
+rather than revising it), Scorpio's "authority without visibility," and Aquarius's Saturn/Uranus split
+explicitly naming the codified and improvising registers as "the same person, not two factions." **Full
+detail and per-sign citations in `Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/11_Zodiac_
+Lens.md`.**
+
+**This exceeds every prior convergence this methodology has produced.** Janbogo Run 9's six-sign convergence
+(M-71) was the first instance of this evidence class; Mountain Pass Airport Run 10's seven-sign
+chamber-departure convergence (M-76) matched it at seven. **This is the first convergence to reach seven
+signs on a genuinely NEW, more specific finding than the location's own Phase 1 had already produced** — Phase
+1's G4 generator (physical/founding/network-position) had already found "self-taught knowledge, no external
+institution" as a capability-frame deficit; the Zodiac Lens convergence sharpens this into a specific,
+previously-undiscovered MECHANISM (two parallel, non-communicating knowledge systems, one written and static,
+one oral and living, with no reconciliation point) that none of Phase 1's three generators derived on their
+own. **The convergence did not merely corroborate an existing finding — it produced a new one**, which is a
+stronger result than either Janbogo's or Mountain Pass Airport's prior benchmark convergences, both of which
+corroborated findings already present elsewhere in their own runs.
+
+**A second, independent convergence in the same run** (six of twelve signs — Aries, Taurus, Cancer, Virgo,
+Sagittarius, Capricorn — on the port's own established veteran-status mechanism, each through a genuinely
+different registered lens) is recorded in the same file as further evidence that this run's own Phase 5d
+finding (Membership by Unremarked Persistence) is genuinely load-bearing, not merely a plausible technique
+application.
+
+**Recommendation:** this run's own headline convergence should be considered for the same kind of promotion
+Sinheung Run 5's "Sinheung Standard" (M-42) received — a developer-synthesized connection across independently
+derived findings, worth naming and potentially promoting into this location's own eventual canon, once this
+pass's findings are reviewed.
+

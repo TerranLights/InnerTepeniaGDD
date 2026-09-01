@@ -442,6 +442,30 @@ point.** **Column 3 exists because the first two assume a claim stays where it w
 >    > fields of a markdown table row) **rather than searching by name alone.** Splitting the file (rule 2)
 >    > remains the fix for whole-section mixing; column-anchored extraction is the fix for row-level mixing,
 >    > and the two should not be confused.
+>    >
+>    > **⚠ The prose case — the same cut, at LINE and CHARACTER granularity instead of a table column.**
+>    > *(Added 2026-08-31, Sanay Shipyard Run 11, developer-directed.)* Not every mixed source is a table.
+>    > A required-reading rule file's own worked-examples prose can carry the identical defect: one line stating
+>    > an admissible fact (a symbol assignment's member pair) immediately followed by a line or two of
+>    > inadmissible rationale (the pairing's capability verdict), with no table structure to anchor a column
+>    > extraction against. **The technique generalizes: once a mixed passage has already been read in full
+>    > (unavoidable — prose, unlike a table, is rarely worth line-by-line pre-filtering before the first read),
+>    > cite the EXACT admissible line range and the EXACT inadmissible line range separately, rather than
+>    > quarantining the whole passage by association.** This does not prevent the exposure — the passage is
+>    > already read by the time the cut is drawn — but it converts "this session now knows this location's
+>    > symbol-pairing conclusion" into a precisely bounded claim: which specific line(s) carried the admissible
+>    > member-pair fact, and which specific line(s) carried the inadmissible verdict, so a later reader (or the
+>    > same session, recording its own contamination event) can state the actual scope of what leaked rather
+>    > than over- or under-stating it. **Worked case:** `02_Generators_Capability_and_Symbols.md` §6.3's own
+>    > Sanay worked example — line 562 (`Sanay — Jupiter (...) + Electromagnetism (...)`) is the admissible
+>    > member pair; lines 563-564 (`*Orthogonal to complementary*... it holds the Arcanet nexus, where the two
+>    > registers meet exactly`) are the inadmissible pairing-relation verdict PLUS a location-specific finding.
+>    > **Practical use, for anyone preparing a cold-run prep/admissibility-map document (per the Sanay Shipyard
+>    > prep document's own precedent):** where a source is prose rather than a table, cite the source as
+>    > `File.md :: Line N` (admissible) and `File.md :: Lines N+1-M` (inadmissible) explicitly, the same way
+>    > the prep document's own line-ranged reading sequence already does for Specs-tier files — this is that
+>    > same discipline, extended to REQUIRED-READING RULE FILES themselves, which had not previously been
+>    > treated as a source needing this level of pre-mapping because they were assumed categorically safe.
 > 3. **Build a quarantine list by RULE, not by RECALL.** Apply the content split above section by section.
 >    **A list assembled from memory is written by the one person who has already read everything, and a
 >    document you have already read does not announce itself as contaminating.** This is the circularity rule

@@ -1,11 +1,74 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
-**✅ RUN 10 COMPLETE — 2026-08-31. Mountain Pass Airport, cold, all eleven phases / sixteen gates / full
-Zodiac Lens family (all twelve signs) / Review Panel. First Installation-type location run under this
-methodology.** Full writeup: `Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` (15 files). **Chosen
-per the developer's own request that one of the type-diversity runs be an airport** — Mountain Pass Airport
-was selected over Belgrano Airfield and Machu Picchu Airport specifically because it carries no prior
-Settlement identity to contaminate an Installation-type read.
+> **⚠ DEPRIORITIZED 2026-09-01 — read `Dev-Road-Map/Weekly_To-Do_-_Current.md`'s "🔴🔴🔴 THE GOVERNING PRIORITY
+> SEQUENCE" before resuming this file's own work.** The type-diversity phase below is downgraded from Top to
+> Long-Term Priority. The developer's new sequence is: (1) architect/confirm the canon-gap-acquisition
+> mechanism (`Worldspace/Canon_Gap_Resolution_Method/`), (2) use it to gather what the cities actually need
+> (Cape Adare named as the concrete starting case, 14 gaps already triaged), in parallel with (3) build the
+> orbital infrastructure's own logistics/architecture (Second Interwar + post-Long Night War), then (4)
+> populate city specs with real, lived-in human and robot cultures. **This file's own content below is
+> unchanged and still accurate** for whenever the type-diversity phase is resumed — it is just not the next
+> thing to pick up.
+
+**✅ RUN 11 COMPLETE — 2026-08-31. The Sanay Maritime Shipping Port, cold, all eleven phases / sixteen gates /
+base Zodiac Lens family (all twelve signs) / Review Panel.** Full writeup: `Test_Runs/2026-08-31_
+SanayMaritimeShippingPort_Run11_Cold/` (15 files) plus a dedicated research log. **Chosen per direct developer
+instruction, not the default** — `RESUME_HERE.md`'s own standing guidance names the six still-untested Types
+as the default pick absent a specific instruction otherwise; the developer gave one, naming the Sanay
+Shipyard specifically and scoping it to "exactly the maritime shipping port." **This is a second
+Installation-type data point (after Mountain Pass Airport, Run 10), not new-Type coverage** —
+the six untested Types (Polity, Structure, Vessel, Natural feature, Network locus, Interstitial) remain the
+standing priority for the next session, unchanged by this run.
+
+- **Two developer-directed scope decisions, confirmed before Phase 0 rather than assumed**: (1) the subject is
+  the port STRICTLY (Shipyard Complex, Trade Yard, dockside ops) — the adjacent Arcanet nexus, trucking
+  depots, business district, and residential areas are excluded as neighbors, not part of the location; (2)
+  temporal frame is the pre-war Second Interwar Period baseline, per `01` §4.1's neutral-frame default, not
+  Sanay's current post-war "damaged" status.
+- ⭐⭐ **Headline finding: SEVEN of twelve independent Zodiac Lens signs converged on an institutional shape no
+  single generator had derived** — the port runs on exactly one written authority (an unrevised inherited
+  manual) and exactly one living authority (peer-taught workaround knowledge), with nothing reconciling the
+  two. **Exceeds every prior convergence this methodology has produced** (Janbogo's six-sign M-71, Mountain
+  Pass Airport's seven-sign M-76) by being the first to produce a genuinely NEW finding rather than
+  corroborate an existing one. Logged as **M-86**. A second six-sign convergence (the veteran/new membership
+  axis) and a five-sign convergence (the schedule-protecting counterculture) are recorded in the same run.
+- ⭐ **A structural gap in the quarantine system itself was found and fixed**: `02_Generators_Capability_and_
+  Symbols.md` §6.3's own worked-examples table had cited Sanay's symbol pairing and its inadmissible rationale
+  since before this run, and `06_Worked_Example_Provenance.md` never flagged it — this session was exposed to
+  it as required pre-Phase-1 reading (**M-82**). Fixed two ways: a new line/character-anchoring mitigation
+  technique, implemented directly into `05_The_Input_Contract.md` §6.1a (**M-83**), and a retroactive manifest
+  entry for Sanay (`06`, added this session) so no future session hits the same gap. **A second, related
+  exposure** — the prior session's own cold-run prep document quoting withheld-file conclusion fragments in
+  its *descriptive* section (not its safe line-ranged reading sequence) — is recorded as **M-85**, with a
+  recommendation that future prep documents apply the same line-anchoring restraint to their own framing prose.
+- **A genuine methodology gap found and self-corrected mid-pass**: Band 0 ("Uninhabited") conflates zero
+  RESIDENTS with zero people PRESENT AT ALL — this run's own Installation had a real, continuously-present
+  rotating WORKING population despite having no residents, which the Band 0 ruin/testimony procedure does not
+  fit. Corrected to Band-1-equivalent procedure for this run; flagged as **M-84** for developer review rather
+  than forced into `01` §2, since it may retroactively affect how Mountain Pass Airport's own still-open
+  population/staffing REQUESTED item should be read.
+- **Gate 6, run against the withheld Sanay material at Step 7, found genuine new content** (the manual/
+  workaround mechanism, the veteran/new axis, The Long Grade, the counterculture's dual structure — none
+  present in the existing 32-section culture sheet) **and one confirmed scope-correctness result** (the
+  withheld file's own Music section places the answer exactly where this run's own scope excluded it,
+  validating rather than contradicting the port-only boundary). **One convergence is explicitly flagged as
+  corroboration-weight only, not blind convergence**, given this run's own M-85 exposure — an honesty discipline
+  worth carrying to any future run that reads a prep document's descriptive framing before Phase 0.
+- **Review Panel found a genuine new REQUESTED item downstream of this run's own headline finding**: what
+  happens to a long-serving worker who ages out of rotation-capable labor is completely open, surfaced by the
+  Elder position and independently corroborated by the Ruler position from an opposed standpoint (Gate 9's own
+  asymmetry catch on the veteran-threshold mechanism, confirmed from two directions).
+- **Six REQUESTED items remain genuinely open**, named in `15_Step9_Record_and_Step10_Readiness.md`: exact
+  shipping-season dates, a formal weather-safety-refusal rule (vs. purely informal), specific slang/jargon,
+  most music/art content (reasoned nulls, not gaps), the aged-out-worker question, and Belgrano's own culture
+  (needed to fully confirm the Neighbor casting and complete the Gate 4 swap test).
+
+> **⭐ The developer's own verdict on this run, recorded verbatim per this file's own standing practice of
+> capturing developer reactions in full rather than paraphrased:** *"these results have been absolutely
+> exemplary."* **Read alongside Run 10's own verdict above** (the second consecutive Installation-type run to
+> draw this reaction) — two data points now, not one, on whether the instrument generalizes past Settlement-
+> shaped problems. Still governed by the same standing pacing instruction: confirmation is not permission to
+> skip the six remaining untested Types.
 
 - ⭐ **The neutral-frame law (`01` §4.1) had a real, load-bearing consequence for subject selection itself,
   not just for framing an already-chosen subject** (M-74): Mountain Pass Airport was initially scoped as
@@ -62,15 +125,14 @@ Settlement identity to contaminate an Installation-type read.
 > cleanly at a section header**, and should be considered standard practice for any location where a first
 > read already found a mixed file, not just for Sanay specifically.
 
-> **⚠ Choosing the next session's subject: two live options, not one.** (1) **The Sanay Shipyard**, using the
-> prep document above — a genuine Installation-type location, but the *third* one, not new-Type coverage
-> (Mountain Pass Airport was the second; Vostok's own dual-type case is still a fourth candidate if wanted).
-> Low setup cost since the admissibility work is already done. (2) **One of the six still-untested Types**
-> (Polity, Structure, Vessel, Natural feature, Network locus, Interstitial) — the developer's own stated
-> priority for signing off on full production use. **Absent a specific developer instruction otherwise, (2)
-> is the default** — the Sanay Shipyard is available whenever a session wants a lower-setup-cost run or a
-> second Installation data point for contrast, but it does not advance the actual thing the developer said
-> they're waiting on.
+> **✅ RESOLVED 2026-08-31 — the Sanay Shipyard option above was taken, at direct developer instruction, as
+> Run 11** (see the top of this file). The prep document's own line-ranged reading sequence was followed
+> literally and produced a complete, clean pass. **Choosing the NEXT session's subject reverts to the plain
+> default: one of the six still-untested Types** (Polity, Structure, Vessel, Natural feature, Network locus,
+> Interstitial) — the developer's own stated priority for signing off on full production use, and now the
+> only live option absent a further specific instruction otherwise. Vostok's own Settlement+Installation
+> dual-type case remains available as a third Installation data point if a future session specifically wants
+> one, but it is not the default either.
 
 > **⭐ The developer's own verdict on this run, given mid-run, before the tooling incident was even fully
 > resolved — recorded verbatim, per this file's own standing practice of capturing developer reactions in
@@ -96,9 +158,10 @@ previous work, which is the entire point.**
 > ## ⚠ The axis has changed. Every prior run varied INPUT RICHNESS on the same Type (Settlement, plus one
 > Corridor). This phase varies TYPE itself.
 >
-> **Seven locations have been run under this methodology so far — Zhongshan (×2), Sinheung, Cape Adare, and
-> Janbogo are all Settlement type; Highway 37 is the only Corridor; Mountain Pass Airport (Run 10) is the
-> first and only Installation.** Of `01_Frame_Typology_and_Inheritance.md` §1.1's nine primary types
+> **Eight locations have been run under this methodology so far — Zhongshan (×2), Sinheung, Cape Adare, and
+> Janbogo are all Settlement type; Highway 37 is the only Corridor; Mountain Pass Airport (Run 10) and the
+> Sanay Maritime Shipping Port (Run 11) are both Installation.** Of `01_Frame_Typology_and_Inheritance.md`
+> §1.1's nine primary types
 > (Settlement, Polity, Installation, Corridor, Structure, Vessel, Natural feature, Network locus,
 > Interstitial), **six remain completely untested**: Polity, Structure, Vessel, Natural feature, Network
 > locus, Interstitial. **See §2 — this is now the whole point of the next several runs**, not a footnote to
@@ -265,7 +328,7 @@ strongest available subject for it.**
 | Type | Tested? | Candidate subject(s), from this methodology's own worked examples (`01` §1.1) or general canon | Notes |
 |---|---|---|---|
 | **Polity** | Untested | The Tepenian Federation itself (Band 6) — the worked example `01` §1.1 names directly; or, at a more tractable scale, a single subnet (e.g., the Janbogo Subnet or Mirny Subnet) treated as a Polity in its own right | The Federation is a huge, ambitious pick — Band 6, delegate-heavy, largely maintenance-mechanism material (`01` §2.2). A subnet-as-Polity may be a gentler first Polity test; state the choice and reasoning explicitly either way. |
-| **Installation** | **✅ TESTED — Run 10, Mountain Pass Airport, 2026-08-31.** Vostok's own Settlement+Installation dual-type case remains untested and is still available as a second, structurally different Installation subject if a future session wants one (Mountain Pass Airport's own Configuration is EXCEPTIONAL in four ways — see its Frame Declaration — so a second, more typical Installation run would be genuinely informative). | A research/scientific station not yet built out as a full Settlement — check `City_Types_Reference.md` and the outer-city roster for a station still primarily staffed rather than settled | Mountain Pass Airport (Run 10) used the joint Vostok-Kunlun chamber-manufacturing outpost on Hwy 37 — no prior Settlement identity, clean Installation-type read, but atypical in being dual-founder rather than single-institution. |
+| **Installation** | **✅ TESTED TWICE — Run 10 (Mountain Pass Airport, 2026-08-31) and Run 11 (the Sanay Maritime Shipping Port, 2026-08-31).** Vostok's own Settlement+Installation dual-type case remains untested and is still available as a third, structurally different Installation subject if a future session wants one. | A research/scientific station not yet built out as a full Settlement — check `City_Types_Reference.md` and the outer-city roster for a station still primarily staffed rather than settled | Mountain Pass Airport (Run 10): dual-founder, virgin location, extreme isolation. The Sanay port (Run 11): single-parent, richly-preconclused parent, embedded-in-a-major-city — genuinely opposite Configuration from Run 10 on almost every axis, per that run's own Frame Declaration. |
 | **Structure** | Untested | **Amundsen Tower** (ruined, modifier per `01` §1.1's own worked example — "Formerly Structure + Installation") | Strong candidate: already named as the type's worked example, already has real canon (`World_History_Reference.md`'s own detailed section, the Long Night War's central catastrophe), and is Band 0 (uninhabited/ruined) — a genuinely different band from every prior run, testing `01` §2.4's Band 0 procedure for the first time too. |
 | **Vessel** | Untested | Not yet identified in existing canon — check `City_Types_Reference.md` and `Worldspace/` for any ship, convoy-flagship, or mobile installation with enough established material to run cold | Genuinely the hardest of the seven to find a subject for; may require the Canon Gap Resolution Method to establish a subject before this methodology can run on one at all. Flag rather than force if nothing sufficiently developed exists. |
 | **Natural feature** | Untested | A specific named glacier, ice shelf, mountain, or the Ross Ice Shelf / a specific polynya considered as a location in its own right, distinct from any city built near it | Check `Reference-Images/Maps/` and existing geographic canon for a natural feature with enough established specificity (not just "the ice sheet" generically) to run against. |

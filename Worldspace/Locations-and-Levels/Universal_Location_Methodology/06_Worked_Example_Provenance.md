@@ -232,4 +232,26 @@ re-run.
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-74 through M-80** | This run's own neutral-frame catch, the chamber-departure and governance-vacuum convergences in full, the Gate I Independence Day catch, and the Type-fidelity result |
 | `Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` | **all of it** | Mountain Pass Airport's complete Phase 0-10 content, the full Zodiac Lens (all twelve signs), all sixteen gates, and the full Review Panel |
 
+## Sanay (and the Sanay Maritime Shipping Port specifically) — added 2026-08-31 from Run 11 *(cold, complete —
+all eleven phases, sixteen gates, Review Panel, base Zodiac Lens; the first pass on a NAMED SUB-LOCATION whose
+parent is a fully-developed Settlement)*
+
+**A future cold pass on Sanay, the Sanay Shipyard/Maritime Shipping Port, or any other named sub-location of
+Sanay must skip the example content in the rows below.** The rules stand without them.
+
+> ### ⚠ This entry closes a real gap this run itself found (M-82), not merely adds a new one
+> **`02_Generators_Capability_and_Symbols.md` §6.3's pairing-relation worked-examples table has cited Sanay's
+> own symbol assignment — Jupiter + Electromagnetism, "orthogonal to complementary... it holds the Arcanet
+> nexus" — since before this run, and it was NEVER manifested here.** Run 11 discovered this the hard way,
+> reading it as required pre-Phase-1 material with no manifest entry to warn it off. **This row is therefore
+> retroactive** — the example predates Run 11, but the manifest omission does not, and it is fixed now.
+
+| File | Section | What the example reveals about Sanay |
+|---|---|---|
+| `02_Generators_Capability_and_Symbols.md` | **§6.3**, the pairing-relation worked-examples table | Sanay's own symbol pair (Jupiter + Electromagnetism) and its derived rationale ("orthogonal to complementary... holds the Arcanet nexus, where the two registers meet exactly") — **pre-existing content, not added by Run 11; the manifest gap it exposed is what Run 11 found and fixed (M-82)** |
+| `05_The_Input_Contract.md` | **§6.1a**, the line/character-anchoring sub-rule (M-83) | Cites the exact line numbers of `02` §6.3's Sanay example (line 562 admissible, lines 563-564 inadmissible) as its own worked case |
+| `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-82 through M-86** | This run's two contamination events (the `02` §6.3 exposure; the prep document's own descriptive-section exposure), the line-anchoring mitigation technique, the Band-0-vs-presence self-correction, and the seven-sign Zodiac Lens convergence on the port's manual/workaround dual-authority mechanism, all in full |
+| `Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md` | **the descriptive "not a virgin location" section specifically** (NOT its own 22-step line-ranged reading sequence, which remains safe and is the intended path) | Quotes withheld-file conclusion fragments directly — "a Guangzhou-Canton-System bounded-contact zone," "'function over sentiment'... a defended civic value" — flagged as M-85; **a future session should follow this document's own numbered reading sequence, never its descriptive framing prose, if picking up Sanay again** |
+| `Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/` | **all of it** | The port's complete Phase 0-10 content, all sixteen gates, the full base Zodiac Lens (all twelve signs) with its cross-sign synthesis, and the full Review Panel |
+
 ## *(Add further locations here as they are absorbed into the methodology.)*

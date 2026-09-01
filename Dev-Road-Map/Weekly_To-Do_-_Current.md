@@ -8,6 +8,140 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+# ✅ RUN 11 COMPLETE — 2026-08-31. The Sanay Maritime Shipping Port, cold, all eleven phases / sixteen gates /
+base Zodiac Lens (all twelve signs) / Review Panel.
+
+**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/`
+(15 files) plus a dedicated research log. **Taken at direct developer instruction** — the Sanay Shipyard prep
+option flagged after Run 10, scoped to "exactly the maritime shipping port," not the wider city or its
+adjacent Arcanet nexus/business district/residential areas. A second Installation-type data point (after
+Mountain Pass Airport, Run 10), not new-Type coverage — **the six untested Types remain the standing priority
+for the next session.**
+
+- ⭐⭐ **Headline finding: seven of twelve independent Zodiac Lens signs converged on a genuinely new
+  institutional mechanism** — the port runs on exactly one written authority (an unrevised inherited manual)
+  and exactly one living authority (peer-taught workaround knowledge), with nothing reconciling the two.
+  **Exceeds every prior convergence this methodology has produced**, and is the first to produce a new finding
+  rather than corroborate an existing one. Logged as M-86.
+- ⭐ **A real gap in the quarantine system itself was found and fixed**: a required-reading rule file
+  (`02_Generators_Capability_and_Symbols.md`) had quoted Sanay's own symbol-pairing conclusion since before
+  this run, un-flagged in the worked-example manifest meant to catch exactly this. Fixed two ways — a new
+  line/character-anchoring mitigation technique implemented into `05_The_Input_Contract.md` (M-83), and a
+  retroactive manifest entry for Sanay (M-82).
+- **A genuine methodology gap self-corrected mid-pass**: Band 0 ("Uninhabited") conflates zero residents with
+  zero people present — this Installation has real, continuously-present rotating staff despite no residents,
+  which the ruin/testimony Band-0 procedure doesn't fit. Flagged as M-84 for developer review; may
+  retroactively affect how Mountain Pass Airport's own open population/staffing question should be read.
+- **Gate 6, run against the withheld 32-section Sanay culture sheet, found genuine new content** (the manual/
+  workaround mechanism, the veteran/new membership axis, none present in existing material) and one confirmed
+  scope-correctness result (a null this run recorded for Music matches exactly where the withheld material
+  places the answer — outside this run's own declared scope).
+- **Full detail, all five new M-numbers (M-82 through M-86), and the six remaining REQUESTED items**: see
+  `15_Step9_Record_and_Step10_Readiness.md` in the run's own output folder.
+
+---
+
+# 🔍 FULL-CORPUS GRAPHIFY REBUILD — 2026-09-01. Leads worth a look, not yet triaged.
+
+**`/graphify .` rerun across the entire 2,995-file corpus** (10,221 nodes, 15,242 edges, 1,356 communities).
+Full outputs in `graphify-out/` (`graph.html`, `GRAPH_REPORT.md`, `graph.json`). The items below are the
+graph's own flags — cross-file links and unresolved edges the developer hadn't necessarily connected by hand.
+**Not triaged against the Governing Priority Sequence below; read opportunistically, don't let this jump the
+queue.**
+
+**Surprising Connections** (semantically-similar or referenced pairs the graph surfaced on its own):
+- `Concordia City Color-Coded Map by District` ↔ `Concordia City Main Quest Trajectory Map` — semantically
+  similar (an image map and the HTML quest-trajectory map).
+- `Dome Fuji (City)` ↔ `Distinguishing Overlapping Profiles` — a Dome Fuji concept-art image linked to the
+  cross-district Enneagram comparison doc.
+- `Shirayuki` ↔ `Sinheung` — semantically similar (both Mirny subnet).
+- `Lazar` → `Belgrano Highway Extension (2611-2614)` — EXTRACTED reference from the Halley-subnet Lazar sheet
+  to the Antarctica highway map.
+- `Hwy 59 - Atlantic Throughway (Arcanet Connection Line)` ↔ `Michelle Stanton (Built the Arcanet)` —
+  semantically similar.
+
+**Suggested Questions** (AMBIGUOUS-confidence edges the graph flagged as worth resolving by hand):
+- What is the exact relationship between `Sinheung` and `Janbogo`?
+- What is the exact relationship between `Brother/Sister Ilkay` and `The Decision to Stop Sending Humans Up
+  (vignette)`?
+- What is the exact relationship between `Shirayuki Suggestion #11 'One of the Ones Who Left'` and `Ayako
+  Hayashi (pre-Concordia origin candidacy)`? — flagged as the single most interesting one: it crosses from a
+  Mirny-subnet city suggestion doc into the Ayako Hayashi origin-candidate pipeline.
+- What is the exact relationship between `Argentine Air Force Base (1969, dormant)` and `2564 Exile Founding
+  Flight`?
+- What is the exact relationship between `Favi della Torre` and `Narrative Ghost (Trait)`?
+- What is the exact relationship between `BG3 Target Category Triage (6 Outcomes)` and `Condition/Status
+  Effect Mapping — Open Gap`?
+
+---
+
+# 🔴🔴🔴 THE GOVERNING PRIORITY SEQUENCE — set 2026-09-01, supersedes everything below until changed
+
+**Developer instruction, 2026-09-01.** The Universal Location Methodology (ULM) type-diversity phase — the
+prior top priority — **is downgraded to Long-Term Priority**, effective now. Its own entry further down this
+file is marked accordingly; it is not abandoned, just no longer the thing the next several sessions should
+default to. **The new sequence, in this order:**
+
+### Stage 1 — Architect the mechanism to procure currently-unavailable, necessary information
+
+**Very likely already substantially built, not starting from zero**: `Worldspace/Canon_Gap_Resolution_
+Method/` (9 files: `00_RUNBOOK.md`, `00_Design_Proposal.md`, `01_Intake_and_Triage.md`,
+`02_Acquisition_Paths.md`, `03_Deposit_Discipline.md`, `04_Verification_Gates.md`,
+`Developer_Ruling_Queue.md`, `Gap_Registry.md`, `Resolution_Log.md`, plus `Test_Runs/`) — built 2026-08-31,
+specifically as "the project's separate system for *acquiring* canon that does not exist yet, as distinct
+from the synthesis methodologies that consume canon." Seven acquisition paths, three governing laws (LAW A —
+an open gap is not a defect; LAW B — where a fact lands matters as much as whether it is true; LAW C — the
+method is not its test cases), and a greppable conclusion-tier marker already validated on one real ruling
+(DRQ-03, same-day). **The next session's first job is to confirm whether this system is actually complete and
+ready to run at scale, or whether "architecting the mechanism" means extending/hardening it further** — read
+`00_RUNBOOK.md` and `00_Design_Proposal.md` first and make that call explicitly rather than assuming either
+way.
+
+### Stage 2 — Use the mechanism to gather what the cities actually need
+
+**A live, ready-to-run starting point already exists**: 14 LIVE gaps are triaged and waiting in
+`Canon_Gap_Resolution_Method/Test_Runs/2026-08-31_Seed_CapeAdare_and_Highway37.md`, and 3 rulings are queued
+in `Developer_Ruling_Queue.md`. **Cape Adare is the developer's own named example of a city genuinely short on
+base-level information** — it has the highest TBD-density of all 35 outer cities (11 in its own Specs file
+alone, per the Universal Location Methodology's own Run 7 selection criteria). Scope is not limited to Cape
+Adare — every city with real, load-bearing gaps should go through this stage — but Cape Adare is the concrete
+place to start, since its gaps are already triaged and waiting.
+
+### Stage 3 — IN PARALLEL with Stage 2 — orbital infrastructure logistics and architecture
+
+**Build and develop the logistics/architecture of orbital infrastructure**, covering both the **Second
+Interwar Period** (pre-war, active construction/operation) and the **post-Long Night War** period (whatever
+state it's actually in after the war). **This is close to a genuine from-scratch build, not a gap-fill** —
+checked 2026-09-01: `Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/` and
+`Neo-Races-and-Cultures/Orbital_Cryptograph_Helix_Era/` are both currently empty stub folders (a bare
+`README.md` each). **What already exists to build from**: `Theoretical-Calculations/Orbital_Infrastructure_
+Mass_Budget.md`, `to-be-integrated/Conversation with Grok - theoretical logistics for orbital
+infrastructure.rtf` (staging-tier, not yet promoted), the `[[project_orbital_infrastructure_stages]]` memory
+(3-stage build already sketched, tilt cause still open), and `Theoretical-Calculations/Amundsen_Tower_Space_
+Fountain_Design.md` (the construction-logistics model orbital infrastructure presumably connects to).
+**Real, already-flagged dependency**: `[[project_orbital_composition]]` — who actually lives there — is
+explicitly reserved as a high-token task for a dedicated fresh session; this stage can define the
+logistics/architecture without it, but a full orbital *culture* pass (Stage 4, for orbital locations
+specifically) is gated on it.
+
+### Stage 4 — AFTER Stages 1-3 are done — populate the city specs with real, lived-in cultures
+
+**Human and robot both**, per the developer's own framing. This is the actual Local_Cultures/Local_Robot_
+Culture full-population work across the 35 outer cities (most currently have Specs/census/physical-
+infrastructure material but not a complete lived culture write-up) — the `City_Megasheet_Compilation_Guide.md`
+pipeline and `Local_Cultures/CITY_CULTURE_TEMPLATE.md`'s 32-section template are the existing instruments for
+this. **Deliberately sequenced last**: doing this before Stages 1-3 means writing culture on top of gaps
+(exactly the failure the Canon Gap Resolution Method exists to prevent) and without the orbital infrastructure
+context that at least some cities' own economies/logistics depend on.
+
+**Standing note on the ULM's own place in this sequence**: the ULM is a *synthesis* instrument (it consumes
+canon and produces culture from it) — Stage 4 is presumably where it gets used again, once Stages 1-3 have
+supplied it with real input rather than gaps. Its own type-diversity testing phase (the six untested Types)
+remains real, valuable work, just no longer the thing to default to next — see its entry under Long-Term
+Priority below.
+
+---
+
 # ✅ RUN 3 COMPLETE — 2026-08-30. Zhongshan taken through the entire instrument, cold.
 
 **The first time anything in this project has been through the complete Universal Location Methodology:
@@ -378,7 +512,17 @@ framing.
 
 ---
 
-# 🔴 TOP IMMEDIATE — TYPE-DIVERSITY PHASE: a handful of new location test runs, one per untested Type
+# ⬇ DOWNGRADED TO LONG-TERM PRIORITY, 2026-09-01 — TYPE-DIVERSITY PHASE: a handful of new location test runs,
+one per untested Type
+
+**No longer the top priority.** See "🔴🔴🔴 THE GOVERNING PRIORITY SEQUENCE" near the top of this file for
+what supersedes it (canon-gap acquisition → city info-gathering, in parallel with orbital infrastructure →
+full city culture population). **This section's own content is unchanged and still accurate** — the six
+untested Types (Polity, Structure, Vessel, Natural feature, Network locus, Interstitial) remain real,
+valuable follow-up work, and Run 11 (the Sanay Maritime Shipping Port, completed 2026-08-31 the same night
+this section was written) drew the same "exemplary" developer verdict Run 10 did — just not the thing to pick
+up *next*. Resume this list once the Stage 1-4 sequence above is far enough along that the developer wants to
+return to it, or explicitly reprioritizes again.
 
 **Developer instruction, 2026-08-31, given directly after Run 9 closed:** *"it seems as though the Universal
 Location Methodology appears to be ready. Before I sign off on using it in actual full production, I'd like
@@ -1181,6 +1325,15 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
 ---
 
 ## Long-Term Priority
+
+- [ ] **Universal Location Methodology — type-diversity phase, resume when the current governing sequence
+  allows** *(downgraded from Top Priority, 2026-09-01)*
+  Six untested Types remain (Polity, Structure, Vessel, Natural feature, Network locus, Interstitial), one
+  test run each, per `Universal_Location_Methodology/Test_Runs/RESUME_HERE.md`. Eleven locations run so far
+  across Settlement, Corridor, and Installation (×2 — Mountain Pass Airport Run 10, the Sanay Maritime
+  Shipping Port Run 11); both Installation runs drew an "exemplary" developer verdict. See the ⬇-marked
+  section further up this file (its own original content, unchanged) for full detail, and see "🔴🔴🔴 THE
+  GOVERNING PRIORITY SEQUENCE" near the top of this file for what takes precedence now.
 
 - [ ] **Re-number the DLCs by release order — narrowed to 2 candidate orders, 2026-07-23, decision deferred**
   Both written into `Storyline/DLC_Overview.md`'s "Release Order vs. DLC Numbering" section. South Pole
