@@ -215,4 +215,21 @@ same-location re-run also needs the admissibility table in `00_Frame_and_PreFlig
 > rather than after the fact**, and is registered here so a future cold pass finds it through the check it
 > already runs, rather than having to know that a second system exists.
 
+## Mountain Pass Airport — added 2026-08-31 from Run 10 *(cold, complete — all eleven phases, sixteen gates,
+Review Panel; first Installation-type location run under this methodology)*
+
+**A future cold pass on Mountain Pass Airport must skip the example content in the rows below.** The rules
+stand without them. **Note this run's own structural difference from every prior entry on this page**:
+Mountain Pass Airport had no completed culture pass before this run (nor any Specs/Local_Culture file of
+its own at all), so there is no *pre-existing* content to quarantine from earlier sessions — only this run's
+own output, plus the tooling-incident record, listed here for the benefit of any *later* same-location
+re-run.
+
+| File | Section | What the example reveals about Mountain Pass Airport |
+|---|---|---|
+| `Cultural_Synthesis_Techniques.md` | The Zodiac Lens's own §4 stopping-criterion note ("Added 2026-08-31, Run 10... M-78") | Cancer's own selective-actualization finding, in full — its specific mythic-register hits and the domestic-register null |
+| `Cultural_Synthesis_Techniques.md` | The Elemental/Planetary Cross-Check's own agent-type caution note | The fork-cascade tooling incident's own specific detail, including the fabricated Libra finding and the real recovery method |
+| `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-74 through M-80** | This run's own neutral-frame catch, the chamber-departure and governance-vacuum convergences in full, the Gate I Independence Day catch, and the Type-fidelity result |
+| `Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` | **all of it** | Mountain Pass Airport's complete Phase 0-10 content, the full Zodiac Lens (all twelve signs), all sixteen gates, and the full Review Panel |
+
 ## *(Add further locations here as they are absorbed into the methodology.)*

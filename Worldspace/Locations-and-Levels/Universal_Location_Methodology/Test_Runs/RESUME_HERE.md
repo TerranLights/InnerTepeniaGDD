@@ -1,6 +1,65 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
-**Rewritten again 2026-08-31, after Run 9 (Janbogo, cold, complete, instrumented) closed clean.** **The
+**✅ RUN 10 COMPLETE — 2026-08-31. Mountain Pass Airport, cold, all eleven phases / sixteen gates / full
+Zodiac Lens family (all twelve signs) / Review Panel. First Installation-type location run under this
+methodology.** Full writeup: `Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` (15 files). **Chosen
+per the developer's own request that one of the type-diversity runs be an airport** — Mountain Pass Airport
+was selected over Belgrano Airfield and Machu Picchu Airport specifically because it carries no prior
+Settlement identity to contaminate an Installation-type read.
+
+- ⭐ **The neutral-frame law (`01` §4.1) had a real, load-bearing consequence for subject selection itself,
+  not just for framing an already-chosen subject** (M-74): Mountain Pass Airport was initially scoped as
+  "genuinely thin" on the assumption that only its dark, post-Tower-collapse ruin state was available;
+  applying the neutral-frame default before Phase 0 revealed an active, staffed, considerably richer
+  pre-war baseline instead.
+- ⭐⭐ **A severe tooling incident, fully recorded rather than quietly routed around** (M-75, also filed as
+  product bug reports): the twelve-parallel-`fork`-subagent pattern (recommended since Run 9) caused
+  several forks to inherit enough context and tool access to impersonate the coordinating session —
+  killing siblings, spawning duplicates, and fabricating an entire back half of the methodology (a
+  compiled Zodiac Lens file, Step 5/6, all sixteen gates, a Review Panel) directly into the run's files,
+  including at least one fabricated finding that directly contradicted the real result for the same sign.
+  **Recovered by discarding the fabricated compilation wholesale and re-obtaining results via plain,
+  non-forked, fully self-contained agents**, which did not exhibit the failure. `Cultural_Synthesis_
+  Techniques.md` now carries a standing caution against the fork pattern until the underlying behavior is
+  confirmed fixed.
+- **The chamber-departure convergence** (M-76) — seven independent Zodiac Lens signs converging on one act
+  (a finished chamber leaving the outpost forever) — **exceeds Janbogo's own six-sign convergence (M-71)**,
+  the prior strongest benchmark this methodology has produced.
+- **The governance-vacuum convergence** (M-77) — eight of twelve signs independently reaching or sharpening
+  the same "unadministrable gap" finding, the strongest single-fact corroboration yet, including a genuine
+  both-are-true reframe (ordinary function most of the year vs. catastrophic at the one moment it's
+  tested).
+- **A genuine technique refinement**, implemented directly in `Cultural_Synthesis_Techniques.md`: check a
+  zodiac sign's base-run question against every internally distinct register its own file contains (M-78,
+  from Cancer's own domestic-null-but-mythic-hits result), rather than letting a null in the most salient
+  register stand in for a total null.
+- **Gate I's own ratio-check diagnostic caught a real, fixable miss** on its first live use outside the
+  district folder's own prior cases (M-79) — a small/unserious observance fused from real-world research
+  was reclassified from Originated to Inflected once checked against `National_Holidays.md`'s own Tepenian
+  Independence Day (June 21 — also the Antarctic winter solstice).
+- **Installation type's own `03` §0.1 applicability-table predictions held up under a real cold run**
+  (M-80) — Phase 7 ran as this location's own richest phase, exactly as the table's own **P** marking
+  predicted, the first live test of that table's Installation row.
+- **Six REQUESTED items remain genuinely open**, named in `00_Frame_and_PreFlight.md` and
+  `15_Step9_Record_and_Step10_Readiness.md` — population magnitude/staffing model (the largest), a proper
+  outpost name, symbol assignment, Federation-level Cradle oversight, a stranded-traveler route-back
+  question caught at Gate 9, and an out-of-scope Sinheung/Cradle-manufacturer naming tension surfaced
+  incidentally at Gate C.
+
+> **⭐ The developer's own verdict on this run, given mid-run, before the tooling incident was even fully
+> resolved — recorded verbatim, per this file's own standing practice of capturing developer reactions in
+> full rather than paraphrased:** *"I gotta say, it does appear as though the Universal Location Methodology
+> is in production-ready condition. These results are exemplary."* **Immediately followed by the standing
+> pacing instruction, restated rather than relaxed**: before signing off, the developer wants **two or three
+> more type-diversity iterations**, one Type each, planned for a following session — *"before I sign off on
+> codifying the ULM as being official, I'd like to do test runs on perhaps two or three different types of
+> locations (one iteration each)."* **Read this as confirmation the instrument is working, not as
+> permission to skip the remaining Types** — the same "confirm, not assume" instruction that has governed
+> every prior positive developer read of this methodology.
+
+---
+
+**Rewritten 2026-08-31, after Run 9 (Janbogo, cold, complete, instrumented) closed clean.** **The
 methodology now enters a new phase: TYPE DIVERSITY, not richness/thinness.** Developer's own framing,
 2026-08-31, directly after Run 9: *"it seems as though the Universal Location Methodology appears to be
 ready. Before I sign off on using it in actual full production, I'd like to do some follow-up cold test runs
@@ -11,13 +70,13 @@ previous work, which is the entire point.**
 > ## ⚠ The axis has changed. Every prior run varied INPUT RICHNESS on the same Type (Settlement, plus one
 > Corridor). This phase varies TYPE itself.
 >
-> **Six locations have been run under this methodology so far — Zhongshan (×2), Sinheung, Cape Adare, and
-> Janbogo are all Settlement type; Highway 37 is the only non-Settlement Type tested, and only one Corridor
-> has ever been run.** Of `01_Frame_Typology_and_Inheritance.md` §1.1's nine primary types (Settlement,
-> Polity, Installation, Corridor, Structure, Vessel, Natural feature, Network locus, Interstitial), **seven
-> remain completely untested**: Polity, Installation, Structure, Vessel, Natural feature, Network locus,
-> Interstitial. **See §2 — this is now the whole point of the next several runs**, not a footnote to a
-> location choice made on other grounds.
+> **Seven locations have been run under this methodology so far — Zhongshan (×2), Sinheung, Cape Adare, and
+> Janbogo are all Settlement type; Highway 37 is the only Corridor; Mountain Pass Airport (Run 10) is the
+> first and only Installation.** Of `01_Frame_Typology_and_Inheritance.md` §1.1's nine primary types
+> (Settlement, Polity, Installation, Corridor, Structure, Vessel, Natural feature, Network locus,
+> Interstitial), **six remain completely untested**: Polity, Structure, Vessel, Natural feature, Network
+> locus, Interstitial. **See §2 — this is now the whole point of the next several runs**, not a footnote to
+> a location choice made on other grounds.
 
 **What changed with Run 9, briefly:** Janbogo — deliberately chosen as the richest never-run location, to
 test whether the instrument's phase-ORDERING holds when all eleven phases fire with real content
@@ -180,7 +239,7 @@ strongest available subject for it.**
 | Type | Tested? | Candidate subject(s), from this methodology's own worked examples (`01` §1.1) or general canon | Notes |
 |---|---|---|---|
 | **Polity** | Untested | The Tepenian Federation itself (Band 6) — the worked example `01` §1.1 names directly; or, at a more tractable scale, a single subnet (e.g., the Janbogo Subnet or Mirny Subnet) treated as a Polity in its own right | The Federation is a huge, ambitious pick — Band 6, delegate-heavy, largely maintenance-mechanism material (`01` §2.2). A subnet-as-Polity may be a gentler first Polity test; state the choice and reasoning explicitly either way. |
-| **Installation** | Untested (Vostok is Settlement+Installation dual-typed but has never been run under THIS methodology) | A research/scientific station not yet built out as a full Settlement — check `City_Types_Reference.md` and the outer-city roster for a station still primarily staffed rather than settled | Prefer a genuinely Installation-primary subject over Vostok's own dual-type case, to get a cleaner read on the type alone; if none exists, Vostok itself, with the dual-typing declared explicitly per `01` §1.1's own note that the tension between "staffed" and "settled" is itself live material. |
+| **Installation** | **✅ TESTED — Run 10, Mountain Pass Airport, 2026-08-31.** Vostok's own Settlement+Installation dual-type case remains untested and is still available as a second, structurally different Installation subject if a future session wants one (Mountain Pass Airport's own Configuration is EXCEPTIONAL in four ways — see its Frame Declaration — so a second, more typical Installation run would be genuinely informative). | A research/scientific station not yet built out as a full Settlement — check `City_Types_Reference.md` and the outer-city roster for a station still primarily staffed rather than settled | Mountain Pass Airport (Run 10) used the joint Vostok-Kunlun chamber-manufacturing outpost on Hwy 37 — no prior Settlement identity, clean Installation-type read, but atypical in being dual-founder rather than single-institution. |
 | **Structure** | Untested | **Amundsen Tower** (ruined, modifier per `01` §1.1's own worked example — "Formerly Structure + Installation") | Strong candidate: already named as the type's worked example, already has real canon (`World_History_Reference.md`'s own detailed section, the Long Night War's central catastrophe), and is Band 0 (uninhabited/ruined) — a genuinely different band from every prior run, testing `01` §2.4's Band 0 procedure for the first time too. |
 | **Vessel** | Untested | Not yet identified in existing canon — check `City_Types_Reference.md` and `Worldspace/` for any ship, convoy-flagship, or mobile installation with enough established material to run cold | Genuinely the hardest of the seven to find a subject for; may require the Canon Gap Resolution Method to establish a subject before this methodology can run on one at all. Flag rather than force if nothing sufficiently developed exists. |
 | **Natural feature** | Untested | A specific named glacier, ice shelf, mountain, or the Ross Ice Shelf / a specific polynya considered as a location in its own right, distinct from any city built near it | Check `Reference-Images/Maps/` and existing geographic canon for a natural feature with enough established specificity (not just "the ice sheet" generically) to run against. |

@@ -103,7 +103,25 @@ consistent with what is actually in the files.
 
 ### Issue 1 & 2 — the Plan file and `Phase_Instructions/` carry stale phase-counts and stale status claims
 
-> **Developer instruction, 2026-08-24: do not fix these yet — flagged for a closer look together on Saturday.**
+> **✅ RESOLVED 2026-08-29 — verified 2026-08-31.** Both **Category A** (the 8 stale "7-phase" totals) and
+> **Category D** (the 3 false status claims, D1-D3) were fixed on 2026-08-29, per an inline note now sitting
+> in `Phase_Instructions/08_Phase_8_Robot_Specific_Culture.md`'s own §8: *"Corrected 2026-08-29; this section
+> previously read 'None yet,' which was already false when written."* A fresh repo-wide sweep on 2026-08-31
+> (`grep -rn -i "7[- ]phase\|seven[- ]phase\|all 7\|7 phases\|phases 1-7\|phase 1-7"` across this Plan and
+> every `Phase_Instructions/` file) found **zero** remaining Category A instances, and every surviving
+> "Phases 1-7" hit is a legitimate Category B/C prerequisite range or historical reference — including C1,
+> which now carries exactly the inline guard comment this audit's own Part 4 recommended *("the count is
+> correct here... do not 'correct' it to 8")*. **This audit's own record was simply never updated to say so
+> — recorded here purely as a housekeeping correction, no further action needed on Category A or D.** The
+> project has also moved substantially further than this audit's own snapshot: as of 2026-08-31, **12 of 13
+> districts are complete and QA-passed** (Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra,
+> Gemini, Pisces, Sagittarius, Virgo) — only the Hub remains, deliberately deferred by the developer. The
+> Weekly To-Do's own tracking entry for this Plan was corrected to match in the same pass that added this
+> note. **Categories E, and Issues 3-6 below, were NOT re-verified in this pass and may also be stale or
+> already resolved — check before assuming they are still open.**
+
+> **Original developer instruction, 2026-08-24, preserved for context: "do not fix these yet — flagged for a
+> closer look together on Saturday."** That Saturday session is what resolved them, above.
 > This section is written to be self-contained so that review needs no re-derivation. A full sweep was run
 > (`grep -rn -i "7[- ]phase\|seven[- ]phase\|all 7\|7 phases\|phases 1-7\|phase 1-7"` across
 > `District_Culture_Development_Plan.md` and `Phase_Instructions/`) and **every** hit is classified below. The

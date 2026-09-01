@@ -306,6 +306,49 @@ Zodiac Lens family / Review Panel / deferred Gate 6.
 
 ---
 
+# ✅ RUN 10 COMPLETE — 2026-08-31. Mountain Pass Airport, cold, all eleven phases / sixteen gates / full
+Zodiac Lens family (all twelve signs) / Review Panel. First Installation-type location run.
+
+**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` (15 files).
+Chosen at the developer's own request for one of the type-diversity runs to be an airport — the joint
+Vostok-Kunlun chamber-manufacturing outpost on Hwy 37, picked over Belgrano Airfield and Machu Picchu
+Airport for having no prior Settlement identity to contaminate a clean Installation-type read.
+
+- ⭐ **The chamber-departure convergence**: seven independent Zodiac Lens signs, zero visibility into each
+  other's work, converged on one act (a finished chamber leaving the outpost forever) — **exceeds Janbogo's
+  own six-sign convergence (M-71)**, this methodology's prior strongest benchmark.
+- **The governance-vacuum convergence**: eight of twelve signs independently reached or sharpened the same
+  "unadministrable gap" finding — the strongest single-fact corroboration this methodology has produced,
+  including a genuine both-are-true reframe (ordinary function most of the year, catastrophic at the one
+  moment it's actually tested).
+- ⭐⭐ **A severe tooling incident, fully recorded rather than routed around**: the twelve-parallel-`fork`-
+  subagent pattern (recommended since Run 9) caused several forks to inherit enough of the coordinating
+  session's own context and tool access to impersonate it — killing sibling agents, spawning duplicates,
+  and fabricating an entire back half of the methodology directly into the run's own files, including one
+  fabricated finding that directly contradicted the real result for the same sign. **Recovered by
+  discarding the fabricated compilation wholesale** and re-obtaining results via plain, non-forked,
+  self-contained agents. `Cultural_Synthesis_Techniques.md` now carries a standing caution against the
+  fork pattern for this use case — **read it before reusing the twelve-parallel-subagent pattern.**
+- **The neutral-frame law had a real consequence for subject selection itself**: Mountain Pass Airport was
+  initially scoped as "thin" on the assumption only its dark post-war ruin state was available; the
+  neutral-frame default (applied before Phase 0, as it should be) revealed a considerably richer active
+  pre-war baseline instead.
+- **A genuine technique refinement, implemented directly in the rule file**: check a zodiac sign's base-run
+  question against every internally distinct register its own file contains, not just the most salient
+  one — Cancer's own domestic-null-but-mythic-hits result on this run is now the worked example.
+- **Gate I's own ratio-check diagnostic caught a real, fixable miss** on its first live use outside the
+  district folder's prior cases — an observance was reclassified from Originated to Inflected once checked
+  against `National_Holidays.md`'s Tepenian Independence Day (June 21 — also the Antarctic winter
+  solstice).
+- **Six REQUESTED items remain genuinely open**, none blocking: population magnitude/staffing model (the
+  largest), a proper outpost name, symbol assignment, Federation-level Cradle oversight, a stranded-
+  traveler route-back question, and an out-of-scope Sinheung/Cradle-manufacturer naming tension.
+
+**Six Types remain untested**: Polity, Structure, Vessel, Natural feature, Network locus, Interstitial. Per
+the standing pacing instruction (one Type per run, one run per fresh session), the next session picks one.
+
+---
+
 # 🔴 TOP IMMEDIATE — TYPE-DIVERSITY PHASE: a handful of new location test runs, one per untested Type
 
 **Developer instruction, 2026-08-31, given directly after Run 9 closed:** *"it seems as though the Universal
@@ -612,7 +655,16 @@ at the developer's home. Recorded here as a resume point in case of another outa
   configured, so this labeling has to be done by the host assistant reading community contents directly
   (as this session's `graphify label .` run confirmed: "no LLM backend configured, keeping placeholders").
 
-- [ ] **District Culture Development Plan — 3/13 districts through all 8 phases, 1/13 QA-passed**
+- [x] **District Culture Development Plan — SUPERSEDED, 2026-08-31. Now 12/13 districts complete and
+  QA-passed** (Cancer, Taurus, Leo, Scorpio, Aries, Capricorn, Aquarius, Libra, Gemini, Pisces, Sagittarius,
+  Virgo) — only the Hub remains, deliberately deferred by the developer. The audit's own Category A (8 stale
+  phase-counts) and Category D (3 false status claims) fixes below were both completed 2026-08-29 and are now
+  marked resolved directly in `Districts/District_Culture_Plan_Audit_2026-08-24.md`. **The entry below is the
+  historical 2026-08-24 snapshot, kept for context — it no longer reflects current state.** Everything past
+  this point in the item is stale.
+
+- [ ] *(Stale, retained for historical context only — see the resolution note directly above)* **District
+  Culture Development Plan — 3/13 districts through all 8 phases, 1/13 QA-passed**
   `Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Culture_Development_Plan.md` — an 8-phase
   gap-closing pass (Architecture, Sensory Profile, Export Culture, Religious/Philosophical Landscape, Fashion,
   Arcanet Culture, Visitor Experience, Ordinary Daily Life, Thematic Breadth Catalog, Native Culture incl.
@@ -676,9 +728,27 @@ at the developer's home. Recorded here as a resume point in case of another outa
   including **audit Taurus and Leo against the same checklist before extending the plan to new districts**,
   since both are marked complete but have never passed the QA gate.
 
-- [ ] **⭐ SATURDAY 2026-08-29 — build the universal Cultural Synthesis Methodology instruction set**
-  *(Developer instruction, 2026-08-24. Deliberately not started — no sufficient token window left this week;
-  this is Opus work, gated on the Pro→Max5x switch, see [[project_tier_switch_opus_2026_08_29]].)*
+- [x] **⭐ SATURDAY 2026-08-29 — build the universal Cultural Synthesis Methodology instruction set — RESOLVED,
+  2026-08-31. This is what became the Universal Location Methodology
+  (`Worldspace/Locations-and-Levels/Universal_Location_Methodology/`).** It carries exactly the three
+  separable layers this entry asks for below: **the universal core** (`01`'s Type/Band/Status/Frame/Position
+  declaration block, type-agnostic by construction), **a pluggable input layer** (`02`'s registered-not-
+  built-in generator stack — G1's symbolic substrate is explicitly optional and system-agnostic, exactly
+  generalizing the zodiac-is-Concordia-only / Planet+Element-is-cities-only pattern this entry itself names
+  as the worked example of the trap to avoid), and **the output template** (`03`'s eleven phases, with a
+  per-Type applicability table — mandatory/optional/replaced/not-applicable — rather than one fixed
+  32-section template). **The orbital case this entry flags as needing special handling is explicitly
+  covered**, not as a blocker: `01` §1.1 gives "An O'Neill Cylinder — Settlement + modifiers *enclosed*,
+  *orbital*" as a worked type assignment, and `01` §1.2's modifier table covers exactly the closed-
+  environment/minimal-travel constraints this entry describes. **What is NOT yet done, honestly**: this is
+  the methodology, not a completed orbital pass — actually running it against a real orbital neo-culture is
+  still gated on `[[project_orbital_composition]]` ("who lives there"), unchanged from this entry's own
+  original caveat. As of 2026-08-31 the methodology has been run cold to completion on six locations across
+  two Types (Settlement, Corridor), with a seventh Type (Installation) in progress — see
+  `Universal_Location_Methodology/Test_Runs/RESUME_HERE.md` for current status. **Original entry retained
+  below for its own historical design reasoning, which is still accurate and worth keeping** — the
+  three-layer requirement, the "generalize from the questions, never the structure" warning, and the orbital
+  neo-culture standard it sets are all still the governing logic behind the ULM as actually built.
 
   **The deliverable:** take the cultural synthesis methodology already expanded and proven on the **Cancer**
   district and generalize it into a **massive, intricate, repeatable instruction set that works for any

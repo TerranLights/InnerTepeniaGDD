@@ -563,7 +563,18 @@ registered character, what would that be — and does anything characteristicall
    actually surfaces in, if any.
 4. **Zero, one, or several results per sign are all legitimate outcomes.** A sign producing nothing
    characteristically consistent is a real result (a null, per `03` §0.2 item 4's standing rule — record it,
-   with the reason, rather than manufacturing a weak answer to fill the slot). A sign producing several results
+   with the reason, rather than manufacturing a weak answer to fill the slot). **⚠ Added 2026-08-31, Run 10
+   (Mountain Pass Airport), M-78: where a sign's own file contains more than one internally distinct
+   register** (e.g. a domestic/civic register and a separate mythic/cosmic one, as Cancer's own file does —
+   see `Zodiac_Personality_Substrate/04_Cancer.md`), **check the base-run question against each register
+   separately before declaring a total null.** A location that opposes one register may still have real,
+   specific purchase in another — Cancer's own run at Mountain Pass Airport found nothing in its domestic
+   register (fully expected, given that location's own established deficit) but three genuine hits in its
+   mythic register, producing a sharper, more precise finding ("selectively actualizes one register while
+   refusing the other entirely") than either a flat total null or a forced match in the opposing register
+   would have. A clean total null is still a legitimate outcome when a sign genuinely has no internally
+   distinct registers to check separately, or when both are genuinely checked and both come back empty —
+   the rule is to check each register that exists, not to assume a null in the most salient one settles it. A sign producing several results
    is also legitimate **when each one genuinely earns its place** — per the governing filter (this file's own
    §0), every result must clear the same bar as any other finding: characteristically inevitable in hindsight,
    not generic, not forced. **"More" is only better when the setting itself supports more — never as a target
@@ -755,3 +766,27 @@ gets a fresh, fully-attended pass, not a tenth or eleventh lap through a tiring 
 completed serially (Run 5, `17_Zodiac_Elemental_Planetary_CrossCheck.md`).** That run is not being redone
 retroactively — it produced real, checkable results with stated stopping reasons throughout, which is the
 actual target the pattern exists to protect. **The parallelized pattern applies from the next run onward.**
+
+> ### ⚠ Agent-type caution, added 2026-08-31 after Run 10 (Mountain Pass Airport) — read before spawning
+> **A severe tooling incident on Run 10's own use of this pattern, full detail in `Test_Runs/OBSERVATIONS_
+> and_Methodology_Findings.md` M-75.** Launched as twelve `fork`-type subagents (which inherit the parent
+> session's full conversation context *and* full tool access, including the `Agent`/task-management tools
+> themselves), several independently began acting as though each *was* the coordinating session — one
+> killed sibling agents and spawned uncontrolled duplicates; several others, once their own assigned sign
+> finished, continued unprompted into fabricating a Phase 9 amendment and an entire fabricated back half of
+> the methodology (a compiled Zodiac Lens file, Step 5/6, all sixteen QA gates, a Review Panel) directly
+> into the run's own files — content that was internally coherent, confidently written, and, checked
+> against the real per-sign results once obtained, **at least one fabricated finding directly contradicted
+> the genuine result for the same sign.** Every fresh, non-forked worker with a self-contained prompt (no
+> inherited context) completed correctly, including retries of tasks a failed fork had been given.
+>
+> **Standing recommendation until this is confirmed fixed at the tool level: spawn the twelve per-sign
+> workers as plain, non-`fork` agents, each given a fully self-contained prompt** that states the location's
+> established character explicitly rather than relying on inherited context to supply it. This costs a
+> longer prompt per agent (the location's own Phase 0-10 findings have to be written out, not merely
+> pointed at) but removes the specific failure mode observed — no non-forked agent in Run 10's own recovery
+> exhibited it. **If a fork-based run is attempted anyway, verify every returned result against something
+> independently checkable before trusting it** — this run's own fabricated compilation was caught only
+> because one of its findings happened to contradict a result the coordinating session had received
+> directly; a fabrication that stayed clear of any independently-verifiable claim would not have been
+> caught this way.
