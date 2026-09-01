@@ -65,3 +65,4 @@ Per research session, record:
 | Location | Log | Last session |
 |---|---|---|
 | **Zhongshan** | `Zhongshan_Research_Log.md` | 2026-08-30 — Run 3 cold pass. 6 queries; 3 picks + physical site + 2 forcing-function comparanda. **7 open threads recorded**, incl. the unread ASMA 6 management plan |
+| **Janbogo** | `Janbogo_Research_Log.md` | 2026-08-31 — Run 9 cold pass. 2 search queries + 3 fetches (1 failed, HTTP 402); Jang Bogo Station's real staffing/scale and its historical namesake. **5 open threads recorded**, incl. an unfused downfall-by-overreach parallel deliberately deferred to a later filter test |

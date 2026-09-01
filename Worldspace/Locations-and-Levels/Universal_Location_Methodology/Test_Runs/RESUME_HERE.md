@@ -1,17 +1,43 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
-**Rewritten again 2026-08-31, after Cape Adare Runs 7 (cold) and 8 (warm), and after an ordering defect was
-found and fixed.** **The next run is Run 9. Its subject is LOCKED by the developer: JANBOGO. It is also
-INSTRUMENTED — see §2 and §2b, which are the two sections that differ most from every prior handoff.**
-**Read this file first. It is written for a session with no memory of the previous work, which is the entire
-point.**
+**Rewritten again 2026-08-31, after Run 9 (Janbogo, cold, complete, instrumented) closed clean.** **The
+methodology now enters a new phase: TYPE DIVERSITY, not richness/thinness.** Developer's own framing,
+2026-08-31, directly after Run 9: *"it seems as though the Universal Location Methodology appears to be
+ready. Before I sign off on using it in actual full production, I'd like to do some follow-up cold test runs
+on different **types** of locations."* **This is the governing instruction for every run from here on, until
+it is satisfied or revised.** **Read this file first. It is written for a session with no memory of the
+previous work, which is the entire point.**
 
-> ## ⚠ Run 9 has a SECOND job that no prior run had.
+> ## ⚠ The axis has changed. Every prior run varied INPUT RICHNESS on the same Type (Settlement, plus one
+> Corridor). This phase varies TYPE itself.
 >
-> Every prior run had one job: produce a location. **Run 9 produces a location *and* carries an
-> instrumentation task** — a watch for a specific, named class of defect that was fixed on 2026-08-31 but is
-> **not known to be fully mapped.** The watch is described in **§2b**. It is not optional, it is not a
-> footnote, and **a Run 9 that produces a beautiful Janbogo and no collision log has done half the job.**
+> **Six locations have been run under this methodology so far — Zhongshan (×2), Sinheung, Cape Adare, and
+> Janbogo are all Settlement type; Highway 37 is the only non-Settlement Type tested, and only one Corridor
+> has ever been run.** Of `01_Frame_Typology_and_Inheritance.md` §1.1's nine primary types (Settlement,
+> Polity, Installation, Corridor, Structure, Vessel, Natural feature, Network locus, Interstitial), **seven
+> remain completely untested**: Polity, Installation, Structure, Vessel, Natural feature, Network locus,
+> Interstitial. **See §2 — this is now the whole point of the next several runs**, not a footnote to a
+> location choice made on other grounds.
+
+**What changed with Run 9, briefly:** Janbogo — deliberately chosen as the richest never-run location, to
+test whether the instrument's phase-ORDERING holds when all eleven phases fire with real content
+simultaneously (the opposite test from every prior run's own thin-location bias). **Four separate
+contamination catches before Phase 0 even opened**, confirming the `05` §6.1d/§6.1a "welded-together" Specs-
+file defect is a systemic project-wide pattern, not a one-off (now confirmed on three different cities'
+`Specs/` files). **A genuine, unfixable methodological bind self-discovered**: the inbound contamination
+check's own act of reading a passage closely enough to band it necessarily exposes the checking session to
+that passage's content — no fix exists, only honest labeling of which findings this compromises (see
+`Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` M-66). **The Zodiac Lens's own recommended
+12-parallel-subagent pattern was run for the first time and worked as designed** — producing ~220 findings
+and a genuine cross-sign convergence (six of twelve independent signs, zero shared visibility, converging on
+the same civic institution) that no single technique could have reached. **Gate 6, opened last, passed in
+the strongest form this methodology has yet produced**: five genuinely new findings absent from the
+existing 32-section culture sheet, one honestly-recorded partial divergence, zero kills — comparable to
+Zhongshan Run 3's own benchmark. **The `03` §0.4 ordering-collision instrumentation fix (M-61) tested clean
+across all four docket rows, on the richest location yet run** — this specific defect class is now
+considered well-covered; a routine collision log is still good practice on any future run, but it is no
+longer this methodology's own special open question. **Full writeup:**
+`Test_Runs/2026-08-31_Janbogo_Run9_Cold/` (30 files).
 
 **What changed with Run 7, briefly:** Cape Adare (highest TBD-density of all 35 outer cities, zero Hwy 37
 connection) was run complete — eleven phases, sixteen gates, Review Panel; the Zodiac Lens deliberately
@@ -24,26 +50,27 @@ living, pre-war frame throughout regardless. **Full writeup:** `Test_Runs/2026-0
 files), plus a concrete follow-up plan for closing that run's own eleven REQUESTED items in its own
 `14_Step9_Record_and_Step10_Readiness.md`.
 
-**What changed with Run 6, briefly, since it's the newest thing this file assumes you know:** Highway 37 was
-the first Corridor-type location run under this methodology, and the first genuinely thin one — no completed
-culture pass existed for it before the run, unlike Zhongshan and Sinheung, which both turned out to be
-best-case configurations despite being chosen as "thin" candidates. **Full writeup:**
-`Test_Runs/2026-08-31_Highway37_Run6_Cold/` (17 files). **One methodology change came out of it, binding on
-every run from here on**: `01_Frame_Typology_and_Inheritance.md` §4.1, "THE DEFAULT FRAME IS NEUTRAL" — absent
-a specific reason otherwise, a pass defaults to the Second Interwar Period baseline (before the Long Night War,
-before Amundsen Tower's destruction), not to the post-war present. **Read that section before declaring any
-frame for Run 9** — an early Run 6 draft defaulted to post-war without being asked to, and the correction is
-now a standing rule, not a one-off fix.
+**What changed with Run 6, briefly:** Highway 37 was the first (and so far only) Corridor-type location run
+under this methodology, and the first genuinely thin one — no completed culture pass existed for it before
+the run, unlike Zhongshan and Sinheung, which both turned out to be best-case configurations despite being
+chosen as "thin" candidates. **Full writeup:** `Test_Runs/2026-08-31_Highway37_Run6_Cold/` (17 files). **One
+methodology change came out of it, binding on every run from here on**: `01_Frame_Typology_and_Inheritance.md`
+§4.1, "THE DEFAULT FRAME IS NEUTRAL" — absent a specific reason otherwise, a pass defaults to the Second
+Interwar Period baseline (before the Long Night War, before Amundsen Tower's destruction), not to the
+post-war present. **Read that section before declaring any frame.**
 
-**Your task, restated: run Run 9 on JANBOGO — cold, complete, and INSTRUMENTED (§2b) — against the current
-methodology, which now includes the Zodiac Lens technique family (§5a below), the neutral-frame default (§4.1
-of `01`), the DRAFT/CLOSE ordering rule (`03` §0.4), the ratification axis (`05` §6.3), and everything Runs 6,
-7 and 8 learned.** The developer's own framing after Sinheung Run 5, still the governing instruction: *"I believe I
-may say that the methodology appears to be optimized. Still, we should do another few test runs just to be
-sure."* **Read that as skepticism to satisfy, not as confirmation to repeat.** Every run so far (Zhongshan ×2,
-Sinheung, Highway 37) was run by the same author who built the instrument — a run that only ever validates
-itself is not evidence (`04` Part IV). **Plan on several runs this cycle, not one**, and watch specifically for
-whether the apparent optimization holds on a location chosen because it looks least likely to conform.
+**Your task, restated: pick ONE untested Type from §2, run that location cold, complete, against the full
+current methodology** — the Zodiac Lens technique family (§5a below, run as 12 parallel subagents per the
+Run 9 precedent), the neutral-frame default (§4.1 of `01`), the DRAFT/CLOSE ordering rule (`03` §0.4), the
+ratification axis (`05` §6.3), and everything Runs 6 through 9 learned. **This is explicitly a multi-run
+mandate, not a one-off**: the developer wants "a handful of new location test runs, one example-run per
+location-type" before signing off on full production use. **Follow the same standing pacing precedent every
+prior run has followed — one location, taken all the way, no time limit, in its own fresh session** — do not
+attempt more than one Type in a single session merely because several remain open; each one deserves the
+same depth Janbogo got. **Read this as the methodology's own `04` Part IV caution finally being addressed
+directly**: every run to date was chosen and graded by the same author who built the instrument; testing
+across genuinely different Types, not just genuinely different input-richness on the same Type, is the next
+real test of whether the instrument generalizes or was quietly tuned to Settlement-shaped problems.
 
 ---
 
@@ -115,129 +142,96 @@ appended.** *(The last stale-number instruction here caused exactly this mistake
 
 # 1. What this run is, and what it is NOT
 
-> ## ⭐ Run 9 tests the opposite property from Run 7, on purpose.
+> ## ⭐ This phase tests a different property than any prior run.
 >
-> **Run 7 (Cape Adare) settled the thin-input question** — and its answer was that the instrument's ceiling is
-> set by *admissible input*, not by the instrument. That gap now has its own dedicated system, the **Canon Gap
-> Resolution Method** (`Worldspace/Canon_Gap_Resolution_Method/`), built specifically to acquire missing
-> canon; it is a separate, interacting system and **not** something this run re-derives.
+> **Run 7 (Cape Adare) settled the thin-input question** — the instrument's ceiling is set by *admissible
+> input*, not by the instrument; that gap has its own dedicated system, the **Canon Gap Resolution Method**
+> (`Worldspace/Canon_Gap_Resolution_Method/`), and is not re-derived here. **Run 9 (Janbogo) settled the
+> ordering question** — the spine holds up under a rich, simultaneously-firing location, and the `03` §0.4
+> fix is now verified on two very different locations.
 >
-> **Run 9 asks a question no prior run could:** does the spine hold up under a *rich* location, where all
-> eleven phases fire with real content simultaneously? **Thin locations cannot answer it, because most phases
-> return null and nothing collides.** See §2b — this is the run's whole second purpose.
+> **This phase asks a question no prior run could, because every prior subject shared a Type:** does the
+> instrument actually generalize across fundamentally different KINDS of location, or was it quietly shaped
+> by six Settlement-type runs plus one Corridor into something that only really works for places with
+> residents and a population band? **A Polity, an Installation, a Structure, a Vessel, a Natural feature, a
+> Network locus, and an Interstitial location each ask genuinely different phase questions** (`03` §0.1's own
+> type-applicability table — several phases are optional, replaced, or not-applicable for most of these
+> types). **A run on an untested Type is the only way to find out whether the universal parts of this
+> methodology are actually universal.**
 
 **What "cold" means here, restated precisely:** no completed culture pass on the chosen location has been
 opened by this session before its own findings are written. **The quarantine for this run is not a pre-built
-list** — unlike a same-location re-run, there is no prior pass on this specific location to quarantine. The
-quarantine work is: (a) confirm no completed culture material for the chosen location has already leaked into
-this session's context via auto-loaded memory or an earlier conversation turn, and (b) apply the general
-admissibility rule (`05` §6.1) to whatever canon files exist for the location, fresh, by rule rather than by
-recall — see §3 below.
+list** — unless the chosen location already has a specific prior pass on it, there is no prior pass on that
+specific location to quarantine. The quarantine work is: (a) confirm no completed culture material for the
+chosen location has already leaked into this session's context via auto-loaded memory or an earlier
+conversation turn, and (b) apply the general admissibility rule (`05` §6.1) to whatever canon files exist for
+the location, fresh, by rule rather than by recall — see §3 below.
 
 ---
 
-# 2. The location is NOT a choice this time. Run 9 is JANBOGO.
+# 2. Choosing the location — pick ONE untested Type, not the richest or thinnest example of one already run
 
-**Developer-locked, 2026-08-31. Do not re-open this, and do not substitute a "better" candidate.** The
-selection criterion for Run 9 **deliberately inverts** every prior run's, and the inversion is the point:
+**Not developer-locked to a single subject this time.** The constraint is on the axis, not the specific
+location: **choose a location whose primary Type has never been run under this methodology.** Per
+`01_Frame_Typology_and_Inheritance.md` §1.1, nine primary types exist. Two are covered — **Settlement**
+(five runs) and **Corridor** (one run, Highway 37). **Seven remain untested. Pick one Type, then pick the
+strongest available subject for it.**
 
-> **Prior runs chose THIN locations, to test whether the instrument works on poor input. Run 9 chooses the
-> RICHEST unrun location, to test something different: whether the instrument's own ORDERING holds when many
-> phases fire at once with real content.** A thin location suppresses the defect this run is hunting, because
-> collisions only occur where a later phase has enough material for an earlier check to collide with.
+| Type | Tested? | Candidate subject(s), from this methodology's own worked examples (`01` §1.1) or general canon | Notes |
+|---|---|---|---|
+| **Polity** | Untested | The Tepenian Federation itself (Band 6) — the worked example `01` §1.1 names directly; or, at a more tractable scale, a single subnet (e.g., the Janbogo Subnet or Mirny Subnet) treated as a Polity in its own right | The Federation is a huge, ambitious pick — Band 6, delegate-heavy, largely maintenance-mechanism material (`01` §2.2). A subnet-as-Polity may be a gentler first Polity test; state the choice and reasoning explicitly either way. |
+| **Installation** | Untested (Vostok is Settlement+Installation dual-typed but has never been run under THIS methodology) | A research/scientific station not yet built out as a full Settlement — check `City_Types_Reference.md` and the outer-city roster for a station still primarily staffed rather than settled | Prefer a genuinely Installation-primary subject over Vostok's own dual-type case, to get a cleaner read on the type alone; if none exists, Vostok itself, with the dual-typing declared explicitly per `01` §1.1's own note that the tension between "staffed" and "settled" is itself live material. |
+| **Structure** | Untested | **Amundsen Tower** (ruined, modifier per `01` §1.1's own worked example — "Formerly Structure + Installation") | Strong candidate: already named as the type's worked example, already has real canon (`World_History_Reference.md`'s own detailed section, the Long Night War's central catastrophe), and is Band 0 (uninhabited/ruined) — a genuinely different band from every prior run, testing `01` §2.4's Band 0 procedure for the first time too. |
+| **Vessel** | Untested | Not yet identified in existing canon — check `City_Types_Reference.md` and `Worldspace/` for any ship, convoy-flagship, or mobile installation with enough established material to run cold | Genuinely the hardest of the seven to find a subject for; may require the Canon Gap Resolution Method to establish a subject before this methodology can run on one at all. Flag rather than force if nothing sufficiently developed exists. |
+| **Natural feature** | Untested | A specific named glacier, ice shelf, mountain, or the Ross Ice Shelf / a specific polynya considered as a location in its own right, distinct from any city built near it | Check `Reference-Images/Maps/` and existing geographic canon for a natural feature with enough established specificity (not just "the ice sheet" generically) to run against. |
+| **Network locus** | Untested | **A Halley-subnet Arcanet region** — the worked example `01` §1.1 names directly | Real, addressable, non-physical — tests `01` §1.1's own "where is it, if it is nowhere?" question, genuinely unlike anything run so far. |
+| **Interstitial** | Untested | **Concordia's Hub (Axis Mundi)** — the worked example `01` §1.1 and §1.3 both name directly, explicitly "the type the district methodology had no name for" | Uses `01` §1.3's own dedicated Interstitial procedure (name what it's between, what each neighbor exports to it, what it refuses to become, who is here on purpose) rather than the standard capability-frame path — the four-quadrant frame does not apply to this type at all. A strong, well-precedented next pick given how much of `01` was written with this exact location in mind. |
 
-**Janbogo:** subnet capital of the Janbogo Subnet, 330 lines of local culture material (the largest of any
-never-run city), a 200-line spec, plus subnet-level relationship canon. Being a capital, **Phase 5 (Relation)
-and Phase 7 (Order) both carry real weight** rather than returning thin.
+**How to choose, concretely:**
+1. **Pick the Type first, the subject second** — the point of this phase is Type coverage, not finding the
+   single most interesting location.
+2. **Prefer a Type/subject pair with an existing canon foothold** (Structure/Amundsen Tower,
+   Network locus/Halley Arcanet, Interstitial/Concordia's Hub are the three strongest starting points, per
+   the table above) over one requiring the Canon Gap Resolution Method to run first — unless the developer
+   specifically wants that combined exercise.
+3. **If genuinely undecided between two Types**, name the candidates and the tradeoff and ask the developer
+   to choose, exactly as `01` §5.3a's typicality declaration exists to make visible — a silent choice here is
+   a silent bias the rest of the phase cannot correct for.
+4. **State the typicality declaration for the choice itself**, per `00_RUNBOOK.md`: is the chosen location
+   typical or exceptional for its Type, and if exceptional, which findings will depend on that.
+5. **Before counting any location's input as admissible, check for a `Course_of_Events/`-style demoted
+   folder** (`05` §6.3) — the Janbogo run confirmed this pattern is project-wide, not Janbogo-specific, and
+   every city (and plausibly every location of any type) may carry unratified narrative material that passes
+   circularity but fails ratification. Run the §7 pre-flight ratification block on every input, not just the
+   ones that look like vignette folders.
 
-> ## ⚠ BEFORE YOU COUNT JANBOGO'S INPUT: eleven of its files are DEMOTED, not admissible.
->
-> **`Background-Lore/Cities/Janbogo_Subnet/Janbogo/Course_of_Events/` — eleven files, ~1,836 lines — plus
-> `Janbogo_Course_of_Events_Suggestions.md`, are NOT CONFIRMED CANON.** Developer, directly: *"those vignettes
-> still need to be double-checked. I haven't determined which ones are canon."*
->
-> **Read `05_The_Input_Contract.md` §6.3 before touching them.** They pass the circularity rule and fail the
-> ratification one. **They are DEMOTED, not quarantined** — readable as prompts, exactly as a real-world
-> inspiration is readable, but they **cannot ground a finding, settle a fact, or be cited as canon.** A finding
-> resting only on them is **REQUESTED**, not PRODUCED.
->
-> **This is not Janbogo-specific.** Every city has a folder of this kind, and the ratification decision across
-> all 35 is open. **Run the §7 pre-flight ratification block on every input, not just this one.**
-
-**So Janbogo's actual admissible input is smaller than its file count suggests — and that is fine.** It is
-still the richest unrun subject available. **Do not pad the pass with demoted material to make it look
-fuller.**
-
-**Still required, exactly as for every prior run:** build the quarantine per §3 (the 330-line culture file is
-this run's withheld comparison target, opened only at Gate 6), and state the typicality declaration for the
-subject.
+**One Type per run, one run per fresh session, same standing pacing precedent as every prior run:** *"if it
+takes a month to get it right, then we spend a month testing and refining it."* Do not treat "seven Types
+remain" as a reason to rush any one of them.
 
 ---
 
-# 2b. ⚠ THE INSTRUMENTATION TASK — Run 9's second job
+# 2b. The ordering-collision instrumentation — now standing practice, no longer the special focus
 
-**Read `03_The_Phase_Spine.md` §0.4 in full before Phase 0. This section assumes it.**
+**Read `03_The_Phase_Spine.md` §0.4 before Phase 0, as always. This section assumes it.**
 
-**What was found and fixed on 2026-08-31 (M-61):** the spine had silently merged **DRAFT order** (phases are
-*written* 0 → 10) with **CLOSE order** (a few checks are only meaningful against a *complete* file). Because
-the second was never named, **running sessions invented forward dependencies to describe the collision** —
-writing things like *"this section will be re-checked once Phases 5–10 are written"* inside Phase 4. The
-methodology never said that. **The sessions generated it themselves**, which is why searching the method files
-for the defect returned clean for as long as it did.
+**Status, updated after Run 9**: the defect this instrumentation was built to catch (M-61 — sessions
+inventing forward dependencies to describe a DRAFT-order/CLOSE-order collision the methodology never
+actually stated) has now been tested clean on **two structurally different locations** — Highway 37/Cape
+Adare (thin, the docket's own origin) and Janbogo (deliberately rich, all eleven phases firing
+simultaneously, the hardest case this docket could face). **All four known docket rows held on both.** This
+specific defect class is no longer this methodology's own open question — a future run finding a genuine
+fifth collision row would still be a real, valuable result, but the instrumentation is no longer the
+mandatory "second job" every run must carry.
 
-**§0.4 now carries a four-row close-pass docket. It is explicitly NOT known to be complete** — it was built
-from two runs, both on locations thinner than Janbogo.
-
-### Your instrumentation task, stated concretely
-
-1. **Keep a running log file, `NN_Ordering_Collision_Log.md`, from Phase 0 onward.** Not written at the end
-   from memory — **written as it happens.** A collision reconstructed afterward is the recording law's known
-   failure mode (see the recording law section above).
-2. **Log every point where a check cannot be completed in the phase that owns it**, whether or not it is on
-   the docket. For each: **which item, which phase owns it, what it needs, which phase supplies that, and
-   where you closed it.**
-3. **Flag any collision NOT on the four-row docket loudly.** Those are the finding. The four known rows are
-   the control, not the result.
-4. **Do NOT write a forward dependency to resolve one.** That is the defect. **A phase that defers a
-   complete-file check is COMPLETE, not BLOCKED** — close the phase, docket the check, move on. If you find
-   yourself typing *"pending Phase Y"* about a later phase, stop and consult §0.4.
-5. **Record the negative result too.** If the fix holds and no new collision appears, **say so explicitly and
-   say what you watched for.** A clean instrumented run is a real result; an unstated one is worthless.
-
-> **⚠ The honesty trap specific to this run.** You will read §0.4 before you start, so you will be primed not
-> to generate the bug. **That is intended — it is the fix working.** But it also means a clean log is weak
-> evidence unless you state clearly *what you watched for and where you nearly slipped.* **Record near-misses:
-> any moment you wanted to defer something and had to check the docket to decide how.** Those are the most
-> informative lines you will write.
-
-**Guidance below is for narrowing *within* the developer's constraint, not for overriding it — retained from
-the Run 7 handoff because the reasoning still applies to any future run whose subject is open:**
-
-1. **Prefer a city with thin, sparse, or largely absent existing canon** over one with a rich pre-existing
-   culture file — this is the developer's own explicit framing for Run 7, not merely this file's usual
-   preference. A city where most of the eight generators (`02` §2) return null or weak is the actual target.
-2. **Zhongshan and Sinheung have both now been fully run and are not eligible.** **Shirayuki is NOT
-   disqualified by the highway-connection rule** (it sits on Hwy 110, not Hwy 37) and remains genuinely viable,
-   but note carefully: Sinheung was chosen on a "thin canon" assumption that turned out wrong (Run 5's own
-   finding), and Shirayuki's own canon depth has not been independently verified as thin — check before
-   assuming it satisfies the developer's specific "under-developed" ask for Run 7, rather than treating
-   "never run" and "under-developed" as the same property. **If Shirayuki's canon turns out comparably rich,
-   prefer a genuinely thinner city instead**, even one less well-known. **A session choosing Shirayuki must
-   still verify the inbound memory scan (§4)** — the banners from M-21's fix should cover it, but verify rather
-   than assume, and check specifically for the M-32 fix's own banded entry
-   (`project_refugee_affinity_verification_pass.md`), which also carries a leaked Signy claim unrelated to
-   Shirayuki but sits in the same file.
-3. **Type/Band is not the axis for this run** — Run 6 already tested an unusual Type (Corridor); Run 7 is
-   specifically a Settlement/city per the developer's own instruction, testing thinness within the familiar
-   Type rather than testing a new Type. Do not substitute a Corridor, Natural feature, or other unusual Type for
-   Run 7 on the theory that it satisfies the same general goal — it does not satisfy this run's specific brief.
-4. **If genuinely undecided between two or three candidate cities**, state the candidates and the tradeoff
-   (canon depth, highway independence confirmed for each), and ask the developer to choose rather than picking
-   silently — this is exactly the kind of decision `01` §5.3a's "configuration: typical/exceptional" declaration
-   exists to make visible, and a silent choice here is a silent bias the rest of the pass cannot correct for.
-
-**State the typicality declaration for the choice itself**, per `00_RUNBOOK.md`: is the chosen location
-typical or exceptional for its type, and if exceptional, which findings will depend on that.
+**Still required, as ordinary good practice on every run**: keep `01_Ordering_Collision_Log.md` (or
+equivalent, matching the Run 9 naming convention) from Phase 0 onward, written as it happens, per the same
+five rules Run 9 followed — log every close-order deferral whether or not it's on the docket, flag anything
+NOT on the four-row docket loudly, never write a forward dependency, record the negative result explicitly
+when the log stays clean. **This is now standard procedure, not a special watch** — a session running a new
+Type should still keep the log, both because it costs little and because a genuinely new Type (Interstitial,
+Vessel, Network locus) may expose a close-order collision shape the two Settlement-shaped locations that
+built the docket could never have produced.
 
 ---
 
@@ -458,16 +452,16 @@ or a signature phrase — stop reading it, and add a banner before you continue.
 **If the honest answer is "probably, I suppose," the pass is not finished regardless of what the gates say.
 There is no deadline. Go back and make it true.**
 
-> ## ⚠ And for Run 9 specifically, "done" has a second half.
+> ## ⚠ And for every run in this phase specifically, "done" has a second half: did it actually test the Type?
 >
-> **A finished Janbogo is HALF the deliverable.** The other half is `NN_Ordering_Collision_Log.md` (§2b) —
-> written as the run happens, not reconstructed at the end — plus:
+> **A finished location file is HALF the deliverable in this phase.** The other half is an explicit,
+> written answer to: **did this location's Type force any phase to run differently than a Settlement would
+> have — and if a phase came back thin or null, was that because the Type genuinely doesn't support that
+> phase (`03` §0.1's own applicability table), or because the pass defaulted to Settlement-shaped thinking
+> out of habit?** A run that produces a beautiful location but never explicitly checks its own Type-fidelity
+> has not answered the question this phase exists to ask. Also still expected of every run, unchanged:
 >
-> - **Every close-order collision encountered**, docketed or not, with which item needed which phase.
-> - **Any collision NOT among `03` §0.4's four rows, flagged loudly.** That is the actual finding.
-> - **Near-misses** — every point you wanted to defer something and had to consult the docket to decide how.
-> - **The negative result, stated explicitly if that is what happened**, naming what you watched for.
+> - **The ordering-collision log** (§2b) — now standing practice, not a special watch, but still expected.
 > - **The §7 ratification block filled in** (`05` §6.3), listing what was demoted and which findings came out
 >   REQUESTED because they rested only on unratified material.
->
-> **A Run 9 that hands back a beautiful city and an empty log has not finished.**
+> - **The typicality declaration** (§2) — stated plainly, with which findings depend on it.

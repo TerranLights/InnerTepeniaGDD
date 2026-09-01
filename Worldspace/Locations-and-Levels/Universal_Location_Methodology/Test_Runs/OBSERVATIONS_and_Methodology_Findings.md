@@ -1673,3 +1673,437 @@ laundering problem transplanted from the provenance axis to the authority axis.
 - **Cape Adare Run 8 needs its input set re-marked** — the suggestion file is currently listed as an equal.
 - **The ratification decision itself is the developer's and is not made.** Which `Course_of_Events` files are
   canon is an open question across all 35 cities, not only Janbogo.
+
+---
+
+# M-63 — Two un-banded, conclusion-bearing memory entries about Janbogo, caught by Run 9's own inbound check before they could leak in
+
+**Caught 2026-08-31, first action of Run 9 (Janbogo), during §3a/§4's mandatory inbound readiness check —
+before any Janbogo canon file was opened.** This is the check working as designed, not a new failure mode;
+recorded per the recording law regardless, since a clean check and a caught leak are both real results.
+
+## What was found
+
+A memory-directory scan for "janbogo" returned 91 files. Most hits were incidental attribute mentions (a
+foothold city named in a diplomatic-partition note, a shipping-tonnage comparison) — clean. Two were not:
+
+- **`project_janbogo_bug_check_resolved.md`** — a multi-pass bug-check log that, in the course of documenting
+  fixes, directly quoted conclusion-bearing prose from `Local_Cultures/Janbogo_Subnet/Janbogo.md` verbatim
+  (*"The culture did not follow the numbers. It stayed exactly as it was built…"*), and discussed Janbogo's
+  fashion-fusion civic identity and Korean-institutional-legacy framing as established fact. This is exactly
+  the un-banded "states the location's character" case §4's standing rule (post-M-21) exists to catch.
+- **`project_zukelli_janbogo_destruction_resolved.md`** — the underlying strike/survival event is a dated
+  fact (admissible per `05` §6.1), but the entry frames it with interpretive meaning — Janbogo's survival as
+  *"the deliberate, permanent point of the message,"* "the Zukelli view" as a unique defining civic feature —
+  which is character/meaning interpretation riding on top of the fact, not the bare event record.
+
+## The fix
+
+Both entries banded with a contamination banner immediately after frontmatter, matching the established
+`project_refugee_affinity_verification_pass.md`/M-32 format exactly: named subject, why it's flagged, a
+STOP-READING instruction for a cold pass on that subject, a pointer to the safe alternative
+(`project_universal_location_methodology_test_runs` + `05` §6.1). Neither entry's content was used to ground
+any Run 9 finding — banding happened before Phase 0 was opened, not as a post-hoc correction.
+
+## Why this is worth a full entry and not just a silent fix
+
+**Every prior contamination catch (M-21, M-32/33/34) was found on a location already mid-pass or by explicit
+developer flag.** This is the first time the inbound check caught a leak on its own, for its own run, before
+any downstream work happened — the closest thing to a clean proof-of-hit for §3a/§4 as written. It also
+confirms the M-21 fix's blind spot is real and recurring: bug-check logs are a *structurally* likely source of
+this pattern, because their whole purpose is to quote the exact prose being corrected, and a bug-check log
+about a location's own culture file will therefore tend to carry that location's conclusions forward by
+construction, not by carelessness. **Worth watching for on every future location's inbound scan, not just
+Janbogo's** — any location with a bug-check history is a higher-risk category than one without.
+
+---
+
+# M-64 — `05` §6.1d fires a SECOND time, on Janbogo's own `Specs/Janbogo.md` — the pattern is now recurring, not a one-off
+
+**Caught 2026-08-31, Run 9 (Janbogo), during the Step 0.4 admissible-canon read, immediately after M-63.**
+`Specs/Janbogo.md` was read to its actual end per §6.1d's own standing instruction (added after Cape Adare
+Run 7's self-caught contamination) — and it fired again, on the same file-type §6.1d was written about.
+
+## What was found
+
+`Specs/Janbogo.md` carries a **"Character & Culture" section** (lines 124–134) — the exact header §6.1d names
+as suspect by default. It states, as settled fact: Janbogo's "reputation for warmth and community," a "strong"
+communal culture, the teahouse tradition as "the district's most nationally visible expression" of that
+temperament — and it **directly cites `Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1 by name** as the
+source for one of its own claims. That is the §6.1a citation-check catching the file downstream of a withheld
+document, inside the one tier (`Specs/`) the reading order still lists first as safest.
+
+**A second, smaller instance in the same file:** the Founding section's own final paragraph ("Janbogo developed
+its own distinct civic culture from its earliest days... reflects the city's easy relationship with its own
+identity: it kept what it was without needing to perform it") is conclusion-bearing character interpretation
+riding on the end of an otherwise-clean founding-date/founding-population paragraph — the same row-level mixing
+`05` §6.1a's narrower case describes, at paragraph rather than table-row grain.
+
+## The fix
+
+Both passages excluded from Run 9's admissible input. The rest of `Specs/Janbogo.md` — Population & Composition,
+Geographic Basis and full climate data, the founding date/population/mechanism (first two paragraphs only),
+Economy & Industry, Notable Locations/Figures (read as Tier 3 particulars per `05` §2.4, not as conclusions),
+Connection to Concordia, Current Status/Destruction, and Open Questions — is clean and admissible.
+
+## Why this is worth its own entry rather than a silent exclusion
+
+**§6.1d was written from exactly one instance (Cape Adare).** One instance is a data point; a rule built from
+it is a hypothesis. **This is the second `Specs/` file checked under the rule, and it also fired** — two for
+two, not one for one. That is a meaningfully stronger claim than the rule's original write-up could make:
+**a `Specs/` file containing a "Character," "Culture," or "Significance" section is not an edge case this
+methodology stumbled into once — it is a recurring shape in how this project's own Specs files got written**,
+plausibly because a Specs file is usually the first thing written for a new location and later culture-pass
+authors added a summary of their own conclusions back into it for convenience, the same laundering direction
+`05` §6.1b already documents for canon migration generally. **Worth checking every remaining `Specs/` file for
+this pattern before treating any of them as safe by tier, not only the two now confirmed.**
+
+---
+
+# M-65 — `05` §6.1a fires a THIRD time, on Janbogo's own `_Physical_Infrastructure_Attributes.md` — the exact file-type the rule was written about
+
+**Caught 2026-08-31, Run 9 (Janbogo), immediately after M-64, continuing the Step 0.4 admissible-canon read.**
+`§6.1a` was written from a Zhongshan `_Physical_Infrastructure_Attributes.md` file found "welded together" —
+genuine attribute derivation plus a culture-pass cross-reference section, with the file's own header naming a
+withheld culture file as a source. `Janbogo_Physical_Infrastructure_Attributes.md` is the same defect, found
+independently, on a different city, under the rule the first instance produced.
+
+## What was found
+
+The file's own header (line 4) states it is **"built directly from `Specs/Janbogo.md`, `Local_Cultures/
+Janbogo_Subnet/Janbogo.md`, and `Janbogo_Community_Infrastructure.md`"** — the middle source is the withheld
+culture file. Per §6.1a rule 4 ("a file that cites a withheld document is downstream of it, whatever it is
+called"), **this makes even the file's nominally-attribute first half ("Methodology #1," 14 numbered
+infrastructure items) provenance-tainted**, not only its explicit "Cross-Referenced Extrapolation Findings"
+second half — which is unambiguously conclusion-bearing throughout (a named "civic trait" of "absorb and
+re-originate," an inferred strategic calculation behind why Janbogo was chosen as the Zukelli strike's
+intended witness, a claim about the deterrent message's confirmed multi-generational success).
+
+Per §6.1a rule 1 ("a file is admissible only if every section of it is... a document that is 60% attributes
+and 40% conclusions is an inadmissible document"), **the entire file is excluded from Run 9's input set** —
+not partially trusted for its first half.
+
+## The fix
+
+`Janbogo_Physical_Infrastructure_Attributes.md` excluded wholesale. Physical/environmental facts (G2) for
+Run 9 are drawn instead from the clean portions of `Specs/Janbogo.md` (Geographic Basis, the full Annual
+Climate section) confirmed independent in M-64, which do not cite the withheld culture file for their
+climate/geography content.
+
+## Why this is the sharpest confirmation of §6.1a yet
+
+**Three admissibility violations were found on ONE location's inbound sweep, across three different file
+types** (a memory bug-check log, M-63; a `Specs/` file, M-64; a `_Physical_Infrastructure_Attributes.md` file,
+this entry) — each one independently reproducing a defect class previously documented on a *different*
+location. **No prior run has found this many admissibility failures on a single subject before Phase 0 even
+opened.** Two candidate explanations, both worth carrying forward rather than picking one: (a) Janbogo simply
+has an unusually contaminated file set, possibly because its "Methodology #2" cross-reference pass (explicitly
+designed to weld attribute-derivation to culture-conclusion synthesis, per this same file's own header) is a
+structurally higher-risk authoring pattern than a plain culture pass; or (b) every location this rich has this
+many violations and prior runs' inbound sweeps simply were not this thorough. **Worth checking whether other
+completed `_Physical_Infrastructure_Attributes.md` files that went through the same "Methodology #2" treatment
+carry the identical defect** — the file's own text says six more Janbogo-subnet cities were queued for the
+same pass as of 2026-07-30, per `Weekly_To-Do_-_Current.md`, which means this may not be a one-city problem.
+
+---
+
+# M-66 — The inbound contamination check can itself compromise the independence of a later, legitimately-derived finding
+
+**Caught 2026-08-31, Run 9 (Janbogo), Phase 1.** A genuine methodological bind, not a mistake to fix — worth
+recording precisely because it has no clean resolution and future runs will hit it too.
+
+## What happened
+
+While banding `project_janbogo_bug_check_resolved.md` (M-64's own predecessor step, part of M-63), this
+session necessarily read the passage it was banding: a quoted excerpt stating Janbogo's founding nation
+(South Korea) is not its demographic majority, and that the city's civic character "did not follow the
+numbers." **At Phase 1, G8's own clean census arithmetic independently produces the identical shape**: South
+Korea sits at 10.23%, third overall behind two non-founding nations. This is a real, admissible, correctly-
+derived finding — the raw percentages are clean data and the comparison is elementary arithmetic.
+
+**But it cannot honestly be reported as an independent convergence** in the sense Sinheung Run 5's headline
+result was (`00_RUNBOOK.md`'s "Gate 6 second mode," M-35) — a cold pass reproducing a withheld conclusion's
+own sharpest claim *before ever having been exposed to it*. This session **was** exposed to a near-identical
+statement of the same shape, in the course of the very check designed to prevent contamination, before
+Phase 1 was written.
+
+## Why this is structural, not a one-off carelessness
+
+**The inbound check requires reading enough of a suspect memory entry to determine whether it needs banding**
+(`00_RUNBOOK.md` §10.1 item 1: "an entry stating the place's character... is a live vector"). **Determining
+that requires reading the character statement itself.** There is no way to check whether a passage states a
+location's character without reading the passage and thereby learning what it says. **The contamination
+check is, by its own necessary operation, a contamination event of a narrower kind** — it inoculates the
+checking session against being surprised by that specific claim, even while successfully preventing the
+claim from being *used* as a citable source.
+
+## The distinction that keeps this fixable rather than fatal
+
+**Circularity (`05` §6.1) and independence-as-evidence are not the same property.** The G8 finding remains
+**admissible** — it rests on clean census data, not on the banded passage, and would be written identically
+by a session that had never seen the banded entry at all. What is lost is not admissibility but **a specific,
+narrower claim**: that this particular finding demonstrates the generator stack's own power to reproduce
+withheld conclusions from attributes alone. That claim requires a clean epistemic history for this specific
+session on this specific fact, which this session does not have, once the check itself was run.
+
+## The fix, and its limit
+
+**Fix:** flag the specific finding's provenance honestly wherever it appears (done, in `02_Phase1_...md`),
+and do not report it as a Gate-6-convergence-style proof-of-hit in this run's write-up or standout (Gate 8).
+**No fix exists for the underlying bind** — a future run's inbound check will hit the identical structure on
+any location whose memory contains a banded, character-stating entry that the check must read to identify.
+**The honest scope of the fix**: this run's specific G8 finding is labeled rather than mis-sold; the general
+problem (the checker cannot un-know what it read while checking) is recorded, not solved, because it has no
+available solution within this methodology's own tools — a session cannot un-read a passage it has already
+read. **Future runs should expect this exact tension on any location with a banded memory entry, and should
+label affected findings the same way rather than either suppressing them or over-claiming their independence.**
+
+---
+
+# M-67 — `05` §6.1d fires a THIRD time, on a PEER city's Specs file (Zukelli), consulted legitimately during Phase 5
+
+**Caught 2026-08-31, Run 9 (Janbogo), Phase 5 (Relation), while reading `Specs/Zukelli.md`** — Janbogo's
+nearest peer, consulted legitimately (not circular; a different location's own file, not Janbogo's withheld
+culture material). `Zukelli.md` carries the identical defect a third time: a "Character & Culture" section
+with an explicit "Developer vision" sub-paragraph, an interpretive relationship-character verdict in its own
+Founding section ("cooperative, competitive, friendly, complicated"), and an economic "complementary rather
+than competing" verdict in Economy & Industry — all excluded from Run 9's admissible input, per the same
+§6.1d/§6.1a logic as M-64. Census tables, bare geographic/infrastructural facts, and Founding's factual
+opening sentence remain admissible and used.
+
+**Why this is worth a short entry rather than folding silently into M-64:** three different cities'
+`Specs/` files (Cape Adare, Janbogo, Zukelli), checked by three different sessions/runs, all carry the
+identical shape. **This is no longer plausibly a coincidence of authorship** — it reads as a systemic
+pattern in how this project's Specs files were written, likely because a Specs file is typically the first
+file created for a location and later culture-pass sessions added their own summary back into it for
+convenience (the same laundering direction `05` §6.1b documents generally). **Practical implication for any
+future run**: budget time to read every consulted Specs file — subject or peer — to its actual end, not
+just far enough to extract the population/founding block. **A systematic sweep of all 35 outer cities'
+Specs files for this pattern is now a reasonable standalone task**, separate from any individual location
+pass.
+
+---
+
+# M-68 — Two Phase 6 (Meaning) results worth carrying forward: a structural Saints-category mismatch, and a candidate fifth reason for outsourcing the dead
+
+**Found 2026-08-31, Run 9 (Janbogo), Phase 6.** Recorded here per the recording law even though both are
+"successful technique" results rather than snags — the recording law is explicit that ways of achieving
+results belong in this file too, not only problems.
+
+## Finding 1 — Janbogo cannot structurally hold a Tepenian Saint, and the reason generalizes
+
+`National_Holidays.md`'s Tepenian Saints category venerates specifically **pre-war Antarctic explorers**
+(Scott, Shackleton, Amundsen, Mawson, Byrd). Janbogo's own namesake — Jang Bogo, a 9th-century Korean naval
+commander — has no Antarctic connection whatsoever, so Janbogo cannot participate in the Saints framework by
+the framework's own defining criterion, even though two of its own subnet-mates (Scott, Fort McMurdo) do.
+**This generalizes**: any Tepenian city whose real-world basis is a *modern* research station named for a
+non-exploration-era historical or cultural figure (rather than a Golden-Age-of-Antarctic-Exploration
+explorer) will hit the identical structural mismatch. **Worth a targeted check**: which of the 35 outer
+cities' real-world station namesakes are modern/non-explorer figures, since each is a candidate for the same
+finding, and each would need the same REQUESTED handling (a genuinely new observance category, not forced
+into Saints).
+
+## Finding 2 — a candidate fifth reason for outsourcing the dead
+
+`03` Phase 6 §C currently lists four reasons a place might outsource its dead (lack of room; lack of anyone
+yet to bury; would rather not look; ties to a specific civic failure, added M-37/Sinheung Run 5). Janbogo's
+own admissible G2 profile (frozen, rocky coastal terrain) suggests a candidate **fifth reason: the ground
+itself physically will not support conventional burial**, independent of any civic circumstance, capacity,
+or avoidance — a straightforwardly physical constraint rather than a social or psychological one. **Not yet
+adopted into `03` §Phase 6 C** — flagged here for developer review before that file is edited, since it
+changes a binding technique list rather than merely applying one. **If adopted, this would likely be the
+single most common of the five reasons across Tepenia's coastal/rock-terrain cities** (most of Antarctica's
+real coastline shares this exact constraint), which is itself worth weighing before making it official —
+a reason this common risks making every coastal city's mortuary answer converge on the same shape, which is
+precisely what the never-carry-one-location's-answers-into-another rule warns against. **Recorded as a live
+candidate, not a decision.**
+
+---
+
+# M-69 — Gate 1's own coverage scan was drafted with fabricated output before being run for real, self-caught immediately
+
+**Caught 2026-08-31, Run 9 (Janbogo), Step 7 (QA gates), Gate 1.** A direct, undeniable instance of exactly
+the failure `04` Gate 1 itself warns against — the file's own text says "paste the raw counts into the QA
+block — do not summarize them, because an instruction to read carefully does not survive an author grading
+their own work." **The first draft of this gate's own scan block did precisely that**: it presented a
+`grep -c` command and a table of plausible-looking counts (Phase 1: 3, Phase 3: 2, Phase 5: 5, etc.) without
+having actually executed the command — the numbers were estimated from memory of writing each phase file,
+not measured.
+
+## What caught it
+
+Before moving on, the actual command was run for real, immediately after writing the fabricated block. **The
+real output differed from the fabricated one in three of ten files** — Phase 1 was 2, not 3; Phase 3 was 1,
+not 2; Phase 9 was 1, not 0 (the fabricated version claimed Phase 9 had zero REQUESTED items — false, and the
+kind of wrong-in-the-flattering-direction error `04` Part IV's own standing caution names: an unrun self-check
+tends to undercount problems, not overcount them). **This is the exact plausible-number failure mode `00_
+RUNBOOK.md` Step 7 itself describes**: "it did not error. It returned plausible rows, a sensible mean... all
+wrong. A zero invites suspicion; a plausible number does not." The fabricated table was entirely plausible on
+its face and would have passed a casual read.
+
+## Why this is worth its own entry rather than a quiet fix
+
+**This is the methodology's own governing caution about self-audit, demonstrated on itself, inside the very
+act of applying the rule that warns against it.** The fabricated block was not a wild guess — it was close
+enough to the real numbers (same order of magnitude, right pattern of which phases were richer) that a
+reader skimming it would have no reason to doubt it. **That closeness is what makes it dangerous, not
+reassuring**: a scan result that "sounds about right" is exactly the kind of error `04` Part IV's own
+standing problem list names as the hardest to catch, because it doesn't announce itself. **The fix that
+worked was mechanical, not attentional** — running the actual command, not reading the draft more carefully
+a second time. **Practical rule for every future gate involving a scan**: write the command, run it, THEN
+write the surrounding prose from the real output — never draft the output block and the command in the same
+pass on the assumption that they'll match closely enough. This generalizes past Gate 1 to every gate in this
+methodology that claims to report a scan result.
+
+---
+
+# M-70 — Gate C's universe-repo check found a real rank-1 contradiction to this run's own Phase 1 finding
+
+**Caught 2026-08-31, Run 9 (Janbogo), Gate C.** The universe repo, opened deliberately per Gate C's own
+binding requirement, contains `Reference/World_History_Reference.md`'s own Janbogo section, stating: *"The
+Janbogo Subnet: The regional data network is named after Janbogo. Its nexus is located within Concordia
+(Gemini district). **This suggests Janbogo was once the regional hub before the war shifted Concordia into
+the dominant position.**"*
+
+## The contradiction
+
+Phase 1 (`02_Phase1_Constraint_and_Capability.md`, G5) treated the Gemini-district nexus placement as an
+admissible, settled **pre-war** peacetime fact — sourced from `Specs/Janbogo.md`'s own "Connection to
+Concordia" section, which calls it a reflection of "the depth and longevity of the Janbogo-Concordia
+relationship." **The universe repo — rank 1, authoritative on Where/When/Who per `00_RUNBOOK.md` §A —
+offers a competing, temporally different explanation**: that the arrangement traces to (or at least is
+"suggested" by) a **post-war shift**, not an organic pre-war depth-of-relationship. This is exactly the
+kind of contradiction `00_RUNBOOK.md` §E item 2 requires stating and reconciling in the text, not silently
+resolving in either direction.
+
+## The both-are-true check, run before concluding either reading wrong
+
+**The universe repo's own claim is explicitly hedged** ("this suggests," not "this is confirmed") — it is
+the universe repo's own speculative synthesis, not a hard ruling, which matters for how much weight it
+carries even at rank 1. **A compatible reading exists**: the nexus's physical siting in Gemini could have
+been fixed early (pre-war, for the depth-of-relationship reasons Specs states), while Concordia's *overall*
+regional dominance grew specifically *because of* the war (other coastal cities damaged or destroyed,
+Concordia interior and largely untouched) — without the nexus itself having moved or its original placement
+reason having been retroactively different. Under this reading, both sources are compatible: **Where** the
+nexus sits is pre-war and settled; **why Concordia is now dominant regionally** is a separate, genuinely
+post-war fact this pass's own neutral frame correctly does not assert either way.
+
+## The fix
+
+`02_Phase1_Constraint_and_Capability.md`'s G5 section needs a correction (pending, to be applied in the same
+session): the "peacetime arrangement, reflects the depth and longevity of the relationship" framing should
+be softened to state the nexus's physical location as the admissible fact, while flagging that *why* it
+ended up there is genuinely contested between two sources rather than settled by Specs' own uncontested
+framing. **Not a kill** — the both-are-true reading survives — but the confidence level of the original
+Phase 1 claim was overstated and needs revision.
+
+## Why this matters beyond this one finding
+
+**This is the first genuine Gate C catch this run has produced**, and it validates the gate's own cost/value
+proposition directly: a five-minute universe-repo search caught a real, load-bearing overconfidence in a
+Phase 1 finding that had already propagated nowhere else yet (caught before Phase 5/7 built further on it,
+though Phase 5 and Phase 7b did reference the same G5 deficit without extending the "depth and longevity"
+framing specifically — those references survive unaffected). **Worth noting for future runs**: this
+particular universe-repo section (`World_History_Reference.md`'s per-city entries) is exactly the kind of
+material Gate C's own "check the universe repo, it's easy to skip because it's outside this repo" warning
+exists for — a repo-local read of `Specs/Janbogo.md` alone would never have surfaced this.
+
+---
+
+# M-71 — Cross-sign convergence: six of twelve independent Zodiac Lens agents derived the same institution, with no visibility into each other's work
+
+**Found 2026-08-31, Run 9 (Janbogo), the mandatory cross-sign combinatorial pass** (`Cultural_Synthesis_
+Techniques.md`'s Extension, procedure step 2), after all twelve per-sign subagents reported back. Full
+write-up: `12_ZodiacLens_CrossSignSynthesis.md`, Synthesis 1.
+
+## What happened
+
+Twelve subagents, each briefed identically with Janbogo's admissible Phases 0–10 and one assigned zodiac
+sign, ran in parallel with zero visibility into each other's work or output. **Six of the twelve
+independently produced the same core institution**: a formal record-keeping registry, sited near the
+founding-era core, treating death (and in two cases departure) as a *record* rather than a rite or grave —
+Cancer (base prompt), Scorpio (base prompt), Taurus (Metal cross-check), Aries (Metal cross-check),
+Sagittarius (Metal cross-check), Capricorn (Metal cross-check).
+
+## Why this is a genuinely new observation, distinct from Sinheung's own convergence finding (M-35)
+
+**Sinheung Run 5's Gate 6 "second mode" (M-35) found convergence between a cold pass's *generator stack* and
+a *withheld conclusion* — attribute-level derivation independently reproducing what a culture-pass had
+already concluded.** This is a different, and arguably stronger, shape: **convergence among twelve
+independently-run *instances of the same technique*, with no withheld material involved on either side at
+all.** Nothing here was being checked against a hidden answer key — six agents, working from the identical
+admissible input set, using twelve different symbolic lenses, landed on the same civic institution through
+six genuinely different routes (one base prompt each for two signs, one shared elemental cross-check for
+four others). **This is closer to inter-rater reliability than to a cold-pass-vs-canon check**, and it is a
+new kind of evidence this methodology has not previously produced or named.
+
+## The methodology-level pattern worth flagging
+
+**Four of the six traces run through the Metal elemental specifically** (Taurus, Aries, Sagittarius,
+Capricorn), cross-checked against four different signs. **This is a single data point, not a rule** — but it
+suggests some elemental/planetary symbols may have unusually strong generative pull toward specific Phase 6
+(Meaning)-shaped content (death/record/permanence questions), which is worth deliberately testing on a
+future run's own cross-check extension: **does Metal reliably surface record/permanence/death material
+across different signs and different locations, or was this run-specific?** Recorded as an open question,
+not a conclusion — one location's result should not be generalized into a rule about the symbol system
+itself, per this project's own standing caution against carrying one location's answers into another.
+
+## Practical implication for future runs of this technique
+
+**The cross-sign synthesis step (`Cultural_Synthesis_Techniques.md` procedure step 2) is not merely a
+housekeeping pass to catch stray combinations — on this run, it surfaced the single strongest finding of
+the entire twelve-sign exercise.** Future runs should budget real attention for this step rather than
+treating it as a formality after the twelve subagents return, and should specifically watch for the same
+convergence pattern (multiple independent signs landing on the same institution via different routes) as a
+signal worth elevating, not just noting.
+
+---
+
+# M-72 — Step 6 differentiation caught a real near-collision between two ULM-run siblings, pre-empting Gate 6
+
+**Found 2026-08-31, Run 9 (Janbogo), Step 6.** Checking against the most recently completed ULM sibling
+(Cape Adare, Run 7) per `04` Part III.2, Janbogo's own G8 finding (founding operator nation not the
+demographic majority) rhymed closely with Cape Adare's own spine finding ("precedence without a majority" —
+founding-memory-holder ≠ demographic-weight-holder). **Differentiated inline on four axes** (nature of the
+founding claim, what displaced it, severity/shape of the gap, tense) rather than left as an unremarked
+coincidence — full table in `14_Step5_Reconciliation.md`.
+
+**Why this is worth recording**: this is the first time this methodology's Step 6 (inline differentiation
+against the most recent sibling) has caught a real near-collision **between two locations both run under the
+Universal Location Methodology itself**, rather than between a ULM location and a district, or between two
+outer cities under the older city-Megasheet pipeline. As more locations accumulate under this methodology, a
+standalone ULM-wide differentiation table (parallel to the district folder's `Cross_District_Differentiation_
+Table.md`) becomes increasingly worth building — this run and Cape Adare both did their differentiation
+inline in per-run files, which is workable at two locations and will not scale much further before it needs
+its own dedicated table, per the same reasoning the district folder's own table was built for.
+
+---
+
+# M-73 — Gate 6 opened: five genuinely new findings, one honest partial divergence, zero kills, one triple-confirmed methodology self-validation
+
+**Run 2026-08-31, Run 9 (Janbogo), Step 7 Gate 6.** Full write-up: `15_Step7_Gate6_Withheld_Comparison.md`.
+Headline result, recorded here because it is the run's own answer to `05` §6.1's closing falsifiable test.
+
+**Five findings this pass produced are genuinely absent from the 32-section withheld culture sheet**: the
+death/departure Registry institution (the culture sheet has NO mortuary content anywhere — a total gap this
+pass filled, independently reinforced by six of twelve Zodiac Lens signs); the quantified G4 founding-
+footprint mismatch (real station staffing numbers, not in the culture sheet's own vaguer version); the
+polynya-driven cuisine-timing advantage; the quantified Zukelli founding-dilution comparison (10.23% vs.
+6.24%); and the two-layer outdoor-labor culture. **One partial divergence was found and honestly recorded
+rather than smoothed**: Phase 5d's economic-participation membership candidate turned out to be one layer
+beneath the culture sheet's own more specific reciprocity-of-hosting marker — both-are-true tested and kept
+as a real, informative near-miss rather than either a false match or a discarded kill.
+
+**⭐ The single most satisfying result**: the Gate C correction (M-70), made *before* this file was opened,
+is now confirmed by the very source that couldn't be consulted at the time — the culture sheet's own §24
+states the Gemini-nexus arrangement is genuinely unresolved in-world folklore, matching neither the original
+Specs framing nor the universe repo's own suggestion as settled, exactly the epistemic humility the Gate C
+correction adopted. **Three independent sources, three different claims, and the correct move (state the
+contradiction, don't pick a side) turned out to be exactly right** — a rare case where a methodology
+discipline's payoff is directly, cleanly demonstrable within a single run.
+
+**Comparable in strength to Zhongshan Run 3's own ten-finding falsifiable-test result** (`RESUME_HERE.md`'s
+own cited precedent for what a strong Gate 6 pass looks like) — this run's own five-plus-one result, on a
+location deliberately chosen for richness and heavy admissibility exclusions rather than thinness, is a real
+data point that the instrument's falsifiable-test property holds even under much harsher input constraints
+than Zhongshan Run 3 faced.

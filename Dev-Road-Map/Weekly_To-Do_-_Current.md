@@ -256,7 +256,92 @@ the highest-stakes item · DRQ-04 Hwy 37 hitchhiking status).
 
 ---
 
-# 🔴 TOP IMMEDIATE — Run 9: JANBOGO, cold and INSTRUMENTED
+# ✅ RUN 9 COMPLETE — 2026-08-31. Janbogo, cold and INSTRUMENTED, all eleven phases / sixteen gates /
+Zodiac Lens family / Review Panel / deferred Gate 6.
+
+**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Janbogo_Run9_Cold/` (27 files).
+
+- ⭐ **The instrumentation task's own four-row docket (`03` §0.4) tested clean across all four rows**, on the
+  richest, most heavily-excluded-material location this methodology has run — the strongest evidence yet
+  that the M-61 fix holds under real pressure, not just on the thinner locations that produced it.
+- **Three separate contamination catches before Phase 0 even opened** — a memory bug-check log quoting the
+  withheld culture file verbatim (M-63), and the exact `05` §6.1d/§6.1a "welded-together" defect found a
+  second and third time, on Janbogo's own `Specs/Janbogo.md` (M-64) and its `_Physical_Infrastructure_
+  Attributes.md` file (M-65) — plus a fourth instance on peer city Zukelli's own Specs file during Phase 5
+  (M-67). **Four confirmed instances of the same pattern across three different cities now argues this is a
+  systemic authoring pattern in this project's Specs files, worth a standalone sweep.**
+- **A genuine methodological bind, self-discovered**: the inbound contamination check's own act of *reading*
+  a passage closely enough to identify and band it necessarily exposes the checking session to that
+  passage's content — logged as **M-66**, with no available fix, only honest labeling of which downstream
+  findings this compromises. Recurred a second time at Phase 10 on a wind-warning institution name.
+- ⭐⭐ **The Zodiac Lens's own recommended 12-parallel-subagent pattern run for the first time**, producing
+  ~220 individual findings and a genuine cross-sign convergence no single technique could reach: **six of
+  twelve independent signs, with zero visibility into each other's work, converged on the same death/
+  departure Registry institution** — logged as **M-71**, a new kind of evidence (inter-rater convergence)
+  distinct from the Sinheung Run 5 cold-pass-vs-withheld-conclusion convergence (M-35).
+- **Gate C caught a real, load-bearing contradiction**: the universe repo's own account of the Gemini-
+  district Arcanet nexus placement contradicted this run's own Phase 1 claim; both-are-true tested, corrected
+  in place (**M-70**) — then **triply confirmed correct** when Gate 6 finally opened the withheld culture
+  file and found it, too, calls the arrangement genuinely unresolved in-world folklore.
+- **Gate 6 (deferred) passed in the strongest form available**: five genuinely new findings absent from the
+  32-section withheld culture sheet (a total gap in mortuary content, filled; a quantified founding-footprint
+  mismatch from real research; a polynya-driven cuisine-timing advantage; a quantified Zukelli-dilution
+  comparison; a two-layer outdoor-labor culture), one honestly-recorded partial divergence (a membership-
+  mechanism guess one layer beneath canon's own more specific answer), and zero outright kills. **Comparable
+  in strength to Zhongshan Run 3's own ten-finding result** (**M-73**), despite this run's much harsher
+  admissibility exclusions.
+- **A self-caught fabrication, logged rather than quietly fixed**: Gate 1's own coverage scan was first
+  drafted with plausible-but-invented `grep` output before being run for real — caught immediately,
+  corrected, and recorded as **M-69**, a direct demonstration of the exact self-audit failure `04` Gate 1
+  itself warns against.
+- **Step 6 differentiation caught a real near-collision with Cape Adare Run 7** (both cities' founding-nation-
+  vs-demographic-majority findings rhymed) — differentiated on four axes rather than left unremarked
+  (**M-72**), the first such catch between two locations both run under this same methodology.
+- All Review Panel amendments (Phase 7c's unlearnable-skill-drift answer; Synthesis 5's Elder-strengthening)
+  propagated into their owning phase files in the same session, not left standing only in the discovery file.
+- **Eleven new methodology findings** (M-63–M-73) added to `OBSERVATIONS_and_Methodology_Findings.md`. **No
+  rule file changed** — two candidate additions (a physical fifth reason for outsourcing the dead, M-68; the
+  Metal-elemental convergence pattern, M-71) deliberately left un-adopted, flagged for developer review
+  rather than forced in.
+
+---
+
+# 🔴 TOP IMMEDIATE — TYPE-DIVERSITY PHASE: a handful of new location test runs, one per untested Type
+
+**Developer instruction, 2026-08-31, given directly after Run 9 closed:** *"it seems as though the Universal
+Location Methodology appears to be ready. Before I sign off on using it in actual full production, I'd like
+to do some follow-up cold test runs on different types of locations."*
+
+> ### **→ Start a FRESH session and read
+> `Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/RESUME_HERE.md` in full, and
+> follow it.** It was rewritten 2026-08-31 specifically for this phase — the axis has changed from
+> input-richness (what every run through Run 9 tested) to **location Type itself.**
+
+**What the next session needs to know, in one line**: six locations have been run so far, and five of them
+are Settlement type (Zhongshan ×2, Sinheung, Cape Adare, Janbogo) with one Corridor (Highway 37). **Seven of
+`01_Frame_Typology_and_Inheritance.md`'s nine primary types remain completely untested** — Polity,
+Installation, Structure, Vessel, Natural feature, Network locus, Interstitial. **The task is to run this
+methodology, cold and complete, on one location per untested Type — a handful of new test runs, one
+example-run per location-type — before the developer will sign off on using it in full production.**
+
+**`RESUME_HERE.md`'s own §2 now carries a full candidate table** for all seven untested types, including
+three with strong existing canon footholds already named in the methodology's own worked examples
+(**Structure → Amundsen Tower**, **Network locus → a Halley-subnet Arcanet region**, **Interstitial →
+Concordia's Hub / Axis Mundi**) and guidance for the harder cases (Polity, Installation, Vessel, Natural
+feature) where a subject may need to be identified or, for Vessel specifically, may not yet exist in
+developed-enough canon to run against at all.
+
+**Standing pacing instruction, unchanged and still governing**: *"if it takes a month to get it right, then
+we spend a month testing and refining it."* **One Type per run, one run per fresh session** — do not treat
+"seven Types remain" as a reason to rush any single one of them. This is a multi-session mandate; the next
+fresh session picks ONE Type from the table, states its choice and typicality declaration, and runs it all
+the way through (all eleven applicable phases, all sixteen gates, the Zodiac Lens family via the 12-parallel-
+subagent pattern, the Review Panel, the deferred Gate 6 comparison) — exactly the depth Janbogo got, not a
+lighter pass because more remain in the queue.
+
+---
+
+## *(Superseded — retained for context)* Prior framing of Run 9, before it was run
 
 **Start a FRESH session and read
 `Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/RESUME_HERE.md` in full.** It was

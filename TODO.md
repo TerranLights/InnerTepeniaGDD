@@ -36,6 +36,37 @@ as demoted rather than listed as an equal.
 
 ---
 
+## 🔴 TOP PRIORITY — Universal Location Methodology: TYPE-DIVERSITY test-run phase, before production sign-off
+
+**Developer instruction, 2026-08-31, given directly after Run 9 (Janbogo) closed clean:** *"it seems as
+though the Universal Location Methodology appears to be ready. Before I sign off on using it in actual full
+production, I'd like to do some follow-up cold test runs on different types of locations."*
+
+**What this covers:** six locations have been run under this methodology so far, and five of them share the
+same primary Type — Zhongshan (×2), Sinheung, Cape Adare, and Janbogo are all **Settlement**; only Highway 37
+tests a different Type (**Corridor**). Every prior test-run cycle varied *input richness* (thin vs. rich)
+on essentially one kind of location. **Seven of `01_Frame_Typology_and_Inheritance.md`'s nine primary types
+remain completely untested**: Polity, Installation, Structure, Vessel, Natural feature, Network locus,
+Interstitial. Before the methodology is trusted for full production use, the developer wants at least one
+cold test run per untested Type — **"a handful of new location test runs, one example-run per
+location-type."**
+
+> ### **→ Start a FRESH session and read
+> `Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/RESUME_HERE.md` in full, and
+> follow it.** Rewritten 2026-08-31 specifically for this phase — carries a full candidate table for all
+> seven untested Types, including three with existing canon footholds already named in the methodology's own
+> worked examples (Structure → Amundsen Tower; Network locus → a Halley-subnet Arcanet region; Interstitial →
+> Concordia's Hub / Axis Mundi).
+
+**Pacing, unchanged from every prior run in this program**: *"if it takes a month to get it right, then we
+spend a month testing and refining it."* One Type per run, one run per fresh session — this is explicitly a
+multi-session mandate, not a single sitting. See also the parallel entry in `Dev-Road-Map/
+Weekly_To-Do_-_Current.md` and `Universal_Location_Methodology/Test_Runs/OBSERVATIONS_and_Methodology_
+Findings.md` for the full run history and findings this program has produced so far (M-1 through M-73 as of
+Run 9).
+
+---
+
 ## 🔴 HIGH PRIORITY — Necessary-industry gap-filling, all 36 cities — flagged 2026-08-31, measured, not started
 
 **Set high priority by the developer 2026-08-31**, after a corpus-wide sweep measured it and the developer
