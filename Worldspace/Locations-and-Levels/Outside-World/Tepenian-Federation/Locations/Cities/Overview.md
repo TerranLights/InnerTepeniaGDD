@@ -6,6 +6,51 @@ Most coastal cities were destroyed or severely damaged during the Long Night War
 
 ---
 
+## How Tepenian cities are laid out — the core/outer model `[CGRM 2026-08-31 · Path 6 · developer ruling]`
+
+**Established 2026-08-31.** A general model for the spatial structure of any Tepenian city, developer's own
+words:
+
+> *"it may be possible for Tepenian cities to use ice-free zones (in the circumstances where they're available)
+> as 'downtown core', and iced zones as 'outer areas' or 'suburbs' or something vaguely, roughly to that
+> effect. Because 'suburb' doesn't necessarily need to equal 'residential'. A fine example of this is Los
+> Angeles. There's the actual city of Los Angeles, there's downtown West Hollywood, and then there's Greater
+> Los Angeles (which is technically, officially suburbs, while still being full of industry, music, food,
+> culture, and activity)."*
+
+**The model:**
+
+- **Ice-free terrain, where a city has any, is the DOWNTOWN CORE** — dense, central, the part that reads as
+  "the city" on a map.
+- **Iced terrain is the OUTER AREA** — larger, less dense, and **not merely residential.** The Greater Los
+  Angeles comparison is the load-bearing part: officially suburb, in practice full of industry, music, food,
+  culture, and activity in its own right. **A Tepenian outer area is a working, living part of the city, not a
+  dormitory belt.**
+- **A city's ice-free area therefore sizes its core, not its total extent.**
+
+**Why this matters practically, and why it was worth writing down centrally:** a city's population divided by
+its ice-free area is **not** its density — it is the density it would have *if the whole population lived
+downtown*. Reading the first figure as the second produces false implausibility. *(Found exactly this way: a
+density check on one city returned a figure 6.7× the densest Tepenian city on record, which dissolved the
+moment this model was applied.)*
+
+**Known ice-free terrain, for reference** — these size cores, not cities:
+
+| City | Ice-free terrain | km² |
+|---|---|---|
+| Davis | Vestfold Hills | ~400 |
+| Sinheung | Larsemann Hills | ~34 |
+| Lazar | Schirmacher Oasis | ~34 |
+| Cape Adare | the cape proper | ~2.94 |
+| Fort McMurdo | Ross Island *(explicit "island cap" on population — see `Official_Population_Census.md`)* | — |
+
+**Open, and deliberately not settled here:** whether every city's outer area is *equally* developed, how far
+outer areas extend before becoming genuinely uninhabited, and whether the core/outer distinction carries any
+civic or administrative meaning (or is purely descriptive). **31 of the 35 city Specs still state no extent at
+all**, so most cities have neither a core figure nor an outer boundary recorded.
+
+---
+
 ## Status Key
 
 | Symbol | Meaning |

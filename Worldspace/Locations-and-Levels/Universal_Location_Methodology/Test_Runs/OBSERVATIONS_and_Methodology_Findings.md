@@ -1049,3 +1049,627 @@ produce nothing, and should be recorded here as a new M-entry once it happens, d
 technique actually produced from what was merely proposed. **Recorded now, not to claim validation that does
 not exist yet, but so the technique's origin — developer-proposed, not run-discovered — is traceable**, per
 the same provenance discipline this methodology applies to every other addition.
+
+---
+
+# M-43 — a genuinely empty Step 1 (asymmetry audit), and a genuinely empty quarantine, for the first time
+
+**Highway 37 Run 6, 2026-08-31.** Every prior run's Step 1 and inbound quarantine work involved real material to
+audit or band — Zhongshan and Sinheung both had rich pre-existing canon, and even the inbound memory scans found
+attribute-only hits requiring a check. **Highway 37 is the first location where both checks came back
+structurally empty**, not merely clean: no prior finding of any kind exists to run the asymmetry check against
+(no threshold, gate, conversion, verdict, admission, or status change has ever been written about this
+location), and no completed culture pass of any kind exists to quarantine. **This is not the same as a
+well-run check that finds nothing** — it is a check with no material to have found anything in, which is itself
+the confirmation that this run achieved the genuinely-thin, never-touched test case `RESUME_HERE.md` had been
+asking for across three prior runs. Also recorded: this run navigated by `find`/`ls` rather than `graphify
+query`, per `RESUME_HERE.md` §3c's standing instruction that a corpus-wide index cannot honor provenance
+quarantine — a deliberate, declared deviation from the repo's own tooling convention, not an oversight.
+
+---
+
+# M-44 — the input-set disclosure in `02` §4.0 presupposes a withholdable second input set, and a genuinely thin location may not have one
+
+**Highway 37 Run 6, Phase 1.** `02` §4.0 requires every shape reading to disclose the admitted input set,
+because Zhongshan's and Sinheung's shape readings both depended on *which* known institutions were admitted or
+quarantined — the same location produced opposite shapes from two different admissible sets. **Highway 37 has
+no institutions to admit or quarantine at all**, because no culture-conclusion-shaped material has ever been
+written about it. Its cost-dominant shape reading is therefore not a property of a chosen input set among
+several possible ones — it is simply the reading of the entire set of things that exist to be read. **The
+caveat in `02` §4.0 is conditional on a withholdable second set existing**, and this may be the methodology's
+first case where that condition genuinely does not hold. Recorded as a boundary case for `02` §4.0 to eventually
+note, not yet implemented there since one instance is not enough to state as a general rule.
+
+---
+
+# M-45 — ⚠ a session defaulted to the post-war frame without being asked, and the methodology now has a standing default rule against it
+
+**Highway 37 Run 6, 2026-08-31.** An early draft of this run's Frame Declaration defaulted the Temporal frame to
+the post-war present (using the Long Night War and Amundsen Tower's destruction as Highway 37's G6 defining
+event, and framing Mountain Pass Airport as a dark ruin) **without being asked to and without declaring the
+choice as a choice.** The developer corrected this directly: *"remember that all of this is assumed during the
+Second Interwar Period. Do not embed post-war conditions into any of the specs. These are locations that exist
+on their own merit on their own terms. Any 'post-war conditions' can be determined on future examination using
+these neutral, baseline explorations and extrapolations as a foundation."* — and then generalized it explicitly
+as a standing methodology instruction, not a one-off fix for this run alone.
+
+**Why this is a real error, not a style note.** A pass that defaults to "now" without being asked is quietly
+treating the post-war condition as a location's *baseline* self, when for most locations (outer cities,
+highways, structures, natural features — anything not itself a post-war formation, unlike Concordia's
+districts) the pre-war Second Interwar state is the more fundamental layer, and the post-war state is what
+happened *to* it, not a substitute for having one. **A post-war examination written without this foundation has
+nothing to measure the war against.**
+
+**Fixed across three places in the same session, all now consistent:** the Frame Declaration's Status and
+Temporal frame lines (Mountain Pass Airport is a live, staffed, producing outpost, not a dark ruin), the
+pre-flight checklist's Tier 0b and Defining-events rows, and Phase 1's third generator, G6 — originally run
+against the Tower's destruction, re-run against the joint venture's own founding instead, which changed that
+generator's entire four-quadrant profile, the deficit-address reasoning that depended on it, and part of the
+pass's spine finding.
+
+**Implemented as a standing rule, in the same commit**: `01_Frame_Typology_and_Inheritance.md` §4.1, "THE
+DEFAULT FRAME IS NEUTRAL" — absent a specific reason to do otherwise (Concordia's districts remain the named
+exception, since their identity is itself a post-war formation), every location pass defaults to the Second
+Interwar Period baseline, states that default explicitly in the Temporal frame line rather than leaving it
+implicit, and treats any post-war examination of the same location as separate, later work built on top of the
+neutral pass rather than folded into it.
+
+---
+
+# M-46 — a real, mechanically-caught axis-naming gap, fixed rather than papered over
+
+**Highway 37 Run 6, Gate 1.** A scan for `named axis` across the pass's ten phase files found five of ten had
+never stated one, in violation of `03` §0.2 item 3. **Fixed in the same session**, all ten now carry an
+explicit `**Named axis:**` line, and the correction is recorded as a correction rather than presented as a
+clean first pass. **The instrument-verification discipline did its job exactly as designed**: an author's own
+blind spot (naming axes for the phases that felt more "content-driven," like Phase 8's Making, and forgetting
+the ones that felt more "structural," like Phase 6's mostly-null Meaning) was invisible to re-reading and
+visible to one grep.
+
+---
+
+# M-47 — Gate 9's asymmetry check fires on a pass's own fresh material for a second recorded time
+
+**Highway 37 Run 6, Phase 5 §5d.** The completed-rotation membership mechanism was written favorable-path-only
+on first draft — no route back was stated for someone whose rotation is interrupted before completion. **Caught
+by directly asking Gate 9's own question** (`04` Part I: *"the mechanism runs both ways — did the file write
+both?"*) during the same pass that wrote the mechanism, matching Zhongshan Run 3's own first recorded second-
+pass fire. **Two independent instances now confirm Gate 9's second pass reliably catches something when
+actually run** against material written under a methodology that already knows about the gate — this was
+previously documented as tested only once.
+
+---
+
+# M-48 — a developer-directed generative move: deriving a minigame from a location's own strongest finding
+
+**Highway 37 Run 6, Phase 4.** Mid-pass, the developer directed that Phase 4's escapism/downtime field — flagged
+as genuinely thin for a Band 0 transit population — be treated as an opportunity to synthesize a minigame from
+material this pass had already established, rather than left thin or filled with generic pastimes. **The
+result ("Waypoint") derives every mechanical piece from an already-established fact**: materials from Phase 3's
+junction-marker finding, its core bust mechanic directly from Phase 1's own strongest finding (the road climbs
+once and never comes back down), its win condition from Phase 5's real Concordia-highway count, its token
+flavor from Phase 2's composition asymmetry. **The transferable move, stated generally: when a leisure/downtime
+slot is thin, derive a minigame whose core mechanic literalizes the location's own strongest finding, built
+from objects the location already has, rather than importing a generic pastime.** Flagged as a candidate for a
+future `Cultural_Synthesis_Techniques.md` addition — not yet promoted to one, since it has been run exactly
+once and the file's own standing rule is that a new operation earns a slot by producing good results in more
+than one place.
+
+---
+
+# M-49 — the first run where the quarantine machinery applies to a genuinely empty set, not a real choice
+
+**Highway 37 Run 6.** Every prior cold run's contamination-control apparatus (the inbound readiness check,
+Gate 6's deferred withheld-file comparison, `02` §4.0's input-set disclosure) existed to manage a real choice
+between an admitted and a withheld input set. **Highway 37 has no completed culture pass to withhold at all** —
+nothing culture-conclusion-shaped has ever been written about it. Every check that depends on withheld material
+came back structurally near-vacuous, not because it was skipped but because there was nothing to find.
+**Recorded as a genuine new category of run this methodology had not yet produced**, distinct from a
+"clean" Zhongshan- or Sinheung-style cold run where real material existed and was successfully quarantined.
+`02` §4.0's own input-set disclosure (M-44) is the sharpest instance of this: its shape-reporting requirement
+presupposes a withholdable second set exists, and this may be the first case where that precondition itself
+does not hold.
+
+---
+
+# M-50 — a third confirmed instance of `05` §6.1a: filename-admissible files that are actually downstream of withheld material
+
+**Cape Adare Run 7, inbound quarantine build.** Three of Cape Adare's own files — `Cape_Adare_Physical_
+Infrastructure_Attributes.md`, `Cape_Adare_Community_Infrastructure.md`, and `Cape_Adare_Cross_Reference_
+Synthesis.md` — read as pure attribute/infrastructure files by name. **Header-checked directly, per `05`
+§6.1a rule 4, before being added to the admissible list.** All three explicitly cite `Local_Cultures`, `Mega_
+Init`, and/or `Full_Extrapolation` as their own sources in their opening lines. **A quarantine list built from
+filenames alone would have wrongly admitted three of eleven files for this location.**
+
+**Why this is worth its own entry rather than folding into the existing §6.1a rule silently:** this is the
+**third** confirmed real instance of this exact pattern (after the original contamination event that produced
+the rule, and a second instance already noted in `05` §6.1a's own text). **A pattern confirmed three times
+independently is no longer an edge case — it is close to the default expectation for any DLC city's
+`_Physical_Infrastructure_Attributes.md` file specifically**, since that methodology's own Methodology #2 step
+(Cross-Referenced Extrapolation Findings) is explicitly designed to combine attribute derivation with the
+city's existing culture material in one document. **Practical implication for any future pass on one of the 34
+other DLC cities: assume a `_Physical_Infrastructure_Attributes.md` file is mixed until its header is checked,
+rather than treating the check as a formality.**
+
+---
+
+# M-51 — ⚠ `Specs/` files are NOT categorically safe: a real mixed-file catch inside a file-type every prior run trusted by default
+
+**Cape Adare Run 7, self-caught mid-pass.** Every prior run's Step 0.4 triage order treats `Specs/` files as the
+first, safest tier to read — "specs / physical facts" heads the admissible-first list in `00_RUNBOOK.md` §0.4,
+and no prior run (Zhongshan, Sinheung, Highway 37) ever found one containing conclusion-bearing content. **This
+run did.** `Specs/Cape_Adare.md` was cleared as ADMISSIBLE after its first ~20 lines matched the expected
+pure-attribute pattern (Based on / Status / Highway access / Population / Composition). **Reading the complete
+file** — required for Phase 1 research, not an accident of over-reading — surfaced a **"Character & Culture"
+section (lines 111–121)**: civic temperament ("had the character of a city that knew it was first"), a named
+developer-vision paragraph asserting specific, settled cultural facts (community-drivenness, pace of life,
+even specific instrumentation — "guitars, violins, cellos, tagelharpas"), and an explicit self-citation to
+`Local_Cultures/Janbogo_Subnet/Cape_Adare.md` for "full detail." **This is a conclusion, not an attribute, and
+it was sitting inside the one file-type this methodology's own triage order treats as inherently safe.**
+
+**Corrected within the same session**: `Specs/Cape_Adare.md` reclassified MIXED, not ADMISSIBLE; the Character
+& Culture section excluded from every downstream phase; any resembling finding tagged `[SELF-ORIGINATED]` per
+the unavoidable-absorption protocol, treated as corroboration only.
+
+**Why this generalizes, and is worth acting on beyond this one city:** the assumption "Specs files are pure
+attributes" was never actually verified across the corpus — it held for every prior run's subject by chance,
+not by rule. **Any future cold pass — on any of the 34 remaining DLC cities, or a re-verification pass on
+Zhongshan/Sinheung/Highway 37's own admitted files — should read a Specs file's own "Character," "Culture,"
+"Significance," or "Developer vision"-labeled sections with the same suspicion `05` §6.1a already applies to
+`_Physical_Infrastructure_Attributes.md` files, rather than trusting the Specs tier by default.** Proposed as a
+direct addition to `05` §6.1a itself (a fifth confirmed mixed-file case, this one inside a previously-untested
+file class) — flagged here for that update rather than made silently, since a rule change should cite its own
+originating case per this project's own standing discipline.
+
+**Implemented in the same session**: `05_The_Input_Contract.md` §6.1d, "A `Specs/` FILE IS NOT CATEGORICALLY
+SAFE EITHER." A second instance of the same file surfaced during the same pass — the Specs file's own "Notable
+Figures" section also cites the withheld `Full_Extrapolation.md` directly, though this changed little in
+practice since Phase 10's binding no-invented-names rule already forbade using those figures.
+
+---
+
+# M-52 — a near-miss: a fabricated-looking scan block caught before it was left standing
+
+**Cape Adare Run 7, Gate F.** An early draft of the QA-gates file presented a plausible `grep` command and
+result for a post-war-vocabulary sweep **without having actually run it.** Caught and corrected before the
+document was finalized — replaced with a real, executed scan (genuinely zero hits, confirmed). **Recorded
+because it is exactly the failure "paste raw output, never summarize" exists to prevent, at one remove
+further than usual**: the rule is normally understood as "don't summarize a real scan's output," but this
+instance shows it must also cover "don't present a plausible *unrun* scan as if it were real." Both are the
+same underlying failure — an author's own narrative of what a check *would* show substituting for the check
+itself — but the second form is easier to miss because it looks identical to the genuine article until someone
+actually runs the command.
+
+---
+
+# M-53 — the neutral-frame rule (`01` §4.1) survived its first genuinely hard test
+
+**Cape Adare Run 7.** Highway 37's own frame correction (M-45) was caught early in that pass, and the
+remainder of Run 6 never had to actively resist drifting back toward the post-war framing. **Cape Adare's own
+canon foregrounds its Destroyed status far more prominently than Highway 37's did** — it appears in the Specs
+file's own header line, its DLC description, an entire "Current Status / Destruction" section, and a closing
+"Legacy" section written in a genuinely elegiac register about the city's loss. **This run held the neutral,
+living, pre-war frame throughout regardless**, verified by an actual zero-hit sweep across all eleven phase
+files (Gate F, `Test_Runs/2026-08-31_CapeAdare_Run7_Cold/12_Step7_QA_Gates.md`) — not merely a mid-pass
+correction holding by inertia, but a rule tested under real narrative pull toward the more dramatic, better-
+documented alternative, and holding anyway.
+
+---
+
+# M-54 — a real distinction: input scarcity vs. methodology failure, and how to tell them apart
+
+**Cape Adare Run 7, developer observation mid-pass.** Partway through this run, the developer noted directly
+that the run's own cluster of nulls (Phase 6, Phase 8's three thin components) did not read as the instrument
+failing to find anything — it read as the *admissible material itself* being thin, given how much of Cape
+Adare's own canon turned out to be withheld (`00`'s quarantine table) or simply never written past a TBD.
+**The diagnostic, stated generally for future runs**: before concluding a run's high null-count reflects a
+weak location or a weak pass, **check the REQUESTED-item count.** A pass with many nulls and few REQUESTED
+items has probably under-searched its own admissible material. A pass with many nulls and many REQUESTED items
+— Cape Adare's own shape, eleven REQUESTED items against a handful of true nulls — is accurately reporting
+genuine input scarcity, and the correct response is a targeted research or developer-ruling follow-up (see
+`14_Step9_Record_and_Step10_Readiness.md`'s own follow-up plan for the worked example), not a re-run of the
+same phases against the same thin material.
+
+---
+
+# M-55 — M-51 now has a structural fix, and it lives in a second, separate system
+
+**2026-08-31, same day.** M-51 recorded that a `Specs/` file — the tier this methodology's own reading order
+trusts first — contained conclusion-bearing content, and that Run 7 caught it only by reading further than the
+check required. **`05` §6.1d was written the same day, but it is a rule telling a reader to look harder, and a
+rule that depends on reading far enough fails whenever a file is long.**
+
+**A structural fix now exists.** The **Canon Gap Resolution Method**
+(`Worldspace/Canon_Gap_Resolution_Method/`) was built the same day as the project's separate system for
+*acquiring* canon rather than deriving it — and its founding recorded failure is the same Cape Adare deposit
+chain M-51 caught the downstream end of. **The chain, now fully documented end to end:** a Vision Notes
+session produced conclusion-tier content on 2026-07-05 and deposited it into `Specs/Cape_Adare.md`; that
+deposit was reasonable and documented; this methodology was created 2026-08-30 assuming `Specs/` was
+attribute-tier; Run 7 hit the contamination 2026-08-31. **Nobody in that chain acted carelessly — the failure
+is structural, and eight weeks passed between cause and damage.**
+
+**What the fix gives a future cold pass, concretely:** a **greppable conclusion-tier marker**
+(`<!-- CGRM:CONCLUSION-TIER:START/END -->`) that converts admissibility from something a pass must *notice*
+into something it can *run*:
+
+```
+awk '/CGRM:CONCLUSION-TIER:START/{skip=1; next} /CGRM:CONCLUSION-TIER:END/{skip=0; next} !skip' <file>
+```
+
+**Tested with a proof-of-hit control before being adopted** (a planted contaminant inside a marked block:
+0 survived the filter, 1 present in the unfiltered control, attribute content retained). **Retrofitting
+existing mixed files is legitimate work for that system, not for a location pass** — a cold pass that finds
+unmarked conclusion content should log it and route it there, rather than fixing canon mid-derivation.
+
+**Two consequences for this methodology specifically:**
+1. **`05` §6.1a–d's manual checks remain necessary** — the marker only helps where someone has already
+   applied it, and the vast majority of canon has not been marked. **The rule and the mechanism are
+   complementary, not alternatives.**
+2. **A second system now carries Cape Adare worked examples**, which makes it a contamination vector for that
+   location the same way this one is. **Registered in `06_Worked_Example_Provenance.md`** so the existing
+   pre-read check catches it, rather than requiring a future pass to know a second system exists.
+
+
+---
+
+# M-56 — ⭐ Gate 6 run on Cape Adare: the falsifiable test passes in BOTH directions, and the misses are input failures
+
+**2026-08-31, Run 7's deferred Gate 6, executed at the last possible moment** — immediately before the
+developer authorized admitting the withheld material for a warm re-run, which permanently ends the ability to
+measure a cold pass against it.
+
+**Convergence — the second recorded instance.** Run 7's spine finding, derived from the census table and the
+admissible Founding section alone, was **"precedence without a majority."** The withheld culture sheet's own
+Post-Culture Identity section names the city's core identity **"Precedence"** and describes it as *"a fact so
+large it flattened whatever national distinctions its mixed population might otherwise have organized
+around."* **Near-verbatim, from different evidence.** After Sinheung Run 5 (M-35), **this is the second time a
+cold pass has independently reproduced a withheld sheet's own central claim** — which is now a pattern rather
+than an anecdote, and the strongest evidence yet that the generator stack tracks something real about this
+project's founding-condition facts.
+
+**A second, smaller convergence worth recording because it happened in a different system:** the Canon Gap
+Resolution Method's prepared groundwork for St. Carsten's feast day (DRQ-01) recommended commemorating **the
+staying** rather than the landing, reasoning from the Saints framework's own wording. The withheld file's §26
+had already named the primary observance **"St. Carsten's Wintering,"** with "The First Landing" explicitly
+secondary. **Two systems, neither reading the withheld file, both landing on the wintering.**
+
+**Novelty — the test's other half also passes.** Three findings the withheld material does not contain, led by
+**the arrival-wave mismatch**: the census's own annotations flag New Zealand as *earliest founding wave* at
+3.19%, while USA and China dominate the population carrying no founding-wave marker at all. The withheld file
+notices the flags and draws the *opposite-direction* conclusion; it never observes the mismatch or derives a
+tension from it.
+
+**One contradiction, resolved rather than killed.** The withheld file calls counterculture *minimal* (no
+dominant template to push against); Run 7 derived one. **Both-are-true applied: different objects** — the
+withheld file means rebellion against a template, Run 7 described opting out of a process. **Run 7's content
+survives with a corrected label; the withheld file's calibration is better.** A mislabeling, not a kill.
+
+**⭐ And the most useful finding for the methodology: BOTH of the cold pass's real misses were input failures,
+not analytical ones.** Run 7 entirely missed that **roughly a third of Cape Adare's stated economy is
+heritage-preservation and civic memory-keeping** (withheld §15/§17/§24/§25), and missed the sharper form of the
+city's own fault line (*"what happens if the hut is lost?"* rather than the vaguer "precedence contested").
+**Neither fact appears anywhere in admissible material** — the Specs file names the hut as a landmark but never
+states that memory-keeping is a major economic sector.
+
+**This is the cleanest demonstration yet of M-54's distinction.** The pass did not fail to reason; it was not
+given the premise. **A cold pass's quality ceiling is set by its admissible input, and measuring a cold pass
+without measuring its input scarcity will systematically misattribute the second to the first.**
+
+
+---
+
+# M-57 — ⚠ A settled decision, invisible to every file anyone would check — and a REQUESTED item that should never have existed
+
+**2026-08-31, found while opening Cape Adare's withheld material for a warm pass.**
+
+**St. Carsten's civic observance date was formally adopted on 2026-07-17** — *"February 17th is formally
+adopted as St. Carsten's Landing"* (`Background-Lore/Cities/Janbogo_Subnet/Cape_Adare/Cape_Adare_Course_of_
+Events_Suggestions.md` §6), with `Cape_Adare_Mega_Init.md` recording it as **"Resolved 2026-07-17."**
+
+**Six weeks later, the decision had reached none of the three files anyone would look in:**
+
+| File | State |
+|---|---|
+| `Specs/Cape_Adare.md` Open Questions | still *"a specific date TBD"* |
+| `Local_Cultures/…/Cape_Adare.md` §26 | names a **different** primary observance, *"exact date TBD"* |
+| `Worldspace/National_Holidays.md` Saints roster | St. Carsten absent entirely |
+
+**The consequence chain, and nobody in it acted wrongly:** ULM Run 7 read only admissible material, found
+"TBD," and correctly logged a REQUESTED item. The Canon Gap Resolution Method triaged it RESERVED, prepared
+groundwork, and routed it to the developer. **The developer was asked to decide something their own project had
+already decided, and answered "I currently have no idea" — which was the only possible answer given what was
+in front of them.**
+
+**This is the exact failure class the project's own investigation skeleton already names** — *"a fix in one
+layer does not propagate to the others"* and *"a correct diagnosis inside an analytical document is not a
+fix."* **What is new is the direction: previous instances were a fix failing to propagate. This is a
+*resolution* failing to propagate, which is worse**, because a stale TBD actively manufactures phantom work —
+it generated a REQUESTED item, a triage, a research pass, a queue entry, and a developer interruption, all for
+a question with an existing answer.
+
+## The self-catch, recorded because it is the more useful half
+
+**The Canon Gap Resolution Method's Path 1 should have found this and did not.** Its own procedure cites the
+concentric-ring rule — *widen to a repo-wide grep with no path restriction* — and the answer was sitting in
+`Background-Lore/`, **outside the Cities folder entirely.** The search stayed inside Cape Adare's own file set
+and stopped. **A Gate 7 failure on that system's very first ruling-preparation.**
+
+**Implemented as a hard rule rather than a lesson:** before routing anything to a developer as RESERVED, run
+the unrestricted repo-wide search. **The cost of skipping it is not a missed fact — it is spending the
+developer's authority on a question that was already closed.**
+
+## And the contradiction the discovery exposed, which IS a real open question
+
+The adopted holiday commemorates **the landing**. `Local_Cultures` §26 makes **the wintering** the central
+observance and demotes the landing to secondary — and §18 states the city's theology explicitly: veneration is
+*"focused specifically on the act of staying rather than the act of arriving."* **The formally-adopted holiday
+commemorates the one thing the city's own religious framing says is not the significant part.** Routed as
+DRQ-01b.
+
+
+---
+
+# M-58 — the §4.0 shape flip, second recorded instance — and this one is the commoner cause
+
+**Cape Adare, Run 7 (cold) vs Run 8 (warm), 2026-08-31.** Same location, same author, same day, **opposite
+capability shapes**, purely from the admitted input set:
+
+| | Cold | Warm |
+|---|---|---|
+| STANDING COST quadrant | **thin** — one entry, from G2 only | **the largest quadrant** |
+| Shape | **BALANCED, leaning "one absence"** | **COST-DOMINANT** |
+
+**What filled it:** `Local_Cultures` §15 assigns heritage-site preservation 20% and civic memory-keeping 15%;
+§17 makes archival work the robot specialization; §24 and §25 build on both. **Roughly a third of the city's
+stated economy is the maintenance of one 1899 hut and its documentation** — a textbook standing cost in `02`
+§3.1's sense, and **none of it appears in any admissible file.**
+
+**Why this instance matters more than Zhongshan's (M-?/Runs 3–4), which established the phenomenon:**
+Zhongshan's flip came from **deliberately quarantining known institutions** — an artifact of the experiment.
+**Cape Adare's came from canon that existed, was never withheld by anyone's choice, and was simply unreachable
+from the attribute tier.** That is the far commoner situation.
+
+> **The generalizable warning: any cold pass on a location with a developed culture file should expect its
+> STANDING COST quadrant to read artificially thin, and should not conclude "cost-absent" from it.** A
+> location's ongoing maintenance obligations are exactly the kind of fact that lives in culture-tier
+> documents — economy breakdowns, specializations, export lists — and exactly the kind a cold pass cannot
+> reach. **`02` §4's `cost-absent` shape should carry this caveat explicitly**, since a cold pass is
+> structurally predisposed to produce it for the wrong reason.
+
+
+---
+
+# M-59 — ⚠ A warm pass inherits its sources' defects unless it actively tests them. This one didn't.
+
+**Cape Adare Run 8, corrected by the developer within the hour.** The warm pass built its headline finding —
+a cold-to-warm capability **shape flip to cost-dominant** — on `Local_Cultures` §15's claim that heritage
+preservation and civic memory-keeping together account for **35% of the city's economy.**
+
+**That number is a canon defect.** 35% of 1,050,051 is **~367,500 people maintaining one 1899 wooden hut** —
+roughly **36,000×** the real-world conservation effort at the actual site. **Developer:** *"Cape Adare cannot be
+a city that's entirely based around maintaining a tent"* — explicitly the same failure class as *"Zhongshan
+entirely based around managing the lake"* and *"Janbogo an entire city of teahouses."*
+
+**The failure is specifically the warm pass's, and it is diagnosable.** Run 7 (cold) never saw the number and
+cannot be faulted. **Run 8 saw it, treated it as authoritative, and reasoned from it — without running Gate 11
+against it.** Gate 11 asks *"would a person actually do this, at this cost, priced in this location's physical
+conditions?"* **One division answers no.**
+
+> ## The generalizable rule: admitted material is INPUT, not AUTHORITY.
+>
+> A cold pass's discipline is *what am I allowed to read?* **A warm pass has no such constraint, and therefore
+> needs a different one it currently lacks: *is what I just read actually plausible?*** **Gate 11 must be run
+> against a warm pass's own SOURCES, not only against its own conclusions** — because a warm pass's
+> characteristic failure mode is not inventing something wrong, it is **faithfully amplifying something wrong
+> that was already written.**
+
+**And the defect is a recurring class, not a one-off.** Checked laterally the same session: **Scott's own §15
+carries "Education: 15% — historical/commemorative knowledge-keeping tied to St. Robert"** — an entire
+education sector assigned to commemoration, the identical pattern. **Healthy cities name sectors by actual
+economic function** (Davis agriculture 35%, Casey transit/logistics 30%, Zukelli hospitality 25%).
+
+> **The diagnosis, which is the useful part: the percentages were never the problem — the ANNOTATIONS were.**
+> In a city of a million, *education* is schools and *technical/scientific* is engineering and medicine.
+> **A thematic label applied to a whole sector silently converts a city's identity into its entire economy.**
+> **Proposed as a dedicated sweep across all 35 cities' §15 sections**, the same shape as the founding-nation
+> bug sweep — flagged, not started.
+
+**The reframe that fixes it is also better fiction:** heritage is Cape Adare's most **famous** work, not its
+biggest. Athens is not 35% archaeology. A small, prestigious institution carrying outsized civic identity is
+more interesting than mass employment — and it makes the surviving-record finding sharper, since survival then
+rests on a specific fragile institution rather than sheer numbers.
+
+
+---
+
+# M-60 — ⭐ The real bug class: a narrow OBJECT standing in for a whole SECTOR. `00b`'s discipline, applied to an economy.
+
+**Cape Adare, 2026-08-31, two developer corrections in sequence — and the second one corrected the first
+correction.**
+
+**Round 1.** `Local_Cultures` §15 annotated technical/scientific 20% as *"heritage site preservation"* and
+education 15% as *"heritage interpretation"* — i.e. **35% of a 1,050,051-person city's economy pointed at one
+1899 hut** (~367,500 people; ~36,000× the real conservation effort at the actual site). Flagged by the
+developer: *"Cape Adare cannot be a city that's entirely based around maintaining a tent."* **First fix: shrink
+the sectors and make heritage a 2–4% slice.**
+
+**Round 2 — the first fix had the diagnosis half wrong.** Developer's follow-up:
+
+> *"'Heritage' doesn't specifically need to EQUAL object/site-preservation. 'Heritage' can also (and more
+> predominantly) broadly mean 'stewardship of the past into the future', and that really could be anything:
+> maintaining libraries and keeping them stocked with records of things, preserving older buildings, etc.
+> There are possibly hundreds of perfectly usable, perfectly realistic meanings and applications of 'Heritage'
+> (or any other sector, for that matter) that don't have to involve specific things."*
+
+**So the sector sizes were never implausible. A narrow object had colonized a broad sector.** Twenty percent of
+a million people doing *stewardship of the past* — libraries, municipal and civic archives, conservation of the
+city's own older building stock, records administration, conservation science — is entirely ordinary. Twenty
+percent polishing one hut is absurd. **Percentages restored; definitions widened.**
+
+## The generalization, which is the valuable part
+
+> **This is `00b_General_Population_Discipline.md` applied to an economy instead of to a population.** That rule
+> exists because *a narrow role's version of a category kept silently standing in for the general answer* —
+> Scorpio's transformation-masks as "the district's fashion," Cancer's caregiver vests, Leo's performer dress.
+> **Here a narrow OBJECT stood in for a general SECTOR. Same failure, different axis.**
+>
+> **The diagnostic question transfers directly:** *does this sector label describe the whole breadth of what
+> that sector means in a city this size, or one vivid instance of it?* **And the failure mode is identical: the
+> vivid instance is what a writer reaches for, because it is the interesting part.**
+
+## Confirmed as a recurring class, not a one-off
+
+**Scott's own §15** carries *"Education: 15% — historical/commemorative knowledge-keeping tied to St. Robert"* —
+an entire education sector assigned to commemorating one person. **Identical pattern, different city.**
+Healthy examples for contrast, all naming sectors by genuine economic function: **Davis** agriculture 35%,
+**Casey** transit/logistics 30%, **Zukelli** hospitality 25%.
+
+**Proposed: a dedicated sweep of all 35 cities' §15 Division of Industry sections**, checking each annotation
+for object-colonization — the same shape as the founding-nation bug sweep, and likely to find several.
+**Flagged, not started.**
+
+## One genuinely good finding that fell out of widening the definition
+
+**For a gateway port city, records are operational infrastructure, not sentiment.** Arrival logs, cargo
+manifests, customs and port records are what a landfall city actually *runs on* — which makes a large
+archival sector at Cape Adare not merely plausible but *functionally necessary*, and reframes its
+memory-keeping identity as working infrastructure that happens to also hold a hut's documentation. **A better
+answer than either the original claim or the first correction.**
+
+---
+
+# M-61 — ⭐ DRAFT ORDER IS NOT CLOSE ORDER. The methodology was generating false forward dependencies it never actually stated.
+
+**Found 2026-08-31, on a developer recollection, by mining Runs 6 and 7 — NOT by reading the methodology.**
+This one is unusual and worth recording for the *shape* of the discovery as much as the defect.
+
+## How it surfaced
+
+The developer recalled *"often seeing that 'Phase X cannot begin until Phase Y (which comes later) has
+completed'"* in the location methodology. **A direct search of the methodology files found essentially
+nothing** — the only phase-dependency statements in either runbook are *backward* and correct (the district
+Phase 8 requiring Phases 1–7). The obvious conclusion — "the developer misremembered" — was wrong.
+
+**The developer's own correction reframed the search and is the actual lesson:** *"I have seen it occur in
+other runs in previous cold sessions."* **It was never in the methodology. The running sessions were
+generating it.** Mining the two cold runs completed that same day found it immediately.
+
+> ### ⭐ The transferable lesson
+>
+> **A defect can be reliably produced by a procedure without ever being written in it.** Searching the
+> procedure for the defect returns clean, which reads as disconfirmation and is not. **When a recalled problem
+> does not appear in the method files, search the method's OUTPUT before concluding it does not exist.**
+> The test runs are the evidence base; the method files are only what was intended.
+
+## The defect
+
+**Recorded instance, Run 6 (Highway 37), `04_Phase4_Ordinary_Life.md:136`:**
+
+> *"**This section will be re-checked once Phases 5–10 are written**, per the standing instruction that Gate 3
+> is best run against a complete file, not a partial one."*
+
+Phase 4 is written 4th of 11 and declares itself unfinishable until six later phases exist.
+
+**Root cause: the spine silently merged two different orders.** **DRAFT order** (Phases 0 → 10, by dependency,
+correct) and **CLOSE order** (the few checks only meaningful against a *complete* file). Since the second was
+never named, a running session that hit the collision invented a forward dependency to describe it.
+
+**Three classes were separated during the audit — only two are bugs:**
+
+| Class | Example | Verdict |
+|---|---|---|
+| Forward *flagging* — an open question parked for a later phase | Run 7 Phase 1 → "flagged forward to Phase 6/7" | **Correct.** Information flows forward. Working as designed. |
+| Deferred technique execution with an *earlier* prerequisite | Run 6 Phase 1 → "Unrecognized Instrument… reserved for after Phase 2" | **Correct.** |
+| **Completion blocked backward** | Run 6 Phase 4 §C → "re-checked once Phases 5–10 are written" | **BUG.** |
+| **Backward feed** | Zodiac Lens runs at Phase 10 §B2, documented as feeding Phase 9 | **BUG.** Feeds a phase already written. |
+
+## Why it costs more than it looks
+
+**A session that believes it is blocked does one of two bad things: it stalls a phase that was actually
+finishable, or it writes the later phase early and badly to unblock itself.** Both cost more than the deferred
+check was ever worth. Run 6 in fact did the check correctly (backward against Phases 1–3) and then wrote the
+blocking sentence anyway — **the check was right and the status line was wrong**, which is the cheapest
+possible version of this failure and still produced a file that reads as incomplete.
+
+## The fix, applied the same day
+
+- **`03_The_Phase_Spine.md` §0.4 — new.** Names the DRAFT/CLOSE distinction, states the rule (**a phase that
+  defers a complete-file check is COMPLETE, not BLOCKED**), and carries a **close-pass docket** of the four
+  known cases, explicitly marked not-exhaustive.
+- **`03` Phase 4 `Feeds:`** — Phase 4 *supplies* the contradiction detector, it does not *run* it. Check
+  backward against Phases 1–3 only, then close.
+- **`03` Phase 10 §B2** and **`Cultural_Synthesis_Techniques.md`** — the Zodiac Lens's Phase 9 relationship
+  reframed from a *feed* to an **amendment** applied at Step 5.
+- **`04` Gate 3** — marked as the close point for Phase 4's contradiction role.
+- **`00_RUNBOOK.md` Step 5** — retitled *Reconciliation (and the CLOSE pass)* and made the docket's home; it
+  already ran retrospectively against the finished set, which is exactly what these checks need.
+
+## Status — NOT yet validated
+
+**The docket is four rows built from two runs. It is not known to be complete.** The next cold run is to be
+**instrumented specifically for this**: watch for any check whose validity condition is "complete file," and
+record which item depends on which. Any new case is a docket row.
+
+---
+
+# M-62 — ⭐ RATIFICATION is a second admissibility axis. The input contract only had one, and a filter caught the gap once by accident.
+
+**Found 2026-08-31, during Run 9 setup, on a direct developer flag** — not by any gate, scan, or self-audit:
+
+> *"those vignettes still need to be double-checked. I haven't determined which ones are canon."*
+
+## The gap
+
+**`05_The_Input_Contract.md` §6.1 tests exactly one property: is an input CIRCULAR** — downstream of a
+culture-pass conclusion about the same location? Every refinement to date (`6.1a` filename/folder, `6.1b`
+canon migration, `6.1c` symbol assignment, `6.1d` `Specs/` files) sharpened **that same single axis.**
+
+**A file can pass all of it — genuinely upstream, no conclusions, clean provenance — and still not be canon,
+because nobody ever ratified it.** The contract had **admissible** and **withheld**, and no tier for
+**proposed.**
+
+## The material
+
+**Every city in the corpus has a `Course_of_Events/` folder** of numbered narrative variants plus a
+`*_Course_of_Events_Suggestions.md`. Janbogo's is eleven files, ~1,836 lines. **The files declare their own
+status in their headers** — *"Course of Events **Suggestion** #1, translated from …`_Suggestions.md`"*, with
+character fields deliberately blank as design prompts. **Nobody had read the header for status**, because the
+only question ever asked of a header was the circularity one.
+
+> ### ⭐ The transferable lesson: a correct result from the wrong rule is an UNTESTED rule
+>
+> **Sinheung Run 5 excluded its vignettes — correctly, and for entirely the wrong reason.** Its pre-flight
+> disqualified them as *"downstream of withheld material"*: a **circularity** judgement. It never asked whether
+> they were canon. **On any location whose culture file is not withheld, that reasoning does not fire at all**,
+> and the same unratified material is admitted without challenge.
+>
+> The exclusion looked like the rule working. It was the rule not existing, masked by a different rule
+> happening to overlap it on one location.
+>
+> **And it has already failed in output.** Cape Adare **Run 8 (warm)** lists
+> `Cape_Adare_Course_of_Events_Suggestions.md` in its input set **with no status marking** — admitted as
+> settled. A warm pass admits everything by design, which is why the fix is *status marking*, not exclusion.
+
+## Why DEMOTE rather than QUARANTINE
+
+**Quarantine is for contamination risk; unratified material poses none.** It is upstream, developer-authored,
+and often good. It simply has no authority yet. So it is **demoted to prompt standing — the same standing a
+real-world inspiration has: a source, never a specification.** It may be read; it cannot ground a finding,
+settle a fact, or be cited as canon. **A finding resting only on unratified material is REQUESTED, not
+PRODUCED** — it goes back as a ratification question.
+
+**And never ratify by use.** Citing a suggestion in a pass, then treating that pass as canon, is `6.1b`'s
+laundering problem transplanted from the provenance axis to the authority axis.
+
+## The fix, applied the same day
+
+- **`05_The_Input_Contract.md` §6.3 — new.** The two-axis table, the recorded instance, the five rules.
+- **`05` §7 pre-flight** — a ratification block added to the Input Contract Check, explicitly run *second*,
+  on inputs that already passed §6.1.
+- **Run 9's handoff** marks Janbogo's eleven vignettes demoted before the run opens.
+
+## Outstanding
+
+- **Cape Adare Run 8 needs its input set re-marked** — the suggestion file is currently listed as an equal.
+- **The ratification decision itself is the developer's and is not made.** Which `Course_of_Events` files are
+  canon is an open question across all 35 cities, not only Janbogo.

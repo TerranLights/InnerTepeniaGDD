@@ -97,8 +97,202 @@ and `17_Zodiac_Elemental_Planetary_CrossCheck.md`. Formalized into `Cultural_Syn
 
 ---
 
-# 🔴 TOP IMMEDIATE — the methodology now appears optimized; confirm with several more cold runs before
-declaring it settled
+# ✅ RUN 6 COMPLETE — 2026-08-31. Highway 37 (the Mountain Cut Throughway), cold, all eleven phases / sixteen
+gates / Review Panel / base Zodiac Lens.
+
+**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Highway37_Run6_Cold/` (17 files).
+
+- **First Corridor-type location ever run under this methodology**, and the first genuinely thin location —
+  no completed culture pass existed for it before this run, unlike Zhongshan and Sinheung, both of which turned
+  out to be best-case configurations despite being chosen as "thin" candidates.
+- ⭐ **Spine finding: "dependency without control."** Three independent generators (altitude geography, network
+  position, the Mountain Pass joint venture's own founding) converge on one shape at three different scales —
+  the corridor's every real need (altitude relief, subnet affiliation, power supply) answers to an authority it
+  does not administer, or to nothing at all.
+- **Corrected mid-pass, at the developer's direct instruction: an early draft defaulted to the post-war frame
+  without being asked to.** Fixed across the Frame Declaration, the pre-flight, and Phase 1's third generator —
+  and, since this is a standing principle rather than a one-off, **written into the methodology itself**
+  (`01_Frame_Typology_and_Inheritance.md` §4.1, "THE DEFAULT FRAME IS NEUTRAL") so future passes default to the
+  Second Interwar Period baseline unless a location's own identity is itself a post-war formation.
+- **Two real, mechanically-caught gate fires**, both fixed in the same session rather than left as findings-only:
+  Gate 1 caught five of ten phases missing a required differentiation axis; Gate 9 caught a favorable-path-only
+  membership mechanism with no stated route back for an interrupted rotation.
+- **A developer-directed generative move**, seeded rather than fully formalized: a minigame ("Waypoint")
+  synthesized directly from this location's own established facts to fill a thin escapism/downtime slot,
+  flagged as a candidate for a future `Cultural_Synthesis_Techniques.md` addition once run more than once.
+- **The Elemental/Planetary Cross-Check extension (216 prompts) deliberately deferred**, per that technique's
+  own note that it is a scheduled deepening pass, not a default part of every run — available as a follow-up.
+- **Seven REQUESTED items remain genuinely open** (highway construction date, maintenance authority, precise
+  seasonal-closure dates, a highway-specific Inspirational-Influences entry, hitchhiking-valid status, convoy
+  vehicle specs, and a full Gate C universe-repo check not yet run) — none blocking, all named in
+  `15_Step9_Record_and_Step10_Readiness.md`.
+
+---
+
+# ✅ RUN 7 COMPLETE — 2026-08-31. Cape Adare, cold, all eleven phases / sixteen gates / Review Panel.
+
+**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` (15 files). **Zodiac Lens
+deliberately deferred to a future follow-up pass**, not run this session.
+
+- **Chosen per the developer's own constraint**: an under-developed city (highest TBD-density of all 35 outer
+  cities, 11 in its own Specs file) with zero highway connection to Highway 37.
+- ⭐ **Spine finding: "precedence without a majority."** Cape Adare's founding logic (organized around
+  Borchgrevink's 1899 precedence, explicitly no dominant national community) and its own census data (a flat,
+  12-nation distribution with no majority bloc) converge independently on the same absence — and a real,
+  census-arithmetic-derived mismatch (Phase 2): the community carrying the city's founding memory (New Zealand,
+  the earliest arrival) is not the community holding its modern demographic weight (USA, China).
+- ⭐⭐ **Two real, self-caught contamination events, inside a file-type every prior run trusted by default.**
+  `Specs/Cape_Adare.md` — the "safest" tier in this methodology's own reading order — turned out to contain a
+  conclusion-bearing "Character & Culture" section and a Notable-Figures section citing withheld material
+  directly. **Both caught mid-pass, corrected in the same session, and written into the methodology itself**:
+  `05_The_Input_Contract.md` §6.1d, "A `Specs/` file is not categorically safe either."
+- **The neutral-frame rule (`01` §4.1) passed its first genuinely hard test.** Cape Adare's own canon
+  foregrounds its post-war Destroyed status far more prominently than Highway 37's did (header line, DLC
+  description, an entire Destruction section, an elegiac Legacy section) — this pass held the living, pre-war
+  frame throughout anyway, verified by an actual zero-hit sweep, not merely assumed clean.
+- **A real methodological distinction, worth carrying forward**: this run's own high null-count (Phase 6, Phase
+  8) traces to genuine input scarcity (eleven REQUESTED items) rather than a weak pass or a weak location — the
+  developer's own mid-run observation, now recorded as a standing diagnostic (check the REQUESTED-item count
+  before concluding a run underperformed).
+- **A follow-up plan for closing this run's own gaps is written out in full** in
+  `14_Step9_Record_and_Step10_Readiness.md` — split into developer-only rulings (St. Carsten's feast date, a
+  scope call on the arrival-wave tension) and genuinely researchable items (real-world heritage-site
+  governance, no-dominant-anchor gateway/free-port cities, rookery seasonality, land area), plus the
+  methodology's own prescribed next step: opening Cape Adare's withheld files as a check, not an input, once
+  this cold pass is considered mature enough.
+
+---
+
+# 🔴🔴 HIGH PRIORITY — Necessary-industry gap-filling across all 36 cities
+
+**Set to high priority by the developer, 2026-08-31**, after a corpus-wide sweep measured it — and after the
+developer independently arrived at the same gap from ordinary life: *"just the other day, while I was out in
+town (as I live in a city where there's constantly construction happening everywhere), I thought to myself,
+'What about construction?' So I'm glad you caught that on this sweep."*
+
+**Full findings and the per-city matrix: `Cities/Division_of_Industry_Sweep_2026-08-31.md` §4.4.**
+
+## The measurement
+
+| Necessary industry | Cities missing it (of 36) |
+|---|---|
+| **Utilities / water / sanitation / waste** | **36 — every single city** |
+| Food production | 33 |
+| Municipal administration / governance | 33 |
+| **Construction / building** | **32** |
+| Healthcare *(incl. robot maintenance as a civic service)* | 29 *(a floor — a stricter match pushes this toward 35)* |
+| Education | 18 |
+
+**Thirteen cities are missing all six:** Amundsen Station, Byrd, Belgrano, Halley, Dome Fuji, Sayowa, Casey,
+Vostok, Juan Carlos, Marambio, Port Lockroy, Rothera, Signy.
+
+## Why this is high priority and not housekeeping
+
+**This is not scattered oversight — it is a corpus-wide blind spot in how these economies were originally
+composed**, and every missing industry is load-bearing *specifically* in an Antarctic city:
+
+- **Construction** — every structure is built and maintained against conditions that actively destroy
+  buildings. **Denison's entire civic identity is wind-engineering, and it still has no construction sector.**
+- **Utilities** — water is ice, waste cannot be landfilled, heat is survival infrastructure. Concordia's own
+  canon calls dome-and-corridor heating *"the survival precondition"* — **and nobody's economy runs it.**
+- **Healthcare** — including the robot-population equivalent: maintenance, repair, coolant/siligel supply as
+  *civic services* rather than personal habits.
+- **Food** — only Davis (35%) and Esperanza (15%) produce any. **~30 cities have no stated food source**, which
+  either implies an enormous unstated national dependency on Davis or is simply a gap.
+
+## How to approach it *(suggested, not settled)*
+
+1. **Do NOT simply append six line-items to every city.** That would produce 36 identical economies and undo
+   the differentiation the whole methodology exists to protect. **Each city's version of "construction" or
+   "utilities" should reflect its own conditions** — Denison's construction is wind-engineering; Byrd's is
+   underground excavation; Dumont d'Urville's is bridge-and-channel work.
+2. **Apply `00b`'s object-colonization rule while doing it** — write the sector's general breadth first, then
+   name the city's signature instance as a scoped specialization inside it.
+3. **Percentages must be rebalanced, not inflated** — every city currently sums to exactly 100% (verified), so
+   adding sectors means taking share from existing ones. **This is the part that needs real judgment**, and is
+   why this is a genuine pass rather than a find-and-replace.
+4. **Consider running it through the Canon Gap Resolution Method** — 36 scopes × ~6 gaps is exactly the kind of
+   demand-driven queue that system was built for, and it would be its first large-scale use.
+
+**Two smaller items from the same sweep, tracked separately:** Scott's education sector is object-colonized
+(commemoration of St. Robert standing in for schools, in a city explicitly described as a good place to raise a
+family); Port Lockroy sits at 40% heritage-themed and needs a scale judgment rather than a bug fix.
+
+---
+
+# ✅ NEW SYSTEM BUILT — 2026-08-31. The Canon Gap Resolution Method.
+
+**`Worldspace/Canon_Gap_Resolution_Method/`** (9 files). **The project's separate system for *acquiring* canon
+that does not exist yet**, as distinct from the synthesis methodologies that consume canon. Built at the
+developer's direction after Cape Adare Run 7 made the need visible: *"the input-data-creation process will need
+to be separate from the location-synthesis methodology."*
+
+- **Grounded in prior art, not invented.** Seven acquisition paths, all of them modes this project already
+  practiced without formalizing — including **developer creative elicitation** (the City Vision Notes process,
+  measurably the most productive acquisition mode in the project's history) and **deep source extraction**
+  (the existing PDF/book pipeline), neither of which the original design proposal had.
+- ⭐ **One genuinely new mechanism: a greppable conclusion-tier marker**, which converts admissibility from
+  something a pass must *notice* into something it can *run*. **Tested with a proof-of-hit control before
+  adoption.** It is the structural fix for M-51 — the Cape Adare deposit chain, now documented end to end
+  (a 2026-07-05 Vision Notes deposit into `Specs/` broke a cold pass eight weeks later; nobody acted
+  carelessly, the failure was structural).
+- **Three governing laws**, two of which the design proposal did not anticipate: **LAW A — an open gap is not
+  a defect** (most of the project's 2,872 `TBD`s are scheduled deferrals or template scaffolding, and closing
+  them early is actively harmful); **LAW B — where a fact lands matters as much as whether it is true**;
+  **LAW C — the method is not its test cases** (added mid-build, after the build itself created a live
+  contamination vector).
+- **A scope can be a PERSON, not only a place** — characters are the project's second-largest gap
+  concentration, and person-scope triages very differently (heavy on RESERVED names, heavy on SCAFFOLD).
+- **Already validated on first use:** DRQ-03 (do highways get real-world inspiration picks?) was queued and
+  **ruled the same day — no**, because a corridor's character is already determined by what it connects *and*
+  what it runs through. Deposited into `Inspirational-Influences.md` and ULM `02` §G7, registry row closed,
+  logged. **The verbatim-recording rule proved itself within the hour** — the first draft's paraphrase silently
+  dropped half the ruling.
+
+**Immediate next step available:** 14 LIVE gaps triaged and waiting in
+`Canon_Gap_Resolution_Method/Test_Runs/2026-08-31_Seed_CapeAdare_and_Highway37.md`, and **3 rulings still
+queued** in `Developer_Ruling_Queue.md` (DRQ-01 St. Carsten's feast day · DRQ-02 highway maintenance authority,
+the highest-stakes item · DRQ-04 Hwy 37 hitchhiking status).
+
+---
+
+# 🔴 TOP IMMEDIATE — Run 9: JANBOGO, cold and INSTRUMENTED
+
+**Start a FRESH session and read
+`Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/RESUME_HERE.md` in full.** It was
+rewritten 2026-08-31 for this run and the subject is locked — **Janbogo, no substitutions.**
+
+**Why a fresh session:** the session that wrote the fixes below knows the answer sheet and cannot honestly test
+it. **This run must be cold in the ordinary sense *and* naive to the 2026-08-31 methodology changes** beyond
+what the files themselves now say.
+
+**Run 9 has two deliverables, not one:**
+1. **Janbogo** — eleven phases, sixteen gates, Review Panel, complete.
+2. **`NN_Ordering_Collision_Log.md`** — the instrumentation task (`RESUME_HERE.md` §2b), written *as the run
+   happens.* **A finished city with an empty log is half a run.**
+
+**Three methodology changes landed 2026-08-31 and Run 9 is their first real test:**
+- **`03_The_Phase_Spine.md` §0.4 — DRAFT order is not CLOSE order** (M-61). Sessions were *generating* false
+  forward dependencies the method never stated — *"re-checked once Phases 5–10 are written,"* written inside
+  Phase 4. **A phase that defers a complete-file check is COMPLETE, not BLOCKED.** The four-row close-pass
+  docket is **not known to be complete**; new rows are the finding.
+- **`05_The_Input_Contract.md` §6.3 — ratification is a second admissibility axis** (M-62). Found on the
+  developer's own flag. **A file can pass every circularity test and still not be canon.**
+- **`04` Gate 3 and the runbook's Step 5** rewired to match.
+
+> ### ⚠ Blocking on the developer, and it affects Run 9's input directly
+>
+> **Which `Course_of_Events/` files are canon is UNDECIDED — across all 35 cities, not just Janbogo.**
+> Developer: *"those vignettes still need to be double-checked. I haven't determined which ones are canon."*
+> Janbogo's eleven (~1,836 lines) are **DEMOTED** for Run 9 — readable as prompts, cannot ground a finding.
+> **This does not block Run 9**; it shapes what Run 9 may claim.
+
+**Still governing, restated because it still applies:** *"if it takes a month to get it right, then we spend a
+month testing and refining it."*
+
+---
+
+## *(Superseded — retained for context)* Prior framing of this priority, before Run 6
 
 **Developer's own framing, 2026-08-31:** *"I believe I may say that the methodology appears to be optimized.
 Still, we should do another few test runs just to be sure."* **Not yet proven — this is the actual next
@@ -385,7 +579,7 @@ at the developer's home. Recorded here as a resume point in case of another outa
     **A bulk find-and-replace is unsafe** — it would corrupt all seven Category B/C strings, *and* would still
     miss D1 entirely, since D1 contains no phase-count string to match on. Hand-fix only.
   - **Finding XII's palette** cites the diaspora file for "warm tones" content that **does not exist there**
-    (zero colour/palette hits in that file), and sits in mild tension with the Mega-Init's established
+    (zero color/palette hits in that file), and sits in mild tension with the Mega-Init's established
     white-and-green palette.
   - **`Cancer/README.md`** bills itself as the "Complete Megasheet" but was **compiled 2026-07-09** and is
     missing all of Findings VIII-XXI — ~90% of the district's cultural content. Needs a decision on whether

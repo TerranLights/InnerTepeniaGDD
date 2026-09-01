@@ -1,5 +1,18 @@
 ## Identifying Real Cities in the World to Serve as Inspiration for Tepenian Cities
 
+> **Scope note — highways and corridors deliberately have no entries here.** *(Developer ruling, 2026-08-31.)*
+> *"A road will be dependent upon the context it's in, and that context will already be established by the
+> worldbuilding"* — and that context is **two things, equally**: *"not just the two locations it connects, but
+> also what sort(s) of environmental setting(s) it runs through. A road's surroundings will be equally
+> important as the sites it connects to each other."*
+>
+> **So a corridor's character is already fully determined by what it connects and what it passes through, both
+> of which the worldbuilding has established.** A separate real-world inspiration pick would add a further
+> influence to something that is not short of one. **An absent entry for a highway is the correct state, not
+> an oversight.** Real-world comparables may still be used for a corridor's *physical* texture — road surface,
+> vehicle form, seasonal usability — never for its character.
+> `[CGRM 2026-08-31 · Path 6 · developer ruling]`
+
 ### Janbogo Subnet
 
 ##### Concordia

@@ -138,6 +138,33 @@ Governed entirely by `Real-World_Basis_Extrapolation_Method.md` and by the **sou
 the location is under no obligation to match its inspiration, and divergence stated is stronger than resemblance
 implied.
 
+> ### ⚠ G7 is EXPECTED-ABSENT for Corridor-type locations — a ruling, not a gap
+>
+> **Developer ruling, 2026-08-31** `[CGRM 2026-08-31 · Path 6 · developer ruling]` *(verbatim record:
+> `Worldspace/Canon_Gap_Resolution_Method/Developer_Ruling_Queue.md` DRQ-03)*. **Corridors do not receive
+> real-world inspiration picks, and their absence from `Inspirational-Influences.md` is correct rather than an
+> oversight.**
+>
+> **The reasoning, which generalizes past highways to any Corridor:** a corridor's character is already fully
+> determined by two things the worldbuilding has established, and the developer's own framing weights them
+> **equally** — *"not just the two locations it connects, but also what sort(s) of environmental setting(s) it
+> runs through. A road's surroundings will be equally important as the sites it connects to each other."*
+>
+> | The corridor's context | The generator that already covers it |
+> |---|---|
+> | **What it connects** — endpoints, junctions, what flows and in which direction | **G5**, network position |
+> | **What it runs through** — the environmental settings along its length | **G2**, physical & environmental constraint |
+>
+> **So for a Corridor, record G7 as expected-absent by ruling — never as a null to be regretted or a REQUESTED
+> item to be filed.** A pass that flags missing corridor inspiration picks as an input gap is misreading the
+> type.
+>
+> **The one legitimate use that survives:** a real-world comparable may still be researched for a corridor's
+> **physical texture** — surface construction, vehicle and convoy form, seasonal usability — **never for its
+> character.** *(Worked precedent: Highway 37's Run 6 used the real South Pole Traverse exactly this way,
+> for road-surface and convoy facts only, and derived every character finding from G2/G5/G6. That split was an
+> improvisation at the time; this ruling makes it the rule.)*
+
 ## G8 — Demographic composition
 
 Who is actually here, in what proportion, from where, and how they arrived. **Systematically under-used** —

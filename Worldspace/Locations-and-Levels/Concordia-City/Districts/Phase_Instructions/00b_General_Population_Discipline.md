@@ -80,6 +80,65 @@ this project's own earlier passes. Full statement at `00c` **Gate 11**.
 
 ---
 
+## ⚠ The same error on a different axis: a narrow OBJECT standing in for a whole SECTOR
+
+**Added 2026-08-31, from Cape Adare, after two developer corrections in sequence. Binding wherever an economy,
+industry breakdown, or any other *category* is written — not only where a population is described.**
+
+**Everything above concerns a narrow *role* standing in for the general *population*. The identical failure
+occurs on a second axis, and it had gone unnamed:** a narrow **object, site, or person** standing in for a
+whole **sector**.
+
+**The recorded instance.** Cape Adare's Division of Industry annotated **technical/scientific 20%** as
+*"heritage site preservation"* and **education 15%** as *"heritage interpretation"* — both pointed at a single
+1899 hut. In a city of 1,050,051 that reads as **~367,500 people maintaining one small wooden structure**,
+roughly **36,000×** the real-world conservation effort at the actual site. Developer's flag: *"Cape Adare
+cannot be a city that's entirely based around maintaining a tent"* — explicitly the same class as *"Zhongshan
+entirely based around managing the lake"* or *"Janbogo an entire city of teahouses."*
+
+> ### ⭐ The correction that matters, because the obvious fix is the wrong one
+>
+> **The first fix attempt shrank the percentages. That was wrong.** Developer's own follow-up:
+>
+> > *"'Heritage' doesn't specifically need to EQUAL object/site-preservation. 'Heritage' can also (and more
+> > predominantly) broadly mean 'stewardship of the past into the future', and that really could be anything:
+> > maintaining libraries and keeping them stocked with records of things, preserving older buildings, etc.
+> > There are possibly hundreds of perfectly usable, perfectly realistic meanings and applications of
+> > 'Heritage' (or any other sector, for that matter) that don't have to involve specific things."*
+>
+> **The sector sizes were never implausible. The definition was too narrow.** Twenty percent of a million
+> people doing *stewardship of the past* — libraries, civic and municipal archives, conservation of the city's
+> own older building stock, records administration, conservation science — is entirely ordinary. Twenty percent
+> polishing one hut is absurd. **Widen the definition; do not shrink the sector.**
+
+**The diagnostic question, on every sector or category label:**
+
+> **Does this label describe the whole breadth of what that category means in a place this size — or one vivid
+> instance of it?**
+
+**And the failure mode is identical to the population version: the vivid instance is what a writer reaches
+for, because it is the interesting part.** A city's most *famous* work is almost never its *biggest* work.
+Athens is not 35% archaeology.
+
+**Three practical rules:**
+
+1. **Write the sector's general breadth FIRST, before the signature instance exists to be reached for** — the
+   same ordering rule this file already gives for the general-population answer.
+2. **The signature instance is then named as a scoped specialization *inside* the sector**, explicitly, the way
+   a narrow practice is scoped on top of a general population answer. *(Cape Adare's hut conservation: a
+   sub-1%, high-prestige thread inside a broad stewardship sector.)*
+3. **Check whether the broad reading is functionally load-bearing** — it frequently is, and it is usually more
+   interesting than the narrow one. *(Worked case: for a gateway port, archives are **operational
+   infrastructure** — arrival logs, cargo manifests, customs records are what a landfall city runs on. That
+   makes a large archival sector necessary rather than sentimental.)*
+
+**Known recurrence, confirmed the same day:** Scott's own breakdown carries *"Education: 15% —
+historical/commemorative knowledge-keeping tied to St. Robert"* — an entire education sector assigned to
+commemorating one person. **Healthy contrast, all naming sectors by genuine economic function:** Davis
+agriculture 35%, Casey transit/logistics 30%, Zukelli hospitality 25%.
+
+---
+
 ## Which categories this applies to, and the real exceptions
 
 **Applies directly — check every time:** Fashion (the worst offender so far), Sensory Profile's "first

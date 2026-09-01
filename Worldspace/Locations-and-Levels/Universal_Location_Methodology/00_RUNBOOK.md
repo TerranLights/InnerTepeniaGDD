@@ -448,7 +448,16 @@ Standing reminders, all of which have their own recorded failure behind them:
 - **Phase 5 is mandatory and is written mid-spine specifically so it cannot be dropped.**
 - **Push every finding to a physical or behavioral expression.** The violation is usually the gameplay.
 
-# Step 5 — Reconciliation
+# Step 5 — Reconciliation *(and the CLOSE pass)*
+
+> ### ⚠ This step is also where deferred complete-file checks close. `03` §0.4.
+>
+> **Draft order is not close order.** Phases are *written* 0 → 10, but a few checks are only meaningful against
+> a **finished** file and cannot run inside the phase that owns them. **A phase that defers such a check is
+> complete, not blocked** — it must never be held open "pending Phase Y" where Y comes later. **Work the
+> close-pass docket at `03` §0.4 here**, and fold in any Zodiac Lens person-shaped results as explicit
+> amendments to Phase 9. *(Added 2026-08-31, after Runs 6 and 7 were found generating false forward
+> dependencies that this file never actually stated.)*
 
 **Expect contradictions between generators, and between a generator and canon, to resolve both-are-true.** The
 recurring shape: **one property producing two opposite effects on two different objects, or at two different

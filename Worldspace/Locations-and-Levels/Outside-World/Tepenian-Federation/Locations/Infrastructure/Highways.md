@@ -8,6 +8,44 @@
 
 ---
 
+## Maintenance Authority — **RESOLVED 2026-08-31** `[CGRM 2026-08-31 · Path 6 · developer ruling]`
+
+**Who maintains the highway network.** Developer ruling, verbatim:
+
+> *"Hybrid, yes. Generally speaking, overall, the highway system is mostly, generally centralized, but also has
+> distributed as well as localized elements. So, it's something of a combination of all three."*
+
+**All three tiers are real and operate simultaneously — this is not "centralized with exceptions":**
+
+- **Centralized** — the predominant mode. The network is administered as a national system, which is what makes
+  a project like Hwy 7-ext's dated construction (**2611–2614**, the only highway with confirmed dates) possible
+  at all.
+- **Distributed** — real regional/sectional elements layered onto the central system.
+- **Localized** — genuine local authority over specific stretches or specific decisions.
+
+**The practical consequence, which matters most for remote routes:** central administration exists, but
+**distance attenuates it**. On a route like Hwy 37 — plateau interior, no resident population along its length,
+conditions that change faster than a distant authority can respond to — **the localized tier is what actually
+operates day to day**, not because central authority is absent but because it is too far away to make a timely
+call. **A go/no-go decision in a whiteout is made by whoever is there.**
+
+### ⚠ This ruling revises an existing finding — stated rather than silently overwritten
+
+**Universal Location Methodology Run 6** (Highway 37) proceeded on an explicit *provisional assumption* of
+**fully distributed, non-centralized** maintenance, and flagged every finding resting on it. That assumption is
+**now superseded**, and one finding needs revision rather than deletion:
+
+| Run 6's Phase 7b finding | Status under this ruling |
+|---|---|
+| *"Nobody has clear authority to formally declare Highway 37 open or closed"* — the "unadministrable" reading, and the **"enforcement without an enforcer"** axis derived from it | **Wrong as stated** — a central authority does exist. **But the observed behavior it described is still correct**, for a different and better reason: authority exists and is simply too remote to exercise in time, so practical decision-making devolves locally. **Revise from *"no authority exists"* to *"authority exists, at a distance that makes it inoperative in the moment."*** |
+
+**The pass's related findings survive intact** — the informal go/no-go caller *(Phase 7b, and the Zodiac Lens's
+Aries result)* is if anything **better grounded** under this ruling than under the original assumption: an
+informal local decider is more interesting when there *is* a formal authority somewhere that simply cannot be
+reached in time, than when there is no authority at all.
+
+---
+
 ## Endpoints Quick Reference
 
 Every highway's two endpoints, for fast lookup. "Endpoint" means the physical end of that highway's own pavement — a named city where the road terminates, or (for connector highways with no city of their own) the ramp/junction where it meets another highway.
@@ -124,6 +162,19 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 - Concordia end **connects directly to both Hwy 110's and Hwy 183's endpoints**, via the outer ring linking Concordia's Capricorn and Sagittarius districts.
 - East Antarctic **plateau** traverse — not through the Transantarctic Mountains.
 - Connects the Indian Ocean coast (via the Sayowa Junction) to the inland stations and Concordia.
+- **Hitchhiking: PARTIAL — and in practice this means one place.** `[CGRM 2026-08-31 · Path 6 · developer ruling]`
+  Per the node-based rule (see "How hitchhiking actually works in Tepenia," above), a route is hitchhikeable
+  only where it has stopping places. **Hwy 37's entire interior length has exactly one: Mountain Pass Airport.**
+  Dome Fuji, Kunlun, and Vostok are cities on the route rather than roadside nodes, and the Hwy 22 dual-junction
+  is a bare crossing with nothing at it. **So hitchhiking on Hwy 37 is not forbidden, and not roadside-viable
+  either — it is a single-point proposition**: you wait at Mountain Pass and you take what stops there.
+  Combined with the corridor's own conditions — no resident population along its length, an elevation profile
+  that never returns below ~3,200 m after its first quarter, and seasonal closure through the deep polar night
+  — **this is the hardest route in Tepenia to hitchhike, by a wide margin, without being formally closed to it.**
+
+  *(Post-war note, consistent with this file's own status header: with the Mountain Pass outpost dark, the
+  route's only node is unstaffed — which by the node rule means post-war Hwy 37 is effectively unhitchhikeable
+  rather than merely difficult.)*
 
 ---
 
@@ -235,4 +286,37 @@ Hwy 183 → junction with Hwy 175 (near Janbogo) → Hwy 175 → junction with H
 - **Hwy 2** (Dumont Coast Highway)
 - A short segment of **Hwy 1**, specifically between Marambio and Rothera *(note: Rothera is now known to be reached via a ramp rather than the main line — this segment description may need revisiting once Hwy 1's ramp restructuring is fully reflected everywhere)*
 
-Exact in-world reasoning for why hitchhiking works on these particular routes (traffic density, cultural norms, freight-truck culture, something else) not yet developed — flagged for future design.
+### ⭐ How hitchhiking actually works in Tepenia — **RESOLVED 2026-08-31** `[CGRM 2026-08-31 · Path 6 · developer ruling]`
+
+**This answers the "exact in-world reasoning not yet developed" question that sat flagged here since 2026-07-05.**
+Developer ruling, verbatim:
+
+> *"people perhaps may hitchhike at specific nodes. That being, nobody 'stands on the side of the road holding
+> up a sign'. Rather, it may be possible to wait inside of the Tepenian equivalent of something like 'diners'
+> or 'gas stations' or 'rest stops' or something vaguely to that effect, and socialize with passers-through who
+> make a stop there (for whatever reason). Granted, this may end up taking much longer to hitch a ride, but
+> it's much more realistic than simply standing on the side of the road near the entrance to a highway"*
+
+**The rule, stated generally — it governs the whole network, not one highway:**
+
+- **Hitchhiking is node-based, never roadside.** Nobody stands at an on-ramp with a sign. **In Antarctic
+  conditions the roadside version is not merely unglamorous — it is not survivable**, which is the physical
+  reason the node model is the only realistic one.
+- **The node is a stopping place**: the Tepenian equivalent of a diner, fuel stop, or rest stop. You wait
+  *inside*, in the warm, and you get a ride by **socializing with people who stopped there for their own
+  reasons** — not by signalling to passing traffic.
+- **It is slower, and that is the point.** A ride is a social outcome rather than a transactional one, and it
+  may take considerably longer than roadside hitchhiking would in a temperate country.
+
+**Two consequences that follow directly, worth stating so they are not re-derived later:**
+
+1. **"Hitchhiking-valid" is really a claim about nodes, not about pavement.** A route is hitchhikeable to the
+   extent that it has stopping places with enough passing traffic to socialize with. The five routes listed
+   above should be understood that way.
+2. **A route with few or no nodes is functionally near-impossible to hitchhike**, regardless of its legal or
+   cultural status — see Hwy 37's entry, where exactly this case arises.
+
+---
+
+*(Superseded note, retained for the record: this section previously read "Exact in-world reasoning for why
+hitchhiking works on these particular routes... not yet developed — flagged for future design.")*

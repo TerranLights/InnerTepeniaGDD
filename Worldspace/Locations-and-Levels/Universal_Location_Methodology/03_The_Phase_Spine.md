@@ -117,6 +117,46 @@ And **check against the source, never against the last pass that cited it** — 
 invented and then passed the contradiction gate on three consecutive districts because each pass checked the
 previous pass.
 
+## 0.4 ⚠ DRAFT ORDER IS NOT CLOSE ORDER
+
+**Added 2026-08-31. Found by mining Runs 6 and 7 rather than by reading this file — because it was never
+written in this file. The running sessions were generating it themselves.**
+
+**The observed symptom.** A pass in progress writes a sentence of the form *"Phase X cannot be finished until
+Phase Y is written"* — **where Y comes after X.** Recorded instance, Run 6 (Highway 37), Phase 4 §C:
+
+> *"**This section will be re-checked once Phases 5–10 are written**, per the standing instruction that Gate 3
+> is best run against a complete file, not a partial one."*
+
+That reads as a circular dependency, and it is not one. **It is a real collision between two different orders
+this file had silently merged into one.**
+
+**The distinction, stated once:**
+
+- **DRAFT order — Phases 0 → 10, exactly as listed below.** Every phase is *written* in this order. The order
+  is by dependency and it is correct. Nothing here changes it.
+- **CLOSE order — a different, much shorter list.** A few checks are only *meaningful against a complete file*.
+  They cannot run inside the phase that owns them, because the material they check does not exist yet.
+
+> ### The rule: a phase is DRAFTED in its own slot and CLOSED later.
+>
+> **A phase that defers a complete-file check is COMPLETE, not BLOCKED.** Write the deferral as a docket line
+> naming where it closes — **never as a forward dependency, and never as a reason to hold the phase open.**
+
+**The known close-pass docket.** *(Not assumed exhaustive. Add a row when a run finds another.)*
+
+| Check | Owned by | Why it cannot close in place | Closes at |
+|---|---|---|---|
+| Internal-contradiction sweep (`04` Gate 3) | Phase 4 supplies the instrument | Needs Phases 5–10 to exist in order to check them | **Step 7**, Gate 3 |
+| Three-way differentiation set (`04` Part III) | Phase 5 establishes the geometry | Needs the categories Phases 6–8 write | **Step 6** |
+| Zodiac Lens person-shaped results (Phase 10 §B2) | Phase 10 runs the technique | Produces Phase 9 material *after* Phase 9 is written | **Step 5**, as an amendment |
+| Strongest-finding check (`01` §5.2 rule 4) | no single phase | You cannot know which finding is strongest until the pass is nearly done | **Step 5** |
+
+**Why this matters beyond tidiness.** A session that believes it is blocked does one of two bad things: it
+**stalls a phase that was actually finishable**, or it **writes a later phase early and badly in order to
+unblock itself.** Both cost more than the deferred check was ever worth. **If a pass finds itself writing
+"pending Phase Y" about a later phase, that is this bug — check this docket before believing it.**
+
 ---
 
 # PHASE 0 — FRAME
@@ -307,6 +347,12 @@ arrival schedule, nothing at all.
 **Feeds:** Phase 6 (countercultures seed here), Phase 7, Phase 9, and it is the **best contradiction detector in
 the file** for every other phase (`04` Gate 3).
 
+> **⚠ Phase 4 SUPPLIES that detector. It does not RUN it.** *(§0.4.)* Gate 3 reads Ordinary Life against
+> Phases 5–10, none of which exist yet at Phase 4. **Check backward against Phases 1–3 only, then close this
+> phase.** Do not attempt a full contradiction sweep here, and **do not mark Phase 4 blocked pending later
+> phases** — Gate 3 closes it at Step 7. *(Run 6 checked backward correctly and then wrote the blocking
+> sentence anyway; the check was right, the status line was wrong.)*
+
 ---
 
 # PHASE 5 — RELATION & GEOMETRY *(the restored phase)*
@@ -461,6 +507,21 @@ sanction from Phase 1 per `02` §3.3. **Primary phase for Polity and Installatio
 non-thematic export** — something ordinary, emotionally neutral, and unrelated to the headline function, which
 proves the economy is real rather than allegorical. **And do not force export into goods** where the real export
 is people or expertise.
+
+> ### ⚠ BEFORE writing any sector breakdown, read `00b`'s object-colonization rule
+> **Added 2026-08-31, from a recorded failure.** A sector label must describe **the whole breadth of what that
+> sector means in a place this size**, never one vivid instance of it. *(Recorded: a city assigned 35% of its
+> economy — ~367,500 people — to "heritage preservation" pointed at a single 1899 hut, ~36,000× the real-world
+> effort at that site. A second city assigned its entire education sector to commemorating one person.)*
+>
+> **The fix is to widen the definition, NOT to shrink the sector** — "heritage" properly means stewardship of
+> the past broadly: libraries, civic archives, building conservation, records administration. At 20% that is
+> ordinary; pointed at one object it is absurd. **Write the sector's general breadth first, then name the
+> signature instance as a scoped specialization inside it.**
+>
+> **This is `00b`'s general-population discipline on a second axis** — a narrow *object* standing in for a
+> *sector*, rather than a narrow *role* standing in for a *population*. Same failure, same cause: the vivid
+> instance is what a writer reaches for.
 
 **7b — Governance and decision.** Who decides, by what legitimacy, and how succession works. **The most
 productive question here is not who holds power but *what is unadministrable*** — the rule that cannot actually
@@ -627,6 +688,8 @@ placeholders under the same naming rule).
   take here, if anything — **never as an assignment, never referencing Concordia's own completed district
   content.** Zero, one, or several results per sign are all legitimate; record nulls with reasons rather than
   forcing a result to fill every sign.
+  **Person-shaped results AMEND Phase 9 at Step 5** (§0.4) — they are **not** a Phase 9 input, and **Phase 9
+  must never wait on this technique**, which runs six phases after it.
 - **C.** Organize under the four headings; **name places and things specifically, leave people as roles.**
 - **D.** Check border-adjacency texture where the location abuts a neighbor whose character might bleed across
   — **a real but easy-to-overuse technique; do not force it.**

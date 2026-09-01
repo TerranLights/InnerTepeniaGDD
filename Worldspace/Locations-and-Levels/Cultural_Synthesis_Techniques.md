@@ -594,8 +594,15 @@ eight of the sign's registered characters simply don't have a characteristically
 is itself informative.
 
 **Where it feeds.** Primarily **Phase 10 (Catalog)** — a fresh source of named places/things/role-archetypes,
-run alongside (not instead of) the Real-World Basis Extrapolation Method. Secondarily **Phase 9 (Populations)**,
-where a sign's result takes the shape of a person/role.
+run alongside (not instead of) the Real-World Basis Extrapolation Method.
+
+**Secondarily Phase 9 (Populations), where a sign's result takes the shape of a person/role — and that is an
+AMENDMENT, not a supply.** *(Corrected 2026-08-31.)* The technique **executes at Phase 10 §B2**, by which point
+Phase 9 is already written. **It therefore cannot be a Phase 9 input, and Phase 9 must never wait on it** — the
+earlier wording read as a feed into a phase six slots behind, which is the draft-order/close-order collision
+named at `Universal_Location_Methodology/03_The_Phase_Spine.md` §0.4. A person-shaped result is **carried back
+and folded into Phase 9 at `00_RUNBOOK.md` Step 5**, on that section's close-pass docket, and recorded as a
+revision inside Phase 9 itself rather than silently merged.
 
 **Divergence table — populated 2026-08-31, Sinheung, Run 5, after two developer-caught corrections to the
 search discipline (see step 6 above and M-38b/observations log).** Full write-up, including both correction

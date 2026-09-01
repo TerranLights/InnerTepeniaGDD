@@ -55,6 +55,89 @@ In 1899, Carsten Borchgrevink's Southern Cross expedition built a hut at Cape Ad
 
 At 71°17'S, Cape Adare has a meaningful polar night and midnight sun, though not as extreme as the deep interior cities.
 
+### Physical extent — real-world figures and the derived constraint `[CGRM 2026-08-31 · Path 4 + Path 2 · Wikipedia/BirdLife/ATS]`
+
+**Real-world measurements** *(acquired to close a gap ULM Run 7 left open — its Gate 11 density check could not
+run because no area figure existed anywhere)*:
+
+| Feature | Measurement |
+|---|---|
+| Cape Adare proper (Important Bird Area) | **2.94 km²** (294 ha) |
+| Adare Peninsula | **74 km** long, northeast Victoria Land |
+| Ridley Beach *(site of Borchgrevink's hut)* | a triangle roughly **1.9 km per side**, ~1.6 km SW of the cape |
+
+**The derived constraint — Cape Adare cannot be confined to the cape proper.** Checked against every other
+Tepenian city whose own Spec states the ice-free terrain it occupies:
+
+| City | Ice-free terrain | km² | Census II | People per km² |
+|---|---|---|---|---|
+| Davis | Vestfold Hills | 400 | 781,596 | 1,954 |
+| Sinheung | Larsemann Hills | 34 | 888,292 | 26,126 |
+| Lazar | Schirmacher Oasis | 34 | 1,803,977 | 53,058 |
+| **Cape Adare** | **cape proper only** | **2.94** | **1,050,051** | **357,160** ⚠ |
+
+**357,160/km² is 6.7× the highest figure any Tepenian city reaches**, and roughly 7.8× the densest real city on
+Earth.
+
+> ### ⚠ That figure is NOT an implausibility — the frame was wrong, and the correction is now general canon
+>
+> **Superseded 2026-08-31, same day, by the core/outer model** *(`Cities/Overview.md`, developer ruling)*: a
+> Tepenian city's **ice-free area sizes its downtown core, not its total extent.** Iced terrain beyond the core
+> is outer area — larger, less dense, and genuinely inhabited and worked, on the Greater-Los-Angeles pattern
+> rather than a dormitory belt.
+>
+> **So 357,160/km² was never Cape Adare's density.** It is the density Cape Adare would have *if its entire
+> population lived inside the downtown core* — a figure nobody should expect to be plausible. **The 6.7×
+> "implausibility" dissolves entirely under the correct frame**, and this run's own initial reading of it as a
+> plausibility failure is recorded here as a corrected error rather than quietly dropped.
+>
+> **What survives the correction, and is genuinely useful:** the 2.94 km² cape is now understood as **Cape
+> Adare's core**, making it — on current figures — **the smallest downtown core of any Tepenian city whose
+> terrain is documented**, against a very large population. That is a real and characterizing fact, and a far
+> more interesting one than a density error.
+
+**Not settled here:** the exact figure is a worldbuilding decision, not an arithmetic one — **~20–40 km² is the
+bounded range for an oasis-pattern city, not a chosen value.** What *is* established is the floor: **any extent
+near the 2.94 km² cape alone is implausible by a factor of nearly seven.**
+
+### The peninsula-scale option, and what it would mean `[CGRM 2026-08-31 · Path 4 · Wikipedia/VolcanoDiscovery]`
+
+**Two terrain facts, researched because the question "could the city occupy the whole peninsula?" turns on
+them:**
+
+- **The Adare Peninsula is a *high, ice-covered* peninsula** — 74 km long, running south from Cape Adare to
+  Cape Roget. **It is not ice-free oasis terrain.** The 2.94 km² cape is the exposed ground; the peninsula
+  behind it is not.
+- **It is a complex of overlapping shield volcanoes** — the northernmost pile of the Hallet Volcanic Province,
+  dated **6–13 million years old**, i.e. long extinct. *(Worth stating explicitly because this project has a
+  recorded siting precedent involving volcanism — Fort McMurdo was removed as a fabrication-chamber candidate
+  over Mount Erebus's **active** status and its seismic disruption of precision equipment. **That precedent does
+  not transfer here**: Adare's volcanism is millions of years dead, not active.)*
+
+**Under the core/outer model, this resolves cleanly and is no longer an either/or.** The cape is the **core**;
+the ice-covered peninsula behind it is the **outer area** — built on and into high volcanic terrain, which this
+project already has precedent for *(Byrd's enormous underground scale, Rothera's excavated subterranean
+chambers, Concordia's dome-and-corridor construction on the plateau)*. **Cape Adare is not "an oasis city
+or a peninsula city." It is a very small core with a very large outer area** — which, per the Greater-Los-
+Angeles pattern the model is built on, is working, inhabited territory rather than a dormitory belt.
+
+**The density consequence, at peninsula scale** *(width is not documented; ranges given rather than assumed)*:
+
+| Assumed footprint | km² | People per km² | Against the known Tepenian range |
+|---|---|---|---|
+| Cape proper only | 2.94 | 357,160 | **6.7× the densest — implausible** |
+| Oasis-pattern (~20–40 km²) | 20–40 | 26,000–53,000 | matches Lazar / Sinheung |
+| **Whole peninsula** (74 km × ~10–15 km) | **740–1,110** | **950–1,420** | **below Davis (1,954) — Tepenia's least dense city, by roughly half** |
+
+**⚠ Provenance note, stated rather than buried:** the peninsula-scale outcome aligns with a
+characterization already present in this file's own conclusion-tier material. **That alignment is
+corroboration, not independent derivation** — this arithmetic was run by a session that had already read that
+material, and per the self-origination protocol it must be labeled as such rather than presented as
+confirmation reached from nothing.
+
+**Still a worldbuilding decision, not an arithmetic one.** Both the oasis-pattern and peninsula-scale options
+are internally consistent; they simply produce different cities.
+
 ### Annual Climate
 
 *(Research note: verify all figures against Cape Adare climate data — New Zealand Antarctic Heritage Trust and Antarctica New Zealand maintain records for this region. Cape Adare's climate is coastal Ross Sea, influenced by open ocean exposure from the north.)*
@@ -170,7 +253,7 @@ In Tepenian culture, the destruction of Cape Adare is not simply the loss of a c
 ## Open Questions
 
 - **Did Borchgrevink's 1899 hut survive the destruction?** — the most significant heritage question in the Janbogo subnet; its survival or loss would be a major lore decision with emotional and cultural implications
-- **St. Carsten's civic observance** — what date does Cape Adare (and Tepenia more broadly) use to honor St. Carsten? The Southern Cross expedition overwintered 1899–1900; a specific date TBD
+- **St. Carsten's civic observance** — **NOT open: a date was formally adopted 2026-07-17, and this line was stale for six weeks.** `[CGRM 2026-08-31 · Path 3 · withheld-file check]` **February 17th** was adopted as **"St. Carsten's Landing"** (`Background-Lore/Cities/Janbogo_Subnet/Cape_Adare/Cape_Adare_Course_of_Events_Suggestions.md` §6; recorded resolved in `Cape_Adare_Mega_Init.md`). **⚠ One genuine question does remain, and it is not the date:** `Local_Cultures` §26 makes **"St. Carsten's Wintering"** the city's *central* observance and demotes the Landing to secondary — and §18 states the city's theology as veneration of *"the act of staying rather than the act of arriving."* **The adopted holiday commemorates the arrival; the city's own religious framing says the arrival is not the significant part.** Routed for a ruling as DRQ-01b (`Worldspace/Canon_Gap_Resolution_Method/Developer_Ruling_Queue.md`). **St. Carsten is also still absent from `National_Holidays.md`'s Saints roster** — to be added in the same pass, whichever way it rules.
 - **The founding population's national composition** — TBD; Cape Adare's position as a gateway suggests a mixed community, but specifics not yet established
 - **The destruction timeline** — when in the Long Night War was Cape Adare destroyed, and did the penguin rookery's scale provide any unusual cover or complications?
 - **Road connection to the Janbogo network** — the coastal road south from Cape Adare to the Terra Nova Bay cities is not yet established; distance and route TBD

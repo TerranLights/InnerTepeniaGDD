@@ -4,6 +4,170 @@ A running reference of outstanding design work, organized by urgency. Update as 
 
 ---
 
+## 🔴 DEVELOPER DECISION REQUIRED — Which `Course_of_Events` vignettes are canon? All 35 cities
+
+**Raised by the developer 2026-08-31:** *"those vignettes still need to be double-checked. I haven't determined
+which ones are canon."*
+
+**What this covers:** every city has a `Background-Lore/Cities/<Subnet>/<City>/Course_of_Events/` folder of
+numbered narrative variants, plus a `<City>_Course_of_Events_Suggestions.md`. **Janbogo alone is eleven files,
+~1,836 lines.** The files declare their own status in their headers — *"Course of Events **Suggestion** #1"* —
+and several deliberately leave character fields blank as design prompts.
+
+**Interim handling, already written into the methodology so nothing is blocked:**
+**`Universal_Location_Methodology/05_The_Input_Contract.md` §6.3** — ratification is a **second admissibility
+axis, separate from circularity.** Unratified material is **DEMOTED, not quarantined**: readable as a prompt
+(the standing a real-world inspiration has), but it **cannot ground a finding, settle a fact, or be cited as
+canon.** A finding resting only on it comes back **REQUESTED**, not PRODUCED.
+
+**Why it needed its own rule rather than existing judgement.** Every prior admissibility refinement tested one
+property — *is this input circular?* **A file can pass all of that and still not be canon.** Sinheung Run 5
+excluded its vignettes correctly but for a circularity reason that would not fire on most locations, which hid
+the gap; **Cape Adare Run 8 then admitted a suggestions file into its input set with no status marking at
+all.** Full write-up: `Universal_Location_Methodology/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`
+**M-62**.
+
+**The decision itself is the developer's.** Options range from ratifying per-file, to ratifying a subset per
+city, to treating the whole class as permanent prompt material. **Until then, demoted is the safe default and
+no pass is blocked by it.**
+
+**Cleanup owed regardless of the ruling:** Cape Adare Run 8's input set needs the suggestions file re-marked
+as demoted rather than listed as an equal.
+
+---
+
+## 🔴 HIGH PRIORITY — Necessary-industry gap-filling, all 36 cities — flagged 2026-08-31, measured, not started
+
+**Set high priority by the developer 2026-08-31**, after a corpus-wide sweep measured it and the developer
+independently arrived at the same gap from ordinary life: *"I live in a city where there's constantly
+construction happening everywhere, [and] I thought to myself, 'What about construction?'"*
+
+**Full findings and the per-city matrix: `Cities/Division_of_Industry_Sweep_2026-08-31.md` §4.4.**
+
+| Necessary industry | Cities missing it (of 36) |
+|---|---|
+| **Utilities / water / sanitation / waste** | **36 — every single city** |
+| Food production | 33 |
+| Municipal administration / governance | 33 |
+| **Construction / building** | **32** |
+| Healthcare *(incl. robot maintenance as a civic service)* | 29 *(a floor; stricter matching → ~35)* |
+| Education | 18 |
+
+**Thirteen cities are missing all six:** Amundsen Station, Byrd, Belgrano, Halley, Dome Fuji, Sayowa, Casey,
+Vostok, Juan Carlos, Marambio, Port Lockroy, Rothera, Signy.
+
+**Why it matters more than an omissions cleanup — every one of these is load-bearing in an *Antarctic* city:**
+**Denison's entire civic identity is wind-engineering and it has no construction sector.** Concordia's own canon
+calls dome-and-corridor heating *"the survival precondition"* for inhabiting Dome C — **and no city's economy
+runs utilities.** Water is ice, waste cannot be landfilled, and a utility failure is lethal rather than
+inconvenient. **Food appears in only Davis (35%) and Esperanza (15%)** — either ~30 cities depend on Davis to a
+degree nobody has stated, or it is simply a hole.
+
+**⚠ The obvious fix is the wrong one.** Do **not** append six line-items to all 36 cities — that produces 36
+identical economies and undoes the differentiation the whole methodology exists to protect. **Each city's
+version must reflect its own conditions:** Denison's construction is wind-engineering, Byrd's is underground
+excavation, Dumont d'Urville's is bridge-and-channel work. **And percentages must be rebalanced, not inflated**
+— every city currently sums to exactly 100% (verified), so adding sectors means taking share from existing
+ones. That judgment is why this is a real pass, not a find-and-replace.
+
+**Apply `00b`'s object-colonization rule throughout** (see the entry below). **Candidate first large-scale use
+of the Canon Gap Resolution Method** — 36 scopes × ~6 gaps is exactly the demand-driven queue it was built for.
+
+---
+
+## Over-proportioned / object-colonized industry sectors — flagged 2026-08-31, one fixed, two open
+
+**The bug class:** a narrow **object, site, or person** standing in for a whole **economic sector** — the
+economy-axis twin of the general-population discipline's narrow-role problem. **Now written into
+`00b_General_Population_Discipline.md`** and cross-referenced from the Universal Location Methodology's
+Phase 7a.
+
+**The originating case, already fixed:** **Cape Adare** assigned technical/scientific 20% *and* education 15%
+to work pointed at a single 1899 hut — **~367,500 people, roughly 36,000× the real-world conservation effort at
+the actual site.** Developer: *"Cape Adare cannot be a city that's entirely based around maintaining a tent."*
+
+**⭐ The correction that matters, because the obvious fix is wrong:** the first attempt shrank the percentages.
+Developer's follow-up corrected it — *"'Heritage' doesn't specifically need to EQUAL object/site-preservation…
+it can broadly mean 'stewardship of the past into the future', and that really could be anything: maintaining
+libraries…, preserving older buildings, etc."* **The sector sizes were never implausible; the definition was
+too narrow. Widen the definition; do not shrink the sector.**
+
+**Still open, from the sweep:**
+
+- **Scott — confirmed same class, not yet fixed.** *"Education: 15% — historical/commemorative knowledge-keeping
+  tied to St. Robert"* — an entire education sector assigned to commemorating one person. **Aggravating:** Scott
+  is explicitly described as *"a genuinely decent, quiet place to raise a family"* — the colonized annotation
+  displaced exactly the sector its own identity most needs.
+- **Port Lockroy — needs a scale judgment, not a bug fix.** 25% heritage/cultural preservation + 15% preserving
+  historical infrastructure = **40% heritage-themed, higher than Cape Adare's original.** **But its real-world
+  basis literally was a museum**, and its second entry is already broad rather than object-pointed. Legitimacy
+  is genuine; the open question is whether 40% is plausible.
+- **Four purpose-dominant cities worth reviewing** against the standing *"could a person live an entire life
+  here?"* test: **Vostok** (science 65%, +25% self-sufficiency = 90% in two), **Kunlun** (astronomy 60%, with
+  no commercial/education/food/manufacturing at all), **Dome Fuji** (ice core 40% + religious 35% = 75% in
+  two), and Scott once fixed. **Note the pattern:** every city whose dominant share is a *productive activity*
+  reads fine; discomfort clusters exactly where it is a *purpose or identity*.
+
+**The model to copy, already in the corpus:** **Janbogo's** `Hospitality / communal services: ~15%` — it names
+a **broad sector** and cites teahouses as *what drives it*, *"not just the culture."* Sector named broadly,
+signature instance named as its driver. **That is the correct shape.**
+
+**Also verified clean by the same sweep:** all 36 cities' percentages sum to exactly 100%. *(Two automated
+flags — Mawson 90%, Mirny 120% — were false positives of the checking regex; both hand-verified at 100%.)*
+
+---
+
+## City physical extent — 31 of 35 cities state no area at all — flagged 2026-08-31, blocks a QA gate
+
+**Found while acquiring Cape Adare's land area.** Only **four** city Specs state the physical terrain they
+occupy: **Davis** (Vestfold Hills ~400 km²), **Sinheung** and **Lazar** (~34 km² each), and **Fort McMurdo**
+(Ross Island, with an explicit *"island cap"* on population in the census).
+
+**Consequence:** the Universal Location Methodology's **Gate 11 plausibility check (population ÷ extent)**
+cannot run for 31 of 35 cities. It is the only gate that has ever caught an error by arithmetic rather than
+judgment, and it is unavailable almost everywhere.
+
+**Established while closing Cape Adare's own figure, and now general canon** *(`Cities/Overview.md`)*: **a
+city's ice-free terrain sizes its downtown CORE, not its total extent** — iced terrain beyond it is outer area,
+larger and less dense, and *not merely residential* (the Greater-Los-Angeles pattern, per the developer's own
+framing). **Population ÷ ice-free area is therefore not a density; it is the density the city would have if
+everyone lived downtown.** Reading the first as the second manufactures false implausibility — it did exactly
+that once already, producing a bogus "6.7× too dense" reading for Cape Adare.
+
+**Also established for Cape Adare specifically:** cape proper **2.94 km²** (the smallest documented core in
+Tepenia), Adare Peninsula **74 km** long, high and ice-covered, extinct shield volcanoes 6–13 Mya.
+
+---
+
+## St. Carsten's observance — an adopted decision that never propagated, plus a live contradiction — flagged 2026-08-31
+
+**Two separate problems, found together.**
+
+**1. A settled decision invisible to every file anyone checks.** **February 17th was formally adopted as
+"St. Carsten's Landing" on 2026-07-17** (`Background-Lore/Cities/Janbogo_Subnet/Cape_Adare/Cape_Adare_Course_of_
+Events_Suggestions.md` §6; recorded resolved in `Cape_Adare_Mega_Init.md`). **Six weeks later it had reached
+none of the three files anyone would look in** — `Specs/Cape_Adare.md` still said "TBD," `Local_Cultures` §26
+named a different observance, and **St. Carsten is still absent from `National_Holidays.md`'s Saints roster
+entirely.** *(The Specs Open Questions line has since been corrected; the roster gap and `Local_Cultures`
+remain.)*
+
+**Consequence worth noting:** the stale TBD **manufactured phantom work** — it generated a REQUESTED item, a
+triage, a research pass, and a developer interruption for a question that already had an answer. **A
+resolution failing to propagate is worse than a fix failing to propagate**, for exactly this reason.
+
+**2. ⚠ The genuine open question — the adopted holiday contradicts the city's own theology.** The adopted
+observance commemorates **the landing**. But `Local_Cultures` §26 makes **"St. Carsten's Wintering"** the
+city's *central* observance with the Landing *secondary*, and §18 states the theology explicitly: veneration is
+*"focused specifically on the **act of staying** rather than the act of arriving — Borchgrevink's significance
+was never that he came first, but that he was the first to remain through a winter."* **The adopted holiday
+commemorates the one thing the city's own religious framing says is not the significant part.**
+
+**Three options prepared** in `Worldspace/Canon_Gap_Resolution_Method/Developer_Ruling_Queue.md` **DRQ-01b** —
+including a two-part civic season (17 Feb → 1 March) that would make every existing file correct as written.
+**Awaiting a ruling.**
+
+---
+
 ## Aggregate-file GPS-purposes-only propagation re-check — flagged 2026-08-30, not started
 
 **A confirmed instance of a documented-as-fixed bug still present in a shared/aggregate file.**
@@ -944,7 +1108,7 @@ Zhongshan, Sinheung, and Shirayuki were founded via a peaceful diplomatic partit
   heavily-supervised, closely-surveilled dangerous labor conscription in Virgo or Aries specifically, under
   native supervisors, doing work even native workers there would consider extremely dangerous. **Tier 3
   (truly abhorrent, utterly unfathomable crimes)** → forcibly "volunteered" as an Aquarius test subject,
-  fitting the district's already-established ethical grey zone around consent/experimentation. Also covers:
+  fitting the district's already-established ethical gray zone around consent/experimentation. Also covers:
   the robot-personhood complication (Scorpio's rebirth tech can't be used on a convicted robot without
   consent, given legal personhood since the 2318 Jeju-do ruling — framed as a live in-world controversy, not
   a clean answer) and why no clean codified penal code exists at all (Libra's own Suspended Compact/permanent-

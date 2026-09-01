@@ -145,12 +145,50 @@ Practical, gateway-city clothing without a strong national aesthetic marker — 
 
 ## 15. Division of Industry
 
-- Marine / resource extraction: 25% — gateway maritime logistics
-- Commercial: 25% — arrival/departure trade, shipping logistics (New Zealand freighter trade)
-- Technical / scientific: 20% — heritage site preservation, structural maintenance
-- Education: 15% — historical/civic memory-keeping, heritage interpretation
-- Industrial / manufacturing: 10%
-- Other: 5%
+> ### ⚠ CORRECTED 2026-08-31 — the sectors were fine; ONE OBJECT had colonized them `[CGRM 2026-08-31 · Path 6 · developer ruling]`
+>
+> **The previous breakdown annotated technical/scientific 20% as "heritage site preservation" and education 15%
+> as "heritage interpretation" — collapsing both into work on the 1899 hut.** In a city of 1,050,051 that reads
+> as **~367,500 people maintaining one small wooden structure**, roughly **36,000×** the real-world conservation
+> effort at the actual site. *"Cape Adare cannot be a city that's entirely based around maintaining a tent."*
+>
+> **But the first correction attempt got the diagnosis half wrong, and the developer's own follow-up is the
+> right one:**
+>
+> > *"'Heritage' doesn't specifically need to EQUAL object/site-preservation. 'Heritage' can also (and more
+> > predominantly) broadly mean 'stewardship of the past into the future', and that really could be anything:
+> > maintaining libraries and keeping them stocked with records of things, preserving older buildings, etc.
+> > There are possibly hundreds of perfectly usable, perfectly realistic meanings and applications."*
+>
+> **So the sector sizes were never the problem. The problem was a whole sector standing in for one object.**
+> Twenty percent of a million-person city doing *stewardship of the past* is entirely ordinary. Twenty percent
+> polishing one hut is absurd. **The percentages are restored; the definitions are what needed widening.**
+>
+> **⭐ And this is `00b`'s General Population Discipline, applied to an economy instead of to people** — the
+> project's standing rule that *a narrow role's version must never silently stand in for the general
+> answer.* Here a narrow **object** stood in for a general **sector**. Same error, different axis.
+
+- **Marine / resource extraction: 25%** — port and harbor operations, fishing, and guano extraction from the
+  rookery *(an ordinary, unglamorous, high-volume byproduct — the city's genuinely non-thematic export)*
+- **Commercial: 25%** — arrival/departure trade, shipping logistics (New Zealand freighter trade), plus the
+  provisioning, chandlery, warehousing and hospitality any gateway port of this size runs on
+- **Technical / scientific: 20% — stewardship, broadly, plus the ordinary technical work of a large cold-climate
+  port.** Municipal and civic archives; conservation of the city's own older building stock; conservation
+  science and materials expertise; harbor and cold-climate engineering; medicine; environmental monitoring of
+  the rookery. **⭐ And for a gateway city specifically, records are operational infrastructure rather than
+  sentiment** — arrival logs, cargo manifests, customs and port records are what a landfall city *runs on*.
+  **Borchgrevink's hut is one prestigious thread inside all of this, not the whole cloth.**
+- **Education: 15%** — ordinary schooling and trade/maritime training for a population of a million, alongside
+  libraries and their upkeep, genealogy and family-record keeping *(unusually load-bearing in a city whose whole
+  civic identity is precedence and who-was-here-first)*, and heritage interpretation as one recognized,
+  competitive specialty among many.
+- **Industrial / manufacturing: 10%** — ship repair and refit, construction, general fabrication
+- **Other: 5%**
+
+**The hut-specific conservation effort proper is a small, high-prestige specialization — plausibly well under
+1% of the economy** — carrying civic identity far out of proportion to its headcount. **Athens is not 35%
+archaeology, and Cape Adare is not 35% hut.** But a large city genuinely *is* substantially in the business of
+keeping its own past usable, and that part was never implausible.
 
 ---
 

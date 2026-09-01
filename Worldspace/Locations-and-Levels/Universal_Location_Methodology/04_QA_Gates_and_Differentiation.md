@@ -59,6 +59,11 @@ experience, per-population culture.
 it. It is the most reliable statement of who actually lives here and what they actually do, which makes it the
 best contradiction detector available.
 
+> **⚠ This gate is the CLOSE POINT for Phase 4's contradiction role — `03` §0.4.** Phase 4 *supplies* the
+> instrument; **this gate wields it.** Inside its own slot, Phase 4 checks backward against Phases 1–3 only and
+> then **closes complete.** It must never be left open "pending Phases 5–10" — that reads as a phase depending
+> on later phases, and it is the recorded symptom of the draft-order/close-order collision.
+
 **Gate 4 — Swap test.** For each finding: would it survive essentially unchanged if swapped onto a comparable
 location? **Pick the partner most likely to survive the swap, not a convenient comparable** — the gate is only
 informative if it could plausibly fail. **Record which finding was weakest under the swap**, not merely that the

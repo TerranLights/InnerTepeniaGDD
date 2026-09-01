@@ -177,4 +177,42 @@ stands without it.
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-35, M-36, M-37** | Sinheung's central finding, its Zhongshan-comparison reconciliation, and its Phase 6 death-outsourcing reasoning, all in full |
 | `Test_Runs/2026-08-31_Sinheung_Run5_Cold/` | **all of it** | Sinheung's complete Phase 0–10 content, all sixteen gates, and the full Review Panel run |
 
+## Highway 37 — added 2026-08-31 from Run 6 *(cold, complete — all eleven phases, sixteen gates, Review Panel,
+base Zodiac Lens; the Elemental/Planetary Cross-Check extension deliberately deferred)*
+
+**A future cold pass on Highway 37 must skip the example content in the row below.** The rule stands without
+it. **Note this run's own structural difference from every prior entry on this page:** Highway 37 had no
+completed culture pass before this run, so there is no *pre-existing* content to quarantine from earlier
+sessions — only this run's own output, listed here for the benefit of any *later* same-location re-run.
+
+| File | Section | What the example reveals about Highway 37 |
+|---|---|---|
+| `01_Frame_Typology_and_Inheritance.md` | **§4.1**, "THE DEFAULT FRAME IS NEUTRAL" | Cites this run's own mid-pass correction (an early draft defaulted to the post-war frame unasked) as the rule's origin case, including the corrected Frame Declaration's own content |
+| `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-43 through M-49** | This run's inbound-check results, its shape/input-set boundary case, the frame correction, the axis-naming and asymmetry gate catches, the minigame-derivation move, and the empty-quarantine structural note |
+| `Test_Runs/2026-08-31_Highway37_Run6_Cold/` | **all of it** | Highway 37's complete Phase 0–10 content, all sixteen gates, the full Review Panel run, and the base Zodiac Lens |
+
+## Cape Adare — added 2026-08-31 from Run 7 *(cold, complete — all eleven phases, sixteen gates, Review Panel;
+the Zodiac Lens deliberately deferred to a future follow-up pass)*
+
+**A future cold pass on Cape Adare must skip the example content in the rows below.** The rules stand without
+them. **Note this run's own real, substantial quarantine** (unlike Highway 37's vacuous one) — a future
+same-location re-run also needs the admissibility table in `00_Frame_and_PreFlight.md` §2, not only this page.
+
+| File | Section | What the example reveals about Cape Adare |
+|---|---|---|
+| `05_The_Input_Contract.md` | **§6.1d**, "A `Specs/` file is not categorically safe either" | Cites this run's own self-caught contamination event in full — the Character & Culture section's own content, and the reasoning that corrected it |
+| `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-50 through M-54** | This run's quarantine-build catches, the near-miss on fabricated scan output, the neutral-frame stress test, and the input-scarcity-vs-methodology-failure diagnostic |
+| `Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` | **all of it** | Cape Adare's complete Phase 0–10 content, all sixteen gates, and the full Review Panel run |
+| **`Worldspace/Canon_Gap_Resolution_Method/03_Deposit_Discipline.md`** | **§1's worked table — already fenced** | Cape Adare's own conclusion content (civic character, pace, instrumentation), used there to teach the attribute/conclusion classification. **Fenced with `<!-- CGRM:CONCLUSION-TIER -->` markers**, so it can be excluded mechanically rather than by noticing: `awk '/CGRM:CONCLUSION-TIER:START/{skip=1; next} /CGRM:CONCLUSION-TIER:END/{skip=0; next} !skip' <file>` |
+| `Worldspace/Canon_Gap_Resolution_Method/00_RUNBOOK.md` | **LAW B** | The Cape Adare deposit chain narrated in full, as the recorded failure grounding that law |
+| `Worldspace/Canon_Gap_Resolution_Method/Test_Runs/2026-08-31_Seed_CapeAdare_and_Highway37.md` | **all of it** | Cape Adare's and Highway 37's triaged gap lists — the *questions*, not answers, but a re-run should not be handed its predecessor's framing of what was missing |
+
+> ### ⚠ A second system now carries Cape Adare examples, and this is why it is listed here
+> **Added 2026-08-31.** The Canon Gap Resolution Method was built the same day Run 7 finished, and its founding
+> recorded failure *is* the Cape Adare deposit chain — so its rule files necessarily discuss Cape Adare's own
+> conclusion content. **That made a second methodology into a contamination vector for the same location**,
+> which is exactly the problem this manifest exists to track. **The content was fenced at the time of writing
+> rather than after the fact**, and is registered here so a future cold pass finds it through the check it
+> already runs, rather than having to know that a second system exists.
+
 ## *(Add further locations here as they are absorbed into the methodology.)*

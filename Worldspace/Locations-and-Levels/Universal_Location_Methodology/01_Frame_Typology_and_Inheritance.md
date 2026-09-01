@@ -270,6 +270,54 @@ Tepenia's frames, for reference: First Interwar (2083–2564) · Second Interwar
    **Ask of the built environment specifically: is there a visible seam?** That question produced Cancer's
    Finding VIII and it is portable to anywhere that has been through a bad decade.
 
+### ⚠ 4.1 THE DEFAULT FRAME IS NEUTRAL — added 2026-08-31, developer instruction, Highway 37 Run 6
+
+**Developer's own words, given directly after an early draft of Run 6 defaulted, unasked, to the post-war
+present:** *"remember that all of this is assumed during the Second Interwar Period. Do not embed post-war
+conditions into any of the specs. These are locations that exist on their own merit on their own terms. Any
+'post-war conditions' can be determined on future examination using these neutral, baseline explorations and
+extrapolations as a foundation."* And restated more generally immediately after: *"make sure to write into the
+methodology to assume that all conditions are neutral (i.e., not 'post-war'), because these locations must
+exist by their own merit on their own terms, and any and all 'perspectives' from other conditions can be made
+later, using the neutral explorations as a baseline."*
+
+**The rule, stated plainly:** **absent a specific reason to do otherwise, a location pass defaults to the
+Second Interwar Period baseline — before the Long Night War, before Amundsen Tower's destruction — not to the
+post-war present.** This is a *default*, not a prohibition on ever writing post-war: Concordia's districts are
+correctly written post-war per rule 2 above, because their whole civic identity is a post-war formation and a
+pre-war pass on them would be answering the wrong question. **The default exists for everywhere else** — the
+35 outer cities, highways, structures, natural features, anything whose own identity was not itself produced by
+the war.
+
+**Why this is a real error and not a stylistic preference.** A pass that defaults to "now" without being asked
+to is quietly assuming the post-war condition is the location's *baseline* self, when for most locations it is
+instead a later, specific perspective layered on top of one. **A location's neutral, pre-war baseline is more
+fundamental than its post-war state** — the post-war state is what happened *to* the baseline, not a replacement
+for needing one. Writing the post-war condition first, without the baseline underneath it, produces a location
+whose "character" is actually just "what the war did to it," with nothing established about what it was like on
+its own terms beforehand. **A post-war examination built without this foundation has nothing to measure the war
+against.**
+
+**What this means procedurally, for the Temporal frame line of the declaration block:**
+1. **Default to the Second Interwar Period** (2564–2812 GDD) unless the location's own identity is inseparable
+   from a post-war formation (Concordia's districts remain the standing exception, per rule 2).
+2. **Do not import post-war facts as inputs — not as backstory, not as foreshadowing, not as a "doomed
+   arrangement" framing of something that works fine in-frame.** A dependency, a single point of failure, a
+   vulnerability: describe it as a structural fact of the frame being written, never as a countdown to a war
+   the location's own residents have no knowledge of.
+3. **A genuine post-war examination of the same location is legitimate future work — built ON TOP of the
+   neutral pass, not folded into it.** Per rule 2, that is a separate document, and it inherits the baseline
+   pass as its own foundation rather than re-deriving one.
+4. **State the choice explicitly in the Temporal frame line, even when it is simply "the default."** An
+   undeclared default is indistinguishable from an accidental one, and the whole point of declaring frame at all
+   (`01` §4's opening) is that a later reader cannot tell the difference between deliberate and accidental
+   without the line being there.
+
+**Recorded as M-45 in `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`** — an early draft of Highway 37 Run 6
+defaulted to post-war without being asked, and had to be corrected across the frame declaration, the pre-flight
+checklist, and Phase 1's third generator (which had used the Tower's destruction as its defining event and was
+re-run against the joint venture's own founding instead).
+
 ---
 
 # 5. POSITION — nesting, inheritance, and the sibling set

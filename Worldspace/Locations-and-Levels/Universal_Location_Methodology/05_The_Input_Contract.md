@@ -482,6 +482,22 @@ point.** **Column 3 exists because the first two assume a claim stays where it w
 > 3. **A pass that finds a shared-canon fact citing its own location must tag it `[SELF-ORIGINATED]`** and
 >    treat every dependent finding as corroboration.
 
+> ### ⚠ 6.1d — A `Specs/` FILE IS NOT CATEGORICALLY SAFE EITHER
+>
+> **Added 2026-08-31, Cape Adare Run 7, self-caught mid-pass.** `00_RUNBOOK.md` §0.4 heads its admissible-first
+> reading order with "specs / physical facts," and no run before this one had ever found a `Specs/` file
+> containing conclusion-bearing content — so the tier was trusted by default rather than checked. **A `Specs/`
+> file cleared after its first ~20 lines (matching the expected Based-on/Status/Population pattern) turned out
+> to contain a "Character & Culture" section** further down — civic temperament, a named developer-vision
+> paragraph asserting settled cultural facts (community character, pace of life, specific instrumentation),
+> and a citation to the location's own withheld `Local_Cultures` file for "full detail." **Exactly the §6.1a
+> pattern, inside the one tier this methodology had never tested for it.**
+>
+> **The rule, generalized:** read a `Specs/` file to its actual end before clearing it, and treat any section
+> headed **"Character," "Culture," "Significance," "Developer vision,"** or similar as suspect by default —
+> apply the same header/content check §6.1a already requires of `_Physical_Infrastructure_Attributes.md` files.
+> **No file-type in this registry is safe by category. Every file is safe by content, checked.**
+
 > ### ⚠ 6.1c — A SYMBOL ASSIGNMENT MAY BE DOWNSTREAM OF A PERSONALITY READ
 >
 > **Added 2026-08-30.** In this project, `City_Symbol_Assignments.md` states in its own header that every
@@ -528,6 +544,62 @@ of authority, and no generating process discharges it. **An outside process may 
 
 ---
 
+## 6.3 ⚠ RATIFICATION IS A SEPARATE AXIS FROM CIRCULARITY — and this file had no tier for it
+
+**Added 2026-08-31, on a direct developer flag during Run 9 setup:** *"those vignettes still need to be
+double-checked. I haven't determined which ones are canon."*
+
+**Everything in §6.1 tests one thing: is this input CIRCULAR — is it downstream of a culture-pass conclusion
+about this same location?** That is a real test and it is not this one. **A file can pass §6.1 completely —
+genuinely upstream, no conclusions, clean provenance — and still not be canon, because nobody has ratified
+it.** Admissibility has two axes and this file previously described only one.
+
+| | **Circular?** | **Ratified?** | **Admissible as canon input** |
+|---|---|---|---|
+| A culture pass's own conclusions | yes | yes | **No** — §6.1 |
+| A settled spec / census figure | no | yes | **Yes** |
+| **A proposal, suggestion, or draft** | **no** | **NO** | **No — this section** |
+
+### The recorded instance
+
+**Janbogo's `Course_of_Events/` set — eleven files, ~1,836 lines — is not confirmed canon.** The status is
+**stated in the files' own headers**, which read *"Course of Events **Suggestion** #1, translated from
+`…_Course_of_Events_Suggestions.md`"*, and whose character fields are deliberately left blank as design
+prompts. **Every city has a folder of this kind.** They are proposals awaiting a ratification decision the
+developer has not yet made.
+
+> ### ⭐ Why this went unnoticed: a filter caught it once, for the wrong reason
+>
+> **Sinheung Run 5 excluded its vignettes correctly — and by accident.** Its pre-flight disqualified them as
+> *"downstream of withheld material"* — a §6.1 CIRCULARITY judgement. **It never asked whether they were
+> canon.** On a location whose culture file is not withheld, that reasoning does not fire, and the same
+> unratified material sails straight through as admissible.
+>
+> **A correct result produced by the wrong rule is not a working rule. It is an untested one.**
+>
+> **And it has already failed once.** Cape Adare **Run 8 (warm)** lists
+> `Cape_Adare_Course_of_Events_Suggestions.md` in its input set with no status marking at all — admitted as
+> though settled. A warm pass admits everything by design, which is exactly why *status marking*, not
+> exclusion, is the rule below.
+
+### The rule
+
+1. **Check ratification separately from circularity, and check it second** — a file that fails §6.1 is out
+   regardless, so ask this only of inputs that already passed.
+2. **Read the header.** In this corpus the status is usually declared: *suggestion · proposal · draft ·
+   opportunities · candidate · tracker · TENTATIVE · flagged*. **A filename ending in `_Suggestions.md`, or a
+   folder of numbered narrative variants generated from one, is unratified until told otherwise.**
+3. **Unratified material is NOT quarantined — it is DEMOTED.** It cannot ground a finding, cannot settle a
+   fact, and cannot be cited as canon. **It may be read as a prompt** — the same standing a real-world
+   inspiration has: a source, never a specification. Distinguish it in the text every time.
+4. **Where an unratified file is the ONLY support for a finding, the finding is REQUESTED, not PRODUCED** —
+   it goes to the developer as a ratification question, not into the pass as a fact.
+5. **Never ratify by use.** Citing a suggestion in a completed pass, and then treating the completed pass as
+   canon, is `6.1b`'s laundering problem on the authority axis instead of the provenance axis. **The developer
+   ratifies. A pass does not, and neither does repetition.**
+
+---
+
 # 7. The pre-flight checklist
 
 Run before Phase 0. **Cheap, and it is the input-side equivalent of Gate 0.**
@@ -561,6 +633,13 @@ Run before Phase 0. **Cheap, and it is the input-side equivalent of Gate 0.**
 - *For each: looked up in canon? · evidence tier (typical / notable-therefore-atypical)? · changed a finding or ornamented one?*
 
 **Type-specific:**      [per §2.5 for this type]
+
+**Ratification check (§6.3) — run on every input that already passed §6.1, second, never instead:**
+- Files whose header or filename declares them *suggestion / proposal / draft / opportunities / candidate /
+  tracker / TENTATIVE / flagged*:  [list, or "none found — and state that the headers were actually opened"]
+- **DEMOTED (readable as prompt, cannot ground a finding):**  ...
+- **Findings resting ONLY on unratified material → these are REQUESTED, not PRODUCED:**  ...
+- *`Course_of_Events/` and `*_Course_of_Events_Suggestions.md` are unratified by default in this corpus.*
 
 **Reserved decisions in force for this pass:**  ...
 
