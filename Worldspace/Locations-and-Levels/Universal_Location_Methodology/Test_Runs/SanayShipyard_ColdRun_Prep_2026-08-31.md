@@ -108,34 +108,92 @@ Every one of these was read in full tonight and is disqualified wholesale, not b
 
 ---
 
-## The reading sequence a fresh session should actually follow
+## The exact, line-ranged reading sequence — the real mitigation
 
-Per `00_RUNBOOK.md` Step 0.4's own triage order (specs/physical → symbols → census → founding/events →
-sibling differentiation → culture last, culture read only as a CHECK at Gate 6). Applied here:
+**Why this section exists.** Tonight's contamination happened because two files were read *in full*,
+trusting the section-level split to be checked mentally while reading rather than enforced mechanically —
+by the time the inadmissible sections were reached, they had already been read. **The actual fix is
+narrower reads**: use the `Read` tool's own `offset`/`limit` parameters (or `sed -n 'X,Yp'`) to load only
+the verified-admissible line ranges below, so the inadmissible bytes are never loaded into context at all,
+rather than loaded and then supposedly ignored. **Every range below was verified against this session's own
+actual line-numbered reads tonight** — not estimated. Follow this exact sequence, in order.
 
-1. **Read this document first, in full**, before opening anything else. It is the do-not-open list, built
-   by rule.
-2. **Run the standing inbound readiness check** (`RESUME_HERE.md` §3a / `00_RUNBOOK.md` Step 10.1) —
-   scan memory for "Sanay" and "shipyard," confirm every hit is attribute-only or banner-warned. *(Not
-   re-run by this document — this session's own memory scan happened for a different purpose and should
-   not be treated as having discharged this obligation; the next session must do this itself, since a scan
-   result belongs to the session that ran it.)*
-3. **Physical/specs facts** — `Specs/Sanay.md`'s admissible sections only (per the split above), `Sanay_
-   Physical_Infrastructure_Attributes.md` items 1–12 only, the Climate READER stub.
-4. **Symbol assignment** — Jupiter + Electromagnetism (the pair only, not the rationale column).
-5. **Composition/census** — the Census I/II figures and per-nation tier table above.
-6. **Founding and events** — `Specs/Sanay.md`'s Founding section (admissible portion only, per the split).
-7. **No sibling set exists for "the Sanay Shipyard" as its own declared location** — this is its first-ever
-   pass under any name. Per `01` §5.3a, use the substitutes: own-earlier-states (thin — the shipyard has no
-   long pre-founding history distinct from Sanay's own), nearest-analogous-location-at-a-different-scale
-   (**Mountain Pass Airport itself is now the single strongest available comparable** — another Installation-
-   type ULM location, though structurally opposite in almost every way: dual-founder vs. single-parent,
-   virgin vs. richly-pre-conclused, extreme-isolation vs. embedded-in-a-major-city), real-world comparables
-   (research the four designated picks — Rotterdam, Guangzhou, Silicon Valley, Durban — **fresh, not from
-   this repo's own already-fused write-ups**), and the generator-conflict method (needs no sibling at all).
-8. **Only then**, at Gate 6 (Step 7, per this methodology's own standing rule that Gate 6 runs late,
-   never never before the cold findings are written): open the full INADMISSIBLE list above as a check, and
-   record matches/mismatches per the both-are-true discipline (`02` §5.3).
+1. **This document, in full.** `Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md` — safe, contains no
+   findings about the shipyard itself, only classification.
+2. **Run the inbound memory scan** (a live action, not a file read) for "Sanay" and "shipyard" — see the
+   note above; this document does not discharge that obligation.
+3. `Specs/Sanay.md` **:: Lines 1–9** (header block — Based on, city name, Status, Arcanet Subnet, Highway
+   access, Significance, DLC).
+4. `Specs/Sanay.md` **:: Lines 13–24** (Population & Composition + tier table).
+5. `Specs/Sanay.md` **:: Lines 26–54** (per-nation breakdown table + methodology footnote).
+6. `Specs/Sanay.md` **:: Lines 56–62** (Geographic Basis).
+7. `Specs/Sanay.md` **:: Lines 64–90** (Annual Climate section + monthly table). **Stop before line 92** —
+   the "Gameplay Notes" sub-section (lines 92–95: "The resilient city," "The nunatak vantage") is texture/
+   character framing, not raw physical fact, and is excluded.
+8. `Specs/Sanay.md` **:: Lines 98–104** (Founding — mechanism, population, name etymology). **Stop before
+   line 106.**
+9. **⚠ Do not read lines 108–116** (the "Character & Culture" section) **under any circumstance at this
+   stage.** Resume at line 118.
+10. `Specs/Sanay.md` **:: Lines 118–123** (Economy & Industry — function/industry facts).
+11. `Specs/Sanay.md` **:: Lines 126–129** (Notable Locations, first three entries: Vesleskarvet Summit,
+    SANAE infrastructure, the Arcanet relay nexus).
+12. **⚠ Do not read line 130** (the "shipyards" entry — states outright it is *"the city's defining
+    industry and its loudest, busiest environment,"* a character conclusion about the exact subject of this
+    pass, sitting inside what otherwise reads as a plain landmark list). **This is a row-level cut inside a
+    list, per `05` §6.1a's own row-mixing rule — do not read this section as one contiguous range; make two
+    separate reads (11 and 13) and skip the line between them.**
+13. `Specs/Sanay.md` **:: Lines 131–133** (remaining Notable Locations entries: clifftop depots,
+    residential/commercial/leisure districts, "Additional locations: TBD").
+14. `Specs/Sanay.md` **:: Lines 137–143** (Notable Figures — TBD; Connection to Concordia).
+15. **⚠ Do not read lines 147–151** (Current Status/Damage's own narrative paragraph — restates the
+    city's own "damage without erasure" character framing almost verbatim) **or lines 155–156** (Legacy —
+    pure character conclusion). Resume at line 160.
+16. `Specs/Sanay.md` **:: Lines 160–165** (Open Questions — genuinely open items, safe).
+17. `Sanay_Physical_Infrastructure_Attributes.md` **:: Lines 1–28** (header, methodology note, "Governing
+    facts" paragraph).
+18. `Sanay_Physical_Infrastructure_Attributes.md` **:: Lines 30–85** (the 12 numbered attributes across
+    five subsections — Bedrock Foundation, Maritime Shipping & Port, Arcanet Relay Nexus, Overland
+    Logistics, War-Damage, Residential & Social Infrastructure — explicitly "Methodology #1 only" per the
+    file's own header).
+19. **⚠ Do not read past line 85 in this file at this stage.** Lines 87–190 are the "Cross-Referenced
+    Extrapolation Findings (Methodology #2)" section — six full conclusion-tier Findings (A–F), several
+    naming the Trade Yard and Shipyard Complex directly. **This is the single highest-value quarantine cut
+    in this entire document** — the file's own header does not warn a reader where Methodology #1 ends and
+    #2 begins; the boundary is exactly line 85/87 and must be enforced by stopping the read there, not by
+    reading the header disclaimer and trusting memory to self-censor mid-file.
+20. `Reference/Real-World/Climate Data/READER/Sanay.md` **:: full file** (8 lines total; a thin stub
+    pointing to SAWS/SANAP as the real climate authority, no conclusion content possible).
+21. **Census, Inspirational-Influences, and relationship-database entries — exact line ranges NOT verified
+    tonight, flagged honestly rather than guessed.** This session saw Sanay's own census figures and its
+    four real-world picks (Rotterdam/Guangzhou/Silicon Valley/Durban) only as citations *inside* `Sanay_
+    Mega_Init.md` and `Local_Robot_Culture/Halley_Subnet/Sanay.md` — both fully inadmissible files — never
+    by opening `Official_Population_Census.md`, `Inspirational-Influences.md`, or `City_Relationship_
+    Database.md` directly. **A fresh session must locate Sanay's own row/entry in each of these three files
+    itself** (e.g. `grep -n "Sanay" Official_Population_Census.md`) and read only that located range — never
+    the whole file, and never trust the figures already summarized above as a substitute for reading the
+    primary source, since this document's own citation of them is now one level removed from the original.
+22. **Only after all of the above**, and only at Gate 6 (Step 7): open the full INADMISSIBLE list from the
+    section above, as a check.
+
+## Notes that don't reduce to a file range
+
+**Symbol assignment.** Jupiter + Electromagnetism (`City_Symbol_Assignments.md`) — admit the two-token pair
+only; its own rationale column ("holds the literal Arcanet nexus... weight self-evident without needing
+credit") is a capability verdict in disguise, per `05` §6.1c, and is not part of any range above.
+
+**No sibling set exists for "the Sanay Shipyard" as its own declared location** — this is its first-ever
+pass under any name. Per `01` §5.3a, use the substitutes: own-earlier-states (thin — the shipyard has no
+pre-founding history distinct from Sanay's own), nearest-analogous-location-at-a-different-scale (**Mountain
+Pass Airport is now the single strongest available comparable** — another Installation-type ULM location,
+structurally opposite in almost every way: dual-founder vs. single-parent, virgin vs. richly-pre-conclused,
+extreme-isolation vs. embedded-in-a-major-city), real-world comparables (research the four designated picks
+— Rotterdam, Guangzhou, Silicon Valley, Durban — **fresh, not from this repo's own already-fused write-ups**
+in the inadmissible Mega-Init/Full-Extrapolation files), and the generator-conflict method (needs no
+sibling at all).
+
+**Gate 6 timing, restated**: only after Phases 0–10 are drafted, open the full INADMISSIBLE list above as
+the deferred check, and record matches/mismatches per the both-are-true discipline (`02` §5.3) — never
+before.
 
 ---
 
