@@ -46,6 +46,15 @@ Settlement identity to contaminate an Installation-type read.
   question caught at Gate 9, and an out-of-scope Sinheung/Cradle-manufacturer naming tension surfaced
   incidentally at Gate C.
 
+> **A same-night second attempt (the Sanay Shipyard, another Installation-type pick) was started and
+> deliberately not completed** — this session read two "Specs-tier" files expecting attribute content and
+> found real conclusion-tier claims about the shipyard itself, self-caught before Phase 0 began. Rather than
+> force a compromised cold pass, the session built a complete admissibility map and reading sequence
+> instead: **`Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`** — read that file first if picking up the
+> Sanay Shipyard as a future subject; it is pre-built and should save real time. **Recorded as M-81**: the
+> first case of a *sub-location's own parent* holding prior conclusions about it, structurally different
+> from every earlier contamination event in this series.
+
 > **⭐ The developer's own verdict on this run, given mid-run, before the tooling incident was even fully
 > resolved — recorded verbatim, per this file's own standing practice of capturing developer reactions in
 > full rather than paraphrased:** *"I gotta say, it does appear as though the Universal Location Methodology

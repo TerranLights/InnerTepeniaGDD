@@ -2305,3 +2305,47 @@ treatment unexamined** — checked explicitly at Gate F. This is recorded as a p
 methodology's own general applicability-table mechanism, on the first Installation-type subject it has ever
 been tested against.
 
+---
+
+# M-81 — A self-caught contamination event on a genuinely new case: a named sub-location whose PARENT
+already has a complete culture pass reaching conclusions about it
+
+**Found 2026-08-31, same session as Run 10, attempting to begin a same-night second run on "the Sanay
+Shipyard."** Before Phase 0, this session read `Specs/Sanay.md` and `Sanay_Physical_Infrastructure_
+Attributes.md` in full, expecting attribute-level content per the Step 0.4 triage order — both turned out to
+be the "welded-together" pattern `05` §6.1d already names (a Specs file is not categorically safe), and both
+contained real conclusion-tier claims specifically about the shipyard (that it is "the city's defining
+industry and its loudest, busiest environment"; six Cross-Referenced Findings in the Attributes file's own
+"Methodology #2" section, several about the Trade Yard and Shipyard Complex directly). **This session
+self-caught the exposure before Phase 0 began** (unlike Cape Adare Run 7's own mid-pass catch) and, at the
+developer's own direction, did not attempt to salvage a cold pass — instead read everything relevant in
+full and built a complete admissibility map and reading sequence for a genuinely fresh session, filed as
+`Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`.
+
+**Why this is a genuinely new case for this methodology's own quarantine discipline, not a repeat of an
+already-recorded pattern.** Every prior contamination event in this series (M-21's memory leak, Cape Adare's
+own `05` §6.1d origin case, Janbogo's triple Specs-file catch) involved a location's own prior conclusions
+about *itself*. **This is the first case of a location's PARENT holding prior conclusions specifically about
+the sub-location being newly run** — Sanay's own complete 32-section culture pass, robot-culture pass, and
+Megasheet sequence all reach real, specific conclusions about the shipyard (Division of Industry percentages,
+a named Trade Yard with a stated Guangzhou-derived character, a proposed origin incident for a
+project-wide canon fact set at this exact dockside), **despite "the Sanay Shipyard" as its own declared ULM
+subject never having been separately run before.** The quarantine work this required was structurally
+different from every prior case: not "has this location been run before," but "has this location's parent
+already answered the same generator questions this pass would otherwise derive independently."
+
+**The open methodological question this raises, stated rather than resolved:** does a sub-location whose
+parent has already answered its own generators' questions (function, founding condition, physical facts —
+all shared with the parent by construction) get a genuinely fair cold test even under perfect quarantine
+discipline? A future cold pass's own convergence with the quarantined material would be **structurally
+weaker evidence** than Sinheung Run 5's own convergence with its withheld culture sheet (M-35), precisely
+because the inputs are shared with the parent, not independently arrived at. Flagged in the prep document
+for whoever runs this pass to watch for explicitly, not answered here.
+
+**Standing recommendation added to the prep document itself, worth generalizing to any future named-sub-
+location pass**: when choosing a sub-location of an already-developed parent as a ULM subject, check the
+parent's OWN culture-pass material for conclusions about that specific sub-location *before* committing to
+the pick, not after — this session's own error was treating "this exact location has never been separately
+run" as sufficient grounds for expecting a clean cold read, when the correct check is "has anything with
+authority over this location's own generator inputs already been written."
+
