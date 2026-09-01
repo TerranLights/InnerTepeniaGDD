@@ -49,11 +49,28 @@ Settlement identity to contaminate an Installation-type read.
 > **A same-night second attempt (the Sanay Shipyard, another Installation-type pick) was started and
 > deliberately not completed** — this session read two "Specs-tier" files expecting attribute content and
 > found real conclusion-tier claims about the shipyard itself, self-caught before Phase 0 began. Rather than
-> force a compromised cold pass, the session built a complete admissibility map and reading sequence
-> instead: **`Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`** — read that file first if picking up the
-> Sanay Shipyard as a future subject; it is pre-built and should save real time. **Recorded as M-81**: the
-> first case of a *sub-location's own parent* holding prior conclusions about it, structurally different
-> from every earlier contamination event in this series.
+> force a compromised cold pass, the session built a complete admissibility map **and, at the developer's
+> own follow-up direction, an exact line-ranged reading sequence** — 22 numbered steps, each either a
+> verified admissible `File :: Lines A–B` range or an explicit "do not read past line X" boundary, including
+> one row-level cut (a single inadmissible line sitting inside an otherwise-clean landmark list). Filed as
+> **`Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`** — read that file first, and follow its numbered
+> sequence literally (using `Read`'s own `offset`/`limit`, not a full-file read), if picking up the Sanay
+> Shipyard as a future subject. **Recorded as M-81**: the first case of a *sub-location's own parent* holding
+> prior conclusions about it, structurally different from every earlier contamination event in this series.
+> **This prep document's own technique — pre-computed line ranges rather than a section-level split — is
+> itself worth generalizing to any future location whose admissible/inadmissible boundary doesn't fall
+> cleanly at a section header**, and should be considered standard practice for any location where a first
+> read already found a mixed file, not just for Sanay specifically.
+
+> **⚠ Choosing the next session's subject: two live options, not one.** (1) **The Sanay Shipyard**, using the
+> prep document above — a genuine Installation-type location, but the *third* one, not new-Type coverage
+> (Mountain Pass Airport was the second; Vostok's own dual-type case is still a fourth candidate if wanted).
+> Low setup cost since the admissibility work is already done. (2) **One of the six still-untested Types**
+> (Polity, Structure, Vessel, Natural feature, Network locus, Interstitial) — the developer's own stated
+> priority for signing off on full production use. **Absent a specific developer instruction otherwise, (2)
+> is the default** — the Sanay Shipyard is available whenever a session wants a lower-setup-cost run or a
+> second Installation data point for contrast, but it does not advance the actual thing the developer said
+> they're waiting on.
 
 > **⭐ The developer's own verdict on this run, given mid-run, before the tooling incident was even fully
 > resolved — recorded verbatim, per this file's own standing practice of capturing developer reactions in

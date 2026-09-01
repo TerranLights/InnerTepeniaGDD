@@ -349,6 +349,35 @@ the standing pacing instruction (one Type per run, one run per fresh session), t
 
 ---
 
+# ⚠ Same-night follow-up, 2026-08-31 — a second run attempted, not completed; real prep work banked instead
+
+**Developer proposal, same night as Run 10:** try a second, "comparatively simple" Installation-type run —
+**the Sanay maritime shipyard specifically, not the full city of Sanay.** Before Phase 0, this session read
+two Specs-tier files expecting attribute content and found real conclusion-tier claims about the shipyard
+itself (`Specs/Sanay.md`'s Notable Locations entry states outright the shipyards are *"the city's defining
+industry and its loudest, busiest environment"*; `Sanay_Physical_Infrastructure_Attributes.md` continues
+past its own admissible Methodology #1 attribute list into a full conclusion-tier Methodology #2 section).
+**Self-caught before any phase content was written** — rather than force a compromised cold pass, the
+session read everything Sanay-adjacent in full and built a complete admissibility map, **then, at the
+developer's own follow-up request, an exact line-ranged reading sequence**: 22 numbered steps, each a
+verified `File :: Lines A–B` citation or an explicit stop-boundary, including a row-level cut where a single
+inadmissible line sits inside an otherwise-clean list.
+
+**Filed as `Universal_Location_Methodology/Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`.** Recorded
+in the observations log as **M-81** — a genuinely new quarantine case: not a location with its own prior
+conclusions, but a *sub-location whose parent* (Sanay, a fully developed outer city) already reaches
+specific conclusions about it. The prep document's own line-ranging technique is flagged as worth
+generalizing to any future location where a first read already turns up a mixed file, not just this one.
+
+**For whoever picks this up next**: the Sanay Shipyard is a real, ready-to-run option (low setup cost, prep
+already done) but would be a **third** Installation-type run, not new-Type coverage — the developer's own
+stated priority remains the six still-untested Types (Polity, Structure, Vessel, Natural feature, Network
+locus, Interstitial). Use the Shipyard when a session wants a fast run or a second Installation contrast
+case; default to an untested Type otherwise. See `RESUME_HERE.md`'s own updated top section for the full
+framing.
+
+---
+
 # 🔴 TOP IMMEDIATE — TYPE-DIVERSITY PHASE: a handful of new location test runs, one per untested Type
 
 **Developer instruction, 2026-08-31, given directly after Run 9 closed:** *"it seems as though the Universal
