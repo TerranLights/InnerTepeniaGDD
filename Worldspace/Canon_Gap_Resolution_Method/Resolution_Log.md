@@ -318,3 +318,79 @@ ULM `02` edit is the consumer-facing half of the same ruling, not scope creep �
 > Hanson grave at Cape Adare — the first human burial on the Antarctic continent — surfaced during
 > groundwork for DRQ-01 and deliberately not pursued, since that session was building this system rather than
 > running it. See `Developer_Ruling_Queue.md` DRQ-01's own open-thread note.
+
+---
+
+### CGRM-020 — Who trains Tepenia's medical and care personnel? *(gap found and closed same day)*
+
+**Scope:** Division of Industry bulk pass — subsystem scope, all 36 cities.
+**Path:** discovery via **Path 2 (derivation)**; closure via **Path 6 (developer ruling)**.
+
+**The gap.** A corpus-wide provider survey found that **not one of the 37 cities named healthcare as an
+economic sector at any scale.** Every other necessity — food, fabrication, logistics, Arcanet, education,
+hospitality — had at least one national specialist. **A nation of 15,623,523 humans, which cannot evacuate a
+patient off-continent, had no medical provider of any kind.**
+
+**⭐ The developer's reframe, which was better than the gap as stated.** My framing assumed a *treatment*
+center. That would not have solved it: **care delivery cannot be centralized** across cities 1,000+ km apart —
+every city staffs its own clinicians regardless. **Training, however, concentrates.** So the provider role is
+*"we make your doctors,"* not *"we treat your sick."* Compounding it: **Tepenia cannot import a trained
+clinician either**, since there is no off-continent residency to send anyone to. **Every medic in the country
+is domestically produced.**
+
+**The ruling, verbatim:**
+
+> *"the Esperanza Institute of Medicine (which as a substantial section of the 'Department of Pediatrics') ·
+> the Belgrano Institute of Medicine (which as a substantial section of the 'Department of Emergency and
+> Trauma Response') · the Sinheung Institute of Cybernetics and Robotic Care (with a strong, pronounced focus
+> on physical and emotional care of and for robots)"*
+
+**Why these three cities — each a ≤3-step chain from standing canon:**
+- **Esperanza**: educ/childcare 25% + the civic birth registry → a city built around birth becomes a city built
+  around medicine → pediatrics as the seed department.
+- **Belgrano**: aviation 35%, the Halley subnet's primary airbase → **medevac is an aviation function** →
+  whoever flies casualties in treats them first → trauma tradition.
+- **Sinheung**: industrial fabrication 45%, builds the **Cradle chambers** shipped nationwide → the city that
+  makes the bodies is the city that learned to tend them. **An institute of care inside the corpus's most
+  heavily industrial city.**
+
+**Deposits:** `Cities/National_Medical_and_Care_Institutes.md` (new canon file, full entry) ·
+`Specs/Esperanza.md`, `Specs/Belgrano.md`, `Specs/Sinheung.md` — Notable Locations, each tagged
+`[CGRM 2026-09-01 · Path 6 · developer ruling]`. **Kind: DECISION.** Deposited to attribute-tier Notable
+Locations, which is correct for a named institution; each entry carries its provenance tag so a future cold
+pass can trace its origin.
+
+**Left open, deliberately:** curricula, admission, internal structure beyond the named flagship departments,
+faculty, notable figures, and the institutes' relationships to each other. **A robot-counselor discipline now
+exists in canon and has no body of practice yet — the largest thread this entry opens.**
+
+---
+
+### CGRM-021 — What is the maritime counterpart to "the breadbasket of Tepenia"?
+
+**Path:** **Path 4 (light real-world research)** → **Path 6 (developer ruling)**.
+
+**Research result: English has no established equivalent.** "Seafood basket" is a fried dish. The real-world
+convention names productive fishing grounds as **"Banks"** — Grand Banks, Georges Bank, Dogger Bank.
+Candidates presented: *Banks* (real vocabulary), *larder* (suits a coalition), and the developer's own
+*fishbucket*.
+
+**Ruling: the official word is "fishbucket."** *"the fishbucket of Tepenia."*
+
+> **The reason is the interesting part, and it generalizes:** *"'Banks' can be confusing for people who are
+> not familiar with the fishing and/or maritime industry (compared to the word 'breadbasket', which doesn't
+> require any industry-familiarity)."*
+>
+> **⭐ The test a counterpart term must pass is the one "breadbasket" itself passes: legibility without
+> domain knowledge.** "Breadbasket" is understood by anyone who has seen bread. **A term demanding maritime
+> literacy is not a counterpart — it is jargon wearing the same hat.** *Recorded because this reasoning
+> applies to every piece of coined in-world vocabulary, not just this one.*
+
+**⚠ Still open — who holds the title.** The food supply is a **coalition**, not one place: Signy (South
+Orkneys) and Juan Carlos (South Shetlands) on the krill grounds, Janbogo's year-round polynya, Cape Adare's
+Ross Sea. Developer has floated the Palmer subnet collectively, one city, or a formal coalition. **Undecided.**
+
+**⚠ Deposit incomplete.** "Breadbasket" lives in Davis's `Background-Lore/` vignettes, not a central glossary.
+**"Fishbucket" therefore has no permanent home until its holder is named** — currently recorded only in
+`Cities/Division_of_Industry/04_Providers_and_National_Balance.md` §6.5. **Deposit properly once the holder
+ruling lands.**

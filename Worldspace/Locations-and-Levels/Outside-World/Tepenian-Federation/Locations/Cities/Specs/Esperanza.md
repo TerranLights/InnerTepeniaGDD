@@ -119,6 +119,7 @@ TBD — eastern Peninsula resources, maritime trade, the internal Peninsula econ
 ## Notable Locations
 - **The birth registry** — whatever civic record the city maintained of Tepenian births; the continuity from the first pre-exile birth in 1978 to the exile city's generations of children; survival status in ruins TBD
 - **Hope Bay harbor** — the eastern Peninsula maritime entry point
+- **The Esperanza Institute of Medicine** `[CGRM 2026-09-01 · Path 6 · developer ruling]` — one of only three sources of trained medical and care personnel in the Federation, and the source of its **settled** medicine: general practitioners, obstetricians and midwives, nurses, chronic-care and geriatric specialists. **Its flagship is the Department of Pediatrics**, grown directly out of the city's founding charter, its family-services tradition and the birth registry above. Tepenia cannot evacuate a patient off-continent and therefore cannot import a trained clinician either — **every settled-medicine practitioner in the country was made here.** Survival status in ruins TBD. Full detail: `../National_Medical_and_Care_Institutes.md`
 - Additional locations: TBD for DLC 3
 
 ---

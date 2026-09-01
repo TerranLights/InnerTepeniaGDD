@@ -186,6 +186,7 @@ The old "Soyuz" placeholder — forward-looking, technologically proud in its ow
 ## Notable Locations
 - **The Larsemann Hills oasis terrain** — ice-free ground, meltwater lakes, exposed rock; the same oasis character as the Schirmacher Oasis city in the Halley subnet
 - **The cluster boundary zones** — where Sinheung's territory adjoined Zhongshan and the former-Shirayuki city; architecturally and culturally transitional
+- **The Sinheung Institute of Cybernetics and Robotic Care** `[CGRM 2026-09-01 · Path 6 · developer ruling]` — one of only three sources of trained medical and care personnel in the Federation, and the source of all robotic care. **Its defining focus is the physical AND EMOTIONAL care of, and for, robots — both halves, deliberately. It is not a repair school.** It produces maintenance and repair technicians, frame and actuator specialists, sensor and processor service engineers, coolant and siligel practitioners, chamber technicians — **and robotic counselors, whose discipline is a robot's inner life rather than its hardware.** In a nation ~51% robot, this is the mental-health system of the national majority. **It sits here because Sinheung builds the Cradle chambers robots come into existence in: the city that makes the bodies is the city that learned to tend them** — an institute of care inside the corpus's most heavily industrial city. Survival status TBD. Full detail: `../National_Medical_and_Care_Institutes.md`
 - Additional locations: TBD for DLC 4
 
 ---

@@ -350,3 +350,62 @@ Marambio–Rothera segment**; `Highways.md` marks several inline. **Hwy 37 carri
 **When a ruling is made:** record it **verbatim** — a paraphrased ruling is a lost ruling, since the
 developer's own wording repeatedly carries distinctions a summary drops — then deposit per `03` §2, close the
 registry row, and log it.
+
+---
+
+## 🔵 DRQ-05 — {{Bunger Hills City}}: open questions left by the single-approach ruling
+
+**Raised 2026-09-01, at developer instruction ("mark it for future review"). Not urgent; batched.**
+**Context and full groundwork:** `Cities/Bunger_Hills_City_-_Development_Brief.md`.
+
+**Already ruled and closed** *(recorded here so the queue is not misread as open)*: the city exists · Mirny
+subnet · **single-approach from Casey** · **a named spur, not a numbered highway.**
+
+### 5a — ⭐ Was the Denman crossing never attempted, or attempted and failed?
+
+**The single-approach ruling leaves the western approach permanently unbuilt. It does not say why.**
+
+| Option | What it makes Tepenia |
+|---|---|
+| **Never attempted** | A nation that read the survey and declined. Sober, unromantic |
+| **⭐ Attempted and failed** | A nation that tried to bridge 11–16 km of crevassed, fast-moving ice over the deepest canyon on Earth **and lost.** Leaves an **abandoned works site on the western approach** — a considerable location, and a monument |
+
+**"We tried, and the ice won" is a different national character from "we never bothered."** Both are good;
+they are not the same. **Not decided.**
+
+### 5b — The spur's parent highway *(minor)*
+
+**Recommended: Hwy 110** — it is the coastal route that declined the coast here, and the spur is exactly the
+deviation it did not make. Alternatives: Hwy 2, or the Hwy 110 × Hwy 2 junction complex. **All three meet at
+Casey; the practical difference is small.**
+
+### 5c — The city's name
+
+**Candidates from the real site:** `Dobrowolski` · `Oazis` · `Bunger` · `Figurnoye` · `Edgeworth David`.
+*Noting only that "Oazis" is the site's original station name and literally means oasis.* **The spur takes the
+city's name automatically once settled** (cf. the Sayowa Spur), so this ruling resolves two things at once.
+
+### 5d — ⭐ The walled-off ecosystem *(flagged by the developer as wanted)*
+
+**Real-world basis:** there is open scientific speculation that **seals and penguins may be trapped behind the
+Shackleton Ice Shelf as unique isolated populations**, with research ongoing into whether they still travel
+between the marine inlets and the open sea. **The sea entered the oasis before ~7.7 ka BP**, so isolation on
+that order is plausible.
+
+**Why it is worth more than a nature note — it is three things at once:**
+1. **A research industry** *(and it connects to Vostok's genetics program and the Cryptograph Helix
+   bioinformatics thread).*
+2. **A food resource** — but a **fragile** one. An isolated population can be fished out. It cannot be
+   replenished.
+3. **⭐ An ethical problem with no clean answer: a genetically unique population that is also edible**, sitting
+   next to **the one city in Tepenia that is not short of anything.** A place with no scarcity problems, handed
+   the one resource it could destroy by using.
+
+**Not decided. Marked for exploration rather than ruling** — this may want a full pass rather than a verdict.
+
+### 5e — What 43 years of dormancy did to the place
+
+**Now load-bearing rather than decorative:** hard access is what explains the emptiness, so the dormancy is no
+longer a curiosity — it is the reason the site was available. **Every other Tepenian city was founded on
+something working.** This one was founded on a place that had been dark for two generations. **The most
+promising unexplored thread in the brief; not a ruling, a pass waiting to happen.**
