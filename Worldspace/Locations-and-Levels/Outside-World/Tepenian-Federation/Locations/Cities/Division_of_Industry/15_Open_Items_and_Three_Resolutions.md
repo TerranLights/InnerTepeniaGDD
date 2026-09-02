@@ -15,7 +15,7 @@
    a **three-way split** — baseline / mandated distinctive / free distinctive — not a
    charge on importers. **National character budget falls from 59.4% to 46.5%.** The
    210,467-worker-year hole at Halley, Neumayer and Vostok was closed the same day by
-   developer ruling: **research at Neumayer and Vostok, general commuter labour at
+   developer ruling: **research at Neumayer and Vostok, general commuter labor at
    Halley.**
 2. **✅ {{Bunger Hills City}} — DELIBERATELY DEFERRED, and the reasoning inverts what
    this file first said.** *(Developer, 2026-09-02.)*
@@ -34,7 +34,7 @@
 
    **⭐ And the developer's reasoning is the stronger one, and it is `CLAUDE.md`'s own:**
    the anti-convergence rule exists so that cities do not quietly become each other.
-   **You cannot make a city distinct from a set you have not characterised yet.**
+   **You cannot make a city distinct from a set you have not characterized yet.**
    **Founding Bunger Hills first would mean inventing an identity in a vacuum and then
    discovering it overlaps three existing cities.** **Deferred ON PURPOSE — do not
    "helpfully" close this.**
@@ -90,8 +90,8 @@ the stream pigs physiologically cannot digest.
 residues; 60% is a conservative working figure. Fresh mushrooms are ~90% water, ~300
 kcal/kg, ~33 g protein/kg.)*
 
-**Labour at ~25 t per FTE-year** *(commercial mushroom growing is hand-harvested and
-genuinely labour-intensive)*: **18,476 FTE — 0.08% of the national workforce.**
+**Labor at ~25 t per FTE-year** *(commercial mushroom growing is hand-harvested and
+genuinely labor-intensive)*: **18,476 FTE — 0.08% of the national workforce.**
 
 ## ⭐⭐ The verdict: it is not a calorie tier, and pretending otherwise would be wrong
 
@@ -281,7 +281,7 @@ free tier. **A stevedore is conscripted; a musician is not.**
 
 ## ⛔⛔ AND THE HOLE, MADE CONCRETE
 
-**Three importing cities owe food-labour back and have NO recorded national export
+**Three importing cities owe food-labor back and have NO recorded national export
 whatsoever:**
 
 | City | Humans | **Owes** | Recorded export | Short |
@@ -344,7 +344,7 @@ export was established; only its economic role was missing.
 ### ✅ HALLEY — **"Halley exports WORKERS, via them commuting to work the oceans"**
 
 `[CGRM 2026-09-02 · Path 6 · developer ruling]` **And it lands almost exactly on a
-mechanism canon had already modelled.**
+mechanism canon had already modeled.**
 
 | | |
 |---|--:|
@@ -367,7 +367,7 @@ mechanism canon had already modelled.**
 > Just, from among those, one of them is fishing / 'krilling'."***
 
 **This is the correct framing, and it is broader than the one first written here.**
-**Halley's export is GENERAL COMMUTER LABOUR — extraction, marine work, industrial
+**Halley's export is GENERAL COMMUTER LABOR — extraction, marine work, industrial
 work, and whatever else has a worksite — of which krilling is one destination among
 many.**
 
@@ -428,7 +428,7 @@ Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji.
 | City | Owes | **Pays with** | Minimum sector |
 |---|--:|---|--:|
 | **Neumayer** | 88,893 | **scientific research** — and its subject is **EDEN ISS**, i.e. the growing technology the whole nation runs on | **16.7% of distinctive** |
-| **Halley** | 102,800 | **general commuter labour** — mines, rigs, ports, yards, and krilling among them | **9.4% of workforce** |
+| **Halley** | 102,800 | **general commuter labor** — mines, rigs, ports, yards, and krilling among them | **9.4% of workforce** |
 | **Vostok** | 18,774 | **scientific research** — bioinformatics / DNA computing, already canon | **9.2% of distinctive** |
 
 **All three are floors derived from the debt, not invented figures — and all three sit
@@ -459,7 +459,7 @@ obvious candidates.)*
 
 **⭐ Precedents now exist for how to answer it well:** Cape Adare turned out to be a
 **strategic mineral** city; Neumayer a **research** city whose subject was already in
-the corpus; Halley a **labour-exporting** city whose identity is downstream of having no
+the corpus; Halley a **labor-exporting** city whose identity is downstream of having no
 ground. **All three came from real-world grounding plus a gap in the national ledger —
 not from invention.**
 
@@ -484,7 +484,7 @@ not from invention.**
 
 - **Do NOT quote national food balances to three significant figures.** They swung 308,000
   producers in four days on judgment calls *(`13` §15)*. **The durable outputs are the
-  tier table and the 7.4% specialisation slack.**
+  tier table and the 7.4% specialization slack.**
 - **Verify units.** Four 1,000×/digit errors occurred and were self-caught in this work.
 - **{{Bunger Hills City}} is deferred on purpose** — see List A item 2.
 - **⭐ The free tier is where LAW G weird industries, Local Texture and discretionary

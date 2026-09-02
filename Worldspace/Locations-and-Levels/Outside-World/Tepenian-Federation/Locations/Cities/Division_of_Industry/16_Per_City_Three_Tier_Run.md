@@ -75,7 +75,7 @@ Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` — **
 |---|---|
 | **`./04_Providers_and_National_Balance.md`** §3 | **⭐ THE 22 PROVIDER CITIES with their §15 sector percentages** — the primary input for the mandated tier |
 | `./04_...` §4, §6, §7 | The national balance working, the krill/geography research, and the open marine-fraction question |
-| `./05_Remaining_Cities_Assessment.md` | The non-provider cities; the Halley-subnet gap and the **commuter-labour mechanism** (5–10% scenarios) |
+| `./05_Remaining_Cities_Assessment.md` | The non-provider cities; the Halley-subnet gap and the **commuter-labor mechanism** (5–10% scenarios) |
 | `../Specs/*.md` **§15** | **⭐ The canon economic-composition block for each of the 38 cities.** The authority for any sector percentage |
 | `./15_...` Resolution 4 | **The mandated/discretionary TEST** — would the nation suffer materially without it? — and the three rulings for Halley, Neumayer and Vostok |
 
@@ -170,7 +170,7 @@ does not.**
 
 | City | Humans | **Mandated role** | Basis |
 |---|--:|---|---|
-| **{{Abowasa}}** | 504,237 | **COMMUTER LABOUR** + minor research | §15 calls it *"small scale… never a major economic node"* — **but `05`'s commuter mechanism is explicitly "5–10% of Halley + {{Abowasa}} workforce."** **The same answer just ruled for Halley applies here, and canon named {{Abowasa}} in the same breath** |
+| **{{Abowasa}}** | 504,237 | **COMMUTER LABOR** + minor research | §15 calls it *"small scale… never a major economic node"* — **but `05`'s commuter mechanism is explicitly "5–10% of Halley + {{Abowasa}} workforce."** **The same answer just ruled for Halley applies here, and canon named {{Abowasa}} in the same breath** |
 | **Dome Fuji** | **0** | **⭐ THE NATIONAL SEED ARCHIVE** + ice-core science | `15` Resolution 3. §15: *"one of the best locations on Earth for deep ice core drilling"* — **a city already built around keeping things frozen for hundreds of thousands of years** |
 
 ## ⏸️ Group 3 — "nothing national" is the honest answer, and that is a RESULT
@@ -349,7 +349,7 @@ humans.** **Excluding all three, the real-city range is 23.4% (Fort McMurdo) to 
 | Denison · Princess Elisabeth · Cape Adare · Sejong | **25%** | wind engineering · energy engineering · Ross Sea gateway + phosphate · international gateway |
 | Zhongshan · Dome Fuji | **20%** | the Tri-Cities' port · seed archive + ice-core |
 | Concordia | 15% | the national crossroads |
-| {{Abowasa}} | 10% | commuter labour |
+| {{Abowasa}} | 10% | commuter labor |
 | Scott · Port Lockroy | 5% | volcanic extraction · courier node |
 
 > ### ⚠ **These move 688,958 workers — 2.8% of the national workforce. They are the
@@ -376,7 +376,7 @@ humans.** **Excluding all three, the real-city range is 23.4% (Fort McMurdo) to 
 **`Denison — structural/wind engineering ~25%` and `Cape Adare — marine 25%` are CANON
 §15 figures**, not judgments. `04` §3 states Cape Adare's *"25% explicitly includes
 harbor operations and guano"*, and `05` §226–232 treats Denison's 25% as an existing
-sector the instrument must be able to reproduce. **Mislabelled in the Half B write-up.**
+sector the instrument must be able to reproduce. **Mislabeled in the Half B write-up.**
 
 | Source | Workers | Share of mandate |
 |---|--:|--:|
@@ -429,3 +429,81 @@ a two-role city.**
 | **✅ Now solid** | **Sejong 25%** | **Upgraded by the ruling above** |
 | **Reasonable by analogy** | Zhongshan 20% · Princess Elisabeth 25% · Concordia 15% | PE could be 15–20% *(consulting is lighter than industry)*; Concordia could be 20–30% *(Casey, a DUAL junction, carries 30%)* |
 | **⚠ Weakest — still** | **Dome Fuji 20%** | **An estimate resting on an estimate** — the seed archive is my own proposal, and a *passive* vault needs almost nobody. **10% is probably closer.** Worth only 8,005 workers either way |
+
+---
+
+---
+
+# ▶▶ PER-CITY DETERMINATIONS — the roster pass, one city at a time
+
+**Begun 2026-09-02.** Reviewing every city against the full `City_Master_Reference` record plus this
+folder's food/mining/shipping findings, and settling its three-tier split. **{{Bunger Hills City}} and
+Lazar are excluded** — Bunger Hills deferred by ruling, Lazar's economy explicitly unresolved in canon.
+
+> **⚠ Scope reminder, standing:** everything here describes the **Second Interwar** — Tepenia as a
+> functioning country at peace. **`Status:` lines are post-war and are never an input.**
+
+---
+
+## 1. ✅ NEUMAYER — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=2.50, forced importer → food term at 10%)* | 413,123 | **43.7%** |
+| **Mandated** | 181,974 | **19.3%** |
+| **FREE — the character budget** | 350,115 | **37.0%** |
+
+**Distinctive tier: 532,089 (56.3%).** Canon §15 maps onto it as: Technical/scientific 35% · Technical/
+engineering 20% · Education 15% · Marine 15% · Commercial 10% · Other 5%.
+
+### The mandate, itemized
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **16.7%** | 88,859 | **Scientific research — the EDEN ISS line** | ✅ Ruled floor *(`15` Resolution 4)*, derived from Neumayer's food-import debt |
+| **10.0%** | 53,209 | **National design — half of Technical/engineering** | ⭐ **NEW this pass.** See below |
+| **7.5%** | 39,907 | **Commuter labor — half of Marine 15%** | ✅ Developer ruling, 2026-09-02 |
+| **34.2%** | **181,974** | | |
+
+### ⭐⭐ The finding: `16`'s Half B undercounted this city by ~9.9 points
+
+**Half B recorded Neumayer at mandated 9.4% / free 46.9%.** That figure was **only** the research floor —
+and that floor was derived from *what Neumayer owes for imported food*, **not from what it does for the
+country.**
+
+> ## **It missed Technical/engineering 20% entirely — the design office that every active fabrication
+> chamber in Tepenia builds to.**
+
+Per the city's own canon facts: Neumayer designs the **Cradle Mark IV schematic** Sinheung and Byrd build
+from *("nearly every robot fabricated today owes part of her existence to an uncredited Neumayer design
+office")*, drafted **Amundsen Tower's schematics**, and re-engineered the **first Rastra**. **It passes the
+mandated test without argument: stop it and the nation loses the ability to design the machines that make
+robots.**
+
+**Why HALF and not all of it:** on a floating ice shelf, a large share of that engineering sector is
+genuinely local — the hydraulic-leg architecture needs continuous adjustment as the shelf moves. That is
+local structural work, not national design.
+
+### The marine ruling, and what it buys
+
+**Developer ruling: half of Marine 15% is commuter labor** — the same mechanism ruled for Halley, and the
+reading the evidence pointed to: Neumayer has **no docks** (canon), **no airport** (`Airports.md` L25), and
+**no main-line highway** (reached only by the unnamed connector off Hwy 7). **Halley's own §15 one entry
+away reads *"Marine/resource extraction 20% (indirect — no own docks)"*** — a direct in-subnet precedent for
+an ice-shelf city's marine sector being indirect rather than crewed.
+
+> **Ruling half rather than all keeps 39,907 workers in the free tier — +4.2 points — deliberately, so the
+> local population is not wholly consumed by the import obligation.**
+
+### ⏸️ Carried, not blocking
+
+- **Possible §15/baseline overlap:** baseline already supplies C1a schooling (15,957), C1b training (5,259)
+  and D3 retail (12,521) — up to **33,737 workers, 6.3% of distinctive**, could be double-counted against
+  §15's Education 15% and Commercial 10%. **Quantified and small; does not change the determination.**
+- Demonym unresolved; two placeholder holidays; whether the centuries-long climate record survived.
+
+### ⭐ Methodological consequence for the rest of the roster
+
+**`04` §3 assigned most cities ONE provider role. Neumayer proves a city can carry two or more nationally
+load-bearing sectors in its §15.** **Every remaining city must be checked against its FULL §15**, not just
+the single role `04` recorded. **Half B's mandate column is a floor, not a finding.**

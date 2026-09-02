@@ -860,13 +860,13 @@ NATIONAL BALANCE                   +166,583   (+70%)
 is very nearly UNIVERSAL in this country.**
 
 > ## ⭐⭐ **SO GEOLOGY DOES NOT DETERMINE THE NATIONAL FOOD MAP. ECONOMICS DOES.** **"Can this city grow?" is
-> almost always YES — and therefore useless. The real question is "does it CHOOSE to, or does it specialise
+> almost always YES — and therefore useless. The real question is "does it CHOOSE to, or does it specialize
 > away and import?"** **That is a worldbuilding decision, not a derivation, and no amount of geology will
 > produce it.**
 
 **Which retroactively explains every earlier instability, including the ones that looked like findings.** A
 city with a strong comparative advantage — **Sinheung at 45% fabrication** — would rationally import food and
-build chambers, exactly as a real economy specialises. **Nothing about its bedrock says so.**
+build chambers, exactly as a real economy specializes. **Nothing about its bedrock says so.**
 
 ## ⭐ The one number that IS load-bearing, and it is a good one
 
@@ -878,20 +878,20 @@ SLACK                           1,150,116 people  =   7.4%
 ```
 
 > ## **The export sector supports 17.9% of the population. Geology forces 10.5% of it to depend on that
-> sector. The remaining 7.4% — about 1.15 million people — CAN SPECIALISE AWAY FROM FOOD BY CHOICE and still
+> sector. The remaining 7.4% — about 1.15 million people — CAN SPECIALIZE AWAY FROM FOOD BY CHOICE and still
 > eat.**
 >
-> ## **That 7.4% is the Federation's entire economic freedom of manoeuvre in food, and it is a BUDGET the
+> ## **That 7.4% is the Federation's entire economic freedom of maneuver in food, and it is a BUDGET the
 > division-of-industry pass gets to spend.** **Which cities are allowed to be Sinheung is now a finite,
 > quantified decision rather than an open-ended one.**
 
 ## ✅ What this settles, and what it hands forward
 
 **SETTLED:** the geological criterion, all 37 cities tiered · Byrd and Mirny corrected · that Halley, Neumayer,
-Vostok, Byrd and Amundsen Station are the only forced importers · **that the national balance is a specialisation
+Vostok, Byrd and Amundsen Station are the only forced importers · **that the national balance is a specialization
 question, not a geology question.**
 
-**⏸️ HANDED TO THE PER-CITY PASS:** **how to spend the 7.4% slack** — which additional cities specialise away
+**⏸️ HANDED TO THE PER-CITY PASS:** **how to spend the 7.4% slack** — which additional cities specialize away
 from food, and what they make instead. **{{Bunger Hills City}} is now firmly optional** *(desirable for
 uncorrelated supply, not required for survival)*.
 

@@ -115,7 +115,7 @@
 
 ### Open threads
 - Current mobility/damage state (which sections are stuck, mobile, near the calving edge); DLC 5's actual central conflict; two placeholder holidays ("The Crossing," "Position Day").
-- **⭐ Division-of-Industry note:** Ruled 2026-09-02 as exporting **general commuter labour** (mines, rigs, ports, yards — krilling among them, not exclusively) at 9.4% of workforce, to cover its food-import debt — a mechanism landing inside `05_Remaining_Cities_Assessment.md`'s own pre-existing 5–10% commuter range.
+- **⭐ Division-of-Industry note:** Ruled 2026-09-02 as exporting **general commuter labor** (mines, rigs, ports, yards — krilling among them, not exclusively) at 9.4% of workforce, to cover its food-import debt — a mechanism landing inside `05_Remaining_Cities_Assessment.md`'s own pre-existing 5–10% commuter range.
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. **No docks/airstrip is a deliberate design choice per this file's own canon facts** (ice-shelf relocation risk) — consistent with the source list.
@@ -150,7 +150,7 @@
 
 ### Open threads
 - Whether the Finnish-Swedish dynamic merged, stayed distinct, or hybridized; why Abowasa survived partially rather than fully; economy detail; two placeholder holidays.
-- **⭐ Division-of-Industry note:** ruled 2026-09-02 as a commuter-labour exporter (10%, {{Abowasa}} named in the same breath as Halley's own 5–10% commuter range in `05`), estimate not canon-sourced.
+- **⭐ Division-of-Industry note:** ruled 2026-09-02 as a commuter-labor exporter (10%, {{Abowasa}} named in the same breath as Halley's own 5–10% commuter range in `05`), estimate not canon-sourced.
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md** — not named directly; not covered by the L25 highway-only list either (falls under "and others"). No airport recorded either way.

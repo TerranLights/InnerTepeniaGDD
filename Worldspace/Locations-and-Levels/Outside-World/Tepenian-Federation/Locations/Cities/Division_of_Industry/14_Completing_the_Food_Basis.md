@@ -63,7 +63,7 @@ from somewhere.**
 |---|---|---|
 | **NITROGEN** | Fixed from the atmosphere. [**35–50 MJ per kg N**](https://www.sciencedirect.com/science/article/pii/S0301479723027482) | **✅ SOLVED, and elegantly.** Air is free and Tepenia's whole economy is denominated in energy. At ~5 kg N per tonne of crop the national bill is on the order of **0.6 TWh/yr — under 1% of what the LIGHTING costs.** **Nitrogen is a rounding error next to the lamps.** |
 | **POTASSIUM** | Potash minerals — **but also seawater**, where K is present at usable concentration | ⚠ Manageable. Tepenia has an ocean and already runs marine industry at scale |
-| **⛔ PHOSPHORUS** | **Phosphate rock. It cannot be synthesised from anything.** Seawater P is far too dilute to harvest | **⛔ THE BINDING CONSTRAINT** |
+| **⛔ PHOSPHORUS** | **Phosphate rock. It cannot be synthesized from anything.** Seawater P is far too dilute to harvest | **⛔ THE BINDING CONSTRAINT** |
 
 > ## ⛔ **A nation that cannot import must find phosphate on its own continent, or recycle nearly all of it,
 > forever. There is no third option and no technology that makes phosphorus.**
@@ -76,7 +76,7 @@ develop through **phosphatization**, with measurable phosphorus enrichment.
 > ### ⭐⭐ **So Cape Adare is not a food city — `11` established that. It is something more interesting: a
 > STRATEGIC MINERAL city, and the mineral it supplies is the one input the Federation's entire agriculture
 > cannot manufacture.**
-> **Losing Cape Adare does not cost Tepenia fish. It costs Tepenia the ability to fertilise anything, on a
+> **Losing Cape Adare does not cost Tepenia fish. It costs Tepenia the ability to fertilize anything, on a
 > delay set by how much phosphate is in circulation.**
 
 **Recycling is the other half.** [Recovery from hydroponic effluent by chemical precipitation is technically
@@ -132,7 +132,7 @@ Fort McMurdo.)*
    problem.**
 3. **Supplementation** — measured effective at 1,000–2,000 IU/day.
 
-> ### **So the marine tier is not a protein tier and the fungal tier is not a flavour tier. Both are, in part,
+> ### **So the marine tier is not a protein tier and the fungal tier is not a flavor tier. Both are, in part,
 > a PUBLIC HEALTH system — and in a nation with no sun, that is a permanent civic obligation rather than a
 > dietary preference.**
 
@@ -292,7 +292,7 @@ rather than authorial choice** — and it comes with a genuine irony already sit
 
 > ### ⚠ **The HALLEY SUBNET holds 31% of the national population and is `04`'s *"most food-precarious region in
 > Tepenia"* — and it is also the one with the best access to the single input that agriculture cannot
-> manufacture.** **Precarious in food, privileged in fertiliser.** *(Its corridor's real-world basis is
+> manufacture.** **Precarious in food, privileged in fertilizer.** *(Its corridor's real-world basis is
 > SANAP's Cape Town → SANAE resupply, so the route already exists in canon.)*
 
 **And the Ross region is doubly exposed:** its corridor has **no source at all**, so every gram of its
@@ -356,7 +356,7 @@ closed in 1986 as production fell away.** **Phosphate islands get consumed and t
 >
 > ## **Upper Earth is not making a fortune on this. It is holding a knife that costs it nothing to hold.**
 
-**That is a far better characterisation than a lucrative trade would be.** **A commercial relationship can be
+**That is a far better characterization than a lucrative trade would be.** **A commercial relationship can be
 renegotiated. A rounding error that happens to be somebody's survival cannot.**
 
 ## ✅ RULING 1 — Cape Adare mines domestically, and "marginal" undersells it
@@ -391,7 +391,7 @@ a STRATEGIC MINERAL city.**
 
 > ## **`project_tepenia_upper_earth_shipping`'s governing logic — *"geography beats founding nation"* — DOES
 > NOT APPLY TO PHOSPHATE.** **It is imported from suppliers wherever they are, because it cannot be grown or
-> synthesised.**
+> synthesized.**
 
 **⭐ This gives Tepenian foreign trade a TWO-TIER STRUCTURE it did not have before:**
 
@@ -412,7 +412,7 @@ a STRATEGIC MINERAL city.**
 
 **⏸️ Still open:** which specific supplier(s) — **Morocco's OCP holds the largest reserve base on Earth; China
 is the largest producer** — and whether the relationship is one partner or several. **One partner is a
-chokehold; several is a hedge, and the choice is a characterisation of how much Tepenia trusted anybody.**
+chokehold; several is a hedge, and the choice is a characterization of how much Tepenia trusted anybody.**
 
 ---
 
@@ -438,7 +438,7 @@ chokehold; several is a hedge, and the choice is a characterisation of how much 
 > the planet. That is the thing the rest of the world cannot make for itself and cannot do without.**
 
 **⚠ Note this was not invented here.** The Tower's export function is established canon; **what is new is
-recognising it as the ANSWER to a trade question recorded as open since 2026-07-03.**
+recognizing it as the ANSWER to a trade question recorded as open since 2026-07-03.**
 
 ## ⭐⭐⭐ AND THIS RESOLVES THE ORIGINAL PARADOX PROPERLY — it is a MUTUAL chokehold
 
@@ -448,7 +448,7 @@ despises, for centuries, without ever closing its hand, is not credible.
 
 | | **Upper Earth holds** | **Tepenia holds** |
 |---|---|---|
-| The good | **phosphate** — cannot be synthesised | **orbital access** — cannot be built just anywhere, at any price |
+| The good | **phosphate** — cannot be synthesized | **orbital access** — cannot be built just anywhere, at any price |
 | If withheld | **the Federation stops eating**, on a multi-year fuse | **Upper Earth loses its route to orbit and everything orbital manufacturing feeds** |
 | Tonnage | **a few thousand tonnes a year** | bulk, continuous |
 
@@ -482,7 +482,7 @@ despises, for centuries, without ever closing its hand, is not credible.
 **Recorded so the Tower is not carrying the whole argument alone:**
 
 - **Marine protein** — genuine, but `11` capped it at the ecological ceiling, so it is a *strained* export.
-- **⭐ Robotics** — Tepenia is the world's robot-majority society and presumably its centre of expertise, while
+- **⭐ Robotics** — Tepenia is the world's robot-majority society and presumably its center of expertise, while
   Upper Earth rejected the technology outright. **Officially unbuyable, which is exactly why it fits the
   established SMUGGLING thread** *(2026-07-05)* — the same hypocrisy shape as Palmer City's tourism.
 - **Fresh water** — Antarctica holds ~70% of the planet's fresh water, and the Tower's own construction record
