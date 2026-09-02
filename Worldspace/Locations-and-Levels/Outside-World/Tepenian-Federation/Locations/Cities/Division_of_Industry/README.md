@@ -32,6 +32,8 @@
 | **`13_National_Balance_Under_the_Ruling.md`** | ⭐ The three-tier geology, all 37 cities classified, and why the food map is an ECONOMIC question not a geological one. **§12 — Tepenian crops use no daylight** |
 | **`14_Completing_the_Food_Basis.md`** | ⭐ The five-tier food system. **Fungi as the fourth tier; phosphorus as the one input that cannot be manufactured** |
 | **`15_Open_Items_and_Three_Resolutions.md`** | ⛔ **THE STATUS FILE.** List A = what blocks the per-city pass · List B = open gaps that don't. Fungi sized, Cape Adare's phosphate, seed vaults |
+| **`16_Per_City_Three_Tier_Run.md`** | ⭐ **THE CALCULATION SHEET.** Half A (13 assessed cities) + Half B (37-city three-tier table) + open estimates |
+| **[`../City_Master_Reference/README.md`](../City_Master_Reference/README.md)** | ⭐⭐ **Everything else about every city** — geography, founding, culture, notable locations — organized by subnet, with a canon-tier legend. Cross-reference this alongside the numbers above |
 | **`08_Volume_Based_Requirement_Reference.md`** | ⭐ **The method and the rates.** Start here — **but its B1 rate is superseded by `11`** |
 | **`09_Per_City_Baseline_Run.md`** | ⭐ **The answers — all 38 cities.** §3.5 is the freedom-margin finding |
 | `00_Necessary_Industries_Register.md` | the 22 industries, and what the SOC cross-check found |
