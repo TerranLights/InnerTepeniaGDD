@@ -1395,6 +1395,40 @@ pattern.)*
 - **Population note:** Census I *(955,337 H / 922,950 R / 1,878,287)* is used, per Second-Interwar scope.
   Census II shows 1,178,039 — **reduced to 85% by organic emigration to Lazar**, a later-period fact.
 
+### ⭐ RULED — the Institutes do NOT get their own sector
+
+**Developer question, 2026-09-02:** *"Would it be right to list the Institute separately? It's part of
+education, yeah?"* — **Yes at Esperanza, and that is exactly why the answer is no.**
+
+| Institute | Host city | Which §15 sector houses it |
+|---|---|---|
+| **Esperanza Institute of Medicine** | Esperanza | **Education/childcare/family 25%** |
+| **Belgrano Institute of Medicine** | Belgrano | **Aviation/logistics 35%** — *"medevac is an aviation function… the school is downstream of the flight line"* |
+| **Sinheung Institute of Cybernetics and Robotic Care** | Sinheung | **Industrial fabrication 45%** |
+
+**Three institutes, three completely different host sectors. They do not share an industry — they share a
+NATIONAL FUNCTION.** A "Medical Institutes" §15 line would have to be carved out of education at one city,
+aviation at another, and heavy fabrication at a third.
+
+> **⚠ And it would destroy the best thing about them: each grew out of what its city already did.** Belgrano
+> teaches trauma **because it flies the medevacs**; Sinheung teaches robotic care **because it builds bodies
+> by the thousand** *(`National_Medical_and_Care_Institutes.md` makes the contrast its point: "an institute
+> of care sits inside Tepenia's most heavily industrial city")*. **Give them a shared sector and they become
+> three interchangeable medical schools that happen to sit in different places.**
+
+**The MANDATE TIER is already the correct instrument** — it exists precisely to mark *national function
+regardless of which sector houses it*, and both determined cities already use it that way.
+
+**Scale confirms it:** Esperanza's Institute is **~3,150 staff — 1.5% of its own sector**, against §15 lines
+running 5–45%. A separate line would sit below the resolution of every other entry **and** visually imply the
+Institute *is* Esperanza's education mandate — **the exact opposite of the half-education ruling.**
+
+> ### **This is the REVERSE of the ABCC case, and the distinction is worth keeping.**
+> **ABCC got a sector because administration was MISSING FROM THE VOCABULARY ENTIRELY.**
+> **The Institutes are ALREADY PRESENT and correctly sized — in three different sectors, for three good
+> reasons.** ***A new sector is for what the vocabulary cannot say, not for what it says in an unexpected
+> place.***
+
 ---
 
 ## 📋 END-OF-PASS REVIEW REGISTER
