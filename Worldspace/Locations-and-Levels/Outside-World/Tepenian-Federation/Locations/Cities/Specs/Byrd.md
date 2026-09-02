@@ -159,7 +159,7 @@ Byrd is therefore unique among Tepenian cities in having been founded undergroun
 
 The name was kept, and with it came the inheritance of **St. Richard** — Richard E. Byrd, the American explorer whose expeditions mapped the region the city now occupies. St. Richard is venerated in Byrd as its founding Saint, the man whose work in West Antarctica made it knowable and eventually habitable. The city carries his name the way Scott carries Scott's — not as a civic formality but as a genuine relationship.
 
-Once the underground archives were located and catalogued, they became a secondary foundation of the Byrd subnet's historical knowledge — including the records that would later enable the reconstruction of Framheim and Little America on the Ross Ice Shelf.
+Once the underground archives were located and catalogued, they became a secondary foundation of the Byrd subnet's historical knowledge.
 
 ---
 
@@ -197,7 +197,7 @@ West Antarctic geology offers mineral resources distinct from the eastern statio
 ## Notable Locations
 
 - **The buried sections** — the older layers of Byrd's city, progressively buried by snow accumulation over generations; accessible by tunnel from the current surface city; some sections abandoned, some still in occasional use; the deepest layers are the oldest parts of Tepenian settlement at this site; note: the real Byrd Station was abandoned as a surface facility around 2005 and was already deeply buried by the time of the Falkland Treaty (2564); Tepenian settlers found it as an underground ruin and expanded from there
-- **The Byrd underground archives** — the historical records preserved in Byrd's buried tunnel system; these documents were the foundation on which Framheim and Little America were reconstructed — by 2564, the original Ross Ice Shelf sites had been lost to calving and burial for centuries; the archives allowed settlers to calculate where those sites had been and rebuild them, this time designed for ice movement; the most historically significant documentary collection in the Byrd subnet
+- **The Byrd underground archives** — the historical records preserved in Byrd's buried tunnel system; the most historically significant documentary collection in the Byrd subnet
 - **The surface city** — current inhabited Byrd; built above the snow line of earlier construction; the ongoing battle against accumulation is visible in the city's architecture
 - **St. Richard memorial / civic site** — TBD; Byrd would have a significant site honoring its founding Saint, analogous to Hut Point in Scott; exact form TBD
 - **The grounded aircraft** — the remains of Byrd's aviation fleet, no longer airworthy; whether they are stored, displayed, cannibalized for parts, or simply sitting where they last landed is TBD; they are likely one of the most significant physical artifacts in the city — the machines that were once Byrd's only connection to the rest of Tepenia
@@ -219,9 +219,7 @@ West Antarctic geology offers mineral resources distinct from the eastern statio
 Byrd is the most geographically distant surviving city from Concordia. Communication between them is limited by the Planetary Split Brain (Byrd is a different subnet) and by physical distance. Concordia knows Byrd is struggling; Byrd knows Concordia is the last major city. What either city can actually do for the other, given the distance and the infrastructure situation, is an open question that DLC 2 will need to address.
 
 **How Byrd refugees reached Concordia — the aviation route:**
-Byrd refugees who made it to Concordia did not travel overland across the continent. They flew. Byrd maintained aviation infrastructure — the only city in Tepenia to do so — and the distance from Byrd to Janbogo, while substantial, was within the operational range of the aircraft with one refueling stop.
-
-That stop was Framheim / Little America, on the Ross Ice Shelf. The aircraft could not fly from Byrd to Janbogo in a single leg; they stopped at Framheim to refuel, then continued to Janbogo. Janbogo did not have the infrastructure to refuel the aircraft, so Framheim was the only point on this route where refueling was possible — the return journey worked the same way in reverse. Whether Framheim was purely a fuel stop or also functioned as a transit hub or destination in its own right is TBD.
+Byrd refugees who made it to Concordia did not travel overland across the continent. They flew. Byrd maintained aviation infrastructure — the only city in Tepenia to do so — and the distance from Byrd to Janbogo, while substantial, was within the operational range of the aircraft.
 
 From Janbogo, passengers made the rest of the journey to Concordia by road via Hwy 183. The aviation route's purpose was simply to bridge the gap between Byrd and the Tepenian road network; Janbogo was the point where that bridge landed.
 
@@ -240,7 +238,7 @@ Byrd refugees in Concordia are therefore not merely rare — they are a closed p
 
 Byrd is surviving but struggling. The nature of the struggle is TBD for DLC 2 design — whether it is a resource crisis, a governance crisis, a geological crisis from ice sheet instability, or some combination of these has not been established.
 
-What is established: the city is alive, it is not comfortable, its aircraft are grounded and irreparable, and its one confirmed working route to Concordia — the aviation bridge via Framheim/Little America and Janbogo — has been closed since the last flight out. *(Corrected 2026-07-17 — "effectively sealed off from the rest of Tepenia" overstated this; Byrd is a confirmed Hwy 1/Hwy 22 junction, per `Locations/Infrastructure/Highways.md`. Whether that overland route survived the Long Night War in operable condition, and whether anyone has actually attempted the "multiple transfers... very long journey" Highways.md itself describes, are the genuinely open questions — not whether a road exists at all.)* No one has arrived from or departed to Concordia since the aviation route closed. The Byrd community in Concordia is a closed population with outdated information about a city they can no longer reach that way. Something is wrong enough that a DLC is built around getting there — which itself implies the journey is not straightforward, whether by the broken aviation route or the long, uncertain overland one — to find out what.
+What is established: the city is alive, it is not comfortable, its aircraft are grounded and irreparable, and its one confirmed working route to Concordia — the aviation bridge via Janbogo — has been closed since the last flight out. *(Corrected 2026-07-17 — "effectively sealed off from the rest of Tepenia" overstated this; Byrd is a confirmed Hwy 1/Hwy 22 junction, per `Locations/Infrastructure/Highways.md`. Whether that overland route survived the Long Night War in operable condition, and whether anyone has actually attempted the "multiple transfers... very long journey" Highways.md itself describes, are the genuinely open questions — not whether a road exists at all.)* No one has arrived from or departed to Concordia since the aviation route closed. The Byrd community in Concordia is a closed population with outdated information about a city they can no longer reach that way. Something is wrong enough that a DLC is built around getting there — which itself implies the journey is not straightforward, whether by the broken aviation route or the long, uncertain overland one — to find out what.
 
 ---
 
@@ -255,7 +253,7 @@ Byrd's legacy in Concordia is primarily the fact of its existence: the knowledge
 - **The nature of Byrd's struggle** — the central DLC 2 question; not yet established
 - **Why the aircraft could not be repaired** — confirmed that the breakdown was due to environmental/climate conditions and that repairs failed; the specific reason why they failed is TBD and may be central to DLC 2's plot (lost expertise? unavailable parts? damage to maintenance infrastructure? something else?)
 - **What aircraft type(s) Byrd operated** — range, capacity, and how many; affects the scale of the refugee migration and the logistical picture of the aviation route
-- **The full aviation route** — confirmed structure: Byrd → Framheim / Little America (refueling stop) → Janbogo → Hwy 183 to Concordia; Janbogo had no aircraft refueling infrastructure; whether Framheim was purely a fuel stop or also a transit hub / destination in its own right is TBD
+- **The full aviation route** — confirmed structure: Byrd → Janbogo → Hwy 183 to Concordia
 - **Is the confirmed Hwy 1/Hwy 22 overland route currently passable post-war?** *(Corrected 2026-07-17 — this item previously read as if the highway connection itself were unestablished, contradicting this file's own header; the connection is confirmed canon per `Locations/Infrastructure/Highways.md`. What's actually open is whether that pre-war infrastructure survived the Long Night War in operable condition, and whether the "multiple transfers... very long journey" route Highways.md itself describes has ever actually been attempted post-war.)*
 - **St. Richard's civic site** — what is the equivalent of Scott's Hut Point for Byrd? What tradition honors St. Richard here?
 - **The buried sections** — how deep do they go, what was abandoned and why, and what might a player find in the sealed-off older layers?

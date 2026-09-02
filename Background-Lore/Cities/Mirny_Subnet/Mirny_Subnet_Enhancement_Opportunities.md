@@ -378,7 +378,7 @@ New angles below are ones the existing 10 don't touch.
 
 **Existing 10 chains already cover:** the founding population deliberately selected for isolation
 tolerance (#1), the founding Russian community's quiet, generational thinning (#2), the displaced
-Framheim/Little America population resettling at Vostok because the demographic room existed (#3), the
+population resettling at Vostok because the demographic room existed (#3, since retired), the
 new population choosing to take up the Lake Vostok work rather than inheriting an obligation (#4),
 Charlene's discovery of the ancient DNA-repair mechanism (#5), asynchronous human/robot schedules
 producing a real handoff-documentation culture (#6), the Vostok-Kunlun resource-sharing partnership

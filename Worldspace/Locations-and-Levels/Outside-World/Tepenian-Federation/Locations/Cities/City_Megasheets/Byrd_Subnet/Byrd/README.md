@@ -24,7 +24,7 @@ The full, concatenated Byrd reference — synthesis, then extrapolation, then cr
 |---|---|
 | **Real-world basis** | Byrd Station (USA), Marie Byrd Land, West Antarctica (~80°01'S, 119°31'W) |
 | **Status** | Survived — struggling; one of only three cities in Tepenia still functioning at meaningful scale, alongside Concordia and Janbogo |
-| **Subnet** | Byrd ("Pacific") — the subnet's sole surviving city, since Framheim and Little America's removal from canon |
+| **Subnet** | Byrd ("Pacific") — the subnet's sole city |
 | **Population (Census I)** | 186,268 humans / 190,622 robots / 376,890 combined (Census II not yet computed) |
 | **Founding** | American exiles (with Pacific-region communities), via a three-settlement expedition that found the station already buried and built downward before ever building up |
 
@@ -115,7 +115,7 @@ An isolated Arctic industrial city with no road or rail connection to the rest o
 Carried forward from `Specs/Byrd.md`, `TODO.md`, and this Megasheet's own scope requirements, still genuinely unresolved:
 - The nature of Byrd's current struggle — the central DLC 2 question
 - Why the aircraft could not be repaired — confirmed environmental/climate cause, specific mechanism TBD
-- The full aviation route's remaining unknowns — aircraft type, Framheim's actual former role
+- The full aviation route's remaining unknowns — aircraft type
 - Whether any overland highway connection was ever confirmed for *people*, as distinct from the freight-only Hwy 1/Hwy 22 network
 - St. Richard's civic site — Byrd's own equivalent of Scott's Hut Point
 - The buried sections' true depth and what the oldest, sealed-off layers might still hold
@@ -160,7 +160,7 @@ Derinkuyu and the Ruhr Valley are the two standout picks of this pass, for compl
 
 ## III. Why the Aircraft Could Not Be Repaired: A Materials Problem, Not a Skills Problem
 
-**Proposed, without pre-empting DLC 2's own reserved central mystery:** Byrd's whole established identity is mechanized-fabrication competence — a city that can build a robot from nothing. An aircraft fleet this same city "could not" repair reads as a genuine irony worth resolving carefully rather than leaving as an unexplained skill gap. The most earned answer, consistent with Byrd's established character, is that the failure was never one of expertise — Byrd's engineers plausibly know exactly what's wrong — but of a specific material, fuel additive, or component that Byrd itself has never had the means to produce locally, and that used to arrive through a supply chain now severed. Given Framheim and Little America's own removal from canon as the aviation route's confirmed refueling stop, it's a reasonable, earned proposal that whatever Byrd's aircraft actually needed was tied to that same now-erased corridor, one way or another. This preserves Byrd's own competence identity rather than undermining it, and hands DLC 2 a genuinely different kind of central problem — not "can we fix it," but "can we still get what fixing it requires" — without deciding the specific substance of that problem here.
+**Proposed, without pre-empting DLC 2's own reserved central mystery:** Byrd's whole established identity is mechanized-fabrication competence — a city that can build a robot from nothing. An aircraft fleet this same city "could not" repair reads as a genuine irony worth resolving carefully rather than leaving as an unexplained skill gap. The most earned answer, consistent with Byrd's established character, is that the failure was never one of expertise — Byrd's engineers plausibly know exactly what's wrong — but of a specific material, fuel additive, or component that Byrd itself has never had the means to produce locally, and that used to arrive through a supply chain now severed. It is a reasonable, earned proposal that whatever Byrd's aircraft actually needed arrived through a corridor that no longer functions. This preserves Byrd's own competence identity rather than undermining it, and hands DLC 2 a genuinely different kind of central problem — not "can we fix it," but "can we still get what fixing it requires" — without deciding the specific substance of that problem here.
 
 ---
 

@@ -266,16 +266,16 @@ Zukelli's other defining fact is its neighbor: Janbogo, 8km away across the same
 
 ---
 
-*Standby premises — not currently attached to any city, preserved 2026-07-04 for possible future reuse after Framheim's removal from canon:*
+*Standby premises — not currently attached to any city, preserved 2026-07-04 for possible future reuse:*
 
 - ***Reconstruction vs. authentic continuity:*** *a city built entirely from historical records — is that genuine continuation of what came before, or a sophisticated kind of pretending? This needs a host city that was actually rebuilt from archives after being lost; no current Tepenian city fits that profile, but it's a strong premise if one ever does (a future DLC city, or a hypothetical Concordia district reconstruction project).*
-- ***Unglamorous competence over dramatic suffering:*** *the idea that doing careful, undramatic preparation so well that the dramatic crisis moment never has to happen is its own kind of ideal — distinct from both stoic endurance-through-suffering and survival-with-grief. Previously attached to Framheim's Amundsen heritage; could suit a different city or character built around meticulous preparation as a core value (Neumayer's "Measured, Not Debated" ethos already covers similar ground, so this would need a genuinely distinct angle to be worth reviving).*
+- ***Unglamorous competence over dramatic suffering:*** *the idea that doing careful, undramatic preparation so well that the dramatic crisis moment never has to happen is its own kind of ideal — distinct from both stoic endurance-through-suffering and survival-with-grief. Could suit a different city or character built around meticulous preparation as a core value (Neumayer's "Measured, Not Debated" ethos already covers similar ground, so this would need a genuinely distinct angle to be worth reviving).*
 
 ---
 
 ## Coverage status
 
-**Updated 2026-07-04**, after a full pattern-matching pass across every Tepenian city's established local post-culture. This document now covers 33 of 35 second interwar-era cities with substantive entries, plus a 34th (Denison) partially, as a dissenting voice only (all cities except Concordia, and excluding Framheim/Little America, which were removed from canon and never existed at all).
+**Updated 2026-07-04**, after a full pattern-matching pass across every Tepenian city's established local post-culture. This document now covers 33 of 35 second interwar-era cities with substantive entries, plus a 34th (Denison) partially, as a dissenting voice only (all cities except Concordia).
 
 **Still not represented:** Vostok, Denison. Denison is deliberately partial — it appears in "Competence Without Commentary" as a dissenting voice defined by what it rejects, but doesn't yet have its own standalone entry describing its "Home of the Blizzard" civic identity on its own terms (pride-in-extremity, wind statistics as social ritual, mastery-through-engineering). Vostok is deferred entirely: its own `Local_Cultures/Mirny_Subnet/Vostok.md` sheet is deliberately underdeveloped (most of its culture — language, cuisine, religion, arts — is explicitly marked TBD, as intentionally rich but unfilled territory), and its defining tension ("a legend living in someone else's house," a population with no ancestral claim to the scientific mission and Russian founding-legend it inherited) doesn't cleanly overlap with any pattern found elsewhere. It would make a strong standalone faction once its own sheet is developed further, rather than being forced into one now.
 

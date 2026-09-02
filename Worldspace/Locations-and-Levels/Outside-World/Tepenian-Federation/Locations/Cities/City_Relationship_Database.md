@@ -48,7 +48,7 @@ Six subnets, each named after its hub city. **Official names** are the hub city 
 | **Mawson** | Mawson | *(none)* | Mawson, Sayowa, Dome Fuji *(Sinheung and Shirayuki moved to Mirny 2026-07-05 — see below)* |
 | **Mirny** | Mirny | "Australian" | Mirny, Vostok, Kunlun, Casey, Zhongshan, Davis, Sinheung, Shirayuki *(latter two joined 2026-07-05 — real-world geography places the Larsemann Hills cluster far closer to Davis than to Mawson Station; see `TODO.md`)* |
 | **Janbogo** | Janbogo | *(none)* | Janbogo, Fort McMurdo, Scott, Zukelli, Cape Adare, Dumont d'Urville, Cape Denison, Concordia |
-| **Byrd** | Byrd | "Pacific" | Byrd *(Framheim and Little America removed from canon 2026-07-03 — see their Specs files; Byrd is now the subnet's only city)* |
+| **Byrd** | Byrd | "Pacific" | Byrd *(the subnet's only city)* |
 
 **Signy\*:** Shown with a dashed border on the Arcanet map — peripheral/weaker connectivity, due to being on an island (South Orkney Islands) off the main peninsula. Treat as intermittent or lower-bandwidth in lore.
 
@@ -113,7 +113,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Region:** West Antarctica — inland
 - **Status:** Survived — struggling (nature of struggle TBD)
 - **Arcanet subnet:** Byrd ("Pacific") — **hub city**
-- **Highways:** Hwy 1 (western/southern terminus, from the Antarctic Peninsula side only), Hwy 22 (western/Amundsen Sea terminus) *(corrected 2026-07-03 — Byrd is Hwy 1's terminus, not a pass-through point; the highway does not extend to the Ross Ice Shelf or Fort McMurdo at all, and never did — that claim, plus the supply-chain note below, predates this session's Hwy 1 route correction and referenced the now-removed Framheim/Little America besides)*
+- **Highways:** Hwy 1 (western/southern terminus, from the Antarctic Peninsula side only), Hwy 22 (western/Amundsen Sea terminus) *(corrected 2026-07-03 — Byrd is Hwy 1's terminus, not a pass-through point; the highway does not extend to the Ross Ice Shelf or Fort McMurdo at all, and never did)*
 - **Direct highway neighbors:** Rothera (north, via Hwy 1, ultimately connecting to the whole Antarctic Peninsula chain), [Hwy 22 junction with Hwy 175 going east]
 - **Notes:** Only surviving city besides Concordia; ~1,530m altitude — lower than Concordia (3,233m); West Antarctic location; DLC centerpiece (storyline TBD); hub of the Byrd ("Pacific") Arcanet subnet; NOT directly connected to Hwy 175 — reach via Hwy 22. Inland, not a port itself. Its only confirmed overland connection is Hwy 1 to the Antarctic Peninsula (via Rothera); it has no highway connection to the Ross Sea coastal ports at all. Its historical connection to Janbogo/Concordia was via the (now broken) aviation route, not any road — see `Specs/Byrd.md`.
 
@@ -227,9 +227,6 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 
 ---
 
-### Framheim — REMOVED FROM CANON (2026-07-03)
-**No longer a Tepenian city.** Real-world verification found the Bay of Whales (the site Framheim and Little America were both reconstructed near) was entirely eliminated by the 1987 Iceberg B-9 calving event; with no surviving pre-exile infrastructure at either location to begin with, neither city had a physical basis left. Full reasoning and population disposition: `Official_Population_Census.md`'s removal note. **The Byrd↔Janbogo aviation refueling route (`Specs/Byrd.md`) still needs a fix, deliberately deferred pending a fuller options discussion (see `TODO.md`). The Hwy 1 land route does NOT need a fix — corrected 2026-07-03, it never actually passed through Framheim or Little America; that was a separate, unrelated error in this file (see the Hwy 1 highway-table entry, below).**
-
 ---
 
 ### Halley
@@ -276,9 +273,6 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Notes:** Highest station in Antarctica; Sinian Federation origin; altitude too extreme for population growth; in Mirny subnet despite Sinian Federation ownership — subnets were organized geographically, not nationally; on Hwy 37 between Dome Fuji and Vostok
 
 ---
-
-### Little America — REMOVED FROM CANON (2026-07-03)
-**No longer a Tepenian city.** Same reasoning and consequences as Framheim, above.
 
 ---
 

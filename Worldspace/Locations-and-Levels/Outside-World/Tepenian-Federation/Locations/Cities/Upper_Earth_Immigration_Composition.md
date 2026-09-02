@@ -342,12 +342,6 @@ Lazar's actual city population, distributed proportionally across the Gini-adjus
 
 ---
 
-### Framheim and Little America — REMOVED FROM CANON (2026-07-03)
-
-*Both cities were permanently removed from Tepenian canon. Real-world verification found their shared site (the Bay of Whales, Ross Ice Shelf) was entirely eliminated by the 1987 Iceberg B-9 calving event, and neither city had surviving pre-exile infrastructure to begin with (both were full reconstructions from Byrd's underground archives) — leaving no physical basis for either. This file's population-mirror tables below (Ross Ice Shelf / Byrd subnet rows) predate their removal and no longer reflect current figures — treat `Official_Population_Census.md` as authoritative for all current population data.*
-
----
-
 ## JANBOGO SUBNET — Ross Sea
 
 **Corridor:** Christchurch (NZ) → Ross Sea coast; secondary via Hobart (Australia).
@@ -677,8 +671,6 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 21 | **Troll** | Halley | 750,000 | 750,000 | **1,501,000** |
 | 22 | **Lazar** | Halley | 660,000 | 660,000 | **1,321,000** |
 | 23 | **Neumayer** | Halley | 639,000 | 639,000 | **1,278,000** |
-| 24 | **Framheim** | Byrd | 573,000 | 573,000 | **1,146,000** |
-| 25 | **Little America** | Byrd | 573,000 | 573,000 | **1,146,000** |
 | 26 | **Halley** | Halley | 557,000 | 557,000 | **1,114,000** |
 | 27 | **Palmer City** | Palmer | 513,000 | 513,000 | **1,026,000** |
 | 28 | **Rothera** | Palmer | 510,000 | 510,000 | **1,020,000** |
@@ -727,8 +719,8 @@ The Gini-adjusted tier calculation distributes exiles mathematically without reg
 **Overflow-allocation methodology:**
 - Overflow from each island city flows only to mainland coastal or ice-shelf cities (not to other islands, not to interior cities like Troll, Abowasa, Sanay, or the South Pole)
 - Peninsula island overflow → **Esperanza** (50%, only mainland Peninsula coast), **Halley** (20%), **Belgrano** (15%), **Neumayer** (15%) — Rothera overflow excludes Neumayer (distance = 4 time zones)
-- Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%), **Framheim** (7.5%), **Little America** (7.5%)
-- DdU overflow → **Casey** (30%), **Mirny** (25%), **Janbogo** (20%), **Zukelli** (10%), **Cape Adare** (10%), **Framheim/Little America** (2.5% each)
+- Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%)
+- DdU overflow → **Casey** (30%), **Mirny** (25%), **Janbogo** (20%), **Zukelli** (10%), **Cape Adare** (10%)
 - Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Lazar** (15%), **Davis** (15%), **Zhongshan** (15%), **Shirayuki** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
 
 ### Island caps
@@ -773,8 +765,6 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 17 | Abowasa | Halley | 809K | 809K | 1,618K | Inland; no change |
 | 18 | **Lazar** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Sayowa overflow |
 | 19 | Troll | Halley | 750K | 750K | 1,501K | Inland; no change |
-| 20 | **Framheim** | Byrd | 573K | **686K** | **1,371K** | Ice shelf; receives Ross Is. + DdU overflow |
-| 21 | **Little America** | Byrd | 573K | **686K** | **1,371K** | Ice shelf; same as Framheim |
 | 22 | Sejong *(capped)* | Palmer | 1,144K | **500K** | **1,000K** | KGI; still a major international hub at 1M total |
 | 23 | Marambio *(capped)* | Palmer | 751K | **450K** | **900K** | Seymour Island; largest island city by cap |
 | 24 | Sanay | Halley | 365K | 365K | 730K | Inland; no change |
@@ -817,7 +807,7 @@ Ranked by final human population. Cities in **bold** gained population from over
 
 ## Canon Census I — Before Space Colonization (Pre-Orbital Era)
 
-**Out of date as of 2026-07-03 — do not treat the tables below as current.** Framheim and Little America no longer exist in canon at all. `Official_Population_Census.md` is the authoritative, current source for every city's population — cross-check there before using any figure from this section.
+**Out of date as of 2026-07-03 — do not treat the tables below as current.** `Official_Population_Census.md` is the authoritative, current source for every city's population — cross-check there before using any figure from this section.
 
 **Rate change:** All prior census figures used a 3% exile fraction. Revised to **2%** (a slightly more conservative read on what fraction of the robot-eligible population actually relocated). The island-balanced final figures above are multiplied by **×0.65** (= 2/3, rounded) to produce all canon population numbers. No overflow-allocation logic changes; only the scale shifts.
 
@@ -891,8 +881,6 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 17 | Denison | Janbogo | 526,521 | **1,073,373** | |
 | 18 | Abowasa | Halley | 508,243 | **1,042,458** | |
 | 19 | Troll | Halley | 478,489 | **960,002** | |
-| — | ~~Framheim~~ | ~~Byrd~~ | ~~430,488~~ | ~~884,682~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
-| — | ~~Little America~~ | ~~Byrd~~ | ~~425,052~~ | ~~862,581~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
 | 22 | Sejong | Palmer | 318,175 | **647,855** | *(island cap)* |
 | 23 | Marambio | Palmer | 284,047 | **571,487** | *(island cap)* |
 | 24 | Palmer City | Palmer | 238,279 | **477,970** | *(island cap; revised 2026-07-03 — see `Official_Population_Census.md`)* |
@@ -1103,7 +1091,7 @@ The result is a population that is statistically global but skewed sharply towar
 
 ## Canon Census II — After Space Colonization (Orbital Era)
 
-**Out of date as of 2026-07-03 — same caveat as Canon Census I, above.** `Official_Population_Census.md` is authoritative. Framheim and Little America no longer exist in canon.
+**Out of date as of 2026-07-03 — same caveat as Canon Census I, above.** `Official_Population_Census.md` is authoritative.
 
 **Context:** Tepenia did not remain a purely Antarctic civilization. Roughly one-third of the way through Tepenia's existence as a country, construction began on **Amundsen Tower** — the space elevator anchored at the geographic South Pole, exploiting the rotational axis as the optimal anchor point for a permanent surface-to-orbit tether. By approximately the halfway point of Tepenia's pre-war history, Amundsen Tower was operational and low-earth orbital construction was underway.
 
@@ -1141,8 +1129,6 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 16 | Shirayuki | Mirny *(corrected 2026-07-05)* | 336,124 | **728,324** | |
 | 17 | Troll | Halley | 323,650 | **671,832** | |
 | 18 | Abowasa | Halley | 310,791 | **607,441** | |
-| — | ~~Framheim~~ | ~~Byrd~~ | ~~248,865~~ | ~~604,953~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
-| — | ~~Little America~~ | ~~Byrd~~ | ~~304,422~~ | ~~555,739~~ | **REMOVED FROM CANON 2026-07-03 — see note above** |
 | 21 | Sejong | Palmer | 234,304 | **514,070** | *(island cap)* |
 | 22 | Marambio | Palmer | 195,623 | **430,145** | *(island cap)* |
 | 23 | Fort McMurdo | Janbogo | 173,548 | **338,169** | *(island cap)* |

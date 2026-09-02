@@ -18,7 +18,7 @@
 |---|---|
 | **Real-world basis** | Byrd Station (USA), Marie Byrd Land, West Antarctica (~80°01'S, 119°31'W) |
 | **Status** | Survived — struggling; one of only three cities in Tepenia still functioning at meaningful scale, alongside Concordia and Janbogo |
-| **Subnet** | Byrd ("Pacific") — the subnet's sole surviving city, since Framheim and Little America's removal from canon |
+| **Subnet** | Byrd ("Pacific") — the subnet's sole city |
 | **Population (Census I)** | 186,268 humans / 190,622 robots / 376,890 combined (Census II not yet computed) |
 | **Founding** | American exiles (with Pacific-region communities), via a three-settlement expedition that found the station already buried and built downward before ever building up |
 
@@ -109,7 +109,7 @@ An isolated Arctic industrial city with no road or rail connection to the rest o
 Carried forward from `Specs/Byrd.md`, `TODO.md`, and this Megasheet's own scope requirements, still genuinely unresolved:
 - The nature of Byrd's current struggle — the central DLC 2 question
 - Why the aircraft could not be repaired — confirmed environmental/climate cause, specific mechanism TBD
-- The full aviation route's remaining unknowns — aircraft type, Framheim's actual former role
+- The full aviation route's remaining unknowns — aircraft type
 - Whether any overland highway connection was ever confirmed for *people*, as distinct from the freight-only Hwy 1/Hwy 22 network
 - The buried sections' exact true depth (what the oldest, sealed-off layers hold is now partially addressed, below)
 - Demonym — still TBD

@@ -333,7 +333,7 @@ too much for Esperanza or Palmer City.
   an energy load, and **it is not among the 22 industries and is nowhere costed.**
 - **⚠ "Antarctic cold makes storage free" is doing enormous unexamined work.** Free *outside*. Anything buried
   sits in permafrost or on moving ice — **and Halley's own spec is "the city that moves."** **This project
-  already removed Framheim/Little America from canon over a real 1987 calving event.** Fats oxidize and
+  already ruled two Ross Ice Shelf sites out over a real 1987 calving event.** Fats oxidize and
   vitamins degrade even at −40 °C, so the reserve needs **perpetual rotation** — a standing forever cost that
   "built once and maintained" denies.
 

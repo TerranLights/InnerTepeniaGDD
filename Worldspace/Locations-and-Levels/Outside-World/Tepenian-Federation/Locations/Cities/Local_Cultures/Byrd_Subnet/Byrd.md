@@ -2,7 +2,7 @@
 
 ---
 
-**Subnet:** Byrd ("Pacific") — subnet hub, and now (following Framheim and Little America's removal from canon) the subnet's only city
+**Subnet:** Byrd ("Pacific") — subnet hub, and the subnet's only city
 **Status:** Survived — struggling; one of only three cities in Tepenia still functioning as a city at meaningful scale, alongside Concordia and Janbogo
 **Census Population:** 186,268 humans / 190,622 robots / 376,890 combined (Census I, rank 29th)
 **Location:** Marie Byrd Land, West Antarctic Ice Sheet (~80°01'S, 119°31'W)
@@ -57,7 +57,7 @@ Polar night ~108 days (April 28 – August 14); midnight sun ~128 days (October 
 
 **Name/concept:** *Built From Below, Then Left Alone*
 
-Byrd's identity rests on two facts working together: it was founded underground, by people who chose the hardest possible route to get there, and it is now — following Framheim and Little America's removal from canon — the only city its own subnet has left. A city that always understood itself as remote just became, in a very literal sense, alone.
+Byrd's identity rests on two facts working together: it was founded underground, by people who chose the hardest possible route to get there, and it is the only city its own subnet has. A city that always understood itself as remote is, in a very literal sense, alone.
 
 - **a. Founding tension** — Not the usual founding-nation-vs-majority pattern (its composition is a genuine population blend, not a founding-vs-dilution story) — the real tension is between the deliberate, expedition-driven founding (people who chose Byrd specifically because it was difficult) and the demographic reality that most of its people arrived later, as part of the labor migration waves from across the Palmer, Halley, Janbogo, Mirny, and Mawson subnets, having chosen nothing about Byrd specifically at all.
 - **b. Fault lines** — Between the "founding character" (expedition-minded, self-sufficient, earned through the crossing itself) and the newly-arrived population blend's genuine breadth — Byrd's Notable tier is now nearly as diverse as Palmer City's, a strange fit for a city whose whole self-image is built around isolation and self-reliance.
@@ -189,7 +189,7 @@ The broad Notable tier (36 nations, brought by the later labor migration waves) 
 
 ## 21. Political Character
 
-The subnet hub, and now — since Framheim and Little America's removal — its only remaining city, giving Byrd a political weight within the Byrd subnet that is total by default rather than earned through competition with any peer.
+The subnet hub, and its only city, giving Byrd a political weight within the Byrd subnet that is total by default rather than earned through competition with any peer.
 
 ---
 
@@ -202,8 +202,7 @@ Filtered through the American/Japanese founding-heritage lens, though genuinely 
 ## 23. Relationship to Other Cities
 
 - **Concordia:** The most geographically distant surviving city from Concordia; communication limited by the Planetary Split Brain and physical distance. Concordia knows Byrd is struggling; Byrd knows Concordia is the last major city.
-- **Janbogo:** The historical aviation route's destination — now unreachable since the aircraft's breakdown and Framheim's removal from canon (see Open Questions).
-- **The removed Ross Ice Shelf cities:** Byrd's underground archives were the direct foundation on which Framheim and Little America were reconstructed — a historical connection that now exists only in memory, since both cities are gone.
+- **Janbogo:** The historical aviation route's destination — now unreachable since the aircraft's breakdown (see Open Questions).
 
 ---
 
@@ -263,7 +262,6 @@ Becoming a local at Byrd means genuinely internalizing self-sufficiency as ident
 ## 30. Significant Local Events
 
 - **The aircraft breakdown** — at some point before, during, or after the Long Night War, Byrd's aircraft broke down due to extreme environmental/climate conditions and could not be repaired; the specific reason is TBD and may be central to DLC 2's plot. *(Corrected 2026-07-17 — this line previously said the practical consequence was "absolute: Byrd has been unreachable from the rest of Tepenia," overstating it; Byrd is a confirmed Hwy 1/Hwy 22 junction per `Locations/Infrastructure/Highways.md`. The aircraft breakdown closed the specific route refugees actually used; whether the long overland alternative survived the war in passable condition is a separate, still-open question — see `Specs/Byrd.md`.)* The practical consequence for the aviation route specifically is absolute: nobody has traveled between Byrd and Concordia by air since the last flight out.
-- **Framheim and Little America's removal from canon (2026-07-03)** — the aviation route's only confirmed refueling stop is gone entirely, a genuinely new complication layered on top of the aircraft breakdown; not yet resolved, flagged in `TODO.md`.
 
 ---
 
@@ -277,4 +275,4 @@ Becoming a local at Byrd means genuinely internalizing self-sufficiency as ident
 
 ## 32. Diaspora Character in Concordia
 
-Byrd refugees in Concordia are a closed population — no one has joined them since the aircraft stopped flying, and no one has left since either. They carry Byrd's own defining character (self-sufficiency, expedition-mindedness, comfort with genuine isolation) along with the last confirmed knowledge of Byrd's state, now years or decades out of date. They cannot say what has happened to Byrd since the aviation route closed — including, now, whatever Framheim and Little America's disappearance from the historical record might mean for a city whose own founding is directly tied to the same underground archives that made those two reconstructions possible in the first place.
+Byrd refugees in Concordia are a closed population — no one has joined them since the aircraft stopped flying, and no one has left since either. They carry Byrd's own defining character (self-sufficiency, expedition-mindedness, comfort with genuine isolation) along with the last confirmed knowledge of Byrd's state, now years or decades out of date. They cannot say what has happened to Byrd since the aviation route closed.

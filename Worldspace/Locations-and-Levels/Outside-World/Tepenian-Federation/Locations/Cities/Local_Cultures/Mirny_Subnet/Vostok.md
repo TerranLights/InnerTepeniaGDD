@@ -23,7 +23,7 @@
 | Significant | South Korea, Canada, Indonesia, Australia |
 | Notable | New Zealand, Chile |
 
-*This table has nothing to do with Vostok's own founding story (see Section 2) — this is simply Vostok's actual population, full stop. There is no Russian representation in this table at all, in any tier. This is a genuine, deliberate tension left unresolved rather than smoothed over — see Section 5a. (Note: an earlier draft of this file explained the gap via an in-fiction population-redistribution event tied to Framheim and Little America. That framing is retired per developer correction, 2026-07-31 — those two cities never existed in Tepenia's own history at all, so there was never anywhere for a migration to happen from. The 2026-07-03 date that appears elsewhere in this project's records is a development-side bookkeeping date only — when these population figures were finalized in the project's own records — not an in-story event.)*
+*This table has nothing to do with Vostok's own founding story (see Section 2) — this is simply Vostok's actual population, full stop. There is no Russian representation in this table at all, in any tier. This is a genuine, deliberate tension left unresolved rather than smoothed over — see Section 5a.*
 
 ---
 

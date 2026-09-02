@@ -51,14 +51,13 @@ DLC-era ruin content, not in how its culture is written up in this directory.
 
 ---
 
-### Byrd Subnet — Ross Ice Shelf / Marie Byrd Land
+### Byrd Subnet — Marie Byrd Land / Marie Byrd Land
 *Colloquial: "Pacific" Ross Shelf*
 
 | City | Status |
 |------|--------|
 | Byrd | Surviving |
 
-*Framheim and Little America removed from canon 2026-07-03 — real-world verification found their shared site (Bay of Whales) was eliminated by the 1987 Iceberg B-9 calving event, with no surviving pre-exile infrastructure at either location to begin with. See `Official_Population_Census.md`'s removal note for full detail. Byrd is now this subnet's only city.*
 
 ---
 

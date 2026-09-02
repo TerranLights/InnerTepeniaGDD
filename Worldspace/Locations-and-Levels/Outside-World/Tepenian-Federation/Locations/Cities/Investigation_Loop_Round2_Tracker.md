@@ -212,14 +212,14 @@ correctly flagged-not-fixed — none of this counts as "new" per the loop's own 
 
 **Byrd, Round 2 Pass 1, 2026-07-14 (done before the subnet-order reorder; queue position now last,
 result stands).** Re-read `Specs/Byrd.md` in full against methodology items 19-21 (new since Byrd's
-only Round-1 pass). No new bug. Specifically checked the Framheim/Little America in-world-existence
+only Round-1 pass). No new bug. Specifically checked the in-world-existence
 question raised by Specs/Byrd.md's extensive "reconstructed from archives"/aviation-refueling-stop
-narrative against the binding 2026-07-10 correction (Framheim/Little America never existed in-world
+narrative against the binding 2026-07-10 correction (those sites never existed in-world
 at all) — cross-checked `Local_Cultures/Byrd_Subnet/Byrd.md` and `City_Relationship_Database.md`,
 both of which already correctly treat this as resolved/historical-memory-only, and confirmed
 `City_Relationship_Database.md` line 116 already explicitly names `Specs/Byrd.md`'s aviation route as
 "still needs a fix, deliberately deferred pending a fuller options discussion" — i.e. this is the
 same standing, developer-acknowledged, deliberately-unresolved gap as Consequence 2 in
-`project_framheim_littleamerica_removal` memory, not a newly-discovered one. Re-confirmed the
+an already-recorded finding, not a newly-discovered one. Re-confirmed the
 highway/isolation header-vs-body contradiction is the same standing flag from Round 1, also not new.
 Streak: 1/3.

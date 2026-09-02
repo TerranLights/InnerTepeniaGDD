@@ -14,7 +14,7 @@
 
 **Origin cities:** Mirny
 
-*Corrected 2026-07-04: this faction was originally built on the premise that Mirny was destroyed in the Long Night War, with a second, Framheim-specific angle attached. Neither holds up. Mirny's established status is "damaged; partially operational" — the city survives — and Framheim no longer exists in canon at all (see `City_Origin_Factions_Second_Interwar.md`'s standby-premises note for where its two pieces went). The schism below is rebuilt around what's actually true: Mirny survives, damaged, connected to Concordia only by the physical Hwy 110 highway spur, not any special Arcanet link (Mirny and Concordia are different subnets, and the Planetary Split Brain severed that connection like every other inter-subnet one).*
+*Corrected 2026-07-04: this faction was originally built on the premise that Mirny was destroyed in the Long Night War. That does not hold up — Mirny's established status is "damaged; partially operational"; the city survives. The schism below is rebuilt around what's actually true: Mirny survives, damaged, connected to Concordia only by the physical Hwy 110 highway spur, not any special Arcanet link (Mirny and Concordia are different subnets, and the Planetary Split Brain severed that connection like every other inter-subnet one).*
 
 Mirny Station was never abandoned for a single day in its first century of existence. This was not luck — it was a collective decision, renewed every winter, every crisis, every near-miss. The unbroken occupation was the city's identity in a way that went beyond pride: it was the proof that something could be sustained against everything the continent could throw at it.
 

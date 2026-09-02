@@ -981,8 +981,8 @@ and cargo origin, rather than leaving it generic.
 
 **Who runs the Janbogo and Byrd/Ft McMurdo legs (established 2026-07-03):** same
 real-world-grounded logic, extended to the rest of the coast:
-- **Ross region (Byrd subnet + the Ross Sea side of Janbogo subnet — Framheim,
-  Little America, Fort McMurdo, Scott, Cape Adare, Zukelli, Janbogo itself):**
+- **Ross region (Byrd subnet + the Ross Sea side of Janbogo subnet — Fort McMurdo,
+  Scott, Cape Adare, Zukelli, Janbogo itself):**
   **New Zealand** freighters, staging out of Christchurch/Lyttelton — the real-world
   logistics hub for Ross Sea Antarctic operations (the US Antarctic Program's own
   McMurdo resupply chain runs through there too, not just New Zealand's Scott

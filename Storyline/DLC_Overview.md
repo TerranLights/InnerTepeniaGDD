@@ -146,7 +146,7 @@ A pre-trigger item or piece of evidence exists for players who do not yet know M
 **Key lore assets:**
 - Only surviving city in Tepenia besides Concordia
 - West Antarctic geography — Amundsen Sea side, lower altitude than the East Antarctic plateau cities
-- Byrd's own aviation route historically refueled at Framheim/Little America, on the Ross Ice Shelf, before continuing to Janbogo — see `Cities/Specs/Byrd.md`'s "Connection to Concordia" section *(corrected 2026-07-14 — this line and the one below it previously described Framheim and Little America as still-existing "pre-exile expedition ruins" and a fellow Byrd subnet member; both cities were removed from canon entirely on 2026-07-03, their real-world site eliminated by the 1987 Iceberg B-9 calving event, leaving no physical basis for either — see `Official_Population_Census.md`'s removal note. Byrd subnet is now Byrd's own sole city; the aviation route's former refueling stop no longer physically exists, a complication layered on top of the aircraft breakdown itself, per `Local_Cultures/Byrd_Subnet/Byrd.md` Section 30.)*
+- Byrd's own aviation route historically ran to Janbogo — see `Cities/Specs/Byrd.md`'s "Connection to Concordia" section. Byrd subnet is Byrd's own sole city.
 - **The Byrd Expedition** *(established 2026-07-03)*: the founding-era discovery of Byrd's buried underground city was a three-settlement effort — Belgrano (DLC 5) organized and built the expedition's vehicles ("las Arrastradoras," ancestor of the modern "Rastra"), crewed all-robot; Palmer City (DLC 3) and Rothera (also DLC 3) shipped supporting historical records across the Weddell Sea once word spread. See `Cities/Specs/Byrd.md` and `Cities/Local_Cultures/Halley_Subnet/Belgrano.md` for the full account.
 
 ---
@@ -272,7 +272,6 @@ Undesigned in specifics — flag when each subnet DLC's own storyline developmen
 
 - **Central characters** for DLCs 2, 3, 4, 6, 7 — all TBD (DLC 1: Kendra Heinrich; DLC 5: Salagéa Aparast; DLC 7 Vostok character: robot geneticist, full profile TBD)
 - **Main storylines** for all seven DLCs — all TBD (except South Pole has Kendra Heinrich as anchor)
-- **Byrd's aviation route's former Framheim/Little America refueling stop** *(clarified 2026-07-14 — Framheim and Little America were removed from canon entirely 2026-07-03; this item is no longer just "details TBD," it's an open complication layered on top of the aircraft breakdown itself — see `Local_Cultures/Byrd_Subnet/Byrd.md` Section 30)*
 - **Dumont d'Urville in Janbogo DLC** — included directly or side-content references only? (TBD)
 - **Release order** of DLCs — TBD
 - **Kendra Heinrich's DLC 1 end slides** *(flagged 2026-07-03)* — five candidate angles logged in `Kendra Heinrich/DLC_South_Pole_Level_Design.md`, following the Lonesome Road precedent (endings about the largest strategic picture, not local factions, since DLC 1 has no faction ecosystem): (1) Kendra's own personal fate, (2) the Tower/scrap-mountain site's epilogue, (3) the evacuation dead found along the routes to the Tower, (4) the Arcanet archive/Planetary Split Brain resolution, (5) a capstone reflection across all six other DLCs. Explicitly subject to revision once actual plot-outlining begins.

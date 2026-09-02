@@ -10,7 +10,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Byrd is one of only three cities in Tepenia still functioning as a city at meaningful scale (alongside Concordia and Janbogo), the sole surviving city in its own subnet following Framheim and Little America's removal from canon, and already had an established "founded underground before it ever stood on the surface" identity — layered stratigraphy, with founding-era neighborhoods buried by generations of snow accumulation and the surface city a newer addition.
+Recap of what was already established going in: Byrd is one of only three cities in Tepenia still functioning as a city at meaningful scale (alongside Concordia and Janbogo), the sole city in its own subnet, and already had an established "founded underground before it ever stood on the surface" identity — layered stratigraphy, with founding-era neighborhoods buried by generations of snow accumulation and the surface city a newer addition.
 
 At the start of this session, Byrd's tiering had Japan at Primary (13.57%) ahead of the USA itself (11.43%) — Byrd's actual founding-operator nation. This was resolved first, via a hand-specified rotation and swap (see `Specs/Byrd.md`'s Founding Population Adjustment note for full detail), landing USA and Canada at Primary.
 

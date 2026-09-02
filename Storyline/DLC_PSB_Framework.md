@@ -182,7 +182,6 @@ Byrd has its own account of the Long Night War and the evacuation. Players from 
 **Known structural notes:**
 Byrd is "struggling" — its survival is not secure. What the player does here determines whether it continues to exist. The nature of its struggle is TBD.
 
-Possible air connection to Framheim (Ross Ice Shelf) — TBD; implies aviation infrastructure or historical significance.
 
 **Known 2nd-order effects:** TBD
 **Known 3rd-order effects:** Byrd's survival or collapse directly affects Concordia's relationship to the rest of the continent. If Byrd falls, Concordia becomes more isolated than it already is. If Byrd stabilizes, it becomes a waypoint and potential ally.
@@ -312,6 +311,5 @@ Players who play DLC 1 first still get a complete, satisfying experience. They a
 - Central characters for DLCs 2, 3, 4, 6
 - Specific subnet state thresholds for composite ending slides
 - How DLC release order affects player experience (earlier DLCs establish the world; later DLCs reference it — release order is a separate question from playthrough order)
-- Byrd air connection to Framheim — aviation infrastructure or historical site? TBD
 - Dumont d'Urville (DLC 6 region) — included directly or side-content only?
 - Ji-Eun Kim — if she appears in a DLC rather than the main game, which region?

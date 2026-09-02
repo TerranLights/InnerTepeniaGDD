@@ -81,10 +81,9 @@ looks urgent enough on its own to prompt an actual institutional response.
 
 Because no institutional response ever developed, the population's eventual near-total absence goes
 entirely unaddressed — an accumulated absence nobody in the administration ever formally logged or
-resolved. *(Note, 2026-07-31: this section previously continued into a follow-on redistribution event
-tied to Framheim and Little America — retired per direct developer correction; see
-`Vostok_Course_of_Events_Suggestions.md`'s own correction note. Neither city ever existed in Tepenia's
-own history, so there was no displaced population and no crisis for Vostok's own gap to solve. What
+resolved. *(Note, 2026-07-31: this section previously continued into a follow-on redistribution event —
+retired per direct developer correction; see `Vostok_Course_of_Events_Suggestions.md`'s own correction
+note. There was no displaced population and no crisis for Vostok's own gap to solve. What
 became of that gap, if anything, is now an open question rather than a resolved one.)*
 
 ---

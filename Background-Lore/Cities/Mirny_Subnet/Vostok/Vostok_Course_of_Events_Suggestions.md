@@ -8,9 +8,8 @@ coldest city on Earth, the archive too vast for any one mind, the population tha
 it never built). Post-settlement only; nothing here is canon.
 
 **Correction, 2026-07-31:** chain #3 below ("Room Where There Was None") built its premise on an
-in-fiction population-redistribution event tied to Framheim and Little America. That premise is
-retired per direct developer correction — those two cities never existed in Tepenia's own history at
-all, so there was never a displaced population to resettle. Chain #3 is kept below, struck through
+in-fiction population-redistribution event. That premise is retired per direct developer correction —
+no such event ever happened, so there was never a displaced population to resettle. Chain #3 is kept below, struck through
 context and all, for the record of how the file's own thinking evolved, but should not be treated as
 a live candidate. Chains #2, #4, and #8 have been lightly adjusted to no longer depend on it.
 
@@ -49,8 +48,8 @@ room this displaced population needs. **But** nobody actually planned to send th
 Vostok's own scientific legacy specifically. **Therefore** the resettlement happens simply because
 the gap existed, not because anyone chose this population to carry Vostok's legend forward — a plain,
 unglamorous demographic fact that ends up defining the city's whole present character. *(Retired: this
-premise required Framheim and Little America to have existed as real, displaced Tepenian cities. They
-never did — see `Vostok_Full_Extrapolation.md` Section II. Vostok's current population simply is what
+premise required a real, displaced Tepenian population that never existed — see
+`Vostok_Full_Extrapolation.md` Section II. Vostok's current population simply is what
 it is, with no resettlement event of any kind.)*
 
 ## 4. A Legend Inherited, Not Built

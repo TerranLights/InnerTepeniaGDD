@@ -123,8 +123,6 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 
 | Real Base | Country | Tepenian Name | Notes |
 |---|---|---|---|
-| Framheim Base | Norway | ~~Framheim~~ | **REMOVED FROM CANON 2026-07-03** — see `Official_Population_Census.md`'s removal note. Bay of Whales (the site both this and Little America were reconstructed near) was eliminated by the 1987 Iceberg B-9 calving event; no physical basis remained. |
-| Little America Base | USA | ~~Little America~~ | **REMOVED FROM CANON 2026-07-03** — same reasoning as Framheim. |
 
 ---
 
@@ -136,7 +134,6 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - **Damaged; partially operational (coastal):** Rothera, Port Lockroy *(corrected 2026-07-03 — moved here from "destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone)*, Belgrano, Halley, Neumayer, Troll, Abowasa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Sinheung, Shirayuki *(formerly "Japanese Diplomatic Partition, cf. Bharati"; both corrected 2026-07-03 — moved here from "destroyed," effectively co-located with Zhongshan)*, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
 - **Survived; fully operational:** Signy *(upgraded 2026-07-03 from "damaged" — overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines despite the city itself being untouched)*
 - **Confirmed survived (inland):** Concordia (game setting), Vostok (isolated), Dome Fuji (too high), Kunlun (too high), Byrd (struggling)
-- **Removed from canon (2026-07-03):** Framheim, Little America — real-world site (Bay of Whales) eliminated by 1987 Iceberg B-9 calving. **Breaks the established Byrd↔Janbogo aviation refueling route — not yet resolved, see `Specs/Byrd.md`.**
 - **Confirmed Arcanet subnet hubs:** Palmer City, Halley, Mawson, Mirny, Janbogo, Byrd
 - **Primary refugee source for Concordia:** Dumont d'Urville Sea coast and Ross Sea/Pacific coast
 - **Rarest refugees in Concordia:** Antarctic Peninsula (Palmer City area), Atlantic coast (Belgrano, Neumayer, Halley)

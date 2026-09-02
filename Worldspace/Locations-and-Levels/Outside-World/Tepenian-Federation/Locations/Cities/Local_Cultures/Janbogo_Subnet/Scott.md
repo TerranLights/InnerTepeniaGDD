@@ -199,7 +199,6 @@ Filtered heavily through the Saints framework rather than raw anger or grief —
 
 - **Fort McMurdo:** The defining relationship of Scott's entire existence — collaborative on logistics and infrastructure, competitive on identity, permanently intertwined by three kilometers of shared rock and shared history. Neither city can fully separate its own story from the other's.
 - **Janbogo:** Connected via Hwy 183 north; part of the same Ross Sea coastal network.
-- **Framheim / Little America** *(removed from canon 2026-07-03)*: Were fellow Ross Ice Shelf-region sites with their own pre-exile expedition heritage, sharing the same Saints-framework civic reverence Scott holds for St. Robert. Both cities were permanently removed from Tepenian canon — their shared real-world site, the Bay of Whales, was eliminated by the 1987 Iceberg B-9 calving event, leaving no physical basis for either. Scott no longer has a living relationship with either city.
 
 ---
 

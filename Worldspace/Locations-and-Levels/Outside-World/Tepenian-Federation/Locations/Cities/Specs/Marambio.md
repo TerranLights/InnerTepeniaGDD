@@ -91,7 +91,7 @@ The name was kept.
 
 ## Character & Culture
 
-Marambio had a layered character: the dual air-and-sea operational hub that kept the Palmer subnet moving. The aviation infrastructure and, equally, the working port (shipyards on the island's inner side, humans and robots loading and unloading ships together in any weather, per the 2026-07-04 Vision Notes session) gave it a transient, logistics-oriented culture *(corrected 2026-07-04 — previously compared to Framheim, which was permanently removed from canon 2026-07-03; Fort McMurdo is the more apt comparison now, sharing the same transient-hub character)* — people passing through, goods and people in motion by both plane and ship.
+Marambio had a layered character: the dual air-and-sea operational hub that kept the Palmer subnet moving. The aviation infrastructure and, equally, the working port (shipyards on the island's inner side, humans and robots loading and unloading ships together in any weather, per the 2026-07-04 Vision Notes session) gave it a transient, logistics-oriented culture — people passing through, goods and people in motion by both plane and ship.
 
 The city's founding-era function as a working military aviation hub shaped Marambio's institutional character in ways that persisted across generations; the port grew alongside it, equally central rather than a later add-on, as South America emerged as the confirmed Upper Earth shipping partner for the whole Palmer subnet.
 
