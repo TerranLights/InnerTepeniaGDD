@@ -403,6 +403,36 @@ that order is plausible.
 
 **Not decided. Marked for exploration rather than ruling** — this may want a full pass rather than a verdict.
 
+### ⏸️ DRQ-07 — Where do the Institutes' SATELLITE CAMPUSES go?
+
+**Raised 2026-09-01 at developer direction. Structure settled, siting deliberately deferred.**
+**Full groundwork:** `Cities/National_Medical_and_Care_Institutes.md` §"Throughput and Structure".
+
+**Already settled:** national throughput *(~21,000 medical + ~3,400 robot-care graduates per year)* · **feeder
+structure** *(foundational training distributed, advanced and qualifying stages at the main institute)* ·
+**rolling intake and graduation** tied to seasonal transport windows · **cohort residency** *(you go to
+Esperanza and do not come home for four years, because you cannot)*.
+
+**Why satellites at all — it is NOT capacity.** One campus handles Esperanza's ~37,800 standing students
+comfortably. **The drivers are ACCESS** *(a Kunlun student travels ~5,000 km)* **and RESILIENCE** *(every
+medic originating in three cities means cutting one off kills people six to ten years later)*.
+
+**Open questions:**
+- **How many, at what level, and how distributed?** One per subnet? Per institute per subnet? A single shared
+  foundational campus per region covering all three disciplines?
+- **⭐ Which cities host them.** Candidates already suggested by canon: **Shirayuki** *(second education-export
+  city — educ 20% against a 2.0% own need)*, **Mawson** and **Casey** *(subnet hubs)*, **Lazar** *(largest
+  city; the Halley subnet's population center)*.
+- **Co-located or separate disciplines?** Shared is cheaper; separate preserves the distinct traditions the
+  three institutes are built on.
+- **⚠ THE REAL TRADE-OFF: does a satellite dilute the bond?** The cohort-forged identity exists *because*
+  students are sealed in together for years. **Distribute foundational training and that weakens.**
+  **Resilience and identity pull against each other, and the siting decision is where that gets settled.**
+- **The plateau problem.** Vostok, Kunlun and Dome Fuji are least able to send students *and* least able to
+  host a campus. **They may simply be permanently dependent — a fact worth using rather than solving.**
+
+---
+
 ### DRQ-06 — Are either humans or robots EXCLUDED from particular job roles?
 
 **Raised 2026-09-01. ⏸️ Explicitly open — the developer has stated they have not decided and currently have

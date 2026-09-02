@@ -89,6 +89,38 @@ of them.** Three steps, and the last one is not mechanical.
 > 45% fabrication, raw materials trucked in, things made at scale. **Sinheung builds bodies by the thousand and
 > also teaches the tending of them one at a time.** That tension is the Institute's whole character.
 
+### ⭐⭐ The Institute as a historical actor — Mountain Pass. Established 2026-09-01.
+
+**This Institute is not only a school. It once moved national infrastructure.**
+`[CGRM 2026-09-01 · Path 6 · developer ruling]`
+
+**The Mountain Pass outpost** — the historical third chamber-manufacturing site, on Hwy 37 midway between
+Vostok and Kunlun — **began as an act of solidarity from the Tri-Cities, pushed for by this Institute.**
+*(Sinheung pushed and supplied the means; Vostok and Kunlun established and staffed it. See
+`Locations/Infrastructure/Airports.md`.)*
+
+**⭐ And the census explains why it was Sinheung that pushed, rather than either neighbor:**
+
+| | Chinese | Japanese | Korean |
+|---|---|---|---|
+| **Kunlun** | **Primary** | Significant | Significant |
+| **Vostok** | — | **Primary** | Significant |
+
+**Zhongshan (China) ties to Kunlun. Shirayuki (Japan) ties to Vostok. Sinheung (Korea) ties to BOTH** — and
+**Sinheung alone had the industrial means, being one of only two cities that manufacture chambers at all.**
+**Kinship with both, capability to act, and neighbors who were not equally invested.**
+
+**A moderate share of both plateau populations had come up from the Tri-Cities to do research in the first
+place. This was a gift to their own diaspora** — the means to make their own chambers instead of waiting on
+shipments from the coast.
+
+> ## **Then the Tower fell, the residual grid supply ended, and the capability died with it.**
+> **The plateau is dependent again, and the ruin of the attempt sits on Hwy 37 exactly halfway between the two
+> cities it was built to serve. A monument to a failed act of solidarity.**
+
+**⚠ This is a live precedent for DRQ-07** *(satellite-campus siting)* **and a cautionary one: Tepenia has
+distributed capability to the plateau before. It worked until the thing it depended on failed.**
+
 **What it produces:** robot maintenance and repair technicians, frame and actuator specialists, sensor and
 processor service engineers, coolant and siligel practitioners, chamber technicians — **and robotic
 counselors, whose discipline is a robot's inner life rather than its hardware.**
@@ -111,6 +143,94 @@ national majority**, and it is taught here.
    cutting those cities off **kills nobody immediately — it kills people six to ten years later**, when the
    graduates who would have replaced the dead never arrive. **Relevant well before the Long Night War, and
    worse afterward.**
+
+---
+
+---
+
+# ⭐ Throughput and Structure — established 2026-09-01
+
+**Computed from the Division of Industry model** *(`Division_of_Industry/09_Per_City_Baseline_Run.md`)*, which
+sizes the workforces these institutes exist to supply.
+
+## The numbers
+
+| | Standing national workforce | Career length | **Graduates/year** |
+|---|--:|---|--:|
+| **Human healthcare** *(15,623,523 humans × 54/1,000)* | **843,670** | ~40 years | **~21,000** |
+| **Robot care** *(16,403,077 robots × 12.5/1,000)* | **205,038** | *much longer — see below* | **~3,400** |
+
+> ## ⭐ **The two professions turn over for completely different reasons.**
+> **Humans leave because they age out. Robots do not age** — canon holds that *"a robot is always capable of
+> finding a new purpose in life."* **So robot career turnover is VOLUNTARY where human turnover is
+> MORTALITY.** A robot-care technician leaves the trade by choosing to become something else.
+>
+> **Sinheung's throughput is therefore much smaller than the robot share of the population suggests** — it
+> replaces people who changed their minds, not people who died.
+
+## The Institute is a fraction of its host city's education economy
+
+**Esperanza at ~12,600 graduates a year on ~3-year programs carries a standing student body of ~37,800 —
+about 2% of a 1.88 M city.** *(Oxford runs near 20%.)* **One campus handles that comfortably.**
+
+**⚠ Which settles something:** Esperanza's §15 education sector of ~25% is **350,155 workers** — enough, at a
+1:12 ratio, to teach four million students. **The Institute is one part of a much broader education economy**
+*(local schooling, childcare, family services, general tertiary export)*, **not the whole of it.**
+
+## ⭐ Satellite campuses — the case is RESILIENCE and ACCESS, not capacity
+
+**Capacity does not require them. Two other things do:**
+
+1. **Access.** A student from Kunlun travels **~5,000 km** to train.
+2. **⚠ The decade-long fuse.** Concentrating every medic in three cities means **cutting one off kills people
+   six to ten years later**, when the graduates who would have replaced the dead never arrive.
+
+> ### **Structure: satellites as FEEDERS, not replacements.**
+> **Foundational training distributed to the subnets; advanced and qualifying stages at the main institute.**
+> **This keeps "Esperanza-trained" meaning something** — the national alumni network survives intact — while
+> distributing load and shortening most journeys.
+
+## ⭐⭐ Rolling graduation, and the closed window
+
+**Annual cohorts would mean a city that loses staff waits up to a year for anyone.** **Training runs
+continuously, with staggered intake and rolling graduation**, so replacements arrive as a steady trickle
+rather than an annual delivery.
+
+**But in Tepenia that is not merely an efficiency — transport windows are seasonal.** Sea access closes, roads
+shut, polar night falls. **Intake and graduation cannot happen when convenient; they happen when travel is
+possible.**
+
+> ## **You go to Esperanza and you do not come home for four years.**
+> **Not by policy — because you cannot.** The corridor is shut, the ice is in, the window has closed.
+
+**This makes the institutes residential in a far stronger sense than a university — closer to a ship's company
+or a monastery.** A cohort arrives together, lives together for the duration, and leaves together.
+
+> **⭐ Which explains why "Esperanza-trained" functions as a national bond rather than a line on a résumé.**
+> **These are not schools people attend. They are places people are FROM, for a while.**
+
+---
+
+# ⏸️ FOR FUTURE REVIEW — where the satellite campuses actually go
+
+**Flagged 2026-09-01 at the developer's direction. NOT decided.**
+
+**The structure is settled** *(feeders into the three main institutes)*; **the siting is not.** Questions a
+later pass will need to answer:
+
+- **How many, and at what level?** One per subnet? One per institute per subnet? A single shared foundational
+  campus per region serving all three disciplines?
+- **⭐ Which cities host them** — and on what basis. Candidates suggest themselves from existing canon:
+  **Shirayuki** *(the second education-export city, educ 20% against a 2.0% own need)*, **Mawson** and
+  **Casey** *(subnet hubs)*, **Lazar** *(the largest city, and the Halley subnet's centre of population)*.
+- **Do the three disciplines co-locate or separate?** A shared satellite is cheaper; separate ones preserve
+  the distinct traditions the main institutes are built on.
+- **⚠ Does a satellite dilute the bond?** If foundational training happens locally, the cohort-forged identity
+  described above weakens. **The resilience argument and the identity argument pull against each other**, and
+  the siting decision is where that trade-off gets made.
+- **The plateau problem.** Vostok, Kunlun and Dome Fuji are the cities least able to send students and least
+  able to host a campus. **They may simply be permanently dependent — which is a fact worth using rather than
+  solving.**
 
 ---
 
