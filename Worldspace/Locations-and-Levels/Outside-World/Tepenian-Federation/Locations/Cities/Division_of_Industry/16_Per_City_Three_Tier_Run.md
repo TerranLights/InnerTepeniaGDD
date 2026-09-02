@@ -402,7 +402,15 @@ already held the South America corridor at 60% and Sejong risked duplicating it.
 
 > ## ⭐⭐ **They divide by MODE and by DIRECTION, not by territory.**
 > **Marambio moves CARGO BY SEA into the country and PEOPLE BY AIR around it.**
-> **Sejong is where people and goods ENTER TEPENIA AT ALL.**
+> **Sejong is where PEOPLE enter Tepenia, and where the Border & Customs AUTHORITY is seated.**
+>
+> **⚠ CORRECTED 2026-09-02, during Sejong's own determination.** This line originally read *"Sejong is
+> where people and goods ENTER TEPENIA AT ALL"* — **which contradicted the table directly above it**, where
+> Marambio *"moves CARGO BY SEA into the country."* **Bulk cargo — phosphate rock above all, which is heavy,
+> cheap, and never flies — enters by sea at Marambio; Sanay and Belgrano take the Africa freight. Machu
+> Picchu is an AIR gateway.** The resulting structure is better than the error: **Sejong holds the
+> institution, the ports hold the inspection points.** *(The mandate survives; the phosphate-inspection
+> argument used to upgrade it does not apply as written.)*
 
 ### ⭐ And that makes Sejong's mandate stronger, not weaker
 
@@ -991,6 +999,70 @@ wildlife work and long-term monitoring are also genuine pure science.
 
 ---
 
+## 9. ✅ SEJONG — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.15, **GROWER** — rock-founded island, food term 100%)* | 191,522 | **39.4%** |
+| **Mandated** | 73,741 | **15.2%** |
+| **FREE — the character budget** | 221,224 | **45.5%** |
+
+**Distinctive tier: 294,966 (60.6%).** Canon §15 *(2026-07-04)*: Commercial/trade 25% · Technical/scientific
+20% · Diplomatic/inter-community coordination 15% · Marine/resource extraction 15% · Education 15% ·
+Other 10%.
+
+### The mandate
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **25%** | 73,741 | **Commercial/trade — the international air gateway** | ✅ Canon §15 *"leveraging King George Island's accessibility"* + the gateway ruling **as corrected above** |
+
+### ⭐ Why the diplomatic sector was NOT added — the sharpest sector call in the pass so far
+
+A port of entry needs immigration and foreign-arrival handling, which **is diplomatic work by nature**, and
+Sejong has a 15% sector literally called *Diplomatic*. **It was still declined, and the reason is a
+three-step distinction now established across the pass:**
+
+| City | Sector state | Disposition |
+|---|---|---|
+| **Troll** | **Unannotated** | **Declined** — no positive evidence to split on |
+| **Princess Elisabeth** | Annotated, naming **two** things *(one local, one national)* | **Split** — reading the annotation, not assuming past it |
+| **Sejong** | Annotated, naming **one** thing, and it **points internally** | **Declined** — taking it would **override a stated annotation** |
+
+**Canon's annotation:** *"inter-community coordination — a genuinely unique sector given the island's
+density."* **That is the Korean, Argentine, Brazilian, Chilean, Polish, Russian, Czech and Uruguayan
+communities sharing one island** — internal, not international. **Overriding it would be a step beyond
+anything ruled so far.**
+
+> **Developer, ruling A, 2026-09-02:** ***"The 'diplomatic' side happens via Machu Picchu Airport."***
+
+### ⚠ The §15 predates the gateway ruling by two months
+
+**Sejong's §15 is from the 2026-07-04 vision session. The international-gateway ruling is 2026-09-02.** The
+§15 was therefore written **without the border function in it** — and contains **no customs, immigration, or
+border line anywhere.**
+
+**This is the SECOND instance of the Sanay pattern:** a city holding national infrastructure its §15 has no
+sector for. Register item 6.
+
+### Notes
+
+- **Technical/scientific 20% — *"inherited KOPRI research tradition."*** Local heritage research, nothing
+  marking it load-bearing. **FREE.**
+- **Marine/resource extraction 15% — unannotated, but Sejong is COASTAL.** Register item 5's inland-
+  extraction pattern **does not apply here**, and `04` §3 names **Juan Carlos** the South Shetlands fishing
+  provider, not Sejong. **FREE.**
+- **⚠ DATA INTEGRITY — education 15% deliberately excluded from all reasoning.** Sejong's robot-culture file
+  carries a **live, only-partially-fixed canon bug**: the invalidated "Korean dilution" premise still stands
+  in three files, including an entire Course of Events chain, and the stale material attaches
+  Hangul-literacy content to **exactly this sector.** **The determination was built without touching it
+  rather than risk reasoning from contaminated content.**
+- **⏸️ Still open from the gateway ruling:** whether **Juan Carlos** shares the border function — the
+  developer's own map places Machu Picchu's marker at Juan Carlos's label, same airport. **Unaffected by
+  this determination**; Sejong's 25% would stand either way, but Juan Carlos's own entry must resolve it.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -1002,3 +1074,5 @@ wildlife work and long-term monitoring are also genuine pure science.
 | 3 | **Troll** | **Set to Option A — logistics 30% only. Mandate 16.7%, free 38.9%** | Rerun as **Option B (+ half of Industrial/manufacturing = 37.5% of distinctive → mandate 20.8%, free 34.7%)** and see what it does to the national numbers. **A was chosen because Troll's §15 says only "Industrial / manufacturing," unannotated** — unlike Sanay's, which literally reads `Industrial/manufacturing (repair)`. Taking half would assume a sector's content to match precedent rather than read it. **The case for B:** air freight is maintenance-hungry and a 3,000 m blue-ice runway needs constant grooming — though that work more likely already sits inside the 30% canon calls *"airfield operations and control"* |
 | 4 | **Princess Elisabeth** | **A vignette says the city *"was never self-sufficient in food/materials, only energy"* — contradicting its GROWER classification** | Vignettes are not canon, so f=1.00 stands. But if ever promoted, baseline drops **43.7% → 33.7%** and distinctive rises to **66.3%** — a 10-point swing. Possible reconciliation *(not asserted)*: PE's **outdoor** tier is genuinely zero *(300 km/h winds)*, which the vignette may be describing rather than indoor growing |
 | 5 | **Method — inland "Marine / resource extraction"** | **Second instance** *(Troll, Princess Elisabeth)* of an unannotated compound marine label at a city far inland and high up | Whether the **extraction** half is the intended read at inland nunatak cities generally. Watch for further instances as the pass continues; if the pattern holds across subnets it is worth one consolidated ruling rather than per-city judgment |
+| 6 | **Sejong** | **Its §15 has no customs/immigration/border line, yet it hosts the Machu Picchu Border & Customs Authority** | **Second instance of the Sanay pattern** *(national infrastructure with no §15 sector)*. Here the cause is datable: **the §15 is from 2026-07-04, the gateway ruling from 2026-09-02.** Whether Sejong's §15 needs a border line added, or the function is considered folded into Commercial/trade 25%. **Mandate held at 25% either way** |
+| 7 | **National — deferred by developer** | **Where a neutral zone of international diplomacy would be situated** | ⏸️ **Parked deliberately, 2026-09-02: *"I actually hadn't previously thought about where a 'neutral zone' of international diplomacy could be situated, but that's a problem for the future."*** Raised by Sejong's border role. **NOT to be closed opportunistically** — it is a real open design question, not an oversight |
