@@ -1981,6 +1981,83 @@ that a city still needs people doing other things.**
 
 ---
 
+## 19. ✅ DAVIS — DETERMINED *(⚠ Option B, flagged for post-pass review)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Vestfold Hills, the largest ice-free coastal oasis in Antarctica, ~400 km²)* | 357,063 | **40.7%** |
+| **Mandated** | 246,740 | **28.2%** |
+| **FREE — the character budget** | 272,712 | **31.1%** |
+
+**Distinctive tier: 519,452 (59.3%).** Canon §15 *(developer vision 2026-07-05, revised 2026-07-16)*:
+Agricultural/food production ~35% · Technical/scientific ~25% · Maritime ~15% · Commercial ~15% ·
+Industrial ~5% · Other ~5%.
+
+### The mandate *(developer ruling B, 2026-09-02 — provisional, see review flag)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **35%** | 181,808 | **Agricultural/food production — FULL** | ✅ `04` §3: *"FOOD — agriculture 35% — 'the breadbasket,' **explicitly national**"* |
+| **12.5%** | 64,932 | **Technical/scientific — HALF** | The Signy precedent, applied on land — see below |
+| **47.5%** | **246,740** | | |
+
+### ⭐ The research half — the Signy precedent applied on land
+
+**§15: *"Technical/scientific: ~25% — environmental, ecological, and limnological research — the founding
+research heritage, now a CO-EQUAL PILLAR ALONGSIDE AGRICULTURE rather than a shrinking minority."***
+
+**Everywhere else in this pass, *"founding research heritage"* has marked a sector FREE** — Troll's Polar
+Institute, Sejong's KOPRI, Rothera's BAS, Sinheung's AARI. **This annotation does not stop there.** It names
+a **second** thing — *co-equal pillar alongside agriculture* — **explicitly tying the research to the
+mandated sector.**
+
+> **The developer already ruled this exact shape at Signy** *(§8)*: half its biological/ecological research
+> mandated, because ***the fishery is capped and somebody has to know where the cap is.***
+>
+> ### **Davis is the same argument on land, and stronger.**
+> **This session's entire food rebuild is agricultural science, and Davis is where it would be done:** the
+> **1,500 km² terraformed belt** *(`12`)*, **engineering *Deschampsia antarctica*** and the **imported-grass
+> comparators the developer ruled on**, the **fungi tier**, the **livestock tier** *(`11`)*. **The Breadbasket
+> is not only where the food grows — it is where the growing is figured out.**
+
+**HALF, not full**, because the annotation genuinely names both a local heritage and a national pillar — the
+**Princess Elisabeth split**, applied to a sector where **both halves are real.**
+
+### What stays FREE
+
+- **Maritime 15%** *(Prydz Bay, fjord access)* — **considered for the mandate and rejected.** Davis's produce
+  must reach the country, but **Davis sits on the `Hwy 110` (Coastal Cut Highway) main line** between
+  Zhongshan and Mirny *(`Highways.md` L195, L197)*, so **unlike Signy it is not dependent on its own
+  shipping** — and the cluster's output moves **by road and air** per the 2026-09-02 ruling at Zhongshan.
+- **Commercial 15%** — *"bars, eateries, social establishments."* Local amenity. **⭐ Worth pairing with the
+  robot-culture finding that Davis has NO drinking-culture institution at all** — *"a genuine muted absence…
+  consistent with the 'let the work speak' ethos."* **The bars exist; the culture around them does not.**
+- **Industrial 5%** *(non-mining, general)* — **the mining/quarrying role was reassigned to Mirny, 2026-07-16**,
+  to resolve a direct conflict with the breadbasket identity.
+- **Other 5%**, including *"a small but genuine arts/music community."*
+
+### ⚠⚠ REGISTER ITEM 11 IS LIVE IN THIS CITY'S OWN PUBLISHED NUMBERS
+
+**`04` §3 states: *"Davis alone: 306,780 producers ÷ 15,623,523 = 1 per 51."*** That is **35% of the WHOLE
+WORKFORCE.** **`16`'s convention gives 181,808** — 35% of *distinctive*.
+
+> **Same sector, same city, 124,972 workers apart — and `04` built a memorable national ratio on the larger
+> figure.** **The clearest instance yet of why the denominator must be settled in the end-of-pass re-run.**
+
+### Notes
+
+- **⭐⭐ Geology is the whole story here.** The **Vestfold Hills are the largest ice-free coastal oasis in
+  Antarctica (~400 km²)** — Davis *"can grow, and grows more than anyone."* **No other Tepenian city has this
+  ground.**
+- **Named for John King Davis, a ship's captain** — *"a navigator and enabler, not a flag-planter."*
+  **Explicitly NOT a Tepenian Saint** *(Saints are pre-2083 explorers, not supporting mariners)*.
+- **⭐ Kinship is collective research credit, not teaching lineage** — a founding-era decision to decline solo
+  credit set the norm. **A robot's "family" is whoever she shares discovery-credit with.** *(Sits directly on
+  top of the half-mandated research sector.)*
+- **Human-majority reversal** — 437,423 H / 344,173 R at Census II, rare in this corpus.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -2000,3 +2077,4 @@ that a city still needs people doing other things.**
 | 11 | **⚠⚠ METHOD — ALL CITIES** | **The DoI files disagree on what §15 percentages are a percentage OF** | **`16` applies them to the DISTINCTIVE tier; `04` and `National_Medical_and_Care_Institutes.md` apply them to the WHOLE WORKFORCE.** Esperanza education 25%: **211,198 vs 350,155** — 139,000 workers apart. `04` does it too *(Signy "fishing 30% → 42,638" is 30% of whole workforce)*. **NOT resolved mid-pass by deliberate choice** — re-picking the denominator now would invalidate every determination **and** the national balance. **Resolve together with the ABCC re-run; both are mechanical re-runs of the same table.** All determinations continue on `16`'s convention so they stay mutually consistent |
 | 12 | **Belgrano — deferred by developer** | **The Belgrano Institute of Medicine's classification** | ⏸️ **Parked 2026-09-02: *"I'm sure there's a better way to classify the Belgrano Institute of Medicine."*** Currently absorbed into the **Aviation/logistics 35%** mandate on the grounds that medevac is an aviation function and the school is downstream of the flight line. **Revisit AFTER the full-country run**, not before — and note the ruling above stands: it is not a case for a separate §15 sector |
 | 13 | **Port Lockroy — stale TBD** | **Its post office is recorded as an open question in 3 files, but the question is resolved** | `Specs/Port_Lockroy.md` **L112, L134** and `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` **L248** all say *"functioning institution or heritage artifact — TBD."* **Both the Vision Notes and the Calethina courier lore (Specs L105) settle it as a genuine, active civic institution.** A resolution that never propagated. **Deferred with the other culture-file corrections until after this pass** |
+| 14 | **Davis** | **Set to Option B — agriculture 35% + HALF technical/scientific 12.5%. Mandate 28.2%, free 31.1%** | ⏸️ **Marked for review after all cities are determined**, per developer direction — *"just in case we need to figure on adjusting stats in some cities."* **Alternatives precomputed:** **A** *(agriculture only)* mandate 20.7% / free 38.5% · **C** *(+ full technical)* mandate 35.6% / free 23.7% · **D** *(B + half maritime)* mandate 32.6% / free 26.7%. **The half-technical rests on the Signy precedent** — a capped national resource needs someone who knows its limits — **applied on land to the Breadbasket** |
