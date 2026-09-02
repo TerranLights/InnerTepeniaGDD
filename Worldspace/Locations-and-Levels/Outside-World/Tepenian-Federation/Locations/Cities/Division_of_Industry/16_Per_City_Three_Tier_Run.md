@@ -1586,6 +1586,67 @@ budget is work with no relationship to Upper Earth at all.**
 
 ---
 
+## 14. ✅ PORT LOCKROY — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Goudier/Wiencke I., rock-founded, food term 100%)* | 39,879 | **41.0%** |
+| **Mandated** | 2,867 | **2.9%** |
+| **FREE — the character budget** | 54,472 | **56.0%** |
+
+**Distinctive tier: 57,339 (59.0%).** Canon §15: Maritime trade 30% · Heritage/cultural preservation 25% ·
+Commercial/small trade 20% · Technical/maintenance 15% · Other 10%.
+
+### The mandate
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **5%** | 2,867 | **The courier node** — the Peninsula corridor's postal/parcel/archive transit point | ⚠ Vision Notes + ✅ Specs L105. **Developer ruling A, 2026-09-02** |
+
+### The courier function is better established than the estimate that priced it
+
+**Half B set 5% and rated it "✅ Solid." The rating was generous — but the FUNCTION is real, confirmed twice
+and independently:**
+
+| Source | Evidence |
+|---|---|
+| ⚠ **Vision Notes** *(developer-approved 250-year arc)* | ***"Rothera moves the materials; Port Lockroy moves the words"*** — correspondence, small parcels and **historical archive shipments** along the Peninsula corridor, *"fully functioning"* by the late Second Interwar |
+| ✅ **`Specs/Port_Lockroy.md` L105** *(unmarked background lore, 2026-07-16)* | *"Port Lockroy's own **courier network-node** handled shipping for what became **Calethina**, Concordia's own activation-lab hologram."* **A named companion's components moved through this city.** |
+
+### ⭐ Why 5% is right — the baseline already draws the line
+
+**Baseline carries `D1 Transport & logistics` at 19 per 1,000 residents — every city's OWN local delivery.**
+**Port Lockroy's mandate is therefore ONLY the inter-city node**: sorting and moving *between* cities, never
+last-mile delivery anywhere. **A node is a small operation even when the network it serves is large.**
+
+**For scale:** a full courier service across the Palmer subnet's **~4.13 M people** *(7 known cities, Rothera
+excluded)* would run **4,100–6,200 workers** at real-world rates — **but almost all of that is local delivery
+already sitting inside seven cities' baselines.** **2,867 for the node itself is proportionate.**
+
+### What stays FREE, and why
+
+- **Maritime trade 30%** — annotated *"leveraging the harbor's natural shelter."* **The city profiting from
+  its geography** *(the Princess Elisabeth distinction)*. Port Lockroy also has **ramp access to Hwy 1**
+  *(`Highways.md` L74, L79)* and is **not a food provider**, so nothing forces its shipping to be national
+  work the way Signy's roadlessness does.
+- **⭐ Heritage/cultural preservation 25%** — *"a genuine civic function inherited from the museum era."*
+  **Same call as Palmer City's arts: identity, not provider work.** It is a very large sector for a city of
+  128,887 — **and it should be.** Custodianship of **Tepenia's oldest standing structures** *(the 1944
+  Operation Tabarin buildings, incorporated into the growing city and never demolished — a genuine
+  architectural palimpsest)* **is what this city IS.**
+
+### ⚠ A resolved question still marked TBD in three places — register item 13
+
+**`Specs/Port_Lockroy.md` L112 and L134, and `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` L248, all still
+read:** *"whether the city maintained a post office as a functioning institution or a heritage artifact is
+**TBD**."*
+
+**It is not TBD.** Both the Vision Notes and the Calethina shipping lore settle it as **a genuine, active
+civic institution.** **The resolution never propagated.** *(Not fixed here — culture-file corrections are
+deferred until after the division-of-industry pass, consistent with the Sejong handling.)*
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -1604,3 +1665,4 @@ budget is work with no relationship to Upper Earth at all.**
 | 10 | **Juan Carlos** | **When did the federal archive relocate to Amundsen Station?** | Canon says it moved *"later,"* and that the strike came *"even after the bulk archive had moved"* — **but the Second Interwar runs 248 years and no date is given.** Whether the 10% archive mandate describes the whole period or only its earlier stretch |
 | 11 | **⚠⚠ METHOD — ALL CITIES** | **The DoI files disagree on what §15 percentages are a percentage OF** | **`16` applies them to the DISTINCTIVE tier; `04` and `National_Medical_and_Care_Institutes.md` apply them to the WHOLE WORKFORCE.** Esperanza education 25%: **211,198 vs 350,155** — 139,000 workers apart. `04` does it too *(Signy "fishing 30% → 42,638" is 30% of whole workforce)*. **NOT resolved mid-pass by deliberate choice** — re-picking the denominator now would invalidate every determination **and** the national balance. **Resolve together with the ABCC re-run; both are mechanical re-runs of the same table.** All determinations continue on `16`'s convention so they stay mutually consistent |
 | 12 | **Belgrano — deferred by developer** | **The Belgrano Institute of Medicine's classification** | ⏸️ **Parked 2026-09-02: *"I'm sure there's a better way to classify the Belgrano Institute of Medicine."*** Currently absorbed into the **Aviation/logistics 35%** mandate on the grounds that medevac is an aviation function and the school is downstream of the flight line. **Revisit AFTER the full-country run**, not before — and note the ruling above stands: it is not a case for a separate §15 sector |
+| 13 | **Port Lockroy — stale TBD** | **Its post office is recorded as an open question in 3 files, but the question is resolved** | `Specs/Port_Lockroy.md` **L112, L134** and `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` **L248** all say *"functioning institution or heritage artifact — TBD."* **Both the Vision Notes and the Calethina courier lore (Specs L105) settle it as a genuine, active civic institution.** A resolution that never propagated. **Deferred with the other culture-file corrections until after this pass** |
