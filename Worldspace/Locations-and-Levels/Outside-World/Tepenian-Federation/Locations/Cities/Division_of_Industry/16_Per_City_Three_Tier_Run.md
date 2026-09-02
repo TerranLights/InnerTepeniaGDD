@@ -671,6 +671,61 @@ only be answered once every city's supply and obligation is on the table.
 
 ---
 
+## 5. ✅ SANAY — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100%)* | 154,715 | **44.5%** |
+| **Mandated** | 140,045 | **40.3%** |
+| **FREE — the character budget** | 53,121 | **15.3%** |
+
+**Distinctive tier: 193,166 (55.5%).** Canon §15 *(rewritten 2026-07-04 per developer vision)*:
+Port/shipyard 30% · Trucking/logistics 20% · Warehousing/import-export 15% · Industrial/manufacturing
+(repair) 15% · Technical/scientific 10% · Other 10%.
+
+### The mandate, itemized
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **30%** | 57,950 | **Port/shipyard** — one of the two South Africa receiving ports | ✅ Canon §15 + subnet-level canon *(with Belgrano, interchangeable by open passage)* |
+| **20%** | 38,633 | **Trucking/logistics** — onward national distribution, and the Sanay Corridor | ✅ Canon §15. *"Keeps a share → trucks the rest onward via Hwy 7, including to Troll for air distribution"* |
+| **15%** | 28,975 | **Warehousing/import-export** — ⭐ **NEW this pass** | Same import chain as the two above. See below |
+| **7.5%** | 14,487 | **Half of Industrial/manufacturing (repair)** — keeping freighters, trucks and the corridor running | ✅ Developer ruling, 2026-09-02 |
+| **72.5%** | **140,045** | | |
+
+**Technical/scientific 10%, Other 10% and the remaining half of repair stay FREE.**
+
+### ⭐ Why warehousing was added
+
+**`16`'s Half B counted port 30% + trucking 20% and stopped.** But goods land at the Port of Sanay, are
+**stored and sorted**, then trucked onward. **Port, warehouse and truck are not three functions — they are
+three stages of one national import operation.**
+
+> **65% of Sanay's §15 is import-chain work before any judgment call is made at all.**
+
+### ⚠ A structural gap found, not resolved
+
+**Canon states Sanay *"HOSTS THE SUBNET'S ACTUAL ARCANET RELAY NEXUS — semi-distributed across the upper
+clifftops."* That is national infrastructure. Its §15 has NO Arcanet sector.**
+
+Compare Mirny, whose §15 carries an explicit `Communications/Arcanet ~20%` for its own subnet-hub role.
+**Either Sanay's nexus staff sit inside Technical/scientific 10%, or the §15 is missing a line for
+infrastructure canon says the city holds.**
+
+**Technical/scientific 10% is left FREE here** rather than assuming it contains the nexus — **assigning it
+would be inventing a sector allocation canon does not state.** Added to the review register below.
+
+### Notes
+
+- **The port is geographically disjoint.** Vesleskarvet sits ~200 km inland; the Port of Sanay is a coastal
+  facility joined by **the Sanay Corridor** *(Athens/Piraeus model, `[CGRM 2026-09-01 · Path 6]`)*. **A
+  substantial share of the mandated trucking sector runs Sanay's own internal corridor**, not only national
+  onward distribution.
+- Canon: *"Major port/logistics hub, not primarily a city of huge population."*
+- `05`'s Halley-subnet commuter mechanism draws on Sanay's spare capacity alongside Belgrano.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -678,3 +733,4 @@ only be answered once every city's supply and obligation is on the table.
 | # | City | Held item | What the review tests |
 |---|---|---|---|
 | 1 | **{{Abowasa}}** | Commuter-labor mandate held at 10% of distinctive *(5.4% of workforce)* | Whether a city with **no food debt** should carry a commuter export at all — and what cutting it does to the Halley subnet's supply picture and the national balance |
+| 2 | **Sanay** | **Its §15 has no Arcanet sector, yet canon says it hosts the subnet's Arcanet relay nexus** | Whether the nexus staff sit inside Technical/scientific 10% *(currently left FREE)*, or whether Sanay's §15 needs an Arcanet line added. Compare Mirny's explicit `Communications/Arcanet ~20%` |
