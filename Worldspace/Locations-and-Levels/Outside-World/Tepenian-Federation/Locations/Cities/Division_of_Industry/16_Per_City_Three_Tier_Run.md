@@ -1063,6 +1063,133 @@ sector for. Register item 6.
 
 ---
 
+## 10. ✅ JUAN CARLOS — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.15, **GROWER** — rock-founded island, food term 100%)* | 114,813 | **39.3%** |
+| **Mandated** | 70,803 | **24.3%** |
+| **FREE — the character budget** | 106,205 | **36.4%** |
+
+**Distinctive tier: 177,008 (60.7%).** Canon §15: Maritime/fishing 30% · Commercial/trade 20% ·
+Technical/scientific 20% · Cultural/social institutions 15% · Other 15%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **30%** | 53,102 | **Maritime/fishing** — national food provider | ✅ `04` §3 + §15 *"leveraging Livingston Island's coastal access"* |
+| **10%** | 17,701 | **Half of Commercial/trade — the federal immigration archive and processing** | ✅ Canon national role; **sector inferred** *(see below)* |
+| **40%** | **70,803** | | |
+
+### ⭐⭐ The open border question answered itself — and a THREE-CITY SYSTEM fell out
+
+The question carried into this entry was *"does Juan Carlos share Sejong's border function?"* **Canon answers
+it, and more precisely than the question was posed.** Juan Carlos is *"Tepenia's first bureaucratic archive —
+the original home of Federation immigration/customs records, **directly tied to the Machu Picchu Border &
+Customs Authority.** Non-immigrant visitors routed to a separate corridor/sealiner to **Palmer City**."*
+
+> ### **They do not share one function. They hold three stages of one system.**
+
+| City | Stage |
+|---|---|
+| **Sejong** | The arrival point, and the seat of the Authority |
+| **Juan Carlos** | **Immigration processing and the records archive** |
+| **Palmer City** | Where **non-immigrant** visitors are routed onward |
+
+**And it explains the destruction.** Upper Earth targeted Juan Carlos *specifically* for records tracking
+former Upper Earth officials among the exiles — ***"even after the bulk archive had moved."*** The same
+archive is the **direct historical origin of the Amundsen Station archive DLC 1 is built on.**
+
+**⚠ Sector inferred, and the Troll rule is not broken.** Commercial/trade 20% is the only **unannotated**
+sector besides Other; Technical/scientific and Cultural/social both carry explicit *local* annotations.
+**Troll's refusal was "unannotated AND no positive evidence to split on." Here canon states the national
+function exists** — only its sector is open. **Half rather than full: an island city with no highway still
+needs ordinary commerce.**
+
+### ⏸️ A timing ambiguity, flagged not decided
+
+Canon says the archive *"later relocated and consolidated into Amundsen Station's"* archive, and that the
+strike came *"even after the bulk archive had moved."* **The Second Interwar runs 248 years — the move
+happened somewhere inside our own scope window, and no date is given.** Whether this mandate describes the
+whole period or only its earlier stretch is **genuinely open.** Register item 10.
+
+---
+
+# ⭐⭐⭐ STRUCTURAL FINDING — WHERE ADMINISTRATION LIVES
+
+**Raised by the developer, 2026-09-02:** *"I'm assuming that Administration/Bureaucracy gets its own
+sector?"* **Checked empirically across all 37 cities' §15 blocks — ~85 distinct sector labels.**
+
+## 1. No city has one. Not even the capital.
+
+**There is NO Administration, Government, Bureaucracy, or Civic sector anywhere in the national §15
+vocabulary.** The sole exception is **Esperanza — *"Other / administrative (birth registry and related civic
+institutions): ~10%"*** — and that is a **sub-label of Other**, not a sector.
+
+> **⚠ `Fort McMurdo` is the NATIONAL CAPITAL. Its §15 reads: Industrial 35% · Marine 25% · Technical 15% ·
+> Commercial 10% · Education 8% · Other 7%. The capital of the Tepenian Federation records ZERO governmental
+> employment.**
+
+## 2. But the model already handles it — in the BASELINE, not §15.
+
+**`09` §1 puts administration in the resident-keyed baseline term**, and it is the largest component there:
+
+| Difficulty-**immune** component | Rate per 1,000 residents |
+|---|--:|
+| **C3 Administration** | **65** |
+| C8 Finance & allocation | 15 |
+| D4 Computing & data | 8 |
+| C6 Legal & justice | 5 |
+| C7 Community & social | 4 |
+| *(remaining: retail, trade training, communications)* | 16.2 |
+| **Total = the 113.2 constant** | **113.2** |
+
+**C3 alone is 57% of the entire difficulty-immune baseline term.** **Administration is not missing from the
+model. It was never in the §15s because the model put it in baseline** — where it scales with population, as
+the administration a city needs *for itself.*
+
+## 3. So the real gap is narrower, and precisely stated
+
+| Scale | Modeled? |
+|---|---|
+| **Local administration** — what a city needs to run itself | ✅ **Baseline, C3 at 65/1,000 residents** |
+| **National administration concentrated in one city** — capital functions, the Border & Customs Authority, the federal archive | ❌ **NOT MODELED. This is the gap.** |
+
+**C3 is a per-capita rate. It cannot represent a function a city performs for the whole country**, because
+that work does not scale with the host city's own population.
+
+## 4. ⚠ And adding a generic admin sector to every §15 would be actively harmful
+
+**`09` §1 already warns, in its own words:**
+
+> ***"The affected/immune split has shifted from 50/50 to 36/64. Administration plus four indoor industries
+> made the baseline substantially difficulty-immune — which compresses inter-city differentiation. MORE
+> ADMINISTRATION MAKES TEPENIAN CITIES LOOK MORE ALIKE."***
+
+**Administration is difficulty-immune, so every unit of it added uniformly flattens the very differentiation
+this whole project exists to protect.** *(Compare `CLAUDE.md`'s standing guard against thirteen districts
+quietly converging.)*
+
+## 5. Recommendation
+
+**Do NOT add an Administration sector to the §15s.** Instead:
+
+1. **Local administration stays in baseline.** Already correct, already sized, already the largest immune
+   component.
+2. **National administrative concentration is handled as a MANDATE, city by city** — which is exactly what
+   has been done at Sejong *(border authority)* and Juan Carlos *(federal archive)*, and at Sanay *(Arcanet
+   nexus)*.
+3. **⚠ Fort McMurdo needs one and does not have one.** Its current 35.1% mandate is **entirely industrial**.
+   **The seat of national government is, in the model as it stands, a mining and manufacturing town that
+   happens to be the capital.** Register item 9 — **to be resolved when its own entry comes up, not now.**
+
+**This reframes the three §15 gaps found so far.** Sanay, Sejong and Juan Carlos are not three separate
+oversights: **the §15s describe LOCAL economies, and national functions systematically fell through — because
+the vocabulary those breakdowns were written in has no word for them.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -1077,3 +1204,5 @@ sector for. Register item 6.
 | 6 | **Sejong** | **Its §15 has no customs/immigration/border line, yet it hosts the Machu Picchu Border & Customs Authority** | **Second instance of the Sanay pattern** *(national infrastructure with no §15 sector)*. Here the cause is datable: **the §15 is from 2026-07-04, the gateway ruling from 2026-09-02.** Whether Sejong's §15 needs a border line added, or the function is considered folded into Commercial/trade 25%. **Mandate held at 25% either way** |
 | 7 | **National — deferred by developer** | **Where a neutral zone of international diplomacy would be situated** | ⏸️ **Parked deliberately, 2026-09-02: *"I actually hadn't previously thought about where a 'neutral zone' of international diplomacy could be situated, but that's a problem for the future."*** Raised by Sejong's border role. **NOT to be closed opportunistically** — it is a real open design question, not an oversight |
 | 8 | **Sejong — canon bug, deferred** | **The Hangul-literacy / Korean-dilution premise: the 2026-08-02 fix was incomplete, 3 files still stale, 17 more unaudited** | ⏸️ **Deferred by developer 2026-09-02 until per-city DoI is finished** — *"that's really more relevant to the per-city culture than anything else."* **Not a DoI input; Sejong's determination was built without touching the education sector where the stale material attaches.** Full detail and the 3 file paths now recorded in `TODO.md`'s existing Sejong section — **⚠ read for the premise, do not grep-and-delete "Hangul," which is still valid canon** |
+| 9 | **⭐ Fort McMurdo — THE CAPITAL** | **Its §15 records zero governmental employment; its 35.1% mandate is entirely industrial** | **The seat of national government is modeled as a mining town that happens to be the capital.** Per the structural finding above, national administrative concentration must be a **mandate**, not a §15 sector — so Fort McMurdo needs one. **Resolve at its own entry, not before** |
+| 10 | **Juan Carlos** | **When did the federal archive relocate to Amundsen Station?** | Canon says it moved *"later,"* and that the strike came *"even after the bulk archive had moved"* — **but the Second Interwar runs 248 years and no date is given.** Whether the 10% archive mandate describes the whole period or only its earlier stretch |
