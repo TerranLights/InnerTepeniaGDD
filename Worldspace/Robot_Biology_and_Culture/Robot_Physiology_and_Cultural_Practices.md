@@ -20,6 +20,41 @@ They do not age in the biological sense, though components degrade over time and
 
 The threatening thing, for a robot, is never damage to function — a robot can always adapt, retrain, or find new purpose, since the gel brain itself is malleable rather than fixed. What actually constitutes death, from a robot's own perspective, is **irreversible damage to a robot's cognitive architecture (the gel brain) or to their energy-source architecture** — the robot equivalent of a heart, i.e. whatever physically supplies their Engine power (see above) — **with no way of ever bringing the robot back online.** Short of that threshold, however severe, it's architecture or integrity damage, not death. (See Calethina's own established corruption from the Split Brain event for a worked example of serious, ongoing architecture damage that has not — yet — crossed into this threshold; her own struggle over whether to attempt a substrate transfer is precisely the live question of whether it can be addressed before it does.)
 
+### What Happens After — Ossuaries `[CGRM 2026-09-01 · Path 6 · developer ruling]`
+
+**One of the post-death possibilities is inclusion in an ossuary — where the bones are METAL rather than
+calcium.** *(One possibility among several, not the only disposition.)*
+
+**Why this fits what death already is for a robot, established above:**
+
+- **⭐ An ossuary is a COLLECTIVE form, and robot death is a collective event.** Robots do not die at a rate
+  the way humans do — there is no senescence and no background attrition. **They die when something kills
+  them**, which means they die in *incidents*: a dome breach, a collapse, a grid failure, a war. **Many at
+  once, or none for a long while.** A human graveyard is a field of individual plots accumulating one at a
+  time. **An ossuary is what you build when the dead arrive together.**
+- **It answers the permafrost problem.** Burial is impossible in Tepenia. Ossuaries are the historical
+  real-world answer wherever ground burial fails.
+- **⭐ And metal bones do not decay.** Human ossuaries hold remains that were once soft and are now reduced.
+  **A robot ossuary holds structure that will not change.** In a nation where nothing rots because nothing is
+  warm, **a robot ossuary is a permanent and permanently growing physical record of every robot that has died
+  in that place** — legible, countable, and never diminishing.
+
+> ### ⚠ The tension worth developing, not resolving here:
+> **In a closed continental economy, metal is scarce and recovery is a necessary industry** *(see
+> `Cities/Division_of_Industry/00_Necessary_Industries_Register.md` C4 — the alternative to recovery is not
+> landfill, it is doing without)*. **An ossuary is therefore a large, permanent, deliberately un-reclaimed
+> reserve of exactly the material the economy is short of.**
+>
+> **Is it sacred and untouchable, or is it a reserve of last resort?** A city that melted down its ossuary
+> during a hard winter is a different place from one that starved beside it. **Neither answer is settled.**
+
+**Related:** Polydimensional Animism already carries a **Robot Death Doctrine** and a **"Death as Change of
+Vantage"** doctrine (`Factions/Robot_Religions/Polydimensional_Animism/`) — **robot death is handled by
+religion and community rather than by a professional trade**, which is what episodic mortality would produce:
+you cannot sustain a profession on demand that vanishes for months at a time.
+
+---
+
 **Physical form, confirmed 2026-07-09** (during a Cymatics reverence development session — see `Factions/Robot_Religions/Cymatics_reverence/`): Tepenian robots do not have a "chassis" in the traditional hard-shelled sense. Their bodies are conceptually patterned on the film *Ex Machina* — extending the same visual reference already established for the fabrication chamber and the "glowy-blue" gel brain (see below) to the body as a whole, rather than introducing a new, separate physical design.
 
 **The brain itself — a specific, localized physical structure, not a diffuse or distributed system.** Robots have an actual brain, described and visually referenced as a "glowy-blue" nano-architecture gel brain, patterned on *Ex Machina*'s own synthesis-sequence aesthetic — the same reference point used for the fabrication chamber and for the body's own construction generally (see "Chamber generations/marks" under Notes and Open Questions, below, for the fuller Cradle-side context this detail originates from). This is a foundational physiology fact in its own right, not just chamber-manufacturing flavor: it means robot cognition has a concrete, localized physical substrate, the same structural category of thing a human brain is, rather than an abstracted "processing system" with no particular seat in the body.

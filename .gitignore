@@ -20,3 +20,11 @@ Repo_Text_Size_Log.md
 # The build plan is kept: it is the resume contract.
 graphify-out/*
 !graphify-out/BUILD_PLAN.md
+
+# Third-party copyrighted research PDFs — retained locally for reference, NOT redistributable.
+# Same reasoning as Reference/Materials/books/ above. The ASCE paper in here is explicitly stamped
+# "Copyright ASCE. For personal use only; all rights reserved." Cite the originals; don't ship them.
+# The folder's README.md IS tracked on purpose — it carries the extracted figures (the MCAA factor
+# values, the EPA staffing curve) and the register of sources located-but-not-obtained. Those are
+# our own notes, and they are the part a future session actually needs.
+Reference/Real-World/Industry_Staffing_and_Productivity/*.pdf

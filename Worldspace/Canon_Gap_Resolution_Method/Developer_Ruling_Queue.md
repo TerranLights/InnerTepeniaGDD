@@ -403,6 +403,38 @@ that order is plausible.
 
 **Not decided. Marked for exploration rather than ruling** — this may want a full pass rather than a verdict.
 
+### DRQ-06 — Are either humans or robots EXCLUDED from particular job roles?
+
+**Raised 2026-09-01. ⏸️ Explicitly open — the developer has stated they have not decided and currently have
+no view.** *"I honestly haven't figured that out yet. I currently have no idea."*
+
+> **⚠ BLOCKS NOTHING. Do not chase this to close it.** Industry *demand* is keyed to population and is
+> unaffected by who staffs the roles *(see `Cities/Division_of_Industry/08` §4.4)*. **The arithmetic runs
+> identically whichever way this lands.**
+
+**⭐ And the answer is probably not a single rule — it is a distribution.** Canon already establishes that
+cities differ sharply on exactly this axis: **Kunlun and Dome Fuji forbid humans outright.** So this may have
+**38 different answers rather than one** — **differentiation, not inconsistency** — resolving gradually, city
+by city, as culture work proceeds. **No central ruling is required, now or possibly ever.**
+
+**Where the question actually bites** *(everywhere else — power plants, water treatment, construction, admin —
+probably nobody has an opinion)*:
+
+- **⭐ The mirror pair the setting has already put on the table without resolving either:**
+  **(a)** The **Sinheung Institute** trains counselors *"whose discipline is a robot's inner life."* Somebody
+  provides intimate emotional care **to** robots — is that somebody a robot or a human?
+  **(b)** Its inverse: **robot maintenance is physically invasive** — opening a body, servicing internals.
+  **The robot equivalent of surgery.** Who is permitted to do that?
+- **Obstetrics and midwifery** — a robot delivering human infants.
+- **Childcare** — robots raising human children.
+- **Mortuary work** — robots handling human dead.
+
+**Relevant standing canon:** egalitarian human-robot relations skewed robot · Kunlun/Dome Fuji forbid humans ·
+robots have religions, arts, drinking culture, counselors and clothing · robot/human love is a stated project
+north-star. **Nothing in that set forbids either population from any trade; it simply has never been asked.**
+
+---
+
 ### 5e — What 43 years of dormancy did to the place
 
 **Now load-bearing rather than decorative:** hard access is what explains the emptiness, so the dormancy is no

@@ -162,6 +162,96 @@ Janbogo's established teahouse economy a natural export line onto the plateau.**
 
 ---
 
+## Session 4 — 2026-09-01, the volume-based method: source register for all 18 industries
+
+**Context:** developer specified a new method — research **volume per capita** per industry, then **labor per
+volume**, then +2% as the ceiling for a non-producing city. Full method:
+`../Division_of_Industry/08_Volume_Based_Requirement_Reference.md`.
+
+**Search strings, verbatim:**
+1. `water treatment plant staffing employees per million gallons per day capacity benchmark`
+2. `municipal water consumption liters per person per day average developed country residential`
+3. (WebFetch) `https://neiwpcc.org/.../NEIWPCC-Northeast-Staffing-Guide.pdf` — **image-based PDF, text
+   extraction FAILED.** File retained in `Reference/Real-World/Industry_Staffing_and_Productivity/`.
+4. `AWWA benchmarking "staffing levels per 1000 population served" water utility employees median` — **AWWA
+   figures paywalled.**
+5. `BLS number of water and wastewater treatment plant operators employed United States total employment`
+6. (WebFetch) `https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9100W7EU.TXT` — ✅ **EPA staffing curves obtained.**
+7. `NFPA 1710 firefighters per 1000 population staffing standard fire department benchmark`
+8. `WHO Global Health Workforce Statistics physicians nurses per 10000 population database`
+9. `UNESCO Institute for Statistics pupil-teacher ratio primary secondary database`
+10. `World Bank "What a Waste" municipal solid waste generation kg per capita per day global`
+11. `IFMA facility management staffing benchmark maintenance employees per 100,000 square feet`
+12. `OECD Government at a Glance public sector employment percentage of total employment by country`
+13. `residential floor area per capita square meters by country building stock statistics`
+14. `FAO food balance sheets kcal per capita per day kg food supply per person per year`
+15. `electricity consumption kWh per capita by country IEA plus power plant staffing employees per MW`
+16. `aircraft maintenance man-hours per flight hour MRO ratio fleet technicians per aircraft benchmark`
+17. `apparel textile consumption kg per capita per year clothing purchased average`
+18. `freight tonne-km per capita domestic transport employment percentage workforce logistics sector`
+19. `total health and social care employment percentage of workforce OECD countries doctors nurses per 1000`
+20. `controlled environment agriculture vertical farm labor workers per hectare greenhouse employment per m2`
+21. `Iceland Norway district heating electricity consumption per capita kWh residential heating cold climate`
+
+**⭐ Structural finding forced by the first industry:** labor has **three components** — plant *(scales with
+volume, sub-linearly: `staff ∝ MGD^0.65`)*, network *(scales with extent, linear)*, service *(scales with
+population)*. **A single "workers per unit volume" figure understates any networked industry ~8×.**
+
+**⚠ Failures and gaps recorded:** AWWA and RSMeans paywalled · NEIWPCC PDF unreadable · **B3 robot
+maintenance and B4 coolant/siligel have NO real-world analogue** *(best proxy: aviation MRO at 0.36
+man-hours per flight hour)*.
+
+---
+
+## Session 5 — 2026-09-01, the difficulty layer
+
+**Context:** demand alone produced a near-flat line — five cities within 0.1 points. **Difficulty was the
+layer with no external calibration; every prior multiplier had been reasoned, never measured.**
+
+**Search strings, verbatim:**
+1. `cold weather construction labor productivity loss percentage by temperature estimating factor NECA MCAA`
+2. `Nunavut Arctic construction cost multiplier compared to southern Canada per square meter remote premium`
+3. `MCAA productivity factor table severe weather percentage minor average severe 16 categories values`
+4. `CRREL cold regions construction cost factor Antarctic McMurdo logistics cost per pound delivered`
+5. `construction productivity loss percentage below freezing temperature study bricklaying concrete winter`
+6. `Antarctic research station construction cost per square meter Halley VI Princess Elisabeth budget`
+7. (WebFetch ×3) engineeringtoolbox / adroitprojectconsultants / wsscwater — **403 or table absent.**
+8. ⭐ (WebFetch → **local `pdftotext`**) `ibbsconsulting.com/.../Use-of-MCAA-Method-in-Loss-of-Productivity-
+   Claims.pdf` — **✅ THE FULL MCAA FACTOR TABLE, free.** The $495 publication was not needed.
+
+**Key figures obtained:** MCAA **weather 10/20/30 · logistics 10/25/50 · site access 5/12/30** *(percentage
+loss, applied additively)* · **Iqaluit construction 3× southern Canada** · **Halley VI $29,565/m² ≈ 10–20×
+temperate** · Nunavut sealift June–October, **some communities one delivery per year.**
+
+> **⚠ Self-correction recorded twice in this session.** (a) I called the old model's 7.28 driver product a
+> "scandal" against a 0.7–2.0 range **that I had invented**; the real-world ladder suggested it might be
+> defensible. (b) **Then the developer pointed out Halley VI's cost is mostly intercontinental shipping**,
+> which Tepenia does not pay — its supply is domestic, road-connected, 350–1,300 km. **That pulled the band
+> back to ~0.9–3.5× and made my reversal an over-correction.** Both are logged rather than silently amended.
+
+---
+
+## Session 6 — 2026-09-01, SOC cross-check *(no web research — local PDF)*
+
+**Source:** `to-be-integrated/BLS_-_Standard_Occupational_Classification_Manual_2018.pdf`, supplied by the
+developer. Extracted the 23 major occupational groups via `pdftotext` and cross-checked both directions
+against the necessary-industries register.
+
+**⭐ Forward check → 4 industries added + 1 expanded** *(legal, community/social, finance, computing;
+emergency expanded to include policing)*. **Register 18 → 22.**
+
+**⭐⭐ Reverse check → the SOC cannot classify 4 Tepenian roles**, and all four are robot-personhood roles:
+robot maintenance *(falls between machine repair and healthcare — categories that never overlap on Earth)*,
+robot semantic care, Cradle chamber operation *(production, but of people)*, robot decommissioning/ossuary.
+**Recorded in the register as a diagnostic of where the setting's actual novelty sits.**
+
+**Also searched, unresolved:** `NAICS 92 public administration employment United States total BLS` and
+`COFOG "general public services" government employment share by function` — **the clean category exists**
+(BLS OEWS Sector 99, government excluding schools/hospitals/USPS) **but BLS blocks automated fetching.**
+**The administration rate remains estimated at 65/1,000; the OEWS spreadsheet is a manual download away.**
+
+---
+
 ## Open threads, carried forward
 
 1. Per-sector Iqaluit figures (blocked by the 403; Nunavut Bureau of Statistics is the route).

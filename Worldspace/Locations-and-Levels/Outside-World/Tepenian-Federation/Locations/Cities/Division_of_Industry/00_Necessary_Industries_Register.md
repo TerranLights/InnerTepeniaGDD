@@ -95,6 +95,51 @@ rather than itemized.
 | C4 | **Materials recovery & recycling** | `LINE` | **In a closed continental economy the scrap stream is a resource stream.** Absent corpus-wide, large, and unusually generative culturally. |
 | C5 | **Mortuary & decommissioning** | `FOLD` | **You cannot bury in permafrost.** What happens to human remains — and, the better question, **what happens to a robot's body?** For a majority-robot civilization this is a real institution nobody has built. |
 
+### ⭐ Tier C additions — 2026-09-01, found by cross-check against the BLS Standard Occupational Classification
+
+> **The original eighteen were derived from a life-cycle audit — *what keeps a body alive*. Cross-checking
+> against the SOC's 23 major occupational groups exposed four industries that keep a SOCIETY running, which
+> that framing structurally could not see.** *(`to-be-integrated/BLS_-_Standard_Occupational_Classification_
+> Manual_2018.pdf`.)* **Every one is already implied by standing canon.**
+
+| # | Industry | Default | SOC group | Why it is non-optional **in Tepenia specifically** |
+|---|---|---|---|---|
+| **C6** | **Legal & justice** | `LINE` | **23-0000 Legal** | **Canon establishes a three-tier criminal justice system** — exile → supervised labor → Aquarius subject. **Courts, adjudication, enforcement and legal support are all implied and none are staffed.** A society with a sentencing ladder has a judiciary |
+| **C7** | **Community & social services** | `FOLD` | **21-0000 Community & Social Service** | Counselors, social workers, **and religious workers.** Canon has **five robot religions**, a published Polydimensional Animism with rituals and doctrines, and an institute training **robot counselors.** All currently unemployed |
+| **C8** | **Finance, currency & allocation** | `LINE` | **13-0000 Business & Financial Operations** | Canon has an **energy-backed national currency**, post-war **regional currencies plus a cross-subnet trade standard**, a **black market**, and a rationed/metered economy. ⭐ **In a rationed economy, allocation IS the financial system** — this is larger here than in a market society, not smaller |
+| **D4** | **Computing & data systems** | `FOLD` | **15-0000 Computer & Mathematical** | **Arcanet, Leyline, bridge units and jack-in are all canon.** Nobody currently runs, maintains or writes for any of them |
+
+**And one expansion rather than an addition:**
+
+| # | Was | **Now** | Why |
+|---|---|---|---|
+| **A5** | Emergency services *(fire, SAR)* | **Emergency & PROTECTIVE services** | **SOC 33-0000 Protective Service** bundles fire and rescue with **policing and enforcement.** The register had the first and not the second — **but a three-tier justice system presumes somebody makes arrests.** |
+
+> **⚠ Deliberately NOT added: 55-0000 Military Specific.** Tepenia fought the Long Night War, so a military
+> existed — **but whether it is a standing peacetime civic industry during the Second Interwar is a canon
+> question, not a modeling one.** Routed rather than assumed.
+
+**Register total: 18 → 22 industries.**
+
+### ⭐⭐ The REVERSE check — what Tepenia needs that the SOC cannot classify
+
+**Run the comparison the other way and the real world's complete taxonomy of human work has exactly four holes
+when applied to Tepenia. All four are the same hole.**
+
+| Tepenian role | Nearest SOC categories | Why neither fits |
+|---|---|---|
+| **B3 Robot maintenance** | **49-0000** *(Installation, Maintenance & Repair — machines)* vs. **29/31-0000** *(Healthcare — persons)* | ⭐ **It falls between two categories that never overlap on Earth, because Earth has no machine persons.** Servicing a robot is simultaneously both and neither |
+| **Robot semantic / emotional care** *(Sinheung Institute)* | 21-0000 counselors · 29-0000 practitioners | **No equivalent exists.** A clinician for a machine mind is unclassifiable in a taxonomy built for one kind of mind |
+| **Cradle chamber operation** | 51-0000 *(Production)* | **Production is for goods.** This produces **people** |
+| **Robot decommissioning & ossuary work** | 39-4000 *(Funeral Service Workers)* | Funeral service is defined around human remains. **Metal bones that never decay are a different profession** |
+
+> ## **The four things the SOC cannot classify are precisely the four things that make Tepenia Tepenia.**
+> **Every one of them exists because robots are persons.** A taxonomy of 867 real occupations, built by a
+> society of one kind of person, has holes in exactly the shape of the second kind.
+>
+> **This is worth more than a completeness check — it is a diagnostic of what the setting's actual novelty
+> is.** Not the cold, not the isolation, not the domes. **The unclassifiable work.**
+
 ## Tier D — present in canon but under-specified
 
 | # | Industry | Default | Note |
