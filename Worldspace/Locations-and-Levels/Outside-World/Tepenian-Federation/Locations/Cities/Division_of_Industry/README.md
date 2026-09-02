@@ -29,6 +29,8 @@
 | **`10_Validation_Findings_2026-09-01.md`** | ⛔ **READ FIRST.** What three independent checkers found, and which figures it invalidates |
 | **`11_Caloric_Rebuild_and_Livestock_Tier.md`** | ⭐ **The food layer, rebuilt from biology.** The new B1 rate, the marine-employment finding, the livestock tier |
 | **`12_Terraforming_and_the_Outdoor_Tier.md`** | ⭐ The terraformed coastal belt, multi-species livestock, and the feed chain. **Candidate answer to what anyone eats after the Tower** |
+| **`13_National_Balance_Under_the_Ruling.md`** | ⭐ The three-tier geology, all 37 cities classified, and why the food map is an ECONOMIC question not a geological one. **§12 — Tepenian crops use no daylight** |
+| **`14_Completing_the_Food_Basis.md`** | ⭐ The five-tier food system. **Fungi as the fourth tier; phosphorus as the one input that cannot be manufactured** |
 | **`08_Volume_Based_Requirement_Reference.md`** | ⭐ **The method and the rates.** Start here — **but its B1 rate is superseded by `11`** |
 | **`09_Per_City_Baseline_Run.md`** | ⭐ **The answers — all 38 cities.** §3.5 is the freedom-margin finding |
 | `00_Necessary_Industries_Register.md` | the 22 industries, and what the SOC cross-check found |

@@ -253,6 +253,222 @@ it doesn't depend on planetary rotation or a counterweight at all.
 - **Works at any latitude, including the poles** — the one property a classic elevator
   cannot offer.
 
+---
+
+## ⭐ Could Upper Earth just build an EQUATORIAL MASS DRIVER instead? — added 2026-09-02
+
+**Developer question, raised while working out what Tepenia exports** *(see
+`.../Cities/Division_of_Industry/14_Completing_the_Food_Basis.md`)*: **if the Tower's
+value is orbital access, what stops a rival building a mass driver near the equator?**
+
+> ## **Answer: NOTHING STOPS THEM, AND THEY PROBABLY DID. The physics permits it — but
+> only for CARGO, and only in ONE DIRECTION. That is what makes the Tower's monopoly
+> narrower, sharper, and far more defensible than "Tepenia owns space."**
+
+### 1. The equatorial bonus is real but small
+
+Earth's surface at the equator moves at **465 m/s**. LEO needs ~**7,800 m/s**.
+
+> **The equatorial bonus is 6.0% of the required velocity.** *(At the South Pole it is
+> exactly zero.)* **Worth having, nowhere near decisive.**
+
+### 2. ⛔ The atmosphere is the real problem, and mountains do not solve it
+
+Dynamic pressure on exit is `q = ½ρv²`. At 7.8 km/s:
+
+| Release altitude | q | | |
+|---|--:|--:|---|
+| **Sea level** | **37.3 MPa** | **368 atm** | [StarTram: *"like hitting a brick wall"*](https://en.wikipedia.org/wiki/StarTram) |
+| 3 km | 27.7 MPa | 273 atm | |
+| **6 km** | **20.1 MPa** | **198 atm** | **the best equatorial summits** |
+| 22 km | 1.96 MPa | 19 atm | StarTram Generation-2 target |
+| 50 km | 0.03 MPa | ~0 | |
+| **150 km** | **~0** | **0** | **⭐ AMUNDSEN TOWER release altitude** |
+
+**Real-world StarTram splits into two generations for exactly this reason:**
+**Gen 1 — *"cargo only, from a mountain peak at 3 to 7 km."*** **Gen 2 — a track that
+curves up to **22 km**, magnetically levitated, to reduce the transition shock.
+
+### 3. The equatorial sites are real, and they are all Gen-1 height
+
+| Site | Altitude | Latitude |
+|---|--:|---|
+| **Chimborazo, Ecuador** | 6,263 m | 1.5°S — *the farthest point from Earth's centre* |
+| **Cayambe, Ecuador** | 5,790 m | **0.0° — the only glacier ON the equator** |
+| Kilimanjaro, Tanzania | 5,895 m | 3.1°S |
+| **Mount Kenya** | 5,199 m | 0.15°S |
+| Mt Stanley, Rwenzori | 5,109 m | 0.4°N |
+| Puncak Jaya, New Guinea | 4,884 m | 4.1°S |
+
+> **Ecuador and Mount Kenya are the two best equatorial launch mountains on the planet,
+> and both top out around 5–6 km — squarely StarTram Generation 1. Cargo only, at
+> roughly 200 atmospheres on exit.**
+
+### 4. Track length is not the obstacle
+
+`L = v²/2a`: **10 g needs 310 km** *(the only passenger-survivable figure)*; **100 g
+needs 31 km**; 1,000 g needs 3.1 km. **A 31 km evacuated cargo tube on an Andean
+ridge is an enormous project but not an impossible one.**
+
+### ⭐⭐ 5. THE THREE THINGS AN EQUATORIAL MASS DRIVER CANNOT DO
+
+1. **⛔ IT CANNOT BRING ANYTHING DOWN.** A mass driver is a gun. **This document's own
+   §"Primary Purpose" specifies the Tower does bulk export *"and the reverse (orbital
+   goods shipped back down)."*** **A space fountain is BIDIRECTIONAL; a mass driver is
+   not, and cannot be made so.**
+2. **⛔ IT CANNOT CARRY PEOPLE.** Hundreds of g on atmospheric entry-shock at Gen-1
+   altitude, on top of the launch acceleration. **Passengers need the 310 km track AND
+   a vacuum release — i.e. they need a fountain.**
+3. **⛔ IT CANNOT CARRY ANYTHING FRAGILE.** 200 atm of ram pressure sets a floor on how
+   robust a payload must be. **Ore and bulk feedstock, yes. Manufactured goods,
+   instruments and people, no.**
+
+> ## ⭐⭐⭐ **THEREFORE: Tepenia's monopoly was never on LAUNCH. It was on the ROUND
+> TRIP AND ON PASSENGERS.**
+>
+> **Upper Earth could plausibly throw bulk cargo up from Ecuador or Kenya all day.
+> But nothing comes back DOWN through a mass driver, and no person rides one.
+> Everything returning from orbit, and every human and robot who ever went up, went
+> through Amundsen Tower.**
+>
+> ### **Which is exactly consistent with canon: ~10 million people emigrated to orbit
+> via this structure. There was no other way for them to go — and no other way for
+> anything to come back.**
+
+### ⚠ Two honest counterweights, recorded rather than buried
+
+- **⚠ Polar siting constrains ORBITAL INCLINATION.** A launcher at the South Pole
+  delivers to **polar orbits**; an equatorial one delivers to low-inclination and
+  onward to geostationary. **Plane changes are expensive.** For the orbital
+  *manufacturing* the Tower was built to feed this is immaterial — the station simply
+  sits in a polar orbit — **but it is a genuine limitation and a rival's genuine
+  advantage for anything GEO.**
+- **⭐ One real polar advantage worth keeping:** a superconducting maglev system of
+  this scale carries an enormous cryogenic load. **Antarctic ambient (~180–230 K)
+  does not reach superconducting temperatures on its own, but it substantially reduces
+  the heat load a cooling plant must reject** — a standing efficiency the equator
+  cannot match.
+
+---
+
+## ⚠⚠ AND THE COMPETITOR THAT WOULD ACTUALLY BREAK THE MONOPOLY: an equatorial TETHER
+
+**Added 2026-09-02 at the developer's prompting.** **The mass driver is not the
+dangerous rival. A classic tether elevator is** — because unlike a mass driver, **a
+tether is BIDIRECTIONAL and carries PASSENGERS**, which are precisely the two things
+§5 above identified as Tepenia's monopoly.
+
+### The three architectures, compared honestly
+
+| | **Tether elevator** | **Space fountain** *(Amundsen Tower)* | **Mass driver** |
+|---|---|---|---|
+| Latitude | **⛔ EQUATOR ONLY** | **✅ anywhere, including the pole** | anywhere |
+| Bidirectional? | **✅ YES — climbers go both ways** | **✅ YES** | **⛔ NO — it is a gun** |
+| Passengers? | **✅ yes** | **✅ yes** | **⛔ no** |
+| Standing power draw | **✅ ~none — it hangs by its own tension** | **⛔ ~324 GW, CONTINUOUSLY** | only while firing |
+| Speed | ⛔ slow — climbers take days | fast | fast |
+| **Blocking problem** | **⛔⛔ MATERIAL. Needs ~50–100 GPa specific strength in a continuous ~100,000 km run** | power, and precision | the atmosphere |
+| Failure mode | severed cable — catastrophic, unrecoverable | **⛔ loses power and it FALLS** | a bad shot |
+
+### ⭐⭐ Why this matters more than the mass driver question
+
+> ## **If Upper Earth possessed a working equatorial tether, it would not need Tepenia
+> at all. It would have a bidirectional, passenger-rated, low-power route to orbit —
+> and the entire trade-deterrence structure collapses.**
+>
+> ## **So the canon REQUIRES that nobody ever built one, and the reason has to be
+> material, because that is the only honest reason.**
+
+**A tether is not blocked by physics; it is blocked by manufacturing.** It demands a
+continuous filament of a specific strength no material has ever been produced at, in
+lengths of tens of thousands of kilometres. **Everything else about the design works.**
+
+> ### ⭐ **And this setting already has the piece that makes the answer interesting:
+> Hana Jinn's metamaterials research**, cited twice above as what makes the Tower's
+> guide tube and magnets possible. **The natural in-world resolution:**
+>
+> - **Nobody solved the tether material.** Not Tepenia, not Upper Earth — the specific
+>   strength required sits beyond even Jinn's line of work.
+> - **⭐ Or, more pointedly: TEPENIA got closest, and built the wrong thing on
+>   purpose** — because a tether is useless at the South Pole, and Tepenia was already
+>   at the South Pole. **The nation with the best materials science in the world was
+>   the one nation that could not use a tether.**
+
+**⏸️ FOR RULING.** Either version works; the second is better drama and costs nothing.
+
+> ### ⚠ **And note the asymmetry it sets up, which is worth keeping either way:** the
+> tether's weakness is **material**, the fountain's is **power**. **Amundsen Tower did
+> not fail because anyone out-engineered it. It fell because the power stopped — the
+> single failure mode a tether would not have had.**
+
+---
+
+## ⛔⛔ THE REAL HOLE: why didn't Upper Earth just build its own space fountain?
+
+**Added 2026-09-02.** **This is a larger problem than either the mass driver or the
+tether, and it has to be answered or the whole trade-deterrence structure fails.**
+
+**A fountain needs no exotic material and no equator.** This document says so plainly:
+*"works at any latitude."* **So there is no physical reason Upper Earth could not have
+built one — and if it did, Tepenia has nothing to sell.**
+
+### ⭐⭐ The answer is in this document's own numbers, and it is not a capability argument
+
+| | |
+|---|--:|
+| **Continuous power draw** | **~324 GW net — permanently, non-interruptibly** |
+| **Debris mass on collapse** | **~246,250 t, of which ~93% reaches the ground** |
+| Structure height | 150 km |
+
+> ## **A space fountain is held up by momentum. Stop the power and it FALLS. That is not
+> a failure mode — it is a permanent condition of ownership.**
+>
+> ## ⭐⭐ **So a space fountain is a CIVILISATIONAL HOSTAGE that somebody has to stand
+> under. Forever. And it obliges its owner to guarantee ~324 GW without interruption
+> for as long as the structure exists — a commitment no grid crisis, no war, and no
+> bad winter may ever be allowed to break.**
+
+**⭐ Which reframes the entire relationship, and reframes it in the setting's own key:**
+
+> ## **UPPER EARTH DID NOT FAIL TO BUILD A FOUNTAIN. IT DECLINED TO.**
+> ## **It outsourced the risk — because building one means accepting a 150 km guillotine
+> over your own territory, permanently, contingent on never once losing power.**
+>
+> ### **You give the dangerous, dirty, indispensable job to the people you despise. And
+> then you are obliged to keep them alive to do it.**
+
+**⭐ That is the sharpest available form of the "begrudging mutual need":**
+
+- **Upper Earth does not tolerate Tepenia *despite* the Tower. It tolerates Tepenia
+  BECAUSE of the Tower — because somebody has to stand under it.**
+- **Tepenia took the job because it was exiled to an empty continent with nothing else
+  to sell.** **The risk nobody else would carry became the only leverage it had.**
+- **And the phosphate is what Upper Earth pays to keep the people under the tower
+  alive.** *(A few thousand tonnes a year — see
+  `.../Division_of_Industry/14_Completing_the_Food_Basis.md`. **A rounding error, to
+  keep a hostage-holder fed.**)*
+
+### ⚠ Two consequences worth following, and one question this raises
+
+1. **⭐⭐ THE TOWER'S DESTRUCTION WAS A MUTUAL CATASTROPHE, NOT A TEPENIAN ONE.**
+   **Whoever brought it down destroyed Upper Earth's route to orbit in the same
+   instant** — the round trip and the passenger route both *(§5 above)*. **Tepenia lost
+   its leverage; Upper Earth lost its access.**
+2. **⚠ Which makes "Upper Earth destroyed it" a strange act to attribute.** It is the
+   one target whose loss costs the attacker as much as the defender. **Not resolved
+   here, and deliberately not — the Tower's destruction during the Long Night War, and
+   Calethina's own role in the evacuation safeguards, are established elsewhere and are
+   not this document's to settle.** **But the question is now sharp enough to be worth
+   asking on purpose: who benefits from a world with no route to orbit?**
+
+> ### ⏸️ **NOT INVENTED HERE, AND DELIBERATELY:** what is actually in orbit, who is up
+> there, and what they need is governed by
+> `Worldspace/Locations-and-Levels/Outside-World/Orbital-Infrastructure/README.md`,
+> which states that **nothing under its planned structure is to be built out until the
+> developer says so.** **The argument above deliberately rests only on the Tower's own
+> established figures — power draw, debris mass, bidirectionality — and not on any
+> claim about orbital contents.**
+
 ## Passenger & Cargo Transport
 
 The pellet stream and the passenger/cargo system are **two separate structures riding

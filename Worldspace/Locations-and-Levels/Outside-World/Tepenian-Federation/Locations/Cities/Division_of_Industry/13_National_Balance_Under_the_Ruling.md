@@ -491,3 +491,411 @@ carries `agriculture 15%` in canon, and it is the largest Peninsula city at 1,87
 > ### **Together these two are the best remaining test of the growing criterion: Lazar is land-poor but
 > people-rich and technically capable; Esperanza is mild, spacious, and the only place the outdoor tier can
 > actually be exercised. Neither is settled, and both move real numbers.**
+
+---
+
+---
+
+# 11. ✅ THE LAZAR / ESPERANZA INVESTIGATION — 2026-09-02
+
+`[CGRM 2026-09-02 · Path 4 · research]`
+
+## ⭐⭐ THE FINDING THAT OVERSHADOWS BOTH: EDEN ISS
+
+**There is exactly one measured Antarctic greenhouse, and it is at Neumayer III — a Tepenian city.**
+[The DLR **EDEN ISS** project grew **268 kg of food in 12.5 m² over 9.5 months** — 67 kg cucumbers, 117 kg
+lettuce, 50 kg tomatoes — at a measured **0.8 kW per m² of cultivation area**](https://www.dlr.de/en/latest/news/2019/03/20190823_project-eden-iss-presents-results).
+**Annual productivity: 27.4 kg/m²/yr. Which is 256 kWh per kilogram.**
+
+**Apply that rate to Tepenia:**
+
+| National staple tier *(1,180 km² growing area, 10.37 Mt/yr)* | Average power | vs. national electricity *(101.7 GW)* |
+|---|--:|--:|
+| **At EDEN ISS's measured rate** | **944 GW** | **928% — and 2.9× the entire Amundsen Tower** |
+| At 40 kWh/kg | 47.4 GW | 46.6% |
+| **At a mature 10 kWh/kg** | **11.8 GW** | **11.6%** |
+
+> ## ⛔ **At real, demonstrated Antarctic greenhouse efficiency, feeding Tepenia indoors is impossible by an
+> order of magnitude. At mature efficiency it costs about an eighth of the national grid.**
+> ## ⭐⭐ **The gap between those two is 80×, and IT IS THE MOST IMPORTANT PIECE OF TECHNOLOGY IN THE SETTING —
+> and nothing in the corpus has named it.**
+
+**Two honest mitigations on EDEN ISS's number:** it is a **12.5 m² prototype** carrying fixed overheads no
+scaled system would, and it grew **salad** — ~95% water, ~150 kcal/kg. **Per calorie, potatoes at 770 kcal/kg
+are already 5.1× better before any efficiency gain at all.** **But the direction of the finding survives both:
+Tepenia's agriculture is a power technology first and a botanical one second.**
+
+> ### **This also retroactively explains the setting's own emphasis.** `Energy_Grid_Failure_Rationale.md`
+> repeatedly ties the grid to hydroponics and food. **It is right to: food is ~12% of national electricity even
+> in the good case, and it is the load that cannot be shed.**
+
+---
+
+## ⚠ LAZAR — RECLASSIFIED. It CAN grow, and this flips the national balance.
+
+### The site, researched
+
+| | |
+|---|---|
+| **Schirmacher Oasis** | **25 km long × up to 3 km wide, 34 km²**, max elevation **228 m**, **80 km** from the Lazarev Sea coast |
+| **Water** | **100–180 freshwater lakes**, ice-free **6–12 weeks** each summer; **precipitation 264.5 mm/yr** |
+| **Climate** | summer average **+0.9 °C**, winter −22 °C, wind **9.7 m/s** — *"relatively mild for Antarctic conditions"* |
+| **Geology** | Precambrian crystalline basement — banded, augen and garnet-biotite **gneisses**, migmatites, cut by dolerite and pegmatite dikes |
+
+### ✅ Why the earlier "cannot grow" classification fails
+
+**Lazar needs 97.2 km² of growing area — 16.2 km² of footprint at 6 layers, against 34 km² of oasis.** That
+alone is tight but survivable. **And the developer's construction ruling settles it outright: with DOWNWARD
+building canon, surface area stops being the binding constraint at all.** Depth is not limited by the 34 km².
+
+> ## ✅ **LAZAR IS A GROWER. The earlier classification was wrong — it reasoned from surface area for a city
+> that has been ruled to build downward.**
+
+**⚠ Consequence, and it is large:**
+
+```
+import need   545,902 - Lazar's 186,410 = 359,492
+supply                                    404,191
+NATIONAL BALANCE          -141,711  ->  +44,699   (+12.4%)
+```
+
+> ## ⛔⛔ **This flips the Federation from a 26% SHORTFALL to a 12% SURPLUS, and {{Bunger Hills City}} stops
+> being MANDATORY.** **It remains strongly desirable** *(a second, uncorrelated agricultural region; `04`
+> §6.4's geographic case is untouched)* — **but the nation no longer starves without it.**
+>
+> **⚠ This is exactly the knife-edge behavior §4 warned about, arriving on schedule. The national food balance
+> is dominated by the Lazar question, and one reclassification moved it 38 points.**
+
+### ⭐ Three things the research gives Lazar that nothing else in Tepenia has
+
+1. **⭐⭐ FREE LIQUID WATER.** **100–180 freshwater lakes.** Every other Tepenian city makes water by melting
+   ice, and melting ice is an energy cost. **Lazar drinks and irrigates from surface lakes for part of the
+   year and from shallow, accessible lake ice for the rest.** **In a nation where food is a power problem,
+   Lazar starts with one input already paid for.**
+2. **⭐ IT IS A RIBBON. 25 km long and at most 3 km wide.** Lazar is not a radial city; it is **linear** —
+   a strip settlement stretched along an oasis, with everything a matter of distance *along* rather than
+   *across*. **The largest city in the Federation is shaped like a road.**
+3. **⚠ The rock cuts both ways.** Gneiss and migmatite make **excellent foundations** *(good for building up)*
+   and are **expensive to excavate** *(bad for building down)*. **The construction ruling's cheapest direction
+   runs into the hardest rock** — which is a real, specific cost rather than a generic one, and worth keeping.
+
+---
+
+## ESPERANZA — mild, cramped, and NOT the best outdoor ground on the Peninsula
+
+### The site, researched
+
+**Hope Bay is 5 km long and 3 km wide — about 15 km².** Esperanza needs **72.2 km² of growing area = 12.0 km²
+at 6 layers**, which is **80% of the entire bay.** **Esperanza is the more space-constrained of the two, not
+the less.** *(It must already extend well beyond Hope Bay proper at 1,878,287 residents.)*
+
+**⭐ And the real base is a gift to characterization.** [Esperanza is one of only two civilian settlements in
+Antarctica — around 55 winter residents, **ten families**, a school, and a small
+greenhouse whose **fresh vegetables are *"prized and often reserved for special occasions"***](https://en.wikipedia.org/wiki/Esperanza_Base).
+**A city descended from a place where a tomato was an occasion.**
+
+### ⚠ THE ADVERSE FINDING — and it corrects an assumption I made earlier
+
+**I called Esperanza the natural home of the outdoor tier and the engineered-grass program. The botany does
+not support it.**
+
+> **[Hope Bay has the LOWEST moss richness and diversity of the maritime Antarctic sites studied, below the
+> South Shetland Islands](https://link.springer.com/article/10.1186/s40693-014-0033-z).** Mosses and lichens
+> are active at **2–4 °C and require liquid water**; Peninsula summer means run **~1 °C**.
+
+> ## ⚠ **So the best outdoor ground in Tepenia is NOT at Esperanza. It is in the South Shetlands — which in
+> canon means JUAN CARLOS (Livingston Island) and SEJONG (King George Island), with SIGNY (South Orkneys) in
+> the same maritime band.**
+>
+> **The Peninsula's ~700 km² belt allocation *(`12`)* should therefore skew AWAY from Hope Bay and toward the
+> island cities — and the *Deschampsia* breeding program with it.**
+
+**⭐ Which leaves Esperanza with a more interesting role than "the farm city":** it is **mild, cramped, densely
+populated, and surrounded by better ground it does not itself sit on.** **The city that feeds the Peninsula
+does so from somewhere else** — an echo, in a different key, of the Sanay/Port-of-Sanay split already in canon.
+
+---
+
+## ⏸️ Left open
+
+- **Whether Lazar's reclassification is accepted** *(it is a derivation, not a developer ruling — and it moves
+  the national balance 38 points)*.
+- **Whether {{Bunger Hills City}} still gets founded** now that it is desirable rather than mandatory.
+- **Reallocating the Peninsula belt** toward the South Shetlands, and what that does to Juan Carlos, Sejong
+  and Signy.
+- **⭐ NAMING THE 80× EFFICIENCY GAIN.** The single largest unexamined technology in the setting.
+
+> ### ⚠ **Method note: two 1,000× unit errors were made and self-caught while computing this section** *(GW/MW
+> and kW/GW)*. **A unit-assertion check was added to the calculation before the final figures were trusted.**
+> **This is the third arithmetic slip of this kind in the food work** *(the {{Abowasa}} digit error, the
+> Concordia 234 MW figure, and these)* — **recorded because the pattern matters more than any one instance.**
+
+---
+
+---
+
+# 12. ⭐⭐ FOUNDATIONAL CLARIFICATION — TEPENIAN CROPS DO NOT USE SUNLIGHT
+
+**Raised by the developer, 2026-09-02: *"I'm confused as to how it's possible to grow food 'downward'.
+Wouldn't that deprive crops of sunlight?"*** **The question exposed an assumption this folder had never stated
+outright. Stating it now, because everything downstream depends on it.**
+
+> ## **NOTHING IN THE INDOOR TIER USES DAYLIGHT — ANYWHERE IN TEPENIA, AT ANY DEPTH, INCLUDING AT THE SURFACE.**
+
+**Antarctica has months of polar night.** Concordia's is ~82 days; Belgrano's is roughly four months. **A
+food supply that depends on daylight stops entirely for a quarter of the year.** No nation can eat that way,
+so Tepenian growing is **artificially lit, always.**
+
+> ### ⭐ **This is precisely WHY the power figures are so large. The 10 kWh/kg, the 11.8 GW, EDEN ISS's
+> 256 kWh/kg — that is the LIGHTING. Tepenia does not spend that energy because it grows underground; it
+> spends it because it grows in the dark, and it grows in the dark because it is in Antarctica.**
+
+**So building downward costs nothing in light. The crops were never receiving daylight to lose.**
+
+## ⭐ And underground is thermally BETTER, which is the real reason to do it
+
+| | Surface glasshouse | **Underground vault** |
+|---|---|---|
+| Light | artificial | **artificial — identical** |
+| Heat loss through the envelope | **⛔ severe — glazing is a hole in the insulation, against −22 °C at Lazar or −65 °C at Concordia** | **minimal — surrounded by rock near the mean annual temperature** |
+| Wind | full exposure *(Lazar averages 9.7 m/s)* | **none** |
+| Radiative loss to a clear polar sky | **⛔ significant** | **none** |
+| Snow loading, ice accretion, blizzard damage | constant | **none** |
+
+> ## ⭐⭐ **IN ANTARCTICA, TRANSPARENCY IS A LIABILITY. A window is a heat leak, and it is dark half the year
+> anyway.**
+>
+> ## **Which means the word "greenhouse" is actively misleading for Tepenia. These are SEALED, LIT, INSULATED
+> GROWING VAULTS.** **EDEN ISS is exactly that in the real world — a container at Neumayer III growing *"under
+> artificial light and without soil."*** **Not a glasshouse. Nobody in Tepenia grows food behind glass.**
+
+**⚠ The one genuine underground caveat:** a heated space thaws the ground around it, and thawing ice-rich
+ground subsides. **In Lazar's hard Precambrian gneiss this is a minor problem; in ice-rich sediment it would
+be a serious one.** **The construction ruling and the geology happen to agree.**
+
+## ✅ The exception that proves it — the terraformed belt
+
+> ### **The outdoor tier *(`12`)* is the ONLY part of Tepenian agriculture that uses the sun — and that is its
+> entire advantage: ~1.5 kWh/kg against ~10 for lit growing.**
+> **It works only in summer, only under the midnight sun, and only on the mild coast — which is exactly why
+> it is seasonal, why it needs storage, and why it is the tier that survives a grid collapse.**
+
+**Two systems, opposite in every property:**
+
+| | **Lit vaults** | **Terraformed fields** |
+|---|---|---|
+| Light source | electricity | **the sun, free** |
+| Season | **year-round** | **summer only — one harvest, stored** |
+| Energy | ~10 kWh/kg | **~1.5 kWh/kg** |
+| Fails when | **the power fails** | the summer fails |
+| Depth | surface **or underground — no difference** | surface only, by definition |
+
+---
+
+# 13. ✅ SEJONG, JUAN CARLOS AND SIGNY — the developer's extension, quantified
+
+**Developer, 2026-09-02: *"the general area surrounding Sejong, as well as a moderate amount of the rural
+sides of Signy, can also produce food."*** **Correct in direction. The areas, researched:**
+
+| City | Island | Total area | **Ice-free** | Share of national calories if fully farmed |
+|---|---|--:|--:|--:|
+| **Sejong** | King George Island | 1,295 km² | **~130 km²** *(<10%)* | **~1.6%** |
+| **Juan Carlos** | Livingston Island | 798 km² | **~80 km²** *(~10%)* | **~1.0%** |
+| **Signy** | Signy Island | **19 km²** | **~9.5 km²** *(~half)* | **~0.12%** |
+| | | | **~220 km²** | **~2.8%** |
+
+> ### ⚠ **A correction on Signy: the island is 19 km² TOTAL, of which about half is ice-free — and Signy the
+> city holds 188,694 residents.** **That is ~19,900 residents per km² of ice-free ground.** **"Rural sides of
+> Signy" cannot mean Signy Island; there is no room on it.** **If Signy has a rural hinterland it must be the
+> wider SOUTH ORKNEYS** *(the group runs ~620 km², with Coronation Island by far the largest, though heavily
+> glaciated)* — **which is a real and usable answer, but a different one, and it makes Signy an archipelago
+> city rather than an island city.**
+
+## ⭐ What the islands actually contribute: QUALITY, not area
+
+**The Peninsula mainland already holds ~8,000 km² of ice-free ground — the belt's 700 km² allocation is not
+area-constrained there.** **The islands add only ~220 km².**
+
+> ## **But the islands are the BEST ground in Tepenia** — maritime climate, richer moss and lichen cover than
+> Hope Bay, and the band where *Deschampsia antarctica* is densest and actively spreading. **They are where
+> the outdoor tier should be PROVEN and where the breeding program belongs, even though the bulk of the
+> hectares come from the mainland.**
+
+**⏸️ Follow-on:** reallocating the Peninsula belt across mainland vs. islands.
+
+---
+
+---
+
+# 14. ✅ SIGNY RESOLVED, AND A GENERAL PRINCIPLE FALLS OUT OF IT — 2026-09-02
+
+> ## **Developer, establishing canon: *"in Signy, people generally live on the larger island anyway, and a
+> smaller percentage of them commute to work via the smaller island… the housing may be built into bedrock in
+> locations that are generally iced-over."***
+> `[CGRM 2026-09-02 · Path 6 · developer ruling]`
+
+## The density problem dissolves
+
+| | |
+|---|--:|
+| **Coronation Island** *(the larger)* | **450 km²** — 46 km long, 5.6–14.8 km wide, highest point Mount Nivea at 1,265 m |
+| Signy Island *(the smaller)* | 19 km², **least glaciated of the four main islands** |
+| South Orkneys, whole group | ~620 km², **~90% glaciated** |
+
+**Signy's 188,694 residents across Coronation's 450 km² is ~419 per km².** **The §13 figure of ~19,900 per km²
+was computing against the wrong island entirely.**
+
+## ⭐ The settlement pattern — and it inverts Sanay's
+
+> **Homes on Coronation, work on Signy Island, a commute between.** **Signy Island is the smaller and the
+> LEAST GLACIATED — so it holds the ice-free ground, which is where the port, the fishery work and the outdoor
+> tier have to be.** **People live on the big island and travel to the small one to work.**
+
+**⭐ Compare Sanay** *(clifftop city ~200 km from the Port of Sanay)*: **there the population is inland and the
+work is coastal. At Signy the population is on the large glaciated island and the work is on the small bare
+one.** **Same structural shape — a split city joined by a maintained corridor — reached by different geography,
+which is exactly what the anti-convergence rule asks for.**
+
+## ⭐⭐ THE GENERAL PRINCIPLE — this is bigger than Signy
+
+> ## **BEDROCK VOLUME, NOT ICE-FREE SURFACE AREA, IS THE HABITATION CONSTRAINT FOR ROCK-FOUNDED CITIES.**
+>
+> **You do not dig DOWN through an ice cap to reach rock. You go in LATERALLY from an exposed ice-free margin
+> and continue beneath the ice** — which is how mining has always worked. **An ice-covered surface still has
+> bedrock under it, and that bedrock is reachable.**
+
+**⚠ This retires "ice-free area" as the limit on anything except two things: OUTDOOR FARMING and SURFACE
+CONSTRUCTION.** Both need sky. **Nothing else does** — and per §12, the lit vaults need sky least of all.
+
+### It produces a clean three-tier geological classification
+
+| Tier | Cities | Bedrock access | Consequence |
+|---|---|---|---|
+| **ROCK-FOUNDED** — nunataks, oases, capes, islands | Lazar · Signy · Troll · Princess Elisabeth · {{Abowasa}} · Sanay · Belgrano · Denison · most of the coast | **✅ Lateral, unlimited in practice** | **Can house and grow at will. Ice-free area limits only their outdoor tier** |
+| **ICE-SHEET** — deep plateau | **Concordia** *(3+ km of ice at Dome C)* · Vostok · Kunlun · Dome Fuji | **⛔ Bedrock is kilometers down. Unreachable** | Confined to the ice surface — which is exactly what Concordia's Frostlands is |
+| **ICE-SHELF** — floating | **Halley · Neumayer** | **⛔ No bedrock at all. Floating on the sea** | The most constrained places in the Federation, and permanently so |
+
+> ### ⭐ **The tiering explains the setting rather than merely labeling it.** **Concordia's Frostlands is a
+> surface district scattered across the plateau precisely because Concordia CANNOT go underground — there is
+> nothing under it but three kilometers of ice.** **The city everyone thinks of as the toughest place in
+> Tepenia is tough for a geological reason that can now be stated exactly.**
+
+## ⚠ IMMEDIATE CONSEQUENCE — Denison should probably be reclassified too
+
+**§6 ruled Denison a non-grower on two grounds: 0.63 km² of ice-free rock, and being the windiest place on
+Earth.** **The lateral-access principle removes the first, and §12 removes the second:**
+
+> **Cape Denison is a rock promontory surrounded by the East Antarctic Ice Sheet — grounded ice over bedrock,
+> not floating shelf. Lateral access applies.** **And an underground vault is IMMUNE TO WIND** — the windiest
+> place on Earth is irrelevant 40 m down.
+
+```
+balance with Lazar reclassified              +44,699
+Denison also reclassified (+75,748)         +120,447   (+42.4%)
+```
+
+> ## ⛔ **Which would put the Federation in a 42% food surplus and make the earlier −26% shortfall look
+> absurd.** **⚠ Flagged, NOT applied. Two reclassifications in two days moving the national balance by 262,158
+> producers is the same knife-edge instability §4 warned about — and a model that swings this far on
+> judgment calls should not be trusted to three significant figures in either direction.**
+
+**⏸️ FOR RULING:** whether Denison reclassifies, and whether the three-tier geology above is adopted as the
+general criterion — **it would supersede the ad-hoc per-city reasoning in §6 entirely.**
+
+---
+
+---
+
+# 15. ✅ ALL 37 CITIES RECLASSIFIED ON THE GEOLOGICAL CRITERION — 2026-09-02
+
+**Applied at the developer's direction. This SUPERSEDES §6's per-city reasoning entirely.**
+
+| Tier | Cities | Humans | Share |
+|---|--:|--:|--:|
+| **ROCK-FOUNDED** *(lateral bedrock access)* | **29** | **13,478,234** | **86.3%** |
+| **ICE-SHEET** *(bedrock kilometers down)* | 6 | 821,805 | 5.3% |
+| **ICE-SHELF** *(floating, no bedrock)* | 2 | 1,323,484 | 8.5% |
+
+**⭐ Two reclassifications the research forced, neither of them guessed:**
+
+- **⚠ BYRD IS NOT ROCK-FOUNDED.** [The ice at Byrd Station was core-drilled to bedrock: **2,164 m thick** — the
+  first Antarctic core to reach bed](https://en.wikipedia.org/wiki/Byrd_Station). **Byrd sits on the West
+  Antarctic Ice Sheet at 1,553 m, and its bedrock is over two kilometers down.** It had been assumed rock.
+- **✅ MIRNY IS CONFIRMED ROCK.** [Its structures stand on **four rock outcrops at Mabus Point**, chosen
+  because *"outcropping rock had broken through the coastal ice."*](https://en.wikipedia.org/wiki/Mirny_Station)
+
+**Also settled:** Marambio *(Seymour Island — notably ice-free)*, Scott and Fort McMurdo *(Ross Island volcanic
+rock)*, Sayowa *(East Ongul Island)*, Dumont d'Urville *(Île des Pétrels)*, Davis *(Vestfold Hills, 400 km²)*,
+and the whole Larsemann Hills cluster — **all rock-founded, all capable.**
+
+## The balance
+
+**Importers are now only those geologically forced:** Halley and Neumayer *(floating shelf)*; Vostok, Byrd and
+Amundsen Station *(ice sheet)*; Kunlun and Dome Fuji *(ice sheet — and **zero humans**, so nothing to feed)*.
+**Concordia is treated as a grower, because canon says it is** *(the Frostlands and hydroponics, on the ice
+surface)*.
+
+```
+import need (geologically forced)   237,609
+supply (Davis + Esperanza + belt + fishery)   404,191
+NATIONAL BALANCE                   +166,583   (+70%)
+```
+
+## ⭐⭐ AND THIS IS WHERE THE REAL FINDING IS — the model has been answering the wrong question
+
+**Look at the swing history over three days of work:**
+
+| Assumption | National balance |
+|---|--:|
+| §7 — the seven cities settled ad hoc | **−141,711 (−26%)** |
+| §11 — Lazar reclassified | +44,699 (+12%) |
+| §14 — Denison reclassified | +120,447 (+42%) |
+| **§15 — full geological criterion** | **+166,583 (+70%)** |
+
+> ## ⛔ **A 308,000-producer swing, entirely from re-answering "can this city grow?" — with no change to demand,
+> yields, productivity or canon. THAT IS NOT A MODEL CONVERGING. That is a model being asked a question it
+> cannot answer.**
+
+**The resolution is in the tier table: 86.3% of Tepenians live on bedrock.** **Physical capability to grow food
+is very nearly UNIVERSAL in this country.**
+
+> ## ⭐⭐ **SO GEOLOGY DOES NOT DETERMINE THE NATIONAL FOOD MAP. ECONOMICS DOES.** **"Can this city grow?" is
+> almost always YES — and therefore useless. The real question is "does it CHOOSE to, or does it specialise
+> away and import?"** **That is a worldbuilding decision, not a derivation, and no amount of geology will
+> produce it.**
+
+**Which retroactively explains every earlier instability, including the ones that looked like findings.** A
+city with a strong comparative advantage — **Sinheung at 45% fabrication** — would rationally import food and
+build chambers, exactly as a real economy specialises. **Nothing about its bedrock says so.**
+
+## ⭐ The one number that IS load-bearing, and it is a good one
+
+```
+export sector can feed          2,790,606 people  =  17.9% of national humans
+geologically forced importers   1,640,490 people  =  10.5%
+------------------------------------------------------------------
+SLACK                           1,150,116 people  =   7.4%
+```
+
+> ## **The export sector supports 17.9% of the population. Geology forces 10.5% of it to depend on that
+> sector. The remaining 7.4% — about 1.15 million people — CAN SPECIALISE AWAY FROM FOOD BY CHOICE and still
+> eat.**
+>
+> ## **That 7.4% is the Federation's entire economic freedom of manoeuvre in food, and it is a BUDGET the
+> division-of-industry pass gets to spend.** **Which cities are allowed to be Sinheung is now a finite,
+> quantified decision rather than an open-ended one.**
+
+## ✅ What this settles, and what it hands forward
+
+**SETTLED:** the geological criterion, all 37 cities tiered · Byrd and Mirny corrected · that Halley, Neumayer,
+Vostok, Byrd and Amundsen Station are the only forced importers · **that the national balance is a specialisation
+question, not a geology question.**
+
+**⏸️ HANDED TO THE PER-CITY PASS:** **how to spend the 7.4% slack** — which additional cities specialise away
+from food, and what they make instead. **{{Bunger Hills City}} is now firmly optional** *(desirable for
+uncorrelated supply, not required for survival)*.
+
+> ### ⚠ **And the standing caution stands: do NOT quote the +70% to three significant figures.** It rests on
+> Davis's 35% and Esperanza's 15% being right, on the belt existing at 1,500 km², and on the fishery sitting
+> at its ecological cap. **The useful output of this section is the 7.4% slack and the tier table — not the
+> balance.**
