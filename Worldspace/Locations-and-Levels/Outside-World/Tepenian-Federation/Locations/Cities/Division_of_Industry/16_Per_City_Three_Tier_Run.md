@@ -364,3 +364,68 @@ humans.** **Excluding all three, the real-city range is 23.4% (Fort McMurdo) to 
   schooling, which is already in baseline C1a.** ⚠ **A double-count risk worth checking.**
 - **`02_Cross_City_Industry_Differentiation_Table.md` is still empty** — and per
   `CLAUDE.md` it must be filled per city, in the same commit as that city's category work.
+
+---
+
+---
+
+# ⚠ PROVENANCE CORRECTION, AND THE SEJONG / MARAMBIO SPLIT — 2026-09-02
+
+## Correction: two of the "ten estimates" were never estimates
+
+**`Denison — structural/wind engineering ~25%` and `Cape Adare — marine 25%` are CANON
+§15 figures**, not judgments. `04` §3 states Cape Adare's *"25% explicitly includes
+harbor operations and guano"*, and `05` §226–232 treats Denison's 25% as an existing
+sector the instrument must be able to reproduce. **Mislabelled in the Half B write-up.**
+
+| Source | Workers | Share of mandate |
+|---|--:|--:|
+| **Canon `04` §3 + the two reclassified** | **3,049,369** | **82.7%** |
+| Derived from the food debt | 210,218 | 5.7% |
+| **Genuinely my estimates — EIGHT cities** | **429,702** | **11.6%** *(1.8% of national workforce)* |
+
+**Previously reported as 688,958 / 18.7% across ten cities — overstated.**
+
+## ✅ THE SEJONG / MARAMBIO SPLIT — developer ruling, and it removes the convergence risk
+
+> **Developer: *"Marambio's shipping connects with South America and the Weddell Sea. Its
+> airport connects with the rest of Tepenia."*** `[CGRM 2026-09-02 · Path 6]`
+
+**Half B flagged Sejong's 25% as the weakest of the eight, on the grounds that Marambio
+already held the South America corridor at 60% and Sejong risked duplicating it.**
+**The ruling shows they were never the same function.**
+
+| | **Marambio** *(canon 60%)* | **Sejong** |
+|---|---|---|
+| **Maritime** | **⭐ South America + the Weddell Sea** — the international shipping corridor and onward distribution across the Weddell | — |
+| **Aviation** | **⭐ DOMESTIC** — links Marambio to the rest of Tepenia. *(`Airports.md` already says so: "**Domestic** — links Marambio to other Tepenian cities.")* | **⭐⭐ INTERNATIONAL — Machu Picchu Airport**, *"connects directly to Ushuaia and the… Machu Picchu Border & Customs Authority"*, sited **closest to Sejong** |
+
+> ## ⭐⭐ **They divide by MODE and by DIRECTION, not by territory.**
+> **Marambio moves CARGO BY SEA into the country and PEOPLE BY AIR around it.**
+> **Sejong is where people and goods ENTER TEPENIA AT ALL.**
+
+### ⭐ And that makes Sejong's mandate stronger, not weaker
+
+**Sejong hosts the national border.** Customs, immigration, quarantine, and the
+inspection of everything arriving from Upper Earth — **in a nation that imports its
+phosphate existentially from a power it does not trust** *(`14`)*. **A border is
+mandated work in the strictest sense the test allows.**
+
+> **25% stands, and is arguably conservative.** *(Compare Marambio at 60% for cargo and
+> domestic flights.)*
+
+**⏸️ One question the ruling opens:** `Airports.md` records Machu Picchu Airport as
+*"closest to Sejong, but… close enough to Juan Carlos that the developer's own map places
+its marker right at Juan Carlos's label — same airport, not a separate one."* **So does
+Juan Carlos share the border function, or does Sejong hold it and Juan Carlos merely sit
+nearby?** **Juan Carlos already carries fishing 30%; adding a border share would make it
+a two-role city.**
+
+## Revised standing of the eight
+
+| Confidence | Cities | Note |
+|---|---|---|
+| **✅ Solid** | **{{Abowasa}} 10%** · **Scott 5%** · **Port Lockroy 5%** | Straight from canon's own commuter range and its own word *"small"* |
+| **✅ Now solid** | **Sejong 25%** | **Upgraded by the ruling above** |
+| **Reasonable by analogy** | Zhongshan 20% · Princess Elisabeth 25% · Concordia 15% | PE could be 15–20% *(consulting is lighter than industry)*; Concordia could be 20–30% *(Casey, a DUAL junction, carries 30%)* |
+| **⚠ Weakest — still** | **Dome Fuji 20%** | **An estimate resting on an estimate** — the seed archive is my own proposal, and a *passive* vault needs almost nobody. **10% is probably closer.** Worth only 8,005 workers either way |
