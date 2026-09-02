@@ -613,3 +613,68 @@ western terminus. Fixed in `City_Master_Reference/Halley_Subnet_Reference.md`.
   position rests on the Hwy 7 connector and Hwy 59. Does not change the tier arithmetic; worth carrying.
 - The city is *"the only city architecturally designed from inception for relocation"* — ski-mounted modules
   with active propulsion tracks, moving deliberately ahead of a shelf drifting 400–700 m/yr.
+
+---
+
+## 4. ⏸️ {{ABOWASA}} — HELD AT CURRENT VALUE, FLAGGED FOR END-OF-PASS REVIEW
+
+> **⚠ PLACEHOLDER NAME.** *"Abowasa"* is a working name folded from Aboa + Wasa (renamed 2026-07-05), not a
+> settled one. Re-flagged per standing practice.
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.54, **GROWER** — bedrock nunatak, food term 100%)* | 355,900 | **45.5%** |
+| **Mandated** *(held — see below)* | 42,622 | **5.4%** |
+| **FREE** | 383,600 | **49.0%** |
+
+**Distinctive tier: 426,222 (54.5%).** Canon §15: Technical/scientific 25% · Marine 15% · Commercial 15% ·
+Industrial 15% · Education 15% · Other 15%. **Canon flags this itself** as *"genuinely modest, no dominant
+sector,"* a *"small-scale economy,"* a city *"never a major economic node."*
+
+### ⚠ Why this one is HELD rather than determined
+
+**{{Abowasa}} grows its own food** — bedrock nunatak, ~130 km inland. **It carries NO food debt**, where a
+forced importer of this size would owe 73,034 worker-years.
+
+**That undercuts the rationale behind its current mandate.** The 10%-of-distinctive commuter-labor figure is
+**my own Half A estimate**, tagged at the time *"estimate not canon-sourced."* It derives from `05`'s
+commuter mechanism — *"5% of Halley + {{Abowasa}} workforce commuting"* — **which was built under the old
+model, and applied to both cities for the same reason: paying for food. Halley must. {{Abowasa}} need not.**
+
+**The full-§15 check finds nothing else nationally load-bearing here.** No institute, no fabrication role, no
+research elevated anywhere in canon the way Neumayer's design work or Vostok's bioinformatics are.
+
+### ⏸️ Held at current value — developer direction, 2026-09-02
+
+> *"For now, let's keep it at its current value, and flag it for review once all the cities are done, and
+> we'll see how cutting the labor affects national numbers."*
+
+**The review should test these three readings against the completed national picture:**
+
+| Reading | Mandated | Free | Note |
+|---|--:|--:|---|
+| **None — purely itself** | 0.0% | 54.5% | Canon's own "never a major economic node" language leans here |
+| Half of Marine 15% | 4.1% | 50.4% | Real participation without obligation |
+| **HELD: 10% of distinctive** | **5.4%** | **49.0%** | Current value, carried forward unchanged |
+| Full Marine 15% | 8.2% | 46.3% | |
+
+**What the review is actually for:** {{Abowasa}}'s commuter contribution feeds the Halley subnet's marine and
+food logistics. **Cutting it changes what the subnet's three forced importers rely on** — so the question can
+only be answered once every city's supply and obligation is on the table.
+
+### Carried flags, neither blocking
+
+- **⚠ Founding-nation consistency debt** *(the project's own flag)*: the *"Finnish and Swedish exiles,
+  jointly"* premise may not survive the established First Interwar operator-turnover history. Touches the
+  city's name, demonym, headline trait and its "Turku Remembrance" holiday.
+- **No `Local_Robot_Culture` pass exists** — deliberately deferred pending that fix.
+
+---
+
+## 📋 END-OF-PASS REVIEW REGISTER
+
+**Items deliberately held during the roster pass, to be revisited once all cities are determined.**
+
+| # | City | Held item | What the review tests |
+|---|---|---|---|
+| 1 | **{{Abowasa}}** | Commuter-labor mandate held at 10% of distinctive *(5.4% of workforce)* | Whether a city with **no food debt** should carry a commuter export at all — and what cutting it does to the Halley subnet's supply picture and the national balance |
