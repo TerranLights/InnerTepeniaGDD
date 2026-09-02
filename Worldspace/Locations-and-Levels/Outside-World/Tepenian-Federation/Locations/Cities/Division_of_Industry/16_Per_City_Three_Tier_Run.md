@@ -1404,7 +1404,7 @@ education, yeah?"* — **Yes at Esperanza, and that is exactly why the answer is
 |---|---|---|
 | **Esperanza Institute of Medicine** | Esperanza | **Education/childcare/family 25%** |
 | **Belgrano Institute of Medicine** | Belgrano | **Aviation/logistics 35%** — *"medevac is an aviation function… the school is downstream of the flight line"* |
-| **Sinheung Institute of Cybernetics and Robotic Care** | Sinheung | **Industrial fabrication 45%** |
+| **Sinheung Institute of Cybernetics and Robotic Care** | Sinheung | **Education / other 5%** *(⚠ corrected 2026-09-02 during Sinheung's own determination — this row first read "Industrial fabrication 45%," misreading `National_Medical`'s "Why Sinheung" passage. **That passage explains why the CITY hosts the Institute; it does not say which sector employs its staff.** An institute teaching care is staffed by educators. **Why a city hosts something ≠ which sector pays for it** — the three-different-sectors finding is unaffected)* |
 
 **Three institutes, three completely different host sectors. They do not share an industry — they share a
 NATIONAL FUNCTION.** A "Medical Institutes" §15 line would have to be carved out of education at one city,
@@ -1805,6 +1805,89 @@ MATERIALLY harmed. That is exactly the line the mandate test draws.**
 - **⏸️ Open:** whether the region-wide *"Alternative Culture"* reputation belongs to Shirayuki alone or
   genuinely extends to Sinheung and Zhongshan — **deliberately left open pending both cities**, and both are
   still ahead in this subnet.
+
+---
+
+## 17. ✅ SINHEUNG — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 329,374 | **40.7%** |
+| **Mandated** | 228,180 | **28.2%** |
+| **FREE — the character budget** | 252,199 | **31.2%** |
+
+**Distinctive tier: 480,380 (59.3%).** Canon §15 *(revised 2026-07-06, vision session)*: Industrial
+fabrication 45% · Technical/scientific 15% · Commercial/trade 15% · Marine/resource extraction 10% ·
+Diplomatic/inter-community 10% · Education/other 5%.
+
+### The mandate *(developer ruling C, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **45%** | 216,171 | **Industrial fabrication — FULL** | ✅ `04` §3 **FABRICATION provider**; the corpus's highest single sector |
+| **2.5%** | 12,010 | **Half of Education/other — the Institute** | ✅ One of only **three** national medical/care institutes |
+| **47.5%** | **228,180** | | |
+
+### ⭐⭐ The fabrication 45% may be the most load-bearing single sector in Tepenia
+
+**216,171 workers — the highest single sector in the entire Division-of-Industry corpus.** What it makes:
+
+> ***"Fabrication-synthesis chambers… the actual apparatus that creates robots"*** — shipped nationwide, so
+> that ***"a robot can be 'born' (built) in any Tepenian city regardless of whether that city has its own
+> chamber-manufacturing capability."***
+
+**In a country with a robot majority, this is where robots come from.** **Sinheung and Byrd are the only two
+cities that make them.** *(Mountain Pass was the historical third, dark since the Tower fell.)* **Mandated
+without argument.**
+
+**⭐ And built to a schematic designed elsewhere** — the **Mark IV, designed at Neumayer.** Sinheung's own
+canon calls its founding tension *"Claimed, Not Found"*: legitimacy **continuously reproven through output,
+never simply settled.** **The city that makes the nation's robots does it to another city's drawing, and
+guards the archive of it.**
+
+### ⚠ A CORRECTION to this file's own Institutes ruling, made the same day
+
+**The Institutes ruling *(§ "the Institutes do NOT get their own sector")* placed Sinheung's Institute in
+Industrial fabrication 45%. That was imprecise, and the row above is now corrected.**
+
+`National_Medical_and_Care_Institutes.md` says: *"**Why Sinheung.** Its §15 carries the corpus's highest
+single sector — Industrial fabrication: 45% — and it manufactures the Cradle chambers."* **That explains why
+the CITY hosts the Institute. It does not say which sector employs its staff.** An institute teaching *"the
+physical AND emotional care of, and for, robots — **not a repair school**"* is staffed by **educators**, and
+§15 has an education line.
+
+> **The distinction to keep: WHY A CITY HOSTS SOMETHING ≠ WHICH SECTOR PAYS FOR IT.**
+> **The Institutes ruling itself stands** — three institutes, three different host cities, no shared sector.
+
+### Why HALF of Education/other, not all
+
+**The Institute is the sole source of trained robot-care personnel nationwide** — unambiguously national
+provider work, and it was getting **zero** mandate. **But `Education / other` is a combined bucket**, and
+mandating all of it would conscript the *"other"* alongside the school.
+
+> **⚠ Honest caveat: the Institute has NO established headcount.** Esperanza's is ~3,150 and Belgrano's
+> ~1,750; `National_Medical` says Sinheung's throughput is *"much smaller than the robot share of the
+> population suggests — it replaces people who changed their minds, not people who died,"* since robot
+> career turnover is **voluntary rather than mortality**. **So 12,010 probably overstates it — but the sector
+> granularity does not go finer, and zero understates it worse.**
+
+### What stays FREE — all on established precedent
+
+| Sector | Why free |
+|---|---|
+| **Diplomatic/inter-community 10%** | *"A genuine sector given the cluster's density"* — **points inward**, exactly like Sejong's |
+| **Technical/scientific 15%** | *"Inherited Arctic and Antarctic Research Institute tradition"* — heritage research, as at Troll, Sejong, Rothera |
+| **Commercial/trade 15%** | The Tri-Cities cluster economy |
+| **Marine/resource extraction 10%** | *"Prydz Bay maritime access."* ⭐ Note Sinheung's raw materials arrive **by truck from Mirny** *(via the Hwy 110/Hwy 4 tri-junction at Zhongshan)*, **not by sea** — so its maritime is not the fabrication chain's input |
+
+### Notes
+
+- **⭐ The Institute is not only a school — it once moved national infrastructure.** The **Mountain Pass**
+  outpost *(the historical third chamber site, on Hwy 37 between Vostok and Kunlun)* **began as an act of
+  solidarity pushed for by this Institute** `[CGRM 2026-09-01 · Path 6]`. Sinheung supplied the means; Vostok
+  and Kunlun staffed it. **The 2.5% mandated above is the descendant of the sector that did that.**
+- **⚠ Hard canon:** physical infrastructure from Russia's Progress Station, but **the founding population is
+  Korean**, via Jeju-do decree — **Russia was never a founding claimant.**
 
 ---
 
