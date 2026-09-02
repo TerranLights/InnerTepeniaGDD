@@ -202,11 +202,109 @@ the city exists.
 
 ---
 
+---
+
+---
+
+# ✅ RESOLUTION 4 — THE RECIPROCAL-OBLIGATION TERM. List A item 1, closed.
+
+## ⭐⭐ The fix is a THREE-way split, not a reciprocal charge on importers
+
+**The problem was framed as "importers get food free."** Working it through, that is a
+symptom of something larger: **`09` §3.5 already noted that the distinctive tier holds
+MANDATED provider work — *"a stevedore at Sanay is not there by preference; the
+Federation needs a port"* — and the model never separated it out.**
+
+> ## **So the character budget was overstated for EVERY city, not only for importers.**
+
+| Tier | What it is | Free? |
+|---|---|---|
+| **1. BASELINE** | local necessities — the city keeps itself alive | ⛔ no |
+| **2. MANDATED DISTINCTIVE** | **national provider work** — food, fabrication, logistics, medicine, energy, Arcanet. **Including whatever an importing city sends back to pay for its food** | **⛔ no — mandated nationally rather than locally** |
+| **3. FREE DISTINCTIVE** | **the actual character budget** — local texture, weird industries, and *discretionary* exports | ✅ **yes** |
+
+**⭐ The mandated/discretionary line matters and is drawn on a real test: would the
+nation suffer materially without it?** **Sanay's docks, yes. Shirayuki's ARTS and Palmer
+City's HOSPITALITY, no** — those are exports the cities *chose*, and they belong in the
+free tier. **A stevedore is conscripted; a musician is not.**
+
+## The national result
+
+| | Old *(two-tier)* | **New *(three-tier)*** |
+|---|--:|--:|
+| Baseline | 40.6% | **42.0%** |
+| **Mandated distinctive** | *(invisible)* | **11.5%** |
+| **FREE — the real character budget** | **59.4%** | **⬇ 46.5%** |
+
+> ## ⛔ **The character budget the culture work was going to spend was overstated by
+> nearly THIRTEEN POINTS.**
+
+## ⭐⭐ And the freedom ranking inverts AGAIN — this time defensibly
+
+| Least free | | | Most free | |
+|---|--:|---|---|--:|
+| **Fort McMurdo** | **23.4%** | | Dome Fuji | 72.7% |
+| **Marambio** | **23.5%** | | Kunlun | 71.4% |
+| **Belgrano** | **25.1%** | | Palmer City | 60.9% |
+| **Sayowa** | **27.3%** | | Sejong | 60.6% |
+| **Sanay · Janbogo** | **27.8 · 29.4%** | | Lazar · Scott · Port Lockroy | 59.0% |
+
+> ### ⭐ **The least free cities in Tepenia are its LOGISTICS AND FABRICATION cities —
+> the ports, the airfields, the factories.** **Not the coldest places, not the hardest
+> places. The USEFUL ones.**
+>
+> **`09` §3.5's resentment engine survives, but its subject changes: it is not that the
+> hardest-working cities have least to show for it. It is that the cities the Federation
+> most depends on are the ones with the least life of their own.**
+
+## ⛔⛔ AND THE HOLE, MADE CONCRETE
+
+**Three importing cities owe food-labour back and have NO recorded national export
+whatsoever:**
+
+| City | Humans | **Owes** | Recorded export | Short |
+|---|--:|--:|---|--:|
+| **Halley** | 709,749 | **102,800** | **— none —** | 102,800 |
+| **Neumayer** | 613,735 | **88,893** | **— none —** | 88,893 |
+| **Vostok** | 129,617 | **18,774** | **— none —** | 18,774 |
+| | **1,453,101** | | | **⛔ 210,467** |
+
+> ## **1.45 million people — 9.3% of the national human population — consume nationally
+> and produce nothing nationally, as far as canon records.** **They must be doing
+> something. Nobody has ever said what.**
+
+**⚠ This is a DEVELOPER RULING, not a computation.** *(Byrd and Amundsen Station, by
+contrast, cover their obligations comfortably — fabrication + dispatch, and relay +
+Tower ops.)*
+
+**⭐ And the shape of the answer is suggestive rather than open:** Halley and Neumayer
+are the two **ice-shelf** cities, sitting on the Weddell/Atlantic coast at the receiving
+end of the South Africa corridor. **Vostok sits on Hwy 37 with the plateau behind it.**
+**Whatever they do, geography is offering it.**
+
+## ⏸️ The remaining data gap — and it is the per-city pass's OWN work
+
+**Thirteen cities show 0% mandated because their §15 sectors have never been
+classified** *(`04` §3 set 22 providers aside and left *"15 cities remain to be
+needs-assessed"*)*: Denison · Concordia · Dumont d'Urville · {{Abowasa}} · Princess
+Elisabeth *(listed as an energy-engineering provider with no percentage)* · Cape Adare ·
+Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji.
+
+> ## ✅ **STATUS: LIST A ITEM 1 IS RESOLVED AS A METHOD. The term is defined and
+> computable, and the national and per-city figures above are real.**
+> ## **What remains is per-city data — which is precisely what the per-city pass
+> generates. It is no longer a blocker; it is the pass's first task.**
+
+---
+
 # Status
 
-**✅ Resolved here:** fungi sizing · Cape Adare's output and its dilemma · seed vault
-siting.
+**✅ Resolved:** fungi sizing · Cape Adare's output and its dilemma · seed vault siting ·
+**the reciprocal-obligation term.**
 
-**⛔ Still blocking the per-city pass: LIST A, all three.** **The reciprocal-obligation
-gap is the one that actually requires work; the other two are a founding decision and a
-table.**
+**⛔ Blocking the per-city pass — now TWO, not three:**
+1. **{{Bunger Hills City}}** — a founding decision.
+2. **The empty differentiation table** — mechanical, but `CLAUDE.md` binds it per-city.
+
+**🔴 And one developer ruling the pass will hit immediately: what Halley, Neumayer and
+Vostok give the Federation in exchange for 210,467 worker-years of food.**
