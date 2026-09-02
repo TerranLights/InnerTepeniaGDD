@@ -159,7 +159,7 @@ does not.**
 | City | Humans | **Mandated role** | Canon basis |
 |---|--:|---|---|
 | **Princess Elisabeth** | 553,768 | **⭐⭐ ENERGY ENGINEERING** | §15: *"genuine expertise in Antarctic energy systems **that other cities traded for**"* — **an export stated outright.** `04` §3 already listed the role with no figure |
-| **Zhongshan** | 631,985 | **MARITIME LOGISTICS — the Tri-Cities' port** | §15: *"Prydz Bay maritime logistics… cluster economy with Sinheung."* **Sinheung builds the nation's Cradle chambers; they have to leave by sea, and Zhongshan is how** |
+| **Zhongshan** | 631,985 | ~~MARITIME LOGISTICS — the Tri-Cities' port~~ **→ WITHDRAWN 2026-09-02. See §18** | **⚠ This row misquoted §15.** *"Prydz Bay maritime logistics… cluster economy with Sinheung"* **appears nowhere in Zhongshan's §15**, which says *"Prydz Bay **fishing**"* and *"Zhongshan is **not a trade hub**."* The *"cluster economy"* phrase is **Sinheung's** annotation. **Replaced by a technical/scientific mandate — see the determination** |
 | **Cape Adare** | 745,967 | **ROSS SEA GATEWAY + ⭐ PHOSPHATE EXTRACTION** | §15 *"Ross Sea gateway — maritime trade, the logistics of arrival and departure"*; phosphate per `15` Resolution 2 |
 | **Sejong** | 316,691 | **INTERNATIONAL GATEWAY** | §15: *"the most accessible part of Antarctica, closest to South America… a trade and transit hub."* **Machu Picchu Airport — the nation's international arrival point — is beside it** |
 | **Denison** | 522,975 | **STRUCTURAL / WIND ENGINEERING** | §15: *"Denison's defining economic sector — an unusually large share."* ⚠ Its canon `~25%` is an **old-convention** figure *(`README`)* |
@@ -347,7 +347,7 @@ humans.** **Excluding all three, the real-city range is 23.4% (Fort McMurdo) to 
 | City | My % | Role |
 |---|--:|---|
 | Denison · Princess Elisabeth · Cape Adare · Sejong | **25%** | wind engineering · energy engineering · Ross Sea gateway + phosphate · international gateway |
-| Zhongshan · Dome Fuji | **20%** | the Tri-Cities' port · seed archive + ice-core |
+| ~~Zhongshan~~ · Dome Fuji | ~~20%~~ · 20% | ~~the Tri-Cities' port~~ **(withdrawn — see §18)** · seed archive + ice-core |
 | Concordia | 15% | the national crossroads |
 | {{Abowasa}} | 10% | commuter labor |
 | Scott · Port Lockroy | 5% | volcanic extraction · courier node |
@@ -435,7 +435,7 @@ a two-role city.**
 |---|---|---|
 | **✅ Solid** | **{{Abowasa}} 10%** · **Scott 5%** · **Port Lockroy 5%** | Straight from canon's own commuter range and its own word *"small"* |
 | **✅ Now solid** | **Sejong 25%** | **Upgraded by the ruling above** |
-| **Reasonable by analogy** | Zhongshan 20% · Princess Elisabeth 25% · Concordia 15% | PE could be 15–20% *(consulting is lighter than industry)*; Concordia could be 20–30% *(Casey, a DUAL junction, carries 30%)* |
+| **Reasonable by analogy** | ~~Zhongshan 20%~~ *(**withdrawn** — built on a misquote, see §18)* · Princess Elisabeth 25% · Concordia 15% | PE could be 15–20% *(consulting is lighter than industry)*; Concordia could be 20–30% *(Casey, a DUAL junction, carries 30%)* |
 | **⚠ Weakest — still** | **Dome Fuji 20%** | **An estimate resting on an estimate** — the seed archive is my own proposal, and a *passive* vault needs almost nobody. **10% is probably closer.** Worth only 8,005 workers either way |
 
 ---
@@ -1888,6 +1888,96 @@ mandating all of it would conscript the *"other"* alongside the school.
   and Kunlun staffed it. **The 2.5% mandated above is the descendant of the sector that did that.**
 - **⚠ Hard canon:** physical infrastructure from Russia's Progress Station, but **the founding population is
   Korean**, via Jeju-do decree — **Russia was never a founding claimant.**
+
+---
+
+## 18. ✅ ZHONGSHAN — DETERMINED *(replacing a withdrawn estimate)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills ice-free oasis, food term 100%)* | 396,635 | **41.2%** |
+| **Mandated** | 148,786 | **15.4%** |
+| **FREE — the character budget** | 418,019 | **43.4%** |
+
+**Distinctive tier: 566,805 (58.8%).** Canon §15: Technical/scientific ~35% · Industrial/manufacturing ~25% ·
+Marine resource extraction ~15% · Commercial ~15% · Education ~7% · Other ~3%.
+
+### The mandate *(developer ruling, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **26.25%** | 148,786 | **Technical/scientific — THREE QUARTERS of the 35% sector** | ✅ §15's own export clause |
+
+> **Developer:** *"Science and Technology is fundamentally Zhongshan's identity, although granted, it is not
+> as though everybody in the city is a scientist and/or technician (because cities need other people doing
+> other jobs, as well). So, I would say somewhere in that range between 38 to 48% is fine."*
+>
+> **That 38–48% band is the FREE tier**, and it is exactly the span between the analyst's option B *(half
+> technical → 48.5% free)* and option C *(full technical → 38.2% free)*. **Three-quarters lands at 43.4% —
+> the midpoint.**
+
+### ⚠⚠ THE WITHDRAWN ESTIMATE — a fabricated quote, and how it got here
+
+**Half B listed Zhongshan as `MARITIME LOGISTICS — the Tri-Cities' port` at 20%, citing §15 as saying:**
+*"Prydz Bay maritime logistics… cluster economy with Sinheung."*
+
+> ## **That quote does not exist.**
+
+**Zhongshan's actual §15 says the opposite in two places:**
+
+| Half B claimed | §15 actually says |
+|---|---|
+| *"Prydz Bay maritime **logistics**"* | *"Marine resource extraction: ~15% — **Prydz Bay FISHING** and related industries"* |
+| *"cluster economy with Sinheung"* | **This is SINHEUNG's annotation, not Zhongshan's** |
+| A port role at 20% | *"Commercial: ~15% — more modest than a city like Janbogo; **Zhongshan is NOT a trade hub**"* |
+
+**Provenance, per the developer 2026-09-02:** *"That quote… was written by another iteration of Claude using
+the Sonnet model (which just interjected it without my say-so, probably based on an assumption from several
+different statements I made)."* **It was never developer-approved.** **All three sites where it propagated in
+this file are struck above.**
+
+> ### ⭐ **And the distinction it teaches is worth keeping.**
+> **At Sanay, Sejong and Juan Carlos, §15 was SILENT about a national function — a gap, which invites
+> inference. Here §15 makes a STATEMENT: *"not a trade hub."* Silence invites inference; denial forecloses
+> it.** **The estimate did not fill a gap; it overrode a fact.**
+
+**Sinheung's own determination had already contradicted the premise an hour earlier:** its raw materials
+arrive *"by truck from Mirny via the Hwy 110/Hwy 4 tri-junction at Zhongshan,"* **not by sea.**
+
+### ⭐⭐ NEW CANON — the chambers do not travel by sea
+
+> **Developer, 2026-09-02** `[CGRM 2026-09-02 · Path 6]`: ***"There's enough highway access connecting at the
+> Tri-Cities (namely Hwy 4, Hwy 22, and Hwy 110, specifically, as well as a nearby airport) that shipping
+> robot-synthesis/manufacture chambers via the ocean is not necessary."***
+
+**Fabrication-synthesis chambers move by ROAD and AIR.** Three highways converge at the tri-junction —
+**Hwy 4, Hwy 22 and Hwy 110**, with Zhongshan as **Hwy 110's own northwest terminus** — plus **the Tri-Cities
+Airport** *(`Airports.md` L13, shared by all three cities)*. **This settles how Sinheung's national output
+reaches the country, and it closes the maritime question for the whole cluster.**
+
+### What the national role actually is
+
+**§15's largest sector states it outright:** *"Technical/scientific: ~35% — the research heritage is
+continuous from the founding station; **Zhongshan produces engineers and researchers who end up across
+Tepenia**."*
+
+**An export clause inside the annotation itself** — the same shape as Princess Elisabeth's *"expertise other
+cities traded for."* ***Zhongshan's national contribution is PEOPLE, not cargo.*** **The analyst proposed
+half on the Princess Elisabeth split; the developer ruled three-quarters, on the grounds that science and
+technology is not one half of this city's character but the whole of its identity — bounded only by the fact
+that a city still needs people doing other things.**
+
+### What stays FREE
+
+- **Industrial/manufacturing 25%** — *"precision manufacturing, with the craft ethic applying to industrial
+  output as much as to art."* **No stated national reach**, unlike Rothera's subnet role or Sinheung's
+  chambers.
+- **Marine 15%** — **fishing**, and `04` §3 does **not** list Zhongshan among the national fish providers.
+- **Commercial 15%** — **denies itself:** *"Zhongshan is not a trade hub."*
+- **Education 7% · Other 3%** — local.
+- **⚠ The three-highway junction is NOT mandated.** **A crossroads is not automatically an employer** — canon
+  already treats the **Sayowa Junction** as separate from Sayowa the city — and §15's *"not a trade hub"* is
+  an explicit denial rather than an omission.
 
 ---
 
