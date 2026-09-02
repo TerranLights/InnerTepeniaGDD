@@ -434,9 +434,34 @@ question is most interesting and least settled, for opposite reasons.
 balance — **the single largest item in the import ledger.** ⚠ **Its resolution changes the national balance
 more than any other open question in this folder.**
 
-**What an investigation needs to settle:** how much of the 34 km² the city itself occupies; whether Lazar
-builds upward, outward onto the ice, or downward; **and what the real Schirmacher Oasis's ~100 meltwater lakes
-give it** *(water is a growing input Tepenia otherwise pays for in energy)*.
+**What an investigation needs to settle:** how much of the 34 km² the city itself occupies, and **what the real
+Schirmacher Oasis's ~100 meltwater lakes give it** *(water is a growing input Tepenia otherwise pays for in
+energy)*.
+
+### ✅ RULED 2026-09-01 — Lazar builds UPWARD, OUTWARD ONTO THE ICE, **and** DOWNWARD. All three.
+
+`[CGRM 2026-09-01 · Path 6 · developer ruling]` — *"I can't think of much argument against it."*
+
+**Tested, and it holds — but the three are not interchangeable. Each answers a different constraint, and that
+is what makes the ruling useful rather than merely permissive:**
+
+| Direction | What it is for | The real cost |
+|---|---|---|
+| **⬇ DOWNWARD** — excavated into oasis rock | **⭐ The thermally cheap option, and the RIGHT ONE FOR FARMS.** No wind, no snow loading, and rock is an enormous thermal mass — underground runs far warmer than the surface, so a buried farm pays for lighting but very little heating. **In a city whose food is a POWER problem, this is the direction that matters.** | Excavation energy · ventilation · **⚠ and the oasis's own meltwater — digging beneath a lake-rich surface means pumping, permanently** |
+| **⬆ UPWARD** — vertical on rock | Maximizes the scarce, precious 34 km² of bedrock. **Rock is excellent foundation** — this is the straightforward direction | Wind loading · ice accretion on tall structures · vertical movement of people and freight |
+| **↔ OUTWARD onto the ice** | **The frontier — what you build when the rock runs out** | **⚠ The genuinely expensive one, and the reason to rank it third.** Grounded ice **flows**, so structures need periodic re-levelling; **heated buildings melt into ice and sink**; snow accumulation buries them. Real Antarctic history is unkind here — Halley VI rides on skis and has been physically relocated; the old Byrd Station was crushed; the Amundsen–Scott dome was buried |
+
+> ## ⭐ **AND ONE LOOP THAT MAKES THE RULING BETTER THAN THE SUM OF ITS PARTS: excavating downward produces
+> CRUSHED ROCK — which is precisely the inorganic input for manufactured soil** *(`12` §3: manufactured soils
+> are *"mixtures of organic wastes and inorganic materials such as sand or crushed rock"*)*.
+> **Lazar digging its farms out of the ground produces the substrate to fill them with.**
+
+> ### ⚠ **A caution for whoever writes Lazar's culture: do NOT reproduce Concordia's dome/Frostlands divide.**
+> Concordia's axis is **shelter — comfort versus hardship.** **Lazar's axis is FOUNDATION — rock versus ice,
+> which is PERMANENCE versus IMPERMANENCE.** A rock-founded Lazar address does not move. An ice-margin address
+> is re-levelled on a schedule and will eventually be abandoned and rebuilt. **That is a different social fact
+> producing different people, and the standing rule against carrying one location's answers to another applies
+> directly here.**
 
 ## ⭐ ESPERANZA — the one city where OUTDOOR growing is genuinely plausible
 
