@@ -2074,6 +2074,77 @@ WORKFORCE.** **`16`'s convention gives 181,808** — 35% of *distinctive*.
 
 ---
 
+## 20. ✅ MIRNY — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — four rock outcrops at Mabus Point, food term 100%)* | 418,565 | **41.1%** |
+| **Mandated** | 239,966 | **23.6%** |
+| **FREE — the character budget** | 359,949 | **35.3%** |
+
+**Distinctive tier: 599,914 (58.9%).** Canon §15: Communications/Arcanet ~20% · Technical/scientific ~20% ·
+Industrial/manufacturing ~20% · Maritime ~15% · Commercial ~15% · Other ~10%.
+
+### The mandate *(developer ruling C, 2026-09-02 — "there's not even a question about it")*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **20%** | 119,983 | **Communications/Arcanet infrastructure — FULL** | ✅ §15: *"an unusually large sector, reflecting Mirny's unique subnet-hub role"* |
+| **20%** | 119,983 | **Industrial/manufacturing — FULL** | ✅ §15's own vision note — see below |
+| **40%** | **239,966** | | |
+
+### ⭐⭐ Canon ruled the industrial sector in its own words
+
+**Half B mandated only the Arcanet 20%. The §15's own developer-vision note ends by stating its conclusion
+outright:**
+
+> ***"Two distinct quarrying-to-manufacturing chains running through the same industrial core, giving Mirny's
+> ~20% Industrial/manufacturing sector share genuine claim to 'top-tier industrial hub' status AT THE
+> NATIONAL SCALE, NOT JUST THE SUBNET SCALE."***
+
+**This was not an inference to be drawn. It was a conclusion already written down and not yet applied.**
+
+### The two chains
+
+| Chain | Route | Established |
+|---|---|---|
+| **1** | **Quarries south toward the continental interior → Mirny's industrial yards → SINHEUNG**, where the material is fabricated into **robot-synthesis chambers**. Canon: ***"near-exclusive"*** | **Reassigned 2026-07-16**, resolving the Davis mining/breadbasket tension — *"previously misattributed to Davis"* |
+| **2** | Same quarries → the yards → **construction materials for the eastern highways** *(toward Casey and, via Hwy 110's spur, Concordia)* **+ the machinery that builds and maintains the subnet's infrastructure** | Developer vision, **2026-07-05** — *"the subnet's construction engine"* |
+
+**Both named uses are provider work. Nothing in the sector is described as discretionary.** Canon's own
+framing: *"Mirny didn't just administer the subnet's communications hub — **it built the subnet's own roads
+and the equipment that maintains them.**"*
+
+### The Arcanet 20%
+
+**Already mandated in Half B, and it stands.** §15 calls it *"an unusually large sector, reflecting Mirny's
+unique subnet-hub role"* — **routing Zhongshan, Casey, Davis, Vostok and Kunlun to each other** *(and
+explicitly **not** to Concordia, a different subnet, severed by the Split Brain)*.
+
+### What stays FREE
+
+- **Technical/scientific 20%** — *"inherited Soviet/Russian institutional research capacity."* Heritage
+  research, on the standing precedent for that annotation.
+- **Maritime 15%** — **in neither chain.** The quarries are **inland to the south**, the material arrives by
+  truck, and the output moves by road. *(Chambers travel by road and air per the 2026-09-02 ruling.)*
+- **Commercial 15% · Other 10%** — local.
+
+### Notes
+
+- **⭐ "The Threshold."** Mirny sits within seconds of arc of the **exact Antarctic Circle** — minimal polar
+  night AND minimal midnight sun, ~4–5 days each, the sun grazing the horizon without fully rising or
+  setting. **Canon calls this the city's central symbolic and civic fact.**
+- **Among the windiest coastal stations in Antarctica** *(sustained events >40 m/s)*. **The city is
+  architecturally built as its own windbreak** — concentric rings, dense, **residential woven into the
+  industrial core rather than separated.** *(The mandated sector is physically inside where people live.)*
+- **⭐ Robot kinship is the shared everyday condition of living inside the windbreak ring** — home and shelter
+  barely distinguishable — **not a founding incident.**
+- **⚠ Flagged for an eventual rename**, unresolved: the national composition *(China Primary 24.24%; Russia
+  only Significant 7.22%)* no longer matches the Russian ship and station the name and founding legend are
+  built around.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
