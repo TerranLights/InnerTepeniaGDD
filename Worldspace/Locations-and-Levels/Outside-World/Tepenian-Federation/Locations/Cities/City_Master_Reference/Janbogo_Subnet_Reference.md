@@ -70,6 +70,10 @@ of error this tier check exists to catch.
 ### Open threads
 Post-war refugee faction not obligatory but flagged as helpful; demonym TBD; exact founding/destruction dates TBD.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md** — not named; not covered by the L25 highway-only list either. No airport recorded either way.
+- **Highways.md L224, L230 — CONFIRMED ON THE HWY 183 MAIN LINE**, between the Cape Adare spur and Dumont d'Urville. Explicitly *"moved here from Hwy 2"* — Denison is a main-line stop, not a connecting-road spur (unlike Janbogo/Zukelli/Cape Adare on the same highway).
+
 ---
 
 ## Concordia
@@ -108,6 +112,11 @@ question**, `15` item 7, moving Concordia's food burden to 19.4% if corrected). 
 Six district names still lacking official titles (Taurus, Leo, Gemini, Scorpio, Aries); D-value correction
 pending; Concordia's Notable Figures section is entirely TBD.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L18** — named in the Mountain Pass Airport entry: *"reasonably accessible to Kunlun, Dome Fuji, Amundsen Station… and Concordia to an extent."* Mountain Pass is a separate historical outpost on Hwy 37, not Concordia's own airport.
+- **Airports.md L25** — also listed highway-only, no dedicated airport of its own. Consistent — access is by the tri-junction highways (Hwy 110/37/183), not aviation.
+- **Highways.md L61, L63, L65, L139, L144, L154, L156, L162, L197, L199, L203, L224, L226, L228, L263, L273–275** — Tepenia's **only genuine highway tri-junction**: Hwy 37, Hwy 110 AND Hwy 183 all terminate here, via the outer ring linking Concordia's Capricorn and Sagittarius districts. **Also the closest highway approach to Amundsen Station** (via Hwy 22, one transfer away).
+
 ---
 
 ## Dumont d'Urville
@@ -142,6 +151,10 @@ manufacturing 15% (repair-focused) · education 8% · other 7%.
 D=1.67 · workforce 341,560 · three-tier: baseline 48.0% / **mandated 0.0%** / free 52.0%. `13`/`16` treat this
 as an honest "nothing national" result — Dumont d'Urville's own Spec says its significance is *"more cultural
 and historical than industrial."* Taken at its word rather than invented.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent with the island-crossing/bridge-question emphasis in its own canon facts (reached overland, not by air).
+- **Highways.md L56, L65, L87, L89, L91, L95, L96, L224, L226, L231, L264** — **DOUBLE MAIN-LINE TERMINUS**: Hwy 2's own eastern end AND Hwy 183's own northern end converge here directly. The two highways connect to each other's endpoint at this exact city.
 
 ---
 
@@ -185,6 +198,10 @@ percentages are what my "H-tag" mandate figures were checked against, and both a
 ### Open threads
 Did the 1899 hut survive destruction (unresolved, high emotional weight); founding population composition TBD.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md** — not named; not covered by the L25 highway-only list either. No airport recorded either way.
+- **Highways.md L224, L229 — reached via a CONNECTING ROAD off Hwy 183, not the main line** — *"the same spur-access pattern already established for Fort McMurdo and Scott."*
+
 ---
 
 ## Zukelli
@@ -218,6 +235,10 @@ D=1.25 · workforce 944,859 · three-tier: baseline 41.4% / **mandated 14.6% (C-
 
 ### Open threads
 Janbogo's memorial-vs-avoidance relationship to the ruins; scale of Zukelli diaspora in Janbogo/Concordia; demonym TBD.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L11 — Zukelli/Janbogo Airport, shared.** *"The two cities are ~8km apart and share one airport between them."* Matches this file's own note that Zukelli is destroyed but still ~8km from a living city.
+- **Highways.md L224, L229 — reached via a CONNECTING ROAD off Hwy 183 (shared access pattern with Janbogo, per the same bullet)**, not a direct main-line stop.
 
 ---
 
@@ -256,6 +277,10 @@ least-free cities are the useful ones (ports, airfields, factories), not the har
 ### Open threads
 Exact extraction materials TBD; what "partially operational" means today; demonym TBD.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent with reach via a Hwy 183 spur rather than aviation.
+- **Highways.md L229 — reached via a CONNECTING ROAD off Hwy 183**, the same spur pattern shared with Scott (below).
+
 ---
 
 ## Janbogo
@@ -293,6 +318,10 @@ in the country, consistent with `16`'s finding that logistics hubs carry the hea
 ### Open threads
 Current post-war governance TBD (central DLC 6 question); relationship among the three Korean cities' diasporas in Concordia TBD; other notable figures TBD.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L11 — Zukelli/Janbogo Airport, shared.** Janbogo's own half of the shared airport with the ~8km-distant Zukelli ruins.
+- **Highways.md L211, L216, L224, L229, L265** — the **Hwy 175/Hwy 183 junction sits near Janbogo** (not near Concordia, despite Hwy 183 itself originating there). Janbogo itself is reached via a connecting road off Hwy 183, the same spur pattern as Zukelli, Cape Adare, Fort McMurdo and Scott.
+
 ---
 
 ## Scott
@@ -328,6 +357,10 @@ D=1.25 · workforce 291,102–291,103 (minor cross-file rounding) · three-tier:
 
 ### Open threads
 Demonym TBD; current relationship between Scott's and Fort McMurdo's surviving sections TBD; full economic detail beyond the confirmed Erebus operation TBD.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent — reached via the same spur as Fort McMurdo.
+- **Highways.md L229 — reached via a CONNECTING ROAD off Hwy 183**, the same spur as Fort McMurdo.
 
 ---
 

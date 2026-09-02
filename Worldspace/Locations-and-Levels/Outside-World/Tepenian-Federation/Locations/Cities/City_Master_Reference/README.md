@@ -8,6 +8,42 @@
 
 ---
 
+## ⭐ NATIONAL-SCOPE REFERENCE MATERIAL — not city-specific, useful for every assessment
+
+**Added 2026-09-02, outside the `Cities/` tree, at the developer's direction — these are
+not tied to any one city and should be checked whenever they're relevant, not just once.**
+
+### `Reference/Images/Maps/` — visual ground truth
+
+| File | Use |
+|---|---|
+| `Antarctica_highway_map_by_topology.jpeg` | The highway network by topology — cross-check against `Locations/Infrastructure/Highways.md` |
+| `Antarctica_map_by_station_by_national_country_possession_A2917745...png` | Real-world station/nation map, pre-edit — the base layer every founding-nation assignment traces back to |
+| `Tepenian airport and flight map.jpeg` · `...- highway overlay.jpeg` | The confirmed airport list's own source image, both plain and overlaid on the highway network — see `Locations/Infrastructure/Airports.md` |
+| `Tepenian Arcanet subnet map by region.jpeg` | The subnet boundaries, visually |
+| `North America with tentative labels.jpg` | ⚠ Scope unclear — not yet cross-referenced against any Tepenian content; flag if found irrelevant |
+
+**City-specific, not general — do not treat as national reference:**
+`Concordia-City_Color-Coded_map_by_District_-_Player_Paths.jpeg`,
+`Concordia_City_-_Extended_map_-_with_labels...jpeg`,
+`Concordia-City_Main_Quest_Trajectory_Map_2026-07-10.html`,
+`Concordia_City_viewed_from_the_air_-_banner_image.jpeg` — all Concordia-only.
+
+### `Reference/Real-World/` — three general-purpose folders
+
+*(The other six subfolders — `Davis_Geosciences_Research`, `Ice-Cold_Buddhism_Research`,
+`Pisces_Flood_Mechanism_Research`, `PTSD_Military_Trauma_Research`,
+`Vostok_Genetics_Research`, and the empty `Climate Data` — are single-city or
+single-character research, confirmed out of scope for this index by the developer.)*
+
+| Folder | Contents | Use |
+|---|---|---|
+| **`Industry_Staffing_and_Productivity/`** | MCAA Labor Productivity Factors (Ibbs & Sun, ASCE 2016) — the sourced basis for the whole difficulty layer; its in-depth companion critique; a wastewater-plant staffing guide (image-only PDF, not yet OCR'd) | Already consumed by `Division_of_Industry/08` §4.1, §6.4b. **The README inside names unobtained sources worth a future session** — RSMeans location factors, AWWA staffing benchmarks, CRREL cold-regions studies, McMurdo's functional staff breakdown |
+| **`jobs_professions_and_fields/`** | The full SOC 2018 manual (23 major → 98 minor groups) plus derived cross-category and district-matching notes | The source behind the SOC cross-check that found four missing industries in the 22-industry register (`00_Necessary_Industries_Register.md`) |
+| **`Stations/`** | `Antarctic_Stations_With_Airstrips.md`, the COMNAP Antarctic Station Catalogue (PDF) | The founding/real-world-basis reference for any city — **note `Locations/Infrastructure/Airports.md`'s own caveat: this list is background reference only, not a predictor of Tepenia's own airport network**, which was confirmed separately from the developer's own map |
+
+---
+
 ## ⛔ THE CANON-TIER LEGEND — read this before citing anything below
 
 **Applied uniformly across all five files. One correction was made mid-compile and is

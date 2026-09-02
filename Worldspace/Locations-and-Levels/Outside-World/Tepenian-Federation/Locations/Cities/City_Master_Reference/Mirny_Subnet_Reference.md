@@ -55,6 +55,11 @@ Aquarius / Scorpio / Sagittarius — **flagged low-confidence**, since Vostok's 
 ### Open threads
 Founding-legend gap (what happened to the original Russian population) genuinely unresolved. Whether the Vostok–Mirny cable is intact. Charlene's full backstory TBD.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L18** — the Mountain Pass Airport entry: *"On Hwy 37, between Kunlun and Vostok."* The outpost was *"a joint Vostok-Kunlun venture"* — historical, dark since the Tower fell; Mountain Pass is a separate site, not a Vostok airport.
+- **Airports.md L25** — Vostok itself is listed highway-only. Consistent — no airport of its own.
+- **Highways.md L154, L161** — on the **Hwy 37 (Mountain Cut Throughway)** main line, between Mountain Pass Airport and Concordia. The single hardest route in Tepenia to hitchhike (L165–177), and Vostok itself is not a roadside node on it — the highway's only stopping place is Mountain Pass.
+
 ---
 
 ## Mirny (the city)
@@ -94,6 +99,10 @@ Taurus / Libra / Virgo.
 ### Open threads
 The rename question. Post-war relay hardware status. Two placeholder figures (Bellandry, Marchenko).
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L12 — Mirny Airport, confirmed.** No shared-city note or further detail given.
+- **Highways.md L195, L197** — on the **Hwy 110 (Coastal Cut Highway)** main line, between Davis and Casey.
+
 ---
 
 ## Zhongshan
@@ -128,6 +137,11 @@ Libra / Virgo / Taurus.
 ### Open threads
 The Zhongshan/Kunlun "two faces of Sinian Tepenia" relationship. Whether the 20% maritime-port mandate holds up to developer ruling — genuinely my own estimate, weakest-tier confidence alongside Dome Fuji's.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L13 — The Tri-Cities Airport, shared with Sinheung and Shirayuki.** *"One regional airport for the whole Larsemann Hills cluster."*
+- **Airports.md L18** — also named in the Mountain Pass Airport entry's origin story: *"Zhongshan's tie runs to Kunlun"* (China-Primary census kinship), part of why Sinheung pushed for the outpost. Not an airport in Zhongshan itself.
+- **Highways.md L57, L60, L63, L108, L139, L141, L146, L195, L197, L201, L262** — the **Zhongshan/Sinheung/Shirayuki tri-junction**: Hwy 4, Hwy 22 AND Hwy 110 all converge here. Zhongshan is specifically Hwy 110's own northwest terminus.
+
 ---
 
 ## Shirayuki
@@ -161,6 +175,11 @@ Leo / Aquarius / Pisces.
 ### Open threads
 Whether the region-wide "Alternative Culture" reputation belongs to Shirayuki alone or genuinely extends to Sinheung/Zhongshan too — deliberately left open pending both cities' megasheets.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L13 — The Tri-Cities Airport, shared with Zhongshan and Sinheung.**
+- **Airports.md L18** — also named in the Mountain Pass origin story: *"Shirayuki's [tie runs] to Vostok"* (Japan-Primary census kinship). Not an airport in Shirayuki itself.
+- **Highways.md L57, L60, L63, L101, L103, L105, L108, L139, L141, L146** — the **Zhongshan/Sinheung/Shirayuki tri-junction**, and Shirayuki is specifically **Hwy 4's own eastern terminus.**
+
 ---
 
 ## Davis
@@ -193,6 +212,10 @@ Virgo / Taurus / Capricorn.
 
 ### Open threads
 The hypersaline lakes' scientific/economic use. Its own vision-notes originally framed it as mining-dominant, since corrected.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent — Davis's identity is agricultural/limnological, not aviation.
+- **Highways.md L195, L197** — on the **Hwy 110 (Coastal Cut Highway)** main line, between Zhongshan and Mirny.
 
 ---
 
@@ -228,6 +251,11 @@ Capricorn / Aquarius / Libra (corrected 2026-07-31 from an earlier Aquarius-led 
 ### Open threads
 Whether Sinheung's own Zhongshan-contrast pattern (assertive vs. withdrawn) generalizes further.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L13 — The Tri-Cities Airport, shared with Zhongshan and Shirayuki.**
+- **Airports.md L18 — Sinheung is the origin of the Mountain Pass Airport entry itself.** *"The outpost began as an act of solidarity from the Tri-Cities, pushed for by the Sinheung Institute of Cybernetics and Robotic Care"* — Sinheung's census ties run to BOTH Kunlun and Vostok, the only Tri-City with kinship to both plateau cities and the industrial means to act on it.
+- **Highways.md L57, L60, L63, L101, L103, L108, L139, L141, L146** — the **Zhongshan/Sinheung/Shirayuki tri-junction**, and Sinheung sits directly on the **Hwy 4** main line between Mawson and Shirayuki.
+
 ---
 
 ## Casey
@@ -260,6 +288,10 @@ Leo / Virgo / Hub *(unusual third slot — "Hub" itself, reflecting Casey's own 
 
 ### Open threads
 Timing of Casey's destruction within the Long Night War — early strategic target or late survivor — unresolved.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent with Casey's identity as the Hwy 110×Hwy 2 highway junction, not an aviation hub.
+- **Highways.md L56, L89, L197** — **THE HWY 110 × HWY 2 JUNCTION ITSELF** — Casey is literally where Hwy 2 begins (its western end is "junction with Hwy 110") and where Hwy 110 passes through. Casey's own destruction severs this junction at the source.
 
 ---
 
@@ -295,6 +327,11 @@ Aquarius / Capricorn / Libra — **flagged atypical** (curated, largely-robot de
 
 ### Open threads
 Whether the founding human population's fate is ever addressed. The observatory's five centuries of findings — flagged as a *required* DLC story deliverable, not yet designed. Vosora Lashár Tanslock's undetermined Kunlun connection.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L18 — Kunlun is a primary subject of the Mountain Pass Airport entry.** *"A joint Vostok-Kunlun venture"* — the outpost that once manufactured chambers on residual Tower power, now dark. *"Kunlun's tiers carry China (Primary), Japan and South Korea (Significant)."*
+- **Airports.md L25** — Kunlun itself is also listed highway-only; Mountain Pass is a separate site on Hwy 37, not an airport in Kunlun.
+- **Highways.md L154, L160, L161, L165–177** — on the **Hwy 37 (Mountain Cut Throughway)** main line, between the Hwy 22 dual-junction and Mountain Pass Airport. Comes before Vostok along this route.
 
 ---
 

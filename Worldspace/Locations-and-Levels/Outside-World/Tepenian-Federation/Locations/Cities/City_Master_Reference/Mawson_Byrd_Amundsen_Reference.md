@@ -61,6 +61,10 @@ Mega_Init's real-world inspirations (Odessa, Varna, Trogir, Jeju City) are resea
 - Arcanet hub's exact war-damage extent — TBD
 - Whether Mawson's founding-nation dilution (Australia behind China) gets the same correction treatment as Shirayuki/Sinheung — explicitly the developer's own open call
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent with Mawson's identity as a subnet-hub reached by highway (Hwy 4).
+- **Highways.md L101, L103** — on the **Hwy 4 (Mawson-Sinheung Highway)** main line, between the Sayowa Junction and Sinheung.
+
 ---
 
 ---
@@ -106,6 +110,10 @@ Real-world inspirations (Felixstowe, Trois-Rivières, Kryvyi Rih, Perpignan, Dji
 
 - Who controls/maintains the Sayowa Junction post-war (potential DLC 4/5 contested-infrastructure link, echoing Troll Airfield)
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent — Sayowa's defining infrastructure is the highway junction (Hwy 4 · 7-ext · 37) and its Spur, not aviation.
+- **Highways.md L57, L59, L61, L68, L103, L107, L127, L131, L154, L158, L246–252, L261** — **THE SAYOWA JUNCTION**, a genuine three-way crossing of Hwy 4/7-ext/37 sitting NEAR (not in) the city, linked by the dedicated **Sayowa Spur** (its own section, L246–252). *"The whole continent's connectivity plausibly depends on it"* per L89's own bullet.
+
 ---
 
 ---
@@ -150,6 +158,11 @@ Real-world inspirations (Paro Taktsang, Potala Palace, Angkor Wat) are research 
 ### Open threads
 
 - Ice core archive's war survival; Mawson-subnet Arcanet cable intact?; demonym; the mechanism of the founding population's disappearance (gradual attrition vs. specific event) — genuinely unresolved even at the canon tier
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L18** — named in the Mountain Pass Airport entry as one of the sites the outpost was *"reasonably accessible to"* (via the nearby Hwy 22 dual-junction). Not an airport in Dome Fuji itself — the historical two-route aviation supply lifeline (Troll + a Sinheung-area airstrip) is the city's own real aviation history, separately established.
+- **Airports.md L25** — Dome Fuji is also listed highway-only; consistent, it has no airport of its own.
+- **Highways.md L154, L159** — **CONFIRMED STOP** on the **Hwy 37 (Mountain Cut Throughway)** main line, between the Sayowa Junction and the Hwy 22 dual-junction. **⚠ Dome Fuji's own Specs file previously said "no highway access" — flagged in this same line as stale, needing a corresponding fix.**
 
 ---
 
@@ -199,6 +212,10 @@ Real-world inspirations (Red Deer, Derinkuyu, Ruhr Valley, Coober Pedy, Shenzhen
 - Demonym (proposed "Byrdian," not locked)
 - Internal district/faction structure — flagged as a standing design requirement since Byrd must carry a whole DLC's complexity alone
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent with the canon facts above: Byrd's aviation route to Concordia is closed (aircraft failure), and its confirmed routes are overland — Hwy 1 north, Hwy 22 (Transcontinental) east.
+- **Highways.md L55, L60, L74, L76, L81, L137, L139, L141, L143, L260, L273–275** — **DOUBLE MAIN-LINE TERMINUS**: Hwy 1's own western end AND Hwy 22's own western end converge here directly — *"both highways' endpoints meet directly."* The dedicated **"Route to Byrd from Concordia"** section (L273–275) exists specifically because reaching Byrd overland is a long, multi-transfer journey.
+
 ---
 
 ---
@@ -244,6 +261,11 @@ Seven real-world inspirations (IceCube surface facility, ISS interior, Antarctic
 
 - Kendra Heinrich's full story — explicitly reserved for DLC 1
 - What the pre-Split-Brain archive actually contains
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L18** — named in the Mountain Pass Airport entry as one of the sites *"reasonably accessible"* to the outpost, via the nearby Hwy 22 dual-junction. Not an airport at Amundsen Station itself.
+- **Airports.md L25** — Amundsen Station is also listed highway-only; consistent with its role as a highway convergence point (Hwy 22 passes through; Hwy 175 and Hwy 59 terminate here) rather than an aviation site.
+- **Highways.md L137, L144, L183, L185, L211, L213, L217, L267** — **THREE HIGHWAYS CONVERGE HERE**: Hwy 22 (Transcontinental) passes directly through the South Pole; Hwy 175 and Hwy 59 both terminate at ramps nearby, ranked by proximity to the Pole (Hwy 175's ramp is closer than Hwy 59's).
 
 ---
 

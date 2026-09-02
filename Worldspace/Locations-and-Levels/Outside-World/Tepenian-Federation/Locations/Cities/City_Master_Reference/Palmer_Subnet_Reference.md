@@ -59,6 +59,12 @@ The richest/most emotionally weighted finding in this file: a robot dockworker i
 ### Open threads
 - Notable figures: TBD. Second municipal holiday slot open. Census "Lost and Ruined Cities" listing gap (low priority).
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L16 — Marambio Airport, confirmed, Domestic.** *"Links Marambio to other Tepenian cities via the highway/aviation network"* — distinct from the international airport nearby (L17), per the developer's own highway-overlay map.
+- **Airports.md L19** — cited as the comparison point for Belgrano Airfield: *"paralleling Marambio's role in the Palmer subnet."*
+- **Highways.md L55, L74, L78, L80** — **Hwy 1's ONLY inland main-line stop on the Peninsula**, reached via the causeway/bridge chain across Seymour/Snow Hill/James Ross Islands and the Prince Gustav Channel. Port Lockroy, Palmer City and Rothera are all reached from ramps further along, not from Marambio directly.
+- **⭐ Developer clarification, 2026-09-02: Machu Picchu Airport (L17) is the ONE international airport in Tepenia — it alone connects outward, to South America. Every other confirmed airport in the national list (Zukelli/Janbogo, Mirny, the Tri-Cities, Troll, Rothera, Marambio, Belgrano) is Domestic — they connect to each other, not off-continent.** Applies to every airport citation in this reference; noted here since Marambio's own entry is where the Domestic/International contrast first appears in `Airports.md`.
+
 ---
 
 ## Signy
@@ -145,6 +151,10 @@ Because robots don't age, a single Caregiver-Teacher can remain a living verific
 ### Open threads
 - Notable figures: two unfilled placeholders. Birth registry survival status. Destruction timeline (early/late war).
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md** — not named; not covered by the L25 highway-only list either. No airport recorded either way.
+- **Highways.md L55, L74, L78 — HWY 1's OWN NORTHERN TERMINUS.** *"The only land route connecting the Antarctic Peninsula to the rest of Tepenia"* starts here — Esperanza is the Peninsula's gateway.
+
 ---
 
 ## Sejong
@@ -185,6 +195,9 @@ This file's own header flags a **live, incompletely-fixed canon bug**: an invali
 ### Open threads
 - Notable figures: two unlocked placeholders (one, "Educator Yoon Seo-yeon," replaced a name that violated the No-Subcontinentals rule). Fate of the island's other national communities. Whether the coexistence experiment "worked."
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L17 — Machu Picchu Airport, closest to Sejong.** International — *"connects directly to Ushuaia and the… Machu Picchu Border & Customs Authority."* **Directly relevant to the open border-sharing question with Juan Carlos noted above** — the developer's own map places the marker "right at Juan Carlos's label," same airport not a separate one.
+
 ---
 
 ## Juan Carlos
@@ -222,6 +235,9 @@ One-liner: robot standing measured by argumentative skill in the unnamed gatheri
 
 ### Open threads
 - Notable figures: TBD. Demonym: TBD. Whether Arcanet infrastructure survived the strike (ties to "The Archivist's Trail" cross-DLC questline).
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L17 — Machu Picchu Airport, sits close enough to Juan Carlos that the developer's own map marks it at Juan Carlos's label.** *"Same airport, not a separate one"* from Sejong's. **Directly relevant to the open border-sharing question** noted in Sejong's entry above — whether Juan Carlos holds a share of the international-gateway mandate.
 
 ---
 
@@ -269,6 +285,10 @@ This file's own header states it deliberately **does not** build culture content
 ### Open threads
 - The gynoid's name/identity and fate (developer-paused, high sensitivity). The diplomat's name/nationality. The Antarctica flag's ultimate fate. No confirmed pre-Long-Night-War historical beats beyond the founding + inciting incident.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent — arrival for the tourism economy was via Machu Picchu Base (Sejong-area, a separate customs/immigration point) rather than a Palmer City airfield.
+- **Highways.md L74, L79** — reached via a **RAMP off Hwy 1, requiring a BOAT CROSSING** (not a road) — the only Hwy 1-adjacent city not reachable by road alone.
+
 ---
 
 ## Rothera
@@ -305,6 +325,10 @@ One-liner: a Rothera robot's real "home" is her specific work site on Adelaide I
 
 ### Open threads
 - Notable figures: TBD. What Rothera is specifically famous for within its broad fabrication catalog: undecided. Underground vault scale/age/function: TBD. Runway's current operational status: open. St. Ernest/Shackleton patron-saint claim contested with other Peninsula cities.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L15 — Rothera Airport, confirmed.** No shared-city note or further detail given — matches this file's own note that Rothera inherited the rare paved Bonner airstrip.
+- **Highways.md L74, L79, L83** — reached via a **RAMP off Hwy 1**, not a main-line stop. **This ramp segment (Marambio–Rothera) is one of only five Hitchhiking-Valid stretches in the whole national network** (L287).
 
 ---
 
@@ -345,6 +369,10 @@ One-liner: a Port Lockroy robot may be the only resident present for the entire 
 
 ### Open threads
 - The old man's actual name (confirmed to exist, undecided). Demonym: TBD. Highway/overland mainland access: unconfirmed. Which specific 1944 structures survived: TBD.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md** — not named; not covered by the L25 highway-only list either. No airport recorded either way.
+- **Highways.md L74, L79** — reached via a **RAMP off Hwy 1**, not a main-line stop. **This resolves the file's own "Highway/overland mainland access: unconfirmed" open thread above** — access exists, via a ramp shared with Palmer City's boat-crossing route.
 
 ---
 

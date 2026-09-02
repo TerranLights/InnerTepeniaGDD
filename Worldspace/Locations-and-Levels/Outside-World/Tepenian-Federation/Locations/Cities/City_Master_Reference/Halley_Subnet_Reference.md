@@ -70,6 +70,10 @@
 - AWI institutional survival status; demonym; two placeholder holidays ("Founders' Instrument," "The Schematic").
 - **⭐ Division-of-Industry note:** Ruled 2026-09-02 (see `Division_of_Industry/15`) as a **research exporter**, minimum 16.7% of distinctive tier, to cover its food-import debt — and its research subject was independently identified as **EDEN ISS**, the real Antarctic greenhouse technology the whole national food model depends on.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Neumayer entry elsewhere in the file).
+- **Highways.md L66, L119, L238, L240** — the **Neumayer Connector**, an unnamed dedicated road off Hwy 7, between Abowasa and Sanay. Not on the Hwy 7 main line.
+
 ---
 
 ## Halley
@@ -113,6 +117,10 @@
 - Current mobility/damage state (which sections are stuck, mobile, near the calving edge); DLC 5's actual central conflict; two placeholder holidays ("The Crossing," "Position Day").
 - **⭐ Division-of-Industry note:** Ruled 2026-09-02 as exporting **general commuter labour** (mines, rigs, ports, yards — krilling among them, not exclusively) at 9.4% of workforce, to cover its food-import debt — a mechanism landing inside `05_Remaining_Cities_Assessment.md`'s own pre-existing 5–10% commuter range.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. **No docks/airstrip is a deliberate design choice per this file's own canon facts** (ice-shelf relocation risk) — consistent with the source list.
+- **Highways.md L62, L115, L188** — on the **Hwy 7 (Belgrano Highway)** main line, between Abowasa and Sanay. **L59, L62 — Hwy 59's own southern ramp sits between Halley and Abowasa.**
+
 ---
 
 ## {{Abowasa}}
@@ -143,6 +151,10 @@
 ### Open threads
 - Whether the Finnish-Swedish dynamic merged, stayed distinct, or hybridized; why Abowasa survived partially rather than fully; economy detail; two placeholder holidays.
 - **⭐ Division-of-Industry note:** ruled 2026-09-02 as a commuter-labour exporter (10%, {{Abowasa}} named in the same breath as Halley's own 5–10% commuter range in `05`), estimate not canon-sourced.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md** — not named directly; not covered by the L25 highway-only list either (falls under "and others"). No airport recorded either way.
+- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Halley and Sanay. **L62, L188 — Hwy 59's southern ramp sits between Halley and Abowasa**, just west of the city. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Abowasa and Sanay**, just past Abowasa.
 
 ---
 
@@ -182,6 +194,10 @@
 
 ### Open threads
 - Who currently controls the airfield and under what terms; what aircraft remain; demonym; two placeholder holidays ("St. Roald's Landing," "Runway Day").
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L14 — Troll Airport, confirmed.** *"One of the most capable blue-ice, wheeled-aircraft-ready runways in Antarctica"* — the subnet's only real external chokepoint, per this file's own canon facts.
+- **Highways.md L58, L61, L127, L131, L154, L158, L246–252, L261** — Troll itself is not on any highway route directly; the nearby **Sayowa Junction** and **Sayowa Spur** do not touch Troll either. Troll's own connection is aviation (L14 above), not highway.
 
 ---
 
@@ -226,6 +242,10 @@
 - Extent/location of war damage; specific social/economic role relative to neighbors; Sanay-origin Concordia diaspora; whether SANAE research heritage still has visible presence.
 - **⭐ Division-of-Industry note:** the Halley subnet food-gap commuter mechanism (`05_Remaining_Cities_Assessment.md`) draws on Sanay's spare capacity alongside Belgrano.
 
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent with Sanay's port/trucking identity (Port of Sanay is coastal shipping, not aviation).
+- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Abowasa and Troll. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Abowasa and Sanay**, just before the city.
+
 ---
 
 ## Belgrano
@@ -268,6 +288,10 @@
 ### Open threads
 - Where the Byrd-founding maps were archived; contact with fellow Argentine cities Esperanza/Marambio pre-Split-Brain.
 
+### ✈️🛣️ Infrastructure cross-references
+- **⚠ Airports.md contains a live, unresolved inconsistency about this city.** **L19 — Belgrano Airfield, confirmed and detailed** (*"one of the few Tepenian cities with confirmed runway infrastructure," "the Halley subnet's primary aviation hub, paralleling Marambio's role in the Palmer subnet"*). **L25 — Belgrano is ALSO still listed in the "highway-only" list**, despite L19's own text stating it was added specifically to correct that same list. **Not fixed here** — flagged for a cleanup pass on `Airports.md` itself.
+- **Highways.md L58, L113, L115, L117** — **Hwy 7 (Belgrano Highway)'s own WESTERN TERMINUS.** Belgrano is where the whole Atlantic/Queen Maud Land coast spine begins.
+
 ---
 
 ## Princess Elisabeth
@@ -307,6 +331,10 @@
 
 ### Open threads
 - Exact circumstances of destruction; the underground mystery-infrastructure; Ice Cold Buddhism/Dome Fuji pilgrimage connection; whether the underground reserve/candidate questline (restoring zero-emissions systems) gets designed.
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Princess Elisabeth entry elsewhere in the file).
+- **Highways.md L127** — on the **Hwy 7-ext (Belgrano Highway Extension)** route, between Lazar and the Sayowa Junction. Built 2611–2614 — the only highway with confirmed in-world construction dates.
 
 ---
 
@@ -352,3 +380,7 @@
 ### Open threads
 - **Timeline of coalescence; whether the old-core/expansion divide still registers socially or correlates with war damage; demonym; notable figures — ALL still TBD.**
 - **⭐⭐ THE ECONOMY ITSELF.** Per `Division_of_Industry/16_Per_City_Three_Tier_Run.md`, Lazar's mandate is currently **0%** purely because it is unassessed — its distinctive tier (1,166,228 workers) is **larger than the combined workforce of the nine smallest Tepenian cities.** Three candidates offered as inputs, none ruled: water (the free-liquid-water advantage), deep excavation capability, DROMLAN aviation legacy (⚠ convergence risk with Belgrano/Troll's own aviation roles).
+
+### ✈️🛣️ Infrastructure cross-references
+- **Airports.md L25** — listed highway-only, no airport. **Directly relevant to the open DROMLAN candidate above** — Lazar's own §15 flags a real-world DROMLAN logistics-hub heritage, but Tepenia's confirmed airport list gives it none; if the DROMLAN candidate is ruled in, it would be a NEW airport, not a confirmation of an existing one.
+- **Highways.md L58, L59, L115, L117, L127, L129** — **Hwy 7's EASTERN TERMINUS and Hwy 7-ext's WESTERN TERMINUS simultaneously.** Lazar is the hinge point of the entire Halley-subnet coastal spine — everything moving along Queen Maud Land's coast passes through it.
