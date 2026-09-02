@@ -1269,6 +1269,40 @@ developer.** Expanding ABCC to absorb them would raise the variable pool from 65
 > tier**, and those percentages do not change — only the worker counts they resolve to. **No developer ruling
 > already given is invalidated by this.**
 
+### ⏸️ PER-CITY ABCC VALUES — PARKED, 2026-09-02
+
+**A four-tier structure was proposed *(capital / federal-institution host / ordinary / single-purpose
+station)* and SET ASIDE by developer direction.** *"Insofar as the tier structure, I say set this aside for
+now, and we'll come back to it later."*
+
+**⚠ WORKING VALUE UNTIL THEN: ABCC stays at the flat 65 per 1,000 residents for ALL cities.** New
+determinations continue on the flat value **so that every city re-runs together, consistently, in one pass**
+rather than some being converted early.
+
+### ⚠⚠ A CATEGORY ERROR CAUGHT BY THE DEVELOPER — record it, it will recur
+
+**The proposal put *"subnet hub"* cities into the elevated ABCC tier. That is wrong.**
+
+> **Developer, 2026-09-02:** ***"T2 is already way, way, way too high, since that includes Mawson, which is a
+> tourism & resort town (which is also a popular honeymoon destination), and therefore the overwhelming
+> majority of Mawson's industry would be oriented around some degree of interacting with the public in some
+> form."***
+
+**Mawson's §15 reads `Subnet-hub logistics / Arcanet coordination: 25%` — and "hub" was read as
+administrative weight. It is not.** It is **logistics and communications infrastructure**, and Mawson's
+actual economy is **public-facing hospitality** *(its §15 also carries `Hospitality / honeymoon tourism`,
+established in the 2026-07-06 vision session)*.
+
+> ## **⭐ STANDING RULE — SUBNET-HUB STATUS IS INFRASTRUCTURE, NOT ADMINISTRATION. It does NOT raise ABCC.**
+>
+> **This is the same distinction already drawn at Sanay** — whose missing §15 line is the **Arcanet relay
+> nexus**, explicitly excluded from ABCC as physical infrastructure — **and then not applied two paragraphs
+> later.** **The word "hub" is not evidence of bureaucracy.**
+>
+> **What DOES raise ABCC:** a city holding a **named governmental body or federal institution** *(the Border
+> & Customs Authority, the federal immigration archive, the seat of national government)* — **not a city
+> holding cables, roads, or a relay.**
+
 ---
 
 ## 📋 END-OF-PASS REVIEW REGISTER
