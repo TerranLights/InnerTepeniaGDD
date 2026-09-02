@@ -444,6 +444,26 @@ a two-role city.**
 
 # ▶▶ PER-CITY DETERMINATIONS — the roster pass, one city at a time
 
+> ## ⛔ STANDING RULE FOR THIS SECTION — NO CROSS-CITY COMPARISON
+>
+> **Developer direction, given at Belgrano and RE-STATED at Mirny, 2026-09-02:** *"Let's not compare between
+> cities until after all the city profiles are completed."* · *"Don't make any commentary relative to other
+> cities… **All of these numbers are subject to change.** Just report the facts about each city, and we'll
+> determine cross-country comparisons later."*
+>
+> **The line that applies:**
+>
+> | Allowed | Not allowed |
+> |---|---|
+> | **Canon's own words**, quoted — including canon's own comparisons | **My comparative judgments** — rankings, "the only city that…", "unlike \<city\>", "least-free" |
+> | **Real-world geographic fact** *(e.g. the Vestfold Hills are the largest ice-free coastal oasis in Antarctica)* | Superlatives across the roster drawn from **this pass's own figures** |
+> | **Canon supply-chain relationships** *(A ships to B; A is on B's highway)* — these are facts about the city | Evaluative pairings *(who is "paid" vs. "invisible," who got a better deal)* |
+>
+> **⚠ This rule has been broken twice and swept twice.** Six comparisons were stripped from §§5, 7, 13, 18
+> and 19 on 2026-09-02. **The reason it matters: every figure here is provisional until the roster is
+> complete, so any ranking built on them is built on sand.**
+
+
 **Begun 2026-09-02.** Reviewing every city against the full `City_Master_Reference` record plus this
 folder's food/mining/shipping findings, and settling its three-tier split. **{{Bunger Hills City}} and
 Lazar are excluded** — Bunger Hills deferred by ruling, Lazar's economy explicitly unresolved in canon.
@@ -716,7 +736,6 @@ three stages of one national import operation.**
 **Canon states Sanay *"HOSTS THE SUBNET'S ACTUAL ARCANET RELAY NEXUS — semi-distributed across the upper
 clifftops."* That is national infrastructure. Its §15 has NO Arcanet sector.**
 
-Compare Mirny, whose §15 carries an explicit `Communications/Arcanet ~20%` for its own subnet-hub role.
 **Either Sanay's nexus staff sit inside Technical/scientific 10%, or the §15 is missing a line for
 infrastructure canon says the city holds.**
 
@@ -871,7 +890,7 @@ and should not be mistaken later for a derivation.**
 Junction — the only road connection between the Halley and Mawson subnets.** But canon frames the sector as
 *"trade **leveraging** the city's dual eastern/Atlantic connections"* — **the city profiting from its
 position, not conscripted by it. The mandate test asks what the nation needs FROM you, not what you gain
-FROM WHERE YOU SIT.** Unlike Troll, no canon states national freight moves through PE. **FREE.**
+FROM WHERE YOU SIT.** No canon states national freight moves through PE. **FREE.**
 
 **Industrial 20% — *"infrastructure maintenance and repair."*** PE has **zero passive wind shelter**, faces
 gales to 300 km/h, and *"survives only through active aerodynamic engineering."* **This is the least
@@ -1514,8 +1533,7 @@ Cultural institutions/arts 15% · Technical/scientific 10% · Marine/resource ex
 | **6.667%** | 10,140 | **Commercial/trade — ONE THIRD** | The tourism-attached slice: sealiner arrivals, money changing hands |
 | **41.667%** | **63,377** | | |
 
-> **This replaces the 0.0% that stood in Half B** — Palmer City was the only city in the table at zero for a
-> reason other than being unassessed.
+> **This replaces the 0.0% that stood in Half B**, which recorded no mandate for this city at all.
 
 ### ⭐⭐ WHY — this city plausibly closes the open half of the Upper Earth trade question
 
@@ -1970,8 +1988,7 @@ that a city still needs people doing other things.**
 ### What stays FREE
 
 - **Industrial/manufacturing 25%** — *"precision manufacturing, with the craft ethic applying to industrial
-  output as much as to art."* **No stated national reach**, unlike Rothera's subnet role or Sinheung's
-  chambers.
+  output as much as to art."* **No stated national reach.**
 - **Marine 15%** — **fishing**, and `04` §3 does **not** list Zhongshan among the national fish providers.
 - **Commercial 15%** — **denies itself:** *"Zhongshan is not a trade hub."*
 - **Education 7% · Other 3%** — local.
@@ -2027,7 +2044,7 @@ mandated sector.**
 
 - **Maritime 15%** *(Prydz Bay, fjord access)* — **considered for the mandate and rejected.** Davis's produce
   must reach the country, but **Davis sits on the `Hwy 110` (Coastal Cut Highway) main line** between
-  Zhongshan and Mirny *(`Highways.md` L195, L197)*, so **unlike Signy it is not dependent on its own
+  Zhongshan and Mirny *(`Highways.md` L195, L197)*, so **it is not dependent on its own
   shipping** — and the cluster's output moves **by road and air** per the 2026-09-02 ruling at Zhongshan.
 - **Commercial 15%** — *"bars, eateries, social establishments."* Local amenity. **⭐ Worth pairing with the
   robot-culture finding that Davis has NO drinking-culture institution at all** — *"a genuine muted absence…
@@ -2047,8 +2064,7 @@ WORKFORCE.** **`16`'s convention gives 181,808** — 35% of *distinctive*.
 ### Notes
 
 - **⭐⭐ Geology is the whole story here.** The **Vestfold Hills are the largest ice-free coastal oasis in
-  Antarctica (~400 km²)** — Davis *"can grow, and grows more than anyone."* **No other Tepenian city has this
-  ground.**
+  Antarctica (~400 km²)** — Davis *"can grow, and grows more than anyone."*
 - **Named for John King Davis, a ship's captain** — *"a navigator and enabler, not a flag-planter."*
   **Explicitly NOT a Tepenian Saint** *(Saints are pre-2083 explorers, not supporting mariners)*.
 - **⭐ Kinship is collective research credit, not teaching lineage** — a founding-era decision to decline solo
