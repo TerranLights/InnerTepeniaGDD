@@ -143,3 +143,93 @@ mandated 11.5% · free 46.5%**, with the free tier running **23.4% (Fort McMurdo
 
 **Not yet run.** Half A *(assess the thirteen)* precedes Half B *(the 37-city table)* —
 see `15_Open_Items_and_Three_Resolutions.md` §"The Per-City Pass".
+
+---
+
+---
+
+# ▶ HALF A — THE THIRTEEN ASSESSED — 2026-09-02
+
+**Every §15 economy block read. The test applied throughout: *would the nation suffer
+materially without it?*** **Derived from canon where canon supports it; flagged where it
+does not.**
+
+## ✅ Group 1 — canon already names a national role; it only lacked a percentage
+
+| City | Humans | **Mandated role** | Canon basis |
+|---|--:|---|---|
+| **Princess Elisabeth** | 553,768 | **⭐⭐ ENERGY ENGINEERING** | §15: *"genuine expertise in Antarctic energy systems **that other cities traded for**"* — **an export stated outright.** `04` §3 already listed the role with no figure |
+| **Zhongshan** | 631,985 | **MARITIME LOGISTICS — the Tri-Cities' port** | §15: *"Prydz Bay maritime logistics… cluster economy with Sinheung."* **Sinheung builds the nation's Cradle chambers; they have to leave by sea, and Zhongshan is how** |
+| **Cape Adare** | 745,967 | **ROSS SEA GATEWAY + ⭐ PHOSPHATE EXTRACTION** | §15 *"Ross Sea gateway — maritime trade, the logistics of arrival and departure"*; phosphate per `15` Resolution 2 |
+| **Sejong** | 316,691 | **INTERNATIONAL GATEWAY** | §15: *"the most accessible part of Antarctica, closest to South America… a trade and transit hub."* **Machu Picchu Airport — the nation's international arrival point — is beside it** |
+| **Denison** | 522,975 | **STRUCTURAL / WIND ENGINEERING** | §15: *"Denison's defining economic sector — an unusually large share."* ⚠ Its canon `~25%` is an **old-convention** figure *(`README`)* |
+| **Scott** | 189,817 | **VOLCANIC MATERIAL EXTRACTION** *(small, specific)* | §15, confirmed 2026-07-07: Erebus material trucked across McMurdo Sound and forwarded into the Janbogo subnet **for further processing** |
+| **Concordia** | 504,799 | **THE NATIONAL CROSSROADS** — transit/transshipment | §15 *"inter-district trade and external supply"*; **the only genuine tri-junction in the country** (Hwy 110 × 37 × 183), plus Capricorn's industrial yards |
+
+## ✅ Group 2 — a national role the food model itself supplies
+
+| City | Humans | **Mandated role** | Basis |
+|---|--:|---|---|
+| **{{Abowasa}}** | 504,237 | **COMMUTER LABOUR** + minor research | §15 calls it *"small scale… never a major economic node"* — **but `05`'s commuter mechanism is explicitly "5–10% of Halley + {{Abowasa}} workforce."** **The same answer just ruled for Halley applies here, and canon named {{Abowasa}} in the same breath** |
+| **Dome Fuji** | **0** | **⭐ THE NATIONAL SEED ARCHIVE** + ice-core science | `15` Resolution 3. §15: *"one of the best locations on Earth for deep ice core drilling"* — **a city already built around keeping things frozen for hundreds of thousands of years** |
+
+## ⏸️ Group 3 — "nothing national" is the honest answer, and that is a RESULT
+
+**The pass plan explicitly allows this: *a city that is purely itself is a valid and
+interesting result, not a failure.***
+
+| City | Humans | Assessment |
+|---|--:|---|
+| **Dumont d'Urville** | 223,549 | §15: *"the city was small, and its economic significance was **more cultural and historical than industrial**."* **Minor coastal logistics on the Australia corridor; no national mandate.** ⭐ Canon says this plainly — take it at its word |
+| **Port Lockroy** | 63,338 | Fourth-smallest city. §15: sheltered harbour + heritage. **⚠ One thread: its post office was *"a genuine, active civic courier institution"*** — a **national courier node** is a small but real mandate. Otherwise: itself |
+| **Kunlun** | **0** | §15: *"astronomy, ice core science… the observatory program was Kunlun's primary scientific output."* **⭐ Dome A is the best astronomical site on Earth** — but astronomy is not something the nation would *starve* without. **Discretionary, and its 71.4% free tier is genuine.** ⚠ Its engineering capacity turned Neumayer's Calethina design into a buildable schematic — capability that could be mandated if the developer wants it to be |
+
+## 🔴 Group 4 — LAZAR. The one genuine open question, and canon says so itself
+
+**Lazar is the LARGEST city in the Federation — 1,287,003 humans, 2,620,319 residents —
+and its economy is explicitly unresolved in its own spec:**
+
+> *"The city visibly supports genuine megacity-scale commercial density — holographic
+> advertisements and multicolored lights throughout — but **what's actually driving an
+> economy large enough to justify that presence is explicitly unresolved and flagged as
+> needing real development, not just a placeholder gap**."* *(Developer vision session,
+> 2026-07-05.)*
+
+**⭐ What this pass can now contribute — three candidates it could not have offered before:**
+
+1. **⭐⭐ WATER.** Lazar sits on **100–180 freshwater lakes** *(Schirmacher Oasis)*. **Every
+   other city in Tepenia makes water by melting ice at 128 kWh/tonne** *(`15` List B item
+   8)*. **Lazar is the only city in the country that does not pay the melt tax** — and
+   water is an input to everything.
+2. **⭐ DEEP EXCAVATION.** The developer ruled Lazar builds **upward, outward and downward**
+   through Precambrian gneiss. **Every rock-founded city — 29 of 37 — needs that
+   capability, and Lazar would have the most of it.**
+3. **AVIATION / DROMLAN.** §15 already flags *"Novolazarevskaya's real logistics-hub role
+   (part of the real-world DROMLAN air network)."* ⚠ **But Belgrano is already the Halley
+   subnet's primary airbase and Troll holds the contested airfield — so this one risks
+   convergence.**
+
+> ## ⚠ **NOT RULED. Lazar's economy is a standing developer item, and inventing it inside
+> a calculation pass would be exactly the vacuum-filling the anti-convergence rule
+> exists to prevent.** **The three candidates above are offered as inputs to that
+> decision, not as an answer.**
+
+---
+
+## ⭐ A pattern the thirteen revealed, worth naming
+
+**Six of the thirteen name SCIENTIFIC RESEARCH as an economic activity** — {{Abowasa}},
+Princess Elisabeth, Zhongshan, Scott, Kunlun, Dome Fuji — **and Neumayer and Vostok were
+just ruled research exporters on the same day.**
+
+> ## **Tepenia has a distributed RESEARCH SECTOR, spread across its small and remote
+> cities rather than concentrated in a capital. That is not a coincidence: this is a
+> nation assembled out of inherited research stations, and the stations kept doing what
+> they were built to do.**
+
+**⚠ Which raises a question for the mandated/discretionary test, and it is a real one:**
+**most research is not something a nation dies without in one year — but Neumayer's
+growing research is worth 80× the national food power bill, and Vostok's bioinformatics
+underpins the Cryptograph Helix.** **Research is mandated when its subject is
+load-bearing and discretionary when it is not, and that has to be judged per city rather
+than as a class.**
