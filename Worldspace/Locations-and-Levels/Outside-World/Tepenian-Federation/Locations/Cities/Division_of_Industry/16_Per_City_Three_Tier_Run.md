@@ -1721,6 +1721,93 @@ infrastructure components do not fly.** Rothera's fabrication output leaves by t
 
 ---
 
+# ▓▓ MIRNY SUBNET ▓▓
+
+*Palmer subnet closed **complete, 8 of 8, no deferrals** — Signy · Sejong · Juan Carlos · Esperanza ·
+Marambio · Palmer City · Port Lockroy · Rothera.*
+
+---
+
+## 16. ✅ SHIRAYUKI — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 363,971 | **40.9%** |
+| **Mandated** | 105,222 | **11.8%** |
+| **FREE — the character budget** | 420,886 | **47.3%** |
+
+**Distinctive tier: 526,108 (59.1%).** Canon §15: Scientific/research 25% · Arts, music, fashion/cultural
+institutions 25% · Education 20% · Commercial/trade 15% · Other 15%.
+
+### The mandate
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **20%** | 105,222 | **Education** — the flagship university, drawing nationally | ✅ `04` §3 lists Shirayuki an `ARTS · EDUCATION` provider |
+
+### ⭐⭐ THE ARTS SECTOR IS FREE — and this city is the PROOF CASE for the free tier
+
+**`04` §3 and `16` disagreed about this city.** `04` lists the provider basis as *"arts/music/fashion 25%
+(only city with arts as a major economic sector) **+** educ 20%"* — **both sectors.** `16` mandated only
+education. **Ruled in `16`'s favor, 2026-09-02.**
+
+**Canon is unusually explicit about why.** Shirayuki was founded by **Upper Earth diplomatic decree** — the
+Jeju-do court allocating an empty site to Japan to block a third Chinese claim in the cluster. And:
+***"explicitly, canonically NOT founded for art/music — no artistic or musical intention whatsoever."*** The
+arts culture developed ***"entirely afterward, organically, over generations."***
+
+> ### **A city grew a defining culture nobody planned, in a place chosen for geopolitics. That can only happen in labor nobody had claimed.**
+>
+> **The mandate test's own founding example was *"a stevedore is conscripted, a musician is not."*
+> Shirayuki is that example at city scale.** Mandating the arts 25% would have the model assert that the
+> nation conscripts Shirayuki's musicians — **contradicting the origin story canon is emphatic about.**
+
+**The strongest counter, recorded not buried:** canon calls the music scene *"a genuine pre-war cultural
+**EXPORT**"* — the same word that carried Princess Elisabeth's *mandated* energy expertise. **But PE's export
+was expertise other cities TRADED FOR to keep the lights on. Shirayuki's is a reputation** — the Larsemann
+Hills becoming *"nationally synonymous with Alternative Culture."* **The nation is poorer without it and not
+MATERIALLY harmed. That is exactly the line the mandate test draws.**
+
+### ⭐⭐⭐ DEVELOPER OBSERVATION — the free tier is the only tier that can CHANGE OVER TIME
+
+> **2026-09-02:** *"Shirayuki was originally built without any disposition towards arts, but later developed
+> the culture organically. So, in the early Second Interwar Period, no arts. Towards the middle- and later
+> Second Interwar Period, definitely arts (and rather noticeably so). This isn't really a violation, because
+> that can fit in the 'elective' category."*
+
+**Correct, and it identifies something structural about the model that had not been stated anywhere:**
+
+| Tier | Fixed by | Can it change across the 248-year period? |
+|---|---|---|
+| **Baseline** | Biology and population | **No** — it is what keeping people alive costs |
+| **Mandated** | What the nation needs | **No** — not without the national picture itself changing |
+| **FREE** | *Nothing* | **⭐ YES. This is where a city's history happens.** |
+
+> **Shirayuki demonstrates it cleanly: SAME baseline, SAME mandate, for 248 years — and the free tier goes
+> from "nothing in particular" to the thing the city is known for. No number moves; the CONTENT does.**
+>
+> **This means the model can hold a city that BECAME something, without needing separate early-period and
+> late-period versions of it.** *(General finding — applies to every city, recorded here because Shirayuki is
+> where it surfaced.)*
+
+### Notes
+
+- **⚠ The mandate partly exists to feed the un-mandated sector.** Canon: students use the university *"as a
+  deliberate stepping stone toward eventually integrating into and becoming part of the local arts and music
+  culture."* **Shirayuki's one conscripted sector is, in part, a pipeline into its free one.**
+- **Scientific/research 25% stays FREE** — *"genuine institutional depth supported by the calm setting,"*
+  nothing marking it nationally load-bearing. *(Contrast within this same subnet: Vostok's Lake Vostok program
+  at 65%, Kunlun's astronomy at 60%.)*
+- **Commercial/trade 15% is the Tri-Cities cluster economy** with Sinheung and Zhongshan — regional, not
+  national. **FREE.**
+- **⚠ Hard canon rule observed:** the real-world basis is the Bharati site, **but no Indian or South Asian
+  population ever settled in Tepenia.** Founding population is Japanese, by the Jeju-do allocation.
+- **⏸️ Open:** whether the region-wide *"Alternative Culture"* reputation belongs to Shirayuki alone or
+  genuinely extends to Sinheung and Zhongshan — **deliberately left open pending both cities**, and both are
+  still ahead in this subnet.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
