@@ -1,4 +1,4 @@
-# Open Items, and Three of Them Resolved
+# Open Items — List A CLEARED, and Four Resolutions
 
 > **2026-09-02.** `[CGRM 2026-09-02 · Path 2 + Path 4]`
 >
@@ -9,7 +9,7 @@
 
 # ⛔ LIST A — WHAT BLOCKS THE PER-CITY PASS
 
-**⭐ Item 1 was cleared on 2026-09-02 — see Resolution 4. TWO REMAIN.**
+**⭐ ALL THREE CLEARED 2026-09-02 — one resolved, one deliberately deferred, one reclassified.**
 
 1. **✅ THE RECIPROCAL-OBLIGATION GAP — RESOLVED.** *(Resolution 4 below.)* The fix was
    a **three-way split** — baseline / mandated distinctive / free distinctive — not a
