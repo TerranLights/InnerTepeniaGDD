@@ -561,3 +561,55 @@ re-engineered the design)*, and the paused-Cradle-candidate status is potential,
 > points once its full §15 was checked, and Belgrano's baseline moved 10.3 points on a geology correction.
 > **Rankings, "least/most free" claims, and pattern statements across cities wait until every city is
 > determined.**
+
+---
+
+## 3. ✅ HALLEY — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=2.50, forced importer → food term at 10%)* | 478,952 | **43.6%** |
+| **Mandated** | 170,093 | **15.5%** |
+| **FREE — the character budget** | 448,426 | **40.9%** |
+
+**Distinctive tier: 618,519 (56.4%).** Canon §15: Technical/scientific 25% · Marine/resource extraction 20%
+*(indirect — no own docks)* · Commercial 20% · Technical/Arcanet 15% · Industrial 12% · Other 8%.
+
+### The mandate, itemized
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **20%** | 123,704 | **General commuter labor — the FULL Marine sector** | ✅ Ruled 2026-09-02 *(mines, rigs, ports, yards, krilling among them)*. Canon's own parenthetical calls the sector **"indirect — no own docks"**, which is what a commuter export is. Developer ruling 2026-09-02 set it at the full sector rather than the floor |
+| **7.5%** | 46,389 | **Half of Technical/Arcanet — the Hwy 59 cable corridor** | ✅ Developer ruling, 2026-09-02. See below |
+| **27.5%** | **170,093** | | |
+
+**Commercial 20%, Industrial 12%, Technical/scientific 25%, Other 8% and the remaining half of Arcanet all
+stay FREE.**
+
+### Why the Arcanet split, and what the infrastructure pass contributed
+
+**Halley's food debt is 102,800 worker-years — exactly the 9.4%-of-workforce commuter figure already ruled**,
+so the debt and the export were the same number and never in question. **The open item was the separately
+named `Technical/Arcanet 15%` sector.**
+
+> **`Highways.md` L20, L62, L181–191: Hwy 59's northern ramp sits between Halley and {{Abowasa}}, and Hwy 59
+> *"also carries the Arcanet cable along its full length"* south to Amundsen Station.**
+
+**Halley is the populated city at the northern end of the national Arcanet corridor to the Pole relay.** The
+subnet's *nexus* is at Sanay, so Halley's Arcanet sector is not nexus work — **the cable corridor is what it
+plausibly is.** **Half mandated** *(a linear asset running hundreds of km south is sustained national work)*,
+**half local municipal networking.**
+
+**⚠ Error corrected during this assessment:** the infrastructure pass had recorded Halley as sitting on Hwy 7
+*"between Abowasa and Sanay."* **It is between Belgrano and {{Abowasa}}** — the first stop east of Hwy 7's
+western terminus. Fixed in `City_Master_Reference/Halley_Subnet_Reference.md`.
+
+### Notes
+
+- **No docks and no airstrip, both deliberate** — canon states fixed infrastructure would simply be carried
+  away by the ice. All resupply arrives overland via Belgrano/Sanay onto the Hwy 7 connector.
+- **⚠ Halley's mandated work and its survival run through the same two roads.** Canon stresses it has *"no
+  maritime fallback"* and is *"genuinely more fragile than a typical coastal city"* — its entire external
+  position rests on the Hwy 7 connector and Hwy 59. Does not change the tier arithmetic; worth carrying.
+- The city is *"the only city architecturally designed from inception for relocation"* — ski-mounted modules
+  with active propulsion tracks, moving deliberately ahead of a shelf drifting 400–700 m/yr.

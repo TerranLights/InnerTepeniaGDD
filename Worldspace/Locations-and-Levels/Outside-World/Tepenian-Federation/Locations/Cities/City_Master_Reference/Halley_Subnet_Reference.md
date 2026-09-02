@@ -119,7 +119,8 @@
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. **No docks/airstrip is a deliberate design choice per this file's own canon facts** (ice-shelf relocation risk) — consistent with the source list.
-- **Highways.md L62, L115, L188** — on the **Hwy 7 (Belgrano Highway)** main line, between Abowasa and Sanay. **L59, L62 — Hwy 59's own southern ramp sits between Halley and Abowasa.**
+- **Highways.md L115** — on the **Hwy 7 (Belgrano Highway)** main line, **between Belgrano and {{Abowasa}}** — the first stop east of Hwy 7's western terminus.
+- **Highways.md L20, L62, L181–191** — **⭐ HWY 59's NORTHERN RAMP sits between Halley and {{Abowasa}}**, and Hwy 59 *"also carries the Arcanet cable along its full length"* south to Amundsen Station. Halley is the populated city at the northern end of that corridor.
 
 ---
 
