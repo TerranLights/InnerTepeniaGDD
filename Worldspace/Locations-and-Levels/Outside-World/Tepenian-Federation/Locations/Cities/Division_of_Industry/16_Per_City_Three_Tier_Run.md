@@ -1647,6 +1647,80 @@ deferred until after the division-of-industry pass, consistent with the Sejong h
 
 ---
 
+## 15. ✅ ROTHERA — DETERMINED *(closes the Palmer subnet)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.15, **GROWER** — Adelaide I., rock-founded, food term 100%)* | 93,804 | **39.0%** |
+| **Mandated** | 73,382 | **30.5%** |
+| **FREE — the character budget** | 73,382 | **30.5%** |
+
+> **⭐ Mandated and free land EXACTLY equal — the mandate is precisely 50% of the distinctive tier.**
+
+**Distinctive tier: 146,765 (61.0%).** Canon §15: Industrial/manufacturing 40% · Marine/resource extraction
+20% · Aviation/logistics 15% · Technical/scientific 10% · Commercial/trade 10% · Other 5%.
+
+### The mandate *(developer ruling, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **40%** | 58,706 | **Industrial/manufacturing — FULL** | ✅ `04` §3 **FABRICATION provider at 40%**; §15's *"clearly defining sector"* |
+| **5%** | 7,338 | **Marine/resource extraction — ONE QUARTER** | Adelaide Island's terrain as feedstock for the fabrication chain |
+| **5%** | 7,338 | **Aviation/logistics — ONE THIRD** | The Bonner airstrip's *"genuinely functional"* half |
+| **50%** | **73,382** | | |
+
+### The industrial 40% needs no judgment
+
+§15: *"the city's clearly defining sector, **raw materials into finished infrastructure components**."* Canon:
+those components are *"used across the whole subnet, plausibly reaching every subnet city including Palmer
+City."* **The Palmer subnet's industrial center, listed as such in `04` §3.**
+
+### ⭐ Why a QUARTER of marine, not the analyst's proposed half
+
+**§15's annotation explains both halves of the sector's own name:** *"Marine / resource extraction: 20% —
+Adelaide Island's mountainous terrain **and** maritime trade"* — *resource extraction* ← the terrain;
+*marine* ← maritime trade. **The extraction half feeds the mandate**, since Adelaide Island is the subnet's
+largest and most mountainous landmass *(~120 km, peaks >2,500 m)* and Rothera turns raw materials into
+components.
+
+**The analyst proposed HALF, on the Princess Elisabeth split rule. The developer ruled a QUARTER, which is
+better:** **conceding that the island's extraction is *an* input to fabrication is not the same as claiming
+the entire terrain half of that sector exists to feed it.** **120 km of mountains produces plenty that is not
+feedstock for national infrastructure components.**
+
+**⏸️ The case for the FULL 20%, recorded and not taken:** most of this subnet is islands — Signy, Sejong,
+Juan Carlos, Palmer City, Port Lockroy — so **components physically cannot reach them except by ship**,
+making maritime the mandate's delivery channel rather than general commerce. **Rejected because the same
+argument would mandate the shipping of every coastal city in Tepenia, which would stop distinguishing
+anything.**
+
+### ⭐ Why a THIRD of aviation — a correction to the analyst's reading
+
+**§15: *"Aviation/logistics 15% — the Bonner airstrip, secondary to the industrial role BUT GENUINELY
+FUNCTIONAL."*** **The analyst read the first half of that annotation and left the sector entirely free.**
+
+**The developer's third takes the second half seriously:** **a deliberately DECENTRALIZED industrial base
+spread across 120 km of mountainous island needs internal air movement**, and Rothera holds **one of only ten
+airports in the country** *(`Airports.md` L15 — the rare paved Bonner airstrip, 900 m, inherited from BAS)*.
+
+**Two-thirds stay free**, consistent with canon calling it secondary — and with the fact that **heavy
+infrastructure components do not fly.** Rothera's fabrication output leaves by the **Hwy 1 ramp** and by sea.
+
+### Notes
+
+- **Technical/scientific 10% — *"inherited BAS research tradition."*** **FREE**, the same call as Troll's
+  Polar Institute and Sejong's KOPRI: local heritage research, nothing marking it load-bearing.
+- **The Marambio–Rothera ramp is one of only FIVE Hitchhiking-Valid stretches in the national network**
+  *(`Highways.md` L287)*.
+- **⚠ Post-war, NOT an input:** Rothera survived via **genuine decentralization across Adelaide Island** plus
+  **large-scale underground vault sections** — a resilience its concentrated small-island neighbors lacked.
+  **The same decentralization is why the aviation third is defensible during peacetime.**
+- **⚠ Vision Notes** establish Rothera's bar culture and place it in the **working-class Glitch-Coolant
+  category** *(narrower selection, stronger effect)* — now project-wide canon in
+  `Robot_Physiology_and_Cultural_Practices.md`. **Sits entirely in the free tier.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
