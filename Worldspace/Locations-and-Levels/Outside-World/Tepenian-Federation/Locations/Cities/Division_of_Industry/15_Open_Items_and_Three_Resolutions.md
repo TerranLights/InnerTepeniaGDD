@@ -9,15 +9,14 @@
 
 # ⛔ LIST A — WHAT BLOCKS THE PER-CITY PASS
 
-**These three must be cleared before a 38-city run is worth starting.**
+**⭐ Item 1 was cleared on 2026-09-02 — see Resolution 4. TWO REMAIN.**
 
-1. **⛔⛔ THE RECIPROCAL-OBLIGATION GAP.** *(`13` §9.)* The model charges the grower for
-   food and charges the eater **nothing**, so importing cities are credited with margin
-   they never paid for. **Nine cities — including Lazar (largest) and Concordia (the
-   primary game setting) — currently have OVERSTATED character budgets, and the
-   character budget is exactly what a per-city pass spends.** **Needs: what each
-   importing city sends back, and what share of its distinctive tier that commits.**
-   `04`'s outsourceable-industry split is the natural source.
+1. **✅ THE RECIPROCAL-OBLIGATION GAP — RESOLVED.** *(Resolution 4 below.)* The fix was
+   a **three-way split** — baseline / mandated distinctive / free distinctive — not a
+   charge on importers. **National character budget falls from 59.4% to 46.5%.** The
+   210,467-worker-year hole at Halley, Neumayer and Vostok was closed the same day by
+   developer ruling: **research at Neumayer and Vostok, general commuter labour at
+   Halley.**
 2. **⛔ {{Bunger Hills City}}** — ruled to be founded *(developer, 2026-09-02)*, but has
    **no name, no spec, no population.** Doing the Mirny subnet without it means doing
    the Mirny subnet twice.
@@ -270,17 +269,112 @@ whatsoever:**
 | | **1,453,101** | | | **⛔ 210,467** |
 
 > ## **1.45 million people — 9.3% of the national human population — consume nationally
-> and produce nothing nationally, as far as canon records.** **They must be doing
-> something. Nobody has ever said what.**
+> and produce nothing nationally, as far as canon records.**
 
-**⚠ This is a DEVELOPER RULING, not a computation.** *(Byrd and Amundsen Station, by
-contrast, cover their obligations comfortably — fabrication + dispatch, and relay +
-Tower ops.)*
+*(Byrd and Amundsen Station, by contrast, cover their obligations comfortably —
+fabrication + dispatch, and relay + Tower ops.)*
 
-**⭐ And the shape of the answer is suggestive rather than open:** Halley and Neumayer
-are the two **ice-shelf** cities, sitting on the Weddell/Atlantic coast at the receiving
-end of the South Africa corridor. **Vostok sits on Hwy 37 with the plateau behind it.**
-**Whatever they do, geography is offering it.**
+---
+
+## ✅ MOSTLY CLOSED, SAME DAY — **"Neumayer and Vostok both export SCIENTIFIC RESEARCH"**
+
+`[CGRM 2026-09-02 · Path 6 · developer ruling]`
+
+**The minimum sector each needs, derived from its food debt rather than invented:**
+
+| City | Distinctive tier | Owes | **Minimum research sector** |
+|---|--:|--:|--:|
+| **Neumayer** | 532,089 | 88,893 | **16.7% of distinctive** *(9.4% of workforce)* |
+| **Vostok** | 203,100 | 18,774 | **9.2% of distinctive** *(5.8% of workforce)* |
+| ⏸️ Halley | 618,519 | 102,800 | *16.6% — see below* |
+
+**Both are plausible sizes for a research city, and both are FLOORS, not estimates.**
+
+### ⭐⭐ And Neumayer's research has an obvious subject sitting in this very folder
+
+**[EDEN ISS — the only measured Antarctic greenhouse, 268 kg from 12.5 m² at 0.8 kW/m² —
+ran at Neumayer-Station III](https://www.dlr.de/en/latest/news/2019/03/20190823_project-eden-iss-presents-results).**
+**`13` §11 identified the 80× gap between that prototype and a mature system as the most
+important unnamed technology in the setting.** *(List B item 4.)*
+
+> ## **It is not unnamed any more. It is NEUMAYER'S.**
+>
+> ## ⭐⭐ **And the irony is exact: Neumayer sits on a floating ice shelf with no bedrock
+> beneath it. It is one of only two cities in the Federation that CANNOT GROW ITS OWN
+> FOOD — and it is where the technology that lets everyone else grow theirs was
+> developed.**
+>
+> ### **The city that cannot feed itself taught the nation to eat. And it pays for its
+> dinner with the method.**
+
+**That also makes the debt reciprocal in the strongest possible sense:** without
+continuous improvement in growing efficiency the national food bill runs toward EDEN
+ISS's measured 256 kWh/kg — **944 GW, 2.9× the whole Amundsen Tower.** **Neumayer's
+research is not a courtesy export. It is the difference between a country that eats and
+one that cannot afford to.**
+
+### Vostok's subject is already canon
+
+**Bioinformatics and DNA computing — the basis of the Cryptograph Helix.** Its research
+export was established; only its economic role was missing.
+
+### ✅ HALLEY — **"Halley exports WORKERS, via them commuting to work the oceans"**
+
+`[CGRM 2026-09-02 · Path 6 · developer ruling]` **And it lands almost exactly on a
+mechanism canon had already modelled.**
+
+| | |
+|---|--:|
+| Halley's workforce | 1,097,470 |
+| Owed in food | 102,800 |
+| **→ commuters required** | **9.4% of its workforce** |
+
+> ## ⭐ **`05_Remaining_Cities_Assessment` already ran commuter scenarios at "5% of
+> Halley + {{Abowasa}} workforce commuting" and "10% commuting." The debt requires
+> 9.4% — INSIDE canon's own range, at its top end.**
+>
+> **The mechanism that was invented to close the Halley subnet's food gap turns out to
+> be the same mechanism that pays Halley's national bill. It was never two problems.**
+
+### ⚠ AND THE COMMUTERS ARE NOT ALL FISHING — developer correction, same day
+
+> **Developer: *"not all of them are fishing in the ocean. Some of them may be working in
+> mines. Some may be working on oil rigs (wherever they exist, either on land or
+> offshore), etc etc etc. There are plenty of types of jobs they could be commuting to.
+> Just, from among those, one of them is fishing / 'krilling'."***
+
+**This is the correct framing, and it is broader than the one first written here.**
+**Halley's export is GENERAL COMMUTER LABOUR — extraction, marine work, industrial
+work, and whatever else has a worksite — of which krilling is one destination among
+many.**
+
+**⭐ And the breadth is not a detail; it is REQUIRED.** `11` established that the entire
+national sustainable catch needs only **~13,000 fishers**. **So 102,800 commuters could
+never all have been at sea.** **The narrow "marine economy" framing was arithmetically
+impossible; the broad one is what makes the number work.**
+
+**Destinations already present in canon:** Cape Adare's mineral extraction *(`15`
+Resolution 2)* · Fort McMurdo's *"industrial 35% + marine extraction 25%"* · Concordia's
+**Capricorn industrial yards** *("mining extraction, material processing")* · the ports
+at Sanay, Belgrano and Marambio · and the fisheries.
+
+> ### ⭐⭐ **This gives an ice-shelf city the only civic identity its geology permits.**
+> **Halley has no bedrock, no ground, nothing to dig and nowhere to grow. So its export
+> is the one thing that needs no ground: ITS PEOPLE — who go out to the rigs, the mines,
+> the boats and the yards, and come back.**
+>
+> **A city whose economy is portable because the city itself is.** *(Canon already calls
+> Halley "the city that moves." It turns out to move in more than one sense.)*
+>
+> **⚠ And it implies a rotational civic culture** — a large share of the working
+> population absent on shift at any time, coming home between rotations. **That is a
+> distinctive social shape, and it is downstream of the ice, not chosen.**
+
+**⏸️ Secondary, not needed for the accounting, and worth keeping anyway:** real Halley
+Research Station is where the **ozone hole was discovered (1985)**, with a long suit in
+atmospheric science and **space weather** — which matters to a nation with a 150 km
+structure in the sky and a continent-wide data network. **Available as an additional
+Halley export; the food debt no longer requires it.**
 
 ## ⏸️ The remaining data gap — and it is the per-city pass's OWN work
 
@@ -306,5 +400,13 @@ Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji.
 1. **{{Bunger Hills City}}** — a founding decision.
 2. **The empty differentiation table** — mechanical, but `CLAUDE.md` binds it per-city.
 
-**🔴 And one developer ruling the pass will hit immediately: what Halley, Neumayer and
-Vostok give the Federation in exchange for 210,467 worker-years of food.**
+**✅ AND THE 210,467-WORKER-YEAR HOLE IS CLOSED — same day, by developer ruling:**
+
+| City | Owes | **Pays with** | Minimum sector |
+|---|--:|---|--:|
+| **Neumayer** | 88,893 | **scientific research** — and its subject is **EDEN ISS**, i.e. the growing technology the whole nation runs on | **16.7% of distinctive** |
+| **Halley** | 102,800 | **general commuter labour** — mines, rigs, ports, yards, and krilling among them | **9.4% of workforce** |
+| **Vostok** | 18,774 | **scientific research** — bioinformatics / DNA computing, already canon | **9.2% of distinctive** |
+
+**All three are floors derived from the debt, not invented figures — and all three sit
+comfortably inside what canon already said about these cities.**
