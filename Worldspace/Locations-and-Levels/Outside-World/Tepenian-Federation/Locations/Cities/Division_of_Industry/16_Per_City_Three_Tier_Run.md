@@ -532,8 +532,8 @@ geography shifts over time"* and *"flat coastal ice providing the airstrip infra
 Halley subnet's **third** ice-shelf city, making the subnet a 3–3 split.
 
 **Effect: baseline 44.3% → 34.0%**, distinctive up to 66.0%, and Belgrano joins the forced-importer list.
-**Its 77,044-worker-year food debt is covered ~3.8× over by aviation + maritime alone** — no uncovered hole,
-unlike Halley/Neumayer/Vostok. **National balance falls to +89,538, still positive.**
+**Its 77,044-worker-year food debt is covered ~3.8× over by aviation + maritime alone** — the obligation is
+fully met from sectors it already has. **National balance falls to +89,538, still positive.**
 
 ### The mandate, itemized
 
@@ -548,12 +548,16 @@ unlike Halley/Neumayer/Vostok. **National balance falls to +89,538, still positi
 re-engineered the design)*, and the paused-Cradle-candidate status is potential, not current output.
 **The other half of maintenance is ordinary city upkeep** — developer ruling.
 
-### ⭐ Belgrano is now the least-free city in the Federation
+### Notes
 
-**23.1%, just below Fort McMurdo's 23.4%** — and it fits the pattern exactly: **the least-free cities are
-the ports, the airfields and the factories.** A city whose civic authority literally sat in the Airfield
-rather than a city hall has almost no economy that is merely its own.
+- **A heavily mandated city.** 65% of Belgrano's distinctive tier is nationally committed — consistent with
+  canon's own framing that **the Airfield itself, not a city hall, was the seat of civic authority.**
+- **⚠ The Institute is strategically load-bearing but numerically tiny** — roughly **1,750 teaching staff**
+  against a 531,776 distinctive tier. It does not move the percentages; it means a small slice of Belgrano's
+  mandate matters far out of proportion to its headcount.
 
-**⚠ Note on the Institute:** strategically load-bearing, numerically tiny — roughly **1,750 teaching staff**
-against a 531,776 distinctive tier. It does not move the percentages; it means a small slice of Belgrano's
-mandate matters far out of proportion to its headcount.
+> **⚠ NO CROSS-CITY COMPARISONS ARE DRAWN HERE, DELIBERATELY.** *(Developer direction, 2026-09-02.)* **Every
+> figure in this pass is provisional until the whole roster is run** — Neumayer's own mandate moved ~9.9
+> points once its full §15 was checked, and Belgrano's baseline moved 10.3 points on a geology correction.
+> **Rankings, "least/most free" claims, and pattern statements across cities wait until every city is
+> determined.**
