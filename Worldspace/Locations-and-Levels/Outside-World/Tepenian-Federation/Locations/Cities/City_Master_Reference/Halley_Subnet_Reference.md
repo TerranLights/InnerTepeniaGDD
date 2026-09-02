@@ -198,7 +198,7 @@
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L14 — Troll Airport, confirmed.** *"One of the most capable blue-ice, wheeled-aircraft-ready runways in Antarctica"* — the subnet's only real external chokepoint, per this file's own canon facts.
-- **Highways.md L58, L61, L127, L131, L154, L158, L246–252, L261** — Troll itself is not on any highway route directly; the nearby **Sayowa Junction** and **Sayowa Spur** do not touch Troll either. Troll's own connection is aviation (L14 above), not highway.
+- **Highways.md L20, L115** — **ON THE HWY 7 (Belgrano Highway) MAIN LINE**, between Sanay and Lazar. **This is the road half of Troll's intermodal freight hub:** imports land at Sanay/Belgrano, are trucked here via Hwy 7, and fly out nationally from Troll Airfield. **Hwy 7 is also Hitchhiking-Valid** (L283).
 
 ---
 

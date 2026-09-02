@@ -726,6 +726,83 @@ would be inventing a sector allocation canon does not state.** Added to the revi
 
 ---
 
+## 6. ✅ TROLL — DETERMINED *(provisionally — Option A, flagged for review)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100%)* | 318,227 | **44.4%** |
+| **Mandated** | 119,509 | **16.7%** |
+| **FREE — the character budget** | 278,854 | **38.9%** |
+
+**Distinctive tier: 398,363 (55.6%).** Canon §15 *(established 2026-07-04, developer vision session)*:
+Commercial/logistics 30% · Technical/scientific 20% · Marine/resource extraction 15% ·
+Industrial/manufacturing 15% · Education 12% · Other 8%.
+
+### The mandate: one sector, entire
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **30%** | 119,509 | **Commercial/logistics — the intermodal freight hub** | ✅ Canon §15, annotated *"airfield operations and control, the city's defining function"* |
+
+**Everything else is FREE.**
+
+### ⭐ Why the airport-type ruling settles this
+
+**Developer ruling: every Tepenian airport except Machu Picchu is DOMESTIC** — they connect to each other,
+not to the outside world. Applied to Troll, the freight geometry resolves completely:
+
+> **Goods enter Tepenia by SEA. Troll is how they reach the rest of the country.**
+
+Imports land at Sanay/Belgrano from Africa → trucked here on Hwy 7 → **flown out domestically across
+Tepenia.** Troll is not an international gateway; it is the **national domestic air-freight distribution
+hub for cargo that arrived by ship.** Canon: *"the effective center of a major share of Tepenia's actual
+real-economy import/distribution network."*
+
+**Two independent proofs of the mandate test** *("would the nation suffer materially without it?")*:
+1. It is how sea imports reach the interior at all.
+2. It was **half of the dual-route lifeline that kept Dome Fuji supplied** — from that city's pilgrimage
+   resettlement until the Long Night War. *(Two separate direct aviation routes, not a relay; the other ran
+   via a Sinheung-area airstrip.)*
+
+### ⭐ No warehousing addition here — and why that is not inconsistent
+
+**Sanay's §15 carries a separate `Warehousing/import-export 15%` line, so it was added to that mandate.
+Troll's does not, and none is needed:** §15 annotates the 30% as *"airfield operations and control,"* and
+the city's three named operational units — **Runway/Control Tower, Fuel Depot, Trucking Dispatch Yard** —
+all sit inside that single sector. **The 30% IS the whole intermodal operation, receipt through dispatch.**
+
+### 🔍 Finding — "Marine / resource extraction" at a city 235 km inland
+
+Troll sits at Jutulsessen, **1,275 m elevation, 235 km from the coast.** Its §15 marine line is
+**unannotated** and its label is **compound**.
+
+**Two readings, and canon supports neither over the other:**
+
+| Reading | Fit |
+|---|---|
+| **Resource extraction** — quarrying the exposed nunatak bedrock; no marine content at all | Strong. Troll is rock-founded with lateral bedrock access *(`13` §14)* |
+| **Commuter/indirect marine participation** | The reading held open at {{Abowasa}} — **but weaker here**, since Troll grows its own food and has no import debt to work off |
+
+**Either way it is LOCAL, not mandated** — canon states research and *"whatever the inland nunatak position
+otherwise offers"* **round out the rest** of the economy, explicitly marking them as not the national
+function. **Logged because the same compound label may appear at other inland cities, and this is the first
+time the extraction half has been the more natural read.**
+
+### Notes
+
+- **Technical/scientific 20% is heritage research, not national provider work** — *"descended from the
+  founding-era Polar Institute station."* Nothing in canon marks it load-bearing, so it stays free.
+- **⚠ Corrected this pass:** the City Master Reference previously stated Troll *"is not on any highway route
+  directly."* **False — Troll is on the Hwy 7 main line between Sanay and Lazar**, which is the road half of
+  its own freight hub. Fixed in `Halley_Subnet_Reference.md`.
+- Troll's freight network is a **confirmed secondary conduit for Cradle chambers passing through** — *"for
+  years, nobody at Troll treats this as anything more than ordinary cargo."* Not a sector, but national
+  significance moving through the mandated 30%.
+- **38.9% free** sits under a city whose entire identity is *"Whoever Holds the Runway."* The runway is the
+  mandate; everything Troll is apart from it stays unbought.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -734,3 +811,4 @@ would be inventing a sector allocation canon does not state.** Added to the revi
 |---|---|---|---|
 | 1 | **{{Abowasa}}** | Commuter-labor mandate held at 10% of distinctive *(5.4% of workforce)* | Whether a city with **no food debt** should carry a commuter export at all — and what cutting it does to the Halley subnet's supply picture and the national balance |
 | 2 | **Sanay** | **Its §15 has no Arcanet sector, yet canon says it hosts the subnet's Arcanet relay nexus** | Whether the nexus staff sit inside Technical/scientific 10% *(currently left FREE)*, or whether Sanay's §15 needs an Arcanet line added. Compare Mirny's explicit `Communications/Arcanet ~20%` |
+| 3 | **Troll** | **Set to Option A — logistics 30% only. Mandate 16.7%, free 38.9%** | Rerun as **Option B (+ half of Industrial/manufacturing = 37.5% of distinctive → mandate 20.8%, free 34.7%)** and see what it does to the national numbers. **A was chosen because Troll's §15 says only "Industrial / manufacturing," unannotated** — unlike Sanay's, which literally reads `Industrial/manufacturing (repair)`. Taking half would assume a sector's content to match precedent rather than read it. **The case for B:** air freight is maintenance-hungry and a 3,000 m blue-ice runway needs constant grooming — though that work more likely already sits inside the 30% canon calls *"airfield operations and control"* |
