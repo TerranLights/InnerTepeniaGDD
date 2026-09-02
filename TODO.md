@@ -409,6 +409,18 @@ The founding-era figure credited with negotiating Sejong's original boundary-zon
 
 **Developer clarification, 2026-08-02: this is NOT a systemic issue needing a 34-city audit.** Most DLC cities keep their real-world station name because the exile founders who actually resettled there were geographically/timezone-aligned with that name's origin nation (Denison/Casey/Davis ↔ Australia, Janbogo ↔ Korea, etc.) — the name persisting is a *geography* fact, not a *demographic-continuity-across-500-years* fact, so it's generally valid and doesn't need re-litigating. Sejong is the specific exception: King George Island is geographically the most reachable part of Antarctica *from South America*, not timezone-aligned with Korea at all — so per this same logic, Sejong's own city name is itself plausibly inconsistent and would more likely have been renamed to something Brazilian, Argentinian, or American at Tepenian founding. **Flagged, not yet decided or actioned** — renaming the city itself (distinct from the smaller Hangul/holiday fixes above) would touch a large number of existing files; needs an explicit developer decision before any work starts.
 
+**⚠ 2026-09-02 — THE 2026-08-02 FIX WAS INCOMPLETE. Three files still carry the invalidated premise.** Found while compiling the City Master Reference, re-confirmed during Sejong's division-of-industry determination. The note above records the fix landing in `Sejong_Full_Extrapolation.md` and `Sejong_Physical_Infrastructure_Attributes.md` — but it did **not** reach:
+
+| File | State |
+|---|---|
+| `City_Megasheets/Palmer_Subnet/Sejong/Sejong_Community_Infrastructure.md` | Still lists **"Hangul Instruction Halls" / "Hangul literacy instruction"** — the exact attribute class struck elsewhere |
+| `Background-Lore/Cities/Palmer_Subnet/Sejong/Course_of_Events/Sejong_07_Hangul_Kept_Alive.md` | **An entire Course of Events chain built on the invalidated premise, carrying no flag at all** |
+| `Background-Lore/Cities/Palmer_Subnet/Sejong/Sejong_Course_of_Events_Suggestions.md` §7 | The suggestion the chain above was built from |
+
+**Scope note for whoever picks this up: 20 files across the repo mention "Hangul," not 3.** The other 17 are **unaudited** — and they are not automatically wrong. ***"Hangul" is not itself the error.*** South Korea legitimately **retained Significant tier (5.79%)** at Sejong and the founding-era **naming heritage is still canon**. **The invalidated premise is specifically that Sejong's small Korean population represents *dilution of a once-larger continuous Korean community*** — ruled out by ~500 years of First Interwar station-ownership turnover. **A future pass must read for that premise, not grep-and-delete the word**, or it will destroy valid content.
+
+> **⏸️ DEFERRED BY DEVELOPER DIRECTION, 2026-09-02:** *"The Hangul-literacy/Korean-dilution canon bug needs to be addressed at some point, but that can wait until after we finish the per-city division-of-industry, because that's really more relevant to the per-city culture than anything else."* **Correct call — none of the affected content is an input to the division-of-industry model.** Sejong's determination was deliberately built **without touching its education sector (15%)**, which is where the stale material attaches.
+
 ---
 
 ## Geographic-feature naming timeline — flagged 2026-07-30, a project-wide future pass needed
