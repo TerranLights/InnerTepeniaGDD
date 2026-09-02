@@ -185,9 +185,39 @@ roughly, approximately half to three-fourths of the country are able to work in 
 
 | Input | Status | Effect if wrong |
 |---|---|---|
-| **C3 Administration = 65/1,000** | **largest single rate; still estimated** | ±10 moves every city ±1.5–2 pts uniformly |
+| **C3 Administration = 65/1,000** | ✅ **SOURCED** *(FRED/BLS CES — see `08` §8)*. Base measured at 52; uplift ×1.25 is the remaining judgment | Uplift 1.0× → −2 pts each city · 1.5× → +2 pts each |
 | **The three robot-keyed industries** | **excluded entirely** | Would raise every city, most at Vostok/Kunlun |
 | **Difficulty assignments** | reasoned from MCAA categories, not measured per city | The 2.5× ice-shelf figure drives the top of the table |
 | **60% loss cap** | my judgment; MCAA specifies none | Uncapping would push Halley/Neumayer/Vostok higher |
-| **§15 coverage denominator** | **UNRULED** | **Until ruled, none of this can be compared to any canon §15 percentage** |
-| **Workforce = 100% of robots** | canon question, deferred | A duty-cycle penalty raises every figure immediately |
+| **§15 coverage denominator** | ✅ **RULED** — the two-tier structure *(baseline + distinctive = 100%)* IS the denominator. What remains is migrating the 36 old-convention sheets. See this folder's `README.md` | Explains the Denison anomaly: an old-convention figure tested against a new-convention model |
+
+---
+
+# 5. ✅ THE WORKFORCE FORMULA — RESOLVED, and it was an error of mine, not of the model
+
+**Developer ruling, 2026-09-01:** *"Robots definitely do NOT work 100% of the time. They require downtime
+(most prominently for overnight recharging) just like anybody else. Also, they're fully conscious and
+sentient, which means that if they spend all their time working, they're virtually guaranteed to go insane."*
+
+**The trial model's author had refused to endorse the formula** — *"the rule I was given says 100% of robots;
+I followed it, but I do not believe it, and it is carrying more of the answer than any rate."* **I inherited
+that doubt and was about to halve robot participation**, which would have pushed Casey to ~51% and Neumayer to
+~76%.
+
+> ## ⚠ **That would have been wrong. I conflated PARTICIPATION with HOURS.**
+>
+> **`robots × 1.0 + humans × 0.5` is a HEADCOUNT OF WORKERS, not a count of hours.**
+> **Every robot is a worker** — no childhood, no retirement, no dependants.
+> **Half of humans are workers** — the rest being children, elderly and non-participants.
+> **Both then work a normal shift. Downtime, recharging and leisure are already inside that, equally, for
+> both populations.**
+
+**The formula is correct. Every figure in §2 stands unchanged.**
+
+> **⭐ And the finding it protects is §3.5's freedom margin — which the same ruling makes far more important
+> than an economic statistic.** Per `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`:
+> **on Upper Earth a robot's leisure was afforded by their loving romantic partners; in Tepenia it is a fact
+> of life.** **For the robot half of the population, the freedom margin measures the thing the exile was
+> for** — which means the geographic gradient in §3.5 is not an economic curiosity. **It is a political
+> inequality in the one currency this nation was founded to secure.**
+| **Workforce = 100% of robots + 50% of humans** | ✅ **RESOLVED 2026-09-01 — the formula is correct.** See §5 | **No change. The figures in §2 stand.** |

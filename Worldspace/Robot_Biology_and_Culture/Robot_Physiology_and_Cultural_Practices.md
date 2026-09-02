@@ -129,6 +129,52 @@ What exactly a robot experiences when smoking varies by individual and is delibe
 
 ---
 
+## Downtime, Recharging and Leisure `[CGRM 2026-09-01 · Path 6 · developer ruling]`
+
+**Robots do NOT work 100% of the time. Not remotely.** Two separate reasons, and the second is the important
+one.
+
+**1. Physical — they require downtime, most prominently OVERNIGHT RECHARGING.** Like anybody else.
+
+> **⭐ Which gives Tepenia a shared night.** Robots and humans stop at the same time, for different reasons.
+> **A city where everyone sleeps is a very different place from one where half the population works through
+> the dark** — and it means the polar night falls on a population that is *all* resting, together.
+
+**2. Psychological — they are fully conscious and sentient**, so **a robot that spends all its time working is
+virtually guaranteed to go insane.** Leisure is not a perk or an efficiency loss. **It is a condition of
+remaining sane.**
+
+> ### ⚠ Which makes overwork a HAZARD WITH A MECHANISM, not merely a hardship.
+> **This sits very close to the "faulty semantic signal" model of robot illness** *(see "What Counts as
+> Death")*. **If sustained overwork can corrupt a gel brain, then labour conditions are a medical question**,
+> and the Sinheung Institute's semantic-care half acquires an occupational-health dimension. **Flagged as a
+> connection, not yet ruled.**
+
+### ⭐⭐ THE LEISURE HISTORY — why this is not a scheduling detail
+
+> **On Upper Earth, during the First Interwar Period, a robot's leisure time was afforded to them by their
+> loving romantic partners.** It existed because somebody cared enough to grant it. **It was contingent,
+> personal, and revocable.**
+>
+> **In Tepenia, in the Second Interwar Period, that same leisure is a FACT OF LIFE.** Universal. Owed to
+> nobody. **This is their own country, which they finally have for themselves. They are finally completely
+> free.**
+
+**So leisure in Tepenia is not rest. It is the material proof that leaving worked.** A robot with hours that
+belong to nobody is a robot whose freedom is real rather than granted — **and the contrast is with a past
+where those same hours existed only because they were loved.**
+
+> **⭐ This connects directly to the economic model, and makes an economic statistic into the point of the
+> nation.** `Cities/Division_of_Industry/09_Per_City_Baseline_Run.md` §3.5 finds that **half to
+> three-quarters of a Tepenian working life is not spoken for by survival**, varying by city — **a freedom
+> gradient drawn by geography.**
+>
+> **For the robot half of the population, that gradient measures the thing the exile was for.** A Neumayerite
+> robot has half their life to themselves; a Rotheran has two-thirds. **Both are free. They are not equally
+> free — and in a country founded on precisely that, the difference is political.**
+
+---
+
 ## Human-Robot Relations — Project-Wide Baseline
 
 *(Established 2026-07-05, generalized from a Sanay developer-vision session — see `Cities/City_Vision_Notes/Sanay.md`.)* Sanay's specific labor dynamic — roughly equal division of labor between humans and robots, with robots tending to hold the slightly better positions (a quiet reflection of Tepenia being their country first), while robots hold genuine, unforced appreciation for the humans working alongside them, aware of what they gave up back on Upper Earth to be there — is not a Sanay-specific quirk. It's the **default baseline pattern across Tepenia as a whole**. Confirmed characterization: **"egalitarian, skewed in favor of robots."** Relations are overwhelmingly positive everywhere; where robots hold a real edge, it is not adversarial, resentful, or exploitative on either side.

@@ -369,11 +369,61 @@ design, NPC population and faction sizing, which percentages cannot.
 | | | | D2 Communications | 2 |
 | **TOTAL** | **138.6** | | **TOTAL** | **122.7** |
 
-> **⚠ C3 Administration at 45 is the largest and least certain rate in the table.** It is anchored on three
-> independent findings that cold/remote/state-founded settlements run administration-heavy *(OECD Nordics
-> 25–30% · Nunavut 60% · Svalbard ~50% vs a 35% mainland baseline)*, **but those figures bundle health and
-> education, which are counted separately here.** Stripping them is a judgment call and this rate should be
-> treated as provisional. **It alone is ~37% of the resident-keyed total.**
+> **⚠ C3 Administration was the largest and least certain rate in the table — now SOURCED. See §8.**
+> **Revised 45 → 65 per 1,000 residents.** *(The 45 used in §5.2's first run was an estimate; §7 onward uses
+> 65.)*
+
+---
+
+# 8 — ⭐ THE ADMINISTRATION RATE, SOURCED — 2026-09-01
+
+**The problem:** every earlier source *(OECD Nordics 25–30% · Nunavut 60% · Svalbard ~50%)* measures
+**general government or public sector**, which bundles **education, health and state-owned enterprises** —
+all counted separately here, and in Svalbard's case including **Store Norske, a mining company.** Stripping
+them was a guess.
+
+**The fix:** BLS Current Employment Statistics has series that already exclude education. **BLS blocks
+automated access; FRED mirrors the same series and does not.**
+
+| FRED series | What it is | Value *(Jul 2026, SA)* |
+|---|---|--:|
+| `CES9091000001` | All Employees, **Federal** | **2,683 k** |
+| `CES9093200001` | **Local Government, excluding Education** | **6,973 k** |
+| `CES9092200001` | **State Government, excluding Education** | **2,865 k** |
+| | **Raw total** | **12,521 k** |
+
+**Two subtractions the series do not make** *(my estimates, not data)*: **USPS ~530 k** *(maps to our D1
+transport)* and **government hospitals ~1,000 k** *(maps to our B2 healthcare)*.
+
+> ## **Core public administration ≈ 11.0 million ÷ ~342 M population = 32 per 1,000 = 6.9% of the US
+> workforce.**
+> **Tepenian workforce is 755 per 1,000 residents → US-equivalent rate = 52 per 1,000 residents.**
+> **× ~1.25 remote/rationed uplift = 65.**
+
+### ⭐ The estimate survived contact with the data
+
+**65 was already the working figure. It did not move** — which means the reasoning chain that produced it
+*(US core-admin base + modest remote uplift)* was sound rather than lucky. **Recorded because an estimate that
+survives verification is evidence about the method, not just about the number.**
+
+### ⚠ What is still soft — and it is now a different thing
+
+**The base is measured. The UPLIFT is the remaining judgment**, and it is a worldbuilding call rather than a
+data gap:
+
+| Uplift | Rate | Effect on every city |
+|---|--:|---|
+| **1.0×** — no uplift *(if the Nordic premium is entirely education and health, which we count separately)* | 52 | **−2 points each** |
+| **1.25× — used** | **65** | *baseline* |
+| **1.5×** | 78 | **+2 points each** |
+
+**Also ±10% on the base**, from the two hand-subtractions above.
+
+> **The clean single source exists and would remove both uncertainties at once:**
+> **`https://www.bls.gov/oes/2024/may/naics3_999000.htm`** — *"Federal, State, and Local Government, excluding
+> State and Local Government Schools and Hospitals **and the U.S. Postal Service**."* **That category already
+> excludes all three things subtracted by hand.** BLS blocks automated retrieval; a browser download would
+> settle it exactly.
 
 ## 5.2 Results
 
