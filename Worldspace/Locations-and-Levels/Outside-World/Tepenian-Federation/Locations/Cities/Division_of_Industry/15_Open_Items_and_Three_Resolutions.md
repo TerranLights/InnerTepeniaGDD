@@ -17,12 +17,35 @@
    210,467-worker-year hole at Halley, Neumayer and Vostok was closed the same day by
    developer ruling: **research at Neumayer and Vostok, general commuter labour at
    Halley.**
-2. **⛔ {{Bunger Hills City}}** — ruled to be founded *(developer, 2026-09-02)*, but has
-   **no name, no spec, no population.** Doing the Mirny subnet without it means doing
-   the Mirny subnet twice.
-3. **⛔ `02_Cross_City_Industry_Differentiation_Table.md` IS STILL EMPTY**, and
-   `CLAUDE.md` requires a city's column be filled **in the same commit** that completes
-   a category for it. **A 38-city pass hits this rule on every city.**
+2. **✅ {{Bunger Hills City}} — DELIBERATELY DEFERRED, and the reasoning inverts what
+   this file first said.** *(Developer, 2026-09-02.)*
+
+   > *"let's hold off on {{Bunger Hills City}}, and we can figure out what the baselines
+   > for everything are according to what makes sense with the rest of the country so
+   > that it's #1.) internally consistent with the national character, and #2.) distinct
+   > from other cities as its own community with its own unique identity. Both will be
+   > easier to figure out once the national specs are determined."*
+
+   **⚠ This file originally called it a blocker on the grounds that *"doing the Mirny
+   subnet without it means doing the Mirny subnet twice."* THAT WAS WRONG.** **The model
+   is per-city and additive** — a city added later changes national aggregates and the
+   Mirny subnet's count, but **invalidates no other city's baseline, mandate or free
+   tier.** It was never a dependency.
+
+   **⭐ And the developer's reasoning is the stronger one, and it is `CLAUDE.md`'s own:**
+   the anti-convergence rule exists so that cities do not quietly become each other.
+   **You cannot make a city distinct from a set you have not characterised yet.**
+   **Founding Bunger Hills first would mean inventing an identity in a vacuum and then
+   discovering it overlaps three existing cities.** **Deferred ON PURPOSE — do not
+   "helpfully" close this.**
+
+3. **⚠ `02_Cross_City_Industry_Differentiation_Table.md` — an OBLIGATION DURING the
+   pass, not a prerequisite to it.** `CLAUDE.md` requires a city's column be filled **in
+   the same commit** that completes a category for it. **That is satisfied by running
+   the pass correctly, not by doing something before it.**
+
+> ## ✅ **THEREFORE: LIST A IS EMPTY. THE PER-CITY DIVISION-OF-INDUSTRY PASS IS
+> UNBLOCKED.**
 
 ---
 
@@ -410,3 +433,60 @@ Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji.
 
 **All three are floors derived from the debt, not invented figures — and all three sit
 comfortably inside what canon already said about these cities.**
+
+---
+
+---
+
+# ▶ THE PER-CITY PASS — how it runs, now that nothing blocks it
+
+**Two halves, and the first is smaller than it looks.**
+
+## HALF A — assess the thirteen cities that have no recorded national role
+
+**`04` §3 set 22 providers aside and left *"15 cities remain to be needs-assessed."***
+**Those cities currently show 0% mandated purely because nobody has looked, not because
+they do nothing:**
+
+**Denison · Concordia · Dumont d'Urville · {{Abowasa}} · Princess Elisabeth · Cape Adare ·
+Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji**
+
+**The question for each is the one just answered for Halley, Neumayer and Vostok:
+what does it give the Federation that the Federation would miss?** ⚠ **Some may
+legitimately answer "nothing national" — a city that is purely itself is a valid and
+interesting result, not a failure.** *(Kunlun and Dome Fuji, with zero humans, are the
+obvious candidates.)*
+
+**⭐ Precedents now exist for how to answer it well:** Cape Adare turned out to be a
+**strategic mineral** city; Neumayer a **research** city whose subject was already in
+the corpus; Halley a **labour-exporting** city whose identity is downstream of having no
+ground. **All three came from real-world grounding plus a gap in the national ledger —
+not from invention.**
+
+## HALF B — run all 37 through the three-tier split, and fill the table
+
+**Per city, in one commit each:**
+
+1. **Baseline** — `Humans×(120.7·D + 85.6)/1000 + Residents×(64·D + 113.2)/1000`, with
+   the food term at **10%** for the geologically-forced importers *(Halley, Neumayer,
+   Vostok, Byrd, Amundsen Station, Kunlun, Dome Fuji)* and **100%** for everyone else.
+2. **Mandated distinctive** — the city's national provider sectors, from `04` §3 or from
+   Half A. **Mandated/discretionary test: would the nation suffer materially without
+   it?** *(Sanay's docks yes; Shirayuki's arts no.)*
+3. **Free distinctive** — the remainder. **This is the character budget, and it is
+   what the culture work spends.** National average **46.5%**; the real spread runs
+   **23.4% (Fort McMurdo) to 72.7% (Dome Fuji)**.
+4. **Fill the city's column in `02_Cross_City_Industry_Differentiation_Table.md` — SAME
+   COMMIT.** Non-negotiable per `CLAUDE.md`.
+5. **Tag deposits** `[CGRM <date> · Path 2 · three-tier division-of-industry model]`.
+
+## ⚠ Standing cautions for the pass
+
+- **Do NOT quote national food balances to three significant figures.** They swung 308,000
+  producers in four days on judgment calls *(`13` §15)*. **The durable outputs are the
+  tier table and the 7.4% specialisation slack.**
+- **Verify units.** Four 1,000×/digit errors occurred and were self-caught in this work.
+- **{{Bunger Hills City}} is deferred on purpose** — see List A item 2.
+- **⭐ The free tier is where LAW G weird industries, Local Texture and discretionary
+  exports live — and it is 13 points smaller than the model said a week ago.** Budget
+  accordingly.
