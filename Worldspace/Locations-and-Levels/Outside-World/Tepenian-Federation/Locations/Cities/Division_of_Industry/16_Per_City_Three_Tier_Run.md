@@ -1495,6 +1495,97 @@ national by the same reasoning.
 
 ---
 
+## 13. ✅ PALMER CITY — DETERMINED *(⚠ on a self-declared non-canon §15 — see below)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.11, **GROWER** — Anvers Island, rock-founded, food term 100%)* | 97,747 | **39.1%** |
+| **Mandated** | 63,377 | **25.4%** |
+| **FREE — the character budget** | 88,728 | **35.5%** |
+
+**Distinctive tier: 152,105 (60.9%).** §15: Entertainment/hospitality 35% · Commercial/trade 20% ·
+Cultural institutions/arts 15% · Technical/scientific 10% · Marine/resource extraction 10% · Other 10%.
+
+### The mandate *(developer ruling, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **35%** | 53,237 | **Entertainment/hospitality — FULL** | ✅ `04` §3 lists Palmer City a **HOSPITALITY provider at 35%** |
+| **6.667%** | 10,140 | **Commercial/trade — ONE THIRD** | The tourism-attached slice: sealiner arrivals, money changing hands |
+| **41.667%** | **63,377** | | |
+
+> **This replaces the 0.0% that stood in Half B** — Palmer City was the only city in the table at zero for a
+> reason other than being unassessed.
+
+### ⭐⭐ WHY — this city plausibly closes the open half of the Upper Earth trade question
+
+**Two files that were never written together, describing one pipeline from opposite ends:**
+
+| Source | What it says |
+|---|---|
+| **Palmer City Vision Notes** *(⚠ 2026-07-04)* | *"Economic model resolved: Palmer City runs substantially on **Upper Earth tourism** (casinos, nightlife) — public disdain, private indulgence. **This is a genuine partial answer to the Upper Earth trade justification question.**"* |
+| **Juan Carlos canon** ✅ *(read this same pass, §10)* | *"Non-immigrant visitors routed to a separate corridor/sealiner to **Palmer City**."* |
+
+> ### **The three-stage border system found at Juan Carlos is not an immigration system that happens to have a third stage. ITS THIRD STAGE IS AN INDUSTRY.**
+> **Machu Picchu (arrival) → Juan Carlos (processing) → Palmer City (where the visitors actually GO, and spend).**
+
+**And `14` resolved only half the trade question.** It established **why Upper Earth SELLS** Tepenia the
+phosphate it cannot manufacture — leverage. ***What Tepenia PAYS WITH was left open.*** **Palmer City's
+tourism is a direct candidate: it is how the nation earns what buys the phosphorus.** **That is national
+provider work in the strictest sense the mandate test allows.**
+
+**⏸️ Flagged, not closed:** this is a strong candidate for the export half, **not a ruling on it.** The
+export question stays open until the developer rules on it directly.
+
+### ⚠ FIRST CITY WHOSE §15 DISCLAIMS ITSELF
+
+The source file states outright: *"Palmer City's economic foundations beyond entertainment/hospitality
+remain TBD per its own Specs file — **this breakdown is a reasonable working estimate, not confirmed
+canon.**"*
+
+**Every other §15 in this pass has been ✅ canon. This one is not.** The 35% is soft in a way no other
+city's figures have been — **so Palmer City's determination is provisional on different grounds than
+everyone else's**, and should be revisited if the §15 is ever confirmed.
+
+### Why only a THIRD of commercial/trade
+
+**§15 annotates the sector as two things — *"subnet hub role, key Hwy 1 waypoint"* — and neither is a
+mandate.** Per the standing rule established by the developer's Mawson correction, **hub status is
+infrastructure, not provider work.** *(Palmer City is not even reachable by road: `Highways.md` L74, L79 —
+a **ramp off Hwy 1 plus a BOAT CROSSING**, the only Hwy 1-adjacent city that cannot be reached by road
+alone.)*
+
+**But the sector must also handle the arriving tourists themselves** — the sealiner traffic, the trade that
+exists only because visitors are there. **A third takes the tourism-attached slice without conscripting the
+hub role.**
+
+### ⭐ The cultural sector stays FREE — and emphatically so
+
+**Palmer City is Tepenia's CULTURAL CAPITAL, and explicitly NOT its governmental one** *(Fort McMurdo;
+Palmer City, Concordia and Lazar are all excluded from capital candidacy)*. Settled **June 21, 2564 — the
+day the Falkland Treaty was signed**, the first Tepenian city. Founded by three groups united by
+**relationship to robots, not nationality** — the only Tepenian city with no founding-nation-vs-majority
+tension. **All 43 master-list nations present.** The jazz collection and the tattered Antarctica flag at
+**100 Miles Davis Boulevard**, the first official address in Tepenia.
+
+> **None of that is work the nation conscripts.** ***The free tier is exactly where a cultural capital's
+> identity is supposed to live***, and a model that mandated it would be a worse model.
+
+**Free in full:** arts 15% *(22,816)* · technical/scientific 10% *(15,210)* · marine 10% *(15,210)* ·
+Other 10% *(15,210)* · **two-thirds of commercial/trade** *(20,281)*. **About 60% of Palmer City's free
+budget is work with no relationship to Upper Earth at all.**
+
+### Notes
+
+- **⚠ Post-war, NOT an input:** destroyed, *"among the first and most thoroughly targeted cities of the Long
+  Night War."*
+- **⚠ The Long Night War's inciting incident happened here** *(⚠ Vision Notes, 2026-07-04)* — an Upper Earth
+  diplomat, **in Palmer City for its tourism economy**, assaulted a gynoid who defended herself. **The
+  mandated sector above is the reason he was in the city at all.** Her development is **developer-paused,
+  flagged as requiring "the utmost care"** — deliberately not built on here.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
