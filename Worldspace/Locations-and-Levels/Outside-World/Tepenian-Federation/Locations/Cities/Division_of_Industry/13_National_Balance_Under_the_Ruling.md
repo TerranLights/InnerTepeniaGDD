@@ -771,9 +771,39 @@ CONSTRUCTION.** Both need sky. **Nothing else does** — and per §12, the lit v
 
 | Tier | Cities | Bedrock access | Consequence |
 |---|---|---|---|
-| **ROCK-FOUNDED** — nunataks, oases, capes, islands | Lazar · Signy · Troll · Princess Elisabeth · {{Abowasa}} · Sanay · Belgrano · Denison · most of the coast | **✅ Lateral, unlimited in practice** | **Can house and grow at will. Ice-free area limits only their outdoor tier** |
+| **ROCK-FOUNDED** — nunataks, oases, capes, islands | Lazar · Signy · Troll · Princess Elisabeth · {{Abowasa}} · Sanay · ~~Belgrano~~ *(**corrected — see below**)* · Denison · most of the coast | **✅ Lateral, unlimited in practice** | **Can house and grow at will. Ice-free area limits only their outdoor tier** |
 | **ICE-SHEET** — deep plateau | **Concordia** *(3+ km of ice at Dome C)* · Vostok · Kunlun · Dome Fuji | **⛔ Bedrock is kilometers down. Unreachable** | Confined to the ice surface — which is exactly what Concordia's Frostlands is |
-| **ICE-SHELF** — floating | **Halley · Neumayer** | **⛔ No bedrock at all. Floating on the sea** | The most constrained places in the Federation, and permanently so |
+| **ICE-SHELF** — floating | **Halley · Neumayer · ⚠ BELGRANO** *(corrected 2026-09-02 — see below)* | **⛔ No bedrock at all. Floating on the sea** | The most constrained places in the Federation, and permanently so |
+
+> ## ⚠⚠ CORRECTION — BELGRANO IS ICE-SHELF, NOT ROCK-FOUNDED. Recorded 2026-09-02.
+>
+> **This classification put Belgrano in the rock-founded tier, reasoning from the real-world Belgrano II
+> Base sitting on Bertrab Nunatak — exposed rock at ~256 m. CANON SAYS OTHERWISE, in the city's own Specs
+> file:**
+>
+> > *"The **ice shelf environment** means the coastal geography shifts over time."*
+> > *"The Argentine Air Force operated here because of the runway — **flat coastal ice** providing the
+> > airstrip infrastructure that made Belgrano the Halley subnet's primary aviation access point."*
+>
+> **`City_Master_Reference/Halley_Subnet_Reference.md` reached the same reading independently**, from a
+> direct read of Specs and Local_Cultures: *"Ice shelf (flat coastal ice), not bedrock — the third confirmed
+> Halley-subnet ice-shelf city."* **The subnet's geological split is 3–3, not 2–4:** ice-shelf **Halley,
+> Neumayer, Belgrano**; bedrock **Sanay, Troll, Lazar**.
+>
+> ### Consequences, applied
+> - **Belgrano is a FORCED FOOD IMPORTER.** Food term drops to 10%; **baseline 44.3% → 34.0%**, distinctive
+>   rises to **66.0%**.
+> - **Its food debt is 77,044 worker-years — and unlike Halley, Neumayer and Vostok, it is COVERED**, several
+>   times over, by its own aviation 35% + maritime 20% *(292,477)*. **No uncovered hole.**
+> - **National balance absorbs it:** import need **237,609 → 314,653**, supply 404,191, **balance +89,538** —
+>   still comfortably positive.
+> - **Ice-shelf city count 2 → 3; rock-founded 29 → 28.**
+>
+> ### ⏸️ FLAGGED FOR FUTURE REAL-WORLD RESEARCH — not now, developer's direction
+> **How far inland, and in which direction, would Belgrano have to go to reach grounded bedrock?** Bertrab
+> Nunatak is genuinely nearby in the real world, so **the lateral-access principle above may still partly
+> apply to Belgrano** — which would soften, though not erase, its ice-shelf constraint. **Deliberately not
+> researched now.** Until it is, Belgrano is treated as a full ice-shelf city.
 
 > ### ⭐ **The tiering explains the setting rather than merely labeling it.** **Concordia's Frostlands is a
 > surface district scattered across the plateau precisely because Concordia CANNOT go underground — there is
@@ -812,9 +842,9 @@ general criterion — **it would supersede the ad-hoc per-city reasoning in §6 
 
 | Tier | Cities | Humans | Share |
 |---|--:|--:|--:|
-| **ROCK-FOUNDED** *(lateral bedrock access)* | **29** | **13,478,234** | **86.3%** |
+| **ROCK-FOUNDED** *(lateral bedrock access)* | **~~29~~ 28** | **~~13,478,234~~ 12,946,309** | **~~86.3%~~ 82.9%** |
 | **ICE-SHEET** *(bedrock kilometers down)* | 6 | 821,805 | 5.3% |
-| **ICE-SHELF** *(floating, no bedrock)* | 2 | 1,323,484 | 8.5% |
+| **ICE-SHELF** *(floating, no bedrock)* | **~~2~~ 3** | **~~1,323,484~~ 1,855,409** | **~~8.5%~~ 11.9%** | *(+Belgrano, corrected 2026-09-02)*
 
 **⭐ Two reclassifications the research forced, neither of them guessed:**
 

@@ -507,3 +507,53 @@ an ice-shelf city's marine sector being indirect rather than crewed.
 **`04` §3 assigned most cities ONE provider role. Neumayer proves a city can carry two or more nationally
 load-bearing sectors in its §15.** **Every remaining city must be checked against its FULL §15**, not just
 the single role `04` recorded. **Half B's mandate column is a floor, not a finding.**
+
+---
+
+## 2. ✅ BELGRANO — DETERMINED *(and its geology corrected)*
+
+**Geographic order within the Halley subnet, per developer direction: start at Vahsel Bay and follow the
+coast — which is Hwy 7's own route. Belgrano is the western terminus, so it comes first.**
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.43, **forced importer** → food term at 10%)* | 274,151 | **34.0%** |
+| **Mandated** | 345,654 | **42.9%** |
+| **FREE — the character budget** | 186,122 | **23.1%** |
+
+**Distinctive tier: 531,776 (66.0%).** Canon §15: Aviation/logistics ~35% · Maritime/port ~20% ·
+Technical/mechanical maintenance ~20% · Industrial ~15% · Other ~10%.
+
+### ⚠ GEOLOGY CORRECTED FIRST — Belgrano is ice-shelf, not rock
+
+**Full correction recorded in `13` §15.** In short: this folder had classified Belgrano rock-founded from
+the real-world Bertrab Nunatak; **its own Specs file says *"the ice shelf environment means the coastal
+geography shifts over time"* and *"flat coastal ice providing the airstrip infrastructure."*** It is the
+Halley subnet's **third** ice-shelf city, making the subnet a 3–3 split.
+
+**Effect: baseline 44.3% → 34.0%**, distinctive up to 66.0%, and Belgrano joins the forced-importer list.
+**Its 77,044-worker-year food debt is covered ~3.8× over by aviation + maritime alone** — no uncovered hole,
+unlike Halley/Neumayer/Vostok. **National balance falls to +89,538, still positive.**
+
+### The mandate, itemized
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **35%** | 186,122 | **Aviation/logistics — the subnet's primary aviation hub** | ✅ Canon §15. *"Paralleling Marambio's role in the Palmer subnet"*; **medevac is an aviation function, and the Belgrano Institute of Medicine sits downstream of the flight line** |
+| **20%** | 106,355 | **Maritime/port — one of the two South Africa receiving ports** | ✅ Canon §15 + subnet-level canon *(with Sanay, interchangeable by open passage)* |
+| **10%** | 53,178 | **Half of Technical/mechanical maintenance** — the share keeping the airfield and port running | ✅ Developer ruling, 2026-09-02 |
+| **65%** | **345,654** | | |
+
+**Industrial 15% stays FREE** — the *"las Arrastradoras"* / first-Rastra work is historical *(Neumayer
+re-engineered the design)*, and the paused-Cradle-candidate status is potential, not current output.
+**The other half of maintenance is ordinary city upkeep** — developer ruling.
+
+### ⭐ Belgrano is now the least-free city in the Federation
+
+**23.1%, just below Fort McMurdo's 23.4%** — and it fits the pattern exactly: **the least-free cities are
+the ports, the airfields and the factories.** A city whose civic authority literally sat in the Airfield
+rather than a city hall has almost no economy that is merely its own.
+
+**⚠ Note on the Institute:** strategically load-bearing, numerically tiny — roughly **1,750 teaching staff**
+against a 531,776 distinctive tier. It does not move the percentages; it means a small slice of Belgrano's
+mandate matters far out of proportion to its headcount.
