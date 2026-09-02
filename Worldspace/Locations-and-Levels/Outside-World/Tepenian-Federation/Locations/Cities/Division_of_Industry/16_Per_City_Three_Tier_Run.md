@@ -898,6 +898,99 @@ be describing that, not indoor growing, which bedrock founding permits at will.
 
 ---
 
+# ▓▓ PALMER SUBNET ▓▓
+
+*Halley subnet closed at six determined — Belgrano · Halley · {{Abowasa}} · Sanay · Troll · Princess
+Elisabeth — with **Lazar deferred by developer ruling.***
+
+---
+
+## 8. ✅ SIGNY — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — rock-founded island, food term 100%)* | 58,480 | **41.1%** |
+| **Mandated** | 46,006 | **32.4%** |
+| **FREE — the character budget** | 37,641 | **26.5%** |
+
+**Distinctive tier: 83,647 (58.9%).** Canon §15: Biological/ecological research 30% · Marine/fishing 30% ·
+Maritime trade 20% · Technical/maintenance 15% · Other 5%.
+
+### The mandate, itemized *(developer ruling, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **30%** | 25,094 | **Marine/fishing — FULL** | ✅ `04` §3 lists Signy a national **FOOD (fish) provider** at 30% |
+| **15%** | 12,547 | **Biological/ecological research — HALF** | Derived: the fishery is **capped**, and somebody must know where the cap is |
+| **10%** | 8,365 | **Maritime trade — HALF** | Derived: **Signy has no highway.** The catch reaches Tepenia only by sea |
+| **55%** | **46,006** | | |
+
+### ⚠ Two scope traps deliberately excluded
+
+**The siligel shortage and the "survived, untouched by war damage" status are the two most striking facts in
+Signy's file, and BOTH ARE POST-WAR.** Second Interwar is the scope; neither is an input here. **Recorded so
+a later reader knows they were set aside on purpose rather than missed.**
+
+### ⭐⭐ The food model resolves a double-count that would otherwise be real
+
+**Signy carries a FULL baseline food term** *(grower, ~22,022 workers feeding its own humans)* **AND a
+national fish mandate.** On its face that counts the same labor twice — the city feeds itself *from* the
+sector it also exports from.
+
+**It does not, and `14` is why.** Marine capacity is **protein-rich, fat- and carb-poor — the rabbit-
+starvation failure mode.** ***Signy cannot eat its way out of needing farms.*** The two labor pools are
+genuinely separate: one grows carbohydrate and fat for local consumption, the other harvests protein for the
+nation.
+
+> **A constraint built for the national model turned out to do load-bearing work at the single city sitting
+> on the richest fishery in the country.** Noted because it is the first time a national finding has resolved
+> a per-city accounting problem rather than merely constraining one.
+
+### What the marine 30% actually is — and why the platforms exist
+
+**25,094 workers. `11` established the entire national sustainable catch needs only ~13,000 fishers** — so
+this single sector is **1.9× the whole national fisher requirement.** It therefore **cannot be crews.** It is
+harvest platforms, processing, and dock work.
+
+**And canon anticipated the crowding from a completely different direction.** Signy Island is **19 km², about
+half of it ice-free** *(`13` §13)*, and it holds **both** the work ground and the shipping dock. The ⚠ Vision
+Notes' **"floating extension-platforms"** exist *precisely because the island is too small to hold the
+operation.* **Two independent lines — a labor calculation and a 2026-07-04 vision session — arrived at the
+same physical constraint.**
+
+### The two derived halves, argued
+
+**Maritime trade, half.** Signy is **maritime-access only, the most isolated Palmer subnet city, with no
+highway at all.** If it is a national food provider, **the only way that catch physically reaches Tepenia is
+by sea** — harvest, process and ship are three stages of one operation, the same structure ruled at Sanay.
+**Half, not full**, because the sector also runs Signy's own inbound supply: everything the city consumes
+arrives on those same boats.
+
+**Biological/ecological research, half.** The Scotia Sea supplies a material share of national calories and
+**cannot be harvested past its limit without collapsing.** A 30% ecological-research sector sitting on that
+exact water is plausibly what keeps the national fishery from being fished out. **Half, not full**, because
+wildlife work and long-term monitoring are also genuine pure science.
+
+> **⚠ Honest note on the research half: this is DERIVED, not stated.** Canon says only *"Biological/ecological
+> research 30%."* The fishery-management reading is inference. **It is a stronger inference than the one
+> declined at Troll — the national food model supplies positive evidence rather than analogy — but it is
+> still inference, and should be re-examined if Signy's research sector is ever annotated in canon.**
+
+### Notes
+
+- **Technical/maintenance 15% stays FREE** — unannotated as to what it maintains, so per the Troll principle
+  it is not assumed to be platform work.
+- **⭐ The free budget's shape is unusual and worth recording.** Of 37,641 free workers, **20,912 are the
+  untouched halves of the two sectors Signy is already mandated in.** Its genuinely unconscripted work —
+  maintenance and Other — is 16,729. **Signy's character budget is mostly the discretionary end of the same
+  things it does for the nation, not something separate from them.**
+- **The two-island commute is internal**, not labor exported to another city: homes on **Coronation**
+  (450 km²), work on **Signy Island** (19 km²), one bridge between *(developer ruling 2026-09-02, the ruling
+  that generalized into `13` §14's national bedrock-volume criterion)*. **Not a tier change** — but a real
+  share of the free maintenance sector runs the crossing.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
