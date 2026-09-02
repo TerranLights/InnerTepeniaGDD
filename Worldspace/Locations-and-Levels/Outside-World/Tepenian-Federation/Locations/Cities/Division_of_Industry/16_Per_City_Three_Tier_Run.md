@@ -1431,6 +1431,70 @@ Institute *is* Esperanza's education mandate — **the exact opposite of the hal
 
 ---
 
+## 12. ✅ MARAMBIO — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Seymour Island, rock-founded, food term 100%)* | 177,203 | **41.3%** |
+| **Mandated** | 175,942 | **41.1%** |
+| **FREE — the character budget** | 75,404 | **17.6%** |
+
+**Distinctive tier: 251,345 (58.7%).** Canon §15 *(revised 2026-07-16)*: Aviation/logistics 30% ·
+Maritime/port operations 30% · Technical/maintenance 20% · Commercial/trade 15% · Other 5%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **30%** | 75,404 | **Maritime/port operations** — the South America + Weddell Sea receiving node | ✅ `04` §3 + §15 *"equally central to the city's defining, dominant identity"* |
+| **30%** | 75,404 | **Aviation/logistics** — **DOMESTIC**, distributing onward across Tepenia | ✅ `04` §3 + `Airports.md` L16 |
+| **10%** | 25,134 | **Half of Technical/maintenance** | ✅ Developer ruling |
+| **70%** | **175,942** | | |
+
+### ⭐ The whole intermodal node sits inside one municipality
+
+**Sea in, air out — both under one city government.** The port receives from **South America and the Weddell
+Sea**; the airfield is **domestic-only**, distributing *"to other Tepenian cities."* `04` §3 already lists
+the two together as a **single LOGISTICS provider at 60%.**
+
+**And after the Sejong correction, this port carries the country's most load-bearing import.** Bulk cargo —
+**phosphate rock above all, which cannot be manufactured and never flies** — enters Tepenia **by sea.**
+Marambio is the Palmer subnet's receiving node for it. **That is about as literal as the mandate test gets.**
+
+### Commercial/trade 15% is NOT mandated
+
+§15 annotates it *"leveraging both the airfield's and the port's connectivity"* — **the city profiting from
+its position.** *(The Princess Elisabeth distinction: the mandate test asks what the nation needs FROM you,
+not what you gain FROM WHERE YOU SIT.)* **The nation needs the port and the runway; it does not need
+Marambio's traders to do well out of them.**
+
+### On the half-technical split — precedent, not analogy
+
+**Technical/maintenance 20% is bare and unannotated**, which normally triggers the Troll refusal. **But this
+exact split has now been ruled by the developer on two cities of this exact shape** — **Belgrano** *(aviation
+hub + port, "Technical/mechanical maintenance ~20%" → half)* and **Sanay** *(port + repair → half)*.
+Marambio holds **both an airfield and shipyards**, both mandated, and the work keeping them running is
+national by the same reasoning.
+
+> **⚠ The honest counter, recorded:** the shipyards are **already inside the maritime 30%** — §15 names them
+> explicitly, *"shipyards, dock loading and unloading."* **So some vessel-maintenance labor is counted there,
+> and half of technical on top may be reaching.** **B leaves Marambio 17.6% free**, a narrow character budget
+> for a city of 570,269.
+
+### Notes
+
+- **Hwy 1's ONLY inland main-line stop on the Peninsula**, reached by the **Picnic Passage causeway/bridge
+  chain** *(Marambio → Snow Hill I. → James Ross I. → Prince Gustav Channel → Trinity Peninsula)*. Port
+  Lockroy, Palmer City and Rothera are reached from ramps further along, **not from Marambio directly.**
+- **⚠ Post-war, NOT an input — recorded as characterization only:** Marambio was destroyed by *a single
+  strike that eliminated the airfield and shipyards together.* **Both halves of the node, one hit** — targeting
+  that understood exactly what this city was.
+- **⏸️ Still open from the Vision Notes:** the Marambio/Esperanza division of shipping labor *(bulk vs.
+  specialty)*, unresolved since 2026-07-04. **Both are now determined and neither determination required it**,
+  but it remains open for the city files.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -1448,3 +1512,4 @@ Institute *is* Esperanza's education mandate — **the exact opposite of the hal
 | 9 | **⭐ Fort McMurdo — THE CAPITAL** | **Its §15 records zero governmental employment; its 35.1% mandate is entirely industrial** | **The seat of national government is modeled as a mining town that happens to be the capital.** Per the structural finding above, national administrative concentration must be a **mandate**, not a §15 sector — so Fort McMurdo needs one. **Resolve at its own entry, not before** |
 | 10 | **Juan Carlos** | **When did the federal archive relocate to Amundsen Station?** | Canon says it moved *"later,"* and that the strike came *"even after the bulk archive had moved"* — **but the Second Interwar runs 248 years and no date is given.** Whether the 10% archive mandate describes the whole period or only its earlier stretch |
 | 11 | **⚠⚠ METHOD — ALL CITIES** | **The DoI files disagree on what §15 percentages are a percentage OF** | **`16` applies them to the DISTINCTIVE tier; `04` and `National_Medical_and_Care_Institutes.md` apply them to the WHOLE WORKFORCE.** Esperanza education 25%: **211,198 vs 350,155** — 139,000 workers apart. `04` does it too *(Signy "fishing 30% → 42,638" is 30% of whole workforce)*. **NOT resolved mid-pass by deliberate choice** — re-picking the denominator now would invalidate every determination **and** the national balance. **Resolve together with the ABCC re-run; both are mechanical re-runs of the same table.** All determinations continue on `16`'s convention so they stay mutually consistent |
+| 12 | **Belgrano — deferred by developer** | **The Belgrano Institute of Medicine's classification** | ⏸️ **Parked 2026-09-02: *"I'm sure there's a better way to classify the Belgrano Institute of Medicine."*** Currently absorbed into the **Aviation/logistics 35%** mandate on the grounds that medevac is an aviation function and the school is downstream of the flight line. **Revisit AFTER the full-country run**, not before — and note the ruling above stands: it is not a case for a separate §15 sector |
