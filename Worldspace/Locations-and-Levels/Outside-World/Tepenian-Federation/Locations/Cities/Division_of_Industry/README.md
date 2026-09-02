@@ -1,4 +1,17 @@
-# Division of Industry — STATUS: RELIABLE
+# Division of Industry — STATUS: RELIABLE, WITH ONE CARVE-OUT
+
+> ## ⛔ **CARVE-OUT — THE FOOD LAYER (B1) IS NOT RELIABLE. Added 2026-09-01, after independent validation.**
+> **Three independent checkers found the national food balance to be circular, double-counted, and stated in
+> the wrong units. `10_Validation_Findings_2026-09-01.md` is REQUIRED READING before citing ANY food figure
+> from `04`, `05`, `09`, or from this file's own "First results" section below.**
+>
+> **What is affected:** the B1 rate, every export/deficit figure, the national balance, and the "First results"
+> block near the bottom of this file. **What is NOT affected:** population, workforce, the difficulty ladder,
+> and the other 21 industries. **The coalition finding and the Weddell Sea third-center finding both survive.**
+>
+> **✅ DRQ-08 is ANSWERED — see `11_Caloric_Rebuild_and_Livestock_Tier.md`. The B1 rate is rebuilt from human
+> caloric need: 53 → 120.7 per 1,000 humans, a 2.28× increase that holds across every plausible input.**
+> **⏸️ DRQ-09 (the baseline/distinctive convention) is still open and still blocks every export figure.**
 
 > ## ✅ **MARKED RELIABLE — developer ruling, 2026-09-01.**
 > **The findings and figures in this folder are settled working canon.** They may be cited, built on, and used
@@ -13,7 +26,10 @@
 
 | File | What it is |
 |---|---|
-| **`08_Volume_Based_Requirement_Reference.md`** | ⭐ **The method and the rates.** Start here |
+| **`10_Validation_Findings_2026-09-01.md`** | ⛔ **READ FIRST.** What three independent checkers found, and which figures it invalidates |
+| **`11_Caloric_Rebuild_and_Livestock_Tier.md`** | ⭐ **The food layer, rebuilt from biology.** The new B1 rate, the marine-employment finding, the livestock tier |
+| **`12_Terraforming_and_the_Outdoor_Tier.md`** | ⭐ The terraformed coastal belt, multi-species livestock, and the feed chain. **Candidate answer to what anyone eats after the Tower** |
+| **`08_Volume_Based_Requirement_Reference.md`** | ⭐ **The method and the rates.** Start here — **but its B1 rate is superseded by `11`** |
 | **`09_Per_City_Baseline_Run.md`** | ⭐ **The answers — all 38 cities.** §3.5 is the freedom-margin finding |
 | `00_Necessary_Industries_Register.md` | the 22 industries, and what the SOC cross-check found |
 | `04_Providers_and_National_Balance.md` | who supplies whom nationally; the outsourceable split |
@@ -119,6 +135,40 @@ foundation, exactly what the Canon Gap Resolution Method exists to prevent."*
 > **The foundation is filled.** Every city now has a sized economy, a known character budget, a freedom
 > margin, and — for the robot half — a leisure history that gives all of it meaning.
 
+## 6. ⭐ A NATIONAL DEPENDENCY MAP — added 2026-09-01
+
+**Every flow now has a source, a destination and a magnitude.** That was never true before; the pieces existed
+but none of them were sized.
+
+| Flow | Source → destination |
+|---|---|
+| **Food** | **Davis** feeds ~⅓ of the country · the **Scotia Sea** feeds the Peninsula · the **polynya** fed Janbogo · **Belgrano + Sanay** feed the Halley subnet, worked by commuters from Halley and {{Abowasa}} |
+| **Education** | **Esperanza** and **Shirayuki** export tertiary training; **~21,000 medics + ~3,400 robot-care technicians per year** move outward from three institutes |
+| **Chambers** | **Sinheung** and **Byrd** supply the nation. **Mountain Pass** used to |
+| **Logistics** | **Casey** *(Hwy 110 × Hwy 2)* · **Marambio** · **Sanay** · **Belgrano** · **Troll** · **Mawson** |
+| **Fabrication** | **Sinheung** *(45%, highest in corpus)* · **Rothera** · **Fort McMurdo** · **Byrd** · **Sayowa** |
+
+**⭐ It is drawable, and it is the prerequisite for anything about disruption** — severing a line only matters
+if you know what was flowing along it and how much.
+
+---
+
+# ⏸️ LOW-PRIORITY / TENTATIVE — what the Long Night War destroyed
+
+**Raised 2026-09-01, and deliberately parked by the developer the same day.**
+
+> *"The extent and nature of it is near-guaranteed to change as more worldbuilding gets accomplished, so let's
+> leave that as low-priority tentative for now."*
+
+**The capability is real and worth knowing about:** the model describes the **Second Interwar**, but the game
+is set **~2822–27, after the war** — and now that every city's output and every dependency is sized, the cost
+of losing a city is computable. Canon marks **Casey** *(the Hwy 110 × Hwy 2 junction)*, **Cape Adare**,
+**Zukelli** and **Denison** as destroyed, and **Belgrano** as ruined afterward. **No Census III exists
+anywhere in the project**, and this would be the route to its economic half.
+
+> **⚠ But do NOT build on it yet.** The war's extent and nature will move as worldbuilding continues, and
+> anything computed now would need redoing. **Revisit once the war itself is more settled.**
+
 ---
 
 # First results from the producer pass — 2026-09-01
@@ -148,5 +198,20 @@ foundation, exactly what the Canon Gap Resolution Method exists to prevent."*
 3. Fill the city's column in `02_Cross_City_Industry_Differentiation_Table.md` **in the same commit**.
 4. Tag deposits `[CGRM 2026-09-01 · Path 2 · volume-based requirement model]`.
 
-**Two chores to clear first:** the **Cape Adare provider contradiction** *(`04` §3 and §4 disagree)*, and
-**sourced rates for C6/C7/C8/D4.**
+**Chores to clear first:**
+
+1. **✅ The Cape Adare provider contradiction — RESOLVED 2026-09-01** by `11`'s marine-employment finding.
+   **Cape Adare is NOT a food provider.** Read as fishing crews its 177,732-worker marine sector would land
+   13.7× the entire national sustainable catch. **It is a port, shipping and marine-science sector.**
+2. **⚠ CONCORDIA'S DIFFICULTY VALUE — flagged 2026-09-01, at the developer's direction. NOT yet corrected.**
+   **Concordia is set at `D = 1.67`; Vostok is `2.50`.** But Dome C is **3,233 m, −52.7 °C annual mean, and
+   1,100 km from the coast** — as remote and high as any inhabited site in the country.
+   **⭐ The offsetting factor is real and must be weighed, not dismissed:** `Specs/Concordia.md` records Dome C
+   as unusually **calm** *(3–5 m/s — "dome sites are calmer than slope or coastal stations")*, so the WEATHER
+   component of D genuinely is low even where altitude, logistics and site access are extreme.
+   **⚠ Consequence if corrected to 2.50: Concordia's own food burden moves from 13.0% to 19.4% of its
+   workforce** — which materially changes how precarious the primary game setting is. **See
+   `13_National_Balance_Under_the_Ruling.md` §8.**
+3. **Sourced rates for C6/C7/C8/D4** — still estimated, not sourced.
+4. **⚠ `02_Cross_City_Industry_Differentiation_Table.md` is STILL EMPTY**, and `CLAUDE.md` requires a city's
+   column be filled **in the same commit** that completes a category for it.
