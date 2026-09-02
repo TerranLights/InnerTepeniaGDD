@@ -433,6 +433,36 @@ probably nobody has an opinion)*:
 robots have religions, arts, drinking culture, counselors and clothing · robot/human love is a stated project
 north-star. **Nothing in that set forbids either population from any trade; it simply has never been asked.**
 
+### ⭐ PARTIAL ANSWER — 2026-09-01. Not an exclusion. A PREFERENCE GRADIENT.
+
+**The first real answer to this question arrived sideways, while setting robot maintenance rates.**
+`[CGRM 2026-09-01 · Path 6 · developer ruling]`
+
+> *"A robot seeking their equivalent of 'medical attention' will probably (though perhaps not always, not
+> invariably) want to be treated by another robot, simply due to their own familiarity with robot physiology.
+> …a human will probably also want to be treated by a robot, though for different reasons, being: the
+> knowledge that a robot is able to reach a much finer degree of exacting precision than a human (with human
+> hands)."*
+
+**⭐ Both populations prefer robot practitioners — for different reasons.** Robots for **familiarity**
+*(shared physiology)*; humans for **precision** *(finer motor capability than human hands)*.
+
+> ## **So medicine in Tepenia skews robot, for everyone.** **Not a rule, not an exclusion — a gradient**,
+> and explicitly "not always, not invariably," which leaves room for individual variation and for cities that
+> do it differently.
+
+**Three consequences:**
+1. **Demand is unchanged; staffing is not.** The human healthcare sector (54 per 1,000 humans) would be
+   substantially robot-staffed. **This is the demand/supply split doing exactly what it was separated for.**
+2. **⭐ A reversal worth using: robots, whose leisure was once granted by loving humans on Upper Earth, are now
+   the ones providing the care humans depend on.** *(See `Robot_Biology_and_Culture/
+   Robot_Physiology_and_Cultural_Practices.md` §Downtime, Recharging and Leisure.)*
+3. **It also fixed the maintenance rate.** Robot precision is why B3 sits at 1-per-80 rather than nearer the
+   human 1-per-18.5 — **high-touch care delivered by high-efficiency practitioners.**
+
+**Still open:** everything else on this question — obstetrics, childcare, mortuary work, and whether any city
+diverges. **The gradient is established for medicine only.**
+
 ---
 
 ### 5e — What 43 years of dormancy did to the place

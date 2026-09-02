@@ -375,6 +375,74 @@ design, NPC population and faction sizing, which percentages cannot.
 
 ---
 
+# 9 — ⭐ THE ROBOT-KEYED RATES — SET 2026-09-01
+
+**Developer rulings. The deferred sector is no longer deferred** *(the duty-cycle question turned out to be
+a misreading of the workforce formula, not a missing input — see `09` §5)*.
+
+## 9.1 The method: composite parallels, not a single analogue
+
+> **Developer instruction:** *"think of it as a combination of multiple human parallels… examine both garage
+> work (as well as computer hardware maintenance) **and** medicine. See how the volumes, staffing, and costs
+> of everything intersect."*
+
+**This dissolves the SOC problem.** Robot maintenance is unclassifiable because it falls between machine
+repair and healthcare — **so size it against both and let the parallels bracket it.**
+
+| Parallel | Employment | **Ratio** |
+|---|--:|--:|
+| **Human medicine** *(the person end)* | 54 per 1,000 | **1 per 18.5** |
+| Automotive service | 825,800 techs | **1 per ~351 vehicles** |
+| Computer user support | 689,700 specialists | ~1 per ~400 |
+| Biomedical equipment techs | 2.5–2.6 FTE per 100 hospital beds | **1 per ~1,000–1,200 devices** |
+
+## 9.2 ✅ **B3 ROBOT MAINTENANCE & CARE = 12.5 per 1,000 robots (1 per 80)**
+
+> **⭐ Independent validation: √(18.5 × 351) = 80.6.** The developer proposed 1-per-65-to-85 on instinct;
+> **the geometric mean of the two bracketing parallels falls dead center of that range.**
+
+**The reasoning that sets it, and it resolves an apparent contradiction.** Care sits at the **human end** —
+*"when in the hands and under the care of a trained, qualified professional, it would essentially be
+equivalent to a human going into the hospital for surgery."* **But the staffing ratio sits lower**, because:
+
+> **⭐ Robot medicine is HIGH-TOUCH but HIGH-EFFICIENCY.** *"A robot is able to reach a much finer degree of
+> exacting precision than a human (with human hands)."* **Intensity of care and staffing ratio move in
+> opposite directions, and precision wins.**
+
+**Cross-check:** 12.5 is **23% of the human healthcare rate.** Strip obstetrics, paediatrics, geriatrics and
+infectious disease — roughly half — then apply the precision factor, and you land at ~13. **Consistent from a
+second direction.** *(Canon's "damage to function is never threatening" also argues against parity.)*
+
+## 9.3 ✅ **B4 ROBOT SUSTENANCE (siligel + coolant) = 3.25 per 1,000 robots**
+
+**The parallel is NOT agriculture.** Siligel and coolant are **manufactured, not grown:**
+
+| | per 1,000 |
+|---|--:|
+| Food **production** (growing) — our B1 | **53** |
+| Food manufacturing | 5 |
+| **B4 — set here** | **3.25** |
+| Chemical manufacturing | 2.5 |
+
+**Placed between the two manufacturing figures, leaning chemical.** *(Distribution is not missing — robot
+consumables are already carried by D3 retail.)*
+
+> ## ⭐⭐ **Feeding a human: 1 worker per 19. Feeding a robot: 1 worker per 308.**
+> **Sustaining a robot costs about one-sixteenth what sustaining a human costs** — agriculture versus a
+> production line. **In a 51%-robot nation this is very plausibly part of why 32 million people are viable on
+> this continent at all.**
+
+## 9.4 C5-robot decommissioning — **NOT a standing industry**
+
+**Robot death is a hazard EVENT, not a hazard function** — no senescence, no background rate. **You cannot
+sustain a profession on demand that vanishes for months and then arrives all at once.** Canon already assigns
+it to **religion and community** *(Polydimensional Animism's Robot Death Doctrine; ossuaries)*. **No rate is
+set, deliberately.**
+
+**Robot-keyed total: 15.75 per 1,000 robots.**
+
+---
+
 # 8 — ⭐ THE ADMINISTRATION RATE, SOURCED — 2026-09-01
 
 **The problem:** every earlier source *(OECD Nordics 25–30% · Nunavut 60% · Svalbard ~50%)* measures

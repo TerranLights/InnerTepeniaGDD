@@ -181,6 +181,54 @@ roughly, approximately half to three-fourths of the country are able to work in 
 
 ---
 
+---
+
+# ⭐ 3.6 — COMPLETE RUN: robot industries added, 2026-09-01
+
+**The §2 table covered 19 of 22 industries. The robot-keyed rates are now set** *(`08` §9)* — **B3
+maintenance 12.5 and B4 sustenance 3.25 per 1,000 robots = 15.75 total.** *(C5-robot decommissioning is
+deliberately not a standing industry.)*
+
+**`Complete = §2 figure + (Robots × 15.75/1,000)`**
+
+| City | §2 *(19 ind.)* | **COMPLETE** *(21 ind.)* | Δ |
+|---|--:|--:|--:|
+| **Neumayer** | 50.4% | **51.4%** | +1.0 |
+| **Halley** | 50.3% | **51.3%** | +1.0 |
+| **Denison** | 44.4% | **45.5%** | +1.1 |
+| **Vostok** | 41.5% | **42.8%** | **+1.3** |
+| **Concordia** | 40.8% | **41.8%** | +1.0 |
+| **Byrd · Dumont d'Urville** | 40.7 · 40.6% | **41.7%** | +1.0 |
+| **{{Abowasa}}** | 38.7% | **39.7%** | +1.0 |
+| **Sanay · Troll** | 38.0% | **39.1 · 39.0%** | +1.1 |
+| **Belgrano** | 37.9% | **38.9%** | +1.0 |
+| **Princess Elisabeth** | 37.4% | **38.5%** | +1.1 |
+| *the coastal cluster* | 35.2–35.8% | **36.3–36.9%** | +1.1 |
+| **Esperanza** | 34.6% | **35.6%** | +1.0 |
+| **Sejong · Juan Carlos** | 34.3% | **35.4 · 35.3%** | +1.1 |
+| **Palmer City · Rothera** | 34.1 · 34.0% | **35.2 · 35.1%** | +1.1 |
+| **Casey** | 33.8% | **34.9%** | +1.1 |
+| **Kunlun** | 28.6% | **30.2%** | **+1.6** |
+| **Dome Fuji** | 27.3% | **28.9%** | **+1.6** |
+
+**New range: 28.9% → 51.4%.**
+
+## What the completion changes — and what it does not
+
+- **⭐ It CONTRACTS the spread slightly**, 23.1 → **22.5 points.** Robot industries load hardest onto
+  robot-heavy cities, **which were the ones at the bottom.** Kunlun and Dome Fuji gain most (+1.6); the
+  mixed cities gain ~1.0–1.1.
+- **No rank changes anywhere.** Every finding in §3 and §3.5 survives intact.
+- **The freedom margin narrows marginally: 48.6–71.1%** *(was 49.6–72.7%)*. **Still half to three-quarters.**
+- **⚠ Kunlun and Dome Fuji remain the cheapest cities in the country**, even now that their robot-only
+  populations are fully costed. **Having no humans is worth more than having the worst environment costs.**
+
+> **⭐ And the model is now COMPLETE.** 21 of 22 industries costed across all 38 cities, the 22nd
+> *(decommissioning)* deliberately unsized because canon makes it episodic rather than continuous. **There is
+> no longer a deferred sector.**
+
+---
+
 # 4. ⚠ What would move these numbers
 
 | Input | Status | Effect if wrong |

@@ -21,7 +21,7 @@ would be confident and meaningless.
 1. `McMurdo Station ratio support staff to scientists percentage personnel breakdown`
 2. `Longyearbyen Svalbard employment by sector statistics percentage`
 3. `Norilsk employment by sector percentage workforce industry composition city`
-4. `Iqaluit Nunavut employment by industry sector percentage labour force`
+4. `Iqaluit Nunavut employment by industry sector percentage labor force`
 5. (WebFetch) `https://www.ssb.no/en/virksomheter-foretak-og-regnskap/virksomheter-og-foretak/artikler/svalbard-population-economy-and-living-conditions` — prompt: all employment-by-industry percentages, and differences from mainland Norway.
 6. (WebFetch) `https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/immigration-matters/local-economies/iqaluit.html` — **FAILED, HTTP 403 Forbidden.** Not retried this session. **Open thread:** Nunavut Bureau of Statistics or Statistics Canada would give per-sector Iqaluit figures directly; the territorial-level number was used instead.
 

@@ -62,6 +62,83 @@ utilities absent from **36 of 36 cities.**
 
 ---
 
+---
+
+# ⭐ WHAT THIS UNLOCKS — five things that were impossible before and are now straightforward
+
+**Recorded 2026-09-01 at the developer's request, on completion of the model.**
+
+## 1. ⭐ The producer pass — the developer's own deferred item, now computable
+
+> *"We'll go through the producing contributor cities and see how much of other cities' outsourceable
+> industries those producer cities are able to reasonably, realistically manage, **without putting an
+> unreasonable strain upon their own local populations**."*
+
+**"Unreasonable strain" now has a number.** Spare capacity = workforce × (1 − BaselineLoad):
+
+| Provider | Baseline | **Free for export work** |
+|---|--:|--:|
+| Esperanza | 35.6% | **64.4%** of 1,400,619 |
+| Davis | 36.4% | **63.6%** of 876,515 |
+| Sinheung | 36.3% | **63.7%** of 809,755 |
+| Signy | 36.7% | **63.3%** of 142,127 |
+| Sanay | 39.1% | **60.9%** of 347,881 |
+
+**⭐ And the method that makes it work:** compare a city's §15 sector share against **the model's baseline
+requirement for that same industry.** The excess is export capacity. *(Started — see §"First results" below.)*
+
+## 2. ⭐ Every city now has a CHARACTER BUDGET
+
+**Distinctive tier = `100 − BaselineLoad`** — the room available for provider work, LAW G weird industries,
+and Local Texture.
+
+> **Casey has 65% to spend on being itself. Neumayer has 49%.**
+
+**A known, per-city budget for character — which the culture work has never had.**
+
+## 3. Absolute headcounts unlock the downstream work
+
+*"Vostok has ~3,240 healthcare workers"* is usable where a percentage never was: **faction and guild sizing,
+institution scale, NPC populations, and level design** — what buildings exist in a city and who is inside
+them. *(The requirement-first trial's author identified this as the architecture's real advantage; it is now
+realized.)*
+
+## 4. Two standing chores became cheap
+
+- **The Cape Adare contradiction** *(`04` §3 and §4 disagree on whether it is a provider)* — now decidable:
+  its marine sector either exceeds its own need or it does not.
+- **The Belgrano/Sanay Weddell food split** — apportion by their respective spare capacities rather than
+  guessing.
+
+## 5. ⭐⭐ The Governing Priority Sequence's Stage 4 is unblocked
+
+Stage 4 — *"populate the city specs with real, lived-in cultures, human and robot both"* — was **deliberately
+sequenced last**, because *"writing culture before the gaps are filled would mean building on an incomplete
+foundation, exactly what the Canon Gap Resolution Method exists to prevent."*
+
+> **The foundation is filled.** Every city now has a sized economy, a known character budget, a freedom
+> margin, and — for the robot half — a leisure history that gives all of it meaning.
+
+---
+
+# First results from the producer pass — 2026-09-01
+
+- **Davis exports 269,442 food producers** *(306,780 total, minus its own 37,338 need)* — enough to feed
+  **~5.1 million, roughly a third of Tepenia, from one city.** The breadbasket title is earned; it is simply
+  not the whole supply.
+- **⭐ Esperanza's education sector is twelve times its own need** *(350,155 vs 29,615)*. **Children cannot
+  commute, so this cannot be primary schooling for other cities — it must be tertiary.** **The model
+  independently explains why the Esperanza Institute of Medicine is at Esperanza:** it found a city with
+  twelve times more teaching capacity than pupils and no way to export a classroom. **Shirayuki is a second
+  such city** *(education 20% against a 2.0% need)*.
+- **⛔ The Halley subnet is the tightest margin in the country.** 4,907,714 humans need **258,301** food
+  producers; Belgrano and Sanay have **248,266** free *after* their existing aviation and port roles.
+  **96% self-sufficient, short by ~4%.** **The most food-precarious region in Tepenia is the one holding 31%
+  of its people.** ⚠ **The missing 4% turns on whether Lazar's, Troll's and Princess Elisabeth's 15% marine
+  sectors are genuine dockside work or indirect** — Halley's is explicitly indirect and Lazar is inland.
+
+---
+
 # Integration task — scheduled, not started
 
 **Folding these figures into `Specs/` and `Local_Cultures/` requires, per city:**

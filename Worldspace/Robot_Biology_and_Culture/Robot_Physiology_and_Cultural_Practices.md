@@ -146,7 +146,7 @@ remaining sane.**
 
 > ### ⚠ Which makes overwork a HAZARD WITH A MECHANISM, not merely a hardship.
 > **This sits very close to the "faulty semantic signal" model of robot illness** *(see "What Counts as
-> Death")*. **If sustained overwork can corrupt a gel brain, then labour conditions are a medical question**,
+> Death")*. **If sustained overwork can corrupt a gel brain, then labor conditions are a medical question**,
 > and the Sinheung Institute's semantic-care half acquires an occupational-health dimension. **Flagged as a
 > connection, not yet ruled.**
 

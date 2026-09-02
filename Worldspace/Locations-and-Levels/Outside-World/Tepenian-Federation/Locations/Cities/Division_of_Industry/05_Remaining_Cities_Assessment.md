@@ -52,6 +52,56 @@ the Halley subnet's two coastal receiving points")* · **Sanay** *(port/shipyard
 gateway)* · possibly **Neumayer** or **Troll** on the Queen Maud coast. **A coalition designation may fit
 better than a single city — the same shape the Scotia Sea question has.**
 
+## ⭐⭐ RESOLVED 2026-09-01 — the subnet feeds itself by COMMUTING, not by two cities carrying eight
+
+**The producer pass found the real problem, and it was not a shortfall.** Belgrano and Sanay *could* feed the
+subnet — **but only by spending literally everything:**
+
+| | Spare capacity | Existing export role | **Left after food** |
+|---|--:|--:|--:|
+| Belgrano | 492,422 | aviation 282,075 | **≈ 0** |
+| Sanay | 211,860 | port + trucking 173,941 | **≈ 0** |
+
+> **No arts, no hospitality, no weird industries, no local texture. Their entire character budget consumed by
+> baseline, logistics and fish.** **That was the "unreasonable strain" — not a deficit, but two cities left
+> with nothing to *be*.**
+
+### ✅ The developer's fix: commuter labor on the maritime food lines
+
+> *"When residents of {{Abowasa}} and Halley 'commute to/from work'… at least some of them, where they're
+> going is: **Halley ↔ Belgrano** and **{{Abowasa}} ↔ Sanay** — and to a fair extent, at least a modest
+> percentage of them are working the maritime food lines."*
+
+**⭐ The pairings work geographically and on existing highway.** Halley ↔ Belgrano ≈ **330 km**;
+{{Abowasa}} ↔ Sanay ≈ **395 km** — both on **Hwy 7**, both squarely in **rotational-residence range** rather
+than daily-commute range, matching the {{Abowasa}} pattern already established in `01` §5.1.
+
+**And a modest flow closes the gap several times over:**
+
+| Assumption | Producers added | vs. the 10,035 deficit |
+|---|--:|--:|
+| **5%** of Halley + {{Abowasa}} workforce commuting, **20%** of them on food lines | **18,796** | **1.9×** |
+| **10%** commuting, **30%** on food lines | **56,388** | **5.6×** |
+
+### ⭐ Why this is structurally better than importing from Mawson
+
+1. **It is local** — no 2,000 km haul, and it does not depend on Mawson's East Antarctic krill figures, which
+   are **the shakiest numbers in the food table** *(the literature says East Antarctic krill habitat is
+   "less well-documented")*.
+2. **⭐ It preserves Belgrano's and Sanay's character budgets**, because the food work is done by *imported
+   labor.* Their own spare capacity stays free. **That is the actual fix.**
+3. **It gives Halley and {{Abowasa}} an economic role beyond being residential** — and makes labor
+   externalization a **national pattern** rather than one city's quirk.
+4. **⭐ It changes what "provider city" means.** Belgrano and Sanay are not providers because their own people
+   fish. **They are the PORTS where a regional labor pool works.** The subnet feeds itself *collectively.*
+
+**⚠ Consequences to carry into the city files:** Halley and {{Abowasa}} both need **labor-externalization
+lines** in their §15s *(and {{Abowasa}}'s destination is now known: Sanay)*. **And Halley — canon's "city that
+moves" — becomes a city whose people rotate out as well.** That is a great deal of motion for one place, and
+worth using.
+
+---
+
 ## ✅ RULED 2026-09-01 — Belgrano and Sanay SHARE the Weddell food production
 
 > `[CGRM 2026-09-01 · Path 6 · developer ruling]`
