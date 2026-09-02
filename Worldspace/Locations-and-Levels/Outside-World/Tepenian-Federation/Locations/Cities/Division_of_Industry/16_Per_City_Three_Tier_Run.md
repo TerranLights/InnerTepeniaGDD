@@ -1305,6 +1305,98 @@ established in the 2026-07-06 vision session)*.
 
 ---
 
+## 11. ✅ ESPERANZA — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.11, **GROWER** — mainland Peninsula, food term 100%)* | 555,826 | **39.7%** |
+| **Mandated** | 359,037 | **25.6%** |
+| **FREE — the character budget** | 485,756 | **34.7%** |
+
+**Distinctive tier: 844,793 (60.3%).** Canon §15: Education/childcare/family ~25% · Maritime/harbor trade
+~20% · Commercial ~15% · Technical/scientific ~15% · Agricultural/food production ~15% ·
+Other/administrative ~10%.
+
+**⭐ Esperanza carries THREE national roles** — `04` §3 lists it **FOOD · EDUC · MEDICINE**.
+
+### The mandate *(developer ruling, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **12.5%** | 105,599 | **Education/childcare/family — HALF** | The Esperanza Institute of Medicine **+ standard schooling**, per the ruling below |
+| **15%** | 126,719 | **Agricultural/food production — FULL** | ✅ `04` §3 national FOOD provider |
+| **10%** | 84,479 | **Maritime/harbor trade — HALF** | Hwy 1's northern terminus + Halley↔Palmer trans-shipment |
+| **5%** | 42,240 | **Other/administrative — HALF (the birth registry)** | ✅ Developer ruling: **national by this era** — see below |
+| **42.5%** | **359,037** | | |
+
+### ⭐ The education correction — this file's own Half B flag was right
+
+**`16` counted education 25% as FULLY mandated and flagged its own double-count risk.**
+**`National_Medical_and_Care_Institutes.md` had already settled the sizing, in the opposite direction:**
+
+> *"Esperanza at ~12,600 graduates a year on ~3-year programs carries a standing student body of ~37,800 —
+> about 2% of a 1.88 M city… **The Institute is one part of a much broader education economy** (local
+> schooling, childcare, family services, general tertiary export), **not the whole of it.**"*
+
+**At a 1:12 ratio the Institute is ~3,150 teaching staff — 1.5% of its own host sector.** The national
+medical school is a rounding error inside the sector named after it. **Baseline separately already holds
+24,839 schooling + 4,777 childcare workers** for Esperanza's own humans.
+
+**Developer ruled HALF rather than the analyst's proposed one-third — and the reasoning changes what the
+mandate MEANS:**
+
+> ***"Instead of plus-one-third education, it's plus-half education (since it would account for both standard
+> schooling as well as the Institute)."***
+
+> ### **⭐⭐ So standard schooling at Esperanza is NATIONAL work, not local work.**
+> **That follows directly from the founding charter** — the city was built *"to care for the children of
+> humans who chose exile alongside robots."* **It does not merely educate its own; educating is what the
+> city is FOR.** The mandate is therefore not "a medical school plus some local schools" — **it is the
+> nation's child-rearing compact, of which the Institute is the smallest visible part.**
+
+### ⭐⭐ NEW CANON — the birth registry's local→national transition
+
+> **Developer, 2026-09-02** `[CGRM 2026-09-02 · Path 6]`:
+> ***"During the early period of the country, the birth registry starts out as local (since the peninsula is
+> where Tepenia starts out when it was originally founded, following the Falkland Treaty) and then, as the
+> country grows and expands, the birth registry proceeds to become national (since now, the statistics are
+> nationally relevant)."***
+
+**Two facts established, only one of which is about Esperanza:**
+
+1. **⭐ THE PENINSULA IS WHERE TEPENIA BEGAN**, post-Falkland Treaty. *(Bears on the founding sequence far
+   beyond this city — and note the national capital, **Fort McMurdo**, is in the **Janbogo** subnet, so the
+   seat of government is NOT where the country started.)*
+2. **Esperanza's birth registry began as a local civic record and became a national institution** as the
+   country expanded around it — *"the statistics are nationally relevant."*
+
+**Applied to scope:** the Second Interwar is the **mature functioning country**, so **the registry is
+NATIONAL here** and its labor is mandated. **Half of the sector**, since §15 names two things — *"birth
+registry **and related civic institutions**"* — one national, one local. *(The Princess Elisabeth split
+pattern.)*
+
+> **⚠ This also resolves the ABCC tension cleanly.** Per the ABCC ruling, **local** administration lives in
+> **baseline** — so the *"related civic institutions"* half correctly stays out of the mandate, while the
+> **national** registry is exactly the "national administrative concentration handled as a mandate" case the
+> structural finding described. **Esperanza is the first city where that distinction is actually applied.**
+
+### Notes
+
+- **Agricultural 15% stays FULL despite the botany finding.** `13`'s 2026-09-02 research found **Hope Bay has
+  the LOWEST moss/lichen diversity of the maritime Antarctic sites studied** — below the South Shetlands —
+  and the Peninsula's best growing ground is at Juan Carlos and Sejong instead. **This does not remove the
+  role; it changes its nature.** ***Esperanza feeds the Peninsula from ground it does not sit on***, making
+  the sector handling and distribution rather than cultivation. *(`13`'s own phrase: "mild, cramped, and
+  surrounded by better ground it doesn't sit on" — the Sanay/Port-of-Sanay split in a different key.)*
+- **Maritime half** — Hope Bay is **Hwy 1's own northern terminus**, *"the only land route connecting the
+  Antarctic Peninsula to the rest of Tepenia,"* and a Halley↔Palmer trans-shipment node. The other half is
+  ordinary harbor commerce.
+- **Commercial 15% and Technical/scientific 15% stay FREE.**
+- **Population note:** Census I *(955,337 H / 922,950 R / 1,878,287)* is used, per Second-Interwar scope.
+  Census II shows 1,178,039 — **reduced to 85% by organic emigration to Lazar**, a later-period fact.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -1321,3 +1413,4 @@ established in the 2026-07-06 vision session)*.
 | 8 | **Sejong — canon bug, deferred** | **The Hangul-literacy / Korean-dilution premise: the 2026-08-02 fix was incomplete, 3 files still stale, 17 more unaudited** | ⏸️ **Deferred by developer 2026-09-02 until per-city DoI is finished** — *"that's really more relevant to the per-city culture than anything else."* **Not a DoI input; Sejong's determination was built without touching the education sector where the stale material attaches.** Full detail and the 3 file paths now recorded in `TODO.md`'s existing Sejong section — **⚠ read for the premise, do not grep-and-delete "Hangul," which is still valid canon** |
 | 9 | **⭐ Fort McMurdo — THE CAPITAL** | **Its §15 records zero governmental employment; its 35.1% mandate is entirely industrial** | **The seat of national government is modeled as a mining town that happens to be the capital.** Per the structural finding above, national administrative concentration must be a **mandate**, not a §15 sector — so Fort McMurdo needs one. **Resolve at its own entry, not before** |
 | 10 | **Juan Carlos** | **When did the federal archive relocate to Amundsen Station?** | Canon says it moved *"later,"* and that the strike came *"even after the bulk archive had moved"* — **but the Second Interwar runs 248 years and no date is given.** Whether the 10% archive mandate describes the whole period or only its earlier stretch |
+| 11 | **⚠⚠ METHOD — ALL CITIES** | **The DoI files disagree on what §15 percentages are a percentage OF** | **`16` applies them to the DISTINCTIVE tier; `04` and `National_Medical_and_Care_Institutes.md` apply them to the WHOLE WORKFORCE.** Esperanza education 25%: **211,198 vs 350,155** — 139,000 workers apart. `04` does it too *(Signy "fishing 30% → 42,638" is 30% of whole workforce)*. **NOT resolved mid-pass by deliberate choice** — re-picking the denominator now would invalidate every determination **and** the national balance. **Resolve together with the ABCC re-run; both are mechanical re-runs of the same table.** All determinations continue on `16`'s convention so they stay mutually consistent |
