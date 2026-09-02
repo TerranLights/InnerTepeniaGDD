@@ -1190,6 +1190,87 @@ the vocabulary those breakdowns were written in has no word for them.**
 
 ---
 
+# ⭐⭐⭐ ESTABLISHED — THE **ABCC** SECTOR
+
+> ## **Administrative, Bureaucratic, Civic, Clerical** — abbreviated **ABCC** in notes.
+> **`[CGRM 2026-09-02 · Path 6 · developer ruling]`** — established directly in response to the structural
+> finding above.
+
+**A new sector in the national §15 vocabulary — the first added since the breakdowns were written.** It gives
+national administrative work a **named home** instead of leaving it to be inferred into whichever bare sector
+happened to sit nearby.
+
+### What it immediately fixes
+
+**Every mandate assigned to administrative work so far has been placed by INFERENCE**, because there was no
+sector to put it in:
+
+| City | What was done before ABCC | With ABCC |
+|---|---|---|
+| **Juan Carlos** | *"Half of Commercial/trade — sector inferred"* | **ABCC**, named |
+| **Sejong** | Border Authority folded into Commercial/trade 25% | **ABCC** *(⚠ but see below — a ruling already stands here)* |
+| **Esperanza** | Already carries *"Other / **administrative** (birth registry and related civic institutions): ~10%"* | **⭐ The retroactive FIRST INSTANCE — an ABCC line that existed before the sector had a name** |
+| **Fort McMurdo** | **Nothing. The capital records zero governmental employment** | **ABCC — register item 9** |
+| **Amundsen Station** | Holds the consolidated federal archive; §15 has no line for it | **ABCC candidate** |
+
+**⚠ Sanay is NOT an ABCC case.** Its missing §15 line is the **Arcanet relay nexus** — physical
+infrastructure, not administration. **Register item 2 stays open on its own terms.**
+
+**⚠ Sejong already has a standing developer ruling (A, 25%, commercial/trade only).** ABCC does not
+automatically reopen it — **flagged, not changed.**
+
+### ⭐⭐ RULED — ABCC IS A **BASELINE** COMPONENT, AND IT **VARIES BY CITY**
+
+> **Developer, 2026-09-02:** ***"The ABCC sector would be part of 'baseline'… Now, exactly, precisely how
+> much of baseline, that would depend on the context of the location, but I think you're right to include it
+> in baseline."*** **`[CGRM 2026-09-02 · Path 6]`**
+
+**So ABCC is not a §15 sector after all — it is the renaming and RE-SIZING of the baseline's largest
+component,** `09` §1's **C3 Administration, 65 per 1,000 residents.**
+
+### ⭐ Why this is the better answer — it dissolves the flattening problem instead of trading against it
+
+`09` §1's own warning was: ***"More administration makes Tepenian cities look more alike."*** **That was
+never true of administration as such. It was true of administration held FLAT.**
+
+| | Difficulty-immune? | Uniform across cities? | Flattens? |
+|---|---|---|---|
+| **C3 as it stands — flat 65/1,000** | Yes | **Yes** | **✅ Yes** |
+| **ABCC — variable by city context** | Yes | **NO** | **❌ No** |
+
+**A difficulty-immune component only compresses differentiation if it is the same everywhere.** Making it
+context-dependent means **the capital, a subnet hub and a fishing island now differ in their baselines for a
+reason that is about governance rather than about weather** — a second, independent axis of differentiation
+that the model did not previously have. **`09`'s warning is not overridden here; it is satisfied.**
+
+### What ABCC covers — narrow reading taken, pending any expansion
+
+**ABCC is taken as C3 Administration (65) renamed and made variable.** The adjacent immune components are
+**left alone** unless the developer says otherwise, since each has its own separate derivation in `09` §1:
+
+| Component | Rate | Status |
+|---|--:|---|
+| **C3 Administration** | **65** | **→ becomes ABCC, variable** |
+| C8 Finance & allocation | 15 | Unchanged *(own derivation: people, not prices, allocate here)* |
+| D4 Computing & data | 8 | Unchanged |
+| C6 Legal & justice | 5 | Unchanged |
+| C7 Community & social | 4 | Unchanged |
+| *(retail, trade training, communications)* | 16.2 | Unchanged |
+
+**⚠ "Clerical" and "Bureaucratic" plausibly reach into C8 and D4.** **Not assumed — flagged for the
+developer.** Expanding ABCC to absorb them would raise the variable pool from 65 to 88 per 1,000.
+
+### ⚠ CONSEQUENCE — the ten determinations so far need a baseline re-run
+
+**Every city determined before this ruling used the flat 65.** When per-city ABCC values are set, their
+**baselines move, and therefore their distinctive tiers and worker counts move with them.**
+
+> **The re-run is MECHANICAL, not a re-judgment.** Mandates were ruled as **percentages of the distinctive
+> tier**, and those percentages do not change — only the worker counts they resolve to. **No developer ruling
+> already given is invalidated by this.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
