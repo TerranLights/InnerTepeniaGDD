@@ -803,6 +803,101 @@ time the extraction half has been the more natural read.**
 
 ---
 
+## 7. ✅ PRINCESS ELISABETH — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100% — ⚠ see collision below)* | 375,938 | **43.7%** |
+| **Mandated** | 121,274 | **14.1%** |
+| **FREE — the character budget** | 363,821 | **42.3%** |
+
+**Distinctive tier: 485,095 (56.3%).** Canon §15: Technical/scientific 25% · Industrial/manufacturing 20% ·
+Commercial 20% · Marine/resource extraction 15% · Education 12% · Other 8%.
+
+### ⭐⭐ The first city whose export is ASSERTED, not derived
+
+**Specs, verbatim:** *"The zero-emissions design gave Princess Elisabeth genuine expertise in Antarctic
+energy systems **that other cities traded for**."* Corroborated by §25 Export Culture: *"Princess
+Elisabeth-trained specialists are recognized for genuine skill in sustainable Antarctic infrastructure."*
+
+**Every other mandate in this pass has been derived from sector labels and geography. This one is stated
+outright in ✅ CANON.** And it passes the mandate test cleanly — power in Antarctica is not a convenience,
+and if PE holds the national competence in it, the nation suffers materially without it. ***"Traded for"
+describes the delivery mechanism, not optionality*** — Sanay's port presumably charges too.
+
+### The mandate
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **25%** | 121,274 | **Technical/scientific — renewable energy systems and zero-emissions design expertise, in full** | ✅ Canon Specs + §25. **Developer ruling, 2026-09-02** |
+
+### ⭐ Why FULL 25%, over the analyst recommendation of half
+
+**The analyst recommended B (half, 12.5%)**, reading the sector annotation as naming two things — *"renewable
+energy systems"* (PE runs on them; somebody operates them → local) and *"zero-emissions design expertise"*
+(what other cities traded for → national).
+
+**Developer ruled A (full 25%), on downstream-design grounds:**
+
+> *"Once the events of the Halley DLC begin, there is a theoretical possibility that maybe, there might be
+> some usable application (in either side-content or possibly hypothetically main content) in finding lost
+> research records and using it to benefit people somehow. This is not confirmed. It's just a possibility
+> that I think is worth considering."*
+
+**⚠ Recorded honestly: this is the first mandate in the pass sized by downstream design potential rather
+than by reading the sector.** Everywhere else the three-tier split has been purely descriptive — measuring
+what canon already says. Here it is being used **generatively**, to leave room for content that does not
+exist yet. **That is a legitimate call and it is the developer's to make, but it is a different kind of move
+and should not be mistaken later for a derivation.**
+
+**What the ruling concretely buys** — and this is the substantive gain:
+
+> **PE is DESTROYED. The ruins therefore contain the physical remains of a 121,274-worker energy-research
+> establishment**, not a vague sense that "research happened here." **That is a level-design quantity:** how
+> many facilities, how much surviving documentation, how deep the archive plausibly runs, how many separate
+> sites could hold recoverable records. **Halving it would have halved the ruin.**
+
+### Three sectors that look mandated and are not
+
+**Commercial 20% — the inter-subnet road link.** PE sits on **Hwy 7-ext between Lazar and the Sayowa
+Junction — the only road connection between the Halley and Mawson subnets.** But canon frames the sector as
+*"trade **leveraging** the city's dual eastern/Atlantic connections"* — **the city profiting from its
+position, not conscripted by it. The mandate test asks what the nation needs FROM you, not what you gain
+FROM WHERE YOU SIT.** Unlike Troll, no canon states national freight moves through PE. **FREE.**
+
+**Industrial 20% — *"infrastructure maintenance and repair."*** PE has **zero passive wind shelter**, faces
+gales to 300 km/h, and *"survives only through active aerodynamic engineering."* **This is the least
+discretionary work in the city and it is still not national work** — a city that cannot stop maintaining or
+it dies is performing local survival, not provider service. **FREE**, though the word sits oddly here.
+
+**Marine/resource extraction 15%** — same compound, unannotated label found at Troll, same inland position
+*(Utsteinen nunatak, 1,382 m, Sør Rondane Mountains)*. **Second instance of the pattern.** Free either way.
+
+### ⚠ CANON COLLISION — logged, not resolved
+
+**The vignette "What the Wind Can't Grow" states the city *"was never self-sufficient in food/materials, only
+energy."*** That directly contradicts PE's GROWER classification.
+
+**Vignettes are not canon, so f = 1.00 stands.** But the sensitivity is large enough to record:
+
+| | Baseline | Distinctive |
+|---|--:|--:|
+| **f = 1.00 (grower — current)** | 375,938 · **43.7%** | 485,095 · **56.3%** |
+| **f = 0.10 (if the vignette were promoted)** | 289,915 · **33.7%** | 571,118 · **66.3%** |
+
+**A possible reconciliation, offered but NOT asserted:** PE's **outdoor tier is genuinely zero** — 300 km/h
+winds preclude terraformed fields entirely, and `12`'s 1,500 km² belt does not include it. The vignette may
+be describing that, not indoor growing, which bedrock founding permits at will.
+
+### Notes
+
+- **No airport** — highway-only *(Airports.md L25)*. PE is not an air node.
+- Retires the earlier note in this file's Half A that *"PE could be 15–20% — consulting is lighter than
+  industry."* **That was reasoning by analogy against other cities; reading PE's own sector labels is better
+  evidence, and the developer's ruling supersedes both.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -812,3 +907,5 @@ time the extraction half has been the more natural read.**
 | 1 | **{{Abowasa}}** | Commuter-labor mandate held at 10% of distinctive *(5.4% of workforce)* | Whether a city with **no food debt** should carry a commuter export at all — and what cutting it does to the Halley subnet's supply picture and the national balance |
 | 2 | **Sanay** | **Its §15 has no Arcanet sector, yet canon says it hosts the subnet's Arcanet relay nexus** | Whether the nexus staff sit inside Technical/scientific 10% *(currently left FREE)*, or whether Sanay's §15 needs an Arcanet line added. Compare Mirny's explicit `Communications/Arcanet ~20%` |
 | 3 | **Troll** | **Set to Option A — logistics 30% only. Mandate 16.7%, free 38.9%** | Rerun as **Option B (+ half of Industrial/manufacturing = 37.5% of distinctive → mandate 20.8%, free 34.7%)** and see what it does to the national numbers. **A was chosen because Troll's §15 says only "Industrial / manufacturing," unannotated** — unlike Sanay's, which literally reads `Industrial/manufacturing (repair)`. Taking half would assume a sector's content to match precedent rather than read it. **The case for B:** air freight is maintenance-hungry and a 3,000 m blue-ice runway needs constant grooming — though that work more likely already sits inside the 30% canon calls *"airfield operations and control"* |
+| 4 | **Princess Elisabeth** | **A vignette says the city *"was never self-sufficient in food/materials, only energy"* — contradicting its GROWER classification** | Vignettes are not canon, so f=1.00 stands. But if ever promoted, baseline drops **43.7% → 33.7%** and distinctive rises to **66.3%** — a 10-point swing. Possible reconciliation *(not asserted)*: PE's **outdoor** tier is genuinely zero *(300 km/h winds)*, which the vignette may be describing rather than indoor growing |
+| 5 | **Method — inland "Marine / resource extraction"** | **Second instance** *(Troll, Princess Elisabeth)* of an unannotated compound marine label at a city far inland and high up | Whether the **extraction** half is the intended read at inland nunatak cities generally. Watch for further instances as the pass continues; if the pattern holds across subnets it is worth one consolidated ruling rather than per-city judgment |
