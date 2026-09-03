@@ -3150,6 +3150,83 @@ Basis.)*
 
 ---
 
+## 32. ✅ DOME FUJI — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=2.50 — **ICE-SHEET**, but **0 humans**, so the human-keyed term is zero and the food question is moot)* | 15,046 | **27.3%** |
+| **Mandated** | 8,005 | **14.5%** |
+| **FREE — the character budget** | 32,021 | **58.1%** |
+
+**Distinctive tier: 40,026 (72.7%).** Canon §15: Ice core science/archival research 40% · Religious
+practice/pilgrimage infrastructure 35% · Facility maintenance/altitude-legacy 20% · Other 5%.
+
+### The mandate *(developer ruling A, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **20%** *(half of 40%)* | 8,005 | **Ice core science / archival research — HALF** | The Kunlun precedent, ruled the same day |
+
+### ⭐ The standing estimate was right by the WRONG REASONING
+
+**Half B's ~14.5% rested on the analyst's own seed-archive proposal** *(`15` Resolution 3 — that −54 °C makes
+seed cold-storage free here)*. **The same audit had already flagged it as too high**, since *"a passive vault
+needs almost nobody,"* and suggested 10% instead. **It was an estimate resting on an estimate.**
+
+**The developer ruled the better basis at Kunlun earlier the same day:** half its ice core science mandated,
+because ***Tepenia is a nation that lives on and inside ice*** — Concordia on 3+ km of it, Halley moving
+across a shelf, Byrd founded inside it — **so the places holding the deep cores are where the ice sheet's own
+behavior gets read.** **Dome Fuji sits on Valkyrie Dome and holds exactly that kind of core.**
+
+> **The ruling lands on the SAME NUMBER the estimate already had — but grounded in canon and in a same-day
+> developer ruling rather than in a speculative vault.**
+
+### ⭐⭐ And HALF specifically honors a doubt canon raises about itself
+
+**§15's own annotation on this sector:** *"**TBD** — whether this remains genuinely central or has become **a
+secondary activity maintained out of institutional inertia** by a population that arrived for religious
+rather than scientific reasons is an open design question."*
+
+> ### **Canon does not know whether this work is real.**
+> **Half-mandating is the honest response: conscript the part that is genuine, leave the part that might be
+> inertia free.** ***Full mandating would assert something the source explicitly doubts.***
+
+**On the seed archive:** it needs no separate line. **§15 reads *"ice core science / ARCHIVAL RESEARCH,"* and
+a seed vault is an archive** — so it sits inside this same sector, and the ruling covers it either way.
+*(`15` Resolution 3 pairs Dome Fuji with Esperanza on seed storage; unaffected.)*
+
+### What stays FREE — both on the Kunlun precedent
+
+- **⭐ Religious practice / pilgrimage infrastructure 35%.** Dome Fuji is **one of Ice Cold Buddhism's two
+  primary sacred sites**, and its **entire 55,072 population IS the devotee body** — **nationally blended,
+  drawn from every Tepenian city**, with no curated heritage. **Devotional practice is character, not
+  conscription.** *(The same sector was left free at Kunlun; here it is more than twice the share, on
+  identical reasoning.)*
+- **Facility maintenance / altitude-legacy 20%** — *"the physical upkeep of a research station built for a
+  human population that may no longer be present."* **Local survival.**
+- **Other 5%.**
+
+### Notes
+
+- **⭐⭐ There is no human-robot relations category here at all.** **The entire city IS robot culture**, with
+  **Ice Cold Buddhism supplying the social and philosophical structure that national heritage provides
+  everywhere else.** ***58.1% free is a large character budget, and all of it belongs to a religion.***
+- **⭐ Founding parallel to Byrd:** the founding Japanese population **departed after the Falkland Treaty and
+  the site sat unoccupied**, later **relocated via old accounts, manifests and maps by Ice Cold Buddhism
+  pilgrims** — a rediscovery structure genuinely parallel to Byrd's own founding.
+- **Human presence is FORBIDDEN today** *(alongside Kunlun)* — **altitude and cold lethality, not anti-human
+  sentiment.** Devotees **wear white robes, sparsely, to commune with the cold** — which works *because robots
+  do not suffer frostbite or hypothermia.*
+- **⭐ Historical supply lifeline:** two **separate direct aviation routes** — from **Troll** *(Halley subnet)*
+  and a **Sinheung-area airstrip** *(via Mawson)* — **not a relay chain.** Two direct flights into a city with
+  **essentially no Arcanet connectivity**, which is an infrastructure baseline at extreme altitude, **not a
+  cultural choice.**
+- **⚠ Stale-canon flag, unresolved:** `Specs/Dome_Fuji.md` **previously said "no highway access,"** but
+  `Highways.md` L154, L159 confirm Dome Fuji as **a stop on the Hwy 37 main line** between the Sayowa Junction
+  and the Hwy 22 dual-junction. **Flagged in the City Master Reference; the Specs fix has not been made.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -3176,3 +3253,4 @@ Basis.)*
 | 18 | ~~**Fort McMurdo ↔ Scott**~~ **✅ RESOLVED 2026-09-02** | ~~Set to Option B~~ **→ adjusted to A: industrial 35% + FULL marine 25% = 60% of distinctive. Mandate 35.1%, free 23.4%** | **Resolved at Scott's own determination (§30).** ⚠ Geography needed care: *"across McMurdo Sound"* is **the mainland**, and Fort McMurdo is on the **same** side as Scott, 3 km away — **the trucking facility is not in Fort McMurdo.** What Fort McMurdo has is **the crossing** *(harbor logistics, sea-ice road)*, which Scott's material must use. **Canon never states whose facility it is; presented as inference and accepted by the developer** |
 | 19 | **⏸️ Denison — geography, DEFERRED** | **1,066,143 people on a 1.11 km² cape = ~960,489/km²** — nearly 3× the density the Cape Adare correction rejected, and **1.11 km² is "a tongue of ice, snow, rock and moraine," so the actual bedrock is LESS** | **Deferred by developer 2026-09-02** *("many, many hours of research and creativity")*. **Full research + five options recorded in `Specs/Denison.md`.** **Strongest candidate: canon already says "one continuous, interlinked, LOAD-SHARING structure" — the four rocky ridges are piers, the structure spans three ice-filled valleys.** ⚠ **Must not become a second Byrd** *(underground city)* — the distinction is intent. **The determination is unaffected** |
 | 20 | **⏸️ {{Bunger Hills City}} — the access problem** | **450 km² ice-free** *(up to 942 km² incl. marine)* — one of the largest oases in East Antarctica — **but the Shackleton Ice Shelf separates it from the open sea**, with the ice sheet SE and outlet glaciers S and W | **The inverse of Denison's problem: land to spare, no way to ship.** Literature: *"sea- and land-based approaches are difficult and rarely attempted."* **Plausibly why canon leaves it "unclaimed"** *(`04` §6.4)* — a hard site precisely because it is a good one. **Its access answer is a real design question** *(overland link, or a route across/around the ice shelf)*, **in the same family as Dumont d'Urville's open bridge question.** ⏸️ **Founding already deferred by the developer** |
+| 21 | **Dome Fuji — stale canon** | **`Specs/Dome_Fuji.md` says "no highway access"; `Highways.md` L154/L159 confirm it as a stop on the Hwy 37 main line** | Between the Sayowa Junction and the Hwy 22 dual-junction. **Flagged in the City Master Reference during the reference compile; the Specs fix was never made.** Deferred with the other culture/canon-file corrections until after this pass |
