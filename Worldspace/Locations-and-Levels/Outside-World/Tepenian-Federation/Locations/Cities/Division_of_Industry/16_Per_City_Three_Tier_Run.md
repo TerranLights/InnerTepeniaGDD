@@ -2313,6 +2313,82 @@ not already specified.**
 
 ---
 
+## 23. ✅ VOSTOK — DETERMINED *(closes the Mirny subnet)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=2.50, **ICE-SHEET FORCED IMPORTER** — bedrock ~4 km down under Lake Vostok, food term at 10%)* | 121,353 | **37.4%** |
+| **Mandated** | 66,007 | **20.3%** |
+| **FREE — the character budget** | 137,092 | **42.3%** |
+
+**Distinctive tier: 203,100 (62.6%).** Canon §15: Science *(Lake Vostok research program)* 65% ·
+Self-sufficiency/survival infrastructure 25% · Other 10%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | |
+|--:|--:|---|---|
+| **32.5%** | 66,007 | **Science — HALF of the 65% sector** | The Kunlun treatment: a dominant science sector at an extreme site, split down the middle |
+
+### ⭐ The previous 9.2% was a FLOOR, not an assessment
+
+**Half B's mandate came from the reciprocal-obligation work:** Vostok owes **18,774 food-worker-years** as a
+geologically forced importer, and its ruled export — **scientific research, the bioinformatics /
+Cryptograph Helix basis** — was set at ***"minimum 9.2% of distinctive tier."***
+
+> **That figure was sized to match the DEBT, not to measure the SECTOR'S NATIONAL ROLE.** **It was a floor,
+> and it was never revisited.**
+
+### ⭐⭐ The national argument, beyond the debt
+
+**Tepenia is a CLOSED POPULATION** — one-way exile, no meaningful inflow, sustained across ~250 years by
+**artificial wombs**. ***Accumulated mutation and genetic drift in a closed gene pool of ~15 million is a
+real biological problem*** — and Vostok's research sits exactly there. Canon gives it **DNA computing /
+bioinformatics** as the ruled export, and **Charlene (XT-17)**'s *"reduced-mutation-rate breakthrough tied to
+Lake Vostok biology."*
+
+> **Cataloguing a sealed lake is discretionary. Understanding mutation rates in a closed human population is
+> not.**
+
+**⚠ Scope caution, recorded:** **Charlene's breakthrough is DLC-present.** During the Second Interwar the
+**PROGRAM** exists; the **RESULT** may not have landed yet. ***The mandate rests on the program, not on the
+discovery.***
+
+### Self-sufficiency / survival 25% stays FREE
+
+*"Required simply to remain viable at the single most extreme location in Tepenia."* **Local survival, not
+provider work** — the same disposition given to Princess Elisabeth's wind engineering, **and the same
+oddity: it is the least discretionary work in the city and still not national.**
+
+### ⭐ What the ruling does to Vostok's standing
+
+**At the 9.2% floor, Vostok's export exactly matched what it owed** — a city that barely paid its way. **At
+half science, the mandate covers the food debt roughly 3.5× over.**
+
+> **Vostok becomes a net contributor rather than a break-even one** — which fits a place whose research
+> archive canon describes as ***"too vast for any single mind, human or robot, to hold."***
+
+### Notes
+
+- **⭐ Holds the coldest naturally-recorded surface temperature on Earth** *(−89.2 °C, 1983)*, and sits above
+  **Lake Vostok — sealed 15–25 million years, 4 km down.**
+- **⭐⭐ The founding-legend mismatch is DELIBERATELY UNRESOLVED:** the founding population was Russian; the
+  current population *(USA/Japan Primary, **zero Russian representation at any tier**)* has **no documented
+  connection** to them, and **no migration event explains it** — *"ambient, settled fact"* per its own §5a.
+  **Russian survives only as a *"liturgical language of science"* — fixed technical identifiers, spoken by
+  nobody, understood by all serious researchers.** *(All in the free tier.)*
+- **⭐ Robot kinship is archive-domain inheritance across researchers who may never overlap in time** — canon
+  calls it *"the most purely condition-based kinship finding"* in the whole run. **The public/private divide
+  is organized by TIME, not space** — *"Window Courtesy."*
+- **⏸️ Charlene (XT-17)** — robot geneticist, **confirmed recruitable companion, DLC 7 central character.**
+  **Vostok is the mandatory launch point for Kunlun's DLC content** *(her discovery needs Kunlun's comms
+  relay)*.
+- **Not a roadside node:** Vostok sits on **Hwy 37** between Mountain Pass and Concordia, but **the highway's
+  only stopping place on that stretch is Mountain Pass** — canon calls this **the single hardest route in
+  Tepenia to hitchhike.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
