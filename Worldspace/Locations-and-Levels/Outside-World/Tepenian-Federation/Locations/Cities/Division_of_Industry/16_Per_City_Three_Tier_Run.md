@@ -3227,6 +3227,88 @@ a seed vault is an archive** — so it sits inside this same sector, and the rul
 
 ---
 
+## 33. ✅ MAWSON — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Holme Bay coast, rock-founded, food term 100%)* | 447,342 | **41.0%** |
+| **Mandated** | 225,584 | **20.7%** |
+| **FREE — the character budget** | 418,942 | **38.4%** |
+
+**Distinctive tier: 644,527 (59.0%).** Canon §15: Subnet-hub logistics/Arcanet coordination 25% · Maritime
+trade 20% · Technical/scientific 20% · Commercial/trade 15% · Hospitality/honeymoon tourism 10% · Other 10%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **25%** | 161,132 | **Subnet-hub logistics / Arcanet coordination — FULL** | ✅ §15 *"the city's clearly defining civic function"*; `04` §3 **LOGISTICS (subnet hub)** |
+| **10%** | 64,453 | **Half of Maritime trade — Sinheung's import channel** | ✅ Canon, stated in **Troll's** Specs — see below |
+| **35%** | **225,584** | | |
+
+### ⭐⭐ The maritime sector has a national customer — named in a DIFFERENT city's file
+
+**Found while reading Troll's Specs earlier in this pass:**
+
+> *"…together with **Sinheung (which receives its own imports VIA THE CITY OF MAWSON** — a physical logistics
+> link independent of Arcanet subnet boundaries)…"*
+
+> ### **Mawson is the port through which Sinheung receives its imports.**
+> **And Sinheung's fabrication 45% builds the chambers robots are made in, nationwide** *(§17)*.
+
+**The two supply lines are distinct and both are canon:** **Sinheung's DOMESTIC feedstock comes overland from
+Mirny** *(the "near-exclusive" quarrying hub, §20)*; **its IMPORTED material comes through Mawson.**
+
+**HALF, not full**, because §15 annotates the sector only as *"Holme Bay, Indian Ocean access"* — **general
+port capability, of which the Sinheung channel is one named national use.** **Mandating all of it would
+conscript Mawson's own trade alongside the part serving another city's national role.**
+
+### ⭐⭐⭐ Hospitality stays FREE — and this is the Palmer City distinction doing real work
+
+**Palmer City's hospitality 35% WAS mandated** *(§13)*, because it earns **Upper Earth tourism revenue** —
+foreign exchange that plausibly pays for the phosphate Tepenia cannot manufacture.
+
+**Mawson's is DOMESTIC:** *"Tepenia's go-to honeymoon destination for newly-married human-robot couples"* — a
+**deliberately cultivated, decades-earned reputation**, typical stay ~1–2 weeks.
+
+> ### **Domestic tourism circulates money; it does not earn any.** **So it fails the mandate test — and lands, correctly, in the character budget.**
+>
+> **Which is where it belongs.** ***A nation's honeymoon destination for human-robot couples is not work the
+> state conscripts.*** **In a project whose north star is robot/human love, that sector being free is the
+> model getting something RIGHT, not merely getting it consistent.**
+
+### What else stays FREE
+
+- **Technical/scientific 20%** — *"inherited Australian Antarctic Division research tradition."* Heritage
+  research, the standing precedent.
+- **Commercial/trade 15% · Other 10%** — unannotated.
+
+### ⏸️ One tension flagged, not resolved
+
+**The developer's own Mawson correction earlier the same day** — *"a tourism & resort town (which is also a
+popular honeymoon destination), and therefore **the overwhelming majority of Mawson's industry would be
+oriented around some degree of interacting with the public in some form**"* — **sits slightly against §15,
+which gives hospitality only 10%.**
+
+**Adding commercial 15% and the public-facing share of the hub role gets closer to that picture, but §15 as
+written does not make hospitality dominant.** **Flagged for the review register rather than resolved here —
+it is a §15 question, not a mandate question.**
+
+### Notes
+
+- **⭐ "The Name That Outlasted the Founders."** **China is Primary (17.02%); Australia — the actual founder —
+  is Significant (8.29%).** Canon confirms this as **a structural pattern recurring at three scales**:
+  founding identity, demographics, and **infrastructure function** *(the hub role outlasted which specific
+  links it coordinates)*.
+- **Longest unbroken occupation of any Tepenian city site** — the Australian Antarctic Division has held it
+  since **1954**.
+- **⚠ Post-war, NOT an input:** the **subnet-hub Arcanet installation took the brunt of Long Night War
+  damage** — inter-subnet links were the deliberate target under the Split Brain mechanism; **intra-subnet
+  links to Sayowa and Dome Fuji plausibly survived better.**
+- **Public libraries are confirmed as a genuine civic institution here.** *(Free tier.)*
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -3254,3 +3336,4 @@ a seed vault is an archive** — so it sits inside this same sector, and the rul
 | 19 | **⏸️ Denison — geography, DEFERRED** | **1,066,143 people on a 1.11 km² cape = ~960,489/km²** — nearly 3× the density the Cape Adare correction rejected, and **1.11 km² is "a tongue of ice, snow, rock and moraine," so the actual bedrock is LESS** | **Deferred by developer 2026-09-02** *("many, many hours of research and creativity")*. **Full research + five options recorded in `Specs/Denison.md`.** **Strongest candidate: canon already says "one continuous, interlinked, LOAD-SHARING structure" — the four rocky ridges are piers, the structure spans three ice-filled valleys.** ⚠ **Must not become a second Byrd** *(underground city)* — the distinction is intent. **The determination is unaffected** |
 | 20 | **⏸️ {{Bunger Hills City}} — the access problem** | **450 km² ice-free** *(up to 942 km² incl. marine)* — one of the largest oases in East Antarctica — **but the Shackleton Ice Shelf separates it from the open sea**, with the ice sheet SE and outlet glaciers S and W | **The inverse of Denison's problem: land to spare, no way to ship.** Literature: *"sea- and land-based approaches are difficult and rarely attempted."* **Plausibly why canon leaves it "unclaimed"** *(`04` §6.4)* — a hard site precisely because it is a good one. **Its access answer is a real design question** *(overland link, or a route across/around the ice shelf)*, **in the same family as Dumont d'Urville's open bridge question.** ⏸️ **Founding already deferred by the developer** |
 | 21 | **Dome Fuji — stale canon** | **`Specs/Dome_Fuji.md` says "no highway access"; `Highways.md` L154/L159 confirm it as a stop on the Hwy 37 main line** | Between the Sayowa Junction and the Hwy 22 dual-junction. **Flagged in the City Master Reference during the reference compile; the Specs fix was never made.** Deferred with the other culture/canon-file corrections until after this pass |
+| 22 | **Mawson — §15 vs. characterization** | **The developer describes Mawson as a tourism & resort town where *"the overwhelming majority of industry would be oriented around interacting with the public,"* but §15 gives hospitality only 10%** | Commercial 15% and the public-facing share of the hub role narrow the gap, **but §15 as written does not make hospitality dominant.** ⚠ **A §15 question, not a mandate question** — the determination holds either way |
