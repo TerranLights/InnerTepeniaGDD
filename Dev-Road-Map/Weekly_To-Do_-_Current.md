@@ -8,6 +8,58 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+# ⛔⛔ RUNS 12 AND 13 — BOTH BURNED, 2026-09-02/03. **Read `00_RUNBOOK.md`'s `Step −2` LEAK REGISTER FIRST.**
+
+> ## ⭐⭐⭐ M-104 — THE LAW THAT CAME OUT OF LOSING TWO RUNS IN TWO DAYS
+>
+> ### **THE PROTECTION OPERATES AT LEVEL N. THE LEAK ARRIVES AT LEVEL N+1.**
+>
+> **Twelve contamination channels are now catalogued.** ***Not one was a channel nobody had thought about.
+> Every single one sat exactly one step of indirection outside a control that was working correctly.***
+>
+> | The control, working as designed | Where the leak actually came from |
+> |---|---|
+> | `§C.2` quarantines what the deriver **delegates** | the deriver's **required reading** |
+> | *"Return no section headings"* | the **filenames** |
+> | *"Skip the flagged line"* | the **paragraph explaining** that line |
+> | *"Band the memory entries"* | the surface **scales with the corpus** |
+> | *"Describe the leak so the rule persuades"* | **the description was the leak** |
+> | *"Verify the skip boundary first"* | **the verification was the exposure** |
+>
+> **Why it recurs, and it is not carelessness:** ***a fix written while being bitten is shaped like the
+> bite.*** It closes its own channel correctly and cannot see one step further out, because that is outside
+> the frame it was written in. **A control creates a boundary; a boundary creates an outside; the outside is
+> where the next leak is.** **This is why "be more careful" has never once worked here, and a checklist has.**
+>
+> ### ⛔ **`00_RUNBOOK.md` `Step −2` now carries the LEAK REGISTER — twelve rows, each with its control and
+> its M-number. CHECK IT AS A CHECKLIST. Do not re-derive it.** **Every row was paid for by a burned run.**
+> **Declared OPEN: assume a thirteenth exists, one step outside whatever you most recently trusted.**
+
+---
+
+# ⛔ RUN 13 — SHIRAYUKI. **HALTED AT PHASE 0, 2026-09-03. Not cold.**
+
+**The review was `CONFIRMED`. The vector-1 sweep worked perfectly — three coordinates, zero content. The
+mitigation *"skip that line"* was followed exactly.** ***Then the session read the adjacent lines to verify
+the skip boundary, and those lines state in full the analytical rule the flagged line exemplifies.*** **M-103.**
+
+**Run 13's own Phase 0 file pre-committed that a spine-level leak in that register forfeits cold status.
+The census made it spine-level immediately — a 38% loss to orbital emigration. `§C.5` applied; cold status
+forfeit.** ***Recorded as the pre-commitment being honored rather than reasoned around: it fired against the
+session that wrote it, twenty minutes after writing it.***
+
+> **⭐ Nothing downstream is lost.** **`Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md` is
+> `CONFIRMED`, pinned, coordinates-only, and now carries CORRECTED SKIP RANGES** *(ranges, never lines, for
+> worked examples — and never read adjacent lines to check a boundary)*. **A fresh session inherits it and
+> derives cold at none of this session's cost.**
+>
+> **⭐⭐ And Shirayuki's map is a genuine asset**: 45.4% admissible across 394 content lines, 3-of-3 unanimous,
+> pinned. **Combined with Casey's, it produced M-102 — the first cross-location consistency result this
+> methodology has: the tier ordering (`Specs` cleanest → megasheet → culture sheet dirtiest) replicates
+> exactly on both cities, totals within seven points.**
+
+---
+
 # ⛔ RUN 12 — ATTEMPTED AND ABANDONED, 2026-09-02. **Burned before Phase 0. Re-handed off as RUN 13.**
 
 > ## ⭐⭐ The abort is the most valuable result this methodology has produced since the Zodiac Lens.

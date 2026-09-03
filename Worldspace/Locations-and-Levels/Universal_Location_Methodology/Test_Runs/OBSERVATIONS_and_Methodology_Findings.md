@@ -3400,3 +3400,66 @@ that.***
 session inherits it and derives genuinely cold** — paying none of this session's cost. ***This is `§C.3`'s
 pairing working exactly as designed for the second time in two days: the contaminated session built the map;
 it cannot be the one to use it.***
+
+---
+
+# M-104 — ⭐⭐⭐ THE LAW BEHIND ALL TWELVE: **the protection operates at level N; the leak arrives at level N+1**
+
+**Synthesized 2026-09-03, at the developer's direction — *"document your findings so that it doesn't happen
+again"* — after Run 12 was burned before Phase 0 and Run 13 was burned twenty minutes after opening it.**
+
+***This is the finding of the session. M-87 through M-103 are its instances.***
+
+## The observation
+
+**Twelve distinct contamination channels have now been identified in this project.** ***Not one was a channel
+nobody had considered. Every single one sat exactly one step of indirection outside a control that was
+working correctly at the time.***
+
+| The control — functioning as designed | Where the leak actually arrived |
+|---|---|
+| `§C.2` quarantines what the deriver **delegates** | the deriver's **required reading** |
+| *"Return no section headings"* | the **filenames** |
+| *"Return no content"* | **titles, counts, person-named paths** |
+| *"Skip the flagged line"* | the **paragraph explaining** that line |
+| *"Band the memory entries"* | the surface **scales with the corpus** — banding cannot finish |
+| *"Describe the leak so the rule persuades"* | **the description was the leak** |
+| *"Check the manifest for your subject"* | **the manifest's own explanatory column** |
+| *"Verify the skip boundary first"* | **the verification was the exposure** |
+
+## Why it recurs, and it is not carelessness
+
+***Each fix is written against the instance that produced it.*** **A rule authored in the moment of being
+bitten is necessarily shaped like the bite** — it names the channel, closes it, and is correct. **What it
+cannot do is anticipate the channel one step further out, because that channel is only visible from outside
+the frame the fix was written in.**
+
+> ### **A control creates a boundary. A boundary creates an outside. The outside is where the next leak is.**
+> ***This is structural, not a discipline failure — which is why "be more careful" has never once worked here
+> and a checklist has.***
+
+## The two operative consequences
+
+**1. The question to ask is never *"is this channel safe?"*** It is:
+
+> ## ***"What is one level of indirection out from the thing I just protected?"***
+
+**2. ⚠ And because that question is close to impossible to ask honestly about one's own just-written fix,
+it must be replaced by a CHECKLIST.** **`00_RUNBOOK.md`'s `Step −2` now carries the LEAK REGISTER** — all
+twelve channels, each with its control and its M-number — ***to be checked as a list rather than re-derived
+after being bitten.*** **Every row was paid for by a burned or damaged run.**
+
+**The register is declared OPEN, not closed**, with a standing instruction: ***assume a thirteenth exists,
+and that it is one step outside whichever control you most recently trusted.***
+
+## ⚠ The honest limit of this finding
+
+**M-104 does not prevent the thirteenth leak.** ***It cannot — by its own logic, it is itself a control, and
+therefore has an outside.*** **What it does is convert an unbounded vigilance problem into a bounded
+checking problem for the twelve known cases, and set the expectation that a new one will appear rather than
+letting each discovery arrive as a surprise.**
+
+> **Two sessions in two days each believed themselves clean, each ran a genuine check, and each was
+> contaminated anyway — the second by the very mitigation the first had written.** ***A methodology that
+> treats that as bad luck will keep paying for it. This entry exists so the next session treats it as the
+> expected shape of the problem.***

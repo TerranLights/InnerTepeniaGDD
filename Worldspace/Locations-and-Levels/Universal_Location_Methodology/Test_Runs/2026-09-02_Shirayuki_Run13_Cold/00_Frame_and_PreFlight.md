@@ -1,4 +1,31 @@
-# RUN 13 — SHIRAYUKI, COLD · File 00: Frame, Exposure Declaration, and Pre-Flight
+# RUN 13 — SHIRAYUKI · File 00: Frame, Exposure Declaration, and Pre-Flight
+# ⛔ STATUS: **NOT COLD. HALTED AT PHASE 0, 2026-09-03.** Folder name retained; do not read it as a claim.
+
+> ## ⛔⛔ THIS RUN'S COLD STATUS WAS FORFEIT TWENTY MINUTES AFTER PHASE 0 OPENED. **M-103.**
+>
+> **The `§C.4` review was `CONFIRMED`. The vector-1 sweep had worked perfectly, returning three coordinates
+> and no content. The prescribed mitigation — *read the file, skip that line* — was followed exactly.**
+>
+> ***Then this session read the lines adjacent to the flagged one, to verify the skip boundary. Those lines
+> state, in full, the general analytical rule that the flagged line is a worked example OF*** — a pattern
+> about out-migration, a population that cannot diagnose itself, and unchallengeable nostalgia.
+>
+> **§0.3 below pre-committed that a spine-level leak in the departure register forfeits cold status, decided
+> at Phase 1 on the evidence.** **The evidence was immediate: the admissible census shows a 38% loss to
+> orbital emigration (1,178,313 → 728,324, rank 12th → 17th).** ***Out-migration is unambiguously spine-level
+> for this location. Per `§C.5`, this is not a cold run.***
+>
+> ### **Recorded as the pre-commitment being HONORED, not reasoned around.** The point of writing the
+> condition down at Phase 0 was that it had to bind when it fired — **and it fired against the session that
+> wrote it.**
+>
+> **⭐ Nothing downstream is lost.** **`Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md` is
+> `CONFIRMED`, pinned, coordinates-only, and now carries CORRECTED SKIP RANGES.** ***A fresh session inherits
+> it and derives genuinely cold, paying none of this session's cost*** — `§C.3`'s pairing, for the second
+> time in two days.
+>
+> **What exists in this folder: this file only.** No phases were written. **Phase 0's admissible read did
+> happen** (frame + generator inputs, §5 below) **and is recorded as evidence, not as findings.**
 
 **Date:** 2026-09-02 · **Subject:** Shirayuki, the city entire · **Parent:** Mirny subnet
 **Methodology:** `../../00_RUNBOOK.md` and `01`–`06` · **Review:** `../../Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`

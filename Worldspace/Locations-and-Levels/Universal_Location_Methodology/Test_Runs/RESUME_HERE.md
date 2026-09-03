@@ -1,5 +1,27 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
+> # ⛔⛔⛔ BEFORE ANYTHING: `00_RUNBOOK.md` OPENS WITH `Step −2` AND A **LEAK REGISTER**. CHECK IT.
+>
+> **Two runs were burned in two days — Run 12 before Phase 0, Run 13 twenty minutes after opening it.**
+> **Twelve contamination channels are now catalogued as a checklist.** ***Check the register. Do not
+> re-derive it.***
+>
+> ### ⭐ The law they cost, M-104: **THE PROTECTION OPERATES AT LEVEL N; THE LEAK ARRIVES AT LEVEL N+1.**
+>
+> ***Not one of the twelve was a channel nobody had considered. Every one sat exactly one step of indirection
+> outside a control that was working correctly.*** `§C.2` guarded delegated reading → the leak came through
+> **required** reading. *"No headings"* → **filenames**. *"Skip the flagged line"* → **the paragraph
+> explaining it**. *"Verify the boundary first"* → **the verification was the exposure.**
+>
+> **A fix written while being bitten is shaped like the bite.** It closes its channel correctly and cannot see
+> one step further out. ***A control creates a boundary; a boundary creates an outside; the outside is where
+> the next leak is.*** **Assume a thirteenth exists, one step outside whatever you most recently trusted.**
+>
+> ### ✅ And two things are READY, not lost:
+> **`Pre-Contamination_Reviews/Casey_…` and `Shirayuki_…` are both built** — Shirayuki's is **`CONFIRMED`,
+> pinned, coordinates-only, with corrected skip RANGES.** ***A fresh session inherits either and derives cold
+> immediately, paying none of the prior sessions' cost*** (`§C.4`).
+
 > # 🔺🔺 NEXT ACTION — RUN 13: CASEY, COLD. **RE-HANDED OFF 2026-09-02 AFTER RUN 12 WAS BURNED.**
 >
 > ### ⛔ **DO NOT READ `../00_RUNBOOK.md` YET. Read `Casey_ColdRun_Prep_2026-09-02.md`'s TOP BOX first, and do the four things it lists.** **Then** the runbook, in full, per `CLAUDE.md`.

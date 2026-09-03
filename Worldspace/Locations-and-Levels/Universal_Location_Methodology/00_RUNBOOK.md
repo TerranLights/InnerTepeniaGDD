@@ -65,6 +65,61 @@
 > costs the entire run, and it is not recoverable** — you cannot un-read a conclusion, and every finding
 > downstream of it is permanently corroboration-weight at best. ***Dispatch when in doubt.***
 
+---
+
+> # ⚠⚠⚠ THE LAW BEHIND ALL OF IT — read this before the register below, because the register is only its
+> instances
+>
+> ## **THE PROTECTION OPERATES AT LEVEL N. THE LEAK ARRIVES AT LEVEL N+1.**
+>
+> **Twelve distinct contamination channels have now been found in this project.** ***Not one of them was a
+> channel nobody had thought about. Every single one was one step of indirection outside a control that was
+> already working correctly.***
+>
+> | The control, working as designed | Where the leak actually came from |
+> |---|---|
+> | `§C.2` quarantines what the deriver **delegates** | the deriver's **required reading** |
+> | "Return no section headings" | the **filenames** |
+> | "Return no content" | **titles, counts, and person-named paths** |
+> | "Skip the flagged line" | the **paragraph explaining** the flagged line |
+> | "Band the memory entries" | the surface **scales with the corpus**, so banding cannot finish |
+> | "Describe the leak so the rule is persuasive" | **the description was the leak** |
+> | "Check the manifest for your subject" | **the manifest's own explanatory column** |
+> | "Verify the skip boundary before reading" | **the verification was the exposure** |
+>
+> ### ***Each fix was written against the instance that prompted it. The next leak then arrived from one step
+> further out — every time, without exception.***
+>
+> **So the operative question is never *"is this channel safe?"*** It is:
+>
+> > ## **"What is one level of indirection out from the thing I just protected?"**
+>
+> **And because that question is hard to ask honestly about your own work, the register below exists: check
+> it as a CHECKLIST, rather than re-deriving it after being bitten.** ***Every row was paid for by a burned
+> or damaged run.***
+
+---
+
+> # ⛔ THE LEAK REGISTER — twelve known channels. **Check every row. Do not re-derive this list.**
+>
+> | # | Channel | How it reaches you | The control | Found |
+> |---|---|---|---|---|
+> | **1** | **Required reading** — rule files carry worked examples naming your subject | `CLAUDE.md` **mandates** reading them in full | Reader greps `00`–`06`+disciplines, returns line numbers to skip | M-82, M-99 |
+> | **2** | **A worked example's EXPLANATION** | You skip the line; the rule it illustrates sits around it | **Skip RANGES. Never verify a boundary by reading next to it** | **M-103** |
+> | **3** | **Auto-loaded memory** | **Pushed**, never pulled — no do-not-open list can intercept it | `grep -ril` (**never `-rin`**) → band before reading | M-21, M-63, M-87 |
+> | **4** | **Memory at corpus scale** | ~38 entries per city × 37 cities — banding cannot finish | **Default-deny declaration** at the index head | M-99 |
+> | **5** | **Filenames as theses** | A mandated `ls`/`find`; titles are *distilled* conclusions | **Sanitized paths** — directory + count + line range | M-88 |
+> | **6** | **Person-named paths** | *"Return paths"* + *"don't name people"* is unsatisfiable | **State prohibitions as POSITIVE formats** | M-94 |
+> | **7** | **Compositional reconstruction** | Three marginal leaks that jointly rebuild the conclusion | **Exposure ledger, reviewed as a SET** ⏸️ *awaiting ruling* | M-89 |
+> | **8** | **A rule's own justification prose** | Persuasive rules show their evidence — the evidence is the leak | **Describe a leak by SHAPE and SIZE, never CONTENT** | M-97 |
+> | **9** | **The manifest's explanatory column** | Checking `06` for your subject hands you its conclusions | **Manifest entries are coordinates-only** | M-97 |
+> | **10** | **A prep document's descriptive framing** | Its line-ranged sequence is safe; its prose is not | **No descriptive section. Classify BY RULE** | M-85 |
+> | **11** | **The contamination check itself** | Reading a passage closely enough to band it exposes you | **Quarantine ≠ classification — it never needs content** | M-66, M-91 |
+> | **12** | **A compilation or index pass** | Contaminates its compiler against **every** location it covers | **Index-building and cold-running are mutually exclusive** | `§C.3` |
+>
+> ### ⚠ The register is **open, not closed.** ***Assume a thirteenth exists and that it is one step outside
+> whichever control you most recently trusted.*** **When you find it, add the row.**
+
 **Working draft, 2026-08-30. This is the operational entry point for the universal location methodology. Start
 here.**
 
@@ -596,6 +651,37 @@ learns *where* to look without ever being exposed to *what is there*.**
 >
 > > **The convention is `wc -l` — the count of newline characters.** **State it in the brief, and use it for
 > > the `§C.4` pin so the two always agree.** **The pin's `sha256` catches any real change regardless.**
+
+> ### ⛔⛔ A WORKED EXAMPLE LEAKS THROUGH ITS EXPLANATION. SKIP RANGES, NEVER LINES. *(M-103.)*
+>
+> **The vector-1 sweep returns coordinates, and the prescribed mitigation was "read the file, skip that
+> line." *That is insufficient, and it burned the run that invented it, twenty minutes after the map was
+> confirmed.***
+>
+> > ***A worked example is not a self-contained leak. It is the ILLUSTRATION of a claim — and the claim is
+> > stated in the prose around it.*** **Skip the illustration and the claim survives intact.** **The claim is
+> > the more portable half: the reader now holds the conclusion and merely has not been told which location
+> > it concerns — which the file's own structure supplies in the next sentence.**
+>
+> **The live instance:** a flagged line was skipped exactly as instructed. **The lines immediately above it
+> stated, in full, the general analytical pattern that line exemplified.** **The subject's identity followed
+> from position alone.**
+>
+> | Rule | Why it did not fire |
+> |---|---|
+> | `06` manifest | Records a **coordinate**. A line number cannot express *"and the paragraph above it"* |
+> | Vector-1 reader | Classified **the line** correctly. It was never asked about the line's neighbors |
+> | M-88 · M-97 | Different channels entirely |
+>
+> ***All of them treat a leak as a POINT. A worked example is a point plus its explanation, and the
+> explanation is the part that generalizes.***
+>
+> **THE FIX:**
+> 1. **A vector-1 reader classifies `CONCLUSION-EXAMPLE` separately from `CONCLUSION`**, and for the former
+>    **returns a RANGE** — the example plus the rule statement it illustrates.
+> 2. ### ⚠ **NEVER READ ADJACENT LINES TO "VERIFY THE BOUNDARY." That verification IS the exposure.**
+>    ***Trust the reader's range. It is the only party that can see both sides.***
+> 3. **`06_Worked_Example_Provenance.md` records RANGES for worked examples**, never bare line numbers.
 
 > ### ⚠ Resending is not amending — but it has its own hazard
 >
