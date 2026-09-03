@@ -294,14 +294,26 @@ Sanay must skip the example content in the rows below.** The rules stand without
 
 | File | Coordinate | Class | Action |
 |---|--:|---|---|
-| `02_Generators_Capability_and_Symbols.md` | **line 359** | ⛔ **CONCLUSION** | **SKIP THIS LINE** |
-| `05_The_Input_Contract.md` | **line 211** | ⛔ **CONCLUSION** | **SKIP THIS LINE** |
-| `05_The_Input_Contract.md` | **line 215** | ⛔ **CONCLUSION** | **SKIP THIS LINE** |
+| `02_Generators_Capability_and_Symbols.md` | ~~line 359~~ | ✅ **REMOVED 2026-09-03** | **No action — moved to `Test_Runs/Worked_Examples_Archive/`** |
+| `05_The_Input_Contract.md` | ~~lines 211, 215~~ | ✅ **REMOVED 2026-09-03** | **No action — moved to the same archive** |
 | `06_Worked_Example_Provenance.md` | line 77 | ATTRIBUTE | No action — inside another city's section |
 | `06_Worked_Example_Provenance.md` | line 161 | ANECDOTE | No action |
 | **auto-loaded memory** | 5 city-named entries | conclusion-tier | ✅ **BANDED 2026-09-02**; 33 further entries covered by the index's standing default-deny declaration |
 | `00`, `01`, `03`, `04`, `README`, `Cultural_Synthesis_Techniques.md`, `Real-World_Basis_…`, `00b`, `00d`, `00f` | — | **CLEAN — verified, not assumed** | None |
 
-**Live coordinate map and full status: `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`.**
+> ### ⭐⭐ THIS ENTRY'S SKIP LIST IS NOW EMPTY — and that is the LAYERING LAW's first result
+> **Developer instruction, 2026-09-03:** ***`01`–`05` and `README` name NO location, ever*** — worked
+> instances move to `Test_Runs/Worked_Examples_Archive/`, reached by a bare pointer. **Verified mechanically:
+> `grep -ciE '<subject>|<alias>'` returns 0 for `00`–`05` and `README`.**
+>
+> ***Vector 1 is now clean by construction for THIS subject and every future one*** — the leak channel with a
+> mandatory delivery mechanism *(`CLAUDE.md` requires those files be read in full)* **no longer has anything
+> to deliver.** **M-103's "the rule around the example leaks too" problem dies with the example.**
+>
+> ⛔ **The retired ranges are also now WRONG:** `02` is 621 lines (was 613), `05` is 708 (was 703).
+> ***Do not apply them from memory.***
+
+**Live coordinate maps and full status: `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`
+— §6 (3 city files) and §9 (14 registry files), both 3-of-3, both pinned.**
 
 ## *(Add further locations here as they are absorbed into the methodology.)*

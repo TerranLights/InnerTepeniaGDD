@@ -92,7 +92,7 @@ the contrast inline, in the finding itself**, not in a footnote.
 > invisible.** **The blind instrument caught what the sighted one later confirmed.** **Gate 4 is therefore
 > partial cover for a deferred Gate 6 and should be run deliberately as such** — pick the swap partner most
 > likely to expose a shared answer. *(The specific collisions are archived in
-> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+> `Test_Runs/Worked_Examples_Archive/`.)*
 >
 > ### ⚠⚠ Before recording ANY mismatch found at Step 7 as wrong or killed, run the both-are-true test (`02` §5.3)
 > **Added 2026-08-31, at the developer's direct instruction after a first draft got this wrong on a real case.**
@@ -115,7 +115,7 @@ the contrast inline, in the finding itself**, not in a footnote.
 > **A flat kill discards a finding entirely. Applying the test instead looks for the reconciling property —
 > very often already written down in the same source that produced the contradiction — before concluding the
 > cold pass's claim was simply wrong.** A real worked case, archived in
-> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`, found the property relocated a demographic-diversity
+> `Test_Runs/Worked_Examples_Archive/`, found the property relocated a demographic-diversity
 > finding from a public/general scale (where existing canon contradicted it) to a private/generational scale
 > (where it was not contradicted, and became a sharper finding than either the original claim or the killed
 > version).
@@ -145,7 +145,7 @@ mechanism decides **against**, whether that outcome is as durable, and **whether
 > reusable.** A membership threshold was written entirely from the favorable side, in a pass whose author had
 > read this gate that morning. **The gate's question — *what happens to someone it decides against, and is
 > there a route back?* — had no answer, and finding one produced the pass's second-strongest finding.**
-> *(The specific worked case is archived in `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+> *(The specific worked case is archived in `Test_Runs/Worked_Examples_Archive/`.)*
 >
 > > **The transferable pattern: a membership mechanism with no author has no appeal process either**, and
 > > **that is a textbook `00d` shadow — unintended, unnoticed, discoverable, and working with everyone acting
@@ -175,7 +175,7 @@ and **whose behavior am I actually describing?**
 > ### ⭐ FIRST RECORDED FIRE — 2026-08-30, on a real test case, and it was found by ARITHMETIC
 >
 > **This gate had never caught anything before this.** It caught two things at once, and the method is worth
-> copying exactly, because it required no judgement at all:
+> copying exactly, because it required no judgment at all:
 >
 > **Divide the population by the area. That is the whole technique.**
 >
@@ -186,7 +186,7 @@ and **whose behavior am I actually describing?**
 > the scale question above. **Both corrections improved the material** — the pass's own texture findings
 > survived the correction and came out sharper for it, not weaker. *(The full worked figures — the actual
 > density computed, the real-world comparanda used, and exactly what got corrected — are archived in
-> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+> `Test_Runs/Worked_Examples_Archive/`.)*
 >
 > > **The transferable rule: before trusting any texture claim, price it against a density figure.** Population
 > > over extent is one division, it needs no interpretation, and **it is the only part of this gate that does
@@ -283,9 +283,9 @@ silently decided here.
 >
 > **A real cold pass produced a lopsided ratio — several Originated elements against exactly one Inflected
 > one.** **That ratio is the tell, and it is countable — so make it part of the gate rather than a matter of
-> judgement.** *(The specific counts and the recurring miss they revealed — a purely local holiday invented
+> judgment.** *(The specific counts and the recurring miss they revealed — a purely local holiday invented
 > without ever checking what the location does with a national observance — are archived in
-> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+> `Test_Runs/Worked_Examples_Archive/`.)*
 >
 > **So: count the classes. If Originated outnumbers Inflected by more than about 3:1, stop and re-run the
 > `01` §5.1 order of attempts** — *what does the parent determine → what does it supply that this place
@@ -420,7 +420,7 @@ sole polity, a one-off megastructure.
   were all coherent, sourced, differentiated, and wrong about how people behave.** **Gate 11 has now caught one
   itself**, on a real test case — an order-of-magnitude scale error, found by dividing population by area. **The lesson
   is narrower than "the gate works": the part that fired was the part that was arithmetic.** The interpretive
-  half of Gate 11 caught nothing, as before. **Prefer a number to a judgement wherever the gate offers a
+  half of Gate 11 caught nothing, as before. **Prefer a number to a judgment wherever the gate offers a
   choice.**
 
 - **⭐ A COLD READ IS A CANON-AUDIT INSTRUMENT, and it is the cheapest one available.** *(Added 2026-08-30.)*

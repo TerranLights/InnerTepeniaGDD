@@ -8,8 +8,8 @@
 # 0. Why eleven, and why these
 
 **The eight district phases are not a skeleton; they are a patch.** They were built to close categories that
-measured 0/13 or 1/13 across Concordia's districts — Robot-Specific Culture at 0/13, Visitor Experience at 0/13,
-Fashion at 0/13, Architecture at 4/13. They are excellent at what they were built for and they do not cover the
+measured near-zero coverage across the parent methodology's own sub-location set — robot-specific culture,
+visitor experience and fashion at 0-of-13, architecture at 4-of-13. They are excellent at what they were built for and they do not cover the
 space.
 
 **Measured against the 32-section city template, the district phases inherit roughly half of it.** Absent from
@@ -94,28 +94,33 @@ Stated once here rather than repeated eleven times.
 
 ## 0.3 Per-phase canon targets
 
-**Which canon each phase must actually open.** Addresses are in `00_RUNBOOK.md` §B–D; **U** = universe repo,
-**P** = this project.
+**Which CLASS of canon each phase must open.** ***The addresses are project data and live in
+`00_RUNBOOK.md` §C.8*** *(per the LAYERING LAW — this file must stay usable in any universe)*. **Where a
+setting has a federated canon, check every tier, not only the highest-ranked one.**
 
-| Phase | Check against |
+| Phase | Check against — by CLASS |
 |---|---|
-| **0** Frame | **U** `Repo_Scope.md` *(the authority law — once)* · `Timeline Eras/` · **P** location registries, census |
-| **1** Constraint & Capability | **U** `Worldspace/Locations/` · **P** city/district specs, climate data, `Energy_Grid_Failure_Rationale.md`, physical infrastructure |
-| **2** Composition & Arrival | **U** **`No_National_Stereotypes.md` — binding, GPS facts only** · `Falkland_Treaty/` · **P** `Official_Population_Census.md`, diaspora/affinity files, founding-nation material |
-| **3** Surface & Texture | **P** climate data, `Specs/`, physical infrastructure attributes, concept art |
-| **4** Ordinary Life | **P** `City_Logistics.md`, `Robot_Biology_and_Culture/`, `National_Economy_and_Currency.md` |
-| **5** Relation & Geometry | **U** `Worldspace/Locations/`, routes · **P** highways/airports/ports/Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` |
-| **6** Meaning | **P** **`Factions/Robot_Religions/` — check the roster before inventing a belief** · `National_Holidays.md` *(what a local observance must differ from)* · **and the deferred mortuary question — do not answer it** |
-| **7** Order | **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
-| **8** Making | **P** **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, language/slang material |
-| **9** Populations | **U** **`Laws_of_Robotics.md`** · **`Robot_Universals/`** *(all four parts)* · `Doll_Representation_Categories.md` · **P** human-robot relations baseline |
-| **10** Catalog | **U** `Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **and the no-invented-person-names rule** |
+| **0** Frame | the authority law itself *(read once)* · the era/timeline registry · location registries and census |
+| **1** Constraint & Capability | shared location facts · specs, climate data, infrastructure, and any energy/utility failure canon |
+| **2** Composition & Arrival | ⚠ **any binding anti-stereotype law** · the founding instrument/treaty · census, diaspora and founding-population material |
+| **3** Surface & Texture | climate data · specs · physical infrastructure attributes · concept art |
+| **4** Ordinary Life | logistics/supply canon · the non-human population's physiology and culture · economy and currency |
+| **5** Relation & Geometry | shared location facts and routes · highways, airports, ports, network topology · inter-location relationship files |
+| **6** Meaning | ⚠ **the existing belief/religion roster — check before inventing one** · setting-wide observances *(what a local one must differ from)* · **and any deferred mortuary question — do not answer it** |
+| **7** Order | economy and currency · logistics · faction roster · criminal-justice canon · corporate actors |
+| **8** Making | ⚠ **non-human physiology/consumption canon — mandatory before any food, drink or intoxicant claim** · tools/weapons philosophy · gear catalogs · language and slang |
+| **9** Populations | ⚠ **binding laws governing the non-human population** · its cultural universals · representation categories · the inter-population baseline |
+| **10** Catalog | shared character canon · the character/personality index · notable-figure and landmark canon · **and the no-invented-person-names rule** |
 
-**Two standing reminders that cut across the table.** `Reference/Real-World/Book_Extraction_Index.md` must be
-checked before mining any book — **it exists because a book was twice assessed as unmined when it was not.**
-And **check against the source, never against the last pass that cited it** — a mortuary mechanism was once
-invented and then passed the contradiction gate on three consecutive districts because each pass checked the
-previous pass.
+**Two standing reminders that cut across the table.** **Any book-extraction index must be checked before
+mining a book** — such an index exists in this project because a book was twice assessed as unmined when it was
+not. And **check against the source, never against the last pass that cited it** — a mortuary mechanism was
+once invented and then passed the contradiction gate on three consecutive sub-locations, because each pass
+checked the previous pass.
+
+> **⛔ The per-phase ADDRESSES for this project are at `00_RUNBOOK.md` §C.8c** *(LAYERING LAW)*. **An
+> instruction to check something is unrunnable without an address — but the address is project data, and this
+> file must stay usable in any universe.**
 
 ## 0.4 ⚠ DRAFT ORDER IS NOT CLOSE ORDER
 
@@ -123,7 +128,7 @@ previous pass.
 written in this file. The running sessions were generating it themselves.**
 
 **The observed symptom.** A pass in progress writes a sentence of the form *"Phase X cannot be finished until
-Phase Y is written"* — **where Y comes after X.** Recorded instance, Run 6 (Highway 37), Phase 4 §C:
+Phase Y is written"* — **where Y comes after X.** Recorded instance, a corridor pass, Phase 4 §C:
 
 > *"**This section will be re-checked once Phases 5–10 are written**, per the standing instruction that Gate 3
 > is best run against a complete file, not a partial one."*
@@ -372,8 +377,8 @@ are feedback loops, not standoffs.
 **Added 2026-08-30, after the first test run exercised this phase on the most densely-clustered location set in
 the project and mistook a best case for a measurement.**
 
-**Most locations are isolated.** Tepenia's cities sit 100–600 km apart; stations, structures and natural
-features frequently have no peer at all. **A phase written as though every location has close neighbors will
+**Most locations are isolated.** In a typical setting, settlements sit hundreds of kilometers apart; stations,
+structures and natural features frequently have no peer at all. **A phase written as though every location has close neighbors will
 return thin for the majority case** — so the sub-questions are weighted, not uniform:
 
 | Sub-question | **Isolated location — the majority** | Clustered location — rare |
@@ -475,8 +480,8 @@ death?*
   a place that outsources its dead for lack of room, for lack of anyone yet to bury, because it would rather
   not look, **or because looking would mean confronting a specific, nameable civic failure — insufficient
   output, an unmet promise, a broken founding value — are four different places, not three.** *(Fourth reason
-  added 2026-08-31, Sinheung Run 5: distinct from generic "rather not look" in that it ties to a specific named
-  civic value rather than an unspecified reluctance.)* **A thin invented rite is worse than an honest
+  added 2026-08-31: distinct from generic "rather not look" in that it ties to a specific named civic value
+  rather than an unspecified reluctance.)* **A thin invented rite is worse than an honest
   sentence.**
 - **D.** **The Failure State of the Core Value.** What is this place's central promise; under what circumstance
   does it become impossible to keep; what grew up around that circumstance; **and does the culture ritualize the
@@ -553,7 +558,7 @@ panel.)*
 **price it in this location's physical conditions.** The same sanction is not the same act in two places:
 exclusion where outside is lethal is a death sentence; exclusion in a network locus is being unfollowed. **Ask
 what it physically costs the excluded person here, and whether this place would actually pay that price for that
-offence.** And do not scale one person's temperament into a civic sanction — an individual's impatience scales
+offense.** And do not scale one person's temperament into a civic sanction — an individual's impatience scales
 to *a smaller room and a shorter hearing*, not to a policy.
 
 **Band variance.** **Band 1:** governance is a conversation between named people, and the interesting question
@@ -586,7 +591,7 @@ from here)*.
   > **Recorded because the recurrence is the point.** A pass offered, as a city's general music, a specific
   > performance practice tied to one narrow physical circumstance — vivid, real, and not what most residents'
   > daily musical life is like. **Gate 2 caught it; the author did not.** *(The full worked case is archived
-  > in `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`.)*
+  > in `Test_Runs/Worked_Examples_Archive/`.)*
   >
   > **Reading the discipline does not discharge the discipline.** The failure mode is not ignorance — it is
   > that **the most vivid available material is almost always the narrow material**, and vividness is what a
@@ -635,7 +640,7 @@ constraint, or a shared exclusion?
 - **D.** **Dual-tag every finding:** an **inheritance** tag (directly inherited / adapted / genuinely emergent)
   and a **depth** tag (surface / deep). **Findings clustering entirely in "directly inherited" or entirely in
   "surface" mean the real work has not happened yet** — that is what the tags are for.
-  > **⚠ Not a target ratio — added 2026-08-31, developer clarification, Sinheung Run 5.** This diagnostic
+  > **⚠ Not a target ratio — added 2026-08-31, developer clarification.** This diagnostic
   > guards against a pass that clusters *entirely* in inherited/surface — i.e., one that never actually
   > synthesized anything and is only restating canon under new headings. **It is not a signal to hedge or
   > artificially balance against multiple "genuinely emergent, deep" findings landing in the same phase.**
@@ -685,8 +690,8 @@ placeholders under the same naming rule).
 - **B2.** *(Added 2026-08-31.)* **Run `Cultural_Synthesis_Techniques.md`'s Technique — The Zodiac Lens**, a
   second, independent source for this phase: all twelve zodiac signs run as non-binding interrogation prompts
   against this location's own already-established character, each one asked what person/place/thing it would
-  take here, if anything — **never as an assignment, never referencing Concordia's own completed district
-  content.** Zero, one, or several results per sign are all legitimate; record nulls with reasons rather than
+  take here, if anything — **never as an assignment, and never referencing the substrate's own parent set's
+  completed content.** Zero, one, or several results per sign are all legitimate; record nulls with reasons rather than
   forcing a result to fill every sign.
   **Person-shaped results AMEND Phase 9 at Step 5** (§0.4) — they are **not** a Phase 9 input, and **Phase 9
   must never wait on this technique**, which runs six phases after it.

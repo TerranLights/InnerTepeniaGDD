@@ -27,6 +27,22 @@
 >
 > 1. **Name the subject. Then stop reading.**
 >
+>    > ### ⭐ **1a. BUILD THE ALIAS SET FIRST. A QUARANTINE SWEEP IS ONLY AS WIDE AS ITS ALIAS LIST.** *(M-118.)*
+>    > **Measured 2026-09-03: a vector-2 memory sweep recorded CLOSED against the current name found 38
+>    > entries. The same sweep across the alias set found 51.** ***13 entries named the subject only by a
+>    > designation it no longer uses, and were never banded — and memory is PUSH.***
+>    >
+>    > **The alias set:** current name · in-fiction alternates and other scripts · **retired placeholder /
+>    > working titles** · **the real-world basis name** · candidate names considered and dropped.
+>    >
+>    > **⚠ The real-world basis name is the sharpest case:** it is simultaneously an admissible **`G7`
+>    > attribute** *and* the key to every conclusion written before the rename. **`Specs/` files record it
+>    > openly, so the set is cheap to build — sweep the UNION, and RECORD the alias set in the review so the
+>    > next session sweeps the same width.**
+>    >
+>    > ***This corpus renames things routinely*** — placeholders, open official names, amalgamations,
+>    > real-station names predating the in-fiction one. **Assume an alias exists until you have checked.**
+>
 > 2. ### ⭐ **CHECK WHETHER A PRE-CONTAMINATION REVIEW ALREADY EXISTS — BEFORE DISPATCHING ANYTHING.**
 >    **`Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md`. Full mechanism in `§C.4`.**
 >    **This file is coordinates-only and is SAFE for a cold deriver to read in full.**
@@ -51,6 +67,22 @@
 >      **never the filenames.** **This closes vector 3.**
 >    - **Build the admissible/withheld coordinate map** — the ordinary `§C.2` job, which is all anyone was
 >      doing before.
+>    - ### ⭐ **ENUMERATE THE CANON REGISTRY AND TAKE THE SCOPE PIN.** *(Added 2026-09-03, M-112. **Dispatch
+>      this FIRST** — it decides which files the bullets above even apply to.)*
+>      **`grep -ril "<subject>"` across every root in `§B`, `§C`, `§C.1`, `§C.6` and `§D` — FILENAMES ONLY.**
+>      Return **per-root file counts**, the **inventory pin** *(dir · file count · min/max lines)*, and a
+>      **TIER for every source**: `MAPPED-NEEDED` · `WITHHELD` · **`QUERYABLE-BY-SCHEMA`**.
+>      **Full contract: `Test_Runs/COLD_RUN_CHECKLIST.md`, Brief B.**
+>      > ***This is the bullet whose absence burned Run 14.*** **The other four scope themselves to a file
+>      > list somebody already wrote down. This one is the only bullet that can find a source nobody knew was
+>      > in scope** — and three of the four bodies of subject material it found had been sitting there the
+>      > whole time, outside a review whose status line read `CONFIRMED`.
+>
+>    > ### ⚠ AND VECTOR 1 IS WIDER THAN IT SAYS. **"Required READING" ≠ "required CANON."**
+>    > **The first bullet lists `00`–`06` + disciplines, which WAS the complete set of files a pass is
+>    > obliged to open — when that bullet was written.** **`§C.6` then registered a canon source a pass is
+>    > obliged to open *during the phases*, and the bullet was never widened.** ***Sweep both: the files you
+>    > must read before Phase 0, AND the canon the generators will send you to during it.***
 > 4. **Write the review artifact and pin it** (`§C.4`) — **`sha256` + line count for every mapped file.**
 >    ***A map with no pin is worthless to the next session***, because a single edit anywhere above a range
 >    shifts every range below it, silently, and points the next deriver into withheld content.
@@ -76,7 +108,7 @@
 >
 > ## **THE PROTECTION OPERATES AT LEVEL N. THE LEAK ARRIVES AT LEVEL N+1.**
 >
-> **Twelve distinct contamination channels have now been found in this project.** ***Not one of them was a
+> **TWENTY-ONE distinct contamination channels have now been found in this project — nine of them on 2026-09-03 alone. ⚠ TWO of those nine were committed BY THE SESSION THAT WROTE THE FIXES, AFTER writing them (M-112, M-119).** ***Not one of them was a
 > channel nobody had thought about. Every single one was one step of indirection outside a control that was
 > already working correctly.***
 >
@@ -104,7 +136,7 @@
 
 ---
 
-> # ⛔ THE LEAK REGISTER — twelve known channels. **Check every row. Do not re-derive this list.**
+> # ⛔ THE LEAK REGISTER — **twenty-one** known channels. **Check every row. Do not re-derive this list.**
 >
 > | # | Channel | How it reaches you | The control | Found |
 > |---|---|---|---|---|
@@ -120,9 +152,83 @@
 > | **10** | **A prep document's descriptive framing** | Its line-ranged sequence is safe; its prose is not | **No descriptive section. Classify BY RULE** | M-85 |
 > | **11** | **The contamination check itself** | Reading a passage closely enough to band it exposes you | **Quarantine ≠ classification — it never needs content** | M-66, M-91 |
 > | **12** | **A compilation or index pass** | Contaminates its compiler against **every** location it covers | **Index-building and cold-running are mutually exclusive** | `§C.3` |
+> | **⭐13** | **YOUR OWN NAME-SEARCH** | ***`grep '<subject>'` IS a retrieval layer you assemble by hand.*** Attributes come in table rows, conclusions come in prose, **one query returns both — ranked by relevance to your subject** | **Search by STRUCTURE, never by SUBJECT.** Needed fact from an unmapped source → **schema extraction** *(§C.2)* | **M-112** |
+> | **14** | **A registry row with no tier ruling** | The runbook **instructs** you to open a source nobody mapped. *"Registered as canon"* is not *"cleared as admissible"* | **Every registry row carries a TIER column, added in the same commit as the address** | **M-112** |
+> | **15** | **A pin that verifies** | It answers *"did these files move?"* — **never *"are these the right files?"*** A source that **JOINS** is undetectable | **Pin the SCOPE too** — the `grep -ril` file count at build time, re-run on reuse *(§C.4)* | **M-112** |
+> | **⭐16** | **THE GRAPH INDEX** | **145 files name one subject — larger than any canon root — and `CLAUDE.md` + a `PreToolUse` hook mandate querying it first** | **Cold runs do not invoke graphify.** ⏸️ **Carve-out requested in `CLAUDE.md`; until it lands, a cold run knowingly disobeys a hook** | **M-116** |
+> | **17** | **A registry row naming a source without a PATH** | You search the implied tree, get a confident zero, and the real tree is elsewhere | **Absolute paths in `§B`–`§D`, verified to exist.** ***A name is not an address*** | **M-117** |
+> | **18** | **AN ALIAS** | A renamed subject keeps a retired placeholder, a real-world basis name, dropped candidates — **and the sweep ran on one of them** | **Build the ALIAS SET before sweeping; record it in the review** *(`Step −2` item 1a)* | **M-118** |
+> | **19** | **A closed vocabulary with no escape hatch** | A reader meeting a case the tier set cannot express **mis-tags silently instead of reporting** | **Every closed-set brief: *"does not fit → most conservative value + name it in the receipt"*** | **M-115** |
+> | **⭐20** | **A PATTERN SET CONTAINING THE SUBJECT'S NAME** | A 58-name `grep -f`, a regex alternation, a corpus term sweep — **not "the subject's name," so the rule did not seem to apply** | **Diff every multi-term pattern against the ALIAS SET before running it. Intersects → delegate** | **M-119** |
+> | **21** | **YOUR OWN MEMORY OF WHAT YOU READ** | *"I already read that file"* — **but you read it with a skip range, and an absence is not remembered, it is inferred** | ***READ THE EXPOSURE LEDGER BEFORE ACTING ON "I already read that."*** Write-only ledgers do not protect | **M-119** |
 >
-> ### ⚠ The register is **open, not closed.** ***Assume a thirteenth exists and that it is one step outside
+> ### ⚠ The register is **open, not closed.** ***Assume a TWENTY-SECOND exists and that it is one step outside
 > whichever control you most recently trusted.*** **When you find it, add the row.**
+>
+> > ### ⛔⛔ AND THE REGISTER'S OWN PREDICTION WAS CONFIRMED, 2026-09-03 — read this before trusting row 13
+> >
+> > **Rows 13–15 were found by Run 14, three days after row 12 was written, in a run that honored every one
+> > of the twelve rows above perfectly.** ***The thirteenth channel sat one step outside the entry that
+> > predicted a thirteenth channel would exist.***
+> >
+> > **Row 13 in particular is `Step 10.1` item 5 — *"a graph, an embedding index, a full-text search cannot
+> > honor a quarantine"* — which was already written, already binding, and read as a rule about INSTALLED
+> > INDEXES.** ***Nobody classed `grep` as a full-text search, because you type it yourself.***
+> >
+> > **So the operative warning is not "check the register."** It is: ***the control you are most confident
+> > in is the one whose next-door neighbor you have not named.***
+
+---
+
+> # ⭐⭐⭐ THE LAYERING LAW — **`01`–`05` NAME NO LOCATION, EVER.** *(Developer instruction, 2026-09-03.)*
+>
+> > **"The methodology needs to be usable for any location in any universe, real or fictional. Only the
+> > RUNBOOK and the pre-contamination file(s) should contain references to a specific, exact city…
+> > the actual derivation process portions of the ULM should not contain any references to any particular,
+> > specific location."**
+>
+> | Layer | File | May name a location? |
+> |---|---|:--:|
+> | **PROJECT** | **`00_RUNBOOK.md`** *(this file — canon registry, real paths, project rulings)* | ✅ **yes** |
+> | **PROJECT** | **`Pre-Contamination_Reviews/*`** · **`06_Worked_Example_Provenance.md`** *(manifests — naming is their function)* | ✅ **yes** |
+> | **PROJECT** | `Test_Runs/*` *(run records, archives, observations)* | ✅ yes |
+> | ⛔ **UNIVERSAL** | **`01` · `02` · `03` · `04` · `05` · `README`** | ⛔ ***NEVER*** |
+>
+> ### ⚠ THIS IS NOT A STYLE RULE. IT IS THE STRONGEST ANTI-CONTAMINATION CONTROL AVAILABLE.
+>
+> ***`CLAUDE.md` mandates `00`–`06` be read IN FULL before any location work.*** **So a location name inside a
+> rule file is not a blemish — it is a conclusion the corpus is CONTRACTUALLY OBLIGED to hand every future
+> pass on that location.** **That is leak-register row 1, and it has burned more runs than any other row.**
+>
+> | Emptying `01`–`05` of location names | Effect |
+> |---|---|
+> | **Vector 1** *(required reading)* | ***CLEAN BY CONSTRUCTION, permanently*** — the sweep has nothing to find |
+> | **Skip ranges** *(M-103)* | **unnecessary for rule files** — and the "the rule around the example leaks too" problem dies with the example |
+> | **M-82 (×5) · M-99 · M-103 · M-112 · M-119** | **the channel they share is closed at the source** |
+>
+> > ### ***Every other fix in this methodology ADDS a control. This one DELETES THE SURFACE.***
+> > **A control can fail. An absent leak cannot.**
+>
+> ### The required form — already law since 2026-08-31, simply never retrofitted
+>
+> **A rule keeps its GENERAL statement. Its worked instance moves to a per-location archive under
+> `Test_Runs/`, cross-referenced by a BARE POINTER — never quoted inline.** ***`04_QA_Gates_and_Differentiation.md`
+> already complies completely and is the model to copy.***
+>
+> **⛔ Do NOT anonymize instead of moving.** *(M-4.)* **An unnamed worked case — *"a city famous for being the
+> place people move to"* — contaminates just as effectively and REMOVES the reader's ability to know they were
+> contaminated.** ***A named example can be quarantined; an unnamed one is absorbed as general knowledge.***
+>
+> ### The mechanical check — run it before any commit touching `01`–`05`
+>
+> ```bash
+> # Build the setting's location-name list ONCE, then:
+> grep -c -F -f locnames.txt 01_*.md 02_*.md 03_*.md 04_*.md 05_*.md README.md   # every count must be 0
+> ```
+> **⚠ A DERIVER MUST NOT RUN THIS — the pattern set contains its own subject (leak-register row 20, M-119).**
+> ***It is maintenance work for a session that is not cold, or a delegated reader returning counts only.***
+
+---
 
 **Working draft, 2026-08-30. This is the operational entry point for the universal location methodology. Start
 here.**
@@ -775,6 +881,86 @@ learns *where* to look without ever being exposed to *what is there*.**
 > · if the tags are no longer in context, say so and stop.*** **A reconstructed map presented as an original
 > is unauditable.**
 
+> ### ⭐⭐⭐ A SOURCE HAS **THREE** STATES, NOT TWO. THE MISSING THIRD ONE BURNED RUN 14. *(M-112.)*
+>
+> **`§C.2` as first written offered a source exactly two fates: MAPPED (read the admissible lines) or WITHHELD
+> (do not open).** ***There was no state for the commonest situation in a real pass: "registered canon, needed
+> by a generator, nobody has mapped it, and mapping it is absurd because 99% of it concerns other
+> locations."***
+>
+> > ## ***A DERIVER THAT NEEDS A FACT AND HAS NO SANCTIONED WAY TO GET IT WILL IMPROVISE A RETRIEVAL — AND THE IMPROVISATION AVAILABLE TO IT IS THE MOST CONTAMINATING OPERATION IN THE CORPUS.***
+>
+> **Run 14 followed every rule, reached Phase 0, needed one `G3` percentage from a 3,545-line multi-city
+> sheet the runbook's own `§C.6` told it to open, and had no legal move. It ran `grep '<subject>'`.**
+>
+> | State | When | How the deriver reads it |
+> |---|---|---|
+> | **MAPPED** | 3-of-3 coordinate map exists | Slice the `ADMISSIBLE` lines *(script, never by hand)* |
+> | **WITHHELD** | Conclusion-tier, or unratified | Do not open. Opened at Step 7 as a check |
+> | ⭐ **QUERYABLE-BY-SCHEMA** | **Registered canon · needed by a generator · unmapped** | **Name the FIELDS. An isolated extractor returns those fields and nothing else** |
+> | ⭐ **REQUIRED-READ-WITH-SKIPS** | **`CLAUDE.md` mandates reading it in full** — `00`–`06`, `00b`, `00d`, `00f`, `Cultural_Synthesis_Techniques.md` | **Read in full, applying the vector-1 skip RANGES.** ⛔ **Never probe a range boundary** (M-103) |
+>
+> > ### ⚠ THE FOURTH TIER WAS MISSING FOR ~40 MINUTES AND A READER CAUGHT IT *(M-115.)*
+> > **The first Brief B dispatched under the three-state set hit required-reading files and had no legal
+> > tier for them** — *not "map it" (the deriver reads the whole file), not "withhold it" (it is mandatory),
+> > not "query it" (it needs the rules, not a field).* ***The reader tiered them conservatively as
+> > `WITHHELD` and reported the gap instead of inventing a value.*** **That is the isolation working, and it
+> > is M-93's refusal in a second costume.**
+> >
+> > ## ⭐ **THEREFORE: EVERY CLOSED-SET BRIEF CARRIES A SANCTIONED ESCAPE HATCH.**
+> > > **"If a case does not fit this set, choose the MOST CONSERVATIVE value and name the problem in your
+> > > receipt. Do not widen the set yourself."**
+> >
+> > ***A closed vocabulary with no escape hatch does not prevent bad values; it converts a reportable gap
+> > into a silent mis-tag*** — and a silent mis-tag in the `ADMISSIBLE` direction is the one unrecoverable
+> > error this whole protocol exists to prevent.
+>
+> ### The instrument already existed and was filed under the wrong problem
+>
+> ***Escalation-ladder step 3 — closed-schema extraction — is written above as yield recovery for a 2–1
+> split.*** **It is in fact the general answer to "one fact from an unmapped source," and that is a far
+> commoner need than a split range.** **Promoted here to a first-class move.**
+>
+> > **"From `<file>`, return `city`, `sector`, `percent`, `headcount` for `<subject>`.
+> > These fields only. ⛔ NO free-text field. If a value is absent, return the field with `null`."**
+>
+> **⚠ The no-free-text rule is the whole safety property** — *the moment an extractor can write a sentence,
+> it can smuggle a conclusion.* **Named fields only, from a closed list the deriver wrote.**
+>
+> ### ⭐ And this is CHEAPER than mapping, not a grudging substitute
+>
+> | | Map the file | **Query it by schema** |
+> |---|---|---|
+> | Cost | **3 readers × 3,545 lines** | **1 reader, 1 question** |
+> | Scales with | **the FILE** | ***the QUESTION*** |
+> | Yield | a map that is ~99% about other locations | exactly the fields asked for |
+>
+> ***Most registry sources should never be mapped at all. They should only ever be queried.*** **Map a file
+> when a pass must READ it; query a file when a pass must know ONE THING from it.**
+
+> ### ⛔⛔ THE PROHIBITION THIS CREATES — and it binds the DERIVER, not the reader
+>
+> ## **A DERIVER NEVER SEARCHES ANY CORPUS BY ITS OWN SUBJECT'S NAME.**
+> **Not `grep`, not `rg`, not a graph query, not a semantic index, not find-in-files.**
+>
+> **Why a name-search is not merely *a* leak but the worst available one:** **a subject's name marks every
+> place somebody wrote *about* the subject.** **Attribute-tier facts sit in *structured rows* keyed by name;
+> conclusion-tier claims sit in *prose* whose topic is the name.** ***One query returns both, and returns them
+> ranked by relevance to your own subject — which is precisely the ranking a quarantine exists to prevent.***
+> **A random window of Run 14's file would almost certainly have been clean. The name-scoped window was ~40%
+> conclusion-tier.**
+>
+> **Stated as a positive format, per M-94** *(a bare negative is silently unsatisfiable)*:
+>
+> | ❌ Unsatisfiable negative | ✅ Positive format |
+> |---|---|
+> | *"Don't read the conclusions in that sheet"* | **"Dispatch a schema extractor. Fields: …. No free-text field."** |
+> | *"Search carefully"* | **"Search by STRUCTURE"** — table header, section number, column anchor |
+> | *"Open only what you need"* | **"Name the FACT; a reader returns the FIELD"** |
+>
+> **⭐ The one name-search that stays legal is the quarantine check — `grep -ril`, FILENAMES ONLY, never
+> `-n`.** **It classifies nothing, so it needs no content (M-91).**
+
 **⭐ Return BOTH maps, not just the safe one.** **The `WITHHELD` list is the more valuable half** — it is a
 **quarantine map**, and knowing *"lines 60–74 are conclusions"* tells the runner nothing about what they say
 while telling it exactly what not to open.
@@ -955,7 +1141,12 @@ defect)*.
 | **DRAFT** | Exists, `Status: DRAFT` | **Do NOT reuse.** It is unconfirmed — finish it: resolve every non-unanimous range down the escalation ladder, complete any unswept vector, then confirm |
 | **✅ CONFIRMED** | Exists, `Status: CONFIRMED`, **and the pin verifies** | ***REUSE IT. Skip the reader dispatch entirely and proceed to the cold run.*** **This is the developer's own stated purpose for the mechanism** |
 
-### ⚠ `CONFIRMED` is a high bar. All five, or it stays `DRAFT`
+### ⚠ `CONFIRMED` is a high bar. All **SIX**, or it stays `DRAFT`
+
+> **⭐ Requirement 6 added 2026-09-03 after Run 14.** ***A review meeting all of the original five was
+> `CONFIRMED`, pinned, verified — and still handed its deriver a spine-level leak, because every one of the
+> five is scoped to a file list and none of them asks whether the list is complete.*** **Five out of six is
+> the exact state that burned it.**
 
 1. **All four `Step −2` vectors swept** — required reading · memory · file tree · and the union reviewed as a
    set, not item by item.
@@ -966,6 +1157,14 @@ defect)*.
    omit and fatal to omit.)*
 5. **The tagging is attributed** — how many readers, when, under which contract version. ***"Confirmed" with
    no evidence behind it is exactly the assertion `Step 10` exists to forbid.***
+6. ### ⭐⭐ **THE REGISTRY IS ENUMERATED, THE SCOPE PIN IS TAKEN, AND EVERY SOURCE CARRIES A TIER.**
+   **A Brief-B registry scout has walked every root in `§B`, `§C`, `§C.1`, `§C.6`, `§D`; the per-root
+   `grep -ril` file counts are recorded as the scope pin; the inventory pin *(dir · files · min/max lines)* is
+   recorded; and every source holding subject material is tiered `MAPPED` · `WITHHELD` ·
+   `QUERYABLE-BY-SCHEMA`.**
+   > ***Requirements 1–5 prove the mapped files are mapped correctly. Only requirement 6 asks whether they
+   > are the right files.*** **A review satisfying 1–5 alone is not `CONFIRMED`; it is `CONFIRMED-IN-SCOPE`,
+   > and its scope is unstated — which is exactly how a deriver reads it as complete.**
 
 ### ⚠⚠ THE PIN — why a confirmed review goes stale silently, and how to catch it
 
@@ -993,6 +1192,63 @@ done < PIN.txt
 **On any `STALE` row: the review demotes to `DRAFT`** — **but only for the files that actually moved.**
 ***Re-tag the changed files; do not rebuild the whole review.*** **A partial rebuild is cheap and keeps the
 mechanism worth having.**
+
+> ### ⛔⛔ THE PIN HAS A SECOND HALF, AND ITS ABSENCE BURNED RUN 14 *(M-112, 2026-09-03)*
+>
+> ***The hash pin answers "did these files MOVE?" It cannot answer "are these the RIGHT files?"***
+>
+> **A review's scope is an enumerated LIST. The canon registry is a RULE — *open whatever supplies your
+> generators*. A rule's extension grows; a list's does not.** ***So a source that JOINS the corpus is
+> invisible to the pin, and the review keeps reporting `CONFIRMED` while its coverage silently rots.***
+>
+> **Run 14's review pinned three files. Its pin verified, exactly. `101` further hit-lines naming the subject
+> sat across `18` unmapped files in three registered sources — one of which `§C.6` had registered as required
+> `G3` supply the same morning.**
+>
+> ## THE SCOPE PIN — one command, and it closes the hole
+>
+> **Record at build time, and RE-RUN IT ON REUSE:**
+>
+> ```bash
+> # Scope pin. Counts FILENAMES ONLY — never -n, never content. (M-91)
+> grep -ril "<subject>" <each registry root> | wc -l
+> ```
+>
+> ```
+> SCOPE-PIN 2026-09-02
+> Cities/            | 14
+> Division_of_Industry/ |  7
+> City_Master_Reference/ | 5
+> Background-Lore/   | 13
+> TOTAL              | 39
+> ```
+>
+> > ***A COUNT THAT HAS RISEN MEANS A SOURCE JOINED, AND THE REVIEW IS `DRAFT` AGAIN*** — exactly as a moved
+> > hash means a file changed. **Same demotion rule; same partial rebuild.**
+>
+> ### ⚠ And the trap inside this fix, named so the next channel is not this one wearing a hat
+>
+> ***The scope pin is a CHANGE detector, not a COVERAGE PROOF.*** **It tells you a source joined since the
+> review was built. It cannot tell you a source was always there and was simply never mapped** — which was
+> true of three of Run 14's four rows. **Coverage requires ENUMERATING THE REGISTRY at build time, which is
+> this section's real scope and has never once been run at that width.**
+>
+> ### ⭐ The inventory pins too *(M-113)*
+>
+> **The `§3` sanitized inventory is prose beside the pin, carries no hash, and is *the artifact a cold
+> deriver trusts most* — because `§C.2` rule 3 forbids it from running its own `ls` to check.**
+>
+> **⚠ The instance that first motivated this fix was RETRACTED (M-113): a deriver claimed an inventory row
+> was wrong, and the deriver's own `wc -l` had misread a `total` row.** ***The fix survives the retraction and
+> is arguably better justified by it*** — **the episode proves the failure runs in BOTH directions: an
+> inventory can be wrong, or a deriver can wrongly believe it is and strike out a correct line.** **Neither
+> party can check the other without the pin.**
+>
+> > ***A cold run is told to trust the inventory INSTEAD of looking. That makes its accuracy load-bearing —
+> > and it was the one part of the review with no verification mechanism at all.***
+>
+> **So the inventory's own numbers go under the pin:** one row per listed directory,
+> `<dir>|<file count>|<min lines>|<max lines>`, **verified by the same script that checks the hashes.**
 
 ### ⚠ The objection this will draw, answered in advance
 
@@ -1156,6 +1412,33 @@ holds ~14 rows of scaffolding)*. **`CLAUDE.md` requires the differentiation tabl
 BEFORE writing a category and the city's column added in the SAME COMMIT.** ***A location pass touching
 industry must check whether this table has been filled for its subject, and fill it if not.***
 
+### ⛔⛔ TIER RULING — **`QUERYABLE-BY-SCHEMA`. NEVER `grep` THIS FOLDER BY YOUR SUBJECT'S NAME.**
+
+**Added 2026-09-03, the day after this section was written, because a cold run followed it and was burned by
+it within the hour** *(M-112)*.
+
+> ***This section registered an ADDRESS and an obligation. It did not register a TIER — and a registry row
+> that gives an address with no admissibility ruling is an instruction to read blind.***
+
+**`16_Per_City_Three_Tier_Run.md` is 3,545 lines covering all 37 cities.** **Its per-city rows are `G3`
+attribute-tier and genuinely admissible. The prose around them is not** — it carries developmental-arc claims,
+inter-sector mechanisms, cross-city comparatives and category signatures. ***A name-scoped `grep` returns both,
+ranked by relevance to your subject.*** **Run 14's did: ~40% conclusion-tier, including two spine items.**
+
+| ✅ Do this | ⛔ Never this |
+|---|---|
+| **Dispatch Brief C** *(`COLD_RUN_CHECKLIST.md`)* — fields `sector`, `percent`, `headcount`, `burden`, `tier`; **no free-text field** | `grep '<subject>' 16_Per_City_Three_Tier_Run.md` |
+| **Anchor to STRUCTURE** — the Half B table header, a column index | Any search keyed to the subject's name |
+
+**⚠ This ruling binds every bulk multi-location source, not only this folder** — `City_Master_Reference/`,
+the census, the differentiation tables, `Highways.md`, `Airports.md`. ***The property that makes a source
+dangerous is not its subject matter; it is that it is ORGANIZED BY LOCATION NAME, which makes the subject's
+name a perfect index into everything anyone concluded about it.***
+
+> ### The standing obligation this creates for the registry itself
+> **Every row in `§B`–`§D` carries a TIER, added in the same commit as the address.** **The columns are:
+> address · what it supplies · reliability carve-out · ⭐ TIER.** ***An un-tiered row is an open door.***
+
 ### ⚠ HOW TO ADDRESS THE PER-CITY FIGURES — there is no per-city file, and expecting one wastes a pass
 
 **Checked 2026-09-03.** ***There are NO individual per-city division-of-industry files.*** **All 37 cities'
@@ -1183,11 +1466,139 @@ THE 37-CITY RUN" section carries the per-city results.**
 `05` §6.1's Column 3:** *"Admissible but self-originated. Use it — you are usually obliged to. **But tag
 every finding that rests on it**, because it is corroboration rather than independent confirmation."*
 
+## C.7 ⭐ THE SYMBOL-SYSTEM REGISTER — **moved here from `02` §6.4, 2026-09-03, per the LAYERING LAW**
+
+**`02` specifies the register's SHAPE, which is universal. The actual register names actual files, member
+counts and locations — project data, and therefore this file's.** **Assess any system with `02` §6.2 before
+relying on it, and read every member's terms from its own file, never from the name (`02` §6.0).**
+
+| System | Where | Cardinality | Shape | Notes |
+|---|---|---|---|---|
+| **Zodiac Personality Substrate** | `../Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **Second, non-assignment use-mode for ANY location:** `../Cultural_Synthesis_Techniques.md`'s **Zodiac Lens** — twelve signs as non-binding interrogation prompts, **never as an assignment, and never referencing Concordia's completed district content** |
+| **Planetary Symbols** | `.../Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 10 members; one-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired** |
+| **Robot Elementals** | `.../City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members, positive/negative, **Wu Xing correspondences on five.** ⏸️ **See the gap below** |
+| **Planet + Element** | `.../City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use `02` §6.3** |
+| **Subnet Elementals / Six Perfections** | `../../Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md` | 1–2 per subnet | THIN→PAIRED | Subnet scale. **Do not cross-apply to city scale** |
+
+> ### ⛔⛔ ALL 34 CITY ASSIGNMENTS ARE PROVENANCE-DOWNSTREAM OF A PERSONALITY READ — `05` §6.1c
+> **`City_Symbol_Assignments.md` states in its own header that every assignment was *"derived from each city's
+> own established personality."*** ***So G1 is corroboration-tier for those cities, never an independent
+> generator.*** **Usable: the assigned MEMBERS, and their definitions from the system files. NOT usable: any
+> *rationale* column — those are capability verdicts wearing an index's clothing.**
+> **Worked pairing reads are archived at `Test_Runs/Worked_Examples_Archive/` and are withheld from cold runs.**
+
+> ### ⏸️ THE WU XING GAP — the highest-value addition available to the existing systems
+> **The five have generating and overcoming cycles in the actual tradition** — Wood feeds Fire, Fire makes
+> Earth, Earth bears Metal, Metal carries Water, Water nourishes Wood, plus the overcoming cycle running the
+> other way. ***Those cycles are cross-relations and they are NOT documented in `Robot_Elementals.md`.***
+>
+> **Documented, the element system moves THIN → RICH for its five Wu Xing members and supplies inter-city
+> geometry** — the direct equivalent of the zodiac's oppositions and squares, which is the only instrument in
+> the district folder that generates inter-location relationships at all.
+>
+> **A documentation task, not a design task** — the cycles are fixed by the tradition. **Flagged, not done:**
+> it changes a canon reference file *(developer decision)* and **needs a ruling on how Air, Electricity and
+> Electromagnetism relate to a five-member cycle they are not part of.**
+
+## C.8 ⭐ PROJECT FRAME DATA — **moved here from `01` and `03`, 2026-09-03, per the LAYERING LAW**
+
+**`01` §4 specifies what a frame declaration DOES; `03` §0.3 specifies which CLASS of canon each phase must
+open. Both are universal. The actual eras, dates and addresses are project data and live here.**
+
+### C.8a — The setting's eras
+
+| Era | Dates |
+|---|---|
+| **First Interwar** | 2083–2564 |
+| **Second Interwar** | **2564–2812** ⭐ *(the default frame — see below)* |
+| **The Long Night War** | 2812 |
+| **The present** | ~2822–2827 |
+| DLC-specific windows | per DLC |
+
+> ### ⭐ **THE DEFAULT FRAME IS THE SECOND INTERWAR PERIOD (2564–2812).**
+> **A location pass defaults to the pre-war baseline — before the Long Night War, before Amundsen Tower's
+> destruction — NOT to the post-war present.** *(Developer instruction, 2026-08-31; full reasoning at
+> `01` §4.1.)*
+>
+> **⛔ THE STANDING EXCEPTION: Concordia's thirteen districts are correctly written POST-WAR**, because their
+> whole civic identity is a post-war formation and a pre-war pass on them would answer the wrong question.
+> ***The default governs everywhere else*** — the 35 outer cities, highways, structures, natural features,
+> anything whose identity was not itself produced by the war.
+>
+> **⚠ And `Specs/` "Status:" fields are POST-WAR.** *("Damaged; partially operational," etc.)* ***They are
+> never an input to a Second Interwar pass.***
+
+### C.8b — Worked type assignments *(the taxonomy in `01` §1.1, made concrete)*
+
+| Location | Type |
+|---|---|
+| A Concordia district *(e.g. Cancer)* | Settlement |
+| **Vostok** | **Settlement + Installation** — a research station that became a place people are from. ⭐ **The dual assignment is the finding**; everywhere founded as a station and now inhabited as a home carries it |
+| Highway 37 | Corridor |
+| **Amundsen Tower** | **Structure**, modifier *ruined*. Formerly Structure + Installation |
+| The Tepenian Federation | Polity, Band 6 |
+| A Halley-subnet Arcanet region | Network locus |
+| **Concordia's Hub (Axis Mundi)** | ⭐ **Interstitial** — the type the district methodology had no name for, and why the Hub broke its Step 2: no capability row, no element, no modality, no aspects. **A real type, not a defective settlement** — `01` §1.3 |
+| An O'Neill Cylinder | Settlement + *enclosed*, *orbital* |
+
+### C.8c — Per-phase canon addresses *(the classes are in `03` §0.3)*
+
+**U** = universe repo *(§B)* · **P** = this project *(§C)*.
+
+| Phase | Address |
+|---|---|
+| **0** | **U** `Repo_Scope.md` *(once)* · `Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
+| **1** | **U** `Worldspace/Locations/` · **P** `Specs/`, climate data, `Energy_Grid_Failure_Rationale.md`, physical infrastructure · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures (§C.6). `QUERYABLE-BY-SCHEMA`; never `grep` it by subject name** |
+| **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding, GPS facts only** · `Falkland_Treaty/` · **P** `Official_Population_Census.md`, diaspora/affinity files |
+| **3** | **P** climate data, `Specs/`, physical infrastructure attributes, concept art |
+| **4** | **P** `City_Logistics.md`, `Robot_Biology_and_Culture/`, `National_Economy_and_Currency.md` |
+| **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` |
+| **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief** · `National_Holidays.md` · **the deferred mortuary question — do not answer it** |
+| **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
+| **8** | **P** ⚠ **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
+| **9** | **U** ⚠ **`Laws_of_Robotics.md`** · **`Robot_Universals/`** *(four parts)* · `Doll_Representation_Categories.md` · **P** human-robot relations baseline |
+| **10** | **U** `Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **the no-invented-person-names rule** |
+
+> ### ⛔⛔ `§C.6` RECURRED ONE LEVEL DOWN — found 2026-09-03 by a direct developer check *(M-121)*
+> **`§C.6` exists because the division-of-industry folder sat in this runbook *"only as an OBLIGATION, never
+> as an ADDRESS,"* so a pass following the registry would never have found it.** ***It was then registered in
+> §C — and omitted from the per-phase table a pass actually consults while writing.***
+>
+> **A Phase 7a pass reading this table would have seen the economy and logistics files and never reached the
+> strongest `G3` supply in the project.** ***Registered globally is not registered at the point of use.***
+> **Fixed in the rows above. ⚠ Check every §C row appears in at least one phase row.**
+
+**Two standing reminders:** **`Reference/Real-World/Book_Extraction_Index.md` before mining any book** *(it
+exists because a book was twice assessed as unmined when it was not)*, and **check against the source, never
+against the last pass that cited it.**
+
 ## D. Sibling projects — check for cross-series consistency, do not port
 
-`games/Outer Tepenia series/` *(OT1 · OT2 · New Centauri)* · TheCryptographHelixDD · SouthernLights ·
-CurrentNovelDocs. **Shared facts belong in the universe repo, not copied between projects.** If a location pass
-produces something that binds a sibling project, that is a rank-1 question and goes upstream.
+> ### ⛔ **PATHS, NOT NAMES — corrected 2026-09-03 (M-117).** This row used to read *"`games/Outer Tepenia
+> series/` · TheCryptographHelixDD · SouthernLights · CurrentNovelDocs"* — **one path followed by three bare
+> names, in a list whose first item establishes `games/` as the tree.** ***One of them is not in that tree,
+> and it holds 49 files naming a single subject.***
+>
+> **This is Gate C's own recorded failure, inside the registry Gate C sends you to:** *"'Repo-wide' sounds
+> exhaustive and is not… **Name the paths, or the negative result does not count.**"* **A pass searching the
+> implied tree gets a confident zero from a directory that structurally cannot hold the answer.**
+
+**Absolute paths, all verified to exist 2026-09-03:**
+
+| Project | Path |
+|---|---|
+| Outer Tepenia *(OT1 · OT2 · New Centauri)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Outer Tepenia series/` |
+| TheCryptographHelixDD | `/home/kuroskalacs/Documents/Doll-Fi/media/games/TheCryptographHelixDD/` |
+| SouthernLights | `/home/kuroskalacs/Documents/Doll-Fi/media/games/SouthernLights/` |
+| **CurrentNovelDocs** | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/`** — **NOT under `games/`** |
+
+**Shared facts belong in the universe repo, not copied between projects.** If a location pass produces
+something that binds a sibling project, that is a rank-1 question and goes upstream.
+
+> **⚠ Standing obligation for every registry row in `§B`–`§D`: an ABSOLUTE PATH, verified to exist, plus a
+> TIER.** ***A name is not an address, and an address is not an admissibility ruling.*** *(This is the same
+> defect `§C.6` was written to fix — a source present as an obligation but never as an address — recurring
+> two sections later.)*
 
 ## E. The four-question canon check — run at every phase
 
@@ -1446,7 +1857,7 @@ a gap to close.
 3. Update whatever tracker claims completion — **per Gate 0, list what the file actually contains, not a summary
    claim.**
    > ### ⛔ **BUT PUT THE FINDING IN THE OBSERVATIONS LOG, NOT IN THE TRACKER.** *(M-109.)*
-   > **Gate 0's concern is OVERCLAIMING COMPLETION. It is not a licence to write substance into a queue.**
+   > **Gate 0's concern is OVERCLAIMING COMPLETION. It is not a license to write substance into a queue.**
    > ***A tracker entry is: what remains to be done, one line, plus a pointer to where the detail lives.***
    > **The finding itself goes to `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` and nowhere else.**
    > **If you have written more than ~3 lines into a tracker, you are writing in the wrong file.**

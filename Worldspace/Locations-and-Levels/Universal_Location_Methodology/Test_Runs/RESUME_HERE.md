@@ -1,56 +1,89 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
-> # 🔺🔺🔺 NEXT ACTION — **RUN SHIRAYUKI, COLD.** Everything is prepared.
+> # 🔺🔺🔺 NEXT ACTION — **RUN SHIRAYUKI, COLD.** The review is `CONFIRMED` and the setup is paid for.
 >
 > ### ⛔ **OPEN `COLD_RUN_CHECKLIST.md` (this folder) AND DO IT. Read nothing else first — not even the rest of this file.**
 >
-> **One page, executable, ~1 minute.** ***Two consecutive runs were burned before writing a single phase.
-> Both died performing a safety check.*** **The checklist exists so you do not repeat that.**
+> **One page, executable.** ***THREE runs have now been burned before writing a phase.*** **All three died
+> performing, or immediately after, a safety check.** **The checklist carries a temporary diagnostic box
+> asking you to watch one specific moment — step 7½.**
 >
-> ### Why this run is cheap — the expensive half is already done
+> ## ⚠⚠ RUN 14 (2026-09-03) WAS BURNED — and the corpus is materially safer because of it
 >
-> **`Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md` is `CONFIRMED` and pinned.**
-> **Coordinates-only, safe to read in full.** ***Verify its pin, then skip the entire reader-dispatch stage
-> and go straight to reading the rules and starting Phase 0.***
+> **It honored a `CONFIRMED`, pinned, 3-of-3 review perfectly, skipped both flagged ranges, probed neither
+> boundary, ran no `ls`, and read the mapped files only through an extraction script.** ***It was contaminated
+> anyway, at Phase 0, by one `grep` of its own subject's name in a file `00_RUNBOOK.md` §C.6 had just told it
+> to open.***
 >
-> | Already done for you | |
+> > ## ***A NAME-SCOPED SEARCH IS A CONCLUSION-SEEKING INSTRUMENT. `grep '<subject>'` IS a retrieval layer you assemble by hand.***
+>
+> **The danger point is the transition from MAPPED sources to REGISTRY sources.** **It happens inside Phase 0,
+> it feels like continuing to gather inputs, and nothing announces it.** **Six-link mechanism: M-112.**
+>
+> ### ✅ State now — **everything below is DONE, not pending**
+>
+> | | |
 > |---|---|
-> | All four `Step −2` vectors | ✅ swept and closed |
-> | Coordinate map, 3 files | ✅ **3-of-3 unanimous**, 45.4% admissible |
-> | Required-reading skip ranges | ✅ **exact** — `02` **340–378**, `05` **180–250**. Skip those, read the rest normally |
-> | Memory | ✅ scanned; 5 entries banded |
-> | Typicality declaration | ✅ written — **Shirayuki is a best-case subject; say so** |
+> | **Shirayuki review** | ✅ **`CONFIRMED`** against the **new SIX-requirement bar** *(`§C.4` req 6 = registry enumerated · scope pinned · every source tiered)* |
+> | Coordinate map 1 — 3 city files | ✅ 3-of-3, **45.4%** admissible · pin verifies |
+> | **Coordinate map 2 — 14 registry files** | ✅ **3-of-3, 57.0% admissible**, 3,056 lines · pinned · split rate 17.3% recorded |
+> | Registry scope | ✅ **34 of 34 roots**, no omissions — **510 files** name the subject or its alias |
+> | ⭐ **Required-reading skip ranges** | ✅ **RETIRED. There are NONE.** `01`–`05`+README name **no location at all** |
+> | Memory · typicality | ✅ 5 entries banded; **best-case subject — say so.** ⚠ **re-run vector 2 across the ALIAS set** *(§8d — 38 → 51 entries)* |
 >
-> ### ⚠ Two things that will bite you if you improvise
+> ### ⭐⭐ WHY THERE ARE NO SKIP RANGES ANY MORE — the biggest change in this methodology to date
 >
-> 1. ***Do not read beside a skipped range to see where it ends.*** **That is exactly how Run 13 died.**
->    The ranges above are exact; trust them.
-> 2. **Do not `ls`/`find` Shirayuki's folders.** **Filenames are conclusions in this corpus.** The review's
->    §3 already gives you a sanitized inventory.
+> **The developer's LAYERING LAW** *(`00_RUNBOOK.md`, top)*: ***`01`–`05` and `README` name NO location,
+> ever*** — worked instances live in `Worked_Examples_Archive/`, reached by bare pointer.
 >
-> **Record of prior runs: `RUN_LOG.md`. Findings: `OBSERVATIONS_and_Methodology_Findings.md` M-87–M-109.**
+> **Given as a PORTABILITY rule. It is also the strongest anti-contamination change ever made here.**
+> **`CLAUDE.md` mandates the rule files be read in full — so a location name in one was a conclusion the
+> corpus was *contractually obliged* to hand every future pass on that location.** ***Vector 1 is now clean by
+> construction: the sweep has nothing to find.*** **Every other fix adds a control; this one deleted the
+> surface.**
+>
+> ### ⚠ Three things that will bite you if you improvise
+>
+> 1. ***Never search by your own subject's name*** — **including inside a name LIST, a regex alternation or a
+>    `grep -f` file** *(M-119: the session that wrote this rule broke it 40 minutes later)*. **Only legal
+>    name-search: `grep -ril`, filenames only.** Need a fact from an unmapped source? **Brief C.**
+> 2. ***"I already read that file" is not a safety argument.*** **You read it WITH A SKIP RANGE. An absence is
+>    not remembered — it is inferred.** **OPEN THE EXPOSURE LEDGER.**
+> 3. **Do not `ls`/`find` the subject's folders.** **Filenames are conclusions in this corpus.**
+>
+> ### ⭐ Run 14 banked real, uncontaminated work — inherit it, do not re-derive it
+> **`2026-09-03_Shirayuki_Run14_Cold/00_RUN_STATUS.md` §4** — Tier 0 block, six-generator enumeration *(G1
+> tagged `[SELF-ORIGINATED]`)*, frame calls, **and a 33-city retention z-score table**: the subject at
+> **z = −1.26** against cluster neighbors at **+1.41** and **+0.76**, 1–2 km apart, **with G2 and G4 held
+> constant by construction.** **All derived before the leak; all attribute-tier.**
+>
+> **Record of prior runs: `RUN_LOG.md`. Findings: `OBSERVATIONS_and_Methodology_Findings.md` M-87–M-124.**
 
 > # ⛔⛔⛔ BEFORE ANYTHING: `00_RUNBOOK.md` OPENS WITH `Step −2` AND A **LEAK REGISTER**. CHECK IT.
 >
 > **Two runs were burned in two days — Run 12 before Phase 0, Run 13 twenty minutes after opening it.**
-> **Twelve contamination channels are now catalogued as a checklist.** ***Check the register. Do not
+> **NINETEEN contamination channels are now cataloged as a checklist.** ***Check the register. Do not
 > re-derive it.***
 >
 > ### ⭐ The law they cost, M-104: **THE PROTECTION OPERATES AT LEVEL N; THE LEAK ARRIVES AT LEVEL N+1.**
 >
-> ***Not one of the twelve was a channel nobody had considered. Every one sat exactly one step of indirection
+> ***Not one of the nineteen was a channel nobody had considered. Every one sat exactly one step of indirection
 > outside a control that was working correctly.*** `§C.2` guarded delegated reading → the leak came through
 > **required** reading. *"No headings"* → **filenames**. *"Skip the flagged line"* → **the paragraph
 > explaining it**. *"Verify the boundary first"* → **the verification was the exposure.**
 >
 > **A fix written while being bitten is shaped like the bite.** It closes its channel correctly and cannot see
 > one step further out. ***A control creates a boundary; a boundary creates an outside; the outside is where
-> the next leak is.*** **Assume a thirteenth exists, one step outside whatever you most recently trusted.**
+> the next leak is.*** **Assume a TWENTIETH exists, one step outside whatever you most recently trusted.**
 >
-> ### ✅ And two things are READY, not lost:
-> **`Pre-Contamination_Reviews/Casey_…` and `Shirayuki_…` are both built** — Shirayuki's is **`CONFIRMED`,
-> pinned, coordinates-only, with corrected skip RANGES.** ***A fresh session inherits either and derives cold
-> immediately, paying none of the prior sessions' cost*** (`§C.4`).
+> > ### ⭐ AND THE PREDICTION WAS CONFIRMED. **This box used to say "assume a thirteenth."**
+> > **Run 14 found rows 13–19 the next day, while honoring all twelve.** ***The thirteenth channel sat one
+> > step outside the entry predicting a thirteenth channel would exist.***
+>
+> ### ⛔ PARTLY SUPERSEDED 2026-09-03 — the box below is HISTORY
+> **Shirayuki's review is `CONFIRMED` again, now against the six-requirement bar** *(see the top box)*.
+> ***Casey's remains `DRAFT`*** — it predates `§C.4` requirement 6, and cannot be inherited as a clearance
+> until its registry scope is discharged with a Brief B scout.
 
 > # 🔺🔺 NEXT ACTION — RUN 13: CASEY, COLD. **RE-HANDED OFF 2026-09-02 AFTER RUN 12 WAS BURNED.**
 >

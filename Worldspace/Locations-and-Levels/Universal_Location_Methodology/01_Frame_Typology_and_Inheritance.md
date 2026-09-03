@@ -7,7 +7,7 @@
 **every one of them changes what the later phases are even asking.** The district methodology never needed this
 step: all thirteen districts are the same type, the same scale band, the same inhabitation status, the same era,
 and the same nesting position. **Every one of those constants becomes a variable the moment the methodology
-leaves Concordia**, and a phase question that was unambiguous for a district becomes ambiguous or meaningless
+leaves that one setting**, and a phase question that was unambiguous there becomes ambiguous or meaningless
 without a declaration.
 
 The five declarations are **Type**, **Scale Band**, **Status**, **Frame**, and **Position**. They go at the head
@@ -34,21 +34,18 @@ optional, and which are meaningless. The modifiers each add specific obligatory 
 | **Network locus** | Real, addressable, and non-physical | *Where is it, if it is nowhere?* |
 | **Interstitial** | Defined by what it is between and by not being those things | *What is a place whose entire character is that it is not the places around it?* |
 
-**Worked assignments from this project**, to make the taxonomy concrete rather than abstract:
+**Two assignment patterns worth recognizing, stated without instances** *(worked assignments for this project
+are in `00_RUNBOOK.md` §C.8)*:
 
-- Concordia's **Cancer** — Settlement.
-- **Vostok** — Settlement + Installation (a research station that became a place people are from). **The dual
-  assignment is the finding**: everywhere in Tepenia founded as a station and now inhabited as a home carries
-  this doubling, and the tension between "staffed" and "settled" is a live source of material.
-- **Highway 37** — Corridor.
-- **Amundsen Tower** — Structure, modifier *ruined*. Formerly Structure + Installation.
-- **The Tepenian Federation** — Polity, Band 6.
-- **A Halley-subnet Arcanet region** — Network locus.
-- **Concordia's Hub (Axis Mundi)** — **Interstitial.** This is the type the district methodology had no name
-  for, which is precisely why the Hub broke Step 2: it has no capability row, no element, no modality and no
-  aspects, and the district procedure returns nothing for it. **Interstitial is a real type, not a defective
-  settlement**, and §1.3 gives it its own procedure.
-- **An O'Neill Cylinder** — Settlement + modifiers *enclosed*, *orbital*.
+- ### ⭐ **A DUAL ASSIGNMENT IS ITSELF A FINDING.**
+  **Anywhere founded as an installation and now inhabited as a home carries `Settlement + Installation`**, and
+  ***the tension between "staffed" and "settled" is a live source of material*** rather than a labelling
+  awkwardness. **Expect this doubling wherever a setting's history includes purpose-built outposts that
+  outlived their purpose.**
+- ### ⭐ **A TYPE THE PARENT METHODOLOGY LACKED IS WHY `Interstitial` EXISTS.**
+  **A location that returns *nothing* from every substrate-driven step — no capability row, no assigned
+  member, no modality — is not a defective settlement.** ***It is very often an Interstitial, and §1.3 gives
+  it its own procedure.*** **Read a total null as a type signal, not as a thin location.**
 
 ## 1.2 The modifiers
 
@@ -56,13 +53,13 @@ Each adds obligatory questions. A location may carry several.
 
 | Modifier | The questions it forces |
 |---|---|
-| **Enclosed** *(sealed, domed, pressurized, subterranean)* | What is the failure mode of the envelope, and who thinks about it? What does the volume being finite do to disposal, noise, smell, privacy, and burial? *(Concordia's mortuary problem is exactly this modifier's question, and it is still open.)* |
+| **Enclosed** *(sealed, domed, pressurized, subterranean)* | What is the failure mode of the envelope, and who thinks about it? What does the volume being finite do to disposal, noise, smell, privacy, and burial? *(A setting with a sealed flagship location will usually find its disposal-of-the-dead question sitting here, unanswered.)* |
 | **Orbital / extraplanetary** | What is the relationship to gravity, to the surface, and to resupply? What is the return trip, and who never takes it? |
 | **Mobile** | What is fixed when the place is not? What does arrival mean for somewhere that arrives? |
 | **Ruined / abandoned** | Who left, how fast, and what did they not take? Who is here now who is not a resident? What does the ruin testify to that its living version would have concealed? |
 | **Contested** | Whose account of this place is the pass writing? **Two passes may be required, and disagreeing is the correct outcome.** |
 | **Seasonal / rotational** | Which population is the subject — the winterers or the summer crew? What does the place do when nobody is here? |
-| **Resettled** | What did the second population inherit, misread, or fail to notice about the first? *(Byrd, Esperanza and Casey all carry this modifier and it is under-used on all three.)* |
+| **Resettled** | What did the second population inherit, misread, or fail to notice about the first? *(Commonly assigned and systematically under-used — check every location carrying it.)* |
 | **Restricted / sacred** | Who may not enter, who decides, and what does exclusion cost the excluded? |
 
 ## 1.3 The Interstitial procedure — the type the district methodology had no answer for
@@ -256,21 +253,20 @@ pre-war* character, and had to be re-derived.
 
 **Declare:** the era or the inference behind it, and **the relationship to adjacent eras.**
 
-Tepenia's frames, for reference: First Interwar (2083–2564) · Second Interwar (2564–2812) · the Long Night War
-(2812) · the present (~2822–2827) · and any DLC-specific window.
+*(This project's own era list, dates and standing exceptions: `00_RUNBOOK.md` §C.8.)*
 
 **Three rules:**
 
 1. **One frame is the subject.** Other eras appear as history or as anticipation, never as undeclared mixture.
 2. **A location may need multiple passes at different frames**, and they are separate documents, not one
-   document hedged across time. Concordia's districts are written post-war; the outer cities are written
-   pre-war; **these are different instruments pointed at different objects and should not be merged.**
+   document hedged across time. A setting may legitimately write one sub-set post-event and another pre-event;
+   **these are different instruments pointed at different objects and should not be merged.**
 3. **The two-stage lens carries over.** `00b_Two_Stage_Methodology.md`'s distinction between a long organic
    founding period and a later pressure period generalizes to any location with a founding era and a crisis era.
-   **Ask of the built environment specifically: is there a visible seam?** That question produced Cancer's
-   Finding VIII and it is portable to anywhere that has been through a bad decade.
+   **Ask of the built environment specifically: is there a visible seam?** That question has produced a
+   headline finding on a real pass and is portable to anywhere that has been through a bad decade.
 
-### ⚠ 4.1 THE DEFAULT FRAME IS NEUTRAL — added 2026-08-31, developer instruction, Highway 37 Run 6
+### ⚠ 4.1 THE DEFAULT FRAME IS NEUTRAL — added 2026-08-31, developer instruction
 
 **Developer's own words, given directly after an early draft of Run 6 defaulted, unasked, to the post-war
 present:** *"remember that all of this is assumed during the Second Interwar Period. Do not embed post-war
@@ -282,25 +278,25 @@ exist by their own merit on their own terms, and any and all 'perspectives' from
 later, using the neutral explorations as a baseline."*
 
 **The rule, stated plainly:** **absent a specific reason to do otherwise, a location pass defaults to the
-Second Interwar Period baseline — before the Long Night War, before Amundsen Tower's destruction — not to the
-post-war present.** This is a *default*, not a prohibition on ever writing post-war: Concordia's districts are
-correctly written post-war per rule 2 above, because their whole civic identity is a post-war formation and a
-pre-war pass on them would be answering the wrong question. **The default exists for everywhere else** — the
-35 outer cities, highways, structures, natural features, anything whose own identity was not itself produced by
-the war.
+setting's LAST FULLY-FUNCTIONING ERA — the baseline before its defining catastrophe — not to the damaged
+present.** This is a *default*, not a prohibition on ever writing the post-event state: **a sub-set whose whole
+civic identity IS a post-event formation is correctly written post-event**, because a pre-event pass on it
+would be answering the wrong question. **The default exists for everywhere else** — every location whose own
+identity was not itself produced by the catastrophe.
+*(This project's specific era dates and its standing post-event exception: `00_RUNBOOK.md` §C.8.)*
 
 **Why this is a real error and not a stylistic preference.** A pass that defaults to "now" without being asked
 to is quietly assuming the post-war condition is the location's *baseline* self, when for most locations it is
-instead a later, specific perspective layered on top of one. **A location's neutral, pre-war baseline is more
-fundamental than its post-war state** — the post-war state is what happened *to* the baseline, not a replacement
-for needing one. Writing the post-war condition first, without the baseline underneath it, produces a location
-whose "character" is actually just "what the war did to it," with nothing established about what it was like on
-its own terms beforehand. **A post-war examination built without this foundation has nothing to measure the war
-against.**
+instead a later, specific perspective layered on top of one. **A location's neutral, pre-event baseline is more
+fundamental than its post-event state** — the post-event state is what happened *to* the baseline, not a
+replacement for needing one. Writing the damaged condition first, without the baseline underneath it, produces
+a location whose "character" is actually just "what the catastrophe did to it," with nothing established about
+what it was like on its own terms beforehand. **A post-event examination built without this foundation has
+nothing to measure the event against.**
 
 **What this means procedurally, for the Temporal frame line of the declaration block:**
-1. **Default to the Second Interwar Period** (2564–2812 GDD) unless the location's own identity is inseparable
-   from a post-war formation (Concordia's districts remain the standing exception, per rule 2).
+1. **Default to the setting's last fully-functioning era** unless the location's own identity is inseparable
+   from a post-event formation *(a setting may have a standing exception set; see `00_RUNBOOK.md` §C.8)*.
 2. **Do not import post-war facts as inputs — not as backstory, not as foreshadowing, not as a "doomed
    arrangement" framing of something that works fine in-frame.** A dependency, a single point of failure, a
    vulnerability: describe it as a structural fact of the frame being written, never as a countdown to a war
@@ -313,17 +309,16 @@ against.**
    (`01` §4's opening) is that a later reader cannot tell the difference between deliberate and accidental
    without the line being there.
 
-**Recorded as M-45 in `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`** — an early draft of Highway 37 Run 6
-defaulted to post-war without being asked, and had to be corrected across the frame declaration, the pre-flight
-checklist, and Phase 1's third generator (which had used the Tower's destruction as its defining event and was
-re-run against the joint venture's own founding instead).
+**Recorded as M-45 in `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`** — an early draft of a real pass
+defaulted to the post-event frame without being asked, and had to be corrected across the frame declaration,
+the pre-flight checklist, and Phase 1's third generator, which had used a post-event catastrophe as its
+defining event and was re-run against the location's own founding instead.
 
 ---
 
 # 5. POSITION — nesting, inheritance, and the sibling set
 
-**The district methodology had one parent (Concordia), a fixed sibling set of twelve, and no children.** All
-three become variables.
+**The parent methodology had one parent, a fixed sibling set, and no children.** All three become variables.
 
 ## 5.1 The four inheritance classes
 
@@ -345,9 +340,9 @@ somewhere unnoticed (`The Unrecognized Instrument`) → only then invent.**
 
 ## 5.2 The ordering problem — writing a child before its parent
 
-**This is the normal case, not the exception.** Concordia's thirteen districts were developed while Concordia's
-own post-war identity was still open; `City_Enneagram_Personalities/README.md` records that Concordia itself is
-excluded from that pass for exactly this reason. **A methodology that assumes top-down order will never run.**
+**This is the normal case, not the exception.** A parent methodology's sub-locations are routinely developed
+while the parent's own identity is still open — and at least one such project excludes the parent from its own
+personality pass for exactly this reason. **A methodology that assumes top-down order will never run.**
 
 **The provisional-inheritance protocol:**
 
@@ -400,7 +395,7 @@ one, it must say so and name the child findings that need revision. This is Gate
    > different conditions, so everything except the axis is held constant. **Three neighboring locations differ
    > on many axes at once**, and the comparison has to be disentangled before it says anything.
    >
-   > *(A worked instance of this technique is archived in `Test_Runs/Zhongshan_Extracted_Worked_Examples.md`,
+   > *(A worked instance of this technique is archived in `Test_Runs/Worked_Examples_Archive/`,
    > since it is specific to one location and this file must stay general.)*
    >
    > **So: run the own-eras set even when siblings ARE available.** Treat it as a first-class instrument, not
@@ -438,13 +433,13 @@ Sibling sets vary enormously:
 |---|---|---|
 | **Large set** | 35 outer cities | Full table; check the most recently written first *(collisions cluster on the previous pass — `00c` Gate 6b)* |
 | **Small set** | 6 subnets, 13 districts | Full table, and expect every pair to be compared |
-| **Set of two** | A mirrored pair | **May be written together** — the district methodology's Virgo/Pisces pairing rule: two locations holding one faculty at opposite extremes are each other's exact remedy and should not be written a month apart. **See the warning below before using this.** |
-| **No siblings** | Amundsen Station · the Federation · a unique megastructure | **Use §5.3a.** This is the ordinary case. |
+| **Set of two** | A mirrored pair | **May be written together** — the mirrored-pair rule: two locations holding one faculty at opposite extremes are each other's exact remedy and should not be written a month apart. **See the warning below before using this.** |
+| **No siblings** | A unique station · a sole polity · a one-off megastructure | **Use §5.3a.** This is the ordinary case. |
 
 > ### ⚠ A co-write is an exception and must be declared as one
 >
 > **The "write them together" permission is narrow, and it has already been over-used.** The first test run of
-> this methodology *(Tri-Cities, 2026-08-30)* extended it from a mirrored **pair** to a designed **three**, and
+> this methodology *(2026-08-30)* extended it from a mirrored **pair** to a designed **three**, and
 > produced a pass in which **nearly every headline finding was unavailable to a normal single-location pass** —
 > without noticing, because nothing in the procedure asked.
 >

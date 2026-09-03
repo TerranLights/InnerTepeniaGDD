@@ -208,11 +208,10 @@ Run per particular. Five steps, and step 2 is the one that does the work.
 > the repulsion case and skipped its mirror on the assumption that what drives people out is always sharper.
 > **That is wrong for any place people choose**, and the correction has a worked example in canon.
 >
-> **Shirayuki** is the Federation's clearest attraction case — a city whose school system grew into a nationwide
-> draw and whose downtown became art-filled and gallery-dense, such that people **make excuses to be able to
-> move there.** Its symbol pairing reads *Uranus + Fire* — a natural outlier — and the outlier status is the
-> attraction rather than the cost. **A pass that only ever asked "what drives people out" would have produced a
-> Shirayuki with no explanation for why anyone is there.**
+> **The shape to look for:** a location whose institutions grew into a draw strong enough that people **make
+> excuses to be able to move there** — and whose symbolic outlier status is *the attraction itself rather than
+> a cost it bears.* ***A pass that only ever asked "what drives people out" would produce such a place with no
+> explanation for why anyone is there.*** *(Worked instance archived: `Test_Runs/Worked_Examples_Archive/`.)*
 >
 > **So run both, and keep them distinct:**
 > - **Pull** — the place offers something obtainable nowhere else. Interrogate: *what specifically, is it still
@@ -398,11 +397,11 @@ Reading a location's finished Cultural Spec Sheet and then "deriving" that locat
 folder's *"planting your own seed and then finding it,"* one level up. **The result is perfectly coherent and
 contains no information.**
 
-**This is not hypothetical.** The Tri-Cities carried roughly 4,000 lines of existing canon *per city* —
-32-section spec sheets, Enneagram reads, and a purpose-built differentiation guide. **None of it was this
-methodology's output, so the rule as written permitted all of it as input.**
+**This is not hypothetical.** A single test run's cluster carried roughly 4,000 lines of existing canon *per
+location* — full spec sheets, personality reads, and a purpose-built differentiation guide. **None of it was
+this methodology's output, so the rule as written permitted all of it as input.**
 
-### The operational split — and it is clean enough to apply without judgement calls
+### The operational split — and it is clean enough to apply without judgment calls
 
 | **ADMISSIBLE as input — attributes** | **INADMISSIBLE as input — conclusions** | **⚠ ADMISSIBLE BUT SELF-ORIGINATED** *(added 2026-08-30)* |
 |---|---|---|
@@ -444,7 +443,7 @@ point.** **Column 3 exists because the first two assume a claim stays where it w
 >    > and the two should not be confused.
 >    >
 >    > **⚠ The prose case — the same cut, at LINE and CHARACTER granularity instead of a table column.**
->    > *(Added 2026-08-31, Sanay Shipyard Run 11, developer-directed.)* Not every mixed source is a table.
+>    > *(Added 2026-08-31, developer-directed.)* Not every mixed source is a table.
 >    > A required-reading rule file's own worked-examples prose can carry the identical defect: one line stating
 >    > an admissible fact (a symbol assignment's member pair) immediately followed by a line or two of
 >    > inadmissible rationale (the pairing's capability verdict), with no table structure to anchor a column
@@ -456,16 +455,23 @@ point.** **Column 3 exists because the first two assume a claim stays where it w
 >    > symbol-pairing conclusion" into a precisely bounded claim: which specific line(s) carried the admissible
 >    > member-pair fact, and which specific line(s) carried the inadmissible verdict, so a later reader (or the
 >    > same session, recording its own contamination event) can state the actual scope of what leaked rather
->    > than over- or under-stating it. **Worked case:** `02_Generators_Capability_and_Symbols.md` §6.3's own
->    > Sanay worked example — line 562 (`Sanay — Jupiter (...) + Electromagnetism (...)`) is the admissible
->    > member pair; lines 563-564 (`*Orthogonal to complementary*... it holds the Arcanet nexus, where the two
->    > registers meet exactly`) are the inadmissible pairing-relation verdict PLUS a location-specific finding.
->    > **Practical use, for anyone preparing a cold-run prep/admissibility-map document (per the Sanay Shipyard
->    > prep document's own precedent):** where a source is prose rather than a table, cite the source as
->    > `File.md :: Line N` (admissible) and `File.md :: Lines N+1-M` (inadmissible) explicitly, the same way
->    > the prep document's own line-ranged reading sequence already does for Specs-tier files — this is that
->    > same discipline, extended to REQUIRED-READING RULE FILES themselves, which had not previously been
->    > treated as a source needing this level of pre-mapping because they were assumed categorically safe.
+>    > than over- or under-stating it.
+>    >
+>    > **The recurring shape** *(instance archived per the LAYERING LAW)*: **in a pairing table's prose, ONE
+>    > line carries the admissible member pair and the NEXT ONE OR TWO carry the pairing verdict plus a
+>    > location-specific finding.** **Cite them as `File.md :: Line N` (admissible) and
+>    > `File.md :: Lines N+1–M` (inadmissible), separately.**
+>    >
+>    > ### ⚠⚠ AND THIS PARAGRAPH USED TO QUOTE ITS OWN EXAMPLE VERBATIM — corrected 2026-09-03
+>    > ***A rule teaching "cite the range, do not quote the passage" reproduced the passage, in a
+>    > required-reading file, twice.*** **That is M-97 exactly — *the description was the leak* — occurring
+>    > inside the section written to prevent it, which is the second recorded instance of that specific
+>    > recursion.** **Corrected to the shape plus a pointer.**
+>    >
+>    > **⭐ The deeper resolution is the LAYERING LAW:** *this technique exists to mitigate location-specific
+>    > examples sitting in required-reading rule files.* ***With `01`–`05` emptied of them, the mitigation is
+>    > mostly unnecessary — the technique survives for genuinely mixed CANON sources, which is where it
+>    > belongs.***
 > 3. **Build a quarantine list by RULE, not by RECALL.** Apply the content split above section by section.
 >    **A list assembled from memory is written by the one person who has already read everything, and a
 >    document you have already read does not announce itself as contaminating.** This is the circularity rule
@@ -508,7 +514,7 @@ point.** **Column 3 exists because the first two assume a claim stays where it w
 
 > ### ⚠ 6.1d — A `Specs/` FILE IS NOT CATEGORICALLY SAFE EITHER
 >
-> **Added 2026-08-31, Cape Adare Run 7, self-caught mid-pass.** `00_RUNBOOK.md` §0.4 heads its admissible-first
+> **Added 2026-08-31, self-caught mid-pass.** `00_RUNBOOK.md` §0.4 heads its admissible-first
 > reading order with "specs / physical facts," and no run before this one had ever found a `Specs/` file
 > containing conclusion-bearing content — so the tier was trusted by default rather than checked. **A `Specs/`
 > file cleared after its first ~20 lines (matching the expected Based-on/Status/Population pattern) turned out
@@ -586,24 +592,23 @@ it.** Admissibility has two axes and this file previously described only one.
 
 ### The recorded instance
 
-**Janbogo's `Course_of_Events/` set — eleven files, ~1,836 lines — is not confirmed canon.** The status is
-**stated in the files' own headers**, which read *"Course of Events **Suggestion** #1, translated from
+**One location's `Course_of_Events/` set — eleven files, ~1,836 lines — is not confirmed canon.** The status
+is **stated in the files' own headers**, which read *"Course of Events **Suggestion** #1, translated from
 `…_Course_of_Events_Suggestions.md`"*, and whose character fields are deliberately left blank as design
-prompts. **Every city has a folder of this kind.** They are proposals awaiting a ratification decision the
+prompts. **Every location has a folder of this kind.** They are proposals awaiting a ratification decision the
 developer has not yet made.
 
 > ### ⭐ Why this went unnoticed: a filter caught it once, for the wrong reason
 >
-> **Sinheung Run 5 excluded its vignettes correctly — and by accident.** Its pre-flight disqualified them as
-> *"downstream of withheld material"* — a §6.1 CIRCULARITY judgement. **It never asked whether they were
+> **One cold run excluded its vignettes correctly — and by accident.** Its pre-flight disqualified them as
+> *"downstream of withheld material"* — a §6.1 CIRCULARITY judgment. **It never asked whether they were
 > canon.** On a location whose culture file is not withheld, that reasoning does not fire, and the same
 > unratified material sails straight through as admissible.
 >
 > **A correct result produced by the wrong rule is not a working rule. It is an untested one.**
 >
-> **And it has already failed once.** Cape Adare **Run 8 (warm)** lists
-> `Cape_Adare_Course_of_Events_Suggestions.md` in its input set with no status marking at all — admitted as
-> though settled. A warm pass admits everything by design, which is exactly why *status marking*, not
+> **And it has already failed once.** A later **warm** run listed a `*_Course_of_Events_Suggestions.md` file
+> in its input set with no status marking at all — admitted as though settled. A warm pass admits everything by design, which is exactly why *status marking*, not
 > exclusion, is the rule below.
 
 ### The rule

@@ -402,3 +402,104 @@ case; default to an untested Type otherwise. See `RESUME_HERE.md`'s own updated 
 framing.
 
 ---
+
+# Run 14 — Shirayuki, cold — ⛔ BURNED AT PHASE 0. **2026-09-03.**
+
+**The first run to be burned while doing everything right.** Runs 12 and 13 died on improvised safety checks;
+**Run 14 improvised nothing.** It verified the pin, honored both skip ranges, probed neither boundary, ran no
+`ls` against its subject, and read the three mapped files only through an extraction script that emitted the
+3-of-3 admissible lines and stubbed the rest as coordinates.
+
+**It was contaminated at Phase 0 by one `grep` of its own subject's name, in a file `00_RUNBOOK.md` §C.6 had
+registered as required `G3` supply that same morning.** Two of the six returned fragments were `§C.5` spine
+items — a developmental-arc claim and an inter-sector mechanism. ***The run is not cold. Halted, not
+continued as semi-cold.***
+
+## What it cost, and what it bought
+
+**Cost: one location's cold pass.** **Bought: leak-register rows 13, 14 and 15, and `§C.4` requirement 6.**
+
+> ***A `CONFIRMED`, pinned, 3-of-3-unanimous review is scoped to a FILE LIST. The canon registry is a RULE.
+> A hash pin detects a file that CHANGED and is structurally blind to a source that JOINED.*** **101
+> hit-lines across 18 files sat outside a review whose status line read `CONFIRMED` and whose pin verified
+> exactly.**
+
+**The root cause is not the scope, and diagnosing it as scope would have produced a fix that does not work.**
+**The deriver needed one figure from an unmapped source and the protocol contained no legal way to get it** —
+a source could only be `MAPPED` or `WITHHELD`. ***A deriver with no sanctioned move improvises a retrieval,
+and the improvisation available to it is the most contaminating operation in the corpus.***
+
+## Fixes landed in the same session
+
+| | |
+|---|---|
+| **The third source state** | ⭐ **`QUERYABLE-BY-SCHEMA`** — closed-schema extraction promoted out of the escalation ladder, where it had been filed as yield recovery for 2–1 splits. **Cheaper than mapping: scales with the QUESTION, not the FILE** |
+| **The prohibition** | **A deriver never searches any corpus by its own subject's name.** Only legal name-search: `grep -ril`, filenames only |
+| **The scope pin** | `§C.4` — per-root `grep -ril` file counts at build time, **re-run on reuse.** A risen count demotes to `DRAFT` |
+| **The inventory pin** | `§C.4` — `dir·files·min/max lines` under the same script. *(⚠ The instance that motivated it, M-113, was itself a measurement error and is RETRACTED — the fix stands on its own logic: the inventory has no verification mechanism and the deriver is forbidden to check it.)* |
+| **Registry tiering** | Every `§B`–`§D` row carries a **TIER**, added in the same commit as the address |
+| **Vector 1 widened** | from *required **reading*** to *required **canon*** — the two silently diverged when `§C.6` was written |
+| **Three reader briefs** | **A** coordinate mapper · ⭐ **B** registry scout *(dispatch FIRST)* · ⭐ **C** schema extractor |
+| **`§C.4` requirement 6** | Registry enumerated · scope pinned · every source tiered. ***Requirements 1–5 prove the mapped files are mapped correctly. Only 6 asks whether they are the right files*** |
+
+**Both existing reviews demoted to `DRAFT`** — Shirayuki explicitly, Casey pre-emptively.
+
+## ⏳ A temporary diagnostic is live in `COLD_RUN_CHECKLIST.md`
+
+**At the developer's direction.** ***The fixes above are a hypothesis, and a fix written while being bitten is
+shaped like the bite (M-104).*** **The next run is asked to slow down at step 7½ — the mapped→registry
+transition — narrate every action before taking it, avoid batched searches through that stretch, and, if it
+happens again, log the exact command, the exact coordinate, and ⭐ *which control it believed was protecting
+it at that moment*.** **Delete the box once M-112 is understood.**
+
+## ⭐ Work banked and inheritable
+
+**`2026-09-03_Shirayuki_Run14_Cold/00_RUN_STATUS.md` §4** — Tier 0 block, six-generator enumeration *(G1
+tagged `[SELF-ORIGINATED]` per `05` §6.1c)*, frame calls, and **a 33-city retention z-score table**: the
+subject at **z = −1.26** against cluster neighbors at **+1.41** and **+0.76**, **1–2 km apart, with G2 and G4
+held constant by construction.** All derived before the leak; all attribute-tier; all survives.
+
+---
+
+## Run 14, second half — **the session continued as MAP-BUILDER (`§C.3` pairing), by developer ruling**
+
+***"Hand off; I build the map."*** **A contaminated session is the worst available deriver and the best
+available map-builder — it can read freely and return only coordinates.** **What it produced:**
+
+| Output | |
+|---|---|
+| **Brief B registry scout** | **34 of 34 roots**, no omissions — **510 files** name the subject or its alias. Scope pin + inventory pin + every source tiered |
+| **Brief A ×3, coordinate map 2** | **14 files, 3,056 lines, 3-of-3 unanimous.** **57.0% admissible**, 17.3% split rate recorded, hash-pinned |
+| **Review status** | ⛔ `DRAFT` → ✅ **`CONFIRMED`** against the new **six**-requirement bar |
+| ⭐ **Skip ranges** | ✅ **RETIRED — there are none.** `01`–`05`+README name no location at all |
+
+### ⭐⭐ The LAYERING LAW — a portability instruction that turned out to be the strongest control here
+
+**Developer instruction mid-run:** ***`01`–`05` must be usable for any location in any universe; only the
+runbook and the pre-contamination files may name a specific city.*** **Discharged: 58 location-named lines
+extracted to `Worked_Examples_Archive/`, project data moved to new runbook `§C.7` (symbol register) and
+`§C.8` (eras, type assignments, per-phase addresses).**
+
+> ***`CLAUDE.md` mandates the rule files be read in full — so a location name in one was a conclusion the
+> corpus was CONTRACTUALLY OBLIGED to hand every future pass on that location.*** **Vector 1 — the channel
+> behind M-82 (×5), M-99, M-103, M-112 and M-119 — is now clean by construction.** **Every other fix this
+> project has made ADDS a control; this one DELETED THE SURFACE.**
+
+### The findings, and where they came from
+
+**M-112** *(the six-link mechanism)* · **M-113 RETRACTED** *(a false finding by this run — a `wc -l` `total`
+row read as a file)* · **M-114/116/120** *(the graph index: 145 files, the largest surface in the corpus, and
+a hook mandating it be queried)* · **M-115** *(the tier vocabulary's missing fourth state)* · **M-117**
+*(a registry naming sources without paths)* · **M-118** *(the alias surface: 38 → 51 memory entries)* ·
+**M-119** *(the rule's own author breaking it 40 minutes later)* · **M-121** *(registered globally ≠
+registered at the point of use — found by a developer spot-check)* · **M-122/123** *(path strings are not
+identities; a filename can misstate its file)* · **M-124** *(three consumer-side arithmetic faults; none by a
+reader)*.
+
+> ### ⭐ THE RESULT WORTH CARRYING FORWARD
+> **The readers were the reliable half.** **42 valid maps, correct coverage assertions, three unprompted
+> `BRIEF-PROBLEM` reports that each caught a real defect** *(a missing tier, a mislabeled file, and a tooling
+> hook correctly classified as a prompt injection)*, **and zero detected mis-tags.**
+> ***Every arithmetic error in this run was the consumer's.*** **`§C.2`'s controls all point at the readers.**
+
+---

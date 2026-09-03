@@ -6,6 +6,21 @@
 
 # ⚠ Status: **DRAFT** — vectors closed, map built, **escalation ladder not yet worked**
 
+> ### ⛔ AND A SECOND, INDEPENDENT GAP — added 2026-09-03 from Run 14 *(M-112)*
+>
+> **This review is scoped to a FILE LIST, like every review in this folder.** ***A `CONFIRMED`, pinned,
+> 3-of-3 review on another subject was honored perfectly and still leaked, because the registry points at
+> sources no review had mapped.*** **Assume the same is true here: closing the escalation ladder would make
+> this review `CONFIRMED` under the OLD five requirements, and it would still be incomplete.**
+>
+> **Before this is ever `CONFIRMED`, discharge `§C.4` requirement 6 as well** — dispatch **Brief B**
+> *(`Test_Runs/COLD_RUN_CHECKLIST.md`)*: enumerate the registry, take the **scope pin** and the **inventory
+> pin**, and tier every source `MAPPED` · `WITHHELD` · `QUERYABLE-BY-SCHEMA`.
+>
+> **⚠ And note Casey's own §C.6 exposure is likely LARGER than the other subject's** — Casey carries a
+> `Course_of_Events/` folder whose **filenames are theses** (M-88), which a registry sweep must count without
+> listing.
+
 **All four `Step −2` vectors are swept and closed. All three readers reported and the 3-of-3 verdict is
 computed below.** ***What blocks `CONFIRMED` is `§C.2` requirement 3: every non-unanimous range must be run
 down the escalation ladder or explicitly accepted as `WITHHELD`.*** **188 lines are split and unworked.**

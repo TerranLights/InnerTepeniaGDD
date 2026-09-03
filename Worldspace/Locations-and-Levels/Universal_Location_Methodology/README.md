@@ -4,9 +4,8 @@
 
 **What this is.** A procedure for developing **any location of any kind, at any scale** — a district, a city, a
 subnet, a nation, an orbital station, a highway, a single structure, a ruin, a natural feature, a stretch of
-network. It is the cognate of the eight-phase district methodology in
-`../Concordia-City/Districts/Phase_Instructions/`, generalized to the whole space of locations rather than to
-Concordia's thirteen districts.
+network. It is the cognate of the eight-phase sub-location methodology this project already had *(addressed in
+`00_RUNBOOK.md`)*, generalized to the whole space of locations rather than to one city's districts.
 
 **The name is not invented here.** Two files in the district folder already refer to "the universal location
 methodology" as a thing that ought to exist and pre-assign material to it:
@@ -28,20 +27,19 @@ This folder is that methodology. Those three assignments are honored rather than
 rules across thirteen districts and roughly fifteen recorded failures; every discipline in it is attached to a
 specific pass that went wrong. **This methodology now has one such pass, and it is a real one.**
 
-> **Zhongshan, Run 3** *(`Test_Runs/2026-08-30_Zhongshan_Run3_Cold/`)* — a **cold** session, with all prior
-> conclusions about the location quarantined, took it through **all eleven phases, all sixteen gates, and the
-> Review Panel.** **Five gates fired; two produced findings the pass would not otherwise contain; one proved
+> **Run 3** *(logged in `Test_Runs/`)* — a **cold** session, with all prior conclusions about its subject
+> quarantined, took it through **all eleven phases, all sixteen gates, and the Review Panel.** **Five gates fired; two produced findings the pass would not otherwise contain; one proved
 > structurally unrunnable in a cold pass; and the run passed `05` §6.1's falsifiable test with ten findings
 > absent from the location's existing material.**
 >
 > **Nineteen methodology findings came out of it (`M-0`…`M-19`, indexed in
 > `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`), and every one is implemented in these files.** The
 > largest: **the four-quadrant shape is a property of the admitted input set, not of the location** — two
-> passes on the same city produced opposite shapes purely from different input sets *(`02` §4.0)*.
+> passes on the same subject produced opposite shapes purely from different input sets *(`02` §4.0)*.
 
-**Still unvalidated, and this is the honest gap: everything about a THIN location.** Zhongshan had all eight
-generators, deep attribute canon, and a canonical "only" — **it is a best case**, in the same way Run 1's
-three-city co-write was a best case. **The methodology has not been shown to run on a location that is
+**Still unvalidated, and this is the honest gap: everything about a THIN location.** That subject had all
+eight generators, deep attribute canon, and a canonical "only" — **it is a best case**, in the same way Run 1's
+three-location co-write was a best case. **The methodology has not been shown to run on a location that is
 starved of inputs, which is the commoner condition.**
 
 **Expect it to be wrong in ways that will still only appear under use.** Anything that survives contact should
@@ -49,9 +47,9 @@ be marked as having survived, **with the location it survived on named** — and
 `06_Worked_Example_Provenance.md` in the same commit**, so a later cold run on that location is not handed its
 own prior conclusions by the required reading.
 
-**What it is *not*:** it is not a replacement for the district methodology. Concordia's thirteen districts have
-a working, evidence-backed procedure and should keep using it. This exists for everywhere else, and for the
-eventual case where a district pass wants something the district procedure has no slot for.
+**What it is *not*:** it is not a replacement for the sub-location methodology it descends from. That one has
+a working, evidence-backed procedure and its own set should keep using it. This exists for everywhere else, and
+for the eventual case where such a pass wants something its own procedure has no slot for.
 
 ---
 
@@ -61,7 +59,7 @@ Recorded up front because they are the substantive results of the derivation, an
 where the universal methodology **must differ** from the district methodology rather than merely restating it.
 
 **1. The eight district phases cover roughly half of the 32-section city template.** They were built to close
-*specific measured gaps in Concordia's districts* — categories that scored 0/13 or 2/13 — not to be a complete
+*specific measured gaps in one district set* — categories that scored 0/13 or 2/13 — not to be a complete
 location instrument. Sections the district phases never inherited include Founding Story, Climate Character,
 Seasonal Rhythms, Social Contract, Who This Place Attracts, Language, Division of Industry, Political Character,
 Relationship to Other Cities, Significant Events, and Diaspora Character. **A universal spine has to cover the
@@ -71,8 +69,8 @@ skeleton.**
 > **Verified, not asserted — 2026-08-30**, per this methodology's own Gate 1 discipline. Scanned all eight
 > district phase files for ten of the claimed-absent section names. **Proof-of-hit run first** (`architect`
 > returns three files, so the scan works). **Eight of ten score zero.** The two non-zero results were inspected
-> individually rather than trusted: **`climate`** returns one hit, and it is a line stating that Concordia's
-> climate is *uniform across districts* — which confirms the claim rather than contradicting it;
+> individually rather than trusted: **`climate`** returns one hit, and it is a line stating that the parent
+> city's climate is *uniform across its districts* — which confirms the claim rather than contradicting it;
 > **`language`** returns three, and **all three mean *wording*** (*"Vision Notes language,"* *"religious-register
 > language"*), not language as a cultural category. **Count of genuine coverage: 0/10.** Full section tally:
 > ~18 of 32 covered, 14 absent.
@@ -80,17 +78,17 @@ skeleton.**
 
 
 **2. The relational hole is inherited from a deletion, not an oversight.** `00e` §6 records that no district
-phase covers inter-district relationships, with measured consequences (Taurus's file mentions its own opposite
-district zero times). **The city template it was translated from has that section — §23, "Relationship to Other
+phase covers inter-district relationships, with measured consequences (one completed file mentions its own
+opposite zero times). **The city template it was translated from has that section — §23, "Relationship to Other
 Cities."** It was present at city scale and dropped at district scale. So the fix is not to invent a relational
 phase; it is to **restore one that already existed**, and to place it early enough that it cannot be dropped
 again. It is Phase 5 here, in the middle of the spine, for exactly that reason.
 
 **3. The primary generator is not portable, and its replacement is stronger than a fallback.** The district
 capability reading depends on the zodiac dignity row — a rich, externally-given, four-term structure with
-meaningful absences and built-in cross-relations. **Almost no other location in this project has one.** The
-35 outer cities have a Planet + Element pair that is *thin* by comparison (dual-valence, no absences, no
-documented cross-relations). Highways, orbital stations and ruins have none at all.
+meaningful absences and built-in cross-relations. **Almost no other location in this project has one.** Its
+outer cities carry a two-token pair that is *thin* by comparison (dual-valence, no absences, no documented
+cross-relations). Highways, orbital stations and ruins have none at all.
 **But physical and environmental constraint is a first-class generator in its own right, and in one respect a
 better one:** the zodiac is non-negotiable by convention, while an ice sheet is non-negotiable in fact.
 `02_Generators_Capability_and_Symbols.md` treats generator selection as a real step with a ranked stack, and
@@ -123,9 +121,9 @@ These already exist, are already general, and are referenced rather than rebuilt
 
 | File | Why it is not duplicated here |
 |---|---|
-| `../Cultural_Synthesis_Techniques.md` | Already explicitly general-scope — *"Concordia districts, the 35 outer Tepenian cities, DLC locations, or a location in any future project."* It supplies the **operations**; this folder supplies the **procedure**. Sixteen techniques, each with a divergence table. |
+| `../Cultural_Synthesis_Techniques.md` | Already explicitly general-scope — it names districts, outer cities, DLC locations, *"or a location in any future project."* It supplies the **operations**; this folder supplies the **procedure**. Sixteen techniques, each with a divergence table. |
 | `../Real-World_Basis_Extrapolation_Method.md` | The research method. Already cross-scale. |
-| `../Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` | Explicitly stated to carry unchanged to *"a surface city, a nation, an orbital settlement, a station, or a ship — and in a novel or a film as readily as in a game."* Only the casting changes. |
+| The Review Panel *(`00f`; address in `00_RUNBOOK.md`)* | Explicitly stated to carry unchanged to *"a surface city, a nation, an orbital settlement, a station, or a ship — and in a novel or a film as readily as in a game."* Only the casting changes. |
 | `.../00d_Shadow_Proportion_Discipline.md` | Explicitly binding on any derived methodology. |
 | `.../00b_General_Population_Discipline.md` | Universal in substance — but see `01`, because it **inverts below roughly thirty people** and that limit was never stated. |
 
@@ -141,11 +139,11 @@ around and cannot fail.** Ranked by how hard each would stress a *different* loa
 
 | Test candidate | What it would falsify |
 |---|---|
-| **A highway** *(e.g. Hwy 37, or the Marambio–Rothera segment)* | **Corridor type, Band 0 population against Band 5 extent.** If the phase spine produces a thin result here, the type-variance matrix in `03` §0.1 is decorative rather than functional. |
-| **Amundsen Tower** | **Structure + ruined.** Tests the Band 0 substitutions and whether The Surviving Witness genuinely carries a pass on its own. Also the only case where "in its own past" is unambiguously where the remedy lives. |
+| **A highway** | **Corridor type, Band 0 population against Band 5 extent.** If the phase spine produces a thin result here, the type-variance matrix in `03` §0.1 is decorative rather than functional. |
+| **A ruined megastructure** | **Structure + ruined.** Tests the Band 0 substitutions and whether The Surviving Witness genuinely carries a pass on its own. Also the only case where "in its own past" is unambiguously where the remedy lives. |
 | **A single orbital station** | **The enclosed/orbital modifiers, and a location with no siblings** — so all four no-sibling substitutes get exercised at once. |
-| **Concordia's Hub (Axis Mundi)** | **The Interstitial procedure** (`01` §1.3). The district methodology returns *nothing* here — no capability row at all — so if `01` §1.3 also returns nothing, the type is a label rather than a procedure. **This is the single best falsification case available**, and the district folder independently identified the Hub as its own designated falsifier. |
-| **The Tepenian Federation** | **Band 6.** Tests whether the delegate/distribution machinery works or whether the pass silently reverts to writing a very large town. |
+| **An interstitial hub** *(this project has one; see `00_RUNBOOK.md` §C.8b)* | **The Interstitial procedure** (`01` §1.3). The parent methodology returns *nothing* here — no capability row at all — so if `01` §1.3 also returns nothing, the type is a label rather than a procedure. **This is the single best falsification case available**, and the parent folder independently identified it as its own designated falsifier. |
+| **The setting's top-level polity** | **Band 6.** Tests whether the delegate/distribution machinery works or whether the pass silently reverts to writing a very large town. |
 | **A 12-person research station** | **Band 1 and the general-population inversion.** If the pass invents a general population anyway, `01` §2.3 has not actually changed behavior. |
 
 **And state the falsification condition before each run, not after.** For each of the four new gates and the

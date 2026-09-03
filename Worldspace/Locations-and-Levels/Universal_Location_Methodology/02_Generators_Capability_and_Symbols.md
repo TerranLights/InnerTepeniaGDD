@@ -18,8 +18,8 @@ whatever the designer finds interesting. A substrate that assigns them — inclu
 designer would never have chosen — forces the designer to make sense of a configuration they did not want, and
 **that act of sense-making is where non-generic material comes from.**
 
-**Almost nothing outside Concordia has one.** The 35 outer cities have a Planet + Element pair that is
-structurally much thinner. Highways, orbital stations, ruins, natural features and polities have nothing.
+**In most settings almost nothing has one.** A setting's richest substrate usually covers a single region or
+class of location; everywhere else has something structurally much thinner, or nothing. Highways, orbital stations, ruins, natural features and polities have nothing.
 
 **So the generalization is not "find a substitute substrate." It is to recognize what property was doing the
 work — externality — and to build a procedure around every available source of it.**
@@ -60,9 +60,9 @@ occasionally hands you something that has to be earned rather than explained. Th
 ## G2 — Physical & environmental constraint — the primary generator for most locations
 
 **This is the finding that makes the universal methodology viable at all.** Where a symbolic substrate is
-non-negotiable *by convention*, physical constraint is non-negotiable **in fact**. Vostok really is the coldest
-recorded place on Earth. Dome Fuji really sits at 3,810 m. An ice shelf really moves. **The designer cannot
-negotiate with any of it**, which makes it externally constraining in exactly the way the zodiac is, and
+non-negotiable *by convention*, physical constraint is non-negotiable **in fact**. The coldest recorded place
+really is that cold. A high-altitude station really does sit at that elevation. An ice shelf really moves.
+**The designer cannot negotiate with any of it**, which makes it externally constraining in exactly the way the zodiac is, and
 harder to quietly ignore.
 
 **Read it as four questions, which map directly onto the capability frame in §3:**
@@ -131,8 +131,8 @@ been forgotten while the practice persists.
 ## G7 — Real-world inspiration
 
 The actual station, its actual nation, its actual founding, its actual physical site. **Highest surprise value
-on the stack** — this is what "do actual web research" produces, and LAW 0's controlled Aquarius case is direct
-evidence that picks four, five and six produce findings that picks one and two do not.
+on the stack** — this is what "do actual web research" produces, and LAW 0's one controlled comparison is
+direct evidence that picks four, five and six produce findings that picks one and two do not.
 
 Governed entirely by `Real-World_Basis_Extrapolation_Method.md` and by the **source-not-specification** rule:
 the location is under no obligation to match its inspiration, and divergence stated is stronger than resemblance
@@ -161,9 +161,9 @@ implied.
 >
 > **The one legitimate use that survives:** a real-world comparable may still be researched for a corridor's
 > **physical texture** — surface construction, vehicle and convoy form, seasonal usability — **never for its
-> character.** *(Worked precedent: Highway 37's Run 6 used the real South Pole Traverse exactly this way,
-> for road-surface and convoy facts only, and derived every character finding from G2/G5/G6. That split was an
-> improvisation at the time; this ruling makes it the rule.)*
+> character.** *(A worked precedent exists in which a corridor pass used its real-world analogue exactly this
+> way — for surface and convoy facts only — deriving every character finding from G2/G5/G6. That split was an
+> improvisation at the time; this ruling makes it the rule. Instance archived per the LAYERING LAW.)*
 
 ## G8 — Demographic composition
 
@@ -281,9 +281,8 @@ needed and never had.
 > **Two passes, on the same location, under the same methodology, within the same week, produced OPPOSITE
 > shapes**, from two different admitted input sets — one admitting the location's known institutional
 > particulars, the other quarantining them as culture-pass conclusions and running on attribute canon alone.
-> *(The full worked comparison, with both shape readings and the reconciling synthesis, is archived in
-> `Test_Runs/Zhongshan_Extracted_Worked_Examples.md` — specific to one location, kept out of this general
-> file.)*
+> *(The full worked comparison, with both shape readings and the reconciling synthesis, is archived under
+> `Test_Runs/Worked_Examples_Archive/` — specific to one location, kept out of this general file.)*
 >
 > **Neither pass misread its inputs. Both read them correctly.** Institutional particulars are maintenance
 > obligations by nature — admit them and STANDING COST fills; withhold them and it empties. **The shape follows
@@ -344,7 +343,7 @@ reach for the peer-required set only when canon actually supplies a named counte
 | **Diffuse** — nowhere in particular | No counterparty, no politics, **no grievance ever forms.** Produces drift. |
 | **In its own past** | The location **used to be able to do this and lost the capacity.** The remedy is historical, not geographical. Produces a characteristic nostalgia that is *factually correct*, which is rare and rich. **The district set could not generate this case** — thirteen districts of uniform age — but cities, polities and anything Declining produce it often. **See the evidence check below.** |
 | **In the parent** | The remedy exists only at a scale above this one, so reaching it means admitting the location cannot manage itself. **Produces under-reporting**, which is a shadow with no author. |
-| **In a neighbor's present** *(new, 2026-08-31)* | The comparison population — someone who has organically what this location was only allocated or lacks entirely — never departed. They are a living, permanent, physically co-located neighbor, not an absent authority or a departed witness. **Distinct from "in its own past":** the deficit is nameable and the comparison constantly available, but naming it means looking sideways at a peer rather than backward at history. **Likely the sharpest version of a historical deficit available**, since the unfavorable comparison is permanent and close rather than abstract. *(Worked case: Sinheung Run 5 — its paper-secured founding claim sits permanently beside Zhongshan's organic one, a few hundred meters away.)* |
+| **In a neighbor's present** *(new, 2026-08-31)* | The comparison population — someone who has organically what this location was only allocated or lacks entirely — never departed. They are a living, permanent, physically co-located neighbor, not an absent authority or a departed witness. **Distinct from "in its own past":** the deficit is nameable and the comparison constantly available, but naming it means looking sideways at a peer rather than backward at history. **Likely the sharpest version of a historical deficit available**, since the unfavorable comparison is permanent and close rather than abstract. *(Worked instance archived: `Test_Runs/Worked_Examples_Archive/`.)* |
 | **Nowhere at all** | Genuinely unremediable. **Rare, and must be earned** — most apparent cases are actually "in its own past" or "diffuse." |
 
 > #### ⚠ "In its own past" — check whether the EVIDENCE is also in the past
@@ -356,12 +355,10 @@ reach for the peer-required set only when canon actually supplies a named counte
 > itself** — not from denial, but because its evidence has physically departed. **The nostalgia is then not
 > merely factually correct but epistemically unchallengeable**, and no internal reform can originate.
 >
-> *(Worked case: **Shirayuki, Run 1** — a city that lost 38% of its population to migration, retained its
-> drawing reputation, and continues to attract newcomers to a scene at 62% of the strength that made it
-> famous.)*
+> *(Worked instance archived: `Test_Runs/Worked_Examples_Archive/`.)*
 >
 > #### ⚠ And the harder case: `diffuse` does not remove the witness — it prevents one from ever forming
-> **Added 2026-08-30, Zhongshan Run 3, as the sharper sibling of the case above.**
+> **Added 2026-08-30, as the sharper sibling of the case above.**
 >
 > **An exodus takes the people who could name the deficit away. A diffuse address means nobody was ever in a
 > position to notice it.** A grievance requires a counterparty; a diffuse address supplies none; **so no
@@ -459,7 +456,7 @@ note that an unreconciled conflict between two external generators is a *stronge
 because it is the one thing a designer would never have invented.
 
 > ### ⚠ This test also governs Step 7 — a cold pass's finding vs. opened canon, not only generator vs. generator
-> **Added 2026-08-31, Zhongshan Run 4.** The scope above was written for conflicts between two generators run
+> **Added 2026-08-31.** The scope above was written for conflicts between two generators run
 > within the same pass. **It applies with equal force when a deferred Gate 6 opens withheld material and finds
 > a cold pass's own finding contradicts established canon** — that is the identical shape (one property, two
 > readings) with canon standing in for the second generator. **Run this test before recording any such
@@ -550,47 +547,58 @@ itself a four-way typology:
 | **Orthogonal** | The symbols describe unrelated domains | The location is legible in two independent registers. The finding is **which register dominates in which situation**, and what happens where they meet. |
 | **Ironic** | One symbol undercuts the other's promise | A subtype of tensioned, and the sharpest. The second symbol makes the first's characteristic strength fail in a specific, nameable way. |
 
-**Worked reads against the existing assignments, to show the typology does real work:**
+**What the typology does, stated without instances — the shapes to look for:**
 
-- **Davis — Earth planet + Earth element.** *Reinforcing*, and the assignment file already calls it *"a
-  deliberate doubling-down."* The reading that follows: a place with no counterweight to its own groundedness,
-  which is a strength with a named risk rather than a bland virtue.
-- **Kunlun — Pluto (isolation) + Air (communication, thought, the connective medium).** *Tensioned, sharply.*
-  The most physically isolated place in the country, bound to the element of connection — **and it is an
-  observatory.** It is cut off from every person and connected to the entire sky. That reading falls directly
-  out of the pairing and is not available from either symbol alone.
-- **Sanay — Jupiter (dominance, gathering) + Electromagnetism (invisible bonds, signal, transmission).**
-  *Orthogonal to complementary* — one describes weight, one describes reach — and it holds the Arcanet nexus,
-  where the two registers meet exactly.
+- **A doubled pair** *(both tokens naming the same quality)* reads **Reinforcing**: no internal counterweight,
+  so the strength carries a named risk rather than being a bland virtue. **Ask what the place cannot moderate.**
+- **A pair whose tokens name opposite conditions** — an isolating one against a connective one — reads
+  **Tensioned**, and the sharpest form appears when the location's actual function *realizes both at once*.
+  ***That reading is never available from either token alone, which is the entire argument for the typology.***
+- **A pair describing unrelated domains** — one naming weight, one naming reach — reads **Orthogonal**, and the
+  finding is **which register dominates in which situation, and what happens where they meet.** Look for the
+  place in the location where the two registers physically coincide.
+
+> **⛔ Worked instances are NOT reproduced here.** *(LAYERING LAW — `00_RUNBOOK.md`.)* **Three exist and are
+> archived at `Test_Runs/Worked_Examples_Archive/`.** ***This table's previous inline version sat
+> un-manifested in required reading and burned a run (M-82), and its line/character split became `05` §6.1a's
+> anchoring sub-rule (M-83).*** **A pairing read is a capability verdict — `05` §6.1c — so it is
+> conclusion-tier by definition and cannot live in a rule file.**
 
 **So: for any paired system, classify the relation before writing the capability profile.** It is a ten-minute
 step that converts a thin generator into a structured one.
 
-## 6.4 Registered systems
+## 6.4 Registered systems — **the REGISTER itself is project-specific and lives in the runbook**
 
-| System | Where | Cardinality | Shape | Notes |
-|---|---|---|---|---|
-| **Zodiac Personality Substrate** | `../Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **This system now has a SECOND, non-assignment use-mode for any location** — see `../Cultural_Synthesis_Techniques.md`'s **Technique — The Zodiac Lens** (added 2026-08-31): all twelve signs run as non-binding interrogation prompts, never as an assignment, and never referencing Concordia's own completed district content. |
-| **Planetary Symbols** | `../Outside-World/.../Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 10 members. One-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired.** |
-| **Robot Elementals** | `.../City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members, positive/negative, Wu Xing correspondences on five. **See the gap below.** |
-| **Planet + Element** | `.../City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use §6.3.** |
-| **Subnet Elementals / Six Perfections** | `../../Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md` | 1–2 per subnet | THIN→PAIRED | Subnet scale. Separate system; do not cross-apply to city scale. |
+> ### ⛔ MOVED 2026-09-03, per the LAYERING LAW *(`00_RUNBOOK.md`)*
+> **A register of actual symbol systems necessarily names actual files, actual member counts and actual
+> locations.** ***That is project data, not methodology*** — and `01`–`05` must stay usable for any location
+> in any universe. **The register now lives at `00_RUNBOOK.md` §C.7.**
 
-> ### ⚠ A real gap, recorded rather than quietly worked around
+**What this file specifies is the REGISTER'S SHAPE, which is universal:**
+
+| Every registered system declares | |
+|---|---|
+| the §6.1 fields | name & location · members · binding cardinality · term structure · **structured absences?** · cross-relations? · exhaustion behavior · reuse policy · valence structure |
+| its **§6.2 shape verdict** | `RICH` · `THIN` · `PAIRED` · `DEGENERATE` |
+| ⚠ its **provenance direction** | **is the assignment downstream of a prior personality read?** If so its *rationale* is conclusion-tier — `05` §6.1c |
+
+**A system becomes usable once it declares those fields and passes the §6.2 shape assessment.** ***Nothing in
+this methodology changes to accommodate a new one*** — which is the openness requirement, discharged.
+
+> ### ⚠ The generalizable gap worth checking in ANY register — **cross-relations are usually undocumented**
 >
-> **The Wu Xing five have generating and overcoming cycles in the actual tradition** — Wood feeds Fire, Fire
-> makes Earth, Earth bears Metal, Metal carries Water, Water nourishes Wood; and the overcoming cycle running
-> the other way. **Those cycles are cross-relations, and they are not documented in `Robot_Elementals.md`.**
+> **A symbol set borrowed from a real tradition frequently inherits that tradition's INTERNAL CYCLES —
+> generating and overcoming relations, oppositions, squares — and the project file that registers it very
+> often records only the members and their valences.**
 >
-> If they were, the element system would move from THIN to **RICH for its five Wu Xing members** and would
-> supply inter-city geometry — the direct equivalent of the zodiac's oppositions and squares, which `00e` §6
-> identifies as the only thing in the whole district folder that generates inter-location relationships.
+> ***Those cycles are cross-relations, and cross-relations are the only thing that generates inter-location
+> geometry*** *(the parent methodology's §6 identifies them as the sole such instrument it has)*. **A system
+> missing them is `THIN` when it could be `RICH`.**
 >
-> **This is the single highest-value addition available to the existing symbol systems**, and it is a
-> documentation task rather than a design task, since the cycles are already fixed by the tradition the system
-> borrowed from. **Flagged, not done** — it changes a canon reference file and should be a developer decision,
-> and it would need a ruling on how Air, Electricity and Electromagnetism relate to a five-member cycle they
-> are not part of.
+> **So, for any borrowed system: check the SOURCE tradition for structure the register did not copy.** **It is
+> a documentation task rather than a design task**, since the relations are already fixed by the tradition —
+> **but it is a canon change and therefore a developer decision, and it needs a ruling on how any members
+> ADDED beyond the original set relate to a cycle they were never part of.**
 
 ## 6.5 Registering a new system
 
