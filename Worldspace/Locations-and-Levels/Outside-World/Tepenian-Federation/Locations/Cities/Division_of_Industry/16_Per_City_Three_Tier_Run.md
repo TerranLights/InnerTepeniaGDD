@@ -2220,6 +2220,99 @@ actual defining fact, rather than smoothed over.**
 
 ---
 
+## 22. ✅ KUNLUN — DETERMINED *(⚠ flagged for post-pass review — register item 15)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=2.70 — highest in the roster — **but 0 humans**, so the human-keyed term is zero)* | 35,306 | **28.6%** |
+| **Mandated** | 33,054 | **26.8%** |
+| **FREE — the character budget** | 55,089 | **44.6%** |
+
+**Distinctive tier: 88,143 (71.4%).** Canon §15: Astronomy 60% · Ice core science 15% · Religious
+practice/pilgrimage infrastructure 15% · Altitude-legacy medical infrastructure/facility maintenance 10%.
+
+### The mandate *(developer ruling, 2026-09-02 — provisional)*
+
+| Share of distinctive | Workers | Sector | |
+|--:|--:|---|---|
+| **30%** | 26,443 | **Astronomy — HALF** | ½ of 60% |
+| **7.5%** | 6,611 | **Ice core science — HALF** | ½ of 15% |
+| **37.5%** | **33,054** | | |
+
+> **Both of Kunlun's scientific sectors split down the middle — half of each doing work the country needs,
+> half doing work the city does because that is what it is.**
+
+### ⭐ A structural note: highest difficulty, lowest baseline share
+
+**Kunlun carries D = 2.70, the highest in the roster, and a baseline of only 28.6%, the lowest.** **Not a
+contradiction.** With **zero humans**, the entire human-keyed term *(food, health, schooling, childcare,
+mortuary — `120.7·f·D + 85.6` per 1,000 humans)* **is multiplied by zero.** ***Difficulty only scales costs
+there is nobody to spend on.*** **The free tier is 71.4% of distinctive because robots do not eat.**
+
+### Why astronomy is half, not zero — revisiting Half A
+
+**Half A ruled astronomy discretionary** — *"genuinely world-class, but not something the nation would starve
+without."* **The §15 itself records a developer follow-up that changes the reading:**
+
+> *"**Follow-up, 2026-07-06:** the developer isn't certain of an exact research focus, but leans toward
+> Kunlun's observatory work concentrating more on **near-Earth objects of interest — Mars, the Moon, and
+> similar** — than on distant star systems."*
+
+**Tepenia has millions of people in orbit, and during the Second Interwar they are still arriving via
+Amundsen Tower.** A nation with a large and growing orbital population **needs someone watching near-Earth
+space.** Kunlun is *"potentially the best ground-based observatory site in Tepenia,"* and its robot-culture
+file notes it is **the one city capable of reaching orbital structures directly.**
+
+> **Cataloguing distant stars is discretionary. Tracking near-Earth space for an orbital population is not.**
+
+**⚠ That focus is explicitly TENTATIVE** — *"the developer isn't certain… Tentative, not firmly settled."*
+**Half rather than full is partly a hedge against building on an unsettled premise.**
+
+### Why ice core is half, not zero
+
+**Under-argued by the analyst as "pure science," and corrected.** ***Tepenia is a nation that lives on and
+inside ice.*** Concordia sits on 3+ km of it, Halley is built to move across a floating shelf, Byrd was
+founded underground in it, and `13` §14 split all 37 cities on exactly that question. **Dome A holds some of
+the oldest ice on Earth — Kunlun is where the ice sheet's own behavior is read.** **The half-split keeps the
+paleoclimate-for-its-own-sake portion free.**
+
+### What stays FREE
+
+- **Religious practice / pilgrimage 15%** — **Kunlun is Ice Cold Buddhism's holiest site in Tepenia**, above
+  even Dome Fuji, on the combination of highest elevation, coldest sustained environment, calmest winds and
+  atmospheric purity. **Devotional practice is character, not conscription.**
+- **Altitude-legacy medical / facility maintenance 10%** — local survival at 4,093 m.
+- **The un-mandated halves of both science sectors** — 26,443 + 6,611.
+
+### ⭐⭐ The reason the free tier is deliberately kept large
+
+> **Developer, 2026-09-02:** *"Having a 44% free budget would allow for other scientific research that I may
+> not have thought of."*
+
+**This is the free tier used as DESIGN HEADROOM rather than as a residue** — the same property recorded at
+Shirayuki *(the free tier is the only tier that can change over the period)*, applied forward instead of
+backward. **A science city whose science is fully conscripted has no room to discover anything the design has
+not already specified.**
+
+### Notes
+
+- **⭐⭐ The strongest cross-reference finding of the entire 8-city robot-culture run sits in the free tier:**
+  robots' own sensory apparatus gives them something closer to **direct physical access to the stillness Ice
+  Cold Buddhism venerates** than a human devotee could ever have — *"the first finding in the whole
+  methodology where robot embodiment itself is the load-bearing mechanism of a devotional experience, not an
+  inflection on a human-originated one."*
+- **⭐ A ready-made irony, canon's own:** Kunlun's symbolic Element is **Air** *(breath, communication)* — yet
+  it is **the single most Arcanet-disconnected city in Tepenia** and simultaneously **the one city capable of
+  reaching orbital structures directly.**
+- **Human presence is FORBIDDEN by settled protective policy**, not attrition — altitude and cold would be
+  fatal to humans, harmless to robots *(ruled 2026-07-05)*.
+- **Population is NOT single-nation Chinese** *(re-resolved 2026-07-06)* — a **deliberately curated 19-nation
+  astronomy/comms-heritage population**, tiered by real-world space-program credentials.
+- **⏸️ Open, and flagged in canon as a REQUIRED DLC story deliverable:** the observatory's **five centuries of
+  findings** — not yet designed.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -2240,3 +2333,4 @@ actual defining fact, rather than smoothed over.**
 | 12 | **Belgrano — deferred by developer** | **The Belgrano Institute of Medicine's classification** | ⏸️ **Parked 2026-09-02: *"I'm sure there's a better way to classify the Belgrano Institute of Medicine."*** Currently absorbed into the **Aviation/logistics 35%** mandate on the grounds that medevac is an aviation function and the school is downstream of the flight line. **Revisit AFTER the full-country run**, not before — and note the ruling above stands: it is not a case for a separate §15 sector |
 | 13 | **Port Lockroy — stale TBD** | **Its post office is recorded as an open question in 3 files, but the question is resolved** | `Specs/Port_Lockroy.md` **L112, L134** and `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` **L248** all say *"functioning institution or heritage artifact — TBD."* **Both the Vision Notes and the Calethina courier lore (Specs L105) settle it as a genuine, active civic institution.** A resolution that never propagated. **Deferred with the other culture-file corrections until after this pass** |
 | 14 | **Davis** | **Set to Option B — agriculture 35% + HALF technical/scientific 12.5%. Mandate 28.2%, free 31.1%** | ⏸️ **Marked for review after all cities are determined**, per developer direction — *"just in case we need to figure on adjusting stats in some cities."* **Alternatives precomputed:** **A** *(agriculture only)* mandate 20.7% / free 38.5% · **C** *(+ full technical)* mandate 35.6% / free 23.7% · **D** *(B + half maritime)* mandate 32.6% / free 26.7%. **The half-technical rests on the Signy precedent** — a capped national resource needs someone who knows its limits — **applied on land to the Breadbasket** |
+| 15 | **Kunlun** | **Set to HALF astronomy + HALF ice core. Mandate 26.8%, free 44.6%** | ⏸️ **Marked for review by the developer, who is weighing TWO-THIRDS of each instead** — precomputed: **mandate 44,072 (35.7%) / free 44,072 (35.7%)**, exactly equal. **The developer's own reason for holding at half:** *"having a 44% free budget would allow for other scientific research that I may not have thought of."* **Also depends on an unsettled premise** — the near-Earth observatory focus is explicitly *"tentative, not firmly settled"* (2026-07-06) |
