@@ -2626,6 +2626,88 @@ function; only the sector was open.**
 
 ---
 
+## 26. ✅ CAPE ADARE — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — rock-founded cape, food term 100%)* | 466,136 | **41.4%** |
+| **Mandated** | 247,701 | **22.0%** |
+| **FREE — the character budget** | 412,834 | **36.6%** |
+
+**Distinctive tier: 660,535 (58.6%).** Canon §15 *(corrected 2026-08-31)*: Marine/resource extraction 25% ·
+Commercial 25% · Technical/scientific 20% · Education 15% · Industrial/manufacturing 10%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **25%** | 165,134 | **Marine/resource extraction — FULL** | ✅ Canon §15 — **port/harbor ops + the guano phosphate** |
+| **12.5%** | 82,567 | **Half of Commercial — operating the NZ freight link** | ✅ Canon §15 *"arrival/departure trade, NZ freighter"* |
+| **37.5%** | **247,701** | | |
+
+### ⭐⭐ The marine sector carries the most existential export in the country
+
+**`04` reads it as ⅓ food. `11` established it CANNOT be a fishery** — read as crews it would land
+***13.7× the sustainable national catch.*** **It is a port and marine-science sector.** But the piece that
+matters most is the one §15 names outright:
+
+> ***Guano extraction from the rookery — "the city's genuinely non-thematic export."*** One of the world's
+> largest **Adélie rookeries, 250,000+ pairs.**
+
+> ### **That is PHOSPHORUS — the one input `14` established Tepenia CANNOT MANUFACTURE, and must otherwise buy from a power it does not trust.**
+
+**`15` Resolution 2 sizes it:** **~300 t P₂O₅/yr sustainable (~7% of national make-up)**, against a one-time
+mineable stock of **10,000–75,000 t — 2.5 to 18 years of national independence.**
+
+**Mandated without argument. This sector is the only domestic answer to the country's hardest supply
+problem.**
+
+### The judgment call — commercial 25%, split
+
+§15 annotates it *"arrival/departure trade, **NZ freighter**,"* and this coast is the **New Zealand-facing**
+side of Tepenia's Upper Earth shipping. **Cape Adare sits at the northern tip of Victoria Land — the natural
+NZ landfall.**
+
+> **⚠ The difficulty: the receiving function is SPLIT ACROSS TWO SECTORS.** ***Port/harbor ops* sits in
+> MARINE** *(already mandated)*; ***the NZ freighter trade* sits in COMMERCIAL.** **Same ships, two sectors.**
+
+**Half concedes that operating an international freight link is national work, while leaving the trade that
+merely happens BECAUSE ships call in the free tier** — the same distinction applied at Marambio, whose
+receiving node was mandated while its commercial sector was not.
+
+**Full 25% was rejected:** canon describes the sector partly as ordinary *arrival/departure trade*, and
+mandating all of it would conscript the profiting along with the operating.
+
+### ⚠ Technical/scientific 20% stays FREE — and deliberately, to protect a correction
+
+**This sector was the subject of a developer ruling, 2026-08-31** `[CGRM · Path 6]`. **A prior draft
+collapsed it into hut-preservation**, which implied ***~367,500 people maintaining one small wooden
+structure*** — roughly **36,000× the real-world conservation effort at the actual site.**
+
+> ***"Cape Adare cannot be a city that's entirely based around maintaining a tent."***
+>
+> **And the developer's own follow-up corrected the diagnosis, not just the number:** *"'Heritage' doesn't
+> specifically need to EQUAL object/site-preservation. 'Heritage' can also… broadly mean 'stewardship of the
+> past into the future' — maintaining libraries and keeping them stocked with records of things, preserving
+> older buildings, etc. There are possibly hundreds of perfectly usable, perfectly realistic meanings."*
+
+**The corrected sector is stewardship BROADLY — archives, conservation, harbor engineering, medicine, rookery
+monitoring.** ***Mandating it would risk re-collapsing it into one object.*** **Left free on purpose.**
+
+### Notes
+
+- **⭐ Site of Borchgrevink's 1899 hut — the OLDEST HUMAN STRUCTURE ON THE CONTINENT**, and the basis of
+  **St. Carsten's civic sainthood.** **⏸️ Whether it survived the city's destruction is canon's own
+  most emotionally significant open heritage question in this subnet.**
+- **⭐ Density resolved 2026-08-31 (core/outer model):** the **2.94 km² cape proper is the DOWNTOWN CORE**,
+  not the whole city — naive core-only density would be **357,160/km²** — with the **ice-covered Adare
+  Peninsula behind it as outer/working territory.**
+- **Reached via a connecting road off Hwy 183**, not the main line — the spur-access pattern.
+- **⚠ Provenance note:** this city's and Denison's §15 percentages **ARE canon (25% each)**; the earlier
+  "H-tag / my estimate" labeling on their mandates was **a mislabel**, corrected in this file.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
