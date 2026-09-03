@@ -3409,6 +3409,103 @@ the developer's updated maps)*.
 
 ---
 
+# ▓▓ AMUNDSEN STATION ▓▓
+
+*Byrd subnet closed **complete, 1 of 1** — Byrd, its sole city.*
+
+---
+
+## 35. ✅ AMUNDSEN STATION — DETERMINED *(closes the roster)*
+
+> **⚠ Not a city.** A **strategic infrastructure installation**, included per developer request *"for the sake
+> of total completion."* **No subnet, no founding-population dynamic, no generational post-culture.**
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=2.50, **ICE-SHEET forced importer** — ~2,850 m of plateau ice; food term at 10%)* | 2,003 | **31.8%** |
+| **Mandated** | 3,864 | **61.4%** |
+| **FREE** | 429 | **6.8%** |
+
+**Distinctive tier: 4,293 (68.2%).** Canon §15: Arcanet relay operations/infrastructure maintenance 60% ·
+Amundsen Tower operations 30% · Other/life support 10%.
+
+**Population: 1,121 humans / 5,736 robots — ~84% robot, the highest robot proportion of any Tepenian
+population centre.**
+
+### The mandate — the least contestable in the entire pass
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **60%** | 2,576 | **Arcanet relay operations** | ✅ §15: ***"the station's entire reason for existing."*** Its loss caused the **Planetary Split Brain** |
+| **30%** | 1,288 | **Amundsen Tower operations** | ✅ The space fountain — the nation's only route to orbit |
+| **90%** | **3,864** | | |
+
+**No judgment call was required.** ***Both sectors are named national infrastructure, and between them they
+are the two most consequential systems in the setting.***
+
+### ⭐⭐⭐ THE FINDING — this is the only entity in Tepenia whose free tier contains no freedom
+
+**The free tier here is 429 workers. And the sector it consists of is `Other / LIFE SUPPORT`.**
+
+**Every other entry in this pass has a free tier holding bars, arts, religion, gathering traditions, sport,
+heritage, honeymoons.** *(Casey's Splinters. Shirayuki's music. Dome Fuji's faith. Zukelli's food. Mawson's
+honeymoons.)*
+
+> ## **Amundsen Station's character budget is the air, the heat and the water.**
+> ***Nothing here is discretionary. The 6.8% that is not conscripted is the part that keeps people
+> breathing.***
+
+**And that is not a modelling artifact — it is what canon says the place was:** *"had no economy in the
+conventional sense — it produced no exports, and every supply came in from elsewhere."* **A facility, not a
+society.** **Maintained by rotating multi-subnet technical crews who served a tour and went home** — **nobody
+was ever from here.**
+
+### ⭐⭐ What 90% mandated implies for the ruins — DLC 1 texture
+
+**A facility with 90% of its labor committed to two systems HAS NO REDUNDANCY.** **There were no
+generalists, no maintenance reserve, nobody whose assignment was anything else.** ***The ruin did not degrade
+gracefully — the systems that would have degraded gracefully were never staffed in the first place.***
+
+**Four hazards follow from the labor sheet and from canon already on file:**
+
+| | |
+|---|---|
+| **1. It is under the Tower** | `Amundsen_Tower_Space_Fountain_Design.md`: **~246,250 t of debris, ~93% reaching the ground** — and because the tube is *"a chain of independently-supported segments rather than one rigid rod,"* a power-loss failure **drops it roughly vertically rather than toppling**, keeping wreckage **near the base.** ***~229,000 tonnes came down essentially on top of the station.*** Canon's own phrase: **a "localized scrap mountain."** |
+| **2. There is no power** | **The Tower regulated the continent's grid.** Its fall ended that supply permanently *(the same event that darkened Mountain Pass)*. **The relay that employed 60% of this workforce died with the thing it stood next to.** |
+| **3. There is no life support** | **429 workers ran it — sized for a functioning station WITH power.** At 90°S, ~2,835 m, D=2.50. ***The margin was thin by design and it is now zero.*** |
+| **4. It is being buried** | **Snow accumulation at the Pole buries structures** — the mechanism that buried the real Byrd Station and became Byrd's entire founding premise. **The ruins are not static. They are going under.** |
+
+> ### ⭐ **And the deep structure is already canon.** The Tower's base *"would need to house the full linear
+> accelerator, the pellet return loop, and massive power generation"* — **underground**, explicitly linked in
+> that file to **Kendra Heinrich's DLC tunnels.** ***Whatever is survivable down there is below the scrap
+> mountain, not beside it.***
+
+### ⭐ The archive and the neutrality are the same fact
+
+**Amundsen Station was *"structurally politically neutral — belonged to all six subnets equally and therefore
+to none,"* and informally hosted inter-subnet dispute mediation.** **The pre-Split-Brain Arcanet archive
+survived in the ruins — *"the only place all six subnets' histories can be reconciled."***
+
+> ***It can reconcile all six because it belonged to none of them.*** **The archive is not stored at a
+> neutral site by coincidence; the neutrality is why the archive exists.**
+
+*(This is also where **Juan Carlos's federal immigration archive** was consolidated — §10, register item 10.)*
+
+### Notes
+
+- **Three highways converge, no airport:** **Hwy 22** *(Transcontinental)* passes directly through the
+  geographic South Pole; **Hwy 175 and Hwy 59 both terminate** at ramps nearby, ranked by proximity to the
+  Pole. **⭐ Hwy 59 doubles as the Arcanet cable corridor** to the Pole relay — **road and signal ran the same
+  line.**
+- **St. Roald (Amundsen) is venerated Federation-wide**, complementing St. Richard (Scott): ***Amundsen has
+  the Pole, Scott has the city.***
+- **⚠ Post-war, NOT an input:** **destroyed; the most significant ruins in Tepenia; the DLC 1 setting.**
+  **Kendra Heinrich — robot, "goddess of war" — is the sole occupant.**
+- **⚠ No Symbolic Substrate entry exists** for Amundsen Station — it is absent from
+  `City_Symbol_Assignments.md`, unlike all 37 cities.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
