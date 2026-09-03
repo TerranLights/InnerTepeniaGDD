@@ -46,6 +46,85 @@
 
 ---
 
+> ## ⏸️ FLAGGED FOR FUTURE DEVELOPMENT — THE DENSITY PROBLEM AND THE MEGASTRUCTURE ANSWER
+>
+> **Raised and researched 2026-09-02 during the division-of-industry roster pass; DEFERRED by developer
+> direction** — *"it sounds like this will take many, many hours of research and creativity."* **Not resolved.
+> Recorded so the research does not have to be redone.**
+>
+> ### The problem
+>
+> | | |
+> |---|--:|
+> | **Cape Denison — total ASMA area** | **1.11 km²** |
+> | Census I population | **1,066,143** |
+> | **Naive surface density** | **~960,489 / km²** |
+>
+> **For comparison, the Cape Adare correction (2026-08-31) rejected 357,160/km² as implausible. Denison is
+> nearly three times worse and has never been corrected.**
+>
+> ### ⚠ And 1.11 km² is not even bedrock
+>
+> **The Australian Antarctic Division describes Cape Denison as *"a rugged, 1.5 km wide tongue of ICE, SNOW,
+> ROCK AND MORAINE"*** — **four rocky ridges** running SSE–NNW, separated by **three valleys filled with ice,
+> snow and glacial moraine**, plus six meltwater lakes and boulder fields. **The exposed rock is the ridges
+> only, so the true ice-free area is materially LESS than 1.11 km².**
+>
+> ### ⭐ There is no hinterland — the site is enclosed on every side
+>
+> **Ice cliffs at both ends (Land's End and John O'Groats) · the sea to the north · and behind it *"the
+> massive Antarctic ice cap… terminates in huge ice cliffs which periodically calve into the sea."***
+>
+> **This rules out a linear coastal city, and makes any inland expansion a build into an actively calving ice
+> margin.**
+>
+> ### ⭐⭐ THE STRONGEST CANDIDATE — canon may already contain the answer
+>
+> **§15 already says Denison is *"built as ONE CONTINUOUS, INTERLINKED, LOAD-SHARING STRUCTURE rather than
+> separate buildings — unique in Tepenia."* "Load-sharing" is structural-engineering language.**
+>
+> > ### **The four ridges are the piers. The structure is the span.**
+> > **A city bridged across three ice-filled valleys, anchored on four rock spines, in 300 km/h wind.**
+>
+> **Permitted directly by `Division_of_Industry/13` §14** *(the constraint is bedrock ACCESS, not bare
+> surface)*. **And it explains the §15:** *why does this city spend 25% of its distinctive tier on
+> structural/wind engineering and export that expertise nationally?* **Because it is holding a megastructure
+> up in the windiest place on Earth.** **Nothing else in Tepenia is built like that, because nowhere else has
+> to be.**
+>
+> **Scale, at real-world dense-city floor densities:**
+>
+> | Usable footprint | Levels needed *(Manhattan ~28,000/km²)* |
+> |---|--:|
+> | **Full 1.11 km²**, spanning the valleys | **~34** |
+> | **Ridges only**, if ~half the cape | **~69** |
+>
+> ***Spanning the valleys is what makes the population fit — so the load-sharing structure is not an
+> aesthetic choice, it is the only arrangement that works.***
+>
+> ### ⚠ Differentiation constraint for whoever develops this
+>
+> **BYRD is the underground city** — *"founded underground before it existed on the surface."* **Denison must
+> not become a second one.** **The distinction to hold is INTENT: Byrd went under by accident** *(buried by
+> snow accumulation, grew downward, surfaced later)*; **Denison would be engineered vertically from the
+> start, as a deliberate answer to the wind.**
+>
+> **⭐ And the canon identity survives intact:** Denison stays *"the windiest permanent sea-level habitation
+> on Earth."* **It does not retreat inland toward the katabatic source — it stays exactly where the wind is
+> and builds something that can take it.** **Which is the civic identity canon already gives it: open pride
+> in extremity.**
+>
+> **Options considered and their standing:** **(A)** vertical megastructure on the cape — *reinterpretation of
+> existing canon, strongest*; **(B)** bedrock hinterland under the ice sheet — *Byrd differentiation risk +
+> calving margin*; **(C)** linear coastal — *ruled out by the enclosing ice cliffs*; **(D)** reduce the
+> population — *cascades into census totals, and Denison needs a workforce as a chamber manufacturer and
+> wind-engineering exporter*; **(E)** A plus a downward component — *recommended by the analyst*.
+>
+> **⚠ The division-of-industry determination is UNAFFECTED** — baseline 53.2% / mandated 16.4% / free 30.4%
+> hold regardless. **This is a geography correction, not a labor one.**
+>
+> **Sources:** AAD *Mawson's Huts — Cape Denison landscape*; Wikipedia *Cape Denison*, *Commonwealth Bay*.
+
 ## Geographic Basis
 
 Cape Denison sits on Commonwealth Bay, George V Land, East Antarctica — a rare stretch of exposed bedrock on an otherwise ice-buried coast, which is precisely why Douglas Mawson chose it as his expedition's main base in 1911. He had no way of knowing until it was too late to relocate that he'd picked what may be the windiest permanent habitation site at sea level on the planet: average wind speeds around 80 km/h, with recorded gusts well over 300 km/h during the worst katabatic events. His own account of the ordeal was titled *Home of the Blizzard*, and the name outlasted the expedition itself.
