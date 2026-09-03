@@ -3065,24 +3065,35 @@ Fort McMurdo · Scott — with **Concordia deferred by developer ruling.***
 | Tier | Workers | Share |
 |---|--:|--:|
 | **Baseline** *(D=1.43, **GROWER** — rock-founded, food term 100%)* | 70,244 | **39.3%** |
-| **Mandated** | 59,650 | **33.4%** |
-| **FREE — the character budget** | 48,804 | **27.3%** |
+| **Mandated** | 75,918 | **42.5%** |
+| **FREE — the character budget** | 32,536 | **18.2%** |
 
 **Distinctive tier: 108,454 (60.7%).** Canon §15 *(revised 2026-07-06)*: Industrial fabrication 30% ·
 Trucking & dispatch 25% · Scientific research 20% · Maritime trade 15% · Leisure/commercial 5% · Other 5%.
 
-### The mandate *(developer ruling A, 2026-09-02)*
+### The mandate *(developer ruling B, 2026-09-02 — THE WHOLE CHAIN)*
 
-| Share of distinctive | Workers | Sector | Basis |
+| Share of distinctive | Workers | Stage | Basis |
 |--:|--:|---|---|
-| **30%** | 32,536 | **Industrial fabrication** | ✅ `04` §3 **FABRICATION · TRUCKING** provider |
-| **25%** | 27,114 | **Trucking & dispatch — the Sayowa Junction** | ✅ Canon §15 + *"the whole continent's connectivity plausibly depends on it"* |
-| **55%** | **59,650** | | |
+| **15%** | 16,268 | **Maritime trade — the island port, INTAKE** | The new mainland canon: material lands here |
+| **30%** | 32,536 | **Industrial fabrication — PROCESSING** | ✅ `04` §3 **FABRICATION · TRUCKING** provider |
+| **25%** | 27,114 | **Trucking & dispatch — OUTBOUND via the Junction** | ✅ Canon §15 + *"the whole continent's connectivity plausibly depends on it"* |
+| **70%** | **75,918** | | |
 
-**⚠ The analyst recommended B *(+ maritime 15% = 70%)*, reading the new mainland canon as making port →
-fabrication → dispatch one chain. The developer ruled A.** **A is the more conservative reading and
-defensible on the file's own terms: §15 annotates maritime only as *"Lützow-Holm Bay access,"* and treating
-that sector as the intake stage is inference, not canon.**
+> ### ⭐⭐ **The three sectors are ONE OPERATION, not three.**
+> **ISLAND PORT (intake) → FABRICATION (processing) → TRUCKING (dispatch).** **The Sanay structure**, where
+> port + warehousing + trucking were ruled three stages of a single national chain.
+>
+> ***The small free tier is not a problem — it IS the ruling.*** The developer's own description was *"a very,
+> very sparsely-populated, very, very extremely heavily-industrialized shipping port."* **A tiny population
+> running an enormous industrial port should have most of its labor conscripted. 18.2% free is that sentence
+> expressed as a number.**
+>
+> **And it resolves with nothing arbitrary left over: the free tier is EXACTLY scientific research 20% +
+> leisure/commercial 5% + Other 5%.** **The entire industrial chain is mandated; everything else is the
+> city's own.**
+
+*(Ruled A first, then corrected to B the same session once the chain reading was on the table.)*
 
 ### ⭐⭐ THE FABRICATION QUESTION — RAISED AND ANSWERED IN THE SAME SESSION
 
@@ -3122,8 +3133,6 @@ Basis.)*
 ### What stays FREE
 
 - **Scientific research 20%** — *"inherited JARE tradition."* Heritage research.
-- **Maritime trade 15%** — *"Lützow-Holm Bay access."* **Unannotated as a national role** — see the ruling
-  note above.
 - **Leisure/commercial 5%** — canon calls it *"a genuine but distinctly secondary sector, well behind the
   industrial core."*
 - **Other 5%.**
