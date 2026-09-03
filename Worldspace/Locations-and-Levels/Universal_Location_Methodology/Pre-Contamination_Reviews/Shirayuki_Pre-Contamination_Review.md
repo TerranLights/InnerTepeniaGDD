@@ -68,11 +68,21 @@ City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attribu
 
 # 4. ⛔ Required-reading SKIP LIST — the three lines, located and unread
 
-| File | Line | Class | Action |
+> ## ⛔⛔ CORRECTED 2026-09-03 — SKIP RANGES, NOT LINES. See M-103.
+>
+> **The line-only version of this table was insufficient and it burned Run 13's own deriving session.**
+> ***A worked example is not a self-contained leak: the RULE it illustrates is stated in the surrounding
+> prose, and the rule is the more portable half.*** **Skipping line 359 while reading 355–358 delivered the
+> whole analytical claim, minus only the city's name — which the file's structure supplies anyway.**
+>
+> ### ⚠ **DO NOT READ ADJACENT LINES TO "VERIFY THE BOUNDARY." That verification IS the exposure.**
+> **Trust the range below. The reader that built it is the only party able to see both sides.**
+
+| File | **SKIP RANGE** | Class | Action |
 |---|--:|---|---|
-| `02_Generators_Capability_and_Symbols.md` | **359** | ⛔ **CONCLUSION** | **SKIP** |
-| `05_The_Input_Contract.md` | **211** | ⛔ **CONCLUSION** | **SKIP** |
-| `05_The_Input_Contract.md` | **215** | ⛔ **CONCLUSION** | **SKIP** |
+| `02_Generators_Capability_and_Symbols.md` | **§4.1 entire — from the `## 4.1` heading through the end of the PEER-FREE address-axis subsection *(covers L359 and the rule statement it exemplifies)*** | ⛔⛔ **CONCLUSION-EXAMPLE** | **SKIP THE WHOLE SUBSECTION.** Its rule is recoverable from `00_RUNBOOK.md` Step 2 item 5 without the example |
+| `05_The_Input_Contract.md` | **211** | ⛔ **CONCLUSION** | **SKIP** — verify whether this is also example-bearing before trusting a line-only skip |
+| `05_The_Input_Contract.md` | **215** | ⛔ **CONCLUSION** | **SKIP** — same caution |
 | `06_Worked_Example_Provenance.md` | 77 | ATTRIBUTE | none — inside another city's section |
 | `06_Worked_Example_Provenance.md` | 161 | ANECDOTE | none |
 | `00`, `01`, `03`, `04`, `README`, `Cultural_Synthesis_Techniques.md`, `Real-World_Basis_Extrapolation_Method.md`, `00b`, `00d`, `00f` | — | **CLEAN — verified, not assumed** | none |

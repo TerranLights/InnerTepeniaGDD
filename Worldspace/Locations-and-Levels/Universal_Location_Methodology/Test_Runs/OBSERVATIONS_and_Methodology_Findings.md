@@ -3334,3 +3334,69 @@ Shirayuki, Run 13's `Step −2`). **Six readers total, two contract versions, no
 purpose. ***This is consistency of the INPUT SURFACE, measured before either derivation ran.*** **It is a
 real result and it is not the one that was asked for.** **Recorded now because it is complete now, and
 because a statistic measured before the run cannot be accused of being fitted to the run's conclusions.**
+
+---
+
+# M-103 — ⛔⛔ SKIPPING A FLAGGED LINE DOES NOT PROTECT YOU WHEN THE LINE IS A WORKED EXAMPLE. The rule it
+illustrates is stated *around* it, and the rule is the conclusion
+
+**Self-caught 2026-09-03, Run 13, Phase 0, minutes after the coordinate map was CONFIRMED and the run opened.**
+***The vector-1 machinery worked perfectly and the mitigation it prescribes was insufficient.***
+
+## What happened
+
+**`Step −2`'s vector-1 reader had located three `CONCLUSION` lines in required reading and returned line
+numbers only** — a clean isolation result (M-99). **`02_Generators_Capability_and_Symbols.md` line 359 was
+one. The prescribed mitigation is "read the file, skip that line."**
+
+**The deriving session read the neighboring lines to verify the skip boundary — and those lines state the
+GENERAL RULE the flagged line is a worked example OF.** A specific analytical pattern about out-migration,
+self-diagnosis and unchallengeable nostalgia, stated in full, one line above the example naming the subject.
+
+> ### ***A worked example is not a self-contained leak. It is the ILLUSTRATION of a claim, and the claim is
+> stated in the surrounding prose.*** **Skipping the illustration leaves the claim intact — and the claim is
+> the more portable half.** **The reader knows the conclusion; it has merely not been told which city it is
+> about, and the file's own structure supplies that in the next sentence.**
+
+## Why the existing rules all missed it
+
+| Rule | Why it did not fire |
+|---|---|
+| **`06` manifest** | Records the *coordinate*. A line number cannot express "and the paragraph above it" |
+| **Vector-1 reader** | Classified the LINE correctly. It was never asked about the line's neighbors |
+| **M-88 filename rule** | Different channel |
+| **M-97 shape-not-content** | Governs what a rule SAYS about a leak, not the structure of the rule text itself |
+
+***All four instruments treat a leak as a point. A worked example is a point plus its explanation, and the
+explanation is what generalizes.***
+
+## The fix — implemented
+
+1. **A vector-1 reader must return a RANGE, not a line, for any `CONCLUSION` classified as a worked example**
+   — the example plus the rule statement it illustrates. **New classification value: `CONCLUSION-EXAMPLE`,
+   distinct from `CONCLUSION`.**
+2. **The deriver skips the whole range**, and **must not read adjacent lines to "verify the boundary"** —
+   that verification is itself the exposure. ***Trust the reader's range; it is the only party that can see
+   both.***
+3. **`06_Worked_Example_Provenance.md` entries record ranges for worked examples**, never bare line numbers.
+
+## ⚠ The consequence for Run 13 itself, applied rather than argued
+
+**`00_Frame_and_PreFlight.md` §0.3 pre-committed:** *"If the run's spine turns out to sit in that register,
+this run is NOT cold and must be re-declared WARM. That determination is made at Phase 1, on the evidence."*
+
+**The evidence arrived immediately.** **The admissible census (G8) shows Census I 1,178,313 → Census II
+728,324 — a 38% loss to orbital emigration, rank 12th → 17th.** ***Out-migration is unambiguously going to be
+a spine-level input for this location, and this session has now been handed an analytical framing for exactly
+that.***
+
+> ### ***Therefore, per `§C.5`: this is SPINE-level, not leaf-level. Run 13 is not a cold run.***
+>
+> **Recorded as the pre-commitment being honored rather than reasoned around.** ***The value of writing the
+> condition down at Phase 0 was that it had to be obeyed when it fired — and it fired against the session
+> that wrote it, twenty minutes later.***
+
+**⭐ And note what is NOT lost:** **the `§C.4` review is `CONFIRMED`, pinned, and coordinates-only.** **A fresh
+session inherits it and derives genuinely cold** — paying none of this session's cost. ***This is `§C.3`'s
+pairing working exactly as designed for the second time in two days: the contaminated session built the map;
+it cannot be the one to use it.***
