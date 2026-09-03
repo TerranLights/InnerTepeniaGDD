@@ -1,31 +1,58 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
-> # 🔺🔺 NEXT ACTION — RUN 12, CASEY, COLD. PREPARED AND HANDED OFF 2026-09-02.
+> # 🔺🔺 NEXT ACTION — RUN 13: CASEY, COLD. **RE-HANDED OFF 2026-09-02 AFTER RUN 12 WAS BURNED.**
 >
-> ### **Read `Casey_ColdRun_Prep_2026-09-02.md` (this folder) before anything else in this file.**
+> ### ⛔ **DO NOT READ `../00_RUNBOOK.md` YET. Read `Casey_ColdRun_Prep_2026-09-02.md`'s TOP BOX first, and do the four things it lists.** **Then** the runbook, in full, per `CLAUDE.md`.
+>
+> ### **⚠⚠ RUN 12 NEVER REACHED PHASE 0.**
+>
+> **Its deriving session absorbed FOUR conclusion-tier leaks about Casey before it dispatched a single
+> reader — every one of them upstream of `§C.2`, which governs only what a deriver chooses to delegate.**
+> ***By the time isolation was reached there was nothing left to protect.*** **The cold half was abandoned by
+> developer decision; the session continued as a map-builder per `§C.3`.** **Full account: `OBSERVATIONS_and_
+> Methodology_Findings.md` M-87 – M-92.**
+>
+> | # | Vector | Status now |
+> |---|---|---|
+> | **1** | **The required reading itself** — `00` and `01` carried Casey worked examples, un-manifested | ✅ `00` neutralized · `01` manifested, skip line 65 · **`06` entry added** |
+> | **2** | **Auto-loaded memory** — three un-banded entries | ✅ **Banded 2026-09-02** |
+> | **3** | **Filenames as theses** — a mandated `find` returned eleven vignette titles | ✅ **`§C.2` amended; paths sanitized in the prep doc** |
+> | **4** | **Compositional reconstruction** — 1+2+3, each survivable alone, decisive together | ⚠ **No mechanical fix exists. Keep an exposure ledger** |
+>
+> ### ⭐ What is now DIFFERENT, and it is the whole point of the re-handoff
+>
+> **`../00_RUNBOOK.md` now opens with `Step −2` — *DISPATCH YOUR READERS BEFORE YOU READ ANYTHING ELSE,
+> INCLUDING THE REST OF THIS FILE.*** ***A cold run's first act is delegation, never reading.*** **You cannot
+> know whether a file names your subject until someone who is not you has looked** — so the first move is to
+> send isolated readers at the required reading, at memory, and at the file tree, and to read nothing until
+> they report.
+>
+> **`§C.2` also gained two amendments the same day:** **a filename is a section heading** (M-88), and **the
+> tag's unit is a SPAN, not a line — character ranges where the seam falls mid-line** (M-92, developer
+> instruction).
+>
+> ### ⭐⭐ The good news, and it is real
+>
+> **`§C.1` and `§C.2` remain UNTESTED in live use.** **Run 12 aborted before exercising them.** Their first
+> real test — prep §9's fourth success criterion — **is still available to you, and now on a repaired
+> protocol.**
+>
+> **✅ This file is safe to read — it contains no Casey content** *(verified 2026-09-02, and re-verified after
+> the Run 12 rewrite)*. **So is the prep document** — audited after Run 12 and confirmed to have leaked
+> nothing; it was written against M-85 and it held. Its Zhongshan and Sinheung findings are **Mirny-subnet
+> siblings and legitimate Tier 2 input** for Phase 5 and Gate 6.
+>
+> ### Unchanged from the original Run 12 scoping
 >
 > **Per direct developer instruction, not the default** — the same precedence as Run 11. **This supersedes
-> both the type-diversity default below AND the Governing Priority Sequence deprioritization notice, for
-> this run only.**
+> both the type-diversity default below AND the Governing Priority Sequence deprioritization notice.**
+> **Subject: Casey, the city entire · Type: Settlement · Mode: COLD · Parent: Mirny subnet · Frame: SECOND
+> INTERWAR, pre-war** *(Casey's post-war `destroyed` status is a separate document, per `05` §2.1b)*.
+> **Purpose: CONSISTENCY, not Type coverage** — which is why the type is held constant against two
+> already-cold-run subnet siblings, Zhongshan (Runs 3/4) and Sinheung (Run 5).
 >
-> **⚠⚠ THE PREPARING SESSION COULD NOT RUN IT, AND NEITHER CAN ANY SESSION THAT HAS INDEXED THE CITIES.**
-> **It had compiled `Cities/City_Master_Reference/` (all 37 cities) and run Casey's division-of-industry
-> determination.** **Generalized as `../00_RUNBOOK.md` §C.3: *a compilation pass contaminates its compiler
-> against every location it covers.*** ***Confirm your own exposure before starting — the question is not
-> "is this location clean?" but "have I, at any point and for any reason, read into this location's
-> conclusion tier?"***
->
-> **⚠ `../00_RUNBOOK.md` GREW ON 2026-09-02** — new **§C.1** *(the City Master Reference is MIXED and withheld
-> as a whole)*, **§C.2** *(reader/deriver isolation · three readers · `ADMISSIBLE` needs 3–0 unanimity · the
-> escalation ladder)*, and **§C.3** *(the contamination finding above)*. **Read it in full, as `CLAUDE.md`
-> requires.**
->
-> **⭐ Run 12 tests TWO things:** Casey, **and §C.1/§C.2's first live use.** **The isolation machinery's
-> performance is a result of this run in its own right** and belongs in the writeup beside Casey's findings.
->
-> **✅ This file is safe to read first — it contains no Casey content** *(verified 2026-09-02)*. Its
-> Zhongshan and Sinheung findings are **Mirny-subnet siblings and legitimate Tier 2 input** for Phase 5 and
-> Gate 6.
+> ***And confirm your own exposure before starting.*** **The question is not "is this location clean?" but
+> *"have I, at any point and for any reason, read into this location's conclusion tier?"*** — `§C.3`.
 
 > **⚠ DEPRIORITIZED 2026-09-01 — read `Dev-Road-Map/Weekly_To-Do_-_Current.md`'s "🔴🔴🔴 THE GOVERNING PRIORITY
 > SEQUENCE" before resuming this file's own work.** The type-diversity phase below is downgraded from Top to

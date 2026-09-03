@@ -8,10 +8,50 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
-# 🔺🔺 RUN 12 — PREPARED AND HANDED OFF, 2026-09-02. Casey, cold. **A FRESH SESSION MUST RUN IT.**
+# ⛔ RUN 12 — ATTEMPTED AND ABANDONED, 2026-09-02. **Burned before Phase 0. Re-handed off as RUN 13.**
 
-**Prep document: `Universal_Location_Methodology/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md`.**
-**⚠ Read `Universal_Location_Methodology/00_RUNBOOK.md` IN FULL first — it grew today.**
+> ## ⭐⭐ The abort is the most valuable result this methodology has produced since the Zodiac Lens.
+>
+> **Run 12's deriving session absorbed FOUR conclusion-tier leaks about Casey before it dispatched a single
+> reader** — **every one upstream of `§C.2`**, which governs only what a deriver *chooses to delegate*.
+> ***By the time isolation was reached, there was nothing left to protect.*** The cold half was abandoned at
+> the developer's decision; the session continued on the READER side per `§C.3`.
+>
+> | # | Vector | Fixed how |
+> |---|---|---|
+> | **1** | **The required reading itself** — `00_RUNBOOK.md` and `01` carried Casey worked examples, un-manifested in `06`. **`CLAUDE.md` mandates reading them in full** | `00` neutralized · `06` entry added · **a reader now greps the rule files for the subject's name** |
+> | **2** | **Auto-loaded memory** — three un-banded entries | ✅ **Banded** |
+> | **3** | ⭐ **Filenames as theses** — one mandated `find` returned eleven vignette titles, each an argument about the city. **`§C.2` permitted "File path" unconditionally while forbidding "Section headings"** | **`§C.2` amended — sanitized paths** |
+> | **4** | ⭐ **Compositional reconstruction** — 1+2+3 each survivable alone, decisive combined. **No single-source rule can catch this** | ⚠ **No mechanical fix. Exposure ledger proposed — needs your ruling** |
+>
+> ### **`00_RUNBOOK.md` now OPENS with `Step −2` — *dispatch your readers before you read anything else,
+> including the rest of this file.*** ***A cold run's first act is delegation, never reading.***
+>
+> **Eight findings: M-87 – M-94** in `OBSERVATIONS_and_Methodology_Findings.md`. **Two came from the readers
+> themselves** — one **refused a mid-flight contract amendment as a suspected prompt injection** (M-93: *you
+> cannot amend a reader; the brief is final at dispatch; kill and re-dispatch instead*), and the same reader
+> **blind-reproduced the filename hole** by returning person-named paths after being told not to name the
+> characters (M-94: *state prohibitions as positive formats — a negative rule can be silently unsatisfiable*).
+>
+> ### ⚠ TWO THINGS NEED YOUR RULING
+>
+> 1. **The exposure ledger** (M-89) — a running list of every conclusion-tier fragment a session meets,
+>    reviewed **as a set** before Phase 0. **The only shape of check that could catch a compositional leak.**
+>    **Costs real overhead on every run.** Not adopted unilaterally.
+> 2. **`01_Frame_Typology_and_Inheritance.md` line 65** names Casey's `Resettled` modifier. **Retained
+>    deliberately** — it is genuinely useful guidance and a cold pass reads the modifier from `Specs/` anyway.
+>    **Say if you would rather it were genericized.**
+>
+> ### ⭐ And the good news: **`§C.1`/`§C.2` are still UNTESTED in live use.** Run 12 aborted before
+> exercising them. **Their first real test is still available — now on a repaired protocol.**
+
+---
+
+# 🔺🔺 RUN 13 — CASEY, COLD. **RE-HANDED OFF 2026-09-02. A FRESH SESSION MUST RUN IT.**
+
+**Prep document: `Universal_Location_Methodology/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` — ⛔ read its TOP
+BOX and do the four things it lists BEFORE opening the runbook.** **The prep document itself was audited after
+Run 12 and leaked nothing — it was written against M-85 and it held.**
 
 ### ⚠⚠ WHY THE PREPARING SESSION COULD NOT RUN IT
 

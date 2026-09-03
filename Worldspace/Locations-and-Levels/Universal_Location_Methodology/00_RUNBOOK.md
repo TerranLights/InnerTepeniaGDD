@@ -1,5 +1,55 @@
 # RUNBOOK — Running One Location, Start to Finish
 
+> # 🔺🔺 STEP −2 — DISPATCH YOUR READERS BEFORE YOU READ ANYTHING ELSE. INCLUDING THE REST OF THIS FILE.
+>
+> **Added 2026-09-02, at the developer's direction, after Run 12 (Casey) was burned before it began.**
+> **This is now the FIRST action of every cold run. It precedes Step −1, the frame, the required reading, and
+> your first `find`.**
+>
+> ### The finding that forces it
+>
+> **Run 12's deriving session absorbed FOUR separate conclusion-tier leaks about its own subject before it
+> dispatched a single reader — every one of them upstream of `§C.2`'s protection, which only governs work the
+> deriver chooses to delegate.** ***By the time §C.2 was reached, there was nothing left to protect.***
+>
+> | # | Vector | How it reached the deriver |
+> |---|---|---|
+> | **1** | **The required reading itself** | `00_RUNBOOK.md` and `01` carried the subject's own civic-character claim and frame modifier as *worked examples*, un-flagged in `06`. **`CLAUDE.md` mandates reading them in full.** *(M-82 recurring — third instance.)* |
+> | **2** | **Auto-loaded memory** | Three un-banded entries. **Memory is PUSHED; no do-not-open list can intercept it.** *(M-21 / M-63 recurring.)* |
+> | **3** | ⭐ **Filenames as theses** | `§C.2`'s return contract **permits "File path" unconditionally and forbids "Section headings."** In a corpus that titles files by their argument, ***the permitted channel carries the forbidden payload*** — and `§3c` *mandates* `find`/`ls` navigation. **A hole inside §C.2 itself.** |
+> | **4** | ⭐ **Compositional reconstruction** | Vectors 1–3 were each individually marginal. **Together they reconstructed the withheld conclusion.** **No single-source rule can catch this** — each leak passes its own check. |
+>
+> ### What to do, in this order, before reading past this box
+>
+> 1. **Name the subject. Then stop reading.**
+> 2. **Dispatch isolated readers (`§C.2` return contract) to do ALL of the following**, and read nothing
+>    yourself until they return:
+>    - **Scan the required reading** — `00`–`06`, `00b`, `00d`, `00f`, `Cultural_Synthesis_Techniques.md` —
+>      **for the subject's name. Return LINE NUMBERS ONLY.** You then read those files *skipping those lines.*
+>      **This closes vector 1, and `06_Worked_Example_Provenance.md` is not sufficient on its own — it is a
+>      manifest maintained by hand, and it has now been wrong three times.**
+>    - **Scan the auto-loaded memory directory** for the subject and every adjacent location. **Band every hit
+>      that is not attribute-only, before you read it.** **This closes vector 2** *(`Step 10.1` item 1, run
+>      inbound instead of trusting that the handoff ran it outbound — it did not)*.
+>    - **Return the file tree as SANITIZED paths** — *"`…/Course_of_Events/` — 11 files, 91–143 lines each"* —
+>      **never the filenames.** **This closes vector 3.**
+>    - **Build the admissible/withheld coordinate map** — the ordinary `§C.2` job, which is all anyone was
+>      doing before.
+> 3. **Only now** read the rest of this runbook, `01`–`06`, and the disciplines — **skipping the lines your
+>    reader flagged.**
+>
+> ### ⚠ The rule that generalizes, and it is the one to remember
+>
+> > ## **A COLD RUN'S FIRST ACT IS DELEGATION, NEVER READING.**
+> >
+> > **Anything you read before your readers report is unquarantined by construction** — you cannot know
+> > whether it names your subject until someone who is not you has looked. **The deriver's first act of
+> > reading is already too late.**
+>
+> **And the asymmetry that makes this cheap:** a reader dispatched needlessly costs one subagent. **A leak
+> costs the entire run, and it is not recoverable** — you cannot un-read a conclusion, and every finding
+> downstream of it is permanently corroboration-weight at best. ***Dispatch when in doubt.***
+
 **Working draft, 2026-08-30. This is the operational entry point for the universal location methodology. Start
 here.**
 
@@ -362,10 +412,104 @@ learns *where* to look without ever being exposed to *what is there*.**
 
 | **May be returned** | **Must NEVER be returned** |
 |---|---|
-| File path | **Section headings** — *"§30 — Why Casey Is The Loud One"* contaminates as thoroughly as the paragraph |
+| File path — **⚠ ONLY IF THE NAME IS NEUTRAL. See the rule below.** | **Section headings** — *"§30 — Why \[Location] Is The \[Adjective] One"* contaminates as thoroughly as the paragraph |
 | Line range | Quotes, excerpts, paraphrase |
+| **⭐ CHARACTER range within a line — `L142 :: chars 1–37`** — **required wherever the seam falls mid-line.** See below | A range whose stated bounds do not actually exclude the conclusion |
 | **One tag: `ADMISSIBLE` or `WITHHELD`** | Summaries, characterizations, or a closing report of what was found |
-| *(optionally)* which generator a range supplies — `G2`, `G5`, `G8`… | Counts described qualitatively *("mostly about the bar culture")* |
+| *(optionally)* which generator a range supplies — `G2`, `G5`, `G8`… | Counts described qualitatively *("mostly about the drinking culture")* |
+
+> ### ⚠⚠ A FILENAME IS A SECTION HEADING. *(Vector 3 — found on this contract's first live use, Run 12, 2026-09-02.)*
+>
+> **The row above used to read "File path" with no qualification, directly beside a row forbidding section
+> headings. That is a contradiction, and a corpus that titles files by their argument exploits it.**
+>
+> **The live instance:** a vignette folder whose eleven filenames were each a *thesis about the
+> location* — its central institution, its founding tension, its relationship to travelers, its refusal to
+> take sides. **A single `ls` handed the deriving session more of the withheld conclusion than any paragraph
+> would have**, because titles are *distilled*. **No file was opened. `§3c` had mandated the `ls`.**
+>
+> **The rule:**
+>
+> 1. **A reader returns a path only after checking that the path itself carries no claim.** Directory names
+>    and template-generated names (`Specs/`, `_Physical_Infrastructure_Attributes.md`) are safe. **Authored
+>    titles are not.**
+> 2. **Where a name carries a claim, return a SANITIZED path** — the directory, the file COUNT, and the line
+>    counts: *"`…/Course_of_Events/` — 11 files, 91–143 lines each."* **The deriver can address a file by
+>    index without ever seeing its title.**
+> 3. **⚠ This binds the DERIVER too, not only the reader.** **Never run a bare `ls`, `find`, `tree` or
+>    `grep -l` against your own subject's folders.** **Delegate the listing.** *(`§3c`'s "navigate by path,
+>    never by query" was written against the graph index and is silent on this — it is amended by Step −2.)*
+
+> ### ⭐⭐ THE SEAM IS OFTEN MID-LINE. RETURN CHARACTER RANGES WHEN IT IS.
+>
+> **Developer instruction, 2026-09-02. This generalizes M-83's line/character-anchoring technique
+> (`05_The_Input_Contract.md` §6.1a) from a mitigation applied to one known file into a standing property of
+> the `§C.2` return contract.**
+>
+> **A line-grained map assumes the attribute/conclusion boundary falls at a line break. It frequently does
+> not:**
+>
+> | Mid-line seam | Why the line cannot simply be tagged |
+> |---|---|
+> | **A table row** — `\| Symbol pair \| members \| derived rationale \|` | **The members column is `G1`. The rationale is a conclusion.** One line, both tiers. *(`§3b`'s row-level-mixing note — the case that produced M-83.)* |
+> | **A sentence with an appositive** — *"Founded 2571 by \[nation], the city that never…"* | **`G4` up to the comma. Conclusion after it.** |
+> | **A header line carrying `Significance:`** | The rest of the header is navigation; that one field is interpretive. |
+> | **A list item with a parenthetical gloss** | The item is an attribute; the gloss explains what it *means*. |
+>
+> **So the tag's unit is a SPAN, not a line.** **Return `L142 :: chars 1–37 → ADMISSIBLE` and
+> `L142 :: chars 38–end → WITHHELD` where that is the truth.** **A reader forced to tag whole lines will
+> either withhold a needed attribute or admit a conclusion — and per the asymmetry above, it will usually do
+> the second.** ***Line-grain tagging systematically biases toward false `ADMISSIBLE` on exactly the mixed
+> files this protocol exists for.***
+>
+> **How the deriver consumes it** — with `Read`'s `offset`/`limit` to reach the line, then a character slice;
+> or, where that is awkward, **escalate to ladder step 3 (closed-schema extraction)**, which sidesteps the
+> span entirely by returning the named field instead of the text. **Never by "reading carefully up to the
+> comma" — `§6.1a` rule 1 is about exposure, not intent.**
+
+> ### ⛔⛔ THE BRIEF IS FINAL AT DISPATCH. YOU CANNOT AMEND A READER. *(M-93, 2026-09-02 — learned by a reader refusing.)*
+>
+> **`§C.2` used to assume, without saying so, that a dispatching session can steer its readers mid-task.**
+> ***It cannot, and it must not be able to.***
+>
+> **The instance:** three readers were dispatched, then amended in-flight with two genuine improvements.
+> **One refused** — correctly reasoning that a plausible-sounding mid-task instruction to alter an output
+> contract, arriving after a tool result, **is exactly the shape of a prompt injection**, and that a component
+> holding a strict contract while reading untrusted content is precisely the thing that must refuse them.
+>
+> ***An isolated reader is a component sent into untrusted content holding a promise about its output. A
+> reader that accepts mid-flight contract changes is one prompt away from returning what it exists to
+> withhold.*** **Its refusal is the isolation working.**
+>
+> | Rule | |
+> |---|---|
+> | **1** | **THE RETURN CONTRACT MUST BE COMPLETE AT DISPATCH.** Tag set, span granularity, path handling, every prohibition. **There is no second chance to add a requirement.** |
+> | **2** | **To change a contract: KILL AND RE-DISPATCH. Never message.** |
+> | **3** | **A refusal is a PASS.** Log it as evidence the isolation holds; re-run under a corrected brief if the amendment mattered. |
+>
+> **⚠ And `Step −2` makes this trap MORE likely, not less** — it front-loads dispatch to before the runbook is
+> read, which invites dispatching before the brief is thought through. ***Writing the reader brief is a
+> deliberate step with its own checklist, not a preamble to the real work.***
+
+> ### ⚠ STATE EVERY PROHIBITION AS A POSITIVE FORMAT. A negative rule can be silently unsatisfiable. *(M-94.)*
+>
+> **The instance, found blind and in the same hour:** a reader was told *"return file paths"* and *"do not name
+> the characters."* **It returned two paths. Both paths were person-named directories.** ***It obeyed every
+> instruction and leaked anyway, because the two instructions were jointly unsatisfiable.***
+>
+> **This is `M-88` in a second domain — and the more general one.** M-88 was authored *titles*; this is an
+> ordinary filesystem convention nobody would call a title. ***The hole is not dramatic filenames. It is that
+> the path is an information channel the contract treats as metadata and the corpus treats as content.***
+>
+> **So: never write *"do not return X."* Write the channel that cannot carry X.**
+>
+> | ❌ Unsatisfiable negative | ✅ Positive format |
+> |---|---|
+> | *"Return file paths, but do not name the characters"* | **"Return: directory + file index + line count"** |
+> | *"Return the range, but no headings"* | **"Return: `file \| L-start–L-end \| tag \| generator`. No other columns."** |
+> | *"Summarize without characterizing"* | **"Return a tag from this closed set."** |
+>
+> **Audit every negative prohibition in a brief for a positive channel that silently violates it.**
 
 **⭐ Return BOTH maps, not just the safe one.** **The `WITHHELD` list is the more valuable half** — it is a
 **quarantine map**, and knowing *"lines 60–74 are conclusions"* tells the runner nothing about what they say
@@ -843,8 +987,25 @@ before handing off to another session.**
 1. **⚠ Scan auto-loaded memory for the subject location.** *(The check that found M-21.)* Every hit must be
    **attribute-only** — founding, dates, names, census, corrections, open questions — **or carry a
    contamination banner.** **An entry stating the place's character, temperament, personality triple, or a
-   signature phrase is a live vector, and it is the only one no do-not-open list can intercept**, because
-   memory is *pushed* into a session rather than pulled by it. **Fix the entry or band it. Nothing else will.**
+   signature phrase is a live vector**, because memory is *pushed* into a session rather than pulled by it.
+   **Fix the entry or band it. Nothing else will.**
+   > **⚠ Corrected 2026-09-02, Run 12.** This item used to call memory *"the only vector no do-not-open list
+   > can intercept."* **That was wrong, and the error was load-bearing** — it implied the surface was closed
+   > once memory was checked. **There are at least three**: memory, **the required reading itself** (1a), and
+   > **filenames** (1b). **All three are pushed rather than pulled, and Run 12 was burned by all three at
+   > once.**
+
+   **1a. ⚠ Scan the REQUIRED READING for the next subject's name** — `00`–`06`, `00b`, `00d`, `00f`,
+   `Cultural_Synthesis_Techniques.md`. **Return line numbers, band or neutralize every hit, and manifest it in
+   `06`.** **`CLAUDE.md` mandates these files be read in full, so a worked example naming the next subject is
+   a guaranteed leak with a mandatory delivery mechanism.** ***This has now failed three times — M-82 (Sanay),
+   and twice more on Run 12*** — **which is why Step −2 has a reader scan them rather than trusting `06`.**
+
+   **1b. ⚠ Sanitize the file tree.** **Check whether any file or folder the next run must navigate is
+   *titled* with a claim about the location.** **If so, the handoff carries sanitized paths** — directory,
+   file count, line counts — **never the filenames.** *(Vector 3, Run 12: eleven vignette filenames, each a
+   thesis, delivered by a single mandated `ls`.)*
+
 2. **Update `06_Worked_Example_Provenance.md` with any worked examples this pass added to the methodology.**
    An unmanifested example is invisible contamination for the next same-location run.
 3. **Confirm the quarantine list was built by RULE, not by recall** — `05` §6.1's content split applied section

@@ -2545,3 +2545,288 @@ Sinheung Run 5's "Sinheung Standard" (M-42) received — a developer-synthesized
 derived findings, worth naming and potentially promoting into this location's own eventual canon, once this
 pass's findings are reviewed.
 
+
+---
+
+# M-87 — ⭐⭐ FOUR conclusion-tier leaks reached Run 12's deriver BEFORE it dispatched a single reader — every
+one of them upstream of §C.2, which governs only what the deriver chooses to delegate
+
+**Found 2026-09-02, Run 12 (Casey), during the inbound readiness check — before Phase 0, before the frame,
+before any derivation. The run's cold half was burned at the starting line and was abandoned as a cold run by
+developer decision the same session.**
+
+**§C.2 (reader/deriver isolation) was written to make contamination architecturally impossible: the reader may
+see everything, the reader may report only coordinates. It works. It was never reached.** ***Isolation
+protects the material a deriver delegates. It does nothing about material that arrives unbidden — and four
+separate channels deliver exactly that, all of them before Step 0.***
+
+| # | Vector | Instance | Prior art |
+|---|---|---|---|
+| **1** | **The required reading itself** | `00_RUNBOOK.md` §C.2's own return-contract table used *"§30 — Why \[Casey] Is The \[Adjective] One"* as its illustrative bad-heading example, and `01_Frame_Typology_and_Inheritance.md` §1 named Casey's **Resettled** modifier with an evaluative gloss. **`CLAUDE.md` mandates both files be read IN FULL before any location work.** Neither was flagged in `06_Worked_Example_Provenance.md` | **M-82 recurring, third instance** |
+| **2** | **Auto-loaded memory** | Three un-banded entries carrying a civic-character claim and two named Tier-3 particulars | **M-21 / M-63 recurring** |
+| **3** | **⭐ Filenames as theses** | A single mandated `find` returned eleven vignette filenames, each one a thesis about the location | **NEW — see M-88** |
+| **4** | **⭐ Compositional reconstruction** | Vectors 1–3 were each individually survivable. Jointly they reconstructed the withheld conclusion | **NEW — see M-89** |
+
+## The self-correction, written as required: what was believed · why it was wrong · what changed it
+
+**Believed:** that `§C.2` plus a rule-built quarantine list plus the `Step 10.1` memory scan closed the
+contamination surface, and that a fresh session reading a leak-free prep document was therefore cold.
+**Why it was wrong:** all three instruments govern *pulled* material — files a deriver decides to open. **Every
+one of the four vectors is *pushed*.** The prep document was genuinely exemplary and leaked nothing; it was
+simply not the channel. **What changed it:** running `Step 10.1` item 1 inbound and getting a hit, then
+noticing the same class of hit in the required reading and in a directory listing within the next ten minutes.
+
+## The fix — implemented, not merely recorded
+
+**`00_RUNBOOK.md` now opens with `Step −2 — DISPATCH YOUR READERS BEFORE YOU READ ANYTHING ELSE, INCLUDING THE
+REST OF THIS FILE`**, at the developer's direction. A cold run's first act is naming the subject and
+dispatching isolated readers to (a) scan the required reading for the subject's name and return line numbers
+so the deriver can skip them, (b) scan and band memory, (c) return the file tree as **sanitized paths**, and
+(d) build the ordinary coordinate map. **Only then does the deriver read anything.**
+
+> ### **The rule that generalizes: A COLD RUN'S FIRST ACT IS DELEGATION, NEVER READING.**
+> **Anything read before the readers report is unquarantined by construction — you cannot know whether it
+> names your subject until someone who is not you has looked.** ***The deriver's first act of reading is
+> already too late.***
+
+**And the asymmetry that makes it cheap:** a needless reader costs one subagent; a leak costs the run and is
+not recoverable. **Dispatch when in doubt.**
+
+## ⚠ What this run can and cannot prove
+
+**CAN:** that the four vectors exist and are live in this corpus, each with a dated instance. **CANNOT:**
+anything about Casey, and — importantly — **nothing about whether `§C.2`'s dispatch half actually works**,
+because it was never exercised on this run before the abort. **`§C.1`/`§C.2`'s first live test remains
+outstanding.** *(The three readers dispatched afterward were building a handoff map, not deriving; their
+performance is evidence about the return contract, not about isolation protecting a live derivation.)*
+
+---
+
+# M-88 — ⭐ A FILENAME IS A SECTION HEADING. A hole inside §C.2's own return contract, found on its first use
+
+**Found 2026-09-02, Run 12, from a `find` run to verify handoff paths exist (`Step 10.2` item 6).**
+
+**`§C.2`'s return contract had two adjacent rows that contradict each other:** *"File path"* in the **may be
+returned** column, unconditional — and *"Section headings"* in the **must NEVER be returned** column. **In a
+corpus that titles files by their argument, the permitted channel carries the forbidden payload.**
+
+**The instance.** One `find` returned a vignette folder whose eleven filenames were each a claim about the
+location — its central institution, its founding tension, its posture toward travelers, its refusal to take
+sides. **No file was opened. More of the withheld conclusion arrived than any single paragraph would have
+delivered, because titles are *distilled*.** ***And `§3c` had mandated the `find`*** — "navigate by path,
+never by query" was written against the graph index, which cannot honor a quarantine, and is silent on the
+listing itself being one.
+
+**Why it is a genuinely new class rather than an instance of M-82.** M-82/M-85 are about *content* leaking
+from files that should have been flagged. **This leaks from the filesystem's own metadata**, through a
+navigation method the methodology requires, into a channel its own contract explicitly blesses. **No
+do-not-open list can intercept it, because nothing was opened.**
+
+**Fixed in `00_RUNBOOK.md` §C.2** — the `File path` row is now conditional; a new sub-rule requires **sanitized
+paths** (directory + file count + line counts, addressable by index) wherever a name carries a claim; and the
+rule **binds the deriver too**: never run a bare `ls`/`find`/`tree`/`grep -l` against your own subject's
+folders — **delegate the listing.** **Also added to `Step 10.1` as item 1b**, so a handoff sanitizes the tree
+outbound rather than relying on the next run to catch it.
+
+---
+
+# M-89 — ⭐ COMPOSITIONAL CONTAMINATION: individually-marginal leaks that reconstruct a withheld conclusion
+when combined. No single-source rule can catch it
+
+**Found 2026-09-02, Run 12.** **The most structurally interesting of the four vectors, and the one with no
+available mechanical remedy.**
+
+**Taken separately, three of Run 12's leaks were each arguably survivable** — a truncated memory fragment
+naming that a civic-character claim exists without stating it; one illustrative section title in a rule file;
+a folder listing. **Each would have earned a corroboration-weight tag and a note, exactly as M-85 did on Run
+11, and the run would have continued.**
+
+**Taken together they reconstructed the location's spine** — its central institution, its network posture,
+its founding tension, and the adjective its own culture sheet apparently leads with. ***No individual leak
+crossed the threshold. The union did.***
+
+**Why this defeats every existing check.** `05` §6.1a, the `06` manifest, `Step 10.1`, and the `§C.2` triple
+tag **all evaluate one source at a time.** A range, a file, an entry, a heading — each is asked *"is this
+admissible?"* and each can answer *yes, marginally* while the set answers *no, decisively*. **There is no
+instrument in this methodology that evaluates the union of what a session has been exposed to.**
+
+**Partial mitigation, and it is honest to call it partial:** `Step −2` reduces the number of channels that
+fire at all, which lowers the odds of accumulating a reconstructive set. **It does not detect one.** **The
+only real detector remains what caught it here — a session noticing, mid-check, that separate fragments were
+composing** — which is exactly the faculty `04` Part IV warns is unreliable and self-flattering.
+
+> **⏸️ Flagged for developer review rather than forced into a rule:** a possible **exposure ledger** — a
+> running list of every conclusion-tier fragment a session has met, reviewed as a set before Phase 0 rather
+> than item by item. **Cheap to keep, and it is the only shape of check that could see a union.** Not adopted
+> unilaterally; it adds real overhead to every run and the developer should rule on whether that trade is
+> worth it.
+
+---
+
+# M-90 — `06_Worked_Example_Provenance.md` is structurally insufficient as the defense against vector 1, and
+has now been wrong three times
+
+**Found 2026-09-02, Run 12.** **`06` exists because of M-30/M-82: required-reading rule files carry worked
+examples, and a worked example about the next subject hands that subject its own prior conclusions.** Run 11
+found this on Sanay and fixed it two ways — a retroactive manifest entry, and the M-83 line-anchoring
+technique.
+
+**Run 12 found two more instances, in `00` and `01`, on a location the manifest did not list at all.** **The
+manifest was checked by name before the run, exactly as `RESUME_HERE.md` §3a item 2 requires, and returned
+clean — while both files carried live examples.**
+
+**The structural problem:** ***`06` is a hand-maintained index of a property that is only visible to whoever
+last edited the rule file.*** An author adding an illustrative example is not thinking about which location
+will be cold-run in three days, and **the manifest is updated in the same commit only if that author
+remembers.** **Three misses across three runs is not an authoring-discipline problem to be solved by
+reminding people harder.**
+
+**The fix is to stop trusting the manifest as the primary instrument.** `Step −2` now has an isolated reader
+**grep the required reading for the subject's name directly**, returning line numbers the deriver skips.
+**`06` is retained** — it is still useful as a durable record and for the case where a name is referenced
+obliquely rather than literally — **but it is now the backup, not the front line.** Recorded in `Step 10.1`
+item 1a.
+
+---
+
+# M-91 — ⭐ A technique fix for M-66's "unfixable" bind: run the inbound memory scan FILENAMES-FIRST
+
+**Found 2026-09-02, Run 12, by committing the error and noticing it.**
+
+**M-66 (Janbogo Run 9) recorded a genuine bind with no available fix:** *the inbound contamination check's own
+act of reading a passage closely enough to identify and band it necessarily exposes the checking session to
+that passage's content.* **Run 12 reproduced it exactly** — the memory scan was run as
+`grep -rin "casey"`, **which returns matching lines**, and the matched lines were the contaminating ones. The
+check worked perfectly and inflicted the damage it was checking for.
+
+**But the exposure was an artifact of the command, not of the task.** **The same check run as
+`grep -ril` returns *filenames only* — enough to identify every candidate entry, with zero content.** The
+correct sequence is:
+
+1. **`grep -ril <subject>`** — filenames only. **Nothing is read.**
+2. **Band every hit** with an exact-match insertion script, per `§3d` (patch by asserted script, verify by
+   `grep -c`). **The banner goes in without the body coming out.**
+3. **Only then**, if a specific entry genuinely must be assessed rather than banded wholesale, dispatch an
+   isolated reader per `§C.2`.
+
+**M-66 is therefore narrower than it was recorded as being.** **It is a real bind for a human or an agent that
+must *judge* a passage** — banding requires knowing the entry is dirty, and sometimes that requires reading.
+**It is not a bind for the common case**, which is *"band everything that mentions the subject and sort it out
+later,"* where the cost of over-banding is zero. ***The general principle: when a check's purpose is to
+QUARANTINE rather than to CLASSIFY, it never needs to see content — and defaulting to a content-returning
+command is a tooling habit, not a methodological necessity.***
+
+**Recorded against M-66 as a partial resolution, not a refutation.**
+
+---
+
+# M-92 — The §C.2 return contract's unit is a SPAN, not a line — character ranges are required where the seam
+falls mid-line
+
+**Developer instruction, 2026-09-02, given during Run 12's remediation and implemented into `00_RUNBOOK.md`
+§C.2 the same session:** *"sometimes, it may be necessary to return line numbers specifically with exact
+character-ranges, because sometimes, a contamination may happen within the course of a single line."*
+
+**This generalizes M-83** — the line/character-anchoring technique built during Run 11 as a mitigation applied
+to one known-bad file — **into a standing property of the return contract itself.**
+
+**The contract previously offered readers only `Line range`, which silently assumes the attribute/conclusion
+boundary falls at a line break.** **Four common cases where it does not:** a table row whose members column is
+`G1` and whose next column is the derived rationale *(the row-level-mixing case that produced M-83)*; a
+sentence that turns interpretive after an appositive comma; a header line carrying a `Significance:` field;
+a list item with an explanatory parenthetical.
+
+> ### ⚠ And the failure mode is directional, which is why this matters more than it first appears
+>
+> **A reader forced to tag whole lines must either withhold a needed attribute or admit a conclusion.**
+> **Given the pressure to return a usable map, it will usually do the second.** ***Line-grain tagging
+> systematically biases toward false `ADMISSIBLE` — on precisely the mixed files this protocol exists to
+> handle, and in precisely the direction the unanimity rule was designed to make impossible.***
+
+**Consumption:** `Read` with `offset`/`limit` plus a character slice — or, where that is awkward, **escalation
+ladder step 3 (closed-schema extraction)**, which sidesteps the span by returning the named field instead of
+the text. **Never by "reading carefully up to the comma": `05` §6.1a rule 1 is about exposure, not intent.**
+
+**Applied live the same session** — Run 12's three in-flight readers were amended mid-task to return character
+ranges, making this the first use of the extended contract.
+
+---
+
+# M-93 — ⭐⭐ A §C.2 READER CANNOT BE AMENDED MID-FLIGHT. An in-task contract change is indistinguishable from
+a prompt injection, and a correctly-behaved reader will refuse it
+
+**Found 2026-09-02, Run 12's remediation, when one of three dispatched readers rejected an amendment and said
+so explicitly in its return.**
+
+**What happened.** After the three readers were dispatched, the developer supplied M-92 (character-range spans)
+and M-88 (sanitized paths) — both genuine, both improvements. The coordinating session amended all three
+readers in-flight via `SendMessage`. **Reader C declined to adopt it**, on the reasoning that the amendment
+arrived inside a `system-reminder`-styled block immediately after a tool result rather than as an ordinary
+instruction turn, that this coincided with the harness's own injection warning, and that **a plausible-sounding
+mid-task instruction to relax or alter an output contract is precisely the injection pattern it should
+refuse.** It completed the original contract instead and flagged the event in its return.
+
+> ### ***The reader was right on policy and wrong on this instance, and the policy is more important than the
+> instance.***
+>
+> **An isolated reader is, by construction, a component that has been handed a strict output contract and then
+> sent somewhere it will encounter untrusted content.** ***That is exactly the threat model in which
+> mid-flight contract changes must be refused.*** **A reader that accepts them is one prompt away from
+> returning the conclusions it exists to withhold** — and the injected instruction would look precisely like
+> the legitimate one did.
+
+## The consequence for §C.2, which is operational and immediate
+
+**`§C.2` had an unstated assumption that the dispatching session can steer its readers.** **It cannot, and it
+should not be able to.**
+
+1. **⛔ THE RETURN CONTRACT MUST BE COMPLETE AT DISPATCH.** **There is no second chance to add a requirement.**
+   Everything — the tag set, the span granularity, the path-sanitization rule, the prohibitions — **goes in
+   the initial brief or does not go in at all.**
+2. **To change a contract, KILL AND RE-DISPATCH.** **Never message.** A re-dispatched reader is a clean,
+   fully-specified reader; an amended one is a reader that either refused (best case, this one) or accepted an
+   unverifiable instruction (worse case, and unauditable from outside).
+3. **A refusal is a PASS, not a failure.** **Record it as evidence the isolation is behaving**, and re-run
+   under the corrected brief if the amendment mattered.
+
+**Cost incurred here:** the reader returned a line-grain map where a span-grain map was wanted. **Recoverable
+— it is the `WITHHELD`-biased direction**, exactly as M-92 predicts line-grain tagging will be. **The other
+two readers' behavior under the same amendment is a natural experiment and is recorded separately.**
+
+**⚠ And the honest note about who caused this:** the coordinating session dispatched before the developer had
+finished specifying the contract, then tried to patch. **`Step −2` makes this more likely, not less** — it
+front-loads dispatch to before the runbook is read. **The mitigation is to treat "write the reader brief" as a
+deliberate step with its own checklist, not as a quick preamble to the real work.**
+
+---
+
+# M-94 — The M-88 filename hole reproduced INDEPENDENTLY, by a reader with no knowledge of it, in the same hour
+it was written
+
+**Found 2026-09-02, in reader C's own return — the strongest available evidence for M-88, because it is blind.**
+
+**Reader C rejected the amendment that contained the sanitized-path rule (M-93), so it was operating with no
+knowledge of M-88 whatsoever.** Its brief said, of the character-file locate task: ***"Do not tag, describe, or
+characterize them, and do not name the characters."***
+
+**It returned two file paths. Both paths contain the characters' names.**
+
+> ### ***The reader complied with every instruction it was given and leaked anyway, because the two
+> instructions were jointly unsatisfiable.*** **"Return file paths" and "do not name the characters" cannot
+> both be honored in a corpus that names files after people.**
+
+**This is M-88 in a second, independent domain.** M-88 was found on *vignette titles* — authored prose titles
+that happen to be theses. **This is a filesystem convention** — person-named directories, which no one would
+call a "title" and which are entirely reasonable as organization. ***The hole is not about dramatic filenames.
+It is about the path being an information channel that the return contract treats as metadata and the corpus
+treats as content.***
+
+**Two consequences beyond M-88's own fix:**
+
+1. **The prohibition must be stated as a POSITIVE FORMAT, never as a negative.** *"Do not name X"* is
+   unsatisfiable alongside *"return the path."* **`Return: directory + file index + line count`** is
+   satisfiable, and leaves the reader nothing to resolve on its own judgment. **Every negative prohibition in
+   a return contract should be checked for a positive channel that silently violates it.**
+2. **Low harm in this specific instance** — the two character names were already known to the coordinating
+   session via the banded memory entries (M-87 vector 2), so nothing new leaked. **Recorded because the
+   mechanism is general and the next instance will not be harmless.**

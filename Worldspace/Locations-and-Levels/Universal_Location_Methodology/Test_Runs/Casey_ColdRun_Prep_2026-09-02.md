@@ -1,8 +1,40 @@
-# Casey — Cold-Run Prep for RUN 12, built 2026-09-02 by a session that cannot itself run it cold
+# Casey — Cold-Run Prep, built 2026-09-02 by a session that cannot itself run it cold
+# ⚠ RE-HANDED OFF the same day. **Run 12 attempted it and was burned before Phase 0. This is now RUN 13's prep.**
 
-> **⚠ READ `../00_RUNBOOK.md` IN FULL BEFORE ANYTHING ELSE.** `CLAUDE.md` requires it for all location-culture
-> work. **It grew today** — new **§C.1** *(the City Master Reference's mixed admissibility)* and **§C.2**
-> *(reader/deriver isolation, triple tagging, the escalation ladder)*. Both bear directly on this run.
+> # 🔺🔺 READ THIS BOX BEFORE THE RUNBOOK. IT CHANGES THE ORDER OF EVERYTHING BELOW.
+>
+> ### **Run 12 (2026-09-02) never reached Phase 0.** Its deriving session absorbed **four** conclusion-tier
+> leaks about Casey **before it dispatched a single reader** — all four upstream of `§C.2`, which governs only
+> what a deriver chooses to delegate. **The cold half was abandoned by developer decision.** **Full account:
+> `OBSERVATIONS_and_Methodology_Findings.md` M-87 – M-92.**
+>
+> **⚠ NONE OF THE FOUR CAME FROM THIS DOCUMENT.** **This prep was audited and leaked nothing** — it was
+> written against M-85, it is coordinates and rules throughout, and **it held.** It remains the intended
+> entry path. **The leaks came from the required reading, from auto-loaded memory, from a directory listing,
+> and from the three of those combining.**
+>
+> ### ⛔ THEREFORE — DO THESE FOUR THINGS BEFORE YOU READ `../00_RUNBOOK.md`, NOT AFTER
+>
+> **`../00_RUNBOOK.md` now opens with `Step −2 — DISPATCH YOUR READERS BEFORE YOU READ ANYTHING ELSE,
+> INCLUDING THE REST OF THIS FILE`. Read that box, then stop, then do this:**
+>
+> | | Action | Closes |
+> |---|---|---|
+> | **1** | **Dispatch an isolated reader to grep `00`–`06`, `00b`, `00d`, `00f` and `Cultural_Synthesis_Techniques.md` for "Casey" and return LINE NUMBERS ONLY.** Read those files **skipping those lines.** ⚠ **`06`'s own Casey entry is written coordinates-only and is safe to read** | **Vector 1** |
+> | **2** | **Memory: ✅ ALREADY DONE.** The three offending entries were banded 2026-09-02. **Re-run `grep -ril casey` on the memory directory to confirm — filenames only, NEVER `grep -rin`.** *(M-91: a quarantine check never needs to see content)* | **Vector 2** |
+> | **3** | **⛔ NEVER run `ls`, `find` or `tree` against `Background-Lore/Cities/Mirny_Subnet/Casey/`.** Its `Course_of_Events/` filenames are eleven authored theses. **Sanitized: 11 files, 91–143 lines each — address them by index.** The rest of Casey's file tree is in §3 and §4 below, already sanitized | **Vector 3** |
+> | **4** | **Keep an exposure ledger.** List every conclusion-tier fragment you meet, and **review it as a SET before Phase 0** — not item by item. **Run 12's leaks were individually survivable and jointly decisive** | **Vector 4** |
+>
+> ### ⭐ And the one genuinely good piece of news
+>
+> **`§C.1`/`§C.2` are still UNTESTED in live use.** Run 12 aborted before exercising them. **Their first real
+> test is still available to you**, and prep §9's fourth success criterion stands unchanged.
+
+> **⚠ READ `../00_RUNBOOK.md` IN FULL — AFTER the four steps above.** `CLAUDE.md` requires it for all
+> location-culture work. **It grew on 2026-09-02** — **§C.1** *(the City Master Reference's mixed
+> admissibility)*, **§C.2** *(reader/deriver isolation, triple tagging, the escalation ladder, and now the
+> filename rule and character-range spans)*, **§C.3** *(compilation contaminates its compiler)*, and
+> **`Step −2`** at the very top. All bear directly on this run.
 
 ---
 
@@ -205,7 +237,19 @@ flagged, not decided.**
 3. **On a 2–1, work the escalation ladder** — re-split finer → check generator agreement → closed-schema
    extraction → withhold and log.
 4. **Readers return coordinates and one tag only.** **No headings, no quotes, no summaries.**
+   - **⭐ Added 2026-09-02 (M-92, developer instruction): the unit is a SPAN, not a line.** Where the seam
+     falls **mid-line** — a table row whose members column is `G1` and whose next column is the derived
+     rationale; a header line carrying `Significance:`; a sentence that turns interpretive after a comma —
+     **require `L142 :: chars 1–37` granularity.** **Line-grain tagging forces a reader to either withhold an
+     attribute or admit a conclusion, and it errs toward the second.**
+   - **⭐ Added 2026-09-02 (M-88): a FILENAME is a section heading.** **Readers return sanitized paths** —
+     directory, file count, line counts — **wherever a name carries a claim rather than a template label.**
 5. **Record the withheld-rate.** Per §C.2 step 4, **it is a statistic about the corpus, not about the run.**
+6. **⚠ A partial map already exists.** Three isolated readers were dispatched against `Specs/Casey.md`,
+   `Local_Cultures/Mirny_Subnet/Casey.md` and `Casey_Physical_Infrastructure_Attributes.md` on 2026-09-02
+   under the amended contract. **Their consolidated 3-of-3 verdict is filed as
+   `Casey_Coordinate_Map_2026-09-02.md` in this folder if present** — **use it, and re-verify rather than
+   trusting it**, per §C.2's own warning that a map's accuracy cannot be checked by its consumer.
 
 ---
 

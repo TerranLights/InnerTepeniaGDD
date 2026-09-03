@@ -254,4 +254,29 @@ Sanay must skip the example content in the rows below.** The rules stand without
 | `Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md` | **the descriptive "not a virgin location" section specifically** (NOT its own 22-step line-ranged reading sequence, which remains safe and is the intended path) | Quotes withheld-file conclusion fragments directly — "a Guangzhou-Canton-System bounded-contact zone," "'function over sentiment'... a defended civic value" — flagged as M-85; **a future session should follow this document's own numbered reading sequence, never its descriptive framing prose, if picking up Sanay again** |
 | `Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/` | **all of it** | The port's complete Phase 0-10 content, all sixteen gates, the full base Zodiac Lens (all twelve signs) with its cross-sign synthesis, and the full Review Panel |
 
+## Casey — added 2026-09-02 from Run 12 *(cold run ABANDONED before Phase 0 — contaminated at the starting line; the session continued as a map-builder, not a deriver)*
+
+> ### ⚠⚠ A FUTURE COLD PASS ON CASEY MUST SKIP THE LINES BELOW. **They were live and un-manifested when Run 12
+> read them as `CLAUDE.md`-mandated required reading, and they are two of the four vectors that burned it.**
+
+> ### ⭐ THIS ENTRY IS WRITTEN AS COORDINATES ONLY — AND THAT IS A CHANGE TO THIS FILE'S OWN FORMAT
+>
+> **Every row above carries a *"What the example reveals about \[location]"* column that restates the leaked
+> content in order to describe it.** ***That column is M-85's failure mode built into the manifest's own
+> schema*** — a session checking `06` for its subject, exactly as `RESUME_HERE.md` §3a item 2 instructs, is
+> handed the very conclusions the entry exists to warn it away from. **The check contaminates the checker.**
+>
+> **This entry therefore names the coordinate and the TIER, never the content.** **Recommended for all future
+> entries; existing rows left as they are rather than rewritten, since their locations are already spent.**
+
+| File | Coordinate | Tier of what sits there | Action |
+|---|--:|---|---|
+| `00_RUNBOOK.md` | **§C.2, return-contract table** | **Conclusion — a civic-character claim, in the form of an illustrative section title** | ✅ **NEUTRALIZED 2026-09-02** — replaced with a bracketed generic placeholder. **No longer a leak; row retained as the record** |
+| `01_Frame_Typology_and_Inheritance.md` | **§1, line 65** *(the Status-modifier table, `Resettled` row)* | **Frame-tier, with an evaluative gloss** — a Type modifier, plus a judgment about the corpus rather than about the city | ⚠ **RETAINED DELIBERATELY.** Genuinely useful methodology guidance, and a modifier a cold pass declares from `Specs/` at Step 0.1 anyway. **Skip line 65; do not delete** |
+| `00_RUNBOOK.md` | **§C.3** | **None** — names Casey only as the subject of the contamination anecdote | No action |
+| `Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` | **all of it** | **None — verified.** The prep document is coordinates and rules throughout and leaked nothing. **It was written against M-85 and it held** | **Safe. It remains the intended entry path** |
+| `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-87 – M-92** | **Names the vectors and the classes; states no Casey finding** | Safe |
+| **The auto-loaded memory directory** | `project_casey_recheck.md` · `project_casey_bug_check_resolved.md` · `project_pink_lucy_migration_resolved.md` | **Conclusion — civic character and named Tier-3 particulars** | ✅ **BANDED 2026-09-02** |
+| **`Background-Lore/Cities/Mirny_Subnet/Casey/Course_of_Events/`** | **the FILENAMES, not the contents** | **Conclusion — eleven authored titles, each a thesis** | ⚠ **NEVER `ls` THIS FOLDER.** Address by index; **11 files, 91–143 lines each.** See M-88 |
+
 ## *(Add further locations here as they are absorbed into the methodology.)*
