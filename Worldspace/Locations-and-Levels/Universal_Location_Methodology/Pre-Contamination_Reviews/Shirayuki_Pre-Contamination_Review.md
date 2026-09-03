@@ -110,7 +110,14 @@ City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attribu
 
 # 4. ✅ **REQUIRED-READING SKIP LIST — RETIRED 2026-09-03. THERE ARE NO SKIP RANGES.**
 
-> ## ⭐⭐ **`01`–`05` AND `README` NOW NAME NO LOCATION AT ALL. VECTOR 1 IS CLEAN BY CONSTRUCTION.**
+> ## ⭐⭐ **`01`–`05` AND `README` NOW NAME NO LOCATION AT ALL — SO THIS SUBJECT HAS NO SKIP RANGES.**
+>
+> ### ⛔ **BUT VECTOR 1 IS *NOT* CLOSED. DO NOT SKIP THE READER SWEEP.** *(M-125 — an overclaim, corrected.)*
+> **Vector 1 sweeps `00`–`06` PLUS the disciplines. Six of those files are now clean; five are not:**
+> **`00_RUNBOOK.md` 46 · `06` 63 *(a manifest — legitimate)* · `Cultural_Synthesis_Techniques.md` 63 ·
+> `Real-World_Basis_Extrapolation_Method.md` 15 · `00b`/`00d`/`00f` 15/6/7.** ***215 lines, unaudited.***
+> **This subject happens to be clean across all of them — verified — but that is a fact about this subject,
+> not a property of the corpus.**
 >
 > **Verified mechanically, 2026-09-03** — `grep -ciE 'shirayuki|bharati'` returns **0** for `00_RUNBOOK.md`,
 > `01`, `02`, `03`, `04`, `05` and `README.md`.

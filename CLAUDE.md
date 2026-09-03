@@ -87,6 +87,37 @@ dated round-summaries are the historical record; the runbook is the working proc
 
 This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
 
+> ### ⛔⛔ EXCEPTION — **COLD RUNS AND ISOLATED READERS DO NOT USE GRAPHIFY. AT ALL.**
+>
+> **Binding during:** a **ULM or district COLD RUN** *(any session that has entered
+> `Universal_Location_Methodology/Test_Runs/COLD_RUN_CHECKLIST.md`)*, **and any isolated reader dispatched
+> under `00_RUNBOOK.md` §C.2** — Brief A, B or C.
+>
+> **Not binding otherwise.** *Warm passes, canon audits, methodology maintenance, ordinary navigation, and
+> `graphify update` all use it normally.* **This exception is narrow on purpose.**
+>
+> #### Why — `00_RUNBOOK.md` Step 10.1 item 5
+> *"A graph, an embedding index, a full-text search **cannot honor a quarantine, because quarantine is
+> provenance and retrieval is content.**"* ***A graph query returns the most RELEVANT content about the
+> subject — which is precisely the payload a cold run exists not to receive, selected for maximum damage.***
+> **Measured 2026-09-03: `graphify-out/` holds 145 files naming a single subject — a larger surface than any
+> canon root in the registry.**
+>
+> #### ⚠ THE `PreToolUse` HOOK WILL STILL FIRE. **IGNORING IT IS THIS INSTRUCTION, NOT YOUR JUDGMENT.**
+> **`.claude/settings.json` runs `graphify hook-guard` on `Bash|Grep|Read|Glob`, so a MANDATORY notice arrives
+> on essentially every tool call a cold run makes — including on the one name-search that IS legal,
+> `grep -ril`.** **Its text also says *"this rule applies to subagents too — include it in every subagent
+> prompt,"* which is exactly backwards for a `§C.2` reader.**
+>
+> > ***This carve-out exists so that disregarding that hook is COMPLIANCE rather than OVERRIDE.*** **A
+> > component that ignores a MANDATORY notice on its own reasoning has learned that such notices are noise,
+> > and that lesson does not stay scoped to graphify.** *(M-116, M-120 — a dispatched reader classified the
+> > hook as a prompt injection and refused it, correctly and unprompted.)*
+>
+> #### ⛔ And `graphify-out/` is a READ surface too, not only a query target
+> **Not invoking graphify does not remove those 145 files from the repo.** **A registry sweep must tier
+> `graphify-out/` (and any sibling repo's) `WITHHELD`.** **Never open them during a cold run.**
+
 Rules:
 - For codebase questions, first run `graphify query "<question>"` when graphify-out/graph.json exists. Use `graphify path "<A>" "<B>"` for relationships and `graphify explain "<concept>"` for focused concepts. These return a scoped subgraph, usually much smaller than GRAPH_REPORT.md or raw grep output.
 - If graphify-out/wiki/index.md exists, use it for broad navigation instead of raw source browsing.

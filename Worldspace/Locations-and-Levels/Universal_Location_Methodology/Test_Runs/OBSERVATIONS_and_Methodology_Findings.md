@@ -4580,3 +4580,65 @@ any of those lines conclusion-tier.**
 > **`§C.2`'s warning should now read in both directions:** *the map's accuracy cannot be checked by its
 > consumer — **and the consumer's arithmetic cannot be checked by the map.** Both need an independent
 > witness, and for the consumer that witness is a closing sum.*
+
+---
+
+# M-125 — ⛔ **"VECTOR 1 IS NOW CLEAN BY CONSTRUCTION" WAS AN OVERCLAIM. It closed 58 lines and left 215.**
+
+**Self-caught 2026-09-03, minutes after the claim was written into three artifacts and a pushed commit.**
+***The LAYERING LAW is a real and large win. The sentence describing it was wrong, and wrong in the
+flattering direction.***
+
+## What was claimed vs. what is true
+
+**Claimed:** *"`01`–`05` and README now name no location — vector 1 is clean by construction; the sweep has
+nothing to find."*
+
+***True:*** **`01`–`05` + README are at zero.** ***`Step −2` vector 1 does not sweep those six files. It
+sweeps `00`–`06` PLUS the disciplines*** — and the rest of that set was never audited:
+
+| Required-reading file | Location-naming lines | Status |
+|---|--:|---|
+| `01` `02` `03` `04` `05` `README` | **0** | ✅ **closed by the LAYERING LAW** |
+| **`00_RUNBOOK.md`** | **46** | ⚠ **the project layer BY DESIGN — and required reading BY `CLAUDE.md`** |
+| **`06_Worked_Example_Provenance.md`** | 63 | ✅ legitimate — a manifest cannot work anonymously (M-4) |
+| **`Cultural_Synthesis_Techniques.md`** | **63** | ⛔ **unaudited. The README calls it *"already explicitly general-scope."* It is not** |
+| `Real-World_Basis_Extrapolation_Method.md` | 15 | ⛔ unaudited |
+| `00b` · `00d` · `00f` disciplines | 15 · 6 · 7 | ⛔ unaudited *(and they belong to the district folder, a different instrument)* |
+| | **215 total** | |
+
+## ⭐ The structural problem the law created, and it is not a wording slip
+
+> ## **THE PROJECT LAYER AND THE REQUIRED-READING SET OVERLAP. `00_RUNBOOK.md` IS BOTH.**
+>
+> **The law says project data belongs in the runbook.** **`CLAUDE.md` says the runbook must be read in full
+> before any location work.** ***So every location fact moved OUT of `01`–`05` and INTO `00` is still
+> delivered to every cold run — by a different mandatory file.***
+
+**This is not fatal, and the move was still right**, because what landed in `§C.7`/`§C.8` is **frame- and
+attribute-tier** *(type assignments, era dates, canon addresses, reliability caveats)* — **the tier a pass
+declares from `Specs/` at Step 0.1 anyway.** *(Same reasoning that deliberately retained `01` line 65 for
+Casey.)* ***But "attribute-tier, therefore harmless" is a JUDGMENT, and it has not been checked line by
+line by anyone.***
+
+## What must actually happen
+
+1. ⛔ **Vector 1 remains MANDATORY.** **Do not skip the reader sweep on the strength of the layering law.**
+   **Six files are clean; five are not.**
+2. **Audit `Cultural_Synthesis_Techniques.md` (63) and `Real-World_Basis_Extrapolation_Method.md` (15)
+   against the LAYERING LAW** — both are general-scope by intent and neither was checked.
+3. **Rule on the disciplines.** They live in the district folder and serve the *district* methodology, which
+   has no portability requirement. **Either they are exempt (and the ULM sweeps them every run), or they are
+   in scope and get audited.** ***Currently neither has been decided.***
+4. **`00_RUNBOOK.md`'s 46 lines need a tier pass** — confirm they really are frame/attribute-tier, or move
+   the conclusion-tier remainder to `Worked_Examples_Archive/`.
+
+> ### ⚠ AND THE PATTERN THIS BELONGS TO
+> **This is the FOURTH self-audit error in one run** *(M-113 false finding · M-119 broke its own new rule ·
+> M-124 three consumer arithmetic faults · this)*. **Three of the four ran TOWARD a flattering conclusion.**
+> ***`04` Part IV's standing warning is holding up exactly as written: the direction was never the real
+> problem; an unverified instrument was — and here the "instrument" was a count of six files presented as a
+> count of eleven.***
+>
+> **The claim is already in a pushed commit message and cannot be edited.** **Corrected in every live
+> artifact instead, and recorded here so the commit is not read as settled.**

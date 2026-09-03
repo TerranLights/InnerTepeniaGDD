@@ -38,9 +38,13 @@
 >
 > **Given as a PORTABILITY rule. It is also the strongest anti-contamination change ever made here.**
 > **`CLAUDE.md` mandates the rule files be read in full — so a location name in one was a conclusion the
-> corpus was *contractually obliged* to hand every future pass on that location.** ***Vector 1 is now clean by
-> construction: the sweep has nothing to find.*** **Every other fix adds a control; this one deleted the
-> surface.**
+> corpus was *contractually obliged* to hand every future pass on that location.** **Every other fix adds a
+> control; this one deleted the surface.**
+>
+> ### ⛔ BUT VECTOR 1 IS **NOT** CLOSED — **still run the sweep** *(M-125, a corrected overclaim)*
+> **58 lines closed; `215` remain across `00_RUNBOOK.md` (46, the project layer *and* required reading),
+> `06` (63, a legitimate manifest), `Cultural_Synthesis_Techniques.md` (63, unaudited),
+> `Real-World_Basis_…` (15) and the three disciplines (28).**
 >
 > ### ⚠ Three things that will bite you if you improvise
 >

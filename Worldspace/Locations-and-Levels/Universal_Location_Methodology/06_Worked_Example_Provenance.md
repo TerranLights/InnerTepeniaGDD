@@ -306,9 +306,9 @@ Sanay must skip the example content in the rows below.** The rules stand without
 > instances move to `Test_Runs/Worked_Examples_Archive/`, reached by a bare pointer. **Verified mechanically:
 > `grep -ciE '<subject>|<alias>'` returns 0 for `00`–`05` and `README`.**
 >
-> ***Vector 1 is now clean by construction for THIS subject and every future one*** — the leak channel with a
-> mandatory delivery mechanism *(`CLAUDE.md` requires those files be read in full)* **no longer has anything
-> to deliver.** **M-103's "the rule around the example leaks too" problem dies with the example.**
+> ***For THIS subject the rule files now deliver nothing*** — and M-103's *"the rule around the example leaks
+> too"* problem dies with the example. **⛔ But vector 1 is NOT closed (M-125):** it sweeps `00`–`06` plus the
+> disciplines, and **215 location-naming lines remain outside the six audited files.** **Keep running it.**
 >
 > ⛔ **The retired ranges are also now WRONG:** `02` is 621 lines (was 613), `05` is 708 (was 703).
 > ***Do not apply them from memory.***
