@@ -22,7 +22,19 @@
 > ### What to do, in this order, before reading past this box
 >
 > 1. **Name the subject. Then stop reading.**
-> 2. **Dispatch isolated readers (`§C.2` return contract) to do ALL of the following**, and read nothing
+>
+> 2. ### ⭐ **CHECK WHETHER A PRE-CONTAMINATION REVIEW ALREADY EXISTS — BEFORE DISPATCHING ANYTHING.**
+>    **`Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md`. Full mechanism in `§C.4`.**
+>    **This file is coordinates-only and is SAFE for a cold deriver to read in full.**
+>
+>    | State | Action |
+>    |---|---|
+>    | **✅ `CONFIRMED`, and its pin verifies** | ***REUSE IT. Skip step 3 entirely and go straight to the cold run.*** **Do not re-derive a check that is already completed and confirmed** |
+>    | **`CONFIRMED`, pin STALE** | **Re-tag ONLY the files whose `sha256`/line count moved.** Do not rebuild the whole review |
+>    | **`DRAFT`** | Unconfirmed — **finish it**, do not reuse it |
+>    | **ABSENT** | **Build one** — proceed to step 3, then write the artifact |
+>
+> 3. **Dispatch isolated readers (`§C.2` return contract) to do ALL of the following**, and read nothing
 >    yourself until they return:
 >    - **Scan the required reading** — `00`–`06`, `00b`, `00d`, `00f`, `Cultural_Synthesis_Techniques.md` —
 >      **for the subject's name. Return LINE NUMBERS ONLY.** You then read those files *skipping those lines.*
@@ -35,7 +47,10 @@
 >      **never the filenames.** **This closes vector 3.**
 >    - **Build the admissible/withheld coordinate map** — the ordinary `§C.2` job, which is all anyone was
 >      doing before.
-> 3. **Only now** read the rest of this runbook, `01`–`06`, and the disciplines — **skipping the lines your
+> 4. **Write the review artifact and pin it** (`§C.4`) — **`sha256` + line count for every mapped file.**
+>    ***A map with no pin is worthless to the next session***, because a single edit anywhere above a range
+>    shifts every range below it, silently, and points the next deriver into withheld content.
+> 5. **Only now** read the rest of this runbook, `01`–`06`, and the disciplines — **skipping the lines your
 >    reader flagged.**
 >
 > ### ⚠ The rule that generalizes, and it is the one to remember
@@ -511,6 +526,37 @@ learns *where* to look without ever being exposed to *what is there*.**
 >
 > **Audit every negative prohibition in a brief for a positive channel that silently violates it.**
 
+> ### ⚠⚠ EVERY RETURN CARRIES A COVERAGE ASSERTION. A TRUNCATED MAP FAILS IN THE UNSAFE DIRECTION. *(M-96.)*
+>
+> **A reader's return can be truncated in transit. One was, on this contract's first use — two complete file
+> maps vanished and nothing errored.**
+>
+> ***A coordinate map degrades asymmetrically.*** **A range that goes missing is not marked missing; it is
+> simply absent.** **A deriver holding a map that tags `1–45` and says nothing about `46–191` cannot
+> distinguish *"never mapped"* from *"needs no tag"* — and ***the natural reading of silence in a permissions
+> document is permission.*** **A truncated `WITHHELD` row is an open door with no sign on it.**
+>
+> **So every file's table closes with:**
+>
+> ```
+> COVERAGE: <file> 1-<N>, no gaps, no overlaps
+> ```
+>
+> **and the CONSUMER verifies it arithmetically** — sum the ranges, confirm they tile `1..N` exactly, confirm
+> `N` matches the pinned line count (`§C.4`). ***A map that does not completely tile its file is `DRAFT`,
+> whatever its status line says.***
+>
+> **⚠ It must state the file's own total `N`, not merely claim "complete"** — mid-table truncation leaves
+> surviving rows that still tile a plausible sub-range, and only a declared total catches that.
+>
+> ### ⚠ Resending is not amending — but it has its own hazard
+>
+> **Asking a reader to resend lost output is NOT a contract amendment** *(contrast M-93, which was, and was
+> correctly refused)*. **But a reader asked to resend may quietly RE-READ and RE-DERIVE rather than
+> reproduce.** **So a resend request states explicitly: *reproduce what you already produced · do not re-read
+> · if the tags are no longer in context, say so and stop.*** **A reconstructed map presented as an original
+> is unauditable.**
+
 **⭐ Return BOTH maps, not just the safe one.** **The `WITHHELD` list is the more valuable half** — it is a
 **quarantine map**, and knowing *"lines 60–74 are conclusions"* tells the runner nothing about what they say
 while telling it exactly what not to open.
@@ -659,6 +705,92 @@ is irrelevant — `05` §6.1a's rule is about exposure, not purpose.***
 **⭐ And note the pairing this produces, which is a strength rather than a workaround:** the compiler knows
 the corpus better than anyone and is therefore **the best possible map-builder**; the fresh session knows
 nothing and is therefore **the only possible deriver.** ***Neither could do the other's job.***
+
+## C.4 ⭐⭐ THE PRE-CONTAMINATION REVIEW — build it ONCE, confirm it ONCE, then REUSE it
+
+**Developer instruction, 2026-09-02.** ***"Check whether a subagent pre-contamination review has already
+taken place. If not, make one. If so, confirm it. If confirmed, go ahead and do the cold run — so as not to
+re-derive a check that is already completed and confirmed."***
+
+**`Step −2` as first written rebuilt the whole map on every attempt.** **That is not merely wasteful — it is a
+fresh contamination opportunity every time**, because each rebuild dispatches readers, handles paths, and
+re-touches the same mixed files. ***A check that is expensive to repeat will eventually be skipped, and a
+check repeated needlessly is a new chance to leak.*** **So the review becomes a durable artifact with a
+lifecycle.**
+
+### The artifact
+
+**One file per location: `Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md`** *(sibling of
+this runbook, deliberately OUTSIDE every run folder so no run's quarantine can block reading or writing it —
+the M-0 rule)*.
+
+**It contains coordinates and status ONLY.** ***It is safe for a cold deriver to read in full, and that
+property is the whole point — it must be protected absolutely.*** **A review that acquires a single
+descriptive sentence has become the thing it protects against** *(M-85, and `06`'s own manifest-column
+defect)*.
+
+### The three-state check — run it FIRST, before dispatching anything
+
+| State | Test | Action |
+|---|---|---|
+| **ABSENT** | No file for this location | **Build one.** Dispatch readers per `§C.2`, sweep all four `Step −2` vectors, write the artifact, mark it `DRAFT` |
+| **DRAFT** | Exists, `Status: DRAFT` | **Do NOT reuse.** It is unconfirmed — finish it: resolve every non-unanimous range down the escalation ladder, complete any unswept vector, then confirm |
+| **✅ CONFIRMED** | Exists, `Status: CONFIRMED`, **and the pin verifies** | ***REUSE IT. Skip the reader dispatch entirely and proceed to the cold run.*** **This is the developer's own stated purpose for the mechanism** |
+
+### ⚠ `CONFIRMED` is a high bar. All five, or it stays `DRAFT`
+
+1. **All four `Step −2` vectors swept** — required reading · memory · file tree · and the union reviewed as a
+   set, not item by item.
+2. **Every mapped range carries a 3-of-3 verdict**, `ADMISSIBLE` by unanimity only.
+3. **Every non-unanimous range resolved down the escalation ladder** — or explicitly recorded as `WITHHELD`
+   with its withheld-rate.
+4. **⭐ A PIN: `sha256` and line count for every mapped file.** *(See below — this is the part that is easy to
+   omit and fatal to omit.)*
+5. **The tagging is attributed** — how many readers, when, under which contract version. ***"Confirmed" with
+   no evidence behind it is exactly the assertion `Step 10` exists to forbid.***
+
+### ⚠⚠ THE PIN — why a confirmed review goes stale silently, and how to catch it
+
+> ***A coordinate map is line-anchored. Edit one line near the top of a mapped file and every range below it
+> shifts — silently, with no error, and the map now points a cold deriver directly into withheld content.***
+> **This is the same failure shape as the census off-by-one (`Step 7`): plausible, sensible, and wrong.**
+
+**So a review pins the exact file state it was built against, and reuse REVERIFIES the pin, never assumes it:**
+
+```bash
+# Run from the repo root. Verifies a confirmed review is still valid.
+# Prints OK per file, or STALE with the mismatch. Never prints file content.
+while IFS='|' read -r path want_sha want_lines; do
+  [ -z "$path" ] && continue
+  got_sha=$(sha256sum "$path" 2>/dev/null | cut -c1-16)
+  got_lines=$(wc -l < "$path" 2>/dev/null | tr -d ' ')
+  if [ "$got_sha" = "$want_sha" ] && [ "$got_lines" = "$want_lines" ]; then
+    printf 'OK     %s\n' "$path"
+  else
+    printf 'STALE  %s  (sha %s->%s, lines %s->%s)\n' "$path" "$want_sha" "$got_sha" "$want_lines" "$got_lines"
+  fi
+done < PIN.txt
+```
+
+**On any `STALE` row: the review demotes to `DRAFT`** — **but only for the files that actually moved.**
+***Re-tag the changed files; do not rebuild the whole review.*** **A partial rebuild is cheap and keeps the
+mechanism worth having.**
+
+### ⚠ The objection this will draw, answered in advance
+
+**"Reusing a prior session's review is exactly the trusting-a-prior-pass move this methodology forbids
+everywhere else."** ***It is not, and the distinction is the one `§C.2` is built on.***
+
+> **A prior pass's FINDINGS are conclusions, and reusing them is circularity — you find your own seed.**
+> **A pre-contamination review contains NO conclusions. It is coordinates.** ***Reusing coordinates cannot
+> contaminate a derivation, because coordinates say where to look and nothing about what is there.***
+
+**What DOES carry over, and must be watched:** **a mis-tag.** `§C.2`'s standing warning — *the map's accuracy
+is load-bearing and cannot be checked by its consumer* — **applies with more force to an inherited map than to
+a fresh one**, because the inheriting session did not watch it being built. **This is what the 3-of-3
+attribution in requirement 5 is for: a reused map must show its work.** **And it is why `Status: CONFIRMED`
+requires unanimity rather than a majority — an inherited map is trusted longer and by more sessions than the
+run that built it.**
 
 ## D. Sibling projects — check for cross-series consistency, do not port
 

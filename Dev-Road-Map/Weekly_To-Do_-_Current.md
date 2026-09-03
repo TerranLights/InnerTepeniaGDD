@@ -27,6 +27,29 @@ file and start a fresh one for the next stretch of work).
 > ### **`00_RUNBOOK.md` now OPENS with `Step −2` — *dispatch your readers before you read anything else,
 > including the rest of this file.*** ***A cold run's first act is delegation, never reading.***
 >
+> ### ⭐⭐ Plus `§C.4`, at your instruction: **THE PRE-CONTAMINATION REVIEW IS NOW A REUSABLE ARTIFACT**
+>
+> **`Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md` — coordinates-only, safe to read in
+> full.** **`Step −2` now CHECKS FOR ONE FIRST:** `CONFIRMED` + pin verifies → ***reuse it, skip the dispatch,
+> go straight to the cold run.*** `DRAFT` → finish it. `ABSENT` → build it.
+>
+> **This fixes a defect `Step −2` had just introduced** — rebuilding the whole map every run is not merely
+> wasteful, **it is a fresh contamination opportunity each time**, and *a check expensive enough to repeat is
+> one that eventually gets skipped.*
+>
+> ⚠ **The pin is the part not to skip.** A coordinate map is line-anchored: **insert one line near the top of
+> a mapped file and every range below it shifts, silently, with no error** — pointing the next deriver into
+> withheld content. **`§C.4` carries a runnable `sha256` + line-count verification script.**
+>
+> **Casey's review exists and is `DRAFT`** — four vectors swept and closed, tree sanitized, skip list written,
+> pin taken. **Blocked on one thing: two of three readers had not reported.**
+>
+> **⭐ And it paid off immediately.** The one reader that did land **disagrees with the prep document's own
+> §4.2 admissible-set prediction on all three of its ranges.** §4.2 was derived *by rule* — file type and
+> template section number — by a contaminated session that correctly never opened the files. ***That was the
+> right way to write it and it still produced a hypothesis, not a map.*** **First hard evidence that `§C.2`
+> does real work rather than ratifying what a careful by-rule pass would have said anyway.**
+>
 > **Eight findings: M-87 – M-94** in `OBSERVATIONS_and_Methodology_Findings.md`. **Two came from the readers
 > themselves** — one **refused a mid-flight contract amendment as a suspected prompt injection** (M-93: *you
 > cannot amend a reader; the brief is final at dispatch; kill and re-dispatch instead*), and the same reader

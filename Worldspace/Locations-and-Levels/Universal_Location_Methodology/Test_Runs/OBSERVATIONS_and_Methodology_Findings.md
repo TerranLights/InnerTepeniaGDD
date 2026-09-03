@@ -2830,3 +2830,139 @@ treats as content.***
 2. **Low harm in this specific instance** — the two character names were already known to the coordinating
    session via the banded memory entries (M-87 vector 2), so nothing new leaked. **Recorded because the
    mechanism is general and the next instance will not be harmless.**
+
+---
+
+# M-95 — ⭐⭐ THE PRE-CONTAMINATION REVIEW: the anti-contamination check becomes a durable, pinned, reusable
+artifact instead of work every run repeats
+
+**Developer instruction, 2026-09-02, given while Run 12's remediation was in progress:** ***"add a
+double-check for whether a subagent pre-contamination review has already taken place — if not, make one; if
+so, check to ensure it's confirmed; if confirmed, then go ahead and do the cold run, so as not to have to
+re-derive a pre-contamination check that's already completed and confirmed."*** **Implemented the same
+session as `00_RUNBOOK.md` §C.4, and wired into `Step −2` as its new step 2.**
+
+## The defect it fixes, which `Step −2` had just introduced
+
+**`Step −2` as first written that day made every cold run rebuild the entire contamination map from
+scratch.** ***That is not merely wasteful. It is a fresh contamination opportunity on every attempt*** —
+each rebuild dispatches readers, handles paths, and re-touches the same mixed files. **And it sets up the
+classic failure: a check expensive enough to repeat is a check that eventually gets skipped.**
+
+> ### **A check that is costly to repeat will be skipped. A check repeated needlessly is a new chance to
+> leak. The resolution is to make it an ARTIFACT with a lifecycle, not an activity.**
+
+## The mechanism
+
+**One coordinates-only file per location** — `Pre-Contamination_Reviews/[Location]_Pre-Contamination_
+Review.md`, **deliberately outside every run folder** so no quarantine can block it (the M-0 rule). **Three
+states: `ABSENT` → build · `DRAFT` → finish, never reuse · `CONFIRMED` → *reuse and skip the dispatch
+entirely.*** **`CONFIRMED` requires all five of: four vectors swept · 3-of-3 unanimity on every range ·
+every 2–1 resolved down the escalation ladder · a pin · an attribution trail.**
+
+## ⭐ The part that is easy to omit and fatal to omit — THE PIN
+
+> ***A coordinate map is line-anchored. Insert one line near the top of a mapped file and every range below
+> it shifts — silently, with no error — and the map now points a cold deriver directly into withheld
+> content.***
+
+**This is the census off-by-one (Step 7) in a new costume: plausible, sensible, and wrong, with no error to
+catch it.** **So a review pins `sha256` + line count for every mapped file, and reuse REVERIFIES rather than
+assumes.** **A runnable verification script is written into §C.4 rather than described** — per the standing
+finding that an instruction to check something is unrunnable without an address, and a script is the most
+literal possible address. **On a `STALE` row, re-tag only the file that moved; a partial rebuild is what
+keeps the mechanism worth having.**
+
+## ⚠ The objection this will draw, and why it does not hold
+
+**"Reusing a prior session's review is exactly the trusting-a-prior-pass move this methodology forbids
+everywhere else."** ***The distinction is the one `§C.2` is built on, and it is total:***
+
+> **A prior pass's FINDINGS are conclusions, and reusing them is circularity — you plant your own seed and
+> find it.** **A pre-contamination review contains NO conclusions. It is coordinates.** ***Coordinates say
+> where to look and nothing whatever about what is there, so reusing them cannot contaminate a derivation.***
+
+**What DOES carry over is a MIS-TAG** — and `§C.2`'s standing warning that a map's accuracy is load-bearing
+and unverifiable by its consumer **applies with MORE force to an inherited map than a fresh one**, because
+the inheriting session never watched it being built. **That is what the attribution requirement is for: a
+reused map must show its work.** **And it is the strongest argument yet for why `ADMISSIBLE` demands
+unanimity rather than a majority — an inherited map is trusted longer, and by more sessions, than the run
+that built it.**
+
+## ⚠ The live artifact, and an honest note on its state
+
+**`Pre-Contamination_Reviews/Casey_Pre-Contamination_Review.md` was created the same session and is
+`DRAFT`** — all four vectors swept and closed, the tree sanitized, the skip list written, the pin taken, but
+**only one of three readers had reported.** **It is deliberately NOT marked confirmed**, which is the
+mechanism behaving correctly on its first use: ***a partial review that advertised itself as clearance would
+be worse than no review at all.***
+
+**And one immediate dividend from the single read that did land:** **its boundaries diverge from the prep
+document's own §4.2 admissible-set prediction on all three of that section's ranges.** **§4.2 was derived
+*by rule* — from file type and template section number — by a contaminated session that deliberately never
+read the files.** ***That was the right way to write it, and it still produced a hypothesis rather than a
+map.*** **Recorded as the first concrete evidence that by-rule classification and read-based tagging
+genuinely disagree, and that `§C.2` is therefore doing real work rather than ratifying what a careful
+by-rule pass would have concluded anyway.**
+
+---
+
+# M-96 — ⚠⚠ A COORDINATE MAP CAN ARRIVE TRUNCATED, AND A TRUNCATED MAP FAILS DANGEROUSLY. Every §C.2 return
+must carry a coverage assertion
+
+**Found 2026-09-02, Run 12's remediation, when a reader's return arrived cut off at the front.**
+
+**Reader A's return contained only the tail of its third table (one file, lines 72–166) plus the locate
+table. Two complete file maps did not survive transit.** **Nothing errored. Nothing was marked incomplete.**
+
+> ### Why this is worse than an ordinary lost message
+>
+> ***A coordinate map fails ASYMMETRICALLY when truncated, and in the unsafe direction.***
+>
+> **A range that goes missing is not marked missing — it is simply absent.** **And a deriver reading a map
+> that lists `1–45 ADMISSIBLE` and then says nothing about `46–191` has no way to distinguish
+> *"46–191 was never mapped"* from *"46–191 needs no tag."* ***The natural reading of silence in a
+> permissions document is permission.*** **A truncated `WITHHELD` row is an open door with no sign on it.**
+
+**This is the same shape as the census off-by-one (`Step 7`) and the M-95 pin problem: no error, a plausible
+artifact, and a wrong answer.** **Three instances now argue this is the dominant failure mode of every
+coordinate-bearing instrument in this methodology — *they degrade into confident, well-formed, incorrect
+output rather than into obvious breakage.***
+
+## The fix — a coverage assertion, and it is arithmetic rather than trust
+
+**Every `§C.2` return must close each file's table with:**
+
+```
+COVERAGE: <file> 1-<N>, no gaps, no overlaps
+```
+
+**And the CONSUMER must verify it arithmetically before trusting the map** — sum the ranges, confirm they
+tile `1..N` exactly, confirm `N` matches the pinned line count. ***Three lines of checking that convert a
+silent truncation into a caught one.*** **A map that does not tile its file completely is `DRAFT`, whatever
+its status line says.**
+
+**⚠ Note what this does NOT fix:** truncation in the *middle* of a table, where the surviving rows still tile
+a plausible sub-range. **The coverage line catches it only because the declared total will not match.**
+**Which is precisely why the assertion must state the file's own total `N` rather than merely claiming
+"complete."**
+
+## The related contract change, applied at the same time
+
+**A resend request is NOT a contract amendment** *(contrast M-93, where the brief itself was being changed
+mid-flight and was correctly refused)*. **But it carries its own hazard:** ***a reader asked to resend under
+time pressure may quietly re-read and re-derive rather than reproduce.*** **So a resend request must state
+explicitly: reproduce what you already produced; do not re-read; if the tags are no longer in context, say
+so and stop.** **A reconstructed map presented as an original is unauditable, and it is exactly the kind of
+plausible-but-unverified artifact this methodology has now been bitten by three times.**
+
+## ⭐ And one genuine result the partial return already delivered
+
+**Readers A and C agree exactly on the largest withheld block in the file they both reported
+(`106–160 WITHHELD`, `161–166 ADMISSIBLE`) and disagree on two smaller ranges** — A tags `75–79` and `88–91`
+`ADMISSIBLE` where C tags them `WITHHELD`. **Under the 3-of-3 rule both disputed ranges resolve to
+`WITHHELD`**, pending reader B. ***This is the escalation ladder's own diagnostic firing as designed: a
+2–1-shaped split localizes a seam rather than deadlocking***, and per ladder step 2 the readers *do* agree on
+the surrounding generators, which points at a phrasing dispute and a finer re-split rather than a genuinely
+mixed passage. **Recorded as the first live evidence that reader disagreement in this corpus clusters at
+boundaries rather than scattering — which is what `§C.2` predicted and had no data for.**

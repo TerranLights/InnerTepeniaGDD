@@ -29,7 +29,21 @@
 >
 > **`§C.2` also gained two amendments the same day:** **a filename is a section heading** (M-88), and **the
 > tag's unit is a SPAN, not a line — character ranges where the seam falls mid-line** (M-92, developer
-> instruction).
+> instruction). **Plus two the readers themselves taught:** **you cannot amend a reader mid-flight — the brief
+> is final at dispatch** (M-93), and **state every prohibition as a positive format, because a negative rule
+> can be silently unsatisfiable** (M-94).
+>
+> ### ⭐⭐ AND CHECK FOR AN EXISTING REVIEW BEFORE YOU DISPATCH ANYTHING — `§C.4`, new 2026-09-02
+>
+> **`../Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md`.** **Coordinates-only, and SAFE
+> for a cold deriver to read in full.** ***If its `Status:` is `CONFIRMED` and its pin verifies, REUSE IT and
+> go straight to the cold run*** — **do not re-derive a check that is already completed and confirmed.**
+> Developer instruction. **`DRAFT` means finish it, never reuse it.**
+>
+> **Casey's exists and is `DRAFT`** — all four vectors swept and closed, tree sanitized, skip list written,
+> pin taken; **blocked only on two of three readers not having reported.** ⚠ **Its pin is the part not to
+> skip:** a coordinate map is line-anchored, so **one inserted line silently shifts every range below it** and
+> points you into withheld content. **§C.4 carries a runnable verification script.**
 >
 > ### ⭐⭐ The good news, and it is real
 >

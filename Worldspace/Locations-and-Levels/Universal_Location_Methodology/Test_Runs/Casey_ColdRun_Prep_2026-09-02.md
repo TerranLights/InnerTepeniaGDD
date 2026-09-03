@@ -245,11 +245,24 @@ flagged, not decided.**
    - **⭐ Added 2026-09-02 (M-88): a FILENAME is a section heading.** **Readers return sanitized paths** —
      directory, file count, line counts — **wherever a name carries a claim rather than a template label.**
 5. **Record the withheld-rate.** Per §C.2 step 4, **it is a statistic about the corpus, not about the run.**
-6. **⚠ A partial map already exists.** Three isolated readers were dispatched against `Specs/Casey.md`,
-   `Local_Cultures/Mirny_Subnet/Casey.md` and `Casey_Physical_Infrastructure_Attributes.md` on 2026-09-02
-   under the amended contract. **Their consolidated 3-of-3 verdict is filed as
-   `Casey_Coordinate_Map_2026-09-02.md` in this folder if present** — **use it, and re-verify rather than
-   trusting it**, per §C.2's own warning that a map's accuracy cannot be checked by its consumer.
+6. ### ⭐⭐ **CHECK FOR AN EXISTING PRE-CONTAMINATION REVIEW BEFORE DOING ANY OF STEPS 1–5.**
+   **`../Pre-Contamination_Reviews/Casey_Pre-Contamination_Review.md` — the `§C.4` mechanism.**
+   **That file is coordinates-only and SAFE to read in full.** **It already carries the complete four-vector
+   sweep, the sanitized file tree, the required-reading skip list, and the pin.**
+
+   | Its `Status:` | What you do |
+   |---|---|
+   | **`CONFIRMED` + pin verifies** | ***Skip §8 entirely. Go straight to the cold run.*** **Do not re-derive a confirmed check** |
+   | **`CONFIRMED` + pin STALE** | Re-tag only the file whose `sha256` moved |
+   | **`DRAFT`** *(its state as of 2026-09-02)* | **Finish it** — collect or re-dispatch readers, apply 3-of-3, confirm |
+
+   > **⚠ As written it is `DRAFT`, blocked on ONE thing: only one of three readers had reported.**
+   > **Reader C's line-grain map is recorded there as provisional evidence — do NOT derive against it.**
+   > **Per M-93 a re-dispatch of all three under one complete brief is cleaner than patching.**
+   >
+   > **⚠ And note what that single read already showed:** **its boundaries diverge from §4.2's own
+   > by-rule prediction on all three ranges.** **§4.2 was a hypothesis derived from template section numbers
+   > by a contaminated session. A confirmed map outranks it.**
 
 ---
 
