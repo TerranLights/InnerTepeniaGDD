@@ -413,6 +413,49 @@ its consumer.**
 > **This extends the project's existing two-agent validation protocol rather than replacing it** — same
 > reasoning, one more reader, and an explicitly asymmetric decision rule.
 
+### ⭐ Why 3-of-3 unanimous and NOT 3-of-5 majority — the arithmetic, since it is decisive
+
+**Both schemes need three wrong tags to contaminate. But there are TEN ways to draw three wrong readers out
+of five, and exactly ONE way to have all three of three wrong.**
+
+| Reader error rate | 3-of-5 majority | **3-of-3 unanimous** | Majority is worse by |
+|---:|---:|---:|---:|
+| 2% | 1 in 12,883 | **1 in 125,000** | **9.7×** |
+| 5% | 1 in 863 | **1 in 8,000** | **9.3×** |
+| 10% | 1 in 117 | **1 in 1,000** | **8.6×** |
+| 20% | 1 in 17 | **1 in 125** | **7.2×** |
+
+**Unanimity is ~an order of magnitude safer AND costs two fewer readers** *(3 vs 5)*.
+
+> ### ***Adding readers while lowering the threshold buys more chances to fail, not fewer.***
+>
+> **The only thing majority buys is YIELD** — it tolerates two dissents where unanimity tolerates none.
+> **Given the error asymmetry above, paying ~9× the contamination risk for a thicker run is the wrong trade.**
+
+### ⭐⭐ THE ESCALATION LADDER — how yield is recovered without touching the threshold
+
+**A 2–1 split is INFORMATION, not a deadlock.** ***It almost always means the range CONTAINS A BOUNDARY —
+part attribute, part conclusion — rather than that one reader is wrong.*** **The disagreement locates the
+seam. Treat it as a pointer, not a veto.**
+
+**On any non-unanimous range, work down this ladder. Stop at the first step that resolves.**
+
+| Step | Action | Why |
+|---|---|---|
+| **1** | **RE-SPLIT AT FINER GRAIN.** Dispatch a reader to propose a boundary *inside* the disputed range, then re-tag the sub-ranges independently. | **`05` §6.1a rule 2 applied at LINE grain instead of FILE grain** — the methodology's own remedy at higher resolution. **One disputed range usually becomes two undisputed ones.** |
+| **2** | **CHECK GENERATOR AGREEMENT.** Readers tag *which* generator a range supplies (`G2`, `G5`, `G8`…) alongside admissibility. **All three agree on the generator but split on admissibility → the dispute is about PHRASING, not content.** They also split on the generator → **genuinely mixed; withhold and split upstream.** | Turns an opaque disagreement into a **diagnosable** one, and costs nothing extra to collect. |
+| **3** | **CLOSED-SCHEMA EXTRACTION.** For a phrasing dispute only: an isolated reader returns **structured fields against a fixed schema** — `population:` · `highway:` · `founded:` — never the range itself. **The deriver gets the attribute without the prose.** | ⚠ **The schema must have NO free-text field.** The moment an extractor can write a sentence, it can smuggle a conclusion. **Named generator fields only.** |
+| **4** | **WITHHOLD — and RECORD IT.** | **Withheld-rate is a run statistic.** A run withholding a large share of its attribute surface is **a finding about the CORPUS, not the run** — the files are badly mixed and want real upstream splits per §C.1. |
+
+> ***Nothing in this ladder ever lets a disputed range reach the deriver as prose.*** **The asymmetry survives
+> intact — but a run stops losing every borderline fact to a single dissent.**
+
+### ⏸️ Optional, if a range survives the whole ladder and is still wanted
+
+**Escalate the WIDTH, never lower the BAR:** bring two more readers onto that sub-range and require **5–0**.
+**This keeps unanimity absolute and uses extra readers to raise confidence rather than to dilute the
+threshold.** **Most genuinely ambiguous ranges will not pass it — which is the correct outcome.**
+
 ### ⭐ What else this unlocks
 
 **The §C.1 split extract can now be built safely** — by isolated readers, without burning the pass that will
