@@ -3787,3 +3787,46 @@ leak arrived one step before that — in the instruction telling it where to sta
 > **And prefer a SHORT road:** **a 109-line checklist reached directly is safer than a 909-line tracker
 > reached first**, ***not because the tracker is careless, but because a tracker accumulates and a checklist
 > does not.***
+
+---
+
+# M-111 — ⛔ A WARNING BANNER CANNOT PROTECT A LONG FILE, BECAUSE THE READ IS ATOMIC
+
+**Realized 2026-09-03 while answering a direct question — *"can I just tell the next session to read
+`RESUME_HERE.md`?"*** ***The honest answer exposed a mitigation this session had already deployed twice and
+that does not work.***
+
+**A session told to *"read X and follow it"* issues one `Read` and receives the whole file.** ***By the time
+a top-of-file banner saying "stop, go elsewhere" is in context, so is everything the banner was meant to
+prevent it seeing.***
+
+> ### **A banner orders the READER. It does not order the READ.**
+
+## What this invalidates, including work done today
+
+| Mitigation | Status |
+|---|---|
+| The ⛔ banner added to the top of the Weekly To-Do | ⚠ **Weak.** Helps a session that skims; useless to one that reads the file |
+| `RESUME_HERE.md`'s top box saying *"read the checklist first, not the rest of this file"* | ⚠ **Same weakness** |
+| Per-file "skip these lines" instructions | ✅ **Still sound** — the deriver skips *after* being told which lines, and reads with `offset`/`limit` |
+
+***Recorded as a self-correction: two banners were deployed today as fixes and neither is one.*** **They are
+retained because they still help a skimming reader and cost nothing — but they must not be counted as
+protection.**
+
+## The rule that does work
+
+> ## **ROUTE TO A FILE THAT IS SAFE IN FULL. Do not route to a long file with a warning on it.**
+>
+> **`COLD_RUN_CHECKLIST.md` is ~110 lines, names no subject, and does not accumulate.** ***It is safe to read
+> entirely without knowing what the subject will be*** — **which is the only property that makes an entry
+> point safe**, because the entry point is chosen before anyone knows what needs quarantining.
+>
+> **Corollary: an entry-point file must be SHORT AND STATIC BY DESIGN.** ***A handoff document that
+> accumulates run history cannot be an entry point, however well it is signposted*** — and both of this
+> project's trackers accumulate by their nature, which is correct for what they are and disqualifying for
+> this.
+
+**Fix applied:** the standing cold-pickup instruction now points a cold run **directly at the checklist**,
+which routes onward to `RESUME_HERE.md` and the review **at its own step 7 — after the protections are in
+place**, and by then those files are safe to read.

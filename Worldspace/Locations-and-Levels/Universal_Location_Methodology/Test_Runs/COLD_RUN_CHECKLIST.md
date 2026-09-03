@@ -54,7 +54,23 @@ satisfied by this order: readers first, then read everything except the ranges t
 **☐ 6 — Keep an exposure ledger.** Every conclusion-tier fragment you meet, appended, **reviewed as a SET
 before Phase 1 closes.** Individually-marginal leaks reconstruct a conclusion jointly (M-89).
 
-**☐ 7 — Now begin Phase 0.**
+**☐ 7 — NOW read the run's specifics.** `RESUME_HERE.md`'s top box *(which run, why, what is prepared)* and
+your subject's `Pre-Contamination_Reviews/` file. **Both are safe at this point and not before.**
+
+**☐ 8 — Begin Phase 0.**
+
+---
+
+> ### ⚠ WHY YOU WERE SENT HERE FIRST, AND NOT TO `RESUME_HERE.md`
+>
+> ***A `Read` is atomic. You cannot protect a long file with a warning at the top of it*** — by the time the
+> banner is in your context, so are the other 700 lines. **`RESUME_HERE.md` is ~750 lines and accumulates;
+> the Weekly To-Do is ~900 and accumulates.** ***Neither can be guaranteed clean for whatever subject is next,
+> because nobody re-audits them per subject.***
+>
+> **This file is ~110 lines, contains no subject name, and does not grow.** ***That is the whole reason it
+> exists: it is the only file on the entry path that is safe to read in full without knowing what the subject
+> is.***
 
 ---
 
