@@ -438,10 +438,19 @@ learns *where* to look without ever being exposed to *what is there*.**
 > **The row above used to read "File path" with no qualification, directly beside a row forbidding section
 > headings. That is a contradiction, and a corpus that titles files by their argument exploits it.**
 >
-> **The live instance:** a vignette folder whose eleven filenames were each a *thesis about the
-> location* — its central institution, its founding tension, its relationship to travelers, its refusal to
-> take sides. **A single `ls` handed the deriving session more of the withheld conclusion than any paragraph
-> would have**, because titles are *distilled*. **No file was opened. `§3c` had mandated the `ls`.**
+> **The live instance:** a vignette folder whose **eleven filenames were each a thesis about the location** —
+> **four of them naming load-bearing civic facts outright**, in the folder's own directory listing. **A single
+> `ls` handed the deriving session more of the withheld conclusion than any paragraph would have**, because
+> titles are *distilled*. **No file was opened. `§3c` had mandated the `ls`.**
+>
+> > ### ⚠⚠ AND NOTE WHAT THIS PARAGRAPH ORIGINALLY SAID. *(M-97, self-caught.)*
+> > **Its first draft ENUMERATED those four facts** — in this file, which `CLAUDE.md` mandates be read in
+> > full before any location work. ***The rule against vector 1 recreated vector 1, inside the section
+> > documenting vector 1, in the same session that fixed it.*** **Corrected to a count.**
+> >
+> > **The general rule, and it binds every rule file, every prep document and every observations entry:**
+> > ***describe a leak by its SHAPE and its SIZE, never by its CONTENT.*** **"Eleven titles, four naming civic
+> > facts" carries the whole methodological lesson. The four facts add nothing but the contamination.**
 >
 > **The rule:**
 >
@@ -1137,6 +1146,15 @@ before handing off to another session.**
    *titled* with a claim about the location.** **If so, the handoff carries sanitized paths** — directory,
    file count, line counts — **never the filenames.** *(Vector 3, Run 12: eleven vignette filenames, each a
    thesis, delivered by a single mandated `ls`.)*
+
+   **1c. ⚠⚠ GREP YOUR OWN NEW PROSE FOR THE SUBJECT'S NAME, BEFORE COMMITTING.** **For every hit ask: does
+   this state the leak's SHAPE, or its CONTENT?** ***Shape is the lesson. Content is the leak.***
+   **"Eleven titles, four naming civic facts" teaches everything; the four facts teach nothing and
+   contaminate.** *(M-97 — the rule against vector 1 recreated vector 1, inside the section documenting vector
+   1, in the same session that fixed it. **No gate caught it.** It surfaced only because the developer asked
+   the session to account for its own exposure.)*
+   > **Why this needs to be mechanical rather than an exhortation:** ***a rule that leaks is more persuasive
+   > than one that does not, because it shows its evidence.*** **The incentive runs toward contamination.**
 
 2. **Update `06_Worked_Example_Provenance.md` with any worked examples this pass added to the methodology.**
    An unmanifested example is invisible contamination for the next same-location run.

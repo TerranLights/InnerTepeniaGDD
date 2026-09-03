@@ -2610,9 +2610,8 @@ performance is evidence about the return contract, not about isolation protectin
 returned** column, unconditional — and *"Section headings"* in the **must NEVER be returned** column. **In a
 corpus that titles files by their argument, the permitted channel carries the forbidden payload.**
 
-**The instance.** One `find` returned a vignette folder whose eleven filenames were each a claim about the
-location — its central institution, its founding tension, its posture toward travelers, its refusal to take
-sides. **No file was opened. More of the withheld conclusion arrived than any single paragraph would have
+**The instance.** One `find` returned a vignette folder whose **eleven filenames were each a claim about the
+location, four of them naming load-bearing civic facts outright.** **No file was opened. More of the withheld conclusion arrived than any single paragraph would have
 delivered, because titles are *distilled*.** ***And `§3c` had mandated the `find`*** — "navigate by path,
 never by query" was written against the graph index, which cannot honor a quarantine, and is silent on the
 listing itself being one.
@@ -2966,3 +2965,60 @@ plausible-but-unverified artifact this methodology has now been bitten by three 
 the surrounding generators, which points at a phrasing dispute and a finer re-split rather than a genuinely
 mixed passage. **Recorded as the first live evidence that reader disagreement in this corpus clusters at
 boundaries rather than scattering — which is what `§C.2` predicted and had no data for.**
+
+---
+
+# M-97 — ⚠⚠ THE RULE AGAINST VECTOR 1 RECREATED VECTOR 1, INSIDE THE SECTION DOCUMENTING VECTOR 1, IN THE
+SAME SESSION THAT FIXED IT
+
+**Self-caught 2026-09-02, when the developer asked the coordinating session to account for its own exposure.**
+***It would not have been caught otherwise, and nothing in the methodology would have caught it.***
+
+## What happened
+
+**M-88's write-up — in `00_RUNBOOK.md` §C.2 and in this file — justified the filename rule by describing the
+leak.** **To show why eleven filenames were dangerous, both drafts ENUMERATED FOUR of the civic facts those
+filenames named.**
+
+> ***`00_RUNBOOK.md` is the file `CLAUDE.md` mandates be read IN FULL before any location work.*** **The
+> paragraph explaining that required reading is a contamination vector had itself become one — for the same
+> location, in the same session, one screen below the rule forbidding it.**
+
+## Why it is not merely embarrassing
+
+**This is the fourth instance of one pattern**, and the recurrence is the finding:
+
+| | Instance |
+|---|---|
+| **M-85** | A prep document leaked through its *descriptive* prose while its line-ranged sequence stayed clean |
+| **M-82** | A rule file's *worked example* leaked the location it exemplified |
+| **`06`'s own schema** | The manifest's *"what this reveals about X"* column leaks to the very session checking it |
+| **M-97** | The *rule against all three* leaked, by explaining itself |
+
+> ### ***Every one is the same mechanism: JUSTIFYING a quarantine requires demonstrating what is being
+> quarantined, and the demonstration is the leak.*** **The more carefully a rule argues its case, the more of
+> the withheld material it spends.** ***Thoroughness is the attack surface.***
+
+**And note the asymmetry that makes it invisible:** a rule that leaks is *more persuasive* than one that does
+not, because it shows its evidence. **The incentive runs toward contamination**, which is why this needs a
+mechanical rule rather than an exhortation to be careful.
+
+## The rule — binding on every rule file, prep document, manifest entry and observations entry
+
+> ## **DESCRIBE A LEAK BY ITS SHAPE AND ITS SIZE. NEVER BY ITS CONTENT.**
+>
+> **"Eleven titles, four of them naming load-bearing civic facts" carries the entire methodological lesson.**
+> **The four facts add nothing except the contamination.**
+
+**Both instances corrected to counts.** **Applied retroactively where cheap; existing spent locations
+(`06`'s earlier rows) left alone, since their content is already spent and rewriting them buys nothing.**
+
+## ⚠ And the honest note on how it was found
+
+***No gate caught this. No scan caught this. The `06` manifest had just been updated by the same session and
+did not catch it.*** **It was caught because the developer asked a direct question — *"how much contamination
+has actually occurred?"* — which forced an audit of the session's own output rather than of the corpus.**
+
+**Which argues for a check nobody currently runs:** ***before committing, grep your own new prose for the
+subject's name and ask of every hit whether it states shape or content.*** **Cheap, mechanical, and it would
+have caught this one.** **Added to `Step 10.1` as item 1c.**
