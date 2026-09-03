@@ -1,5 +1,35 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
+> # 🔺🔺🔺 NEXT ACTION — **RUN SHIRAYUKI, COLD.** Everything is prepared.
+>
+> ### ⛔ **OPEN `COLD_RUN_CHECKLIST.md` (this folder) AND DO IT. Read nothing else first — not even the rest of this file.**
+>
+> **One page, executable, ~1 minute.** ***Two consecutive runs were burned before writing a single phase.
+> Both died performing a safety check.*** **The checklist exists so you do not repeat that.**
+>
+> ### Why this run is cheap — the expensive half is already done
+>
+> **`Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md` is `CONFIRMED` and pinned.**
+> **Coordinates-only, safe to read in full.** ***Verify its pin, then skip the entire reader-dispatch stage
+> and go straight to reading the rules and starting Phase 0.***
+>
+> | Already done for you | |
+> |---|---|
+> | All four `Step −2` vectors | ✅ swept and closed |
+> | Coordinate map, 3 files | ✅ **3-of-3 unanimous**, 45.4% admissible |
+> | Required-reading skip ranges | ✅ **exact** — `02` **340–378**, `05` **180–250**. Skip those, read the rest normally |
+> | Memory | ✅ scanned; 5 entries banded |
+> | Typicality declaration | ✅ written — **Shirayuki is a best-case subject; say so** |
+>
+> ### ⚠ Two things that will bite you if you improvise
+>
+> 1. ***Do not read beside a skipped range to see where it ends.*** **That is exactly how Run 13 died.**
+>    The ranges above are exact; trust them.
+> 2. **Do not `ls`/`find` Shirayuki's folders.** **Filenames are conclusions in this corpus.** The review's
+>    §3 already gives you a sanitized inventory.
+>
+> **Record of prior runs: `RUN_LOG.md`. Findings: `OBSERVATIONS_and_Methodology_Findings.md` M-87–M-109.**
+
 > # ⛔⛔⛔ BEFORE ANYTHING: `00_RUNBOOK.md` OPENS WITH `Step −2` AND A **LEAK REGISTER**. CHECK IT.
 >
 > **Two runs were burned in two days — Run 12 before Phase 0, Run 13 twenty minutes after opening it.**

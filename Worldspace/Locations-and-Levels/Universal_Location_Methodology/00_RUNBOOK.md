@@ -2,6 +2,10 @@
 
 > # 🔺🔺 STEP −2 — DISPATCH YOUR READERS BEFORE YOU READ ANYTHING ELSE. INCLUDING THE REST OF THIS FILE.
 >
+> ### ⛔ **IF YOU ARE STARTING A COLD RUN, STOP AND OPEN `Test_Runs/COLD_RUN_CHECKLIST.md` INSTEAD.**
+> **One page, executable, ~1 minute.** **It is this section reduced to actions, plus the reader brief
+> ready to copy.** ***Come back and read the rest of this file at its step 5, not before.***
+>
 > **Added 2026-09-02, at the developer's direction, after Run 12 (Casey) was burned before it began.**
 > **This is now the FIRST action of every cold run. It precedes Step −1, the frame, the required reading, and
 > your first `find`.**

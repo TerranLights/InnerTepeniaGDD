@@ -78,11 +78,21 @@ City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attribu
 > ### ⚠ **DO NOT READ ADJACENT LINES TO "VERIFY THE BOUNDARY." That verification IS the exposure.**
 > **Trust the range below. The reader that built it is the only party able to see both sides.**
 
-| File | **SKIP RANGE** | Class | Action |
+> ## ✅ RESOLVED 2026-09-03 — THE SKIP RANGES ARE NOW EXACT. **Do not compute them yourself.**
+>
+> **Enclosing-subsection bounds were derived from HEADING LINE NUMBERS ONLY** — no heading text was read,
+> because a heading contaminates as thoroughly as its paragraph (M-88). ***The earlier version of this table
+> told you to "verify whether these are example-bearing," which would have required reading beside them —
+> the exact move that burned Run 13.*** **That instruction is withdrawn. Skip the ranges below and read on.**
+
+| File | **SKIP THESE LINES** | Class | Why the whole range |
 |---|--:|---|---|
-| `02_Generators_Capability_and_Symbols.md` | **§4.1 entire — from the `## 4.1` heading through the end of the PEER-FREE address-axis subsection *(covers L359 and the rule statement it exemplifies)*** | ⛔⛔ **CONCLUSION-EXAMPLE** | **SKIP THE WHOLE SUBSECTION.** Its rule is recoverable from `00_RUNBOOK.md` Step 2 item 5 without the example |
-| `05_The_Input_Contract.md` | **211** | ⛔ **CONCLUSION** | **SKIP** — verify whether this is also example-bearing before trusting a line-only skip |
-| `05_The_Input_Contract.md` | **215** | ⛔ **CONCLUSION** | **SKIP** — same caution |
+| `02_Generators_Capability_and_Symbols.md` | **340–378** *(39 lines)* | ⛔⛔ **CONCLUSION-EXAMPLE** | L359 is a worked example; **the rule it illustrates is stated around it.** Recoverable from `00_RUNBOOK.md` Step 2 item 5 without the example |
+| `05_The_Input_Contract.md` | **180–250** *(71 lines)* | ⛔⛔ **CONCLUSION-EXAMPLE** | Contains **both** L211 and L215 in one subsection. **Conservative by choice** — the alternative was a check that is itself the exposure |
+
+**Total skipped: 110 lines of ~1,318 across the two files.** **Read everything else in both, normally.**
+**If a rule you need turns out to live inside a skipped range, get it from `00_RUNBOOK.md` or ask — do not
+open the range.**
 | `06_Worked_Example_Provenance.md` | 77 | ATTRIBUTE | none — inside another city's section |
 | `06_Worked_Example_Provenance.md` | 161 | ANECDOTE | none |
 | `00`, `01`, `03`, `04`, `README`, `Cultural_Synthesis_Techniques.md`, `Real-World_Basis_Extrapolation_Method.md`, `00b`, `00d`, `00f` | — | **CLEAN — verified, not assumed** | none |

@@ -10,6 +10,8 @@ file and start a fresh one for the next stretch of work).
 
 # 🔺 ULM — next actions
 
+0. **▶ RUN SHIRAYUKI, COLD — a fresh session.** Open
+   `Test_Runs/COLD_RUN_CHECKLIST.md` and do it before reading anything else. Review is `CONFIRMED` + pinned.
 1. **Finish the `§C.1` split extracts.** Halley + Janbogo built. **Mawson/Byrd/Amundsen + Mirny need one more
    reader each; Palmer needs re-mapping.** → `00_RUNBOOK.md` §C.1
 2. **Run 14 — Casey, cold.** Prep + review ready; **a fresh session must run it.**
