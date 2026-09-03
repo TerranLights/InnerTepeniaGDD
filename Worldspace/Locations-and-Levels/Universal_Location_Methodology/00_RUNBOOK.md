@@ -1046,6 +1046,60 @@ still wrong.***
 check for a carve-out.** **Seconds per source.** **And where one exists, the registry row must name it** —
 as the row for this folder now does.
 
+### ⚠ THE PER-CITY CAVEAT LIST — *"almost all are ready; a couple are in question"*
+
+**Developer statement, 2026-09-03, and it is correct.** ***Checked against the folder's own open-items
+sections rather than taken on trust — and the named cities are not all "in question" in the same way, which
+matters for how a pass should treat each.***
+
+| City / item | What is actually open | How a pass should treat it |
+|---|---|---|
+| **Lazar** | **Mandate 0%, and canon itself flags the economy as needing real development.** The folder's own *"one genuine open question"* | ⛔ **Do not cite a Lazar mandate figure.** Treat as `REQUESTED` |
+| **{{Bunger Hills City}}** | **`DRQ-05` OPEN** — excluded from the run by ruling | ⛔ Excluded by design, not missing |
+| **Port Lockroy** | **Stale TBD; its post office sits as an open question.** *(Separately: 40% heritage-themed, flagged as needing a scale judgment rather than a bug fix)* | ⚠ Cite with the caveat |
+| **Esperanza** | **Education 25% counted as fully mandated, but part is local schooling already in baseline C1a — a flagged DOUBLE-COUNT risk** | ⚠ Do not build on the 25% |
+| **The ten H percentages** | Named as still open in Half B | ⚠ Check before use |
+| **Every EXPORT figure, all cities** | **`DRQ-09` OPEN** — the baseline/distinctive convention still blocks them | ⛔ **Do not cite export figures at all** |
+| **Every FOOD figure** | **The B1 carve-out — see above.** Rebuilt in `11`, but `04`/`05`/`09` still carry the bad numbers | ⛔ Read `10` first, always |
+
+> ### ⚠ **DENISON IS A DIFFERENT CASE, and reading it as "unreliable data" would be wrong.**
+> **Denison's figures are not in doubt. Denison is the model's own BENCHMARK** — Cape Denison is the windiest
+> place on Earth at sea level (~22 m/s mean annual), its §15 already carries a large wind-engineering sector,
+> and the folder states plainly that ***if the instrument cannot reproduce that existing sector from its own
+> drivers, the instrument is wrong.*** **An earlier claim that Denison should carry the corpus's maximum
+> construction burden was RETRACTED in the same folder — Halley carries it, because Halley periodically
+> relocates the entire city.**
+>
+> ***So: cite Denison's figures normally. Treat any NEW derivation that contradicts them as evidence against
+> the derivation, not against Denison.***
+
+**⚠ One more, and it is a `CLAUDE.md` obligation rather than a data question:**
+**`02_Cross_City_Industry_Differentiation_Table.md` is described by `16` as *"still empty"*** *(it currently
+holds ~14 rows of scaffolding)*. **`CLAUDE.md` requires the differentiation table's relevant row be read
+BEFORE writing a category and the city's column added in the SAME COMMIT.** ***A location pass touching
+industry must check whether this table has been filled for its subject, and fill it if not.***
+
+### ⚠ HOW TO ADDRESS THE PER-CITY FIGURES — there is no per-city file, and expecting one wastes a pass
+
+**Checked 2026-09-03.** ***There are NO individual per-city division-of-industry files.*** **All 37 cities'
+figures live inside a single 3,545-line calculation sheet, `16_Per_City_Three_Tier_Run.md`, whose "HALF B —
+THE 37-CITY RUN" section carries the per-city results.**
+
+| Need | Address |
+|---|---|
+| **One city's three-tier figures** | `16_Per_City_Three_Tier_Run.md`, **Half B** |
+| **The model that produced them** | `01_Burden_Scoring_Model.md` · `08_Volume_Based_Requirement_Reference.md` |
+| **What each city is MISSING** | `Division_of_Industry_Sweep_2026-08-31.md` §4.4 — the corpus-wide gap matrix |
+| **Cross-city differentiation** | `02_Cross_City_Industry_Differentiation_Table.md` |
+| **⚠ The canon/derivation boundary** | **`16` §"How much of this is canon and how much is mine"** — ***read this before Column-3 tagging; the sheet declares its own boundary and it is more precise than a blanket tag*** |
+
+> ### ⏸️ **AND THE INTEGRATION IS PENDING, WHICH IS WHY THE PER-CITY FILES SEEM TO BE MISSING.**
+> **The folder's README states plainly: *"What remains is INTEGRATION, not verification: folding these numbers
+> into the official `Specs/` and `Local_Cultures/` files, which is a separate scheduled task."*** **Until that
+> lands, a location pass must read the figures from `16`, NOT from the city's own `Specs/` file — which does
+> not yet carry them.** ***A pass that checks `Specs/` for a sector percentage and finds nothing has not found
+> a gap; it has found the un-run integration.***
+
 ### The standing Column-3 tagging obligation, restated because it still applies
 
 **These figures are `G3` and admissible — *and they are PROJECT-INTERNAL DERIVATION*, which puts them in
