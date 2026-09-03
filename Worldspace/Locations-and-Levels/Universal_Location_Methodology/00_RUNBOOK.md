@@ -270,10 +270,70 @@ repo, not inside this one — so a pass must open it deliberately; it will not t
 | `Worldspace/Design_Principles.md` | standing design law |
 | `Worldspace/Characters/` | character canon, incl. `Enneagram_Character_Index.md` |
 | `Worldspace/Locations-and-Levels/…/Cities/` | city specs, census, symbolic substrate, Enneagram, relationships |
+| `…/Cities/City_Master_Reference/` | **⚠ MIXED-ADMISSIBILITY per-city file index — see §C.1 before opening in a cold run** |
 | `…/Concordia-City/Districts/District_Canon_Reference.md` | **district locked canon** |
 | `Neo-Races-and-Cultures/` | per-subnet cultures; `Orbital_Cryptograph_Helix_Era/` for the novel-series crossover |
 | `Background-Lore/Cities/` | historical vignettes |
 | `Reference/Real-World/` | research extractions — **check `Book_Extraction_Index.md` before mining any book** |
+
+## C.1 ⚠ The City Master Reference — navigation-admissible, conclusions withheld
+
+**Added 2026-09-02, at the developer's direction, and placed HERE rather than in the methodology proper.**
+**`01`–`06` must stay applicable to any location in any universe, real or imaginary. A pointer to one
+project's index file is not universal, so it lives in the runbook.**
+
+**What it is.** `…/Cities/City_Master_Reference/` — five per-subnet files plus a README, compiling for each of
+the 37 cities: **which files exist and at what canon tier**, the census figures, geology and difficulty, the
+real-world basis, founding facts, **line-anchored infrastructure citations** *(`Airports.md` / `Highways.md`,
+with line numbers)*, open threads, **and** the robot-culture findings, design-tool reads, district affinities
+and division-of-industry determinations.
+
+> ### ⚠ It is a MIXED document, and therefore INADMISSIBLE AS A WHOLE to a cold run.
+>
+> **`05` §6.1a rule 1:** *"A file is admissible only if **every section** of it is. There is no partial read:
+> **you cannot un-see the second half.**"* **Roughly half of each entry is conclusions.**
+
+| ✅ **Admissible — attributes (= G1–G8)** | ❌ **Inadmissible — conclusions** |
+|---|---|
+| The **Files found** table — pure pointers, with tier markers | **Robot culture** sections — 🔴 draft findings |
+| **✈️🛣️ Infrastructure cross-references** — line-anchored network facts **(G5)** | **Design-tool readings** — Enneagram personality reads |
+| Census I/II **(G8)**; geology and D **(G2)** | **District affinity** picks — derived |
+| Real-world basis **(G7)**; founding mechanism **(G4)** | *"Identity: '…'"*-style claims |
+| §15 sector list and the mandate/free figures **(G3 — but see below)** | The determinations' **characterization notes** |
+| **Open threads** — these are gaps, not answers | Any canon-facts bullet phrased as interpretation |
+
+### The remedy is upstream, not a careful read
+
+**`05` §6.1a rule 2:** *"Where a source genuinely mixes the two, the fix is upstream — **split the file.** Do
+not attempt to read around the conclusions."*
+
+> **Therefore: a cold run opens the SPLIT EXTRACT, never the full reference.** The extract carries only the
+> left column above. **The full reference stays withheld until Step 7**, where it becomes exactly what a cold
+> run wants — an independent body of prior conclusions to compare a blind derivation against.
+
+**⚠ The extract must be built before the first run that relies on it.** Until it exists, treat the whole
+`City_Master_Reference/` folder as withheld.
+
+### ⚠ One standing tagging obligation
+
+**The division-of-industry figures are `G3 Function & purpose`** — admissible, and genuinely the strongest G3
+supply this project has *(the mandate tier is literally "what its parent needs from it," which `05` §2.2 names
+as the generator)*. **But they are project-internal derivation, which puts them in `05` §6.1's Column 3:**
+
+> *"**Admissible but self-originated.** Use it — you are usually obliged to. **But tag every finding that
+> rests on it**, because it is corroboration rather than independent confirmation."*
+
+**Any finding leaning on a mandate/free figure carries that tag.**
+
+### Why this exists at all
+
+**The reference is a genuine navigation asset** — it is the only file that answers *"what exists for this
+city, and where"* in one place, and its line-anchored infrastructure citations are exactly the mitigation
+`05` §6.1a recommends for mixed sources.
+
+**And it is a live hazard precisely because it is convenient.** ***A helpful index sitting one directory away
+from a cold run is the Cape Adare failure shape*** — excellent material, reasonably deposited, read eight
+weeks later by a pass that had no way to know what tier it was.
 
 ## D. Sibling projects — check for cross-series consistency, do not port
 
