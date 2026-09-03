@@ -38,6 +38,11 @@ graph's own flags — cross-file links and unresolved edges the developer hadn't
 **Not triaged against the Governing Priority Sequence below; read opportunistically, don't let this jump the
 queue.**
 
+> ### ⛔ **THIS SECTION CARRIES AUTHORED TITLES AND IS A CONTAMINATION SURFACE FOR COLD RUNS.**
+> ***A graph edge is named by the titles it connects, and in this corpus a title is a conclusion*** (M-88).
+> **This exact section leaked a subject's spine to a cold run on 2026-09-02.** **One title is redacted below.**
+> **If you are starting a cold pass on any location, SKIP THIS SECTION** — nothing in it is a to-do.
+
 **Surprising Connections** (semantically-similar or referenced pairs the graph surfaced on its own):
 - `Concordia City Color-Coded Map by District` ↔ `Concordia City Main Quest Trajectory Map` — semantically
   similar (an image map and the HTML quest-trajectory map).
@@ -53,8 +58,9 @@ queue.**
 - What is the exact relationship between `Sinheung` and `Janbogo`?
 - What is the exact relationship between `Brother/Sister Ilkay` and `The Decision to Stop Sending Humans Up
   (vignette)`?
-- What is the exact relationship between `Shirayuki Suggestion #11 'One of the Ones Who Left'` and `Ayako
-  Hayashi (pre-Concordia origin candidacy)`? — flagged as the single most interesting one: it crosses from a
+- What is the exact relationship between `Shirayuki Suggestion #11` ⛔ *[title redacted 2026-09-03 — it is an
+  authored, conclusion-bearing title; full text in `graphify-out/GRAPH_REPORT.md`]* and `Ayako Hayashi
+  (pre-Concordia origin candidacy)`? — flagged as the single most interesting one: it crosses from a
   Mirny-subnet city suggestion doc into the Ayako Hayashi origin-candidate pipeline.
 - What is the exact relationship between `Argentine Air Force Base (1969, dormant)` and `2564 Exile Founding
   Flight`?

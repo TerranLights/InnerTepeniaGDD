@@ -3730,3 +3730,60 @@ run-reports.** ***A ratio of roughly 288 lines of counterexample per line of rul
 the counterexamples**, stating the format and naming the correct home for each content type. ***Putting the
 rule where the drift is, rather than only in a spec nobody re-reads, is the only version of this fix that
 survives contact with a long file.***
+
+---
+
+# M-110 — ⚠⚠ THE ENTRY PATH IS ITSELF A CONTAMINATION SURFACE. **The standing cold-pickup instruction sends a
+fresh session through 909 lines of unquarantined tracker before it reaches any protection**
+
+**Found 2026-09-03, by tracing the developer's own standard opening instruction rather than assuming it still
+worked** — *"have a look at the Weekly To-Do; there should be a top-priority instruction to read
+`RESUME_HERE.md` and follow it."*
+
+## The trace
+
+**A fresh session following that instruction reads, in order: `Weekly_To-Do_-_Current.md` (909 lines) →
+`RESUME_HERE.md` (749) → the checklist (109).** ***The two files it reads FIRST are the two that carry
+un-audited references to the subject.***
+
+**Measured: 11 mentions of the next subject across the entry path.** **Nine were meta or attribute-tier and
+harmless.** ***One was not.***
+
+> ### **The `FULL-CORPUS GRAPHIFY REBUILD` section lists graph edges — and a graph edge is NAMED BY THE
+> TITLES IT CONNECTS.** **One entry paired an authored suggestion-document title with a character's
+> origin-candidacy.** ***That single line is the leak that burned this very session at its own start.***
+>
+> **It had been sitting in the tracker since 2026-09-01, in the file the standing instruction points at.**
+
+## Why every existing control missed it
+
+| Control | Why it did not fire |
+|---|---|
+| `Step −2` | Fires **after** the session has been told what to read. **The instruction precedes the protocol** |
+| The `§C.4` review | Covers the subject's own files, **not the tracker that points at them** |
+| M-88 filename rule | Governs `ls` output, **not a title quoted inside prose** |
+| The leak register | Twelve rows about *files*. **None about the ROUTE to the files** |
+
+***Every instrument guards the destination. Nothing guarded the road.*** **This is M-104 once more, and the
+most literal instance yet: the protection begins where the session begins reading ABOUT the subject, and the
+leak arrived one step before that — in the instruction telling it where to start.**
+
+## Fixes
+
+1. **The title is REDACTED in place**, pointing at `graphify-out/GRAPH_REPORT.md`, which holds the full text.
+   **The lead survives; the leak does not.**
+2. **That section carries a standing warning**: *a graph edge is named by the titles it connects; in this
+   corpus a title is a conclusion; skip this section during any cold pass.* **Nothing in it is a to-do.**
+3. **⭐ The standing cold-pickup instruction is revised** so a cold run is routed **directly to
+   `COLD_RUN_CHECKLIST.md`**, bypassing both large trackers entirely. ***The shortest safe path is the one
+   that reads the fewest words before the first control.***
+
+## ⭐ The general rule, and it is worth more than this instance
+
+> ## **AUDIT THE ENTRY PATH, NOT ONLY THE DESTINATION.**
+> **Before handing off, walk the exact sequence of files the receiving session will open — in order — and
+> check each for the subject's name.** ***A handoff is only as clean as the road to it.***
+>
+> **And prefer a SHORT road:** **a 109-line checklist reached directly is safer than a 909-line tracker
+> reached first**, ***not because the tracker is careless, but because a tracker accumulates and a checklist
+> does not.***
