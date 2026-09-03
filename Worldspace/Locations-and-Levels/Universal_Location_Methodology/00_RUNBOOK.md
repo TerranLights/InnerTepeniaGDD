@@ -335,6 +335,77 @@ city, and where"* in one place, and its line-anchored infrastructure citations a
 from a cold run is the Cape Adare failure shape*** — excellent material, reasonably deposited, read eight
 weeks later by a pass that had no way to know what tier it was.
 
+## C.2 ⭐⭐ READER/DERIVER ISOLATION — how to learn WHERE without learning WHAT
+
+**Developer proposal, 2026-09-02, adopted.** **The technique that makes §C.1's mixed sources usable by a cold
+run without splitting them first.**
+
+### The problem it solves — and it is one rule 2 cannot solve alone
+
+**`05` §6.1a rule 2 says: where a source mixes attributes and conclusions, *split the file.*** **But somebody
+has to READ the mixed file in order to split it.** ***If the splitter and the runner are the same reader, the
+split itself is the contamination.*** **Rule 2 is sound and has no way to execute itself safely.**
+
+### The technique
+
+> ### **Separate the reader from the deriver. The reader may see everything. The reader may report only COORDINATES.**
+
+**The deriving pass dispatches search work to isolated readers, instructing them what to look for. They read
+freely — including the conclusions — and return **file paths and line ranges only.** **The deriving pass
+learns *where* to look without ever being exposed to *what is there*.**
+
+> **⚠ This clears `05` §6.1a rule 1 for a better reason than care.** **Rule 1 is about EXPOSURE, not intent
+> — which is why "read around it" is explicitly forbidden.** **Isolation makes the exposure architecturally
+> impossible rather than procedurally avoided.** ***There is no discipline left to fail.***
+
+### The return contract — strict, and the strictness is the whole mechanism
+
+| **May be returned** | **Must NEVER be returned** |
+|---|---|
+| File path | **Section headings** — *"§30 — Why Casey Is The Loud One"* contaminates as thoroughly as the paragraph |
+| Line range | Quotes, excerpts, paraphrase |
+| **One tag: `ADMISSIBLE` or `WITHHELD`** | Summaries, characterizations, or a closing report of what was found |
+| *(optionally)* which generator a range supplies — `G2`, `G5`, `G8`… | Counts described qualitatively *("mostly about the bar culture")* |
+
+**⭐ Return BOTH maps, not just the safe one.** **The `WITHHELD` list is the more valuable half** — it is a
+**quarantine map**, and knowing *"lines 60–74 are conclusions"* tells the runner nothing about what they say
+while telling it exactly what not to open.
+
+### ⚠ The one real risk, and its required mitigation
+
+**A MIS-TAG is unauditable from inside the run.** If a reader marks a conclusion range `ADMISSIBLE`, the
+deriving pass opens it and is contaminated — **and the deriving pass cannot verify the map without performing
+the very reading the map exists to prevent.** **The map's accuracy is load-bearing and cannot be checked by
+its consumer.**
+
+> ### **REQUIRED: dual independent tagging.**
+> **Two readers tag the same file independently. A range is `ADMISSIBLE` only where BOTH agree. Any
+> disagreement defaults to `WITHHELD`.**
+>
+> **This is the project's existing two-agent validation protocol**, and this is a near-perfect case for it —
+> that protocol exists because **self-audit error in this project has run in one direction on every occasion
+> it has been measured.** ***Defaulting disagreement to WITHHELD biases the failure toward a thinner run
+> rather than a contaminated one, which is the correct direction.***
+
+### ⭐ What else this unlocks
+
+**The §C.1 split extract can now be built safely** — by isolated readers, without burning the pass that will
+later use it. **The technique is not only a substitute for splitting; it is how splitting gets done.**
+
+### Universal principle vs. project implementation
+
+> **The PRINCIPLE is universal and would belong in the methodology proper: *isolate the reader from the
+> deriver.*** A human team can do this — **one person builds a coordinate index, another derives blind from
+> it.** No AI is required for the technique to work.
+>
+> **The IMPLEMENTATION is tooling-specific and belongs here:** dispatch **Claude subagents** with the
+> coordinates-only return contract above. Subagent tool output does not enter the parent context, **which is
+> what makes the isolation architectural rather than promised.**
+
+**⏸️ The universal principle has NOT been added to `05` §6.1a** — the developer's standing instruction is that
+`01`–`06` stay applicable to any location in any universe, and no direction was given to amend them. **Flagged
+as available if wanted.**
+
 ## D. Sibling projects — check for cross-series consistency, do not port
 
 `games/Outer Tepenia series/` *(OT1 · OT2 · New Centauri)* · TheCryptographHelixDD · SouthernLights ·
