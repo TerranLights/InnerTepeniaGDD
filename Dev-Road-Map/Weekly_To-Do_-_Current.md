@@ -76,6 +76,42 @@ file and start a fresh one for the next stretch of work).
 BOX and do the four things it lists BEFORE opening the runbook.** **The prep document itself was audited after
 Run 12 and leaked nothing — it was written against M-85 and it held.**
 
+> ## ⛔⛔ AND THE RUN 12 SESSION MAY NOT RUN IT "SEMI-COLD." **Ruled 2026-09-02. Now `00_RUNBOOK.md` §C.5.**
+>
+> **Developer question:** *"if it's spine-level, would you be able to run a 'semi-cold' test run, or would
+> that be better handed over to a fresh iteration?"* ***Handed over.*** **Recorded because the instinct behind
+> the question is sound and the answer is not obvious until the dependency structure is looked at.**
+>
+> ### **The diagnostic is WHERE the leak landed, not HOW MUCH leaked.**
+>
+> | Leak location | Verdict |
+> |---|---|
+> | **A leaf** — one institution, one figure, one named place | ✅ **Tag corroboration-only, proceed. The run stays cold** *(M-63/M-66/M-85's own precedent)* |
+> | **The spine** — civic character, capability shape, differentiation axis, founding tension | ⛔ **NOT COLD. No partial credit, no middle tier** |
+>
+> **`Step 2` calls the spine *"the step everything else hangs on."*** ***A spine leak lands at the ROOT of the
+> dependency tree — every finding below it inherits, and no tag applied afterward un-inherits.*** **A pass
+> whose foundation is known and whose superstructure is "derived" from it is the circularity failure
+> displaced by one step and made harder to see.**
+>
+> ### ⭐ The decisive argument: it destroys the evidence class the run exists for
+>
+> **M-35 — a cold pass reproducing a withheld sheet's central finding near-verbatim — is this methodology's
+> strongest result, *and it is evidence only because the pass was blind.*** **Convergence between a derivation
+> and a conclusion the deriver already half-knew is worth nothing.** **Run 12's own stated purpose is
+> consistency verification, so that evidence class is the entire reason for running it.**
+>
+> ### ⚠ Two further points worth keeping
+>
+> - ***A semi-cold result LOOKS cold*** — it would enter the comparison set beside Runs 3/4/5 with nothing
+>   distinguishing it. **Same asymmetry as the unanimity rule: false-cold is unrecoverable, deferred is late.**
+> - **Switching SUBJECT instead of SESSION does not fix it.** **Vectors 1 and 3 are corpus-wide** — that
+>   trades a *measured* heavy contamination for an *unmeasured* light one, which is worse, because only the
+>   first can be declared in the frame block.
+>
+> **Permitted alternatives: declare the run WARM and label it** *(precedented — Run 8)*, **or hand off.**
+> ***A warm run is honest; a "semi-cold" run is a warm run wearing a cold run's credibility.***
+
 ### ⚠⚠ WHY THE PREPARING SESSION COULD NOT RUN IT
 
 **It was contaminated for Casey — and for all 37 cities.** It had compiled

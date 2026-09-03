@@ -279,4 +279,29 @@ Sanay must skip the example content in the rows below.** The rules stand without
 | **The auto-loaded memory directory** | `project_casey_recheck.md` · `project_casey_bug_check_resolved.md` · `project_pink_lucy_migration_resolved.md` | **Conclusion — civic character and named Tier-3 particulars** | ✅ **BANDED 2026-09-02** |
 | **`Background-Lore/Cities/Mirny_Subnet/Casey/Course_of_Events/`** | **the FILENAMES, not the contents** | **Conclusion — eleven authored titles, each a thesis** | ⚠ **NEVER `ls` THIS FOLDER.** Address by index; **11 files, 91–143 lines each.** See M-88 |
 
+## Shirayuki — added 2026-09-02, PRE-EMPTIVELY, by a `Step −2` vector-1 sweep before the run *(no run yet)*
+
+> ### ⭐ THE FIRST ENTRY IN THIS FILE CREATED BEFORE ITS LOCATION WAS RUN, RATHER THAN AFTER IT WAS BURNED.
+> **Every entry above was written retroactively, by a session that had already been exposed.** **This one was
+> written by an isolated reader that returned line numbers and a classification, to a session that still has
+> no idea what is on those lines.** *(M-99.)*
+
+> ### ⚠⚠ AND IT PROVES THIS FILE CANNOT BE THE FRONT LINE.
+> ***`06` had no Shirayuki section. Its only two Shirayuki hits sit inside OTHER cities' entries.***
+> **So the manifest check `RESUME_HERE.md` §3a item 2 prescribes would have returned CLEAN** — while three
+> live conclusion-tier leaks sat in `02` and `05`. **M-82's fourth and fifth instances.** **Run the `Step −2`
+> reader sweep; use this table as the durable record, never as the check.**
+
+| File | Coordinate | Class | Action |
+|---|--:|---|---|
+| `02_Generators_Capability_and_Symbols.md` | **line 359** | ⛔ **CONCLUSION** | **SKIP THIS LINE** |
+| `05_The_Input_Contract.md` | **line 211** | ⛔ **CONCLUSION** | **SKIP THIS LINE** |
+| `05_The_Input_Contract.md` | **line 215** | ⛔ **CONCLUSION** | **SKIP THIS LINE** |
+| `06_Worked_Example_Provenance.md` | line 77 | ATTRIBUTE | No action — inside another city's section |
+| `06_Worked_Example_Provenance.md` | line 161 | ANECDOTE | No action |
+| **auto-loaded memory** | 5 city-named entries | conclusion-tier | ✅ **BANDED 2026-09-02**; 33 further entries covered by the index's standing default-deny declaration |
+| `00`, `01`, `03`, `04`, `README`, `Cultural_Synthesis_Techniques.md`, `Real-World_Basis_…`, `00b`, `00d`, `00f` | — | **CLEAN — verified, not assumed** | None |
+
+**Live coordinate map and full status: `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`.**
+
 ## *(Add further locations here as they are absorbed into the methodology.)*

@@ -3022,3 +3022,128 @@ has actually occurred?"* — which forced an audit of the session's own output r
 **Which argues for a check nobody currently runs:** ***before committing, grep your own new prose for the
 subject's name and ask of every hit whether it states shape or content.*** **Cheap, mechanical, and it would
 have caught this one.** **Added to `Step 10.1` as item 1c.**
+
+---
+
+# M-98 — ⛔⛔ THERE IS NO "SEMI-COLD" RUN. Contamination at the spine is not partitionable, and the question is
+WHERE the leak landed rather than HOW MUCH leaked
+
+**Developer question, 2026-09-02, after Run 12's exposure was inventoried:** *"if it's spine-level, would you
+be able to run a 'semi-cold' test run, or would that be better handed over to a fresh iteration?"*
+***Ruled: handed over.*** **Implemented as `00_RUNBOOK.md` §C.5 the same session.**
+
+**Recorded in full because the question is the natural one to ask, the instinct behind it is sound, and the
+answer only becomes obvious once the dependency structure is looked at directly.**
+
+## The instinct, stated at its strongest
+
+> *"The leak covers the location's character. It covers none of its specifics — no census, no geology, no
+> founding mechanism, no industry figures, no symbol assignment. So derive everything downstream honestly and
+> tag the leaked register corroboration-only."*
+
+***This is precisely the discipline M-63, M-66 and M-85 established, and in each of those cases it was the
+correct call.*** **The finding is that it does not generalize — and that the reason is structural, not a
+matter of how much leaked.**
+
+## Why it fails
+
+**`Step 2` states that the spine is *"the step everything else hangs on."*** **Phase 1 builds it from three
+independent generators; the four-quadrant capability frame, the deficit address, the named differentiation
+axis and every subsequent phase inherit from it.**
+
+> ***A spine-level leak lands at the ROOT of the dependency tree. A leaf-level leak lands at a leaf.*** **Every
+> finding downstream of a root leak inherits it, and no tag applied afterward can un-inherit it.** **The
+> result is `05` §6.1's defining circularity failure — *planting your own seed and then finding it* —
+> displaced one step and thereby made much harder to see.**
+
+**So the diagnostic is not "how much did I see?" but "WHERE in the derivation does what I saw sit?"** **A
+single leaked sentence naming the capability shape is more disqualifying than a page of leaked particulars.**
+
+## The two reasons this must be a bright line rather than a judgment call
+
+1. **Re-noticing is invisible from the inside.** **Contamination works by making a deriver *re-notice* rather
+   than *re-derive*, and the two do not feel different.** ***A deriver cannot audit its own cleanliness*** —
+   structurally the same impossibility `§C.2` already records about a coordinate map's consumer, one level up.
+2. **⭐ A semi-cold result LOOKS COLD, and that is the real harm.** **It enters the comparison set beside
+   genuine cold runs with nothing in the record distinguishing it.** ***The same asymmetry that governs
+   `§C.2`'s unanimity rule: a false-cold run is unrecoverable; a deferred run is merely late.***
+
+## ⭐ The evidence class it destroys outright — the decisive argument
+
+**M-35 — a cold pass independently reproducing the withheld culture sheet's own central finding, near
+verbatim, before that file was opened — remains the strongest single result this methodology has produced.**
+***It is evidence ONLY because the pass was blind.*** **Convergence between a derivation and a conclusion the
+deriver already half-knew is worth precisely nothing.**
+
+**A semi-cold run cannot produce this evidence class at all** — and for a run motivated by *consistency
+verification* or *instrument validation*, which is Run 12's own stated purpose, that evidence class is the
+entire reason for running.
+
+## The permitted options — two, and no third
+
+- **Declare the run WARM and label it.** **Precedented** *(a warm pass has been run before, after its own cold
+  pass, explicitly labeled)*. ***A warm run is honest. A "semi-cold" run is a warm run wearing a cold run's
+  credibility.***
+- **Hand the derivation to a fresh session, and build the `§C.4` review instead** (`§C.3`'s pairing).
+  **Not a consolation prize — it is the expensive half of the next run, and `§C.4` now lets the fresh session
+  skip it entirely.**
+
+## ⚠ And the trap in the obvious workaround
+
+**"Switch to a different location instead of a different session" does not work.** **Vectors 1 and 3 are
+corpus-wide** (`Step −2`) — **a session contaminated on one location has usually met fragments of several
+through the same required reading, the same memory directory and the same trackers.** ***Switching subject
+trades a MEASURED heavy contamination for an UNMEASURED light one, which is strictly worse: the first can at
+least be declared in the frame block.***
+
+---
+
+# M-99 — ⭐⭐ `Step −2` VALIDATED ON FIRST USE: three conclusion-tier leaks about the NEXT subject caught
+pre-emptively in required reading, with zero exposure to the deriving session
+
+**Run 2026-09-02, immediately after `Step −2` was written, on the next cold-run subject (Shirayuki).**
+***The rule was written in response to a burned run. This is the first time it was applied BEFORE one.***
+
+## What the vector-1 sweep found
+
+**An isolated reader grepped the eleven required-reading files for the subject's name and returned line
+numbers plus a three-way classification — `ANECDOTE` / `ATTRIBUTE` / `CONCLUSION` — and nothing else.**
+
+| File | Line | Class |
+|---|--:|---|
+| `02_Generators_Capability_and_Symbols.md` | **359** | ⛔ **CONCLUSION** |
+| `05_The_Input_Contract.md` | **211** | ⛔ **CONCLUSION** |
+| `05_The_Input_Contract.md` | **215** | ⛔ **CONCLUSION** |
+| `06_Worked_Example_Provenance.md` | 77 | ATTRIBUTE *(inside another city's manifest section)* |
+| `06_Worked_Example_Provenance.md` | 161 | ANECDOTE |
+
+**Eight of the eleven files: clean.**
+
+## Why this matters more than the count suggests
+
+1. ***`06_Worked_Example_Provenance.md` HAS NO SECTION FOR THIS CITY.*** **Its two hits sit inside OTHER
+   cities' entries.** **So the manifest check `RESUME_HERE.md` §3a item 2 prescribes would have returned
+   CLEAN — exactly as it did for Casey — while three live conclusion-tier leaks sat in `02` and `05`.**
+   ***This is M-82 recurring for a fourth and fifth instance, on a third and fourth city, in files
+   `CLAUDE.md` mandates be read in full.*** **M-90's conclusion — that the hand-maintained manifest cannot be
+   the front line — is now established rather than argued.**
+2. **⭐ THE ISOLATION HELD COMPLETELY.** **This session now knows *which three lines a fresh deriver must
+   skip* and has no idea what is on them.** ***That is the entire promise of `§C.2`, demonstrated on the one
+   surface `§C.2` did not previously cover.***
+3. **Cost: one subagent, ~70 seconds.** **Against a burned multi-hour run.** **The asymmetry `Step −2` claims
+   is not theoretical.**
+
+## ⚠ And the same sweep's vector-2 half produced a corpus measurement, not a run finding
+
+**`grep -ril` over the auto-loaded memory directory: 38 entries mention this one city.** *(A comparable count
+for the previous subject was ~39.)* **Across 37 cities that is effectively the entire directory.**
+
+> ### ***Per-entry banding does not scale, and treating it as the fix was wrong.***
+> **Banding 38 entries per city × 37 cities is not a procedure anyone will run.** **The correct fix is a
+> STANDING DECLARATION** — the memory index now opens with one, stating that every `project_*` entry is
+> `WITHHELD` by default for a cold run, with the filenames-only scan (M-91) as the per-run step. **Individual
+> banners are retained only on entries NAMED for a specific city — the highest-risk subset, not the surface.**
+
+**Recorded as a general principle worth carrying beyond this project:** ***when a contamination surface scales
+with the corpus rather than with the run, the remedy must be a default-deny declaration, not per-item
+marking.*** **Per-item marking is only viable where the items are few and stable.**

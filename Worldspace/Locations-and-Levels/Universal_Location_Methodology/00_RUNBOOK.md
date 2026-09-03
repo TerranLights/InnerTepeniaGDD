@@ -801,6 +801,72 @@ attribution in requirement 5 is for: a reused map must show its work.** **And it
 requires unanimity rather than a majority — an inherited map is trusted longer and by more sessions than the
 run that built it.**
 
+## C.5 ⛔⛔ THERE IS NO "SEMI-COLD." Contamination at the SPINE is not partitionable
+
+**Developer question, 2026-09-02, and the ruling that followed it:** *"if it's spine-level, would you be able
+to run a 'semi-cold' test run, or would that be better handed over to a fresh iteration?"* ***Handed over.***
+**Recorded here because the question is the natural one to ask, the instinct behind it is reasonable, and the
+answer is not obvious until you look at the dependency structure.**
+
+### The instinct, stated fairly
+
+> *"I was leaked the location's character, but I have seen none of its specifics — no census, no geology, no
+> founding mechanism, no industry figures. So let me derive everything downstream honestly and tag the leaked
+> register as corroboration-only."*
+
+**This is exactly the discipline M-63, M-66 and M-85 established, and in those cases it was correct.** ***It
+does not generalize, and the reason is structural rather than a matter of degree.***
+
+### Why it fails — the question is WHERE the leak landed, not HOW MUCH leaked
+
+**`Step 2` says outright that the spine is *"the step everything else hangs on."*** Phase 1 builds it from
+three independent generators and reads the shape; **the four-quadrant frame, the deficit address, the named
+differentiation axis and every later phase inherit from it.**
+
+> ***A leak at the spine is a leak at the ROOT of the dependency tree, not at a leaf. Every downstream finding
+> inherits it, and no tag applied afterward can un-inherit it.*** **A pass whose foundation is known and whose
+> superstructure is "derived" from that foundation is `05` §6.1's defining circularity failure — *planting
+> your own seed and then finding it* — displaced by one step and made harder to see.**
+
+| Where the leak landed | Verdict |
+|---|---|
+| **A LEAF** — one institution, one particular, one figure, one named place | ✅ **Tag it corroboration-only and proceed.** The run stays cold. *(M-63, M-66, M-85's own precedent.)* |
+| **THE SPINE** — civic character, capability shape, the differentiation axis, the founding tension, the deficit | ⛔ ***THE RUN IS NOT COLD. There is no partial credit and no middle tier.*** |
+
+### The two reasons the line must be bright rather than judged case by case
+
+1. **Re-noticing is invisible from the inside.** **The mechanism of contamination is that a deriver
+   *re-notices* rather than *re-derives*, and it does not feel different.** ***A deriver cannot audit its own
+   cleanliness*** — the same impossibility `§C.2` records about a map's consumer, one level up.
+2. **⭐ A semi-cold result LOOKS COLD, and that is the actual harm.** **It would be filed beside the genuine
+   cold runs as a comparison data point, permanently corrupting the set, with nothing in the record letting a
+   later reader tell the difference.** ***Same asymmetry as `§C.2`'s unanimity rule: a false-cold run is
+   unrecoverable; a deferred run is merely late.***
+
+### ⭐ And the evidence class it destroys outright
+
+**M-35 — a cold pass independently reproducing a withheld culture sheet's own central finding, near
+verbatim — is the strongest result this methodology has ever produced.** ***It is evidence ONLY because the
+pass was blind.*** **Convergence between a derivation and a conclusion the deriver already half-knew is worth
+nothing at all.** **A semi-cold run cannot generate this evidence class**, which for a consistency- or
+validation-motivated run is usually the whole point of running it.
+
+### What to do instead — two legitimate options, and no third
+
+- **Declare the run WARM, explicitly, and run it as a comparison** — legitimate, precedented *(a warm pass has
+  been run before, after its own cold pass, and labeled as such)*. **A warm run is honest. A "semi-cold" run
+  is a warm run wearing a cold run's credibility.**
+- **Hand the derivation to a fresh session** — and **the contaminated session builds the `§C.4` review**,
+  per `§C.3`'s pairing. ***This is not a consolation task: it is the expensive half, and `§C.4` now lets the
+  fresh session skip it entirely.***
+
+> ### ⚠ And do not solve this by switching subjects instead of sessions
+>
+> **Vectors 1 and 3 are corpus-wide, not location-specific** *(`Step −2`)*. **A session contaminated on one
+> location has usually met fragments of several** — through the same required reading, the same memory
+> directory, the same trackers. ***Switching subject trades a MEASURED heavy contamination for an UNMEASURED
+> light one***, which is worse, because the first can at least be declared.
+
 ## D. Sibling projects — check for cross-series consistency, do not port
 
 `games/Outer Tepenia series/` *(OT1 · OT2 · New Centauri)* · TheCryptographHelixDD · SouthernLights ·

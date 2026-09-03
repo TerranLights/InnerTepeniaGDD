@@ -45,6 +45,20 @@
 > skip:** a coordinate map is line-anchored, so **one inserted line silently shifts every range below it** and
 > points you into withheld content. **§C.4 carries a runnable verification script.**
 >
+> ### ⛔ AND THE RUN 12 SESSION MAY NOT RUN THIS "SEMI-COLD" — `§C.5`, ruled 2026-09-02
+>
+> **It is contaminated at the SPINE, not at a leaf**, and ***the diagnostic is WHERE the leak landed, not how
+> much leaked.*** **A leaf-level leak is tagged corroboration-only and the run stays cold** *(M-63/M-66/M-85)*.
+> **A spine-level leak lands at the ROOT of the dependency tree — `Step 2` calls the spine *"the step
+> everything else hangs on"* — so every finding below it inherits, and no later tag un-inherits.**
+>
+> ***And it destroys the evidence class the run exists for:*** **M-35 is this methodology's strongest result
+> ONLY because that pass was blind.** **Convergence between a derivation and a conclusion the deriver already
+> half-knew is worth nothing.**
+>
+> **Permitted: declare WARM and label it, or hand off. There is no third tier.** ***A warm run is honest; a
+> "semi-cold" run is a warm run wearing a cold run's credibility.***
+>
 > ### ⭐⭐ The good news, and it is real
 >
 > **`§C.1` and `§C.2` remain UNTESTED in live use.** **Run 12 aborted before exercising them.** Their first
