@@ -475,6 +475,47 @@ later use it. **The technique is not only a substitute for splitting; it is how 
 `01`–`06` stay applicable to any location in any universe, and no direction was given to amend them. **Flagged
 as available if wanted.**
 
+## C.3 ⚠⚠ A COMPILATION PASS CONTAMINATES ITS COMPILER — against every location it covers
+
+**Recorded 2026-09-02, from a live instance.**
+
+> ### **Index-building and cold-running are MUTUALLY EXCLUSIVE for the same reader.**
+
+**The instance.** A session compiled `Cities/City_Master_Reference/` — five subnet files covering all 37
+Tepenian cities. **Writing each city's *"Robot culture"* and *"Draft-tier"* sections required reading that
+city's `Local_Robot_Culture`, Enneagram and Megasheet material.** **When that same session was later asked to
+cold-run one of those cities, there was no clean pick anywhere on the roster.** The contamination was
+**roster-wide, not location-specific**, and it was **invisible until someone asked the question.**
+
+**Why it is easy to miss:** *"have I read this location?"* is the natural check, and **it returns the wrong
+answer.** The compiler did not read Casey *to run Casey* — it read Casey *to write one paragraph of an index
+about Casey*, weeks or hours earlier, as a byproduct of unrelated work. ***The exposure is real and the intent
+is irrelevant — `05` §6.1a's rule is about exposure, not purpose.***
+
+### The three consequences
+
+1. **Ask the right question before scoping a cold run.** Not *"is this location clean?"* but ***"has this
+   session, at any point and for any reason, read into this location's conclusion tier?"*** **Compilation,
+   indexing, cross-referencing, audit sweeps and differentiation-table work all count.**
+2. **A session that has built an index CANNOT cold-run anything that index covers.** **It can still do
+   valuable work on it — but on the READER side of `§C.2`, never the deriver side.** *(Being contaminated
+   makes a session useless as a deriver and well-suited as a coordinator: it can read freely and return only
+   coordinates.)*
+3. **⚠ The handoff document is itself a contamination surface.** **M-85.** A prep document written by a
+   contaminated session **leaks through its descriptive prose**, not through its line-ranged sequence.
+   **The rule: classify BY RULE — file type and template section — NEVER by recall of content.** **A prep
+   document with no descriptive section cannot leak one.**
+
+### The mitigation, and it is not "be careful"
+
+> **Split the roles across sessions.** **The contaminated session writes the coordinates; a fresh session
+> derives from them.** **This is `§C.2` applied at session scope rather than at subagent scope — the same
+> principle, one level up.**
+
+**⭐ And note the pairing this produces, which is a strength rather than a workaround:** the compiler knows
+the corpus better than anyone and is therefore **the best possible map-builder**; the fresh session knows
+nothing and is therefore **the only possible deriver.** ***Neither could do the other's job.***
+
 ## D. Sibling projects — check for cross-series consistency, do not port
 
 `games/Outer Tepenia series/` *(OT1 · OT2 · New Centauri)* · TheCryptographHelixDD · SouthernLights ·

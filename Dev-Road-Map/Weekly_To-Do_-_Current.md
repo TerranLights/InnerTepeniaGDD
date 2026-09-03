@@ -8,6 +8,54 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+# 🔺🔺 RUN 12 — PREPARED AND HANDED OFF, 2026-09-02. Casey, cold. **A FRESH SESSION MUST RUN IT.**
+
+**Prep document: `Universal_Location_Methodology/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md`.**
+**⚠ Read `Universal_Location_Methodology/00_RUNBOOK.md` IN FULL first — it grew today.**
+
+### ⚠⚠ WHY THE PREPARING SESSION COULD NOT RUN IT
+
+**It was contaminated for Casey — and for all 37 cities.** It had compiled
+`Cities/City_Master_Reference/` earlier the same session, which required reading every city's
+`Local_Robot_Culture`, Enneagram and Megasheet material; and it had separately run Casey's
+division-of-industry determination, quoting several of its conclusion-tier findings.
+
+> ### **Generalized and recorded as `00_RUNBOOK.md` §C.3: *a compilation pass contaminates its compiler
+> against every location it covers.* Index-building and cold-running are mutually exclusive for the same
+> reader.** **There was no clean city left to pick.**
+
+**⭐ The pairing this creates is a strength, not a workaround:** the compiler knows the corpus best and is the
+**best map-builder**; a fresh session knows nothing and is the **only possible deriver.**
+
+### The run, as scoped
+
+| Field | Value |
+|---|---|
+| **Subject** | **Casey**, the city entire · **Type: Settlement** · **Mode: COLD** · Parent: Mirny subnet |
+| **Temporal frame** | **SECOND INTERWAR, pre-war.** Casey's post-war status is *destroyed* — a separate document per `05` §2.1b |
+| **Why a Settlement, against the standing default** | **The purpose is CONSISTENCY, not Type coverage.** Consistency testing holds the type constant and varies the location. **Two subnet siblings — Zhongshan (Runs 3/4) and Sinheung (Run 5) — have completed cold runs**, so Gate 6 gets real comparators |
+| **Why Casey is newly viable** | Its **G3** was supplied 2026-09-02 by the division-of-industry pass; its **whole Mirny subnet is now determined 8/8**; **all eight generators** are available |
+
+### ⭐ This run is ALSO the first live test of two new runbook sections
+
+- **§C.1** — the City Master Reference as a mixed-admissibility source, withheld as a whole
+- **§C.2** — **reader/deriver isolation**: three independent readers, **`ADMISSIBLE` requires 3–0 unanimity**,
+  2–1 works the escalation ladder, readers return **coordinates and one tag only**
+
+> **Their performance is a result of this run in its own right**, and belongs in the writeup **alongside**
+> Casey's own findings.
+
+### What the prep document contains — and deliberately does not
+
+**Contains:** the quarantine list · the line-ranged admissible set, cut at the section · the Input Contract
+tier check · the Tier 3 interrogation prompt · the Column-3 tagging obligation for the DoI figures.
+
+**⚠ Contains NO descriptive prose about Casey, by design.** **M-85** recorded that the previous prep document
+leaked through exactly that. **Every classification in it was derived BY RULE — file type and template section
+number — never by recall.**
+
+---
+
 # ✅ RUN 11 COMPLETE — 2026-08-31. The Sanay Maritime Shipping Port, cold, all eleven phases / sixteen gates /
 base Zodiac Lens (all twelve signs) / Review Panel.
 
