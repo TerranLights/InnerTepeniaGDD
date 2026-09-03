@@ -569,15 +569,26 @@ not attempt to read around the conclusions."*
 > | `Halley_Subnet_Reference.md` | ✅ `Halley_Subnet_Reference_EXTRACT.md` | **62.8%** of content |
 > | `Janbogo_Subnet_Reference.md` | ✅ `Janbogo_Subnet_Reference_EXTRACT.md` | **83.7%** |
 > | `Mawson_Byrd_Amundsen_Reference.md` | ⏸️ **2-of-3 maps on disk — needs ONE more reader** | — |
-> | `Mirny_Subnet_Reference.md` | ⏸️ **2-of-3 maps on disk — needs ONE more reader** | — |
+> | **`Mirny_Subnet_Reference.md`** | ✅ **`Mirny_Subnet_Reference_EXTRACT.md`** *(completed 2026-09-03, Run 15)* | **54.4%** |
 > | `Palmer_Subnet_Reference.md` | ⏸️ **no disk maps — re-map from scratch** | — |
 >
 > **⚠ The extracts are THIN BY RULE** — a line enters only on 3–0 unanimity *and* only where no reader found
 > a mid-line seam. **Each header says so.** ***Do not read thinness as evidence the source is clean.***
 > **Recover yield by working the escalation ladder on the seam lines, never by lowering the threshold.**
 >
-> **Partial maps live in the session scratchpad (`cmr_maps/R*_<file>.json`) and are ephemeral** — a future
-> session should re-dispatch rather than assume they survive.
+> ### ⭐ CORRECTED 2026-09-03 — **"ephemeral" was advice, not a fact. CHECK BEFORE RE-DISPATCHING.**
+> **This paragraph used to read: *"Partial maps live in the session scratchpad (`cmr_maps/R*_<file>.json`)
+> and are ephemeral — a future session should re-dispatch rather than assume they survive."*** **Run 15 looked,
+> and `R1`/`R2` for Mirny were still on disk in an expired session's scratchpad — valid, and asserting the same
+> `n=344` the source still has.** ***One reader completed the extract instead of three.***
+>
+> > **The advice was prudent and would have cost two readers every time it was followed.** ***A cheap check
+> > beats a safe assumption:*** **look for surviving maps, verify their `n` against the source's current line
+> > count, and re-dispatch only what is actually missing.**
+>
+> **⛔ AND MOVE WHAT YOU FIND OUT OF THE SCRATCHPAD IMMEDIATELY** — into the run folder, committed. **Recovered
+> work that is left where it was found is still ephemeral** *(M-132: the one deletion this project could not
+> recover was of uncommitted reader output)*.
 
 ### ⚠ One standing tagging obligation
 
