@@ -395,6 +395,13 @@ repo, not inside this one — so a pass must open it deliberately; it will not t
 | `Neo-Races-and-Cultures/` | per-subnet cultures; `Orbital_Cryptograph_Helix_Era/` for the novel-series crossover |
 | `Background-Lore/Cities/` | historical vignettes |
 | `Reference/Real-World/` | research extractions — **check `Book_Extraction_Index.md` before mining any book** |
+| **`…/Cities/Division_of_Industry/`** *(18 files)* | ⚠ **THE STRONGEST `G3` SUPPLY IN THE PROJECT — and MIXED-RELIABILITY. See §C.6 before citing any figure** |
+| `…/Cities/Division_of_Industry_Sweep_2026-08-31.md` | the corpus-wide necessary-industry gap matrix **(G3)** |
+| `…/Cities/National_Medical_and_Care_Institutes.md` | national healthcare/care institutions **(G3)** — a `Division_of_Industry` input |
+| `…/Cities/Locations/Infrastructure/Highways.md` · `Airports.md` | **network position (G5)** — named explicitly because the broad `Cities/` row above does not imply them, and every location pass needs them |
+| `…/Cities/Research_Logs/` | per-location research logs — **attributes, never conclusions; admissible even to a cold re-run** (§3e) |
+| `Worldspace/Canon_Gap_Resolution_Method/` | **the system for ACQUIRING canon that does not exist yet.** `Developer_Ruling_Queue.md` holds open rulings — **check it before treating a gap as closed** |
+| `Theoretical-Calculations/` | engineering/mass-budget models *(e.g. `Amundsen_Tower_Space_Fountain_Design.md`)* — a `Division_of_Industry` input |
 
 ## C.1 ⚠ The City Master Reference — navigation-admissible, conclusions withheld
 
@@ -991,6 +998,59 @@ validation-motivated run is usually the whole point of running it.
 > location has usually met fragments of several** — through the same required reading, the same memory
 > directory, the same trackers. ***Switching subject trades a MEASURED heavy contamination for an UNMEASURED
 > light one***, which is worse, because the first can at least be declared.
+
+## C.6 ⚠⚠ THE DIVISION-OF-INDUSTRY FOLDER — registered 2026-09-03, and it needs a THIRD axis
+
+**Found on a direct developer check:** *"we've added the division-of-industry files (plus all the files they
+get their data from) to the source docs for the ULM, yeah?"* ***We had not.*** **The folder appeared in this
+runbook only inside `§C.1`'s tagging note — as an OBLIGATION, never as an ADDRESS.** **A pass following the
+registry would never have found it**, and the one prep document that used it listed it by hand. *(Which is
+exactly the "reconstruct it from recall instead of the registry" failure `CLAUDE.md` opens by warning about.)*
+
+### What it is
+
+**`…/Cities/Division_of_Industry/` — 18 files, ~9,300 lines.** **Developer-ruled `RELIABLE`, 2026-09-01:
+*"settled working canon… may be cited, built on, and used as inputs. Not provisional, draft, or
+unvalidated — that phase is over."*** ***It is the strongest `G3` supply this project has***, because its
+mandate tier is literally *"what its parent needs from it,"* which is `02` §2.2's own definition of the
+generator.
+
+### ⛔ THE CARVE-OUT — and why a bare registry row is not enough
+
+> **The folder's own README declares the FOOD LAYER (B1) NOT RELIABLE.** **Three independent checkers found
+> the national food balance circular, double-counted, and stated in the wrong units.**
+> **`10_Validation_Findings_2026-09-01.md` is REQUIRED READING before citing ANY food figure from `04`, `05`,
+> `09`, or the README's own "First results" block.** **The rebuild is `11_Caloric_Rebuild_and_Livestock_
+> Tier.md` (B1: 53 → 120.7 per 1,000 humans).** **⏸️ `DRQ-09` remains OPEN and still blocks every export figure.**
+>
+> **Unaffected and safe:** population · workforce · the difficulty ladder · **the other 21 industries.**
+
+### ⭐ THE GENERALIZABLE FINDING — the registry models ONE axis and there are THREE
+
+**`§C.1` solved *mixed ADMISSIBILITY* for the City Master Reference — attribute vs. conclusion.** **`05` §6.3
+added *RATIFICATION* — a file can pass every circularity test and still not be canon.** ***This source is a
+third case, and neither axis catches it: it IS canon, it IS attribute-tier, and one named layer inside it is
+still wrong.***
+
+| Axis | Question | Instrument |
+|---|---|---|
+| **Admissibility** | Attribute or conclusion? | `05` §6.1, `§C.1`, `§C.2` |
+| **Ratification** | Is it canon at all? | `05` §6.3 |
+| **⭐ RELIABILITY** | **Is it canon that has been VALIDATED — and is any layer inside it carved out?** | **this section** |
+
+> ### ***Registering a source's ADDRESS is not the same as registering its RELIABILITY STRUCTURE.***
+> **A pass that cites a carved-out figure is not contaminated and not unratified — it is simply WRONG, and
+> nothing in the admissibility machinery will notice.**
+
+**THE RULE: before citing any figure from a multi-file derived source, open its README/status header and
+check for a carve-out.** **Seconds per source.** **And where one exists, the registry row must name it** —
+as the row for this folder now does.
+
+### The standing Column-3 tagging obligation, restated because it still applies
+
+**These figures are `G3` and admissible — *and they are PROJECT-INTERNAL DERIVATION*, which puts them in
+`05` §6.1's Column 3:** *"Admissible but self-originated. Use it — you are usually obliged to. **But tag
+every finding that rests on it**, because it is corroboration rather than independent confirmation."*
 
 ## D. Sibling projects — check for cross-series consistency, do not port
 

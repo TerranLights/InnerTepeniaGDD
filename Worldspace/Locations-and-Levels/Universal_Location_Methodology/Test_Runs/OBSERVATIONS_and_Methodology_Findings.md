@@ -3463,3 +3463,71 @@ letting each discovery arrive as a surprise.**
 > contaminated anyway — the second by the very mitigation the first had written.** ***A methodology that
 > treats that as bad luck will keep paying for it. This entry exists so the next session treats it as the
 > expected shape of the problem.***
+
+---
+
+# M-105 — ⚠⚠ THE STRONGEST `G3` SUPPLY IN THE PROJECT WAS NEVER IN THE CANON REGISTRY — and registering it
+exposed a THIRD source axis the methodology does not model
+
+**Found 2026-09-03, on a direct developer check:** *"we've added the division-of-industry files (plus all the
+files that the division-of-industry files get their data from) to the source docs for the ULM, yeah?"*
+***We had not. The correct answer was no, on three counts.***
+
+## Count 1 — the folder was an obligation without an address
+
+**`…/Cities/Division_of_Industry/` — 18 files, ~9,300 lines, developer-ruled `RELIABLE` on 2026-09-01 —
+appeared in `00_RUNBOOK.md` exactly twice, both inside `§C.1`'s tagging note.** **Both mentions tell a pass
+what to DO with the figures. Neither tells it where they LIVE.**
+
+> ***A registry entry that states an obligation without an address is unrunnable*** — the same defect the
+> Canon Registry itself was created to fix, recurring inside the fixed version. **`CLAUDE.md` opens by warning
+> that reconstructing the method from phase files instead of the registry is how the recorded errors
+> happened; the one prep document that used these figures listed them by hand, from recall.**
+
+## Count 2 — the upstream dependency set was only half-registered
+
+**Extracted mechanically from the folder's own cross-references rather than assumed:**
+
+| ✅ Already covered | ❌ Was NOT registered |
+|---|---|
+| `City_Logistics.md` · `Energy_Grid_Failure_Rationale.md` · `Robot_Biology_and_Culture/` · `City_Master_Reference/` | **`Division_of_Industry/`** · **`Division_of_Industry_Sweep_2026-08-31.md`** · **`National_Medical_and_Care_Institutes.md`** · **`Canon_Gap_Resolution_Method/`** *(incl. the open `Developer_Ruling_Queue`)* · **`Theoretical-Calculations/`** |
+
+**⚠ And `Highways.md` / `Airports.md` were only implied** by a broad `…/Cities/` row whose stated domain
+(*"city specs, census, symbolic substrate, Enneagram, relationships"*) **does not mention infrastructure at
+all** — while `G5 Network position` needs them on every single pass. **All now named explicitly.**
+
+## ⭐ Count 3 — THE REAL FINDING: the registry models ONE axis and there are THREE
+
+**The folder is ruled `RELIABLE`, but its own README carries a live carve-out: *the food layer (B1) is NOT
+reliable*** — three independent checkers found the national food balance **circular, double-counted, and in
+the wrong units**. **`10_Validation_Findings_2026-09-01.md` is required reading before citing any food figure
+from `04`, `05`, `09`, or the README's own results block. `DRQ-09` remains open and blocks every export
+figure.**
+
+| Axis | Question | Instrument | Status |
+|---|---|---|---|
+| **Admissibility** | attribute or conclusion? | `05` §6.1 · `§C.1` · `§C.2` | ✅ modeled |
+| **Ratification** | is it canon at all? | `05` §6.3 (M-62) | ✅ modeled |
+| **⭐ RELIABILITY** | **is it canon that has been VALIDATED, and is a layer inside it carved out?** | **none existed** | ⛔ **gap** |
+
+> ### ***Registering a source's ADDRESS is not the same as registering its RELIABILITY STRUCTURE.***
+>
+> **A pass citing a carved-out figure is not contaminated and not unratified — it is simply WRONG**, and
+> ***nothing in the admissibility machinery will notice, because the figure is perfectly admissible.***
+> **This is a failure mode with no existing detector.**
+
+## The fix — implemented
+
+**`§C.6` added**, carrying the folder, its `RELIABLE` ruling, the food carve-out with its required-reading
+pointer, the open `DRQ-09`, the unaffected list, and the standing Column-3 tagging obligation. **Seven new
+registry rows added to `§C`.** **New standing rule: *before citing any figure from a multi-file derived
+source, open its README/status header and check for a carve-out* — seconds per source, and the registry row
+must name the carve-out where one exists.**
+
+## ⚠ And note the shape — this is M-104 again, on a different surface
+
+***The Canon Registry is a control. It fixed "check canon" having no address. The gap then arrived one step
+outside it: an address that exists but whose internal reliability boundary is not modeled.*** **Twelve
+channels in the leak register are about CONTAMINATION; this one is about CORRECTNESS — but the structure is
+identical, and it was found the same way: by someone asking whether the control actually covered what it
+appeared to cover.** ***The developer's check is the only reason it surfaced.***
