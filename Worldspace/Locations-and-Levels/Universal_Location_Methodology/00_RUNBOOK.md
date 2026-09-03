@@ -1141,7 +1141,7 @@ defect)*.
 | **DRAFT** | Exists, `Status: DRAFT` | **Do NOT reuse.** It is unconfirmed — finish it: resolve every non-unanimous range down the escalation ladder, complete any unswept vector, then confirm |
 | **✅ CONFIRMED** | Exists, `Status: CONFIRMED`, **and the pin verifies** | ***REUSE IT. Skip the reader dispatch entirely and proceed to the cold run.*** **This is the developer's own stated purpose for the mechanism** |
 
-### ⚠ `CONFIRMED` is a high bar. All **SIX**, or it stays `DRAFT`
+### ⚠ `CONFIRMED` is a high bar. All **SEVEN**, or it stays `DRAFT`
 
 > **⭐ Requirement 6 added 2026-09-03 after Run 14.** ***A review meeting all of the original five was
 > `CONFIRMED`, pinned, verified — and still handed its deriver a spine-level leak, because every one of the
@@ -1157,6 +1157,15 @@ defect)*.
    omit and fatal to omit.)*
 5. **The tagging is attributed** — how many readers, when, under which contract version. ***"Confirmed" with
    no evidence behind it is exactly the assertion `Step 10` exists to forbid.***
+7. ### ⭐⭐ **EVERY MAPPED FILE'S HEADER IS READ FOR ITS OWN CITED SOURCES AND ITS RATIFICATION STATUS.**
+   **Record the result per file.** ***A file that cites a withheld document is DOWNSTREAM of it, whatever its
+   filename says; a file whose header says "not locked canon" is UNRATIFIED*** *(`05` §6.1a rule 4, §6.3)*.
+   > ## **A COORDINATE MAP MEASURES CONTENT. IT CANNOT MEASURE PROVENANCE OR RATIFICATION.**
+   > **Three readers tagging every line correctly tells you what a file SAYS — never where it CAME FROM.**
+   > ***Requirements 1–6 contain no provenance check at all.*** **Added 2026-09-03 after `Step 10.1` item 4
+   > was run for the first time on a `CONFIRMED` review and found a mapped "attributes" file declaring itself
+   > derived from that subject's withheld culture sheet, in its own header** *(M-127)*. **Seconds per file.**
+
 6. ### ⭐⭐ **THE REGISTRY IS ENUMERATED, THE SCOPE PIN IS TAKEN, AND EVERY SOURCE CARRIES A TIER.**
    **A Brief-B registry scout has walked every root in `§B`, `§C`, `§C.1`, `§C.6`, `§D`; the per-root
    `grep -ril` file counts are recorded as the scope pin; the inventory pin *(dir · files · min/max lines)* is

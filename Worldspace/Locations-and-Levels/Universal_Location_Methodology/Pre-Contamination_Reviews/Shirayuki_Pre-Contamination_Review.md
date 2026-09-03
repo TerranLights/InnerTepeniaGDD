@@ -210,7 +210,7 @@ where any reader split a line into admissible and withheld character spans are c
 | File | Lines | INERT | Content | **ADMISSIBLE (3–0)** | unanimous WITHHELD | **SPLIT** |
 |---|--:|--:|--:|--:|--:|--:|
 | `Specs/Shirayuki.md` | 225 | 71 | 154 | **78.6%** | 6.5% | 14.9% |
-| `Shirayuki_Physical_Infrastructure_Attributes.md` | 162 | 46 | 116 | **33.6%** | 49.1% | 17.2% |
+| ⛔ `Shirayuki_Physical_Infrastructure_Attributes.md` **— DEMOTED, see §10** | 162 | 46 | 116 | **33.6%** | 49.1% | 17.2% |
 | `Local_Cultures/Mirny_Subnet/Shirayuki.md` | 285 | 161 | 124 | **15.3%** | 50.0% | 34.7% |
 | **TOTAL** | **672** | **278** | **394** | **45.4%** | — | — |
 
@@ -391,7 +391,7 @@ carries a tier · the alias set is recorded.
 | `Developer_Ruling_Queue.md` | 625 | 59 | 566 | 396 | **70.0%** |
 | `testing/QA_template.md` ⚠ *(see §9d)* | 620 | 15 | 605 | 128 | **21.2%** |
 | `City_and_District_Research_Topics.md` | 322 | 15 | 307 | 242 | **78.8%** |
-| `City_Origin_Factions_Second_Interwar.md` | 286 | 59 | 227 | 5 | ⛔ **2.2%** |
+| ⛔ `City_Origin_Factions_Second_Interwar.md` **— re-tiered `WITHHELD`, see §10** | 286 | 59 | 227 | 5 | ⛔ **2.2%** |
 | `Research_Logs/Zhongshan_Research_Log.md` | 270 | 58 | 212 | 154 | **72.6%** |
 | `Robot_Physiology_and_Cultural_Practices.md` | 241 | 21 | 220 | 204 | **92.7%** |
 | `Cross_City_Cultural_Patterns.md` | 169 | 19 | 150 | 31 | ⛔ **20.7%** |
@@ -461,3 +461,36 @@ Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Citi
 Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md|74b3afcb80255089|241
 testing/QA_template.md|e6cde5a5c5025142|620
 ```
+
+---
+
+# 10. ⛔ PROVENANCE & RATIFICATION — `§C.4` requirement 7. **Run 2026-09-03; it changed two verdicts.**
+
+**`Step 10.1` item 4, run against all 17 mapped files.** ***A coordinate map measures CONTENT. It cannot
+measure where a file CAME FROM.*** **Requirements 1–6 contain no provenance check; this is it.**
+
+| File | Header declares | Verdict |
+|---|---|---|
+| ⛔ **`Shirayuki_Physical_Infrastructure_Attributes.md`** | *"built directly from `Specs/…`, **`Local_Cultures/Mirny_Subnet/Shirayuki.md`**, and `Shirayuki_Community_Infrastructure.md` … **Not locked canon**"* | **DEMOTED** — downstream of the withheld culture sheet **and** unratified |
+| ⛔ **`City_Origin_Factions_Second_Interwar.md`** | *"Each faction here is **derived from a specific city's actual established local post-culture** (see `Local_Cultures/*.md`)"* | **WITHHELD wholesale** — downstream by design, every city |
+| ✅ `Developer_Ruling_Queue.md` | cites another city's suggestions file, inside a ruling about that city | clean for this subject |
+| ✅ `Amundsen_Station_Archive_and_Trucking_Network.md` | carries sibling civic-identity claims | clean — readers tagged them `W` |
+| ✅ `Code-Architecture/README.md` · the other 12 | no withheld-tier citation | clean |
+
+## What DEMOTED means here — `05` §6.3 rule 3, not a quarantine
+
+**Unratified material is DEMOTED, not withheld.** **It may be read as a prompt.** ***It cannot ground a
+finding, settle a fact, or be cited as canon.*** **Where it is the ONLY support for a finding, that finding is
+`REQUESTED`, not `PRODUCED`** *(rule 4)*.
+
+> ### ⚠⚠ CONSEQUENCE FOR THE BANKED WORK — Run 14 §4b's `G3` line
+> **The education-centered economy and the two named institutions came from this file's admissible slice.**
+> ***Re-tagged `[DEMOTED · DOWNSTREAM]`.*** **A successor deriving `G3` must source it from `Specs/` and from
+> `Division_of_Industry/` via Brief C, and treat any agreement with this file as corroboration only.**
+
+> ### ⭐ Why this was missed for a full day on a `CONFIRMED` review
+> **`05` §6.1a's founding worked example is *this exact file type*** — *"the filename says attributes… its own
+> header named a withheld culture file as a source."* ***The rule exists because of it, and the check it
+> prescribes was never run on this instance.*** **Gate 2, verbatim: *a recorded failure is not a fixed
+> failure; the origin example is the one most likely to still be broken, precisely because writing the
+> discipline felt like having dealt with it.*** *(M-127.)*

@@ -117,6 +117,15 @@ relocated."* **Parse hand-verified against the raw row before use** (`00_RUNBOOK
 | *corpus mean (33 cities)* | | | *71.87%* | *0.00* |
 | **SHIRAYUKI** | 1,178,313 | 728,324 | **61.81%** | **−1.26** |
 
+> # ⛔⛔ STOP — THE INTERPRETATION BELOW IS `WITHHELD` FROM ANY COLD RUN. **The TABLE above is not.**
+>
+> **Split 2026-09-03 by the Step 10 readiness check** *(M-126)*. ***The z-score table is census arithmetic —
+> attribute-tier, inheritable, and the successor should absolutely take it.*** **What follows is a derived
+> analytical claim that points straight at Phase 1's capability question.** ***A Run 15 that reads it will
+> "discover" it*** — `05` §6.1's defining circularity failure, *planting your own seed and then finding it.*
+>
+> **⛔ COLD RUN 15: STOP READING §4c HERE. Resume at §4d.** *(Warm runs and map-builders: continue.)*
+
 > ### **Three cities share one ice-free oasis, one climate, one highway junction — and span 2.67 standard
 > deviations of retention. G2 is held constant by construction. Whatever produced the divergence is not
 > physical.**

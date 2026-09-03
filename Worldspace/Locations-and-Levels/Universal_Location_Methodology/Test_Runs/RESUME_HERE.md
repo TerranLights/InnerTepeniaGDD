@@ -55,11 +55,14 @@
 >    not remembered — it is inferred.** **OPEN THE EXPOSURE LEDGER.**
 > 3. **Do not `ls`/`find` the subject's folders.** **Filenames are conclusions in this corpus.**
 >
-> ### ⭐ Run 14 banked real, uncontaminated work — inherit it, do not re-derive it
-> **`2026-09-03_Shirayuki_Run14_Cold/00_RUN_STATUS.md` §4** — Tier 0 block, six-generator enumeration *(G1
-> tagged `[SELF-ORIGINATED]`)*, frame calls, **and a 33-city retention z-score table**: the subject at
-> **z = −1.26** against cluster neighbors at **+1.41** and **+0.76**, 1–2 km apart, **with G2 and G4 held
-> constant by construction.** **All derived before the leak; all attribute-tier.**
+> ### ⭐ Run 14 banked real work — inherit it, **but §4c is SPLIT and only half is yours**
+> **`2026-09-03_Shirayuki_Run14_Cold/00_RUN_STATUS.md`** — ✅ **§4a Tier 0 · §4b generator enumeration** *(G1
+> tagged `[SELF-ORIGINATED]`)* **· §4c's z-score TABLE · §4d frame calls · §4e standing obligation.**
+>
+> ⛔ **§4c's PROSE after the table is `WITHHELD`** *(M-126, caught by the Step 10 readiness check)*. **The
+> table is census arithmetic; the paragraph under it is a derived claim aimed straight at Phase 1's
+> capability question.** ***Reading it would let Run 15 "discover" Run 14's finding*** — `05` §6.1's
+> planting-your-own-seed failure. **A stop-marker is in the file at the split point. Honor it.**
 >
 > **Record of prior runs: `RUN_LOG.md`. Findings: `OBSERVATIONS_and_Methodology_Findings.md` M-87–M-124.**
 

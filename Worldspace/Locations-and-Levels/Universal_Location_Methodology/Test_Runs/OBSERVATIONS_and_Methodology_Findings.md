@@ -4642,3 +4642,199 @@ line by anyone.***
 >
 > **The claim is already in a pushed commit message and cannot be edited.** **Corrected in every live
 > artifact instead, and recorded here so the commit is not read as settled.**
+
+---
+
+# M-126 — ⭐⭐ THE STEP 10 READINESS CHECK EARNED ITS PLACE A SECOND TIME: **the handoff told the next cold run to open a file the review tiered `WITHHELD`**
+
+**Found 2026-09-03 by running Step 10 against a direct question — *"are we ready to start a fresh session and
+do a cold test run?"*** ***The honest response was to check rather than answer, and the check found two
+blockers.*** **Step 10's first use found the largest hole in the anti-contamination protocol. This is its
+second material catch, and the shape is the same: a handoff feels finished long before it is.**
+
+## BLOCKER 1 — the handoff contradicted the quarantine
+
+| Artifact | What it said |
+|---|---|
+| The review, §8b | `ULM/Test_Runs` **incl. this run's own status file** → **`WITHHELD` · culture_conclusions** |
+| `RESUME_HERE.md` top box | *"Run 14 banked real, uncontaminated work — **inherit it, do not re-derive it**"*, pointing at `…Run14_Cold/00_RUN_STATUS.md` §4 |
+
+> ***One file told the next cold run to open what the other file quarantined.*** **Both were written by the
+> same session, hours apart, and neither noticed.**
+
+### The resolution is a SPLIT, not a verdict — most of §4 really is inheritable
+
+**Audited section by section rather than tiered wholesale:**
+
+| §4 | Content | Verdict |
+|---|---|---|
+| **a** Tier 0 block | designation · position · population magnitude · parent | ✅ **attribute** |
+| **b** generator enumeration | which generators exist; G1 tagged `[SELF-ORIGINATED]` | ✅ **attribute** |
+| **c** *the z-score TABLE* | census arithmetic across 33 locations | ✅ **attribute** |
+| ⛔ **c** *the prose under it* | *"…span 2.67 SD · G2 held constant · whatever produced the divergence is NOT physical"* | ⛔ **WITHHELD — spine** |
+| **d** frame calls | Status · Band · temporal frame · typicality | ✅ **frame-tier** |
+| **e** standing obligation | the un-discharged `02` §4.0 double-shape reading | ✅ **procedural** |
+
+> ## **THE TABLE IS ARITHMETIC. THE PARAGRAPH UNDER IT IS AN ANSWER TO PHASE 1.**
+>
+> ***A Run 15 reading that paragraph would "discover" Run 14's finding*** — **`05` §6.1's defining
+> circularity failure, *planting your own seed and then finding it*, displaced by one run and made harder to
+> see because the seed arrives labeled "banked work, inherit it."**
+
+**Fixed:** an in-file stop-marker at the split point, and `RESUME_HERE` now names which sub-sections are
+inheritable and which are not.
+
+### ⚠ The generalizable rule
+
+> **A run's own status document is NOT uniformly tiered.** ***Its inputs are attributes; its findings are
+> conclusions; and a halted run's status file contains both, adjacent, under one heading.***
+> **Tier a run record BY SECTION before telling anyone to inherit it — and put the boundary IN THE FILE, not
+> only in the handoff that points at it** *(a pointer's caveat is read once; an in-file marker is read every
+> time)*.
+
+## BLOCKER 2 — vector 2 was recorded CLOSED against the wrong width
+
+**The review's §1 records vector 2 as ✅ SWEPT AND CLOSED — `38 entries`.** **Re-measured today across the
+ALIAS union: `51`.** ***13 auto-loaded memory entries name the subject only by its retired real-world basis
+name, were never swept, and memory is PUSH*** *(M-118, raised then and still open)*.
+
+## Also unrun, and honestly recorded rather than waved through
+
+- **`10.1` item 4** — *"open the header of every admissible file and check its own cited sources; a file that
+  cites a withheld document is downstream of it."* **Not run against the 14 newly-mapped files.**
+- **`10.3` item 9** — Gate 0 outward across trackers.
+- **Three open rulings** — `Cultural_Synthesis_Techniques.md` (63 lines) and `Real-World_Basis_…` (15) under
+  the LAYERING LAW; and whether the district-folder disciplines are in scope or exempt-and-swept.
+
+> ### ⭐ WHY THIS ENTRY MATTERS BEYOND ITS TWO FIXES
+> **Asked "are we ready," the session's available answers were *"yes, everything is prepared"* — which was
+> the honest-feeling answer — or *"let me check."*** ***The first would have been wrong, and the cold run it
+> authorized would have inherited a spine-level finding as banked attribute work.***
+> **This is verbatim what Step 10 was written to prevent, on its second live firing.**
+
+---
+
+# M-127 — ⛔⛔ **THE ORIGIN EXAMPLE WAS STILL BROKEN.** `10.1` item 4, run for the first time, found the mapped "attributes" file is DOWNSTREAM of the withheld culture sheet — **by its own header**
+
+**Found 2026-09-03 by running `Step 10.1` item 4** — *"open the header of every file on the admissible list
+and check its own cited sources; a file that cites a withheld document is downstream of it, whatever its
+filename says. Seconds per file, and it would have caught both of Run 3's contamination events."*
+***It had never been run on this subject. It took under a minute and found two.***
+
+## The finding
+
+**`…/City_Megasheets/…/Shirayuki_Physical_Infrastructure_Attributes.md`, its own lines 3–6:**
+
+> *"a systematic derivation of physical/civic attributes … **built directly from `Specs/Shirayuki.md`,
+> `Local_Cultures/Mirny_Subnet/Shirayuki.md`**, and `Shirayuki_Community_Infrastructure.md` … **Not locked
+> canon.**"*
+
+**`Local_Cultures/Mirny_Subnet/Shirayuki.md` is the WITHHELD culture sheet** *(review §6: 15.3% admissible,
+the dirtiest file in the map)*. ***The "attributes" file declares itself derived from it.***
+
+| Axis | Verdict |
+|---|---|
+| **Provenance** *(`05` §6.1a rule 4)* | ⛔ **DOWNSTREAM of a withheld document** |
+| **Ratification** *(`05` §6.3)* | ⛔ **UNRATIFIED — "Not locked canon," in its own header** |
+| Content tagging *(§C.2)* | ✅ **correct** — 3-of-3, 33.6% admissible, 66% withheld |
+
+> ### ***It fails on TWO axes the coordinate map does not measure — and the map was right about every line it tagged.***
+
+## ⚠⚠ THE PART THAT MAKES THIS SERIOUS
+
+> ## **`05` §6.1a's FOUNDING WORKED EXAMPLE IS THIS EXACT FILE TYPE.**
+>
+> **§6.1a, verbatim:** *"A handoff listed `[City]_Physical_Infrastructure_Attributes.md` as safe to open at
+> any time. The filename says attributes. **The file was two passes welded together** … ***Its own header
+> named a withheld culture file as a source.***"*
+>
+> ***The rule exists because of this file type. The check it prescribes was never run against this city's
+> instance*** — which sat in a `CONFIRMED`, pinned, 3-of-3 map since 2026-09-02, and which Run 14 read.
+
+**This is Gate 2's standing rule firing exactly as written:** *"A recorded failure is not a fixed failure.
+When a discipline file cites a location as its example, open that location and confirm the text actually
+changed. **The origin example is the one most likely to still be broken, precisely because writing the
+discipline felt like having dealt with it.**"*
+
+## Disposition — DEMOTED, not withheld *(`05` §6.3 rule 3)*
+
+**Unratified material is not quarantined; it is demoted.** **It may be read as a prompt. It cannot ground a
+finding, settle a fact, or be cited as canon.** **Where it is the ONLY support for a finding, that finding is
+`REQUESTED`, not `PRODUCED`** *(rule 4)*.
+
+**⚠ Consequence for Run 14's banked work:** **§4b's `G3` line — the education-centered economy and the two
+named institutions — came from this file's admissible slice.** ***Re-tagged `[DEMOTED · DOWNSTREAM]`: usable
+as a prompt, not as grounding.*** **A successor deriving `G3` must source it from `Specs/` and
+`Division_of_Industry/` (via Brief C) instead, and treat any agreement with this file as corroboration.**
+
+## Second finding, same check
+
+**`Worldspace/Factions/City_Origin_Factions_Second_Interwar.md`, line 5:** *"Each faction here is **derived
+from a specific city's actual established local post-culture** (see `Local_Cultures/*.md`)."*
+***Explicitly downstream, by design, for every city.*** **Consistent with its measured 2.2% admissible — the
+lowest of all 17 files.** **Re-tiered `WITHHELD` wholesale; its 5 admissible lines are not worth the
+provenance risk.**
+
+**Cleared on inspection:** `Developer_Ruling_Queue.md` *(cites another city's suggestions file, in a ruling
+about that city)* · `Amundsen_Station_Archive…` *(carries sibling conclusions, correctly tagged `W` by the
+readers)* · `Code-Architecture/README.md` *(a structural listing)*.
+
+> ### ⭐ THE RULE THIS ESTABLISHES
+> ## **A COORDINATE MAP MEASURES CONTENT. IT CANNOT MEASURE PROVENANCE OR RATIFICATION.**
+> **Three independent readers tagging every line correctly tells you what a file SAYS — never where it CAME
+> FROM.** ***`§C.4` requirements 1–6 contain no provenance check at all.***
+>
+> **THEREFORE: `§C.4` gains requirement 7 — every mapped file's header is read for its own cited sources and
+> its ratification status, and the result is recorded per file.** **Cost: seconds. It has now caught
+> something on its first run, on a review that was `CONFIRMED`.**
+
+---
+
+# M-128 — ⚠ **FOUR OVER-BROAD PATTERNS IN ONE RUN. The consumer's instruments fail the same way every time, and a PROOF-OF-HIT does not catch it.**
+
+**Recorded 2026-09-03 after testing the M-126/M-127 fixes** *(developer instruction: "test them to make sure
+they're properly addressed")*. ***The test found four false positives and, in doing so, found the pattern.***
+
+| # | Pattern | What it wrongly matched | Effect |
+|---|---|---|---|
+| **1** | `find … -exec wc -l {} +` | the trailing **`total`** row | ⛔ **published a false defect** (M-113, retracted) |
+| **2** | keying on a declared path string | one file under two strings | ⛔ files **silently left** the 3-of-3 set (M-122) |
+| **3** | `analys` | **analysis** *(correct American English)* | ⚠ false English-sweep hits |
+| **4** | `art` unanchored | **Hob*art*, st*art*, p*art*ially** | ⚠ 4 of 8 memory entries wrongly flagged conclusion-tier |
+
+> ## **EVERY ONE IS THE SAME DEFECT: A PATTERN MATCHING MORE THAN ITS AUTHOR MEANT.**
+> **None was a reasoning error. All four were instrument-construction errors, by the consumer, in the same
+> direction — over-matching.**
+
+### ⚠ AND THE PROOF-OF-HIT DISCIPLINE DID NOT CATCH ANY OF THEM
+
+**`04` Gate 1 requires: *"before drawing any conclusion from an absence, run the scan against a case you know
+contains a hit."*** ***That verifies SENSITIVITY — that the scan can find what it should.*** **It says nothing
+about SPECIFICITY — whether it also finds what it should not.** **Patterns 3 and 4 both passed a proof-of-hit
+and were still wrong.**
+
+> ## ⭐ **A PROOF-OF-HIT NEEDS A PROOF-OF-MISS BESIDE IT.**
+> **State a string the pattern MUST NOT match, and assert it does not — in the same command.**
+> ```
+> echo "Hobart start partially art music" | grep -oiE "$PAT"     # must print: art music
+> ```
+> **This caught pattern 4 in one line, after it had already produced a wrong classification.**
+
+**Adopted alongside `04` Gate 1's existing rule** *(which stays — sensitivity is still necessary)*:
+
+| Test | Question | Catches |
+|---|---|---|
+| **Proof-of-hit** *(existing)* | can it find a case I know is there? | a scan that finds nothing because it is broken |
+| ⭐ **Proof-of-miss** *(new)* | does it stay silent on a case I know is absent? | **a scan that finds things that are not there** |
+
+**Practical rules that fall out of all four:**
+1. **Anchor every word pattern** — `\bart\b`, never `art`.
+2. **Never trust a multi-file utility's aggregate row** — `wc -l` emits `total`; `du` emits a summary.
+3. **Canonicalize identities against the filesystem before joining on them.**
+4. **A shared stem is not a shared word** — *analyse* is British, *analysis* is not.
+
+> ### ⭐ Why this belongs in the observations log rather than being quietly fixed
+> **Step 9.5 rule 2: *solving a problem privately is how a methodology stays broken.*** **Individually these
+> are four trivial slips.** ***Together they are a measured property of this consumer: its errors are
+> mechanical, they are all over-matching, and its existing verification discipline is blind to that
+> direction.*** **That is actionable; four separate "oops" entries would not have been.**
