@@ -8,6 +8,46 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+# ✅ NEW 2026-09-03 — THE CITY MASTER REFERENCE IS USABLE AT LAST. **First `§C.1` split extracts built.**
+
+**`§C.1` has required an attribute-only split extract since it was written, and one had never been built** —
+which meant its own rule *("until it exists, treat the whole folder as withheld")* made the City Master
+Reference **entirely unreadable to any cold run.** ***Registering it harder would not have helped; it needed
+the extract.***
+
+**Now at `City_Master_Reference/Split_Extracts/`, built by three isolated readers plus a script —
+no session read the sources:**
+
+| Source | Status | 3–0 admissible |
+|---|---|--:|
+| `Halley_Subnet_Reference.md` | ✅ **BUILT** | **62.8%** of content |
+| `Janbogo_Subnet_Reference.md` | ✅ **BUILT** | **83.7%** |
+| `Mawson_Byrd_Amundsen` · `Mirny` | ⏸️ 2-of-3 maps on disk — **need ONE more reader each** | — |
+| `Palmer` | ⏸️ **re-map from scratch** | — |
+
+> **⚠ Thin BY RULE** — 3–0 unanimity *and* no mid-line seam. **Not evidence the sources are clean.**
+
+### ⭐⭐ Two findings came out of building it
+
+**M-107 — the `§C.2` return contract had a hard SIZE CEILING**, hit for real (`max_output_tokens`, 64,000).
+***A span map costs ~one row per tag change; 1,400 lines exhausted the budget.*** **Fixed: the reader now
+WRITES the map to disk and returns only a receipt.** ***The coordinating session never needed the map at
+all*** — it had been carrying thousands of coordinate rows purely to retype them, spending context and
+risking a silent transcription error in the one artifact whose value is being trustworthy.
+
+**M-108 — and the new contract proved itself by being KILLED.** **All three readers died mid-task on a
+session rate limit.** ***Ten complete, valid maps were already on disk.*** **Under the old inline contract a
+killed reader returns nothing.** **Two files reached 3-of-3 and were built; three retain partial maps needing
+one reader instead of three.** ***Resumability was not designed for — it falls out of writing to disk, and it
+is the more valuable half of M-107.***
+
+**⭐ Plus the cleanest validation yet of the `INERT` tag:** **independent readers agreed EXACTLY on inert
+counts every time** *(94/94/94, 114/114, 107/107)* **while their admissibility counts varied widely on the
+same files.** ***Structural classification converges; judgment does not. Separating them removed the one part
+of the map that never needed a vote.***
+
+---
+
 # ⛔⛔ RUNS 12 AND 13 — BOTH BURNED, 2026-09-02/03. **Read `00_RUNBOOK.md`'s `Step −2` LEAK REGISTER FIRST.**
 
 > ## ⭐⭐⭐ M-104 — THE LAW THAT CAME OUT OF LOSING TWO RUNS IN TWO DAYS

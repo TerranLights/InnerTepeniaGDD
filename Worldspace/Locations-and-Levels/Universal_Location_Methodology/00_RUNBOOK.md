@@ -441,6 +441,26 @@ not attempt to read around the conclusions."*
 **⚠ The extract must be built before the first run that relies on it.** Until it exists, treat the whole
 `City_Master_Reference/` folder as withheld.
 
+> ### ✅ EXTRACTS NOW EXIST — `City_Master_Reference/Split_Extracts/` *(begun 2026-09-03, M-108)*
+>
+> **Built by three isolated readers plus a script; no session read the sources.** ***These files are SAFE for
+> a cold deriver to read in full.***
+>
+> | Source | Extract | 3–0 admissible |
+> |---|---|--:|
+> | `Halley_Subnet_Reference.md` | ✅ `Halley_Subnet_Reference_EXTRACT.md` | **62.8%** of content |
+> | `Janbogo_Subnet_Reference.md` | ✅ `Janbogo_Subnet_Reference_EXTRACT.md` | **83.7%** |
+> | `Mawson_Byrd_Amundsen_Reference.md` | ⏸️ **2-of-3 maps on disk — needs ONE more reader** | — |
+> | `Mirny_Subnet_Reference.md` | ⏸️ **2-of-3 maps on disk — needs ONE more reader** | — |
+> | `Palmer_Subnet_Reference.md` | ⏸️ **no disk maps — re-map from scratch** | — |
+>
+> **⚠ The extracts are THIN BY RULE** — a line enters only on 3–0 unanimity *and* only where no reader found
+> a mid-line seam. **Each header says so.** ***Do not read thinness as evidence the source is clean.***
+> **Recover yield by working the escalation ladder on the seam lines, never by lowering the threshold.**
+>
+> **Partial maps live in the session scratchpad (`cmr_maps/R*_<file>.json`) and are ephemeral** — a future
+> session should re-dispatch rather than assume they survive.
+
 ### ⚠ One standing tagging obligation
 
 **The division-of-industry figures are `G3 Function & purpose`** — admissible, and genuinely the strongest G3
