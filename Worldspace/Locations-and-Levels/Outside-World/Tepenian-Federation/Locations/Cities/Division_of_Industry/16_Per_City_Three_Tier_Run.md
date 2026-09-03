@@ -3309,6 +3309,106 @@ it is a §15 question, not a mandate question.**
 
 ---
 
+# ▓▓ BYRD SUBNET ▓▓
+
+*Mawson subnet closed **complete, 3 of 3** — Sayowa · Dome Fuji · Mawson.*
+
+---
+
+## 34. ✅ BYRD — DETERMINED *(sole city of its subnet)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.67, **ICE-SHEET FORCED IMPORTER** — bedrock **2,164 m** down, food term at 10%)* | 102,645 | **36.2%** |
+| **Mandated** | 108,667 | **38.3%** |
+| **FREE — the character budget** | 72,444 | **25.5%** |
+
+**Distinctive tier: 181,111 (63.8%).** Canon §15 *(revised 2026-07-06)*: Mechanized fabrication 30% ·
+Import/export & dispatch 25% · Infrastructure/snow management 15% · Resource extraction 15% ·
+Salvage/grounded aviation fleet maintenance 10% · Other 5%.
+
+### The mandate *(developer ruling D, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **30%** | 54,333 | **Mechanized fabrication — FULL** | ✅ One of only **two** current chamber-manufacturing cities |
+| **25%** | 45,278 | **Import/export & dispatch — FULL** | ✅ **Both ends of the chain in one sector**; double main-line terminus |
+| **5%** | 18,111 ÷ 2 = **9,056** | **Half of aviation fleet maintenance** | ✅ Byrd holds one of only **ten** airports in Tepenia |
+| **60%** | **108,667** | | |
+
+### ⚠ A stale figure corrected before calculating
+
+**`13`'s per-city table still lists Byrd as *"grows"*, baseline 136,436 (51.9% distinctive)** — the
+**pre-reclassification** figure. **Its own §15 discussion correctly lists Byrd among the forced importers**
+*(ice was core-drilled to bedrock at 2,164 m — NOT rock-founded)*. **The table row was never updated.**
+**Corrected figures used here**, matching the City Master Reference. **Register item 23.**
+
+### The mandated pair is a complete chain in two sectors
+
+**Mechanized fabrication 30%** — *"Byrd is one of the handful of Tepenian cities that manufactures
+fabrication-synthesis chambers,"* to a **Neumayer-designed schematic.** **With Sinheung, one of only two
+current chamber cities.**
+
+**Import/export & dispatch 25%** — ⭐ **the sector is IMPORT/export, so both ends sit in one line:** material
+in, chambers out. **Byrd is a DOUBLE MAIN-LINE TERMINUS** — Hwy 1's western end **and** Hwy 22's western end
+converge here — with routes *"north on Hwy 1 toward Palmer City; east on Hwy 22, the Transcontinental, toward
+Amundsen Station, then the Tri-Cities."*
+
+### ⭐⭐⭐ Why aviation was added — and the canon established with it
+
+**The analyst recommended A** *(the two-sector chain only)*, reading the aviation sector as serving Byrd's own
+connection rather than a national one. **The developer ruled D, on the grounds that Byrd holds an airstrip —
+and then established the infrastructure that makes it work:**
+
+> ***Byrd's underground complex of machinery and factories sheds its waste heat by piping it — essentially by
+> conduction — to a radiator network above the city but immediately below the surface. The airplane lanes
+> stay ice-free as a side effect of the way the city already lives.*** `[CGRM 2026-09-02 · Path 6]`
+
+> ### **This inverts the normal Antarctic problem. Everywhere else, keeping a strip usable is WORK. At Byrd it is EXHAUST.**
+> ***The city does not clear its runway; the runway is where the city's heat comes out.***
+
+**It is not a convenience — it is a survival requirement.** **An industrial complex built INSIDE an ice sheet
+cannot dump waste heat locally without melting the structure it lives in. The heat has to leave.**
+
+**And it explains something otherwise odd:** **an ice-sheet city with bedrock 2,164 m down holds one of only
+ten airports in Tepenia** — **because its industry is what maintains the strip.** ***That physical coupling
+is the argument for mandating the aviation sector: the airfield is not adjacent to the industrial complex, it
+is downstream of it.***
+
+*(Full engineering record, caveats and third-order consequences in `Specs/Byrd.md`.)*
+
+### ⚠ A scope finding on that sector's own name
+
+**The sector is called *"SALVAGE / GROUNDED aviation fleet maintenance"* — a POST-WAR description.** **This
+pass is scoped to the Second Interwar, and Byrd Airport was operational then** *(established 2026-09-02 from
+the developer's updated maps)*.
+
+> **In scope, this sector is not salvage. It is maintenance for a FLYING fleet** — the one running
+> **Byrd → Janbogo → Hwy 183 → Concordia.** **The label describes a different era than the one being priced.**
+
+### What stays FREE
+
+- **Resource extraction / West Antarctic geology 15%** — **unannotated as to reach, and its content is
+  genuinely unclear**: with **bedrock 2,164 m beneath the city**, whatever this is, it is not ordinary surface
+  quarrying. **The Troll refusal.**
+- **Infrastructure / snow management 15%** — *"an ongoing, genuine civic necessity."* Local survival.
+  *(⭐ Note the radiator field plausibly reduces this sector's burden rather than adding to it.)*
+- **Half of aviation fleet maintenance · Other 5%.**
+
+### Notes
+
+- **⭐ Founded UNDERGROUND before it existed on the surface** — the real station was buried by snow
+  accumulation and abandoned ~2005; exiles found **only records, no visible structure.** A **three-settlement
+  expedition** located it *(Belgrano built Tepenia's first native tracked vehicle, "las Arrastradoras" →
+  "Rastra"; Palmer City and Rothera supplied records)*, and **an all-robot crew drove the actual crossing —
+  risk judged unacceptable for humans.**
+- **⭐ Thermally conspicuous.** A city venting industrial-scale heat through a shallow radiator field is **a
+  warm patch on an otherwise uniformly cold ice sheet.** ***Byrd cannot hide.*** **Flagged for DLC 2 rather
+  than developed here.**
+- **⚠ Post-war, NOT an input:** one of only three cities still functioning at meaningful scale.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -3337,3 +3437,4 @@ it is a §15 question, not a mandate question.**
 | 20 | **⏸️ {{Bunger Hills City}} — the access problem** | **450 km² ice-free** *(up to 942 km² incl. marine)* — one of the largest oases in East Antarctica — **but the Shackleton Ice Shelf separates it from the open sea**, with the ice sheet SE and outlet glaciers S and W | **The inverse of Denison's problem: land to spare, no way to ship.** Literature: *"sea- and land-based approaches are difficult and rarely attempted."* **Plausibly why canon leaves it "unclaimed"** *(`04` §6.4)* — a hard site precisely because it is a good one. **Its access answer is a real design question** *(overland link, or a route across/around the ice shelf)*, **in the same family as Dumont d'Urville's open bridge question.** ⏸️ **Founding already deferred by the developer** |
 | 21 | **Dome Fuji — stale canon** | **`Specs/Dome_Fuji.md` says "no highway access"; `Highways.md` L154/L159 confirm it as a stop on the Hwy 37 main line** | Between the Sayowa Junction and the Hwy 22 dual-junction. **Flagged in the City Master Reference during the reference compile; the Specs fix was never made.** Deferred with the other culture/canon-file corrections until after this pass |
 | 22 | **Mawson — §15 vs. characterization** | **The developer describes Mawson as a tourism & resort town where *"the overwhelming majority of industry would be oriented around interacting with the public,"* but §15 gives hospitality only 10%** | Commercial 15% and the public-facing share of the hub role narrow the gap, **but §15 as written does not make hospitality dominant.** ⚠ **A §15 question, not a mandate question** — the determination holds either way |
+| 23 | **`13` — stale Byrd row** | **`13`'s per-city table still lists Byrd as *"grows"* with baseline 136,436 (51.9% distinctive)** — the pre-reclassification figure | **Byrd was reclassified ICE-SHEET / forced importer** during this session's geology work *(ice core-drilled to bedrock at 2,164 m)*, and `13`'s own §15 discussion lists it correctly among the forced importers. **Only the table row was missed.** Corrected figures *(baseline 102,645 / 36.2%)* used in §34 and matching the City Master Reference. **The table needs the fix** |

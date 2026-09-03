@@ -1,5 +1,51 @@
 # Byrd
 
+
+> ## ⭐⭐⭐ THE SURFACE RADIATOR FIELD — HOW BYRD SHEDS ITS HEAT, AND WHY ITS RUNWAY IS CLEAR
+> `[CGRM 2026-09-02 · Path 6 · developer ruling]`
+>
+> **Byrd's underground complex of machinery and factories produces enormous waste heat. That heat is piped —
+> essentially by conduction — to a network of radiators sitting ABOVE the city but IMMEDIATELY BELOW the
+> surface.**
+>
+> ### ⚠ It is not a convenience. It is a survival requirement.
+>
+> **A large industrial complex built INSIDE an ice sheet cannot dump its waste heat locally — doing so melts
+> the structure it lives in.** **The heat has to leave. The radiator field is where it goes.**
+>
+> ### ⭐⭐ And the side effect is the runway
+>
+> > **The radiator field keeps the airplane lanes free of accumulating snow — not as a maintained task, but
+> > as a BYPRODUCT of the way the city already has to live.**
+>
+> **This inverts the normal Antarctic problem.** **Everywhere else in Tepenia, keeping a strip usable is
+> work.** **At Byrd it is exhaust.** ***The city does not clear its runway; the runway is where the city's
+> heat comes out.***
+>
+> **It also explains something otherwise odd:** **Byrd is an ICE-SHEET city with bedrock 2,164 m down, and it
+> holds one of only ten airports in Tepenia.** **A city with no rock has a working airstrip because its
+> industry is what maintains it.**
+>
+> ### Engineering notes, recorded honestly
+>
+> - **Heat rejection is efficient here.** Ambient of −30 °C or below gives an enormous temperature
+>   differential, so radiators do more work per unit area than they would anywhere temperate.
+> - **⚠ The design target is preventing ACCUMULATION, not melting to bare ground.** Meltwater that refreezes
+>   is worse for aircraft than dry snow. **The strip should read as a maintained blue-ice / compacted surface
+>   kept clear of fresh snowfall** — the same class of surface as Troll's *"blue-ice, wheeled-aircraft-ready"*
+>   runway, but heated from beneath rather than swept.
+> - **The radiators sit BELOW the surface, not on it** — protecting them from wind, drift and mechanical
+>   damage, and spreading the heat through the near-surface layer rather than concentrating it.
+>
+> ### ⭐ Third-order consequence, flagged for future development
+>
+> **A city venting industrial-scale heat through a shallow radiator field is THERMALLY CONSPICUOUS.** **From
+> the air, or from orbit, Byrd is a warm patch on an ice sheet that is otherwise uniformly cold.**
+>
+> ***Byrd cannot hide.*** **Not developed here — but it bears on DLC 2, on why Byrd survived the war, and on
+> what an approaching party would see first.**
+
+
 **Based on:** Byrd Station (USA), Marie Byrd Land, West Antarctica (~80°01'S, 119°31'W)
 **Status:** Survived — struggling; one of only three cities in Tepenia still functioning as a city at meaningful scale — alongside Concordia and Janbogo; other survivors are either small outpost communities, damaged partial operations, or effectively unreachable
 **Arcanet Subnet:** Byrd ("Pacific") — subnet hub
