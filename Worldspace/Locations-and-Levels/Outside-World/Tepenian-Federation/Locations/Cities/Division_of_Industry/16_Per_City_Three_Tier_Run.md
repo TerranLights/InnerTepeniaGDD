@@ -2708,6 +2708,93 @@ monitoring.** ***Mandating it would risk re-collapsing it into one object.*** **
 
 ---
 
+## 27. ✅ ZUKELLI — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Terra Nova Bay, rock-founded, food term 100%)* | 391,579 | **41.4%** |
+| **Mandated** | 55,328 | **5.9%** |
+| **FREE — the character budget** | 497,952 | **52.7%** |
+
+**Distinctive tier: 553,280 (58.6%).** Canon §15: Commercial 25% · Marine/resource extraction 20% ·
+Industrial/manufacturing 20% · Technical/scientific 15% · Education 12% · Other 8%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **10%** *(half of marine 20%)* | 55,328 | **Zukelli's share of the shared polynya port infrastructure** | ✅ §15; **Janbogo, working the same polynya, is an `04`-listed food provider** |
+
+> **This replaces a 14.6% mandate built on the commercial sector — see below.**
+
+### ⭐ Why the commercial 25% mandate was withdrawn — §25 supplies a scope word
+
+**Half B mandated commercial 25%** from §15's *"food and hospitality industries, **the city's signature
+export**."* **§25 Export Culture scopes that export explicitly:**
+
+> ***"Food and hospitality tradition — Zukelli's single most recognized SUBNET-WIDE export, drawing visitors
+> from Janbogo itself."***
+
+**Subnet-wide — and the illustrative example is a city 8 km away.**
+
+**That is the same §25 slot where the mandate-carrying cities read differently:**
+
+| City | §25 scope word | Disposition |
+|---|---|---|
+| **Denison** | *"recognized **across Tepenia**"* | Mandated |
+| **Princess Elisabeth** | *"…in sustainable Antarctic infrastructure"* + Specs' *"other cities **traded for**"* | Mandated |
+| **Zukelli** | *"single most recognized **SUBNET-WIDE** export"* | **Not mandated** |
+
+**Canon is using the scope word deliberately.** **And Specs points the same way twice:** *"Zukelli's most
+exported **CULTURAL** product"* (L97), and *"**Nationally known for:** The food culture"* (L101) — **the
+"nationally known for" construction established at Denison as reputation, not trade.**
+
+**By the Shirayuki ruling, a cultural export the nation is poorer without but not materially harmed by belongs
+in the free tier.** **Zukelli's food is that, one scope-level down.**
+
+### ⭐⭐⭐ NEW LENS — the mandate tier also measures WHAT A CITY'S DESTRUCTION COSTS THE NATION
+
+**The analyst recommended A (0%). The developer ruled B, and the reason reframes the tier itself:**
+
+> ***"Even though Zukelli is mostly famous for its food and hospitality culture, if it produced something that
+> other cities needed, its destruction would still be a legitimate loss to the nation."***
+
+**Until now the mandate has been read one way only: *what the nation conscripts from a city.* This adds the
+mirror reading:**
+
+> ### **For a DESTROYED city, the mandate is what the nation LOST.**
+> **A zero mandate does not merely say "this city owed nothing." It says *"its destruction cost the country
+> nothing material."*** **That is a substantive claim about the event, not a neutral accounting result — and
+> it should be made deliberately, if at all.**
+
+**⚠ This applies to every destroyed city in the roster, not just this one** *(Zukelli · Denison · Cape Adare ·
+Palmer City · Juan Carlos · Sejong · Marambio · Esperanza · Princess Elisabeth · Casey)*. **General finding;
+recorded here because this is where it surfaced.**
+
+### What stays FREE
+
+- **Commercial 25%** — the food and hospitality culture. **The city's identity, in the tier built for it.**
+- **Industrial 20% · Technical/scientific 15%** — both **unannotated**, with nothing stated to split on.
+  **The Troll refusal.**
+- **Education 12% · Other 8%.**
+- **The other half of marine 20%.**
+
+### Notes
+
+- **⭐ `04` lists Zukelli in NEITHER the provider list NOR the food tally** — unlike Janbogo, 8 km away on the
+  same polynya. **The half-marine mandate credits Zukelli with maintaining its share of a facility a national
+  provider depends on**, without claiming the provider role itself.
+- **⚠ Post-war, NOT an input:** **Zukelli was destroyed for what it SHELTERED, not what it produced** —
+  AWOL Upper Earth defectors, *"a deliberate total-obliteration order both to guarantee their deaths and to
+  send a deterrent message, **with Janbogo left standing specifically to witness it**."* **Destroyed at 72.5%
+  human retention — near peak, not in decline.**
+- **The only Tepenian ruin visible from a living city** — ~8 km across the shared Terra Nova Bay polynya.
+- **⏸️ The "Zukelli Native" perk mechanic** *(decoded structural language; 10 Calculation / 10 Investigation /
+  6+ Engine / 6+ Nerve)* grants guaranteed non-hostility with Zukelli natives and descendants. **A mechanic
+  built entirely on the free tier's content.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
