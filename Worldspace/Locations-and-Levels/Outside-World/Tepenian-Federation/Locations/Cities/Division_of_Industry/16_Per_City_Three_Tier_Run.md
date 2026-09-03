@@ -2877,6 +2877,101 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
 
 ---
 
+## 29. ✅ FORT McMURDO — DETERMINED *(⚠ Option B, flagged for possible adjustment to A — register item 18)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Ross Island, rock-founded; ⚠ **ABCC not yet set — see below**)* | 138,576 | **41.5%** |
+| **Mandated** | 92,928 | **27.8%** |
+| **FREE — the character budget** | 102,710 | **30.7%** |
+
+**Distinctive tier: 195,639 (58.5%).** Canon §15: Industrial/manufacturing 35% · Marine/resource extraction
+25% · Technical/scientific 15% · Commercial 10% · Education 8% · Other 7%.
+
+### The mandate *(developer ruling B, 2026-09-02 — provisional)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **35%** | 68,474 | **Industrial/manufacturing — FULL** | ✅ §15 *"the core identity of the city"*; **fed construction materials to Concordia's own dome/corridor system** |
+| **12.5%** | 24,455 | **Half of Marine/resource extraction** | Dry Valleys extraction feeding the mandated industry |
+| **47.5%** | **92,928** | | |
+
+### ⭐⭐ REGISTER ITEM 9 RESOLVED — by ROUTING, not by adding a mandate
+
+**Item 9 read:** *the capital records zero governmental employment, and its mandate is entirely industrial.*
+**Canon confirms the premise:** Fort McMurdo was the **historical national capital — informally, then
+formally, right through to the Long Night War**, which is this pass's entire scope window.
+
+**But the developer's ABCC ruling had already decided where that work goes:** *"The ABCC sector would be part
+of 'baseline'… exactly how much of baseline, that would depend on the context of the location."*
+
+> ### **This is not a missing mandate. It is a BASELINE that has not been set yet.**
+> **The seat of national government is the single strongest case for an elevated ABCC value — and Fort
+> McMurdo is precisely the city the parked ABCC tier structure exists to handle.**
+
+**Illustration only — ABCC values are PARKED at the flat 65:**
+
+| ABCC | Baseline | Free @ a 60% mandate |
+|---|--:|--:|
+| **65/1,000** *(flat — current)* | **41.5%** | 23.4% |
+| 100/1,000 | 46.1% | 21.6% |
+| 130/1,000 | 50.1% | 20.0% |
+
+**The correction runs through baseline and SHRINKS the distinctive tier**, taking mandate and free down
+together. **It does not add to the mandate.**
+
+> **⭐ The distinction that keeps this consistent:** **a NAMED FEDERAL INSTITUTION** hosted by a city is a
+> **mandate** *(Juan Carlos's federal archive)*. **GENERAL ADMINISTRATION, even at national scale, is ABCC** →
+> baseline. **The capital is the second kind.**
+
+### ⏸️ Why HALF the marine sector — and why it may become full
+
+**The developer ruled B with a specific reason to revisit:**
+
+> ***"There may be a possibility that they might be able to assist Scott with their one-and-only actual hard
+> industry."***
+
+**Scott's §15 names the mechanism, and Fort McMurdo sits at the other end of it:**
+
+> **Scott's §15** *(confirmed 2026-07-07)*: *"Scott's one genuine industry beyond its residential/political
+> character is **collecting volcanic material fallen from Mount Erebus and delivering it to a trucking
+> facility ACROSS McMURDO SOUND**, forwarded onward down the coastal highway into the Janbogo subnet for
+> further processing."*
+>
+> **Fort McMurdo's §15 marine 25%** is *"**Dry Valleys operations, harbor logistics**"* — and the **Dry
+> Valleys sit across McMurdo Sound, seasonally accessed via sea-ice road.**
+
+> ### ⭐ **These may be the same crossing.** **If Fort McMurdo's harbor logistics is what moves Scott's volcanic material off Ross Island, then its marine sector is serving another city's industry — and the FULL 25% is national, not half.**
+
+**Scott is the very next city in this pass. Register item 18 — likely to resolve immediately.**
+
+### The industrial 35% needs no argument
+
+§15 calls it *"the core identity of the city,"* and canon has Fort McMurdo **feeding construction materials
+to Concordia's own dome/corridor system.** **The physical fabric of the country's largest city came from
+here.**
+
+### What stays FREE
+
+- **Technical/scientific 15%** — *"equipment maintenance, extraction engineering."* **Supporting work, but
+  unannotated as national.**
+- **Commercial 10%** — *"shipping logistics, canteen and bunk-block services."*
+- **Education 8%** — *"apprenticeship-style technical training, not formal academia."*
+- **Other 7%.**
+
+### Notes
+
+- **⭐ *"Fort McMurdo was where Tepenia WORKED."*** Working-class, meritocratic, transient-labor. Its
+  Enneagram read: ***"the de facto capital — dominance so obvious it needs no assertion."*** **A capital that
+  never behaved like one — which is exactly why its §15 has no government line to find.**
+- **Largest city by physical/industrial footprint**, but **population-capped by Ross Island's land area.**
+- **Sits at the foot of Mount Erebus** — active volcano, permanent lava lake, constant environmental and
+  cultural presence. *(The same volcano supplying Scott's one industry.)*
+- **⚠ The capital title did NOT survive the war. Present-day Tepenia has no capital.** *(Post-war, not an
+  input.)*
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -2891,7 +2986,7 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
 | 6 | **Sejong** | **Its §15 has no customs/immigration/border line, yet it hosts the Machu Picchu Border & Customs Authority** | **Second instance of the Sanay pattern** *(national infrastructure with no §15 sector)*. Here the cause is datable: **the §15 is from 2026-07-04, the gateway ruling from 2026-09-02.** Whether Sejong's §15 needs a border line added, or the function is considered folded into Commercial/trade 25%. **Mandate held at 25% either way** |
 | 7 | **National — deferred by developer** | **Where a neutral zone of international diplomacy would be situated** | ⏸️ **Parked deliberately, 2026-09-02: *"I actually hadn't previously thought about where a 'neutral zone' of international diplomacy could be situated, but that's a problem for the future."*** Raised by Sejong's border role. **NOT to be closed opportunistically** — it is a real open design question, not an oversight |
 | 8 | **Sejong — canon bug, deferred** | **The Hangul-literacy / Korean-dilution premise: the 2026-08-02 fix was incomplete, 3 files still stale, 17 more unaudited** | ⏸️ **Deferred by developer 2026-09-02 until per-city DoI is finished** — *"that's really more relevant to the per-city culture than anything else."* **Not a DoI input; Sejong's determination was built without touching the education sector where the stale material attaches.** Full detail and the 3 file paths now recorded in `TODO.md`'s existing Sejong section — **⚠ read for the premise, do not grep-and-delete "Hangul," which is still valid canon** |
-| 9 | **⭐ Fort McMurdo — THE CAPITAL** | **Its §15 records zero governmental employment; its 35.1% mandate is entirely industrial** | **The seat of national government is modeled as a mining town that happens to be the capital.** Per the structural finding above, national administrative concentration must be a **mandate**, not a §15 sector — so Fort McMurdo needs one. **Resolve at its own entry, not before** |
+| 9 | ~~**Fort McMurdo — THE CAPITAL**~~ **✅ RESOLVED 2026-09-02** | ~~Its §15 records zero governmental employment~~ | **Resolved by ROUTING, at its own determination (§29): the capital function is ABCC → BASELINE, not a mandate.** Canon confirms Fort McMurdo was the capital through to the Long Night War, but per the developer's ABCC ruling, general administration at national scale belongs in baseline with a context-dependent value. **A named federal institution is a mandate; general administration is ABCC.** ⏸️ **Now carried by the parked ABCC tier work** — the capital is the strongest case for an elevated value |
 | 10 | **Juan Carlos** | **When did the federal archive relocate to Amundsen Station?** | Canon says it moved *"later,"* and that the strike came *"even after the bulk archive had moved"* — **but the Second Interwar runs 248 years and no date is given.** Whether the 10% archive mandate describes the whole period or only its earlier stretch |
 | 11 | **⚠⚠ METHOD — ALL CITIES** | **The DoI files disagree on what §15 percentages are a percentage OF** | **`16` applies them to the DISTINCTIVE tier; `04` and `National_Medical_and_Care_Institutes.md` apply them to the WHOLE WORKFORCE.** Esperanza education 25%: **211,198 vs 350,155** — 139,000 workers apart. `04` does it too *(Signy "fishing 30% → 42,638" is 30% of whole workforce)*. **NOT resolved mid-pass by deliberate choice** — re-picking the denominator now would invalidate every determination **and** the national balance. **Resolve together with the ABCC re-run; both are mechanical re-runs of the same table.** All determinations continue on `16`'s convention so they stay mutually consistent |
 | 12 | **Belgrano — deferred by developer** | **The Belgrano Institute of Medicine's classification** | ⏸️ **Parked 2026-09-02: *"I'm sure there's a better way to classify the Belgrano Institute of Medicine."*** Currently absorbed into the **Aviation/logistics 35%** mandate on the grounds that medevac is an aviation function and the school is downstream of the flight line. **Revisit AFTER the full-country run**, not before — and note the ruling above stands: it is not a case for a separate §15 sector |
@@ -2900,3 +2995,4 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
 | 15 | **Kunlun** | **Set to HALF astronomy + HALF ice core. Mandate 26.8%, free 44.6%** | ⏸️ **Marked for review by the developer, who is weighing TWO-THIRDS of each instead** — precomputed: **mandate 44,072 (35.7%) / free 44,072 (35.7%)**, exactly equal. **The developer's own reason for holding at half:** *"having a 44% free budget would allow for other scientific research that I may not have thought of."* **Also depends on an unsettled premise** — the near-Earth observatory focus is explicitly *"tentative, not firmly settled"* (2026-07-06) |
 | 16 | **`04` — internal inconsistency** | **Dumont d'Urville appears in `04`'s national FOOD TALLY (28,463 producers) but NOT in `04` §3's provider LIST** | Found during DdU's determination. **The tally figure is load-bearing** — it sits inside the ~835,000 total behind the headline *"1 food producer per ~19 people"*; without it the ratio is 1 per 19.4. **Whether `04` §3's provider list should gain Dumont d'Urville, or the tally should lose it.** *(The mandate has been set on the tally's side.)* |
 | 17 | **⏸️ CONCORDIA — DEFERRED** | **Not determined, and deliberately so.** Its 13 districts must be well-defined FIRST, because they determine the municipal DoI character → the post-war condition → **the setting of the actual game** | **The dependency runs backwards here: bottom-up, where every other city is top-down.** Its 15% Half A/B estimate **stands as an estimate only — do not promote it.** **District culture work is UPSTREAM of this, not parallel.** The national re-run must treat Concordia as an **open cell** |
+| 18 | **Fort McMurdo ↔ Scott** | **Set to Option B — industrial 35% + HALF marine 12.5%. Mandate 27.8%, free 30.7%** | ⏸️ **Flagged for possible adjustment to A** *(full marine → mandate 35.1% / free 23.4%)*, per the developer: *"there may be a possibility that they might be able to assist Scott with their one-and-only actual hard industry."* **Scott's §15 has it delivering Erebus volcanic material "to a trucking facility ACROSS McMURDO SOUND"; Fort McMurdo's marine 25% is "Dry Valleys operations, harbor logistics," and the Dry Valleys are across McMurdo Sound via sea-ice road.** **These may be the same crossing** — if so the full 25% is national. **Scott is the next city; likely resolves immediately** |
