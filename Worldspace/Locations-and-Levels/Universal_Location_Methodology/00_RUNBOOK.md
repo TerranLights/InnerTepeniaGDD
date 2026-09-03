@@ -2027,5 +2027,6 @@ entries carried conclusion vocabulary about the same cluster.**
 | `../Cultural_Synthesis_Techniques.md` | **the generative toolkit — sixteen techniques, already general-scope** |
 | `../Real-World_Basis_Extrapolation_Method.md` | the research method |
 | `../Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` | the panel, carried unchanged |
-| `.../00b_…` · `.../00d_…` | general population · shadow proportion — both binding here |
+| ⭐ **`Disciplines/`** | **THE ULM'S OWN COPIES of the five shared instruments** — `00b` · `00d` · `00f` · `Cultural_Synthesis_Techniques` · `Real-World_Basis_Extrapolation_Method`. **Read THESE during a cold run.** ***The originals are unchanged, authoritative, and `WITHHELD` until Step 7*** — they carry worked instances for ~14 locations, which is a vector-1 leak for whichever subject is next |
+| `.../00b_…` · `.../00d_…` | general population · shadow proportion — **originals**, binding, and the district methodology's own |
 | `.../00_RUNBOOK.md` | **the district procedure — the parent of this one, and still authoritative for districts** |

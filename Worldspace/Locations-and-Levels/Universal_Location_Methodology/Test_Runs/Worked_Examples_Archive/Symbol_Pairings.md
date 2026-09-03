@@ -1,8 +1,13 @@
 # Worked examples — SYMBOL PAIRING RELATIONS (multi-location)
 
+> ### ⚠ COPIES. **THE ORIGINALS ARE UNTOUCHED AND REMAIN AUTHORITATIVE.**
+> **Nothing was cut from any District Synthesis Methodology file, or from any shared instrument.** **This is a
+> quarantine-side reference copy so a ULM cold run can know WHAT sits in its required reading without reading
+> it.** ***The district methodology keeps its own evidence, in full, where it earned it.***
+
 > ## ⛔ WITHHELD from every cold run *(see `README.md`)*. **These are capability verdicts, not assignments.**
 
-**Extracted 2026-09-03 from `02` §6.3, where they sat inline as the pairing-relation typology's worked reads.**
+**COPIED 2026-09-03 from `02` §6.3, where they sat inline as the pairing-relation typology's worked reads.**
 ***`05` §6.1c is explicit that an assignment's RATIONALE is a capability verdict wearing an index's clothing —
 so these belong here, not in a rule file.*** **The assignment MEMBERS remain admissible and are read from the
 symbol-system files, per `02` §6.0.**

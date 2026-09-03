@@ -4,6 +4,12 @@
 instruction)*: **`01`–`05` and `README` name NO location, ever.** Their worked instances live here, one file
 per location, **cross-referenced from each rule by a BARE POINTER.**
 
+> ### ⚠⚠ THESE ARE **COPIES**. THE ORIGINALS ARE UNTOUCHED AND REMAIN AUTHORITATIVE.
+> ***Nothing has been cut from any District Synthesis Methodology file, or from any shared instrument.***
+> **This directory is a quarantine-side reference so a ULM cold run can know WHAT sits in its required reading
+> without reading it.** **The district methodology keeps its own worked evidence, in full, where it earned it
+> — across thirteen passes and roughly fifteen recorded failures.**
+
 > ## ⛔⛔ EVERY FILE IN THIS DIRECTORY IS `WITHHELD` FROM EVERY COLD RUN — **INCLUDING ONES ABOUT OTHER LOCATIONS.**
 >
 > **Your own location's file is an obvious quarantine.** ***A sibling's file is one too:*** **Gate 6 and the

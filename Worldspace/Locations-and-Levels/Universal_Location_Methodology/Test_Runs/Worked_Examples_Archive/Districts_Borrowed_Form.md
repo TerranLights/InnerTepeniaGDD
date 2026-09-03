@@ -1,8 +1,13 @@
 # Worked examples — BORROWED FORM, across the Concordia district set
 
+> ### ⚠ COPIES. **THE ORIGINALS ARE UNTOUCHED AND REMAIN AUTHORITATIVE.**
+> **Nothing was cut from any District Synthesis Methodology file, or from any shared instrument.** **This is a
+> quarantine-side reference copy so a ULM cold run can know WHAT sits in its required reading without reading
+> it.** ***The district methodology keeps its own evidence, in full, where it earned it.***
+
 > ## ⛔ WITHHELD from every cold run *(see `README.md`)*.
 
-**Extracted 2026-09-03 from `Cultural_Synthesis_Techniques.md` under the LAYERING LAW.** **It sat inline in a
+**COPIED 2026-09-03 from `Cultural_Synthesis_Techniques.md` under the LAYERING LAW.** **It sat inline in a
 REQUIRED-READING file and named eight locations with specific culture findings** — ***including at least one
 location whose own pre-contamination review is still `DRAFT`, and it was never manifested in
 `06_Worked_Example_Provenance.md`.*** **M-82's sixth instance.**

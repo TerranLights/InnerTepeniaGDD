@@ -1,8 +1,13 @@
 # Worked examples — CANCER *(Concordia district)*
 
+> ### ⚠ COPIES. **THE ORIGINALS ARE UNTOUCHED AND REMAIN AUTHORITATIVE.**
+> **Nothing was cut from any District Synthesis Methodology file, or from any shared instrument.** **This is a
+> quarantine-side reference copy so a ULM cold run can know WHAT sits in its required reading without reading
+> it.** ***The district methodology keeps its own evidence, in full, where it earned it.***
+
 > ## ⛔ WITHHELD from every cold run *(see `README.md`)* — including runs on other locations.
 
-**Extracted 2026-09-03 from `Cultural_Synthesis_Techniques.md` under the LAYERING LAW.** **They sat inline in
+**COPIED 2026-09-03 from `Cultural_Synthesis_Techniques.md` under the LAYERING LAW.** **They sat inline in
 a REQUIRED-READING file, one per technique, marked `[one instance]`** — *"Cancer is an answer, never the
 answer"* — **and were NEVER manifested in `06_Worked_Example_Provenance.md`.** ***That is M-82's sixth
 instance: an un-manifested worked example in required reading, with a mandatory delivery mechanism.***
@@ -68,7 +73,7 @@ strongest material. Per-pick table in `Real-World_Basis_Extrapolation_Method.md`
 
 ---
 
-# From `Real-World_Basis_Extrapolation_Method.md` *(extracted 2026-09-03)*
+# From `Real-World_Basis_Extrapolation_Method.md` *(copied 2026-09-03 — the original retains it)*
 
 ## Worked example — Cancer, all eight picks, researched properly
 

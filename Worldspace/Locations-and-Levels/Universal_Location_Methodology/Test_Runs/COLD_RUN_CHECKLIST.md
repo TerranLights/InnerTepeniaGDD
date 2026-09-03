@@ -124,6 +124,9 @@ sweep returns.**
 Filenames are conclusions here (M-88). **Delegate the listing.** Your readers return sanitized paths.
 
 **☐ 5 — Read `00_RUNBOOK.md` in full, then `01`–`05` — SKIPPING the flagged ranges.**
+⭐ **For the five shared disciplines, read `Disciplines/` — the ULM's OWN COPIES.** ***Not the originals.***
+**The originals are unchanged and authoritative for district work, and are `WITHHELD` here** — between them
+they carry worked instances for ~14 locations *(M-130)*.
 ⚠ ***`CLAUDE.md` requires the runbook in full, and the runbook itself has leaked before.*** **Both are
 satisfied by this order: readers first, then read everything except the ranges they flagged.**
 ⛔ **Skip RANGES, never single lines** — a worked example's *rule* sits in the prose around it (M-103).

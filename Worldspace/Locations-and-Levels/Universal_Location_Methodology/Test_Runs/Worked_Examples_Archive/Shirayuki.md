@@ -1,8 +1,14 @@
 # Worked examples — SHIRAYUKI
 
+> ### ⚠⚠ THESE ARE **COPIES**. THE ORIGINALS ARE UNTOUCHED AND REMAIN AUTHORITATIVE.
+> ***Nothing has been cut from any District Synthesis Methodology file, or from any shared instrument.***
+> **This directory is a quarantine-side reference so a ULM cold run can know WHAT sits in its required reading
+> without reading it.** **The district methodology keeps its own worked evidence, in full, where it earned it
+> — across thirteen passes and roughly fifteen recorded failures.**
+
 > ## ⛔ WITHHELD from any cold run on Shirayuki, and from any cold run at all *(see `README.md`)*.
 
-## From `02` §4.1 — the `in its own past` address, evidence check *(extracted 2026-09-03; was inline at L359–361)*
+## From `02` §4.1 — the `in its own past` address, evidence check *(copied 2026-09-03; also still inline at L359–361)*
 
 **Rule it illustrates:** where a deficit was produced by an exodus, the witnesses are the ones who left, so the
 remaining population consists entirely of people for whom the place still works — the location cannot diagnose
@@ -15,7 +21,7 @@ and continues to attract newcomers to a scene at 62% of the strength that made i
 > *(61.81% retained, z = −1.26 against 33 cities)*. **That is corroboration, not derivation — and it was luck
 > of ordering, not process.** See `../OBSERVATIONS_and_Methodology_Findings.md` M-119.
 
-## From `05` §2.4 — the arrival pair, PULL case *(extracted 2026-09-03; was inline at L211–215)*
+## From `05` §2.4 — the arrival pair, PULL case *(copied 2026-09-03; also still inline at L211–215)*
 
 **Rule it illustrates:** "who came" is not "who left" inverted. A pass that only ever asks *what drives people
 out* produces a location with no explanation for why anyone is there.

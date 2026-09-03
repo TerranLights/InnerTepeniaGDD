@@ -1,8 +1,14 @@
 # Worked examples — SINHEUNG
 
+> ### ⚠⚠ THESE ARE **COPIES**. THE ORIGINALS ARE UNTOUCHED AND REMAIN AUTHORITATIVE.
+> ***Nothing has been cut from any District Synthesis Methodology file, or from any shared instrument.***
+> **This directory is a quarantine-side reference so a ULM cold run can know WHAT sits in its required reading
+> without reading it.** **The district methodology keeps its own worked evidence, in full, where it earned it
+> — across thirteen passes and roughly fifteen recorded failures.**
+
 > ## ⛔ WITHHELD from any cold run on Sinheung, and from any cold run at all *(see `README.md`)*.
 
-## From `02` §4.1 — the `in a neighbor's present` address *(extracted 2026-09-03; was inline at L347)*
+## From `02` §4.1 — the `in a neighbor's present` address *(copied 2026-09-03; also still inline at L347)*
 
 **Rule it illustrates:** the comparison population — someone who has organically what this location was only
 allocated, or lacks entirely — never departed; they are living, permanent and physically co-located.
@@ -14,7 +20,7 @@ a few hundred meters away.
 ratio" clarification — see `../../06_Worked_Example_Provenance.md`.)*
 
 
-## From `Cultural_Synthesis_Techniques.md` — the Zodiac Lens divergence table *(extracted 2026-09-03)*
+## From `Cultural_Synthesis_Techniques.md` — the Zodiac Lens divergence table *(copied 2026-09-03 — the original retains it)*
 
 > ⛔ **A COMPLETE twelve-sign result set — roughly twenty specific findings.** **It sat inline in a
 > REQUIRED-READING file and was NEVER manifested in `06_Worked_Example_Provenance.md`.** ***M-82's sixth
