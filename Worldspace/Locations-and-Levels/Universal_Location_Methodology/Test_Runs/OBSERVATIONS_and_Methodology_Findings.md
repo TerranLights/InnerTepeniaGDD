@@ -4838,3 +4838,68 @@ and were still wrong.**
 > are four trivial slips.** ***Together they are a measured property of this consumer: its errors are
 > mechanical, they are all over-matching, and its existing verification discipline is blind to that
 > direction.*** **That is actionable; four separate "oops" entries would not have been.**
+
+---
+
+# M-129 — ⭐⭐ **THE MEMORY DIRECTORY'S REAL RISK IS NOT PER-CITY ENTRIES. IT IS THE CROSS-CITY INITIATIVE ENTRY — ONE FILE THAT LEAKS ABOUT THIRTY-FIVE LOCATIONS.**
+
+**Found 2026-09-03 by asking what the five newly-banded entries actually WERE**, rather than treating them as
+five separate quarantine items.
+
+## The measurement
+
+**Five memory entries carried conclusion-tier content about one subject. FOUR of the five are not about that
+subject at all** — they are records of **cross-city passes**:
+
+| Entry | What it is | Cities covered |
+|---|---|--:|
+| the vision-notes initiative | the developer's own creative vision, recorded city by city | **~35** |
+| the post-cultures completion record | 32-section cultural spec sheets, completion status | **32** |
+| the robot-alcohol pattern | a bohemian-variety vs. working-class-potency **city variation pattern** | **all** |
+| the factions expansion | 14 factions derived by **pattern-matching across every city's post-culture** | **35** |
+| *(the fifth)* | a process-feedback note carrying one city's culture particular as an example | 1 |
+
+**All four cross-city entries date from one tight cluster — the period when the corpus-wide culture work was
+actually done.**
+
+> ## ***THIS IS `§C.3` OPERATING IN THE MEMORY DIRECTORY.***
+> **`§C.3`: *"A compilation pass contaminates its compiler against EVERY location it covers."*** **The same
+> thing happens to the memory entry that RECORDS such a pass.** ***One entry about a 35-city sweep is a live
+> vector for all 35 subjects, forever, and it looks like a single innocuous project note.***
+
+## Why this reframes the problem
+
+**The review's §1 recorded the memory surface as *"38 entries × 37 cities — per-entry banding does not
+scale."*** ***That framing is right about the arithmetic and wrong about the shape.***
+
+| The assumed problem | The actual problem |
+|---|---|
+| ~38 scattered entries **about one city**, needing 38 judgments | **A handful of entries that each cover the WHOLE ROSTER** |
+| Scales as *entries × cities* | ***One entry burns whichever subject you pick next*** |
+| Fixed by per-entry banding | **Per-entry banding cannot keep up — but the set to check FIRST is tiny** |
+
+> ### ⭐ THE OPERATIONAL PAYOFF
+> **A future subject does not need a fresh 51-file classification pass.** ***It needs the cross-city
+> initiative entries checked first*** — **they are few, they are identifiable by their own `description`
+> frontmatter *(it says "all 35 cities," "every subnet," "a full pass across…")*, and they are where the
+> leak will be.** **Per-city entries are the long tail, not the risk.**
+
+## The diagnostic, statable in one line
+
+> ## **IF AN ENTRY'S OWN DESCRIPTION NAMES A COUNT OF LOCATIONS, IT IS A CROSS-CITY ENTRY AND IT IS WITHHELD FOR EVERY SUBJECT.**
+
+**Cheap, mechanical, and it needs no judgment about content:**
+```
+grep -l -iE 'all [0-9]+ (cities|locations)|every (city|subnet|location)|across all|full pass across' <memory dir>
+```
+
+## ⚠ Two further observations from the same five
+
+1. **One of the five is the MEMORY TWIN of a repo file quarantined an hour earlier** — the factions entry
+   records the same pass as `City_Origin_Factions_Second_Interwar.md`, which was re-tiered `WITHHELD` for
+   being derived from `Local_Cultures/` by design *(M-127)*. ***The same defect, from the same pass, stored in
+   two places — and quarantining one does nothing for the other.*** **Check for repo/memory twins whenever a
+   repo file is withheld for provenance.**
+2. **All five were invisible to the sweep because of the ALIAS** *(M-118)*. **Every hit uses the retired
+   real-world basis name; none uses the current one.** ***A same-day rename left thirteen entries outside a
+   sweep recorded as CLOSED.***

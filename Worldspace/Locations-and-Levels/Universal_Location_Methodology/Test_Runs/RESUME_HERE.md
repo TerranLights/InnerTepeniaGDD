@@ -787,3 +787,16 @@ There is no deadline. Go back and make it true.**
 > - **The §7 ratification block filled in** (`05` §6.3), listing what was demoted and which findings came out
 >   REQUESTED because they rested only on unratified material.
 > - **The typicality declaration** (§2) — stated plainly, with which findings depend on it.
+
+> # ⛔⛔⛔ STEP −3 ADDED 2026-09-03 — **THE MEMORY DIRECTORY IS BLACKED OUT FOR EVERY COLD RUN**
+>
+> **Developer ruling.** ***Do not read, grep, list or open ANY file under
+> `~/.claude/projects/<project>/memory/` until Step 7.*** **No per-entry judgment; no exceptions.**
+> **It is now the FIRST rule in `COLD_RUN_CHECKLIST.md`, above THE ONE LAW.**
+>
+> **Why blanket rather than per-entry:** **51 entries name one subject** *(only 38 under its current name)*,
+> **5 carry conclusions — and 4 of those 5 are records of CROSS-CITY passes, each a live vector for ~35
+> locations at once** *(M-129)*. ***Banding cannot scale against a surface shaped like that.***
+>
+> **⚠ It closes PULL only. Memory is PUSH** — the index auto-loads and entries arrive in reminders.
+> **Per-entry banners remain the only control on that channel and are now maintenance work.**

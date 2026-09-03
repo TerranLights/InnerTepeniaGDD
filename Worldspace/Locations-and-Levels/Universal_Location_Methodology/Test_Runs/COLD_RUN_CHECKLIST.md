@@ -6,6 +6,71 @@ burned the same day while honoring every control — see step 7½.**
 
 ---
 
+> # ⛔⛔⛔ STEP −3 — **MEMORY BLACKOUT. THIS IS THE FIRST RULE AND IT HAS NO EXCEPTIONS.**
+>
+> ## **THE AUTO-LOADED MEMORY DIRECTORY IS CLOSED FOR THE ENTIRE RUN.**
+>
+> ```
+> ~/.claude/projects/<this-project>/memory/
+> ```
+>
+> **⛔ Do NOT `Read` it. Do NOT `grep` it. Do NOT `ls`, `find`, `glob` or `cat` it. Do NOT open ANY file in
+> it — not one, not "just the frontmatter," not "just to check whether it is banded."**
+>
+> ### No per-entry judgment. No exceptions. No "this one looks like a status note."
+>
+> **It reopens at STEP 7 of the pass — the same moment every other withheld source becomes available for
+> comparison** *(`00_RUNBOOK.md` Step 7 / Gate 6)*. **Not before.**
+>
+> ---
+>
+> ### Why a blanket rule, when per-entry banding exists *(developer ruling, 2026-09-03)*
+>
+> **Because banding does not scale, and the surface is worse-shaped than it looks.** *(M-99, M-118, M-129.)*
+>
+> | Measured | |
+> |---|---|
+> | Entries naming one subject | **51** — *and only 38 under its current name; the rest via a retired alias* |
+> | Of those, entries carrying conclusion-tier content | **5** |
+> | **Of those five, entries that are records of CROSS-CITY passes** | ⛔ **4** |
+>
+> > ***A single memory entry recording a 35-city pass is a live contamination vector for all 35 subjects,
+> > forever — and it reads like an innocuous project note.*** **`§C.3` — a compilation pass contaminates its
+> > compiler against every location it covers — applies to the entry that RECORDS the pass, not only to the
+> > session that ran it.**
+>
+> **Developer ruling, verbatim:** ***"Ignore all of it… it is better to restrict in the interest of purity,
+> than risk repeated contamination."***
+>
+> ---
+>
+> ### ⚠⚠ WHAT THIS RULE DOES **NOT** DO — read this, or it will give you false confidence
+>
+> ## **MEMORY IS *PUSH*, NOT *PULL*. THIS RULE CLOSES ONLY THE PULL CHANNEL.**
+>
+> **A do-not-open instruction governs what you CHOOSE to read.** ***The memory index is loaded into your
+> context before you have chosen anything, and recalled entries arrive inside `<system-reminder>` blocks
+> without being requested.*** **No do-not-open list can intercept that** *(M-21, M-63, M-87 — the founding
+> finding of this entire vector)*.
+>
+> **So the blackout closes the larger, easier half. The other half still needs its two controls:**
+>
+> | Channel | What holds it |
+> |---|---|
+> | **PULL** — you open a memory file | ✅ **this rule. Completely closed** |
+> | **PUSH** — the index auto-loads; entries arrive in reminders | ⚠ **the index's default-deny declaration, plus per-entry CONTAMINATION BANNERS** — *a banner is the only control that arrives in the same block as the content it warns about* |
+>
+> > ### ⭐ Therefore banding is NOT obsolete. **Its job changed.**
+> > **It no longer defends against a deriver opening a file — this rule does that.** ***It defends against an
+> > entry arriving uninvited***, which is the channel nothing else reaches.
+>
+> ### If something pushed reaches you anyway
+> **Log it in the exposure ledger by SHAPE and SIZE** *(☐ 6, M-97)*, **and treat it as conclusion-tier unless
+> it is self-evidently attribute-only** *(a date, a census figure, a correction, an open question)*.
+> **Do not go and read the entry to find out which it was. That check is the exposure.**
+
+---
+
 > # THE ONE LAW
 >
 > ## ***YOU WILL CONTAMINATE YOURSELF WHILE CHECKING. EVERY PRIOR FAILURE DID.***
@@ -45,10 +110,15 @@ Use the briefs at the bottom of this page **verbatim** — **THREE of them: A ma
 (dispatch FIRST) · C schema extractor.** ***A brief is final at dispatch — you cannot amend a reader***
 (M-93). To change it, kill and re-dispatch.
 
-**☐ 3 — Memory: `grep -rilE "<alias1>|<alias2>|…"` — FILENAMES ONLY.**
-⛔ **Never `-rin`. Never `-rn`.** A quarantine check classifies nothing, so it needs no content (M-91).
-⚠ **Sweep the ALIAS SET from ☐ 0a, not just the current name** (M-118).
-Band every hit *before* reading it, via `00_RUNBOOK.md` §3d.
+**☐ 3 — Memory: ⛔ NOTHING. THE DERIVER DOES NOT TOUCH IT AT ALL.**
+**Superseded by STEP −3 (2026-09-03).** ***The old instruction here was "`grep -ril`, filenames only, then
+band every hit" — that is now FORBIDDEN to a deriver, because the blackout is total.***
+**A quarantine sweep no longer buys the deriver anything: it cannot open a memory file regardless of what a
+sweep returns.**
+
+> **Banding is MAINTENANCE work, not run work.** **It is done by a session that is NOT cold** *(or by a
+> delegated reader under `§C.2`)*, **and its purpose is now solely the PUSH channel** — putting a banner
+> where it will arrive in the same block as an entry that pushes itself. **See STEP −3.**
 
 **☐ 4 — ⛔ Do NOT `ls` / `find` / `tree` your subject's folders.**
 Filenames are conclusions here (M-88). **Delegate the listing.** Your readers return sanitized paths.

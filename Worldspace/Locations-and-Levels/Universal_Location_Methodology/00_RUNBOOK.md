@@ -60,9 +60,17 @@
 >      **for the subject's name. Return LINE NUMBERS ONLY.** You then read those files *skipping those lines.*
 >      **This closes vector 1, and `06_Worked_Example_Provenance.md` is not sufficient on its own — it is a
 >      manifest maintained by hand, and it has now been wrong three times.**
->    - **Scan the auto-loaded memory directory** for the subject and every adjacent location. **Band every hit
->      that is not attribute-only, before you read it.** **This closes vector 2** *(`Step 10.1` item 1, run
->      inbound instead of trusting that the handoff ran it outbound — it did not)*.
+>    - ### ⛔ **MEMORY: SUPERSEDED BY THE BLACKOUT (2026-09-03, developer ruling).**
+>      ***The deriver does not scan, grep, list or open the auto-loaded memory directory at all*** — see
+>      `Test_Runs/COLD_RUN_CHECKLIST.md` **STEP −3**. **The whole directory is closed until Step 7.**
+>      **A sweep bought the deriver a banding decision it is no longer permitted to act on.**
+>      > **Why the blanket rule replaced per-entry banding:** **51 entries named one subject** *(38 under its
+>      > current name; the rest via a retired alias)*, **5 carried conclusions — and 4 of those 5 were records
+>      > of CROSS-CITY passes, each a live vector for all ~35 locations at once** *(M-129)*.
+>      > ***Per-entry banding does not scale against a surface shaped like that.***
+>      > **⚠ It closes PULL only. Memory is PUSH** — the index auto-loads and entries arrive in reminders.
+>      > **Banding survives as the only control on that channel, and is now MAINTENANCE work for a non-cold
+>      > session** *(M-21, M-63, M-87)*.
 >    - **Return the file tree as SANITIZED paths** — *"`…/Course_of_Events/` — 11 files, 91–143 lines each"* —
 >      **never the filenames.** **This closes vector 3.**
 >    - **Build the admissible/withheld coordinate map** — the ordinary `§C.2` job, which is all anyone was
