@@ -3147,3 +3147,68 @@ for the previous subject was ~39.)* **Across 37 cities that is effectively the e
 **Recorded as a general principle worth carrying beyond this project:** ***when a contamination surface scales
 with the corpus rather than with the run, the remedy must be a default-deny declaration, not per-item
 marking.*** **Per-item marking is only viable where the items are few and stable.**
+
+---
+
+# M-100 — ⭐⭐ THE SELECTION BIAS, FINALLY MEASURED: this methodology has been tested almost exclusively on its
+corpus's most-developed locations, and the reason is structural
+
+**Found 2026-09-02, from the Mirny-subnet roster scout run during Shirayuki's `Step −2` sweep.** ***The first
+time this project has had per-city development metrics for a whole subnet side by side, rather than a
+per-location impression.***
+
+## The measurement
+
+**Design-tool depth across all eight Mirny cities** *(Enneagram read, in lines)*:
+
+| Tier | Cities | Enneagram | Open TBDs |
+|---|---|--:|--:|
+| **Fully developed** | **Zhongshan · Sinheung · Shirayuki** | **68 · 73 · 76** | 7 · 5 · **4** |
+| Stub | Kunlun · Mirny · Casey · Davis · Vostok | **15–17** | 6 · 9 · 6 · 6 · 6 |
+
+> ### ***The two Mirny cities already cold-run are two of the three fully-developed ones. The chosen third is
+> the remaining one.***
+
+## Why this is structural rather than careless
+
+**`00_RUNBOOK.md`'s own status note has flagged the symptom repeatedly** — *"Sinheung, like every location run
+through this instrument so far, turned out to be a best case in some way"* — **and every prior run recorded it
+as a surprise about that particular location.** ***It is not a surprise. It is a selection mechanism, and it
+runs in one direction:***
+
+1. **A location is chosen partly because it has enough material to run against** — `05`'s Tier-1 contract
+   requires ≥3 of 8 generators, and a stub city may not clear it.
+2. **The `§C.4` / prep-document work is cheaper on a developed city**, because its files exist, are
+   template-conformant, and can be line-ranged.
+3. **⚠ And a developed city has a WITHHELD CULTURE SHEET TO CHECK AGAINST** — ***which means Gate 6, the
+   single most persuasive validation this methodology has, is only available on locations that have already
+   been written up.***
+
+> ### ⭐ Point 3 is the trap, and it is genuinely hard to escape.
+> ***The runs that produce the best evidence are, necessarily, the runs on locations least in need of the
+> instrument.*** **A thin city has no withheld sheet, so a cold pass on one cannot produce an M-35-class
+> convergence result at all — it can only produce content.** **The instrument is therefore validated where it
+> is least needed and used where it is least validated.**
+
+## What this does and does not invalidate
+
+**Does NOT invalidate the consistency programme.** **For consistency testing, comparable depth across
+subjects is a REQUIREMENT, not a bias** — Shirayuki is the correct pick precisely because it matches
+Zhongshan and Sinheung on the axis Gate 6 and Step 6 depend on. ***A rich-vs-thin comparison would confound
+the very thing being measured.***
+
+**DOES invalidate any claim that the instrument is proven for production use across the corpus.** **Thirty-two
+of thirty-seven cities sit in the stub tier.** ***Every claim this methodology has made about its own
+readiness rests on runs against the top ~14% of its corpus by development.***
+
+## Recommendation, flagged rather than adopted
+
+- **Keep the typicality declaration honest on every run** — it exists for exactly this, and stating *"this is
+  a best case, again"* is the minimum.
+- **⏸️ Consider a deliberate thin-Settlement run**, scored on *content produced* rather than on Gate 6
+  convergence, since Gate 6 will be structurally unavailable. **The roster names the candidate within Mirny:
+  the city with 9 open TBDs and a stub Enneagram.** **Not recommended unilaterally — it is a different
+  experiment with a different success criterion, and the developer should decide whether that experiment is
+  wanted.**
+- ***Do not treat "no Gate 6 available" as a reason to skip thin locations.*** **That is the selection
+  mechanism operating.**
