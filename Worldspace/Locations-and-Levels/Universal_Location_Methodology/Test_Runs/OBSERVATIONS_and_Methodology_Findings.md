@@ -5169,3 +5169,81 @@ and three agents in one scratchpad collide by construction, not by accident.**
 **Fixes:** briefs now require every helper/temporary file to live **inside the reader's own output directory**
 under a **reader-unique token**; `isolation: "worktree"` is available where stronger separation is wanted; and
 per M-132 a detector **reports and stops** rather than remediating.
+
+---
+
+# M-135
+
+## ⛔⛔ **PROVENANCE IS TRANSITIVE. THE REQUIREMENT-7 CHECK IS ONE HOP DEEP.**
+
+**Run 15, 2026-09-03. Requirement 7 run on the 8 newly mapped sources.** **Result as reported:
+`cites_withheld=3 unratified=7 clean=1`.** ***The reported "3" is wrong — the true figure is 4 — and the check
+that produced it was correct at every step.***
+
+### The chain the one-hop check cannot see
+
+**`City_Symbolic_Substrate/Planetary_Symbols.md` scored `cites_withheld_root: false`, and it scored
+100.0% ADMISSIBLE on a 3-of-3 map — the cleanest file in the entire set.** **Its declared sources are
+`Robot_Elementals.md`, `City_Symbol_Assignments.md`, and two `to-be-integrated/` files. None is a withheld
+root. The verdict was correct.**
+
+**But:**
+
+| Hop 1 | Hop 2 | Tier |
+|---|---|---|
+| `Planetary_Symbols.md` → `City_Symbol_Assignments.md` | → `City_Enneagram_Personalities/` · `Local_Robot_Culture/` | ⛔ **WITHHELD** |
+| `Planetary_Symbols.md` → `Robot_Elementals.md` | → `Storyline/DLC-Questlines/…` | ⛔ **WITHHELD** |
+
+> ***Two independent paths, both two hops. The file is downstream of withheld culture conclusions and the check
+> cleared it.***
+
+### ⭐ And the four substrate files CITE ONE ANOTHER, so the contamination is not merely transitive — it is CIRCULAR
+
+**`README` → `Planetary_Symbols` · `Robot_Elementals` · `City_Symbol_Assignments`;
+`City_Symbol_Assignments` → `Robot_Elementals` · `Planetary_Symbols`;
+`Planetary_Symbols` → `Robot_Elementals` · `City_Symbol_Assignments`;
+`Robot_Elementals` → `README`.**
+
+**Three of the four cite a withheld root directly.** ***Because the citation graph is strongly connected, ALL
+FOUR are downstream.*** **307 admissible lines that a one-hop check would have released.**
+
+> ## THE RULE
+> **`Step 10.1` item 4 must be run to FIXPOINT, not once.**
+> **Mark every source that cites a withheld root. Then repeatedly mark any source citing a MARKED source,
+> until nothing new is marked.** ***A citation graph with cycles has no "one level up."***
+
+### ⚠ Why this was invisible until now, and why it will recur
+
+**§10 ran requirement 7 on 17 files and found 2 problems — both at hop 1, both in files that named their
+withheld parent openly.** ***That success is exactly what made the one-hop depth look sufficient.*** **Gate 2,
+verbatim: *a recorded failure is not a fixed failure; the origin example is the one most likely to still be
+broken, precisely because writing the discipline felt like having dealt with it.***
+
+**Note also the ADMISSIBILITY INVERSION: the single cleanest file by coordinate map (100%) is downstream by
+two independent paths, while the ONLY fully ratified file in the set (`National_Medical_and_Care_Institutes.md`,
+`locked-canon`) scored the second-LOWEST admissibility at 42.5%.**
+
+> ***Admissibility and admissibility-of-provenance are uncorrelated, and may be anticorrelated.*** **A file
+> that is mostly tables looks clean to a coordinate mapper precisely BECAUSE its conclusions were computed
+> elsewhere and imported as values.** **The map sees the values. It cannot see the import.**
+
+### Consequence for Run 15
+
+| Set | admissible lines | disposition |
+|---|--:|---|
+| `City_Symbolic_Substrate/` ×4 | **307** | ⛔ **DEMOTED — downstream (fixpoint), all `not-locked-canon`** |
+| `Station_to_City_Map.md` | 86 | ⛔ **DEMOTED — self-declared `tracker`** (`05` §6.3) |
+| `Overview.md` | 114 | ⚠ **DEMOTED by inheritance — declares `Station_to_City_Map.md` as a source** |
+| `Inspirational-Influences.md` | 210 | ⚠ **`none-declared` — neither ratified nor self-declared draft. NEEDS A RULING** |
+| **`National_Medical_and_Care_Institutes.md`** | **68** | ✅ **CLEAN — `locked-canon`, no declared sources** |
+
+***Of 785 admissible lines, 68 rest on locked canon.*** **The rest are readable as PROMPTS and cannot ground a
+finding** (`05` §6.3 rules 3–4: a finding they alone support is `REQUESTED`, not `PRODUCED`).
+
+### ⚠ `none-declared` is a hole in the closed set
+
+**`05` §6.3 enumerates what makes a source unratified — *suggestion · proposal · draft · candidate · tracker ·
+TENTATIVE · flagged*. It does not say what a file declaring NOTHING is.** **Run 15 met two of them
+(`Inspirational-Influences.md`, `Overview.md`) carrying 324 admissible lines between them.**
+***Silence is being read as ratification by default, and nothing ever decided that.*** **Developer ruling
+requested.**

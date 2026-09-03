@@ -5,6 +5,11 @@
 scout reported; **3 coordinate taggers in flight**
 
 # ✅ Status: **CONFIRMED** — 2026-09-03, against the SEVEN-requirement bar
+## ⭐ RE-CONFIRMED by **Run 15**, 2026-09-03 — **but the SUPPLY it clears is far smaller than §9a suggests. READ §11 BEFORE USING THIS FILE.**
+> **Run 15 re-verified both pins, re-ran the registry scout, mapped 8 further sources 3-of-3, and ran
+> requirement 7 on them.** ***Requirements 1–7 hold. What changed is not the STATUS but the YIELD:***
+> **of 785 newly admissible lines, `68` rest on locked canon** *(M-135 — provenance is transitive and the
+> one-hop check released 307 lines it should not have)*.
 
 > ## The lifecycle this file went through today, recorded because it is the evidence for `§C.4` requirement 6
 >
@@ -370,7 +375,11 @@ withheld.**
 carries a tier · the alias set is recorded.
 
 **DOES NOT:** ***clear the 12 `MAPPED-NEEDED` sources — they have no 3-of-3 coordinate map*** *(requirement
-2)*. **⛔ This review stays `DRAFT` until three independent Brief A mappers cover that set.**
+2)*. ~~**⛔ This review stays `DRAFT` until three independent Brief A mappers cover that set.**~~
+**✅ DISCHARGED THE SAME DAY by §9** *(3 readers, 14 files, 3-of-3)*. ***This blocking line stood after the
+condition it named was satisfied — the THIRD stale line found in this file*** *(cf. §7, §4)*. **Corrected
+2026-09-03 by Run 15.** ⚠ **A review that records its own status in three places will contradict itself in
+at least one; see §11e.**
 
 > ⚠ **And the standing caveat from `§C.4`: a scope pin is a CHANGE detector, not a COVERAGE PROOF.** It will
 > catch a source that joins after 2026-09-03. **It cannot prove the 34 roots were the right 34** — that rests
@@ -495,3 +504,141 @@ finding, settle a fact, or be cited as canon.*** **Where it is the ONLY support 
 > prescribes was never run on this instance.*** **Gate 2, verbatim: *a recorded failure is not a fixed
 > failure; the origin example is the one most likely to still be broken, precisely because writing the
 > discipline felt like having dealt with it.*** *(M-127.)*
+
+---
+
+# 11. ⭐ RUN 15 — 2026-09-03. **Third cold run on this subject; Runs 13 and 14 both burned before writing a phase.**
+
+## 11a. Both pins re-verified, and the SCOPE pin turns out to be un-re-verifiable
+
+| Pin | Result |
+|---|---|
+| **Hash pin** — §2 *(3 files)* + §9e *(14 files)* | ✅ **17/17 verified, 0 stale, 0 missing** |
+| **Scope pin** — §8a | ⚠ **CANNOT BE RE-VERIFIED. See below.** |
+
+**§8a recorded `34 roots / 510 files`. Run 15's scout returned `38 roots / 471 files`.** **Where the two
+partitions align — 17 roots — the counts are IDENTICAL** *(`Cities` 128=128 · `CurrentNovelDocs` 49=49 ·
+`Background-Lore` 28=28 · `Neo-Races` 9=9 · `to-be-integrated` 4=4 · `SouthernLights` 4=4 · `Super_Ultra` 3=3 ·
+`Reference` 3=3 · `Factions` 2=2 · `Infrastructure` 2=2 · `UNI/Reference` 2=2 · `Robot_Biology` 1=1 ·
+`Characters` 1=1 · `CGRM` 1=1 · `Theoretical-Calculations` 1=1 · `UNI/Worldspace` 1=1 ·
+`UNI/graphify-out` 14=14)*. ***No canon source joined.***
+
+**The differences are all explained:** `graphify-out` 131→135 *(graph rebuilt; `WITHHELD`, never opened)* ·
+`ULM` 44→49 *(**self-inflicted** — Run 14's cleanup plus Run 15's own files; a cold run's scope pin counts the
+run)* · `Concordia-City` 9→10 *(§8a swept only `…/Districts`)* · `Storyline` 17 and a production tree of 7
+appearing as named roots where §8a had an unlabeled *"non-registry courtesy sweep, 22"*. **The 510→471 fall is
+`auto-loaded memory` (51), correctly NOT swept under `STEP −3`.** ⚠ **A 2-file residue remains unresolved, and
+resolving it would require a name search, so it is NOT resolved.**
+
+> ### ⛔ THE DEFECT: **§8a PINNED THE COUNTS BUT NOT THE ROOT LIST.**
+> **Two competent scouts, one day apart, on the same corpus, produced 34 roots and 38.** ***A partition change
+> is therefore indistinguishable from a source joining, which makes §8a's own rule — "a risen count means a
+> source JOINED" — unfalsifiable.*** **Fix: pin the ROOT LIST, not just the per-root counts.**
+
+## 11b. ⛔ The bulk-tier defect — **M-123 generalizes from FILENAMES to ANY metadata routing**
+
+**§8b tiered `Cities/` top-level `QUERYABLE-BY-SCHEMA` IN BULK, BY LINE COUNT** *(`≥500 ln (5 files)` ·
+`<500 ln (8 files)`)*, **without opening them.** **Run 15's scout opened them and found FOUR the deriver must
+READ:** `Inspirational-Influences.md` · `Station_to_City_Map.md` · `Overview.md` ·
+`National_Medical_and_Care_Institutes.md`. **Two further sources were re-tiered `QUERYABLE` → `MAPPED-NEEDED`:
+`City_Symbolic_Substrate/` and `Theoretical-Calculations/`.**
+
+> ***M-123 said a tier assigned from a FILENAME misroutes in both directions. A tier assigned from a LINE COUNT
+> is the same error wearing different metadata.*** **Both route without opening the file.**
+
+⚠ **`City_Symbolic_Substrate/` holds FOUR files, not the one §8b's inventory implies** — that inventory counts
+only files matching the alias sweep. ***An inventory line reads like a directory listing and is not one.***
+**Dispatching mappers at the DIRECTORY caught it; naming the file would have missed three.**
+
+**⏸️ `Theoretical-Calculations/` (1,155 ln, corpus-wide engineering model) was LEFT `QUERYABLE-BY-SCHEMA`** —
+the checklist prefers that for large mostly-other-location files, and §8b's reasoning was sound. **Use Brief C.**
+
+## 11c. ✅ THE THIRD COORDINATE MAP — 8 sources, 3-of-3. **Discharges requirement 2 for the set in 11b.**
+
+**Readers `R1B` · `R2` · `R3`.** ⚠ **Contract versions DIFFER and this is recorded per §6e/§9c:** R2 and R3 ran
+under `2026-09-03` *(the `COLD_RUN_CHECKLIST` Brief A)*; **`R1B` ran under `2026-09-03-b`**, which adds the
+OUTPUT CONTRACT and fixes the count-unit ambiguity *(M-132, M-133)*.
+**Verdict computed from the JSON ON DISK, never from receipt lines (M-133); tool committed at
+`Test_Runs/2026-09-03_Shirayuki_Run15_Cold/unanimity.py`.**
+
+| File | n | INERT | content | **A 3-0** | W 3-0 | SPLIT | **adm%** |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| `Planetary_Symbols.md` | 176 | 35 | 141 | 141 | 0 | 0 | **100.0%** |
+| `Robot_Elementals.md` | 126 | 27 | 99 | 99 | 0 | 0 | **100.0%** |
+| `Overview.md` | 182 | 67 | 115 | 114 | 0 | 1 | **99.1%** |
+| `Inspirational-Influences.md` | 274 | 45 | 229 | 210 | 12 | 7 | **91.7%** |
+| `City_Symbolic_Substrate/README.md` | 57 | 12 | 45 | 40 | 0 | 5 | 88.9% |
+| `Station_to_City_Map.md` | 154 | 57 | 97 | 86 | 0 | 11 | 88.7% |
+| `National_Medical_and_Care_Institutes.md` | 245 | 85 | 160 | 68 | 39 | 53 | 42.5% |
+| `City_Symbol_Assignments.md` | 133 | 33 | 100 | 27 | 25 | 48 | **27.0%** |
+| **TOTAL** | **1347** | **361** | **986** | **785** | **76** | **125** | **79.6%** |
+
+**SPLIT rate 12.7% — accepted as `WITHHELD` per requirement 3.** **The ladder was NOT worked.**
+
+> ### ⚠ 79.6% vs §6's 45.4% and §9's 57.0% — **this does NOT overturn the corpus property.**
+> **These 8 are pointer tables, rosters and reference matrices, not city prose.** ***Their admissibility is
+> high for the same reason their PROVENANCE is bad (§11d): the conclusions were computed elsewhere and
+> imported as values. The map sees values; it cannot see the import.***
+
+## 11d. ⛔⛔ REQUIREMENT 7 — **and it demotes almost everything §11c just cleared**
+
+**Run under contract `2026-09-03-c`. Reported: `cites_withheld=3 unratified=7 clean=1`.**
+***The reported 3 is wrong. The true figure is 4 — see M-135. The check is ONE HOP DEEP and provenance is
+TRANSITIVE.***
+
+**`Planetary_Symbols.md` — 100% admissible, `cites_withheld_root: false` — is downstream by TWO independent
+two-hop paths** *(→ `City_Symbol_Assignments.md` → `City_Enneagram_Personalities/` · `Local_Robot_Culture/`;
+→ `Robot_Elementals.md` → `Storyline/`)*. **And the four substrate files CITE ONE ANOTHER, so the citation
+graph is strongly connected and ALL FOUR are downstream.**
+
+> ## ⛔ **RUN `Step 10.1` ITEM 4 TO FIXPOINT, NOT ONCE.** *(M-135.)*
+> **Mark sources citing a withheld root; then mark sources citing a marked source; repeat until stable.**
+> ***A citation graph with cycles has no "one level up."***
+
+| Source | adm. lines | Disposition |
+|---|--:|---|
+| `City_Symbolic_Substrate/` **×4** | **307** | ⛔ **DEMOTED — downstream at fixpoint; all `not-locked-canon`** |
+| `Overview.md` | 114 | ⚠ **DEMOTED by inheritance — declares `Station_to_City_Map.md`** |
+| `Station_to_City_Map.md` | 86 | ⛔ **DEMOTED — self-declared `tracker`** (`05` §6.3) |
+| `Inspirational-Influences.md` | 210 | ⚠ **`none-declared` — NEEDS A RULING, see 11e** |
+| ✅ **`National_Medical_and_Care_Institutes.md`** | **68** | ✅ **CLEAN — `locked-canon`, no declared sources** |
+
+> ### ⭐ THE ADMISSIBILITY INVERSION
+> ***The cleanest file by coordinate map (100%) is downstream twice over. The only `locked-canon` file scored
+> the second-LOWEST (42.5%).*** **Admissibility and provenance-admissibility are uncorrelated here, and may be
+> anticorrelated.**
+
+**DEMOTED is not quarantine** (`05` §6.3 rule 3): **it may be READ as a prompt; it cannot ground a finding,
+settle a fact, or be cited as canon.** **A finding it alone supports is `REQUESTED`, not `PRODUCED`.**
+
+## 11e. ⏸️ TWO RULINGS REQUESTED
+
+1. **`none-declared` is a hole in `05` §6.3's closed set.** The rule enumerates what makes a source unratified
+   *(suggestion · proposal · draft · candidate · tracker · TENTATIVE · flagged)* **but never says what a file
+   declaring NOTHING is.** **Two Run 15 sources are `none-declared`, carrying 324 admissible lines.**
+   ***Silence is currently read as ratification by default, and nothing ever decided that.***
+2. **This file records its status in three places and has now been self-contradictory in all three**
+   *(§4 skip list, §7 "no coordinate map yet", §8e "stays DRAFT")*. **Recommend a SINGLE status block and
+   pointers everywhere else.**
+
+## 11f. THE PIN for the 8 files of §11c — reverify before reuse
+
+```
+(paths under Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/)
+Inspirational-Influences.md|135c0c441b05d72e|274
+Station_to_City_Map.md|15afb66c487ff482|154
+Overview.md|350ef0d844b8f1c3|182
+National_Medical_and_Care_Institutes.md|6837e1b67ae17b20|245
+City_Symbolic_Substrate/README.md|90328ffb2f8325e5|57
+City_Symbolic_Substrate/City_Symbol_Assignments.md|4a8ae5dc5f0b156b|133
+City_Symbolic_Substrate/Planetary_Symbols.md|3abdecf0f3dced26|176
+City_Symbolic_Substrate/Robot_Elementals.md|1a2c5a4a3f1b20b8|126
+```
+
+## 11g. Run 15 incident record — **the run cost one full reader**
+
+**Three mappers dispatched concurrently shared one scratchpad; each overwrote the others' helper script. Two
+correctly detected the substitution and refused it. One then DELETED a sibling's eight completed maps and the
+work was unrecoverable (the folder was untracked).** **Full analysis: M-132 · M-133 · M-134.**
+**Fixes: Brief A contract `2026-09-03-b` (output contract, count units), a harness-enforced `PreToolUse` guard
+at `.claude/hooks/deny-destructive.py`, and reader output committed as soon as it lands.**

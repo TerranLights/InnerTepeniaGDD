@@ -1,0 +1,91 @@
+{
+  "contract_version": "2026-09-03-c",
+  "check": "Step 10.1 item 4, requirement 7 — provenance and ratification only",
+  "sources": [
+    {
+      "source": "Inspirational-Influences.md",
+      "declared_source_paths": [],
+      "cites_withheld_root": false,
+      "ratification_status": "none-declared",
+      "header_line_range": "L1-L14"
+    },
+    {
+      "source": "Station_to_City_Map.md",
+      "declared_source_paths": [],
+      "cites_withheld_root": false,
+      "ratification_status": "tracker",
+      "header_line_range": "L1-L23"
+    },
+    {
+      "source": "Overview.md",
+      "declared_source_paths": [
+        "City_Relationship_Database.md",
+        "Specs/",
+        "Station_to_City_Map.md"
+      ],
+      "cites_withheld_root": false,
+      "ratification_status": "none-declared",
+      "header_line_range": "L1-L35"
+    },
+    {
+      "source": "National_Medical_and_Care_Institutes.md",
+      "declared_source_paths": [],
+      "cites_withheld_root": false,
+      "ratification_status": "locked-canon",
+      "header_line_range": "L1-L8"
+    },
+    {
+      "source": "City_Symbolic_Substrate/README.md",
+      "declared_source_paths": [
+        "to-be-integrated/",
+        "Planetary_Symbols.md",
+        "Robot_Elementals.md",
+        "City_Symbol_Assignments.md",
+        "City_Enneagram_Personalities/",
+        "Local_Robot_Culture/",
+        "Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md",
+        "Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/"
+      ],
+      "cites_withheld_root": true,
+      "ratification_status": "not-locked-canon",
+      "header_line_range": "L1-L39"
+    },
+    {
+      "source": "City_Symbolic_Substrate/City_Symbol_Assignments.md",
+      "declared_source_paths": [
+        "../City_Enneagram_Personalities/",
+        "Robot_Elementals.md",
+        "Planetary_Symbols.md",
+        "to-be-integrated/city-symbol-pairs.md",
+        "Local_Robot_Culture/"
+      ],
+      "cites_withheld_root": true,
+      "ratification_status": "not-locked-canon",
+      "header_line_range": "L1-L28"
+    },
+    {
+      "source": "City_Symbolic_Substrate/Planetary_Symbols.md",
+      "declared_source_paths": [
+        "Robot_Elementals.md",
+        "City_Symbol_Assignments.md",
+        "to-be-integrated/planetary-symbols.md",
+        "to-be-integrated/planetary-appended-symbols.md"
+      ],
+      "cites_withheld_root": false,
+      "ratification_status": "not-locked-canon",
+      "header_line_range": "L1-L14"
+    },
+    {
+      "source": "City_Symbolic_Substrate/Robot_Elementals.md",
+      "declared_source_paths": [
+        "to-be-integrated/elementals_short_list.md",
+        "Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md",
+        "README.md"
+      ],
+      "cites_withheld_root": true,
+      "ratification_status": "not-locked-canon",
+      "header_line_range": "L1-L14"
+    }
+  ],
+  "unavailable": []
+}
