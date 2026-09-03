@@ -270,7 +270,18 @@ Seven real-world inspirations (IceCube surface facility, ISS interior, Antarctic
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L18** — named in the Mountain Pass Airport entry as one of the sites *"reasonably accessible"* to the outpost, via the nearby Hwy 22 dual-junction. Not an airport at Amundsen Station itself.
 - **Airports.md L25** — Amundsen Station is also listed highway-only; consistent with its role as a highway convergence point (Hwy 22 passes through; Hwy 175 and Hwy 59 terminate here) rather than an aviation site.
-- **Highways.md L137, L144, L183, L185, L211, L213, L217, L267** — **THREE HIGHWAYS CONVERGE HERE**: Hwy 22 (Transcontinental) passes directly through the South Pole; Hwy 175 and Hwy 59 both terminate at ramps nearby, ranked by proximity to the Pole (Hwy 175's ramp is closer than Hwy 59's).
+- **Highways.md L137, L144, L183–186, L211–218, L267** —
+- **⭐ ONE highway reaches Amundsen Station. Two others feed into it, and neither touches the station.**
+  *(⚠ Corrected 2026-09-02 — this previously read "THREE HIGHWAYS CONVERGE HERE," which compressed the source
+  into an error. `Highways.md` itself is precise.)*
+  - **Hwy 22 (Transcontinental)** — *"passes directly through the South Pole (Amundsen Station)"* **(L144).
+    The only highway that reaches the station itself.**
+  - **Hwy 59** *(L183–186)* and **Hwy 175** *(L211–218)* **both terminate at RAMPS WITH HWY 22** — not at the
+    station — at **separate points moderately accessible to it**, with **Hwy 175's ramp closer to the Pole
+    than Hwy 59's** (L267).
+  - **⭐ Consequence: every overland approach ends with a final leg along Hwy 22.** *(Hwy 59 additionally
+    doubles as the Arcanet cable corridor to the Pole relay — road and signal ran the same line.)*
+- **No airport** *(`Airports.md` L25)*.
 
 ---
 
