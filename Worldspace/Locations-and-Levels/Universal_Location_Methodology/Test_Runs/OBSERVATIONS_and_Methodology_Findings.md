@@ -5234,16 +5234,74 @@ two independent paths, while the ONLY fully ratified file in the set (`National_
 | `City_Symbolic_Substrate/` ×4 | **307** | ⛔ **DEMOTED — downstream (fixpoint), all `not-locked-canon`** |
 | `Station_to_City_Map.md` | 86 | ⛔ **DEMOTED — self-declared `tracker`** (`05` §6.3) |
 | `Overview.md` | 114 | ⚠ **DEMOTED by inheritance — declares `Station_to_City_Map.md` as a source** |
-| `Inspirational-Influences.md` | 210 | ⚠ **`none-declared` — neither ratified nor self-declared draft. NEEDS A RULING** |
+| `Inspirational-Influences.md` | 210 | ⛔ **DEMOTED — `none-declared`, and NOT in a ratified root** *(`05` §6.3 rule 6, ruled 2026-09-03)* |
 | **`National_Medical_and_Care_Institutes.md`** | **68** | ✅ **CLEAN — `locked-canon`, no declared sources** |
 
 ***Of 785 admissible lines, 68 rest on locked canon.*** **The rest are readable as PROMPTS and cannot ground a
 finding** (`05` §6.3 rules 3–4: a finding they alone support is `REQUESTED`, not `PRODUCED`).
 
-### ⚠ `none-declared` is a hole in the closed set
+### ⚠ `none-declared` — ✅ **RULED 2026-09-03. Recorded here with two self-corrections.**
 
-**`05` §6.3 enumerates what makes a source unratified — *suggestion · proposal · draft · candidate · tracker ·
-TENTATIVE · flagged*. It does not say what a file declaring NOTHING is.** **Run 15 met two of them
-(`Inspirational-Influences.md`, `Overview.md`) carrying 324 admissible lines between them.**
-***Silence is being read as ratification by default, and nothing ever decided that.*** **Developer ruling
-requested.**
+**`05` §6.3 rule 2 lists what makes a source unratified — *suggestion · proposal · draft · opportunities ·
+candidate · tracker · TENTATIVE · flagged* — and says the status is *"usually declared."* It does not say what
+a file declaring NOTHING is.** ***Silence was being read as ratification by default, and nothing ever decided
+that.***
+
+> ### ⛔ TWO SELF-CORRECTIONS, both made while ANSWERING the question rather than while raising it
+>
+> 1. **This finding first called that list a "closed set." It is not** — rule 2's *"usually declared"* is an
+>    explicit hedge that some files will not declare one. **`none-declared` is the case the rule ACKNOWLEDGES
+>    and then leaves unresolved, which is a weaker defect than the one first claimed.** *(The first draft also
+>    dropped `opportunities` from the list while quoting it.)*
+> 2. ⛔ **The figure "324 admissible lines" was WRONG — the ruling moves `210`.**
+>    **It was the sum of both `none-declared` files, taken without asking whether the ruling actually frees
+>    either.** ***`Overview.md` (114) declares `Station_to_City_Map.md` as a source — a self-declared
+>    `tracker` — so rule 3 demotes it by inheritance under EVERY possible ruling.*** **Only
+>    `Inspirational-Influences.md` (210) turns on the answer.**
+>
+> **Both errors ran the same direction: they made the defect look bigger and the stake look higher.** ***The
+> corpus records self-audit error running "in one direction — toward flattering the pass." This is the same
+> bias pointed at a FINDING instead of a pass, and it inflates rather than flatters.*** **Check the arithmetic
+> of a claim before it is committed, not after it is questioned.**
+
+### The ruling — **RATIFICATION IS BY ROOT, NOT BY BANNER** *(now `05` §6.3 rule 6)*
+
+**A source declaring no status is UNRATIFIED and DEMOTED, unless it sits in a root declared ratified.**
+**Seeded with `Cities/Specs/` and `Cities/Official_Population_Census.md` — the two this section's own table
+already names.** ⏸️ **The rest of the list is NOT YET ENUMERATED; the developer extends it, a pass may not.**
+
+**Measured basis: 35 of 38 `Specs/` files declare a status; 3 are silent.** ***Declaring is the norm, so
+silence is an oversight rather than an implicit yes — and root-level ratification makes the "settled spec"
+row true BY CONSTRUCTION instead of by each file remembering to say so.***
+
+**Effect on Run 15: none.** `Inspirational-Influences.md` sits in `Cities/` top level, not in a ratified root,
+so it stays **DEMOTED** and the grounded yield remains **68 lines**.
+
+### 135a. ⚠ WRITING A RULING INTO A RULE FILE IS WHEN THE LAYERING LAW IS MOST LIKELY TO BREAK
+
+**Caught pre-commit, 2026-09-03, in the very edit that recorded rule 6 above.**
+
+**The new `05` §6.3 rule 6 was drafted with a cross-reference reading *"see the demotion recorded at
+`Pre-Contamination_Reviews/<subject>…` §10."*** ***That put a specific location's name into `05` — a rule
+file the layering law requires to name none, and which had been verified at `grep -ci` = 0.***
+
+> ### THE MECHANISM, and it is structural rather than careless
+> **A ruling is REQUESTED by a specific location's pass. The evidence for it is that location's files. The
+> person writing the rule has that location in working memory and its paths on the clipboard.** ***The moment
+> of GENERALIZING a finding into a rule is exactly the moment the specific instance is most available to
+> cite*** — **and a citation is how it lands in the permanent file.**
+
+**`CLAUDE.md`'s layering law calls this channel *"leak-register row 1, the channel that has burned more runs
+than any other,"* and notes the rule file is one the corpus is *contractually obliged* to hand every future
+pass on that location.** **A rule is read by every later run; a review is read by one.** ***A name in a rule
+file is therefore the highest-leverage leak available, and it is planted by the most conscientious act in the
+methodology — writing the lesson down.***
+
+### The control
+
+> **After ANY edit to `00`–`06`, `README`, or `Disciplines/`, re-run the layering check before committing:**
+> ```
+> grep -ciE '<alias set>' 00_RUNBOOK.md 01_*.md 02_*.md 03_*.md 04_*.md 05_*.md README.md   # every one must be 0
+> ```
+> **It is one command, it is not optional, and the edit that needs it most is the one that felt most
+> responsible.** *(Rewritten location-neutrally here; verified 0 across all seven files before commit.)*

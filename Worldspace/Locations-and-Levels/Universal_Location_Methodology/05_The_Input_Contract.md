@@ -626,6 +626,29 @@ developer has not yet made.
 5. **Never ratify by use.** Citing a suggestion in a completed pass, and then treating the completed pass as
    canon, is `6.1b`'s laundering problem on the authority axis instead of the provenance axis. **The developer
    ratifies. A pass does not, and neither does repetition.**
+6. ⭐ **RATIFICATION IS BY ROOT, NOT BY BANNER — and SILENCE IS NOT CONSENT.**
+   ***Developer ruling, 2026-09-03, on a question raised by Run 15 (M-135).***
+
+   **A source that declares NO status is UNRATIFIED — and therefore DEMOTED — unless it lives in a root
+   declared ratified below.** **Rule 2 says the status is *"usually declared."* This settles the rest of that
+   sentence.**
+
+   | Ratified BY ROOT — silence inside these means canon | |
+   |---|---|
+   | `Cities/Specs/` | the *"settled spec"* row of this section's own table |
+   | `Cities/Official_Population_Census.md` | the *"census figure"* row |
+   | ⏸️ **anything else** | ***NOT YET ENUMERATED. The developer extends this list; a pass may not.*** |
+
+   **Why by root rather than per file:** *measured 2026-09-03 — **35 of 38 `Specs/` files declare a status,
+   3 are silent.*** **Declaring is the norm, so silence reads as an oversight, not an implicit yes** — but a
+   per-file banner also makes this section's *"settled spec = ratified"* row **depend on each file remembering
+   to say so.** ***Root-level ratification makes that row true by construction, and turns the 3 silent files
+   into a cleanup task instead of a doctrinal question.***
+
+   ⚠ **This does NOT ratify a file merely for sitting near canon.** **A root grants ratification only where
+   this table names it, and `§6.1` circularity is still checked FIRST and independently** — *a file inside a
+   ratified root that is downstream of a withheld culture sheet is still out, ratified or not; a
+   pre-contamination review has already recorded exactly that demotion.*
 
 ---
 

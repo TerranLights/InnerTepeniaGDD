@@ -600,7 +600,7 @@ graph is strongly connected and ALL FOUR are downstream.**
 | `City_Symbolic_Substrate/` **×4** | **307** | ⛔ **DEMOTED — downstream at fixpoint; all `not-locked-canon`** |
 | `Overview.md` | 114 | ⚠ **DEMOTED by inheritance — declares `Station_to_City_Map.md`** |
 | `Station_to_City_Map.md` | 86 | ⛔ **DEMOTED — self-declared `tracker`** (`05` §6.3) |
-| `Inspirational-Influences.md` | 210 | ⚠ **`none-declared` — NEEDS A RULING, see 11e** |
+| `Inspirational-Influences.md` | 210 | ⛔ **DEMOTED — `none-declared` and not in a ratified root** *(`05` §6.3 rule 6; see 11e)* |
 | ✅ **`National_Medical_and_Care_Institutes.md`** | **68** | ✅ **CLEAN — `locked-canon`, no declared sources** |
 
 > ### ⭐ THE ADMISSIBILITY INVERSION
@@ -613,10 +613,19 @@ settle a fact, or be cited as canon.** **A finding it alone supports is `REQUEST
 
 ## 11e. ⏸️ TWO RULINGS REQUESTED
 
-1. **`none-declared` is a hole in `05` §6.3's closed set.** The rule enumerates what makes a source unratified
-   *(suggestion · proposal · draft · candidate · tracker · TENTATIVE · flagged)* **but never says what a file
-   declaring NOTHING is.** **Two Run 15 sources are `none-declared`, carrying 324 admissible lines.**
-   ***Silence is currently read as ratification by default, and nothing ever decided that.***
+1. ✅ **`none-declared` — RULED 2026-09-03. `05` §6.3 gains rule 6: RATIFICATION IS BY ROOT, NOT BY BANNER.**
+   **A source declaring no status is UNRATIFIED and DEMOTED unless it sits in a root declared ratified —
+   seeded with `Cities/Specs/` and `Cities/Official_Population_Census.md`, the two §6.3's own table names.**
+   ⏸️ **The rest of that list is not yet enumerated; the developer extends it.**
+   **Measured basis: 35 of 38 `Specs/` files declare a status, 3 are silent — declaring is the norm, so
+   silence is an oversight, not an implicit yes.**
+   > ⛔ **CORRECTION: this section first said "324 admissible lines" and called §6.3's list a "closed set."
+   > Both were wrong.** ***The ruling moves `210`, not 324*** — `Overview.md`'s 114 lines are demoted by
+   > inheritance under every possible ruling, because it declares a `tracker` as a source. **And rule 2 says
+   > the status is *"usually declared,"* which acknowledges the gap rather than closing it.** *(M-135.)*
+   > ***Both errors inflated the defect. Check a claim's arithmetic before committing it.***
+   **Effect on this run: NONE.** `Inspirational-Influences.md` is not in a ratified root; it stays DEMOTED and
+   the grounded yield remains **68 lines**.
 2. **This file records its status in three places and has now been self-contradictory in all three**
    *(§4 skip list, §7 "no coordinate map yet", §8e "stays DRAFT")*. **Recommend a SINGLE status block and
    pointers everywhere else.**
