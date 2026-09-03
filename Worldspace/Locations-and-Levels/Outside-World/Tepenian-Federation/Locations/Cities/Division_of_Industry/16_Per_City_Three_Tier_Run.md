@@ -3430,7 +3430,7 @@ the developer's updated maps)*.
 Amundsen Tower operations 30% · Other/life support 10%.
 
 **Population: 1,121 humans / 5,736 robots — ~84% robot, the highest robot proportion of any Tepenian
-population centre.**
+population center.**
 
 ### The mandate — the least contestable in the entire pass
 
@@ -3455,7 +3455,7 @@ honeymoons.)*
 > ***Nothing here is discretionary. The 6.8% that is not conscripted is the part that keeps people
 > breathing.***
 
-**And that is not a modelling artifact — it is what canon says the place was:** *"had no economy in the
+**And that is not a modeling artifact — it is what canon says the place was:** *"had no economy in the
 conventional sense — it produced no exports, and every supply came in from elsewhere."* **A facility, not a
 society.** **Maintained by rotating multi-subnet technical crews who served a tour and went home** — **nobody
 was ever from here.**

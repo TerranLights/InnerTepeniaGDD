@@ -293,7 +293,7 @@ curves up to **22 km**, magnetically levitated, to reduce the transition shock.
 
 | Site | Altitude | Latitude |
 |---|--:|---|
-| **Chimborazo, Ecuador** | 6,263 m | 1.5°S — *the farthest point from Earth's centre* |
+| **Chimborazo, Ecuador** | 6,263 m | 1.5°S — *the farthest point from Earth's center* |
 | **Cayambe, Ecuador** | 5,790 m | **0.0° — the only glacier ON the equator** |
 | Kilimanjaro, Tanzania | 5,895 m | 3.1°S |
 | **Mount Kenya** | 5,199 m | 0.15°S |
