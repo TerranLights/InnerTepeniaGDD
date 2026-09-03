@@ -1,5 +1,32 @@
 # Dome Fuji
 
+> ## ⭐⭐⭐ THE SEED VAULT — AND WHY DOME FUJI KEEPS ONE `[CGRM 2026-09-02 · Path 6 · developer ruling]`
+>
+> **Dome Fuji holds one of Tepenia's two deep seed archives** *(the other is Kunlun; the warm working
+> collection is at Esperanza — see `Division_of_Industry/15` Resolution 3)*.
+>
+> **The site reason is passive and obvious:** **~−54 °C annual mean means keeping seeds cold costs nothing,
+> indefinitely, with no refrigeration.**
+>
+> ### **But the CITY's reason is not logistical.**
+>
+> > ***"Dome Fuji does it out of a sense of love and respect for the humans who sacrificed their pasts, their
+> > heritage, and their ancestral homelands to help ensure that robots had a homeland of their own; so, just
+> > in case a catastrophe ever hit, Dome Fuji (and the Ice-Cold Buddhists) would be able to return the
+> > favor."***
+>
+> **Not a catalogue — a promise.** Kept by the **devotee population of Ice Cold Buddhism**, nationally
+> blended and drawn from every Tepenian city.
+>
+> > ### ⚠⚠ **And human presence here is FORBIDDEN.**
+> > **At ~4,500 m effective altitude, where no human can survive, robots maintain a store of the plants of
+> > the homelands those humans gave up — for people who can never visit, against a catastrophe that may never
+> > come.**
+>
+> *(Kunlun keeps its vault for the opposite reason: **scientific cataloguing — "keeping records" of Earth.**
+> **Same act, opposite motive.**)*
+
+
 **Based on:** Dome Fuji Station (Japan / JARE), East Antarctic Plateau, near Valkyrie Dome (~77°19'S, 39°42'E)
 **Status:** Survived — altitude-compromised; functioning at reduced capacity
 **Arcanet Subnet:** Mawson *(corrected 2026-07-03 — this file previously said "Halley," conflicting with `City_Relationship_Database.md` and `Overview.md`, both of which agree on Mawson — connected via Arcanet cable, not road, despite the geographic distance from the Mawson subnet's coastal cities; subnets were organized by cable routing, not strict geographic proximity)*

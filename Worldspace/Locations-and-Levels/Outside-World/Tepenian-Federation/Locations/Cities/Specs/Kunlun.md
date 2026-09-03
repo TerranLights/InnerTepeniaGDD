@@ -1,5 +1,22 @@
 # Kunlun
 
+> ## ⭐⭐ THE SEED VAULT — KUNLUN KEEPS ONE AS A RECORD `[CGRM 2026-09-02 · Path 6 · developer ruling]`
+>
+> **Kunlun holds one of Tepenia's two deep seed archives** *(the other is Dome Fuji; the warm working
+> collection is at Esperanza — see `Division_of_Industry/15` Resolution 3)*. **Dome A is the highest and
+> coldest site on the continent — the better vault, by temperature, of the two.**
+>
+> ### **Kunlun's reason is SCIENTIFIC CATALOGUING — "keeping records" of Earth.**
+>
+> **Consistent with everything else about this city:** a **curated 19-nation astronomy/comms-heritage
+> population**, tiered by real-world space-program credentials, whose entire civic purpose is **observing and
+> recording**. **The seeds are one more catalogue.**
+>
+> *(**Dome Fuji keeps its vault for the opposite reason** — *"love and respect for the humans who sacrificed
+> their pasts, their heritage, and their ancestral homelands to help ensure that robots had a homeland of
+> their own."* **Same act, opposite motive: a record versus a debt.**)*
+
+
 **Based on:** Kunlun Station (China / CHINARE), Dome A (Dome Argus), East Antarctic Plateau (~80°25'S, 77°07'E)
 **Status:** Survived — extreme altitude; most marginal survival of any Tepenian city
 **Arcanet Subnet:** Mirny ("Australian")

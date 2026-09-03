@@ -194,9 +194,45 @@ site is both.**
   FEATURE for an archive**, not a liability.
 - On the Hwy 22 / Hwy 37 network, so retrievable by road when it must be.
 
-*(**Kunlun** is the alternative and is colder still — Dome A is the highest and coldest
-site on the continent. **Dome Fuji is chosen for marginally better access; Kunlun is the
-better vault and the worse door.**)*
+> ## ⭐⭐⭐ SUPERSEDED 2026-09-02 — **BOTH PLATEAU CITIES KEEP A VAULT.** `[CGRM 2026-09-02 · Path 6 · developer ruling]`
+>
+> **This section previously chose between Dome Fuji and Kunlun** *("Kunlun is the better vault and the worse
+> door")*. **There is no choice to make. Both keep one — and they keep it FOR DIFFERENT REASONS.**
+>
+> ### **Kunlun — the vault as a RECORD**
+> **Scientific cataloguing. "Keeping records" of Earth.** Consistent with everything else about the city: a
+> **curated 19-nation astronomy/comms-heritage population**, tiered by real-world space-program credentials,
+> whose whole civic purpose is **observing and recording.** **The seeds are one more catalogue.**
+>
+> ### ⭐⭐⭐ **Dome Fuji — the vault as a DEBT**
+>
+> > **Developer, 2026-09-02:** ***"Dome Fuji does it out of a sense of love and respect for the humans who
+> > sacrificed their pasts, their heritage, and their ancestral homelands to help ensure that robots had a
+> > homeland of their own; so, just in case a catastrophe ever hit, Dome Fuji (and the Ice-Cold Buddhists)
+> > would be able to return the favor."***
+>
+> **Not a catalogue. A promise.** Kept by **the devotee population of Ice Cold Buddhism** — nationally
+> blended, drawn from every Tepenian city — **against a catastrophe that may never come, for people who gave
+> up their homelands so that robots could have one.**
+>
+> > ### ⚠⚠ **AND HUMAN PRESENCE AT DOME FUJI IS FORBIDDEN.**
+> > **At ~4,500 m effective altitude, where no human can survive, robots maintain a store of the plants of
+> > the homelands those humans gave up — for a debt they can never be thanked for in person, in a place the
+> > beneficiaries can never visit.**
+>
+> **This retroactively explains the design principle already recorded below.** That principle observed, as a
+> logistical irony, that *"the deepest guarantee of human food in Tepenia is held by a city with no humans in
+> it."* **It is not an irony. It is the point.**
+>
+> **⚠ Esperanza's WORKING COLLECTION is unaffected** *(§2 below)*, and **{{Bunger Hills City}} remains
+> deferred** *(§3)*. **The change is that the deep archive is now DOUBLED, not relocated.**
+>
+> **⚠ Division-of-industry determinations are UNAFFECTED.** Dome Fuji's vault sits inside its
+> `Ice core science / archival research 40%`; Kunlun's sits inside its `Ice core science 15%`. **Both sectors
+> are already half-mandated** *(§§22 and 32 of `16`)*.
+
+*(Superseded siting note, kept for the record: **Kunlun** is colder still — Dome A is the highest and coldest
+site on the continent — and Dome Fuji was originally chosen for marginally better access.)*
 
 ### 2. ⭐ WORKING COLLECTION — **Esperanza** *(Palmer subnet)*
 
