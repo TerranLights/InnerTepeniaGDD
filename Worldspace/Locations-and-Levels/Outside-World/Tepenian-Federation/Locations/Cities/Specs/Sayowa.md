@@ -61,7 +61,52 @@
 
 ## Geographic Basis
 
-Sayowa sits on East Ongul Island, a small island off the Prince Harald Coast in Lützow-Holm Bay. The island position — separated from the Antarctic mainland by Lützow-Holm Bay — gives Sayowa a maritime character distinct from the Mac.Robertson Land coastal cities. The bay is sea-ice covered in winter and accessible by icebreaker in summer.
+> ### ⭐⭐ ESTABLISHED 2026-09-02 — THE CITY IS ON THE MAINLAND. THE ISLAND IS ITS PORT. `[CGRM 2026-09-02 · Path 6 · developer ruling]`
+>
+> **Sayowa the city sits on the mainland Sôya Coast. East Ongul Island is its port** — *"a very, very
+> sparsely-populated, very, very extremely heavily-industrialized shipping port."*
+>
+> **Why the earlier island-only placement did not hold, on researched real-world geography:**
+>
+> | Feature | Measurement |
+> |---|--:|
+> | **East Ongul Island** | **~2 km long** (~4–5 km²) |
+> | **Ongul Strait** *(island ↔ mainland)* | **~4 km** |
+> | **Langhovde** *(ice-free, Sôya Coast)* | **50 km²**, ~30 km south |
+> | **Skarvsnes** *(ice-free)* | **the largest ice-free area in the Lützow-Holm Bay region** |
+>
+> 1. **Density.** 225,376 people on ~4–5 km² is **~50,000/km²** — the implausibility class that forced the
+>    Cape Adare core/outer correction.
+> 2. **⭐ Highway geography.** **Hwy 4, Hwy 7-ext and Hwy 37 converge at the Sayowa Junction. Highways are
+>    land routes; they cannot converge on a 2 km island.** A mainland city makes the junction — already
+>    canon as sitting *near* the city, linked by the Sayowa Spur — natural rather than awkward.
+> 3. **⭐⭐ The split was already in canon.** §15: *"architecture reads as **two physical halves: industrial
+>    (fabrication/dispatch) and residential**."* **This makes that split geographic without rewriting it.**
+> 4. **Precedent, twice ruled.** **Sanay** *(city inland at Vesleskarvet, port coastal, joined by the Sanay
+>    Corridor)* and **Signy** *(homes on Coronation, work on Signy Island)*. **Sayowa is the third instance.**
+>
+> **The crossing:** at **4 km, sheltered inside Lützow-Holm Bay**, a fixed causeway is plausible, and the
+> strait carries **fast ice** much of the year, so a seasonal ice road works regardless *(the Fort McMurdo /
+> Dry Valleys mechanism)*. **⚠ This does NOT pre-empt Dumont d'Urville's deliberately-open bridge question** —
+> DdU's crossing faces Adélie Land katabatics at 300 km/h, Ongul Strait is sheltered water. **Different
+> engineering problems.**
+>
+> **⚠ THE POPULATION CAP IS KEPT** *(developer ruling, same date)*. **Sayowa is not a large city that happens
+> to have a port — it is a small population running an enormous industrial port.** The cap is now a *choice
+> about what the city is*, not a consequence of island area.
+>
+> ### ⭐⭐⭐ WHAT SAYOWA MAKES — the open question, answered
+>
+> **Sayowa was the INTAKE SOURCE that supplied much of the raw construction material that built MAWSON** —
+> and later **Shirayuki, Sinheung and Zhongshan.** *(Developer, 2026-09-02.)* **The material comes in through
+> the island port, is fabricated on the industrial half, and goes out by highway.**
+>
+> **⏸️ Highway sequence:** the city **connected initially to TWO highways, and later to three.** *(The
+> natural reading, flagged as inference: **Hwy 4 and Hwy 37 first**, with **Hwy 7-ext — the only highway with
+> confirmed construction dates, 2611–2614 — arriving third** and completing the junction. Not developer-stated;
+> confirm before relying on it.)*
+
+Sayowa sits on the mainland Sôya Coast of Lützow-Holm Bay, with **East Ongul Island — a ~2 km island ~4 km offshore across Ongul Strait — as its heavily industrialized shipping port.** The bay is sea-ice covered in winter and accessible by icebreaker in summer, and the strait's fast ice carries surface traffic for much of the year.
 
 At longitude 39°35'E, Sayowa is the westernmost city in the Mawson subnet, positioned close to the geographic boundary with the Halley subnet cities in eastern Queen Maud Land. The connection between Sayowa and the nearest Halley subnet city (Princess Elisabeth, at 23°21'E — corrected 2026-07-03 from "Princess Elizabeth," matching the established Belgian spelling used throughout the rest of the repo) is the most geographic-adjacent inter-subnet proximity in Tepenia, formalized as the Hwy 7-ext connection.
 

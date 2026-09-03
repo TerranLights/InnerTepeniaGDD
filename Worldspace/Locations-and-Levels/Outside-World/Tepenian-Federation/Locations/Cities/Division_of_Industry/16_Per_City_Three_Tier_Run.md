@@ -3053,6 +3053,94 @@ accepted by the developer.** **Fort McMurdo adjusted to full marine; see §29.**
 
 ---
 
+# ▓▓ MAWSON SUBNET ▓▓
+
+*Janbogo subnet closed at **six determined** — Dumont d'Urville · Denison · Cape Adare · Zukelli · Janbogo ·
+Fort McMurdo · Scott — with **Concordia deferred by developer ruling.***
+
+---
+
+## 31. ✅ SAYOWA — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.43, **GROWER** — rock-founded, food term 100%)* | 70,244 | **39.3%** |
+| **Mandated** | 59,650 | **33.4%** |
+| **FREE — the character budget** | 48,804 | **27.3%** |
+
+**Distinctive tier: 108,454 (60.7%).** Canon §15 *(revised 2026-07-06)*: Industrial fabrication 30% ·
+Trucking & dispatch 25% · Scientific research 20% · Maritime trade 15% · Leisure/commercial 5% · Other 5%.
+
+### The mandate *(developer ruling A, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **30%** | 32,536 | **Industrial fabrication** | ✅ `04` §3 **FABRICATION · TRUCKING** provider |
+| **25%** | 27,114 | **Trucking & dispatch — the Sayowa Junction** | ✅ Canon §15 + *"the whole continent's connectivity plausibly depends on it"* |
+| **55%** | **59,650** | | |
+
+**⚠ The analyst recommended B *(+ maritime 15% = 70%)*, reading the new mainland canon as making port →
+fabrication → dispatch one chain. The developer ruled A.** **A is the more conservative reading and
+defensible on the file's own terms: §15 annotates maritime only as *"Lützow-Holm Bay access,"* and treating
+that sector as the intake stage is inference, not canon.**
+
+### ⭐⭐ THE FABRICATION QUESTION — RAISED AND ANSWERED IN THE SAME SESSION
+
+**During this determination the analyst flagged that `04`'s FABRICATION listing rested on thinner evidence
+than its peers:**
+
+| Provider | What canon says about where the output goes |
+|---|---|
+| Rothera | *"components used across the whole subnet, plausibly reaching every subnet city"* |
+| Sinheung | chambers *"shipped nationwide"* |
+| **Sayowa** *(before 2026-09-02)* | **— nothing. `Specs` never said what it fabricated.** |
+
+> ### **The developer answered it the same day, and it is now the strongest reach statement of the three:**
+> ***Sayowa was the INTAKE SOURCE that supplied much of the raw construction material that built MAWSON —
+> and later Shirayuki, Sinheung and Zhongshan.*** `[CGRM 2026-09-02 · Path 6]`
+>
+> **The cities are the evidence.**
+
+### ⭐⭐⭐ And the city's geography was re-established the same day
+
+> **`[CGRM 2026-09-02 · Path 6]` — SAYOWA THE CITY IS ON THE MAINLAND Sôya Coast. EAST ONGUL ISLAND IS ITS
+> PORT** — *"a very, very sparsely-populated, very, very extremely heavily-industrialized shipping port."*
+
+**Researched grounds:** East Ongul is **~2 km long (~4–5 km²)**, ~4 km offshore across **Ongul Strait**;
+225,376 people on that island is **~50,000/km²**, the implausibility class that forced the Cape Adare
+correction. **Three highways — Hwy 4, Hwy 7-ext, Hwy 37 — converge at the Sayowa Junction, and highways
+cannot converge on a 2 km island.** The mainland shore carries **Langhovde (50 km²)** and **Skarvsnes (the
+largest ice-free area in the Lützow-Holm Bay region)**.
+
+**⚠ The population cap is KEPT.** ***Sayowa is not a large city with a port — it is a small population running
+an enormous industrial port.*** **The cap is now a statement about what the city is, not a consequence of
+island area.**
+
+*(Full record, with the four supporting arguments and the crossing analysis, in `Specs/Sayowa.md`'s Geographic
+Basis.)*
+
+### What stays FREE
+
+- **Scientific research 20%** — *"inherited JARE tradition."* Heritage research.
+- **Maritime trade 15%** — *"Lützow-Holm Bay access."* **Unannotated as a national role** — see the ruling
+  note above.
+- **Leisure/commercial 5%** — canon calls it *"a genuine but distinctly secondary sector, well behind the
+  industrial core."*
+- **Other 5%.**
+
+### Notes
+
+- **⭐ The Sayowa Junction sits NEAR the city, not inside it**, linked by the dedicated **Sayowa Spur** — the
+  same structure as the Port of Sanay. **⏸️ The city connected to TWO highways initially and three later**
+  *(sequence not developer-stated; the natural reading is Hwy 4 + Hwy 37 first, with Hwy 7-ext third at
+  2611–2614 — **flagged as inference**)*.
+- **⚠ Founding-nation dilution:** **Japan founded this city and is down to 2.71%**, while **China is Primary
+  at 17.39%.** Canon reads Shirayuki's Japan-Primary status *(36.27%)* as *"plausibly a deliberate diplomatic
+  hedge by Japan anticipating Sayowa's dilution"* — **a founding nation that saw it coming and planted a
+  second city.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
