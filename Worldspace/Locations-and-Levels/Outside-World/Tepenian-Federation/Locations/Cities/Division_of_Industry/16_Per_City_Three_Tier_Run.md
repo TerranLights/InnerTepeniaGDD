@@ -2511,6 +2511,37 @@ error.** **Step 4 is the game itself** — ***this is the single costliest place
 - **Prerequisite:** the district culture work — the 13-district development plan and its runbook — **is
   upstream of this determination**, not parallel to it.
 
+### ⭐⭐ WHY the two directions differ — the developer's own rationale, 2026-09-02
+
+> ***"Because the cities are locations in DLCs, it's easier to develop them top-down, having a broad-scale
+> view of what sorts of places they're like, and then build the cities distinct from each other. On the
+> flipside, because Concordia IS the game, I really want to make sure that each of the 12 districts (plus the
+> Central Hub) are fully and entirely distinct, so that eventually, when Inner Tepenia is available on Steam,
+> the player doesn't feel as though he's playing the same game 12 times with 12 different paint jobs."***
+
+**This is not a methodology inconsistency. It is two different jobs:**
+
+| | **The 36 cities** | **Concordia's 13 districts** |
+|---|---|---|
+| **What they are** | **Locations in DLCs** | ***THE GAME*** |
+| **Method** | **Top-down** — broad-scale view first, then build them distinct from one another | **Bottom-up** — each district fully distinct first, and the city is what they add up to |
+| **Why** | A broad view is what LETS you differentiate them | **The player will experience all thirteen in one playthrough** |
+| **Failure mode guarded against** | Cities blurring into one another across a long DLC roster | ***"Playing the same game 12 times with 12 different paint jobs"*** |
+
+> ### ⭐ **This turns "well-defined" into a TESTABLE bar rather than a vague one.**
+> **The district work is finished when no two districts read as reskins of each other — not when each has
+> been written up.** *A district can be thoroughly documented and still fail this test.*
+
+**⚠ And the concern is already institutionalized elsewhere in this project.** `CLAUDE.md` requires the
+**`Cross_District_Differentiation_Table.md`** column to be filled **in the same commit** that completes a
+category, calling it ***"the only mechanical guard against thirteen districts quietly converging"*** — and
+records that **Gate 6b has already failed once without it.** **The deferral above and that table are
+defending the same thing from opposite ends.**
+
+> **⚠ Standing note for the district work:** `02_Cross_City_Industry_Differentiation_Table.md` — this pass's
+> own equivalent — **is still empty** *(flagged in "Still open after Half B")*. **The district table's
+> discipline has not yet been applied to the cities.**
+
 ---
 
 ## 📋 END-OF-PASS REVIEW REGISTER
