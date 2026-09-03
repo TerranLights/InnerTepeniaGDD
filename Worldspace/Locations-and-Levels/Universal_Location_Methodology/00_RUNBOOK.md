@@ -430,7 +430,7 @@ learns *where* to look without ever being exposed to *what is there*.**
 | File path — **⚠ ONLY IF THE NAME IS NEUTRAL. See the rule below.** | **Section headings** — *"§30 — Why \[Location] Is The \[Adjective] One"* contaminates as thoroughly as the paragraph |
 | Line range | Quotes, excerpts, paraphrase |
 | **⭐ CHARACTER range within a line — `L142 :: chars 1–37`** — **required wherever the seam falls mid-line.** See below | A range whose stated bounds do not actually exclude the conclusion |
-| **One tag: `ADMISSIBLE` or `WITHHELD`** | Summaries, characterizations, or a closing report of what was found |
+| **One tag: `ADMISSIBLE` · `WITHHELD` · `INERT` · `BOUNDARY`** *(see the tag set below)* | Summaries, characterizations, or a closing report of what was found |
 | *(optionally)* which generator a range supplies — `G2`, `G5`, `G8`… | Counts described qualitatively *("mostly about the drinking culture")* |
 
 > ### ⚠⚠ A FILENAME IS A SECTION HEADING. *(Vector 3 — found on this contract's first live use, Run 12, 2026-09-02.)*
@@ -558,6 +558,45 @@ learns *where* to look without ever being exposed to *what is there*.**
 > **⚠ It must state the file's own total `N`, not merely claim "complete"** — mid-table truncation leaves
 > surviving rows that still tile a plausible sub-range, and only a declared total catches that.
 >
+> ### ⛔⛔ THE TAG SET IS FOUR, NOT TWO. A missing NEUTRAL tag collapses unanimity. *(M-101, defect 1.)*
+>
+> | Tag | Meaning | Counts toward unanimity? |
+> |---|---|:--:|
+> | **`ADMISSIBLE`** | Attribute-tier content | ✅ **yes** |
+> | **`WITHHELD`** | Conclusion-tier content | ✅ **yes** |
+> | **`INERT`** | **Blank line · horizontal rule · table separator.** ***Carries no content and cannot contaminate anything*** | ⛔ **NO — excluded from unanimity AND from every statistic** |
+> | **`BOUNDARY`** | **Genuinely borderline CONTENT.** Reserved for its actual meaning | ⛔ no — works the ladder |
+>
+> **⚠⚠ A HEADING IS NOT INERT.** ***A section heading contaminates as thoroughly as the paragraph it names***
+> — this contract's own founding rule, and M-88. **Headings are tagged `ADMISSIBLE` or `WITHHELD` like any
+> other content and stay in the unanimity computation.**
+>
+> **Why this is not a nicety:** **on the first contract-identical dispatch, one reader tagged structural lines
+> `BOUNDARY` and another tagged them `ADMISSIBLE` — both defensibly, because the contract had no right
+> answer.** ***Under unanimity every one of those lines becomes `WITHHELD`. 41.6% of that location's lines
+> were blank, rule or separator*** *(one file: 56.6%)*. **A contract defect would have withheld half the
+> corpus over lines incapable of carrying a conclusion.**
+>
+> ### ⭐ AND THE TECHNIQUE THAT DIAGNOSED IT — A SCRIPT AS AN ISOLATED READER
+>
+> > ***A regex classifier reads the file and reports only a CLASS per line. The script sees the text; you see
+> > the classification.***
+>
+> **This is `§C.2`'s exact principle implemented without an agent — deterministic, instant, free, and
+> incapable of leaking because it has no channel through which to leak.** **Use it for every structural
+> question** *(is this line blank · a heading · a table row · how long is it)* **and reserve subagents for
+> questions that need judgment.** **It found that 93.5% of one reader's `BOUNDARY` tags were structural
+> rather than disputed — a distinction no amount of re-reading the map could have recovered.**
+>
+> ### ⚠ AND FIX THE LINE-COUNTING CONVENTION, OR COVERAGE ASSERTIONS FALSE-ALARM *(M-101, defect 2.)*
+>
+> **Two readers asserted `1-162` and `1-163` for the same file. Both honest** — it has 162 newlines plus a
+> trailing one, so `wc -l` says 162 and a naive split yields 163. ***M-96 has the consumer verify coverage
+> against the pin, so this produces a FALSE `STALE` on a perfectly good map.***
+>
+> > **The convention is `wc -l` — the count of newline characters.** **State it in the brief, and use it for
+> > the `§C.4` pin so the two always agree.** **The pin's `sha256` catches any real change regardless.**
+
 > ### ⚠ Resending is not amending — but it has its own hazard
 >
 > **Asking a reader to resend lost output is NOT a contract amendment** *(contrast M-93, which was, and was

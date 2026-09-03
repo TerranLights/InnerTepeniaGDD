@@ -3212,3 +3212,80 @@ readiness rests on runs against the top ~14% of its corpus by development.***
   wanted.**
 - ***Do not treat "no Gate 6 available" as a reason to skip thin locations.*** **That is the selection
   mechanism operating.**
+
+---
+
+# M-101 — ⭐⭐ THREE DEFECTS IN THE §C.2 RETURN CONTRACT, found by running three contract-identical readers —
+plus a self-correction to M-95's published withheld-rate
+
+**Found 2026-09-02/03, Run 13's coordinate map (Shirayuki).** ***This is what the contract-identical dispatch
+was for: Casey's three readers ran under three different briefs, so its disagreements were unattributable.
+These three ran under one brief, and the disagreements are therefore diagnostic of the CONTRACT.***
+
+## Defect 1 — ⛔ THE TAG SET HAS NO NEUTRAL CATEGORY, AND UNANIMITY COLLAPSES WITHOUT ONE
+
+**The contract offers `ADMISSIBLE` / `WITHHELD` / `BOUNDARY`.** ***It has no tag for a line that carries no
+content at all*** — a blank line, a horizontal rule, a table separator.
+
+**The readers resolved this differently, and both resolutions are defensible:**
+
+| Reader | Structural lines tagged | Consequence |
+|---|---|---|
+| **2** | **`BOUNDARY`** — 93 of them in one file | Reads as "disputed" to the consumer |
+| **3** | **`ADMISSIBLE`** *(no `BOUNDARY` used at all)* | Reads as "safe to open" |
+
+> ### ***Under 3-of-3 unanimity, every structural line becomes non-unanimous and therefore `WITHHELD`.***
+> **41.6% of this location's mapped lines are blank, rule, or separator** *(one file is 56.6%)*. **A contract
+> defect would have withheld nearly half the corpus over lines that cannot contaminate anything.**
+
+**⭐ Diagnosed with a new technique — A SCRIPT AS AN ISOLATED READER.** **A regex classifier read the files
+and reported only a CLASS per line** — `BLANK` / `HEADING` / `HRULE` / `TABLE-SEP` / `CONTENT`. ***The script
+saw the text; the session saw only the classification.*** **This is `§C.2`'s exact principle implemented
+without an agent: deterministic, free, instant, and incapable of leaking because it has no channel to leak
+through.** **Result: 93.5% of reader 2's `BOUNDARY` tags were structural, not disputed — only 6 were genuine.**
+
+**THE FIX, implemented in `§C.2`:**
+- **Add a fourth tag, `INERT`** — blank, rule, separator. **Excluded from unanimity and from every statistic.**
+- **⚠ `HEADING` is NOT inert.** **A heading contaminates as thoroughly as its paragraph** (`§C.2`'s own
+  founding rule, and M-88). **Headings stay in the unanimity computation.**
+- **Reserve `BOUNDARY` for its actual meaning** — genuinely borderline content.
+
+## Defect 2 — ⚠ THE COVERAGE ASSERTION HAS NO LINE-COUNTING CONVENTION
+
+**Reader 2 asserted `1-162`. Reader 3 asserted `1-163`. On the same file. Both honest.**
+
+**The file has 162 newlines and a trailing newline, so `wc -l` says 162 and `split("\n")` yields 163 elements,
+the last empty.** ***M-96 requires the consumer to verify coverage arithmetically against the pin — and this
+would have produced a FALSE STALE on a perfectly good map.***
+
+**THE FIX:** ***the convention is `wc -l` — the count of newline characters*** — **stated in the brief, and
+used for the `§C.4` pin so the two always agree.** **A file not ending in a newline is the one case where
+they diverge; the pin's `sha256` catches any real change regardless.**
+
+## Defect 3 — self-correction: M-95's PUBLISHED WITHHELD-RATE COUNTED INERT LINES
+
+> ### **What I believed:** that Casey's withheld-rate — *"49.6% admissible, 50.4% withheld, half the attribute
+> surface unusable"* — measured attribute surface.
+> ### **Why it was wrong:** **the denominator was every line in the file, including 287 blank, rule and
+> separator lines.** ***A blank line is not attribute surface that has been withheld. It is not attribute
+> surface.***
+> ### **What changed it:** classifying the same files structurally while diagnosing defect 1.
+
+| Casey | Raw *(published)* | **Corrected** |
+|---|--:|--:|
+| `Specs/Casey.md` | 82.7% admissible | **85.0%** |
+| `Casey_Physical_Infrastructure_Attributes.md` | 45.2% | **43.7%** |
+| `Local_Cultures/…/Casey.md` | 30.5% | **31.5%** |
+| **TOTAL** | **49.6% adm / 50.4% withheld** | **52.2% adm / 47.8% withheld** |
+
+**⭐ And the honest second half: the conclusion SURVIVED the correction.** **"Roughly half of a completed
+culture sheet's surface is conclusion-tier" holds at 47.8% as it did at 50.4%**, because the inert lines were
+distributed across admissible and withheld regions at similar rates rather than clustering. ***Recording both
+halves matters: the method was wrong and the finding was robust, and compressing that into either "it was
+fine" or "it was wrong" would lose the actual lesson*** — **which is that a statistic can be computed
+incorrectly and still be directionally sound, so the correction must be published rather than quietly
+applied.**
+
+**All three defects are contract-level, not reader-level. Every reader behaved reasonably.** ***That is the
+argument for contract-identical dispatch (M-93): when briefs differ, a defect in the brief is invisible,
+because it looks like reader variance.***

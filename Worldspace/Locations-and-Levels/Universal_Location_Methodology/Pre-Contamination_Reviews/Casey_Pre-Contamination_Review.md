@@ -83,17 +83,30 @@ Worldspace/.../Cities/City_Megasheets/Mirny_Subnet/Casey/Casey_Physical_Infrastr
 
 ## 5a. The withheld-rate — a statistic about the CORPUS, not about the run (`§C.2` step 4)
 
-| File | Lines | **ADMISSIBLE (3–0)** | **WITHHELD** | of which unanimous | of which **SPLIT** |
-|---|--:|--:|--:|--:|--:|
-| `Specs/Casey.md` | 191 | **82.7%** | 17.3% | 5.2% | **12.0%** |
-| `Casey_Physical_Infrastructure_Attributes.md` | 166 | **45.2%** | 54.8% | 32.5% | **22.3%** |
-| `Local_Cultures/Mirny_Subnet/Casey.md` | 292 | **30.5%** | 69.5% | 25.7% | **43.8%** |
-| **TOTAL** | **649** | **49.6%** | **50.4%** | 22.3% | **28.0%** |
+> ### ⚠ CORRECTED 2026-09-03 (M-101 defect 3). **The first published version of this table counted blank
+> lines, horizontal rules and table separators in its denominator.** ***A blank line is not attribute surface
+> that has been withheld — it is not attribute surface.*** **287 of 649 lines were inert.** Both columns are
+> shown, because the raw figures were published and a silent fix would hide the error.
 
-> ### ⭐⭐ **HALF OF CASEY'S MAPPED ATTRIBUTE SURFACE IS UNUSABLE UNDER UNANIMITY.**
+| File | Lines | Content lines | **ADMISSIBLE — corrected** | *(raw, as first published)* |
+|---|--:|--:|--:|--:|
+| `Specs/Casey.md` | 191 | 113 | **85.0%** | *82.7%* |
+| `Casey_Physical_Infrastructure_Attributes.md` | 166 | 119 | **43.7%** | *45.2%* |
+| `Local_Cultures/Mirny_Subnet/Casey.md` | 292 | 130 | **31.5%** | *30.5%* |
+| **TOTAL** | **649** | **362** | **52.2% adm · 47.8% WITHHELD** | *49.6% / 50.4%* |
+
+**Split/unanimous breakdown of the withheld portion** *(raw line basis, uncorrected)*: `Specs` 5.2% unanimous
+/ 12.0% split · `Attributes` 32.5% / 22.3% · `Local_Cultures` 25.7% / **43.8%** · total 22.3% / **28.0%**.
+
+> ### ⭐⭐ **ROUGHLY HALF OF CASEY'S CONTENT-BEARING SURFACE IS CONCLUSION-TIER.**
 > **`§C.2` step 4 is explicit that this is a finding about the SOURCES, not about the run:** *"the files are
-> badly mixed and want real upstream splits per `§C.1`."* ***This is the first time that statistic has been
-> measured on any location in this project.***
+> badly mixed and want real upstream splits per `§C.1`."* ***First time this statistic has been measured on
+> any location in this project.***
+>
+> **⭐ And the finding SURVIVED its own correction** — 47.8% where 50.4% was claimed — **because the inert
+> lines fell across admissible and withheld regions at similar rates rather than clustering.** ***The method
+> was wrong and the conclusion was robust; both halves are recorded, because compressing this into either
+> "it was fine" or "it was wrong" loses the lesson.***
 
 **The stratification tracks the tier ordering exactly, which is itself a validation:** **`Specs/` is the
 cleanest tier (82.7% admissible), the "attributes" megasheet sits in the middle (45.2%), and the completed
