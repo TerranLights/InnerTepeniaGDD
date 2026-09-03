@@ -710,6 +710,39 @@ learns *where* to look without ever being exposed to *what is there*.**
 >    ***Trust the reader's range. It is the only party that can see both sides.***
 > 3. **`06_Worked_Example_Provenance.md` records RANGES for worked examples**, never bare line numbers.
 
+> ### ⭐⭐⭐ THE MAP GOES TO DISK. THE READER RETURNS A RECEIPT. *(M-107 — supersedes returning maps inline.)*
+>
+> **A re-dispatched reader hit `max_output_tokens` (64,000) mapping four files of ~1,400 lines at span
+> granularity.** ***The contract cannot express a map that large*** — **a span map costs about one row per tag
+> change, which on mixed sources approaches one row per line.** **`§C.2` was specified around WHAT a reader
+> may return and never around HOW MUCH.**
+>
+> > ## **DEFAULT FOR ANY MAP OVER ~200 LINES: the reader WRITES the map to a file and returns ONLY a receipt.**
+>
+> **The receipt is: output path · line count · tag counts · the `COVERAGE` line · the `MANIFEST` line. Nothing
+> else.** **A script then consumes the map and produces the extract.**
+>
+> | | Map returned inline | **Map written to disk** |
+> |---|---|---|
+> | Size limit | **64,000 tokens — reachable in normal use** | **none that matters** |
+> | Coordinating session's exposure | **the entire map enters its context** | ***counts only*** |
+> | Consumer | a session hand-retyping tables into a script | **a script reading JSON** |
+> | Transcription error | **real, and silent** | ***structurally impossible*** |
+>
+> ### ⚠ The second row is the point. ***The coordinating session never needed the map at all.***
+> **It was carrying thousands of coordinate rows solely to retype them** — spending context and accepting a
+> live transcription-error risk **in the one artifact whose whole value is being trustworthy.**
+> ***This is M-101's script-as-isolated-reader principle applied to the map itself: the fewer parties that
+> handle the data, the fewer chances to corrupt or leak it — and a script has neither failure mode.***
+>
+> **Schema:**
+> ```json
+> {"file":"<name>","n":387,"ranges":[[1,1,"A","G1"],[2,2,"I","-"],[3,9,"W","-"]]}
+> ```
+> **Tags `A`/`W`/`I`/`B`; char-spans as `[line,line,"A","G2",start,end]`.** **One JSON per reader per source
+> file**, which also keeps each write small enough that a reader running short can complete some files and
+> declare the rest unreached (M-106).
+
 > ### ⚠ Resending is not amending — but it has its own hazard
 >
 > **Asking a reader to resend lost output is NOT a contract amendment** *(contrast M-93, which was, and was

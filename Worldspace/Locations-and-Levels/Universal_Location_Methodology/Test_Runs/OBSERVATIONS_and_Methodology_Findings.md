@@ -3579,3 +3579,64 @@ requiring them, and leaving the generator field blank on many rows.
 **Consequence for the extract:** **Palmer has three readers and can be confirmed. The other four files have
 two, which is not a 3-0 verdict** — a re-dispatch was issued for those four rather than quietly lowering the
 threshold to a majority. ***Yield is recovered by adding readers, never by relaxing unanimity*** (`§C.2`).
+
+---
+
+# M-107 — ⭐⭐ THE §C.2 RETURN CONTRACT HAS A HARD SIZE CEILING, AND IT IS REACHED IN NORMAL USE. **Readers
+should WRITE the map to disk and return only a receipt**
+
+**Found 2026-09-03. A re-dispatched reader terminated with `max_output_tokens` — 64,000 — mapping four files
+totalling 1,414 lines at character-span granularity.** ***Not a reader failure. The contract cannot express a
+map that large.***
+
+## The arithmetic nobody had done
+
+**A span-level map costs roughly one table row per tag change.** On genuinely mixed sources that approaches
+**one row per line**, and character-splitting multiplies it further. **~1,400 lines produced enough rows to
+exhaust a 64,000-token budget** — and the City Master Reference is only 1,815 lines. ***Any corpus-scale
+mapping task hits this immediately.***
+
+> ### **`§C.2` was designed around WHAT a reader may return and never around HOW MUCH.** **The strictness that
+> makes it safe — coordinates for every span, no summarizing — is exactly what makes it unbounded in size.**
+
+## ⭐ The fix, and it makes the protocol SAFER rather than merely bigger
+
+***The map does not need to pass through anyone's context. It is data for a script.***
+
+> ## **THE READER WRITES THE MAP TO A FILE AND RETURNS ONLY A RECEIPT.**
+>
+> **Return: the output path, the line count, the tag counts, the coverage assertion, and the `MANIFEST` line.
+> Nothing else.** **A script then consumes the map and produces the extract.**
+
+| | Old — map in the response | **New — map on disk** |
+|---|---|---|
+| Size limit | **64,000 tokens, reachable** | **None that matters** |
+| Coordinating session's exposure | The entire map enters its context | ***Nothing but counts*** |
+| Consumer | A session hand-transcribing tables into a script | **A script reading JSON** |
+| Transcription error risk | **Real, and silent** | ***Structurally impossible*** |
+
+**⚠ The second row is the important one.** ***The coordinating session never needed the map.*** **It was
+carrying thousands of coordinate rows purely to retype them into a comparison script** — **effort, context,
+and a live transcription-error risk in a file whose entire value is being trustworthy.** **Under the new
+contract the session learns only *"file written, 387 lines, 210 admissible."***
+
+**This is M-101's script-as-isolated-reader principle applied to the map itself:** ***the fewer parties that
+handle the data, the fewer chances to corrupt or leak it — and a script is the party with neither failure
+mode.***
+
+## Schema adopted
+
+```json
+{"file":"<name>","n":387,"ranges":[[1,1,"A","G1"],[2,2,"I","-"],[3,9,"W","-"]]}
+```
+
+**Tags `A`/`W`/`I`/`B`.** **Char-spans as `[line, line, "A", "G2", start, end]`.** **One JSON file per reader
+per source file** — which also keeps each write small enough that a reader running short can finish some
+files completely and declare the rest unreached (M-106).
+
+## ⚠ Honest note on what this cost
+
+**Two dispatch rounds and one hard failure before the constraint was visible** — **and three earlier readers'
+maps were carried through a session's context in full for no reason at all.** ***The contract had been
+stress-tested for correctness and never for volume, which is the same blind spot M-104 describes: the control
+was specified along the axis its author was worried about.***
