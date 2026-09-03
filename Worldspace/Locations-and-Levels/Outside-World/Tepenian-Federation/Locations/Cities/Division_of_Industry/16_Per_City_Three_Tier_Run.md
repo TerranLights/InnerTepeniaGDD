@@ -348,7 +348,7 @@ humans.** **Excluding all three, the real-city range is 23.4% (Fort McMurdo) to 
 |---|--:|---|
 | Denison · Princess Elisabeth · Cape Adare · Sejong | **25%** | wind engineering · energy engineering · Ross Sea gateway + phosphate · international gateway |
 | ~~Zhongshan~~ · Dome Fuji | ~~20%~~ · 20% | ~~the Tri-Cities' port~~ **(withdrawn — see §18)** · seed archive + ice-core |
-| Concordia | 15% | the national crossroads |
+| Concordia | ~~15%~~ **⏸️ DEFERRED — estimate only, do not promote** | the national crossroads *(see the CONCORDIA — DEFERRED block)* |
 | {{Abowasa}} | 10% | commuter labor |
 | Scott · Port Lockroy | 5% | volcanic extraction · courier node |
 
@@ -2475,6 +2475,44 @@ The Adélie colonies are *"a defining daily-life feature — **food supplement +
 
 ---
 
+# ⏸️⏸️ CONCORDIA — DEFERRED BY DEVELOPER DIRECTION, 2026-09-02
+
+> ***"I'd like to hold off on Concordia until we've been able to develop every one of the districts to a very
+> well-defined degree, since that will determine the municipal division-of-industry character, which will
+> then determine what sort of post-war condition the city will end up in, which will then determine the
+> setting of the actual game."***
+
+### ⭐⭐ Why this is not just another deferral — the dependency runs BACKWARDS here
+
+**For all 36 other cities, this pass runs TOP-DOWN:** the city's §15 and national role are read first, and
+the determination then informs the city's character.
+
+> ### **Concordia runs BOTTOM-UP. Its thirteen districts determine the city, not the reverse.**
+
+**The chain the developer stated, in order:**
+
+| | Step | Determines |
+|---|---|---|
+| **1** | **All 13 districts developed to a well-defined degree** | → |
+| **2** | **The municipal division-of-industry character** | → |
+| **3** | **What post-war condition the city ends up in** | → |
+| **4** | ***THE SETTING OF THE ACTUAL GAME*** | |
+
+**Running Concordia now would mean deriving step 2 without step 1, and every step downstream inherits the
+error.** **Step 4 is the game itself** — ***this is the single costliest place in the whole roster to guess.***
+
+### What this means for the pass
+
+- **Concordia is NOT determined**, and its Half A/B estimate *(15%, rated "reasonable by analogy")* **stands
+  as an estimate only — do not promote it.**
+- **The Janbogo subnet will close INCOMPLETE**, alongside Halley *(Lazar)*.
+- **The national re-run** *(ABCC values + the §15 denominator, register items 11 and 15's companions)*
+  **must treat Concordia as an open cell**, not a filled one.
+- **Prerequisite:** the district culture work — the 13-district development plan and its runbook — **is
+  upstream of this determination**, not parallel to it.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -2497,3 +2535,4 @@ The Adélie colonies are *"a defining daily-life feature — **food supplement +
 | 14 | **Davis** | **Set to Option B — agriculture 35% + HALF technical/scientific 12.5%. Mandate 28.2%, free 31.1%** | ⏸️ **Marked for review after all cities are determined**, per developer direction — *"just in case we need to figure on adjusting stats in some cities."* **Alternatives precomputed:** **A** *(agriculture only)* mandate 20.7% / free 38.5% · **C** *(+ full technical)* mandate 35.6% / free 23.7% · **D** *(B + half maritime)* mandate 32.6% / free 26.7%. **The half-technical rests on the Signy precedent** — a capped national resource needs someone who knows its limits — **applied on land to the Breadbasket** |
 | 15 | **Kunlun** | **Set to HALF astronomy + HALF ice core. Mandate 26.8%, free 44.6%** | ⏸️ **Marked for review by the developer, who is weighing TWO-THIRDS of each instead** — precomputed: **mandate 44,072 (35.7%) / free 44,072 (35.7%)**, exactly equal. **The developer's own reason for holding at half:** *"having a 44% free budget would allow for other scientific research that I may not have thought of."* **Also depends on an unsettled premise** — the near-Earth observatory focus is explicitly *"tentative, not firmly settled"* (2026-07-06) |
 | 16 | **`04` — internal inconsistency** | **Dumont d'Urville appears in `04`'s national FOOD TALLY (28,463 producers) but NOT in `04` §3's provider LIST** | Found during DdU's determination. **The tally figure is load-bearing** — it sits inside the ~835,000 total behind the headline *"1 food producer per ~19 people"*; without it the ratio is 1 per 19.4. **Whether `04` §3's provider list should gain Dumont d'Urville, or the tally should lose it.** *(The mandate has been set on the tally's side.)* |
+| 17 | **⏸️ CONCORDIA — DEFERRED** | **Not determined, and deliberately so.** Its 13 districts must be well-defined FIRST, because they determine the municipal DoI character → the post-war condition → **the setting of the actual game** | **The dependency runs backwards here: bottom-up, where every other city is top-down.** Its 15% Half A/B estimate **stands as an estimate only — do not promote it.** **District culture work is UPSTREAM of this, not parallel.** The national re-run must treat Concordia as an **open cell** |
