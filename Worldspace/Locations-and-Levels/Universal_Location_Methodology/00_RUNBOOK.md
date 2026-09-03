@@ -620,6 +620,26 @@ learns *where* to look without ever being exposed to *what is there*.**
 > **⚠ It must state the file's own total `N`, not merely claim "complete"** — mid-table truncation leaves
 > surviving rows that still tile a plausible sub-range, and only a declared total catches that.
 >
+> ### ⛔ AND A MANIFEST LINE, BECAUSE COVERAGE CANNOT DETECT A MISSING FILE *(M-106.)*
+>
+> ***A coverage assertion is scoped to the file it names. Silence about a file is not a failed assertion — it
+> is no assertion.*** **A reader dispatched against five files mapped one, and emitted a perfectly valid
+> coverage line for it.** **M-96 catches truncation WITHIN a file and is structurally blind to omission OF
+> one.**
+>
+> **So every multi-file return closes with:**
+>
+> ```
+> MANIFEST: mapped <k> of <n> files — <files mapped>; not reached — <files or "none">
+> ```
+>
+> **and the consumer checks the COUNT before checking any tiling.**
+>
+> **⚠ Give readers a sanctioned way to fall short.** State in the brief: ***"map fewer files COMPLETELY and
+> say which you did not reach — a complete map of two files plus an honest omission beats four partial
+> maps."*** ***A reader with no permitted way to report running short will silently return whichever subset
+> it managed.***
+>
 > ### ⛔⛔ THE TAG SET IS FOUR, NOT TWO. A missing NEUTRAL tag collapses unanimity. *(M-101, defect 1.)*
 >
 > | Tag | Meaning | Counts toward unanimity? |

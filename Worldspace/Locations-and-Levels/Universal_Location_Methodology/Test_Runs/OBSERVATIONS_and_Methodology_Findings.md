@@ -3531,3 +3531,51 @@ outside it: an address that exists but whose internal reliability boundary is no
 channels in the leak register are about CONTAMINATION; this one is about CORRECTNESS — but the structure is
 identical, and it was found the same way: by someone asking whether the control actually covered what it
 appeared to cover.** ***The developer's check is the only reason it surfaced.***
+
+---
+
+# M-106 — ⚠⚠ A PER-FILE COVERAGE ASSERTION CANNOT DETECT A MISSING FILE. Add a manifest line
+
+**Found 2026-09-03, building the `§C.1` split extract for the City Master Reference.**
+
+**M-96 required every `§C.2` return to close each file's table with `COVERAGE: <file> 1-<N>, no gaps, no
+overlaps`, verified arithmetically by the consumer.** ***It worked. It also has a blind spot that was invisible
+until a reader fell into it.***
+
+**One of three readers, dispatched against five files, mapped ONE** — and emitted a **perfectly valid coverage
+assertion for that one file.** **The other four were not mentioned at all.**
+
+> ### ***A coverage assertion is scoped to the file it names. Silence about a file is not a failed assertion —
+> it is no assertion.*** **M-96 protects against truncation WITHIN a file and is structurally incapable of
+> detecting omission OF a file.**
+
+**Same shape as M-96 itself, one level out** *(M-104 again)*: **the control guarantees completeness at the
+granularity it names, and the gap appears at the granularity above it.**
+
+## The fix — implemented in `§C.2`
+
+**Every multi-file return closes with a MANIFEST line, and the consumer checks the COUNT before the tiling:**
+
+```
+MANIFEST: mapped <k> of <n> files — <files mapped>; not reached — <files or "none">
+```
+
+**And the brief must give readers an explicit honest-shortfall option:** ***"map fewer files COMPLETELY and
+say which you did not reach — a complete map of two files plus an honest omission is far more useful than four
+partial maps."*** **A reader with no sanctioned way to report running short will silently produce whichever
+subset it managed.**
+
+## ⭐ And a second observation, which the unanimity rule handled correctly
+
+**The incomplete reader was also markedly MORE PERMISSIVE than the other two on the file it did map** —
+tagging `ADMISSIBLE` several ranges both others tagged `WITHHELD`, using no character-spans despite the brief
+requiring them, and leaving the generator field blank on many rows.
+
+> ***A more permissive outlier is the dangerous direction — and 3-of-3 unanimity neutralized it completely.***
+> **Nothing that reader admitted could enter the extract unless both stricter readers agreed.** **This is the
+> asymmetric rule doing precisely the job M-93's arithmetic predicted, against a real outlier rather than a
+> hypothetical one.**
+
+**Consequence for the extract:** **Palmer has three readers and can be confirmed. The other four files have
+two, which is not a 3-0 verdict** — a re-dispatch was issued for those four rather than quietly lowering the
+threshold to a majority. ***Yield is recovered by adding readers, never by relaxing unanimity*** (`§C.2`).
