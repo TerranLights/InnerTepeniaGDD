@@ -8,6 +8,25 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+> # ⛔⛔ THIS FILE IS A TO-DO LIST. ONE LINE PER ITEM, PLUS A POINTER. NOTHING ELSE.
+>
+> **No findings. No write-ups. No discoveries. No narrative. No tables of results.**
+> ***If an entry is longer than about three lines, it is in the wrong file.***
+>
+> | It goes… | …here |
+> |---|---|
+> | A methodology finding | `Universal_Location_Methodology/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` |
+> | A rule or procedure change | the runbook it governs |
+> | A run's results | that run's own output folder |
+> | A canon gap | `Canon_Gap_Resolution_Method/Gap_Registry.md` |
+> | **A thing to do** | **here — one line** |
+>
+> ### ⚠ Read this banner, not the entries below it.
+> **This file is ~1,400 lines and most of it predates the rule** — **roughly 288 lines of counterexample for
+> every line of spec.** ***A session that infers the format from its neighbours will get it wrong, and one
+> already did (2026-09-03, +194 lines of write-up that were already recorded elsewhere).***
+
+
 # 🔺 NEXT UP — ULM. Two things, in order.
 
 > **⚠ This is the QUEUE. All detail lives in the files named below.** *(Corrected 2026-09-03: a session had

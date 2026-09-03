@@ -1441,6 +1441,11 @@ a gap to close.
 2. Add the location's **column to its differentiation set, in the same commit.**
 3. Update whatever tracker claims completion — **per Gate 0, list what the file actually contains, not a summary
    claim.**
+   > ### ⛔ **BUT PUT THE FINDING IN THE OBSERVATIONS LOG, NOT IN THE TRACKER.** *(M-109.)*
+   > **Gate 0's concern is OVERCLAIMING COMPLETION. It is not a licence to write substance into a queue.**
+   > ***A tracker entry is: what remains to be done, one line, plus a pointer to where the detail lives.***
+   > **The finding itself goes to `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` and nowhere else.**
+   > **If you have written more than ~3 lines into a tracker, you are writing in the wrong file.**
 4. **If this pass changed the methodology, update these files in the same commit**, and record **what was
    learned and on which location.** A methodology change that does not update the runbook has not been made —
    the next pass will follow the runbook, not the commit message.

@@ -3690,3 +3690,43 @@ escalation ladder on the seam lines, never by lowering the threshold.***
 **✅ Built:** Halley · Janbogo. **⏸️ 2-of-3 maps on disk, need one more reader:** Mawson_Byrd_Amundsen ·
 Mirny. **⏸️ No disk maps:** Palmer *(three inline maps were produced in an earlier round and exist only in a
 transcript — treat as unavailable and re-map)*.
+
+---
+
+# M-109 — ⚠ `Step 9` item 3's wording invited findings into TRACKERS, and a session accepted the invitation
+
+**Developer correction, 2026-09-03: *"you're writing your discoveries to the Weekly To-Do????"*** ***It had
+added 194 lines of finding write-ups to a file whose own header says it is "a short working shortlist… the
+queue, not a replacement for the fuller entries."*** **Every one of those findings already existed in this
+log, so it was duplication, not recording.**
+
+## The methodology's own contribution — the part that is fixable here
+
+**`Step 9` item 3 read:** *"Update whatever tracker claims completion — per Gate 0, list what the file
+actually contains, not a summary claim."*
+
+> ***"List what the file actually contains, not a summary claim" reads as an instruction to be EXPANSIVE in a
+> tracker.*** **Gate 0's actual concern is OVERCLAIMING COMPLETION** — *"done" written against a file that
+> isn't* — **and has nothing to do with how much detail a tracker carries.**
+
+**Fixed in place.** `Step 9` item 3 now states: **the finding goes to the observations log and nowhere else;
+a tracker entry is what remains to be done, one line, plus a pointer; more than ~3 lines in a tracker means
+you are writing in the wrong file.**
+
+## ⚠ And the other mechanism, which is M-104 again in a new domain
+
+**The file states its rule in 5 header lines and then presents ~1,400 lines of pre-existing narrative
+run-reports.** ***A ratio of roughly 288 lines of counterexample per line of rule.***
+
+> ### ***The session inferred the format from the neighbouring entries rather than from the header — the same
+> failure it had spent the session documenting.*** **A control checked against its surroundings instead of
+> against its specification.**
+>
+> **And the asymmetry that makes it near-inevitable: the header is read ONCE, at the start; the entries are
+> read constantly, every time the file is touched.** ***Exposure to the counterexample compounds; exposure to
+> the rule does not.***
+
+**Mitigated structurally rather than by intention:** **a hard banner now sits at the top of that file, above
+the counterexamples**, stating the format and naming the correct home for each content type. ***Putting the
+rule where the drift is, rather than only in a spec nobody re-reads, is the only version of this fix that
+survives contact with a long file.***
