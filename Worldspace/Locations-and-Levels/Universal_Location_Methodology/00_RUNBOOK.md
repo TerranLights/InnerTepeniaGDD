@@ -378,14 +378,40 @@ deriving pass opens it and is contaminated — **and the deriving pass cannot ve
 the very reading the map exists to prevent.** **The map's accuracy is load-bearing and cannot be checked by
 its consumer.**
 
-> ### **REQUIRED: dual independent tagging.**
-> **Two readers tag the same file independently. A range is `ADMISSIBLE` only where BOTH agree. Any
-> disagreement defaults to `WITHHELD`.**
+> ### **REQUIRED: TRIPLE independent tagging.** *(Developer ruling, 2026-09-02 — raised from two.)*
+> **Three readers tag the same file independently.**
 >
-> **This is the project's existing two-agent validation protocol**, and this is a near-perfect case for it —
-> that protocol exists because **self-audit error in this project has run in one direction on every occasion
-> it has been measured.** ***Defaulting disagreement to WITHHELD biases the failure toward a thinner run
-> rather than a contaminated one, which is the correct direction.***
+> | Verdict | Result |
+> |---|---|
+> | **3–0 `ADMISSIBLE`** | ✅ **`ADMISSIBLE`** — a unanimous verdict automatically wins |
+> | **2–1 either way** | **`WITHHELD`** |
+> | **3–0 `WITHHELD`** | **`WITHHELD`** |
+>
+> ### ⚠ **`ADMISSIBLE` REQUIRES UNANIMITY. The rule is deliberately ASYMMETRIC, and plain majority would be wrong here.**
+>
+> **Because the two errors do not cost the same:**
+>
+> | Error | Cost |
+> |---|---|
+> | **False `ADMISSIBLE`** — a conclusion tagged safe | ***Contamination. Unrecoverable. The run is burned.*** |
+> | **False `WITHHELD`** — an attribute tagged unsafe | **A thinner run. Recoverable.** |
+>
+> **A plain 2-of-3 majority would let a range pass over a live dissent — weaker than the two-reader rule it
+> replaced, where a single dissent blocked.** ***Requiring unanimity keeps the failure pointed at "thin"
+> rather than "contaminated," which is the only acceptable direction.***
+>
+> **What the third reader actually buys, given dissent already resolves safely:**
+>
+> 1. **False-`ADMISSIBLE` now requires THREE concurrent errors in the same direction, not two.** **This is the
+>    strengthening that matters**, because **self-audit error in this project has run in one direction on
+>    every occasion it has been measured.**
+> 2. **A 2–1 split LOCALIZES the ambiguity** — it marks a range as genuinely borderline, which is exactly the
+>    signal that the file should be **split upstream** per `05` §6.1a rule 2 rather than mapped around.
+> 3. **Disagreement rate is diagnostic.** A file the readers argue about is mixed at fine grain — **information
+>    about the source, not just about the range.** **Record it.**
+>
+> **This extends the project's existing two-agent validation protocol rather than replacing it** — same
+> reasoning, one more reader, and an explicitly asymmetric decision rule.
 
 ### ⭐ What else this unlocks
 
