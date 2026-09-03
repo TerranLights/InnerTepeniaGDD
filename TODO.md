@@ -1,5 +1,48 @@
 # Inner Tepenia — To-Do List
 
+## ⚠ DEFERRED CANON-FILE CORRECTIONS — surfaced by the division-of-industry roster pass, 2026-09-02
+
+**Deferred by developer direction during the pass** *("that can wait until after we finish the per-city
+division-of-industry")*. **The pass is now complete, so these are actionable.**
+
+> **⚠ These are CORRECTIONS, not gaps.** **Do NOT route them through the Canon Gap Resolution Method** —
+> CGRM acquires canon that does not exist; **a file saying something wrong is a data fix.** *(`CGRM/01` §1:
+> a gap must be specific, answerable **and needed**.)*
+
+**Full context for every item is in `Division_of_Industry/16_Per_City_Three_Tier_Run.md`'s END-OF-PASS REVIEW
+REGISTER, by item number.**
+
+### A. Stale facts contradicted by other canon
+
+| # | File(s) | The problem |
+|---|---|---|
+| **23** | `Division_of_Industry/13_National_Balance_Under_the_Ruling.md` — the per-city table row for **Byrd** | Still lists Byrd as **"grows"**, baseline **136,436 (51.9% distinctive)** — the **pre-reclassification** figure. **`13`'s own §15 discussion correctly lists Byrd among the geologically forced importers** *(ice core-drilled to bedrock at 2,164 m)*. **Only the table row was missed.** Correct figures: **baseline 102,645 / 36.2%**, used in `16` §34 and matching the City Master Reference |
+| **21** | `Specs/Dome_Fuji.md` | Says **"no highway access."** `Locations/Infrastructure/Highways.md` **L154, L159** confirm Dome Fuji as a **stop on the Hwy 37 main line**, between the Sayowa Junction and the Hwy 22 dual-junction |
+| **13** | `Specs/Port_Lockroy.md` **L112, L134** · `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` **L248** | All three record the post office as *"functioning institution or heritage artifact — **TBD**."* **It is not TBD.** Both the Vision Notes and the **Calethina courier lore (`Specs/Port_Lockroy.md` L105)** settle it as **a genuine, active civic institution.** A resolution that never propagated |
+| **16** | `Division_of_Industry/04_Providers_and_National_Balance.md` | **Dumont d'Urville appears in the national FOOD TALLY (28,463 producers) but NOT in `04` §3's provider LIST.** `04` contradicts itself. **The tally figure is load-bearing** — it sits inside the ~835,000 total behind the headline *"1 food producer per ~19 people"*; without it the ratio is 1 per 19.4. **Decide: add DdU to §3's list, or remove it from the tally.** *(The mandate has been set on the tally's side.)* |
+
+### B. Superseded by the roster pass itself — the reference now lags its own source
+
+| File(s) | The problem |
+|---|---|
+| `Cities/City_Master_Reference/Mirny_Subnet_Reference.md` **L135** | Still carries the **WITHDRAWN** Zhongshan claim — *"Prydz Bay maritime port for the Tri-Cities, 20%"* and *"Sinheung's chambers have to leave by sea."* **Withdrawn 2026-09-02: it rested on a misquote of Zhongshan's §15** *(which says "Prydz Bay **fishing**" and *"Zhongshan is **not a trade hub**"*)*, and the developer has since established that **chambers move by road and air, not sea** `[CGRM 2026-09-02 · Path 6]`. **Struck at all three sites in `16`; the reference was missed** |
+| `City_Master_Reference/` — **21 "Division-of-Industry status" blocks** *(Janbogo 8 · Mirny 8 · Mawson/Byrd/Amundsen 5)* | **Written from Half B and now superseded by the determinations.** Many figures changed materially — e.g. **Fort McMurdo 27.8% → 35.1%**, **Scott 2.9% → 14.7%**, **Zukelli 14.6% → 5.9%**, **Sayowa 33.4% → 42.5%**, **Denison 11.7% → 16.4%**. ⚠ **The Halley and Palmer reference files use a different heading and were not counted — check them too** |
+
+### C. Stale outside the Cities folder
+
+| File | The problem |
+|---|---|
+| `CLAUDE.md` | Describes the **Universal Location Methodology** as *"working draft, **unvalidated**"* and *"not yet pressure-tested against a real location."* **Stale by eleven completed runs** — and the developer's own recorded mid-Run-11 verdict is *"it does appear as though the Universal Location Methodology is in production-ready condition. These results are exemplary."* **⚠ The pacing instruction still stands** *(two or three more runs before sign-off)*, so the wording should be updated to reflect **eleven runs and a pending sign-off**, not promoted to validated |
+
+### ⚠ Already tracked separately — do not duplicate
+
+**Register item 8 — the Sejong Hangul-literacy / Korean-dilution canon bug.** **Its full workup, the three
+still-stale file paths, and the ⚠ read-for-the-premise-don't-grep-and-delete warning are already recorded in
+this file's own Sejong section above.** **Deferred by the same developer instruction.**
+
+---
+
+
 A running reference of outstanding design work, organized by urgency. Update as items are completed or reprioritized.
 
 ---
