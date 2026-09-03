@@ -2877,13 +2877,13 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
 
 ---
 
-## 29. ✅ FORT McMURDO — DETERMINED *(⚠ Option B, flagged for possible adjustment to A — register item 18)*
+## 29. ✅ FORT McMURDO — DETERMINED *(⚠ **ADJUSTED B → A, 2026-09-02**, once Scott's determination resolved the crossing — see below)*
 
 | Tier | Workers | Share |
 |---|--:|--:|
 | **Baseline** *(D=1.25, **GROWER** — Ross Island, rock-founded; ⚠ **ABCC not yet set — see below**)* | 138,576 | **41.5%** |
-| **Mandated** | 92,928 | **27.8%** |
-| **FREE — the character budget** | 102,710 | **30.7%** |
+| **Mandated** | 117,383 | **35.1%** |
+| **FREE — the character budget** | 78,255 | **23.4%** |
 
 **Distinctive tier: 195,639 (58.5%).** Canon §15: Industrial/manufacturing 35% · Marine/resource extraction
 25% · Technical/scientific 15% · Commercial 10% · Education 8% · Other 7%.
@@ -2893,8 +2893,8 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
 | **35%** | 68,474 | **Industrial/manufacturing — FULL** | ✅ §15 *"the core identity of the city"*; **fed construction materials to Concordia's own dome/corridor system** |
-| **12.5%** | 24,455 | **Half of Marine/resource extraction** | Dry Valleys extraction feeding the mandated industry |
-| **47.5%** | **92,928** | | |
+| **25%** | 48,910 | **Marine/resource extraction — FULL** | Dry Valleys extraction **+ the McMurdo Sound crossing that carries Scott's Erebus material** — see the adjustment below |
+| **60%** | **117,383** | | |
 
 ### ⭐⭐ REGISTER ITEM 9 RESOLVED — by ROUTING, not by adding a mandate
 
@@ -2941,9 +2941,20 @@ together. **It does not add to the mandate.**
 > **Fort McMurdo's §15 marine 25%** is *"**Dry Valleys operations, harbor logistics**"* — and the **Dry
 > Valleys sit across McMurdo Sound, seasonally accessed via sea-ice road.**
 
-> ### ⭐ **These may be the same crossing.** **If Fort McMurdo's harbor logistics is what moves Scott's volcanic material off Ross Island, then its marine sector is serving another city's industry — and the FULL 25% is national, not half.**
+### ✅ RESOLVED — adjusted to Option A, 2026-09-02
 
-**Scott is the very next city in this pass. Register item 18 — likely to resolve immediately.**
+**Scott's determination (§30) settled it.** ⚠ **The geography needed care:** *"across McMurdo Sound"* means
+**the mainland**, and **Fort McMurdo is on the SAME side as Scott** — 3 km away on Ross Island. **So the
+trucking facility is not IN Fort McMurdo.**
+
+> **What Fort McMurdo has is the CROSSING** — *"Dry Valleys operations, **harbor logistics**,"* over a Sound
+> *"seasonally accessed via sea-ice road."* **Scott's material has to cross the same water.**
+
+**⚠ Recorded honestly: canon never states whose facility it is.** The inference is that **a small,
+overwhelmingly residential city would not run a second sea-ice crossing 3 km from an industrial one.**
+**Presented as inference, and the developer accepted it** *(2026-09-02)*.
+
+> ### **Fort McMurdo's marine sector is therefore serving ANOTHER CITY'S industry as well as its own — the full 25% is national. Mandate 47.5% → 60%; free 30.7% → 23.4%.**
 
 ### The industrial 35% needs no argument
 
@@ -2972,6 +2983,76 @@ here.**
 
 ---
 
+## 30. ✅ SCOTT — DETERMINED *(closes the Janbogo subnet except Concordia)*
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Ross Island, rock-founded, food term 100%)* | 119,464 | **41.0%** |
+| **Mandated** | 42,910 | **14.7%** |
+| **FREE — the character budget** | 128,729 | **44.2%** |
+
+**Distinctive tier: 171,638 (59.0%).** Canon §15: Technical/scientific 30% · Commercial 20% · Education 15% ·
+Industrial/manufacturing 15% · Marine/resource extraction 12% · Other 8%.
+
+### The mandate *(developer ruling C, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **15%** | 25,746 | **Industrial/manufacturing — FULL** | ✅ §15 defines the sector **as** the Erebus operation |
+| **10%** | 17,164 | **Half of Commercial** — operating the NZ freight link | ✅ §15 *"New Zealand freighter trade, per the established Ross Sea supply route"* |
+| **25%** | **42,910** | | |
+
+### ⭐ Two things the standing 5% estimate missed
+
+**1. §15 defines the ENTIRE industrial 15% as the Erebus operation** — *"Scott's one genuine industry beyond
+its residential/political character **is** collecting volcanic material fallen from Mount Erebus and
+delivering it to a trucking facility across McMurdo Sound, forwarded onward down the coastal highway into the
+Janbogo subnet for further processing."*
+
+> **Half A took 5% — a third of the sector — apparently reading *"a small, contained operation"* as a further
+> discount. But 15% of distinctive already IS small.** ***That phrase describes the operation's place in the
+> city; §15 had already sized it.***
+
+**2. Commercial 20% is the NZ freighter trade** — *"port and shipping logistics (New Zealand freighter trade,
+**per the established Ross Sea supply route**)."* **The same international freight link mandated at half at
+Cape Adare, appearing again on the same route.** **Half here, on the same disposition: operating the link is
+national work; the trade that happens around it is not.**
+
+### ⭐⭐ This entry resolved register item 18 — and required care with the geography
+
+**Fort McMurdo's marine mandate hung on whether Scott's material crosses via Fort McMurdo's infrastructure.**
+
+> **⚠ The trap:** *"across McMurdo Sound"* means **the mainland** — and **Fort McMurdo is on the SAME side as
+> Scott**, 3 km away on Ross Island. **The trucking facility is NOT in Fort McMurdo.**
+>
+> **What Fort McMurdo has is the CROSSING:** *"Dry Valleys operations, harbor logistics,"* over a Sound
+> *"seasonally accessed via sea-ice road."* **Scott's material must cross the same water.**
+
+**Canon never states whose facility it is.** The inference — **that a small, overwhelmingly residential city
+would not run a second sea-ice crossing 3 km from an industrial one** — **was presented AS inference and
+accepted by the developer.** **Fort McMurdo adjusted to full marine; see §29.**
+
+### What stays FREE
+
+- **Technical/scientific 30%** — *"precision and research-oriented work, distinct from Fort McMurdo's
+  extraction focus."* **No stated national reach.** *(The largest sector in the city, entirely free.)*
+- **Education 15%** — ***St. Robert commemorative knowledge-keeping.*** **Heritage.** Hut Point is *"a living
+  remembrance site, most prominently observed on **Tepenian Independence Day (June 21)** by BOTH Scott and
+  Fort McMurdo residents."*
+- **Marine 12% · Other 8%** — unannotated.
+
+### Notes
+
+- **⭐ *"Small, precise, stable — the deliberate contrast to Fort McMurdo's industrial churn."*
+  Overwhelmingly residential.** Enneagram: ***"the deliberately quiet counterpart next door to a loud
+  capital."*** **At 44.2% free, the shape fits a city whose identity is being the quiet one.**
+- **~3 km from Fort McMurdo on the same Hut Point Peninsula** — shares its full climate and geography, and
+  **the same Hwy 183 spur.**
+- **⚠ Flagged in the source:** Scott's `Local_Robot_Culture` **explicitly complicates Fort McMurdo's own
+  file's hypothesis about their relationship** — cross-check if either city is developed further.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -2995,4 +3076,4 @@ here.**
 | 15 | **Kunlun** | **Set to HALF astronomy + HALF ice core. Mandate 26.8%, free 44.6%** | ⏸️ **Marked for review by the developer, who is weighing TWO-THIRDS of each instead** — precomputed: **mandate 44,072 (35.7%) / free 44,072 (35.7%)**, exactly equal. **The developer's own reason for holding at half:** *"having a 44% free budget would allow for other scientific research that I may not have thought of."* **Also depends on an unsettled premise** — the near-Earth observatory focus is explicitly *"tentative, not firmly settled"* (2026-07-06) |
 | 16 | **`04` — internal inconsistency** | **Dumont d'Urville appears in `04`'s national FOOD TALLY (28,463 producers) but NOT in `04` §3's provider LIST** | Found during DdU's determination. **The tally figure is load-bearing** — it sits inside the ~835,000 total behind the headline *"1 food producer per ~19 people"*; without it the ratio is 1 per 19.4. **Whether `04` §3's provider list should gain Dumont d'Urville, or the tally should lose it.** *(The mandate has been set on the tally's side.)* |
 | 17 | **⏸️ CONCORDIA — DEFERRED** | **Not determined, and deliberately so.** Its 13 districts must be well-defined FIRST, because they determine the municipal DoI character → the post-war condition → **the setting of the actual game** | **The dependency runs backwards here: bottom-up, where every other city is top-down.** Its 15% Half A/B estimate **stands as an estimate only — do not promote it.** **District culture work is UPSTREAM of this, not parallel.** The national re-run must treat Concordia as an **open cell** |
-| 18 | **Fort McMurdo ↔ Scott** | **Set to Option B — industrial 35% + HALF marine 12.5%. Mandate 27.8%, free 30.7%** | ⏸️ **Flagged for possible adjustment to A** *(full marine → mandate 35.1% / free 23.4%)*, per the developer: *"there may be a possibility that they might be able to assist Scott with their one-and-only actual hard industry."* **Scott's §15 has it delivering Erebus volcanic material "to a trucking facility ACROSS McMURDO SOUND"; Fort McMurdo's marine 25% is "Dry Valleys operations, harbor logistics," and the Dry Valleys are across McMurdo Sound via sea-ice road.** **These may be the same crossing** — if so the full 25% is national. **Scott is the next city; likely resolves immediately** |
+| 18 | ~~**Fort McMurdo ↔ Scott**~~ **✅ RESOLVED 2026-09-02** | ~~Set to Option B~~ **→ adjusted to A: industrial 35% + FULL marine 25% = 60% of distinctive. Mandate 35.1%, free 23.4%** | **Resolved at Scott's own determination (§30).** ⚠ Geography needed care: *"across McMurdo Sound"* is **the mainland**, and Fort McMurdo is on the **same** side as Scott, 3 km away — **the trucking facility is not in Fort McMurdo.** What Fort McMurdo has is **the crossing** *(harbor logistics, sea-ice road)*, which Scott's material must use. **Canon never states whose facility it is; presented as inference and accepted by the developer** |
