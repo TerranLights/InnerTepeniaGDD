@@ -2389,6 +2389,92 @@ half science, the mandate covers the food debt roughly 3.5× over.**
 
 ---
 
+# ▓▓ JANBOGO SUBNET ▓▓
+
+*Mirny subnet closed **complete, 8 of 8, no deferrals** — Shirayuki · Sinheung · Zhongshan · Davis · Mirny ·
+Casey · Kunlun · Vostok.*
+
+---
+
+## 24. ✅ DUMONT D'URVILLE — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.67, **GROWER** — Petrel Island, Géologie Archipelago)* | 163,966 | **48.0%** |
+| **Mandated** | 14,799 | **4.3%** |
+| **FREE — the character budget** | 162,794 | **47.7%** |
+
+**Distinctive tier: 177,593 (52.0%).** Canon §15: Marine/resource extraction 25% · Technical/scientific 25% ·
+Commercial 20% · Industrial/manufacturing 15% · Education 8% · Other 7%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Role | Basis |
+|--:|--:|---|---|
+| **8.33%** *(⅓ of marine 25%)* | 14,799 | **The food share of the marine sector** | ✅ `04`'s national food supply tally already counts it |
+
+> **This replaces the 0.0% that stood in Half B.**
+
+### ⭐ Why 0% was honestly reached — and why it still had to change
+
+**Half B set 0.0% by taking the city's own Spec at its word:** *"its economic significance was **more cultural
+and historical than industrial**."* **That was the right instinct — not every city has to have a national
+role, and inventing one would have been worse.** **But two canon facts sit against a clean zero:**
+
+**1. `04`'s national food tally ALREADY COUNTS this city.** Its supply table lists *"Dumont d'Urville ·
+marine 25%, ~⅓ food · **28,463**"* — and that figure sits **inside the ~835,000 total** that produces the
+model's headline ***"1 food producer per ~19 people."***
+
+> **Remove it and the ratio becomes 1 per 19.4.** **Not fatal — but the national balance was leaning on food
+> this city was not being credited with producing.** ***Leaving it unmandated was an internal inconsistency,
+> not a judgment call.***
+
+**⚠ And `04` contradicts itself:** **Dumont d'Urville appears in the food TALLY but NOT in `04` §3's provider
+LIST.**
+
+**2. §15 names an international trade role** — *"Commercial: 20% — port and shipping logistics **(Australian
+freighter trade)**."* This coast is the **Australia-facing** side of Tepenia's Upper Earth shipping.
+
+### ⏸️ Why the commercial share was NOT taken
+
+**Held deliberately.** The Australian-freighter line is **a single mention in one file** — `Specs/
+Dumont_dUrville.md` does not mention it — and **this coast has several receiving points rather than one
+chokepoint.** **Banked as an option** *(C = ⅓ marine + half commercial → mandate 9.5% / free 42.5%;
+D = + full commercial → 14.7% / 37.3%)* **rather than assumed.**
+
+### ⭐ The marine sector's other half — counted deliberately, not overlooked
+
+**§15: *"Marine / resource extraction: 25% — coastal and channel resources, PENGUIN COLONY MANAGEMENT."***
+The Adélie colonies are *"a defining daily-life feature — **food supplement + coexistence**."*
+
+> **Management, not harvest.** **Only the ⅓ that `04` treats as food is mandated; the coexistence work stays
+> free.**
+
+### What stays FREE
+
+- **Technical/scientific 25%** — *"wind engineering, structural maintenance against ongoing wind damage."*
+  **Local survival** among **the windiest regions on Earth** *(Adélie katabatics; George V Land nearby holds
+  real-world highest-sustained-wind records)*. **The Princess Elisabeth disposition: least discretionary work
+  in the city, still not national.**
+- **Industrial 15%** — explicitly *"repair and maintenance-focused rather than large-scale production."*
+- **Commercial 20% · Education 8% · Other 7%.**
+
+### Notes
+
+- **⭐ DOUBLE MAIN-LINE TERMINUS** — **Hwy 2's own eastern end AND Hwy 183's own northern end converge here
+  directly** *(`Highways.md` L56, L65, L87–96, L224–231, L264)*. **Not mandated:** per the standing crossroads
+  principle, **a terminus is not automatically an employer**, and §15 has no highway-logistics sector — its
+  commercial line is a *port*, not a road hub.
+- **Named for St. Jules** *(Jules Dumont d'Urville, landed 21 Jan 1840)* — **the most distinctively
+  francophone-speaking city in Tepenia.** Symbolic read: *"New Orleans at 1/20th scale."*
+- **⏸️ Genuinely open in canon:** **permanent bridge to the mainland vs. seasonal crossing** — extensively
+  brainstormed in Specs *(flutter risk, pack-ice pier loads, maintenance access)* and **explicitly not
+  resolved.**
+- **Pink Lucy's origin city**; she relocated to Janbogo pre-war *(resolved 2026-07-12)*. Whether she then
+  reached Concordia is open.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
@@ -2410,3 +2496,4 @@ half science, the mandate covers the food debt roughly 3.5× over.**
 | 13 | **Port Lockroy — stale TBD** | **Its post office is recorded as an open question in 3 files, but the question is resolved** | `Specs/Port_Lockroy.md` **L112, L134** and `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` **L248** all say *"functioning institution or heritage artifact — TBD."* **Both the Vision Notes and the Calethina courier lore (Specs L105) settle it as a genuine, active civic institution.** A resolution that never propagated. **Deferred with the other culture-file corrections until after this pass** |
 | 14 | **Davis** | **Set to Option B — agriculture 35% + HALF technical/scientific 12.5%. Mandate 28.2%, free 31.1%** | ⏸️ **Marked for review after all cities are determined**, per developer direction — *"just in case we need to figure on adjusting stats in some cities."* **Alternatives precomputed:** **A** *(agriculture only)* mandate 20.7% / free 38.5% · **C** *(+ full technical)* mandate 35.6% / free 23.7% · **D** *(B + half maritime)* mandate 32.6% / free 26.7%. **The half-technical rests on the Signy precedent** — a capped national resource needs someone who knows its limits — **applied on land to the Breadbasket** |
 | 15 | **Kunlun** | **Set to HALF astronomy + HALF ice core. Mandate 26.8%, free 44.6%** | ⏸️ **Marked for review by the developer, who is weighing TWO-THIRDS of each instead** — precomputed: **mandate 44,072 (35.7%) / free 44,072 (35.7%)**, exactly equal. **The developer's own reason for holding at half:** *"having a 44% free budget would allow for other scientific research that I may not have thought of."* **Also depends on an unsettled premise** — the near-Earth observatory focus is explicitly *"tentative, not firmly settled"* (2026-07-06) |
+| 16 | **`04` — internal inconsistency** | **Dumont d'Urville appears in `04`'s national FOOD TALLY (28,463 producers) but NOT in `04` §3's provider LIST** | Found during DdU's determination. **The tally figure is load-bearing** — it sits inside the ~835,000 total behind the headline *"1 food producer per ~19 people"*; without it the ratio is 1 per 19.4. **Whether `04` §3's provider list should gain Dumont d'Urville, or the tally should lose it.** *(The mandate has been set on the tally's side.)* |
