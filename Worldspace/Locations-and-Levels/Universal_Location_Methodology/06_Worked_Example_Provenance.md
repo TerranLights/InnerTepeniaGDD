@@ -316,4 +316,28 @@ Sanay must skip the example content in the rows below.** The rules stand without
 **Live coordinate maps and full status: `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`
 — §6 (3 city files) and §9 (14 registry files), both 3-of-3, both pinned.**
 
+## ⛔⛔ RETROACTIVE — `Cultural_Synthesis_Techniques.md` and `Real-World_Basis_Extrapolation_Method.md`, added 2026-09-03
+
+> ### **M-82's SIXTH INSTANCE. Both files were declared *"CLEAN — verified, not assumed"* for one subject, and
+> that was TRUE for that subject — while carrying un-manifested worked examples for at least SIX others.**
+
+**Found by auditing both files under the LAYERING LAW at the developer's direction.** ***Neither had a manifest
+row for any of the locations below, and both are REQUIRED READING.***
+
+| File | Coordinate | Tier of what sat there | Action |
+|---|---|---|---|
+| `Cultural_Synthesis_Techniques.md` | **11 `[one instance]` blocks**, one per technique | **Conclusion — a district's culture findings, eleven of them** | ✅ **EXTRACTED 2026-09-03** → `Test_Runs/Worked_Examples_Archive/Cancer.md` |
+| `Cultural_Synthesis_Techniques.md` | **Borrowed Form §, incl. its "measured after twelve districts" block** | **Conclusion — named findings for ~8 locations, one of whose reviews is still `DRAFT`** | ✅ **EXTRACTED** → `…/Districts_Borrowed_Form.md` |
+| `Cultural_Synthesis_Techniques.md` | **The Zodiac Lens divergence table** | ⛔ **Conclusion — a COMPLETE twelve-sign result set, ~20 findings.** The largest single un-manifested block found | ✅ **EXTRACTED** → `…/Sinheung.md` |
+| `Real-World_Basis_Extrapolation_Method.md` | **The eight-pick worked-example section** *(ran to EOF)* | **Conclusion — one district's full research run and what each pick became** | ✅ **EXTRACTED** → `…/Cancer.md` |
+
+**Both rule files now name NO location** *(bar file paths, a verbatim developer quote, and zodiac SIGN names,
+which are not locations)*. ***The general form of every rule was retained; only the instances moved.***
+
+> ### ⚠ WHY THE `06` CHECK RETURNED CLEAN ANYWAY — and why that is the real lesson
+> **`06`'s Shirayuki row says these files are *"CLEAN — verified, not assumed."*** ***It was correct.***
+> **The vector-1 sweep greps for YOUR subject's name — so a file dense with SIX OTHER locations' conclusions
+> returns clean for you, every time, by construction.** *(M-125's residual, now measured: the sweep is
+> per-subject and the leak surface is per-corpus.)*
+
 ## *(Add further locations here as they are absorbed into the methodology.)*

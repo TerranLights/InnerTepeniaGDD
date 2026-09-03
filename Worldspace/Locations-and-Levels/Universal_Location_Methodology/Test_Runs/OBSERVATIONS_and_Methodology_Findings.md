@@ -4903,3 +4903,60 @@ grep -l -iE 'all [0-9]+ (cities|locations)|every (city|subnet|location)|across a
 2. **All five were invisible to the sweep because of the ALIAS** *(M-118)*. **Every hit uses the retired
    real-world basis name; none uses the current one.** ***A same-day rename left thirteen entries outside a
    sweep recorded as CLOSED.***
+
+---
+
+# M-130 — ⛔ **THE TWO FILES THE README CALLED "ALREADY GENERAL-SCOPE" CARRIED ~45 UN-MANIFESTED CONCLUSION LINES FOR SIX LOCATIONS. M-82's SIXTH INSTANCE.**
+
+**Found 2026-09-03 by auditing `Cultural_Synthesis_Techniques.md` and `Real-World_Basis_Extrapolation_Method.md`
+under the LAYERING LAW, at the developer's direction.** ***Both are REQUIRED READING. Neither had a single
+manifest row in `06` for any of the six locations it discusses.***
+
+| What was in there | Tier |
+|---|---|
+| **11 `[one instance]` blocks** — one per technique, each a district's culture finding | ⛔ conclusion |
+| **The Borrowed Form section** — named findings for ~8 locations, ***one of whose review is still `DRAFT`*** | ⛔ conclusion |
+| **The Zodiac Lens divergence table** — a COMPLETE twelve-sign result set, ~20 findings for one city | ⛔ **the largest single un-manifested block found to date** |
+| **An eight-pick research worked example** running to EOF of the other file | ⛔ conclusion |
+
+## ⭐⭐ WHY EVERY EXISTING CHECK RETURNED CLEAN — and this is the finding, not the extraction
+
+**`06`'s row for the current subject reads: `Cultural_Synthesis_Techniques.md` — *"CLEAN — verified, not
+assumed."*** ***That was CORRECT.*** **The file contains zero mentions of that subject.**
+
+> ## **THE VECTOR-1 SWEEP IS PER-SUBJECT. THE LEAK SURFACE IS PER-CORPUS.**
+>
+> **A required-reading file dense with SIX OTHER locations' conclusions returns CLEAN for your subject —
+> every time, by construction.** ***The sweep is not broken; it is answering a narrower question than anyone
+> reads it as answering.***
+
+| The question the sweep answers | The question everyone assumes it answers |
+|---|---|
+| *"Does required reading name MY subject?"* | *"Is required reading safe to read in full?"* |
+
+**Consequences, stated plainly:**
+1. ***A `CLEAN` vector-1 result never meant the file was clean.*** **It meant the file was clean FOR YOU.**
+2. **Every location that has ever been run through this methodology has been depositing its conclusions into
+   shared rule files**, and **each deposit is invisible to every subsequent subject's sweep.**
+3. ***The LAYERING LAW is the only control that closes this***, because it removes the deposits rather than
+   detecting them. **A per-subject detector cannot ever catch a per-corpus accumulation.**
+
+## The fix, and why the audit had to be manual
+
+**Extracted all four blocks to `Test_Runs/Worked_Examples_Archive/` and generalized the surrounding rules.**
+**Both files now name no location** *(bar file paths, one verbatim developer quote preserved deliberately, and
+zodiac SIGN names — which are not locations)*.
+
+> ### ⚠ A measurement gotcha worth recording: **SIGN NAMES ARE NOT LOCATION NAMES.**
+> **This project names districts after zodiac signs.** ***So a name-list scan flags "Taurus's eighteen checks"
+> — which is a SIGN, in a passage about search independence — identically to a district's culture finding.***
+> **Automated auditing under the LAYERING LAW cannot be fully mechanical here: the same token is a location in
+> one file and a symbol in another, and only context separates them.** **Budget for a human-or-model read, not
+> a `grep` count.**
+
+## ⏸️ REQUESTED — the two rulings this audit does NOT settle
+
+**The three district-folder disciplines (`00b` 15 · `00d` 6 · `00f` 7 lines) are still undecided.** **They
+serve the DISTRICT methodology, which has no portability requirement — so either they are exempt and the ULM
+sweeps them every run, or they are in scope and get this same treatment.** ***Neither has been chosen, which
+is worse than either.***

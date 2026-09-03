@@ -1,7 +1,7 @@
 # Real-World Basis Extrapolation Method
 
 **Written 2026-08-16.** A reusable technique for deriving concrete **places, things, people, and settings** for
-any location in the game — a Concordia district or one of the 35 outer Tepenian cities — from that location's
+any location, at any scale, in any setting — from that location's
 own real-world inspiration picks, via actual web research fused against what's already established in-fiction.
 Directly requested by the developer while starting district Phase 6 (Thematic Breadth Catalog) work, but scoped
 deliberately general: the same technique applies to any location, district or city, present or future.
@@ -32,7 +32,7 @@ validated finding already flagged as "tend to go uncited once a Primary pick anc
 them the most likely to still hold unused, concrete material.
 
 **⚠ Do not stop at the first search result — extend research to wherever the topic naturally leads.** *(Added
-2026-08-31, developer instruction, Sinheung Run 5.)* One search returning one usable fact is not the same as
+2026-08-31, developer instruction.)* One search returning one usable fact is not the same as
 the topic being exhausted. After every search, ask explicitly: **did this source name, cite, or gesture at
 something else worth chasing** — a related institution, a named period, a person, a mechanism mentioned in
 passing — **and did I chase it, or did I stop because I already had enough to write something plausible?**
@@ -101,43 +101,26 @@ remains a legitimate input **even to a later cold run on the same location** —
 
 The Compilation Guide's own sharpened standing rule (2026-07-07) — a real-world pick's fit is judged purely on
 structural/thematic fusion, never on whether it happens to share a founding nation or demographic with the
-Tepenian location — applies here unchanged for cities. Districts don't have founding nations at all (Concordia
+location with a founding population — applies here unchanged. Some sub-location types have no founding nation at all (a district of one city, for instance
 isn't nation-founded the way outer cities are), so the literal collision this rule was written for doesn't arise
 for district picks — but the underlying principle still generalizes: judge every fused detail on whether it
 actually fits the location's own established character, never on any demographic or origin-matching basis.
 
 ---
 
-## Worked example — Cancer, all eight picks, researched properly
+## Worked example
 
-**Run in full 2026-08-16** during Cancer's from-scratch rewrite of Phases 1-7. This is the reference example for
-how the method should actually be executed, and it exists because a first attempt did it badly.
+> ⛔ **ARCHIVED** — `Universal_Location_Methodology/Test_Runs/Worked_Examples_Archive/` *(LAYERING LAW,
+> `00_RUNBOOK.md`)*. **A full eight-pick run exists, showing what each tier actually surfaced and what it
+> became.** **The method above stands without it.**
 
-**The failure this example corrects.** The first Cancer pass "applied" this method from memory — recalling
-roughly what Epidaurus and the Ospedale degli Innocenti are, rather than running Step B's actual research. It
-produced two thin, generic items and left **four of Cancer's eight picks completely untouched**. When the
-research was actually performed, three of those four untouched picks produced the strongest material in the
-entire district file. **Do not skip Step B. Working from memory looks like the method and is not the method.**
+**What that instance demonstrated, stated generally — this is the transferable part:**
 
-**What actual research produced, per pick:**
-
-| Pick | Concrete detail research surfaced | What it became in Cancer |
-|---|---|---|
-| Hundertwasserhaus *(Supporting — previously unused)* | The **Window Right**: a tenant may alter/decorate the facade as far as their arm reaches from their own window. Also "tree tenants" and the 1958 Mouldiness Manifesto against the straight line. | **The Window Reach** — a universally-held civic right, now load-bearing across four separate Findings. The single most broadly useful idea in the district. |
-| Père Lachaise *(Secondary — previously unused)* | Perpetual grave concessions are **conditional on descendants maintaining them**; unmaintained remains go to an ossuary; and abandoned monuments can be **adopted** by strangers who restore them. | The problem of the unkept, adoption of lapsed Keepings, and **the Long Shelf** — the hard edge Cancer's whole belief system needed. |
-| Arcosanti *(Supporting — previously unused)* | Apse-form quarter-domes; a **bell foundry** funding the community; newcomers arrive via a fixed-term workshop and residents are the alumni who stayed. | Cancer's structural vernacular, its first genuine manufactured export (windbells), and its visitor-to-resident transition mechanism. |
-| Findhorn *(Secondary — previously unused)* | **Attunement**: a circle and a brief tuning-in before beginning *any* task, mundane ones included. | Cancer's most-performed daily practice, and the backbone of its Ordinary Daily Life finding. |
-| Ospedale degli Innocenti *(Secondary)* | The **split token** — a coin broken in half, one half left with a surrendered infant, against the day it might be matched. Also the *balie* and the *Balie e Bambini* ledgers. | The district's near-universal worn object, and its arrival artifact. Far stronger than the vague "anonymous surrender point" the memory-based pass produced. |
-| Epidaurus *(Primary)* | The abaton's **two-part structure** (open waiting hall → dark enclosed sleeping chamber); the *iamata*, inscribed stelai **publicly recording cures**; votive offerings shaped like the body part seeking healing. | The Long Room, the votive forms, and — most consequentially — the posted-outcomes record that inscribes Cancer's successes while its failures go unrecorded. |
-| Gardens by the Bay *(Primary)* | Supertrees: structural core + living planting-panel skin + canopy, venting conservatory exhaust and harvesting rainwater. | The Growing Towers, which give Cancer's long-established ambient haze an actual physical mechanism. |
-| Eden Project *(Supporting)* | Built inside an exhausted china clay pit worked 160 years and left sterile. | The Pit Gardens neighborhood. |
-
-**The transferable lessons:**
-1. **Secondary and Supporting picks are where the value is.** Primary picks tend to already be partly fused into
-   a location's Mega-Init; the lower-tier picks are usually untouched, and they are not lesser material.
-2. **Research the specific place, never the category.** "An ancient Greek healing sanctuary" yields nothing.
-   "Epidaurus" yields the abaton's two-room structure and the iamata.
-3. **The best fusions explain something the location already had but never accounted for.** The Growing Towers
-   explain the haze; the apse form explains the no-straight-lines rule; the Window Reach explains how an
-   institution-dense district still feels hand-made.
-4. **A real detail beats an invented one every time.** Nothing invented for Cancer matched the split coin.
+1. ***"Applying the method from memory" is not applying it.*** **The failing version recalled what it already
+   knew about each pick, produced two thin generic items, and left half the picks completely untouched.**
+   **Actual searching produced a concrete, unguessable detail from nearly every one.**
+2. ⭐ **The unused lower tiers carried the best material.** **Picks previously dismissed as secondary or
+   supporting produced the strongest results** — because **top-tier picks get absorbed into a location's
+   identity summary early and spent, while lower tiers sit unexamined and still hold unspent specificity.**
+3. **A real detail beats an invented one every time.** ***Nothing invented matched the sharpest researched
+   particular.***
