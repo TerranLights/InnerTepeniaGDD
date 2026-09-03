@@ -3289,3 +3289,48 @@ applied.**
 **All three defects are contract-level, not reader-level. Every reader behaved reasonably.** ***That is the
 argument for contract-identical dispatch (M-93): when briefs differ, a defect in the brief is invisible,
 because it looks like reader variance.***
+
+---
+
+# M-102 — ⭐⭐ THE FIRST CROSS-LOCATION CONSISTENCY RESULT THIS METHODOLOGY HAS PRODUCED — and it is about the
+CORPUS, not about either location
+
+**Measured 2026-09-03, from two independently-built `§C.4` coordinate maps** (Casey, Run 12's remediation;
+Shirayuki, Run 13's `Step −2`). **Six readers total, two contract versions, no shared visibility.**
+
+| | `Specs/` | "attributes" megasheet | completed culture sheet | **total admissible** |
+|---|--:|--:|--:|--:|
+| **Casey** | **85.0%** | 43.7% | 31.5% | **52.2%** |
+| **Shirayuki** | **78.6%** | 33.6% | 15.3% | **45.4%** |
+
+*(Content-bearing lines only; `INERT` excluded per M-101.)*
+
+## What replicates
+
+1. ***The tier ordering is IDENTICAL on both cities*** — `Specs` cleanest, the megasheet in the middle, the
+   completed culture sheet dirtiest. **Not assumed: measured twice, independently.**
+2. **The totals land within seven points of each other**, and both sit near half.
+3. **⚠ The file whose TITLE promises attributes is 66% conclusions on Shirayuki and 56% on Casey.** ***The
+   Casey prep document's "THE TRAP, BY NAME" warning about `*_Physical_Infrastructure_Attributes.md` is now
+   confirmed on a second city, quantitatively.***
+
+> ### **This is a property of the CORPUS, not of any location** — exactly what `§C.2` step 4 predicts a
+> withheld-rate is evidence about. ***Roughly half of a Tepenian city's content-bearing canon surface is
+> conclusion-tier, and it is distributed the same way in every city.***
+
+## What it means for the project, beyond this methodology
+
+- **`05` §6.1d's warning that a `Specs/` file is not categorically safe is confirmed from the other side too:
+  it IS the safest tier — but only at 79–85%.** **A cold run that trusts `Specs/` wholesale is wrong about
+  one line in six.**
+- ***The upstream split `§C.1` recommends is not optional housekeeping.*** **Two cities measured, ~50% mixed
+  each, 37 cities in the corpus. Every future cold run pays this cost again unless the files are split.**
+- **⭐ And it makes the `§C.4` review genuinely economic**: the map is the expensive artifact, it is reusable,
+  and **the thing it protects against is not rare — it is half of every file.**
+
+## ⚠ What this does NOT establish
+
+**Nothing about whether the ULM produces consistent CULTURE findings** — which is Run 12/13's actual stated
+purpose. ***This is consistency of the INPUT SURFACE, measured before either derivation ran.*** **It is a
+real result and it is not the one that was asked for.** **Recorded now because it is complete now, and
+because a statistic measured before the run cannot be accused of being fitted to the run's conclusions.**

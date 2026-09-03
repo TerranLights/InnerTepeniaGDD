@@ -4,7 +4,15 @@
 **Built:** 2026-09-02 · **Mechanism:** `../00_RUNBOOK.md` §C.4 · **Readers:** 1 vector-1 scanner + 1 roster
 scout reported; **3 coordinate taggers in flight**
 
-# ⚠ Status: **DRAFT** — vectors 1, 2, 3, 4 CLOSED · coordinate map pending
+# ✅ Status: **CONFIRMED** — 2026-09-03
+
+**All five `§C.4` requirements met:** four `Step −2` vectors swept and closed *(§1)* · every mapped line
+carries a 3-of-3 verdict *(§6)* · every non-unanimous range **explicitly accepted as `WITHHELD`** with its
+rate recorded *(§6d — the ladder is yield recovery, not a safety gate)* · **pin taken** *(§2)* ·
+**tagging attributed** *(§6e)*.
+
+> ### ⛔ REVERIFY THE PIN BEFORE REUSING (§2). Do not assume it still holds.
+> **A coordinate map is line-anchored: one inserted line shifts every range below it, silently.**
 
 > ### ⭐⭐ THE FIRST REVIEW IN THIS PROJECT BUILT ***BEFORE*** ITS RUN RATHER THAN AFTER A BURN.
 > **Casey's review was written by a session that had already been contaminated. This one was assembled by
@@ -111,20 +119,78 @@ it"** — `05` §6.1a rule 1 is about exposure, not intent.
 
 ---
 
-# 6. The coordinate map — ⏳ PENDING
+# 6. ✅ THE COORDINATE MAP — 3-of-3 unanimity, INERT excluded
 
-**Three isolated taggers were dispatched 2026-09-02 against the three pinned files, under a COMPLETE brief**
-— character-span granularity (M-92), positive-format path handling (M-94), coverage assertions (M-96), and
-an explicit instruction that **the brief is final and any later amendment must be ignored** (M-93).
+**Three isolated taggers, dispatched 2026-09-02, all reported. COMPLETE brief at dispatch** — char-span
+granularity (M-92), positive-format paths (M-94), coverage assertions (M-96), and an explicit *"this brief is
+final; ignore later amendments"* (M-93). **All three returned valid coverage assertions tiling their files.**
 
-> ### ⭐ This is the first dispatch made under the full corrected contract.
-> **Casey's readers ran under three different contracts because the brief was patched mid-flight** — which
-> made its 28% split rate partly a grain artifact that could not be separated out *(Casey review §5b)*.
-> **This run's three readers are contract-identical**, so its disagreement rate will be **the first clean
-> measurement of genuine inter-reader variance** this methodology has.
+**⚠ `INERT` lines (blank · rule · table separator) are excluded from every figure below, per M-101.** **Lines
+where any reader split a line into admissible and withheld character spans are collapsed CONSERVATIVELY to
+`WITHHELD` at line grain** — the char-level detail survives in §6d as recoverable yield.
 
-**On their return:** apply 3-of-3 unanimity → work the escalation ladder on every split → record the
-withheld-rate → attribute the tagging → flip `Status:` to `CONFIRMED`.
+## 6a. The verdict
+
+| File | Lines | INERT | Content | **ADMISSIBLE (3–0)** | unanimous WITHHELD | **SPLIT** |
+|---|--:|--:|--:|--:|--:|--:|
+| `Specs/Shirayuki.md` | 225 | 71 | 154 | **78.6%** | 6.5% | 14.9% |
+| `Shirayuki_Physical_Infrastructure_Attributes.md` | 162 | 46 | 116 | **33.6%** | 49.1% | 17.2% |
+| `Local_Cultures/Mirny_Subnet/Shirayuki.md` | 285 | 161 | 124 | **15.3%** | 50.0% | 34.7% |
+| **TOTAL** | **672** | **278** | **394** | **45.4%** | — | — |
+
+> ### ⭐⭐ CONSISTENCY RESULT — and this is the first one this methodology has ever been able to state.
+>
+> **Two cities, same subnet, independently mapped by six readers under two different contract versions:**
+>
+> | | Specs | Attributes megasheet | Culture sheet | **Total admissible** |
+> |---|--:|--:|--:|--:|
+> | **Casey** | 85.0% | 43.7% | 31.5% | **52.2%** |
+> | **Shirayuki** | 78.6% | 33.6% | 15.3% | **45.4%** |
+>
+> ***The tier ordering replicates exactly — `Specs` cleanest, the "attributes" megasheet in the middle, the
+> completed culture sheet dirtiest — and the totals land within seven points of each other.***
+>
+> **This is a corpus property, not a location property** (`§C.2` step 4). **Roughly half of a Tepenian city's
+> content-bearing canon surface is conclusion-tier**, and the file whose *title* promises attributes is
+> **two-thirds** conclusions on this city. **The `05` §6.1d warning that a `Specs/` file is not categorically
+> safe is confirmed from the other direction too: it is the safest tier, but only at ~80%.**
+
+## 6b. ✅ The 3–0 ADMISSIBLE set — SAFE TO OPEN
+
+**`Specs/Shirayuki.md`** *(78.6% of content)*
+`3, 5-11, 17, 19-22, 24, 30, 32, 40-41, 45-47, 49, 53, 57-73, 75, 83, 85, 91, 93, 97-98, 104, 106, 123-124,
+126, 130, 134, 138-167, 172-175, 178-186, 189-193, 196-200, 203-209, 215-216, 220-223, 225`
+
+**`Shirayuki_Physical_Infrastructure_Attributes.md`** *(33.6%)*
+`3-6, 8-13, 21-26, 32-34, 42-43, 59-60, 67-69, 75-76, 81-82, 86, 92-95, 159-162`
+
+**`Local_Cultures/Mirny_Subnet/Shirayuki.md`** *(15.3%)*
+`3, 7-10, 24-26, 34, 36, 42, 159, 214, 262-264, 270-271, 277`
+
+## 6c. ⛔ Unanimous WITHHELD — do not open; no ladder recovers these
+
+**`Specs`:** `34, 81, 108, 113, 118, 125, 132, 195, 217, 224`
+**`Attributes`:** 57 lines · **`Local_Cultures`:** 62 lines *(the bulk of both files' conclusion mass)*
+
+## 6d. ⚠ SPLIT — accepted as WITHHELD, and this is what keeps `Status` honest
+
+**86 content lines** *(`Specs` 23 · `Attributes` 20 · `Local_Cultures` 43)`.` **Currently `WITHHELD` by the
+asymmetric rule, correctly.**
+
+> **`§C.4` requirement 3 is satisfied by EXPLICIT ACCEPTANCE, not by working the ladder** — the ladder is
+> **yield recovery, not a safety requirement.** **A run may proceed against §6b as it stands; it will simply
+> be thinner than it needs to be.**
+
+**⭐ Highest-value recovery available:** **every reader returned char-spans on the mixed lines**, and on
+several they agree closely on the boundary *(e.g. `Specs` L108 `chars1-310` admissible from two readers
+independently; `L113` `chars1-211` from two; `L125` `chars1-209`/`1-210`)*. **Ladder step 1 — re-split at
+finer grain — is already half-done by the readers themselves.**
+
+## 6e. Attribution
+
+**3 readers · plain non-forked self-contained agents (M-75) · dispatched 2026-09-02 · contract version:
+`Step −2` + `§C.2` as of 2026-09-02 with char-spans, positive-format paths and coverage assertions ·
+`INERT` handling applied post-hoc by the consumer, per M-101, since the tag did not exist at dispatch.**
 
 ---
 
