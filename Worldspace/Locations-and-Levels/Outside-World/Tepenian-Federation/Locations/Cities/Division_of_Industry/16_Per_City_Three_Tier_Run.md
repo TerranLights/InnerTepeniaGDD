@@ -2795,6 +2795,88 @@ recorded here because this is where it surfaced.**
 
 ---
 
+## 28. ✅ JANBOGO — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.25, **GROWER** — Terra Nova Bay, rock-founded, food term 100%)* | 406,082 | **41.1%** |
+| **Mandated** | 232,464 | **23.6%** |
+| **FREE — the character budget** | 348,695 | **35.3%** |
+
+**Distinctive tier: 581,159 (58.9%).** Canon §15: Commercial/logistics ~30% · Marine/resource extraction ~20% ·
+Industrial/manufacturing ~15% · Hospitality/communal services ~15% · Technical/scientific ~10% ·
+Education ~5% · Other ~5%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **30%** | 174,348 | **Commercial/logistics — FULL** | ✅ Canon §15 — two independent national grounds, below |
+| **10%** | 58,116 | **Half of Marine** — the year-round polynya fishery | ✅ `04` food provider; `04`'s own discount rule re-read |
+| **40%** | **232,464** | | |
+
+### ⭐⭐ Commercial/logistics is mandated on TWO independent grounds
+
+**§15:** *"the port, the polynya, and Hwy 183 make Janbogo a supply and trade hub first."* **Both halves are
+load-bearing on their own:**
+
+| Ground | Canon |
+|---|---|
+| **The only ground route into Concordia** | ***"Hwy 183 is Concordia's most critical supply artery — whatever enters or exits Concordia by ground moves through Janbogo."*** |
+| **The only winter-open port in the country** | **The Terra Nova Bay polynya gives YEAR-ROUND maritime access** — canon calls it a **unique strategic asset**, since *"other coastal cities only receive summer shipping."* |
+
+> **One city holds the sole ground route into Concordia and the only port that does not freeze. No judgment
+> was required.**
+
+### ⭐ Why HALF the marine sector, not the full 20% the standing mandate took
+
+**`04` credits Janbogo *"marine 20%, ~⅓ food."* Half B's mandate took the FULL 20%.**
+
+**`04`'s own note explains where that ⅓ discount comes from:** *"marine sectors discounted **where they
+include port operations** and non-food extraction."*
+
+> ### ⚠ **At Janbogo the port is NOT in the marine sector — §15 puts it in commercial/logistics.**
+> **So the reason for the ⅓ discount does not apply here the way it does elsewhere: ⅓ likely UNDER-credits,
+> while the full 20% OVER-credits.**
+
+**Half credits the genuinely national part — *year-round polynya fishing is winter food when nowhere else in
+Tepenia can put boats out* — without conscripting the unspecified *"bay-based industry"* sharing the
+sector.**
+
+### ⭐ Hospitality 15% stays FREE — the most interesting call here
+
+**§15 goes out of its way to pre-empt the objection:** *"an unusually large sector for any Tepenian city,
+reflecting the centrality of teahouses and hosting institutions **to the local economy, not just the
+culture**."* **Canon is insisting the sector is economic.**
+
+> **But ECONOMIC is not the test. NATIONAL is.** The teahouse tradition is *"nationally famous"* — **the same
+> reputation construction that did not carry a mandate at Denison or Zukelli.**
+>
+> ***A city can have a large, genuinely commercial sector that the nation would not materially miss.***
+
+*(Majyao's Teahouse has since relocated to Concordia/Aquarius — **the export was the institution itself, not
+a supply.**)*
+
+### What else stays FREE — all unannotated, per developer ruling
+
+**Industrial/manufacturing 15% · Technical/scientific 10% · Education 5% · Other 5%** — **none carries an
+annotation to split on. The Troll refusal, applied across four sectors at once.**
+
+### Notes
+
+- **⭐⭐ Janbogo's Arcanet subnet nexus physically sits in CONCORDIA'S GEMINI DISTRICT**, not in Janbogo —
+  **unusual; most nexuses sit in their hub city.** Canon reads this as reflecting the depth of the
+  relationship: **Gemini is the largest, most established diaspora enclave in Concordia.** *(Note this means
+  the nexus labor is NOT in Janbogo's §15 to mandate — it is physically elsewhere.)*
+- **One of three Korean-founded Tepenian cities** *(with Sejong and Sinheung)* — **Janbogo's claim rests on
+  institutional and cultural depth despite demographic dilution**, not raw population share *(South Korea
+  remains its largest Significant-tier nation at 10.23%)*.
+- **~8 km south of Zukelli's ruins, visible from the waterfront** — understood since 2026-07-05 as a
+  deliberate **"living witness"** arrangement, not incidental proximity.
+- **⏸️ Post-war governance is TBD — the central DLC 6 question.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
