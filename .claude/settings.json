@@ -11,6 +11,16 @@
         ]
       },
       {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 '/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/.claude/hooks/deny-destructive.py'",
+            "statusMessage": "Checking for destructive commands..."
+          }
+        ]
+      },
+      {
         "matcher": "Read|Glob",
         "hooks": [
           {
