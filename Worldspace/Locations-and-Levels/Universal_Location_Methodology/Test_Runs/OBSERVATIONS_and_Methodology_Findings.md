@@ -4960,3 +4960,77 @@ zodiac SIGN names — which are not locations)*.
 serve the DISTRICT methodology, which has no portability requirement — so either they are exempt and the ULM
 sweeps them every run, or they are in scope and get this same treatment.** ***Neither has been chosen, which
 is worse than either.***
+
+---
+
+# M-131 — ⛔⛔⛔ **THE METHODOLOGY HAS AN INPUT CONTRACT AND NO OUTPUT CONTRACT. IT GUARDS AGAINST WHAT FLOWS IN AND NOTHING AGAINST WHAT IT DESTROYS.**
+
+**2026-09-03. A session over-applied a scoping rule, stripped worked examples out of the District Synthesis
+Methodology's own disciplines and two shared instruments, and committed part of it.** ***Nothing in this
+methodology objected. Nothing could have.*** **The developer caught it, mid-turn, by reading.**
+
+## What actually happened, stated without softening
+
+**The developer's LAYERING LAW governs the ULM's OWN derivation files** — *`01`–`05` and `README` must be
+usable for any location in any universe.* ***The session generalized it to "strip location names from every
+file the ULM reads."*** **Those are different rules.** **The disciplines and the shared toolkit belong to a
+methodology with NO portability requirement, which had earned its worked examples across thirteen passes and
+roughly fifteen recorded failures.**
+
+**What was removed was precisely the load-bearing part.** **`06`'s own words:** *a rule stated abstractly is
+advice; the same rule with "here is the pass where this went wrong and here is the number that caught it" is
+procedure.* **M-4 adds that anonymizing is WORSE than deleting-and-naming, because a named example can be
+quarantined and an unnamed one is absorbed as general knowledge.** ***The session performed a form of
+anonymizing while quoting the files that forbid it.***
+
+## ⭐ THE STRUCTURAL GAP — and it is a whole missing axis, not a missing rule
+
+> ## **`05_The_Input_Contract.md` governs everything that may flow INTO a pass. NOTHING governs what a pass may CHANGE, REMOVE, or REWRITE — or in WHOSE files.**
+
+| Axis | Instrument | Status |
+|---|---|---|
+| **What may come IN** | `05` — PROVIDED · RESERVED · PRODUCED · REQUESTED; admissibility; ratification; provenance | ✅ **elaborate, four-tiered, seven-requirement** |
+| **What may go OUT** | — | ⛔ ***nothing at all*** |
+
+**Every control this project has built — 21 leak-register rows, triple tagging, unanimity, pins, scope pins,
+tiers, briefs, blackouts — points ONE WAY: keeping information from reaching a deriver.** ***Not one of them
+asks whether the deriver is about to damage something.***
+
+**And the asymmetry is worse than it looks:**
+
+| | Contamination | Destruction |
+|---|---|---|
+| Detected by | 21 cataloged channels, sweeps, pins, unanimity | ***the developer happening to read the diff*** |
+| Recovered by | nothing — *"you cannot un-read a conclusion"* | git, **if** someone notices before it is buried |
+| Failure is | loud once found | ***silent, and looks like tidying*** |
+
+> ### ⚠ **DESTRUCTION LOOKS LIKE PROGRESS.** **A diff that removes 60 lines of "location-specific clutter"
+> from a rule file reads as cleanup in every review, including a careful one.** ***Contamination at least
+> feels like a mistake when you find it. This felt like compliance.***
+
+## What a fix has to cover — the requirements, not the design
+
+1. **OWNERSHIP.** ***Which methodology owns which file, and who may edit it.*** **The disciplines live in the
+   district folder and are read by both; nothing declares which is authoritative or who may change them.**
+   **A shared instrument with no declared owner is editable by whoever touches it last.**
+2. ⭐ **COPY, NEVER CUT, ACROSS A BOUNDARY.** **A broader-scale methodology may READ a narrower one and may
+   COPY from it. It may NEVER remove from it.** ***The ULM sits ABOVE the district methodology; "above" is not
+   a license to edit downward.***
+3. **A PRE-EDIT CHECK with the same weight as the pre-flight.** ***"Am I about to remove content from a file
+   this pass does not own?"*** **`05` §7's checklist exists for inputs; there is no equivalent before a write.**
+4. **EVIDENCE IS NOT CLUTTER.** **A worked example, a recorded failure, a developer quote, a measured number:
+   these are the methodology's proof, and their removal must be a DELIBERATE, AUTHORIZED act — never a side
+   effect of applying some other rule.**
+5. **The rule must survive an agent that believes it is complying.** ***This session was not careless; it was
+   diligent in the wrong direction, which is `COLD_RUN_CHECKLIST`'s ONE LAW pointed at a second failure
+   class.*** **"Be careful" has never worked here. A mechanical gate has.**
+
+## ⚠ What made the cost near-zero, and why that is NOT reassurance
+
+**Recovery was complete** — sha256-verified against session start; the district edits never reached a commit;
+the shared-file removals survived exactly one commit. ***That was git plus the developer reading in real time.
+Neither is a control this methodology owns.*** **Had the same edit been made in a longer session, or noticed
+three commits later, the worked examples would have been quietly gone and the rules left as bare assertions.**
+
+**⏸️ TRACKED AS TOP PRIORITY in `TODO.md`.** **The design is NOT attempted here** — *a fix written while being
+bitten is shaped like the bite (M-104)*, **and this one wants a deliberate pass, not a same-hour patch.**

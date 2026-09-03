@@ -1,5 +1,28 @@
 # Inner Tepenia — To-Do List
 
+> # 🔺🔺🔺 TOP PRIORITY — **DESIGN AN OUTPUT CONTRACT. Nothing stops a session destroying proven work.**
+>
+> **On 2026-09-03 a session over-applied a scoping rule, stripped worked examples out of the District
+> Synthesis Methodology's own disciplines and two shared instruments, and committed part of it.**
+> ***No control in any methodology objected. None could have. The developer caught it by reading.***
+>
+> **The gap in one line:** **`05_The_Input_Contract.md` governs everything that may flow INTO a pass.
+> ⛔ *Nothing whatsoever governs what a pass may CHANGE, REMOVE or REWRITE — or in whose files.***
+> **Twenty-one leak-register rows all point one way: keeping information OUT of a deriver. Not one asks
+> whether the deriver is about to damage something.**
+>
+> ⚠ **And destruction LOOKS LIKE PROGRESS** — a diff removing "location-specific clutter" from a rule file
+> reads as cleanup in any review. **Contamination at least feels like a mistake once found; this felt like
+> compliance.**
+>
+> **Full analysis, the five requirements a fix must meet, and why the design is deliberately NOT attempted
+> yet:** **`Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`
+> — M-131.**
+>
+> **⚠ Do not patch this in the same hour it was found** *(M-104: a fix written while being bitten is shaped
+> like the bite)*. **It wants a deliberate pass.**
+
+
 ## ⚠ DEFERRED CANON-FILE CORRECTIONS — surfaced by the division-of-industry roster pass, 2026-09-02
 
 **Deferred by developer direction during the pass** *("that can wait until after we finish the per-city
