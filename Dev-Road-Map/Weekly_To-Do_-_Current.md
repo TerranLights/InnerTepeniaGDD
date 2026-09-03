@@ -8,201 +8,46 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
-# ✅ NEW 2026-09-03 — THE CITY MASTER REFERENCE IS USABLE AT LAST. **First `§C.1` split extracts built.**
+# 🔺 NEXT UP — ULM. Two things, in order.
 
-**`§C.1` has required an attribute-only split extract since it was written, and one had never been built** —
-which meant its own rule *("until it exists, treat the whole folder as withheld")* made the City Master
-Reference **entirely unreadable to any cold run.** ***Registering it harder would not have helped; it needed
-the extract.***
+> **⚠ This is the QUEUE. All detail lives in the files named below.** *(Corrected 2026-09-03: a session had
+> been writing full methodology write-ups into this file. They belong in the observations log, and are there.)*
 
-**Now at `City_Master_Reference/Split_Extracts/`, built by three isolated readers plus a script —
-no session read the sources:**
+| # | Task | Detail lives in |
+|---|---|---|
+| **1** | **Finish the `§C.1` split extracts.** Halley + Janbogo ✅ built. **Mawson/Byrd/Amundsen and Mirny need one more reader each; Palmer needs re-mapping.** *(Partial maps were in an ephemeral scratchpad — re-dispatch all three.)* | `00_RUNBOOK.md` §C.1 |
+| **2** | **RUN 13 — Shirayuki, COLD.** Its review is **`CONFIRMED` and pinned**, so a fresh session skips the whole setup and starts deriving. | `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md` |
+| — | *Casey's review is built but `DRAFT`* — 86 split lines need the escalation ladder before it confirms. | `Pre-Contamination_Reviews/Casey_Pre-Contamination_Review.md` |
 
-| Source | Status | 3–0 admissible |
-|---|---|--:|
-| `Halley_Subnet_Reference.md` | ✅ **BUILT** | **62.8%** of content |
-| `Janbogo_Subnet_Reference.md` | ✅ **BUILT** | **83.7%** |
-| `Mawson_Byrd_Amundsen` · `Mirny` | ⏸️ 2-of-3 maps on disk — **need ONE more reader each** | — |
-| `Palmer` | ⏸️ **re-map from scratch** | — |
+> ### ⛔ BEFORE ANY COLD RUN — `00_RUNBOOK.md` now opens with `Step −2` and a twelve-row **LEAK REGISTER.**
+> **Check it as a checklist; do not re-derive it.** **Runs 12 and 13 were both burned (2026-09-02/03), the
+> second by the very mitigation written for the first.** **Governing law is M-104: *the protection operates at
+> level N; the leak arrives at level N+1.*** **Full account — M-87 through M-108 —
+> in `Universal_Location_Methodology/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`.**
 
-> **⚠ Thin BY RULE** — 3–0 unanimity *and* no mid-line seam. **Not evidence the sources are clean.**
+### ⏸️ WAITING ON A DEVELOPER RULING
 
-### ⭐⭐ Two findings came out of building it
+1. **The exposure ledger** (M-89) — the only check that could catch a *compositional* leak. Real per-run cost.
+2. **`01_Frame_Typology_and_Inheritance.md` line 65** — genericize Casey's `Resettled` mention, or leave it
+   manifested in `06` and skipped?
+3. **A deliberate thin-Settlement run?** A different experiment — scored on content produced, since Gate 6 is
+   structurally unavailable on a thin location. **32 of 37 cities are stub-tier** (M-100).
+4. **`CGRM-001` — Denison geology.** ⏸️ **Parked at your instruction**, partial research banked.
+   → `Canon_Gap_Resolution_Method/Gap_Registry.md`
+# 🔺🔺 CASEY, COLD — **RE-HANDED OFF. A FRESH SESSION MUST RUN IT. This will be RUN 14.**
 
-**M-107 — the `§C.2` return contract had a hard SIZE CEILING**, hit for real (`max_output_tokens`, 64,000).
-***A span map costs ~one row per tag change; 1,400 lines exhausted the budget.*** **Fixed: the reader now
-WRITES the map to disk and returns only a receipt.** ***The coordinating session never needed the map at
-all*** — it had been carrying thousands of coordinate rows purely to retype them, spending context and
-risking a silent transcription error in the one artifact whose value is being trustworthy.
-
-**M-108 — and the new contract proved itself by being KILLED.** **All three readers died mid-task on a
-session rate limit.** ***Ten complete, valid maps were already on disk.*** **Under the old inline contract a
-killed reader returns nothing.** **Two files reached 3-of-3 and were built; three retain partial maps needing
-one reader instead of three.** ***Resumability was not designed for — it falls out of writing to disk, and it
-is the more valuable half of M-107.***
-
-**⭐ Plus the cleanest validation yet of the `INERT` tag:** **independent readers agreed EXACTLY on inert
-counts every time** *(94/94/94, 114/114, 107/107)* **while their admissibility counts varied widely on the
-same files.** ***Structural classification converges; judgment does not. Separating them removed the one part
-of the map that never needed a vote.***
-
----
-
-# ⛔⛔ RUNS 12 AND 13 — BOTH BURNED, 2026-09-02/03. **Read `00_RUNBOOK.md`'s `Step −2` LEAK REGISTER FIRST.**
-
-> ## ⭐⭐⭐ M-104 — THE LAW THAT CAME OUT OF LOSING TWO RUNS IN TWO DAYS
->
-> ### **THE PROTECTION OPERATES AT LEVEL N. THE LEAK ARRIVES AT LEVEL N+1.**
->
-> **Twelve contamination channels are now catalogued.** ***Not one was a channel nobody had thought about.
-> Every single one sat exactly one step of indirection outside a control that was working correctly.***
->
-> | The control, working as designed | Where the leak actually came from |
-> |---|---|
-> | `§C.2` quarantines what the deriver **delegates** | the deriver's **required reading** |
-> | *"Return no section headings"* | the **filenames** |
-> | *"Skip the flagged line"* | the **paragraph explaining** that line |
-> | *"Band the memory entries"* | the surface **scales with the corpus** |
-> | *"Describe the leak so the rule persuades"* | **the description was the leak** |
-> | *"Verify the skip boundary first"* | **the verification was the exposure** |
->
-> **Why it recurs, and it is not carelessness:** ***a fix written while being bitten is shaped like the
-> bite.*** It closes its own channel correctly and cannot see one step further out, because that is outside
-> the frame it was written in. **A control creates a boundary; a boundary creates an outside; the outside is
-> where the next leak is.** **This is why "be more careful" has never once worked here, and a checklist has.**
->
-> ### ⛔ **`00_RUNBOOK.md` `Step −2` now carries the LEAK REGISTER — twelve rows, each with its control and
-> its M-number. CHECK IT AS A CHECKLIST. Do not re-derive it.** **Every row was paid for by a burned run.**
-> **Declared OPEN: assume a thirteenth exists, one step outside whatever you most recently trusted.**
-
----
-
-# ⛔ RUN 13 — SHIRAYUKI. **HALTED AT PHASE 0, 2026-09-03. Not cold.**
-
-**The review was `CONFIRMED`. The vector-1 sweep worked perfectly — three coordinates, zero content. The
-mitigation *"skip that line"* was followed exactly.** ***Then the session read the adjacent lines to verify
-the skip boundary, and those lines state in full the analytical rule the flagged line exemplifies.*** **M-103.**
-
-**Run 13's own Phase 0 file pre-committed that a spine-level leak in that register forfeits cold status.
-The census made it spine-level immediately — a 38% loss to orbital emigration. `§C.5` applied; cold status
-forfeit.** ***Recorded as the pre-commitment being honored rather than reasoned around: it fired against the
-session that wrote it, twenty minutes after writing it.***
-
-> **⭐ Nothing downstream is lost.** **`Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md` is
-> `CONFIRMED`, pinned, coordinates-only, and now carries CORRECTED SKIP RANGES** *(ranges, never lines, for
-> worked examples — and never read adjacent lines to check a boundary)*. **A fresh session inherits it and
-> derives cold at none of this session's cost.**
->
-> **⭐⭐ And Shirayuki's map is a genuine asset**: 45.4% admissible across 394 content lines, 3-of-3 unanimous,
-> pinned. **Combined with Casey's, it produced M-102 — the first cross-location consistency result this
-> methodology has: the tier ordering (`Specs` cleanest → megasheet → culture sheet dirtiest) replicates
-> exactly on both cities, totals within seven points.**
-
----
-
-# ⛔ RUN 12 — ATTEMPTED AND ABANDONED, 2026-09-02. **Burned before Phase 0. Re-handed off as RUN 13.**
-
-> ## ⭐⭐ The abort is the most valuable result this methodology has produced since the Zodiac Lens.
->
-> **Run 12's deriving session absorbed FOUR conclusion-tier leaks about Casey before it dispatched a single
-> reader** — **every one upstream of `§C.2`**, which governs only what a deriver *chooses to delegate*.
-> ***By the time isolation was reached, there was nothing left to protect.*** The cold half was abandoned at
-> the developer's decision; the session continued on the READER side per `§C.3`.
->
-> | # | Vector | Fixed how |
-> |---|---|---|
-> | **1** | **The required reading itself** — `00_RUNBOOK.md` and `01` carried Casey worked examples, un-manifested in `06`. **`CLAUDE.md` mandates reading them in full** | `00` neutralized · `06` entry added · **a reader now greps the rule files for the subject's name** |
-> | **2** | **Auto-loaded memory** — three un-banded entries | ✅ **Banded** |
-> | **3** | ⭐ **Filenames as theses** — one mandated `find` returned eleven vignette titles, each an argument about the city. **`§C.2` permitted "File path" unconditionally while forbidding "Section headings"** | **`§C.2` amended — sanitized paths** |
-> | **4** | ⭐ **Compositional reconstruction** — 1+2+3 each survivable alone, decisive combined. **No single-source rule can catch this** | ⚠ **No mechanical fix. Exposure ledger proposed — needs your ruling** |
->
-> ### **`00_RUNBOOK.md` now OPENS with `Step −2` — *dispatch your readers before you read anything else,
-> including the rest of this file.*** ***A cold run's first act is delegation, never reading.***
->
-> ### ⭐⭐ Plus `§C.4`, at your instruction: **THE PRE-CONTAMINATION REVIEW IS NOW A REUSABLE ARTIFACT**
->
-> **`Pre-Contamination_Reviews/[Location]_Pre-Contamination_Review.md` — coordinates-only, safe to read in
-> full.** **`Step −2` now CHECKS FOR ONE FIRST:** `CONFIRMED` + pin verifies → ***reuse it, skip the dispatch,
-> go straight to the cold run.*** `DRAFT` → finish it. `ABSENT` → build it.
->
-> **This fixes a defect `Step −2` had just introduced** — rebuilding the whole map every run is not merely
-> wasteful, **it is a fresh contamination opportunity each time**, and *a check expensive enough to repeat is
-> one that eventually gets skipped.*
->
-> ⚠ **The pin is the part not to skip.** A coordinate map is line-anchored: **insert one line near the top of
-> a mapped file and every range below it shifts, silently, with no error** — pointing the next deriver into
-> withheld content. **`§C.4` carries a runnable `sha256` + line-count verification script.**
->
-> **Casey's review exists and is `DRAFT`** — four vectors swept and closed, tree sanitized, skip list written,
-> pin taken. **Blocked on one thing: two of three readers had not reported.**
->
-> **⭐ And it paid off immediately.** The one reader that did land **disagrees with the prep document's own
-> §4.2 admissible-set prediction on all three of its ranges.** §4.2 was derived *by rule* — file type and
-> template section number — by a contaminated session that correctly never opened the files. ***That was the
-> right way to write it and it still produced a hypothesis, not a map.*** **First hard evidence that `§C.2`
-> does real work rather than ratifying what a careful by-rule pass would have said anyway.**
->
-> **Eight findings: M-87 – M-94** in `OBSERVATIONS_and_Methodology_Findings.md`. **Two came from the readers
-> themselves** — one **refused a mid-flight contract amendment as a suspected prompt injection** (M-93: *you
-> cannot amend a reader; the brief is final at dispatch; kill and re-dispatch instead*), and the same reader
-> **blind-reproduced the filename hole** by returning person-named paths after being told not to name the
-> characters (M-94: *state prohibitions as positive formats — a negative rule can be silently unsatisfiable*).
->
-> ### ⚠ TWO THINGS NEED YOUR RULING
->
-> 1. **The exposure ledger** (M-89) — a running list of every conclusion-tier fragment a session meets,
->    reviewed **as a set** before Phase 0. **The only shape of check that could catch a compositional leak.**
->    **Costs real overhead on every run.** Not adopted unilaterally.
-> 2. **`01_Frame_Typology_and_Inheritance.md` line 65** names Casey's `Resettled` modifier. **Retained
->    deliberately** — it is genuinely useful guidance and a cold pass reads the modifier from `Specs/` anyway.
->    **Say if you would rather it were genericized.**
->
-> ### ⭐ And the good news: **`§C.1`/`§C.2` are still UNTESTED in live use.** Run 12 aborted before
-> exercising them. **Their first real test is still available — now on a repaired protocol.**
-
----
-
-# 🔺🔺 RUN 13 — CASEY, COLD. **RE-HANDED OFF 2026-09-02. A FRESH SESSION MUST RUN IT.**
+> **⚠ Numbering, corrected 2026-09-03:** **Run 12 = Casey** *(attempted, burned before Phase 0, no output
+> folder)*. **Run 13 = Shirayuki** *(attempted, burned at Phase 0 —
+> `Test_Runs/2026-09-02_Shirayuki_Run13_Cold/`)*. **A next Casey attempt is RUN 14.** *(An earlier edit this
+> session mislabeled this section "Run 13" and collided with Shirayuki.)*
 
 **Prep document: `Universal_Location_Methodology/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` — ⛔ read its TOP
 BOX and do the four things it lists BEFORE opening the runbook.** **The prep document itself was audited after
 Run 12 and leaked nothing — it was written against M-85 and it held.**
 
-> ## ⛔⛔ AND THE RUN 12 SESSION MAY NOT RUN IT "SEMI-COLD." **Ruled 2026-09-02. Now `00_RUNBOOK.md` §C.5.**
->
-> **Developer question:** *"if it's spine-level, would you be able to run a 'semi-cold' test run, or would
-> that be better handed over to a fresh iteration?"* ***Handed over.*** **Recorded because the instinct behind
-> the question is sound and the answer is not obvious until the dependency structure is looked at.**
->
-> ### **The diagnostic is WHERE the leak landed, not HOW MUCH leaked.**
->
-> | Leak location | Verdict |
-> |---|---|
-> | **A leaf** — one institution, one figure, one named place | ✅ **Tag corroboration-only, proceed. The run stays cold** *(M-63/M-66/M-85's own precedent)* |
-> | **The spine** — civic character, capability shape, differentiation axis, founding tension | ⛔ **NOT COLD. No partial credit, no middle tier** |
->
-> **`Step 2` calls the spine *"the step everything else hangs on."*** ***A spine leak lands at the ROOT of the
-> dependency tree — every finding below it inherits, and no tag applied afterward un-inherits.*** **A pass
-> whose foundation is known and whose superstructure is "derived" from it is the circularity failure
-> displaced by one step and made harder to see.**
->
-> ### ⭐ The decisive argument: it destroys the evidence class the run exists for
->
-> **M-35 — a cold pass reproducing a withheld sheet's central finding near-verbatim — is this methodology's
-> strongest result, *and it is evidence only because the pass was blind.*** **Convergence between a derivation
-> and a conclusion the deriver already half-knew is worth nothing.** **Run 12's own stated purpose is
-> consistency verification, so that evidence class is the entire reason for running it.**
->
-> ### ⚠ Two further points worth keeping
->
-> - ***A semi-cold result LOOKS cold*** — it would enter the comparison set beside Runs 3/4/5 with nothing
->   distinguishing it. **Same asymmetry as the unanimity rule: false-cold is unrecoverable, deferred is late.**
-> - **Switching SUBJECT instead of SESSION does not fix it.** **Vectors 1 and 3 are corpus-wide** — that
->   trades a *measured* heavy contamination for an *unmeasured* light one, which is worse, because only the
->   first can be declared in the frame block.
->
-> **Permitted alternatives: declare the run WARM and label it** *(precedented — Run 8)*, **or hand off.**
-> ***A warm run is honest; a "semi-cold" run is a warm run wearing a cold run's credibility.***
+> ### ⛔ **NO "SEMI-COLD" RUNS.** A contaminated session may not part-run this. ***The diagnostic is
+> WHERE the leak landed, not how much leaked*** — **leaf → tag corroboration-only and stay cold;
+> spine → declare WARM or hand off.** **Rule: `00_RUNBOOK.md` §C.5. Reasoning: M-98.**
 
 ### ⚠⚠ WHY THE PREPARING SESSION COULD NOT RUN IT
 
