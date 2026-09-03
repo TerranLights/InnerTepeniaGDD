@@ -4,11 +4,11 @@
 **Built:** 2026-09-02 · **Mechanism:** `../00_RUNBOOK.md` §C.4 · **Readers:** 1 vector-1 scanner + 1 roster
 scout reported; **3 coordinate taggers in flight**
 
-# ✅ Status: **CONFIRMED** — restored 2026-09-03, against the NEW six-requirement bar
+# ✅ Status: **CONFIRMED** — 2026-09-03, against the SEVEN-requirement bar
 
 > ## The lifecycle this file went through today, recorded because it is the evidence for `§C.4` requirement 6
 >
-> **`CONFIRMED` (5 requirements) → ⛔ `DRAFT` (Run 14 burned through the gap) → ✅ `CONFIRMED` (6 requirements).**
+> **`CONFIRMED` (5 reqs) → ⛔ `DRAFT` (Run 14 burned through the gap) → ✅ `CONFIRMED` (6) → ✅ `CONFIRMED` (7, after `Step 10.1` item 4 was run for the first time and changed two verdicts).**
 >
 > ***It met all five requirements in force when written, and every one of them held under use.*** **It was
 > still incomplete: the coordinate map covered `3` files, and a Brief B registry scout later enumerated
@@ -26,6 +26,7 @@ scout reported; **3 coordinate taggers in flight**
 | **4** | **A PIN** — `sha256` + line count per mapped file | §2 *(verified on reuse, 3/3 exact)* + §9 *(14 files, `wc -l` verified, no mismatches)* |
 | **5** | Tagging attributed | §6e + §9c |
 | **6** | ⭐ **Registry enumerated · scope pinned · every source tiered** | **§8 — 34 of 34 roots, no omissions** |
+| **7** | ⭐ **Every mapped file's header read for its own cited sources + ratification status** | **§10 — run on all 17; it DEMOTED one file and re-tiered another** |
 
 > ### ⛔ REVERIFY BOTH PINS BEFORE REUSING — the hash pin (§2, §9) **and the SCOPE pin (§8a)**
 > **A risen scope count means a source JOINED and this review is `DRAFT` again**, exactly as a moved hash

@@ -347,7 +347,7 @@ If the honest answer is *"probably, I suppose,"* the pass is not finished regard
 
 ---
 
-> **The one rule under all of it** (`../Cultural_Synthesis_Techniques.md`): **never carry one location's answers
+> **The one rule under all of it** (`Disciplines/Cultural_Synthesis_Techniques.md`): **never carry one location's answers
 > into another.** If two places produce similar-shaped answers to the same technique, at least one is wrong.
 > Every gate serves that. **Law 0 is what makes it possible to obey** — two places produce similar-shaped
 > answers mainly when neither was thought about long enough to become itself.
@@ -906,7 +906,7 @@ learns *where* to look without ever being exposed to *what is there*.**
 > | **MAPPED** | 3-of-3 coordinate map exists | Slice the `ADMISSIBLE` lines *(script, never by hand)* |
 > | **WITHHELD** | Conclusion-tier, or unratified | Do not open. Opened at Step 7 as a check |
 > | ⭐ **QUERYABLE-BY-SCHEMA** | **Registered canon · needed by a generator · unmapped** | **Name the FIELDS. An isolated extractor returns those fields and nothing else** |
-> | ⭐ **REQUIRED-READ-WITH-SKIPS** | **`CLAUDE.md` mandates reading it in full** — `00`–`06`, `00b`, `00d`, `00f`, `Cultural_Synthesis_Techniques.md` | **Read in full, applying the vector-1 skip RANGES.** ⛔ **Never probe a range boundary** (M-103) |
+> | ⭐ **REQUIRED-READ-WITH-SKIPS** | **`CLAUDE.md` mandates reading it in full** — `00`–`06`, `README`, and everything in **`Disciplines/`** *(the ULM copies; the originals are `WITHHELD`)* | **Read in full, applying the vector-1 skip RANGES.** ⛔ **Never probe a range boundary** (M-103) |
 >
 > > ### ⚠ THE FOURTH TIER WAS MISSING FOR ~40 MINUTES AND A READER CAUGHT IT *(M-115.)*
 > > **The first Brief B dispatched under the three-state set hit required-reading files and had no legal
@@ -1669,8 +1669,13 @@ it."* **Track provenance direction, or the circularity becomes invisible.**
 **0.1 Fill the declaration block** (`01` §6). Type and modifiers, **both** bands, status, temporal frame,
 parent, children, sibling set. **Every line changes a later question.**
 
-**0.2 Read the disciplines.** `00b` general population *(and its Band-1 inversion, `01` §2.3)* · `00d` shadow
-proportion · `00f` review panel · `../Cultural_Synthesis_Techniques.md`.
+**0.2 Read the disciplines — ⛔ FROM `Disciplines/`, THE ULM'S OWN COPIES. Not the originals.**
+`Disciplines/00b_General_Population_Discipline.md` *(and its Band-1 inversion, `01` §2.3)* ·
+`Disciplines/00d_Shadow_Proportion_Discipline.md` · `Disciplines/00f_Review_Panel.md` ·
+`Disciplines/Cultural_Synthesis_Techniques.md` · `Disciplines/Real-World_Basis_Extrapolation_Method.md`.
+> ***The originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** — between
+> them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is next
+> *(M-130)*. **They open at Step 7 with everything else.** **See `Disciplines/README.md`.**
 
 **0.3 Run Gate 0** — reconcile any completion claim against the file, **and the file's own open-questions list
 against what has actually been resolved elsewhere.** Cheapest gate, highest yield, fails in both directions.
@@ -1756,7 +1761,7 @@ it.**
 **⭐ 3.7 Log every search in this location's own research log, as you run it.** *(Standing developer
 instruction, 2026-08-30, Zhongshan Run 3.)* **One dedicated file per location** — for cities,
 `Cities/Research_Logs/[Location]_Research_Log.md`; other location types keep theirs with their own material.
-**Full convention in that folder's `README.md` and in `../Real-World_Basis_Extrapolation_Method.md` Step F.**
+**Full convention in that folder's `README.md` and in `Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.**
 
 **Record the exact search strings verbatim**, the sources actually used, a fact-by-fact table of *what came
 back → which finding it became*, what was **withheld** versus **omitted**, the **divergences from source**, and
@@ -1859,7 +1864,7 @@ what it flagged.**
 
 # Step 8 — The Review Panel
 
-`00f_Review_Panel.md`, carried unchanged; only the casting changes. Six Flat Archetypes plus the mandatory
+`Disciplines/00f_Review_Panel.md` *(the ULM copy)*, carried unchanged; only the casting changes. Six Flat Archetypes plus the mandatory
 **Passer-Through** and **Neighbor**; the **Lover faculty's question every time.**
 
 **Five dispositions:** accepted · noted · rejected · refereed · **unmet.**
@@ -1951,8 +1956,9 @@ before handing off to another session.**
    > **filenames** (1b). **All three are pushed rather than pulled, and Run 12 was burned by all three at
    > once.**
 
-   **1a. ⚠ Scan the REQUIRED READING for the next subject's name** — `00`–`06`, `00b`, `00d`, `00f`,
-   `Cultural_Synthesis_Techniques.md`. **Return line numbers, band or neutralize every hit, and manifest it in
+   **1a. ⚠ Scan the REQUIRED READING for the next subject's name** — `00`–`06`, `README`, and **everything in
+   `Disciplines/`** *(the ULM's own copies — the originals are withheld, not read)*.
+   **Return line numbers, band or neutralize every hit, and manifest it in
    `06`.** **`CLAUDE.md` mandates these files be read in full, so a worked example naming the next subject is
    a guaranteed leak with a mandatory delivery mechanism.** ***This has now failed three times — M-82 (Sanay),
    and twice more on Run 12*** — **which is why Step −2 has a reader scan them rather than trusting `06`.**
@@ -2024,9 +2030,9 @@ entries carried conclusion vocabulary about the same cluster.**
 | `04_QA_Gates_and_Differentiation.md` | gates 0–11 + C/F/I/P/G, and the differentiation instrument |
 | `05_The_Input_Contract.md` | **the boundary — PROVIDED / RESERVED / PRODUCED / REQUESTED, and the pre-flight checklist** |
 | **`06_Worked_Example_Provenance.md`** | ⚠ **CHECK THIS BEFORE THE MANDATORY READ.** Which rules in `00`–`05` and `00f` carry which location's answers as worked examples. **If your subject location is in the manifest, read those rules and skip their examples** — otherwise the required reading hands you your own prior conclusions. **And add your own examples to it in the same commit that adds them to a rule** |
-| `../Cultural_Synthesis_Techniques.md` | **the generative toolkit — sixteen techniques, already general-scope** |
-| `../Real-World_Basis_Extrapolation_Method.md` | the research method |
-| `../Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` | the panel, carried unchanged |
+| ⛔ `../Cultural_Synthesis_Techniques.md` **— ORIGINAL, `WITHHELD` from a cold run; read `Disciplines/` instead** | **the generative toolkit — sixteen techniques, already general-scope** |
+| ⛔ `../Real-World_Basis_Extrapolation_Method.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the research method |
+| ⛔ `../Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the panel, carried unchanged |
 | ⭐ **`Disciplines/`** | **THE ULM'S OWN COPIES of the five shared instruments** — `00b` · `00d` · `00f` · `Cultural_Synthesis_Techniques` · `Real-World_Basis_Extrapolation_Method`. **Read THESE during a cold run.** ***The originals are unchanged, authoritative, and `WITHHELD` until Step 7*** — they carry worked instances for ~14 locations, which is a vector-1 leak for whichever subject is next |
 | `.../00b_…` · `.../00d_…` | general population · shadow proportion — **originals**, binding, and the district methodology's own |
 | `.../00_RUNBOOK.md` | **the district procedure — the parent of this one, and still authoritative for districts** |

@@ -366,8 +366,8 @@ not in it** — and that transition is where Run 14 died. **It does not announce
 > `MAPPED-NEEDED` *(the deriver must READ it → Brief A)* ·
 > `WITHHELD` *(conclusion-tier or unratified → never opened before Step 7)* ·
 > `QUERYABLE-BY-SCHEMA` *(bulk/multi-location canon; the deriver needs FIELDS, not prose → Brief C)* ·
-> ⭐ `REQUIRED-READ-WITH-SKIPS` *(`CLAUDE.md` mandates reading it in full — `00`–`06`, `00b`, `00d`, `00f`,
-> `Cultural_Synthesis_Techniques.md`; a vector-1 sweep supplies skip RANGES)*.
+> ⭐ `REQUIRED-READ-WITH-SKIPS` *(`CLAUDE.md` mandates reading it in full — `00`–`06`, `README`, and
+> everything in `Disciplines/`; the ORIGINAL disciplines are `WITHHELD`. A vector-1 sweep supplies skip RANGES)*.
 > **⭐ Prefer `QUERYABLE-BY-SCHEMA` for any file over ~500 lines that mostly concerns OTHER locations.**
 > Mapping such a file costs three readers for a map that is ~99% irrelevant.
 >
