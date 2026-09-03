@@ -12,6 +12,7 @@
 | **Activation Date**      | |
 | **Escape Date**          | (unknown, currently M.I.A.) |
 | **Current Status**       | Status unknown (Presumed alive) |
+| **⭐ Origin City**        | **BYRD** *(Byrd subnet — established 2026-09-02, developer)* |
 | **Last Known Location**  | South America |
 | **Known by Concordia?**  | Known in specific circles (primarily in Pisces / The Markets) |
 | **Enneagram Type**       | **5w4, Social — confirmed 2026-08-11.** **Undercurrent: 3w4, Sexual** (see `Worldspace/Enneagram/Undercurrents.md`). **Relative strength ~55% Type / ~45% Undercurrent** — a real deviation from the ~80/20 working baseline, near-parity rather than a clearly subordinate secondary signature; the first confirmed case of a non-default split. First doll typed against the Off-World template, which had no Enneagram field until now. |

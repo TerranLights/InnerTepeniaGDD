@@ -28,7 +28,8 @@ variants, and more), see the **[Worldspace/Enneagram/](../Enneagram/)** folder o
 | TBN Charlene (XT-17) | 5w4 | TBD | → 8: decisive, assertive, willing to act | → 7: scattered, avoidant, overstimulated |
 | TBN Angelina (XT-21) | 7w8 | TBD | → 5: focused, still, depth-seeking | → 1: critical, rigid, impossible-to-please |
 | TBN Mei-Li (XT-03) | 6w7 | Social | → 9: calm, trusting, present | → 3: driven, image-conscious, competitive |
+| Eirwyn "Eira" Cardoss | 5w4 | Social | → 8: decisive, assertive, willing to act | → 7: scattered, avoidant, overstimulated |
 
 ---
 
-*Characters with TBD Enneagram types are not listed here. Add entries for Maria (FR-03), Momo (TCY-45), Eirwyn Cardoss, Calethina, IT-021 Fenny, and others once their types are confirmed.*
+*Characters with TBD Enneagram types are not listed here. Add entries for Maria (FR-03), Momo (TCY-45), Calethina, IT-021 Fenny, and others once their types are confirmed. *(**Eirwyn Cardoss added 2026-09-02** — her type was confirmed 2026-08-11 and this note was stale.)**
