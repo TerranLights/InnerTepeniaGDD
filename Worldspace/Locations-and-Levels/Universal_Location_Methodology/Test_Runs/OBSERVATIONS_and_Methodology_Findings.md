@@ -3640,3 +3640,53 @@ files completely and declare the rest unreached (M-106).
 maps were carried through a session's context in full for no reason at all.** ***The contract had been
 stress-tested for correctness and never for volume, which is the same blind spot M-104 describes: the control
 was specified along the axis its author was worried about.***
+
+---
+
+# M-108 — ✅ THE FIRST §C.1 SPLIT EXTRACTS EXIST — and the disk-map contract (M-107) validated itself on its
+first use, including through a hard rate-limit kill
+
+**2026-09-03.** **Two of the five City Master Reference files now have attribute-only split extracts**, built
+by three isolated readers and a script. ***No session read the sources.*** **`§C.1` has required these since
+it was written and had never had one** — which meant the whole folder was withheld-by-rule and unusable.
+
+| Extract | Content lines | **3–0 ADMISSIBLE** | unanimous W | split/seam |
+|---|--:|--:|--:|--:|
+| `Halley_Subnet_Reference` | 293 | **184 — 62.8%** | 84 | 25 |
+| `Janbogo_Subnet_Reference` | 289 | **242 — 83.7%** | 7 | 40 |
+
+## ⭐⭐ The strongest single validation of the `INERT` tag (M-101) available
+
+***Independent readers agreed EXACTLY on inert-line counts, on every file, every time:***
+**Halley 94 / 94 / 94 · Mawson 114 / 114 · Mirny 107 / 107 · Janbogo 95 / 96 / 95.**
+
+> **Structural classification is objective and converges; admissibility is judgment and does not.** **The
+> A/W counts varied widely across the same readers** — Janbogo `W` ranged 11 to 45, Halley `A` 187 to 208.
+> ***Separating the two into different tags was not tidiness. It removed the one part of the map that never
+> needed a vote, and left unanimity to do work only where work exists.***
+
+## ⭐ M-107's contract survived a hard kill, and that is the real test
+
+**All three readers were terminated mid-task by a session rate limit.** ***Ten complete, valid map files
+were already on disk, and every one tiled `1..n` with no gaps or overlaps.***
+
+> ### **Under the OLD inline contract, a killed reader returns NOTHING — its partial work dies in the
+> transcript.** **Under the disk contract, work is durable at file granularity.** ***Two files reached 3-of-3
+> and were built; the other three retain 2-of-3 maps that a future session can complete with ONE more reader
+> instead of three.***
+>
+> **This was not designed for. It is a property of writing incrementally to disk, and it is the more valuable
+> half of M-107** — **the size ceiling was the presenting problem; RESUMABILITY is the durable benefit.**
+
+## ⚠ Honestly stated: the extracts are THIN BY RULE, and the rule is visible in the file
+
+**The conservative rule — a line enters only on 3-0 unanimity AND only if no reader found a mid-line seam —
+excluded 25 and 40 lines respectively that are probably recoverable.** **Each extract's header states this,
+so a future reader does not mistake thinness for a clean source.** ***Yield is recovered by working the
+escalation ladder on the seam lines, never by lowering the threshold.***
+
+## State, for whoever picks this up
+
+**✅ Built:** Halley · Janbogo. **⏸️ 2-of-3 maps on disk, need one more reader:** Mawson_Byrd_Amundsen ·
+Mirny. **⏸️ No disk maps:** Palmer *(three inline maps were produced in an earlier round and exist only in a
+transcript — treat as unavailable and re-map)*.
