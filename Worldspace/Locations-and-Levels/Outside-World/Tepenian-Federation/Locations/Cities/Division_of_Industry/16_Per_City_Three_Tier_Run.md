@@ -2145,6 +2145,81 @@ explicitly **not** to Concordia, a different subnet, severed by the Split Brain)
 
 ---
 
+## 21. ✅ CASEY — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(D=1.11, **GROWER** — Bailey Peninsula-adjacent, Wilkes Land coast)* | 436,698 | **38.7%** |
+| **Mandated** | 207,641 | **18.4%** |
+| **FREE — the character budget** | 484,495 | **42.9%** |
+
+**Distinctive tier: 692,136 (61.3%).** Canon §15: Transit/logistics/resupply ~30% · Commercial ~20% ·
+Technical/scientific ~15% · Maritime ~15% · Industrial/manufacturing ~10% · Other ~10%.
+
+### The mandate *(developer ruling A, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **30%** | 207,641 | **Transit/logistics/resupply — the junction economy** | ✅ `04` §3 **LOGISTICS provider**; §15's *"the dominant sector, reflecting the junction economy directly"* |
+
+### ⭐ This city clears the crossroads test on its own §15's terms
+
+**A standing principle established earlier in this pass: *a crossroads is not automatically an employer*** —
+geography that goods pass through does not necessarily buy labor.
+
+**Casey clears it because its §15 ASSERTS the sector rather than leaving it to inference:**
+`Transit / logistics / resupply: ~30%`, annotated ***"reflecting the junction economy directly."***
+
+**And the geography is unusually load-bearing.** Casey is **where Hwy 2 BEGINS** *(its western end is
+literally "junction with Hwy 110")*, and **Hwy 110 runs THROUGH the city, not past it**
+*(`Highways.md` L56, L89, L197)*.
+
+> **The proof is in what happened when it stopped:** *"Casey's destruction **severed Hwy 2/DCH at the
+> source** — the route runs directly through the city; **Dumont d'Urville's overland connection survives only
+> via a much longer, more dangerous Hwy 183 detour.**"*
+>
+> **A junction whose loss re-routes another city's entire land access was doing national work.**
+
+### ⭐⭐ Why commercial 20% stays FREE — the city's defining fact lives there
+
+**The mandated sector's own name already contains *RESUPPLY*** — the work of servicing what moves through is
+**counted there.** **Commercial 20% is the city earning from its position**, the distinction that has kept
+commercial sectors free throughout this pass.
+
+**And Casey's identity is in that sector.** It holds **Splinters** — canon's own words: *"Tepenia's largest,
+most famous bar, a full city block, Classic Rock/Jazz/Blues/Acoustic Folk, famous along the whole Dumont
+d'Urville Sea coast"* — revived from **real pre-exile historical records of the actual Casey Station's own
+social bar.**
+
+**The Enneagram read was flagged as sitting *"in real tension with the 'quiet, function-first' framing"*
+dominant elsewhere in Casey's own sheet — and resolved in favor of the LOUD SPLINTERS REGISTER as Casey's
+actual defining fact, rather than smoothed over.**
+
+> **Mandating that sector would put the city's defining fact in the conscripted column.**
+
+### What else stays FREE
+
+- **Technical/scientific 15%** — *"inherited Australian Antarctic Division capacity."* Heritage research.
+- **Maritime 15% · Industrial 10% · Other 10%** — nothing marks them national.
+
+### Notes
+
+- **⭐ A threshold city:** sits **just north of the Antarctic Circle** — the sun never fully sets, but winter
+  days shrink to **~5 hours.**
+- **⭐ Robot kinship is the shared, ongoing condition of *being the last stop*** — a repeating daily rhythm
+  rather than a converging settled community. **Glitch-Coolant here fits neither canon category: its variety
+  is TRANSIENCE-DRIVEN**, tracking whichever traveler population is passing through in concentration.
+  **Both sit in the free tier.**
+- **⭐ The founding creed is explicitly anti-mythologizing** — from the Wilkes-excavation-abandonment
+  incident: ***"buried things are curiosities, not destinations."*** **Post-war, Casey is now exactly that
+  kind of thing.** Canon flags the irony as questline material; **it sits entirely in the free tier.**
+- **⚠ Post-war, NOT an input:** destroyed in the Long Night War. **Timing within the war — early strategic
+  target or late survivor — remains unresolved.**
+- **Wilkes Station ruins** *(a genuine pre-exile American research site, never Tepenian)* sit nearby as a
+  curiosity.
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
