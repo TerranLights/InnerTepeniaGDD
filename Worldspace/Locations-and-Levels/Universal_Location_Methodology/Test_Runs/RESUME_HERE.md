@@ -1,5 +1,32 @@
 # ▶ RESUME HERE — Universal Location Methodology test runs
 
+> # 🔺🔺 NEXT ACTION — RUN 12, CASEY, COLD. PREPARED AND HANDED OFF 2026-09-02.
+>
+> ### **Read `Casey_ColdRun_Prep_2026-09-02.md` (this folder) before anything else in this file.**
+>
+> **Per direct developer instruction, not the default** — the same precedence as Run 11. **This supersedes
+> both the type-diversity default below AND the Governing Priority Sequence deprioritization notice, for
+> this run only.**
+>
+> **⚠⚠ THE PREPARING SESSION COULD NOT RUN IT, AND NEITHER CAN ANY SESSION THAT HAS INDEXED THE CITIES.**
+> **It had compiled `Cities/City_Master_Reference/` (all 37 cities) and run Casey's division-of-industry
+> determination.** **Generalized as `../00_RUNBOOK.md` §C.3: *a compilation pass contaminates its compiler
+> against every location it covers.*** ***Confirm your own exposure before starting — the question is not
+> "is this location clean?" but "have I, at any point and for any reason, read into this location's
+> conclusion tier?"***
+>
+> **⚠ `../00_RUNBOOK.md` GREW ON 2026-09-02** — new **§C.1** *(the City Master Reference is MIXED and withheld
+> as a whole)*, **§C.2** *(reader/deriver isolation · three readers · `ADMISSIBLE` needs 3–0 unanimity · the
+> escalation ladder)*, and **§C.3** *(the contamination finding above)*. **Read it in full, as `CLAUDE.md`
+> requires.**
+>
+> **⭐ Run 12 tests TWO things:** Casey, **and §C.1/§C.2's first live use.** **The isolation machinery's
+> performance is a result of this run in its own right** and belongs in the writeup beside Casey's findings.
+>
+> **✅ This file is safe to read first — it contains no Casey content** *(verified 2026-09-02)*. Its
+> Zhongshan and Sinheung findings are **Mirny-subnet siblings and legitimate Tier 2 input** for Phase 5 and
+> Gate 6.
+
 > **⚠ DEPRIORITIZED 2026-09-01 — read `Dev-Road-Map/Weekly_To-Do_-_Current.md`'s "🔴🔴🔴 THE GOVERNING PRIORITY
 > SEQUENCE" before resuming this file's own work.** The type-diversity phase below is downgraded from Top to
 > Long-Term Priority. The developer's new sequence is: (1) architect/confirm the canon-gap-acquisition
