@@ -2544,6 +2544,88 @@ defending the same thing from opposite ends.**
 
 ---
 
+## 25. ✅ DENISON — DETERMINED
+
+| Tier | Workers | Share |
+|---|--:|--:|
+| **Baseline** *(**D=2.00** — Cape Denison, rock-founded, food term 100%)* | 428,167 | **53.2%** |
+| **Mandated** | 131,771 | **16.4%** |
+| **FREE — the character budget** | 244,718 | **30.4%** |
+
+**Distinctive tier: 376,489 (46.8%).** Canon §15: Structural/wind engineering ~25% · Technical/scientific
+~20% · Industrial/manufacturing ~20% · Commercial ~15% · Education ~10% · Other ~10%.
+
+### The mandate *(developer ruling B, 2026-09-02)*
+
+| Share of distinctive | Workers | Sector | Basis |
+|--:|--:|---|---|
+| **25%** | 94,122 | **Structural/wind engineering — FULL** | ✅ §25 Export Culture — see below |
+| **10%** | 37,649 | **Half of Industrial/manufacturing — the chamber manufacture** | ✅ `Specs` L97, confirmed for the living Second Interwar Period |
+| **35%** | **131,771** | | |
+
+### ⚠ The analyst went in expecting to correct this mandate DOWNWARD. The opposite was true.
+
+**The worry was that wind engineering is LOCAL SURVIVAL** — the disposition given to Princess Elisabeth's
+wind engineering and Dumont d'Urville's structural maintenance, both left **free** — and §15 annotates this
+sector as *"reflecting the city's **defining environmental challenge**,"* **which points inward.**
+
+**§25 Export Culture settles it the other way:**
+
+> ***"Wind-engineering and structural-hazard expertise — Denison-trained engineers are recognized across
+> Tepenia for genuine specialized skill."***
+
+**That is the same construction that carried Princess Elisabeth's mandate** *(its §25: "…-trained specialists
+are recognized for genuine skill in sustainable Antarctic infrastructure")*. **The sector genuinely serves
+both masters, and the existing 25% has a real basis.**
+
+### ⭐⭐ But the standing mandate was missing the LARGER claim entirely
+
+> **`Specs/Denison.md` L97:** ***"Confirmed 2026-07-07: Denison was a historical fabrication-synthesis chamber
+> manufacturer — a legitimate producer of the individual apparatus at the heart of the NATIONWIDE CRADLE
+> INFRASTRUCTURE during its LIVING SECOND INTERWAR PERIOD, lost when the city was destroyed."***
+
+**"During its living Second Interwar Period" is exactly this pass's scope.** **While Denison stood, it built
+the apparatus that creates robots, for the nationwide Cradle infrastructure** — the same class of national
+work carried by Sinheung's fabrication and Byrd's mechanized fabrication.
+
+> **And it was nowhere in the mandate.** **§15 has exactly one place it can sit — `Industrial/manufacturing
+> ~20%` — which was entirely free.**
+
+**HALF, not full**, because **canon states the function but §15's industrial line is UNANNOTATED**, so which
+portion is chambers versus ordinary manufacturing is inferred. **The Juan Carlos disposition: canon named the
+function; only the sector was open.**
+
+### What stays FREE
+
+- **Technical/scientific 20%** — *"climate and wind research."* **§25 exports the ENGINEERING, not the
+  research.**
+- **Commercial 15% · Education 10% · Other 10%** — local.
+
+### ⭐ A structural note — over half this city is spent on being there
+
+**Denison carries D = 2.00 at the windiest permanent sea-level habitation on Earth** — average ~80 km/h,
+**gusts 300+ km/h**, near-constant katabatic. *"Home of the Blizzard."*
+
+> **Baseline 53.2%.** **More than half the workforce goes to simply existing at that address**, which is why
+> even a 35%-of-distinctive mandate still leaves only 30.4% free.
+
+### Notes
+
+- **⭐ Built as ONE CONTINUOUS, INTERLINKED, LOAD-SHARING STRUCTURE** rather than separate buildings —
+  **unique in Tepenia.** *(The physical expression of the mandated sector.)*
+- **⭐ Civic identity is OPEN PRIDE IN EXTREMITY** — canon calls it *"the explicit opposite of Tepenia's usual
+  'competence without commentary' ethos"*; **residents recite wind statistics as social ritual**, and
+  `Specs` L89 lists the city as *"nationally known for… being the windiest city in Tepenia and being proud of
+  it."* **⚠ Reputation, not trade — that line alone would not have carried a mandate; §25 did.**
+- **⚠ Post-war, NOT an input:** destroyed in the Long Night War alongside Zukelli, at **63.7% human / 72.8%
+  robot retention — mid-tier, not a city in decline.** **The chamber-manufacturing capability died with it**,
+  leaving the current network at Sinheung and Byrd.
+- **⚠ `Division_of_Industry/README.md` flags Denison's §15 as an OLD-CONVENTION figure** *(share of visible
+  economy, not the baseline+distinctive convention)*. **Relevant to register item 11** — the denominator
+  question — **and not resolved here.**
+
+---
+
 ## 📋 END-OF-PASS REVIEW REGISTER
 
 **Items deliberately held during the roster pass, to be revisited once all cities are determined.**
