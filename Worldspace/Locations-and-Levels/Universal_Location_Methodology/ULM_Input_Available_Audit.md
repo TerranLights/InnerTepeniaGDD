@@ -92,23 +92,53 @@ today, not carried forward.*
 
 | Climate input | Have | Missing | Verdict |
 |---|--:|--:|---|
-| **Monthly climate table** `T1-G2` | **37** | 0 | ✅ **complete** — was 30/7 |
-| **Avg High (day) · Mean · Avg Low (night)** | **37** | 0 | ✅ complete |
+| **Monthly climate table** `T1-G2` | **37** | 0 | ✅ complete — was 30/7 |
+| **Mean · Avg High (day) · Avg Low (night)** | **37** | 0 | ✅ complete |
+| ⭐ **Rec High · Rec Low** *(all 12 months)* | **37** | 0 | ✅ **CLOSED 2026-09-04** — was 17, then 25. See below |
 | **Precip · Precip Probability · Daylight** | **37** | 0 | ✅ complete |
-| **Solstice daylight min/max** | **37** | 0 | ✅ complete — was absent in 22 |
-| ⭐ **Precipitation regime** *(falls / lands / lost / WIND-vs-COLD)* | **37** | 0 | ✅ **new class, complete.** `Precipitation_Falls_vs_Lands.md` |
-| ⭐ **Per-column provenance** *(measured vs computed vs estimated)* | **37** | 0 | ✅ **new class, complete** — a reader can now tell which numbers are real |
-| ⭐ **Access type** `T1-G5` | **37** | 0 | ✅ **new field**, added to every spec |
-| **Prevailing winds** | **37** | 0 | ✅ **CLOSED 2026-09-04** — all three remaining gaps filled with *measured, site-specific* data |
-| **Record extremes** *(header)* | **35** | **2** | ⚠ Abowasa · Princess_Elisabeth only. *Five were derived free from the cities' own monthly columns* |
-| **Monthly Rec High / Rec Low** *(all 12)* | **25** | **12** | ⚠ **9 partial** *(short station records)* + **3 none** |
+| **Prevailing winds** | **37** | 0 | ✅ closed — all with *measured, site-specific* data |
+| **Record extremes** *(header)* | **37** | 0 | ✅ closed |
+| **Polar night · Midnight sun · Solstice min/max** | **37** | 0 | ✅ complete |
+| **Climate type · Mean annual temp · Temperature range · Annual precipitation** | **37** | 0 | ✅ complete |
+| ⭐ **Precipitation regime** *(falls / lands / lost / WIND-vs-COLD)* | **37** | 0 | ✅ new class, complete |
+| ⭐ **Per-column provenance** | **37** | 0 | ✅ new class, complete |
+| ⭐ **Access type** `T1-G5` | **37** | 0 | ✅ new field, complete |
 
-> ### ⭐ Winds closed with measurement, not proxy — 2026-09-04
-> | City | Source |
-> |---|---|
-> | **Abowasa** | ⭐ **Aboa Weather Station, on Basen nunatak itself.** **NE-dominant year-round**, summer mean **5.9 m/s** — the 135 km Vestfjella range steers the flow. *Measured on site, not proxied* |
-> | **Davis** | Polar easterlies, **~5.6 m/s** |
-> | **Sejong** | Sub-Antarctic maritime, directionally mixed *(NW/W/N/SE)*, **4.6–6.7 m/s**, gales past **22 m/s** |
+> # ⭐⭐ THE CLIMATE BLOCK IS CLOSED. **Every field, all 37 cities.**
+> *One stale row on the morning of 2026-09-04 became **thirteen complete ones**.*
+
+## How the last, hardest field closed — monthly record extremes, 17 → 25 → 37
+
+| Source | Gave |
+|---|---|
+| Published climate boxes | the first **17** — *kept in preference to everything below; they cover longer periods* |
+| **NOAA NCEI GSOM** *(monthly `EMXT`/`EMNT`, 68 Antarctic stations)* | to **25** |
+| ⭐ **NOAA NCEI GHCN-Daily** *(daily `TMAX`/`TMIN`)* | **nine cities at once** — Rothera *(was 3/12)*, Lazar, Mirny, Zhongshan, Shirayuki, Sinheung, Kunlun, Sejong, Cape Adare |
+| ⭐⭐ **PANGAEA — IMAU Antarctic AWS network** *(Van Tiggelen et al. 2025)* | **the last two.** `AWS16` **IS Princess Elisabeth's own station** *(0 km, 92,670 hourly obs)*; `AWS05` is **~10 km from Abowasa at matching elevation** *(117,567 obs)* |
+| GHCN-Daily `AYW00087701` Adare Hallett | **Cape Adare's July**, which its 75 km proxy never recorded |
+
+## ⛔⛔ THE DATA-QUALITY WORK WAS THE REAL CONTENT — three filters, right on the third
+
+**Raw archive data is not clean, and the first two attempts to clean it were wrong in opposite directions.**
+
+| Attempt | Failure |
+|---|---|
+| **1. Per-station percentiles** | ⛔ too coarse — passed a **+17.2 °C APRIL reading at 71°S** |
+| **2. Per-month percentiles** | ⛔ caught that, but began **clipping genuine records** *(Rothera's real −39.1 °C)* |
+| ⭐ **3. Gap rule** — reject an extreme only if separated from the next value by **>6 °C** | ✅ **correct** |
+
+> ### ⭐ WHY THE GAP RULE WORKS, stated so it can be reused
+> ***A genuine record sits in a continuous tail. An instrument error sits alone.***
+> **Rothera's −39.1 °C has a 3.9 °C gap and is real. Cape Phillips' +20.4 °C June reading has a 21.9 °C
+> gap and is not.** **10 isolated readings rejected across the set; every legitimate record preserved.**
+
+⚠ **Two further traps, both of which would have silently corrupted all nine GHCN-Daily cities:**
+- **GHCN-Daily stores TENTHS of a degree.** Raw values read **+120 °C** and **−391 °C**. *Caught by sanity
+  check, not by assumption.*
+- ⛔ **The GHCN feed for Wasa (11 km from Abowasa) is CORRUPT** — 111 of 1,904 daily means below −60 °C at a
+  366 m nunatak. **It was refused rather than filtered** *(the bad values are 7% of the record, enough to
+  shift the percentiles themselves)*. ⭐ **PANGAEA's clean AWS record for the same site later gave −45.4 °C,
+  confirming the refusal was correct.**
 
 > ## ⚠⚠ A REGIME MISCLASSIFICATION, found by the same search — recorded, not quietly fixed
 > **`Davis` was classified KATABATIC MARGIN. The operating authority states plainly that Davis is *away

@@ -76,7 +76,7 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 
 **Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free Larsemann Hills terrain absorbs summer sun and runs warmer than the surrounding ice sheet; cold continental winter
 **Mean annual temperature:** -9.9°C  _(READER station: Zhongshan; 1991–2020 WMO standard normal)_
-**Record extremes:** summer daytime air temperatures (December–February) **frequently exceed +4 °C and can exceed +10 °C**; mean monthly winter temperatures range **−15 °C to −18 °C** *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Record extremes:** record high **+9.5 °C** (Jan); record low **-33.8 °C** (May) _(NOAA NCEI GHCN-Daily station `AYM00089573` — direct, 0 km; daily observations 1990-2026)_ *(researched 2026-09-04)*
 **Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of metres offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
 **Temperature range:** coldest months (July/August) avg −16.1°C; warmest month (January) avg +0.2°C — **above freezing in the mean, one of only a handful of Tepenian cities where that is true**
 **Annual precipitation:** **148.9 mm** water equivalent _(proxy: Progress, Larsemann Hills (~1 km); measured monthly normals — see table)_ *(researched 2026-09-04)*
@@ -108,16 +108,19 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
 | Jan | +9.5 | +3.3 | +0.2 | −1.6 | −4.7 | 5.2 | ~30% | 24 | Midnight sun; melt streams running; lakes ice-free |
 | Feb | +5.9 | 0 | -2.9 | −4.6 | −10.9 | 11.2 | ~29% | 17.4 | Melt ending; light falling fast |
-| Mar | −1.5 | −6.1 | -8.3 | −10 | −19.7 | 16.9 | ~27% | 13.2 | Autumn; refreeze |
-| Apr | −4.9 | −9.5 | -13.1 | −14.6 | −28.4 | 9.9 | ~25% | 8.8 | Darkening |
-| May | −6.8 | −11.9 | -15.2 | −17.5 | −33.8 | 16.8 | ~24% | 4.2 | Polar night begins ~May 29 |
-| Jun | −6.4 | −10.6 | -14.6 | −16.1 | −28.3 | 18.7 | ~23% | 0 | Full polar night; a slight midwinter plateau |
-| Jul | — | −12.9 | -16.1 | −19.1 | — | 11.8 | ~23% | 0 | Coldest month; polar night ends ~Jul 16 |
-| Aug | — | −12.5 | -16.1 | −18.1 | — | 11.5 | ~24% | 6.7 | Equal-coldest; light returning |
-| Sep | — | −10.6 | -15.4 | −16.1 | — | 15.8 | ~25% | 11.1 | Spring; still deep cold |
+| Mar | +0.6 | −6.1 | -8.3 | −10 | −21.8 | 16.9 | ~27% | 13.2 | Autumn; refreeze |
+| Apr | +0.3 | −9.5 | -13.1 | −14.6 | −28.4 | 9.9 | ~25% | 8.8 | Darkening |
+| May | −5.6 | −11.9 | -15.2 | −17.5 | −33.8 | 16.8 | ~24% | 4.2 | Polar night begins ~May 29 |
+| Jun | −3.4 | −10.6 | -14.6 | −16.1 | −28.3 | 18.7 | ~23% | 0 | Full polar night; a slight midwinter plateau |
+| Jul | −7.4 | −12.9 | -16.1 | −19.1 | −32.6 | 11.8 | ~23% | 0 | Coldest month; polar night ends ~Jul 16 |
+| Aug | −5 | −12.5 | -16.1 | −18.1 | −28 | 11.5 | ~24% | 6.7 | Equal-coldest; light returning |
+| Sep | −3.1 | −10.6 | -15.4 | −16.1 | −25.6 | 15.8 | ~25% | 11.1 | Spring; still deep cold |
 | Oct | +2.1 | −7.9 | -12.0 | −14.1 | −19.9 | 14 | ~27% | 15.4 | Warming |
 | Nov | +5.8 | −1.9 | -4.8 | −7.7 | −9.1 | 6.8 | ~29% | 21.0 | Midnight sun from ~Nov 22; thaw beginning |
 | Dec | +7.6 | +2.8 | -0.5 | −2.1 | −4.1 | 10.3 | ~30% | 24 | Midnight sun; melt season |
+
+***Monthly record extremes (ZHONGSHAN, `AYM00089573` — direct, 0 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1990-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
+
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089573** (ZHONGSHAN), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 

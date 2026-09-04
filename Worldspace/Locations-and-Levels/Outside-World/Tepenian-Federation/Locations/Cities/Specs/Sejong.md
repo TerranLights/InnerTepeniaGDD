@@ -63,9 +63,11 @@ The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both found
 **Climate type:** Maritime sub-Antarctic — the mildest Tepenian climate; strong maritime influence; above-freezing temperatures common in summer; significant cloud cover and precipitation
 **Mean annual temperature:** -1.7°C  _(READER station: King_Sejong; 1991–2020 WMO standard normal)_
 **Prevailing winds:** sub-Antarctic maritime — **strong, highly variable, and directionally mixed**; the four dominant directions over King George Island are **NW, W, N and SE**, varying by peninsula. **Mean monthly wind 4.6–6.7 m/s** *(Arctowski, same island)*, with **gale events exceeding 22 m/s 10-minute average** *(recorded at King Sejong, 7 January 2013)*. ⭐ *No katabatic regime — these are cyclonic winds off the Drake Passage, which is why they shift direction rather than always draining one way* *(researched 2026-09-04)*
-**Record extremes:** record high **+8.1 °C** (Jan); record low **-15.9 °C** (Jul) _(derived from the monthly record columns below — NOAA NCEI GSOM station `AYM00089251` (King Sejong))_ *(added 2026-09-04)*
+**Record extremes:** record high **+11.3 °C** (Mar); record low **-24.2 °C** (Jul) _(NOAA NCEI GHCN-Daily station `AYM00089251` — direct, ~2 km; daily observations 1991-2026)_ *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −8°C; warmest month avg +3°C; above-freezing temperatures frequent in summer
 **No polar night; no midnight sun** — at 62°13'S; winter minimum daylight ~6–7 hours; summer maximum ~18–19 hours
+**Polar night:** ⛔ **none** — at 62°13'S the city lies roughly ~475 km north of the Antarctic Circle; the sun rises every day of the year
+**Midnight sun:** ⛔ **none** — the sun sets every night of the year
 **Winter solstice daylight minimum:** approximately 5.0 hours
 **Summer solstice daylight maximum:** approximately 19.9 hours
 **Annual precipitation:** **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~25 km); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
@@ -84,18 +86,21 @@ The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both found
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +8.1 | +3.3 | +1.9 | +0.1 | −2.6 | 54.4 | ~58% | 18.7 |  |
-| Feb | +7.1 | +3.3 | +1.7 | +0.1 | −5.3 | 66.4 | ~56% | 15.7 |  |
-| Mar | +4.8 | +2.1 | +0.8 | −1.3 | −4.7 | 72.1 | ~54% | 12.9 |  |
-| Apr | +7.7 | +0.2 | -1.2 | −3.8 | −6.7 | 65.6 | ~52% | 9.8 |  |
-| May | +1.8 | −1.5 | -2.7 | −6 | −12.5 | 60.6 | ~50% | 7.0 |  |
-| Jun | +4.9 | −3.1 | -4.9 | −8.3 | −13.9 | 53.4 | ~48% | 5.1 |  |
-| Jul | +2.5 | −3.8 | -5.5 | −9.7 | −15.9 | 60.5 | ~48% | 5.9 |  |
-| Aug | +1.1 | −3.6 | -5.3 | −9.3 | −11.5 | 62.1 | ~50% | 8.4 |  |
-| Sep | — | −2 | -3.9 | −7.1 | — | 59.8 | ~52% | 11.4 |  |
-| Oct | +2.2 | −0.9 | -2.1 | −4.7 | −7.9 | 54.6 | ~54% | 14.4 |  |
-| Nov | +3.1 | +0.4 | -0.4 | −2.7 | −4.5 | 46.7 | ~56% | 17.5 |  |
-| Dec | +4.6 | +2 | +0.8 | −1 | −2.5 | 46 | ~58% | 19.7 |  |
+| Jan | +10.3 | +3.3 | +1.9 | +0.1 | −3.2 | 54.4 | ~58% | 18.7 |  |
+| Feb | +9 | +3.3 | +1.7 | +0.1 | −6.5 | 66.4 | ~56% | 15.7 |  |
+| Mar | +11.3 | +2.1 | +0.8 | −1.3 | −8 | 72.1 | ~54% | 12.9 |  |
+| Apr | +7.7 | +0.2 | -1.2 | −3.8 | −14.6 | 65.6 | ~52% | 9.8 |  |
+| May | +8.8 | −1.5 | -2.7 | −6 | −15.1 | 60.6 | ~50% | 7.0 |  |
+| Jun | +5.3 | −3.1 | -4.9 | −8.3 | −22.8 | 53.4 | ~48% | 5.1 |  |
+| Jul | +4.6 | −3.8 | -5.5 | −9.7 | −24.2 | 60.5 | ~48% | 5.9 |  |
+| Aug | +4.5 | −3.6 | -5.3 | −9.3 | −21.7 | 62.1 | ~50% | 8.4 |  |
+| Sep | +6.5 | −2 | -3.9 | −7.1 | −19 | 59.8 | ~52% | 11.4 |  |
+| Oct | +7.7 | −0.9 | -2.1 | −4.7 | −14.9 | 54.6 | ~54% | 14.4 |  |
+| Nov | +9.6 | +0.4 | -0.4 | −2.7 | −8.7 | 46.7 | ~56% | 17.5 |  |
+| Dec | +9.6 | +2 | +0.8 | −1 | −8.1 | 46 | ~58% | 19.7 |  |
+
+***Monthly record extremes (KING SEJONG, `AYM00089251` — direct, ~2 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1991-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
+
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089251** (KING SEJONG), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 

@@ -76,6 +76,7 @@ The choice to name the city after Turku (Aboa is Latin for Turku) — Finland's 
 
 **Climate type:** Inland Queen Maud Land nunatak, western sector — more continental than coastal; colder than Troll and Sanay on average; Vestfjella/Kraul Mountains weather; katabatic influence
 **Mean annual temperature:** approximately −25°C
+**Record extremes:** record high **+4.1 °C** (Jan); record low **-45.4 °C** (Jun) _(IMAU **AWS05**, *Wasa/Aboa Camp Maudheimvida* — ~10 km, 366 m — Aboa sits at ~400 m; **117,567 hourly observations**, 1998-02-02 to 2014-02-07. PANGAEA `10.1594/PANGAEA.974113`)_ *(researched 2026-09-04)*
 **Prevailing winds:** ⭐ **north-easterly, and dominantly so year-round** — a product of local nunatak topography combined with the easterly flow of cyclones tracking eastward parallel to the coast. **Summer mean wind 5.9 m/s** *(Aboa Weather Station, on Basen nunatak itself)*; **summer mean air temperature −5.4 °C.** *Basen sits in the north-eastern part of Vestfjella, a 135 km range of nunataks — the range itself steers the flow.* *(researched 2026-09-04; measured on site, not proxied)*
 **Temperature range:** coldest months avg −36°C; warmest month avg −8°C
 **Polar night:** approximately May 12 → Aug 2 (~83 days)
@@ -98,18 +99,21 @@ The choice to name the city after Turku (Aboa is Latin for Turku) — Finland's 
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | — | 0 | −8 | −16 | — | 15 | ~30% | 24* |  |
-| Feb | — | −6 | −15 | −24 | — | 13 | ~28% | 19.2 |  |
-| Mar | — | −14 | −23 | −32 | — | 11 | ~26% | 13.5 |  |
-| Apr | — | −22 | −31 | −40 | — | 9 | ~24% | 8.0 |  |
-| May | — | −26 | −35 | −44 | — | 7 | ~22% | 0* |  |
-| Jun | — | −27 | −36 | −45 | — | 6 | ~21% | 0* |  |
-| Jul | — | −27 | −36 | −45 | — | 6 | ~21% | 0* |  |
-| Aug | — | −25 | −34 | −43 | — | 7 | ~22% | 5.1 |  |
-| Sep | — | −18 | −27 | −36 | — | 10 | ~25% | 10.9 |  |
-| Oct | — | −9 | −18 | −27 | — | 13 | ~28% | 16.2 |  |
-| Nov | — | −1 | −10 | −19 | — | 14 | ~29% | 24* |  |
-| Dec | — | 0 | −8 | −16 | — | 15 | ~30% | 24* |  |
+| Jan | +4.1 | 0 | −8 | −16 | −20.4 | 15 | ~30% | 24* |  |
+| Feb | +3.1 | −6 | −15 | −24 | −39 | 13 | ~28% | 19.2 |  |
+| Mar | +2.1 | −14 | −23 | −32 | −34.1 | 11 | ~26% | 13.5 |  |
+| Apr | −1.8 | −22 | −31 | −40 | −38.6 | 9 | ~24% | 8.0 |  |
+| May | −4.2 | −26 | −35 | −44 | −42.9 | 7 | ~22% | 0* |  |
+| Jun | −5 | −27 | −36 | −45 | −45.4 | 6 | ~21% | 0* |  |
+| Jul | −8.1 | −27 | −36 | −45 | −43.7 | 6 | ~21% | 0* |  |
+| Aug | −6.7 | −25 | −34 | −43 | −40.7 | 7 | ~22% | 5.1 |  |
+| Sep | −5.9 | −18 | −27 | −36 | −42.4 | 10 | ~25% | 10.9 |  |
+| Oct | −4.9 | −9 | −18 | −27 | −36.5 | 13 | ~28% | 16.2 |  |
+| Nov | +0.3 | −1 | −10 | −19 | −28.9 | 14 | ~29% | 24* |  |
+| Dec | +3.4 | 0 | −8 | −16 | −20 | 15 | ~30% | 24* |  |
+
+***Monthly record extremes (IMAU **AWS05**, *Wasa/Aboa Camp Maudheimvida*)** — ⭐ **measured air temperature from 117,567 hourly automatic-weather-station observations** (1998-02-02 to 2014-02-07), ~10 km, 366 m — Aboa sits at ~400 m. **IMAU Antarctic AWS network, archived in PANGAEA** — *Van Tiggelen et al. (2025), `10.1594/PANGAEA.974113`*. **Every calendar month covered.**
+
 
 ***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 

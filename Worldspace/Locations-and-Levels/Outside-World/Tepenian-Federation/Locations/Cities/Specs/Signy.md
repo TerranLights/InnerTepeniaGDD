@@ -75,6 +75,9 @@ The Shackleton connection: the Endurance expedition (1914–1916) made its histo
 **Mean annual temperature:** -3.8°C  _(READER station: Signy; 1991–2020 WMO standard normal)_
 **Record extremes:** record high **+19.8 °C** — *the Antarctic region record high, 30 January 1982* — record low **−39.3 °C** *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −10°C; warmest month avg +3°C; above-freezing temperatures common in summer; liquid precipitation (rain) frequent
+**Polar night:** ⛔ **none** — at 60°43'S, the northernmost city in the Federation
+**Midnight sun:** ⛔ **none**
+*(Combined line retained below for context.)*
 **No polar night; no midnight sun** — at 60°43'S; winter minimum daylight ~6–7 hours; summer maximum ~18–19 hours
 **Winter solstice daylight minimum:** approximately 5.6 hours
 **Summer solstice daylight maximum:** approximately 19.1 hours

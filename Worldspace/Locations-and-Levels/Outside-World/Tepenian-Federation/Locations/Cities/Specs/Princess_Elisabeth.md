@@ -81,7 +81,8 @@ The station was designed by the International Polar Foundation as the first zero
 
 **Climate type:** Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; severe katabatic wind exposure (real station: gales to 300 km/h)
 **Mean annual temperature:** approximately −18°C
-**Prevailing winds:** the station is built against the **Utsteinen ridge, exposed to gales up to 300 km/h** *(researched 2026-09-04)*
+**Record extremes:** record high **+4.2 °C** (Dec); record low **-38.5 °C** (Aug) _(IMAU **AWS16**, *Princess Elisabeth station* — ⭐ **0 km — this IS the station's own AWS**; **92,670 hourly observations**, 2009-02-02 to 2020-07-03. PANGAEA `10.1594/PANGAEA.974126`)_ *(researched 2026-09-04)*
+**Prevailing winds:** ⭐ **sheltered, and unusually so for its latitude.** The **Sør Rondane Mountains shield the Utsteinen ridge from the high-speed katabatic flow**; **mean wind 6 m/s — half that measured at the less-protected Asuka site nearby.** *(The ridge itself is still exposed to gales in extreme events.)* *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −30°C; warmest month avg −5°C
 **Polar night:** approximately May 16 → Jul 29 (~75 days)
 **Midnight sun:** approximately Nov 11 → Feb 1 (~83 days)
@@ -103,18 +104,21 @@ The station was designed by the International Polar Foundation as the first zero
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | — | +3 | −5 | −13 | — | 18 | ~32% | 24* |  |
-| Feb | — | −3 | −12 | −21 | — | 15 | ~30% | 18.5 |  |
-| Mar | — | −10 | −19 | −28 | — | 13 | ~28% | 13.4 |  |
-| Apr | — | −17 | −26 | −35 | — | 11 | ~26% | 8.3 |  |
-| May | — | −20 | −29 | −38 | — | 9 | ~24% | 1.2 |  |
-| Jun | — | −21 | −30 | −39 | — | 8 | ~23% | 0* |  |
-| Jul | — | −21 | −30 | −39 | — | 8 | ~23% | 0* |  |
-| Aug | — | −19 | −28 | −37 | — | 9 | ~24% | 5.7 |  |
-| Sep | — | −13 | −22 | −31 | — | 12 | ~27% | 11.0 |  |
-| Oct | — | −5 | −14 | −23 | — | 15 | ~30% | 15.9 |  |
-| Nov | — | +1 | −7 | −16 | — | 17 | ~31% | 24* |  |
-| Dec | — | +3 | −5 | −13 | — | 18 | ~32% | 24* |  |
+| Jan | +3.3 | +3 | −5 | −13 | −23.5 | 18 | ~32% | 24* |  |
+| Feb | 0 | −3 | −12 | −21 | −21.4 | 15 | ~30% | 18.5 |  |
+| Mar | −7.5 | −10 | −19 | −28 | −29 | 13 | ~28% | 13.4 |  |
+| Apr | −8.2 | −17 | −26 | −35 | −32.3 | 11 | ~26% | 8.3 |  |
+| May | −5.1 | −20 | −29 | −38 | −33.8 | 9 | ~24% | 1.2 |  |
+| Jun | −10.3 | −21 | −30 | −39 | −34.8 | 8 | ~23% | 0* |  |
+| Jul | −11 | −21 | −30 | −39 | −38.4 | 8 | ~23% | 0* |  |
+| Aug | −7 | −19 | −28 | −37 | −38.5 | 9 | ~24% | 5.7 |  |
+| Sep | −10.4 | −13 | −22 | −31 | −37.4 | 12 | ~27% | 11.0 |  |
+| Oct | −8 | −5 | −14 | −23 | −32.7 | 15 | ~30% | 15.9 |  |
+| Nov | −2.5 | +1 | −7 | −16 | −26.8 | 17 | ~31% | 24* |  |
+| Dec | +4.2 | +3 | −5 | −13 | −23 | 18 | ~32% | 24* |  |
+
+***Monthly record extremes (IMAU **AWS16**, *Princess Elisabeth station*)** — ⭐ **measured air temperature from 92,670 hourly automatic-weather-station observations** (2009-02-02 to 2020-07-03), ⭐ **0 km — this IS the station's own AWS**. **IMAU Antarctic AWS network, archived in PANGAEA** — *Van Tiggelen et al. (2025), `10.1594/PANGAEA.974126`*. **Every calendar month covered.**
+
 
 ***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 

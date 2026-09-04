@@ -88,7 +88,7 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 **Climate type:** East Antarctic Plateau polar desert — the most extreme version; higher elevation than Vostok and Dome Fuji means colder mean temperatures; the highest and potentially coldest sustained environment in Tepenia
 **Mean annual temperature:** approximately −58°C (−72°F) — colder than Vostok (−55°C) and Dome Fuji (−54°C) due to the highest elevation of any Tepenian city
 **Temperature range:** coldest months (July/August) avg −68°C; warmest month (December/January) avg −29°C
-**Record extremes:** winter temperatures reach **−80 °C**; satellite measurement of nearby ice-sheet sites suggests **−90 °C** is attainable, unverified at the surface *(researched 2026-09-04)*
+**Record extremes:** record high **-31.2 °C** (Jan); record low **-77.0 °C** (Jun) _(NOAA NCEI GHCN-Daily station `AYM00089577` — Dome A, ~7 km; daily observations 1996-2026)_ *(researched 2026-09-04)*
 **Prevailing winds:** among the calmest in Antarctica — Dome A is a wind minimum due to the dome summit position; average winds 3–5 m/s; the defining hazard here is cold and altitude, not wind
 **Annual precipitation:** approximately 15–20 mm water equivalent — the driest location in Tepenia
 
@@ -114,16 +114,19 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
 | Jan | −31.2 | −40 | −29 | −21 | −41.8 | 2.0 | ~4% | 24 | Midnight sun; least extreme period |
 | Feb | −32.9 | −53 | −41 | −32 | −49.9 | 2.0 | ~4% | 24 | Rapid cooling |
-| Mar | — | −68 | −56 | −46 | — | 1.5 | ~4% | 14.6 | Autumn; polar night approaching |
+| Mar | −45.9 | −68 | −56 | −46 | −63.5 | 1.5 | ~4% | 14.6 | Autumn; polar night approaching |
 | Apr | −45.9 | −75 | −63 | −52 | −72 | 1.5 | ~3% | 3.4 | Polar night begins ~Apr 18 |
 | May | −48.9 | −78 | −66 | −55 | −74.4 | 1.5 | ~3% | 0 | Full polar night |
 | Jun | −56.9 | −79 | −67 | −56 | −77 | 1.5 | ~3% | 0 | Full polar night; solstice |
-| Jul | −62.4 | −80 | −68 | −57 | −76.5 | 1.0 | ~3% | 0 | Full polar night; coldest |
+| Jul | −62.4 | −80 | −68 | −57 | −75 | 1.0 | ~3% | 0 | Full polar night; coldest |
 | Aug | −52.4 | −78 | −66 | −55 | −71.9 | 1.0 | ~3% | 0 | Polar night ends ~Aug 26 |
 | Sep | −55.4 | −70 | −58 | −47 | −69.5 | 1.5 | ~4% | 10.0 | Spring |
 | Oct | −45.9 | −56 | −44 | −34 | −65 | 1.5 | ~4% | 21.4 | Midnight sun approaching |
 | Nov | −43.4 | −42 | −31 | −22 | −54.5 | 2.0 | ~4% | 24 | Midnight sun approaching |
 | Dec | −31.3 | −40 | −29 | −21 | −45.7 | 2.0 | ~4% | 24 | Midnight sun |
+
+***Monthly record extremes (DOME PLATEAU DOME A, `AYM00089577` — Dome A, ~7 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1996-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
+
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089577** (DOME PLATEAU DOME A), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 

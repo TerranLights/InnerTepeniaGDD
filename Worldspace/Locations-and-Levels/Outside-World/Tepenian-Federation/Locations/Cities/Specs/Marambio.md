@@ -60,6 +60,8 @@ The Argentine Air Force chose Seymour Island for the runway — flat terrain, re
 **Record extremes:** record high **+17.4 °C** (23 March 2015); record low **−38.3 °C**. ⚠ *A reading of +20.75 °C was reported here on 9 February 2020 and widely circulated, but **WMO rejected it** — the sensor was a permafrost monitoring unit under an improvised radiation shield. The mainland record belongs to Esperanza's 18.3 °C.* *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −17°C; warmest month avg 0°C
 **No polar night; no midnight sun** — at 64°14'S; winter minimum daylight ~4–5 hours; summer maximum ~19–20 hours
+**Polar night:** ⛔ **none** — at 64°14'S the city lies roughly ~415 km north of the Antarctic Circle; the sun rises every day of the year
+**Midnight sun:** ⛔ **none** — the sun sets every night of the year
 **Winter solstice daylight minimum:** approximately 4.1 hours
 **Summer solstice daylight maximum:** approximately 21.2 hours
 **Annual precipitation:** **362.8 mm** water equivalent _(Marambio (1991-2020); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*

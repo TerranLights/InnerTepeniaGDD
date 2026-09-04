@@ -70,7 +70,7 @@ Rothera was one of the few Antarctic stations with a paved runway. The Bonner La
 **Climate type:** Maritime subpolar — the mildest climate type in Tepenia; strong maritime influence from the Bellingshausen Sea; changeable, cloudy, significant precipitation; most similar to Palmer City's climate among all Tepenian cities
 **Mean annual temperature:** -4.0°C  _(READER station: Rothera; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest months (June/July) avg −16°C; warmest month (January) avg −1°C; above-freezing temperatures possible in summer
-**Record extremes:** record low approximately −36°C; record high approximately +8°C
+**Record extremes:** record high **+12.0 °C** (Jan); record low **-39.1 °C** (Sep) _(NOAA NCEI GHCN-Daily station `AYM00089062` — direct, 0 km; daily observations 1977-2025)_ *(researched 2026-09-04)*
 **Prevailing winds:** westerly and northwesterly off the Bellingshausen Sea; moderate to strong; the island position and surrounding topography create local wind variations; no severe katabatic regime
 **Annual precipitation:** approximately 500–700mm water equivalent; mix of snow and rain; among the highest precipitation of any Tepenian city; frequent cloud cover
 
@@ -94,18 +94,21 @@ Rothera was one of the few Antarctic stations with a paved runway. The Bonner La
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | — | +5 | +1.3 | −6 | −4.6 | 65 | ~55% | 22.6 | Warmest period; rain possible |
-| Feb | +5.4 | +2 | +0.7 | −10 | −7.1 | 60 | ~52% | 16.9 | Still mild; days shortening |
-| Mar | — | −2 | -0.9 | −14 | −7.7 | 55 | ~50% | 13.1 | Autumn; sea ice forming |
-| Apr | +5.1 | −6 | -2.7 | −18 | −12 | 50 | ~48% | 9.1 | Darkening; cold arriving |
-| May | — | −9 | -4.3 | −21 | — | 45 | ~46% | 5.2 | Near-darkness; polar night approaching |
-| Jun | +4.2 | −10 | -7.8 | −22 | — | 42 | ~45% | 0* | *Polar night ~Jun 15–Jun 29; ~16 days |
-| Jul | — | −10 | -9.8 | −22 | — | 42 | ~45% | 3.1 | Coldest month; still dark |
-| Aug | — | −9 | -9.7 | −21 | — | 45 | ~46% | 7.3 | Cold but days returning |
-| Sep | — | −5 | -8.1 | −17 | −26 | 50 | ~48% | 11.2 | Spring; conditions improving |
-| Oct | — | −1 | -5.0 | −13 | −19.8 | 55 | ~50% | 15.0 | Sea ice breaking; maritime access |
-| Nov | — | +3 | -2.3 | −9 | −14.8 | 60 | ~52% | 19.6 | Mild; midnight sun approaching |
-| Dec | — | +4 | +0.2 | −6 | −7.1 | 65 | ~54% | 24* | *midnight sun ~Dec 1–Jan 13; ~20 days |
+| Jan | +12 | +5 | +1.3 | −6 | −5 | 65 | ~55% | 22.6 | Warmest period; rain possible |
+| Feb | +7.9 | +2 | +0.7 | −10 | −7.1 | 60 | ~52% | 16.9 | Still mild; days shortening |
+| Mar | +7.3 | −2 | -0.9 | −14 | −10.2 | 55 | ~50% | 13.1 | Autumn; sea ice forming |
+| Apr | +6.9 | −6 | -2.7 | −18 | −21 | 50 | ~48% | 9.1 | Darkening; cold arriving |
+| May | +7.5 | −9 | -4.3 | −21 | −19 | 45 | ~46% | 5.2 | Near-darkness; polar night approaching |
+| Jun | +5.4 | −10 | -7.8 | −22 | −26 | 42 | ~45% | 0* | *Polar night ~Jun 15–Jun 29; ~16 days |
+| Jul | +6.3 | −10 | -9.8 | −22 | −31.3 | 42 | ~45% | 3.1 | Coldest month; still dark |
+| Aug | +4.8 | −9 | -9.7 | −21 | −33.3 | 45 | ~46% | 7.3 | Cold but days returning |
+| Sep | +3.8 | −5 | -8.1 | −17 | −39.1 | 50 | ~48% | 11.2 | Spring; conditions improving |
+| Oct | +6.7 | −1 | -5.0 | −13 | −31.6 | 55 | ~50% | 15.0 | Sea ice breaking; maritime access |
+| Nov | +6.4 | +3 | -2.3 | −9 | −20 | 60 | ~52% | 19.6 | Mild; midnight sun approaching |
+| Dec | +8.5 | +4 | +0.2 | −6 | −9.3 | 65 | ~54% | 24* | *midnight sun ~Dec 1–Jan 13; ~20 days |
+
+***Monthly record extremes (ROTHERA, `AYM00089062` — direct, 0 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1977-2025)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
+
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089062** (ROTHERA), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 

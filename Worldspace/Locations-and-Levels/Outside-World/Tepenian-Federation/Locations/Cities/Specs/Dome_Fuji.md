@@ -123,7 +123,7 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 **Climate type:** East Antarctic Plateau polar desert — nearly identical to Concordia and Vostok; high elevation, extreme cold, minimal precipitation, calm winds
 **Mean annual temperature:** approximately −54°C (−65°F) — comparable to Concordia's mean; the slightly lower latitude than Vostok partially offsets the higher elevation
 **Temperature range:** coldest months (July/August) avg −65°C; warmest month (December/January) avg −27°C
-**Record extremes:** summer rarely rises above **−30 °C**; winter falls to **−80 °C** *(researched 2026-09-04)*
+**Record extremes:** ⚠ **extreme daily MEANS, not true max/min** — warmest **-16.9 °C**, coldest **-79.1 °C** _(NOAA NCEI GHCN-Daily station `AYM00089734` DOME FUJI, on site; daily 1997-2021. **This station reports `TAVG` only — no daily max/min exists.**)_ *The coldest figure is consistent with Dome Fuji's separately published record near −79.7 °C.* *(researched 2026-09-04)*
 **Prevailing winds:** calm plateau interior; average 4–6 m/s; same pattern as Concordia and Vostok — the plateau dome location dampens wind
 **Annual precipitation:** **~25 mm** water equivalent annually — **falling entirely as ice crystals**, not snowfall *(researched 2026-09-04; monthly distribution below remains derived)*
 
@@ -147,18 +147,21 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | — | −36 | −27 | −19 | — | 2.5 | ~5% | 24 | Midnight sun; warmest period |
-| Feb | — | −49 | −38 | −29 | — | 2.5 | ~5% | 24 | Cooling rapidly |
-| Mar | — | −63 | −52 | −42 | — | 2.0 | ~5% | 14.0 | Autumn |
-| Apr | — | −71 | −60 | −50 | — | 1.5 | ~4% | 6.3 | Darkening; polar night approaching |
-| May | — | −75 | −64 | −53 | — | 1.5 | ~4% | 0 | Polar night begins ~Apr 27 |
-| Jun | — | −76 | −65 | −54 | — | 1.5 | ~4% | 0 | Full polar night; solstice |
-| Jul | — | −77 | −65 | −54 | — | 1.5 | ~4% | 0 | Full polar night; coldest |
-| Aug | — | −75 | −63 | −52 | — | 1.5 | ~4% | 0 | Polar night ends ~Aug 17 |
-| Sep | — | −67 | −55 | −45 | — | 2.0 | ~5% | 10.5 | Spring |
-| Oct | — | −53 | −41 | −31 | — | 2.0 | ~5% | 18.0 | Warming; midnight sun approaching |
-| Nov | — | −40 | −29 | −20 | — | 2.5 | ~5% | 24 | Midnight sun approaching |
-| Dec | — | −36 | −27 | −19 | — | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+| Jan | −23.5 | −36 | −27 | −19 | −42.8 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+| Feb | −29.7 | −49 | −38 | −29 | −57.2 | 2.5 | ~5% | 24 | Cooling rapidly |
+| Mar | −39.3 | −63 | −52 | −42 | −72.4 | 2.0 | ~5% | 14.0 | Autumn |
+| Apr | −47.1 | −71 | −60 | −50 | −73.1 | 1.5 | ~4% | 6.3 | Darkening; polar night approaching |
+| May | −39.9 | −75 | −64 | −53 | −76.2 | 1.5 | ~4% | 0 | Polar night begins ~Apr 27 |
+| Jun | −38.5 | −76 | −65 | −54 | −77.2 | 1.5 | ~4% | 0 | Full polar night; solstice |
+| Jul | −46.3 | −77 | −65 | −54 | −79.1 | 1.5 | ~4% | 0 | Full polar night; coldest |
+| Aug | −46.6 | −75 | −63 | −52 | −76.1 | 1.5 | ~4% | 0 | Polar night ends ~Aug 17 |
+| Sep | −38.5 | −67 | −55 | −45 | −74.1 | 2.0 | ~5% | 10.5 | Spring |
+| Oct | −36.2 | −53 | −41 | −31 | −66.3 | 2.0 | ~5% | 18.0 | Warming; midnight sun approaching |
+| Nov | −24.6 | −40 | −29 | −20 | −58.9 | 2.5 | ~5% | 24 | Midnight sun approaching |
+| Dec | −16.9 | −36 | −27 | −19 | −37.9 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+
+***Monthly extremes (DOME FUJI `AYM00089734`, on site — daily 1997–2021)** — ⚠ **These are the warmest and coldest DAILY MEANS on record, not record high/low temperatures.** The station reports `TAVG` only. ⭐ *On the high plateau in polar night the diurnal range is very small, so daily mean sits close to both daily max and min — but these are NOT true extremes and should not be quoted as such.**
+
 
 ***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 

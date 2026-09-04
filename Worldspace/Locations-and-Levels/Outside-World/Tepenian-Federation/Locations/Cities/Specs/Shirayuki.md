@@ -110,7 +110,7 @@ _https://legacy.bas.ac.uk/met/READER/_
 
 **Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free Larsemann Hills bedrock; cold continental winter, mild bright summer
 **Mean annual temperature:** -9.9°C  _(proxy: READER station `Zhongshan`)_
-**Record extremes:** summer daytime air temperatures (December–February) **frequently exceed +4 °C and can exceed +10 °C**; mean monthly winter temperatures range **−15 °C to −18 °C** *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Record extremes:** record high **+9.4 °C** (Dec); record low **-45.4 °C** (Aug) _(NOAA NCEI GHCN-Daily station `AYM00089574` — Progress, ~8 km; daily observations 1988-2026)_ *(researched 2026-09-04)*
 **Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of metres offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
 **Temperature range:** coldest months (July/August) avg −16.1°C; warmest month (January) avg +0.2°C — above freezing in the mean
 **Annual precipitation:** **148.9 mm** water equivalent _(proxy: Progress, Larsemann Hills (~15 km); measured monthly normals — see table)_ *(researched 2026-09-04)*
@@ -134,17 +134,20 @@ _https://legacy.bas.ac.uk/met/READER/_
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
 | Jan | +9.3 | +3.3 | +0.2 | −1.6 | −9 | 5.2 | ~19% | 24 | Midnight sun; melt streams; lakes ice-free |
-| Feb | +6.2 | 0 | -2.9 | −4.6 | −11.1 | 11.2 | ~25% | 17.4 | Melt ending; light falling fast |
-| Mar | −0.4 | −6.1 | -8.3 | −10 | −19.9 | 16.9 | ~30% | 13.2 | Autumn; refreeze |
-| Apr | — | −9.5 | -13.1 | −14.6 | −29.1 | 9.9 | ~31% | 8.8 | Darkening |
-| May | −5.3 | −11.9 | -15.2 | −17.5 | −30.3 | 16.8 | ~32% | 4.2 | Polar night begins ~May 29 |
-| Jun | −5.2 | −10.6 | -14.6 | −16.1 | −27.8 | 18.7 | ~30% | 0 | Full polar night; slight midwinter plateau |
-| Jul | — | −12.9 | -16.1 | −19.1 | — | 11.8 | ~25% | 0 | Coldest month; polar night ends ~Jul 16 |
-| Aug | — | −12.5 | -16.1 | −18.1 | — | 11.5 | ~30% | 6.7 | Equal-coldest; light returning |
-| Sep | −6.1 | −10.6 | -15.4 | −16.1 | — | 15.8 | ~28% | 11.1 | Spring; still deep cold |
-| Oct | +2.4 | −7.9 | -12.0 | −14.1 | −18.2 | 14 | ~23% | 15.4 | Warming |
-| Nov | +5.9 | −1.9 | -4.8 | −7.7 | −18.3 | 6.8 | ~19% | 21.0 | Midnight sun from ~Nov 22; thaw beginning |
-| Dec | +8.2 | +2.8 | -0.5 | −2.1 | −8.5 | 10.3 | ~14% | 24 | Midnight sun; melt season |
+| Feb | +6.6 | 0 | -2.9 | −4.6 | −12.7 | 11.2 | ~25% | 17.4 | Melt ending; light falling fast |
+| Mar | +6.7 | −6.1 | -8.3 | −10 | −24.7 | 16.9 | ~30% | 13.2 | Autumn; refreeze |
+| Apr | 0 | −9.5 | -13.1 | −14.6 | −31.8 | 9.9 | ~31% | 8.8 | Darkening |
+| May | +1.6 | −11.9 | -15.2 | −17.5 | −37 | 16.8 | ~32% | 4.2 | Polar night begins ~May 29 |
+| Jun | −0.4 | −10.6 | -14.6 | −16.1 | −38.4 | 18.7 | ~30% | 0 | Full polar night; slight midwinter plateau |
+| Jul | +1.1 | −12.9 | -16.1 | −19.1 | −41.7 | 11.8 | ~25% | 0 | Coldest month; polar night ends ~Jul 16 |
+| Aug | −0.5 | −12.5 | -16.1 | −18.1 | −45.4 | 11.5 | ~30% | 6.7 | Equal-coldest; light returning |
+| Sep | −0.1 | −10.6 | -15.4 | −16.1 | −43.1 | 15.8 | ~28% | 11.1 | Spring; still deep cold |
+| Oct | +3.1 | −7.9 | -12.0 | −14.1 | −31.7 | 14 | ~23% | 15.4 | Warming |
+| Nov | +5.9 | −1.9 | -4.8 | −7.7 | −21.9 | 6.8 | ~19% | 21.0 | Midnight sun from ~Nov 22; thaw beginning |
+| Dec | +9.4 | +2.8 | -0.5 | −2.1 | −14.6 | 10.3 | ~14% | 24 | Midnight sun; melt season |
+
+***Monthly record extremes (PROGRESS, `AYM00089574` — Progress, ~8 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1988-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
+
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089574** (PROGRESS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 

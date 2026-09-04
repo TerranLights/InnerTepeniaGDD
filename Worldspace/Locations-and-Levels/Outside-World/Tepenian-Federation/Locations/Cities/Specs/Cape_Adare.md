@@ -145,7 +145,7 @@ are internally consistent; they simply produce different cities.
 
 **Climate type:** Coastal Ross Sea, northern exposure — more maritime influence than Terra Nova Bay cities; open to Southern Ocean weather systems from the north
 **Mean annual temperature:** approximately −12°C
-**Record extremes:** record high **+16.0 °C** (Jan); record low **-31.5 °C** (Apr) _(derived from the monthly record columns below — NOAA NCEI GSOM station `AYM00089879` (Possession Is.))_ *(added 2026-09-04)*
+**Record extremes:** record high **+16.0 °C** (Jan); record low **-42.2 °C** (Jul) _(NOAA NCEI GHCN-Daily. **Two proxies — Cape Adare has no station of its own:** `AYM00089879` Possession Is. (~75 km) for eleven months, `AYW00087701` Adare Hallett (~113 km) for July)_ *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −24°C; warmest month avg −2°C
 **Prevailing winds:** variable; the northern exposure means Cape Adare receives weather systems from the open Southern Ocean as well as katabatics from Victoria Land; exposed and windswept
 **Annual precipitation:** approximately 200–350 mm water equivalent
@@ -172,16 +172,19 @@ are internally consistent; they simply produce different cities.
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
 | Jan | +16 | +4 | −2 | −9 | −2.8 | 30 | ~35% | 24 | Midnight sun; warmest period |
 | Feb | +11.4 | −1 | −8 | −15 | −4.6 | 28 | ~33% | 18.2 | Days shortening |
-| Mar | +2.2 | −6 | −14 | −22 | −18.4 | 25 | ~30% | 13.3 | Autumn; sea ice forming |
+| Mar | +6.7 | −6 | −14 | −22 | −18.4 | 25 | ~30% | 13.3 | Autumn; sea ice forming |
 | Apr | −7.6 | −11 | −19 | −27 | −31.5 | 22 | ~28% | 8.5 | Darkening; polar night approaching |
-| May | — | −13 | −22 | −31 | — | 20 | ~25% | 2.4 | *Polar night begins ~May 19 |
-| Jun | — | −15 | −24 | −33 | — | 18 | ~25% | 0 | Full polar night; solstice |
-| Jul | — | −15 | −24 | −33 | — | 18 | ~25% | 0 | Full polar night; coldest |
-| Aug | — | −14 | −22 | −30 | — | 20 | ~25% | 6.0 | *Polar night ends ~Jul 26 |
-| Sep | — | −10 | −18 | −26 | — | 23 | ~28% | 11.0 | Spring; conditions improving |
-| Oct | — | −4 | −12 | −20 | — | 26 | ~30% | 15.8 | Sea ice breaking up |
+| May | −11.6 | −13 | −22 | −31 | −17.2 | 20 | ~25% | 2.4 | *Polar night begins ~May 19 |
+| Jun | −3.1 | −15 | −24 | −33 | −12.3 | 18 | ~25% | 0 | Full polar night; solstice |
+| Jul | −3.9 | −15 | −24 | −33 | −42.2 | 18 | ~25% | 0 | Full polar night; coldest |
+| Aug | −15.1 | −14 | −22 | −30 | −17.9 | 20 | ~25% | 6.0 | *Polar night ends ~Jul 26 |
+| Sep | −8 | −10 | −18 | −26 | −20.6 | 23 | ~28% | 11.0 | Spring; conditions improving |
+| Oct | +3 | −4 | −12 | −20 | −18.8 | 26 | ~30% | 15.8 | Sea ice breaking up |
 | Nov | +6.7 | +1 | −5 | −12 | −16.1 | 29 | ~33% | 24 | Midnight sun approaching |
 | Dec | +10.7 | +4 | −2 | −9 | −3.1 | 30 | ~35% | 24 | Midnight sun; warmest period |
+
+***Monthly record extremes (POSSESSION IS, `AYM00089879` — Possession Is., ~75 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1994-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
+
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089879** (POSSESSION IS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
