@@ -56,7 +56,7 @@
 | **1** | **EXTENT / AREA** | **37** | `T2-8` | tie at 37 — **first because it is the only blocker that disables an entire QA gate**, and because it is a `RESERVED` developer decision nothing else can route around |
 | **2** | **Differentiation table column** | **37** | `04` Part III | tie at 37 — second because a pass can proceed without it; it degrades the anti-convergence guard rather than blocking a phase |
 | **3** | **Research log** | **33** | `Step 3.7` | **the loss is PERMANENT**: a log is the only input that stays admissible to a later cold run, so an un-logged search is provenance destroyed, not deferred |
-| **4** | **Monthly climate table** | **7** | `T1-G2` | — |
+| ~~**4**~~ | ~~**Monthly climate table**~~ | ✅ **0** | `T1-G2` | ✅ **CLOSED 2026-09-04 — 37/37, plus 6 new complete climate classes** |
 | ~~5~~ | ~~Named in `Airports.md`~~ | ~~6~~ | `T1-G5` | ✅ **RESOLVED 2026-09-03 — all 37 now explicitly stated; file reconciles 11+3+23=37.** See §5 |
 | ~~6~~ | ~~Named in `Highways.md`~~ | ~~3~~ | `T1-G5` | ✅ **RESOLVED 2026-09-03 — developer-confirmed; was never a gap.** See §6 |
 | **7** | **Founding population** | **1** | `T1-G4` | ⭐ **count says last; TIER says otherwise — this is a `G4` SPINE input.** Work it early despite the count |
@@ -181,7 +181,26 @@ Dome Fuji, Dumont d'Urville, Esperanza, Fort McMurdo, Halley, Juan Carlos, Kunlu
 Mirny, Neumayer, Palmer City, Port Lockroy, Princess Elisabeth, Rothera, Sanay, Sayowa, Scott, Sejong, Signy,
 Troll, Vostok, Zukelli
 
-# 4. MONTHLY CLIMATE TABLE — **7 of 37**
+# 4. ~~MONTHLY CLIMATE TABLE~~ — ✅ **CLOSED 2026-09-04**
+
+> ## ✅ **37 of 37.** And the row grew rather than merely closing.
+>
+> **Also now complete at 37/37:** `Avg High (day)` · `Mean` · `Avg Low (night)` · `Precip` ·
+> `Precip Probability` · `Daylight` · **solstice min/max** · ⭐ **precipitation regime**
+> *(falls / lands / lost, and a WIND-vs-COLD statement per city)* · ⭐ **per-column provenance** ·
+> ⭐ **Access type**.
+>
+> **Still open, and NOT research tasks:** monthly `Rec High`/`Rec Low` at **25 complete / 9 partial /
+> 3 none**; `Prevailing winds` missing in 3; `Record extremes` header missing in 7.
+> ⛔ **Abowasa, Dome_Fuji, Princess_Elisabeth and Cape_Adare need PROXY RULINGS** — the nearest stations
+> are 240–430 km away, and the 2026-09-04 pass exhausted BAS READER, NOAA NCEI (68 stations), published
+> climate boxes in five languages and the national met services. **The data does not exist to be found.**
+>
+> **Full detail:** `ULM_Input_Available_Audit.md` §1b · `Reference/Real-World/Climate Data/Climate_Data_Corpus_Audit_2026-09-04.md`
+>
+> *Historical record of the original gap follows.*
+
+## ~~Original entry — 7 of 37~~
 
 **These 7 specs have no monthly table at all** — the `### Annual Climate` block exists, but the 12-row
 Month/Temp/Precip/Daylight table is absent entirely. **`T1-G2`, the near-universal primary generator.**

@@ -65,7 +65,7 @@ would have produced a confident wrong answer:**
 | **Concept art** `T2-7`/`T3-18` | 4 | **33** | ⛔ 33 cities have an empty placeholder folder. Phase 3 texture + Phase 10 catalog run blind |
 | National medical/care entry | 15 | **22** | ⚠ informational — a national institute roster; absence is not necessarily a gap |
 | **Notable figures** `T3-01` | 26 | **11** | ⚠ 11 cities carry the unfilled `**[Name]**` template placeholder |
-| **Monthly climate table** `T1-G2` | 30 | **7** | ⚠ 7 cities have no monthly table at all |
+| ~~**Monthly climate table** `T1-G2`~~ | ~~30~~ **37** | ~~7~~ **0** | ✅ **CLOSED 2026-09-04 — and the row is now far bigger than it was.** See the **CLIMATE BLOCK** immediately below |
 | Named in `Airports.md` `T1-G5` | 31 | **6** | ⚠ 6 — may be legitimately air-isolated; needs a positive 'no airport' statement |
 | **Census II figures** `T0-3` | 33 | **4** | ⚠ 4 — confirmed by the census's own note |
 | Symbol pair `T1-G1` | 34 | **3** | ✅ 3 absent, **all three deliberate** |
@@ -82,6 +82,46 @@ would have produced a confident wrong answer:**
 | Relationship files `T2-6` | 37 | **0** | ✅ complete |
 | Master reference entry | 37 | **0** | ✅ complete |
 | Notable locations `T3-10` | 37 | **0** | ✅ complete |
+
+---
+
+# 1b. ⭐ CLIMATE BLOCK — **re-measured 2026-09-04, after the full corpus pass**
+
+**What was one stale row is now nine measured ones.** *Every figure below re-derived from the spec files
+today, not carried forward.*
+
+| Climate input | Have | Missing | Verdict |
+|---|--:|--:|---|
+| **Monthly climate table** `T1-G2` | **37** | 0 | ✅ **complete** — was 30/7 |
+| **Avg High (day) · Mean · Avg Low (night)** | **37** | 0 | ✅ complete |
+| **Precip · Precip Probability · Daylight** | **37** | 0 | ✅ complete |
+| **Solstice daylight min/max** | **37** | 0 | ✅ complete — was absent in 22 |
+| ⭐ **Precipitation regime** *(falls / lands / lost / WIND-vs-COLD)* | **37** | 0 | ✅ **new class, complete.** `Precipitation_Falls_vs_Lands.md` |
+| ⭐ **Per-column provenance** *(measured vs computed vs estimated)* | **37** | 0 | ✅ **new class, complete** — a reader can now tell which numbers are real |
+| ⭐ **Access type** `T1-G5` | **37** | 0 | ✅ **new field**, added to every spec |
+| **Prevailing winds** | 34 | **3** | ⚠ Abowasa · Davis · Sejong |
+| **Record extremes** *(header)* | 30 | **7** | ⚠ Abowasa · Cape_Adare · Denison · Juan_Carlos · Princess_Elisabeth · Sejong · Zukelli |
+| **Monthly Rec High / Rec Low** *(all 12)* | **25** | **12** | ⚠ **9 partial** *(short station records)* + **3 none** |
+
+> ### ⚠ The 3 with no monthly records have **no station within range**
+> **Abowasa** *(nearest 312 km)* · **Dome_Fuji** *(240 km)* · **Princess_Elisabeth** *(430 km)*.
+> **Plus `Cape_Adare`, which has no station and no assigned proxy at all.**
+> ***These are PROXY RULINGS, not research tasks.*** **Do not re-open them as searches** — the 2026-09-04
+> pass exhausted BAS READER, NOAA NCEI *(68 Antarctic stations)*, published climate boxes in five
+> languages, and national met services. **The data does not exist to be found.**
+
+## ⛔ Two rows in §1 above are NOT reliably measured — corrected note, 2026-09-04
+
+**Both were re-tested today and both tests were wrong. Recorded rather than quietly repaired.**
+
+| Row | Problem |
+|---|---|
+| **Notable figures** | The `**[Name]**` placeholder test returns **0**; a TBD/placeholder test returns **32 of 37**. **The §1 figure of 26/11 is not trustworthy.** ⭐ *Moot either way — the developer STRUCK this requirement* |
+| **Concept art** | ⛔ **`City_Concept-Art/` is organized BY SUBNET, not by city** — 8 directories, 21 files. **Any per-city count of it is structurally meaningless.** ⭐ *Also struck by the developer* |
+
+> ⚠ **This is the THIRD variant of the same measurement bug in one day** *(after the concept-art
+> filename-vs-directory error and the monthly-climate empty-row error)*. **The pattern: a test written from
+> an assumed file layout rather than a verified one.** ***Look at the directory before counting it.***
 
 ---
 
