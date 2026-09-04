@@ -3,6 +3,7 @@
 **Based on:** Jang Bogo Station (Unified Korea), Terra Nova Bay, Ross Sea (~74°37'S, 164°13'E)
 **Status:** Damaged; partially operational — primary active connection between Concordia and the outside world
 **Arcanet Subnet:** Janbogo — subnet hub
+**Access type:** SPUR
 **Highway access:** **Corrected 2026-07-06** — Janbogo is reached via a **connecting road off Hwy 183** (the Janbogo Highway), not a direct main-line stop, grouped with neighboring Zukelli. Hwy 183's actual junction with Hwy 175 sits nearby, near Janbogo specifically — still a genuine highway-network node despite not being a main-line stop itself. Fort McMurdo and Scott remain reached via their own separate spur road, unaffected by this correction. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Unified Korea's primary Tepenian city; the Tepenian Federation's most critical surviving external link; the last coastal city still actively supplying Concordia
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); damaged but partially operational — DLC 6 centerpiece and subnet hub

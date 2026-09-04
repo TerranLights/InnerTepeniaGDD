@@ -3,6 +3,7 @@
 **Based on:** Neumayer Station III (Germany / Alfred Wegener Institute), Ekström Ice Shelf, Queen Maud Land (~70°41'S, 8°16'W)
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Halley ("Atlantic")
+**Access type:** SPUR
 **Highway access:** Off Hwy 7 — Ekström Ice Shelf position; accessible via off-road spur connecting to Hwy 7 (the main Queen Maud Land coastal highway); ice shelf movement affects the road approach over time
 **Significance:** Alfred Wegener Institute heritage — named after Georg von Neumayer (1826–1909), German oceanographer, navigator, and polar research champion; built on the Ekström Ice Shelf rather than on bedrock, which has structural implications for long-term city stability; one of the Halley subnet's primary scientific hubs; independently developed its own research mission focus (atmospheric science, glaciology, oceanography) — a convergence with the original AWI program's own focus, not an inheritance from it *(corrected 2026-07-24, GPS-purposes-only pass)*
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational

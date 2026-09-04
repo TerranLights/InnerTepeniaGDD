@@ -165,3 +165,113 @@ condition tier: no South Asian population ever settled in Tepenia; the Bharati s
 Japanese population arrived via a separate diplomatic mechanism). **This is what E8 was gesturing at — and it
 arrived by reading the sanctioned extract, not by this session combining the two logged crumbs itself.** E8
 closed; no inference was completed by this session outside the admissible channel.
+
+---
+
+# ═══ RUN 15 — SESSION 2 (COLD PICKUP), 2026-09-03 ═══
+
+**A new session resumed this run. The prior session's context is gone; nothing it read transfers.**
+**M-119 binds with unusual force here — this session cannot even use *"I already read that"* as a bad
+argument, because it did not.** ***The required reading was re-done in full, 8,193 lines.***
+
+## E9 — PUSH channel, pre-turn. Unavoidable — and one item is NEW.
+
+Both arrived before this session had chosen any action.
+
+1. **The auto-loaded memory index.** **Shape/size:** ~110 single-line pointers under ~10 headings, each a
+   title plus a compressed hook. **Not audited for subject mentions, deliberately** — `STEP −3` states that
+   checking which entries named the subject *is* the exposure. **Treated as conclusion-tier by default.**
+2. ### ⭐⛔ THE HARNESS'S OWN SESSION-START ENVIRONMENT BLOCK — a channel no control reaches.
+   **Shape/size:** a branch name plus five commit subject lines. **One commit subject pairs a ULM phase
+   number with a real-world geographic area name.** **Tier: `G2`/`G7`, attribute-tier** — *and the same
+   designation was later returned independently and admissibly by a schema extractor*, which downgrades it
+   from leak to corroborated attribute. **But it arrived first through a channel nothing on the entry path
+   covers.**
+   > **The cold-run entry path assumes the first thing a deriver reads is `COLD_RUN_CHECKLIST.md`, and that
+   > file is subject-neutral by design and by test.** ***It is not the first thing a deriver reads. The
+   > harness speaks first, and it is not subject-neutral.***
+
+## E10 — ⛔⛔ ☐ 1's SAFETY DECLARATION IS FALSE. **MEASURED, NOT ARGUED.**
+
+**`COLD_RUN_CHECKLIST.md` ☐ 1 and `00_RUNBOOK.md` `Step −2` item 2 both declare the Pre-Contamination
+Review *"coordinates-only"* and *"SAFE for a cold deriver to read in full."*** **A Brief C schema extractor
+was dispatched instead of obeying that. It measured `conclusion_tier_line_count = 1`, first at `L497`.**
+
+**Exposure: ZERO — the line was never read by this session.** Admissible ranges returned as `[1,495]` and
+`[500,712]`; **the reader correctly excluded `496–499` rather than the single line, per M-103.**
+
+> ### §C.4 PREDICTED THIS EXACTLY AND HAS NO DETECTOR FOR IT
+> *"A review that acquires a single descriptive sentence has become the thing it protects against."*
+> **It acquired one.** ***The pin cannot see it: a pin measures whether a file CHANGED, never whether it is
+> still ADMISSIBLE.*** **The review is the one artifact in this corpus whose safety is asserted by doctrine
+> and verified by nothing** — while being the single file every cold run is told to open first.
+
+## E11 — Required reading re-verified; the inherited verification had gone stale
+
+**E6 recorded 7,260 lines, 0 alias hits, "twice."** **Re-run this session by an independent checker on a
+stronger model, across a WIDENED alias set (8 patterns, adding kana renderings and the real-world geography
+term): 13/13 files reached · `8,192` lines · `alias_hit_total = 0` · per-alias counts all zero · two
+independent scan methods · a positive-control test proving the instrument could find a hit.**
+
+**⚠ The set had grown ~930 lines since E6.** ***The negative still holds — but it was re-earned, not
+inherited.*** **`06_Worked_Example_Provenance.md` additionally flagged skip-all (343 lines); it is outside
+☐ 5's set and is treated `WITHHELD` for this run.**
+
+---
+
+# ✅ SET REVIEW #2 — M-89 check across E1–E11, run 2026-09-03 before ☐ 7
+
+**E9.2 is the only new entry that composes with anything.** Held against **E4**'s legitimately-acquired
+`G7` real-world basis, it names the same geography twice from two channels. **That is corroboration of an
+ADMISSIBLE attribute, not reconstruction of a withheld conclusion** — the composition yields nothing the
+admissible channel had not already supplied. **E10 and E11 are records of exposure AVOIDED and therefore
+add nothing to the union.** **Verdict: the union is unchanged in kind from Set Review #1 — bounded, named,
+and containing no subject-specific conclusion-tier content.**
+
+---
+
+# ⚠ Methodology findings, session 2 — for `OBSERVATIONS…` per Step 9.5
+
+3. **☐ 1 and ☐ 7 give CONTRADICTORY timing for the same file.** ☐ 1: *"coordinates-only and safe to read in
+   full."* ☐ 7: *"safe at this point **and not before**."* **A deriver obeying ☐ 1 opens 712 lines at step
+   one; a deriver obeying ☐ 7 does not.** **This session took the conservative branch, and the conservative
+   branch was right** *(E10)*. **Two steps of one executable checklist cannot disagree about when a file
+   becomes safe.**
+
+4. ### ⭐⭐ THE VECTOR-1 NEUTRALITY SWEEP HAS NO PIN — and `00_RUNBOOK.md` IS THE LIVE SURFACE.
+   **The LAYERING LAW empties `01`–`05` + `README` of location names — *clean by construction,
+   permanently*, and it is correctly celebrated as the one fix that DELETES a surface rather than adding a
+   control.** ***It explicitly does not cover `00_RUNBOOK.md`, whose own table reads "may name a location:
+   ✅ yes" — and which `CLAUDE.md` mandates be read IN FULL.*** **`Disciplines/` is likewise required
+   reading, and is pointer-clean only by editorial discipline, not by construction.**
+   > ***So the entire vector-1 defense for the two required-read files that CAN still name a subject rests
+   > on a sweep result recorded as PROSE — no `sha256`, no line count, no pin.***
+   >
+   > **§C.4 invented the pin because a line-anchored map goes stale silently when a file moves under it.**
+   > **A neutrality assertion goes stale by the identical mechanism, and this session measured the drift:
+   > `+932 lines` since the last recorded check.** **Had those 932 lines introduced a worked example naming
+   > the subject, the ledger would still have read *"verified neutral, twice."***
+   >
+   > **Proposed fix, deliberately the same shape as the existing one:** *the review pins the
+   > REQUIRED-READING set — `path | sha256 | wc -l` per file — and reuse RE-RUNS the vector-1 sweep for any
+   > file whose hash has moved.* **Cost: one reader, on a set of 13.**
+   >
+   > **This is M-104 once more: the LAYERING LAW closed the surface at level N; the exposure now sits at
+   > N+1, in the two required-read files the law does not reach.**
+
+5. ### ⛔ AN INHERITED NEGATIVE FINDING IS NOT EVIDENCE — developer report, this session
+   **The developer reports that the prior session on this run repeatedly returned *"no information found"*
+   in places where the information existed and it had simply not looked hard enough.**
+   > **Therefore every `null`, `TBD`, "absent" and "not found" in this run's artifacts is UNVERIFIED until
+   > re-earned.** **And the exposure is structural, not incidental: this run's three admissible extracts
+   > (`57` / `114` / `68` lines) were built map→script→extract, so ***an under-tagging mapper produces a
+   > silently SHORT extract, and Phase 0 then runs on a starved input supply.***
+   >
+   > **The two failure directions are opposite, and this methodology is armored against only one of them.**
+   > **Contamination = reading too much. Thinness = reading too little and recording the absence as a
+   > finding.** ***Sixteen gates, twenty-one leak-register rows and three reader briefs all point at the
+   > first.*** **`04`'s own header and LAW 0 anti-pattern 5 state plainly that NO gate detects the second.**
+   >
+   > **Docketed: audit every negative in the Run 15 artifacts against what canon actually holds, before any
+   > further phase work.** **A `null` that was never chased is indistinguishable in the output from a canon
+   > gap — which is precisely the distinction `Canon_Gap_Resolution_Method/` exists to make.**

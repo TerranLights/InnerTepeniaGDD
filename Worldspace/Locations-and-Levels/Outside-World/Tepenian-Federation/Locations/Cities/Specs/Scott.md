@@ -3,6 +3,7 @@
 **Based on:** Scott Base (New Zealand), Hut Point Peninsula, Ross Island (~77°51'S, 166°46'E)
 **Status:** Damaged; partially operational — ruins and surviving sections; DLC 6 content alongside Fort McMurdo
 **Arcanet Subnet:** Janbogo
+**Access type:** SPUR
 **Highway access:** Near Hwy 183 — same spur connection as Fort McMurdo; the two cities share the same Ross Island access point from the mainland
 **Significance:** New Zealand's Tepenian city; Fort McMurdo's immediate neighbor and longtime partner; smaller, more intimate counterpart to the Federation's largest industrial city
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); damaged but partially operational alongside Fort McMurdo

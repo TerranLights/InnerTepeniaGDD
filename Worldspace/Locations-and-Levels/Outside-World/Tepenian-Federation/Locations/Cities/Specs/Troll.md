@@ -3,6 +3,7 @@
 **Based on:** Troll Research Station (Norway / Norwegian Polar Institute), Jutulsessen nunatak, Queen Maud Land (~72°01'S, 2°32'E)
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Halley ("Atlantic")
+**Access type:** ON
 **Highway access:** Hwy 7 (Queen Maud Land highway — Troll served by the inland section; nunatak position inland from the coast); Troll Airfield also provides air access
 **Significance:** Norwegian Polar Institute heritage; named "Troll" — the Norwegian mythological creature, and the informal name given to the inland nunatak region by early Norwegian Antarctic expeditions; Troll Airfield (one of the few inland Antarctic runways, ~3,000m — able to receive intercontinental flights) is the most significant aviation infrastructure in the Halley subnet — the runway survived the Long Night War and is functional, but its operation is contested; the inland position means Troll was and remains the Halley subnet's gateway to the deep interior; Queen Maud Land was claimed by Norway in 1939 (as Dronning Maud Land)
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational

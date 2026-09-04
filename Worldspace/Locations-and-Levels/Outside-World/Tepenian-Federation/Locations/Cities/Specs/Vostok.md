@@ -3,6 +3,7 @@
 **Based on:** Vostok Station (USSR / Russia), East Antarctic Plateau (~78°28'S, 106°52'E)
 **Status:** Survived — extremely remote, though **corrected 2026-07-06:** less "effectively unreachable" than previously framed, now that Hwy 37 is confirmed to run directly through Vostok (see Highway access, below)
 **Arcanet Subnet:** Mirny ("Australian")
+**Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — Vostok sits on **Hwy 37 (the Mountain Cut Throughway)**, between Kunlun and Concordia; the full route runs Dome Fuji → Kunlun → Vostok → Concordia. This had been missed in this file despite being established canon elsewhere (the same bug already found and fixed on Kunlun's own file). Vostok remains ~1,260km overland from Mirny, its own Arcanet subnet's nearest coastal city — Hwy 37 runs in a completely different direction and does not reach Mirny. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Coldest city in Tepenia — holds the record for the lowest naturally occurring temperature ever recorded on Earth's surface (−89.2°C, July 21, 1983, pre-exile); sits above Lake Vostok, one of the largest subglacial lakes on Earth, buried under approximately 4km of ice; survived the Long Night War but is so isolated that survival is functionally indistinguishable from disappearance
 **DLC:** Mirny subnet — the most extreme inland destination in any potential Mirny subnet DLC; whether it is reachable at all in gameplay is a significant design question

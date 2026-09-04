@@ -4,6 +4,7 @@
 **Tepenian city name:** Lazar — a phonetic truncation of "Novolazarevskaya," the city's original composite name, shortened as the founding Russian demographic was overtaken by later American, German, French, and Brazilian immigration. Finalized 2026-07-03.
 **Status:** Damaged; partially operational *(finalized 2026-07-03: Lazar sits directly on, or extremely near, the coastline, making it a plausible priority target for Upper Earth's forces — and its unusual scale, a genuine composite "megacity" by Antarctican standards formed from two coalesced settlements, meant it took heavy damage without being wiped out outright. Badly bombed, not destroyed; its sheer size gave it a resilience smaller cities didn't have.)*
 **Arcanet Subnet:** Halley ("Atlantic")
+**Access type:** ON
 **Highway access:** Eastern terminus of Hwy 7 proper; origin point of the Belgrano Highway Extension (Hwy 7-ext, built 2611–2614) toward Princess Elisabeth and Sayowa
 **Significance:** The only Halley subnet city formed from the coalescence of two originally separate settlements; resolves the India-founding-population canon gap (see canon note) by crediting the real, continuously-operated adjacent Russian station rather than inventing a founding nation from nothing. **Tepenia's single largest city by population, both pre- and post-war** (see Population Note below).
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational — Tepenia's largest city overall, badly hit but not destroyed

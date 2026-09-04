@@ -3,6 +3,7 @@
 **Based on:** Aboa Station (Finland, est. 1988) and Wasa Research Station (Sweden, est. 1989) — two genuinely separate national stations only ~200m apart, Basen nunatak, Kraul Mountains (= Vestfjella — same range, Norwegian vs. English naming), Queen Maud Land (~73°03'S, 13°25'W)
 **Status:** Damaged; partially operational *(corrected 2026-07-03 — resolved as a middle ground between this file's original "Survived; operational" claim and `City_Relationship_Database.md`/`Local_Cultures/README.md`'s "Destroyed"; neither pure survival nor total destruction, per user direction)*
 **Arcanet Subnet:** Halley ("Atlantic")
+**Access type:** ON
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Halley subnet; Abowasa on the western coastal section; Vestfjella/Kraul Mountains nunatak position)
 **Significance:** The only joint-national founding in Tepenia among non-unified nations — the Swedish polar program (SWEDARP) and Finnish Antarctic Research Program (FINNARP) both contributed to the founding population; **renamed from "Aboa" to "Abowasa" 2026-07-05** (see Founding below for the reasoning); located in the Kraul Mountains/Vestfjella in the western sector of Queen Maud Land, further from the coast than Neumayer; one of the smaller Halley subnet cities and the only dual-national city to remain even partially inhabited after the war
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational

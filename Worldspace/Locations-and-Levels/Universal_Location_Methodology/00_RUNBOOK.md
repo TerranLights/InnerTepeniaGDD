@@ -243,7 +243,7 @@ here.**
 
 **Scope:** any location of any kind, at any scale — district, city, subnet, nation, station, highway, structure,
 vessel, ruin, natural feature, network region. **Concordia's thirteen districts have their own working,
-evidence-backed procedure** at `../Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md` and should keep
+evidence-backed procedure** at `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md` and should keep
 using it. This is for everywhere else.
 
 **Status: PARTIALLY VALIDATED, as of 2026-08-30.** Every rule in the district runbook is attached to a specific
@@ -475,7 +475,32 @@ implementation detail — those belong to each project.
 contradiction and reconcile it in the text** — do not silently pick a side, and per `02` §5.3 look for a
 both-are-true reading first.
 
-## B. Universe-wide canon — `../../../../../Reference/TepenianUniverseTimeline/`
+## B. Universe-wide canon — `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/`
+
+> # ⭐⭐ STANDING RULE — **EVERY ADDRESS IN THIS REGISTRY IS ABSOLUTE.** *(Developer instruction, 2026-09-03.)*
+>
+> ***"It's really better to use absolute paths."*** **Applied across the whole registry the same day: 20
+> relative and ellipsis-abbreviated addresses were converted to absolute.**
+>
+> ### This heading is the proof, and it is a better argument than the rule
+> **This row read `../../../../../Reference/TepenianUniverseTimeline/` — five levels, which resolves to
+> `media/games/Reference/` and has never existed.** ***The correct relative form is six.*** **The absolute
+> path beneath it was correct the whole time.**
+>
+> > ## **The error survived because everyone used the absolute path — so nobody ever exercised the broken one.**
+> > ***A relative address in a registry is a second, unused, silently-wrong copy of an address you already
+> > have.*** **It cannot be right more often than the absolute form, and it can be wrong while the file it
+> > names sits exactly where it should.**
+>
+> **⚠ A relative path is also FOLDER-DEPENDENT, and this registry is read from at least three places** — the
+> ULM folder, a `Test_Runs/` run folder, and the repo root. **The same `../` string means three different
+> things to three readers, all of whom believe they are following the same instruction.**
+>
+> **Two consequences for anyone editing `§B`–`§D` or `§C.9`:**
+> 1. **Write the absolute path. Never a `../` form, never an `…/` abbreviation.**
+> 2. **Verify it resolves before committing** — *extract every backticked path token from this file and test
+>    each for existence.* **That sweep is what found this one**, along with two dead sibling-project rows and
+>    a symbol-register row off by one directory.
 
 *(Absolute: `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/`. A separate shared
 repo, not inside this one — so a pass must open it deliberately; it will not turn up in a repo-local search.)*
@@ -508,16 +533,16 @@ repo, not inside this one — so a pass must open it deliberately; it will not t
 | `Worldspace/Design_Principles.md` | standing design law |
 | `Worldspace/Characters/` | character canon, incl. `Enneagram_Character_Index.md` |
 | `Worldspace/Locations-and-Levels/…/Cities/` | city specs, census, symbolic substrate, Enneagram, relationships |
-| `…/Cities/City_Master_Reference/` | **⚠ MIXED-ADMISSIBILITY per-city file index — see §C.1 before opening in a cold run** |
-| `…/Concordia-City/Districts/District_Canon_Reference.md` | **district locked canon** |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Master_Reference/` | **⚠ MIXED-ADMISSIBILITY per-city file index — see §C.1 before opening in a cold run** |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Canon_Reference.md` | **district locked canon** |
 | `Neo-Races-and-Cultures/` | per-subnet cultures; `Orbital_Cryptograph_Helix_Era/` for the novel-series crossover |
 | `Background-Lore/Cities/` | historical vignettes |
-| `Reference/Real-World/` | research extractions — **check `Book_Extraction_Index.md` before mining any book** |
-| **`…/Cities/Division_of_Industry/`** *(18 files)* | ⚠ **THE STRONGEST `G3` SUPPLY IN THE PROJECT — and MIXED-RELIABILITY. See §C.6 before citing any figure** |
-| `…/Cities/Division_of_Industry_Sweep_2026-08-31.md` | the corpus-wide necessary-industry gap matrix **(G3)** |
-| `…/Cities/National_Medical_and_Care_Institutes.md` | national healthcare/care institutions **(G3)** — a `Division_of_Industry` input |
-| `…/Cities/Locations/Infrastructure/Highways.md` · `Airports.md` | **network position (G5)** — named explicitly because the broad `Cities/` row above does not imply them, and every location pass needs them |
-| `…/Cities/Research_Logs/` | per-location research logs — **attributes, never conclusions; admissible even to a cold re-run** (§3e) |
+| `Reference/Real-World/` | research extractions — **check `Book_Extraction_Index.md` before mining any book**. ⚠ **EXPANDED 2026-09-03 — see §C.9; this row was ONE line covering ~90 files across nine subfolders, none of them addressed and none reachable from the per-phase table** |
+| **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/`** *(18 files)* | ⚠ **THE STRONGEST `G3` SUPPLY IN THE PROJECT — and MIXED-RELIABILITY. See §C.6 before citing any figure** |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry_Sweep_2026-08-31.md` | the corpus-wide necessary-industry gap matrix **(G3)** |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md` | national healthcare/care institutions **(G3)** — a `Division_of_Industry` input |
+| ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/`** — **`Highways.md` · `Airports.md`** *(**CORRECTED 2026-09-03** — this row read `…/Cities/Locations/Infrastructure/…`, **a path that does not exist**. `Infrastructure/` is a **SIBLING** of `Cities/`, not a child. **M-117 recurring inside the registry**, on the one row the note below calls universally needed: *a pass following it searched a directory that structurally cannot hold the answer and got a clean negative* — Gate C's own recorded failure shape)* | **network position (G5)** — named explicitly because the broad `Cities/` row above does not imply them, and every location pass needs them. ⭐ **Each city's `Specs/` file also carries a closed-set `**Access type:**` token — `ON` · `SPUR` · `SEA-LINK` · `NONE`** *(added 2026-09-03)* |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/` | per-location research logs — **attributes, never conclusions; admissible even to a cold re-run** (§3e) |
 | `Worldspace/Canon_Gap_Resolution_Method/` | **the system for ACQUIRING canon that does not exist yet.** `Developer_Ruling_Queue.md` holds open rulings — **check it before treating a gap as closed** |
 | `Theoretical-Calculations/` | engineering/mass-budget models *(e.g. `Amundsen_Tower_Space_Fountain_Design.md`)* — a `Division_of_Industry` input |
 
@@ -527,7 +552,7 @@ repo, not inside this one — so a pass must open it deliberately; it will not t
 **`01`–`06` must stay applicable to any location in any universe, real or imaginary. A pointer to one
 project's index file is not universal, so it lives in the runbook.**
 
-**What it is.** `…/Cities/City_Master_Reference/` — five per-subnet files plus a README, compiling for each of
+**What it is.** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Master_Reference/` — five per-subnet files plus a README, compiling for each of
 the 37 cities: **which files exist and at what canon tier**, the census figures, geology and difficulty, the
 real-world basis, founding facts, **line-anchored infrastructure citations** *(`Airports.md` / `Highways.md`,
 with line numbers)*, open threads, **and** the robot-culture findings, design-tool reads, district affinities
@@ -1370,7 +1395,7 @@ exactly the "reconstruct it from recall instead of the registry" failure `CLAUDE
 
 ### What it is
 
-**`…/Cities/Division_of_Industry/` — 18 files, ~9,300 lines.** **Developer-ruled `RELIABLE`, 2026-09-01:
+**`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` — 18 files, ~9,300 lines.** **Developer-ruled `RELIABLE`, 2026-09-01:
 *"settled working canon… may be cited, built on, and used as inputs. Not provisional, draft, or
 unvalidated — that phase is over."*** ***It is the strongest `G3` supply this project has***, because its
 mandate tier is literally *"what its parent needs from it,"* which is `02` §2.2's own definition of the
@@ -1516,11 +1541,11 @@ relying on it, and read every member's terms from its own file, never from the n
 
 | System | Where | Cardinality | Shape | Notes |
 |---|---|---|---|---|
-| **Zodiac Personality Substrate** | `../Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **Second, non-assignment use-mode for ANY location:** `../Cultural_Synthesis_Techniques.md`'s **Zodiac Lens** — twelve signs as non-binding interrogation prompts, **never as an assignment, and never referencing Concordia's completed district content** |
-| **Planetary Symbols** | `.../Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 10 members; one-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired** |
-| **Robot Elementals** | `.../City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members, positive/negative, **Wu Xing correspondences on five.** ⏸️ **See the gap below** |
-| **Planet + Element** | `.../City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use `02` §6.3** |
-| **Subnet Elementals / Six Perfections** | `../../Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md` | 1–2 per subnet | THIN→PAIRED | Subnet scale. **Do not cross-apply to city scale** |
+| **Zodiac Personality Substrate** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **Second, non-assignment use-mode for ANY location:** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md`'s **Zodiac Lens** — twelve signs as non-binding interrogation prompts, **never as an assignment, and never referencing Concordia's completed district content** |
+| **Planetary Symbols** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 10 members; one-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired** |
+| **Robot Elementals** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members, positive/negative, **Wu Xing correspondences on five.** ⏸️ **See the gap below** |
+| **Planet + Element** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use `02` §6.3** |
+| **Subnet Elementals / Six Perfections** | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`** *(**CORRECTED 2026-09-03** — was `../../Storyline/…`, which resolves to `Worldspace/Storyline/` and does not exist; the file sits at the repo root, one level further up)* | 1–2 per subnet | THIN→PAIRED | Subnet scale. **Do not cross-apply to city scale** |
 
 > ### ⛔⛔ ALL 34 CITY ASSIGNMENTS ARE PROVENANCE-DOWNSTREAM OF A PERSONALITY READ — `05` §6.1c
 > **`City_Symbol_Assignments.md` states in its own header that every assignment was *"derived from each city's
@@ -1590,16 +1615,16 @@ open. Both are universal. The actual eras, dates and addresses are project data 
 | Phase | Address |
 |---|---|
 | **0** | **U** `Repo_Scope.md` *(once)* · `Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
-| **1** | **U** `Worldspace/Locations/` · **P** `Specs/`, climate data, `Energy_Grid_Failure_Rationale.md`, physical infrastructure · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures (§C.6). `QUERYABLE-BY-SCHEMA`; never `grep` it by subject name** |
+| **1** | **U** `Worldspace/Locations/` · **P** `Specs/` *(incl. its `**Access type:**` token)*, `Energy_Grid_Failure_Rationale.md`, physical infrastructure · ⭐⭐ **CLIMATE: `Reference/Real-World/Climate Data/READER/` (§C.9) — ⛔ FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE CITY. Search by the ALIAS SET or you will get a false negative** · **`Stations/` (§C.9)** · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures (§C.6). `QUERYABLE-BY-SCHEMA`; never `grep` it by subject name** |
 | **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding, GPS facts only** · `Falkland_Treaty/` · **P** `Official_Population_Census.md`, diaspora/affinity files |
-| **3** | **P** climate data, `Specs/`, physical infrastructure attributes, concept art |
+| **3** | **P** ⭐ **`Reference/Real-World/Climate Data/READER/` (§C.9 — alias-keyed)** · `Specs/` · physical infrastructure attributes · **concept art: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/<City>/`** ⚠ *(only 4 of 37 cities hold actual images; the rest are empty `.gitkeep` folders)* · **`Davis_Geosciences_Research/` (§C.9)** where applicable |
 | **4** | **P** `City_Logistics.md`, `Robot_Biology_and_Culture/`, `National_Economy_and_Currency.md` |
 | **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` |
-| **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief** · `National_Holidays.md` · **the deferred mortuary question — do not answer it** |
-| **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
+| **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief** · `National_Holidays.md` · ⭐ **`Reference/Real-World/Ice-Cold_Buddhism_Research/` (§C.9, 7 files — metaphysics, machine ethics, Zen aesthetics, vocabulary)** ⚠ *the faith's name is a placeholder* · **`The_True_Believer_` / `The_Meme_Machine_Extraction.md` (§C.9)** · **the deferred mortuary question — do not answer it** |
+| **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · ⭐ **`Reference/Real-World/Industry_Staffing_and_Productivity/` and `jobs_professions_and_fields/` (SOC) — both §C.9; SOC tier-marking is ADDITIVE, never a replacement** · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
 | **8** | **P** ⚠ **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
 | **9** | **U** ⚠ **`Laws_of_Robotics.md`** · **`Robot_Universals/`** *(four parts)* · `Doll_Representation_Categories.md` · **P** human-robot relations baseline |
-| **10** | **U** `Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **the no-invented-person-names rule** |
+| **10** | **U** `Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **the no-invented-person-names rule** · ⭐ **§B2 Zodiac Lens: read the signs' terms from `Zodiac_Personality_Substrate/` AND `Reference/Real-World/Zodiac_Signs_Full_Attributes.md` (§C.9)** — *the technique named the first and never registered the second* |
 
 > ### ⛔⛔ `§C.6` RECURRED ONE LEVEL DOWN — found 2026-09-03 by a direct developer check *(M-121)*
 > **`§C.6` exists because the division-of-industry folder sat in this runbook *"only as an OBLIGATION, never
@@ -1613,6 +1638,46 @@ open. Both are universal. The actual eras, dates and addresses are project data 
 **Two standing reminders:** **`Reference/Real-World/Book_Extraction_Index.md` before mining any book** *(it
 exists because a book was twice assessed as unmined when it was not)*, and **check against the source, never
 against the last pass that cited it.**
+
+## C.9 ⭐⭐ THE REAL-WORLD RESEARCH REGISTER — **added 2026-09-03. `§C` carried ~90 files on ONE line.**
+
+**Found on a direct developer instruction:** ***"whenever/wherever something is available, make sure to point
+to it in the RUNBOOK and/or the file-reference sheet… the ULM needs to be able to reference all this
+information, so if it can't find it, it's worthless."***
+
+> ### The defect, stated plainly
+> **`§C` registered `Reference/Real-World/` as a single row reading *"research extractions — check
+> `Book_Extraction_Index.md` before mining any book."*** ***Behind that row sit nine subfolders and roughly
+> ninety files, including a 37-file climate set — and not one of them appeared in `§C.8c`, the per-phase table
+> a pass actually consults while writing.***
+>
+> **This is `§C.6` recurring for the third time** *(M-121: "registered globally is not registered at the point
+> of use")*. **Every row below therefore names an ADDRESS and the PHASE that needs it.**
+
+**Base: `Reference/Real-World/`** *(absolute: `…/InnerTepeniaGDD/Reference/Real-World/`, verified 2026-09-03)*
+
+| Address | Supplies | Phase | Notes |
+|---|---|:--:|---|
+| ⭐⭐ **`Climate Data/READER/`** *(37 files)* | **`G2` — authoritative monthly mean temperatures**, BAS READER, **WMO 1991–2020 normals**, with citation | **1**, **3** | ⛔⛔ **KEYED BY REAL-WORLD STATION NAME, NOT CITY NAME** — `Aboa.md` · `Bharati_TBD.md` · `Princess_Elizabeth.md` *(note the `z`)*. ***A pass searching by its subject's Tepenian name finds NOTHING and concludes the climate data is absent.*** **Reachable only via the ALIAS SET** *(`Step −2` item 1a, M-118)*. ⚠ Also holds `Little_America.md`, a historical station that is not a Tepenian city |
+| **`Stations/`** | `G2`/`G7` physical station facts — COMNAP catalogue | **1**, **5** | ⚠ **`Antarctic_Stations_With_Airstrips.md` is BACKGROUND ONLY** — `Airports.md` states outright it *"does not track 1:1"* and is **not a predictor of Tepenia's own network** |
+| **`Industry_Staffing_and_Productivity/`** | staffing ratios, labour-productivity factors | **7a** | A declared input to `Division_of_Industry/` |
+| **`jobs_professions_and_fields/`** | the **SOC** occupational taxonomy + summaries | **7**, **9** | ⚠ `SOC_Cross_Category_District_Matching.md` is **district-derived**, not raw research. **SOC tier-marking is ADDITIVE — it feeds existing methods, never replaces them** |
+| **`Ice-Cold_Buddhism_Research/`** *(7 files)* | belief-system research — metaphysics, machine ethics, Zen aesthetics, vocabulary | **6** | ⚠ **the faith's name is a PLACEHOLDER.** Bears on **Dome Fuji** *(a continent-wide pilgrimage site)*, **Kunlun** *(its primary site)* and **Vostok** |
+| **`Vostok_Genetics_Research/`** | DNA computing; life-as-information-processing | **7** | Vostok-specific; also the Cryptograph Helix basis |
+| **`Davis_Geosciences_Research/`** | groundwater and lake chemistry | **1**, **3** | Davis-specific |
+| **`Zodiac_Signs_Full_Attributes.md`** | the twelve signs' full attributes | **10 §B2** | ⭐ **The Zodiac Lens technique sends you to `Zodiac_Personality_Substrate/`; THIS file was never registered beside it** |
+| **`Symbolic_Sets_of_Six_and_Seven.md`** | symbol-system structure | **§C.7** | assess with `02` §6.2 before relying on it |
+| **`King_Warrior_Magician_Lover_Extraction.md`** · **`Man_and_His_Symbols_Extraction.md`** | the Review Panel's **Panels D and E** source material | **Step 8** | `Disciplines/00f_Review_Panel.md` §4b/§4c cite these directly |
+| **`The_Meme_Machine_Extraction.md`** · **`The_True_Believer_Extraction.md`** | belief transmission; mass movements | **6**, **7d** | useful for counterculture derivation |
+| **`Buddhism_and_Intelligent_Technology_Extraction.md`** | machine ethics and belief | **6**, **9** | |
+| **`City_and_District_Research_Topics.md`** | the research-topic index | **Step 3** | pairs with `Cities/Research_Logs/` |
+| **`Book_Extraction_Index.md`** · **`Book_TOC_Master_Reference.md`** | **what has already been mined** | any | ⚠ **MANDATORY before mining any book** — it exists because a book was twice assessed as unmined when it was not |
+
+> ### ⛔ TWO ENTRIES THAT ARE **NOT** ULM MATERIAL — named so nobody re-derives them as gaps
+> - **`Pisces_Flood_Mechanism_Research/`** *(8 files)* — **Concordia DISTRICT material.** The district
+>   methodology owns it.
+> - **`PTSD_Military_Trauma_Research/`** *(11 files)* — **character methodology, not location.**
+> - **`Gemini_Circuit_Attention_Economy_Vocabulary_Sheet.md`** — district-specific.
 
 ## D. Sibling projects — check for cross-series consistency, do not port
 
@@ -1629,10 +1694,27 @@ against the last pass that cited it.**
 
 | Project | Path |
 |---|---|
-| Outer Tepenia *(OT1 · OT2 · New Centauri)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Outer Tepenia series/` |
-| TheCryptographHelixDD | `/home/kuroskalacs/Documents/Doll-Fi/media/games/TheCryptographHelixDD/` |
-| SouthernLights | `/home/kuroskalacs/Documents/Doll-Fi/media/games/SouthernLights/` |
+| Outer Tepenia *(OT1 · OT2 · New Centauri)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Outer Tepenia series/` ✅ |
+| **The Cryptograph Helix** *(novels)* | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/The Cryptograph Helix series/`** — **NOT under `games/`. CORRECTED 2026-09-03** *(was registered as `…/games/TheCryptographHelixDD/`, which does not exist)* |
+| **Southern Lights** *(TV)* | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/TV/SouthernLights/`** — **NOT under `games/`. CORRECTED 2026-09-03** *(was registered as `…/games/SouthernLights/`, which does not exist)* |
 | **CurrentNovelDocs** | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/`** — **NOT under `games/`** |
+
+> ### ⛔⛔ THIS TABLE'S OWN CORRECTION MADE THE SAME ERROR TWICE MORE — found 2026-09-03 by mechanical check
+>
+> **The box above records M-117 and fixes it by giving absolute paths, closing with *"Absolute paths, all
+> verified to exist 2026-09-03."*** ***Two of the four did not exist.*** **`TheCryptographHelixDD` and
+> `SouthernLights` were both written under `games/` — the exact "first item establishes `games/` as the tree"
+> mistake the box was written to prevent.** **Neither is a game: one is the novel series, one is the TV
+> series.**
+>
+> ## **The claim "verified to exist" was not itself verified.**
+> ***`Step 10`'s governing principle is VERIFY, DO NOT ASSERT, and Gate 0's is CHECK THE TARGET, NEVER THE
+> CLAIM. A statement that verification happened is a claim like any other.*** **Caught only by resolving
+> every backticked path in this file mechanically — 172 tokens, 156 exact, and this pair among the misses.**
+>
+> **⭐ Standing fix, cheap and repeatable — run it before committing any registry edit:**
+> *extract every path token from this runbook, test each for existence, and treat a MISSING result as a
+> blocker.* **A registry that cannot be resolved mechanically is a registry nobody can trust by reading.**
 
 **Shared facts belong in the universe repo, not copied between projects.** If a location pass produces
 something that binds a sibling project, that is a rank-1 question and goes upstream.
@@ -2054,10 +2136,13 @@ entries carried conclusion vocabulary about the same cluster.**
 | `03_The_Phase_Spine.md` | the eleven phases |
 | `04_QA_Gates_and_Differentiation.md` | gates 0–11 + C/F/I/P/G, and the differentiation instrument |
 | `05_The_Input_Contract.md` | **the boundary — PROVIDED / RESERVED / PRODUCED / REQUESTED, and the pre-flight checklist** |
+| ⭐ **`ULM_Input_Required_Reference.md`** | **added 2026-09-03 — EVERY input the methodology cannot produce, with a verified project ADDRESS and a MECHANICAL presence test per row.** *(Universal requirement, project address column. The bar against which the audit measures.)* |
+| ⭐ **`ULM_Input_Available_Audit.md`** | **added 2026-09-03 — the measurement: all 37 chartered cities checked against that bar, by subnet.** ⚠ **Carries a SCOPE-CORRECTIONS box; four fields were struck after measurement and its rows for them are stale by design** |
+| ⭐ **`Location_Data-Input_To-Do.md`** | **added 2026-09-03 — the actionable list, ranked by how many cities are missing each field**, with a stated tie-break per row, a `Removed` section *(do not re-add)*, and a blind-spot warning: ***when the count and the tier disagree, the tier wins*** |
 | **`06_Worked_Example_Provenance.md`** | ⚠ **CHECK THIS BEFORE THE MANDATORY READ.** Which rules in `00`–`05` and `00f` carry which location's answers as worked examples. **If your subject location is in the manifest, read those rules and skip their examples** — otherwise the required reading hands you your own prior conclusions. **And add your own examples to it in the same commit that adds them to a rule** |
-| ⛔ `../Cultural_Synthesis_Techniques.md` **— ORIGINAL, `WITHHELD` from a cold run; read `Disciplines/` instead** | **the generative toolkit — sixteen techniques, already general-scope** |
-| ⛔ `../Real-World_Basis_Extrapolation_Method.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the research method |
-| ⛔ `../Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the panel, carried unchanged |
+| ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md` **— ORIGINAL, `WITHHELD` from a cold run; read `Disciplines/` instead** | **the generative toolkit — sixteen techniques, already general-scope** |
+| ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the research method |
+| ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the panel, carried unchanged |
 | ⭐ **`Disciplines/`** | **THE ULM'S OWN COPIES of the five shared instruments** — `00b` · `00d` · `00f` · `Cultural_Synthesis_Techniques` · `Real-World_Basis_Extrapolation_Method`. **Read THESE during a cold run.** ***The originals are unchanged, authoritative, and `WITHHELD` until Step 7*** — they carry worked instances for ~14 locations, which is a vector-1 leak for whichever subject is next |
 | `.../00b_…` · `.../00d_…` | general population · shadow proportion — **originals**, binding, and the district methodology's own |
 | `.../00_RUNBOOK.md` | **the district procedure — the parent of this one, and still authoritative for districts** |

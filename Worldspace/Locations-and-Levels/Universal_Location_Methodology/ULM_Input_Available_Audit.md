@@ -1,0 +1,448 @@
+# ULM INPUT-AVAILABLE AUDIT — what each of the 37 chartered cities is MISSING
+
+**Measured 2026-09-03.** **Basis of reference: `ULM_Input_Required_Reference.md`, in this folder.**
+**Read them as a pair — that file is the bar; this file is the measurement.**
+
+> ## ⚠ LAYER: **PROJECT.** This file names every city and is not part of `01`–`05`.
+> **LAW 0 is not restated here.** *(It is carried in full in `ULM_Input_Required_Reference.md` and in every
+> ULM instruction file.)* ***This is a measurement artifact, not an instruction file*** — the practice of
+> copying LAW 0 verbatim exists so a procedure is never run without its governing law, and a data table is
+> not a procedure. **The one line that does bind a reader here: a gap is not a defect. Several below are
+> deliberate.**
+
+> ### ⛔ ADMISSIBILITY — declared, not assumed
+> **This file records PRESENCE and ABSENCE of inputs, plus file addresses. It states no conclusion about
+> any city's character, capability or identity.** **Absences are explicitly ADMISSIBLE** *(`00_RUNBOOK.md`
+> §C.1 — "Open threads — these are gaps, not answers")*. ***But per `05` §6.1d, no file is safe by
+> category.*** **A cold run wanting this file gets it mapped first.**
+> **⚠ And note what it IS: a corpus-wide compilation. `§C.3` — a compilation pass contaminates its
+> compiler against every location it covers — applies to the session that BUILT this.**
+
+> ## ⚠⚠ SCOPE CORRECTIONS APPLIED 2026-09-03 — **read before using any number below**
+>
+> **This file is the raw MEASUREMENT record and is preserved as measured.** ***Four fields in it have since
+> been struck from scope. Their rows and per-city entries below are STALE and must not be worked from.***
+> **Full reasoning: `Location_Data-Input_To-Do.md` §Removed.**
+>
+> | Field | Status | Why |
+> |---|---|---|
+> | **Census II** | ⛔ struck — **not a gap** | *developer ruling:* Census I is Antarctica entire; Census II is Antarctica after orbital colonization begins. **Only Census I matters — it is the peak load a city must physically hold.** `Census I` is complete 37/37 |
+> | **Notable figures** | ⛔ struck — **circular by construction** | a notable figure requires understanding the city's nature, which is the ULM's own OUTPUT. `05` §2.4 hazard 3 fires automatically |
+> | **Concept art** | ⛔ struck — **Tier 3 optional** | its input value exists only if it PRECEDES the pass; made after, it is illustration. Production pipeline, not worldbuilding debt |
+> | **National medical** | ⛔ struck — ***the metric was invalid*** | the source names **3 national institutes**, not 37 city entries. **12 of the 15 "present" were free-text false positives** |
+
+---
+
+# 0. How this was measured, and where the instrument was wrong
+
+**Built by script, not by reading** — `04` Part IV and M-101: *a script sees the text and reports only a
+classification; it is incapable of the "didn't look hard enough" failure.* **Every figure below is a
+mechanical test over all 37 specs and every aggregate source named in the registry.**
+
+### ⚠ Three instrument defects were found and fixed BEFORE these numbers were recorded
+**Recorded per Step 9.5 rule 3 — *never compress a negative result into a positive one*. Each of these
+would have produced a confident wrong answer:**
+
+| Defect | Wrong answer it gave | Cause |
+|---|---|---|
+| Concept-art test matched **filenames** | **0 of 37** — a total-gap claim that was false | art is stored in per-city *directories*; most hold only `.gitkeep` |
+| Monthly-climate test v2 counted **empty rows** | **37 of 37 present** — flattering, and wrong | a city with *no table at all* has zero empty rows, so it scored as complete |
+| Census-II test matched **free text** | **37 of 37 present** | four cities appear only in *footnotes* saying they are absent |
+
+> ***The second defect ran in the flattering direction — which is the direction self-audit error in this
+> project has run on every occasion it has been measured.*** **It was caught only because the two runs
+> disagreed (30 vs 37) and the discrepancy was chased rather than reconciled to the newer number.**
+
+---
+
+# 1. CORPUS-WIDE RESULT — worst first
+
+| Input | Have | Missing | Verdict |
+|---|--:|--:|---|
+| **EXTENT / AREA** `T2-8` | 0 | **37** | ⛔⛔ **TOTAL GAP — and it disables the only self-verifying check in the methodology.** See §2 |
+| **Differentiation table column** `04` Part III | 0 | **37** | ⛔ **Table exists with 12 industry rows and ZERO content in any of them.** `CLAUDE.md` requires the row be read before writing a category and the column added in the same commit |
+| **Research log** `Step 3.7` | 4 | **33** | ⛔ **Standing developer instruction since 2026-08-30.** 4 of 37 |
+| **Concept art** `T2-7`/`T3-18` | 4 | **33** | ⛔ 33 cities have an empty placeholder folder. Phase 3 texture + Phase 10 catalog run blind |
+| National medical/care entry | 15 | **22** | ⚠ informational — a national institute roster; absence is not necessarily a gap |
+| **Notable figures** `T3-01` | 26 | **11** | ⚠ 11 cities carry the unfilled `**[Name]**` template placeholder |
+| **Monthly climate table** `T1-G2` | 30 | **7** | ⚠ 7 cities have no monthly table at all |
+| Named in `Airports.md` `T1-G5` | 31 | **6** | ⚠ 6 — may be legitimately air-isolated; needs a positive 'no airport' statement |
+| **Census II figures** `T0-3` | 33 | **4** | ⚠ 4 — confirmed by the census's own note |
+| Symbol pair `T1-G1` | 34 | **3** | ✅ 3 absent, **all three deliberate** |
+| Named in `Highways.md` `T1-G5` | 34 | **3** | ⚠ 3 — may be legitimately road-isolated |
+| Founding population `T1-G4` | 36 | **1** | ⚠ 1 |
+| Inspiration picks `T2-4` | 36 | **1** | ✅ 1, structural |
+| DoI Half B row `T1-G3` | 36 | **1** | ⚠ 1 |
+| Robot culture file `T2-5` | 35 | **2** | ✅ 2, both structural/deferred |
+| Local culture file `T2-1` | 36 | **1** | ✅ 1, structural |
+| Megasheet `T2-1` | 36 | **1** | ✅ 1, structural |
+| Enneagram read `T2-5` | 36 | **1** | ✅ 1, structural |
+| Census I figures `T0-3` | 37 | **0** | ✅ complete |
+| National origin composition `T1-G8` | 37 | **0** | ✅ complete |
+| Relationship files `T2-6` | 37 | **0** | ✅ complete |
+| Master reference entry | 37 | **0** | ✅ complete |
+| Notable locations `T3-10` | 37 | **0** | ✅ complete |
+
+---
+
+# 2. ⛔⛔ THE HEADLINE GAP — **EXTENT. 0 of 37, and it breaks the one gate that has ever worked.**
+
+**Not one of the 37 cities has a declared extent, area, footprint or land-take.**
+
+### Why this is the worst single finding in the audit
+
+**`01` §2 requires TWO bands declared, not one** — *"the population band and the extent band… when they
+diverge, the divergence is characterizing."* **`01` §6's declaration block has a mandatory `**Extent band:**`
+line. `00_RUNBOOK.md` Step 2 item 6 orders the division and calls it *"the cheapest plausibility check in the
+methodology."*** And `04` Gate 11 records:
+
+> ***"Divide the population by the area. That is the whole technique."*** — **Gate 11's ONLY recorded catch,**
+> and `04`'s own verdict on it: *"the part that fired was the part that was **arithmetic**… it is the only
+> part of this gate that does not run on the same faculty that produced the error."*
+
+***So the single instrument in this methodology that is not vulnerable to the author's own blind spots cannot
+currently be run for any city in the project.***
+
+### Six cities have an area figure. **None of them is a city extent.**
+
+**Every one is a REAL-WORLD SITE area — the physical basis, not the Tepenian settlement:**
+
+| City | What the figure actually measures |
+|---|---|
+| **Cape Adare** | the cape / Important Bird Area — **2.94 km²** |
+| **Denison** | the Cape Denison ASMA zone — **1.11 km²**, and the spec notes the true ice-free area is *less* |
+| **Davis** | the Vestfold Hills ice-free oasis — **~400 km²** |
+| **Lazar** | the Schirmacher Oasis — **~34 km²** |
+| **Sayowa** | East Ongul Island — **~4–5 km²** |
+| **Sinheung** | the Larsemann Hills — **~34 km²** |
+
+> ### ⭐ TWO SPECS HAVE ALREADY HIT THIS, INDEPENDENTLY, AND SAID SO
+> - **Cape Adare's own spec:** *"the exact figure is a worldbuilding decision, not an arithmetic one —
+>   ~20–40 km² is the…"* — **the gap is named and left open.**
+> - **Sayowa's own spec has already run Gate 11's division:** *"225,376 people on ~4–5 km² is **~50,000/km²**
+>   — the implausibility…"* ***That is Gate 11 firing, in a spec file, with no extent canon to resolve it
+>   against.***
+>
+> **This is not a hypothetical gap. It has already produced at least one live, unresolved implausibility.**
+
+### What to do with it — it is a `REQUESTED` output, per `05` §5
+
+**A well-formed request states four things.** Here they are:
+1. **What is missing:** a declared built extent (km²) per city — settlement footprint, not the real-world
+   site's area.
+2. **Which phase is blocked:** Phase 0 cannot fill the `**Extent band:**` line; **Gate 11's arithmetic check
+   cannot run at all**; `01` §2's population/extent divergence finding is unavailable everywhere.
+3. **What was done instead:** nothing — no pass can substitute for it, and the six site areas above are
+   *upper bounds on habitable land*, not extents.
+4. **Sensitivity:** ⚠ **high, and it may invalidate existing texture.** Sayowa's own numbers already imply a
+   density near the densest cities on Earth. **Densities are the premise of texture findings across the
+   corpus** *(`04`: "before trusting any texture claim, price it against a density figure")*.
+
+---
+
+
+---
+
+# 3. PER-CITY GAPS, BY SUBNET
+
+**A city with no line under it is missing nothing this audit tests.** ***That is not the same as being
+complete*** — every city is missing `EXTENT`, which is listed once in §2 rather than 37 times here.
+**`↳ structural`** marks an absence that is correct by design and must not be 'fixed'.
+
+## Palmer Subnet — Antarctic Peninsula
+
+**Esperanza**
+- differentiation column `04 III`
+- named in Airports.md `T1-G5`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Juan Carlos**
+- monthly climate table `T1-G2`
+- differentiation column `04 III`
+- named in Highways.md `T1-G5`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Marambio**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Palmer City**
+- differentiation column `04 III`
+- research log `Step 3.7`
+
+**Port Lockroy**
+- monthly climate table `T1-G2`
+- differentiation column `04 III`
+- named in Airports.md `T1-G5`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Rothera**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- research log `Step 3.7`
+
+**Sejong**
+- differentiation column `04 III`
+- named in Highways.md `T1-G5`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Signy**
+- differentiation column `04 III`
+- named in Highways.md `T1-G5`
+- named in Airports.md `T1-G5`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+## Halley Subnet — Queen Maud Land / Weddell Sea
+
+**Abowasa**
+- symbol pair `T1-G1`  ↳ *structural — **deliberately paused** pending its founding-nation fix — stated in the file*
+- DoI Half B row `T1-G3`
+- differentiation column `04 III`
+- named in Airports.md `T1-G5`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+- robot culture file `T2-5`
+
+**Belgrano**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Halley**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Lazar**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Neumayer**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Princess Elisabeth**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Sanay**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- research log `Step 3.7`
+
+**Troll**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+## Byrd Subnet — Marie Byrd Land
+
+**Byrd**
+- Census II figures `T0-3`
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+## Janbogo Subnet — Ross Sea
+
+**Cape Adare**
+- differentiation column `04 III`
+- named in Airports.md `T1-G5`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Concordia**
+- symbol pair `T1-G1`  ↳ *structural — capital — uses the zodiac district substrate, not the Planet+Element city system*
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+- local culture file `T2-1`  ↳ *structural — capital — 301 district files under `Concordia-City/Districts/`*
+- robot culture file `T2-5`  ↳ *structural — capital — district-level robot culture*
+- megasheet `T2-1`  ↳ *structural — capital — district megasheets + Ultra Megasheet*
+- enneagram read `T2-5`  ↳ *structural — capital — district-level Zodiac substrate*
+
+**Denison**
+- monthly climate table `T1-G2`
+- founding population `T1-G4`
+- differentiation column `04 III`
+- named in Airports.md `T1-G5`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Dumont d'Urville**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Fort McMurdo**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Janbogo**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+
+**Scott**
+- monthly climate table `T1-G2`
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Zukelli**
+- monthly climate table `T1-G2`
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+## Mawson Subnet — East Antarctic Indian Ocean Coast
+
+**Dome Fuji**
+- Census II figures `T0-3`
+- differentiation column `04 III`
+- research log `Step 3.7`
+
+**Mawson**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Sayowa**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+## Mirny Subnet — Wilkes Land / East Antarctic Plateau
+
+**Casey**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Davis**
+- differentiation column `04 III`
+- notable figures `T3-01`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Kunlun**
+- Census II figures `T0-3`
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Mirny**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Shirayuki**
+- monthly climate table `T1-G2`
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+
+**Sinheung**
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+
+**Vostok**
+- Census II figures `T0-3`
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+**Zhongshan**
+- monthly climate table `T1-G2`
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+
+## Amundsen Station — South Pole (inter-subnet relay; no subnet)
+
+**Amundsen Station**
+- symbol pair `T1-G1`  ↳ *structural — relay outpost, not a residential city*
+- inspiration picks `T2-4`  ↳ *structural — relay outpost, not a residential city*
+- differentiation column `04 III`
+- concept art `T2-7`/`T3-18`
+- research log `Step 3.7`
+
+---
+
+# 4. REGISTRY AND SOURCE DEFECTS found while auditing
+
+**Four, all verified. Each is the kind that returns a confident wrong answer rather than an error.**
+
+### 4a. ✅ **FIXED 2026-09-03** — a registry address that did not exist, on `G5`, the row every pass needs
+**`00_RUNBOOK.md` §C registered `…/Cities/Locations/Infrastructure/Highways.md`.** ***That path did not
+exist.*** **Real address: `…/Locations/Infrastructure/Highways.md` — `Infrastructure/` is a SIBLING of
+`Cities/`.** **M-117 recurring inside the registry**, and Gate C's own recorded failure shape: *a pass
+searches a space that structurally cannot contain the answer and gets a clean negative.*
+**Corrected in §C on developer authorization; the row now carries the correction note. Verified to resolve.**
+
+### 4b. ⭐ AN UNREGISTERED CANON SOURCE — and it is keyed by ALIAS, not by city name
+**`Reference/Real-World/Climate Data/READER/` holds 37 per-city climate files.** ***It appears nowhere in the
+canon registry `§B`–`§D`, and nowhere in `03` §0.3's Phase 1 or Phase 3 canon targets*** — both of which name
+"climate data" as a required class without an address.
+
+> **And the files are named for the REAL-WORLD STATION, not the Tepenian city** — `Aboa.md`, `Bharati_TBD.md`.
+> ***A pass searching this folder for its subject's city name finds nothing and concludes the climate data is
+> absent.*** **It is reachable only through the alias set (`Step −2` item 1a, M-118), which is exactly the
+> mechanism that exists for this and has never been pointed at a canon folder.**
+
+### 4c. A STALE SELF-REPORT IN THE CENSUS — Gate 0, failing in the flattering direction's opposite
+**`Official_Population_Census.md` states: *"Denison… is therefore not yet included in Section III."***
+***Denison IS in Section III, at row 16.*** **The note is stale.** **Gate 0's rule — *check the target, never
+the claim; it fails in both directions* — catching a file under-reporting itself.**
+
+### 4d. THE DIFFERENTIATION TABLE IS SCAFFOLDING, AND `CLAUDE.md` TREATS IT AS LIVE
+**`02_Cross_City_Industry_Differentiation_Table.md` has 12 industry rows, 4 named city columns against a
+`*(…32 more)*` placeholder, and ZERO content in any cell.** **`CLAUDE.md` requires the relevant row be read
+BEFORE writing a category and the city's column added in the SAME COMMIT** — *"the only mechanical guard
+against thirteen districts quietly converging."* ***The guard is currently empty at city scale.***
+
+---
+
+# 5. WHAT TO FIX FIRST
+
+**Ordered by what unblocks the most work, not by how many cities are affected.**
+
+| # | Action | Why first |
+|---|---|---|
+| **1** | ⛔ **Rule an EXTENT figure per city** *(developer decision — `05` §3: this binds many locations, so a pass may not decide it)* | Unblocks the `**Extent band:**` line, Gate 11's arithmetic, and the population/extent divergence finding — **for all 37 at once**. Already producing a live implausibility at Sayowa |
+| **2** | **Fix the `§C` Highways address; register `Climate Data/READER/` with an alias note** | Two one-line registry edits that stop two classes of false-negative canon check |
+| **3** | **Populate the differentiation table**, or mark it explicitly unbuilt | `CLAUDE.md` currently mandates a check against an empty instrument — the guard reads as running while doing nothing |
+| **4** | **Backfill research logs** — 4 of 37 | Standing instruction since 2026-08-30. Also the only input that *stays admissible to a later cold run*, so every missing log is permanently lost provenance |
+| **5** | **Census II for Byrd, Vostok, Kunlun, Dome Fuji** | `G8`'s retention technique — *"who left when leaving became possible"* — needs two snapshots. These four have one |
+| **6** | **Monthly climate for the 7** · **notable figures for the 11** | Ordinary backfill against a known template |
+
+> ## ⚠ THE FINDING BEHIND THE FINDINGS
+>
+> **The complete columns in §1 are the ones with a single aggregate owner** — census, influences, symbols,
+> Half B, the relationship files. ***Every one of them is complete or near-complete.***
+>
+> **The empty columns are the ones that need a PER-CITY artifact** — research logs, concept art, the
+> differentiation table, extent. ***Every one of them is at or near zero.***
+>
+> **That is not thirty-seven separate oversights. It is one structural fact:** *this corpus is excellent at
+> filling a table that already has a row for every city, and has no mechanism that notices when a per-city
+> artifact was never created.* **A missing row in an aggregate file is visible. A missing file is not.**
+>
+> ***The ULM's own input contract has no completeness check — `05` §7's pre-flight is run BY a pass, ABOUT
+> the one city it is writing.*** **Nothing in the methodology ever asked this question across the corpus
+> until it was asked by hand today.**

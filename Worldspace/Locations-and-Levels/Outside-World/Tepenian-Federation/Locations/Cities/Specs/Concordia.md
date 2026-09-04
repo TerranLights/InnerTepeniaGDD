@@ -3,6 +3,7 @@
 **Based on:** Concordia Station (France / Italy), Dome C, East Antarctic plateau (~75°06'S, 123°20'E)
 **Status:** Survived — last major city; primary game setting
 **Arcanet Subnet:** Janbogo *(corrected 2026-07-03 — this file previously said "Mirny," conflicting with `City_Relationship_Database.md` and `Official_Population_Census.md`, both of which agree on Janbogo)*
+**Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — a genuine tri-junction, all three connecting directly here via the outer ring linking Concordia's Capricorn and Sagittarius districts: **Hwy 110** (NE → Casey → Mirny → Davis → Zhongshan coast), **Hwy 37** (NW → Vostok → Kunlun → Dome Fuji → toward Sayowa), **Hwy 183** (N → Denison, near-Cape Adare, near-Janbogo/Zukelli via connecting roads → Dumont d'Urville; Hwy 175's junction sits along this route near Janbogo, not at Concordia's own end). See `Locations/Infrastructure/Highways.md`.
 **Significance:** The last functioning major city in the Tepenian Federation; the only place in Tepenia where survivors from all six subnets coexist
 

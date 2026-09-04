@@ -3,6 +3,7 @@
 **Based on:** Amundsen-Scott South Pole Station (USA), Geographic South Pole (90°00'S)
 **Status:** Destroyed (Long Night War) — most significant ruins in Tepenia; DLC 1 setting
 **Arcanet Subnet:** Inter-subnet relay — not a member of any subnet; served as the neutral switching point connecting all six subnets before its destruction
+**Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — a genuine three-highway node: **Hwy 22** (Transcontinental Highway) passes directly through; **Hwy 175** (Central Cut Throughway) terminates here, connecting toward the Janbogo subnet region; **Hwy 59** (Atlantic Throughway / Arcanet Line) also terminates here, at a ramp farther from the Pole than Hwy 175's own ramp with Hwy 22. See `Locations/Infrastructure/Highways.md`.
 **Significance:** The geographic South Pole; former inter-subnet Arcanet relay; site of the Planetary Split Brain; site of the Amundsen Tower (space elevator); the only location where the six subnets' divergent post-Split-Brain histories can be reconciled; home to Kendra Heinrich
 

@@ -3,6 +3,7 @@
 **Based on:** [Real station name], [country], [approximate coordinates if known]
 **Status:** [Destroyed / Damaged; partially operational / Survived — [condition] / Historical site (pre-exile)]
 **Arcanet Subnet:** [Subnet name] [("colloquial nickname" if any)]
+**Access type:** [ON = directly on a highway mainline, including junctions and termini / SPUR = connecting road, ramp, or off-road spur to a mainline / SEA-LINK = reached by boat crossing from a highway ramp / NONE = no highway connection]
 **Highway access:** [Highway numbers / Maritime only / Road-isolated / N/A — pre-exile site]
 **Significance:** [One-line summary of what this city was or is]
 

@@ -3,6 +3,7 @@
 **Based on:** Mirny Station (Soviet Union / Russia), Davis Coast, East Antarctica (~66°33'S, 93°01'E)
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Mirny ("Australian") — subnet hub
+**Access type:** ON
 **Highway access:** Hwy 110 (Coastal Cut — connecting east toward Casey and Concordia; west toward Davis and Zhongshan)
 **Significance:** Hub of the Mirny subnet; *corrected 2026-07-04 — Mirny is Mirny subnet, Concordia is Janbogo subnet, so the Planetary Split Brain severed their Arcanet connection the same as every other inter-subnet link (see "Connection to Concordia" below for the real mechanism, which is physical highway proximity, not Arcanet)*; sits precisely on the Antarctic Circle — the geographic threshold of the polar zone
 **DLC:** Mirny is a DLC location — the main game is set exclusively in Concordia and its outer districts (Capricorn/industrial yards and Sagittarius/Frostlands); which DLC covers the Mirny subnet is TBD

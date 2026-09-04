@@ -21,18 +21,98 @@ Which Tepenian cities/locations retain functional airports in the post-war/prese
 
 ---
 
-## Everything Else Is Highway-Only
+## Served, Not Host — cities with air access they do not own
 
-Every other Tepenian city — including ones whose real-world station has a genuine airstrip today (Amundsen Station, Casey, Concordia, Davis, Dome Fuji, Dumont d'Urville, Fort McMurdo, Halley, Kunlun, Lazar, Mawson, Neumayer, Palmer City, Princess Elisabeth, Sanay, Sayowa, Scott, Vostok, and others) — has no functional airport in Tepenia. Access to these cities is via the highway network only (`Locations/Infrastructure/Highways.md`).
+**Added 2026-09-03.** **A city can have real air access without hosting an airport, and calling such a city
+"highway-only" is misleading.** *(The pattern already existed for Juan Carlos; it is now stated as a category.)*
 
-> **⚠ Corrected 2026-09-02 — two names removed from this list, both of which appear in the Confirmed table above.**
-> **Belgrano** was added to the table on **2026-08-03** but **never removed from here**, leaving the file
-> contradicting itself for a month. **Byrd** was added 2026-09-02 and is removed in the same edit.
-> **This paragraph must be edited in the SAME commit as any addition to the table above** — it is the second
-> time the two halves of this file have disagreed, and the failure mode is silent.
+| City | Served via | Notes |
+|---|---|---|
+| **Juan Carlos** | **Machu Picchu Airport** | Does **not** host. The developer's own map places the Machu Picchu marker right at Juan Carlos's label — **same airport, not a separate one.** |
+| **Sejong** | **Machu Picchu Airport** | The airport sits closest to Sejong. Neither city hosts it; both are served by it. |
+| **{{Abowasa}}** ⚠ *placeholder name* | **Troll** *(primary)* **or Belgrano** *(secondary)* | **Confirmed 2026-09-03, developer.** ***"Air access via either Troll or Belgrano. The earlier point-of-contact is Troll."*** All three are Halley-subnet cities on Hwy 7. **Consistent with the real-world basis, where Aboa and Wasa are served by Troll Airfield.** ⚠ **The city's name is provisional** — it is paused pending its own founding-nation fix *(same pause that excludes it from `City_Symbol_Assignments.md`)*; `05` §3 reserves official in-fiction names to the developer. |
+
+---
+
+## Everything Else Has No Air Access — **all 23, named**
+
+> **⚠ Enumerated 2026-09-03, replacing a `"…and others"` catch-all.** **`04` Gate C: *"Name the paths, or the
+> negative result does not count."*** ***Six cities previously fell into "and others" and carried no explicit
+> statement either way*** — {{Abowasa}} *(now served-via, above)*, Cape Adare, Denison, Esperanza, Port
+> Lockroy and Signy. **The negative is now checkable from this file instead of requiring 37 spec reads.**
 >
-> **Juan Carlos is deliberately NOT listed here and does NOT appear in the table.** It **does not host** an
-> airport, but **Machu Picchu Airport sits close enough that the developer's own map places the marker at
-> Juan Carlos's label** *(same airport, not a separate one — see the Machu Picchu row)*. Saying it is
-> "highway-only" would be misleading, and giving it a row would invent a second airport. **It is served, not
-> a host.**
+> **Basis: this file's own 1:1 reconciliation with both developer map images — ten markers, ten rows.**
+> **No further marker exists, so no further city hosts an airport.**
+
+**Amundsen Station · Cape Adare · Casey · Concordia · Davis · Denison · Dome Fuji · Dumont d'Urville ·
+Esperanza · Fort McMurdo · Halley · Kunlun · Lazar · Mawson · Neumayer · Palmer City · Port Lockroy ·
+Princess Elisabeth · Sanay · Sayowa · Scott · Signy · Vostok**
+
+**Many of these have a real-world station with a genuine airstrip today** *(Amundsen Station, Casey,
+Concordia, Davis, Dome Fuji, Dumont d'Urville, Fort McMurdo, Halley, Kunlun, Lazar, Mawson, Neumayer, Palmer
+City, Princess Elisabeth, Sanay, Sayowa, Scott, Vostok)* — **and none of them has one in Tepenia.**
+**Access is via the highway network only** (`Locations/Infrastructure/Highways.md`), **except where noted
+below.**
+
+### ⭐ Three cases where "no air access" is load-bearing rather than incidental
+
+**1. ⛔ THE MAWSON SUBNET HAS NO AIRPORTS AT ALL. Confirmed 2026-09-03, developer.**
+**Dome Fuji · Mawson · Sayowa.** ***It is the only subnet with zero air access*** — Halley has two (Troll,
+Belgrano), Palmer three, Mirny two, Janbogo one, Byrd one. **The subnet is entirely road-dependent, and its
+gateway is the three-way Sayowa Junction, which Sayowa reaches by spur rather than sitting on.**
+⚠ **Bears on Dome Fuji, a continent-wide pilgrimage site** *(`Official_Population_Census.md`)*: **every
+pilgrim arrives overland.**
+
+**2. ⛔ PALMER CITY IS AIR-DISCONNECTED ON PURPOSE — and the reason CHANGED. Established 2026-09-03, developer.**
+**Palmer City has never hosted an airport, and it is `SEA-LINK` by road** — reached by boat crossing from a
+Hwy 1 ramp *(`Specs/Palmer_City.md`)*. ***So every arrival, without exception, comes by water.***
+
+> **The two eras, and they are different facts:**
+> - **Early — incapacity.** *"At first, it was because Tepenians simply didn't have the materials and
+>   infrastructure to build one."*
+> - **Later — deliberate policy.** *"As it became apparent that Palmer City was easily-accessible by
+>   Upper-Earthers, it was deliberately kept 'air-disconnected' from the rest of the country to make it
+>   harder for anyone from Upper Earth with ill intentions to sneak in."*
+>
+> ⭐ **A constraint forced by poverty, later re-read as a chosen security posture** — `Cultural_Synthesis_
+> Techniques.md` §6, **Necessity Before Meaning**, occurring in canon rather than as a derivation.
+> **And the boat crossing is what makes the policy enforceable: a city you can only reach by water is a city
+> where every arrival is observed.**
+>
+> ⚠ **Note the asymmetry, which is deliberate:** **the Palmer subnet hosts Tepenia's ONLY international
+> airport** *(Machu Picchu → Ushuaia)*, **while the subnet's own hub city is the one sealed off from the air
+> network.** **The gateway and the guarded city are neighbours.**
+
+**3. Signy has neither road nor air access.** **`Access type: NONE`** *(`Specs/Signy.md`: "entirely
+maritime-access only; South Orkney Islands have no overland connection")* **and no airport.** ***It is the
+only Tepenian city reachable by neither road nor air — sea access only.***
+
+> ## ⚠⚠ THE STANDING CONSISTENCY RULE FOR THIS FILE — read before editing any part of it
+>
+> **THE FILE NOW HAS THREE MUTUALLY EXCLUSIVE LISTS, AND EVERY CITY MUST APPEAR IN EXACTLY ONE:**
+>
+> | List | n |
+> |---|--:|
+> | **Confirmed Airports** *(hosts)* | **11 cities** — Belgrano · Byrd · Janbogo · Marambio · Mirny · Rothera · Shirayuki · Sinheung · Troll · Zhongshan · Zukelli |
+> | **Served, Not Host** | **3** — Juan Carlos · Sejong · {{Abowasa}} |
+> | **No Air Access** | **23** |
+> | **TOTAL** | ✅ **37 — reconciles** |
+>
+> ***Any edit to one list MUST edit the others in the SAME commit.*** **The two halves of this file have now
+> disagreed THREE times, and the failure mode is silent every time:**
+> 1. **Belgrano** — added to the table 2026-08-03, **never removed from the highway-only list**; the file
+>    contradicted itself for a month.
+> 2. **Byrd** — added 2026-09-02; caught and fixed in the same edit.
+> 3. **Juan Carlos** — 2026-09-03. **A prior note read *"Juan Carlos is deliberately NOT listed here and does
+>    NOT appear in the table"* — which stopped being true the moment the Served-Not-Host table was added.**
+>    ***A correction note became the next contradiction.***
+>
+> ### The fix that replaced the note: **`Served, Not Host` is now a real section, not a footnote.**
+> **The prior handling stated the Juan Carlos case in prose *because there was nowhere to put it.*** **Saying
+> it is "highway-only" is misleading; giving it a Confirmed row would invent a second airport.** ***A category
+> with one member reads as an exception; the same category with three members is simply a category*** — and
+> `{{Abowasa}}` (2026-09-03) is the member that made that obvious.
+>
+> **⭐ The general lesson, and it is why the count table above exists:** ***a prose carve-out for an
+> unrepresented case is a contradiction waiting to happen.*** **Give the case a row, and the arithmetic
+> checks itself.**

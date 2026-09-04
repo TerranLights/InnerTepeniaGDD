@@ -3,6 +3,7 @@
 **Based on:** Davis Station (Australia / Australian Antarctic Division), Vestfold Hills, Prydz Bay (~68°35'S, 77°58'E)
 **Status:** Damaged; partially operational *(corrected 2026-07-03 — this header was stale; every other source, including this city's own cultural sheet, already agreed on "Damaged")*
 **Arcanet Subnet:** Mirny *(corrected 2026-07-03 — this file previously said "Mawson," conflicting with both `Official_Population_Census.md` and `Local_Cultures/README.md`, which agree on Mirny. The Larsemann Hills cluster connection noted below, which includes Zhongshan — a confirmed Mirny subnet city — actually supports the Mirny correction.)*
+**Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — Davis is on **Hwy 110 (the Coastal Cut Highway)**, between Zhongshan and Mirny: Zhongshan → Davis → Mirny → Casey → Concordia. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Shares Australian founding-wave heritage with Mirny subnet neighbors Casey and Mirny itself (not paired with Mawson-the-city, which is in a different subnet); Australian Antarctic Division heritage; named after John King Davis (1884–1967) — the Australian mariner who captained multiple Antarctic relief and research expeditions, including Sir Douglas Mawson's own expeditions; located in the Vestfold Hills, one of the largest ice-free coastal areas in Antarctica; Prydz Bay maritime access
 **DLC:** Mirny subnet; which DLC covers the Mirny subnet is TBD (see `Specs/Mirny.md`)

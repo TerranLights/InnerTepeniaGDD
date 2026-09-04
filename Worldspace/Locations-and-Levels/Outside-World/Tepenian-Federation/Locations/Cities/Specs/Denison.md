@@ -3,6 +3,7 @@
 **Based on:** Cape Denison, Commonwealth Bay, George V Land, East Antarctica (~67°00'S, 142°40'E) — main base of Douglas Mawson's Australasian Antarctic Expedition (1911–1914)
 **Status:** Destroyed
 **Arcanet Subnet:** Janbogo
+**Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — Denison is on **Hwy 183 (the Janbogo Highway)**, between the Cape Adare connecting road and Dumont d'Urville. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Among the windiest permanent habitation sites at sea level on Earth (avg ~80 km/h, gusts 300+ km/h); founded on the legendary Mawson expedition site; "Home of the Blizzard" — the one Tepenian city whose civic identity is built on open pride in environmental extremity rather than quiet endurance
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, ruins accessible

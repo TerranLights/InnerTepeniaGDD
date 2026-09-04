@@ -3,6 +3,7 @@
 **Based on:** Cape Adare, Adare Peninsula, northern Victoria Land, Ross Sea (~71°17'S, 170°14'E)
 **Status:** Destroyed — historical site
 **Arcanet Subnet:** Janbogo
+**Access type:** SPUR
 **Highway access:** **Corrected 2026-07-06** — Cape Adare is reached via a **connecting road off Hwy 183** (the Janbogo Highway), not a direct main-line stop — the same spur-access pattern already established for Fort McMurdo and Scott. See `Locations/Infrastructure/Highways.md`.
 **Significance:** Site of the first human structure built on the Antarctic continent (Borchgrevink's 1899 hut); associated with St. Carsten (Carsten Borchgrevink); one of the most historically important pre-exile sites in all of Tepenia; the place where humanity first spent a winter on Antarctica
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city / historical site, ruins accessible

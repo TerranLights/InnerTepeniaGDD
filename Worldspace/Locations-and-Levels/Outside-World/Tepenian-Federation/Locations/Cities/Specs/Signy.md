@@ -3,6 +3,7 @@
 **Based on:** Signy Research Station (UK / British Antarctic Survey), Signy Island, South Orkney Islands, Scotia Sea (~60°43'S, 45°36'W)
 **Status:** Survived; fully operational *(finalized 2026-07-03 — upgraded from "Damaged; partially operational." Signy's extreme remoteness means Upper Earth's forces plausibly never struck it directly at all, not merely deprioritized it. See War Impact Note below for the real, non-combat consequence this still produced.)*
 **Arcanet Subnet:** Palmer ("American")
+**Access type:** NONE
 **Highway access:** None — Signy Island is entirely maritime-access only; South Orkney Islands have no overland connection to any other Tepenian city; the most isolated Palmer subnet city; even within the Palmer subnet, Signy is a significant sea voyage from the nearest other city
 **Significance:** The northernmost and most isolated city in the Palmer subnet; the only Tepenian city in the South Orkney Islands; sub-Antarctic rather than full Antarctic at 60°43'S — biologically richer, less hostile than the Peninsula proper; weak Arcanet link due to distance from subnet hub; the furthest from the Peninsula "core" of all Palmer subnet cities; the Shackleton connection (Endurance expedition passed through this region)
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); fully survived, untouched by direct war damage, but facing a real post-war supply crisis — the one functioning city in a landscape of ruins, though "functioning" comes with a real asterisk

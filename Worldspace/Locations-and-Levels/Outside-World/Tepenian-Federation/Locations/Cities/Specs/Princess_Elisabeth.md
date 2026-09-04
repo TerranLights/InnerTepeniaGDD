@@ -3,6 +3,7 @@
 **Based on:** Princess Elisabeth Antarctica (Belgium / International Polar Foundation), Utsteinen nunatak, Sør Rondane Mountains, Queen Maud Land (~71°57'S, 23°21'E)
 **Status:** Destroyed *(finalized 2026-07-03, after two earlier revisions the same day — see Open Questions/history note below)* — ruins, explorable for loot/data/audio logs/lore, with straggling survivors who can anchor questline content
 **Arcanet Subnet:** Halley ("Atlantic")
+**Access type:** ON
 **Highway access:** Hwy 7-ext / Belgrano Highway Extension (eastern Halley subnet; Sør Rondane nunatak position); connection to Dome Fuji corridor TBD
 **Significance:** International Polar Foundation heritage; named after Princess Elisabeth of Belgium (born 2001); the most recently built of the Tepenian founding stations (opened 2009); designed from inception as a zero-emissions station — the first Antarctic station built to zero-waste, minimal-impact design principles; on Utsteinen nunatak in the Sør Rondane Mountains; the real station is famously exposed to gales up to 300 km/h, surviving only through deliberate aerodynamic engineering and deep permafrost anchoring rather than any natural shelter — a fact that directly informed this city's eventual destruction; the eastern position in Queen Maud Land puts it closer to Dome Fuji than to the western Halley subnet cities
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); destroyed, ruins accessible with a small straggling survivor population
