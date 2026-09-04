@@ -59,6 +59,17 @@ was retracted (see KILLED FINDING, below). **Not abandoned — parked.** Re-atte
 discipline now in force (place-name + physical-property search terms only, hook-enforced): search for a real
 structural/logistical comparable using station names, never national terms.
 
+### Search 3 — verbatim: `Larsemann Hills winter temperature polar night darkness`
+
+**Sources used:** [Larsemann Hills — Wikipedia](https://en.wikipedia.org/wiki/Larsemann_Hills)
+
+| What came back | → which finding it became |
+|---|---|
+| ~3 months of complete darkness during polar night at this specific site | **used** — Phase 3 seasonal variance |
+| General Antarctic inland polar-night/polar-day temperature context (−40 to −70°C) | **NOT used** — Larsemann Hills is coastal, not inland; inland figures don't transfer without a coastal-specific source, and using them would overstate the cold relative to the site's own established "mild by Tepenian standards" status |
+| Polar night runs roughly March–September in the Antarctic generally | held as general context, not Larsemann-Hills-specific |
+| A real station's operating institution, named in one result | **deliberately discarded, not logged further** — exactly the content class `No_National_Stereotypes.md` excludes; the query itself was clean, the result incidentally wasn't, so it gets filtered at extraction rather than used |
+
 ### ⛔⛔ KILLED FINDING — Search 1's "built to disappear, made permanent instead"
 
 **Retracted 2026-09-03, same session, on developer correction.** Search 1's fusion — the station's specific
