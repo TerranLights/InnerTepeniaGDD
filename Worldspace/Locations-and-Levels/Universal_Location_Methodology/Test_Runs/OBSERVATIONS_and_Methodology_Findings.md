@@ -5305,3 +5305,85 @@ methodology — writing the lesson down.***
 > ```
 > **It is one command, it is not optional, and the edit that needs it most is the one that felt most
 > responsible.** *(Rewritten location-neutrally here; verified 0 across all seven files before commit.)*
+
+---
+
+# M-136
+
+## THE FIXPOINT RE-CHECK, CLOSED OUT. **A one-hop provenance check understated contamination by ~12×, in this corpus.**
+
+**Run 15, 2026-09-03.** M-135 established that requirement 7 must run to fixpoint. This entry records the
+closed-out result: a corrected reader (`req7_fixpoint_original17_v2.json`), a hand-verification pass against
+every claimed edge, and one Brief-C classification dispatch to resolve a genuine ambiguity.
+
+### The corrected reader's self-check worked
+
+**Contract `2026-09-03-d`** required every chain edge to carry a `file :: L<n>` cite, verified by the reader
+before assertion, and required ratified roots (`Specs/`, `Official_Population_Census.md`) to TERMINATE the
+walk rather than propagate through. **Result: the reader self-flagged the two edges it inherited from the
+first (uncited) fixpoint pass as unverifiable — the exact two M-135 disproved by hand.** It did not launder
+them through. **The contract fix held on the case it was built for.**
+
+### But the corrected reader then asserted two NEW edges, and neither survived cheaply
+
+**Hand-verification (content-blind: grep the cited line for the path token the chain claims, never read the
+surrounding prose) found:**
+
+| Claim | Verified? |
+|---|---|
+| 9 of 11 new edges | ✅ **real** — path token present at the cited line, or (for the one 2-hop case,
+  `Falkland_Treaty/Scaffold.md`) both hops verified independently |
+| `Specs/Shirayuki.md` L216 → `Shirayuki_Full_Extrapolation.md` | ✅ **real citation exists** — but resolves to a
+  DIFFERENT question than existence: is it a derivation claim or a mere pointer? |
+| `Local_Cultures/…/Shirayuki.md` L229 → `Tri-Cities_Region.md` | ✅ **real citation exists**, but the file is
+  `WITHHELD` by root regardless — moot for grounding purposes |
+
+**So: unlike the first fixpoint pass (which fabricated an edge outright), this pass's claims were all real.**
+**What remained was a genuinely harder question the reader could not settle from its own brief: derivation vs.
+pointer.** A third, narrowly-scoped Brief-C dispatch (read ONLY lines 200–225, classify into a 4-token closed
+set, explicitly forbidden from opening the cited withheld file) returned **`ambiguous`** — the honest answer,
+not a forced call.
+
+### The resolution — surgical, not wholesale, because the evidence supported it
+
+**Ambiguous → conservative treatment, per the standing asymmetry rule.** But `Specs/Shirayuki.md` already
+carries a full char-span 3-of-3 map (§6b), so the demotion could be scoped to exactly the admissible lines
+inside the classified span (`L213-225`) rather than the whole file: **`215-216, 220-223, 225` — 7 lines.**
+`Specs/Shirayuki.md`'s remaining ~114 admissible lines (of ~121) stand.
+
+### ⚠⚠ THE HEADLINE RESULT — and it is a methodology finding, not just a Run 15 detail
+
+**Among the §9 registry-file set (14 files, 1,506 admissible lines):**
+
+| Depth | Demoted | Clean |
+|---|--:|--:|
+| **One-hop** (§10, original) | 5 lines | 1,501 |
+| **Two-hop** (fixpoint, this entry) | 898 lines | **608** |
+
+***Going from one hop to two hop moved 893 lines — 59.3% of the set — from "clean" to "downstream."*** **A
+`CONFIRMED` review's requirement 7, run at the depth it specified, understated the corpus's actual contamination
+rate by roughly an order of magnitude.** This is the single largest correction any check has produced on this
+review, and it happened on the SECOND run of the check that was supposed to have already caught it.
+
+### ⭐⭐ THE UNRESOLVED PART, STATED HONESTLY — do not read the two-hop table above as final
+
+**Six of the seven newly-demoted files** (`Developer_Ruling_Queue.md` · `Cross_City_Cultural_Patterns.md` ·
+`Robot_Physiology_and_Cultural_Practices.md` · `testing/QA_template.md` ·
+`Amundsen_Station_Archive_and_Trucking_Network.md` · `Falkland_Treaty/Scaffold.md`) **are large, MULTI-TOPIC
+reference files — a robot-physiology reference covering many cities, a developer ruling queue covering many
+open questions, a cross-city pattern file.** **The verified citation on each is real, but it points at a
+DIFFERENT city's material in every case checked** (`Robot_Physiology` → Rothera; `Ruling_Queue` → a Cape Adare
+suggestions file). ***Whole-file demotion for a reference file organized by topic-across-many-cities is very
+likely the same over-conservative error the Specs case just corrected*** — a single citation to an unrelated
+city's example probably taints one passage, not the file's general-canon content a Shirayuki pass would
+actually cite.
+
+**This was NOT re-verified per-file the way `Specs` was, for cost reasons — 6 more Brief-C dispatches at this
+point, on a run that has already spent an unusual amount of budget on this one axis.** **The 608/1,506
+figure above is therefore the CONSERVATIVE floor, not the true grounded yield** — the true figure is likely
+meaningfully higher, recoverable by the same surgical technique used on `Specs`, file by file, if wanted.
+
+**Standing rule this leaves behind:** ***a citation found during a fixpoint walk demotes the FILE only when
+the citing passage is actually ABOUT the walk's subject. For a multi-subject reference file, classify the
+passage, not the file — the same escalation the ladder already prescribes for a 2–1 split, applied to
+provenance instead of admissibility.*** File as the general form of the fix Specs just received.

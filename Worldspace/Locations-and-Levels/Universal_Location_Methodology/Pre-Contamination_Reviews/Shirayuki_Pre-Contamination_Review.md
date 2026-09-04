@@ -651,3 +651,62 @@ correctly detected the substitution and refused it. One then DELETED a sibling's
 work was unrecoverable (the folder was untracked).** **Full analysis: M-132 · M-133 · M-134.**
 **Fixes: Brief A contract `2026-09-03-b` (output contract, count units), a harness-enforced `PreToolUse` guard
 at `.claude/hooks/deny-destructive.py`, and reader output committed as soon as it lands.**
+
+---
+
+# 12. ⭐ REQUIREMENT 7, RUN TO FIXPOINT — closed out 2026-09-03. **M-136.**
+
+## 12a. `Specs/Shirayuki.md` — surgically resolved
+
+**L216 cites `Shirayuki_Full_Extrapolation.md`** (confirmed real; the cited file exists, is already correctly
+tiered `WITHHELD`, and is not a scope gap). **A Brief-C classifier (scoped to L200-225, forbidden from opening
+the cited file) returned `ambiguous`** — derivation-citation vs. supplementary-pointer could not be called
+cleanly. **Resolved per the standing asymmetry rule (ambiguous → conservative) — but SURGICALLY, using the
+existing §6b char-span map**, not by demoting the whole file:
+
+**DEMOTED:** admissible lines `215-216, 220-223, 225` — **7 lines**, the tail passage containing the citation.
+**STANDS:** the remaining ~114 of ~121 admissible lines in `Specs/Shirayuki.md`. **The ratified-root status
+(rule 6) is otherwise undisturbed.**
+
+## 12b. The §9 registry-file set (14 files) — corrected two-hop tally
+
+| Depth | Demoted | Clean |
+|---|--:|--:|
+| One-hop (§10, original) | 5 lines | 1,501 |
+| **Two-hop (fixpoint)** | **898 lines** | **608** |
+
+**59.3% of the previously-"clean" set moved to downstream when checked to the depth requirement 7 actually
+specifies.** Full detail: `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` M-136.
+
+## 12c. ⏸️ SIX FILES — DEFERRED TO STEP 7, PER DEVELOPER RULING 2026-09-03
+
+**Developer ruling, given directly on this question:** *"if it's kept coming up uncertain, just mark it for
+eventually becoming available in the last area of the ULM (at the time where all the previously-restricted
+content suddenly becomes available). Just add it there."*
+
+**`Developer_Ruling_Queue.md` · `Cross_City_Cultural_Patterns.md` ·
+`Robot_Physiology_and_Cultural_Practices.md` · `testing/QA_template.md` ·
+`Amundsen_Station_Archive_and_Trucking_Network.md` · `Falkland_Treaty/Scaffold.md`** — **893 admissible lines
+between them.**
+
+**Why these and not `Specs`:** each is a large MULTI-TOPIC reference file (a robot-physiology reference
+covering many cities, a cross-city pattern file, a developer ruling queue). **The citation found on each is
+real** *(content-blind grep confirmed a path token at the cited line, for every one — see M-136)*, **but in
+every case checked it points at a DIFFERENT city's material** (`Robot_Physiology` → Rothera;
+`Ruling_Queue` → a Cape Adare suggestions file). **Whole-file demotion is very likely over-conservative for
+this shape of file — the same error `Specs` just corrected, at larger scale — but resolving it per-file the
+way `Specs` was resolved would cost six more dispatches on a run that has already spent an unusual amount of
+budget on this one axis.**
+
+**Disposition: `DEMOTED-PENDING-STEP-7`.** ⛔ **Treated as demoted for grounding purposes in this run** — do
+not cite them as `PRODUCED` support. ✅ **Re-classify at Step 7**, when they open alongside every other
+withheld source for comparison — the same moment memory and `Disciplines/` originals reopen (`STEP −3`,
+`00_RUNBOOK.md` Step 7). **A Step 7 session should run the same Brief-C passage-classification technique used
+on `Specs` §12a, once per file, before accepting or discarding the 893 lines.**
+
+> ### Standing rule this establishes, general form of the `Specs` fix
+> ***A citation found during a fixpoint provenance walk demotes the FILE only when the citing passage is
+> actually ABOUT the walk's subject. For a multi-subject reference file, classify the passage, not the file —
+> the escalation ladder's 2–1-split treatment, applied to provenance instead of admissibility.*** **Where
+> classifying every passage is not worth the cost NOW, tag `DEMOTED-PENDING-STEP-7` and move on — per developer
+> ruling, this is a legitimate closing disposition, not an unresolved gap.**

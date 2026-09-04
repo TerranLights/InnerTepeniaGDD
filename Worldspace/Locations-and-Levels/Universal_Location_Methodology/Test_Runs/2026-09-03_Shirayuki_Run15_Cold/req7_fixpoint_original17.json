@@ -1,0 +1,196 @@
+{
+  "sources": [
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Shirayuki.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Shirayuki.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Vision_Notes/Shirayuki.md"
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": true,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/Mirny_Subnet/Shirayuki.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/Mirny_Subnet/Shirayuki.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Vision_Notes/Shirayuki.md"
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attributes.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attributes.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/Mirny_Subnet/Shirayuki.md"
+      ],
+      "ratification_status": "not-locked-canon",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Code-Architecture/README.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "draft",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Game-Mechanics/Universal_Rules.md",
+      "downstream": true,
+      "depth": 2,
+      "chain": [
+        "Game-Mechanics/Universal_Rules.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Shirayuki.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Vision_Notes/Shirayuki.md"
+      ],
+      "ratification_status": "locked-canon",
+      "in_ratified_root": false,
+      "changed_from_one_hop": true
+    },
+    {
+      "source": "Reference/Real-World/City_and_District_Research_Topics.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "opportunities",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Reference/Real-World/Climate Data/READER/Bharati_TBD.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "tracker",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Reference/Real-World/Stations/Antarctic_Stations_With_Airstrips.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "tentative",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Worldspace/Canon_Gap_Resolution_Method/Developer_Ruling_Queue.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Canon_Gap_Resolution_Method/Developer_Ruling_Queue.md",
+        "Background-Lore/Cities/Janbogo_Subnet/Cape_Adare/Cape_Adare_Course_of_Events_Suggestions.md"
+      ],
+      "ratification_status": "tracker",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Worldspace/Factions/City_Origin_Factions_Second_Interwar.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Factions/City_Origin_Factions_Second_Interwar.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/"
+      ],
+      "ratification_status": "candidate",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Worldspace/Factions/Cross_City_Cultural_Patterns.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Factions/Cross_City_Cultural_Patterns.md",
+        "Worldspace/Locations-and-Levels/Super_Ultra_Megasheet/"
+      ],
+      "ratification_status": "not-locked-canon",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Zhongshan_Research_Log.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Vision_Notes/Rothera.md"
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "testing/QA_template.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "testing/QA_template.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/"
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Reference/Amundsen_Station_Archive_and_Trucking_Network.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Reference/Amundsen_Station_Archive_and_Trucking_Network.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/Halley_Subnet/Halley/README.md"
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    },
+    {
+      "source": "Reference/Falkland_Treaty/Scaffold.md",
+      "downstream": true,
+      "depth": 2,
+      "chain": [
+        "Reference/Falkland_Treaty/Scaffold.md",
+        "Reference/World_History_Reference.md",
+        "Storyline/DLC_PSB_Framework.md"
+      ],
+      "ratification_status": "draft",
+      "in_ratified_root": false,
+      "changed_from_one_hop": true
+    },
+    {
+      "source": "Worldspace/Locations/README.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        "Worldspace/Locations/README.md",
+        "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/"
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "changed_from_one_hop": false
+    }
+  ],
+  "unavailable": []
+}

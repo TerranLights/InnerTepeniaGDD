@@ -1,0 +1,198 @@
+{
+  "sources": [
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Shirayuki.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Shirayuki.md", "cite": "L216"}
+      ],
+      "ratification_status": "locked-canon",
+      "in_ratified_root": true,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": true
+    },
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/Mirny_Subnet/Shirayuki.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/Mirny_Subnet/Shirayuki.md", "cite": "L229"}
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": true
+    },
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attributes.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attributes.md", "cite": "L4"}
+      ],
+      "ratification_status": "not-locked-canon",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Code-Architecture/README.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "draft",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Game-Mechanics/Universal_Rules.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "locked-canon",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": true
+    },
+    {
+      "source": "Reference/Real-World/City_and_District_Research_Topics.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Reference/Real-World/Climate Data/READER/Bharati_TBD.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Reference/Real-World/Stations/Antarctic_Stations_With_Airstrips.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Worldspace/Canon_Gap_Resolution_Method/Developer_Ruling_Queue.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Canon_Gap_Resolution_Method/Developer_Ruling_Queue.md", "cite": "L22"}
+      ],
+      "ratification_status": "tracker",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Worldspace/Factions/City_Origin_Factions_Second_Interwar.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Factions/City_Origin_Factions_Second_Interwar.md", "cite": "L5"}
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Worldspace/Factions/Cross_City_Cultural_Patterns.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Factions/Cross_City_Cultural_Patterns.md", "cite": "L99"}
+      ],
+      "ratification_status": "not-locked-canon",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Zhongshan_Research_Log.md",
+      "downstream": false,
+      "depth": null,
+      "chain": [],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md", "cite": "L82"}
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "testing/QA_template.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "testing/QA_template.md", "cite": "L247"}
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": true,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Reference/Amundsen_Station_Archive_and_Trucking_Network.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Reference/Amundsen_Station_Archive_and_Trucking_Network.md", "cite": "L17"}
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Reference/Falkland_Treaty/Scaffold.md",
+      "downstream": true,
+      "depth": 2,
+      "chain": [
+        {"file": "Reference/Falkland_Treaty/Scaffold.md", "cite": "L13"},
+        {"file": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md", "cite": "L82"}
+      ],
+      "ratification_status": "draft",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    },
+    {
+      "source": "Worldspace/Locations/README.md",
+      "downstream": true,
+      "depth": 1,
+      "chain": [
+        {"file": "Worldspace/Locations/README.md", "cite": "L9"}
+      ],
+      "ratification_status": "none-declared",
+      "in_ratified_root": false,
+      "terminated_at_ratified_root": false,
+      "changed_from_prior_pass": false
+    }
+  ],
+  "unavailable": []
+}
