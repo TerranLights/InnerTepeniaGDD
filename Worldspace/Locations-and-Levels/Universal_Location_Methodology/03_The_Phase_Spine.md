@@ -249,7 +249,7 @@ finding.**
 
 | Arrival mode | What it produces |
 |---|---|
-| **Chose it** | Self-selection. The place has a *type* and knows it. Ask what it **repels** — that answer is usually sharper than what it attracts. |
+| **Chose it** | Self-selection. The place has a *type* and knows it. **Ask both what it attracts and what it repels — neither is inherently the sharper half.** *(Corrected 2026-09-03, developer ruling: an earlier version of this row ranked repel over attract by default; that ranking is dropped. Run both, and let the evidence say which one actually lands harder on this location — do not presume it in advance.)* |
 | **Assigned / posted** | An institution sent them. Produces a population that did not choose each other and a **rotation clock** — everyone knows when they leave. |
 | **Fled to it** | Arrived because somewhere else failed. **Gratitude and resentment in the same population**, often in the same person. |
 | **Born here** | Never chose, and frequently cannot leave. **The most under-written mode** — a place written entirely from arrivals has no natives, and the natives' relationship to the arrivals' story is a whole finding. |

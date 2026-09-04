@@ -5477,3 +5477,33 @@ Fixed at the level that survives a fresh session instead:
 > regardless of recall.**
 
 **Killed finding, full detail:** `Cities/Research_Logs/Shirayuki_Research_Log.md`, Session 1, "KILLED FINDING."
+
+---
+
+# M-139
+
+## `03`'s "repel is usually sharper than attract" RULE DROPPED. **Developer ruling, 2026-09-03, Run 15 (Shirayuki), Phase 2.**
+
+**The claim, as it stood:** Phase 2's arrival-mode table, "Chose it" row, said *"ask what it repels — that
+answer is usually sharper than what it attracts."* **Run 15 leaned on this to justify addressing repel and
+skipping attract entirely on its first Phase 2 draft** — caught immediately by the developer: *"between 'who
+does it attract' and 'who does it repel,' those two are equally valid. Neither concept is 'stronger' than
+the other."*
+
+**Fixed at the source, `03` §Phase 2's arrival-mode table** — the ranking is dropped, both questions are now
+stated as always-required with no presumed hierarchy.
+
+**Why this is worth recording rather than treating as a one-line fix:** the original wording wasn't wrong on
+every location — repel genuinely IS the sharper answer sometimes. **The error was in the METHODOLOGY stating
+a general presumption at all**, which then licensed a deriving pass to skip half the question on the strength
+of a stated default rather than actually running both and checking. This is the same shape as `02` §4.0's own
+warning about shape-reading ("never report a shape without reporting the input set") — **a rule that
+pre-ranks two symmetric questions will get used to justify skipping one of them**, exactly as happened here.
+
+**What the Shirayuki pass actually found once both were run:** the attract question wasn't decorative — it
+surfaced a real, evidenced pull factor (G2's oasis rarity, G3's low mandate burden) AND, via `05` §2.4's
+pull/push-vulnerability technique, a genuine *candidate mechanism* for the still-unresolved retention deficit
+(a pull-assembled population is structurally more vulnerable to a better offer elsewhere — which is exactly
+what the orbital migration was). **That candidate didn't resolve the mystery** (the same pull factor is
+shared with higher-retaining neighbors), but it would never have surfaced at all if the attract question had
+stayed skipped.
