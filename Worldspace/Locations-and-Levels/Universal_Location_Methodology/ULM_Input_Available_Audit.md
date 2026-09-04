@@ -99,12 +99,33 @@ today, not carried forward.*
 | ⭐ **Precipitation regime** *(falls / lands / lost / WIND-vs-COLD)* | **37** | 0 | ✅ **new class, complete.** `Precipitation_Falls_vs_Lands.md` |
 | ⭐ **Per-column provenance** *(measured vs computed vs estimated)* | **37** | 0 | ✅ **new class, complete** — a reader can now tell which numbers are real |
 | ⭐ **Access type** `T1-G5` | **37** | 0 | ✅ **new field**, added to every spec |
-| **Prevailing winds** | 34 | **3** | ⚠ Abowasa · Davis · Sejong |
-| **Record extremes** *(header)* | 30 | **7** | ⚠ Abowasa · Cape_Adare · Denison · Juan_Carlos · Princess_Elisabeth · Sejong · Zukelli |
+| **Prevailing winds** | **37** | 0 | ✅ **CLOSED 2026-09-04** — all three remaining gaps filled with *measured, site-specific* data |
+| **Record extremes** *(header)* | **35** | **2** | ⚠ Abowasa · Princess_Elisabeth only. *Five were derived free from the cities' own monthly columns* |
 | **Monthly Rec High / Rec Low** *(all 12)* | **25** | **12** | ⚠ **9 partial** *(short station records)* + **3 none** |
+
+> ### ⭐ Winds closed with measurement, not proxy — 2026-09-04
+> | City | Source |
+> |---|---|
+> | **Abowasa** | ⭐ **Aboa Weather Station, on Basen nunatak itself.** **NE-dominant year-round**, summer mean **5.9 m/s** — the 135 km Vestfjella range steers the flow. *Measured on site, not proxied* |
+> | **Davis** | Polar easterlies, **~5.6 m/s** |
+> | **Sejong** | Sub-Antarctic maritime, directionally mixed *(NW/W/N/SE)*, **4.6–6.7 m/s**, gales past **22 m/s** |
+
+> ## ⚠⚠ A REGIME MISCLASSIFICATION, found by the same search — recorded, not quietly fixed
+> **`Davis` was classified KATABATIC MARGIN. The operating authority states plainly that Davis is *away
+> from the katabatic wind*** — far enough from the ice sheet, with Vestfold Hills rock moderating the local
+> climate. ***A katabatic label was simply wrong.***
+>
+> **Reclassified to `ICE-FREE OASIS`** *(retention 38% → 45%)*, and its WIND-vs-COLD statement rewritten:
+> **neither hazard dominates, and that is what distinguishes it** — *the problem at Davis is dryness and
+> isolation, not violence.*
+>
+> ⚠ **The other 36 regime assignments are the same kind of judgement call** — made from latitude,
+> elevation and the presence of a katabatic regime. **This is the first one an authoritative source has
+> contradicted.** *They stand, but they are inferences, not measurements.*
 
 > ### ⚠ The 3 with no monthly records have **no station within range**
 > **Abowasa** *(nearest 312 km)* · **Dome_Fuji** *(240 km)* · **Princess_Elisabeth** *(430 km)*.
+> **These same three are the only cities still missing a `Record extremes` header, for the same reason.**
 > **Plus `Cape_Adare`, which has no station and no assigned proxy at all.**
 > ***These are PROXY RULINGS, not research tasks.*** **Do not re-open them as searches** — the 2026-09-04
 > pass exhausted BAS READER, NOAA NCEI *(68 Antarctic stations)*, published climate boxes in five

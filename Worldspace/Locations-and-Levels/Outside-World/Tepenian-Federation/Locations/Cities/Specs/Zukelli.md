@@ -64,6 +64,7 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 
 **Climate type:** Katabatic coastal, Terra Nova Bay — a microclimate shared with Janbogo
 **Mean annual temperature:** -14.0°C  _(READER station: Mario_Zucchelli; 1991–2020 WMO standard normal)_
+**Record extremes:** record high **+11.4 °C** (Feb); record low **-32.4 °C** (Jul) _(derived from the monthly record columns below — NOAA NCEI GSOM station `AYM00089662` (Baia Terra Nova))_ *(added 2026-09-04)*
 **Temperature range:** coldest month (July) avg −21.8°C; warmest month (January) avg −1.2°C
 **Prevailing winds:** katabatic from the west off the Transantarctic Mountains; the Terra Nova Bay polynya is maintained by these winds; same pattern as Janbogo
 **Annual precipitation:** **144.7 mm** water equivalent _(Mario Zucchelli; measured monthly normals — see table)_ *(researched 2026-09-04)*

@@ -72,6 +72,7 @@ database *(seasonal station; no continuous 30-year normal)*. **Proxy station: `K
 
 **Climate type:** Maritime sub-Antarctic — South Shetland arc; mild, wet, changeable, heavily cloudy; among the mildest in Tepenia
 **Mean annual temperature:** -1.7°C  _(proxy: READER station `King_Sejong`, ~95 km; station's own reported annual mean −1.2 °C)_
+**Record extremes:** record high **+6.5 °C** (Jan); record low **-22.6 °C** (Aug) _(derived from the monthly record columns below — proxy: `AYM00089057` Base Arturo Prat, ~40 km)_ *(added 2026-09-04)*
 **Temperature range:** coldest month (July) avg −5.5°C; warmest month (January) avg +1.9°C; **Nov–Mar above or at freezing in the mean**
 **Prevailing winds:** westerly/northwesterly off the Drake Passage; frequent gales; no katabatic regime
 **Annual precipitation:** **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~95 km); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*

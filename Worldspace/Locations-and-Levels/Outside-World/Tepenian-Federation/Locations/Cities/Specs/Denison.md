@@ -154,6 +154,7 @@ section used to carry is now discharged.)*
 
 **Climate type:** Coastal East Antarctic, defined overwhelmingly by katabatic wind severity rather than temperature extremity
 **Mean annual temperature:** approximately -11.0°C  _(proxy: READER station `Dumont_Durville`, ~120 km)_
+**Record extremes:** record high **+11.0 °C** (Dec); record low **-37.4 °C** (Aug) _(derived from the monthly record columns below — proxy: `AYM00089642` Dumont d'Urville, ~120 km)_ *(added 2026-09-04)*
 **Temperature range:** coldest month (July) avg −16.9°C; warmest month (January) avg −1.0°C. ⚠ *Site observations at Cape Denison run colder than the proxy in winter — the continuous cold-air drainage is itself a cooling mechanism the offshore station does not experience. Treat the winter figures as an upper bound.*
 **Prevailing winds:** Katabatic, essentially constant, from the south/southeast off the ice slope. **Annual mean 19.3 m/s (~69 km/h)** — *the highest sea-level annual mean wind speed recorded anywhere on Earth.* Gusts well over 300 km/h in the worst events; a recorded instance of **143 km/h sustained for twelve unbroken hours.**
 **Annual precipitation:** approximately 650 mm water equivalent *(Adélie Land coastal figure: 655 mm reanalysis / 679 mm climatology)*. ⭐ **But see the note below — the figure that falls is not the figure that lands.**

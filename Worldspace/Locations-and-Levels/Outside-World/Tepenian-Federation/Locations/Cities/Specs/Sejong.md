@@ -62,6 +62,8 @@ The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both found
 
 **Climate type:** Maritime sub-Antarctic — the mildest Tepenian climate; strong maritime influence; above-freezing temperatures common in summer; significant cloud cover and precipitation
 **Mean annual temperature:** -1.7°C  _(READER station: King_Sejong; 1991–2020 WMO standard normal)_
+**Prevailing winds:** sub-Antarctic maritime — **strong, highly variable, and directionally mixed**; the four dominant directions over King George Island are **NW, W, N and SE**, varying by peninsula. **Mean monthly wind 4.6–6.7 m/s** *(Arctowski, same island)*, with **gale events exceeding 22 m/s 10-minute average** *(recorded at King Sejong, 7 January 2013)*. ⭐ *No katabatic regime — these are cyclonic winds off the Drake Passage, which is why they shift direction rather than always draining one way* *(researched 2026-09-04)*
+**Record extremes:** record high **+8.1 °C** (Jan); record low **-15.9 °C** (Jul) _(derived from the monthly record columns below — NOAA NCEI GSOM station `AYM00089251` (King Sejong))_ *(added 2026-09-04)*
 **Temperature range:** coldest months avg −8°C; warmest month avg +3°C; above-freezing temperatures frequent in summer
 **No polar night; no midnight sun** — at 62°13'S; winter minimum daylight ~6–7 hours; summer maximum ~18–19 hours
 **Winter solstice daylight minimum:** approximately 5.0 hours

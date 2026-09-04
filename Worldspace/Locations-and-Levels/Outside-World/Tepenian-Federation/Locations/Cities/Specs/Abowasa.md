@@ -76,6 +76,7 @@ The choice to name the city after Turku (Aboa is Latin for Turku) — Finland's 
 
 **Climate type:** Inland Queen Maud Land nunatak, western sector — more continental than coastal; colder than Troll and Sanay on average; Vestfjella/Kraul Mountains weather; katabatic influence
 **Mean annual temperature:** approximately −25°C
+**Prevailing winds:** ⭐ **north-easterly, and dominantly so year-round** — a product of local nunatak topography combined with the easterly flow of cyclones tracking eastward parallel to the coast. **Summer mean wind 5.9 m/s** *(Aboa Weather Station, on Basen nunatak itself)*; **summer mean air temperature −5.4 °C.** *Basen sits in the north-eastern part of Vestfjella, a 135 km range of nunataks — the range itself steers the flow.* *(researched 2026-09-04; measured on site, not proxied)*
 **Temperature range:** coldest months avg −36°C; warmest month avg −8°C
 **Polar night:** approximately May 12 → Aug 2 (~83 days)
 **Midnight sun:** approximately Nov 8 → Feb 5 (~90 days)

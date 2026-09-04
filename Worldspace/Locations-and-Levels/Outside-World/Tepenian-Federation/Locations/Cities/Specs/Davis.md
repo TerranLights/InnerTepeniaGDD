@@ -68,6 +68,7 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 
 **Climate type:** East Antarctic coastal oasis — Vestfold Hills terrain (ice-free, diverse); Prydz Bay maritime influence; oasis microclimate moderates summer temperatures; cold continental winters
 **Mean annual temperature:** -10.0°C  _(READER station: Davis; 1991–2020 WMO standard normal)_
+**Prevailing winds:** polar easterlies; **annual mean ~20 km/h (~5.6 m/s)** — ⭐ **moderate by Antarctic standards.** *Davis sits far enough from the continental ice sheet to be **out of the katabatic regime**, and the exposed rock of the Vestfold Hills moderates the local climate further* *(researched 2026-09-04)*
 **Record extremes:** record high **+13.0 °C** (January); record low **−41.8 °C** (April) *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −21°C; warmest month avg 0°C
 **Polar night:** approximately Jun 4 → Jul 10 (~37 days)
@@ -78,13 +79,13 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 
 #### ⭐ Precipitation regime — what falls vs what lands
 
-**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Regime:** **ICE-FREE OASIS** — *small precipitation budget, moderate transport* *(⚠ **reclassified 2026-09-04** from KATABATIC MARGIN. The operating authority states Davis is **away from the katabatic wind** — sheltered by distance from the ice sheet, with Vestfold Hills rock moderating the local climate. A katabatic label was wrong.)*
 **Falls (reaches the surface):** ~73 mm/yr
-**Lands (accumulates and stays):** **~28 mm/yr** *(~38% retention)*
+**Lands (accumulates and stays):** **~28 mm/yr** *(~45% retention)*
 **Lost to sublimation and wind transport:** ~45 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-10.0 °C** **24 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⚠ **NEITHER dominates — and that is what distinguishes Davis.** At **-10.0 °C** (24 of the 37 are colder) with **~5.6 m/s** mean wind, ⭐ **Davis is the mildest-conditions site on the East Antarctic coast**: an ice-free oasis out of the katabatic regime, very dry (**73 mm/yr**), and comparatively sheltered. *Neither the plateau's cold nor the margin's scouring. The hazard here is dryness and isolation rather than violence.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

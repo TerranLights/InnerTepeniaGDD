@@ -145,6 +145,7 @@ are internally consistent; they simply produce different cities.
 
 **Climate type:** Coastal Ross Sea, northern exposure — more maritime influence than Terra Nova Bay cities; open to Southern Ocean weather systems from the north
 **Mean annual temperature:** approximately −12°C
+**Record extremes:** record high **+16.0 °C** (Jan); record low **-31.5 °C** (Apr) _(derived from the monthly record columns below — NOAA NCEI GSOM station `AYM00089879` (Possession Is.))_ *(added 2026-09-04)*
 **Temperature range:** coldest months avg −24°C; warmest month avg −2°C
 **Prevailing winds:** variable; the northern exposure means Cape Adare receives weather systems from the open Southern Ocean as well as katabatics from Victoria Land; exposed and windswept
 **Annual precipitation:** approximately 200–350 mm water equivalent
