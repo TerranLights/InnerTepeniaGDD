@@ -50,6 +50,15 @@ address read as *in a neighbor's present* (Sinheung), per `02` §4.1.
 
 **Open thread, unchased:** the ASMA (Antarctic Specially Managed Area) designation itself — this is a real, present-day environmental-protection status on the actual site. Not yet evaluated for whether/how it fuses into Shirayuki's own material.
 
+**Open thread, deliberately deferred (developer instruction, 2026-09-03):** Step 3.1's "research the deficit"
+technique, aimed at the spine's central finding (retention deficit against physically-identical neighbors,
+address read as *in a neighbor's present* — see the Phase 1 spine). Two attempts failed for different
+reasons — a generic historical analogy (Jamestown/Plymouth) that didn't fit the shape (their terrain actually
+differed; Shirayuki's doesn't), then a real-world-basis attempt that violated `No_National_Stereotypes.md` and
+was retracted (see KILLED FINDING, below). **Not abandoned — parked.** Re-attempt with the corrected
+discipline now in force (place-name + physical-property search terms only, hook-enforced): search for a real
+structural/logistical comparable using station names, never national terms.
+
 ### ⛔⛔ KILLED FINDING — Search 1's "built to disappear, made permanent instead"
 
 **Retracted 2026-09-03, same session, on developer correction.** Search 1's fusion — the station's specific
