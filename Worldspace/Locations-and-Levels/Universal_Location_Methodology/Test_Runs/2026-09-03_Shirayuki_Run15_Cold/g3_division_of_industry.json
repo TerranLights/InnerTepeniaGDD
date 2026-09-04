@@ -1,0 +1,1 @@
+{"rows":[],"excluded_export":[],"could_not_locate":true,"problem":"HALF B is one city-level aggregate row per city (City/Subnet/D/Workforce/base%/MAND%/FREE%/src) with no sector column, no per-sector headcount, and no burden field, so it does not match the required per-sector schema."}
