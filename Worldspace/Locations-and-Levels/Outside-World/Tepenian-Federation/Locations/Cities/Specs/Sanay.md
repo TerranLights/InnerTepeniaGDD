@@ -22,7 +22,7 @@
 | Significant | UK, Brazil |
 | Notable | Poland, Argentina, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Chile, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -68,27 +68,51 @@ The position is inland from the coast — the Weddell Sea is accessible but not 
 
 **Climate type:** Queen Maud Land nunatak — elevated position above the surrounding ice sheet; continental influence stronger than coastal cities; katabatic winds channeled by the nunatak terrain; cold, dry winters
 **Mean annual temperature:** approximately −20°C
+**Prevailing winds:** **dominant easterly**; annual mean **~11 m/s**, with recorded gusts to **61.9 m/s (223 km/h)** *(researched 2026-09-04)*
+**Record extremes:** mean summer air temperature **−8.3 °C**; mean winter **−21.8 °C** *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −30°C; warmest month avg −5°C
-**Polar night:** approximately May 8 → August 4 (~88 days)
-**Midnight sun:** approximately November 7 → February 4 (~89 days)
-**Annual precipitation:** approximately 150–250mm; predominantly snow; drier than the coastal cities
+**Polar night:** approximately May 18 → Jul 28 (~72 days)
+**Midnight sun:** approximately Nov 12 → Jan 31 (~81 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+**Annual precipitation:** **under 200 mm** water equivalent annually — polar desert; falls mainly as snow in the November–February window *(researched 2026-09-04; monthly distribution below remains derived)*
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | −5 | −13 to +3 | 22 | ~36% | ~24* |
-| Feb | −11 | −19 to −3 | 19 | ~34% | 16 |
-| Mar | −18 | −27 to −9 | 16 | ~32% | 11 |
-| Apr | −25 | −34 to −16 | 14 | ~30% | 5 |
-| May | −29 | −38 to −20 | 12 | ~28% | ~0* |
-| Jun | −30 | −39 to −21 | 11 | ~27% | ~0* |
-| Jul | −30 | −39 to −21 | 11 | ~27% | ~0* |
-| Aug | −28 | −37 to −19 | 12 | ~28% | ~0* |
-| Sep | −22 | −31 to −13 | 15 | ~31% | 11 |
-| Oct | −14 | −23 to −5 | 18 | ~34% | 17 |
-| Nov | −7 | −16 to +1 | 21 | ~35% | ~24* |
-| Dec | −5 | −13 to +3 | 22 | ~36% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 8–Aug 4 (~88 days); midnight sun ~Nov 7–Feb 4 (~89 days)*
+**Regime:** **ICE SHELF** — *flat, exposed, heavily redistributed*
+**Falls (reaches the surface):** ~200 mm/yr
+**Lands (accumulates and stays):** **~130 mm/yr** *(~65% retention)*
+**Lost to sublimation and wind transport:** ~70 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **BOTH — and wind is the sharper of the two.** At **-20.0 °C** (8 cities are colder), the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**mean wind 11.0 m/s**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous, and the surface itself moves with the shelf.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +3.9 | −4 | −5 | −10 | −19.8 | 22 | ~36% | 24* |  |
+| Feb | +1.5 | −8 | −11 | −14 | −23 | 19 | ~34% | 18.4 |  |
+| Mar | −2.2 | −12 | −18 | −18 | −27.7 | 16 | ~0% | 13.3 |  |
+| Apr | −3.3 | −15 | −25 | −22 | −40.4 | 14 | ~0% | 8.4 |  |
+| May | 0 | −17 | −29 | −23 | −35.3 | 12 | ~0% | 1.8 |  |
+| Jun | −7 | −18 | −30 | −25 | −40.7 | 11 | ~27% | 0* |  |
+| Jul | 0 | −20 | −30 | −27 | −46.2 | 11 | ~27% | 0* |  |
+| Aug | −3.9 | −21 | −28 | −28 | −43.8 | 12 | ~28% | 5.8 |  |
+| Sep | −6.5 | −19 | −22 | −26 | −39.2 | 15 | ~31% | 11.0 |  |
+| Oct | −4.5 | −15 | −14 | −22 | −34.2 | 18 | ~34% | 15.8 |  |
+| Nov | +4.6 | −9 | −7 | −16 | −26.1 | 21 | ~35% | 24* |  |
+| Dec | +5.4 | −5 | −5 | −10 | −18.8 | 22 | ~36% | 24* |  |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089004** (S.A.N.A.E. AWS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (SANAE IV, Vesleskarvet (850 m), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals published. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089004. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
+
+*Polar night ~May 18–Jul 28 (~72 days); midnight sun ~Nov 12–Jan 31 (~81 days)*
 
 #### Gameplay Notes
 - **The resilient city:** in a DLC landscape where nearly every community carries real damage, Sanay's bedrock foundation meant it took the war's toll without being erased — functioning, but visibly scarred, distinct from Belgrano's or Zukelli's total loss without being a pristine exception either

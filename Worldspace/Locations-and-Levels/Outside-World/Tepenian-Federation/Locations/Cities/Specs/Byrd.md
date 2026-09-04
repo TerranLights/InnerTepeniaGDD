@@ -67,7 +67,7 @@
 | Significant | Australia, Japan, South Korea, China |
 | Notable | Lithuania, Philippines, Thailand, Indonesia, Malaysia, Brazil, Croatia, Latvia, Netherlands, Slovakia, South Africa, Czech Republic, Uruguay, Vietnam, UK, Finland, New Zealand, Romania, Norway, Hungary, Ukraine, Russia, Germany, Belarus, Poland, France, Bulgaria, Chile, Argentina, Mexico, Italy, Slovenia, Spain, Belgium, Sweden, Serbia |
 
-*Source: `Official_Population_Census.md` Sections I-III. Re-tiered 2026-07-06 — see Founding Population Adjustment, below.*
+*Source: `Official_Population_Census.md` Sections A–C. Re-tiered 2026-07-06 — see Founding Population Adjustment, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -145,30 +145,50 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 **Climate type:** Continental polar — West Antarctic interior; lower altitude than East Antarctic plateau but deep inland; more precipitation than Concordia due to West Antarctic moisture patterns
 **Mean annual temperature:** approximately −28°C  _(historical; Byrd Station operational period 1957–1969; no 1991–2020 data — station not active in that period)_
 **Temperature range:** coldest months (July/August) avg −40°C; warmest month (January) avg −12°C
-**Record extremes:** record low approximately −62°C; record high approximately −5°C (rare summer peak)
+**Record extremes:** record high **+5.0 °C** (January); record low **−62.2 °C** (August/September) *(researched 2026-09-04)*
 **Prevailing winds:** variable; West Antarctic interior wind patterns less uniform than the strong katabatic systems of the coast; moderate average wind speeds with significant storm events possible
-**Annual precipitation:** approximately 200–300 mm water equivalent — higher than Concordia due to West Antarctic moisture influence; predominantly snow
-**Polar night:** approximately April 28 → August 14 (~108 days)
-**Midnight sun:** approximately October 18 → February 23 (~128 days — one of the longer midnight sun periods in Tepenia due to high latitude)
+**Annual precipitation:** **30 mm** water equivalent _(Byrd Station (1961-1990); measured monthly normals — see table)_ *(researched 2026-09-04)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **INTERIOR** — *low fall, moderate redistribution*
+**Falls (reaches the surface):** ~30 mm/yr
+**Lands (accumulates and stays):** **~21 mm/yr** *(~70% retention)*
+**Lost to sublimation and wind transport:** ~9 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **MIXED.** At **-28.0 °C** (5 cities are colder), this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~30 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately Apr 19 → Aug 25 (~129 days)
+**Midnight sun:** approximately Oct 18 → Feb 25 (~131 days — one of the longer midnight sun periods in Tepenia due to high latitude)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | −12 | −19 to −5 | 22 | ~25% | 24 | Midnight sun; warmest period |
-| Feb | −20 | −28 to −12 | 22 | ~25% | 19 | Days shortening; temperature dropping |
-| Mar | −29 | −37 to −21 | 20 | ~25% | 12 | Autumn transition |
-| Apr | −35 | −44 to −26 | 18 | ~20% | 4 | Polar night begins ~Apr 28 |
-| May | −38 | −47 to −29 | 16 | ~20% | 0 | Full polar night |
-| Jun | −39 | −49 to −29 | 16 | ~20% | 0 | Full polar night; coldest period |
-| Jul | −40 | −51 to −29 | 16 | ~20% | 0 | Full polar night; coldest month |
-| Aug | −39 | −49 to −29 | 18 | ~20% | 0–3 | Polar night ends ~Aug 14 |
-| Sep | −34 | −43 to −25 | 20 | ~20% | 9 | Sun returns; still very cold |
-| Oct | −25 | −33 to −17 | 20 | ~25% | 17 | Warming; midnight sun approaching |
-| Nov | −16 | −23 to −9 | 22 | ~25% | 23 | Midnight sun approaching |
-| Dec | −12 | −19 to −5 | 22 | ~25% | 24 | Midnight sun; warmest period |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +5 | −5 | −12 | −19 | −28.9 | 6 | ~8% | 24 | Midnight sun; warmest period |
+| Feb | −3.3 | −12 | −20 | −28 | −40 | 4 | ~5% | 24 | Days shortening; temperature dropping |
+| Mar | −8.9 | −21 | −29 | −37 | −51.1 | 2 | ~2% | 14.5 | Autumn transition |
+| Apr | −8.3 | −26 | −35 | −44 | −56.7 | 1 | ~1% | 4.0 | Polar night begins ~Apr 19 |
+| May | −8.3 | −29 | −38 | −47 | −61.7 | 5 | ~4% | 0 | Full polar night |
+| Jun | −10.6 | −29 | −39 | −49 | −61.1 | 3 | ~4% | 0 | Full polar night; coldest period |
+| Jul | −12.2 | −29 | −40 | −51 | −60.6 | 2 | ~2% | 0 | Full polar night; coldest month |
+| Aug | −13.9 | −29 | −39 | −49 | −62.2 | 1 | ~1% | 0 | Polar night ends ~Aug 25 |
+| Sep | −10 | −25 | −34 | −43 | −62.2 | 0 | ~0% | 10.1 | Sun returns; still very cold |
+| Oct | −12.8 | −17 | −25 | −33 | −58.3 | 1 | ~0% | 20.6 | Warming; midnight sun approaching |
+| Nov | −6.1 | −9 | −16 | −23 | −43.3 | 2 | ~2% | 24 | Midnight sun approaching |
+| Dec | +1.1 | −5 | −12 | −19 | −34.4 | 3 | ~4% | 24 | Midnight sun; warmest period |
+
+***Monthly record extremes (Byrd Station, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Byrd Station (1961-1990), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⚠ derived — station publishes daily means and record extremes but no mean daily max/min. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
 
 #### Notable Weather Phenomena
 

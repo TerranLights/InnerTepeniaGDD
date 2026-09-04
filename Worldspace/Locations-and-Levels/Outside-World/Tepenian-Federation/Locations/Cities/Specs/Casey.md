@@ -20,7 +20,7 @@
 | Significant | Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — shortest Australia-to-Antarctica route of any Tepenian city)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -67,28 +67,57 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 **Temperature range:** coldest months (July/August) avg −16°C; warmest month (January) avg +1°C
 **Record extremes:** record low approximately −37°C; record high approximately +9°C (rare summer peak)
 **Prevailing winds:** katabatic from the SE (off the interior ice sheet) combined with coastal westerly storm systems; average 7–10 m/s; strong gust events common; moderate storm frequency
-**Annual precipitation:** approximately 300–500 mm water equivalent; predominantly snow; brief rain possible in warmest summer days
-**Polar night:** None — Casey (66°16'S) is just north of the Antarctic Circle (66°33'S); the sun rises every day of the year
-**Midnight sun:** None at this latitude; just barely north of the circle
+**Annual precipitation:** **225.1 mm** water equivalent _(Casey; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~225 mm/yr
+**Lands (accumulates and stays):** **~86 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~139 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-9.3 °C** **28 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** ⛔ **None** — Casey (66°16'S) is just north of the Antarctic Circle (66°33'S); the sun rises every day of the year
+**Midnight sun:** ⭐ **approximately December 11 → January 2 (~23 days)** *(corrected 2026-09-04 — previously "None at this latitude")*
+
+> ### ⚠ Corrected 2026-09-04 — **Casey has a midnight sun despite being north of the Circle.**
+> The old pairing assumed the two phenomena are symmetric: north of the Circle, neither happens. **They are
+> not symmetric.** **Atmospheric refraction plus the sun's own semidiameter lift the apparent sun by about
+> **0.833°** — which *shortens* polar night and *lengthens* midnight sun. **The midnight-sun boundary
+> therefore sits about 0.8° north of the polar-night boundary**, and Casey falls between them.
+>
+> ⭐ **Casey is in the asymmetric band: it gets ~23 days when the sun never sets, and never a single day
+> when the sun fails to rise.** *A city of bright midsummer nights and dim-but-real midwinter days.* **The
+> "no polar night" half of the old entry was right; the "no midnight sun" half was wrong.**
+> *(Mirny, Dumont d'Urville and Denison are the other three cities in this band.)*
 **Winter solstice daylight minimum:** approximately 5–6 hours (June 21)
 **Summer solstice daylight maximum:** approximately 18–19 hours (December 21)
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | -0.3  | −4 to +7 | 35 | ~35% | 19 | Warmest period; brief rain possible; sea navigable |
-| Feb | -2.7  | −7 to +3 | 35 | ~35% | 16 | Still mild; days shortening |
-| Mar | -7.2  | −13 to −1 | 35 | ~40% | 12 | Autumn; katabatic winds increasing |
-| Apr | -11.1  | −18 to −6 | 30 | ~40% | 8 | Rapid darkening; sea ice forming |
-| May | -14.7  | −21 to −9 | 25 | ~35% | 5.5 | Winter; very short days |
-| Jun | -14.4  | −23 to −9 | 25 | ~35% | 5 | Darkest period; ~5 hours daylight |
-| Jul | -14.7  | −24 to −10 | 25 | ~35% | 5.5 | Coldest month; katabatic season peak |
-| Aug | -14.9  | −23 to −9 | 25 | ~35% | 7.5 | Still cold; days beginning to lengthen |
-| Sep | -13.8  | −19 to −7 | 30 | ~40% | 11 | Spring; katabatics moderating |
-| Oct | -11.6  | −14 to −2 | 35 | ~40% | 15 | Warming; sea ice breaking up |
-| Nov | -5.3  | −8 to +3 | 35 | ~35% | 18 | Long days; conditions improving |
-| Dec | -1.2  | −5 to +6 | 35 | ~35% | 19 | Summer; sea fully navigable season |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +9.2 | +2.2 | -0.3 | −2.6 | −10.3 | 9.3 | ~21% | 21.0 | Warmest period; brief rain possible; sea navigable |
+| Feb | +6.6 | −0.1 | -2.7 | −5 | −18 | 15.2 | ~27% | 16.5 | Still mild; days shortening |
+| Mar | +5.6 | −4.1 | -7.2 | −9.8 | −25.1 | 18 | ~29% | 13.0 | Autumn; katabatic winds increasing |
+| Apr | +3 | −7.5 | -11.1 | −14.6 | −31.3 | 20.6 | ~31% | 9.3 | Rapid darkening; sea ice forming |
+| May | +4.5 | −11.1 | -14.7 | −18.5 | −34.4 | 25.6 | ~31% | 5.7 | Winter; very short days |
+| Jun | +4.2 | −10.4 | -14.4 | −18.3 | −34.1 | 27.5 | ~37% | 2.7 | Darkest period; ~5 hours daylight |
+| Jul | +3 | −10.2 | -14.7 | −18.4 | −36.4 | 28.5 | ~33% | 4.0 | Coldest month; katabatic season peak |
+| Aug | +5.8 | −10.2 | -14.9 | −18 | −37.5 | 21 | ~27% | 7.6 | Still cold; days beginning to lengthen |
+| Sep | +3.9 | −9.7 | -13.8 | −17.1 | −33.8 | 17.3 | ~29% | 11.3 | Spring; katabatics moderating |
+| Oct | +3.2 | −8 | -11.6 | −15.1 | −31.2 | 16.5 | ~26% | 14.9 | Warming; sea ice breaking up |
+| Nov | +4.9 | −2.5 | -5.3 | −9 | −23.4 | 12.7 | ~20% | 19.0 | Long days; conditions improving |
+| Dec | +8 | +1.4 | -1.2 | −3.7 | −13 | 12.9 | ~19% | 24 | Summer; sea fully navigable season |
+
+***Monthly record extremes (Casey, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Casey, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

@@ -8,10 +8,25 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
-# 🔺 ULM — next actions
+# 🔺🔺🔺 TOP PRIORITY — **BUILD ALL 37 LOCATIONS AND THEIR CULTURES. NOTHING ELSE PROCEEDS.**
 
-0. **▶ RUN SHIRAYUKI, COLD — a fresh session.** Open
-   `Test_Runs/COLD_RUN_CHECKLIST.md` and do it before reading anything else. Review is `CONFIRMED` + pinned.
+**Developer ruling, 2026-09-04:** ***"Absolutely nothing else can happen until we've completed the Locations
+and per-city Cultures, and I need to make sure to do this right."***
+
+**▶ TRACKER — status, per city, by subnet:** **`Dev-Road-Map/Location_and_Culture_Build_Tracker.md`**
+
+- **Mode: WARM** → `Universal_Location_Methodology/Run_Modes_Warm_and_Cold.md`
+- **One step at a time** → `Universal_Location_Methodology/Stepwise_Execution/` *(29 units)*
+- **Now:** Mawson, first pass, Phase 4 next. **0 of 36 complete.** ⏳ **~1–1.5 months.**
+- ⛔ **LAW 0 governs the pace. Half a day to a full day per city is the expected cost, not a problem.**
+
+---
+
+# ⚠ ULM — next actions *(items 0, 2 and 3 SUPERSEDED by the warm-mode ruling above)*
+
+0. ~~**▶ RUN SHIRAYUKI, COLD — a fresh session.**~~ ⛔ **SUPERSEDED 2026-09-04.** Cold runs are now the
+   periodic *validation* instrument, not the production path — and **Shirayuki's review demoted to `DRAFT`**
+   *(scope pin fails; 23 joined sources)*. → `Run_Modes_Warm_and_Cold.md`
 1. **Finish the `§C.1` split extracts.** Halley + Janbogo built. **Mawson/Byrd/Amundsen + Mirny need one more
    reader each; Palmer needs re-mapping.** → `00_RUNBOOK.md` §C.1
 2. **Run 14 — Casey, cold.** Prep + review ready; **a fresh session must run it.**

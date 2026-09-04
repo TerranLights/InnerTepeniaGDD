@@ -21,7 +21,7 @@
 | Significant | Japan, Germany, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -68,27 +68,48 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 
 **Climate type:** East Antarctic coastal oasis — Vestfold Hills terrain (ice-free, diverse); Prydz Bay maritime influence; oasis microclimate moderates summer temperatures; cold continental winters
 **Mean annual temperature:** -10.0°C  _(READER station: Davis; 1991–2020 WMO standard normal)_
+**Record extremes:** record high **+13.0 °C** (January); record low **−41.8 °C** (April) *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −21°C; warmest month avg 0°C
-**Polar night:** approximately May 19 → July 24 (~66 days)
-**Midnight sun:** approximately November 18 → January 24 (~67 days)
-**Annual precipitation:** approximately 200–300mm
+**Polar night:** approximately Jun 4 → Jul 10 (~37 days)
+**Midnight sun:** approximately Nov 25 → Jan 18 (~55 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+**Annual precipitation:** **72.8 mm** water equivalent _(Davis; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | +0.9  | −8 to +8 | 26 | ~38% | ~24* |
-| Feb | -2.2  | −13 to +3 | 23 | ~36% | 17 |
-| Mar | -8.0  | −20 to −4 | 20 | ~34% | 11 |
-| Apr | -13.5  | −24 to −8 | 17 | ~32% | 5 |
-| May | -16.0  | −28 to −12 | 14 | ~30% | ~0* |
-| Jun | -15.7  | −29 to −13 | 12 | ~28% | ~0* |
-| Jul | -17.1  | −29 to −13 | 12 | ~28% | ~0* |
-| Aug | -17.1  | −27 to −11 | 14 | ~30% | 5 |
-| Sep | -15.7  | −22 to −6 | 17 | ~32% | 11 |
-| Oct | -11.8  | −16 to 0 | 21 | ~35% | 17 |
-| Nov | -4.2  | −11 to +5 | 24 | ~37% | ~24* |
-| Dec | +0.0  | −8 to +7 | 26 | ~38% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 19–Jul 24 (~66 days); midnight sun ~Nov 18–Jan 24 (~67 days)*
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~73 mm/yr
+**Lands (accumulates and stays):** **~28 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~45 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-10.0 °C** **24 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +13 | +3.2 | +0.9 | −1.2 | −8.3 | 1.8 | ~7% | 24* |  |
+| Feb | +10 | −0.2 | -2.2 | −4.6 | −15 | 3.8 | ~11% | 17.2 |  |
+| Mar | +4.3 | −5.6 | -8.0 | −10.9 | −27.6 | 9.1 | ~21% | 13.1 |  |
+| Apr | +4.2 | −10.3 | -13.5 | −16.1 | −41.8 | 10.1 | ~22% | 9.0 |  |
+| May | +2 | −12.5 | -16.0 | −18.8 | −39 | 9.9 | ~20% | 4.7 |  |
+| Jun | +2 | −12.5 | -15.7 | −18.7 | −40.1 | 9.1 | ~18% | 0* |  |
+| Jul | +0.8 | −14.3 | -17.1 | −20.6 | −39 | 8.2 | ~16% | 1.9 |  |
+| Aug | +1 | −14.2 | -17.1 | −20.8 | −41.3 | 6.8 | ~16% | 7.0 |  |
+| Sep | +0.4 | −12.8 | -15.7 | −19.7 | −39.7 | 5.4 | ~15% | 11.2 |  |
+| Oct | +1.9 | −9 | -11.8 | −15.3 | −31 | 4.5 | ~14% | 15.2 |  |
+| Nov | +8 | −2.2 | -4.2 | −7.5 | −22.4 | 2.2 | ~8% | 20.3 |  |
+| Dec | +11 | +2.4 | +0.0 | −2.2 | −10.7 | 1.9 | ~6% | 24* |  |
+
+***Monthly record extremes (Davis, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Davis, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
+
+*Polar night ~Jun 4–Jul 10 (~37 days); midnight sun ~Nov 25–Jan 18 (~55 days)*
 
 #### Notable Weather Phenomena
 - **Vestfold Hills terrain variety:** fjord-like inlets, freshwater lakes, saltwater lakes — a terrain diversity within the city's geography unusual in Tepenia; different bodies of water with different ice characteristics

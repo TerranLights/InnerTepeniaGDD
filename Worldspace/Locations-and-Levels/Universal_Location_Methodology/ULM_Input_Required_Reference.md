@@ -113,10 +113,10 @@ Tier 0 block.
 
 | ID | Requirement | ULM cite | Address (this project) | Presence test |
 |---|---|---|---|---|
-| **T0-1** | **Existence & designation** — that it exists, and something to call it, even provisionally | `05` §2.1 | `Cities/Specs/<City>.md` | spec file exists; `# <Name>` header present |
-| **T0-2** | **Position in the world** — where it physically is. **All of G2 and G5 descend from this** | `05` §2.1 | `Specs/<City>.md` → `## Geographic Basis`; `**Based on:**` coordinates | section present and non-placeholder |
-| **T0-3** | **Population magnitude** → sets the **scale band**, which changes what every later phase asks | `05` §2.1; `01` §2 | `Cities/Official_Population_Census.md` | city has a census row with a figure |
-| **T0-4** | **Parent** — what contains it, or an explicit statement that nothing does | `05` §2.1 | `Specs/<City>.md` → `**Arcanet Subnet:**` | field present and names a subnet, or explicit none |
+| **T0-1** | **Existence & designation** — that it exists, and something to call it, even provisionally | `05` §2.1 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/<City>.md` | spec file exists; `# <Name>` header present |
+| **T0-2** | **Position in the world** — where it physically is. **All of G2 and G5 descend from this** | `05` §2.1 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/<City>.md` → `## Geographic Basis`; `**Based on:**` coordinates | section present and non-placeholder |
+| **T0-3** | **Population magnitude** → sets the **scale band**, which changes what every later phase asks | `05` §2.1; `01` §2 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` | city has a census row with a figure |
+| **T0-4** | **Parent** — what contains it, or an explicit statement that nothing does | `05` §2.1 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/<City>.md` → `**Arcanet Subnet:**` | field present and names a subnet, or explicit none |
 
 # B. TIER 0b — Temporal frame. Strongly recommended, **not** blocking. *(`05` §2.1b, `01` §4.1)*
 
@@ -139,11 +139,11 @@ three **may proceed but must say so and must expect a measurably thinner result.
 
 | ID | Gen | Requirement — what specifically is needed | Address (this project) | Presence test |
 |---|---|---|---|---|
-| **T1-G1** | **G1** | **Symbol assignment** — if the location's class participates in a symbol system | `Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` *(Planet + Element pair)*; member terms in `Planetary_Symbols.md` · `Robot_Elementals.md` | city has an assigned pair |
-| **T1-G2** | **G2** | **Physical & environmental facts** — terrain, climate, altitude, exposure, hazards, **what the site provides and what it withholds** | `Specs/<City>.md` → `## Geographic Basis` + `### Annual Climate` *(incl. the monthly table)* | climate block populated, not template placeholders |
-| **T1-G3** | **G3** | **Function / purpose** — *and separately* **what its parent needs from it**, because the two disagreeing is itself the generator | `Specs/` → `**Significance:**` + `## Economy & Industry`; ⭐ **figures: `Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` HALF B** | city appears in `16` Half B **and** has a non-stub Economy section |
-| **T1-G4** | **G4** | **Founding condition** — who, when, why, under what constraint, **with what, and WITHOUT what.** *The absences are the yield* | `Specs/` → `## Founding` (`**Settled:**`, `**Founding population:**`) | both fields present and non-placeholder |
-| **T1-G5** | **G5** | **Network position** — what connects, **in which direction, carrying what volume** | ⭐ `Specs/` → `**Access type:**` *(closed set)* + `**Highway access:**` *(prose detail)*; ⚠ **`Locations/Infrastructure/Highways.md` · `Airports.md`** *(NOT the §C path)* | **read the `Access type:` token** — every spec carries one |
+| **T1-G1** | **G1** | **Symbol assignment** — if the location's class participates in a symbol system | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` *(Planet + Element pair)*; member terms in `Planetary_Symbols.md` · `Robot_Elementals.md` | city has an assigned pair |
+| **T1-G2** | **G2** | **Physical & environmental facts** — terrain, climate, altitude, exposure, hazards, **what the site provides and what it withholds** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/<City>.md` → `## Geographic Basis` + `### Annual Climate` *(incl. the monthly table)* | climate block populated, not template placeholders |
+| **T1-G3** | **G3** | **Function / purpose** — *and separately* **what its parent needs from it**, because the two disagreeing is itself the generator | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Significance:**` + `## Economy & Industry`; ⭐ **figures: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` HALF B** | city appears in `16` Half B **and** has a non-stub Economy section |
+| **T1-G4** | **G4** | **Founding condition** — who, when, why, under what constraint, **with what, and WITHOUT what.** *The absences are the yield* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Founding` (`**Settled:**`, `**Founding population:**`) | both fields present and non-placeholder |
+| **T1-G5** | **G5** | **Network position** — what connects, **in which direction, carrying what volume** | ⭐ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Access type:**` *(closed set)* + `**Highway access:**` *(prose detail)*; ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md` · `Airports.md`** *(NOT the §C path)* | **read the `Access type:` token** — every spec carries one |
 
 > ### ⭐ `**Access type:**` — a CLOSED-SET field, added to all 37 specs + the template 2026-09-03
 > **Developer-confirmed taxonomy.** ***Added because the distinction previously existed only inside dense
@@ -170,9 +170,9 @@ three **may proceed but must say so and must expect a measurably thinner result.
 >   Junction is *near* the city, linked by the dedicated **Sayowa Spur**, explicitly because Sayowa is *"a
 >   genuinely developed industrial/residential city rather than a place built directly around the highway
 >   crossing itself."*
-| **T1-G6** | **G6** | **Defining event** — what has happened *to* this place | `Specs/` → `## Current Status / Destruction`, `## Legacy`; `Worldspace/World_History_Reference.md`; **U** `Timeline Eras/` | ⚠ **a war-destruction event is POST-WAR and is NOT a Second Interwar `G6`** — see the trap above |
-| **T1-G7** | **G7** | **Real-world inspiration DESIGNATION** — which real case anchors it. *(The research is the method's own work)* | `Specs/` → `**Based on:**`; **tiered picks: `Cities/Inspirational-Influences.md`** | both present; picks carry Primary/Secondary/Supporting tiers |
-| **T1-G8** | **G8** | **Population composition** — who is here, in what proportion, from where | `Cities/Official_Population_Census.md` §I *(national origin by tier)*; `Cities/Upper_Earth_Immigration_Composition.md` | city has a §I tier table |
+| **T1-G6** | **G6** | **Defining event** — what has happened *to* this place | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Current Status / Destruction`, `## Legacy`; `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/World_History_Reference.md`; **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/` | ⚠ **a war-destruction event is POST-WAR and is NOT a Second Interwar `G6`** — see the trap above |
+| **T1-G7** | **G7** | **Real-world inspiration DESIGNATION** — which real case anchors it. *(The research is the method's own work)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Based on:**`; **tiered picks: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md`** | both present; picks carry Primary/Secondary/Supporting tiers |
+| **T1-G8** | **G8** | **Population composition** — who is here, in what proportion, from where | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` §I *(national origin by tier)*; `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Upper_Earth_Immigration_Composition.md` | city has a §I tier table |
 
 > ### ⚠ Two standing qualifications on Tier 1, both from the ULM itself
 > 1. **`G1` is PROVENANCE-DOWNSTREAM of a personality read** *(`05` §6.1c)*. `City_Symbol_Assignments.md`
@@ -188,13 +188,13 @@ three **may proceed but must say so and must expect a measurably thinner result.
 
 | ID | Requirement | Address | Presence test |
 |---|---|---|---|
-| **T2-1** | **Existing scattered canon** — "formalize before inventing" has nothing to formalize without it | `Local_Cultures/<Subnet>/`, `City_Megasheets/`, `Background-Lore/Cities/` | per-city file exists |
-| **T2-2** | **Parent's determined properties** — climate, currency, law, calendar, language family *(`01` §5.1)* | `Worldspace/National_Economy_and_Currency.md`, `National_Holidays.md` | ⭐ **global — same for all cities; not a per-city gap** |
+| **T2-1** | **Existing scattered canon** — "formalize before inventing" has nothing to formalize without it | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/<Subnet>/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Background-Lore/Cities/` | per-city file exists |
+| **T2-2** | **Parent's determined properties** — climate, currency, law, calendar, language family *(`01` §5.1)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`, `National_Holidays.md` | ⭐ **global — same for all cities; not a per-city gap** |
 | **T2-3** | **Sibling set membership** | subnet, per T0-4 | subnet named |
-| **T2-4** | **Inspirational-influence picks** — the tiered research list | `Cities/Inspirational-Influences.md` | city entry exists with ≥1 pick |
-| **T2-5** | **Prior passes on this location, and their epistemic status** | `Local_Cultures/`, `Local_Robot_Culture/`, `City_Enneagram_Personalities/`, `City_Vision_Notes/` | per-city file exists |
+| **T2-4** | **Inspirational-influence picks** — the tiered research list | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` | city entry exists with ≥1 pick |
+| **T2-5** | **Prior passes on this location, and their epistemic status** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Robot_Culture/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Enneagram_Personalities/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Vision_Notes/` | per-city file exists |
 | **T2-6** | **Adjacent locations' completed passes** — needed for Phase 5 and Gate 6 | `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md`, `City_National_Connections.md` | city named in the relationship files |
-| **T2-7** | **Physical / spatial layout** — a map, or an adjacency list | `City_Concept-Art/<Subnet>/`; `Station_to_City_Map.md` | concept art or map entry exists |
+| **T2-7** | **Physical / spatial layout** — a map, or an adjacency list | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/`; `Station_to_City_Map.md` | concept art or map entry exists |
 | **⭐T2-8** | **EXTENT / AREA** — **`01` §2 requires TWO bands declared, population *and* extent** | ⛔ **NO REGISTERED ADDRESS** | **see the box below** |
 
 > ### ⛔⛔ T2-8 — THE EXTENT BAND HAS NO SOURCE, AND IT BREAKS THE ONE GATE THAT HAS EVER FIRED ON ARITHMETIC
@@ -217,27 +217,27 @@ of this place for X to have become who X is?"*
 
 | ID | Particular | Address | Feeds phases |
 |---|---|---|---|
-| **T3-01** | A resident, past or present | `Specs/` → `## Notable Figures`; `Worldspace/Characters/` | 2, 4, 7, 9 |
+| **T3-01** | A resident, past or present | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Notable Figures`; `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Characters/` | 2, 4, 7, 9 |
 | **T3-02** | Someone who **came** — ⭐ *pull or push?* | census; `Upper_Earth_Immigration_Composition.md` | 2, 4, 5, 7 |
-| **T3-03** | Someone who **left** | `Specs/` → `## Connection to Concordia`; `City_Refugee_District_Affinities.md` | 2, 5, 7 |
+| **T3-03** | Someone who **left** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Connection to Concordia`; `City_Refugee_District_Affinities.md` | 2, 5, 7 |
 | **T3-04** | Someone who **stayed** when others left | — | 2, 4, 6 |
 | **T3-05** | Someone who **refuses to go** there | `City_Relationship_Database.md` | 5 |
-| **T3-06** | An object made or carried there | `Specs/` → `## Legacy` | 1, 3, 8, 10 |
-| **T3-07** | A vehicle or conveyance | `Infrastructure/Highways.md` | 1, 3, 5, 7 |
-| **T3-08** | A food or drink | `Worldspace/Robot_Biology_and_Culture/`; `City_Logistics.md` | 8 |
-| **T3-09** | A song, artwork, or story | `Local_Cultures/` | 6, 8 |
-| **T3-10** | A building or landmark | `Specs/` → `## Notable Locations` | 3, 10 |
-| **T3-11** | A route, road, or connection | `Infrastructure/Highways.md` · `Airports.md` | 5 |
-| **T3-12** | A custom, law, or prohibition — **a rule is a fossil of a problem** | `Local_Cultures/`; criminal-justice canon | 7 |
+| **T3-06** | An object made or carried there | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Legacy` | 1, 3, 8, 10 |
+| **T3-07** | A vehicle or conveyance | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md` | 1, 3, 5, 7 |
+| **T3-08** | A food or drink | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/`; `City_Logistics.md` | 8 |
+| **T3-09** | A song, artwork, or story | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/` | 6, 8 |
+| **T3-10** | A building or landmark | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Notable Locations` | 3, 10 |
+| **T3-11** | A route, road, or connection | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md` · `Airports.md` | 5 |
+| **T3-12** | A custom, law, or prohibition — **a rule is a fossil of a problem** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/`; criminal-justice canon | 7 |
 | **T3-13** | A job or trade practiced there | `Division_of_Industry/16` Half B | 1, 7 |
-| **T3-14** | A slang term or speech marker | `Local_Cultures/` | 8 |
-| **T3-15** | A minor incident *(not a defining event)* | `Background-Lore/Cities/` | 4, 7 |
+| **T3-14** | A slang term or speech marker | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/` | 8 |
+| **T3-15** | A minor incident *(not a defining event)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Background-Lore/Cities/` | 4, 7 |
 | **T3-16** | A death, grave, or memorial — **hardest category to source; this is the best handle** | ⛔ **deferred mortuary question — `05` §3, do not answer** | 6 |
 | **T3-17** | A grievance or alliance | `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md` | 5 |
-| **T3-18** | Concept art, a photograph, a map | `City_Concept-Art/<Subnet>/` | 3, 10 |
-| **T3-19** | A faction with a presence there — **why HERE?** | `Worldspace/Factions/` | 5, 7 |
-| **T3-20** | ⭐ **A known ABSENCE** — *"often the sharpest single input available"* | `Specs/` → `## Open Questions` | any |
-| **T3-21** | ⭐ **A known "first," "only," or "last"** — **differentiation handed over free; satisfies Gate 6 before the pass begins.** `05` says ask explicitly **even when nothing else is known** | `Specs/` → `**Significance:**` | any |
+| **T3-18** | Concept art, a photograph, a map | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/` | 3, 10 |
+| **T3-19** | A faction with a presence there — **why HERE?** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/` | 5, 7 |
+| **T3-20** | ⭐ **A known ABSENCE** — *"often the sharpest single input available"* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Open Questions` | any |
+| **T3-21** | ⭐ **A known "first," "only," or "last"** — **differentiation handed over free; satisfies Gate 6 before the pass begins.** `05` says ask explicitly **even when nothing else is known** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Significance:**` | any |
 
 # F. TYPE-SPECIFIC INPUTS *(`05` §2.5)*
 
@@ -254,23 +254,31 @@ itself a finding**)*. **Settlement adds no inputs beyond the above.** Modifiers 
 
 # G. PER-PHASE CANON TARGETS — the classes each phase MUST open *(`03` §0.3; addresses `00` §C.8c)*
 
+> ### ⚠ THIS TABLE IS SHORT-FORM BY DESIGN — its addresses are NOT absolute, and that is deliberate
+> **Every other table in this file carries a full absolute address, per the standing rule** *(`00_RUNBOOK.md`
+> §B: registry addresses are absolute, never `../`, never `…/`)*. ***This one carries short cites, because it
+> names a CLASS of canon per phase rather than a single file, and several rows list six or seven sources.***
+> **The absolute addresses for every entry below live in `00_RUNBOOK.md` §C.8c and §C.9, both of which were
+> converted to absolute 2026-09-03 and verified to resolve.** ⛔ **If you are following this table to open a
+> file, go to §C.8c for the path. Do not reconstruct it.**
+
 **These are not per-city inputs — they are canon a pass is obliged to open while writing.** Listed because
 `00_RUNBOOK.md` §C.8c records that omitting a source from this table is how the strongest `G3` supply in the
 project went unreached *(M-121: "registered globally is not registered at the point of use")*.
 
 | Phase | Must open |
 |---|---|
-| **0** Frame | **U** `Repo_Scope.md` *(once)* · `Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
-| **1** Constraint & Capability | **U** `Worldspace/Locations/` · **P** `Specs/`, climate, `Energy_Grid_Failure_Rationale.md`, infrastructure · ⭐ `Division_of_Industry/16` Half B |
-| **2** Composition & Arrival | **U** ⚠ **`No_National_Stereotypes.md` — binding, GPS facts only** · `Falkland_Treaty/` · **P** census, diaspora/affinity files |
-| **3** Surface & Texture | **P** climate, `Specs/`, physical infrastructure attributes, concept art |
-| **4** Ordinary Life | **P** `City_Logistics.md`, `Robot_Biology_and_Culture/`, `National_Economy_and_Currency.md` |
-| **5** Relation & Geometry | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, the three relationship files |
-| **6** Meaning | **P** ⚠ `Factions/Robot_Religions/` **before inventing a belief** · `National_Holidays.md` · ⛔ **the deferred mortuary question — do not answer it** |
-| **7** Order | ⭐⭐ **`Division_of_Industry/` — PRIMARY for 7a; read its README for carve-outs FIRST** · `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
-| **8** Making | **P** ⚠ **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
-| **9** Populations | **U** ⚠ `Laws_of_Robotics.md` · `Robot_Universals/` · `Doll_Representation_Categories.md` · **P** human-robot baseline |
-| **10** Catalog | **U** `Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **the no-invented-person-names rule** |
+| **0** Frame | **U** `Repo_Scope.md` *(once)* · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
+| **1** Constraint & Capability | **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/` · **P** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`, climate, `Energy_Grid_Failure_Rationale.md`, infrastructure · ⭐ `Division_of_Industry/16` Half B |
+| **2** Composition & Arrival | **U** ⚠ **`No_National_Stereotypes.md` — binding, GPS facts only** · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Falkland_Treaty/` · **P** census, diaspora/affinity files |
+| **3** Surface & Texture | **P** climate, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`, physical infrastructure attributes, concept art |
+| **4** Ordinary Life | **P** `City_Logistics.md`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/`, `National_Economy_and_Currency.md` |
+| **5** Relation & Geometry | **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, the three relationship files |
+| **6** Meaning | **P** ⚠ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/Robot_Religions/` **before inventing a belief** · `National_Holidays.md` · ⛔ **the deferred mortuary question — do not answer it** |
+| **7** Order | ⭐⭐ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` — PRIMARY for 7a; read its README for carve-outs FIRST** · `National_Economy_and_Currency.md`, `City_Logistics.md`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/`, criminal-justice canon · **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Megacorps/` |
+| **8** Making | **P** ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
+| **9** Populations | **U** ⚠ `Laws_of_Robotics.md` · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/` · `Doll_Representation_Categories.md` · **P** human-robot baseline |
+| **10** Catalog | **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **the no-invented-person-names rule** |
 
 # H. RESERVED — the methodology must NOT decide these *(`05` §3)*
 
@@ -293,8 +301,8 @@ sub-locations.**
 | Axis | Question | Instrument |
 |---|---|---|
 | **Admissibility** | attribute or conclusion? | `05` §6.1, `00` §C.1, §C.2 |
-| **Ratification** | is it canon at all? | `05` §6.3 — ⭐ **ratified BY ROOT: `Cities/Specs/` and `Official_Population_Census.md` only. Silence anywhere else = UNRATIFIED** |
-| **Reliability** | is it canon that was VALIDATED — any layer carved out? | `00` §C.6 — ⛔ **`Division_of_Industry/` B1 food layer NOT RELIABLE; `DRQ-09` blocks every export figure** |
+| **Ratification** | is it canon at all? | `05` §6.3 — ⭐ **ratified BY ROOT: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` and `Official_Population_Census.md` only. Silence anywhere else = UNRATIFIED** |
+| **Reliability** | is it canon that was VALIDATED — any layer carved out? | `00` §C.6 — ⛔ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` B1 food layer NOT RELIABLE; `DRQ-09` blocks every export figure** |
 
 ---
 

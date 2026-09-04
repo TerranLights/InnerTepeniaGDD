@@ -21,7 +21,7 @@
 | Significant | Germany, UK, Spain, Canada, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -56,24 +56,46 @@ The Argentine Air Force chose Seymour Island for the runway — flat terrain, re
 
 **Climate type:** Eastern Peninsula continental — Weddell Sea influence; colder and drier than the western coast; similar to Esperanza but slightly further south and more exposed
 **Mean annual temperature:** -8.0°C  _(READER station: Marambio; 1991–2020 WMO standard normal)_
+**Prevailing winds:** **gusts to 220 km/h** during the winter months *(researched 2026-09-04)*
+**Record extremes:** record high **+17.4 °C** (23 March 2015); record low **−38.3 °C**. ⚠ *A reading of +20.75 °C was reported here on 9 February 2020 and widely circulated, but **WMO rejected it** — the sensor was a permafrost monitoring unit under an improvised radiation shield. The mainland record belongs to Esperanza's 18.3 °C.* *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −17°C; warmest month avg 0°C
 **No polar night; no midnight sun** — at 64°14'S; winter minimum daylight ~4–5 hours; summer maximum ~19–20 hours
-**Annual precipitation:** approximately 350–500mm; predominantly snow; drier than the western coast
+**Winter solstice daylight minimum:** approximately 4.1 hours
+**Summer solstice daylight maximum:** approximately 21.2 hours
+**Annual precipitation:** **362.8 mm** water equivalent _(Marambio (1991-2020); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | -0.8  | −6 to +6 | 45 | ~45% | 20 |
-| Feb | -1.7  | −10 to +2 | 42 | ~44% | 15 |
-| Mar | -5.5  | −15 to −2 | 38 | ~42% | 11 |
-| Apr | -9.9  | −19 to −7 | 33 | ~40% | 6 |
-| May | -12.0  | −22 to −10 | 30 | ~38% | 4 |
-| Jun | -14.8  | −23 to −11 | 28 | ~37% | 4 |
-| Jul | -14.9  | −23 to −11 | 28 | ~37% | 5 |
-| Aug | -13.8  | −22 to −10 | 30 | ~38% | 7 |
-| Sep | -10.6  | −18 to −6 | 33 | ~40% | 11 |
-| Oct | -7.4  | −13 to −1 | 37 | ~42% | 16 |
-| Nov | -3.4  | −9 to +3 | 42 | ~44% | 19 |
-| Dec | -1.3  | −6 to +5 | 45 | ~45% | 20 |
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **MARITIME** — *genuinely wet; precipitation behaves temperately*
+**Falls (reaches the surface):** ~363 mm/yr
+**Lands (accumulates and stays):** **~290 mm/yr** *(~80% retention)*
+**Lost to sublimation and wind transport:** ~73 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-8.0 °C** this is among the mildest cities in the Federation (**29 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +15.2 | +1.7 | -0.8 | −3 | −9.5 | 44.4 | ~52% | 19.7 |  |
+| Feb | +15.8 | +1 | -1.7 | −4.2 | −15.6 | 55.1 | ~46% | 16.1 |  |
+| Mar | +17.4 | −2.1 | -5.5 | −8.6 | −24.6 | 51.5 | ~45% | 12.9 |  |
+| Apr | +12.3 | −6.1 | -9.9 | −13.7 | −31.5 | 26.1 | ~41% | 9.6 |  |
+| May | +15.4 | −7.4 | -12.0 | −16.1 | −34.5 | 24.6 | ~31% | 6.4 |  |
+| Jun | +11.8 | −10.7 | -14.8 | −18.7 | −37.6 | 13.9 | ~32% | 4.2 |  |
+| Jul | +10.8 | −10.3 | -14.9 | −19.3 | −36.8 | 17.8 | ~27% | 5.1 |  |
+| Aug | +8.5 | −9.3 | -13.8 | −18.1 | −38.3 | 17.6 | ~31% | 8.1 |  |
+| Sep | +9.8 | −6.1 | -10.6 | −14.8 | −34 | 30.7 | ~30% | 11.3 |  |
+| Oct | +11.7 | −3.6 | -7.4 | −11 | −26.8 | 18.1 | ~38% | 14.6 |  |
+| Nov | +13.8 | −0.4 | -3.4 | −6.2 | −21.3 | 28 | ~43% | 18.1 |  |
+| Dec | +16.5 | +1.3 | -1.3 | −3.7 | −11.2 | 35 | ~49% | 21.0 |  |
+
+***Monthly record extremes (Marambio, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Marambio (1991-2020), added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — measured monthly snowy-day counts. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Gameplay Notes
 - **The airfield in ruins:** Marambio's primary aviation infrastructure, more developed than Rothera's, makes its ruined airfield a significant landscape feature for DLC 3

@@ -6,6 +6,24 @@
 
 # ⚠ Status: **DRAFT** — vectors closed, map built, **escalation ladder not yet worked**
 
+> ## ⭐ BEFORE BUILDING THIS REVIEW'S REGISTRY SCOPE — read this. **Added 2026-09-03.**
+> **This review has not yet had its registry enumerated or its scope pin taken.** ***That is fortunate: the
+> enumeration everyone used before today was INCOMPLETE, and building it now means building it right.***
+>
+> ### The corrected root list is **`§B · §C · §C.1 · §C.6 · §C.7 · §C.9 · §D`**
+> **`§C.7` (symbol systems) and `§C.9` (the real-world research register — ~90 files across nine subfolders)
+> were added 2026-09-03.** ***Both existed; neither was named in `Step −2`, `§C.4` requirement 6, or Brief B's
+> `STEP 1`, so no scout before today swept them.*** **Shirayuki's review recorded "34 of 34 roots, no
+> omissions" and was demoted the same day for exactly this.**
+>
+> ⚠ **`§C.9` is ALIAS-KEYED.** `Climate Data/READER/` names its 37 files for the **real-world station**, never
+> the Tepenian city. ***A sweep on the city name alone returns a confident false negative.***
+>
+> 📁 **And three reference files now exist beside the runbook**, registered in its "Where everything lives"
+> table: **`ULM_Input_Required_Reference.md`** · **`ULM_Input_Available_Audit.md`** ·
+> **`Location_Data-Input_To-Do.md`**. **Intended `ADMISSIBLE`, but map them first — `05` §6.1d: no file is
+> safe by category.**
+
 > ### ⛔ AND A SECOND, INDEPENDENT GAP — added 2026-09-03 from Run 14 *(M-112)*
 >
 > **This review is scoped to a FILE LIST, like every review in this folder.** ***A `CONFIRMED`, pinned,

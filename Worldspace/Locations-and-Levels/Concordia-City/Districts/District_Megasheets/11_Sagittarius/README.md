@@ -1,3 +1,16 @@
+> ## ⭐ CLIMATE AND SURVIVAL REFERENCES — added 2026-09-04
+> **The Frostlands is the #4 coldest city site in Tepenia AND the calmest (2.8 m/s).**
+> **Cold and wind are near-orthogonal in this setting — this district is the pure-cold case.**
+>
+> - **What cold costs a robot** *(recharge, capacity, embrittlement; and why a robot is safer
+>   moving than resting)* — `Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md`
+> - **What altitude costs a human** *(no acclimatization; heated but unpressurized)* —
+>   `…/Concordia-City/Concordia_Altitude_and_Atmosphere.md`
+> - **Precipitation regime** *(plateau: ~90% retention, snow is a deposit not weather)* —
+>   `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`
+
+---
+
 # Sagittarius — District Megasheet
 
 The complete Megasheet for Sagittarius (The Frostlands, Exploration/Frontier/Expansion district), compiled from `Sagittarius_Mega_Init.md`, `Sagittarius_Full_Extrapolation.md`, and `Sagittarius_Cross_Reference_Synthesis.md` in this same folder. Compiled 2026-07-09.

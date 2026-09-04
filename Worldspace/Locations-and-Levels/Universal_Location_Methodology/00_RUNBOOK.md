@@ -71,13 +71,37 @@
 >      > **⚠ It closes PULL only. Memory is PUSH** — the index auto-loads and entries arrive in reminders.
 >      > **Banding survives as the only control on that channel, and is now MAINTENANCE work for a non-cold
 >      > session** *(M-21, M-63, M-87)*.
+>    - ### ⭐⭐ **1b. THE SHAPE SWEEP — a SECOND pass over the same files, and the alias sweep cannot replace it.**
+>      **Added 2026-09-03, after a live instance was found in `05` that the alias sweep provably could not see.**
+>      > ## **AN ALIAS SWEEP PROVES A FILE DOES NOT *NAME* YOUR SUBJECT. IT CANNOT PROVE THE FILE DOES NOT *DESCRIBE* YOUR SUBJECT.**
+>      **The measured instance:** *`05` §2.4 carried a verbatim phrase from the subject's own symbol-assignment
+>      rationale, its `G1` symbolic read, its `G8` retention figure, that figure's RANK across the full
+>      33-city set, and a closing capability verdict — **all anonymized**. A checker swept 13 files × 8 alias
+>      patterns, two methods, positive control: **`alias_hit_total = 0`, and the result was CORRECT.***
+>      **⚠ `00_RUNBOOK.md` already quoted this very case as its illustration of M-4. The rule was written and
+>      the instance was left in the file the rule governs.**
+>
+>      **So a reader runs a SECOND pass looking for SHAPE, not name. Return line numbers only:**
+>      | Look for | Because |
+>      |---|---|
+>      | **any bare statistic** — a percentage, a rank, a count, an "nth of N" | ***a figure is an identifier.*** A retention rate with a rank is a fingerprint |
+>      | **the construction *"a city famous for…"*, *"a location whose…"*, *"one district…"*** | the standard grammar of an anonymized instance |
+>      | **a quoted phrase in italics or quote marks that reads like it came from somewhere else** | it usually did — from a symbol rationale, a spec, or a culture file |
+>      | **any sentence naming a CAPABILITY, TEMPERAMENT or VERDICT without a subject** | *"its greatest strength and its largest vulnerability are the same property"* is spine-tier with or without a name |
+>      **⛔ Every hit is treated as a SKIP RANGE, exactly as a named example would be** *(M-103 — the range,
+>      never the line)*. **A hit that turns out to concern a different location costs one skipped paragraph.**
 >    - **Return the file tree as SANITIZED paths** — *"`…/Course_of_Events/` — 11 files, 91–143 lines each"* —
 >      **never the filenames.** **This closes vector 3.**
 >    - **Build the admissible/withheld coordinate map** — the ordinary `§C.2` job, which is all anyone was
 >      doing before.
 >    - ### ⭐ **ENUMERATE THE CANON REGISTRY AND TAKE THE SCOPE PIN.** *(Added 2026-09-03, M-112. **Dispatch
 >      this FIRST** — it decides which files the bullets above even apply to.)*
->      **`grep -ril "<subject>"` across every root in `§B`, `§C`, `§C.1`, `§C.6` and `§D` — FILENAMES ONLY.**
+>      **`grep -ril "<subject>"` across every root in `§B`, `§C`, `§C.1`, `§C.6`, ⭐`§C.7`, ⭐`§C.9` and `§D` — FILENAMES ONLY.**
+>      > ⚠ **`§C.7` and `§C.9` ADDED TO THIS LIST 2026-09-03.** ***They existed and were not enumerated —
+>      > `§C.9` alone holds ~90 files.*** **A scout following the old list swept neither.**
+>      > ## ⛔ STANDING OBLIGATION: **ADDING A `§C.n` SECTION MEANS ADDING IT TO THIS LIST, THE ONE AT
+>      > `§C.4` REQUIREMENT 6, AND BRIEF B'S `STEP 1` — IN THE SAME COMMIT. THREE PLACES.**
+>      > ***A registered root that no enumeration names is invisible to the only instrument that looks.***
 >      Return **per-root file counts**, the **inventory pin** *(dir · file count · min/max lines)*, and a
 >      **TIER for every source**: `MAPPED-NEEDED` · `WITHHELD` · **`QUERYABLE-BY-SCHEMA`**.
 >      **Full contract: `Test_Runs/COLD_RUN_CHECKLIST.md`, Brief B.**
@@ -1211,7 +1235,7 @@ defect)*.
    > derived from that subject's withheld culture sheet, in its own header** *(M-127)*. **Seconds per file.**
 
 6. ### ⭐⭐ **THE REGISTRY IS ENUMERATED, THE SCOPE PIN IS TAKEN, AND EVERY SOURCE CARRIES A TIER.**
-   **A Brief-B registry scout has walked every root in `§B`, `§C`, `§C.1`, `§C.6`, `§D`; the per-root
+   **A Brief-B registry scout has walked every root in `§B`, `§C`, `§C.1`, `§C.6`, ⭐`§C.7`, ⭐`§C.9`, `§D` — *the last two added 2026-09-03; a review confirmed before that date did NOT cover them* — the per-root
    `grep -ril` file counts are recorded as the scope pin; the inventory pin *(dir · files · min/max lines)* is
    recorded; and every source holding subject material is tiered `MAPPED` · `WITHHELD` ·
    `QUERYABLE-BY-SCHEMA`.**
@@ -1594,6 +1618,77 @@ open. Both are universal. The actual eras, dates and addresses are project data 
 >
 > **⚠ And `Specs/` "Status:" fields are POST-WAR.** *("Damaged; partially operational," etc.)* ***They are
 > never an input to a Second Interwar pass.***
+>
+> # ⛔⛔ THE EXCLUSION LIST — **spec sections that are NOT INPUTS. Their absence is CORRECT, never a gap.**
+> **Added 2026-09-03 at the developer's direction, after a dry-run trace reported three of them as missing
+> data.** ***The trace was wrong, and it was wrong while holding this very section in context*** — **because
+> `§C.8a` governed the `**Status:**` FIELD and said nothing about the SECTIONS.**
+>
+> | `Specs/` section | Why it is NOT an input | Developer, verbatim |
+> |---|---|---|
+> | **`## Current Status / Destruction`** | **POST-WAR.** War damage, ruins, present occupancy | ***"For the purposes of deriving a location, 'Current Status / Destruction' is IRRELEVANT. SECOND INTERWAR PERIOD."*** |
+> | **`## Connection to Concordia`** | **Frames the city through the capital.** ***A location is synthesized on its own terms, on its own merit*** | ***"For the purposes of deriving a location, 'Connection to Concordia' is IRRELEVANT. A location gets synthesized on its own terms, on its own merit."*** |
+> | **`## Legacy`** | **Retrospective AND Concordia-framed** — the template defines it as *"what did this city leave behind… what do Concordia's residents know or believe about this place?"* **Both halves are outside the frame** | *(follows from both rulings above)* |
+>
+> ### ⛔ THEREFORE, AND THIS BINDS EVERY PASS AND EVERY AUDIT
+> **A `Specs/` file that lacks these sections is COMPLETE for ULM purposes.** ***Never record their absence
+> as a missing input, a `REQUESTED` item, or a template deviation.*** **Never write them, never fill them,
+> never ask for them.**
+>
+> **⚠ And do not treat their PRESENCE as permission either.** **Most specs do carry them** — *they are
+> legitimate content for post-war work, DLC scoping and the ruins layer.* ***They are simply not this
+> methodology's business.*** **`05` §6.1a rule 1 applies: you cannot un-see the second half — so do not open
+> the section at all.**
+>
+> ### ⚠ WHAT `G6` ACTUALLY DRAWS ON, since it is NOT these
+> **`02` G6 wants *"what has happened TO this place"* — WITHIN the declared frame.** **For a Second Interwar
+> pass that means: the founding and its circumstances, allocation or charter decisions, migrations, a
+> discovery, a disaster, a founding crime — anything inside `2564–2812`.** ***The Long Night War is the frame's
+> terminus, not an event inside it.*** **Addresses: `Worldspace/World_History_Reference.md` · **U**
+> `Timeline Eras/` · `Background-Lore/Cities/<Subnet>/<City>/` · the spec's own `## Founding`.**
+>
+> > **⭐ The generalizable rule, for any setting using this methodology:**
+> > ***A frame declaration does not merely date a pass — it makes some EXISTING, CANON, well-written material
+> > INADMISSIBLE.*** **State which sections those are, by name, or a pass will read them as supply and an
+> > audit will read their absence as a gap.** *(Both errors have now occurred.)*
+
+### ⛔⛔ C.8d — **CONCORDIA IS NOT A YARDSTICK. Added 2026-09-03, developer ruling.**
+
+***"'Concordia alone is decomposed' is not even relevant."*** ***"A location gets synthesized on its own
+terms, on its own merit."***
+
+> # **NEVER MEASURE ANOTHER LOCATION AGAINST CONCORDIA.**
+> **Not for scale. Not for structure. Not for how decomposed it is. Not for how much material it has. Not for
+> completeness. Not as a control, a baseline, a comparison class, or an implicit "normal."**
+
+| ⛔ Do not write | ✅ Write instead |
+|---|---|
+| *"unlike Concordia, this city has no districts"* | *"this city is organized as …"* — **on its own terms** |
+| *"Concordia has 301 files; this city has 9"* | **nothing.** Volume of prior material is not a property of a place |
+| *"the capital does X, so this city's not-X is a gap"* | **check whether X is required OF THIS LOCATION.** If nothing requires it, there is no gap |
+
+### Why this needs a rule rather than good judgement
+***Concordia is the most-documented location in the project*** — 301 district files, the only rich symbolic
+substrate, an Ultra Megasheet, thirteen completed sub-locations. **It is therefore the most AVAILABLE
+comparison in the corpus and the most MISLEADING one: anything measured against it reads as deficient.**
+**A dry-run audit did exactly this on 2026-09-03 and produced a false corpus-wide "structural failure"
+finding** *(retracted: `Test_Runs/ULM_Dry_Run_Findability_Trace_2026-09-03.md` §Finding −1)*.
+
+> ### ⚠ AND THIS IS THE SAME RULING IN A THIRD COSTUME — recognize the pattern, not just the instance
+> | Ruled irrelevant | The form it took |
+> |---|---|
+> | `## Connection to Concordia` | **a spec SECTION** — `§C.8a`'s exclusion list |
+> | *"on its own terms, on its own merit"* | **the governing PRINCIPLE** — `01` §4.1 |
+> | *"Concordia alone is decomposed"* | ⭐ **an ANALYTICAL COMPARISON — this section** |
+>
+> ***The section was already excluded. The comparison had to be excluded separately, because removing a
+> HEADING does not remove the HABIT of reading every location against the capital.***
+
+### ⚠ The one legitimate use, so this is not over-read
+**Concordia may be named where it is a plain FACT about the other location** — a highway that terminates
+there, a shipping route, a diaspora destination recorded in canon, a subnet relationship. ***That is `G5`
+network position, and it is admissible.*** **What is forbidden is EVALUATIVE comparison** — using the
+capital as the measure of what a location should have, be, or contain.
 
 ### C.8b — Worked type assignments *(the taxonomy in `01` §1.1, made concrete)*
 
@@ -1658,7 +1753,8 @@ information, so if it can't find it, it's worthless."***
 
 | Address | Supplies | Phase | Notes |
 |---|---|:--:|---|
-| ⭐⭐ **`Climate Data/READER/`** *(37 files)* | **`G2` — authoritative monthly mean temperatures**, BAS READER, **WMO 1991–2020 normals**, with citation | **1**, **3** | ⛔⛔ **KEYED BY REAL-WORLD STATION NAME, NOT CITY NAME** — `Aboa.md` · `Bharati_TBD.md` · `Princess_Elizabeth.md` *(note the `z`)*. ***A pass searching by its subject's Tepenian name finds NOTHING and concludes the climate data is absent.*** **Reachable only via the ALIAS SET** *(`Step −2` item 1a, M-118)*. ⚠ Also holds `Little_America.md`, a historical station that is not a Tepenian city |
+| ⭐⭐ **`Climate Data/Precipitation_Falls_vs_Lands.md`** | **The precipitation reference — four quantities, not one.** *Falls aloft · reaches the surface · accumulates · gauge-caught*, with published coefficients and a per-city figure for all 37 | **1**, **3** | ⛔⛔ **A PRECIPITATION NUMBER IS MEANINGLESS WITHOUT KNOWING WHICH QUANTITY IT IS** — they differ by over an order of magnitude *(Amundsen Station: gauge 2.1 mm vs ~70–80 mm actual)*. ⭐ **Splits the 37 into six regimes on WIND, not temperature.** *"At coastal sites cumulative snow transport is ~4 orders of magnitude higher than snowfall"* — **weather there is not something that comes down, it is something that goes past** |
+| ⭐⭐ **`Climate Data/READER/`** *(38 files)* | **`G2` — authoritative monthly mean temperatures**, BAS READER, **WMO 1991–2020 normals**, with citation | **1**, **3** | ⛔⛔ **MOSTLY KEYED BY REAL-WORLD STATION NAME, NOT CITY NAME** — `Aboa.md` · `Princess_Elizabeth.md` *(note the `z`)* · `Sejong.md`. ***A pass searching by its subject's Tepenian name can find NOTHING and conclude the climate data is absent.*** **Reachable via the ALIAS SET** *(`Step −2` item 1a, M-118)*. ⚠ Also holds `Little_America.md`, a historical station that is not a Tepenian city, plus `Davis.md` and `Dumont_dUrville.md`, which are **proxy sources, not cities**. *(`Bharati_TBD.md` → `Shirayuki.md` and `Denison.md` created, both 2026-09-04.)* |
 | **`Stations/`** | `G2`/`G7` physical station facts — COMNAP catalogue | **1**, **5** | ⚠ **`Antarctic_Stations_With_Airstrips.md` is BACKGROUND ONLY** — `Airports.md` states outright it *"does not track 1:1"* and is **not a predictor of Tepenia's own network** |
 | **`Industry_Staffing_and_Productivity/`** | staffing ratios, labour-productivity factors | **7a** | A declared input to `Division_of_Industry/` |
 | **`jobs_professions_and_fields/`** | the **SOC** occupational taxonomy + summaries | **7**, **9** | ⚠ `SOC_Cross_Category_District_Matching.md` is **district-derived**, not raw research. **SOC tier-marking is ADDITIVE — it feeds existing methods, never replaces them** |
@@ -1937,6 +2033,18 @@ citations only. **Sweep with word boundaries on every alternative and inspect ev
 itself, not in a footnote; **check the most recently written sibling first.** If there is no sibling set, run
 the substitutes and **say in the pass that you did.**
 
+> ### ⭐ THE ADDRESSES — added 2026-09-04, because this instrument had none for cities
+> | Set | File |
+> |---|---|
+> | ⭐ **The 37 cities** | **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Cross_City_Culture_Differentiation_Table.md`** *(created 2026-09-04 — the cities had NO Part III instrument until then; only the districts did)* |
+> | The 13 districts | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Cross_District_Differentiation_Table.md` |
+> | ⚠ **NOT this instrument** | `…/Cities/Division_of_Industry/02_Cross_City_Industry_Differentiation_Table.md` — **a different guard for a different pass** *(the necessary-industries bulk run)*. **Both exist; neither replaces the other** |
+>
+> ⛔ **CELLS HOLD THE AXIS, NEVER THE CONTENT.** *"Different content is not differentiation; a different
+> question is."*
+> ⚠ **The table is FILLED DURING synthesis, not before it.** ***It is not a prerequisite and its emptiness is
+> not a gap*** — it contributes nothing to the first city and everything to the thirty-seventh.
+
 # Step 7 — QA
 
 `04` Parts I–II. Gates 0–11 carried, plus **C** (canon check, federated) · **F** (frame integrity) · **I** (inheritance classification) ·
@@ -1982,7 +2090,12 @@ a gap to close.
 # Step 9 — Record
 
 1. Append the **QA block** and the **Review Panel block**.
-2. Add the location's **column to its differentiation set, in the same commit.**
+2. Add the location's **row to its differentiation set, in the same commit.**
+   ⭐ **Cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md`** *(full path in Step 6)*. **Districts
+   → `Cross_District_Differentiation_Table.md`.** ***One AXIS per cell, never the content.***
+   ⚠ **And if this pass noticed anything about ANOTHER city, record that here too** — `04` III.0:
+   ***propagation is part of the finding, not a follow-up.*** *(A symbol collision was once noticed correctly,
+   filed in one city's own culture file, and never reached the guide whose entire job was catching it.)*
 3. Update whatever tracker claims completion — **per Gate 0, list what the file actually contains, not a summary
    claim.**
    > ### ⛔ **BUT PUT THE FINDING IN THE OBSERVATIONS LOG, NOT IN THE TRACKER.** *(M-109.)*
@@ -2136,6 +2249,9 @@ entries carried conclusion vocabulary about the same cluster.**
 | `03_The_Phase_Spine.md` | the eleven phases |
 | `04_QA_Gates_and_Differentiation.md` | gates 0–11 + C/F/I/P/G, and the differentiation instrument |
 | `05_The_Input_Contract.md` | **the boundary — PROVIDED / RESERVED / PRODUCED / REQUESTED, and the pre-flight checklist** |
+| ⭐⭐ **`Run_Modes_Warm_and_Cold.md`** | **added 2026-09-04, developer ruling — THE TWO RUN MODES, defined.** ***Read this BEFORE `Step −1` of any pass, because it decides which input set is admissible.*** **WARM = everything about this city open in the mandated read order, every OTHER city's conclusions closed until Step 6; the memory blackout, reader briefs, pre-contamination review and pins are NOT required. COLD = the full quarantine.** ⛔ **The one rule that never relaxes in either mode: THIS city's own culture material is read LAST, as a CHECK** *(`05` §6.1, Step 0.4 item 6)* — **in a cold run the quarantine enforces it; in a warm run nothing does.** ⛔ **There is no third mode** |
+| ⭐ **`ULM_Diagnosis_and_Accuracy_Approaches.md`** | **added 2026-09-04 — why the instrument appeared to work and then did not, what actually threatens the 37 cities, and 34 approaches for ensuring accurate results.** ⚠ **Its §1–4 are reproducible measurements; §5 onward is a view, and the file says so** |
+| ⭐ **`Stepwise_Execution/`** | **added 2026-09-03 — the ULM sliced into 29 invocable units** *(12 spine steps + 17 gates)*, **each an extract stamped with its source and line range.** **For step-at-a-time invocation instead of one large one.** ⛔ **Extracts, not authority — if a unit disagrees with its source, THE SOURCE WINS** |
 | ⭐ **`ULM_Input_Required_Reference.md`** | **added 2026-09-03 — EVERY input the methodology cannot produce, with a verified project ADDRESS and a MECHANICAL presence test per row.** *(Universal requirement, project address column. The bar against which the audit measures.)* |
 | ⭐ **`ULM_Input_Available_Audit.md`** | **added 2026-09-03 — the measurement: all 37 chartered cities checked against that bar, by subnet.** ⚠ **Carries a SCOPE-CORRECTIONS box; four fields were struck after measurement and its rows for them are stale by design** |
 | ⭐ **`Location_Data-Input_To-Do.md`** | **added 2026-09-03 — the actionable list, ranked by how many cities are missing each field**, with a stated tie-break per row, a `Removed` section *(do not re-add)*, and a blind-spot warning: ***when the count and the tier disagree, the tier wins*** |

@@ -21,7 +21,7 @@
 | Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)*, Chile |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -148,25 +148,45 @@ are internally consistent; they simply produce different cities.
 **Temperature range:** coldest months avg −24°C; warmest month avg −2°C
 **Prevailing winds:** variable; the northern exposure means Cape Adare receives weather systems from the open Southern Ocean as well as katabatics from Victoria Land; exposed and windswept
 **Annual precipitation:** approximately 200–350 mm water equivalent
-**Polar night:** approximately May 9 → August 4 (~87 days)
-**Midnight sun:** approximately November 3 → February 9 (~98 days)
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~350 mm/yr
+**Lands (accumulates and stays):** **~133 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~217 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-12.0 °C** **18 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately May 19 → Jul 26 (~69 days)
+**Midnight sun:** approximately Nov 14 → Jan 30 (~78 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | −2 | −9 to +4 | 30 | ~35% | 24 | Midnight sun; warmest period |
-| Feb | −8 | −15 to −1 | 28 | ~33% | 19 | Days shortening |
-| Mar | −14 | −22 to −6 | 25 | ~30% | 12 | Autumn; sea ice forming |
-| Apr | −19 | −27 to −11 | 22 | ~28% | 5 | Darkening; polar night approaching |
-| May | −22 | −31 to −13 | 20 | ~25% | 0–1* | *Polar night begins ~May 9 |
-| Jun | −24 | −33 to −15 | 18 | ~25% | 0 | Full polar night; solstice |
-| Jul | −24 | −33 to −15 | 18 | ~25% | 0 | Full polar night; coldest |
-| Aug | −22 | −30 to −14 | 20 | ~25% | 0–4* | *Polar night ends ~Aug 4 |
-| Sep | −18 | −26 to −10 | 23 | ~28% | 10 | Spring; conditions improving |
-| Oct | −12 | −20 to −4 | 26 | ~30% | 17 | Sea ice breaking up |
-| Nov | −5 | −12 to +1 | 29 | ~33% | 23 | Midnight sun approaching |
-| Dec | −2 | −9 to +4 | 30 | ~35% | 24 | Midnight sun; warmest period |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +16 | +4 | −2 | −9 | −2.8 | 30 | ~35% | 24 | Midnight sun; warmest period |
+| Feb | +11.4 | −1 | −8 | −15 | −4.6 | 28 | ~33% | 18.2 | Days shortening |
+| Mar | +2.2 | −6 | −14 | −22 | −18.4 | 25 | ~30% | 13.3 | Autumn; sea ice forming |
+| Apr | −7.6 | −11 | −19 | −27 | −31.5 | 22 | ~28% | 8.5 | Darkening; polar night approaching |
+| May | — | −13 | −22 | −31 | — | 20 | ~25% | 2.4 | *Polar night begins ~May 19 |
+| Jun | — | −15 | −24 | −33 | — | 18 | ~25% | 0 | Full polar night; solstice |
+| Jul | — | −15 | −24 | −33 | — | 18 | ~25% | 0 | Full polar night; coldest |
+| Aug | — | −14 | −22 | −30 | — | 20 | ~25% | 6.0 | *Polar night ends ~Jul 26 |
+| Sep | — | −10 | −18 | −26 | — | 23 | ~28% | 11.0 | Spring; conditions improving |
+| Oct | — | −4 | −12 | −20 | — | 26 | ~30% | 15.8 | Sea ice breaking up |
+| Nov | +6.7 | +1 | −5 | −12 | −16.1 | 29 | ~33% | 24 | Midnight sun approaching |
+| Dec | +10.7 | +4 | −2 | −9 | −3.1 | 30 | ~35% | 24 | Midnight sun; warmest period |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089879** (POSSESSION IS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+
 
 #### Notable Weather Phenomena
 

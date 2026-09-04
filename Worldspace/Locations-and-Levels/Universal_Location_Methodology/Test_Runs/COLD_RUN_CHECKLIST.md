@@ -350,7 +350,11 @@ not in it** — and that transition is where Run 14 died. **It does not announce
 > ***Your job is the scope the pin cannot see.*** **You are not mapping content. You are answering: WHERE
 > does this subject appear at all, and what TIER is each place?**
 >
-> **STEP 1 — ENUMERATE. Walk every canon root in `00_RUNBOOK.md` §B, §C, §C.1, §C.6 and §D.** For each,
+> **STEP 1 — ENUMERATE. Walk every canon root in `00_RUNBOOK.md` §B, §C, §C.1, §C.6, ⭐§C.7, ⭐§C.9 and §D.**
+> ⚠ **§C.7 (symbol systems) and §C.9 (the real-world research register, ~90 files across nine subfolders)
+> were ADDED to this list 2026-09-03. Both existed and neither was enumerated, so earlier scouts swept
+> neither.** ⛔ **If `00_RUNBOOK.md` now carries a `§C.n` this line does not name, sweep it anyway and say so
+> on your `BRIEF-PROBLEM:` line.** For each,
 > `grep -ril "<subject>"` — **FILENAMES ONLY, never `-n`, never content.**
 >
 > **STEP 2 — SCOPE PIN.** Per root: `root | file-count`. Plus a TOTAL.

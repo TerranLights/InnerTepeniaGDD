@@ -21,7 +21,7 @@
 | Significant | Japan, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -62,13 +62,66 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 
 *(Research note: verify all figures against Mario Zucchelli Station climate records — the Italian National Antarctic Research Programme (PNRA) and ENEA maintain historical data. Zucchelli and Jang Bogo stations are at essentially the same location; cross-reference Janbogo.md climate data, which applies here as well.)*
 
-**Climate type:** Identical to Janbogo — katabatic coastal, Terra Nova Bay; the two cities share a microclimate
+**Climate type:** Katabatic coastal, Terra Nova Bay — a microclimate shared with Janbogo
 **Mean annual temperature:** -14.0°C  _(READER station: Mario_Zucchelli; 1991–2020 WMO standard normal)_
-**Polar night:** approximately May 20 → July 23 (~64 days) — same as Janbogo
-**Midnight sun:** approximately November 16 → January 25 (~70 days) — same as Janbogo
+**Temperature range:** coldest month (July) avg −21.8°C; warmest month (January) avg −1.2°C
 **Prevailing winds:** katabatic from the west off the Transantarctic Mountains; the Terra Nova Bay polynya is maintained by these winds; same pattern as Janbogo
+**Annual precipitation:** **144.7 mm** water equivalent _(Mario Zucchelli; measured monthly normals — see table)_ *(researched 2026-09-04)*
 
-*Full climate detail: see Janbogo.md — Zukelli's climate is not meaningfully distinguishable from Janbogo's given their proximity. All monthly data, precipitation figures, and gameplay climate notes from Janbogo apply to Zukelli's ruins.*
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~145 mm/yr
+**Lands (accumulates and stays):** **~55 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~90 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-14.0 °C** **16 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 10.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately May 6 → August 8 (~95 days)
+**Midnight sun:** approximately November 2 → February 10 (~101 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+
+> **⚠ Light-cycle figures corrected 2026-09-04.** This section previously gave polar night as *~64 days*
+> and midnight sun as *~70 days*, both annotated *"same as Janbogo."* **Both were wrong by roughly a
+> month.** At **74°41'S** the computed values are **95** and **101** days *(15th-of-month solar geometry,
+> standard −0.833° refraction convention — the same convention that reproduces Rothera's recorded ~16-day
+> polar night to within one day)*. **The `~64` figure corresponds to a latitude near 71°S — about 400 km
+> north of where this city actually is.**
+>
+> ⚠ **`Specs/Janbogo.md` carries the identical wrong pair and is NOT corrected here** — Jang Bogo is at
+> 74°37'S, four minutes of latitude away, so its true figures are the same 95/101. **That file is outside
+> this pass's scope; the error is logged, not fixed.**
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +8.3 | +1 | -1.2 | −2 | −7 | 42.1 | ~25% | 24 | Midnight sun; warmest period; polynya at maximum |
+| Feb | +11.4 | −5 | -6.4 | −8 | −14.7 | 23.5 | ~25% | 20.5 | Midnight sun ends ~Feb 10; light falling fast |
+| Mar | −4.5 | −12 | -14.1 | −16 | −25.8 | 0.7 | ~25% | 13.6 | Autumn; katabatics intensifying as the plateau cools |
+| Apr | −6.4 | −16 | -19.0 | −21 | −30.3 | 0.8 | ~20% | 7.5 | Rapid darkening; sea ice forming outside the polynya |
+| May | −6.7 | −17 | -20.0 | −22 | −30.5 | 3.8 | ~20% | 0 | Polar night begins ~May 6; fierce katabatic season |
+| Jun | −1.7 | −17 | -20.1 | −23 | −27.1 | 8.4 | ~20% | 0 | Full polar night |
+| Jul | −5.5 | −20 | -21.8 | −25 | −32.4 | 13 | ~20% | 0 | Coldest month; full polar night |
+| Aug | −4.9 | −17 | -21.4 | −23 | −29.2 | 4.7 | ~20% | 3.9 | Polar night ends ~Aug 8; severe wind persists |
+| Sep | −12 | −16 | -19.8 | −22 | −28.2 | 1.6 | ~20% | 10.8 | Spring; katabatics moderating; sea ice extensive |
+| Oct | −4.3 | −13 | -15.1 | −18 | −21.7 | 3 | ~25% | 16.8 | Warming; ice breaking up outside the polynya |
+| Nov | +2.5 | −5 | -7.3 | −9 | −14 | 17.4 | ~25% | 24 | Midnight sun from ~Nov 2; coast becoming navigable |
+| Dec | +7.7 | +1 | -1.5 | −3 | −6.7 | 25.7 | ~25% | 24 | Midnight sun; warmest period |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089662** (BASE BAIA TERRA NOVA), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (Mario Zucchelli, researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts published. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
+*Polar night ~May 6–Aug 8 (~95 days); midnight sun ~Nov 2–Feb 10 (~101 days)*
+
+*Zukelli's monthly temperatures are its own — READER logs `Mario_Zucchelli` directly, so this table is
+measured rather than inherited from Janbogo. The two cities do share the microclimate; what they no longer
+share is an unverified light cycle.*
 
 #### Gameplay Notes
 

@@ -21,7 +21,7 @@
 | Significant | Germany *(founding operator heritage)*, France, UK, Brazil |
 | Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Chile, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -74,27 +74,49 @@ Named for Georg von Neumayer — not an Antarctic explorer himself, but the man 
 
 **Climate type:** Coastal Queen Maud Land — maritime influence from the Weddell Sea; katabatic wind exposure from the ice sheet above; significant precipitation; cold winters, relatively mild summers for Antarctic standards
 **Mean annual temperature:** -16.0°C  _(READER station: Neumayer; 1991–2020 WMO standard normal)_
+**Prevailing winds:** strong katabatic winds; an observed case put −22 °C air at a felt temperature of **−47 °C** *(researched 2026-09-04)*
+**Record extremes:** record low **−50 °C** (8 July 2010) *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −26°C; warmest month avg −4°C
-**Polar night:** approximately May 15 → July 27 (~73 days)
-**Midnight sun:** approximately November 14 → January 28 (~75 days)
-**Annual precipitation:** approximately 250–350mm
+**Polar night:** approximately May 22 → Jul 23 (~63 days)
+**Midnight sun:** approximately Nov 16 → Jan 27 (~73 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+**Annual precipitation:** **395.5 mm** water equivalent _(Neumayer-Station III (2005-2015); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | -4.1  | −11 to +3 | 32 | ~42% | ~24* |
-| Feb | -8.0  | −17 to −2 | 28 | ~40% | 18 |
-| Mar | -13.5  | −24 to −8 | 24 | ~38% | 12 |
-| Apr | -18.1  | −30 to −14 | 20 | ~35% | 6 |
-| May | -20.4  | −33 to −17 | 18 | ~33% | ~0* |
-| Jun | -22.8  | −34 to −18 | 16 | ~31% | ~0* |
-| Jul | -25.3  | −34 to −18 | 16 | ~31% | ~0* |
-| Aug | -24.6  | −32 to −16 | 18 | ~33% | 6 |
-| Sep | -23.3  | −27 to −11 | 22 | ~36% | 12 |
-| Oct | -17.4  | −20 to −4 | 26 | ~39% | 18 |
-| Nov | -9.8  | −14 to +1 | 30 | ~41% | ~24* |
-| Dec | -4.7  | −11 to +2 | 32 | ~42% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 15–Jul 27 (~73 days); midnight sun ~Nov 14–Jan 28 (~75 days)*
+**Regime:** **ICE SHELF** — *flat, exposed, heavily redistributed*
+**Falls (reaches the surface):** ~396 mm/yr
+**Lands (accumulates and stays):** **~257 mm/yr** *(~65% retention)*
+**Lost to sublimation and wind transport:** ~138 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **BOTH — and wind is the sharper of the two.** At **-16.0 °C** (14 cities are colder), the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**persistent katabatic drainage**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous, and the surface itself moves with the shelf.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +4.3 | −1 | -4.1 | −8 | −23.8 | 17 | ~42% | 24* |  |
+| Feb | +3.6 | −5 | -8.0 | −13 | −26.5 | 18.7 | ~40% | 17.9 |  |
+| Mar | +0.9 | −9 | -13.5 | −18 | −33 | 30.1 | ~38% | 13.3 |  |
+| Apr | +0.6 | −14 | -18.1 | −24 | −38.7 | 34.1 | ~35% | 8.6 |  |
+| May | −0.2 | −15 | -20.4 | −25 | −40.9 | 53.6 | ~33% | 3.1 |  |
+| Jun | −3.1 | −18 | -22.8 | −29 | −43.4 | 35.2 | ~31% | 0* |  |
+| Jul | −3.7 | −20 | -25.3 | −31 | −44.8 | 40.9 | ~31% | 0* |  |
+| Aug | −4.5 | −19 | -24.6 | −29 | −47.3 | 32.2 | ~33% | 6.3 |  |
+| Sep | −4.6 | −19 | -23.3 | −29 | −45.2 | 26.8 | ~36% | 11.1 |  |
+| Oct | +0.8 | −13 | -17.4 | −22 | −43.5 | 47.9 | ~39% | 15.6 |  |
+| Nov | +1.5 | −6 | -9.8 | −13 | −32.6 | 40.1 | ~41% | 22.9 |  |
+| Dec | +2.8 | −2 | -4.7 | −9 | −24.2 | 18.9 | ~42% | 24* |  |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089002** (NEUMAYER), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (Neumayer-Station III (2005-2015), added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
+
+
+*Polar night ~May 22–Jul 23 (~63 days); midnight sun ~Nov 16–Jan 27 (~73 days)*
 
 #### Gameplay Notes
 - **The ice shelf foundation:** the distinctive character of a city built on floating ice; in damaged/partial survival state, the relationship between the surviving structure and the moving ice beneath it is an active environmental fact

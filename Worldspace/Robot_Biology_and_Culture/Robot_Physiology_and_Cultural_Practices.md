@@ -8,6 +8,14 @@ Foundational reference for robot biology, sensory experience, and cultural behav
 
 Robots do not require oxygen and have no respiratory system in the human sense. They can operate in vacuum — including on the outer hulls of spacecraft — without protective equipment. They do not breathe.
 
+> ### ⭐ COMPANION FILE — what cold DOES cost a robot
+> **Immunity to altitude is not immunity to cold.** **`Robot_Cold_Physiology.md`** covers the real
+> costs: **recharging below freezing causes permanent capacity loss** *(lithium plating)*; **usable
+> capacity falls to 50–60% by −20 °C**; **output sags under load**; **materials embrittle and
+> lubricants solidify below −40 °C**. ⭐ **And the inversion that matters: a robot is safer MOVING
+> than resting, because working generates the heat that keeps its cells and joints in range.**
+
+
 Their internal systems require:
 - **Engine power** — the primary energy source driving all functions
 - **Thermal regulation** — internal systems generate heat that must be managed; this is an ongoing physiological requirement, not an optional comfort

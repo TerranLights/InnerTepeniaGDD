@@ -74,7 +74,7 @@ without it.
 | `02` | **§4.0** *(shape is input-set dependent)* | Its two opposite shape readings; that its known institutions are all maintenance obligations |
 | `02` | **§4**, the `cost-absent` row | Its shape; its characteristic failure mode |
 | `02` | **§4.1**, the `diffuse`-prevents-a-witness note | Its deficit address, and the reasoning behind it |
-| `02` | **G8** worked case *(retained from Run 1)* | **Shirayuki's** retention figure — quarantined for a *Shirayuki* pass, not a Zhongshan one |
+| ~~`02`~~ → ⭐ **`05` §2.4** | **G8** worked case *(retained from Run 1)* | **Shirayuki's** retention figure — quarantined for a *Shirayuki* pass, not a Zhongshan one. ⛔ **CORRECTED 2026-09-03: this row said `02`. The passage was in `05`, in TWO places (L285–288 and L316–318), and both were ANONYMIZED — so a pass consulting this manifest and then reading `05` in full found nothing flagged and read the leak.** ✅ **Both now moved to `Test_Runs/Worked_Examples_Archive/Pull_Push_Durability.md`; `05` carries bare pointers** |
 | `01` | **§5.3a #1**, the own-eras upgrade | **Its entire Phase 5b three-era answer, in full** — the most damaging single entry here |
 | `03` | **Phase 8C**, the general-population note | Its music finding, both the wrong version and the corrected one |
 | `04` | **Gate 6** note | That its swap-test partner produced a canon collision |

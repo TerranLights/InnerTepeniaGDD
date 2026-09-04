@@ -42,7 +42,7 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 | Significant | Germany, France, UK, Russia *(founding infrastructure heritage — co-located Novolazarevskaya station)*, Brazil |
 | Notable | Poland, Netherlands, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -92,26 +92,49 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 
 **Climate type:** Queen Maud Land oasis — ice-free terrain microclimate; slightly warmer than the surrounding ice sheet in summer due to rock heat absorption; cold continental winters
 **Mean annual temperature:** approximately −17°C
+**Prevailing winds:** two distinct regimes — **easterly/southeasterly cyclonic winds** (warming in winter, cooling in summer) and **south-southeasterly katabatic outflow** bringing rapid temperature swings under clear skies *(researched 2026-09-04)*
+**Record extremes:** record high **+9.9 °C**; record low **−41 °C**; annual mean −11 °C *(researched 2026-09-04)*
+**Annual precipitation:** **237.7 mm** water equivalent _(Novolazarevskaya; measured monthly normals — see table)_. *A separate station summary gives ~300 mm annually; the monthly normals are used here.* *(researched 2026-09-04; monthly distribution below remains derived)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~238 mm/yr
+**Lands (accumulates and stays):** **~90 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~148 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-17.0 °C** **12 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Temperature range:** coldest months avg −26°C; warmest month avg −4°C
-**Polar night:** approximately May 14 → July 28 (~75 days)
-**Midnight sun:** approximately November 13 → January 29 (~77 days)
+**Polar night:** approximately May 22 → Jul 23 (~63 days)
+**Midnight sun:** approximately Nov 16 → Jan 28 (~74 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | −4 | −12 to +4 | 22 | ~35% | ~24* |
-| Feb | −9 | −18 to −1 | 19 | ~33% | 17 |
-| Mar | −16 | −25 to −7 | 16 | ~31% | 11 |
-| Apr | −22 | −31 to −13 | 13 | ~29% | 5 |
-| May | −25 | −34 to −16 | 11 | ~27% | ~0* |
-| Jun | −26 | −35 to −17 | 10 | ~26% | ~0* |
-| Jul | −26 | −35 to −17 | 10 | ~26% | ~0* |
-| Aug | −24 | −33 to −15 | 11 | ~27% | 5 |
-| Sep | −19 | −28 to −10 | 14 | ~30% | 11 |
-| Oct | −12 | −21 to −3 | 17 | ~32% | 17 |
-| Nov | −6 | −15 to +2 | 20 | ~34% | ~24* |
-| Dec | −4 | −12 to +3 | 22 | ~35% | ~24* |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +5.5 | +2.2 | −4 | −2.7 | −7.3 | 2.5 | ~35% | 24* |  |
+| Feb | +5.3 | −0.8 | −9 | −5.6 | −15.9 | 2.7 | ~33% | 18.0 |  |
+| Mar | −0.8 | −5.3 | −16 | −10.1 | — | 8.9 | ~31% | 13.3 |  |
+| Apr | — | −9.1 | −22 | −14.9 | — | 14.5 | ~0% | 8.6 |  |
+| May | — | −10.6 | −25 | −17.1 | −27.8 | 29 | ~27% | 3.0 |  |
+| Jun | −6.4 | −12 | −26 | −18.4 | −29.4 | 34.6 | ~0% | 0* |  |
+| Jul | — | −14 | −26 | −20.8 | — | 34.7 | ~26% | 0* |  |
+| Aug | — | −14.6 | −24 | −21.6 | — | 36.3 | ~27% | 6.2 |  |
+| Sep | −3.2 | −13.5 | −19 | −20.4 | −34.8 | 33.1 | ~30% | 11.1 |  |
+| Oct | −2.4 | −9.6 | −12 | −15.7 | −26.1 | 24.8 | ~32% | 15.6 |  |
+| Nov | +4.4 | −3.2 | −6 | −8.7 | −15.3 | 10.8 | ~34% | 23.2 |  |
+| Dec | +6.2 | +1.5 | −4 | −3.6 | −10.3 | 5.8 | ~35% | 24* |  |
 
-*Polar night ~May 14–Jul 28 (~75 days); midnight sun ~Nov 13–Jan 29 (~77 days)*
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089514** (MAITRI), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (Novolazarevskaya, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089514. **Avg Daylight:* computed from this city's own latitude.*
+
+
+*Polar night ~May 22–Jul 23 (~63 days); midnight sun ~Nov 16–Jan 28 (~74 days)*
 
 #### Notable Weather Phenomena
 - **Summer meltwater:** the Schirmacher Oasis lakes are liquid in summer — one of the few places in the Halley subnet where standing liquid water is regularly visible

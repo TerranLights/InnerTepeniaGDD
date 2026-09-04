@@ -134,11 +134,96 @@ The wind here is close to constant rather than episodic — more extreme than Ja
 
 ### Annual Climate
 
-*(Research note: verify all figures against real Cape Denison/Mawson expedition climate records and any modern automatic weather station data for the site.)*
+**Climate data source:** ⚠ **SPLIT SOURCING — temperature is proxied, wind is not.**
+**Temperature proxy: `Dumont_Durville`** — BAS READER, 1991–2020 WMO standard normal, 30 years; full record
+1956–2026. _https://legacy.bas.ac.uk/met/READER/_ **Wind: measured at Cape Denison itself**, Australasian
+Antarctic Expedition 1912–14. *(Researched 2026-09-04; the "verify against expedition records" note this
+section used to carry is now discharged.)*
+
+> ### ⚠ Why the wind may NOT be taken from the temperature proxy
+> Dumont d'Urville is **~120 km west along the same Adélie Land coast** and is a sound proxy for
+> *temperature*. **It is not one for wind, and the reason is the single most important geographic fact
+> about this city.** DDU's annual mean wind is **~9.7 m/s**; Cape Denison's, measured across the 1912–14
+> expedition, is **19.3 m/s — very nearly double.**
+>
+> ⭐ **The cause is a 5-kilometer difference in siting.** DDU sits on an island *offshore of* the base of
+> the ice slope. **Cape Denison sits directly at the foot of it**, at the outflow of a broad drainage basin
+> funneling the entire interior's cold air down one path. **Denison is not "a windier version of the
+> coast." It is a drain.** *(For scale: Zukelli/Janbogo's Terra Nova Bay katabatics, already described as
+> among the fiercest on the Ross Sea coast, run 8–12 m/s.)*
 
 **Climate type:** Coastal East Antarctic, defined overwhelmingly by katabatic wind severity rather than temperature extremity
-**Prevailing winds:** Katabatic, essentially constant; average ~80 km/h, gusts recorded well over 300 km/h during the worst events — among the most severe wind regimes at any permanently inhabited sea-level site on Earth
-**Polar night / midnight sun:** Both occur at this latitude (~67°S), adding a genuine light-cycle rhythm layered on top of the wind-window rhythm — full detail TBD
+**Mean annual temperature:** approximately -11.0°C  _(proxy: READER station `Dumont_Durville`, ~120 km)_
+**Temperature range:** coldest month (July) avg −16.9°C; warmest month (January) avg −1.0°C. ⚠ *Site observations at Cape Denison run colder than the proxy in winter — the continuous cold-air drainage is itself a cooling mechanism the offshore station does not experience. Treat the winter figures as an upper bound.*
+**Prevailing winds:** Katabatic, essentially constant, from the south/southeast off the ice slope. **Annual mean 19.3 m/s (~69 km/h)** — *the highest sea-level annual mean wind speed recorded anywhere on Earth.* Gusts well over 300 km/h in the worst events; a recorded instance of **143 km/h sustained for twelve unbroken hours.**
+**Annual precipitation:** approximately 650 mm water equivalent *(Adélie Land coastal figure: 655 mm reanalysis / 679 mm climatology)*. ⭐ **But see the note below — the figure that falls is not the figure that lands.**
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~650 mm/yr
+**Lands (accumulates and stays):** **~247 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~403 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.0 °C** **21 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 19.3 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** ⛔ **none.** *(Corrected below.)*
+**Midnight sun:** approximately December 5 → January 9 (~36 days)
+**Winter solstice daylight minimum:** approximately 1.5 hours
+
+> ### ⚠ Corrected 2026-09-04 — **"both occur at this latitude" is wrong. Only one does.**
+> Cape Denison is at **67°00'S**. The Antarctic Circle is at **66°34'S**, so the city is only **~48 km**
+> inside it — and that margin is **smaller than atmospheric refraction.** Refraction plus the sun's
+> semidiameter (the standard −0.833° correction) lifts the midwinter sun back over the horizon: **Denison
+> gets roughly 1.5 hours of daylight even at the winter solstice.** **There is no polar night here.**
+> Midnight sun, which the same correction *lengthens*, does occur — ~36 days.
+>
+> ⭐ **This is a characterizing asymmetry, not a technicality.** **Denison has a midsummer with no night
+> and a midwinter with no true darkness** — a low, grazing 90-minute smear of sun across the northern
+> horizon, at the exact season the wind is at its worst. *The city never loses the sun; it just stops
+> being able to go outside and look at it.* **The light cycle and the wind cycle are out of phase, and
+> that — not polar night — is the rhythm this city actually lives on.**
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +9.7 | +1 | -1.0 | −3.6 | −10.8 | 45 | ~29% | 21.8 | Midnight sun to ~Jan 9; calmest stretch of the year |
+| Feb | +6.4 | −2.1 | -4.4 | −6.9 | −17.3 | 50 | ~25% | 16.7 | Wind rebuilding; resupply window closing |
+| Mar | +4.9 | −6.4 | -9.3 | −11.3 | −25 | 60 | ~32% | 13.1 | Katabatics intensifying as the plateau cools |
+| Apr | +8.7 | −10 | -13.5 | −14.8 | −26.1 | 62 | ~27% | 9.2 | Sustained wind season begins |
+| May | 0 | −12.6 | -16.1 | −17.7 | −32.5 | 62 | ~32% | 5.4 | Severe; short grey days |
+| Jun | +0.9 | −14.6 | -16.7 | −20 | −34.9 | 58 | ~23% | 1.8 | **~1.5 hrs at solstice — grazing, never dark** |
+| Jul | +0.5 | −14 | -16.9 | −20 | −34.4 | 55 | ~35% | 3.5 | Coldest month; worst sustained wind |
+| Aug | +0.3 | −14.5 | -16.6 | −20.3 | −37.4 | 55 | ~35% | 7.4 | Still severe; light returning fast |
+| Sep | +0.3 | −13.6 | -15.8 | −18.8 | −36.1 | 55 | ~33% | 11.2 | Wind beginning to moderate |
+| Oct | +1.7 | −10.3 | -13.2 | −16.1 | −37.2 | 55 | ~26% | 15.0 | Spring; sea ice still fast |
+| Nov | +4.7 | −4.1 | -6.4 | −10.3 | −21 | 52 | ~20% | 19.3 | Rapid warming; access opening |
+| Dec | +11 | +0.4 | -1.6 | −4.7 | −14 | 48 | ~19% | 24 | Midnight sun from ~Dec 5; warmest, calmest |
+
+***Monthly record extremes (PROXY — Dumont d'Urville (~120 km), researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (PROXY — Dumont d'Urville (~120 km), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals published. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
+*No polar night; midnight sun ~Dec 5–Jan 9 (~36 days)*
+
+#### ⭐ The precipitation that never lands — a third-order consequence worth building on
+
+Adélie Land's coastal precipitation figure (~655 mm) is **high** — nominally four times the Larsemann Hills
+cities. **But measurements at Dumont d'Urville found that a large fraction of the snow sublimates inside a
+dry, descending katabatic layer before it ever reaches the ground.** *The snow falls, meets the outflowing
+air, and disappears in mid-air.*
+
+**At Cape Denison the drainage layer is roughly twice as strong, so the effect is stronger still.** The
+consequence for the city: **Denison is a wet place on paper and a scoured one in fact** — precipitation
+arrives constantly and accumulates poorly, and what does land is immediately redistributed by 19 m/s wind.
+**Snow does not pile up here; it travels.** Anything built at Denison is subject not to snow *load* but to
+snow *flux* — a continuous horizontal river of ice crystals seeking every gap. *This is a materially
+different engineering and daily-life problem from the one every other Tepenian city solves, and it follows
+directly from the city being sited at the bottom of a drain.*
 
 #### Notable Weather Phenomena
 

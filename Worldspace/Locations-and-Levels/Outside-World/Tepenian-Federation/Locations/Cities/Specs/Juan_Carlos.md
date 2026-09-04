@@ -21,7 +21,7 @@
 | Significant | Germany, France, UK, Italy, Spain |
 | Notable | Mexico, Brazil, Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -52,14 +52,73 @@ The South Shetland Islands were one of the first parts of Antarctica reached by 
 
 ### Annual Climate
 
-**Climate data source:** Spanish Antarctic Program — Juan Carlos I Station, Livingston Island; seasonal station; limited climate record
+**Climate data source:** ⚠ **PROXY.** The Juan Carlos I site is not in the BAS READER surface station
+database *(seasonal station; no continuous 30-year normal)*. **Proxy station: `King_Sejong`** — BAS READER,
+1991–2020 WMO standard normal, 30 years; full record 1988–2026. _https://legacy.bas.ac.uk/met/READER/_
 
-**Climate type:** Maritime sub-Antarctic — nearly identical to Sejong; mild, wet, changeable
-**Mean annual temperature:** approximately −3°C
-**No polar night; no midnight sun** — at 62°39'S; winter minimum daylight ~6 hours; summer maximum ~18 hours
-**Annual precipitation:** approximately 450–650mm
+> **⚠ Corrected 2026-09-04 — the adjustment ran the wrong way.** The old text set mean annual temperature
+> at **≈ −3 °C** and instructed the reader to take Sejong's monthly figures *"adjusted approximately −1 °C
+> across all months."* **Both the anchor and the sign are wrong.** Sejong's normal is **−1.7 °C**, and the
+> Juan Carlos I station's own published annual mean is **−1.2 °C** — **warmer than Sejong, not colder.**
+> The proxy therefore needs **no adjustment at all**, and certainly not a downward one; **the old figure was
+> ~1.3–1.8 °C too cold.**
+>
+> ⚠ **A sourcing trap, recorded because it nearly landed in this file:** a widely-repeated figure of
+> **−2.8 °C** attaches to *Livingston Island* and looks like the right number to use. **It is Byers
+> Peninsula** — the far western end of the island, ~30 km from and considerably more exposed than the Hurd
+> Peninsula station site. **Same island, different climate, wrong number.** Sejong's normals are used
+> below unmodified; the −1.2 °C station figure serves as the cross-check, and the 0.5 °C residual sits
+> well inside proxy tolerance.
 
-*Full monthly climate table: very close to Sejong's data; refer to Sejong.md for approximate figures adjusted approximately −1°C across all months.*
+**Climate type:** Maritime sub-Antarctic — South Shetland arc; mild, wet, changeable, heavily cloudy; among the mildest in Tepenia
+**Mean annual temperature:** -1.7°C  _(proxy: READER station `King_Sejong`, ~95 km; station's own reported annual mean −1.2 °C)_
+**Temperature range:** coldest month (July) avg −5.5°C; warmest month (January) avg +1.9°C; **Nov–Mar above or at freezing in the mean**
+**Prevailing winds:** westerly/northwesterly off the Drake Passage; frequent gales; no katabatic regime
+**Annual precipitation:** **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~95 km); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **MARITIME** — *genuinely wet; precipitation behaves temperately*
+**Falls (reaches the surface):** ~702 mm/yr
+**Lands (accumulates and stays):** **~562 mm/yr** *(~80% retention)*
+**Lost to sublimation and wind transport:** ~140 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is among the mildest cities in the Federation (**33 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** ⛔ **none** — at 62°39'S, roughly 435 km north of the Antarctic Circle
+**Midnight sun:** ⛔ **none**
+**Winter solstice daylight minimum:** approximately 4.8 hours
+**Summer solstice daylight maximum:** approximately 20.1 hours
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +6.5 | +3.3 | +1.9 | +0.1 | −4 | 54.4 | ~47% | 18.9 | Warmest month; rain routine; snow-free ground |
+| Feb | +5.5 | +3.3 | +1.7 | +0.1 | −6.8 | 66.4 | ~61% | 15.8 | Still mild; days shortening |
+| Mar | +4.2 | +2.1 | +0.8 | −1.3 | −5.4 | 72.1 | ~54% | 12.9 | Autumn; wet |
+| Apr | +4.9 | +0.2 | -1.2 | −3.8 | −10 | 65.6 | ~52% | 9.7 | Freezing point crossed |
+| May | +4.8 | −1.5 | -2.7 | −6 | −16.8 | 60.6 | ~50% | 6.9 | Short days; heavy cloud |
+| Jun | +3.3 | −3.1 | -4.9 | −8.3 | −19 | 53.4 | ~49% | 4.9 | **Darkest month — ~4.8 hrs at solstice, never zero** |
+| Jul | +2.1 | −3.8 | -5.5 | −9.7 | −14.7 | 60.5 | ~46% | 5.7 | Coldest month |
+| Aug | +1 | −3.6 | -5.3 | −9.3 | −22.6 | 62.1 | ~46% | 8.3 | Cold; light returning |
+| Sep | +1.7 | −2 | -3.9 | −7.1 | −19.5 | 59.8 | ~42% | 11.4 | Spring |
+| Oct | +2 | −0.9 | -2.1 | −4.7 | −14.9 | 54.6 | ~46% | 14.4 | Sea ice retreating |
+| Nov | +4 | +0.4 | -0.4 | −2.7 | −9.1 | 46.7 | ~53% | 17.6 | Mild; long days |
+| Dec | +5.2 | +2 | +0.8 | −1 | −7 | 46 | ~41% | 20.0 | **Longest days — ~20.1 hrs at solstice, never 24** |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089057** (BASE ARTURO PRAT), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (PROXY — Bellingshausen, King George I. (~95 km), added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089057. **Avg Daylight:* computed from this city's own latitude.*
+
+
+***Provenance of each column** — **Avg Temp:* **proxied**, BAS READER station `King_Sejong` (~95 km, same
+South Shetland arc), 1991–2020 WMO standard normal, unmodified. **Avg Daylight:* computed from Juan Carlos'
+own 62°39'S, 15th of each month, −0.833° convention. **Temp Range · Avg Precip · Precip Probability:*
+**derived, not measured** — design-grade estimates; **the precipitation total is a regional maritime
+estimate, not a station measurement** *(no figure for the Livingston Island stations was obtainable — see
+Open Questions)*.*
 
 #### Gameplay Notes
 - **Ruins, like most of DLC 3:** Juan Carlos joins Palmer City, Esperanza, Sejong, and Marambio as destroyed Peninsula cities; its own ruins hold the ground-floor or basement archive office central to "The Archivist's Trail" cross-DLC questline (see `Storyline/DLC_01_Echoes_of_Amundsen.md`)

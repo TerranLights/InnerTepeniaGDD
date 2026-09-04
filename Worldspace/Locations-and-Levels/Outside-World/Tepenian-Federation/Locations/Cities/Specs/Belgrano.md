@@ -21,7 +21,7 @@
 | Significant | Germany, UK, Brazil |
 | Notable | Poland, Argentina *(founding wave)*, Czech Republic, Hungary, South Africa, Slovakia, Chile, Croatia, Serbia, Slovenia, Uruguay |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -63,27 +63,51 @@ The Argentine Air Force operated here because of the runway — flat coastal ice
 
 **Climate type:** Weddell Sea maritime-continental transition — colder than the Queen Maud Land coastal cities; strong winter sea ice; katabatic wind exposure
 **Mean annual temperature:** -13.2°C  _(READER station: Belgrano_II; 1991–2020 WMO standard normal)_
+**Prevailing winds:** frontal passages bring **winds exceeding 200 km/h**, sharply increasing the chill factor *(researched 2026-09-04)*
+**Record extremes:** record high **+11.4 °C** (January); record low **−58.9 °C** (May) *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −30°C; warmest month avg −5°C
-**Polar night:** approximately April 24 → August 18 (~116 days)
-**Midnight sun:** approximately October 29 → February 11 (~105 days)
-**Annual precipitation:** approximately 150–250mm
+**Polar night:** approximately Apr 26 → Aug 19 (~116 days)
+**Midnight sun:** approximately Oct 24 → Feb 19 (~119 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+**Annual precipitation:** **299.5 mm** water equivalent _(Belgrano II (1991-2020); measured monthly normals — see table)_ *(researched 2026-09-04)*
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | -2.4  | −12 to +2 | 22 | ~38% | ~24* |
-| Feb | -7.0  | −18 to −3 | 20 | ~36% | 20 |
-| Mar | -12.3  | −26 to −10 | 18 | ~34% | 14 |
-| Apr | -16.3  | −32 to −16 | 16 | ~32% | ~0* |
-| May | -17.5  | −36 to −20 | 14 | ~30% | ~0* |
-| Jun | -18.9  | −38 to −22 | 12 | ~28% | ~0* |
-| Jul | -20.9  | −38 to −22 | 12 | ~28% | ~0* |
-| Aug | -20.7  | −36 to −20 | 14 | ~30% | ~0* |
-| Sep | -18.4  | −30 to −14 | 16 | ~32% | 12 |
-| Oct | -14.1  | −22 to −6 | 18 | ~34% | ~24* |
-| Nov | -7.0  | −16 to 0 | 20 | ~36% | ~24* |
-| Dec | -2.6  | −12 to +2 | 22 | ~38% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~Apr 24–Aug 18 (~116 days); midnight sun ~Oct 29–Feb 11 (~105 days)*
+**Regime:** **ICE SHELF** — *flat, exposed, heavily redistributed*
+**Falls (reaches the surface):** ~300 mm/yr
+**Lands (accumulates and stays):** **~195 mm/yr** *(~65% retention)*
+**Lost to sublimation and wind transport:** ~104 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **BOTH — and wind is the sharper of the two.** At **-13.2 °C** (17 cities are colder), the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**persistent katabatic drainage**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous, and the surface itself moves with the shelf.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +11.4 | +0.7 | -2.4 | −6.1 | −20 | 26.2 | ~41% | 24* |  |
+| Feb | +10.1 | −3.5 | -7.0 | −11.1 | −29.5 | 27.4 | ~39% | 24 |  |
+| Mar | +7.9 | −9.1 | -12.3 | −16.5 | −37.8 | 32.5 | ~41% | 14.1 |  |
+| Apr | +1.5 | −13.2 | -16.3 | −20.5 | −40.2 | 16.8 | ~35% | 6.0 |  |
+| May | −1 | −14.1 | -17.5 | −21.6 | −58.9 | 22.5 | ~34% | 0* |  |
+| Jun | +1 | −15.7 | -18.9 | −23 | −46.1 | 25 | ~33% | 0* |  |
+| Jul | −2.9 | −17.5 | -20.9 | −25 | −52.8 | 27.8 | ~34% | 0* |  |
+| Aug | −2.5 | −17.1 | -20.7 | −24.9 | −51.1 | 26.9 | ~30% | 0* |  |
+| Sep | −1.4 | −14.9 | -18.4 | −22.8 | −52.2 | 39 | ~36% | 10.4 |  |
+| Oct | +4.4 | −10.2 | -14.1 | −18.8 | −38.9 | 20.2 | ~31% | 18.4 |  |
+| Nov | +7 | −3.2 | -7.0 | −11.5 | −36.1 | 18.2 | ~33% | 24* |  |
+| Dec | +12.1 | +0.8 | -2.6 | −6.8 | −19 | 17 | ~35% | 24* |  |
+
+***Monthly record extremes (Belgrano II, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Belgrano II (1991-2020), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
+
+*Polar night ~Apr 26–Aug 19 (~116 days); midnight sun ~Oct 24–Feb 19 (~119 days)*
 
 #### Gameplay Notes
 - **The airfield ruins:** the runway infrastructure is the defining DLC 5 landmark at Belgrano; the most significant aviation site in the Halley subnet

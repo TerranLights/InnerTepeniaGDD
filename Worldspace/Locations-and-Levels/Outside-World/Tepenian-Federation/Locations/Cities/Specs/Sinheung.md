@@ -77,7 +77,7 @@ Brainstormed purely from the city's own established nature, setting, and persona
 | Significant | China, Japan, Germany, Russia *(operated the physical Progress Station infrastructure only — never a founding population; see Founding, above, corrected 2026-07-13)*, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Estonia, Hungary, Lithuania, Malaysia, Vietnam, Philippines, Bulgaria, Latvia, South Africa |
 
-*Source: `Official_Population_Census.md` Sections I-III. Re-derived 2026-07-06, in three rounds — see Founding Population Re-Resolution, below.*
+*Source: `Official_Population_Census.md` Sections A–C. Re-derived 2026-07-06, in three rounds — see Founding Population Re-Resolution, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -131,27 +131,51 @@ Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 �
 
 **Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free terrain microclimate (slightly warmer than surrounding ice sheet in summer); cold continental winters; Larsemann Hills moderating effect
 **Mean annual temperature:** approximately −10°C
+**Record extremes:** summer daytime air temperatures (December–February) **frequently exceed +4 °C and can exceed +10 °C**; mean monthly winter temperatures range **−15 °C to −18 °C** *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of metres offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
 **Temperature range:** coldest months avg −22°C; warmest month avg 0°C
-**Polar night:** approximately May 22 → July 21 (~60 days)
-**Midnight sun:** approximately November 21 → January 21 (~61 days)
-**Annual precipitation:** approximately 200–300mm
+**Polar night:** approximately May 29 → Jul 16 (~49 days)
+**Midnight sun:** approximately Nov 22 → Jan 22 (~62 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+**Annual precipitation:** **148.9 mm** water equivalent _(Progress; measured monthly normals — see table)_ *(researched 2026-09-04)*
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | 0 | −8 to +8 | 26 | ~38% | ~24* |
-| Feb | −5 | −13 to +3 | 23 | ~36% | 17 |
-| Mar | −12 | −20 to −4 | 20 | ~34% | 11 |
-| Apr | −17 | −25 to −9 | 17 | ~32% | 5 |
-| May | −21 | −29 to −13 | 14 | ~30% | ~0* |
-| Jun | −22 | −30 to −14 | 12 | ~28% | ~0* |
-| Jul | −22 | −30 to −14 | 12 | ~28% | ~0* |
-| Aug | −20 | −28 to −12 | 14 | ~30% | 5 |
-| Sep | −15 | −23 to −7 | 17 | ~32% | 11 |
-| Oct | −9 | −17 to −1 | 21 | ~35% | 17 |
-| Nov | −3 | −11 to +5 | 24 | ~37% | ~24* |
-| Dec | 0 | −8 to +7 | 26 | ~38% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 22–Jul 21 (~60 days); midnight sun ~Nov 21–Jan 21 (~61 days)*
+**Regime:** **ICE-FREE OASIS** — *small precipitation budget, high transport*
+**Falls (reaches the surface):** ~149 mm/yr
+**Lands (accumulates and stays):** **~67 mm/yr** *(~45% retention)*
+**Lost to sublimation and wind transport:** ~82 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **WIND, on a small budget.** At **-10.0 °C** this is a comparatively mild site (**25 of the 37 are colder**) with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +9.3 | +3.3 | 0 | −1.6 | −9 | 5.2 | ~19% | 24* |  |
+| Feb | +6.2 | 0 | −5 | −4.6 | −11.1 | 11.2 | ~25% | 17.4 |  |
+| Mar | −0.4 | −6.1 | −12 | −10 | −19.9 | 16.9 | ~30% | 13.2 |  |
+| Apr | — | −9.5 | −17 | −14.6 | −29.1 | 9.9 | ~31% | 8.8 |  |
+| May | −5.3 | −11.9 | −21 | −17.5 | −30.3 | 16.8 | ~32% | 4.2 |  |
+| Jun | −5.2 | −10.6 | −22 | −16.1 | −27.8 | 18.7 | ~30% | 0* |  |
+| Jul | — | −12.9 | −22 | −19.1 | — | 11.8 | ~25% | 0* |  |
+| Aug | — | −12.5 | −20 | −18.1 | — | 11.5 | ~30% | 6.7 |  |
+| Sep | −6.1 | −10.6 | −15 | −16.1 | — | 15.8 | ~28% | 11.1 |  |
+| Oct | +2.4 | −7.9 | −9 | −14.1 | −18.2 | 14 | ~23% | 15.4 |  |
+| Nov | +5.9 | −1.9 | −3 | −7.7 | −18.3 | 6.8 | ~19% | 21.0 |  |
+| Dec | +8.2 | +2.8 | 0 | −2.1 | −8.5 | 10.3 | ~14% | 24* |  |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089574** (PROGRESS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (Progress, researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089574. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
+
+*Polar night ~May 29–Jul 16 (~49 days); midnight sun ~Nov 22–Jan 22 (~62 days)*
 
 ---
 

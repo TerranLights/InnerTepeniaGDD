@@ -4,11 +4,31 @@
 **Coverage:** All chartered cities of the Tepenian Federation, founding era through Orbital Era  
 **Records status:** Pre-Long Night War historical archive; figures reflect the last complete census taken before the outbreak of hostilities
 
+> # ⚠ SECTIONS ARE LETTERED (A–D). **CENSUSES ARE NUMBERED (I, II).** They are not the same scheme.
+>
+> **Relettered 2026-09-04, developer instruction, because the two schemes collided and caused a real
+> misreading:** ***the file's sections were Roman-numeralled while the censuses inside them are also Roman-
+> numbered, offset by one — so "Sections I-III" read as "Censuses I-III" and implied a Census III that does
+> not exist.***
+>
+> | Section | Was | Contains |
+> |---|---|---|
+> | **A** | ~~I~~ | National Origin Composition by City |
+> | **B** | ~~II~~ | Population Figures, Pre-Orbital — **Census I** |
+> | **C** | ~~III~~ | Population Figures, Orbital Era — **Census II** |
+> | **D** | ~~IV~~ | Historical Note: Lost and Ruined Cities |
+>
+> ⛔ **THERE IS NO CENSUS III.** *No genuine present-day post-war population table exists anywhere in this
+> project — see the timeline correction in Section C. Census I is the peak; Census II is
+> post-orbital-migration.*
+>
+> **43 citations across 43 files were updated in the same pass.**
+
 *Cross-reference source: `Upper_Earth_Immigration_Composition.md` — methodology, tier derivations, and analytical notes*
 
 ---
 
-## Section I — National Origin Composition by City
+## Section A — National Origin Composition by City
 
 National communities are classified by tier based on long-run population share. Where a founding wave nation set the city's early cultural character prior to the arrival of larger national communities, this is noted.
 
@@ -453,7 +473,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-## Section II — Population Figures: Pre-Orbital Era (Census I)
+## Section B — Population Figures: Pre-Orbital Era (Census I)
 
 *Taken after the initial founding period and long-run immigration equilibrium was established, before construction of Amundsen Tower and the onset of orbital colonization. This represents the peak surface-resident Tepenian population.*
 
@@ -501,7 +521,7 @@ National communities are classified by tier based on long-run population share. 
 
 | — | **TOTAL** | | **15,623,523** | **16,403,077** | **32,026,600** | *(revised 2026-07-04)* |
 
-*Note: Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section III.*
+*Note: Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section C.*
 
 ### Subnet Totals — Census I
 
@@ -524,7 +544,7 @@ National communities are classified by tier based on long-run population share. 
 
 *Kunlun's population remains entirely robot after its 2026-07-06 re-resolution (no longer single-nation Chinese, now a curated 19-nation population), so it does not appear in this humans-only table.*
 
-***Rebuilt from scratch, 2026-07-04*** — *superseding every prior version of this table. Rather than patching the previous version (which was quietly built against Concordia's old, never-itemized placeholder), this table was recomputed directly from Section I's actual, current per-city tier compositions: for each of the 35 cities with a human population (Kunlun and Dome Fuji excluded — both 100% robot), each Primary-tier nation received 8 shares, each Significant-tier nation 3 shares, each Notable-tier nation 1 share, applied against that city's own current Census I human population — the same T1/T2/T3 share methodology used throughout this project (`Upper_Earth_Immigration_Composition.md`). Concordia's own contribution used its precise, already-computed per-nation figures directly (see Section I) rather than the tier-share approximation, since exact numbers already existed for it. Off by 4 (15,623,527 vs. 15,623,523) due to rounding across 42 nations and 35 cities; immaterial.*
+***Rebuilt from scratch, 2026-07-04*** — *superseding every prior version of this table. Rather than patching the previous version (which was quietly built against Concordia's old, never-itemized placeholder), this table was recomputed directly from Section I's actual, current per-city tier compositions: for each of the 35 cities with a human population (Kunlun and Dome Fuji excluded — both 100% robot), each Primary-tier nation received 8 shares, each Significant-tier nation 3 shares, each Notable-tier nation 1 share, applied against that city's own current Census I human population — the same T1/T2/T3 share methodology used throughout this project (`Upper_Earth_Immigration_Composition.md`). Concordia's own contribution used its precise, already-computed per-nation figures directly (see Section A) rather than the tier-share approximation, since exact numbers already existed for it. Off by 4 (15,623,527 vs. 15,623,523) due to rounding across 42 nations and 35 cities; immaterial.*
 
 ***Rebuilt from scratch again, 2026-07-05*** — *superseding the 2026-07-04 version above. Two separate things changed. First, every city's per-nation figures were "de-stacked" in their own Specs files (see `TODO.md`) — same-tier nations no longer show identical percentages, since randomization now breaks up what used to be flat tier-share blocks. Second, and more consequentially, summing each city's own current Census I human figure directly from its Specs file turned up a real, independent discrepancy: 15,100,548, not 15,623,527 — a ~523,000 gap unrelated to de-stacking. Traced to its exact cause: Denison had no Specs file at the time (a gap flagged in `TODO.md`), so its 522,975 humans (per the City Populations table above) were entirely missing from the sum — 15,100,548 + 522,975 = 15,623,523, an exact match to this table's own authoritative City Populations total, confirming the 2026-07-04 total wasn't actually stale after all, just structurally incomplete in a way that happened to net out close to the same figure by coincidence of rounding. This rebuild sums each of the 34 cities' own de-stacked "Per-Nation Breakdown" tables in their Specs files, plus a one-off manually-computed per-nation breakdown for Denison (using its existing tier table above and its Census I population, de-stacked the same way, since it had no Specs file to source from at the time). Off by 2 (15,623,521 vs. 15,623,523) due to rounding across 43 nations and 35 cities (34 Specs files + Denison computed separately); immaterial. If a similar drift is suspected in the future, this table should always be rebuilt as a direct sum of the Specs files' own figures, not re-derived independently.*
 
@@ -560,17 +580,17 @@ National communities are classified by tier based on long-run population share. 
 | | | | Sweden | 43,615 |
 | | | | **TOTAL** | **15,623,521** |
 
-*Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. **Resolved 2026-07-13:** this file's own City Populations table (above) previously did not mark Denison as destroyed, despite Section IV below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document. Fixed, adding the "(destroyed)" tag to Denison's row to match Zukelli's own already-correct row. The same gap was found, opportunistically, on Cape Adare's row three lines above Denison's — also fixed, matching `Specs/Cape_Adare.md`'s own already-established "Destroyed" status.*
+*Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. **Resolved 2026-07-13:** this file's own City Populations table (above) previously did not mark Denison as destroyed, despite Section D below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document. Fixed, adding the "(destroyed)" tag to Denison's row to match Zukelli's own already-correct row. The same gap was found, opportunistically, on Cape Adare's row three lines above Denison's — also fixed, matching `Specs/Cape_Adare.md`'s own already-established "Destroyed" status.*
 
 ---
 
 ---
 
-## Section III — Population Figures: Orbital Era (Census II)
+## Section C — Population Figures: Orbital Era (Census II)
 
 *Taken immediately before the Long Night War, after decades of orbital migration via Amundsen Tower had moved a significant fraction of the population off-surface. Population is conserved between Census I and Census II — nobody was born or died in the transition; they relocated.*
 
-***Timeline correction, 2026-07-12*** *(see [[feedback_census_ii_iii_timeline]]): Census II is a pre-war snapshot, full stop — it cannot contain war outcomes. Several rows below previously carried post-war status labels ("destroyed in Long Night War," etc.) directly on this pre-war table, which is a tense contradiction: a census taken before a war cannot record a city as already destroyed in it. Those labels have been reworded to read as forward-looking context (what happened after this snapshot was taken) rather than as facts already true at the time of the census. **No genuine Census III (an actual present-day, post-war population table) exists anywhere in this project yet.** Building one would require establishing real war-casualty/damage-severity rates per destroyed or damaged city — a separate, significant task, not something folded into this pass. Until it exists, there is no authoritative "current population" figure for Inner Tepenia's own present day (≈2822–2827) — only this pre-war baseline (Census II) and the historical-loss notes in Section IV below, which describe what's known to have changed since.*
+***Timeline correction, 2026-07-12*** *(see [[feedback_census_ii_iii_timeline]]): Census II is a pre-war snapshot, full stop — it cannot contain war outcomes. Several rows below previously carried post-war status labels ("destroyed in Long Night War," etc.) directly on this pre-war table, which is a tense contradiction: a census taken before a war cannot record a city as already destroyed in it. Those labels have been reworded to read as forward-looking context (what happened after this snapshot was taken) rather than as facts already true at the time of the census. **No genuine Census III (an actual present-day, post-war population table) exists anywhere in this project yet.** Building one would require establishing real war-casualty/damage-severity rates per destroyed or damaged city — a separate, significant task, not something folded into this pass. Until it exists, there is no authoritative "current population" figure for Inner Tepenia's own present day (≈2822–2827) — only this pre-war baseline (Census II) and the historical-loss notes in Section D below, which describe what's known to have changed since.*
 
 ### Antarctic Surface — City Populations
 
@@ -594,7 +614,7 @@ National communities are classified by tier based on long-run population share. 
 | 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(would not survive the Long Night War that followed)* |
 | 17 | Shirayuki | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
-| 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section I)* |
+| 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section A)* |
 | 20 | Abowasa | Halley | 310,791 | 296,650 | **607,441** | |
 | 21 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
 | 22 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
@@ -656,9 +676,9 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-## Section IV — Historical Note: Lost and Ruined Cities
+## Section D — Historical Note: Lost and Ruined Cities
 
-**Reframed 2026-07-12** (see the timeline-correction note in Section III above): the population figures below are the last snapshot Census II recorded for each of these cities — a pre-war baseline, not a record of their fate. What follows each figure is what's separately known to have happened after that snapshot was taken, narrated from Inner Tepenia's own present-day perspective (≈2822–2827), not from the census's.
+**Reframed 2026-07-12** (see the timeline-correction note in Section C above): the population figures below are the last snapshot Census II recorded for each of these cities — a pre-war baseline, not a record of their fate. What follows each figure is what's separately known to have happened after that snapshot was taken, narrated from Inner Tepenia's own present-day perspective (≈2822–2827), not from the census's.
 
 The following cities appear in Census II above. None of them survive to the post-war period in which Inner Tepenia takes place.
 

@@ -21,7 +21,7 @@
 | Significant | South Korea, Canada, Indonesia, Australia |
 | Notable | New Zealand, Chile |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -59,30 +59,48 @@ What makes Vostok more than simply the coldest and most isolated place in an alr
 **Climate type:** East Antarctic Plateau polar desert — the most extreme version of the continental polar type; the coldest mean annual temperature of any Tepenian city
 **Mean annual temperature:** -54.8°C  _(READER station: Vostok; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest months (July/August) avg −66°C; warmest month (December/January) avg −28°C
-**Record extremes:** record low −89.2°C (July 21, 1983 — lowest naturally occurring air temperature ever recorded on Earth's surface); record high approximately −14°C
-**Prevailing winds:** calm by Antarctic standards — the plateau interior at Vostok is remarkably wind-still relative to coastal and slope stations; average wind speeds 5–6 m/s; the defining hazard here is cold, not wind
-**Annual precipitation:** approximately 20–22 mm water equivalent — polar desert; among the driest locations in Tepenia alongside Amundsen Station
-**Polar night:** approximately April 22 → August 21 (~121 days)
-**Midnight sun:** approximately October 21 → February 20 (~122 days)
+**Record extremes:** record high **−14.0 °C**; record low **−89.2 °C** — *the lowest reliably measured natural temperature on Earth* *(researched 2026-09-04)*
+**Prevailing winds:** average **~5 m/s**, rising to **27 m/s** in the strongest events — light by Antarctic coastal standards *(researched 2026-09-04)*
+**Annual precipitation:** **22 mm** water equivalent _(Vostok; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **PLATEAU** — *snow is a deposit, not weather*
+**Falls (reaches the surface):** ~25 mm/yr
+**Lands (accumulates and stays):** **~22 mm/yr** *(~90% retention)*
+**Lost to sublimation and wind transport:** ~2 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-54.8 °C** it is the **#2 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**mean wind 5.0 m/s**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately Apr 24 → Aug 21 (~120 days)
+**Midnight sun:** approximately Oct 22 → Feb 21 (~123 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect
 **Summer solstice daylight maximum:** N/A — midnight sun in effect
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | -31.9  | −20 to −38 | 2.0 | ~5% | 24 | Midnight sun; "warmest" period |
-| Feb | -43.7  | −30 to −52 | 2.0 | ~5% | 19 | Rapid cooling |
-| Mar | -58.1  | −44 to −66 | 2.0 | ~5% | 11 | Autumn; polar night approaching |
-| Apr | -64.8  | −50 to −73 | 1.5 | ~4% | 2 | Polar night begins ~Apr 22 |
-| May | -65.6  | −53 to −76 | 1.5 | ~4% | 0 | Full polar night |
-| Jun | -65.5  | −54 to −77 | 1.5 | ~4% | 0 | Full polar night; winter solstice |
-| Jul | -65.9  | −55 to −79 | 1.5 | ~4% | 0 | Full polar night; coldest month |
-| Aug | -66.9  | −54 to −77 | 1.5 | ~4% | 0–2 | Polar night ends ~Aug 21 |
-| Sep | -65.7  | −47 to −70 | 1.5 | ~4% | 8 | Spring; marginally less extreme |
-| Oct | -56.4  | −34 to −56 | 2.0 | ~5% | 17 | Midnight sun approaching |
-| Nov | -41.4  | −21 to −42 | 2.0 | ~5% | 23 | Midnight sun approaching |
-| Dec | -31.3  | −20 to −38 | 2.0 | ~5% | 24 | Midnight sun; "warmest" period |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | −14 | −27 | -31.9 | −37.5 | −56.4 | 1 | ~4% | 24 | Midnight sun; "warmest" period |
+| Feb | −21 | −38.7 | -43.7 | −50 | −64 | 0.7 | ~3% | 24 | Rapid cooling |
+| Mar | −17.7 | −52.9 | -58.1 | −61.8 | −76.4 | 2 | ~8% | 14.2 | Autumn; polar night approaching |
+| Apr | −33 | −61.1 | -64.8 | −67.8 | −86 | 2.4 | ~9% | 5.6 | Polar night begins ~Apr 24 |
+| May | −38 | −62 | -65.6 | −69.1 | −81.2 | 2.8 | ~11% | 0 | Full polar night |
+| Jun | −33 | −60.6 | -65.5 | −68.9 | −83.8 | 2.5 | ~10% | 0 | Full polar night; winter solstice |
+| Jul | −34.1 | −62.4 | -65.9 | −70.4 | −89.2 | 2.2 | ~8% | 0 | Full polar night; coldest month |
+| Aug | −34.9 | −63.9 | -66.9 | −71.5 | −88.3 | 2.3 | ~9% | 0 | Polar night ends ~Aug 21 |
+| Sep | −34.3 | −61.6 | -65.7 | −70.2 | −85.9 | 2.4 | ~9% | 10.4 | Spring; marginally less extreme |
+| Oct | −30.8 | −51.5 | -56.4 | −63.1 | −79.4 | 1.9 | ~7% | 18.8 | Midnight sun approaching |
+| Nov | −24.3 | −37.2 | -41.4 | −49.8 | −63.9 | 1.1 | ~4% | 24 | Midnight sun approaching |
+| Dec | −14.1 | −27.1 | -31.3 | −38 | −50.1 | 0.7 | ~3% | 24 | Midnight sun; "warmest" period |
+
+***Monthly record extremes (Vostok, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Vostok, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — 26 measured snow-days/yr distributed across measured monthly precipitation. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

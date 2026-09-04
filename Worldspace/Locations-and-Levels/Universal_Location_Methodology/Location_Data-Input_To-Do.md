@@ -78,7 +78,34 @@ division and calls it *"the cheapest plausibility check in the methodology."***
 
 **Six cities have an area figure and NONE of them is a city extent** — each measures the real-world *site*:
 Cape Adare (2.94 km² cape) · Denison (1.11 km² ASMA) · Davis (~400 km² oasis) · Lazar (~34 km² oasis) ·
-Sayowa (~4–5 km² island) · Sinheung (~34 km² hills). **These are upper bounds on habitable land, not extents.**
+Sayowa (~4–5 km² island) · Sinheung (~34 km² hills). **They measure the real-world SITE, not the city.**
+
+> # ⛔⛔ STANDING CORRECTION — **ICE-FREE AREA IS NOT A CONSTRAINT ON CITY EXTENT.**
+> **Developer correction, 2026-09-03, after this error recurred across sessions:**
+> ***"For some reason, you have incredible difficulty understanding me when I tell you that it's not
+> necessary to only build on non-iced earth."***
+>
+> ### ⛔ TEPENIAN CITIES BUILD ON ICE. This is established canon, not a permission being sought.
+> | City | Built on |
+> |---|---|
+> | **Halley** | **the Brunt Ice Shelf** — and its own spec records that it *risks eventually calving off into the ocean*, which is why the subnet's Arcanet nexus was placed at Sanay instead |
+> | **Neumayer** | ***"built on the Ekström Ice Shelf rather than on bedrock, which has structural implications for long-term city stability"*** |
+>
+> ### Therefore the six figures above BOUND NOTHING
+> **An ice-free oasis, a cape, an ASMA zone and an island are facts about the real-world research site.**
+> ***They are not a ceiling on where a Tepenian city may be built, how far it may extend, or how many people
+> it may hold.*** **A prior version of this section called them *"upper bounds on habitable land"* — that
+> was wrong, and it is the exact misreading the developer is correcting.**
+>
+> **⚠ The recurrence is the reason this is written as a standing block rather than a footnote.** ***Assuming
+> bedrock-only construction is an unstated real-world assumption smuggled into a fictional setting that has
+> already ruled otherwise*** — the same class as `Disciplines/Real-World_Basis_Extrapolation_Method.md`'s
+> standing principle: **a real-world basis is a COORDINATE, never a CAUSE.**
+>
+> ### ⏸️ DENSITY AND EXTENT ARE DEFERRED — developer instruction, 2026-09-03
+> ***"The issue of density has to be addressed another time… we leave that for some other time later."***
+> **Do not derive, propose, or assume an extent figure in the meantime.** **This item stays ranked #1 and
+> stays OPEN.**
 
 **⚠ Already producing a live, unresolved implausibility:** **Sayowa's own spec has run the division and
 recorded *"225,376 people on ~4–5 km² is ~50,000/km² — the implausibility…"*** and **Cape Adare's spec says
@@ -159,9 +186,29 @@ Troll, Vostok, Zukelli
 **These 7 specs have no monthly table at all** — the `### Annual Climate` block exists, but the 12-row
 Month/Temp/Precip/Daylight table is absent entirely. **`T1-G2`, the near-universal primary generator.**
 
-> ⭐ **The data may already exist.** `Reference/Real-World/Climate Data/READER/` holds 37 per-city files —
-> **but they are named for the REAL-WORLD STATION, not the Tepenian city** (`Aboa.md`, `Bharati_TBD.md`).
-> **Check there before researching from scratch, using the alias set.**
+> ### ⭐ PART OF THIS IS ALREADY SOURCED — but measure the claim before relying on it
+> **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`
+> holds 37 per-city files** — **BAS READER, WMO 1991–2020 standard normals, with citation.** ***Registered in
+> `00_RUNBOOK.md` §C.9 and at the point of use in §C.8c Phases 1 and 3 — it had been registered NOWHERE.***
+>
+> ⛔ **MOST FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE CITY** — `Aboa.md` ·
+> `Princess_Elizabeth.md` *(note the `z`)* · `Sejong.md`. ***A search by Tepenian name can return nothing
+> and conclude the climate data is absent.*** **Reachable through the ALIAS SET.**
+> *(`Bharati_TBD.md` was renamed `Shirayuki.md` 2026-09-04, closing that one.)*
+>
+> ### ⚠ AND IT CLOSES ONE COLUMN OF SIX, NOT THE TABLE — checked, 2026-09-03
+> ***An earlier statement in this session that READER "already holds the data" for six of the seven was too
+> strong, and is corrected here.*** **All 37 files were checked: `0` contain precipitation or daylight.**
+>
+> | Template column | Source |
+> |---|---|
+> | **Avg Temp (°C)** | ✅ **READER** — authoritative, cited |
+> | **Avg Daylight (hrs)** | ⭐ **DERIVABLE — astronomy, not measurement.** Computable from latitude, which the specs already carry in `**Based on:**` |
+> | Temp Range · Avg Precip · Precip Probability · Notes | ❌ **still requires research** |
+>
+> **⛔ DENISON HAS NO READER FILE, and no real-world climate source anywhere in the repo.** ***It is the only
+> one of the seven that is unsourced*** — and it is simultaneously the sole city missing **founding
+> population**, a Tier 1 spine generator. **Denison is the corpus's weakest-covered city on two axes at once.**
 
 **MISSING (7):** Denison, Juan Carlos, Port Lockroy, Scott, Shirayuki, Zhongshan, Zukelli
 
@@ -217,13 +264,20 @@ not a gap.***
 >    institution from one that is not.** **⛔ Do not resolve this here — it is Phase 5/Phase 6 material for
 >    Dome Fuji's own pass, and the placeholder faith name is unratified.**
 
-## ⏸️ STILL OPEN — three map-checkable questions
+## ✅ ALL THREE MAP-CHECKABLE QUESTIONS ANSWERED — 2026-09-03, developer
 
-| # | Question | Why it matters |
+| # | Question | Answer |
 |--:|---|---|
-| **1** | **Confirm no marker at the six unstated cities** *(the file says exactly ten markers, so this should be a formality)* | closes the Gate C negative for all six at once |
-| **2** | **Abowasa — served via Troll?** Real-world Aboa/Wasa are; both sit in the Halley subnet, and Troll has a confirmed airport | changes its line from `no air access` to `served, not host` — the shape the file already uses for Juan Carlos / Machu Picchu |
-| **3** | **Palmer City** — `SEA-LINK` by road **and** no airport? | would make the Federation's **first settlement and pre-war cultural capital reachable ONLY by boat** |
+| **1** | No marker at the six unstated cities? | ✅ **Confirmed by the file's own 1:1 reconciliation** — ten markers, ten rows, against both map images. **No further marker exists.** All 23 no-access cities are now named |
+| **2** | Abowasa — served via Troll? | ✅ ***"Air access via either Troll or Belgrano. The earlier point-of-contact is Troll."*** **Now a `Served, Not Host` row.** ⚠ **The city's name remains provisional** |
+| **3** | Palmer City — `SEA-LINK` and no airport? | ✅ **Confirmed, with a two-era reason that is new canon** — early **incapacity** *("didn't have the materials and infrastructure")*, later **deliberate policy** *("kept 'air-disconnected'… to make it harder for anyone from Upper Earth with ill intentions to sneak in")*. **Necessity Before Meaning, occurring in canon** |
+
+> ### ⚠ THIS BLOCK WAS STALE FOR PART OF THE SESSION — logged, not quietly fixed
+> **It read "STILL OPEN — three map-checkable questions" after all three had been answered.**
+> ***That is the fourth stale self-report found in this audit***, alongside the census's Denison note, `§D`'s
+> *"all verified to exist,"* and `Airports.md`'s *"Juan Carlos is deliberately NOT listed here."*
+> **Gate 0 fails in both directions, and "still open" is the direction nobody checks** — an over-claim of
+> completion gets caught; **an under-claim just quietly wastes the next session's time.**
 
 # 6. ✅ RESOLVED — NAMED IN `Highways.md` *(was 3 of 37; **never a gap**)*
 

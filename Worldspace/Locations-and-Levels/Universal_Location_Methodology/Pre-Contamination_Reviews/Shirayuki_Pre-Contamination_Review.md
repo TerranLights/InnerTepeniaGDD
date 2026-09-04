@@ -4,7 +4,44 @@
 **Built:** 2026-09-02 · **Mechanism:** `../00_RUNBOOK.md` §C.4 · **Readers:** 1 vector-1 scanner + 1 roster
 scout reported; **3 coordinate taggers in flight**
 
-# ✅ Status: **CONFIRMED** — 2026-09-03, against the SEVEN-requirement bar
+# ⛔ Status: **DRAFT** — demoted 2026-09-03. *(Was `CONFIRMED` against the SEVEN-requirement bar.)*
+
+> # ⛔⛔ DEMOTED FOR TWO INDEPENDENT REASONS. **Both are scope, neither is a mis-tag.**
+> **`§C.4`: *"A COUNT THAT HAS RISEN MEANS A SOURCE JOINED, AND THE REVIEW IS `DRAFT` AGAIN."***
+>
+> ### 1. The scope pin no longer re-verifies
+> **Re-run 2026-09-03: `scope_pin_reverifies = false` — 4 roots changed, `+21` files, and `23` sources now
+> match that the recorded pin does not account for.** ***This is Run 14's killer at greater scale — Run 14
+> had 18 unmapped sources; this has 23.***
+>
+> ### 2. ⭐ THE ENUMERATION IT WALKED WAS ITSELF INCOMPLETE — and this one is new
+> **§8 records *"34 of 34 roots, no omissions."*** ***That was true against the list as written, and the list
+> was missing two sections.***
+>
+> **`Step −2`, `§C.4` requirement 6 and Brief B's `STEP 1` all told the scout to walk
+> `§B · §C · §C.1 · §C.6 · §D`.** **They did not name `§C.7` (the symbol-system register) or `§C.9` (the
+> real-world research register — ~90 files across nine subfolders, including a 37-file climate set).**
+> ***Both existed. Neither was swept. The scout was not at fault — it walked exactly what it was given.***
+>
+> > ## **A completeness claim is only ever as complete as the enumeration it was scoped to.**
+> > **"34 of 34 roots, no omissions" and "the registry was not fully enumerated" were both true at once.**
+> > **Fixed 2026-09-03 in all three places — the list now reads `§B · §C · §C.1 · §C.6 · §C.7 · §C.9 · §D`.**
+>
+> ### ⛔ WHAT THE NEXT SESSION MUST DO BEFORE REUSING THIS FILE
+> 1. **Re-run the Brief B scout against the CORRECTED root list**, including `§C.7` and `§C.9`.
+> 2. **Re-take the scope pin** and tier the 23 joined sources.
+> 3. ⚠ **`§C.9` is alias-keyed.** `Climate Data/READER/` names files for the **real-world station**
+>    (`Bharati_TBD.md`), never the city. **A sweep on the Tepenian name alone returns a false negative.**
+>
+> ### 📁 Three reference files now exist and are registered — a scout should know they are there
+> **All three in `../` alongside the runbook, and in its "Where everything lives" table:**
+> **`ULM_Input_Required_Reference.md`** *(the bar — every required input, with absolute addresses and
+> mechanical presence tests)* · **`ULM_Input_Available_Audit.md`** *(the measurement, all 37 cities)* ·
+> **`Location_Data-Input_To-Do.md`** *(what is still missing, ranked)*.
+> ⚠ **They are intended `ADMISSIBLE` but that is not a ruling** *(`05` §6.1d)* — **map them before a cold
+> deriver reads them.**
+
+## Historical status line *(superseded by the box above)* — ✅ **CONFIRMED** — 2026-09-03, seven-requirement bar
 ## ⭐ RE-CONFIRMED by **Run 15**, 2026-09-03 — **but the SUPPLY it clears is far smaller than §9a suggests. READ §11 BEFORE USING THIS FILE.**
 > **Run 15 re-verified both pins, re-ran the registry scout, mapped 8 further sources 3-of-3, and ran
 > requirement 7 on them.** ***Requirements 1–7 hold. What changed is not the STATUS but the YIELD:***

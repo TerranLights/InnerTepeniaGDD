@@ -20,7 +20,7 @@
 | Significant | USA, Thailand, Vietnam, Philippines, Malaysia, New Zealand, Belarus |
 | Notable | Germany, France, UK, Italy, Canada, Spain, Mexico, Poland, Netherlands, Belgium, Sweden, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -85,6 +85,16 @@ Two districts break significantly from this pattern: **Capricorn** (the industri
 
 ### Annual Climate
 
+> ### ⭐⭐ ALTITUDE IS A SEPARATE HAZARD FROM COLD — see the dedicated file
+> **`Worldspace/Locations-and-Levels/Concordia-City/Concordia_Altitude_and_Atmosphere.md`**
+>
+> **Concordia sits at 3,233 m, but polar air is thin: physiologically this is ~3,800 m.**
+> ⛔ **Humans do NOT acclimatize** — residents live permanently at **91–94% arterial oxygen
+> saturation**, indefinitely. **The city is HEATED (+22 °C) but deliberately NOT PRESSURIZED**,
+> because sea-level interiors would leave the population unable to go outside at all.
+> ⭐ **Robots are wholly unaffected — which makes them the city's entire practical mobility.**
+
+
 **Climate data source:** IPEV/ENEA (French-Italian Antarctic Program) — BAS READER (1991–2020 WMO standard normal, 16 years; full record 2005–2026)  _https://legacy.bas.ac.uk/met/READER/_
 
 *(Research note: verify all figures against Concordia Station climate records — Météo France / IPEV / PNRA are the primary operators. NOAA and the European Centre for Medium-Range Weather Forecasts (ECMWF) also publish Dome C data.)*
@@ -92,30 +102,48 @@ Two districts break significantly from this pattern: **Capricorn** (the industri
 **Climate type:** Polar desert — East Antarctic Plateau
 **Mean annual temperature:** -52.7°C  _(READER station: Concordia; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest month (August) avg −65°C; warmest month (December/January) avg −27°C
-**Record extremes:** record low approximately −84°C (among the coldest surface temperatures ever recorded outside Dome Argus / Plateau Station); record high approximately −10°C (rare summer peak)
-**Prevailing winds:** winds radiate outward from the dome rather than being channeled; average 3–5 m/s (relatively calm by Antarctic standards — dome sites are calmer than slope or coastal stations); blizzards occur but less frequently than at coastal or ice-shelf sites
-**Annual precipitation:** approximately 26–30 mm water equivalent; almost exclusively fine compacted snow and diamond dust (suspended ice crystal precipitation); effectively a polar desert despite sitting atop one of the world's largest ice sheets
-**Polar night:** approximately May 11 → August 1 (~82 days of no sun)
-**Midnight sun:** approximately November 9 → February 2 (~85 days of continuous daylight)
+**Record extremes:** record high **−5.4 °C** (January); record low **−84.6 °C** (August 2010) — *among the coldest temperatures ever recorded on Earth* *(researched 2026-09-04)*
+**Prevailing winds:** ⭐ **typical winter wind only ~2.8 m/s** — the Dome C plateau sits *above* the katabatic regime that scours the coast, making this the calmest city in Tepenia despite being the coldest *(researched 2026-09-04)*
+**Annual precipitation:** **~25 mm** water equivalent annually — among the driest inhabited places on Earth; the plateau receives almost no moisture-bearing air *(researched 2026-09-04; monthly distribution below remains derived)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **PLATEAU** — *snow is a deposit, not weather*
+**Falls (reaches the surface):** ~25 mm/yr
+**Lands (accumulates and stays):** **~22 mm/yr** *(~90% retention)*
+**Lost to sublimation and wind transport:** ~3 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-52.7 °C** it is the **#4 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**mean wind 2.8 m/s**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately May 5 → Aug 10 (~98 days of no sun)
+**Midnight sun:** approximately Nov 1 → Feb 11 (~103 days of continuous daylight)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | -31.3  | −20 to −38 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
-| Feb | -43.3  | −29 to −50 | 2.5 | ~5% | 17–21 | Sun begins to set; rapid cooling |
-| Mar | -55.3  | −44 to −65 | 2.5 | ~5% | 9–17 | Sharp autumn temperature drop |
-| Apr | -62.1  | −51 to −73 | 2.0 | ~5% | 3–9 | Sun very low on horizon; near-twilight |
-| May | -63.1  | −53 to −75 | 2.0 | ~5% | 0–3 | Polar night begins ~May 11 |
-| Jun | -64.1  | −54 to −76 | 2.0 | ~5% | 0 | Full polar night |
-| Jul | -63.2  | −55 to −78 | 2.0 | ~5% | 0 | Full polar night; coldest month |
-| Aug | -63.3  | −55 to −84 | 2.0 | ~5% | 0–3 | Polar night ends ~Aug 1; record lows possible in coldest years |
-| Sep | -61.2  | −50 to −72 | 2.5 | ~5% | 7–12 | Sun returns; abrupt warming begins |
-| Oct | -54.5  | −37 to −58 | 2.5 | ~5% | 12–20 | Rapid warming; transition to summer |
-| Nov | -40.6  | −23 to −45 | 2.5 | ~5% | 20–24 | Midnight sun begins ~Nov 9 |
-| Dec | -30.7  | −20 to −38 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | −5.4 | −24.9 | -31.3 | −37.5 | −49.8 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+| Feb | −12.9 | −33.7 | -43.3 | −47.7 | −60 | 2.5 | ~5% | 21.0 | Sun begins to set; rapid cooling |
+| Mar | −11.5 | −48.7 | -55.3 | −59.4 | −74.2 | 2.5 | ~5% | 13.7 | Sharp autumn temperature drop |
+| Apr | −32.9 | −58.5 | -62.1 | −65.4 | −78 | 2.0 | ~5% | 7.4 | Sun very low on horizon; near-twilight |
+| May | −28.5 | −62 | -63.1 | −68.7 | −79.6 | 2.0 | ~5% | 0 | Polar night begins ~May 5 |
+| Jun | −30.2 | −58.9 | -64.1 | −65.8 | −82.2 | 2.0 | ~5% | 0 | Full polar night |
+| Jul | −25.4 | −58.4 | -63.2 | −66 | −84.1 | 2.0 | ~5% | 0 | Full polar night; coldest month |
+| Aug | −26.5 | −57.8 | -63.3 | −65.8 | −84.6 | 2.0 | ~5% | 3.5 | Polar night ends ~Aug 10; record lows possible in coldest years |
+| Sep | −30.3 | −54.1 | -61.2 | −65.2 | −81.9 | 2.5 | ~5% | 10.7 | Sun returns; abrupt warming begins |
+| Oct | −23.1 | −44.8 | -54.5 | −59.8 | −74 | 2.5 | ~5% | 16.9 | Rapid warming; transition to summer |
+| Nov | −17 | −32.5 | -40.6 | −46.2 | −61.9 | 2.5 | ~5% | 24 | Midnight sun begins ~Nov 1 |
+| Dec | −9.4 | −24.8 | -30.7 | −36.1 | −45.9 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+
+***Monthly record extremes (Concordia, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Concordia, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

@@ -21,7 +21,7 @@
 | Significant | Japan, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, South Africa, New Zealand, Belarus |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -52,7 +52,7 @@
 
 Mirny sits on the Davis Coast of East Antarctica at 66°33'S — within seconds of arc from the exact latitude of the Antarctic Circle (66°33'26"S). For practical purposes, Mirny is on the line. This is not a coincidence that Tepenian culture ignores; it is the defining geographic fact of the city, the thing that gives it its specific identity within the Federation.
 
-The Antarctic Circle is the latitude below which the sun does not rise on the winter solstice and does not set on the summer solstice. Cities north of the circle — Casey, Palmer City, Signy — never experience polar night or midnight sun. Cities south of it — Janbogo, Concordia, Amundsen Station — always do, with the duration scaling to their latitude. Mirny experiences both phenomena in their minimal form: on the winter solstice, the sun grazes the horizon for a few minutes at solar noon and disappears; on the summer solstice, it grazes the horizon at solar midnight and returns. For those few days around each solstice, Mirny stands at the exact edge of what the polar zone does.
+The Antarctic Circle is the latitude below which the sun does not rise on the winter solstice and does not set on the summer solstice. Cities north of the circle — Casey, Palmer City, Signy — never experience polar night or midnight sun. Cities south of it — Janbogo, Concordia, Amundsen Station — always do, with the duration scaling to their latitude. Mirny sits essentially *on* the circle — and the result is asymmetric rather than balanced. *(Rewritten 2026-09-04; this passage previously claimed Mirny "experiences both phenomena in their minimal form," which is wrong.)* **Because atmospheric refraction and the sun's own width raise the apparent sun by about 0.833°, the polar-night boundary and the midnight-sun boundary are not the same line — they sit roughly 0.8° apart.** **Mirny falls between them.** On the winter solstice the sun does clear the horizon, low and briefly, and then sets: **there is no polar night here at all.** On the summer solstice it never sets, and it does not set for nearly a month either side: **~29 days of midnight sun.** ⭐ *Mirny does not stand at the edge of what the polar zone does; it stands in the gap where only half of it happens.*
 
 The coast here is rocky and exposed. Katabatic winds off the East Antarctic ice sheet funnel toward the coast with significant force — Mirny is among the windiest locations in Antarctica, with sustained wind events that define outdoor conditions for much of the year. The sea freezes seasonally; maritime access is possible during the navigable window but not year-round.
 
@@ -69,28 +69,59 @@ The station is named after the sloop *Mirny* — one of the two ships in Fabian 
 **Temperature range:** coldest months (July/August) avg −22°C; warmest month (January) avg +1°C
 **Record extremes:** record low approximately −45°C; record high approximately +8°C
 **Prevailing winds:** katabatic from the south and southeast (off the East Antarctic plateau); Mirny is one of the windiest coastal stations in Antarctica; average wind speeds 10–14 m/s; sustained storms exceeding 40 m/s (144 km/h) have been recorded; wind is the dominant environmental feature of this city
-**Annual precipitation:** approximately 350–500 mm water equivalent; predominantly snow; some rain possible in warmest summer periods
-**Polar night:** approximately June 19 → June 23 (roughly 4–5 days around the winter solstice — the minimal polar night of a city exactly on the Antarctic Circle; atmospheric refraction extends this slightly beyond the geometric calculation)
-**Midnight sun:** approximately December 19 → December 23 (roughly 4–5 days around the summer solstice — the minimal midnight sun)
+**Annual precipitation:** **527.1 mm** water equivalent _(Mirny; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~527 mm/yr
+**Lands (accumulates and stays):** **~200 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~327 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.2 °C** **20 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 12.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** ⛔ **none** *(corrected 2026-09-04 — previously "approximately June 19 → June 23, roughly 4–5 days")*
+**Midnight sun:** ⭐ **approximately December 8 → January 5 (~29 days)** *(corrected 2026-09-04 — previously "roughly 4–5 days")*
+
+> ### ⚠ Corrected 2026-09-04 — **the two are not symmetric, and Mirny is the clearest case of it.**
+> The old entry gave **4–5 days of each**, reasoning that a city sitting exactly on the Antarctic Circle
+> gets both phenomena in equally minimal form. **It also invoked refraction — but applied it in the wrong
+> direction**, saying refraction *"extends"* the polar night. **Refraction does the opposite.**
+>
+> **Refraction plus the sun's semidiameter raise the apparent sun ~0.833°.** That **shortens polar night
+> and lengthens midnight sun**, pushing the two boundaries ~0.8° apart. **At 66°33'S Mirny sits north of
+> the polar-night boundary and well south of the midnight-sun one.**
+>
+> ⭐ **So Mirny gets no polar night at all — and nearly a month of midnight sun.** ***The symmetry the old
+> entry was built on does not exist at any latitude.*** *(Casey, Dumont d'Urville and Denison are the other
+> cities in this asymmetric band.)*
 **Winter solstice daylight minimum:** approximately 0 hours (the sun grazes the horizon at solar noon on June 21 but does not technically clear it — or just barely does; the exact behavior depends on atmospheric conditions and refraction)
 **Summer solstice daylight maximum:** approximately 24 hours (the sun grazes the horizon at solar midnight but does not set — or just barely sets; same refraction dependency as winter)
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | -2.0  | −5 to +7 | 42 | ~40% | 21 | Warmest period; brief rain possible |
-| Feb | -5.2  | −9 to +3 | 40 | ~40% | 16 | Days shortening; katabatics intensifying |
-| Mar | -10.5  | −16 to −2 | 38 | ~35% | 11 | Autumn; sea ice beginning to form |
-| Apr | -13.9  | −22 to −8 | 32 | ~30% | 6 | Rapid darkening; cold arriving |
-| May | -15.8  | −27 to −11 | 28 | ~30% | 2.5 | Near-darkness; strong katabatic season |
-| Jun | -15.4  | −29 to −13 | 26 | ~28% | ~0* | *Winter solstice: sun grazes horizon; polar night in minimal form |
-| Jul | -16.3  | −30 to −14 | 26 | ~28% | 1.5 | Coldest month; intense katabatic winds |
-| Aug | -16.4  | −29 to −13 | 28 | ~28% | 4 | Cold and windy; days beginning to lengthen |
-| Sep | -15.9  | −24 to −10 | 32 | ~30% | 9 | Spring; katabatics moderating |
-| Oct | -13.4  | −18 to −4 | 36 | ~35% | 15 | Warming; sea ice breaking up |
-| Nov | -6.8  | −10 to +2 | 40 | ~40% | 20 | Long days; conditions improving |
-| Dec | -2.7  | −6 to +6 | 42 | ~40% | ~24* | *Summer solstice: sun grazes horizon at midnight; midnight sun in minimal form |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +6.3 | +1.1 | -2.0 | −4.6 | −9.3 | 14.8 | ~26% | 21.3 | Warmest period; brief rain possible |
+| Feb | +3 | −1.8 | -5.2 | −8.4 | −13.1 | 17.1 | ~25% | 16.6 | Days shortening; katabatics intensifying |
+| Mar | +1.2 | −6.9 | -10.5 | −13 | — | 31.2 | ~21% | 13.0 | Autumn; sea ice beginning to form |
+| Apr | −3.5 | −10.8 | -13.9 | −16.7 | −18.6 | 43.5 | ~34% | 9.3 | Rapid darkening; cold arriving |
+| May | — | −12.3 | -15.8 | −18.5 | — | 57.3 | ~40% | 5.6 | Near-darkness; strong katabatic season |
+| Jun | — | −12.2 | -15.4 | −18.3 | — | 70.3 | ~44% | 2.4 | *Winter solstice: sun grazes horizon; polar night in minimal form |
+| Jul | — | −13.3 | -16.3 | −19.6 | — | 71.7 | ~25% | 3.8 | Coldest month; intense katabatic winds |
+| Aug | −5.7 | −13.8 | -16.4 | −20.2 | −27.4 | 62.1 | ~30% | 7.6 | Cold and windy; days beginning to lengthen |
+| Sep | −7.3 | −13.2 | -15.9 | −19.3 | — | 57.9 | ~34% | 11.2 | Spring; katabatics moderating |
+| Oct | −2.3 | −9.8 | -13.4 | −16.6 | −23.1 | 43.5 | ~32% | 14.9 | Warming; sea ice breaking up |
+| Nov | +2.7 | −3.7 | -6.8 | −10.3 | −13.9 | 34 | ~29% | 19.1 | Long days; conditions improving |
+| Dec | +8.7 | +0.4 | -2.7 | −5.5 | −7.8 | 23.7 | ~22% | 24* | *Summer solstice: sun grazes horizon at midnight; midnight sun in minimal form |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089592** (MIRNYJ), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (Mirny, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089592. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

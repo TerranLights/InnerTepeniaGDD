@@ -31,7 +31,7 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 | Significant | Germany, France, UK, Brazil |
 | Notable | Argentina, South Africa *(founding wave)*, Chile, Uruguay |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -73,25 +73,48 @@ The Shackleton connection: the Endurance expedition (1914–1916) made its histo
 
 **Climate type:** Maritime sub-Antarctic — north of the Antarctic Circle; the mildest climate in the Palmer subnet; oceanic influence dominant; significant precipitation; fog common; strong westerly winds off the Scotia Sea
 **Mean annual temperature:** -3.8°C  _(READER station: Signy; 1991–2020 WMO standard normal)_
+**Record extremes:** record high **+19.8 °C** — *the Antarctic region record high, 30 January 1982* — record low **−39.3 °C** *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −10°C; warmest month avg +3°C; above-freezing temperatures common in summer; liquid precipitation (rain) frequent
 **No polar night; no midnight sun** — at 60°43'S; winter minimum daylight ~6–7 hours; summer maximum ~18–19 hours
-**Annual precipitation:** approximately 600–800mm; one of the wetter Tepenian locations; mix of snow and rain year-round; fog very common
+**Winter solstice daylight minimum:** approximately 5.6 hours
+**Summer solstice daylight maximum:** approximately 19.1 hours
+**Annual precipitation:** **663 mm** water equivalent _(proxy: Orcadas, Laurie Island (~48 km, same South Orkney group); measured monthly normals — see table)_ *(researched 2026-09-04)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **MARITIME** — *genuinely wet; precipitation behaves temperately*
+**Falls (reaches the surface):** ~663 mm/yr
+**Lands (accumulates and stays):** **~530 mm/yr** *(~80% retention)*
+**Lost to sublimation and wind transport:** ~133 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-3.8 °C** this is among the mildest cities in the Federation (**32 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Prevailing winds:** strong westerlies off the Scotia Sea; the most wind-exposed Palmer subnet city; the open-ocean position provides no shelter
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | +1.7  | −2 to +8 | 70 | ~62% | 18 |
-| Feb | +1.4  | −3 to +7 | 68 | ~60% | 14 |
-| Mar | -0.4  | −6 to +4 | 65 | ~58% | 11 |
-| Apr | -1.8  | −9 to +1 | 62 | ~56% | 7 |
-| May | -6.5  | −12 to −2 | 58 | ~54% | 6 |
-| Jun | -9.8  | −14 to −4 | 55 | ~52% | 6 |
-| Jul | -12.5  | −15 to −5 | 55 | ~52% | 6 |
-| Aug | -7.9  | −14 to −4 | 58 | ~54% | 8 |
-| Sep | -5.6  | −11 to −1 | 62 | ~56% | 12 |
-| Oct | -3.9  | −7 to +3 | 65 | ~58% | 16 |
-| Nov | -1.0  | −4 to +6 | 68 | ~60% | 18 |
-| Dec | +0.9  | −2 to +8 | 70 | ~62% | 18 |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +12 | +3.6 | +1.7 | −0.7 | −7.7 | 44 | ~58% | 18.2 |  |
+| Feb | +12.3 | +3.4 | +1.4 | −0.4 | −7.9 | 74 | ~71% | 15.5 |  |
+| Mar | +10.9 | +2.4 | -0.4 | −1.6 | −14.4 | 73 | ~68% | 12.8 |  |
+| Apr | +12.6 | +0.4 | -1.8 | −4.1 | −24 | 73 | ~67% | 9.9 |  |
+| May | +8.8 | −2 | -6.5 | −8.1 | −30.2 | 63 | ~65% | 7.4 |  |
+| Jun | +9.8 | −3.9 | -9.8 | −11.3 | −39.8 | 52 | ~60% | 5.7 |  |
+| Jul | +10 | −5.3 | -12.5 | −14.1 | −36 | 45 | ~55% | 6.3 |  |
+| Aug | +9 | −4.1 | -7.9 | −12.4 | −44 | 52 | ~58% | 8.7 |  |
+| Sep | +10.5 | −2 | -5.6 | −9.8 | −30.8 | 48 | ~63% | 11.4 |  |
+| Oct | +9.6 | +0.6 | -3.9 | −6 | −27.6 | 48 | ~65% | 14.2 |  |
+| Nov | +12.6 | +2.5 | -1.0 | −3.2 | −16.7 | 45 | ~63% | 17.1 |  |
+| Dec | +11.6 | +3 | +0.9 | −1.7 | −8.7 | 46 | ~58% | 19.1 |  |
+
+***Monthly record extremes (PROXY — Orcadas, Laurie Island (~48 km), researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (PROXY — Orcadas, Laurie Island (~48 km, same South Orkney group), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
 
 #### Notable Weather Phenomena
 - **Scotia Sea gales:** the open-ocean westerlies are the dominant meteorological fact of Signy's existence; sustained strong winds are the norm rather than the exception

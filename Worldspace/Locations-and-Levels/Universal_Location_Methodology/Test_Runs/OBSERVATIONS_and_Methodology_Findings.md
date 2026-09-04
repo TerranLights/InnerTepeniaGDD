@@ -5507,3 +5507,67 @@ pull/push-vulnerability technique, a genuine *candidate mechanism* for the still
 what the orbital migration was). **That candidate didn't resolve the mystery** (the same pull factor is
 shared with higher-retaining neighbors), but it would never have surfaced at all if the attract question had
 stayed skipped.
+
+---
+
+# M-140
+
+## A DERIVED VALUE THAT LOOKS LIKE A MEASURED ONE IS WORSE THAN A BLANK. **Climate pass, 2026-09-04, all 37 cities.**
+
+**Found 2026-09-04, climate pass, all 37 cities.** **Measured: of the six columns in every city's monthly
+climate table, only TWO carry anything real.** `Avg Temp` is a BAS READER WMO normal; `Avg Daylight` is
+computable from latitude. **`Temp Range`, `Avg Precip` and `Precip Probability` are invented in every spec
+in the corpus** — and they are formatted identically to the two real ones.
+
+**Why this is a methodology finding and not a data gap:** ***the table's format asserts a provenance the
+content does not have.*** A `Precip Probability` of `~38%` reads as a measurement. Nothing underlies it
+anywhere. **A pass consuming that column at `G2`/Phase 3 has no way to know it is consuming its own
+predecessor's guess** — and a later pass that "verifies against the spec" will confirm it.
+
+> ### ⭐ THE RULE: **a table that mixes measured and derived values MUST say which is which, per column, in
+> the table.** **Not in a header note, not in a research log — adjacent to the numbers.**
+
+**Precedent this generalizes:** `04`'s standing rule that QA scan output is pasted raw and never summarized
+exists for the same reason — **to stop a downstream reader from mistaking a derived artifact for an
+observation.** *(The seven specs written 2026-09-04 carry a per-column provenance line; the other thirty do
+not, and that is now a tracked open item.)*
+
+---
+
+# M-141
+
+## THE MEASURING INSTRUMENT FAILED FLATTERINGLY, TWICE, IN ONE PASS. **37-city climate audit, 2026-09-04.**
+
+**Found 2026-09-04, during the 37-city climate audit.** The audit script computing polar night and midnight
+sun had **two bugs, both at the South Pole**, where its general formula divides by `cos(latitude) = 0`:
+a **sign inversion** *(it reported January at Amundsen Station as 0 hours of daylight — the pole's peak
+summer)*, and then, after that fix, an **omitted refraction correction**.
+
+⛔ **Effect: the tool reported Amundsen Station's light cycle as badly wrong. It is correct.** **The pass
+came within one step of "correcting" an accurate file into an inaccurate one.**
+
+> ### ⭐⭐ NOTE THE DIRECTION. **The broken tool manufactured a dramatic finding.** It did not report a
+> false clean bill; **it reported false WORK TO DO** — an audit that justifies its own existence.
+
+**This project has now measured self-audit error running toward the flattering answer on every occasion it
+has been checked** *(`04` III.0 records four prior instances; the 2026-09-03 monthly-climate test that
+returned a false 37/37 is a fifth; this is a sixth, in the opposite surface direction but the same
+underlying one — the instrument produced the result that made the pass look valuable)*.
+
+### ⭐ WHAT CAUGHT IT — and this is the transferable part
+
+**The model was run against two cities that were NOT being edited** — Rothera *(spec: ~16 days polar night;
+computed: 15)* and Belgrano *(spec: ~116; computed: 116)* — **before a single file was changed.** Those
+agreements established that the corpus convention was refraction-corrected. **The pole bug was then visible
+as an outlier against a validated baseline rather than as one finding among twenty-two.**
+
+> ### THE RULE: ***before an instrument is used to correct a corpus, run it against cases the corpus
+> already gets right, and require agreement.*** **A tool validated only on the cases it flags has been
+> validated on nothing.** *(Cheap: two cities, no extra research. It is what separated 22 real errors from
+> one fabricated one.)*
+
+### ⚠ And the secondary lesson — implausible magnitude is a signal about the TOOL
+
+The first bug was noticed because *"January at the South Pole has zero daylight"* is obviously false. **The
+error was caught by domain sense, not by the harness.** **A finding whose magnitude is too large to be
+plausible should be treated as evidence against the instrument first, and against the corpus second.**

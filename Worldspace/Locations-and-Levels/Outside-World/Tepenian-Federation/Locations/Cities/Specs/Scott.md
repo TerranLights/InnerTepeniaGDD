@@ -21,7 +21,7 @@
 | Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(founding operator heritage)*, Chile |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -58,13 +58,61 @@ The proximity to Fort McMurdo was both the defining fact of Scott's existence an
 
 **Climate data source:** Antarctica New Zealand — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_
 
-Scott's climate is essentially identical to Fort McMurdo's — the two cities are approximately three kilometers apart on the same island at the same elevation. See `Specs/Fort_McMurdo.md` → Annual Climate for full data.
+> **⚠ Corrected 2026-09-04.** This section previously read *"essentially identical to Fort McMurdo's … see
+> `Specs/Fort_McMurdo.md` for full data"* and carried no table of its own. **The two are not identical.**
+> READER gives **Scott_Base −19.6 °C** against **McMurdo −16.2 °C** — a **3.4 °C** annual gap between
+> stations three kilometers apart, and a gap that widens to **4.6 °C in March** and **4.3 °C in August**.
+> The cause is siting, not distance: Scott Base sits on the *southern*, ice-shelf side of Hut Point
+> Peninsula with the Ross Ice Shelf outflow across it, while McMurdo faces north into the Sound. **Scott is
+> the colder city, and it is colder for a reason its own geography supplies.** Full table below; the
+> pointer to Fort McMurdo is withdrawn.
 
-Key figures for reference:
-- Mean annual temperature: −19.6°C  _(READER station: Scott_Base; 1991–2020 WMO standard normal, 30 years)_
-- Polar night: approximately April 24 → August 20 (~118 days)
-- Midnight sun: approximately October 25 → February 18 (~116 days)
-- Prevailing winds: katabatic from the south and southwest; coastal storm influence
+**Climate type:** Continental polar, Ross Ice Shelf exposure — the same island as Fort McMurdo, the colder side of it
+**Mean annual temperature:** -19.6°C  _(READER station: Scott_Base; 1991–2020 WMO standard normal)_
+**Record extremes:** record high **+6.8 °C**; record low **−57 °C** *(researched 2026-09-04)*
+**Temperature range:** coldest month (August) avg −29.5°C; warmest month (January) avg −4.6°C
+**Prevailing winds:** katabatic from the south/southwest off the Ross Ice Shelf; **blizzard mean winds 95–115 km/h, gusts to 185 km/h** *(researched 2026-09-04)*
+**Annual precipitation:** **184 mm** water equivalent _(Scott Base (1991-2020); measured monthly normals — see table)_ *(researched 2026-09-04)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~184 mm/yr
+**Lands (accumulates and stays):** **~70 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~114 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-19.6 °C** **9 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 7.5 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately April 26 → August 19 (~116 days)
+**Midnight sun:** approximately October 24 → February 19 (~119 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +8.3 | −1.3 | -4.6 | −7.9 | −15.6 | 18 | ~12% | 24 | Midnight sun; warmest period; sea ice breakup |
+| Feb | +6.1 | −7.4 | -11.2 | −14.8 | −29.4 | 21 | ~21% | 24 | Midnight sun ends ~Feb 19; sharp drop |
+| Mar | −1.1 | −15.9 | -20.6 | −25 | −43.3 | 14 | ~18% | 14.1 | Steepest fall of the year — 9.4 °C in one month |
+| Apr | −3.9 | −18.9 | -24.8 | −30.2 | −42.2 | 16 | ~23% | 6.0 | Polar night begins ~Apr 26 |
+| May | −2.8 | −19.8 | -26.2 | −31.7 | −45 | 23 | ~24% | 0 | Full polar night |
+| Jun | −4.4 | −20 | -25.9 | −31.5 | −43.9 | 22 | ~24% | 0 | Full polar night; slight midwinter plateau |
+| Jul | −4.4 | −22.3 | -28.8 | −34.9 | −50.6 | 13 | ~21% | 0 | Full polar night |
+| Aug | −4.4 | −22.8 | -29.5 | −35.8 | −49.4 | 12 | ~21% | 0 | Coldest month; polar night ends ~Aug 19 |
+| Sep | −4.4 | −20.5 | -26.8 | −32.9 | −43.9 | 11 | ~18% | 10.4 | Sun returns; cold persists |
+| Oct | +4.4 | −15.3 | -20.4 | −25.3 | −40 | 13 | ~16% | 18.4 | Warming; sea ice beginning to break |
+| Nov | +10 | −7 | -11.1 | −15.2 | −28.3 | 12 | ~14% | 24 | Midnight sun from ~Oct 24 |
+| Dec | +9.4 | −1.3 | -4.7 | −7.9 | −22.8 | 9 | ~11% | 24 | Midnight sun; warmest period |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089664** (MCMURDO SOUND NAF), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (Scott Base (1991-2020), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089664. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
+*Polar night ~Apr 26–Aug 19 (~116 days); midnight sun ~Oct 24–Feb 19 (~119 days)*
 
 ---
 

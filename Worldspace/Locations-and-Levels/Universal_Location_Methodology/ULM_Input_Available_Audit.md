@@ -133,7 +133,15 @@ currently be run for any city in the project.***
 2. **Which phase is blocked:** Phase 0 cannot fill the `**Extent band:**` line; **Gate 11's arithmetic check
    cannot run at all**; `01` §2's population/extent divergence finding is unavailable everywhere.
 3. **What was done instead:** nothing — no pass can substitute for it, and the six site areas above are
-   *upper bounds on habitable land*, not extents.
+   facts about the real-world SITE, not the city.
+
+> ### ⛔⛔ THESE FIGURES BOUND NOTHING — standing correction, developer, 2026-09-03
+> ***"It's not necessary to only build on non-iced earth."***
+> **Tepenian cities build ON ICE, and canon already says so: Halley sits on the Brunt Ice Shelf; Neumayer is
+> *"built on the Ekström Ice Shelf rather than on bedrock."*** ***So ice-free area is NOT a ceiling on a
+> city's extent or population.*** **An earlier version of this line called them "upper bounds on habitable
+> land" — that was the error, and it has recurred across sessions.** **Full note:
+> `Location_Data-Input_To-Do.md` §1.** ⏸️ **Density and extent are DEFERRED by developer instruction.**
 4. **Sensitivity:** ⚠ **high, and it may invalidate existing texture.** Sayowa's own numbers already imply a
    density near the densest cities on Earth. **Densities are the premise of texture findings across the
    corpus** *(`04`: "before trusting any texture claim, price it against a density figure")*.
@@ -400,7 +408,8 @@ searches a space that structurally cannot contain the answer and gets a clean ne
 canon registry `§B`–`§D`, and nowhere in `03` §0.3's Phase 1 or Phase 3 canon targets*** — both of which name
 "climate data" as a required class without an address.
 
-> **And the files are named for the REAL-WORLD STATION, not the Tepenian city** — `Aboa.md`, `Bharati_TBD.md`.
+> **And most files are named for the REAL-WORLD STATION, not the Tepenian city** — `Aboa.md`, `Sejong.md`.
+> *(`Bharati_TBD.md` → `Shirayuki.md`, 2026-09-04.)*
 > ***A pass searching this folder for its subject's city name finds nothing and concludes the climate data is
 > absent.*** **It is reachable only through the alias set (`Step −2` item 1a, M-118), which is exactly the
 > mechanism that exists for this and has never been pointed at a canon folder.**

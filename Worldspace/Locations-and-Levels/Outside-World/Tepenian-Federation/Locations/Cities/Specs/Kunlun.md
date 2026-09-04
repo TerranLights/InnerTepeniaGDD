@@ -39,7 +39,7 @@
 | Significant | Canada, Japan, UK, Intermarium/Intermaria, Italy, South Korea, Germany, France |
 | Notable | New Zealand, Argentina, Sweden, Australia, Chile, Norway, Spain, South Africa, Netherlands |
 
-*Source: `Official_Population_Census.md` Sections I-III. Tiering re-derived 2026-07-06 around genuine real-world space/astronomy/communications heritage rather than population or GDP — see Founding Population Resolution, below.*
+*Source: `Official_Population_Census.md` Sections A–C. Tiering re-derived 2026-07-06 around genuine real-world space/astronomy/communications heritage rather than population or GDP — see Founding Population Resolution, below.*
 
 ### Per-Nation Breakdown — Robots (Census I only; no human population)
 
@@ -88,28 +88,48 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 **Climate type:** East Antarctic Plateau polar desert — the most extreme version; higher elevation than Vostok and Dome Fuji means colder mean temperatures; the highest and potentially coldest sustained environment in Tepenia
 **Mean annual temperature:** approximately −58°C (−72°F) — colder than Vostok (−55°C) and Dome Fuji (−54°C) due to the highest elevation of any Tepenian city
 **Temperature range:** coldest months (July/August) avg −68°C; warmest month (December/January) avg −29°C
-**Record extremes:** estimated record low approaching or exceeding −90°C; the actual surface record at Dome A from satellite measurements has been estimated at −93°C, though surface station readings differ; in Tepenia, Kunlun likely holds or contests the absolute cold record with Vostok
+**Record extremes:** winter temperatures reach **−80 °C**; satellite measurement of nearby ice-sheet sites suggests **−90 °C** is attainable, unverified at the surface *(researched 2026-09-04)*
 **Prevailing winds:** among the calmest in Antarctica — Dome A is a wind minimum due to the dome summit position; average winds 3–5 m/s; the defining hazard here is cold and altitude, not wind
 **Annual precipitation:** approximately 15–20 mm water equivalent — the driest location in Tepenia
-**Polar night:** approximately April 17 → August 25 (~130 days — longer than Dome Fuji due to more southerly latitude; similar to Concordia's ~82 days... wait, at 80°25'S this would be longer)
-**Midnight sun:** approximately October 16 → February 25 (~132 days)
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **PLATEAU** — *snow is a deposit, not weather*
+**Falls (reaches the surface):** ~20 mm/yr
+**Lands (accumulates and stays):** **~18 mm/yr** *(~90% retention)*
+**Lost to sublimation and wind transport:** ~2 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-58.0 °C** it is the **#1 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately Apr 18 → Aug 26 (~131 days — longer than Dome Fuji due to more southerly latitude; similar to Concordia's ~82 days... wait, at 80°25'S this would be longer)
+**Midnight sun:** approximately Oct 17 → Feb 26 (~133 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | −29 | −21 to −40 | 2.0 | ~4% | 24 | Midnight sun; least extreme period |
-| Feb | −41 | −32 to −53 | 2.0 | ~4% | 20 | Rapid cooling |
-| Mar | −56 | −46 to −68 | 1.5 | ~4% | 11 | Autumn; polar night approaching |
-| Apr | −63 | −52 to −75 | 1.5 | ~3% | 2 | Polar night begins ~Apr 17 |
-| May | −66 | −55 to −78 | 1.5 | ~3% | 0 | Full polar night |
-| Jun | −67 | −56 to −79 | 1.5 | ~3% | 0 | Full polar night; solstice |
-| Jul | −68 | −57 to −80 | 1.0 | ~3% | 0 | Full polar night; coldest |
-| Aug | −66 | −55 to −78 | 1.0 | ~3% | 0–3 | Polar night ends ~Aug 25 |
-| Sep | −58 | −47 to −70 | 1.5 | ~4% | 9 | Spring |
-| Oct | −44 | −34 to −56 | 1.5 | ~4% | 17 | Midnight sun approaching |
-| Nov | −31 | −22 to −42 | 2.0 | ~4% | 23 | Midnight sun approaching |
-| Dec | −29 | −21 to −40 | 2.0 | ~4% | 24 | Midnight sun |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | −31.2 | −40 | −29 | −21 | −41.8 | 2.0 | ~4% | 24 | Midnight sun; least extreme period |
+| Feb | −32.9 | −53 | −41 | −32 | −49.9 | 2.0 | ~4% | 24 | Rapid cooling |
+| Mar | — | −68 | −56 | −46 | — | 1.5 | ~4% | 14.6 | Autumn; polar night approaching |
+| Apr | −45.9 | −75 | −63 | −52 | −72 | 1.5 | ~3% | 3.4 | Polar night begins ~Apr 18 |
+| May | −48.9 | −78 | −66 | −55 | −74.4 | 1.5 | ~3% | 0 | Full polar night |
+| Jun | −56.9 | −79 | −67 | −56 | −77 | 1.5 | ~3% | 0 | Full polar night; solstice |
+| Jul | −62.4 | −80 | −68 | −57 | −76.5 | 1.0 | ~3% | 0 | Full polar night; coldest |
+| Aug | −52.4 | −78 | −66 | −55 | −71.9 | 1.0 | ~3% | 0 | Polar night ends ~Aug 26 |
+| Sep | −55.4 | −70 | −58 | −47 | −69.5 | 1.5 | ~4% | 10.0 | Spring |
+| Oct | −45.9 | −56 | −44 | −34 | −65 | 1.5 | ~4% | 21.4 | Midnight sun approaching |
+| Nov | −43.4 | −42 | −31 | −22 | −54.5 | 2.0 | ~4% | 24 | Midnight sun approaching |
+| Dec | −31.3 | −40 | −29 | −21 | −45.7 | 2.0 | ~4% | 24 | Midnight sun |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089577** (DOME PLATEAU DOME A), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+
 
 #### Notable Weather Phenomena
 

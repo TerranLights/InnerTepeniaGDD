@@ -49,7 +49,7 @@
 | Significant | Japan, Germany, UK, France, South Korea, Russia, Brazil, Indonesia, Australia |
 | Notable | Poland, Canada, Netherlands, Italy, Argentina, Mexico, Ukraine, Thailand, Romania, Czech Republic, South Africa, Philippines, Malaysia, Vietnam, Norway, Hungary, Slovakia, Finland, New Zealand, Chile, Belarus, Belgium, Sweden, Bulgaria, Croatia, Serbia, Spain, Lithuania, Slovenia, Estonia, Latvia, Uruguay |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots (Census I only; no human population)
 
@@ -123,28 +123,45 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 **Climate type:** East Antarctic Plateau polar desert — nearly identical to Concordia and Vostok; high elevation, extreme cold, minimal precipitation, calm winds
 **Mean annual temperature:** approximately −54°C (−65°F) — comparable to Concordia's mean; the slightly lower latitude than Vostok partially offsets the higher elevation
 **Temperature range:** coldest months (July/August) avg −65°C; warmest month (December/January) avg −27°C
-**Record extremes:** record low approximately −80°C; record high approximately −18°C
+**Record extremes:** summer rarely rises above **−30 °C**; winter falls to **−80 °C** *(researched 2026-09-04)*
 **Prevailing winds:** calm plateau interior; average 4–6 m/s; same pattern as Concordia and Vostok — the plateau dome location dampens wind
-**Annual precipitation:** approximately 20–25 mm water equivalent — polar desert
-**Polar night:** approximately May 3 → August 10 (~99 days — shorter than Vostok and Concordia due to slightly lower latitude)
-**Midnight sun:** approximately November 1 → February 11 (~102 days)
+**Annual precipitation:** **~25 mm** water equivalent annually — **falling entirely as ice crystals**, not snowfall *(researched 2026-09-04; monthly distribution below remains derived)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **PLATEAU** — *snow is a deposit, not weather*
+**Falls (reaches the surface):** ~25 mm/yr
+**Lands (accumulates and stays):** **~22 mm/yr** *(~90% retention)*
+**Lost to sublimation and wind transport:** ~3 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-54.0 °C** it is the **#3 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately Apr 27 → Aug 17 (~113 days — shorter than Vostok and Concordia due to slightly lower latitude)
+**Midnight sun:** approximately Oct 26 → Feb 18 (~116 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | −27 | −19 to −36 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
-| Feb | −38 | −29 to −49 | 2.5 | ~5% | 20 | Cooling rapidly |
-| Mar | −52 | −42 to −63 | 2.0 | ~5% | 12 | Autumn |
-| Apr | −60 | −50 to −71 | 1.5 | ~4% | 4 | Darkening; polar night approaching |
-| May | −64 | −53 to −75 | 1.5 | ~4% | 0 | Polar night begins ~May 3 |
-| Jun | −65 | −54 to −76 | 1.5 | ~4% | 0 | Full polar night; solstice |
-| Jul | −65 | −54 to −77 | 1.5 | ~4% | 0 | Full polar night; coldest |
-| Aug | −63 | −52 to −75 | 1.5 | ~4% | 0–3 | Polar night ends ~Aug 10 |
-| Sep | −55 | −45 to −67 | 2.0 | ~5% | 10 | Spring |
-| Oct | −41 | −31 to −53 | 2.0 | ~5% | 17 | Warming; midnight sun approaching |
-| Nov | −29 | −20 to −40 | 2.5 | ~5% | 23 | Midnight sun approaching |
-| Dec | −27 | −19 to −36 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | — | −36 | −27 | −19 | — | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+| Feb | — | −49 | −38 | −29 | — | 2.5 | ~5% | 24 | Cooling rapidly |
+| Mar | — | −63 | −52 | −42 | — | 2.0 | ~5% | 14.0 | Autumn |
+| Apr | — | −71 | −60 | −50 | — | 1.5 | ~4% | 6.3 | Darkening; polar night approaching |
+| May | — | −75 | −64 | −53 | — | 1.5 | ~4% | 0 | Polar night begins ~Apr 27 |
+| Jun | — | −76 | −65 | −54 | — | 1.5 | ~4% | 0 | Full polar night; solstice |
+| Jul | — | −77 | −65 | −54 | — | 1.5 | ~4% | 0 | Full polar night; coldest |
+| Aug | — | −75 | −63 | −52 | — | 1.5 | ~4% | 0 | Polar night ends ~Aug 17 |
+| Sep | — | −67 | −55 | −45 | — | 2.0 | ~5% | 10.5 | Spring |
+| Oct | — | −53 | −41 | −31 | — | 2.0 | ~5% | 18.0 | Warming; midnight sun approaching |
+| Nov | — | −40 | −29 | −20 | — | 2.5 | ~5% | 24 | Midnight sun approaching |
+| Dec | — | −36 | −27 | −19 | — | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+
 
 #### Notable Weather Phenomena
 
@@ -176,7 +193,7 @@ The name was kept.
 
 ## Founding Population Resolution (2026-07-04)
 
-Dome Fuji's population (55,072, entirely robot) is a genuine blend proportional to the whole continent's composition — USA and China lead, followed by Japan, Germany, and UK (see `Official_Population_Census.md`, Section I, for the full breakdown) — each contributor's own original nationality preserved rather than reclassified, unlike Kunlun's own original population resolution (later superseded 2026-07-06 — see `Specs/Kunlun.md`).
+Dome Fuji's population (55,072, entirely robot) is a genuine blend proportional to the whole continent's composition — USA and China lead, followed by Japan, Germany, and UK (see `Official_Population_Census.md`, Section A, for the full breakdown) — each contributor's own original nationality preserved rather than reclassified, unlike Kunlun's own original population resolution (later superseded 2026-07-06 — see `Specs/Kunlun.md`).
 
 This gives Dome Fuji's already-established "Ice Cold Buddhism" pilgrimage lore (see Character & Culture, below) a direct mechanical basis: this population **is** the devotee population the city's own culture section already anticipated — drawn from every corner of Tepenia specifically because devotion to the faith, not national origin, is what brought them here. The city's founding Japanese population is no longer numerically present in this figure (0 humans) — **resolved 2026-07-05** (see Founding, above): the founding team departed after the Falkland Treaty, the site sat unoccupied, and the pilgrimage population later relocated it and moved in fresh, entirely robot from that point on.
 

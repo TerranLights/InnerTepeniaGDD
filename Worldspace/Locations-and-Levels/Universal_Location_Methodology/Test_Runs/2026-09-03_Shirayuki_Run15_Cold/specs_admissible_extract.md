@@ -37,7 +37,7 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 | Significant | Australia, Russia, South Korea, China, Germany |
 | Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III. Re-derived 2026-07-06, in two rounds — see Founding Population Re-Resolution, below.*
+*Source: `Official_Population_Census.md` Sections A–C. Re-derived 2026-07-06, in two rounds — see Founding Population Re-Resolution, below.*
 
 *(Originally de-stacked 2026-07-05. **Re-derived 2026-07-06 in two rounds, during this city's City Vision Notes session.** Round 1: the standard population/GDP-based tiering had put China at Primary despite this being the one city in Tepenia specifically, deliberately allocated to Japan by pre-exile diplomatic decision (see Founding Resolution Note, above). That sat oddly against the city's own founding story, so the developer directed a specific correction: China's share moved to what UK's share had been (5.68%), Japan's share absorbed China's old share plus Indonesia's and Malaysia's shares entirely (both removed from the table), and UK was removed outright. The resulting gap needed to reach 100% again was added entirely to Japan, landing at 36.27%. China's tier demoted from Primary to Significant to match its new, much smaller share. Round 2: a direct, hand-specified transfer — 1.5 points moved from South Korea to China. Sums to exactly 100%. See Founding Population Re-Resolution, below, for the full reasoning.)*
 

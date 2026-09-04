@@ -21,7 +21,7 @@
 | Significant | Japan, Germany, Italy, South Korea *(founding operator)*, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 **Corrected 2026-07-13, revised same day:** Italy's tier-summary tag originally read "(founding operator heritage)" — wrong; that heritage belongs entirely to Zukelli (Mario Zucchelli Station), whose own founding population was primarily Italian exiles, not Janbogo's (Jang Bogo Station, South Korea's operator). An earlier fix this same pass retagged Italy as "operator-*adjacent*" via Terra Nova Bay proximity to Zukelli — this was itself still wrong, per developer correction: Italy has no founding-population connection to Janbogo whatsoever, adjacent or otherwise; the two stations' ~8km GPS proximity is not a heritage channel. Italy now sits untagged, an ordinary Significant-tier nation like Germany or Japan. South Korea keeps its "(founding operator)" tag as Janbogo's own genuine founding nation. Same Janbogo/Zukelli bleed-over pattern previously found (and fixed) twice in `Upper_Earth_Immigration_Composition.md` — see `project_janbogo_bug_check_resolved` memory — this is its third occurrence, now on Janbogo's own primary Specs file.
 
@@ -66,28 +66,48 @@ Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GP
 **Temperature range:** coldest month (July) avg −27°C; warmest months (December/January) avg 0°C
 **Record extremes:** record low approximately −45°C; record high approximately +5°C (during warm katabatic descent events)
 **Prevailing winds:** strong katabatic winds from the SSW–SW (gravity-driven airflow off the East Antarctic interior ice sheet); average 8–12 m/s; storms regularly reaching 60–100+ km/h; Terra Nova Bay is one of the windiest locations on the entire Ross Sea coast; katabatic winds warm adiabatically as they descend, arriving drier and relatively warmer than ambient air — but wind chill at even moderate speeds creates lethal outdoor conditions
-**Annual precipitation:** approximately 150–250 mm water equivalent; predominantly snow; katabatic winds actively suppress precipitation by bringing dry descending air from the interior; lower cloud cover than maritime sites
-**Polar night:** approximately May 20 → July 23 (~64 days)
-**Midnight sun:** approximately November 16 → January 25 (~70 days)
+**Annual precipitation:** **144.7 mm** water equivalent _(proxy: Mario Zucchelli (~8 km, shared microclimate); measured monthly normals — see table)_ *(researched 2026-09-04)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~145 mm/yr
+**Lands (accumulates and stays):** **~55 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~90 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-14.0 °C** **15 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 10.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately May 6 → Aug 8 (~95 days)
+**Midnight sun:** approximately Nov 3 → Feb 10 (~100 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | 0 | −6 to +5 | 18 | ~25% | 24 | Midnight sun; warmest period; occasional katabatic warming episodes |
-| Feb | −6 | −12 to 0 | 18 | ~25% | 18 | Days shortening rapidly; temperatures beginning to drop |
-| Mar | −14 | −22 to −6 | 18 | ~25% | 12 | Autumn; katabatics intensifying as interior plateau cools |
-| Apr | −21 | −30 to −12 | 15 | ~20% | 7 | Rapid darkening; sustained cold arriving; sea ice forming outside polynya |
-| May | −25 | −34 to −16 | 12 | ~20% | 2 | Polar night begins ~May 20; fierce katabatic season begins |
-| Jun | −27 | −36 to −18 | 12 | ~20% | 0 | Full polar night; most intense katabatic period of the year |
-| Jul | −27 | −37 to −18 | 12 | ~20% | 0 | Polar night ends ~Jul 23; coldest and windiest month |
-| Aug | −25 | −34 to −16 | 15 | ~20% | 4 | Light returns; cold and severe wind remain; katabatics still strong |
-| Sep | −20 | −28 to −12 | 15 | ~20% | 9 | Spring; katabatics beginning to moderate; sea ice still extensive |
-| Oct | −13 | −20 to −6 | 18 | ~25% | 15 | Warming; sea ice breaking up outside the polynya |
-| Nov | −5 | −12 to +2 | 18 | ~25% | 22 | Midnight sun approaching; conditions improving; coast becoming navigable |
-| Dec | 0 | −6 to +5 | 18 | ~25% | 24 | Midnight sun; warmest period; polynya at maximum extent |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +8.3 | +1 | 0 | −2 | −7 | 42.1 | ~25% | 24 | Midnight sun; warmest period; occasional katabatic warming episodes |
+| Feb | +11.4 | −5 | −6 | −8 | −14.7 | 23.5 | ~25% | 20.4 | Days shortening rapidly; temperatures beginning to drop |
+| Mar | −4.5 | −12 | −14 | −16 | −25.8 | 0.7 | ~25% | 13.6 | Autumn; katabatics intensifying as interior plateau cools |
+| Apr | −6.4 | −16 | −21 | −21 | −30.3 | 0.8 | ~20% | 7.5 | Rapid darkening; sustained cold arriving; sea ice forming outside polynya |
+| May | −6.7 | −17 | −25 | −22 | −30.5 | 3.8 | ~20% | 0 | Polar night begins ~May 6; fierce katabatic season begins |
+| Jun | −1.7 | −17 | −27 | −23 | −27.1 | 8.4 | ~20% | 0 | Full polar night; most intense katabatic period of the year |
+| Jul | −5.5 | −20 | −27 | −25 | −32.4 | 13 | ~20% | 0 | Polar night ends ~Aug 8; coldest and windiest month |
+| Aug | −4.9 | −17 | −25 | −23 | −29.2 | 4.7 | ~20% | 3.9 | Light returns; cold and severe wind remain; katabatics still strong |
+| Sep | −12 | −16 | −20 | −22 | −28.2 | 1.6 | ~20% | 10.8 | Spring; katabatics beginning to moderate; sea ice still extensive |
+| Oct | −4.3 | −13 | −13 | −18 | −21.7 | 3 | ~25% | 16.7 | Warming; sea ice breaking up outside the polynya |
+| Nov | +2.5 | −5 | −5 | −9 | −14 | 17.4 | ~25% | 24 | Midnight sun approaching; conditions improving; coast becoming navigable |
+| Dec | +7.7 | +1 | 0 | −3 | −6.7 | 25.7 | ~25% | 24 | Midnight sun; warmest period; polynya at maximum extent |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089662** (BASE BAIA TERRA NOVA), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (PROXY — Mario Zucchelli (~8 km, shared microclimate), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts published. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
 
 #### Notable Weather Phenomena
 

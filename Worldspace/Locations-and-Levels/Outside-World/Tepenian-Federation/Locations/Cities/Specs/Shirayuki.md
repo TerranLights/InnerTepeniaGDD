@@ -47,7 +47,7 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 | Significant | Australia, Russia, South Korea, China, Germany |
 | Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III. Re-derived 2026-07-06, in two rounds — see Founding Population Re-Resolution, below.*
+*Source: `Official_Population_Census.md` Sections A–C. Re-derived 2026-07-06, in two rounds — see Founding Population Re-Resolution, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -95,8 +95,73 @@ The Bharati Station site sits in the Larsemann Hills, approximately 1-2km from t
 
 ### Annual Climate
 
-**Climate data source:** Original station built by India (NCPOR) — Bharati Station; no Indian settlement in Tepenia; nearest proxy climate: Zhongshan or Davis (Larsemann Hills area)
-*Identical to Sinheung — same location. Reference Sinheung.md.*
+**Climate data source:** ⚠ **PROXY.** The Bharati site is not in the BAS READER surface station database.
+**Proxy station: `Zhongshan`** — BAS READER, 1991–2020 WMO standard normal, 30 years; full record 1989–2026.
+_https://legacy.bas.ac.uk/met/READER/_
+
+> **Why this proxy, and how good it is.** Shirayuki sits at **69°24'S 76°11'E**; Zhongshan at **69°22'S
+> 76°22'E** — **approximately 15 km apart, in the same 40 km² ice-free oasis, at the same elevation, on the
+> same Prydz Bay coast.** *(The `Climate Data/READER/Shirayuki.md` entry names "Zhongshan or Davis" as the
+> candidate proxies; **Zhongshan is chosen over Davis**, which is 110 km away across the bay.)* **At 15 km
+> the two sites are not meaningfully distinguishable climatically** — this is about as strong as a proxy
+> gets, and considerably stronger than the Palmer→Port Lockroy or DDU→Denison proxies used elsewhere in
+> this pass. **Every temperature figure below is Zhongshan's, unmodified.** Daylight is computed from
+> Shirayuki's own coordinate.
+
+**Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free Larsemann Hills bedrock; cold continental winter, mild bright summer
+**Mean annual temperature:** -9.9°C  _(proxy: READER station `Zhongshan`)_
+**Record extremes:** summer daytime air temperatures (December–February) **frequently exceed +4 °C and can exceed +10 °C**; mean monthly winter temperatures range **−15 °C to −18 °C** *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of metres offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Temperature range:** coldest months (July/August) avg −16.1°C; warmest month (January) avg +0.2°C — above freezing in the mean
+**Annual precipitation:** **148.9 mm** water equivalent _(proxy: Progress, Larsemann Hills (~15 km); measured monthly normals — see table)_ *(researched 2026-09-04)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **ICE-FREE OASIS** — *small precipitation budget, high transport*
+**Falls (reaches the surface):** ~149 mm/yr
+**Lands (accumulates and stays):** **~67 mm/yr** *(~45% retention)*
+**Lost to sublimation and wind transport:** ~82 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **WIND, on a small budget.** At **-9.9 °C** this is a comparatively mild site (**26 of the 37 are colder**) with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately May 29 → July 16 (~49 days)
+**Midnight sun:** approximately November 22 → January 22 (~62 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +9.3 | +3.3 | +0.2 | −1.6 | −9 | 5.2 | ~19% | 24 | Midnight sun; melt streams; lakes ice-free |
+| Feb | +6.2 | 0 | -2.9 | −4.6 | −11.1 | 11.2 | ~25% | 17.4 | Melt ending; light falling fast |
+| Mar | −0.4 | −6.1 | -8.3 | −10 | −19.9 | 16.9 | ~30% | 13.2 | Autumn; refreeze |
+| Apr | — | −9.5 | -13.1 | −14.6 | −29.1 | 9.9 | ~31% | 8.8 | Darkening |
+| May | −5.3 | −11.9 | -15.2 | −17.5 | −30.3 | 16.8 | ~32% | 4.2 | Polar night begins ~May 29 |
+| Jun | −5.2 | −10.6 | -14.6 | −16.1 | −27.8 | 18.7 | ~30% | 0 | Full polar night; slight midwinter plateau |
+| Jul | — | −12.9 | -16.1 | −19.1 | — | 11.8 | ~25% | 0 | Coldest month; polar night ends ~Jul 16 |
+| Aug | — | −12.5 | -16.1 | −18.1 | — | 11.5 | ~30% | 6.7 | Equal-coldest; light returning |
+| Sep | −6.1 | −10.6 | -15.4 | −16.1 | — | 15.8 | ~28% | 11.1 | Spring; still deep cold |
+| Oct | +2.4 | −7.9 | -12.0 | −14.1 | −18.2 | 14 | ~23% | 15.4 | Warming |
+| Nov | +5.9 | −1.9 | -4.8 | −7.7 | −18.3 | 6.8 | ~19% | 21.0 | Midnight sun from ~Nov 22; thaw beginning |
+| Dec | +8.2 | +2.8 | -0.5 | −2.1 | −8.5 | 10.3 | ~14% | 24 | Midnight sun; melt season |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089574** (PROGRESS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (PROXY — Progress, Larsemann Hills (~15 km), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089574. **Avg Daylight:* computed from this city's own latitude.*
+
+
+— design-grade estimates; precipitation total is the sourced AARI Larsemann Hills figure.*
+
+*Polar night ~May 29–Jul 16 (~49 days); midnight sun ~Nov 22–Jan 22 (~62 days)*
+
+> **⚠ Note for culture synthesis — this is a THREE-city oasis, not a pair.** Shirayuki, **Sinheung** (~1–2
+> km) and **Zhongshan** (~15 km) share one 40 km² patch of ice-free ground and one climate. **The climate
+> therefore differentiates none of them** — it is common ground, and any cultural distinction between the
+> three has to come from somewhere other than weather. *(`Character & Culture` above already leans on "the
+> Larsemann Hills' comparatively mild, gentle climate" as a driver of Shirayuki's research/arts identity;
+> that reasoning applies equally to two neighbors and cannot separate them.)*
 
 ---
 

@@ -29,7 +29,7 @@ By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again
 | Significant | Germany, France, UK, Canada, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -73,27 +73,45 @@ Rothera was one of the few Antarctic stations with a paved runway. The Bonner La
 **Record extremes:** record low approximately −36°C; record high approximately +8°C
 **Prevailing winds:** westerly and northwesterly off the Bellingshausen Sea; moderate to strong; the island position and surrounding topography create local wind variations; no severe katabatic regime
 **Annual precipitation:** approximately 500–700mm water equivalent; mix of snow and rain; among the highest precipitation of any Tepenian city; frequent cloud cover
-**Polar night:** approximately June 13 → June 29 (~16 days around the winter solstice — slightly longer than Mirny's minimal polar night; at 67°34'S, about 1° south of the Antarctic Circle)
-**Midnight sun:** approximately December 11 → December 31 (~20 days around the summer solstice)
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **MARITIME** — *genuinely wet; precipitation behaves temperately*
+**Falls (reaches the surface):** ~700 mm/yr
+**Lands (accumulates and stays):** **~560 mm/yr** *(~80% retention)*
+**Lost to sublimation and wind transport:** ~140 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-4.0 °C** this is among the mildest cities in the Federation (**31 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately Jun 15 → Jun 29 (~15 days around the winter solstice — slightly longer than Mirny's minimal polar night; at 67°34'S, about 1° south of the Antarctic Circle)
+**Midnight sun:** approximately Dec 1 → Jan 13 (~44 days around the summer solstice)
 **Winter solstice daylight minimum:** N/A — within polar night window; otherwise winter minimum ~4–5 hours
 **Summer solstice daylight maximum:** N/A — within midnight sun window; otherwise summer maximum ~20 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | +1.3  | −6 to +5 | 65 | ~55% | 19 | Warmest period; rain possible |
-| Feb | +0.7  | −10 to +2 | 60 | ~52% | 15 | Still mild; days shortening |
-| Mar | -0.9  | −14 to −2 | 55 | ~50% | 11 | Autumn; sea ice forming |
-| Apr | -2.7  | −18 to −6 | 50 | ~48% | 6 | Darkening; cold arriving |
-| May | -4.3  | −21 to −9 | 45 | ~46% | 2 | Near-darkness; polar night approaching |
-| Jun | -7.8  | −22 to −10 | 42 | ~45% | ~0* | *Polar night ~Jun 13–29; ~16 days |
-| Jul | -9.8  | −22 to −10 | 42 | ~45% | 2 | Coldest month; still dark |
-| Aug | -9.7  | −21 to −9 | 45 | ~46% | 6 | Cold but days returning |
-| Sep | -8.1  | −17 to −5 | 50 | ~48% | 11 | Spring; conditions improving |
-| Oct | -5.0  | −13 to −1 | 55 | ~50% | 16 | Sea ice breaking; maritime access |
-| Nov | -2.3  | −9 to +3 | 60 | ~52% | 20 | Mild; midnight sun approaching |
-| Dec | +0.2  | −6 to +4 | 65 | ~54% | ~24* | *Midnight sun ~Dec 11–31; ~20 days |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | — | +5 | +1.3 | −6 | −4.6 | 65 | ~55% | 22.6 | Warmest period; rain possible |
+| Feb | +5.4 | +2 | +0.7 | −10 | −7.1 | 60 | ~52% | 16.9 | Still mild; days shortening |
+| Mar | — | −2 | -0.9 | −14 | −7.7 | 55 | ~50% | 13.1 | Autumn; sea ice forming |
+| Apr | +5.1 | −6 | -2.7 | −18 | −12 | 50 | ~48% | 9.1 | Darkening; cold arriving |
+| May | — | −9 | -4.3 | −21 | — | 45 | ~46% | 5.2 | Near-darkness; polar night approaching |
+| Jun | +4.2 | −10 | -7.8 | −22 | — | 42 | ~45% | 0* | *Polar night ~Jun 15–Jun 29; ~16 days |
+| Jul | — | −10 | -9.8 | −22 | — | 42 | ~45% | 3.1 | Coldest month; still dark |
+| Aug | — | −9 | -9.7 | −21 | — | 45 | ~46% | 7.3 | Cold but days returning |
+| Sep | — | −5 | -8.1 | −17 | −26 | 50 | ~48% | 11.2 | Spring; conditions improving |
+| Oct | — | −1 | -5.0 | −13 | −19.8 | 55 | ~50% | 15.0 | Sea ice breaking; maritime access |
+| Nov | — | +3 | -2.3 | −9 | −14.8 | 60 | ~52% | 19.6 | Mild; midnight sun approaching |
+| Dec | — | +4 | +0.2 | −6 | −7.1 | 65 | ~54% | 24* | *midnight sun ~Dec 1–Jan 13; ~20 days |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089062** (ROTHERA), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+
 
 #### Notable Weather Phenomena
 

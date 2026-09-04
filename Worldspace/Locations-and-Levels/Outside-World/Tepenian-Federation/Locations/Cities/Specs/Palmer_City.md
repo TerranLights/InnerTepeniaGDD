@@ -22,7 +22,7 @@
 
 *Palmer City is the only Tepenian city with all 43 master-list nations present — see `Upper_Earth_Immigration_Composition.md`'s Palmer City section and `Local_Cultures/Palmer_Subnet/Palmer_City.md` Section 1 for the full account of the 2026-07-03 expansion.*
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -97,9 +97,21 @@ The same accessibility that made it Tepenia's beginning made it Tepenia's first 
 **Climate type:** Maritime subpolar — the most temperate climate of any Tepenian city; the only one where above-freezing temperatures are a regular occurrence
 **Mean annual temperature:** -1.7°C  _(READER station: Palmer; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest months (July/August) avg −8°C; warmest month (January) avg +2°C
-**Record extremes:** record low approximately −20°C; record high approximately +8°C (rare summer peak; the Antarctic Peninsula has experienced record warming in recent decades)
+**Record extremes:** record high **+14.8 °C**; record low **−40.8 °C** *(researched 2026-09-04)*
 **Prevailing winds:** strong westerlies off the Drake Passage; average 7–9 m/s; intense Southern Ocean low-pressure systems are frequent; gusts regularly exceeding 60–80 km/h during storm events; the Peninsula is one of the windiest Antarctic regions despite being the mildest in temperature
-**Annual precipitation:** approximately 700–900 mm water equivalent annually — among the highest of any Tepenian city; snow predominates in winter, but rain is possible (and common) in summer; persistent high cloud cover year-round
+**Annual precipitation:** **657 mm** water equivalent _(Palmer; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **MARITIME** — *genuinely wet; precipitation behaves temperately*
+**Falls (reaches the surface):** ~657 mm/yr
+**Lands (accumulates and stays):** **~526 mm/yr** *(~80% retention)*
+**Lost to sublimation and wind transport:** ~131 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is among the mildest cities in the Federation (**34 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** None — Palmer Station (64°46'S) is north of the Antarctic Circle (66°33'S); the sun rises every day of the year regardless of season
 **Midnight sun:** None — the sun sets every night of the year at this latitude
 **Winter solstice daylight minimum:** approximately 6–7 hours (June 21)
@@ -107,20 +119,29 @@ The same accessibility that made it Tepenia's beginning made it Tepenia's first 
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | +2.2  | −2 to +7 | 65 | ~45% | 18 | Warmest period; rain common; above-freezing likely |
-| Feb | +1.9  | −2 to +7 | 65 | ~45% | 15 | Still mild; days shortening; rain still possible |
-| Mar | +1.0  | −6 to +3 | 65 | ~50% | 11 | Autumn; storm frequency increasing |
-| Apr | -0.8  | −10 to 0 | 70 | ~55% | 8 | Rapid darkening; rain/snow mix; frequent gales |
-| May | -2.1  | −11 to −1 | 65 | ~55% | 6.5 | Full winter approaching; sea ice may begin forming |
-| Jun | -4.1  | −13 to −1 | 60 | ~55% | 6 | Darkest period — but no polar night; Drake storms peak |
-| Jul | -5.3  | −14 to −2 | 60 | ~55% | 6.5 | Coldest month; most intense storm season |
-| Aug | -5.9  | −14 to −2 | 65 | ~55% | 8 | Still cold and stormy; days beginning to lengthen |
-| Sep | -4.9  | −11 to −1 | 70 | ~55% | 11 | Spring; one of the windiest months; sea ice breaking up |
-| Oct | -2.6  | −8 to +2 | 70 | ~50% | 15 | Warming; storm frequency moderating |
-| Nov | -0.5  | −5 to +5 | 65 | ~45% | 17 | Long days; conditions improving; freezing rain possible |
-| Dec | +1.1  | −3 to +7 | 65 | ~45% | 18 | Summer; warmest period; rain common |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +14.8 | +4.7 | +2.2 | +0.7 | −14.8 | 55 | ~76% | 19.9 | Warmest period; rain common; above-freezing likely |
+| Feb | +12.7 | +4 | +1.9 | −0.2 | −15.4 | 57 | ~74% | 16.2 | Still mild; days shortening; rain still possible |
+| Mar | +10.6 | +3.1 | +1.0 | −1.1 | −19.7 | 70 | ~77% | 13.0 | Autumn; storm frequency increasing |
+| Apr | +8.2 | +0.8 | -0.8 | −2.6 | −23.9 | 72 | ~75% | 9.5 | Rapid darkening; rain/snow mix; frequent gales |
+| May | +7.4 | +0.1 | -2.1 | −4.2 | −30.7 | 63 | ~68% | 6.3 | Full winter approaching; sea ice may begin forming |
+| Jun | +5.6 | −2.2 | -4.1 | −6.6 | −35.4 | 46 | ~53% | 3.8 | Darkest period — but no polar night; Drake storms peak |
+| Jul | +3.6 | −3.2 | -5.3 | −9 | −40.8 | 42 | ~55% | 4.8 | Coldest month; most intense storm season |
+| Aug | +3.3 | −4 | -5.9 | −9.8 | −36.4 | 46 | ~55% | 7.9 | Still cold and stormy; days beginning to lengthen |
+| Sep | +4.4 | −1.9 | -4.9 | −9.1 | −33.8 | 53 | ~78% | 11.3 | Spring; one of the windiest months; sea ice breaking up |
+| Oct | +6.5 | +0.6 | -2.6 | −5.6 | −23.4 | 66 | ~72% | 14.7 | Warming; storm frequency moderating |
+| Nov | +9.9 | +2.4 | -0.5 | −2.9 | −21.6 | 48 | ~88% | 18.3 | Long days; conditions improving; freezing rain possible |
+| Dec | +11.3 | +3.5 | +1.1 | −0.9 | −18.4 | 39 | ~78% | 21.5 | Summer; warmest period; rain common |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089061** (PALMER STATION), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Monthly record extremes (Palmer, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Palmer, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089061. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

@@ -21,7 +21,7 @@
 | Significant | Japan, France *(founding operator heritage)*, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -52,7 +52,7 @@ Dumont d'Urville is not built on the Antarctic continent itself but on Petrel Is
 
 Adélie Land is one of the windiest regions on Earth. The katabatic winds off the East Antarctic plateau here are extreme — not merely strong but persistent, structural, the defining environmental fact of the entire region. The nearby George V Land coast (where Douglas Mawson recorded conditions during his 1912–1913 expedition) has the highest documented mean wind speeds of any location on Earth's surface. Dumont d'Urville is somewhat sheltered by the archipelago relative to the open coast, but the winds are still ferocious by any standard other than its immediate neighbors.
 
-The city sits at 66°40'S — just south of the Antarctic Circle, slightly further south than Mirny, giving it a slightly longer polar night and midnight sun window. The surrounding ocean provides maritime access during the navigable season, though the combination of pack ice and extreme winds makes the Adélie coast one of the more challenging maritime environments in Tepenia.
+The city sits at 66°40'S — just south of the Antarctic Circle, slightly further south than Mirny, giving it a slightly longer midnight sun window. *(Corrected 2026-09-04: it does **not** give it a longer polar night, because it has none — refraction and the sun's width lift the midwinter sun back over the horizon for ~1.9 hours even at the solstice. Dumont d'Urville sits in the asymmetric band with Casey, Mirny and Denison: midnight sun, but never a polar night.)* The surrounding ocean provides maritime access during the navigable season, though the combination of pack ice and extreme winds makes the Adélie coast one of the more challenging maritime environments in Tepenia.
 
 The station is named for Jules Sébastien César Dumont d'Urville, the French naval officer who first landed on this coast on January 21, 1840. He named the land Adélie Land after his wife, Adèle. The Adélie penguin — the species that congregates in enormous numbers on these shores — also carries her name.
 
@@ -67,28 +67,46 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 **Temperature range:** coldest months (July/August) avg −22°C; warmest month (January) avg −1°C
 **Record extremes:** record low approximately −40°C; record high approximately +9°C
 **Prevailing winds:** katabatic from the south off the East Antarctic plateau; mean annual wind speed approximately 8–12 m/s at the island site; frequent severe events 30–50 m/s; the nearby George V Land coast holds records for the highest sustained mean wind speeds ever documented on Earth's surface; Adélie Land as a region is in a class of its own for persistent wind intensity
-**Annual precipitation:** approximately 300–500 mm water equivalent; predominantly snow
-**Polar night:** approximately June 16 → June 26 (~10 days around the winter solstice — slightly longer than Mirny's 4–5 days due to being 7' further south of the Antarctic Circle)
-**Midnight sun:** approximately December 15 → December 27 (~12 days around the summer solstice)
-**Winter solstice daylight minimum:** approximately 0 hours (within polar night window)
-**Summer solstice daylight maximum:** approximately 24 hours (within midnight sun window)
+**Annual precipitation:** **~655 mm** water equivalent (ERA-Interim reanalysis) / **~679 mm** (climatology). ⚠ **A large fraction sublimates in the dry katabatic surface layer before reaching the ground** — measured by profiling radar during the APRES3 campaigns, so the falling total substantially exceeds the accumulating total *(researched 2026-09-04; monthly distribution below remains derived)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~655 mm/yr
+**Lands (accumulates and stays):** **~249 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~406 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.0 °C** **22 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 9.7 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** ⛔ **none** *(corrected 2026-09-04 — previously "~10 days")*. **Note the mechanism: Dumont d'Urville is 7' SOUTH of the geometric Antarctic Circle and still has no polar night**, because refraction and the sun's semidiameter exceed that margin. *Being south of the Circle is not sufficient; the polar-night boundary sits ~0.8° further south than the Circle itself.*
+**Midnight sun:** approximately Dec 7 → Jan 6 (~31 days around the summer solstice)
+**Winter solstice daylight minimum:** approximately **1.9 hours** *(corrected 2026-09-04 — previously "0 hours (within polar night window)"; there is no polar night here)*
+**Summer solstice daylight maximum:** 24 hours (within the ~31-day midnight sun window)
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | -1.0  | −8 to +6 | 42 | ~40% | 20 | Warmest period; brief rain possible |
-| Feb | -4.4  | −13 to +2 | 40 | ~40% | 15 | Days shortening; winds intensifying |
-| Mar | -9.3  | −18 to −3 | 37 | ~35% | 10 | Autumn; sea ice forming |
-| Apr | -13.5  | −24 to −8 | 32 | ~30% | 5 | Rapid darkening |
-| May | -16.1  | −27 to −11 | 28 | ~28% | 1.5 | Near-darkness; strong katabatic season |
-| Jun | -16.7  | −30 to −13 | 25 | ~27% | ~0* | *Polar night ~Jun 16–26; solstice near-total darkness |
-| Jul | -16.9  | −31 to −14 | 25 | ~27% | 2 | Coldest month; maximum wind intensity |
-| Aug | -16.6  | −29 to −13 | 27 | ~28% | 5 | Still very cold and windy |
-| Sep | -15.8  | −25 to −9 | 31 | ~30% | 10 | Spring; winds moderating slightly |
-| Oct | -13.2  | −19 to −3 | 35 | ~35% | 16 | Warming; sea ice breaking up |
-| Nov | -6.4  | −12 to +2 | 40 | ~38% | 20 | Long days; maritime access returning |
-| Dec | -1.6  | −8 to +5 | 42 | ~40% | ~24* | *Midnight sun ~Dec 15–27; solstice peak |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +9.7 | +1 | -1.0 | −3.6 | −10.8 | 42 | ~29% | 21.4 | Warmest period; brief rain possible |
+| Feb | +6.4 | −2.1 | -4.4 | −6.9 | −17.3 | 40 | ~25% | 16.6 | Days shortening; winds intensifying |
+| Mar | +4.9 | −6.4 | -9.3 | −11.3 | −25 | 37 | ~32% | 13.0 | Autumn; sea ice forming |
+| Apr | +8.7 | −10 | -13.5 | −14.8 | −26.1 | 32 | ~27% | 9.3 | Rapid darkening |
+| May | 0 | −12.6 | -16.1 | −17.7 | −32.5 | 28 | ~32% | 5.6 | Near-darkness; strong katabatic season |
+| Jun | +0.9 | −14.6 | -16.7 | −20 | −34.9 | 25 | ~23% | 2.2 | Darkest month — ~1.9 hrs at solstice; **no polar night** |
+| Jul | +0.5 | −14 | -16.9 | −20 | −34.4 | 25 | ~35% | 3.8 | Coldest month; maximum wind intensity |
+| Aug | +0.3 | −14.5 | -16.6 | −20.3 | −37.4 | 27 | ~35% | 7.5 | Still very cold and windy |
+| Sep | +0.3 | −13.6 | -15.8 | −18.8 | −36.1 | 31 | ~33% | 11.2 | Spring; winds moderating slightly |
+| Oct | +1.7 | −10.3 | -13.2 | −16.1 | −37.2 | 35 | ~26% | 14.9 | Warming; sea ice breaking up |
+| Nov | +4.7 | −4.1 | -6.4 | −10.3 | −21 | 40 | ~20% | 19.2 | Long days; maritime access returning |
+| Dec | +11 | +0.4 | -1.6 | −4.7 | −14 | 42 | ~19% | 24* | *midnight sun ~Dec 7–Jan 6; solstice peak |
+
+***Monthly record extremes (Dumont d'Urville, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Dumont d'Urville, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

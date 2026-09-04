@@ -21,7 +21,7 @@
 | Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Poland, Netherlands, Thailand, Czech Republic, Ukraine, Vietnam, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -74,27 +74,51 @@ St. Douglas (Mawson) is the patron Saint of this city and subnet. His connection
 
 **Climate type:** East Antarctic coastal — similar to Mirny (same latitude, similar Indian Ocean influence); katabatic winds from the ice plateau; coastal, maritime, but with continental cold bleeding through
 **Mean annual temperature:** -11.2°C  _(READER station: Mawson; 1991–2020 WMO standard normal)_
+**Prevailing winds:** fierce katabatic winds off the plateau — the real station is the only one in Antarctica to run **wind generators**, siting its power supply on the wind rather than merely enduring it *(researched 2026-09-04)*
+**Record extremes:** record high **+10.6 °C** (January); record low **−36.0 °C** (July) *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −20°C; warmest month avg −1°C
-**Polar night:** approximately June 3 → July 9 (~36 days — relatively brief for this latitude; the Mac.Robertson Land coastal position moderates)
-**Midnight sun:** approximately December 3 → January 9 (~37 days)
+**Polar night:** approximately Jun 14 → Jun 30 (~17 days — relatively brief for this latitude; the Mac.Robertson Land coastal position moderates)
+**Midnight sun:** approximately Dec 1 → Jan 13 (~44 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 **Annual precipitation:** approximately 200–350mm
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | -0.3  | −9 to +7 | 30 | ~40% | ~24* |
-| Feb | -4.2  | −13 to +3 | 28 | ~38% | 18 |
-| Mar | -10.2  | −19 to −3 | 24 | ~36% | 12 |
-| Apr | -14.8  | −23 to −7 | 20 | ~34% | 6 |
-| May | -16.7  | −26 to −10 | 17 | ~32% | 2 |
-| Jun | -16.3  | −28 to −12 | 15 | ~30% | ~0* |
-| Jul | -17.8  | −28 to −12 | 15 | ~30% | ~0* |
-| Aug | -18.1  | −27 to −11 | 17 | ~32% | 4 |
-| Sep | -16.9  | −23 to −7 | 20 | ~34% | 10 |
-| Oct | -12.7  | −17 to −1 | 24 | ~36% | 16 |
-| Nov | -5.3  | −12 to +4 | 28 | ~38% | ~24* |
-| Dec | -0.8  | −9 to +7 | 30 | ~40% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~Jun 3–Jul 9 (~36 days); midnight sun ~Dec 3–Jan 9 (~37 days)*
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~350 mm/yr
+**Lands (accumulates and stays):** **~133 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~217 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.2 °C** **19 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 11.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +10.6 | +2.5 | -0.3 | −2.7 | −10 | 30 | ~40% | 22.7 |  |
+| Feb | +8 | −1.4 | -4.2 | −7.3 | −17.3 | 28 | ~0% | 16.9 |  |
+| Mar | +4 | −7.2 | -10.2 | −13.3 | −25.4 | 24 | ~0% | 13.1 |  |
+| Apr | 0 | −11.7 | -14.8 | −17.4 | −33.3 | 20 | ~34% | 9.1 |  |
+| May | −2.1 | −13.5 | -16.7 | −19.3 | −34.4 | 17 | ~0% | 5.2 |  |
+| Jun | +0.7 | −13.5 | -16.3 | −19.6 | −34 | 15 | ~0% | 0* |  |
+| Jul | +5 | −14.9 | -17.8 | −20.9 | −36 | 15 | ~30% | 3.0 |  |
+| Aug | +6.7 | −15.2 | -18.1 | −21.4 | −35.9 | 17 | ~32% | 7.3 |  |
+| Sep | +0.7 | −14 | -16.9 | −20.3 | −35.8 | 20 | ~0% | 11.2 |  |
+| Oct | +0.6 | −9.7 | -12.7 | −16.2 | −29 | 24 | ~0% | 15.1 |  |
+| Nov | +6.1 | −2.6 | -5.3 | −8.8 | −20 | 28 | ~38% | 19.7 |  |
+| Dec | +9.3 | +2.1 | -0.8 | −3.3 | −11.7 | 30 | ~40% | 24* |  |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089564** (MAWSON), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (Australian Bureau of Meteorology station 300001, 72-year record 1954–2026; researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — BoM mean daily maximum and minimum, taken from the operating met service directly rather than a secondary summary. **Avg Precip · Precip Probability:* ⚠ derived — BoM's rainfall statistics sit on a separate page not yet retrieved. **Avg Daylight:* computed from this city's own latitude. *(BoM also records mean daily sunshine of 0.0 hours in June, independently confirming the computed polar night.)**
+
+
+
+
+*Polar night ~Jun 14–Jun 30 (~17 days); midnight sun ~Dec 1–Jan 13 (~44 days)*
 
 ---
 

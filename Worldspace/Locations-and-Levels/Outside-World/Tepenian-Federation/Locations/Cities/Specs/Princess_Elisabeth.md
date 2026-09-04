@@ -27,7 +27,7 @@
 | Significant | Germany, France, UK, Brazil, Australia |
 | Notable | Poland, Netherlands, Belgium *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -81,27 +81,45 @@ The station was designed by the International Polar Foundation as the first zero
 
 **Climate type:** Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; severe katabatic wind exposure (real station: gales to 300 km/h)
 **Mean annual temperature:** approximately −18°C
+**Prevailing winds:** the station is built against the **Utsteinen ridge, exposed to gales up to 300 km/h** *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −30°C; warmest month avg −5°C
-**Polar night:** approximately May 7 → August 5 (~90 days)
-**Midnight sun:** approximately November 5 → February 6 (~93 days)
+**Polar night:** approximately May 16 → Jul 29 (~75 days)
+**Midnight sun:** approximately Nov 11 → Feb 1 (~83 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 **Annual precipitation:** approximately 100–200mm; dry continental
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | −5 | −13 to +3 | 18 | ~32% | ~24* |
-| Feb | −12 | −21 to −3 | 15 | ~30% | 15 |
-| Mar | −19 | −28 to −10 | 13 | ~28% | 10 |
-| Apr | −26 | −35 to −17 | 11 | ~26% | 4 |
-| May | −29 | −38 to −20 | 9 | ~24% | ~0* |
-| Jun | −30 | −39 to −21 | 8 | ~23% | ~0* |
-| Jul | −30 | −39 to −21 | 8 | ~23% | ~0* |
-| Aug | −28 | −37 to −19 | 9 | ~24% | ~0* |
-| Sep | −22 | −31 to −13 | 12 | ~27% | 10 |
-| Oct | −14 | −23 to −5 | 15 | ~30% | 16 |
-| Nov | −7 | −16 to +1 | 17 | ~31% | ~24* |
-| Dec | −5 | −13 to +3 | 18 | ~32% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 7–Aug 5 (~90 days); midnight sun ~Nov 5–Feb 6 (~93 days)*
+**Regime:** **INTERIOR** — *low fall, moderate redistribution*
+**Falls (reaches the surface):** ~200 mm/yr
+**Lands (accumulates and stays):** **~140 mm/yr** *(~70% retention)*
+**Lost to sublimation and wind transport:** ~60 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **MIXED.** At **-18.0 °C** (11 cities are colder), this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~200 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | — | +3 | −5 | −13 | — | 18 | ~32% | 24* |  |
+| Feb | — | −3 | −12 | −21 | — | 15 | ~30% | 18.5 |  |
+| Mar | — | −10 | −19 | −28 | — | 13 | ~28% | 13.4 |  |
+| Apr | — | −17 | −26 | −35 | — | 11 | ~26% | 8.3 |  |
+| May | — | −20 | −29 | −38 | — | 9 | ~24% | 1.2 |  |
+| Jun | — | −21 | −30 | −39 | — | 8 | ~23% | 0* |  |
+| Jul | — | −21 | −30 | −39 | — | 8 | ~23% | 0* |  |
+| Aug | — | −19 | −28 | −37 | — | 9 | ~24% | 5.7 |  |
+| Sep | — | −13 | −22 | −31 | — | 12 | ~27% | 11.0 |  |
+| Oct | — | −5 | −14 | −23 | — | 15 | ~30% | 15.9 |  |
+| Nov | — | +1 | −7 | −16 | — | 17 | ~31% | 24* |  |
+| Dec | — | +3 | −5 | −13 | — | 18 | ~32% | 24* |  |
+
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+
+
+*Polar night ~May 16–Jul 29 (~75 days); midnight sun ~Nov 11–Feb 1 (~83 days)*
 
 #### Gameplay Notes
 - **Ruins in the wind:** with the founding zero-emissions systems destroyed or abandoned, the site is once again exposed to the same extreme winds (up to 300 km/h in the real world) the original station was built to withstand — ruins exploration here should be among the most physically hazardous wind environments in Tepenia, distinct from the milder katabatic exposure other Halley subnet ruins carry

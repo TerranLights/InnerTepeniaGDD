@@ -22,7 +22,7 @@
 | Significant | Japan *(founding operator heritage)*, Germany, France, UK, South Korea, Indonesia, Australia |
 | Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -119,27 +119,49 @@ The "Sayowa" name evolved from the original Japanese station name Syowa (romaniz
 
 **Climate type:** East Antarctic island coast — Lützow-Holm Bay influence; sea ice dominant in winter; similar latitude to the Halley subnet coastal cities but slightly different ocean exposure
 **Mean annual temperature:** -10.5°C  _(READER station: Syowa; 1991–2020 WMO standard normal)_
+**Prevailing winds:** **maximum instantaneous wind 61.2 m/s (220 km/h)**, recorded 27 May 1996 *(researched 2026-09-04)*
+**Record extremes:** record high **+10.0 °C** (January); record low **−45.3 °C** (September) *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −22°C; warmest month avg −1°C
-**Polar night:** approximately May 29 → July 14 (~46 days)
-**Midnight sun:** approximately November 28 → January 14 (~47 days)
+**Polar night:** approximately Jun 1 → Jul 13 (~43 days)
+**Midnight sun:** approximately Nov 23 → Jan 20 (~59 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 **Annual precipitation:** approximately 250–350mm
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | -0.8  | −9 to +7 | 32 | ~40% | ~24* |
-| Feb | -2.9  | −14 to +3 | 29 | ~38% | 17 |
-| Mar | -6.8  | −21 to −3 | 25 | ~36% | 11 |
-| Apr | -10.4  | −26 to −8 | 21 | ~34% | 5 |
-| May | -13.5  | −30 to −12 | 18 | ~32% | ~0* |
-| Jun | -15.2  | −31 to −13 | 16 | ~30% | ~0* |
-| Jul | -17.6  | −31 to −13 | 16 | ~30% | ~0* |
-| Aug | -18.7  | −29 to −11 | 18 | ~32% | 5 |
-| Sep | -18.3  | −25 to −7 | 21 | ~34% | 11 |
-| Oct | -13.3  | −19 to −1 | 25 | ~36% | 17 |
-| Nov | -6.4  | −13 to +4 | 29 | ~38% | ~24* |
-| Dec | -1.5  | −9 to +6 | 32 | ~40% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 29–Jul 14 (~46 days); midnight sun ~Nov 28–Jan 14 (~47 days)*
+**Regime:** **KATABATIC MARGIN** — *snow flux, not snowfall*
+**Falls (reaches the surface):** ~350 mm/yr
+**Lands (accumulates and stays):** **~133 mm/yr** *(~38% retention)*
+**Lost to sublimation and wind transport:** ~217 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-10.5 °C** **23 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +10 | +1.8 | -0.8 | −3.7 | −12.6 | 32 | ~40% | 24* |  |
+| Feb | +8 | −0.6 | -2.9 | −5.6 | −18.2 | 29 | ~38% | 17.3 |  |
+| Mar | +3.6 | −4.5 | -6.8 | −9.7 | −25.2 | 25 | ~36% | 13.2 |  |
+| Apr | +0.5 | −7.8 | -10.4 | −13.4 | −35.9 | 21 | ~34% | 8.9 |  |
+| May | +2.8 | −10.6 | -13.5 | −16.9 | −40.5 | 18 | ~32% | 4.4 |  |
+| Jun | −0.7 | −11.9 | -15.2 | −18.7 | −38.3 | 16 | ~30% | 0* |  |
+| Jul | −2.5 | −14.3 | -17.6 | −21.4 | −42.7 | 16 | ~30% | 1.0 |  |
+| Aug | −2.8 | −15.2 | -18.7 | −22.8 | −42.2 | 18 | ~32% | 6.9 |  |
+| Sep | −1.1 | −15 | -18.3 | −22.3 | −45.3 | 21 | ~34% | 11.1 |  |
+| Oct | +2.6 | −10.5 | -13.3 | −17.1 | −34.7 | 25 | ~36% | 15.3 |  |
+| Nov | +7.3 | −3.5 | -6.4 | −9.9 | −25 | 29 | ~38% | 20.6 |  |
+| Dec | +9.4 | +1.1 | -1.5 | −4.6 | −12.9 | 32 | ~40% | 24* |  |
+
+***Monthly record extremes (Syowa, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Syowa, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
+
+
+*Polar night ~Jun 1–Jul 13 (~43 days); midnight sun ~Nov 23–Jan 20 (~59 days)*
 
 ---
 

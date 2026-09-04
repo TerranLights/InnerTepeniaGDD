@@ -21,7 +21,7 @@
 | Significant | Germany, France, UK, Russia, Brazil |
 | Notable | Poland, Netherlands, Belgium, Sweden *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland *(founding operator heritage)*, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -77,26 +77,43 @@ The choice to name the city after Turku (Aboa is Latin for Turku) — Finland's 
 **Climate type:** Inland Queen Maud Land nunatak, western sector — more continental than coastal; colder than Troll and Sanay on average; Vestfjella/Kraul Mountains weather; katabatic influence
 **Mean annual temperature:** approximately −25°C
 **Temperature range:** coldest months avg −36°C; warmest month avg −8°C
-**Polar night:** approximately May 1 → August 11 (~102 days)
-**Midnight sun:** approximately October 30 → February 11 (~104 days)
+**Polar night:** approximately May 12 → Aug 2 (~83 days)
+**Midnight sun:** approximately Nov 8 → Feb 5 (~90 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 **Annual precipitation:** approximately 100–150mm; predominantly snow; one of the drier Halley subnet cities
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | −8 | −16 to 0 | 15 | ~30% | ~24* |
-| Feb | −15 | −24 to −6 | 13 | ~28% | 14 |
-| Mar | −23 | −32 to −14 | 11 | ~26% | 9 |
-| Apr | −31 | −40 to −22 | 9 | ~24% | 3 |
-| May | −35 | −44 to −26 | 7 | ~22% | ~0* |
-| Jun | −36 | −45 to −27 | 6 | ~21% | ~0* |
-| Jul | −36 | −45 to −27 | 6 | ~21% | ~0* |
-| Aug | −34 | −43 to −25 | 7 | ~22% | ~0* |
-| Sep | −27 | −36 to −18 | 10 | ~25% | 9 |
-| Oct | −18 | −27 to −9 | 13 | ~28% | 16 |
-| Nov | −10 | −19 to −1 | 14 | ~29% | ~24* |
-| Dec | −8 | −16 to 0 | 15 | ~30% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 1–Aug 11 (~102 days); midnight sun ~Oct 30–Feb 11 (~104 days)*
+**Regime:** **INTERIOR** — *low fall, moderate redistribution*
+**Falls (reaches the surface):** ~150 mm/yr
+**Lands (accumulates and stays):** **~105 mm/yr** *(~70% retention)*
+**Lost to sublimation and wind transport:** ~45 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **MIXED.** At **-25.0 °C** (6 cities are colder), this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~150 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | — | 0 | −8 | −16 | — | 15 | ~30% | 24* |  |
+| Feb | — | −6 | −15 | −24 | — | 13 | ~28% | 19.2 |  |
+| Mar | — | −14 | −23 | −32 | — | 11 | ~26% | 13.5 |  |
+| Apr | — | −22 | −31 | −40 | — | 9 | ~24% | 8.0 |  |
+| May | — | −26 | −35 | −44 | — | 7 | ~22% | 0* |  |
+| Jun | — | −27 | −36 | −45 | — | 6 | ~21% | 0* |  |
+| Jul | — | −27 | −36 | −45 | — | 6 | ~21% | 0* |  |
+| Aug | — | −25 | −34 | −43 | — | 7 | ~22% | 5.1 |  |
+| Sep | — | −18 | −27 | −36 | — | 10 | ~25% | 10.9 |  |
+| Oct | — | −9 | −18 | −27 | — | 13 | ~28% | 16.2 |  |
+| Nov | — | −1 | −10 | −19 | — | 14 | ~29% | 24* |  |
+| Dec | — | 0 | −8 | −16 | — | 15 | ~30% | 24* |  |
+
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+
+
+*Polar night ~May 12–Aug 2 (~83 days); midnight sun ~Nov 8–Feb 5 (~90 days)*
 
 #### Gameplay Notes
 - **Small but holding on:** Abowasa's small size and its damaged-but-functional status in DLC 5 makes it a particular kind of location — not strategically important enough to have been a priority target, hit but not erased, still running with a tight, diminished community

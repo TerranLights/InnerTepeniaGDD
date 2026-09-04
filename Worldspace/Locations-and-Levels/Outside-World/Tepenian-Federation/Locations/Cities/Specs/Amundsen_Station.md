@@ -20,7 +20,7 @@
 | Significant | Japan, Germany, UK, South Korea, Canada, Australia |
 | Notable | Argentina, Norway *(Amundsen heritage — Saint Roald)*, New Zealand, Chile *(unique Union Glacier route advantage)* |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -56,36 +56,75 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 ### Annual Climate
 
 **Climate data source:** NSF / US Antarctic Program (USAP) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_
+**Records and precipitation-day counts:** NOAA NCEI Global Summary of the Month, station `AYW00090001` (AMUNDSEN SCOTT).
 
-*(Research note: verify all figures against Amundsen-Scott South Pole Station climate records — NOAA and USAP are the primary authorities. South Pole climate data is among the most thoroughly documented in Antarctica.)*
+> # ⭐ DEVELOPER RULING — 2026-09-04 · **AMUNDSEN-SCOTT IS THE OFFICIAL CLIMATE REFERENCE**
+>
+> ***"Go by Amundsen-Scott Station as the official reference (regardless what the conditions are at either
+> Geographical or Magnetic South), since ASS is the actual basis for the ground-base of Amundsen Tower."***
+>
+> **Every climate figure in this file resolves to Amundsen-Scott and nothing else.** The reason is
+> in-world, not meteorological: **the Tower's ground base sits on the station site**, so the station's
+> conditions are the conditions that matter to the city built around it.
+>
+> ### ⚠ This forecloses a real ambiguity, which is why it is written down
+> **The Magnetic South Pole is not here.** It sits *off the Adélie Land coast* — nearer **Dumont d'Urville**
+> than to this station — **and it migrates year to year.** Any future pass tempted to "correct" this file
+> toward magnetic-pole conditions, or toward an idealized 90°00'S point distinct from the station, is
+> **wrong by ruling**, not merely by preference. ⛔ **Do not re-derive this.**
+>
+> *(The geographic pole and the station are effectively co-located — the station drifts ~10 m/year with the
+> ice — so no conflict arises there. The ruling matters for the magnetic case, and for settling that the
+> station's own record, not a modeled pole-point, is authoritative.)*
 
 **Climate type:** Polar plateau — the most extreme version of Concordia's climate type; higher altitude, colder, drier, more isolated
 **Mean annual temperature:** -49.1°C  _(READER station: Amundsen_Scott; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest months (July/August) avg −60°C; warmest month (December/January) avg −28°C
-**Record extremes:** record low approximately −82°C; record high approximately −14°C
+**Record extremes:** record high **−12.3 °C** (December); record low **−82.8 °C** (June) _(Amundsen-Scott station record; monthly breakdown in the table)_ *(tightened 2026-09-04 from "approximately −82 / −14")*
+⚠ **Note on the precipitation figure below:** 2.1 mm is the **gauge-caught** total. Actual annual accumulation at this site is roughly **70–80 mm** water equivalent — blowing snow largely does not enter the gauge. **This is the most extreme instance in the corpus of the falls-vs-caught-vs-accumulates distinction**, and the convention question is still open; see the research log, Session 6.
 **Prevailing winds:** moderate by Antarctic standards; average 5–7 m/s; the South Pole dome site is calm relative to slope and coastal stations; storms occur but are less frequent than at exposed coastal or slope sites
-**Annual precipitation:** approximately 20–25 mm water equivalent — drier even than Concordia; the driest location in Tepenia
-**Polar night:** approximately March 22 → September 21 (~183 days — six months of continuous darkness; the South Pole has the longest polar night of any location on Earth)
-**Midnight sun:** approximately September 21 → March 22 (~183 days — six months of continuous daylight)
+**Annual precipitation:** **2.1 mm** water equivalent _(Amundsen-Scott South Pole; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+
+> ⛔ **The `Annual precipitation` figure above is the GAUGE-CAUGHT total and is NOT what falls.** **The gauge catches roughly 3% of the snow here.** Use the falls/lands figures below.
+**Regime:** **PLATEAU** — *snow is a deposit, not weather*
+**Falls (reaches the surface):** ~70 mm/yr
+**Lands (accumulates and stays):** **~75 mm/yr** *(~90% retention)*
+**Lost to sublimation and wind transport:** ~-5 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-49.1 °C** it is the **#5 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately Mar 24 → Sep 21 (~182 days — six months of continuous darkness; the South Pole has the longest polar night of any location on Earth)
+**Midnight sun:** approximately Sep 22 → Mar 23 (~183 days — six months of continuous daylight)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours for six months
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours for six months
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | -28.1  | −22 to −38 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
-| Feb | -40.7  | −32 to −50 | 2.0 | ~5% | 24→0 | Sun begins to set; transition to polar night |
-| Mar | -53.6  | −45 to −65 | 2.0 | ~5% | 0 | Polar night begins ~Mar 22 |
-| Apr | -57.4  | −48 to −68 | 1.5 | ~5% | 0 | Full polar night |
-| May | -57.7  | −49 to −69 | 1.5 | ~5% | 0 | Full polar night |
-| Jun | -58.1  | −50 to −70 | 1.5 | ~5% | 0 | Full polar night; winter solstice |
-| Jul | -60.2  | −51 to −72 | 1.5 | ~5% | 0 | Full polar night; coldest |
-| Aug | -59.6  | −51 to −73 | 1.5 | ~5% | 0 | Full polar night; coldest |
-| Sep | -58.9  | −48 to −68 | 2.0 | ~5% | 0→24 | Polar night ends ~Sep 21; sun returns all at once |
-| Oct | -50.9  | −36 to −56 | 2.0 | ~5% | 24 | Midnight sun begins; rapid warming |
-| Nov | -37.2  | −25 to −43 | 2.5 | ~5% | 24 | Midnight sun; warming |
-| Dec | -27.3  | −22 to −38 | 2.5 | ~5% | 24 | Midnight sun; warmest period |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | −14.8 | −25.9 | -28.1 | −29.5 | −41.1 | 0.3 | ~1% | 24 | Midnight sun; warmest period |
+| Feb | −20.6 | −37.4 | -40.7 | −42.6 | −58.9 | 0.6 | ~1% | 24 | Sun begins to set; transition to polar night |
+| Mar | −26.7 | −49.2 | -53.6 | −56.4 | −71.1 | 0.2 | ~1% | 24 | Polar night begins ~Mar 24 |
+| Apr | −27.8 | −52.6 | -57.4 | −60.6 | −75 | 0.1 | ~0% | 0 | Full polar night |
+| May | −25.1 | −52.8 | -57.7 | −61.1 | −78.3 | 0.2 | ~1% | 0 | Full polar night |
+| Jun | −28.8 | −53.1 | -58.1 | −61.5 | −82.8 | 0.1 | ~0% | 0 | Full polar night; winter solstice |
+| Jul | −31.9 | −55.2 | -60.2 | −63.7 | −80.6 | 0 | ~0% | 0 | Full polar night; coldest |
+| Aug | −32.8 | −54.6 | -59.6 | −63 | −79.3 | 0 | ~0% | 0 | Full polar night; coldest |
+| Sep | −29.3 | −54.1 | -58.9 | −62.2 | −79.4 | 0.1 | ~0% | 0 | Polar night ends ~Sep 21; sun returns all at once |
+| Oct | −25.1 | −47.3 | -50.9 | −53.3 | −72 | 0.1 | ~0% | 24 | Midnight sun begins; rapid warming |
+| Nov | −18.9 | −34.9 | -37.2 | −38.8 | −55 | 0.1 | ~0% | 24 | Midnight sun; warming |
+| Dec | −12.3 | −25.6 | -27.3 | −28.4 | −41.1 | 0.3 | ~1% | 24 | Midnight sun; warmest period |
+
+***Monthly record extremes (Amundsen-Scott, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Amundsen-Scott South Pole, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

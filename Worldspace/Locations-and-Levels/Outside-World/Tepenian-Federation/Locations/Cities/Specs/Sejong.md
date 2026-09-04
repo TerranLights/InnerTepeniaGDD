@@ -21,7 +21,7 @@
 | Significant | France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Source: `Official_Population_Census.md` Sections I-III. **Recalculated 2026-07-13** — China removed as a methodology-violating entry (see `Upper_Earth_Immigration_Composition.md`'s Sejong section for the full reasoning: China appeared nowhere else in the Palmer subnet, its inclusion here traced to real-world Great Wall Station's presence on King George Island despite this project's own rule that station-operator identity is excluded from this composite). Remaining nations rescaled proportionally (×1.2481) to sum to 100%, preserving their prior relative shares.*
+*Source: `Official_Population_Census.md` Sections A–C. **Recalculated 2026-07-13** — China removed as a methodology-violating entry (see `Upper_Earth_Immigration_Composition.md`'s Sejong section for the full reasoning: China appeared nowhere else in the Palmer subnet, its inclusion here traced to real-world Great Wall Station's presence on King George Island despite this project's own rule that station-operator identity is excluded from this composite). Remaining nations rescaled proportionally (×1.2481) to sum to 100%, preserving their prior relative shares.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -64,22 +64,42 @@ The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both found
 **Mean annual temperature:** -1.7°C  _(READER station: King_Sejong; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest months avg −8°C; warmest month avg +3°C; above-freezing temperatures frequent in summer
 **No polar night; no midnight sun** — at 62°13'S; winter minimum daylight ~6–7 hours; summer maximum ~18–19 hours
-**Annual precipitation:** approximately 500–700mm; mix of snow and rain; among the wetter Tepenian locations
+**Winter solstice daylight minimum:** approximately 5.0 hours
+**Summer solstice daylight maximum:** approximately 19.9 hours
+**Annual precipitation:** **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~25 km); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | +1.9  | −2 to +8 | 60 | ~58% | 18 |
-| Feb | +1.7  | −4 to +6 | 58 | ~56% | 14 |
-| Mar | +0.8  | −7 to +2 | 54 | ~54% | 11 |
-| Apr | -1.2  | −10 to 0 | 50 | ~52% | 7 |
-| May | -2.7  | −12 to −2 | 46 | ~50% | 6 |
-| Jun | -4.9  | −13 to −3 | 44 | ~48% | 6 |
-| Jul | -5.5  | −13 to −3 | 44 | ~48% | 7 |
-| Aug | -5.3  | −12 to −2 | 46 | ~50% | 9 |
-| Sep | -3.9  | −9 to +1 | 50 | ~52% | 12 |
-| Oct | -2.1  | −6 to +4 | 54 | ~54% | 16 |
-| Nov | -0.4  | −3 to +6 | 58 | ~56% | 18 |
-| Dec | +0.8  | −2 to +7 | 60 | ~58% | 18 |
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **MARITIME** — *genuinely wet; precipitation behaves temperately*
+**Falls (reaches the surface):** ~702 mm/yr
+**Lands (accumulates and stays):** **~562 mm/yr** *(~80% retention)*
+**Lost to sublimation and wind transport:** ~140 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is among the mildest cities in the Federation (**36 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +8.1 | +3.3 | +1.9 | +0.1 | −2.6 | 54.4 | ~58% | 18.7 |  |
+| Feb | +7.1 | +3.3 | +1.7 | +0.1 | −5.3 | 66.4 | ~56% | 15.7 |  |
+| Mar | +4.8 | +2.1 | +0.8 | −1.3 | −4.7 | 72.1 | ~54% | 12.9 |  |
+| Apr | +7.7 | +0.2 | -1.2 | −3.8 | −6.7 | 65.6 | ~52% | 9.8 |  |
+| May | +1.8 | −1.5 | -2.7 | −6 | −12.5 | 60.6 | ~50% | 7.0 |  |
+| Jun | +4.9 | −3.1 | -4.9 | −8.3 | −13.9 | 53.4 | ~48% | 5.1 |  |
+| Jul | +2.5 | −3.8 | -5.5 | −9.7 | −15.9 | 60.5 | ~48% | 5.9 |  |
+| Aug | +1.1 | −3.6 | -5.3 | −9.3 | −11.5 | 62.1 | ~50% | 8.4 |  |
+| Sep | — | −2 | -3.9 | −7.1 | — | 59.8 | ~52% | 11.4 |  |
+| Oct | +2.2 | −0.9 | -2.1 | −4.7 | −7.9 | 54.6 | ~54% | 14.4 |  |
+| Nov | +3.1 | +0.4 | -0.4 | −2.7 | −4.5 | 46.7 | ~56% | 17.5 |  |
+| Dec | +4.6 | +2 | +0.8 | −1 | −2.5 | 46 | ~58% | 19.7 |  |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089251** (KING SEJONG), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (PROXY — Bellingshausen, King George I. (~25 km), added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Gameplay Notes
 - **The multinational island:** King George Island's diversity makes it the most cosmopolitan ruin landscape in DLC 3 — evidence of a dozen national communities in close proximity; architecturally varied, culturally layered

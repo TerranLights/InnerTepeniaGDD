@@ -21,7 +21,7 @@
 | Significant | South Korea, Japan, Germany, Russia, Australia *(founding wave)* |
 | Notable | Vietnam, Estonia, Thailand, Lithuania, Malaysia, Indonesia *(demoted 2026-07-06)*, Romania, Philippines, Latvia, New Zealand, Bulgaria, South Africa |
 
-*Source: `Official_Population_Census.md` Sections I-III. Adjusted 2026-07-06, in three rounds — see Founding Population Adjustment, below.*
+*Source: `Official_Population_Census.md` Sections A–C. Adjusted 2026-07-06, in three rounds — see Founding Population Adjustment, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -73,11 +73,64 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 ### Annual Climate
 
 **Climate data source:** Chinese National Antarctic Research Expedition (CHINARE) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1989–2026)  _https://legacy.bas.ac.uk/met/READER/_
-*Nearly identical to Sinheung — same Larsemann Hills location. Reference Sinheung.md for the monthly climate table.*
 
+**Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free Larsemann Hills terrain absorbs summer sun and runs warmer than the surrounding ice sheet; cold continental winter
 **Mean annual temperature:** -9.9°C  _(READER station: Zhongshan; 1991–2020 WMO standard normal)_
-**Polar night:** approximately May 22 → July 21 (~60 days)
-**Midnight sun:** approximately November 21 → January 21 (~61 days)
+**Record extremes:** summer daytime air temperatures (December–February) **frequently exceed +4 °C and can exceed +10 °C**; mean monthly winter temperatures range **−15 °C to −18 °C** *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of metres offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Temperature range:** coldest months (July/August) avg −16.1°C; warmest month (January) avg +0.2°C — **above freezing in the mean, one of only a handful of Tepenian cities where that is true**
+**Annual precipitation:** **148.9 mm** water equivalent _(proxy: Progress, Larsemann Hills (~1 km); measured monthly normals — see table)_ *(researched 2026-09-04)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **ICE-FREE OASIS** — *small precipitation budget, high transport*
+**Falls (reaches the surface):** ~149 mm/yr
+**Lands (accumulates and stays):** **~67 mm/yr** *(~45% retention)*
+**Lost to sublimation and wind transport:** ~82 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **WIND, on a small budget.** At **-9.9 °C** this is a comparatively mild site (**27 of the 37 are colder**) with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately May 29 → July 16 (~49 days)
+**Midnight sun:** approximately November 22 → January 22 (~62 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
+
+> **⚠ Polar-night figure corrected 2026-09-04.** Previously *~60 days*, paired with *~61 days* of midnight
+> sun. **The near-equality was the tell.** This close to the Antarctic Circle the two spans are strongly
+> asymmetric — refraction and the sun's disk both act to *lengthen* midnight sun and *shorten* polar night,
+> and at **69°22'S** the computed values are **49** and **62** days. **The midnight-sun figure was very
+> nearly right; the polar-night figure was eleven days too long.** *(Same convention that reproduces
+> Rothera's recorded ~16-day polar night to within a day.)*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +9.5 | +3.3 | +0.2 | −1.6 | −4.7 | 5.2 | ~30% | 24 | Midnight sun; melt streams running; lakes ice-free |
+| Feb | +5.9 | 0 | -2.9 | −4.6 | −10.9 | 11.2 | ~29% | 17.4 | Melt ending; light falling fast |
+| Mar | −1.5 | −6.1 | -8.3 | −10 | −19.7 | 16.9 | ~27% | 13.2 | Autumn; refreeze |
+| Apr | −4.9 | −9.5 | -13.1 | −14.6 | −28.4 | 9.9 | ~25% | 8.8 | Darkening |
+| May | −6.8 | −11.9 | -15.2 | −17.5 | −33.8 | 16.8 | ~24% | 4.2 | Polar night begins ~May 29 |
+| Jun | −6.4 | −10.6 | -14.6 | −16.1 | −28.3 | 18.7 | ~23% | 0 | Full polar night; a slight midwinter plateau |
+| Jul | — | −12.9 | -16.1 | −19.1 | — | 11.8 | ~23% | 0 | Coldest month; polar night ends ~Jul 16 |
+| Aug | — | −12.5 | -16.1 | −18.1 | — | 11.5 | ~24% | 6.7 | Equal-coldest; light returning |
+| Sep | — | −10.6 | -15.4 | −16.1 | — | 15.8 | ~25% | 11.1 | Spring; still deep cold |
+| Oct | +2.1 | −7.9 | -12.0 | −14.1 | −19.9 | 14 | ~27% | 15.4 | Warming |
+| Nov | +5.8 | −1.9 | -4.8 | −7.7 | −9.1 | 6.8 | ~29% | 21.0 | Midnight sun from ~Nov 22; thaw beginning |
+| Dec | +7.6 | +2.8 | -0.5 | −2.1 | −4.1 | 10.3 | ~30% | 24 | Midnight sun; melt season |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089573** (ZHONGSHAN), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (PROXY — Progress, Larsemann Hills (~1 km), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts published. **Avg Daylight:* computed from this city's own latitude.*
+
+
+
+*Polar night ~May 29–Jul 16 (~49 days); midnight sun ~Nov 22–Jan 22 (~62 days)*
+
+> ⚠ **Sibling inconsistency, logged not fixed.** `Specs/Sinheung.md` — same Larsemann Hills, ~1 km away —
+> gives annual precipitation as *200–300 mm* and carries the same wrong *~60-day* polar night. **The AARI
+> figure for the oasis is 159 mm.** Sinheung is outside this pass's scope.
 
 ---
 

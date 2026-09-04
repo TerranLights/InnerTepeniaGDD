@@ -21,7 +21,7 @@
 | Significant | Germany, France, UK, Canada, Brazil |
 | Notable | Poland, Netherlands, Argentina, Czech Republic, Hungary, South Africa *(founding wave)*, Slovakia, Chile, Croatia, Serbia, Slovenia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -69,27 +69,45 @@ The Weddell Sea is one of the most ice-choked bodies of water in the world — t
 **Record extremes:** record low approximately −55°C; record high approximately +5°C
 **Prevailing winds:** southerly and southeasterly off the Antarctic continent; average 6–9 m/s; the Weddell Sea area produces significant storm systems; the Brunt Ice Shelf position offers less terrain shelter than a rocky coastal site
 **Annual precipitation:** approximately 300–450 mm water equivalent; predominantly snow; moderate by Antarctic coastal standards
-**Polar night:** approximately April 30 → August 14 (~106 days)
-**Midnight sun:** approximately October 16 → February 25 (~132 days)
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **ICE SHELF** — *flat, exposed, heavily redistributed*
+**Falls (reaches the surface):** ~450 mm/yr
+**Lands (accumulates and stays):** **~292 mm/yr** *(~65% retention)*
+**Lost to sublimation and wind transport:** ~158 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **BOTH — and wind is the sharper of the two.** At **-19.0 °C** (10 cities are colder), the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**persistent katabatic drainage**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous, and the surface itself moves with the shelf.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately May 3 → Aug 11 (~101 days)
+**Midnight sun:** approximately Oct 31 → Feb 13 (~106 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
 #### Monthly Summary
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) | Notes |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|-------|
-| Jan | −5 | −12 to +2 | 35 | ~35% | 24 | Midnight sun; warmest period |
-| Feb | −13 | −21 to −5 | 35 | ~35% | 21 | Temperature dropping; days shortening |
-| Mar | −20 | −29 to −11 | 30 | ~30% | 12 | Autumn; sea ice forming on Weddell Sea |
-| Apr | −24 | −33 to −15 | 25 | ~25% | 3 | Polar night begins ~Apr 30 |
-| May | −26 | −35 to −17 | 22 | ~25% | 0 | Full polar night |
-| Jun | −27 | −37 to −17 | 22 | ~25% | 0 | Full polar night; winter solstice |
-| Jul | −28 | −38 to −18 | 22 | ~25% | 0 | Full polar night; coldest month |
-| Aug | −27 | −37 to −17 | 25 | ~25% | 0–2 | Polar night ends ~Aug 14 |
-| Sep | −23 | −32 to −14 | 28 | ~30% | 9 | Sun returns; still very cold |
-| Oct | −16 | −24 to −8 | 32 | ~35% | 17 | Warming; midnight sun approaching |
-| Nov | −9 | −16 to −2 | 35 | ~35% | 23 | Midnight sun approaching |
-| Dec | −5 | −12 to +2 | 35 | ~35% | 24 | Midnight sun; warmest period |
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +7.2 | −2 | −5 | −6.5 | −22.9 | 35 | ~35% | 24 | Midnight sun; warmest period |
+| Feb | +5.3 | −6.7 | −13 | −12.4 | −31.8 | 35 | ~35% | 21.7 | Temperature dropping; days shortening |
+| Mar | +1.1 | −12.9 | −20 | −19.3 | −41 | 30 | ~30% | 13.7 | Autumn; sea ice forming on Weddell Sea |
+| Apr | −1.5 | −19.3 | −24 | −26 | −50.9 | 25 | ~25% | 7.2 | Polar night begins ~May 3 |
+| May | 0 | −22 | −26 | −29 | −54.2 | 22 | ~25% | 0 | Full polar night |
+| Jun | −0.5 | −22.7 | −27 | −29.3 | −54 | 22 | ~25% | 0 | Full polar night; winter solstice |
+| Jul | −5.5 | −25.2 | −28 | −31.7 | −54.4 | 22 | ~25% | 0 | Full polar night; coldest month |
+| Aug | −3.5 | −24.9 | −27 | −31.5 | −53 | 25 | ~25% | 2.8 | Polar night ends ~Aug 11 |
+| Sep | −1.1 | −23.3 | −23 | −30 | −49.4 | 28 | ~30% | 10.7 | Sun returns; still very cold |
+| Oct | −0.9 | −16.9 | −16 | −23.6 | −44.1 | 32 | ~35% | 17.1 | Warming; midnight sun approaching |
+| Nov | +2.2 | −8.9 | −9 | −14.4 | −32 | 35 | ~35% | 24 | Midnight sun approaching |
+| Dec | +6.8 | −2.9 | −5 | −7.1 | −20.6 | 35 | ~35% | 24 | Midnight sun; warmest period |
+
+***Monthly record extremes (Halley, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Halley, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
+
 
 #### Notable Weather Phenomena
 

@@ -1,0 +1,14 @@
+	// body parts
+	// possible representation
+
+Brain (Jungian Mind Model) // Conscious/Subconscious
+Spinal Cord + Peripheral Nervous System
+Eyes
+Ears
+Heart
+Lungs
+Stomach
+Intestines
+Kidneys
+Liver
+Pancreas

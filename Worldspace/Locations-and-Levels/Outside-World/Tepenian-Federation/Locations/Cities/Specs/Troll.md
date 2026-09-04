@@ -21,7 +21,7 @@
 | Significant | Germany, France, UK, Russia, Brazil |
 | Notable | Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway *(founding operator heritage)*, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Source: `Official_Population_Census.md` Sections I-III.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -74,27 +74,49 @@ Troll Airfield is the defining infrastructure feature. Real-world Troll Airfield
 
 **Climate type:** Inland Queen Maud Land nunatak — more continental than the coastal cities; katabatic wind exposure; colder winters than the coastal Halley subnet cities
 **Mean annual temperature:** approximately −22°C
+**Prevailing winds:** strong katabatic winds off the plateau; the station sits 235 km inland at Jutulsessen *(researched 2026-09-04)*
+**Record extremes:** summer reaches about **0 °C**; winter lows around **−50 °C**, with a winter average near −30 °C *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −33°C; warmest month avg −6°C
-**Polar night:** approximately May 6 → August 7 (~93 days)
-**Midnight sun:** approximately November 4 → February 8 (~96 days)
+**Polar night:** approximately May 16 → Jul 29 (~75 days)
+**Midnight sun:** approximately Nov 11 → Feb 1 (~83 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
+**Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 **Annual precipitation:** approximately 100–200mm; predominantly snow; drier than coastal cities
 
-| Month | Avg Temp (°C) | Temp Range (°C) | Avg Precip (mm) | Precip Probability | Avg Daylight (hrs) |
-|-------|---------------|-----------------|-----------------|--------------------|--------------------|
-| Jan | −6 | −14 to +2 | 18 | ~33% | ~24* |
-| Feb | −13 | −22 to −4 | 16 | ~31% | 15 |
-| Mar | −20 | −29 to −11 | 13 | ~29% | 10 |
-| Apr | −27 | −36 to −18 | 11 | ~27% | 4 |
-| May | −32 | −41 to −23 | 9 | ~25% | ~0* |
-| Jun | −33 | −42 to −24 | 8 | ~24% | ~0* |
-| Jul | −33 | −42 to −24 | 8 | ~24% | ~0* |
-| Aug | −31 | −40 to −22 | 9 | ~25% | ~0* |
-| Sep | −24 | −33 to −15 | 12 | ~28% | 11 |
-| Oct | −16 | −25 to −7 | 15 | ~30% | 17 |
-| Nov | −8 | −17 to +1 | 17 | ~32% | ~24* |
-| Dec | −6 | −14 to +2 | 18 | ~33% | ~24* |
+#### ⭐ Precipitation regime — what falls vs what lands
 
-*Polar night ~May 6–Aug 7 (~93 days); midnight sun ~Nov 4–Feb 8 (~96 days)*
+**Regime:** **INTERIOR** — *low fall, moderate redistribution*
+**Falls (reaches the surface):** ~200 mm/yr
+**Lands (accumulates and stays):** **~140 mm/yr** *(~70% retention)*
+**Lost to sublimation and wind transport:** ~60 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⚠ **MIXED.** At **-22.0 °C** (7 cities are colder), this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~200 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | +4.1 | +2 | −6 | −14 | −20.2 | 18 | ~33% | 24* |  |
+| Feb | +3.5 | −4 | −13 | −22 | −21.2 | 16 | ~31% | 18.6 |  |
+| Mar | −0.7 | −11 | −20 | −29 | −28.1 | 13 | ~29% | 13.4 |  |
+| Apr | −3.2 | −18 | −27 | −36 | −30.1 | 11 | ~27% | 8.3 |  |
+| May | −5.2 | −23 | −32 | −41 | −29.9 | 9 | ~25% | 1.0 |  |
+| Jun | −6 | −24 | −33 | −42 | −34.8 | 8 | ~24% | 0* |  |
+| Jul | −4.1 | −24 | −33 | −42 | −34.7 | 8 | ~24% | 0* |  |
+| Aug | −7 | −22 | −31 | −40 | −37.2 | 9 | ~25% | 5.7 |  |
+| Sep | −5.3 | −15 | −24 | −33 | −39.5 | 12 | ~28% | 11.0 |  |
+| Oct | −3.1 | −7 | −16 | −25 | −36.8 | 15 | ~30% | 15.9 |  |
+| Nov | +5 | +1 | −8 | −17 | −25 | 17 | ~32% | 24* |  |
+| Dec | +1.4 | +2 | −6 | −14 | −17.5 | 18 | ~33% | 24* |  |
+
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089504** (TROLL IN ANTARKTIS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+
+
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+
+
+*Polar night ~May 16–Jul 29 (~75 days); midnight sun ~Nov 11–Feb 1 (~83 days)*
 
 #### Gameplay Notes
 - **The contested airfield:** Troll Airfield's 3,000m runway capable of intercontinental aircraft is the single most significant aviation infrastructure in the Halley subnet; the runway is functional post-war but its operation is contested — who controls the airfield, under what terms, and who can land there are central DLC 5 questions

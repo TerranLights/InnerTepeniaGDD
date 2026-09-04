@@ -282,10 +282,15 @@ Run per particular. Five steps, and step 2 is the one that does the work.
 > the repulsion case and skipped its mirror on the assumption that what drives people out is always sharper.
 > **That is wrong for any place people choose**, and the correction has a worked example in canon.
 >
-> **The shape to look for:** a location whose institutions grew into a draw strong enough that people **make
-> excuses to be able to move there** — and whose symbolic outlier status is *the attraction itself rather than
-> a cost it bears.* ***A pass that only ever asked "what drives people out" would produce such a place with no
-> explanation for why anyone is there.*** *(Worked instance archived: `Test_Runs/Worked_Examples_Archive/`.)*
+> **The shape to look for:** a location whose institutions grew into a genuine draw, **where the property that
+> makes it exceptional is the ATTRACTION rather than a cost it bears.** ***A pass that only ever asked "what
+> drives people out" would produce such a place with no explanation for why anyone is there.***
+> *(Worked instance archived: `Test_Runs/Worked_Examples_Archive/Pull_Push_Durability.md`.)*
+>
+> > ⛔ **SANITIZED 2026-09-03 — M-4.** ***This paragraph previously carried a verbatim phrase from one city's
+> > symbol-assignment rationale plus its symbolic read.*** **Anonymized, it was undetectable: an alias sweep
+> > of all 13 required-reading files across 8 alias patterns returned `0` and was CORRECT.** **See the archive
+> > file for what was removed and why.**
 >
 > **So run both, and keep them distinct:**
 > - **Pull** — the place offers something obtainable nowhere else. Interrogate: *what specifically, is it still
@@ -313,9 +318,10 @@ Run per particular. Five steps, and step 2 is the one that does the work.
 > who know your business — which are unpleasant and which hold.
 >
 > **The finding this produces is often that a location's greatest strength and its largest structural
-> vulnerability are the same property**, running in two directions. *(Worked case: a city famous for being the
-> place people move to, which retained 61.8% of its population against a 71.9% national mean when migration
-> became possible — third-lowest of thirty-three. The pull that fills it is the pull that emptied it.)*
+> vulnerability are the same property**, running in two directions.
+> *(Worked case archived: `Test_Runs/Worked_Examples_Archive/Pull_Push_Durability.md` — a pull location whose
+> retention figure sat far below the national mean. **The figures, the rank and the closing formulation are
+> there, not here.**)*
 >
 > **Cross-check this against G8's census-change technique** (`02` G8) — pull/push predicts retention, and
 > retention is measurable, so **this is one of the few places the methodology can check its own reading against

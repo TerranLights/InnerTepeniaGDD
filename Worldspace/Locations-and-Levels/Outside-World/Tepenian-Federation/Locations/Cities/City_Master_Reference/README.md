@@ -29,18 +29,70 @@ not tied to any one city and should be checked whenever they're relevant, not ju
 `Concordia-City_Main_Quest_Trajectory_Map_2026-07-10.html`,
 `Concordia_City_viewed_from_the_air_-_banner_image.jpeg` — all Concordia-only.
 
-### `Reference/Real-World/` — three general-purpose folders
+### `Reference/Real-World/` — ⭐ **FOUR** general-purpose folders *(was three — corrected 2026-09-03)*
 
-*(The other six subfolders — `Davis_Geosciences_Research`, `Ice-Cold_Buddhism_Research`,
-`Pisces_Flood_Mechanism_Research`, `PTSD_Military_Trauma_Research`,
-`Vostok_Genetics_Research`, and the empty `Climate Data` — are single-city or
-single-character research, confirmed out of scope for this index by the developer.)*
+> # ⛔⛔ CORRECTION 2026-09-03 — **`Climate Data` IS NOT EMPTY. It holds 37 files.**
+>
+> **This section read *"the empty `Climate Data`"* and listed it among six subfolders *"confirmed out of
+> scope for this index."*** ***It contains `Climate Data/READER/` — 37 per-city climate files, BAS READER,
+> WMO 1991–2020 standard normals, individually cited.***
+>
+> ### The timeline is the point
+> **READER was committed `2026-07-04`. This index was written `2026-09-02` — two months later — and declared
+> the folder empty.**
+>
+> ### The cause, and it is mechanical rather than careless
+> **A listing of `Climate Data/` returns exactly one entry: `READER`, a DIRECTORY. No `.md` files at the top
+> level.** ***A shallow check sees no files and concludes "empty."***
+>
+> > **⚠ THE SAME BUG WAS MADE INDEPENDENTLY A SECOND TIME, on 2026-09-03**, by an audit script testing for
+> > per-city concept art: **it matched FILENAMES, and the art is stored in per-city DIRECTORIES**, so it
+> > reported `0 of 37` — a total-gap claim that was false. ***Two different sessions, two months apart, same
+> > error: a container mistaken for an absence.***
+> >
+> > **The rule that follows: when a check returns "empty" or "zero," confirm the instrument descends.**
+> > *`04` Part IV already says a scan is worthless until proved it could find a hit; this is that rule for
+> > directory trees.*
+>
+> **Consequence:** ***the strongest `G2` supply in the project sat unregistered and declared out-of-scope for
+> two months.*** **Now registered in `00_RUNBOOK.md` §C.9 and at the point of use in §C.8c Phases 1 and 3.**
+
+*(The other five subfolders — `Davis_Geosciences_Research`, `Ice-Cold_Buddhism_Research`,
+`Pisces_Flood_Mechanism_Research`, `PTSD_Military_Trauma_Research` and
+`Vostok_Genetics_Research` — are single-city or single-character research, confirmed out of
+scope for this index by the developer.)*
 
 | Folder | Contents | Use |
 |---|---|---|
+| ⭐⭐ **`Climate Data/Precipitation_Falls_vs_Lands.md`** | **THE precipitation reference.** Four distinct quantities — *falls aloft · reaches the surface · accumulates · gauge-caught* — differing by **more than an order of magnitude**, with the mechanism, the published coefficients, and a falls-vs-lands figure for **all 37 cities** | **Phases 1 and 3; any weather, construction, agriculture or daily-life writing.** ⛔ **READ THIS BEFORE USING ANY PRECIPITATION NUMBER.** *Amundsen Station's gauge reads 2.1 mm against ~70–80 mm of actual accumulation — the gauge catches ~3%.* ⭐ **The controlling variable is WIND, not cold: Vostok and Denison are equally cold and are opposite weather experiences** |
+| ⭐ **`Climate Data/Climate_Data_Corpus_Audit_2026-09-04.md`** | The 37-city audit: what was wrong, what was corrected, and per-column provenance policy | Read before trusting any pre-2026-09-04 climate figure |
+| ⭐ **`Climate Data/READER/`** *(38 files)* | Per-city monthly mean temperatures — **BAS READER, WMO 1991–2020 standard normals**, each with its climate authority, data period and citation | **`G2`, Phases 1 and 3.** ⛔⛔ **MOST FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE TEPENIAN CITY** — `Aboa.md` *(Abowasa)*, `Princess_Elizabeth.md` *(note the `z`)*, `Sejong.md` *(King Sejong)*. ***A search by city name can return a confident false negative; use the ALIAS SET.*** *(`Bharati_TBD.md` was renamed to `Shirayuki.md` 2026-09-04 — that particular trap is closed.)* ⚠ **Temperature ONLY in most files — no precipitation, no daylight** *(checked 2026-09-03)*; **the four written or rewritten 2026-09-04** — `Denison` *(created)*, `Shirayuki`, `Port_Lockroy`, `Juan_Carlos` — **also carry precipitation, daylight and proxy provenance.** **Denison's gap is closed.** |
 | **`Industry_Staffing_and_Productivity/`** | MCAA Labor Productivity Factors (Ibbs & Sun, ASCE 2016) — the sourced basis for the whole difficulty layer; its in-depth companion critique; a wastewater-plant staffing guide (image-only PDF, not yet OCR'd) | Already consumed by `Division_of_Industry/08` §4.1, §6.4b. **The README inside names unobtained sources worth a future session** — RSMeans location factors, AWWA staffing benchmarks, CRREL cold-regions studies, McMurdo's functional staff breakdown |
 | **`jobs_professions_and_fields/`** | The full SOC 2018 manual (23 major → 98 minor groups) plus derived cross-category and district-matching notes | The source behind the SOC cross-check that found four missing industries in the 22-industry register (`00_Necessary_Industries_Register.md`) |
 | **`Stations/`** | `Antarctic_Stations_With_Airstrips.md`, the COMNAP Antarctic Station Catalogue (PDF) | The founding/real-world-basis reference for any city — **note `Locations/Infrastructure/Airports.md`'s own caveat: this list is background reference only, not a predictor of Tepenia's own airport network**, which was confirmed separately from the developer's own map |
+
+---
+
+### ⭐⭐ `Universal_Location_Methodology/` — **the input roster, the audit, and the to-do.** Added 2026-09-03
+
+**This index answers *"what already exists for this city."*** ***These three answer the inverse — "what is
+REQUIRED, and which cities do not have it."*** **Read them together; neither half is complete alone.**
+
+**Base:** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/`
+
+| File | What it is | Use |
+|---|---|---|
+| **`ULM_Input_Required_Reference.md`** | **THE BAR** — every input the ULM cannot produce for itself: Tier 0 blocking · Tier 0b · the eight Tier 1 generators · Tier 2 · 21 Tier 3 particulars · per-phase canon targets · RESERVED · the three admissibility axes. **Each row: a verified ABSOLUTE address and a MECHANICAL presence test** | **Before assessing any city**, to know what it is supposed to have |
+| **`ULM_Input_Available_Audit.md`** | **THE MEASUREMENT** — all 37 cities checked against that bar, organized by subnet | To see, per city, what is absent. ⚠ **Read its SCOPE-CORRECTIONS box first** — four fields were struck after measurement and their rows are stale by design |
+| **`Location_Data-Input_To-Do.md`** | **THE RANKED LIST** — what is still missing, ordered by how many cities lack it, with stated tie-breaks | ⚠ **Carries a blind-spot warning: *when the count and the tier disagree, the tier wins.*** Also a `Removed` section — **four fields are NOT requirements; do not re-add them** |
+
+> ### The headline the audit produced, because it bears on every city in this index
+> ***No city has a declared EXTENT — 0 of 37.*** **`01` §2 requires both a population band and an extent
+> band; `00_RUNBOOK.md` Step 2 orders the division; `04` Gate 11's only recorded catch came from it.**
+> **Six cities carry an area figure and NONE is a city extent** — each measures the real-world *site*.
+> ⚠ **Sayowa's own spec has already run the division and recorded `~50,000/km² — the implausibility`.**
+> **`density = Census I ÷ extent`, and Census I is complete for all 37 — so fixing either variable derives
+> the other for the whole corpus. It is one ruling, not thirty-seven.**
 
 ---
 
