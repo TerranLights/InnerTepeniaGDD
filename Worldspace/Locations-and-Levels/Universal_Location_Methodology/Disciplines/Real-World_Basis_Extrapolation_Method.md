@@ -1,6 +1,6 @@
 > # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
 >
-> **Source:** `../../Real-World_Basis_Extrapolation_Method.md` · **pinned 24fcffb88403e0e9 · 143 lines · 2026-09-03**
+> **Source:** `../../Real-World_Basis_Extrapolation_Method.md` · **pinned 5816ead09770e8d9 · 178 lines · 2026-09-03**
 >
 > ***Nothing was cut from the original.*** **This is the Universal Location Methodology's own reading of the
 > same rules — identical in substance, with location-specific worked instances replaced by pointers** — so the
@@ -42,6 +42,37 @@ or sub-space does this real place actually have — one this location could plau
 
 Both already exist and are populated for every location — this method doesn't require generating new picks, only
 using the ones already there more thoroughly than a single Mega-Init pass typically has room to.
+
+---
+
+## ⛔⛔ STANDING PRINCIPLE — READ BEFORE STEP B, IN ANY UNIVERSE
+
+**Added 2026-09-03, after a real violation on a real Run 15 (Shirayuki).** This technique's whole job is
+researching a real place and fusing it into fiction — which is exactly the operation where a real-world
+basis's *origin* (which real-world nation, culture, or institution first built or claimed the thing being
+researched) can quietly become load-bearing in the fiction if it is not deliberately excluded.
+
+**The general principle, universal to any setting using this method:** a real-world basis is a coordinate,
+never a cause. Its identity may fix *where* something is or *what it physically consists of*; it must never
+be the *reason* anything in the fiction is true — not a population's character, not an institution's origin
+story, not a plot event, not a design choice — regardless of how neutrally or structurally the sentence is
+framed. **A defensive "this doesn't apply here" note is itself a violation of the same kind**, not a safe
+workaround — the fix is omission, not disclaimer.
+
+**The trap specific to this method:** Step B sends you to research a real, named site, which was very likely
+built, staffed, or claimed by a real real-world actor with a real operational history. All of it is genuinely
+interesting and none of it is safely usable as *causal* material for the fiction. Where a setting's own
+founding-era infrastructure survives across a long time gap via unspecified intermediate custodianship, the
+ORIGINAL builder's specific design intent is not safely present-day material either, independent of who they
+were — what exists at founding is the product of that whole gap, not a direct inheritance from one origin
+point.
+
+**What stays fully usable:** pure physical/geographic facts about the land or object itself — terrain,
+climate, materials, dimensions, physical constraints. These hold regardless of who built or claimed anything.
+**When genuinely unsure whether a real-world thread is safe, omit it rather than reframe it.**
+
+*(This project's own binding instance of this principle — with worked violation examples and a case study —
+lives in the canon registry, `00_RUNBOOK.md` §B. Check it before any Step 3 research pass.)*
 
 ---
 

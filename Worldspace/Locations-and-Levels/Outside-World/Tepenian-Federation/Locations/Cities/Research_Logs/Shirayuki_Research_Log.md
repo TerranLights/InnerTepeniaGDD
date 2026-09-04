@@ -50,4 +50,34 @@ address read as *in a neighbor's present* (Sinheung), per `02` §4.1.
 
 **Open thread, unchased:** the ASMA (Antarctic Specially Managed Area) designation itself — this is a real, present-day environmental-protection status on the actual site. Not yet evaluated for whether/how it fuses into Shirayuki's own material.
 
+### ⛔⛔ KILLED FINDING — Search 1's "built to disappear, made permanent instead"
+
+**Retracted 2026-09-03, same session, on developer correction.** Search 1's fusion — the station's specific
+construction (shipping containers, disassembly-for-removal design) read as thematic material for present-day
+Shirayuki — is **withdrawn entirely, not reframed.** Two independent violations of `Reference/
+No_National_Stereotypes.md`, found in sequence:
+
+1. **National attribution as cause**, disguised as neutral structural fact. Framing the design as meaningful
+   *because* a specific real nation built it — even stripped of character-stereotype language — is exactly the
+   violation `No_National_Stereotypes.md` item 3 names: *"even a defensive 'no overlap, no issue' note is
+   itself a violation."* Compounded by reaching for a SECOND nation's real infrastructure (Zhongshan/Progress
+   Station, China negotiating Russian runway access) as a "more directly relevant" real-world parallel —
+   the same violation, immediately repeated, with different names in it.
+2. **The deeper problem, caught on reflection:** `No_National_Stereotypes.md` §13 establishes that founding-
+   era infrastructure survives to a location's actual founding via a *rotating, unspecified succession of
+   national operators* across centuries. This means the ORIGINAL station's specific 2010s-era construction
+   details are not safely usable as present-day material **at all** — independent of who built it — because
+   what exists at founding is the product of the whole intervening chain, not a direct inheritance from one
+   origin point.
+
+**What survives, unaffected:** the pure physical/geographic facts from Search 2 (katabatic winds, ice-free
+oasis rarity, coordinates, temperature) — these hold regardless of construction history or national origin,
+and remain legitimate G2 material.
+
+**Fixes made the same session:** a `PreToolUse` hook now denies any `WebSearch`/`WebFetch` call in this
+project naming a real-world nation or demonym (`.claude/hooks/deny-national-content.py`). `Real-World_Basis_
+Extrapolation_Method.md` (both the original and the ULM `Disciplines/` copy) now carries an explicit warning
+before Step B, since this file's whole job — researching a real place and fusing it into fiction — is exactly
+where this violation recurs. Full account: `OBSERVATIONS_and_Methodology_Findings.md` M-138.
+
 

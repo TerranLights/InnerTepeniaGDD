@@ -24,6 +24,41 @@ using the ones already there more thoroughly than a single Mega-Init pass typica
 
 ---
 
+## ⛔⛔ BINDING LAW — READ BEFORE STEP B. `Reference/No_National_Stereotypes.md` (universe-wide, GPS-only).
+
+**Added 2026-09-03, after a real violation during Shirayuki's Step 3.** This file's whole job is researching a
+real place and fusing it into fiction — which is exactly the operation `No_National_Stereotypes.md` exists to
+constrain, and this file never said so before now.
+
+**The rule, in full:** a location's real-world founding nation — which country originally built the underlying
+station — is a GPS coordinate only. **It must never be a reason, cause, or explanation for anything else, and
+that includes research done under this method.** Self-check: if a sentence's meaning would change were the
+founding nation swapped for a different one, it violates the rule.
+
+**⛔ THE TRAP THIS FILE SPECIFICALLY CREATES:** Step B sends you to research a real, named site. That site was
+very likely built by a real nation, staffed by real personnel, and has a real operational history — all of it
+genuinely interesting, all of it inadmissible as *causal* material regardless of how the sentence is framed.
+**Two ways this fails even when the word "stereotype" never appears:**
+
+1. **National attribution disguised as neutral infrastructure/logistics fact.** *"Built to [nation]'s
+   specifications," "the operator negotiated access to a neighboring nation's runway"* — this reads as
+   structural, not cultural, and is banned exactly the same. **Even a defensive "not carried forward, noted and
+   set aside" line is itself a violation** (`No_National_Stereotypes.md` item 3) — the fix is silence, not a
+   disclaimer.
+2. **Treating the ORIGINAL station's specific construction as still causally present.** `No_National_
+   Stereotypes.md` §13 establishes that founding-era infrastructure survives to a location's actual founding via
+   a *rotating, unspecified succession of national operators* across centuries — **which means the real
+   station's original build details are not safely usable as present-day material at all**, independent of
+   which nation built it. What exists at founding is the product of that whole chain, not a direct inheritance
+   from one original construction.
+
+**What stays fully usable, unaffected by any of this:** pure physical/geographic facts about the LAND itself —
+terrain, climate, wind, ice, altitude, hydrology, biology, coordinates. These don't change no matter who built
+what, when. **When in doubt about whether a real-world thread is safely usable, the correct move is to OMIT it
+entirely, not to reframe it** — see `No_National_Stereotypes.md`'s own Juan Carlos case study.
+
+---
+
 ## The process
 
 **Step A — Pull the full pick list.** Every Primary/Secondary/Supporting entry for the location, not just the

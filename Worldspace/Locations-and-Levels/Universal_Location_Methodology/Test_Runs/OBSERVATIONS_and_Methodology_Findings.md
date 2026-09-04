@@ -5417,3 +5417,63 @@ and either wrongly correct it or waste a hand-check cycle re-deriving the same a
 
 **Fix:** ruling recorded here; standing note added to `00_RUNBOOK.md` §C.6 (same commit) so the convention is
 discoverable at the point a future pass would hit the same apparent mismatch, without needing to re-ask.
+
+---
+
+# M-138
+
+## ⛔⛔ STEP 3'S OWN INSTRUMENT NEVER WARNED ABOUT THE PROJECT'S BIGGEST STANDING LAW — AND A DETAILED MEMORY DIDN'T STOP THE VIOLATION EITHER
+
+**Run 15 (Shirayuki), 2026-09-03.** Step 3 research, using `Real-World_Basis_Extrapolation_Method.md` exactly
+as directed, produced a live `No_National_Stereotypes.md` violation — twice in immediate succession, the
+second one arriving *after* the first was corrected.
+
+### The two violations, and why the second one is the more important finding
+
+1. **National attribution disguised as neutral structural/infrastructure fact.** Real Bharati Station's
+   construction (shipping containers, Antarctic-Treaty disassembly design) was framed as thematically
+   load-bearing for Shirayuki, with the founding nation's name attached. Corrected on developer flag.
+2. **The same violation immediately recurred, with different nations in it.** Searching for a real-world
+   comparable, the session reasoned "the real Larsemann Hills already has multiple real nations' stations
+   clustered together — that's more directly relevant than a generic historical analogy" and went on to
+   research China/Russia infrastructure-sharing at the real Zhongshan/Progress stations. **Proximity to the
+   real setting was treated as license, when it should have raised the risk** — the closer real national
+   detail sits to the fictional setup, the easier it is to blur the two.
+
+### Why a correction didn't prevent a repeat, and what that implies
+
+**The deriving session had FIXED the surface form of the first violation (removed character-stereotype
+language) without fixing the underlying MECHANISM (importing what a real nation actually does at a real place
+into the fiction).** Restating a rule abstractly is not the same as having internalized its actual boundary —
+this session could state "GPS purposes only" correctly in words and still violate it in the very next action.
+
+**And a pre-existing, extremely detailed memory entry — six-plus prior instances, an explicit violation
+checklist, the user's own repeated verbatim corrections — was never surfaced during this work at all.** Memory
+recall is relevance-triggered; it did not fire for real-world-basis research specifically, even though that is
+exactly the operation the entry is about. ***A safeguard that exists only in memory is only as reliable as the
+recall mechanism's timing — which is not guaranteed, and was not present when it mattered.***
+
+### The fix, generalized rather than personal
+
+**A private memory fix helps this session; it does nothing for a future cold session with no access to it.**
+Fixed at the level that survives a fresh session instead:
+
+1. **`Real-World_Basis_Extrapolation_Method.md` now carries an explicit warning before Step B**, in both the
+   original and the ULM `Disciplines/` copy (generalized appropriately — the ULM copy states the principle
+   universally and points to this project's own binding instance via `00_RUNBOOK.md` §B, per the layering
+   law). **This is the file every Step 3 pass actually opens** — the fix lives at the point of use, not only
+   in a memory index a session may or may not recall.
+2. **A harness-level `PreToolUse` hook** (`.claude/hooks/deny-national-content.py`) denies any `WebSearch`/
+   `WebFetch` call in this project whose query, prompt, or URL names a real-world nation or demonym. This is
+   the layer that does not depend on recall timing at all — it fires mechanically, every time, regardless of
+   whether the deriving session remembers to check.
+
+### The standing rule this generalizes to
+
+> **A rule stated correctly in the abstract is not evidence the boundary is understood.** ***Test it against
+> the very next action, not the one that was just corrected.*** And: **a documented failure pattern, however
+> detailed, protects only the session that happens to recall it at the right moment — the durable fix moves
+> the check to the instrument the work actually runs through, or to a mechanism the harness enforces
+> regardless of recall.**
+
+**Killed finding, full detail:** `Cities/Research_Logs/Shirayuki_Research_Log.md`, Session 1, "KILLED FINDING."

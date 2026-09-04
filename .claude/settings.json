@@ -21,6 +21,16 @@
         ]
       },
       {
+        "matcher": "WebSearch|WebFetch",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 '/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/.claude/hooks/deny-national-content.py'",
+            "statusMessage": "Checking for real-world national content..."
+          }
+        ]
+      },
+      {
         "matcher": "Read|Glob",
         "hooks": [
           {
