@@ -1494,6 +1494,20 @@ THE 37-CITY RUN" section carries the per-city results.**
 `05` §6.1's Column 3:** *"Admissible but self-originated. Use it — you are usually obliged to. **But tag
 every finding that rests on it**, because it is corroboration rather than independent confirmation."*
 
+### ⭐ STANDING CONVENTION — **ALL PROCESS-DERIVED FIGURES USE CENSUS I.** *(Developer ruling, 2026-09-03, M-137.)*
+
+**A workforce, throughput, or burden figure that looks inconsistent with a location's own stated
+population is very likely NOT an error.** ***Every process-derived figure in this corpus — burden-scoring,
+workforce modeling, care-institute throughput, and any other computation drawing a population input — is
+baselined on Census I, regardless of which census the location's own narrative frame uses.***
+
+**Why this bites often, not rarely.** `Official_Population_Census.md` states Census I → II is *pre-war
+migration to the orbital tier*, not loss — so **most or all of the 37 cities carry some Census I/II
+divergence**, and a Division-of-Industry (or similar process-driven) figure checked against a Census-II-framed
+location's own stated population will routinely look ~20–60% too high. **That is the convention working
+correctly, not drift to correct.** Verify by dividing the process figure by CENSUS I, not Census II, before
+concluding a mismatch is real. Full account: `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` M-137.
+
 ## C.7 ⭐ THE SYMBOL-SYSTEM REGISTER — **moved here from `02` §6.4, 2026-09-03, per the LAYERING LAW**
 
 **`02` specifies the register's SHAPE, which is universal. The actual register names actual files, member

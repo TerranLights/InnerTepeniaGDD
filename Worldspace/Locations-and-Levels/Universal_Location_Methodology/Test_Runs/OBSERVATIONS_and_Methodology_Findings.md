@@ -5387,3 +5387,33 @@ meaningfully higher, recoverable by the same surgical technique used on `Specs`,
 the citing passage is actually ABOUT the walk's subject. For a multi-subject reference file, classify the
 passage, not the file — the same escalation the ladder already prescribes for a 2–1 split, applied to
 provenance instead of admissibility.*** File as the general form of the fix Specs just received.
+
+---
+
+# M-137
+
+## RULING: ALL PROCESS-DERIVED FIGURES USE CENSUS I. **Developer ruling, 2026-09-03, Run 15 (Shirayuki).**
+
+**The question.** Run 15's G3 re-derivation (Division_of_Industry, §C.6) returned a workforce figure
+(890,078) that exceeds the location's own Census II population (728,324) by 22% — a plausible-looking number
+that failed a hand-check, per `00_RUNBOOK.md` Step 7's own standing warning. Computed against Census I
+(1,178,313) instead, the same figure is 75.5% — a defensible labor-participation rate.
+
+**Developer ruling, verbatim:** *"for our purposes, all processes use Census I numbers."*
+
+**What this settles.** Not an error, and not specific to Shirayuki. **Every process-derived figure in this
+corpus — burden-scoring, workforce modeling, care-institute throughput, and any other computation drawing a
+population input — is baselined on Census I, regardless of which census the location's own narrative frame
+uses.** A location framed on Census II (post-migration, still pre-war) will routinely show process figures
+that look inconsistent with its own stated population **and are not** — this is the intended convention, not
+a drift to correct.
+
+**Why this generalizes widely, not narrowly.** The census's own text (already read this run) states Census I
+→ II is *pre-war migration to the orbital tier*, not loss. **Most or all of the 37 cities will show some
+Census I/II divergence**, and therefore most or all will hit this same apparent mismatch the first time a
+Division_of_Industry (or similar process-driven) figure is checked against the location's own stated
+population. ***Without this ruling on record, every future pass would independently flag the same "error"
+and either wrongly correct it or waste a hand-check cycle re-deriving the same answer.***
+
+**Fix:** ruling recorded here; standing note added to `00_RUNBOOK.md` §C.6 (same commit) so the convention is
+discoverable at the point a future pass would hit the same apparent mismatch, without needing to re-ask.
