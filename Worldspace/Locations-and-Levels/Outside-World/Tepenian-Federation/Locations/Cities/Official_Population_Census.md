@@ -504,7 +504,7 @@ National communities are classified by tier based on long-run population share. 
 | 21 | Sejong | Palmer | 316,691 | 328,142 | **644,833** | *(island cap; revised 2026-07-04)* |
 | 22 | Marambio | Palmer | 283,442 | 286,827 | **570,269** | *(island cap; revised 2026-07-04)* |
 | 23 | Sanay | Halley | 231,576 | 232,093 | **463,669** | *(revised 2026-07-04)* |
-| 24 | Dumont d'Urville | Janbogo | 223,549 | 229,785 | **453,334** | *(island cap; revised 2026-07-04)* |
+| 24 | Dumont d'Urville | Janbogo | 201,194 | 206,807 | **408,001** | ⭐ **−10% 2026-09-05 — Gate 11.** *Was 223,549 / 229,785 / **453,334**.* ⛔ **`island cap` ANNOTATION REMOVED — this city is NOT island-capped**: it is a two-highway junction whose mainland half sits at the ice-sheet edge *(`Extent_and_Density_Per_City.md` §5)*. ⭐ **Extent declared: 45 km² mainland + ~2 km² archipelago = 47 km² → 8,681/km².** ⛔ **OVERFLOW 22,355 H / 22,978 R / 45,333 C HELD — §D-OVERFLOW** |
 | 25 | Fort McMurdo | Janbogo | 222,190 | 223,120 | **445,310** | *(island cap; revised 2026-07-04)* |
 | 26 | Vostok | Mirny | 129,617 | 259,644 | **389,261** | *(revised 2026-07-04)* |
 | 27 | Juan Carlos | Palmer | 189,742 | 196,950 | **386,692** | *(island cap; revised 2026-07-04)* |
@@ -621,7 +621,7 @@ National communities are classified by tier based on long-run population share. 
 | 23 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
 | 24 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(revised 2026-07-03)* |
 | 25 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
-| 26 | Dumont d'Urville | Janbogo | 134,634 | 177,372 | **312,006** | *(island cap)* |
+| 26 | Dumont d'Urville | Janbogo | 121,170 | 159,635 | **280,805** | ⭐ **−10% 2026-09-05** — *retention preserved (68.8248% → 68.8246%).* ⛔ `island cap` removed. **OVERFLOW 13,464 H / 17,737 R / 31,201 C HELD — §D-OVERFLOW** |
 | 27 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
 | 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
 | 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
@@ -698,11 +698,17 @@ cities are worked one at a time.**
 |---|---|--:|--:|--:|---|---|
 | **Port Lockroy** | **I** | **62,881** | **65,077** | **127,958** | ⛔ **Gate 11:** 128,887 on Goudier Island *(0.024 km²)* = **5,370,292/km², 4.3× Kowloon Walled City.** Reduced to **929** *(drawn 600–1,000, developer instruction 2026-09-05)* | ⏸️ **HELD — unassigned** |
 | **Port Lockroy** | **II** | **53,316** | **41,899** | **95,215** | *scaled from the Census I correction, retention preserved* | ⏸️ **HELD — unassigned** |
+| **Dumont d'Urville** | **I** | **22,355** | **22,978** | **45,333** | ⭐ **−10%, developer ruling 2026-09-05.** *Not a Gate 11 failure — its extent was DECLARED (45 km² mainland + ~2 km² archipelago = 47 km², **8,681/km²**, inside the plausible band). The 10% is a deliberate trim, not a correction* | ⏸️ **HELD — unassigned** |
+| **Dumont d'Urville** | **II** | **13,464** | **17,737** | **31,201** | *scaled at −10%, retention preserved* | ⏸️ **HELD — unassigned** |
+| | | | | | | |
+| ⭐ **POOL TOTAL** | **I** | **85,236** | **88,055** | **173,291** | *Port Lockroy + Dumont d'Urville* | ⏸️ **HELD** |
+| ⭐ **POOL TOTAL** | **II** | **66,780** | **59,636** | **126,416** | *Port Lockroy + Dumont d'Urville* | ⏸️ **HELD** |
 
 ### ⚠ Consequence for the totals, stated so nobody "fixes" it silently
 
-**The Palmer subnet total and the national TOTAL rows are now SHORT by the held amounts above** — *Census I by
-127,958 combined, Census II by 95,215.* ⛔ **That is intentional and temporary.** ***The totals reconcile again
+**The subnet totals and the national TOTAL rows are now SHORT by the held amounts above** — *Census I by
+**173,291** combined, Census II by **126,416*** *(Palmer subnet: Port Lockroy; Janbogo subnet: Dumont
+d'Urville)*. ⛔ **That is intentional and temporary.** ***The totals reconcile again
 once the overflow is redistributed; recomputing them now would erase the record that the population is owed
 somewhere.***
 

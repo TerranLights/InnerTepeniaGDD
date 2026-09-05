@@ -12,8 +12,36 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 223,549 humans / 229,785 robots / **453,334** combined *(island cap)*
-**Census II (Orbital Era):** 134,634 humans / 177,372 robots / **312,006** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 201,194 humans / 206,807 robots / **408,001** combined ⛔ *(the `island cap` label is REMOVED — see below)*
+**Census II (Orbital Era):** 121,170 humans / 159,635 robots / **280,805** combined ⛔ *(`island cap` removed)*
+
+> ### ⭐⭐ EXTENT DECLARED, AND POPULATION TRIMMED — **2026-09-05**
+> **`**Extent band:** ~47 km²` — 45 km² of mainland at the ice-sheet edge, plus the ~2 km² Géologie
+> Archipelago.** ⭐ **Density 8,681/km²** *(comparable to Milan or Singapore)*.
+>
+> ⛔⛔ **THIS CITY IS NOT ISLAND-CAPPED, and the census annotation has been removed.** ***Petrel Island is
+> 0.33 km² and the whole archipelago's land does not exceed 2 km² — five islands, all within 500 m of each
+> other.*** **453,334 people could not stand on that**; on Petrel alone it was **1,373,739/km², above Kowloon
+> Walled City's historical peak.**
+>
+> ⭐⭐⭐ **The city's own `**Highway access:**` field already required the answer:** it is *"a genuine
+> two-highway junction — Hwy 2's eastern terminus and Hwy 183's northern terminus, which connect directly to
+> each other here."* ***Two national highways cannot terminate on a 0.33 km² island 5 km offshore.*** **So
+> Dumont d'Urville was always a mainland city with an offshore old town** — the island is the historic core
+> *(the exposed rock was more buildable than the ice edge)*, and the mainland carries the roads, the freight
+> and the room.
+>
+> 🔬 **Adélie Land is *"permanently ice-covered, except for a few rocky outcrops on the coastline and the
+> islands bordering it"*** — **so the mainland half is built on ice, per the standing correction that ice is
+> buildable.** ⭐ **It is favorable ice: the coast at Cap Prud'homme carries a BLUE-ICE area** — *wind-scoured,
+> firm, load-bearing, and non-accumulating.* ⚠ **But this is a ~38%-retention katabatic margin, an ABLATION
+> setting: the surface LOWERS, so foundations progressively EXPOSE and must be re-bedded.** *A 45 km²
+> footprint is cheap in area and expensive in maintenance — the opposite trade from Denison, which pays in
+> height instead.*
+>
+> ⚠ **Population trimmed 10% by developer ruling** *(was 223,549 / 229,785 / **453,334**)*. **Human/robot
+> ratio and Census II retention preserved.** ⛔ **The 45,333 (Census I) and 31,201 (Census II) subtracted are
+> HELD in `Official_Population_Census.md` §D-OVERFLOW — a bookkeeping balance, NOT an event. Nobody left.**
 
 | Tier | Nations |
 |------|---------|

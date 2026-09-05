@@ -10,7 +10,8 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **1 of 11 resolved — Port Lockroy, §4.** ⏳ **Next: Dumont d'Urville** *(§5)*.
+> ✅ **2 of 11 resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)*. ⏳ **Next: Sayowa.**
+> ⚠⚠ **AND DENISON IS RE-OPENED** — *developer, after the Dumont d'Urville contrast: "that means we need to re-address Denison, then."*
 
 ---
 
@@ -77,11 +78,13 @@ standing correction that ICE IS BUILDABLE.**
 
 # 3 · ⚠ TWO SOFTENINGS, BEFORE ANY CITY IS REVISED
 
-### ⭐ 3.1 Dumont d'Urville probably is not a failure — it has DENISON'S structure
-**Île des Pétrels is 0.33 km², but the Géologie Archipelago it sits in extends over ~50 km².**
-**453,334 / 50 = 9,067/km²** — ***squarely in the plausible band.***
-⭐ **That is archipelago-spanning, the same form worked at Denison** *(`Extent_and_Area_APPROACH.md` §7b)*.
-⚠ **Likely the intended reading. Confirm rather than revise.**
+### ⛔ 3.1 ~~Dumont d'Urville probably is not a failure~~ — **THIS SOFTENING WAS WRONG. Corrected 2026-09-05.**
+**It read: *"the Géologie Archipelago extends over ~50 km², so 453,334 / 50 = 9,067/km², squarely in the
+plausible band."*** ⛔ ***The 50 km² figure is the archipelago's EXTENT — its SEA AREA — not land, and not a
+spannable envelope.*** 🔬 **The five islands' total land *"does not exceed 2 km²"*, and all of them lie within
+500 m of Petrel.** **On land the figure was 226,667/km², 4.9× Manila.**
+⭐ **The city was rescued by the MAINLAND instead — see §5.** ⚠ *Recorded rather than quietly fixed: an
+area figure was used without checking whether it measured land or water.*
 
 ### ⛔ 3.2 Port Lockroy has NO such rescue — see §4
 
@@ -146,12 +149,82 @@ Ongul's ~1.5 km², **62× the area**, lands near **58,000** against its current 
 
 ---
 
-# 5 · ⏸️ QUEUE — worked one at a time, in this order
+# 5 · ✅ DUMONT D'URVILLE — **RESOLVED 2026-09-05.** *City #2 of 11.*
+
+> ## ✅ DEVELOPER RULINGS
+> **1. Mainland-occupied area set to 45 km².**
+> **2. Total population reduced 10%, the subtraction going to the redistribution pool with Port Lockroy's.**
+
+| | Was | **Now** |
+|---|--:|--:|
+| **Census I** | 223,549 H / 229,785 R / **453,334** | **201,194 H / 206,807 R / 408,001** |
+| **Census II** | 134,634 H / 177,372 R / **312,006** | **121,170 H / 159,635 R / 280,805** |
+| ⭐ **Extent band** | *(none)* | ⭐ **~47 km²** — **45 km² mainland + ~2 km² archipelago** |
+| **Density** | ⛔ **1,373,739/km²** *(on Petrel alone)* | ⭐ **8,681/km²** — **inside the 7,000–10,000 band** |
+
+## ⛔⛔ THIS CITY WAS NEVER ISLAND-CAPPED — the annotation is removed
+
+🔬 **Petrel Island is 0.33 km². The whole Géologie Archipelago's land *"does not exceed 2 km²"* — five islands,
+all within 500 m of Petrel** *(Rostand 200 m SE · Lamarck 300 m E · Bernard 500 m E · Lion 0.4 km NNE)*.
+⛔ **453,334 people could not stand on that.** ⚠ ***And archipelago-spanning does NOT rescue it, unlike
+Denison*** — *there the Mackellar group roughly quadruples a 1.5 km² cape; here the entire archipelago is
+2 km² and there is nothing beyond it.*
+
+> ### ⭐⭐⭐ CANON ALREADY REQUIRED THE MAINLAND — its own `Highway access:` field says so
+> ***"A genuine two-highway junction: Hwy 2's eastern terminus and Hwy 183's northern terminus, which connect
+> directly to each other here."*** **`Access type: ON` — a mainline city.**
+> ⛔ **Two national highways cannot terminate on a 0.33 km² island 5 km offshore.**
+> ***So Dumont d'Urville was always a mainland city with an offshore old town.*** **The spec writes the island
+> half beautifully and simply never said where the roads land.**
+
+⭐⭐ **And the real-world site does exactly this job:** **Cap Prud'homme (66°41'S, 139°55'E), ~5 km south of
+Petrel**, is *"a **gateway** where **supply convoys to Concordia** and exploration traverses are prepared."*
+***That is Hwy 183's function — "from Concordia via Denison" — standing at the same coordinate.***
+
+## 🔬 What the mainland is made of
+
+| | |
+|---|---|
+| **Rock** | ⛔ almost none — *"Adélie Land is permanently ice-covered, except for a few rocky outcrops on the coastline and the islands bordering it"* |
+| ⭐ **Ice** | **effectively unlimited**, and buildable per the standing correction |
+| ⭐ **Blue ice at Cap Prud'homme** | **wind-scoured, firm, load-bearing, NON-accumulating** — the good kind |
+| ⚠ **But: ~38% retention, katabatic margin** | ***an ABLATION setting — the surface LOWERS, so foundations progressively EXPOSE and need re-bedding*** |
+
+> ⭐ **So 45 km² is cheap in area and expensive in maintenance** — ***the opposite trade from Denison, which
+> pays in height instead.*** **Neither city gets it free; they pay in different currencies.**
+
+## ⭐⭐⭐ THE PAIR THIS CREATES — the sharpest contrast in the corpus
+
+| | Population | Envelope | Density | Pays in |
+|---|--:|--:|--:|---|
+| **Denison** | 1,066,143 | **~5 km²** | **214,948/km²** | ⛔ **height** |
+| **Dumont d'Urville** | 408,001 | **~47 km²** | **8,681/km²** | ⚠ **maintenance** |
+
+***Two island-core-plus-span cities on the same katabatic coast, resolving in opposite directions — and the
+only difference is what the ground is made of.*** **Denison's rock ran out at 5 km². Dumont d'Urville's ice
+never runs out at all.**
+
+⚠⚠ **DEVELOPER NOTE, 2026-09-05: *"that means we need to re-address Denison, then."*** ⏸️ **Denison is
+RE-OPENED** *(`Extent_and_Area_APPROACH.md` §7b)* — *its ~215,000/km² was set before this contrast existed.*
+
+## ⛔ Overflow to the pool
+
+| Census | Humans | Robots | **Combined** |
+|---|--:|--:|--:|
+| **I** | 22,355 | 22,978 | **45,333** |
+| **II** | 13,464 | 17,737 | **31,201** |
+
+⚠ **Not a Gate 11 failure** — *the extent was DECLARED and lands inside the band.* **The 10% is a deliberate
+trim, not a correction.** 📎 **`Official_Population_Census.md` §D-OVERFLOW.**
+
+---
+
+# 6 · ⏸️ QUEUE — worked one at a time, in this order
 
 | # | City | Why it is here |
 |--:|---|---|
 | ~~**1**~~ | ✅ **Port Lockroy** | ✅ **RESOLVED 2026-09-05 → 929** *(§4)*. Overflow **127,958 / 95,215** held |
-| **2** | **Dumont d'Urville** | ⛔⛔ above Kowloon on its home island — ⭐ *but §3.1 likely resolves it* |
+| ~~**2**~~ | ✅ **Dumont d'Urville** | ✅ **RESOLVED 2026-09-05** → **408,001 on ~47 km² = 8,681/km²** *(§5)*. Overflow **45,333 / 31,201** |
 | **3** | **Sayowa** | ⛔ 150,251/km², and its own spec already flags 50,084/km² as *"the implausibility"* |
 | **4** | **Rothera** | ⚠ **68/km² — the emptiest.** *The opposite failure, and it needs the same attention* |
 | **5** | **Palmer City** | ⚠ 137/km² — ⭐ **and it is the ONE city with a documented cap (364,000)** |
@@ -167,7 +240,7 @@ these eleven give it something to calibrate against.*
 
 ---
 
-# 6 · 🔬 SOURCES — island areas, 2026-09-05
+# 7 · 🔬 SOURCES — island areas, 2026-09-05
 
 | Island | Area | Source |
 |---|--:|---|
