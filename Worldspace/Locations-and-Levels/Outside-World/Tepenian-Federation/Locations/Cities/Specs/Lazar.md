@@ -33,8 +33,8 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 1,287,003 humans / 1,333,316 robots / **2,620,319** combined
-**Census II (Orbital Era):** 861,206 humans / 942,771 robots / **1,803,977** combined
+**Census I (Pre-Orbital Era):** 1,158,303 humans / 1,199,984 robots / **2,358,287** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 1,287,003 / 1,333,316 / **2,620,319***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 775,085 humans / 848,494 robots / **1,623,579** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 861,206 / 942,771 / **1,803,977***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|

@@ -68,8 +68,8 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 519,191 humans / 550,159 robots / **1,069,350** combined
-**Census II (Orbital Era):** 437,854 humans / 450,438 robots / **888,292** combined *(damaged; partially operational)*
+**Census I (Pre-Orbital Era):** 467,272 humans / 495,143 robots / **962,415** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 519,191 / 550,159 / **1,069,350***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 394,069 humans / 405,394 robots / **799,463** combined *(damaged; partially operational)* ⭐ **−10% 2026-09-05, developer ruling** — *was 437,854 / 450,438 / **888,292***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|

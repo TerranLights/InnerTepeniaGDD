@@ -58,7 +58,7 @@ supplier.** Multiple industries per city where warranted.
 | City | Pop | Provider industries | Evidence |
 |---|--:|---|---|
 | **Davis** | 1,158,314 | **FOOD** | agriculture 35% — "the breadbasket," explicitly national |
-| **{{Bunger Hills City}}** | *(TBD)* | **FOOD** | ⭐ **Added 2026-09-01.** Second agricultural region: largest ice-free area in East Antarctica (450–942 km²) + **Lake Figurnoye, Antarctica's largest freshwater lake.** Population, subdivision and all internal detail **deliberately blank** — see `../Bunger_Hills_City_-_Development_Brief.md` |
+| **{{Bunger Hills City}}** | *(TBD)* | **FOOD** | ⭐ **Added 2026-09-01.** Second agricultural region: largest ice-free area in East Antarctica (450–942 km²) + **Lake Figurnoye, Antarctica's largest freshwater lake.** Population, subdivision and all internal detail **deliberately blank** — see `../Bunger_Hills_City/Development_Brief.md` |
 | **Esperanza** | 1,878,287 | **FOOD · EDUCATION/CHILDCARE · ⭐ MEDICINE** | agri 15% + educ/childcare 25%, rank 2 population, founding charter. **Medicine added 2026-09-01: the Esperanza Institute of Medicine — settled medicine, flagship Dept. of Pediatrics** |
 | **Signy** | 188,694 | **FOOD (fish)** | fishing 30% of a small city working "the Scotia Sea's genuine productivity" |
 | **Juan Carlos** | 386,692 | **FOOD (fish)** | maritime/fishing 30% |

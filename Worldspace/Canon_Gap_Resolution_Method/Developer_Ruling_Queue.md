@@ -356,7 +356,7 @@ registry row, and log it.
 ## 🔵 DRQ-05 — {{Bunger Hills City}}: open questions left by the single-approach ruling
 
 **Raised 2026-09-01, at developer instruction ("mark it for future review"). Not urgent; batched.**
-**Context and full groundwork:** `Cities/Bunger_Hills_City_-_Development_Brief.md`.
+**Context and full groundwork:** `Cities/Bunger_Hills_City/Development_Brief.md`.
 
 **Already ruled and closed** *(recorded here so the queue is not misread as open)*: the city exists · Mirny
 subnet · **single-approach from Casey** · **a named spur, not a numbered highway.**

@@ -36,24 +36,21 @@
 > > runway here is the only one in Antarctica needing no snow or ice preparation, for exactly this reason.*
 > > **The aviation identity is not sited on the geology; it IS the geology.**
 >
-> #### ⏸️ PROPOSED — **the redistribution pool comes here.** *Awaiting a ruling; not yet applied.*
-> **Rationale: the pool is 333,212 people displaced by the discovery that three cities were built on postage
-> stamps. The place to put them is the one city with actual ground.**
+> #### ⛔ SUPERSEDED — **the pool did NOT come here. Marambio is unchanged at 570,269.**
+> *I proposed sending the redistribution pool here on 2026-09-05. **The developer ruled otherwise the same
+> day:** the full pool went to **{{Bunger Hills City}}** instead, founding the 38th city
+> (`Official_Population_Census.md` §D-OVERFLOW).*
 >
-> | | Census I | Census II |
-> |---|--:|--:|
-> | Current | 570,269 | 430,145 |
-> | **+ pool** | **+333,212** | **+236,441** |
-> | **Proposed** | **903,481** | **666,586** |
+> ⭐ **And that is the better answer, for a reason this spec already contains: Marambio was never wrong.**
+> *570,269 on ~78 km² is 7,311/km², inside the band on arrival. It did not need people.* **Bunger Hills was a
+> canon requirement that did not exist** — `Division_of_Industry/13` §7 had already established a **26.0%
+> national food deficit** and that a second agricultural region is *"not optional."* ***The pool does work
+> there that it could not do here.***
 >
-> **At Seymour alone (78 km²) that is 11,583/km²** — *above the band, below Paris; defensible, but it spends
-> the whole margin.* ⭐ **At a proposed ~110 km² it is 8,213/km² — dead center of the band**, *between Signy's
-> 9,931 and Sayowa's 7,155.*
->
-> **The extra ~32 km² is a bridgehead on Snow Hill Island's northern lobe, across Picnic Passage** — *under
-> 10% of that island, not an annexation.* ⭐⭐ **Which makes Picnic Passage load-bearing:** *the strait stops
-> being something a highway crosses and becomes something the CITY crosses.* **Marambio becomes a two-island
-> city like Signy — but joined by road rather than by hull.**
+> ⏸️ **What remains live from that proposal:** *the ~110 km² extent — Seymour plus a ~32 km² bridgehead on
+> Snow Hill's northern lobe across Picnic Passage — is **not needed for capacity** now, but it stands as the
+> open question of whether this city crosses its own strait.* **At 570,269 on Seymour alone the city fits
+> comfortably; the bridgehead would be a choice, not a requirement.**
 >
 > #### ⛔⛔ AND IT DELIBERATELY LEAVES JAMES ROSS ISLAND ALONE — **because Esperanza needs it**
 > 🔬 *James Ross is ~2,400 km², and its **Ulu Peninsula holds ~250–312 km² of ice-free ground — the largest

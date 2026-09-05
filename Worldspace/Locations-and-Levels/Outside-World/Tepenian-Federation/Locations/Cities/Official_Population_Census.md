@@ -481,7 +481,7 @@ National communities are classified by tier based on long-run population share. 
 
 | Rank | City | Subnet | Humans | Robots | **Combined** | Status |
 |------|------|--------|--------|--------|-------------|--------|
-| 1 | Lazar | Halley | 1,287,003 | 1,333,316 | **2,620,319** | *(revised 2026-07-04)* |
+| 1 | Lazar | Halley | 1,158,303 | 1,199,984 | **2,358,287** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 1,287,003 / 1,333,316 / **2,620,319**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Still the largest city in the Federation. 69,361/km² on Schirmacher Oasis' 34 km² of rock; **86–90% of the city stands on ice** (`Extent_and_Density_Per_City.md` §10).* |
 | 2 | Esperanza | Palmer | 955,337 | 922,950 | **1,878,287** | *(revised 2026-07-04)* |
 | 3 | Cape Adare | Janbogo | 745,967 | 753,687 | **1,499,654** | *(destroyed; revised 2026-07-04)* |
 | 4 | Casey | Mirny | 733,795 | 761,936 | **1,495,731** | *(revised 2026-07-04)* |
@@ -489,18 +489,19 @@ National communities are classified by tier based on long-run population share. 
 | 6 | Mawson | Mawson | 709,729 | 737,004 | **1,446,733** | *(revised 2026-07-04)* |
 | 7 | Mirny | Mirny | 665,901 | 685,529 | **1,351,430** | *(revised 2026-07-04)* |
 | 8 | Janbogo | Janbogo | 646,541 | 663,970 | **1,310,511** | *(revised 2026-07-04)* |
-| 9 | Zhongshan | Mirny | 631,985 | 647,448 | **1,279,433** | *(revised 2026-07-04)* |
+| 9 | Zhongshan | Mirny | 568,786 | 582,703 | **1,151,489** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 631,985 / 647,448 / **1,279,433**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 1 of 3.* |
 | 10 | Zukelli | Janbogo | 627,584 | 631,067 | **1,258,651** | *(destroyed; revised 2026-07-04)* |
 | 11 | Neumayer | Halley | 613,735 | 638,345 | **1,252,080** | *(revised 2026-07-04)* |
-| 12 | Shirayuki | Mirny | 576,469 | 601,844 | **1,178,313** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
+| 12 | Shirayuki | Mirny | 518,822 | 541,660 | **1,060,482** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 576,469 / 601,844 / **1,178,313**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 2 of 3. (Subnet corrected 2026-07-05 — moved from Mawson.)* |
 | 13 | Davis | Mirny | 563,599 | 594,715 | **1,158,314** | *(revised 2026-07-04)* |
 | 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
 | 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
-| 16 | Sinheung | Mirny | 519,191 | 550,159 | **1,069,350** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
+| 16 | Sinheung | Mirny | 467,272 | 495,143 | **962,415** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 519,191 / 550,159 / **1,069,350**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 3 of 3. (Subnet corrected 2026-07-05 — moved from Mawson.)* |
 | 17 | Denison | Janbogo | 444,529 | 461,693 | **906,222** | ⭐ **−15% 2026-09-05, and EXTENT DECLARED at ~50 km² (two-zone)** — *was 522,975 / 543,168 / **1,066,143***. **Core 4.96 km² (cape + Mackellar, the spanned megastructure) @ ~40,000/km²; inland ~45 km² along Hwy 183 @ ~15,700/km². Overall 18,124/km².** ⛔ **OVERFLOW 78,446 H / 81,475 R / 159,921 C HELD — §D-OVERFLOW.** *(Superseded note:* *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* |
 | 18 | Abowasa | Halley | 504,237 | 530,004 | **1,034,241** | *(revised 2026-07-04)* |
 | 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(unchanged)* |
 | 20 | Troll | Halley | 475,721 | 478,729 | **954,450** | *(revised 2026-07-04)* |
+| — | **{{Bunger Hills City}}** | Mirny | **465,147** | **482,807** | **947,954** | ⭐⭐⭐ **FOUNDED 2026-09-05 — the 38th city, and the first added by the extent run.** **Its population IS the redistribution pool, discharged in full:** *Port Lockroy 127,958 · Dumont d'Urville 45,333 · Denison 159,921 · Lazar 262,032 · Zhongshan 127,944 · Shirayuki 117,831 · Sinheung 106,935.* ⭐ **Sized independently by the food model at ~765,007** *(`Division_of_Industry/13` §7: Tepenia runs a **26.0% national food deficit** and *"{{Bunger Hills City}} is not optional"*)* — **this founds it 182,947 over that, which is the margin.** **2,107/km² on 450 km² of ice-free rock — the emptiest city in the Federation, on purpose.** ⛔⛔ **NOT A MIGRATION.** *No one moved here. The H/R split is arithmetic that keeps the national totals reconcilable; it is NOT a claim that these people came from those cities, and this city inherits **no** founding population, national composition, community or memory from any of them — all of that is **TBD**.* ⚠ **Name is a placeholder.** *Candidates in `Bunger_Hills_City/Development_Brief.md` §4; developer rules.* |
 | 21 | Sejong | Palmer | 316,691 | 328,142 | **644,833** | *(island cap; revised 2026-07-04)* |
 | 22 | Marambio | Palmer | 283,442 | 286,827 | **570,269** | *(island cap; revised 2026-07-04)* |
 | 23 | Sanay | Halley | 231,576 | 232,093 | **463,669** | *(revised 2026-07-04)* |
@@ -596,23 +597,24 @@ National communities are classified by tier based on long-run population share. 
 
 | Rank | City | Subnet | Humans | Robots | **Combined** | Status |
 |------|------|--------|--------|--------|-------------|--------|
-| 1 | Lazar | Halley | 861,206 | 942,771 | **1,803,977** | *(revised 2026-07-03)* |
+| 1 | Lazar | Halley | 775,085 | 848,494 | **1,623,579** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 861,206 / 942,771 / **1,803,977**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Retention preserved.* |
 | 2 | Esperanza | Palmer | 502,654 | 675,385 | **1,178,039** | *(revised 2026-07-03)* |
 | 3 | Halley | Halley | 509,209 | 578,860 | **1,088,069** | |
 | 4 | Cape Adare | Janbogo | 426,343 | 623,708 | **1,050,051** | |
 | 5 | Casey | Mirny | 436,922 | 605,109 | **1,042,031** | |
 | 6 | Mirny | Mirny | 507,344 | 509,151 | **1,016,495** | |
-| 7 | Zhongshan | Mirny | 522,372 | 474,312 | **996,684** | |
+| 7 | Zhongshan | Mirny | 470,135 | 426,881 | **897,016** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 522,372 / 474,312 / **996,684**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* |
 | 8 | Janbogo | Janbogo | 490,564 | 467,006 | **957,570** | *(revised 2026-07-03)* |
 | 9 | Mawson | Mawson | 427,321 | 525,125 | **952,446** | |
 | 10 | Zukelli | Janbogo | 443,754 | 493,905 | **937,659** | *(would not survive the Long Night War that followed; revised 2026-07-03)* |
-| 11 | Sinheung | Mirny | 437,854 | 450,438 | **888,292** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
+| 11 | Sinheung | Mirny | 394,069 | 405,394 | **799,463** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 437,854 / 450,438 / **888,292**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* |
 | 12 | Belgrano | Halley | 429,820 | 407,948 | **837,768** | *(would survive the war but be ruined afterward; DLC 5)* |
 | 13 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
 | 16 | Denison | Janbogo | 285,085 | 338,392 | **623,477** | ⭐ **−15% 2026-09-05** — *retention preserved (68.7996%)*. ⛔ **OVERFLOW 50,309 H / 59,716 R / 110,025 C HELD** *(would not survive the Long Night War that followed)* |
-| 17 | Shirayuki | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
+| 17 | Shirayuki | Mirny | 302,512 | 352,980 | **655,492** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 336,124 / 392,200 / **728,324**.* ⛔ **Released to {{Bunger Hills City}} — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* |
+| — | **{{Bunger Hills City}}** | Mirny | **332,844** | **345,324** | **678,168** | ⭐⭐⭐ **FOUNDED 2026-09-05 — the 38th city.** *Census II share of the discharged redistribution pool; CII/CI retention 71.5%.* ⛔⛔ **NOT A MIGRATION** — see the Census I row. ⚠ **Placeholder name.** |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
 | 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section A)* |
 | 20 | Abowasa | Halley | 310,791 | 296,650 | **607,441** | |
@@ -702,25 +704,58 @@ cities are worked one at a time.**
 | **Dumont d'Urville** | **II** | **13,464** | **17,737** | **31,201** | *scaled at −10%, retention preserved* | ⏸️ **HELD — unassigned** |
 | **Denison** | **I** | **78,446** | **81,475** | **159,921** | ⭐ **−15%, developer ruling 2026-09-05.** *Extent declared ~50 km² two-zone; not a Gate 11 failure* | ⏸️ **HELD — unassigned** |
 | **Denison** | **II** | **50,309** | **59,716** | **110,025** | *scaled at −15%, retention preserved* | ⏸️ **HELD — unassigned** |
+| **Lazar** | **I** | **128,700** | **133,332** | **262,032** | ⭐ **−10%, developer ruling 2026-09-05.** *Not a Gate 11 failure — a deliberate trim from the densest rock in the corpus: 34 km² of Schirmacher Oasis carrying **87–91% of the city on ice*** | ✅ **DISCHARGED** |
+| **Lazar** | **II** | **86,121** | **94,277** | **180,398** | *scaled at −10%, retention preserved* | ✅ **DISCHARGED** |
+| **Zhongshan** | **I** | **63,199** | **64,745** | **127,944** | ⭐ **−10%, same ruling.** *Tri-Cities, 1 of 3 — the three share **40 km²** of the Larsemann Hills* | ✅ **DISCHARGED** |
+| **Zhongshan** | **II** | **52,237** | **47,431** | **99,668** | *scaled at −10%* | ✅ **DISCHARGED** |
+| **Shirayuki** | **I** | **57,647** | **60,184** | **117,831** | ⭐ **−10%, same ruling.** *Tri-Cities, 2 of 3* | ✅ **DISCHARGED** |
+| **Shirayuki** | **II** | **33,612** | **39,220** | **72,832** | *scaled at −10%* | ✅ **DISCHARGED** |
+| **Sinheung** | **I** | **51,919** | **55,016** | **106,935** | ⭐ **−10%, same ruling.** *Tri-Cities, 3 of 3* | ✅ **DISCHARGED** |
+| **Sinheung** | **II** | **43,785** | **45,044** | **88,829** | *scaled at −10%* | ✅ **DISCHARGED** |
 | | | | | | | |
-| ⭐⭐ **POOL TOTAL** | **I** | **163,682** | **169,530** | **333,212** | *Port Lockroy · Dumont d'Urville · Denison* | ⏸️ **HELD** |
-| ⭐⭐ **POOL TOTAL** | **II** | **117,089** | **119,352** | **236,441** | *Port Lockroy · Dumont d'Urville · Denison* | ⏸️ **HELD** |
+| ⭐⭐ **POOL TOTAL** | **I** | **465,147** | **482,807** | **947,954** | *Port Lockroy · Dumont d'Urville · Denison · Lazar · Zhongshan · Shirayuki · Sinheung* | ✅ **DISCHARGED IN FULL** |
+| ⭐⭐ **POOL TOTAL** | **II** | **332,844** | **345,324** | **678,168** | *the same seven* | ✅ **DISCHARGED IN FULL** |
 
-### ⚠ Consequence for the totals, stated so nobody "fixes" it silently
+### ✅ CONSEQUENCE FOR THE TOTALS — **they reconcile again, exactly**
 
-**The subnet totals and the national TOTAL rows are now SHORT by the held amounts above** — *Census I by
-**333,212** combined, Census II by **236,441*** *(Palmer subnet: Port Lockroy; Janbogo subnet: Dumont
-d'Urville and Denison)*. ⛔ **That is intentional and temporary.** ***The totals reconcile again
-once the overflow is redistributed; recomputing them now would erase the record that the population is owed
-somewhere.***
+**This ledger previously warned that the national TOTAL rows were SHORT by the held amounts and that
+recomputing them would erase the record of a debt.** ⭐⭐⭐ **The debt is now paid, and the arithmetic closes
+on the nose:**
 
-### ⏸️ Redistribution — deferred
+| | Rows summed | TOTAL row *(untouched since 2026-07-04 / 07-05)* | |
+|---|--:|--:|:--|
+| **Census I — 38 cities** | **15,623,523 H / 16,403,077 R / 32,026,600 C** | **15,623,523 / 16,403,077 / 32,026,600** | ✅ **exact** |
+| **Census II — 34 cities** | **10,486,701 H / 11,434,935 R / 21,921,636 C** | **10,486,701 / 11,434,935 / 21,921,636** | ✅ **exact** |
 
-**Where the held overflow goes is NOT decided.** *It may go to one city or several.* ⚠ **It should not be
-assigned until more of the eleven island-capped cities have been worked**, since several of them are
-themselves over-dense and will produce their own overflow — *and some of the remaining twenty-six may turn out
-to be under-populated for their extent, which is where overflow most naturally lands.*
-📎 **Working file: `Universal_Location_Methodology/Extent_and_Density_Per_City.md`.**
+⭐ **Nothing was adjusted to make this true.** *Every subtraction above went into one city; the national figure
+returns to what it was before any of it started, because population was only ever moved between rows on a
+page.* **Verified by summing both tables directly, 2026-09-05; every row also checks H + R = C.**
+
+⚠ **STILL OWED — subnet totals and the per-nation origin table.** *The Mirny subnet gains 947,954 and loses
+352,710 (net **+595,244**); Halley loses 262,032; Palmer and Janbogo were already short by Port Lockroy,
+Dumont d'Urville and Denison.* ⛔ **The National Origin table must NOT be patched** — *its own notes say to
+rebuild it as a direct sum of the Specs files, and {{Bunger Hills City}} has no Specs file yet.*
+
+### ✅ REDISTRIBUTION — **RESOLVED 2026-09-05. The pool founded a city.**
+
+**Developer ruling:** *"apply the cuts, and send the full pool to {{Bunger Hills City}}."*
+
+**The entire held balance — 947,954 (Census I) / 678,168 (Census II) — became the founding population of the
+38th city.** ⭐⭐ **The site was NOT chosen to absorb it.** *`Division_of_Industry/13` §7 had already found
+that **Tepenia runs a 26.0% national food deficit** and that a second agricultural region at **~765,007
+residents** closes it — concluding, before any of this, that ***"{{Bunger Hills City}} is not optional."***
+**The pool overshoots that requirement by 182,947, and the overshoot is the point: a country that cannot
+manufacture phosphorus should not run its food supply at exactly break-even.**
+
+> ## ⛔⛔ AND THE FOUNDING RULE, STATED ONCE SO IT NEVER HAS TO BE RECONSTRUCTED
+> ***{{Bunger Hills City}} INHERITS NOTHING FROM THE SEVEN SOURCE CITIES.*** **No founding population, no
+> national composition, no dialect, no community, no memory, no origin story, no "descended from" anyone.**
+> *The human/robot split is arithmetic that keeps this page reconcilable — **it is not a claim about who these
+> people are.*** ⛔ **Never write a Lazar-descended or Larsemann-descended anything at this site.**
+> **Its founding composition is TBD and will be decided on its own terms.**
+
+📎 **Working files: `Universal_Location_Methodology/Extent_and_Density_Per_City.md` §10 ·
+`Bunger_Hills_City/Development_Brief.md`** *(the brief's §5 anticipated every ripple this creates)*.
 
 ---
 

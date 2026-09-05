@@ -38,8 +38,8 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 576,469 humans / 601,844 robots / **1,178,313** combined
-**Census II (Orbital Era):** 336,124 humans / 392,200 robots / **728,324** combined
+**Census I (Pre-Orbital Era):** 518,822 humans / 541,660 robots / **1,060,482** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 576,469 / 601,844 / **1,178,313***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 302,512 humans / 352,980 robots / **655,492** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 336,124 / 392,200 / **728,324***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|

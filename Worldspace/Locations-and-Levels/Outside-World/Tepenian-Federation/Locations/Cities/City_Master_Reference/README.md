@@ -143,7 +143,7 @@ are proposals for developer review, not asserted canon"* in its own header.**
 | `City_Symbolic_Substrate/` | 4 | 🛠 | Read once per subnet, entries extracted |
 | `Local_Robot_Culture_Methodology/` | 4 | 📋 methodology | Not deep-read |
 | `City_Concept-Art/` | 1 | — visual assets | Not relevant to this compile |
-| **Top-level loose files** | 16 | mostly ✅ | `Official_Population_Census.md`, `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md`, `City_National_Connections.md`, `City_Refugee_District_Affinities.md`, `Station_to_City_Map.md`, `National_Capital_Candidates.md`, `National_Medical_and_Care_Institutes.md`, `Upper_Earth_Immigration_Composition.md`, `Bunger_Hills_City_-_Development_Brief.md`, plus process/audit files *(`Full_City_Integrity_Check.md`, `Founding_Nation_Bug_Investigation_Methodology.md`, `Division_of_Industry_Sweep_2026-08-31.md`, `Investigation_Loop_Round2_Tracker.md`, `Inspirational-Influences.md`, `Overview.md`)* |
+| **Top-level loose files** | 16 | mostly ✅ | `Official_Population_Census.md`, `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md`, `City_National_Connections.md`, `City_Refugee_District_Affinities.md`, `Station_to_City_Map.md`, `National_Capital_Candidates.md`, `National_Medical_and_Care_Institutes.md`, `Upper_Earth_Immigration_Composition.md`, `Bunger_Hills_City/Development_Brief.md`, plus process/audit files *(`Full_City_Integrity_Check.md`, `Founding_Nation_Bug_Investigation_Methodology.md`, `Division_of_Industry_Sweep_2026-08-31.md`, `Investigation_Loop_Round2_Tracker.md`, `Inspirational-Influences.md`, `Overview.md`)* |
 
 **Megasheet component breakdown** *(each city folder holds up to 6 files)*:
 

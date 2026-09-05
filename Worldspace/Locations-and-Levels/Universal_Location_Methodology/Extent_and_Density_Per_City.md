@@ -10,9 +10,12 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **5 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)* · **Marambio** *(§8 — extent settled; ⏸️ the pool transfer awaits a ruling)*.
+> ✅ **5 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)* · **Marambio** *(§8)*.
 > ✅ **Plus DENISON, re-addressed and resolved** *(not island-capped — `Extent_and_Area_APPROACH.md` §7b)*.
-> ⏳ **Next: Rothera** — *the opposite failure: 68/km², the emptiest in the corpus.*
+> ⭐⭐⭐ **AND THE RUN FOUNDED A CITY.** *§10 established that Gate 11 cannot catch the other 25; §11 records
+> what the technique produced instead — **{{Bunger Hills City}}, the 38th, populated 2026-09-05 by the entire
+> redistribution pool.*** **The census reconciles exactly afterward.**
+> ⏳ **Next: Rothera** — *the opposite failure: 68/km², the emptiest of the eleven.*
 
 ---
 
@@ -421,7 +424,15 @@ facts are not automatically drivers.* ✅ **This one qualifies** — **it is alr
 airfield, the flat approach corridors, "the most developed airstrip infrastructure of any Peninsula city")*.
 **The research did not add a driver; it found the cause of one already written.**
 
-## ⏸️ PROPOSED — THE REDISTRIBUTION POOL COMES HERE. *Awaiting a ruling; NOT applied.*
+## ⛔ SUPERSEDED SAME DAY — **the pool did NOT come here.** *Marambio stands unchanged at 570,269.*
+
+> **Developer ruling, 2026-09-05:** *"apply the cuts, and send the full pool to {{Bunger Hills City}}."*
+> ⭐ **And that is the better answer for a reason this section already established: Marambio was never wrong.**
+> *It did not need people.* **{{Bunger Hills City}} was a canon requirement that did not exist** — see §11.
+> ⏸️ *The ~110 km² bridgehead below is no longer needed for capacity; it survives only as the open question of
+> whether this city crosses its own strait.* **The proposal is kept below as the record of what was weighed.**
+
+## ⏸️ ~~PROPOSED — THE REDISTRIBUTION POOL COMES HERE~~ — *superseded; retained as record*
 
 **Why here: the pool is 333,212 people displaced by the discovery that three cities were built on postage
 stamps.** ***The place to put them is the one city with actual ground.***
@@ -493,7 +504,7 @@ there; a continental mountain spine here)*. **Same physics, unrelated geometry �
 | **6** | **Fort McMurdo + Scott** | ⚠ **worked together — they share Ross Island** *(338/km² combined)* |
 | **7** | **Juan Carlos · Sejong** | ⚠ 485 and 561/km², both on large glaciated islands |
 | ~~**8**~~ | ✅ **Signy** | ✅ **RESOLVED 2026-09-05** — *moored-fleet extent, population unchanged (§7)* |
-| ~~**8**~~ | ✅ **Marambio** | ✅ **EXTENT SETTLED 2026-09-05** *(§8)* — **7,311/km² on Seymour I., correct on arrival.** ⏸️ *Pool transfer to **903,481 on ~110 km² = 8,213/km²** **proposed, awaiting a ruling**. **James Ross I. deliberately reserved for Esperanza.*** |
+| ~~**8**~~ | ✅ **Marambio** | ✅ **EXTENT SETTLED 2026-09-05** *(§8)* — **7,311/km² on Seymour I., correct on arrival; population UNCHANGED at 570,269.** ⛔ *Pool transfer **REJECTED same day** — the full pool went to **{{Bunger Hills City}}** instead (§11).* **James Ross I. still deliberately reserved for Esperanza.** |
 
 ⚠ **Denison is NOT in this queue** — *it is not island-capped, it was worked separately
 (`Extent_and_Area_APPROACH.md` §7b), and its population is **flagged for reduction, deliberately held** until
@@ -624,7 +635,57 @@ island versus the largest coastal oasis.* **Corrected in `Specs/Marambio.md` the
 
 ---
 
-# 11 · 🔬 SOURCES — island areas, 2026-09-05
+# 11 · ⭐⭐⭐ WHAT THE RUN PRODUCED — **{{Bunger Hills City}}, the 38th city**
+
+**Populated 2026-09-05.** ⛔ **Developer ruling:** *"apply the cuts, and send the full pool to
+{{Bunger Hills City}}."* ⚠ **Placeholder name — braces stay until ruled.**
+
+## The discharge
+
+| Source | Why reduced | Census I | Census II |
+|---|---|--:|--:|
+| Port Lockroy | ⛔ Gate 11 — 5,370,292/km², 4.3× Kowloon | 127,958 | 95,215 |
+| Dumont d'Urville | −10%, extent declared 47 km² | 45,333 | 31,201 |
+| Denison | −15%, extent declared ~50 km² | 159,921 | 110,025 |
+| **Lazar** | **−10%** — *34 km² of Schirmacher carrying **87–91% of the city on ice*** | **262,032** | **180,398** |
+| **Zhongshan** | **−10%** — *Tri-Cities, 1 of 3, sharing **40 km²*** | **127,944** | **99,668** |
+| **Shirayuki** | **−10%** — *Tri-Cities, 2 of 3* | **117,831** | **72,832** |
+| **Sinheung** | **−10%** — *Tri-Cities, 3 of 3* | **106,935** | **88,829** |
+| ⭐⭐ **FOUNDING POPULATION** | | **947,954** *(465,147 H / 482,807 R)* | **678,168** *(332,844 / 345,324)* |
+
+**2,107/km² on the oasis's 450 km² of ice-free rock — the emptiest city in the Federation, on purpose.**
+
+## ⭐⭐⭐ THE NUMBER WAS NOT CHOSEN TO FIT — two independent lines met
+
+**`Division_of_Industry/13` §7, working from human caloric need and knowing nothing of any pool, had already
+found Tepenia runs a 26.0% NATIONAL FOOD DEFICIT** *(need 545,902, supply 404,191, short 141,711)* **and that a
+second agricultural region at ~765,007 residents closes it** — verdict: ***"{{Bunger Hills City}} is not
+optional."*** ⭐ **The pool overshoots by 182,947, and the overshoot is the point:** *a country that cannot
+manufacture phosphorus and has just fought a war should not run its food supply at break-even.*
+
+## ✅ AND THE CENSUS RECONCILES EXACTLY
+
+| | Rows summed | TOTAL row *(untouched since 2026-07-04)* | |
+|---|--:|--:|:--|
+| **Census I — 38 cities** | **15,623,523 / 16,403,077 / 32,026,600** | **identical** | ✅ |
+| **Census II — 34 cities** | **10,486,701 / 11,434,935 / 21,921,636** | **identical** | ✅ |
+
+⭐ **Nothing was adjusted to make that true.** *The national figure returns to what it was before any of this
+started, because population was only ever moved between rows on a page.* **Every row also checks H + R = C.**
+
+> ## ⛔⛔ AND THE FOUNDING RULE — **THIS CITY INHERITS NOTHING FROM THE SEVEN.**
+> ***No founding population, national composition, dialect, community, memory, or origin story.*** **The H/R
+> split is arithmetic that keeps the census reconcilable — not a claim about who these people are.**
+> ⛔ **Never write a Lazar-descended or Larsemann-descended anything there, and never write these reductions
+> as migration.** *The census is a RECORD, and its editing history is not events.*
+
+📎 **`Cities/Bunger_Hills_City/`** — *folder opened the same day;* `README.md` *carries the full state-of-play,
+the open national-origin method (`Upper_Earth_Immigration_Composition.md` — proximity × population × GDP/Gini),
+and the five ripples not yet done.*
+
+---
+
+# 12 · 🔬 SOURCES — island areas, 2026-09-05
 
 | Island | Area | Source |
 |---|--:|---|
