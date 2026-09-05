@@ -394,7 +394,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Germany, UK, South Korea, Russia *(added 2026-09-05)*, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
 ---

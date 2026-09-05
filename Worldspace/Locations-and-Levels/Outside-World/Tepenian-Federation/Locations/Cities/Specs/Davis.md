@@ -18,7 +18,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Germany, UK, South Korea, Russia *(added 2026-09-05 — 25M Gini-adjusted, and **distance 0** from Davis's solar UTC+5 via Yekaterinburg/Perm; it was the only city in its cluster without it)*, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -29,26 +29,27 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 20.51% | 121,993 | 115,610 | 70,600 | 89,728 |
-| Significant | Indonesia | 10.08% | 59,927 | 56,791 | 34,681 | 44,077 |
-| Significant | South Korea | 9.85% | 58,552 | 55,488 | 33,885 | 43,066 |
-| Significant | Australia | 9.31% | 55,391 | 52,493 | 32,056 | 40,741 |
-| Significant | UK | 6.07% | 36,104 | 34,215 | 20,894 | 26,555 |
-| Significant | Germany | 5.54% | 32,943 | 31,219 | 19,065 | 24,230 |
-| Significant | Japan | 5.31% | 31,568 | 29,916 | 18,269 | 23,219 |
-| Notable | Ukraine | 3.79% | 22,551 | 21,371 | 13,051 | 16,587 |
-| Notable | New Zealand | 3.78% | 22,464 | 21,288 | 13,000 | 16,522 |
-| Notable | South Africa | 3.54% | 21,060 | 19,958 | 12,188 | 15,490 |
-| Notable | Lithuania | 3.50% | 20,810 | 19,722 | 12,043 | 15,306 |
-| Notable | Romania | 3.37% | 20,028 | 18,980 | 11,591 | 14,731 |
-| Notable | Vietnam | 3.20% | 19,019 | 18,023 | 11,006 | 13,988 |
-| Notable | Estonia | 3.14% | 18,687 | 17,710 | 10,815 | 13,745 |
-| Notable | Latvia | 1.93% | 11,480 | 10,879 | 6,643 | 8,443 |
-| Notable | Philippines | 1.76% | 10,470 | 9,922 | 6,059 | 7,701 |
-| Notable | Malaysia | 1.63% | 9,688 | 9,181 | 5,607 | 7,126 |
-| Notable | Thailand | 1.35% | 8,035 | 7,614 | 4,650 | 5,910 |
-| Notable | Belarus | 1.34% | 7,947 | 7,531 | 4,599 | 5,845 |
-| Notable | Bulgaria | 1.01% | 6,000 | 5,686 | 3,472 | 4,413 |
+| Primary | China | 19.04% | 113,234 | 107,309 | 65,530 | 83,285 |
+| Significant | Japan | 9.36% | 55,665 | 52,753 | 32,215 | 40,943 |
+| Significant | Germany | 9.15% | 54,416 | 51,569 | 31,492 | 40,024 |
+| Significant | UK | 8.65% | 51,443 | 48,751 | 29,771 | 37,837 |
+| Significant | South Korea | 7.14% | 42,463 | 40,241 | 24,574 | 31,232 |
+| Significant | Russia | 5.64% | 33,542 | 31,787 | 19,411 | 24,671 |
+| Significant | Indonesia | 5.14% | 30,568 | 28,969 | 17,690 | 22,484 |
+| Significant | Australia | 4.93% | 29,319 | 27,786 | 16,968 | 21,565 |
+| Notable | Thailand | 3.52% | 20,934 | 19,839 | 12,115 | 15,397 |
+| Notable | Ukraine | 3.51% | 20,875 | 19,782 | 12,080 | 15,354 |
+| Notable | Vietnam | 3.29% | 19,566 | 18,542 | 11,323 | 14,391 |
+| Notable | Philippines | 3.25% | 19,328 | 18,317 | 11,186 | 14,216 |
+| Notable | Malaysia | 3.13% | 18,615 | 17,641 | 10,773 | 13,691 |
+| Notable | Romania | 2.97% | 17,663 | 16,739 | 10,222 | 12,991 |
+| Notable | South Africa | 2.92% | 17,366 | 16,457 | 10,050 | 12,773 |
+| Notable | New Zealand | 1.79% | 10,645 | 10,088 | 6,161 | 7,830 |
+| Notable | Belarus | 1.63% | 9,694 | 9,187 | 5,610 | 7,130 |
+| Notable | Bulgaria | 1.51% | 8,980 | 8,510 | 5,197 | 6,605 |
+| Notable | Lithuania | 1.25% | 7,434 | 7,045 | 4,302 | 5,468 |
+| Notable | Estonia | 1.24% | 7,375 | 6,989 | 4,268 | 5,424 |
+| Notable | Latvia | 0.94% | 5,590 | 5,298 | 3,235 | 4,112 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

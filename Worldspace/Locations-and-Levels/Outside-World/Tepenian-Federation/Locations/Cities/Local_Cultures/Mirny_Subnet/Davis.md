@@ -22,7 +22,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Indonesia *(leads T2)*, Australia *(founding wave)* |
+| Significant | Japan *(leads T2)*, Germany, UK, South Korea, Russia *(added 2026-09-05)*, Indonesia, Australia *(founding wave)* | ⛔ *Corrected 2026-09-05 — this row previously read "Indonesia **(leads T2)**", which was an artifact of a scrambled de-stack, not a finding. Davis's Significant tier was ordered almost perfectly INVERSE to Gini-adjusted pool (Spearman −0.83): Japan, the largest pool at 65M, held the SMALLEST share at 5.31%. Re-ordered; **Japan leads**.* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
 *Davis is sole-China-Primary, the third of four Mirny subnet cities covered so far
