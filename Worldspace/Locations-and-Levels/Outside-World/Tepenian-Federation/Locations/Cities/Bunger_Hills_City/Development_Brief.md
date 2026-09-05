@@ -39,30 +39,24 @@ the one place where water is not scarce**, and how the rest of Tepenia feels abo
 
 ---
 
-# 2. Founding inheritance — unlike any other city in Tepenia
+# 2. ~~Founding inheritance~~ — ⛔ STRUCK
 
-| Year | Event |
-|---|---|
-| **1957** | USSR builds **`Oazis`** station in the Bunger Oasis — two buildings, eight people |
-| **Dec 1958 → Jan 1959** | **DONATED TO POLAND**; acquired by the Polish Academy of Sciences, renamed **`A. B. Dobrowolski Station`**, on the shore of **Algae Lake**. **Poland's only station on mainland Antarctica** |
-| **1979** | **ABANDONED.** Goes dark |
-| 1986 · 1987 | Australia's **`Edgeworth David Base`** (northern hills, summer-only); USSR's **`Oazis 2`** |
-| **1979 → 2021** | **Dormant 43 years** |
-| **10 Nov 2021** | Team sails from Bremerhaven aboard a Russian icebreaker **to reactivate it** — **to serve as a base for erecting AUTONOMOUS geophysical stations on the exposed rock** |
-
-**Compare every other founding in the corpus:** Davis was continuously operated. Casey was kept genuinely
-functional across the centuries. Abowasa inherited two live adjacent national stations.
-
-> **This city inherited a place that was built, given away, used, walked away from, and left in the dark for
-> two generations** — while sitting on the largest ice-free ground and the largest freshwater lake on the
-> continent the entire time.
-
-**⭐ And the reactivation's real purpose is a gift to this project specifically: a station woken from four
-decades of silence to host machines that run without people.** In a game whose north star is robot
-consciousness, that should not be left on the table.
-
-**Three nations' fingerprints — Soviet, Polish, Australian — and no continuous human presence at any of them.
-Poland has no other foothold anywhere in the Tepenian city roster.**
+> ## ⛔⛔⛔ GPS PURPOSES ONLY — **THE STATION HISTORY AT THIS COORDINATE IS NOT AN INPUT.**
+> ***Struck 2026-09-05, on developer correction.*** **Whatever was built at these coordinates in the real
+> world, who operated it, who it was given to, when it was walked away from, how long it stood empty and why
+> anyone came back are facts about the REAL SITE.** ⛔ **They are a coordinate. They are not a cause, an
+> identity, a founding condition, a characterization, or "the most promising unexplored thread."**
+>
+> ⚠ **This material had spread to six files and was being actively reasoned from** — *as `G4`'s "absences,"
+> as `T3-20`'s sharpest input, as the justification for the single-approach ruling, as a `Resettled` type
+> modifier, and as an argument that this city's founding wave and long-run majority collapse into one.*
+> ***Every one of those is void.*** **The rulings they were attached to stand on their own; the justifications
+> do not.**
+>
+> ⭐ **What survives, and it is a lot:** *the coordinate, the terrain, the 450 km² of ice-free rock, Algae
+> Lake, the ice margins, the Shackleton shelf, the Denman Glacier, the epishelf channel — **and the name
+> candidates**, because a coordinate legitimately carries a name, exactly as Marambio, Casey, Davis and Mawson
+> do.*
 
 ---
 
@@ -115,7 +109,7 @@ literature is blunt:
 > **sea- and land-based approaches are difficult and rarely attempted**."*
 
 **It was discovered at all only because Lt Cdr Bunger saw it from a seaplane window in 1947.** ⭐ **A genuinely
-hidden place** — which sits perfectly with a city founded on a station that had been dark for 43 years.
+hidden place.** ⛔ *A clause tying this to the real site's station dormancy was struck 2026-09-05 — GPS purposes only; see §2.*
 
 ## ✅ RULED 2026-09-01 — SINGLE-APPROACH, from Casey only
 
@@ -138,12 +132,11 @@ reasoning that flipped it is worth more than either verdict.**
    reaches the entire national network *through* the Hwy 110 × Hwy 2 junction, Mirny included. The western leg
    would buy **~350 km direct versus ~1,390 km around** — a real efficiency, **but not access.** The logistics
    premise is satisfied without it. **Nobody goes hungry.**
-2. **⭐ Single-approach explains the 43-year dormancy, which the alternative left as a hole.** The site holds
-   the largest ice-free ground and the largest freshwater lake on the continent. **If it were also a
-   comfortable two-way stop on a coastal through-route, why was it dark for two generations?** Hard access
-   answers it — and matches the real record exactly: *"sea- and land-based approaches are difficult and rarely
-   attempted,"* at a place not discovered until someone glimpsed it from a seaplane window in 1947. **A hidden
-   place should stay a little hidden.**
+2. ⛔⛔ **STRUCK 2026-09-05 — GPS PURPOSES ONLY.**
+   *This reason argued that the single-approach ruling was right **because it explained why the real site sat
+   dark for two generations**. **That is the real world's history of a coordinate and it is not admissible as
+   evidence for anything in Tepenia.*** ⭐ **The ruling itself stands** — *on the developer's authority, and on
+   the physical access facts in §3.5 above. **It never needed this argument.***
 
 ### What this buys
 
@@ -277,11 +270,9 @@ what the place is.* **Nothing selected here.**
 
 - **The name.**
 - **Population**, and its human:robot split.
-- **Founding-nation composition**, given the three-nation inheritance and the 43-year dormancy.
+- **Founding-nation composition.** ⛔ *Not "given the three-nation inheritance and the dormancy" — **struck 2026-09-05**. Composition is computed from proximity, pool and Gini alone; see `README.md` §4.*
 - **Whether it is the second agricultural region**, or whether its water advantage points somewhere else
   entirely.
-- **What the dormancy did to it** — a city founded on a place that had been dark for two generations is a
-  different proposition from one founded on a working station. **This is the most promising unexplored thread
-  in the brief.**
+- ⛔ ~~**What the dormancy did to it**~~ — **STRUCK 2026-09-05. GPS purposes only; see §2.** *It was called "the most promising unexplored thread in the brief." It was not a thread; it was the real world's history of a coordinate.*
 - **Its §15 Division of Industry**, once the burden model has been validated on a genuine mid-pack city.
 - **Its relationship to Davis** — sibling breadbaskets, rivals, or complements.

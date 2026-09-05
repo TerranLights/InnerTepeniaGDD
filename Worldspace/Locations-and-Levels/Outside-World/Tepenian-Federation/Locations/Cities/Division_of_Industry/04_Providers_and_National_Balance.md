@@ -330,37 +330,17 @@ with a lake is a moral anomaly as much as an economic one.
 **Combined with ice-free rock, it is the obvious second agricultural region** — which resolves the
 Davis-alone problem structurally, rather than by inflating Davis's share past credibility.
 
-### Founding story — built, given away, abandoned, and woken up 43 years later
+### ~~Founding story — built, given away, abandoned, and woken up 43 years later~~ — ⛔ STRUCK 2026-09-05
 
-**Corrected and expanded 2026-09-01 after the developer asked whether a real station exists there. It does,
-and the actual history is stronger than the first draft of this section.**
-
-| Year | Event |
-|---|---|
-| **1957** | USSR builds **`Oazis`** station in the Bunger Oasis — two buildings, eight people |
-| **Dec 1958 / Jan 1959** | **DONATED TO POLAND**; formally acquired by the Polish Academy of Sciences and renamed **`A. B. Dobrowolski Station`**, on the shore of **Algae Lake**. **Poland's only station on mainland Antarctica** *(Arctowski is offshore, King George Island)* |
-| **1979** | **ABANDONED.** Goes dark. |
-| **1979 → 2021** | **Dormant for 43 years** |
-| **10 Nov 2021** | A team sails from Bremerhaven aboard a Russian icebreaker **to reactivate it** |
-| 1986 · 1987 | Australia's **`Edgeworth David Base`** (northern Bunger Hills, summer-only field base); USSR's **`Oazis 2`** |
-
-> ## ⭐ And the reactivation's stated purpose is almost uncomfortably on-theme.
-> **The revitalized station is to serve as a base for erecting AUTONOMOUS geophysical stations on the exposed
-> rock** — a station brought back from four decades of silence specifically **to host machines that run
-> without people.** In this project, that is not a detail to leave on the table.
-
-**What this gives a city that does not exist yet: a founding inheritance unlike any other in Tepenia.**
-
-- **Davis** was continuously operated. **Casey** was kept genuinely functional across the centuries.
-  **Abowasa** inherited two live, adjacent national stations.
-- **Bunger Hills inherited a place that was built, given away, used, walked away from, and left in the dark
-  for two generations before anyone came back** — while sitting on the largest ice-free ground and the largest
-  freshwater lake on the continent the entire time.
-
-**Three nations' fingerprints — Soviet, Polish, Australian — and no continuous human presence at any of them.**
-**Poland has no other foothold anywhere in the Tepenian city roster.**
-
-### ⚠ Naming — developer's call, per the binding no-invented-names rule
+> ## ⛔⛔⛔ GPS PURPOSES ONLY — **THE STATION HISTORY AT THIS COORDINATE IS NOT AN INPUT.**
+> ***Struck 2026-09-05, on developer correction.*** **What was built at these coordinates in the real world,
+> who operated it, who it was given to, when it was walked away from, how long it stood empty, and why anyone
+> came back are facts about the REAL SITE.** ⛔ **A coordinate is not a cause, an identity, a founding
+> condition, or a characterization.**
+>
+> ⭐ **What survives: the coordinate, the terrain, the 450 km² of ice-free rock, Algae Lake, the ice margins —
+> and the NAME CANDIDATES**, *because a coordinate legitimately carries a name, exactly as Marambio, Casey,
+> Davis and Mawson do.*
 
 **Candidates from the real site:** `Dobrowolski` · `Oazis` · `Bunger` · `Figurnoye` · `Edgeworth David`.
 

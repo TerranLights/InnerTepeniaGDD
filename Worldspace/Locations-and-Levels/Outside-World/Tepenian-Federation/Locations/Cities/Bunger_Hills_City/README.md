@@ -17,7 +17,7 @@ not a spec.**
 
 | File | What it is |
 |---|---|
-| **`Development_Brief.md`** | ⭐ **The substantive document** — 287 lines, assembled 2026-09-01. Site, founding inheritance, subnet, the single-approach highway ruling, the food consequence, name candidates, and §5's list of every downstream ripple this city creates. **Read this first.** |
+| **`Development_Brief.md`** | ⭐ **The substantive document**, assembled 2026-09-01. Site, subnet, the single-approach highway ruling, the food consequence, name candidates, and §5's list of every downstream ripple this city creates. **Read this first.** ⛔ *Its §2 "founding inheritance" was **STRUCK 2026-09-05** — GPS purposes only.* |
 | `README.md` | this index |
 
 ---
@@ -130,10 +130,11 @@ standing rule, now written into the methodology:* **a nation's UTC is a FOOTPRIN
 minimum over zones where a meaningful share of its exile-eligible pool actually lives.** *(Which also keeps Guam
 from walking the USA in, and Réunion from walking in France.)*
 
-⚠ **The founding-wave / long-run tension may not exist here.** *Normally proximity sets founding character
-(**Australia**, the gateway and the road) and pool sets the long-run majority (**China**). But §2 of the brief
-records this site **abandoned in 1979 and dark for 43 years** — and a city founded late is founded straight into
-the equilibrium, with no early wave to stamp it first.* ⏸️ **The founding date decides it, and it is still open.**
+⏸️ **The founding-wave / long-run tension is UNRESOLVED, and the argument previously given here is struck.**
+*Normally proximity sets founding character (**Australia**, the gateway and the road) and pool sets the long-run
+majority (**China**).* ⛔⛔ **This cell used to argue the two collapse because the site was "abandoned in 1979
+and dark for 43 years." STRUCK 2026-09-05 — GPS purposes only.** ***The real world's history of a coordinate
+cannot date a Tepenian founding.*** **The founding date is an open developer ruling and nothing else settles it.**
 
 📎 **Authoritative copy with full derivation: `../Upper_Earth_Immigration_Composition.md`, Mirny subnet.**
 *(Once this city has a `Specs/` file, that file becomes authoritative over both, per corpus convention.)*
@@ -179,7 +180,7 @@ also wrong in one place worth remembering: it omitted **Russia**, scoring it at 
 - **Founding-nation composition** *(above)*.
 - **Whether it is the second agricultural region** — ⭐ *the population ruling above effectively assumes yes;
   it should be stated outright rather than left implied.*
-- **What the 43-year dormancy did to it** — *the brief calls this **"the most promising unexplored thread."***
+- ⛔ ~~**What the 43-year dormancy did to it**~~ — **STRUCK 2026-09-05. GPS purposes only.** *The real site's station history is a coordinate, not a thread.*
 - **Its §15 Division of Industry.**
 - **Its relationship to Davis** — *sibling breadbaskets, rivals, or complements.* ⭐ **Sharper now:** *Davis
   and Marambio are the only two Tepenian cities that fit entirely on rock, and Davis is the existing 35%

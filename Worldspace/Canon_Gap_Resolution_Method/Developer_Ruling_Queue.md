@@ -495,109 +495,19 @@ diverges. **The gradient is established for medicine only.**
 
 ---
 
-### 5e — What 43 years of dormancy did to the place
+### 5e — ⛔ WITHDRAWN 2026-09-05 — ~~What 43 years of dormancy did to the place~~
 
-**Now load-bearing rather than decorative:** hard access is what explains the emptiness, so the dormancy is no
-longer a curiosity — it is the reason the site was available. **Every other Tepenian city was founded on
-something working.** This one was founded on a place that had been dark for two generations. **The most
-promising unexplored thread in the brief; not a ruling, a pass waiting to happen.**
+> ## ⛔⛔⛔ GPS PURPOSES ONLY — **THE STATION HISTORY AT THIS COORDINATE IS NOT AN INPUT.**
+> ***Struck 2026-09-05, on developer correction.*** **What was built at these coordinates in the real world,
+> who operated it, who it was given to, when it was walked away from, how long it stood empty, and why anyone
+> came back are facts about the REAL SITE.** ⛔ **A coordinate is not a cause, an identity, a founding
+> condition, or a characterization.**
+>
+> ⭐ **What survives: the coordinate, the terrain, the 450 km² of ice-free rock, Algae Lake, the ice margins —
+> and the NAME CANDIDATES**, *because a coordinate legitimately carries a name, exactly as Marambio, Casey,
+> Davis and Mawson do.*
 
----
-
----
-
-## 🔴 DRQ-08 — The B1 food labor rate must be sourced INDEPENDENTLY of `04` §4
-
-**Raised 2026-09-01, by independent validation.** See
-`.../Cities/Division_of_Industry/10_Validation_Findings_2026-09-01.md` §Finding 1.
-
-**The problem.** The rate `53 food producers per 1,000 humans` was computed by summing the seven provider
-cities' canon §15 food sectors and dividing by population — **a supply figure, inverted into a demand rate.**
-The pass then compared the resulting demand back against those same §15 sheets and reported the agreement as
-validation. **It is one number written twice.**
-
-**`08` §4.5 explicitly refused to pick this number**, calling the choice *"the largest determinable uncertainty
-in the model"* — it swings the national food workforce by a factor of four or more.
-
-**What a ruling needs to do:** derive the requirement from a quantity **nobody in this project chose.** The
-recommended route is **physical rather than occupational** — cold-climate human caloric and macronutrient
-demand *(polar working populations run far above temperate baselines)*, then yields per worker per system, then
-labor. **Demand from biology, supply from yields, labor from productivity — three independent chains.**
-
-**Blocks:** every food figure in `04`, `05`, `09`; the national balance; the Halley-subnet deficit.
-
----
-
-## 🔴 DRQ-09 — Do §15 food sectors sit INSIDE or OUTSIDE the baseline tier? One convention, fixed.
-
-**Raised 2026-09-01, by independent validation.** See `10_Validation_Findings_2026-09-01.md` §Finding 2.
-
-**The problem.** Baseline already contains `Humans × 53 · D / 1000` — **the city's own food workforce.** The
-pass then computed `export = distinctive-tier food sector − baseline food need`, **booking the same need
-twice** and crediting roughly twenty cities with **zero local food**, which contradicts `04` §4's own
-*"Every city grows what it can locally."*
-
-**Two mutually inconsistent national balances are currently published in the same folder:**
-
-```
-README "First results":  Davis exports 269,442   ← full-workforce convention
-the per-city run:        Davis exports 157,774   ← distinctive-tier convention
-ONE city's difference:   111,668 = 15× the entire national headline surplus
-```
-
-**Nationally the choice moves supply by ~690,275 workers (+36.9%).** **Nothing states which governs.**
-
-**A ruling must pick one and restate every food figure under it.**
-
----
-
-## 🔵 DRQ-10 — LIVESTOCK: is there a terrestrial animal-protein tier, and what feeds it?
-
-**Raised 2026-09-01 at the developer's suggestion**, on reading the validation findings.
-
-> *"the calculations are assuming that krill (and hydroponics) are the only things that humans ever eat (which
-> is a pretty good way to go insane)."*
-
-**The observation is correct and the omission is real** — the model has no terrestrial animal tier at all.
-**Proposal:** heated, covered megabarns on the milder coastline, raising fast-maturing livestock, with
-cold-hardy and heavy-fat breeds *(developer suggested genetic modification for fur and fat)*.
-
-**⚠ The decisive question is FEED, not climate.** Livestock fed on human-edible greenhouse output **destroys**
-calories at roughly 10:1 and would make the national balance far worse. **Livestock only helps if it is an
-UPGRADER** — converting krill processing residue, marine offal, greenhouse crop residue and organic waste,
-none of which humans eat, into **fat and protein, which the current model produces almost none of.**
-
-**Open for ruling:** whether the tier exists; which species; whether breeds are heritage, engineered, or both;
-which cities host it; and whether the reserve is made of **cured meat and rendered fat** rather than krill meal.
-
-**See the working exploration for the research behind this** *(Mangalitsa, South Georgia reindeer, Kerguelen,
-the Byrd expedition dairy, krill meal in feed, and the fluoride-in-bone-not-muscle finding)*.
-
----
-
-## ✅ DRQ-11 — TERRAFORMED COASTAL BELT — **RULED 2026-09-01: YES, at 1,500 km², distributed across all three regions**
-
-**Raised 2026-09-01 at the developer's suggestion.** Full research in
-`.../Cities/Division_of_Industry/12_Terraforming_and_the_Outdoor_Tier.md`.
-
-**The proposal:** engineer arable soil on the milder coastline, grow modified grasses, hardy vegetables and
-ordinary potatoes outdoors.
-
-**Research verdict: viable, bounded, and more valuable for WHAT IT SURVIVES than for what it yields.**
-
-- **The gap is ~10.5 °C** *(Esperanza January 1.5 °C vs Reykjavík July ~12 °C at the same latitude)*. Closable
-  by landscape engineering — walls, windbreaks, albedo darkening, manufactured soil, waste heat. **No planetary
-  engineering required.**
-- **⛔ It cannot replace indoor growing.** All Antarctic ice-free land is ~21,000–46,000 km²; an outdoor staple
-  tier would need 3,193–5,322 km² of *field*. **A realistic program yields ~10–20% of national calories.**
-- **⭐ But it saves ~88 TWh/yr — nearly 10% of national electricity — in a country whose currency is
-  denominated in grid capacity.**
-- **⭐⭐ And it splits into a PASSIVE layer that survives a grid collapse and an ACTIVE layer that does not.**
-
-**Needs ruling:** scale (500 / 1,000 / 1,500 / 3,000 km² — priced in `12`); which coastline; the passive/active
-ratio; and whether modified grasses descend from native *Deschampsia antarctica* *(recommended)*.
-
-**⚠ Bears on an unasked question: what is anyone eating in 2822, after the Tower?**
+***This queue item is closed, not deferred.*** **It asked the developer to rule on the in-world consequences of a real-world station's vacancy. There is nothing to rule: the vacancy is not a Tepenian fact.** ⚠ *Its companion items — the name candidates, the single-approach spur, the food role — are unaffected and stand.*
 
 ### ✅ THE RULING — 2026-09-01
 

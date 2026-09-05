@@ -631,11 +631,13 @@ Notable.** ⛔ *This is the only city in the corpus computed that way, and it is
 *Tier gaps: China → Russia **1.71×** (T1|T2); Australia → Thailand **2.14×** (T2|T3). Robot figures apply the
 same national proportions as the human population, per standing methodology.*
 
-⚠ **The founding-wave / long-run tension may not exist here.** *The method's temporal note says proximity sets
-founding character and pool sets the long-run majority — normally **Australia** then **China**. But
-`Development_Brief.md` §2 records this site **abandoned in 1979 and dark for 43 years**: a city founded late is
-founded straight into the equilibrium, with no early wave to set a different stamp first.* ⏸️ **Unresolved —
-the founding date decides it, and it is still open.**
+⏸️ **The founding-wave / long-run tension is UNRESOLVED.** *The method's temporal note says proximity sets
+founding character and pool sets the long-run majority — normally **Australia** then **China**.* ⛔⛔ **A
+previous version of this paragraph argued the two collapse because the real site was "abandoned in 1979 and
+dark for 43 years." STRUCK 2026-09-05 on developer correction — GPS PURPOSES ONLY.** ***This document's own
+rule already says it: "Station founding nation is noted where it shapes the city's GDD character, but it is NOT
+used as a factor. Cities are analyzed as if ownership is irrelevant." The same holds for a station's fate.***
+**The founding date is an open developer ruling.**
 
 ⛔ **Operator identity is NOT a factor here, per this document's own rule.** *The site's Soviet → Polish →
 Australian station lineage is a coordinate, not an identity; **`Development_Brief.md` §5 lists it as a
