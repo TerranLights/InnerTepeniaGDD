@@ -57,18 +57,18 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 24.31% | 55,871 | 54,355 | 43,127 | 32,736 |
-| Primary | USA | 20.13% | 46,255 | 45,000 | 35,705 | 27,102 |
-| Significant | France | 11.80% | 27,106 | 26,371 | 20,923 | 15,882 |
-| Significant | Japan | 11.72% | 26,936 | 26,205 | 20,792 | 15,782 |
-| Significant | Australia | 11.08% | 25,451 | 24,761 | 19,646 | 14,912 |
-| Significant | Indonesia | 5.59% | 12,846 | 12,497 | 9,916 | 7,527 |
-| Notable | New Zealand | 4.16% | 9,549 | 9,290 | 7,371 | 5,595 |
-| Notable | Vietnam | 4.04% | 9,283 | 9,031 | 7,165 | 5,439 |
-| Notable | Philippines | 3.40% | 7,811 | 7,599 | 6,029 | 4,576 |
-| Notable | Malaysia | 2.16% | 4,955 | 4,821 | 3,825 | 2,903 |
-| Significant | South Korea | 1.48% | 3,404 | 3,311 | 2,627 | 1,994 |
-| Notable | Thailand | 0.14% | 317 | 309 | 245 | 186 |
+| Primary | China | 24.31% | 50,284 | 48,919 | 38,815 | 29,462 |
+| Primary | USA | 20.13% | 41,630 | 40,500 | 32,135 | 24,392 |
+| Significant | France | 11.80% | 24,396 | 23,734 | 18,831 | 14,294 |
+| Significant | Japan | 11.72% | 24,243 | 23,584 | 18,713 | 14,204 |
+| Significant | Australia | 11.08% | 22,906 | 22,285 | 17,681 | 13,421 |
+| Significant | Indonesia | 5.59% | 11,561 | 11,247 | 8,924 | 6,774 |
+| Notable | New Zealand | 4.16% | 8,594 | 8,361 | 6,634 | 5,035 |
+| Notable | Vietnam | 4.04% | 8,355 | 8,128 | 6,449 | 4,895 |
+| Notable | Philippines | 3.40% | 7,030 | 6,839 | 5,426 | 4,118 |
+| Notable | Malaysia | 2.16% | 4,459 | 4,339 | 3,443 | 2,613 |
+| Significant | South Korea | 1.48% | 3,064 | 2,980 | 2,364 | 1,795 |
+| Notable | Thailand | 0.14% | 285 | 278 | 220 | 167 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

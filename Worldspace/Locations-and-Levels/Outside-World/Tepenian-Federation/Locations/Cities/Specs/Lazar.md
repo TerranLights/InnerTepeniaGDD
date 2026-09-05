@@ -50,31 +50,31 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 19.05% | 253,965 | 245,143 | 179,575 | 164,039 |
-| Significant | UK | 10.08% | 134,337 | 129,671 | 94,988 | 86,770 |
-| Significant | Germany | 9.48% | 126,385 | 121,995 | 89,365 | 81,634 |
-| Significant | Brazil | 9.05% | 120,672 | 116,481 | 85,326 | 77,944 |
-| Significant | Russia | 4.81% | 64,089 | 61,863 | 45,316 | 41,396 |
-| Notable | Norway | 3.42% | 45,598 | 44,014 | 32,242 | 29,452 |
-| Notable | Finland | 3.34% | 44,473 | 42,928 | 31,446 | 28,726 |
-| Notable | Czech Republic | 3.30% | 44,035 | 42,505 | 31,136 | 28,443 |
-| Notable | Estonia | 3.29% | 43,877 | 42,353 | 31,025 | 28,341 |
-| Notable | Poland | 3.21% | 42,836 | 41,349 | 30,289 | 27,669 |
-| Notable | Hungary | 3.08% | 41,034 | 39,608 | 29,014 | 26,504 |
-| Notable | Slovenia | 3.07% | 40,875 | 39,455 | 28,902 | 26,402 |
-| Notable | Slovakia | 3.00% | 40,003 | 38,614 | 28,286 | 25,839 |
-| Notable | Serbia | 2.95% | 39,305 | 37,939 | 27,792 | 25,387 |
-| Notable | Romania | 2.87% | 38,276 | 36,947 | 27,065 | 24,723 |
-| Significant | France | 2.30% | 30,701 | 29,635 | 21,708 | 19,830 |
-| Notable | Belarus | 1.81% | 24,187 | 23,347 | 17,102 | 15,623 |
-| Notable | Lithuania | 1.76% | 23,488 | 22,672 | 16,608 | 15,171 |
-| Notable | Ukraine | 1.70% | 22,616 | 21,831 | 15,992 | 14,608 |
-| Notable | South Africa | 1.55% | 20,655 | 19,937 | 14,605 | 13,341 |
-| Notable | Croatia | 1.47% | 19,614 | 18,933 | 13,869 | 12,669 |
-| Notable | Argentina | 1.46% | 19,457 | 18,781 | 13,757 | 12,567 |
-| Notable | Latvia | 1.43% | 19,018 | 18,358 | 13,448 | 12,284 |
-| Notable | Bulgaria | 1.34% | 17,893 | 17,272 | 12,652 | 11,557 |
-| Notable | Netherlands | 1.19% | 15,927 | 15,373 | 11,262 | 10,287 |
+| Primary | USA | 19.05% | 228,568 | 220,629 | 161,618 | 147,635 |
+| Significant | UK | 10.08% | 120,903 | 116,704 | 85,489 | 78,093 |
+| Significant | Germany | 9.48% | 113,746 | 109,795 | 80,429 | 73,470 |
+| Significant | Brazil | 9.05% | 108,605 | 104,833 | 76,793 | 70,150 |
+| Significant | Russia | 4.81% | 57,680 | 55,677 | 40,784 | 37,256 |
+| Notable | Norway | 3.42% | 41,038 | 39,613 | 29,018 | 26,507 |
+| Notable | Finland | 3.34% | 40,026 | 38,635 | 28,301 | 25,853 |
+| Notable | Czech Republic | 3.30% | 39,632 | 38,254 | 28,022 | 25,599 |
+| Notable | Estonia | 3.29% | 39,489 | 38,118 | 27,923 | 25,507 |
+| Notable | Poland | 3.21% | 38,552 | 37,214 | 27,260 | 24,902 |
+| Notable | Hungary | 3.08% | 36,931 | 35,647 | 26,113 | 23,854 |
+| Notable | Slovenia | 3.07% | 36,788 | 35,509 | 26,012 | 23,762 |
+| Notable | Slovakia | 3.00% | 36,003 | 34,753 | 25,457 | 23,255 |
+| Notable | Serbia | 2.95% | 35,375 | 34,145 | 25,013 | 22,848 |
+| Notable | Romania | 2.87% | 34,448 | 33,252 | 24,359 | 22,251 |
+| Significant | France | 2.30% | 27,631 | 26,671 | 19,537 | 17,847 |
+| Notable | Belarus | 1.81% | 21,768 | 21,012 | 15,392 | 14,061 |
+| Notable | Lithuania | 1.76% | 21,139 | 20,405 | 14,947 | 13,654 |
+| Notable | Ukraine | 1.70% | 20,354 | 19,648 | 14,393 | 13,147 |
+| Notable | South Africa | 1.55% | 18,590 | 17,943 | 13,145 | 12,007 |
+| Notable | Croatia | 1.47% | 17,653 | 17,040 | 12,482 | 11,402 |
+| Notable | Argentina | 1.46% | 17,511 | 16,903 | 12,381 | 11,310 |
+| Notable | Latvia | 1.43% | 17,116 | 16,522 | 12,103 | 11,056 |
+| Notable | Bulgaria | 1.34% | 16,104 | 15,545 | 11,387 | 10,401 |
+| Notable | Netherlands | 1.19% | 14,334 | 13,836 | 10,136 | 9,258 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

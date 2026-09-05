@@ -85,23 +85,23 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | South Korea | 34.62% | 190,465 | 179,744 | 155,942 | 151,585 |
-| Significant | China | 9.74% | 53,585 | 50,569 | 43,873 | 42,647 |
-| Significant | Japan | 7.78% | 42,802 | 40,393 | 35,044 | 34,065 |
-| Significant | Germany | 8.64% | 47,534 | 44,858 | 38,918 | 37,831 |
-| Significant | Russia | 6.85% | 37,686 | 35,565 | 30,855 | 29,993 |
-| Significant | Indonesia | 4.41% | 24,262 | 22,896 | 19,864 | 19,309 |
-| Notable | Thailand | 3.65% | 20,081 | 18,950 | 16,441 | 15,982 |
-| Significant | Australia | 3.57% | 19,641 | 18,535 | 16,081 | 15,631 |
-| Notable | Estonia | 3.52% | 19,366 | 18,276 | 15,855 | 15,412 |
-| Notable | Hungary | 3.43% | 18,870 | 17,808 | 15,450 | 15,018 |
-| Notable | Lithuania | 3.11% | 17,110 | 16,147 | 14,009 | 13,617 |
-| Notable | Malaysia | 2.93% | 16,120 | 15,212 | 13,198 | 12,829 |
-| Notable | Vietnam | 1.95% | 10,728 | 10,124 | 8,784 | 8,538 |
-| Notable | Philippines | 1.77% | 9,738 | 9,190 | 7,973 | 7,750 |
-| Notable | Bulgaria | 1.45% | 7,977 | 7,528 | 6,531 | 6,349 |
-| Notable | Latvia | 1.35% | 7,427 | 7,009 | 6,081 | 5,911 |
-| Notable | South Africa | 1.23% | 6,767 | 6,386 | 5,540 | 5,386 |
+| Primary | South Korea | 34.62% | 171,419 | 161,770 | 140,347 | 136,427 |
+| Significant | China | 9.74% | 48,227 | 45,512 | 39,486 | 38,383 |
+| Significant | Japan | 7.78% | 38,522 | 36,354 | 31,539 | 30,659 |
+| Significant | Germany | 8.64% | 42,781 | 40,372 | 35,026 | 34,048 |
+| Significant | Russia | 6.85% | 33,917 | 32,009 | 27,769 | 26,994 |
+| Significant | Indonesia | 4.41% | 21,836 | 20,607 | 17,878 | 17,378 |
+| Notable | Thailand | 3.65% | 18,073 | 17,055 | 14,797 | 14,384 |
+| Significant | Australia | 3.57% | 17,677 | 16,682 | 14,473 | 14,068 |
+| Notable | Estonia | 3.52% | 17,429 | 16,448 | 14,269 | 13,871 |
+| Notable | Hungary | 3.43% | 16,983 | 16,027 | 13,905 | 13,516 |
+| Notable | Lithuania | 3.11% | 15,399 | 14,532 | 12,608 | 12,255 |
+| Notable | Malaysia | 2.93% | 14,508 | 13,691 | 11,878 | 11,546 |
+| Notable | Vietnam | 1.95% | 9,655 | 9,112 | 7,906 | 7,684 |
+| Notable | Philippines | 1.77% | 8,764 | 8,271 | 7,176 | 6,975 |
+| Notable | Bulgaria | 1.45% | 7,179 | 6,775 | 5,878 | 5,714 |
+| Notable | Latvia | 1.35% | 6,684 | 6,308 | 5,473 | 5,320 |
+| Notable | South Africa | 1.23% | 6,090 | 5,747 | 4,986 | 4,847 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

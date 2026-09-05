@@ -55,23 +55,23 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 36.27% | 218,289 | 209,085 | 142,251 | 121,912 |
-| Significant | Australia | 8.76% | 52,722 | 50,499 | 34,359 | 29,447 |
-| Significant | Russia | 8.61% | 51,819 | 49,634 | 33,770 | 28,942 |
-| Significant | South Korea | 7.89% | 47,485 | 45,483 | 30,945 | 26,520 |
-| Significant | China | 7.18% | 43,212 | 41,390 | 28,160 | 24,134 |
-| Significant | Germany | 4.93% | 29,671 | 28,420 | 19,345 | 16,579 |
-| Notable | Romania | 3.54% | 21,305 | 20,407 | 13,872 | 11,889 |
-| Notable | Vietnam | 3.16% | 19,018 | 18,216 | 12,385 | 10,614 |
-| Notable | Ukraine | 3.11% | 18,717 | 17,928 | 12,182 | 10,440 |
-| Notable | Belarus | 3.00% | 18,055 | 17,294 | 11,784 | 10,100 |
-| Notable | Thailand | 2.99% | 17,995 | 17,236 | 11,719 | 10,044 |
-| Notable | New Zealand | 2.97% | 17,875 | 17,121 | 11,644 | 9,979 |
-| Notable | Lithuania | 1.76% | 10,592 | 10,146 | 6,892 | 5,906 |
-| Notable | South Africa | 1.66% | 9,991 | 9,569 | 6,494 | 5,566 |
-| Notable | Bulgaria | 1.60% | 9,630 | 9,224 | 6,291 | 5,392 |
-| Notable | Latvia | 1.35% | 8,125 | 7,782 | 5,287 | 4,531 |
-| Notable | Estonia | 1.22% | 7,342 | 7,033 | 4,804 | 4,117 |
+| Primary | Japan | 36.27% | 196,461 | 188,177 | 128,031 | 109,725 |
+| Significant | Australia | 8.76% | 47,450 | 45,449 | 30,924 | 26,503 |
+| Significant | Russia | 8.61% | 46,637 | 44,671 | 30,394 | 26,049 |
+| Significant | South Korea | 7.89% | 42,737 | 40,935 | 27,852 | 23,869 |
+| Significant | China | 7.18% | 38,891 | 37,251 | 25,345 | 21,721 |
+| Significant | Germany | 4.93% | 26,704 | 25,578 | 17,411 | 14,922 |
+| Notable | Romania | 3.54% | 19,175 | 18,366 | 12,485 | 10,701 |
+| Notable | Vietnam | 3.16% | 17,116 | 16,395 | 11,147 | 9,553 |
+| Notable | Ukraine | 3.11% | 16,845 | 16,135 | 10,964 | 9,396 |
+| Notable | Belarus | 3.00% | 16,250 | 15,565 | 10,606 | 9,090 |
+| Notable | Thailand | 2.99% | 16,195 | 15,512 | 10,548 | 9,040 |
+| Notable | New Zealand | 2.97% | 16,087 | 15,409 | 10,480 | 8,981 |
+| Notable | Lithuania | 1.76% | 9,533 | 9,131 | 6,203 | 5,316 |
+| Notable | South Africa | 1.66% | 8,992 | 8,612 | 5,845 | 5,010 |
+| Notable | Bulgaria | 1.60% | 8,667 | 8,302 | 5,662 | 4,853 |
+| Notable | Latvia | 1.35% | 7,312 | 7,004 | 4,759 | 4,078 |
+| Notable | Estonia | 1.22% | 6,608 | 6,330 | 4,324 | 3,705 |
 
 *Indonesia and UK removed from this table entirely (their shares transferred to Japan or dropped, per the re-derivation above). Sums to exactly 100%.*
 

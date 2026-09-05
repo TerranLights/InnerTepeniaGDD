@@ -29,24 +29,24 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 35.83% | 231,981 | 226,440 | 169,946 | 187,166 |
-| Significant | South Korea | 9.70% | 62,802 | 61,303 | 46,008 | 50,670 |
-| Significant | Japan | 7.30% | 47,264 | 46,135 | 34,625 | 38,133 |
-| Significant | Germany | 8.47% | 54,839 | 53,529 | 40,174 | 44,245 |
-| Significant | Russia | 5.72% | 37,034 | 36,150 | 27,131 | 29,880 |
-| Significant | Australia | 3.66% | 23,697 | 23,131 | 17,360 | 19,119 |
-| Notable | Vietnam | 3.56% | 23,049 | 22,499 | 16,886 | 18,596 |
-| Notable | Estonia | 3.55% | 22,984 | 22,435 | 16,838 | 18,544 |
-| Notable | Thailand | 3.18% | 20,589 | 20,097 | 15,083 | 16,611 |
-| Notable | Lithuania | 3.14% | 20,330 | 19,844 | 14,893 | 16,402 |
-| Notable | Malaysia | 3.04% | 19,682 | 19,212 | 14,419 | 15,880 |
-| Notable | Indonesia | 2.98% | 19,294 | 18,833 | 14,134 | 15,567 |
-| Notable | Romania | 2.88% | 18,647 | 18,201 | 13,660 | 15,044 |
-| Notable | Philippines | 1.72% | 11,136 | 10,870 | 8,158 | 8,985 |
-| Notable | Latvia | 1.58% | 10,230 | 9,985 | 7,494 | 8,253 |
-| Notable | New Zealand | 1.28% | 8,287 | 8,089 | 6,071 | 6,686 |
-| Notable | Bulgaria | 1.21% | 7,834 | 7,647 | 5,739 | 6,321 |
-| Notable | South Africa | 1.20% | 7,769 | 7,584 | 5,692 | 6,268 |
+| Primary | China | 35.83% | 208,783 | 203,796 | 152,952 | 168,450 |
+| Significant | South Korea | 9.70% | 56,522 | 55,173 | 41,407 | 45,603 |
+| Significant | Japan | 7.30% | 42,537 | 41,522 | 31,162 | 34,320 |
+| Significant | Germany | 8.47% | 49,355 | 48,176 | 36,157 | 39,821 |
+| Significant | Russia | 5.72% | 33,331 | 32,535 | 24,418 | 26,892 |
+| Significant | Australia | 3.66% | 21,327 | 20,818 | 15,624 | 17,207 |
+| Notable | Vietnam | 3.56% | 20,744 | 20,249 | 15,197 | 16,736 |
+| Notable | Estonia | 3.55% | 20,686 | 20,191 | 15,154 | 16,690 |
+| Notable | Thailand | 3.18% | 18,530 | 18,087 | 13,575 | 14,950 |
+| Notable | Lithuania | 3.14% | 18,297 | 17,860 | 13,404 | 14,762 |
+| Notable | Malaysia | 3.04% | 17,714 | 17,291 | 12,977 | 14,292 |
+| Notable | Indonesia | 2.98% | 17,365 | 16,950 | 12,721 | 14,010 |
+| Notable | Romania | 2.88% | 16,782 | 16,381 | 12,294 | 13,540 |
+| Notable | Philippines | 1.72% | 10,022 | 9,783 | 7,342 | 8,087 |
+| Notable | Latvia | 1.58% | 9,207 | 8,986 | 6,745 | 7,428 |
+| Notable | New Zealand | 1.28% | 7,458 | 7,280 | 5,464 | 6,017 |
+| Notable | Bulgaria | 1.21% | 7,051 | 6,882 | 5,165 | 5,689 |
+| Notable | South Africa | 1.20% | 6,992 | 6,826 | 5,123 | 5,641 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

@@ -279,9 +279,100 @@ census City Populations table states                        15,623,523
 ⭐ **229 across 43 nations × 33 cities is rounding**, and matches the file's own historical tolerances
 *("off by 4… immaterial", "off by 11… immaterial")*.
 
-## 8.7 ⚠ FOUR CITIES HAVE NO PER-NATION TABLE AT ALL — a separate gap
+### ⛔⛔ RETRACTED — **THE 229 WAS MY ARITHMETIC, AND IT WAS WRONG.** *Corrected 2026-09-05, same day.*
 
-⛔ **Byrd · Dome Fuji · Kunlun · Vostok.** *Byrd's tier summary lists **36 Notable nations** and there is no
-breakdown behind it.* **They are absent from both columns above, and from any direct-sum rebuild of the
-census's National Origin table** — *which is precisely the drift that table's own notes warn about.*
-**Not in scope for this audit; logged.**
+**A developer ruling was issued on this figure — *"add the necessary 229 to Byrd"* — and it must NOT be
+applied, because the number it was issued against does not exist.**
+
+⛔ **Cause: a THIRD parser bug.** *`Specs/Byrd.md` and `Specs/Vostok.md` carry `*(N/A)*` in their Census II
+columns — both cities have no Census II data — and my regex required four numeric fields, so it rejected every
+row in both files.* **I then reported §8.7's claim that Byrd, Dome Fuji, Kunlun and Vostok "have NO per-nation
+table at all."** ***That claim is false. All four have tables*** — **Byrd 42 nations, Vostok 8**, and **Kunlun
+and Dome Fuji robots-only, which is correct: both are 100% robot cities with no human population to break
+down.** *The census's own note that deltas were "computed directly from `Specs/Byrd.md`'s old vs. new
+per-nation figures" was right, and was the thread that caught this.*
+
+⚠ **And the 229 could never have been closed by adding population.** *It was rounding **inside** per-nation
+tables; Byrd was already counted at its full 186,268. **Raising Byrd to 186,497 would lift the census TOTAL to
+15,623,752 and reproduce the identical gap in the opposite direction.*** **The discrepancy would move, not
+close.** ⭐ **The true residual, computed correctly, is +16.**
+
+⏸️ **Developer ruling, same day, on the four:** *"Byrd, Dome Fuji, Kunlun and Vostok… are inland, and would
+therefore be composed via different means. So, for now… we can leave those four cities until later, in regards
+to national-origin composition percentages."* ✅ **Set aside — but note they are set aside as INLAND, not as
+untabled.**
+
+---
+
+## 8.8 ⛔⛔⛔ THE REAL FINDING — **SEVEN PER-NATION TABLES STILL HOLD PRE-REDUCTION POPULATIONS**
+
+***This is a live inconsistency, and four of the seven were created by me today.*** **Every population
+reduction of 2026-09-05 updated the city's census row and its `**Census I/II**` spec lines — and did NOT update
+the per-nation breakdown table sitting further down the same file.**
+
+| City | table H | spec H | stale by | table R | spec R | stale by | reduction |
+|---|--:|--:|--:|--:|--:|--:|---|
+| Port Lockroy | 63,339 | 457 | **+62,882** | 65,549 | 472 | **+65,077** | Gate 11 → 929 |
+| Dumont d'Urville | 223,550 | 201,194 | +22,356 | 229,784 | 206,807 | +22,977 | −10% |
+| Denison | 522,975 | 444,529 | +78,446 | 543,166 | 461,693 | +81,473 | −15% |
+| **Lazar** | 1,287,004 | 1,158,303 | **+128,701** | 1,333,316 | 1,199,984 | **+133,332** | **−10%, TODAY** |
+| **Zhongshan** | 631,984 | 568,786 | +63,198 | 647,448 | 582,703 | +64,745 | **−10%, TODAY** |
+| **Shirayuki** | 576,467 | 518,822 | +57,645 | 601,843 | 541,660 | +60,183 | **−10%, TODAY** |
+| **Sinheung** | 519,190 | 467,272 | +51,918 | 550,159 | 495,143 | +55,016 | **−10%, TODAY** |
+| **TOTAL STALE** | | | **+465,146** | | | **+482,803** | |
+
+> ## ⭐⭐⭐ AND THE OVERHANG IS {{BUNGER HILLS CITY}}, TO WITHIN ONE PERSON.
+> **Stale human overhang 465,146 · {{Bunger Hills City}} humans 465,147 — off by 1.**
+> **Stale robot overhang 482,803 · {{Bunger Hills City}} robots 482,807 — off by 4.**
+> ***Of course it is: those seven reductions ARE what founded the city.*** **The per-nation tables are still
+> holding, nation by nation, the exact population that has already been moved somewhere else.**
+
+## 8.9 ✅ THE CORRECTED RECONCILIATION
+
+```
+direct sum of all per-nation human figures, as the files stand    15,623,538
+− correcting the 7 stale tables to their reduced populations        −465,146
++ {{Bunger Hills City}}'s own per-nation table (not yet written)    +465,147
+                                                                = 15,623,539
+census City Populations total                                     15,623,523
+TRUE RESIDUAL                                                            +16
+```
+
+⭐ **+16 across 43 nations and 35 cities is ordinary rounding**, in line with the file's own recorded
+tolerances. ⛔ ***There is no 229 and there is nothing to add to Byrd.***
+
+## 8.10 ✅ THE SEVEN STALE TABLES ARE REPAIRED — **applied 2026-09-05**
+
+**Every per-nation figure in the seven files was rescaled to its city's reduced population by
+largest-remainder, across all four columns** *(Census I robots · Census I humans · Census II robots · Census II
+humans)*. ⭐ **Shares are unchanged — a uniform scaling preserves them exactly, which is what "H/R ratio
+preserved" meant in each ruling.**
+
+| City | rows | Census I now | Census II now |
+|---|--:|---|---|
+| Port Lockroy | 8 | 457 H / 472 R | 387 H / 304 R |
+| Dumont d'Urville | 12 | 201,194 / 206,807 | 121,170 / 159,635 |
+| Denison | 11 | 444,529 / 461,693 | 285,085 / 338,392 |
+| Lazar | 25 | 1,158,303 / 1,199,984 | 775,085 / 848,494 |
+| Zhongshan | 18 | 568,786 / 582,703 | 470,135 / 426,881 |
+| Shirayuki | 17 | 518,822 / 541,660 | 302,512 / 352,980 |
+| Sinheung | 17 | 467,272 / 495,143 | 394,069 / 405,394 |
+
+✅ **Every column sums EXACTLY to its city's census line.** ✅ **Corpus-wide direct sum now 15,158,392, plus
+{{Bunger Hills City}}'s 465,147 = 15,623,539 against 15,623,523 — residual +16.**
+✅ **Only two cities still disagree with their own population at all: Palmer City −4 and Sejong +17, both
+pre-existing rounding, both immaterial.**
+
+> ### ⚠ THE PROCESS LESSON, RECORDED RATHER THAN QUIETLY FIXED
+> ***A population change touches FOUR places in a Specs file, not two:*** **the `Census I` line, the `Census II`
+> line, the per-nation breakdown table, and the census's own row.** *Today's reductions updated the first, second
+> and fourth and silently skipped the third — **seven times, across three separate sessions, undetected until a
+> direct-sum rebuild was attempted for an unrelated reason.*** ⛔ **Add the per-nation table to the checklist.**
+
+## 8.7 ~~FOUR CITIES HAVE NO PER-NATION TABLE AT ALL~~ — ⛔ **FALSE. RETRACTED SAME DAY.**
+
+**This section claimed Byrd, Dome Fuji, Kunlun and Vostok had no per-nation table.** ⛔ ***All four do.***
+**Byrd 42 nations · Vostok 8 · Kunlun and Dome Fuji robots-only** *(correct — both are 100% robot cities with
+no human population to break down)*. **Cause and full retraction in §8.6 above.**
+⏸️ *They are deferred by developer ruling for a different and legitimate reason — **they are inland, and are
+composed by different means.***

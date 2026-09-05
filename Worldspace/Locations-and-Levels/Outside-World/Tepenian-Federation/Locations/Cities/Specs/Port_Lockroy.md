@@ -63,14 +63,14 @@ What resolves it instead is strategic irrelevance, not physical resilience — t
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 32.00% | 20,976 | 20,268 | 13,505 | 17,185 |
-| Significant | France | 16.71% | 10,954 | 10,585 | 7,053 | 8,975 |
-| Significant | Germany | 14.83% | 9,723 | 9,395 | 6,260 | 7,966 |
-| Significant | UK | 14.35% | 9,409 | 9,092 | 6,058 | 7,709 |
-| Significant | Brazil | 9.65% | 6,323 | 6,109 | 4,071 | 5,180 |
-| Notable | Chile | 5.74% | 3,763 | 3,637 | 2,423 | 3,083 |
-| Significant | Mexico | 4.46% | 2,921 | 2,822 | 1,880 | 2,393 |
-| Notable | Argentina | 2.26% | 1,480 | 1,431 | 953 | 1,213 |
+| Primary | USA | 32.00% | 151 | 146 | 97 | 124 |
+| Significant | France | 16.71% | 79 | 77 | 51 | 65 |
+| Significant | Germany | 14.83% | 70 | 68 | 45 | 57 |
+| Significant | UK | 14.35% | 68 | 66 | 44 | 56 |
+| Significant | Brazil | 9.65% | 45 | 44 | 29 | 37 |
+| Notable | Chile | 5.74% | 27 | 26 | 17 | 22 |
+| Significant | Mexico | 4.46% | 21 | 20 | 14 | 17 |
+| Notable | Argentina | 2.26% | 11 | 10 | 7 | 9 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
