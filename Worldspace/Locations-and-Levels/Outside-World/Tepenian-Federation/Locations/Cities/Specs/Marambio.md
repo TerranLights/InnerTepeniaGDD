@@ -27,8 +27,11 @@
 > the island east–west at barely above sea level.** ⚠ *Meanwhile **more than 80% of the James Ross archipelago
 > around it is glacier and permanent snowfield.***
 >
-> > ### ⭐⭐⭐ **MARAMBIO IS THE ONE TEPENIAN CITY THAT NEVER HAD TO BUILD ON ICE.**
-> > **Every other city in the corpus builds on ice, on a rock scrap, or on stilts. This one has ground —
+> > ### ⭐⭐ **MARAMBIO IS ONE OF ONLY TWO TEPENIAN CITIES THAT NEVER HAD TO BUILD ON ICE.**
+> > ⛔ *Corrected 2026-09-05, same day: this first read **"the one"** — **wrong.** **Davis also fits entirely
+> > on rock**, 1,158,314 on the Vestfold Hills' ~410 km² = 2,825/km², using only 28–40% of its oasis.*
+> > ⭐ **The two are opposite kinds of site — a wholly snow-free island, versus the largest coastal oasis.**
+> > **Everywhere else in the corpus builds on ice, on a rock scrap, or on stilts. This one has ground —
 > > bare, flat, drained, and 78 km² of it.** ⭐⭐ ***And that is the same fact as the airfield.*** *The real
 > > runway here is the only one in Antarctica needing no snow or ice preparation, for exactly this reason.*
 > > **The aviation identity is not sited on the geology; it IS the geology.**

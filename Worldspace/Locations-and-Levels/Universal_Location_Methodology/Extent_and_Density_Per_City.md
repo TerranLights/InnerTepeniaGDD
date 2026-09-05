@@ -503,7 +503,128 @@ these eleven give it something to calibrate against.*
 
 ---
 
-# 10 · 🔬 SOURCES — island areas, 2026-09-05
+# 10 · ⭐⭐⭐ THE OTHER 25 — and **why Gate 11 cannot catch them**
+
+**Run 2026-09-05, immediately after Marambio.** ⛔ **Developer ruling that set the terms:** *"rock and/or ice,
+both. Whatever building terrain is available."*
+
+## ⛔⛔ FIRST, THE METHODOLOGICAL RESULT — **the eleven were not a sample**
+
+**For these 25 there is no denominator.** *An island has a hard edge — water. A continental site does not.*
+**So Gate 11 inverts: population ÷ band = REQUIRED area, then ask what the site has.** ⭐ **And with ice
+buildable, every single one of the 25 has it.** *The largest requirement in the corpus is 374 km² — a circle
+of radius 11 km. Every one of these sites has that within a short walk of its center.*
+
+> ### ⭐⭐⭐ **GATE 11 ONLY HAS TEETH WHERE THERE IS A COASTLINE.**
+> ***The eleven island-capped cities did not fail because they were a representative sample of the corpus.
+> They failed because they were THE ONLY CITIES THE TECHNIQUE COULD CATCH.*** **Water is the only hard edge
+> in Antarctica.**
+>
+> ⛔ **Consequence for scope: the extent run is COMPLETE, not 30% done.** *There is no remaining Gate 11 work
+> on the 25. There is a **different question**, below.* **Do not open a "finish the other 26" task.**
+
+## ⭐⭐ THE DIFFERENT QUESTION — **terrain is not scarce; it is PRICED**
+
+**Rock and ice are both buildable and they are not equivalent.** *Three surfaces, distinguished by failure
+mode — every city is a MIX of the three, and the mix is the extent answer:*
+
+| Surface | Fails how | 🔬 Rate | Over the Second Interwar *(248 yr)* | Supply |
+|---|---|---|---|---|
+| ⭐ **ROCK** | *doesn't* | — | **nothing** | **fixed and small** |
+| **PLATEAU / DIVIDE ICE** | **buries** | **~2.7 cm/yr** *(Dome C SMB 27.2 kg/m²)* | **~6.7 m** — *one rebuild in two and a half centuries* | **unlimited** |
+| ⛔ **SHELF & FLOWING ICE** | **buries AND travels** | **~1.2 m/yr burial**; **740 → 900 → 1,500 m/yr flow** *(Brunt, measured)* | **~298 m buried, 184–372 km travelled** | **unlimited but TEMPORARY** |
+
+🔬 **The burial ratio between the two ice types is 44×.** *Same material, same continent, two completely
+different cities.*
+
+### ⭐⭐⭐ WHICH MAKES HALLEY A CITY THAT MOVES
+**1,452,345 people on the Brunt Ice Shelf.** 🔬 *The real precedent is unambiguous: **the first four Halley
+stations were buried by snow and crushed until uninhabitable**, and **Halley VI was relocated 23 km inland in
+2016** ahead of Chasm-1.* **At 900 m/yr a building travels 1 km every 13 months — 72 km in a human
+lifetime — toward a calving front.**
+
+> ***A permanent Halley is not possible on that surface. A migrating one is.*** **The city walks upstream
+> against the ice, forever, and its whole material culture is downstream of that.** *(Neumayer, on the
+> Ekström, is the same problem — and real Neumayer III sits on hydraulic jacks for exactly this reason.)*
+
+## ⭐⭐⭐ AND THE ROCK IS A CLASS DIVIDE — **by mechanism, not by taste**
+
+**In a city that is 90% ice, the 10% on rock is the only ground that never has to be rebuilt.** ***That makes
+it the most valuable real estate in the city for a physical reason, and it produces hierarchy without anyone
+designing one*** — *founding institutions sit on rock because they were the things that could not be moved;
+an inherited address becomes inherited security.*
+
+**Three social shapes fall out of the mix, and the middle one is where inequality lives:**
+
+| Mix | Cities | Shape |
+|---|---|---|
+| ⭐ **100% ROCK** | **Marambio** *(78 km² snow-free island)* · **Davis** *(410 km² Vestfold Hills, uses 28–40%)* | **flat — no old-ground/new-ground distinction exists** |
+| ⛔ **MIXED, ~10% rock** | **Lazar** *(34 km² of 262–374 needed → **87–91% on ice**)* · **Tri-Cities** *(40 km² of 353–504 → **89–92% on ice**)* · the nunatak cities | ***stratified — this is where the class structure is*** |
+| **0% ROCK** | **Concordia · Vostok · Byrd · Kunlun · Dome Fuji · Amundsen** *(cheap ice)* — **Halley · Neumayer · Mirny** *(expensive ice)* | **flat again, by the opposite mechanism — nobody has permanent ground** |
+
+> ### ⭐⭐⭐ **THE CAPITAL OF TEPENIA STANDS ON NO ROCK AT ALL.**
+> **Concordia is on ~3 km of ice at Dome C.** *But it is the **cheap** kind — 2.7 cm/yr, no horizontal
+> motion — so the city buries slowly and **evenly**, and nobody gains an advantage from where they live.*
+> ⭐ **The game's own setting is socially flat in its ground for the same reason Marambio is, arriving from
+> the exact opposite direction.**
+
+⚠ **NOT YET MEASURED — do not assume:** *accumulation and flow at **Byrd** (WAIS interior, higher than Dome C
+— real Byrd Station is buried), **Mirny** (coastal slope), and the plateau figures for **Vostok · Kunlun ·
+Dome Fuji***. **They are placed in the table by site type, not by a researched rate.**
+
+## ⚠ TWO CLUSTERING FINDINGS THE PER-CITY ROWS HIDE
+
+⭐⭐⭐ **THE TRI-CITIES ARE THE LARGEST CITY IN TEPENIA.** *Merged — as this session established they
+are — Zhongshan + Sinheung + Shirayuki is **3,527,096**, ahead of Lazar's 2,620,319 by **906,777**.*
+**The census has never shown it because it is three rows.** *On the Larsemann Hills' 40 km² of rock alone that
+is 88,177/km², 1.9× Manila — which is not a failure now that ice counts, but it does mean **~90% of the
+largest city in the country stands on ice**.*
+
+⚠ **Terra Nova Bay carries two:** **Janbogo + Zukelli = 2,569,162**, needing 257–367 km² on the Northern
+Foothills. *Same shape, one subnet over.*
+
+## 📋 THE TABLE — required area at the band, all 25
+
+| City | Subnet | Census I | @10k | @7k | Site |
+|---|---|--:|--:|--:|---|
+| Lazar | Halley | 2,620,319 | 262 | 374 | Schirmacher Oasis ~34 km² |
+| Esperanza | Palmer | 1,878,287 | 188 | 268 | Hope Bay ⚠ *James Ross I. reserved for it — §8* |
+| Cape Adare | Janbogo | 1,499,654 | 150 | 214 | Cape Adare |
+| Casey | Mirny | 1,495,731 | 150 | 214 | Bailey Pen., Windmill Is. |
+| **Halley** | Halley | 1,452,345 | 145 | 207 | **Brunt ice shelf — MIGRATING** |
+| Mawson | Mawson | 1,446,733 | 145 | 207 | Holme Bay |
+| **Mirny** | Mirny | 1,351,430 | 135 | 193 | **coastal ice** |
+| Janbogo | Janbogo | 1,310,511 | 131 | 187 | Terra Nova Bay |
+| Zhongshan | Mirny | 1,279,433 | 128 | 183 | Larsemann Hills ~40 km² |
+| Zukelli | Janbogo | 1,258,651 | 126 | 180 | Terra Nova Bay |
+| **Neumayer** | Halley | 1,252,080 | 125 | 179 | **Ekström ice shelf** |
+| Shirayuki | Mirny | 1,178,313 | 118 | 168 | Larsemann Hills |
+| ⭐ Davis | Mirny | 1,158,314 | 116 | 165 | **Vestfold Hills ~410 km² — fits on rock** |
+| Princess Elisabeth | Halley | 1,137,917 | 114 | 163 | Utsteinen ridge |
+| Belgrano | Halley | 1,071,890 | 107 | 153 | Bertrab nunatak |
+| Sinheung | Mirny | 1,069,350 | 107 | 153 | Larsemann Hills |
+| Abowasa | Halley | 1,034,241 | 103 | 148 | Basen nunatak |
+| **Concordia** | Janbogo | 1,015,947 | 102 | 145 | **Dome C plateau — 0% rock** |
+| Troll | Halley | 954,450 | 95 | 136 | Jutulsessen |
+| Sanay | Halley | 463,669 | 46 | 66 | inland bedrock + coastal port |
+| **Vostok** | Mirny | 389,261 | 39 | 56 | **plateau** |
+| **Byrd** | Byrd | 376,890 | 38 | 54 | **WAIS interior** |
+| **Kunlun** | Mirny | 123,449 | 12 | 18 | **Dome A** |
+| **Dome Fuji** | Mawson | 55,072 | 6 | 8 | **Dome F** |
+| **Amundsen Station** | Amundsen | 6,857 | 1 | 1 | **South Pole** |
+
+**26,880,794 people needing 2,688–3,840 km² between them.** ✅ **All of it available.**
+
+## ⛔ A CORRECTION TO §8, SAME DAY
+
+**§8 called Marambio *"the one Tepenian city that never had to build on ice."*** ⛔ **Wrong — Davis also fits
+entirely on rock, with room to spare** *(1,158,314 on the Vestfold Hills' 410 km² = 2,825/km²)*. ✅ **The
+true statement: Marambio and Davis are THE TWO**, *and they are opposite kinds of site — a wholly snow-free
+island versus the largest coastal oasis.* **Corrected in `Specs/Marambio.md` the same day.**
+
+---
+
+# 11 · 🔬 SOURCES — island areas, 2026-09-05
 
 | Island | Area | Source |
 |---|--:|---|
