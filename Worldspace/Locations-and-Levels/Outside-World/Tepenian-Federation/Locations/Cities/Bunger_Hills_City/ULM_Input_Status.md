@@ -52,10 +52,32 @@ written, all four must be marked `NOT-AN-INPUT` on creation.**
 | **T1-G7** | **G7** | ⚠ **DATA EXISTS, UNADDRESSED** | ✅ **The anchor is a PLACE, and it is well specified:** *the **Bunger Hills oasis, Queen Mary Coast, Wilkes Land, ~66°17'S 100°47'E** — terrain, lakes, ice margins and dimensions, all researched.* ⛔⛔ **`G7` designates a COORDINATE, never a history.** *The stations that have stood at this site, who operated them and what became of them are **GPS purposes only** and are **not** admissible as inspiration, founding input or characterization.* ⛔ **No `**Based on:**` field** *(no spec)* **and NO entry in `Inspirational-Influences.md`** — *which is 37/37 without it* |
 | **T1-G8** | **G8** | ✅ **PRESENT — COMPLETE** | ⭐⭐ **Computed and ruled 2026-09-05.** *11 nations, tiers assigned, de-stacked, totals exact.* **China 21.58% Primary; Russia 12.60 · Indonesia 12.23 · Japan 11.98 · South Korea 11.22 · Australia 11.03 Significant; Thailand · Vietnam · Malaysia · Philippines · New Zealand Notable.** *Full derivation in `README.md` §4 and `Upper_Earth_Immigration_Composition.md`* |
 
-> ## ✅ TIER 1 COUNT — **4 fully present or strong (G3 · G5 · G7 · G8), plus G2 at half.**
-> ***The threshold is three. The capability profile CAN be built.*** ⚠ **But `05` requires a pass with a thin
-> Tier 1 to say so** — **and `G2`'s missing climate is the one gap that will measurably thin the result**,
-> because climate drives Phase 2 and the whole falls-vs-lands layer.
+> ## ⚠⚠ TIER 1 COUNT — **CORRECTED 2026-09-05. This block previously read "4 present, threshold met."**
+> ***That counted DATA AVAILABILITY, not the presence tests.*** ⛔ **By the registry's own mechanical tests,
+> ZERO of the eight pass** — *every test addresses a `Specs/` field or a registered file entry, and none of
+> them exist.* ⚠ **`G5` and `G8` were marked "PRESENT" above; both are really *complete data, not at the
+> registered address*** *(no `**Access type:**` field; no census §I tier table).*
+>
+> ### ⭐⭐⭐ BUT THE DISTINCTION THAT MATTERS IS A DIFFERENT ONE — **UNKNOWN vs UNADDRESSED**
+>
+> | | Generators |
+> |---|---|
+> | ✅ **KNOWN, just not written down where the ULM looks** | **G3 · G5 · G7 · G8** — *function, network, coordinate, composition. **Transcription only.*** |
+> | ⛔ **Needs a DEVELOPER RULING, not research** | **G4** *(founding)* · *and the name, and the port* |
+> | ⏸️ **Correctly last** | **G1** — *needs a personality first* |
+> | ⛔ **Canon does not exist yet** | **G6** — *the city has no history because it has not been founded in-fiction* |
+> | ⛔⛔ **GENUINELY MISSING INFORMATION** | ⭐ **`G2` — THE CLIMATE BLOCK. THE ONLY ONE.** |
+>
+> ## ⭐⭐⭐ **SO EXACTLY ONE REQUIRED PIECE OF INFORMATION IS STILL MISSING: THE CLIMATE.**
+> ***Everything else the ULM requires either already exists and needs transcribing, or is a decision rather
+> than a fact.*** **`G2` is the only generator whose gap cannot be closed by writing down something already
+> known, and it is the one that will most thin a pass** — *climate drives Phase 2 and the entire falls-vs-lands
+> layer.*
+>
+> ⚠ **And it cannot be looked up.** *There is **no BAS READER station** at this coordinate under `Bunger`,
+> `Oazis` or `Dobrowolski`, and the sources list is already marked EXHAUSTED.* ⭐ **It will have to be proxied
+> from Mirny (93°E) and Casey (110°E) — the two flanking coastal cities at nearly the same latitude — and the
+> proxying must be stated openly in the provenance line, not hidden.**
 
 ---
 
