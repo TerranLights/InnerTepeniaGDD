@@ -3,15 +3,24 @@
 **Built 2026-09-05** against `Universal_Location_Methodology/ULM_Input_Required_Reference.md`, checked
 mechanically file by file rather than asserted. ⚠ **Placeholder name — braces stay until ruled.**
 
-> ## ⭐⭐⭐ THE HEADLINE — **ONE MISSING FILE IS THE ONLY THING BLOCKING A PASS**
-> **All four Tier 0 inputs are addressed to `Specs/<City>.md`, and that file does not exist.** ⭐ ***But the
-> DATA for three of the four already exists*** — *coordinates and subnet in `Development_Brief.md`, population
-> in the census as of today.* **Creating the spec converts a blocked pass into a runnable one, using nothing
-> that has not already been ruled.**
+> ## ✅✅✅ RESOLVED 2026-09-05 — **`Specs/Bunger_Hills_City.md` NOW EXISTS. THE PASS IS UNBLOCKED.**
+> **This file previously read: *"one missing file is the only thing blocking a pass."*** ⭐ **That file was
+> written, and it verifies clean:**
 >
-> ⭐⭐ **And Tier 1 already clears its own bar.** *`05` §2.2 requires **at least three** of the eight
-> generators or there is no capability profile.* ***Four to five are present*** — **because today's work
-> supplied `G8` outright and `T2-8` for the first time in the corpus.**
+> | | |
+> |---|---|
+> | **ULM presence tests** | ✅ **18 / 18 PASS** |
+> | **Per-nation arithmetic** | ✅ **11 nations, shares 100.00%, all four columns EXACT against the census** |
+> | **Post-war fields** | ✅ **all four marked `NOT-AN-INPUT`** *(`Status` · `Connection to Concordia` · `Current Status` · `Legacy`)* |
+>
+> ⭐⭐ **Tier 0 is fully satisfied. Tier 1 now passes SIX of eight by mechanical test** — *`G2` `G3` `G5` `G7`
+> `G8` addressed, plus `T2-8` extent* — **against a threshold of three.** ⏸️ **`G4` carries its required
+> fields with an explicit "not yet ruled"; `G6` and `G1` remain open for reasons that are not addressing
+> failures.**
+>
+> ### ⭐ WHAT REMAINS IS DECISIONS AND ENTRIES — **no research is outstanding.**
+> **Developer rulings:** *the name · the founding · the port · power · un-deferring `DoI 16`.*
+> **Small entries:** *`Inspirational-Influences.md`, and the five relationship / roster files.*
 
 ---
 
@@ -19,12 +28,12 @@ mechanically file by file rather than asserted. ⚠ **Placeholder name — brace
 
 | ID | Requirement | Status | What exists, and where |
 |---|---|---|---|
-| **T0-1** | Existence & designation | ⛔ **BLOCKED** | **No `Specs/Bunger_Hills_City.md`.** ⚠ *And the name is a placeholder — 5 candidates in `Development_Brief.md` §4, none selected* |
-| **T0-2** | Position in the world | ⚠ **DATA EXISTS, UNADDRESSED** | **`Development_Brief.md` §3: 66°15'S, 100°45'E** *(Mirny subnet, between Mirny 93°E and Casey 110°E)*. ⚠ **Reconcile:** *the real-world oasis center is given as **66°17'S 100°47'E**; both round to solar **UTC+7**, so nothing downstream changes* |
+| **T0-1** | Existence & designation | ✅ **SATISFIED** | **`Specs/Bunger_Hills_City.md` created 2026-09-05.** ⚠ *And the name is a placeholder — 5 candidates in `Development_Brief.md` §4, none selected* |
+| **T0-2** | Position in the world | ✅ **ADDRESSED** | **`Development_Brief.md` §3: 66°15'S, 100°45'E** *(Mirny subnet, between Mirny 93°E and Casey 110°E)*. ⚠ **Reconcile:** *the real-world oasis center is given as **66°17'S 100°47'E**; both round to solar **UTC+7**, so nothing downstream changes* |
 | **T0-3** | Population magnitude | ✅ **PRESENT** | **Census row added 2026-09-05: 465,147 H / 482,807 R / 947,954 C** *(Census II 332,844 / 345,324 / 678,168)* |
-| **T0-4** | Parent | ⚠ **DATA EXISTS, UNADDRESSED** | **Mirny subnet**, verified in `Development_Brief.md` §3 — *no `**Arcanet Subnet:**` field exists because there is no spec to hold it* |
+| **T0-4** | Parent | ✅ **ADDRESSED** | **`**Arcanet Subnet:** Mirny ("Australian")`** in the spec |
 
-> ⭐ **Three of four are addressing gaps, not knowledge gaps.** ***Only T0-1's name is a genuine open ruling.***
+> ✅ **ALL FOUR SATISFIED 2026-09-05.** ⚠ *The NAME remains a placeholder — but `T0-1` requires "something to call it, **even provisionally**," and `{{Bunger Hills City}}` is that. **The ruling is still owed; the input is not.***
 
 # B · TIER 0b — TEMPORAL FRAME
 
