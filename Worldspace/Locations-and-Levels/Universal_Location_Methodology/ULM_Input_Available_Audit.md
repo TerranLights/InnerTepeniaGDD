@@ -68,12 +68,12 @@ would have produced a confident wrong answer:**
 | ~~**Monthly climate table** `T1-G2`~~ | ~~30~~ **37** | ~~7~~ **0** | ✅ **CLOSED 2026-09-04 — and the row is now far bigger than it was.** See the **CLIMATE BLOCK** immediately below |
 | Named in `Airports.md` `T1-G5` | 31 | **6** | ⚠ 6 — may be legitimately air-isolated; needs a positive 'no airport' statement |
 | **Census II figures** `T0-3` | 33 | **4** | ⚠ 4 — confirmed by the census's own note |
-| Symbol pair `T1-G1` | 34 | **3** | ✅ 3 absent, **all three deliberate** |
+| Symbol pair `T1-G1` | **36** | **1** | ✅ **Amundsen Station added 2026-09-04 — Neptune + Electromagnetism**, with a full derivation section in the assignments file. ⛔ **Only Concordia remains** *(district methodology)*; **Abowasa is explicitly excluded in-file** pending its founding-nation fix. ⚠ *The prior '3 absent, all three deliberate' was only verifiable for Abowasa — Amundsen's absence carried no note either way, and turned out to be an omission rather than a decision.* |
 | Named in `Highways.md` `T1-G5` | 34 | **3** | ⚠ 3 — may be legitimately road-isolated |
-| Founding population `T1-G4` | 36 | **1** | ⚠ 1 |
+| ~~Founding population `T1-G4`~~ | ~~36~~ **37** | ~~1~~ **0** | ✅ **CLOSED 2026-09-04 — Denison.** ⚠ **The data was never missing; it was UNADDRESSABLE** — held as prose inside the `Settled:` paragraph, so a sweep for the literal `**Founding population:**` field reported a false gap. *Now a proper field; presence test recorded on `T1-G4`.* |
 | Inspiration picks `T2-4` | 36 | **1** | ✅ 1, structural |
 | DoI Half B row `T1-G3` | 36 | **1** | ⚠ 1 |
-| Robot culture file `T2-5` | 35 | **2** | ✅ 2, both structural/deferred |
+| Robot culture file `T2-5` | 35 | **2** | ✅ **2, both deliberately PAUSED — not gaps to fill.** **Concordia** — district methodology, not the city one. ⛔ **Abowasa — BLOCKED on an upstream canon fix**, not on effort: its whole premise rests on a *"Finnish and Swedish exiles, jointly"* founding that the project's own First Interwar turnover history does not support surviving intact *(`TODO.md` §377; developer-confirmed, same bug class as Sejong's Hangul fix)*. **The fix touches the city's NAME, demonym, dual-national trait and Turku Remembrance holiday** — *"Abowasa" is literally Aboa + Wasa, and the build tracker already marks the name provisional.* ⚠ **Running the pass now would need a full redo.** |
 | Local culture file `T2-1` | 36 | **1** | ✅ 1, structural |
 | Megasheet `T2-1` | 36 | **1** | ✅ 1, structural |
 | Enneagram read `T2-5` | 36 | **1** | ✅ 1, structural |
@@ -177,6 +177,9 @@ today, not carried forward.*
 ---
 
 # 2. ⛔⛔ THE HEADLINE GAP — **EXTENT. 0 of 37, and it breaks the one gate that has ever worked.**
+
+> ### ⭐ THE APPROACH IS NOW WRITTEN — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Extent_and_Area_APPROACH.md`
+> **Settlement-form typology first** *(the census's existing "island cap" annotations generalized)*, **then dimensions.** ⛔ **And the trap it exists to prevent: DO NOT DERIVE EXTENT FROM DENSITY** — that makes Gate 11 tautological and turns the methodology's only author-independent instrument into one that confirms the author. ⭐ **Density is an OUTPUT to be checked, never an input to be chosen.**
 
 **Not one of the 37 cities has a declared extent, area, footprint or land-take.**
 

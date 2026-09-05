@@ -59,13 +59,16 @@
 | ~~**4**~~ | ~~**Monthly climate table**~~ | ✅ **0** | `T1-G2` | ✅ **CLOSED 2026-09-04 — 37/37, plus 6 new complete climate classes** |
 | ~~5~~ | ~~Named in `Airports.md`~~ | ~~6~~ | `T1-G5` | ✅ **RESOLVED 2026-09-03 — all 37 now explicitly stated; file reconciles 11+3+23=37.** See §5 |
 | ~~6~~ | ~~Named in `Highways.md`~~ | ~~3~~ | `T1-G5` | ✅ **RESOLVED 2026-09-03 — developer-confirmed; was never a gap.** See §6 |
-| **7** | **Founding population** | **1** | `T1-G4` | ⭐ **count says last; TIER says otherwise — this is a `G4` SPINE input.** Work it early despite the count |
+| ~~**7**~~ | ~~**Founding population**~~ | ✅ **0** | `T1-G4` | ✅ **CLOSED 2026-09-04 — Denison.** *It was never a data gap: the content sat as prose in `Settled:` and read as missing to a mechanical sweep.* ⭐ **A `G4` SPINE input that was reported absent for want of a field name** |
 | **8** | DoI Half B row | **1** | `T1-G3` | — |
 | **9** | Robot culture file | **1** | `T2-5` | ⏸️ **blocked, not open** — see §Blocked |
 
 ---
 
 # 1. EXTENT / AREA — **37 of 37**
+
+> ### ⭐ APPROACH DOCUMENT — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Extent_and_Area_APPROACH.md`
+> **Written 2026-09-04.** Settlement-form typology · the anti-circularity rule · what constrains buildable area *(ice IS buildable — the limits are mass balance, ice dynamics and terrain)* · **extent needs a `Built mode` companion or the density check still cannot discriminate** · **bands, not point values** · and a §7 split of what is a developer RULING versus what is research.
 
 **No city has a declared built extent.** **`01` §2 requires two bands declared, population *and* extent;
 `01` §6's declaration block has a mandatory `**Extent band:**` line; `00_RUNBOOK.md` Step 2 item 6 orders the

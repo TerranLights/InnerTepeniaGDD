@@ -1,6 +1,7 @@
 # City Symbol Assignments — Planet + Robot-Element, Per City
 
-**What this is:** a Planet + Robot-Element symbol pair for each of Tepenia's 35 outer cities, derived from
+**What this is:** a Planet + Robot-Element symbol pair for each of Tepenia's 35 outer cities **plus Amundsen
+Station** *(added 2026-09-04 — belongs to no subnet; see its own full derivation section)*, derived from
 each city's own established personality — specifically the three-axis reads already worked out in
 `../City_Enneagram_Personalities/` (Major Theme: Thinking/Feeling/Instinctive; Hornevian Group:
 Withdrawn/Compliant/Assertive; Harmonic Group: Positive Outlook/Competency/Reactive), cross-checked against
@@ -20,8 +21,37 @@ Times" faction, Zukelli's and Denison's destruction, Janbogo being left standing
 present-day airfield conflict, Rothera's war-survival framing) — caught and corrected 2026-08-05, re-derived
 from each city's actual pre-war-established character instead.
 
+> ## ⚠⚠ BELGRANO RE-DERIVED 2026-09-04 — **the 2026-08-05 correction pass was INCOMPLETE on this entry**
+>
+> **A full Second Interwar re-audit of all 36 entries was run 2026-09-04 at developer direction.** *Thirty-five
+> passed. Belgrano did not.*
+>
+> **Its rationale read:** *"A resourceful **salvage**-and-engineering economy — turning **old aircraft parts**
+> into new working assets…"* ⛔ **That is Boneyard Times imagery.** The Boneyard Times is confirmed in three
+> separate files as **Belgrano's POST-WAR decline** — *"operational base, not the post-war Boneyard Times
+> decline"*; *"the 'Boneyard Times' post-war faction split being correctly kept out of the pre-war
+> Course_of_Events."*
+>
+> ### ⭐ The failure mode is worth recording, because a keyword sweep does not catch it
+> **The 2026-08-05 pass DID name Belgrano and DID remove the explicit "Boneyard Times faction" reference.**
+> ***It left the salvage framing, which is the same post-war concept expressed in different words.***
+> **Deleting the label is not the same as re-deriving the entry.**
+>
+> **Pre-war Belgrano, per its own spec:** *"Aviation logistics, Weddell Sea access… one of the two coastal
+> receiving ports for South African freighter shipments,"* trucked overland to Halley and flown onward by
+> Troll — **a functioning aviation hub with a working runway**, not a place that picks over wreckage.
+> **Plus the Belgrano Institute of Medicine**, the Federation's source of *field* medicine, sitting
+> downstream of the airfield because *"medevac is an aviation function, and whoever flies the casualties in
+> learns to treat them first."*
+>
+> ⭐ **The PAIR survives; only the reasoning was wrong** — and the corrected reasoning fits it better.
+> **Metal** *(precision, discernment, "cutting away what's no longer necessary," and grief)* is a closer
+> match to **trauma medicine and triage** than it ever was to salvage. **Neptune** *(known through your
+> effect on something else rather than direct presence)* holds: Belgrano's medics and freight are felt
+> across the country, at places that are not Belgrano.
+
 **Overlap between cities is expected and, in places, deliberate** — with only 10 planets and 8 elements across
-34 cities, some repetition is mathematically inevitable, and a few repeats specifically echo already-
+35 entities, some repetition is mathematically inevitable, and a few repeats specifically echo already-
 established lore rather than being arbitrary: Kunlun, Vostok, and Dome Fuji all landing on **Pluto**
 (Isolation) mirrors their already-established extreme-isolation kinship and Ice Cold Buddhism connection, not
 coincidence.
@@ -34,7 +64,7 @@ coincidence.
 |---|---|---|---|
 | Halley | Mercury | Water | Endurance right at the edge of a moving ice shelf, adapting rather than resisting |
 | Neumayer | Neptune | Metal | Precise, self-contained work that rewards inquiry rather than announcing itself |
-| Belgrano | Neptune | Metal | A resourceful salvage-and-engineering economy — turning old aircraft parts into new working assets through patient, diligent labor, not spectacle |
+| Belgrano | Neptune | Metal | **The Halley subnet's primary aviation hub** and one of its two coastal receiving ports — and, downstream of the airfield, the **Belgrano Institute of Medicine**, one of only three sources of trained medical personnel in the Federation, flagship in **Emergency and Trauma Response**. *Precision under pressure, triage, and the discipline of knowing what cannot be saved.* **Its effect is felt wherever its medics and freight go, not at Belgrano itself** *(re-derived 2026-09-04 — see note below)* |
 | Troll | Neptune | Electricity | The subnet's real freight-and-aviation distribution hub — genuine working-class logistics muscle, redistributing goods that arrive via Sanay and Belgrano onward by air |
 | Sanay | Jupiter | Electromagnetism | Holds the literal Arcanet nexus — the invisible hub everything else connects through, weight self-evident without needing credit |
 | Princess Elisabeth | Uranus | Electricity | Self-generated power, a genuine technological outlier by design |
@@ -92,6 +122,108 @@ coincidence.
 |---|---|---|---|
 | Byrd | Mars | Earth | Lay dormant for centuries, revived back to being extremely well-developed following an exploration crew's mission to find it |
 
+## Amundsen Station
+
+**Added 2026-09-04**, closing the last unassigned entity. *(Not one of the 35 cities — belongs to no subnet,
+by the same "for the sake of total completion" reasoning that included it in `City_Enneagram_Personalities/`.)*
+
+| Entity | Planet | Element | Why |
+|---|---|---|---|
+| **Amundsen Station** | **Neptune** | **Electromagnetism** | Calculated before it was built — decades of survey science established the Tower was possible before a beam was laid; then ran the national data infrastructure from the furthest point in the country. Known everywhere by its effect, visited by almost no one. The one place every meridian converges and every direction is north |
+
+---
+
+# ⭐ AMUNDSEN STATION — full derivation
+
+**Written out at length because this entry was derived separately from the others** *(the 35 came from the
+Enneagram three-axis reads; this one was derived from the place's own nature at developer direction)*, and
+because it **doubles an element the distribution notes had called deliberately unique.** *The reasoning is
+recorded so the decision can be re-examined rather than merely inherited.*
+
+## ⛔ Frame: SECOND INTERWAR ONLY
+
+**Per this file's own standing rule, and re-stated by the developer during derivation.** ***Excluded from the
+reasoning entirely:*** the station's destruction · its ruins · the scrap mountain · DLC 1 · the Arcanet
+archive's post-Split-Brain reconciliation role · *"the place whose absence disconnected everything."*
+**Only the living, functioning station counts.**
+
+## ⚠ A correction that reshaped the derivation
+
+**A first pass characterized Amundsen as *"a facility that produces nothing"*, reading the spec's *"nothing
+was produced for export"* as though it meant nothing was produced at all.** ***Developer correction: that is
+flatly wrong.*** **What this station produced:**
+
+- ⭐ **The national data infrastructure, continuously.** *"These are the people who are fundamentally holding
+  the national data infrastructure together."* **Not caretaking — the most load-bearing output in Tepenia.**
+- ⭐ **Decades of survey science BEFORE construction** — scientists, technicians and engineers on rotating
+  tours studying the landscape and geological composition **for literal decades** to establish whether a
+  space elevator could be anchored here at all.
+- ⭐ **The Amundsen Tower itself** — the construction crews, engineers and scientists who lived here
+  *during* the build. **The largest engineering achievement in the setting.**
+
+> **The corrected reading did not weaken the pick. It is the reason the pick works.**
+
+## Why NEPTUNE
+
+| Neptune's own text | Amundsen |
+|---|---|
+| *"Its existence was **calculated mathematically**, from irregularities in Uranus's orbit, **before it was ever actually observed**"* | ⭐⭐ **The Tower existed as calculation before it existed as structure.** Decades of survey established it was possible before anyone built it. *This is Neptune's founding story, not a metaphor for it* |
+| *"Quietly willing to share its secrets with anyone willing to do **the brainwork**"* | ⭐ **Literally what a multi-decade geological survey programme is** — a place yielding its secrets to sustained study |
+| *"The **farthest** planet, and yet home to the **fastest winds** recorded anywhere in the system"* | The most remote point in the country, and the site of its most intense sustained technical activity |
+| *"**Intensity that has nothing to do with proximity to the source of energy**"* | ⭐ The city that **regulated the nation's energy**, from its furthest edge |
+| *"Being known through your effect on something else before anyone ever sees you directly — real, provable influence that doesn't require visibility"* | **6,857 people serving millions.** Every Tepenian met Amundsen daily through their own connection; almost none ever went |
+| *Neutral: "does not shun, though also does not invite"* | A facility with no permanent civic community — *"people came from their cities, did their work, and went home"* |
+| **One word: Diligence** | ⭐ **Decades of patient work before and during the build, then continuous operation.** Not quiet maintenance — sustained, demanding, expert labour |
+
+⚠ **Neptune's negative also lands:** *"understood entirely through someone else's disturbance rather than on
+your own terms."* **Amundsen had no terms of its own** — it *"belonged to all of them and therefore to none."*
+
+## Why ELECTROMAGNETISM
+
+| The element's own text | Amundsen |
+|---|---|
+| *"signal and transmission — a message, a warning, a pulse of light or radio carried across real distance **by a field rather than a wire**"* | ⭐ **The inter-subnet Arcanet relay.** The developer's own framing: *holding the national data infrastructure together* |
+| *"the capacity to **draw disparate, scattered things together into one coherent whole**"* | **Six subnets, one Federation** — the neutral switching point connecting all of them |
+| *"**invisible bonds that persist whether or not anyone acknowledges them**"* | The relay nobody visits and everybody depends on |
+| *"alignment and orientation — **a compass always pointing toward something true**"* | ⭐⭐ **At 90°S.** Where a compass does the one thing it cannot do anywhere else |
+| *"complementary opposites that define and complete each other — **a north pole is only meaningful because a south pole exists**"* | ⭐⭐⭐ ***This clause applies to Amundsen and to nothing else in Tepenia.*** **And from here every direction is north** — the place defines direction for everyone while having none of its own |
+
+⚠ **The negative is equally exact:** *"dependency on an external field rather than one's own internal
+compass"* — a station with no identity but its function; and *"a signal is also a vulnerability — anything
+reachable by an invisible field can be jammed, intercepted, or spoofed."*
+
+## ⚠⚠ THE OBJECTION, ANSWERED — this doubles Electromagnetism
+
+**This file's own Distribution Notes previously read:** *"Electromagnetism's single use (Sanay) is deliberate
+rather than an oversight… forcing a second use elsewhere would have been arbitrary."*
+
+**Two reasons the doubling is not arbitrary here:**
+
+1. ⭐ **Sanay holds ONE subnet's nexus. Amundsen holds the node connecting ALL SIX.** *Amundsen is the
+   higher-order case of the identical function* — if anything the element fits it more completely than the
+   city that already carries it. **Sanay's entry keeps its full force; the two are a scale pair, not a
+   collision.**
+2. **That note was written while Amundsen was absent from this file entirely.** ***It never considered this
+   entity.*** The claim it makes is that no *city* warranted a second use — which remains true.
+
+## Candidates rejected, and why
+
+| Rejected | Reason |
+|---|---|
+| ⛔ **Pluto** *(Isolation)* | **Would say Amundsen is isolated when it is the most CONNECTED place in Tepenia** — physically remote, but the opposite of cut off. Would also dilute the established Kunlun/Vostok/Dome Fuji trio, whose shared Pluto mirrors a real extreme-isolation and Ice Cold Buddhism kinship |
+| ⛔ **Jupiter** *(Dominance)* | Implies weight, gravity and self-evident authority. ***Amundsen had no authority at all*** — disputes came *"not because it had formal authority… but because its neutrality was respected."* **Its power was entirely unofficial, which is the whole point** |
+| **Mercury** *(Resilience)* | Genuine near-miss: Mercury is the **smallest** planet and Amundsen the smallest entity, and *"a specific, oddly precise rhythm found nowhere else"* fits a pole with **one sunrise and one sunset a year**. But Mercury's core is *endurance at the edge*, and Amundsen's core is *service from the centre* |
+| **Electricity** *(fallback element)* | Strong — `Robot_Elementals.md` names the Amundsen Tower in its own text, and *"the single current that runs through and unifies an entire system end to end"* fits the Tower's energy-regulation role. ⚠ **But the file's naming is about the Tower's FALL**, which is out of frame; and the developer's emphasis was **data** infrastructure, which is signal, not power |
+
+## ⭐ A characterizing fact this derivation surfaced
+
+**If generations of the country's best engineers and scientists rotated through — first to survey, then to
+build, then to operate — then Amundsen accumulated an expertise density unlike anywhere else in Tepenia,
+without ever accumulating a population.** The *"intense, temporary, and real"* camaraderie its spec describes
+isn't only isolation-bonding: **it is what happens when the most capable people in a country keep passing
+through the same small facility for a century.** *Flagged for the developer as candidate material, not
+asserted canon.*
+
 ---
 
 ## A Tenth Solar Symbol: The Asteroid Belt
@@ -115,8 +247,12 @@ war damage, but **drifting away from an original purpose or condition, then retu
 oriented), and Byrd (dormant for centuries, then found and developed by an exploration crew). All three stay
 comfortably pre-war. The earlier zero-Mars finding is superseded.
 
-**Planet/Solar usage (34 assigned cities):** Neptune 7, Earth 6, Jupiter 4, Uranus 3, Mars 3, Saturn 3,
-Pluto 3, Mercury 3, Venus 1, Asteroid Belt 1 (Rothera, confirmed 2026-08-10). **Neptune reviewed 2026-08-05** — Sinheung moved to Uranus, since its Assertive/
+**Planet/Solar usage (35 assigned entities, incl. Amundsen Station):** **Neptune 8**, Earth 6, Jupiter 4,
+Uranus 3, Mars 3, Saturn 3, Pluto 3, Mercury 3, Venus 1, Asteroid Belt 1 (Rothera, confirmed 2026-08-10).
+⚠ **Neptune is now the most-used symbol at 8.** Amundsen was added on the strength of a near-literal match
+*(existence calculated before observed; known by effect rather than presence; intensity unrelated to
+proximity to the energy source)* rather than to balance the distribution — **but if Neptune is ever
+re-reviewed for over-use, this is the entry to weigh against Marambio and Port Lockroy first.** **Neptune reviewed 2026-08-05** — Sinheung moved to Uranus, since its Assertive/
 Reactive, outsized-national-pride profile sat awkwardly against Neptune's quiet, doesn't-announce-itself
 character, and directly undercut Sayowa's own established profile, which explicitly contrasts its quiet,
 uncredited service work against Sinheung's own need for recognition. The remaining seven Neptune cities
@@ -124,10 +260,19 @@ uncredited service work against Sinheung's own need for recognition. The remaini
 — Neumayer, Port Lockroy, and Juan Carlos especially, each a close literal match for "diligence" or "known
 through effect/record rather than direct presence."
 
-**Element usage (34 cities):** Earth 6, Water 6, Fire 5, Metal 5, Wood 4, Electricity 4, Air 3,
-Electromagnetism 1. Electromagnetism's single use (Sanay) is deliberate rather than an oversight — Sanay's
-literal Arcanet nexus is the one city whose established function maps directly onto the element's own
-"invisible bonds, signal and transmission" meaning; forcing a second use elsewhere would have been arbitrary.
+**Element usage (35 entities):** Earth 6, Water 6, Fire 5, Metal 5, Wood 4, Electricity 4, Air 3,
+**Electromagnetism 2**.
+
+> ### ⚠ ELECTROMAGNETISM WAS SINGLE-USE UNTIL 2026-09-04 — the change is deliberate, not drift
+> **The previous note read:** *"Electromagnetism's single use (Sanay) is deliberate rather than an oversight
+> — Sanay's literal Arcanet nexus is the one city whose established function maps directly onto the
+> element's own 'invisible bonds, signal and transmission' meaning; **forcing a second use elsewhere would
+> have been arbitrary.**"* **That reasoning stands, and Sanay keeps its entry in full.**
+>
+> ⭐ **Amundsen Station is the one warranted exception: Sanay holds ONE subnet's nexus, Amundsen holds the
+> node connecting ALL SIX.** *The higher-order case of the identical function.* **They are a scale pair, not
+> a collision.** ⚠ **And the original note was written while Amundsen was absent from this file entirely —
+> it never considered this entity.** *Its claim, that no CITY warranted a second use, remains true.*
 **Davis, 2026-08-05:** moved from Wood to Earth — Davis now carries Earth as both planet and element, a
 deliberate doubling-down rather than an oversight, matching how thoroughly "breadbasket/grounded" defines the
 city.

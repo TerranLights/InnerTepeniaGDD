@@ -240,7 +240,26 @@ directly from the city being sited at the bottom of a drain.*
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on the site of Douglas Mawson's Australasian Antarctic Expedition (1911–1914). Founding population: Australian exiles first, joined quickly by the same broad Pacific-corridor mix that would later define Casey (per the Significant/Notable tiers above). Unlike Casey's founders, Denison's had no substantial modern station to inherit — they built a genuine city on a site whose only legacy was a legendary, nearly-unsurvivable expedition and a reputation for extremity.
+**Settled:** Post-Falkland Treaty, on the site of Douglas Mawson's Australasian Antarctic Expedition (1911–1914). Unlike Casey's founders, Denison's had no substantial modern station to inherit — they built a genuine city on a site whose only legacy was a legendary, nearly-unsurvivable expedition and a reputation for extremity.
+
+**Founding population:** **Australian exiles first**, joined quickly by the same broad Pacific-corridor mix that would later define Casey *(per the Significant/Notable tiers above)*. **The site itself is why:** Cape Denison was Mawson's own base, so the Australasian claim on it was historical rather than infrastructural — *there was nothing here to inherit except a reputation.*
+
+> ### ⭐ THE FOUNDING/CENSUS DIVERGENCE — and it is characterizing, not an error
+> **Denison was founded by Australians and is not an Australian city.** By Census I, **Australia sits at
+> 5.87% — sixth**, behind USA (26.19%), China (22.29%), South Korea (12.31%), Indonesia (10.77%) and Japan
+> (7.41%). *The tier table already marks Australia `(founding wave)` for exactly this reason.*
+>
+> ⭐ **The founders' contribution was not demographic weight but the DARE.** Mawson's expedition proved a
+> human presence at the windiest sea-level site on Earth was possible — barely — and the exiles took that as
+> licence rather than warning. **The city that grew was overwhelmingly Pacific-corridor, and it inherited an
+> Australian premise it never inherited an Australian population to carry.**
+>
+> *(Compare `Specs/Belgrano.md`, where founding-operator heritage and eventual composition also diverge —
+> the pattern is normal in this corpus, and the divergence is the finding, per `01` §2.)*
+
+*(Normalized 2026-09-04 — this content previously existed only as prose inside the `Settled:` paragraph, so
+a mechanical presence test for `**Founding population:**` reported Denison as MISSING when the data was
+present. **The data was never absent; it was unaddressable.**)*
 
 The founding generation didn't try to talk the wind down. They built around it, named their institutions after it, and made surviving Cape Denison's climate the city's foundational identity from day one — a city founded on a dare already accepted by history: Mawson's expedition had proven a human presence there was possible, barely, and the exiles took that as license rather than warning.
 
