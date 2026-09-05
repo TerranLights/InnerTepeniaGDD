@@ -15,6 +15,65 @@
 **Census I (Pre-Orbital Era):** 283,442 humans / 286,827 robots / **570,269** combined *(island cap)*
 **Census II (Orbital Era):** 195,623 humans / 234,522 robots / **430,145** combined *(island cap)*
 
+> ### ⭐⭐⭐ EXTENT — worked 2026-09-05. *City #5 of 11.* **This city arrived ALREADY CORRECT.**
+> **570,269 on Seymour Island's ~78 km² = 7,311/km²** — ⭐ *inside the 7,000–10,000/km² band that Signy,
+> Sayowa and Dumont d'Urville reached independently.* ***Two of the eleven landed in the band on first
+> computation. This is one of them.***
+>
+> #### ⭐⭐⭐ AND THE GROUND IS THE RAREST SURFACE ON THE CONTINENT
+> 🔬 **Seymour Island is *entirely snow-free*** — *with James Ross, **the largest ice-free surface known in
+> Antarctica**.* **Its northern half is a high, level, extensive plateau** *(max elevation only ~180 m)*;
+> **its southern half is low, deeply dissected, "ribbed" with small hills**; and **a transverse valley cuts
+> the island east–west at barely above sea level.** ⚠ *Meanwhile **more than 80% of the James Ross archipelago
+> around it is glacier and permanent snowfield.***
+>
+> > ### ⭐⭐⭐ **MARAMBIO IS THE ONE TEPENIAN CITY THAT NEVER HAD TO BUILD ON ICE.**
+> > **Every other city in the corpus builds on ice, on a rock scrap, or on stilts. This one has ground —
+> > bare, flat, drained, and 78 km² of it.** ⭐⭐ ***And that is the same fact as the airfield.*** *The real
+> > runway here is the only one in Antarctica needing no snow or ice preparation, for exactly this reason.*
+> > **The aviation identity is not sited on the geology; it IS the geology.**
+>
+> #### ⏸️ PROPOSED — **the redistribution pool comes here.** *Awaiting a ruling; not yet applied.*
+> **Rationale: the pool is 333,212 people displaced by the discovery that three cities were built on postage
+> stamps. The place to put them is the one city with actual ground.**
+>
+> | | Census I | Census II |
+> |---|--:|--:|
+> | Current | 570,269 | 430,145 |
+> | **+ pool** | **+333,212** | **+236,441** |
+> | **Proposed** | **903,481** | **666,586** |
+>
+> **At Seymour alone (78 km²) that is 11,583/km²** — *above the band, below Paris; defensible, but it spends
+> the whole margin.* ⭐ **At a proposed ~110 km² it is 8,213/km² — dead center of the band**, *between Signy's
+> 9,931 and Sayowa's 7,155.*
+>
+> **The extra ~32 km² is a bridgehead on Snow Hill Island's northern lobe, across Picnic Passage** — *under
+> 10% of that island, not an annexation.* ⭐⭐ **Which makes Picnic Passage load-bearing:** *the strait stops
+> being something a highway crosses and becomes something the CITY crosses.* **Marambio becomes a two-island
+> city like Signy — but joined by road rather than by hull.**
+>
+> #### ⛔⛔ AND IT DELIBERATELY LEAVES JAMES ROSS ISLAND ALONE — **because Esperanza needs it**
+> 🔬 *James Ross is ~2,400 km², and its **Ulu Peninsula holds ~250–312 km² of ice-free ground — the largest
+> deglaciated area in the Antarctic Peninsula region**, facing the Trinity Peninsula across the Prince Gustav
+> Channel.* ⚠ **Esperanza carries 1,878,287 people with no declared extent, on Hope Bay, already flagged as
+> possibly too big for its site — and it is Hwy 1's northern terminus.**
+>
+> > ⭐⭐⭐ ***The Palmer subnet's two worst extent problems sit at opposite ends of the same road, and the
+> > unclaimed land between them belongs to the one at the far end.*** **Marambio takes a bridgehead and
+> > stops.**
+>
+> #### ⚠⚠ TWO PROBLEMS FOUND IN THE CAUSEWAY CHAIN
+> ⛔ **The Prince Gustav Channel is 7.4–27.8 km wide.** *Canon calls the mainland crossing part of a
+> "causeway/bridge chain."* **At its narrowest that is four times Signy's Normanna Strait and eight times
+> Picnic Passage — that is not a bridge.** ⭐ **But the answer is already on the map: the Prince Gustav Ice
+> Shelf filled this channel.** *A road riding an ice shelf is a different structure with a different failure
+> mode — **and one that can go away**, which is usable.*
+>
+> ⚠ **Picnic Passage is harder than its ~0.93 km suggests:** 🔬 **strong currents and tide rips**, and it
+> **shoals to under 1 nautical mile across at the center at low tide.** *The shoaling helps — shallow
+> midchannel is where a causeway founds. **The tide rips do not**, and neither do 220 km/h gusts on an
+> exposed 0.93 km span.*
+
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
@@ -56,7 +115,7 @@ The Argentine Air Force chose Seymour Island for the runway — flat terrain, re
 
 **Climate type:** Eastern Peninsula continental — Weddell Sea influence; colder and drier than the western coast; similar to Esperanza but slightly further south and more exposed
 **Mean annual temperature:** -8.0°C  _(READER station: Marambio; 1991–2020 WMO standard normal)_
-**Prevailing winds:** **gusts to 220 km/h** during the winter months *(researched 2026-09-04)*
+**Prevailing winds:** ⭐ **NW and SW, with a monthly mean vector near 270° (west) — but the storms arrive on the SOUTHWESTERLIES.** **Gusts to 220 km/h** during the winter months. ⭐⭐ **Two opposing air masses meet on this one site, because it sits on the Peninsula's EASTERN side:** *the mountain spine blocks the Southern Ocean westerlies and delivers them over the top as a **föhn** — warm and dry — while the **Weddell Sea Low** pushes cold, dry **southerly barrier winds** up the same coast.* ⚠ *The föhn is the mechanism behind the disputed +20.75 °C reading recorded below; it is also why the eastern Peninsula is colder and drier than the western in the mean, yet holds the sharper warm spikes.* *(researched 2026-09-04; direction and mechanism added 2026-09-05)*
 **Record extremes:** record high **+17.4 °C** (23 March 2015); record low **−38.3 °C**. ⚠ *A reading of +20.75 °C was reported here on 9 February 2020 and widely circulated, but **WMO rejected it** — the sensor was a permafrost monitoring unit under an improvised radiation shield. The mainland record belongs to Esperanza's 18.3 °C.* *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −17°C; warmest month avg 0°C
 **No polar night; no midnight sun** — at 64°14'S; winter minimum daylight ~4–5 hours; summer maximum ~19–20 hours

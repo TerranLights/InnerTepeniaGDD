@@ -10,7 +10,7 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **4 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)*.
+> ✅ **5 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)* · **Marambio** *(§8 — extent settled; ⏸️ the pool transfer awaits a ruling)*.
 > ✅ **Plus DENISON, re-addressed and resolved** *(not island-capped — `Extent_and_Area_APPROACH.md` §7b)*.
 > ⏳ **Next: Rothera** — *the opposite failure: 68/km², the emptiest in the corpus.*
 
@@ -386,7 +386,102 @@ permanently one decision away from sailing away is strong characterization.*
 
 ---
 
-# 8 · ⏸️ QUEUE — worked one at a time, in this order
+# 8 · ✅ MARAMBIO — **EXTENT SETTLED 2026-09-05.** *City #5 of 11.* **It arrived already correct.**
+
+**570,269 ÷ ~78 km² (Seymour Island) = 7,311/km²** — ⭐ *inside the band.* ***Two of the eleven landed in the
+band on first computation; this is the second.*** ⛔ **Nothing here needed fixing. The work was finding out
+WHY it was right, and what the site can absorb.**
+
+## ⭐ THE ROADS WERE READ FIRST THIS TIME
+
+⚠ **At Dumont d'Urville, Denison and Sayowa, `Access type:` and `Highway access:` answered the extent question
+— and in all three cases surfaced only AFTER an area check had produced a wrong answer.** *The rule written
+into `Extent_and_Area_APPROACH.md` from those three says: read those fields **before** computing density.*
+
+✅ **Here it was obeyed.** 🔬 **`Access type: ON`** · **Hwy 1 waypoint** *(not terminus — Esperanza is)* ·
+**a documented causeway/bridge chain: Marambio → Picnic Passage → Snow Hill I. → James Ross I. → Prince Gustav
+Channel → Trinity Peninsula.** ***So this city was never island-confined. It is on a chain, and the chain was
+in the spec the whole time.***
+
+## ⭐⭐⭐ THE GEOLOGY — the rarest surface on the continent
+
+🔬 **Seymour Island is *entirely snow-free*** — *with James Ross, **the largest ice-free surface known in
+Antarctica**.* **Northern half: a high, level, extensive plateau, max ~180 m. Southern half: low, deeply
+dissected, "ribbed" with small hills. A transverse valley cuts the island east–west at barely above sea
+level.** ⚠ *And **>80% of the surrounding James Ross archipelago is glacier and permanent snowfield.***
+
+> ### ⭐⭐⭐ **THE ONE TEPENIAN CITY THAT NEVER HAD TO BUILD ON ICE.**
+> **Everywhere else builds on ice, on a rock scrap, or on stilts. This one has ground — bare, flat, drained,
+> 78 km² of it.** ⭐⭐ ***And it is the same fact as the airfield:*** *the real runway here is the only one in
+> Antarctica needing no snow or ice preparation, for precisely this reason.* **The aviation identity is not
+> sited on the geology; it IS the geology.**
+
+⚠ **Note against [[feedback_realworld_fact_vs_fiction_driver]]:** *"ice-free" is a striking fact, and striking
+facts are not automatically drivers.* ✅ **This one qualifies** — **it is already load-bearing in canon** *(the
+airfield, the flat approach corridors, "the most developed airstrip infrastructure of any Peninsula city")*.
+**The research did not add a driver; it found the cause of one already written.**
+
+## ⏸️ PROPOSED — THE REDISTRIBUTION POOL COMES HERE. *Awaiting a ruling; NOT applied.*
+
+**Why here: the pool is 333,212 people displaced by the discovery that three cities were built on postage
+stamps.** ***The place to put them is the one city with actual ground.***
+
+| | Census I | Census II |
+|---|--:|--:|
+| Current | 570,269 | 430,145 |
+| **+ pool** *(Port Lockroy 127,958/95,215 · Dumont d'Urville 45,333/31,201 · Denison 159,921/110,025)* | **+333,212** | **+236,441** |
+| **Proposed** | **903,481** | **666,586** |
+
+| Extent | Census I density | Verdict |
+|---|--:|---|
+| Seymour alone, **78 km²** | **11,583/km²** | ⚠ *above the band, below Paris — defensible, but spends the whole margin* |
+| ⭐ **~110 km²** *(Seymour + ~32 km² of Snow Hill's northern lobe)* | **8,213/km²** | ✅ ***dead center*** — *between Signy 9,931 and Sayowa 7,155* |
+
+⭐⭐ **The ~32 km² is a BRIDGEHEAD, under 10% of Snow Hill — not an annexation.** *And it makes Picnic Passage
+load-bearing: the strait stops being something a highway crosses and becomes something the **city** crosses.*
+**Marambio becomes a two-island city like Signy — joined by road rather than by hull.**
+
+## ⛔⛔ AND IT LEAVES JAMES ROSS ISLAND ALONE — **because Esperanza needs it**
+
+🔬 *James Ross is ~2,400 km²; its **Ulu Peninsula holds ~250–312 km² of ice-free ground — the largest
+deglaciated area in the Antarctic Peninsula region** — facing the Trinity Peninsula across the Prince Gustav
+Channel.* ⚠ **Esperanza carries 1,878,287 with no declared extent, on Hope Bay, already flagged as possibly
+too big for its site — and it is Hwy 1's northern TERMINUS.**
+
+> ⭐⭐⭐ ***The Palmer subnet's two worst extent problems sit at opposite ends of the same road, and the
+> unclaimed land between them belongs to the one at the far end.*** **Marambio takes a bridgehead and stops.**
+> ⛔ **This is a deliberate reservation, not an oversight — do not let a later pass spend James Ross on
+> Marambio.**
+
+## ⚠⚠ TWO PROBLEMS FOUND IN THE CAUSEWAY CHAIN
+
+⛔ **The Prince Gustav Channel is 7.4–27.8 km wide.** *Canon calls the mainland crossing part of a
+"causeway/bridge chain."* **At its narrowest that is 4× Signy's Normanna Strait and 8× Picnic Passage — that
+is not a bridge.** ⭐ **The answer is already on the map: the Prince Gustav Ice Shelf filled this channel.**
+*A road riding an ice shelf is a different structure with a different failure mode — **and one that can go
+away**, which is usable.*
+
+⚠ **Picnic Passage is harder than its ~0.93 km suggests:** 🔬 **strong currents and tide rips**, and it
+**shoals to under 1 nm across at the center at low tide.** *Shoaling helps — shallow midchannel is where a
+causeway founds. **Tide rips do not**, and neither do 220 km/h gusts on an exposed 0.93 km span.*
+⛔ **Deliberately NOT read as a tidal-stream power site** *(Signy's Normanna Strait already took that answer;
+carrying it here would be exactly the convergence the synthesis rules forbid)*. **Here the current is a
+construction problem, not a resource.**
+
+## 🔬 THE WIND — filling a blank field, same as Signy's
+
+**NW and SW prevailing; monthly mean vector ~270° (west); *the storms come on the southwesterlies*; gusts to
+220 km/h.** ⭐⭐ **Two opposing air masses on one site, because this is the Peninsula's EASTERN side:** *the
+spine blocks the Southern Ocean westerlies and delivers them over the top as a **föhn** — warm, dry — while
+the **Weddell Sea Low** drives cold, dry **southerly barrier winds** up the coast.* ⚠ *The föhn is the
+mechanism behind the WMO-rejected +20.75 °C reading the spec already records.*
+
+⭐ **Compare Signy, worked the same day: föhn appears at both, from different causes** *(a 1,265 m island ridge
+there; a continental mountain spine here)*. **Same physics, unrelated geometry — not a carried answer.**
+
+---
+
+# 9 · ⏸️ QUEUE — worked one at a time, in this order
 
 | # | City | Why it is here |
 |--:|---|---|
@@ -398,7 +493,7 @@ permanently one decision away from sailing away is strong characterization.*
 | **6** | **Fort McMurdo + Scott** | ⚠ **worked together — they share Ross Island** *(338/km² combined)* |
 | **7** | **Juan Carlos · Sejong** | ⚠ 485 and 561/km², both on large glaciated islands |
 | ~~**8**~~ | ✅ **Signy** | ✅ **RESOLVED 2026-09-05** — *moored-fleet extent, population unchanged (§7)* |
-| **8** | **Marambio** | ✅ **plausible as-is — 7,311/km² on Seymour I.** ⭐ *And it has 3,047 km² available via the causeway chain it does not need — **the natural home for the redistribution pool*** |
+| ~~**8**~~ | ✅ **Marambio** | ✅ **EXTENT SETTLED 2026-09-05** *(§8)* — **7,311/km² on Seymour I., correct on arrival.** ⏸️ *Pool transfer to **903,481 on ~110 km² = 8,213/km²** **proposed, awaiting a ruling**. **James Ross I. deliberately reserved for Esperanza.*** |
 
 ⚠ **Denison is NOT in this queue** — *it is not island-capped, it was worked separately
 (`Extent_and_Area_APPROACH.md` §7b), and its population is **flagged for reduction, deliberately held** until
@@ -408,7 +503,7 @@ these eleven give it something to calibrate against.*
 
 ---
 
-# 9 · 🔬 SOURCES — island areas, 2026-09-05
+# 10 · 🔬 SOURCES — island areas, 2026-09-05
 
 | Island | Area | Source |
 |---|--:|---|
