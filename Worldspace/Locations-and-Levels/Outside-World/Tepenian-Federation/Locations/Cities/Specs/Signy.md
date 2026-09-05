@@ -26,6 +26,108 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 **Census I (Pre-Orbital Era):** 93,134 humans / 95,560 robots / **188,694** combined *(island cap)*
 **Census II (Orbital Era):** 53,928 humans / 79,827 robots / **133,755** combined *(island cap)*
 
+> ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **THE FLEET.** *Population UNCHANGED.*
+> **`**Extent band:** Signy Island 19 km² + a moored floating settlement around Coronation Island.**
+>
+> **Developer ruling:** *floating piers around the perimeter of Coronation Island, with multiple boats hooked
+> onto each pier, used as living and sleeping space.*
+>
+> ⭐⭐ **THE ARITHMETIC FITS THE EXISTING POPULATION ALMOST EXACTLY.** 🔬 *Coronation Island is 450 km²,
+> 46 km long, "mainly ice-covered" with peaks to 1,265 m and **numerous bays**; its indented coastline runs
+> ~146–243 km.* **At 40–60 km of sheltered frontage, 15 m mooring pitch, rafted 2–3 deep: ~8,000 vessels.
+> At ~25 people each: ~200,000 — against Signy's 188,694.** ***The population was never wrong; what it stands
+> on was simply unrecorded.***
+>
+> 🔬 **Normanna Strait is only 1.9 km wide** — *a shorter span than Denison's 3 km to Mackellar, in sheltered
+> sub-Antarctic water.*
+>
+> ⭐ **And it uses the one resource Coronation has in abundance.** *Its land is glacier and mountain — largely
+> unbuildable. Its **coastline** is not.* **The fleet does not compete with the ice; it ignores it.**
+>
+> ⚠ **There is precedent on this exact site: a shore whaling station operated at Factory Cove until 1925–26,
+> and Antarctic whaling ran on moored factory ships.** *A floating settlement in these bays is the industry
+> that was already here, scaled up.*
+
+> ### ⭐⭐⭐ AND CORONATION'S LANDMASS BECOMES THE POWER STATION — developer ruling, same session
+> **With the population housed afloat, Coronation Island's 450 km² is freed for generation. It sits on an
+> exceptional resource, and it is three resources rather than one:**
+>
+> | Source | 🔬 Why it is exceptional here |
+> |---|---|
+> | ⭐⭐ **WIND** | **60°43'S — the furious fifties.** *The Southern Ocean is "dominated by strong westerly winds," with **no landmasses to break the fetch**.* **Unobstructed, year-round, and among the strongest sustained wind on the planet** |
+> | ⭐⭐ **WAVE** | *The same long fetch produces **"some of the fiercest waves on the planet."*** **What batters a coast is what a wave farm harvests** |
+> | ⭐ **TIDAL STREAM** | **Normanna Strait — a 1.9 km constriction between two islands.** *A narrow channel between landmasses is the classic tidal-stream site* |
+> | **SOLAR** | ⚠ **modest but never zero** — *at 60°43'S there is **no polar night**; the sun rises and sets every day of the year.* **Long summer days, short winter ones, nothing lost entirely** |
+>
+> ⭐⭐⭐ **WHICH GIVES SIGNY'S WAR SURVIVAL A PHYSICAL CAUSE.** **This spec records Signy as *"Survived; fully
+> operational"* and reasons that Upper Earth's forces *"plausibly never struck it directly at all."***
+> ***That explains why it was not attacked. It does not explain why it kept working.***
+> **When Amundsen Tower fell and the national grid died, Signy did not notice — it had never been on it.**
+> *(Compare the six geothermal cities, which kept their heat for the same structural reason. Signy is the
+> only city that made its own **power**.)*
+>
+> ⭐ **And it inverts the city's defining trait.** *Isolation is usually Signy's curse — most isolated Palmer
+> city, weak Arcanet, sea access alone.* ***The same facts make it self-sufficient. It is remote because it is
+> far, and it is independent because it is far.***
+>
+> ⚠ **The standing hazard, unresolved:** **sea ice.** *The South Orkneys freeze, and beset vessels get
+> crushed — the historical failure mode for anything moored through an Antarctic winter.* ⛔ **Either the
+> piers break ice, the hulls are built for it, or the fleet is seasonal. Whichever is chosen becomes a
+> defining fact about the place, and it is not yet chosen.**
+>
+> ⚠ **A moored city has no ground:** *no agriculture, no foundations, no expansion except more hulls.*
+> ***Everything arrives by sea, forever*** — **which suits a city already carrying `Access type: NONE`.**
+
+> ### ⭐⭐⭐ WHERE THE WIND COMES FROM — and why it moves the fleet off the perimeter
+> *Researched 2026-09-05, immediately after the extent ruling. **It revises the shape of the settlement, not
+> its size.***
+>
+> 🔬 **The measured band is 220°–320° — SW through W to NW.** *Mean ~14 kn (7.2 m/s), gales ~60 days a year,
+> extreme gust 115 kn (213 km/h), and the 25 kn small-boat limit is routinely exceeded.* **At 60°43'S with an
+> unbroken Southern Ocean fetch, this is as close to a single-direction wind as a maritime site gets.**
+>
+> #### ⛔ THE OBVIOUS ANSWER — "moor on the lee side" — IS WRONG HERE, TWICE.
+>
+> **1 · Coronation Island runs EAST–WEST, and so does the wind.** 🔬 *46 km long, 5.6–14.8 km wide, long axis
+> east–west.* ***The prevailing westerly blows ALONG the island's length, not across it.*** **A 46 km island
+> edge-on to the flow is a knife, not a wall** — *it casts almost no downwind shadow, and what it does cast is
+> off its eastern tip and short.* **There is no big sheltered flank to moor 8,000 vessels against.**
+>
+> **2 · The one flank that IS in the lee is the gustiest water on the island.** 🔬 *When the NW component
+> crosses the ridge — peaks to **1,265 m at Mount Nivea** — it descends the south coast as a **föhn**, which
+> is why **Coronation's south shore is the warmest ground in the archipelago** and why Signy itself sits in a
+> documented warm anomaly.* ⛔ ***Lee-side downslope wind is the classic mooring killer:*** *it arrives in
+> sudden bullets, off the mountain, from a bearing the open-water wind is not blowing.* **Rigging a raft for
+> one direction is precisely how you lose it.**
+>
+> #### ⭐⭐ SO SHELTER HERE IS NOT A COMPASS SIDE. IT IS ENCLOSURE.
+> **The fleet clusters into the deep bays and the narrow water and leaves the straight exposed coast empty:**
+> 🔬 **Ommanney Bay** *(north)* · **Iceberg Bay** *(south, between Cape Hansen and Olivine Point)* ·
+> **Sandefjord Bay** *(west)* · **Normanna Strait** · **Borge Bay and Factory Cove** *(Signy's own, already
+> the harbor)*.
+>
+> ⭐⭐⭐ **AND THIS RETROACTIVELY EXPLAINS THE ARITHMETIC.** *The capacity figure above used **40–60 km of
+> "sheltered frontage" out of a 146–243 km coastline** — roughly a quarter to a third.* ***That fraction was
+> an estimate when it was written. It is now a description: the sheltered quarter is the bays.***
+>
+> #### ⭐⭐ AND THE TWO LAND-USES STOP COMPETING
+> **The wind farms go exactly where the fleet cannot be** — *the exposed west end, the northwest point, the
+> ridge crests.* ***The wind that makes a stretch of coast uninhabitable is the same wind that makes it
+> valuable, and the two uses never contend for one square meter.*** **The city sorts itself by a single
+> variable.**
+>
+> ⚠ **A lead on the unresolved sea-ice hazard, not a resolution:** *the föhn makes Coronation's south coast
+> the **warmest** water in the archipelago.* **If any part of this fleet stays workable longest, it is the
+> south-coast bays — which is also where the whalers and the station went.**
+>
+> #### ⚠⚠ AND IT PUTS A REAL PROBLEM ON THE BRIDGE
+> **Canon already gives Signy a *"high bridge"* to Coronation** *(§Geographic Basis; "the Endurance Span,"
+> proposed)*. 🔬 **Normanna Strait runs east–west — the same axis as the prevailing wind** — *so the span
+> stands in a 1.9 km channel aligned with the flow, with full fetch down its length, gales 60 days a year and
+> gusts to 213 km/h.* ***High bridges close in wind.*** **~60 days a year, Signy's two halves are separate
+> cities and the only link is the water.** ⭐ *That is a gameplay fact and a cultural one — not an
+> engineering objection.*
+
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
@@ -95,7 +197,7 @@ The Shackleton connection: the Endurance expedition (1914–1916) made its histo
 > ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-3.8 °C** this is among the mildest cities in the Federation (**32 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
-**Prevailing winds:** strong westerlies off the Scotia Sea; the most wind-exposed Palmer subnet city; the open-ocean position provides no shelter
+**Prevailing winds:** ⭐ **dominant direction band 220°–320° — SW through W to NW, the prevailing westerlies.** Mean **~14 knots (~7.2 m/s)**; **gales on ~60 days a year**; extreme recorded gust **115 knots (213 km/h)**; the small-boat working limit of 25 knots *is often exceeded*. ⚠ **The direction is not uniform across the archipelago** — *the eastern end of the chain reads 300°–360° (N/NW) instead, because the islands themselves bend the flow.* **The most wind-exposed Palmer subnet city; the open-ocean position provides no shelter** *(researched 2026-09-05)*
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|

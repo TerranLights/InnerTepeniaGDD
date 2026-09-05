@@ -10,7 +10,7 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **3 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)*.
+> ✅ **4 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)*.
 > ✅ **Plus DENISON, re-addressed and resolved** *(not island-capped — `Extent_and_Area_APPROACH.md` §7b)*.
 > ⏳ **Next: Rothera** — *the opposite failure: 68/km², the emptiest in the corpus.*
 
@@ -284,7 +284,109 @@ and a stable one.***
 
 ---
 
-# 7 · ⏸️ QUEUE — worked one at a time, in this order
+# 7 · ✅ SIGNY — **RESOLVED 2026-09-05.** *City #4 of 11. The population was never wrong.*
+
+> ## ✅ DEVELOPER RULING — **Option A: population unchanged; the extent is A MOORED FLEET**
+> ***Floating piers around the perimeter of Coronation Island, with multiple boats hooked onto each pier,
+> used as living/sleeping space*** — **plus: Coronation's freed landmass becomes a renewable power station.**
+
+| | |
+|---|--:|
+| **Population** | **188,694 — UNCHANGED.** *No overflow* |
+| **Extent** | **Signy I. 19 km² + a moored settlement around Coronation I.** |
+| **Density on Signy I. alone** | **9,931/km²** — *top of the band* |
+
+## ⭐⭐ THE ARITHMETIC FITS THE EXISTING FIGURE, AND WAS RUN BEFORE COMPARING
+
+🔬 **Coronation I.: 450 km², 46 km long, 5.6–14.8 km wide, "mainly ice-covered," peaks to 1,265 m,
+*numerous bays*.** *Smooth-ellipse perimeter ~97 km; with the bays, a real coastline of ~146–243 km.*
+
+| Sheltered frontage | Pitch | Raft depth | Vessels | @25 people |
+|--:|--:|--:|--:|--:|
+| **40 km** | 15 m | 3 | **7,998** | **199,950** |
+| **60 km** | 15 m | 2 | **8,000** | **200,000** |
+
+⭐ **~8,000 hulls ≈ 200,000 people, against Signy's 188,694.** ***The population did not need changing — what
+it stands on was simply never recorded.***
+
+🔬 **Normanna Strait is 1.9 km** — *shorter than Denison's 3 km span, in sheltered water.*
+⭐ **And it uses the one thing Coronation has in abundance:** *its land is glacier and mountain, largely
+unbuildable; its **coastline** is not.* **The fleet does not compete with the ice — it ignores it.**
+⚠ **Precedent on this exact site:** *a shore whaling station ran at Factory Cove until 1925–26, and Antarctic
+whaling ran on **moored factory ships**.*
+
+## ⭐⭐⭐ CORONATION'S LANDMASS BECOMES THE POWER STATION — and the resource is extraordinary
+
+| Source | Why it is exceptional at 60°43'S |
+|---|---|
+| ⭐⭐ **WIND** | **the furious fifties** — *"dominated by strong westerly winds," with **no landmasses to break the fetch*** |
+| ⭐⭐ **WAVE** | *the same fetch produces **"some of the fiercest waves on the planet"*** — **what batters a coast is what a farm harvests** |
+| ⭐ **TIDAL STREAM** | **Normanna Strait's 1.9 km constriction** — *the classic tidal site* |
+| **SOLAR** | ⚠ modest but **never zero** — *no polar night at this latitude; the sun rises and sets every day* |
+
+> ## ⭐⭐⭐ THIS GIVES SIGNY'S WAR SURVIVAL A PHYSICAL CAUSE
+> **Canon records Signy as *"Survived; fully operational,"* reasoning that Upper Earth *"plausibly never
+> struck it directly at all."*** ***That explains why it was not attacked. It never explained why it kept
+> working.***
+> ⭐ **When Amundsen Tower fell and the national grid died, Signy did not notice — it had never been on it.**
+> *(Compare the six geothermal cities, which kept their HEAT for the same structural reason.* **Signy is the
+> only city in Tepenia that made its own POWER.**)
+>
+> ⭐⭐ **And it inverts the city's defining trait.** *Isolation is Signy's curse — most isolated Palmer city,
+> weak Arcanet, sea access alone.* ***The same facts make it self-sufficient.***
+
+## ⭐⭐⭐ THE WIND — asked immediately after, and it RESHAPED the settlement
+
+🔬 **Dominant band 220°–320°** *(SW–W–NW)*; **mean ~14 kn (7.2 m/s)**; **gales ~60 days a year**; extreme gust
+**115 kn (213 km/h)**; the 25 kn small-boat limit routinely exceeded. *The eastern end of the chain reads
+300°–360° instead — **the islands bend the flow**, so the direction is not uniform across the archipelago.*
+
+> ### ⛔⛔ "MOOR ON THE LEE SIDE" IS WRONG HERE — TWICE. **Both failures are geometric.**
+> **1 · Coronation runs east–west and so does the wind.** *46 km long, long axis E–W.* ***The westerly blows
+> ALONG its length.*** **Edge-on, a 46 km island is a knife, not a wall** — *the shadow is off its eastern tip
+> and short.* **There is no sheltered flank big enough for 8,000 vessels.**
+>
+> **2 · The flank that IS in the lee is the gustiest water there.** *NW flow crossing the 1,265 m ridge
+> descends the south coast as a **föhn** — which is why that shore is the **warmest ground in the
+> archipelago**.* ⛔ ***Downslope lee wind is the classic mooring killer:*** *bullets off the mountain, from a
+> bearing the open-water wind is not blowing.*
+
+⭐⭐ **SO SHELTER HERE IS ENCLOSURE, NOT A COMPASS SIDE.** **The fleet clusters into the bays — Ommanney
+(N) · Iceberg (S) · Sandefjord (W) · Normanna Strait · Borge Bay and Factory Cove — and leaves the straight
+exposed coast empty.** *The city is a chain of moored pockets, not a ring.*
+
+⭐⭐⭐ **AND IT RETROACTIVELY EXPLAINS THE ARITHMETIC ABOVE.** *The capacity run used **40–60 km of "sheltered
+frontage" out of 146–243 km** — a quarter to a third — as an estimate.* ***It is now a description: the
+sheltered quarter is the bays.*** **The number was not adjusted to fit; the reason arrived afterward and
+matched it.**
+
+⭐⭐ **The two land-uses stop competing.** *Wind farms go exactly where the fleet cannot be — exposed west end,
+northwest point, ridge crests.* ***The wind that makes a coast uninhabitable is what makes it valuable, and
+they never contend for one square meter.***
+
+⚠⚠ **AND IT PUTS A PROBLEM ON THE BRIDGE.** *Canon already gives Signy a **"high bridge"** to Coronation
+("the Endurance Span," proposed).* 🔬 **Normanna Strait runs east–west — the prevailing-wind axis** — *full
+fetch down a 1.9 km channel, gales 60 days a year, gusts to 213 km/h.* ***High bridges close in wind: ~60 days
+a year Signy's two halves are separate cities and the only link is the water.*** ⭐ **A gameplay and cultural
+fact, not an engineering objection.**
+
+## ⚠ TWO THINGS LEFT OPEN
+
+⛔ **SEA ICE.** ⭐ *A lead, not a resolution:* **the föhn makes the south-coast bays the warmest water in the
+archipelago — the same water the whalers and the station chose.** *The South Orkneys freeze, and **beset vessels get crushed** — the historical failure mode for
+anything moored through an Antarctic winter.* **Either the piers break ice, the hulls are built for it, or the
+fleet is seasonal.** ***Whichever is chosen becomes a defining fact about the place, and it is not yet
+chosen.***
+
+⚠ **A moored city has no ground** — *no agriculture, no foundations, no expansion except more hulls.*
+**Everything arrives by sea, forever** — *which suits a city already carrying `Access type: NONE`.*
+
+⭐ **A settlement that could, in principle, leave.** *For a subnet whose defining trait is isolation, a city
+permanently one decision away from sailing away is strong characterization.*
+
+---
+
+# 8 · ⏸️ QUEUE — worked one at a time, in this order
 
 | # | City | Why it is here |
 |--:|---|---|
@@ -295,7 +397,8 @@ and a stable one.***
 | **5** | **Palmer City** | ⚠ 137/km² — ⭐ **and it is the ONE city with a documented cap (364,000)** |
 | **6** | **Fort McMurdo + Scott** | ⚠ **worked together — they share Ross Island** *(338/km² combined)* |
 | **7** | **Juan Carlos · Sejong** | ⚠ 485 and 561/km², both on large glaciated islands |
-| **8** | **Signy · Marambio** | ✅ **plausible — confirm and use as the band anchor** |
+| ~~**8**~~ | ✅ **Signy** | ✅ **RESOLVED 2026-09-05** — *moored-fleet extent, population unchanged (§7)* |
+| **8** | **Marambio** | ✅ **plausible as-is — 7,311/km² on Seymour I.** ⭐ *And it has 3,047 km² available via the causeway chain it does not need — **the natural home for the redistribution pool*** |
 
 ⚠ **Denison is NOT in this queue** — *it is not island-capped, it was worked separately
 (`Extent_and_Area_APPROACH.md` §7b), and its population is **flagged for reduction, deliberately held** until
@@ -305,7 +408,7 @@ these eleven give it something to calibrate against.*
 
 ---
 
-# 8 · 🔬 SOURCES — island areas, 2026-09-05
+# 9 · 🔬 SOURCES — island areas, 2026-09-05
 
 | Island | Area | Source |
 |---|--:|---|
