@@ -62,7 +62,7 @@ you to §1.1's recurring cost, with a larger number.**
 
 ---
 
-# 2 · ⚠ THE THREE-TIER TYPOLOGY *(proposal)*
+# 2 · ⚠ THE PORT TYPOLOGY — FOUR TIERS *(proposal)*
 
 **Every Tepenian port belongs to exactly one tier, and the tier decides what it costs and what can kill it.**
 
@@ -70,7 +70,19 @@ you to §1.1's recurring cost, with a larger number.**
 |---|---|---|---|
 | ⭐ **GEOLOGICAL** | **rock — arms, shelter, a sheltered anchorage** | **none** | *nothing short of geology* |
 | ⭐⭐ **NATURAL-THERMAL / WIND** | **volcanic heat, or katabatic scour** | **none** | **the source stopping** *(a calving ice tongue; a dormant vent)* |
+| ⭐⭐ **ICEPORT** *(added 2026-09-05)* | **a natural bay in the ICE FRONT itself** — not rock, not heat, not wind | **none** | ⚠ **the shelf it is cut into, moving** |
 | **CONSTRUCTED** | **labor — ice piers, re-cut channels, seasonal offload** | ⛔ **paid every year, forever** | **a year nobody pays it** |
+
+> ### ⭐⭐ THE FOURTH TIER — **ICEPORT.** *Missed on the first pass; the typology had only three.*
+> 🔬 ***"Atka Iceport… an iceport about 16 km long and wide, marking a more-or-less permanent indentation in
+> the front of the Ekström Ice Shelf."***
+>
+> **An iceport is a harbor made of the ice sheet's own geometry** — **a bay in the shelf front, sheltered,
+> deep, and free.** ⭐ **It needs no rock, no volcano, no wind and no labor.**
+>
+> ⚠ **But it sits in moving ice** *(that shelf carries Neumayer seaward at ~157 m/yr)*, ***so an iceport
+> MIGRATES, and on a long enough timescale it calves away entirely.*** **It is the only tier that is
+> free today and temporary by construction** — *a harbor with an expiry date nobody alive will see.*
 
 > ## ⚠⚠ THE CONSEQUENCE THIS TYPOLOGY EXISTS FOR — **PROPOSAL, needs a ruling**
 > **If any Tepenian port was held open by GRID energy rather than by geology, geothermal heat, or wind, then
@@ -291,22 +303,99 @@ inland of the coast)*
 > **So Sanay appears in both places on purpose:** *landlocked as a settlement, and a confirmed port operator
 > as a polity.* ⚠ **Do not 'fix' this by removing it from either list.**
 
-## ⚠ 5.6 Coastal, port status NOT ESTABLISHED
+## ⭐⭐ 5.6a THE THREE SEA-ONLY CITIES — **SETTLED 2026-09-05.** *These were the urgent ones.*
 
-***Listed rather than invented.*** **These cities have a coastline and no canon statement either way:**
+> ### ⛔ WHY THESE THREE FIRST
+> **Juan Carlos, Sejong and Signy all carry `Access type: NONE` — no road.** **Signy has no airstrip either.**
+> ***So for these cities the port is not a detail of the economy. It is the only way in or out***, and until
+> it was settled they had no established access at all. **Developer priority, 2026-09-05:** *"first, we need
+> to settle the ports for Juan Carlos, Sejong, and Signy (**especially** Signy)."*
 
-**Casey · Cape Adare · Davis · Denison · Esperanza · Fort McMurdo · Juan Carlos · Neumayer · Palmer City ·
-Port Lockroy · Rothera · Sayowa · Scott · Sejong · Shirayuki · Signy · Sinheung · Zhongshan** — **18**
+| City | Port | 🔬 What is actually there | Tier |
+|---|---|---|---|
+| ⭐⭐ **SIGNY** | **Borge Bay — Factory Cove** | **A large, irregularly-shaped bay dominating the east side of the island, with Factory Cove inside it.** ⭐ **A shore whaling station operated at Factory Cove until 1925–26** — *an industrial harbor, not merely an anchorage.* **There is a jetty with slipway, the preferred landing point.** *The site was chosen partly for nearby freshwater lakes* | ⭐ **GEOLOGICAL** |
+| **JUAN CARLOS** | **Española Cove**, in South Bay, Hurd Peninsula | ***"Used for the transfer of people and cargo to the base situated at its head."*** **Johnsons Dock lies adjacent — a sheltered cove 500 m wide indenting 900 m** — and **Ojeda Beach gives 730 m of ice-free shore.** *The coves were frequented by early-19th-century sealers* | ⭐ **GEOLOGICAL** |
+| **SEJONG** | **Marian Cove**, off Maxwell Bay | **Maxwell Bay runs 19 km between two islands and its main entrance is wide open and navigable.** **Marian Cove indents the island's southwest between Collins Harbor and Potter Cove** | ⭐ **GEOLOGICAL** |
 
-⚠ *Zukelli was on this list until 2026-09-05 and is not any more: it **shares Janbogo's port** (§4).*
+### ⭐⭐⭐ THE FINDING — **these harbors are older than Antarctic science**
 
-**Three of them carry facts that bear on it strongly:**
+***All three are sealer- and whaler-era anchorages, and so is Port Lockroy*** *(§5.6, "a working sealing and
+whaling harbor")*. **Factory Cove is named for a whaling factory. Livingston's coves were worked by sealers in
+the 1820s.**
 
-| City | Fact |
-|---|---|
-| ⭐ **Port Lockroy** | ✅ **Goudier Island sits inside a natural harbor**; *"the harbor itself provides exceptional natural shelter; the surrounding waters are protected from open ocean swells by the island geometry"* — **and it was a working sealing and whaling harbor historically.** ***Tier GEOLOGICAL on its own spec's evidence*** |
-| ⛔ **Signy** | ✅ **maritime access ALONE** — no road, no air. *"Entirely maritime-access only… the most isolated Palmer subnet city… a significant sea voyage from the nearest other city"* |
-| **Palmer City** | ✅ `Access type: SEA-LINK` — *"requires a **boat crossing** from its ramp, not a road"* (`Highways.md`) |
+> ## SO THE PENINSULA INVERTS THE RULE THAT GOVERNS EVERYWHERE ELSE IN TEPENIA.
+> **Everywhere else, the harbor exists because a settlement needed one.** ⭐ **Here, the settlement exists
+> because the harbor was already there** — **found, used and named by commercial hunters two centuries before
+> anyone came to do science, let alone to live.**
+>
+> ***These are the oldest working sea infrastructure on the continent, and Tepenia inherited them rather than
+> building them.*** ⚠ **That is a real distinction between the Peninsula cities and every other subnet**, and
+> it is available to any pass on those cities.
+
+⚠ **Juan Carlos and Sejong are ALSO geothermal** *(`Geothermal_Heating.md`)*. **So they hold rock harbors AND
+volcanic heat — two of the three cost-free tiers at once.** ***Signy has neither: its harbor is rock and
+nothing else, which is exactly why its isolation is load-bearing.***
+
+## ✅ 5.6 THE REMAINING 15 — **worked 2026-09-05**
+
+***All 37 cities now have a port status.*** **Marked 🔬 where the assignment rests on the real-world site's
+physical geography and ⚠ where canon is thin and a city pass should confirm.**
+
+### Peninsula — the inherited harbors
+
+| City | Port | 🔬 Basis | Tier |
+|---|---|---|---|
+| **Rothera** | **Ryder Bay** | ⭐ **A wharf for discharging cargo from supply ships**, on *"a glacially carved volcanic rock promontory."* **The site's real-world counterpart is its program's largest facility and a logistics hub for reaching other sites** | ⭐ **GEOLOGICAL** |
+| **Palmer City** | **Hero Inlet** *(Arthur Harbor adjacent)* | ⭐ **A pier, rebuilt in the modern era, at which *"docking is now done routinely."*** ✅ **Squares exactly with canon's `SEA-LINK`** — *the Hwy 1 ramp gets you to the water; the pier is what you arrive at* | ⭐ **GEOLOGICAL** |
+| **Port Lockroy** | **the natural harbor at Goudier Island** | ✅ *"Exceptional natural shelter… protected from open ocean swells by the island geometry"* — **and a working sealing and whaling harbor historically** | ⭐ **GEOLOGICAL** |
+| ⚠ **Esperanza** | **Hope Bay** | ⚠ **Thin.** *Canon carries `Esperanza_09_The_Shipping_Partner_Across_the_Bay.md`, which implies a working maritime relationship across the bay rather than a major facility* | ⚠ **confirm in its pass** |
+
+### Ross Sea
+
+| City | Port | 🔬 Basis | Tier |
+|---|---|---|---|
+| ⭐⭐ **Fort McMurdo** | **Winter Quarters Bay** | ***"The southernmost port in the world,"*** **working on a FLOATING ICE PIER for summer cargo. Two ships plus an icebreaker, annually** | ⛔ **CONSTRUCTED** |
+| **Scott** | **shares Winter Quarters Bay** | **The two sit ~3 km apart on the same peninsula** — *canon calls them "functionally adjacent; the boundary is a political line more than a physical one"* | ⛔ **CONSTRUCTED** *(shared)* |
+| ⚠ **Cape Adare** | **Ridley Beach — a LANDING, not a harbor** | ⛔ ***"Landings are not always possible due to unpredictable conditions."*** **An exposed beach under rugged cliffs** | ⛔ **NONE — beach landing only** |
+
+> ### ⭐⭐⭐ FORT McMURDO IS THE INTERESTING ONE
+> **The Federation's largest industrial city has the EXPENSIVE kind of harbor.** ***It sits on a volcanic
+> island with geothermal heat and still cannot get a free port*** — **the bay it uses must be re-made, and
+> §1.1's figures say an ice pier lasts 3–7 years and latterly one.**
+>
+> ⭐ **So the biggest industrial city in Tepenia pays, every year, for the thing Mawson and the Peninsula get
+> from geology for nothing.** ⚠ **And it shares that cost with Scott, which is 3 km away and cannot opt out.**
+
+### East Antarctica
+
+| City | Port | 🔬 Basis | Tier |
+|---|---|---|---|
+| ⭐ **Neumayer** | **Atka Iceport** | ***A "more-or-less permanent indentation" ~16 km across in the ice-shelf front.*** **Cargo is landed at the shelf edge and hauled inland by tracked vehicle** | ⭐⭐ **ICEPORT** — *§2* |
+| **Davis** | **Prydz Bay** | **Maritime access in the austral summer, November–March, when ice allows delivery *"directly to station coastal facilities."*** *Vestfold Hills rock* | **CONSTRUCTED** *(seasonal)* |
+| ⭐ **Zhongshan · Sinheung · Shirayuki** | **shared Prydz Bay access, Larsemann Hills** | **The three sit in one coastal-hill cluster on the same bay under the same seasonal window** | **CONSTRUCTED** *(seasonal, shared)* |
+| **Casey** | **Newcomb Bay** | **The station stands on the bay's southern side** | ⚠ **confirm in its pass** |
+| ⚠ **Sayowa** | **Lützow-Holm Bay** | **An island in a bay ~220 km wide** | ⚠ **confirm in its pass** |
+| ⚠ **Denison** | **Commonwealth Bay** | ⛔ ***The site is the windiest place on Earth at sea level.*** **Any port here is a wind problem before it is an ice problem** — *and canon already builds the city around that fact* | ⚠ **confirm in its pass** |
+
+> ### ⭐⭐ THE TRI-CITIES SHARE A PORT — and that is a third shared-infrastructure cluster
+> **Zhongshan, Sinheung and Shirayuki already share one regional airport** *(`Airports.md`, "The Tri-Cities
+> Airport… one regional airport for the whole Larsemann Hills cluster")*. **They sit on one bay with one
+> seasonal access window.** ⭐ **So Tepenia has three shared-port clusters, and they are structurally
+> different:**
+>
+> | Cluster | Shares | Why |
+> |---|---|---|
+> | **Janbogo + Zukelli** | airport · heat · port | **8 km apart** |
+> | **Fort McMurdo + Scott** | the ice pier | **3 km apart, "a political line more than a physical one"** |
+> | **The Tri-Cities** | airport · port | **one oasis, one bay, one window** |
+
+---
+
+## ⚠ 5.6b Still needing confirmation in their own passes
+
+**Esperanza · Casey · Sayowa · Denison** — ***each has a coastline and a plausible anchorage, and none has a
+canon statement.*** ⛔ **The assignments above are the physical geography of the site, not canon.**
+⭐ **A city pass should settle these; nothing else is blocked by them.**
 
 ---
 
@@ -319,15 +408,22 @@ Port Lockroy · Rothera · Sayowa · Scott · Sejong · Shirayuki · Signy · Si
 | **Does Zukelli share Janbogo's port?** | ✅ **Yes** — §4 |
 | **Population composition of the port cities** | ✅ **No changes.** *Tier = long-run equilibrium by Gini-adjusted pool; `(founding wave)` = proximity. **Both axes already encoded** in `Upper_Earth_Immigration_Composition.md`. Sayowa, Belgrano and Port Lockroy stand exactly as written — a larger sending population legitimately outranks a closer one* |
 
+## ⏸️ FLAGGED FOR REVIEW — **before the per-city population-density pass**
+
+> ### ✅ DEVELOPER INSTRUCTION, 2026-09-05
+> ***Items 1 and 2 below are to be reviewed BEFORE the per-city population density work begins*** *(the
+> `EXTENT / AREA` pass — `Universal_Location_Methodology/Extent_and_Area_APPROACH.md`)*.
+> ⛔ **Do not carry them into that pass unresolved, and do not close them quietly in the meantime.**
+
 ## ⚠ STILL OPEN
 
-1. ### ⛔ THE NEW ZEALAND / "ROSS" NODE
+1. ### ⛔ THE NEW ZEALAND / "ROSS" NODE ⏸️ *review before density*
    **The Upper Earth framework names a REGION where the other three name cities.** ⚠⚠ **AND THE OBVIOUS TIEBREAK IS FORBIDDEN.** *`Specs/Scott.md` used to open with "New Zealand's Tepenian city" — **a GPS-purposes-only violation, removed 2026-09-05.** A real-world station's operator is a COORDINATE, never a cause, and must not be used to decide which Tepenian city receives which Upper Earth shipping.*
    ⭐ **So this has to be decided on Tepenian grounds** — port capacity, road position, industrial draw — **not on which nation ran the original base.**
 
 2. **Did any GRID-heated harbor ever exist?** *(§2.)* ⚠ **RECOMMEND: no.** *Every port in this file is held open by rock, volcanic heat, wind, or seasonal labor. If none was grid-heated, the "froze shut when the Tower fell" mechanism simply never fires — which is clean, and avoids competing with the Tower's destruction as the defining post-war fact.*
 
-3. **Port status for the 18 coastal cities in §5.6.** ⚠ ***Not urgent — better answered by each city's own pass than decided here in bulk.***
+3. **Port status for the 15 coastal cities in §5.6.** ⚠ ***Not urgent — better answered by each city's own pass than decided here in bulk.***
 
 ## ⛔ A STANDING CAUTION FOR THIS FILE
 **§3's gateway table pairs Upper Earth nations to Tepenian receiving cities.** *That is canon, from `Specs/Marambio.md`.* ⚠ **But it is the one structure in this file where a real-world nation determines something about a Tepenian place, so it sits close to the GPS-purposes-only line.** ***Trade with Upper Earth is trade with real places, which is legitimate; a Tepenian city HAVING a nationality is not.*** **Keep the distinction visible when extending this table.**
@@ -335,16 +431,29 @@ Port Lockroy · Rothera · Sayowa · Scott · Sejong · Shirayuki · Signy · Si
 # 7 · SOURCES
 
 ### Canon
-`Specs/Halley.md` · `Specs/Sanay.md` · `Specs/Marambio.md` · `Specs/Belgrano.md` · `Specs/Port_Lockroy.md` ·
-`Specs/Signy.md` · `Specs/Neumayer.md` · `City_Relationship_Database.md` *(the 2026-07-13 port correction)* ·
-`Locations/Infrastructure/Highways.md` · `Locations/Infrastructure/Airports.md` ·
-`Background-Lore/Cities/Halley_Subnet/Halley/Course_of_Events/Halley_03_No_Harbor_By_Design.md`
+
+⚠ **Absolute, per `00_RUNBOOK.md` §B** *(registry addresses are absolute, never `../`, never `…/`)*. **These
+were partial paths until 2026-09-05** — ***which is the M-117 shape, "a name is not an address," inside a file
+that is itself now a registered ULM input.***
+
+**City specs** — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`
+→ `Halley.md` · `Sanay.md` · `Marambio.md` · `Belgrano.md` · `Port_Lockroy.md` · `Signy.md` · `Neumayer.md` ·
+`Juan_Carlos.md` · `Sejong.md` · `Janbogo.md` · `Zukelli.md` · `Mawson.md`
+
+**The 2026-07-13 port correction** — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md`
+
+**Sibling infrastructure** — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/`
+→ `Highways.md` · `Airports.md` · `Geothermal_Heating.md` · `Amundsen_Power_Supply.md`
+
+**Halley's no-harbor doctrine** — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Background-Lore/Cities/Halley_Subnet/Halley/Course_of_Events/Halley_03_No_Harbor_By_Design.md`
+
+**Population composition, both axes** — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Upper_Earth_Immigration_Composition.md`
 
 ### 🔬 Research — 2026-09-05
 - **Ice piers and offload without harbors** — https://en.wikipedia.org/wiki/Ice_pier · https://future.usap.gov/mcmurdo-barge-pier/ · https://maritime-executive.com/article/permanent-dock-replaces-ice-pier-at-u-s-s-mcmurdo-station-in-antarctica
 - **Modular Causeway System offload** — https://www.globalsecurity.org/military/library/news/2026/02/mil-260212-dodnews02.htm
 - **Isostatic depression / bedrock below sea level** — https://www.antarcticglaciers.org/antarctica-2/west-antarctic-ice-sheet-2/west-antarctic-ice-sheet/
 - **Overdeepening** — https://en.wikipedia.org/wiki/Overdeepening
-- ⭐ **Horseshoe Harbor, the only natural rocky harbor** — https://en.wikipedia.org/wiki/Horseshoe_Harbor
+- ⭐ **Horseshoe Harbor, the only natural rocky harbor** — https://en.wikipedia.org/wiki/Horseshoe_Harbour
 - ⭐⭐ **Terra Nova Bay polynya — katabatic scour + Drygalski Ice Tongue** — https://earthobservatory.nasa.gov/images/8134/terra-nova-bay-polynya-antarctica · https://www.mdpi.com/2072-4292/12/24/4160 · https://iopscience.iop.org/article/10.1088/1748-9326/ae06bb
 - **SANAE IV distance to coast and convoy resupply** — https://en.wikipedia.org/wiki/SANAE_IV

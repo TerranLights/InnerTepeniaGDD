@@ -32,7 +32,7 @@ microclimate — see the divergence flagged below).
 - [SANAE | South African National Antarctic Program](https://sanap.ac.za/category/sanae); [S. A. Agulhas
   II — Wikipedia](https://en.wikipedia.org/wiki/S._A._Agulhas_II); [Explore the S.A. Agulhas II —
   SAPRI](https://www.sapri.ac.za/explore-the-s-a-agulhas-ii/)
-- [Durban Harbor and Port | South African History Online](https://sahistory.org.za/place/durban-harbor-and-port);
+- [Durban Harbor and Port | South African History Online](https://sahistory.org.za/place/durban-harbour-and-port);
   [Durban — Africa Ports](https://africaports.co.za/durban/); [Port of Durban —
   Grokipedia](https://grokipedia.com/page/Port_of_Durban)
 - [Huangpu, China | China's Premier International Port — UNIS](https://www.unisco.com/international-ports/huangpu-china);
