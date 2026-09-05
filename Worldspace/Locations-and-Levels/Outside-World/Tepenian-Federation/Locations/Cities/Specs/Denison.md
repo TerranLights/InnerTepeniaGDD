@@ -14,23 +14,42 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 522,975 humans / 543,168 robots / **1,066,143** combined
-**Census II (Orbital Era):** 335,394 humans / 398,108 robots / **733,502** combined *(destroyed)*
+**Census I (Pre-Orbital Era):** 444,529 humans / 461,693 robots / **906,222** combined
+**Census II (Orbital Era):** 285,085 humans / 338,392 robots / **623,477** combined *(destroyed)*
 
-> ### ⏸️ POPULATION FLAGGED FOR FUTURE REDUCTION — **developer, 2026-09-05**
-> ***"mark Denison for future number-reduction, once we have a better idea of other cities."***
-> **Denison is the corpus's worst density case.** *Its total buildable envelope is **~4.96 km²** — the cape's
-> four ridges and three valleys, plus the ~30 Mackellar Islands 3 km north — and that envelope is **final**,
-> because the next rock in Commonwealth Bay is 15 km away across the windiest water on Earth.*
+> ### ⭐⭐ RESOLVED 2026-09-05 — **EXTENT DECLARED, POPULATION REDUCED 15%**
+> **`**Extent band:** ~50 km² — TWO ZONES.**
 >
-> | | |
-> |---|---|
-> | **At ~4.96 km²** | **~215,000/km²** — **4.7× Manila**, the densest real city. *Workable at ~10 levels (Paris density per level)* |
-> | **On the cape alone (1.11 km²)** | ⛔ **960,489/km²** — *approaching Kowloon Walled City's historical peak* |
+> | Zone | Area | Population | Density |
+> |---|--:|--:|--:|
+> | ⭐ **Cape + Mackellar** — the spanned megastructure, the old city | **4.96 km²** | ~198,400 | **~40,000/km²** |
+> | **Inland ice along Hwy 183** — freight, industry, the road corridor | **~45 km²** | ~707,800 | **~15,700/km²** |
+> | **Total** | **~50 km²** | **906,222** | **18,124/km²** |
 >
-> ⛔ **DO NOT REDUCE YET.** ***The figure is deliberately held until other cities have extents to compare
-> against*** — **reducing it in isolation would set a precedent with nothing calibrating it.** *Census II
-> reduces proportionally when Census I does.*
+> ⛔⛔ **THE FIRST PASS WAS WRONG TO TREAT THE CAPE AS FINAL.** *It concluded Denison "cannot spread, only
+> stack" on a 4.96 km² envelope — **which is true of the CAPE and false of the CITY.*** ⭐⭐⭐ **This spec's own
+> `**Highway access:**` field already said so: Denison is a MAIN-LINE stop on Hwy 183, `Access type: ON`,
+> between the Cape Adare connecting road and Dumont d'Urville — and Hwy 183 runs Concordia → Denison → Dumont
+> d'Urville.** ***A national highway arriving from the deep interior requires an inland corridor over the ice.
+> The cape was never the whole city.***
+>
+> ⭐ **And the wind favors inland, which inverts the intuition.** *The katabatic "is accelerated by the
+> increasing gradient of the surface of ice and the cliff monolith at Cape Denison" — so the flow reaches
+> MAXIMUM at the cape, where it drops off the cliff.* **Upslope means less gradient and less acceleration:
+> still severe, but the cape is the worst place on the site, not the best.** ⚠ *Inference from the stated
+> mechanism, not a measurement.*
+>
+> ⚠ **Inland spread is not free.** *Same ~38% retention katabatic-margin ablation problem as Dumont d'Urville
+> — the surface lowers and foundations expose — but in the worst wind on Earth, and the ice cap around
+> Commonwealth Bay "terminates in huge ice cliffs which periodically calve into the sea," so the margin is not
+> uniformly stable.*
+>
+> ⭐⭐ **The two-zone split keeps the megastructure meaningful.** **The cape stays near Manila density, which
+> is what justifies spanning moraine valleys at all; the ice carries the bulk at Paris-like density.**
+> ***"Cannot spread, only stack" remains true — of the cape. It stopped being true of Denison.***
+>
+> ⛔ **OVERFLOW HELD, not deleted:** **159,921 combined (Census I), 110,025 (Census II)** —
+> `Official_Population_Census.md` §D-OVERFLOW. ***A bookkeeping balance, NOT an event.***
 
 | Tier | Nations |
 |------|---------|

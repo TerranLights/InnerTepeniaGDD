@@ -10,8 +10,9 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **2 of 11 resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)*. ⏳ **Next: Sayowa.**
-> ⚠⚠ **AND DENISON IS RE-OPENED** — *developer, after the Dumont d'Urville contrast: "that means we need to re-address Denison, then."*
+> ✅ **2 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)*.
+> ✅ **Plus DENISON, re-addressed and resolved** *(not island-capped — `Extent_and_Area_APPROACH.md` §7b)*.
+> ⏳ **Next: Sayowa.**
 
 ---
 
@@ -204,8 +205,7 @@ Petrel**, is *"a **gateway** where **supply convoys to Concordia** and explorati
 only difference is what the ground is made of.*** **Denison's rock ran out at 5 km². Dumont d'Urville's ice
 never runs out at all.**
 
-⚠⚠ **DEVELOPER NOTE, 2026-09-05: *"that means we need to re-address Denison, then."*** ⏸️ **Denison is
-RE-OPENED** *(`Extent_and_Area_APPROACH.md` §7b)* — *its ~215,000/km² was set before this contrast existed.*
+✅ **DENISON RE-ADDRESSED 2026-09-05** *(`Extent_and_Area_APPROACH.md` §7b)* — **two-zone, ~50 km², −15% → 906,222 at 18,124/km².** ⭐ *The contrast survives but narrows: Denison is now **2.1× denser** than Dumont d'Urville rather than 25×, and still pays in height where Dumont d'Urville pays in maintenance.*
 
 ## ⛔ Overflow to the pool
 

@@ -497,7 +497,7 @@ National communities are classified by tier based on long-run population share. 
 | 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
 | 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
 | 16 | Sinheung | Mirny | 519,191 | 550,159 | **1,069,350** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
-| 17 | Denison | Janbogo | 522,975 | 543,168 | **1,066,143** | ⏸️ **FLAGGED FOR REDUCTION 2026-09-05** *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* |
+| 17 | Denison | Janbogo | 444,529 | 461,693 | **906,222** | ⭐ **−15% 2026-09-05, and EXTENT DECLARED at ~50 km² (two-zone)** — *was 522,975 / 543,168 / **1,066,143***. **Core 4.96 km² (cape + Mackellar, the spanned megastructure) @ ~40,000/km²; inland ~45 km² along Hwy 183 @ ~15,700/km². Overall 18,124/km².** ⛔ **OVERFLOW 78,446 H / 81,475 R / 159,921 C HELD — §D-OVERFLOW.** *(Superseded note:* *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* |
 | 18 | Abowasa | Halley | 504,237 | 530,004 | **1,034,241** | *(revised 2026-07-04)* |
 | 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(unchanged)* |
 | 20 | Troll | Halley | 475,721 | 478,729 | **954,450** | *(revised 2026-07-04)* |
@@ -611,7 +611,7 @@ National communities are classified by tier based on long-run population share. 
 | 13 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
-| 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | ⏸️ **REDUCES WITH CENSUS I — see the Census I row** *(would not survive the Long Night War that followed)* |
+| 16 | Denison | Janbogo | 285,085 | 338,392 | **623,477** | ⭐ **−15% 2026-09-05** — *retention preserved (68.7996%)*. ⛔ **OVERFLOW 50,309 H / 59,716 R / 110,025 C HELD** *(would not survive the Long Night War that followed)* |
 | 17 | Shirayuki | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
 | 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section A)* |
@@ -700,15 +700,17 @@ cities are worked one at a time.**
 | **Port Lockroy** | **II** | **53,316** | **41,899** | **95,215** | *scaled from the Census I correction, retention preserved* | ⏸️ **HELD — unassigned** |
 | **Dumont d'Urville** | **I** | **22,355** | **22,978** | **45,333** | ⭐ **−10%, developer ruling 2026-09-05.** *Not a Gate 11 failure — its extent was DECLARED (45 km² mainland + ~2 km² archipelago = 47 km², **8,681/km²**, inside the plausible band). The 10% is a deliberate trim, not a correction* | ⏸️ **HELD — unassigned** |
 | **Dumont d'Urville** | **II** | **13,464** | **17,737** | **31,201** | *scaled at −10%, retention preserved* | ⏸️ **HELD — unassigned** |
+| **Denison** | **I** | **78,446** | **81,475** | **159,921** | ⭐ **−15%, developer ruling 2026-09-05.** *Extent declared ~50 km² two-zone; not a Gate 11 failure* | ⏸️ **HELD — unassigned** |
+| **Denison** | **II** | **50,309** | **59,716** | **110,025** | *scaled at −15%, retention preserved* | ⏸️ **HELD — unassigned** |
 | | | | | | | |
-| ⭐ **POOL TOTAL** | **I** | **85,236** | **88,055** | **173,291** | *Port Lockroy + Dumont d'Urville* | ⏸️ **HELD** |
-| ⭐ **POOL TOTAL** | **II** | **66,780** | **59,636** | **126,416** | *Port Lockroy + Dumont d'Urville* | ⏸️ **HELD** |
+| ⭐⭐ **POOL TOTAL** | **I** | **163,682** | **169,530** | **333,212** | *Port Lockroy · Dumont d'Urville · Denison* | ⏸️ **HELD** |
+| ⭐⭐ **POOL TOTAL** | **II** | **117,089** | **119,352** | **236,441** | *Port Lockroy · Dumont d'Urville · Denison* | ⏸️ **HELD** |
 
 ### ⚠ Consequence for the totals, stated so nobody "fixes" it silently
 
 **The subnet totals and the national TOTAL rows are now SHORT by the held amounts above** — *Census I by
-**173,291** combined, Census II by **126,416*** *(Palmer subnet: Port Lockroy; Janbogo subnet: Dumont
-d'Urville)*. ⛔ **That is intentional and temporary.** ***The totals reconcile again
+**333,212** combined, Census II by **236,441*** *(Palmer subnet: Port Lockroy; Janbogo subnet: Dumont
+d'Urville and Denison)*. ⛔ **That is intentional and temporary.** ***The totals reconcile again
 once the overflow is redistributed; recomputing them now would erase the record that the population is owed
 somewhere.***
 

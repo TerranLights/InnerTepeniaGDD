@@ -266,15 +266,38 @@ islands, and isolated nunataks."*** **The inventory, from Cape Denison:**
 ⚠ **4.96 km² is ENVELOPE, not land** — *it includes three moraine valleys and the water between thirty
 islands.* **The figure assumes the megastructure; it is not "tall buildings on available ground."**
 
-## ⏸️ AND THE POPULATION IS FLAGGED FOR REDUCTION
+## ✅ RESOLVED 2026-09-05 — **re-addressed after Dumont d'Urville, and the first pass was wrong**
 
-> ***Developer, 2026-09-05: "mark Denison for future number-reduction, once we have a better idea of other
-> cities."***
+> ***Developer, on seeing Dumont d'Urville resolve at 8,681/km² on 47 km²: "that means we need to re-address
+> Denison, then."*** **Then: two-zone model at 50 km², population −15%.**
 
-⛔ **Not reduced. Held deliberately** — *reducing the worst case in isolation would set a precedent with
-nothing calibrating it.* ⭐ **Until then, ~215,000/km² over ~5 km² at ~10 levels is a usable CEILING for §7's
-band widths: whatever COMPACT means, it has to accommodate this.**
-*(Flagged in `Official_Population_Census.md` both rows, and in `Specs/Denison.md`.)*
+| Zone | Area | Population | Density |
+|---|--:|--:|--:|
+| ⭐ **Cape + Mackellar** — the spanned megastructure | **4.96 km²** | ~198,400 | **~40,000/km²** |
+| **Inland ice along Hwy 183** | **~45 km²** | ~707,800 | **~15,700/km²** |
+| **Total** | **~50 km²** | **906,222** *(was 1,066,143)* | **18,124/km²** |
+
+> ## ⛔⛔ WHAT §7b GOT WRONG: **"the envelope is final" was true of the CAPE and false of the CITY**
+> **The first pass concluded Denison "cannot spread, only stack" on 4.96 km², after inventorying Commonwealth
+> Bay and finding a 3 km hop then a 12 km cliff to the next rock.** ***All of that is correct — and it is
+> about ROCK.*** ⛔ **It never asked whether the city could occupy ICE, which the standing correction has
+> permitted all along.**
+>
+> ⭐⭐⭐ **And canon already answered it.** **`Specs/Denison.md` `**Highway access:**`: Denison is a MAIN-LINE
+> stop on Hwy 183, `Access type: ON` — and Hwy 183 runs *Concordia → Denison → Dumont d'Urville*.**
+> ***A national highway arriving from the deep interior requires an inland corridor over the ice sheet.***
+> **The cape was never the whole city, and the road said so before the search did.**
+>
+> ⚠ **The same miss, twice in two cities.** *Dumont d'Urville's two-highway junction and Denison's main-line
+> stop are the same evidence, and both were found only after an area check had already produced a wrong
+> answer.* ⭐ **Rule for the remaining nine: READ THE `Access type:` AND `Highway access:` FIELDS BEFORE
+> computing any density.** ***A road is a statement about extent.***
+
+⭐ **The wind favors inland, inverting the intuition.** *The katabatic "is accelerated by the increasing
+gradient of the surface of ice and the cliff monolith at Cape Denison" — flow peaks AT the cape.* **Upslope is
+still severe but less accelerated.** ⚠ *Inference from the mechanism, not a measurement.*
+
+⛔ **Overflow HELD: 159,921 (Census I), 110,025 (Census II)** — *census §D-OVERFLOW.*
 
 ## ⛔ A CORRECTION TO THIS FILE, found while working Denison
 
