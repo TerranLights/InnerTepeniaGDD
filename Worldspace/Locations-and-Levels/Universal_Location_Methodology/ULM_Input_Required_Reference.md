@@ -163,6 +163,8 @@ three **may proceed but must say so and must expect a measurably thinner result.
 |---|---|
 | ⭐ **What deep cold costs a ROBOT** — recharge trade-off, the death spiral, permanent vs reversible capacity loss, embrittlement, **and why a robot is safer moving than resting** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md` |
 | ⭐ **What altitude costs a HUMAN at Concordia** — ~3,800 m physiological, **no acclimatization**, heated but deliberately unpressurized, robots as the city's mobility | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Concordia_Altitude_and_Atmosphere.md` |
+| ⭐⭐ **WHICH SIX CITIES SIT ON VOLCANIC HEAT** — **geothermal district heating at Juan Carlos · Sejong · Scott · Fort McMurdo · Janbogo · Zukelli** *(developer ruling 2026-09-05)*. **Three pairs, each sharing one volcano.** ⛔ **`G2` asks what the site PROVIDES — for these six the answer includes heat the national grid does not supply, and snow-melt pavement, so their ground is bare where every other city fights its own** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Geothermal_Heating.md` |
+| ⭐ **MARITIME ACCESS AND PORTS** — **the physical rules** *(no permanent harbors; you cannot carve to bedrock; ice piers are a recurring act)*, **the Upper Earth gateways, and per-city port status** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Ports.md` |
 
 ### ⛔ SOURCES ALREADY EXHAUSTED — do not re-open these as searches
 
@@ -175,7 +177,23 @@ by up to 16×.**
 
 | **T1-G3** | **G3** | **Function / purpose** — *and separately* **what its parent needs from it**, because the two disagreeing is itself the generator | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Significance:**` + `## Economy & Industry`; ⭐ **figures: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` HALF B** | city appears in `16` Half B **and** has a non-stub Economy section |
 | **T1-G4** | **G4** | **Founding condition** — who, when, why, under what constraint, **with what, and WITHOUT what.** *The absences are the yield* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/<City>.md` → `## Founding` → the fields `**Settled:**` and `**Founding population:**` | ⭐ **PRESENCE TEST: the literal field `**Founding population:**` in `## Founding`.** ⚠ *Denison held this content as prose inside the `Settled:` paragraph until 2026-09-04 and read as MISSING to a mechanical sweep — the data was never absent, it was unaddressable. **Now 37/37.*** |
-| **T1-G5** | **G5** | **Network position** — what connects, **in which direction, carrying what volume** | ⭐ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Access type:**` *(closed set)* + `**Highway access:**` *(prose detail)*; ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md` · `Airports.md`** *(NOT the §C path)* | **read the `Access type:` token** — every spec carries one |
+| **T1-G5** | **G5** | **Network position** — what connects, **in which direction, carrying what volume** | ⭐ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Access type:**` *(closed set)* + `**Highway access:**` *(prose detail)*; ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md` · `Airports.md` · ⭐ `Ports.md`** *(NOT the §C path)* | **read the `Access type:` token** — every spec carries one. ⛔ **THEN read `Ports.md`** — *the token covers ROAD only* |
+
+> ### ⛔⛔ `G5` IS THREE FILES, NOT TWO — **`Ports.md` added 2026-09-05**
+> **`Ports.md` existed as a 0-byte placeholder until 2026-09-05 and was never registered here.** ***A pass
+> reading only `Highways.md` and `Airports.md` gets road and air, and misses the sea entirely.***
+>
+> ⚠⚠ **AND THE `Access type:` TOKEN DOES NOT COVER IT.** **The closed set — `ON` · `SPUR` · `SEA-LINK` ·
+> `NONE` — describes HIGHWAY connection.** ***`NONE` means "no road," NOT "no access."***
+>
+> | City | `Access type:` | Reality |
+> |---|---|---|
+> | **Signy** | **`NONE`** | ⛔⛔ **reachable BY SEA ALONE** — no road, no air, and it is *"fully operational"* |
+> | **Juan Carlos · Sejong** | **`NONE`** | **served by Machu Picchu Airport + maritime** |
+> | **Palmer City** | **`SEA-LINK`** | **the ramp is road; the crossing is a boat** |
+>
+> ⭐ ***So a pass that stops at the token returns "no access" for four cities that have access*** — **and for
+> Signy that is the single most important fact about the place.** **Read all three files.**
 
 > ### ⭐ `**Access type:**` — a CLOSED-SET field, added to all 37 specs + the template 2026-09-03
 > **Developer-confirmed taxonomy.** ***Added because the distinction previously existed only inside dense
