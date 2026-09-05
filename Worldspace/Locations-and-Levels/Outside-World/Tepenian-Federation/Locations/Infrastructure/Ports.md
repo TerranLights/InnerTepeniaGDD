@@ -5,6 +5,26 @@ both `Highways.md` and `Airports.md` now resolve for all 37 cities, and **four o
 sea** — Juan Carlos, Sejong, Palmer City, and Signy, which is reachable **by sea alone**. *(Full note:
 `Universal_Location_Methodology/ULM_Input_Available_Audit.md` §4e.)*
 
+> # ⚠⚠ CITY NAMES HERE ARE PROVISIONAL AND WILL CHANGE
+> **Developer, 2026-09-05:** ***"a lot of these names will probably (almost certainly) change."***
+>
+> ⛔ **This file is a per-city roster, so a rename wave would appear to break it. It does not.**
+>
+> ## ⭐ EVERY ASSIGNMENT IN THIS FILE IS ANCHORED TO A **PHYSICAL SITE**, NEVER TO A NAME.
+> **A harbor is a bay, a rock arm, an ice front, or a wind.** ***None of those care what the city is called.***
+> **Borge Bay does not move when Signy is renamed; Winter Quarters Bay still needs its pier rebuilt; the
+> Drygalski Ice Tongue still holds Terra Nova Bay open.**
+>
+> ### How to follow a rename
+> **Each city's site is fixed by its spec's `**Based on:**` coordinate** — *which, under the
+> GPS-purposes-only law, is the ONLY thing the real-world basis ever supplies.* ⭐ **So the coordinate is
+> exactly what survives a rename, and it is the key this file is really keyed on.**
+> ⛔ **On a rename: swap the label. Do NOT re-derive the port.** *The physical findings below were reached
+> from geography and stand regardless of what anything ends up being called.*
+>
+> ⚠ **Known-provisional already:** **{{Abowasa}}** *(braces are canon's own placeholder marking)* · **the
+> Tri-Cities' unified name** · **several district names.** *Others are expected to follow.*
+
 > ## ⚠ HOW TO READ THIS FILE — three tiers, marked throughout
 > | Tier | Meaning |
 > |---|---|
