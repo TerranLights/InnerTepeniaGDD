@@ -10,9 +10,9 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **2 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)*.
+> ✅ **3 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)*.
 > ✅ **Plus DENISON, re-addressed and resolved** *(not island-capped — `Extent_and_Area_APPROACH.md` §7b)*.
-> ⏳ **Next: Sayowa.**
+> ⏳ **Next: Rothera** — *the opposite failure: 68/km², the emptiest in the corpus.*
 
 ---
 
@@ -219,13 +219,78 @@ trim, not a correction.** 📎 **`Official_Population_Census.md` §D-OVERFLOW.**
 
 ---
 
-# 6 · ⏸️ QUEUE — worked one at a time, in this order
+# 6 · ✅ SAYOWA — **RESOLVED 2026-09-05.** *City #3 of 11.*
+
+> ## ✅ DEVELOPER RULING
+> **Declare ~31.5 km² at the 500 m corridor. Population unchanged.**
+
+| Component | Area |
+|---|--:|
+| **East Ongul Island** | **1.5 km²** |
+| **Mainland ice apron** at the Spur landfall | **25 km²** |
+| ⭐ **Coastal corridor** — 10 km × 500 m | **5 km²** |
+| **Total** | ⭐ **~31.5 km² → 7,155/km²** *(in band)* |
+
+✅ **Population UNCHANGED at 225,376** *(Census I)* **/ 164,957** *(Census II)*. ⛔ **No overflow — this city
+needed an extent, not a correction.**
+
+## ⛔ `island cap` removed — the third city where the ROADS answered it
+
+***Three national highways converge at the Sayowa Junction*** — **Hwy 4 · Hwy 7-ext · Hwy 37** *(the last
+running Dome Fuji → Kunlun → Vostok → **Concordia**)* — **and the Spur is *"a large, dedicated connecting
+road, not a minor ramp… itself a substantial piece of infrastructure."***
+⛔ **That cannot be fed from 1.5 km² of island.** *On East Ongul alone: **150,251/km², 3.3× Manila**.*
+
+> ### ⭐⭐⭐ THREE FOR THREE — **the access fields have now answered every city in this queue**
+> **Dumont d'Urville** *(two-highway junction)* · **Denison** *(main-line stop on Hwy 183)* ·
+> **Sayowa** *(three-highway junction + a substantial spur)*. ***In all three cases the road was decisive and
+> in all three it was found only after an area check had produced a wrong answer.***
+> ⭐ **The rule holds: read `Access type:` and `Highway access:` BEFORE computing any density.**
+
+## ⛔⛔ AND A SECOND ERROR HERE, CORRECTED BY THE DEVELOPER
+
+**This pass initially treated the Sôya Coast's ice-free oases as "the buildable land" and the ~30 km between
+Sayowa and Langhovde as a GAP** — concluding *"that's not a district, it's a separate place."*
+> ***Developer: "remember that it is perfectly possible for these cities to build on top of ice."***
+
+⛔ **That is the standing correction, quoted earlier in this same session and then reasoned past.** **The
+distinction that was collapsed:**
+
+| Gap type | Example | Status |
+|---|---|---|
+| ⛔ **Water** | Denison → Mackellar *(3 km)*; Port Lockroy → Wiencke | **must be spanned** |
+| ⛔ **Moraine over ice, with lakes** | Denison's three valleys | **must be spanned** |
+| ⭐ **Ice sheet** | Sayowa → the Sôya Coast | ***buildable ground — not a gap at all*** |
+
+⚠ *The rule was applied correctly at Denison and Dumont d'Urville — both got mainland ICE footprints — and
+then dropped at Sayowa.* **Only ONE true gap exists here: the ~4 km of landfast sea ice from East Ongul to
+the coast.**
+
+## ⭐ Why a narrow ribbon — both reasons physical, not aesthetic
+
+**1. The katabatic runs downslope, seaward.** *A coastal corridor runs ACROSS the wind; widening inland pushes
+the city into the acceleration zone.*
+**2. The ice is ABLATING** *(this coast is a scour zone — which is why the oases are exposed)*. **Surfaces
+lower and foundations expose, so the cheapest city has the least ground under it.** ***A ribbon minimizes
+exposed foundation per person; a blob maximizes it.***
+
+> ⭐⭐⭐ **So Sayowa is shaped like a loading dock** — *a city you travel ALONG, one or two blocks deep, ice
+> rising immediately inland and sea immediately seaward, three highways feeding one linear spine.*
+> **The fabrication-and-trucking identity, given a physical form.**
+
+⚠ **Langhovde is what Sayowa SERVES, not what it contains.** *50 km² of exposed rock at ~30 km — the only
+ground on this coast that stays put.* ***Sayowa's industry is the business of moving between a buildable coast
+and a stable one.***
+
+---
+
+# 7 · ⏸️ QUEUE — worked one at a time, in this order
 
 | # | City | Why it is here |
 |--:|---|---|
 | ~~**1**~~ | ✅ **Port Lockroy** | ✅ **RESOLVED 2026-09-05 → 929** *(§4)*. Overflow **127,958 / 95,215** held |
 | ~~**2**~~ | ✅ **Dumont d'Urville** | ✅ **RESOLVED 2026-09-05** → **408,001 on ~47 km² = 8,681/km²** *(§5)*. Overflow **45,333 / 31,201** |
-| **3** | **Sayowa** | ⛔ 150,251/km², and its own spec already flags 50,084/km² as *"the implausibility"* |
+| ~~**3**~~ | ✅ **Sayowa** | ✅ **RESOLVED 2026-09-05** → **~31.5 km² = 7,155/km²**, population unchanged *(§6)* |
 | **4** | **Rothera** | ⚠ **68/km² — the emptiest.** *The opposite failure, and it needs the same attention* |
 | **5** | **Palmer City** | ⚠ 137/km² — ⭐ **and it is the ONE city with a documented cap (364,000)** |
 | **6** | **Fort McMurdo + Scott** | ⚠ **worked together — they share Ross Island** *(338/km² combined)* |
@@ -240,7 +305,7 @@ these eleven give it something to calibrate against.*
 
 ---
 
-# 7 · 🔬 SOURCES — island areas, 2026-09-05
+# 8 · 🔬 SOURCES — island areas, 2026-09-05
 
 | Island | Area | Source |
 |---|--:|---|

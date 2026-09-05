@@ -13,8 +13,45 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 93,356 humans / 132,020 robots / **225,376** combined *(island cap)*
-**Census II (Orbital Era):** 85,199 humans / 79,758 robots / **164,957** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 93,356 humans / 132,020 robots / **225,376** combined ⛔ *(`island cap` removed — see below)*
+**Census II (Orbital Era):** 85,199 humans / 79,758 robots / **164,957** combined ⛔ *(`island cap` removed)*
+
+> ### ⭐⭐ EXTENT DECLARED 2026-09-05 — **~31.5 km². Population UNCHANGED.**
+> | Component | Area |
+> |---|--:|
+> | **East Ongul Island** — the city's island head | **1.5 km²** |
+> | **Mainland ice apron** at the Sayowa Spur's landfall | **25 km²** |
+> | ⭐ **Coastal corridor** — 10 km long × 500 m wide | **5 km²** |
+> | **Total** | ⭐ **~31.5 km² → 7,155/km²** |
+>
+> ⛔⛔ **THE `island cap` LABEL IS REMOVED.** ***Three national highways converge at the Sayowa Junction*** —
+> **Hwy 4** *(→ Mawson → the Tri-Cities)*, **Hwy 7-ext** *(← Princess Elisabeth ← Lazar)* and **Hwy 37**
+> *(→ Dome Fuji → Kunlun → Vostok → **Concordia**)* — **and the Spur is *"a large, dedicated connecting road,
+> not a minor ramp."*** *A three-highway convergence serving a fabrication and trucking economy cannot be fed
+> from 1.5 km² of island.* **On East Ongul alone the figure was 150,251/km², 3.3× Manila.**
+>
+> ⭐⭐ **The mainland is ICE, and ice is buildable** *(standing correction)*. **Only ONE real gap exists in the
+> whole system: the ~4 km of landfast sea ice between East Ongul and the coast** — *a crossing.* **Everything
+> beyond is continuous ground: ice sheet down the Sôya Coast, with Langhovde's 50 km² of exposed rock embedded
+> in it ~30 km south, and Skarvsnes beyond.**
+>
+> ### ⭐ WHY A NARROW RIBBON RATHER THAN A BLOB — both reasons are physical
+> **1. The katabatic runs downslope, seaward.** *A corridor hugging the coast runs ACROSS the wind; every
+> kilometre widened inland pushes the city into the acceleration zone.* **Narrow and coastal is the sheltered
+> choice.**
+> **2. The ice here is ABLATING** — *this coast is a katabatic scour zone, which is why the oases are exposed
+> at all.* **Surfaces lower and foundations expose, so the cheapest city is the one with the least ground
+> under it.** ***A ribbon minimizes exposed foundation per person; a blob maximizes it.***
+>
+> ⭐⭐⭐ **So Sayowa is shaped like a loading dock** — *a city you travel ALONG, one or two blocks deep, ice
+> sheet rising immediately inland and sea immediately seaward, with three highways feeding a single linear
+> spine.* **That is the fabrication-and-trucking identity given a physical form.**
+>
+> ⚠ **Langhovde is what Sayowa SERVES, not what it contains.** *At ~30 km it is a separate place — but it is
+> the only ground on this coast that stays put, so anything meant to be permanent goes there.* ***Sayowa's
+> industry is the business of moving between a buildable coast and a stable one.***
+>
+> ✅ **No overflow — the population is unchanged.** *This city needed an extent, not a correction.*
 
 | Tier | Nations |
 |------|---------|

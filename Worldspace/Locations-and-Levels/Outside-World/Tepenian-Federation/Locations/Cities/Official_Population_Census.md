@@ -512,7 +512,7 @@ National communities are classified by tier based on long-run population share. 
 | 29 | Byrd | Byrd | 186,268 | 190,622 | **376,890** | *(revised 2026-07-04)* |
 | 30 | Palmer City | Palmer | 165,912 | 166,896 | **332,808** | *(island cap; revised 2026-07-04)* |
 | 31 | Rothera | Palmer | 153,760 | 163,689 | **317,449** | *(island cap; revised 2026-07-04)* |
-| 32 | Sayowa | Mawson | 93,356 | 132,020 | **225,376** | *(island cap; revised 2026-07-04)* |
+| 32 | Sayowa | Mawson | 93,356 | 132,020 | **225,376** | ⭐ **EXTENT DECLARED 2026-09-05 — ~31.5 km², POPULATION UNCHANGED.** *1.5 km² East Ongul + 25 km² mainland ice apron at the Spur landfall + a 10 km × 500 m coastal corridor.* **7,155/km² — inside the band.** ⛔ **`island cap` REMOVED** — *three national highways converge at the Sayowa Junction; the city is not island-confined. No overflow.* |
 | 33 | Signy | Palmer | 93,134 | 95,560 | **188,694** | *(island cap; revised 2026-07-04)* |
 | 34 | Port Lockroy | Palmer | 457 | 472 | **929** | ⭐ **REDUCED 2026-09-05 — Gate 11.** *Was 63,338 / 65,549 / **128,887**, which is **5,370,292/km²** on Goudier Island (200 m × 120 m = 0.024 km²) — **4.3× Kowloon Walled City's historical peak.** New figure drawn 600–1,000 per developer instruction; H/R ratio preserved. **Now 38,708/km², 0.84× Manila — inside the real-world range for the first time.*** ⛔ **OVERFLOW 62,881 H / 65,077 R / 127,958 C is HELD, not deleted — see §D-OVERFLOW** |
 | 35 | Kunlun | Mirny | 0 | 123,449 | **123,449** | *(new 2026-07-04; entirely robot; composition re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population — see `Specs/Kunlun.md`)* |
@@ -625,7 +625,7 @@ National communities are classified by tier based on long-run population share. 
 | 27 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
 | 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
 | 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
-| 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
+| 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | ⭐ **unchanged** — *extent declared, no population correction.* ⛔ `island cap` removed |
 | 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
 | 32 | Port Lockroy | Palmer | 387 | 304 | **691** | ⭐ **REDUCED 2026-09-05** — *scaled from the Census I reduction; Port Lockroy's own CII/CI retention preserved (74.41% → 74.38%) and CII's own H/R split preserved.* ⛔ **OVERFLOW 53,316 H / 41,899 R / 95,215 C HELD — see §D-OVERFLOW** |
 | 33 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
