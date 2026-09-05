@@ -264,7 +264,15 @@
 
 ### South Pole [special case]
 
-##### Amundsen-Scott Station [reference-only]
+##### Amundsen Station · Amundsen-Scott Station [reference-only]
+
+> ⚠ **ALIAS NOTE, added 2026-09-04 — this heading previously read `Amundsen-Scott Station` only.**
+> ***It was the sole entry in this file keyed by its REAL-WORLD name rather than its Tepenian one***, and the
+> sole entry filed under a non-subnet heading. **A pass searching this file for `Amundsen Station` — the name
+> used in `Specs/Amundsen_Station.md` and everywhere else in the corpus — got a clean zero and concluded the
+> picks were absent.** *They are not absent; there are seven of them, tiered, below.*
+> ⭐ **Same defect class as `Climate Data/READER/`**, which is keyed by real-world station name and carries
+> its own alias warning in the registry. **Both names are now in the heading, so either search resolves.**
 - The IceCube Neutrino Observatory's own surface facility [PRIMARY] // literally already at the real station - a genuinely massive sensor array (5,160 optical modules across 86 boreholes reaching 2,450m into the ice) feeding into comparatively compact control/processing infrastructure on-site
 - The International Space Station's interior [PRIMARY] // genuinely cramped, every surface covered in cabling, racks, and equipment, life-support and scientific hardware crammed alongside each other with almost no unused space
 - Antarctic ice-core processing labs (e.g., WAIS Divide, EPICA) [PRIMARY] // real Antarctic science facilities where dense analytical equipment is packed into small, module-based structures

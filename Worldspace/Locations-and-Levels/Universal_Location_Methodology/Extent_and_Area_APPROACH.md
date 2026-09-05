@@ -171,6 +171,31 @@ research and should be settled first.**
 **Reopened for approach-design 2026-09-04; no extent figure has been derived, proposed or assumed for any
 city.** ⛔ **Do not derive one until the §7 rulings are made.**
 
+> ## ⭐⭐ SCHEDULED — **2026-09-05, developer ruling 2026-09-04**
+> > ***"tomorrow, first, we need to address `Ports.md`… Then, once that's done, we'll go through and
+> > establish 'Extent / Area'."***
+>
+> **This work is SECOND in the queue, after `Ports.md`.** *(`Ports.md` is a 0-byte file in a registered
+> infrastructure folder that four sea-dependent cities now resolve to — see `ULM_Input_Available_Audit.md`
+> §4e.)*
+>
+> ### ⛔ OPEN THIS SESSION WITH THE §7 RULINGS. **Not with research.**
+> **All four are developer decisions and every one of them gates the work below it:**
+>
+> | # | Ruling | What stalls without it |
+> |---|---|---|
+> | **1** | **Settlement form per city** | ⛔ **Everything.** §3: *"Research without the typology produces numbers with nothing to attach them to"* |
+> | **2** | **Built mode** — vertical · spanning · subsurface · sprawling | §5.1 — **a footprint alone is meaningless.** Denison already proves it: *1.11 km² is ~34 levels spanned, ~69 on ridges alone* |
+> | **3** | **Band widths** — what counts as COMPACT vs EXTENSIVE | §5.2 — without them there is nothing to declare on the `**Extent band:**` line |
+> | **4** | **Whether Tepenian engineering exceeds real-world limits, and by how much** | The multiplier every figure is computed against |
+>
+> ⭐ **Recommended first two cities once the rulings exist: Denison and the six island-capped** *(§6)* —
+> **the two extremes, because they calibrate everything between them.**
+>
+> ⛔⛔ **And the trap, restated because it is the one that would waste the whole session:
+> DO NOT DERIVE EXTENT FROM DENSITY** *(§1)*. **Density is an OUTPUT to be checked, never an input to be
+> chosen.**
+
 **Related addresses:**
 `ULM_Input_Required_Reference.md` → `T2-8` · `ULM_Input_Available_Audit.md` §2 *(the headline gap)* ·
 `Location_Data-Input_To-Do.md` §1 *(ranked #1)* ·

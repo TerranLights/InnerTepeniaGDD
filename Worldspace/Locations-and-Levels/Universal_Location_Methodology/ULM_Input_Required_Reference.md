@@ -202,7 +202,44 @@ by up to 16×.**
 >   Junction is *near* the city, linked by the dedicated **Sayowa Spur**, explicitly because Sayowa is *"a
 >   genuinely developed industrial/residential city rather than a place built directly around the highway
 >   crossing itself."*
-| **T1-G6** | **G6** | **Defining event** — what has happened *to* this place | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `## Current Status / Destruction`, `## Legacy`; `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/World_History_Reference.md`; **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/` | ⚠ **a war-destruction event is POST-WAR and is NOT a Second Interwar `G6`** — see the trap above |
+| **T1-G6** | **G6** | **Defining event** — what has happened *to* this place | ⛔⛔ **NOT the per-city spec sections. Corrected 2026-09-04 — see the box below.** ✅ **ADMISSIBLE — both in the `TepenianUniverseTimeline` repo: `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/World_History_Reference.md` *(346 lines)* · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/2 The Second Interwar Period/`** ⛔ **NOT the GDD-side `Worldspace/World_History_Reference.md` — that is a 7-line FORWARDING STUB, see below** | ⚠ **a war-destruction event is POST-WAR and is NOT a Second Interwar `G6`.** ⭐ **Measured 2026-09-04: 24 of 37 cities are named in one of the two admissible sources** |
+
+> ### ⛔ AND THE REPLACEMENT ADDRESS WAS A STUB TOO — caught 2026-09-04, before it shipped
+> **The first correction pointed `G6` at `Worldspace/World_History_Reference.md`.** ***That file is 7 lines
+> long and names zero cities*** — **its content moved to the `TepenianUniverseTimeline` repo on 2026-07-11
+> and it has been a forwarding note ever since.**
+>
+> ⛔ **M-117 again — *"a name is not an address"* — and the third instance inside this registry** *(after the
+> `Highways.md` sibling-path bug and the alias-keyed `READER/` folder)*. ***A pass following it would have
+> got 7 lines of redirect and a clean zero***, which is the same failure the row was being corrected FOR.
+> ⭐ **Absolute paths to the real files are now in the address cell.** *Verified to resolve and to contain
+> city-level content.*
+>
+> **Coverage, measured across both admissible sources:** ⛔ **13 cities are named in NEITHER** — **Abowasa ·
+> Esperanza · Halley · Marambio · Mirny · Princess Elisabeth · Rothera · Sanay · Sayowa · Shirayuki · Signy ·
+> Sinheung · Troll.** ***That is the real `G6` gap, and it is a canon gap, not an addressing one.***
+
+> ### ⛔⛔ `G6` — **THIS ROW CONTRADICTED ITSELF, AND THE CONTRADICTION SURVIVED EVERY PRIOR PASS**
+> **The row registered three per-city spec sections as `G6`'s address — `## Current Status / Destruction`,
+> `## Legacy` — and then warned, in its own Presence-test cell, that war-destruction events are post-war and
+> are not a Second Interwar `G6`.** ***Those sections contain nothing else.*** **Verified 2026-09-04:**
+>
+> | Section | What it actually holds |
+> |---|---|
+> | `## Current Status / Destruction` | war damage — **post-war by definition** |
+> | `## Legacy` | *"Whatever the Long Night War damaged, it damaged something significant"* — **post-war** |
+> | `## Connection to Concordia` | the **Planetary Split Brain** severing inter-subnet Arcanet links — **post-war** |
+>
+> ⛔ **So the address pointed exclusively at material the same row declares inadmissible.** ***A pass reading
+> it under the default frame gets a section full of text it must then throw away*** — or, worse, does not
+> throw it away. **That is the M-45 error with a registry address behind it.**
+>
+> ⭐ **All three sections are now `NOT-AN-INPUT` for a Second Interwar pass, exactly as `**Status:**` already
+> is** *(§B's standing trap)*. **`G6` for the default frame is served by `World_History_Reference.md` and the
+> Timeline Eras directory, both already registered above.**
+>
+> ⚠ **Consequence for the audit: a per-city presence test on those sections measures nothing.** *36 of 37
+> cities "have" `G6` and none of those hits is admissible; the one city without them is no worse off.*
 | **T1-G7** | **G7** | **Real-world inspiration DESIGNATION** — which real case anchors it. *(The research is the method's own work)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Based on:**`; **tiered picks: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md`** | both present; picks carry Primary/Secondary/Supporting tiers |
 | **T1-G8** | **G8** | **Population composition** — who is here, in what proportion, from where | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` §I *(national origin by tier)*; `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Upper_Earth_Immigration_Composition.md` | city has a §I tier table |
 
@@ -223,7 +260,7 @@ by up to 16×.**
 | **T2-1** | **Existing scattered canon** — "formalize before inventing" has nothing to formalize without it | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/<Subnet>/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Background-Lore/Cities/` | per-city file exists |
 | **T2-2** | **Parent's determined properties** — climate, currency, law, calendar, language family *(`01` §5.1)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`, `National_Holidays.md` | ⭐ **global — same for all cities; not a per-city gap** |
 | **T2-3** | **Sibling set membership** | subnet, per T0-4 — the roster itself: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` *(subnet composition tables)* · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md` *(master subnet summary)* | subnet named |
-| **T2-4** | **Inspirational-influence picks** — the tiered research list | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` | city entry exists with ≥1 pick |
+| **T2-4** | **Inspirational-influence picks** — the tiered research list | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` ⚠ **entries are `#####` headings under a `###` SUBNET heading — except Amundsen, filed under `### South Pole [special case]`** | city entry exists with ≥1 pick. ⭐ **37/37 as of 2026-09-04** |
 | **T2-5** | **Prior passes on this location, and their epistemic status** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Robot_Culture/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Enneagram_Personalities/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Vision_Notes/` | per-city file exists |
 | **T2-6** | **Adjacent locations' completed passes** — needed for Phase 5 and Gate 6 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md` · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Cross_Subnet_Relationships.md` · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_National_Connections.md` | city named in the relationship files |
 | **T2-7** | **Physical / spatial layout** — a map, or an adjacency list | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/`; `Station_to_City_Map.md` | concept art or map entry exists |
@@ -335,6 +372,84 @@ sub-locations.**
 | **Admissibility** | attribute or conclusion? | `05` §6.1, `00` §C.1, §C.2 |
 | **Ratification** | is it canon at all? | `05` §6.3 — ⭐ **ratified BY ROOT: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` and `Official_Population_Census.md` only. Silence anywhere else = UNRATIFIED** |
 | **Reliability** | is it canon that was VALIDATED — any layer carved out? | `00` §C.6 — ⛔ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` B1 food layer NOT RELIABLE; `DRQ-09` blocks every export figure** |
+
+---
+
+# J. ⭐⭐ FINDABILITY SWEEP — **every city × every per-city input, 2026-09-04**
+
+**Developer instruction:** *"go through each individual city and each individual required piece of
+information, and make sure that the ULM can actually find it."*
+
+**Method: 41 backtick-quoted absolute addresses tested for existence, then 20 per-city presence tests run
+across all 37 cities — 740 checks.** ⛔ **Directory layouts were READ before being tested, not assumed** *(the
+standing lesson; see the instrument note below)*.
+
+## Result
+
+| | |
+|---|---|
+| **Absolute addresses that resolve** | ⭐ **38 of 38 non-placeholder** *(the other 3 carry `<City>` / `<Subnet>` and resolve on substitution)* |
+| **Per-city checks passing** | ⭐⭐ **736 of 740** |
+| **Structural — correct by design** | **2** — Concordia `G1` and `T2-1` *(capital; runs the zodiac DISTRICT substrate, 301 files under `Concordia-City/Districts/`)* |
+| ⛔ **Findability defect — FIXED** | **1 root cause, 2 cells** — Amundsen `G7`/`T2-4` |
+| ⛔ **Real content gap — OPEN** | **1** — Shirayuki `G6` |
+
+## ⛔ The findability defect — **`T2-4` / `G7`, Amundsen. FIXED 2026-09-04.**
+
+> **The audit recorded *"inspiration picks: 36/37, missing Amundsen Station, structural."*** ***All three
+> parts of that were wrong.*** **The picks exist, there are SEVEN of them, tiered 3 PRIMARY / 2 SECONDARY /
+> 2 SUPPORTING — a richer entry than most cities have.**
+>
+> **They were unreachable because the heading read `Amundsen-Scott Station`** — ⛔ **the only entry in that
+> file keyed by its REAL-WORLD name instead of its Tepenian one, and the only one filed under a non-subnet
+> heading** *(`### South Pole [special case]`)*. **A pass searching for `Amundsen Station`, the name used in
+> `Specs/Amundsen_Station.md` and everywhere else in the corpus, got a clean zero.**
+>
+> ⭐ **Same defect class as `Climate Data/READER/`** *(keyed by real-world station name; already carries an
+> alias warning)*. ***That warning existed for one folder and was never generalized — this is the second
+> instance, found only by testing per city.***
+>
+> ✅ **FIX: the heading now carries BOTH names**, with an alias note. Either search resolves.
+
+## ⛔⛔ The real finding — **`G6`'s ADDRESS was wrong for all 37, not Shirayuki's spec for one**
+
+> ### ⚠ THIS SECTION FIRST REPORTED THE OPPOSITE. **Corrected same day, developer correction.**
+> **It read: *"Shirayuki `G6` — real gap, OPEN"***, on the grounds that its spec lacks `## Legacy`,
+> `## Connection to Concordia` and `## Current Status`. ⛔ ***All three of those are POST-WAR sections and
+> are irrelevant to a Second Interwar pass*** — **which the `G6` row's own Presence-test cell already said,
+> and which is a standing, repeatedly-stated rule.**
+
+**Verified by reading the sections rather than counting them:** `## Legacy` reads *"Whatever the Long Night
+War damaged…"*; `## Connection to Concordia` is about the **Planetary Split Brain** severing Arcanet links.
+***Both are post-war. So is `## Current Status / Destruction`, by definition.***
+
+| | |
+|---|---|
+| ⛔ **Shirayuki `G6`** | **NOT A GAP.** *It is missing three sections a Second Interwar pass may not use anyway* |
+| ⛔⛔ **The other 36 cities' `G6`** | ***FALSE POSITIVES.*** *They have the sections; every one is inadmissible under the default frame* |
+| ⭐ **The actual defect** | **`G6`'s registered address pointed exclusively at post-war material** — see the correction box on the `T1-G6` row above. **Fixed there** |
+
+> ⭐ **The presence test was measuring section headers, and section headers are not admissibility.**
+> ***A test can be mechanically perfect and still measure the wrong thing*** — which is the failure this
+> sweep was run to catch, arriving from the one direction it was not watching.
+
+## ⚠ INSTRUMENT NOTE — **the first run of this sweep was wrong, in the flattering direction's opposite**
+
+**Recorded per Step 9.5 rule 3. Two tests returned `0 of 37` — both were defects in the test, not the corpus:**
+
+| Test | False result | Cause |
+|---|---|---|
+| **`G2` monthly climate** | **0/37**, hours after the block was verified complete 37/37 | the test matched **`January`**; ***the tables are keyed `Jan`*** |
+| **`T2-7` concept art** | **0/37** | the test matched city names against **FILE** names; ***cities are DIRECTORIES*** — `City_Concept-Art/<Subnet>/<City>/`. **37/37 directories exist; 5 hold actual images** *(Concordia · Dome Fuji · Palmer City · Rothera · Sanay)* |
+
+> ⛔⛔ **AND THE SECOND ONE CORRECTS THE AUDIT.** **`ULM_Input_Available_Audit.md` §1 states
+> `City_Concept-Art/` is *"organized BY SUBNET, not by city… any per-city count of it is structurally
+> meaningless."*** ***It is organized `<Subnet>/<City>/` — subnet AND city.*** **A per-city count is
+> perfectly well-defined and is 37/37 for directories, 5/37 for content.** *(Field is struck from scope
+> either way, so nothing downstream changes — but the stated reason for striking it was false.)*
+>
+> ⭐ **This is the fourth variant of one bug: a test written from an assumed layout rather than a verified
+> one.** ***Read the directory before counting it — including when a prior audit already told you its shape.***
 
 ---
 

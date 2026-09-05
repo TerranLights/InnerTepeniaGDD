@@ -276,6 +276,50 @@ Hwy 183 → junction with Hwy 175 (near Janbogo) → Hwy 175 → junction with H
 
 ---
 
+## ⛔ Cities With No Highway Access — **all 3, named**
+
+> **⚠ Enumerated 2026-09-04.** **`04` Gate C: *"Name the paths, or the negative result does not count."***
+> ***Three cities appear nowhere else in this file and carried no explicit statement either way*** — and **a
+> silent absence reads identically to a declared one for a sweep, and completely differently for a pass.**
+> **Mirrors what `Airports.md` did on 2026-09-03** *(its "Everything Else Has No Air Access — all 23, named"
+> section, written for exactly this reason)*.
+
+**Juan Carlos · Sejong · Signy** — **and these are exactly and only the three cities whose `Specs/` file
+carries `**Access type:** NONE`.**
+
+**All three are islands, and in every case the absence was VERIFIED rather than assumed** *(confirmed
+2026-07-03; the full reasoning lives in each city's own spec under `**Highway access:**`)*:
+
+| City | Island | Why no road is plausible |
+|---|---|---|
+| **Juan Carlos** | Livingston Island, South Shetlands | **110 km** across the Bransfield Strait to the mainland Peninsula; **95.4 km** to Sejong, its nearest Tepenian neighbor. ⛔ **No intermediate island-hopping chain exists**, unlike Marambio's situation |
+| **Sejong** | King George Island, South Shetlands | **160–177 km** from the mainland Peninsula and from Marambio's own causeway landing point |
+| **Signy** | Signy Island, South Orkneys | ⛔ **The South Orkneys have no overland connection to anything.** A significant sea voyage even from the nearest other Palmer-subnet city |
+
+> ### ⭐ FOR SCALE — **this is not an engineering shortfall**
+> **Marambio's Picnic Passage crossing — the longest span this network actually builds — is 0.93 km.**
+> ***These gaps are roughly a hundred times wider.*** **Even with the generous engineering multiplier used
+> elsewhere in this GDD, no causeway or bridge closes them.** *It is the reason the network ends where it
+> does, and it should be treated as a fixed fact of the map rather than a problem awaiting a solution.*
+
+### ⭐ Two of the three still have air access. **One has neither.**
+
+- **Juan Carlos and Sejong are served by Machu Picchu Airport** — *neither hosts it; both are served by it*
+  *(`Airports.md`, "Served, Not Host")*. **No road, but not cut off.**
+- ⛔⛔ **SIGNY HAS NEITHER.** **It appears in neither this file nor in `Airports.md`'s host list or its
+  served-via list.** ***It is the only Tepenian city reachable by sea alone.***
+  > ⭐ **This is load-bearing, not trivia.** It is the physical fact underneath Signy's own spec — *"the most
+  > isolated Palmer subnet city,"* its **weak Arcanet link due to distance from the subnet hub**, and its
+  > survival through the war *("Upper Earth's forces plausibly never struck it directly at all")*.
+  > **Nothing reaches Signy quickly, including a war.**
+
+⚠ **All four sea-dependent cities — these three plus Palmer City, whose Hwy 1 ramp *"requires a boat
+crossing… not a road"* — currently depend on a maritime network with no documentation.**
+***`Locations/Infrastructure/Ports.md` exists and is EMPTY (0 bytes).*** **Flagged 2026-09-04; not resolved
+here.**
+
+---
+
 ## Hitchhiking-Valid Highways
 
 *(Established 2026-07-05, see `TODO.md`)* Hitchhiking is a genuinely valid, established way to get around Tepenia on a specific subset of highways — not a desperate last resort, but a normal travel option:
