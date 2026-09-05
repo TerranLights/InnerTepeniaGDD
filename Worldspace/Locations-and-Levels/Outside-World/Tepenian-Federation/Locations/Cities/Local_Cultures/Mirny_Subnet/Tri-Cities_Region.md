@@ -97,6 +97,24 @@ Where Sinheung would likely respond to a challenge with visible emotional force 
 2. **De facto amalgamation.** Sometime at or shortly before Amundsen Tower's completion (~2688, roughly the Second Interwar Period's own Midpoint, resolved 2026-08-05 — see `project_amundsen_tower_completion_date_resolution` memory), the three cities' physical growth — already inevitable given how tightly clustered they are — closes the remaining gaps between them, and they become one continuous, functionally single urban area in every practical sense, while remaining three separate cities in law.
 3. **Full legal unification.** At some point between that de facto amalgamation and roughly a generation before the Long Night War (2812) — so, at the latest, somewhere in the ~2780s — the three cities formally, legally become one single city, in every sense: one government, one civic identity, full absolute unification.
 
+> ### 📎 A CANDIDATE MECHANISM FOR STAGE 3 EXISTS ELSEWHERE — **added as a pointer 2026-09-05, not adopted here**
+> **Stage 2 has a stated cause *(sprawl closing the gaps)*. Stage 3 does not** — this entry says only *"at
+> some point."* ⚠ **A proposed forcing function was derived during the ports work and is recorded in
+> `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Ports.md` §5.6c.**
+>
+> **In brief:** the cluster shares **one seasonal port in Nella Fjord — a fault trench lying between
+> Zhongshan's west shore and Sinheung's east shore, in water none of the three owns.** *It is rebuilt at
+> shared cost every season and its window is roughly four months, so berthing order decides whose cargo lands
+> in a given year.* ⭐ **Three governments cannot run one such queue without one of them effectively governing
+> the other two, and a joint authority above all three is unification in practice.**
+> ⭐⭐ *It also proposes that **Shirayuki** — which has no shore on that harbor at all — was the partner
+> pushing hardest for the merger, since unification is the only thing that converts its dependency into a
+> guaranteed claim.*
+>
+> ⛔ **NOT ADOPTED. This file owns the amalgamation history.** ***A culture pass on this cluster decides
+> whether stage 3 takes that mechanism*** — **the pointer exists so the pass knows the material is there,
+> because nothing in this file previously referenced it.**
+
 **Sub-district names, confirmed:** whatever Zhongshan, Sinheung, and Shirayuki end up properly named, each city's own individual name persists as the unified city's internal sub-district identifier after unification — the way real-world unified cities (Budapest's Buda/Pest, unified NYC's five boroughs) keep their pre-unification names as living neighborhood identities rather than erasing them into a single undifferentiated whole. *(Corrected 2026-07-13: this line previously described both "Sinheung" and "Shirayuki" as still-unresolved placeholders. Shirayuki's own name was chosen 2026-07-08, one day after this file was written — Shirayuki (白雪) is the real, final name, not a placeholder. Only the Korean city remains genuinely unnamed. Neither placeholder name was ever actually chosen by its own founding population — "Sinheung" and the pre-2026-07-08 Bharati-derived working title were both leftover labels tied to the physical stations' prior real-world operators, not names the Korean or Japanese founders themselves picked.)* Zhongshan's own Chinese name is not similarly flagged for replacement.
 
 **The unified city's own in-universe name is deliberately not yet decided.** The developer's own framing: it's more important to finish developing each of the three cities' individual identities first, and let the eventual name emerge organically once that's done, rather than force a name now. Whatever English label gets used informally in project files ("Tri-Cities" included) is purely out-of-fiction shorthand — residents would never call it that themselves.

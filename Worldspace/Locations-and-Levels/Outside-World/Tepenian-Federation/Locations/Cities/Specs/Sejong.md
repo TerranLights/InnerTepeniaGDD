@@ -5,6 +5,7 @@
 **Arcanet Subnet:** Palmer ("American")
 **Access type:** NONE
 **Highway access:** Confirmed 2026-07-03 — no highway connection exists, and none is plausible. Real-world verification found King George Island sits 160-177km from the mainland Peninsula and from Marambio's causeway landing point — far too wide for any bridge (contrast Marambio's own 0.93km Picnic Passage crossing). Sejong is maritime/aviation-access only, with an island-internal road network.
+**Maritime access:** **Marian Cove**, off **Maxwell Bay** — *a bay 19 km long whose main entrance is wide open and navigable.* ⛔ **`Access type: NONE` above means NO ROAD.** *Air access is via Machu Picchu Airport (`Airports.md`, "Served, Not Host").* Full entry: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Ports.md` §5.6a.
 **Significance:** Tepenian city on King George Island — the most densely settled island in Antarctica, with stations from Argentina, Brazil, Chile, China, Czech Republic, Poland, Russia, South Korea, and Uruguay in the pre-exile era; the most internationally concentrated location in Tepenia's founding period; named after King Sejong the Great, creator of Hangul (the Korean alphabet)
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula)
 
