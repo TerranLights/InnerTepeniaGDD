@@ -81,6 +81,39 @@ you cannot sustain a profession on demand that vanishes for months at a time.
 
 Siligel is the established robot equivalent of food: a substance consumed to maintain and repair internal systems. Its exact composition and the full range of what it does internally is subject to further design work, but its role as "robot food" is confirmed canon.
 
+> ### ⭐⭐ DEVELOPER RULING, 2026-09-04 — **WHAT SILIGEL IS PRIMARILY FOR**
+> ***"siligel would offer self-repairing functionality to a robot; that is true. More to-the-point is that it
+> would offer energy-replenishment qualities and benefits (similar to recharging a battery). However, it may
+> be possible to subdivide into multiple different 'classes' of siligel (which accomplish different things)."***
+>
+> **So the paragraph above is correct but incomplete: maintenance and repair are the SECOND function.**
+> ⭐ **ENERGY REPLENISHMENT IS THE FIRST.** ⚠ **This does not conflict with "Engine power — the primary energy
+> source"** — the engine is the power plant and delivery architecture; **siligel is what it draws on.**
+>
+> **The multiple-classes idea is raised but NOT yet ruled on.** *See the research file below for a proposed
+> three-class taxonomy derived from real silicon-degradation pathways.*
+
+> ### ⏸️ COMPOSITION — research done 2026-09-04, **awaiting developer ruling**
+> **`Siligel_Composition_Research.md`** *(this folder)* — a chemical-engineering pass on what siligel would
+> actually be, worked from what a robot is physically made of, with published sources.
+>
+> **The proposal in one line:** ⭐ **energy replenishment and surface maintenance are THE SAME PHYSICAL ACT.**
+> The gel brain's blue comes from *surface states* of its silicon nano-architecture; silicon surfaces require
+> passivation; that passivation is **fluoride chemistry** and is **metastable**, so it must be renewed
+> continuously. **And silicon is simultaneously one of the highest-capacity energy materials known** *(~4,200
+> mAh/g vs graphite's 372)*, **whose capacity is destroyed by exactly that same passivation layer breaking
+> down** — with the real-world industrial fix being, independently, **the same fluoride chemistry.**
+> ***In silicon, the surface IS the capacity: feeding a robot restores its energy BY restoring the surfaces
+> that let it hold energy at all.***
+>
+> ⭐⭐ **And it answers why one dose kills a human, using canon already on the books.** Fluoride's lethality
+> mechanism is **calcium chelation** → hypocalcemia → cardiac arrest. ***The ossuary ruling already
+> establishes that robot bones are METAL rather than calcium*** — so the mechanism has no target in a robot.
+> **Siligel is not poisonous *and* nutritious; it is nutritious BECAUSE OF what makes it poisonous.**
+>
+> ⛔ **Not yet canon. Do not cite as settled.** *(The developer ruling immediately above IS canon; the
+> chemistry that explains it is not.)*
+
 ### Coolant — Robot Drinks
 
 Robots manage internal heat through coolant systems. Coolant functions as the robot equivalent of drinking — a liquid intake with genuine physiological purpose (thermal regulation). Like human beverages, coolant exists in a range of formulations, qualities, and varieties. A robot drinking coolant after hard work is the functional and cultural equivalent of a human drinking water after exertion.
