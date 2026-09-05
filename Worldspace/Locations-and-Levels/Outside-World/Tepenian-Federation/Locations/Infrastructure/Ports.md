@@ -95,7 +95,7 @@ you to §1.1's recurring cost, with a larger number.**
 | **South Africa** | **Sanay** *and* **Belgrano** | ✅ **Both, interchangeably** — *"depending on seasonal ice conditions, not a fixed hierarchy"* |
 | **South America** | **Marambio** | ✅ *"the port, not the airfield, is Marambio's actual link to both worlds at once"* |
 | **Australia** | **Dumont d'Urville · Mirny · Mawson** | ✅ three-node |
-| **New Zealand** | ⛔ **"Ross"** | ⚠⚠ **UNDER-SPECIFIED — see §6.2** |
+| **New Zealand** | ⛔ **"Ross"** | ⚠⚠ **UNDER-SPECIFIED — see §6, "still open" item 1** |
 
 > ### ⚠ Marambio does double duty, and the split is deliberate
 > **GOODS from South America arrive at Marambio's port. PEOPLE do not** — **Upper Earth arrivals route through
@@ -249,7 +249,7 @@ that puts its harbor somewhere else.**
 
 ## 📎 5.4b The contradiction this replaced — kept as a record
 
-> **`Specs/Sanay.md` says both of these, four paragraphs apart:**
+> **`Specs/Sanay.md` USED TO SAY both of these, four paragraphs apart** *(corrected 2026-09-05)*​**:**
 > - ✅ *"first and foremost, a major shipping and transportation port city"* — with dockside freighter operations
 > - ⛔ *"The position is inland from the coast — the Weddell Sea is accessible but not immediately adjacent."*
 
@@ -286,15 +286,19 @@ desert."*
 **Interior nunatak / inland:** **Byrd · Troll · Abowasa · Princess Elisabeth · Lazar** *(Schirmacher Oasis,
 inland of the coast)*
 
-⚠ **Sanay would belong to this list on its Geographic Basis paragraph alone** — *which is the §5.4 problem
-stated a second way.*
+> ### ⭐ SANAY BELONGS ON THIS LIST TOO — **and as of 2026-09-05 that is CORRECT, not a defect**
+> ***The city is landlocked. Its port is a separate coastal facility under its jurisdiction*** *(§5.4)*.
+> **So Sanay appears in both places on purpose:** *landlocked as a settlement, and a confirmed port operator
+> as a polity.* ⚠ **Do not 'fix' this by removing it from either list.**
 
 ## ⚠ 5.6 Coastal, port status NOT ESTABLISHED
 
 ***Listed rather than invented.*** **These cities have a coastline and no canon statement either way:**
 
 **Casey · Cape Adare · Davis · Denison · Esperanza · Fort McMurdo · Juan Carlos · Neumayer · Palmer City ·
-Port Lockroy · Rothera · Sayowa · Scott · Sejong · Shirayuki · Signy · Sinheung · Zhongshan · Zukelli**
+Port Lockroy · Rothera · Sayowa · Scott · Sejong · Shirayuki · Signy · Sinheung · Zhongshan** — **18**
+
+⚠ *Zukelli was on this list until 2026-09-05 and is not any more: it **shares Janbogo's port** (§4).*
 
 **Three of them carry facts that bear on it strongly:**
 
@@ -323,7 +327,7 @@ Port Lockroy · Rothera · Sayowa · Scott · Sejong · Shirayuki · Signy · Si
 
 2. **Did any GRID-heated harbor ever exist?** *(§2.)* ⚠ **RECOMMEND: no.** *Every port in this file is held open by rock, volcanic heat, wind, or seasonal labor. If none was grid-heated, the "froze shut when the Tower fell" mechanism simply never fires — which is clean, and avoids competing with the Tower's destruction as the defining post-war fact.*
 
-3. **Port status for the 19 coastal cities in §5.6.** ⚠ ***Not urgent — better answered by each city's own pass than decided here in bulk.***
+3. **Port status for the 18 coastal cities in §5.6.** ⚠ ***Not urgent — better answered by each city's own pass than decided here in bulk.***
 
 ## ⛔ A STANDING CAUTION FOR THIS FILE
 **§3's gateway table pairs Upper Earth nations to Tepenian receiving cities.** *That is canon, from `Specs/Marambio.md`.* ⚠ **But it is the one structure in this file where a real-world nation determines something about a Tepenian place, so it sits close to the GPS-purposes-only line.** ***Trade with Upper Earth is trade with real places, which is legitimate; a Tepenian city HAVING a nationality is not.*** **Keep the distinction visible when extending this table.**
