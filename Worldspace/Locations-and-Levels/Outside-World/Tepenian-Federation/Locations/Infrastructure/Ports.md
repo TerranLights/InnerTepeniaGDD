@@ -459,6 +459,75 @@ CONSTRUCTED, and why the Tri-Cities pay for it every season.*
   neither.** *That is a real asymmetry inside a cluster the corpus otherwise treats as three equal siblings,
   and it is available to any Tri-Cities pass.*
 
+### ⭐⭐⭐ AND IT SUPPLIES THE MISSING CAUSE FOR THE AMALGAMATION
+
+> **Developer, 2026-09-05:** ***"that actually is a pretty strong supporting in-world factor for why (and how)
+> the three cities merged into one."***
+
+⚠ **Canon gives the amalgamation THREE STAGES and a cause for only one of them**
+*(`Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, established 2026-07-07)*:
+
+| Stage | Canon's cause |
+|---|---|
+| **1 · Legal separation** | the Jeju-do partition — three distinct municipalities |
+| **2 · De facto amalgamation** *(~2688)* | ✅ **sprawl** — *"physical growth… closes the remaining gaps between them"* |
+| **3 · FULL LEGAL UNIFICATION** *(by ~2780s)* | ⛔⛔ ***none given.*** *"At some point… the three cities formally, legally become one single city."* |
+
+> ## ⛔ SPRAWL CANNOT EXPLAIN STAGE 3.
+> **Growing together explains one continuous URBAN AREA. It does not explain three governments with distinct
+> national heritages surrendering sovereignty** — ***real conurbations stay legally separate indefinitely.***
+> **Something has to force the legal act, and canon does not say what.**
+
+### ⭐⭐ THE PORT IS THAT FORCING FUNCTION — and it is forcing by construction
+
+**Four facts about this specific harbor make continued separation unworkable:**
+
+1. ⭐ **It sits in water none of them owns** — *a fault trench between Zhongshan's west shore and Sinheung's
+   east shore.* **There is no natural owner to defer to.**
+2. ⛔ **It is CONSTRUCTED tier** — *built and rebuilt at shared cost, season after season.* **Somebody must
+   command that labor, every year, forever.**
+3. ⛔⛔ **The window is roughly four months** *(Nov–Mar)*. ***So berthing order decides whose cargo lands this
+   year and whose waits a full year.*** **That is not a scheduling matter; it is an economy.**
+4. ⛔ **Shirayuki has no shore at all** — *8 km away, on another landform, wholly dependent on a decision taken
+   by two other governments.*
+
+> # ⭐⭐⭐ THREE GOVERNMENTS CANNOT RUN ONE SEASONAL BERTHING QUEUE IN SHARED WATER WITHOUT ONE OF THEM
+> # EFFECTIVELY GOVERNING THE OTHER TWO.
+>
+> ***Every alternative is worse than merging:*** **split the authority three ways and one queue has three
+> masters; give it to Sinheung outright and Zhongshan's own shore is subordinated from 450 m away; give it to
+> Zhongshan and the nearer city is overruled; leave it unowned and a CONSTRUCTED port simply stops being
+> rebuilt.**
+>
+> ⭐ **A joint authority standing above all three IS unification in practice.** ***The legal merger is the
+> cheapest way to make the harbor work.***
+
+### ⭐⭐ WHO PUSHED FOR IT — **the city that cannot reach the water**
+
+***Shirayuki has the most to gain from unification and the least leverage to demand it.*** **As a shore-less
+user it holds rights of use and no ground, and its access is permanently at the discretion of two riparian
+neighbors.** ⭐ **Unification is the only arrangement that converts its dependency into a guaranteed claim.**
+
+> **So the merger was driven by the partner who could not walk to the harbor** — *not by the two who could.*
+> ⚠ **And that inverts the obvious reading**, in which the strongest city absorbs the others. **Here the
+> weakest position is the one with the motive**, and the two riparian cities could take unification or leave
+> it right up until they could not.
+
+### ⭐ The timing already fits
+
+**Stage 2 lands ~2688. Stage 3 arrives by the ~2780s** — ***roughly ninety years.*** ⭐ **A port that must be
+rebuilt every season generates a dispute EVERY YEAR.** ***So the gap is not one crisis waiting to happen; it
+is ninety arguments, each individually survivable, none of them settling anything.*** **That is exactly the
+shape a slow legal capitulation takes.**
+
+> ### ⛔ SCOPE — this is a PROPOSAL, and it belongs to another file
+> **`Tri-Cities_Region.md` owns the amalgamation history and has NOT been edited.** ⚠ *A culture pass on that
+> cluster should decide whether to adopt this as stage 3's mechanism.* **Recorded here because the port
+> reasoning is infrastructure and this is where it was derived** — ***not to settle the cluster's history from
+> the infrastructure file.***
+
+---
+
 ---
 
 ## ⭐⭐⭐ 5.6b THE KATABATIC SPECTRUM — **the thing that actually decides an Antarctic port**
