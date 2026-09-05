@@ -20,8 +20,34 @@ What resolves it instead is strategic irrelevance, not physical resilience — t
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 63,338 humans / 65,549 robots / **128,887** combined *(island cap)*
-**Census II (Orbital Era):** 53,703 humans / 42,203 robots / **95,906** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 457 humans / 472 robots / **929** combined *(island cap)*
+**Census II (Orbital Era):** 387 humans / 304 robots / **691** combined *(island cap)*
+
+> ### ⭐⭐ POPULATION REDUCED 2026-09-05 — **the first Gate 11 correction in the project**
+> **Was 63,338 / 65,549 / 128,887 (Census I).** ⛔ **Goudier Island is 200 m × 120 m — 0.024 km² — so that
+> figure was 5,370,292/km², more than FOUR TIMES the density Kowloon Walled City reached at its peak, which
+> is the empirical maximum for human settlement.**
+>
+> ✅ **Developer instruction: set to a value drawn between 600 and 1,000. Drawn: 929.** *Human/robot ratio
+> preserved; Census II scaled from it with this city's own retention rate (74.41% → 74.38%) intact.*
+>
+> | | Was | Now |
+> |---|--:|--:|
+> | **Density on Goudier** | ⛔ **5,370,292/km²** | ⭐ **38,708/km²** — **0.84× Manila** |
+> | **Ground per person** | **0.2 m²** *(less than a standing person's footprint)* | **25.8 m²** |
+> | **Floor per person, 2 levels at 60% cover** | — | **31.0 m²** |
+>
+> ⭐ **This is the first figure that sits INSIDE the real-world range, and it makes the spec self-consistent.**
+> *Every qualitative statement here already described something tiny — "a genuinely tiny island," "no room to
+> decentralize," "no realistic underground vault potential," "no mountainous terrain." **Only the number
+> disagreed.***
+>
+> ⚠ **Port Lockroy is now the smallest settlement in Tepenia**, below Amundsen Station's 6,857.
+>
+> ⛔⛔ **THE SUBTRACTED POPULATION IS HELD, NOT DELETED** — **127,958 combined (Census I), 95,215 (Census II)**
+> — *in `Official_Population_Census.md` §D-OVERFLOW, awaiting redistribution.* ***It is a bookkeeping
+> balance, NOT an event: nobody left Port Lockroy, and no city that later receives it gains a community or a
+> memory from it.***
 
 | Tier | Nations |
 |------|---------|

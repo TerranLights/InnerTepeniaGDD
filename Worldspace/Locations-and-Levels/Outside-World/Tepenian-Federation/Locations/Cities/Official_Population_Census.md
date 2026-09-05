@@ -514,7 +514,7 @@ National communities are classified by tier based on long-run population share. 
 | 31 | Rothera | Palmer | 153,760 | 163,689 | **317,449** | *(island cap; revised 2026-07-04)* |
 | 32 | Sayowa | Mawson | 93,356 | 132,020 | **225,376** | *(island cap; revised 2026-07-04)* |
 | 33 | Signy | Palmer | 93,134 | 95,560 | **188,694** | *(island cap; revised 2026-07-04)* |
-| 34 | Port Lockroy | Palmer | 63,338 | 65,549 | **128,887** | *(island cap; revised 2026-07-04)* |
+| 34 | Port Lockroy | Palmer | 457 | 472 | **929** | ⭐ **REDUCED 2026-09-05 — Gate 11.** *Was 63,338 / 65,549 / **128,887**, which is **5,370,292/km²** on Goudier Island (200 m × 120 m = 0.024 km²) — **4.3× Kowloon Walled City's historical peak.** New figure drawn 600–1,000 per developer instruction; H/R ratio preserved. **Now 38,708/km², 0.84× Manila — inside the real-world range for the first time.*** ⛔ **OVERFLOW 62,881 H / 65,077 R / 127,958 C is HELD, not deleted — see §D-OVERFLOW** |
 | 35 | Kunlun | Mirny | 0 | 123,449 | **123,449** | *(new 2026-07-04; entirely robot; composition re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population — see `Specs/Kunlun.md`)* |
 | 36 | Dome Fuji | Mawson | 0 | 55,072 | **55,072** | *(new 2026-07-04; entirely robot, national origin preserved from source cities — see composition note)* |
 | 37 | Amundsen Station | Amundsen | 1,121 | 5,736 | **6,857** | *~84% robot; revised 2026-07-04* |
@@ -627,7 +627,7 @@ National communities are classified by tier based on long-run population share. 
 | 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
 | 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | *(island cap)* |
 | 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
-| 32 | Port Lockroy | Palmer | 53,703 | 42,203 | **95,906** | *(island cap)* |
+| 32 | Port Lockroy | Palmer | 387 | 304 | **691** | ⭐ **REDUCED 2026-09-05** — *scaled from the Census I reduction; Port Lockroy's own CII/CI retention preserved (74.41% → 74.38%) and CII's own H/R split preserved.* ⛔ **OVERFLOW 53,316 H / 41,899 R / 95,215 C HELD — see §D-OVERFLOW** |
 | 33 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
 | — | **TOTAL (Antarctic)** | | **10,486,701** | **11,434,935** | **21,921,636** | *(corrected 2026-07-05 — this row was stale, undercounting by 1,251,617 combined. Verified by summing the 33 rows above directly, twice via independent methods, both agreeing exactly; also cross-checked against the Subnet Totals table below, which independently summed to the same figure. Denison's row (733,502 combined) accounts for part of the gap — it was evidently added to this table at some point without its addition being reflected in this row's own change-log, unlike the Concordia/Palmer City adjustments explicitly tracked below. The remaining ~518,000 gap's exact origin wasn't further traced; this fix corrects the total to match its own table's actual rows rather than reconstructing the full history of how it drifted. This cascades into the Orbital Population and Full Tepenian Population tables below, both updated accordingly.)* |
 
@@ -673,6 +673,46 @@ National communities are classified by tier based on long-run population share. 
 ***Fix applied again 2026-07-05, during a full numbers sweep:*** *The "actively-maintained Antarctic Surface subnet totals" the 2026-07-04 fix treated as authoritative had themselves gone stale since — the individual City Populations and Subnet Totals rows (both independently summing to 10,486,701H/11,434,935R/21,921,636 combined) no longer matched their own tables' summary TOTAL rows (9,874,712H/10,795,307R/20,670,019), by 1,251,617 combined. Denison's row accounts for part of the gap (added to the table without its own change-log entry); the rest wasn't further traced. Recalculated Orbital the same way as before — as the exact remainder needed to make Census II match Census I's grand total — using the corrected Surface figures. This lowered Orbital's share of the total from ~35.5% back down to ~31.6%.*
 
 ---
+
+---
+
+## §D-OVERFLOW — THE HELD OVERFLOW LEDGER
+
+**Opened 2026-09-05.** ***Population subtracted from a city by a Gate 11 extent correction is HELD here until
+it is redistributed — it is never deleted.*** **This keeps the national totals reconcilable while individual
+cities are worked one at a time.**
+
+> # ⛔⛔ THIS LEDGER IS BOOKKEEPING. IT IS NOT AN EVENT.
+> ***An entry here does NOT mean people left a city.*** **It means a figure was corrected and the difference
+> is parked until it is assigned somewhere.** ⛔ **Never write an overflow as migration, exodus, resettlement,
+> displacement or diaspora.** *There is no in-world event corresponding to any line in this table, and no city
+> receiving a redistribution gains a community, a memory, or an origin story from it.*
+>
+> ⭐ **The standing rule this enforces:** *the census is a RECORD, and its editing history is not events.*
+> *(Established 2026-09-05 after "30% of Palmer City's population was moved to Byrd and Concordia" — a 2026-07
+> rebalancing — was misread as a migration.)*
+
+### Held balances
+
+| Source city | Census | Humans | Robots | **Combined** | Reason | Status |
+|---|---|--:|--:|--:|---|---|
+| **Port Lockroy** | **I** | **62,881** | **65,077** | **127,958** | ⛔ **Gate 11:** 128,887 on Goudier Island *(0.024 km²)* = **5,370,292/km², 4.3× Kowloon Walled City.** Reduced to **929** *(drawn 600–1,000, developer instruction 2026-09-05)* | ⏸️ **HELD — unassigned** |
+| **Port Lockroy** | **II** | **53,316** | **41,899** | **95,215** | *scaled from the Census I correction, retention preserved* | ⏸️ **HELD — unassigned** |
+
+### ⚠ Consequence for the totals, stated so nobody "fixes" it silently
+
+**The Palmer subnet total and the national TOTAL rows are now SHORT by the held amounts above** — *Census I by
+127,958 combined, Census II by 95,215.* ⛔ **That is intentional and temporary.** ***The totals reconcile again
+once the overflow is redistributed; recomputing them now would erase the record that the population is owed
+somewhere.***
+
+### ⏸️ Redistribution — deferred
+
+**Where the held overflow goes is NOT decided.** *It may go to one city or several.* ⚠ **It should not be
+assigned until more of the eleven island-capped cities have been worked**, since several of them are
+themselves over-dense and will produce their own overflow — *and some of the remaining twenty-six may turn out
+to be under-populated for their extent, which is where overflow most naturally lands.*
+📎 **Working file: `Universal_Location_Methodology/Extent_and_Density_Per_City.md`.**
 
 ---
 

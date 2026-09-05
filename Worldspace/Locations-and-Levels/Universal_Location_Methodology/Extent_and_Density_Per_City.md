@@ -9,8 +9,8 @@ the DATA and the per-city resolutions)*.
 > trusted: ***"the part that fired was the part that was ARITHMETIC… it is the only part of this gate that
 > does not run on the same faculty that produced the error."***
 >
-> ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.* **Order begins with
-> PORT LOCKROY** *(§4)*, the hardest case.
+> ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
+> ✅ **1 of 11 resolved — Port Lockroy, §4.** ⏳ **Next: Dumont d'Urville** *(§5)*.
 
 ---
 
@@ -87,45 +87,62 @@ standing correction that ICE IS BUILDABLE.**
 
 ---
 
-# 4 · ⏳ PORT LOCKROY — **FIRST CITY. IN PROGRESS.**
+# 4 · ✅ PORT LOCKROY — **RESOLVED 2026-09-05.** *City #1 of 11.*
 
-> ## THE PROBLEM, STATED PLAINLY
-> 🔬 **Goudier Island is 200 m × 120 m — 0.024 km².** *You can walk across it in about two minutes.*
-> **Canon puts 128,887 people on it.** ⛔ ***That is 5,370,292/km² — more than four times the density
-> Kowloon Walled City reached at its peak, and Kowloon is the empirical maximum for human settlement.***
+> ## ✅ DEVELOPER RULING
+> ***"set the population of Port Lockroy to a randomly-generated value anywhere between 600 to 1,000 people.
+> Whatever number has to be subtracted, mark that as an overflow to eventually be redistributed to another
+> city (or possibly multiple other cities)."***
+>
+> ### ⭐ DRAWN: **929**
 
-## What canon already says, and it makes the problem worse rather than better
+| | Was | **Now** |
+|---|--:|--:|
+| **Census I** | 63,338 H / 65,549 R / **128,887** | **457 H / 472 R / 929** |
+| **Census II** | 53,703 H / 42,203 R / **95,906** | **387 H / 304 R / 691** |
+| **Density on Goudier** *(0.024 km²)* | ⛔ **5,370,292/km²** — *4.3× Kowloon* | ⭐ **38,708/km²** — **0.84× Manila** |
+| **Ground per person** | **0.2 m²** | **25.8 m²** |
 
-> ✅ **`Specs/Port_Lockroy.md`:** *"Tepenia's second-smallest city by population… on a genuinely tiny island
-> (Goudier Island, inside a small natural harbor) — **smaller than Marambio's Seymour Island, with no
-> mountainous terrain, no room to decentralize, and no realistic underground vault potential.**"*
+⚠ **Method:** *human/robot ratio preserved; Census II scaled from the Census I figure with this city's own
+retention rate intact (74.4109% → 74.3811%), per the standing convention that population adjustments preserve
+source composition rather than reshaping it.*
 
-⭐⭐ **So the spec has already ruled out every escape route this project normally uses:**
+## ⭐⭐ Why 929 works where 128,887 did not
 
-| Escape | Status |
-|---|---|
-| **Spread out** | ⛔ *"no room to decentralize"* |
-| **Go underground** | ⛔ *"no realistic underground vault potential"* |
-| **Use the terrain** | ⛔ *"no mountainous terrain"* |
-| ⭐ **Span to neighbors?** | ⚠ **THE ONE ROUTE NOT YET CLOSED — see below** |
+**At 929 people Goudier supports a two-storey settlement covering most of the island with ~31 m² of floor
+each** — *a comfortable apartment, no megastructure, no stacking, no engineering heroics.* **Which is what a
+200 × 120 m rock in a sheltered harbor physically is.**
 
-## ⭐ The one avenue that remains
+> ### ⭐⭐⭐ AND IT MAKES THE SPEC SELF-CONSISTENT FOR THE FIRST TIME
+> **Every qualitative statement in `Specs/Port_Lockroy.md` already described something tiny** — *"a genuinely
+> tiny island," "no room to decentralize," "no realistic underground vault potential," "no mountainous
+> terrain," "Tepenia's second-smallest city."* ***Only the number disagreed.***
 
-**Goudier lies 0.1 km north of Jougla Point, on WIENCKE ISLAND, inside the natural harbor of Port Lockroy** —
-*and the harbor itself is canon:* ✅ *"exceptional natural shelter; the surrounding waters are protected from
-open ocean swells by the island geometry."*
+⚠ **Port Lockroy is now the smallest settlement in Tepenia**, below Amundsen Station's 6,857.
+⭐ **And no spanning to Wiencke Island was needed** — *the option identified as the last remaining escape is
+left unused, and remains available if the figure is ever revisited upward.*
 
-⭐⭐ **So a much larger neighbor is 100 meters away, and the water between is the calmest in the region.**
-***That is a shorter span than Denison's 3 km to Mackellar, in far better conditions.***
+## ⛔⛔ THE OVERFLOW — held, not deleted
 
-## ⛔ OPEN — the ruling this city needs
+| Census | Humans | Robots | **Combined** |
+|---|--:|--:|--:|
+| **I** | 62,881 | 65,077 | **127,958** |
+| **II** | 53,316 | 41,899 | **95,215** |
 
-1. **Does the Tepenian city extend onto Wiencke Island, or is it confined to Goudier?**
-   *If confined, the population must fall by a large factor — there is no arrangement that fits.*
-2. **If it extends: what is the envelope?** *Wiencke's own area is needed before a density can be computed.*
-3. ⚠ **Note the tension with its own spec.** *The line "smaller than Marambio's Seymour Island" compares
-   Goudier to a 78 km² island — **a 3,250× difference**. The spec is describing a small city; the census
-   figure is not a small city.*
+📎 **Ledger: `Official_Population_Census.md` §D-OVERFLOW.** ⚠ **The Palmer subnet and national TOTAL rows are
+deliberately short by these amounts until redistribution** — *recomputing them now would erase the record that
+the population is owed somewhere.*
+
+> ⛔⛔ **NOT AN EVENT.** ***Nobody left Port Lockroy.*** **A figure was corrected and the difference is parked.
+> No receiving city gains a community, a memory, or an origin story from it.** *(The standing rule:
+> the census is a record, and its editing history is not events.)*
+
+## 📎 What this sets for the remaining ten
+
+⭐ **Port Lockroy is the smallest island in the set, so it establishes the floor.** **At 0.024 km² supporting
+929 people (38,708/km²), the same density logic gives rough ceilings elsewhere** — *e.g. **Sayowa** on East
+Ongul's ~1.5 km², **62× the area**, lands near **58,000** against its current 225,376.*
+⚠ **That is an ILLUSTRATION, not a rule.** ***Each city is still worked on its own site.***
 
 ---
 
@@ -133,7 +150,7 @@ open ocean swells by the island geometry."*
 
 | # | City | Why it is here |
 |--:|---|---|
-| **1** | ⏳ **Port Lockroy** | ⛔⛔ **worst case — 4.3× Kowloon.** *§4, in progress* |
+| ~~**1**~~ | ✅ **Port Lockroy** | ✅ **RESOLVED 2026-09-05 → 929** *(§4)*. Overflow **127,958 / 95,215** held |
 | **2** | **Dumont d'Urville** | ⛔⛔ above Kowloon on its home island — ⭐ *but §3.1 likely resolves it* |
 | **3** | **Sayowa** | ⛔ 150,251/km², and its own spec already flags 50,084/km² as *"the implausibility"* |
 | **4** | **Rothera** | ⚠ **68/km² — the emptiest.** *The opposite failure, and it needs the same attention* |
