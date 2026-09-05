@@ -102,7 +102,7 @@ Signy · Port Lockroy.** ***That is a settlement-form constraint already doing r
 
 | Form | What binds it | Cities |
 |---|---|---|
-| **ISLAND-CAPPED** | finite land; a hard ceiling regardless of engineering | the six already annotated |
+| **ISLAND-CAPPED** | ⚠ **the label, NOT a ceiling** — the eleven islands differ in area by **194,000×**, so the annotation binds nothing in common *(§7c)* | **the eleven annotated** — measured 2026-09-05, `Extent_and_Density_Per_City.md` |
 | **RIDGE-LINEAR** | builds *along* a spine and cannot widen | Abowasa · Princess Elisabeth · Sanay *(nunatak sites)* |
 | **OASIS-BOUNDED** | ice-free basin, lake catchments, surrounding ice margin | Larsemann trio · Davis · Lazar |
 | **SHELF-SPREADING** | flat and effectively unlimited — ***until the calving margin*** | Halley · Neumayer · Belgrano |
@@ -287,6 +287,24 @@ Signy · Port Lockroy** — ⛔ **and Zukelli is NOT among them.**
 
 ⚠ **Corrected in §3 2026-09-05.** *Recorded rather than quietly fixed: this file's single piece of
 corroborating corpus evidence was wrong, and it is the list meant to seed the typology.*
+
+---
+
+# 7c · 📎 THE PER-CITY DATA AND RESOLUTIONS LIVE IN THEIR OWN FILE
+
+⭐⭐ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Extent_and_Density_Per_City.md`**
+*(opened 2026-09-05)* — **this file is the METHOD; that one is the DATA.**
+
+**It holds the first `Gate 11` run in the project's history: all eleven island-capped cities measured against
+their islands' actual areas.** ⛔ **The label fails in both directions** — *three cities are physically
+impossible (Port Lockroy at **4.3× Kowloon Walled City**), six are nearly empty (Rothera at **68/km²**), and
+the eleven islands span a **194,000-fold** range in area under one shared annotation.*
+
+⭐ **And it produces the first area-derived calibration: the plausible band is ~7,000–10,000/km²**, reached
+independently by Signy, Marambio, and Dumont d'Urville-on-its-archipelago. ***Unlike the caps, that anchor is
+not circular*** — **use it for §7's band widths.**
+
+⏳ **Cities are worked one at a time, developer instruction, beginning with Port Lockroy.**
 
 ---
 
