@@ -12,7 +12,7 @@ Byrd or Dome Fuji; it has a large, mixed human/robot population (~950k-1.4M) rat
 100%-robot one; and its economy runs on hub logistics, maritime trade, and hospitality/honeymoon tourism
 rather than fabrication or devotion. The categories below are derived fresh from these facts.
 
-**Governing facts:** coastal position on Horseshoe Harbour, Holme Bay, Mac.Robertson Land, facing the
+**Governing facts:** coastal position on Horseshoe Harbor, Holme Bay, Mac.Robertson Land, facing the
 Indian Ocean; East Antarctic coastal climate — katabatic winds off the plateau, milder than interior
 cities (mean annual −11.2°C, coldest month avg −20°C); status is **damaged but partially operational**,
 not fully intact; the Mawson subnet's own Arcanet hub, its inter-subnet link severed by the Planetary
@@ -65,7 +65,7 @@ Sinheung.
    formalized lodging built specifically for this economic sector, distinct from ordinary residential
    housing.
 10. **The Prince Charles Mountains Overlook** (established) — a maintained scenic site above Horseshoe
-    Harbour, timed to whichever of polar night or midnight sun is in season during a given stay.
+    Harbor, timed to whichever of polar night or midnight sun is in season during a given stay.
 11. **Guest reception and hospitality-service infrastructure**, sized to Mawson's own established status
     as Tepenia's go-to honeymoon destination — a real, sustained visitor-facing service economy distinct
     from the reserved, visitor-is-a-rare-event hospitality register seen at isolated cities like Byrd.

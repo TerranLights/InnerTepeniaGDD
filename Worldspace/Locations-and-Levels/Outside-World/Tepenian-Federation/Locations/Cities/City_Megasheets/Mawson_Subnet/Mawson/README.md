@@ -22,7 +22,7 @@ The full, concatenated Mawson reference — synthesis, then extrapolation, then 
 
 | | |
 |---|---|
-| **Real-world basis** | Mawson Station (Australia/AAD, 1954), Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E) |
+| **Real-world basis** | Mawson Station (Australia/AAD, 1954), Horseshoe Harbor, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E) |
 | **Status** | Damaged, partially operational — the subnet hub |
 | **Subnet** | Mawson — hub city, Hwy 4 between the Sayowa Junction and Sinheung |
 | **Population (Census II)** | 427,321 humans / 525,125 robots / 952,446 combined |
@@ -131,7 +131,7 @@ Following the same "-ite" suffix pattern already established at Kunlun (Kunlunit
 
 ## V. Honeymoon Traditions, Specifically
 
-**Proposed:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbour, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples are said to make the trip regardless of which extreme they encounter, treating whichever one it is as the honeymoon's own defining shared memory. This gives the already-established "one to two week" stay a concrete anchor activity, consistent with the city's own established hospitality-forward, resort-adjacent character, without requiring an invented festival or elaborate ceremony that would sit oddly against Mawson's otherwise understated civic tone.
+**Proposed:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbor, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples are said to make the trip regardless of which extreme they encounter, treating whichever one it is as the honeymoon's own defining shared memory. This gives the already-established "one to two week" stay a concrete anchor activity, consistent with the city's own established hospitality-forward, resort-adjacent character, without requiring an invented festival or elaborate ceremony that would sit oddly against Mawson's otherwise understated civic tone.
 
 ---
 
@@ -211,7 +211,7 @@ Finding 2 is the most generative for future work — if deliberately-cultivated 
 
 - **The Subnet Hub Arcanet Installation** — the Mawson subnet's primary communications node, damaged but partially functional; intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape than the severed inter-subnet link.
 - **Holme Bay Harbor** *(real-world name, flagged for eventual future renaming — see TODO.md's new geographic-naming timeline note)* — the primary maritime entry point.
-- **The Prince Charles Mountains Overlook** *(real-world name, flagged for eventual future renaming, same as Holme Bay)* — the customary honeymoon-visit site above Horseshoe Harbour, timed to whichever of polar night or midnight sun is in season.
+- **The Prince Charles Mountains Overlook** *(real-world name, flagged for eventual future renaming, same as Holme Bay)* — the customary honeymoon-visit site above Horseshoe Harbor, timed to whichever of polar night or midnight sun is in season.
 - **The Public Libraries** — a genuine civic institution, consistent with the city's hospitality-forward character.
 - **The Hospitality Infrastructure** — the earliest dedicated honeymoon-destination accommodations, formalized from what began as incidental reputation.
 - **The Welcome Plaza** *(added 2026-07-31)* — a large, central civic gathering space built explicitly around Mawson's hospitality-first identity, distinct from more transactional commercial or harbor space.

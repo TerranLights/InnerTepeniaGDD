@@ -29,7 +29,7 @@ providers were listed out.**
 
 **And it is far from both established food centers.** Queen Maud Land and the Weddell Sea sit at roughly
 30°W–15°E. **Davis and {{Bunger}} are at 78–101°E. The Scotia Sea krill grounds are at 40–60°W.** The Halley
-subnet is thousands of kilometres from each, on the opposite side of the continent from the first and across
+subnet is thousands of kilometers from each, on the opposite side of the continent from the first and across
 the Weddell Sea from the second.
 
 **The subnet's four providers are Belgrano (logistics, medicine), Troll (logistics), Sanay (logistics) and

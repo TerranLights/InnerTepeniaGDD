@@ -49,7 +49,7 @@ As Mawson's hospitality reputation grows, newly-married couples start arriving w
 itinerary, unsure what to actually do with a week or two at the edge of the continent. **But** a
 destination reputation needs something concrete for visitors to actually experience together, not just
 a pleasant place to stay. **Therefore** a customary visit to the Prince Charles Mountains overlook
-above Horseshoe Harbour takes hold — timed to whichever extreme, polar night or midnight sun, happens
+above Horseshoe Harbor takes hold — timed to whichever extreme, polar night or midnight sun, happens
 to be in season during a given stay. **But** couples arrive at wildly different times of year, meaning
 no two visits see the same sky. **Therefore** the overlook becomes the honeymoon's defining shared
 memory precisely because it's never quite the same experience twice — each couple gets a version of it

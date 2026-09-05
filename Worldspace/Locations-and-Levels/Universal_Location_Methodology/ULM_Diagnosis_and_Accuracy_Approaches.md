@@ -223,7 +223,7 @@ exercised in months.***
 | **2** | **A1–A4, A7 as a `make check`** | removes an unreliable enforcement layer permanently, for a few dozen lines |
 | **3** | **C2 + C3** — raw output mandatory; the "what did I decide that wasn't stated" field | **C3 is the only control PROVEN to work on this failure mode**, in a live test |
 | **4** | **F1** — decide cold-for-validation vs built-well | **it determines everything else.** Three consecutive runs died in machinery that may not be on the critical path |
-| **5** | **E1 + E2** — the closing test and third-order chains, both in writing | **the only defence against the failure no gate can see**, and the one that matters most for a foundation |
+| **5** | **E1 + E2** — the closing test and third-order chains, both in writing | **the only defense against the failure no gate can see**, and the one that matters most for a foundation |
 
 ---
 

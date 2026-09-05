@@ -20,9 +20,9 @@ Applicable phases per `03` §0.1 (Installation): 0(M) 1(M) 2(M) 3(M) 4(M) 5(M) 6
 eleven answered, including both optional phases (6, 8), neither skipped. **Mechanical scan run and verified
 against a known hit before trusting any zero** (per the standing instrument-verification discipline): the
 American-English spelling sweep (`grep -noEi` across all sixteen flagged British variants) returned exactly
-one hit across the whole run folder — "Programme" in the research log, confirmed by context check to be part
-of a quoted real-world organization's own proper name ("South African National Antarctic Programme"), not this
-session's own prose. **Raw scan output, not summarized:** `SanayMaritimeShippingPort_Research_Log.md:32:Programme`.
+one hit across the whole run folder — "Program" in the research log, confirmed by context check to be part
+of a quoted real-world organization's own proper name ("South African National Antarctic Program"), not this
+session's own prose. **Raw scan output, not summarized:** `SanayMaritimeShippingPort_Research_Log.md:32:Program`.
 Correct as-is; not changed.
 
 ## Gate 2 — General population

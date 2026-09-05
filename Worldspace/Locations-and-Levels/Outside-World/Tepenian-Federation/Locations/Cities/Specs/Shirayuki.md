@@ -111,7 +111,7 @@ _https://legacy.bas.ac.uk/met/READER/_
 **Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free Larsemann Hills bedrock; cold continental winter, mild bright summer
 **Mean annual temperature:** -9.9°C  _(proxy: READER station `Zhongshan`)_
 **Record extremes:** record high **+9.4 °C** (Dec); record low **-45.4 °C** (Aug) _(NOAA NCEI GHCN-Daily station `AYM00089574` — Progress, ~8 km; daily observations 1988-2026)_ *(researched 2026-09-04)*
-**Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of metres offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of meters offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
 **Temperature range:** coldest months (July/August) avg −16.1°C; warmest month (January) avg +0.2°C — above freezing in the mean
 **Annual precipitation:** **148.9 mm** water equivalent _(proxy: Progress, Larsemann Hills (~15 km); measured monthly normals — see table)_ *(researched 2026-09-04)*
 

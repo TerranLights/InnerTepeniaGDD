@@ -47,7 +47,7 @@ location would be imprinted in memory.**
 |---|---|---|
 | **Vilnius** | PRIMARY | **Užupis** — a self-declared "republic" occupying one neighborhood, its constitution **written in three hours** and engraved on plaques in many languages along a single street. Independence Day, 1 April: **customs officers hold the bridge and let you cross only if you accept being part of the performance.** Hidden courtyards; 19th-c houses; artists |
 | **Austin** | SECONDARY | **Barton Springs**, acquired 1918, became the city's symbol — and *"the fascinating story of how [the greenbelt] was preserved has **largely faded from public memory**."* **"Keep Austin Weird"** coined in 2000 **on a radio pledge drive**, to name the city's *"unserious, unmaterialistic"* quality. The culture itself is attributed to an accident: **cheap housing after a 1980s bust**, plus a university |
-| **Yekaterinburg** | SECONDARY | Founded 1723 as an industrial centre **on a strict regular plan**. Holds the **highest concentration of Constructivist architecture in the world (140+ structures)**. The **Uralmash socialist city** — a whole ensemble built around one industrial works. **Chekists' Village (1929–36)**, purpose-built for one occupational group and their families |
+| **Yekaterinburg** | SECONDARY | Founded 1723 as an industrial center **on a strict regular plan**. Holds the **highest concentration of Constructivist architecture in the world (140+ structures)**. The **Uralmash socialist city** — a whole ensemble built around one industrial works. **Chekists' Village (1929–36)**, purpose-built for one occupational group and their families |
 
 ## 3.3 The physical basis, researched properly *(G2 — the real Larsemann Hills)*
 

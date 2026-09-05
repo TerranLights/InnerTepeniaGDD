@@ -474,7 +474,7 @@ is missing?** If not, it is a hole, however elegant the silence looks. → `00c`
   the other lacks, so **there is no asymmetry and therefore no petitioner.** → `00e` §5.
 - **Negative panel results are results** — a shadow question returning *not guilty*, a Life Arc returning *yes,
   trivially*, and a silence are all characterizing. And **a position declining to speak because another covered
-  the ground is correct behaviour**, not a gap. → `00f` Rule 0.
+  the ground is correct behavior**, not a gap. → `00f` Rule 0.
 - **The prediction table is at eighteen straight confirmations** and has been flagged for three rounds without
   either remedy being applied. It should be read as house style. **The Law 0 case above is the first real
   result about a rule this project has produced**, and it was obtained by accident rather than by design.
@@ -999,7 +999,7 @@ of a larger one?* Cross-referenced into `00b` and `00d` rather than left as thre
 
 **The gate flagged Finding XXI**, where a newcomer who reports a genuine fault too early has doors close
 "permanently." **Priced against the district's actual conditions, that was written harder than the Undergrid
-would pay** — a decent district that needs the labour does not end somebody's prospects over one correct
+would pay** — a decent district that needs the labor does not end somebody's prospects over one correct
 report. **The finding was bounded before it shipped**: what closes is the audit-privilege door, not the person;
 they keep the job, the crew and the training.
 
@@ -1024,7 +1024,7 @@ cannot accept that worth is what someone will pay, **because it already knows wh
 ### Borrowed Form is 3 for 3 and should be promoted
 
 **Three consecutive districts in which the missing faculty was supplied by an incoming community and filed by
-the host as pleasant local colour**: the Markets learned mourning from Zukelli; the Frostlands' only durable
+the host as pleasant local color**: the Markets learned mourning from Zukelli; the Frostlands' only durable
 record-form is Denison's recitation; and **the Undergrid's only closure instrument is Davis's Quiet Credit and
 Casey's Junction Toast** — peer-issued sign-off, running nightly in every bar in the district, which nobody
 recognizes as the thing the district cannot do for itself. **That is no longer an occasional technique and the
@@ -1124,7 +1124,7 @@ Three now, and they are the honest cost of a methodology that improved while it 
 
 ---
 
-## Depth re-run programme — district 01, the Sanctuary (2026-08-29)
+## Depth re-run program — district 01, the Sanctuary (2026-08-29)
 
 **Developer instruction: re-run the full 8-phase process on all twelve zodiac districts, one at a time, at
 depth, with no time constraint.** The Hub stays deferred. **Cancer ran first, and it was the hardest possible

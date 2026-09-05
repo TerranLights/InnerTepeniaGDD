@@ -135,7 +135,7 @@ the Undergrid's authority over **what things are**, which is the one thing a dis
 identity cannot concede.
 
 **Here is the reason from this side, and it is worse.** The Markets' entire epistemology is that **worth is
-what someone will pay.** For the Undergrid to take the remedy — to let the Markets tell it what its labour is
+what someone will pay.** For the Undergrid to take the remedy — to let the Markets tell it what its labor is
 worth — would be to accept a valuation it already knows the answer to. **It has never been paid properly, it
 reads that as normal working conditions, and if worth is what someone pays, then this district is worth almost
 nothing.** The remedy and the humiliation are the same transaction.
@@ -270,7 +270,7 @@ vocabulary to say so, because the district has no word for finishing that does n
 
 > **Research: the aviation Certificate of Release to Service — changed a finding, and it is the sharpest
 > deficit contrast produced so far.** In licensed aircraft maintenance, closure is a **signature**. A licensed
-> engineer signs, **with their licence number and the date**, that the work was carried out and the aircraft is
+> engineer signs, **with their license number and the date**, that the work was carried out and the aircraft is
 > fit to fly — and that signature **attributes full responsibility for the quality of all maintenance it covers
 > to the engineer personally.** The privilege is restricted to work they performed or were directly involved
 > in. And the operative principle: **the licensed engineer is the sole arbitrator of safety while the aircraft
@@ -282,7 +282,7 @@ right, and I am answerable for saying so* — and to have that be the end of it.
 
 **And the Undergrid cannot adopt it, for a reason that is not stubbornness.** Signing means **valuing your own
 judgment above the requirement for external confirmation**, and this is the district whose need is stated as
-*it will not rest until it gets feedback saying it did well.* **An Undergrid engineer handed a signing licence
+*it will not rest until it gets feedback saying it did well.* **An Undergrid engineer handed a signing license
 would want somebody to check the signature.** The regress is not a joke; it is the capability.
 
 **Second-order.** This is also why the district's proceduralism is not bureaucracy. Its rules exist to protect
@@ -292,7 +292,7 @@ describe it as being asked to cut corners.**
 
 **Third-order — the divergence worth stating** *(Step 3.5)*. Aviation solved this by making the **worker** the
 authority, deliberately, against every organizational instinct. **The Undergrid's version, if it ever arrives,
-will not come from a licence issued downward.** It will come from crews signing for each other — which is what
+will not come from a license issued downward.** It will come from crews signing for each other — which is what
 the imported practices of Finding XXVIII are already quietly doing, in miniature, without anyone calling it
 that.
 
@@ -373,7 +373,7 @@ plant halls and junction chambers are all named and understood by **the run they
 inside them, and directions are given as a sequence rather than a destination.
 
 **Second-order — every surface is a working surface, so ornament had nowhere to go except onto the
-equipment.** Canon is explicit and it is one of the district's most characteristic facts: colour-coded cable
+equipment.** Canon is explicit and it is one of the district's most characteristic facts: color-coded cable
 runs laid with deliberate aesthetic intention, decorated junction boxes, specific junctions made beautiful,
 **completely seriously**, and never mentioned to the surface. There is no decorative layer here because there
 is no non-working surface to put one on. **So the art is *in* the infrastructure, structurally, and cannot be
@@ -572,7 +572,7 @@ and certainty takes time*, the early report is a character finding.
 > **The bound, stated explicitly** *(added by Gate 11 before this shipped)*: **what closes is the
 > audit-privilege door, not the person.** They keep the job, the training, the crew and the pay; nobody is
 > punished, demoted or frozen out socially, and this district would not do that to somebody over one early
-> correct report — it is decent, and it needs the labour. **What they lose is the fast track to being taken
+> correct report — it is decent, and it needs the labor. **What they lose is the fast track to being taken
 > seriously as a reporter of faults**, which now takes years instead of months and may take a change of
 > supervisor. *(This is the Frostlands' error caught one district later: an exclusion written harder than the
 > district would actually pay for.)*
@@ -836,12 +836,12 @@ and no longer reliably receives.
 
 **Second-order: they are the two most cherished social practices in the Undergrid, and this is why.** The
 district experiences them as warmth, as good manners, as the pleasant customs of communities it likes.
-**Functionally they are a distributed, peer-issued sign-off system** — the thing the aviation licence does
+**Functionally they are a distributed, peer-issued sign-off system** — the thing the aviation license does
 formally — operating on people instead of on work orders, and running continuously in every bar and every
 overlap in the district.
 
 **Third-order, and it is the design opening.** The Undergrid's route to the instrument it lacks does not run
-through Libra, or through a licence, or through the Markets. **It runs through the practice it is already
+through Libra, or through a license, or through the Markets. **It runs through the practice it is already
 doing every night and does not recognize as a practice** — and the closers (Finding XXIII) are what it looks
 like when somebody applies the same act to a log entry instead of to a colleague. **Those two facts have never
 been placed next to each other by anyone in-world**, and connecting them is the single most consequential thing
@@ -850,7 +850,7 @@ a player could do in this district.
 > **Methodology note, for the next round.** **Borrowed Form is now 3 for 3** — the Markets learned mourning
 > from Zukelli, the Frostlands' only durable record-form is Denison's recitation, and the Undergrid's only
 > closure instrument is Davis's and Casey's. **Three consecutive districts in which the missing faculty was
-> supplied by an incoming community and filed by the host as pleasant local colour.** That is no longer an
+> supplied by an incoming community and filed by the host as pleasant local color.** That is no longer an
 > occasional technique.
 
 ---
@@ -963,7 +963,7 @@ finding about itself.
 **Second-order, and it is the substrate's own observation arriving as an institution:** the district that
 maintains everything **does not maintain itself.** The purification line is audited twice, independently, on
 interval, forever. **The people running it are on their fourth consecutive double shift and nobody is
-measuring that**, because measuring it would mean pricing their labour (Finding VII), and the one thing the
+measuring that**, because measuring it would mean pricing their labor (Finding VII), and the one thing the
 Undergrid will not do is put a number on itself.
 
 ---
@@ -1094,7 +1094,7 @@ specific form. **They changed nothing.** Recorded as decoration rather than decl
 titles.
 
 **Genuine omission:** **merchant navy engine room crews.** Not researched, and it is the pick most likely to
-have paid — invisible skilled labour below deck, a chief engineer's independent authority over the plant, and a
+have paid — invisible skilled labor below deck, a chief engineer's independent authority over the plant, and a
 watch system — all of which speak directly to Findings XII and XXII. **Named as a real gap and flagged as the
 first pick to spend on any future Undergrid pass.** *(Montreal's RÉSO, Chicago's freight tunnels and Coober
 Pedy were not reached; the two catacomb-class picks above indicate the cluster's likely yield, which is an
@@ -1313,7 +1313,7 @@ nobody can measure.)*
 
 **9. The Lover faculty** *(mandatory — is this place alive, and could anyone love it?)*
 
-**Yes, and the evidence is that it makes beautiful things where nobody will ever see them.** Colour-coded runs
+**Yes, and the evidence is that it makes beautiful things where nobody will ever see them.** Color-coded runs
 laid with intention. Decorated junction boxes. Specific junctions made beautiful, **completely seriously**, by
 people who would be embarrassed to call it art and who have never mentioned it to the surface.
 

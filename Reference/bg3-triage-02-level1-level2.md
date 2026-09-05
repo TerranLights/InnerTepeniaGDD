@@ -22,7 +22,7 @@ category · 6 = Doesn't translate — drop.
 | Bless | 1 | Quickhack: squad-link encouragement/stim broadcast over the Bridge Unit tether, giving up to 3 allies a flat accuracy/resolve boost for its duration. |
 | Charm Person | 1 | Quickhack: short jack-in compliance hack (or pheromone dose) on a human target per Enchantment's neural-interface/chemical mapping — suppresses hostile action against the user unless the user harms them first. |
 | Chromatic Orb | 5 | Item: a selectable-payload energy sidearm — the player picks the active damage type (Acid/Cold/Fire/Lightning/Poison/Thunder, all already defined in Damage_Types.md) per shot; routes through the existing ranged hit-chance system since it uses an attack roll. |
-| Colour Spray | 1 | Quickhack: cone-area dazzler/flashbang pulse (holographic overload per the Illusion mapping) blinding everyone under a combined toughness threshold for a short duration. |
+| Color Spray | 1 | Quickhack: cone-area dazzler/flashbang pulse (holographic overload per the Illusion mapping) blinding everyone under a combined toughness threshold for a short duration. |
 | Command | 1 | Quickhack: short jack-in command-injection forcing a simple compliance behavior (approach/drop weapon/flee/halt/kneel) on a human or robot target through the Bridge Unit interface. |
 | Compelled Duel | 1 | Quickhack: aggro-lock/taunt signal fixing a target's combat focus on the user, giving it accuracy disadvantage against anyone else for its duration. |
 | Create or Destroy Water | 5 | Item: a portable atmospheric condenser/drainage charge that conjures or clears a water surface in an area, interacting with the existing Wet/ice-terrain hazard mechanics. |

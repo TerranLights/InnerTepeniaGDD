@@ -61,7 +61,7 @@ district's headline function, traded citywide and entirely unsolemn.
 
 ## 10. Membership by Unremarked Persistence
 
-**[one instance]** Cancer: placed into ordinary needed labour on arrival; residency is simply what has happened
+**[one instance]** Cancer: placed into ordinary needed labor on arrival; residency is simply what has happened
 once the term ends and you're still doing it.
 
 ## 13. The Unused-Tier Mine

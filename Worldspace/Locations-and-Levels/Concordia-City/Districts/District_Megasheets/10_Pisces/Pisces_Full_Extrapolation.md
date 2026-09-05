@@ -396,13 +396,13 @@ through and impossible to describe. Residents stop hearing it entirely and are d
 
 **The smell is the district's most distinctive sense and the one visitors remember**: cooking from open ground
 floors, damp, solvent and coolant from the clinics, and the particular sweetish note of dream-tech equipment
-running warm. **It changes every twenty metres and never clears.**
+running warm. **It changes every twenty meters and never clears.**
 
 **On the light, §III is sustained and sharpened.** The purple/blue/red has **no functional origin** — unlike
 the Circuit's tracks, it carries no information. It is the accumulated glow of dense signage, den advertising
 and **clinic equipment**, two and a half centuries deep. §III proposes the Believers retroactively assigned it
 meaning; that stands. **The correction is that the clinic equipment is the largest single contributor**, which
-means the district's sacred-feeling light is, in origin, the colour of the machines that caused the Flood.
+means the district's sacred-feeling light is, in origin, the color of the machines that caused the Flood.
 **Nobody in-world has noticed this and it should never be stated by an NPC.**
 
 ---
@@ -1209,7 +1209,7 @@ some time.
 **The Markets do have an archive. It is people, and it is dying.** The only provenance instrument the district
 possesses is the handful of long-lived residents who **personally remember which object passed through whose
 hands** — who can say, unprompted, that they saw that thing in a different room forty years ago and it was a
-different colour. Finding XI's readers work on material; **the elders work on history**, and between them they
+different color. Finding XI's readers work on material; **the elders work on history**, and between them they
 are the entire verification apparatus of the district.
 
 **And nobody has recorded any of it**, because recording is precisely the faculty that has no home here. **This

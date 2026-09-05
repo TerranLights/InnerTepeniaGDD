@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| **Real-world basis** | Mawson Station (Australia/AAD, 1954), Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E) |
+| **Real-world basis** | Mawson Station (Australia/AAD, 1954), Horseshoe Harbor, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E) |
 | **Status** | Damaged, partially operational — the subnet hub |
 | **Subnet** | Mawson — hub city, Hwy 4 between the Sayowa Junction and Sinheung |
 | **Population (Census II)** | 427,321 humans / 525,125 robots / 952,446 combined |

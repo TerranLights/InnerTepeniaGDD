@@ -152,7 +152,7 @@ approaching a neighbour for a capacity has never been on the list of things one 
 **Third-order, and it is the district's own myth stated as a mechanism.** The founding figure this district
 takes its self-image from is a teacher and healer **who could cure everyone except himself** — and whose only
 route out of an incurable wound was to hand something to somebody else rather than to ask for anything. **The
-Frostlands will send you help across a hundred kilometres of ice, and have no procedure whatsoever for
+Frostlands will send you help across a hundred kilometers of ice, and have no procedure whatsoever for
 requesting any.**
 
 **Fourth-order.** So the relationship with the Undergrid — the one district that could actually solve the
@@ -312,7 +312,7 @@ district's only verse**, and it is the only part of its oral culture built to ca
 without drift.
 
 **Third-order.** So the durable record-form the district's preservation crisis requires is **already inside
-the district**, was **imported by refugees**, and is **filed under regional colour.** The Preservation Lodges
+the district**, was **imported by refugees**, and is **filed under regional color.** The Preservation Lodges
 are recording elders in prose while the one working instrument sits in the same room being enjoyed as a
 mannerism.
 
@@ -423,7 +423,7 @@ is no signal for it, no announcement, and nothing anybody can do but keep listen
 volume; the outdoor sensation people actually describe is **not cold but the abrupt transition** — the moment
 of stepping out, which never becomes routine and which residents describe with the same phrase their
 grandparents used. And the light is low, long-shadowed and blue-shifted for most of the year, which is why
-interiors here are painted in the brightest colours in Concordia.
+interiors here are painted in the brightest colors in Concordia.
 
 ---
 
@@ -522,8 +522,8 @@ record would say elsewhere. **A visibly new outer layer is the conspicuous garme
 assumption is that its owner has recently lost one.
 
 **Second-order, and it is the general/narrow distinction doing real work.** Because the outer layer does all
-the thermal labour, **what people wear underneath is thin, cheap, and extremely bright** — the district's
-interiors are the most colourful in Concordia (Finding XV) and so is its indoor clothing. **Visitors who only
+the thermal labor, **what people wear underneath is thin, cheap, and extremely bright** — the district's
+interiors are the most colorful in Concordia (Finding XV) and so is its indoor clothing. **Visitors who only
 ever see Frostlanders outdoors believe the district dresses in grey and brown.** Residents find this funny and
 do not correct it.
 
@@ -734,7 +734,7 @@ noticed that its grief practices are all designed for deaths it can describe.**
 *(Phase 8.)*
 
 **The general baseline first** *(`00b`)*. Canon's population is rugged cold-weather navigation models, mobile
-survey units, caravan escort and defence frames, **"hope engine" personalities designed for morale in
+survey units, caravan escort and defense frames, **"hope engine" personalities designed for morale in
 isolation**, and **recovered or jury-rigged units from lost expeditions.** Ordinary human-robot life here is
 unceremonious and close: crews are small, isolation is long, and the distinction people actually care about is
 **who has been out with you**, which applies identically to both kinds of person. **A robot accrues clan
@@ -754,7 +754,7 @@ needing any.** In a district that can only carry what means something (Finding V
 frame is the only non-narrative recorder the Frostlands possess.**
 
 **Third-order, and it is the same shape as Finding XII.** The district has **two working answers to its own
-preservation crisis already inside it** — an imported fixed-form recitation it files under regional colour, and
+preservation crisis already inside it** — an imported fixed-form recitation it files under regional color, and
 a population of machines that record without interpreting — **and it treats the first as an accent and the
 second as a repair job.** The Jury-Rig Recovery Workshops exist to get salvage frames working again. Nobody
 runs them to find out what the frames saw.
@@ -889,7 +889,7 @@ above**, because the Hub is deferred by the developer and scoping it here would 
 
 1. **The geometry of the overlap is not a border dispute.** Ophiuchus occupies roughly **the middle twenty of
    Sagittarius's thirty days**, leaving the Frostlands only its two edges. **The Hub does not take a border of
-   the Frostlands. It takes the centre and leaves the frontier its frontier.**
+   the Frostlands. It takes the center and leaves the frontier its frontier.**
 2. **The relationship is teacher and student, not neighbours.** Asclepius was cut from his mother's pyre and
    **given to Chiron to raise**; he surpassed his teacher, raised the dead, and was destroyed for it — while
    Chiron, famously, could not heal his own wound. **The Frostlands/Hub friction is a teacher who cannot
@@ -1302,7 +1302,7 @@ district gives away everything it can articulate, and the Magician silence above
 
 **What the charge catches is the *effect*.** The Frostlands have **two working answers to their own
 preservation crisis physically present in the room** — an imported fixed-form recitation filed as regional
-colour (Finding XII), and a population of machines that record without interpreting (Finding XXV) — **and use
+color (Finding XII), and a population of machines that record without interpreting (Finding XXV) — **and use
 neither.** And the district's standing explanation, offered sincerely and constantly, is *we're an oral
 culture; that's just how it is.*
 

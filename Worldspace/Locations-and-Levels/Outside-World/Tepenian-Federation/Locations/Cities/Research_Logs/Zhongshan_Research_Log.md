@@ -58,7 +58,7 @@ against was:** *Zhongshan has no forcing function, and therefore no signal that 
 | Fact | Where it went |
 |---|---|
 | ⭐ Barton Creek Greenbelt is central to Austin's identity, **yet "the story of how it was preserved has largely faded from public memory"** | ⭐ **Direct hit on the deficit.** Fed **Finding VII** and the Phase 6 refusal (**Finding X**) |
-| **"Keep Austin Weird"** coined 2000 by Red Wassenich **on a KOOP Radio pledge drive**; intent was to name the city's *"unserious, unmaterialistic"* quality | **Finding XIII** conceptually — a city manufacturing a defence for a quality that is eroding with nobody deciding to erode it |
+| **"Keep Austin Weird"** coined 2000 by Red Wassenich **on a KOOP Radio pledge drive**; intent was to name the city's *"unserious, unmaterialistic"* quality | **Finding XIII** conceptually — a city manufacturing a defense for a quality that is eroding with nobody deciding to erode it |
 | Barton Springs **acquired by the city in 1918**; became the symbol of the residential city | Background; not used directly |
 | Austin's culture attributed to **cheap housing after a 1980s bust + the university** — an accident of conditions, not a plan | **Finding VI** — culture as an artifact of a moment rather than a decision |
 | 1908–09 governance reform (aldermanic → commission) | **OMITTED** — no fit |
@@ -96,7 +96,7 @@ against was:** *Zhongshan has no forcing function, and therefore no signal that 
 
 | Fact | Where it went |
 |---|---|
-| Founded **1723** as an industrial centre, **developed on a strict regular plan** | **OMITTED** — Zhongshan's founding is diplomatic, not industrial. Recorded rather than forced |
+| Founded **1723** as an industrial center, **developed on a strict regular plan** | **OMITTED** — Zhongshan's founding is diplomatic, not industrial. Recorded rather than forced |
 | ⭐ **Highest concentration of Constructivist architecture in the world — 140+ structures** — produced by building enormously in one window while one approach was obvious | ⭐ **Finding VI** — architectural monoculture arrived at without anyone choosing it |
 | **Uralmash socialist city** — a whole ensemble built around one industrial works | **Finding VI** supporting |
 | **Chekists' Village (1929–36)** — purpose-built for one occupational group and their families | **Phase 10** — *The Quarter of One Trade* |
@@ -110,7 +110,7 @@ against was:** *Zhongshan has no forcing function, and therefore no signal that 
 - Historic Royal Palaces — *Beating the Bounds: A centuries-old tradition*
 - St Martin-in-the-Fields — *What is beating the bounds?*
 - Huntington Library (Ashgate 2008, ch. 11) — *Beating the Bounds of the Parish*
-- Wiltshire & Swindon History Centre; Tradfolk
+- Wiltshire & Swindon History Center; Tradfolk
 
 **Facts extracted:**
 
@@ -155,7 +155,7 @@ forcing-function comparanda.
 | **Vilnius's hidden courtyards** | Phase 3 was already carrying an architecture finding | Interior/level-design texture; a second Phase 3 finding for a later pass |
 | **Lake retention times** *(the Copernicus paper was surfaced but not read in full)* | The headline drainage fact was sufficient | **Real numbers on how long water sits in each lake** — would sharpen Finding VII's water-testing rationale considerably, and might produce a per-lake character |
 | **Antarctic Specially Managed Area 6 management plan** *(ASMA06_en.pdf, surfaced, not read)* | Time | **A real governance document for exactly this site**, covering how three stations from three nations coordinate in one oasis. **Probably the single highest-value unread source for Phase 5 and Phase 7b** |
-| **Dålk glacier calving behaviour** | The seawater-surge fact was enough | Frequency and scale would let Finding V's east/west smell split be dated and made periodic rather than ambient |
+| **Dålk glacier calving behavior** | The seawater-surge fact was enough | Frequency and scale would let Finding V's east/west smell split be dated and made periodic rather than ambient |
 | **Real Zhongshan Station's own layout and buildings** | Not needed for a culture pass | Phase 10 named-place grounding |
 | **Stornes peninsula's phosphate mineralogy** *(referenced in ASMA material)* | Not surfaced in the summaries | Possible second non-thematic export; would need checking against `Per_City_Weapons`/materials canon |
 | **Austin's greenbelt preservation campaign in detail** | The "faded from memory" fact was the payload | A concrete civic-campaign mechanism, if Zhongshan ever needs one |

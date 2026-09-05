@@ -30,7 +30,7 @@ Rises before the first shift regardless of the schedule. Makes a circuit of ever
 A small room off the main shelter, accessible by a door that is never locked. Has not lived anywhere else in forty years. The room has two chairs — one for her, one for whoever needs to sit — and a collection of small objects left by residents who moved on: a drawing, a painted shell, a small worn-smooth stone. She does not display them ceremonially. They are just there, accumulated, like the years.
 
 **Physical notes:**
-The replacement synthetic skin on the arm has been colour-matched as closely as possible to the rest of her skin tone, though the texture difference remains visible — an attempt at uniformity she has made no further effort to correct. A faint healed line runs along her left shoulder where the repair meets the original. She moves carefully in a way that is clearly habitual rather than impaired.
+The replacement synthetic skin on the arm has been color-matched as closely as possible to the rest of her skin tone, though the texture difference remains visible — an attempt at uniformity she has made no further effort to correct. A faint healed line runs along her left shoulder where the repair meets the original. She moves carefully in a way that is clearly habitual rather than impaired.
 
 **Player interaction note:**
 NPC-Cancer-Unlimited-Elder-Caregiver gives the player information in stories, not arguments. She will tell you about a specific person. She will not tell you the principle; she trusts you to derive the principle. If you can't, she isn't sure what to do with you. She is the NPC most likely to make the player feel guilty for choices they haven't made yet.

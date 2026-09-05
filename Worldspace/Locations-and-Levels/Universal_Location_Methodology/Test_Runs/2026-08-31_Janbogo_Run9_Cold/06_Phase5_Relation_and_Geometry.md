@@ -94,7 +94,7 @@ Given the port/trade economy (Economy & Industry, admissible) and Phase 2's "cho
 genuine, substantial population layer, the most economy-derived candidate is **sustained participation in
 the port/supply economy itself** — continuing to work cargo, logistics, or subnet administration past
 whatever the initial arrival purpose was. **This is directly parallel to `Cultural_Synthesis_Techniques.md`
-Technique 10 (Membership by Unremarked Persistence)'s own "continuous labour needs → a work term, you're a
+Technique 10 (Membership by Unremarked Persistence)'s own "continuous labor needs → a work term, you're a
 local once you're still there after it" pattern** — named here as a candidate rather than asserted as
 settled, since a genuine run of that technique belongs at Phase 8 (Making) where the rest of the toolkit
 gets applied.

@@ -148,11 +148,11 @@ silently either way.
 2026-08-29; this section previously read "None yet," which was already false when written.)*
 
 It is the best model available for this phase, and worth reading before starting a new district — **but take
-its method, not its content.** Cancer's robot culture organises around care and continuation because that is
-Cancer; another district's will organise around something else entirely, and any finding here that could be
+its method, not its content.** Cancer's robot culture organizes around care and continuation because that is
+Cancer; another district's will organize around something else entirely, and any finding here that could be
 lifted onto a different district unchanged has failed Gate 4. What to take from it:
 
-- **The theme/role-based lens applied concretely** — Cancer's robot culture organises around the district's
+- **The theme/role-based lens applied concretely** — Cancer's robot culture organizes around the district's
   defining vocation (care and continuation) rather than around robot-ness as such.
 - **Inheritance and Iceberg tagging on every finding** — each is marked *genuinely emergent* / *adapted
   pool-draw* / *mixed*, and placed at Surface or Deep Culture.

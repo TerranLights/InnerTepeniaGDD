@@ -381,7 +381,7 @@ tether is BIDIRECTIONAL and carries PASSENGERS**, which are precisely the two th
 
 **A tether is not blocked by physics; it is blocked by manufacturing.** It demands a
 continuous filament of a specific strength no material has ever been produced at, in
-lengths of tens of thousands of kilometres. **Everything else about the design works.**
+lengths of tens of thousands of kilometers. **Everything else about the design works.**
 
 > ### ⭐ **And this setting already has the piece that makes the answer interesting:
 > Hana Jinn's metamaterials research**, cited twice above as what makes the Tower's

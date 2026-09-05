@@ -1206,7 +1206,7 @@ precedent for. This is likely close to fully mined already.)*
 
 - **Coping Mechanisms as their own explicit category.** "Over a lifetime we unconsciously develop coping
   mechanisms to avoid pain or deny unpleasantness... these can improve or distort our self-image." This
-  independently converges with Boutros's "coping/defence mechanism" questionnaire item (*The Craft of
+  independently converges with Boutros's "coping/defense mechanism" questionnaire item (*The Craft of
   Character*, above) — worth treating as a first-class field on a Doll's core sheet rather than an optional
   extra, given two unrelated craft sources both singled it out.
 

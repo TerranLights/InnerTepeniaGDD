@@ -302,7 +302,7 @@ func reset_to_default_angle() -> void:
 
 Register these in Godot's Input Map (Project Settings → Input Map):
 
-| Action Name | Default Binding | Behaviour |
+| Action Name | Default Binding | Behavior |
 |---|---|---|
 | `camera_pan_forward` | W | Pan camera forward |
 | `camera_pan_backward` | S | Pan camera backward |

@@ -118,7 +118,7 @@ group's buried material *"will not only bring the taboos to the surface but will
 **Productive:** *"planets in opposition ensure that neither side becomes too extreme."* The opposition is a
 governor — remove one pole and the other runs away. **Wrong:** oscillation rather than holding both, escaping
 to whichever pole currently hurts less. Emerson's blunt version: *"you are left to either cooperate or break
-things off altogether… if you don't find the solution this way, the opposing energies will take centre stage in
+things off altogether… if you don't find the solution this way, the opposing energies will take center stage in
 your life."*
 
 **Trine — 120°, four apart.** Same element and polarity; so natural it is invisible. Martin: *"Trines are very
@@ -152,7 +152,7 @@ existence.
 
 Martin's definition is the sharpest thing in the corpus on it: *"awkward and vaguely annoying aspects because
 the two planets have nothing in common. They can't function separately because they are in aspect, but at the
-same time they don't recognise each other."* On her worked Aries/Virgo example: *"these two do not confront
+same time they don't recognize each other."* On her worked Aries/Virgo example: *"these two do not confront
 each other, as they would with a square, or support each other, as they would with a trine or sextile, but they
 are connected in a rather awkward and unsatisfactory way."*
 
@@ -312,7 +312,7 @@ Circuit↔Frostlands, Undergrid↔Markets.
 - **An aspect is a grammar, not a verdict.** A square does not mean two districts hate each other; it means
   their friction has a specific *shape* — same urgency, different object, no shared vocabulary. Districts can
   be squared and allied. Martin is explicit that *"squares are not necessarily difficult and trines are not
-  necessarily easy — it all depends on the context,"* and that every aspect *"needs to be analysed entirely in
+  necessarily easy — it all depends on the context,"* and that every aspect *"needs to be analyzed entirely in
   its own terms."* Flattening squares into "enemies" and trines into "friends" discards everything the system
   is for.
 - **Never carry the label into fiction.** Nobody in Concordia knows any of this. Read the aspect → derive the

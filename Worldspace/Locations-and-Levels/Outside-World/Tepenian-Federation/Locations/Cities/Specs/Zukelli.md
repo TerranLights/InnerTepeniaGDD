@@ -60,7 +60,7 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 
 **Climate data source:** Italian National Antarctic Research Program (PNRA) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1987–2026)  _https://legacy.bas.ac.uk/met/READER/_
 
-*(Research note: verify all figures against Mario Zucchelli Station climate records — the Italian National Antarctic Research Programme (PNRA) and ENEA maintain historical data. Zucchelli and Jang Bogo stations are at essentially the same location; cross-reference Janbogo.md climate data, which applies here as well.)*
+*(Research note: verify all figures against Mario Zucchelli Station climate records — the Italian National Antarctic Research Program (PNRA) and ENEA maintain historical data. Zucchelli and Jang Bogo stations are at essentially the same location; cross-reference Janbogo.md climate data, which applies here as well.)*
 
 **Climate type:** Katabatic coastal, Terra Nova Bay — a microclimate shared with Janbogo
 **Mean annual temperature:** -14.0°C  _(READER station: Mario_Zucchelli; 1991–2020 WMO standard normal)_

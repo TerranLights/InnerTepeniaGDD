@@ -251,7 +251,7 @@ directly from the city being sited at the bottom of a drain.*
 >
 > ⭐ **The founders' contribution was not demographic weight but the DARE.** Mawson's expedition proved a
 > human presence at the windiest sea-level site on Earth was possible — barely — and the exiles took that as
-> licence rather than warning. **The city that grew was overwhelmingly Pacific-corridor, and it inherited an
+> license rather than warning. **The city that grew was overwhelmingly Pacific-corridor, and it inherited an
 > Australian premise it never inherited an Australian population to carry.**
 >
 > *(Compare `Specs/Belgrano.md`, where founding-operator heritage and eventual composition also diverge —

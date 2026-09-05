@@ -158,7 +158,7 @@ edition, not two different printings.
 
 ### SAS Urban Survival Handbook — John "Lofty" Wiseman
 12 chapters: Essentials; Safety First; DIY/Craft Hazards; Poisons; Fire!; Security; Work & Play; In Transit;
-Self-Defence; Terrorism; Disasters; Health.
+Self-Defense; Terrorism; Disasters; Health.
 
 ### The Bushcraft Field Guide to Trapping, Gathering, and Cooking in the Wild — Dave Canterbury (2016)
 Part 1: Packed-In Food (deciding what to bring, minimal-processing foods, whole foods, supplemental
@@ -1044,7 +1044,7 @@ already cataloged under `Genetics/identification/` above — not re-listed here.
   T.A. Brown joining as co-author) in `Genetics/synthetics/`. 15 chapters: Basic Molecular Biology, How to
   Clone a Gene, Cutting/Joining DNA, Vectors, Genomic/cDNA Libraries, Finding the Right Clone, PCR,
   Characterization of a Cloned Gene, Analysis of Gene Expression, Products from Native/Manipulated Cloned
-  Genes, Genomic Analysis, Analysis of Genetic Variation, Post-Genomic Analysis, Modifying Organisms/
+  Genes, Genomic Analysis, Analysis of Genetic Variation, Post-Genomic Analysis, Modifying Organizms/
   Transgenics.
 - **Methylation: From DNA, RNA and Histones to Diseases and Treatment** — ed. Anica Dricu (2012, InTech,
   open access). 5 sections, 11 chapters: Gene Expression and Methylation (transcription factors/DNA
@@ -1275,8 +1275,8 @@ dropped by the developer.
 per-title below, title only from filename, same convention as elsewhere in this reference.*
 
 ### The Wealth of Nations — Adam Smith (ElecBook Classics edition)
-Introduction and Plan of the Work; Book One: Causes of Improvement in the Productive Powers of Labour
-(Division of Labour, Origin of Money, Price of Commodities, Wages, Profits, Rent of Land — extensive
+Introduction and Plan of the Work; Book One: Causes of Improvement in the Productive Powers of Labor
+(Division of Labor, Origin of Money, Price of Commodities, Wages, Profits, Rent of Land — extensive
 sub-parts); Book Two: Nature, Accumulation, and Employment of Stock (Division of Stock, Money as Capital,
 Accumulation of Capital, Stock Lent at Interest, Different Employments of Capital) — TOC continues into
 further Books beyond the read range.
@@ -1511,7 +1511,7 @@ future task, not just general reference.
   Rules of Movement (starting position, promotion, major/minor pieces, capturing, drops, checkmate); (4)
   Comparison of Shogi with Chess (starting position, captured-piece reuse, piece values); (5) Introduction to
   Shogi Strategy and Tactics; (6) The Endgame (hunting/harvesting the king, mating nets, checkmate problems
-  and solutions); (7) Balancing Attack with Defence (static rook vs. ranging rook); (8) Castles (double
+  and solutions); (7) Balancing Attack with Defense (static rook vs. ranging rook); (8) Castles (double
   static rook, ranging rook, anti-ranging-rook, Anaguma); (9) Attack! (rook's pawn exchange, bishop's
   diagonal, climbing/reclining silver, sacrifices); (10) Two Historical Games (the oldest recorded complete
   shogi game, 1607; an 1856 Edo Castle game); (11) Shogi Handicap Games (2-piece through rook-only handicaps).

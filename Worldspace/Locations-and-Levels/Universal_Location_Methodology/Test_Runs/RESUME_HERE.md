@@ -741,9 +741,9 @@ or a signature phrase — stop reading it, and add a banner before you continue.
    recorded catches have come from this, not from its interpretive half.
 8. **American English throughout — and this needs an actual mechanical sweep, not just intent.** A rule
    requiring per-sentence vigilance is a rule self-audit is bad at catching in its own prose. **Run a grep
-   sweep for common British spellings (colour, favour, humour, behaviour, centre, organise/-d, realise,
-   analyse, travelling, modelling, labelled, programme, defence, licence, practise, pretence, grey, amongst,
-   whilst, learnt, towards, neighbour, and "sport" where "sports" is meant) before considering any pass
+   sweep for common British spellings (color, favour, humour, behavior, center, organize/-d, realise,
+   analyze, travelling, modelling, labelled, program, defense, license, practise, pretence, grey, among,
+   while, learnt, towards, neighbour, and "sport" where "sports" is meant) before considering any pass
    finished** — this rule has been found broken, undetected, in the methodology's own governing rule text more
    than once, not only in fresh drafting.
 

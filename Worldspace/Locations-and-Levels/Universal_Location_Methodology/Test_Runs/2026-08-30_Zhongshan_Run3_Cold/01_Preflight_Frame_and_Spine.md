@@ -39,7 +39,7 @@ it before trusting any finding here**, because two files on the handoff's admiss
                             and Byrd's exception is abandonment — the opposite kind.
 - Known notable absence:    no majority nation; no second bloc; no founding crisis; no transit traffic.
 - Known routes:             Hwy 4 · Hwy 22 · Hwy 110 all terminate at one shared point.
-                            Tri-Cities Airport (1 of 9 nationally). Prydz Bay harbour.
+                            Tri-Cities Airport (1 of 9 nationally). Prydz Bay harbor.
 - Known residents:          NONE USED. Four named figures exist in `Specs/` but every one is cited
                             to the withheld Full Extrapolation. Quarantined.
 
@@ -191,7 +191,7 @@ which is `01` §5.2 rule 4, checked at Step 5 rather than asserted here.**
 |---|---|
 | **STRENGTH** | **It builds on rock.** Ice-free terrain means foundations that do not move, are not re-levelled, and do not bury. Add a deepwater bay, real topography with an actual horizon, summer meltwater, and a light cycle that is *moderate* by Tepenian standards — 60 days of night where the plateau cities get months |
 | **DEFICIT** | No soil, no wood, no growing season — **it cannot feed itself.** And the bay freezes, so **the one route that is unambiguously Zhongshan's own is seasonal** |
-| **STANDING COST** | ⚠ **Conspicuously LOW.** No ice-shelf correction (Halley), no extreme-cold regime (Vostok −54.8, Kunlun −58, Dome Fuji −54, Concordia −52.7), no Denison-scale katabatic engineering, no island resupply cap. The continuous obligations are ordinary: heat, power, snow, keep the harbour open |
+| **STANDING COST** | ⚠ **Conspicuously LOW.** No ice-shelf correction (Halley), no extreme-cold regime (Vostok −54.8, Kunlun −58, Dome Fuji −54, Concordia −52.7), no Denison-scale katabatic engineering, no island resupply cap. The continuous obligations are ordinary: heat, power, snow, keep the harbor open |
 | **GRUDGING TOLERANCE** | **Being outdoors.** At 0 °C in January it is genuinely pleasant by national standards; at −22 °C in July it is not. Nothing forbids outdoor life, and for ~60 days a year it simply stops |
 
 **Third-order chase** *(LAW 0)*: ice-free bedrock → **the environment is survivable with ordinary competence** →
@@ -219,19 +219,19 @@ single-population habitation, 2083–2564.*
 ### G5 — Network position
 
 *Hwy 4, Hwy 22 and Hwy 110 all **terminate** at one shared physical point. Tri-Cities Airport, 1 of 9 nationally.
-Prydz Bay harbour. Two of Tepenia's five hitchhiking-valid highways end here.*
+Prydz Bay harbor. Two of Tepenia's five hitchhiking-valid highways end here.*
 
 | Quadrant | Content |
 |---|---|
 | **STRENGTH** | **Reachability, at a level only the capital matches.** Three highway endpoints converge here and at exactly one other place in Tepenia — Concordia — **and Concordia has no airport.** Zhongshan has road, air and sea |
 | **DEFICIT** | ⚠ **It is a terminus, not a corridor. Nothing passes through it.** All three highways *end*; past the junction there is sea and two neighbours. Maximal arrival, **zero transit** |
-| **STANDING COST** | Keeping the junction and the harbour open — **and the junction is jointly held**, so the duty belongs to three cities and therefore to nobody in particular |
+| **STANDING COST** | Keeping the junction and the harbor open — **and the junction is jointly held**, so the duty belongs to three cities and therefore to nobody in particular |
 | **GRUDGING TOLERANCE** | **Leaving.** Four exit routes, two of them hitchhiking-valid. Departure from Zhongshan is unusually cheap and nothing stands in its way |
 
 **Third-order chase**: three roads end here → **Zhongshan is the far end of the country** — Hwy 110's two
 endpoints are Zhongshan and the capital, so its national meaning is *the place at the other end of the road* →
 **and it does not even hold that alone**: the junction and the airport belong to three cities, leaving the
-harbour and Hwy 110's named endpoint as the only infrastructure that is unambiguously Zhongshan's.
+harbor and Hwy 110's named endpoint as the only infrastructure that is unambiguously Zhongshan's.
 
 ### G8 — Demographic composition and change
 

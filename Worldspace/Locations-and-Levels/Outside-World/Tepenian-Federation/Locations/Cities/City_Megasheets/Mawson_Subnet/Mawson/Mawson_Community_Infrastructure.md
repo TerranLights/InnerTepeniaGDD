@@ -8,7 +8,7 @@
 
 - **The Subnet Hub Arcanet Installation** — the Mawson subnet's primary communications node, damaged but partially functional; intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape than the severed inter-subnet link.
 - **Holme Bay Harbor** *(real-world name, flagged for eventual future renaming — see TODO.md's new geographic-naming timeline note)* — the primary maritime entry point.
-- **The Prince Charles Mountains Overlook** *(real-world name, flagged for eventual future renaming, same as Holme Bay)* — the customary honeymoon-visit site above Horseshoe Harbour, timed to whichever of polar night or midnight sun is in season.
+- **The Prince Charles Mountains Overlook** *(real-world name, flagged for eventual future renaming, same as Holme Bay)* — the customary honeymoon-visit site above Horseshoe Harbor, timed to whichever of polar night or midnight sun is in season.
 - **The Public Libraries** — a genuine civic institution, consistent with the city's hospitality-forward character.
 - **The Hospitality Infrastructure** — the earliest dedicated honeymoon-destination accommodations, formalized from what began as incidental reputation.
 - **The Welcome Plaza** *(added 2026-07-31)* — a large, central civic gathering space built explicitly around Mawson's hospitality-first identity, distinct from more transactional commercial or harbor space.

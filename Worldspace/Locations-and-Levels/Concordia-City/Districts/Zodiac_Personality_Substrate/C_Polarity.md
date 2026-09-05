@@ -19,7 +19,7 @@ What polarity *does* add — the one thing element alone cannot tell you — is 
 
 ## 2. Active Mode
 
-Martin: the Active principle "describes motion from a centre outwards. A yang orientation is a driving energy, forceful, active, impulsive and dominant. **It creates and destroys.**" Object-oriented, sociable, "not afraid to jump into unknown situations." Silva: displays "powers through outwardly directed action." Jung's parallel, which Martin draws explicitly, is **extraversion** — meaning drawn from the outside world, "from activity and involvement and achievements in the world."
+Martin: the Active principle "describes motion from a center outwards. A yang orientation is a driving energy, forceful, active, impulsive and dominant. **It creates and destroys.**" Object-oriented, sociable, "not afraid to jump into unknown situations." Silva: displays "powers through outwardly directed action." Jung's parallel, which Martin draws explicitly, is **extraversion** — meaning drawn from the outside world, "from activity and involvement and achievements in the world."
 
 Applied to a district: it *initiates*. It acts on its environment before the environment acts on it, states positions in public, expands by default, and treats an unresolved situation as something to be moved rather than absorbed.
 

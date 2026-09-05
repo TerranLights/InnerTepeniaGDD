@@ -150,7 +150,7 @@ Markets fad can be completely arbitrary and still spread.
 any hypocrisy or cynicism from the person being generous — matching this project's own non-malice discipline
 precisely.**
 
-The core claim: a meme for **generous, kind, altruistic behaviour** spreads well because people preferentially
+The core claim: a meme for **generous, kind, altruistic behavior** spreads well because people preferentially
 copy and befriend those who display it — being seen to help is itself a "say-me meme," talked about and
 imitated regardless of the giver's actual motive. Blackmore names the extreme historical case directly:
 **potlatch** — the Pacific Northwest practice of extravagant, sometimes destructive gift-giving specifically to
@@ -160,7 +160,7 @@ establish status through generosity, where the *scale* of the giving, not its pr
 > care-debt economy, the Undergrid's Junction Toasts and Quiet Credit (peer-issued informal sign-off), the
 > Markets' vouching system. None of these needs to be read as cynical status-signalling underneath a surface of
 > kindness. **The book's own framing is the opposite: sincere generosity and effective self-replication are the
-> same behaviour, observed from two different angles**, which is exactly the register this project's shadow
+> same behavior, observed from two different angles**, which is exactly the register this project's shadow
 > discipline (`00d`) asks for — no villain required, and the kindness is not undermined by also being
 > explicable.
 

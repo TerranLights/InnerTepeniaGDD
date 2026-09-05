@@ -57,7 +57,7 @@ incidental spillover. No zero found where a hit was expected.
 
 **British spelling sweep** (`01` §6):
 ```
-$ grep -inE "colour|favour|humour|behaviour|centre|organise|organised|realise|analyse|travelling|modelling|labelled|programme|defence|licence|practise|pretence|grey|amongst|whilst|learnt|towards|neighbour" *.md
+$ grep -inE "color|favour|humour|behavior|center|organize|organized|realise|analyze|travelling|modelling|labelled|program|defense|license|practise|pretence|grey|among|while|learnt|towards|neighbour" *.md
 (zero hits, exit code 1, across all 11 phase files, Frame/Pre-flight, and both step files)
 ```
 **American English confirmed throughout, independently re-verified at Step 7** (not merely trusted from

@@ -298,7 +298,7 @@ does still doing it convert them into a resident?*
 
 | Local economy | Plausible conversion mechanism |
 |---|---|
-| Continuous labour needs | A work term; you're a local once you're still there after it |
+| Continuous labor needs | A work term; you're a local once you're still there after it |
 | Shift/rotation based | Having taken a full rotation, including the bad one |
 | Seasonal or hazardous | Having survived one cycle in place |
 | Credit or debt based | Having cleared a first obligation, or been extended one |
@@ -308,7 +308,7 @@ does still doing it convert them into a resident?*
 
 **Player value.** A reputation on-ramp that works without a quest ever announcing itself.
 
-**[one instance]** Cancer: placed into ordinary needed labour on arrival; residency is simply what has happened
+**[one instance]** Cancer: placed into ordinary needed labor on arrival; residency is simply what has happened
 once the term ends and you're still doing it.
 
 ---

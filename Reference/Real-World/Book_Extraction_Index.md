@@ -26,7 +26,7 @@ material that was already extracted and concluded it was missing. **Check this i
 
 > **A second track opened 2026-08-29: worldbuilding/culture extraction, distinct from the character-craft track
 > above.** Of 2,310 eBooks in `Reference/Materials/books/`, 23 had been extracted before this date — all
-> character-craft. The district-culture-synthesis programme (13 zodiac districts) had been running entirely on
+> character-craft. The district-culture-synthesis program (13 zodiac districts) had been running entirely on
 > live web research and the zodiac substrate with zero book support. This track targets that gap: philosophy,
 > religion, history, economics, psychology, memetics, strategy, and related clusters, prioritized by relevance
 > to active work (faction/religion design, district economies, survival culture, founding-era mass-movement

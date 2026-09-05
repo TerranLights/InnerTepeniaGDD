@@ -1,6 +1,6 @@
 # Mawson
 
-**Based on:** Mawson Station (Australia / Australian Antarctic Division), Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
+**Based on:** Mawson Station (Australia / Australian Antarctic Division), Horseshoe Harbor, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Mawson (hub city)
 **Access type:** ON
@@ -62,7 +62,7 @@
 
 ## Geographic Basis
 
-Mawson sits on Horseshoe Harbour in Holme Bay, Mac.Robertson Land — the East Antarctic coast facing the Indian Ocean. The position is coastal, with direct maritime access to the Prydz Bay region and the broader Indian Ocean Antarctic coastline. Mac.Robertson Land is one of the most rugged stretches of the East Antarctic coast, with the Prince Charles Mountains visible to the south.
+Mawson sits on Horseshoe Harbor in Holme Bay, Mac.Robertson Land — the East Antarctic coast facing the Indian Ocean. The position is coastal, with direct maritime access to the Prydz Bay region and the broader Indian Ocean Antarctic coastline. Mac.Robertson Land is one of the most rugged stretches of the East Antarctic coast, with the Prince Charles Mountains visible to the south.
 
 Australia's claim in Antarctica — the Australian Antarctic Territory — is the largest national Antarctic claim by area, covering approximately 42% of the continent. Mawson is the administrative heart of this claim and the founding city of the Mawson subnet.
 
@@ -181,4 +181,4 @@ Mawson's legacy is continuity — the city that never stopped being here, from 1
 - **Australian Antarctic Territory post-war — proposed 2026-07-07:** the claim persists as historical and ceremonial memory, bound up in St. Douglas veneration and founding-era civic pride, but carries no functional governmental authority in the post-Split-Brain reality — the same shape as Fort McMurdo's own historical-only national capital status, honored but not operative.
 - **Demonym — resolved 2026-07-07: Mawsonite**, following the same "-ite" suffix pattern already established at Kunlun (Kunlunite) and Davis (Davisite).
 - **Whether Mawson's own founding-nation demographic imbalance (Australia buried behind China) gets the same correction treatment Shirayuki and Sinheung received** — explicitly the developer's own call per `City_Vision_Notes/Mawson.md`, deliberately left open, not resolved here.
-- Specific honeymoon traditions beyond the general reputation — **proposed 2026-07-07:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbour, timed for whichever of polar night or midnight sun happens to be in season during the stay, treated as the honeymoon's own defining shared memory regardless of which extreme a couple encounters.
+- Specific honeymoon traditions beyond the general reputation — **proposed 2026-07-07:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbor, timed for whichever of polar night or midnight sun happens to be in season during the stay, treated as the honeymoon's own defining shared memory regardless of which extreme a couple encounters.

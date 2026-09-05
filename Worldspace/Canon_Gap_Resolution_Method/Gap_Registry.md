@@ -45,7 +45,7 @@ attempt at the project's ~2,872 `TBD` occurrences, which is deliberately and per
 > | **Mawson anchored the 1912 huts by BLASTING HOLES IN BEDROCK** and setting timber uprights in them, held with rock and ice — *"no earth or gravel existed"* | ⭐⭐ **Direct historical precedent for the anchoring method**, at the same site, in the same wind |
 > | **Upper moraine** (near the ice edge): diverse rock types, angular, poorly sorted — likely true glacial deposit | The valleys are fill, not rock — **spans must reach ridge to ridge** |
 > | **Lower moraine** (below 12 m asl): local rock, rounded, sorted, water-worn, includes lithified beach sand with foraminifera — likely **ice push**, not glacial | Shallow, unconsolidated — **not a foundation** |
-> | Cape is a **1.2 km rocky outcrop**; Mawson's huts sit **60 m from shore**; **Boat Harbour** is a 400 m coastal indent | Usable scale figures |
+> | Cape is a **1.2 km rocky outcrop**; Mawson's huts sit **60 m from shore**; **Boat Harbor** is a 400 m coastal indent | Usable scale figures |
 > | Little-studied **red sandstone and crystalline limestone** also present | Minor; unexamined |
 >
 > **⛔ Still unresearched when parked:** jointing/foliation orientation *(governs which way the rock will

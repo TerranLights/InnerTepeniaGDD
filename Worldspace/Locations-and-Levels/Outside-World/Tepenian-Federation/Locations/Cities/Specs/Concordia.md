@@ -97,7 +97,7 @@ Two districts break significantly from this pattern: **Capricorn** (the industri
 
 **Climate data source:** IPEV/ENEA (French-Italian Antarctic Program) — BAS READER (1991–2020 WMO standard normal, 16 years; full record 2005–2026)  _https://legacy.bas.ac.uk/met/READER/_
 
-*(Research note: verify all figures against Concordia Station climate records — Météo France / IPEV / PNRA are the primary operators. NOAA and the European Centre for Medium-Range Weather Forecasts (ECMWF) also publish Dome C data.)*
+*(Research note: verify all figures against Concordia Station climate records — Météo France / IPEV / PNRA are the primary operators. NOAA and the European Center for Medium-Range Weather Forecasts (ECMWF) also publish Dome C data.)*
 
 **Climate type:** Polar desert — East Antarctic Plateau
 **Mean annual temperature:** -52.7°C  _(READER station: Concordia; 1991–2020 WMO standard normal)_

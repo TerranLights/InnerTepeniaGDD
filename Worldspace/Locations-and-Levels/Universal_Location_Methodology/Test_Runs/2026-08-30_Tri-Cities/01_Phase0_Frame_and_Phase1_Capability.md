@@ -89,7 +89,7 @@ ice-free oasis, within **8 km**, two of them **a few hundred meters apart.**
 | | Zhongshan | Sinheung | Shirayuki |
 |---|---|---|---|
 | **G1** Symbol | Saturn + Metal | Uranus + Electricity | Uranus + Fire |
-| **G2** Physical | oasis · **harbour** · bedrock | oasis · **no harbour named** | oasis · **newest infrastructure** |
+| **G2** Physical | oasis · **harbor** · bedrock | oasis · **no harbor named** | oasis · **newest infrastructure** |
 | **G3** Function | precision manufacture, fishing, research | **fabrication-synthesis chambers** | **education, art, fashion** |
 | **G4** Founding | **Confirmed** — already theirs | **Inherited** — must keep proving | **Allocated to emptiness** |
 | **G5** Network | **Hwy 110 terminus + tri-junction** | Hwy 4 mid · airstrip → Dome Fuji | Hwy 4 terminus |

@@ -105,7 +105,7 @@ resident holds a recognized, unwritten right to plant, paint, hang, carve, or ot
 of their own dwelling **as far as they can physically reach from their own window**, and no further. The limit
 is the arm, not a permit. This is why a district as institution-dense as Cancer nonetheless reads as personal
 and hand-made at street level: every building, including the large ones, carries a continuous irregular band of
-individually-tended growth, colour, and small objects at roughly arm's height around each window, and each
+individually-tended growth, color, and small objects at roughly arm's height around each window, and each
 band is legibly the work of one specific person. It is the most-exercised right in the district, held by
 essentially everyone, and it is the clearest general-population expression of Cancer's whole "everyone
 contributes what they can" ethos — the contribution is small, physical, permanent, and yours.
@@ -170,7 +170,7 @@ that a caregiving district doesn't manufacture. Research on Arcosanti and Garden
 Cancer has two genuine physical export goods, both direct by-products of infrastructure it already runs.
 
 **(1) Cast windbells.** The district maintains a real foundry tradition, and windbells are its one true
-manufactured good — cast, tuned by ear, and traded across Concordia. They are Cancer's most recognisable
+manufactured good — cast, tuned by ear, and traded across Concordia. They are Cancer's most recognizable
 physical export precisely because they are not solemn: a Cancer bell in a Gemini stairwell or a Sagittarius
 waystation is an ordinary pleasant object, not a memorial. Bell-casting and bell-tuning are respected skilled
 trades with no caregiving component at all, which makes them one of the clearest examples of Cancer's economy
@@ -235,7 +235,7 @@ any feeder-city national link: a household altar holding photographs, favourite 
 understood as genuinely welcoming someone back rather than simply commemorating them. It sits alongside the
 Second Chair Workshops rather than replacing them — a kept chair preserves a *place*, an Ofrenda preserves the
 specific *things* a person loved, tended and refreshed the way the Green Ledger's plant work already is. Its
-tonal register is deliberately unlike the rest of Cancer's muted institutional palette: colour, warmth, and
+tonal register is deliberately unlike the rest of Cancer's muted institutional palette: color, warmth, and
 real celebration inside an otherwise grief-adjacent visual identity. That contrast should be preserved
 deliberately, not flattened. **Flagged for later character work:** a strong candidate for Phase 6's
 role-placeholder people, or for whichever doll is eventually confirmed as Cancer's anchor companion (currently
@@ -277,7 +277,7 @@ it might be matched and made whole: Cancer residents very commonly wear one half
 object — metal, ceramic, or shell — at the collar or wrist. The meanings are individual and not interchangeable:
 a person lost, a person searched for, a separation never resolved, a Keeping taken up, a bond between two living
 people who expect to be parted. Nobody asks which. It is worn by a large share of the general population across
-every occupation and age, and it is the single most recognisable visual marker of a Cancer resident anywhere in
+every occupation and age, and it is the single most recognizable visual marker of a Cancer resident anywhere in
 Concordia.
 
 **Palette.** Warm, soft, low-saturation — greens, unbleached naturals, and the warm tones Mawson-descended
@@ -296,7 +296,7 @@ wears at work — not what Cancer residents generally wear.
 **Proposed.** Stated general baseline first, per `00b`, with the specific institution scoped separately.
 
 **General baseline: Cancer is an oral and social information culture, not an archival one.** The care-debt
-economy that organises daily obligation across the whole district runs entirely on informal, unwritten, socially
+economy that organizes daily obligation across the whole district runs entirely on informal, unwritten, socially
 held tracking (Finding I's Green Ledger, explicitly "never actually written down"). Ordinary Cancer residents
 use Concordia's Arcanet the way people use a utility — practically, without much cultural investment, and with
 no particular expectation that it is where important things live. Important things live in people.
@@ -332,7 +332,7 @@ information district and does not compete with one.
 ## XIV. Visitor Experience / Visitor-to-Resident Transition (District Culture Development Plan, Phase 4)
 
 **Visitor Experience.** The Mega-Init's account stands as canonical and is not re-derived here: reserve without
-coldness, care that is available without hovering, a slow-but-alive pace. Per the colour-coded district map,
+coldness, care that is available without hovering, a slow-but-alive pace. Per the color-coded district map,
 Cancer sits in the middle ring — not Hub-adjacent, not one of the two outer gateway districts — so essentially
 every arrival has already crossed some other part of Concordia to get here, and nobody experiences Cancer as
 their first contact with the city.
@@ -457,7 +457,7 @@ entries are role placeholders only, never named — binding developer instructio
 - Pre-dawn window-reach tending, done alone, half the district awake and none of them talking.
 - The moment a shared task pauses for Attunement, and a visitor doesn't know to stop walking.
 - The Growing Towers' vents changing note as the load shifts, and every bell in the district answering at once.
-- A Broth Night mid-swing — potluck cooking, informal live music, a recognisable "Zukelli table" inside it.
+- A Broth Night mid-swing — potluck cooking, informal live music, a recognizable "Zukelli table" inside it.
 - An adoption match being made at the Long Shelf: no ceremony, a short conversation, an object handed over.
 
 ---
@@ -469,7 +469,7 @@ Tepenia-wide robot-culture canon; it is **not** a full chapter-by-chapter *Robot
 in the `TepenianUniverseTimeline` repo and is planned as a separate follow-on across all 13 districts (see the
 Plan's "Planned follow-on" section). Stated plainly rather than overclaimed.
 
-**Lens:** theme/role-based, per the finalized Phase 8 decision — Cancer's robot population organises its culture
+**Lens:** theme/role-based, per the finalized Phase 8 decision — Cancer's robot population organizes its culture
 around the district's defining vocation, **care and continuation**. Per `00b`, this describes the district's
 general robot population, not only its caregiving models; Cancer also runs foundry, propagation, maintenance,
 transit, and administrative units, and they are included below.
@@ -748,7 +748,7 @@ Cancer's documented capacity crises and its calm, unhurried street-level Vision 
 Finding 2 following from it.** Naming Cancer's belief system was the easy half; the half that matters is that a
 religion of continuation has to answer what happens when continuation fails. Cancer's answer — strangers
 adopting the routines of people they never met, with robots quietly carrying most of that load because they
-outlive the households around them — gives the district a moral centre it did not previously have. The Long
+outlive the households around them — gives the district a moral center it did not previously have. The Long
 Shelf, where unadopted Keepings wait indefinitely and nothing is ever discarded, is the single most useful new
 location the pass produced.
 
@@ -765,7 +765,7 @@ most of Cancer's memorial culture it is entirely ordinary, entirely daily, and n
 
 **Tonal note worth protecting.** Cancer is easy to write as unrelentingly mournful, and the passes above
 deliberately resist that. **Reach Day** (Finding XX) is loud, competitive, and funny; the **windbells**
-(Finding X) are pleasant objects with no memorial content; the **Ofrenda** (Finding XI) brings real colour and
+(Finding X) are pleasant objects with no memorial content; the **Ofrenda** (Finding XI) brings real color and
 celebration; and the perpetual pot is a source of pride rather than grief. A player should be able to spend a
 long time in Cancer and find it warm rather than heavy. Preserve that balance in anything added later.
 
@@ -965,7 +965,7 @@ genuinely finds what it goes looking for.
 isolation as the punishment for expressing it — so complaint accumulates silently for long periods and then
 releases all at once, without a visible run-up, after which the district wants to treat the episode as
 something that did not happen. **There is no escalation ladder.** A disturbance here has no warning phase that
-an outsider would recognise as one.
+an outsider would recognize as one.
 
 **What exists instead is a passive register**, and it is the district's genuine political instrument:
 services quietly withheld, permits that sit, unsigned notes, invitations that stop arriving, a name left off a
@@ -973,7 +973,7 @@ list. None of it is deniable and none of it is stated. Reading this register acc
 arguably *the* Sanctuary skill — and a player who cannot read it will experience the district as placid right
 up until it isn't.
 
-**The reliable public tell is displacement into labour.** A resident absorbed in work they love is fine; a
+**The reliable public tell is displacement into labor.** A resident absorbed in work they love is fine; a
 resident grimly doing work they *hate* is the alarm. At district scale: **a sudden civic burst of scrubbing,
 repair, and renovation means a political crisis is being suppressed.** Nothing will be said about it. The
 Growing Towers get maintained, the reach-bands get pruned back hard, the broth kitchens get scoured — and
@@ -1043,7 +1043,7 @@ The inward-core / outward-edge arrangement is a design choice, not a source clai
   diamond is cheap and industrial, the Sanctuary's signature stone is one Concordia cannot make for itself —
   every piece is either pre-exile inheritance or imported at real cost. A district that gives its stones away
   at bonding ceremonies and adoption matches is giving away something genuinely irreplaceable, and knows it.
-- **Colours: violet and ice blue** — cooler than the warm palette Finding XII proposes. Worth reconciling; the
+- **Colors: violet and ice blue** — cooler than the warm palette Finding XII proposes. Worth reconciling; the
   likeliest read is warm textiles against cool architecture, which also fits Finding IX's light.
 - **Topography: rivers, trees, and parks — notably *not* the sea.** The district's water imagery should be
   riverine and cultivated, never oceanic. The Growing Towers' condensate runnels (Finding VIII) already fit
@@ -1125,7 +1125,7 @@ they see clearly.
   (XXVII) is explicitly optional sub-district texture. No profession's version is presented as the default.
 - **Gate 3 — contradiction check against Ordinary Daily Life (XV).** Two genuine contradictions surfaced and
   are recorded rather than smoothed: XXIV (initiating vs. the established unhurried reading — resolved as
-  street-pace vs. institutional behaviour) and XXVI (sideways entry vs. XIV's term of shared work — resolved as
+  street-pace vs. institutional behavior) and XXVI (sideways entry vs. XIV's term of shared work — resolved as
   two different thresholds, structural residency vs. belonging). XXVIII's cool palette vs. XII's warm one is
   flagged as needing a decision.
 - **Gate 4 — Swap Test.** Run against Taurus, the nearest register (both receptive, both domestic, canonically
@@ -1326,7 +1326,7 @@ not a punishment for defiance. **It is what happened when it did everything corr
 is the most cooperative posture available, and it made no difference whatsoever to the outcome.
 
 **Third-order, and it re-reads a piece of canon that has always been presented as unrelated.** Canon lists,
-under Cultural Texture, a **care-debt parallel economy** — favours, time and emotional labour exchanged
+under Cultural Texture, a **care-debt parallel economy** — favours, time and emotional labor exchanged
 through informal social bonds rather than credits — noting it makes the district *"nearly impossible for the Government District
 to tax or regulate."*
 
@@ -1496,9 +1496,9 @@ coldness with a theory attached.
 be cared for**, and the Sanctuary's inability to hear refusal as anything but a symptom. **The research reframes what
 that group actually is.**
 
-> **They are the Sanctuary's Al-Anon — and they are organised by the wrong side of the relationship.** In the real
+> **They are the Sanctuary's Al-Anon — and they are organized by the wrong side of the relationship.** In the real
 > institution, the people who build the discipline of restraint are **the carers.** In the Sanctuary, the only people
-> who have ever organised around limits are **the ones refusing to receive them.**
+> who have ever organized around limits are **the ones refusing to receive them.**
 
 **Third-order, and this is the finding.** The identical position is unhearable depending on who voices it. Had
 The Sanctuary's *caregivers* founded a movement arguing that stopping is sometimes the caring act, it would be a
@@ -1531,7 +1531,7 @@ one working self-advocacy device, and it works precisely because it is not advoc
 > they had not consciously authored** — a way of producing material about yourself that carries no claim,
 > because you did not decide it.
 
-**That is exactly what the Quiet Register is**, and the district has never recognised it as its structural
+**That is exactly what the Quiet Register is**, and the district has never recognized it as its structural
 answer rather than as one convenience among many. It is listed in canon between the broth kitchens and the
 warm-soak houses.
 
@@ -1600,11 +1600,11 @@ The Sanctuary **filed against it, kept working through it, and lost by procedure
 practice** for this temperament, in the district with the most elaborate memorial culture in the city.
 **That absence is real and it is the right shape:** the Sanctuary has no funerary practice because **it does not treat
 death as an event requiring one.** The dead are *maintained*, continuously, which is a practice of the living
-and has no ceremony at its centre. **There is no rite here because nothing is understood to have concluded.**
+and has no ceremony at its center. **There is no rite here because nothing is understood to have concluded.**
 
 ---
 
-## XL. Ordinary daily life, re-run as a generator — the district asks one thing of everybody, and it is not labour
+## XL. Ordinary daily life, re-run as a generator — the district asks one thing of everybody, and it is not labor
 
 *(Phase 5, promoted from coverage box to generator. The runbook's question: **what does the ordinary rhythm
 demand of a person who is not exceptional, and what does it fail to provide for people whose lives do not
@@ -1660,7 +1660,7 @@ deliberately did not use:
 
 - Expired concessions are **exhumed, boxed, tagged and relocated**, and the plot is **resold.**
 - The relocated remains go to a single ossuary holding on the order of **a million people.**
-- Paris ran a **dedicated 2020 programme** to identify abandoned concessions for reclamation.
+- Paris ran a **dedicated 2020 program** to identify abandoned concessions for reclamation.
 - And one human detail worth keeping for whenever this opens: when a temporary concession expired, **a
   gravedigger once secretly reburied a child** rather than send the remains on.
 
@@ -1833,7 +1833,7 @@ one sense that would let a person be genuinely alone is the one the district's o
 sends out *goods* rather than only expertise was correct and worth making.
 
 **What the re-derivation adds is the export nobody has counted.** Canon: the Sanctuary runs **a care-debt parallel
-economy** — favours, time and emotional labour, exchanged through informal bonds rather than credits — and it
+economy** — favours, time and emotional labor, exchanged through informal bonds rather than credits — and it
 is *"nearly impossible for the Government District to tax or regulate."*
 
 > **Care-debt does not stay inside the district.** Every other quarter of Concordia sends the Sanctuary its wounded,
@@ -1938,7 +1938,7 @@ place it gets written.)*
 
 **Finding XIV stands** — **a term of shared work, then simply staying.** No ceremony, no application, no moment.
 **The axis, named as the discipline now requires: *residency is conferred by having been useful alongside
-someone*.** Not admission, not qualification, not being repeated, not being counted — **shared labour, and then
+someone*.** Not admission, not qualification, not being repeated, not being counted — **shared labor, and then
 nobody ever tells you it is finished.**
 
 **The re-derivation's addition is the reverse, which Gate 9 required and Finding XIV did not write:** there is
@@ -1993,7 +1993,7 @@ and are openly unsentimental about the frail.**
 
 **Third-order.** So the Sanctuary's exhausted caregivers go quietly to the Undergrid when they are ill, and it works,
 and **neither district can name what is being exchanged**: the Sanctuary cannot say *we come to you because you will
-not love us*, and the Undergrid — which cannot price its own labour or claim credit for anything — cannot say
+not love us*, and the Undergrid — which cannot price its own labor or claim credit for anything — cannot say
 *we are the only place your carers can be patients.* **A load-bearing, mutually invisible service, between two
 districts that would each describe the other as pleasant and distant.**
 
@@ -2189,7 +2189,7 @@ and the confirmed half produced the contrast in Finding XXXII.
 - **XXXVI (robots as ossuary)** — requires obligations that outlive households. **Survives.**
 - **Weakest finding, named as required: XLVI (obligation as export).** *Owed and unable to collect* is a shape
   the Undergrid also occupies — it holds the city's only accurate records and never bills for them. **The two
-  are distinguishable** (the Undergrid cannot price its labour; Cancer cannot make a claim of any kind on its
+  are distinguishable** (the Undergrid cannot price its labor; Cancer cannot make a claim of any kind on its
   own behalf) **but the distinction is finer than the rest of this pass**, and it should be re-checked if the
   Undergrid is revisited.
 
@@ -2206,7 +2206,7 @@ two of them** and state that the district has not — that is a finding about no
 | Row | Nearest | Resolution |
 |---|---|---|
 | Capability | **the Power Core / the Yards / the Government District** | **Non-symmetry table inline in XXXI** — four complete rows, four unrelated costs, distinguished on a tense axis |
-| Visitor→resident | all twelve | Axis named: **residency conferred by shared labour**, and no exit |
+| Visitor→resident | all twelve | Axis named: **residency conferred by shared labor**, and no exit |
 | Records / archive | **the Undergrid** | Opposite: the Undergrid keeps everything and is unread; **the Sanctuary destroyed the one record that mattered, as an act of care** |
 | Obligation-as-export | **the Undergrid** | Differentiated inline in XLVI, and flagged as the pass's weakest |
 | Counterculture | existing Finding XIX | **Extended, not replaced** — XXXVII reframes who is voicing it and why that makes it unhearable |
@@ -2263,7 +2263,7 @@ Below.
 ## Gate 11 — Plausibility *(second run)*
 
 - **XXXV (nobody's recovery is registered).** *Would a person actually do this?* **Yes — and the real-world
-  analogue is that recognising recovery requires an instrument, and institutions without one routinely carry
+  analogue is that recognizing recovery requires an instrument, and institutions without one routinely carry
   people for years.** *At this cost?* The cost is capacity and an unmeasured population, not cruelty. **Cleared.**
 - **XXXIV (Respite Circles used in the wrong direction).** ⚠ **Flagged, examined, retained with a bound.**
   *Almost nobody receiving* overstated it. **Some people do receive**, particularly those pushed there by a
@@ -2271,7 +2271,7 @@ Below.
   grammar. **The finding is now that the Circles work for people somebody else brings, and not for people who
   would have to bring themselves.** Sharper, and truer.
 - **XXXII (archivists destroyed the records).** *For this reason?* Yes — protecting colleagues who made an
-  impossible decision, in a culture with no vocabulary for self-defence. **Cleared**, and the finding already
+  impossible decision, in a culture with no vocabulary for self-defense. **Cleared**, and the finding already
   states it as care rather than concealment.
 - **XLIV (furnished arctic entries).** *At this cost?* A bench and a hook. **Cleared.**
 - **Scale check:** every finding describes the general population or a named institution, and none scales an
@@ -2297,7 +2297,7 @@ as a **courtesy**, generously and sincerely, and the child learns early that the
 is choosing to give.
 
 **And the sharper half, which the Child could not have known to ask for.** Substrate: labels assigned to a
-child here **stick, and become the labelled child's behaviour.** Classification is destiny.
+child here **stick, and become the labelled child's behavior.** Classification is destiny.
 
 > **A label assigned at seven is never revised — for exactly the same reason a ward's recovery is never
 > registered (XXXV) and a Keeping is never released (XXXVI). Downward status changes do not exist in this
@@ -2362,7 +2362,7 @@ District** — and it would not have prevented 2813, which was not a failure of 
 
 **Canon: the people who were there still live here, still carry it, and still disagree violently about whether
 the right choices were made.** The Panel's contribution is what that is like from inside: **they carry a
-decision they cannot describe** (no records), **cannot defend** (no vocabulary for self-defence), **and cannot
+decision they cannot describe** (no records), **cannot defend** (no vocabulary for self-defense), **and cannot
 be absolved of** (no one has standing to absolve, and no one knows the names).
 
 **And the district's response is the finding.** It looks after them — attentively, warmly, for decades — **and

@@ -789,7 +789,7 @@ directly: written for "a first-year postgraduate student in theoretical physics,
 "eclectic collections from particle physics, general relativity and condensed matter physics." Structurally
 it moves from physics motivation (ch. 1) through pure-math foundations (ch. 2-8: topological spaces,
 homology, homotopy, manifolds, differential forms, Riemannian geometry) into genuinely exotic territory:
-fibre bundles and connections (ch. 9-10), characteristic classes (ch. 11), index theorems including
+fiber bundles and connections (ch. 9-10), characteristic classes (ch. 11), index theorems including
 supersymmetric quantum mechanics (ch. 12), gauge anomalies (ch. 13), and bosonic string theory (ch. 14).
 
 ### Extractable premises, distilled (full pass, 2026-07-20 — "what's actually possible in higher dimensions")
@@ -799,9 +799,9 @@ in higher-dimensional or topologically nontrivial settings (as distinct from cos
 material, which belongs with Adams & Franzosa above), the following sections were read in full rather than
 just noted at TOC level:
 
-1. **The general definition of a fibre bundle — the cleanest, most quotable statement of Polydimensional
+1. **The general definition of a fiber bundle — the cleanest, most quotable statement of Polydimensional
    Animism's core premise found in any source so far.** Stated directly in the Chapter 9 opening: "A
-   manifold is a topological space which looks locally like Rᵐ, but not necessarily so globally... A fibre
+   manifold is a topological space which looks locally like Rᵐ, but not necessarily so globally... A fiber
    bundle is, so to speak, a topological space which looks locally like a direct product of two topological
    spaces." In plain terms: at every single point of ordinary space, there is an *entire additional space*
    attached — not detectable by looking at the point itself, only by the right mathematical apparatus. The
@@ -1261,7 +1261,7 @@ of M-Theory") and Chapter 14 ("Reflections on Cosmology"). Remaining chapters ch
    viewed up close (or through binoculars), it turns out to have a second, "curled up" circular dimension
    wrapped around its length the whole time. Directly applied to spacetime itself: every point in ordinary
    space could carry an additional, tiny circular direction, invisible until examined with sufficient
-   precision. A strong, highly visual complement to the fibre-bundle and compactification material already
+   precision. A strong, highly visual complement to the fiber-bundle and compactification material already
    logged from Nakahara and Kaku.
 2. **Why nine (or ten, or eleven) space dimensions specifically — and a real physicist's honest admission
    that nobody actually knows why.** String theory's equations require nine space dimensions (plus time)

@@ -33,7 +33,7 @@ Following the same "-ite" suffix pattern already established at Kunlun (Kunlunit
 
 ## V. Honeymoon Traditions, Specifically
 
-**Proposed:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbour, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples are said to make the trip regardless of which extreme they encounter, treating whichever one it is as the honeymoon's own defining shared memory. This gives the already-established "one to two week" stay a concrete anchor activity, consistent with the city's own established hospitality-forward, resort-adjacent character, without requiring an invented festival or elaborate ceremony that would sit oddly against Mawson's otherwise understated civic tone.
+**Proposed:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbor, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples are said to make the trip regardless of which extreme they encounter, treating whichever one it is as the honeymoon's own defining shared memory. This gives the already-established "one to two week" stay a concrete anchor activity, consistent with the city's own established hospitality-forward, resort-adjacent character, without requiring an invented festival or elaborate ceremony that would sit oddly against Mawson's otherwise understated civic tone.
 
 ---
 

@@ -74,7 +74,7 @@ opposites, and the Undergrid is the one still unwritten** (`00e` §5).
 | **Scorpio** | *the Loud* (cannot agree on a self-name) | **Refuses the silence.** The only one of the five that causes real harm as well as being right. |
 | **The Power Core** | *the Tally* (adopted insult) | **Adds** an accounting the district cannot perform. The only one that adds rather than refuses. |
 | **The Yards** | *the Recalibration Underground* **(pre-existing canon)** | **Demands the district's own rule be applied literally.** The only one *more orthodox* than its mainstream — which is why it cannot be dismissed as heresy. |
-| **The Labs** | *(none — and that is the finding)* | **Not a population at all.** The review board and the underground annex are the same people; the contradiction is inside each person. **Cannot be reformed from within and cannot be opposed from within.** There is nobody to organise. |
+| **The Labs** | *(none — and that is the finding)* | **Not a population at all.** The review board and the underground annex are the same people; the contradiction is inside each person. **Cannot be reformed from within and cannot be opposed from within.** There is nobody to organize. |
 | **The Government District** | *the True Believers* **(pre-existing canon)** | **Entirely proper, fully procedural, completely correct — and structurally incapable of arriving anywhere.** The only one that fails by being *accommodated* rather than resisted. The three canon factions are **one gradient, not three positions.** |
 | **The Circuit** | *"room-only"* (a term for accounts before it was a term for people; they use no name) | **Withholds, and demands nothing of anybody.** The first that makes no demand at all — they decline to put *their own* accounts on the network, believing some things are damaged by transmission. **The district cannot triangulate against silence**, so it is unsettled rather than opposed, and avoids rather than absorbs. |
 | **The Markets** | *the unjoined* **(promoted from canon)** | **Refuses a consolation.** Flood-affected residents who will not accept the religion's permission to stop asking whose memories they carry, and have spent decades trying to rebuild by hand the ownership map that broke. **They demand the district resume a question it agreed to drop** — and might be right, since the content survived and only the attribution was lost. The district's conscience, not its opposition. |
@@ -139,13 +139,13 @@ address) and Scorpio's injury ledger (sealed, records wrongs).*
 
 | District | What converts a visitor into a resident |
 |---|---|
-| **The Sanctuary** | **shared labour** — a term of work alongside someone, then simply staying. No ceremony, no moment. **And no exit either:** the rolls never close and a person who leaves is still spoken of in the present tense |
+| **The Sanctuary** | **shared labor** — a term of work alongside someone, then simply staying. No ceremony, no moment. **And no exit either:** the rolls never close and a person who leaves is still spoken of in the present tense |
 | **Taurus** | **two stages** — welcomed (earned in kind), then *recorded* |
 | **Leo** | reaching the first rung of the recognition order — becoming a **known face** |
 | **Scorpio** | **admission to a cell** — two-stage, the second stage unfalsifiable, membership concealed |
 | **The Power Core** | **holding a qualification** — you may sign for work. Nobody cares where you came from |
 | **The Yards** | **test-and-admit over years**, plus a **thirty-year threshold** after which your judgment is your own |
-| **The Labs** | **conversion** — no door is closed and no one is admitted; you keep up or stop coming. **The barrier is a hundred metres inside, unmarked** |
+| **The Labs** | **conversion** — no door is closed and no one is admitted; you keep up or stop coming. **The barrier is a hundred meters inside, unmarked** |
 | **The Government District** | **employment, and it is fast and genuinely open** — what takes decades is not entry but learning to read the room, and no institution bridges that gap |
 | **The Circuit** | **being repeated.** You are a visitor while what you say stops with the person you told; you are a resident the first time it reaches a stranger. A week is normal, nobody administers it — and **you stop being one the same way, with nobody noticing, including you** |
 | **The Markets** | **the neighbours stop not-looking at you.** No admission, no vetting, no door — you become a resident the day somebody on your lane looks directly at you and remarks on your business. **The only entry on this table where converting feels *worse* than being a visitor**, and every newcomer misreads it as hostility |

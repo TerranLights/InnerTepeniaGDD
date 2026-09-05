@@ -168,12 +168,12 @@ flatly wrong.*** **What this station produced:**
 | Neptune's own text | Amundsen |
 |---|---|
 | *"Its existence was **calculated mathematically**, from irregularities in Uranus's orbit, **before it was ever actually observed**"* | ⭐⭐ **The Tower existed as calculation before it existed as structure.** Decades of survey established it was possible before anyone built it. *This is Neptune's founding story, not a metaphor for it* |
-| *"Quietly willing to share its secrets with anyone willing to do **the brainwork**"* | ⭐ **Literally what a multi-decade geological survey programme is** — a place yielding its secrets to sustained study |
+| *"Quietly willing to share its secrets with anyone willing to do **the brainwork**"* | ⭐ **Literally what a multi-decade geological survey program is** — a place yielding its secrets to sustained study |
 | *"The **farthest** planet, and yet home to the **fastest winds** recorded anywhere in the system"* | The most remote point in the country, and the site of its most intense sustained technical activity |
 | *"**Intensity that has nothing to do with proximity to the source of energy**"* | ⭐ The city that **regulated the nation's energy**, from its furthest edge |
 | *"Being known through your effect on something else before anyone ever sees you directly — real, provable influence that doesn't require visibility"* | **6,857 people serving millions.** Every Tepenian met Amundsen daily through their own connection; almost none ever went |
 | *Neutral: "does not shun, though also does not invite"* | A facility with no permanent civic community — *"people came from their cities, did their work, and went home"* |
-| **One word: Diligence** | ⭐ **Decades of patient work before and during the build, then continuous operation.** Not quiet maintenance — sustained, demanding, expert labour |
+| **One word: Diligence** | ⭐ **Decades of patient work before and during the build, then continuous operation.** Not quiet maintenance — sustained, demanding, expert labor |
 
 ⚠ **Neptune's negative also lands:** *"understood entirely through someone else's disturbance rather than on
 your own terms."* **Amundsen had no terms of its own** — it *"belonged to all of them and therefore to none."*
@@ -212,7 +212,7 @@ rather than an oversight… forcing a second use elsewhere would have been arbit
 |---|---|
 | ⛔ **Pluto** *(Isolation)* | **Would say Amundsen is isolated when it is the most CONNECTED place in Tepenia** — physically remote, but the opposite of cut off. Would also dilute the established Kunlun/Vostok/Dome Fuji trio, whose shared Pluto mirrors a real extreme-isolation and Ice Cold Buddhism kinship |
 | ⛔ **Jupiter** *(Dominance)* | Implies weight, gravity and self-evident authority. ***Amundsen had no authority at all*** — disputes came *"not because it had formal authority… but because its neutrality was respected."* **Its power was entirely unofficial, which is the whole point** |
-| **Mercury** *(Resilience)* | Genuine near-miss: Mercury is the **smallest** planet and Amundsen the smallest entity, and *"a specific, oddly precise rhythm found nowhere else"* fits a pole with **one sunrise and one sunset a year**. But Mercury's core is *endurance at the edge*, and Amundsen's core is *service from the centre* |
+| **Mercury** *(Resilience)* | Genuine near-miss: Mercury is the **smallest** planet and Amundsen the smallest entity, and *"a specific, oddly precise rhythm found nowhere else"* fits a pole with **one sunrise and one sunset a year**. But Mercury's core is *endurance at the edge*, and Amundsen's core is *service from the center* |
 | **Electricity** *(fallback element)* | Strong — `Robot_Elementals.md` names the Amundsen Tower in its own text, and *"the single current that runs through and unifies an entire system end to end"* fits the Tower's energy-regulation role. ⚠ **But the file's naming is about the Tower's FALL**, which is out of frame; and the developer's emphasis was **data** infrastructure, which is signal, not power |
 
 ## ⭐ A characterizing fact this derivation surfaced

@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #4**, translated from `Mawson_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in the customary honeymoon visit to the
-Prince Charles Mountains overlook above Horseshoe Harbour (`Mawson_Full_Extrapolation` §V, "Honeymoon
+Prince Charles Mountains overlook above Horseshoe Harbor (`Mawson_Full_Extrapolation` §V, "Honeymoon
 Traditions, Specifically"). Character fields are intentionally left blank — see each Conflict section's
 Design Notes for what kind of conflict, and what kind of character(s), would make the following
 setting-condition become true.
@@ -24,7 +24,7 @@ being comfortable there.
 
 A destination reputation needs something concrete for visitors to actually experience together, not
 just a pleasant place to stay. A customary visit to the Prince Charles Mountains overlook above
-Horseshoe Harbour takes hold, timed to whichever extreme — polar night or midnight sun — happens to be
+Horseshoe Harbor takes hold, timed to whichever extreme — polar night or midnight sun — happens to be
 in season during a given stay. But couples arrive at wildly different times of year, meaning no two
 visits ever see quite the same sky, and the question of what to actually promise visitors about the
 experience becomes a real, practical problem for whoever's guiding them.

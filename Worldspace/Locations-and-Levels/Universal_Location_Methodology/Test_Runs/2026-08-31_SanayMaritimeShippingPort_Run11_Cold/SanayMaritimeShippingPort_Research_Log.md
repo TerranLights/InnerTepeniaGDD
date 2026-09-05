@@ -29,10 +29,10 @@ microclimate — see the divergence flagged below).
 - [Port of Rotterdam | ShipHub](https://www.shiphub.co/port-of-rotterdam/); [Evolution of the Port of
   Rotterdam | Port Economics, Management and Policy](https://porteconomicsmanagement.org/pemp/contents/part3/changing-geography-of-seaports/evolution-port-rotterdam/);
   [Terminals | Port of Rotterdam](https://www.portofrotterdam.com/en/logistics/storage-and-transhipment/terminals)
-- [SANAE | South African National Antarctic Programme](https://sanap.ac.za/category/sanae); [S. A. Agulhas
+- [SANAE | South African National Antarctic Program](https://sanap.ac.za/category/sanae); [S. A. Agulhas
   II — Wikipedia](https://en.wikipedia.org/wiki/S._A._Agulhas_II); [Explore the S.A. Agulhas II —
   SAPRI](https://www.sapri.ac.za/explore-the-s-a-agulhas-ii/)
-- [Durban Harbour and Port | South African History Online](https://sahistory.org.za/place/durban-harbour-and-port);
+- [Durban Harbor and Port | South African History Online](https://sahistory.org.za/place/durban-harbor-and-port);
   [Durban — Africa Ports](https://africaports.co.za/durban/); [Port of Durban —
   Grokipedia](https://grokipedia.com/page/Port_of_Durban)
 - [Huangpu, China | China's Premier International Port — UNIS](https://www.unisco.com/international-ports/huangpu-china);

@@ -93,7 +93,7 @@ one has ever put that sentence together.
   giving the Ruler a functioning apparatus to negotiate with would destroy the spine.
 
 **The settlement:** **Zhongshan has ordinary municipal administration — collection, distribution, roads, the
-harbour — and it is unremarkable, competent, and completely uninvolved in The Round.** The Round is not
+harbor — and it is unremarkable, competent, and completely uninvolved in The Round.** The Round is not
 administered because **nobody ever classified it as a civic function**; it is filed with water quality, and
 water quality is a technical matter. **The food arrangement with Davis is similarly ordinary and similarly
 unexamined: it is a standing logistics relationship nobody has ever had cause to renegotiate.**

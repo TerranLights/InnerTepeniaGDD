@@ -248,7 +248,7 @@ district's real social form, which is **a very large number of pleasant acquaint
   eight people sealed in for two years; **oxygen fell from 20.9% to 14.4% over sixteen months** — the
   equivalent of living at 13,000 feet — producing *"fatigue, difficulty thinking clearly, and trouble
   sleeping"*; the crew split into hostile factions; and **the seal was finally broken not when the people
-  deteriorated but when the programme was threatened**, by pumping in oxygen, which destroyed the very
+  deteriorated but when the program was threatened**, by pumping in oxygen, which destroyed the very
   closure being tested. See Finding XIII(c).
 - **The Layer** — the district's patchwork architecture (Finding III) as a named quarter: every well-intentioned
   mistake still standing, and residents cheerfully pointing them out to visitors.
@@ -276,7 +276,7 @@ Layer, being explained by someone who finds it funny.
 ## XII. Cuisine, Music, and Arts — a district that takes things apart (Phase 7)
 
 **Proposed. The unifying insight**, and it comes from the substrate's account of how an Aquarian childhood
-begins: **the founding behaviour is disassembly.** *"They disassemble things to learn how they function. If you
+begins: **the founding behavior is disassembly.** *"They disassemble things to learn how they function. If you
 ever see your kids breaking or dismantling their toys, don't worry; they are just fulfilling their natural
 instinct."* **Everything below is that instinct at adult scale.** The Labs does not primarily *make* things. It
 **opens** them, and considers the opening to be the work.
@@ -284,7 +284,7 @@ instinct."* **Everything below is that instinct at adult scale.** The Labs does 
 **(a) Food — borrowed, badly, and cheerfully.** *(Substrate §14.9: "salt and borrowed cuisine.")* **The Labs has
 no native cuisine at all**, and this is a real finding rather than a gap: it eats every other district's food,
 approximately, having learned it secondhand, and **does not notice that it is getting it wrong.** A Yards
-canteen dish made in the Labs is recognisable and not right. Residents are entirely unembarrassed — the point
+canteen dish made in the Labs is recognizable and not right. Residents are entirely unembarrassed — the point
 was never authenticity, and it would not occur to them that anyone would mind.
 
 **The one native rule is professional rather than moral:** alcohol is broadly declined during working periods,
@@ -368,7 +368,7 @@ sides contain the whole contradiction.
 > record; Leo's refuses recognition; Scorpio's refuses the silence; the Power Core's *adds* an accounting; the
 > Yards' demands its own rule be applied literally. **All five are identifiable populations.** The Labs'
 > is not a population at all — **it is a contradiction inside each person**, which is why the district cannot be
-> reformed from within and cannot be opposed from within either. **There is nobody to organise.**
+> reformed from within and cannot be opposed from within either. **There is nobody to organize.**
 
 **(c) Private Life — the consent doctrine, and the thirty-year experiment.**
 
@@ -379,12 +379,12 @@ is genuine and admirable. **Subjects' privacy is not a category.**
 > two years with eight people. **Oxygen fell from 20.9% to 14.4% over sixteen months** — the equivalent of
 > living at 13,000 feet — producing documented *"fatigue, difficulty thinking clearly, and trouble sleeping."*
 > The crew split into hostile factions. **And the seal was finally broken not when the people deteriorated but
-> when the programme was threatened**, by pumping oxygen in from outside, which destroyed the very closure being
+> when the program was threatened**, by pumping oxygen in from outside, which destroyed the very closure being
 > tested.
 >
 > **The Labs' version diverges from all of that and should**, per the inspiration-not-specification rule
 > (`00_RUNBOOK.md` §3.5). **What transfers is one mechanism: a closure whose inhabitants are themselves the
-> measurement, and an institution that will break the closure to save the programme rather than to save the
+> measurement, and an institution that will break the closure to save the program rather than to save the
 > people.** What does *not* transfer is the shape — **the Labs' experiment is thirty years old, not two; its
 > residents live ordinary lives inside it rather than serving a tour; and there is no crisis, which is the
 > point.** Biosphere 2 failed loudly in twenty-four months. **The Living Network Experiment has not failed. It
@@ -408,7 +408,7 @@ festival material at all for this sign; per the source-gap rule the absence is r
 
 **1. The Showing** *(irregular, frequent, genuinely joyful).* Work in progress is demonstrated to anyone who
 comes — no admission, no schedule fixed far in advance, no polish. **It is the happiest thing the district
-does** and it is organised badly every single time. Other districts attend and are alternately delighted and
+does** and it is organized badly every single time. Other districts attend and are alternately delighted and
 alarmed.
 
 **2. The Layer Walk** *(annual, self-deprecating, funny).* A guided tour of the district's own standing
@@ -428,7 +428,7 @@ image of its whole problem.
 ## XV. Robot-Specific Culture — the capstone (Phase 8)
 
 **Scope note**, as with the six completed districts. **Lens:** theme/role-based — the Labs' robot population
-organises around the district's defining vocation, **improvement of the collective by correct thinking.**
+organizes around the district's defining vocation, **improvement of the collective by correct thinking.**
 
 **Finding 1 — Robots here are colleagues rather than instruments, and the district is right to be proud of it.**
 *(Inheritance: adapted pool-draw. Iceberg: Deep Culture.)* Robot researchers hold positions, publish, extend
@@ -452,7 +452,7 @@ genuinely emergent. Iceberg: Deep Culture.)* See Finding XIII(a). **The uncomfor
 consenting to a protocol no human could survive is, by the Labs' own doctrine, exercising exactly the autonomy
 the district most respects. **Every step is consensual, informed, and freely chosen. The distribution is still
 what it is.** And the district's answer — that to intervene would be to treat an adult as incapable — is not
-obviously wrong, which is what makes it the district's hardest question rather than its worst behaviour.
+obviously wrong, which is what makes it the district's hardest question rather than its worst behavior.
 
 **Consistency checks:**
 - **Human-Robot Relations Baseline:** consistent, and the Labs is arguably the baseline's fullest expression in
@@ -495,7 +495,7 @@ simultaneously a review body and a workaround, and its history reads as oscillat
 inside it is one continuous good-faith argument that never concludes.
 
 **The characteristic institutional failure, and it is the sharpest in the capability table: it cannot credit an
-individual, cannot protect a dissenter, and will spend a person on a programme without registering that
+individual, cannot protect a dissenter, and will spend a person on a program without registering that
 anything was lost.** Ethics review fails here **not through malice but because the faculty that would notice a
 single subject's claim is the weakest one present.**
 
@@ -513,7 +513,7 @@ single subject's claim is the weakest one present.**
 **Shadow proportion** (`00d`): **the Labs works, and Concordia depends on it.** Its findings are given away
 free, its methods have quietly shaped every district in the city, it is the most genuinely open and least
 snobbish place in Concordia, and its people are curious, generous, and largely kind. **Nothing above says
-otherwise.** The shadow is that a district organised entirely around the collective **has no instrument that
+otherwise.** The shadow is that a district organized entirely around the collective **has no instrument that
 registers one person**, and will therefore keep doing real harm in the course of doing real good, sincerely,
 and without a record of it. *(Discoverability: invisible on arrival — a visitor sees the most welcoming district
 in the city, and is right.)*
@@ -599,7 +599,7 @@ Labs **is** Concordia's official research sector — chartered, funded, central,
 **So the district has no self-image as an incumbent**, and this explains a great deal that would otherwise look
 like hypocrisy: why it experiences oversight as an imposition while *being* the body that reviews others; why it
 reads a residential district's request to be left alone as complacency rather than as a citizen resisting an
-institution; and why it cannot recognise itself in anyone else's complaint about power. **It is the establishment
+institution; and why it cannot recognize itself in anyone else's complaint about power. **It is the establishment
 and believes itself the alternative**, sincerely, and nothing in its own self-understanding can correct that.
 
 **2. Nothing in the corpus describes what this temperament does with custody of a person who cannot leave** —
@@ -737,7 +737,7 @@ this place ask its powerful to give up?)* — **SILENCE.** Nobody here experienc
 Finding XVIII. Recorded.
 
 **Shadow question — the Detached Manipulator** *(who withholds what people need to know for their own
-well-being?)* — **nobody, and that is the district's honest defence.** The Labs withholds nothing; its failure
+well-being?)* — **nobody, and that is the district's honest defense.** The Labs withholds nothing; its failure
 is not concealment but **absence of record** (Finding VIII). **A shadow position returning "not guilty" is a
 legitimate and useful result.**
 
@@ -773,7 +773,7 @@ district does not select for privilege or for background — it selects, invisib
 people who were already taught how to learn somewhere else.**
 
 **Which closes a loop with Finding IX.** The Labs is genuinely the most open district in Concordia; **its
-barrier is not at the door.** It is a hundred metres inside, unmarked, and nobody is standing at it.
+barrier is not at the door.** It is a hundred meters inside, unmarked, and nobody is standing at it.
 
 ---
 

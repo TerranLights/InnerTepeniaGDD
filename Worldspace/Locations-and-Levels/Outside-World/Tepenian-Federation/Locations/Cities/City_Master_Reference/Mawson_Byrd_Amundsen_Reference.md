@@ -19,7 +19,7 @@
 
 ## Mawson
 
-**Status:** Damaged; partially operational — subnet hub | **Population (Census I):** 709,729 humans / 737,004 robots / 1,446,733 residents | **Real-world basis:** Mawson Station (Australia/AAD, operating since 1954 — longest unbroken occupation of any Tepenian city site), Horseshoe Harbour, Holme Bay, Mac.Robertson Land, ~67°36'S 62°53'E | **D (difficulty):** 1.25
+**Status:** Damaged; partially operational — subnet hub | **Population (Census I):** 709,729 humans / 737,004 robots / 1,446,733 residents | **Real-world basis:** Mawson Station (Australia/AAD, operating since 1954 — longest unbroken occupation of any Tepenian city site), Horseshoe Harbor, Holme Bay, Mac.Robertson Land, ~67°36'S 62°53'E | **D (difficulty):** 1.25
 
 ### Files found (by category)
 

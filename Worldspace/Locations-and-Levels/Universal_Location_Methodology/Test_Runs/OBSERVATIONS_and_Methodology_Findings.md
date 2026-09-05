@@ -511,7 +511,7 @@ run against every methodology/discipline/toolkit file this session had read (`00
 `00d`, `00f`, `Cultural_Synthesis_Techniques.md`, `Real-World_Basis_Extrapolation_Method.md`), found **six
 pre-existing British-spelling instances already living in the methodology's own rule text** — "humour" (`03`
 Phase 8's own component list, the exact phase this session was working in), "favourable" ×2 (`04` Gate 9's
-own worked-example prose), "labelled" ×2 (`05` §3/§6.1's own prose), and "centre" (`Cultural_Synthesis_
+own worked-example prose), "labelled" ×2 (`05` §3/§6.1's own prose), and "center" (`Cultural_Synthesis_
 Techniques.md` #2). **A bare grammar point also surfaced**: "sport" should read "sports" in American usage
 (`03` Phase 8's component list, same line as "humour"). **All seven fixed in place** — content unchanged,
 spelling/grammar only. A separate sweep of `Cities/Research_Logs/Zhongshan_Research_Log.md` found three more
@@ -4831,7 +4831,7 @@ and were still wrong.**
 1. **Anchor every word pattern** — `\bart\b`, never `art`.
 2. **Never trust a multi-file utility's aggregate row** — `wc -l` emits `total`; `du` emits a summary.
 3. **Canonicalize identities against the filesystem before joining on them.**
-4. **A shared stem is not a shared word** — *analyse* is British, *analysis* is not.
+4. **A shared stem is not a shared word** — *analyze* is British, *analysis* is not.
 
 > ### ⭐ Why this belongs in the observations log rather than being quietly fixed
 > **Step 9.5 rule 2: *solving a problem privately is how a methodology stays broken.*** **Individually these

@@ -135,7 +135,7 @@ The name was kept.
 
 Vostok developed the culture of a city at the end of the world. Not metaphorically — the Pole of Inaccessibility is genuinely the furthest point from anywhere on the continent, and Vostok's location approaches it. The city was small, deliberately so. The people who lived there were people for whom the distance and the cold were acceptable conditions rather than hardships to be overcome. That self-selection shaped the community deeply.
 
-The Lake Vostok scientific program gave the city its purpose beyond survival — generations of researchers working on a subglacial lake that had been sealed for millions of years, studying what evolved in isolation beneath kilometres of ice. The scientific culture of Vostok was quiet, long-term, and intensely focused. Results came slowly, in years and decades rather than months.
+The Lake Vostok scientific program gave the city its purpose beyond survival — generations of researchers working on a subglacial lake that had been sealed for millions of years, studying what evolved in isolation beneath kilometers of ice. The scientific culture of Vostok was quiet, long-term, and intensely focused. Results came slowly, in years and decades rather than months.
 
 The relationship with the Mirny subnet — the 1,260km of plateau between Vostok and its nearest subnet city — was always more theoretical than practical. Vostok was in the Mirny subnet on paper. In reality, it was alone.
 
@@ -188,7 +188,7 @@ The isolation that defined Vostok before the war has only deepened since, at lea
 
 ## Legacy
 
-Vostok's legacy is the lake. Whatever lives in Lake Vostok — whatever evolved in 25 million years of isolation beneath four kilometres of ice — is the most scientifically significant unknown in Tepenia. The city that sits above it has been studying it for centuries. That knowledge, if it still exists and if it can ever be retrieved, is the most extraordinary scientific inheritance in the Mirny subnet.
+Vostok's legacy is the lake. Whatever lives in Lake Vostok — whatever evolved in 25 million years of isolation beneath four kilometers of ice — is the most scientifically significant unknown in Tepenia. The city that sits above it has been studying it for centuries. That knowledge, if it still exists and if it can ever be retrieved, is the most extraordinary scientific inheritance in the Mirny subnet.
 
 ---
 

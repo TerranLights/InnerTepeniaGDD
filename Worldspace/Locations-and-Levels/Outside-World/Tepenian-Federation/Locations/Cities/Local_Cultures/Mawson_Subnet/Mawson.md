@@ -5,7 +5,7 @@
 **Subnet:** Mawson (hub city)
 **Status:** Damaged; partially operational — the subnet hub, damaged but functioning, the longest continuously-occupied site of any Mawson subnet city
 **Census Population:** 709,729 humans / 737,004 robots / 1,446,733 combined (Census I, rank 6th of ~34); 427,321 humans / 525,125 robots / 952,446 combined (Census II, rank 9th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
-**Location:** Horseshoe Harbour, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
+**Location:** Horseshoe Harbor, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
 
 **One-liner:** *The city that never stopped being here since 1954 — an Australian founding that gave the whole subnet its name and its patron Saint, its population long since reshaped by the Indian Ocean's own demographic current into something the founders never anticipated.*
 
@@ -39,7 +39,7 @@ Over the generations that followed, immigration reshaped Mawson's demographics a
 
 ## 3. Climate Character
 
-Mawson sits on Horseshoe Harbour in Holme Bay, Mac.Robertson Land — rugged East Antarctic coastline facing the Indian Ocean, with the Prince Charles Mountains visible to the south. Climate is broadly similar to Mirny's (same latitude, comparable Indian Ocean influence) — katabatic winds off the ice plateau bleeding through an otherwise coastal, maritime-influenced setting.
+Mawson sits on Horseshoe Harbor in Holme Bay, Mac.Robertson Land — rugged East Antarctic coastline facing the Indian Ocean, with the Prince Charles Mountains visible to the south. Climate is broadly similar to Mirny's (same latitude, comparable Indian Ocean influence) — katabatic winds off the ice plateau bleeding through an otherwise coastal, maritime-influenced setting.
 
 ---
 
@@ -133,7 +133,7 @@ Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian 
 - **Sound:** Genuinely multilingual — Chinese, Japanese, Korean, Indonesian, and English all part of ordinary daily soundscape.
 - **Smell:** Cold, coastal, East Antarctic — similar to Mirny's climate character.
 - **Feel:** Institutionally deep and continuous — Mawson feels like the oldest, most settled place in its subnet, because it is.
-- **First impressions for visitors:** The Prince Charles Mountains backdrop and Horseshoe Harbour first, then quickly the genuine demographic plurality of a city whose name and whose population tell two different stories.
+- **First impressions for visitors:** The Prince Charles Mountains backdrop and Horseshoe Harbor first, then quickly the genuine demographic plurality of a city whose name and whose population tell two different stories.
 
 ---
 
@@ -233,7 +233,7 @@ The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was
 - **St. Douglas's Landing** *(placeholder name)* — commemorating the Australasian Antarctic Expedition and Sir Douglas Mawson's legacy
 - **The Unbroken Watch** *(placeholder name)* — an observance marking the city's continuous operation since 1954, the longest of any Mawson subnet city
 
-**Honeymoon tradition, proposed 2026-07-07:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbour, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples make the trip regardless of which extreme they encounter, treating it as the honeymoon's own defining shared memory.
+**Honeymoon tradition, proposed 2026-07-07:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbor, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples make the trip regardless of which extreme they encounter, treating it as the honeymoon's own defining shared memory.
 
 ---
 
@@ -243,7 +243,7 @@ The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was
 
 ## 27. Visitor Experience
 
-The Prince Charles Mountains and Horseshoe Harbour register first, followed by the genuine demographic plurality of a city whose Australian name and St. Douglas veneration sit alongside a Chinese-Primary, Indian-Ocean-facing population. **Vision session, 2026-07-06:** a real share of visitors here aren't passing through on hub business at all — they're newly-married human-robot couples on honeymoon, giving the city's visitor population a genuinely warmer, more celebratory character than a typical logistics-hub city would have.
+The Prince Charles Mountains and Horseshoe Harbor register first, followed by the genuine demographic plurality of a city whose Australian name and St. Douglas veneration sit alongside a Chinese-Primary, Indian-Ocean-facing population. **Vision session, 2026-07-06:** a real share of visitors here aren't passing through on hub business at all — they're newly-married human-robot couples on honeymoon, giving the city's visitor population a genuinely warmer, more celebratory character than a typical logistics-hub city would have.
 
 ---
 

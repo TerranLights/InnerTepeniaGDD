@@ -384,7 +384,7 @@ does still doing it convert them into a resident?*
 
 | Local economy | Plausible conversion mechanism |
 |---|---|
-| Continuous labour needs | A work term; you're a local once you're still there after it |
+| Continuous labor needs | A work term; you're a local once you're still there after it |
 | Shift/rotation based | Having taken a full rotation, including the bad one |
 | Seasonal or hazardous | Having survived one cycle in place |
 | Credit or debt based | Having cleared a first obligation, or been extended one |

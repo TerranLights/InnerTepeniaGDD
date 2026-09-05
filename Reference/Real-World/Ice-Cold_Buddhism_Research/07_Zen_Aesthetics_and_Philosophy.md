@@ -13,7 +13,7 @@ collection.
 Buddhism's "nothing"/emptiness is explicitly *not* a substance, subject, or personified deity — it has no
 "exclusive subjectivity," doesn't "rule," "represent," or "effect" anything. Crucially: **"the absence of
 'will' or 'subjectivity' is not a deficiency but a strength of Buddhism."** Because power is a category
-that belongs to substance/subject, and Buddhism's foundation is "an empty centre that does not exclude
+that belongs to substance/subject, and Buddhism's foundation is "an empty center that does not exclude
 anything, that is not occupied by a holder of power," **Buddhism's non-violence and openness are structural
 consequences of its metaphysics, not an ethical position layered on top.** "This emptiness... is what
 makes Buddhism friendly. Its nature is incompatible with fundamentalism."

@@ -229,7 +229,7 @@ where its counterculture already lives.**
 > accounts of itself are held simultaneously by each individual rather than distributed between factions.
 > **A counterculture written for it would have been a fabrication.** The consequence is worth having — such a
 > district **cannot be reformed from within and cannot be opposed from within either, because there is nobody
-> to organise.** Ask: *is the contradiction between groups here, or inside each person?*
+> to organize.** Ask: *is the contradiction between groups here, or inside each person?*
 >
 > **Do not default to a refusal.** *(Added 2026-08-29, after four countercultures.)* Three of the four so far
 > are refusals — Taurus's decline the record, Leo's decline recognition, Scorpio's decline the silence — and the

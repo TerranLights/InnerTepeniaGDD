@@ -141,7 +141,7 @@ harder to quietly ignore.
 
 **Read it as four questions, which map directly onto the capability frame in §3:**
 
-- **What does this environment give freely?** (light, water, stone, shelter, altitude, a harbour, a view)
+- **What does this environment give freely?** (light, water, stone, shelter, altitude, a harbor, a view)
 - **What does it withhold absolutely?** (daylight for four months, liquid water, a horizon, a way out in winter)
 - **What does it demand continuously?** (heat, pressure, snow clearance, ice-movement correction)
 - **What does it permit but punish?** (going outside, being alone, being late, being ill)

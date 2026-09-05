@@ -31,7 +31,7 @@ arrivals and honeymooning strangers with the identical welcome.*
   different population than the one that first staffed the station"), §18 (St. Douglas veneration, "complete
   in its connection" since city, subnet, and territory all carry his name), §24 (confirmed subnet hub; the
   Split Brain severed inter-subnet links specifically, not intra-subnet ones).
-- **Input B — Geography & Geology:** `Specs/Mawson.md`. Horseshoe Harbour, Mac.Robertson Land, Indian-Ocean-
+- **Input B — Geography & Geology:** `Specs/Mawson.md`. Horseshoe Harbor, Mac.Robertson Land, Indian-Ocean-
   facing coast within the Australian Antarctic Territory (the largest national Antarctic claim by area) — St.
   Douglas is patron of the city, the subnet, *and* the territory at once.
 - **Input C — Local Infrastructure:** `Mawson_Physical_Infrastructure_Attributes.md` — confirmed 13 total

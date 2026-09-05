@@ -68,7 +68,7 @@ sit down in Libra's chamber. **This is not a service Libra provides so much as a
 Finding IX establishes what it costs.
 
 **(2) Procedure.** Forms, precedents, weighting formulas, hearing structures. Other districts adopt Libra's
-processes because they work and because adopting them means Libra will recognise the outcome. **The Yards
+processes because they work and because adopting them means Libra will recognize the outcome. **The Yards
 exports standards for building; Libra exports standards for deciding**, and the two districts have never noticed
 they are in the same business.
 
@@ -90,7 +90,7 @@ founder's statue, no hero, no face**. Where the Yards has its Two Founders and A
 has a device**, and venerating a device means there is nobody to appeal to and no manual override.
 
 **Bilateral symmetry governs everything.** Paired approaches, matched wings, chambers with two equal sides and a
-central pivot. **Nothing in the district is off-centre**, and residents find asymmetry in other districts
+central pivot. **Nothing in the district is off-center**, and residents find asymmetry in other districts
 faintly distressing in a way they can rarely articulate.
 
 **The seat, not the person, is the architectural unit.** *(Fused from Byzantine court administration — see
@@ -114,7 +114,7 @@ one would require a decision with a name on it.**
 **Proposed.** *(Substrate §14.8 hands over a genuinely counterintuitive art direction and it should be taken
 literally.)*
 
-**Colour:** pale blue, rose, tan, white, and copper gone soft with age. **No contrast, no saturation, nothing
+**Color:** pale blue, rose, tan, white, and copper gone soft with age. **No contrast, no saturation, nothing
 memorable.** The government district is deliberately **the least visually striking place in the city** — which
 matches its own constellation, one of the faintest in the sky.
 
@@ -185,7 +185,7 @@ forecloses one.
 **Proposed. General population**, and the substrate describes it directly.
 
 **Elegant understatement, never display.** *(Substrate §4: "the single pearl droplet earring, not the ruby
-necklace.")* Symmetrical cuts, cool lines, black and white, and **the colours carrying stated functions** —
+necklace.")* Symmetrical cuts, cool lines, black and white, and **the colors carrying stated functions** —
 *pink for power, blue for advancement, white for statement* — which every Libran reads instantly and no visitor
 does. **Never gaudy. Never expensive-looking.** Quality is real and invisible.
 
@@ -214,7 +214,7 @@ deliberate dossier system. Instead, four separate strands of Libra's own thoroug
 record-keeping culture"* converged into one. **There is no author. There was never a decision.** *(This is the
 same shape as the substrate's "tuned formula" hook — a thing that is provably skewed and that nobody skewed.)*
 
-> **The honest defence, and it is genuinely strong.** *(Fused from Geneva and the ICRC's confidentiality
+> **The honest defense, and it is genuinely strong.** *(Fused from Geneva and the ICRC's confidentiality
 > doctrine, researched for this pass.)* The real institution's position is that **confidentiality is "the key
 > that opens doors that would otherwise remain shut"** — that **"confidential dialogue isn't silence"** — and
 > that neutrality signals to every party that its leadership *"isn't beholden to any of them."* Its most
@@ -316,7 +316,7 @@ reassignment, which changes nothing about their work and everything about their 
 
 **Personal struggles.** An official who knows a ruling is wrong and can find no procedural route to say so —
 **and there is no such route, by design** (Finding VII). Someone who has been agreeable for so long they can no
-longer locate their own position on anything. **A True Believer twenty years in, still organised, still
+longer locate their own position on anything. **A True Believer twenty years in, still organized, still
 powerless, still correct.** *(The substrate names the endpoint: this temperament's characteristic collapse is
 of self-worth — "the giver of care to everyone who does not count itself among the parties owed any.")*
 
@@ -427,7 +427,7 @@ skewed them**, and the audit that would detect a skew is run by the office that 
 
 **(b) Counterculture — the True Believers are it, and canon already has them.** *(Step C confirms rather than
 derives — the second such case, after the Yards.)* **What Libra requires of everyone is that grievances take
-procedural form.** The True Believers *(canon)* comply with that requirement completely — they organise, they
+procedural form.** The True Believers *(canon)* comply with that requirement completely — they organize, they
 petition, they cite the Suspended Compact, **they are entirely proper** — and are functionally powerless,
 because the procedure they are correctly using has no step at which it produces a decision.
 
@@ -491,7 +491,7 @@ existence is the closest thing Libra has to admitting Finding XI.
 ## XVI. Robot-Specific Culture — the capstone (Phase 8)
 
 **Scope note**, as with the seven completed districts. **Lens:** theme/role-based — Libra's robot population
-organises around the district's defining vocation, **holding the relation.**
+organizes around the district's defining vocation, **holding the relation.**
 
 **Finding 1 — The seat-not-person rule applies identically to both populations, and this is the district's
 strongest genuine claim.** *(Inheritance: adapted pool-draw. Iceberg: Deep Culture.)* Authority is borrowed by
@@ -567,7 +567,7 @@ committee over government by a leader. It has never had the second option availa
 > a correctly-handled case has failed — because every individual step succeeded.)*
 >
 > **From the Byzantine material: the administrative class is trusted precisely because it cannot become a rival
-> centre of authority** (Finding VII). **Applied: not producing an accountable individual is not a defect the
+> center of authority** (Finding VII). **Applied: not producing an accountable individual is not a defect the
 > district tolerates — it is the feature the district was built around**, and undoing it would be understood,
 > correctly, as making the apparatus corruptible.
 
@@ -635,7 +635,7 @@ quality in Libra is colorlessness, which comes from taking refuge on the safe si
 is where Libra is at its best and law is what makes Libra grey, and these are the same faculty applied to
 different things.** Applied to a dispute between parties, it produces the finest legislative apparatus in the
 city. Applied to the district's *own* life — its architecture, its dress, its music, its holidays — it produces
-colourlessness, because the same instinct that will not prejudge a case will not commit to a preference.
+colorlessness, because the same instinct that will not prejudge a case will not commit to a preference.
 **Libra is grey at home and excellent at work for one reason.**
 
 ### The two source-gap absences, which are the district's own condition
@@ -719,7 +719,7 @@ assumes affluence, **for a district whose defining act is rationing.**
 - **Gate 7 Unused research: recorded.** **All four picks researched at concrete level — the first complete set**,
   and **all four changed findings rather than ornamenting them**: Brussels/EU gave *accountable somewhere else*
   (XVII); Byzantine court administration gave the seat-not-person mechanism (VII); Canberra gave the
-  demographic monoculture and its sampling error (X); Geneva/ICRC gave the honest defence of the Files (IX).
+  demographic monoculture and its sampling error (X); Geneva/ICRC gave the honest defense of the Files (IX).
   *(Honest contrast with Aquarius, where two of six researched picks produced no finding. Four picks is a small
   enough set that the difference-not-tier rule had nothing to exclude.)*
   **Substrate material available and deliberately unused:** the **paired star-names** — *"the insufficient
@@ -749,7 +749,7 @@ thirty-year clerk; **Mentor** = a senior official training a newcomer. Plus mand
   seat I will have done nothing."* · **addition** → **accepted**, folded into Findings VII and XVI.2.
 - **The Lover faculty** *(mandatory — is this place alive, and could anyone love it?)* → **The most difficult
   answer this question has produced.** Libra is *pleasant* everywhere and *alive* almost nowhere: no native
-  cuisine, ceremonial-only music, deliberately colourless architecture, no festival of its own. **But its
+  cuisine, ceremonial-only music, deliberately colorless architecture, no festival of its own. **But its
   leisure is genuine** — recreational argument, conducted for pleasure — and the district's aesthetic capacity
   is real, merely pointed outward (Finding XIII(d)). **Verdict: it is loved by the people who work in it, in
   the way a craft is loved, and by nobody else.** Recorded rather than resolved.
@@ -793,7 +793,7 @@ legitimate outcome and the first time it has occurred.
 
 **Standout: Finding IX — the Files are the residue of the one property that lets Libra function.**
 
-The Geneva material supplied the honest defence and it changes the district completely. **Libra can convene
+The Geneva material supplied the honest defense and it changes the district completely. **Libra can convene
 Concordia because it does not repeat what it hears** — confidentiality as *"the key that opens doors that would
 otherwise remain shut."* **So the Surveillance Files are not primarily an abuse.** They are what accumulates
 when a district must hold everything in order to be trusted with anything, and canon has already established
@@ -807,7 +807,7 @@ archive of everything Libra knows and cannot say grows every year, held by the o
 of deciding what to do with it.**
 
 **Runner-up: Finding VII — the seat, not the person.** Byzantine court administration supplied a mechanism by
-which a class holds enormous real power *because* its members structurally cannot become rival centres of
+which a class holds enormous real power *because* its members structurally cannot become rival centers of
 authority. **Libra reaches the same arrangement procedurally rather than bodily** — authority belongs to the
 seat, rulings are issued by office and date, nobody accumulates a following — **and regards it as the guarantee
 of its impartiality, which it is.** Ask a Libran who decided something and you get a complete, sincere answer

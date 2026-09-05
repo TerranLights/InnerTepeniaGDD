@@ -332,7 +332,7 @@ the runbook predicted it would.**
 **The attractive version.** Zhongshan retained **82.66% of its humans and only 73.26% of its robots** across
 the Orbital Era migration — a **+9.40-point** gap favoring humans. Against the cluster it looks decisive
 (Sinheung +2.46, Shirayuki −6.86). It invites an obvious and satisfying reading about who the orbital
-programme drew away.
+program drew away.
 
 **The arithmetic that killed it.** Scored against all 33 cities present in both censuses:
 
@@ -373,7 +373,7 @@ rotating-operator founding model across all 35 cities:
 free, and it satisfies Gate 6 before the pass begins.** It is also **481 years** of continuous habitation
 (2083–2564) that no other inhabited Tepenian city has.
 
-**The discipline it imposes is as important as the licence.** The same passage forbids reading any of this as
+**The discipline it imposes is as important as the license.** The same passage forbids reading any of this as
 cultural inheritance from China, and §11 forbids any founding narrative implying the real station's personnel
 met the 2564 exiles. **The continuity is demographic and physical. It is not cultural, and writing it as
 cultural would violate a binding cross-project law.**

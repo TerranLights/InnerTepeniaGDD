@@ -74,7 +74,7 @@ character, traced back to one hostess's own deliberate, initially contested inve
 
 ## The Overlook Couples Kept Returning To
 
-A customary visit to the Prince Charles Mountains overlook above Horseshoe Harbour — timed for whichever of
+A customary visit to the Prince Charles Mountains overlook above Horseshoe Harbor — timed for whichever of
 polar night or midnight sun happens to be in season during a given stay — became honeymooning couples'
 established shared anchor activity, treated as the defining memory of the visit regardless of which extreme
 they actually encountered.

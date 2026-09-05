@@ -116,7 +116,7 @@ in the city.
 power, the Yards supplies the thing the power runs through.**
 
 **(2) Qualified people, and this is the real export.** *(Substrate §6: the five native occupations — teacher,
-manager/organizer, accountant, executive, programmer — all share the shape of **imposing order on someone else's
+manager/organizer, accountant, executive, programr — all share the shape of **imposing order on someone else's
 material**.)* The Yards exports **organizers**: people other districts bring in to make a chaotic undertaking
 finish on time. Its own self-image, stated plainly, is that other places *cannot organize themselves without us*
 — which is both slightly insufferable and substantially true.
@@ -255,7 +255,7 @@ undramatic**, marked by a change in what people ask you rather than by any cerem
   procedure decides, and the schedule decides the procedure. **The Government District** — deliberation
   continues. **Each finds the other two negligent**, and none of them is wrong about the others' failure mode.
 - **Natural allies:** **Taurus** (shared material realism; and the corrective — *"great at reining you in when
-  you're going too hard"*) and **the Undergrid** (instant mutual recognition, natural division of labour, with
+  you're going too hard"*) and **the Undergrid** (instant mutual recognition, natural division of labor, with
   a real risk of mutual suffocation). **Scorpio** is the one relationship where trust genuinely runs deep, with
   the substrate's own caution attached: these two **tyrannize when paired**, and isolate together.
 
@@ -776,7 +776,7 @@ its proper archetype roster** (`00f`, rebuilt earlier the same day).
   Pullman, Illinois; the medieval guild cities. **Deprioritized as redundant (5):** Yekaterinburg, Birmingham,
   Detroit, Manchester, Shenzhen — one industrial-city cluster the district is already saturated with.
   **Genuine omission (1): Dubai's skyscraper hierarchy**, the only pick addressing *vertical status* and
-  migrant labour, and the first place to look when this district is next expanded — it bears directly on
+  migrant labor, and the first place to look when this district is next expanded — it bears directly on
   Finding I's status lighting. **Substrate material available and deliberately unused:** the **apprentice's
   handbook** *(substrate §14.2)* — sincere, well-meant career advice telling the disadvantaged worker to
   *"work at looking more interested in their work."* **The substrate names it the single most damning document

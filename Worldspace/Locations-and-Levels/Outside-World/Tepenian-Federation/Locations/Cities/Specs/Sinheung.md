@@ -132,7 +132,7 @@ Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 �
 **Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free terrain microclimate (slightly warmer than surrounding ice sheet in summer); cold continental winters; Larsemann Hills moderating effect
 **Mean annual temperature:** approximately −10°C
 **Record extremes:** record high **+9.4 °C** (Dec); record low **-45.4 °C** (Aug) _(NOAA NCEI GHCN-Daily station `AYM00089574` — Progress, ~0 km; daily observations 1988-2026)_ *(researched 2026-09-04)*
-**Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of metres offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
+**Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of meters offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
 **Temperature range:** coldest months avg −22°C; warmest month avg 0°C
 **Polar night:** approximately May 29 → Jul 16 (~49 days)
 **Midnight sun:** approximately Nov 22 → Jan 22 (~62 days)

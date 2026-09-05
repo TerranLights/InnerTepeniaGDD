@@ -256,13 +256,13 @@ grep alone was not sufficient to find the problem.**
 > **Palette.** Warm, soft, low-saturation — greens, unbleached naturals, and the warm tones Mawson-descended
 > households favour district-wide (`District_Refugee_Diaspora_Composition.md`).
 
-`District_Refugee_Diaspora_Composition.md` contains **zero** colour/palette/warm-tone content anywhere — grep
-for `warm tone|palette|colour|color` returns nothing. The Mawson→Cancer entry covers the First Walk, the
+`District_Refugee_Diaspora_Composition.md` contains **zero** color/palette/warm-tone content anywhere — grep
+for `warm tone|palette|color|color` returns nothing. The Mawson→Cancer entry covers the First Walk, the
 Welcome Plaza and Welcome Feast, and the Unbroken Watch; nothing aesthetic. The claim also sits in mild tension
 with the Mega-Init's established **"white-and-green palette"** (`Cancer_Mega_Init.md:36`).
 
 **Two clean resolutions, pick one:** (a) drop the false citation and keep the palette as an honest new
-proposal, reconciled explicitly against the established white-and-green; or (b) actually ground a Mawson colour
+proposal, reconciled explicitly against the established white-and-green; or (b) actually ground a Mawson color
 preference in the diaspora file first, then cite it.
 
 ### Issue 4 — `Cancer/README.md` is a stale compilation · **needs a decision**
