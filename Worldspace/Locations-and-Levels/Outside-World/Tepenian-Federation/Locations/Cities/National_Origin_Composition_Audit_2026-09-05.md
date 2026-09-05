@@ -194,3 +194,94 @@ cities. A checker cannot tell an override from an error — only the change-log 
 
 📎 `Upper_Earth_Immigration_Composition.md` *(method + per-city raw layer)* · `Specs/*.md` *(authoritative)* ·
 `Official_Population_Census.md` *(National Origin table, downstream of everything above)*
+
+---
+---
+
+# 8 · ⭐⭐⭐ THE RECALCULATION — **run 2026-09-05, at the developer's direction.** *Projection, NOT applied.*
+
+**Developer:** *"go ahead and recalculate the full numbers first, and let's see how they turn up."*
+
+## 8.1 Two more checker bugs found, and one canon bug that wasn't
+
+⛔ **My per-nation parser rejected rows whose nation cell carried an annotation** — *`| Notable | Uruguay
+*(founding wave)* | 3.70% | …`*. **It reported Palmer City's shares summing to 92.39%.** ✅ **False alarm —
+Palmer City sums to 100.00.** *Re-parsed with annotations stripped: **all 33 per-nation tables sum to 100 and
+contain no duplicate nations.*** ⭐ **The tables are internally sound; only their MEMBERSHIP is incomplete.**
+
+⛔ **The gateway exemption was applied globally.** *The file's own table gives each gateway a **region**:
+Ushuaia/Punta Arenas → Peninsula · Cape Town → QML/Weddell · Christchurch → Ross Sea · Hobart/Fremantle → East
+Antarctic.* **Made region-aware, which removed one false positive (Australia at Esperanza — Hobart does not
+serve the Peninsula).** ⭐ **32 gaps stand, across the same 19 cities.**
+
+## 8.2 Method of the recalculation
+
+⭐ **Missing nations inserted at Significant weight (3 shares); existing shares scaled down proportionally.**
+⛔ **Deliberately NOT recomputed from scratch** — *that would overwrite hand-tuning such as Sinheung's
+"hand-adjusted 2026-07-06 to restore South Korea to Primary (34.62%)."* ***Dilution preserves every existing
+relative proportion exactly and makes room for the new entrants.***
+✅ **Tier placement checked per city against the natural-gap rule** — *all 32 fall inside their city's existing
+Significant pool band; none would sit better in Notable, and none is promoted to Primary.*
+
+## 8.3 The national result — human exiles, rebuilt as a direct sum
+
+**Four nations move sharply. Everyone else falls 0.3–14.1% by pure dilution. The total is conserved.**
+
+| Nation | Before | After | Δ | % |
+|---|--:|--:|--:|--:|
+| ⭐⭐ **Spain** | 75,198 | **315,907** | **+240,709** | **+320.1%** |
+| ⭐⭐ **Italy** | 161,119 | **393,394** | **+232,275** | **+144.2%** |
+| ⭐ **Canada** | 281,797 | **502,843** | **+221,046** | **+78.4%** |
+| ⭐ **Russia** | 422,622 | **739,662** | **+317,040** | **+75.0%** |
+| Indonesia | 543,295 | 553,718 | +10,423 | +1.9% |
+| *all 38 others* | | | *negative* | −0.3 … −14.1% |
+| **TOTAL** | **14,842,262** | **14,842,488** | **+226** | *rounding* |
+
+## 8.4 ⭐⭐⭐ THE PROOF THE GAPS WERE REAL — **inversions no reading of the method survives**
+
+| | Before | After |
+|---|---|---|
+| **Italy (27M pool)** vs **Philippines (5M)** | ⛔ 161,119 **below** 165,288 | ✅ 393,394 above 159,697 |
+| **Italy** vs **Vietnam (5M)** | ⛔ **below** 167,199 | ✅ above 159,146 |
+| **Italy** vs **South Africa (3M)** | ⛔ **below** 163,290 | ✅ above 146,759 |
+| **Spain (20M pool)** vs **Estonia (0.6M)** | ⛔⛔ 75,198 **below** 182,906 | ✅ 315,907 above 170,033 |
+| **Spain** vs **Latvia (0.6M)** | ⛔⛔ **below** 127,161 | ✅ above 119,369 |
+| **Spain** vs **Croatia (1.3M)** | ⛔⛔ **below** 132,525 | ✅ above 119,030 |
+
+> ### ***Spain — a 20M-pool nation with its own Antarctic station — ranked 41st of 43, below half the Baltic
+> states. Italy, at 27M, ranked below the Philippines.***
+> **Those are not defensible under any tiering rule, in any direction. They are the arithmetic signature of the
+> subnet-block gaps in §3.**
+
+## 8.5 Rank movement
+
+| Nation | Before | After | Move |
+|---|--:|--:|--:|
+| ⭐⭐ **Spain** | 41st | **14th** | **+27** |
+| ⭐⭐ **Italy** | 24th | **13th** | **+11** |
+| ⭐ **Russia** | 11th | **6th** | **+5** |
+| Canada | 12th | 11th | +1 |
+| South Korea / UK | 4th / 3rd | 3rd / 4th | *swap* |
+| France | 10th | 12th | −2 |
+
+*USA, China and Japan hold 1st, 2nd and 5th throughout.*
+
+## 8.6 ✅ THE SUM RECONCILES — which validates the whole parse
+
+```
+direct sum of the 33 Specs per-nation tables                14,842,262
++ Byrd 186,268 + Vostok 129,617 (NO per-nation table)          315,885
++ {{Bunger Hills City}} 465,147 (no Specs file yet)             465,147
+                                                          = 15,623,294
+census City Populations table states                        15,623,523
+                                                    off by         229
+```
+⭐ **229 across 43 nations × 33 cities is rounding**, and matches the file's own historical tolerances
+*("off by 4… immaterial", "off by 11… immaterial")*.
+
+## 8.7 ⚠ FOUR CITIES HAVE NO PER-NATION TABLE AT ALL — a separate gap
+
+⛔ **Byrd · Dome Fuji · Kunlun · Vostok.** *Byrd's tier summary lists **36 Notable nations** and there is no
+breakdown behind it.* **They are absent from both columns above, and from any direct-sum rebuild of the
+census's National Origin table** — *which is precisely the drift that table's own notes warn about.*
+**Not in scope for this audit; logged.**
