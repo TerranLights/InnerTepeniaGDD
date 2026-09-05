@@ -16,6 +16,52 @@ Three factors combined:
 
 **How the tiers are formed:** All nations in each city are ranked together by Gini-adjusted effective population. Tier 1 takes the nations with the largest effective pool (typically the top 1–2, determined by natural gaps in the ranking). Tier 2 takes the mid-range cluster. Tier 3 takes the smallest effective pools. Tier boundaries fall at the largest ratio gaps in each city's specific ranking.
 
+---
+
+### ⭐ HOW FACTOR 1 IS MEASURED — the ±3 solar-UTC window *(stated explicitly 2026-09-05)*
+
+**Factor 1 was applied from the start but never written down as a procedure.** *It has been operating inside the
+per-city notes below all along — e.g. Mirny: "SE Asian corridor (all UTC+7–8, within ±3 of Mirny's UTC+6) is the
+dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukraine outside ±3 window**."*
+**Recording it so it stops being reconstructed from examples:**
+
+1. **A city's solar UTC = round(longitude ÷ 15).** *Davis 77°58'E → +5 · Mirny 93°01'E → +6 · Casey 110°32'E → +7.*
+2. **Distance = |nation UTC − city UTC|.**
+3. **A small-pool nation qualifies for the Notable tier only if distance ≤ 3.** *Proximity is what gets a small
+   nation into a city's composition at all; large pools reach anywhere.*
+4. **Gateway exception:** *a nation routed through another nation's gateway inherits the gateway's distance, not
+   its own meridian's.* **New Zealand at UTC+12 appears across the Mirny subnet "via Hobart" for this reason.**
+
+> ## ⛔⛔ AND THE REFINEMENT THAT CAUGHT A REAL ERROR — **A NATION'S UTC IS A FOOTPRINT, NOT A SCALAR**
+> ***Added 2026-09-05, after Russia was scored at Moscow's +3 and wrongly excluded from a UTC+7 city.***
+>
+> **Russia spans ELEVEN time zones, +2 to +12.** 🔬 **Novosibirsk (~1.6M, its third-largest city), Krasnoyarsk
+> (~1.2M), Tomsk, Kemerovo and Barnaul all sit at UTC+7** — *so against an East Antarctic city on that meridian
+> Russia's distance is **0**, tying the nearest nations on Earth, not 4.* **Seven of its eleven zones fall inside
+> a ±3 window centered on +7.**
+>
+> ### ⭐ THE RULE: **distance = the MINIMUM over the zones where a meaningful share of the nation's exile-eligible
+> pool actually lives.**
+>
+> ⛔ **"Meaningful share" is load-bearing and is the guard against the opposite error** — *scoring a nation on
+> territory rather than population:*
+>
+> | Nation | Tempting entry | Verdict |
+> |---|---|---|
+> | ⭐ **Russia** | **Siberian belt, +5 to +9 — a large minority of its whole pool** | ✅ **IN.** *A population, not an outpost* |
+> | **USA** | Guam, UTC+10 | ⛔ **OUT** — *~170k. A pixel, not a pool* |
+> | **France** | Réunion +4 · Kerguelen +5 · New Caledonia +11 | ⛔ **OUT** — *Réunion is ~2.5% of France's effective pool; admitting France on it would import metropolitan France's entire 35M through an island* |
+> | **UK** | *(no meaningful civilian population in +4…+10)* | ⛔ **OUT** |
+>
+> ⚠ **Other multi-zone nations, checked at the same time and already scored correctly:** **Indonesia** *(+7
+> Java, distance 0)* · **Australia** *(+8 Fremantle / +10 Hobart)* · **China** *(single official +8)*.
+>
+> ### ⚠⚠ THIS CREATES A KNOWN INCONSISTENCY TO REVIEW — **Davis vs Zhongshan**
+> **Davis (77°58'E) omits Russia from its Significant tier; Zhongshan (76°22'E) includes it.** *The two sites are
+> **1.6° apart** and share solar UTC+5, where Yekaterinburg and Perm put Russia at distance 0 for both.*
+> ⛔ **One of the two is wrong. Flagged 2026-09-05, not fixed** — *the Specs files are authoritative over this
+> raw layer and both would need checking together.*
+
 **Gini-adjusted effective exile populations (approximate):**
 | Nation | Gini-adjusted effective exiles | Notes |
 |--------|-------------------------------|-------|
@@ -531,6 +577,70 @@ Same geographic cluster as Davis. *(Corrected 2026-07-13: the Significant-tier r
 | 1 — Primary | **China** (210M), **USA** (155M) | Casey sits at the boundary between Ross Sea and East Antarctic corridors; the Pacific approach from USA (~12,000km) is shorter here than at deeper East Antarctic stations, bringing USA into T1 co-primary alongside China |
 | 2 — Significant | **Japan** (65M), **France** (35M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; France at 35M — operator of nearby DdU; Australia (~3,400km Hobart — shortest Australia-to-Antarctica route of any Tepenian city) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor (UTC+7–8) dominant in T3; Thailand and Vietnam share the same solar UTC as Casey; Philippines and Malaysia one step east; NZ via Hobart elevated by Casey's boundary position between Ross Sea and East Antarctic corridors |
+
+---
+
+### {{Bunger Hills City}} *(Bunger Hills oasis, Queen Mary Coast, ~66°17'S 100°47'E — the 38th city, populated 2026-09-05)*
+
+⚠ **Placeholder name.** ⭐⭐ **Computed PROXIMITY-FIRST at the developer's direction** — *"what we really care
+about the most is time-zone proximity"* — **so the ±3 window above is applied to EVERY tier here, not only to
+Notable.** ⛔ *This is the only city in the corpus computed that way, and it is **not** a general method change.*
+
+> ### ⭐ WHY THE STRICTER GATE IS JUSTIFIED AT THIS SITE SPECIFICALLY — **and nowhere else**
+> ***This is the only Tepenian city with no port of its own and a single overland approach.*** *Every other
+> coastal city can be reached directly by sea from any gateway. This one is sealed from open water by the
+> Shackleton Ice Shelf and reachable **only through Casey** — `[CGRM 2026-09-01 · Path 6 · developer ruling]`,
+> 300+ km overland, at the far end of the Australian corridor.* **Distant nations are not diluted here; they
+> are filtered, because there is exactly one door.** *(`Bunger_Hills_City/Development_Brief.md` §3.5.)*
+
+**Solar UTC +7** *(100.78 ÷ 15 = 6.72)* — **the same as Casey.** **Window: UTC+4 … +10.**
+
+| Tier | Nations | Key drivers |
+|------|---------|-------------|
+| 1 — Primary | **China** (210M, d=1) | Largest Gini-adjusted pool on Earth and inside the window. ⭐ **Reduced from 28.58% to 21.58% by developer ruling**, the 7.00 freed points spread proportionally across the four distance-0 nations plus the gateway |
+| 2 — Significant | **Russia** (25M, **d=0**), **Indonesia** (16M, **d=0**), **Japan** (65M, d=2), **South Korea** (26M, d=2), **Australia** (13M, d=1) | ⭐⭐ **Russia enters by SIBERIA, not by Moscow** — *Novosibirsk and Krasnoyarsk sit on this exact meridian; see the footprint rule in the Methodology.* **Australia is the gateway** *(Fremantle/Hobart)* **and the corridor the only road runs down — it sets the founding-wave character** |
+| 3 — Notable | **Thailand** (8M, d=0), **Vietnam** (5M, d=0), **Malaysia** (5M, d=1), **Philippines** (5M, d=1), **New Zealand** (2.6M, via the Hobart gateway) | SE Asian corridor at distances 0–1; NZ inherits Australia's gateway distance rather than its own +12 |
+
+> ## ⭐⭐⭐ THE RESULT — **the only Tepenian city with no Western European or American presence at all**
+> **Germany (+1, d=6) · France (+1, d=6) · UK (±0, d=7) · USA (−6, d=13) · South Africa (+2, d=5) are all
+> genuinely outside the window.** ***Russia is genuinely inside it.*** **That is not a stylistic choice; it is
+> where the meridian falls.**
+>
+> ## ⭐⭐ AND THE SIGNIFICANT TIER IS ORDERED BY PROXIMITY, NOT POOL
+> **Russia (25M, d=0) and Indonesia (16M, d=0) BOTH outrank Japan (65M, d=2).** *Nowhere else in this document
+> does a 16M pool sit above a 65M one.* ***That inversion is what "proximity matters most" looks like as a
+> number.***
+
+**Final shares — de-stacked; totals exact against the city's census figures:**
+
+| Tier | Nation | d | Pool | **Share** | CI humans | CI robots | CII humans | CII robots |
+|---|---|:-:|--:|--:|--:|--:|--:|--:|
+| **Primary** | **China** | 1 | 210M | **21.58%** | **100,378** | **104,189** | 71,829 | 74,522 |
+| Significant | **Russia** | **0** | 25M | **12.60%** | 58,609 | 60,834 | 41,938 | 43,511 |
+| Significant | **Indonesia** | **0** | 16M | **12.23%** | 56,887 | 59,047 | 40,707 | 42,233 |
+| Significant | Japan | 2 | 65M | 11.98% | 55,725 | 57,840 | 39,875 | 41,370 |
+| Significant | South Korea | 2 | 26M | 11.22% | 52,189 | 54,171 | 37,345 | 38,745 |
+| Significant | Australia | 1 | 13M | 11.03% | 51,306 | 53,254 | 36,713 | 38,089 |
+| Notable | Thailand | **0** | 8M | 5.15% | 23,955 | 24,865 | 17,141 | 17,784 |
+| Notable | Vietnam | **0** | 5M | 4.76% | 22,141 | 22,982 | 15,843 | 16,437 |
+| Notable | Malaysia | 1 | 5M | 3.30% | 15,350 | 15,933 | 10,984 | 11,396 |
+| Notable | Philippines | 1 | 5M | 3.18% | 14,792 | 15,353 | 10,584 | 10,981 |
+| Notable | New Zealand | *gw* | 2.6M | 2.97% | 13,815 | 14,339 | 9,885 | 10,256 |
+| | **TOTAL** | | | **100.00%** | **465,147** | **482,807** | **332,844** | **345,324** |
+
+*Tier gaps: China → Russia **1.71×** (T1|T2); Australia → Thailand **2.14×** (T2|T3). Robot figures apply the
+same national proportions as the human population, per standing methodology.*
+
+⚠ **The founding-wave / long-run tension may not exist here.** *The method's temporal note says proximity sets
+founding character and pool sets the long-run majority — normally **Australia** then **China**. But
+`Development_Brief.md` §2 records this site **abandoned in 1979 and dark for 43 years**: a city founded late is
+founded straight into the equilibrium, with no early wave to set a different stamp first.* ⏸️ **Unresolved —
+the founding date decides it, and it is still open.**
+
+⛔ **Operator identity is NOT a factor here, per this document's own rule.** *The site's Soviet → Polish →
+Australian station lineage is a coordinate, not an identity; **`Development_Brief.md` §5 lists it as a
+founding-nation input and that reading must not be carried forward.*** ⭐ *Australia and Russia both land in
+this table anyway — by meridian and gateway, never by whose flag was on the hut.*
 
 ---
 

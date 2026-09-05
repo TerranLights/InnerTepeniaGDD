@@ -82,9 +82,67 @@ earlier both-directions ruling — the reversal is logged in `Development_Brief.
 
 ---
 
+## 4. ⭐⭐⭐ NATIONAL-ORIGIN COMPOSITION — **RUN AND RULED 2026-09-05**
+
+**Computed PROXIMITY-FIRST at the developer's direction** — *"what we really care about the most is time-zone
+proximity"* — **so the method's ±3 solar-UTC window is applied to every tier here, not only to Notable.**
+⛔ **This is the only city in the corpus computed that way, and it is not a general method change.** *It is
+justified by a fact unique to this site: **no port of its own and a single overland approach**, sealed from open
+water by the Shackleton Ice Shelf and reachable only through Casey. **Distant nations are not diluted here; they
+are filtered, because there is exactly one door.***
+
+**Solar UTC +7** *(100.78 ÷ 15 = 6.72 — the same as Casey)*. **Window UTC+4 … +10.**
+
+| Tier | Nation | d | Pool | **Share** | CI humans | CI robots | CII humans | CII robots |
+|---|---|:-:|--:|--:|--:|--:|--:|--:|
+| **Primary** | **China** | 1 | 210M | **21.58%** | **100,378** | **104,189** | 71,829 | 74,522 |
+| Significant | **Russia** | **0** | 25M | **12.60%** | 58,609 | 60,834 | 41,938 | 43,511 |
+| Significant | **Indonesia** | **0** | 16M | **12.23%** | 56,887 | 59,047 | 40,707 | 42,233 |
+| Significant | Japan | 2 | 65M | 11.98% | 55,725 | 57,840 | 39,875 | 41,370 |
+| Significant | South Korea | 2 | 26M | 11.22% | 52,189 | 54,171 | 37,345 | 38,745 |
+| Significant | Australia | 1 | 13M | 11.03% | 51,306 | 53,254 | 36,713 | 38,089 |
+| Notable | Thailand | **0** | 8M | 5.15% | 23,955 | 24,865 | 17,141 | 17,784 |
+| Notable | Vietnam | **0** | 5M | 4.76% | 22,141 | 22,982 | 15,843 | 16,437 |
+| Notable | Malaysia | 1 | 5M | 3.30% | 15,350 | 15,933 | 10,984 | 11,396 |
+| Notable | Philippines | 1 | 5M | 3.18% | 14,792 | 15,353 | 10,584 | 10,981 |
+| Notable | New Zealand | *gw* | 2.6M | 2.97% | 13,815 | 14,339 | 9,885 | 10,256 |
+| | **TOTAL** | | | **100.00%** | **465,147** | **482,807** | **332,844** | **345,324** |
+
+⭐ **Developer ruling on the Primary share: China reduced 28.58% → 21.58%**, the **7.00 freed points spread
+proportionally across Russia, Indonesia, Australia, Thailand and Vietnam** — *which is exactly **the four
+distance-0 nations plus the gateway**.* **Ratios within the recipient group preserved, per standing convention.**
+
+> ## ⭐⭐⭐ TWO RESULTS WORTH KEEPING
+> **1 · The only Tepenian city with no Western European or American presence at all.** *Germany (d=6), France
+> (6), UK (7), USA (13), South Africa (5) are all genuinely outside the window; **Russia is genuinely inside
+> it**. That is where the meridian falls, not a stylistic choice.*
+>
+> **2 · The Significant tier is ordered by PROXIMITY, not pool.** ***Russia (25M, d=0) and Indonesia (16M, d=0)
+> both outrank Japan (65M, d=2)*** — *an inversion that occurs nowhere else in the corpus.* **That is what
+> "proximity matters most" looks like as a number.**
+
+⭐⭐ **And Russia enters by SIBERIA, not by Moscow.** 🔬 *Novosibirsk (~1.6M) and Krasnoyarsk (~1.2M) sit at
+**UTC+7 — this exact meridian**. Novosibirsk → the Bunger Hills is close to a straight run down the 85–100°E
+corridor.* ***Russia is not a distant European pool trickling to the far side of the world here; it is the
+nearest large population on Earth to this longitude.***
+⚠ *This corrected a live error — Russia was first scored at Moscow's +3 and dropped. The fix produced a new
+standing rule, now written into the methodology:* **a nation's UTC is a FOOTPRINT, not a scalar; distance is the
+minimum over zones where a meaningful share of its exile-eligible pool actually lives.** *(Which also keeps Guam
+from walking the USA in, and Réunion from walking in France.)*
+
+⚠ **The founding-wave / long-run tension may not exist here.** *Normally proximity sets founding character
+(**Australia**, the gateway and the road) and pool sets the long-run majority (**China**). But §2 of the brief
+records this site **abandoned in 1979 and dark for 43 years** — and a city founded late is founded straight into
+the equilibrium, with no early wave to stamp it first.* ⏸️ **The founding date decides it, and it is still open.**
+
+📎 **Authoritative copy with full derivation: `../Upper_Earth_Immigration_Composition.md`, Mirny subnet.**
+*(Once this city has a `Specs/` file, that file becomes authoritative over both, per corpus convention.)*
+
+---
+
 # ⏸️ WHAT IS STILL OPEN
 
-## ⭐ NATIONAL-ORIGIN COMPOSITION — **the method exists; it has not been run**
+## ~~NATIONAL-ORIGIN COMPOSITION~~ — ✅ **DONE, see §4 above.** *Method notes retained:*
 
 📎 **`../Upper_Earth_Immigration_Composition.md`** *(1,190 lines)* **is the specification.** Three factors:
 
@@ -101,12 +159,13 @@ ratio gaps.**
 > character**, which is determined by geographic proximity — whoever arrived first set the initial cultural
 > identity."* **So this site has two different answers, and both are correct at different times.**
 
-**What the site's longitude implies, unrun:** **100°47'E ≈ the UTC+7 meridian band**, adjoining UTC+8.
+**What the site's longitude implied, before the run:** **100°47'E ≈ the UTC+7 meridian band**, adjoining UTC+8.
 *Gini-adjusted pools in that band, from the reference file: **China ~210M** (the largest of any nation),
 Indonesia ~16M, Australia ~13M, Thailand ~8M, Malaysia ~5M, Vietnam ~5M, Philippines ~5M.*
 ⭐ **Which points at a founding wave set by the nearest inhabited coast on that meridian and a long-run
 majority set by the largest pool — the exact founding-vs-equilibrium tension the method describes.**
-⛔ **Not computed. Not ruled. Do not treat the sketch above as an answer.**
+✅ **Both halves of that guess turned out right, and the run above is the answer — §4.** ⚠ *The sketch was
+also wrong in one place worth remembering: it omitted **Russia**, scoring it at Moscow. See §4.*
 
 > ### ⛔⛔ AND ONE TRAP, FLAGGED BEFORE ANYONE RUNS IT
 > **`Development_Brief.md` §5 lists a *"Soviet/Polish/Australian inheritance"* from the site's three historic
