@@ -68,6 +68,36 @@ Signy · Port Lockroy.** ***That is a settlement-form constraint already doing r
 > by field position in the census table, 2026-09-05** — *an earlier grep matched subnet names in the wrong
 > column and returned a longer, also-wrong list.*
 
+> # ⛔⛔⛔ AND THE BIGGER CORRECTION — **THE CAPS ARE NOT AREA-DERIVED.** *Developer, 2026-09-05.*
+>
+> > ***"I just made a judgement call, without actually checking the amount of land area (and that was true
+> > about all of them), so now, there's a possibility that we might need to check again."***
+>
+> ⛔ **So this section's premise was wrong.** *It claimed the island-cap annotations are "a settlement-form
+> constraint already doing real work in the census," implying the corpus already holds a partial extent
+> typology.* ***It does not.*** **All eleven caps are author judgment calls set without reference to land
+> area.**
+>
+> ## ⛔⛔ THEREFORE THE CAPS CANNOT ANCHOR THE EXTENT WORK.
+> ***They are not independent of extent — they are PRIOR GUESSES AT THE SAME QUANTITY.*** **Calibrating a
+> city's extent against an existing cap would be §1's forbidden move wearing a disguise: deriving extent from
+> density, after which Gate 11 returns the assumption.**
+>
+> ⚠ **A live instance, caught before it was acted on:** *during the 2026-09-05 Denison pass this file's author
+> proposed anchoring Denison's reduction to Sayowa — island-capped, ~4.5 km², 50,084/km² — as "the direct
+> analogue." **That is the trap.** Sayowa's figure is itself an unchecked judgment call, and Sayowa's own spec
+> already flags 50,084/km² as "the implausibility."*
+>
+> ## ⭐⭐⭐ WHAT THE CAPS ARE INSTEAD: **the first eleven HYPOTHESES to test.**
+> **They are not a constraint to satisfy. They are eleven existing numbers with measurable sites attached** —
+> ***which makes them the best available proving ground for Gate 11, and the natural first deliverable of the
+> extent work.*** **Measure the land, run `population ÷ area`, and see which caps survive.**
+>
+> ⭐ **This is better than starting from Denison.** *Denison is a single extreme outlier; the eleven are a SET
+> sharing one constraint type, so checking them yields a calibration CURVE rather than one point.*
+> ⛔ **And the direction of inference is now correct: area first, density second, cap revised if it fails** —
+> never the reverse.
+
 ## Candidate forms
 
 | Form | What binds it | Cities |
