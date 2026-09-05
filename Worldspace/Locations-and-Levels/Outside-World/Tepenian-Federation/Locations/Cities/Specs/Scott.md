@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Janbogo
 **Access type:** SPUR
 **Highway access:** Near Hwy 183 — same spur connection as Fort McMurdo; the two cities share the same Ross Island access point from the mainland
-**Significance:** New Zealand's Tepenian city; Fort McMurdo's immediate neighbor and longtime partner; smaller, more intimate counterpart to the Federation's largest industrial city
+**Significance:** Fort McMurdo's immediate neighbor and longtime partner; smaller, more intimate counterpart to the Federation's largest industrial city *(⛔ GPS violation removed 2026-09-05: this field opened with a claim that the Tepenian city belongs to a real-world nation. **The real-world basis is a COORDINATE, never a cause or an identity.** The city's own character comes from its relationship to Fort McMurdo, which is what remains.)*
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); damaged but partially operational alongside Fort McMurdo
 
 ---

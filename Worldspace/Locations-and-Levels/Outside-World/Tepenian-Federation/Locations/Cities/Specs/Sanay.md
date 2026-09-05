@@ -62,6 +62,12 @@ Sanay sits on Vesleskarvet, a small nunatak in the Ahlmannryggen range, Queen Ma
 
 The position is inland from the coast — the Weddell Sea is accessible but not immediately adjacent. The Queen Maud Land coastal highway connects Sanay to the other Halley subnet cities. The Ahlmannryggen nunataks provide the rocky terrain that makes the location viable.
 
+**⭐ THE CITY IS INLAND. THE PORT IS AT THE COAST. Both belong to Sanay.** *(Developer ruling, 2026-09-05, resolving a contradiction that had stood in this file since the 2026-07-13 port correction updated the Economy section but not this paragraph.)* **The city itself is built inland specifically because that is where it can stand on bedrock** — the Vesleskarvet nunatak, the same stability that brought the subnet's Arcanet nexus here. **Sanay's maritime shipping port is geographically separate, situated at the coast, and jurisdictionally belongs to Sanay.**
+
+⛔ **Seawater cannot reach the city and no engineering changes that** — the nunatak stands well above sea level, and the intervening distance is ice sheet. **Nothing is carved, dredged, or channeled inland; the freight moves overland.** ***So Sanay is a port city the way an inland rail hub is a freight city: the goods move through it, and the water is somewhere else.*** This is what the truckyards, the warehouses, the clifftop trucking and shipping depots, and the import-export business district are all *for*, and it is why the dock crews rotate against freighter schedules rather than a day/night clock — **a shift at the port means travelling out to the coast for the duration of an offload and convoying back.**
+
+⭐⭐ **The bedrock that makes Sanay stable is the same fact that puts its harbor somewhere else.** One geological feature, two opposite consequences. **And it makes the Halley subnet consistent rather than exceptional: Halley trucks its freight overland from Belgrano or Sanay, and Sanay trucks its own freight overland from its own coastal port.** ***Nobody in this subnet has a dock at their door.*** *Full treatment: `Locations/Infrastructure/Ports.md`.*
+
 ### Annual Climate
 
 **Climate data source:** South African National Antarctic Expedition (SANAP / DEA) — SANAE IV; not in READER surface list; climate data available from South African Weather Service (SAWS)
