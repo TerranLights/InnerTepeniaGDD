@@ -348,7 +348,7 @@ physical geography and ⚠ where canon is thin and a city pass should confirm.**
 | **Rothera** | **Ryder Bay** | ⭐ **A wharf for discharging cargo from supply ships**, on *"a glacially carved volcanic rock promontory."* **The site's real-world counterpart is its program's largest facility and a logistics hub for reaching other sites** | ⭐ **GEOLOGICAL** |
 | **Palmer City** | **Hero Inlet** *(Arthur Harbor adjacent)* | ⭐ **A pier, rebuilt in the modern era, at which *"docking is now done routinely."*** ✅ **Squares exactly with canon's `SEA-LINK`** — *the Hwy 1 ramp gets you to the water; the pier is what you arrive at* | ⭐ **GEOLOGICAL** |
 | **Port Lockroy** | **the natural harbor at Goudier Island** | ✅ *"Exceptional natural shelter… protected from open ocean swells by the island geometry"* — **and a working sealing and whaling harbor historically** | ⭐ **GEOLOGICAL** |
-| ⚠ **Esperanza** | **Hope Bay** | ⚠ **Thin.** *Canon carries `Esperanza_09_The_Shipping_Partner_Across_the_Bay.md`, which implies a working maritime relationship across the bay rather than a major facility* | ⚠ **confirm in its pass** |
+| **Esperanza** | **Hope Bay** | **A bay 5.6 km long and 3.7 km wide indenting the very tip of the Antarctic Peninsula, *"used as an anchorage location historically."*** ⭐ **Squares with canon's own `Esperanza_09_The_Shipping_Partner_Across_the_Bay.md`** — *a working maritime relationship across the bay, which is what a bay this size supports* | ⭐ **GEOLOGICAL** |
 
 ### Ross Sea
 
@@ -373,9 +373,9 @@ physical geography and ⚠ where canon is thin and a city pass should confirm.**
 | ⭐ **Neumayer** | **Atka Iceport** | ***A "more-or-less permanent indentation" ~16 km across in the ice-shelf front.*** **Cargo is landed at the shelf edge and hauled inland by tracked vehicle** | ⭐⭐ **ICEPORT** — *§2* |
 | **Davis** | **Prydz Bay** | **Maritime access in the austral summer, November–March, when ice allows delivery *"directly to station coastal facilities."*** *Vestfold Hills rock* | **CONSTRUCTED** *(seasonal)* |
 | ⭐ **Zhongshan · Sinheung · Shirayuki** | **shared Prydz Bay access, Larsemann Hills** | **The three sit in one coastal-hill cluster on the same bay under the same seasonal window** | **CONSTRUCTED** *(seasonal, shared)* |
-| **Casey** | **Newcomb Bay** | **The station stands on the bay's southern side** | ⚠ **confirm in its pass** |
-| ⚠ **Sayowa** | **Lützow-Holm Bay** | **An island in a bay ~220 km wide** | ⚠ **confirm in its pass** |
-| ⚠ **Denison** | **Commonwealth Bay** | ⛔ ***The site is the windiest place on Earth at sea level.*** **Any port here is a wind problem before it is an ice problem** — *and canon already builds the city around that fact* | ⚠ **confirm in its pass** |
+| **Casey** | **Newcomb Bay** | **A small bay on the northeast of Vincennes Bay — itself a V-shaped inlet 105 km wide at its mouth. The station stands on the southern side, on the Windmill Islands' rock** | ⭐ **GEOLOGICAL** *(seasonal)* |
+| ⛔⛔ **Denison** | **BOAT HARBOR** — *and it barely works* | ⭐ ***"At the seaward end of the largest valley is Boat Harbor, a 400 m long indent in the coast."*** **So Denison HAS a harbor.** ⛔ **But the site is the windiest place on Earth** *(Guinness; winds regularly over 240 km/h, annual mean 80 km/h)*, **and the wind *"whips the sea into a chop, topped with fierce spume only meters from the shore."*** *Summer brings periods of relative calm; winter storms start and end without warning* | ⛔ **GEOLOGICAL but WIND-DENIED** — see below |
+| ⛔ **Sayowa** | **Lützow-Holm Bay** — **frozen in** | ⛔ ***An icebreaker must cut through the extended landfast ice to reach the island at all***, and penetration distance falls as snow depth rises, because snow hardens the ice into snow-ice. **The island sits ~4 km off the continent and is *"surrounded by fast ice… since it is unaffected by katabatic winds"*** | ⛔ **CONSTRUCTED** — *icebreaker-dependent* |
 
 > ### ⭐⭐ THE TRI-CITIES SHARE A PORT — and that is a third shared-infrastructure cluster
 > **Zhongshan, Sinheung and Shirayuki already share one regional airport** *(`Airports.md`, "The Tri-Cities
@@ -391,11 +391,119 @@ physical geography and ⚠ where canon is thin and a city pass should confirm.**
 
 ---
 
-## ⚠ 5.6b Still needing confirmation in their own passes
+## ⭐⭐⭐ 5.6b THE KATABATIC SPECTRUM — **the thing that actually decides an Antarctic port**
 
-**Esperanza · Casey · Sayowa · Denison** — ***each has a coastline and a plausible anchorage, and none has a
-canon statement.*** ⛔ **The assignments above are the physical geography of the site, not canon.**
-⭐ **A city pass should settle these; nothing else is blocked by them.**
+***Three cities sit at three different points on one curve, and the curve explains all three.***
+
+| Wind | City | What the wind does | Result |
+|---|---|---|---|
+| ⭐⭐ **ENOUGH — and held** | **JANBOGO** | **scours the sea ice east; the Drygalski Ice Tongue stops it returning** | ⭐ **open water through most of the winter** |
+| ⛔ **TOO MUCH — nothing holding it** | **DENISON** | **arrives always from the south, off the ice, and hits the water at the shore** | ⛔ **a real 400 m harbor that is chop and spume** |
+| ⛔ **NONE AT ALL** | **SAYOWA** | ***"unaffected by katabatic winds"*** — **so nothing ever clears the bay** | ⛔ **landfast ice; an icebreaker must cut in every time** |
+
+> # ⭐⭐⭐ THE SAME FORCE MAKES ONE PORT, RUINS THE SECOND, AND ITS ABSENCE CLOSES THE THIRD.
+> **Janbogo's advantage is not that it is windy — every one of these coasts is windy.** ***It is that
+> Janbogo has a BARRIER.*** **The ice tongue converts a destructive force into a working harbor by giving the
+> scoured water somewhere it cannot come back from.**
+>
+> ⭐ **Denison has the same wind and no barrier, so it gets the violence without the benefit.**
+> ⭐ **Sayowa has a sheltered position and no wind, so it gets neither — and pays an icebreaker for it.**
+>
+> ⚠ ***So "sheltered" is not the virtue it sounds like on this continent.*** **Shelter from wind means
+> capture by ice.** *The good harbors are the ones with a wind AND something to stop the ice returning.*
+
+⚠ **This is why Denison's canon identity holds up.** *A city built in a katabatic channel, spanning valleys —
+its harbor is 400 m of coast that the wind reaches before any ship does.* ⛔ **Denison's port is a
+fair-weather port, and at Cape Denison fair weather is a window, not a season.**
+
+---
+
+# 5x · ⭐⭐⭐ HOW THE NETWORK ORGANIZES — the whole map, stacked
+
+***Written 2026-09-05, once all 37 had a status. This is the section to read if you only read one.***
+
+## The roster, by tier
+
+| Tier | Cost | Cities |
+|---|--:|---|
+| ⭐ **GEOLOGICAL** — rock does the work | **free** | **Mawson · Marambio · Port Lockroy · Rothera · Palmer City · Signy · Juan Carlos · Sejong · Esperanza · Casey** — **10** |
+| ⭐⭐ **WIND** — a polynya, held by a barrier | **free** | **Janbogo · Zukelli** *(shared)* — **2** |
+| ⭐⭐ **ICEPORT** — a bay in the shelf front | **free**, but migrating | **Neumayer** — **1** |
+| ⛔ **CONSTRUCTED** — rebuilt or cut open, every year | ⛔ **paid, forever** | **Sanay · Belgrano · Fort McMurdo · Scott · Davis · Zhongshan · Sinheung · Shirayuki · Sayowa** — **9** |
+| ⚠ **tier not established** | — | **Dumont d'Urville · Mirny** — **2** |
+| ⛔ **DENIED** — a harbor the weather takes back | — | **Denison** *(Boat Harbor, wind-denied)* — **1** |
+| ⛔ **NONE** | — | **Cape Adare** *(beach landing only)* · **Halley** *(by design)* — **2** |
+| **LANDLOCKED** | — | **Concordia · Vostok · Dome Fuji · Kunlun · Amundsen Station · Byrd · Troll · Abowasa · Princess Elisabeth · Lazar** — **10** |
+
+⚠ **Sanay is counted once, under CONSTRUCTED** — *the city is landlocked, the port is coastal, and both are
+Sanay* **(§5.4)**.
+
+---
+
+## ⭐⭐⭐ THE FINDING — **the best harbors belong to the smallest cities**
+
+> ### THE FREE HARBORS ARE IN THE PENINSULA. THE PAID HARBORS SERVE THE INDUSTRY.
+
+**Six of the ten free rock harbors are Peninsula and South Shetland cities** — *Port Lockroy, Signy, Juan
+Carlos, Sejong, Esperanza, Palmer City* — **and canon calls Port Lockroy the Federation's second-smallest
+city.** ***They inherited two-century-old sealing and whaling anchorages and pay nothing to keep them.***
+
+**Meanwhile the cities that move the most freight pay every year:**
+
+| City | What it is | What its harbor costs |
+|---|---|---|
+| **Fort McMurdo** | ***the Federation's largest industrial city*** | ⛔ **a floating ice pier, rebuilt** |
+| **Sanay** | ***"first and foremost, a major shipping and transportation port city"*** | ⛔ **a coastal offload 160 km from the city, and a convoy chain** |
+| **The Tri-Cities** | **the Larsemann industrial cluster** | ⛔ **a seasonal window, Nov–Mar** |
+| **Sayowa** | — | ⛔ **an icebreaker, every visit** |
+
+> ## ⭐ SO THE NETWORK IS INVERTED.
+> ***Tepenia's easiest ports belong to its smallest, most peripheral cities. Its largest cities buy theirs,
+> annually, and can lose them in a bad year.*** **The Peninsula is rich in the one thing it has least use
+> for.**
+>
+> ⚠ **And that is not a flaw to fix — it is why the Peninsula subnet exists at all.** *Small cities on good
+> water, close to Upper Earth, first-settled, and still the way most things arrive.*
+
+---
+
+## The three shared clusters — and each shares a different number of things
+
+| Cluster | Apart | Shares |
+|---|--:|---|
+| ⭐⭐ **Janbogo + Zukelli** | **8 km** | **airport · heat · port** — ***three systems; nothing else in the corpus shares three*** |
+| **Fort McMurdo + Scott** | **3 km** | **the ice pier** — *canon: "a political line more than a physical one"* |
+| **The Tri-Cities** | one oasis | **airport · port** — *one bay, one seasonal window* |
+
+⛔ **A shared port is a shared single point of failure.** ***Zukelli was destroyed and Janbogo was damaged;
+whatever happened to that bay happened to it once, and the two cities did not survive it equally.***
+
+---
+
+## The four Upper Earth gateways, by tier — **and they are not evenly matched**
+
+| Partner | Node | Tier |
+|---|---|---|
+| **South Africa** | **Sanay · Belgrano** | ⛔ **both CONSTRUCTED** |
+| **South America** | **Marambio** | ⭐ **GEOLOGICAL** |
+| **Australia** | **Dumont d'Urville · Mirny · Mawson** | ⭐ **Mawson is GEOLOGICAL** *(the only natural rock harbor on the continent)*; the other two unestablished |
+| **New Zealand** | ⛔ **"Ross"** | ⚠ **undecided — §6** |
+
+⭐ **So the Atlantic gateway is the expensive one and the South American gateway is free** — *and Marambio
+also feeds the domestic Weddell network, which makes it the single best-positioned port in Tepenia.*
+
+---
+
+## ⚠ WHAT THIS MEANS FOR A CITY PASS
+
+1. ⭐ **Ask what the port COSTS before asking what it carries.** *A free harbor and a rebuilt one produce
+   completely different working cultures — one has a season, the other has a rebuild.*
+2. ⭐⭐ **A CONSTRUCTED port implies a trade and a calendar.** ***Somebody rebuilds it, on a schedule, and that
+   is a job, a skill and a season nobody in a rock-harbor city has ever heard of.***
+3. **A shared port implies a relationship that cannot be dissolved** — *see the three clusters.*
+4. ⛔ **Denison and Cape Adare are the interesting negatives.** *Denison HAS a harbor and cannot reliably use
+   it; Cape Adare has a beach and no harbor at all.* **Neither is "no port" in the way Halley is** — **Halley
+   CHOSE.**
 
 ---
 
