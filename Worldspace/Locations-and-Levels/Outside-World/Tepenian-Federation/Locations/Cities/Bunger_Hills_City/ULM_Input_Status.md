@@ -20,7 +20,7 @@ mechanically file by file rather than asserted. ⚠ **Placeholder name — brace
 | ID | Requirement | Status | What exists, and where |
 |---|---|---|---|
 | **T0-1** | Existence & designation | ⛔ **BLOCKED** | **No `Specs/Bunger_Hills_City.md`.** ⚠ *And the name is a placeholder — 5 candidates in `Development_Brief.md` §4, none selected* |
-| **T0-2** | Position in the world | ⚠ **DATA EXISTS, UNADDRESSED** | **`Development_Brief.md` §3: 66°15'S, 100°45'E** *(Mirny subnet, between Mirny 93°E and Casey 110°E)*. ⚠ **Reconcile:** *the real-world oasis centre is given as **66°17'S 100°47'E**; both round to solar **UTC+7**, so nothing downstream changes* |
+| **T0-2** | Position in the world | ⚠ **DATA EXISTS, UNADDRESSED** | **`Development_Brief.md` §3: 66°15'S, 100°45'E** *(Mirny subnet, between Mirny 93°E and Casey 110°E)*. ⚠ **Reconcile:** *the real-world oasis center is given as **66°17'S 100°47'E**; both round to solar **UTC+7**, so nothing downstream changes* |
 | **T0-3** | Population magnitude | ✅ **PRESENT** | **Census row added 2026-09-05: 465,147 H / 482,807 R / 947,954 C** *(Census II 332,844 / 345,324 / 678,168)* |
 | **T0-4** | Parent | ⚠ **DATA EXISTS, UNADDRESSED** | **Mirny subnet**, verified in `Development_Brief.md` §3 — *no `**Arcanet Subnet:**` field exists because there is no spec to hold it* |
 
