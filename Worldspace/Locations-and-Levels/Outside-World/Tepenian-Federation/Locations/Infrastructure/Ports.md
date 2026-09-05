@@ -392,7 +392,7 @@ physical geography and ⚠ where canon is thin and a city pass should confirm.**
 |---|---|---|---|
 | ⭐ **Neumayer** | **Atka Iceport** | ***A "more-or-less permanent indentation" ~16 km across in the ice-shelf front.*** **Cargo is landed at the shelf edge and hauled inland by tracked vehicle** | ⭐⭐ **ICEPORT** — *§2* |
 | **Davis** | **Prydz Bay** | **Maritime access in the austral summer, November–March, when ice allows delivery *"directly to station coastal facilities."*** *Vestfold Hills rock* | **CONSTRUCTED** *(seasonal)* |
-| ⭐ **Zhongshan · Sinheung · Shirayuki** | **shared Prydz Bay access, Larsemann Hills** | **The three sit in one coastal-hill cluster on the same bay under the same seasonal window** | **CONSTRUCTED** *(seasonal, shared)* |
+| ⭐⭐ **Zhongshan · Sinheung · Shirayuki** | ⭐ **THE TRI-CITIES PORT — Nella Fjord.** *Primary dominion: **SINHEUNG**.* **See §5.6c** | **A fault-trench fjord bisecting Broknes Peninsula, rock-walled on both sides** | **CONSTRUCTED** *(seasonal, shared)* |
 | **Casey** | **Newcomb Bay** | **A small bay on the northeast of Vincennes Bay — itself a V-shaped inlet 105 km wide at its mouth. The station stands on the southern side, on the Windmill Islands' rock** | ⭐ **GEOLOGICAL** *(seasonal)* |
 | ⛔⛔ **Denison** | **BOAT HARBOR** — *and it barely works* | ⭐ ***"At the seaward end of the largest valley is Boat Harbor, a 400 m long indent in the coast."*** **So Denison HAS a harbor.** ⛔ **But the site is the windiest place on Earth** *(Guinness; winds regularly over 240 km/h, annual mean 80 km/h)*, **and the wind *"whips the sea into a chop, topped with fierce spume only meters from the shore."*** *Summer brings periods of relative calm; winter storms start and end without warning* | ⛔ **GEOLOGICAL but WIND-DENIED** — see below |
 | ⛔ **Sayowa** | **Lützow-Holm Bay** — **frozen in** | ⛔ ***An icebreaker must cut through the extended landfast ice to reach the island at all***, and penetration distance falls as snow depth rises, because snow hardens the ice into snow-ice. **The island sits ~4 km off the continent and is *"surrounded by fast ice… since it is unaffected by katabatic winds"*** | ⛔ **CONSTRUCTED** — *icebreaker-dependent* |
@@ -408,6 +408,56 @@ physical geography and ⚠ where canon is thin and a city pass should confirm.**
 > | **Janbogo + Zukelli** | airport · heat · port | **8 km apart** |
 > | **Fort McMurdo + Scott** | the ice pier | **3 km apart, "a political line more than a physical one"** |
 > | **The Tri-Cities** | airport · port | **one oasis, one bay, one window** |
+
+---
+
+## ⭐⭐ 5.6c THE TRI-CITIES PORT — **one port, three cities, and a 450-metre margin**
+
+> ### ✅ DEVELOPER RULING, 2026-09-05
+> ***One shared Tri-Cities port, under the primary dominion of whichever city has the closest access to the
+> location that is simultaneously (A) most water-accessible and (B) most protected from the elements by
+> natural geological formation.***
+
+### 🔬 The location that satisfies both: **NELLA FJORD**
+
+**The Larsemann Hills are not soft coastal hills — they are HORSTS**, *uplifted fault blocks with straight
+N–S to NNE–SSW margins*, **and the fjords run in the complementary GRABENS between them.** *West to east:*
+**Stornes** *(Thala Fjord)* · **Grovnes** *(Quilty Bay)* · **Fischer Island** *(Clemence Fjord)* ·
+**Broknes** *(Nella Fjord)*.
+
+| Criterion | Why Nella Fjord wins |
+|---|---|
+| ⭐ **(B) Protected by natural geological formation** | ***It is not a bay. It is a fault trench with an uplifted rock ridge on either side.*** **That is the strongest natural shelter the region can offer, and it is structural rather than incidental** — *the walls are the reason the water is there* |
+| ⭐ **(A) Water-accessible** | **Nella Fjord BISECTS Broknes Peninsula**, so it carries deep water inland rather than presenting an open roadstead. **Broknes is also the easternmost landform of the group** |
+
+⚠ **And this is genuinely an engineering act, not an inherited harbor.** 🔬 ***The real-world site has NO
+designated anchorage or barge landing "due to the variable sea ice conditions"; vessels anchor roughly 5
+nautical miles offshore.*** **So Tepenia built what nobody there has** — *which is exactly why the tier is
+CONSTRUCTED, and why the Tri-Cities pay for it every season.*
+
+### ⭐ Closest access — **measured, not asserted**
+
+**Distances from the head of Nella Fjord** *(69°22′58″S, 76°22′44″E)*:
+
+| City | Distance | Side |
+|---|--:|---|
+| ⭐⭐ **SINHEUNG** | **0.71 km** | **east shore** *(+0.57 km)* |
+| **Zhongshan** | **1.16 km** | **west shore** *(−0.77 km)* |
+| **Shirayuki** | **~8 km** | ⛔ **not on Broknes at all** — *it sits on Grovnes Promontory, two landforms west* |
+
+> # ⭐⭐⭐ PRIMARY DOMINION: **SINHEUNG.** Margin over Zhongshan: **450 meters.**
+
+### What that produces, and it is better than a clean win
+
+- ⭐⭐ **Zhongshan and Sinheung face each other across the same fjord.** ***The port is not comfortably inside
+  anyone's territory — the water runs between the two claimants, and each can see the other's shore from its
+  own.*** **Dominion was settled by under half a kilometre.**
+- ⚠ **A 6.7 km road already links the Broknes settlements to the continental plateau behind them**, *so the
+  landward side of this port is the pair's shared problem too.*
+- ⛔⛔ **Shirayuki is the odd city out, and materially so.** ***It is ~8 km away on a different landform and
+  cannot see the harbor it depends on.*** **It shares the airport, it shares the port, and it is present at
+  neither.** *That is a real asymmetry inside a cluster the corpus otherwise treats as three equal siblings,
+  and it is available to any Tri-Cities pass.*
 
 ---
 
