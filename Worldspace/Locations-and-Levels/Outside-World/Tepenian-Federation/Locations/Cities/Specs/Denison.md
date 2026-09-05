@@ -17,6 +17,21 @@
 **Census I (Pre-Orbital Era):** 522,975 humans / 543,168 robots / **1,066,143** combined
 **Census II (Orbital Era):** 335,394 humans / 398,108 robots / **733,502** combined *(destroyed)*
 
+> ### ⏸️ POPULATION FLAGGED FOR FUTURE REDUCTION — **developer, 2026-09-05**
+> ***"mark Denison for future number-reduction, once we have a better idea of other cities."***
+> **Denison is the corpus's worst density case.** *Its total buildable envelope is **~4.96 km²** — the cape's
+> four ridges and three valleys, plus the ~30 Mackellar Islands 3 km north — and that envelope is **final**,
+> because the next rock in Commonwealth Bay is 15 km away across the windiest water on Earth.*
+>
+> | | |
+> |---|---|
+> | **At ~4.96 km²** | **~215,000/km²** — **4.7× Manila**, the densest real city. *Workable at ~10 levels (Paris density per level)* |
+> | **On the cape alone (1.11 km²)** | ⛔ **960,489/km²** — *approaching Kowloon Walled City's historical peak* |
+>
+> ⛔ **DO NOT REDUCE YET.** ***The figure is deliberately held until other cities have extents to compare
+> against*** — **reducing it in isolation would set a precedent with nothing calibrating it.** *Census II
+> reduces proportionally when Census I does.*
+
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |

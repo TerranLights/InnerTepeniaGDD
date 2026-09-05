@@ -497,7 +497,7 @@ National communities are classified by tier based on long-run population share. 
 | 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
 | 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
 | 16 | Sinheung | Mirny | 519,191 | 550,159 | **1,069,350** | *(revised 2026-07-04; subnet corrected 2026-07-05 — moved from Mawson)* |
-| 17 | Denison | Janbogo | 522,975 | 543,168 | **1,066,143** | *(destroyed; revised 2026-07-04)* |
+| 17 | Denison | Janbogo | 522,975 | 543,168 | **1,066,143** | ⏸️ **FLAGGED FOR REDUCTION 2026-09-05** *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* |
 | 18 | Abowasa | Halley | 504,237 | 530,004 | **1,034,241** | *(revised 2026-07-04)* |
 | 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(unchanged)* |
 | 20 | Troll | Halley | 475,721 | 478,729 | **954,450** | *(revised 2026-07-04)* |
@@ -611,7 +611,7 @@ National communities are classified by tier based on long-run population share. 
 | 13 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
 | 15 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
-| 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | *(would not survive the Long Night War that followed)* |
+| 16 | Denison | Janbogo | 335,394 | 398,108 | **733,502** | ⏸️ **REDUCES WITH CENSUS I — see the Census I row** *(would not survive the Long Night War that followed)* |
 | 17 | Shirayuki | Mirny | 336,124 | 392,200 | **728,324** | *(subnet corrected 2026-07-05 — moved from Mawson)* |
 | 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
 | 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section A)* |

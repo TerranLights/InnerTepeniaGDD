@@ -58,9 +58,15 @@ dimensions — and density falls out as an output.***
 
 ## ⭐ The corpus already contains a partial version of this
 
-**`Official_Population_Census.md` annotates several cities "island cap"** — Fort McMurdo, Dumont d'Urville,
-Juan Carlos, Port Lockroy, Scott, Zukelli. ***That is a settlement-form constraint already doing real work
-in the census.*** **This approach generalizes what is already there rather than importing something new.**
+**`Official_Population_Census.md` annotates ELEVEN cities "island cap"** *(corrected 2026-09-05 — see §7b)* —
+**Sejong · Marambio · Dumont d'Urville · Fort McMurdo · Juan Carlos · Scott · Palmer City · Rothera · Sayowa ·
+Signy · Port Lockroy.** ***That is a settlement-form constraint already doing real work in the census.***
+**This approach generalizes what is already there rather than importing something new.**
+
+> ⛔ **This line previously named six cities and included Zukelli, which carries no such annotation.** *One
+> false inclusion, six omissions, in the single piece of corpus evidence this section rests on.* ⚠ **Verified
+> by field position in the census table, 2026-09-05** — *an earlier grep matched subnet names in the wrong
+> column and returned a longer, also-wrong list.*
 
 ## Candidate forms
 
@@ -162,6 +168,95 @@ caught.**
 ⭐ **The research half is tractable** — the same archives that closed the climate block *(BAS, NOAA NCEI,
 PANGAEA, ASMA management plans)* carry ice thickness, flow and terrain data. **The ruling half is not
 research and should be settled first.**
+
+---
+
+# 7b · ⭐⭐ DENISON — **worked 2026-09-05. The calibration case, and the first correction it produced.**
+
+**§6 nominated Denison as the place to start, on the grounds that it is the worst density case in the corpus.
+It was worked first, and it behaved as predicted.**
+
+## What the site actually is
+
+🔬 **Cape Denison is ~1.5 km wide and ~1 km inland, rising to meet the icecap at ~40 m**, and its structure is
+**four rocky ridges running SSE–NNW separated by three valleys**:
+
+| Feature | Geology | Buildable? |
+|---|---|---|
+| **The four ridges** | **gneiss and schist** — Gondwana-age metamorphic basement | ✅ **competent rock** |
+| **The three valleys** | ⛔ **ice, snow and glacial moraine**, with small glacial lakes and summer melt streams | ⛔ **not ground** |
+
+> ⭐ **This is WHY the spec's answer is *spanning* rather than filling.** *You cannot found in a valley whose
+> floor is moraine over ice with a lake in it. You anchor in gneiss on one ridge and gneiss on the next.*
+> **The megastructure is not an aesthetic choice — the geology forbids the alternative.**
+
+## ✅ DEVELOPER RULING — the city spans ridges, valleys AND the islands
+
+***"the city of Denison spans the four ridges, the three valleys, and the 30-or-so small islands… built
+similarly to something along the lines of Venice/Mestre."***
+
+⭐⭐ **The Mackellar Islands lie 3 km north — ~30 islands and rocks, 346 ha (3.46 km²) including intervening
+sea.** ⭐⭐⭐ **And the reference is quantitatively exact, not merely thematic: the Venice–Mestre causeway is
+roughly 4 km, and the Cape–Mackellar gap is 3 km.** *Same span, therefore the same kind of city — one
+municipality, two halves of opposite character.*
+
+⚠ **But it inverts Venice historically.** *There the islands came first and the mainland is expansion.* **Here
+the cape is the founding rock and the islands are where you go when 1.11 km² fills up** — which gives a
+three-stage growth story driven entirely by geology: ***settle the ridges → span the valleys → span to the
+islands.***
+
+## ⛔⛔ THE ENVELOPE IS FINAL — there is no third expansion
+
+🔬 **Commonwealth Bay is ~48 km wide and holds *"limited ice-free bedrock… small rocky capes, offshore
+islands, and isolated nunataks."*** **The inventory, from Cape Denison:**
+
+| | Distance | |
+|---|--:|---|
+| ⭐ **Mackellar Islands** | **3 km** | ***the last thing that is still city*** |
+| **Cape Hunter** | 15 km W | small promontory |
+| **Whetter Nunatak** | 15 km ENE | *"small rock outcrop"* |
+| **Blair Islands · Cape Gray** | ~40–48 km E | the bay's far side |
+| **Madigan Nunatak** | 33 km S of Cape Gray | isolated, above the ice sheet |
+
+> ## ⭐⭐⭐ A 3 km HOP, THEN A 12 km CLIFF.
+> **3 km of spanning is a bridge network — walkable, continuous, a city. 15 km of spanning is a supply line
+> nobody lives on.** ***Those are different objects.*** **Everything past Mackellar is a satellite — a quarry,
+> a relay, a wind station — never a district.**
+>
+> ⛔ **So Denison is the corpus's clearest case of a city that CANNOT SPREAD, ONLY STACK.** *Every further
+> person goes up or down. There is no third direction.*
+
+## The numbers
+
+| Envelope | Density | Levels for Paris-like density per level |
+|---|--:|--:|
+| **Cape only** — 1.11 km² | ⛔ **960,489/km²** | ~48 |
+| ⭐ **Cape + Mackellar** — **~4.96 km²** | **~215,000/km²** — **4.7× Manila** | ⭐ **~10** |
+
+⚠ **4.96 km² is ENVELOPE, not land** — *it includes three moraine valleys and the water between thirty
+islands.* **The figure assumes the megastructure; it is not "tall buildings on available ground."**
+
+## ⏸️ AND THE POPULATION IS FLAGGED FOR REDUCTION
+
+> ***Developer, 2026-09-05: "mark Denison for future number-reduction, once we have a better idea of other
+> cities."***
+
+⛔ **Not reduced. Held deliberately** — *reducing the worst case in isolation would set a precedent with
+nothing calibrating it.* ⭐ **Until then, ~215,000/km² over ~5 km² at ~10 levels is a usable CEILING for §7's
+band widths: whatever COMPACT means, it has to accommodate this.**
+*(Flagged in `Official_Population_Census.md` both rows, and in `Specs/Denison.md`.)*
+
+## ⛔ A CORRECTION TO THIS FILE, found while working Denison
+
+**§3 claims the census annotates six cities *"island cap"* — Fort McMurdo, Dumont d'Urville, Juan Carlos, Port
+Lockroy, Scott, Zukelli — and calls that the settlement-form typology already doing real work.**
+***That list is wrong: one false inclusion and six omissions.*** **The census annotates ELEVEN:**
+
+**Sejong · Marambio · Dumont d'Urville · Fort McMurdo · Juan Carlos · Scott · Palmer City · Rothera · Sayowa ·
+Signy · Port Lockroy** — ⛔ **and Zukelli is NOT among them.**
+
+⚠ **Corrected in §3 2026-09-05.** *Recorded rather than quietly fixed: this file's single piece of
+corroborating corpus evidence was wrong, and it is the list meant to seed the typology.*
 
 ---
 
