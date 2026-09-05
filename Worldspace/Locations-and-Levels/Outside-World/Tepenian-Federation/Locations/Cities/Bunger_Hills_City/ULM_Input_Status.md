@@ -66,7 +66,7 @@ written, all four must be marked `NOT-AN-INPUT` on creation.**
 > | ⛔ **Needs a DEVELOPER RULING, not research** | **G4** *(founding)* · *and the name, and the port* |
 > | ⏸️ **Correctly last** | **G1** — *needs a personality first* |
 > | ⛔ **Canon does not exist yet** | **G6** — *the city has no history because it has not been founded in-fiction* |
-> | ⛔⛔ **GENUINELY MISSING INFORMATION** | ⭐ **`G2` — THE CLIMATE BLOCK. THE ONLY ONE.** |
+> | ✅ ~~**GENUINELY MISSING INFORMATION**~~ | ⭐⭐⭐ **`G2` — RESEARCHED AND CLOSED 2026-09-05. See `Climate.md`.** *Annual anchors MEASURED on site (−11.2 °C, 4.6 m/s, both degree-day figures); monthly curve constructed and **validated to 3.3% against a measured number it was not fitted to**.* |
 >
 > ## ⭐⭐⭐ **SO EXACTLY ONE REQUIRED PIECE OF INFORMATION IS STILL MISSING: THE CLIMATE.**
 > ***Everything else the ULM requires either already exists and needs transcribing, or is a decision rather
