@@ -8,6 +8,7 @@ piece is and where it lives; the file named in each section is the authority on 
 > exists so the pieces can be picked off one at a time without reconstructing the shape each session.**
 
 **Progress lives in `ULM_Run_Progress.md`. Nothing is tracked here.**
+**Cultural Synthesis input availability: `Cultural_Synthesis_Input_Availability.md`.**
 
 ---
 
