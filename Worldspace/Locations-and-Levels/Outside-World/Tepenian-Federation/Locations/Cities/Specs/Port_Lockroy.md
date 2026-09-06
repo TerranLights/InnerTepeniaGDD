@@ -23,6 +23,13 @@ What resolves it instead is strategic irrelevance, not physical resilience — t
 **Census I (Pre-Orbital Era):** 457 humans / 472 robots / **929** combined *(island cap)*
 **Census II (Orbital Era):** 387 humans / 304 robots / **691** combined *(island cap)*
 
+**Extent band:** ⭐ **0.024 km² — Goudier Island entire.** *200 m × 120 m, inside the natural harbor.*
+**Density 38,708/km² — 0.84× Manila, the densest city in the Federation and the smallest.** ⛔ **No spanning
+to Wiencke Island was needed** — *the option identified as the last remaining escape is left unused, and
+remains available if the figure is ever revisited upward.* ⚠ *Field added 2026-09-05: the figures had been
+established in the reduction block below since the Gate 11 correction, but carried no `**Extent band:**` line,
+so a mechanical sweep read this city as having no declared extent.*
+
 > ### ⭐⭐ POPULATION REDUCED 2026-09-05 — **the first Gate 11 correction in the project**
 > **Was 63,338 / 65,549 / 128,887 (Census I).** ⛔ **Goudier Island is 200 m × 120 m — 0.024 km² — so that
 > figure was 5,370,292/km², more than FOUR TIMES the density Kowloon Walled City reached at its peak, which
