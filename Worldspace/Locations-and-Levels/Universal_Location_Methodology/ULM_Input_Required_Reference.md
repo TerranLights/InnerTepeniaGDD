@@ -152,7 +152,7 @@ three **may proceed but must say so and must expect a measurably thinner result.
 | # | What it is | Absolute address |
 |--:|---|---|
 | **1** | ⭐⭐ **THE PRECIPITATION REFERENCE.** *Falls aloft · reaches the surface · accumulates · gauge-caught* — **four quantities differing by over an order of magnitude**, with the mechanism, published coefficients, six regimes, and a per-city figure. ⛔ **Read before using ANY precipitation number** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md` |
-| **2** | **Per-city measured monthly mean temperatures** — BAS READER, WMO 1991–2020 normals. ⚠ **38 files, MOSTLY keyed by real-world STATION name** *(`Aboa.md`→Abowasa, `Princess_Elizabeth.md` note the `z`, `Sejong.md`)*; `Denison.md` and `Shirayuki.md` were created/renamed 2026-09-04 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/` |
+| **2** | **Per-city measured monthly mean temperatures** — BAS READER, WMO 1991–2020 normals. ⚠ **38 files, and THREE are not findable under the city's own name** *(verified 2026-09-05)*: **`Aboa.md`→Abowasa** · **`Princess_Elizabeth.md`→Princess Elisabeth, note the `z`** · ⛔ **{{Bunger Hills City}} has NO READER file at all — there is no station at that coordinate, a real absence, documented in `Bunger_Hills_City/Climate.md` §4.** ⚠ *`Little_America.md` is an ORPHAN — a station file with no corresponding city.* ✅ **Correction 2026-09-05: `Sejong.md` was previously listed here as alias-keyed. It is not — it resolves under the city's own name.**; `Denison.md` and `Shirayuki.md` were created/renamed 2026-09-04 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/` |
 | **3** | **The corpus audit** — what was wrong before 2026-09-04, what was corrected, and the per-column provenance policy. ⛔ **Read before trusting any pre-2026-09-04 climate figure** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/Climate_Data_Corpus_Audit_2026-09-04.md` |
 | **4** | **The research record** — every verbatim search string, every source accepted AND rejected, every snag and self-correction across eight sessions | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Climate_Data_Research_Log.md` |
 | **5** | **Raw archive data** — 68 NCEI GSOM station CSVs + 11 GHCN-Daily station files + the GHCN Antarctic station list, as downloaded | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/to-be-integrated/climate data CURL/ncei/` |
@@ -175,7 +175,7 @@ pages omit the AJAX-loaded monthly grid)* **and its Antarctic precipitation conf
 by up to 16×.**
 
 
-| **T1-G3** | **G3** | **Function / purpose** — *and separately* **what its parent needs from it**, because the two disagreeing is itself the generator | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Significance:**` + `## Economy & Industry`; ⭐ **figures: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` HALF B** | city appears in `16` Half B **and** has a non-stub Economy section |
+| **T1-G3** | **G3** | **Function / purpose** — *and separately* **what its parent needs from it**, because the two disagreeing is itself the generator | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Significance:**` + `## Economy & Industry`; ⭐ **figures: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` HALF B** | ⚠⚠ **city appears in `16` Half B AND has a non-stub Economy section** — ⛔ **BUT A SUBSTRING TEST IS NOT MEMBERSHIP.** *Findability audit 2026-09-05: **{{Bunger Hills City}} and Lazar are both NAMED in Half B — inside the sentence that says they are EXCLUDED from it*** *("{{Bunger Hills City}} and Lazar are excluded — Bunger Hills deferred by ruling, Lazar's economy explicitly unresolved in canon")*. ***Both pass a naive presence test and neither has data.*** **Confirm an actual per-city entry, not a mention.** ⭐ *Same instrument failure §J already logged: "substring matching counting mentions as membership."* |
 | **T1-G4** | **G4** | **Founding condition** — who, when, why, under what constraint, **with what, and WITHOUT what.** *The absences are the yield* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/<City>.md` → `## Founding` → the fields `**Settled:**` and `**Founding population:**` | ⭐ **PRESENCE TEST: the literal field `**Founding population:**` in `## Founding`.** ⚠ *Denison held this content as prose inside the `Settled:` paragraph until 2026-09-04 and read as MISSING to a mechanical sweep — the data was never absent, it was unaddressable. **Now 37/37.*** |
 | **T1-G5** | **G5** | **Network position** — what connects, **in which direction, carrying what volume** | ⭐ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/` → `**Access type:**` *(closed set)* + `**Highway access:**` *(prose detail)*; ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md` · `Airports.md` · ⭐ `Ports.md`** *(NOT the §C path)* | **read the `Access type:` token** — every spec carries one. ⛔ **THEN read `Ports.md`** — *the token covers ROAD only.* ⭐ **The three `NONE` cities also carry a `**Maritime access:**` field** *(added 2026-09-05)* |
 
@@ -275,7 +275,7 @@ by up to 16×.**
 
 | ID | Requirement | Address | Presence test |
 |---|---|---|---|
-| **T2-1** | **Existing scattered canon** — "formalize before inventing" has nothing to formalize without it | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/<Subnet>/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Background-Lore/Cities/` | per-city file exists |
+| **T2-1** | **Existing scattered canon** — "formalize before inventing" has nothing to formalize without it. ⛔⛔ **TWO CITIES THE `<Subnet>/` PATTERN CANNOT REACH — findability audit 2026-09-05, M-117 again.** ***A pass substituting the spec's `**Arcanet Subnet:**` value into `Local_Cultures/<Subnet>/<City>.md` gets a CONFIDENT ZERO for both, and both have content:*** **① AMUNDSEN STATION** — *its subnet field reads "Inter-subnet relay — **not a member of any subnet**", so the pattern yields no path at all. The file is at `Local_Cultures/Amundsen_Station/Amundsen_Station.md`, a **SIBLING** of the subnet folders.* **② CONCORDIA** — *its subnet field says `Janbogo`, so the pattern points at `Local_Cultures/Janbogo_Subnet/Concordia.md`, which **does not exist and never will**. Concordia's culture lives in a different tree entirely: `Concordia-City/Concordia_Second_Interwar_Cultural_Sheet.md` plus the 13-district structure under `Concordia-City/Districts/`.* ⚠ **Read those two by name; do not derive their paths.** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/<Subnet>/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Background-Lore/Cities/` | per-city file exists |
 | **T2-2** | **Parent's determined properties** — climate, currency, law, calendar, language family *(`01` §5.1)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`, `National_Holidays.md` | ⭐ **global — same for all cities; not a per-city gap** |
 | **T2-3** | **Sibling set membership** | subnet, per T0-4 — the roster itself: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` *(subnet composition tables)* · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md` *(master subnet summary)* | subnet named |
 | **T2-4** | **Inspirational-influence picks** — the tiered research list | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` ⚠ **entries are `#####` headings under a `###` SUBNET heading — except Amundsen, filed under `### South Pole [special case]`** | city entry exists with ≥1 pick. ⭐ **37/37 as of 2026-09-04** |
@@ -468,6 +468,57 @@ War damaged…"*; `## Connection to Concordia` is about the **Planetary Split Br
 >
 > ⭐ **This is the fourth variant of one bug: a test written from an assumed layout rather than a verified
 > one.** ***Read the directory before counting it — including when a prior audit already told you its shape.***
+
+---
+
+# ⭐⭐ FINDABILITY AUDIT — 2026-09-05. **Every registered address, every city.**
+
+**Developer instruction:** *"go through each individual city and each individual required piece of information,
+and make sure that the ULM can actually find it."* ⭐ **Not "does the data exist" — *can a pass following THIS
+FILE land on it*.**
+
+## ✅ The address layer is CLEAN
+
+**All 45 real registered paths resolve** *(mechanically tested, absolute and relative, `<City>`/`<Subnet>`
+templates probed against a known city)*. ⚠ *Nine backticked strings do not resolve and none is a defect: seven
+are bare directory names used in prose, and two are the **`Highways.md` paths quoted deliberately** — the old
+broken one and its fix — inside the box that documents that correction.*
+
+## ⛔ THREE FINDABILITY DEFECTS — **all M-117, "a name is not an address," and all now fixed above**
+
+| # | Input | The defect |
+|--:|---|---|
+| **1** | **`T2-1` · `T2-5`** | ⛔ **AMUNDSEN STATION** — *subnet field says **"not a member of any subnet,"** so `Local_Cultures/<Subnet>/<City>.md` yields **no path at all**. The file exists, as a **sibling** of the subnet folders.* |
+| **2** | **`T2-1` · `T2-5`** | ⛔⛔ **CONCORDIA** — *subnet field says `Janbogo`, so the pattern points at a file that **does not exist and never will**. Concordia's culture is in a different tree.* ***A pass following the registry got a clean zero for the game's primary setting.*** |
+| **3** | **`G3`** | ⚠ **A FALSE POSITIVE, not an absence.** *{{Bunger Hills City}} **and Lazar** are both **named inside Half B's own exclusion sentence**. Both PASS a substring presence test; neither has data.* |
+
+## ⚠ Alias-keyed and orphaned — **corrected in the Climate Address Set above**
+**`Aboa.md`→Abowasa · `Princess_Elizabeth.md`→Princess Elisabeth** *(both already warned)*. ✅ **`Sejong.md` was
+wrongly listed as alias-keyed — it is not.** ⚠ *`Little_America.md` is an orphan.* ⛔ *{{Bunger Hills City}} has
+no READER file — a real absence at a coordinate with no station, documented.*
+
+## 📊 Per-city coverage, all 38 × 18 tests
+
+**Complete 38/38:** `T0-1` · `T0-2` · `T0-3` · `T0-4` · `G2` · `G3` · `G4` · `G5` · `G8` · `T2-7` · ⭐ **and
+`G3` strict against Half B.**
+**37/38** *(Bunger Hills only)*: `G7` · `T2-4` · `T2-5` · `T2-6`. **36/38:** `G1` *(+ Concordia — plausibly
+correct, it holds districts rather than a city-level pair)*. **35/38:** `T2-1` *(+ the two defects above)*.
+
+> ### ⛔ THE ONE REAL CANON GAP: **`G6` — 24/38.**
+> **14 cities named in neither admissible source:** *Abowasa · {{Bunger Hills City}} · Esperanza · Halley ·
+> Marambio · Mirny · Princess Elisabeth · Rothera · Sanay · Sayowa · Shirayuki · Signy · Sinheung · Troll.*
+> ⚠ ***This is fiction to be written, not information to be found*** — *and the two things that would otherwise
+> fill it are both ruled inadmissible: **a real site's history is GPS-purposes-only**, and **war destruction is
+> post-war**.*
+
+> ### ✅ `T2-8` EXTENT — **the registry's cell is STALE and is corrected here.**
+> **It still reads *"⛔ NO DATA EXISTS FOR ANY CITY."*** ⭐ **False as of 2026-09-05: nine cities carry a
+> declared extent** — *Port Lockroy · Dumont d'Urville · Denison · Sayowa · Signy · Marambio · {{Bunger Hills
+> City}} · Rothera · Palmer City.* ⛔⛔ **And the remaining 29 are NOT a backlog.**
+> ***`Extent_and_Density_Per_City.md` §10 established that Gate 11 only has teeth where there is a coastline —
+> water is the only hard edge in Antarctica — and declared the run COMPLETE, with an explicit instruction not
+> to open a "finish the other 26" task.*** ⚠ *That instruction was breached once, on 2026-09-05, by an audit
+> that re-derived the gap from the spec instead of from the ruling.*
 
 ---
 
