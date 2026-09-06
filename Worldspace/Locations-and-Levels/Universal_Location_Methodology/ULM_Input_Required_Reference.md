@@ -504,12 +504,18 @@ no READER file — a real absence at a coordinate with no station, documented.*
 **37/38** *(Bunger Hills only)*: `G7` · `T2-4` · `T2-5` · `T2-6`. **36/38:** `G1` *(+ Concordia — plausibly
 correct, it holds districts rather than a city-level pair)*. **35/38:** `T2-1` *(+ the two defects above)*.
 
-> ### ⛔ THE ONE REAL CANON GAP: **`G6` — 24/38.**
-> **14 cities named in neither admissible source:** *Abowasa · {{Bunger Hills City}} · Esperanza · Halley ·
-> Marambio · Mirny · Princess Elisabeth · Rothera · Sanay · Sayowa · Shirayuki · Signy · Sinheung · Troll.*
-> ⚠ ***This is fiction to be written, not information to be found*** — *and the two things that would otherwise
-> fill it are both ruled inadmissible: **a real site's history is GPS-purposes-only**, and **war destruction is
-> post-war**.*
+> ### ⏸️ `G6` — **24/38, AND THAT IS NOT A GAP. DO NOT RE-RAISE IT.**
+> ⭐ **`ULM_Input_Available_Audit.md` already marks it correctly: *"Deferred out of input prep — belongs with
+> city HISTORIES, later."*** ***That marking is right and needs nothing.***
+>
+> ⛔ **This box previously read *"THE ONE REAL CANON GAP,"* which contradicted it.** *Written 2026-09-05 by an
+> audit that re-derived the question from the spec instead of reading the existing ruling — **the same breach
+> made the same day against `T2-8`'s scope.*** **Corrected on developer instruction.**
+>
+> ⚠ **Why absence here is a design state and not a deficiency:** *Tier 1 needs **three** of eight, and every
+> city clears that on other generators.* **And the two things that would otherwise fill `G6` are both ruled
+> inadmissible — a real site's history is GPS-purposes-only, and war destruction is post-war.** *What remains
+> is Second Interwar canon that has to be **written**, which is authorship, not input prep.*
 
 > ### ✅ `T2-8` EXTENT — **the registry's cell is STALE and is corrected here.**
 > **It still reads *"⛔ NO DATA EXISTS FOR ANY CITY."*** ⭐ **False as of 2026-09-05: nine cities carry a
