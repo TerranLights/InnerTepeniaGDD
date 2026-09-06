@@ -3,6 +3,38 @@
 **Opened 2026-09-05.** ⭐ **The one file that answers "how far along is city X?"**
 
 
+# ⭐⭐⭐ SESSION BOOT — **what a fresh session does, in order, before anything else**
+
+> ## The developer only has to say:
+> # > **"Continue the city run."**
+> *Everything below is this file's job, not theirs. If that line was said, you are already in the run.*
+
+| # | Do this | Why |
+|--:|---|---|
+| **1** | ⛔ **Read `00_RUNBOOK.md` IN FULL.** *Not skimmed, not searched* | **Project law — `CLAUDE.md`.** *Every failure recorded in this methodology was found during work that looked small* |
+| **2** | **Read the `📍 RESUME HERE` block below** | It names the live **city** and the live **piece** |
+| **3** | **Open that city's own tracker row** — `ULM_Run_Progress.md`, `CST_Progress.md` or `RWBEM_Progress.md` | The per-piece detail the master grid does not carry |
+| **4** | **Look the piece up in `ULM_Piece_Index.md`** | One line on what it is, and which file is authoritative on running it |
+| **5** | **Open the city's output folder** — `Cities/City_Development_Passes/<Subnet>/<City>/` | Read its `README.md` and whatever pieces are already written. ⚠ **The clarified results of prior pieces are the input to this one** |
+| **6** | ⭐ **Run exactly ONE piece.** *Display it AND write it, in the same turn* | The operating protocol above. ⛔ **THERE IS NO TIME LIMIT** |
+| **7** | **Update the `📍 RESUME HERE` block and the grid** | *A piece is not closed until the tracker says so* |
+
+## ⛔ STANDING FACTS — **already ruled. Do NOT re-derive, re-audit, or re-raise these.**
+
+| | |
+|---|---|
+| **Mode** | ⭐ **WARM, all 38.** *Cold is the validation instrument; warm is the production instrument, and the validation evidence is already banked* |
+| **Step −1 · Tier 0** | ✅ **38/38.** *It will pass. The first real work on any city is **Step 0*** |
+| **Temporal frame** | ✅ **Second Interwar, 2564–2812**, global. No city claims an exception |
+| **Generators** | ✅ **G2 · G3 · G4 · G5 · G8 at 38/38** against a threshold of 3. **No city is short** |
+| **`G6` defining event** | ⏸️ **Deferred corpus-wide.** ⛔ **Do not report it as a gap** |
+| **Extent** | ✅ **Closed.** *13 cities declared; the other 25 are closed by the coastline ruling, not pending.* ⛔ **Do not open a "finish the rest" task** |
+| ⛔ **`City_Megasheets/`** | **WITHHELD from every run** — *the whole tree, due to be rewritten* |
+| ⛔ **Other cities' conclusions** | **Stay closed until Step 6** — *not for quarantine, but so **Gate 6** has something independent to test* |
+| **Research logs** | ⚠ **5/38, and that is fine** — *a log is an **output** of a pass, not an input. Create one when that city's pass first researches something* |
+
+---
+
 > # ⭐⭐⭐ THE OPERATING PROTOCOL — **ONE PIECE AT A TIME. DISPLAY IT *AND* WRITE IT.**
 > **Developer instruction, 2026-09-05, stated verbatim because a procedure that paraphrases its governing
 > rule will be run without it:**
