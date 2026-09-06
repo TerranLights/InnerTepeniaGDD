@@ -1,6 +1,6 @@
 > # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
 >
-> **Source:** `../../Real-World_Basis_Extrapolation_Method.md` · **pinned 5816ead09770e8d9 · 178 lines · 2026-09-03**
+> **Source:** `../../Real-World_Basis_Extrapolation_Method.md` · **pinned 87c96bdb1c7bff79 · 199 lines · re-derived 2026-09-05**
 >
 > ***Nothing was cut from the original.*** **This is the Universal Location Methodology's own reading of the
 > same rules — identical in substance, with location-specific worked instances replaced by pointers** — so the
@@ -182,12 +182,27 @@ function actually be? This is the same fusion discipline the Compilation Guide's
 ("what does this specific real place's own documented character give back to the [location] that isn't already
 there"), just applied at the level of individual concrete details instead of the location's overall identity.
 
-**Step D — Cross-check against everything already established before writing anything down.** Per the
-Compilation Guide's Step 2 discipline, every invented place/thing/person/setting needs to trace back to
-something already canon — check the location's own Mega_Init, Full_Extrapolation, Deep Dive, Community
-Infrastructure section (districts) or equivalent Local Culture sections (cities), and the location's Cross-
-Reference Synthesis, before proposing something that might already exist under a different name or genuinely
-contradict established fact.
+**Step D — Cross-check against everything already established before writing anything down.** Every invented
+place/thing/person/setting needs to trace back to something already canon, before proposing something that
+might already exist under a different name or genuinely contradict established fact.
+
+> ### ⛔⛔ TARGETS CORRECTED 2026-09-05 — **the Megasheet tree is WITHHELD and must not be read**
+> **Developer ruling: *"these runs of the ULM will need to ignore the Megasheets (plus their prior 'init'
+> files, etc), because those are almost certainly going to be rewritten."*** *They are syntheses of everything
+> that existed before 2026-09-05 — before the extent run, the terrain taxonomy, the population corrections, the
+> 38th city and the national-origin repair — so cross-checking against them would validate new work against
+> stale numbers.*
+>
+> ⛔ **DO NOT READ:** *`City_Megasheets/` in full — Mega_Init · Full_Extrapolation · `*_Cross_Reference_Synthesis.md`
+> · the subnet Ultra-Megasheets · the Compilation Guide's Step 2.* ⚠ **All 41 city Cross-Reference Synthesis
+> files sit inside that tree.**
+>
+> ✅ **READ INSTEAD — cities:** **`Specs/<City>.md`** · **`Local_Cultures/<Subnet>/<City>.md`** ·
+> **`City_Vision_Notes/<City>.md`** · **`Official_Population_Census.md`** ·
+> **`Extent_and_Density_Per_City.md`.** ⚠ *Amundsen Station and Concordia do not follow the `<Subnet>/`
+> pattern — read those two by name, never by derived path.*
+> ✅ **READ INSTEAD — districts:** *Deep Dive and Community Infrastructure sections, which are outside the
+> withheld tree.*
 
 **Step E — Write the result into the right target, following that target's own conventions.** For district
 Phase 6 (Thematic Breadth Catalog) entries specifically: **people-derived entries stay role/archetype
