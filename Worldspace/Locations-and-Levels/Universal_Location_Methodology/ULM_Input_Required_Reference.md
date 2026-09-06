@@ -276,6 +276,24 @@ by up to 16×.**
 | ID | Requirement | Address | Presence test |
 |---|---|---|---|
 | **T2-1** | **Existing scattered canon** — "formalize before inventing" has nothing to formalize without it. ⛔⛔ **TWO CITIES THE `<Subnet>/` PATTERN CANNOT REACH — findability audit 2026-09-05, M-117 again.** ***A pass substituting the spec's `**Arcanet Subnet:**` value into `Local_Cultures/<Subnet>/<City>.md` gets a CONFIDENT ZERO for both, and both have content:*** **① AMUNDSEN STATION** — *its subnet field reads "Inter-subnet relay — **not a member of any subnet**", so the pattern yields no path at all. The file is at `Local_Cultures/Amundsen_Station/Amundsen_Station.md`, a **SIBLING** of the subnet folders.* **② CONCORDIA** — *its subnet field says `Janbogo`, so the pattern points at `Local_Cultures/Janbogo_Subnet/Concordia.md`, which **does not exist and never will**. Concordia's culture lives in a different tree entirely: `Concordia-City/Concordia_Second_Interwar_Cultural_Sheet.md` plus the 13-district structure under `Concordia-City/Districts/`.* ⚠ **Read those two by name; do not derive their paths.** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/<Subnet>/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Background-Lore/Cities/` | per-city file exists |
+
+> ### ⛔⛔⛔ `City_Megasheets/` IS WITHHELD FROM EVERY RUN — **developer ruling 2026-09-05**
+> **"These runs of the ULM will need to ignore the Megasheets (plus their prior 'init' files, etc), because
+> those are almost certainly going to be rewritten."**
+>
+> ⛔ **The WHOLE TREE**, not just the `README.md` per city: ***`*_Mega_Init.md` · `*_Full_Extrapolation.md` ·
+> `*_Physical_Infrastructure_Attributes.md` · the subnet `*_Ultra_Megasheet/` folders — all of it.***
+>
+> ⚠ **This is a CORRECTNESS rule, not tidiness.** *The Megasheets are step 7 of the 9-step faction pipeline —
+> **syntheses of everything that existed BEFORE 2026-09-05**. They predate the extent run, the density band,
+> the terrain taxonomy, the seven population corrections, the 38th city, and the national-origin repair.*
+> ***A warm pass reading them would inherit derivations built on numbers that have since moved, and would do
+> it silently, because a Megasheet reads as settled canon.***
+>
+> ⭐ **Everything a Megasheet synthesized is still reachable at its ORIGINAL address** — *`Specs/`,
+> `Local_Cultures/`, `City_Vision_Notes/`, the census.* **Nothing is lost by skipping them; only the stale
+> synthesis layer is.**
+
 | **T2-2** | **Parent's determined properties** — climate, currency, law, calendar, language family *(`01` §5.1)* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`, `National_Holidays.md` | ⭐ **global — same for all cities; not a per-city gap** |
 | **T2-3** | **Sibling set membership** | subnet, per T0-4 — the roster itself: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` *(subnet composition tables)* · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md` *(master subnet summary)* | subnet named |
 | **T2-4** | **Inspirational-influence picks** — the tiered research list | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` ⚠ **entries are `#####` headings under a `###` SUBNET heading — except Amundsen, filed under `### South Pole [special case]`** | city entry exists with ≥1 pick. ⭐ **37/37 as of 2026-09-04** |

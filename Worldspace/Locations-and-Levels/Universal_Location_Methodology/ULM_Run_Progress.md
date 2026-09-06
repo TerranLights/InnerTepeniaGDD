@@ -31,6 +31,19 @@ the vector-1 skip ranges and shape sweep (`Step −2`) · the alias-set build.**
 ⭐ **And `graphify` is available** — *`CLAUDE.md`'s prohibition is binding **only** during a cold run, and says
 so: "Not binding otherwise."*
 
+## ⛔⛔⛔ AND ONE THING IS WITHHELD EVEN IN WARM MODE — **the Megasheets**
+
+**Developer ruling 2026-09-05: *"these runs of the ULM will need to ignore the Megasheets (plus their prior
+'init' files, etc), because those are almost certainly going to be rewritten."*** ⛔ **The whole
+`City_Megasheets/` tree** — *per-city `README.md`, `*_Mega_Init.md`, `*_Full_Extrapolation.md`,
+`*_Physical_Infrastructure_Attributes.md`, and the subnet `*_Ultra_Megasheet/` folders.*
+
+⚠ ***A correctness rule, not tidiness.*** **They are syntheses of everything that existed BEFORE 2026-09-05** —
+*before the extent run, the density band, the terrain taxonomy, the seven population corrections, the 38th
+city, and the national-origin repair.* ***A warm pass would inherit stale derivations silently, because a
+Megasheet reads as settled canon.*** ⭐ **Nothing is lost: every source a Megasheet synthesized is still
+reachable at its original address.**
+
 ## ⛔⛔ WHAT DOES NOT RELAX — and this is the whole discipline of a warm run
 
 | | |
