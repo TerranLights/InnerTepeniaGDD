@@ -14,6 +14,49 @@
 **Census I (Pre-Orbital Era):** 165,912 humans / 166,896 robots / **332,808** combined *(island cap)*
 **Census II (Orbital Era):** 180,688 humans / 151,482 robots / **332,170** combined *(island cap)*
 
+> ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **and the terrain finding matters more than the number.**
+> **`**Extent band:** ~40 km².`** **332,808 ÷ 40 km² = 8,320/km²** — *inside the band. Was 137/km² against Anvers Island entire.*
+>
+> ⭐ *Chosen as the center of the 7,000–10,000/km² band that Signy, Marambio, Dumont d'Urville and Sayowa
+> reached independently from measured areas.* ⚠ **Stated plainly: 40 km² is derived from the band, NOT from
+> this site.** *Anything in **33–48 km²** is equally defensible; no published ice-free area in km² could be
+> found for this site.*
+>
+> #### ⛔⛔ THE FINDING — **THIS CITY STANDS ON ESSENTIALLY NO ROCK.**
+> 🔬 **Anvers Island is 61 km long, *"high, mountainous"* and *"mostly glaciated" —* the **Marr Ice
+> Piedmont covers its northwestern half.*** **Ice-free ground is a handful of named points: Gamage Point (the
+> rock point at Hero Inlet where the settlement sits), Capes Monaco and Lancaster, Biscoe Point.** *On the
+> order of a fraction of a km², against a 40 km² city.*
+>
+> ⭐⭐ **So ~100% of the city is on ICE, and it is the FLOWING kind — ice piedmont, not plateau.** *Under the
+> terrain taxonomy (`Extent_and_Density_Per_City.md` §10) that is the **expensive** tier: it buries **and** it
+> travels.* ⚠ **This city belongs in a class with Halley and Neumayer, not with Davis and Marambio.**
+> ***Though not as extreme — a piedmont is grounded ice creeping from mountains to a calving cliff. It buries
+> and it moves; it will not carry a city to sea the way an ice shelf would.***
+>
+> ⚠ **The 40 km² is AVAILABLE trivially** — *the island is 2,432 km², and ice is buildable.* ***What it costs is
+> the point: this is a permanent-rebuild city, and the bare density figure hides that.***
+
+> #### ⚠⚠ AND HERE THE GROUND DOES NOT MERELY MOVE — **IT LEAVES.**
+> 🔬 ***Sixty years of glacial retreat behind Palmer Station are documented**, and the retreat has "revealed
+> that several points or small peninsulas once thought to belong to Anvers are actually small islands
+> themselves."* ⛔ **A retreating piedmont is not a stable footprint.**
+>
+> ## ⭐⭐⭐ AND IT LANDS HARD ON THIS CITY IN PARTICULAR
+> ***The first settled location in the Federation, and its cultural capital, stands on no rock at all.***
+> **By §10's finding that the rock is a class divide** — *in a mixed city the small rock core is the only
+> ground never rebuilt, and becomes the most valuable real estate by mechanism rather than by taste* —
+> **Palmer City has no such hierarchy, because it has no old ground.** ⭐ *It is socially flat in its footing
+> for exactly the reason Concordia is, arriving from the opposite direction: not cheap ice evenly shared, but
+> expensive ice evenly shared.*
+>
+> ### ✅ THE ISLAND CAP STANDS — **developer ruling 2026-09-05.**
+> **364,000 combined — the ONLY documented cap in the corpus.** *Current 332,808 sits **31,192 under** it.*
+> ⭐ **And it is compatible with the extent: at 40 km² the full cap would be 9,100/km², still inside the
+> band.** ***So the ceiling never becomes a physical limit — it stays a DESIGN limit, which is the version
+> worth keeping.*** ⚠ *Unlike Dumont d'Urville's and Sayowa's labels, which were removed because those cities
+> turned out never to have been island-confined, this one is kept deliberately.*
+
 | Tier | Nations |
 |------|---------|
 | Primary | USA |

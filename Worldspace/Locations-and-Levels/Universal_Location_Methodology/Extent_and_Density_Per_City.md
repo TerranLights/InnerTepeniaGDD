@@ -10,12 +10,12 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **5 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)* · **Marambio** *(§8)*.
+> ✅ **7 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)* · **Marambio** *(§8)* · ⭐ **Rothera** and **Palmer City** *(both declared at ~40 km², 2026-09-05 — see their specs)*.
 > ✅ **Plus DENISON, re-addressed and resolved** *(not island-capped — `Extent_and_Area_APPROACH.md` §7b)*.
 > ⭐⭐⭐ **AND THE RUN FOUNDED A CITY.** *§10 established that Gate 11 cannot catch the other 25; §11 records
 > what the technique produced instead — **{{Bunger Hills City}}, the 38th, populated 2026-09-05 by the entire
 > redistribution pool.*** **The census reconciles exactly afterward.**
-> ⏳ **Next: Rothera** — *the opposite failure: 68/km², the emptiest of the eleven.*
+> ⏳ **Remaining four: Fort McMurdo + Scott** *(worked together — they share Ross Island)* **· Juan Carlos · Sejong.**
 
 ---
 
@@ -499,8 +499,8 @@ there; a continental mountain spine here)*. **Same physics, unrelated geometry �
 | ~~**1**~~ | ✅ **Port Lockroy** | ✅ **RESOLVED 2026-09-05 → 929** *(§4)*. Overflow **127,958 / 95,215** held |
 | ~~**2**~~ | ✅ **Dumont d'Urville** | ✅ **RESOLVED 2026-09-05** → **408,001 on ~47 km² = 8,681/km²** *(§5)*. Overflow **45,333 / 31,201** |
 | ~~**3**~~ | ✅ **Sayowa** | ✅ **RESOLVED 2026-09-05** → **~31.5 km² = 7,155/km²**, population unchanged *(§6)* |
-| **4** | **Rothera** | ⚠ **68/km² — the emptiest.** *The opposite failure, and it needs the same attention* |
-| **5** | **Palmer City** | ⚠ 137/km² — ⭐ **and it is the ONE city with a documented cap (364,000)** |
+| ~~**4**~~ | ✅ **Rothera** | ✅ **DECLARED 2026-09-05 — ~40 km² → 7,936/km².** *Population UNCHANGED at 317,449 per developer ruling.* ⛔⛔ **TERRAIN FINDING: ~100% on ice, and the FLOWING kind.** *Rothera Point's ice-free ground is ~280 × 230 m — hundreds of meters against a 40 km² city. Wright Peninsula is "heavily glacierized"; the Wormald Ice Piedmont's cliffs break in only two places.* ⚠ **Belongs with Halley and Neumayer, not with Davis** |
+| ~~**5**~~ | ✅ **Palmer City** | ✅ **DECLARED 2026-09-05 — ~40 km² → 8,320/km².** ⛔⛔ **~100% on ice — the Marr Ice Piedmont covers Anvers's northwestern half, and ice-free ground is a few named rock points.** ⚠⚠ **And it is RETREATING** — *sixty documented years of it, enough that former peninsulas turned out to be islands.* ⭐⭐ ***The Federation's first settled location and cultural capital stands on no rock at all*** — *so no old-ground hierarchy, socially flat in its footing for Concordia's reason arriving from the opposite direction.* ✅ **The 364,000 cap STANDS by developer ruling** — *at 40 km² it is 9,100/km², still in the band, so it stays a DESIGN limit and never becomes a physical one* |
 | **6** | **Fort McMurdo + Scott** | ⚠ **worked together — they share Ross Island** *(338/km² combined)* |
 | **7** | **Juan Carlos · Sejong** | ⚠ 485 and 561/km², both on large glaciated islands |
 | ~~**8**~~ | ✅ **Signy** | ✅ **RESOLVED 2026-09-05** — *moored-fleet extent, population unchanged (§7)* |

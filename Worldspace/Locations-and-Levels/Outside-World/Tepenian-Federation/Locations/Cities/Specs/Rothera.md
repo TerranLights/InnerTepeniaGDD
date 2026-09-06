@@ -23,6 +23,33 @@ By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again
 **Census I (Pre-Orbital Era):** 153,760 humans / 163,689 robots / **317,449** combined *(island cap)*
 **Census II (Orbital Era):** 121,784 humans / 134,073 robots / **255,857** combined *(island cap)*
 
+> ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **and the terrain finding matters more than the number.**
+> **`**Extent band:** ~40 km².`** **317,449 ÷ 40 km² = 7,936/km²** — *inside the band. Was 68/km² against Adelaide Island entire, the emptiest of the eleven.*
+>
+> ⭐ *Chosen as the center of the 7,000–10,000/km² band that Signy, Marambio, Dumont d'Urville and Sayowa
+> reached independently from measured areas.* ⚠ **Stated plainly: 40 km² is derived from the band, NOT from
+> this site.** *Anything in **32–45 km²** is equally defensible; no published ice-free area in km² could be
+> found for this site.*
+>
+> #### ⛔⛔ THE FINDING — **THIS CITY STANDS ON ESSENTIALLY NO ROCK.**
+> 🔬 **Adelaide Island is 139 × 37 km and *"large, mainly ice-covered."* Wright Peninsula is *"highly
+> dissected by erosion and heavily glacierized,"* and its eastern coast is the **Wormald Ice Piedmont**, whose
+> *"vertical ice cliffs are broken in only two places to provide for ice-free landing sites."*** ⛔ **Rothera
+> Point's protected area — the northern third of the point — is **~280 m × 230 m**, rising to 36 m.** *The
+> ice-free ground here is measured in hundreds of meters: on the order of **0.2 km²**, against a 40 km² city.*
+>
+> ⭐⭐ **So ~100% of the city is on ICE, and it is the FLOWING kind — ice piedmont, not plateau.** *Under the
+> terrain taxonomy (`Extent_and_Density_Per_City.md` §10) that is the **expensive** tier: it buries **and** it
+> travels.* ⚠ **This city belongs in a class with Halley and Neumayer, not with Davis and Marambio.**
+> ***Though not as extreme — a piedmont is grounded ice creeping from mountains to a calving cliff. It buries
+> and it moves; it will not carry a city to sea the way an ice shelf would.***
+>
+> ⚠ **The 40 km² is AVAILABLE trivially** — *the island is 4,663 km², and ice is buildable.* ***What it costs is
+> the point: this is a permanent-rebuild city, and the bare density figure hides that.***
+
+> ⭐ **Population UNCHANGED at 317,449** — *developer ruling: "it's probably safe to leave Rothera as-is."*
+> **The city was never over-populated; it was under-addressed.**
+
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
