@@ -59,6 +59,7 @@ individual piece, one individual bit, one at a time.***
 > **LAST TOUCHED:** *tracker opened, 2026-09-05*
 > **NEXT ACTION:** ***pick the first city, then run `Step −1` — the input contract.*** ⭐ *Mode is already ruled: **WARM**, and `Step −1` passes at 38/38, so the first real work is `Step 0`.*
 >
+> 📂 **RESULTS ARE SAVED TO** `Cities/City_Development_Passes/<Subnet>/<City>/` — *by place, not by process.*
 > ⛔ **UPDATE THIS BLOCK EVERY TIME A PIECE CLOSES.** *It is the only thing that has to be read to resume.*
 
 ---
