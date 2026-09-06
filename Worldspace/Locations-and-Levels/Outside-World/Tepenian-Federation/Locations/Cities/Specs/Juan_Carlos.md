@@ -16,6 +16,21 @@
 **Census I (Pre-Orbital Era):** 189,742 humans / 196,950 robots / **386,692** combined *(island cap)*
 **Census II (Orbital Era):** 118,910 humans / 127,462 robots / **246,372** combined *(island cap; destroyed)*
 
+> ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **population UNCHANGED per developer ruling.**
+> **`**Extent band:** ~48 km².`** **386,692 ÷ 48 km² = 8,056/km²** — *inside the 7,000–10,000 band.* *Was 485/km² measured against Livingston Island entire (798 km²).*
+>
+> #### ⭐⭐⭐ THE TERRAIN FINDING — **this city stands on ROCK, and its own heat keeps it bare.**
+> **It is one of the six geothermal cities** *(`Locations/Infrastructure/Geothermal_Heating.md`, developer
+> ruling 2026-09-05)*, **and that file already rules what the heat does to the ground: snow-melt pavement, so
+> *"their ground is bare where every other city fights its own."***
+>
+> ⭐⭐ ***This is the exact inverse of Rothera and Palmer City***, declared the same day at ~100% on flowing
+> ice piedmont. **Under the terrain taxonomy (`Extent_and_Density_Per_City.md` §10) these are the cheap end:
+> rock, which never fails, and which here does not even have to be dug out from under snow.**
+
+>
+> ⚠ **BAND-DERIVED, not site-derived.** *Livingston's **Hurd Peninsula** is confirmed ice-free and **Byers Peninsula** is *"the largest ice-free area in the South Shetland Islands"* — so the ground exists in quantity — but **no published area in km² could be found for either**. Anything in **39–55 km²** is equally defensible.*
+
 | Tier | Nations |
 |------|---------|
 | Primary | USA |

@@ -10,12 +10,20 @@ the DATA and the per-city resolutions)*.
 > does not run on the same faculty that produced the error."***
 >
 > ⛔ **Cities are worked ONE AT A TIME.** *Developer instruction, 2026-09-05.*
-> ✅ **7 of 11 island-capped resolved** — **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)* · **Marambio** *(§8)* · ⭐ **Rothera** and **Palmer City** *(both declared at ~40 km², 2026-09-05 — see their specs)*.
+> ## ✅✅✅ **ALL 11 ISLAND-CAPPED CITIES RESOLVED — 2026-09-05.**
+> **Port Lockroy** *(§4)* · **Dumont d'Urville** *(§5)* · **Sayowa** *(§6)* · **Signy** *(§7)* · **Marambio** *(§8)* · **Rothera** · **Palmer City** · **Fort McMurdo** · **Scott** · **Juan Carlos** · **Sejong** *(the last six declared in their specs)*.
 > ✅ **Plus DENISON, re-addressed and resolved** *(not island-capped — `Extent_and_Area_APPROACH.md` §7b)*.
 > ⭐⭐⭐ **AND THE RUN FOUNDED A CITY.** *§10 established that Gate 11 cannot catch the other 25; §11 records
 > what the technique produced instead — **{{Bunger Hills City}}, the 38th, populated 2026-09-05 by the entire
 > redistribution pool.*** **The census reconciles exactly afterward.**
-> ⏳ **Remaining four: Fort McMurdo + Scott** *(worked together — they share Ross Island)* **· Juan Carlos · Sejong.**
+> ⭐⭐⭐ **AND THE LAST FOUR INVERTED THE TERRAIN FINDING.** *Rothera and Palmer City stand on ~100% flowing
+> ice piedmont. **Fort McMurdo · Scott · Juan Carlos · Sejong are four of the six GEOTHERMAL cities**, and
+> that ruling already says their heat gives snow-melt pavement so **"their ground is bare where every other
+> city fights its own."*** **Opposite ends of the taxonomy, and it fell out of canon already ruled.**
+>
+> ⭐⭐ **Ross Island also produced the batch's only SITE-DERIVED figure:** *Hut Point Peninsula is 3.7–5.6 km ×
+> 28 km ≈ **104–157 km²**; Fort McMurdo + Scott need **83–119** and take **100**.* ***The pair fits on the
+> peninsula their real counterparts share, 3 km apart, under Mount Erebus.***
 
 ---
 
@@ -501,8 +509,8 @@ there; a continental mountain spine here)*. **Same physics, unrelated geometry �
 | ~~**3**~~ | ✅ **Sayowa** | ✅ **RESOLVED 2026-09-05** → **~31.5 km² = 7,155/km²**, population unchanged *(§6)* |
 | ~~**4**~~ | ✅ **Rothera** | ✅ **DECLARED 2026-09-05 — ~40 km² → 7,936/km².** *Population UNCHANGED at 317,449 per developer ruling.* ⛔⛔ **TERRAIN FINDING: ~100% on ice, and the FLOWING kind.** *Rothera Point's ice-free ground is ~280 × 230 m — hundreds of meters against a 40 km² city. Wright Peninsula is "heavily glacierized"; the Wormald Ice Piedmont's cliffs break in only two places.* ⚠ **Belongs with Halley and Neumayer, not with Davis** |
 | ~~**5**~~ | ✅ **Palmer City** | ✅ **DECLARED 2026-09-05 — ~40 km² → 8,320/km².** ⛔⛔ **~100% on ice — the Marr Ice Piedmont covers Anvers's northwestern half, and ice-free ground is a few named rock points.** ⚠⚠ **And it is RETREATING** — *sixty documented years of it, enough that former peninsulas turned out to be islands.* ⭐⭐ ***The Federation's first settled location and cultural capital stands on no rock at all*** — *so no old-ground hierarchy, socially flat in its footing for Concordia's reason arriving from the opposite direction.* ✅ **The 364,000 cap STANDS by developer ruling** — *at 40 km² it is 9,100/km², still in the band, so it stays a DESIGN limit and never becomes a physical one* |
-| **6** | **Fort McMurdo + Scott** | ⚠ **worked together — they share Ross Island** *(338/km² combined)* |
-| **7** | **Juan Carlos · Sejong** | ⚠ 485 and 561/km², both on large glaciated islands |
+| ~~**6**~~ | ✅ **Fort McMurdo + Scott** | ✅ **DECLARED 2026-09-05 — 55 and 45 km² → 8,097 and 8,578/km².** *Populations UNCHANGED.* ⭐⭐ **SITE-DERIVED: both fit on Hut Point Peninsula (~104–157 km²), 3 km apart, under Erebus — the volcano they share as a heat source.** ⭐ **Rock, kept bare by geothermal heat** |
+| ~~**7**~~ | ✅ **Juan Carlos · Sejong** | ✅ **DECLARED 2026-09-05 — 48 and 80 km² → 8,056 and 8,060/km².** *Populations UNCHANGED.* ⚠ **BAND-derived: Hurd/Byers and Barton peninsulas are confirmed ice-free but carry no published km².** ⭐ **Both geothermal — rock, kept bare** |
 | ~~**8**~~ | ✅ **Signy** | ✅ **RESOLVED 2026-09-05** — *moored-fleet extent, population unchanged (§7)* |
 | ~~**8**~~ | ✅ **Marambio** | ✅ **EXTENT SETTLED 2026-09-05** *(§8)* — **7,311/km² on Seymour I., correct on arrival; population UNCHANGED at 570,269.** ⛔ *Pool transfer **REJECTED same day** — the full pool went to **{{Bunger Hills City}}** instead (§11).* **James Ross I. still deliberately reserved for Esperanza.** |
 

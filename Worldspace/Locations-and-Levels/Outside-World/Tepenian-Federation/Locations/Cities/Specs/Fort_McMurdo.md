@@ -15,6 +15,28 @@
 **Census I (Pre-Orbital Era):** 222,190 humans / 223,120 robots / **445,310** combined *(island cap)*
 **Census II (Orbital Era):** 173,548 humans / 164,621 robots / **338,169** combined *(island cap)*
 
+> ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **population UNCHANGED per developer ruling.**
+> **`**Extent band:** ~55 km².`** **445,310 ÷ 55 km² = 8,097/km²** — *inside the 7,000–10,000 band.* *Was 181/km² measured against Ross Island entire.*
+>
+> #### ⭐⭐⭐ THE TERRAIN FINDING — **this city stands on ROCK, and its own heat keeps it bare.**
+> **It is one of the six geothermal cities** *(`Locations/Infrastructure/Geothermal_Heating.md`, developer
+> ruling 2026-09-05)*, **and that file already rules what the heat does to the ground: snow-melt pavement, so
+> *"their ground is bare where every other city fights its own."***
+>
+> ⭐⭐ ***This is the exact inverse of Rothera and Palmer City***, declared the same day at ~100% on flowing
+> ice piedmont. **Under the terrain taxonomy (`Extent_and_Density_Per_City.md` §10) these are the cheap end:
+> rock, which never fails, and which here does not even have to be dug out from under snow.**
+>
+> #### ⭐⭐ AND ROSS ISLAND'S FIGURE IS SITE-DERIVED, NOT BAND-DERIVED — **the first in this batch**
+> 🔬 **Hut Point Peninsula measures 3.7–5.6 km wide by 28 km long — ≈104–157 km².** *Ross Island entire is
+> 2,460 km², but "only a small portion of the island is free of ice and snow," and the peninsula is the
+> volcanic ridge that holds both cities.* ⭐ **Fort McMurdo + Scott combined need 83–119 km², and at 55 + 45
+> they take 100.** ***The pair fits on the peninsula, exactly as their real-world counterparts sit 3 km
+> apart.*** **Mount Erebus — 3,794 m, the southernmost active volcano on Earth — stands behind them, and is
+> the heat both cities share.**
+>
+> ⚠ *Shares the peninsula, and the volcano, with **Scott** — 45 km² — declared the same day.*
+
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA *(founding operator heritage)* |
