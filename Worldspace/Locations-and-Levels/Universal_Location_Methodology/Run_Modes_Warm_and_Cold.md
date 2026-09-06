@@ -25,6 +25,14 @@ ignore all other cities."***
 
 ---
 
+> ## ✅ RATIFIED BY THE DEVELOPER, 2026-09-05 — **and adopted as the standing mode for the 38-city run**
+> **"One of the discoveries that I made while testing was that cold runs are ideal for TESTING the
+> methodology, and warm runs are ideal for PROCURING RESULTS."**
+> ⭐ ***Independent arrival at this file's own §1 framing.*** **The city run beginning 2026-09-06 is WARM
+> throughout** — *see `ULM_Run_Progress.md`.*
+
+---
+
 # 1. THE TWO MODES
 
 ## ⛔ COLD — the validation instrument
