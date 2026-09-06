@@ -3,6 +3,55 @@
 **Opened 2026-09-05.** ⭐ **The run begins 2026-09-06.** **Developer instruction: *for each city, we go one
 individual piece, one individual bit, one at a time.***
 
+
+> # ⭐⭐⭐ THE OPERATING PROTOCOL — **ONE PIECE AT A TIME. DISPLAY IT *AND* WRITE IT.**
+> **Developer instruction, 2026-09-05, stated verbatim because a procedure that paraphrases its governing
+> rule will be run without it:**
+>
+> > **"You should do one individual, singular piece/bit at a time. Display the results. I'll clarify wherever
+> > needed. Then, take those results and run those through the subsequent piece/bit. This will be a painfully
+> > slow process, but it's likely to produce the best, most accurate results."**
+> >
+> > **"Also, in addition to displaying the results of each piece/bit, additionally write them to file."**
+> >
+> > ⭐⭐⭐ **"Also, additionally, make sure to note that THERE IS NO TIME LIMIT. I don't want you to just spit
+> > out an answer 'quickly'. What I want from you is to do it *RIGHT*."**
+>
+> ## The loop, and it does not vary
+> | | |
+> |---|---|
+> | **1 · ONE PIECE** | *One step, one phase, one gate, one technique, one lettered sub-step. **Never two because they seem related.*** |
+> | **2 · DISPLAY *AND* WRITE** | ⭐⭐ **BOTH, in the same turn.** *Show the result in full **and** persist it.* ⛔ **Not display-then-write-on-approval, and not write-then-summarize** — ***the displayed text and the written text are the same text*** |
+> | **3 · CLARIFY** | **The developer corrects, redirects, or confirms.** ⭐ *Corrections **amend what was written**; the file is the running record, not a reward for approval* |
+> | **4 · FEED FORWARD** | **The clarified result — not the draft — is the input to the next piece** |
+>
+> ⭐ **Why both:** *displaying alone loses the work between turns; writing alone hides it from review.* **The
+> file is durable and the display is reviewable, and the protocol needs each for a different reason.**
+>
+> ## ⛔ WHAT THIS FORBIDS
+> **Batching pieces · running ahead "to save a round trip" · writing a file and then merely summarizing it ·
+> presenting a finished multi-phase block for approval · treating silence as confirmation.**
+>
+> ## ⛔⛔⛔ THERE IS NO TIME LIMIT. **NONE.**
+> ***Do not optimize for turn count, token count, response length, or apparent momentum.*** **A piece takes as
+> long as it takes.** ⛔ **"Enough to write something plausible" is not the threshold** — *that is the exact
+> threshold `LAW 0` names and warns against accepting.*
+>
+> ⚠ **If a piece needs six searches, run six.** **If it needs to sit unresolved and be flagged instead of
+> answered, flag it.** ***An honest "this is not settled, here is what would settle it" is a better result than
+> a fast, tidy, wrong one*** — **and a fast tidy wrong one is expensive later, everywhere, in work that cannot
+> be fixed without redoing the foundation.**
+>
+> ⭐ **"Painfully slow" is the developer's own word for it, and it is the DESIGN, not a cost to be optimized
+> away.** ***It is `LAW 0` — depth over speed — expressed as a turn structure:*** **"There is no credit for
+> finishing quickly. Completion is not the goal; a place somebody could live in is the goal."**
+>
+> ⚠ **And it is the direct countermeasure to this project's own measured failure mode** — *self-audit error
+> "has run in ONE direction — toward flattering the pass — on every occasion it has been measured."*
+> **A result shown in full, in the same turn it is written, cannot be quietly flattered afterward.**
+
+---
+
 > # 📍 RESUME HERE
 > **CITY:** ⏸️ *none started*
 > **STEP:** ⏸️ *—*
