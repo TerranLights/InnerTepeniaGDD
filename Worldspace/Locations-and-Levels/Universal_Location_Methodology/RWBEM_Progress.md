@@ -54,6 +54,7 @@ people and settings would exist here, besides what is already listed?"*
 
 > # 📍 RESUME HERE
 > **CITY:** ⏸️ *none started* · **PIECE:** ⏸️ *—* · **LAST TOUCHED:** *tracker opened 2026-09-05*
+> 📂 **RESULTS ARE SAVED TO** `Cities/City_Development_Passes/<Subnet>/<City>/` — *by place, not by process.*
 > ⛔ **UPDATE EVERY TIME A PIECE CLOSES.** *This block is the only thing that has to be read to resume.*
 
 ## Legend
