@@ -105,7 +105,7 @@ material does not already contain?*** **That test survives the contamination and
 **Two rules adopted for the rest of this run:**
 
 1. **Nothing on the quarantine list may be used as a premise.** Where the derivation independently arrives at
-   something on it, that is **corroboration and must be labelled as such** — never presented as a cold
+   something on it, that is **corroboration and must be labeled as such** — never presented as a cold
    derivation, because it is not one.
 2. **Every headline finding must be checkable against the quarantine list at QA**, and the check is reported
    whether it passes or fails.

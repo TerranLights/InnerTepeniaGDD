@@ -198,7 +198,7 @@ A cross-district entertainment cooperative that brings Leo's morale infrastructu
 ---
 
 ### The Steady Watch
-A quiet preparedness mutual-aid collective rooted in Taurus — not a formal faction, more like an informal community security network that catalogues threats and prepares responses without ever announcing itself. Distinct from the Eyes of Gold (intelligence as power) and from The Veilkeepers (information as control) in being purely defensive: knowing things so nothing bad happens, not so someone can gain leverage.
+A quiet preparedness mutual-aid collective rooted in Taurus — not a formal faction, more like an informal community security network that catalogs threats and prepares responses without ever announcing itself. Distinct from the Eyes of Gold (intelligence as power) and from The Veilkeepers (information as control) in being purely defensive: knowing things so nothing bad happens, not so someone can gain leverage.
 
 *Original character seed: Favi della Torre — 6w5:Pr, Taurus*
 

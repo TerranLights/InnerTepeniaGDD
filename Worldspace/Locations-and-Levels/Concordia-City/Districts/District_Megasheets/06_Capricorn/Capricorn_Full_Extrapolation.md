@@ -61,7 +61,7 @@ care) and **the medieval guild cities** (Bruges/Ghent — meaning). Gate 7 recor
 entry says about you.
 
 **Baseline:** heavy, permanent, deliberately over-built construction — *things designed to outlast their
-builders.* Stone-analogue and structural metal, minimal ornament, and an unusual amount of the district's
+builders.* Stone-analog and structural metal, minimal ornament, and an unusual amount of the district's
 material budget spent on things nobody sees: foundations, load paths, tolerances. **A Yards building is
 over-engineered as a moral position**, not a practical one.
 

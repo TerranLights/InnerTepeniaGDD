@@ -533,3 +533,292 @@ covers 9.4% of pre-war need but ~19% at half the population and ~28% at a third,
 and the distributional caveat that **Halley and Neumayer have no ice-free land at all.**
 
 **Full working:** `.../Cities/Division_of_Industry/12_Terraforming_and_the_Outdoor_Tier.md`.
+
+---
+---
+
+# ▶ RAISED BY THE 38-CITY RUN — **Shirayuki, 2026-09-06.** *Marked for future review at the developer's direction.*
+
+> **All three surfaced during `Step 0` and `Step 1` of the first city of the run.** ⛔ **None blocks the
+> Shirayuki pass**, which continues under stated provisional readings. **Each will bind more cities than this
+> one, which is why they are queued rather than decided inside a pass** *(`02` Path 6: this system prepares;
+> it never decides)*.
+
+## 🔵 DRQ-10 — ⭐⭐ A CITY WHOSE POPULATION BAND CROSSES `4 → 5` INSIDE ITS OWN DECLARED FRAME
+
+**The question.** **`01` §2 calls the scale band *"the single most consequential declaration."*** **Shirayuki
+sits at `1,060,482` at Census I — `6%` above the `~1M` Band 4/5 line — and `655,492` at Census II, well inside
+Band 4.** **The Second Interwar runs 2564–2812 and Amundsen Tower completes ~2688, so the pre-orbital and
+orbital halves are each roughly 124 years.** ***The city is Band 5 for about half of its own frame and Band 4
+for the other half.***
+
+**Why it is reserved.** **`01` §2.2's `4→5` threshold is not a size label — it changes the KIND of writing:**
+*"Above roughly a million, the location no longer has a culture; it has a statistical shape. The unit of
+analysis changes from 'what is true here' to 'what is the spread, where are its modes, and what is genuinely
+common to all of it.'"* **A Band 5 pass that reads like a Band 3 pass commits the scale error `00d` names.**
+
+**What canon already constrains.** ⛔ **`01` §4 rule 1: *"One frame is the subject."*** **Rule 2: a location
+straddling a major event gets SEPARATE passes, never one document hedged across time — but this is not a frame
+straddle, it is a band crossing INSIDE one frame, and the taxonomy has no entry for it.**
+**`§C.6` standing convention: all process-derived figures use Census I.**
+
+| Option | Consequence |
+|---|---|
+| **A — Band 4 throughout** *(the pass's provisional reading)* | Simplest. Treats Census I's excess as margin. ⚠ Risks asserting of ~1.06M people what is true of a neighborhood |
+| **B — Band 5 throughout** | Written as a distribution. ⚠ Heaviest, and arguably wrong for the orbital half, when the city is 35% below the line |
+| ⭐ **C — declare the CROSSING; write two states** | **Turns the threshold into `01` §5.3a.1's own-eras axis — *"the strongest substitute, usually available, and the one to reach for first"*** — and the crossing becomes a finding rather than an awkwardness. ⚠ `01` §5.3a warns to check the third state sits inside the frame before committing |
+
+**What is blocked, and how badly.** ⚠ **Nothing yet.** **The pass proceeds on A and says so.** **It will bind
+Phase 4 (Ordinary Life), Phase 9 (Populations) and Gate 11** — *and it is very unlikely to be unique to
+Shirayuki; any city near the 1M line across a census pair inherits the same question.*
+
+## 🔵 DRQ-11 — ⭐⭐⭐ WHO ALLOCATED THE LARSEMANN HILLS' ~40 km² BETWEEN THREE CITIES — **or did nobody?**
+
+**The question.** **Shirayuki, Sinheung and Zhongshan share ONE ~40 km² patch of ice-free rock and need
+`353–504 km²` between them.** ***~89–92% of all three cities stands on ice.*** **No canon states how the rock
+divides, or whether anyone ever decided.**
+
+**Why it is reserved.** ⛔ **This is not a detail — `Extent_and_Density_Per_City.md` §10 already rules what the
+mix DOES:**
+
+> *"In a city that is 90% ice, the 10% on rock is the only ground that never has to be rebuilt. **That makes it
+> the most valuable real estate in the city for a physical reason, and it produces hierarchy without anyone
+> designing one*** *— founding institutions sit on rock because they were the things that could not be moved;
+> an inherited address becomes inherited security."*
+
+**And §10 classes the Tri-Cities in the one band where this bites:** ⛔ **`MIXED, ~10% rock` — *"stratified —
+this is where the class structure is."*** *(The 100%-rock and 0%-rock cities are both socially flat, by
+opposite mechanisms.)*
+
+**What canon already constrains.** **The `Specs/` files establish the three cities are `1–2 km` and `~15 km`
+apart, share one climate, and meet at one physical highway junction.** ⚠ **The Shirayuki pass's `Step 0`
+records *"no parent determines the internal allocation of the oasis's rock"* as **provisional assumption 3**,
+chosen because nothing in admissible canon addresses it — **and `00_Frame.md` §3a flags it as load-bearing.**
+
+| Option | Consequence |
+|---|---|
+| **A — nobody decided; first-come, then inheritance** | ⭐ Produces stratification with no author — which is exactly `00d`'s shadow criterion *(unintended, unnoticed in-world, everyone acting in good faith)* |
+| **B — allocated by an authority** *(the subnet, the Federation, a treaty)* | Produces a POLITICS rather than a shadow. ⚠ `02` §3.3: a knowingly-chosen harm belongs to a location's politics, not its shadow — **this option moves the whole finding from Phase 6 to Phase 7** |
+| **C — allocated by the same Jeju-do act that placed the cities** | ⭐ Ties ground to the founding gate and makes both Jeju-do cities' rock inherited rather than earned. ⚠ But the Court is an **Upper Earth, pre-exile** body — it placed populations, and whether it partitioned ground is a different claim |
+
+**What is blocked, and how badly.** ⚠ **Substantial, and not only for Shirayuki.** ***The same 40 km² is the
+ground under Sinheung and Zhongshan, both scheduled this week.*** **A ruling made once serves three passes; a
+ruling made three times will not agree with itself.** ⛔ **Whichever way it goes it must be the SAME answer for
+all three, or the anti-convergence rule is violated in reverse — three cities given three different mechanisms
+for one piece of rock.**
+
+## 🔵 DRQ-12 — ⚠ THE RATIFIED-ROOT LIST WAS SEEDED WITH TWO ROOTS AND NEVER EXTENDED
+
+**The question.** **`05` §6.3 gained **rule 6** on 2026-09-03 — *RATIFICATION IS BY ROOT, NOT BY BANNER*: a
+source declaring no status is **UNRATIFIED and DEMOTED** unless it sits in a root declared ratified.**
+**The ruling seeded exactly two:** `Cities/Specs/` and `Cities/Official_Population_Census.md`.
+⏸️ ***"The rest of that list is not yet enumerated; the developer extends it."*** **It never was.**
+
+**Why it is reserved.** **`DEMOTED` is not a quarantine — the material may be READ as a prompt — but it
+*"cannot ground a finding, settle a fact, or be cited as canon,"* and a finding it alone supports is
+`REQUESTED`, not `PRODUCED`** *(`05` §6.3 rules 3–4)*. ***So the list decides what a pass is allowed to build
+on, corpus-wide.***
+
+**What canon already constrains.** **The measured basis for the rule is sound and is not in question: 35 of 38
+`Specs/` files declare a status and 3 are silent — *declaring is the norm, so silence is an oversight, not an
+implicit yes.*** ⚠ **The rule bites ONLY on `none-declared` sources.** *A source that declares its own status
+is judged on that declaration, so `Division_of_Industry/` — developer-ruled `RELIABLE` 2026-09-01 — is
+unaffected.*
+
+**What is blocked, and how badly.**
+
+| Source | Effect today |
+|---|---|
+| ⛔ **`Inspirational-Influences.md`** | **DEMOTED** — `none-declared`, not in a ratified root. ⚠⚠ ***This is the RWBEM's own pick list.*** **The Real-World Basis Extrapolation Method's primary input, for all 38 cities, currently cannot ground a finding** |
+| ⛔ **`City_Symbolic_Substrate/` ×4** | **DEMOTED at fixpoint** *(they cite one another; the citation graph is strongly connected)*. **`G1` may prompt, may not ground — for every city** |
+| ⛔ **`Station_to_City_Map.md`** · ⚠ **`Overview.md`** | DEMOTED — self-declared tracker; and by inheritance |
+| ✅ **`National_Medical_and_Care_Institutes.md`** | **CLEAN — `locked-canon`, no declared sources.** ⭐ *The only clean file of eight tested* |
+
+> ### ⭐ THE OBSERVATION THAT MAKES THIS WORTH RULING RATHER THAN LIVING WITH
+> ***"The cleanest file by coordinate map (100% admissible) is downstream twice over. The only `locked-canon`
+> file scored the second-LOWEST (42.5%). Admissibility and provenance-admissibility are uncorrelated here, and
+> may be anticorrelated."*** **Because *"the conclusions were computed elsewhere and imported as VALUES — the
+> map sees values; it cannot see the import."***
+> **A clean-looking table is the shape to distrust, and no amount of per-pass care substitutes for the root
+> list.**
+
+**Suggested shape of a ruling:** **enumerate the ratified roots once, in `05` §6.3, rather than per source** —
+*candidates the corpus already treats as canon: `Cities/Specs/` · `Official_Population_Census.md` ·
+`Locations/Infrastructure/` · `Division_of_Industry/` · the universe repo's `Reference/`.* ⚠ **And rule
+separately on `Inspirational-Influences.md`, because the RWBEM cannot run on a demoted pick list.**
+
+---
+
+## 🔵 DRQ-13 — ⚠⚠ TWO CANON INSTRUMENTS CLASSIFY SHIRAYUKI'S GROUND DIFFERENTLY, AND NEITHER KNOWS ABOUT THE OTHER
+
+**Raised 2026-09-06, Shirayuki `Step 2` re-run.** ⭐ **Not a culture-pass question — a Division of Industry
+question — so it is queued rather than resolved inside a city pass.**
+
+| Instrument | What it says |
+|---|---|
+| **`Division_of_Industry/16_Per_City_Three_Tier_Run.md`, Half B** | **Baseline `40.9%`** — *"D=1.25, **GROWER** — Larsemann Hills, **rock-founded**, food term 100%"* |
+| **`Universal_Location_Methodology` `Step 2.6` + `Extent_and_Density_Per_City.md` §10** | ⛔ **`87–91%` of the required footprint stands ON ICE** — *`~13.4 km²` of rock available against a `106–152 km²` requirement at the declared density band* |
+
+> ### ⭐ BOTH CAN BE TRUE — **the SITE is ice-free rock; the CITY has outgrown it**
+> **The Larsemann Hills oasis genuinely is exposed bedrock. But the city's built extent exceeds the rock share
+> available to it by roughly an order of magnitude**, *so most of what stands, stands on ice and is rebuilt.*
+
+## ⚠ THE QUESTION
+
+***Were `D=1.25` and the `100%` food term set from the SITE classification, without knowledge of the footprint
+ratio?*** ⭐ **If so, `40.9%` is a FLOOR, not a figure** — **an `87–91%`-on-ice city carries rebuild and
+maintenance burden that a rock-founded classification does not price in.**
+
+## What is affected
+
+| | |
+|---|---|
+| **Directly** | **Shirayuki's `base / MAND / FREE` split — `40.9% / 11.8% / 47.3%`.** ⭐ **`FREE 47.3%` is canon's *"character budget"* and is now load-bearing for this city's culture pass** *(`02_Spine.md` RE-RUN 3 `A-3`)* |
+| ⚠ **Possibly corpus-wide** | **Any city whose difficulty coefficient was set from an oasis/rock site classification while its actual footprint sits mostly on ice.** ⛔ **NOT enumerated here** — *enumerating it requires reading other cities, which the ULM's ONE LOCATION law forbids inside a pass.* **It is a Division-of-Industry sweep, and it is theirs to run** |
+| **Already stacked** | ⚠ **`09` §3.5's own qualification — the margin is an UPPER BOUND, and the correction is largest at robot-majority cities. Shirayuki is `53.85%` robot.** ***Two independent reasons to think `47.3%` is generous*** |
+
+> ### ⭐ WHY IT IS WORTH A RULING RATHER THAN A FOOTNOTE — `M-121`, a third instance
+> ***A fact recorded correctly in one place never reached the instrument that needed it.*** **The extent work
+> and the industry model are both canon-tier, both current, and each is internally consistent.** **Neither
+> file cites the other, so no per-pass care would have caught this** — **it surfaced only because a culture
+> pass happened to run `Step 2.6` and `G3` in the same session.**
+
+**Suggested shape of a ruling:** **① confirm whether `D` and the food term are site-derived or
+footprint-derived; ② if site-derived, decide whether an on-ice footprint ratio belongs in the difficulty
+model at all; ③ if it does, run the sweep in Division of Industry — not in the city passes.**
+
+---
+
+## 🔴 DRQ-14 — ⛔⛔ **THE GPS LAW IS BROKEN IN A CANON FILE — "Bharati-Station-descended founding"**
+
+**Raised 2026-09-06, Shirayuki `Phase 5` re-run, on opening a relationship file the pass had deferred.**
+⚠ **Flagged rather than edited: it is canon-tier, it appears twice, and one of the two entries belongs to a
+different city.**
+
+## The text
+
+**`City_National_Connections.md`, in Shirayuki's own entry:**
+> ⛔ ***"**Sayowa** (Mawson) — Medium, Cultural. **Shirayuki's own Bharati-Station-descended founding** and
+> Sayowa's own JARE heritage…"***
+
+**Mirrored in Sayowa's entry:** *"**Shirayuki** (Mirny) — Medium, Cultural. Sayowa's own JARE heritage and
+Shirayuki's own Bharati-Station…"*
+
+## ⛔ Why it is a violation
+
+| | |
+|---|---|
+| **1. Site lineage used as an in-fiction CAUSE** | *A "Bharati-Station-descended founding" is exactly a real site's history doing causal work* |
+| **2. It implies a descent canon FORBIDS** | **`Division_of_Industry/16`:** *"the real-world basis is the Bharati site, **but no Indian or South Asian population ever settled in Tepenia**."* **And the real station's name *"does not carry forward into Tepenia in any form."*** ⛔ **`project_no_subcontinentals` is a standing canon boundary** |
+| **3. A CULTURAL RELATIONSHIP is built on it** | *A rated tie between two cities, "Medium, Cultural," resting on two real-world station heritages* |
+| **4. Shirayuki's founding population is separately RESOLVED** | ✅ *`City_Relationship_Database.md`, same corpus: "Founding population resolved 2026-07-03 as **Japanese**, via a pre-exile diplomatic allocation by the International Court of Diplomacy at Jeju-do."* ⛔ **So the two files disagree about what this city descends from** |
+
+> ### ⭐⭐ AND IT IS THE EXACT TRAP THE STANDING MEMORY ALREADY NAMES
+> **`feedback_gps_site_history_not_an_input`:** ***"the rule covers a real site's lineage, abandonment and
+> vacancy, not just its nationality — I flagged this trap and walked into it hours later."***
+> ⭐ **It survived here because *"descended founding"* reads as ordinary provenance prose rather than as a
+> national claim** — **which is why a keyword sweep for nationality terms would not have caught it.**
+
+## What is affected
+
+- ⛔ **The Shirayuki ↔ Sayowa tie is currently UNUSABLE** and has been set aside by the pass.
+- ⚠ **The same construction may exist for other cities.** ⛔ **NOT enumerated here** — *enumerating it means
+  reading other cities' entries, which THE LAW OF ONE LOCATION forbids in-run.* **A corpus sweep is owed.**
+
+**Suggested shape of a ruling:** **① strike "Bharati-Station-descended" from both entries; ② decide whether a
+Shirayuki–Sayowa cultural tie exists on an ADMISSIBLE basis** *(both are Japanese-founding cities by canon —
+that is population origin, which IS admissible once composition is established)*; **③ sweep
+`City_National_Connections.md` for other ties resting on real-station lineage rather than on population.**
+
+---
+
+## 🔴 DRQ-15 — ⛔⛔ **THE TWELVE STEPWISE CARDS ARE STALE. A PASS RUN FROM THEM WOULD BREAK A BINDING LAW.**
+
+**Raised 2026-09-06, Shirayuki `Step 10` item 10.** ⚠ **Flagged rather than fixed: each card's own header
+says the remedy is RE-EXTRACTION from the runbook, which is a mechanical operation the developer owns — and
+`S12` rule 4 forbids Step 10 from editing anything it merely found.**
+
+## The state
+
+**`Universal_Location_Methodology/Stepwise_Execution/01_Spine/` — twelve cards, one per ULM step, ALL last
+modified 2026-09-04. None was touched by the 2026-09-06 rulings.**
+
+| Card | Withdrawn instrument still live |
+|---|---|
+| ⛔⛔ **`S08_Step_6_Differentiate.md` L24–25** | ***"Read the relevant rows before writing each category… check the most recently written sibling first."*** **A direct order to read other cities' rows** |
+| ⛔ **`S09_Step_7_QA.md` L47–48** | **The z-score**, arguing *"a single-location pass needs this more, not less, since it has no siblings"* |
+| ⛔ **`S04_Step_2_Build_the_spine.md` L30** | *"where the shape repeats a sibling, run the three-step rule and table the comparison on four axes"* |
+| ⛔ **ALL TWELVE** | **`ONE LOCATION, ON ITS OWN TERMS` — ABSENT.** **`NO FORCED FIT` — ABSENT** |
+
+## ⛔ And five restatements in the source instruments are also unqualified
+
+**`00_RUNBOOK.md` L542 · L2129 · `02_Generators_Capability_and_Symbols.md` L248 ·
+`ULM_Piece_Index.md` L127 · `CST_Progress.md` L155.**
+⭐ **`CST_Progress.md` is the tracker for the very next process to run, which is why the handoff is blocked.**
+
+## The question
+
+> ### **Re-extract all twelve cards from the current runbook, or hand-patch only the four defects?**
+
+| | |
+|---|---|
+| ✅ **RE-EXTRACT** *(what the cards' own headers prescribe)* | *Fixes everything at once and restores the source→extract relationship. **Costs: the cards carry hand-written `EXECUTION LOG` scaffolding and address tables that a naive re-extraction would destroy*** |
+| ⚠ **HAND-PATCH** | *Cheaper and preserves the scaffolding. **Leaves the two surfaces out of sync again on the next ruling — which is exactly `M-161`*** |
+
+⚠ **Also open: is there a SECOND extract set?** *Only `01_Spine/` was audited. **`Step 10` could not prove it
+is the only one.***
+
+**Blocks:** ⛔ **the `CST` handoff for Shirayuki.** *The ULM pass itself is complete and its data is unaffected.*
+
+### ✅ DRQ-15 — **RESOLVED IN PART, 2026-09-06.** *Developer: "we need to do all of the fixes now."*
+
+> ## ⛔⛔ FIRST — **THE SCOPE AS FILED WAS WRONG. IT WAS 12 CARDS. IT IS 29.**
+> **`Stepwise_Execution/` holds TWO extract sets, not one:** **`01_Spine/` (12 step cards)** *and*
+> **`02_Gates/` (17 gate cards)** — *the second was never audited.* ⭐ **`Step 10` item 11 had flagged exactly
+> this as unprovable** — *"only `01_Spine/` was audited; other extract sets may exist and were not looked
+> for"* — **and the honest limit turned out to be the real one.** ⚠ ***A declared limit is worth more than a
+> clean report: this one was correct, and it was correct about something that doubled the defect count.***
+
+## ✅ WHAT WAS FIXED
+
+| | |
+|---|---|
+| **The two binding laws** | ✅ **Hand-synced into ALL 29 CARDS** as rules 7 and 8 — *`ONE LOCATION` and `NO FORCED FIT`, each marked **hand-synced 2026-09-06** so a later full re-extraction can see what happened* |
+| ⛔⛔ **`S08` Step 6** | ✅ **Replaced with the WRITE-ONLY form.** *The was/now table, verbatim from the runbook. **"Check the most recently written sibling first" is marked REVOKED, not deleted*** |
+| ⛔ **`S09` Step 7** | ✅ **z-score replaced with `NO SCORE OF ANY KIND IN-RUN`** *(`02` §G8 rule 1)*, **with the old text quoted so the change is legible** |
+| ⛔ **`S04` Step 2** | ✅ **Cross-location three-step rule marked TERMINAL; the in-run DOUBLE-READING form written in its place** *(`02` §4)* |
+| ⛔ **`G07` Gate 6** | ✅ **Split: in-run = within the location only; the against-siblings half marked TERMINAL** *(`04` Gate 6)* |
+| ⚠ **`G15` Gate I** | ✅ *"Anything classed originated goes to Gate 6"* → **qualified to Gate 6's IN-RUN half** |
+| **The 5 restatements** | ✅ `00_RUNBOOK` L542 · L2129 · `02_Generators` L248 · `ULM_Piece_Index` L127 · `CST_Progress` |
+| ⛔⛔⛔ **The Mirny imperative** | ✅ **REVOKED** — *see below. This was the worst single item in the whole docket* |
+
+### ⛔⛔⛔ THE ONE THAT WAS NOT A STALE RESTATEMENT — **it was an ORDER, aimed at the next run**
+
+**`CST_Progress.md` did not merely restate the withdrawn rule. It instructed:**
+> ⛔ ***"Compare every Mirny technique against the two neighbors before accepting it."***
+
+**An explicit imperative to read two other cities — naming them — in the subnet currently in progress, on the
+tracker a CST session opens at boot.** ⭐ **What was TRUE in that block is kept:** *three cities share one
+40 km² oasis and one climate.* ⛔ **What is now stated is that this changes nothing** — ***anything the site
+DETERMINES cannot characterize the place***, so a shared climate was never the differentiating axis anyway.
+
+## ✅ TWO FLAGGED HITS WERE **FALSE POSITIVES** AND WERE DELIBERATELY NOT "FIXED"
+
+| | |
+|---|---|
+| **`G13` — *"Rank order respected"*** | ⭐ **This is SOURCE rank** *(canon precedence — now `M-160`'s four tiers)*, **not a location ranking** |
+| **`G13` — *"agreement among siblings reads as corroboration"*** | ⭐⭐ **This passage ARGUES THE LAW'S OWN CASE** — *that cross-file agreement is not evidence.* ⛔ **"Fixing" it would have destroyed working content** |
+
+> ### ⚠ RECORDED BECAUSE IT CUTS BOTH WAYS
+> ***A sweep for a withdrawn instrument returns things that merely resemble one.*** **Two of eight flagged
+> sites were correct as written, and one of them was correct BECAUSE it agreed with the new law.**
+> ⛔ **Patching on a grep hit alone would have damaged the instrument it was meant to repair.**
+
+## ⏸️ WHAT REMAINS — **the full re-extraction, and it is no longer urgent**
+
+**Every card is now correct in substance.** ⛔ **But they were hand-patched, so the source→extract relation is
+still not mechanical, and the NEXT ruling will diverge again exactly as this one did** *(`M-161`)*.
+⚠ **A real re-extraction must preserve what the cards hold and the runbook does not:** *each card's
+`EXECUTION LOG` scaffolding, and the address tables added 2026-09-04 (`S08`'s says so in its own words —
+"added because this instrument had none for cities").*
+⭐ **Schedule it deliberately; do not let it happen as a side effect of an urgent fix.**

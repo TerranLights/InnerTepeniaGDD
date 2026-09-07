@@ -1,6 +1,6 @@
 > # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
 >
-> **Source:** `../../Cultural_Synthesis_Techniques.md` · **pinned f6026e5334c9b87b · 792 lines · 2026-09-03**
+> **Source:** `../../Cultural_Synthesis_Techniques.md` · **pinned d9de2a3f2882c542 · 1193 lines · re-pinned 2026-09-06**
 >
 > ***Nothing was cut from the original.*** **This is the Universal Location Methodology's own reading of the
 > same rules — identical in substance, with location-specific worked instances replaced by pointers** — so the
@@ -161,7 +161,134 @@ what happens when someone conspicuously *doesn't* observe it.
 
 ---
 
+## ⭐⭐⭐ WHERE THE ANSWERS COME FROM — **the per-technique source map**
+
+> ### ⛔ ADDED 2026-09-06. **Every technique below asks a question ABOUT a location. This says which file answers it.**
+> **Before this existed, FOURTEEN of the seventeen techniques named no source of any kind.** *They referred to
+> "this place's established character" as a concept — while the four techniques that consume EXTERNAL inputs
+> all carried real addresses.* ⭐ **The pattern was exact, and it was structural rather than accidental:** *this
+> file was written when "established character" meant a district pass in a known folder, so that material never
+> needed an address.* ⛔ ***A technique that cannot name its input is run from whatever the session happens to
+> remember.***
+
+**⚠ PATHS BELOW ARE RELATIVE TO `Worldspace/Locations-and-Levels/`** — **stated rather than assumed**, because
+this file's sibling already shipped one address that resolved to nothing. *(`M-117` — **"a name is not an
+address"** — on the most safety-critical line in `Real-World_Basis_Extrapolation_Method.md`.)*
+
+### 1 · The location's completed pass — where it lives
+
+| Location type | Its pass |
+|---|---|
+| ⭐ **A city** *(ULM)* | **`Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/<Subnet>/<City>/`** |
+| **A Concordia district** | **`Concordia-City/Districts/`** — *that district's own pass files, per the district runbook* |
+| **Any other location** *(subnet · structure · highway · vessel · ruin)* | *The same ULM output tree, under its own type folder* |
+
+### 2 · ⛔ THE ULM WRITES **PHASES** INTO **STEP**-NUMBERED FILES. **The two numberings do not match.**
+
+| What you want | The file |
+|---|---|
+| **Phase 0 — FRAME** | `00_Frame.md` *(Step 0)* |
+| **Phase 1 — CONSTRAINT & CAPABILITY** *(the spine · the capability reading)* | ⭐⭐ **`02_Spine.md`** *(Step 2)* — ⛔ **NOT `01_`** |
+| **Phases 2 – 10** | `04_Phase_02_*.md` … `04_Phase_10_*.md` *(all written at Step 4)* |
+| ⚠ **The inherited-canon audit** — *established-but-unexplained material* | ⭐⭐ **`01_Inherited.md`** *(Step 1)* — **not a phase, and two techniques need it** |
+| Conflicts found and resolved against prior datasheets | `05_Reconciliation.md` *(Step 5)* |
+| What was researched, and what each pick actually yielded | `03_Research.md` *(Step 3)* · `Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/<City>_Research_Log.md` |
+| What the pass could NOT establish | `10_Readiness_Check.md` *(Step 10)* — ⭐ *read it before recording a null; a blocked check is not an absence* |
+
+> ### ⚠ `01_Inherited.md` IS THE ONE MOST LIKELY TO BE SKIPPED
+> **It reads as a preamble — an audit of what was already true before the pass started.** ⛔ **Techniques 5 and
+> 7 are built directly on it**, because both ask about material the location *has* without having *explained*,
+> and that is exactly what a canon-inheritance audit records. **Neither technique can run from the phases alone.**
+
+### 3 · The map
+
+| # | Technique | Read |
+|---|---|---|
+| **1** | Bounded Personal Franchise | `04_Phase_03_Surface_and_Texture` · `04_Phase_08_Making` · `04_Phase_04_Ordinary_Life` |
+| **2** | Failure State of the Core Value | `04_Phase_06_Meaning` *(the promise)* · `02_Spine` *(what it cannot deliver)* |
+| **3** | Universal Micro-Practice | `04_Phase_06_Meaning` · `04_Phase_04_Ordinary_Life` |
+| **4** | Ambiguous Universal Object | `04_Phase_02_Composition_and_Arrival` · `04_Phase_05_Relation_and_Geometry` · `04_Phase_06_Meaning` |
+| **5** | Retroactive Mechanism | ⭐ **`01_Inherited`** · `04_Phase_03_Surface_and_Texture` |
+| **6** | Necessity Before Meaning | `04_Phase_06_Meaning` · `04_Phase_02_Composition_and_Arrival` · `00_Frame` |
+| **7** | The Surviving Witness | ⭐ **`01_Inherited`** · `04_Phase_07_Order` · `04_Phase_03_Surface_and_Texture` · `04_Phase_10_Catalog` |
+| **8** | Asymmetric Record-Keeping | `04_Phase_07_Order` |
+| **9** | The Non-Thematic Export | `04_Phase_08_Making` · `04_Phase_05_Relation_and_Geometry` |
+| **10** | Membership by Unremarked Persistence | `04_Phase_08_Making` · `04_Phase_04_Ordinary_Life` · `04_Phase_09_Populations` |
+| **11** | The Negative Image | `04_Phase_06_Meaning` · `04_Phase_07_Order` — ⚠ *and `07_QA_Gates` for whether Gate 7d was blocked* |
+| **12** | Native Before Transplanted | `04_Phase_02_Composition_and_Arrival` · `04_Phase_09_Populations` |
+| **13** | The Unused-Tier Mine | ⭐ `<City>_Research_Log.md` · `03_Research` · `04_Phase_10_Catalog` §B — **the SPEND record** |
+| **14** | The Population Share Check | *Runs ON every finding in the pass; needs no source of its own* |
+| **15** | Borrowed Form | `04_Phase_02_Composition_and_Arrival` — ⛔ **the district diaspora file has NO city equivalent; see the technique** |
+| **16** | The Unrecognized Instrument | ⭐⭐ **`02_Spine`** *(= Phase 1)* — **the capability reading** |
+| **17** | The Zodiac Lens | **Phases 0–10 entire** — *and see the technique on why it must be written out, not pointed at* |
+
+> ### ⛔ AND ONE STANDING WARNING ABOUT READING A COMPLETED PASS
+> **A pass file states what that location established. It does NOT state what a technique should conclude.**
+> ⭐ **The techniques are still questions.** *Reading `04_Phase_06_Meaning` tells you what the place's core value
+> is; it does not tell you what happens when that value cannot be delivered — that is technique 2's own work,
+> and it is not in the file.*
+
+
+---
+
+## ⭐⭐⭐ THE OTHER HALF OF THE LAW — **WHAT IT WAS NEVER BLOCKING.** *(Developer, 2026-09-06. Added here 2026-09-06.)*
+
+> ### ⛔⛔ THE GPS LAW LIVES IN `Real-World_Basis_Extrapolation_Method.md` AND IN THE CANON REGISTRY. **THIS FILE NEVER CARRIED EITHER HALF OF IT.**
+> ⭐ **It is reproduced here because TWO TECHNIQUES BELOW ARE UNRUNNABLE WITHOUT THE UNLOCK** — **`12` Native
+> Before Transplanted** *(which asks what arrived versus what grew)* and **`15` Borrowed Form** *(which asks
+> what the incoming populations carried with them)*. ⛔ ***A reader holding only the prohibition refuses ALL
+> ethnic and origin material — which is not obedience but a MISREADING, and it produces placeless locations
+> that could be anywhere, plus two dead techniques.***
+
+**Developer's own words, verbatim:**
+
+> ### **"You shall NOT incorporate 'Russian heritage' into the establishment of the city of [X]… Once the population composition has been established, then, yes, you can start incorporating aspects of Japanese (or Korean) culture, traditions, history, social norms, etc., because [X] is a fundamentally Japanese city (or [Y], being a fundamentally Korean city). *THAT'S* the purpose of the 'GPS purposes only' Law."**
+
+| ⛔ What the law blocks | ✅ What the law was never blocking |
+|---|---|
+| ***The REAL SITE'S operator nationality bleeding into the place*** — *its builders, its flag, its lineage, its abandonment, its fate* | ⭐⭐ **THE PLACE'S OWN ETHNIC CHARACTER, which comes from its FOUNDING POPULATION and is canon** |
+
+> ## ***THE LAW EXISTS SO A PLACE IS CHARACTERIZED BY WHO LIVES THERE, NOT BY WHOSE SITE IT OCCUPIES.***
+> **It is a rule about PROVENANCE, not a rule against ethnicity.**
+
+### ⭐ IT IS A SEQUENCING RULE, NOT A REPEAL — **the prohibition above is UNCHANGED**
+
+| Stage | What is permitted |
+|---|---|
+| **BEFORE composition is established** | ⛔ **GPS FACTS ONLY.** *You may not infer **who lives somewhere** from national character, temperament or cultural reputation.* **This is the whole point of the prohibition and it is untouched** |
+| ⭐ **AFTER composition is established** — *origins named, proportions settled* | ✅ **Origin-ethnicities and ethnic-cultures MAY be taken into consideration.** *The populations are canon; what they carry is then legitimately in scope* |
+
+> ### ⭐⭐ THE DISTINCTION THAT MAKES THIS SAFE — **two different generators, and the unlock touches only one**
+> | | |
+> |---|---|
+> | ⛔ **`G7` — the SITE's real-world basis** | **UNCHANGED. GPS PURPOSES ONLY — a coordinate, never a cause, an identity, or a history.** ⚠ *And that covers the real site's **lineage, abandonment and vacancy**, not merely its nationality* |
+> | ✅ **`G8` — the POPULATION's composition** | ***This is what the ruling unlocks*** |
+
+### ⛔⛔ NEITHER EXTREME IS THE ANSWER — **composition names the STOCK; time and place produce the CULTURE**
+
+| ⛔ Too little | ⛔ Too much | ✅ The operation |
+|---|---|---|
+| **Refusing all ethnic material** — *placeless locations that could be anywhere* | **Transplanting the source culture intact** — *"a costumed version of somewhere real"* | ⭐⭐ ***Take the origin culture as the STARTING STOCK, then apply local divergence to it*** |
+
+**⭐ THE DIVERGENCE OPERATOR — the checklist:** **time · separation · local environmental setting · local
+struggles and hardships · local goals · local sensibilities and habits.**
+
+> ⛔⛔ **DO NOT REASON FROM THE ELAPSED TIME.** *Developer:* ***"Don't think in terms of '250 years' of
+> outcomes. Just process the data purely on its own terms."***
+
+### ⭐ AND ORIGIN IS ANCESTRY, NOT IDENTITY — **the Acts**
+**`Act 1`** *(2564 → early 2600s)*: people are still *"X who live in Antarctica."*
+**`Act 2`** *(~late 2600s / early 2700s on)*: they are **properly Tepenian — origin is ancestry, not identity.**
+⚠ **The Second Interwar spans both Acts and is mostly Act 2.** ⭐ ***Differentiate locally; converge nationally.***
+
+📎 **Full statement: `00_RUNBOOK.md` `C.9b` *(sequencing)* · `C.9c` *(what the law is for)* · `C.9d` *(the
+divergence principle)*, and the universe-wide original in the canon registry at `§B`.**
+
+---
+
 ## 1. The Bounded Personal Franchise
+
+📍 **Read:** `04_Phase_03_Surface_and_Texture.md` · `04_Phase_08_Making.md` · `04_Phase_04_Ordinary_Life.md` — ***what the place is physically made of, and how people work in it.*** *(Source map above.)*
 
 **Architecture.** Every inhabited place needs at least one domain where an ordinary individual holds absolute,
 unarguable authority — and it is far more vivid when the limit is **physical and natural** rather than
@@ -191,6 +318,8 @@ how people work in it. Change the substrate, change the franchise.
 
 ## 2. The Failure State of the Core Value
 
+📍 **Read:** `04_Phase_06_Meaning.md` — *the central promise* · `02_Spine.md` — *what the place structurally cannot deliver.* *(Source map above.)*
+
 **Architecture.** Every place organized around a strong value meets a condition where that value **cannot be
 delivered**. A culture that has never confronted its own failure state reads as propaganda. Where it has, and
 built something around it, is usually the place's moral center — and its best quest territory.
@@ -217,6 +346,8 @@ no consoling ritual, no clean closure — says more than any ceremony.
 ---
 
 ## 3. The Universal Micro-Practice
+
+📍 **Read:** `04_Phase_06_Meaning.md` · `04_Phase_04_Ordinary_Life.md` — ***the place's real priority***, which is what the practice encodes. *(Source map above.)*
 
 **Architecture.** The highest-leverage device for a lived-in feel: a behavior that is **very short, extremely
 frequent, near-universal across roles, and almost contentless**. Residents do it unconsciously — invisible to
@@ -248,6 +379,8 @@ the moment the player can conspicuously skip it.
 
 ## 4. The Ambiguous Universal Object
 
+📍 **Read:** `04_Phase_02_Composition_and_Arrival.md` · `04_Phase_05_Relation_and_Geometry.md` · `04_Phase_06_Meaning.md` — ***what the place is shaped by.*** *(Source map above.)*
+
 **Architecture.** One item, carried by a large share of the population, whose **form is standard but whose
 meaning is individual and never asked about**. Cheap and enormously productive: one asset, and every bearer
 silently has a story that costs nothing until someone needs it.
@@ -274,6 +407,8 @@ item; a quest token.
 
 ## 5. Retroactive Mechanism
 
+📍 **Read:** ⭐⭐ **`01_Inherited.md`** *(Step 1 — the inherited-canon audit)* · `04_Phase_03_Surface_and_Texture.md`. ⛔ **This technique CANNOT run from the phases alone** — *its input is material the location has without having explained, and that is what the inheritance audit records, not what a phase writes.* *(Source map above.)*
+
 **Architecture.** Settings accumulate **stated effects with unstated causes** — atmosphere recorded because it
 felt right, never mechanically explained. Supplying a concrete physical cause turns atmosphere into
 infrastructure, which is what makes a place feel engineered rather than described. It usually generates a
@@ -297,6 +432,8 @@ technology — an agricultural district and a foundry district cannot explain th
 
 ## 6. Necessity Before Meaning
 
+📍 **Read:** `04_Phase_06_Meaning.md` *(the rule)* · `04_Phase_02_Composition_and_Arrival.md` · `00_Frame.md` *(the founding conditions that could have forced it).* *(Source map above.)*
+
 **Architecture.** Cultures present aesthetic and moral rules as *chosen*. It is nearly always better if the rule
 was **forced by a practical constraint** and moralized afterward. Reversing the causality makes a place feel
 accumulated rather than authored.
@@ -316,6 +453,8 @@ the *rationalization* differs again, because each culture moralizes its constrai
 
 ## 7. The Surviving Witness
 
+📍 **Read:** ⭐⭐ **`01_Inherited.md`** *(what canon leaves unexplained or unrecorded)* · `04_Phase_07_Order.md` · `04_Phase_03_Surface_and_Texture.md` · `04_Phase_10_Catalog.md`. ⛔ **Same dependency as technique 5** — *the phases alone do not record a silence.* *(Source map above.)*
+
 **Architecture.** Where a place has suppressed, lost, or destroyed a record, **another medium almost always
 still testifies** — unintentionally, and therefore more credibly.
 
@@ -334,6 +473,8 @@ confessed.
 ---
 
 ## 8. Asymmetric Record-Keeping
+
+📍 **Read:** `04_Phase_07_Order.md` — *what the place inscribes, and what it conspicuously does not.* *(Source map above.)*
 
 **Architecture.** What a culture makes **permanent** versus what it **never writes down** is more revealing than
 either alone. The finding is the *gap*.
@@ -356,6 +497,8 @@ record, and what would an outsider wrongly conclude from the surviving record al
 
 ## 9. The Non-Thematic Export
 
+📍 **Read:** `04_Phase_08_Making.md` *(by-products and surplus)* · `04_Phase_05_Relation_and_Geometry.md` *(what actually flows outward).* *(Source map above.)*
+
 **Architecture.** A place defined by one strong function drifts toward monoculture. At least one export that is
 **ordinary, emotionally neutral, and unrelated to the headline function** gives it presence elsewhere without
 exporting its theme, and proves the economy is real rather than allegorical.
@@ -374,6 +517,8 @@ recognize provenance.
 ---
 
 ## 10. Membership by Unremarked Persistence
+
+📍 **Read:** `04_Phase_08_Making.md` · `04_Phase_04_Ordinary_Life.md` · `04_Phase_09_Populations.md` — ***the local economy***, which supplies the conversion mechanism. *(Source map above.)*
 
 **Architecture.** How an outsider becomes a local is deeply characterizing, and the strongest versions are
 **mechanisms rather than ceremonies** — derived from the local economy, with no announcement and often no
@@ -400,6 +545,9 @@ does still doing it convert them into a resident?*
 
 ## 11. The Negative Image
 
+📍 **Read:** `04_Phase_06_Meaning.md` · `04_Phase_07_Order.md` — *what the place requires of every resident.*
+> ⚠⚠ **CHECK `07_QA_Gates.md` FOR GATE `7d` BEFORE RECORDING A NULL.** **`7d` is the counterculture canon check, and it can come back BLOCKED when the owning canon file is withheld wholesale.** ⛔ ***A blocked check is not an empty result*** — *record it as blocked, exactly as the pass did, and do not report "this place has no counterculture" on the strength of a source you were not allowed to open.*
+
 **Architecture.** A counterculture is not generic dissent — it is the **precise negative** of what the dominant
 culture requires of everyone. Derived, it's sympathetic and inevitable; invented freely, it's generic rebels.
 
@@ -425,6 +573,10 @@ a real choice about whose side of a local argument to take.
 
 ## 12. Native Before Transplanted
 
+📍⭐ **THIS TECHNIQUE DEPENDS ON THE GPS LAW'S UNLOCK** *(see the section above)*: once composition is established, **origin-ethnicities and ethnic-cultures ARE admissible material.** ⛔ *Without that, "setting aside everything incoming populations brought" has nothing on either side of the subtraction.*
+
+📍 **Read:** `04_Phase_02_Composition_and_Arrival.md` *(what arrived)* · `04_Phase_09_Populations.md` *(what is here now)* — **and the divergence operator's own output, wherever the pass applied it.** *(Source map above.)*
+
 **Architecture.** In any setting with migration, it is easy to mistake **what arrived** for **what grew**. A
 place whose whole culture is its immigrants' cultures has no culture. Develop the layers separately, then let
 them interact.
@@ -445,6 +597,26 @@ summary and spent, while lower tiers sit unexamined and still hold unspent speci
 
 **The question.** *Which of this location's picks has nothing in the existing material actually derived from
 it?* Start there.
+
+> ### ⛔⛔ THE PREMISE INVERTS ONCE THE LOCATION HAS A COMPLETED PASS — **corrected 2026-09-06**
+> **This technique was audited 2026-09-05 with the note: *"the 'which picks are spent' record does not exist
+> for cities… at first pass the answer is 'all of them are unused' — maximum yield."*** ⛔ ***Both halves of
+> that expire the moment a location's own pass runs*** — **a ULM pass researches and spends picks; that is
+> `Step 3`'s whole job.**
+>
+> ✅ **AND THE "MISSING" SPEND RECORD IS NOT MISSING.** ***It is the location's own research log*** —
+> `Real-World_Basis_Extrapolation_Method.md`'s **Step F**, which is specified to carry *"a fact-by-fact table
+> of what came back → which finding it became."* ⭐ **That is a usage record by definition.** *The two
+> availability audits were written the same day as siblings, and neither noticed that one's Step F closes the
+> other's declared gap.*
+>
+> | Before a pass | After a pass |
+> |---|---|
+> | ✅ **"All unused" is a safe default** — *maximum yield, run it early* | ⛔ **Check the log first.** *A picked-over location may return a **null**, and a null here is a legitimate result under "Using this file" item 5 — not a failure, and not a reason to manufacture a weak find* |
+>
+> 📍 **The spend record:** `Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/<City>_Research_Log.md`
+> *(cities)* · the pass's own `03_Research.md` and `04_Phase_10_Catalog.md` §B. ⚠ **A location with no research
+> log has genuinely not been mined yet** — *the absence is informative, not an obstacle.*
 
 **[one instance]** *(worked instance in the original, and copied to `../Test_Runs/Worked_Examples_Archive/` — LAYERING LAW)*
 
@@ -487,6 +659,13 @@ Full discipline: `00b_General_Population_Discipline.md`, in this folder.
 ---
 
 ## Technique — Borrowed Form *(added 2026-08-29, from the Circuit)*
+
+📍⭐⭐ **THIS TECHNIQUE IS THE UNLOCK'S SHARPEST USER** — *it asks what the incoming populations' OWN home traditions were.* ⛔ **Under the prohibition read alone, that question is refusable and the technique is dead.** ✅ **Composition first, then the cultures those populations actually carry** *(see the GPS section above)*.
+
+📍 **Read:** `04_Phase_02_Composition_and_Arrival.md` — *the incoming populations and what each carried.* *(Source map above.)*
+> ### ⛔⛔ THE ADDRESS BELOW IS A **DISTRICT** ADDRESS, AND THERE IS NO CITY EQUIVALENT.
+> **`District_Refugee_Diaspora_Composition.md` covers the thirteen Concordia districts.** ⛔ ***A city pass that follows it gets a clean, real read of thirteen districts' refugee composition and nothing whatever about its own*** — **which is `M-117`'s worse form: an address that RESOLVES, to the wrong location type, returning genuine content, so nothing feels wrong.**
+> ✅ **For a city, the donor material is the ULM pass's own Phase 2** — *composition, origins, and what each arriving group brought.* ⚠ **If Phase 2 recorded origin percentages but not PORTABLE INSTITUTIONS per origin, this technique is under-supplied — say so and leave the slot open, per `NO FORCED FIT`.**
 
 **When a location has no form for something every society needs, do not invent one until you have checked who
 arrived carrying one.**
@@ -543,6 +722,9 @@ including one whose file uses the word *refugee* zero times.
 ---
 
 ## Technique — The Unrecognized Instrument *(added 2026-08-29, from the Frostlands and the Undergrid)*
+
+📍 **Read:** ⭐⭐ **`02_Spine.md`** *(Step 2 = **Phase 1**, Constraint & Capability)* — **the capability reading**, which is this technique's stated precondition. *(Source map above.)*
+> ⚠ **`02_Spine.md`, not `01_Inherited.md`.** *The step numbering and the phase numbering do not line up, and this technique names the phase.*
 
 **Once the capability reading has named what a district cannot do, ask whether the district is already doing it
 somewhere and has not noticed.**
@@ -812,3 +994,203 @@ actual target the pattern exists to protect. **The parallelized pattern applies 
 > because one of its findings happened to contradict a result the coordinating session had received
 > directly; a fabrication that stayed clear of any independently-verifiable claim would not have been
 > caught this way.
+
+---
+
+## 18. The Composition Merge
+
+> ### ⭐⭐⭐ ADDED 2026-09-06, developer instruction. **UNIVERSAL — any location, any composition, any setting.**
+> **Developer's own words, preserved because the example IS the mechanism:**
+>
+> > ***"Within one particular location, take into account not only: A.) who lives there and where they're from, but also, B.) what their composition percentages are. A city with 35% Chinese, 15% Korean, and 10% Russian will merge into a very, very different neo-culture than a place that's 35% Chinese, 15% Mexican, and 10% Australian, even when 'Chinese' is the clear and obvious forerunner. So, for each location, there needs to be set up a mechanism for determining not only which national/ethnic cultures are represented, but also to what degree."***
+
+**Architecture.** **A composition is not a list. It is a DISTRIBUTION, and the distribution's SHAPE does more
+work than its largest entry.** ⭐⭐⭐ **The forerunner is identical in both of the developer's examples — so
+anything that reads only the plurality returns the same answer for two places that must diverge sharply.**
+***The leader supplies the unmarked default. The REMAINDER decides what that default has to accommodate, and
+therefore what the place actually becomes.***
+
+**The question.** *Given this location's origin shares: what can the leader impose, what must it negotiate,
+which minorities can sustain an institution rather than a trace — and is the resulting merge DEEP or BROAD?*
+
+---
+
+### ⛔ INPUT CONTRACT — **what this technique needs, stated so a location without it can say so**
+
+| Needed | Degrades to |
+|---|---|
+| ⭐ **An origin roster with SHARES** *(percentages, headcounts, or any ratio)* | — *full run* |
+| ⚠ **A roster with RANKS but no shares** | **`R4` runs fully; `R1`–`R3` run qualitatively; `R5` cannot run** — *say so* |
+| ⛔ **A roster with neither** | ***The technique does not run.*** **Record the null and what would settle it.** ⛔ **Do NOT estimate shares to unblock it** — *invented percentages produce confident, coherent, wrong culture, and nothing downstream flags them* |
+
+⚠ **Tier LABELS are a per-project schema, not part of this technique.** *Whatever a source calls its bands,
+this technique reads the numbers underneath them.*
+
+---
+
+### R1 · **MAJORITY OR PLURALITY?** — *the single most consequential reading, and it is one subtraction*
+
+**Compare the leader against everyone else combined.**
+
+| | What follows |
+|---|---|
+| **Leader > 50%** | ⭐ **Its forms simply ARE the local forms.** Everything else is *marked*, optional, and survives at the leader's sufferance |
+| ⛔ **Leader < 50%** — *a plurality* | ***The leader sets the default but CANNOT impose, because the remainder outnumbers it.*** **Every shared institution must be acceptable to a coalition larger than the leader itself** |
+
+> ⭐⭐ **This is where most compositions actually sit, and it is routinely misread.** *A 35% forerunner is
+> "clear and obvious" and still commands barely a third of the room.* **The characteristic output of a plurality
+> is ACCOMMODATION MACHINERY** — *a default plus a standing procedure for when the default does not fit* —
+> **which a majority-led place has no reason to build.**
+
+### R2 · **IS THE LEAD CONTESTED?** — *the gap between #1 and #2*
+
+| | What follows |
+|---|---|
+| **#1 ≫ #2** *(roughly double or more)* | **Uncontested.** *The default is stable; nobody argues about it; the interesting content is elsewhere* |
+| **#1 ≈ #2** | ⭐ **BIPOLAR.** *Two defaults coexist.* **The content is the alternation, the parity rules, and who concedes when** |
+
+### R3 · **IS THE REMAINDER CONCENTRATED OR DISPERSED?** — *count how many entries it takes to reach half, and to reach 80%*
+
+| | What follows |
+|---|---|
+| ⭐ **CONCENTRATED** — *a few sizable minorities* | **The merge is a NEGOTIATION BETWEEN NAMED PARTIES.** *Expect compacts, alternation, explicit accommodation, and a politics with identifiable sides* |
+| ⭐ **DISPERSED** — *a long tail of small shares* | ***No single minority can negotiate, so the remainder acts as diffuse PRESSURE rather than as a party.*** **The default does not get compromised — it ERODES**, into something generic-but-local that nobody chose and everybody can use |
+
+### R4 · ⭐⭐⭐ **HOW FAR APART IS THE STOCK?** — **this is the reading the developer's example exists to force**
+
+⛔ **Measured on STRUCTURAL features only, never on national character:** *staple and its cooking method ·
+household and kinship form · script, calendar and numbering · funerary requirement · dietary prohibition ·
+what the source practices assume about CLIMATE.*
+
+| | The merge that results |
+|---|---|
+| ⭐ **NEAR stock** — *source practices are largely compatible* | **DEEP.** *Practices blend and the seams disappear.* **Reads as ONE culture with variations — and the minorities' contributions become INVISIBLE precisely because they fit** |
+| ⭐ **FAR stock** — *source practices are structurally incompatible* | **SHALLOW BUT BROAD.** *Practices coexist rather than fuse.* **Reads as a genuinely plural place where things sit side by side** |
+
+> ## ⭐⭐⭐ AND HERE IS THE THIRD-ORDER CONSEQUENCE, WHICH IS THE VALUABLE ONE
+> ***The further apart the stock, the MORE ORIGINALLY-LOCAL the shared culture must be.***
+> **When nothing inherited was common to everyone, the commons had to be INVENTED ON SITE.**
+> ⛔ **So a far-stock location has MORE culture of its own, not less** — *and its most universal practices will
+> be the ones with no source at all.* ⭐ **A near-stock location's commons is inherited and its seams are
+> hidden; a far-stock location's commons is built and its seams are load-bearing.**
+
+### R5 · **THRESHOLD VIABILITY** — *what a share can SUSTAIN, independent of what anyone wants*
+
+| Share | What it can hold |
+|---|---|
+| **under ~2%** | **Traces.** *A word, a dish, a name, individuals.* **No institution. Assimilates** |
+| **~2–5%** | **ONE practice, and only if it is load-bearing.** *No clergy, no school, no society* |
+| **~5–10%** | **One institution — and it will be the non-negotiable one:** *funerary, dietary, or devotional* |
+| **~10–20%** | ⭐ **A parallel institutional set.** ***It has become a second culture, not a contribution*** |
+| **over ~20%** | **A CO-DEFAULT.** *The place has two unmarked ways of doing things* |
+| **over 50%** | **The unmarked default.** *Everything else is marked* |
+
+⛔⛔ **THESE ARE VIABILITY FLOORS, NOT PREDICTIONS.** ***A group above a threshold is ABLE to sustain the
+thing; it is not obliged to have built it.*** **`NO FORCED FIT` governs — a present group that contributed
+nothing identifiable is a legitimate result.**
+
+### R5b · ⭐⭐⭐ **ADJACENT SMALL ENTRIES POOL — apply `R5` to CLUSTERS, not only to rows**
+
+> **Noticed 2026-09-06, developer session.** ***`R5` read alone treats every roster entry independently, and
+> that is wrong wherever the tail contains structurally adjacent stocks.***
+
+**Run `R4`'s adjacency test DOWNWARD through the tail, then re-apply `R5` to each resulting cluster.**
+⛔ **Three entries at `1.8%`, `1.4%` and `1.2%` are three sets of traces if they are unlike — and one
+practice-sustaining community at `4.4%` if they are near.** ⭐ **Same arithmetic, opposite result, and only
+`R4` distinguishes them.**
+
+> ### ⛔⛔ AND IT SCALES UP, WHICH IS THE DANGEROUS DIRECTION
+> **A mid-size entry plus an adjacent tail can cross into CO-DEFAULT territory that none of its members
+> approaches alone** — *turning what `R1` read as a comfortable plurality into a contested one.* ⛔ ***So `R1`
+> is not safe until `R5b` has run.*** **Compute the pooled figure and re-read `R1` and `R2` against it.**
+
+⚠ **BUT POOLING IS A HYPOTHESIS, NOT AN ENTITLEMENT.** ***Adjacency in practice-space is not solidarity.***
+**Stocks can be structurally similar and still not combine** — *and whether they did is a question about this
+location's own history, not something the percentages can answer.* ⛔ **State the pooled figure as a
+CANDIDATE reading, name what would confirm it, and never merge entries silently.**
+⭐ **`NO FORCED FIT` governs: "these did not pool" is a result.**
+
+
+### R6 · ⭐⭐ **SURVIVAL IS SHARE × NECESSITY — NOT SHARE**
+
+| | Outcome |
+|---|---|
+| ⭐ **Small share · load-bearing · no local alternative** | ***SURVIVES AND GOES UNIVERSAL.*** **This is technique `15 Borrowed Form`, arriving through arithmetic instead of through a gap** |
+| **Large share · decorative** | **Survives as a MARKED ethnic practice.** *Never becomes local culture* |
+
+> ### ⭐⭐⭐ THE COUNTER-INTUITIVE RESULT, AND IT IS RELIABLE
+> ***The practices that become universal are disproportionately from SMALL groups*** — **because a small group
+> keeps only what it cannot do without, while a large one keeps plenty it merely likes.** **Run `R6` before
+> concluding that the plurality supplied everything shared. It usually did not.**
+
+### R7 · ⭐⭐⭐ **MOST OF THE ROSTER SHOWS UP NOWHERE — AND THAT IS THE CORRECT RESULT**
+
+> **Developer, 2026-09-06:** ***"If a nationality's proportionate populational percentage is low enough, it is
+> entirely possible that their culture might not show up at all in the results for a city's local municipal
+> culture."***
+
+⛔⛔ **THE ROSTER IS A DEMOGRAPHIC FACT. THE LOCAL CULTURE IS A DIFFERENT OBJECT. *Listed is not represented.***
+
+**A location carrying seventeen origin entries may have identifiable cultural showings from three.**
+⭐ **For any roster with a long tail, the ZERO is the EXPECTED case for most of it — not the exception, not a
+gap, and not a sign the pass looked too shallowly.**
+
+| ⛔ The failure this exists to stop | ✅ The correct output |
+|---|---|
+| ***Reading the roster as a checklist with N slots and producing N contributions.*** **With a seventeen-entry roster that is up to fourteen fabrications** — *each one plausible, each one sourced from nothing, and none of them flagged by anything downstream* | **Name the entries that produced something identifiable. State plainly that the remainder did not.** ⭐ *"Eleven of seventeen origin groups have no distinct showing in the municipal culture" is a FINDING, and a strong one* |
+
+> ### ⛔ AND SAY IT CORRECTLY, BECAUSE THE WRONG PHRASING IS A DIFFERENT CLAIM
+> ✅ **"No identifiable contribution to the municipal culture."**
+> ⛔ **NOT "these people had no culture," and NOT "these people are absent."** ***They are present, they are
+> locals, and their descendants are simply from here.***
+> ⭐⭐ **This is the `Acts` ruling arriving through arithmetic: ORIGIN IS ANCESTRY, NOT IDENTITY.** **A group
+> that shows up nowhere in the local culture is not being erased — that outcome is what full local integration
+> actually LOOKS like**, and it is the divergence operator's expected end state.
+
+### ⚠⚠ BUT DO NOT USE `R7` TO DISMISS `R6` — **the test is NECESSITY, not size**
+***A tiny group can still punch through, and reliably does, when its practice is load-bearing and has no local
+substitute.*** ⛔ **"Too small to matter" is a prediction; "we looked and found nothing identifiable" is a
+result.** ⭐ **Only the second is admissible** — *and the two are indistinguishable in the written output, which
+is exactly why the search has to actually happen before the zero is recorded.*
+
+
+---
+
+### ⛔⛔ THE GUARDS — **all seven bind, and the first is the reason this technique is allowed to exist at all**
+
+1. ⛔⛔⛔ **STRUCTURE, NEVER CHARACTER.** ✅ *Legal:* **"this stock's funerary requirement is inhumation, and
+   this ground cannot provide it."** ⛔ *Illegal:* **"these people are formal / hardworking / reserved."**
+   ***The first is a constraint that produces consequences. The second is a stereotype, and it is forbidden
+   universe-wide.***
+2. ⛔ **THE SEQUENCING GATE.** *Composition must already be ESTABLISHED.* **Before that: origin facts only, and
+   you may never infer WHO LIVES SOMEWHERE from cultural reputation.** *(See the GPS section above.)*
+3. ⛔ **THE OUTPUT IS A NEW CULTURE, NOT A MOSAIC.** *Apply the divergence operator* — **time · separation ·
+   local environmental setting · local struggles and hardships · local goals · local sensibilities and
+   habits.** ⛔ **Transplanting source cultures intact is the named transcription failure, and a weighted
+   transplant is still a transplant.**
+4. ⛔ **DO NOT REASON FROM ELAPSED TIME.** *"Process the data purely on its own terms."*
+5. ⛔⛔ **IF A SOURCE APPLIES ONE SET OF ORIGIN PROPORTIONS ACROSS TWO POPULATIONS, THAT SPLIT CARRIES NO
+   INDEPENDENT SIGNAL.** ***Measured 2026-09-06: a spec's robot and human national shares diverged by
+   `0.000 pp` across all 17 nations, because the file states it applies the same proportions to both.***
+   ⛔ **Mining that axis produces a finding that is an artifact of the method, not a fact about the place.**
+   ⚠ **Check the source's own note before treating any sub-population split as data.**
+6. ⛔ **ONE LOCATION.** *Run this on one location's own numbers.* **Never compare one distribution to another —
+   that is the terminal differentiation pass, not this.**
+7. ⛔ **NO FORCED FIT.** *A roster entry that produced nothing identifiable is a result.* **Record it.**
+
+### ⚠ NOT THE SAME AS `14 The Population Share Check`
+**`14` asks whether a claim describes the general population or one narrow role.** **`18` asks what the ORIGIN
+DISTRIBUTION can structurally sustain.** ⭐ *They compose: `18` proposes what a share can hold, and `14` then
+asks whether the resulting claim is being stated of everybody.*
+
+> ⚠ **A project's own data addresses, roster-completeness caveats and source tables belong in the ORIGINAL, not here** *(LAYERING LAW)*. **Check them before running `R3`/`R4`.**
+
+### Player value
+**Every reading here lands as something a player meets.** *`R1`'s accommodation machinery is a visible
+procedure. `R2`'s bipolarity is a choice of side. `R3`'s eroded default is the texture of an ordinary street.
+`R4`'s built commons is the thing everyone does that has no homeland. `R5` decides which buildings exist.
+`R6` is a small community's practice that the whole place now performs without knowing whose it was.*
+
+📍 **Read:** the location's own origin roster with shares *(see the source map above for where a completed pass
+records composition)*, plus the pass's composition phase.
+

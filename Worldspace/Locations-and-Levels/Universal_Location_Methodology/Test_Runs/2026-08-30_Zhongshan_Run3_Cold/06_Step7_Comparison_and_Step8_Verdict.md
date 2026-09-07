@@ -203,7 +203,7 @@ about, in a pass whose author had read `00b` that morning.**
 
 1. ⭐ **Phase 5b's own-eras substitute.** `01` §5.3a calls it *"the strongest substitute."* **On this evidence
    it is not a substitute at all — it is the better instrument.** The three eras differ on the chosen axis *by
-   construction*; three neighbouring cities differ on many axes at once and must be disentangled.
+   construction*; three neighboring cities differ on many axes at once and must be disentangled.
 2. ⭐ **The z-score rule.** Killed the same attractive finding in two independent sessions.
 3. ⭐ **Gate 4's swap test.** Flagged a collision with the city's own canon **before that canon was visible.**
 4. ⭐ **The Unrecognized Instrument.** Fired three times — The Round, the parody minute-books, the Elder's index.

@@ -43,7 +43,7 @@ sharpened (not invented) by Aquarius's specific weather-forecasting myth-strand.
 science" (too generic) — it is the specific convergence of a real historical research-station heritage, a
 continuous physical necessity for empirical atmospheric prediction, and Aquarius's own uniquely specific
 historical tie to that exact practice. **Kept**, pushed toward player-facing form: **entered** — a place,
-distinct from (but overlapping with) the already-catalogued "scientific/testbed craft workshops" (Phase
+distinct from (but overlapping with) the already-cataloged "scientific/testbed craft workshops" (Phase
 7a/8/10); this lens sharpens *why* that existing catalog entry is characteristically Aquarian rather than
 inventing a new one. No proper name assigned (consistent with the base run's own name-poor discipline).
 
@@ -190,7 +190,7 @@ record of its own decline within Janbogo's own research/civic institutions** (ev
 institute, HIT 1, sits among or near the very buildings its own record-keeping fails to document) — the only
 account of the core's deterioration is informal/folk memory, a genuine Mars-style visible-decay record
 existing *because* Aquarius's institutional habit doesn't write failure down. Category: place (a fresh
-institutional angle on the already-catalogued core, not a duplicate description of it).
+institutional angle on the already-cataloged core, not a duplicate description of it).
 
 **2.13 — Asteroid Belt.** One word: Redundancy. Positive: resilience through distribution, no single command
 point needed. Negative: **no true center means no one is ever fully in charge or accountable; spread so
@@ -355,7 +355,7 @@ water or earth sign" (§6, the Aries-pairing note). Kept as a second, independen
 anyone actively, if informally, document the core? **Survives — HIT 6b:** a person-role — an unofficial,
 non-credentialed local chronicler/elder who keeps the only real record of the founding-era core's decline,
 directly filling the gap the institute's own unwritten-failures habit (HIT 6) leaves open. Distinct from the
-already-catalogued "someone from the founding-descended minority" (Phase 10, national-origin-based) — this
+already-cataloged "someone from the founding-descended minority" (Phase 10, national-origin-based) — this
 role is defined by record-keeping function, not national origin. Kept as a second, independent finding.
 
 **HIT 7 (committee governance — formal/institutional register).** Opposite: informal/rogue register — does

@@ -112,7 +112,7 @@ are in `00_RUNBOOK.md` §C.8)*:
 
 - ### ⭐ **A DUAL ASSIGNMENT IS ITSELF A FINDING.**
   **Anywhere founded as an installation and now inhabited as a home carries `Settlement + Installation`**, and
-  ***the tension between "staffed" and "settled" is a live source of material*** rather than a labelling
+  ***the tension between "staffed" and "settled" is a live source of material*** rather than a labeling
   awkwardness. **Expect this doubling wherever a setting's history includes purpose-built outposts that
   outlived their purpose.**
 - ### ⭐ **A TYPE THE PARENT METHODOLOGY LACKED IS WHY `Interstitial` EXISTS.**
@@ -394,6 +394,13 @@ defining event and was re-run against the location's own founding instead.
 **The parent methodology had one parent, a fixed sibling set, and no children.** All three become variables.
 
 ## 5.1 The four inheritance classes
+
+> ### ⚠⚠ THIS INSTRUMENT IS **ACT-BLIND** — `M-157`
+> **The `Determined` class WIDENS across the Act 1 → Act 2 boundary** *(by Act 2 a shared identity is among the
+> things the parent supplies)*, **so `Inflected` and `Originated` narrow.** ⛔ ***A classification made once has
+> been made for an UNSTATED DATE.***
+> ⭐ **Ask of every call: *as of WHICH ACT?*** ⏸️ *A full corpus sweep is deferred; the warning is not.*
+
 
 Every element of a location's culture is exactly one of these. **Mis-classifying is the most common structural
 error available at this step**, and it fails in both directions: inventing a local version of something the

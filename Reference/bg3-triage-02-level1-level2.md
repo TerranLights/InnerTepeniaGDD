@@ -28,7 +28,7 @@ category · 6 = Doesn't translate — drop.
 | Create or Destroy Water | 5 | Item: a portable atmospheric condenser/drainage charge that conjures or clears a water surface in an area, interacting with the existing Wet/ice-terrain hazard mechanics. |
 | Disguise Self | 5 | Item: a holographic full-body disguise rig/chameleon-coating suit that changes visual appearance until deactivated — no mechanical benefit beyond visual, matching the BG3 original. |
 | Dissonant Whispers | 1 | Quickhack: targeted sonic/neural assault burst (Psychic/Neural damage) causing pain-signal damage plus a brief seize/freeze debuff on a failed threshold. |
-| Divine Favour | 5 | Item: a combat stim/ammo-overcharge chem boosting weapon damage output for a few turns. |
+| Divine Favor | 5 | Item: a combat stim/ammo-overcharge chem boosting weapon damage output for a few turns. |
 | Enhance Leap | 5 | Item: a leg-servo/exosuit calibration stim that triples jump distance for its duration. |
 | Ensnaring Strike | 5 | Item: specialized tangle-net/monofilament ammo that, on a weapon hit, restrains the target and inflicts ongoing Piercing damage until freed. |
 | Entangle | 5 | Item: a deployable adhesive-foam/net-mine grenade that creates difficult terrain and restrains anyone caught in it. |

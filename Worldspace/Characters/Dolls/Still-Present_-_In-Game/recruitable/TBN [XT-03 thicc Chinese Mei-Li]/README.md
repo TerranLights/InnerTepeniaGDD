@@ -35,7 +35,7 @@
 
 *(See `Reference_Images/` folder — 2N2A5331 series.)*
 
-Dark brown hair with bangs, dark brown eyes. The physical impression is full-figured and professional: a light grey off-shoulder ribbed knit top (very fitted), a dark wine/chocolate pencil skirt, black heels with a gold anklet, green nails. A delicate pendant necklace at the collarbone. She's perched at a dark desk with a gold desk lamp, a stack of books beside her (prop spines visible: "PENSI", "music", "Petrology", "IGLOO").
+Dark brown hair with bangs, dark brown eyes. The physical impression is full-figured and professional: a light gray off-shoulder ribbed knit top (very fitted), a dark wine/chocolate pencil skirt, black heels with a gold anklet, green nails. A delicate pendant necklace at the collarbone. She's perched at a dark desk with a gold desk lamp, a stack of books beside her (prop spines visible: "PENSI", "music", "Petrology", "IGLOO").
 
 Expression: calm and slightly guarded — she is measuring the viewer without giving anything away in return. The overall impression is organized, self-possessed, and desk-adjacent. The green nails are the only unexpected detail in an otherwise coordinated, professional presentation.
 

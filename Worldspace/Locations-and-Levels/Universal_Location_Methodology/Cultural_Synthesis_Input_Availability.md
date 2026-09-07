@@ -45,6 +45,37 @@ District History Enhancement work, which tracked it. **No per-city equivalent wa
 
 ---
 
+## ⛔⛔ CORRECTION 2026-09-06 — **THE GAP ABOVE WAS CLOSED BY THIS FILE'S OWN SIBLING, AND NEITHER AUDIT NOTICED**
+
+**The section above is kept intact because its reasoning was sound on 2026-09-05.** ⛔ **Two things have since
+been established, and both change the instruction.**
+
+### 1 · ✅ The per-city usage record ALREADY EXISTS. **It is the research log.**
+
+**`RealWorld_Basis_Input_Availability.md` — written the same day, as this file's declared companion — specifies
+`Real-World_Basis_Extrapolation_Method.md`'s Step F as recording *"a fact-by-fact table of what came back →
+which finding it became."*** ⭐ ***That is a usage record by definition.***
+
+> ### ⛔ THE FAILURE SHAPE, WORTH KEEPING
+> **Two sibling audits, written the same day, each declared a gap and each held the other's answer.** *This
+> file says "no per-city usage record exists"; its companion specifies the file that is one.* ⚠ **Neither
+> audit read the other's step list** — **which is the same defect as `M-161`, in the input direction:** *a
+> check lands on the surface it was pointed at and does not look sideways.*
+
+### 2 · ⛔ "ALL OF THEM ARE UNUSED" EXPIRES THE MOMENT A CITY'S PASS RUNS
+
+***A ULM pass researches and spends picks — that is `Step 3`'s entire job.*** **So the favorable timing is real
+only for cities that have not been run yet, and it is consumed city by city as the run proceeds.**
+
+| State | What technique 13 should do |
+|---|---|
+| ✅ **No ULM pass yet** | *Run it early. "All unused" is a safe default and the yield is maximal* |
+| ⛔ **ULM pass complete** | **Read `Research_Logs/<City>_Research_Log.md` FIRST.** ⭐ *Expect a null or near-null — and a null is a legitimate result per the technique file's "Using this file" item 5, never a reason to manufacture a weak find* |
+
+⚠ **A city with no research log has genuinely not been mined.** *The absence is informative, not an obstacle.*
+
+---
+
 ## ⚠ One correction made while checking
 
 **Esperanza's first pick carried `[TOP-PRIMARY]` — the only use of that token in the file**, marking it as the

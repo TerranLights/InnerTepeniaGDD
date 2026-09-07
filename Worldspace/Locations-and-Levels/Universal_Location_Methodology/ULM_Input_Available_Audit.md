@@ -301,7 +301,7 @@ ruling, recorded once in §2, not thirty-seven research tasks.
 |---|---|---|
 | ⛔ **Abowasa** | **DoI Half B row** `T1-G3` · symbol pair `T1-G1` ↳ *paused* · robot culture file `T2-5` ↳ *paused* | ⛔⛔ **ALL THREE ARE BLOCKED UPSTREAM, NOT OPEN WORK** — see the block below. *(Its `Airports.md` entry is now present — **served via Troll or Belgrano**, developer-confirmed 2026-09-03.)* |
 | **Amundsen Station** | inspiration picks `T2-4` ↳ *structural* | relay outpost, not a residential city |
-| **Concordia** | symbol pair · local culture file · robot culture file · megasheet · enneagram read — **all** ↳ *structural* | **capital — runs the zodiac DISTRICT substrate**, 301 files under `Concordia-City/Districts/`. ⛔ **Not the city methodology. Never 'fill' these** |
+| **Concordia** | symbol pair · local culture file · robot culture file · megasheet · enneagram read — **all** ↳ *structural* | **runs the zodiac DISTRICT substrate**, 301 files under `Concordia-City/Districts/`. ⛔ **Not the city methodology. Never 'fill' these** *(word "capital" removed 2026-09-06 — developer ruling, `M-153`)* |
 
 > ### ⛔⛔ ABOWASA — **four gaps, ONE cause. Do not work any of them.**
 > **Its premise rests on a *"Finnish and Swedish exiles, jointly"* founding that the project's own First

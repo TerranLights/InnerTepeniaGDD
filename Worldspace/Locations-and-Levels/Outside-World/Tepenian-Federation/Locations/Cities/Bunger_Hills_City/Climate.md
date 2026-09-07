@@ -62,7 +62,7 @@ open sea by 64–145 km of ice shelf**, so it carries a continental temperature 
 **Prevailing winds:** ⭐⭐ **EASTERLY, and fierce in event — but the annual mean is only 4.6 m/s.** *This site
 sits **out of the katabatic drainage**, in a basin behind the shelf.* ⚠ **Compare its neighbors: Mirny
 10–14 m/s and "one of the windiest coastal stations in Antarctica," Casey 7–10 m/s.** ***This is one of the
-calmest coastal sites in the Federation, and its nearest analogue is Davis at ~5.6 m/s — the other oasis city
+calmest coastal sites in the Federation, and its nearest analog is Davis at ~5.6 m/s — the other oasis city
 out of the katabatic regime.***
 **Record extremes:** ⚠ **ESTIMATED — record high approximately +12 °C; record low approximately −39 °C.**
 *Bracketed by Davis (+13.0 / −41.8), Mirny (+8.7 / −36.5) and Casey (+9.2 / −37.5); the oasis's bare rock and
@@ -133,7 +133,7 @@ sun disappears — the correction is what the corpus already uses at Mirny).**
 | **Antarctic Science** — *"Climatology and implications for perennial lake ice occurrence at Bunger Hills Oasis"* | ✅ **the annual anchors** — mean temp, wind, solar flux, both degree-day figures |
 | **Antarctic Science** — *"Bunger Hills: the hidden Antarctic oasis"* | ⚠ PDF returned unparsed binary; the search index yielded the easterly wind and the >+10 °C days |
 | **Gregorczuk 1980**, *Climate of Bunger Oasis* — the monthly study, Oct 1956 – Nov 1958 | ⛔ **PDF exceeds the 10 MB fetch limit; publisher returns a rate-limit interstitial.** ***This is the file that would replace §3's constructed column*** |
-| **Australian Antarctic Data Centre** — Edgeworth David met series, 1986–89 | ⛔ **release-on-request only** |
+| **Australian Antarctic Data Center** — Edgeworth David met series, 1986–89 | ⛔ **release-on-request only** |
 | **Project archive** — `ghcnd-stations`, `ncei/ay_stations` | ⛔ **no station at this coordinate.** *The one "Edgeworth" hit is a wastewater plant in New South Wales* |
 | WillyWeather · Aneroid · Infoclimat | ⛔ **data loaded client-side; unreachable by tooling** *(the same failure mode already recorded for `timeanddate.com`)* |
 

@@ -550,7 +550,7 @@ effective even for *acute* nightmares in active-duty soldiers still serving in I
 not just years-later veterans.
 *Candidate application:* A concrete, game-adaptable coping ritual the defector could describe using
 himself, distinct from the "note on the fridge" (Ch.07 Finding 74) and "clock" metaphor (Ch.07 Finding 65)
-already catalogued — deliberately re-authoring a recurring bad dream's ending as a nightly, still-practiced
+already cataloged — deliberately re-authoring a recurring bad dream's ending as a nightly, still-practiced
 habit, rather than a treatment he underwent once and finished.
 
 ### Chapter 16: After the Battle — Violence and the Warrior (Moore, Hopewell, & Grossman) — READ IN

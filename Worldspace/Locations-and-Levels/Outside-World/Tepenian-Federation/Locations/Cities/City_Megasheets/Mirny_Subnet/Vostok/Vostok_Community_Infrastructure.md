@@ -16,7 +16,7 @@
 ## Small offices for educational training
 
 - subglacial drilling and ice-core/lake-access engineering
-- genetic sequencing and cross-generational archive cataloguing
+- genetic sequencing and cross-generational archive cataloging
 - extreme-cold survival and equipment maintenance
 
 ## Social cohesion mechanisms

@@ -226,7 +226,7 @@ Byrd is therefore unique among Tepenian cities in having been founded undergroun
 
 The name was kept, and with it came the inheritance of **St. Richard** — Richard E. Byrd, the American explorer whose expeditions mapped the region the city now occupies. St. Richard is venerated in Byrd as its founding Saint, the man whose work in West Antarctica made it knowable and eventually habitable. The city carries his name the way Scott carries Scott's — not as a civic formality but as a genuine relationship.
 
-Once the underground archives were located and catalogued, they became a secondary foundation of the Byrd subnet's historical knowledge.
+Once the underground archives were located and cataloged, they became a secondary foundation of the Byrd subnet's historical knowledge.
 
 ---
 

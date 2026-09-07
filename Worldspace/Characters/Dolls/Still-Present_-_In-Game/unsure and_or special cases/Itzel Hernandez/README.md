@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder — SC Doll SED199 series.)*
 
-Long, warm chestnut-brown hair with subtle caramel highlights, worn straight and loose. Warm brown eyes, tan skin, a small delicate silver necklace, a beauty mark near the collarbone. Two distinct looks: a pale blue plunging halter dress in a soft indoor setting, and a casual grey zip-front sleeveless jumpsuit with sunglasses hooked on the zipper pull, shown lounging on a bed.
+Long, warm chestnut-brown hair with subtle caramel highlights, worn straight and loose. Warm brown eyes, tan skin, a small delicate silver necklace, a beauty mark near the collarbone. Two distinct looks: a pale blue plunging halter dress in a soft indoor setting, and a casual gray zip-front sleeveless jumpsuit with sunglasses hooked on the zipper pull, shown lounging on a bed.
 
 She reads as: warm and easygoing, comfortable moving between a dressed-up look and a relaxed, casual one without either feeling like a costume — an unforced, approachable presence rather than a deliberately staged one.
 

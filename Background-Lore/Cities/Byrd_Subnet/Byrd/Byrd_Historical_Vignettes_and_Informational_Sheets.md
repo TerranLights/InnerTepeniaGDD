@@ -701,7 +701,7 @@ resembling Janbogo's own fused-fashion trade goods, was answered honestly — it
 letter that took months to compose and send, since Byrd's own trade office had no particular reason to
 prioritize a question with no obvious follow-up implied.
 
-Janbogo never wrote back. Byrd's own record-keepers, noting the silence years later while cataloguing old
+Janbogo never wrote back. Byrd's own record-keepers, noting the silence years later while cataloging old
 correspondence, couldn't tell whether the letter had simply answered the curiosity completely or had gone
 unanswered for some more ordinary reason — the kind of small, permanently unresolved uncertainty that came
 standard with correspondence that could only ever travel one slow direction at a time.

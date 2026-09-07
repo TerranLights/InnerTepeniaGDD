@@ -463,7 +463,7 @@ fleets."* **Twelve of the fifteen "present" cities were false positives.**
 
 | Field | City | Why it is correct |
 |---|---|---|
-| Symbol pair | **Concordia** | the capital uses the **zodiac district substrate**, not the Planet+Element city system |
+| Symbol pair | **Concordia** | it uses the **zodiac district substrate**, not the Planet+Element city system *(word "capital" removed 2026-09-06 — developer ruling, `M-153`)* |
 | Local culture · Megasheet · Enneagram · Robot culture | **Concordia** | **301 district files** under `Concordia-City/Districts/` — the district methodology owns it |
 | Symbol pair | **Abowasa** | **deliberately paused** pending its founding-nation fix; stated in the file itself |
 | Symbol pair · Inspiration picks | **Amundsen Station** | **a research and relay outpost, not a residential city** — the census says so explicitly |

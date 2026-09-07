@@ -199,7 +199,7 @@ The same accessibility that made it Tepenia's beginning made it Tepenia's first 
 #### Gameplay Notes
 
 - **Above-freezing temperatures:** Palmer City is the only Tepenian setting where this is a regular occurrence; major implications for what is physically possible — running water, different material degradation, potential surface plant life, different structural failure modes in ruins
-- **No polar night:** the DLC 3 ruin setting never goes fully dark; very different atmospheric character from Concordia; eerie green or grey overcast light as the default rather than artificial lighting vs. total darkness
+- **No polar night:** the DLC 3 ruin setting never goes fully dark; very different atmospheric character from Concordia; eerie green or gray overcast light as the default rather than artificial lighting vs. total darkness
 - **Storm windows:** high precipitation probability and frequent gale-force storms create natural travel-window mechanics — certain outdoor activities or movements are only feasible between storm events; the game would signal incoming weather
 - **Rain in ruins:** the DLC 3 setting would experience wet conditions, not just snow; flooded lower levels, wet surfaces, rain sounds — distinct visual and audio environment from any inland city setting
 - **Fog as visibility mechanic:** persistent fog in the DLC 3 ruins would create navigation challenge and atmosphere without relying on darkness

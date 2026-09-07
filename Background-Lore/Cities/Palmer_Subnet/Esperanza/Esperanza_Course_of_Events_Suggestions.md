@@ -23,7 +23,7 @@ parents with real, direct responsibility rather than replacing them.
 
 ## 2. What the Archive Room Held
 
-Early settlers cataloguing the inherited Esperanza Base infrastructure open a sealed Argentine military
+Early settlers cataloging the inherited Esperanza Base infrastructure open a sealed Argentine military
 archive room, expecting nothing more than routine administrative paperwork. **But** what they find
 instead is personnel records, family photographs, and original birth documentation going back
 generations. **Therefore** Mateo Villaroel recognizes the discovery's real weight immediately — not

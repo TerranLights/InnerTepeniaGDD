@@ -70,7 +70,7 @@ Per district, before writing:
 - `D_Aspect_Geometry.md` §5 — its opposition, two squares, trines, sextiles, quincunxes, in district terms
 - `A_Elements.md` and `B_Modalities.md` — its temperament family and its relationship to change
 - `G_Correspondences.md` — material texture, already filtered for Antarctic enclosure
-- `E_Decans.md` — optional sub-neighbourhood texture; weakly sourced, treat as a menu
+- `E_Decans.md` — optional sub-neighborhood texture; weakly sourced, treat as a menu
 - **`NN_<Sign>.md` §15 Source Gaps — read it as an input, not a disclaimer.** *(Added 2026-08-29.)* This section
   looks like a caveats list and is in practice one of the highest-yield generators in the folder. **Two of
   Taurus's strongest structural findings came from it and from nowhere else:** the corpus's admission that it
@@ -89,7 +89,7 @@ all. The layer stack in §4 does not apply to it, and neither does §6. Its subs
 
 ## 3. Mode A step zero — the overlap check, before writing anything
 
-**This is what keeps the pass from being a re-labelling exercise**, which is the failure that forced Cancer's
+**This is what keeps the pass from being a re-labeling exercise**, which is the failure that forced Cancer's
 original rewrite.
 
 Take the substrate file's main claims — its capability profile, its central shadow mechanism, its modality
@@ -176,7 +176,7 @@ was never written is indistinguishable from material nobody noticed.**
    with a note on what it would decide.** Capricorn's Gate 7 does this with the apprentice's handbook — the
    substrate's most damning single document — stating plainly that writing it would settle the question, and
    that it should be written the moment the decision lands. **This is the whole point of the protocol:** the
-   next pass inherits a loaded, labelled gun rather than an absence.
+   next pass inherits a loaded, labeled gun rather than an absence.
 4. **State the reservation at the head of the pass**, so a reader does not mistake restraint for oversight.
 
 **A pass run this way is finished, not partial.** Only one choice is outstanding, and it is outstanding on
@@ -190,7 +190,7 @@ first, then apply the matching question. Every remaining district falls into one
 
 | Shape | Districts so far | The question that unlocks it | What it produced |
 |---|---|---|---|
-| **Complete** — all four terms | Aries | *Where do the deficits live?* Two real strengths and two real deficits is a **balance**, not a gap; the finding is what the trade-off costs. | Cannot price or schedule; deficits concentrated in one named neighbour |
+| **Complete** — all four terms | Aries | *Where do the deficits live?* Two real strengths and two real deficits is a **balance**, not a gap; the finding is what the trade-off costs. | Cannot price or schedule; deficits concentrated in one named neighbor |
 | **One absence** | Taurus (no fall) | *What does it mean to lack this faculty entirely?* | Despises nothing → refuses nothing on principle → the city's donor district |
 | **Double absence** | Leo (no exaltation, no fall) | *What is the one instrument it does have?* The absence says it runs on a single faculty; it does not say which. | No fallback → no graceful degradation |
 | **Net-negative** — more deficits than strengths | Scorpio (no exaltation, two deficits) | *Does its civic function require the faculties it lacks?* | Care district whose weakest term is care |

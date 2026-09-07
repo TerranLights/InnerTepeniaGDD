@@ -198,12 +198,12 @@ marked honestly rather than papered over.**
 |---|---|---|---|
 | **A4** | Construction & structural | **ENTRANZE** (Europe) · CEIC (China) · OECD | Floor area per capita well covered — China urban 40 m², US ~65–77 m²/person. **Maintenance labor per m² comes from IFMA (A3); new-build labor needs separating out** |
 | **C2** | Childcare & eldercare | OECD Family Database · BLS | Splits cleanly into childcare and personal-care aides |
-| **C5** | Mortuary & decommissioning | **UN World Population Prospects** (crude death rate) · funeral-industry employment | Human side straightforward. **Robot decommissioning has no analogue — see Tier 3** |
+| **C5** | Mortuary & decommissioning | **UN World Population Prospects** (crude death rate) · funeral-industry employment | Human side straightforward. **Robot decommissioning has no analog — see Tier 3** |
 | **D1** | Transport & logistics | UNCTAD freight data · national labor stats | **Australia: 5.1% of total workforce** (Transport, Postal & Warehousing) · UK 2.1 M in logistics |
 | **D2** | Communications / Arcanet | ITU · telecom employment | Straightforward; note extreme-altitude cities have essentially none |
 | **D3** | Retail & daily distribution | retail employment · floorspace per capita | Needs the discretionary share stripped out — only groceries/pharmacy/hardware are *necessary* |
 
-## ⚠ TIER 3 — NO DIRECT REAL-WORLD ANALOGUE EXISTS. Proxy or invent, and say which.
+## ⚠ TIER 3 — NO DIRECT REAL-WORLD ANALOG EXISTS. Proxy or invent, and say which.
 
 | # | Industry | Best available proxy | Honest status |
 |---|---|---|---|
@@ -242,7 +242,7 @@ argued.
 > **Developer instruction, 2026-09-01:** *"Let's temporarily hold off on the robot duty cycle. That might
 > require some extremely complex research (into supply lines, theoretical mechanics/cybernetics, etc.) that
 > may very well end up bogging us down… let's focus on what we're able to determine for sure, and there might
-> be a possibility that the answers may lend themselves towards figuring out how to approach the numbers that
+> be a possibility that the answers may lend themselves toward figuring out how to approach the numbers that
 > are related to robots."*
 
 **⭐ This works better than deferral usually does, because the industries sort cleanly by what they are keyed
@@ -332,12 +332,12 @@ design, NPC population and faction sizing, which percentages cannot.
   > of four or more** — plausibly 15,000 vs 65,000 workers for a city of Casey's size. **It is the largest
   > determinable uncertainty in the model and needs a canon decision on how Tepenia grows: stacked or spread.**
 
-### A1 — Thermal & power ✅ *(and the right analogue is now clear)*
+### A1 — Thermal & power ✅ *(and the right analog is now clear)*
 - **Norway: 27,818 kWh per capita** — and critically, *"in Norway most homes are heated through electricity
   instead of district heating"* (only ~2% district heating, vs Sweden's 60%).
 - **Iceland: 51,900 kWh per capita** — but ~85% of houses are heated **geothermally**, and much of the total
   is energy-intensive industry.
-- > **⭐ Norway is Tepenia's analogue, not Iceland.** A cold country that heats with *electricity* rather than
+- > **⭐ Norway is Tepenia's analog, not Iceland.** A cold country that heats with *electricity* rather than
   > free geothermal heat. **Iceland's figure is inflated by a resource Antarctica mostly does not have** —
   > with the pointed exception of any Tepenian city sited on volcanic ground.
 - Plant labor: **nuclear ~0.62 workers/MW · CCGT 0.02–0.10 workers/MW**, and *"staff per MW falls sharply as
@@ -380,7 +380,7 @@ design, NPC population and faction sizing, which percentages cannot.
 **Developer rulings. The deferred sector is no longer deferred** *(the duty-cycle question turned out to be
 a misreading of the workforce formula, not a missing input — see `09` §5)*.
 
-## 9.1 The method: composite parallels, not a single analogue
+## 9.1 The method: composite parallels, not a single analog
 
 > **Developer instruction:** *"think of it as a combination of multiple human parallels… examine both garage
 > work (as well as computer hardware maintenance) **and** medicine. See how the volumes, staffing, and costs

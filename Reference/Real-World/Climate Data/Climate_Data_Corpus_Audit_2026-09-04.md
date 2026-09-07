@@ -177,7 +177,7 @@ precipitation** *(a real `Precip Probability`, days ÷ days-in-month)*.
 | ⭐ **`Temp Range` now MEASURED** *(mean daily min → mean daily max)* | **19** |
 | ⭐ **`Avg Precip` now MEASURED** *(monthly normals)* | **14** |
 | ⭐ **`Precip Probability` now MEASURED** *(precipitation-day counts)* | **6** |
-| ⚠ **Still derived, and now explicitly labelled so** | **18** |
+| ⚠ **Still derived, and now explicitly labeled so** | **18** |
 
 **Stations that yielded data:** Esperanza · Casey · Amundsen-Scott · McMurdo · Davis · Vostok · Mirny ·
 Mawson · Halley · Neumayer III · Dumont d'Urville · Palmer · Concordia · Marambio · Syowa ·
@@ -205,9 +205,9 @@ open item this section originally raised; it is closed.)*
 |---|---|
 | **`Avg Temp`** | ⭐ **Measured** — BAS READER WMO 1991–2020 normals *(or a marked proxy)*. **37/37** |
 | **`Avg Daylight`** | ⭐ **Computed** — solar geometry from the city's own coordinate. **37/37** |
-| **`Temp Range`** | ⭐ Measured in **19**; ⚠ derived and labelled in **18** |
-| **`Avg Precip`** | ⭐ Measured in **14**; ⚠ derived and labelled in **23** |
-| **`Precip Probability`** | ⭐ Measured in **6**; ⚠ derived and labelled in **31** |
+| **`Temp Range`** | ⭐ Measured in **19**; ⚠ derived and labeled in **18** |
+| **`Avg Precip`** | ⭐ Measured in **14**; ⚠ derived and labeled in **23** |
+| **`Precip Probability`** | ⭐ Measured in **6**; ⚠ derived and labeled in **31** |
 
 ---
 
@@ -228,7 +228,7 @@ open item this section originally raised; it is closed.)*
 6. **`timeanddate.com` is unreachable by tooling** — Cloudflare-gated against both WebFetch and `curl` with
    a browser user-agent. **Not a viable source for this project.**
 7. **18 cities still have a derived `Temp Range`**, 23 a derived `Avg Precip`, 31 a derived `Precip
-   Probability` — **all now labelled in-file.** The most likely route to closing more: **national met-service
+   Probability` — **all now labeled in-file.** The most likely route to closing more: **national met-service
    archives rather than encyclopedia boxes** — the Australian BoM (Casey/Davis/Mawson already yielded),
    AARI, KOPRI, BAS and PNRA publish fuller normals than the summary boxes carry.
 8. **Signy's published climate box is unreliable** *(§5)* and should not be used without a better source.

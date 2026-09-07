@@ -267,7 +267,7 @@ flag was a Read-tool limitation only — `pdftotext` reads it cleanly.
 
 ### Cognitive Warfare — François du Cluzel, NATO ACT Innovation Hub (2020)
 Advent of Cognitive Warfare (info→cognitive warfare, hacking the individual, participatory propaganda,
-cyberpsychology); Centrality of the Human Brain; Militarisation of Brain Science (NeuroS/T); Towards a New
+cyberpsychology); Centrality of the Human Brain; Militarisation of Brain Science (NeuroS/T); Toward a New
 Operational Domain (Russian/Chinese CW definitions, NATO recommendations); Annexes on China/Russia.
 
 ### Fear of Intimacy — Robert W. Firestone & Joyce Catlett, APA (1999)
@@ -1072,7 +1072,7 @@ already cataloged under `Genetics/identification/` above — not re-listed here.
   Barciszewski (2015, Springer). Contents: electrochemical biosensors for miRNA/RNA detection, DNA/PNA
   probes for DNA detection, DNA for non-nucleic-acid sensing, aptamers in oncotherapy, SNP genotyping,
   environmentally responsive fluorescent probes for DNA/RNA hybridization detection, fluorescent nucleic
-  acid analogues in clinical diagnostics, nanoconfined nucleic acid architectures. Preface frames nucleic
+  acid analogs in clinical diagnostics, nanoconfined nucleic acid architectures. Preface frames nucleic
   acids' Watson-Crick programmability as "the central feature of nucleic acid technologies" — same core
   framing as the DNA Computing collection.
 - **RNA Bioinformatics** (Methods in Molecular Biology 1269) — ed. Ernesto Picardi (2015, Humana Press).
@@ -1798,7 +1798,7 @@ matter for the Cryptograph Helix series." Cataloged in the same pass as the STEM
   (2015) — re-cataloged 2026-07-23. Part of the McGill-Queen's Native and Northern Series. 9 chapters: The
   Long Walk; Place-Memes: Indigeneity, Identity, and Performance; Cree Ethnogeography; Canada, Cartography,
   and Indigenous Peoples; Counter-Mapping Colonization; The Evolution of Critical Cartographic Inscription;
-  Commemorative Toponymies of Trauma; Meme Maps; Towards an Indigenous Geoweb.
+  Commemorative Toponymies of Trauma; Meme Maps; Toward an Indigenous Geoweb.
 - **Memes of Translation: The Spread of Ideas in Translation Theory** — Andrew Chesterman (1997). Memes as
   "survival machines," evolution of translation memes, memes-to-norms, translation strategies/ethics.
 - **The Electric Meme: A New Theory of How We Think** — Robert Aunger (2002). A special kind of

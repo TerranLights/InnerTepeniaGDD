@@ -216,7 +216,7 @@ canon was already pointing the same way.**
 
 > **Research: Ciudad del Este — changed a finding.** The Triple Frontier gray economy does not run on cartels.
 > It runs on ***sacoleiros*** — **thirty to forty thousand individual traders crossing the bridge every day**,
-> named for the overstuffed bags they carry, each doing their own small arbitrage, some travelling for days by
+> named for the overstuffed bags they carry, each doing their own small arbitrage, some traveling for days by
 > bus to do it. The volume is enormous and the structure is atomized. **And the humane finding, which is the
 > one that matters:** efforts to force the hub to comply with formal trade rules **made life harder for the
 > people at the bottom first** — the ones eking out a living, not the ones with capital.
@@ -354,7 +354,7 @@ rewriting.)*
 **That is the Markets' housing stock.** Ground-floor, one or two rooms, opening straight onto the lane —
 stacked and re-stacked over two and a half centuries into something that reads as vertical from outside and is
 almost entirely horizontal in how it is lived. **Cooking, sleeping, working, arguing, mending and dying all
-happen within a metre of a public alley**, with a curtain where a door would be in most districts.
+happen within a meter of a public alley**, with a curtain where a door would be in most districts.
 
 **The finding is what is *absent*: there is no threshold.** No hallway, no vestibule, no stoop, no gate,
 nothing between the street and the room. And a district whose founding philosophy is that boundaries dissolve
@@ -579,7 +579,7 @@ and everything is let in.** The heavy vetting of Finding XII is real but it is *
 threshold** — it guards *intimacy and vouching*, not residence, and the two are constantly confused by
 outsiders.
 
-**So what converts a visitor?** **The neighbours stop not-looking at you.** For as long as you are a visitor
+**So what converts a visitor?** **The neighbors stop not-looking at you.** For as long as you are a visitor
 you receive the full public courtesy of Finding XV — total, deliberate inattention. **You become a resident on
 the day somebody on your lane looks directly at you and remarks on something**: that you were up late, that
 your curtain is torn, that you have been unwell. It is not a welcome and it is not friendliness. **It is the
@@ -661,7 +661,7 @@ this fluid to be casual about it.
 **The practice, and it follows from the architecture.** With ground-floor rooms opening onto the alley, **a
 Markets death happens in public whether anyone intends it to or not.** The lane knows within the hour. And the
 one and only occasion on which the not-looking of Finding XV is **collectively and deliberately suspended** is
-a death on your lane: the curtain is pulled back rather than closed, the neighbours look directly in, and for
+a death on your lane: the curtain is pulled back rather than closed, the neighbors look directly in, and for
 somewhere between one and three days **the household is watched instead of unwatched.** People sit in the
 doorway. Food arrives. Nobody asks permission and nobody thanks anyone.
 
@@ -692,7 +692,7 @@ figure into the population it implies rather than deriving a new group.)*
 and that you accept the release when it is offered.
 
 **Who will not.** Flood-affected residents who **refuse the Syncretic framework and keep asking whose memories
-they are carrying.** They are not sceptics about the doctrine's metaphysics and they are not hostile to the
+they are carrying.** They are not skeptics about the doctrine's metaphysics and they are not hostile to the
 Believers; several of them lost people to the same night. **They simply will not accept that the question is
 unanswerable, and they have spent decades on it** — comparing accounts, tracing clusters, trying to reconstruct
 by hand the ownership map that broke.
@@ -799,7 +799,7 @@ it mattered so much.
 6. **Shared liability** — the person who vouched for you goes down with you.
 7. **A consolation offered in good faith, and the people who will not take it.**
 8. **Ungovernable by absence.** Nothing to seize, nobody to lead the raid, no map to follow.
-9. **The remedy that arrives as a humiliation**, from the one neighbour who experiences the relationship as
+9. **The remedy that arrives as a humiliation**, from the one neighbor who experiences the relationship as
    their best.
 10. **Formalization as the threat** — every attempt to regularize this place would hit its poorest first.
 11. **The find, never the margin.** A commerce with no acquisitive motive anywhere in it.
@@ -1032,7 +1032,7 @@ reputational sanction with no formal appeal, and both have a record deficit.
   in some form. It holds on the specific: the Markets use the net **because a message is the only artifact
   their culture will accept as proof**, which is meaningless in a district that records nothing because it
   moves everything. **It should be re-checked when the Undergrid is written**, since a verification-maximal
-  neighbour may make this finding look thinner than it currently does.
+  neighbor may make this finding look thinner than it currently does.
 
 ## Gate 5 / 6a — internal duplicates
 
@@ -1043,7 +1043,7 @@ the other is its withdrawal from one person.
 
 ## Gate 6b — cross-district, via `Cross_District_Differentiation_Table.md`
 
-**Read before writing each category.** The Circuit is the dangerous neighbour on three rows and each was
+**Read before writing each category.** The Circuit is the dangerous neighbor on three rows and each was
 differentiated **inline in this district's own findings**, not only in the table:
 
 | Row | Nearest existing entry | Resolution |
@@ -1072,7 +1072,7 @@ Prohibition-era vouching (XII) · the substrate's own §15 note that institution
 symbolically by the Sultan through the Mendoub while a committee of eight foreign powers actually governed;
 multiple currencies; a postwar boom driven purely by the absence of regulation; and the whole thing absorbed
 into Morocco in 1956 once the powers stopped finding it useful. **The ending is the only part that nearly
-earned a finding** — the Markets' real risk is not a crackdown but a neighbour ceasing to need deniability —
+earned a finding** — the Markets' real risk is not a crackdown but a neighbor ceasing to need deniability —
 and that idea was already present in the megasheet's own Worth Your Attention. **It sharpened Finding XVI's
 fourth-order and produced nothing that would not have been written. Decoration.**
 
@@ -1082,7 +1082,7 @@ Held for whenever that question opens. *(Second use of the *withheld* outcome, a
 signals.)*
 
 **Genuine omission, not a redundancy:** **the Tijuana border zone.** Not researched. It would have given a
-second angle on asymmetric proximity to a regulated neighbour, which `gedoogbeleid` and Tangier already covered
+second angle on asymmetric proximity to a regulated neighbor, which `gedoogbeleid` and Tangier already covered
 between them — **but that is an assessment, not a verification, and it is being recorded as a real gap rather
 than a title-level redundancy call.** Amsterdam's Red Light District and Macau were both effectively reached
 through better-targeted searches (`gedoogbeleid`, junket credit) rather than by name.
@@ -1154,12 +1154,12 @@ temperament, because a temperament could not be suspended on cue.
 
 **`accepted`**, with the observation reframed rather than answered.
 
-**Privacy in the Markets is not a property of a room. It is a gift from your neighbours** — you are alone
+**Privacy in the Markets is not a property of a room. It is a gift from your neighbors** — you are alone
 because forty people have decided not to see you, continuously, and that is the only mechanism available.
 Which means **intimacy here is conducted in plain view and is genuinely private**, and it works, and everybody
 knows exactly what everybody is doing and says nothing.
 
-**And the sharp edge the Lover could not have known to ask for: it can be withdrawn.** The same neighbours who
+**And the sharp edge the Lover could not have known to ask for: it can be withdrawn.** The same neighbors who
 grant it can simply begin looking — no confrontation, no announcement, nothing actionable. **That is the
 district's mildest sanction and its most intimate one**, it sits well below the exclusion of Finding XII, and
 it is available to any individual on a lane without consulting anyone.
@@ -1172,7 +1172,7 @@ Somebody should knock on the door."*
 **`unmet`**, and it is the pass's cleanest instance.
 
 **The Parent is entirely right about the harm.** Finding XXVII is real; people decline in full view of four
-hundred neighbours who are all being courteous, and some of them die of it.
+hundred neighbors who are all being courteous, and some of them die of it.
 
 **And the district will not, and should not, fix it** — because the not-looking is the *same instrument* that
 makes the Markets the only place in Concordia that will take anyone at all: the failed, the disgraced, the

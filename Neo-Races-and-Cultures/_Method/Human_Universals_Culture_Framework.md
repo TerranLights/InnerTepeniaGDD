@@ -1,5 +1,70 @@
 # Human Universals as a Culture-Development Framework
 
+---
+
+# ⛔⛔⛔ BINDING — **CULTURE, ETHNICITY, AND THE TEPENIAN IDENTITY TIMELINE**
+
+> **Developer rulings, 2026-09-06.** ⭐ **Canonical full statement:
+> `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`.** *The operative rules are restated here in
+> full, because a document that cites its governing rule instead of stating it will be used without it.*
+> ⚠ **This framework is the primary instrument for building city cultures, so these rules bind it directly.**
+
+### 1 · ⭐⭐ STATION-BUILDER ≠ EXILE ORIGIN — **two different nations, and for most cities they DIFFER**
+
+| ⛔ **The station's BUILDER** | ✅ **The EXILE POPULATION's origin** |
+|---|---|
+| *who physically built the research station, centuries pre-Treaty* | ⭐ *who actually settled the city in 2564 and lives there* |
+| **GPS COORDINATE ONLY.** Never a cause, an identity, or a history | **CANON** *(census, tier tables, per-city founding rulings)* — **ADMISSIBLE** |
+| *Shirayuki sits on the Bharati site → ⛔ no Indian/South Asian anything* | *Shirayuki was allocated to **Japan** at Jeju-do → ✅ usable* |
+
+> ## ***THE LAW EXISTS SO A CITY IS CHARACTERIZED BY WHO LIVES THERE, NOT BY WHOSE STATION IT OCCUPIES.***
+> ⚠ **A pass that refuses ALL ethnic material is misreading it and will produce placeless cities.**
+
+### 2 · SEQUENCING — **composition first, THEN culture**
+
+⛔ **Before composition is established:** *you may not infer who lives somewhere from national character.*
+✅ **Once established:** *origin-ethnicities and ethnic-cultures are legitimately in scope.*
+
+### 3 · ⭐⭐⭐ DIVERGENCE — **composition names the STOCK; time and place produce the CULTURE**
+
+**Operator inputs:** ***time · separation · local environmental setting · local struggles and hardships ·
+local goals · local sensibilities and habits.***
+⛔ **Neither extreme:** *refusing ethnic material → placeless; transplanting the source intact → a costumed
+version of somewhere real.*
+⭐ **Real cases: Québécois ≠ France · Canadian ≠ the Celtic lands · American ≠ Germany/Netherlands ·
+Australian ≠ England · Singaporean ≠ China.**
+⭐⭐ **AN ANTI-CONVERGENCE ENGINE:** ***two same-stock cities MUST diverge, because the operator's inputs
+differ.*** *(Tepenia has two Japan-founded cities — Shirayuki at 36.27% and Sayowa diluted to 2.71%. Similar
+answers for both would mean at least one is wrong.)*
+
+### 4 · ⭐⭐⭐ THE GRAND-TIMELINE ACTS
+
+| Act | Roughly | What the people ARE |
+|---|---|---|
+| **ACT 1** | 2564 → early 2600s | ***"Japanese / Chinese / Russian / American who live in Antarctica."*** Origin cultures still FRESH |
+| ⭐ **ACT 2** | ~late 2600s / early 2700s on | ## ***Properly TEPENIAN.*** Origin is **ancestry, not identity** |
+
+⚠ **The Second Interwar (2564–2812) spans both and is MOSTLY ACT 2** — *Act 1 is roughly its first 18%.*
+
+### 5 · ⭐⭐ MECHANISM — **interconnection; Amundsen Tower's COMPLETION solidified it (~2688)**
+
+⛔ **Four qualifications that must not be dropped:** *not a switch · **NOT the creation of unity — they were
+never psychologically, culturally or spiritually separate**, and shared struggles/goals in a shared country
+predate the Tower · not overnight, already in progress before construction began · and only **one of
+multitudinous** Tower effects (it is primarily energy regulation).*
+⭐ **What it did: full interconnection, which further defined and decisively solidified an identity already
+forming.** ***An Act boundary is a consolidation, not a line crossed.***
+
+### 6 · ⭐ FORM OF WORDS, AND WHERE TO DIFFERENTIATE
+
+⛔ *"a Japanese city"* ✅ ⭐ ***"a Japan-FOUNDED TEPENIAN city."*** **Stock: Japanese. People: Tepenian. Local
+culture: its own.**
+⭐⭐ **The Pennsylvania/Virginia test — *differentiate LOCALLY, converge NATIONALLY*.** *Two locations may have
+very different ethnic backgrounds and local cultures and still be fundamentally the same nationality.*
+⛔ **National identity is NOT a differentiator: every Tepenian city is Tepenian.**
+
+---
+
 **Source material:** `Human_Universals_Extraction.md` (raw extraction from Donald E. Brown's *Human
 Universals*, 1991). This file is the synthesis — how to actually *use* that material for two purposes:
 (1) a believability floor for human city cultures in this GDD, and (2) a structured, repeatable
@@ -109,10 +174,10 @@ explicit, reusable procedure, so it can be re-run against any universal not yet 
    for the resolved answer.)
 4. **Classify into one of four outcomes:**
    - **Direct Transfer** — an accident-type universal whose cause fully applies.
-   - **Structural Analogue** — essence-type at the human level, but the *function* the universal served
+   - **Structural Analog** — essence-type at the human level, but the *function* the universal served
      has a plausible robot-specific substitute via a different mechanism.
    - **Non-Transfer** — essence-type, no plausible substitute, and the honest answer is it just doesn't
-     apply. This must stay a legitimate outcome, not something to paper over with a strained analogue —
+     apply. This must stay a legitimate outcome, not something to paper over with a strained analog —
      same discipline already governing the "no strongly distinct local variant" finding in human city
      research.
    - **New Universal** — a trait unique to robot populations with no human precedent, arising from
@@ -296,14 +361,14 @@ differential parental investment — that entire evolutionary "why" simply has n
   missing one whole axis of human tribalism.** Mentor/mentee bonds are a genuine, culturally real robot
   institution. **Maker/made is not a real phenomenon in this world:** currently-existing robots have
   comparatively little control over what kind of person a newly-synthesized robot turns out to be, and a new
-  robot is created by an *infrastructure* (the Cradle), not by a personal "creator" — so a parent-analogue
+  robot is created by an *infrastructure* (the Cradle), not by a personal "creator" — so a parent-analog
   built on "who specifically made you" doesn't hold up. Robots do have a genuine sense of clan/tribe, but
   it's built on **shared experience of togetherness** — fabricated in the same city environment, living
   through the same struggles, sharing the same end goals for how to live — not on build specs or
   fabrication lineage. Humans form tribes/clans from three possible bases: genetics, geography, and
   ideas/experience. **Robots only have two of the three — geography and ideas/experience, not genetics** —
   though they can still feel a real sense of kinship with both other robots and humans. This means the
-  earlier "Gen/Mark as inherited-architecture kinship analogue" speculation elsewhere in this file does not
+  earlier "Gen/Mark as inherited-architecture kinship analog" speculation elsewhere in this file does not
   hold up: robots don't organize kinship around shared fabrication lineage at all.
   (An earlier draft of this entry proposed build-over-Gen/Mark as the stronger kinship candidate, reasoning
   from "who chose to build you and why" as a maker/made bond — superseded by the resolution above, which
@@ -335,8 +400,8 @@ explain.
   undecided; if one exists, build is the more likely candidate axis than Gen/Mark.
 - **DECIDED (Non-Transfer), resolved 2026-08-06 — derived from what's already established, not a fresh
   decision.** Robots' established "things that go wrong" already fully account for the functional
-  territory disease would otherwise occupy: gradual component degradation (the aging-analogue) and
-  corruption events like Calethina's Split Brain (the mortality-analogue, per "What Counts as Death" in
+  territory disease would otherwise occupy: gradual component degradation (the aging-analog) and
+  corruption events like Calethina's Split Brain (the mortality-analog, per "What Counts as Death" in
   Robot_Physiology_and_Cultural_Practices.md). There's no third slot left over for something
   disease-shaped — acute, non-fatal, illness-like dysfunction distinct from both ordinary wear and outright
   architecture corruption. This is a clean instance of the "no strongly distinct variant" honesty this
@@ -350,7 +415,7 @@ came into existence bears directly on whether group living favors cooperation, r
 form of governance once that population is large and interdependent enough. This is the strongest
 candidate cluster for near-total transfer to robot culture.
 - **DECIDED:** robots in this setting already have rich, autonomous social/cultural institutions —
-  established food/drink/vice analogues (siligel, coolant, robot coffee, smoking — see
+  established food/drink/vice analogs (siligel, coolant, robot coffee, smoking — see
   [[project_robot_biology]]), an alcohol-equivalent with its own class-coded variation
   ([[project_glitch_coolant]]), city-level civic identities and governance, and city-scale social
   structures throughout the Neo-Races work. The premise that robots cooperate, communicate, and organize
@@ -510,9 +575,9 @@ other — the same way there isn't one monolithic "human culture," there shouldn
    ever implying hierarchy.
 
 5. **Use emic "peoplehood" to find where the boundaries actually fall — resolved 2026-08-07: they track
-   city/locality, decisively, not Gen/Mark or build's own physical result.** Brown catalogues a felt sense
+   city/locality, decisively, not Gen/Mark or build's own physical result.** Brown catalogs a felt sense
    of distinct in-group identity as a UP universal in its own right (Ch. 6) — this transfers to robots, and
-   the mechanism is exactly what the kinship-analogue resolution above already established: shared
+   the mechanism is exactly what the kinship-analog resolution above already established: shared
    experience of togetherness (same city, same struggles, same life-goals), not fabrication lineage or
    physical form. **Confirmed via direct comparison:** city/culture-of-origin carries far more identity
    weight than Gen/Mark, and body type (part of build's physical result) carries essentially none — the
@@ -567,7 +632,7 @@ coexist within one setting.
   though customs aren't; a real trust-based middle ground short of full commitment, consistent with the
   existing casual "fuckable" pool mechanic; no meaningful robot-vs-human-partner difference, with
   human-on-human sex explicitly out of scope); whether the "cognitive imperative" transfers (no, not as an
-  innate mechanism); whether robots have a disease analogue (no); the kinship analogue's actual shape
+  innate mechanism); whether robots have a disease analog (no); the kinship analog's actual shape
   (mentor/mentee real, maker/made holds no weight, clan/tribe from shared experience — robots miss the
   genetics axis of human tribalism); the cultural-boundary question (city/locality decisively, not Gen/Mark
   or build); whether Mark-generation affects cognition (yes, but never hierarchically); robot language's

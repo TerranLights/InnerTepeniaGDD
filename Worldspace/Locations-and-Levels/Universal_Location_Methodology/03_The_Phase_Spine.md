@@ -165,6 +165,38 @@ Stated once here rather than repeated eleven times.
    *Does canon already answer this? · Does this contradict canon? · Does this bind anything beyond this
    location? · Does this need registering back?* **Canon is federated — universe repo, project repo, and
    siblings — and the universe repo is outside this repo and invisible to a local search.**
+9. ### ⭐⭐⭐ **WHERE THE SETTING HAS A NON-HUMAN POPULATION, ITS PHYSIOLOGY IS A STANDING INPUT TO EVERY PHASE.**
+   **Added 2026-09-06 at the developer's direction, after a live pass got it wrong.**
+
+   > **The governing physiology document is read ONCE, EARLY, IN FULL — at `Step 0.2` alongside the
+   > disciplines — and it stays open for every phase thereafter.** ⛔ **It is NOT a specialist check to be
+   > consulted at the phase that happens to mention food, or cold, or bodies.**
+
+   **Why this needs stating rather than assuming:** ***a setting whose non-human population is a MAJORITY has
+   no phase that is not about them.*** **Composition, texture, ordinary life, order, making, populations —
+   each is a question about the majority body as much as about the minority one.** **A pass that opens the
+   physiology file only where a phase's own title mentions bodies will write the other phases as though the
+   majority were human, and will not notice.**
+
+   > ### ⚠ THE FAILURE THIS IS WRITTEN AGAINST — measured, 2026-09-06
+   > **A pass opened a NARROW physiology file** *(the setting's environmental-hazard companion)* **and never
+   > the GENERAL one. It then derived a capability finding — that the local environment uniquely permitted a
+   > kind of stationary outdoor work — which was false**, ***because the general file establishes the
+   > population is ordinarily clothed and the hazard is a preparation problem, not a gate.***
+   > ⭐ **The narrow file was not wrong. It was PARTIAL, and partial read as complete.**
+   > **The corrected finding was better than the false one** *(the constraint moved from the body to the
+   > HANDS, and from a gate to a gradient)* — **but nothing in the procedure would have caught it.**
+
+   **Three rules:**
+   1. **Read the GENERAL physiology document before the narrow ones.** *A companion file scoped to one hazard
+      states what that hazard costs; it does not state what the population ordinarily is.*
+   2. ⛔ **Never infer non-human physiology from the word for it.** *The setting's own file is the authority —
+      the same rule `02` §6.0 gives for symbols: **read the member from the file, never from the name.***
+   3. **State the population's ordinary condition BEFORE any environmental claim about it** — *clothed or not,
+      sheltered or not, mobile or not.* **An environmental finding written against a bare body and a clothed
+      body are different findings.**
+
+   *(The project's own governing document and its addresses are registry data — `00_RUNBOOK.md` §C.10.)*
 
 ## 0.3 Per-phase canon targets
 
@@ -458,14 +490,16 @@ return thin for the majority case** — so the sub-questions are weighted, not u
 | Sub-question | **Isolated location — the majority** | Clustered location — rare |
 |---|---|---|
 | **5a** Peers | **Optional.** Often the honest answer is a *category* ("the coastal cities"), not a name | Mandatory |
-| **5b** Three-way set | **→ use the own-eras substitute below** | Mandatory |
+| **5b** Three-way set | **→ use the own-eras substitute below** | ⛔ **NO LONGER MANDATORY — see the 2026-09-06 ruling below. The own-eras form is now the ONLY form** |
 | **5c** The parent | **PRIMARY — this is where an isolated location's relational content lives** | Mandatory |
 | **5d** Edge & crossing | Mandatory | Mandatory |
 | **5e** Dependency | **PRIMARY** | Mandatory |
 
 **The good news, verified rather than assumed: four of the five sub-questions are peer-free.** 5a's core move
 *(mechanism, not rivalry)* works against a supplier, a parent, or an absent peer just as well as against a
-neighbor — **it never needed a neighbor, it needed a counterparty.** Only 5b genuinely requires siblings.
+neighbor — **it never needed a neighbor, it needed a counterparty.** 5b was the one that genuinely required
+siblings — ⭐ **and as of the 2026-09-06 ruling it no longer does, because its sibling form is withdrawn.
+ALL FIVE sub-questions are now peer-free, for every location.**
 
 > **And for an isolated location, "write both directions" has a specific and valuable second half:** very often
 > the honest outward answer is ***nobody out there thinks about this place at all.*** **That is a finding, not
@@ -478,15 +512,26 @@ neighbor — **it never needed a neighbor, it needed a counterparty.** Only 5b g
 which direction, and what does not. **Distinguish the loud friction from the quiet one — the quiet one is
 usually nastier and better material.** *(Optional for isolated locations — see the weighting above.)*
 
-**5b — The three-way differentiation set.** *(The most reusable trick in the district folder.)* This location
-plus its two hardest frictions makes a **natural three-way contrast for any single behavior category**, because
-the geometry guarantees they differ on the same axis without overlapping. **Pick the category first, then read
-all three off the geometry** — deriving one location's answer alone tends to produce something generic, because
-there is nothing to differentiate against.
+**5b — The three-way differentiation set.**
 
-> **⚠ THE SUBSTITUTE, for the majority case where there are no two peers to contrast against.**
-> **This is the only sub-question that genuinely requires siblings**, and a reader reaching it alone previously
-> had nowhere to go.
+> # ⛔⛔⛔ THE SIBLING FORM OF 5b IS WITHDRAWN FROM EVERY ULM / CST / RWBEM PASS — **RULED 2026-09-06**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*
+>
+> ⭐⭐ **The own-eras form below is no longer "the substitute for isolated locations." It is THE FORM, for
+> every location, clustered or not.** ⛔ **Never run this sub-question against two neighboring cities**, and
+> never against one. **Differentiation across cities is a TERMINAL check, run at the end of the 38-city
+> corpus with all 38 columns present** — see `00_RUNBOOK.md`, *THE LAW OF ONE LOCATION*.
+>
+> ⚠ **Scope: `ULM / CST / RWBEM` only.** *The district methodology's own three-way set is unaffected — that
+> corpus is complete and its instrument works.*
+>
+> **What the withdrawn form said, kept for the record:** *this location plus its two hardest frictions makes a
+> natural three-way contrast for any single behavior category, because the geometry guarantees they differ on
+> the same axis without overlapping.* ⭐ **The reasoning was sound and the input is simply not available yet.**
+
+**⭐ THE FORM TO RUN — the three-way set against the location's OWN ERAS.** *(Previously labeled a substitute;
+now the whole of 5b.)* **A reader reaching this sub-question alone has somewhere to go, and it is the right
+somewhere:**
 >
 > **Run the three-way set against the location's own eras instead of against neighbors:**
 > ***this place at its founding · this place at its crisis · this place now.***
@@ -547,6 +592,21 @@ death?*
 - **B.** **Belief landscape.** Draw on the existing roster before inventing; but a genuinely new belief emerging
   from the analysis is a good outcome, not a problem, **provided it grows out of something the place verifiably
   already has** — a physical trait, a founding wound, a function, a practice nobody had named.
+  > ### ⭐⭐ **DO NOT FORCE A FIT — IN EITHER DIRECTION.** *(Added 2026-09-06 at the developer's direction.)*
+  > **A setting's belief roster may be OPEN and still growing.** ***So the test is never "does one of the
+  > existing N apply?" — it is "does any belief NATURALLY fit here?"***
+  >
+  > | ⛔ Both are the same error | |
+  > |---|---|
+  > | **Assigning an existing faith** to a location it does not belong to | *because the roster had a slot and the location had none* |
+  > | **Inventing a bespoke one** to fill the phase | *the failure mode this phase already names* |
+  >
+  > ⭐ **"No faith is sited here" is a legitimate, complete answer** — and it must be written so that a later
+  > reader cannot mistake it for **"no faith is possible here."** ***Leave the slot open explicitly.***
+  > ⚠ **And where the phase instead finds a STAKE, a COMPACT, a DEBT or a bare STANDARD OF WORTH, write it as
+  > what it is.** **A shared proposition is not a creed, and promoting one into the other is the same forcing
+  > error wearing a third costume.** *(A location's non-devotional standard may later become the seed of a
+  > faith, or may stay secular indefinitely; both are legitimate and the pass should not decide it.)*
 - **C.** **Death and the dead.** *(The category the 32-section template has no slot for at all.)* **The question
   is obligatory; a section is not.** Ask: who handles it · what is remembered, by whom, for how long *(distinguish
   the **record** from the **rite**)* · **who is not mourned properly, and why not** *(the most productive of

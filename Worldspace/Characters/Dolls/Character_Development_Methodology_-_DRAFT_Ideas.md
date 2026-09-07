@@ -1433,7 +1433,7 @@ in full before the mechanism itself.
   question about how to play her. Not every Doll needs one, but when one emerges naturally it's worth writing
   down as a fast reference distinct from (and more compact than) a full Goal/Desire/Lesson or GMC sheet.
 
-- **The 12-Category Character Notebook** — a distinct cataloguing framework worth keeping alongside Boutros's
+- **The 12-Category Character Notebook** — a distinct cataloging framework worth keeping alongside Boutros's
   questionnaire and St. John's GMC/Prep sheets as a third option, organized around categories that don't fully
   overlap with either: Basic Headline (above); Basic History; **Archetypal/Category/Stereotypical Resonance**
   (does she deliberately partake of a recognizable archetype or stock role, and if so, is she played straight
@@ -1975,7 +1975,7 @@ already on file, so they aren't reproduced separately.
   punishments. After — Heathcliff does everything he can to destroy Hindley." The technique's value is
   structural parallelism, not just "things get worse" — pairing a *specific* early scene with a *specific* later
   one that occupies the same narrative slot makes the deterioration legible rather than merely asserted.
-- **The Four-Domain Damage Assessment.** A clean, reusable checklist for cataloguing how a Doll's fall or
+- **The Four-Domain Damage Assessment.** A clean, reusable checklist for cataloging how a Doll's fall or
   corruption manifests, worth using directly when writing a negative-arc companion's Second Half of the Second
   Act: what are the destructive consequences of her Lie-driven mindset and actions on herself, specifically
   broken into (a) mental, (b) emotional, (c) physical, and (d) spiritual — plus, separately, at least four
@@ -3091,7 +3091,7 @@ apply to written fiction, not to this project's branching-dialogue, fixed-camera
 ## From *Create A Character Clinic* — Holly Lisle
 
 A workbook-style craft book (2006) built around two distinct tools: a needs-based interrogation system for
-character invention (Section One), and — the book's standout, genuinely novel contribution — a named catalogue
+character invention (Section One), and — the book's standout, genuinely novel contribution — a named catalog
 of common characterization failure modes with a sharp meta-principle attached to each (Section Three). Section
 Two ("Bring Them to Life" — first-person interview, showing character through exposition/dialogue/action) is
 scoped out as a lighter restatement of show-don't-tell material already captured in depth from Card and Corbett.
@@ -3172,7 +3172,7 @@ scoped out as a lighter restatement of show-don't-tell material already captured
     surprise needs a foundation, not just novelty); and **The Brain Transplant** (a character established as
     incompetent suddenly displaying impossible brilliance, or the established genius suddenly acting
     inexplicably stupid, purely to resolve the plot — presented as a pure, exceptionless sin with no legitimate
-    use case, unlike every other entry in the catalogue. This is the same underlying failure as Bell's already-
+    use case, unlike every other entry in the catalog. This is the same underlying failure as Bell's already-
     captured Deus Ex Machina caution, but viewed through the character-consistency lens rather than the plot-
     mechanism lens: the fix isn't just "earn the rescue through prior action," it's "never let a character solve
     a problem using a capability the story hasn't established she has").
@@ -3446,7 +3446,7 @@ largely a restatement of the Trait Implication Web applied to advertising mascot
 animals, less relevant than Robot Universals already provides for this project's actual synthetic-being
 population), the opening several pages of Chapter 10, the opening and "Balance Attraction and Conflict"/
 "Contrast" sections of Chapter 5, and the opening, "How Do You Dimensionalize These Roles?", and Luminas Award
-criteria sections of Chapter 9 (the extensive catalogue of specific real-world stereotype tropes partway
+criteria sections of Chapter 9 (the extensive catalog of specific real-world stereotype tropes partway
 through Chapter 9 — disability/race/religion/age/sexuality-specific tropes — was skimmed but not distilled
 above, judged as reference vocabulary rather than technique, though the named terms like "Supercrip" could be
 useful later if this project writes disabled companions or NPCs). Not sampled: Chapter 1 (Researching the

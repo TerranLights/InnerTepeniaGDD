@@ -55,7 +55,7 @@ Larsemann Hills has some of the best microclimates on the East Antarctic coast â
 
 ### 8. Fashion
 - Layered and functional, but with deliberate aesthetic refinement in the details â€” the cut, the closure, the lining
-- Muted palette overall (dark blues, greys, deep reds) with precision detailing
+- Muted palette overall (dark blues, grays, deep reds) with precision detailing
 - Chinese textile traditions survive in fabric choices and certain garment structures; Russian influence shows in outerwear robustness and certain silhouettes
 - A distinctive Zhongshan marker: extremely well-maintained clothing. The city's culture considers letting your clothes deteriorate to be a kind of personal failing.
 

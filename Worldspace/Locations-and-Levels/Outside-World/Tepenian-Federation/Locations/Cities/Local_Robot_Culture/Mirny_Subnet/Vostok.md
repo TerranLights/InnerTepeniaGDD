@@ -56,7 +56,7 @@ nobody speaks alive as pure, stable reference points across researchers who will
   (Thinking/Withdrawn/Positive Outlook — "as complete a Head-center identity as a city can have"). City
   Vision Notes checked, largely restates Local_Cultures. Historical Vignettes & Course of Events did
   substantial work — named incidents (Charlene's archive-cross-referencing discovery method, Yelena
-  Voskresenskaya's founding-era cataloguing layer, "The Citation No One Thought to Translate," and the
+  Voskresenskaya's founding-era cataloging layer, "The Citation No One Thought to Translate," and the
   personal, non-transactional Kunlun aurora-letter exchange) fed specific findings below, all flagged there as
   non-canon candidate material. **One important cross-reference note:** the ongoing Kunlun cold-record rivalry
   (confirmed during Kunlun's own already-completed run) is *not* recorded anywhere in Vostok's own files — it
@@ -98,7 +98,7 @@ localize per city.*
 
 - **[Adapted, Deep]** The Vostok research archive is explicitly established as too vast for any single mind,
   human or robot, to hold in full (§29). Charlene's own confirmed breakthrough came not from new fieldwork but
-  from re-reading and cross-referencing generations of already-catalogued data others had filed and moved
+  from re-reading and cross-referencing generations of already-cataloged data others had filed and moved
   past — a specific, named demonstration of how understanding actually accumulates here. A plausible robot
   kinship structure follows directly: a robot's "family," in the Ch.11 sense, is whoever shares her specific
   archive domain with her — past researchers whose work she's inherited responsibility for, and whoever

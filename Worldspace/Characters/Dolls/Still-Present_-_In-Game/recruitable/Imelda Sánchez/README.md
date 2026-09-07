@@ -101,7 +101,7 @@ numbers as marked by the developer:**
 
 Long, warm auburn-brown hair with blunt bangs, half pulled back. Dark brown eyes, soft warm makeup, a silver ear
 cuff with a chain detail at one ear. Consistently shown with a compact mirrorless camera (a real Canon
-EOS-style body), often held or raised to shoot. Dressed in a plaid mini skirt/shorts, a soft grey knit top with
+EOS-style body), often held or raised to shoot. Dressed in a plaid mini skirt/shorts, a soft gray knit top with
 a lace bra visible beneath an open, loosely-worn camel/tan trench coat, and knit-cuffed ankle boots. The setting
 across the set is a lived-in study/office: a wooden desk, stacked books with visible travel-adjacent titles, a
 vintage double-hemisphere world map on the wall, lit candles, a glass of whiskey, and newsprint scattered across

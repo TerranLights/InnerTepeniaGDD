@@ -16,6 +16,18 @@
 5. **If you cannot find something, that is the result.** **Log it. Do not route around it, do not substitute,
    do not proceed on a guess.**
 6. **AMERICAN ENGLISH.** *(Global `CLAUDE.md`.)*
+7. ⛔⛔⛔ **ONE LOCATION, ON ITS OWN TERMS — NEVER COMPARE ANY LOCATION TO ANY OTHER.** *(Binding law,
+   developer ruling 2026-09-06. **Hand-synced into this card 2026-09-06** — the ruling landed on
+   `00_RUNBOOK.md` and reached no card.)* ⛔ **No ranking, no z-scores, no "nth of N," no "unlike X," no other
+   location as a control, baseline or implicit normal.** ✅ **Use this location's OWN figures, stated flatly.**
+   ⭐ **RELATION stays legal** — *what this place needs from elsewhere, what flows, in which direction.*
+   **The one-sentence test: delete every other location's name from the sentence; if the claim about THIS place
+   survives, it was relation.** ⚠ **Scope is `ULM / CST / RWBEM`. District passes are untouched.**
+8. ⛔⛔ **NO FORCED FIT — AN EMPTY SLOT IS A RESULT, NOT A GAP.** *(Binding law, developer ruling 2026-09-06.
+   Hand-synced 2026-09-06.)* **Never force a location into a category it does not naturally occupy — and the
+   error runs BOTH ways:** *assigning an existing roster member that does not fit, **or** inventing a bespoke
+   one to fill a blank.* **Rosters are OPEN and expected to grow, so a roster's SIZE is never the test.**
+   ✅ ***"None is sited here" must never read as "none is possible here."***
 
 ---
 
@@ -24,13 +36,13 @@
 **0.1 Fill the declaration block** (`01` §6). Type and modifiers, **both** bands, status, temporal frame,
 parent, children, sibling set. **Every line changes a later question.**
 
-**0.2 Read the disciplines — ⛔ FROM `Disciplines/`, THE ULM'S OWN COPIES. Not the originals.**
-`Disciplines/00b_General_Population_Discipline.md` *(and its Band-1 inversion, `01` §2.3)* ·
-`Disciplines/00d_Shadow_Proportion_Discipline.md` · `Disciplines/00f_Review_Panel.md` ·
-`Disciplines/Cultural_Synthesis_Techniques.md` · `Disciplines/Real-World_Basis_Extrapolation_Method.md`.
+**0.2 Read the disciplines — ⛔ FROM `../../Disciplines/`, THE ULM'S OWN COPIES. Not the originals.**
+`../../Disciplines/00b_General_Population_Discipline.md` *(and its Band-1 inversion, `01` §2.3)* ·
+`../../Disciplines/00d_Shadow_Proportion_Discipline.md` · `../../Disciplines/00f_Review_Panel.md` ·
+`../../Disciplines/Cultural_Synthesis_Techniques.md` · `../../Disciplines/Real-World_Basis_Extrapolation_Method.md`.
 > ***The originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** — between
 > them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is next
-> *(M-130)*. **They open at Step 7 with everything else.** **See `Disciplines/README.md`.**
+> *(M-130)*. **They open at Step 7 with everything else.** **See `../../Disciplines/README.md`.**
 
 **0.3 Run Gate 0** — reconcile any completion claim against the file, **and the file's own open-questions list
 against what has actually been resolved elsewhere.** Cheapest gate, highest yield, fails in both directions.

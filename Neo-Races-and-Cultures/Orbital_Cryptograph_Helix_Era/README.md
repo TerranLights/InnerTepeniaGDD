@@ -72,7 +72,7 @@ Both directions, both already in this repo's character canon:
 
 It originates knowledge the surface physically cannot produce — there are real categories of research possible
 only in low or zero gravity. It also produces its own ordinary cultural output: entertainment, literature,
-music, humour, much of which has no reason to ever reach Earth.
+music, humor, much of which has no reason to ever reach Earth.
 
 ### 6. There is no real-world orbital basis to research, and none is needed
 
@@ -88,7 +88,7 @@ about the world rather than a gap in research. Derivation runs from conditions, 
 Questions raised while establishing the above. **Recorded so they are not lost, explicitly NOT to be answered
 here.**
 
-- Progenitor or sister — which relationship, and how it colours everything downstream.
+- Progenitor or sister — which relationship, and how it colors everything downstream.
 - Why orbit was helpless: no descent capability, no ability to affect ground events, deliberate
   non-intervention, or something else. The emotional core is fixed; the mechanism is not.
 - What orbit's vantage point means for the historical record — plausibly the most complete observational

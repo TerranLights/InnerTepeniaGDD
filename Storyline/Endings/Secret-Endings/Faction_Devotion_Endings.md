@@ -217,7 +217,7 @@ A faction dedicated to recovering, documenting, and restoring pre-city technolog
 The Reclaimers have been documenting a specific route through Virgo's deepest infrastructure — below the Undergrid's regularly accessed sections, into levels that official maintenance does not reach — for years. The route terminates at something the Reclaimers suspected but had not confirmed: intact pre-city structures in a state of preservation that was not expected. Not ruins. Not fragments. Intact rooms. Intact equipment. Evidence of habitation and operation from before Concordia was built. A player who has earned full Reclaimer standing completes the documented route and steps through an entrance into a space that was sealed before the city above it existed. That entrance, at the end of that route, is the trigger.
 
 **The End**
-The player completes the first full documentation survey of the pre-city space — every room mapped, every piece of equipment catalogued, every text recorded. The final entry in the survey log, the one that closes the documentation, is the ending.
+The player completes the first full documentation survey of the pre-city space — every room mapped, every piece of equipment cataloged, every text recorded. The final entry in the survey log, the one that closes the documentation, is the ending.
 
 **Main Negative Effect on Concordia**
 The pre-city structures were sealed. Not abandoned — sealed. The documentation the Reclaimers now possess is comprehensive and accurate, and specific things it documents give specific institutional actors in Concordia strong reasons to want the documentation controlled, classified, or destroyed. The Reclaimers found what they were looking for. What they found was not entirely safe to have found.

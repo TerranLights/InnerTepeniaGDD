@@ -19,7 +19,7 @@ life — the second single-city candidate, after #8. **Not canon, not chosen, no
   remain."
 - **Vostok's own Full Extrapolation, Section VIII** — Archivist Yelena Voskresenskaya, the last known
   researcher of the original founding community, an already-proposed placeholder figure whose personal
-  notes and idiosyncratic cataloguing form one of the oldest, most difficult-to-interpret layers of the
+  notes and idiosyncratic cataloging form one of the oldest, most difficult-to-interpret layers of the
   city's own established "incomprehensible archive."
 - **Vostok's own Full Extrapolation, Section IV** — the archive's own established nature: not one dataset
   but "many overlapping partial pictures, compiled by people who never coordinated with each other across

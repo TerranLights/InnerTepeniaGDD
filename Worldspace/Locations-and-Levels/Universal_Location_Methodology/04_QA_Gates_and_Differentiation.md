@@ -148,17 +148,25 @@ consequences** (anything vented, emitted, sounded or spilled arrives somewhere);
 legitimate discoveries** — the check is not *does this already exist, use that instead*, it is only *is the new
 thing named and cross-referenced so it enters canon cleanly?*
 
-**Gate 6 — Duplicate institutions.** Within the location, and against completed siblings. **Uses the
-differentiation instrument in Part III.** **Check the most recently written sibling first** — collisions cluster
-there, because whatever was most recently solved is the nearest available shape and it gets reached for. **State
-the contrast inline, in the finding itself**, not in a footnote.
-> ### ⚠ Gate 6 is UNRUNNABLE in a cold pass, by construction — a scheduling problem, not a failure
-> **Added 2026-08-30.** Gate 6 needs the siblings' completed material and the differentiation instrument. **In
-> a cold or anti-contamination pass that material is precisely what is withheld.** **The anti-convergence gate
-> and the circularity rule are in direct conflict, and one of them must lose.**
+**Gate 6 — Duplicate institutions.** ⭐ **IN-RUN: within the location ONLY.** *Does this pass name two
+institutions that are the same institution twice?* — **that is a fact about this location and it is fully
+runnable.** ⏸️ **The against-siblings half is TERMINAL.**
+> ### ✅ RULED 2026-09-06 — **the against-siblings half of Gate 6 leaves the per-location pass entirely**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer.)*
 >
-> **Resolution: Gate 6 runs LATE — at Step 7, when the withheld files are opened — not never.** Until then run
-> **all four** Part III.4 substitutes and say in the pass that you did.
+> ⭐⭐ **Gate 6 was already the closest of the five comparison instruments to correct — it had deferred itself,
+> on its own reasoning, six days earlier.** ⛔ **The ruling completes the move: it does not run at Step 7 of a
+> per-location pass either. It runs at the TERMINAL differentiation check, on the finished corpus.**
+> ⛔ **Do not "check the most recently written sibling first." Do not state a contrast inline.** *(Both
+> instructions are revoked; they were the sharpest form of the thing the law forbids.)*
+> ✅ **In-run, run all four Part III.4 substitutes and say in the pass that you did.**
+
+> ### ⚠ THE ORIGINAL 2026-08-30 REASONING, kept because it diagnosed the conflict correctly
+> **Gate 6 needs the siblings' completed material and the differentiation instrument. In a cold or
+> anti-contamination pass that material is precisely what is withheld.** **The anti-convergence gate
+> and the circularity rule are in direct conflict, and one of them must lose.**
+> ⭐ **2026-09-06 resolves which: the anti-convergence gate loses — and loses to a SCHEDULE, not to a
+> judgment.** *It was never wrong; it was early.*
 >
 > **And an encouraging result worth recording, from a real test case.** When Gate 6 finally ran on one cold
 > pass it found two collisions with the location's own existing canon — **and Gate 4's swap test had already
@@ -401,10 +409,34 @@ When a location is written *after* locations it contains:
 
 # Part III — The differentiation instrument
 
-> **⚠ This entire Part is PEER-REQUIRED — an enhancement, not the core.** Per `00_RUNBOOK.md`, the methodology's
-> unit is **one location**, and **most passes will have no sibling set at all.** A pass without one is not
-> failing this Part; it is running **III.4**, which is the ordinary path. **Do not treat a missing
-> differentiation table as a missing gate.**
+# ⛔⛔⛔ PART III IS **WRITE-ONLY** DURING A ULM / CST / RWBEM PASS — **RULED 2026-09-06**
+
+> > ### **"In terms of your interpretation of Part III's 'anti-convergence' rule, yes, this is something we'll check for and decide at the very end. During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*
+
+| | During a per-location pass | ⏸️ At the TERMINAL check |
+|---|---|---|
+| **Adding this location's column** | ✅ **REQUIRED, same commit as the finding** *(Step 9 unchanged)* | — |
+| **Reading another location's row** | ⛔⛔ **FORBIDDEN** | ✅ **This is the whole job** |
+| **III.2 step 1, "before writing a category, read its row"** | ⛔ **REVOKED in-run** | ✅ **Restored** |
+| **III.4 substitutes** | ✅ **The ordinary path, for EVERY location** | — |
+
+> ### ⭐ WHY THE TABLE STILL GETS FILLED — **it is the terminal check's only input**
+> ***A write-only table is not a dead table; it is a table under construction.*** **`04` Part III already
+> half-said this:** *"the table is FILLED DURING synthesis… it contributes nothing to the first city and
+> everything to the thirty-seventh."* ⭐ **The ruling adopts that sentence literally and drops the half that
+> contradicted it.** ⛔ **A pass that reads a neighbor's row writes AROUND that neighbor — and
+> writing-around-a-neighbor is still a neighbor-shaped decision, which is convergence arriving by the door
+> marked anti-convergence.**
+
+> **⚠ And this Part was ALREADY peer-required — an enhancement, not the core.** Per `00_RUNBOOK.md`, the
+> methodology's unit is **one location**, and **most passes will have no sibling set at all.** A pass without
+> one is not failing this Part; it is running **III.4**, which is the ordinary path. **Do not treat a missing
+> differentiation table as a missing gate.** ⭐ **As of the ruling, EVERY pass runs III.4** — the peer-free
+> path is no longer the majority case, it is the only case.
+
+> ### ⚠ SCOPE — **`ULM / CST / RWBEM` only. The district instrument is untouched.**
+> **`Cross_District_Differentiation_Table.md` and the district runbook keep read-before-write**, on a
+> 13-district corpus that is already complete. ⛔ **Do not harmonize the two.**
 
 ## III.0 ⚠ "Noticed somewhere" is not "available where it is needed"
 
@@ -437,8 +469,11 @@ and deficit-address table first, because that is what everything else descends f
 
 ## III.2 How to run it
 
-1. **Before writing a category**, read its row.
-2. **If your answer rhymes with any entry, either differentiate it explicitly and inline — in the finding
+> ⛔ **STEPS 1–2 ARE TERMINAL-ONLY as of 2026-09-06. Do not run them inside a per-location pass.**
+> ✅ **In-run, jump to III.4 and add your own column.**
+
+1. ⏸️ **Before writing a category**, read its row.
+2. ⏸️ **If your answer rhymes with any entry, either differentiate it explicitly and inline — in the finding
    itself — or change it.** A prose assurance that "this is different" is not checkable and does not survive the
    next pass; **write the comparison as a table on at least four axes**, and include the **tense** axis — *where
    and when the loss happens* — which is the one most often skipped and the one that most often separates two

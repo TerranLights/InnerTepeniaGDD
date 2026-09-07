@@ -228,7 +228,7 @@ creep
 
 **Open threads — noticed and NOT chased:**
 - **What a Tepenian roadside node actually *is*** — the developer named diners/gas stations/rest stops as
-  analogues, not as canon. **The node type itself is undefined**, and defining it is a real acquisition job
+  analogs, not as canon. **The node type itself is undefined**, and defining it is a real acquisition job
   (likely Path 7 or 4). It would also retroactively enrich the four other hitchhiking-valid routes.
 - **Whether nodes exist on routes not marked hitchhiking-valid**, and if so why hitchhiking doesn't happen at
   them. Not asked.

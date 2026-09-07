@@ -101,7 +101,7 @@ own population read. None contradict the findings above; several sharpen them di
   own "singular, unaccountable" closure-season authority finding. Both temperaments are named as real
   variance across different years' rotations, consistent with the Band-1 named-individuals rule (`01`
   §2.3) rather than a general-population claim.
-- **Virgo — the outpost's own quality-control-minded technician.** Gives Phase 8's already-catalogued
+- **Virgo — the outpost's own quality-control-minded technician.** Gives Phase 8's already-cataloged
   Margin Log a human origin: not an institutional policy, one technician's personal dread of a preventable
   flawed chamber shipping out, which the rest of the crew simply kept doing after them.
 - **Sagittarius — the destination-tracker / the deliberately detached worker.** Two different, equally

@@ -14,7 +14,7 @@ following setting-condition become true.
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Early settlers, cataloguing the original Palmer Station buildings for anything usable, find a cache of old
+Early settlers, cataloging the original Palmer Station buildings for anything usable, find a cache of old
 jazz records left behind by whoever worked there before the exile. They are, for the moment, simply
 objects — fragile, unplayed, without a player, a venue, or an established audience to make sense of them.
 
@@ -42,7 +42,7 @@ attempt lands the same way the first one did by accident.
 **Character B:** *(left blank)*
 
 **Design notes — what kind of conflict this needs:** a disagreement over whether the settlement should
-treat the records as something to protect and catalogue, or something to actually use, worn grooves and
+treat the records as something to protect and catalog, or something to actually use, worn grooves and
 all. One side has grown attached to the records as irreplaceable founding-era objects — the only physical
 trace of whoever worked the original station before them — and wants them handled carefully, played
 rarely if at all, and properly archived before anything else happens to them. The other side sees the
@@ -77,7 +77,7 @@ Because Needle Down grew out of sustained, unauthorized repetition rather than a
 decision, nobody ends up formally owning it — there is no city office, no single family, no institution
 that gets to call it theirs. But the original records themselves are, by this point, showing real wear,
 and Character A's earlier worry about preservation stops being abstract and becomes urgent: the
-settlement's cultural custodians begin the work of carefully cataloguing, copying, and safeguarding the
+settlement's cultural custodians begin the work of carefully cataloging, copying, and safeguarding the
 founding-era originals specifically so the tradition built around them can keep going without destroying
 the thing it started from.
 

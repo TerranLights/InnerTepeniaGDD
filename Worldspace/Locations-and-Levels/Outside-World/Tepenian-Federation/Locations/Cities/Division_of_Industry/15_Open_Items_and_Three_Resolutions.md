@@ -200,9 +200,9 @@ site is both.**
 > door")*. **There is no choice to make. Both keep one — and they keep it FOR DIFFERENT REASONS.**
 >
 > ### **Kunlun — the vault as a RECORD**
-> **Scientific cataloguing. "Keeping records" of Earth.** Consistent with everything else about the city: a
+> **Scientific cataloging. "Keeping records" of Earth.** Consistent with everything else about the city: a
 > **curated 19-nation astronomy/comms-heritage population**, tiered by real-world space-program credentials,
-> whose whole civic purpose is **observing and recording.** **The seeds are one more catalogue.**
+> whose whole civic purpose is **observing and recording.** **The seeds are one more catalog.**
 >
 > ### ⭐⭐⭐ **Dome Fuji — the vault as a DEBT**
 >
@@ -211,7 +211,7 @@ site is both.**
 > > homeland of their own; so, just in case a catastrophe ever hit, Dome Fuji (and the Ice-Cold Buddhists)
 > > would be able to return the favor."***
 >
-> **Not a catalogue. A promise.** Kept by **the devotee population of Ice Cold Buddhism** — nationally
+> **Not a catalog. A promise.** Kept by **the devotee population of Ice Cold Buddhism** — nationally
 > blended, drawn from every Tepenian city — **against a catastrophe that may never come, for people who gave
 > up their homelands so that robots could have one.**
 >

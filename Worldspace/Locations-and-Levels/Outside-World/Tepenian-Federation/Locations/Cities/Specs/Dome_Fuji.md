@@ -15,7 +15,7 @@
 > > in case a catastrophe ever hit, Dome Fuji (and the Ice-Cold Buddhists) would be able to return the
 > > favor."***
 >
-> **Not a catalogue — a promise.** Kept by the **devotee population of Ice Cold Buddhism**, nationally
+> **Not a catalog — a promise.** Kept by the **devotee population of Ice Cold Buddhism**, nationally
 > blended and drawn from every Tepenian city.
 >
 > > ### ⚠⚠ **And human presence here is FORBIDDEN.**
@@ -23,7 +23,7 @@
 > > the homelands those humans gave up — for people who can never visit, against a catastrophe that may never
 > > come.**
 >
-> *(Kunlun keeps its vault for the opposite reason: **scientific cataloguing — "keeping records" of Earth.**
+> *(Kunlun keeps its vault for the opposite reason: **scientific cataloging — "keeping records" of Earth.**
 > **Same act, opposite motive.**)*
 
 

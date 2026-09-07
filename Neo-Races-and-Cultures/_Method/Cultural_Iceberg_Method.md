@@ -1,5 +1,31 @@
 # The Cultural Iceberg Method
 
+> ## ⛔⛔ BINDING PRECONDITION — **read before sorting any culture into this framework**
+> **Developer rulings, 2026-09-06.** ⭐ **Full statement:
+> `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`** · **operative restatement:
+> `Human_Universals_Culture_Framework.md`.**
+>
+> **1 · STATION-BUILDER ≠ EXILE ORIGIN.** ⛔ *The station's builder is a GPS coordinate only.* ✅ **The exile
+> population's origin is canon and IS admissible once composition is established.** ***The law exists so a
+> city is characterized by who LIVES there, not by whose STATION it occupies*** — **and refusing all ethnic
+> material is a misreading that produces placeless cities.**
+>
+> **2 · ⭐⭐ COMPOSITION NAMES THE STOCK; TIME AND PLACE PRODUCE THE CULTURE.** *Apply the divergence operator:
+> **time · separation · local environmental setting · local struggles and hardships · local goals · local
+> sensibilities and habits.*** ⛔ *Neither refuse ethnic material nor transplant the source intact.*
+>
+> **3 · ⭐⭐⭐ THE ACTS.** **Act 1** *(2564 → early 2600s)*: still *"X who live in Antarctica."* **Act 2**
+> *(~late 2600s/early 2700s on)*: ***properly TEPENIAN — origin is ancestry, not identity.*** ⚠ **The Second
+> Interwar spans both and is mostly Act 2.** *Mechanism: interconnection, decisively solidified by Amundsen
+> Tower's completion (~2688) — **but the unification was already in progress, was never absent, and the Tower
+> is only one of its causes.***
+>
+> ### ⚠ WHY THIS MATTERS TO THIS FILE SPECIFICALLY
+> **The iceberg sorts SURFACE culture from DEEP culture.** ***Which Act a practice belongs to is a separate
+> axis from how deep it sits*** — **an Act-1 surface practice and an Act-2 surface practice are different
+> content, and a deep-culture item that survived the Act transition is a stronger finding than one that did
+> not.** ⭐ **Tag the Act, not only the depth.**
+
 **Source:** Edward T. Hall's 1976 "cultural iceberg" analogy, saved as `to-be-integrated/cultural-iceberg.pdf`.
 Reviewed and adopted 2026-07-16 as the sorting framework for this project's Phase 1 cataloging work.
 

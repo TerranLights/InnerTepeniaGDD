@@ -224,7 +224,7 @@ Prydz Bay harbor. Two of Tepenia's five hitchhiking-valid highways end here.*
 | Quadrant | Content |
 |---|---|
 | **STRENGTH** | **Reachability, at a level only the capital matches.** Three highway endpoints converge here and at exactly one other place in Tepenia — Concordia — **and Concordia has no airport.** Zhongshan has road, air and sea |
-| **DEFICIT** | ⚠ **It is a terminus, not a corridor. Nothing passes through it.** All three highways *end*; past the junction there is sea and two neighbours. Maximal arrival, **zero transit** |
+| **DEFICIT** | ⚠ **It is a terminus, not a corridor. Nothing passes through it.** All three highways *end*; past the junction there is sea and two neighbors. Maximal arrival, **zero transit** |
 | **STANDING COST** | Keeping the junction and the harbor open — **and the junction is jointly held**, so the duty belongs to three cities and therefore to nobody in particular |
 | **GRUDGING TOLERANCE** | **Leaving.** Four exit routes, two of them hitchhiking-valid. Departure from Zhongshan is unusually cheap and nothing stands in its way |
 

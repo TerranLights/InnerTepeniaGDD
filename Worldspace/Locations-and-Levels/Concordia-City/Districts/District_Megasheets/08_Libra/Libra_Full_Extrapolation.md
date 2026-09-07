@@ -41,7 +41,7 @@ rewrite from scratch**)"*, which Finding IV does. Claim matched file.
 >    `Zodiac_Personality_Substrate/99_Application_to_Districts.md` §5a and **deliberately not adopted here**,
 >    because adopting it would settle a question canon has reserved.
 > 2. **The carved-out-claw origin.** The substrate flags, as a *candidate and not a proposal*, that Libra's
->    jurisdiction might be territory or authority administratively severed from a neighbour. **It would touch
+>    jurisdiction might be territory or authority administratively severed from a neighbor. **It would touch
 >    existing canon and needs the developer's call.** Recorded in Gate 7 as available and withheld.
 > 3. **The in-fiction name.** Libra is one of five districts still lacking one; "the Government District" is a
 >    descriptor. No naming is attempted below.
@@ -282,7 +282,7 @@ becomes comprehensible to them slowly or never.**
 - **The two hardest frictions are both districts that decide.** **The Sanctuary** wants an answer for a person
   in front of it, now, and Libra can only offer a procedure — *the palliative reflex meeting a district that
   cannot be palliated.* **The Yards** is the sharper one: it *decides*, on schedule, by procedure, and finds
-  Libra's endless weighing contemptible. **They look compatible** — shared competence, shared favour ledgers,
+  Libra's endless weighing contemptible. **They look compatible** — shared competence, shared favor ledgers,
   easy on ideas — and the Yards cannot bear that Libra will not conclude.
 - **Allies — and the three-district affinity is a genuine structural problem.** **The Circuit** and **the
   Labs** are Libra's natural partners, and per the substrate's city-scale finding the three of them form **a
@@ -373,7 +373,7 @@ detailed, expert answer about what the Yards eats.
 > Being fed means **admission** in Taurus, **rank** in Leo, a **process stage** in Scorpio, **ambient
 > availability** in the Power Core, **an unacknowledged kindness** in the Yards, and **nothing at all** in the
 > Labs. **In Libra it means you are a guest** — that a relation has been established and is being formally
-> honoured — which is the only entry in the table where the meaning is about the *pair* rather than the eater.
+> honored — which is the only entry in the table where the meaning is about the *pair* rather than the eater.
 
 **(b) Robot cuisine and siligel.** Provision is **impeccably even.** Libra's siligel service is the most
 scrupulously equitable in Concordia — identical quality, identical timing, no distinction of rank — and the
@@ -453,7 +453,7 @@ looking for an ally." §3: "nothing is given unconditionally by Libra, because t
 
 **The integration bargain:** you receive absolute procedural fairness, real courtesy, and a district that will
 never take a side against you. **You pay in the impossibility of anyone taking a side *for* you.** Friendships
-here are genuine and carefully non-obligating; **favours are tracked, and the tracking is the affection** —
+here are genuine and carefully non-obligating; **favors are tracked, and the tracking is the affection** —
 nothing is given unconditionally, because an unreciprocated gift is an imbalance.
 
 **Generationally:** children raised here learn to be agreeable before they learn to want anything, and the
@@ -628,15 +628,15 @@ touched it did their job properly.
 sources, deliberately unflattened there.)* Every source but one treats the district's law-faculty **positively**
 — discipline, duty, structure, *"law-making is the one place"* that faculty is comfortable. The outlier reads
 the same placement as the source of
-everything **grey and bureaucratic** — *"the archetype becomes stodgy, dull, and bureaucratic… a predictable
+everything **gray and bureaucratic** — *"the archetype becomes stodgy, dull, and bureaucratic… a predictable
 quality in Libra is colorlessness, which comes from taking refuge on the safe side out of harm's way."*
 
 **Both are true, per the both-are-true shape** (`00e` §7 — *one disposition, two objects*; **9 for 9**): **law
-is where Libra is at its best and law is what makes Libra grey, and these are the same faculty applied to
+is where Libra is at its best and law is what makes Libra gray, and these are the same faculty applied to
 different things.** Applied to a dispute between parties, it produces the finest legislative apparatus in the
 city. Applied to the district's *own* life — its architecture, its dress, its music, its holidays — it produces
 colorlessness, because the same instinct that will not prejudge a case will not commit to a preference.
-**Libra is grey at home and excellent at work for one reason.**
+**Libra is gray at home and excellent at work for one reason.**
 
 ### The two source-gap absences, which are the district's own condition
 
@@ -694,7 +694,7 @@ assumes affluence, **for a district whose defining act is rationing.**
   and clean — Finding I in particular already does general-population work correctly.
 
 - **Gate 3 Contradiction check: PASS.** One reconciled rather than smoothed (Finding XIX — law as Libra's best
-  faculty *and* the source of its greyness, resolved as one faculty applied to two objects). Finding XVIII is
+  faculty *and* the source of its grayness, resolved as one faculty applied to two objects). Finding XVIII is
   recorded as **completing** Finding I, which stands.
 
 - **Gate 4 Swap Test: PASS.** Swapped against **the Labs**, Libra's closest structural affinity and natural
@@ -725,7 +725,7 @@ assumes affluence, **for a district whose defining act is rationing.**
   **Substrate material available and deliberately unused:** the **paired star-names** — *"the insufficient
   price"* and *"the full price"* — as the two terms of every allocation ruling, which is the strongest unused
   hook in the file and was held back only because it belongs with the Weighing Hall's mechanics; the **Annona
-  seal**; the **decan neighbourhoods** (Protocol Quarter, Deep Benches, Circuit Clerks); **opal** and the stone
+  seal**; the **decan neighborhoods** (Protocol Quarter, Deep Benches, Circuit Clerks); **opal** and the stone
   set; **the carved-out claw** *(Reserved Item 2)*.
 
 - **Gate 8 Standout: recorded below.**

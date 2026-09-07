@@ -31,7 +31,7 @@ genuinely fits is the answer; don't keep searching for a "better" category once 
 | 3 | **Earned perk** (Challenge / Companion / Quest / Capstone / Milestone / World — see `Perk_Framework.md`) | Automatic, non-chosen, awarded for specific play patterns | Spells/feats whose BG3 acquisition already resembles an earned reward (class/subclass features gated on doing a specific thing) rather than a menu choice |
 | 4 | **Trait** | Character-creation only, double-edged (bonus + real penalty), max 4 selected of 25–60 total | Spells/feats that describe a *permanent constitutional fact* about the character rather than a discrete usable ability — closer to "how this person is built" than "something this person does" |
 | 5 | **Item / equipment / weapon category** | A physical object, weapon type, chem, or armor property — not a perk/trait/quickhack at all | BG3 entries that are fundamentally about *what you're holding* (most Evocation damage spells, most item-granted spells) rather than a trained capability |
-| 6 | **Doesn't translate — drop** | No conversion attempted | Entries that depend on magic/planar/divine premises with no coherent Hard Sci-Fi analogue even after reinterpretation (resurrection-from-nothing, plane-shifting, petrification-as-literal-transmutation, etc. — see Section 5) |
+| 6 | **Doesn't translate — drop** | No conversion attempted | Entries that depend on magic/planar/divine premises with no coherent Hard Sci-Fi analog even after reinterpretation (resurrection-from-nothing, plane-shifting, petrification-as-literal-transmutation, etc. — see Section 5) |
 
 **Decision aid — ask in this order:**
 1. Does converting this require inventing new lore (a new god, a new plane, literal magic)? → **Outcome 6.**
@@ -155,7 +155,7 @@ same as "thrown away."** Nothing gets deleted from the underlying source files
 the complete, untouched record. Beyond that: material that doesn't fit Inner Tepenia specifically may still
 be genuinely useful for the developer's other in-development projects — the Outer Tepenia trilogy (same
 universe, likely compatible Hard Sci-Fi premise) or *Toronto Fell Out* (a separate game). **The one true
-exception is content that depends on literal supernatural/magical premises with no grounded analogue in any
+exception is content that depends on literal supernatural/magical premises with no grounded analog in any
 of those settings either** — the developer's own example: banishing an enemy to another plane of existence.
 That specific category (planar cosmology, genuine magic-as-magic) is fine to treat as a real dead end. Every
 other rejected-for-Inner-Tepenia entry below should be read as "parked for a different project," not
@@ -177,7 +177,7 @@ other rejected-for-Inner-Tepenia entry below should be read as "parked for a dif
   (progressive restrain-then-incapacitate) is salvageable via nanite/chemical hardening reinterpretation, but
   "turns into literal stone/gold" as flavor should not survive conversion.
 - **Deity-specific or setting-specific lore spells** (The Closed Fist of Bane, Bhaal's Power Word Kill
-  Ritual, Selûne's Dream, Shar's Aegis, Kereska's Favour) — these are mechanically interesting (see Section 3
+  Ritual, Selûne's Dream, Shar's Aegis, Kereska's Favor) — these are mechanically interesting (see Section 3
   for the resource/resolution patterns they demonstrate) but their *names and flavor* are Forgotten Realms
   pantheon-specific and should not be ported as-is; if the underlying mechanic is worth keeping, it needs a
   wholly new Inner Tepenia-native name and justification, not a reskin.

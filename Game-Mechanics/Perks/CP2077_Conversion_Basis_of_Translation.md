@@ -75,7 +75,7 @@ Narrower than the BG3 pass's 6-outcome space, per the developer's own explicit s
    structural match, not a level-up perk.
 3. Is it a player-chosen tree perk (from `cp2077-1.63-perk-trees.txt` / `cp2077-2.0-perk-trees.txt`) that
    defines a build choice? → **Outcome 1 (level-up perk).**
-4. Does it depend on CP2077-specific tech/lore/proper nouns with no coherent Inner Tepenia analogue even
+4. Does it depend on CP2077-specific tech/lore/proper nouns with no coherent Inner Tepenia analog even
    after reinterpretation, or is it flatly incompatible with an Inner Tepenia system law (see Section 4)? →
    **Outcome 4.**
 

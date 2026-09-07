@@ -79,7 +79,7 @@ five-week workshop, and residents are workshop alumni who stayed) · Eden Projec
 china clay pit worked for 160 years and left sterile; linked geodesic biomes) · Hundertwasserhaus (the
 **Window Right** — a tenant may decorate and alter the facade as far as their arm reaches from their own
 window; **tree tenants** — trees living inside rooms with branches through the windows, holding standing as
-occupants; roof forestation; the 1958 Mouldiness Manifesto declaring the straight line an architectural tyranny).
+occupants; roof forestation; the 1958 Moldiness Manifesto declaring the straight line an architectural tyranny).
 
 ---
 
@@ -182,7 +182,7 @@ propagate it. This is a steady, unglamorous, high-volume trade and it is probabl
 thing Cancer sends outward.
 
 **(3) Trained caregiving and companion-model robots**, per the Mega-Init's own established robot population —
-other districts turn to Cancer when they need genuinely practised caregiving units rather than generic ones.
+other districts turn to Cancer when they need genuinely practiced caregiving units rather than generic ones.
 
 **(4) Integration specialists**, per Finding III's 250 years of practice at absorbing traumatised populations —
 a standing export to any district managing refugee-absorption strain, most directly Scorpio and Gemini, both
@@ -231,7 +231,7 @@ choice to leave that unresolved rather than smooth it over is entirely consisten
 absorbing costs quietly (Finding IV).
 
 **The Ofrenda** *(developer-suggested, 2026-08-16)*. Fused from Día de los Muertos on structural fit rather than
-any feeder-city national link: a household altar holding photographs, favourite foods, and personal objects,
+any feeder-city national link: a household altar holding photographs, favorite foods, and personal objects,
 understood as genuinely welcoming someone back rather than simply commemorating them. It sits alongside the
 Second Chair Workshops rather than replacing them — a kept chair preserves a *place*, an Ofrenda preserves the
 specific *things* a person loved, tended and refreshed the way the Green Ledger's plant work already is. Its
@@ -258,7 +258,7 @@ shopkeepers, and the substantial share holding ordinary non-caregiving jobs (Fin
 describes what all of them wear, with occupational dress scoped as the narrower case it is.
 
 **Silhouette: the straight line is avoided in cloth exactly as it is in construction.** Hundertwasser's
-Mouldiness Manifesto condemned the straight line as architectural tyranny; Cancer's own canon independently
+Moldiness Manifesto condemned the straight line as architectural tyranny; Cancer's own canon independently
 holds that straight lines read as institutional. Extended to dress, this produces a general preference for
 irregular, asymmetric cuts, soft draping, and curved hems over crisp tailoring and hard seams. A sharply
 tailored garment reads, in Cancer, roughly the way a bare rectilinear corridor does — not offensive, but cold,
@@ -281,7 +281,7 @@ every occupation and age, and it is the single most recognizable visual marker o
 Concordia.
 
 **Palette.** Warm, soft, low-saturation — greens, unbleached naturals, and the warm tones Mawson-descended
-households favour district-wide (`District_Refugee_Diaspora_Composition.md`).
+households favor district-wide (`District_Refugee_Diaspora_Composition.md`).
 
 **The narrower occupational case, correctly scoped.** Caregivers, therapists, and creche staff on shift wear
 practical unrestrictive working garments suited to sustained physical contact, compatible with
@@ -388,7 +388,7 @@ pinching back, or fussing at their own arm's-length stretch of wall. Robot resid
 self-maintenance and a network check as readily as to anything care-related.
 
 **Mundane concerns.** Whether the condensate runnel above someone's window is dripping onto their planting again
-and who is supposed to fix it. A neighbour's windbell that is genuinely, specifically annoying. Whether a
+and who is supposed to fix it. A neighbor's windbell that is genuinely, specifically annoying. Whether a
 delivery arrives before the kitchens change over. The quiet, real anxiety of not being certain whether you are
 currently owed or owing on the Green Ledger, since it is deliberately never written down — a distinctly Cancer
 worry, but an ordinary one.
@@ -402,7 +402,7 @@ the whole point is that you do not put it down.
 **Escapism and downtime.** Purely recreational and unconnected to memorial practice: informal music-making that
 is not lullaby tradition, small private crafts deliberately kept outside the Second Chair Workshops' orbit
 (not everything needs to become a meaningful object), games and long social hours in the Communal Warm-Soak
-Houses, and competitive window-reach gardening — a genuine low-stakes neighbourhood rivalry over whose stretch
+Houses, and competitive window-reach gardening — a genuine low-stakes neighborhood rivalry over whose stretch
 of wall looks best, entirely unserious and widely enjoyed. Robot residents' downtime includes Glitch-Coolant
 socialising per Tepenia-wide canon.
 
@@ -427,7 +427,7 @@ entries are role placeholders only, never named — binding developer instructio
   Keepings are tagged and kept indefinitely, available for adoption (Finding XI). Nothing on it is ever
   discarded. It is quiet, orderly, and among the saddest places in Concordia.
 - **The Pit Gardens** — fused from the Eden Project, built inside an exhausted 160-year china clay pit: a
-  neighbourhood occupying a decommissioned founding-era excavation, now the most densely planted ground in the
+  neighborhood occupying a decommissioned founding-era excavation, now the most densely planted ground in the
   district, its Growing Towers rooted well below street level.
 - **The Foundry** — where the windbells are cast and tuned (Finding X).
 - **The Circuit House** — formalising Findings VI and XIII's own proposed name for the facility physically
@@ -435,7 +435,7 @@ entries are role placeholders only, never named — binding developer instructio
 
 **Physical things**
 - **Split-token halves** (Finding XII) — the district's near-universal worn object.
-- **Votive forms** — fused from Epidaurus's documented body-part votives: small cast or moulded shapes
+- **Votive forms** — fused from Epidaurus's documented body-part votives: small cast or molded shapes
   representing specifically what someone is trying to recover — a hand, a component, a house, a name — left at
   the Long Room or an Ofrenda. Cheap, made in quantity, individually meaningless and collectively overwhelming.
 - **Windbells**, in enormous numbers, the district's ambient soundscape made physical.
@@ -450,7 +450,7 @@ entries are role placeholders only, never named — binding developer instructio
 - An attendant of the Turning, whose job is mostly to not be present at the wrong moment.
 - A propagation worker supplying the district's cuttings-and-rooted-stock export.
 - An ordinary shopkeeper or repair-trade worker with no caregiving role at all, grounding Finding XV.
-- A neighbourhood's acknowledged best window-reach gardener, quietly competitive about it.
+- A neighborhood's acknowledged best window-reach gardener, quietly competitive about it.
 - A Circuit House technician uneasy about their own part in the Mother's Circuit's drift.
 
 **Settings**
@@ -548,7 +548,7 @@ Adare populations.
 established as never closing; the native practice underneath that is a **perpetual pot** — never finished,
 never started fresh, topped up continuously with whatever comes in, running without interruption for years and
 in a few celebrated cases for generations. A kitchen's pot has a known age, and that age is a real point of
-neighbourhood pride. The district's own belief system (Finding XI) makes this more than a cooking method: a
+neighborhood pride. The district's own belief system (Finding XI) makes this more than a cooking method: a
 pot nobody lets stop is the same act as a routine nobody lets stop, performed with stock instead of habit.
 Letting a pot go out is a small local tragedy and, in the older kitchens, a genuine scandal.
 
@@ -578,7 +578,7 @@ moderate** — limited in strength by local convention rather than by supply, be
 district's robot population is on call for work where being impaired is a real problem. What Cancer developed
 instead is **timing**: glitch-coolant is drunk in specific protected contexts where someone else is explicitly
 covering for you, most often in the Communal Warm-Soak Houses' late hours. The custom is not "drink weak" but
-"never drink un-covered," and arranging cover for someone is itself a recognized favour on the Green Ledger.
+"never drink un-covered," and arranging cover for someone is itself a recognized favor on the Green Ledger.
 
 ### Music
 
@@ -659,7 +659,7 @@ the same choice.
 cannot bring itself to simply leave them alone. Within the district's own framework, refusing care is
 indistinguishable from being unable to ask for it — which is precisely what the Quiet Register exists to catch.
 Every act of withdrawal is therefore read as a symptom requiring gentler, more persistent attention, and the
-more firmly someone declines the more concerned their neighbours become. It is a trap with no villain in it:
+more firmly someone declines the more concerned their neighbors become. It is a trap with no villain in it:
 sincere care, applied to people who have clearly said no, by a culture that has no way to hear that as an
 answer.
 
@@ -680,7 +680,7 @@ on. It is not a rejection of the care-debt economy; it is participation in it wi
 
 **Generational cost:** children raised in such households grow up bilingual in the district's two modes and
 frequently end up as informal intermediaries — the people other reserved households send to deal with a
-Circuit House matter or an over-attentive neighbour.
+Circuit House matter or an over-attentive neighbor.
 
 ---
 
@@ -696,7 +696,7 @@ observances the diaspora file records.
   civic-scale act of generosity conducted with the emotional register of a delivery schedule.
 
 - **Reach Day** *(mid-year; public, competitive, and entirely unserious)* — the one day the Window Reach
-  (Finding VIII) is formally judged. Neighbourhoods walk each other's streets, argue vigorously about
+  (Finding VIII) is formally judged. Neighborhoods walk each other's streets, argue vigorously about
   arm's-length garden compositions, and award nothing but bragging rights. It is loud by Cancer standards,
   genuinely funny, occasionally petty, and the single least solemn thing the district does. Visitors are
   frequently surprised by it, having been told Cancer is a sad place.
@@ -710,16 +710,16 @@ observances the diaspora file records.
 ## XXI. Cross-District Consequences and Clarifications
 
 **Proposed.** Three points surfaced by the completion QA pass — two consequences Cancer's own new infrastructure
-imposes on its neighbours, and one internal clarification.
+imposes on its neighbors, and one internal clarification.
 
 **The Growing Towers vent into shared air, and Cancer is not the only district living in it.** Concordia is
 enclosed. Warm saturated air pushed high by the towers (Finding VIII) does not leave the city — it migrates,
-and the districts nearest Cancer receive a measurably damper draught than they otherwise would. This is a
+and the districts nearest Cancer receive a measurably damper draft than they otherwise would. This is a
 genuine, long-standing, low-grade civic irritation rather than a crisis: nobody is harmed, but condensation
-appears where neighbours would rather it didn't, and Cancer is periodically and unsuccessfully asked to do
+appears where neighbors would rather it didn't, and Cancer is periodically and unsuccessfully asked to do
 something about it. The district's position — that the towers feed the hydroponic supply the whole city eats
 from — is both true and self-serving, which is exactly why the complaint never resolves. Worth carrying into
-neighbouring districts' own passes rather than leaving as a Cancer-only detail.
+neighboring districts' own passes rather than leaving as a Cancer-only detail.
 
 **Windbells and Taurus.** Cancer's one manufactured export (Finding X) is a noise-making object, and Taurus
 enforces quiet hours as a real institution. The two districts also share Concordia's most established internal
@@ -760,7 +760,7 @@ tradition (Finding XVIII) and one of its three holidays (Finding XX).
 
 **Third, and the most useful thing Phase 7 produced:** the **perpetual pot** (Finding XVIII) — communal broth
 kitchens whose stock is never finished and never restarted, running for years or generations, their age a point
-of neighbourhood pride. It is the district's central belief performed with food instead of habit, and unlike
+of neighborhood pride. It is the district's central belief performed with food instead of habit, and unlike
 most of Cancer's memorial culture it is entirely ordinary, entirely daily, and not sad.
 
 **Tonal note worth protecting.** Cancer is easy to write as unrelentingly mournful, and the passes above
@@ -877,7 +877,7 @@ has no grammar for it. A grievance voiced on behalf of someone in your care is h
 with real force.
 
 The ordinary, benign form of this is simply that **the district's public life is conducted in the second
-person**: people speak up about their neighbour's damp wall, their ward's missed appointment, their creche's
+person**: people speak up about their neighbor's damp wall, their ward's missed appointment, their creche's
 staffing. It produces a genuinely attentive civic culture, and residents experience it as decency rather than
 as a workaround, because it *is* decency.
 
@@ -1010,7 +1010,7 @@ disqualifying answer. Hosts occasionally skip notice deliberately, to see who co
 indefinitely. Finding XIV's Zhongshan-descended caregiver is the exact case: structurally inside for decades,
 never sideways-admitted, and correctly perceiving that something was never extended.
 
-**Player-facing consequence:** a gate that cannot be solved by asking, doing favours, or completing a task
+**Player-facing consequence:** a gate that cannot be solved by asking, doing favors, or completing a task
 chain. The player must become *adjacent* — and directness will read as suspicious rather than honest.
 
 ---
@@ -1061,7 +1061,7 @@ The inward-core / outward-edge arrangement is a design choice, not a source clai
 ## XXIX. Conflict Geometry — the three structural frictions
 
 **Proposed** *(substrate §8; `D_Aspect_Geometry.md`)*. Finding XXI covers consequences of Cancer's own
-infrastructure on neighbours. This covers structural antagonism, which is different and was entirely absent.
+infrastructure on neighbors. This covers structural antagonism, which is different and was entirely absent.
 
 **Against the Yards — the runaway loop.** The Sanctuary's true structural opposite is the achievement-and-
 authority district, and the relationship is not a standoff but a **feedback loop**: every increment of
@@ -1207,7 +1207,7 @@ belonging here reaches past the household into community, ancestry and history. 
 faculty for limits** and **no faculty for a claim on one's own behalf.**
 
 > **The Sanctuary has no edge — at any scale.** Not around a home: doors are unlocked within residential
-> clusters and neighbours are expected to have access. Not around the district: there is no denial mechanism,
+> clusters and neighbors are expected to have access. Not around the district: there is no denial mechanism,
 > and the membership category only ever widens. **Not around a person:** nobody can assert a boundary on their
 > own behalf, because a claim on one's own behalf has no standing here.
 
@@ -1216,7 +1216,7 @@ admissions system with no refusal, and the grammar in which grievance is only ev
 Nobody had put them in a row.
 
 **Second-order: so the district's protective mechanism is not a boundary. It is other people's restraint.**
-You are safe in the Sanctuary because your neighbours choose not to intrude, not because anything stops them. That
+You are safe in the Sanctuary because your neighbors choose not to intrude, not because anything stops them. That
 works — it works extremely well, for two and a half centuries, and it is the reason the district is genuinely
 the warmest place in Concordia. **But it is a courtesy, not a structure**, and it can be withdrawn without any
 rule being broken, because there is no rule.
@@ -1271,7 +1271,7 @@ founding claim is *we never refuse.* It refused once. **And it responded by maki
 undocumentable.**
 
 **Second-order.** Because no record survives, **the district cannot say who was turned away, on what criteria,
-or how many.** It therefore cannot learn from it, cannot apologise for it specifically, and — the part that
+or how many.** It therefore cannot learn from it, cannot apologize for it specifically, and — the part that
 matters — **cannot rule out doing it the same way again**, because there is no way it was done.
 
 **Third-order, and this is the finding.** The people who were refused **are not here.** Every account of 2813
@@ -1326,13 +1326,13 @@ not a punishment for defiance. **It is what happened when it did everything corr
 is the most cooperative posture available, and it made no difference whatsoever to the outcome.
 
 **Third-order, and it re-reads a piece of canon that has always been presented as unrelated.** Canon lists,
-under Cultural Texture, a **care-debt parallel economy** — favours, time and emotional labor exchanged
+under Cultural Texture, a **care-debt parallel economy** — favors, time and emotional labor exchanged
 through informal social bonds rather than credits — noting it makes the district *"nearly impossible for the Government District
 to tax or regulate."*
 
 > **The care-debt economy is older than 2818 and it is not a response to it. But after 2818 it acquired a
 > second function that nobody in the district would state out loud: it is the part of the Sanctuary's life that no
-> formula can flag.** A favour has no compliance status. A rota nobody filed cannot be found noncompliant.
+> formula can flag.** A favor has no compliance status. A rota nobody filed cannot be found noncompliant.
 
 **Fourth-order — and this is why it is never said.** Naming it would be a claim on the district's own behalf
 *(Finding XXXI: the faculty that does not work here)*. So the avoidance is real, near-universal, and has never
@@ -1403,7 +1403,7 @@ the district has is participation, and participation is exactly the thing the de
 > hospice patients lose eligibility because they *improved*.** The discharge is fast — as little as two days'
 > notice — and researchers describe it for families as a nightmare. The reporting's own phrase is
 > *"kicked out of hospice for dying too slowly."* **And there is a readmission path**: patients who worsen can
-> re-enrol.
+> re-enroll.
 
 **The contrast is not that the Sanctuary is kinder. It is that the Sanctuary solved a real and genuinely cruel problem by
 removing the instrument that causes it.** Hospice discharge is agonising precisely *because* improvement is
@@ -1520,7 +1520,7 @@ clearly it reads as a patient who has become invested in their own refusal.
 **The Sanctuary's deficit is that nobody can make a claim on their own behalf.** So: does the district already possess
 an instrument that lets a person be helped **without making one?**
 
-**It does, and it is canon.** The **Quiet Register** — *"a nonverbal doorway-token system signalling 'I need
+**It does, and it is canon.** The **Quiet Register** — *"a nonverbal doorway-token system signaling 'I need
 help but can't ask directly right now.'"* No words, no petition, no standing required. **It is the district's
 one working self-advocacy device, and it works precisely because it is not advocacy.**
 
@@ -1537,15 +1537,15 @@ warm-soak houses.
 
 **Second-order — and here is why it does not solve the carer problem.** A token is hung **on a door**, and a
 door is a household, and **a household in the Sanctuary is defined by who it cares for.** So a carer who hangs the
-token is read — instantly, by everyone, through the only grammar available — as signalling **on behalf of the
-people inside.** Neighbours arrive to help with the ward.
+token is read — instantly, by everyone, through the only grammar available — as signaling **on behalf of the
+people inside.** Neighbors arrive to help with the ward.
 
 > **The token cannot be addressed to oneself.** The one instrument the district built for asking without
 > standing is a *household* signal, in a district where a household means a dependent, and it therefore routes
 > every request straight back through the faculty it was meant to bypass.
 
 **Third-order.** And there is a second, smaller instrument that gets closer, which canon also files as
-furniture: the **Threshold Waiting Rooms** — *"small neighbourhood spaces for people who've just received hard
+furniture: the **Threshold Waiting Rooms** — *"small neighborhood spaces for people who've just received hard
 news to decompress before going home to family; not clinical, just quiet and warm."*
 
 > **That is the only place in the Sanctuary where a person is permitted to be unreachable**, and it is
@@ -1613,7 +1613,7 @@ fit?**)*
 **Finding XV established Attunement as the district's most-performed daily practice and correctly scoped it as
 non-grief. This asks what it costs.**
 
-**What the rhythm demands is not work. It is *availability*.** Doors unlocked within clusters, neighbours
+**What the rhythm demands is not work. It is *availability*.** Doors unlocked within clusters, neighbors
 expected to have access, Open Door Hour, drop-in visiting, rotating care shifts anyone can sign up to, broth
 kitchens that never close, someone always crying somewhere and someone always comforting. **None of that is
 laborious.** All of it requires that you be **interruptible**, continuously, as a baseline condition of living
@@ -1626,7 +1626,7 @@ decline without declining the relationship (Finding XXXIV: there is no professio
 **Third-order, and this is the finding.** Everyone here reads posture and face before speech — it is the
 district's genuine excellence and its warmest quality.
 
-> **So you cannot have a bad day privately in the Sanctuary.** Your neighbours will notice, correctly, within hours,
+> **So you cannot have a bad day privately in the Sanctuary.** Your neighbors will notice, correctly, within hours,
 > and they will act, kindly and competently. **Recovery of any kind — from illness, grief, humiliation, a bad
 > stretch — is conducted in public**, attended, discussed gently, and witnessed at every stage.
 
@@ -1736,7 +1736,7 @@ correct. This pass can state the mechanism underneath it, which was not previous
 
 **It passes the three tests.** *Unintended* — nobody designed it, and every component is a real virtue doing
 exactly what it was built to do. *Unnoticed in-world* — residents experience unlocked doors, attentive
-neighbours, adopted Keepings and open rolls as the district being good, **and they are right**; that is what
+neighbors, adopted Keepings and open rolls as the district being good, **and they are right**; that is what
 those things are. *Discoverable rather than announced* — it takes reading the capacity figures nobody keeps
 (XXXV), noticing who is actually receiving at a Respite Circle (XXXIV), and asking why the counterculture is
 never argued by a carer (XXXVII).
@@ -1774,7 +1774,7 @@ capability reading makes unavoidable: if the district has no edge at any scale (
 The Sanctuary has a threshold at every single front door, universally, by physics.
 
 > **And it carries none of the social function a threshold carries everywhere else.** The doors inside
-> residential clusters are unlocked and neighbours are expected to have access *(canon)*. **You cross the
+> residential clusters are unlocked and neighbors are expected to have access *(canon)*. **You cross the
 > vestibule without being admitted.** It stops the cold and it stops nothing else.
 
 **Second-order — so the room is repurposed, and this is the finding.** In a district where you cannot decline
@@ -1833,7 +1833,7 @@ one sense that would let a person be genuinely alone is the one the district's o
 sends out *goods* rather than only expertise was correct and worth making.
 
 **What the re-derivation adds is the export nobody has counted.** Canon: the Sanctuary runs **a care-debt parallel
-economy** — favours, time and emotional labor, exchanged through informal bonds rather than credits — and it
+economy** — favors, time and emotional labor, exchanged through informal bonds rather than credits — and it
 is *"nearly impossible for the Government District to tax or regulate."*
 
 > **Care-debt does not stay inside the district.** Every other quarter of Concordia sends the Sanctuary its wounded,
@@ -2263,7 +2263,7 @@ Below.
 ## Gate 11 — Plausibility *(second run)*
 
 - **XXXV (nobody's recovery is registered).** *Would a person actually do this?* **Yes — and the real-world
-  analogue is that recognizing recovery requires an instrument, and institutions without one routinely carry
+  analog is that recognizing recovery requires an instrument, and institutions without one routinely carry
   people for years.** *At this cost?* The cost is capacity and an unmeasured population, not cruelty. **Cleared.**
 - **XXXIV (Respite Circles used in the wrong direction).** ⚠ **Flagged, examined, retained with a bound.**
   *Almost nobody receiving* overstated it. **Some people do receive**, particularly those pushed there by a
@@ -2297,7 +2297,7 @@ as a **courtesy**, generously and sincerely, and the child learns early that the
 is choosing to give.
 
 **And the sharper half, which the Child could not have known to ask for.** Substrate: labels assigned to a
-child here **stick, and become the labelled child's behavior.** Classification is destiny.
+child here **stick, and become the labeled child's behavior.** Classification is destiny.
 
 > **A label assigned at seven is never revised — for exactly the same reason a ward's recovery is never
 > registered (XXXV) and a Keeping is never released (XXXVI). Downward status changes do not exist in this
@@ -2459,7 +2459,7 @@ accusation.**
 **What the charge catches, redirected: the Sanctuary systematically refuses to be the subject of its own
 sentence.** It is owed by half the city and cannot present the bill (XLVI). It has the largest grievance in
 Concordia and filed a form (XXXIII). Its carers cannot ask (XXXIV), its wards cannot report recovery (XXXV),
-its elders cannot be absolved, and its children learn at seven that a boundary is a favour.
+its elders cannot be absolved, and its children learn at seven that a boundary is a favor.
 
 > **It is not passive. It is agentic in every direction except toward itself** — and it experiences that as
 > service, which is the one reading under which nobody has to do anything about it.

@@ -86,19 +86,48 @@ def deny(matched, field):
     sys.exit(0)
 
 
+# =====================================================================
+# TEMPORARILY RESCINDED - 2026-09-06, at the developer's direction.
+#
+# Reason: the guard fired on a Step 3 research query during the Shirayuki
+# re-run. The query was legitimate under 00_RUNBOOK.md Step 2a's own
+# guardrail ("research a PRACTICE and the constraint that produced it,
+# never a people and what they are like") - it was searching for what
+# KIND OF INSTITUTION produces a music scene - but it named a demonym,
+# so it was refused. Real-world research is the input-data layer
+# (LAW 0-R), and real practices live in real named places; a blanket
+# query-level ban costs accuracy at the point where accuracy is the
+# whole purpose of searching.
+#
+# WHAT IS AND IS NOT RESCINDED:
+#   - RESCINDED: the mechanical block on SEARCH QUERIES.
+#   - NOT rescinded, and unchanged: the law itself. A real-world basis is
+#     still a GPS coordinate only, never a cause. Composition-then-culture
+#     sequencing still binds. Nothing about what may be WRITTEN changes.
+#
+# The discipline therefore moves from the query to the SYNTHESIS, where
+# it always mattered more, and is now carried by the pass rather than by
+# this script. See 03_Research.md sections I and R-4.
+#
+# TO RESTORE: delete this comment block and un-comment the body below.
+# Nothing else was changed - settings.json wiring, the country list, the
+# deny() message and the rationale above are all intact.
+# =====================================================================
 def main():
-    try:
-        payload = json.load(sys.stdin)
-    except Exception:
-        return
-    tool_input = payload.get("tool_input") or {}
-    for field in ("query", "prompt", "url"):
-        value = tool_input.get(field)
-        if not value:
-            continue
-        m = PATTERN.search(value)
-        if m:
-            deny(m.group(0), field)
+    return  # <-- rescinded 2026-09-06; delete this line to re-arm
+
+    # try:
+    #     payload = json.load(sys.stdin)
+    # except Exception:
+    #     return
+    # tool_input = payload.get("tool_input") or {}
+    # for field in ("query", "prompt", "url"):
+    #     value = tool_input.get(field)
+    #     if not value:
+    #         continue
+    #     m = PATTERN.search(value)
+    #     if m:
+    #         deny(m.group(0), field)
 
 
 if __name__ == "__main__":

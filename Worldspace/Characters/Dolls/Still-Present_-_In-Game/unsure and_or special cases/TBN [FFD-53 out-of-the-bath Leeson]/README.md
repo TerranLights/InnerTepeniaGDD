@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder — Firefly Doll series.)*
 
-Long, dark brown hair, warm brown eyes, a light dusting of freckles, and a soft, natural face. Shown fresh out of the bath: a bear-eared white towel wrapped turban-style around the head, wrapped in a plain white bath towel, holding a hairdryer or hairbrush, seated on a grey couch.
+Long, dark brown hair, warm brown eyes, a light dusting of freckles, and a soft, natural face. Shown fresh out of the bath: a bear-eared white towel wrapped turban-style around the head, wrapped in a plain white bath towel, holding a hairdryer or hairbrush, seated on a gray couch.
 
 She reads as: unguarded, cozy, and completely at ease — no styling beyond the towels themselves, direct but soft eye contact, and ordinary post-bath grooming actions (drying hair, brushing it out) that read as private, everyday routine rather than a staged pose. Consistent with the "out-of-the-bath" working title.
 

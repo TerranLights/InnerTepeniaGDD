@@ -210,7 +210,7 @@ as insufficiently fresh rather than kept.
 distance, proves intense up close" (farthest planet, fastest winds) theme duplicates the sheltered-yet-severe
 irony already grounding T-5 (Taurus + Venus) — Janbogo's own G2 profile (sheltered bay position, yet among the
 most severe recorded katabatic wind events). Taurus's "reads placid, isn't — determination overrides" trait was
-already spent on T-5; no additional established Janbogo particular justifies a second, separately-catalogued
+already spent on T-5; no additional established Janbogo particular justifies a second, separately-cataloged
 hit on the same underlying irony.
 
 **18. Taurus + Pluto.** *Candidate generated and kept — T-8.* Pluto's registered content — the Charon co-orbit,
@@ -310,7 +310,7 @@ population (the outdoor-exposed dock/highway labor minority, whose day is organi
 Taurus-favorable "excellent in acute crisis" conditions rather than slow social vetting), a fast, loud,
 quickly-formed-and-dissolved solidarity pattern specific to that population is well grounded and genuinely
 different in kind from the general population's slow verdict. **Survives.** Kept as **T-6b**, category: person
-(a social pattern centered on the dock/highway labor archetype already catalogued at Phase 10).
+(a social pattern centered on the dock/highway labor archetype already cataloged at Phase 10).
 
 **T-7 (Loose Sprawl — physical/macro-scale register).** Opposite-register candidate: internal/psychological
 (an individual's identity solid-from-a-distance, fragmented-up-close) or leisure-domain parallel. **Rejected —

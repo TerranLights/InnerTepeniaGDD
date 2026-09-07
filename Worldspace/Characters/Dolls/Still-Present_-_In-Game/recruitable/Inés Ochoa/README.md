@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder — SES071 series.)*
 
-Long, wavy dark brown hair with warm caramel highlights, worn loose and parted center. Warm brown eyes behind round, thin wire-frame glasses. A grey ribbed long-sleeve top with a red-and-navy plaid collar and cuffs, paired with a matching red plaid pleated mini skirt, black knee-high socks, and black patent mary-jane-style shoes — a deliberately schoolgirl-adjacent look, but styled and worn with self-assured comfort rather than costume stiffness. In one shot she's shown reading a magazine on a bed, fully absorbed in it.
+Long, wavy dark brown hair with warm caramel highlights, worn loose and parted center. Warm brown eyes behind round, thin wire-frame glasses. A gray ribbed long-sleeve top with a red-and-navy plaid collar and cuffs, paired with a matching red plaid pleated mini skirt, black knee-high socks, and black patent mary-jane-style shoes — a deliberately schoolgirl-adjacent look, but styled and worn with self-assured comfort rather than costume stiffness. In one shot she's shown reading a magazine on a bed, fully absorbed in it.
 
 She reads as: genuinely studious rather than performing studiousness — the glasses and the reading material aren't props for a look, she's someone who's actually paying attention to what's in front of her. A quiet intensity underneath the softness; her mouth is often slightly parted in the middle of a thought rather than posed for the camera.
 

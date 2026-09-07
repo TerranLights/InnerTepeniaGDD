@@ -42,7 +42,7 @@ Tepenia.
    cycle (formalized culturally as the Lake-Ice Watch tradition).
 7. **Specialized water-chemistry-aware infrastructure** for the system's hypersaline and landlocked marine
    basin lakes, distinct from standard freshwater-only lake management most other cities would need.
-8. **The Wirawan Lake Survey Office** (established) — dedicated cataloguing infrastructure for the varied
+8. **The Wirawan Lake Survey Office** (established) — dedicated cataloging infrastructure for the varied
    lake system.
 
 ## Paleoclimate/Research Infrastructure

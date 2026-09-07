@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder.)*
 
-Long, wavy light auburn/honey-brown hair with soft bangs. Warm brown eyes, deep red lipstick. A delicate white eyelet-lace robe-style dress, worn open over a brown leather-strap harness bra; a black choker and a beaded, stone-pendant necklace layered at the throat; gold strappy heeled sandals. Shown seated in a sunlit room with sheer white curtains, a grey faux-fur throw, and fresh sunflowers close at hand.
+Long, wavy light auburn/honey-brown hair with soft bangs. Warm brown eyes, deep red lipstick. A delicate white eyelet-lace robe-style dress, worn open over a brown leather-strap harness bra; a black choker and a beaded, stone-pendant necklace layered at the throat; gold strappy heeled sandals. Shown seated in a sunlit room with sheer white curtains, a gray faux-fur throw, and fresh sunflowers close at hand.
 
 She reads as: warm, soft-focus romanticism — the whole setting (light, flowers, lace) is gentle and inviting, but the harness detail underneath the delicate robe and her direct, unhurried gaze keep it from reading as purely demure. Someone comfortable holding both registers — softness and self-possession — at once.
 

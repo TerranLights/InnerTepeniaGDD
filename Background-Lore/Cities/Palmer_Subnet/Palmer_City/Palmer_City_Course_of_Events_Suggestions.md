@@ -22,7 +22,7 @@ by people already living there rather than planned in advance by anyone.
 
 ## 2. Needle Down
 
-Early settlers cataloguing the original Palmer Station buildings find a cache of old jazz records,
+Early settlers cataloging the original Palmer Station buildings find a cache of old jazz records,
 left behind by whoever worked there before. **But** records with no player, no venue, and no
 established audience could easily have stayed a curiosity nobody acted on. **Therefore** someone plays
 them anyway, for the whole young settlement, within the first year or two of founding — an

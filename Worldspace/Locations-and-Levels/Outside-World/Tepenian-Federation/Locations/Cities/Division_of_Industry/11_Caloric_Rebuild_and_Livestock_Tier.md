@@ -120,7 +120,7 @@ catch needs 13,000 FISHERS.**
 
 ### The crop tier — and `08` §4.5's open question answers itself
 
-Using a potato-analogue staple *(the historical polar staple, and the best kcal/m² in controlled environment
+Using a potato-analog staple *(the historical polar staple, and the best kcal/m² in controlled environment
 agriculture)* at **7,000 kcal/m²/yr**:
 
 | | Growing area |

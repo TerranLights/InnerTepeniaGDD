@@ -2,7 +2,7 @@
 
 **Course of Events Suggestion #5**, translated from `Marambio_Course_of_Events_Suggestions.md`. Struck
 in full — this chain was built entirely around Seymour Island's real-world fossil beds and a
-paleontologist figure (Ingrid Solberg-Vidal) cataloguing them, which the developer has confirmed is a
+paleontologist figure (Ingrid Solberg-Vidal) cataloging them, which the developer has confirmed is a
 real-world geological fact about the location, not a driver of Marambio's population culture or a piece
 of Tepenia's own fiction. See the same correction on record in
 `Neo-Races-and-Cultures/_Method/Palmer_Subnet_Phase1c_Summary.md` and `Marambio_Catalog.md`

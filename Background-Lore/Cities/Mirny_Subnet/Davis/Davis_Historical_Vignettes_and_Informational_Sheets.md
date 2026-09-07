@@ -49,7 +49,7 @@ inheriting an ethos chosen deliberately, in argument, rather than one that simpl
 
 ## The Core Wirawan Wouldn't Publish Alone
 
-**Naturalist "Ratna Wirawan" *(placeholder, not developer-chosen)*** is credited with mapping and cataloguing
+**Naturalist "Ratna Wirawan" *(placeholder, not developer-chosen)*** is credited with mapping and cataloging
 the Vestfold Hills' unusual lake system and developing the paleoclimate sediment-core methodology that became
 Davis's own distinct research specialty — using layered lake sediment, rather than ice cores, as a climate-
 history archive.

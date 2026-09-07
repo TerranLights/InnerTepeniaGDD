@@ -24,7 +24,7 @@ more — a dutiful, adequate administrative function, sized precisely to its man
 
 One archivist wants the archive to be genuinely comprehensive, not merely adequate — a personal ambition
 that goes well beyond what the actual mandate demands, pushing recordkeeping past minimum requirements,
-cataloguing detail after detail nobody specifically asked for. That drive doesn't sit well with everyone
+cataloging detail after detail nobody specifically asked for. That drive doesn't sit well with everyone
 around it: sustaining this kind of ambition takes real, ongoing effort across an entire career, effort that
 has to be justified, funded, and tolerated by people who see the archive's job as already finished the
 moment the Federation's own requirements are met.
@@ -40,7 +40,7 @@ moment the Federation's own requirements are met.
 
 **Design notes — what kind of conflict this needs:** a conflict between an archivist convinced that
 thoroughness matters for its own sake, and a colleague or overseer who thinks that conviction is excessive —
-a waste of limited institutional effort, or worse, a genuine risk, since cataloguing detail "nobody asked
+a waste of limited institutional effort, or worse, a genuine risk, since cataloging detail "nobody asked
 for" edges close to overreach for an archive already handling sensitive material about former Upper Earth
 officials. A should not read as simply right and B as simply small-minded: B's caution about scope-creep and
 unmandated intrusion is a legitimate institutional concern, not petty gatekeeping, even though history ends
@@ -67,7 +67,7 @@ obsession, sustained across a whole career, quietly shaping the entire instituti
 ## 2nd-Order Change
 ###### The direct, immediate structural consequence of *this specific outcome*.
 
-Because the extra cataloguing goes well past the archive's administrative mandate, it starts capturing
+Because the extra cataloging goes well past the archive's administrative mandate, it starts capturing
 incidental material that has nothing to do with visas or customs at all — guest lists from the city's own
 unnamed hosted gatherings, informal notes on the city's own social and cultural rhythms — turning the
 archive, almost by accident, into a cultural record as much as a bureaucratic one.

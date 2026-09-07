@@ -158,7 +158,7 @@ retroactively, which is the substance of what Step 1F asks for even though the l
   deficit resolution** directly (§B above) — without this comparable, the "at seemingly all hours" vs.
   physical-seasonality tension would have had no concrete real-world anchor for the both-are-true reconciliation.
 - **Durban's landlocked-hinterland-served-by-one-port shape CHANGED the G5 strength finding's framing** — it is
-  the closest real structural analogue to Halley's own total dependency on Sanay/Belgrano for any seaborne
+  the closest real structural analog to Halley's own total dependency on Sanay/Belgrano for any seaborne
   Upper Earth trade, and sharpened what was otherwise a flatter "receiving port" claim into a genuine structural
   dependency claim.
 - **Silicon Valley's garage-origin material ORNAMENTED, not changed**, honestly recorded as the weakest of the

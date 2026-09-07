@@ -157,7 +157,7 @@ addresses so the physics can be re-checked or extended rather than re-guessed.*
 - **Bonnen Batteries, "Battery Capacity vs Temperature"** — https://www.bonnenbatteries.com/battery-capacity-vs-temperature-how-temperature-affects-lithium-ion-battery-capacity/
   · **−20–30% near freezing; 50–60% of normal at −20 °C**
 - **"From Range Loss to Recovery — Cold Weather Challenges and Design Strategies for Commercial Electric Vehicle Fleets"** — https://arxiv.org/pdf/2512.00541
-  · *pre-conditioning/warming strategies — the real-world analogue of the warm-then-charge option*
+  · *pre-conditioning/warming strategies — the real-world analog of the warm-then-charge option*
 - *Voltage sag under load in cold:* WattCycle — https://www.wattcycle.com/blogs/news/how-do-weather-conditions-affect-lithium-battery-performance
 
 ### Materials and mechanical failure — §3

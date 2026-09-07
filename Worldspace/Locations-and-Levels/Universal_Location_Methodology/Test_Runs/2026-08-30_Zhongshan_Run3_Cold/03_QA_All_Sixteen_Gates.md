@@ -390,7 +390,7 @@ facts from a post-war document and stayed inside a pre-war frame.** ✓
 > ### ⚠ GATE I FIRES — the Inflected class is under-used, exactly as `01` §5.1 predicts
 >
 > **`01` §5.1: *"The Inflected class is the workhorse and is systematically under-used,"* and a pass that skips
-> it in favour of wholly-invented material *"is working harder for a worse result."***
+> it in favor of wholly-invented material *"is working harder for a worse result."***
 >
 > **This pass produced seven Originated elements and exactly one Inflected one.** That ratio is the diagnostic.
 > **The specific miss: `National_Holidays.md` establishes Federation-wide observances, and the pass wrote a
@@ -427,7 +427,7 @@ address moves from `diffuse` to `in the parent` and this is a substantially diff
 | **Conflicts mined or smoothed?** | ✓ **Mined.** One real conflict — four different deficits from four generators — resolved both-are-true into a single property at four scales. **Not smoothed into agreement** |
 | **Nulls recorded as nulls?** | ✓ **G6 recorded as a null with its reason** (pre-war frame). G3's exclusion recorded. Phase 5c's near-null recorded and classified |
 | **Deficit researched AFTER the profile named it?** | ✓ Yes, and the ordering is stated at the head of Step 3 |
-| **Unrecognized Instrument run AFTER the profile?** | ✓ **Yes — and it produced the pass's central finding.** ⚠ **But it was never labelled as such at the time**, which is a reporting failure rather than a procedural one. See below |
+| **Unrecognized Instrument run AFTER the profile?** | ✓ **Yes — and it produced the pass's central finding.** ⚠ **But it was never labeled as such at the time**, which is a reporting failure rather than a procedural one. See below |
 
 > ### The Unrecognized Instrument, recognized late
 >
@@ -466,7 +466,7 @@ address moves from `diffuse` to `in the parent` and this is a substantially diff
 > **this is corroboration, not independent derivation**, and it is recorded as such rather than presented as a
 > fourth agreeing generator.
 
-**VERDICT: PASS on procedure. One labelling failure and one unused generator, both recorded.**
+**VERDICT: PASS on procedure. One labeling failure and one unused generator, both recorded.**
 
 ---
 
@@ -490,7 +490,7 @@ address moves from `diffuse` to `in the parent` and this is a substantially diff
 | **F** | Pass on type/status/frame; **partial fire on Band** |
 | **I** | **FIRED** — Inflected under-used, exactly as predicted |
 | **P** | N/A — correctly; discharged from the child side |
-| **G** | Pass on procedure; one labelling failure, one unused generator |
+| **G** | Pass on procedure; one labeling failure, one unused generator |
 
 **Five gates fired. Two of them — 9 and 11 — produced material the pass would not otherwise contain.**
 **One gate (6) could not be run at all.** **One gate (0) failed in the direction it is specifically warned about

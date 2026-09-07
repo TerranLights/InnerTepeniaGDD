@@ -493,7 +493,7 @@ Bob" case).
 | 9 | Mercury (planetary) | NULL | Duplicates Phase 4's own differentiation axis |
 | 10 | Venus (planetary) | HIT 7 kept | Fresh — sharpens Phase 1 G2 deficit with aesthetic framing, doubly-converging source |
 | 11 | Earth (planetary) | NULL | Points at a question Phase 2 deliberately reserves for later phases; also redundant with Phase 0's G1 |
-| 12 | Mars | HIT 8 kept | Fresh interpretive layer on the already-catalogued founding-era core |
+| 12 | Mars | HIT 8 kept | Fresh interpretive layer on the already-cataloged founding-era core |
 | 13 | Asteroid Belt | HIT 9 kept | Fresh, three-way-grounded (Phase 7b + Asteroid Belt + Pisces governance-shadow) |
 | 14 | Jupiter | HIT 10 kept | Fresh emotional register for Phase 2's own "testable, not certain" arrival mode |
 | 15 | Saturn | HIT 11 kept | Fills Phase 8's explicitly-flagged-open indoor-dress gap with grounded material |

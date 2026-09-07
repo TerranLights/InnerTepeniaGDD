@@ -22,7 +22,7 @@ from `../District_Source_Index.md`, or from conversation memory.
 - `../District_Culture_Development_Plan.md` — the *what* and *in what order*: the 8-phase structure, the
   per-district checklist, the progress tracker.
 - `../District_Source_Index.md` — the *where*: every file in the repo carrying real content about each district.
-- `../../Real-World_Basis_Extrapolation_Method.md` — the technique for deriving concrete places/things/people/
+- `../../../Real-World_Basis_Extrapolation_Method.md` — the technique for deriving concrete places/things/people/
   settings from a district's real-world Inspirational-Influences picks.
 - `Outside-World/.../City_Megasheets/City_Megasheet_Compilation_Guide.md` — the master synthesize → invent →
   cross-reference pipeline every district's `Full_Extrapolation.md` was originally built with, and that all new
@@ -46,14 +46,14 @@ discipline for avoiding this, not a one-off Fashion note.
 **Second binding lesson, from Cancer's from-scratch rewrite (2026-08-16): actually run the research.** The point
 of these phases is to *generate new culture*, not to re-label material the district already had under new
 headings. The developer's own words when this went wrong: *"stop repurposing everything into new packages."*
-The single most effective corrective is `../../Real-World_Basis_Extrapolation_Method.md`, executed properly —
+The single most effective corrective is `../../../Real-World_Basis_Extrapolation_Method.md`, executed properly —
 which means **real web research on every one of the district's `District-Inspirational-Influences.md` picks,
 at the concrete level, not recalled from memory.** Cancer's first pass worked from memory, used two picks
 loosely, and left four untouched; when the research was actually run, three of those four untouched picks
 produced the strongest material in the district. See that file's worked-example table — it is the reference
 standard for what a properly-executed pass looks like.
 
-**The generative toolkit: `../../Cultural_Synthesis_Techniques.md`.** Fourteen named techniques, each a
+**The generative toolkit: `../../../Cultural_Synthesis_Techniques.md`.** Fourteen named techniques, each a
 *question with a structure* rather than an answer, with divergence tables showing the same operation producing
 unlike results across different kinds of place. This is where the actual new culture comes from — the phase
 files say *what* to cover, the toolkit says *how to invent it*. Its one hard rule: **never carry another
@@ -68,7 +68,7 @@ least one is wrong.
    principle.** Also read first. Prevents a well-sourced pass from rendering a district as sinister.
 0. `00e_Substrate_Application_Pass.md` — how to apply `../Zodiac_Personality_Substrate/` to a district.
    Two modes (second pass for Cancer/Taurus/Leo, first-pass input for the other ten), the overlap check that
-   stops it becoming a re-labelling exercise, the capability reading, and the translation discipline.
+   stops it becoming a re-labeling exercise, the capability reading, and the translation discipline.
 0. `00f_Review_Panel.md` — **positioned observers who read a finished location and say what they would add,
    doubt, or flag.** Added 2026-08-29 to cover the one thing the other gates structurally cannot: what a person
    standing in the place would notice that the author would not. Runs as Gate 10. **Built on K.M. Weiland's
@@ -138,7 +138,7 @@ because *Cancer* is what it is — that implies nothing about what any other dis
 reason to expect a hospital-equivalent, a Green Ledger-equivalent, or a Keeping-equivalent anywhere else, and
 inventing one "because Cancer has one" is precisely the failure this methodology exists to prevent.
 
-The binding rule from `../../Cultural_Synthesis_Techniques.md` applies with full force: **never carry one
+The binding rule from `../../../Cultural_Synthesis_Techniques.md` applies with full force: **never carry one
 location's answers into another — if two places produce similar-shaped answers to the same technique, at least
 one of them is wrong.** `00c_Completion_QA_Checklist.md`'s **Gate 4 (Swap Test)** is the mechanical check: if a
 finding would survive being swapped onto a comparable district essentially unchanged, it hasn't localised and
@@ -406,7 +406,7 @@ insufficient, because **material never written is indistinguishable from materia
 protocol: identify what would foreclose the choice, **write the surrounding culture in full anyway**, and where
 the substrate hands you the deciding artifact, **record it as available and deliberately withheld with a note on
 what it would decide.** Capricorn's Gate 7 does this with the apprentice's handbook. **The next pass inherits a
-loaded, labelled gun rather than an absence.** → `00e` §5.
+loaded, labeled gun rather than an absence.** → `00e` §5.
 
 ### Smaller
 

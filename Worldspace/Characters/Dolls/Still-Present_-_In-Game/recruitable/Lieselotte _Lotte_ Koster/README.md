@@ -36,7 +36,7 @@
 
 **Variant 1** *(`Reference_Images/variant 1/`)*: Platinum-blonde wavy hair, blue eyes. Oversized rose-tinted round sunglasses (worn both down and pushed up), diamond drop earrings, a rhinestone-and-pearl choker, a black top. Glamorous, editorial "It girl" energy — polished, deliberately styled, aware of being looked at.
 
-**Variant 2** *(`Reference_Images/variant 2/`)*: Shorter honey-blonde bob, blue-grey eyes, visible freckles. An off-shoulder white graphic tee with gothic-script text and a black mini skirt. Younger, edgier, streetwear energy — more casual and unguarded than Variant 1.
+**Variant 2** *(`Reference_Images/variant 2/`)*: Shorter honey-blonde bob, blue-gray eyes, visible freckles. An off-shoulder white graphic tee with gothic-script text and a black mini skirt. Younger, edgier, streetwear energy — more casual and unguarded than Variant 1.
 
 Both are viable; nothing about her personality or backstory is developed yet to help decide between them.
 

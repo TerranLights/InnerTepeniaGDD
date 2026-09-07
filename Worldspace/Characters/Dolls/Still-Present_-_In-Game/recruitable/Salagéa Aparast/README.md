@@ -43,7 +43,7 @@
 
 *(See `Reference_Images/` folder — SES026 boat series.)*
 
-Distinctly olive-green hair — short, wavy, clearly an elected color — with grey-green eyes that match it. Full, voluptuous build; comfortable and entirely unself-conscious in it. The signature look across the boat reference images: a deep olive green cutout monokini swimsuit with string ties at the waist, a bright yellow windbreaker jacket worn open over it, yellow socks, yellow water/dive shoes, and white dive goggles pushed up on her forehead. A small silver necklace. The olive-green and yellow color coordination is consistent across images and reads like a deliberate signature, not a coincidence.
+Distinctly olive-green hair — short, wavy, clearly an elected color — with gray-green eyes that match it. Full, voluptuous build; comfortable and entirely unself-conscious in it. The signature look across the boat reference images: a deep olive green cutout monokini swimsuit with string ties at the waist, a bright yellow windbreaker jacket worn open over it, yellow socks, yellow water/dive shoes, and white dive goggles pushed up on her forehead. A small silver necklace. The olive-green and yellow color coordination is consistent across images and reads like a deliberate signature, not a coincidence.
 
 In SES026-01 she's standing on the boat steps, expression direct and faintly competitive — someone who is very comfortable in physical, outdoor environments and has a relationship with them that is personal rather than recreational. In SES026-06 she's seated on the boat rail, more relaxed, the competitive edge replaced by ease. She belongs exactly where she is.
 
@@ -58,7 +58,7 @@ She reads as: someone who dresses entirely for function and doesn't need anyone 
 ## Backstory Summary
 A Tepenia native originally from Belgrano. She lives on a boat she sails herself — her home is the vessel, not a district. She makes her living by collecting datashards from the old pre-war internet and delivering them throughout Tepenia so the information can be logged and archived via the Arcanet. She works tirelessly to preserve the backlog of civilizational knowledge so it is never lost, all while evading hostility from Upper Earth forces.
 
-During the Long Night War, she chose not to flee into space through Amundsen Tower. She stayed on Earth specifically to continue cataloguing and archiving pre-war knowledge — ensuring that what was recorded could be transmitted to the robots and humans who did escape, so that history is preserved across the solar system, not just on the surface.
+During the Long Night War, she chose not to flee into space through Amundsen Tower. She stayed on Earth specifically to continue cataloging and archiving pre-war knowledge — ensuring that what was recorded could be transmitted to the robots and humans who did escape, so that history is preserved across the solar system, not just on the surface.
 
 **Placement RESOLVED (2026-07-03, see TODO.md):** DLC 5, Atlantic Coastal Region — not a Concordia district. She remains an active boat-dwelling datashard courier near Belgrano, her home city; she does not settle in Concordia and the Cancer/No-One-Left-Behind Registry framing does not apply to her.
 

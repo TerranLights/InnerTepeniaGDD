@@ -198,7 +198,7 @@ volume, sub-linearly: `staff ∝ MGD^0.65`)*, network *(scales with extent, line
 population)*. **A single "workers per unit volume" figure understates any networked industry ~8×.**
 
 **⚠ Failures and gaps recorded:** AWWA and RSMeans paywalled · NEIWPCC PDF unreadable · **B3 robot
-maintenance and B4 coolant/siligel have NO real-world analogue** *(best proxy: aviation MRO at 0.36
+maintenance and B4 coolant/siligel have NO real-world analog** *(best proxy: aviation MRO at 0.36
 man-hours per flight hour)*.
 
 ---

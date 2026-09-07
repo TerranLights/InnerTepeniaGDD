@@ -609,7 +609,7 @@ character brief needs — concrete proof this combination reads as plausible rat
 special-pleading. The "forgiveness of captors, preserved humor, deep mutual care" triad is a clean three-item
 checklist for auditing which resilience markers the defector visibly displays as observable companion
 behavior, independently converging with (and adding humor/forgiveness specifically to) the eight
-resilience-engendering building blocks already catalogued in the companion extraction
+resilience-engendering building blocks already cataloged in the companion extraction
 (`07_Treating_PTSD_Clinical_Handbook.md`, Finding 63).
 
 ---

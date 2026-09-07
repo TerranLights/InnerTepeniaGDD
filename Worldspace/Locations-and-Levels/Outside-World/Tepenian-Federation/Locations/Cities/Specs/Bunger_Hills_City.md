@@ -117,7 +117,7 @@ sea by 64–145 km of ice shelf, so it carries a continental temperature range a
 **Prevailing winds:** ⭐⭐ **EASTERLY, and fierce in event — but the annual mean is only 4.6 m/s.** *The basin
 sits **out of the katabatic drainage**.* ⚠ **Compare its neighbors: Mirny 10–14 m/s and "one of the windiest
 coastal stations in Antarctica," Casey 7–10 m/s.** ***One of the calmest coastal sites in the Federation; its
-nearest analogue is Davis at ~5.6 m/s — the other oasis city out of the katabatic regime.***
+nearest analog is Davis at ~5.6 m/s — the other oasis city out of the katabatic regime.***
 **Record extremes:** ⚠ **ESTIMATED — record high approximately +12 °C; record low approximately −39 °C**
 *(bracketed against Davis, Mirny and Casey; not measured)*
 **Temperature range:** coldest month **−18.7 °C**; warmest month **+0.6 °C**; **annual amplitude 19.3 K**

@@ -37,7 +37,7 @@
 >
 > ### ⭐ WHY A NARROW RIBBON RATHER THAN A BLOB — both reasons are physical
 > **1. The katabatic runs downslope, seaward.** *A corridor hugging the coast runs ACROSS the wind; every
-> kilometre widened inland pushes the city into the acceleration zone.* **Narrow and coastal is the sheltered
+> kilometer widened inland pushes the city into the acceleration zone.* **Narrow and coastal is the sheltered
 > choice.**
 > **2. The ice here is ABLATING** — *this coast is a katabatic scour zone, which is why the oases are exposed
 > at all.* **Surfaces lower and foundations expose, so the cheapest city is the one with the least ground

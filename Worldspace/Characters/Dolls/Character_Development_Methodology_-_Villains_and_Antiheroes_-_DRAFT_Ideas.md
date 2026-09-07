@@ -19,7 +19,7 @@ twelve Archetypal Antagonists (six morally-orthogonal pairs) and the Contagonist
 definition (love of power/control, not love of pain), the Self-Appointed/Usurper Rule, Assassin-vs.-Avenger
 motive calculus, and the Understandable Villain principle's hard redemption limit; Lisle's Superman vs. The
 Gremlin fix (give the protagonist one of the antagonist's worst qualities and vice versa) and the Sadist/Bully-
-adjacent material in her Sins catalogue.
+adjacent material in her Sins catalog.
 
 ---
 
@@ -969,7 +969,7 @@ the real-world-adjacent English/Arthurian/French material itself.
 - **Layered, Incremental Sympathy** (Mordred, Ch. 5) — rather than a single backstory-reveal scene, Mordred's
   sympathy accretes across *centuries* of retellings, each adding one more mitigating causal factor without ever
   erasing the previous layers of condemnation (first: the queen may be complicit, diluting his sole
-  responsibility; later: he's the product of incest he didn't choose and is "swayed towards repeating the same
+  responsibility; later: he's the product of incest he didn't choose and is "swayed toward repeating the same
   sin" that produced him; later still: the barons' bad advice shares the blame). The technique worth extracting
   from the *shape* of this, not the specific plot beats: reveal a villain's mitigating context in successive
   small doses across a companion's questline rather than one full-dump backstory scene, letting the audience

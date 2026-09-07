@@ -16,7 +16,7 @@
 - **The reward justifies the difficulty.** Kendra is among the most powerful recruitable companions in the game. She also effectively wins a portion of the Final Climax by default through Presence-Based Deterrence (Upper Earth operatives flee rather than call reinforcements). The difficulty of earning her must be proportional to what she provides.
 - **Enemies are unique to the South Pole.** No enemy type in this DLC appears in the main game or other DLCs. They must be credibly capable of defeating Kendra — anything less would be lore-incoherent.
 - **The environment is a co-antagonist.** The South Pole itself fights the player. This is not flavor — it is a mechanical reality designed into every area.
-- **Equipment carry restriction (Honest Hearts analogue).** The player cannot bring everything. A carry limit is imposed at DLC entry. Exact weight number TBD, but the principle is confirmed: preparation decisions matter before entry. Minimum five ways to raise the limit must exist (per series design law).
+- **Equipment carry restriction (Honest Hearts analog).** The player cannot bring everything. A carry limit is imposed at DLC entry. Exact weight number TBD, but the principle is confirmed: preparation decisions matter before entry. Minimum five ways to raise the limit must exist (per series design law).
 - **Point of no return is the geography.** Concordia is 1,660 km from the South Pole. Once in, the player is in. No supply runs, no reinforcements, no retreat.
 
 ---

@@ -426,7 +426,7 @@ standing lesson; see the instrument note below)*.
 |---|---|
 | **Absolute addresses that resolve** | ⭐ **38 of 38 non-placeholder** *(the other 3 carry `<City>` / `<Subnet>` and resolve on substitution)* |
 | **Per-city checks passing** | ⭐⭐ **736 of 740** |
-| **Structural — correct by design** | **2** — Concordia `G1` and `T2-1` *(capital; runs the zodiac DISTRICT substrate, 301 files under `Concordia-City/Districts/`)* |
+| **Structural — correct by design** | **2** — Concordia `G1` and `T2-1` *(runs the zodiac DISTRICT substrate, 301 files under `Concordia-City/Districts/`)* |
 | ⛔ **Findability defect — FIXED** | **1 root cause, 2 cells** — Amundsen `G7`/`T2-4` |
 | ⛔ **Real content gap — OPEN** | **1** — Shirayuki `G6` |
 

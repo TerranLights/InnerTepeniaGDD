@@ -127,11 +127,11 @@ suspected it would.
 ## 11. The Panel He Never Explained
 
 Old Toby's stone wall has grown into a genuine communal palimpsest, and a heritage custodian sets out to
-catalogue every panel's meaning — completing the record smoothly until one panel resists: a DNA helix
+catalog every panel's meaning — completing the record smoothly until one panel resists: a DNA helix
 rendered in electrons and cosmic strings, its meaning never publicly explained by whoever carved it.
 **But** the carver, still living, wants it kept that way — some contributions were only ever meant as
 private reflections made visible, not public explanations. **Therefore** a real disagreement opens
-between the cataloguing impulse and the carver's own wish for privacy, neither side wrong. **But**
+between the cataloging impulse and the carver's own wish for privacy, neither side wrong. **But**
 forcing the meaning into the open would flatten exactly what made the panel worth carving in the first
 place. **Therefore** the wall's custodians settle on a real compromise: a formal "deliberately
 unexplained" category alongside the wall's more conventional attributed meanings, the DNA-helix panel

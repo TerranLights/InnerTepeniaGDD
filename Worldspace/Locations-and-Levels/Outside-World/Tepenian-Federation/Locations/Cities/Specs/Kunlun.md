@@ -6,11 +6,11 @@
 > collection is at Esperanza — see `Division_of_Industry/15` Resolution 3)*. **Dome A is the highest and
 > coldest site on the continent — the better vault, by temperature, of the two.**
 >
-> ### **Kunlun's reason is SCIENTIFIC CATALOGUING — "keeping records" of Earth.**
+> ### **Kunlun's reason is SCIENTIFIC CATALOGING — "keeping records" of Earth.**
 >
 > **Consistent with everything else about this city:** a **curated 19-nation astronomy/comms-heritage
 > population**, tiered by real-world space-program credentials, whose entire civic purpose is **observing and
-> recording**. **The seeds are one more catalogue.**
+> recording**. **The seeds are one more catalog.**
 >
 > *(**Dome Fuji keeps its vault for the opposite reason** — *"love and respect for the humans who sacrificed
 > their pasts, their heritage, and their ancestral homelands to help ensure that robots had a homeland of
@@ -68,7 +68,7 @@
 | Notable | South Africa | 1.07% | 1,319 |
 | Notable | Netherlands | 0.05% | 62 |
 
-*Tiering rationale: **Primary** (8 shares) — the only nations with genuinely comprehensive, independent human spaceflight programs (USA, Russia, China). **Significant** (3 shares) — substantial national space agencies with real mission heritage but not full independent crewed spaceflight capability (Japan, Germany, France, UK, Italy, Canada, South Korea), plus **Intermarium/Intermaria** representing the unified political bloc's own collective space program — built on Ukraine's real Soviet-era rocket heritage (Yuzhmash), recast as a joint "Intermarian Space Program" credit rather than a solo Ukrainian one, consistent with Intermarium's established status elsewhere in the project as a unified meta-nation. **Notable** (1 share) — relevance from hosting a specific major facility (Chile: ALMA/VLT/Vera Rubin Observatory; South Africa: the Square Kilometre Array; Australia: Parkes Observatory and the Canberra Deep Space Communication Complex — directly relevant to Kunlun's comms function specifically; Spain: NASA's Madrid Deep Space Communications Complex, also comms-relevant) or a smaller-but-real national program (New Zealand: Rocket Lab; Netherlands: ASTRON/LOFAR; Norway: Andøya/Svalbard ground stations; Sweden: Esrange; Argentina: CONAE).*
+*Tiering rationale: **Primary** (8 shares) — the only nations with genuinely comprehensive, independent human spaceflight programs (USA, Russia, China). **Significant** (3 shares) — substantial national space agencies with real mission heritage but not full independent crewed spaceflight capability (Japan, Germany, France, UK, Italy, Canada, South Korea), plus **Intermarium/Intermaria** representing the unified political bloc's own collective space program — built on Ukraine's real Soviet-era rocket heritage (Yuzhmash), recast as a joint "Intermarian Space Program" credit rather than a solo Ukrainian one, consistent with Intermarium's established status elsewhere in the project as a unified meta-nation. **Notable** (1 share) — relevance from hosting a specific major facility (Chile: ALMA/VLT/Vera Rubin Observatory; South Africa: the Square Kilometer Array; Australia: Parkes Observatory and the Canberra Deep Space Communication Complex — directly relevant to Kunlun's comms function specifically; Spain: NASA's Madrid Deep Space Communications Complex, also comms-relevant) or a smaller-but-real national program (New Zealand: Rocket Lab; Netherlands: ASTRON/LOFAR; Norway: Andøya/Svalbard ground stations; Sweden: Esrange; Argentina: CONAE).*
 
 
 ---

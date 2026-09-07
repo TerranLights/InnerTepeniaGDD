@@ -136,9 +136,9 @@ Story Problem vs. Character Problem); one genuine merge (Contagonist, absorbing 
 Character and Revenant kept deliberately separate after a near-merge turned out to lose real information, with
 the non-Truth-aligned Revenant case routed to the villain/anti-hero sheet; standalone tools (the Normal World,
 the Characteristic Moment, Antagonist vs. Antagonistic Force, the Twelve Archetypal Antagonists, Four-Corner
-Opposition, the Four Elements of Relationship Sizzle, Corbett's remaining functional-role catalogue);
+Opposition, the Four Elements of Relationship Sizzle, Corbett's remaining functional-role catalog);
 composability notes between orthogonal systems; two staging/sympathy techniques surfaced late (Card's general
-sympathy-lever catalogue, Boutros's cat-save/delay-the-worst-act); the Player-Necessity Rule and its four
+sympathy-lever catalog, Boutros's cat-save/delay-the-worst-act); the Player-Necessity Rule and its four
 supporting constraints (the categorical-block sanity check, the compounding-reasons technique, the no-escort-
 quest constraint, retrofit discipline); and the Calethina worked example, which surfaced a concrete design gap
 (a missing Tempter figure) rather than just confirming what already existed.

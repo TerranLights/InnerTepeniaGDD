@@ -36,7 +36,7 @@
 
 *(See `Reference_Images/` folder — Rui series.)*
 
-Black hair, very long and straight — no variation, no layers, just the weight of it. Dark brown eyes with defined, intentional eye makeup: cat-liner, smoky shadow. East Asian features, light skin. A black turtleneck long-sleeve minidress. She's seated on a grey textured sofa, natural light coming through venetian blinds behind her and casting horizontal shadow bars across the frame.
+Black hair, very long and straight — no variation, no layers, just the weight of it. Dark brown eyes with defined, intentional eye makeup: cat-liner, smoky shadow. East Asian features, light skin. A black turtleneck long-sleeve minidress. She's seated on a gray textured sofa, natural light coming through venetian blinds behind her and casting horizontal shadow bars across the frame.
 
 Expression: absolutely still. Not cold — there is something present underneath it. Not warm — there is nothing reaching outward. The stillness is effortful in a specific way: the quality of someone who has decided very deliberately how much of themselves to make available at any given moment, and right now that amount is minimal.
 

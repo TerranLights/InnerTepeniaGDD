@@ -40,7 +40,7 @@ file.**
 
 **Why this matters more than the version that was wrong:** an adapted population is a solved problem and
 generates no story. **A population that never adapts is a permanent, low-grade, universally shared civic
-condition** — and one that its robot neighbours are structurally incapable of sharing.
+condition** — and one that its robot neighbors are structurally incapable of sharing.
 
 ## What chronic mild hypoxia actually does
 
@@ -122,7 +122,7 @@ anyone who must go and come back and go again.
 
 - ⭐ **Concordia's humans are a SEDENTARY population by physiological necessity**, not by temperament.
 - ⭐ **Concordia's robots are the city's entire practical connection to everywhere else.**
-- **A human who insists on travelling anyway is making a real and visible sacrifice** — and everyone around
+- **A human who insists on traveling anyway is making a real and visible sacrifice** — and everyone around
   them can see the cost written on them when they get back.
 
 ---

@@ -265,7 +265,7 @@ intervening ground is ice sheet. See §1.2.*
 
 **This is what the truckyards, warehouses, clifftop trucking and shipping depots and the import-export
 business district are FOR** — and why dock crews rotate against freighter schedules rather than a clock:
-***a shift at the port means travelling out to the coast for an offload and convoying back.***
+***a shift at the port means traveling out to the coast for an offload and convoying back.***
 
 > ### ⭐⭐ AND IT MAKES THE HALLEY SUBNET COHERE
 > **Halley trucks its freight overland from Belgrano or Sanay. Sanay trucks its own freight overland from its
@@ -411,7 +411,7 @@ physical geography and ⚠ where canon is thin and a city pass should confirm.**
 
 ---
 
-## ⭐⭐ 5.6c THE TRI-CITIES PORT — **one port, three cities, and a 450-metre margin**
+## ⭐⭐ 5.6c THE TRI-CITIES PORT — **one port, three cities, and a 450-meter margin**
 
 > ### ✅ DEVELOPER RULING, 2026-09-05
 > ***One shared Tri-Cities port, under the primary dominion of whichever city has the closest access to the
@@ -451,7 +451,7 @@ CONSTRUCTED, and why the Tri-Cities pay for it every season.*
 
 - ⭐⭐ **Zhongshan and Sinheung face each other across the same fjord.** ***The port is not comfortably inside
   anyone's territory — the water runs between the two claimants, and each can see the other's shore from its
-  own.*** **Dominion was settled by under half a kilometre.**
+  own.*** **Dominion was settled by under half a kilometer.**
 - ⚠ **A 6.7 km road already links the Broknes settlements to the continental plateau behind them**, *so the
   landward side of this port is the pair's shared problem too.*
 - ⛔⛔ **Shirayuki is the odd city out, and materially so.** ***It is ~8 km away on a different landform and

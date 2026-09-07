@@ -98,7 +98,7 @@ Carried forward from `Specs/Esperanza.md` and `City_Vision_Notes/Esperanza.md`, 
 - A minor numeric inconsistency between Specs-adjacent figures and the Census II table (low priority, flagged but unresolved)
 
 **Resolved 2026-07-17:** how the founding compact was actually discovered — per Course of Events
-Suggestion #2, "What the Archive Room Held," early settlers cataloguing inherited base infrastructure
+Suggestion #2, "What the Archive Room Held," early settlers cataloging inherited base infrastructure
 open a sealed Argentine military archive room and find personnel records, family photographs, and birth
 documentation; Mateo Villaroel recognizes its weight and pushes to turn it into something living. Also
 resolved: whether the founding compact was ever formalized in writing — per Course of Events Suggestion

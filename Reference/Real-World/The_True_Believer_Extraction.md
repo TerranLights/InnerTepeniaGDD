@@ -62,7 +62,7 @@ collective whole, make-believe, doctrine, fanaticism).
 > *"The less justified a man is in claiming excellence for his own self, the more ready he is to claim all
 > excellence for his nation, his religion, his race or his holy cause."* (§9)
 
-### The catalogue of potential converts (Part 2, §18–42)
+### The catalog of potential converts (Part 2, §18–42)
 
 Hoffer runs through eleven specific types who are disproportionately drawn to movements, each with its own
 mechanism — not a vague "the desperate," but named, distinct psychologies:

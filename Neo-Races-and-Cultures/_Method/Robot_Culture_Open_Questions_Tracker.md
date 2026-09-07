@@ -41,7 +41,7 @@ There isn't really any one specific way that a robot can be requested to be buil
 
 ---
 
-### [x] The kinship analogue's actual shape /// ESSENTIAL
+### [x] The kinship analog's actual shape /// ESSENTIAL
 
 Build is confirmed as the stronger candidate axis than Gen/Mark for this — but "build is the right axis"
 isn't yet an actual answer. A partial lead already on hand, **corrected 2026-08-06:** since builds happen
@@ -184,8 +184,8 @@ accumulated culture, not a hardwired explanatory drive.
 ### [x] Do robots have anything resembling disease?
 
 **No — Non-Transfer.** Robots' established "things that go wrong" already fully account for the territory
-disease would occupy: gradual component degradation (the aging-analogue) and corruption events like
-Calethina's Split Brain (the mortality-analogue). No third slot is left over for something disease-shaped.
+disease would occupy: gradual component degradation (the aging-analog) and corruption events like
+Calethina's Split Brain (the mortality-analog). No third slot is left over for something disease-shaped.
 
 ---
 

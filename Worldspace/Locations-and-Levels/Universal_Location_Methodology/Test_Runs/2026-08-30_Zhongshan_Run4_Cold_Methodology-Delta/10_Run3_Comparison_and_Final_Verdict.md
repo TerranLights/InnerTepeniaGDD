@@ -51,7 +51,7 @@ contribution, and that distinction is what is being claimed as novel, not the un
 ## The highway/relational finding — also reconciled, not contradictory
 
 **Run 3's G5 read:** *"It is a terminus, not a corridor. Nothing passes through it... past the junction there
-is sea and two neighbours."*
+is sea and two neighbors."*
 
 **This pass's Phase 5a read:** Zhongshan is "a mechanism, not a destination" for a traveler going from the
 South Pole to the capital — implying real transit traffic.

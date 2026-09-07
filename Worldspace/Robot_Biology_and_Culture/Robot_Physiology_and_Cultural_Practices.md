@@ -15,6 +15,50 @@ Robots do not require oxygen and have no respiratory system in the human sense. 
 > lubricants solidify below −40 °C**. ⭐ **And the inversion that matters: a robot is safer MOVING
 > than resting, because working generates the heat that keeps its cells and joints in range.**
 
+## ⭐⭐⭐ APPEARANCE AND CLOTHING — **added 2026-09-06, developer ruling. Read this BEFORE the cold file.**
+
+> ### ⛔ THE COLD FILE IS A NARROW COMPANION. THIS SECTION IS THE ORDINARY CONDITION IT ASSUMES.
+> **A pass that opens `Robot_Cold_Physiology.md` without this section will read every environmental hazard as
+> a hard gate on an unprotected body.** ***It is not. It is a preparation problem, exactly as it is for
+> humans.*** *(This failure was measured on a live location pass, 2026-09-06 — `M-151`.)*
+
+### Appearance
+
+> **Developer, verbatim:** ***"In the Tepenian universe, a robot is not an 'anthropomorphically-shaped block
+> of metal' (the way they're usually depicted in Hollywood Sci-Fi movies). In the Tepenian universe, a robot's
+> physiology (and physical appearance) is comparable to the way they're depicted in the movie 'Ex Machina' —
+> i.e. human-looking, with synthetic/cybernetic interiors."***
+
+⭐ **Consistent with, and now explicit about, what this file already established:** *"the one constant across
+both eras is the human form/figure itself"* — **and the project already uses *Ex Machina* as its stated visual
+reference for the fabrication chamber and the "glowy-blue" nano-architecture gel brain** *(see Notes, below)*.
+⭐ **In that reference the realistic skin sits where interaction happens — hands, face and ears — over visible
+synthetic structure.**
+
+### Clothing — ⭐⭐ **ordinary, near-universal, and both functional and fashionable**
+
+> **Developer, verbatim:** ***"a robot can (and nearly almost always does) wear clothing, both for fashionable
+> as well as for functional purposes. Therefore, a robot may wear a heavy winter coat to protect from the
+> cold. Therefore, a robot can realistically remain standing still in most of the country. She just needs to
+> be prepared for the weather, just like humans do."***
+>
+> **And, same session:** ***"robots would also wear winter gloves. There's no reason why they wouldn't."***
+
+| ⛔ Do not write | ✅ Write |
+|---|---|
+| a robot gated out of a cold place by her body | **a robot who is or is not DRESSED for it** |
+| exposure as a species-level limit | **exposure as PREPARATION, the same category it is for a human** |
+| bare machine surfaces in weather | **the full cold-weather garment register — coats, gloves, layering** |
+
+> ### ⭐ AND THE ORDINARY TRADE-OFFS COME WITH THE GARMENTS
+> **A human-shaped hand in a glove has a human-shaped hand's problem: insulation and dexterity trade against
+> each other.** ***Heavier gloves cost fine motor control and tactile feedback; thin high-gauge gloves keep
+> precision and cost warmth.*** **This is a real, usable constraint on what kind of outdoor work a given
+> climate permits — and it is a GRADIENT across locations, never a gate.**
+
+⏸️ **Open:** *whether robots feel cold as discomfort or only register it instrumentally; whether garment
+convention varies by city beyond ordinary fashion variation.* **Not assumed.**
+
 
 Their internal systems require:
 - **Engine power** — the primary energy source driving all functions
@@ -72,6 +116,49 @@ you cannot sustain a profession on demand that vanishes for months at a time.
 **Confirmed 2026-08-07 — the "glowy-blue" color itself is not an individually meaningful or aesthetic trait.** It's a direct result of the gel brain's own material composition/architecture — the same category of fact as the sky being blue because of nitrogen's predominance in the atmosphere, or grass being green because of chlorophyll's predominance in plant matter. It doesn't vary per individual robot or per build in any personally expressive way; it's closer to a fixed physical constant of what a gel brain *is* than a trait any given robot could be said to have or express.
 
 **Enhanced sensory perception, established the same session:** robots perceive sound and vibration across a meaningfully wider range than humans do, structurally rather than through any add-on device — a genuine physiological difference, not a cultural or trained sensitivity. This is the confirmed doctrinal root of Cymatics reverence specifically (see that religion's own file for how it builds on this fact), but the underlying sensory difference is general robot physiology, not exclusive to that religion's own adherents.
+
+---
+
+## ⛔⛔⛔ CULTURE, ETHNICITY AND THE IDENTITY TIMELINE — **binding, and it applies to robots exactly as to humans**
+
+> **Developer rulings, 2026-09-06.** ⭐ **Full statement:
+> `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md` · era detail:
+> `TepenianUniverseTimeline/Timeline Eras/2 The Second Interwar Period/README.md`.**
+
+**1 · STATION-BUILDER ≠ POPULATION ORIGIN.** ⛔ *A site's real-world builder is a GPS coordinate only.*
+✅ **A community's own origin is canon and IS admissible once composition is established.**
+
+**2 · ⭐⭐⭐ COMPOSITION NAMES THE STOCK; TIME AND PLACE PRODUCE THE CULTURE.**
+> ***"People (whether human or robot), after enough generations, will develop into new, unique cultures which
+> are, to an extent, shaped by their surroundings, their hardships and struggles, their common life
+> objectives."***
+
+**Operator: time · separation · local environmental setting · local struggles and hardships · local goals ·
+local sensibilities and habits.**
+
+### ⭐⭐ AND IT APPLIES TO ROBOTS DIRECTLY — **`WHEN` a robot was built matters as much as `WHERE`**
+
+> ***"While robots live longer, if they're built in Tepenia and also learn from the humans and other robots
+> they're in the community of, their cultures will be different as well."***
+
+| | |
+|---|---|
+| ⭐ **Robots live longer, so a single individual spans more of the divergence** | *A robot built early in the era and one built late are **not carrying the same culture**, even in the same city* |
+| ⭐⭐ **The transmission channel is the COMMUNITY, not the fabrication** | *Consistent with this file's own kinship ruling — **"robot kinship runs on shared experience, not fabrication lineage"** — and with the **Language Module**, which tracks "the dominant local culture and the community who had her built"* |
+| ⛔ **And `Robot_Universals/` Ch. 13 still seats identity in CITY-LOCALITY** | *not in origin, not in Gen/Mark, not in build* |
+
+### ⭐⭐⭐ THE GRAND-TIMELINE ACTS
+
+| **ACT 1** *(2564 → early 2600s)* | still *"X who live in Antarctica"* — origin cultures FRESH |
+|---|---|
+| ⭐ **ACT 2** *(~late 2600s / early 2700s on)* | ## ***properly TEPENIAN*** — **origin is ancestry, not identity** |
+
+**Mechanism: interconnection, decisively solidified by Amundsen Tower's completion (~2688)** — ⛔ *not a
+switch; **not the creation of unity**, since the people were never psychologically, culturally or spiritually
+separate; already in progress before construction began; and only one of the Tower's many effects.*
+
+⚠ **The Second Interwar spans both Acts and is mostly Act 2.** ⭐ **Correct form of words: *"a Japan-FOUNDED
+Tepenian city"* — stock, people, and local culture named separately.**
 
 ---
 

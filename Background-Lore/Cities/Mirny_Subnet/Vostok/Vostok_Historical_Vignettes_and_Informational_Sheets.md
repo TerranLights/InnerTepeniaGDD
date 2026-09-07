@@ -32,7 +32,7 @@ identifying a natural DNA-repair mechanism already at work inside Lake Vostok's 
 (`Vostok_Full_Extrapolation.md` Section III).
 
 The discovery, per what's established about her own working method, came from close, patient re-examination
-of organisms already catalogued in the incomprehensible archive's own centuries of accumulated sequencing
+of organisms already cataloged in the incomprehensible archive's own centuries of accumulated sequencing
 data — not new fieldwork, but a fresh read of records other researchers had filed and moved past without
 recognizing what they contained. Charlene's own "unorthodox" reputation, per what's preserved of her own
 research notes, traces specifically to her willingness to cross-reference generations of mismatched,
@@ -77,15 +77,15 @@ psychological need — wonder deployed deliberately, not for its own sake.
 
 **Archivist "Yelena Voskresenskaya" *(placeholder, deliberately from the founding-era Russian community, not
 developer-chosen)*** is proposed as the last known researcher of Vostok's original founding community — her
-own personal notes and idiosyncratic cataloguing system forming one of the oldest and most difficult-to-
+own personal notes and idiosyncratic cataloging system forming one of the oldest and most difficult-to-
 interpret layers of the incomprehensible archive.
 
-Voskresenskaya's own cataloguing system, per what's preserved of the archive's own oldest layer, used
+Voskresenskaya's own cataloging system, per what's preserved of the archive's own oldest layer, used
 technical terminology and organizational logic specific to her own founding-era Russian scientific training —
 conventions later researchers, arriving from entirely different national and linguistic backgrounds, had to
 learn to interpret secondhand rather than being taught directly, since no living continuity connected her own
 generation to the population that eventually inherited her records. Later researchers working through her own
-notes, per what's established about the archive's own layered difficulty, describe her cataloguing choices as
+notes, per what's established about the archive's own layered difficulty, describe her cataloging choices as
 genuinely idiosyncratic even by the archive's own generally uncoordinated standards — a researcher working
 alone, for an audience she had no way of knowing would ever exist, using conventions that made complete sense
 to her and to no one who came after. The Russian-language equipment nomenclature and archive terminology
@@ -99,7 +99,7 @@ among the oldest and hardest to fully untangle.
 
 ---
 
-## The Two Catalogues That Never Agreed
+## The Two Catalogs That Never Agreed
 
 The incomprehensible archive holds centuries of accumulated genetic sequencing data on every organism
 identified within Lake Vostok's own ecosystem — not a single dataset, but many overlapping partial pictures
@@ -108,7 +108,7 @@ considerably over that time.
 
 One specific instance of that misalignment, per what's preserved of the archive's own working history,
 produced genuine confusion before it produced insight: two research generations, working decades apart,
-catalogued what turned out to be the same organism under entirely different classification schemes, using
+cataloged what turned out to be the same organism under entirely different classification schemes, using
 terminology specific to each era's own dominant research focus. A later researcher attempting to
 cross-reference both records initially concluded they described two genuinely distinct organisms, before
 painstaking comparison of the underlying physical descriptions revealed the mismatch was purely
@@ -203,8 +203,8 @@ reaching Vostok from outside, through Kunlun's relay (`Vostok_Full_Extrapolation
 
 Researchers attempting to answer it, per what's preserved of the effort, ran directly into the same
 accumulated-complexity problem the archive always presented — relevant data existed, scattered across
-generations of differently catalogued research nobody had ever fully reconciled, exactly the kind of
-overlapping partial picture that had once produced two separate researchers cataloguing the same organism
+generations of differently cataloged research nobody had ever fully reconciled, exactly the kind of
+overlapping partial picture that had once produced two separate researchers cataloging the same organism
 twice. The team assembled what it could rather than claiming false completeness, sending back a genuinely
 useful but explicitly partial answer — an honest response from an archive that had never pretended to be
 anything but difficult, even to the people who worked inside it every day.
@@ -215,7 +215,7 @@ anything but difficult, even to the people who worked inside it every day.
 
 ### The Term the Founding Archive Had Never Needed Translated for This
 
-*(Shortly before the Tower's completion.)* Voskresenskaya's own founding-era cataloguing layer — written in
+*(Shortly before the Tower's completion.)* Voskresenskaya's own founding-era cataloging layer — written in
 Russian technical convention no living researcher at Vostok could speak conversationally, preserved as a
 liturgical register rather than a living language — supplied, for the outgoing Tower-related correspondence,
 several of the archive's oldest structural and materials terms, cited exactly as Voskresenskaya herself had
@@ -366,7 +366,7 @@ from the other.
 
 ### The Archive Fragment That Finally Reached the City It Was About
 
-A fragment of Voskresenskaya's own founding-era cataloguing notes, describing early observations of
+A fragment of Voskresenskaya's own founding-era cataloging notes, describing early observations of
 Lake Vostok's own ecosystem that later proved relevant to Byrd's own lake transplant decades afterward, was
 sent directly to Byrd's own research staff for the first time once a Vostok archivist, cross-referencing old
 records for an unrelated purpose, recognized the connection and simply forwarded it.

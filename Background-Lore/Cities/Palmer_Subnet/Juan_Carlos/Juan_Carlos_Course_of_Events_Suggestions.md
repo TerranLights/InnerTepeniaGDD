@@ -38,7 +38,7 @@ anyone planning it that way, the seed of Tepenia's entire institutional memory.
 Juan Carlos's earliest archive keeps exactly the records the Federation's own paperwork requires,
 nothing more. **But** Archivist Mateo Iglesias wants the archive to be genuinely comprehensive, not
 merely adequate — a personal ambition that goes well beyond what his actual mandate demands.
-**Therefore** he pushes the recordkeeping far past minimum requirements, cataloguing detail after
+**Therefore** he pushes the recordkeeping far past minimum requirements, cataloging detail after
 detail nobody specifically asked for, driven by nothing but his own conviction that thoroughness
 matters for its own sake. **But** that kind of personal ambition takes real, sustained effort to
 sustain across an entire career. **Therefore** the archive he leaves behind carries a depth and
@@ -106,7 +106,7 @@ everything else about the city.
 
 ## 9. Records Kept, Rarely Discussed
 
-Juan Carlos's archivists go about their daily work — cataloguing, filing, maintaining records —
+Juan Carlos's archivists go about their daily work — cataloging, filing, maintaining records —
 without much sense that what they're doing is historically significant. **But** the work they're
 quietly building is, in fact, becoming the seed of Tepenia's entire institutional memory. **Therefore**
 a real gap opens between the city's own modest self-perception and its actual, growing importance to

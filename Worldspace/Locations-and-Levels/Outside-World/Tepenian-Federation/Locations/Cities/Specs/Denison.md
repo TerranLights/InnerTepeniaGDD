@@ -227,7 +227,7 @@ section used to carry is now discharged.)*
 | Feb | +6.4 | −2.1 | -4.4 | −6.9 | −17.3 | 50 | ~25% | 16.7 | Wind rebuilding; resupply window closing |
 | Mar | +4.9 | −6.4 | -9.3 | −11.3 | −25 | 60 | ~32% | 13.1 | Katabatics intensifying as the plateau cools |
 | Apr | +8.7 | −10 | -13.5 | −14.8 | −26.1 | 62 | ~27% | 9.2 | Sustained wind season begins |
-| May | 0 | −12.6 | -16.1 | −17.7 | −32.5 | 62 | ~32% | 5.4 | Severe; short grey days |
+| May | 0 | −12.6 | -16.1 | −17.7 | −32.5 | 62 | ~32% | 5.4 | Severe; short gray days |
 | Jun | +0.9 | −14.6 | -16.7 | −20 | −34.9 | 58 | ~23% | 1.8 | **~1.5 hrs at solstice — grazing, never dark** |
 | Jul | +0.5 | −14 | -16.9 | −20 | −34.4 | 55 | ~35% | 3.5 | Coldest month; worst sustained wind |
 | Aug | +0.3 | −14.5 | -16.6 | −20.3 | −37.4 | 55 | ~35% | 7.4 | Still severe; light returning fast |

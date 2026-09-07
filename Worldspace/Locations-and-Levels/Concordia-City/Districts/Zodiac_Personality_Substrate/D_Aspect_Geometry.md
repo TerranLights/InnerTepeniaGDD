@@ -69,7 +69,7 @@ undifferentiated bloc that experiences any criticism of one half as an attack on
 translation (no two districts share a sign), but the correct model for **fused factions inside one district**.
 
 **Sextile — 60°, two apart.** Shares polarity only: complementary, not identical. Martin's image is bees and
-honeycomb — *"industrious, practical, energetic and skilful,"* not passive like the trine. Emerson's energy
+honeycomb — *"industrious, practical, energetic and skillful,"* not passive like the trine. Emerson's energy
 word: *communication, friendship*. **Productive** when actually put to work; it is the aspect that *does*
 things. **Wrong:** it stays comfortable. Emerson's failure mode is the friendzone — two parties so easy with
 each other that nothing is ever escalated or renegotiated. Long alliances never stress-tested, and unlikely to

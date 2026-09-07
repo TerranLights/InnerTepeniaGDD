@@ -144,7 +144,7 @@ status.*
   whoever else has earned a seat at the same table of sustained, well-pursued argument, an institution she
   participates in as a full peer, not an adapted guest.
 - **[Emergent, robot-only, Deep]** One specific shape that shared life takes, distinct from the gathering
-  tradition itself: robots concentrated in the Archive Complex's own cataloguing and watch-list work (Course of
+  tradition itself: robots concentrated in the Archive Complex's own cataloging and watch-list work (Course of
   Events #7, #9) share the ongoing, everyday condition of doing quietly essential labor whose true scale even
   they themselves may not fully register day to day — a genuinely different shape of bond than the mentor/
   mentee or crew-trust patterns found elsewhere, closer to a shared, unspoken professional modesty than to

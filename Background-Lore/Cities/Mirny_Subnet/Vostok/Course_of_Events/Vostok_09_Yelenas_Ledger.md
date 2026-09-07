@@ -3,7 +3,7 @@
 
 **Course of Events Suggestion #9**, translated from `Vostok_Course_of_Events_Suggestions.md` into
 `z-template_-_city_histories_conflict_variant.md`. Grounded in the proposed Archivist Yelena
-Voskresenskaya, the last known founding-era researcher whose idiosyncratic personal cataloguing system
+Voskresenskaya, the last known founding-era researcher whose idiosyncratic personal cataloging system
 forms one of the archive's oldest, most difficult layers (`Full_Extrapolation` Section VIII). Character
 fields are intentionally left blank — see each Conflict section's Design Notes for what kind of
 conflict, and what kind of character(s), would make the following setting-condition become true.
@@ -14,7 +14,7 @@ conflict, and what kind of character(s), would make the following setting-condit
 ###### The city as it stands before this cycle's turning point.
 
 Among the last of Vostok's founding-era researchers, Archivist Yelena Voskresenskaya keeps her own
-personal notes and cataloguing system running long after the wider community around her has thinned to
+personal notes and cataloging system running long after the wider community around her has thinned to
 almost nothing — a solitary discipline, sustained well past the point where anyone else is left to share
 it with.
 
@@ -23,7 +23,7 @@ it with.
 ## Trigger
 ###### What disrupts the above baseline.
 
-A cataloguing system built by one person, for their own use, doesn't necessarily make sense to anyone who
+A cataloging system built by one person, for their own use, doesn't necessarily make sense to anyone who
 comes after — Yelena's own idiosyncratic shorthand, private organizational logic, and personal annotations
 were never designed to be legible to a stranger. Her particular corner of the archive becomes one of its
 oldest and most difficult layers to interpret — idiosyncratic, deeply personal, genuinely valuable, and

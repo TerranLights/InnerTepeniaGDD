@@ -74,7 +74,7 @@ derivation.
 *(See `Reference_Images/` — Momo series, 12 images.)*
 
 Warm honey-blonde hair with a gentle wave, light amber-brown eyes. East Asian features, light complexion. Slim,
-lean build. The primary reference shows her in a grey scalloped bralette and semi-sheer grey bikini bottoms at a
+lean build. The primary reference shows her in a gray scalloped bralette and semi-sheer gray bikini bottoms at a
 modern bathroom vanity with a warm-lit round mirror; a white leather collar with silver studs at the throat, a
 delicate silver cross pendant, a bracelet.
 

@@ -35,7 +35,7 @@ paragraph, at the concrete level the method demands — not gestured at from mem
 | Ospedale degli Innocenti | the foundling wheel; the *balie*; the *Balie e Bambini* ledgers; **split tokens** |
 | Arcosanti | apse-form quarter-domes; the bronze **bell foundry**; rotating work assignments; the five-week newcomer workshop |
 | Eden Project | built inside an exhausted 160-year china clay pit; linked geodesic biomes |
-| Hundertwasserhaus | the **Window Right**; **tree tenants**; roof forestation; the 1958 Mouldiness Manifesto |
+| Hundertwasserhaus | the **Window Right**; **tree tenants**; roof forestation; the 1958 Moldiness Manifesto |
 
 ### The rewrite genuinely fixed the diagnosed failure
 
@@ -254,7 +254,7 @@ grep alone was not sufficient to find the problem.**
 `Cancer_Full_Extrapolation.md` lines 283-284:
 
 > **Palette.** Warm, soft, low-saturation — greens, unbleached naturals, and the warm tones Mawson-descended
-> households favour district-wide (`District_Refugee_Diaspora_Composition.md`).
+> households favor district-wide (`District_Refugee_Diaspora_Composition.md`).
 
 `District_Refugee_Diaspora_Composition.md` contains **zero** color/palette/warm-tone content anywhere — grep
 for `warm tone|palette|color|color` returns nothing. The Mawson→Cancer entry covers the First Walk, the

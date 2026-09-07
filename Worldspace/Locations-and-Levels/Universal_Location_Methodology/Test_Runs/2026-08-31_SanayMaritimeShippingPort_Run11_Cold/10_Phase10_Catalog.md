@@ -59,7 +59,7 @@ this is the honest outcome, not a gap in research effort.
 ### 4. Settings
 
 - **The bounded-contact register of the Trade Yard** vs. **the general industrial bustle of the Shipyard
-  Complex** — two distinct atmospheric textures already established in Phase 3 C, catalogued here as
+  Complex** — two distinct atmospheric textures already established in Phase 3 C, cataloged here as
   situational settings a player could move between.
 - **A lull between shifts** — an unscheduled, unpredictable pocket of downtime (Phase 4/8), distinct from any
   planned leisure period, arising whenever the freighter-tied rhythm happens to slacken.

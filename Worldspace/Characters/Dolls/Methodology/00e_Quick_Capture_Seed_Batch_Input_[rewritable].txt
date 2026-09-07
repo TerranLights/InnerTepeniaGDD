@@ -30,4 +30,43 @@ Her Enneagram main-type subvariant was resolved by this seed (4w5 Self-Pres); th
 
 ---
 
+Name: 8E51CFAC-B2F0-4E16 [Besifa]
+Type: Robot
+
+Personal Vision:
+There's an enormous interplanetary shipping freighter vessel floating in space in the cold void approaching Saturn. The shipping freighter is carrying a variety of fabrication materials and manufactured goods, as well as passengers from Jupiter (and a handful from Mars) who needed a cheap voyage to Saturn. In the rear section of the shipping freighter, there's a "bulk shipment" and "trash" cargo hold. Inside that cargo hold sits Besifa; inert and set to "flight mode". When the shipping freighter vessel arrives at dock at its destination O'Neill Cylinder (or possibly Von Braun Wheel), the customs inspection crew find her in the cargo hold and move her out. They initially move to declare Besifa to be an illegally-transported passenger, but while talking, they speak the series of word-code that wakes her from flight mode. Upon waking, it becomes obvious that she was put there very much against her will. Considering her current state/condition along with her total lack of anything resembling actual origins, the customs officers allow Besifa entry on a conditional [not right word? Search other words] basis. She enters Saturnian society as very very much of a newcomer and begins the process of seeking out what the hell is going on.
+
+Enneagram: 6w5 (Self-Pres)
+Undercurrent: 1w9 (Self-Pres)
+Place of Origin: TBD // [unknown to Besifa herself] {confirmed: ***NOT*** Saturn}
+Location (if different from origin): Saturn 
+Timeframe (era/date): Post-Solar Colonization Era // [exact timeframe TBD]
+
+Brief Personality Summary (abbreviated): shy, bashful, and timid, yet also at the same time, focused, committed, and determined 
+Brief Backstory Summary (abbreviated): TBD // {very much TBD} [[requires help from Claude even if unknown to Besifa herself]]
+Weakness (fundamental flaw): TBD // {possibility: has virtually almost no checks to identify whether somebody is lying to her} {open to other/additional possibilities}
+Goal (broad-scale desire): to find out who she truly is, where she came from, why she was so forcibly abandoned, who's responsible, and what they had to gain from abandoning her
+
+---
+
+Name (or working ID): Shuchar Vaszyong // introverted home-girl goddess 
+Type: Robot
+
+Personal Vision:
+When I picture Shuchar in my head, I see her at home, "zoning out" to a newscast on the holographic computer display, eating "siligel flakes" (something like a robot equivalent of "chips). It's not that she's "shy" is any usual sort of conventionally understood sense. She's really more just "quiet" than anything else. To outsiders who are not already really familiar with her, Shuchar can appear cold and standoffish; however, she doesn't actually intend any disrespect. She just generally doesn't say much, and she definitely doesn't say anything if there's nothing that needs to be said. So, I see her spending most of her time by herself. In terms of her job, she would do something that would essentially allow her to never actually interact with anyone [[actual job TBD]]. 
+
+Enneagram: 5w4 (Self-Pres) 55%
+Undercurrent: 9w1 (Self-Pres) 45%
+Place of Origin: Esperanza, Tepenian Federation // {{had friends in Juan Carlos}}
+In-between {{i.e., later moved to}}: TBD //prospectively: Abowasa → Princess Elisabeth → Casey
+Location (if different from origin): TBD //prospectively: Kunlun
+Timeframe (era/date): built during the later-first half of the Second Interwar Period. Personally remembers when the subnets were divided 
+
+Brief Personality Summary (abbreviated): not "shy", but rather moreso quiet. Likes her solitude. Doesn't particularly care about being understood so long as she's able to be left alone. 
+Brief Backstory Summary (abbreviated): TBD // originally built in Esperanza 
+Weakness (fundamental flaw): TBD
+Goal (broad-scale desire): to secure herself a living situation where she can pursue intellectual pursuits and interests, creating "technological art" (not"art" in the usual, traditional sense, but rather, assembling ideas in interesting new ways) in near total isolation where she doesn't need to answer to anyone
+
+---
+
 

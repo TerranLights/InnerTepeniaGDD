@@ -20,7 +20,7 @@ conflict, and what kind of character(s), would make the following setting-condit
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Early settlers cataloguing the genuinely functional infrastructure inherited from the original Esperanza
+Early settlers cataloging the genuinely functional infrastructure inherited from the original Esperanza
 Base open a long-sealed Argentine military archive room, centuries untouched, expecting nothing more than
 routine administrative paperwork to sort and file away.
 
@@ -31,7 +31,7 @@ routine administrative paperwork to sort and file away.
 
 What they find instead is personnel records, family photographs, and original birth documentation
 reaching back generations — a far more intimate record than anyone expected an old military archive to
-hold. Mateo Villaroel, among the settlers doing the cataloguing, recognizes the discovery's real weight
+hold. Mateo Villaroel, among the settlers doing the cataloging, recognizes the discovery's real weight
 almost immediately: not simply historical curiosity, but proof that this place had always kept careful,
 deliberate record of who belonged here and why. But recognizing that significance and actually acting on
 it are two entirely different things — a young settlement has more urgent problems than an old paper

@@ -101,7 +101,7 @@ and against it?
   rather than accepting it as simply true. The goal isn't to swing to the opposite belief (superiority), but to
   land on ordinary "good-enough-ness."
 - Actively work against self-debasement through deliberate self-love — notice and interrupt harshness toward
-  yourself in the moment, and make a real effort to catalogue what's actually good about you.
+  yourself in the moment, and make a real effort to catalog what's actually good about you.
 - Treat envy, competition, and masochistic striving as warning signs of excessive self-judgment, not as neutral
   facts about the world — the actual remedy for feeling deficient is self-acceptance, not more proof of worth.
 
@@ -126,7 +126,7 @@ what's missing protect against?
   situation could deliver, as a way of pre-empting disappointment, and experiment with moderating that ask.
 - Turn your natural idealism toward what's *already* present and valuable in yourself and others, instead of
   reserving it exclusively for some distant, unattained ideal.
-- Practice actively shifting attention toward the positive whenever you notice yourself cataloguing lack — make
+- Practice actively shifting attention toward the positive whenever you notice yourself cataloging lack — make
   a real list of what's actually going well, and let that list carry some weight.
 
 ## The Individualist's Gifts

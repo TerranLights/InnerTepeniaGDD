@@ -10,7 +10,7 @@ the-war cities (Zukelli, Princess Elisabeth, Denison) are included as they stood
 as their later ruined state.
 
 **Relationship to `City_Cross_Subnet_Relationships.md`:** that file is the physical-infrastructure and
-already-catalogued-connections foundation this one builds on and extends — its highway/aviation network
+already-cataloged-connections foundation this one builds on and extends — its highway/aviation network
 findings and Part 2/3/4 threads are folded in below rather than repeated in full. This file goes further in two
 ways: it covers *every* city (that file left 15 of 35 without any cross-subnet connection identified), and it
 reasons from each city's own established personality, economy, and culture — not just physical infrastructure

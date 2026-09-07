@@ -151,7 +151,7 @@ quarter of its whole economy. Deep-drilling crew gear sits alongside it.
 
 **Zhongshan** — precision manufacturing, Prydz Bay fishing, a culture that concentrates care in unseen
 details rather than visible display (per its own established architecture/fashion philosophy). *Soft:*
-Zhongshan's own muted, detail-concentrated clothing tradition — dark blues, deep greys, charcoal — already
+Zhongshan's own muted, detail-concentrated clothing tradition — dark blues, deep grays, charcoal — already
 functions as the soft tier without modification; care shows in maintenance and repair, not bulk. *Padded:*
 fishing-crew oilskins for the Prydz Bay economy. *Semi-rigid:* precision-manufacturing floor gear, gloves and
 apron, kept as unornamented and functional as the rest of the city's own aesthetic instinct. Deliberately no

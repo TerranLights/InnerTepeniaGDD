@@ -32,7 +32,7 @@ A structural-stress trigger used to bring down an unstable ice shelf before it k
 
 **Heavy Weapons** — descend from convoy-escort and demolition equipment, not personal armament. The Second Interwar version of this is collective: protecting a Rastra convoy or a settlement, not a person. Philosophically, this is infrastructure defense, closer in spirit to a fire brigade than a soldier.
 
-**Blunt Melee** — the most mundane category that exists. Ice axes, pry bars, sledgehammers. Every household, every work crew has these. No narrative weight needed to justify their presence in a scene — they're just there, the way a hammer is just there in any home.
+**Blunt Melee** — the most mundane category that exists. Ice axes, crowbars, sledgehammers. Every household, every work crew has these. No narrative weight needed to justify their presence in a scene — they're just there, the way a hammer is just there in any home.
 
 **Bladed Melee** — tools of craft and provision: ice-core drills, flensing knives, industrial saws. These exist because someone needs to cut, harvest, or build something, not because someone needs to hurt someone. A show scene built around one of these is a scene about *work*.
 

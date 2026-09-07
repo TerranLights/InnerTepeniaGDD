@@ -149,7 +149,7 @@ but does not defer Phase 9's own closure to that gate — the distinction that k
 ## Phase 10 (Catalog, base — Zodiac Lens run separately)
 
 **No collision**, but a second instance of M-66's exact pattern was caught and handled the same way: the
-wind-warning institution candidate could not be catalogued without either reusing a name this session was
+wind-warning institution candidate could not be cataloged without either reusing a name this session was
 exposed to while excluding a file (M-65), or inventing a differently-named institution serving the same
 function (indistinguishable in effect). **Flagged as REQUESTED with the provenance issue stated explicitly**,
 cross-referenced to M-66, rather than resolved by quietly picking one option. This is not a §0.4 ordering

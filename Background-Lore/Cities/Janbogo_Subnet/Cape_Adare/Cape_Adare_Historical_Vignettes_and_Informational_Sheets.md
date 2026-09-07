@@ -481,7 +481,7 @@ to.
 
 Following the earlier written methodology guidance from Port Lockroy, Cape Adare's own archivists implemented
 a specific documentation change directly based on it — the first time an outside city's own preservation
-methodology had actually altered how Cape Adare itself catalogued its own Borchgrevink's Hut archive, rather
+methodology had actually altered how Cape Adare itself cataloged its own Borchgrevink's Hut archive, rather
 than simply informing a comparison.
 
 Port Lockroy's own dispatchers, per what's preserved of learning about the adoption, treated the news with

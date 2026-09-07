@@ -127,6 +127,18 @@ something unintended · **Availability** — how often it actually exists.
 The zodiac for districts; Planet + Element for cities; whatever a future project registers. **Powerful when
 rich, weak when thin, and §6 exists to tell the difference before you rely on it.**
 
+> ### ⏸️⏸️ **UNDETERMINED — a SIGN layer for cities.** *(Developer ruling, 2026-09-06.)*
+> ***"It is theoretically possible that the Zodiac signs can be applied to the cities… once we have a better
+> idea of what sorts of personalities the cities have… mark it as 'undetermined' in the full ULM."***
+> ⭐ **So `G1` for a city is PLANET + ELEMENT, today and until ruled otherwise.** ⛔ **No pass assigns a sign to
+> a city, and the absence is NOT a gap to fill.**
+> ⚠ **If it is ever adopted, SIGNS WILL REPEAT** — *twelve signs across 35+ cities is roughly three cities
+> each.* ⭐ **That is expected, and it means the district set's exhaustion finding — 12 signs, 13 districts, one
+> deliberate absence — DOES NOT PORT.**
+> ⭐⭐ **And the precondition matters: the assignment would be DOWNSTREAM of the city passes, not an input to
+> them.** *A pass running now is producing the personality the assignment would later be made from.*
+> ✅ **Unaffected: the Zodiac Lens as a non-assignment interrogation technique** *(`03` Phase 10 §B2)*.
+
 Its distinctive property is that it is the only generator with **no obligation to be plausible**. Physical
 facts and founding conditions constrain toward the realistic; a symbol constrains toward the *meaningful*, and
 occasionally hands you something that has to be earned rather than explained. That is a feature.
@@ -212,6 +224,33 @@ Governed entirely by `Real-World_Basis_Extrapolation_Method.md` and by the **sou
 the location is under no obligation to match its inspiration, and divergence stated is stronger than resemblance
 implied.
 
+> ## ⭐⭐⭐ WHAT THE SITE-PROVENANCE RESTRICTION IS FOR — **and what it is NOT for**
+> **Added 2026-09-06 at the developer's direction, after a live pass over-applied it for eleven pieces.**
+>
+> **Where a setting restricts what may be imported from a real site — its operators, its nationality, its
+> history, its fate — *the restriction is about PROVENANCE, not about ethnicity*:**
+>
+> > ### ***The rule exists so that a location is characterized by WHO LIVES THERE, rather than by WHOSE SITE IT OCCUPIES.***
+>
+> | ⛔ Blocked — `G7`, the SITE | ✅ Not blocked — `G8`, the POPULATION |
+> |---|---|
+> | the real site's builders, flag, operators, lineage, abandonment, fate | ⭐ **the founding population's own origin-culture, ONCE COMPOSITION IS ESTABLISHED** |
+>
+> ⚠ **A pass that refuses ALL ethnic material is not obeying this rule — it is misreading it, and it will
+> produce placeless locations.** ⭐ **The two generators are different and only one is restricted.**
+>
+> ### ⭐⭐ AND COMPOSITION ALONE IS NOT THE ANSWER EITHER — **apply the divergence operator**
+> ***Composition names the STOCK. Time, separation and local conditions produce the CULTURE.***
+> **Operator inputs: time · separation · local environmental setting · local struggles and hardships · local
+> goals · local sensibilities and habits.** ⛔ **Transplanting a source culture intact is `Step 3.5`'s named
+> transcription failure — "a costumed version of somewhere real."**
+> ⭐⭐⭐ **And it is an ANTI-CONVERGENCE instrument: two locations founded from the same stock MUST diverge,
+> because the operator's inputs differ.**
+> ⛔ **REVISED 2026-09-06 — the old sentence continued *"if they produce similar-shaped answers, at least one is
+> wrong,"* and that CHECK is a comparison.** ⏸️ **It is TERMINAL, not in-run.** ⭐ **The operator itself stays
+> fully in-run: it is applied to ONE location, with that location's own values, and needs no second location to
+> run.** ***Divergence is produced here; it is verified at the end.***
+
 > ### ⚠ G7 is EXPECTED-ABSENT for Corridor-type locations — a ruling, not a gap
 >
 > **Developer ruling, 2026-08-31** `[CGRM 2026-08-31 · Path 6 · developer ruling]` *(verbatim record:
@@ -235,11 +274,16 @@ implied.
 >
 > **The one legitimate use that survives:** a real-world comparable may still be researched for a corridor's
 > **physical texture** — surface construction, vehicle and convoy form, seasonal usability — **never for its
-> character.** *(A worked precedent exists in which a corridor pass used its real-world analogue exactly this
+> character.** *(A worked precedent exists in which a corridor pass used its real-world analog exactly this
 > way — for surface and convoy facts only — deriving every character finding from G2/G5/G6. That split was an
-> improvisation at the time; this ruling makes it the rule. Instance archived per the LAYERING LAW.)*
+> improvization at the time; this ruling makes it the rule. Instance archived per the LAYERING LAW.)*
 
 ## G8 — Demographic composition
+
+> ### ⚠⚠ **ACT STAMP REQUIRED** — `M-157`
+> ***Composition is an ACT 1 inheritance; change across a census gap is an ACT 2 event.*** ⛔ **Do not read them
+> as one series.** ⭐ **By Act 2, national percentages are ANCESTRY figures, not identity figures.**
+
 
 Who is actually here, in what proportion, from where, and how they arrived. **Systematically under-used** —
 `00_RUNBOOK.md` Step 3.7 measures five of nine completed districts making no use of the composition file at all,
@@ -256,12 +300,19 @@ composition data in this project is explicitly weighted relative ranking, not ce
 > productive peer-free instruments available, precisely because it is arithmetic rather than interpretive.
 >
 > **Why it belongs to G8 rather than G6:** retention is not an *event*, it is a *disposition made visible by*
-> an event. The same shock applied to twenty locations produces twenty different retention figures, and **the
-> differences are the characterization.**
+> an event. **A shock applied to this location produced THIS retention figure, and the figure is the
+> characterization.**
 >
 > **Three rules, all learned the hard way:**
-> 1. **Score against the full set, never the local group** — report the **z-score**. A gap between two or three
->    locations means nothing until you know how much locations differ in general.
+> 1. ⛔⛔ **REPLACED 2026-09-06 — NO SCORE OF ANY KIND IN-RUN.** *The rule used to read: "score against the
+>    full set, never the local group — report the z-score."* ⛔ **A z-score is a rank, a rank is a comparison,
+>    and no city is ever compared to any other city** *(`00_RUNBOOK.md`, THE LAW OF ONE LOCATION; developer
+>    ruling, 2026-09-06)*. ⭐ **REPORT THE LOCATION'S OWN PERCENTAGE, FLATLY** — *"retained `61.81%`; `H`
+>    `58.31%` against `R` `65.17%`, a spread of `+6.86 pp`"* — **and then ask what THAT number means for
+>    THIS place**, which is the question the z-score was always standing in front of.
+>    ⏸️ **TERMINAL:** *cross-city scoring returns at the end of the corpus, when a full set actually exists.*
+>    ⚠ **The old rule's warning was still correct and now applies to the pass's own prose:** *a figure means
+>    nothing until you know what it is a figure OF* — **so establish the denominator (rule 2), not the rank.**
 > 2. **Establish what the snapshots actually measure before interpreting them.** A drop can be deaths,
 >    departures, boundary changes, or a methodology change. *(In this project, Census I → II is **pre-war
 >    migration**, not war loss — and the census file says so explicitly, in a line easy to skim past.)*
@@ -388,17 +439,31 @@ needed and never had.
 | **Cost-absent** *(new, 2026-08-30)* | STANDING COST conspicuously **thinner** than every other quadrant, **across independent generators** | *If nothing here has to be paid continuously, **what is holding this place together — and how would anyone know if it stopped?*** **Not the same as an empty quadrant.** An absence asks *what does it mean to lack this?* A **thin** cost quadrant is worse: the obligations exist, they are simply never load-bearing, so **there is no failure signal.** A cost-dominant location is told the instant it stops paying; **a cost-absent one is told nothing, because nothing breaks.** Its characteristic failure is therefore **not collapse but lapse** — a practice performed less often, then rarely, then not, with no moment at which anyone finds out. **Rare, and rare for a reason: most settings punish inattention.** Expect it where the environment is unusually benign, the position unusually secure, or the demography unusually uncontested. ⚠ **Before assigning it, apply §4.0** — a thin cost quadrant is very often an artifact of having withheld the location's known institutions. |
 | **Null** | Nothing in any quadrant | **Fall through to the next generator.** If *every* generator returns null, the location's lack of definition is its definition — see `01` §1.3, the Interstitial procedure. **Do not force a profile onto a place whose character is that it has none.** |
 
-**When a shape repeats across two locations, the three-step rule from `00e` §5 applies unchanged and is the
-most important anti-convergence device in the method:**
+> # ⛔⛔ THE CROSS-LOCATION FORM OF THE THREE-STEP RULE IS TERMINAL, NOT IN-RUN — **RULED 2026-09-06**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*
+>
+> ⛔ **A pass may NOT ask "does this shape repeat a sibling?"** — that requires reading another location, and
+> **no city is ever compared to any other city** *(`00_RUNBOOK.md`, THE LAW OF ONE LOCATION)*. ⛔ **And the
+> old instruction to "write the comparison into the finding as a table" is REVOKED for per-location passes.**
 
-1. **The shape gives you the question.** *(Shared — and it is the only part that is.)*
+**⭐ THE IN-RUN FORM — the three steps run against §4.0's DOUBLE READING, not against a sibling.**
+**The shape is a property of the admitted input set, so the second location the three-step rule needs is
+already available and is *this same location read twice* — once on the withheld-input set, once on the full
+one:**
+
+1. **The shape gives you the question.** *(Shared between the two readings — and it is the only part that is.)*
 2. **The generator gives you the instrument.** *(Nothing about the shape predicts which.)*
-3. **The instrument gives you the consequence — and this is where the locations separate entirely.**
+3. **The instrument gives you the consequence — and this is where the two readings separate.**
 
-> **If your step-3 consequence resembles the earlier location's, you have stopped at step 1 and assumed the
-> rest.** And per `00_RUNBOOK.md`, **write the comparison into the finding as a table**, on at least four axes
-> including **tense** — *where and when the loss happens* — which is the axis most often skipped and the one
-> that most often separates two locations that otherwise look identical.
+> **If your step-3 consequence is the same under both readings, you have stopped at step 1 and assumed the
+> rest** — the shape was doing all the work and the input set was doing none. ⭐ **Write the divergence between
+> the two readings as a table**, on at least four axes including **tense** — *where and when the loss happens* —
+> which is the axis most often skipped and the one that most often separates two readings that otherwise look
+> identical.
+
+⏸️ **TERMINAL USE, deferred with all differentiation work:** *when the 38-city corpus is complete, the same
+three-step rule becomes the cross-city anti-convergence device it was originally written as.* **It is not
+deleted. Its input does not exist yet.**
 
 ## 4.1 Where the remedy lives — the address axis
 

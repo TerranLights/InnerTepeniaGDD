@@ -669,7 +669,7 @@ or a signature phrase — stop reading it, and add a banner before you continue.
    — but check by name rather than assuming, and if any are, skip them per that file's own rule.
 4. Read the disciplines: `00b` general population · `00d` shadow proportion · `00f` review panel *(note its
    six-disposition set: accepted · noted · rejected · refereed · unmet · declined)* ·
-   `../Cultural_Synthesis_Techniques.md` · `../Real-World_Basis_Extrapolation_Method.md`.
+   `../Disciplines/Cultural_Synthesis_Techniques.md` · `../Disciplines/Real-World_Basis_Extrapolation_Method.md`.
 5. **Run the `05` §7 pre-flight**, including Configuration, provenance, and the typicality declaration.
 6. **Read canon in the Step 0.4 triage order** — specs → symbols → census *(and change across both, if
    multiple snapshots exist)* → founding → physical facts → **culture files never**, per §3b above.
@@ -742,7 +742,7 @@ or a signature phrase — stop reading it, and add a banner before you continue.
 8. **American English throughout — and this needs an actual mechanical sweep, not just intent.** A rule
    requiring per-sentence vigilance is a rule self-audit is bad at catching in its own prose. **Run a grep
    sweep for common British spellings (color, favour, humour, behavior, center, organize/-d, realise,
-   analyze, travelling, modelling, labelled, program, defense, license, practise, pretence, grey, among,
+   analyze, travelling, modelling, labelled, program, defense, license, practise, pretence, gray, among,
    while, learnt, towards, neighbour, and "sport" where "sports" is meant) before considering any pass
    finished** — this rule has been found broken, undetected, in the methodology's own governing rule text more
    than once, not only in fresh drafting.

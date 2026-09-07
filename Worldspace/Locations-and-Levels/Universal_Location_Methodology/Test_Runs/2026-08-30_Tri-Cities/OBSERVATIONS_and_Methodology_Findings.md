@@ -130,7 +130,7 @@ would float. **The entire Zhongshan reading inverted once I actually opened the 
 ## 2.3 A silent off-by-one that produced confident wrong numbers — caught only by a spot-check
 
 **What happened.** Parsing the census tables, I indexed `c[3]` as the Humans column. **`c[3]` is the Subnet
-column.** The first run therefore reported **robot-only** retention while labelling it "combined." **It did not
+column.** The first run therefore reported **robot-only** retention while labeling it "combined." **It did not
 error.** It produced 33 plausible rows, a sensible mean, and a sensible spread — all wrong.
 
 **What caught it:** a hand-computed spot-check of one city against the source table, and nothing else. Four

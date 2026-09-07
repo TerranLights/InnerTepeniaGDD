@@ -1788,8 +1788,8 @@ MATERIALLY harmed. That is exactly the line the mandate test draws.**
 
 ### ⭐⭐⭐ DEVELOPER OBSERVATION — the free tier is the only tier that can CHANGE OVER TIME
 
-> **2026-09-02:** *"Shirayuki was originally built without any disposition towards arts, but later developed
-> the culture organically. So, in the early Second Interwar Period, no arts. Towards the middle- and later
+> **2026-09-02:** *"Shirayuki was originally built without any disposition toward arts, but later developed
+> the culture organically. So, in the early Second Interwar Period, no arts. Toward the middle- and later
 > Second Interwar Period, definitely arts (and rather noticeably so). This isn't really a violation, because
 > that can fit in the 'elective' category."*
 
@@ -2263,7 +2263,7 @@ Amundsen Tower.** A nation with a large and growing orbital population **needs s
 space.** Kunlun is *"potentially the best ground-based observatory site in Tepenia,"* and its robot-culture
 file notes it is **the one city capable of reaching orbital structures directly.**
 
-> **Cataloguing distant stars is discretionary. Tracking near-Earth space for an orbital population is not.**
+> **Cataloging distant stars is discretionary. Tracking near-Earth space for an orbital population is not.**
 
 **⚠ That focus is explicitly TENTATIVE** — *"the developer isn't certain… Tentative, not firmly settled."*
 **Half rather than full is partly a hedge against building on an unsettled premise.**
@@ -2347,7 +2347,7 @@ real biological problem*** — and Vostok's research sits exactly there. Canon g
 bioinformatics** as the ruled export, and **Charlene (XT-17)**'s *"reduced-mutation-rate breakthrough tied to
 Lake Vostok biology."*
 
-> **Cataloguing a sealed lake is discretionary. Understanding mutation rates in a closed human population is
+> **Cataloging a sealed lake is discretionary. Understanding mutation rates in a closed human population is
 > not.**
 
 **⚠ Scope caution, recorded:** **Charlene's breakthrough is DLC-present.** During the Second Interwar the

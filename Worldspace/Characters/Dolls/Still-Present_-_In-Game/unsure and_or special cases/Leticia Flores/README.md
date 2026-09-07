@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder — BEZLYA series.)*
 
-Long, straight dark brown hair with blunt bangs. Pale grey-blue eyes, deep red lipstick. Draped in a sheer blue-and-white veil/hood worn over the head and shoulders like a shawl, over a soft white and pale-blue tiered dress. Shot against a plain white backdrop with hand-drawn wave-like line art.
+Long, straight dark brown hair with blunt bangs. Pale gray-blue eyes, deep red lipstick. Draped in a sheer blue-and-white veil/hood worn over the head and shoulders like a shawl, over a soft white and pale-blue tiered dress. Shot against a plain white backdrop with hand-drawn wave-like line art.
 
 She reads as: ethereal and a little otherworldly — the veiled hood, flowing sheer fabric, and wave-motif backdrop suggest a deliberately mystical, water-adjacent aesthetic, and her steady, unblinking gaze through the sheer fabric adds a slightly enigmatic, watchful quality rather than a soft or approachable one.
 

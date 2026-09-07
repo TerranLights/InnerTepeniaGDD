@@ -102,7 +102,7 @@ what actually maps onto Sanay.
 #### Surface Culture findings
 - **Food:** hearty, portable, high-calorie food suited to rotating shift work — cured/smoked meats and
   Alpine-style preserved cheeses, alongside a Hamburg-style quick dockworker food tradition (something
-  like a *Fischbrötchen* analogue, fast to eat between freighter-unloading shifts).
+  like a *Fischbrötchen* analog, fast to eat between freighter-unloading shifts).
 - **Flags:** *(deferred — civic heraldry is a later, dedicated pass, not invented here.)*
 - **Festivals:** a seasonal "ice-free passage" observance marking when the shipping lanes reopen —
   echoes Alpine village traditions marking mountain-pass reopening, transposed onto Sanay's own

@@ -18,7 +18,7 @@
 
 ## III. How the Compact Was Actually Discovered
 
-**Proposed:** following the same pattern established for every other Tepenian city built on inherited infrastructure — the earliest robot-and-human settlers, cataloguing what they'd inherited from the original Esperanza Base, found a sealed Argentine military archive room containing personnel records, family photographs, and the original 1978 birth documentation. This wasn't a dramatic discovery so much as the natural first-pass inventory any new settlement would have done on infrastructure it didn't build itself — the significance of what they found was what made it a founding story, not the manner of finding it.
+**Proposed:** following the same pattern established for every other Tepenian city built on inherited infrastructure — the earliest robot-and-human settlers, cataloging what they'd inherited from the original Esperanza Base, found a sealed Argentine military archive room containing personnel records, family photographs, and the original 1978 birth documentation. This wasn't a dramatic discovery so much as the natural first-pass inventory any new settlement would have done on infrastructure it didn't build itself — the significance of what they found was what made it a founding story, not the manner of finding it.
 
 ---
 

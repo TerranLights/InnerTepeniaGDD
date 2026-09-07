@@ -297,7 +297,7 @@ directly relevant to any critique of AI companionship as a substitute for presen
 underground, want-free population that reveres a global Machine as near-divine; the story ends when no one
 remembers how to maintain it and it collapses) vs. Nikola Tesla's 1920s vision of a single connected planetary
 "electronic brain." Hershock's verdict: today looks more like Tesla's hyper-connected-individuality future than
-Orwell's grey totalitarian one — **"choice becomes compulsory."** Gary Shteyngart's novel *Super Sad True Love
+Orwell's gray totalitarian one — **"choice becomes compulsory."** Gary Shteyngart's novel *Super Sad True Love
 Story* is used at length to illustrate a fully-realized "quantified self" society (an *äppäräti* device merging
 smartphone + biometric self-tracking + real-time, publicly-broadcast social-credit/desirability rankings).
 

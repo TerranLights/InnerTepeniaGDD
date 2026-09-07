@@ -255,8 +255,8 @@ silently** — the same recording discipline ULM already applies to its own find
    periodic mode is not ruled out and not designed here either.
 4. **Whether resolved facts require any QA-gate-equivalent verification** before being written to canon, or
    whether the resolution log's own discipline is considered sufficient — ULM's own gates exist because a
-   derivation pass can go wrong in specific, catalogued ways; this system's own failure modes have not yet been
-   catalogued the way ULM's seven historical errors were, because it hasn't been run yet.
+   derivation pass can go wrong in specific, cataloged ways; this system's own failure modes have not yet been
+   cataloged the way ULM's seven historical errors were, because it hasn't been run yet.
 5. **Naming.** "The Canon Gap Resolution Method" is this proposal's own working name, chosen to parallel
    `Real-World_Basis_Extrapolation_Method.md`'s naming convention — not confirmed as final.
 

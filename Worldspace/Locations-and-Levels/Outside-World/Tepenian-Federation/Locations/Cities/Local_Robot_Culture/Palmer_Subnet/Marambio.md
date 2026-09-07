@@ -28,7 +28,7 @@ outliving him.*
 
 - **Input A — National Culture Composition:** `Local_Cultures/Palmer_Subnet/Marambio.md`, full 32-section
   read. §5 ("Standing on Warmer Ground" — a genuine dual civic identity, airfield and shipyard equally central,
-  neither identity cancelling the other), §6a (movement as the civic norm, never built for permanence), §6f
+  neither identity canceling the other), §6a (movement as the civic norm, never built for permanence), §6f
   (the downtime custom — dockworkers, human and robot, taking smoke breaks together during rare quiet stretches,
   "a small, genuine ritual of shared rest inside an otherwise constantly-moving city"), §7 (some dockworkers
   come specifically because robot society treated them better than human society ever did), §15 (Aviation/

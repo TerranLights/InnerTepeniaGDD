@@ -13,7 +13,7 @@
 
 ## Small offices for educational training (pre-war)
 
-- archival preservation and intelligence-record cataloguing
+- archival preservation and intelligence-record cataloging
 - hosted-gathering hosting craft (guest curation, argument facilitation, the tradition's own implicit rules)
 - storytelling and political-commentary craft, treated as living literary culture
 

@@ -47,6 +47,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 
 | City | Subnet | Shape *(`02` §4)* | Deficit address *(`02` §4.1)* | Pass |
 |---|---|---|---|---|
+| **Shirayuki** | Mirny | ⚠ **Read twice** — `COST-ABSENT`-leaning quarantined / `COST-DOMINANT` admitted | ⭐ **FOUR deficits, FOUR different addresses — no two share a remedy or a counterparty** | `City_Development_Passes/Mirny_Subnet/Shirayuki/` |
 | | | | | |
 
 # 2. PHASE 2 — COMPOSITION & ARRIVAL
@@ -55,6 +56,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 
 | City | Arrival mode-mix | The organizing axis |
 |---|---|---|
+| **Shirayuki** | Assigned at founding; no self-selected layer at all; *chose it* fills only in Act 2, and only through an institution | ⭐⭐ **ASSIGNED FIRST, CHOSEN LATER** — *when did anybody's own choice to be here first become part of their story?* |
 | | | |
 
 # 3. PHASE 3 — SURFACE & TEXTURE
@@ -63,6 +65,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 
 | City | Axis | Seasonal worst point |
 |---|---|---|
+| **Shirayuki** | ⭐⭐ **ABRASION** — *what the air does to every exposed surface, continuously* | **Deep winter: darkest, coldest AND windiest — the damage accrues unobserved** |
 | | | |
 
 # 4. PHASE 4 — ORDINARY LIFE
@@ -72,6 +75,7 @@ nothing at all.
 
 | City | Axis | |
 |---|---|---|
+| **Shirayuki** | ⭐⭐ **THE WINDOW** — *what can be deferred and what cannot* | |
 | | | |
 
 # 5. PHASE 6 — MEANING
@@ -81,12 +85,14 @@ traditions in one shared environment," and against giving every location a bespo
 
 | City | The unnamed load-bearing thing | Observance axis | Death & the dead |
 |---|---|---|---|
+| **Shirayuki** | ⭐⭐⭐ **Standing is earned by ATTENTION, not DURATION** | ⭐⭐ **AUDIT** — *an annual public reckoning on a voluntary obligation* | ⛔ **DEFERRED corpus-wide** |
 | | | | |
 
 # 6. PHASE 7 — ORDER
 
 | City | Governance: what is UNADMINISTRABLE | Transmission: how skill passes | Counterculture axis |
 |---|---|---|---|
+| **Shirayuki** | ⭐⭐ **ALLOCATION** — *three consequential facts, and none of them is decided here* | ⭐⭐ **DEMONSTRATED, not certified** | ⛔ **NONE — the contradiction is intrapersonal, so there is nobody to organize** |
 | | | | |
 
 # 7. PHASE 8 — MAKING
@@ -95,12 +101,14 @@ traditions in one shared environment," and against giving every location a bespo
 
 | City | Food axis | Dress axis | Language / speech marker |
 |---|---|---|---|
+| **Shirayuki** | ⭐⭐ **DEFERRAL** — *what could wait, and what survived somebody else's handling* | ⭐⭐ **WEAR, not CUT** | ⭐⭐ **Degrees of KEPTNESS** — *an occupational register carried as vernacular* |
 | | | | |
 
 # 8. PHASE 5 — RELATION & GEOMETRY
 
 | City | Named relational axis | What it refuses to develop, and who supplies it |
 |---|---|---|
+| **Shirayuki** | ⭐⭐ **PRESENCE** — *it shares everything and is present at nothing* | ⛔ **It does not refuse — it CANNOT.** *Ground on the water, supplied by the two that have shore* |
 | | | |
 
 # 9. PHASE 9 — POPULATIONS
@@ -110,6 +118,7 @@ built environment, a shared constraint, a shared exclusion.
 
 | City | Lens | Is there a category here that matters MORE than kind? |
 |---|---|---|
+| **Shirayuki** | ⭐⭐ **The built environment, chosen from a shared exclusion** | ✅ **YES — how well you keep things.** *Kind-blind, because the grading lives in a language rather than an institution* |
 | | | |
 
 ---

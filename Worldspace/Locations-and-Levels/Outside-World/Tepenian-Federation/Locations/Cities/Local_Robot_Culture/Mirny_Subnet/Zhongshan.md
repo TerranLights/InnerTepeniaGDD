@@ -84,7 +84,7 @@ with nothing to adapt at all.*
 | Religion and Belief | **Yes — already richly established** | §18 already names simulation theory and "God-mind" frameworks as the dominant robot philosophical orientation; see §5. |
 | Consumption and Vice Culture | **Yes** | Siligel already established as craft, not industrial output, and exported subnet-wide; Glitch-Coolant confirmed as one of the three canon-named bohemian/variety cities; see §6. |
 | Sexuality | **Yes** | A courtship logic built on comfortable silence rather than escalating disclosure, deliberately differentiated from Janbogo's active-hosting version; see §7. |
-| Vernacular Language *(Part IV worked example)* | **Yes** | Archival/classification vocabulary from the Long Record's own cataloguing practice, bleeding into careful, considered casual speech; see §8. |
+| Vernacular Language *(Part IV worked example)* | **Yes** | Archival/classification vocabulary from the Long Record's own cataloging practice, bleeding into careful, considered casual speech; see §8. |
 | Arcanet Etiquette *(Part IV worked example)* | **Yes — already confirmed in canon, and directly verifies Davis's forward-flagged claim** | §24 confirms a genuinely archival/research orientation, not social — see §9 and the Swap Test. |
 | Robot Biology and Culture | **Yes** | Siligel already established as recognized, exported craft; see §6. |
 | Glitch-Coolant | **Yes, already confirmed in canon** | Zhongshan is one of the three named bohemian/cosmopolitan-variety cities in the original Tepenia-wide canon. |
@@ -182,7 +182,7 @@ localize per city.*
 
 ### 8. Vernacular Language — Robot-Specific Speech Markers
 
-- **[Adapted, Surface]** Given the Long Record's own meticulous cataloguing practice (the most comprehensive
+- **[Adapted, Surface]** Given the Long Record's own meticulous cataloging practice (the most comprehensive
   pre-Split-Brain archive on the subnet), a plausible local vernacular source is archival/classification
   terminology bleeding into casual speech as a marker of careful, considered expression — genuinely distinct
   from every other city's vernacular source-type in this run (heritage-fossil, craft-precision, road-jargon,

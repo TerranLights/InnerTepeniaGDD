@@ -1,6 +1,68 @@
+# ⭐⭐⭐ LAW 0-R — RESEARCH FULLY. **A PICK IS NOT EXHAUSTED BECAUSE IT HAS BEEN SEARCHED.**
+
+> ## ⛔ **GOVERNING. Added 2026-09-06 at the developer's direction, to the ORIGINAL and to this copy in the same commit.** *Stated in FULL in every file that specifies research — because a procedure that cites its governing law instead of stating it will be run without it.*
+
+**Developer instruction, verbatim:**
+
+> ### **"When doing web research on a particular place/location/topic/idea/etc etc etc, research FULLY. I don't expect you to deliver 'fast results'. What I want is for you to do it *RIGHT*."**
+
+**This is `LAW 0` — depth over speed — applied to the one activity where the temptation to stop is strongest,
+because *a search that returned something feels finished.***
+
+## ⭐⭐ WHY — **the developer's own reason, and it is the whole justification**
+
+> ### **"Doing web research is for ensuring REALISM and ACCURACY, and that's only possible with real, accurate input data."**
+
+***Not inspiration-gathering, not decoration — the INPUT DATA layer, which everything downstream inherits.***
+⛔ **A RECALLED fact is a guess wearing a confident tone.** ⛔⛔ **A WRONG fact is worse than a MISSING one**,
+because it produces worldbuilding that is confident, coherent and wrong and nothing downstream flags it —
+*measured twice here: a census parse returning "33 plausible rows, a sensible mean, and a sensible spread —
+all wrong," and 22 cities carrying wrong polar-night spans (`M-141`).* ⭐ ***A zero invites suspicion; a
+plausible number does not.*** ⛔ **And a THIN fact set produces a THIN place, which no gate can detect.**
+
+> # **The standard is not "did I find something." It is "is what I found REAL, and is there ENOUGH of it to build on?"**
+
+## The measured evidence, three deep
+
+| | |
+|---|---|
+| ⭐ **`LAW 0`'s controlled comparison** *(same location, same author, same day, at two picks and at six)* | **the two strongest findings came from picks four, five and six and DID NOT EXIST at two** |
+| **2026-09-06 — eleven searches, one city** | a three-pick convergence was **invisible until the third**; the sharpest import arrived on the **sixth** |
+| ⭐⭐⭐ **2026-09-06 — same session, second instruction** | ***the finding that resolved the pass's own spine tension came from the ELEVENTH search — run only because the developer sent the session back to a pick already logged as covered*** |
+
+## ⛔ THE FAILURE MODE, AND `LAW 0` DID NOT HAVE IT
+
+**Anti-pattern 2 guards against NOT LOOKING** — *"a pick is only redundant once you have actually looked at
+it."* ***This is the next channel out: a pick looked at ONCE and therefore treated as spent.***
+
+> # **ONE SEARCH AGAINST A PICK ESTABLISHES THAT THE PICK EXISTS. IT DOES NOT ESTABLISH WHAT THE PICK HOLDS.**
+
+**The instance:** *four assigned picks searched, each logged with verbatim strings and sources, the set
+recorded as covered.* **One had been searched only through a SUB-LOCATION of itself.** ***Sent back, that pick
+rescued a dead end and supplied the pass's best structural contrast.***
+
+## In practice
+
+1. **Do not stop at the first useful return.**
+2. **Query every pick from more than one ANGLE** — founding · physical constraint · what residents do about it
+   · what it lost · **what it is a contrast FOR**.
+3. ⭐ **A pick with a sub-part is at least TWO picks.** *A district is not its city; a station is not its site.*
+4. ⭐⭐ **GO BACK TO PICKS ALREADY LOGGED AS COVERED.**
+5. **Run and log near-duplicates** — *"it added little" is information about the SOURCE.*
+6. **Log dead ends and whether each died at the QUERY or at the SOURCES.**
+7. ⛔ **Never assert redundancy from a title.**
+
+> ## ⛔⛔ THERE IS NO TIME LIMIT AND NO SEARCH BUDGET.
+> ⭐ **A log with eleven searches, two dead ends and four honest *"not used"* rows is a BETTER artifact than one
+> with four clean hits** — *it tells the next session where not to go.*
+> **And the companion failure, carried unchanged: *did this source CHANGE a finding, or ORNAMENT one?***
+
+---
+
 > # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
 >
-> **Source:** `../../Real-World_Basis_Extrapolation_Method.md` · **pinned 87c96bdb1c7bff79 · 199 lines · re-derived 2026-09-05**
+> **Source:** `../../Real-World_Basis_Extrapolation_Method.md` · **pinned 0953f4429c55b512 · 417 lines · re-pinned 2026-09-06**
+> *(was `87c96bdb1c7bff79` · 199 lines. **The original gained `LAW 0-R` on 2026-09-06 and this copy gained it in the same commit** — so the pin moved for a known, deliberate reason, not by drift. ⭐ The block above this box is that addition, stated in full in both files per its own rule.)*
 >
 > ***Nothing was cut from the original.*** **This is the Universal Location Methodology's own reading of the
 > same rules — identical in substance, with location-specific worked instances replaced by pointers** — so the
@@ -150,6 +212,80 @@ lives in the canon registry, `00_RUNBOOK.md` §B. Check it before any Step 3 res
 
 ---
 
+## ⭐⭐⭐ THE OTHER HALF OF THE LAW — **WHAT IT WAS NEVER BLOCKING.** *(Developer, 2026-09-06. Added here 2026-09-06.)*
+
+> ### ⛔⛔ EVERYTHING ABOVE IS THE PROHIBITION. **THIS FILE CARRIED THE PROHIBITION AND NOT ITS PURPOSE, AND THAT IS ITS OWN FAILURE MODE.**
+> ***A reader who takes only the restrictive half refuses ALL ethnic and origin material — and that is not
+> obedience, it is a MISREADING that produces placeless locations that could be anywhere.***
+
+**Developer's own words, verbatim:**
+
+> ### **"You shall NOT incorporate 'Russian heritage' into the establishment of the city of [X]… Once the population composition has been established, then, yes, you can start incorporating aspects of Japanese (or Korean) culture, traditions, history, social norms, etc., because [X] is a fundamentally Japanese city (or [Y], being a fundamentally Korean city). *THAT'S* the purpose of the 'GPS purposes only' Law."**
+
+| ⛔ What the law blocks | ✅ What the law was never blocking |
+|---|---|
+| ***The REAL SITE'S operator nationality bleeding into the place*** — *its builders, its flag, its lineage, its abandonment, its fate* | ⭐⭐ **THE PLACE'S OWN ETHNIC CHARACTER, which comes from its FOUNDING POPULATION and is canon** |
+
+> ## ***THE LAW EXISTS SO A PLACE IS CHARACTERIZED BY WHO LIVES THERE, NOT BY WHOSE SITE IT OCCUPIES.***
+> **It is a rule about PROVENANCE, not a rule against ethnicity.**
+
+### ⭐ IT IS A SEQUENCING RULE, NOT A REPEAL — **the prohibition above is UNCHANGED**
+
+| Stage | What is permitted |
+|---|---|
+| **BEFORE composition is established** | ⛔ **GPS FACTS ONLY.** *You may not infer **who lives somewhere** from national character, temperament or cultural reputation.* **This is the whole point of the prohibition and it is untouched** |
+| ⭐ **AFTER composition is established** — *origins named, proportions settled* | ✅ **Origin-ethnicities and ethnic-cultures MAY be taken into consideration.** *The populations are canon; what they carry is then legitimately in scope* |
+
+> ### ⭐⭐ THE DISTINCTION THAT MAKES THIS SAFE — **two different generators, and the unlock touches only one**
+> | | |
+> |---|---|
+> | ⛔ **`G7` — the SITE's real-world basis** | **UNCHANGED. GPS PURPOSES ONLY — a coordinate, never a cause, an identity, or a history.** ⚠ *And that covers the real site's **lineage, abandonment and vacancy**, not merely its nationality* |
+> | ✅ **`G8` — the POPULATION's composition** | ***This is what the ruling unlocks*** |
+
+### ⛔⛔ NEITHER EXTREME IS THE ANSWER — **composition names the STOCK; time and place produce the CULTURE**
+
+| ⛔ Too little | ⛔ Too much | ✅ The operation |
+|---|---|---|
+| **Refusing all ethnic material** — *placeless locations that could be anywhere* | **Transplanting the source culture intact** — *"a costumed version of somewhere real"* | ⭐⭐ ***Take the origin culture as the STARTING STOCK, then apply local divergence to it*** |
+
+**⭐ THE DIVERGENCE OPERATOR — the checklist:** **time · separation · local environmental setting · local
+struggles and hardships · local goals · local sensibilities and habits.**
+
+> ⛔⛔ **DO NOT REASON FROM THE ELAPSED TIME.** *Developer:* ***"Don't think in terms of '250 years' of
+> outcomes. Just process the data purely on its own terms."***
+
+### ⭐ AND ORIGIN IS ANCESTRY, NOT IDENTITY — **the Acts**
+**`Act 1`** *(2564 → early 2600s)*: people are still *"X who live in Antarctica."*
+**`Act 2`** *(~late 2600s / early 2700s on)*: they are **properly Tepenian — origin is ancestry, not identity.**
+⚠ **The Second Interwar spans both Acts and is mostly Act 2.** ⭐ ***Differentiate locally; converge nationally.***
+
+📎 **Full statement: `00_RUNBOOK.md` `C.9b` *(sequencing)* · `C.9c` *(what the law is for)* · `C.9d` *(the
+divergence principle)*, and the universe-wide original in the canon registry at `§B`.**
+
+---
+
+
+> # ⛔⛔⛔ THE TWO BINDING LAWS THAT GOVERN THIS METHOD IN A `ULM / CST / RWBEM` RUN
+> **Developer rulings, 2026-09-06. Added here 2026-09-06** — *this file carried neither, and a method whose
+> whole job is INVENTING things is the last place either should have been missing.*
+>
+> ## ⛔⛔ NO FORCED FIT — **AN EMPTY SLOT IS A RESULT, NOT A GAP**
+> ***This is the law with the most force over this method.*** **Step C asks whether the location's own
+> character plausibly produces its own version of a researched thing.** ⛔ **The failure mode is answering
+> *yes* when the honest answer is *no*** — *and it runs BOTH ways: assigning an existing roster member that
+> does not fit, **or** inventing a bespoke one to fill a blank.* **Rosters are OPEN, so a roster's SIZE is
+> never the test.** ✅ ***"Nothing here produces a version of this" is a complete and legitimate answer.***
+> ⭐ **Say so and leave the slot explicitly open** — ***"none is sited here" must never read as "none is
+> possible here."***
+>
+> ## ⛔⛔⛔ ONE LOCATION, ON ITS OWN TERMS — **never compare any location to any other**
+> **No ranking, no z-scores, no "nth of N," no "unlike X," no other location as a control or implicit normal.**
+> ⚠ **Where it bites HERE is `Step D`:** *the cross-check reads established material, and the read-list is
+> scoped per-location on purpose.* ⛔ **Do not reach for a `Cross_City_*` file to decide whether an invention
+> fits.** ⭐ **RELATION stays legal** — *what this place needs from elsewhere, what flows, in which direction.*
+> **One-sentence test: delete every other location's name; if the claim survives, it was relation.**
+> ⚠ **Scope: `ULM / CST / RWBEM`. District passes are untouched.**
+
 ## The process
 
 **Step A — Pull the full pick list.** Every Primary/Secondary/Supporting entry for the location, not just the
@@ -182,6 +318,38 @@ function actually be? This is the same fusion discipline the Compilation Guide's
 ("what does this specific real place's own documented character give back to the [location] that isn't already
 there"), just applied at the level of individual concrete details instead of the location's overall identity.
 
+> ### ⭐⭐⭐ WHERE "ALREADY-ESTABLISHED CHARACTER" ACTUALLY LIVES — **address added 2026-09-06**
+> ⛔ **This step named no source for its own central input.** *It asked whether the location's established
+> character produces a thing, without saying where that character is written down* — **the same defect this
+> file's own `M-117` records one step below, in its milder form: not a dead address, but no address at all.**
+>
+> **⚠ PATHS ARE RELATIVE TO `Worldspace/Locations-and-Levels/`** — *stated, not assumed.*
+>
+> | Location type | Its established character |
+> |---|---|
+> | ⭐ **A city** | **`Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/<Subnet>/<City>/`** — *the completed ULM pass* |
+> | **A Concordia district** | **`Concordia-City/Districts/`** — *that district's own pass files* |
+>
+> ### ⛔ THE ULM WRITES **PHASES** INTO **STEP**-NUMBERED FILES. **The two numberings do not match.**
+> **Phase 0 → `00_Frame.md`** · **Phase 1 *(constraint & capability)* → ⭐ `02_Spine.md`, NOT `01_`** ·
+> **Phases 2–10 → `04_Phase_02_*.md` … `04_Phase_10_*.md`.**
+> ⚠ **`01_Inherited.md` is the Step 1 canon-inheritance audit** — *not a phase, and it holds what the location
+> has without having explained, which is often exactly what a fused detail must not duplicate.*
+>
+> ### ⭐ AND THE FUSION QUESTION IS ASKED PER **DETAIL**, SO READ BY WHAT THE DETAIL *IS*
+> | Step B surfaced a… | Ask it against |
+> |---|---|
+> | **building · sub-space · street** | `04_Phase_03_Surface_and_Texture` · `04_Phase_10_Catalog` |
+> | **ritual · observance · custom** | `04_Phase_06_Meaning` · `04_Phase_04_Ordinary_Life` |
+> | **role · trade · occupation** | `04_Phase_09_Populations` · `04_Phase_08_Making` |
+> | **tool · material · technique** | `04_Phase_08_Making` · `04_Phase_03_Surface_and_Texture` |
+> | **institution · rule · record** | `04_Phase_07_Order` |
+> | **anything moving in or out** | `04_Phase_05_Relation_and_Geometry` |
+>
+> ⛔ **AND READ `10_Readiness_Check.md` BEFORE CONCLUDING THE LOCATION LACKS SOMETHING.** ***A blocked check is
+> not an absence*** — *a pass can be forbidden from opening the canon file that would have answered, and it
+> records that as blocked. Fusing a detail into a gap that is merely unread is how a contradiction gets built.*
+
 **Step D — Cross-check against everything already established before writing anything down.** Every invented
 place/thing/person/setting needs to trace back to something already canon, before proposing something that
 might already exist under a different name or genuinely contradict established fact.
@@ -197,10 +365,40 @@ might already exist under a different name or genuinely contradict established f
 > · the subnet Ultra-Megasheets · the Compilation Guide's Step 2.* ⚠ **All 41 city Cross-Reference Synthesis
 > files sit inside that tree.**
 >
-> ✅ **READ INSTEAD — cities:** **`Specs/<City>.md`** · **`Local_Cultures/<Subnet>/<City>.md`** ·
-> **`City_Vision_Notes/<City>.md`** · **`Official_Population_Census.md`** ·
-> **`Extent_and_Density_Per_City.md`.** ⚠ *Amundsen Station and Concordia do not follow the `<Subnet>/`
-> pattern — read those two by name, never by derived path.*
+> ## ✅ READ INSTEAD — cities. ⛔⛔ **REVISED 2026-09-06. THESE ARE NOT ONE TIER, AND THE ORDER IS THE POINT.**
+>
+> | | Read | Standing against a new invention |
+> |:-:|---|---|
+> | **1** | **`Official_Population_Census.md`** · **`Extent_and_Density_Per_City.md`** | ⭐⭐ **HARD CANON** — *census arithmetic and a closed ruling.* **Outranks everything below it, including the pass** |
+> | **2** | **`City_Vision_Notes/<City>.md`** | ⭐⭐⭐ **AUTHORIAL VISION — PRIMARY AND UPSTREAM.** *The developer's own words: **"my own personal mental visions… a basis OF canon."*** ⛔ **NEVER treat as a derived conclusion** |
+> | **3** | ⭐⭐⭐ **`Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/<Subnet>/<City>/`** — **THE COMPLETED ULM PASS** | **THE CURRENT BEST DERIVATION.** *Added 2026-09-06 — it did not exist when this list was written* |
+> | **4** | **`Specs/<City>.md`** · **`Local_Cultures/<Subnet>/<City>.md`** | ⚠ **DERIVED DATASHEETS.** ***The ULM may supersede these*** *(`M-160`'s four source tiers)* |
+>
+> ### ⛔⛔ WHY THE PASS TREE WAS MISSING, AND WHY IT IS NOW THE PRIMARY DERIVED SOURCE
+> **This list was corrected on 2026-09-05 — one day before the pass tree held any content.** *It was not
+> omitted; it did not yet exist to name.* ⭐ **And the developer's reason for withholding the Megasheets is the
+> same reason the pass now outranks them:**
+>
+> > ***The Megasheets are almost certain to be REWRITTEN RATHER THAN EDITED.*** ⚠ **Not because their
+> > underlying sources go stale — a Megasheet is a synthesis of what is already in the repo, and that material
+> > is not going anywhere; the new ones will still draw on it.** ⛔ **Because the `ULM / CST / RWBEM` chain
+> > produces so much new usable data per location that patching the old synthesis stops being the cheaper
+> > operation.** *A single city's ULM pass alone runs to thousands of lines of researched, gated,
+> > panel-reviewed findings, and CST and RWBEM have not run yet.*
+> >
+> > ⭐ **The consequence for THIS step is what matters here, and it does not depend on any of that being
+> > settled:** ***a synthesis that predates the chain cannot validate the chain's own output.*** **Cross-checking
+> > new work against it validates the new against the stale** — which is exactly what the 2026-09-05
+> > withholding was for.
+>
+> ### ⚠⚠ AND A DATASHEET MAY CARRY CORRECTIONS THE PASS ALREADY FOUND AND COULD NOT APPLY
+> **A ULM `Step 5` opens `Local_Cultures/<Subnet>/<City>.md` and dockets every conflict it finds — but it does
+> NOT edit that file, because it is the developer's.** ⛔ ***So a datasheet can sit in this list carrying known,
+> recorded, unapplied errors.*** ✅ **Before trusting a row 4 source, open the pass's `05_Reconciliation.md`
+> and check whether the specific claim you are relying on is on its proposed-correction docket.**
+>
+> ⚠ *Amundsen Station and Concordia do not follow the `<Subnet>/` pattern — read those two by name, never by
+> derived path.*
 > ✅ **READ INSTEAD — districts:** *Deep Dive and Community Infrastructure sections, which are outside the
 > withheld tree.*
 

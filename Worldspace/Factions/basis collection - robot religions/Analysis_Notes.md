@@ -523,7 +523,7 @@ of writing.
    combined with extremely precise order.** Superconductivity means literally zero electrical
    resistance — not "very low," zero. It only occurs at exactly the right combination of temperature and
    atomic arrangement ("hole concentration" in the article's own phase diagram). This is about as clean a
-   real-world physics analogue for a Buddhist conception of liberation/cessation (the end of resistance,
+   real-world physics analog for a Buddhist conception of liberation/cessation (the end of resistance,
    friction, obstruction) as this whole collection has produced — and unlike a purely metaphorical
    reading, the actual physical mechanism really does require both extreme cold *and* extreme precision
    together, neither alone sufficient.
@@ -764,10 +764,10 @@ the book.
 ## Topology reference books — TOC-level scan (Polydimensional Animism)
 
 **Source folder:** `Reference/Materials/books/STEM/math/topology/` — ten real topology/differential-geometry
-textbooks, none previously catalogued anywhere in this project (confirmed absent from
+textbooks, none previously cataloged anywhere in this project (confirmed absent from
 `Reference/Real-World/Book_TOC_Master_Reference.md`, which has not yet touched the STEM/math/Physics/
 Astrophysics corpus at all). **This is a table-of-contents-level scan only, not a full content extraction**
-— the same lighter-weight pass used for the general book-cataloguing effort, done here specifically
+— the same lighter-weight pass used for the general book-cataloging effort, done here specifically
 because the developer asked what TOCs could be pulled for "higher-dimensional topology-related topics" to
 support Polydimensional Animism. Deeper premise-by-premise extraction (in the style of the video sources
 above) is a separate, later task if wanted.
@@ -1201,7 +1201,7 @@ more scripture-ready material than any of those later, more diluted retellings.
 3. **A concrete demonstration sequence proving higher-dimensional access, escalating from words to
    deeds.** The Sphere, having failed to convince A Square through explanation alone, proves his claim by:
    (a) reaching into a locked cupboard through a "direction" A Square cannot perceive and retrieving an
-   object without opening the door; (b) seeing and reporting the interior of nearby homes and a theatre from
+   object without opening the door; (b) seeing and reporting the interior of nearby homes and a theater from
    "above" the plane; (c) touching A Square's own stomach from the inside without breaking his skin. **A
    real, escalating, three-part "proof of higher-dimensional access" structure** — directly usable as a
    template for how this religion's own believers might describe (or be asked to substantiate) an actual

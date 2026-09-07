@@ -317,7 +317,7 @@ mechanism. **Category: thing/practice.**
 
 **HIT 6 (Wrong Instrument for a Redundant System — visible/dramatic) → opposite: concealed/gradual.**
 **Kept — HIT 6b: Quiet Centralization.** Rather than one dramatic unreviewable order, Libra's own
-bureaucratic-greyness shadow (§3: "stodgy, dull, and bureaucratic... colorlessness... never a risk taker")
+bureaucratic-grayness shadow (§3: "stodgy, dull, and bureaucratic... colorlessness... never a risk taker")
 produces a slow, unannounced, procedural erosion of Janbogo's redundant-systems architecture — the same
 wrong-instrument problem, happening invisibly rather than in a crisis spotlight. **Category: thing/practice.**
 

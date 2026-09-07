@@ -371,10 +371,180 @@ If the honest answer is *"probably, I suppose,"* the pass is not finished regard
 
 ---
 
+---
+
+# ⛔⛔⛔ THE LAW OF NO FORCED FIT — **AN EMPTY SLOT IS A RESULT, NOT A GAP.**
+
+> ## **BINDING LAW. Added 2026-09-06 at the developer's direction, during Shirayuki's Phase 6.** *Stated in full rather than cross-referenced, for the reason `LAW 0` already gives.*
+
+**Developer instruction, verbatim:**
+
+> ### **"I am open to the possibility (in fact, the likelihood) that there will be more robot religions, so don't force any community/society into a religion where it doesn't already naturally fit."**
+> ### **"Also, make that a binding law in the Methodology."**
+
+## The law
+
+> # **NEVER FORCE A LOCATION INTO A CATEGORY IT DOES NOT NATURALLY OCCUPY — AND THE ERROR RUNS IN BOTH DIRECTIONS.**
+
+| ⛔ Both are the same failure | |
+|---|---|
+| **ASSIGNING** an existing roster member to a location it does not fit | *because the roster had a slot and the location had a blank* |
+| **INVENTING** a bespoke one to fill the blank | *because a phase asked a question and an empty answer felt like failure* |
+
+## ⭐ Why the roster's SIZE is never the test
+
+***A setting's rosters are OPEN and are expected to grow*** — **religions, factions, institutions, symbol
+systems, industries, holidays.** **So the question is never *"does one of the existing N apply?"*** It is:
+
+> ### ***"Does any of this naturally fit HERE — and if none does, is that not simply the truth about this place?"***
+
+## ⛔ What a pass must write when nothing fits
+
+1. **Say so plainly.** *"No faith is sited here." "No faction claims it." "No symbol member fits."*
+2. ⭐⭐ **LEAVE THE SLOT EXPLICITLY OPEN.** ***A later reader must not be able to mistake "none is sited here"
+   for "none is possible here."*** **Write the second sentence.**
+3. **Write what the place DOES have, as what it is** — a **stake**, a **compact**, a **debt**, a **standard of
+   worth**, a **habit nobody has named**. ⛔ **Do not promote it into the category that was empty.**
+   *A shared proposition is not a creed, and promoting one into the other is this same forcing error wearing a
+   third costume.*
+4. ⏸️ **Leave genuinely undecided things undecided.** *A location's non-devotional standard may later become
+   the seed of a faith, or may stay secular indefinitely.* ***Both are legitimate; the pass does not choose.***
+
+> ### ⚠ THE INSTINCT THIS EXISTS TO OVERRIDE
+> **A phase asks a question. An empty answer feels like a thin pass.** ***So the pass reaches for the nearest
+> available member of whatever roster is open in front of it, and the fit is "close enough."***
+> **`LAW 0` already names the parent instinct — *"accepting the first coherent answer because it fits and the
+> pass is long"* — and this is its roster-shaped form.**
+> ⭐ **And it compounds across a corpus:** *thirty-eight locations each nudged into the nearest category
+> produce a setting where every place has a faith, a faction and a signature, **and none of it means
+> anything**, because nothing was ever allowed to be simply absent.*
+
+**Scope: every roster-shaped category, not only belief** — *faiths, factions, symbol members, sector labels,
+arrival modes, capability shapes, location types and modifiers.* ⭐ **The originating and primary case is
+belief, and `03` §Phase 6 B carries the operational form.**
+
+---
+
+# ⛔⛔⛔ THE LAW OF ONE LOCATION, ON ITS OWN TERMS — **NO CITY IS EVER COMPARED TO ANY OTHER CITY**
+
+> ## **BINDING LAW. Developer instruction, 2026-09-06, stated verbatim:**
+> > ### **"Do not. Do *NOT* compare any city to any other city. Ever. That is for much, much, much later in development. For the ULM/CST/RWBEM meta-methodology, for each location, create that one location *on its own terms*."**
+
+## ⭐ THIS IS `§C.8d` GENERALIZED — **and it was always heading here**
+
+**`§C.8d` already ruled: *"NEVER MEASURE ANOTHER LOCATION AGAINST CONCORDIA. Not for scale. Not for
+structure… Not as a control, a baseline, a comparison class, or an implicit 'normal'."*** ⭐⭐ ***The ruling
+now extends that from one city to ALL of them.*** **And the runbook's own opening section has said the same
+thing from the start:** *"**THE UNIT IS ONE LOCATION.** This methodology builds ONE location, start to
+finish."*
+
+| ⛔ FORBIDDEN during a ULM / CST / RWBEM pass | ✅ Permitted |
+|---|---|
+| **Ranking a city against others** — *"worst retention of the three," "26 of 37 are colder," "the freest in its subnet"* | ⭐ **The location's OWN figures, stated flatly** — *"retention `61.81%`"; "mean annual `−9.9 °C`"* |
+| **z-scores, percentile positions, "nth of N"** | **Its own arithmetic** — *population ÷ ground, its own tier percentages* |
+| **"Unlike X, this city…" · "same as X" · "better/worse grounded than X"** | ⭐ **`01` §5.3a's PEER-FREE substitutes — the location's own earlier states, real-world comparables, the generator-conflict method** |
+| **Using another city as a control, a baseline, or an implicit normal** | ⭐⭐ **RELATION — what this place needs from elsewhere, what flows, in which direction** *(see the open question below)* |
+
+> ### ⭐⭐⭐ WHY IT PRODUCES BETTER LOCATIONS, NOT THINNER ONES
+> ***A comparison is a shortcut to a feeling of insight.*** **"This city is the coldest / freest / worst-
+> retaining of N" reads as a finding and is actually a fact about a spreadsheet.** ⭐ **Stripped of the
+> ranking, the pass has to say what the place is LIKE — which is the thing the methodology is for.**
+> ⚠ **And `01` §5.3a already insists on this:** *"A pass with no sibling set is the ordinary case, not a
+> degraded one."*
+
+## ✅ RULED — **DIFFERENTIATION IS A TERMINAL CHECK, NOT AN IN-RUN CONSTRAINT**
+
+> ### **Developer instruction, 2026-09-06, stated verbatim:**
+> > ### **"In terms of your interpretation of Part III's 'anti-convergence' rule, yes, this is something we'll check for and decide at the very end. During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."**
+
+⭐⭐⭐ **THE FIVE COMPARISON INSTRUMENTS ARE HEREBY MOVED OUT OF THE PER-LOCATION PASS.** **They are not
+deleted, weakened, or declared wrong** — ***they are relocated to the stage where their input actually
+exists.*** **A cross-city instrument cannot function on a corpus of one, and running it early does not make
+it rigorous; it makes it a guess wearing a table.**
+
+| Instrument | Was | ⭐ NOW |
+|---|---|---|
+| **`03` Phase 5 §5b — the three-way differentiation set** | *"this location plus its two hardest frictions"* — **mandatory for clustered locations** | ⏸️ **TERMINAL.** Phase 5 writes RELATION only — mechanism, dependency, direction, flow |
+| **`04` Gate 6 — duplicate institutions** | needs siblings' completed material; already deferred to Step 7 | ⏸️ **TERMINAL.** *(It was already the closest to correct — it deferred by itself.)* |
+| **`Step 6` — Differentiate** + the `Cross_City_Culture_Differentiation_Table` | **read the row BEFORE writing a category** | ⭐ **WRITE-ONLY during the run.** ***A pass ADDS its own column and never READS another's.*** The read happens at the terminal check |
+| **`02` §4's three-step rule** | *"where the shape repeats a sibling…"* | ⏸️ **TERMINAL.** In-run, the shape is tested against **`02` §4.0's double reading** — the same input set read twice — not against a sibling |
+| **`02` §G8's retention rule 1** | *"score against the full set, never the local group — report the z-score"* | ⛔ **NO SCORE OF ANY KIND in-run.** Report **the location's own percentage**. Ranking is terminal |
+
+> ### ⭐⭐⭐ WHAT REPLACES THEM IN-RUN — **"follow the data wherever it leads"**
+> ***The instruction is not "do less." It is "stop steering."*** **Every one of those five instruments was a
+> STEERING device — it asked "is this answer too much like someone else's?" *before* the answer had finished
+> arriving.** ⛔ **That question, asked early, is a convergence engine in its own right:** *a pass that knows
+> what its neighbors said will write around them, and writing-around-a-neighbor is still a neighbor-shaped
+> decision.*
+> ⭐ **Removing the steering does not risk sameness. It is the only condition under which genuine difference
+> can be OBSERVED rather than MANUFACTURED** — and the terminal check is where sameness, if it happened, gets
+> caught **with all 38 columns present, which is the only point at which the catch would have been true.**
+
+> ### ⚠ SCOPE — **this ruling names `ULM / CST / RWBEM`. It does not reach the district methodology.**
+> **`Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md` and `Cross_District_Differentiation_Table.md`
+> are a separate, completed, battle-tested instrument on a 13-district corpus that is already built** — its
+> read-before-write rule stays exactly as it is. ⛔ **Do not "harmonize" the two. They are at different
+> stages of their own lives.**
+
+## ✅ AND THE DISTINCTION IS NOW SETTLED — **RELATION is not COMPARISON**
+
+**`03` Phase 5 asks *"what is this place to the places around it"* and its core move is explicitly
+*"a MECHANISM, not a rivalry."*** ⭐ ***That is not ranking — it is dependency, direction and flow, which are
+facts about THIS location.***
+
+| ✅ Relation — a fact about this place | ⛔ Comparison — a fact about a spreadsheet |
+|---|---|
+| *"this city has no shore and depends on a harbor held by others"* | *"this city retained worse than its neighbors"* |
+| *"three highways end at a junction it shares"* | *"it is the least-connected of the three"* |
+
+✅ **RESOLVED by the 2026-09-06 differentiation ruling — *"follow the data wherever it leads."***
+***Where a location's own material genuinely involves neighbors — a shared site, a shared port, an eventual
+merger — that is its own history, and the data leads there, so the pass follows it.*** ⭐ **A neighbor may
+therefore appear in a pass as a FACT THIS LOCATION LIVES WITH. It may never appear as a MEASURING STICK.**
+
+> ### ⭐ THE ONE-SENTENCE TEST, and it is mechanical
+> **Delete every other city's name from the sentence.** ⭐ **If what remains is still a claim about THIS
+> location, it was relation — keep it.** ⛔ **If the sentence collapses, it was comparison — cut it.**
+> *"Depends on a harbor it does not own"* survives. *"Retained worse than its neighbors"* does not.
+
+> ## ⭐⭐⭐ RUN THE TEST ON **REFUSALS** TOO, NOT ONLY ON CLAIMS — `M-159`, a worked case
+> ***The test was written to catch comparisons being written IN. It catches facts being kept OUT just as well,
+> and nothing said so — which cost one pass a canon fact about its own subject.***
+>
+> **What happened:** **canon named three cities in one list** — *"bohemian/cosmopolitan cities (e.g. Janbogo,
+> Zhongshan, Shirayuki) support a wide variety of glitch-coolant types… **variety and refinement over raw
+> intensity**"* — **and the pass REFUSED it**, under `Cultural_Synthesis_Techniques`' *"if two places produce
+> similar-shaped answers, at least one is wrong,"* **recording it as *"a SHARED trait, not a finding."***
+>
+> **Apply the test to the refused sentence:** ***"Shirayuki supports a wide variety of glitch-coolant types,
+> and values variety and refinement over raw intensity."*** ✅ **Delete every other name and it survives
+> entire.** ⛔ ***It was never a comparison. It is a canon statement about one city that happens to appear in a
+> list of three.***
+>
+> ### ⛔⛔ AND THE DISCARDED FACT WAS LOAD-BEARING
+> **The same phase had derived a temperament structurally and conceded in its own limits section that the claim
+> was *"structural, not measured."*** ⭐⭐ ***"Variety and refinement over raw intensity" is the same disposition
+> as "technique over effort"*** — **the corroboration was sitting in a file the pass had already read.**
+>
+> | ⭐ THE THREE RULES THIS YIELDS |
+> |---|
+> | **1.** ***A canon fact about the subject is admissible however many other subjects share it. SHARED ≠ COMPARATIVE*** |
+> | **2.** **Run the one-sentence test on a refusal before recording it as rigor** |
+> | **3.** ⚠ **Admission carries NO distinctiveness claim.** *"This is what the place is like" is the finding; "and nowhere else is" is terminal, and not the pass's business* |
+>
+> ⭐ **`M-156` diagnosed the comparison instruments as STEERING devices.** ***This is the stage past steering:
+> an instrument that deletes an answer rather than bending it*** — **and no QA gate catches it, because the
+> phase stays internally consistent and cites a rule that genuinely exists.**
+
+---
+
 > **The one rule under all of it** (`Disciplines/Cultural_Synthesis_Techniques.md`): **never carry one location's answers
-> into another.** If two places produce similar-shaped answers to the same technique, at least one is wrong.
-> Every gate serves that. **Law 0 is what makes it possible to obey** — two places produce similar-shaped
-> answers mainly when neither was thought about long enough to become itself.
+> into another.** ⭐⭐ **AND AS OF 2026-09-06 THIS IS ENFORCED AT THE STRONGEST POSSIBLE POINT — by not reading
+> the other location at all.** ***You cannot carry across an answer you never read.***
+> ⛔ **The "at least one is wrong" CHECK is itself a comparison, so it is TERMINAL, not in-run** — *it runs once
+> on the finished corpus, never inside a per-location pass.* **Every gate serves the rule; no gate performs that
+> check.** **Law 0 is what makes it possible to obey** — two places produce similar-shaped answers mainly when
+> neither was thought about long enough to become itself.
 
 ---
 
@@ -552,7 +722,7 @@ repo, not inside this one — so a pass must open it deliberately; it will not t
 | `Worldspace/Factions/` · `Factions/Robot_Religions/` | faction and religion roster — **check before inventing either** |
 | `Worldspace/National_Economy_and_Currency.md` | currency and economy |
 | `Worldspace/National_Holidays.md` | Federation-wide observances — **what a local holiday must be distinct from** |
-| `Worldspace/City_Logistics.md` | supply, dual economy, black market |
+| ⚠ `Worldspace/City_Logistics.md` | **SCOPE: CONCORDIA ONLY.** *Its own title is "Concordia — City Logistics Reference"; its content is domes, named districts, Neon Nomads, the Janbogo highway and a `−50 °C` envelope.* ⛔ **REMOVED from `§C.8c`'s Phase 4 row 2026-09-06 by developer ruling** — *it was registered as a general per-phase target for every city, which contradicted `§C.8d` (**Concordia is not a yardstick**). `M-152`.* ⭐ **Its two genuinely general sections — THE DUAL ECONOMY and the currency pointer — are the parts any location may use; the rest is Concordia's own.** ⏸️ *A split (`05` §6.1a rule 2) would let the general half be registered properly; not done* |
 | `Worldspace/Energy_Grid_Failure_Rationale.md` | the grid and its failure |
 | `Worldspace/Design_Principles.md` | standing design law |
 | `Worldspace/Characters/` | character canon, incl. `Enneagram_Character_Index.md` |
@@ -1578,6 +1748,30 @@ relying on it, and read every member's terms from its own file, never from the n
 > *rationale* column — those are capability verdicts wearing an index's clothing.**
 > **Worked pairing reads are archived at `Test_Runs/Worked_Examples_Archive/` and are withheld from cold runs.**
 
+> ### ⏸️⏸️ **UNDETERMINED — WHETHER THE ZODIAC SIGNS ARE ALSO ASSIGNED TO CITIES**
+> > **Developer ruling, 2026-09-06:** ***"It is theoretically possible that the Zodiac signs can be applied to
+> > the cities. They would just definitely repeat to some degree, since there are over 35 cities. Still, this
+> > is something we can apply later, once we have a better idea of what sorts of personalities the cities
+> > have. So, that's not something we need to worry about now… mark it as 'undetermined' in the full ULM until
+> > some other time."***
+>
+> ⭐ **STATUS: UNDETERMINED. Not refused, not adopted, and NOT a gap.** ⛔ **No pass may assign a sign to a
+> city, and no pass may treat the absence as an omission to be filled.**
+>
+> | | |
+> |---|---|
+> | **What cities carry TODAY** | ⭐ **PLANET + ELEMENT** *(`City_Symbol_Assignments.md`)* — **not signs** |
+> | **What districts carry** | **the twelve signs**, 1:1 with one deliberate absence at the Hub |
+> | ⏸️ **What is undetermined** | ***whether a sign layer is ALSO added to cities, later*** |
+> | ⚠ **The known consequence if it is** | ***SIGNS WILL REPEAT.*** **Twelve signs across 35+ cities is `~3` cities per sign, by arithmetic.** ⭐ **That is expected and is not a defect** — *the district set exhausted 12 signs against 13 districts and the leftover became a finding; a city set cannot do that and must not be written as if it could* |
+> | ⭐ **The stated precondition** | ***"Once we have a better idea of what sorts of personalities the cities have"*** — **so the assignment is DOWNSTREAM of the city passes, never an input to them** |
+>
+> ### ⛔ WHAT THIS MEANS FOR A PASS RUNNING NOW
+> **`G1` for a city is PLANET + ELEMENT and nothing else.** ✅ **The Zodiac Lens remains available to any
+> location as a NON-ASSIGNMENT interrogation technique** *(Phase 10 §B2)* — ⭐ **and that use-mode is
+> unaffected by this ruling, because it assigns nothing.**
+> ⚠ **Recorded in `Deferred_and_Flagged` terms: this is parked ON PURPOSE. Do not "helpfully" close it.**
+
 > ### ⏸️ THE WU XING GAP — the highest-value addition available to the existing systems
 > **The five have generating and overcoming cycles in the actual tradition** — Wood feeds Fire, Fire makes
 > Earth, Earth bears Metal, Metal carries Water, Water nourishes Wood, plus the overcoming cycle running the
@@ -1627,7 +1821,7 @@ open. Both are universal. The actual eras, dates and addresses are project data 
 > | `Specs/` section | Why it is NOT an input | Developer, verbatim |
 > |---|---|---|
 > | **`## Current Status / Destruction`** | **POST-WAR.** War damage, ruins, present occupancy | ***"For the purposes of deriving a location, 'Current Status / Destruction' is IRRELEVANT. SECOND INTERWAR PERIOD."*** |
-> | **`## Connection to Concordia`** | **Frames the city through the capital.** ***A location is synthesized on its own terms, on its own merit*** | ***"For the purposes of deriving a location, 'Connection to Concordia' is IRRELEVANT. A location gets synthesized on its own terms, on its own merit."*** |
+> | **`## Connection to Concordia`** | **Frames the city through Concordia.** ***A location is synthesized on its own terms, on its own merit*** | ***"For the purposes of deriving a location, 'Connection to Concordia' is IRRELEVANT. A location gets synthesized on its own terms, on its own merit."*** |
 > | **`## Legacy`** | **Retrospective AND Concordia-framed** — the template defines it as *"what did this city leave behind… what do Concordia's residents know or believe about this place?"* **Both halves are outside the frame** | *(follows from both rulings above)* |
 >
 > ### ⛔ THEREFORE, AND THIS BINDS EVERY PASS AND EVERY AUDIT
@@ -1665,7 +1859,7 @@ terms, on its own merit."***
 |---|---|
 | *"unlike Concordia, this city has no districts"* | *"this city is organized as …"* — **on its own terms** |
 | *"Concordia has 301 files; this city has 9"* | **nothing.** Volume of prior material is not a property of a place |
-| *"the capital does X, so this city's not-X is a gap"* | **check whether X is required OF THIS LOCATION.** If nothing requires it, there is no gap |
+| *"Concordia does X, so this city's not-X is a gap"* | **check whether X is required OF THIS LOCATION.** If nothing requires it, there is no gap |
 
 ### Why this needs a rule rather than good judgement
 ***Concordia is the most-documented location in the project*** — 301 district files, the only rich symbolic
@@ -1682,13 +1876,38 @@ finding** *(retracted: `Test_Runs/ULM_Dry_Run_Findability_Trace_2026-09-03.md` �
 > | *"Concordia alone is decomposed"* | ⭐ **an ANALYTICAL COMPARISON — this section** |
 >
 > ***The section was already excluded. The comparison had to be excluded separately, because removing a
-> HEADING does not remove the HABIT of reading every location against the capital.***
+> HEADING does not remove the HABIT of reading every location against Concordia.***
 
 ### ⚠ The one legitimate use, so this is not over-read
 **Concordia may be named where it is a plain FACT about the other location** — a highway that terminates
 there, a shipping route, a diaspora destination recorded in canon, a subnet relationship. ***That is `G5`
 network position, and it is admissible.*** **What is forbidden is EVALUATIVE comparison** — using the
-capital as the measure of what a location should have, be, or contain.
+Concordia as the measure of what a location should have, be, or contain.
+
+> ### ⛔⛔ AND A CANON CORRECTION THIS SECTION HAS TO CARRY — **developer ruling, 2026-09-06**
+> > ***"By the way, Concordia is not the capitol."***
+>
+> ⭐ **`§C.8d` was already right for the right reason** — *it justifies itself by Concordia being **"the
+> most-documented location in the project"** (301 district files, the only rich symbolic substrate), **not** by
+> any political primacy.* ✅ **The reasoning stands untouched.**
+> ⚠ **But the word "capital" had crept into four of its own lines, and into `§C.8a`'s exclusion table.**
+> **Corrected in place, 2026-09-06.**
+>
+> ## ⛔ THE ERROR IS CORPUS-WIDE, NOT LOCAL — **and it is exactly the habit this section exists to break**
+> **Measured the same day: `20+` files under `Worldspace/` use the term, plus four more ULM files** —
+> *`Extent_and_Density_Per_City.md` §10's own headline reads "**THE CAPITAL OF TEPENIA STANDS ON NO ROCK AT
+> ALL**"; `ULM_Input_Available_Audit.md`, `Location_Data-Input_To-Do.md` and `ULM_Input_Required_Reference.md`
+> each carry it beside Concordia's `G1` row.*
+> ⏸️ **NOT SWEPT — a canon-wide term change across district megasheets, questlines and deep dives is a
+> developer decision, not a location pass's.** **Flagged as `M-153`.**
+>
+> > ⭐ ***The tell is that nobody wrote "Concordia is the capital" as a claim. It arrived as an ADJECTIVE, in
+> > passing, in files about other things*** — **which is precisely how "the most available comparison in the
+> > corpus" becomes "the implicit normal," and precisely what `§C.8d` was written to stop.**
+> > ⛔ **Replacement wording that is both accurate and already used here: *"the most-documented location in the
+> > project."*** **Do not substitute another primacy claim.** ⚠ *`Extent_and_Density_Per_City.md` separately
+> > calls Palmer City "the Federation's first settled location and **cultural** capital" — a different sense,
+> > and not touched by this ruling.*
 
 ### C.8b — Worked type assignments *(the taxonomy in `01` §1.1, made concrete)*
 
@@ -1711,11 +1930,11 @@ capital as the measure of what a location should have, be, or contain.
 |---|---|
 | **0** | **U** `Repo_Scope.md` *(once)* · `Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
 | **1** | **U** `Worldspace/Locations/` · **P** `Specs/` *(incl. its `**Access type:**` token)*, `Energy_Grid_Failure_Rationale.md`, physical infrastructure · ⭐⭐ **CLIMATE: `Reference/Real-World/Climate Data/READER/` (§C.9) — ⛔ FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE CITY. Search by the ALIAS SET or you will get a false negative** · **`Stations/` (§C.9)** · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures (§C.6). `QUERYABLE-BY-SCHEMA`; never `grep` it by subject name** |
-| **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding, GPS facts only** · `Falkland_Treaty/` · **P** `Official_Population_Census.md`, diaspora/affinity files |
+| **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding** · `Falkland_Treaty/` · **P** `Official_Population_Census.md`, diaspora/affinity files · ⭐⭐ **SEE THE SEQUENCING RULING BELOW — it governs this phase and Phases 8, 9 and 10** |
 | **3** | **P** ⭐ **`Reference/Real-World/Climate Data/READER/` (§C.9 — alias-keyed)** · `Specs/` · physical infrastructure attributes · **concept art: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/<City>/`** ⚠ *(only 4 of 37 cities hold actual images; the rest are empty `.gitkeep` folders)* · **`Davis_Geosciences_Research/` (§C.9)** where applicable |
-| **4** | **P** `City_Logistics.md`, `Robot_Biology_and_Culture/`, `National_Economy_and_Currency.md` |
+| **4** | ⭐⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE** *(§C.10; the shared night, overnight recharging, leisure-as-a-fact-of-life, siligel/coolant, smoking, the human-robot baseline)* · `Robot_Cold_Physiology.md` · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B** — *this city's baseline/mandated/**free** tiers, i.e. how much of a working life is NOT spoken for* · ⭐ **`Division_of_Industry/09_Per_City_Baseline_Run.md` §3.5 — THE FREEDOM GRADIENT**, *which the physiology file itself cites as the measure of "the thing the exile was for"* · `Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md` *(the food layer, rebuilt)* · ✅ **`National_Medical_and_Care_Institutes.md`** *(`locked-canon`)* · **P** `National_Economy_and_Currency.md` ⚠ *(in-frame: the energy-backed national currency. The post-Split-Brain fracture is POST-WAR — `§C.8a`)* |
 | **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` |
-| **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief** · `National_Holidays.md` · ⭐ **`Reference/Real-World/Ice-Cold_Buddhism_Research/` (§C.9, 7 files — metaphysics, machine ethics, Zen aesthetics, vocabulary)** ⚠ *the faith's name is a placeholder* · **`The_True_Believer_` / `The_Meme_Machine_Extraction.md` (§C.9)** · **the deferred mortuary question — do not answer it** |
+| **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief.** ⭐⭐ **THE ROSTER IS OPEN AND IS EXPECTED TO GROW** *(developer ruling, 2026-09-06: **"I am open to the possibility — in fact, the likelihood — that there will be more robot religions, so don't force any community/society into a religion where it doesn't already naturally fit"**)*. ⛔ **So a roster `grep` returning ZERO for a location is a RESULT, not a gap to fill** — *write "no faith sited here," leave the slot explicitly open, and never let it read as "no faith possible." `03` §Phase 6 B carries the universal form* · `National_Holidays.md` ⚠ *(its own scope note warns that most cities' `Local_Cultures/` files already hold scattered festival material — **which is `Step 0.4` item-6 READ-LAST**, so any observance a pass proposes is a CANDIDATE pending Step 5 reconciliation)* · ⭐ **`Reference/Real-World/Ice-Cold_Buddhism_Research/` (§C.9, 7 files — metaphysics, machine ethics, Zen aesthetics, vocabulary)** ⚠ *the faith's name is a placeholder* · **`The_True_Believer_` / `The_Meme_Machine_Extraction.md` (§C.9)** · **the deferred mortuary question — do not answer it** |
 | **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · ⭐ **`Reference/Real-World/Industry_Staffing_and_Productivity/` and `jobs_professions_and_fields/` (SOC) — both §C.9; SOC tier-marking is ADDITIVE, never a replacement** · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
 | **8** | **P** ⚠ **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
 | **9** | **U** ⚠ **`Laws_of_Robotics.md`** · **`Robot_Universals/`** *(four parts)* · `Doll_Representation_Categories.md` · **P** human-robot relations baseline |
@@ -1761,7 +1980,7 @@ information, so if it can't find it, it's worthless."***
 | ⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md`** | **What deep cold costs a ROBOT** — recharge trade-off, the death spiral, permanent vs reversible capacity loss, embrittlement | **3**, **4** | ⭐ **Altitude costs a robot nothing; cold costs a great deal, on different axes than it costs a human.** *A robot is safer MOVING than resting* |
 | ⭐ **`…/Concordia-City/Concordia_Altitude_and_Atmosphere.md`** | **What altitude costs a HUMAN at Concordia** — ~3,800 m physiological, **no acclimatization**, heated but deliberately unpressurized | **1**, **4**, **9** | ⭐ **Robots are unaffected, which makes them the city's entire practical mobility** |
 | ⭐⭐ **`Climate Data/READER/`** *(38 files)* | **`G2` — authoritative monthly mean temperatures**, BAS READER, **WMO 1991–2020 normals**, with citation | **1**, **3** | ⛔⛔ **MOSTLY KEYED BY REAL-WORLD STATION NAME, NOT CITY NAME** — `Aboa.md` · `Princess_Elizabeth.md` *(note the `z`)* · `Sejong.md`. ***A pass searching by its subject's Tepenian name can find NOTHING and conclude the climate data is absent.*** **Reachable via the ALIAS SET** *(`Step −2` item 1a, M-118)*. ⚠ Also holds `Little_America.md`, a historical station that is not a Tepenian city, plus `Davis.md` and `Dumont_dUrville.md`, which are **proxy sources, not cities**. *(`Bharati_TBD.md` → `Shirayuki.md` and `Denison.md` created, both 2026-09-04.)* |
-| **`Stations/`** | `G2`/`G7` physical station facts — COMNAP catalogue | **1**, **5** | ⚠ **`Antarctic_Stations_With_Airstrips.md` is BACKGROUND ONLY** — `Airports.md` states outright it *"does not track 1:1"* and is **not a predictor of Tepenia's own network** |
+| **`Stations/`** | `G2`/`G7` physical station facts — COMNAP catalog | **1**, **5** | ⚠ **`Antarctic_Stations_With_Airstrips.md` is BACKGROUND ONLY** — `Airports.md` states outright it *"does not track 1:1"* and is **not a predictor of Tepenia's own network** |
 | **`Industry_Staffing_and_Productivity/`** | staffing ratios, labor-productivity factors | **7a** | A declared input to `Division_of_Industry/` |
 | **`jobs_professions_and_fields/`** | the **SOC** occupational taxonomy + summaries | **7**, **9** | ⚠ `SOC_Cross_Category_District_Matching.md` is **district-derived**, not raw research. **SOC tier-marking is ADDITIVE — it feeds existing methods, never replaces them** |
 | **`Ice-Cold_Buddhism_Research/`** *(7 files)* | belief-system research — metaphysics, machine ethics, Zen aesthetics, vocabulary | **6** | ⚠ **the faith's name is a PLACEHOLDER.** Bears on **Dome Fuji** *(a continent-wide pilgrimage site)*, **Kunlun** *(its primary site)* and **Vostok** |
@@ -1780,6 +1999,279 @@ information, so if it can't find it, it's worthless."***
 >   methodology owns it.
 > - **`PTSD_Military_Trauma_Research/`** *(11 files)* — **character methodology, not location.**
 > - **`Gemini_Circuit_Attention_Economy_Vocabulary_Sheet.md`** — district-specific.
+
+## C.9b ⭐⭐⭐ **COMPOSITION FIRST, THEN CULTURE — the sequencing ruling.** *(Developer, 2026-09-06.)*
+
+> ### **"Once the various nationality-origins, and their proportionate-percentage compositions, have been established for some particular place/location/setting/society, *THEN* it's acceptable to take into consideration their origin-ethnicities, ethnic-cultures, etc."**
+
+## ⛔ THIS IS A SEQUENCING RULE, NOT A REPEAL. **`No_National_Stereotypes.md` is unchanged.**
+
+| Stage | What is permitted |
+|---|---|
+| **BEFORE composition is established** | ⛔ **GPS FACTS ONLY.** *You may not infer **who lives somewhere** from national character, temperament or cultural reputation.* **This is the whole point of the prohibition and it is untouched** |
+| ⭐ **AFTER composition is established** — *nations named, tiers set, percentages settled* | ✅ **Origin-ethnicities and ethnic-cultures MAY be taken into consideration.** *The populations are canon; what they carry is then legitimately in scope* |
+
+> ## ⭐⭐ THE DISTINCTION THAT MAKES THIS SAFE: **`G7` AND `G8` ARE DIFFERENT GENERATORS AND THIS RULING TOUCHES ONLY ONE.**
+>
+> | | |
+> |---|---|
+> | ⛔ **`G7` — the SITE's real-world basis** | **UNCHANGED. GPS PURPOSES ONLY — a coordinate, never a cause, an identity, or a history.** ⚠ *And per the standing correction, that covers the real site's **lineage, abandonment and vacancy**, not merely its nationality* |
+> | ✅ **`G8` — the POPULATION's composition** | ***This is what the ruling unlocks.*** **Once the roster and its proportions are canon, the cultures those populations actually carry are admissible material** |
+>
+> ⭐ **The two were easy to conflate and are now separated in writing.** ***A city may not be characterized by
+> whose station it occupies. It may be characterized by who actually lives there, once that is settled.***
+
+### ⚠ THREE CONSTRAINTS THAT SURVIVE THE UNLOCK
+
+1. ⛔ **A weighted ranking is not a census.** *This project's composition figures are explicitly
+   "weighted relative ranking, not census" (`02` §G8).* **The TIERS and the NATIONS are solid; a decimal is
+   not a headcount, and no finding may rest on one.**
+2. ⭐⭐ **FOR ROBOTS THE INHERITANCE IS MEDIATED, NOT PERSONAL.** **U `Robot_Universals/` Ch. 13 is explicit:
+   *robot cultural boundaries track CITY AND SUBNET STRUCTURE*, and identity rests on *"same city, same
+   struggles, same life-goals"* — **not on origin.** ***So ethnic-cultural material reaches a robot-majority
+   city through the local culture the founding population built, not through any individual robot's
+   "origin."*** ⚠ **And whether robots carry a national origin AT ALL is an open reserved question in this
+   project** *(the composition tables assign one by copying the human distribution)*.
+3. **Nothing here licenses a stereotype.** ***"This population is present in this proportion, and brought
+   these practices"* is composition-grounded. *"People from X are like Y"* is the thing the law forbids, at
+   any stage.**
+
+---
+
+## ⭐⭐⭐ C.9c — **WHAT THE `GPS PURPOSES ONLY` LAW IS ACTUALLY FOR.** *(Developer, 2026-09-06. The law has been in force for weeks without its PURPOSE ever being written down.)*
+
+> ### **"You shall NOT incorporate 'Russian heritage' into the establishment of the city of Shirayuki (or Sinheung, whichever)… Once the population composition has [been] established, then, yes, you can start incorporating aspects of Japanese (or Korean) culture, traditions, history, social norms, etc., because Shirayuki is a fundamentally Japanese city (or Sinheung, being a fundamentally Korean city). *THAT'S* the purpose of the 'GPS purposes only' Law."**
+
+| ⛔ What the law blocks | ✅ What the law was never blocking |
+|---|---|
+| ***The REAL STATION'S operator nationality bleeding into the city*** — *a site's builders, its flag, its lineage, its abandonment, its fate* | ⭐⭐ **THE CITY'S OWN ETHNIC CHARACTER, which comes from its FOUNDING POPULATION and is canon** |
+
+> ## ***THE LAW EXISTS SO THAT A CITY IS CHARACTERIZED BY WHO LIVES THERE, NOT BY WHOSE STATION IT OCCUPIES.***
+> **It is a rule about PROVENANCE, not a rule against ethnicity.** ⚠ ***A pass that refuses all ethnic
+> material is not obeying this law — it is misreading it, and it will produce placeless cities.***
+
+⚠ **Worked instance, and note that the two sites are easy to confuse even for the developer:** *the Larsemann
+Hills hold three cities on real stations of three different operators.* **Canon: `Shirayuki` = the Bharati
+site · `Sinheung` = the Progress site · `Zhongshan` = the Zhongshan site.** ⛔ **NONE of those operator
+nationalities enters any of the three cities.** ✅ **Shirayuki is Japan-founded, Sinheung Korea-founded,
+Zhongshan China-founded — *by the Jeju-do allocation and the census*, which is where a city's people actually
+come from.**
+
+---
+
+## ⭐⭐⭐⭐⭐ C.9d — **THE DIVERGENCE PRINCIPLE: composition names the STOCK; time and place produce the CULTURE.**
+
+> **Developer, 2026-09-06, verbatim and at length because it is the operative mechanism:**
+>
+> > ***"This nuance actually depends partially upon WHEN a robot was built, in addition to WHERE, and to that
+> > extent, the principle applies to humans as well. People (whether human or robot), after enough
+> > generations, will develop into new, unique cultures which are, to an extent, shaped by their surroundings,
+> > their hardships and struggles, their common life objectives, etc."***
+> >
+> > ***"This is one of the major causal factors why 'Québécois' culture is a unique phenomenon, distinct from
+> > the culture of France. Why 'Canadian' culture is… distinct from the culture of the Celtic lands. Why
+> > 'American' culture is… distinct from the culture of Germany and the Netherlands. Why 'Australian' culture
+> > is… distinct from the culture of England. Why 'Singaporean' culture is… distinct from the culture of
+> > China."***
+> >
+> > ***"By the time of the events of the Inner Tepenia CRPG (2812 AD), it's been around approximately 250 years
+> > since these people's ancestors actually moved to Antarctica. Their cultures will be different. Just the
+> > same, while robots live longer, if they're built in Tepenia and also learn from the humans and other robots
+> > they're in the community of, their cultures will be different as well."***
+> >
+> > ***"So, while fully valid, the time, separation, local environmental setting, local struggles and
+> > hardships, local goals, local sensibilities and habits, etc. absolutely must be taken into account in order
+> > to gauge how cultures will shift and develop over time."***
+
+### ⛔ SO NEITHER EXTREME IS THE ANSWER
+
+| ⛔ Too little | ⛔ Too much | ✅ The operation |
+|---|---|---|
+| **Refusing all ethnic material** — *"placeless" cities that could be anywhere* | **Transplanting the source culture intact** — *a costumed version of somewhere real, which is `Step 3.5`'s named failure* | ⭐⭐ ***Take the origin culture as the STARTING STOCK, then apply ~250 years of local divergence to it*** |
+
+### ⭐ THE DIVERGENCE OPERATOR — the developer's own inputs, and they are the checklist
+
+**time · separation · local environmental setting · local struggles and hardships · local goals · local
+sensibilities and habits**
+
+> ## ⛔⛔ **DO NOT REASON FROM THE ELAPSED TIME. PROCESS THE DATA ON ITS OWN TERMS.**
+> **Developer instruction, 2026-09-06:** ***"Don't think in terms of '250 years' of outcomes. Just process the
+> data purely on its own terms."***
+>
+> ### ⭐⭐⭐ WHY — and it is an anti-convergence argument, not a style note
+> ***TIME IS THE ONE OPERATOR INPUT THAT IS CONSTANT ACROSS EVERY LOCATION IN THE SETTING.*** **Every
+> Tepenian city has had the same elapsed period.** **So a finding reasoned from it is a finding that would
+> come out identically everywhere** — ***which is precisely the convergence the whole methodology exists to
+> prevent.***
+>
+> | ⛔ WRONG — the number doing the work | ✅ RIGHT — the data doing the work |
+> |---|---|
+> | *"250 years have passed, therefore the culture diverged, therefore X"* | **"This place has no shore, an abrasive wind, impermanent ground and a four-month supply window — therefore X"** |
+> | **Generic. True of any city. Produces the same answer 38 times** | **Specific. Produces an answer only this place could have** |
+>
+> ⭐ **The other FIVE inputs — separation, environment, struggles, goals, habits — are where differentiation
+> actually lives, because they are the ones that VARY.** ***Lead with those. Never with the clock.***
+>
+> ### ✅ THE ONE LEGITIMATE USE OF THE ELAPSED TIME — **as a CONTROL, never as a cause**
+> **"These two locations share a founding stock AND the same elapsed period, so time cannot explain their
+> difference — what does?"** ⭐ *That holds the constant constant, which is the opposite of reasoning from it.*
+>
+> ⚠ **And this is `LAW 0`'s "first plausible answer is usually the generic one" in a new costume:** *elapsed
+> time is the most available explanation in the setting and explains nothing about anywhere in particular.*
+
+> ### ⚠ **~250 YEARS IS THE FIGURE, AND IT IS NOT SHORT.** *2564 → 2812.* **Roughly the age of the United
+> States; longer than Singapore, Canada or Australia as distinct cultures have existed.** ***A pass that
+> writes a Tepenian city as its founding nation transplanted has ignored two and a half centuries.***
+
+### ⭐⭐⭐ AND THIS IS THE ANTI-CONVERGENCE ENGINE, NOT A LICENSE TO CONVERGE
+
+> ***Two cities founded by the same nation MUST diverge, because the operator's inputs differ.***
+> **Worked case sitting in this project already: Tepenia has TWO Japan-founded cities — `Shirayuki`
+> *(Japan `36.27%`, protected by the Jeju-do allocation)* and `Sayowa` *(Japan diluted to `2.71%`, China
+> `17.39%`)*.** ⭐ **Same stock, 250 years, radically different local conditions and radically different
+> demographic outcomes.**
+>
+> ### ⛔⛔ THE COMPARISON THIS CASE USED TO INSTRUCT IS WITHDRAWN — **2026-09-06**
+> **It formerly read:** *"If a pass produces similar-shaped Japanese-descended cultures for both, at least one
+> is wrong — which is `Cultural_Synthesis_Techniques`' governing rule, arriving through ethnicity rather than
+> through technique."* ⛔ **A per-location pass may not run that check, because running it requires reading the
+> other city.** ⏸️ **TERMINAL — it returns at the differentiation pass on the finished corpus.**
+>
+> ✅ ⭐⭐ **WHAT SURVIVES, AND IT IS THE WHOLE LESSON:** ***apply the divergence operator to the ONE location in
+> front of you, with that location's own values*** — *time · separation · local environmental setting · local
+> struggles and hardships · local goals · local sensibilities and habits.* **"Same stock plus different operator
+> inputs produces different cultures" is a claim about MECHANISM, and it needs no second city to be true.**
+
+### For robots specifically
+
+⭐ **The same operator applies, with one canon modifier:** *robots live longer, so a given individual spans
+more of the divergence* — **but `Robot_Universals/` Ch. 13 still seats identity in city-locality, and canon
+states a robot's culture comes from *"the humans and other robots they're in the community of."*** ⭐⭐ **So
+`WHEN` matters as much as `WHERE` for a robot too: a robot built early in the divergence and one built late
+are not carrying the same culture.**
+
+---
+
+## ⭐⭐⭐⭐⭐ C.9e — **THE GRAND-TIMELINE ACTS, and the mechanism behind them.** *(Developer, 2026-09-06.)*
+
+> ***"In the country's Grand-Timeline Act 1 (i.e. starting from 2564 up until around the early-2600s or so),
+> all these people's national-ethnic-origin cultures are still fresh for them. They are still Chinese or
+> Japanese or American or Russian or Mexican, etc. **who live in Antarctica**."***
+>
+> ***"By the time of the country's Grand-Timeline Act 2 (i.e. around the late-2600s/early-2700s), these people
+> are no longer 'Chinese' or 'Japanese' or 'American' or 'Russian' or 'Mexican' who live in Antarctica. By the
+> 2600s/2700s or so, these people have become **properly TEPENIAN, in both name and cultural identity**."***
+>
+> ***"…similar to the way that by the early-1800s, a person from Pennsylvania and a person from Virginia may
+> very well have very different ethnic backgrounds and local cultures — they were both still fundamentally
+> AMERICAN."***
+
+| Act | Roughly | What the people ARE |
+|---|---|---|
+| ⭐ **ACT 1** | **2564 → early 2600s** *(~40–50 years)* | ***"Japanese who live in Antarctica."*** **Origin cultures still FRESH** |
+| ⭐⭐⭐ **ACT 2** | **~late 2600s / early 2700s onward** | ## ***TEPENIAN, in name and cultural identity.*** **Origin is now ANCESTRY, not identity** |
+
+> ### ⚠⚠ **THE DEFAULT FRAME — the Second Interwar, 2564–2812 — SPANS BOTH ACTS AND IS MOSTLY ACT 2.**
+> **Act 1 is roughly the first `18%` of it.** ***A pass that writes its city as its founding nation is writing
+> the wrong Act for about 200 of the frame's 248 years.***
+
+## ⭐⭐⭐⭐ THE MECHANISM — **INTERCONNECTION. And the Tower's COMPLETION is what solidified it.**
+
+> **Developer, same session, and the qualifications are load-bearing:**
+>
+> > ***"That 'metacultural unification' was ONE OF (among multitudinous other) effects of the completion of
+> > Amundsen Tower. Their being fully interconnected further defined their sense of national identity in who
+> > they are as a nation of people (both robots and humans alike)."***
+> >
+> > ***"Obviously, BEFORE the completion of Amundsen Tower, the people naturally had a sense of shared
+> > struggles and shared goals in a shared country. They didn't consider themselves 'psychologically /
+> > culturally / spiritually separate' from each other. And also, obviously, the 'metacultural unification'
+> > didn't happen 'overnight'. That unification was already IN PROGRESS by the time construction of the Tower
+> > even started. However, the completion of Amundsen Tower was the DECISIVE FORCE that helped SOLIDIFY their
+> > sense of national identity."***
+
+### ⛔ FOUR QUALIFICATIONS A PASS MUST NOT DROP
+
+| | |
+|---|---|
+| **1** | ⛔ **NOT a switch.** *The unification was already in progress before construction even began* |
+| **2** | ⛔ **NOT the creation of unity.** ***They were never psychologically, culturally or spiritually separate from one another.*** **Shared struggles and shared goals in a shared country predate the Tower entirely** |
+| **3** | ⛔ **NOT the Tower's only effect.** *It is **one of multitudinous** — the Tower is primarily energy regulation.* **Do not write it as the cause of everything** |
+| **4** | ⭐ **What it DID:** ***full interconnection**, which **further defined** and **decisively solidified** an identity already forming* |
+
+> ### ⭐⭐ SO THE ACT BOUNDARY IS NOT A DATE — IT IS A CONSOLIDATION.
+> **The Tower completes `~2688`, which sits exactly where the developer places the Act 1→2 transition.**
+> ***Write Act 1 → Act 2 as a gradient with a decisive moment in it, never as a line crossed.***
+
+> ### ⚠⚠ AND CHECK WHAT ELSE SITS AT THAT MOMENT, BECAUSE IT IS CROWDED
+> **`~2688` carries the Tower's completion, the opening of the ORBITAL TIER, and the Census I → Census II
+> boundary** *(which the census file states is **pre-war migration to orbit, not loss**)*.
+> ⭐⭐⭐ ***So the same structure whose completion solidified a shared national identity is also the structure
+> people left through.*** **That is national context, true of every city — so it is not a differentiator.**
+> ⭐ **What differentiates is HOW HARD a given city used that exit**, which is what the retention layer
+> measures.
+
+## ⭐⭐ THE PENNSYLVANIA/VIRGINIA TEST — **exactly the anti-convergence shape**
+
+> ***Two locations may have "very different ethnic backgrounds and local cultures" and still be fundamentally
+> the same nationality.***
+
+| ✅ Differentiate HERE | ⛔ NOT here |
+|---|---|
+| **local culture, local conditions, local struggles, local habits** | **national identity** — *every Tepenian city is Tepenian; that is not a differentiator* |
+
+⭐ **`§C.9d`'s engine gets its resolution: same-stock cities diverge LOCALLY while converging NATIONALLY.**
+***Not a contradiction — it is what a real nation looks like.***
+
+## ⭐ THE CORRECT FORM OF WORDS
+
+⛔ **"Shirayuki is a Japanese city"** — *true of Act 1; misleading for most of the frame.*
+✅ ⭐ **"A Japan-FOUNDED TEPENIAN city."** ***Stock: Japanese. People: Tepenian. Local culture: its own.***
+
+
+
+## C.10 ⭐⭐⭐ ROBOT PHYSIOLOGY — **A GOVERNING DOCUMENT FOR THE ENTIRE UNIVERSE. READ IT AT `Step 0.2`.**
+
+> ## ⛔ **Added 2026-09-06 at the developer's direction:** ***"add a command in the methodology to reference the general `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` file, because that's a governing document for the entire universe."***
+
+| | |
+|---|---|
+| ⭐⭐⭐ **THE GENERAL FILE — READ FIRST, READ IN FULL** | **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** |
+| **The narrow companions** | `Robot_Cold_Physiology.md` *(environmental hazard)* · `Siligel_Composition_Research.md` · `Sumerian_Language_in_Robot_Culture.md` |
+| **Universe-tier, binding above all of it** | **U** `Reference/Laws_of_Robotics.md` · `Reference/Robot_Universals/` *(four parts)* · `Reference/Doll_Representation_Categories.md` |
+
+> # ⛔⛔ **THIS IS NOT A PHASE-8 FOOD CHECK. IT BINDS EVERY PHASE.**
+> ***Robots are the MAJORITY population in most Tepenian cities*** *(commonly 51–55%)*. **There is therefore no
+> phase that is not about them** — composition, texture, ordinary life, order, making and populations are all
+> questions about the majority body as much as the minority one. **`03` §0.2 mechanic 9 states the universal
+> form of this rule; this section is its address.**
+
+### ⚠ THE FACTS A PASS MOST OFTEN GETS WRONG — **stated here because getting them wrong is silent**
+
+| ⛔ NOT this | ✅ Canon |
+|---|---|
+| *an anthropomorphically-shaped block of metal* | ⭐⭐ **HUMAN-LOOKING, with synthetic/cybernetic interiors.** **The project's own stated visual reference is the film *Ex Machina***, which it already uses for the fabrication chamber and the *"glowy-blue" nano-architecture gel brain* |
+| *unclothed machines* | ⭐⭐⭐ **ROBOTS WEAR CLOTHING, AND NEARLY ALWAYS DO — for fashion AND for function.** ***A robot may wear a heavy winter coat.*** **⭐ AND GLOVES — *"robots would also wear winter gloves. There's no reason why they wouldn't."*** **So an environmental hazard is a PREPARATION problem, as it is for humans — not a hard gate** *(developer rulings, 2026-09-06)* |
+| *"they're machines, so exposure doesn't apply"* | ⛔ **The whole COLD-WEATHER GARMENT REGISTER applies** — coats, gloves, layering, and the ordinary trade-offs that come with them. ⭐ **Including the insulation-vs-dexterity trade-off**, which a **human-shaped** hand inherits whatever it is made of |
+| *a fixed "hard drive" mind* | **A malleable, ever-changing gel brain.** *A robot can always find a new purpose* |
+| *breathing, altitude-limited* | **No respiratory system; vacuum-capable.** ⚠ **But immunity to altitude is NOT immunity to cold** |
+| *a design accident that they look human* | ⭐ **A DELIBERATE, ONGOING CHOICE.** *"The one constant across both eras is the human form/figure itself — Tepenian robots still choose to build each other in that basic shape… because they see no compelling reason to depart from what evolution already optimized"* |
+
+### ⭐ WHAT THE GENERAL FILE SUPPLIES THAT NO PHASE TITLE ADVERTISES
+
+**Build** *(height, bulk — statistically weighted by **local economic character**, and explicitly **not** an
+identity marker or a hierarchy)* · **Personality Module** *(partially randomized BY LAW — the engineering
+expression of Law 1)* · **Language Module** *(tracks the dominant local culture and the community who built
+her)* · **Gen/Mark** *(an age-metacategory, **never** a rank)* · **kinship by shared experience, not
+fabrication lineage** · **the Cradle and where chambers are made** · **what counts as death, and ossuaries** ·
+**leisure and downtime** · **the human-robot relations baseline** · **sexuality**.
+
+> ### ⛔ THE FAILURE THIS SECTION EXISTS TO PREVENT — measured 2026-09-06, Shirayuki Phase 3
+> **A pass opened `Robot_Cold_Physiology.md` — a NARROW companion — and never the general file.** **It then
+> derived that the local climate uniquely permitted stationary outdoor work, and called that the physical
+> precondition for the city's whole culture.** ⛔ ***False: the population is ordinarily clothed, so standing
+> still is available almost anywhere to anyone dressed for it.***
+> ⭐ **The narrow file was not wrong — it was PARTIAL, and partial read as complete.** **`M-151`.**
 
 ## D. Sibling projects — check for cross-series consistency, do not port
 
@@ -1946,6 +2438,42 @@ attach.
 
 # Step 3 — Research, aimed at what Step 2 named
 
+> # ⭐⭐⭐ LAW 0-R — RESEARCH FULLY. **A PICK IS NOT EXHAUSTED BECAUSE IT HAS BEEN SEARCHED.**
+>
+> **GOVERNING. Added 2026-09-06 at the developer's direction, during Shirayuki's Step 3. Stated in FULL here
+> and in `Disciplines/Real-World_Basis_Extrapolation_Method.md` (and its original), because a procedure that
+> cites its governing law instead of stating it will be run without it.**
+>
+> > ### **"When doing web research on a particular place/location/topic/idea/etc etc etc, research FULLY. I don't expect you to deliver 'fast results'. What I want is for you to do it *RIGHT*."**
+> > ### **"Doing web research is for ensuring REALISM and ACCURACY, and that's only possible with real, accurate input data."**
+>
+> **⭐ WHY:** ***research is the INPUT DATA layer of the worldbuilding, not decoration on top of it.***
+> ⛔ **A RECALLED fact is a guess wearing a confident tone.** ⛔⛔ **A WRONG fact is worse than a MISSING one**
+> — it produces worldbuilding that is confident, coherent and wrong, and nothing downstream flags it.
+> *(Measured twice here: a census parse returning "33 plausible rows, a sensible mean, and a sensible spread —
+> all wrong"; and 22 cities carrying wrong polar-night spans, `M-141`.)* ⭐ ***A zero invites suspicion; a
+> plausible number does not.*** ⛔ **And a thin fact set produces a thin place, which no gate can detect.**
+>
+> ## ⛔ ONE SEARCH AGAINST A PICK ESTABLISHES THAT THE PICK EXISTS. **IT DOES NOT ESTABLISH WHAT IT HOLDS.**
+> **`LAW 0` anti-pattern 2 guards against NOT LOOKING. This is the next channel out — a pick looked at ONCE
+> and therefore treated as spent.**
+>
+> | Measured | |
+> |---|---|
+> | `LAW 0`'s controlled comparison | **the two strongest findings came from picks four, five and six; they did not exist at two** |
+> | **2026-09-06, eleven searches, one city** | a three-pick convergence was **invisible until the third**; the sharpest import arrived on the **sixth** |
+> | ⭐⭐⭐ **2026-09-06, same session** | ***the finding that resolved the pass's own spine tension came from the ELEVENTH search — run only because the developer sent the session back to a pick already logged as covered*** |
+>
+> **In practice:** *don't stop at the first useful return* · **query every pick from more than one ANGLE**
+> *(founding · physical constraint · what residents do about it · what it lost · **what it is a contrast
+> FOR**)* · ⭐ **a pick with a sub-part is at least TWO picks** *(a district is not its city; a station is not
+> its site)* · ⭐⭐ **GO BACK TO PICKS ALREADY LOGGED AS COVERED** · **run and log near-duplicates** · **log
+> dead ends AND whether each died at the QUERY or at the SOURCES** · ⛔ **never assert redundancy from a title.**
+>
+> ## ⛔⛔ THERE IS NO TIME LIMIT AND NO SEARCH BUDGET.
+> ⭐ **A log with eleven searches, two dead ends and four honest *"not used"* rows is a BETTER artifact than one
+> with four clean hits** — *it tells the next session where not to go.*
+
 **3.1 Research the deficit.** The single most reliable move available: the profile says what the place cannot
 do; it does not say what the missing thing looks like. **Find a real culture that has it, and the contrast
 writes the finding.**
@@ -1986,6 +2514,23 @@ unread source for that city's Phase 5 and Phase 7.)*
 **It also survives quarantine:** a research log holds *attributes*, not conclusions, so per `05` §6.1 it stays
 **admissible input even to a later cold run on the same location** — which the pass it fed does not.
 
+> ## ⛔⛔ AND A HOLE IS NOT ADDRESSED BY LABELING IT — `M-158`
+> **Measured 2026-09-06.** *A phase found its source described the wind for ONE season and said nothing about
+> the other. It wrote an inference for the unstated half, **labeled the inference honestly, and listed the
+> hole in its own nulls section** — and the inference was still load-bearing three sections earlier.*
+> ⛔ **One first-result search refuted it.**
+>
+> ### ⭐ THE OPERATIONAL RULE
+> ***When a phase reaches for the UNSTATED half of a qualified source, it may not write an inference at all
+> until `Step 3` has been asked.***
+> ⚠ **A description scoped to one season, one population, one district or one era is a SCOPE, not a contrast.**
+> **When a source qualifies — *"most summer days," "in the older quarter," "among the founding generation"* —
+> the qualifier says what was OBSERVED, never what is true elsewhere.**
+> ⭐ **This is the mirror of the `M-151`/`M-152`/`M-154` family** *(partial sources read as complete)*: **there a
+> source said LESS than the reader took; here it said NOTHING and was taken to say "not."**
+> ⛔ **And it is more dangerous, because it presents as rigor.** *Labeling a guess does not stop the guess
+> being load-bearing.*
+
 # Step 4 — Write the phases
 
 **Phases 2–10, per `03`.** Fold the generators in as you write; do not bolt on a separate "substrate section."
@@ -2017,6 +2562,46 @@ claims are about different objects.
 **Canon outranks a generator.** State the contradiction and the reconciliation in the text; do not silently pick
 one. **Where it genuinely cannot be reconciled, flag it open.**
 
+> # ⭐⭐⭐⭐⭐ ⚠ **BUT "CANON" IS TWO TIERS, AND ONLY ONE OF THEM OUTRANKS.** *(Developer ruling, 2026-09-06.)*
+> > ***"Anywhere that the ULM derived answers that are different from what's currently listed in the
+> > datasheets, it is entirely possible that the new results may be valid, and the older, previous results may
+> > be invalid. **That's a major reason why I created the ULM — to be able to produce accurate results.** So
+> > don't throw anything away from the ULM results, because that data will have a lot of supported validity."***
+>
+> | Tier | What it is | vs a ULM finding |
+> |---|---|---|
+> | ⭐⭐ **1 · HARD CANON** | **developer rulings · census arithmetic · `locked-canon` files · a spec's explicit `CANON NOTE` · founding instruments · the Acts** | ✅ **OUTRANKS.** *A pass does not overturn these* |
+> | ⭐⭐⭐ **2 · AUTHORIAL VISION** | **"Vision session" material.** *Developer, 2026-09-06:* ***"literally my own personal mental visions that I see in my head when I picture being in these locations… perhaps may not literally BE canon, but they absolutely are a BASIS OF canon"*** | ⛔⛔ **NOT DERIVED — it is PRIMARY, and UPSTREAM of canon.** ***A pass cannot out-reason it, because it is not a reasoning product.*** ⭐ **The ULM's job is to find the MECHANISM that produces it** |
+> | ⚠ **3 · DERIVED DATASHEETS** | **Cultural Spec Sheets' own inferences · extrapolations · Megasheets · tier tables · any characterization an earlier instrument reached** | ⛔ **DOES NOT AUTOMATICALLY OUTRANK.** ***The ULM is the better instrument, and where they conflict the ULM result may simply be the correct one*** |
+> | ⛔⛔ **4 · TEST RUNS** | **`Test_Runs/` — every run.** *Developer, 2026-09-06:* ***"those are only to be used as references for possible ideas, because those literally are TEST runs. I was testing the methodology before committing to using it for the final results"*** | ⛔⛔ **REFERENCE-ONLY. NOT RESULTS.** *May suggest an idea; may never supply a finding, figure or verdict a pass relies on.* ✅ **They DO legitimately produce METHODOLOGY findings — that is what they are for** |
+>
+> ### ⭐⭐⭐ TIER 2 IS THE ONE MOST EASILY MIS-FILED — **and mis-filing it costs the pass**
+> ***Vision material looks like a conclusion and is not one.*** **It is the author reporting what the place is
+> like, which is the thing the whole methodology exists to serve.** ⛔ **A pass that tags it "conclusion-tier"
+> and then HEDGES findings that rest on it has discounted its own best input.**
+> ⭐ **The contamination concern is separate and stays:** *reading vision material out of order can steer a
+> derivation, and that is worth tagging.* ⚠ ***But the tag records a READING-ORDER problem, never a CONFIDENCE
+> one.*** **Keep the tag; drop the hedge.**
+>
+> ## ⛔⛔ **THE FAILURE THIS PREVENTS, AND IT WAS MEASURED THE DAY THE RULE WAS WRITTEN**
+> **Shirayuki's Step 5 opened a Cultural Spec Sheet, found six real conflicts, and CONCEDED one of them —
+> re-tiering a live, five-canon-fact finding to an "operational form" of a weaker asserted one — purely on the
+> phrase *"canon outranks."*** ⭐ ***The datasheet in question declared no `locked-canon` banner, carried two
+> placeholders, and had already been self-corrected five times.*** **It was prior derivation, not settled canon.**
+>
+> ### ⭐ HOW TO TELL WHICH TIER A SOURCE IS IN — cheap, and it works
+> **Read its own header and its own edit history.** *A `locked-canon` banner · a developer ruling cited inline ·
+> arithmetic from the census. Against: `(placeholder name)` · `TBD` · dated self-corrections · "vision session"
+> attributions · figures that predate a later ruling.* ⚠ **A file that has been repeatedly corrected is a file
+> that is still being derived.**
+>
+> ### ✅ THE OUTPUT FORM WHEN THE PASS IS RIGHT
+> ⛔ **Not a concession, and not a silent overwrite.** ⭐ ***A PROPOSED-CORRECTION DOCKET*** — **one row per
+> conflict: the datasheet section, the proposed change, and a confidence.** **Proposed, never applied: the
+> datasheet belongs to the developer.**
+> ⭐⭐ **And the pass's own finding STAYS AT FULL STRENGTH in the pass's files.** ***Nothing derived is discarded
+> to make room for an older answer.***
+
 > ### The strongest-finding check — run it here, retrospectively
 >
 > **Ask: *which finding in this pass is the strongest, and what does it rest on?***
@@ -2033,11 +2618,22 @@ one. **Where it genuinely cannot be reconciled, flag it open.**
 **Translation discipline:** the generator's vocabulary never appears in the location's own claims. Bracketed
 citations only. **Sweep with word boundaries on every alternative and inspect every hit.**
 
-# Step 6 — Differentiate
+# Step 6 — Differentiate — ⭐ **WRITE-ONLY, as of 2026-09-06**
 
-`04` Part III. Read the relevant rows **before** writing each category; differentiate inline in the finding
-itself, not in a footnote; **check the most recently written sibling first.** If there is no sibling set, run
-the substitutes and **say in the pass that you did.**
+> ### ⛔⛔⛔ THE STEP DID NOT DISAPPEAR. **ITS DIRECTION REVERSED.**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*
+>
+> | ⛔ Was | ⭐ Now |
+> |---|---|
+> | *Read the relevant rows **before** writing each category* | ⛔ **Do not read any other location's row. Ever.** |
+> | *Differentiate inline in the finding itself* | ⛔ **Revoked** — there is nothing in-run to differentiate against |
+> | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — this was the sharpest form of the forbidden move |
+> | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes ALWAYS, for every location, and say in the pass that you did** |
+> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN COLUMN, same commit** *(Step 9.2, unchanged)* |
+>
+> ⏸️ **The reading half returns at the TERMINAL differentiation check**, run once on the finished corpus.
+> **See `00_RUNBOOK.md` → THE LAW OF ONE LOCATION.** ⚠ **District passes are out of scope and keep
+> read-before-write.**
 
 > ### ⭐ THE ADDRESSES — added 2026-09-04, because this instrument had none for cities
 > | Set | File |
@@ -2072,16 +2668,24 @@ what it flagged.**
 > 2. **Verify by spot-check, not by re-reading the logic.** The wrong column survived four readings of the
 >    code and died instantly to one printed row.
 >
-> ### And score every quantitative claim against the full set, never the local group
+> ### ⛔⛔ SCORING AGAINST THE FULL SET IS **TERMINAL, NOT IN-RUN** — ruled 2026-09-06
 >
-> **A difference between two or three locations means nothing until you know how much locations differ in
-> general.** *(Tri-Cities: a human-vs-robot retention gap looked like an excellent finding across three
-> cities; scored against all 33 it sat at z = ±0.4 and was discarded. The combined-retention finding survived
-> at z = −1.26 and z = +1.41.)*
+> ***The instruction here used to read: "report the z-score, not the difference."*** ⛔ **REVOKED for every
+> ULM / CST / RWBEM per-location pass.** **A z-score is a rank; a rank is a comparison; no city is ever
+> compared to any other city.** ⭐ **In-run, report THIS location's own figure and hand-check it (items 1–2
+> above, which are untouched and remain mandatory).**
 >
-> **Report the z-score, not the difference.** Without this, **any** small set of locations will appear to
-> differ meaningfully on **any** metric — and a single-location pass needs this more, not less, since it has no
-> siblings to sanity-check against.
+> ⏸️ **Kept for the terminal check, where it is correct and load-bearing:** *a difference between two or three
+> locations means nothing until you know how much locations differ in general.* *(Tri-Cities: a
+> human-vs-robot retention gap looked like an excellent finding across three cities; scored against all 33 it
+> sat at z = ±0.4 and was discarded. The combined-retention finding survived at z = −1.26 and z = +1.41.)*
+>
+> ### ⭐ AND NOTE WHAT THE OLD RULE WAS ACTUALLY PROTECTING AGAINST — **the protection is still needed**
+> **It was guarding against *a small-set difference read as meaningful*.** ⭐ **Under the law, the pass no
+> longer HAS a small set — so the failure mode it guarded against cannot occur, and the guard is not lost, it
+> is unnecessary.** ⚠ **What replaces it in-run is the honest form of the same discipline:** ***do not dress a
+> bare number as a finding.*** **A percentage is a fact; what it means for this place is the finding, and
+> writing the second is the work.**
 
 # Step 8 — The Review Panel
 
@@ -2089,9 +2693,21 @@ what it flagged.**
 **Passer-Through** and **Neighbor**; the **Lover faculty's question every time.**
 
 **Five dispositions:** accepted · noted · rejected · refereed · **unmet.**
-**The test that keeps this from homogenizing a whole set:** *would satisfying this objection make the location
-more like its siblings?* If yes, it is **unmet**, and the refusal is written as characterization rather than as
-a gap to close.
+
+**The test that keeps this from homogenizing a whole set** — ⭐ **restated 2026-09-06 in its peer-free form,
+because the old wording required reading a sibling:**
+
+| | |
+|---|---|
+| ⛔ **Was** | *"Would satisfying this objection make the location more like its siblings?"* — **unrunnable in-run; it needs the sibling set** |
+| ⭐ **Now** | ***"Would satisfying this objection replace something SPECIFIC TO THIS PLACE with something that could be true anywhere?"*** |
+
+**If yes, it is `unmet`, and the refusal is written as characterization rather than as a gap to close.**
+
+> ⭐⭐ **The new form is strictly stronger, not a weakened stand-in.** *"More like its siblings" catches only
+> collisions with the cities that happen to be finished already.* ***"Could be true anywhere" catches
+> genericness itself*** — **including the generic answer no sibling has written down yet**, which is the one a
+> sibling-based test can never see coming.
 
 # Step 9 — Record
 

@@ -23,7 +23,7 @@ later pass can re-derive the numbers rather than trusting this file's arithmetic
    [1] FALLS ALOFT          precipitation formed in cloud, measured by radar ~1200 m above ground
         │
         │  ── low-level sublimation ──  katabatic air is dry and unsaturated;
-        │                               snow evaporates during its last kilometre of fall
+        │                               snow evaporates during its last kilometer of fall
         ▼
    [2] REACHES THE SURFACE   what a person standing outside is actually snowed on by
         │
@@ -49,7 +49,7 @@ later pass can re-derive the numbers rather than trusting this file's arithmetic
 > ### ⭐ Note what that last row means
 > **The snow that never lands is overwhelmingly snow that already landed once and was picked back up.**
 > Only ~5% of the loss is snow carried bodily downhill; the rest evaporates *while airborne, after having
-> been on the ground.* **The ice sheet loses mass to the air, not to its neighbours.**
+> been on the ground.* **The ice sheet loses mass to the air, not to its neighbors.**
 
 ## ⭐⭐ THE SINGLE MOST IMPORTANT NUMBER
 

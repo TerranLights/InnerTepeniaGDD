@@ -16,6 +16,18 @@
 5. **If you cannot find something, that is the result.** **Log it. Do not route around it, do not substitute,
    do not proceed on a guess.**
 6. **AMERICAN ENGLISH.** *(Global `CLAUDE.md`.)*
+7. ⛔⛔⛔ **ONE LOCATION, ON ITS OWN TERMS — NEVER COMPARE ANY LOCATION TO ANY OTHER.** *(Binding law,
+   developer ruling 2026-09-06. **Hand-synced into this card 2026-09-06** — the ruling landed on
+   `00_RUNBOOK.md` and reached no card.)* ⛔ **No ranking, no z-scores, no "nth of N," no "unlike X," no other
+   location as a control, baseline or implicit normal.** ✅ **Use this location's OWN figures, stated flatly.**
+   ⭐ **RELATION stays legal** — *what this place needs from elsewhere, what flows, in which direction.*
+   **The one-sentence test: delete every other location's name from the sentence; if the claim about THIS place
+   survives, it was relation.** ⚠ **Scope is `ULM / CST / RWBEM`. District passes are untouched.**
+8. ⛔⛔ **NO FORCED FIT — AN EMPTY SLOT IS A RESULT, NOT A GAP.** *(Binding law, developer ruling 2026-09-06.
+   Hand-synced 2026-09-06.)* **Never force a location into a category it does not naturally occupy — and the
+   error runs BOTH ways:** *assigning an existing roster member that does not fit, **or** inventing a bespoke
+   one to fill a blank.* **Rosters are OPEN and expected to grow, so a roster's SIZE is never the test.**
+   ✅ ***"None is sited here" must never read as "none is possible here."***
 
 ---
 
@@ -40,16 +52,17 @@ what it flagged.**
 > 2. **Verify by spot-check, not by re-reading the logic.** The wrong column survived four readings of the
 >    code and died instantly to one printed row.
 >
-> ### And score every quantitative claim against the full set, never the local group
+> ### ⛔⛔ NO SCORE OF ANY KIND IN-RUN — **REPLACED 2026-09-06.** *Hand-synced from `02` §G8 rule 1.*
 >
-> **A difference between two or three locations means nothing until you know how much locations differ in
-> general.** *(Tri-Cities: a human-vs-robot retention gap looked like an excellent finding across three
-> cities; scored against all 33 it sat at z = ±0.4 and was discarded. The combined-retention finding survived
-> at z = −1.26 and z = +1.41.)*
+> **The rule used to read:** *"score against the full set, never the local group — report the z-score… a
+> single-location pass needs this more, not less, since it has no siblings to sanity-check against."*
+> ⛔ **A z-score is a rank, a rank is a comparison, and no city is ever compared to any other city**
+> *(`00_RUNBOOK.md`, THE LAW OF ONE LOCATION; developer ruling 2026-09-06)*.
 >
-> **Report the z-score, not the difference.** Without this, **any** small set of locations will appear to
-> differ meaningfully on **any** metric — and a single-location pass needs this more, not less, since it has no
-> siblings to sanity-check against.
+> ⭐ **REPORT THE LOCATION'S OWN PERCENTAGE, FLATLY** — *"retained `61.81%`; `H` `58.31%` against `R` `65.17%`,
+> a spread of `+6.86 pp`"* — **and then ask what THAT number means for THIS place**, which is the question the
+> z-score was always standing in front of.
+> ⏸️ **TERMINAL:** *cross-city scoring returns at the end of the corpus, when a full set actually exists.*
 
 ---
 

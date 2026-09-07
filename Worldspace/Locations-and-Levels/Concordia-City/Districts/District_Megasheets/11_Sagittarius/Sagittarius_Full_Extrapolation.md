@@ -129,7 +129,7 @@ there, and never was.**
 
 ---
 
-## VIII. Both of its suppliers are inside the city, and this district has no practice at travelling inward
+## VIII. Both of its suppliers are inside the city, and this district has no practice at traveling inward
 
 **Deficit geometry** *(`00e` §5)*. The faculty the Frostlands lack — **detail, record, verification** — is at
 home in **the Circuit** and both at home and at its strongest in **the Undergrid**. Two addresses, one of them
@@ -147,7 +147,7 @@ kind of journey nobody here has ever learned to make.**
 Frostlands: **the Circuit goes everywhere and is changed by nothing; the Frostlands go once and come back
 different.** The Circuit therefore *shops* — it visits three suppliers and receives from none. **The Frostlands
 have never gone shopping in their lives.** They do not experience themselves as underserved, because
-approaching a neighbour for a capacity has never been on the list of things one does.
+approaching a neighbor for a capacity has never been on the list of things one does.
 
 **Third-order, and it is the district's own myth stated as a mechanism.** The founding figure this district
 takes its self-image from is a teacher and healer **who could cure everyone except himself** — and whose only
@@ -376,7 +376,7 @@ stocked for expeditions that lost interest. **This is not poverty and it is not 
 whose one instrument is meaning, applied to construction: a building acquires its next component when somebody
 can say what it is for.**
 
-> **Research: the Silk Road caravanserai — changed a finding.** Caravan trade did not run on through-travellers.
+> **Research: the Silk Road caravanserai — changed a finding.** Caravan trade did not run on through-travelers.
 > **Most merchants took goods from one town to the next and returned home** — a relay, stage by stage. What made
 > the relay work was standardized infrastructure: caravanserais **a day's journey apart, every 30–40 km**, and
 > inside each one a **Divankhana where prices were set**, a money changer at posted rates, and a head of finance
@@ -524,7 +524,7 @@ assumption is that its owner has recently lost one.
 **Second-order, and it is the general/narrow distinction doing real work.** Because the outer layer does all
 the thermal labor, **what people wear underneath is thin, cheap, and extremely bright** — the district's
 interiors are the most colorful in Concordia (Finding XV) and so is its indoor clothing. **Visitors who only
-ever see Frostlanders outdoors believe the district dresses in grey and brown.** Residents find this funny and
+ever see Frostlanders outdoors believe the district dresses in gray and brown.** Residents find this funny and
 do not correct it.
 
 **Third-order.** The one garment nobody repairs is a dead person's coat. It is not taboo and there is no rule;
@@ -563,7 +563,7 @@ has nowhere to go here**, and it is why an outsider arriving with a coherent fra
 the Frostlands unexpectedly receptive (see Finding XXI's designed vulnerability).
 
 **Third-order — the luck ledger.** Underneath the threshold practices runs an arithmetic nobody states:
-**survival is read as favour, and the dead are read as owed something.** It produces real generosity toward
+**survival is read as favor, and the dead are read as owed something.** It produces real generosity toward
 survivors and a quiet, ugly accounting about who deserved to come back. **Nobody would defend that sentence
 and a great many people are doing the sum.**
 
@@ -890,7 +890,7 @@ above**, because the Hub is deferred by the developer and scoping it here would 
 1. **The geometry of the overlap is not a border dispute.** Ophiuchus occupies roughly **the middle twenty of
    Sagittarius's thirty days**, leaving the Frostlands only its two edges. **The Hub does not take a border of
    the Frostlands. It takes the center and leaves the frontier its frontier.**
-2. **The relationship is teacher and student, not neighbours.** Asclepius was cut from his mother's pyre and
+2. **The relationship is teacher and student, not neighbors.** Asclepius was cut from his mother's pyre and
    **given to Chiron to raise**; he surpassed his teacher, raised the dead, and was destroyed for it — while
    Chiron, famously, could not heal his own wound. **The Frostlands/Hub friction is a teacher who cannot
    forgive that the pupil's medicine worked**, in a district whose founding figure is defined by being unable
@@ -1284,7 +1284,7 @@ it at once, everyone stops, and nobody has to say what it means.
 - **⚠ The Undergrid could not be cast at all, and that is a finding rather than an omission.** There is no
   Frostlands–Undergrid relationship to voice — no history, no grievance, no trade, no contact (Finding VIII).
   **A panel position requires a standpoint, and this one has none.** It is the only time in eleven districts
-  that a neighbour position has been structurally uncastable, and it is the strongest available confirmation of
+  that a neighbor position has been structurally uncastable, and it is the strongest available confirmation of
   Finding VIII.
 - **The Magician faculty returned almost nothing, and the silence is flattering.** There is no specialist
   knowledge held as leverage here. Expertise is given away instantly, freely, to anyone who asks, including

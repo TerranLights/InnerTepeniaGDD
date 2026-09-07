@@ -35,7 +35,7 @@
 
 *(See `Reference_Images/` folder — Miranda series.)*
 
-Blonde, long wavy hair. Grey-blue eyes. The defining image: a hot pink/fuchsia sequined bodysuit — sparkle-heavy across the chest — with matching long pink satin sleeves trimmed with pink feather cuffs, a diamond choker at the neck, hands on hips. The outfit is maximalist showgirl-adjacent. The expression is zero affect — flat, direct, completely disengaged from the performance her clothes are doing. She is not in the room; the outfit is in the room.
+Blonde, long wavy hair. Gray-blue eyes. The defining image: a hot pink/fuchsia sequined bodysuit — sparkle-heavy across the chest — with matching long pink satin sleeves trimmed with pink feather cuffs, a diamond choker at the neck, hands on hips. The outfit is maximalist showgirl-adjacent. The expression is zero affect — flat, direct, completely disengaged from the performance her clothes are doing. She is not in the room; the outfit is in the room.
 
 This contrast is her entire character in one image: the most theatrical possible presentation, worn by someone who is visibly somewhere else entirely.
 

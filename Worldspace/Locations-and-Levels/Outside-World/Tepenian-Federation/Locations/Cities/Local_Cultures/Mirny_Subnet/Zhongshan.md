@@ -151,7 +151,7 @@ The resulting style carries Song Dynasty aesthetic principles forward directly �
 
 ## 11. Fashion
 
-Zhongshan fashion carries forward real Chinese textile traditions — fabric choices and certain garment structures — because the population making and wearing these clothes is genuinely, unbrokenly Chinese, nine or ten generations on. What Antarctic exile shaped was not whether that inheritance is present, but how it had to change to survive here: aesthetic investment concentrated in details rather than silhouette, a muted palette of dark blues, deep greys, charcoal, occasional deep red, with precision in cut and finish standing in for ornament.
+Zhongshan fashion carries forward real Chinese textile traditions — fabric choices and certain garment structures — because the population making and wearing these clothes is genuinely, unbrokenly Chinese, nine or ten generations on. What Antarctic exile shaped was not whether that inheritance is present, but how it had to change to survive here: aesthetic investment concentrated in details rather than silhouette, a muted palette of dark blues, deep grays, charcoal, occasional deep red, with precision in cut and finish standing in for ornament.
 
 That concentration of care in details rather than display is the same instinct that shapes Zhongshan's architecture, applied to the body instead of the building. A population that had just fled a political order where visible display marked you for attention didn't rebuild that habit here; clothing that doesn't announce anything is clothing that gives nothing away, in a city where that is still, quietly, valued.
 

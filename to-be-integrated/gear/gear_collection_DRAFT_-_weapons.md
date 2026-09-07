@@ -28,7 +28,7 @@ performer's costume boning — thin rigid corset stays — has real stabbing pot
 garment part.
 
 **Rothera** — decentralized industrial spine, surface and underground. A precision fabrication press arm,
-a heavier-than-household vault-access pry bar, and the component-lifting chain-hook that moves finished
+a heavier-than-household vault-access crowbar, and the component-lifting chain-hook that moves finished
 infrastructure parts between vault sections.
 
 **Marambio** — dual aviation/maritime hub. Aircraft tie-down chain and turnbuckle (flail-shaped by accident),

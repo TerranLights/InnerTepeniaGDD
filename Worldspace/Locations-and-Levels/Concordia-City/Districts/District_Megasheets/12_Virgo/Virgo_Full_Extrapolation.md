@@ -493,7 +493,7 @@ kit, it is worn on shift, and it tells you nothing about the district.
 **The general answer has two parts and both are procurement decisions rather than style ones.** First:
 **clothing is bought once, in quantity, and identical.** A resident finds an item that lasts and buys as many
 as they can afford, then wears them for years. **The result reads to outsiders as a uniform and is not one** —
-it is the same reasoning the district applies to spares, applied to a wardrobe, and two neighbours will own
+it is the same reasoning the district applies to spares, applied to a wardrobe, and two neighbors will own
 completely different sets of it.
 
 **Second, and it is the actual tell: everything is fastened all the way.** Collars closed, cuffs done up,
@@ -1134,7 +1134,7 @@ Below.
 flagged, per `00c`.**
 
 - **Finding X (crews still walk closed routes).** *Would a person actually do this?* **Yes, and the real-world
-  analogue is ordinary** — inspection regimes routinely outlive their reason, and the individual behavior at
+  analog is ordinary** — inspection regimes routinely outlive their reason, and the individual behavior at
   every step is correct. *At this cost?* The cost is time, not safety or dignity, and it is distributed. *For
   this reason?* Yes — nobody has authority to strike the entry. **Cleared.**
 - **Finding XXI (a correct fault report in week two closes doors permanently).** ⚠ **Flagged, examined,

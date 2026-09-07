@@ -23,7 +23,7 @@ city/build/Gen variation gets layered on:
 - **A full consumption/vice culture exists**, structurally paralleling human food/drink/intoxicant/tobacco
   universals but physiologically robot-specific (siligel, coolant, robot coffee, glitch-coolant, smoking
   via internal thermal/energy systems rather than combustion).
-- **A real damage/corruption analogue to mortality exists** (Calethina's Split Brain corruption), distinct
+- **A real damage/corruption analog to mortality exists** (Calethina's Split Brain corruption), distinct
   from human death but filling the same structural role. *(Reframed 2026-08-06: the actual death-threshold
   is irreversible cognitive- or energy-architecture destruction with no bring-back-online path — see
   `Robot_Physiology_and_Cultural_Practices.md`'s "What Counts as Death." Calethina's own corruption is
@@ -47,8 +47,8 @@ city/build/Gen variation gets layered on:
   Language Modules — robot religion is a New Universal, reached the same emergent way cooperation is.)*
 - **No disease-equivalent exists, and that's a confirmed finding, not a gap.** *(Derived 2026-08-06:*
   robots' established "things that go wrong" already fully account for that territory — gradual component
-  degradation (the aging-analogue) and corruption events like Calethina's Split Brain (the
-  mortality-analogue) — with no third slot left over for something disease-shaped.)
+  degradation (the aging-analog) and corruption events like Calethina's Split Brain (the
+  mortality-analog) — with no third slot left over for something disease-shaped.)
 - **The gel brain's "glowy-blue" character is a fixed material-composition fact, not an aesthetic or
   individually-expressive trait.** *(Resolved 2026-08-07: analogous to the sky being blue from atmospheric
   nitrogen, or grass being green from chlorophyll — the glow is a property of the brain's own architecture,
@@ -99,7 +99,7 @@ city/build/Gen variation gets layered on:
 
 ## 2. Where robot culture is structurally forced to diverge from human culture
 
-The essence-type non-transfers and structural analogues — the actual foundational difference points, not
+The essence-type non-transfers and structural analogs — the actual foundational difference points, not
 just "robots are different because robots":
 
 - **The entire reproduction/kinship/parental-investment cluster has no direct human-style referent** — no

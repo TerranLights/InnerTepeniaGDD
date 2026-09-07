@@ -52,7 +52,7 @@
 
 ## VIII. Notable Figures (proposed, unconfirmed)
 
-- **Archivist Yelena Voskresenskaya** *(placeholder, deliberately from the founding-era Russian community, not the current population)* — the last known researcher of the original Vostok community, whose personal notes and idiosyncratic cataloguing system form one of the oldest and most difficult-to-interpret layers of the incomprehensible archive; a proposed answer to who exactly left behind the Russian-language technical vocabulary the current population still uses without speaking the language itself.
+- **Archivist Yelena Voskresenskaya** *(placeholder, deliberately from the founding-era Russian community, not the current population)* — the last known researcher of the original Vostok community, whose personal notes and idiosyncratic cataloging system form one of the oldest and most difficult-to-interpret layers of the incomprehensible archive; a proposed answer to who exactly left behind the Russian-language technical vocabulary the current population still uses without speaking the language itself.
 
 *(Entirely proposed — a placeholder figure meant to give the founding community a concrete trace in the historical record, not finished character writing, and left carefully distinct from "Charlene," whose own character file is addressed directly in Section III rather than invented here.)*
 

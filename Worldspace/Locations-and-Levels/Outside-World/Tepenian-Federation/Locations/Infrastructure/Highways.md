@@ -348,7 +348,7 @@ Developer ruling, verbatim:
   reason the node model is the only realistic one.
 - **The node is a stopping place**: the Tepenian equivalent of a diner, fuel stop, or rest stop. You wait
   *inside*, in the warm, and you get a ride by **socializing with people who stopped there for their own
-  reasons** — not by signalling to passing traffic.
+  reasons** — not by signaling to passing traffic.
 - **It is slower, and that is the point.** A ride is a social outcome rather than a transactional one, and it
   may take considerably longer than roadside hitchhiking would in a temperate country.
 

@@ -128,7 +128,7 @@ Following the "person associated with a place or idea" pattern already used else
 ## VI. Notable Figures (proposed, unconfirmed)
 
 - **Founding Administrator Wren Kalloway** *(placeholder)* — credited, in Davis's own institutional memory, with establishing the city's research-first civic character in the earliest exile years, deliberately modeling the young settlement's whole self-image on John King Davis's own unglamorous competence rather than any more celebratory founding myth.
-- **Naturalist Ratna Wirawan** *(placeholder — corrected 2026-07-13; previously "Priya Devendra," an Indian name that violated the project's binding No Subcontinentals canon and didn't match any of Davis's 20 represented nations; renamed to reflect Indonesia, Davis's genuine Significant-tier lead)* — the figure most associated with mapping and cataloguing the Vestfold Hills' unusual lake system, credited locally with the paleoclimate sediment-core methodology proposed in Section I; embodies the "enabler" ethos directly, having reportedly turned down opportunities to publish under her own name alone in favor of crediting the whole research team.
+- **Naturalist Ratna Wirawan** *(placeholder — corrected 2026-07-13; previously "Priya Devendra," an Indian name that violated the project's binding No Subcontinentals canon and didn't match any of Davis's 20 represented nations; renamed to reflect Indonesia, Davis's genuine Significant-tier lead)* — the figure most associated with mapping and cataloging the Vestfold Hills' unusual lake system, credited locally with the paleoclimate sediment-core methodology proposed in Section I; embodies the "enabler" ethos directly, having reportedly turned down opportunities to publish under her own name alone in favor of crediting the whole research team.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
 
@@ -214,7 +214,7 @@ Finding 1 is the most structurally significant — Davis's triple-reinforced "en
 - **The Sediment Core Archive** — where Davis's own paleoclimate lake-sediment research is stored and studied.
 - **The Open-Door Libraries** — Davis's genuinely welcoming, openly celebrated acquisitions policy for smuggled Upper Earth books.
 - **The Fjord Mooring Docks** — sheltered small-vessel moorings in the fjord inlets, distinct from Prydz Bay's main harbor.
-- **The Wirawan Lake Survey Office** — named for Naturalist Ratna Wirawan *(placeholder name, `Davis_Full_Extrapolation.md` Section VI — not developer-chosen)*, cataloguing the varied lake system.
+- **The Wirawan Lake Survey Office** — named for Naturalist Ratna Wirawan *(placeholder name, `Davis_Full_Extrapolation.md` Section VI — not developer-chosen)*, cataloging the varied lake system.
 
 ## Small offices for educational training
 

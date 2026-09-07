@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder.)*
 
-Long, straight dark brown/black hair, pale blue-grey eyes, a composed but tired-edged expression. A navy sleeveless top and a fitted grey pencil skirt, black pointed heels, an ID/employee lanyard badge, holding a marker or pointer. Shown in a cluttered office setting — a whiteboard covered in mind-map diagrams and sticky notes, papers scattered across the floor, a leather office chair.
+Long, straight dark brown/black hair, pale blue-gray eyes, a composed but tired-edged expression. A navy sleeveless top and a fitted gray pencil skirt, black pointed heels, an ID/employee lanyard badge, holding a marker or pointer. Shown in a cluttered office setting — a whiteboard covered in mind-map diagrams and sticky notes, papers scattered across the floor, a leather office chair.
 
 She reads as: exactly what the working title suggests — visibly competent and put-together, but surrounded by the physical debris of an unmanageable workload (papers everywhere, a whiteboard crowded with half-finished planning). Her expression is more weary and matter-of-fact than glamorous, someone doing real, unglamorous work rather than posing for it.
 

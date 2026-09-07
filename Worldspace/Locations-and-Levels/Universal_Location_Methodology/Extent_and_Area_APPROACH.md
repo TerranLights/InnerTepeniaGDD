@@ -85,7 +85,7 @@ Signy · Port Lockroy.** ***That is a settlement-form constraint already doing r
 >
 > ⚠ **A live instance, caught before it was acted on:** *during the 2026-09-05 Denison pass this file's author
 > proposed anchoring Denison's reduction to Sayowa — island-capped, ~4.5 km², 50,084/km² — as "the direct
-> analogue." **That is the trap.** Sayowa's figure is itself an unchecked judgment call, and Sayowa's own spec
+> analog." **That is the trap.** Sayowa's figure is itself an unchecked judgment call, and Sayowa's own spec
 > already flags 50,084/km² as "the implausibility."*
 >
 > ## ⭐⭐⭐ WHAT THE CAPS ARE INSTEAD: **the first eleven HYPOTHESES to test.**
@@ -152,7 +152,7 @@ what "extent" even means for each.
 
 ## 5.1 ⭐ Extent needs a VERTICAL COMPANION — a footprint alone is meaningless
 
-**A density figure cannot discriminate without knowing whether the city is three storeys or forty.**
+**A density figure cannot discriminate without knowing whether the city is three stories or forty.**
 
 > ⭐ **Denison's spec has already run this.** **1.11 km² · ~34 levels if the valleys are spanned · ~69 if
 > built on the ridges alone** — *"spanning the valleys is what makes the population fit, so the load-sharing

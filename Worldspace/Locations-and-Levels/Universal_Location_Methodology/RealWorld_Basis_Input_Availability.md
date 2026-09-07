@@ -28,7 +28,7 @@ answering **"what other things, places, people and settings would exist here, be
 **The file's own Step B gate read `Reference/No_National_Stereotypes.md` — a bare relative path that resolves
 to NOTHING from this repo.** ✅ **The law is real and live; it is in the SIBLING REPO:**
 `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`
-*(42 lines).* **Only `DONE.md` recorded that.**
+*(172 lines, re-verified 2026-09-06 — ⚠ this read `42 lines`; the law has grown 4× since).* **Only `DONE.md` recorded that.**
 
 > ***M-117 — "a name is not an address" — on the single most safety-critical line in the file.*** **A pass
 > following the citation got a clean zero on the GPS law while performing exactly the operation the law exists

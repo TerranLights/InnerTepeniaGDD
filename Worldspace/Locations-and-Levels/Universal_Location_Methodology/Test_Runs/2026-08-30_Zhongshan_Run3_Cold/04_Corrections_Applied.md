@@ -65,7 +65,7 @@ plainly that a place's professional performers are not its musical culture.
 **The general answer, written properly:**
 
 > **Zhongshan's general musical culture is domestic, vocal, and unaccompanied — and it is loud.** In a city at
-> this density, with thin construction over rock, **everyone can hear their neighbours**, and the ordinary
+> this density, with thin construction over rock, **everyone can hear their neighbors**, and the ordinary
 > response to that across two and a half centuries has not been quiet. **Singing over each other is normal,
 > non-competitive, and completely unremarkable to residents** — a household's noise is not an intrusion because
 > everyone's is audible and nobody's is private.
@@ -91,7 +91,7 @@ plainly that a place's professional performers are not its musical culture.
 > ### Finding XV — The membership mechanism has no application, and no route in
 >
 > **Phase 5d established that you become a local when a leg of The Round becomes yours.** Legs are never
-> granted — **they are picked up**, when someone nearby stops walking one and a neighbour quietly takes it on.
+> granted — **they are picked up**, when someone nearby stops walking one and a neighbor quietly takes it on.
 >
 > **So membership requires being near a lapse at the right moment.** And a person whose part of the city is
 > well covered — because its walkers are reliable, because nothing there has gone wrong — **is never handed
@@ -147,7 +147,7 @@ class the gate said was being skipped, and it produced a better finding than a w
 answers everything as Uniform has not been written at its own scale."* The pass asserted a universal footwear
 item, one compact and one observance city-wide.
 
-**The pattern, named:** **Zhongshan varies by *how far a neighbourhood is from a water*, and by nothing else
+**The pattern, named:** **Zhongshan varies by *how far a neighborhood is from a water*, and by nothing else
 that matters.**
 
 | Category | Uniform / Patterned / Delegated |

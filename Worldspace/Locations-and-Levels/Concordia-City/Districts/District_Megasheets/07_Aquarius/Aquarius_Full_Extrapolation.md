@@ -117,7 +117,7 @@ no slot for one.
 
 **Baseline: singular pieces, recombined, never new.** Residents wear things chosen one at a time and kept for
 years — *"works the clothes that she has,"* buys **unique pieces** rather than following anything, minimal and
-deliberately unshowy jewellery. **Expense is a faux pas.** A wealthy newcomer in good clothes reads as *vulgar*
+deliberately unshowy jewelry. **Expense is a faux pas.** A wealthy newcomer in good clothes reads as *vulgar*
 here before they read as an outsider, which is a genuinely useful first-contact beat.
 
 **The eccentricity is real and it is cheap.** *(Emerson's tell, and it is the most concrete in the corpus:
@@ -195,7 +195,7 @@ genuinely open district in Concordia and the one with the least obligation to an
   and Taurus has no idea what it is being accused of. **Scorpio** is the stranger one: two districts whose only
   common ground is stubbornness and a love of argument. One buries what it learns; **the other publishes
   everything.** And there is an asymmetry that runs directly against the Labs' self-image — **Scorpio is the
-  one neighbour equipped to spot a fraud, and the Labs is, by its own sources, the easiest district in Concordia
+  one neighbor equipped to spot a fraud, and the Labs is, by its own sources, the easiest district in Concordia
   to defraud.** The district that trusts nothing it cannot verify does not verify people.
 - **Allies:** **the Circuit** (both detest censorship; both generate more than they execute) and **the
   Government District** (natural conversational partners — the Labs proposes the experiment and the Government
@@ -683,7 +683,7 @@ answer, no tradition, no precedent, and no doctrine for the situation it has bee
   stopped at two and declared the rest redundant. Law 0 was added mid-pass and the remaining four were then
   actually researched. **The Christiania and Akademgorodok material produced Findings XVII and XVIII, the two
   strongest in the pass — neither existed at two picks.**)* **Not researched (3):** **Silicon Valley**,
-  genuinely redundant against the science-city cluster; **Sealand**, whose sovereignty-theatre angle has no
+  genuinely redundant against the science-city cluster; **Sealand**, whose sovereignty-theater angle has no
   purchase on a chartered district inside a city; and **Neom/The Line**, which is **the genuine omission** — its
   displacement-of-existing-inhabitants and renders-versus-built-reality angles are distinct from everything used
   and bear on the Living Network Experiment. **First thing to research when this district is next expanded.**

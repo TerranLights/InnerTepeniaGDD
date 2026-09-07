@@ -47,13 +47,13 @@ Exactly as idealistic as you would expect and exactly as frightened, and she is 
 She has copies. She made copies on the day she found it, before she fully understood what she was copying. By the time she understood, she had already done it. She has not told anyone this.
 
 **Backstory:**
-Was built and immediately assigned to the Libra archive — her first and only professional placement. Has been cataloguing for five years. Found the Compact three weeks ago while cataloguing an adjacent collection that had been incorrectly filed in the 2650s. Has spent three weeks reading every document in the Compact's contextual file, cross-referencing it against the official Tepenian constitutional record, and arriving at the same conclusion every time. Has also spent three weeks going to work every day and behaving exactly as she normally behaves, which has cost her an amount she could not have predicted.
+Was built and immediately assigned to the Libra archive — her first and only professional placement. Has been cataloging for five years. Found the Compact three weeks ago while cataloging an adjacent collection that had been incorrectly filed in the 2650s. Has spent three weeks reading every document in the Compact's contextual file, cross-referencing it against the official Tepenian constitutional record, and arriving at the same conclusion every time. Has also spent three weeks going to work every day and behaving exactly as she normally behaves, which has cost her an amount she could not have predicted.
 
 **Temperament:**
 Earnest, clear, scared in a way she is holding very still. Speaks in complete sentences even when she is afraid, because the archive work trained her to be precise and the precision has become her composure. She will tell the player exactly what she found and exactly what she plans to do with it and exactly how afraid she is about what will happen next.
 
 **Daily habits:**
-Archive work: cataloguing, documentation, cross-referencing. Has maintained the full work routine throughout the crisis. This has been harder than it sounds. Has a ritual at the end of each day of returning to the Compact and reading one section of it — not for information, she has the information, but as a practice of keeping the decision alive and present.
+Archive work: cataloging, documentation, cross-referencing. Has maintained the full work routine throughout the crisis. This has been harder than it sounds. Has a ritual at the end of each day of returning to the Compact and reading one section of it — not for information, she has the information, but as a practice of keeping the decision alive and present.
 
 **Living conditions:**
 Standard archive worker housing — nothing that would read as out of the ordinary, because she is very carefully not drawing attention to herself. The copies of the Compact are in the housing but in a location and format she is not going to describe to anyone who hasn't been trusted entirely.

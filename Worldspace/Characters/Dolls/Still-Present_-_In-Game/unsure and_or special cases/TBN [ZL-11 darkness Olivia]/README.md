@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder — GE04 series.)*
 
-Sleek, dark brown/black chin-length bob with blunt bangs, deep red lipstick, smoky rose-toned eye makeup, dark red nails. A black velvet, floral-embossed cheongsam-inspired bodysuit with a high halter collar, an asymmetric cutout at the ribs, and lace-up side detailing. Shot against a plain dark grey backdrop.
+Sleek, dark brown/black chin-length bob with blunt bangs, deep red lipstick, smoky rose-toned eye makeup, dark red nails. A black velvet, floral-embossed cheongsam-inspired bodysuit with a high halter collar, an asymmetric cutout at the ribs, and lace-up side detailing. Shot against a plain dark gray backdrop.
 
 She reads as: dramatic and sultry — the dark, textured fabric, high collar, and moody low-key lighting all commit fully to the "darkness" framing in the working title, with a sharp, close-lipped expression that leans sultry and self-aware rather than soft.
 

@@ -142,7 +142,7 @@ The Larsemann Hills bedrock is visible throughout the city. Rather than conceali
 
 ## 11. Fashion
 
-Zhongshan fashion is layered and functional, with aesthetic investment concentrated in details rather than silhouette. The palette is muted — dark blues, deep greys, charcoal, occasional deep red — with precision in cut and finish. Chinese textile traditions survive in fabric choices and certain garment structures; Russian influence shows in the robustness of outerwear and certain silhouettes designed for cold transit.
+Zhongshan fashion is layered and functional, with aesthetic investment concentrated in details rather than silhouette. The palette is muted — dark blues, deep grays, charcoal, occasional deep red — with precision in cut and finish. Chinese textile traditions survive in fabric choices and certain garment structures; Russian influence shows in the robustness of outerwear and certain silhouettes designed for cold transit.
 
 The single most reliable marker of Zhongshan origin is clothing maintenance. The city's culture holds that allowing your clothes to deteriorate is a kind of personal failing — not vanity, but a form of care for what you have. Zhongshan clothing is repaired, not replaced, and repaired well. A garment showing careful repair is more respectable than a new one. Zhongshan people in Concordia tend to be the ones whose clothes are old but impeccably kept.
 

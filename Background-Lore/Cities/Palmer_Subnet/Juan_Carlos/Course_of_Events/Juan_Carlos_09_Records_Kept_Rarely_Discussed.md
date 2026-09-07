@@ -14,7 +14,7 @@ kind of conflict, and what kind of character(s), would make the following settin
 ## State of Affairs 1
 ###### The city as it stands before this cycle's turning point.
 
-Juan Carlos's archivists go about their daily work — cataloguing, filing, maintaining records — without much
+Juan Carlos's archivists go about their daily work — cataloging, filing, maintaining records — without much
 sense that what they're doing is historically significant. It reads, from the inside, as ordinary
 administrative labor.
 

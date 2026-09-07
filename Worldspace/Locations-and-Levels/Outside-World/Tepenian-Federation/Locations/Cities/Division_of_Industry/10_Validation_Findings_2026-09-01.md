@@ -257,7 +257,7 @@ sat between **1,980 and 3,499 t for 28 consecutive years** to hold the stock at 
   cities that appear nowhere in either variant's cost ledger.**
 - **Davis is power-limited, not land-limited.** `04` §6.2: *"Ice-free does NOT mean arable… production is
   greenhouse and hydroponic regardless of geology."* Controlled-environment agriculture scales with **power and
-  structure**. The nearest canon analogue is Vostok, diagnosed in `04` §5 as *"not 'too few farmers' but 'food
+  structure**. The nearest canon analog is Vostok, diagnosed in `04` §5 as *"not 'too few farmers' but 'food
   here costs power the city does not have'"* — **labor-sufficient, energy-insufficient.**
 
 **⚠ And this is a nation whose currency is denominated in guaranteed grid capacity.** A program here should be

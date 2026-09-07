@@ -116,8 +116,8 @@ actually speaks.
 ## 9. Yelena's Ledger
 
 Among the last of Vostok's founding-era researchers, Archivist Yelena Voskresenskaya keeps her own
-personal notes and cataloguing system running long after the wider community around her has thinned to
-almost nothing. **But** a cataloguing system built by one person, for their own use, doesn't
+personal notes and cataloging system running long after the wider community around her has thinned to
+almost nothing. **But** a cataloging system built by one person, for their own use, doesn't
 necessarily make sense to anyone who comes after. **Therefore** her particular corner of the archive
 becomes one of its oldest and most difficult layers to interpret — idiosyncratic, deeply personal,
 genuinely valuable, and genuinely hard to parse all at once. **But** her work still gets preserved

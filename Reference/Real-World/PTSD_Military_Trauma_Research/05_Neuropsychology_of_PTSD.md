@@ -57,7 +57,7 @@ amygdala dominance, and behavior he does not fully control in the moment. This g
 answer to "what does his Nerve 10 cost him" — it is not free; it is a system that runs close to a real
 edge, and the same wiring that makes him exceptional is the wiring that fails hardest when it fails.
 
-### 2. DHEA/cortisol ratio and NPY — the single most direct real-world analogue for "Nerve 10" as a documented resilience trait, not an arbitrary number
+### 2. DHEA/cortisol ratio and NPY — the single most direct real-world analog for "Nerve 10" as a documented resilience trait, not an arbitrary number
 
 Ch. 2 and Ch. 13 (cross-referenced). **Dehydroepiandrosterone (DHEA)** is an adrenal steroid co-released with
 cortisol; it has *antiglucocorticoid* effects (it opposes cortisol's PFC-impairing action) and positively
@@ -304,7 +304,7 @@ gap where VAM cannot. Flashbacks = involuntary SAM activation. The theory's clin
 stated: exposure-based trauma therapy works by building a *new*, highly detailed, distinctive VAM memory
 that competes with and gains retrieval priority over the old SAM-based trace — the original fear memory is
 never edited or erased, only out-competed, which is why relapse under sufficiently strong reminders remains
-possible even after successful treatment. "Hotspots" (Grey, Holmes, & Brewin, 2001) — the specific, often
+possible even after successful treatment. "Hotspots" (Gray, Holmes, & Brewin, 2001) — the specific, often
 very brief moments of most intense emotion inside a longer traumatic memory — are proposed to be exactly the
 moments of maximal VAM/SAM divergence, and are disproportionately represented in flashback content relative
 to their share of the original event's duration.
@@ -383,7 +383,7 @@ corpus callosum, and prefrontal volumes, with effects worse the earlier the onse
 duration — dose-and-timing-dependent, not a flat effect; (b) **gender-dependent severity**: in every study
 that checked, maltreated boys showed more pronounced structural differences (smaller corpus callosum,
 larger ventricular volume) than maltreated girls with matched PTSD; (c) enlarged superior temporal gyrus
-(STG) grey matter — the brain region tied to social-cue/"theory of mind" processing — was found in maltreated
+(STG) gray matter — the brain region tied to social-cue/"theory of mind" processing — was found in maltreated
 children with PTSD, proposed as either a trauma-driven compensatory increase in sensitivity to social/vocal
 threat cues, or (in a separate finding on non-traumatized anxious children) a pre-existing anatomical
 vulnerability that predates any trauma. **Cross-series flag:** the dose/timing-dependent severity principle

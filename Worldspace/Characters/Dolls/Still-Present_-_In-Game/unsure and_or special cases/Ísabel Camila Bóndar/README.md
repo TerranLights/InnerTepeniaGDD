@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder.)*
 
-Long, straight, jet-black hair falling well past the waist. Striking blue eyes, gold hoop earrings, a delicate bracelet, and a small navel piercing. A taupe/grey wrap-style mini dress with a crossed halter neckline, worn with strappy metallic heels. Shown in a warm-lit hotel bedroom setting.
+Long, straight, jet-black hair falling well past the waist. Striking blue eyes, gold hoop earrings, a delicate bracelet, and a small navel piercing. A taupe/gray wrap-style mini dress with a crossed halter neckline, worn with strappy metallic heels. Shown in a warm-lit hotel bedroom setting.
 
 She reads as: polished, glamorous confidence — the wrap dress and heels suggest a deliberate, put-together evening look, and her direct gaze and relaxed lean against the wall project ease rather than nerves at being looked at.
 

@@ -50,7 +50,7 @@ dropped.***
 | # | Unit | What it is |
 |---|---|---|
 | **S01** | `Step −1` | **The input contract.** Run `05` §7's pre-flight. **Tier 0 blocking · Tier 1 ≥3 generators or no spine** |
-| **S02** | `Step 0` | **Frame.** The declaration block · read the five `Disciplines/` · Gate 0 · read existing material in the mandated ORDER · reserved decisions · provisional parent assumptions |
+| **S02** | `Step 0` | **Frame.** The declaration block · read the five `../Disciplines/` · Gate 0 · read existing material in the mandated ORDER · reserved decisions · provisional parent assumptions |
 | **S03** | `Step 1` | **Audit what is inherited.** The asymmetry check on existing findings |
 | **S04** | `Step 2` | ⭐ **BUILD THE SPINE.** *"The step everything else hangs on."* Three independent generators, four quadrants each, compare, read shape, read deficit address, divide population by extent |
 | **S05** | `Step 3` | **Research, aimed at what Step 2 named.** ⚠ **Never before `S04` is finished** |
@@ -58,7 +58,7 @@ dropped.***
 | **S07** | `Step 5` | **Reconciliation + the CLOSE pass** *(`03` §0.4's docket)* |
 | **S08** | `Step 6` | **Differentiate** *(`04` Part III)* |
 | **S09** | `Step 7` | ⭐⭐ **QA — RUN ALL SEVENTEEN GATES HERE: `G01`–`G17`** |
-| **S10** | `Step 8` | **The Review Panel** *(`Disciplines/00f`)* |
+| **S10** | `Step 8` | **The Review Panel** *(`../Disciplines/00f`)* |
 | **S11** | `Step 9` | **Record** — ⚠ including **`9.5`, the recording law** |
 | **S12** | `Step 10` | **The readiness check.** ***Verify, do not assert*** |
 
@@ -87,7 +87,7 @@ dropped.***
 >
 > **⚠ Do not edit the instruction text inside a unit file.** **If an instruction is wrong, fix it in the
 > source and regenerate.** ***Two copies of a rule can diverge, and nothing here detects that*** — the same
-> hazard `Disciplines/README.md` already names about its own copies.
+> hazard `../Disciplines/README.md` already names about its own copies.
 
 ## Still required, and NOT reproduced in these files
 

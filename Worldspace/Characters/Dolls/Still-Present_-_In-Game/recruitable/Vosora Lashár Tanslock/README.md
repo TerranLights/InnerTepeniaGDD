@@ -91,7 +91,7 @@ Quieter. More precise. She does not escalate when under pressure — she narrows
 
 ## Backstory Summary
 
-Vosora is a Tepenia native who spent her pre-war life without a fixed hometown. She travelled throughout Tepenia helping cities manage their data — organizing information, keeping records orderly, building the chains of command and supply that let everyone else do their specialized work. Her field is what she calls "the science of logistics": not science in any traditional sense, but the discipline of making complex systems function by ensuring every part can find what it needs.
+Vosora is a Tepenia native who spent her pre-war life without a fixed hometown. She traveled throughout Tepenia helping cities manage their data — organizing information, keeping records orderly, building the chains of command and supply that let everyone else do their specialized work. Her field is what she calls "the science of logistics": not science in any traditional sense, but the discipline of making complex systems function by ensuring every part can find what it needs.
 
 Her largest pre-war project was the Amundsen Tower construction: she organized the logistics, data supply chains, and command structures necessary for planning and building the Tower. This was the biggest and most consequential system she had ever been asked to maintain.
 

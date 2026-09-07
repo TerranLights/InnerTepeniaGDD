@@ -124,7 +124,7 @@ source composition rather than reshaping it.*
 
 ## ⭐⭐ Why 929 works where 128,887 did not
 
-**At 929 people Goudier supports a two-storey settlement covering most of the island with ~31 m² of floor
+**At 929 people Goudier supports a two-story settlement covering most of the island with ~31 m² of floor
 each** — *a comfortable apartment, no megastructure, no stacking, no engineering heroics.* **Which is what a
 200 × 120 m rock in a sheltered harbor physically is.**
 
@@ -551,7 +551,7 @@ mode — every city is a MIX of the three, and the mix is the extent answer:*
 |---|---|---|---|---|
 | ⭐ **ROCK** | *doesn't* | — | **nothing** | **fixed and small** |
 | **PLATEAU / DIVIDE ICE** | **buries** | **~2.7 cm/yr** *(Dome C SMB 27.2 kg/m²)* | **~6.7 m** — *one rebuild in two and a half centuries* | **unlimited** |
-| ⛔ **SHELF & FLOWING ICE** | **buries AND travels** | **~1.2 m/yr burial**; **740 → 900 → 1,500 m/yr flow** *(Brunt, measured)* | **~298 m buried, 184–372 km travelled** | **unlimited but TEMPORARY** |
+| ⛔ **SHELF & FLOWING ICE** | **buries AND travels** | **~1.2 m/yr burial**; **740 → 900 → 1,500 m/yr flow** *(Brunt, measured)* | **~298 m buried, 184–372 km traveled** | **unlimited but TEMPORARY** |
 
 🔬 **The burial ratio between the two ice types is 44×.** *Same material, same continent, two completely
 different cities.*
@@ -581,7 +581,7 @@ an inherited address becomes inherited security.*
 | ⛔ **MIXED, ~10% rock** | **Lazar** *(34 km² of 262–374 needed → **87–91% on ice**)* · **Tri-Cities** *(40 km² of 353–504 → **89–92% on ice**)* · the nunatak cities | ***stratified — this is where the class structure is*** |
 | **0% ROCK** | **Concordia · Vostok · Byrd · Kunlun · Dome Fuji · Amundsen** *(cheap ice)* — **Halley · Neumayer · Mirny** *(expensive ice)* | **flat again, by the opposite mechanism — nobody has permanent ground** |
 
-> ### ⭐⭐⭐ **THE CAPITAL OF TEPENIA STANDS ON NO ROCK AT ALL.**
+> ### ⭐⭐⭐ **CONCORDIA STANDS ON NO ROCK AT ALL.** *(Wording corrected 2026-09-06 — developer ruling: **Concordia is not the capital.** The finding is unaffected; only the epithet was wrong. `M-153`.)*
 > **Concordia is on ~3 km of ice at Dome C.** *But it is the **cheap** kind — 2.7 cm/yr, no horizontal
 > motion — so the city buries slowly and **evenly**, and nobody gains an advantage from where they live.*
 > ⭐ **The game's own setting is socially flat in its ground for the same reason Marambio is, arriving from

@@ -150,7 +150,7 @@ table).
 - **Body part — refine.** Emerson says "stomach and digestive system," which overlaps Cancer's stomach. Appendix V's Virgo afflictions (*bowel complaints, constipation, appendicitis, colic, peritonitis, parasites*) and `06_Virgo.md` (Martin: intestines and lower gut) both point **below** the stomach. Read Virgo as intestines, Cancer as stomach.
 - **Appendix V:** eating *picky, dyspeptic*; symptoms *hypercriticism, self-absorption, hypochondria*.
 - **Appendix II (Vir):** overhead 10/12 · highest altitude 4/11 · brightness 4.481, **12th (dimmest)** · area **1294.43 sq° — largest constellation in the zodiac by a wide margin** · 58 stars, 13 major. The biggest and the faintest: a district that occupies the most space and draws the least attention.
-- **Appendix I:** 419 B.C. — this slot was **Spica**, later changed to Virgo. **1784** — Messier catalogues eleven objects in Virgo.
+- **Appendix I:** 419 B.C. — this slot was **Spica**, later changed to Virgo. **1784** — Messier catalogs eleven objects in Virgo.
 - **Beyond Emerson:** topography **home**; shapes the Y, the Diamond, the **hexagon/honeycomb**; materials sand and leather.
 
 ### Libra
@@ -337,7 +337,7 @@ into an unattributable pool. **Recorded for completeness only. Not for use.**
 - ca. 475 B.C. Euctemon links weather forecasting to Aquarius. ca. 450 B.C. Orion sets as Scorpio rises.
 - 1664 Hooke finds Mesarthim (Aries γ). 1781 Uranus found in Gemini. 1930 Pluto found in Gemini.
   1784 Messier: fifteen objects in Sagittarius, eleven in Virgo.
-- Cross-cutting scale figures: Hipparchus catalogues **800 stars** (120 B.C.); Flamsteed **3,000** (1729);
+- Cross-cutting scale figures: Hipparchus catalogs **800 stars** (120 B.C.); Flamsteed **3,000** (1729);
   Argelander **324,198** (1863).
 
 ---

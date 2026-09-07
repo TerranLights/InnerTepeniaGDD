@@ -58,23 +58,101 @@ resembling anywhere else. Go deep on the specific rather than wide on the genera
 **There is no credit for finishing quickly.** Completion is not the goal; **a place somebody could live in is
 the goal.** The QA gates can confirm a pass is not *wrong*; **none of them can tell you it is thin.**
 
+#### ⚠ LAW 0-R — RESEARCH FULLY. **A PICK IS NOT EXHAUSTED BECAUSE IT HAS BEEN SEARCHED.**
+
+**Corollary to LAW 0, added 2026-09-06 at the developer's direction. Binding wherever web research is done —
+districts, cities, characters, any subject — not only in the ULM.** Developer's own words:
+
+> **"When doing web research on a particular place/location/topic/idea/etc etc etc, research FULLY. I don't
+> expect you to deliver 'fast results'. What I want is for you to do it *RIGHT*."**
+>
+> **"Doing web research is for ensuring REALISM and ACCURACY, and that's only possible with real, accurate
+> input data."**
+
+**Why:** research is the **input data layer** of the worldbuilding, not decoration on top of it. **A recalled
+fact is a guess wearing a confident tone. A WRONG fact is worse than a missing one**, because it produces
+worldbuilding that is confident, coherent and wrong and nothing downstream flags it — measured twice here (a
+census parse returning *"33 plausible rows, a sensible mean, and a sensible spread — all wrong,"* and 22
+cities carrying wrong polar-night spans). **A zero invites suspicion; a plausible number does not.**
+
+**LAW 0 already forbids not looking** (*"a pick is only redundant once you have actually looked at it"*).
+**This forbids the next thing out: treating a pick as spent because it has been searched once.** *Measured
+2026-09-06 — the finding that resolved a pass's own spine tension came from the **eleventh** search, run only
+because the developer sent the session back to a pick already logged as covered.*
+
+**In practice:** don't stop at the first useful return · query every pick from more than one **angle** ·
+**a pick with a sub-part is at least two picks** (a district is not its city) · **go back to picks already
+logged as covered** · run and log near-duplicates · **log dead ends and whether each died at the query or at
+the sources** · never assert redundancy from a title. **There is no search budget.**
+
+*Full statement: `Real-World_Basis_Extrapolation_Method.md` · the ULM `Disciplines/` copy · `00_RUNBOOK.md`
+Step 3 · `Cities/Research_Logs/README.md`.*
+
 ### Non-negotiables the runbook will re-state, listed here so they are never a surprise
 
 - **`Cross_District_Differentiation_Table.md` — read the relevant row BEFORE writing a category, and add the
   district's column in the SAME COMMIT that completes it.** It is the only mechanical guard against thirteen
   districts quietly converging, and Gate 6b has already failed once without it.
+  > ⚠ **DISTRICTS ONLY. Do NOT apply this to a city.** *(2026-09-06.)* **A ULM/CST/RWBEM city pass is
+  > WRITE-ONLY on its differentiation table — it adds its own column and never reads another city's row.**
+  > **The two instruments are at different stages: the 13-district corpus is complete, the 38-city corpus is
+  > not.** See the ONE LOCATION law below.
 - **Paste raw QA scan output into the QA block. Never summarize it.** Self-audit error in this project has run
   in **one direction — toward flattering the pass — on every occasion it has been measured** (four instances
   across two districts, after the rule against it was already written).
 - **A Review Panel position is not guaranteed to get what it wants.** If satisfying an objection would make the
   district more like the other twelve, the disposition is **`unmet`** and the refusal is written as
   characterization, not as a gap to close.
+  > ⭐ **CITIES USE THE PEER-FREE FORM** *(2026-09-06)*: ***"would satisfying this objection replace something
+  > SPECIFIC TO THIS PLACE with something that could be true anywhere?"*** **Strictly stronger — it catches the
+  > generic answer no sibling has written down yet, which a sibling-based test cannot see coming.**
+- ⛔⛔ **CULTURE, ETHNICITY AND THE IDENTITY TIMELINE — binding, all projects.** *(Developer rulings,
+  2026-09-06.)* **(1) STATION-BUILDER ≠ POPULATION ORIGIN.** A site's real-world builder is a GPS coordinate
+  only; **a community's own origin is canon and IS admissible once composition is established.** *The law
+  exists so a place is characterized by **who lives there**, not by **whose site it occupies** — and refusing
+  all ethnic material is a misreading that produces placeless locations.* **(2) COMPOSITION NAMES THE STOCK;
+  TIME AND PLACE PRODUCE THE CULTURE.** Apply the divergence operator — *time · separation · local
+  environmental setting · local struggles and hardships · local goals · local sensibilities and habits.*
+  Neither refuse ethnic material nor transplant a source culture intact. **(3) THE ACTS:** *Act 1* (2564 →
+  early 2600s) people are still *"X who live in Antarctica"*; *Act 2* (~late 2600s/early 2700s on) they are
+  **properly Tepenian — origin is ancestry, not identity.** Mechanism: interconnection, decisively solidified
+  by **Amundsen Tower's completion (~2688)** — but not a switch, **not the creation of unity**, already in
+  progress, and only one of the Tower's effects. **The Second Interwar spans both Acts and is mostly Act 2.**
+  ⭐ **Differentiate locally; converge nationally.** *Full statement:
+  `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`.*
 - **Real-world inspirations are sources, not specifications.** A location is under no obligation to match its
   inspiration; divergence is fine and often better. **The two tests that bind are internal** — is it
   characteristically consistent with *itself*, and is it consistent in-world within the Tepenian universe? A
   striking real fact is not automatically a district fact.
 - **Never carry one location's answers into another.** If two places produce similar-shaped answers to the same
   technique, at least one is wrong.
+  > ⭐ **AND AS OF 2026-09-06 THIS IS ENFORCED AT THE STRONGEST POSSIBLE POINT — by not reading the other
+  > location at all.** ***You cannot carry across an answer you never read.*** ⚠ **The "at least one is wrong"
+  > check itself is a comparison, so it belongs to the TERMINAL differentiation pass, not to a per-location run.**
+- ⛔⛔⛔ **ONE LOCATION, ON ITS OWN TERMS — NEVER COMPARE ANY CITY TO ANY OTHER CITY.** *(Binding law,
+  developer ruling 2026-09-06.)* ***"That is for much, much, much later in development. For the ULM/CST/RWBEM
+  meta-methodology, for each location, create that one location on its own terms."*** **No ranking, no
+  z-scores, no "nth of N," no "unlike X," no other city as a control, baseline or implicit normal.** ✅ Use the
+  location's **own** figures stated flatly, and `01` §5.3a's peer-free substitutes (its own earlier states,
+  real-world comparables, the generator-conflict method). ⭐ **This generalizes the existing "Concordia is not
+  a yardstick" rule to every city.** ✅ **RESOLVED 2026-09-06 — DIFFERENTIATION IS A TERMINAL CHECK:**
+  ***"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on
+  its own terms, and we'll worry about differentiation later."*** **All five comparison instruments (`03` §5b ·
+  Gate 6's against-siblings half · Step 6 + the table · `02` §4's three-step rule · `02` §G8's z-score) move
+  OUT of the per-location pass and into a single terminal check on the finished corpus; the differentiation
+  table becomes WRITE-ONLY in-run — *add your own column, never read another's*.** ⭐ **RELATION stays legal**
+  — *what this place needs from elsewhere, what flows, in which direction.* **The one-sentence test: delete
+  every other city's name from the sentence; if a claim about THIS place survives, it was relation.**
+  ⚠ **Scope is `ULM/CST/RWBEM` only — the district methodology and its table are UNTOUCHED and keep
+  read-before-write** *(first bullet in this list)*. *Full statement: `00_RUNBOOK.md`.*
+- ⛔⛔ **NO FORCED FIT — AN EMPTY SLOT IS A RESULT, NOT A GAP.** *(Binding law, developer ruling 2026-09-06.)*
+  **Never force a location, community or society into a category it does not naturally occupy — and the error
+  runs BOTH ways:** assigning an existing roster member that does not fit, **or** inventing a bespoke one to
+  fill a blank. **Rosters — religions, factions, symbol members, sector labels — are OPEN and expected to grow,
+  so a roster's SIZE is never the test.** When nothing fits, **say so and leave the slot explicitly open**:
+  *"none is sited here"* must never read as *"none is possible here."* **Write what the place actually has — a
+  stake, a compact, a debt, a standard of worth — as what it is, without promoting it into the empty category.**
+  *Full statement: `Universal_Location_Methodology/00_RUNBOOK.md`.*
 
 ### If the work is a methodology change rather than a district pass
 

@@ -83,7 +83,7 @@ horrific crimes — result in the offender being forcibly "volunteered" as a tes
 crime, not by the offender's nature. It is not a robot-specific consequence, and shouldn't be read as one.
 
 **Why this fits without needing to be invented from nothing:** Aquarius already has a real, established
-ethical grey zone around consent and experimentation — ethical review boards that are "real institutions that
+ethical gray zone around consent and experimentation — ethical review boards that are "real institutions that
 everyone participates in, takes seriously, and routinely routes around," a district that genuinely believes
 it's helping and is "not malicious... something potentially more dangerous: certain," and residents who are
 already "walking proof-of-concept demonstrations of ideas that are five years from widespread application, or

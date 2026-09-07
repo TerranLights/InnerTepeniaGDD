@@ -1,6 +1,6 @@
 # Climate Data — Research Log *(cross-city pass)*
 
-**Convention:** `Research_Logs/README.md` · `Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.
+**Convention:** `Research_Logs/README.md` · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.
 **Appended to, never rewritten.**
 
 > **Why this is a cross-city log rather than seven per-city logs.** The pass researched one *variable*
@@ -258,7 +258,7 @@ item.**
 ## ⚠ OPEN THREADS — updated
 
 - ✅ **Thread 6 CLOSED** *(no Livingston/Sejong precipitation)* — Bellingshausen supplies 702 mm.
-- ✅ **Thread 8 CLOSED** *(derived-column caveat missing from 30 specs)* — all 37 now labelled.
+- ✅ **Thread 8 CLOSED** *(derived-column caveat missing from 30 specs)* — all 37 now labeled.
 - **18 cities still carry a derived `Temp Range`**, 23 a derived `Avg Precip`, 31 a derived `Precip
   Probability`. **Next route: national met-service archives rather than encyclopedia boxes** — BoM, AARI,
   KOPRI, BAS and PNRA publish fuller normals than the summary boxes carry.
@@ -751,7 +751,7 @@ assistance, reasoning by analogy to Andean highland populations.** ***Research c
 
 ⭐ **The corrected fact is better material than the assumption was.** An adapted population is a solved
 problem that generates nothing. **A population that never adapts is a permanent, universally shared civic
-condition that its robot neighbours are structurally incapable of sharing.**
+condition that its robot neighbors are structurally incapable of sharing.**
 
 ⚠ **Recorded as a correction, not silently fixed** — the wrong version was stated aloud, and the
 reasoning-by-analogy that produced it (*"highland populations adapt, so these will too"*) is exactly the

@@ -227,9 +227,9 @@ former, not the latter (p. 141).
   e.g., abortion and capital punishment were both considered and left out (or included only cautiously,
   capital punishment as a "near-universal") because Brown wasn't fully convinced the evidence supported
   a strict universal claim rather than a very-common-but-not-exceptionless one.
-- Brown explicitly distinguishes "surface" (or substantive) universals — the kind catalogued in this
+- Brown explicitly distinguishes "surface" (or substantive) universals — the kind cataloged in this
   chapter — from universals at a deeper, more mechanistic/process level, which this book does not
-  attempt to fully catalogue. He also notes the list's internal ordering/clustering is somewhat arbitrary
+  attempt to fully catalog. He also notes the list's internal ordering/clustering is somewhat arbitrary
   (he chose to start with culture and language, then proceeded roughly by convenience rather than strict
   logical hierarchy) and that a fuller account would show more interconnection between items than a flat
   list can represent (e.g., empathy recurring across the communication, morality, and personhood
@@ -402,7 +402,7 @@ to a piece of human biology a robot in this setting's own established canon woul
   mammals, almost always the male) is freed to compete for/seek multiple mates. Greater disparity in
   parental investment between the sexes predicts greater sexual dimorphism and greater sex-difference in
   mating strategy generally. This single mechanism is presented as the root explanation for a whole
-  cluster of separately-catalogued universals: male sexual jealousy being typically more violent (paternity
+  cluster of separately-cataloged universals: male sexual jealousy being typically more violent (paternity
   confidence problem — a male can never be as certain a child is his as a female can), male preference for
   visual/youthful cues of fertility, women's reproductive potential being sharply capped by menopause
   (vs. men's much later and more gradual decline) explaining the near-universal preference for
@@ -485,7 +485,7 @@ these distinctions are directly useful tools for the robot-culture-divergence sy
 
 ### Types of universals
 - **Substantive vs. formal/process universals.** Substantive universals are the "surface" content-level
-  traits catalogued in Ch. 6 (what anthropologists traditionally mean by "universal"). Formal/process
+  traits cataloged in Ch. 6 (what anthropologists traditionally mean by "universal"). Formal/process
   universals (Chomsky's term in linguistics, Fox's in anthropology) sit at a deeper level — not the
   visible trait itself but the underlying generative mechanism that produces it, which may not be
   substantively universal on the surface even though the deep process is. Both are usually assumed to be
@@ -541,7 +541,7 @@ these distinctions are directly useful tools for the robot-culture-divergence sy
   intervention" case Brown uses to define the boundary of a universal of essence. Any universal that
   Brown would class as one of essence — rooted in evolved biology with no natural pathway to bypass it —
   is exactly the category most likely to *not* transfer to a robot culture at all (or to require a wholly
-  invented functional analogue), while universals of accident (contingent on conditions, not on being
+  invented functional analog), while universals of accident (contingent on conditions, not on being
   a biologically-evolved organism per se) are much better candidates for still applying to robots, or
   applying in modified form.
 - **"New" universals.** Traits that were not present in all societies known to ethnography historically,
@@ -574,7 +574,7 @@ these distinctions are directly useful tools for the robot-culture-divergence sy
 ### Methods of demonstrating universality (pp. 51–53)
 No universal can ever be proven by exhaustive enumeration (there are always more unknown/poorly-recorded
 societies than known ones) — every claim of universality is a hypothesis of varying evidential strength,
-not a proof. Brown catalogues the main argument types anthropologists actually use:
+not a proof. Brown catalogs the main argument types anthropologists actually use:
 1. Wide, systematic reading across the full ethnographic literature without finding a credible
    counterexample (Murdock's own method, using his own Human Relations Area Files database of ~400 coded
    societies — a >10% sample of all societies known to ethnography/history at the time).

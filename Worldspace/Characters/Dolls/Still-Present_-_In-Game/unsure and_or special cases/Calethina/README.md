@@ -429,7 +429,7 @@ gap.
 
 All AI-generated (`Reference_Images/holographic_goddess...` series) — no physical doll body reference exists
 for her, consistent with her nature: every image depicts her holographic projection form only. Short
-platinum-white hair, blue-grey eyes, silver metallic draped asymmetrical dress, ice-blue-white glowing edges,
+platinum-white hair, blue-gray eyes, silver metallic draped asymmetrical dress, ice-blue-white glowing edges,
 semi-translucent scan-line rendering. Backgrounds vary (Concordia towers, ruins, bunkers, a lab); she is
 always the same signal projected into different physical spaces.
 

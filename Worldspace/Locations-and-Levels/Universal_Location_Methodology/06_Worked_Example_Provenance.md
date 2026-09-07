@@ -340,4 +340,33 @@ which are not locations)*. ***The general form of every rule was retained; only 
 > returns clean for you, every time, by construction.** *(M-125's residual, now measured: the sweep is
 > per-subject and the leak surface is per-corpus.)*
 
+## Shirayuki — **POST-RUN**, added 2026-09-06 by `Step 10` item 2, after the full ULM pass
+
+> ### ⛔ THE PRE-RUN SECTION ABOVE SAYS THESE FILES ARE **"CLEAN — verified, not assumed."**
+> ***It was correct on 2026-09-02. The ULM pass itself falsified it.*** **A pass that changes the methodology
+> writes its own subject into the required reading — and `CLAUDE.md` mandates that reading be done IN FULL.**
+> ⭐ **This is the ordinary case, not an accident: the more a pass teaches the method, the more it contaminates
+> the next run on the same location.**
+
+**All new coordinates are in `00_RUNBOOK.md` — twelve hits, none in `01`–`04` or the Index.**
+**Classified by `Step 10` item `1c`'s test — *does it state the leak's SHAPE, or its CONTENT?***
+
+| Coordinate | What it carries | Class | Action |
+|---|---|---|---|
+| `00_RUNBOOK.md` L378 · L2431 | *"during Shirayuki's Phase 6" · "during Shirayuki's Step 3"* | ✅ **PROVENANCE** | None — dates a law, states nothing about the place |
+| `00_RUNBOOK.md` L2040 · L2051–2053 | The developer's verbatim GPS instruction; the three-city founder roster | ✅ **CANON-BY-NECESSITY** | **None, and none is possible** — *this is the law's own text and the GPS coordinate every city pass requires* |
+| `00_RUNBOOK.md` L2216 | *"A Japan-FOUNDED Tepenian city"* | ✅ **CANON** | None — the founding nationality, already in the roster |
+| `00_RUNBOOK.md` L1979 | Climate-data register row | ✅ **ATTRIBUTE** | None |
+| `00_RUNBOOK.md` L2575 | *"found six real conflicts, and CONCEDED one"* | ✅ **SHAPE** | None — process counts only |
+| ⛔ `00_RUNBOOK.md` **L515–519** | **The glitch-coolant finding, quoted entire and ruled admissible** *(`M-159`)* | ⛔ **CONTENT** | ⚠ **MANIFESTED, NOT REMOVED** — *`S12` rule 4 forbids Step 10 editing instruction text. **A future Shirayuki run must band these lines.*** |
+| ⛔⛔ `00_RUNBOOK.md` **L2126–2131** | **`Shirayuki` Japan `36.27%` / Jeju-do · `Sayowa` Japan `2.71%`, China `17.39%` — and an instruction to COMPARE them** | ⛔⛔ **CONTENT ×2 + A WITHDRAWN INSTRUMENT** | ⚠ **MANIFESTED.** ⭐ **Worst row in the file: two cities' figures AND a live copy of a rule the 2026-09-06 ruling withdrew** *(`M-161`)* |
+| ⛔ `00_RUNBOOK.md` **L2257–2262** | The Phase 3 climate→culture derivation **and its refutation** *(`M-151`)* | ⚠ **CONTENT — but a KILLED finding** | ⚠ **MANIFESTED.** *Teaches what not to conclude; lower harm than a live finding, not zero* |
+
+> ### ⭐⭐ AND THE LESSON THE PRE-RUN SECTION ALREADY PREDICTED, NOW MEASURED FROM THE OTHER SIDE
+> **The pre-run entry warned that *"the vector-1 sweep greps for YOUR subject's name — so a file dense with SIX
+> OTHER locations' conclusions returns clean for you, every time, by construction."*** ⛔ ***Step 10 found the
+> mirror: a sweep for your own name is ALSO unreliable, because `grep` cannot see a phrase that wraps across a
+> hard-wrapped blockquote line.*** **L2129 was invisible to a plain phrase search and surfaced only under
+> `^[\s>]*`-stripped normalization.** ⭐ **`M-162`. Normalize before you claim a manifest is complete.**
+
 ## *(Add further locations here as they are absorbed into the methodology.)*

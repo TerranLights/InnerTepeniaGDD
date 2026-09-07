@@ -82,7 +82,7 @@ this pass does not attempt to re-derive Concordia's own character from one highw
 crossing itself — a landmark is a junction or a waypoint, a physical thing is cargo or crossing-equipment, a
 role exists to move something or someone through, a setting is a moment within a crossing. **This is the axis
 that would separate Highway 37's catalog from a settled location's**, where a meaningful fraction of what gets
-catalogued typically exists independent of any single function. Nothing catalogued here does.
+cataloged typically exists independent of any single function. Nothing cataloged here does.
 
 ---
 

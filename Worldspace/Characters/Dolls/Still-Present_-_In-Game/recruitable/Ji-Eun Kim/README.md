@@ -47,9 +47,9 @@
 
 *(See `Reference_Images/` folder — EW1A35111 "gentle office girl"; EW1A3615 "naughty girl next-door".)*
 
-Dark brown hair — almost black, with slight wave. Dark blue-grey eyes. Two distinct reference images that show two distinct registers of the same person.
+Dark brown hair — almost black, with slight wave. Dark blue-gray eyes. Two distinct reference images that show two distinct registers of the same person.
 
-EW1A35111 ("gentle office girl"): Dark brown hair worn loose, dark blue-grey eyes, dressed in a grey professional jumpsuit with a grey cardigan over it. She's curled sideways into a large leather executive chair — not upright, not fully relaxed, something in between. Expression: composed, slightly guarded, faintly melancholy in the eye shape. Someone who lives in controlled professional spaces and has arranged themselves in one now.
+EW1A35111 ("gentle office girl"): Dark brown hair worn loose, dark blue-gray eyes, dressed in a gray professional jumpsuit with a gray cardigan over it. She's curled sideways into a large leather executive chair — not upright, not fully relaxed, something in between. Expression: composed, slightly guarded, faintly melancholy in the eye shape. Someone who lives in controlled professional spaces and has arranged themselves in one now.
 
 EW1A3615 ("naughty girl next-door"): The same face, but the hair reads darker, with fringe bangs — a slightly different configuration. Blue ribbed long-sleeve crop top. Seated in a hanging wicker basket chair, expression softer and more open. Younger energy. The same intelligence in the eyes, but more accessible.
 

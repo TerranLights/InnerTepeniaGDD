@@ -1,5 +1,35 @@
 # RUNBOOK — Running One District, Start to Finish
 
+> # ⛔⛔⛔ BINDING — **CULTURE, ETHNICITY AND THE TEPENIAN IDENTITY TIMELINE.** *Added 2026-09-06; applies to district work exactly as it applies to city work.*
+>
+> ⭐ **Full statement: `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`** ·
+> **operative restatement: `Neo-Races-and-Cultures/_Method/Human_Universals_Culture_Framework.md`** ·
+> **era detail: `TepenianUniverseTimeline/Timeline Eras/2 The Second Interwar Period/README.md`.**
+>
+> **1 · ⭐⭐ STATION-BUILDER ≠ POPULATION ORIGIN.** ⛔ *A site's real-world builder is a GPS coordinate only —
+> never a cause, an identity, or a history.* ✅ **A population's OWN origin is canon and IS admissible once
+> composition is established.** ***The law exists so a place is characterized by WHO LIVES THERE, not by
+> WHOSE SITE IT OCCUPIES*** — **and refusing all ethnic material is a misreading that produces placeless
+> locations.**
+>
+> **2 · ⭐⭐⭐ COMPOSITION NAMES THE STOCK; TIME AND PLACE PRODUCE THE CULTURE.** *Operator: **time ·
+> separation · local environmental setting · local struggles and hardships · local goals · local sensibilities
+> and habits.*** ⛔ **Neither refuse ethnic material nor transplant a source culture intact.** ⭐ **It is an
+> ANTI-CONVERGENCE ENGINE: two same-stock locations MUST diverge, because the operator's inputs differ.**
+>
+> **3 · ⭐⭐⭐ THE ACTS.** **Act 1** *(2564 → early 2600s)*: people are still *"X who live in Antarctica."*
+> **Act 2** *(~late 2600s / early 2700s on)*: ***properly TEPENIAN — origin is ancestry, not identity.***
+> **Mechanism: interconnection, decisively solidified by Amundsen Tower's completion (~2688)** — ⛔ *but not a
+> switch, **not the creation of unity** (they were never psychologically separate), already in progress, and
+> only one of the Tower's many effects.*
+>
+> ### ⚠ WHY THIS BINDS DISTRICT WORK EVEN THOUGH DISTRICTS ARE NOT NATION-FOUNDED
+> **Concordia's districts are correctly written POST-WAR, and their residents are Tepenians whose ancestors
+> arrived through the exile.** ⭐ ***So the Acts are their BACKSTORY, not their present*** — **and a district
+> pass that reaches for a resident's ethnic origin as an explanation is reaching across two Acts and a war.**
+> ⛔ **District culture anchors in theme/role, never in founding nation** *(this folder's own standing rule)* —
+> **and the rulings above explain WHY that is correct rather than merely conventional.**
+
 **Written 2026-08-29, after six districts.** **This is the operational entry point. Start here.**
 
 Everything in this folder is correct, and until now it was organized by **when each rule was learned** rather
@@ -106,7 +136,7 @@ regardless of what the gates say.
 
 ---
 
-> **The one rule under all of it** (`../../Cultural_Synthesis_Techniques.md`): **never carry one location's
+> **The one rule under all of it** (`../../../Cultural_Synthesis_Techniques.md`): **never carry one location's
 > answers into another.** If two places produce similar-shaped answers to the same technique, at least one is
 > wrong. Every gate below serves that. **Law 0 is what makes it possible to obey** — two places produce
 > similar-shaped answers mainly when neither was thought about long enough to become itself.
@@ -426,7 +456,7 @@ written source declared unnecessary without being opened.
 - **Conflict geometry goes into Phase 4** (`00e` §11b). **No phase covers inter-district relationships** — this
   is a real hole in the Plan, and the measured consequence is that districts do not mention each other. Taurus's
   file mentioned its own opposite district **zero** times; Leo's mentioned one of its two hardest frictions
-  zero times; Aries and Virgo mention no neighbours at all.
+  zero times; Aries and Virgo mention no neighbors at all.
 - **Phase 7 counterculture:** **check for an existing one in canon first** (Capricorn had the Recalibration
   Underground). Then derive from **Step C** — what does this district require of everyone, and who will not give
   it? **The Phase 5 seed technique is Mode A only.** **Do not default to a refusal:** a counterculture can
@@ -442,7 +472,7 @@ written source declared unnecessary without being opened.
   register attached to non-religious objects. **It does not always return a religion** — a district that already
   has one yields a *stake*, a *compact*, or a *creed* instead.
 - **When a category comes up empty, ask who *brought* one before inventing one.** *(New technique, 2026-08-29,
-  from the Circuit — see `../../Cultural_Synthesis_Techniques.md`, **Borrowed Form**.)* A district that lacks a
+  from the Circuit — see `../../../Cultural_Synthesis_Techniques.md`, **Borrowed Form**.)* A district that lacks a
   form very often has an incoming population that already had one, and **an institution the district borrowed
   is a better answer than one it invented**, because it explains something already in canon and it carries a
   built-in relationship: the host uses it, values it, and cannot quite say what it is receiving.
@@ -465,7 +495,7 @@ written source declared unnecessary without being opened.
   parallel.**
 - **Check `../Cross_District_Differentiation_Table.md` before writing each category.** See Step 6.
 - **After the capability reading, ask whether the district already holds its own remedy.** *(New technique
-  2026-08-29 — `../../Cultural_Synthesis_Techniques.md`, **The Unrecognized Instrument**.)* A deficit is of the
+  2026-08-29 — `../../../Cultural_Synthesis_Techniques.md`, **The Unrecognized Instrument**.)* A deficit is of the
   *general* faculty, not of every instance: the Frostlands hold two non-narrative recorders they file as an
   accent and a repair job; **the Undergrid closes items daily on its purification line and never noticed the
   method generalizes.** **Run it after Step 2, never before** — found first it softens the deficit, found
@@ -640,7 +670,7 @@ strongest signal available** — Capricorn's Child, Lover and Lover-faculty inde
 | `01`-`08` | the eight phases |
 | `../Cross_District_Differentiation_Table.md` | **check before writing each category; update on completion** |
 | `../District_Culture_Development_Plan.md` | the what and in what order; progress tracker |
-| `../../Cultural_Synthesis_Techniques.md` | the generative toolkit — where new culture actually comes from |
+| `../../../Cultural_Synthesis_Techniques.md` | the generative toolkit — where new culture actually comes from |
 | `../Zodiac_Personality_Substrate/` | per-district substrate; `99_Application_to_Districts.md` is the bridge |
 
 ---

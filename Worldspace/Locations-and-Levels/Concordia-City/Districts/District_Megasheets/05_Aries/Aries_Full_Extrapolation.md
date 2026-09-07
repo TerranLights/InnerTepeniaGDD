@@ -155,7 +155,7 @@ depleted the reserve that fed them. The eternal flame is now maintained on a pip
 
 **Aries has exactly this.** A perpetual flame that predates the district's build-out, which **the district's own
 extraction extinguished**, and which is now kept burning on a deliberate feed. Everyone knows. It is not
-concealed and there is no pretence that the flame is what it was.
+concealed and there is no pretense that the flame is what it was.
 
 **What it means is genuinely contested inside the district, and should stay contested:**
 - **The majority reading** is honesty — *we keep our debts where we can see them.* The fed flame is a standing
@@ -694,7 +694,7 @@ correctly, and that **getting it wrong is a serious offense.**
 
 **Both are true and they cannot stay true across 250 years.** An oral tradition with no external record to check
 against does not stay accurate; it stays *coherent*, which is a different property. Names shift position for
-metre. A confused sequence resolves into a clean one. A death that was nobody's fault acquires a cause, because
+meter. A confused sequence resolves into a clean one. A death that was nobody's fault acquires a cause, because
 a cause is easier to sing.
 
 **Nobody is lying, and the seriousness about accuracy is genuine** — which is what makes this work. Each
@@ -705,7 +705,7 @@ and has no instrument that could tell them apart.**
 **Except one.** A robot who was present at an incident and is still present now can hear the difference between
 what is sung and what happened. **This is an uncomfortable position and most of them stay in it quietly**, for
 reasons that are entirely in character: correcting a choir means telling a district that keeps no records that
-its only record is wrong, in the one register where accuracy is a point of honour, about its own dead. Some have
+its only record is wrong, in the one register where accuracy is a point of honor, about its own dead. Some have
 done it. It has not always gone well.
 
 **And it compounds Finding XV(a):** the overclock burden falls disproportionately on robots, so robots are
@@ -726,7 +726,7 @@ alone.
 
 **So somebody is designated not to go, and Aries has never written down who.** The answer is genuinely
 interesting because it cuts against the district's whole ethic: being the person who *stays* is, by the
-district's own premise, the one role that cannot be honoured — you did not take the load. **Proposed: the
+district's own premise, the one role that cannot be honored — you did not take the load. **Proposed: the
 designation exists, rotates, is not volunteered for, and is quietly one of the most resented duties in the
 district** — and the people who hold it are disproportionately the ones the district has already stopped
 counting on for register two (Finding XIX). Not resolved here beyond flagging it; it wants a real answer.
@@ -888,7 +888,7 @@ completed districts retroactively.**
   extraction cluster the district is already saturated with, and would have returned texture Aries has in
   abundance. **The genuine omissions are two, both distinct from everything used:** **real Antarctic
   overwintering crew practice** — confined-crew psychology, rationing, and the documented winter-over
-  literature, which is the closest real analogue to Concordia's own enclosed condition and is the first place to
+  literature, which is the closest real analog to Concordia's own enclosed condition and is the first place to
   look when this district is next expanded — and **Welsh/Appalachian coal-town life beyond the choirs**, of
   which only the choral tradition was mined. Substrate material deliberately unused: the decan scheme; the
   correspondence palette; and the district's unresolved official name, which blocks several naming hooks.

@@ -8,7 +8,7 @@
 Whenever a Five feels overwhelmed by people or circumstances, the reflex is instant: detach from direct sensory
 and emotional engagement and retreat into the mind, searching for a more objective vantage point. Experience
 gets converted into mental commentary — a pleasant conversation quietly turns into an internal analysis of the
-other person's psychology instead of actually being listened to; a vacation gets spent mentally cataloguing
+other person's psychology instead of actually being listened to; a vacation gets spent mentally cataloging
 material for a future project instead of simply being enjoyed. Over time, these accumulated associations and
 ideas can knit together into what's called the **Inner Tinker Toy** — an increasingly dominant internal
 construction that becomes the actual filter a Five experiences the world through, propping up self-esteem

@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder — W1A series.)*
 
-Long, straight dark brown hair with soft bangs, warm brown eyes, natural makeup with a soft red lip. A white button-up blouse worn loosened and half-open (visible red lace bra beneath in some shots) over a fitted grey pencil skirt, a wristwatch, and a hanging ID/employee badge lanyard. Shown consistently in a dim, upscale executive office — a large desk, leather chair, desk lamp, laptop, and (in one shot) a bouquet of red roses on the desk.
+Long, straight dark brown hair with soft bangs, warm brown eyes, natural makeup with a soft red lip. A white button-up blouse worn loosened and half-open (visible red lace bra beneath in some shots) over a fitted gray pencil skirt, a wristwatch, and a hanging ID/employee badge lanyard. Shown consistently in a dim, upscale executive office — a large desk, leather chair, desk lamp, laptop, and (in one shot) a bouquet of red roses on the desk.
 
 She reads as: a composed, authoritative office presence with the polish deliberately loosened — the badge and desk trappings read as genuinely managerial/executive, while the undone buttons and steady, appraising gaze read as confidence rather than disarray. Consistent with the "in-charge" framing in the working title: someone who runs the room, not someone caught off guard in it.
 

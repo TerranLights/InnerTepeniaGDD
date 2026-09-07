@@ -34,7 +34,7 @@
 
 *(See `Reference_Images/` folder — Irontech Doll series.)*
 
-Sleek, jet-black hair in a blunt bob with straight-across bangs, striking pale blue eyes, a calm, level expression. A casual grey/blue ribbed tank top and fitted dark denim with a black belt, chunky brown lace-up boots, shown seated in a plain studio setting. (**Note:** the reference tank top carries real-world graphic text as an artifact of the source photo — not meant to carry any real-world place-name reference into the game's own fiction.)
+Sleek, jet-black hair in a blunt bob with straight-across bangs, striking pale blue eyes, a calm, level expression. A casual gray/blue ribbed tank top and fitted dark denim with a black belt, chunky brown lace-up boots, shown seated in a plain studio setting. (**Note:** the reference tank top carries real-world graphic text as an artifact of the source photo — not meant to carry any real-world place-name reference into the game's own fiction.)
 
 She reads as: unfussy and grounded — the styling is casual streetwear rather than glamorous or staged, and her steady, slightly reserved gaze reads as quiet self-possession rather than performance.
 

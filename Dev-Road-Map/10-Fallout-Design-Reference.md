@@ -80,7 +80,7 @@ Skill magazines provide temporary +10 boosts, serving as a resource-management b
 
 **From FNV:**
 - The threshold model (score-based, not probability-based). Inner Tepenia's skill checks should be deterministic: meet the threshold, succeed. This is already implied by the design of the MACHINE stat system; confirm it explicitly in the core mechanics documentation.
-- Visible failed checks in dialogue. Show unavailable options with some visual distinction (a different color, an icon, a greyed state). The player should be able to see what they're missing without being able to easily access it.
+- Visible failed checks in dialogue. Show unavailable options with some visual distinction (a different color, an icon, a grayed state). The player should be able to see what they're missing without being able to easily access it.
 - The magazine bypass valve. Some form of consumable temporary skill boost prevents single-playthrough content locks while preserving the felt cost of a low skill.
 
 ### What Inner Tepenia should adapt or reject

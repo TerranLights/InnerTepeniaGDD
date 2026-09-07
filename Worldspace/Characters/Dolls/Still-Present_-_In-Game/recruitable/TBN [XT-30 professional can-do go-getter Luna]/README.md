@@ -35,7 +35,7 @@
 
 *(See `Reference_Images/` folder — XT DOLL series.)*
 
-Sleek platinum-blonde bob with blunt bangs, worn with narrow red-tinted glasses and a fitted red buckle choker. Gold feather drop earrings. An oversized grey button-up shirt worn like a dress, cinched with a wide red belt with a large ornate buckle, sheer black stockings with red fishnet garter-tops, a black leather tote bag, and black pointed heels. Shown against a plain studio backdrop, direct and unsmiling.
+Sleek platinum-blonde bob with blunt bangs, worn with narrow red-tinted glasses and a fitted red buckle choker. Gold feather drop earrings. An oversized gray button-up shirt worn like a dress, cinched with a wide red belt with a large ornate buckle, sheer black stockings with red fishnet garter-tops, a black leather tote bag, and black pointed heels. Shown against a plain studio backdrop, direct and unsmiling.
 
 She reads as: sharp and composed with a deliberate edge — the oversized office shirt and tote bag read as genuinely professional, but the choker, red accents, and level, faintly challenging gaze keep her from reading as merely buttoned-up. Fits the confirmed "internal fixer" read well: someone who moves through Libra's institutional world fluently but isn't fully softened by it.
 

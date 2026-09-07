@@ -92,7 +92,7 @@ Per the Philosophy file, the most mundane category in the whole taxonomy — no 
 justify presence in a scene.
 
 - **Ice Axe** — already established; every household, every work crew has one.
-- **Pry Bar** — already established.
+- **Crowbar** — already established.
 - **Sledgehammer** — already established.
 - **Security Baton** *(nightstick equivalent)* — the one blunt item that *is* institutional rather than
   household, carried by customs/security staff alongside the Small Guns rack.

@@ -131,7 +131,7 @@ quietly accumulating readings across five centuries.
 A Kunlun researcher studying the city's own human-to-robot transition learns that Dome Fuji is the only
 other Tepenian city to have gone through the equivalent shift, and reaches out for the first time,
 seeking their records as genuine comparative data. **But** Dome Fuji's own resident finds that framing
-uncomfortable — for their city, the transition wasn't a policy decision to be catalogued, and being
+uncomfortable — for their city, the transition wasn't a policy decision to be cataloged, and being
 treated as a data point feels like something significant getting flattened. **Therefore** a real
 adjustment has to happen: Kunlun's own researcher acknowledges directly that the request matters to Dome
 Fuji in a way it doesn't have to matter to Kunlun for the exchange to still be real. **But** neither city

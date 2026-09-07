@@ -57,7 +57,7 @@ incidental spillover. No zero found where a hit was expected.
 
 **British spelling sweep** (`01` §6):
 ```
-$ grep -inE "color|favour|humour|behavior|center|organize|organized|realise|analyze|travelling|modelling|labelled|program|defense|license|practise|pretence|grey|among|while|learnt|towards|neighbour" *.md
+$ grep -inE "color|favour|humour|behavior|center|organize|organized|realise|analyze|travelling|modelling|labelled|program|defense|license|practise|pretence|gray|among|while|learnt|towards|neighbour" *.md
 (zero hits, exit code 1, across all 11 phase files, Frame/Pre-flight, and both step files)
 ```
 **American English confirmed throughout, independently re-verified at Step 7** (not merely trusted from
@@ -140,7 +140,7 @@ none of these are RESERVED-adjacent).
 
 **No withheld MPA material exists to open** (this is the location's first-ever pass) — Gate 6's usual
 deferred-opening mechanism has nothing to defer to. **Checked instead against the two founding cities' own
-completed culture material**, the closest available analogue to a "sibling":
+completed culture material**, the closest available analog to a "sibling":
 ```
 $ grep -inE "margin log|threshold|the bench|changeover|last-flight|longest.night|first ship" \
   Local_Cultures/Mirny_Subnet/Vostok.md Local_Cultures/Mirny_Subnet/Kunlun.md
@@ -314,7 +314,7 @@ own 3:1 red-flag threshold is exceeded, which per that gate's instruction should
 Day reclassification above. **A second attempt was also made and returned a genuine null**: checked
 whether any of the remaining Originated items (Margin Log, Two-Signature Convention, the compact) could be
 re-read as Inflected from an established parent form — none can, because none has a Federation-wide or
-subnet-wide analogue in existing canon to inflect from. **The skew is real, not a symptom of skipped
+subnet-wide analog in existing canon to inflect from. **The skew is real, not a symptom of skipped
 research** — Mountain Pass Airport's own Band-1, no-single-founder, thin-parent-culture condition
 genuinely produces fewer Inflected opportunities than a city or district would have, and this is stated
 here explicitly rather than left for a reader to wonder about.

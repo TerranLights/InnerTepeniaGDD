@@ -27,11 +27,11 @@
 |---|---|---|
 | Specs | `Specs/Mawson.md` | ✅ |
 | Local_Cultures | `Local_Cultures/Mawson_Subnet/Mawson.md` (32-section) | ✅ |
-| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Mawson.md` | ✅ (not read this pass — catalogued) |
+| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Mawson.md` | ✅ (not read this pass — cataloged) |
 | City_Vision_Notes | `City_Vision_Notes/Mawson.md` | ⚠ (content already folded into Specs/Local_Cultures) |
 | City_Enneagram_Personalities | `City_Enneagram_Personalities/Mawson_Subnet/Mawson.md` | 🛠 |
 | City_Symbolic_Substrate | `City_Symbol_Assignments.md` — Earth/Fire | 🛠 |
-| City_Megasheets | `City_Megasheets/Mawson_Subnet/Mawson/` — Mega_Init (read in full), Full_Extrapolation, Cross_Reference_Synthesis, Community_Infrastructure, Physical_Infrastructure_Attributes, README (all catalogued, not read beyond Mega_Init) | Mega_Init: 🔴-adjacent synthesis; rest: 🔴 |
+| City_Megasheets | `City_Megasheets/Mawson_Subnet/Mawson/` — Mega_Init (read in full), Full_Extrapolation, Cross_Reference_Synthesis, Community_Infrastructure, Physical_Infrastructure_Attributes, README (all cataloged, not read beyond Mega_Init) | Mega_Init: 🔴-adjacent synthesis; rest: 🔴 |
 | Subnet Ultra-Megasheet | `City_Megasheets/Mawson_Subnet/Mawson_Subnet_Ultra_Megasheet/` (5 files, not read) | 🔴 |
 
 ### Canon facts
@@ -79,7 +79,7 @@ Mega_Init's real-world inspirations (Odessa, Varna, Trogir, Jeju City) are resea
 |---|---|---|
 | Specs | `Specs/Sayowa.md` | ✅ |
 | Local_Cultures | `Local_Cultures/Mawson_Subnet/Sayowa.md` | ✅ |
-| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Sayowa.md` | ✅ (catalogued only) |
+| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Sayowa.md` | ✅ (cataloged only) |
 | City_Vision_Notes | `City_Vision_Notes/Sayowa.md` | ⚠ (folded in) |
 | Enneagram | `City_Enneagram_Personalities/Mawson_Subnet/Sayowa.md` | 🛠 |
 | Symbolic Substrate | Neptune/Earth | 🛠 |
@@ -129,7 +129,7 @@ Real-world inspirations (Felixstowe, Trois-Rivières, Kryvyi Rih, Perpignan, Dji
 |---|---|---|
 | Specs | `Specs/Dome_Fuji.md` | ✅ |
 | Local_Cultures | `Local_Cultures/Mawson_Subnet/Dome_Fuji.md` | ✅ |
-| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Dome_Fuji.md` | ✅ (catalogued only) |
+| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Dome_Fuji.md` | ✅ (cataloged only) |
 | City_Vision_Notes | `City_Vision_Notes/Dome_Fuji.md` | ⚠ (folded in) |
 | Enneagram | `City_Enneagram_Personalities/Mawson_Subnet/Dome_Fuji.md` | 🛠 |
 | Symbolic Substrate | Pluto/Water | 🛠 |
@@ -179,7 +179,7 @@ Real-world inspirations (Paro Taktsang, Potala Palace, Angkor Wat) are research 
 |---|---|---|
 | Specs | `Specs/Byrd.md` | ✅ |
 | Local_Cultures | `Local_Cultures/Byrd_Subnet/Byrd.md` | ✅ |
-| Local_Robot_Culture | `Local_Robot_Culture/Byrd_Subnet/Byrd.md` | ✅ (catalogued only) |
+| Local_Robot_Culture | `Local_Robot_Culture/Byrd_Subnet/Byrd.md` | ✅ (cataloged only) |
 | City_Vision_Notes | `City_Vision_Notes/Byrd.md` — **the last city in the entire City Vision Notes initiative**, closing the sixth and final subnet | ⚠ (folded in) |
 | Enneagram | `City_Enneagram_Personalities/Byrd_Subnet/Byrd.md` | 🛠 |
 | Symbolic Substrate | Mars/Earth | 🛠 |
@@ -237,7 +237,7 @@ Real-world inspirations (Red Deer, Derinkuyu, Ruhr Valley, Coober Pedy, Shenzhen
 |---|---|---|
 | Specs | `Specs/Amundsen_Station.md` | ✅ |
 | Local_Cultures | `Local_Cultures/Amundsen_Station/Amundsen_Station.md` (with an explicit up-front caveat that it was never a city) | ✅ |
-| Local_Robot_Culture | `Local_Robot_Culture/Amundsen_Station/Amundsen_Station.md` | ✅ (catalogued only) |
+| Local_Robot_Culture | `Local_Robot_Culture/Amundsen_Station/Amundsen_Station.md` | ✅ (cataloged only) |
 | City_Vision_Notes | `City_Vision_Notes/Amundsen_Station.md` | ⚠ (folded in) |
 | Enneagram | `City_Enneagram_Personalities/Amundsen_Station/Amundsen_Station.md` | 🛠 |
 | Symbolic Substrate | **No entry found** — not in `City_Symbol_Assignments.md` | — |

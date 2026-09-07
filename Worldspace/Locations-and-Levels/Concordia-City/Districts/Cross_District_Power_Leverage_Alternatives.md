@@ -16,7 +16,7 @@
 
 ### S2. The Jurisdictional Ambiguity
 **Premise:** Founding-era charters never clearly resolved whether "final testimony" records fall under Libra's Treaty Archive authority or Scorpio's therapeutic-confidentiality protections — both institutions have operated from genuinely different, defensible principles (Libra: historical record-keeping; Scorpio: patient/dying confidentiality) for 250 years without the ambiguity ever mattering enough to force a resolution.
-**Trade-off:** Gives both institutions equally sympathetic, principled positions — good for morally grey present-day political tension without either side being wrong. Costs some drama, since "reasonable people reading old documents differently" is inherently less charged than an actual confrontation.
+**Trade-off:** Gives both institutions equally sympathetic, principled positions — good for morally gray present-day political tension without either side being wrong. Costs some drama, since "reasonable people reading old documents differently" is inherently less charged than an actual confrontation.
 
 ### S3. The Confidentiality Vow, Literalized
 **Premise:** Scorpio's founding-era "rebirth" protocols included an absolute confidentiality vow made to war-traumatized founding-generation patients, necessary to earn enough trust that they'd testify at all. The vow was never scoped to exclude historically significant material, because nobody anticipated any single testimony would ever matter beyond the individual's own healing. Scorpio isn't defying Libra — it's honoring a 250-year-old promise to someone long dead.

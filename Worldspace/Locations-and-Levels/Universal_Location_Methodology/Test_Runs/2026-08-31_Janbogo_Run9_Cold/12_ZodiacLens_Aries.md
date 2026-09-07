@@ -461,7 +461,7 @@ else out, indifferent to danger to itself," §2/§6).
 
 **H6** (private-ish, low-visibility, individual stance) → opposite: a visible, institutionalized, communal
 version. **Survives — H17.** An annual, public, expiry-bound act of "facing the wind," sourced directly from
-Aries's own Design Hook #3 (the one-year courage draught with a hard, known expiry date), applied fresh to
+Aries's own Design Hook #3 (the one-year courage draft with a hard, known expiry date), applied fresh to
 Janbogo's own REQUESTED-observance gap. Fills a different slot than H15 (H15 = daily/unserious/oral; H17 =
 annual/serious/public). Flagged as more speculative/hook-derived than corpus-derived, unlike H15.
 

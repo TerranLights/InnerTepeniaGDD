@@ -16,6 +16,18 @@
 5. **If you cannot find something, that is the result.** **Log it. Do not route around it, do not substitute,
    do not proceed on a guess.**
 6. **AMERICAN ENGLISH.** *(Global `CLAUDE.md`.)*
+7. ⛔⛔⛔ **ONE LOCATION, ON ITS OWN TERMS — NEVER COMPARE ANY LOCATION TO ANY OTHER.** *(Binding law,
+   developer ruling 2026-09-06. **Hand-synced into this card 2026-09-06** — the ruling landed on
+   `00_RUNBOOK.md` and reached no card.)* ⛔ **No ranking, no z-scores, no "nth of N," no "unlike X," no other
+   location as a control, baseline or implicit normal.** ✅ **Use this location's OWN figures, stated flatly.**
+   ⭐ **RELATION stays legal** — *what this place needs from elsewhere, what flows, in which direction.*
+   **The one-sentence test: delete every other location's name from the sentence; if the claim about THIS place
+   survives, it was relation.** ⚠ **Scope is `ULM / CST / RWBEM`. District passes are untouched.**
+8. ⛔⛔ **NO FORCED FIT — AN EMPTY SLOT IS A RESULT, NOT A GAP.** *(Binding law, developer ruling 2026-09-06.
+   Hand-synced 2026-09-06.)* **Never force a location into a category it does not naturally occupy — and the
+   error runs BOTH ways:** *assigning an existing roster member that does not fit, **or** inventing a bespoke
+   one to fill a blank.* **Rosters are OPEN and expected to grow, so a roster's SIZE is never the test.**
+   ✅ ***"None is sited here" must never read as "none is possible here."***
 
 ---
 
@@ -45,7 +57,7 @@ it.**
 **⭐ 3.7 Log every search in this location's own research log, as you run it.** *(Standing developer
 instruction, 2026-08-30, Zhongshan Run 3.)* **One dedicated file per location** — for cities,
 `Cities/Research_Logs/[Location]_Research_Log.md`; other location types keep theirs with their own material.
-**Full convention in that folder's `README.md` and in `Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.**
+**Full convention in that folder's `README.md` and in `../../Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.**
 
 **Record the exact search strings verbatim**, the sources actually used, a fact-by-fact table of *what came
 back → which finding it became*, what was **withheld** versus **omitted**, the **divergences from source**, and

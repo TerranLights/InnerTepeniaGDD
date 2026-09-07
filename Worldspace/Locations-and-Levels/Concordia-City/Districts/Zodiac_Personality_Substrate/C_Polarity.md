@@ -39,7 +39,7 @@ That is load-bearing for this project. Concordia's Receptive districts are the o
 
 ## 4. The Alternation Principle
 
-Because polarity alternates one-for-one, **every district's immediate neighbours on the wheel operate in the opposite mode, and signs an even number of places apart share a mode.** This is arithmetic, not interpretation, and it makes the aspect ladder legible:
+Because polarity alternates one-for-one, **every district's immediate neighbors on the wheel operate in the opposite mode, and signs an even number of places apart share a mode.** This is arithmetic, not interpretation, and it makes the aspect ladder legible:
 
 | Separation | Aspect | Polarity | Feel |
 |---|---|---|---|
@@ -50,7 +50,7 @@ Because polarity alternates one-for-one, **every district's immediate neighbours
 | 5 signs (150°) | quincunx | **opposite** | incommensurable |
 | 6 signs (180°) | opposition | same | conflict, but *legible* conflict |
 
-**Derived, and the useful part:** every awkward aspect is cross-polarity and every workable one is same-polarity — including the opposition. Opposite districts fight, but they fight in a shared mode and can therefore understand each other's terms. Cross-polarity neighbours do not fight; they fail to make contact. Two districts thirty degrees apart share a border, share nothing else, and have no common grammar for even having the argument. **Design consequence: put your most bewildered, least resolvable district frictions on the semi-sextile and quincunx pairs, and your loud legible rivalries on the oppositions.** See `D_Aspect_Geometry.md`.
+**Derived, and the useful part:** every awkward aspect is cross-polarity and every workable one is same-polarity — including the opposition. Opposite districts fight, but they fight in a shared mode and can therefore understand each other's terms. Cross-polarity neighbors do not fight; they fail to make contact. Two districts thirty degrees apart share a border, share nothing else, and have no common grammar for even having the argument. **Design consequence: put your most bewildered, least resolvable district frictions on the semi-sextile and quincunx pairs, and your loud legible rivalries on the oppositions.** See `D_Aspect_Geometry.md`.
 
 Martin's "law of three" rides on the same alternation: Aries (Active) meets equal resistance in Taurus (Receptive), and the deadlock is broken by Gemini (Active) "with its ability to relate, communicate and to mediate between the two opposing forces without taking sides." Every consecutive triad on the wheel has this shape — two of one mode bracketing one of the other. It is a ready-made three-district mediation template, repeatable twelve times around the circle.
 

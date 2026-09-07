@@ -26,7 +26,7 @@ rendered in electrons and cosmic strings, its meaning never publicly explained b
 ## Trigger
 ###### What disrupts the above baseline.
 
-Someone connected to cataloguing the city's own heritage — a role Port Lockroy has never fully settled
+Someone connected to cataloging the city's own heritage — a role Port Lockroy has never fully settled
 into or out of (chain #5's living-museum tension) — sets out to document the wall panel by panel, and
 finds every panel has some known story or attributed meaning except this one. The gap becomes impossible
 to ignore once it's the only blank line on an otherwise complete record.
@@ -42,7 +42,7 @@ to ignore once it's the only blank line on an otherwise complete record.
 
 **Design notes — what kind of conflict this needs:** not a conflict about whether the panel matters —
 both sides agree it does, or it wouldn't be worth arguing over. Character A represents the heritage-
-cataloguing impulse: a wall this legible and communal deserves a complete record, and an unexplained gap
+cataloging impulse: a wall this legible and communal deserves a complete record, and an unexplained gap
 undermines the whole idea of the wall as something the city can point to and understand together.
 Character B — plausibly the original carver, still living given robot lifespans, or someone protecting
 that carver's wish for privacy — represents the opposite, equally legitimate position: some contributions
@@ -70,7 +70,7 @@ unaccounted gap.
 ## 2nd-Order Change
 ###### The direct, immediate structural consequence of *this specific outcome*.
 
-The wall's own catalogue now carries a real, named category — "deliberately unexplained" — sitting
+The wall's own catalog now carries a real, named category — "deliberately unexplained" — sitting
 alongside every panel's more conventional attributed meaning. Port Lockroy's heritage-preservation
 impulse has to make peace with genuine gaps rather than resolve them, a small, permanent compromise built
 directly into how the city records its own history.

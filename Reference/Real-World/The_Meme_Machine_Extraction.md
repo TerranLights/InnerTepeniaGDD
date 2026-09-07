@@ -156,9 +156,9 @@ imitated regardless of the giver's actual motive. Blackmore names the extreme hi
 **potlatch** — the Pacific Northwest practice of extravagant, sometimes destructive gift-giving specifically to
 establish status through generosity, where the *scale* of the giving, not its practical value, is the point.
 
-> **Direct texture for every reputation-and-favour economy this project has already built** — Cancer's
+> **Direct texture for every reputation-and-favor economy this project has already built** — Cancer's
 > care-debt economy, the Undergrid's Junction Toasts and Quiet Credit (peer-issued informal sign-off), the
-> Markets' vouching system. None of these needs to be read as cynical status-signalling underneath a surface of
+> Markets' vouching system. None of these needs to be read as cynical status-signaling underneath a surface of
 > kindness. **The book's own framing is the opposite: sincere generosity and effective self-replication are the
 > same behavior, observed from two different angles**, which is exactly the register this project's shadow
 > discipline (`00d`) asks for — no villain required, and the kindness is not undermined by also being

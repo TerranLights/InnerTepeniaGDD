@@ -45,7 +45,7 @@ be in contact — both eventually agree the connection is real and worth having.
 approaches the exchange the way the city approaches everything: as data, as comparative record, genuinely
 valuable precisely because it's rigorous rather than sentimental. Character B, from Dome Fuji, finds that
 framing genuinely uncomfortable — for their own city, the transition wasn't simply an evidence-driven
-policy decision to be catalogued, but something that still carries real weight, and being treated as a
+policy decision to be cataloged, but something that still carries real weight, and being treated as a
 comparative dataset point feels like having something significant flattened into a footnote.
 
 **Design notes — what kind of character(s) this needs:** Character A is plausibly a Kunlun archivist or

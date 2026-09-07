@@ -314,7 +314,7 @@ dependency is total, ancient, and entirely uncontested.** Nobody in Zhongshan ex
 because it has never once been interrupted or bargained over. *(Compare `03` Phase 5e: a dependency nobody has
 named is a shadow; a dependency everyone has named is politics. **This one is a shadow.**)*
 
-**5b — The three-way set: run against Zhongshan's own eras, per the substitute**, not against its neighbours —
+**5b — The three-way set: run against Zhongshan's own eras, per the substitute**, not against its neighbors —
 whose material is withheld. **Category chosen first: how the city learns that something has stopped.**
 
 | Era | How lapse is detected |
@@ -325,7 +325,7 @@ whose material is withheld. **Category chosen first: how the city learns that so
 
 > **The substitute did real work, and this is worth recording for the methodology: the three-era set produced a
 > sharper result here than a three-city set would have.** The eras differ on the chosen axis *by construction* —
-> they are the same place under three population regimes — whereas three neighbouring cities differ on many axes
+> they are the same place under three population regimes — whereas three neighboring cities differ on many axes
 > at once and the comparison has to be disentangled. **`01` §5.3a calls own-eras "the strongest substitute."
 > On this evidence it may not be a substitute at all.**
 

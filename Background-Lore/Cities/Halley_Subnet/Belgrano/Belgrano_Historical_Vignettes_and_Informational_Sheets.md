@@ -56,7 +56,7 @@ hold the richest documentary trail pointing toward Byrd's own buried location (F
 
 The specific record that mattered most, per later cross-referencing, was an aerial survey photograph taken
 during routine meteorological overflight, decades before anyone was looking for anything buried beneath the
-snow it happened to capture. The photograph was filed, catalogued, and never consulted again for its own
+snow it happened to capture. The photograph was filed, cataloged, and never consulted again for its own
 sake — one of thousands of similar images taken on similar routine flights, distinguishable from the others
 only in hindsight, once someone with a specific reason to look for subtle surface anomalies finally went
 looking through the Hall's own accumulated archive. The photographer who took it, and the clerk who filed it,

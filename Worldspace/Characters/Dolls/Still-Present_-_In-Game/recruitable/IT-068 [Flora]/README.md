@@ -42,7 +42,7 @@
 
 *(See `Reference_Images/` folder — IT-165-S38 series.)*
 
-Long wavy blonde hair, worn loose — not styled, just present. Cool grey-blue eyes with a direct, slightly appraising expression that does not perform warmth and does not need to. Her default look at you is the look of someone deciding whether you're worth the attention.
+Long wavy blonde hair, worn loose — not styled, just present. Cool gray-blue eyes with a direct, slightly appraising expression that does not perform warmth and does not need to. Her default look at you is the look of someone deciding whether you're worth the attention.
 
 Work clothing throughout: white ribbed tank top, red tool-harness suspender straps, blue cargo work pants with paint and grease splatter that has been there long enough to be permanent. Tool belt at the hip, tools always within reach. Nothing decorative. The clothing carries the record of the work the same way her frame does — not battered, maintained, but not polished either.
 

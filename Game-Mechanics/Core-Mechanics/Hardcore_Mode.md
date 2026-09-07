@@ -81,7 +81,7 @@ In Hardcore mode, consequences compound over time through degradation systems. T
 of Inner Tepenia is a robot.** The robot-side systems are below.
 
 > ⛔ **These are NOT "robot equivalents of hunger and thirst," and must not be designed as such.** *Per the
-> governing standard, a robot analogue of a survival meter is still a survival meter.* ⭐ **Each system here
+> governing standard, a robot analog of a survival meter is still a survival meter.* ⭐ **Each system here
 > earns its place only by changing how the player plays** — **and by that test, the ones flagged in the audit
 > above do not yet.**
 

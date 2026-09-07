@@ -25,7 +25,7 @@ forgettable, filed away and never revisited.
 ###### What disrupts the above baseline.
 
 Idris Wetherall, going through the inherited records for reasons that have nothing to do with
-nostalgia — cataloguing what actually survived, mostly — comes across an old reference to a modest
+nostalgia — cataloging what actually survived, mostly — comes across an old reference to a modest
 social bar at the original station, named Splinters. It's a footnote by any reasonable measure: no
 surviving photographs, no detailed description, just a name and a handful of administrative mentions
 confirming it existed. Nothing about the record demands action. The easy, obvious choice is to note it

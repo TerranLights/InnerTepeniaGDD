@@ -49,7 +49,7 @@ are deliberately not being split.** This index supplies the findability instead.
 | 107 | *The Anatomy of Story* | John Truby | Focused. Need vs. Desire, moral vs. psychological need, the Ghost, **four-corner opposition and the character web** |
 | 193 | *Dynamic Characters* | Nancy Kress | — |
 | 251 | *Characters, Emotion and Viewpoint* | Nancy Kress | **Partial** (chs. 3-4) |
-| 299 | *The Art of Character* | David Corbett | **Partial** (chs. 6, 9, +) — functional-role catalogue |
+| 299 | *The Art of Character* | David Corbett | **Partial** (chs. 6, 9, +) — functional-role catalog |
 | 966 | *The Craft of Character* | Mark Boutros | — |
 | 1102 | *Writing With Emotion, Tension, and Conflict* | Cheryl St. John | — |
 | 1393 | *What Would Your Character Do?* | Eric Maisel | — |
@@ -60,7 +60,7 @@ are deliberately not being split.** This index supplies the findability instead.
 | 2674 | *Next Level Plot Structure* | K.M. Weiland | Chiastic/mirror structure; Four Story Worlds |
 | 2764 | *The Last Fifty Pages* | James Scott Bell | — |
 | 2896 | *Characters & Viewpoint* | Orson Scott Card | Three-tier character hierarchy; Sadist/Bully definition |
-| 3091 | *Create A Character Clinic* | Holly Lisle | Superman vs. Gremlin fix; Sins catalogue |
+| 3091 | *Create A Character Clinic* | Holly Lisle | Superman vs. Gremlin fix; Sins catalog |
 | 3191 | *Creating Characters: How to Build Story People* | Dwight V. Swain | — |
 | 3312 | *Creating Unforgettable Characters* | Linda Seger | Four Elements of Relationship Sizzle |
 

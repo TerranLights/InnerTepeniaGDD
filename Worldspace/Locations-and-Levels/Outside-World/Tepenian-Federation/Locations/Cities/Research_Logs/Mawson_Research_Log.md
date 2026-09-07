@@ -1,6 +1,6 @@
 # Mawson — Research Log
 
-**Convention:** `Research_Logs/README.md` · `Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.
+**Convention:** `Research_Logs/README.md` · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.
 **Appended to, never rewritten.**
 
 ---

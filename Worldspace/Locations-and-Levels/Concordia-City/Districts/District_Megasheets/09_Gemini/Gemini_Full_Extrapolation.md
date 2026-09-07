@@ -250,7 +250,7 @@ authority, and hands nobody the power to tell you what to think.
 **It does not have one, and the reason is sincere.** The district's one near-absolute reflex is that you do not
 stop a person from saying a thing (Finding XIII). A kill is a stop. So the Circuit has **no kill, no
 retraction, no mechanism whatsoever for removing an item from circulation** — and the error simply keeps
-travelling, forever, which is why the only lever left is the source (Finding VIII).
+traveling, forever, which is why the only lever left is the source (Finding VIII).
 
 **What it built instead, and why the substitution is the whole district.** The Truth Markets are an attempt at
 the same job by the opposite method: **a distributed, positive ranking instead of a concentrated, negative
@@ -1024,7 +1024,7 @@ have given the sensory profile a second source and did not.** Named as a real ga
 redundant from the title.
 
 **The Hong Kong result deserves its own line, because it is the pass's best unused-in-full finding.** The
-tie-effect study finds that in a dense information city, material travelling on **kin ties arrives faster than
+tie-effect study finds that in a dense information city, material traveling on **kin ties arrives faster than
 via non-kin ties or mass media.** Applied here: **the fastest channel in the information district is family** —
 which quietly demolishes the district's self-image as the best-sourced address in Concordia, and explains why
 the Zukelli/Janbogo wound never gets reported (it travels on exactly the ties the two communities do not
