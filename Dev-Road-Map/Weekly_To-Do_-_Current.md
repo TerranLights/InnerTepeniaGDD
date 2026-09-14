@@ -13,6 +13,10 @@ file and start a fresh one for the next stretch of work).
 **Developer ruling, 2026-09-04:** ***"Absolutely nothing else can happen until we've completed the Locations
 and per-city Cultures, and I need to make sure to do this right."***
 
+⭐⭐⭐ **WHY, in full, and every specific system it gates (weapons, districts, factions, robot religions,
+subnet regional identity, and more):** **`Universal_Location_Methodology/WHY_CITIES_ARE_THE_ROOT.md`**
+*(developer's own words, verbatim, 2026-09-14)*.
+
 **▶ TRACKER — status, per city, by subnet:** **`Dev-Road-Map/Location_and_Culture_Build_Tracker.md`**
 
 - **Mode: WARM** → `Universal_Location_Methodology/Run_Modes_Warm_and_Cold.md`
