@@ -36,6 +36,17 @@ PROOF FORMAT each subagent must emit, once per required file, inside its own out
   LLAST: <exact text of the LAST ADMISSIBLE line, verbatim>
   QUOTE: <one load-bearing sentence, exact, from INSIDE the admissible range>
 
+⚠ L1/LMID/LLAST are each a single PHYSICAL line, never a logical sentence. A sentence
+hard-wrapped across three source lines is three lines for this purpose - report only
+the one physical line the position lands on, not the sentence it belongs to. (Measured
+2026-09-14: a reader supplied a 316-char logical sentence for a LMID whose real value
+was the first of its three physical lines, 109 chars, and failed verification.)
+
+⚠ LLAST is positional, including when that position is BLANK. If the admissible
+range's last line is empty, write "LLAST:" with nothing after it - do not substitute
+the nearest line that has content. (Same measured date, same round: a reader reported
+the last line WITH TEXT when the range's actual final line was blank.)
+
 WHY THIS SHAPE: a subagent that skimmed the first screen and stopped cannot produce
 the correct LMID or LLAST text, because it does not know the file's real length or
 what sits at its far end. A subagent that fabricates cannot produce line text that
@@ -57,6 +68,22 @@ version read every file whole. Two consequences, both measured, not theorized:
      honesty, defect 2 rewards contamination.
 
 Both are fixed by making the admissible range - not the file - the unit of proof.
+
+⭐ CONTINUATION TERMINATOR ADDED 2026-09-14 (Davis Step 0/1, three readers hit it in
+one session). parse_proof()'s "allow a value to wrap onto a following line" rule had
+no terminator: once inside a field, every subsequent NON-BLANK line was appended to
+it, all the way to the next "### PROOF:" heading or end of file - a blank line was
+skipped rather than closing the field, so continuation silently resumed past it.
+Measured effect: three readers each put their PROOF blocks last in the file (per that
+session's own convention, meant to protect against exactly this) and one line of
+follow-on text after their final QUOTE - a "## ROUND 2 FIELD CORRECTIONS" heading, in
+one case - got absorbed into that QUOTE, which grew to 66,055 / 77,090 / 64,691
+characters and failed verification as "fabricated," though the true quotes were all
+correct. Fixed by terminating continuation on a blank line OR a structural marker
+(heading, rule, fence, table row, list item, blockquote, COVERAGE:/MANIFEST:) - see
+CONTINUATION_STOP below. The workaround used before this fix ("put PROOF blocks last,
+write nothing after the final QUOTE") is no longer required, and was already observed
+to be fragile: it was re-broken within the hour by a legitimate follow-on instruction.
 """
 
 import hashlib
@@ -165,6 +192,19 @@ def render_claim(path, claimed, admissible_text):
     return repr(claimed[:60])
 
 
+FIELD_RE = re.compile(r"^(LRANGE|LINES|L1|LMID|LLAST|QUOTE)\s*:\s*(.*)$")
+
+# Anything that signals we have left a field's own wrapped value and entered new
+# structural content: a markdown heading, a horizontal rule, a fenced code block, a
+# table row, a list item, a blockquote marker, or the COVERAGE:/MANIFEST: lines this
+# format's own convention places right after the proof blocks. A field's continuation
+# stops here OR at a blank line - never runs on unbounded (see the 2026-09-14 note
+# above the module docstring's end).
+CONTINUATION_STOP = re.compile(
+    r"^\s*(?:```|-{3,}\s*$|={3,}\s*$|#{1,6}\s|>|\||\d+\.\s|[-*+]\s|COVERAGE\s*:|MANIFEST\s*:)"
+)
+
+
 def parse_proof(path):
     text = open(path, encoding="utf-8", errors="ignore").read()
     blocks = {}
@@ -181,13 +221,26 @@ def parse_proof(path):
             continue
         blocks[current].setdefault("_RAW", "")
         blocks[current]["_RAW"] += line + "\n"
-        m = re.match(r"^(LRANGE|LINES|L1|LMID|LLAST|QUOTE)\s*:\s*(.*)$", line.strip())
-        if m:
-            field = m.group(1)
-            blocks[current][field] = m.group(2)
-        elif field and line.strip():
-            # allow a proof value to wrap onto a following line
-            blocks[current][field] += " " + line.strip()
+        fm = FIELD_RE.match(line.strip())
+        if fm:
+            field = fm.group(1)
+            blocks[current][field] = fm.group(2)
+            continue
+        stripped = line.strip()
+        if not stripped or CONTINUATION_STOP.match(line):
+            # A blank line or a structural marker CLOSES the field - it does not
+            # merely skip a line while leaving continuation armed. Closing here is
+            # the fix: previously only a new PROOF: heading (or EOF) could stop a
+            # field, so anything written after a block's own last field - another
+            # section, a follow-on note, even a second block's prose if this block
+            # had no more PROOF: line after it - was silently appended to whichever
+            # field was still open.
+            field = None
+            continue
+        if field:
+            # A field's value legitimately wraps onto a following line of plain
+            # prose (no structural marker, non-blank) - keep that case working.
+            blocks[current][field] += " " + stripped
     return blocks
 
 
