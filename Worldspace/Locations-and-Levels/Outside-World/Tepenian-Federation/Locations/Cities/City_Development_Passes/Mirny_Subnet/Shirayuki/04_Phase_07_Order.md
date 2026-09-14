@@ -303,3 +303,65 @@ are people the demand does not fit."***
 📎 **Next piece: `04_Phase_08_Making.md`.** ✅ *Carrying a canon FACT, not a prohibition: this city values
 **variety and refinement over raw intensity**.*
 📎 `00_Frame.md` · `02_Spine.md` · `03_Research.md` · `04_Phase_02…06` · `09.5_Log.md`
+
+---
+
+# ⭐⭐⭐⭐ ADDENDUM 2026-09-07 — **`National_Medical_and_Care_Institutes.md` WAS A `§C.8c` PHASE-7 TARGET AND WAS NOT OPENED**
+
+> ⛔ **Found by the retrospective input audit** *(`09.6_Input_Audit.md`, `M-169`/`M-171`)*. ⚠ **`Phase 4` opened
+> this file; `Phase 7` did not — and it names this city twice.**
+> ✅ **Address:** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md`
+> ⭐ **Tier: `locked-canon`.**
+
+## A · ⭐⭐⭐⭐⭐ THE MISSED FACT — **and it is a FOURTH instance of `7b`'s own finding**
+
+**Canon, verbatim, in the file's `FOR FUTURE REVIEW` section:**
+
+> ***"Which cities host them — and on what basis. Candidates suggest themselves from existing canon:
+> **Shirayuki** (the second education-export city, **educ `20%` against a `2.0%` own need**)…"***
+
+**`7b` found three consequential facts about this city and closed on:**
+***"NOT ONE OF THE THREE IS DECIDED BY SHIRAYUKI."***
+
+> # ⭐⭐⭐⭐⭐ **THIS IS THE FOURTH — AND IT IS THE ONLY ONE STILL LIVE.**
+> **A national institution is weighing whether to site a campus here.** ⛔ ***The question is open, the criteria
+> are written down, this city is named in them — and the decision belongs to somebody else.***
+
+⚠ **`7b`'s pattern was previously readable as historical** *(three settled facts, decided elsewhere, long ago)*.
+⭐⭐ **This one is PRESENT-TENSE, inside the declared frame, and unresolved** — **which converts the finding from
+a fact about the city's past into a fact about its standing condition.**
+
+## B · ⭐⭐⭐ AND THE BASIS OF THE CANDIDACY IS THE SPINE, RESTATED IN SOMEBODY ELSE'S VOCABULARY
+
+| Canon's stated basis | The spine |
+|---|---|
+| **"educ `20%` against a `2.0%` own need"** | ⭐⭐ ***"A CITY WITH UNUSUAL SLACK."*** **Eighteen points of teaching capacity beyond anything this city needs for itself** |
+
+> ### ⭐⭐⭐⭐ AND THE THIRD-ORDER CONSEQUENCE, WHICH IS THE REAL FINDING
+> **The spine's second half is *"and which CANNOT ACCOUNT FOR ITSELF, because it never had to."***
+> ⛔ **A satellite campus is the first institution that would MAKE it account** — *foundational training to a
+> national standard, feeding a national alumni network, assessed from outside.*
+> ## ***THE THING THIS CITY IS BEING CONSIDERED FOR IS PRECISELY THE THING IT HAS NEVER HAD TO DO.***
+
+⚠ **And canon names the trade-off itself:** *"**the resilience argument and the identity argument pull against
+each other**… if foundational training happens locally, the cohort-forged identity weakens."*
+⭐ **So the city's slack is an argument FOR siting it here, and the national bond is an argument against —
+neither of which is this city's to weigh.**
+
+## C · ⛔⛔ WHAT THIS PHASE DOES **NOT** DO
+
+> **The file states outright: *"Flagged 2026-09-01 at the developer's direction. **NOT decided**."***
+> ⛔ **So the siting is RESERVED** *(`05` §3 — the methodology must not decide these)*.
+> ✅ **This addendum records the CANDIDACY as canon and the DECISION as reserved. It does not site anything,
+> does not assume the campus exists, and does not write practice around one.**
+
+## D · ⭐ A SECOND FACT FROM THE SAME FILE — **relation, handed to `Phase 5`**
+
+**Canon:** *"Zhongshan (China) ties to Kunlun. **Shirayuki (Japan) ties to Vostok.** Sinheung (Korea) ties to
+BOTH"* — **kinship by composition** *(Vostok is Japanese-Primary)*, **in the context of a Tri-Cities solidarity
+effort that established a plateau outpost.**
+
+⭐ **One-sentence test:** *"This city has a compositional kinship tie to a plateau city, which is why a
+Tri-Cities solidarity effort had a natural counterpart there."* ✅ **Survives deleting every other name — RELATION.**
+⚠ **Recorded, not developed.** *`Phase 5` is closed; this is filed as an amendment for the terminal pass.*
+

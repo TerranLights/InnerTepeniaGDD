@@ -275,7 +275,7 @@ pass that went wrong. **Most rules here still are not** — but the position has
 specific:
 
 > **At least one location has now been taken through the complete instrument** — all eleven phases, all
-> sixteen gates, and the Review Panel, across multiple cold sessions with prior conclusions quarantined
+> seventeen gates, and the Review Panel, across multiple cold sessions with prior conclusions quarantined
 > *(logged test instances live under `Test_Runs/`; per-location detail belongs there, not here)*. **Several
 > gates fired, some producing findings the pass would not otherwise contain; at least one gate proved
 > structurally unrunnable in a cold pass; and at least one run passed `05` §6.1's falsifiable test.**
@@ -690,7 +690,15 @@ both-are-true reading first.
 > ULM folder, a `Test_Runs/` run folder, and the repo root. **The same `../` string means three different
 > things to three readers, all of whom believe they are following the same instruction.**
 >
-> **Two consequences for anyone editing `§B`–`§D` or `§C.9`:**
+> ### ⛔⛔ AND A THIRD CONSEQUENCE, ADDED 2026-09-07 — **`M-170`: NEVER DELETE ONE**
+> **Measured the same day:** *a session put `51` verified absolute addresses into the phase spec at the point of
+> use, then **stripped them out again** on its own inference that project paths belonged elsewhere — replacing
+> them with a pointer that named no file.* ⛔ ***The LAYERING LAW it was obeying governs LOCATION NAMES, supplies
+> a one-line mechanical test (`grep -f locnames.txt`), and the deleted addresses PASSED it. The test was never
+> run.*** ⭐ **A rule that ships a check is obeyed by running the check, not by reasoning about it.**
+> ⚠ **And a pointer that names no file is worse than a relative path** — *`M-117`: **a name is not an address.***
+
+> **Three consequences for anyone editing `§B`–`§D` or `§C.9`:**
 > 1. **Write the absolute path. Never a `../` form, never an `…/` abbreviation.**
 > 2. **Verify it resolves before committing** — *extract every backticked path token from this file and test
 >    each for existence.* **That sweep is what found this one**, along with two dead sibling-project rows and
@@ -1930,7 +1938,7 @@ Concordia as the measure of what a location should have, be, or contain.
 |---|---|
 | **0** | **U** `Repo_Scope.md` *(once)* · `Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
 | **1** | **U** `Worldspace/Locations/` · **P** `Specs/` *(incl. its `**Access type:**` token)*, `Energy_Grid_Failure_Rationale.md`, physical infrastructure · ⭐⭐ **CLIMATE: `Reference/Real-World/Climate Data/READER/` (§C.9) — ⛔ FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE CITY. Search by the ALIAS SET or you will get a false negative** · **`Stations/` (§C.9)** · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures (§C.6). `QUERYABLE-BY-SCHEMA`; never `grep` it by subject name** |
-| **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding** · `Falkland_Treaty/` · **P** `Official_Population_Census.md`, diaspora/affinity files · ⭐⭐ **SEE THE SEQUENCING RULING BELOW — it governs this phase and Phases 8, 9 and 10** |
+| **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding** · `Falkland_Treaty/` · **P** `Official_Population_Census.md` · ⛔ **"diaspora/affinity files" — RESOLVES TO NOTHING ADMISSIBLE.** *The only candidate, `City_Refugee_District_Affinities.md`, maps cities TO CONCORDIA DISTRICTS — forbidden input to a city pass under `§C.8d` (Concordia is not a yardstick) and THE LAW OF ONE LOCATION. Composition comes from Census alone.* · ⭐⭐ **SEE THE SEQUENCING RULING BELOW — it governs this phase and Phases 8, 9 and 10** |
 | **3** | **P** ⭐ **`Reference/Real-World/Climate Data/READER/` (§C.9 — alias-keyed)** · `Specs/` · physical infrastructure attributes · **concept art: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/<City>/`** ⚠ *(only 4 of 37 cities hold actual images; the rest are empty `.gitkeep` folders)* · **`Davis_Geosciences_Research/` (§C.9)** where applicable |
 | **4** | ⭐⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE** *(§C.10; the shared night, overnight recharging, leisure-as-a-fact-of-life, siligel/coolant, smoking, the human-robot baseline)* · `Robot_Cold_Physiology.md` · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B** — *this city's baseline/mandated/**free** tiers, i.e. how much of a working life is NOT spoken for* · ⭐ **`Division_of_Industry/09_Per_City_Baseline_Run.md` §3.5 — THE FREEDOM GRADIENT**, *which the physiology file itself cites as the measure of "the thing the exile was for"* · `Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md` *(the food layer, rebuilt)* · ✅ **`National_Medical_and_Care_Institutes.md`** *(`locked-canon`)* · **P** `National_Economy_and_Currency.md` ⚠ *(in-frame: the energy-backed national currency. The post-Split-Brain fracture is POST-WAR — `§C.8a`)* |
 | **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` |
@@ -1948,6 +1956,46 @@ Concordia as the measure of what a location should have, be, or contain.
 > **A Phase 7a pass reading this table would have seen the economy and logistics files and never reached the
 > strongest `G3` supply in the project.** ***Registered globally is not registered at the point of use.***
 > **Fixed in the rows above. ⚠ Check every §C row appears in at least one phase row.**
+
+### ⛔⛔ C.8c-i — THE GENERATOR LINE. **The receipt records what was OPENED and never what was USED.**
+
+> **Added 2026-09-08, on Zhongshan (city 3), after a developer catch. `M-208`.**
+
+**The measured case.** ⭐ **`G1` — the assigned Planet + Element pair — was found, read and recorded at Step −1,
+in the pass's own `00.1_Step_MINUS-1_Input_Contract.md`**, complete with its address and a correct note that it
+was column-anchored and demoted. ⛔ ***It then appeared in none of the nine phase files.***
+
+> ### ⚠ AND BE PRECISE ABOUT WHICH HALF WENT MISSING — the first diagnosis of this case was wrong
+> **`§C.7` rules the assignments PROVENANCE-DOWNSTREAM of a personality read, so `G1` is corroboration-tier
+> and the *rationale column is inadmissible.*** ✅ **The pass was therefore RIGHT not to use the rationale, and
+> right that Phases 6–7 re-derived that character from primary sources instead — that is `05` §6.1c working.**
+> ⛔ **What was actually dropped is the ADMISSIBLE half: the assigned MEMBERS and their own registered terms
+> from `Planetary_Symbols.md` and `Robot_Elementals.md`, which were never opened at all.**
+>
+> ***A demoted generator is not a cancelled one.*** **Demotion moves it from spine-tier to corroboration-tier
+> and narrows what may be read — it never removes the obligation to read the part that stayed admissible.**
+
+> ## The instruction existed. The check ran. The answer was recorded IN THE PASS'S OWN FOLDER. And the admissible half was still never opened.
+> ***So this is not a registration defect and no amount of further prose fixes it.*** **The per-phase `MUST
+> OPEN` blocks are self-contained, which makes them read as the complete requirement for a phase — and
+> nothing anywhere required a phase to re-read the pass's own Step −1 output.** ⭐ **`M-205` found the mirror
+> of this** *(a source opened for an earlier phase is not open for this one)*; **this is the same hole pointing
+> backwards: the pass's own input contract was never an input to Step 4.**
+
+**THE RULE.** ⭐ **Every phase file's `## Canon opened` receipt MUST carry one additional line: which of the
+eight generators `G1`–`G8` this phase drew on, each citing its row in the pass's own
+`00.1_Step_MINUS-1_Input_Contract.md`.**
+
+| ✅ Write | ⛔ Not this |
+|---|---|
+| **`Generators used: G2 (climate table), G5 (Access type + Ports), G8 (Census I tiers) — contract rows 75, 78, 81`** | *a phase that names only files* |
+
+- **A generator marked `⚠ demoted`, `THIN`, or `PARTIAL` in the contract is the one most likely to be dropped**,
+  because a demotion reads as permission to ignore. ⛔ ***It is not.*** **Demoted means re-check it once the
+  phases have produced material the contract could not have had at Step −1.** *`G1` was the only demoted row
+  in the measured case, and it is the row that vanished.*
+- **A phase legitimately drawing on no new generator writes `Generators used: none new — carried from Phase N`.**
+  **A blank line is a hole, exactly like an unopened `MUST OPEN` source.**
 
 **Two standing reminders:** **`Reference/Real-World/Book_Extraction_Index.md` before mining any book** *(it
 exists because a book was twice assessed as unmined when it was not)*, and **check against the source, never
@@ -2367,26 +2415,50 @@ it."* **Track provenance direction, or the circularity becomes invisible.**
 
 # Step 0 — Frame
 
-**0.1 Fill the declaration block** (`01` §6). Type and modifiers, **both** bands, status, temporal frame,
-parent, children, sibling set. **Every line changes a later question.**
+> ### 📂 REQUIRED READING FOR THIS STEP — open before running it, not the runbook alone
+> - **`01_Frame_Typology_and_Inheritance.md`** — the whole file. **This is its own governing document**, per
+>   its own first line: *"Read `00_RUNBOOK.md` first. This file is the reference for its Step 0."*
+> - **`Run_Modes_Warm_and_Cold.md`** — **cited nowhere else in this Step, and it is what 0.4's read order below
+>   is restating from memory.** Declares the run WARM or COLD in the frame block (§5's own format, separate
+>   from `01` §6's) and states the one rule that survives either mode: *this location's own culture material is
+>   read last, and read as a check* (§2). **Open the file; do not reconstruct its rule from paraphrase.**
+> - **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** — ⛔ **`§C.10`
+>   below states this must be read at Step 0.2, and it was never added to 0.2's own list until now.** *A
+>   governing document for the entire universe — read it here, in full, before any phase.*
+> - **`Disciplines/`** *(five files, listed below)* — the ULM's own copies, not the district originals.
+
+**0.1 Fill the declaration block** (`01` §6, `Run_Modes_Warm_and_Cold.md` §5). Type and modifiers, **both**
+bands, status, temporal frame, parent, children, sibling set, **and run mode** *(WARM / COLD — a separate line
+from `01`'s own block; see the required-reading box above)*. **Every line changes a later question.**
 
 **0.2 Read the disciplines — ⛔ FROM `Disciplines/`, THE ULM'S OWN COPIES. Not the originals.**
 `Disciplines/00b_General_Population_Discipline.md` *(and its Band-1 inversion, `01` §2.3)* ·
 `Disciplines/00d_Shadow_Proportion_Discipline.md` · `Disciplines/00f_Review_Panel.md` ·
-`Disciplines/Cultural_Synthesis_Techniques.md` · `Disciplines/Real-World_Basis_Extrapolation_Method.md`.
-> ***The originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** — between
-> them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is next
-> *(M-130)*. **They open at Step 7 with everything else.** **See `Disciplines/README.md`.**
+`Disciplines/Cultural_Synthesis_Techniques.md` · `Disciplines/Real-World_Basis_Extrapolation_Method.md` ·
+⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** *(`§C.10` — added here
+2026-09-09; every phase is a question about the majority population, so this is not a Phase-8 food check and
+belongs at Step 0, not discovered mid-pass)*.
+> ***The district originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** —
+> between them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is
+> next *(M-130)*. **They open at Step 7 with everything else.** **See `Disciplines/README.md`.**
 
 **0.3 Run Gate 0** — reconcile any completion claim against the file, **and the file's own open-questions list
 against what has actually been resolved elsewhere.** Cheapest gate, highest yield, fails in both directions.
 
-**0.4 Read everything the location already has, before writing over it.** Existing material predates whatever
+**0.4 Read everything the location already has, before writing over it.**
+> ⛔⛔ **"EVERYTHING" EXCLUDES `Test_Runs/`.** *(2026-09-07 ruling — see Step 5's tier table.)* **A test run's
+> location content is CLOSED for the duration of the ULM.** ⭐ *This is `M-121`'s shape again — **registered
+> globally is not registered at the point of use** — so the exclusion is stated HERE, where a pass is actually
+> told to go read prior material.* Existing material predates whatever
 disciplines have been written since, and inherited findings are where Gate 9 fires hardest.
 
 > **⚠ And read it in this order, because "everything" can be twelve thousand lines.** *(Tri-Cities, 2026-08-30
 > — the cluster carried ~4,000 lines per city before the universe repo was even opened, and an
 > undifferentiated "read everything" is unrunnable at that volume.)*
+>
+> ⭐ **This is `Run_Modes_Warm_and_Cold.md` §2's own mandated order, restated here at the point of use — open
+> that file rather than trusting the six items below as a paraphrase.** *"IN A WARM RUN NOTHING [physically
+> prevents opening it early]. This is the single point where a warm run can silently destroy its own value."*
 >
 > **1.** specs / physical facts → **2.** symbol assignment → **3.** composition, census, **and population
 > change across census snapshots** → **4.** founding and events → **5.** the sibling set's differentiation
@@ -2394,6 +2466,8 @@ disciplines have been written since, and inherited findings are where Gate 9 fir
 >
 > **Culture material is read last and read as a CHECK, never as an input** — see the circularity rule in
 > `05` §6.1. A prior pass's *conclusions* about this same location are not evidence about it.
+> ⚠ **And `06_Worked_Example_Provenance.md` still applies in warm mode** — required reading may carry THIS
+> location's own worked example; check `06` for the subject before Step 0.2, not after.
 
 **0.5 Note reserved decisions and what would foreclose them** — and know you will probably find material
 bearing on them anyway. **When you do: write it as a numbered finding, marked reserved**, stating what was
@@ -2404,6 +2478,13 @@ finding is a handoff.**
 constraint over provisional inheritance wherever the choice exists.
 
 # Step 1 — Audit what is inherited
+
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`04_QA_Gates_and_Differentiation.md`, Gate 9 (Asymmetry)** — the check this step runs early, against
+>   inherited material specifically, **before** the pass's own new thresholds exist to be checked in turn (Gate
+>   9 runs a second time, at Step 7, against what this pass itself writes). Open the gate's own entry rather
+>   than the summary below — it carries the worked case (a membership mechanism written entirely from the
+>   favorable side) that shows what the check actually catches.
 
 **Run the asymmetry check on existing findings before writing new ones.** For every inherited finding describing
 a threshold, gate, conversion, verdict, admission or status change: *the mechanism runs both ways — did the file
@@ -2421,8 +2502,14 @@ how a place *works*, which is a framing that documents the favorable path and st
 2. Run each to a **full four-quadrant profile, separately, before comparing.**
 3. Compare. **Agreement is grounding. Conflict is the richest site in the method. Shared silence is a shape
    result.**
-4. Read the **shape**; apply its matching question; **where the shape repeats a sibling, run the three-step rule
-   and table the comparison on four axes including tense.**
+4. Read the **shape**; apply its matching question. ⛔⛔ **THE CROSS-LOCATION FORM IS TERMINAL, NOT IN-RUN**
+   *(ruled 2026-09-06; this line was MISSED in that sweep and corrected 2026-09-07)*. **A pass may NOT ask
+   "does this shape repeat a sibling?"** — *that requires reading another location* — **and "table the
+   comparison on four axes" is REVOKED for per-location passes.**
+   > ⭐ **THE IN-RUN FORM — the three steps run against `02` §4.0's DOUBLE READING, not against a sibling.**
+   > *The second reading the rule needs is **this same location read twice** — once on the withheld-input set,
+   > once on the full one.* **1.** The shape gives the question. **2.** The generator gives the instrument.
+   > **3.** The instrument gives the consequence — ***and that is where the two readings separate.***
    > ⚠ **And read `02` §4.0 before trusting the shape at all. The shape is a property of the INPUT SET, not of
    > the location** — demonstrated 2026-08-30, when two passes on the same city produced **opposite** shapes
    > (`cost-dominant` vs `cost-absent`) purely because one admitted the location's known institutions and the
@@ -2535,15 +2622,102 @@ unread source for that city's Phase 5 and Phase 7.)*
 
 **Phases 2–10, per `03`.** Fold the generators in as you write; do not bolt on a separate "substrate section."
 
+> ## ⛔⛔⛔ BEFORE WRITING EACH PHASE — **OPEN THAT PHASE'S `📂 MUST OPEN` BLOCK IN `03_The_Phase_Spine.md`**
+> **Added 2026-09-07 — `M-169`.** ***Every phase in `03` now carries its own required-canon list with absolute
+> addresses that resolve, sitting directly under its `Asks:` line.*** **Open them before writing, not after.**
+>
+> ### ⚠ WHY THIS IS A HARD REQUIREMENT AND NOT A REMINDER
+> **The obligation already existed** — `ULM_Input_Required_Reference.md` §G has always listed per-phase canon
+> targets. ⛔ ***It lived in a file the phase-writing procedure never told anyone to open, so it was
+> unreachable at the point of use*** *(`M-121`: "registered globally is not registered at the point of use")*.
+> **Measured 2026-09-07 on a live pass: `15` required sources unopened across ten phases, and `Phase 9` —
+> POPULATIONS — had opened NONE of its three robot-canon targets.**
+>
+> ### ⛔⛔ AND THE COST IS NOT A MISSING CITATION. **IT IS A CONFIDENT FALSE FINDING.**
+> **That pass's `Phase 9` headline read *"this is the one city where a robot can walk past the place she was
+> made"* — while `Robot_Universals` Ch. 14 states *"a robot's fabrication and her home city are, as a rule, the
+> same place."*** ***The claim was true almost everywhere, so it was not the location's distinction at all.***
+> **It passed the spelling sweep, the table check, the cross-city sweep, the quotation audit, the dual-tag
+> diagnostic AND the swap test.** ⛔ ***Nothing except opening the source could have caught it.***
+>
+> ✅ **A phase that finds a required source empty, withheld or non-applicable RECORDS THAT** — *an opened-and-empty
+> source is a result; an unopened one is a hole.* ⚠ **`Phase 3`'s physical-infrastructure row is a live example:
+> it addresses `City_Megasheets/`, which the standing facts WITHHOLD. Record the conflict; do not open it.**
+
 Standing reminders, all of which have their own recorded failure behind them:
-- **Formalize before inventing.** **Check canon before deriving anything structural.**
+- **Formalize before inventing.** **Check canon before deriving anything structural** — ⭐ **and `03`'s `📂 MUST OPEN` block is WHICH canon, with addresses.**
 - **Name the axis, in bold, before writing the content** — and check it against the differentiation instrument.
 - **A null is a result**, but distinguish *covered in substance, absent in form* from *absent and unexplained*.
 - **General-population discipline throughout.** **Shadow proportion throughout.**
 - **Phase 5 is mandatory and is written mid-spine specifically so it cannot be dropped.**
 - **Push every finding to a physical or behavioral expression.** The violation is usually the gameplay.
 
+> ### ⛔⛔⛔ BINDING — **`T1`–`T8` RUN ON EVERY STEP, EVERY PHASE, EVERY CITY.** ***Developer ruling, 2026-09-11.***
+>
+> > **Developer, verbatim:** ***"Not just on Davis. Every step, every phase, for EVERY CITY. That's why it's
+> > IN THE TEMPLATE."***
+>
+> ⛔⛔ **THIS SUPERSEDES the earlier "on trial, not binding" standing, and it supersedes
+> `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.3's "never auto-invoked" clause.** **`T8` is NOT opt-in, NOT
+> per-invocation, and NOT something a pass waits to be asked for.** ***A step or phase that runs without it has
+> not been run.***
+>
+> | | |
+> |---|---|
+> | ⭐⭐ **`T8` — three-subagent read consensus** | **`Tools/triple_read_verify.py`.** *Three independent readers per step/phase, each emitting a `PROOF:` block; mechanical ground-truth check; then agent-to-agent cross-check. **Write only on UNANIMOUS.*** **23 commands are written into the template — 12 steps, 11 phases** *(Step 4 routes to its phases rather than dispatching)* |
+> | **Part V** — `Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close |
+> | **Part V.2** — `Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration` |
+> | **`Tools/phase_discipline_check.py`** | `T3` ledger · `T4` shed marker · `T5` early Lover-faculty smoke test |
+>
+> ### ⚠ STILL MEASURED, NO LONGER OPTIONAL — the two are not the same thing
+> **The falsification conditions in `04` Parts V/V.2 and §N.5 REMAIN IN FORCE and must still be recorded.**
+> ***Mandatory and unproven are compatible states:*** **`T8` has never been run and therefore has no baseline
+> at all** — **so the first invocations are simultaneously the procedure AND its own trial.** ⛔ **A run that
+> reports T8 "not invoked" is now a defect, not a data point.**
+>
+> ⛔ **`Zhongshan_Opus` remains the frozen baseline and must NOT be corrected; `Zhongshan_Sonnet` remains a held
+> control and must NOT run any `T`-instrument.** *Those two guards survive the ruling — they protect
+> measurements already taken.*
+
+> ## ⛔⛔⛔ CLOSE-OUT CHECK — **RUN BEFORE STEP 4 IS DECLARED DONE. `§C.8c-i`, `M-208`.**
+> **The `MUST OPEN` blocks are checked per phase, as you write it. Nothing checks the whole step.** ***A
+> generator can be live in every phase and absent from every receipt, and nothing in the per-phase discipline
+> above will ever notice — that is exactly the G1 failure `§C.8c-i` records.*** **This is the check that
+> catches it, run once, after Phase 10, before moving to Step 5.**
+>
+> ```bash
+> # Run from the repo root, against the pass's own folder.
+> # Every G1-G8 must appear in at least one phase's "Generators used" line, OR be
+> # explicitly recorded as never demoted / not applicable at Step -1.
+> PASS_DIR="City_Development_Passes/<Subnet>/<City>"
+> for g in G1 G2 G3 G4 G5 G6 G7 G8; do
+>   hits=$(grep -l "Generators used:.*$g\b" "$PASS_DIR"/04_Phase_*.md 2>/dev/null | wc -l)
+>   printf '%-4s %s\n' "$g" "$([ "$hits" -gt 0 ] && echo "OK — cited in $hits phase(s)" || echo "⛔ NEVER CITED")"
+> done
+> ```
+>
+> **A `⛔ NEVER CITED` row is not automatically a hole** — Step −1 may have ruled a generator genuinely thin or
+> not applicable for this location type, and that is a legitimate result. ***But the row means someone has to
+> go check, by hand, which of the two it is*** — the same way an unopened `MUST OPEN` source means someone has
+> to go check whether it was correctly refused or simply missed. **A pass may not proceed to Step 5 with a
+> `⛔ NEVER CITED` row that nobody has looked at and explained.**
+>
+> **Where a row fires legitimately:** write the disposition into `09.5_Log.md` once — *"`G1` never cited:
+> `Planetary_Symbols.md`/`Robot_Elementals.md` member terms opened and found [uncharacteristic / duplicative
+> of Phase N / genuinely thin] — see [phase]"* — so the check passes clean on any future re-run without
+> re-litigating the question.
+
 # Step 5 — Reconciliation *(and the CLOSE pass)*
+
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`02_Generators_Capability_and_Symbols.md` §5.3** — the both-are-true test, restated below. **Open it
+>   rather than the paraphrase**: it names the specific scales to check (public/private, mainstream/counter-
+>   culture, generational, legal-vs-narrative) before concluding a contradiction is a real one.
+> - **`05_The_Input_Contract.md` §6.1** — the circularity rule this step's canon-ranking table sits inside.
+>   **§6.3 specifically** — ratification is a separate axis from circularity, and a source can pass one and
+>   fail the other (a genuinely upstream file that is nonetheless an unratified *suggestion*, not canon).
+> - **`04_QA_Gates_and_Differentiation.md`, the note under Gate 6** — the both-are-true test also governs a
+>   cold pass's finding against opened canon at Step 7, not only generator-vs-generator conflict here.
 
 > ### ⚠ This step is also where deferred complete-file checks close. `03` §0.4.
 >
@@ -2554,13 +2728,13 @@ Standing reminders, all of which have their own recorded failure behind them:
 > amendments to Phase 9. *(Added 2026-08-31, after Runs 6 and 7 were found generating false forward
 > dependencies that this file never actually stated.)*
 
-**Expect contradictions between generators, and between a generator and canon, to resolve both-are-true.** The
-recurring shape: **one property producing two opposite effects on two different objects, or at two different
-scales.** Do not ask which is true — ask **what single property would produce both**, then check whether the two
-claims are about different objects.
+**Expect contradictions between generators, and between a generator and canon, to resolve both-are-true**
+(`02` §5.3, opened above). The recurring shape: **one property producing two opposite effects on two different
+objects, or at two different scales.** Do not ask which is true — ask **what single property would produce
+both**, then check whether the two claims are about different objects.
 
-**Canon outranks a generator.** State the contradiction and the reconciliation in the text; do not silently pick
-one. **Where it genuinely cannot be reconciled, flag it open.**
+**Canon outranks a generator** (`05` §6.1, opened above). State the contradiction and the reconciliation in the
+text; do not silently pick one. **Where it genuinely cannot be reconciled, flag it open.**
 
 > # ⭐⭐⭐⭐⭐ ⚠ **BUT "CANON" IS TWO TIERS, AND ONLY ONE OF THEM OUTRANKS.** *(Developer ruling, 2026-09-06.)*
 > > ***"Anywhere that the ULM derived answers that are different from what's currently listed in the
@@ -2573,7 +2747,55 @@ one. **Where it genuinely cannot be reconciled, flag it open.**
 > | ⭐⭐ **1 · HARD CANON** | **developer rulings · census arithmetic · `locked-canon` files · a spec's explicit `CANON NOTE` · founding instruments · the Acts** | ✅ **OUTRANKS.** *A pass does not overturn these* |
 > | ⭐⭐⭐ **2 · AUTHORIAL VISION** | **"Vision session" material.** *Developer, 2026-09-06:* ***"literally my own personal mental visions that I see in my head when I picture being in these locations… perhaps may not literally BE canon, but they absolutely are a BASIS OF canon"*** | ⛔⛔ **NOT DERIVED — it is PRIMARY, and UPSTREAM of canon.** ***A pass cannot out-reason it, because it is not a reasoning product.*** ⭐ **The ULM's job is to find the MECHANISM that produces it** |
 > | ⚠ **3 · DERIVED DATASHEETS** | **Cultural Spec Sheets' own inferences · extrapolations · Megasheets · tier tables · any characterization an earlier instrument reached** | ⛔ **DOES NOT AUTOMATICALLY OUTRANK.** ***The ULM is the better instrument, and where they conflict the ULM result may simply be the correct one*** |
-> | ⛔⛔ **4 · TEST RUNS** | **`Test_Runs/` — every run.** *Developer, 2026-09-06:* ***"those are only to be used as references for possible ideas, because those literally are TEST runs. I was testing the methodology before committing to using it for the final results"*** | ⛔⛔ **REFERENCE-ONLY. NOT RESULTS.** *May suggest an idea; may never supply a finding, figure or verdict a pass relies on.* ✅ **They DO legitimately produce METHODOLOGY findings — that is what they are for** |
+> | ⛔⛔⛔ **4 · TEST RUNS** | **`Test_Runs/` — every run.** *Developer, 2026-09-06:* ***"those are only to be used as references for possible ideas… I was testing the methodology before committing to using it for the final results"*** | ⛔⛔⛔ **CLOSED DURING THE ULM. See the ruling immediately below — this row was WEAKER than the law and is superseded** |
+
+> ## ⛔⛔⛔ STRENGTHENED 2026-09-07 — **ZERO INTAKE. NOT "REFERENCE-ONLY."**
+>
+> **Developer, 2026-09-07, twice in one session:**
+> > ***"All those 'test runs' are strictly for testing purposes only. If necessary, we can draw data from them **after** the entire ULM is complete, but **don't** intake data from any of those test runs, because I was just testing the ULM to make sure that the methodology works properly."***
+> > ***"During the process of the ULM, while the methodology is in progress, don't absorb any data from any of the test runs. Those are for future reference later on, afterwards."***
+>
+> ⛔ **The old wording — *"may suggest an idea"* — permitted intake at low weight. IT IS WITHDRAWN.**
+> ***A test run's location content is CLOSED for the whole duration of the ULM, corpus-wide.*** **Not
+> down-weighted, not corroboration-tier, not "a possible idea." Closed.**
+>
+> | ⛔ CLOSED during the ULM | ✅ Still open, and unaffected |
+> |---|---|
+> | **Any location CONTENT a test run produced** — findings, figures, phases, gates, panels, catalogs, zodiac results, verdicts | ⭐⭐ **METHODOLOGY findings — the `M-` series.** *That is what the test runs were FOR, and the instrument is built from them* |
+> | *Its conclusions about the city it ran on* | **The run's own record of what the INSTRUMENT did** — which gate fired, which step stalled, what the procedure got wrong |
+>
+> ### ⭐ THE DISTINCTION, STATED SO NEITHER HALF IS LOST
+> ***A test run is evidence about the METHOD, never evidence about the PLACE.*** **Reading "Gate 6 fired and
+> found a collision" is reading the instrument. Reading *what* the collision was is reading the place.**
+>
+> ### ⏸️ REOPENS **PER CITY**, once THAT city's own ULM pass is complete — *clarified 2026-09-07*
+> > ***"The results of the test runs may suggest ideas for some particular city **after** the ULM for that particular city has been completed."***
+>
+> ⭐ **So the gate is per-location, not corpus-wide.** ⛔ **CLOSED for the whole duration of that city's own
+> pass — Step −1 through Step 10.** ✅ **Once the pass is closed, that city's test-run material may SUGGEST
+> IDEAS for that city.** *(An earlier draft of this section read "after the WHOLE ULM." That was stricter than
+> the ruling and is corrected.)*
+> ⚠ **The order is the whole point:** ***the independent derivation must exist first.*** **A suggestion
+> entertained afterward is compared against a finished pass; the same suggestion entertained during it becomes
+> the pass.**
+
+> ### ⭐⭐ AND THE EXCEPTION THAT IS NOT AN EXCEPTION — **PROMOTION LAUNDERS PROVENANCE**
+> ⛔ **The ban covers test-run FILES. It does not cover a fact the developer has RATIFIED INTO CANON.**
+> **Where a test-run finding has been developer-named and written into a `Specs/` file, a canon reference or a
+> ruling, ***it is canon now*** — read it from the canon source, at that source's tier, exactly as any other
+> canon.** ⚠ **The `Test_Runs/` file it came from stays closed; the ratified fact does not.**
+>
+> ### ⛔ HOW TO TELL, AND IT IS ONE QUESTION
+> ***Is this fact sitting in a canon file, or am I reading it out of `Test_Runs/`?***
+> ✅ **In the `Specs/`, with a promotion note** → **canon. Cite the SPEC, never the run.**
+> ⛔ **Only in `Test_Runs/`** → **closed for this pass, whatever its quality.**
+> ⚠ **Never cite the run as the source for a promoted fact** — *the citation is what would reopen the file.*
+>
+> ### ⚠⚠ AND THIS BINDS HARDEST WHERE THE TEMPTATION IS BIGGEST
+> **The largest test-run corpus in the project is one city's, at 19 files and ~3,100 lines** — *a full cold
+> pass with phases, gates, a Review Panel, a twelve-sign Zodiac Lens and a 216-cell cross-check.*
+> ⛔ ***That is precisely the pile a warm pass on the same city would most want to open, and precisely the
+> pile this ruling closes.*** **A warm pass re-derives it from canon, or it does not have it.**
 >
 > ### ⭐⭐⭐ TIER 2 IS THE ONE MOST EASILY MIS-FILED — **and mis-filing it costs the pass**
 > ***Vision material looks like a conclusion and is not one.*** **It is the author reporting what the place is
@@ -2619,6 +2841,13 @@ one. **Where it genuinely cannot be reconciled, flag it open.**
 citations only. **Sweep with word boundaries on every alternative and inspect every hit.**
 
 # Step 6 — Differentiate — ⭐ **WRITE-ONLY, as of 2026-09-06**
+
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`04_QA_Gates_and_Differentiation.md`, Part III (the differentiation instrument)** — the governing file
+>   for this whole step. **III.0** (a differentiation instrument only works if findings actually reach it —
+>   the measured case is a symbol collision noticed once and never propagated) · **III.4** (the no-sibling
+>   substitutes, run for every location as of the ruling below) · **III.2/III.3** (now terminal-only, per the
+>   table below — read them to know what is *not* run in-run, not only what is).
 
 > ### ⛔⛔⛔ THE STEP DID NOT DISAPPEAR. **ITS DIRECTION REVERSED.**
 > > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*

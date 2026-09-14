@@ -1,8 +1,8 @@
 # Step 2 — Build the spine
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `00_RUNBOOK.md` — lines 1917–1939.** ***If this file and the source ever disagree, THE SOURCE WINS.***
-> **Do not edit the instruction text below. If it is wrong, fix it in `00_RUNBOOK.md` and re-extract.**
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2428–2456.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `1917–1939`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
 

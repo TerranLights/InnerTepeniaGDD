@@ -102,7 +102,7 @@ rules across thirteen districts and roughly fifteen recorded failures; every dis
 specific pass that went wrong. **This methodology now has one such pass, and it is a real one.**
 
 > **Run 3** *(logged in `Test_Runs/`)* — a **cold** session, with all prior conclusions about its subject
-> quarantined, took it through **all eleven phases, all sixteen gates, and the Review Panel.** **Five gates fired; two produced findings the pass would not otherwise contain; one proved
+> quarantined, took it through **all eleven phases, all seventeen gates, and the Review Panel.** **Five gates fired; two produced findings the pass would not otherwise contain; one proved
 > structurally unrunnable in a cold pass; and the run passed `05` §6.1's falsifiable test with ten findings
 > absent from the location's existing material.**
 >

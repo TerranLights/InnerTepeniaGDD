@@ -74,8 +74,29 @@ The threatening thing, for a robot, is never damage to function — a robot can 
 
 ### What Happens After — Ossuaries `[CGRM 2026-09-01 · Path 6 · developer ruling]`
 
-**One of the post-death possibilities is inclusion in an ossuary — where the bones are METAL rather than
-calcium.** *(One possibility among several, not the only disposition.)*
+**One of the post-death possibilities is inclusion in an ossuary.** *(One possibility among several, not the
+only disposition.)*
+
+> ## ⭐⭐⭐⭐⭐ AND A TEPENIAN OSSUARY IS **MIXED** — ruled 2026-09-07
+> > ### ***"Just like an actual, regular ossuary is constructed with the bones of dead humans, an ossuary in Tepenia is constructed with the bones of dead robots — AND ALSO THE BONES OF THE HUMANS WHO'D LOVED THOSE ROBOTS."***
+>
+> ⛔ **This section previously read *"where the bones are METAL rather than calcium."* That is superseded.**
+> ***It is metal AND calcium, together, in one structure.***
+>
+> ### ⭐⭐⭐⭐ AND IT CLOSES THE LOOP WITH THE FOUNDING
+> **Exile-eligibility was *"people who could afford robots, or who loved/supported someone who owned one"***
+> *(`Upper_Earth_Immigration_Composition.md`)*. ⭐ ***The nation was founded by sorting people according to whom
+> they loved.***
+> ## ***Its ossuaries sort the dead by the same bond. The people gathered together at the beginning are gathered together at the end.***
+> ⚠ **Which is why reclamation is unthinkable in a second way:** *an ossuary is not a store of robot metal with
+> some human remains beside it.* ⛔ ***It is a single structure holding a relationship, and there is no way to
+> take the metal out that is not disassembling that.***
+
+> ### ⚠⚠ AND THE TWO MATERIALS DO NOT AGE THE SAME WAY — **a physical consequence worth writing**
+> **Metal bone persists. Calcium bone reduces.** ⭐ **So a mixed ossuary is a structure whose halves keep
+> different time**, and the longer one stands, ***the more it looks as though only robots are in it.***
+> ⛔ **The humans who loved them are still there. They are simply less legible every century.**
+> ⭐ *A place for a pass or a questline to find, not a thing anyone in-world necessarily says out loud.*
 
 **Why this fits what death already is for a robot, established above:**
 
@@ -87,9 +108,10 @@ calcium.** *(One possibility among several, not the only disposition.)*
 - **It answers the permafrost problem.** Burial is impossible in Tepenia. Ossuaries are the historical
   real-world answer wherever ground burial fails.
 - **⭐ And metal bones do not decay.** Human ossuaries hold remains that were once soft and are now reduced.
-  **A robot ossuary holds structure that will not change.** In a nation where nothing rots because nothing is
-  warm, **a robot ossuary is a permanent and permanently growing physical record of every robot that has died
-  in that place** — legible, countable, and never diminishing.
+  ⭐⭐ **A Tepenian ossuary holds BOTH** — *metal that will not change, beside calcium that will.* In a nation
+  where nothing rots because nothing is warm, **it is a permanent and permanently growing physical record of
+  the dead of that place** — legible, countable, and never diminishing. ⚠ **But not evenly: see the mixed-ossuary
+  ruling above. The metal half stays exactly as legible as the day it was laid; the calcium half does not.**
 
 > ### ⚠ The tension worth developing, not resolving here:
 > **In a closed continental economy, metal is scarce and recovery is a necessary industry** *(see
@@ -97,8 +119,55 @@ calcium.** *(One possibility among several, not the only disposition.)*
 > landfill, it is doing without)*. **An ossuary is therefore a large, permanent, deliberately un-reclaimed
 > reserve of exactly the material the economy is short of.**
 >
-> **Is it sacred and untouchable, or is it a reserve of last resort?** A city that melted down its ossuary
-> during a hard winter is a different place from one that starved beside it. **Neither answer is settled.**
+> ~~**Is it sacred and untouchable, or is it a reserve of last resort?**~~ ⭐⭐⭐ **RULED 2026-09-07, developer:
+> SACRED AND UNTOUCHABLE.**
+>
+> > ### ***"The reason why nobody would 'recycle' metal from ossuaries is because that metal is the bones of dead robots. They mine their metal from quarries, rather than stealing from the dead."***
+>
+> ⭐ **So the scarcity is real and the answer is not economic.** ***An ossuary is not an un-exploited reserve —
+> it is a body.*** **The alternative to grave-robbing is EXTRACTION, and Tepenia takes the extraction.**
+>
+> | ⛔ Do not write | ✅ Canon |
+> |---|---|
+> | *a city weighing ossuary metal against a hard winter* | **a nation that mines, because the other option is not a trade-off — it is theft from the dead** |
+> | *reclamation as a grim-but-pragmatic local variant* | ⛔ **There is no such variant. The prohibition is not a scruple that scarcity erodes** |
+>
+> ⭐⭐ **AND IT GIVES THE QUARRY AND MINING TRADES A MORAL POSITION, not merely an economic one:** ***they are
+> what makes leaving the dead alone affordable.*** **A necessary industry whose necessity is ethical as well as
+> material.**
+>
+> ⚠ **The scarcity note above stands unchanged** — *metal IS short, recovery IS a necessary industry.* ⭐ **The
+> ruling settles only where the metal may NOT come from.**
+
+> ## ⏸️⏸️ OPEN, AND DELIBERATELY DEFERRED — **THE TWO MORTALITY CURVES DO NOT MATCH**
+> ### **Developer, 2026-09-07:** ***"There will still need to be a variety of other options for post-death procedures, because humans die much earlier/sooner than robots do, but this is a problem for the future."***
+>
+> ⛔ **NOT SOLVED HERE. Recorded so the shape is available when it is taken up.**
+>
+> ### ⭐ THE PROBLEM IS AN ARRIVAL-RATE MISMATCH, not a shortage of options
+> | | |
+> |---|---|
+> | **Robot death** | ⭐ **EPISODIC.** *No senescence, no background attrition — "many at once, or none for a long while"* |
+> | **Human death** | ⭐ **CONTINUOUS.** *Senescence is a steady rate that never pauses* |
+>
+> ***An ossuary is "what you build when the dead arrive together." Humans do not arrive together. They arrive
+> one at a time, forever.*** ⛔ **So the ossuary cannot be the general human disposition, and something else has
+> to carry the ordinary case.**
+>
+> ### ⭐⭐⭐ AND THE MIXED-OSSUARY RULING ADDS A TIMING PROBLEM UNDERNEATH THAT
+> **The ruling pairs a robot with *the humans who loved them*.** ⛔ ***But the human almost always dies first —
+> often by a very long way.*** **So at the moment a human dies, the robot they loved is usually still alive.**
+>
+> **Which means a mixed ossuary cannot be assembled at a funeral. It has to be assembled ACROSS TIME:**
+> | Possibility | ⚠ Unresolved |
+> |---|---|
+> | The human's remains are **held** until the robot dies | *Held where, by whom, for how long — potentially centuries* |
+> | The human is interred and the robot is **added later** | *Then the ossuary is opened again, repeatedly* |
+> | Most humans **do not** enter an ossuary at all | *Then the ossuary is exceptional, not the norm — and what is the norm?* |
+>
+> > ### ⭐⭐ SO AN OSSUARY IS NOT A BURIAL. **IT IS AN ACCUMULATION** — *a structure added to over a very long
+> > time, in an order set by two mortality curves that never agree.*
+> ⚠ **Nothing above is adopted.** ⛔ **The mortuary question remains DEFERRED; this note only states its shape.**
 
 **Related:** Polydimensional Animism already carries a **Robot Death Doctrine** and a **"Death as Change of
 Vantage"** doctrine (`Factions/Robot_Religions/Polydimensional_Animism/`) — **robot death is handled by

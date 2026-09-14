@@ -364,13 +364,26 @@ makes sense, and let the RESUME block say which one is live.*
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | ✅ **Shirayuki** | **n/a** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** |
 | **Casey** | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| **Davis** | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| ▶ **Davis** | **✅** | ▶ | · | · | · | · | · | · | · | · | · | · | · |
 | **Kunlun** | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **Mirny** | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| **Sinheung** | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| ✅ **Sinheung** | **n/a** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅**ʷ | **✅** | **✅** | **✅** | **✅** | **✅** |
 | **Vostok** | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| **Zhongshan** | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| ✅ **Zhongshan** *(Opus array)* ⭐ **OFFICIAL** / ⛔ **not canon** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** |
 | ⏸️ *{{Bunger Hills City}}* | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ | ⏸️ |
+
+> ⛔ **SINHEUNG CORRECTED 2026-09-13.** This row read `▶` at Step 4 with Steps 5–10 blank, **understating a
+> pass that reached `10_Readiness_Check.md`.** Verified from disk: **21 files, Steps 0–10 all present.**
+> **ʷ** = Step 6 is **WRITE-ONLY** — `06_Differentiation.md` *correctly does not exist*; the rows went into
+> both shared tables in the same commit. **Phases 0–1 live inside Steps 0–3**, per the pass's own README.
+> ⭐ **`M-221`: `Gate 0`'s outward completion check must be run on the TRACKERS, not only on the pass folder** —
+> Sinheung's own Step 10 fired on exactly this error in its README and never looked here.
+> **Full statement: `MASTER_Process_Tracker.md`, the Mirny subnet header.**
+
+> ⭐ **Zhongshan is OFFICIAL as of 2026-09-13 — the developer's declared quality bar for every ULM pass — and
+> explicitly NOT canon**, pending the developer's read-through and per-section notes. ⛔ **The bar is a set of
+> OUTPUT PROPERTIES, not a document to go read**: a city pass must never open another city's pass outputs to
+> calibrate quality. **Full statement: `MASTER_Process_Tracker.md` §"OFFICIAL ≠ CANON."**
 
 > ### ⛔⛔ THE HARDEST SUBNET FOR **GATE 6**, AND IT IS THE ONE BEING RUN FIRST
 > ⭐ **Shirayuki, Sinheung and Zhongshan share ONE 40 km² ice-free oasis and ONE climate** *(the Larsemann

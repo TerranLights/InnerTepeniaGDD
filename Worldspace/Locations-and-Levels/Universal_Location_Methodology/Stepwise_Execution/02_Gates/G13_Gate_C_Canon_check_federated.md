@@ -1,8 +1,8 @@
 # Gate C — Canon check, federated
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `04_QA_Gates_and_Differentiation.md` — lines 279–320.** ***If this file and the source ever disagree, THE SOURCE WINS.***
-> **Do not edit the instruction text below. If it is wrong, fix it in `04_QA_Gates_and_Differentiation.md` and re-extract.**
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 294–335.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `279–320`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
 
@@ -28,6 +28,26 @@
    error runs BOTH ways:** *assigning an existing roster member that does not fit, **or** inventing a bespoke
    one to fill a blank.* **Rosters are OPEN and expected to grow, so a roster's SIZE is never the test.**
    ✅ ***"None is sited here" must never read as "none is possible here."***
+
+---
+
+> ## 📂 THE THREE TIERS — **ABSOLUTE ADDRESSES. A NEGATIVE RESULT WITHOUT THESE PATHS DOES NOT COUNT.**
+> *Added 2026-09-07. This gate demanded "name the search paths" and "all three tiers" while supplying **no
+> address for any tier** — the exact defect it exists to catch* *(`M-117`: **a name is not an address**)*.
+>
+> | Tier | Address |
+> |---|---|
+> | **1 · UNIVERSE REPO** — wins on **When · Where · Who** | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/` |
+> | **2 · THIS PROJECT** — everything the universe repo excludes | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/` |
+> | **3 · SIBLING PROJECTS** — not authoritative, but a consistency obligation | `/home/kuroskalacs/Documents/Doll-Fi/media/games/` |
+>
+> ⛔⛔ **THE UNIVERSE REPO IS NOT INSIDE THIS ONE.** ***A repo-local `grep` cannot see it and will return a
+> confident, wrong "not found."*** **It must be opened deliberately.**
+> ⚠ **And a thin-looking canon file may be a REDIRECT STUB** — *one file is 7 lines here and 344 lines
+> upstream.* **Check before concluding the canon is thin.**
+>
+> ⭐ **The four-question check this gate invokes: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` §E.**
+> ⭐ **The full registry — every root, with tiers: same file, §B (universe) · §C (project) · §C.9 (real-world research, ~90 files).**
 
 ---
 

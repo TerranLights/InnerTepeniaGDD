@@ -3,6 +3,7 @@ Reference-Materials/Treaties/
 Press-Outreach/
 to-be-integrated/treaties/
 Worldspace/Characters/Dolls/**/Reference_Images/*
+Reference/Materials/Videos/**/
 # Exception: keep the two z-template Reference_Images folders trackable via a .gitkeep placeholder.
 # Without this, these folders are always empty (templates have no actual images), and git never
 # tracks empty directories at all — so they vanish on any operation that resets the working tree
@@ -28,3 +29,12 @@ graphify-out/*
 # values, the EPA staffing curve) and the register of sources located-but-not-obtained. Those are
 # our own notes, and they are the part a future session actually needs.
 Reference/Real-World/Industry_Staffing_and_Productivity/*.pdf
+
+# graphify build artifacts in NESTED locations — the rule above (`graphify-out/*`) contains a
+# slash and is therefore anchored to the repo root, so it never matched these. Added 2026-09-13
+# after a commit would have added 1,341 files / ~22 MB of machine-specific regenerable output.
+# Scoped under Worldspace/ on purpose, to leave the root rule's !BUILD_PLAN.md exception intact.
+Worldspace/**/graphify-out/
+
+# Python bytecode from the ULM's Tools/ scripts
+**/__pycache__/

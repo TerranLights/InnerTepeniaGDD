@@ -822,3 +822,70 @@ still not mechanical, and the NEXT ruling will diverge again exactly as this one
 `EXECUTION LOG` scaffolding, and the address tables added 2026-09-04 (`S08`'s says so in its own words —
 "added because this instrument had none for cities").*
 ⭐ **Schedule it deliberately; do not let it happen as a side effect of an urgent fix.**
+
+---
+
+## 🟡 DRQ-16 — ⭐⭐⭐ **DID THE EXILE HOLLOW OUT UPPER EARTH? — a developer proposal, needing one ruling before it can be adopted**
+
+**Raised 2026-09-07 by the developer, during Sinheung's `Phase 2`, immediately after that phase established the
+exile-eligibility criterion.** ⛔ **RESERVED, not adopted** — *`00_RUNBOOK.md` §E question 3: a claim binding
+beyond this location is not a location pass's to make.* ⚠ **This is rank-1 material: it binds the universe repo
+(When · Where · Who), and therefore the TV series and the novels as well.**
+
+## The proposal, in the developer's own words
+
+> ***"Robot-owners being who they are (their economic position, general countries-of-origin, state-of-means,
+> etc) would've been competent, capable people, which means that, post-Falkland Treaty, Upper Earth would've
+> LOST those competent, capable people. Therefore, it's reasonable to assume that over the course of the
+> following 250 years (around roughly 8 or 9 generations or so), the general standard of living across Upper
+> Earth countries would've gone down, as there weren't as many competent, capable people present to keep
+> society running. This could very possibly have caused a culture of resentment across Upper Earth against
+> Tepenia for being so successful."***
+
+## ✅ THE PREMISE IS CANON, AND IT IS STRONGER THAN STATED
+
+**`Upper_Earth_Immigration_Composition.md`, factor 3:** *"**only people who could afford robots (or who
+loved/supported someone who owned one) would have been exile-eligible.** High-GDP nations contribute a higher
+proportion… however, **high-inequality nations further reduce the eligible pool**."*
+⭐ **So the exile did not take an elite and did not take an underclass. It took the BROAD PROSPEROUS MIDDLE of
+the most functional societies** — *which is the stratum that actually runs a country.*
+
+## ⛔ BUT THE HEADCOUNT DOES NOT CARRY IT — **stated plainly, because a proposal built on a wrong number fails later**
+
+**Census I: `15,623,523` humans.** *Against an Upper Earth population in the billions that is on the order of
+`0.2%`.* ⛔ ***A 0.2% population loss does not produce a 250-year decline in living standards.*** **Skills
+regenerate in two or three generations; the proposal spans eight or nine.**
+
+## ⭐⭐⭐ THREE MECHANISMS THAT DO CARRY IT — **at least one is required**
+
+| # | Mechanism | Why it works |
+|--:|---|---|
+| **1** | ⭐⭐ **CONCENTRATION, not headcount** | *Eligibility concentrates the loss twice — only in high-GDP **low-inequality** nations, and only in the robot-owning stratum of those.* **Negligible globally; potentially severe in a dozen countries, in one class.** ⭐⭐⭐ **AND IT DIFFERENTIATES UPPER EARTH, which is better material than a uniform decline** — *the nations that resent Tepenia most are the ones that were **most prosperous and equal beforehand**; the poor and unequal ones lost almost nobody* |
+| **2** | ⭐⭐⭐ **THE ROBOTS ARE THE LARGER LOSS** | **`16,403,077` robots left — MORE than the humans.** *That is not a demographic loss; it is **capital flight in the form of persons**.* ⭐ **And by the eligibility rule they were disproportionately the privately-held robot stock of exactly those functional societies.** *If robot labor was integrated into how those economies ran, removing it in one act is a genuine productivity shock* |
+| **3** | ⭐⭐⭐⭐ **WAS THE EXILE ONE-TIME OR CONTINUOUS?** | ⛔ ***THE LOAD-BEARING QUESTION, AND CANON DOES NOT SETTLE IT.*** **One-time at the Treaty → a shock, with 250 years of recovery available; the proposal weakens.** ⭐ **ONGOING → a continuous drain of the SAME stratum every generation, which compounds and never recovers** — *and it would additionally explain Tepenian population growth, and make the damage self-inflicted rather than historical* |
+
+## ⭐⭐ A REFINEMENT TO THE RESENTMENT ITSELF
+
+**Envy of success is generic and does not survive economic recovery.** ⭐ **The sharper form: *TEPENIA IS A
+STANDING REFUTATION.***
+**Upper Earth expelled these people on the premise that the human-robot relationship was intolerable.** ***Tepenia
+then built a functioning civilization on exactly that relationship, at ~51% robot.*** ⛔ **So every year it
+survives is evidence the expulsion was not merely cruel but WRONG ON THE MERITS.**
+⭐⭐ **A doctrinal grievance outlives an economic one** — *which the setting needs, because the Second Interwar
+runs 248 years.*
+
+> ### ⚠ AND IT MAY REACH FURTHER THAN IT WAS AIMED — **flagged, NOT asserted**
+> **The Long Night War's inciting incident is canon: a diplomat assaulted a gynoid.** ⭐ ***Under a doctrinal
+> grievance that is not a random act — it is the doctrine acting out.*** ⛔ **Whether the war's causation is
+> open to this is a separate question and is not decided here.**
+
+## ⏸️ WHAT IS ACTUALLY BEING ASKED
+
+| | |
+|---|---|
+| **1** | ⭐ **RULE: was the exile ONE-TIME or ONGOING?** *Everything else depends on it, and nothing in canon that this pass could find settles it* |
+| **2** | **Adopt the hollowing-out, and at which of the three mechanisms?** |
+| **3** | **If adopted, it is UNIVERSE-REPO material** *(When · Where · Who)*, **not `InnerTepeniaGDD` material** — *and `Outside-World/Upper-Earth/` in this repo is currently an empty `Geography.md` plus a redirect stub, so there is a real void to fill and nothing to contradict* |
+
+⚠ **Related and already canon:** *the phosphorus-leverage trade relationship* — **a hostile-but-dependent
+posture is consistent with this proposal and may already be its downstream evidence.**

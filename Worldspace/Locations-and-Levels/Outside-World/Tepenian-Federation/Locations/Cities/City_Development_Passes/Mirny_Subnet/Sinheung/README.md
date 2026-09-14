@@ -1,7 +1,22 @@
 # Sinheung — development pass
 
-**Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
-run — never pre-created.*
+**Folder opened 2026-09-05.** ✅ **ULM PASS COMPLETE 2026-09-07** — *Steps −1 through 10.*
+⚠ **This header read "Empty by design" until 2026-09-07.** *It was true when written and false by the time the
+pass finished — **Gate 0's exact shape**, caught by `Step 10.3` item 9.*
+
+## ⭐ WHAT THIS FOLDER ACTUALLY CONTAINS — *listed, never claimed* `(Gate 0)`
+
+| File | Piece | |
+|---|---|:--:|
+| `00_Frame.md` · `01_Inherited.md` · `02_Spine.md` · `03_Research.md` | Steps 0–3 *(Phases 0–1 live in these, not in `04_Phase_00/01` files)* | ✅ |
+| `04_Phase_02` … `04_Phase_10` *(9 files)* | Step 4 — Phases 2–10 | ✅ |
+| `05_Reconciliation.md` | Step 5 — **the read-last culture file opened here, as a check** | ✅ |
+| `07_QA_Gates.md` | Step 7 — ⚠ **ONE file for all 17 gates**, not one file per gate | ✅ |
+| `08_Review_Panel.md` | Step 8 — all six dispositions used | ✅ |
+| `09_Record.md` · `09.5_Log.md` | Step 9 + the recording law | ✅ |
+| `09.6_Input_Audit.md` | ⭐ **NOT PREDICTED BELOW** — the per-phase required-canon audit *(`M-169`)* | ✅ |
+| `10_Readiness_Check.md` | Step 10 | ✅ |
+| ⛔ **`06_Differentiation.md`** | ***DOES NOT EXIST, correctly*** — **Step 6 is WRITE-ONLY as of 2026-09-06; the column goes into the shared table, not into a file here** | — |
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -33,12 +48,14 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Sinheung.md` |
-| **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Sinheung.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
-| **Vision notes** | `../../../City_Vision_Notes/Sinheung.md` |
-| **Research log** | `../../../Research_Logs/Sinheung_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
-| **Picks to mine** | `../../../Inspirational-Influences.md` |
+| **Spec** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Sinheung.md` |
+| **Local culture** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/Mirny_Subnet/Sinheung.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
+| **Vision notes** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Vision_Notes/Sinheung.md` |
+| **Research log** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Sinheung_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
+| **Picks to mine** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 
-📎 Progress: `MASTER_Process_Tracker.md` · `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`
-*(all in `Universal_Location_Methodology/`)*
+📎 Progress: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/MASTER_Process_Tracker.md`
+*(and `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md` in the same folder)*
+
+⚠ **Relative paths above were converted to ABSOLUTE 2026-09-07** — *`§B`'s standing rule: a relative address is folder-dependent, and this file is read from at least three places.*

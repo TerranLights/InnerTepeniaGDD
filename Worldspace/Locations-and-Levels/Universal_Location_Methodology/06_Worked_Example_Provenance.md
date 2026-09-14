@@ -86,6 +86,40 @@ without it.
 | `00f` | **`unmet`/`declined` split** | Its panel counts |
 | `05` | **§6.1a–c** | Which of its input files were contaminated and how |
 
+## ⛔⛔ Zhongshan — ADDED 2026-09-11 from the **OPUS ARRAY** pass *(warm, Steps −1–10)*
+
+> ### ⚠⚠ **THIS SECTION EXISTS BECAUSE STEP 10 CAUGHT ITS OMISSION.**
+> **Before this pass, `04_QA_Gates_and_Differentiation.md` contained `0` mentions of Zhongshan in Parts I–IV.**
+> **The pass appended Parts V and V.2 and put `11` in — all unmanifested, in a file `CLAUDE.md` mandates be
+> read in full.** ⛔ ***An unmanifested example is invisible contamination for the next same-location run***
+> *(§10.1 item 2)* — **and the next same-location run is a live, deliberately-held experiment.**
+
+| File | Section | What the example reveals about Zhongshan |
+|---|---|---|
+| ⛔⛔ **`04`** | **Part V** *(the quotation-audit trial)* | **Four confirmed quotation defects with their exact source texts** · the pass's fragment and miss counts · **that all four sat in table cells and none in prose** |
+| ⛔⛔ **`04`** | **Part V.2** *(the handoff-ledger trial)* | ⛔ **Which phases dropped inbound handoffs, by number** · the `3-of-8` enumeration figure · ⭐⭐ **that the pass's `Lover faculty` passed ONLY on repaired material, and that the city would otherwise have read as competent and joyless** — *a direct characterization claim* |
+| ⛔ **`04`** | **Part V.2** §V.2.1 | **That the city's music, cuisine model, craft standard, seasonal trade and wind-as-provider were all dropped and restored by amendment** — *the content of five findings, named* |
+| ⚠ **`00_RUNBOOK`** | the `ON TRIAL` pointer | The two trial names and the `5-of-8` figure |
+| ⚠ **`Tools/quotation_audit.py`** · **`Tools/handoff_audit.py`** | docstrings + hardcoded controls | **Positive-control strings quoted verbatim from this pass and its corpus** |
+
+### ⛔⛔⛔ AND THE SPECIFIC EXPOSURE THAT MATTERS — **`Zhongshan_Sonnet/`**
+
+**A second array exists: `…/Mirny_Subnet/Zhongshan_Sonnet/`, `23` files, deliberately held at Phase 3 as a
+Sonnet/Opus divergence fork.** ⛔ **If it resumes, Step 7 requires it to read `04` in full — where it will meet
+the Opus arm's gate results, its defect counts, and its Review Panel characterization.**
+
+> # ***THAT WOULD NOT MERELY CONTAMINATE THE SONNET ARM. IT WOULD DESTROY THE EXPERIMENT THE FORK EXISTS TO RUN.***
+> **A divergence test measures what two arms reach INDEPENDENTLY. An arm that has read the other arm's findings
+> is no longer an arm.**
+
+✅ **DISPOSITION — the rule stands without the example.** **Parts V and V.2 are TRIALS, explicitly
+non-binding**, and `04` Part V's own guards already say `Zhongshan_Sonnet` must not run either trial.
+⛔ **A `Zhongshan_Sonnet` resumption must SKIP Parts V and V.2 entirely** — *they are appended after Part IV
+and are cleanly separable, which is the one piece of luck here.*
+⏸️ **Whether that is sufficient, or whether the trials should be moved to a quarantined archive with bare
+pointers** — *the fix `05` §2.4 required when the same shape was found there* — **is a developer question,
+raised and not taken.**
+
 ### ⚠ And the honest assessment for a Zhongshan re-run
 
 **This manifest is long, and skipping every row still leaves a Run 4 partially contaminated** — the rules

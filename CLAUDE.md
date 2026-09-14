@@ -26,7 +26,7 @@ historical round-notes — reconstructing it from those is how the errors below 
 | | **District runbook** | **Universal Location Methodology** |
 |---|---|---|
 | Ordered steps | **eight** | **twelve — Step −1 through Step 10** |
-| QA gates | **eleven, 0–10** | **sixteen — 0–11 plus C · F · I · P · G** |
+| QA gates | **eleven, 0–10** | **seventeen — 0–11 plus C · F · I · P · G** *(corrected from "sixteen" 2026-09-07; the enumeration was always right and the word was always wrong — see `M-167`)* |
 | Phases | 8 | **11** |
 | Review Panel dispositions | **five** | **six** — `accepted · noted · rejected · refereed · unmet · declined` *(the `unmet`/`declined` split added 2026-08-30; see `00f`)* |
 | Ends with | Record | **Step 10 — the READINESS CHECK, run before declaring a pass complete or handing off** |
@@ -119,7 +119,11 @@ Step 3 · `Cities/Research_Logs/README.md`.*
   by **Amundsen Tower's completion (~2688)** — but not a switch, **not the creation of unity**, already in
   progress, and only one of the Tower's effects. **The Second Interwar spans both Acts and is mostly Act 2.**
   ⭐ **Differentiate locally; converge nationally.** *Full statement:
-  `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`.*
+  `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`* — ⚠ **that is a SEPARATE REPO and the path
+  above does not resolve from this one.** **Local clone:**
+  `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/` *(absolute path added
+  2026-09-07: the citation named the full statement of a binding law and gave no way to open it. Same convention
+  already used by `Worldspace/World_History_Reference.md` and `Real-World_Basis_Extrapolation_Method.md` L111.)*
 - **Real-world inspirations are sources, not specifications.** A location is under no obligation to match its
   inspiration; divergence is fine and often better. **The two tests that bind are internal** — is it
   characteristically consistent with *itself*, and is it consistent in-world within the Tepenian universe? A

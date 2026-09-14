@@ -688,7 +688,9 @@ or a signature phrase — stop reading it, and add a banner before you continue.
    time for this** — Sinheung's own first full run of this family took a comparable share of that run's total
    effort to the eleven phases and sixteen gates combined, and produced results (including one that closed a
    real Review Panel gap) that no other part of the methodology reached.
-8. **Run all sixteen gates** — 0–11 plus **C · F · I · P · G**. **Paste raw scan output; never summarize.**
+8. **Run all seventeen gates** — 0–11 plus **C · F · I · P · G**. **Paste raw scan output; never summarize.**
+   *(Count corrected 2026-09-07 — this read "sixteen" while enumerating seventeen, the same self-contradiction
+   `CLAUDE.md` carried. This is a live INSTRUCTION, not a description of a past run, so it was fixed. See `M-167`.)*
    **Verify every instrument before trusting any figure, zero or plausible.**
 9. **Convene the Review Panel** (Step 8 of `00_RUNBOOK.md` — the Review Panel specifically, and only the
    Review Panel; do not reuse "Step 8" to mean anything else, per M-31) — six Flat Archetypes, the mandatory

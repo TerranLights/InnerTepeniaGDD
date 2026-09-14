@@ -1,8 +1,8 @@
 # Step 4 — Write the phases
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `00_RUNBOOK.md` — lines 1982–1993.** ***If this file and the source ever disagree, THE SOURCE WINS.***
-> **Do not edit the instruction text below. If it is wrong, fix it in `00_RUNBOOK.md` and re-extract.**
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2552–2585.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `2544–2577`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
 
@@ -35,8 +35,30 @@
 
 **Phases 2–10, per `03`.** Fold the generators in as you write; do not bolt on a separate "substrate section."
 
+> ## ⛔⛔⛔ BEFORE WRITING EACH PHASE — **OPEN THAT PHASE'S `📂 MUST OPEN` BLOCK IN `03_The_Phase_Spine.md`**
+> **Added 2026-09-07 — `M-169`.** ***Every phase in `03` now carries its own required-canon list with absolute
+> addresses that resolve, sitting directly under its `Asks:` line.*** **Open them before writing, not after.**
+>
+> ### ⚠ WHY THIS IS A HARD REQUIREMENT AND NOT A REMINDER
+> **The obligation already existed** — `ULM_Input_Required_Reference.md` §G has always listed per-phase canon
+> targets. ⛔ ***It lived in a file the phase-writing procedure never told anyone to open, so it was
+> unreachable at the point of use*** *(`M-121`: "registered globally is not registered at the point of use")*.
+> **Measured 2026-09-07 on a live pass: `15` required sources unopened across ten phases, and `Phase 9` —
+> POPULATIONS — had opened NONE of its three robot-canon targets.**
+>
+> ### ⛔⛔ AND THE COST IS NOT A MISSING CITATION. **IT IS A CONFIDENT FALSE FINDING.**
+> **That pass's `Phase 9` headline read *"this is the one city where a robot can walk past the place she was
+> made"* — while `Robot_Universals` Ch. 14 states *"a robot's fabrication and her home city are, as a rule, the
+> same place."*** ***The claim was true almost everywhere, so it was not the location's distinction at all.***
+> **It passed the spelling sweep, the table check, the cross-city sweep, the quotation audit, the dual-tag
+> diagnostic AND the swap test.** ⛔ ***Nothing except opening the source could have caught it.***
+>
+> ✅ **A phase that finds a required source empty, withheld or non-applicable RECORDS THAT** — *an opened-and-empty
+> source is a result; an unopened one is a hole.* ⚠ **`Phase 3`'s physical-infrastructure row is a live example:
+> it addresses `City_Megasheets/`, which the standing facts WITHHOLD. Record the conflict; do not open it.**
+
 Standing reminders, all of which have their own recorded failure behind them:
-- **Formalize before inventing.** **Check canon before deriving anything structural.**
+- **Formalize before inventing.** **Check canon before deriving anything structural** — ⭐ **and `03`'s `📂 MUST OPEN` block is WHICH canon, with addresses.**
 - **Name the axis, in bold, before writing the content** — and check it against the differentiation instrument.
 - **A null is a result**, but distinguish *covered in substance, absent in form* from *absent and unexplained*.
 - **General-population discipline throughout.** **Shadow proportion throughout.**

@@ -1,4 +1,7 @@
-# Research Topics — 13 Districts + 36 Cities/Stations
+# Research Topics — National · 13 Districts · 36 Cities/Stations
+
+> ⭐ **A `Part 0` was added 2026-09-08 for NATIONAL, cross-cutting subjects.** *It comes first because a
+> location pass that meets one of those topics must **hand it up rather than answer it locally.***
 
 **Purpose:** a shopping list of real-world subjects worth sourcing PDFs about, one location at a time,
 following the same pattern that worked for Pisces (see `Pisces_Flood_Mechanism_Research/` in this same
@@ -36,6 +39,33 @@ folders fill in or get reassigned.
 **Status: mapped, not yet triaged or extracted from.** None of these folders have had a dedicated
 extraction pass yet — this table exists so the next session (or this one, if there's room) can pick a
 folder and go, rather than needing to re-establish what each one is for.
+
+---
+
+## ⭐ Part 0 — NATIONAL / CROSS-CUTTING TOPICS
+
+> **Added 2026-09-08.** **Everything else in this file is scoped to ONE district or ONE city.** *This part is
+> for subjects that belong to **the country**, where researching them per-location would produce 38 partial
+> answers to a question that has one national answer.* ⛔ **A topic listed here must NOT be resolved inside a
+> location pass** *(the* **LAYERING LAW***)* — **a pass may notice it and must hand it up here.**
+
+| # | Topic | Status | Why it is national, and why it is necessary |
+|---|---|---|---|
+| **N1** | ⭐⭐ **WASTE TREATMENT** | ⏸️ **MARKED — NOT YET RESEARCHED** | ⛔ **Developer ruling, 2026-09-08: *"Tepenia doesn't have the option to 'export' their waste, so they need to have some sort of infrastructure for Waste Treatment."*** **Three exits are physically closed at once** — *canon already states waste **cannot be landfilled in permafrost** and **cannot be discharged into a frozen sea*** *(`Division_of_Industry/00_Necessary_Industries_Register.md` `A2`)*, ***"cannot be shipped"*** *(`04_Providers_and_National_Balance.md` L43)* — **and the ruling closes the third: it cannot leave the continent.** ⭐ **So the material stays inside the economy permanently, which makes this a `Tier A`-weight dependency currently carrying a `Tier C` label** *(`C4`, still marked **"absent corpus-wide"**)*. ⚠ **The real-world Antarctic regime is the OPPOSITE and cannot be copied** — *the Madrid Protocol's `Annex III` solves waste by removal from the continent.* **Interacts with:** *`A2` water & sanitation · `C4` materials recovery · `C5` mortuary & decommissioning · the energy budget · §A open question 5* |
+
+| **N2** | ⭐⭐ **THE MONEY SYSTEM** | ⏸️ **MARKED — NOT SETTLED, DO NOT BUILD ON** | ⛔ **Developer instruction, 2026-09-08: *"before you codify the currency being 'energy-backed', I need to mark that for future review, because I'm still not fully settled on how the money system works in Tepenia. So, for now, we can skip that."*** ⚠ **`National_Economy_and_Currency.md` already self-marks: its contents are *"a placeholder for HOW THE SYSTEM WORKS, not its final name,"* the currency name was never the developer's own term, and it lists six open items.** ⛔⛔ **So NO pass may treat energy-backing, the dual-economy bridge, or the regional-fracture mechanics as settled canon — and no location finding may rest on any of them.** ⭐ *A pass that needs to say how people pay for things should say that the mechanism is open and write around it.* **Interacts with:** *`N1` · the freedom-margin work in `Division_of_Industry/09` §3.5 · any Phase 4 or Phase 7 economy section* |
+
+**Subjects worth sourcing for `N1` when it is picked up** *(a wish list, not a plan)*: **closed-loop and
+zero-export waste systems** · **thermal treatment and what the residue actually is** · **materials recovery
+in isolated and island communities** · **the energy cost of treatment**, since energy is the binding
+constraint everywhere else in this setting · ⭐ **and the social half — whether handling the stream is an
+obligation, a trade, or a caste-forming job**, which is where the culture is.
+
+> ⚠ **`C5` is deliberately NOT folded into `N1`.** *A robot's remains are governed by a standing developer
+> ruling — **"that metal is the bones of dead robots. They mine their metal from quarries, rather than
+> stealing from the dead"*** *(`Robot_Physiology_and_Cultural_Practices.md` L125)*. ⛔ **The scrap stream and
+> the ossuary are different materials under different law, and a closed-loop recovery study must not quietly
+> merge them.**
 
 ---
 

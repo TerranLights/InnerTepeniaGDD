@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **QA** | **`07_QA_Gates.md`** — *sixteen gates, raw scan output pasted, one fired* |
+| **QA** | **`07_QA_Gates.md`** — *seventeen gates, raw scan output pasted, one fired* ⭐ *(count corrected 2026-09-07 — the file always contained all seventeen, `G01`–`G17`, verified by label extraction; only this summary line was wrong. See `M-167`.)* |
 | **Panel** | **`08_Review_Panel.md`** — *eight positions, six dispositions used, one uncastable* |
 
 ---
@@ -122,3 +122,26 @@ love.***
 
 📎 **Next: ⚠ `Step 10 — THE READINESS CHECK`.** ***Verify, do not assert.***
 📎 `07_QA_Gates.md` · `08_Review_Panel.md` · `09.5_Log.md` · `ULM_Run_Progress.md` · `MASTER_Process_Tracker.md`
+
+---
+
+# ⭐⭐ RETROSPECTIVE ADDENDUM — **2026-09-07, at the developer's direction**
+
+> ⛔ **This record previously tracked NONE of the below.** *`04z`, `enrichment`, `stock` and `admissible` all
+> returned `0` in this file — so a correctly-recorded deferral had become an omission with nothing carrying it
+> forward.* ⚠ **That is the failure `M-171` names, and this section closes it.**
+
+| Fixed 2026-09-07 | |
+|---|---|
+| ⭐⭐⭐ **`04_Phase_07_Order.md` addendum** | **`National_Medical_and_Care_Institutes.md`** *(locked canon, a `§C.8c` Phase-7 target)* **was never opened.** ⭐ **It names this city as a candidate to host a national-institute satellite campus — *a FOURTH instance of `7b`'s "not one of the three is decided by Shirayuki," and the only one still LIVE*.** ⛔ **Siting RESERVED, developer-flagged NOT decided** |
+| ⭐⭐⭐ **`04_Phase_08_Making.md` addendum** | **The origin-stock layer `04z` §7 declared admissible and deferred is now WRITTEN.** ⭐ *Cuisine: three independent routes to one proposition — a tradition that treats **duration as a quality**, an axis of **DEFERRAL**, and a belief that **what is kept has standing***. ⛔ **Music: stock weighed and DECLINED, `00b`** |
+| ✅ **Industry differentiation column** | **12/12 cells, filled retrospectively** *(`§C.6` obligation the pass had not met)*. ⚠ **A `LAW G` near-collision with city 2 was checked, separated on axis, and CLEARED — recorded as evidence the guard ran** |
+
+## ⏸️ STILL OPEN ON THIS PASS
+
+**Six lesser `§C.8c` targets** *(`Repo_Scope` · `Energy_Grid_Failure_Rationale` · `11_Caloric_Rebuild` ·
+`01_Burden`/`08_Volume` · `Theoretical-Calculations/` · `Megacorps/`)* · **three phases still without a
+`Canon opened` receipt** *(`5` · `8` · `10`)* · **`Phase 10`'s two character sources** *(verified to hold `0`
+rows for this city — documentary only)*.
+📎 **Full detail: `09.6_Input_Audit.md`.**
+

@@ -1703,6 +1703,82 @@ Zhongshan, Sinheung, and Shirayuki were founded via a peaceful diplomatic partit
 - [ ] **Remaining perks — second and third batches**
   After the first 50 are completed (see Medium Priority), the remaining ~49 to reach 160 total.
 
+## 🟡 MOUNTAIN PASS NEEDS A LOCATION-SPEC SERIES — *flagged 2026-09-07, deliberately NOT scheduled yet*
+
+> **Developer, 2026-09-07, as an aside during Sinheung's ULM pass:**
+> > ***"At some point sometime in the future, we'll need to produce a 'city-spec series' (i.e. a folder with
+> > city-type information) about Mountain Pass… it's rather something more along the lines of something like
+> > Amundsen-Scott Station, so it's extremely likely that the data will probably end up being rather thin.
+> > Still, it's something that should be done, so that when a player reaches it and begins investigating, what
+> > they find is a historical site that's full of environmental storytelling as well as reading terminal
+> > entries that convey rich, meaningful lore, as opposed to the player reaching the site and finding 'a big
+> > metal building'."***
+>
+> ⛔ **NOT NOW.** *Explicitly deferred at flagging time. The city run has priority.*
+
+**What it is.** *The historical third chamber-manufacturing site, on Hwy 37 midway between Vostok and Kunlun.*
+**Sinheung pushed for it and supplied the means; Vostok and Kunlun established and staffed it.** *It died when
+the Tower fell and the residual grid supply ended* — **`National_Medical_and_Care_Institutes.md` §3, canon.**
+
+### ⭐⭐ THE USEFUL PART: **the ULM already has the machinery, so this is smaller than it looks**
+
+**This is not "invent a method for thin ruins." It is "run the existing instrument in a configuration it was
+explicitly generalized for and has never once been used in."**
+
+| What it needs | The instrument that already exists |
+|---|---|
+| **A non-city location type** | ⭐ **`01` §1.1 — `Installation`:** *"purpose-built for a function, with a controlling institution, **staffed rather than settled**."* **Its governing question is already the right one:** *"what happens to people who live inside somebody else's purpose?"* |
+| **A procedure for a site with no residents** | ⭐ **`01` §2.4 — the Band 0 procedure**, whose stated unit of analysis is ***"users, former residents, and physical testimony."*** **Physical testimony IS environmental storytelling** |
+| **The lore a player digs out** | ⭐⭐ **`01` §1.2, the `Ruined / abandoned` modifier, asks it verbatim:** ***"Who left, how fast, and what did they not take? Who is here now who is not a resident? What does the ruin testify to that its living version would have concealed?"*** |
+
+### ⭐⭐⭐ AND THE DESIGN INSIGHT THAT MAKES IT NOT-THIN — **it needs TWO frames, not one**
+
+**Sinheung's `Step 1` established that Mountain Pass is ALIVE during the Second Interwar and a ruin only after
+2812.** ⭐ **So a pass on it has two legitimate subjects:**
+
+| Frame | What it is |
+|---|---|
+| **Second Interwar** *(the ULM default)* | **A working outpost** — *an act of solidarity, functioning; the plateau supplied* |
+| **The present (~2822–2827)** | **The ruin the player walks into** |
+
+> ## ⭐ ***THE ENVIRONMENTAL STORYTELLING IS THE DIFFERENCE BETWEEN THE TWO PASSES.***
+> **"What the ruin testifies to that its living version would have concealed" is not answerable from the ruin
+> alone — it is a subtraction, and you need both terms.** ⛔ ***Write only the ruin and you get "a big metal
+> building," which is the exact failure the developer named.***
+> ⭐ **`01` §1.2 already anticipates the shape:** *under `Contested`, **"two passes may be required, and
+> disagreeing is the correct outcome."*** **Here they would not disagree — they would be separated by the war,
+> and the gap between them is the payload.**
+
+⚠ **Expect thin ATTRIBUTE data and that is fine** — *`NO FORCED FIT` governs, and the Band 0 procedure is built
+for exactly a place whose evidence is physical rather than demographic.*
+⭐ **Canon already supplies an unusual amount for a site this small:** *why it was built, who pushed for it, who
+staffed it, what killed it, and where the ruin sits.* **That is a founding, a motive, a partnership and a death
+— more than most ruins get.**
+
+📎 **Related:** *the Cradle-network model task below · `Airports.md` (Mountain Pass Airport) ·
+`National_Medical_and_Care_Institutes.md` §3 · Sinheung's `01_Inherited.md` §2.4*
+
+## 🟡 UPPER EARTH'S POST-TREATY CONDITION IS UNWRITTEN — *flagged 2026-09-07*
+
+**`Outside-World/Upper-Earth/` holds an empty `Geography.md` and a redirect stub. That is the whole of it.**
+⭐ **A developer proposal now exists for what belongs there — the exile as a hollowing-out of the sending
+nations, and a resulting culture of resentment.** ⏸️ **See `DRQ-16` for the proposal, the arithmetic that
+constrains it, three mechanisms that would carry it, and the one ruling it needs** *(was the exile one-time or
+ongoing?)*.
+⚠ **Rank-1 material — it belongs in the universe repo, not here.**
+
+## ⏸️ POST-DEATH PROCEDURES NEED MORE THAN THE OSSUARY — *flagged 2026-09-07, deliberately deferred*
+
+> **Developer:** ***"There will still need to be a variety of other options for post-death procedures, because
+> humans die much earlier/sooner than robots do, but this is a problem for the future."***
+
+⭐ **The shape of it, recorded in `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`:**
+**robot death is EPISODIC, human death is CONTINUOUS** — *and an ossuary is "what you build when the dead
+arrive together," which humans do not do.* ⭐⭐ **Plus a timing problem from the 2026-09-07 mixed-ossuary
+ruling: the human who loved a robot almost always dies first, so a mixed ossuary cannot be assembled at a
+funeral — it has to be assembled across time.**
+⛔ **Not to be solved by a location pass. The mortuary question stays deferred.**
+
 ---
 
 ## Completed

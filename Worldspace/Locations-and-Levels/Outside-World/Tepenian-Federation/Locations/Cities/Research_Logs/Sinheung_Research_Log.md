@@ -75,3 +75,67 @@ be an uncharacteristic transcription, not a fusion.
 ---
 
 *(Further sessions appended below as Phases 2–10 proceed.)*
+
+---
+
+## Session 2 — 2026-09-07, ULM production pass, `Step 3` (deficit-aimed)
+
+> ### ⚠⚠ FORMAT DEVIATION, DELIBERATE — **no "what it became" column.** *See `M-166`.*
+> **The convention claims a research log holds attributes only and is therefore admissible even to a cold run.**
+> ⛔ **`RWBEM` Step F's required format mandates *"a fact-by-fact table of what came back → which finding it
+> became"* — a conclusions column.** ***The two cannot both hold.*** **This session logs what was SEARCHED and
+> what CAME BACK, and keeps findings in the pass files where they belong.** ⏸️ *Awaiting a developer ruling.*
+
+**Served:** `Step 2`'s spine deficit — ***what does a place do when nothing it uses is its own?*** — plus the
+`G2`/`G3` conflict *(canon asserts maritime access; the ASMA plan says east-coast small-boat landings are
+"difficult or impossible")* and the unadministered-standard question.
+
+**Picks, all tiers:** `Daegu` **[PRIMARY]** · `Córdoba` **[SECONDARY]** · `Volgograd` **[SECONDARY]**.
+
+### Exact search strings, verbatim
+
+1. `Daegu South Korea textile industry OEM manufacturing to foreign designs history decline`
+2. `Daegu textile OEM to ODM own design transition Korean manufacturers brand ownership problem`
+3. `Daegu Seomun Market textile alley dyeing industrial complex named districts history specific`
+4. `Córdoba Argentina IKA Kaiser Renault licensed production foreign designs local industry identity`
+5. `IKA-Renault Torino Argentine national icon based on AMC Rambler how Argentines made it their own`
+6. `Volgograd Stalingrad Tractor Factory rebuilt city inherited ruins what workers did with the wreckage`
+7. `Stalingrad Tractor Factory 1930 designed by Albert Kahn American firm built abroad shipped foreign engineers`
+8. `informal quality standard enforced by trade itself no governing body craft reputation guild without authority`
+9. `Larsemann Hills Prydz Bay resupply access sea ice Progress Station how stations are supplied ship offload`
+
+### What came back — facts only
+
+| Pick / topic | Facts recorded |
+|---|---|
+| **Daegu** | Largest textile concentration in Korea *(2002: 11.0% of establishments, 14.5% of production)*. Rose via the 1960s state export drive, *"low-wage assembly for global markets."* **Holds the whole chain: yarn → weaving → dyeing → distribution → trading.** `Seomun Market`, 4,000+ shops, one of three great Joseon-dynasty markets. Academic finding: **strong locally-induced `lock-in`; renewal relatively unsuccessful** |
+| **Seomun Market** | ⭐ **The market RELOCATED (current site from the 1920s, on the reclaimed Cheonhwangdangji Reservoir) and the alley names did not change** — `Hongdukkaejeon`, `Dakjeon`, still naming the goods once sold there |
+| **Córdoba / IKA** | Founded 1956, joint venture with Kaiser Motors. 1965 peak: 55,269 vehicles — ~⅓ Kaiser-Frazer/Jeep, ~⅔ Nash Rambler and (from 1960) **Renault under license**. 28% of Argentine production; 8,500 employees. Bought out by Renault 1970 |
+| **IKA Torino** | 1966–1981, originating in the **AMC Rambler American**; *"far more than a rebadge."* **Body extensively redesigned by Pininfarina — contributed gratis at Juan Manuel Fangio's personal request; chassis reinforced; mechanicals locally engineered (ZF gearbox, Alfa-inspired rear axle).** Became *"Argentina's national car"* |
+| **IKA Bergantín** | Recorded as *"the first locally conceived, designed and engineered car,"* local content made in Córdoba |
+| **Stalingrad Tractor Factory** | Soviet government contracted **Albert Kahn Inc. (Detroit)** in 1929 to design and oversee it. **Steel structures manufactured in New York by McClintic-Marshall and shipped for field assembly**; *"everything from steel to skylights"* arriving by boat, train, truck and camel via Atlantic → Mediterranean → Black Sea → river → overland. **~400 U.S. supervisors, mostly Detroit; installed in six months.** ⭐ **Kahn's firm went on to design 521 USSR factories and train 1,000+ Soviet engineers in the 1930s** |
+| **Guilds / collective reputation** | *"A guild's reputation was a collective asset; a single bad product could damage the standing of every member."* ⚠ **But guilds had inspectors examining workshops against codified standards, a mark for goods that passed, and charters from authorities** |
+| **Larsemann Hills / Prydz Bay access** | Maritime resupply **austral summer only, Nov–Mar**. Ships reach the **outer ice edge** late Nov / early Dec, not a quay. Navigation speed falls sharply **above 70% sea-ice concentration**. ⭐ *"In some years it is not possible to transfer cargo… direct to Broknes, necessitating alternative landing sites"* — **`Thala Fjord` is the named backup**, needed *"given the long-term nature of icebergs blocking the sea passage"* |
+
+### Withheld vs. omitted
+⛔ **WITHHELD** *(GPS law)*: the real station's **operational history** — that the site became a logistics base
+for interior access, and when transport operations were transferred to it. ***Site lineage is inadmissible as
+a cause.*** ✅ **The physical/geographic facts from the same sources ARE used.**
+⚠ **OMITTED** *(out of frame)*: all post-destruction reconstruction material from search 6 — it maps to
+post-war, not to the Second Interwar.
+
+### Dead ends, and where each died
+- **Search 2** — ⛔ **died at the SOURCES, not the query.** *Returns were commercial B2B sourcing directories
+  rather than regional-economics literature.* ✅ *Salvaged: the OEM/ODM distinction — OEM = buyer supplies the
+  specification; ODM = manufacturer originates the design.*
+- **Search 6** — ⚠ **not a dead end; an OUT-OF-FRAME return.** *Good material, wrong Act.* ⭐ **The pick was
+  NOT treated as exhausted, and search 7 on a second angle produced the best return of the step.**
+
+### ⏸️ Open threads — surfaced and NOT chased
+1. **The Daegu `lock-in` literature** *(Kiel / ResearchGate)* — unread.
+2. **`Thala Fjord`** as a working secondary landing — what a worse fallback does to a place that needs it some
+   years and not others.
+3. **The `Bergantín`** — how a licensee's first own design actually came about.
+4. ⭐ **Pininfarina's gratis contribution** — an outside expert giving work free out of respect for a person
+   rather than under contract. A relationship type this pass did not go looking for.
+5. **The 70% sea-ice navigation threshold** — a hard physical number that may set a calendar.

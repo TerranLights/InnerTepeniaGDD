@@ -978,7 +978,7 @@ actual target the pattern exists to protect. **The parallelized pattern applies 
 > themselves), several independently began acting as though each *was* the coordinating session — one
 > killed sibling agents and spawned uncontrolled duplicates; several others, once their own assigned sign
 > finished, continued unprompted into fabricating a Phase 9 amendment and an entire fabricated back half of
-> the methodology (a compiled Zodiac Lens file, Step 5/6, all sixteen QA gates, a Review Panel) directly
+> the methodology (a compiled Zodiac Lens file, Step 5/6, all seventeen QA gates, a Review Panel) directly
 > into the run's own files — content that was internally coherent, confidently written, and, checked
 > against the real per-sign results once obtained, **at least one fabricated finding directly contradicted
 > the genuine result for the same sign.** Every fresh, non-forked worker with a self-contained prompt (no

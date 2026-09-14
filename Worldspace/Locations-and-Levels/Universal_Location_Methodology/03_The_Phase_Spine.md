@@ -274,6 +274,31 @@ unblock itself.** Both cost more than the deferred check was ever worth. **If a 
 
 **Asks:** *What kind of thing is this, at what scale, in what state, in what era, and inside what?*
 
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** `Repo_Scope.md` *(once per project)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Repo_Scope.md`
+> - **U** Timeline eras
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/`
+> - **P** `Official_Population_Census.md` + location registries
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
 **Produces no location content.** Its entire output is the declaration block from `01` §6 plus the generator
 selection from `02` §5.1. It exists because every subsequent phase question is ambiguous without it.
 
@@ -295,6 +320,37 @@ before the writing starts.
 # PHASE 1 — CONSTRAINT & CAPABILITY *(the spine)*
 
 **Asks:** *What can this place do without trying, what can it not do at all, what must it keep paying, and what
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** Location canon
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/`
+> - **P** `Specs/` — *incl. its closed-set `**Access type:**` token*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`
+> - **P** `Energy_Grid_Failure_Rationale.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Energy_Grid_Failure_Rationale.md`
+> - ⭐⭐ **CLIMATE** — ⛔ **files are named for the REAL-WORLD STATION, not the city. Search by the ALIAS SET or you will get a false negative**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`
+> - **Stations**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Stations/`
+> - ⭐ **`16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures.** ⛔ `QUERYABLE-BY-SCHEMA`; **never `grep` it by subject name**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
 does it permit but punish?*
 
 **The whole of `02` is this phase's reference.** Everything downstream hangs on it.
@@ -346,6 +402,32 @@ appendix for what the ruin still does to visitors.
 
 **Asks:** *Who is actually here, in what proportion, from where — and by what route did they come to be here?*
 
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** ⚠⚠ **`No_National_Stereotypes.md` — BINDING**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`
+> - **U** Falkland Treaty — the founding instrument
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Falkland_Treaty/`
+> - **P** `Official_Population_Census.md` — ⛔ *"diaspora/affinity files" resolves to NOTHING ADMISSIBLE for a city pass: the only candidate on disk maps cities to a **single named parent city's internal districts**, which `§C.8d` forbids as an input. Composition comes from the census alone. See `M-173`*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md`
+> - ⭐⭐ **THE SEQUENCING RULING governs this phase and Phases 8, 9, 10** — *once composition is established, origin-ethnicities and ethnic-cultures MAY be used.* ⛔ **Refusing all ethnic material is a MISREADING that produces placeless cities**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
 **Restores** city template §1 (composition) and §7 (who this place attracts and repels), neither of which the
 district set inherited as a phase.
 
@@ -390,6 +472,35 @@ minority"* — and check it against siblings.
 
 **Asks:** *What is this place made of, and what is it like to be inside it — to the eye, ear, nose, and skin?*
 
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **P** ⭐ **Climate — alias-keyed**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`
+> - **P** `Specs/`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`
+> - **P** **Concept art** ⚠ *only 4 of 37 cities hold images; the rest are empty `.gitkeep` folders*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/`
+> - **P** `Davis_Geosciences_Research/` *where applicable*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Davis_Geosciences_Research/`
+> - ⛔⛔ **`*_Physical_Infrastructure_Attributes.md` live in `City_Megasheets/`, which the STANDING FACTS WITHHOLD from every run. Record the conflict; do not open it**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Megasheets/`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
 **Inherits** district Phase 1 (Architecture, Sensory Profile) and city template §9, §14, plus §3–4 (climate
 character, seasonal rhythms), which the district set dropped because thirteen districts share one climate.
 
@@ -422,6 +533,40 @@ look like).
 # PHASE 4 — ORDINARY LIFE
 
 **Asks:** *What is an ordinary person's day here, apart from what this place is famous for?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⭐⭐ **`Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`
+> - `Robot_Cold_Physiology.md` — ⚠ **the NARROW companion; read the file above FIRST** *(`M-151`)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md`
+> - ⭐ **`16` Half B — baseline / mandated / FREE tiers**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
+> - ⭐ **`09` §3.5 — THE FREEDOM GRADIENT**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/09_Per_City_Baseline_Run.md`
+> - `11_Caloric_Rebuild_and_Livestock_Tier.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md`
+> - ✅ **`National_Medical_and_Care_Institutes.md`** *(locked-canon)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md`
+> - **P** `National_Economy_and_Currency.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`
+> - ⛔ **`City_Logistics.md` REMOVED from this phase 2026-09-06** *(`M-152` — it is scoped to ONE named city's own logistics reference, so registering it as a general per-location target was wrong)*. **Do not re-add**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
 
 **The best generator in the district set**, and promoted here to run as early as its dependencies allow.
 
@@ -469,6 +614,37 @@ the file** for every other phase (`04` Gate 3).
 # PHASE 5 — RELATION & GEOMETRY *(the restored phase)*
 
 **Asks:** *What is this place to the places around it, to the thing that contains it, and to anyone crossing its
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** Location canon + routes
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/`
+> - **P** `Highways.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Highways.md`
+> - **P** `Airports.md` · ⭐ `Ports.md` · ⭐ `Geothermal_Heating.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/`
+> - **P** `City_Cross_Subnet_Relationships.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Cross_Subnet_Relationships.md`
+> - **P** `City_Relationship_Database.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md`
+> - **P** `City_National_Connections.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_National_Connections.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
 edge?*
 
 **This phase exists because its absence was measured.** It restores city template §23 and closes the hole `00e`
@@ -574,6 +750,32 @@ usually what it is like to have relations with places that do not have a relatio
 # PHASE 6 — MEANING
 
 **Asks:** *What does this place believe, what does it hold sacred without saying so, and what does it do about
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⚠ **Robot religions — CHECK BEFORE INVENTING A BELIEF.** ⭐⭐ **THE ROSTER IS OPEN.** ⛔ *A `grep` returning ZERO is a RESULT, not a gap*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/Robot_Religions/`
+> - `National_Holidays.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Holidays.md`
+> - ⭐ **`Ice-Cold_Buddhism_Research/`** *(7 files)* ⚠ *the faith's name is a placeholder*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Ice-Cold_Buddhism_Research/`
+> - ⛔ **the deferred MORTUARY question — RESERVED, do not answer it**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
 death?*
 
 **Process.**
@@ -635,6 +837,51 @@ divergent funerary traditions in one shared environment, which is its own differ
 # PHASE 7 — ORDER
 
 **Asks:** *How does this place organize work, decide things, pass on skill, and handle the people who do not
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⭐⭐ **`Division_of_Industry/` — PRIMARY for `7a`; strongest `G3` supply in the project.** ⛔ **READ ITS `README.md` CARVE-OUTS FIRST**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/`
+> - Figures — **`16` Half B**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
+> - Gaps — **`Division_of_Industry_Sweep_2026-08-31.md` §4.4**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry_Sweep_2026-08-31.md`
+> - Inputs — `01_Burden_Scoring_Model.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/01_Burden_Scoring_Model.md`
+> - Inputs — `08_Volume_Based_Requirement_Reference.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/08_Volume_Based_Requirement_Reference.md`
+> - `National_Medical_and_Care_Institutes.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md`
+> - `Theoretical-Calculations/`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Theoretical-Calculations/`
+> - ⭐ **`Industry_Staffing_and_Productivity/`** — ⚠ *SOC tier-marking is ADDITIVE, never a replacement*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Industry_Staffing_and_Productivity/`
+> - ⭐ **`jobs_professions_and_fields/` (SOC)**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/jobs_professions_and_fields/`
+> - **P** `National_Economy_and_Currency.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`
+> - **P** `City_Logistics.md` ⚠ **Scoped to one named city; only its DUAL ECONOMY and currency-pointer sections are general** *(`M-152`)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/City_Logistics.md`
+> - **P** `Factions/` — the `7d` canon check · criminal-justice canon
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/`
+> - **U** `Megacorps/`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Megacorps/`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
 fit?*
 
 **Restores** city template §15 (division of industry) and §21 (political character), and takes prohibition and
@@ -705,6 +952,29 @@ is the maintenance machinery of the thin shared layer.
 
 **Asks:** *What does this place cook, sing, wear, build, play, and say?*
 
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - ⚠⚠ **MANDATORY before ANY siligel / coolant / Glitch-Coolant claim**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/`
+> - `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Weapons_and_Tools_Philosophy.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
 **Governing discipline: native, not transplanted.** This phase covers what the location **itself developed**.
 Read the composition material to know what to write *around*.
 
@@ -753,6 +1023,33 @@ as decoration without them.
 
 **Asks:** *What is life here like for each distinct kind of person present, and how do those kinds relate?*
 
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** ⚠⚠ **`Laws_of_Robotics.md`** — *binding*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md`
+> - **U** ⚠⚠ **`Robot_Universals/`** — ⭐ **Ch. 13 (city as seat of identity) · Ch. 14 (Gen/Mark)**
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/`
+> - **U** `Doll_Representation_Categories.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md`
+> - **P** human-robot relations baseline
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
+
 **Generalizes** district Phase 8 (Robot-Specific Culture) and city template §16–17 from "robots and humans" to
 **whatever population categories the setting actually contains.** In this project that is robots and humans; the
 project's own representation framework names four categories of which only one is in use, and any future project
@@ -796,6 +1093,32 @@ permanent/rotational rather than by kind, and that split may matter more.
 # PHASE 10 — CATALOG
 
 **Asks:** *What is actually here — named, specific, and enterable?*
+
+> ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
+> *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
+
+> - **U** Characters canon
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Characters/`
+> - **P** `Enneagram_Character_Index.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Characters/Enneagram_Character_Index.md`
+> - ⭐ **Zodiac Lens — `Zodiac_Signs_Full_Attributes.md`** *(the technique named the substrate folder and never registered this one)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Zodiac_Signs_Full_Attributes.md`
+> - ⛔ **NO INVENTED PERSON NAMES — role placeholders permanently**
+> 
+> ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
+> 
+> ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
+> **A short section at the head of the phase file recording: ✅ what was OPENED · ⛔ what was REFUSED and why ·
+> ⚠ what was `n/a` for this location and why.** ⛔ **In the PHASE FILE, never only in a log** — *a source read
+> and cited only in a log is invisible to everything downstream.*
+> ⚠ ***"I did not look, and it turned out to be empty" is not the same result as "I looked, and it was
+> empty"*** — **and only the second is a finding a later pass can rely on.**
+> ⭐ *This convention was invented by a completed pass, used across six of its phases, and never promoted —
+> so the next pass did not inherit it and failed on the axis it protects.*
+
+
+
+
 
 **The systematic follow-through on everything above**, and what gives every other phase somewhere to happen.
 

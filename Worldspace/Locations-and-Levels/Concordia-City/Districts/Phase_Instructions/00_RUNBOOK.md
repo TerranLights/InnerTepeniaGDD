@@ -1,5 +1,42 @@
 # RUNBOOK — Running One District, Start to Finish
 
+> # ⛔⛔ STOP — CHECK THE CLOCK BEFORE RUNNING THIS RUNBOOK.
+>
+> ```bash
+> date +%H
+> ```
+>
+> | Hour | Action |
+> |:-:|---|
+> | **05–13** | ✅ **RUN NORMALLY** |
+> | **14** | ⚠ **WRAP-UP ONLY** — close out, write it down. ⛔ **Do not open a new phase or district** |
+> | **15–04** | ⛔ **DO NOT RUN DISTRICT CULTURE WORK.** Say the hours, say the time, and stop |
+>
+> **Standing law — developer ruling 2026-09-13, scoped to district work the same day, verbatim:**
+> > *"**District culture work is definitely restricted to happening within declared hours (because district
+> > culture work is definitely worldbuilding).**"*
+>
+> ⭐⭐ **The restricted category is WORLDBUILDING — not a list of methodologies.** Four instruments do it:
+> **`ULM` · `CST` · `RWBEM` · this district methodology.** The test that generalizes:
+> ***does this work DERIVE or RECORD a claim about a PLACE, a PEOPLE, or their CULTURE?*** **Yes → in-hours
+> only.**
+>
+> ✅ **NOT restricted, any hour:** perks, traits, skills, Fragmentation mechanics, systems, catalogs, bug
+> fixes, tracker hygiene. Developer: *"that stuff is simple and can be easily addressed in a few lines."*
+>
+> ### Why — in the developer's own words
+> > *"I find that you're able to produce the best, most detailed, most accurate-to-spec results during the
+> > early-morning up until around mid-day… **I don't derive any sort of joy or satisfaction from yelling at
+> > another person; I really don't like doing it.** So, we're only going to run this process during the hours
+> > of the day when you've consistently, reliably produced results to the degree of quality that I demand."*
+>
+> ⭐ **A QUALITY CONTROL, not a schedule preference** — it removes the conditions that produce work the
+> developer would have to object to. ⛔ **Asked to work outside the window: say the hours, say the time, and
+> ASK.** Do not quietly proceed; do not quietly refuse. **Only the developer waives it.**
+> ⚠ **A session that starts in-window can drift out.** Re-check at natural boundaries.
+>
+> **Full statement:** `Universal_Location_Methodology/MASTER_Process_Tracker.md` §SESSION BOOT.
+
 > # ⛔⛔⛔ BINDING — **CULTURE, ETHNICITY AND THE TEPENIAN IDENTITY TIMELINE.** *Added 2026-09-06; applies to district work exactly as it applies to city work.*
 >
 > ⭐ **Full statement: `TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`** ·

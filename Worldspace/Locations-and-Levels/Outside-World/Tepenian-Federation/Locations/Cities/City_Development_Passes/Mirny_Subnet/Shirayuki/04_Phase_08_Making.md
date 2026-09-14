@@ -300,3 +300,122 @@ that a later ruling would have to unpick.*
 reframed** — the robot origin assignment is defensible for Act 1 and vacuous for Act 2, and the table has no
 date column. It must NOT be inherited as settled.*
 📎 `00_Frame.md` · `02_Spine.md` · `03_Research.md` · `04_Phase_02…07` · `09.5_Log.md`
+
+---
+
+# ⭐⭐⭐⭐⭐ ADDENDUM 2026-09-07 — **THE ORIGIN-STOCK LAYER, DISCHARGED AT LAST**
+
+> ## ⛔ WHAT THIS CLOSES
+> **`04z_Post-Ruling_Enrichment_Review.md` §7 recorded that this phase had refused all origin-stock material
+> *"for eleven pieces on a misreading,"* declared it admissible, and deferred the writing — correctly:**
+> ***"Writing them properly is PHASE work, not review work."*** ⛔ **The cuisine and sector rows were partly
+> discharged into `Phase 10`; the MUSIC and DRESS rows never were; and `09_Record.md` carried no trace.**
+> ⚠ ***A deferral that no record carries forward has become an omission*** *(`M-171`)*. **This discharges it.**
+
+## ⚠ THE PRECONDITION IS MET, AND THE GUARDRAIL IS THE POINT
+
+**`§C.9b`: once composition is established — *which `Phase 2` did* — origin-ethnicities and ethnic-cultures MAY
+be taken into consideration.** **Japan is Primary at `36.27%`; this is a Japan-FOUNDED Tepenian city.**
+
+> ### ⛔⛔ AND `§C.9d`'s GUARDRAIL, BECAUSE THIS IS EXACTLY WHERE IT GETS DROPPED
+> ***STOCK IS AN INPUT, NEVER AN OUTPUT.*** **The live risk is no longer placelessness — it is `Step 3.5`'s
+> transcription failure: *"a costumed version of somewhere real."***
+> ⛔ **And the elapsed time does no work here.** *Time is constant across every city in the setting, so a finding
+> reasoned from it would come out identically everywhere.* ⭐ **The operator's other five inputs do the work:
+> separation · this environment · this city's struggles · its goals · its habits.**
+> ⚠ **`04z`'s own block stands: canon says the arts culture is *"explicitly, canonically NOT founded for
+> art/music"*** — ⛔ ***so no origin ARTISTIC tradition explains the sector. What the stock supplies is
+> MAINTENANCE TECHNIQUE, which is a different thing.***
+
+---
+
+## A.STOCK · ⭐⭐⭐⭐⭐ CUISINE — **the intersection `04z` predicted, and it is over-determined**
+
+**The stock's relevant property is not a menu. It is that its preservation tradition GRADES FOOD BY HOW LONG IT
+HAS BEEN KEPT** — *a pickling practice whose classes are durations, a fermented seasoning whose worth is its
+age, a dried-and-smoked protein whose entire production is measured in months of deliberate waiting.*
+
+| The three that meet here | |
+|---|---|
+| ⭐ **The stock** | *a preservation tradition that already treats **duration as a quality**, not as a compromise* |
+| ⭐⭐ **The axis** *(this phase, `§A`)* | **DEFERRAL — what could wait.** *No shore, `~8 km` inland; what arrives is the half that survived being deferred* |
+| ⭐⭐⭐ **The civic belief** *(`Phase 6` §A)* | ***"Nothing here is old. Things are only well-kept."*** **What is kept is what has standing** |
+
+> # ⭐⭐⭐⭐⭐ **SO THE FOOD DID NOT HAVE TO BE RECONCILED TO THIS PLACE. IT ARRIVED ALREADY AGREEING WITH IT.**
+> **A tradition that measures worth in keeping, landing in a city that receives only what keeps, among people
+> who believe keptness IS standing.** ⭐⭐ ***Three independent routes to one proposition — which is why `04z`
+> called the convergence "over-determined rather than coincidental."***
+
+### ⭐⭐⭐ AND THE DIVERGENCE — *what `250` years of THIS place did to it, without the clock doing the work*
+
+| Operator input | What it changed |
+|---|---|
+| ⛔ **Separation + no shore** | ***The tradition's fresh half is simply gone.*** *A preservation culture arrives with a counterpart — the seasonal, the immediate, the eaten-today — and this city receives cargo somebody else's berthing order deferred.* ⭐ **What was one half of a pair became the whole of a cuisine** |
+| **This environment** | *An erosive, abrasive climate and a four-month window* — **so the keeping is not nostalgic craft; it is the supply chain** |
+| ⭐⭐ **Local goals and habits** | **The stock's grading vocabulary for duration met a city that already inspects everything** *(`§F.1` — the vocabulary as the uncertified system's registry)*. ***The two vocabularies are the same vocabulary*** |
+
+⚠ ⛔ **NO DISH IS NAMED, and that is deliberate** — *naming one would be transcription.* ⭐ **What is claimed is a
+TECHNIQUE CLASS and what this place did to it.**
+
+---
+
+## C.STOCK · ⭐⭐⭐⭐ MATERIAL CARE — **the sector's technique has a provenance, and it is not aesthetic**
+
+**`Phase 7` `7a` named the city's largest single skill: *"surface care and conservation — polish without
+scratching, where doing it wrong does the harm."***
+
+> ### ⭐⭐⭐ THE STOCK SUPPLIES EXACTLY THAT TECHNIQUE CLASS, AND ONLY THAT
+> **A tradition of maintaining finished surfaces without abrading them** — *lacquered and sealed surfaces
+> renewed rather than stripped; edged tools kept by progressive polishing; repair treated as continuation
+> rather than concealment.* ⛔ ***That is maintenance practice, not an art movement.***
+> ✅ **So it explains the SKILL without touching the sector's founding** — **which canon rules was not for
+> art/music.** ⭐ **`04z`'s guardrail is honored exactly: the stock explains the HAND, never the PURPOSE.**
+
+⭐⭐ **And the divergence is sharp:** *in the stock this technique is applied to a small number of precious
+objects.* ⛔ **Here it is applied to a whole built environment, outdoors, by `25%` of a city, against weather
+that erodes continuously.** ***A conservator's practice became municipal infrastructure.***
+
+---
+
+## D.STOCK · ⭐⭐ DRESS — **the two wardrobes get a provenance, and it is a modest one**
+
+**`§D` derived TWO WARDROBES from function, and that stands unchanged as the general answer.**
+⭐ **The stock contributes one thing: a garment culture that already distinguishes *the kept good* from *the
+worn daily*, and treats the first as maintained rather than saved.**
+
+⚠ ⛔ **This does NOT make the wardrobes an inheritance.** *The function derived them; the stock explains why the
+distinction was legible to this population from the start rather than being learned.* ⭐ **An inherited
+disposition meeting an independent physical requirement — not a transplant.**
+
+---
+
+## B.STOCK · ⚠ MUSIC — **`04z` said `00b` binds hardest here, and it does. The answer stays SMALL.**
+
+**`§B`'s general answer — physical, and the private half physically expensive — is UNCHANGED and remains the
+phase's music finding.**
+
+> ⛔ **The stock is available and is deliberately NOT spent.** *Reaching for an origin musical tradition here
+> would do exactly what `00b` forbids: substitute a vivid narrow practice for the general condition already
+> derived.* ⭐ ***Recorded as an explicit refusal, not an omission*** — **`04z` listed this row as "stock
+> available," and the disposition is: available, weighed, declined.**
+
+---
+
+## F.STOCK · ✅ LANGUAGE — **no change, and `04z` already said so**
+
+⭐ **`04z`: *"Phase 8 correctly claimed the SHAPE and minted no terms."*** ✅ **That remains correct.**
+⭐⭐ **What the addendum adds is provenance, not vocabulary:** *the keptness registry's fine-grained
+condition-grading is **built from** the stock's own material-care vocabulary, diverged* — ⛔ **and no term is
+coined here, because coining one would be the transcription failure in its purest form.**
+
+---
+
+# ▶ WHAT THIS ADDENDUM DID NOT DO
+
+| ⛔ | |
+|---|---|
+| **Name a dish, a garment, an instrument or a word** | *every one would be transcription* |
+| **Explain the arts sector by an origin artistic tradition** | ⛔ **canon forbids it** |
+| **Reason from the elapsed time** | *constant across the setting; it differentiates nothing* |
+| **Touch `§B`'s general music answer** | ⭐ *the stock was weighed and declined* |
+

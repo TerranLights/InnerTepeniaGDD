@@ -82,8 +82,18 @@ piece is and where it lives; the file named in each section is the authority on 
 | **P** | **Parent reconciliation** | Does it agree with what contains it? |
 | **G** | **Generator honesty** | Is each finding attributed to the generator that actually produced it? |
 
-⚠ **Count note:** *`CLAUDE.md` says "sixteen — 0–11 plus C · F · I · P · G." **That enumerates 17.*** *Likely
-because **Gate 10 IS Step 8** and is counted once. Recorded, not silently resolved.*
+✅ **Count note — RESOLVED 2026-09-07. The count is SEVENTEEN.** *This note previously read: "`CLAUDE.md` says
+'sixteen — 0–11 plus C · F · I · P · G.' That enumerates 17. Likely because **Gate 10 IS Step 8** and is counted
+once. Recorded, not silently resolved."*
+
+**The hypothesis was wrong, and the real cause is duller and more useful:** `04_QA_Gates_and_Differentiation.md`
+titled its second section ***"Part II — The four new gates"*** while **five** gates sat under it. **12 carried +
+"4" = 16.** *Gate `G` was never a late addition — it and that heading entered in the SAME commit (`e938061`,
+2026-08-30), so the miscount was present on the methodology's first day and propagated by copying.*
+
+⭐ **Nothing procedural was ever affected:** the first completed city pass ran all seventeen (`G01`–`G17`,
+verified by label extraction 2026-09-07). **A wrong count sentence never subtracted a gate from a run.**
+*Fixed at the root and in `CLAUDE.md`. See `M-167` for the instances deliberately left alone.*
 
 ---
 

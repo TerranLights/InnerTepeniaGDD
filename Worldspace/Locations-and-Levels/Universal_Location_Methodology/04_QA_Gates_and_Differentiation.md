@@ -280,9 +280,16 @@ and **whose behavior am I actually describing?**
 
 ---
 
-# Part II — The four new gates
+# Part II — The five new gates
 
 These have no district equivalent because the district set had no type, band, frame or parent variation.
+
+> ⚠ **This heading read "the four new gates" from 2026-08-30 to 2026-09-07 while five gates — `C · F · I · P · G`
+> — sat underneath it.** **It is the ROOT of the project's gate miscount:** *12 carried + "4" = the "sixteen"
+> that reached `CLAUDE.md`, the `README`, and several pass records.* **The gate SET never changed; only the
+> count sentence was ever wrong.** *Verified 2026-09-07: `Gate G` and this heading entered in the SAME commit
+> (`e938061`), so no gate was ever added late, and the first completed city pass ran all seventeen. See
+> `M-167`.*
 
 ## Gate C — Canon check, federated
 
@@ -558,3 +565,357 @@ sole polity, a one-off megastructure.
   on anything.** The district gates each descend from a named pass that went wrong. These do not. **The first
   several real runs should be treated as tests of the instrument as much as of the location**, and every gate
   that fires — or conspicuously fails to — should be recorded here with the location it happened on.
+
+---
+
+# Part V — INSTRUMENTS ON TRIAL
+
+> ## ⚠⚠ NOTHING IN THIS PART IS LAW. **It is a proposal with a stated falsification condition, awaiting a second location.**
+> **Added 2026-09-11 at the developer's direction:** ***"append it as a test, so that we can see how it flies
+> on a different city to see if the same defects still happen."***
+>
+> ⛔ **Do not cite Part V as binding. Do not enforce it in a review.** A pass that ignores it entirely is not in
+> violation of anything. **Its only obligation is on the pass that agrees to run the trial, and that obligation
+> is to RECORD, not to comply.**
+
+**Why this Part exists in this form rather than as a new rule:** Part IV, above, says a perfect prediction
+record from a self-grader is house style rather than evidence, and names two things that would restore it as a
+test — ***"run a location chosen because it looks least likely to conform, or state in advance what observation
+would falsify each rule. Prefer the second — it costs nothing and it is the one that has never been done."***
+
+> ### ⭐⭐⭐ **THIS IS THAT, DONE FOR THE FIRST TIME.** **The falsification condition below was written BEFORE the second location ran.**
+
+---
+
+## V.1 — THE DEFECT BEING TRIALED AGAINST
+
+**Found on `Zhongshan_Opus`, Step 7, 2026-09-11, by an audit seeded from a single defect caught by accident
+three steps earlier.** **Four quotations in the pass did not match their cited source.**
+
+| | |
+|---|---|
+| **Class** | ⛔ **Three are tightening ELISIONS with no `…` marker** — words removed. **One ADDS words**: a table's column header welded onto a body cell to manufacture a sentence |
+| ✅ **What none of them is** | **A fabrication.** Every one has a real source saying substantially the same thing. **Citation hygiene, not reasoning** — no pass finding changed |
+| ⭐⭐ **The locus, which is the whole finding** | ⛔ **ALL FOUR ARE IN TABLE CELLS.** Index rows, register rows, lens rows. ***Not one is in running prose*** |
+| ⭐⭐⭐ **The control that proves the container is the variable** | **The same sentence appears TWICE in the same file in the same session** — `04_Phase_09` **L229**, in prose, **quoted in full and correctly**; `04_Phase_09` **L32**, in a cell, **two phrases dropped** |
+
+> ## ⛔ **SO THE MECHANISM IS NOT CARELESSNESS AND NOT MEMORY. IT IS LAYOUT PRESSURE.**
+> **A table cell wants a short quotation, and `…` is the cheapest character to drop when the cell is already
+> crowded.** ⭐ **Which is why the deletions are not random — each removed exactly the qualifier that was
+> costing horizontal space:** *`specifically` · `so` · `of a solution` · `herself`.*
+
+### ⚠ And the reason it went ten phases undetected: the check was named but never written
+
+```
+mentions of "quotation audit" across the ULM, 2026-09-11:
+  03_The_Phase_Spine.md                              11
+  Stepwise_Execution/01_Spine/S06_Step_4...           1
+  PRE-TRIP_INSPECTION_RECIPE.md                       1
+  00_RUNBOOK.md                                       1
+  Test_Runs/OBSERVATIONS_and_Methodology_Findings     1
+
+  files DEFINING how to run it:  0
+```
+
+> **Every one of the fifteen is the same `M-169` sentence — *"it passed the spelling sweep, the table check,
+> the contradiction gate, THE QUOTATION AUDIT and the swap test."*** ⛔ ***A check that existed only as a name
+> in a list of checks that were passed.*** **`M-121` again: registered globally is not registered at the point
+> of use.**
+
+---
+
+## V.2 — THE THREE PROPOSALS, in descending order of expected strength
+
+**Ordered by `00_RUNBOOK.md`'s own principle:** ***"Every other fix in this methodology ADDS a control. This
+one DELETES THE SURFACE. A control can fail. An absent leak cannot."***
+
+### ⭐⭐⭐ T1 — DELETE THE SURFACE
+
+**Index, register and summary rows carry a `file:line` pointer plus a 3–5 word tag — never a quoted string.**
+**The quotation lives once, in full, in the prose where the argument is built.**
+
+⭐ **This form is already law for a different purpose and needs EXTENDING, not inventing** — `00_RUNBOOK.md`
+L247: *"cross-referenced by a **BARE POINTER — never quoted inline**,"* with this very file named as *"the
+model to copy."* **It was written for `Test_Runs/` quarantine. The surface it does not currently cover is the
+ordinary index table, which is every phase file in the methodology.**
+
+⚠ **SCOPE IT HONESTLY — a blanket ban has a real cost.** **In a Zodiac Lens row the quotation IS the object
+under analysis, not a pointer to one; banning it there breaks the instrument.** **Those rows go to `T2`.**
+
+### ⭐⭐ T2 — INVERT THE DEFAULT
+
+**Where a cell legitimately carries a quotation, the COMPRESSED form is the default rendering** —
+`"…hard shell built…underneath is soft…"`, leading and trailing ellipsis by convention. **Completeness must be
+actively asserted to remove them.**
+
+> ⛔ **Right now the low-effort path is the dishonest one.** ⭐ **This inverts it: the lazy form becomes the
+> honest form, and producing the defect requires positive effort rather than merely relaxing.** **It is the
+> only one of the three that works WITH the pressure instead of against it, and it is therefore the one most
+> likely to survive a tired phase.**
+
+### ⭐ T3 — MECHANIZE, AND AT PHASE CLOSE
+
+✅ **`Tools/quotation_audit.py`** — **written 2026-09-11, validated, and promoted out of a session scratchpad
+that would have deleted it.** **Run it at the close of EVERY PHASE, not once at Step 7**, which is where these
+four sat undetected across ten phases.
+
+**Its three design properties are the transferable asset — each descends from a recorded failure of the
+instrument itself, and they are why the third attempt worked where the first two produced garbage:**
+
+| | Property | The failure it descends from |
+|---|---|---|
+| **1** | **Normalize hard** — dashes, curly quotes, `*`` ` ``_[]>\|#`, emoji, whitespace, **and case** | ⛔ **Run 1 reported `234/430` missing.** Prose is hard-wrapped; blockquote `>` and table `\|` markers land at different wrap points in source and pass. **`grep -o` returns false negatives SILENTLY** |
+| **2** | **Exclude the pass's own folder** | ⛔ *Otherwise a quotation validates against itself and every quote "passes"* |
+| **3** | ⭐⭐ **HARD positive controls AND a negative control** | ⛔⛔ ***Run 1's controls passed only because none of them spanned a wrap.*** **An instrument whose positive controls are all easy reports zeroes you cannot trust** — *Part IV's first bullet, met in the wild* |
+
+> ### ⛔ THE PROPOSAL THAT IS **NOT** BEING TRIALED, named so it is not reached for
+> **Restating *"always mark elisions with `…`."*** **It is the obvious move and it is worthless here — the rule
+> was already known and already binding when all four defects happened.** `00_RUNBOOK.md` L81 has already
+> measured this exact shape once: **the rule was written, in the file that stated the rule, and the error
+> happened in it anyway.**
+
+---
+
+## V.3 — ⭐⭐⭐ THE FALSIFICATION CONDITION, STATED IN ADVANCE
+
+**The baseline, produced by `Tools/quotation_audit.py` against `Zhongshan_Opus` on 2026-09-11 — the pass the
+defect was found on, and therefore the pass that must NOT be corrected:**
+
+```
+pass audited : Zhongshan_Opus
+corpus mode  : default (own pass excluded)
+corpus files : 4685   chars: 34,936,551
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+fragments tested (single-line, ellipsis-split, >=7 words): 212
+NOT FOUND in corpus: 49
+  of those, in TABLE CELLS : 32
+  of those, in PROSE       : 17
+
+  CONFIRMED AT SOURCE AS REAL DEFECTS: 4   -   ALL FOUR IN CELLS, NONE IN PROSE
+```
+
+⚠ **Read the raw numbers honestly: `212/49` here against the `194/41` recorded in the pass's own `07_QA_Gates.md`.**
+**The difference is `07_QA_Gates.md` itself**, which did not exist when the first run was made and which quotes
+all four defects in order to report them. ⛔ **An audit file inflates its own pass's miss count. Expected, and
+recorded rather than tuned away.**
+
+> # ⛔⛔ WHAT WOULD FALSIFY EACH PROPOSAL
+>
+> | | **Confirmed if the next pass shows…** | ⛔ **FALSIFIED if the next pass shows…** |
+> |---|---|---|
+> | **T1** | **Confirmed defects in cells fall toward zero while prose stays clean** | ⛔ **Confirmed defects appear in PROSE at a comparable rate.** *Then the container was never the variable, the mechanism is not layout pressure, and the whole diagnosis is wrong* |
+> | **T2** | **Cell quotations carry `…` by default and the confirmed-defect count drops** | ⛔ **Writers silently drop the default ellipsis too** — *in which case the honest form was not actually the lazy one and the inversion failed* |
+> | **T3** | **The audit fires at a phase close and catches a defect BEFORE Step 7** | ⛔ **The audit is skipped at phase close and only run at Step 7 again** — *then a per-phase obligation does not survive contact with a real pass, exactly as `M-169` found, and it must move into `03`'s per-phase block to have any force* |
+>
+> ### ⚠⚠ AND THE OUTCOME THAT FALSIFIES THE ENTIRE PART
+> ⛔ **The next pass runs a validated audit and finds FOUR-ISH DEFECTS, ALL IN CELLS, WITH `T1`–`T3` APPLIED.**
+> ***Then the fix does not work and the mechanism is something none of the three proposals names.*** **Record
+> that outcome as loudly as a success. Part IV's whole complaint is that this file has never recorded one.**
+
+---
+
+## V.4 — WHAT THE TRIAL LOCATION MUST DO
+
+> ### ⛔⛔ SUPERSEDED 2026-09-11 — **DEVELOPER RULING: `T1`–`T8` ARE MANDATORY, EVERY STEP, EVERY PHASE, EVERY CITY**
+> > ***"Not just on Davis. Every step, every phase, for EVERY CITY. That's why it's IN THE TEMPLATE."***
+>
+> ⭐ **RECORDING REMAINS REQUIRED** — *the falsification conditions in §9.1/§V.2.4 stand and must still be
+> filled in.* ⛔ **But recording is now IN ADDITION to complying, never INSTEAD of it.**
+
+~~**The obligation is to RECORD, not to comply.**~~ *A pass that applies none of `T1`–`T3` but runs the audit and
+reports the numbers has fully discharged the trial — and is in fact the more informative result, because it
+measures whether the defect recurs unaided.* ⛔ **No longer true. An unapplied instrument is now a defect.**
+
+| | |
+|---|---|
+| **1** | **Run `Tools/quotation_audit.py <pass_folder>` at the close of every phase.** Paste raw output. **`CLAUDE.md`: never summarize it** |
+| **2** | ⛔ **TRIAGE BY HAND. A miss is NOT a defect.** *The pass quoting itself and connective prose captured between two adjacent quotations both appear as misses.* **Confirm each at source** |
+| **3** | **Report `confirmed defects` split by `CELL` vs `PROSE`.** ⭐ **That single ratio is the whole experiment** |
+| **4** | **Record which of `T1`/`T2`/`T3` were actually applied, and which were skipped and why** — *a skipped proposal is data* |
+| **5** | **Append the result to this Part with the location named**, per Part IV's closing bullet |
+
+### ⛔⛔ GUARDS ON THE TRIAL
+
+- ⛔ **DO NOT retrofit `T1`–`T3` to `Zhongshan_Opus`, and do not correct its four defects.** ***It is the
+  baseline.*** **Correcting it destroys the only number the trial has to compare against.** *They are docketed
+  at `R-29` and stay docketed.*
+- ⛔ **DO NOT run the trial on `Zhongshan_Sonnet`.** *It is the held control half of a deliberate model
+  divergence fork sitting at Phase 3. Introducing a new instrument into one arm of a two-arm comparison
+  destroys that experiment to serve this one.*
+- ✅ **Run it on the NEXT CITY to open a pass**, whichever that is.
+- ⚠ **THIS IS NOT A COMPARISON OF CITIES AND DOES NOT TOUCH THE ONE LOCATION LAW.** *It compares the behavior
+  of an INSTRUMENT across two runs. No content, finding, axis or figure from one city is read into the other —
+  the only quantity crossing between them is a defect count for a tool.*
+
+### 📌 RESULTS LOG — *append one row per location, and record failures at full volume*
+
+| Location | Date | Fragments | Misses | Confirmed defects | **CELL** | **PROSE** | T1/T2/T3 applied | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| **`Zhongshan_Opus`** | **2026-09-11** | `212` | `49` | **`4`** | **`4`** | **`0`** | ⛔ **none — baseline** | ⚠ **BASELINE. Not a test of the fix** |
+| *(next city)* | | | | | | | | |
+
+---
+
+# Part V.2 — THE HANDOFF LEDGER, AND WHAT AN AXIS SHEDS
+
+> ## ⚠⚠ ALSO ON TRIAL. **Same terms as Part V: a proposal with a falsification condition, awaiting a second location.**
+> **Added 2026-09-11 at the developer's direction:** ***"append them to Part V as an additional test trial so we
+> can see how effective they are."***
+>
+> ⛔⛔ ~~Not law. Not enforceable in a review. A pass that ignores it is not in violation.~~
+**SUPERSEDED 2026-09-11 — developer ruling.** ***"Not just on Davis. Every step, every phase, for EVERY CITY.
+That's why it's IN THE TEMPLATE."*** ⛔ **`T1`–`T8` are LAW, are enforceable, and a pass that ignores them IS
+in violation.** ⭐ **The falsification conditions below remain in force — they measure an instrument that now
+runs unconditionally.**
+
+---
+
+## V.2.1 — THE DEFECT
+
+**Found on `Zhongshan_Opus` at Step 8.** **`Phase 8` skipped the `§H` inbound handoff sweep. Five handoffs were
+dropped, including a canon tradition handed to it THREE separate times.** ⭐ **Caught only because a LATER
+phase's unrelated required reading happened to surface the same canon entry.**
+
+### ⛔⛔ But the Review Panel found the part that matters, and it is not the dropped rows
+
+**The `Lover faculty` — *is this place alive, and could anyone love it?* — is the one instrument in the
+methodology that asks after beauty, pleasure and joy.** **It passed. It passed ONLY because of the repair.**
+
+| What the amendment restored | |
+|---|---|
+| **The city's classical tradition** | *the wind as its only continuo* |
+| **Its cuisine model** | *fusion by necessity* |
+| **Its craft standard** | *two building stocks, two definitions of a good repair* |
+| **Its seasonal trade** | *four months building, eight not* |
+| **The wind reframed as a PROVIDER** | *`95%` of power — written three times as hazard, noise and schedule, never once as supply* |
+
+> ## ⭐⭐⭐ **THAT IS THE ENTIRE INVENTORY OF WHAT MAKES A PLACE LOVABLE, AND ALL OF IT WAS IN THE DROPPED ROWS.**
+> **Without the repair the pass had a structure and no pleasures — and would have passed every one of the
+> seventeen gates.**
+
+### ⭐⭐⭐⭐ THE MECHANISM, AND IT GENERALIZES TO EVERY POSITION
+
+> # ***A SKIPPED SWEEP DOES NOT DROP MATERIAL AT RANDOM. THE AXIS PROTECTS WHAT SERVES IT AND SHEDS THE REST.***
+
+**`Phase 8`'s axis was structural, so what it shed was sensory, human-scale and pleasurable.** ⛔ **A phase with
+an economic axis will shed the intimate; one with a governance axis will shed the child.** ⭐⭐ **And each panel
+position is the sole instrument that asks after one of those categories — so the loss is invisible until that
+position is voiced, ONCE, at the very end, when it can only be patched.**
+
+---
+
+## V.2.2 — ⛔⛔ AND THE BASELINE IS WORSE THAN THE DEFECT REPORT SAID
+
+**`Tools/handoff_audit.py`, written and validated 2026-09-11, run against the pass that found the defect:**
+
+```
+pass audited : Zhongshan_Opus          phase files : 9
+
+=== CONTROLS ===
+  POSITIVE (detector must find a formal block): phases 7, 8, 9
+  NEGATIVE (detector must find nothing)       : phases 2, 3, 4, 5, 6
+  INSTRUMENT VALID: YES - both classes present, detector discriminates
+
+  phase | outbound | sweep    | rows | verdict
+  ------+----------+----------+------+---------
+      2 |        0 | NONE     |    0 | n/a - nothing addressed to it
+      3 |        1 | NONE     |    0 | *** NONE - 1 ROWS UNACCOUNTED ***
+      4 |        1 | NONE     |    0 | *** NONE - 1 ROWS UNACCOUNTED ***
+      5 |        1 | NONE     |    0 | *** NONE - 1 ROWS UNACCOUNTED ***
+      6 |        2 | NONE     |    0 | *** NONE - 2 ROWS UNACCOUNTED ***
+      7 |        4 | FORMAL   |   23 | reconcile 23 enumerated against 4 outbound
+      8 |        5 | FORMAL   |    7 | reconcile 7 enumerated against 5 outbound
+      9 |        3 | FORMAL   |    7 | reconcile 7 enumerated against 3 outbound
+     10 |        5 | informal |    0 | informal only - 5 rows never enumerated
+
+TOTAL outbound handoff rows: 22
+PHASES WITH ROWS ADDRESSED TO THEM AND NO ENUMERATION: 5
+```
+
+> ## ⛔⛔⛔ **`PHASE 8` WAS NOT AN ANOMALY. IT WAS THE CASE WHERE THE SAME OMISSION HAD VISIBLE CONSEQUENCES.**
+> **`Phases 3, 4, 5, 6` enumerated NOTHING. `Phase 10` ran the sweep and never wrote it down.** ⭐ **Of eight
+> eligible phases the sweep was formally enumerated in THREE — and one of those three is `Phase 8`'s own
+> repair.** ***At the time of writing it was two of eight.***
+>
+> ⭐⭐ **The pass's own amendment said *"this pass ran it at Phase 7, Phase 9 and Phase 10."* That was
+> generous.** **Recorded at full volume per Part IV, because a self-report that flatters the pass is the
+> failure this file exists to measure.**
+
+### ⚠ AND THE INSTRUMENT'S OWN LIMIT, NAMED BEFORE ANYONE TRUSTS IT
+
+**It detects a FORM, not an act.** ⛔ **`Phase 10` genuinely ran the sweep and reads as `informal`.** ⭐⭐ **That
+false positive is itself the finding:** ***a step with no required form cannot be audited at all*** — **which
+is why `C2` below is not a reminder but the precondition for every other check here.**
+
+---
+
+## V.2.3 — THE FIVE CHECKS, in descending order of expected strength
+
+| | Check | Attacks |
+|---|---|---|
+| ⭐⭐⭐ **C1** | **HANDOFFS BECOME AN ACCOUNTING IDENTITY.** *Every outbound row is discharged BY NAME in its target phase — written, or refused with a reason.* **Then `outbound N` vs `discharged N` is arithmetic.** ✅ **The outbound half already parses for free** | *silent skipping* |
+| ⭐⭐⭐ **C2** | **THE `§H` SWEEP GETS A RECEIPT, IN THE `M-171` CLOSE BLOCK.** *A phase does not close without pasting its inbound enumeration.* ⭐ **Adds no machinery — routes a missing check into the Step 4 close-out check, which already reads receipts and already caught the `G6` omission** | *silent skipping · and it is what makes `C1` auditable at all* |
+| ⭐⭐ **C3** | **A POSITION-COVERAGE LEDGER.** *Nine rows — six Flat Archetypes, Passer-Through, Neighbor, Lover faculty — one column per phase. At each close, one mark: did this phase produce anything this position could stand on?* ⭐ **The BLANKS are the instrument.** ⛔ **Bookkeeping, NOT generation — it records what the phase produced anyway** | *the shed category · the end-loaded panel* |
+| ⭐⭐⭐ **C4** | **ONE QUESTION AT EVERY PHASE CLOSE: *"What did this phase's axis have no use for?"*** **One line, answered at the moment of shedding.** ⭐ *For `Phase 8` the honest answer was "everything sensory — the axis is structural," which is the whole finding, free, at the time* | ⭐ *the deepest cause* |
+| ⭐ **C5** | **RUN THE `Lover faculty` EARLY, AS A SMOKE TEST** — once after `Phase 6`, again at Step 8. ⚠ **The one proposal with a contamination risk**, stated plainly: it edges a review instrument toward generation. *Its defense is that "is this place alive?" says something is missing without saying what to write* | *the end-loaded panel* |
+
+> ### ⛔ THE CHECK THAT IS **NOT** BEING TRIALED, named so it is not reached for
+> **"Run the `§H` sweep, really."** ⛔ **The rule existed, was binding, was read, and was skipped in six of
+> eight phases anyway.** *Identical in shape to Part V's rejected fix.*
+>
+> ### ⛔⛔ AND A HARD BOUND ON ALL FIVE
+> **`00f` §7: the panel is *"a review mechanism, not a generation mechanism."*** ⛔ **None of `C1`–`C5` may
+> become a list of positions to write toward.** ***A pass written to satisfy eight positions produces eight
+> accommodations, and `00f` Rule 3 already measured where that ends.***
+
+---
+
+## V.2.4 — ⭐⭐⭐ THE FALSIFICATION CONDITIONS, STATED IN ADVANCE
+
+> | | **Confirmed if the next pass shows…** | ⛔ **FALSIFIED if the next pass shows…** |
+> |---|---|---|
+> | **C1** | **A mismatch is caught at a phase close, before the target phase is written** | ⛔ **Mismatches are reconciled cosmetically** — *rows marked discharged that were not. Then the identity measures compliance with itself and nothing else* |
+> | **C2** | **Every phase closes with an enumerated receipt; the close-out check reads them** | ⛔ **Receipts appear and are empty, or the sweep is written AFTER the phase.** *A receipt for an act that already happened is a record, not a check* |
+> | **C3** | **A position's row is visibly blank before Step 8, and that blank is acted on** | ⛔⛔ **The ledger is filled in retroactively at Step 8**, *which makes it a summary of the panel rather than a warning about it* — **or phases start writing toward blank rows, which is the contamination `00f` forbids** |
+> | **C4** | **At least one phase names a shed category that a later position would have missed** | ⛔ **Every phase answers "nothing" —** *then the question is decorative, and the axis is not actually shedding anything, which on this evidence is not credible* |
+> | **C5** | **The early run says "not yet" and the late run says "yes"** | ⛔ **The early run changes what the middle phases write.** *Then it is generative and must be withdrawn* |
+>
+> ### ⚠⚠ THE OUTCOME THAT FALSIFIES THE WHOLE PART
+> ⛔ **The next pass applies `C1`–`C5`, and its `Lover faculty` still passes only on material added after the
+> fact.** ***Then the shed category is not recoverable by bookkeeping, and the fix has to be structural — the
+> panel moved earlier, or the phase spine rebalanced.*** **Record that as loudly as a success.**
+
+---
+
+## V.2.5 — WHAT THE TRIAL LOCATION MUST DO
+
+> ⛔⛔ **SUPERSEDED 2026-09-11 — mandatory on every step, phase and city.** *See §V.4's ruling block.*
+
+~~**The obligation is to RECORD, not to comply.**~~ ⛔ **Comply AND record.**
+
+| | |
+|---|---|
+| **1** | **Run `Tools/handoff_audit.py <pass_folder>` at every phase close.** **Paste raw output.** ⛔ *`CLAUDE.md`: never summarize it* |
+| **2** | ⛔ **Check the CONTROLS line first.** *If the detector never discriminated, every verdict below it is meaningless* |
+| **3** | **Report `PHASES WITH ROWS ADDRESSED TO THEM AND NO ENUMERATION`.** ⭐ *That single number is `C1`+`C2`'s whole experiment* |
+| **4** | **Report the `Lover faculty`'s verdict AND whether it rested on material added after the phase that should have carried it.** ⭐ *That is `C3`–`C5`'s whole experiment* |
+| **5** | **Record which checks were skipped and why** — *a skipped check is data* |
+
+### ⛔⛔ GUARDS
+
+- ⛔ **DO NOT retrofit `C1`–`C5` to `Zhongshan_Opus`, and do not add the missing sweep blocks to Phases 3–6
+  and 10.** ***It is the baseline.*** *The `2-of-8` figure is the only number the trial has to beat.*
+- ⛔ **DO NOT run this on `Zhongshan_Sonnet`** — *held control, Phase 3, divergence fork.*
+- ✅ **Run it on the NEXT CITY to open a pass.**
+- ⚠ **This compares INSTRUMENTS across runs, not cities.** *No content crosses. `THE LAW OF ONE LOCATION`
+  is untouched.*
+
+### 📌 RESULTS LOG — *append one row per location; record failures at full volume*
+
+| Location | Date | Outbound rows | Phases w/ rows and NO enumeration | Formal / informal / none | Lover faculty | Rested on a late repair? | C1–C5 applied | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| **`Zhongshan_Opus`** | **2026-09-11** | `22` | ⛔ **`5` of `8` eligible** | `3 / 1 / 5` *(and one of the 3 is a repair)* | ✅ **PASS** | ⛔⛔ **YES — entirely** | ⛔ **none — baseline** | ⚠ **BASELINE. Not a test of the fix** |
+| *(next city)* | | | | | | | | |

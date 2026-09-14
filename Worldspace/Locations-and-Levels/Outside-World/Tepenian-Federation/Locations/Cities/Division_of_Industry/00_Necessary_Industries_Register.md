@@ -95,6 +95,39 @@ rather than itemized.
 | C4 | **Materials recovery & recycling** | `LINE` | **In a closed continental economy the scrap stream is a resource stream.** Absent corpus-wide, large, and unusually generative culturally. |
 | C5 | **Mortuary & decommissioning** | `FOLD` | **You cannot bury in permafrost.** What happens to human remains — and, the better question, **what happens to a robot's body?** For a majority-robot civilization this is a real institution nobody has built. |
 
+> ## ⛔⛔ DEVELOPER RULING — 2026-09-08. **THERE IS NO EXPORT OPTION. `C4` IS A CLOSED LOOP, NOT A LINE.**
+>
+> > ### ***"Tepenia doesn't have the option to 'export' their waste, so they need to have some sort of infrastructure for Waste Treatment."***
+>
+> **This closes the open question at `§A` item 5** *("is recycling a civic obligation, an industry, or an
+> informal economy?")* **at the level of the constraint, if not yet of the answer: the nation cannot choose
+> "none of the above."** ⭐ **`A2` and `04_Providers_and_National_Balance.md` already state the two halves of
+> the physical law — *"waste cannot be landfilled in permafrost nor discharged into a frozen sea"* and
+> *"cannot be landfilled in permafrost, cannot be shipped."* ⛔ THE RULING ADDS THE THIRD WALL: it cannot
+> leave the continent either.** *Three exits are closed, so the material stays inside the economy permanently.*
+>
+> ### ⭐⭐ WHY THIS IS LARGER THAN A SERVICE LINE
+> **Waste treatment is normally a municipal cost center — a thing a city pays to make go away.** ⛔ **Here
+> nothing goes away.** *So `C4`'s existing note — **"in a closed continental economy the scrap stream IS a
+> resource stream"** — stops being an observation and becomes the operating condition:* ⭐ **every output is
+> an input to something, or it accumulates somewhere a person has to live next to.** **That makes `C4` a
+> `Tier A` dependency wearing a `Tier C` label, and it is still *"absent corpus-wide."***
+>
+> ### ⚠ A REAL-WORLD DIVERGENCE THIS RULING CREATES, RECORDED SO IT IS NOT RE-RESEARCHED
+> **The real Antarctic regime is the exact opposite and cannot be used as a model.** *Under the Madrid
+> Protocol's `Annex III`, waste is **removed from the continent** — batteries and radioactive material
+> **must** go, open burning is unlawful, and on-land incineration is prohibited except for field-site
+> incinerator toilets. **The single escape clause is the one that matters here:** removal may be waived where
+> it *"would result in greater adverse environmental impact than leaving the structure or waste material in
+> its existing location."** ⭐⭐ **Real Antarctica solves waste by EXPORT. A sovereign Tepenia has no such
+> door — so the escape clause is not an exception here, it is the DEFAULT, and the whole treatment
+> infrastructure has to be built on the assumption that the material stays.**
+> *(Researched 2026-09-08; sources logged in `Cities/Research_Logs/Zhongshan_Research_Log.md`, Query 68.)*
+>
+> ⛔ **SCOPE: NATIONAL, NOT MUNICIPAL. This is not a finding about any one city and must not be written into
+> one.** *It was raised during a city pass and is recorded here, at the layer that owns it, per the*
+> **LAYERING LAW.**
+
 ### ⭐ Tier C additions — 2026-09-01, found by cross-check against the BLS Standard Occupational Classification
 
 > **The original eighteen were derived from a life-cycle audit — *what keeps a body alive*. Cross-checking

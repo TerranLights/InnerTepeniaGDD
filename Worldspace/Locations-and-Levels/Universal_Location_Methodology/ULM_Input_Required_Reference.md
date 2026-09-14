@@ -367,17 +367,30 @@ itself a finding**)*. **Settlement adds no inputs beyond the above.** Modifiers 
 > converted to absolute 2026-09-03 and verified to resolve.** ⛔ **If you are following this table to open a
 > file, go to §C.8c for the path. Do not reconstruct it.**
 
+> ## ✅ **THIS TABLE IS NOW MIRRORED AT THE POINT OF USE — added 2026-09-07, `M-169`**
+> ⛔ **The defect this fixes:** *these requirements lived ONLY here, and `03_The_Phase_Spine.md` — the file a
+> pass actually opens to write a phase — named **two** `.md` files in its entire length, neither of them a canon
+> source.* ***So the obligation was registered globally and unreachable at the point of use*** *(`M-121`)*.
+> ✅ **Every phase in `03` now carries a `📂 MUST OPEN` block under its `Asks:` line, with `39` absolute
+> addresses, all verified to resolve.** ⭐ **`00_RUNBOOK.md` Step 4 and its `S06` extract card now require
+> opening it.** ⚠ **If you change a row here, change `03`'s block too — they are two copies of one list.**
+
 **These are not per-city inputs — they are canon a pass is obliged to open while writing.** Listed because
 `00_RUNBOOK.md` §C.8c records that omitting a source from this table is how the strongest `G3` supply in the
 project went unreached *(M-121: "registered globally is not registered at the point of use")*.
+
+> ## ⛔⛔ **`00_RUNBOOK.md` §C.8c IS AUTHORITATIVE. THIS TABLE IS A SHORT-FORM COPY AND HAS DRIFTED FROM IT.**
+> **Demonstrated 2026-09-07:** *its Phase 4 row still carried a file removed by developer ruling three weeks earlier, and a
+> live pass copied the stale row.* ⛔ ***Do not build from this table. Build from `§C.8c`, and treat any disagreement as this
+> file being wrong.*** ⭐ **The point-of-use copy in `03_The_Phase_Spine.md` is now generated from `§C.8c`, not from here.**
 
 | Phase | Must open |
 |---|---|
 | **0** Frame | **U** `Repo_Scope.md` *(once)* · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/` · **P** location registries, `Official_Population_Census.md` |
 | **1** Constraint & Capability | **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/` · **P** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`, climate, `Energy_Grid_Failure_Rationale.md`, infrastructure · ⭐ `Division_of_Industry/16` Half B |
-| **2** Composition & Arrival | **U** ⚠ **`No_National_Stereotypes.md` — binding, GPS facts only** · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Falkland_Treaty/` · **P** census, diaspora/affinity files |
+| **2** Composition & Arrival | **U** ⚠ **`No_National_Stereotypes.md` — binding, GPS facts only** · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Falkland_Treaty/` · **P** census · ⛔ *"diaspora/affinity files" resolves to nothing admissible — see `§C.8c`* |
 | **3** Surface & Texture | **P** climate, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`, physical infrastructure attributes, concept art |
-| **4** Ordinary Life | **P** `City_Logistics.md`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/`, `National_Economy_and_Currency.md` |
+| **4** Ordinary Life | ⛔⛔ **THIS ROW WAS STALE AND WRONG — corrected 2026-09-07.** *It listed `City_Logistics.md`, which* ***`M-152` REMOVED from Phase 4 on 2026-09-06 by developer ruling*** *(it is **Concordia-only**, and registering it as a general per-city target contradicted `§C.8d`).* ⚠ **A live pass copied this row and re-introduced the removed file.** ✅ **Use `00_RUNBOOK.md` §C.8c — it is authoritative, and far richer than this row ever was** *(it names the physiology file as **THE LARGEST SINGLE INPUT**, `09` §3.5's freedom gradient, `11`'s food layer and `National_Medical_and_Care_Institutes.md`, none of which appear here)* |
 | **5** Relation & Geometry | **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, the three relationship files |
 | **6** Meaning | **P** ⚠ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/Robot_Religions/` **before inventing a belief** · `National_Holidays.md` · ⛔ **the deferred mortuary question — do not answer it** |
 | **7** Order | ⭐⭐ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` — PRIMARY for 7a; read its README for carve-outs FIRST** · `National_Economy_and_Currency.md`, `City_Logistics.md`, `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/`, criminal-justice canon · **U** `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Megacorps/` |
