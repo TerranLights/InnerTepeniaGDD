@@ -305,6 +305,13 @@ is unruled. Tracked as three columns so either reading works.**
 > the inverse error — understating a finished pass — and nobody checked them.** *The gate was applied to the
 > pass's own folder and not to the records describing it.*
 >
+> ✅ **DISMISSED BY THE DEVELOPER 2026-09-13, so a later `Gate 0` sweep does not re-raise it:** seven pass
+> READMEs in this subnet still carry the template's *"Empty by design"* line, including `Zhongshan_Opus`
+> *(24 files)* and `Zhongshan_Sonnet` *(9)*. **Surfaced, put to the developer, answered *"that's not a
+> problem."*** ⛔ **Do not re-flag it.** *(The five genuinely-empty folders are not wrong yet; the line only
+> becomes false once a pass starts. If the template is ever revised for another reason, that is the moment to
+> drop the phrase — not before.)*
+>
 > ⛔ **RULE THIS YIELDS — `M-221`:** ***Gate 0's outward check must cover the TRACKERS, not just the pass
 > folder.*** **A completion claim lives in at least three places — the pass README, `ULM_Run_Progress.md`, and
 > this file — and the gate has only ever been pointed at the first.** ⚠ **And note the direction: this error
