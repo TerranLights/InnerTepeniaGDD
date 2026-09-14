@@ -1,7 +1,7 @@
 # Step 3 — Research, aimed at what Step 2 named
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2457–2551.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `1940–1981`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2526–2620.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2457–2551`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the ENTIRE `LAW 0-R` block (research-fully, no time limit, no search budget — a governing law, not a reminder) and the `M-158` block (a hole is not addressed by labeling it). This is `R-10`'s second-largest measured card-content gap, and the omitted law is one this pass is explicitly bound by. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -32,6 +32,42 @@
 ---
 
 # THE INSTRUCTION
+
+> # ⭐⭐⭐ LAW 0-R — RESEARCH FULLY. **A PICK IS NOT EXHAUSTED BECAUSE IT HAS BEEN SEARCHED.**
+>
+> **GOVERNING. Added 2026-09-06 at the developer's direction, during Shirayuki's Step 3. Stated in FULL here
+> and in `../../Disciplines/Real-World_Basis_Extrapolation_Method.md` (and its original), because a procedure
+> that cites its governing law instead of stating it will be run without it.**
+>
+> > ### **"When doing web research on a particular place/location/topic/idea/etc etc etc, research FULLY. I don't expect you to deliver 'fast results'. What I want is for you to do it *RIGHT*."**
+> > ### **"Doing web research is for ensuring REALISM and ACCURACY, and that's only possible with real, accurate input data."**
+>
+> **⭐ WHY:** ***research is the INPUT DATA layer of the worldbuilding, not decoration on top of it.***
+> ⛔ **A RECALLED fact is a guess wearing a confident tone.** ⛔⛔ **A WRONG fact is worse than a MISSING one**
+> — it produces worldbuilding that is confident, coherent and wrong, and nothing downstream flags it.
+> *(Measured twice here: a census parse returning "33 plausible rows, a sensible mean, and a sensible spread —
+> all wrong"; and 22 cities carrying wrong polar-night spans, `M-141`.)* ⭐ ***A zero invites suspicion; a
+> plausible number does not.*** ⛔ **And a thin fact set produces a thin place, which no gate can detect.**
+>
+> ## ⛔ ONE SEARCH AGAINST A PICK ESTABLISHES THAT THE PICK EXISTS. **IT DOES NOT ESTABLISH WHAT IT HOLDS.**
+> **`LAW 0` anti-pattern 2 guards against NOT LOOKING. This is the next channel out — a pick looked at ONCE
+> and therefore treated as spent.**
+>
+> | Measured | |
+> |---|---|
+> | `LAW 0`'s controlled comparison | **the two strongest findings came from picks four, five and six; they did not exist at two** |
+> | **2026-09-06, eleven searches, one city** | a three-pick convergence was **invisible until the third**; the sharpest import arrived on the **sixth** |
+> | ⭐⭐⭐ **2026-09-06, same session** | ***the finding that resolved the pass's own spine tension came from the ELEVENTH search — run only because the developer sent the session back to a pick already logged as covered*** |
+>
+> **In practice:** *don't stop at the first useful return* · **query every pick from more than one ANGLE**
+> *(founding · physical constraint · what residents do about it · what it lost · **what it is a contrast
+> FOR**)* · ⭐ **a pick with a sub-part is at least TWO picks** *(a district is not its city; a station is not
+> its site)* · ⭐⭐ **GO BACK TO PICKS ALREADY LOGGED AS COVERED** · **run and log near-duplicates** · **log
+> dead ends AND whether each died at the QUERY or at the SOURCES** · ⛔ **never assert redundancy from a title.**
+>
+> ## ⛔⛔ THERE IS NO TIME LIMIT AND NO SEARCH BUDGET.
+> ⭐ **A log with eleven searches, two dead ends and four honest *"not used"* rows is a BETTER artifact than one
+> with four clean hits** — *it tells the next session where not to go.*
 
 **3.1 Research the deficit.** The single most reliable move available: the profile says what the place cannot
 do; it does not say what the missing thing looks like. **Find a real culture that has it, and the contrast
@@ -72,6 +108,23 @@ unread source for that city's Phase 5 and Phase 7.)*
 
 **It also survives quarantine:** a research log holds *attributes*, not conclusions, so per `05` §6.1 it stays
 **admissible input even to a later cold run on the same location** — which the pass it fed does not.
+
+> ## ⛔⛔ AND A HOLE IS NOT ADDRESSED BY LABELING IT — `M-158`
+> **Measured 2026-09-06.** *A phase found its source described the wind for ONE season and said nothing about
+> the other. It wrote an inference for the unstated half, **labeled the inference honestly, and listed the
+> hole in its own nulls section** — and the inference was still load-bearing three sections earlier.*
+> ⛔ **One first-result search refuted it.**
+>
+> ### ⭐ THE OPERATIONAL RULE
+> ***When a phase reaches for the UNSTATED half of a qualified source, it may not write an inference at all
+> until `Step 3` has been asked.***
+> ⚠ **A description scoped to one season, one population, one district or one era is a SCOPE, not a contrast.**
+> **When a source qualifies — *"most summer days," "in the older quarter," "among the founding generation"* —
+> the qualifier says what was OBSERVED, never what is true elsewhere.**
+> ⭐ **This is the mirror of the `M-151`/`M-152`/`M-154` family** *(partial sources read as complete)*: **there a
+> source said LESS than the reader took; here it said NOTHING and was taken to say "not."**
+> ⛔ **And it is more dangerous, because it presents as rigor.** *Labeling a guess does not stop the guess
+> being load-bearing.*
 
 ---
 

@@ -1,7 +1,7 @@
 # Step 9 — Record
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2800–2859.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `2089–2148`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2941–3000.** *(Range refreshed 2026-09-14 — re-verified against the current file, TEXT re-synced against the same sweep; was `2800–2859`, itself stale since a 2026-09-07 "refresh" that moved only the declared number and never re-checked the body. Body text below was checked word-for-word against the current runbook and needed no change — this card's DRIFT was pointer-only, unlike most of its siblings; see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time

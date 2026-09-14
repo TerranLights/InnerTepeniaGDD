@@ -1,7 +1,7 @@
-# Step 6 — Differentiate
+# Step 6 — Differentiate — ⭐ **WRITE-ONLY, as of 2026-09-06**
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2709–2737.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `2029–2046`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2843–2878.** *(Range refreshed 2026-09-14 — re-verified against the current file AND re-synced against it; was `2709–2737`, itself stale since a 2026-09-07 "refresh" that moved only the declared number. That refresh also predated this Step's `📂 REQUIRED READING` box and its current title, neither of which had made it into this card until now — see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -33,19 +33,27 @@
 
 # THE INSTRUCTION
 
-`04` Part III. ⭐ **WRITE-ONLY, as of 2026-09-06.** **Hand-synced from `00_RUNBOOK.md` Step 6, 2026-09-06.**
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`04_QA_Gates_and_Differentiation.md`, Part III (the differentiation instrument)** — the governing file
+>   for this whole step. **III.0** (a differentiation instrument only works if findings actually reach it —
+>   the measured case is a symbol collision noticed once and never propagated) · **III.4** (the no-sibling
+>   substitutes, run for every location as of the ruling below) · **III.2/III.3** (now terminal-only, per the
+>   table below — read them to know what is *not* run in-run, not only what is).
 
 > ### ⛔⛔⛔ THE STEP DID NOT DISAPPEAR. **ITS DIRECTION REVERSED.**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*
+>
 > | ⛔ Was | ⭐ Now |
 > |---|---|
 > | *Read the relevant rows **before** writing each category* | ⛔ **Do not read any other location's row. Ever.** |
-> | *Differentiate inline in the finding itself* | ⛔ **Revoked** — *there is nothing in-run to differentiate against* |
-> | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — ***this was the sharpest form of the forbidden move*** |
+> | *Differentiate inline in the finding itself* | ⛔ **Revoked** — there is nothing in-run to differentiate against |
+> | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — this was the sharpest form of the forbidden move |
 > | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes ALWAYS, for every location, and say in the pass that you did** |
-> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN COLUMN, in the same commit** *(Step 9.2, unchanged)* |
+> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN COLUMN, same commit** *(Step 9.2, unchanged)* |
 >
 > ⏸️ **The reading half returns at the TERMINAL differentiation check**, run once on the finished corpus.
-> ⚠ **District passes are out of scope and keep read-before-write.**
+> **See `00_RUNBOOK.md` → THE LAW OF ONE LOCATION.** ⚠ **District passes are out of scope and keep
+> read-before-write.**
 
 > ### ⭐ THE ADDRESSES — added 2026-09-04, because this instrument had none for cities
 > | Set | File |

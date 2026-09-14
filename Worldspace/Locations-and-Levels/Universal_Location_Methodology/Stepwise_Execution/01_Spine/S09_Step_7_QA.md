@@ -1,7 +1,7 @@
 # Step 7 — QA
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2738–2777.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `2035–2066`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2879–2918.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2738–2777`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below carried an EARLIER draft of the no-score rule, since further revised: the runbook's current wording adds the Tri-Cities z-score worked example and a closing note on what the old rule was actually protecting against, neither of which had made it into this card. This is `R-10`'s fifth major measured card-content gap. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -52,17 +52,24 @@ what it flagged.**
 > 2. **Verify by spot-check, not by re-reading the logic.** The wrong column survived four readings of the
 >    code and died instantly to one printed row.
 >
-> ### ⛔⛔ NO SCORE OF ANY KIND IN-RUN — **REPLACED 2026-09-06.** *Hand-synced from `02` §G8 rule 1.*
+> ### ⛔⛔ SCORING AGAINST THE FULL SET IS **TERMINAL, NOT IN-RUN** — ruled 2026-09-06
 >
-> **The rule used to read:** *"score against the full set, never the local group — report the z-score… a
-> single-location pass needs this more, not less, since it has no siblings to sanity-check against."*
-> ⛔ **A z-score is a rank, a rank is a comparison, and no city is ever compared to any other city**
-> *(`00_RUNBOOK.md`, THE LAW OF ONE LOCATION; developer ruling 2026-09-06)*.
+> ***The instruction here used to read: "report the z-score, not the difference."*** ⛔ **REVOKED for every
+> ULM / CST / RWBEM per-location pass.** **A z-score is a rank; a rank is a comparison; no city is ever
+> compared to any other city.** ⭐ **In-run, report THIS location's own figure and hand-check it (items 1–2
+> above, which are untouched and remain mandatory).**
 >
-> ⭐ **REPORT THE LOCATION'S OWN PERCENTAGE, FLATLY** — *"retained `61.81%`; `H` `58.31%` against `R` `65.17%`,
-> a spread of `+6.86 pp`"* — **and then ask what THAT number means for THIS place**, which is the question the
-> z-score was always standing in front of.
-> ⏸️ **TERMINAL:** *cross-city scoring returns at the end of the corpus, when a full set actually exists.*
+> ⏸️ **Kept for the terminal check, where it is correct and load-bearing:** *a difference between two or three
+> locations means nothing until you know how much locations differ in general.* *(Tri-Cities: a
+> human-vs-robot retention gap looked like an excellent finding across three cities; scored against all 33 it
+> sat at z = ±0.4 and was discarded. The combined-retention finding survived at z = −1.26 and z = +1.41.)*
+>
+> ### ⭐ AND NOTE WHAT THE OLD RULE WAS ACTUALLY PROTECTING AGAINST — **the protection is still needed**
+> **It was guarding against *a small-set difference read as meaningful*.** ⭐ **Under the law, the pass no
+> longer HAS a small set — so the failure mode it guarded against cannot occur, and the guard is not lost, it
+> is unnecessary.** ⚠ **What replaces it in-run is the honest form of the same discipline:** ***do not dress a
+> bare number as a finding.*** **A percentage is a fact; what it means for this place is the finding, and
+> writing the second is the work.**
 
 ---
 

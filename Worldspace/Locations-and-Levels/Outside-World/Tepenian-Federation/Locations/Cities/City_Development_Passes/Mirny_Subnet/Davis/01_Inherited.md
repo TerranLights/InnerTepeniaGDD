@@ -277,6 +277,48 @@ flagged that as a hazard. ⛔ Step 2 must not rely on that inference.**
 
 ---
 
+# 1.6a · ⭐⭐⭐ DISPOSITION OF EVERY OPEN ITEM — **so a future step does not re-ask what is already settled**
+
+> **Written 2026-09-14 at the developer's direction, after a session spent ~8 hours on Step 0 + Step 1 alone.**
+> **Every open item below is classified ONCE, here, into exactly one of three dispositions.** ⛔ **A future
+> step encountering one of these must apply its disposition, not re-raise the question.**
+>
+> ⭐⭐ **The four CORPUS-WIDE items in this table (`Resettled`, `Settlement+Installation`, the
+> `City_Vision_Notes/`↔RWBEM-Step-D collision, and the general "does a later step resolve this" check) are ALSO
+> now standing defaults in `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §7a — every future city's own Pre-Trip
+> Inspection inherits them from there. This table is Davis's OWN INSTANCE of applying that standing pattern,
+> plus the two items that are Davis-specific and do not generalize (`G6`'s null; the "chosen/selected"
+> wording) — kept here because they are facts about Davis's own inherited material, not about the corpus.**
+
+| Disposition | What it means |
+|---|---|
+| ✅ **A — RESOLVES PROCEDURALLY** | **The pass's own next steps settle it. No developer input, ever.** Apply the stated resolution when that step is reached; do not ask |
+| ⏸️ **B — GENUINELY NEEDS A RULING, BUT DOES NOT BLOCK DAVIS** | **Corpus-wide / methodology-level.** Davis's own verdict already survives regardless of the answer — see the reasoning given. **Flag it ONCE** *(already done, below)* **and do not re-flag it at every later step where it happens to be topically relevant** |
+| ⛔ **C — GENUINELY BLOCKS, AND ONLY THE DEVELOPER CAN UNBLOCK IT** | *(None currently open for Davis — every item below is A or B.)* |
+
+## Item-by-item
+
+| Item | Disposition | Resolution |
+|---|---|---|
+| **`Resettled` — prior POPULATION or merely prior OCCUPANCY?** (`01` §1.2) | ⏸️ **B** | Corpus-wide definitional gap in the methodology (`01` §1.2 itself), not a Davis fact. **Davis's own verdict (zero modifiers) survives on grounds 2–3 of 3 regardless of how this is eventually ruled** — see `00_Frame.md` §0.1a. ⛔ **Do not re-ask this at Steps 2–10.** It is corpus business, raised once, parked until the developer has bandwidth across the 38-city run |
+| **`Settlement + Installation` vs the GPS law** (`01` §1.1) | ⏸️ **B** | Same shape as above — Type is already settled (`Settlement`, no modifiers). **Does not block any future Davis step.** Flagged once for a methodology-level fix, not Davis's to re-raise |
+| **`G6`'s null — re-grounding** (`REQ-G6-b`) | ✅ **A** | ⭐ **Resolves at Step 2.** Step 2 selects/profiles generators; if `G6` is re-examined there, an isolated reader opens the ONE matching line in the 346-line universe file (counts-only was this pass's own self-imposed caution, not a developer-required gate) and reports its content as a normal `G6` finding. **If Step 2 does not need `G6`, it stays a recorded null through to Step 9 — either way, no developer input required** |
+| ⛔ **The "chosen / selected" ambiguity** — does the ratified spine wording presume ELECTION where the population may have been ASSIGNED? | ✅ **A** | ⭐⭐ **THE MOST TIME-CRITICAL ITEM — resolves AT Step 2, by Step 2's own three T8 readers, as ordinary interpretive analysis.** This is not a developer question — it is a reading-comprehension call the deriving pass is equipped to make (per Gate 9's asymmetry framework, already in scope for Step 2's spine-building). **Step 2 must resolve it in-pass and record which reading it adopted, with reasoning — it must NOT escalate this upward** |
+| **RWBEM Step D commands reading the struck `City_Vision_Notes/`** | ✅ **A** | ⭐ **Resolves automatically, whenever RWBEM Step D is reached for Davis** (RWBEM runs after ULM + CST complete, per the standing city-run order). **Pre-resolved here so it is not re-discovered as a surprise then:** `City_Vision_Notes/` remains struck corpus-wide per `00.1a` (developer ruling 2026-09-11) regardless of what RWBEM's own text says — **the strike outranks RWBEM Step D's instruction.** When that step is reached, apply the strike and proceed; do not ask |
+| **The proposed second ONE LOCATION test** (`00_Frame.md` §0.3) | ⏸️ **B**, low priority | A recommended methodology addition, not a ruling request. **Not applied unilaterally by this pass and does not block anything.** Sits alongside `R-4` as parked-for-later methodology polish |
+| ~~`R-4` — `Configuration` field rename~~ | ✅ **A — already disposed** | **Explicitly parked by the developer until Davis closes.** Not open; not to be re-raised before then |
+| ~~`triple_read_verify.py`'s two defects~~ | ✅ **A — FIXED 2026-09-14** | Both patched in-tree (parser-runaway terminator; `LLAST`/`LMID` convention stated in the tool's own docstring). No longer a live constraint on any step |
+| ~~`R-9`–`R-12` (stale step-card pointers and content)~~ | ✅ **A — FIXED 2026-09-14** | All 12 `Stepwise_Execution/01_Spine/` cards re-extracted and mechanically re-verified. No longer a live constraint |
+| ~~`DR-6` / `DR-7`~~ | ✅ **A — RULED, and now BAKED INTO THE SHARED TEMPLATE** | `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md`'s `T8_PROMPT` (§N.1) now states both by default — every future step/phase dispatch, for every city, inherits them without being re-typed or re-asked |
+
+> ### ⭐ THE RULE THIS YIELDS FOR EVERY FUTURE DAVIS STEP
+> **Before treating any of the items above as an open question: check this table first.** ***A ✅ A item is
+> resolved by executing the step, never by asking. A ⏸️ B item is already flagged and stays flagged — restating
+> it is not new information and does not require a pause.*** **Only a genuinely NEW item — one that does not
+> map to a row above — is a candidate for a fresh developer question.**
+
+---
+
 # 1.7 · DEFECTS RAISED, NOT FIXED
 
 1. ⛔ **`00_Frame.md` §0.1a answers severability twice, oppositely** *(§1.0 item 3)*.

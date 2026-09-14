@@ -1,7 +1,7 @@
 # Step 4 — Write the phases
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2552–2585.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `2544–2577`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2621–2709.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2552–2585`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the ENTIRE `T1`–`T8` BINDING block (developer ruling 2026-09-11: T8 is mandatory on every step and phase, for every city — the single most operationally significant ruling in this file) and the `CLOSE-OUT CHECK` block (`M-208`, the generator-line audit). This is `R-10`'s third major measured card-content gap. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -64,6 +64,61 @@ Standing reminders, all of which have their own recorded failure behind them:
 - **General-population discipline throughout.** **Shadow proportion throughout.**
 - **Phase 5 is mandatory and is written mid-spine specifically so it cannot be dropped.**
 - **Push every finding to a physical or behavioral expression.** The violation is usually the gameplay.
+
+> ### ⛔⛔⛔ BINDING — **`T1`–`T8` RUN ON EVERY STEP, EVERY PHASE, EVERY CITY.** ***Developer ruling, 2026-09-11.***
+>
+> > **Developer, verbatim:** ***"Not just on Davis. Every step, every phase, for EVERY CITY. That's why it's
+> > IN THE TEMPLATE."***
+>
+> ⛔⛔ **THIS SUPERSEDES the earlier "on trial, not binding" standing, and it supersedes
+> `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.3's "never auto-invoked" clause.** **`T8` is NOT opt-in, NOT
+> per-invocation, and NOT something a pass waits to be asked for.** ***A step or phase that runs without it has
+> not been run.***
+>
+> | | |
+> |---|---|
+> | ⭐⭐ **`T8` — three-subagent read consensus** | **`../../Tools/triple_read_verify.py`.** *Three independent readers per step/phase, each emitting a `PROOF:` block; mechanical ground-truth check; then agent-to-agent cross-check. **Write only on UNANIMOUS.*** **23 commands are written into the template — 12 steps, 11 phases** *(Step 4 routes to its phases rather than dispatching)* |
+> | **Part V** — `../../Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close |
+> | **Part V.2** — `../../Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration` |
+> | **`../../Tools/phase_discipline_check.py`** | `T3` ledger · `T4` shed marker · `T5` early Lover-faculty smoke test |
+>
+> ### ⚠ STILL MEASURED, NO LONGER OPTIONAL — the two are not the same thing
+> **The falsification conditions in `04` Parts V/V.2 and §N.5 REMAIN IN FORCE and must still be recorded.**
+> ***Mandatory and unproven are compatible states:*** **`T8` has never been run and therefore has no baseline
+> at all** — **so the first invocations are simultaneously the procedure AND its own trial.** ⛔ **A run that
+> reports T8 "not invoked" is now a defect, not a data point.**
+>
+> ⛔ **`Zhongshan_Opus` remains the frozen baseline and must NOT be corrected; `Zhongshan_Sonnet` remains a held
+> control and must NOT run any `T`-instrument.** *Those two guards survive the ruling — they protect
+> measurements already taken.*
+
+> ## ⛔⛔⛔ CLOSE-OUT CHECK — **RUN BEFORE STEP 4 IS DECLARED DONE. `§C.8c-i`, `M-208`.**
+> **The `MUST OPEN` blocks are checked per phase, as you write it. Nothing checks the whole step.** ***A
+> generator can be live in every phase and absent from every receipt, and nothing in the per-phase discipline
+> above will ever notice — that is exactly the G1 failure `§C.8c-i` records.*** **This is the check that
+> catches it, run once, after Phase 10, before moving to Step 5.**
+>
+> ```bash
+> # Run from the repo root, against the pass's own folder.
+> # Every G1-G8 must appear in at least one phase's "Generators used" line, OR be
+> # explicitly recorded as never demoted / not applicable at Step -1.
+> PASS_DIR="City_Development_Passes/<Subnet>/<City>"
+> for g in G1 G2 G3 G4 G5 G6 G7 G8; do
+>   hits=$(grep -l "Generators used:.*$g\b" "$PASS_DIR"/04_Phase_*.md 2>/dev/null | wc -l)
+>   printf '%-4s %s\n' "$g" "$([ "$hits" -gt 0 ] && echo "OK — cited in $hits phase(s)" || echo "⛔ NEVER CITED")"
+> done
+> ```
+>
+> **A `⛔ NEVER CITED` row is not automatically a hole** — Step −1 may have ruled a generator genuinely thin or
+> not applicable for this location type, and that is a legitimate result. ***But the row means someone has to
+> go check, by hand, which of the two it is*** — the same way an unopened `MUST OPEN` source means someone has
+> to go check whether it was correctly refused or simply missed. **A pass may not proceed to Step 5 with a
+> `⛔ NEVER CITED` row that nobody has looked at and explained.**
+>
+> **Where a row fires legitimately:** write the disposition into `09.5_Log.md` once — *"`G1` never cited:
+> `Planetary_Symbols.md`/`Robot_Elementals.md` member terms opened and found [uncharacteristic / duplicative
+> of Phase N / genuinely thin] — see [phase]"* — so the check passes clean on any future re-run without
+> re-litigating the question.
 
 ---
 

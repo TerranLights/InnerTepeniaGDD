@@ -1,7 +1,7 @@
 # Step 1 — Audit what is inherited
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2418–2427.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `1907–1916`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2480–2496.** *(Range refreshed 2026-09-14 — re-verified against the current file AND re-synced against it; was `2418–2427`, itself stale since a 2026-09-07 "refresh" that moved only the declared number. That refresh also predated this Step's `📂 REQUIRED READING` box, which never made it into this card until now — see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -32,6 +32,13 @@
 ---
 
 # THE INSTRUCTION
+
+> ### 📂 REQUIRED READING FOR THIS STEP
+> - **`04_QA_Gates_and_Differentiation.md`, Gate 9 (Asymmetry)** — the check this step runs early, against
+>   inherited material specifically, **before** the pass's own new thresholds exist to be checked in turn (Gate
+>   9 runs a second time, at Step 7, against what this pass itself writes). Open the gate's own entry rather
+>   than the summary below — it carries the worked case (a membership mechanism written entirely from the
+>   favorable side) that shows what the check actually catches.
 
 **Run the asymmetry check on existing findings before writing new ones.** For every inherited finding describing
 a threshold, gate, conversion, verdict, admission or status change: *the mechanism runs both ways — did the file

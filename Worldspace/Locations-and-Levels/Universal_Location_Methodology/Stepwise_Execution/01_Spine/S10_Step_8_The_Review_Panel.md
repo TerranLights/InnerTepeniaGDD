@@ -1,7 +1,7 @@
 # Step 8 — The Review Panel
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2778–2799.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `2067–2076`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2919–2940.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2778–2799`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body —⛔⛔ **and the body below was consequently still stating the OLD, REVOKED `unmet` test** ("would satisfying this objection make the location more like its siblings?"), which `00_RUNBOOK.md` itself calls unrunnable in-run because it needs the sibling set. **This is `R-10`'s highest-severity measured instance: a session following this card as written would have applied a test the runbook no longer permits.** The current peer-free form was restated 2026-09-06 and never reached this card until now. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -37,9 +37,21 @@
 **Passer-Through** and **Neighbor**; the **Lover faculty's question every time.**
 
 **Five dispositions:** accepted · noted · rejected · refereed · **unmet.**
-**The test that keeps this from homogenizing a whole set:** *would satisfying this objection make the location
-more like its siblings?* If yes, it is **unmet**, and the refusal is written as characterization rather than as
-a gap to close.
+
+**The test that keeps this from homogenizing a whole set** — ⭐ **restated 2026-09-06 in its peer-free form,
+because the old wording required reading a sibling:**
+
+| | |
+|---|---|
+| ⛔ **Was** | *"Would satisfying this objection make the location more like its siblings?"* — **unrunnable in-run; it needs the sibling set** |
+| ⭐ **Now** | ***"Would satisfying this objection replace something SPECIFIC TO THIS PLACE with something that could be true anywhere?"*** |
+
+**If yes, it is `unmet`, and the refusal is written as characterization rather than as a gap to close.**
+
+> ⭐⭐ **The new form is strictly stronger, not a weakened stand-in.** *"More like its siblings" catches only
+> collisions with the cities that happen to be finished already.* ***"Could be true anywhere" catches
+> genericness itself*** — **including the generic answer no sibling has written down yet**, which is the one a
+> sibling-based test can never see coming.
 
 ---
 

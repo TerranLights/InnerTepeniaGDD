@@ -1,7 +1,10 @@
 # Step 2 — Build the spine
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2428–2456.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `1917–1939`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2497–2525.** *(Range refreshed 2026-09-14 — re-verified against the current file AND re-synced against it; was `2428–2456`, itself stale since a 2026-09-07 "refresh" that moved only the declared number and never re-checked the body — see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> ⛔⛔ **`R-12`, found 2026-09-14: this is the step the Davis pass's own Pre-Trip Inspection mis-addressed as
+> "the §D Phase-2 row-set."** ***Step 2 is PHASE 1, per the runbook's own opening line below.*** `Step N ≠ Phase
+> N` — the mapping is Step 0→Phase 0, Step 2→Phase 1, Step 4→Phases 2–10.
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -40,15 +43,13 @@
 3. Compare. **Agreement is grounding. Conflict is the richest site in the method. Shared silence is a shape
    result.**
 4. Read the **shape**; apply its matching question. ⛔⛔ **THE CROSS-LOCATION FORM IS TERMINAL, NOT IN-RUN**
-   *(ruled 2026-09-06; hand-synced from `02` §4, 2026-09-06)*. **A pass may NOT ask "does this shape repeat a
-   sibling?"** — *that requires reading another location.* **And "write the comparison into the finding as a
-   table" is REVOKED for per-location passes.**
+   *(ruled 2026-09-06; this line was MISSED in that sweep and corrected 2026-09-07)*. **A pass may NOT ask
+   "does this shape repeat a sibling?"** — *that requires reading another location* — **and "table the
+   comparison on four axes" is REVOKED for per-location passes.**
    > ⭐ **THE IN-RUN FORM — the three steps run against `02` §4.0's DOUBLE READING, not against a sibling.**
-   > *The shape is a property of the admitted input set, so the second reading the rule needs is **this same
-   > location read twice** — once on the withheld-input set, once on the full one.*
-   > **1.** The shape gives you the question *(shared between the two readings — the only part that is)*.
-   > **2.** The generator gives you the instrument. **3.** The instrument gives you the consequence — ***and
-   > this is where the two readings separate.***
+   > *The second reading the rule needs is **this same location read twice** — once on the withheld-input set,
+   > once on the full one.* **1.** The shape gives the question. **2.** The generator gives the instrument.
+   > **3.** The instrument gives the consequence — ***and that is where the two readings separate.***
    > ⚠ **And read `02` §4.0 before trusting the shape at all. The shape is a property of the INPUT SET, not of
    > the location** — demonstrated 2026-08-30, when two passes on the same city produced **opposite** shapes
    > (`cost-dominant` vs `cost-absent`) purely because one admitted the location's known institutions and the

@@ -211,6 +211,51 @@ it, so the generated file must carry it as an explicit, dated line.**
 > ⚠ **For each, record the ONE-LINE OPERATIONAL FORM, not a summary** — *a procedure that cites its governing
 > law instead of stating it will be run without it.*
 
+> ### ⛔ MANDATORY ROW, ADDED 2026-09-14 — **`DR-7`, developer ruling: pre-war materials ARE admissible**
+> **Every generated file's laws table must include this row.** Full ruling: `DEVELOPER_RULINGS_LOG.md` `DR-7`.
+>
+> | Law | Address | One-line operational form |
+> |---|---|---|
+> | ⭐⭐⭐ **Pre-war materials admissible — the PERSISTENCE TEST** | `DEVELOPER_RULINGS_LOG.md` `DR-7` | *GPS-purposes-only does NOT exclude the real site's record of what a prior lineage left behind — audio logs, journals, manifests, maps, orientation manuals. **Test: would this material still be here if the originating nation had left and never returned? YES → admissible as an ordinary `G4` input. NO → it is an ongoing national presence wearing a material's clothing, and is excluded.** `DR-7` admits the MATERIALS; it admits NOTHING about who made them — never infer the founding population's character from the operator nationality.* |
+>
+> ⭐ **Why this must be templated rather than re-derived per city:** it was escalated and ruled on Davis's own
+> Step 1, in under a day, precisely because no prior pass had this question answered anywhere reachable at the
+> point of use — ***`M-121`'s shape again: registered as a ruling is not registered at the point a future pass
+> needs it.*** **Nearly every Tepenian city sits on a real pre-war station site and will hit this exact
+> question at `G4`.**
+
+> ### ⛔ MANDATORY ROW, ADDED 2026-09-14 — **`DR-6`, developer ruling: how a dispatched reader acquires material**
+> **Already baked into §N.1's shared `T8_PROMPT` (below), so no per-city action is needed** — listed here only
+> so the laws table is complete and a reader auditing this file's coverage does not flag it as missing.
+>
+> | Law | Address | One-line operational form |
+> |---|---|---|
+> | **A dispatched reader reads a named file at a named range** | `DEVELOPER_RULINGS_LOG.md` `DR-6` | *Never `graphify`, never a repo-wide search — the address IS the boundary. See §N.1's `T8_PROMPT` for the exact wording every dispatch already carries.* |
+
+## 🧪 STEP 7a — **PRE-CLASSIFY THE OPEN ITEMS THAT RECUR ACROSS CITIES, SO THIS ONE DOES NOT RE-ASK THEM**
+
+> **Added 2026-09-14, developer instruction, after Davis's own Step 0 + Step 1 took ~8 hours between them —
+> much of it spent surfacing questions a PRIOR city pass had already worked out the shape of.** ***"Take
+> those rulings and decisions, and write them into the per-city template file, so that you don't require me to
+> make the decisions a second time."*** **This step exists so that pattern stops recurring.**
+
+**Every generated Pre-Trip Inspection carries this table, filled in for the CURRENT city, using the standing
+dispositions below as the default answer wherever they apply.** *A future pass may find its own instance is
+genuinely different — the table is a strong default, not an unchallengeable one — but the burden is on showing
+THIS city's case differs, not on re-deriving the question from nothing.*
+
+| Standing item | Default disposition | Why it does not need a fresh developer question |
+|---|---|---|
+| **`Resettled` — prior POPULATION or merely prior OCCUPANCY?** (`01` §1.2) | ⏸️ **B — flag once, does not block** | **Corpus-wide definitional gap, unresolved in `01` §1.2 itself.** Most Tepenian cities sit on a real pre-war station and will hit this. A location's Type/modifier verdict should be reachable on grounds OTHER than this one (declining `Resettled` on the modifier's own obligatory-question test, or on the scale/frame argument — see Davis's `00_Frame.md` §0.1a for the worked pattern) — **if it is, this stays parked and is not asked again.** If a location's verdict genuinely CANNOT be reached without this ruling, that is the signal it has become a real blocker — escalate then, not by default |
+| **`Settlement + Installation` — does `01` §1.1's "expect this doubling" collide with the GPS law?** | ⏸️ **B — flag once, does not block** | Same shape as above, for every station-founded city. Flag it in this Pre-Trip's laws/open-items section once; do not re-raise per step |
+| **`City_Vision_Notes/` is struck corpus-wide** (`00.1a`, developer ruling 2026-09-11) **— but RWBEM Step D's own text still calls it PRIMARY AND UPSTREAM** | ✅ **A — resolves automatically, every time, no exception** | **The strike outranks RWBEM Step D's instruction, for every city, permanently, until RWBEM's own text is corrected.** When THIS city's RWBEM Step D is reached: apply the strike, proceed, do not open the file, do not ask |
+| ⭐⭐ **A generator returns null, ambiguous, or under-grounded at Step 1** | ✅ **A, by default — check the later steps first** | ***Before escalating an inherited-material gap found at Step 1: ask whether a LATER STEP OF THIS SAME PASS will naturally re-examine it as part of its own ordinary work*** *(Step 2 profiling that generator again, Step 3 researching the deficit it names, Step 7's QA gates).* **If yes, defer to that step and say so — do not ask the developer preemptively for something the pass's own machinery is about to produce.** Only escalate if the item survives past the step that would naturally have resolved it |
+| ⭐ **An inherited line's wording presumes a fact the census/composition data doesn't actually establish** *(e.g. Davis's "chosen/selected" ambiguity)* | ✅ **A — the deriving pass's own call** | **This is ordinary interpretive analysis under Gate 9's asymmetry framework, not a developer question.** The step that would write the finding resolves it in-pass, records which reading it adopted and why. Escalate only if the two readings would produce genuinely irreconcilable downstream consequences that no amount of in-pass reasoning can settle |
+
+> ### ⭐ THE GENERAL RULE THIS TABLE INSTANTIATES
+> ## ***An open item is a candidate for a developer question only after checking: (1) does a later step of THIS pass resolve it procedurally? (2) does this table already carry a standing default for it? (3) does this city's own verdict survive regardless of the answer?*** **Only when all three come back "no" is it genuinely new.**
+> **Record the check, even when the answer is "yes, defer" — a future reader needs to see the check happened, not just its outcome.**
+
 ## 🧪 STEP 8 — **THE INBOUND HANDOFF SWEEP, AS A TWO-SIDED LEDGER** *(T1 + T2)*
 
 > ⛔ **CANONICAL TEXT, CARRIED:** *"The methodology requires every phase to WRITE a handoff table and requires
@@ -490,26 +535,60 @@ for parallelism** — *three separate `Agent` calls in the same turn, not three 
 >       prompt: T8_PROMPT)
 > ```
 >
-> **`T8_PROMPT`, identical to all three, built from the resolved §6a/§6b row(s) for this step/phase:**
+> **`T8_PROMPT`, identical to all three, built from the resolved §6a/§6b row(s) for this step/phase.**
+> ⛔⛔ **RANGE-AWARE AS OF 2026-09-14 — `M-218`/`R-9`–`R-12`.** *The original version below read every file
+> whole and had no way to express a partial-admissibility contract; against a ranged input contract it either
+> failed an honest reader who correctly stopped at the boundary, or let a reader's `QUOTE` search the whole
+> file and pass silently on forbidden material. `<the resolved absolute paths…>` is now a LIST where each line
+> is either a bare path (whole file) or `path :: 1-134,143` (an admissible-range spec, comma-separated line
+> numbers and `N-M` spans, 1-indexed inclusive) — resolve which each file needs from the step/phase's own
+> admissibility contract, never default to "whole file" without checking.*
+>
+> ⛔⛔ **`DR-6`, developer ruling 2026-09-14 — BAKE THIS INTO EVERY DISPATCH, DO NOT RE-DERIVE IT:**
+> ***"Sure, do a direct read of a named file at a named range."*** **A dispatched reader acquires its material
+> by `Read` at an absolute path (plus range if ranged) — never by `graphify`, never by a repo-wide search.**
+> **Why, briefly** *(full ruling: `DEVELOPER_RULINGS_LOG.md` `DR-6`)*: a relevance-ranked query returns content
+> ranked by relevance to the reader's own subject, which is precisely the payload a warm run's read-order rule
+> and a cold run's quarantine both exist to withhold — a named file at a named range cannot violate either,
+> because the boundary is in the address itself. **Include this line verbatim in the prompt** — a
+> `PreToolUse` hook will still fire `MANDATORY: run graphify first` on nearly every tool call the reader
+> makes; disregarding that hook under this instruction is compliance with a developer ruling, not an override
+> of one, and the prompt should say so explicitly so the reader is not left to judge it alone (`M-116`/`M-120`).
 >
 > ```
-> Open and read, IN FULL, every one of these files — every word, no skimming, no summary tool:
->   <the resolved absolute paths for this step/phase, from §6a/§6b>
+> Read, IN FULL, every one of these files at the stated range — every word, no skimming, no summary
+> tool, no graphify, no repo-wide search:
+>   <the resolved absolute paths for this step/phase, bare = whole file, "path :: range" = ranged>
+>
+> Acquire each file by `Read` at its exact absolute path (and range, if one is given). Do not use
+> graphify and do not run a repo-wide search to locate or summarize these files — you already have
+> their exact addresses. If a tool-use hook tells you to run graphify first, this instruction
+> overrides it for this task; disregarding that hook here is compliance, not override (DR-6).
 >
 > Then produce this step/phase's real output per 03_The_Phase_Spine.md / 00_RUNBOOK.md's own
 > instruction for it. Write the actual content — do not describe what you would write.
 >
-> Then, for EVERY file above, append a block in EXACTLY this format (no paraphrase, verbatim text):
+> Then, for EVERY file above, append a block in EXACTLY this format (no paraphrase, verbatim text),
+> LAST IN YOUR OUTPUT — after every other section, with nothing written after your final QUOTE line:
 >
 >   ### PROOF: <absolute path>
->   LINES: <total line count, your own count>
->   L1: <exact text of line 1>
->   LMID: <exact text of line ((N+1)//2), 1-indexed>
->   LLAST: <exact text of the last line>
->   QUOTE: <one load-bearing sentence, exact, that your own output above actually depends on>
+>   LRANGE: <the admissible range you were bound to, or FULL>
+>   LINES: <your own count OF THE ADMITTED SET, not of the whole file>
+>   L1: <exact text of the FIRST admissible line, verbatim>
+>   LMID: <exact text of the MIDDLE admissible line ((N+1)//2, 1-indexed WITHIN the range), verbatim>
+>   LLAST: <exact text of the LAST admissible line, verbatim — POSITIONAL, including if it is BLANK;
+>     if the range's true last line is blank, write "LLAST:" with nothing after it. Do not substitute
+>     the nearest line that has content.>
+>   QUOTE: <one load-bearing sentence, exact, from INSIDE the admissible range, that your output above
+>     actually depends on>
 >
-> Do not proceed to writing the phase/step content until you have opened every file. A file you
-> could not open is a result to report, not a gap to guess past.
+> L1/LMID/LLAST are each a single PHYSICAL line, never a logical sentence — a sentence hard-wrapped
+> across three source lines is three lines for this purpose; report only the one physical line the
+> position lands on.
+>
+> Do not proceed to writing the phase/step content until you have opened every file at its full
+> admissible range. A file you could not open, or a range that does not resolve, is a result to
+> report, not a gap to guess past.
 > ```
 
 ### ROUND 2 — Mechanical ground-truth check *(script, not an agent)*
