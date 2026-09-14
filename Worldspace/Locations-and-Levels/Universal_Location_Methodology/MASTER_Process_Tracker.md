@@ -2,6 +2,71 @@
 
 **Opened 2026-09-05.** ⭐ **The one file that answers "how far along is city X?"**
 
+---
+
+> # ⏸️⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-14, 14:00. READ THIS FIRST, THEN THE BOOT BLOCK BELOW.**
+>
+> ## ▶ ACTIVE CITY: **Davis** *(`Mirny_Subnet/Davis`)* — **Steps −1, 0 and 1 COMPLETE. Step 2 is next.**
+>
+> | Step | State | File |
+> |---|---|---|
+> | **−1 · Input contract** | ✅ | `00.1_Step_MINUS-1_Input_Contract.md` |
+> | **0 · Frame** | ✅ | `00_Frame.md` + `00b_T8_Rounds_Step_0.md` |
+> | **1 · Inherited** | ✅ | `01_Inherited.md` + `01b_T8_Rounds_Step_1.md` |
+> | **2 · Build the spine** | ⏸️ **DISPATCHED, KILLED, NOT RE-RUN** | — |
+>
+> ### ⛔ WHY STEP 2 STOPPED — and it was a deliberate choice, not a failure
+> **All three `T8` readers were killed mid-read by a session rate limit.** ⚠ **ZERO output was written —
+> verified against disk, never assumed from the notification text.** *(They died at the same point: all ten
+> files read, verifying proof-block anchors.)* **Nothing is lost but the in-flight reads.**
+> ⛔ **It was NOT re-dispatched, because the re-run would have landed inside the operating-hours wrap-up window
+> (14:00–14:59), and the law forbids opening a new step there** — ***least of all the step the runbook calls
+> "the step everything else hangs on."***
+>
+> ### ✅ RESUMING STEP 2 — everything is prepared. **Full detail in the Davis `README.md`.**
+> 1. **Check the clock first** *(boot block below)*. **Step 2 wants a full window** — measured reader rounds this
+>    session ran **29–42 min**, plus ~2 min verification, ~15 min cross-check, ~5 min to write.
+> 2. ⛔⛔ **DO NOT USE THE PRE-TRIP'S STEP 2 `T8` BLOCK. It is WRONG — see `R-12`.** It sends Step 2 to the
+>    **Phase-2** row-set. ***Step 2 is PHASE 1.*** **`Step N ≠ Phase N`** — the mapping is **Step 0→Phase 0 ·
+>    Step 2→Phase 1 · Step 4→Phases 2–10.** ⚠ **Steps 3 and 5–10 are still unchecked for the same drift.**
+> 3. **The 10-entry reader list** was built and verified: `davis_step2_required_files.txt` *(session scratchpad —
+>    rebuild from `R-12` if gone)*. **Two files go as BOUNDED SCHEMA EXTRACTIONS, not reads** —
+>    `Division_of_Industry/16` Half B and `Extent_and_Density_Per_City.md`; **both are organized by city and
+>    carry other cities' conclusions, which warm mode closes until Step 6.**
+> 4. ⚠ **Expect Step 2 item 6 (*divide population by extent*) to be BLOCKED** — the extent band is
+>    `UNDETERMINED`. ***"It cannot run as specified" is the correct result. Do not invent a denominator.***
+> 5. ⛔ **Unresolved and TIME-CRITICAL:** the **"chosen / selected"** ambiguity — the ratified spine wording may
+>    bake **election** in, presuming the population *chose* what may have been *assigned*. **Resolve it BEFORE
+>    the spine is written.**
+>
+> ### ⭐ RULINGS MADE THIS SESSION — already folded in, do not re-raise
+> **`DR-6`** *(a dispatched reader reads a named file at a named range; no graphify)* · ⭐⭐ **`DR-7`**
+> *(**pre-war materials ARE admissible**; the GPS law does not exclude what a lineage left behind. **The
+> PERSISTENCE TEST:** would this material still be here if the originating nation had left and never returned?
+> **`L127` is admissible; `G4` is UNCONDITIONAL**)*.
+>
+> ### ⏸️ STILL OPEN FOR THE DEVELOPER — carried, not forgotten
+> `01` §1.2 — does **`Resettled`** need a prior **POPULATION** or merely prior **OCCUPANCY**? *(`DR-7` removed
+> the GPS obstacle but did not answer it; settles most of the 38-city run)* · `01` §1.1's
+> **`Settlement + Installation`** expectation vs. the GPS law · **RWBEM Step D still commands reading the
+> struck `City_Vision_Notes/`** · the proposed **second ONE LOCATION test** *(needs a provenance exception — as
+> worded it would strike ratified canon)* · **`R-4`** *(`Configuration` field rename — **parked by developer
+> instruction until Davis closes**)*.
+>
+> ### ⚠ TWO DEFECTS IN `triple_read_verify.py`, UNPATCHED — they will bite again
+> **1 · `parse_proof()`'s line-continuation rule has no terminator**, so everything after the LAST block's
+> `QUOTE:` is absorbed into it *(measured: 66,055 / 77,090 / 64,691-char quotes, all three readers failed as
+> "fabricated," all three were correct)*. ⭐ **Workaround: put PROOF blocks LAST and write NOTHING after the
+> final `QUOTE:`** — ⚠ **fragile; it was re-triggered within the hour by appending a correction.**
+> **2 · The `LLAST` convention is unstated** — say explicitly that a blank final line counts and must be
+> reported empty. ⛔ **Neither was repaired: finding a defect is not authorization to fix it.**
+>
+> ### ⭐ NEW `M-` FINDINGS THIS SESSION — recorded in the step files, **not yet in the observations log**
+> **`M-225`** — ***a 100% failure rate is evidence about the CHECKER. Verify the instrument before trusting a
+> FAILURE, exactly as before trusting a zero.*** *(Third measured instance in this project.)*
+> **`M-226`** — ***a count is an artifact of chunking; where three readers return three totals, reconcile the
+> UNITS before concluding they disagree — and check whether a real dispute is hiding inside the arithmetic.***
+
 
 # ⭐⭐⭐ SESSION BOOT — **what a fresh session does, in order, before anything else**
 

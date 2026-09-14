@@ -1,6 +1,22 @@
 # Davis — development pass
 
-**Folder opened 2026-09-05. ▶ RUNNING — Step −1 complete, Step 0 next.**
+**Folder opened 2026-09-05. ▶ RUNNING — Steps −1, 0 and 1 COMPLETE. Step 2 is next.** *(2026-09-14, 14:00.)*
+
+> ## ⏸️ WHERE THIS PASS STOPPED, AND WHY — read before resuming
+> **Step 2 (BUILD THE SPINE) was dispatched and its three `T8` readers were killed mid-read by a session rate
+> limit. ⛔ ZERO reader output was written — verified against disk, not assumed from the notification.**
+> **Nothing is lost except the in-flight reads.** ⛔ **It was NOT re-dispatched, deliberately:** the re-run
+> would have landed inside the operating-hours wrap-up window *(14:00–14:59)*, and the law forbids opening a
+> new step there — ***least of all the step the runbook calls "the step everything else hangs on."***
+>
+> ### ✅ TO RESUME — everything needed is already prepared
+> | | |
+> |---|---|
+> | **Reader file list** | `…/scratchpad/davis_step2_required_files.txt` — **10 entries, verified** ⚠ *scratchpad is session-local; rebuild from `R-12` below if gone* |
+> | ⛔ **Do NOT use the Pre-Trip's Step 2 block** | It sends Step 2 to the **Phase-2** row-set. **Step 2 is PHASE 1.** See **`R-12`** |
+> | **Two bounded schema extractions**, not reads | `Division_of_Industry/16` Half B *(Davis's row + which framing it encodes)* · `Extent_and_Density_Per_City.md` *(does a Davis extent figure exist at all)*. **Both are organized by city and carry other cities' conclusions — closed until Step 6** |
+> | ⚠ **Expect item 6 to be BLOCKED** | *Divide population by extent* — the extent band is `UNDETERMINED`. **"It cannot run as specified" is the correct result. Do not invent a denominator** |
+> | ⛔ **Time-critical, unresolved** | The **"chosen / selected"** ambiguity — the ratified spine wording may bake **election** in. **Resolve before the spine is written, not after** |
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -40,13 +56,14 @@
 | `00.1b_T8_Rounds_Step_MINUS-1.md` | `T8` Rounds 1–3, raw. **The evidence `00.1` rests on** | ✅ |
 | `00.1_Step_MINUS-1_Input_Contract.md` | **ULM Step −1** — written on verified unanimous consensus | ✅ |
 | `00.1_SUPERSEDED_single-reader_2026-09-11.md` | ⚠ The earlier single-reader run. **Procedurally invalid, substantively sound** — kept as the only direct measurement of what `T8` adds | 📎 |
+| **`00_Frame.md`** | **ULM Step 0** — type · bands · status · frame · parent · run mode. **`Settlement`, zero modifiers · Band 5 (Census I, `DR-4`) · extent `UNDETERMINED` · `LIVING` · `EXCEPTIONAL`.** Written on 3-round unanimous consensus | ✅ |
+| **`00b_T8_Rounds_Step_0.md`** | `T8` Rounds 1–3 for Step 0, raw. **The evidence `00_Frame.md` rests on** — incl. the two verifier defects that produced a FALSE failure | ✅ |
 
 ## Files still to appear
 
 | File | Piece |
 |---|---|
-| `00_Frame.md` | ULM Step 0 — type · state · era · parent · population band · extent band |
-| `01_Inherited.md` | ULM Step 1 — what canon already says, and its epistemic status |
+| `01_Inherited.md` | ULM Step 1 — what canon already says, and its epistemic status ▶ **IN PROGRESS** |
 | `02_Spine.md` | ULM Step 2 — the capability profile, ≥3 generators |
 | `03_Research.md` | ULM Step 3 — targeted at what Step 2 named ⚠ *search strings go in the city's Research Log* |
 | `04_Phase_00…10_*.md` | ULM Step 4 — one file per phase |

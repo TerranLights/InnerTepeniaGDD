@@ -218,6 +218,119 @@ limit.**
 
 ---
 
+# 2026-09-14
+
+## `DR-6` · ⭐ **RETRIEVAL IN A WARM RUN — A DISPATCHED READER READS A NAMED FILE AT A NAMED RANGE**
+
+**Developer, verbatim, answering a question put on Davis's Step 0 dispatch:**
+
+> ### *"Sure, do a direct read of a named file at a named range."*
+
+### What was asked
+
+**Whether `CLAUDE.md`'s graphify carve-out — written for COLD runs and `§C.2` isolated readers — cleanly reaches
+a `T8` reader dispatched inside a WARM pass.** ⚠ **It does not, on its face:** the carve-out's own text says it
+is *"narrow on purpose"* and that *"warm passes … use it normally,"* while a `PreToolUse` hook fires
+`MANDATORY: … You MUST run graphify before reading source files` on essentially every read a reader makes.
+***A reader flagged the gap rather than guessing at it*** *(the same refusal-shape as `M-93`/`M-115`)*, and it
+sat as an open blocker on this pass until now.
+
+### The ruling, in operational form
+
+> ## **A DISPATCHED READER IS GIVEN AN ABSOLUTE PATH AND A LINE RANGE, AND READS THAT. IT DOES NOT QUERY AN INDEX TO FIND ITS MATERIAL.**
+
+| ✅ The sanctioned channel | ⛔ Not this |
+|---|---|
+| **`Read` at `/abs/path :: 1-134,143`** — the address comes from the pass's own contract | A relevance-ranked query that *returns* whatever it judges related |
+
+### ⭐ Why this is the right answer in a WARM run too — and the reason is not contamination-by-quarantine
+
+**A warm run has no quarantine to honor: everything about Davis is already open.** ***The exposure a query
+creates here is to the TWO things a warm run still closes:***
+
+| Closed in warm mode | How a query reaches it anyway |
+|---|---|
+| ⛔ **This city's own culture material** — `Local_Cultures/`, `Local_Robot_Culture/` — **READ-LAST, at Step 5, as a CHECK** | **A query about Davis returns Davis's most relevant material, and its culture files ARE the most relevant material.** `Run_Modes` §2: *"In a COLD run the quarantine physically prevents opening it. IN A WARM RUN NOTHING DOES."* |
+| ⛔ **Every OTHER city's conclusions**, closed until Step 6 | A query scoped by topic rather than by city crosses the corpus by construction |
+
+> ### ⭐⭐ **SO THE WARM-MODE RISK IS THE READ-ORDER RULE, NOT THE QUARANTINE** — and `Run_Modes` §2 already
+> names that as *"the single point where a warm run can silently destroy its own value."*
+> ***A direct read of a named range cannot violate a read order, because the order is in the address.***
+
+### ⚠ What this does NOT do
+
+⛔ **It does not forbid graphify to the ORCHESTRATOR outside a dispatch**, and it does not touch `graphify update`,
+canon audits, methodology maintenance or ordinary navigation — **`CLAUDE.md`'s own text keeps all of those.**
+⭐ **It rules on one narrow thing: how a `T8` reader acquires the material it was dispatched to read.**
+
+### How to apply
+
+**Every `T8` reader brief carries the addresses and ranges inline, plus:** ***"Read the files with `Read`
+directly by path. Do not use graphify and do not run a repo-wide search to find them — you have their absolute
+addresses. If a `PreToolUse` hook tells you to run graphify first, this instruction overrides it for this
+task."*** ⭐ **Stating it positively is required, not stylistic** — *`M-94`: a bare prohibition is silently
+unsatisfiable, and a reader told only "don't use the index" still has to find the file somehow.*
+
+⭐ **This also discharges the standing worry that a component ignoring a `MANDATORY` hook "learns that such
+notices are noise"** *(`M-116`/`M-120`)*: **the reader is not exercising judgment against the hook — it is
+following a developer ruling that names the hook and overrides it for one task.** ***Disregarding it is
+compliance, not override.***
+
+---
+
+## `DR-7` · ⭐⭐⭐ **PRE-WAR MATERIALS ARE ADMISSIBLE. THE GPS LAW DOES NOT EXCLUDE WHAT A LINEAGE LEFT BEHIND.**
+
+**Developer, verbatim, answering Davis's escalated `L127` severability question:**
+
+> ### *"It does not exclude the real site's record of what the previous lineage left behind. It is perfectly reasonable for establishing Tepenians to reconstruct aspects of a city/culture/location/etc using previously-existing materials as a point of reference."*
+>
+> ### *"So yes. The use of pre-war materials (audio logs, journal entries, transport manifests, maps, etc etc etc etc etc etc and so on and so forth) is entirely allowed under the GPS law. The only real requirement is that `[[material-XYZ]]` does not require `[[nation-ABC]]` to continually occupy the site in order for the material(s) to remain present."*
+
+## ⭐ THE TEST, IN EXECUTABLE FORM — **THE PERSISTENCE TEST**
+
+> # ***Would this material still be here if the originating nation had left and never returned?***
+>
+> | | |
+> |---|---|
+> | ✅ **YES** | **ADMISSIBLE.** *An artifact outlives its makers.* **Audio logs · journal entries · transport manifests · maps · records · orientation manuals · structures and objects left behind** |
+> | ⛔ **NO** | **INADMISSIBLE.** ***It is not a material; it is an ONGOING NATIONAL PRESENCE wearing a material's clothing.*** *A staffed facility, a maintained supply line, an operating institution, anything whose continued existence requires the nation to keep it running* |
+
+## ⛔ WHAT THIS DOES AND DOES NOT CHANGE
+
+| | |
+|---|---|
+| ⛔ **UNCHANGED — the law itself** | **A site's builders, flag, nationality, lineage and fate are still GPS-only** — *a coordinate, never a cause, an identity, or a history.* **A city is still characterized by WHO LIVES THERE, not by whose station it occupies** |
+| ✅ **CLARIFIED** | ***The RECORD is severable from the OCCUPANCY that produced it*** — **and the persistence test is what severs them.** *Reconstruction from inherited material is a legitimate founding activity, not a GPS breach* |
+| ⚠ **STILL FORBIDDEN** | **Inferring the character, temperament or culture of the founding population FROM the operator nationality.** ⭐ *`DR-7` admits the MATERIALS. It admits nothing about WHO MADE THEM* |
+
+> ### ⭐⭐ THE RULING IS ALREADY LEGIBLE IN THE LINE THAT PROMPTED IT
+> **`Specs/Davis.md` `L127`:** *"No living environmental **knowledge** survived that chain of handoffs — **but**
+> preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real
+> documentary starting point."*
+> ⭐ ***The LIVING institution did not survive — it required occupation. The WRITTEN RECORD did — it does not.***
+> **The line was already drawing the distinction this ruling draws**, which is why three independent readers
+> could each sense a defect and none could name it.
+
+> ### ⛔⛔ WORKED PRECEDENT EXISTS AND IS **DELIBERATELY NOT ENUMERATED HERE**
+> **The developer named several other cities where inherited pre-war material is already load-bearing in canon,
+> and instructed that they NOT be written into the subject city's documents** — ***"each city is supposed to be
+> developed by its own merit and on its own terms."***
+> ⛔ **They are omitted from this log for a second, stronger reason: this file is read by EVERY city pass.**
+> ***Enumerating cross-city worked instances in a universally-read rules file is leak-register row 1, and it
+> would rebuild exactly the surface the ONE LOCATION law exists to remove.*** ⭐ **The RULE generalizes. The
+> INSTANCES do not travel.**
+> ✅ **Recorded here only as: precedent exists, in more than one city, and predates this ruling.**
+
+## How a pass applies it
+
+1. **Name the material.** *A journal, a manifest, a map, an audio log, a structure.*
+2. **Run the persistence test on it**, in one line, in the text.
+3. ✅ **Admissible → use it as an ordinary `G4` founding input**, with no GPS tag and no conditional grading.
+4. ⛔ **Fails → it is not inherited material at all.** *Do not down-weight it; exclude it.*
+5. ⚠ **Never let the material's ORIGIN do characterizing work.** *The manifest is admissible; the nationality of whoever wrote it remains a coordinate.*
+
+---
+
 # OPEN, ARISING FROM THESE RULINGS
 
 | | Question | Owner |
