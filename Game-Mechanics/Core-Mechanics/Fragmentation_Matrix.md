@@ -33,10 +33,19 @@ The tier an entity actually holds is the *combination* of both axes, exactly lik
 average, not a single blended number. An entity can be simultaneously maxed on both at once (**The Long
 Vigil**, bottom-right cell) — a real, distinct, permanent state, not a contradiction the system resolves.
 
-**A clean structural property this produces for free:** a companion recruited *after* the player's last
-re-spec never knew the earlier self, so their Grief axis is structurally locked at 0 — they can only ever
-occupy the top row of the grid. Nothing needs to be written to enforce this; it falls straight out of the
-axis definition.
+**A clean structural property this produces for free — ⛔ PARTIALLY SUPERSEDED 2026-09-14, see below:** a
+companion recruited *after* the player's last re-spec never knew the earlier self, so their Grief axis is
+structurally locked at 0 — they can only ever occupy the top row of the grid. Nothing needs to be written to
+enforce this; it falls straight out of the axis definition.
+
+> ⛔⛔ **This "structural lock" is a default now, not a law.** Developer ruling, 2026-09-14, reversing an
+> earlier one of their own: a companion who never personally knew a past configuration can still discover
+> it existed — the same way *Fallout: New Vegas*'s Randall Clarke is pieced together entirely from evidence,
+> never witnessed firsthand — and accumulate **secondhand Grief** through that discovery. A late-recruited
+> companion who finds nothing stays at Grief 0 as before; the floor is no longer unbreakable. **Full design
+> (candidate footprint sources, proposed seeding shape, open questions) lives in the priority item of
+> `Fragmentation_Matrix_Expansion_Ideas.md` — not yet formalized into this file's grid, formula, or Long
+> Vigil eligibility rules.**
 
 ---
 
