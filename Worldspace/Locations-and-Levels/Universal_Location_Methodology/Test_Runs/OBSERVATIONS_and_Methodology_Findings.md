@@ -7789,3 +7789,167 @@ them without explicit argument."*** ***They contradicted it, with explicit argum
 ⚠ **Recorded against the pass owner, not against a reader.** ⭐ ***The session that wrote the brief is the
 session writing this entry, which is exactly the self-audit direction `§C.2` warns never runs honestly — so it
 is stated at full strength here deliberately.***
+
+---
+---
+
+# `M-231` — ⛔⛔ **THERE IS A THIRD CLASS OF DEAD END. IT IS CALLED `TOOL-DEATH`, AND MISFILING IT MARKS AN UNRUN PICK AS SPENT.**
+
+**Found 2026-09-15, Davis Step 3. Discovered INDEPENDENTLY by all three dispatched researchers**, who gave it
+three different names before reconciling in cross-check.
+
+**`Cities/Research_Logs/README.md` names two kinds of dead end, and requires a log to record which:**
+
+| Existing class | What it teaches |
+|---|---|
+| **QUERY-DEATH** | *about your FRAMING* — recoverable by re-framing |
+| **SOURCE-DEATH** | *about the WORLD* — a real absence |
+
+> ## ⭐ THE THIRD CLASS — **`TOOL-DEATH`**
+> ### ***The retrieval never reached an index or a document, because the CHANNEL refused.***
+> **Sub-kinds:** `quota` · `rate-limit` · `CAPTCHA` · `block` · `size limit` · *an engine that silently discarded
+> the query terms*.
+> **Diagnostic, and it is clean:** ***re-run the identical query elsewhere. If it returns, the tool killed it.***
+
+## ⛔⛔ WHY IT CANNOT BE FILED AS EITHER EXISTING CLASS
+
+> ### **Query-death teaches you about your framing. Source-death teaches you about the world.**
+> # ***Tool-death teaches you about NEITHER — it is a claim about nothing.***
+> ⛔ **So filing it as query-death invites a pointless re-framing of a query that was never wrong; filing it as
+> source-death asserts an absence in the world that was never tested.**
+> ### ⭐ ***And the second error is the dangerous one: it FALSELY MARKS AN UNRUN PICK AS SPENT*** — which is
+> precisely the state `LAW 0-R` exists to prevent.
+
+⭐ **Naming resolved 2–1.** *One researcher ceded its own proposed term on the explicit ground that "coverage
+beats priority."* **Recorded because the reconciliation is itself evidence the cross-check round does work
+authors cannot do alone.**
+
+---
+
+# `M-232` — ⛔⛔ **`LAW 0-R` SAYS "THERE IS NO SEARCH BUDGET." THERE IS ONE — AND ITS BIAS CORRELATES WITH PICK ORDER.**
+
+**Measured 2026-09-15, Davis Step 3, across three parallel researchers.**
+
+**`LAW 0-R` states it twice, in the runbook and in the research-log convention:**
+> ### ***"THERE IS NO TIME LIMIT AND NO SEARCH BUDGET."***
+
+⛔ **A session-wide `WebSearch` cap of `200/200` exists, is SHARED ACROSS PARALLEL AGENTS, and refuses further
+queries outright.** **All three researchers hit it. Two hit it mid-pick.**
+
+## ⚠ AND THE CONSEQUENCE IS WORSE THAN LOST COVERAGE
+
+**The cap does not thin a pass evenly. It truncates the source mix IN TIME — and the survivors are not random:**
+
+| | Before the cap | After the cap |
+|---|---|---|
+| **One researcher's measured mix** | **~31 retrievals on a general index** | **~60 on encyclopedic and peer-reviewed channels** *(Wikipedia API, Europe PMC, known URLs)* |
+
+> ## ⛔⛔ **THE WEIGHTING THEREFORE CORRELATES WITH PICK ORDER.**
+> **Picks worked early ran under one source regime; picks worked late ran under another.**
+> ### ***So comparing pick depth partly measures the cap rather than the topic.***
+> ⚠ **A second researcher confirmed the direction independently: post-cap, its mix helped the physical-site pick
+> and hurt the two social picks.**
+
+⭐ **The practical consequence for any future research step:** ***a pick that looks thin may be late, not
+empty.*** **Order the picks by priority — which this step did — and record where the cap fell, so a later
+reader can tell the two apart.**
+
+⚠ **RAISED, NOT FIXED.** ⭐ **And note the mitigating finding from the same step:** *"three picks aren't spent
+because their answers are in books and statutes, not on an index"* — **so the cap bound less than it appeared
+to. That is luck, not design.**
+
+---
+
+# `M-233` — ⭐⭐⭐ **`M-158` FIRED FOUR TIMES ON ONE FACT, AT FOUR LEVELS — AND THE THIRD LEVEL WAS THE ORCHESTRATOR**
+
+**Measured 2026-09-15, Davis Step 3. The single most instructive sequence this project has recorded about how a
+false fact actually travels.**
+
+**`M-158` states:** *when a phase reaches for the UNSTATED half of a qualified source, it may not write an
+inference at all until `Step 3` has been asked.* **A qualifier says what was OBSERVED, never what is true
+elsewhere.**
+
+| Level | Who | What happened |
+|--:|---|---|
+| **1** | **The book** | *Environmental Science Demystified*: **"Frost action is best seen in WET climates."** The location is cold-**ARID**. ✅ **The extraction REFUSED to infer past the qualifier and logged the gap instead of filling it** |
+| **2** | **A researcher** | Found a real, citable source establishing **salt weathering's presence and spatial pattern** — and reported it as **"salt, NOT freeze–thaw."** ⛔ **The source neither compares them nor excludes frost.** *The unstated half, again* |
+| **3** | ⚠⚠ **THE PASS OWNER** | **Accepted the researcher's receipt at face value and wrote "NOT freeze–thaw" into a repo file as a settled finding** |
+| **4** | **Two peers** | One had independently written *"whether salt or frost dominates is not established."* **The originating researcher conceded against itself** — *"`M-158` applies to me."* **A third then supplied the mechanism that genuinely settles it** |
+
+> ## ⭐⭐⭐ THE MECHANISM, WHICH ONLY THE THIRD READER HAD
+> ***Ice segregation requires the −3 to −8 °C window AND liquid water. "Unavailable moisture limits damage
+> regardless of temperature." The soils are hyperarid.***
+> # ***The frost reagent is scarce; the salt reagent is superabundant.***
+> ⭐ **So the site's 60 annual zero-crossings are OCCASIONS, NOT DAMAGING CYCLES.** **The missing variable was
+> never the temperature — it was the water.**
+
+## ⛔ THE TWO LESSONS, AND THE SECOND IS AGAINST THE ORCHESTRATOR
+
+1. ⭐ **ONLY THE PEER CROSS-CHECK CAUGHT LEVELS 2 AND 3.** ***No QA gate would have.*** **The pass was
+   internally consistent with its own false premise at every point** — which is `M-230`'s lesson recurring one
+   step later, in a different shape.
+2. ⛔⛔ ***I VERIFIED THE FILE-READS MECHANICALLY AND ACCEPTED THE RESEARCH SUMMARY ON TRUST.***
+   **`T8` Round 2 proves a reader opened a file at a range. It proves NOTHING about a research claim built on
+   what was found there.**
+   > ### ***A CONFIDENT RECEIPT IS A CLAIM LIKE ANY OTHER.***
+   ⚠ **`T8` has a verification instrument for reading and none for researching. That asymmetry is now measured,
+   and Round 3 is the only thing standing in the gap.**
+
+---
+
+# `M-234` — ⛔ **TRIAGE BY TERM FREQUENCY IS NOT A SUBSTITUTE FOR LOOKING. THREE RATINGS WERE WRONG, AND ONE WAS MINE.**
+
+**Measured 2026-09-15, Davis Step 3, working a standing book-extraction checklist in full.**
+
+| Source | Rated | Actually | Rated by |
+|---|---|---|---|
+| **A general-audience survey text** | *"general-purpose, lower priority,"* listed **LAST** | ⭐⭐ **the highest-yield volume in the folder — and the ONLY one of five covering frozen ground at all** | ⛔ the checklist |
+| **A geochemistry text** | *"fits the location's sediment-core/limnology research methodology directly"* | ⛔ **`limnology` 0 hits · `meromictic` 0 · `lacustrine` 1.** Deep-time marine geochemistry and ore geothermometry | ⛔ the checklist / topics file |
+| **A hydrology text** | **LOW yield** — on my own term-frequency triage | **MODERATE; it held the sharpest quotable distinction of the three water sources** | ⛔⛔ **the pass owner** |
+
+> ## ⭐ WHY THE SURVEY TEXT BEAT FOUR SPECIALISTS, AND IT GENERALIZES
+> ***The specialists are regionally scoped*** *(temperate/arid European hydrogeology; igneous petrogenesis)*.
+> **A survey text has no such scope — so it covers the case the specialists simply do not reach.**
+> ⇒ ⚠ ***"General-purpose" is a reason to check a source against an unusual subject, not a reason to rank it
+> last.***
+
+## ⛔ AND THE PRIOR VERDICTS IN THAT FOLDER ARE NOW SUSPECT
+
+**Two earlier entries are marked *"DONE, low yield."*** ⛔ **One records its verdict as resting on the book's
+*"own short Preface."*** ***That is an assessment from front matter*** — **exactly the channel `LAW 0-R` closes:**
+*"never assert redundancy from a title"* · *"a pick looked at ONCE and therefore treated as spent."*
+
+⭐ **AND THE ENABLING FACT THAT CHANGES THE ECONOMICS:** ***these PDFs carry extractable text layers.*** **A
+500-page volume can be searched against a named deficit in seconds.** ⛔ **That is a different operation from
+opening a book and forming an impression, and it makes "I looked at it" a much cheaper claim to earn honestly.**
+⇒ ⏸️ **Both prior verdicts RE-FLAGGED AS UNVERIFIED. Raised, not acted on.**
+
+---
+
+# `M-235` — ⭐⭐ **THE SCOPE-OF-EVIDENCE CHECK: A FINDING TRUE AT ONE SCALE DOES NOT SURVIVE MULTIPLICATION**
+
+**Measured 2026-09-15, Davis Step 3. Caught by a peer in cross-check; no gate exists that would have caught
+it.**
+
+**A researcher produced a genuine, well-sourced reframe of the step's highest-priority question** — that a
+settlement's general work may be **an obligation carried by everyone** rather than the job of a separate class.
+**Two independent lines supported the mechanism.**
+
+> ## ⛔ AND A PEER CHECKED THE SCALE OF EVERY SUPPORTING CASE
+> ***Every generalist-obligation case in the combined corpus describes TENS of people.***
+> ***Every class-structure case describes THOUSANDS.***
+> # ⚠ **The subject location holds 1,158,314.**
+
+> ### ⭐ THE RULE THIS YIELDS
+> ***Before carrying a real-world finding into a location, check the SCALE of the evidence against the SCALE of
+> the location — and state the range the evidence actually covers.***
+> ⛔ **A mechanism demonstrated at crew scale is not a template that survives multiplication by four orders of
+> magnitude.** ✅ **The honest form is "true of small closed crews," not "true of settlements."**
+
+⚠ **Note how close this came to passing.** **The finding was correctly sourced, correctly attributed, marked
+*changed a finding*, and was the sharpest answer anyone produced to the step's stated steer.** ***Nothing about
+it looked wrong. Only its scale did, and only to a reader who checked.***
+
+⭐ **Family:** `M-230` *(a false premise in the brief, refused on the source)* · `M-233` *(a qualifier read as a
+contrast)* · **this** *(a scale read as universal)*. ***All three are the same failure — a claim carried further
+than its evidence reaches — and all three were caught by peers rather than by gates.***

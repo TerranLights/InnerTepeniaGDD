@@ -4,9 +4,9 @@
 
 ---
 
-> # ⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-15, 08:00. READ THIS FIRST, THEN THE BOOT BLOCK BELOW.**
+> # ⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-15. READ THIS FIRST, THEN THE BOOT BLOCK BELOW.**
 >
-> ## ▶ ACTIVE CITY: **Davis** *(`Mirny_Subnet/Davis`)* — **Steps −1 through 2 COMPLETE. Step 3 is next.**
+> ## ▶ ACTIVE CITY: **Davis** *(`Mirny_Subnet/Davis`)* — **Steps −1 through 3 COMPLETE. Step 4 is next.**
 >
 > | Step | State | File |
 > |---|---|---|
@@ -14,7 +14,25 @@
 > | **0 · Frame** | ✅ | `00_Frame.md` + `00b_T8_Rounds_Step_0.md` |
 > | **1 · Inherited** | ✅ | `01_Inherited.md` + `01b_T8_Rounds_Step_1.md` |
 > | ⭐ **2 · Build the spine** | ✅ **2026-09-15** | **`02_Spine.md`** + `02b_T8_Rounds_Step_2.md` |
-> | **3 · Research** | ⏭️ **NEXT** | — ⚠ *`Davis_Research_Log.md` does not exist; Step 3 creates it* |
+> | ⭐ **3 · Research** | ✅ **2026-09-15** | **`03_Research.md`** + `03b_T8_Rounds_Step_3.md` + ⭐ **`…/Cities/Research_Logs/Davis_Research_Log.md`** *(1,943 lines)* |
+> | **4 · Write the phases** | ⏭️ **NEXT** | — *Phases 2–10, per `03_The_Phase_Spine.md`* ⚠ **`Step N ≠ Phase N` — check Step 4's `T8` block for `R-12`'s drift before dispatching** |
+>
+> ### ⛔⛔ WHAT STEP 4 MUST CARRY FROM STEP 3 — **three scope limits, and dropping any one makes a finding FALSE**
+> 1. ⛔ **THE GENERALIST-OBLIGATION REFRAME IS CREW-SCALE ONLY.** *Every supporting case describes TENS of
+>    people; every class-structure case describes THOUSANDS.* **Davis is 1,158,314.** ***The caveat travels with
+>    the finding or the finding is false*** *(`M-235`)*.
+> 2. ⛔ **THE REFUSAL FINDING IS NOT GENERALIZED — `n=1` on primary-source evidence.** ⭐ **Correct form: not
+>    *"nobody decides about persons"* but *"somebody does, and it is not the residents"*** — **and `PA-6` means
+>    Davis structurally CANNOT KNOW where its own person-power sits.**
+> 3. ⏸️ **THE CAUSAL UNIFICATION IS A HYPOTHESIS, NOT A FINDING** — *the salinity gradient is coast→plateau, the
+>    salt line west|east, and **no source says they are the same axis.*** **Named test: `Adamson & Pickard
+>    1986`.**
+>
+> ### ⚠⚠ AND GATE 7 MUST NOT READ STEP 3 AS CLOSED
+> ⛔ ***FOUR OF FIVE PICKS ARE EXPLICITLY NOT SPENT***, each with a named target *(the 20 by-laws under
+> Ordinance T1/1985 · Argote/Beckman/Epple 1990 · an occupational census · `Adamson & Pickard 1986` · CRREL
+> 93-14, fetchable locally)*. ⭐ **This is `LAW 0-R` honored, not a shortfall** — *"a pick is not exhausted
+> because it has been searched."*
 >
 > ### ⭐⭐⭐ THE SPINE, AS BUILT
 > ***Davis was assigned both of its vocations and did not choose its remaining population. The only thing here

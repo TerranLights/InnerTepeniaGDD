@@ -1,6 +1,23 @@
 # Davis — development pass
 
-**Folder opened 2026-09-05. ▶ RUNNING — Steps −1 through 2 COMPLETE. Step 3 is next.** *(2026-09-15, 08:00.)*
+**Folder opened 2026-09-05. ▶ RUNNING — Steps −1 through 3 COMPLETE. Step 4 is next.** *(2026-09-15.)*
+
+> ## ⭐ STEP 3 — RESEARCH — COMPLETE 2026-09-15
+> **`03_Research.md`** · evidence **`03b_T8_Rounds_Step_3.md`** · ⭐ **every search string, rejected source,
+> dead end and open thread: `…/Cities/Research_Logs/Davis_Research_Log.md`** *(1,943 lines, created this step)*.
+> **Two tracks: three isolated researchers (~310 retrieval operations) + the standing book-extraction checklist
+> worked in full.**
+>
+> ### ⛔⛔ THREE SCOPE LIMITS STEP 4 MUST CARRY — dropping any one makes a finding FALSE
+> | | |
+> |---|---|
+> | **1 · The generalist-obligation reframe is CREW-SCALE ONLY** | *Every supporting case describes tens of people.* **Davis is 1,158,314** |
+> | **2 · The refusal finding is NOT generalized** *(`n=1`)* | ⭐ *Not "nobody decides about persons" but **"somebody does, and it is not the residents"*** — and `PA-6` means **Davis cannot know where its own sits** |
+> | **3 · The causal unification is a HYPOTHESIS** | *The salinity gradient is coast→plateau; the salt line west\|east.* **No source says they are the same axis** |
+>
+> ### ⚠ AND FOUR OF FIVE PICKS ARE EXPLICITLY **NOT SPENT**
+> ⛔ **Gate 7 must not read this step as closed.** *Named targets are in the log.* ⭐ **That is `LAW 0-R`
+> honored, not a shortfall.**
 
 > ## ⭐⭐⭐ THE SPINE — built 2026-09-15, on verified unanimous consensus
 > ***Davis was assigned both of its vocations and did not choose its remaining population. The only thing here
@@ -73,11 +90,15 @@
 + `02b_T8_Rounds_Step_2.md` — ULM Step 2 · and the `T8` working files `.t8_required_step2.txt` and
 `.t8_step2_reader{A,B,C}.md`, **kept so Round 2 stays re-runnable against the same bytes**.)*
 
+*(⭐ Added 2026-09-15: **`03_Research.md`** + `03b_T8_Rounds_Step_3.md` — ULM Step 3 · plus `.t8_required_step3.txt`
+and `.t8_step3_reader{A,B,C}.md`. ⭐ **And, outside this folder, `…/Cities/Research_Logs/Davis_Research_Log.md`** —
+the city's own research log, **created by this step** and append-only from here.)*
+
 ## Files still to appear
 
 | File | Piece |
 |---|---|
-| `03_Research.md` | ULM Step 3 — targeted at what Step 2 named ▶ **NEXT** ⚠ *search strings go in the city's Research Log, which does not exist yet* |
+| `04_Phase_02…10_*.md` | ULM Step 4 — **one file per phase, nine of them** ▶ **NEXT.** ⚠ *`Step N ≠ Phase N`; check Step 4's `T8` block for `R-12`'s drift first* |
 | `04_Phase_00…10_*.md` | ULM Step 4 — one file per phase |
 | `05_Reconciliation.md` | ULM Step 5 — and the CLOSE pass |
 | ⛔ `06_Differentiation.md` | **WILL NOT EXIST, correctly** — Step 6 is **WRITE-ONLY** as of 2026-09-06; the column goes into the shared table, not into a file here |

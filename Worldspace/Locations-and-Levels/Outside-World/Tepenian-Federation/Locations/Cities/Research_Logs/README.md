@@ -121,3 +121,10 @@ Per research session, record:
 |---|---|---|
 | **Zhongshan** | `Zhongshan_Research_Log.md` | 2026-08-30 — Run 3 cold pass. 6 queries; 3 picks + physical site + 2 forcing-function comparanda. **7 open threads recorded**, incl. the unread ASMA 6 management plan |
 | **Janbogo** | `Janbogo_Research_Log.md` | 2026-08-31 — Run 9 cold pass. 2 search queries + 3 fetches (1 failed, HTTP 402); Jang Bogo Station's real staffing/scale and its historical namesake. **5 open threads recorded**, incl. an unfused downfall-by-overreach parallel deliberately deferred to a later filter test |
+| ⭐ **Davis** | `Davis_Research_Log.md` | **2026-09-15 — ULM Step 3, warm pass.** ⭐ **Two independent tracks: three isolated researchers on identical briefs (~310 retrieval operations, every string verbatim) + the standing book-extraction checklist worked in full.** **17 open threads · 15 dead ends · 17 "not used" rows.** ⛔⛔ **FOUR OF FIVE PICKS EXPLICITLY NOT SPENT, each with a named target** *(by-laws, a primary 1990 study, an occupational census, `Adamson & Pickard 1986`, CRREL 93-14)*. ⚠ **A THIRD DEAD-END CLASS was found and named — `TOOL-DEATH` — and a session-wide 200/200 search cap collided with `LAW 0-R`'s "no search budget," biasing the later source mix by pick order** |
+
+> ### ⚠ THIS INDEX IS INCOMPLETE — noted 2026-09-15, not fixed
+> **The folder also holds `Shirayuki_`, `Sinheung_`, `Mawson_`, `Climate_Data_` and `Division_of_Industry_`
+> logs, none of which have a row here.** ⛔ **Raised rather than swept** — *backfilling five rows from logs this
+> pass did not write is another pass's work, and guessing at their contents is exactly what this file exists to
+> prevent.*
