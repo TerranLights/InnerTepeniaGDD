@@ -7602,3 +7602,190 @@ occurrences, all of them its own.**
 `04` Parts V/V.2, and Davis's `00.0` all updated to BINDING.** ⛔ **`T1`–`T8` are now mandatory on every step,
 every phase, every city — and the falsification conditions remain in force, because mandatory and unproven are
 compatible states.**
+
+---
+---
+
+# ⚠⚠ BACKLOG NOTICE — **`M-218` THROUGH `M-226` ARE REFERENCED IN THE CORPUS AND ARE NOT IN THIS FILE**
+
+**Found 2026-09-15, while logging `M-227`–`M-230`.** **This file's highest logged entry is `M-217`.** ⛔ **Nine
+numbers are cited as established findings in Davis's pass files and in
+`PRE-TRIP_INSPECTION_RECIPE_TRIAL.md`, and none of them has an entry here.**
+
+> ## ⛔ THIS IS THE RECORDING LAW'S OWN FAILURE MODE, AND IT IS WORTH MORE THAN THE ENTRIES IT LOST
+> **`00_RUNBOOK.md` §9.5 rule 1: *"Write it when it happens. Precision decays; a snag logged hours later has
+> lost the file, the wording, and the reason it mattered."*** ⭐ **The findings were not lost — each is recorded
+> where it was found.** ⛔ **What was lost is the ONE PROPERTY THIS FILE EXISTS FOR: *"Number entries `M-n`
+> continuously across all runs; never restart per run — recurrence across runs is much stronger evidence than a
+> single sighting, and only continuous numbering makes it visible."***
+> ***A finding recorded only in the pass that found it cannot demonstrate recurrence, which is the entire
+> argument for a shared log.***
+
+**Where each actually lives, so nothing is lost and the reconstruction is cheap:**
+
+| | Subject, as cited | Recorded in |
+|---|---|---|
+| **`M-218`** | The `T8_PROMPT`'s lack of range-awareness | `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.1 |
+| **`M-219`–`M-222`** | ⚠ **Cited nowhere I can find. May never have been assigned** | — |
+| **`M-223`** | ***A command that returns LINES returns CONTENT.*** Use `-l`, `-c`, `wc` — never `-n`/`-o` against an unquarantined corpus | Davis `00.1` §5.2, `01_Inherited.md` §1.7 item 8 |
+| **`M-224`** | ***A contract that states an exclusion in PROSE has not stated it in a form the reader EXECUTES.*** Publish the strike-excluded numeric read spec | Davis `00.1` §4.1 |
+| **`M-225`** | ***A 100% failure rate is evidence about the CHECKER.*** Verify the instrument before trusting a FAILURE, exactly as before trusting a zero | Davis `00_Frame.md` §0 |
+| **`M-226`** | ***A count is an artifact of chunking.*** Reconcile the UNITS before concluding three readers disagree — and check whether a real dispute hides inside the arithmetic | Davis `01_Inherited.md` §1.0 |
+
+⛔ **NOT RECONSTRUCTED HERE.** *Writing them from a citation rather than from the session that found them would
+produce entries that look authoritative and are paraphrase — which is the failure `§9.5` rule 3 names
+(*"never compress a negative result into a positive one"*) wearing a different hat.* ⭐ **Flagged so the gap is
+visible and closeable by whoever holds the material.** ⚠ **`M-219`–`M-222` may simply never have been assigned;
+check before reusing those numbers.**
+
+---
+
+# `M-227` — ⛔⛔ **"IN A NEIGHBOR'S PRESENT" IS MISFILED AS A PEER-FREE ADDRESS. THE GENUINELY PEER-FREE SET IS FOUR, NOT FIVE.**
+
+**Found 2026-09-15, Davis Step 2. All THREE `T8` readers found it independently, without prompting.**
+
+**`02_Generators_Capability_and_Symbols.md` §4.1 files five deficit addresses under the heading PEER-FREE —
+*"available to every pass, with or without siblings."*** ⛔ **The fifth is not peer-free.**
+
+> ### The definition defeats the filing
+> ***"In a neighbor's present"*** requires **a co-located peer who holds the thing organically and never
+> departed.** **Establishing that requires reading another location's PRESENT STATE** — which
+> `00_RUNBOOK.md`'s **ONE LOCATION law** *(developer ruling, 2026-09-06)* forbids in-run.
+
+## ⭐ AND THE SHAPE IS ALREADY ON RECORD — this is the second instance of one pattern
+
+**The address was added 2026-08-31. The ruling that stranded it landed 2026-09-06 — six days later.**
+
+> ## ***A RULING THAT RELOCATES "THE COMPARISON INSTRUMENTS" BY LIST CANNOT REACH AN INSTRUMENT NOBODY LISTED.***
+> **The 2026-09-06 ruling enumerated FIVE comparison instruments and moved them to the terminal check.**
+> **`01` §5.1's sibling-differentiation clause was a SIXTH, unenumerated, and silently blocked a whole
+> inheritance class until Davis Step 1 found it.** ⭐ ***This is the same failure in a second location*** —
+> **an instrument written before the ruling, not named by it, and therefore never relocated.**
+
+## ⛔ THE CONSEQUENCE, AND IT IS THE `G6` FAILURE CLASS
+
+***A pass trusting the PEER-FREE heading runs the address, finds nothing, and records "checked and empty."***
+**But nothing was runnable.** ⛔ **That is a false NEGATIVE on the claim type nothing downstream re-checks** —
+exactly `G6`'s null recorded against a 7-line redirect stub, and exactly `M-117`'s *"a name is not an address"*
+landing on evidence for an absence.
+
+| ⛔ Wrong entry | ✅ Correct entry |
+|---|---|
+| *"in a neighbor's present — none"* | **`UNAVAILABLE BY LAW, left explicitly open`** — *with the terminal differentiation pass told the axis was deliberately unrun* |
+
+⚠ **RAISED, NOT FIXED.** *Amending `02` §4.1's heading is a methodology change and this pass does not own it.*
+⭐ **The minimum fix is an ENUMERATION, not a new rule** — the same remedy `01` §5.1's case needed.
+
+---
+
+# `M-228` — ⛔ **THE FILE-READING TOOL'S LINE NUMBERS CAN DIVERGE FROM `sed`/`awk` — AND EVERY ADMISSIBILITY CONTRACT IN THIS PROJECT IS A `sed` SPEC**
+
+**Found 2026-09-15, Davis Step 2, by one reader while assembling its proof blocks; hit independently by a
+second; verified by the pass owner.**
+
+**Measured on `02_Generators_Capability_and_Symbols.md`:**
+
+```
+tool's displayed numbering ... 761 lines; renders "In most settings almost nothing has one." at line 96
+awk NR / wc -l .............. 760 lines; the same text is line 95
+```
+
+**Cause: at least one physical line the tool splits in two.** *(The file's longest line is 1,126 characters.)*
+**Every other required file in the step matched exactly.**
+
+## ⛔ IT CAN SILENTLY CORRUPT A RANGED CONTRACT
+
+**`M-224` established that every ranged contract publishes a NUMERIC read spec, executable by `sed`.**
+***So the contract and the tool are numbering the same file differently.***
+
+> ### ***Anyone who BUILDS or VERIFIES a range from displayed numbers on an affected file is off by one past the divergence — reading a struck line and dropping an admitted one at each boundary.***
+> **That is `M-224`'s own failure shape, arriving through the instrument rather than through the prose.**
+
+✅ **NOT TRIGGERED at Davis Step 2** — `02` was contracted FULL, and all ranged reads were re-acquired and
+verified at `awk` numbering before anything was written. **The 137-line admitted set reproduced from the `sed`
+spec exactly.**
+
+✅ **REMEDY, and it is `M-223`'s shape:** ***expand and verify every range with `sed -n`/`awk`, never from
+displayed numbers.*** ⚠ **RAISED, NOT FIXED** — *finding a defect is not authorization to fix it.*
+
+⭐ **Family:** `M-117` *(a name is not an address)* · `M-223` *(a command that returns lines returns content)* ·
+`M-224` *(prose is not an executable spec)* · `M-225` *(verify the instrument)*. ***All five are the same
+lesson: the instrument is not transparent, and its output is a claim like any other.***
+
+---
+
+# `M-229` — ⭐ **INERT NUMERIC OBLIGATION DATA IS SHAPE-DETERMINING**
+
+**Found 2026-09-15, Davis Step 2.**
+
+**`02` §4.0 establishes that a capability SHAPE is a property of the ADMITTED INPUT SET, not of the location,
+and demonstrates it on a case where a location's KNOWN INSTITUTIONS were admitted in one pass and quarantined
+in another** *(producing opposite shapes — `cost-dominant` vs `cost-absent`)*.
+
+> ### ⭐ THE WIDENING
+> **At Davis what differed between the two readings was not an institution, a culture or a conclusion.**
+> ***It was a bounded numeric extraction — a table of sector percentages and tier labels.*** **No prose. No
+> characterization. And admitting it moved one reader's shape verdict completely** *(`BALANCED` → `COST-DOMINANT`)*.
+>
+> ## ***A quantitative obligation structure is as shape-determining as an institutional one. §4.0's warning is wider than its worked example.***
+
+⚠ **AND THE READING THAT MOVED WAS THE WRONG ONE** — *which is the useful half.* **Cross-check withdrew it on
+`02` §3.1: *"a location's function is what it is for; its standing cost is what it must pay regardless of
+function."*** ⛔ ***A production share is a division of work — the FUNCTION register, not the COST register.***
+⭐ **So the finding is two-sided: the numbers are shape-determining, AND the obvious place to put them is
+wrong.** *Whoever admits obligation data must decide which quadrant it belongs to before reading the shape off
+it.*
+
+---
+
+# `M-230` — ⭐⭐ **`T8` CAUGHT A FALSE PREMISE IN ITS OWN DISPATCH BRIEF. IT PROTECTS AGAINST THE ORCHESTRATOR, NOT ONLY THE READERS.**
+
+**Found 2026-09-15, Davis Step 2 — `T8`'s first real invocation, and therefore its own baseline (`§N.6`).**
+
+**The dispatch brief handed all three readers this as an ESTABLISHED BOUND, not as a question:**
+
+> *"Davis's residents understand themselves as researchers while the polity above them requires calories."*
+
+**It was inherited in good faith** — from `00_Frame.md` §0.7, which took it from the Step −1 contract's reading
+of `Specs/Davis.md` L143, **the single line that says what Davis is for.**
+
+> ## ⛔ **L143 CONTAINS NO SELF-UNDERSTANDING AT ALL.**
+> **Its own word for the research half is *"heritage"* — an inheritance, not an identity — and BOTH clauses are
+> parent-facing:** *"Tepenia's breadbasket"* and *"a prime… research hub"* **both state what the place is FOR,
+> to somebody else.**
+>
+> ⭐ **Two readers killed it INDEPENDENTLY, by two different routes:** one by reading the line closely against
+> the claim; one by showing through the `G2`×`G4` conflict that the two roles are **two depths of one method
+> rather than two tribes.** **The third adopted the kill on their reasoning.**
+
+## ⭐⭐⭐ WHY THIS IS THE STRONGEST RESULT THE PROTOCOL HAS PRODUCED
+
+**`T8` was designed to answer one question: *did the required reading actually happen before the content was
+written?*** *(`§N.0` — it exists because a phase whose entire subject was populations wrote itself without
+opening any of its three required robot-canon sources.)*
+
+> ### ***It was built to catch a reader who did not read. It caught an ORCHESTRATOR who did read, and believed something the source does not say.***
+
+| The layer that failed | Why nothing else would have caught it |
+|---|---|
+| **Step −1's contract** | Read the line correctly and glossed it once |
+| **Step 0's handoff** | Carried the gloss forward as a finding |
+| ⛔ **The Step 2 dispatch brief** | **Stated the gloss as an ESTABLISHED FACT the readers were told not to contradict without explicit argument** |
+| **Every QA gate** | Gates check a pass for internal contradiction. ***The pass was perfectly consistent with its own false premise*** |
+
+⭐ **The readers were explicitly instructed: *"These are settled. Do not re-derive them, and do not contradict
+them without explicit argument."*** ***They contradicted it, with explicit argument, from the source.***
+
+## ⭐ THE TRANSFERABLE RULE
+
+> ### **A dispatch brief's "established facts" section is an UNAUDITED CHANNEL into three independent readers at once, and it is authored by the one party the protocol does not check.**
+> 1. ⭐ **State an inherited framing as INHERITED, with its provenance, not as established** — *"Step 0 concluded
+>    X from L143; test it against the line"* rather than *"X."*
+> 2. ⭐ **Give readers standing permission to refuse a stated bound ON THE SOURCE.** *This brief did, in the
+>    words "without explicit argument," and that clause is why the kill was legal rather than insubordinate.*
+> 3. ⛔ **Never let a brief's premises be the only unverified text in a protocol whose entire purpose is
+>    verification.**
+
+⚠ **Recorded against the pass owner, not against a reader.** ⭐ ***The session that wrote the brief is the
+session writing this entry, which is exactly the self-audit direction `§C.2` warns never runs honestly — so it
+is stated at full strength here deliberately.***

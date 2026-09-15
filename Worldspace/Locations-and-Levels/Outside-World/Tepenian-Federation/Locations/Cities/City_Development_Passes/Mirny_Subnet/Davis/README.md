@@ -1,22 +1,32 @@
 # Davis — development pass
 
-**Folder opened 2026-09-05. ▶ RUNNING — Steps −1, 0 and 1 COMPLETE. Step 2 is next.** *(2026-09-14, 14:00.)*
+**Folder opened 2026-09-05. ▶ RUNNING — Steps −1 through 2 COMPLETE. Step 3 is next.** *(2026-09-15, 08:00.)*
 
-> ## ⏸️ WHERE THIS PASS STOPPED, AND WHY — read before resuming
-> **Step 2 (BUILD THE SPINE) was dispatched and its three `T8` readers were killed mid-read by a session rate
-> limit. ⛔ ZERO reader output was written — verified against disk, not assumed from the notification.**
-> **Nothing is lost except the in-flight reads.** ⛔ **It was NOT re-dispatched, deliberately:** the re-run
-> would have landed inside the operating-hours wrap-up window *(14:00–14:59)*, and the law forbids opening a
-> new step there — ***least of all the step the runbook calls "the step everything else hangs on."***
+> ## ⭐⭐⭐ THE SPINE — built 2026-09-15, on verified unanimous consensus
+> ***Davis was assigned both of its vocations and did not choose its remaining population. The only thing here
+> that canon calls its own is its METHOD — serial, seasonal, checked-against-the-record observation of a
+> landscape no document could describe. The city owns its practice and nothing else, and its practice is the one
+> asset that fails without a sound.***
 >
-> ### ✅ TO RESUME — everything needed is already prepared
+> **Full derivation: `02_Spine.md`. Evidence: `02b_T8_Rounds_Step_2.md`.**
+>
+> ### ⛔ THREE THINGS STEP 3 INHERITS, AND THE FIRST IS BINDING ON EVERY LATER PHASE
 > | | |
 > |---|---|
-> | **Reader file list** | `…/scratchpad/davis_step2_required_files.txt` — **10 entries, verified** ⚠ *scratchpad is session-local; rebuild from `R-12` below if gone* |
-> | ⛔ **Do NOT use the Pre-Trip's Step 2 block** | It sends Step 2 to the **Phase-2** row-set. **Step 2 is PHASE 1.** See **`R-12`** |
-> | **Two bounded schema extractions**, not reads | `Division_of_Industry/16` Half B *(Davis's row + which framing it encodes)* · `Extent_and_Density_Per_City.md` *(does a Davis extent figure exist at all)*. **Both are organized by city and carry other cities' conclusions — closed until Step 6** |
-> | ⚠ **Expect item 6 to be BLOCKED** | *Divide population by extent* — the extent band is `UNDETERMINED`. **"It cannot run as specified" is the correct result. Do not invent a denominator** |
-> | ⛔ **Time-critical, unresolved** | The **"chosen / selected"** ambiguity — the ratified spine wording may bake **election** in. **Resolve before the spine is written, not after** |
+> | ⛔⛔ **THE WORDING RULE** | **No phase may characterize the remaining population as self-selected** — *not "those who stayed chose to stay," not "committed," not "the ones who believed in it."* ***A census counts locations, not intentions.*** *(`02_Spine.md` §7.3.)* |
+> | ⭐⭐ **RESEARCH TARGETS THE 40%, NOT THE 60%** | ***The deficit is the GENERAL POPULATION.*** The admitted set describes only two roles — *growers*, *researchers* — and `00b` forbids answering "what do people here eat/wear/believe" from either |
+> | ⚠ **`G3` IS THE THINNEST LEG** | Half-dependent on `G2`, resting on one line and on `35 > 25`. **Step 3 should aim at it** |
+>
+> ### ✅ TWO PREDICTIONS THIS STEP OVERTURNED
+> **1 · Item 6 was expected BLOCKED. It RAN** — extent **410 km²** *(coastline ruling, reached by bounded schema
+> extraction)*; `1,158,314 ÷ 410 = 2,825.16/km²`, reproducing the source exactly. ⏸️ *The BAND stays
+> `UNDETERMINED` — the figure exists, the instrument that would grade it does not.*
+> **2 · `SENSITIVITY 1` discharged** — `16` encodes the CURRENT agriculture/research framing; no canon conflict.
+> ⛔ **But its headcounts carry an unresolved denominator conflict and may not be scaled off.**
+>
+> ### ⚠ BEFORE DISPATCHING STEP 3 — check its `T8` block for `R-12`'s drift
+> **`Step N ≠ Phase N`.** Step 2 was correctly dispatched against **Phase 1**. ⛔ **Steps 3 and 5–10 are still
+> unchecked for the same off-by-one.**
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -59,13 +69,15 @@
 | **`00_Frame.md`** | **ULM Step 0** — type · bands · status · frame · parent · run mode. **`Settlement`, zero modifiers · Band 5 (Census I, `DR-4`) · extent `UNDETERMINED` · `LIVING` · `EXCEPTIONAL`.** Written on 3-round unanimous consensus | ✅ |
 | **`00b_T8_Rounds_Step_0.md`** | `T8` Rounds 1–3 for Step 0, raw. **The evidence `00_Frame.md` rests on** — incl. the two verifier defects that produced a FALSE failure | ✅ |
 
+*(⭐ Also present, added 2026-09-15: **`01_Inherited.md`** + `01b_T8_Rounds_Step_1.md` — ULM Step 1 · **`02_Spine.md`**
++ `02b_T8_Rounds_Step_2.md` — ULM Step 2 · and the `T8` working files `.t8_required_step2.txt` and
+`.t8_step2_reader{A,B,C}.md`, **kept so Round 2 stays re-runnable against the same bytes**.)*
+
 ## Files still to appear
 
 | File | Piece |
 |---|---|
-| `01_Inherited.md` | ULM Step 1 — what canon already says, and its epistemic status ▶ **IN PROGRESS** |
-| `02_Spine.md` | ULM Step 2 — the capability profile, ≥3 generators |
-| `03_Research.md` | ULM Step 3 — targeted at what Step 2 named ⚠ *search strings go in the city's Research Log* |
+| `03_Research.md` | ULM Step 3 — targeted at what Step 2 named ▶ **NEXT** ⚠ *search strings go in the city's Research Log, which does not exist yet* |
 | `04_Phase_00…10_*.md` | ULM Step 4 — one file per phase |
 | `05_Reconciliation.md` | ULM Step 5 — and the CLOSE pass |
 | ⛔ `06_Differentiation.md` | **WILL NOT EXIST, correctly** — Step 6 is **WRITE-ONLY** as of 2026-09-06; the column goes into the shared table, not into a file here |

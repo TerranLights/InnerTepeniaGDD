@@ -4,68 +4,99 @@
 
 ---
 
-> # ⏸️⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-14, 14:00. READ THIS FIRST, THEN THE BOOT BLOCK BELOW.**
+> # ⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-15, 08:00. READ THIS FIRST, THEN THE BOOT BLOCK BELOW.**
 >
-> ## ▶ ACTIVE CITY: **Davis** *(`Mirny_Subnet/Davis`)* — **Steps −1, 0 and 1 COMPLETE. Step 2 is next.**
+> ## ▶ ACTIVE CITY: **Davis** *(`Mirny_Subnet/Davis`)* — **Steps −1 through 2 COMPLETE. Step 3 is next.**
 >
 > | Step | State | File |
 > |---|---|---|
 > | **−1 · Input contract** | ✅ | `00.1_Step_MINUS-1_Input_Contract.md` |
 > | **0 · Frame** | ✅ | `00_Frame.md` + `00b_T8_Rounds_Step_0.md` |
 > | **1 · Inherited** | ✅ | `01_Inherited.md` + `01b_T8_Rounds_Step_1.md` |
-> | **2 · Build the spine** | ⏸️ **DISPATCHED, KILLED, NOT RE-RUN** | — |
+> | ⭐ **2 · Build the spine** | ✅ **2026-09-15** | **`02_Spine.md`** + `02b_T8_Rounds_Step_2.md` |
+> | **3 · Research** | ⏭️ **NEXT** | — ⚠ *`Davis_Research_Log.md` does not exist; Step 3 creates it* |
 >
-> ### ⛔ WHY STEP 2 STOPPED — and it was a deliberate choice, not a failure
-> **All three `T8` readers were killed mid-read by a session rate limit.** ⚠ **ZERO output was written —
-> verified against disk, never assumed from the notification text.** *(They died at the same point: all ten
-> files read, verifying proof-block anchors.)* **Nothing is lost but the in-flight reads.**
-> ⛔ **It was NOT re-dispatched, because the re-run would have landed inside the operating-hours wrap-up window
-> (14:00–14:59), and the law forbids opening a new step there** — ***least of all the step the runbook calls
-> "the step everything else hangs on."***
+> ### ⭐⭐⭐ THE SPINE, AS BUILT
+> ***Davis was assigned both of its vocations and did not choose its remaining population. The only thing here
+> that canon calls its own is its METHOD — serial, seasonal, checked-against-the-record observation of a
+> landscape no document could describe. The city owns its practice and nothing else, and its practice is the one
+> asset that fails without a sound.***
 >
-> ### ✅ RESUMING STEP 2 — everything is prepared. **Full detail in the Davis `README.md`.**
-> 1. **Check the clock first** *(boot block below)*. **Step 2 wants a full window** — measured reader rounds this
->    session ran **29–42 min**, plus ~2 min verification, ~15 min cross-check, ~5 min to write.
-> 2. ⛔⛔ **DO NOT USE THE PRE-TRIP'S STEP 2 `T8` BLOCK. It is WRONG — see `R-12`.** It sends Step 2 to the
->    **Phase-2** row-set. ***Step 2 is PHASE 1.*** **`Step N ≠ Phase N`** — the mapping is **Step 0→Phase 0 ·
->    Step 2→Phase 1 · Step 4→Phases 2–10.** ⚠ **Steps 3 and 5–10 are still unchecked for the same drift.**
-> 3. **The 10-entry reader list** was built and verified: `davis_step2_required_files.txt` *(session scratchpad —
->    rebuild from `R-12` if gone)*. **Two files go as BOUNDED SCHEMA EXTRACTIONS, not reads** —
->    `Division_of_Industry/16` Half B and `Extent_and_Density_Per_City.md`; **both are organized by city and
->    carry other cities' conclusions, which warm mode closes until Step 6.**
-> 4. ⚠ **Expect Step 2 item 6 (*divide population by extent*) to be BLOCKED** — the extent band is
->    `UNDETERMINED`. ***"It cannot run as specified" is the correct result. Do not invent a denominator.***
-> 5. ⛔ **Unresolved and TIME-CRITICAL:** the **"chosen / selected"** ambiguity — the ratified spine wording may
->    bake **election** in, presuming the population *chose* what may have been *assigned*. **Resolve it BEFORE
->    the spine is written.**
+> ### ⛔ WHAT STEP 3 INHERITS — read `02_Spine.md` §11 in full, but these three bind
+> 1. ⛔⛔ **THE WORDING RULE IS BINDING ON EVERY LATER PHASE.** **No phase may characterize the remaining
+>    population as self-selected** — *not "those who stayed chose to stay," not "committed," not "the ones who
+>    believed in it."* **A census counts locations, not intentions.** *(`02_Spine.md` §7.3.)*
+> 2. ⭐⭐ **RESEARCH PICKS MUST TARGET THE 40%, NOT THE 60%.** ***The deficit is the GENERAL POPULATION.*** The
+>    admitted set describes only two roles — *growers* and *researchers* — and `00b` forbids answering "what do
+>    people here eat/wear/believe" from either.
+> 3. ⚠ **`G3` IS THE THINNEST LEG** — half-dependent on `G2`, resting on one line and on `35 > 25`. **Step 3
+>    should aim at it.**
 >
-> ### ⭐ RULINGS MADE THIS SESSION — already folded in, do not re-raise
+> ### ⭐ T8's FIRST REAL INVOCATION — and it is now its own baseline (`§N.6`)
+> **Round 2: `UNANIMOUS`, 30 of 30 byte-exact. Round 3: all 6 cross-verdicts `CONSISTENT`.**
+> ⛔ **It did NOT pass trivially — `§N.5`'s falsification condition is NOT met.** **Round 1 produced three
+> substantively different drafts and two different spines; Round 3 caught EIGHT defects, at least one in every
+> reader.** ⭐⭐ **And the eighth was in the DISPATCH BRIEF itself** — *"residents understand themselves as
+> researchers,"* an inherited framing `L143` does not support, **killed independently by two readers on the
+> source.** ***T8 protected against the orchestrator's error, which is not what it was designed for.***
+>
+> ### ✅ TWO PREDICTIONS THIS STEP OVERTURNED — do not carry the old expectations forward
+> 1. ⭐ **ITEM 6 WAS EXPECTED BLOCKED. IT RAN.** The prior note said *"expect `divide population by extent` to be
+>    BLOCKED — do not invent a denominator."* ⛔ **A denominator was not invented; it was FOUND.** Davis's extent
+>    is **410 km²** *(closed by the coastline ruling)*, reached by **bounded schema extraction** — the tier the
+>    runbook created for exactly this case. **`1,158,314 ÷ 410 = 2,825.16/km²`, reproducing the source's own
+>    density figure exactly.** ⏸️ **The extent BAND stays `UNDETERMINED`** — the methodology defines bands on
+>    population only. ***The figure exists; the instrument that would grade it does not.***
+> 2. ✅ **`SENSITIVITY 1` IS DISCHARGED.** `16_Per_City_Three_Tier_Run.md` encodes Davis's **current**
+>    agriculture/research framing, **not** the superseded mining/fabrication one. **No canon conflict to
+>    surface.** ⛔ **But a CARVE-OUT was found:** the sheet's own register records an **unresolved denominator
+>    conflict** — the same nominal 35% yields **181,808** on one basis and **306,780** on another. ***No finding
+>    may be scaled off a sector headcount.*** **The tier percentages are sound; the people-counts are not.**
+>
+> ### ⭐ `R-12` CONFIRMED IN PRACTICE — the Phase 1 row-set was used, and it mattered
+> **Step 2 was dispatched against `Phase 1`, NOT the Pre-Trip's erroneous `Phase 2` block.** **`Step N ≠ Phase
+> N`** — *Step 0→Phase 0 · Step 2→Phase 1 · Step 4→Phases 2–10.* ⚠ **Steps 3 and 5–10 are STILL unchecked for
+> the same drift. Check Step 3's block before dispatching it.**
+>
+> ### ⭐ RULINGS IN FORCE — already folded in, do not re-raise
 > **`DR-6`** *(a dispatched reader reads a named file at a named range; no graphify)* · ⭐⭐ **`DR-7`**
 > *(**pre-war materials ARE admissible**; the GPS law does not exclude what a lineage left behind. **The
 > PERSISTENCE TEST:** would this material still be here if the originating nation had left and never returned?
 > **`L127` is admissible; `G4` is UNCONDITIONAL**)*.
 >
-> ### ⏸️ STILL OPEN FOR THE DEVELOPER — carried, not forgotten
+> ### ⏸️ STILL OPEN FOR THE DEVELOPER — carried, not forgotten. ⛔ **NONE OF IT BLOCKS DAVIS**
 > `01` §1.2 — does **`Resettled`** need a prior **POPULATION** or merely prior **OCCUPANCY**? *(`DR-7` removed
 > the GPS obstacle but did not answer it; settles most of the 38-city run)* · `01` §1.1's
 > **`Settlement + Installation`** expectation vs. the GPS law · **RWBEM Step D still commands reading the
 > struck `City_Vision_Notes/`** · the proposed **second ONE LOCATION test** *(needs a provenance exception — as
 > worded it would strike ratified canon)* · **`R-4`** *(`Configuration` field rename — **parked by developer
 > instruction until Davis closes**)*.
+> ⭐ **All of these are classified in `01_Inherited.md` §1.6a. A future step applies the disposition; it does not
+> re-ask.**
 >
-> ### ⚠ TWO DEFECTS IN `triple_read_verify.py`, UNPATCHED — they will bite again
-> **1 · `parse_proof()`'s line-continuation rule has no terminator**, so everything after the LAST block's
-> `QUOTE:` is absorbed into it *(measured: 66,055 / 77,090 / 64,691-char quotes, all three readers failed as
-> "fabricated," all three were correct)*. ⭐ **Workaround: put PROOF blocks LAST and write NOTHING after the
-> final `QUOTE:`** — ⚠ **fragile; it was re-triggered within the hour by appending a correction.**
-> **2 · The `LLAST` convention is unstated** — say explicitly that a blank final line counts and must be
-> reported empty. ⛔ **Neither was repaired: finding a defect is not authorization to fix it.**
+> ### ✅ `triple_read_verify.py` — **BOTH DEFECTS PATCHED AND VERIFIED IN PRODUCTION**
+> **The prior note warned of two unpatched defects that *"will bite again."* They were patched 2026-09-14 and
+> this step is their first real use.** ⭐ **Verified in BOTH directions before Round 2 was trusted** *(`M-225`)*:
+> **an honest reader with a blank `LLAST` and content after its final `QUOTE` — the exact 2026-09-14 failure
+> shape — CLEARS; a reader with a fabricated `LMID` and `QUOTE` is CAUGHT, both fields named.** ***A gate that
+> only ever passes is not a gate.***
 >
-> ### ⭐ NEW `M-` FINDINGS THIS SESSION — recorded in the step files, **not yet in the observations log**
-> **`M-225`** — ***a 100% failure rate is evidence about the CHECKER. Verify the instrument before trusting a
-> FAILURE, exactly as before trusting a zero.*** *(Third measured instance in this project.)*
-> **`M-226`** — ***a count is an artifact of chunking; where three readers return three totals, reconcile the
-> UNITS before concluding they disagree — and check whether a real dispute is hiding inside the arithmetic.***
+> ### ⭐ NEW `M-` FINDINGS — recorded in `02_Spine.md` §10, **not yet in the observations log**
+> **`M-227`** — ⛔⛔ ***"IN A NEIGHBOR'S PRESENT" IS MISFILED AS PEER-FREE. The genuinely peer-free set is
+> FOUR.*** *Establishing it requires reading another location's present state, which the ONE LOCATION law
+> forbids in-run. **Added 2026-08-31, six days BEFORE the ruling that stranded it** — the same shape as `01`
+> §5.1's unenumerated sixth comparison instrument. **A pass trusting the heading records "checked and empty"
+> where nothing was runnable.*** **All three readers found it independently.**
+> **`M-228`** — ⛔ ***THE FILE-READING TOOL'S LINE NUMBERS CAN DIVERGE FROM `sed`/`awk`, AND EVERY CONTRACT IS A
+> `sed` SPEC.*** *Measured on `02_Generators…`: tool shows **761**, `awk`/`wc -l` both give **760**; it renders
+> `awk` line 95 as 96. Cause: a physical line the tool splits in two.* ***Anyone building or VERIFYING a range
+> from displayed numbers is off by one past the divergence.*** **Remedy: expand every range with `sed -n`/`awk`,
+> never from displayed numbers. RAISED, NOT FIXED.**
+> **`M-229`** — ***inert NUMERIC obligation data is shape-determining.*** *`02` §4.0's worked case withheld known
+> INSTITUTIONS; here a bounded numeric extraction moved a shape verdict just as completely.*
+> **`M-230`** — ⭐⭐ ***A FALSE PREMISE IN THE DISPATCH BRIEF WAS REFUSED ON THE SOURCE.*** *`T8` protects against
+> the ORCHESTRATOR's errors, not only the readers' — which is not what it was designed for.*
+> *(Carried from the prior session, still unlogged: **`M-225`** · **`M-226`**.)*
 
 
 # ⭐⭐⭐ SESSION BOOT — **what a fresh session does, in order, before anything else**
@@ -232,8 +263,20 @@
 ---
 
 > # 📍 RESUME HERE
-> **CITY:** ⭐ **ZHONGSHAN** *(Mirny)* · **PIECE:** ⏭️ **ULM `Step −1`** — *the next city, chosen geographically*
-> **LAST TOUCHED:** **2026-09-07.**
+> **CITY:** ⭐ **DAVIS** *(Mirny)* · **PIECE:** ⏭️ **ULM `Step 3` — RESEARCH**, aimed at what Step 2 named
+> **LAST TOUCHED:** **2026-09-15.** *(Steps −1, 0, 1, 2 complete — see the block at the top of this file.)*
+>
+> > ### ⛔⛔ THIS BLOCK WAS STALE FOR EIGHT DAYS AND IT MISDIRECTED A SESSION — corrected 2026-09-15
+> > **It read *"ZHONGSHAN · `Step −1` · last touched 2026-09-07"* while Davis had been the live city since
+> > 2026-09-13 and had three completed steps on disk.** ⭐ **The 2026-09-15 session caught it only because it
+> > checked the DISK against the block instead of trusting the block** — *Gate 0's own outward check, applied to
+> > the tracker that boot item 2 calls the authority on "the live city and the live piece."*
+> >
+> > ## ⚠ THE LESSON, AND IT IS BOOT ITEM 7's WHOLE POINT
+> > ***A resume note added at the TOP of a file does not update the block the boot sequence actually sends you
+> > to.*** **The 2026-09-14 session wrote an accurate note and left this block untouched, so the file
+> > simultaneously said two different things about which city was live.** ⛔ **Boot item 7 says *"update the
+> > `📍 RESUME HERE` block and the grid"* — BOTH, and this is what it costs when only one is done.**
 >
 > ## ✅✅ SINHEUNG — **ULM PASS COMPLETE, Steps −1 through 10.** *City 2 of 38.*
 > **17 files.** *Full contents listed in `09_Record.md` §1 — **listed, never claimed** (Gate 0).*
