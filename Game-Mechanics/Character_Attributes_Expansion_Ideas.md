@@ -20,16 +20,9 @@ than leaving them buried in commit history.
 
 ### Skills
 
-- **Network Intelligence** *(originally half of "Rumor & Network Intelligence," Investigation + Humanity, cut
-  entirely, never replaced by any perk)* — the structural side of that old pair: tracing information flow, who
-  knows what and how it moves. Worth reconsidering as its own skill specifically because **Leyline** (the
-  national social-media network, `project_leyline`, mechanism still TBD) has no gameplay hook yet — this could
-  be the mechanism that finally gives Leyline something to *do* in play.
-- **Rumor Mill** *(the other half of "Rumor & Network Intelligence," previously dropped when this file first
-  folded the pair down to Network Intelligence alone — restored as its own item)* — the social side of that old
-  pair: cultivating, tracking, and deliberately seeding word-of-mouth, distinct from Network Intelligence's more
-  structural/formal information-gathering. A separate skill in its own right, not a second half of a compound
-  one.
+- No candidates currently sorted here — **Network Intelligence** and **Rumor Mill** (originally the two halves
+  of "Rumor & Network Intelligence") were reassigned to Perks per developer ruling, 2026-09-14 — see Perks —
+  Category Undetermined below.
 
 ### Traits
 
@@ -110,6 +103,21 @@ otherwise non-permanent. Before candidate ideas get sorted into this bucket, the
 design pass: what triggers a temporary perk (an item, a location, a story state?), how long it lasts, and
 whether it stacks with permanent perks of the same effect. Flagging this as an open structural gap surfaced by
 this review, not something to guess at here.
+
+### Perks — Category Undetermined
+
+**Confirmed as Perks, not Skills, by developer ruling 2026-09-14** — which specific perk type (Level-Up,
+Challenge-Based, Temporary, or one of the Tier-2 Earned categories in `Perk_Framework.md`) is deliberately left
+open for a later decision, not guessed at here.
+
+- **Network Intelligence** *(originally half of "Rumor & Network Intelligence," Investigation + Humanity, cut
+  entirely, never replaced by any perk)* — the structural side of that old pair: tracing information flow, who
+  knows what and how it moves. Ties to **Leyline** (the national social-media network, `project_leyline`,
+  mechanism still TBD), which has no gameplay hook yet — this could be the mechanism that finally gives Leyline
+  something to *do* in play.
+- **Rumor Mill** *(the other half of "Rumor & Network Intelligence")* — the social side of that old pair:
+  cultivating, tracking, and deliberately seeding word-of-mouth, distinct from Network Intelligence's more
+  structural/formal information-gathering.
 
 ---
 
