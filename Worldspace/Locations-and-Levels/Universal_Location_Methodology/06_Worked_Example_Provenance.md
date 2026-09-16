@@ -311,7 +311,30 @@ Sanay must skip the example content in the rows below.** The rules stand without
 | `Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` | **all of it** | **None — verified.** The prep document is coordinates and rules throughout and leaked nothing. **It was written against M-85 and it held** | **Safe. It remains the intended entry path** |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-87 – M-92** | **Names the vectors and the classes; states no Casey finding** | Safe |
 | **The auto-loaded memory directory** | `project_casey_recheck.md` · `project_casey_bug_check_resolved.md` · `project_pink_lucy_migration_resolved.md` | **Conclusion — civic character and named Tier-3 particulars** | ✅ **BANDED 2026-09-02** |
+| ⛔⛔⛔ **`…/Division_of_Industry/16_Per_City_Three_Tier_Run.md`** | **Casey's own determination section, in full** | ⛔⛔ **CONCLUSION-TIER, and the heaviest entry in this table.** **Carries the mandated sector AND its reasoning, the named signature establishment, the Enneagram read, and the founding creed** | ⛔⛔⛔ **SKIP THE WHOLE SECTION on any Casey pass.** ⚠ **See the ORCHESTRATOR note below — this vector has already fired once** |
 | **`Background-Lore/Cities/Mirny_Subnet/Casey/Course_of_Events/`** | **the FILENAMES, not the contents** | **Conclusion — eleven authored titles, each a thesis** | ⚠ **NEVER `ls` THIS FOLDER.** Address by index; **11 files, 91–143 lines each.** See M-88 |
+
+> ## ⛔⛔⛔ ORCHESTRATOR EXPOSURE — **added 2026-09-16 at Davis's Step 10, item 2**
+>
+> **The session that ran Davis's Steps 4–10 READ CASEY'S `16` DETERMINATION IN FULL** — not by accident of
+> search, but because `16` is a required source for a Davis phase and for a Division-of-Industry re-run, and
+> the file is organized by city with no section boundary a reader can honor.
+>
+> ### ⚠ WHAT WAS ABSORBED, BY CATEGORY — **stated as SHAPE, per §10.1 item 1c**
+> **Four classes: the mandated sector and the reasoning that set it · the city's named signature establishment
+> · its personality read · its founding creed.** ⛔⛔ **The contents of those four are deliberately NOT repeated
+> here. Restating them would make THIS FILE the leak** — *the exact failure this manifest exists to prevent.*
+>
+> ### ⇒ ⛔⛔ **THAT SESSION CANNOT RUN CASEY'S PASS. A FRESH ONE MUST.**
+> ⚠ **This is the SECOND time Casey has been burned** — *the entry above records its first cold run as
+> ABANDONED, "contaminated at the starting line."*
+>
+> ### ⭐⭐ THE STRUCTURAL LESSON, and it generalizes past Casey
+> ***A per-city reference file that every city's pass must open is a contamination vector for every OTHER city
+> in it, permanently, and no reading discipline fixes it.*** **A pass cannot open `16` for its own city's
+> figures without passing through its neighbors' determinations.**
+> ⭐ **The only real fixes are structural: split the file per city, or dispatch the read to an isolated reader
+> who returns one city's rows.** ⛔ **Neither is in place.**
 
 ## Shirayuki — added 2026-09-02, PRE-EMPTIVELY, by a `Step −2` vector-1 sweep before the run *(no run yet)*
 

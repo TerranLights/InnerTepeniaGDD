@@ -462,7 +462,9 @@ is the culture. **Band 4+:** composition varies internally and must be patterned
 5–6:** composition is a distribution; the finding is its *shape* and its modes.
 
 **Differentiation axis.** Name the mode-mix in three or four words — *"posted majority with a stopped-passing
-minority"* — and check it against siblings.
+minority"*. ⛔⛔ **Do NOT check it against siblings** *(corrected 2026-09-16, `M-241` — first site of this
+class)*. **Reading a sibling's row is forbidden in-run by the ONE LOCATION law; the check moves to the TERMINAL
+differentiation pass.** ✅ **In-run, run the peer-free test: *could this be true anywhere?***
 
 **Feeds:** Phase 4 (whose ordinary day), Phase 5 (who the visitor is), Phase 9 (which populations exist).
 
@@ -863,7 +865,7 @@ divergent funerary traditions in one shared environment, which is its own differ
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md`
 > - **P** `City_Logistics.md` ⚠ **Scoped to one named city; only its DUAL ECONOMY and currency-pointer sections are general** *(`M-152`)*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/City_Logistics.md`
-> - **P** `Factions/` — the `7d` canon check · criminal-justice canon
+> - **P** `Factions/` — the `7d` canon check *(existing countercultures and factions sited here)*. ⛔⛔ **It does NOT contain criminal-justice canon** *(corrected 2026-09-16, `M-241`)* — **the only such design is scoped to one other location and self-declares as unfinished, so `7d` must NOT derive a local justice system from it.** ⚠ **Per-area criminal justice is UNDEVELOPED corpus-wide, developer ruling 2026-09-16: write it `TBD`, never as an absence**
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/`
 > - **U** `Megacorps/`
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Megacorps/`
@@ -1082,8 +1084,12 @@ constraint, or a shared exclusion?
   > correction — flag a finding as weaker only when something specific about it (a failed swap test, a
   > provisional-assumption dependency, an unresolved contradiction) actually warrants it, never to manufacture
   > balance against the phase's other findings.**
-- **E.** **Swap test.** Would this survive unchanged if the location's name were swapped for its nearest
-  comparable? If yes, it has not localized.
+- **E.** **Swap test.** ⛔⛔ **RUN THE PEER-FREE FORM.** ***"Would satisfying this replace something SPECIFIC TO
+  THIS PLACE with something that could be true anywhere?"*** **If yes, it has not localized.**
+  > ⛔ **The sibling form — *"swapped for its nearest comparable"* — is a COMPARISON, which the ONE LOCATION law
+  > forbids in a per-location pass** *(developer ruling 2026-09-06; `M-241`)*. ⭐ **The peer-free substitute is
+  > strictly stronger: it catches the generic answer no sibling has written down yet, which a sibling-based
+  > test cannot see coming.** ⏸️ **The sibling form is restored at the TERMINAL differentiation check.**
 
 **Type variance.** For an **Installation**, the population split is often staff/non-staff or
 permanent/rotational rather than by kind, and that split may matter more.
@@ -1158,6 +1164,13 @@ placeholders under the same naming rule).
 
 **Band variance.** **Band 5–6:** delegate to sub-locations; catalog only what is genuinely national. **Band 0:**
 this phase is large — what is *left* is most of what a ruin has.
+
+> ### ⛔⛔ BAND 5–6's DELEGATION TARGET DOES NOT CURRENTLY EXIST *(added 2026-09-16, `M-241`)*
+> **`DR-4` DEFERS sub-locations corpus-wide** — *"Census I is the governing population figure; `01` §2.2's
+> SUB-LOCATION and distribution 'musts' are DEFERRED."*
+> ⇒ ⛔ **A Band 5–6 pass has nothing to delegate TO.** ✅ **Catalog what is genuinely city-wide and say that the
+> delegation was unavailable.** ⛔⛔ ***Do NOT invent sub-locations to satisfy this rule — that closes a
+> deliberate deferral.***
 
 ---
 

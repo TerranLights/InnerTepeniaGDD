@@ -7953,3 +7953,274 @@ it looked wrong. Only its scale did, and only to a reader who checked.***
 ⭐ **Family:** `M-230` *(a false premise in the brief, refused on the source)* · `M-233` *(a qualifier read as a
 contrast)* · **this** *(a scale read as universal)*. ***All three are the same failure — a claim carried further
 than its evidence reaches — and all three were caught by peers rather than by gates.***
+
+---
+
+# `M-236` — ⭐⭐⭐ **A STEP'S REQUIRED READING IS NOT A BIBLIOGRAPHY. DEFERRING IT CONVERTS MINUTES INTO A REBUILT DELIVERABLE.**
+
+**Measured 2026-09-16, Davis Step 5. The single largest time loss of the session, and entirely self-inflicted.**
+
+**Step 5 lists THREE files under `📂 REQUIRED READING FOR THIS STEP`. Two went unopened** — listed as
+outstanding, deferred as "a reading to do later" — **while the reconciliation was written, questioned,
+rebuilt, and questioned again.**
+
+> ## ⛔⛔ EVERYTHING THE DETOUR COST WAS ALREADY WRITTEN DOWN
+> | Reasoned out from scratch, over roughly an hour | Where it already sat |
+> |---|---|
+> | **That history files are not canon** | ⭐ **`05` §6.3, in full** — *"One location's `Course_of_Events/` set… is not confirmed canon… **EVERY LOCATION HAS A FOLDER OF THIS KIND.** They are proposals awaiting a ratification decision the developer has not yet made"* |
+> | **That ratification is a separate axis from provenance** | **`05` §6.3's own title and its three-row table** |
+> | **That a particular infrastructure file was inadmissible** | ⭐⭐ **`05` §6.1a, which names that file class BY FILENAME as its worked example** — *"the filename says attributes. The file was two passes welded together… its own header named a withheld culture file as a source"* |
+> | **The scales for the both-are-true test** | **`04`'s Gate 6 note** |
+
+> ### ⭐⭐⭐ AND §6.3 PREDICTED THE EXACT FAILURE MODE
+> ***"A later WARM run listed a `*_Course_of_Events_Suggestions.md` file in its input set with no status marking
+> at all — admitted as though settled. A warm pass admits everything by design."***
+> ⚠ **This was a warm pass. It did precisely that.** ⭐ **And the status was never hidden — the file's own line 4
+> reads *"Course of Events SUGGESTION #8."*** ***The word was read and not registered.***
+
+> ### ⭐ THE RULE THIS YIELDS
+> ***A step's required reading is the set of things that must be true in your head before the step's judgments
+> are worth anything.*** **It is not a citation list to be honored afterward.**
+> ⛔ **Deferring it does not delay the cost. It converts the cost from MINUTES into a REBUILT DELIVERABLE** —
+> here, one reconciliation written twice and one set of downstream amendments applied, retracted and reapplied.
+
+⚠ **Note what did NOT catch it.** **The pass ran `M-171` receipts in every phase, passed thirteen QA gates, and
+recorded its own sources diligently.** ***None of that notices an unopened instruction, because every
+instrument it ran was one the unopened instruction would have configured.***
+
+---
+
+# `M-237` — ⛔⛔⛔ **A CONFIDENT NEGATIVE BUILT ON A SEARCH THAT DID NOT MATCH THE FORMAT. THREE TIMES IN ONE SESSION.**
+
+**Measured 2026-09-16, Davis. `M-171`'s rule, one level deeper.**
+
+**`M-171` established: *"I did not look, and it turned out to be empty" is not the same result as "I looked, and
+it was empty."*** ⇒ ⭐⭐⭐ ***This adds the next layer: "I LOOKED WITH THE WRONG INSTRUMENT" is also not "it was
+empty."***
+
+| # | The confident negative | What actually happened |
+|--:|---|---|
+| **1** | ***"`DRQ-09` blocks every export figure"*** | **Repeated a source's own over-broad sentence without testing it.** **The denominator question was settled elsewhere; the real blocker was a different term entirely.** ⛔ **Caused a SETTLED figure to be holed, and the phase to under-claim** |
+| **2** | ⭐⭐ ***"No city carries a tiered real-world pick list"*** | **Grep pattern `Supporting)` against a corpus file using `[SECONDARY]`.** **The file sat in the exact directory searched, carrying 62 `[PRIMARY]` and 83 `[SECONDARY]` tags.** ⛔ **Written into a phase file, a hole register AND a methodology defect list before the developer's question exposed it** |
+| **3** | **A verification grep reporting `0`** | **Searched lowercase against text written in capitals — by the same author, minutes earlier** |
+
+> ### ⛔ WHY IT IS DANGEROUS SPECIFICALLY
+> **A zero invites suspicion when you expect a hit. These were all zeros where the author expected a zero.**
+> ***A search that confirms what you already believe is the one you do not re-run.***
+> ⚠ **Instance 2 is the worst shape: the false absence was PROMOTED — recorded as a corpus-wide instrument gap,
+> which made it look like a methodology finding rather than a search error.**
+
+> ### ⭐ THE RULE
+> ***Before recording an absence as a finding, verify the FORMAT independently of the search.*** **Open one
+> known-positive instance by hand and confirm the pattern would have matched it.** ⭐ **This is Gate 1's
+> *"run the scan against a known hit first"* — and Gate 1 applies it only to coverage scans. It should apply to
+> every negative claim a pass makes.**
+
+⭐ **Family:** `M-171` *(unopened vs. opened-and-empty)* · **this** *(opened with a pattern that could not
+match)*. ⚠ **And all three instances here were caught by the developer asking a question, not by self-audit.**
+
+---
+
+# `M-238` — ⭐⭐ **GATE 1 NEEDS A FIFTH OUTCOME: *PRESENT IN TERM, BUT AS A REFUSAL*.**
+
+**Measured 2026-09-16, Davis Step 7, Gate 1.**
+
+**Gate 1 defines four outcomes per scanned term: pass · fail · covered in substance but absent in term · absent
+and unexplained.** ⛔ **A well-run anti-contamination pass produces a fifth that none of those describe.**
+
+**Raw, from the mortuary-register scan on a pass carrying a RESERVED mortuary question:**
+
+```
+  mortuar      18
+  ossuar        4
+  funer         0
+  cremat        0
+  mourn         0
+  A-1 carried in 9 of 11 phase and step files
+```
+
+> ## ⇒ **THE TERM IS EVERYWHERE, AND EVERY OCCURRENCE IS THE PASS SAYING IT WILL NOT ANSWER.**
+> ⭐⭐ **A reservation that is actively carried looks, to a frequency scan, exactly like heavy coverage. A
+> reservation that is silently skipped looks like a clean zero.** ***The scan cannot distinguish a carried
+> refusal from a treatment without reading the lines.***
+
+> ### ⭐ THE RULE
+> **Add the fifth outcome to Gate 1, and require the CLASSIFICATION STEP that produces it:** ***a term's count
+> is not a result until its hits have been read.***
+
+⭐ **Corroborated the same day by Gate F**, where a post-frame-term sweep returned 14 hits and **all 14 were
+either the frame's own declared end date or explicit refusals** — *zero actual leaks, from a scan that fired on
+every file.*
+
+---
+
+# `M-239` — ⭐⭐⭐ **GATE 9'S SECOND RUN IS THE ONE THAT PAYS. THIRTEEN GATES PASSED; IT FOUND THE HOLE.**
+
+**Measured 2026-09-16, Davis Step 7.**
+
+**Gate 9 runs twice: on inherited material, and on the thresholds the pass ITSELF just wrote.** **The gate's own
+warning — *"a pass reporting Gate 9 firing only on inherited material has probably not run the second pass"* —
+is the load-bearing half, and it earned its place.**
+
+**First run: clean.** The inherited instruments already carried their own asymmetries.
+⭐⭐⭐ **Second run: the pass had built an attachment mechanism across three phases — a mechanism by which a
+person acquires standing — and had never asked whether anyone can come back from being outside it.**
+
+> ## ⛔ **NO WRITTEN EXIT, NO WRITTEN RETURN — and the pass had described the resulting condition as a FINDING rather than as a GAP.**
+> ⭐ **Textbook, per the gate's own wording:** *"a 'no route back' nobody has perceived as a problem is a
+> textbook shadow."*
+
+> ### ⭐⭐ AND THE REVIEW PANEL THEN CORROBORATED IT FROM FIVE UNSHARED CORNERS
+> **The Elder** *(those the place can no longer use)* · **the Mentor** *(those who never got in)* · **the King
+> faculty** *(the blessing mechanism's single direction)* · **the Crone** *(is there a dignified way to stop)* ·
+> **Gate 9 itself** *(the mechanical check)*.
+> ***Five instruments, no shared premise, one wall.*** **That is as strong as the four-corner check gets, and it
+> means the hole is structural rather than an artifact of how the pass was written.**
+
+⭐⭐ **A SECOND CLOSE-OUT VALIDATION, same session.** **`M-208`'s generator check ran on a Step 4 already
+declared complete and returned `⛔ NEVER CITED` on ALL EIGHT generators — because no phase file carried the
+receipt line at all.** **Six generators were demonstrably live in the written phases.** ***Every per-phase check
+had passed. The step-level check caught what the per-phase discipline cannot see, which is exactly what
+`§C.8c-i` says it exists for.***
+
+> ### ⭐ THE PATTERN ACROSS BOTH
+> ***A check that runs against the pass's OWN OUTPUT, at a level above the unit that produced it, catches a
+> class of error that no amount of per-unit diligence will.*** **Both instances here were on work already
+> marked done.**
+
+---
+
+# `M-240` — ⭐⭐ **`05` §6.1 COLUMN 3 IS UNDER-APPLIED — AND THE TELL IS USUALLY SITTING IN THE CITING FILE**
+
+**Measured 2026-09-16, Davis Step 5.**
+
+**`05` §6.1's third column defines ADMISSIBLE BUT SELF-ORIGINATED material:** *a fact genuinely canon and
+genuinely usable, which **originated in this same location's own prior culture pass** and was later promoted or
+migrated.* ***"Use it — you are usually obliged to. But TAG EVERY FINDING THAT RESTS ON IT, because it is
+CORROBORATION, NEVER INDEPENDENT DERIVATION."***
+
+⛔ **A reconciliation presented two findings as independent convergences** — *the pass and an untouched culture
+file arriving separately at the same answer, which is the strongest validation a read-last check can produce.*
+⇒ ⛔⛔ **Both had migrated upward into shared canon FROM that same location's own earlier culture pass.** **The
+agreement was real. The independence was not.**
+
+> ## ⭐⭐ THE TELL, AND IT COST NOTHING TO FIND
+> **The canon file carrying one of them CITES ITS OWN ORIGIN, inline:** ***"worth pairing with the
+> robot-culture finding that…"***
+> ⇒ ***A migrated claim usually names where it came from. The check is to read the sentence AROUND the figure,
+> not just the figure.***
+
+> ### ⭐ WHY THIS MATTERS MORE THAN IT LOOKS
+> **A read-last check exists to produce independent corroboration. Counting migrated material as independent
+> inflates exactly the signal the check was built to generate** — ***the instrument reports its own echo as a
+> second voice.***
+
+⭐ **`05` §6.1 names the two commonest sources: *"a claim migrated upstream into shared canon"* and *"a symbol
+or type assignment derived from a prior personality read."*** **Both were live at this location.**
+
+---
+
+# `M-241` — ⛔⛔ **THREE SPINE INSTRUCTIONS THAT COMMAND THE FORBIDDEN OR THE NONEXISTENT**
+
+**Measured 2026-09-16, Davis Steps 6–8. All three bind every remaining city.**
+
+| # | Instruction | Problem |
+|--:|---|---|
+| ⭐⭐ **1** | **`03` Phase 9, Process E — the swap test:** *"would this survive if the location's name were swapped for its **NEAREST COMPARABLE**?"* | ⛔ ***That is a comparison, and the ONE LOCATION law forbids it in a per-city pass.*** ✅ **A peer-free substitute already exists in `CLAUDE.md`** — *"would satisfying this replace something specific to this place with something that could be true anywhere?"* ⚠ **SECOND SITE of this class; the first is `03` L465 in Phase 2** |
+| **2** | **`03` Phase 7's `MUST OPEN` block lists `Factions/` as *"the `7d` canon check · criminal-justice canon"*** | ⛔ **`Factions/` contains no criminal-justice canon.** **The only such design lives under another location's folder, is scoped to that location, and self-declares as *"a working design… not a finished or fully decided system."*** ⇒ **The annotation sends every city to the wrong place** |
+| ⭐ **3** | **Phase 10's Band 5–6 rule: *"delegate to sub-locations; catalog only what is genuinely national"*** | ⛔⛔ **`DR-4` DEFERS sub-locations corpus-wide.** ***The delegation target does not exist.*** ⚠ **A pass following the band rule literally would invent sub-locations to satisfy it, closing a deliberate deferral** |
+
+> ### ⭐ THE SHARED SHAPE
+> ***All three are instructions written before a later ruling, which the ruling silently invalidated.*** **None
+> is wrong in itself; each is a live instruction the corpus has since made unfollowable.**
+> ⚠ **A pass that obeys them produces a violation while following the methodology exactly.**
+
+---
+
+# `M-242` — ⛔ **A DATASHEET BUILT FROM A CATEGORY LIST UNDER-LISTS AGAINST THE SPINE'S OWN `MUST OPEN` BLOCK**
+
+**Measured 2026-09-16, Davis Phases 3–7. Four of five phases.**
+
+**Pre-staged datasheets were built from a field guide's per-phase CATEGORY LIST — a generalization — rather than
+from each phase's own `📂 MUST OPEN` block, which is the actual contract.** ⛔ **They do not match.**
+
+| Phase | Omitted |
+|---|---|
+| **3** | **A per-city research folder entirely — the phase's richest input** |
+| **4** | **Two named canon files** |
+| **5** | **A source that turned out load-bearing, and another listed as *"file exists"* without the city's own row** |
+| ⭐⭐ **7** | ⛔⛔ **7 of 13 items — including the one the spine annotates *"READ ITS `README.md` CARVE-OUTS FIRST,"* which voids an entire data layer the city's economic identity depends on** |
+
+> ### ⭐ THE RULE, and it is now in the field guide
+> ***The spine's `MUST OPEN` list is the CONTRACT. A category list is a FLOOR.*** **Walk the spine per phase and
+> tick each address off; record the coverage count in the datasheet itself.**
+> ⭐ **Second rule added the same session:** ***a `RELIABLE` stamp is not a blanket warranty*** — **the folder in
+> question opens `STATUS: RELIABLE` on line 1 and voids its entire food layer fourteen lines later.**
+
+✅ **Fixed at source the same session.** ⚠ **But the defect had already produced three separate omissions before
+anyone noticed, and the audit agenda written that morning had PREDICTED it in writing and been ignored.**
+
+---
+
+# `M-243` — ⭐⭐⭐ **AN APPARENT CONFLICT BETWEEN TWO INSTRUMENTS WAS DRIFT IN AN ARTIFACT. NEITHER NEEDED AMENDING.**
+
+**Measured 2026-09-16, Davis Step 10, item 7. Resolved by developer ruling the same day.**
+
+**Two instruments appeared to contradict each other, and both are load-bearing:**
+
+| Instrument | Says |
+|---|---|
+| **`00_RUNBOOK.md` Step 10, item 7** | ***"The next run's output folder does NOT already exist. A pre-seeded folder is a contamination risk and a status lie."*** |
+| **`Mechanical_Extraction_Field_Guide.md`** | **REQUIRES `<City>/Datasheets/` to exist IN ADVANCE — the entire purpose being that a pass does not go searching during productive hours** |
+
+⚠ **At the time of the check, two un-run cities had 19 pre-staged datasheets each.** **By item 7 as worded,
+two future passes were compromised before starting.**
+
+> ## ⭐⭐⭐ THE RULING, AND IT DISSOLVES THE CONFLICT RATHER THAN PICKING A SIDE
+> **Developer, 2026-09-16:** ***"Those datasheets should be copy-pasted information that the ULM actually
+> requires."*** **And, on the un-run cities:** ***"Casey and Mirny should not have 'conclusions.' They should
+> only have copy-pasted data."***
+>
+> | ✅ **A COMPLIANT datasheet** — transcription only | **INPUT.** *Item 7 does not apply* |
+> |---|---|
+> | ⛔ **A NON-COMPLIANT datasheet** — carrying synthesis | ***PRE-SEEDED CONCLUSIONS. Item 7 catches it, and is RIGHT to*** |
+>
+> ⇒ ***The conflict was never between the instruments. It was drift in the artifact.***
+
+### ⛔⛔ AND FOR AN UN-RUN CITY IT IS CIRCULARITY, NOT UNTIDINESS
+
+**`05` §6.1: *an input must not be a prior culture-pass CONCLUSION about the same location.*** **A conclusion
+sitting in a datasheet for a city whose pass has not started is exactly that.** ⇒ ***The pass would read its
+own answer and call it research*** — **and it would look like diligence, because the answer arrives with a
+citation attached.**
+
+### ⭐⭐ THE AUDIT, AND ITS OWN LESSON — **`M-237` fired on the compliance check itself**
+
+**A grep for inference markers (`⇒`, *therefore*, *which means*, *the real*) returned 7 hits across the two
+un-run cities.** ⛔⛔ **SIX WERE LEGITIMATE:**
+
+| Hit | Reality |
+|---|---|
+| ⭐ *"Not recorded as fact here. A T8 dispatch must adjudicate…"* | **A PROCEDURAL REFUSAL — the most useful line in that file, and exactly what a datasheet should carry** |
+| *"the real mechanism…"* | **Inside a QUOTED source correction. Transcription** |
+| **Two `Step_10` hits** | **Methodology notes making no claim about the city** |
+| **A checked zero with its roster size** | ***That IS the data*** |
+
+⇒ ⭐ **Only ONE was a genuine authored label — a characterization wrapped around an otherwise-clean quote.**
+
+> ### ⛔⛔ ***STRIPPING ON THE MATCH WOULD HAVE DELETED SIX CORRECT ENTRIES.***
+> **`M-237`'s rule applies to a compliance check as much as to any other search: *a pattern match is evidence
+> about the pattern.*** **The hits must be READ before anything is removed.**
+> ⭐ **This is the first instance in the corpus of `M-237` firing on an instrument built to enforce quality,
+> rather than on a research scan.**
+
+### ✅ WHAT WAS CHANGED
+
+- **`Mechanical_Extraction_Field_Guide.md` gains RULE 1b** — the input/output distinction, the circularity
+  point, the compliance grep, **and the warning that the grep over-reports.**
+- ⛔ **`00_RUNBOOK.md` Step 10 item 7 is UNCHANGED, deliberately.** ***It was correct as written.***
+
+⭐ **The general shape, worth carrying:** ***when two instruments in a mature methodology appear to contradict,
+check whether one of them is describing a HEALTHY artifact and the other a DRIFTED one, before amending
+either.*** **A rule written against a failure mode will look wrong when the failure mode is present and normal
+when it is not.**

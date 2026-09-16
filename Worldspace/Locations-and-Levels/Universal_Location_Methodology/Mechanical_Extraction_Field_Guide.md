@@ -158,6 +158,51 @@ phases run:**
 ⭐ **`M-169` already states the principle and it is the same one: *opened-and-empty is a RESULT; unopened is a
 HOLE.*** **A category list cannot produce that distinction; only an address list can.**
 
+## ⛔⛔ RULE 1b — **A DATASHEET CARRYING A CONCLUSION STOPS BEING INPUT AND BECOMES PRE-SEEDED OUTPUT**
+
+**Added 2026-09-16, from a developer ruling and a measured audit.**
+
+> **Developer, 2026-09-16:** ***"Those datasheets should be copy-pasted information that the ULM actually
+> requires."*** **And, on the un-run cities specifically:** ***"Casey and Mirny should not have 'conclusions.'
+> They should only have copy-pasted data so that you don't need to go looking for shit during what are supposed
+> to be the productive hours."***
+
+⭐⭐⭐ **THIS ALSO RESOLVES AN APPARENT CONFLICT BETWEEN TWO INSTRUMENTS, AND NEITHER NEEDS AMENDING.**
+**`00_RUNBOOK.md` Step 10 item 7 forbids a pre-existing output folder for the next run — *"a contamination risk
+and a status lie."*** **This methodology REQUIRES `<City>/Datasheets/` to exist in advance.**
+
+| | |
+|---|---|
+| ✅ **A COMPLIANT datasheet** — transcription only | **INPUT.** ***Item 7 does not apply*** |
+| ⛔ **A NON-COMPLIANT datasheet** — carrying synthesis | ***PRE-SEEDED CONCLUSIONS. Item 7 catches it, and is right to*** |
+
+⇒ ⭐⭐ ***The conflict was never between the instruments. It was drift in the artifact.***
+
+> ### ⛔⛔ AND FOR AN UN-RUN CITY IT IS CIRCULARITY, NOT MERELY UNTIDINESS
+> **`05` §6.1: *an input must not be a prior culture-pass CONCLUSION about the same location.*** **A conclusion
+> sitting in a datasheet for a city whose pass has not started is exactly that — ***the pass would read its own
+> answer and call it research.***
+
+### ⭐ THE COMPLIANCE CHECK — run before declaring a datasheet set done
+
+```bash
+# Inference markers have no place in a value+citation artifact.
+grep -rn "⇒\|therefore\|which means\|the real\|this is the" <City>/Datasheets/*.md
+```
+
+⚠⚠ **THE SCAN OVER-REPORTS, AND ITS HITS MUST BE READ, NEVER STRIPPED ON THE MATCH.** **Measured on a real
+audit: 7 hits, and SIX were legitimate** — *a procedural refusal (`"not recorded as fact here; a T8 dispatch
+must adjudicate"`), the word `real` inside a QUOTED source correction, and methodology notes that make no claim
+about the city.* ⭐ **Only one was a genuine authored label wrapped around a legitimate quote.**
+⇒ ***`M-237` applies to this check as much as to any other: a pattern match is evidence about the pattern.***
+
+**What a compliant row looks like:** ✅ **a neutral label naming the FIELD** · **the source's own words or
+figures** · **the citation.** ⛔ **No verdict, no "⇒", no characterization of the place.**
+✅ **A REFUSAL is permitted and encouraged** — *"not recorded as fact here, because X"* is a handling
+instruction, not a conclusion.
+
+---
+
 ## ⛔⛔ RULE 2 — **A `RELIABLE` STAMP IS NOT A BLANKET WARRANTY. READ THE FOLDER'S OWN `README` FIRST.**
 
 **A source folder may be marked settled at the top and void an entire layer of itself a few lines down.** ⛔ **A

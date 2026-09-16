@@ -6,7 +6,14 @@
 
 > # ⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-15. READ THIS FIRST, THEN THE BOOT BLOCK BELOW.**
 >
-> ## ▶ ACTIVE CITY: **Davis** *(`Mirny_Subnet/Davis`)* — **Steps −1 through 3 COMPLETE. Step 4 is next.**
+> ## ✅ DAVIS — **ULM COMPLETE, Steps −1 through 10** *(2026-09-16)*
+>
+> ⛔ **Gate 7 FAILS and is NOT closed** — *four of five research picks unspent; `H58`, the RWBEM inspirations
+> (`Inspirational-Influences.md` L75–78), never run. Blocked on web-search budget, not on effort.* **First item
+> for a fresh session.**
+> ⛔⛔ **AND THE NEXT CITY CANNOT BE RUN BY THE SESSION THAT RAN DAVIS** — *it read that city's own `16`
+> determination in full. Manifested in `06_Worked_Example_Provenance.md`.* **A fresh session must take it.**
+> **Detail: `Davis/07_QA.md` · `Davis/10_Readiness_Check.md` · `Davis/09.5_Log.md`.**
 >
 > | Step | State | File |
 > |---|---|---|
