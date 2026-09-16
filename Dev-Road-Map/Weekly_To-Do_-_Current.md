@@ -19,6 +19,11 @@ subnet regional identity, and more):** **`Universal_Location_Methodology/WHY_CIT
 
 **▶ TRACKER — status, per city, by subnet:** **`Dev-Road-Map/Location_and_Culture_Build_Tracker.md`**
 
+- [ ] ⏰ **TODAY after 15:00 — audit Zhongshan + Shirayuki, and double-check Mirny's and Casey's quick-reference
+  sheets** *(set 2026-09-16)*. **Full agenda, scope, the five defect shapes to hunt, and the contamination
+  ordering constraint:** **`Universal_Location_Methodology/AUDIT_AGENDA_2026-09-16_after-1500.md`**
+  ⛔ **Task A contaminates the orchestrator for Davis — read the ordering box before starting.**
+
 - **Mode: WARM** → `Universal_Location_Methodology/Run_Modes_Warm_and_Cold.md`
 - **One step at a time** → `Universal_Location_Methodology/Stepwise_Execution/` *(29 units)*
 - **Now:** Mawson, first pass, Phase 4 next. **0 of 36 complete.** ⏳ **~1–1.5 months.**

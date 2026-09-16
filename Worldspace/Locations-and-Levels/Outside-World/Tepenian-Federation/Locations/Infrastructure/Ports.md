@@ -117,7 +117,7 @@ you to §1.1's recurring cost, with a larger number.**
 
 ---
 
-# 3 · ✅ THE UPPER EARTH GATEWAYS — four partners, canon
+# 3 · ✅ THE UPPER EARTH GATEWAYS — four direct partners, plus neutral transshipment
 
 **Established framework, stated in `Specs/Marambio.md` and cross-referenced in `Specs/Sanay.md` and
 `Specs/Belgrano.md`.**
@@ -127,6 +127,7 @@ you to §1.1's recurring cost, with a larger number.**
 | **South Africa** | **Sanay** *and* **Belgrano** | ✅ **Both, interchangeably** — *"depending on seasonal ice conditions, not a fixed hierarchy"* |
 | **South America** | **Marambio** | ✅ *"the port, not the airfield, is Marambio's actual link to both worlds at once"* |
 | **Australia** | **Dumont d'Urville · Mirny · Mawson** | ✅ three-node |
+| ⭐⭐⭐ **NEUTRAL TRANSSHIPMENT — the French Southern and Antarctic Lands · Heard Island and McDonald Islands** *(developer ruling, 2026-09-16)* | ⭐ **Davis** *(principal)* · **Sayowa · the Tri-Cities · Mawson** | ⭐⭐ **INDIRECT access to Australian AND South African supply, without a direct bilateral relationship with either mainland power.** **INBOUND: raw materials the closed continental economy cannot manufacture for itself.** See `Neutral_Transshipment_Hubs.md` |
 | **New Zealand** | ⛔ **"Ross"** | ⚠⚠ **UNDER-SPECIFIED — see §6, "still open" item 1** |
 
 > ### ⚠ Marambio does double duty, and the split is deliberate
@@ -391,7 +392,7 @@ physical geography and ⚠ where canon is thin and a city pass should confirm.**
 | City | Port | 🔬 Basis | Tier |
 |---|---|---|---|
 | ⭐ **Neumayer** | **Atka Iceport** | ***A "more-or-less permanent indentation" ~16 km across in the ice-shelf front.*** **Cargo is landed at the shelf edge and hauled inland by tracked vehicle** | ⭐⭐ **ICEPORT** — *§2* |
-| **Davis** | **Prydz Bay** | **Maritime access in the austral summer, November–March, when ice allows delivery *"directly to station coastal facilities."*** *Vestfold Hills rock* | **CONSTRUCTED** *(seasonal)* |
+| ⭐⭐⭐ **Davis** | **Prydz Bay** | ⭐⭐ **TEPENIA'S PRINCIPAL INDIAN-OCEAN-SECTOR IMPORT PORT** *(developer ruling, 2026-09-16)*. **Deep sheltered water in the Vestfold Hills' fjord-like inlets, rock-founded, where `Hwy 110` meets the sea.** **Inbound: raw materials from Upper-Earth countries, transshipped via the French Southern and Antarctic Lands and Heard Island and McDonald Islands** — see `Neutral_Transshipment_Hubs.md`. ⚠ **The natural ice window is the austral summer, Nov–March. A principal import port runs past it, on a channel kept open by icebreaker** — *an established Tepenian practice; this coast is not the only place the Federation pays for one* | ⛔ **CONSTRUCTED** *(year-round, icebreaker-dependent)* |
 | ⭐⭐ **Zhongshan · Sinheung · Shirayuki** | ⭐ **THE TRI-CITIES PORT — Nella Fjord.** *Primary dominion: **SINHEUNG**.* **See §5.6c** | **A fault-trench fjord bisecting Broknes Peninsula, rock-walled on both sides** | **CONSTRUCTED** *(seasonal, shared)* |
 | **Casey** | **Newcomb Bay** | **A small bay on the northeast of Vincennes Bay — itself a V-shaped inlet 105 km wide at its mouth. The station stands on the southern side, on the Windmill Islands' rock** | ⭐ **GEOLOGICAL** *(seasonal)* |
 | ⛔⛔ **Denison** | **BOAT HARBOR** — *and it barely works* | ⭐ ***"At the seaward end of the largest valley is Boat Harbor, a 400 m long indent in the coast."*** **So Denison HAS a harbor.** ⛔ **But the site is the windiest place on Earth** *(Guinness; winds regularly over 240 km/h, annual mean 80 km/h)*, **and the wind *"whips the sea into a chop, topped with fierce spume only meters from the shore."*** *Summer brings periods of relative calm; winter storms start and end without warning* | ⛔ **GEOLOGICAL but WIND-DENIED** — see below |
@@ -619,7 +620,7 @@ whatever happened to that bay happened to it once, and the two cities did not su
 
 ---
 
-## The four Upper Earth gateways, by tier — **and they are not evenly matched**
+## The Upper Earth gateways, by tier — **and they are not evenly matched**
 
 | Partner | Node | Tier |
 |---|---|---|
@@ -627,9 +628,14 @@ whatever happened to that bay happened to it once, and the two cities did not su
 | **South America** | **Marambio** | ⭐ **GEOLOGICAL** |
 | **Australia** | **Dumont d'Urville · Mirny · Mawson** | ⭐ **Mawson is GEOLOGICAL** *(the only natural rock harbor on the continent)*; the other two unestablished |
 | **New Zealand** | ⛔ **"Ross"** | ⚠ **undecided — §6** |
+| ⭐⭐ **Neutral transshipment — the French Southern and Antarctic Lands · Heard Island and McDonald Islands** | ⭐ **Davis** *(principal)* · **Sayowa · the Tri-Cities · Mawson** | ⛔ **Davis is CONSTRUCTED** *(year-round, icebreaker-dependent)*; the others carry their own tiers |
 
 ⭐ **So the Atlantic gateway is the expensive one and the South American gateway is free** — *and Marambio
 also feeds the domestic Weddell network, which makes it the single best-positioned port in Tepenia.*
+
+⭐⭐ **The transshipment route is expensive by construction: it is the only gateway whose principal node must be
+kept open against the ice all year rather than worked inside a natural season.** ***That cost is what buys
+access to two mainland markets without a direct relationship with either.***
 
 ---
 

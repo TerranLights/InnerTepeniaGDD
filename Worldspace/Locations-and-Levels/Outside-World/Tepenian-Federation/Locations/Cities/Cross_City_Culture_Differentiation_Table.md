@@ -47,6 +47,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 
 | City | Subnet | Shape *(`02` §4)* | Deficit address *(`02` §4.1)* | Pass |
 |---|---|---|---|---|
+| **Davis** | Mirny | **`BALANCED`** — all four quadrants populated, no empty cell. ⚠ `COST-DOMINANT` considered and rejected 3–0 | ***Every deficit is a MISSING INSTRUMENT, not a missing resource.*** Sub-structure **COST-ABSENT**; characteristic failure is **LAPSE**, not collapse. ⚠ Several addressed in the parent | **ULM 2026-09-16** |
 | **Sinheung** | Mirny | **COST-DOMINANT** — *imposed, not voluntary* | ⭐ **SINGLE ADDRESS for structural authority — a named neighbor.** *The one structural problem it cannot send away is the one it quietly invented an answer to* | ✅ **2026-09-07** |
 | **Shirayuki** | Mirny | ⚠ **Read twice** — `COST-ABSENT`-leaning quarantined / `COST-DOMINANT` admitted | ⭐ **FOUR deficits, FOUR different addresses — no two share a remedy or a counterparty** | `City_Development_Passes/Mirny_Subnet/Shirayuki/` |
 | **Zhongshan** | Mirny | **BALANCED, with a DOUBLED deficit** | **Nowhere at all ×2** *(can't retain precipitation; can't land small boats — both physical, unremediable)* · **In its own past ×1** *(the court sat once, before arrival)* · **Diffuse ×2** | `City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/` |
@@ -57,6 +58,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 
 | City | Arrival mode-mix | The organizing axis |
 |---|---|---|
+| **Davis** | **ASSIGNED / POSTED — primary at law, with the rotation clock removed.** `CLASS-SENTENCED` · `ALLOCATED` *(Art. II.3.2)* · `UNCLOCKED` *(no term, no posting length, no return — the assigned mode's own diagnostic feature, absent)*. ⭐ Native within two generations; **no arrival mode operating since** | ### ***What announces its own failure, and what does not*** |
 | **Sinheung** | **Allocated by treaty before the exile era; settled on inherited working infrastructure** | ⭐ **TITLE GRANTED, NOT WON** |
 | **Shirayuki** | Assigned at founding; no self-selected layer at all; *chose it* fills only in Act 2, and only through an institution | ⭐⭐ **ASSIGNED FIRST, CHOSEN LATER** — *when did anybody's own choice to be here first become part of their story?* |
 | **Zhongshan** | **Five modes, and one conspicuous null** — inherited it · sentenced to it *(no charge)* · chose it irreversibly · chose it ordinarily · born here. ⛔ **STOPPED WHILE PASSING is null**, and the null is explained | **`PRIORITY OF PRESENCE`** — *not origin, not proportion: who was already standing here* |

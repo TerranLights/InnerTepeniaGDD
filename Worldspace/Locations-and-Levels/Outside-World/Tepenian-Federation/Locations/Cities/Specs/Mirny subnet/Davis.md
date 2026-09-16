@@ -145,7 +145,62 @@ A practical, research-focused institutional culture shaped Davis from the beginn
 ---
 
 ## Economy & Industry
-Vestfold Hills oasis resources (lakes, fjord access, terrain diversity), Prydz Bay maritime trade, logistics within the Mirny subnet. Full detail TBD.
+
+> ### ⭐⭐⭐ DEVELOPER RULING, 2026-09-16 — **DAVIS IS A PORT CITY.**
+
+**Davis is Tepenia's principal Indian-Ocean-sector port — a Vladivostok-style port city**, in the specific
+structural sense: ***the place where a continental trunk route meets deep sheltered water, and where that
+meeting becomes the city's defining fact rather than an amenity.***
+
+### The structure
+
+| | |
+|---|---|
+| ⭐⭐ **The trunk route** | **`Hwy 110`, the Coastal Cut Highway**, runs *through* Davis on the Zhongshan → Davis → Mirny → Casey → Concordia line |
+| ⭐⭐ **The deep water** | **Prydz Bay and the Vestfold Hills' fjord-like inlets** — sheltered, rock-founded, the best natural harbor geometry on this stretch of coast |
+| ⭐⭐⭐ **The consequence** | ***Davis is where the road meets the sea.*** **Cargo transfers between blue-water shipping and the national highway network here** |
+
+### ⭐⭐⭐ THE DIRECTION OF TRADE — **INBOUND. Davis is an IMPORT port.**
+
+> ⛔⛔ **DAVIS DOES NOT SHIP FOOD OUT OF TEPENIA.** **Its agricultural output is a DOMESTIC supply, feeding
+> the Federation** *(the coalition finding: Tepenia is fed by a coalition of farms and fisheries)*.
+
+⭐ **What moves through Davis's harbor is RAW MATERIALS COMING IN — the inputs a closed continental economy
+cannot make for itself, imported from Upper-Earth countries.**
+
+⭐⭐ **And this is exactly what Davis's own constraints name.** **`10_Validation_Findings` §5e records that the
+Davis greenhouse has *"no ecological ceiling — limited by ENERGY, GLASS, CO₂, labor, logistics: engineering
+problems, all solvable with capital."*** ⇒ ***Those are imports.***
+> # **The port exists to feed the greenhouses, not to empty them.**
+
+### Primary trade relationships — **the neutral hubs**
+
+**Davis's inbound trade runs primarily through the two subantarctic territories nearest this coast:**
+- ⭐ **French Southern and Antarctic Lands (TAAF)**
+- ⭐ **Heard Island and McDonald Islands (HIMI)**
+
+**Both function as politically-neutral transshipment hubs, giving Tepenia INDIRECT access to Australian and
+South African supply without a direct bilateral relationship with either mainland power.**
+**Full mechanism, beneficiary cities and open questions:
+`Locations/Infrastructure/Neutral_Transshipment_Hubs.md`.**
+
+### Other sectors
+
+**Sheltered-agriculture and greenhouse cultivation — the breadbasket, UNCHANGED** *(developer vision
+2026-07-05, revised 2026-07-16)* · **ecological / limnological research**, the founding heritage and a co-equal
+pillar · **logistics within the subnet** · **Vestfold Hills oasis resources.**
+
+### ⏸️ Open items
+
+- ⭐⭐ **The harbor's operating season.** **The natural ice window in Prydz Bay is the austral summer,
+  November–March. A principal import port needs more than five months, which means icebreaking capability —
+  where it is based, who operates it, and what it costs are unset.** **`H65`.**
+- ⭐ **Sector sizing.** **Whether a national import port can be carried inside a maritime sector at 15% of the
+  distinctive tier. No replacement figure is set.** **`H67`.**
+- **The inbound manifest.** **Glass, CO₂, energy hardware, nutrient and mineral feedstock and metal are the
+  obvious candidates from the constraint list, but what actually arrives is unruled.** **`H66`.**
+- **The form of the arrangement with the transshipment territories** — treaty, lease, port rights, standing
+  commercial agreement — **and when it was established.**
 
 ---
 

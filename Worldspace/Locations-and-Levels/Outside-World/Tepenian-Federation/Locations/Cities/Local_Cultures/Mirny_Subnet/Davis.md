@@ -161,7 +161,7 @@ Understated and varied, without a single dominant local tradition — Davis's br
 
 - Agricultural / food production (sheltered-agriculture, greenhouse cultivation): ~35% — the clear majority, Davis's near-exclusive status as the Breadbasket of Tepenia
 - Technical / scientific (environmental, ecological, and limnological research): ~25% — the founding research heritage, now a co-equal pillar alongside agriculture rather than a shrinking minority
-- Maritime (Prydz Bay, fjord access): ~15%
+- ⭐⭐⭐ **Maritime (Prydz Bay, fjord access): ~15%** — **Davis is Tepenia's principal Indian-Ocean-sector import port, a Vladivostok-style port city where `Hwy 110` meets deep sheltered water** *(developer ruling, 2026-09-16)*. **The sector is FREE, not mandated: hub status is infrastructure, not provider work.** ⏸️ **Whether a national port can be carried at 15% of the distinctive tier is unsettled and no replacement figure is set — `H67`.** **See `Specs/Mirny subnet/Davis.md` § Economy & Industry and `Infrastructure/Neutral_Transshipment_Hubs.md`**
 - Commercial (bars, eateries, social establishments — see Section 26/27): ~15%
 - Industrial / manufacturing (non-mining, general): ~5%
 - Other, including a small but genuine arts/music community: ~5%
@@ -230,11 +230,28 @@ Research-and-data-oriented — Davis's Arcanet use skews toward environmental mo
 
 ---
 
-## 25. Export Culture
+## 25. Export & Import Culture
 
 - Environmental and terrain-research expertise — Davis-trained naturalists and researchers are recognized for genuine depth of knowledge
 - A specific *type of person* — quietly competent, allergic to self-promotion, genuinely more interested in doing good work than being recognized for it
 - Careful, precise craftsmanship in field and research equipment
+
+> ### ⭐⭐⭐ IMPORTS — *developer ruling, 2026-09-16*
+> ⛔⛔ **Davis does not ship food out of Tepenia. Its agricultural output is a domestic supply — it feeds the
+> Federation and has no foreign market.**
+>
+> ⭐⭐ **What moves through Davis's harbor is raw materials coming IN: the inputs a closed continental economy
+> cannot manufacture for itself, carried from Upper-Earth countries and transshipped through the
+> French Southern and Antarctic Lands and Heard Island and McDonald Islands, which serve as
+> politically-neutral hubs giving Tepenia indirect access to Australian and South African supply.**
+>
+> ⭐ **The city's own constraints name what it needs: `10_Validation_Findings` §5e records the Davis greenhouse
+> as *"limited by ENERGY, GLASS, CO₂, labor, logistics — engineering problems, all solvable with capital."***
+> ⇒ ***The port feeds the greenhouses; it does not empty them.***
+>
+> **The three bullets above are unaffected — expertise, a type of person, and craftsmanship travel outward and
+> were never seaborne freight.**
+> **Full mechanism: `Infrastructure/Neutral_Transshipment_Hubs.md`.**
 
 ---
 
@@ -268,7 +285,7 @@ Marked by the shift from being told about the terrain to actually knowing it —
 
 - **The Vestfold Hills fjord inlets** — the most distinctive terrain feature, Prydz Bay's fjord-like inlets cutting into the ice-free hills
 - **The lake system** — freshwater and saltwater lakes, including unusual hypersaline and landlocked marine basins, within the city's territory
-- **Prydz Bay harbor** — the primary maritime entry point
+- ⭐⭐⭐ **Prydz Bay harbor** — ***Tepenia's principal Indian-Ocean-sector import port.*** **Where `Hwy 110` meets deep sheltered water: the transfer point between blue-water shipping and the national highway network, and the city's defining structure** *(developer ruling, 2026-09-16)*
 - Additional named locations: TBD
 
 ---

@@ -2042,10 +2042,38 @@ mandated sector.**
 
 ### What stays FREE
 
-- **Maritime 15%** *(Prydz Bay, fjord access)* — **considered for the mandate and rejected.** Davis's produce
-  must reach the country, but **Davis sits on the `Hwy 110` (Coastal Cut Highway) main line** between
-  Zhongshan and Mirny *(`Highways.md` L195, L197)*, so **it is not dependent on its own
-  shipping** — and the cluster's output moves **by road and air** per the 2026-09-02 ruling at Zhongshan.
+- ⭐⭐⭐ **Maritime 15%** *(Prydz Bay, fjord access)* — **FREE, not mandated.**
+
+  **Davis is Tepenia's principal Indian-Ocean-sector import port. `Hwy 110`, the Coastal Cut Highway, runs
+  through the city and meets deep sheltered water in the Vestfold Hills' fjord-like inlets. Cargo transfers
+  between blue-water shipping and the national highway network here.**
+
+  **The harbor brings in raw materials the closed continental economy cannot manufacture for itself, carried
+  from Upper-Earth countries and transshipped through the French Southern and Antarctic Lands and Heard Island
+  and McDonald Islands. Davis's agricultural output is a domestic supply and does not leave the continent.**
+
+  > ### ⭐⭐ WHY IT IS FREE RATHER THAN MANDATED
+  > **The standing rule in this folder: hub status is infrastructure, not provider work. A city is not
+  > conscripted for sitting where the routes meet.**
+  >
+  > ⭐⭐⭐ **The import direction decides it. Davis is not required to produce something for anyone else — it
+  > operates a transfer point through which goods reach their buyers. That is infrastructure the city runs, and
+  > infrastructure belongs to the character budget.**
+  >
+  > ⚠ **The contrary reading is available and is recorded, not buried: Davis's own §15 asserts the maritime
+  > sector rather than leaving it to inference, which is the condition under which a logistics sector can be
+  > mandated. If a future ruling goes that way, mandating maritime moves 62.5% of the distinctive tier into the
+  > mandate — mandate ≈ 37.1%, free ≈ 22.2%.**
+
+  > ### ✅ DISPOSITION — **developer ruling, 2026-09-16**
+  > ***"Mandate 28.2% / free 31.1% actually does make sense within the context of the city setting, since it's
+  > the sort of thing they'd need."***
+  > **Option B stands: mandate 28.2% · free 31.1%.**
+
+  ⏸️ **Open, and not derived here: whether a national import port can be carried inside a sector sized at 15%.
+  No replacement percentage is set. `H67`.**
+  ⚠ **§15's shares sum to 100%, and maritime's largest neighbor is agriculture at 35% — Tier 2 authorial
+  vision. Any future re-size must not erode the breadbasket as arithmetic collateral.**
 - **Commercial 15%** — *"bars, eateries, social establishments."* Local amenity. **⭐ Worth pairing with the
   robot-culture finding that Davis has NO drinking-culture institution at all** — *"a genuine muted absence…
   consistent with the 'let the work speak' ethos."* **The bars exist; the culture around them does not.**

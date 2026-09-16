@@ -89,7 +89,7 @@ coincidence.
 |---|---|---|---|
 | Mirny | Saturn | Earth | Built as its own windbreak, unforced pride, doesn't need outside validation |
 | Casey | Mars | Fire | Revived from centuries of drifting through other various conditions, back to being oriented around culture |
-| Davis | Earth | Earth | Literally the breadbasket — patient, sheltered, growing |
+| Davis | — | — | ⏸️ **BLANK. Deliberately unset, developer ruling 2026-09-16** — *"for now, for the current time, we can just make that blank."* ⛔ **Do not fill from the breadbasket reading; Davis is also a port city, and the symbol is open** |
 | Kunlun | Pluto | Air | Among the most physically isolated places in Tepenia, built entirely around observation |
 | Vostok | Pluto | Water | Tepenia's other loneliest outpost, deep biological/genetic research |
 | Zhongshan | Saturn | Metal | "The Quiet City" — self-sufficient, ordered complexity, content unexamined |

@@ -42,9 +42,8 @@ founded on, extended into the one place a robot genuinely can't help but leave a
   ("success and abundance aren't assumed to be permanent").
 - **Input E — Tepenia-Wide Robot Culture Canon:** all 5 applicable members checked. Robot Biology and
   Culture, Glitch-Coolant (Davis fits neither established canon category, nor Casey's transience-driven third
-  option — see §6, a genuine muted-absence finding), Robot Elementals (**Earth is already established canon
-  for Davis** — the `city-symbol-pairs.md` cross-reference confirms Davis = Earth/the breadbasket; this pass
-  confirms and expands rather than proposes new, unlike the first-ever picks at Janbogo/Mirny), Human-Robot
+  option — see §6, a genuine muted-absence finding), Robot Elementals (⏸️ **Davis's Elemental assignment is
+  BLANK — deliberately unset, developer ruling 2026-09-16; see `City_Symbol_Assignments.md`**), Human-Robot
   Relations Baseline. The Fragmentation Matrix checked and found not to apply, consistent with prior cities.
 - **Additional candidate inputs used:** Community Infrastructure (above). City Enneagram Personality
   (Instinctive/Withdrawn/Competency — "patient, physical... not analysis-for-its-own-sake or self-image")
@@ -76,7 +75,7 @@ founded on, extended into the one place a robot genuinely can't help but leave a
 | Arcanet Etiquette *(Part IV worked example)* | **Yes — already confirmed in canon** | §24 explicitly self-describes as research/data-oriented, closer to Zhongshan's specialization than Casey's or Mirny's — confirmation, not new derivation; see §9. |
 | Robot Biology and Culture | **Yes** | Siligel gets real local specification (precision-craft, Zhongshan-adjacent minus ceremony); see §6. |
 | Glitch-Coolant | **Yes, as genuine muted absence** | Fits neither bohemian/variety, working-class/potency, nor Casey's transience-driven third pattern — the honest local expression is minimal, private, institutionally invisible consumption, consistent with the city's entire anti-glory ethos. |
-| Robot Elementals & Platonic Solids | **Yes (Elementals only) — already established** | Earth is already on file for Davis (`city-symbol-pairs.md`, Davis = Earth/the breadbasket) — this pass confirms and expands with a robot-specific angle rather than proposing new. Platonic Solids excluded, consistent with prior cities. See §5 and Cross-Reference Synthesis. |
+| Robot Elementals & Platonic Solids | ⏸️ **BLANK** | **Davis's Elemental assignment is deliberately unset** *(developer ruling, 2026-09-16 — `City_Symbol_Assignments.md`)*. **§5's Elemental entry and the Cross-Reference Synthesis finding that rested on it are withdrawn. Platonic Solids excluded.** |
 | Human-Robot Relations Baseline | **Yes, confirmed + highlighted** | §16 already notes a genuine population reversal (human-majority, 437,423 to 344,173) — the first such reversal encountered in this run; worth flagging as notable even though no further robot-specific mechanism is proposed beyond what §16 states. |
 | The Fragmentation Matrix (Bond/Grief) | **N/A (out of scope)** | Same reasoning as the prior three cities — a player-facing mechanic, not a culture-content input; Davis is a standalone subnet city. |
 
@@ -137,12 +136,8 @@ localize per city.*
 
 - **[Directly-inherited, Deep]** §18's no-dominant-tradition landscape is confirmed as accurate by this pass.
   See Cross-Reference Synthesis for the genuinely new material that fills the gap without contradicting this.
-- **[Directly-inherited, Deep]** Earth is already established canon for Davis (Davis = Earth/the breadbasket,
-  per `city-symbol-pairs.md`) — a confirmation, not a new proposal, unlike Janbogo's and Mirny's first-ever
-  informal picks. Robot angle: Earth's positive valence (reliability, patience, groundedness, unshowy
-  support) plausibly validates robot researchers' and naturalists' own professional ethos directly — see
-  Cross-Reference Synthesis for how Earth's *negative* valence maps onto an already-established internal
-  tension with unusual precision.
+- ⏸️ **BLANK.** **Davis carries no Elemental assignment** *(developer ruling, 2026-09-16 —
+  `City_Symbol_Assignments.md`)*. **No robot-specific Elemental practice is proposed here.**
 
 ### 6. Consumption & Vice Culture — Local Siligel/Coolant/Glitch-Coolant Flavor
 
@@ -218,17 +213,13 @@ localize per city.*
   undramatic verification-creed (Mirny), not anti-mythologizing of lost things (Casey), but comfort with
   unresolved multiplicity itself.
 
-- **[Adapted, Deep]** — *Input categories combined: A (§5's fault lines; Course of Events chain #8, "The Wish
-  Nobody Says Out Loud") + E (Earth's own established dual valence) + C (the infrastructure record of Davis's
-  deliberately modest, anti-glory civic architecture)*
-  Earth's positive valence (reliability, patience, groundedness, unshowy support) and negative valence
-  (stagnation, paralysis, hoarding, smothering) map onto Davis's own already-established internal fault line
-  with unusual precision: satisfied quiet-competence vs. resentment of a *permanent* support role, and the
-  specific private awareness (per the Course of Events material) that Davis could plausibly have been an
-  assertive, Vladivostok-style port city and chose humility instead. This gives a real mechanism connecting
-  folk-Elemental belief to lived civic tension, rather than treating them as two unrelated facts — and, like
-  Casey's Wilkes irony, reads as genuinely strong, ready-made hook material for future questline or character
-  work, not purely a culture finding.
+- ⏸️ **WITHDRAWN, 2026-09-16.** **This finding mapped an Elemental dual valence onto Davis's internal fault
+  line. It rested on two inputs that no longer hold: Davis's Elemental assignment is now deliberately blank,
+  and the supporting history-file material is non-canon.**
+  ⛔ **Davis is Tepenia's principal Indian-Ocean-sector import port** *(developer ruling, 2026-09-16)*.
+  **Any future treatment of this axis starts from that.**
+  ✅ **§5's fault line itself is unaffected** — *satisfied quiet-competence versus resentment of a permanent
+  support role stands on its own, in `Local_Cultures` §5b.*
 
 ---
 
