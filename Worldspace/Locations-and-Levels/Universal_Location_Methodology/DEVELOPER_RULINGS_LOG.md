@@ -87,14 +87,37 @@ review and is expected to change.**
 **Twelve files reference `Robot_Elementals`.** Two matter:
 
 - **`Zhongshan_Opus/04_Phase_06_Meaning.md`** — the pass the developer declared **OFFICIAL** on this same date
-  *(see `MASTER_Process_Tracker.md` §"OFFICIAL ≠ CANON")*. **If the six meanings change, that Phase 6 may need
-  revisiting.** ⭐ **This is not a problem; it is the "official ≠ canon" distinction doing its job on day one** —
-  the pass is an exemplar of *method*, and its *content* was always pending developer review.
+  *(see `MASTER_Process_Tracker.md` §"OFFICIAL ≠ CANON")*. ⛔ **The six meanings HAVE now changed — see the
+  resolution below — so that Phase 6 needs revisiting.** ⭐ This is not a problem; it is the "official ≠
+  canon" distinction doing its job — the pass is an exemplar of *method*, and its *content* was always
+  pending developer review. **Not actioned as part of this resolution; a separate task.**
 - **`Concordia-City/Districts/Zodiac_Personality_Substrate/A_Elements.md`** — the district methodology's element
   layer. ⚠ **Scope check needed: does this ruling reach the district substrate, or only the city Elementals?**
   → **`DR-1a`, open.**
 
 **Davis is directly affected: its element is `Earth`, one of the six.**
+
+### ✅ RESOLVED 2026-09-21 — Branch A, physical derivation, chosen and executed
+
+**Developer, verbatim, on the two branches offered:** *"the original Wu Xing meanings are not used here in
+the same sense as they traditionally were… we'd be partially recreating new meanings based on principles of
+Science and Physics. In your recommendations, I would say Branch A (derive from physics)."*
+
+| | |
+|---|---|
+| **The six pulled-back members** | ⛔ **No longer "unrevised ancient traditional form."** All six — Earth, Air, Fire, Water, Wood, Metal — rebuilt on physical derivation: each meaning grounded in a real, verifiable physical fact, the same method `Planetary_Symbols.md` uses. The Wu Xing correspondences (Direction · Season · Color · Virtue · Emotion, and the organ pairs) are struck from all six, not carried forward in any form |
+| **"Partially" governs** | The element **names** stand. Pole content that survived on physical merit was kept; what changed is the *source* the meaning is derived from |
+| **Electromagnetism** | ⛔ **Reverted to Magnetism** — name and scope. The broadening into signal/transmission is withdrawn; it overlapped Electricity, which already claims connection and communication. Action-without-a-medium was not lost — a static magnetic field acts across vacuum, which is what still separates this member from Air. Also rebuilt on physical derivation (poles, domains, Curie point, hysteresis) |
+| **Electricity** | ✅ Untouched — developer-authored, settled, unaffected by this resolution |
+| ⏸️ **Still open** | **All seven non-Electricity members' one-word labels are flagged for developer review and are expected to change.** The label alone is unsettled; the five-field content under it (summary/neutral/positive/negative) does not depend on which word wins |
+| **The Wu Xing gap (`00_RUNBOOK.md` §C.7)** | ⛔ **Declined.** The generating/overcoming cycles belong to the tradition this file no longer draws from. `Robot_Elementals.md` stays THIN, permanently, on this axis |
+
+**What this settles for `G1`:** the Element half of `G1` is no longer `RESERVED` for meaning — it is
+composed and citable, same footing as the Planet half, **except that a pass should treat any specific
+one-word label as provisional** until the flagged review closes. `05` §3's "the methodology must not decide
+it" no longer applies to the six meanings; it still applies to the seven pending one-words.
+
+**Full content:** `Robot_Elementals.md`, rebuilt in place, same file.
 
 ---
 
@@ -331,6 +354,42 @@ compliance, not override.***
 
 ---
 
+# 2026-09-16
+
+## `DR-8` · ⛔⛔ **SYMBOL APPLICATION FOR CITIES IS DEFERRED — apply once the place is known, not before**
+
+**Developer, verbatim:**
+
+> *"Something I'd like to make an adjustment on is to postpone the usage of symbols (Planetary Symbols and
+> Robot Elementals) until later, because when the results arise from the ULM, it might turn out that they
+> contradict whichever symbols they already have. So, we'll apply the symbols after we know what the places
+> are actually like."*
+
+| | |
+|---|---|
+| ⛔ **Deferred — not opened, not cited, not corroboration** | `City_Symbol_Assignments.md` (Planet + Element), `Planetary_Symbols.md`, `Robot_Elementals.md` — for any city pass, at any generator tier |
+| ✅ **Reconciled, once, after the fact** | Only once that city's own Phases 1–9 are written — confirmed, revised, or left explicitly open against what the pass actually found |
+| ✅ **WHERE — settled `DR-8a`, same day** | **Step 4, Phase 10 (Catalog).** Not Step 5 — Phase 10 already has the full Phase 1–9 profile in hand by the time it's written, so nothing structural forces the determination later. Step 5 remains the backstop: if its own reconciliation pass surfaces a genuine contradiction, the Phase 10 symbol gets revised there like any other finding — but it does not make the primary call |
+| ✅ **Unaffected** | The Zodiac Lens's non-assignment interrogation use (`03` Phase 10 §B2); district-scale Zodiac Personality Substrate work |
+| ⚠ **A datasheet may still transcribe** | An assignment surfacing incidentally in another already-open source (e.g. inside `16_Per_City_Three_Tier_Run.md`'s own Notes) — flagged PROVISIONAL, never presented as the pass's own settled symbol |
+
+**Relation to `DR-1`:** a different axis of the same instrument. `DR-1` pulled back six of eight Robot
+Elemental *meanings* as under revision; `DR-8` governs *when in a pass* any of these systems — meanings
+settled or not — may be read and used at all. Both hold simultaneously.
+
+**Why:** the existing 34-of-35 city assignments in `City_Symbol_Assignments.md` are provenance-downstream of
+an earlier, shallower personality read than the full 11-phase ULM produces. Using them as input, or even as
+corroboration, risks a pass writing quietly toward an answer a fuller read would have contradicted.
+
+**Full statement and mechanism:** `00_RUNBOOK.md` §C.7 · `02_Generators_Capability_and_Symbols.md` G1 ·
+`Mechanical_Extraction_Field_Guide.md` Phase 10.
+
+**Already applied:** Kunlun's and Vostok's own 19-file datasheet sets (`City_Development_Passes/Mirny_Subnet/
+{Kunlun,Vostok}/Datasheets/`) — Kunlun's `16`-sourced Air-Element citations in `Phase_6.md`/`Phase_7.md`/
+`Phase_10.md` were flagged PROVISIONAL in the same turn as this ruling.
+
+---
+
 # OPEN, ARISING FROM THESE RULINGS
 
 | | Question | Owner |
@@ -338,3 +397,28 @@ compliance, not override.***
 | **`DR-1a`** | Does the Elementals pullback reach the **district** substrate (`Zodiac_Personality_Substrate/A_Elements.md`), or only the city Elementals? | ⏸️ developer |
 | **`DR-3a`** | How does the early per-subnet currency layer reconcile with the existing energy-backed → regional + trade-standard history? | ⏸️ **future — gated behind all 38 × 3** |
 | — | Back-fill prior developer rulings into this log from `00_RUNBOOK.md`, `CLAUDE.md`, and the observations file | ⏸️ **not mid-pass** |
+
+> ✅ `DR-8a` — **SETTLED, 2026-09-16.** Step 4, Phase 10. Folded into `DR-8` above; no longer open.
+
+> ⚠ **`DR-1` × `DR-8` interaction, flagged and clarified same day.** `DR-8`'s §B3 means every city's Phase 10
+> will, soon, actually need to open the symbol-substrate files and apply a member's meaning. **Only one of the
+> two systems has content work outstanding:**
+>
+> | System | Status, developer-confirmed 2026-09-16 |
+> |---|---|
+> | **Planetary Symbols** (9 planets + the Asteroid Belt, 10 members) | ✅ **ALL 10 OFFICIAL — no work needed on the existing set.** *"I wrote all of them myself."* Matches the count already on record at `00_RUNBOOK.md` §C.7. ⏸️ **Possible 11th member under consideration: the Sun** — *"since the Asteroid Belt already is [a non-planet member] as well."* Not yet decided; existing 10 stand regardless |
+> | **Robot Elementals** (8 members) | ⛔ **Only Electricity is settled outright.** Electromagnetism, the second previously-"developer-authored" member, is now itself **under reconsideration** — *"somewhat considering redoing back to just 'Magnetism,' though I'm not sure about that."* **Earth · Air · Fire · Water · Wood · Metal remain in unrevised "ancient traditional" form** and need attention, per `DR-1` |
+>
+> **So the real gap is narrower than "six of eight" now reads in `DR-1` above** — it may be **seven** pending
+> the Electromagnetism/Magnetism decision, and Planetary Symbols drop out of scope entirely. **Developer,
+> same-day note prompting this:** *"very soon, I'll need to figure out the actual exact meanings of the
+> currently-unsettled Elementals."*
+>
+> ✅ **RESOLVED 2026-09-21 — see `DR-1`'s own resolution above.** Electromagnetism reverted to Magnetism;
+> all six pulled-back members rebuilt on physical derivation. The row above is the state as of 2026-09-16 and
+> is superseded.
+>
+> ⏸️ **Owner: developer.** Not blocking Phases 1–9 of any city by the mechanism itself — only Phase 10 §B3 for
+> a city whose profile points at one of the unsettled Elemental members. **Sequenced as a pre-requisite
+> anyway, developer decision 2026-09-16: settle it before starting the ULM on the next city**, rather than
+> risk hitting it as a mid-pass interruption partway through an otherwise-continuous 11-phase run.

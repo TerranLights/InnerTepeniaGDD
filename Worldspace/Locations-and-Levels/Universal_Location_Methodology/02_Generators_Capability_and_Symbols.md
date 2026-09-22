@@ -127,16 +127,36 @@ something unintended · **Availability** — how often it actually exists.
 The zodiac for districts; Planet + Element for cities; whatever a future project registers. **Powerful when
 rich, weak when thin, and §6 exists to tell the difference before you rely on it.**
 
+> ### ⛔⛔ **DEFERRED — `G1`'s CITY-SCALE FORM IS NOT OPENED DURING A PASS.** *(Developer ruling, 2026-09-16.
+> Full statement and rationale: `00_RUNBOOK.md` §C.7.)*
+> **Planet + Element (`City_Symbol_Assignments.md`), `Planetary_Symbols.md`, and `Robot_Elementals.md` are not
+> read, not cited, and not used as corroboration for any city pass — not even at demoted/corroboration-tier.**
+> **Existing city assignments were derived from an earlier, shallower personality read and may not survive
+> contact with the full ULM profile; treating them as input or corroboration risks writing toward an answer
+> that later turns out wrong.** ✅ **They are reconciled — confirmed, revised, or left open — only after that
+> city's own Phases 1–9 are complete,** on the same "apply once we actually know" logic already governing the
+> sign-layer question below. **`G1` is therefore excluded from `§C.8c-i`'s per-phase "every G1–G8 must appear"
+> check for the duration of a normal run.**
+> ✅ **WHERE — settled `DR-8a`, 2026-09-16: Step 4, Phase 10 §B3, not Step 5.** By the time Phase 10 is
+> written the full Phases 1–9 profile already exists, so nothing forces the call later; Step 5 stays the
+> backstop for a genuine contradiction, not the primary determination point.
+> ⚠ **Content note, updated 2026-09-21:** `Planetary_Symbols.md`'s 10 members (9 planets + the Asteroid
+> Belt) are all developer-authored and settled — no content work blocks §B3 there. `Robot_Elementals.md` is
+> composed on physical derivation for Earth, Air, Fire, Water, Wood, Metal and Magnetism, and Electricity is
+> unchanged and settled. ⏸️ **All seven non-Electricity one-word labels are flagged for developer review and
+> may still change** — check `Robot_Elementals.md` itself before citing one at §B3. See
+> `DEVELOPER_RULINGS_LOG.md`'s `DR-1` for the current detail.
+
 > ### ⏸️⏸️ **UNDETERMINED — a SIGN layer for cities.** *(Developer ruling, 2026-09-06.)*
 > ***"It is theoretically possible that the Zodiac signs can be applied to the cities… once we have a better
 > idea of what sorts of personalities the cities have… mark it as 'undetermined' in the full ULM."***
-> ⭐ **So `G1` for a city is PLANET + ELEMENT, today and until ruled otherwise.** ⛔ **No pass assigns a sign to
-> a city, and the absence is NOT a gap to fill.**
+> ⛔ **No pass assigns a sign to a city, and the absence is NOT a gap to fill.**
 > ⚠ **If it is ever adopted, SIGNS WILL REPEAT** — *twelve signs across 35+ cities is roughly three cities
 > each.* ⭐ **That is expected, and it means the district set's exhaustion finding — 12 signs, 13 districts, one
 > deliberate absence — DOES NOT PORT.**
 > ⭐⭐ **And the precondition matters: the assignment would be DOWNSTREAM of the city passes, not an input to
-> them.** *A pass running now is producing the personality the assignment would later be made from.*
+> them.** *A pass running now is producing the personality the assignment would later be made from.* **The
+> 2026-09-16 ruling above generalizes this exact precondition from signs to the whole city symbol layer.**
 > ✅ **Unaffected: the Zodiac Lens as a non-assignment interrogation technique** *(`03` Phase 10 §B2)*.
 
 Its distinctive property is that it is the only generator with **no obligation to be plausible**. Physical

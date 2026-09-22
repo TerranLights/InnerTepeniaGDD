@@ -1745,7 +1745,7 @@ relying on it, and read every member's terms from its own file, never from the n
 |---|---|---|---|---|
 | **Zodiac Personality Substrate** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **Second, non-assignment use-mode for ANY location:** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md`'s **Zodiac Lens** — twelve signs as non-binding interrogation prompts, **never as an assignment, and never referencing Concordia's completed district content** |
 | **Planetary Symbols** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 10 members; one-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired** |
-| **Robot Elementals** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members, positive/negative, **Wu Xing correspondences on five.** ⏸️ **See the gap below** |
+| **Robot Elementals** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members. **Originally composed on physical derivation — each member's meaning grounded in a real, verifiable physical fact, never in an existing tradition.** Seven members (Earth, Air, Fire, Water, Wood, Metal, Magnetism) carry one-word / summary / neutral / positive / negative; Electricity carries positive/negative only. ⏸️ **All seven of those one-word labels are flagged for developer review and may still change — check the file's own flags before citing one as settled.** **No Wu Xing correspondences of any kind.** No absences, no cross-relations |
 | **Planet + Element** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use `02` §6.3** |
 | **Subnet Elementals / Six Perfections** | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`** *(**CORRECTED 2026-09-03** — was `../../Storyline/…`, which resolves to `Worldspace/Storyline/` and does not exist; the file sits at the repo root, one level further up)* | 1–2 per subnet | THIN→PAIRED | Subnet scale. **Do not cross-apply to city scale** |
 
@@ -1755,6 +1755,47 @@ relying on it, and read every member's terms from its own file, never from the n
 > generator.*** **Usable: the assigned MEMBERS, and their definitions from the system files. NOT usable: any
 > *rationale* column — those are capability verdicts wearing an index's clothing.**
 > **Worked pairing reads are archived at `Test_Runs/Worked_Examples_Archive/` and are withheld from cold runs.**
+> ⛔⛔ **SUPERSEDED 2026-09-16 — see the ruling immediately below. "Corroboration-tier" no longer means "read
+> and cited during a pass"; it now means "reconciled only after the pass's own Phases 1–9 close."**
+
+> ### ⛔⛔ SYMBOL APPLICATION FOR CITIES IS DEFERRED — Planet + Element, Planetary Symbols, Robot Elementals
+> *(Developer ruling, 2026-09-16.)*
+> > **"I'd like to make an adjustment on... postpone the usage of symbols (Planetary Symbols and Robot
+> > Elementals) until later, because when the results arise from the ULM, it might turn out that they
+> > contradict whichever symbols they already have. So, we'll apply the symbols after we know what the places
+> > are actually like."**
+>
+> **THE RULE.** For any city pass, `City_Symbol_Assignments.md`, `Planetary_Symbols.md`, and
+> `Robot_Elementals.md` are **not opened at Step −1, not cited as corroboration in any phase, and not treated
+> as a `G1` input of any tier** — the previous "demoted, corroboration-tier, still read" status above no
+> longer governs. **The existing 34-of-35 assignments stand un-consulted until that city's own Phases 1–9 are
+> written; only then are they checked against what the pass actually found — confirmed, revised, or left
+> explicitly open.** A pass that finds itself wanting to cite a Planet, Element, or symbolic member mid-run
+> should treat that want as a signal the reconciliation step, not this phase, is where it belongs.
+>
+> ✅ **WHERE — settled `DR-8a`, 2026-09-16.** **Step 4, Phase 10 (Catalog)** makes the determination — not
+> Step 5. By the time Phase 10 is written, Phases 1–9 already exist, so nothing structural forces the call
+> later; Step 5 stays the backstop if its own reconciliation surfaces a genuine contradiction with a symbol
+> Phase 10 already confirmed. See `03_The_Phase_Spine.md` Phase 10 §B3.
+>
+> **Why.** The existing assignments were derived from an earlier personality read — necessarily shallower than
+> an 11-phase, 8-generator ULM profile. **Using them as an input or even as corroboration risks the pass
+> quietly writing toward an answer a fuller read would have contradicted.** Symbols exist to be *earned* by
+> what a place turns out to be (`§ G1`'s own "no obligation to be plausible" property is worth the least when
+> spent confirming a guess made before the place was known).
+>
+> **This generalizes the existing sign-layer precondition below from "undetermined whether signs apply to
+> cities at all" to "undetermined-in-timing for every city symbol layer, signs included."** Both rest on the
+> same developer logic, five weeks apart: *apply the symbol once the personality is actually known, not
+> before.*
+>
+> ⚠ **A Tier C datasheet may still TRANSCRIBE an existing assignment found incidentally in another source**
+> *(e.g. a Planet/Element pair surfacing inside `16_Per_City_Three_Tier_Run.md`'s own Notes for a city)* —
+> that is pure "what does the source say," Rule 1b of `Mechanical_Extraction_Field_Guide.md`, not an
+> application. **Record it as a pre-existing fact from that source, explicitly flagged provisional pending
+> this reconciliation — never as the pass's own settled symbol.**
+> ✅ **Unaffected, both directions:** the Zodiac Lens's non-assignment interrogation use (`03` Phase 10 §B2),
+> and district-scale Zodiac Personality Substrate work, which is complete and a different corpus.
 
 > ### ⏸️⏸️ **UNDETERMINED — WHETHER THE ZODIAC SIGNS ARE ALSO ASSIGNED TO CITIES**
 > > **Developer ruling, 2026-09-06:** ***"It is theoretically possible that the Zodiac signs can be applied to
@@ -1780,18 +1821,10 @@ relying on it, and read every member's terms from its own file, never from the n
 > unaffected by this ruling, because it assigns nothing.**
 > ⚠ **Recorded in `Deferred_and_Flagged` terms: this is parked ON PURPOSE. Do not "helpfully" close it.**
 
-> ### ⏸️ THE WU XING GAP — the highest-value addition available to the existing systems
-> **The five have generating and overcoming cycles in the actual tradition** — Wood feeds Fire, Fire makes
-> Earth, Earth bears Metal, Metal carries Water, Water nourishes Wood, plus the overcoming cycle running the
-> other way. ***Those cycles are cross-relations and they are NOT documented in `Robot_Elementals.md`.***
->
-> **Documented, the element system moves THIN → RICH for its five Wu Xing members and supplies inter-city
-> geometry** — the direct equivalent of the zodiac's oppositions and squares, which is the only instrument in
-> the district folder that generates inter-location relationships at all.
->
-> **A documentation task, not a design task** — the cycles are fixed by the tradition. **Flagged, not done:**
-> it changes a canon reference file *(developer decision)* and **needs a ruling on how Air, Electricity and
-> Electromagnetism relate to a five-member cycle they are not part of.**
+> ### ⛔ THE WU XING GAP — DECLINED, developer ruling 2026-09-21
+> **`Robot_Elementals.md` is composed on physical derivation, not on the Wu Xing tradition.** The generating
+> and overcoming cycles this section once proposed documenting belong to that tradition and do not attach to
+> the file's current members. `Robot_Elementals.md` stays **THIN** with no cross-relations.
 
 ## C.8 ⭐ PROJECT FRAME DATA — **moved here from `01` and `03`, 2026-09-03, per the LAYERING LAW**
 
@@ -1960,6 +1993,12 @@ Concordia as the measure of what a location should have, be, or contain.
 ### ⛔⛔ C.8c-i — THE GENERATOR LINE. **The receipt records what was OPENED and never what was USED.**
 
 > **Added 2026-09-08, on Zhongshan (city 3), after a developer catch. `M-208`.**
+> ⛔⛔ **REVISED 2026-09-16 — `G1` is now the standing exception to the check below, city-scale.** Per the
+> symbol-deferral ruling at `§C.7`, `G1`'s Planet + Element / Planetary Symbols / Robot Elementals form is not
+> opened at Step −1 and is not expected in any phase's "Generators used" line during a normal run — its
+> absence there is correct, not a `M-208`-shaped drop. The measured case below still illustrates the general
+> principle (a demoted generator recorded at Step −1 must still be tracked to where it's actually used) and
+> remains binding for `G2`–`G8`.
 
 **The measured case.** ⭐ **`G1` — the assigned Planet + Element pair — was found, read and recorded at Step −1,
 in the pass's own `00.1_Step_MINUS-1_Input_Contract.md`**, complete with its address and a correct note that it
