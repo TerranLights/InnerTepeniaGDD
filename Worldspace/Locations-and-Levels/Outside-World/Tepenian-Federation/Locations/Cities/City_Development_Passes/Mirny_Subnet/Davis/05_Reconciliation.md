@@ -178,7 +178,7 @@ on it.**
 
 | # | Hole |
 |--:|---|
-| ⭐⭐⭐ `H58` | ⛔⛔ **Process B has never run against Davis's actual designated inspirations — Tyumen, San Luis Potosí and Guatapé** *(`Inspirational-Influences.md` L75–78)*. ***The largest open item in the pass.*** ⏸️ **Blocked: web budget exhausted, and `LAW 0-R` forbids working from recall** |
+| ⭐⭐⭐ `H58` | ✅ **CLOSED 2026-09-22.** **Process B run against Davis's designated inspirations — Tyumen, San Luis Potosí and Guatapé** *(`Inspirational-Influences.md` L75–78)*. **Inventory of 15 searches, then the fusion at `Phase 10` §B.3a — five fusions, two disanalogies, one refusal.** ⭐⭐ **The PRIMARY pick paid twice, both times on findings this pass had already dug and could not fill on its own** |
 | ⭐⭐ `H61` | **`Local_Cultures` §3/§4 carry a 66–67 day polar night against `Specs`' 37. Correction needed** |
 | ⭐⭐ `H65` | **Where Davis's icebreaking is based and who operates it.** ⚠ *The capability itself is established Tepenian practice; only the siting is open* |
 | ⭐ `H66` | **The inbound manifest — what actually arrives** |

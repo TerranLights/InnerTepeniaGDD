@@ -100,7 +100,7 @@ deleted correct entries — including a procedural refusal that is the most usef
 
 | # | Cannot prove |
 |--:|---|
-| ⛔⛔⛔ **1** | ***THAT THE AXIS SURVIVES CONTACT WITH ANYTHING OUTSIDE THIS LOCATION.*** **`H58`: Process B never ran against Davis's designated real-world inspirations. Gate 7 FAILED. Four of five ULM picks unspent.** ⭐ **The axis is corroborated across five phases and five panel corners — all of them internal** |
+| ⚠ **1** | ***NARROWED 2026-09-22 — the axis HAS now met something outside this location.*** ✅ **`H58` closed: Process B ran against Davis's designated real-world inspirations, and Gate 7 re-runs at PASS.** ⭐⭐ **The axis survived and gained the present-tense mechanism it lacked** *(`Phase 10` §B.3a Fusion 5)*, **and one candidate was refused on a direct check** *(§B.3b)*. ⛔ **What still cannot be proven: that it survives contact with a SIBLING — that test is deferred by law, not by any gap here** |
 | ⛔ **2** | **That Davis is a place anyone would want to live.** ⚠ **The Impotent Lover shadow — *"what has gone dead here? Ask of any place that reads as competent and joyless"* — fired and was held short of a verdict.** **The free tier is 31.1% and what fills it is unwritten** |
 | ⛔ **3** | **Anything about death here.** **`A-1` RESERVED and intact through all ten steps** |
 | ⚠ **4** | **That the `unmet`/`declined` skew is a measurement rather than a reading.** *It is argued from the axis, and it is consistent — but one author wrote both the city and the panel* |
@@ -138,7 +138,9 @@ implemented.**
 determination in full, and `06` now says so.** ⭐ ***A fresh session must take it, and that is the check
 working, not the check failing.***
 
-⛔ **And Gate 7 stays failed until `H58` is spent.** ⚠ **`LAW 0`: the gates confirm this pass is not wrong.
-None of them can tell us it is not thin — and with four of five picks unspent, thinness is the live risk.**
+✅ **Gate 7 was spent and re-run on 2026-09-22 — `H58` closed, and the gate PASSES at 67% with its two
+corroborating rows scored as corroborations rather than as change.** ⚠ **`LAW 0`: the gates confirm this pass
+is not wrong. None of them can tell us it is not thin — and the thinness risk now sits on `P4`, where two
+named targets are unobtainable and `H56` is narrowed rather than resolved.**
 
 ⭐ **STEP 10 CLOSES THE PASS.**

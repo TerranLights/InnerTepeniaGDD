@@ -313,6 +313,13 @@ Zodiac_Signs_Quick_Reference.md` — all 12 signs' full positive/negative attrib
 checklist run identically against every city. **Not mechanical:** the four-category catalog synthesis, the
 Zodiac Lens's actual application, border-adjacency texture.
 
+> ⛔⛔ **SYMBOL DEFERRAL — developer ruling, 2026-09-16.** `City_Symbol_Assignments.md` (Planet + Element),
+> `Planetary_Symbols.md`, and `Robot_Elementals.md` are **not opened as datasheet input.** If a city's Element/
+> Planet surfaces incidentally inside another already-open source (e.g. `16_Per_City_Three_Tier_Run.md`'s own
+> Notes), transcribe it as a bare pre-existing fact **flagged PROVISIONAL, pending reconciliation against that
+> city's own Phase 1–9 findings** — never present it as settled. **The actual reconciliation happens at
+> Step 4, Phase 10 §B3** (`DR-8a`), not in a datasheet. Full statement: `00_RUNBOOK.md` §C.7.
+
 ---
 
 # Per-Step field guide (−1, 0, 1, 2, 3, 5–10)
@@ -338,6 +345,35 @@ city's own fresh output — not pre-extractable. ⚠ **Depends on Step 4's phase
 the sheet's own text states the table is *"FILLED DURING synthesis, not before it."* ⛔ **A false claim that
 this depends on Step 9 propagated into two city datasheets before being caught 2026-09-15** — never state a
 dependency in a datasheet without checking it against the runbook first.
+
+> ### ⛔⛔⛔ EVERY `Step_6.md` DATASHEET MUST CARRY THE TABLE'S NINE-SECTION INVENTORY — added 2026-09-21
+> **Measured on Davis, 2026-09-16→21: a completed Step 6 wrote 2 of the table's 9 sections and declared the
+> column added, in good faith.** The anti-contamination read protocol (`05` §6.1a — approach the table
+> column-anchored, read header rows only) surfaced only the first two section headers and gave no signal that
+> seven more existed. **The rule meant to prevent contamination produced a silent under-fill, and neither Gate
+> 0 nor Step 10 caught it — both verified the ARTIFACT existed rather than opening the DESTINATION.**
+>
+> ✅ **The fix is mechanical and belongs here, not per-city.** `Cross_City_Culture_Differentiation_Table.md`'s
+> nine section headers are structure, not another city's answer — reading and recording them violates nothing,
+> **and every `Step_6.md` this Field Guide's convention produces must include the inventory table below**, so
+> a future pass knows it owes nine rows before it ever opens the destination file:
+>
+> | § | Section | Columns beyond `City` |
+> |--:|---|---|
+> | 1 | Capability shape & deficit address | Shape · Deficit address · Pass |
+> | 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis |
+> | 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point |
+> | 4 | Phase 4 — Ordinary Life | Axis |
+> | 5 | Phase 6 — Meaning | The unnamed load-bearing thing · Observance axis · Death & the dead |
+> | 6 | Phase 7 — Order | Governance: what is UNADMINISTRABLE · Transmission: how skill passes · Counterculture axis |
+> | 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker |
+> | 8 | Phase 5 — Relation & Geometry | Named relational axis · What it refuses to develop, and who supplies it |
+> | 9 | Phase 9 — Populations | Lens · Is there a category here that matters MORE than kind? |
+>
+> ⛔ **A completed Step 6 must add a row to ALL NINE, in the same commit.** Fewer than nine is an under-fill,
+> not a smaller city's exemption. **Retrofitted 2026-09-21 into all 5 then-existing Step 6 datasheets** (Casey,
+> Kunlun, Mirny, Vostok, Dumont d'Urville) **and into Davis's own ratified `06_Differentiate.md`**, whose table
+> write was backfilled from 2 rows to 9 the same day.
 
 **Step 7 (QA, 17 gates).** *Tier U:* the 17 gates' full names + one-line definitions — a fixed enumerated
 checklist reused, unchanged, by every city's Step 7 forever.
@@ -371,8 +407,13 @@ and `00_RUNBOOK.md` §Step 10 change too often/require too much judgment to pre-
 > fact set. **Merged: `Step_0.md` now absorbs Phase 0's content (both feed `00_Frame.md`); `Step_1_and_2.md`
 > now absorbs Step 2 and Phase 1's content (feeding `01_Inherited.md` and `02_Spine.md`).** Everything from
 > Phase 2 onward, and every step from 5 onward, has no redundant counterpart and stays its own file.
-> ⛔ **Davis's own 8 early files (`Step_0.md`, `Step_1.md`, `Step_2.md`, `Phase_0.md`, `Phase_1.md`) are NOT
-> yet retrofitted to this shape** — flagged, not silently left inconsistent; consolidate on request.
+> ✅ **Davis retrofitted 2026-09-22, on request — 22 files → 19, matching this manifest exactly.**
+> **`Step_0.md` absorbed `Phase_0.md` as its §B; `Step_1_and_2.md` absorbed `Step_1.md`, `Step_2.md` and
+> `Phase_1.md` as §A/§B/§C.** ⭐ **Each MUST-OPEN mapping was preserved as its own section rather than dissolved
+> into the merged table — the Phase contracts differ from the Step declaration blocks even where the underlying
+> facts are identical.** ⚠ **Phase 1's two live extraction gaps** *(`Energy_Grid_Failure_Rationale.md`'s Davis
+> entry, `16_Per_City_Three_Tier_Run.md` Half B's `G3` figures)* **were carried forward explicitly, and the four
+> pointers in `00.0_Pre-Trip_Inspection.md` were repointed in the same pass.**
 
 ```
 <City pass folder>/Datasheets/
@@ -419,6 +460,32 @@ through the protocol above in its own right.** Mark it so explicitly in the file
 
 Once verified, a city's `00.0_Pre-Trip_Inspection.md` T8 dispatch block for that step/phase gets an **added** row
 pointing to the datasheet — the primary-source rows stay, always.
+
+## ⛔⛔⛔ SECOND WIRING STEP — THE CITY'S OWN `README.md`, DONE THE SAME COMMIT THE `Datasheets/` FOLDER IS CREATED
+
+**Added 2026-09-21, after a measured gap: five cities (Casey, Kunlun, Mirny, Vostok, Dumont d'Urville) had a
+full datasheet set sitting on disk with nothing anywhere — not `00_RUNBOOK.md`, not
+`MASTER_Process_Tracker.md`, not the city's own `README.md` — pointing a future pass at it.** A pass starting
+cold on any of them had no way to know the datasheets existed short of noticing the folder by chance.
+`00.0_Pre-Trip_Inspection.md` doesn't exist yet at that point either — it isn't created until Step −1 actually
+runs — so the wiring rule above has nothing to attach to until well after the gap already matters.
+
+⭐⭐⭐ **The fix: the moment a city's `Datasheets/` folder is created — not once verified, not once Step −1
+runs, THE SAME COMMIT — add a row to that city's own pass-folder `README.md`, as the FIRST row of its "existing
+sources" table, before Specs.** The `README.md` is the one file certain to already exist and certain to be
+opened first, since it's what `00_RUNBOOK.md`'s own process for opening a new city's pass folder leads to.
+
+**The row, exact text, city name substituted:**
+
+```
+| ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value +
+citation only, no synthesis) for every step/phase already built. ⛔ **Does NOT replace any MUST-OPEN read** —
+Step 4 still opens every primary source in full, per the Field Guide's own guardrail |
+```
+
+⛔ **This is not optional and not deferrable to "once the pass starts."** A `Datasheets/` folder that exists
+without this row is in the same state the five measured cities were in — correct, verified, copy-paste-only
+content that a future pass has no way to discover. **Retrofitted into all five cities named above, 2026-09-21.**
 
 # Operating hours
 

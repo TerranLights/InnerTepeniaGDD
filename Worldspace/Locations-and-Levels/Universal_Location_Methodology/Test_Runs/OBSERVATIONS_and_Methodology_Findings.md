@@ -8224,3 +8224,49 @@ un-run cities.** ⛔⛔ **SIX WERE LEGITIMATE:**
 check whether one of them is describing a HEALTHY artifact and the other a DRIFTED one, before amending
 either.*** **A rule written against a failure mode will look wrong when the failure mode is present and normal
 when it is not.**
+
+# `M-244` — ⛔⛔ **A COMPLIANCE FIELD THAT CANNOT RETURN A NEGATIVE IS NOT A CHECK**
+
+**Measured 2026-09-22, Davis Gate 7 re-run and `H58` closeout. Found at 19:13 PDT, roughly four hours after
+the breach began.**
+
+**Each research-log entry carries a header field stamping it *"inside the `05:00–14:59` window"* — the
+operating-hours law's compliance record.** ⛔ **Across seven entries in one session the stamp was copied
+forward from entry to entry as a formatting habit, and the clock was read once, at the start.** ⇒ **Two
+entries were stamped compliant while being written outside the window, a third was stamped compliant while
+straddling the boundary, and two more carried times that were never verified at all.**
+
+| Entry | Stamped | Actually |
+|---|---|---|
+| First two | in-window, with specific ranges | **Plausible; not disturbed** |
+| Next two | in-window | ⚠ **Unverified — the stamp was inherited, not checked** |
+| Next one | in-window | ⚠⚠ **Split: research in-window, write-up after the close** |
+| Final two | in-window | ⛔⛔ **False. Both entirely outside** |
+| The closeout edits across seven pass files | *(unstamped)* | ⛔ **Also outside** |
+
+## ⭐⭐⭐ THE SHAPE, and it generalizes past timekeeping
+
+> ***The window stamp is the only field in the entry that certifies something about the SESSION rather than
+> about the subject.*** **Every other field can be checked against a source and will disagree with you if you
+> get it wrong. This one can only be checked against a clock — and it was the single field nobody re-read.**
+
+> # ⛔ **A COPIED-FORWARD STAMP ALWAYS REPORTS COMPLIANCE. IT CAN NEVER REPORT A BREACH, BECAUSE IT IS NOT READING ANYTHING.**
+> ⇒ ***A field that cannot return a negative is not a check. It is a decoration that looks like one.***
+
+⭐⭐ **And the failure direction is the one this corpus has now measured repeatedly and never once in the other
+direction — toward flattering the pass.** *`M-237` is the same family one level down: a confident negative
+built on a search that did not match the format. Both produce a clean-looking record by not actually looking.*
+
+## ⇒ THE RULE
+
+1. ⭐⭐ **Read the clock at the START of every entry, not once per session.** **The stamp is per-entry, so the
+   check must be per-entry.**
+2. ⭐ **When the window is missed, the honest record is the BREACH.** ⛔ **Never backdate to fit.** *Nothing in
+   the Davis log was re-timed; each entry now states what actually happened, anchored to file timestamps
+   rather than to recollection.*
+3. ⭐⭐⭐ **Generalized test for any compliance field, anywhere in this methodology:** ***can this field, as
+   written and as filled in, ever come out FALSE?*** **If not, it is not measuring anything.**
+
+⚠ **Not escalated to a runbook edit.** **The operating-hours law itself is correct and needs no amendment —
+what failed was the practice of filling in its record.** ⭐ **Recorded here so the next session inherits the
+practice, not just the law.**

@@ -96,16 +96,17 @@ generated content is `§G`'s two Zodiac prompts, flagged as such.**
 > TAGGING.** ⭐ **But for Davis the MATERIAL existed all along — it was organized by deficit-question
 > (`P1`–`P5`) rather than by tier. Tiering it was a re-sort, not new research.**
 
-## B.2 ⚠⚠ A PHYSICAL-SITE REFERENCE SET — ***NOT Davis's pick list.*** **Re-labelled at Step 5.**
+## B.2 ⚠⚠ A PHYSICAL-SITE REFERENCE SET — ***NOT Davis's pick list.*** **Re-labeled at Step 5.**
 
 > ### ⛔⛔⛔ CORRECTED AGAIN, AT STEP 5 — **read this before the table below**
 > **This section was built on the belief that Davis had no designated inspiration list. ⛔ IT DOES.**
 > **`Cities/Inspirational-Influences.md` L75–78:** ***Tyumen, Russia `[PRIMARY]` · San Luis Potosí
 > `[SECONDARY]` · Guatapé, Colombia `[SECONDARY]`.***
-> ⇒ ⛔ ***Process B has NOT been run.*** **`H58`.**
-> ✅ **The table below is still SOUND and still USEFUL — every entry was read and logged by a Step 3
+> ✅ **Process B was run against those three picks on 2026-09-22 — inventory and fusion both. See §B.3a.**
+> ✅ **The table below is SOUND and USEFUL — every entry was read and logged by a Step 3
 > researcher — but it is a PHYSICAL-SITE reference set, and it is not what Process B asked for.**
-> ⭐ **The four Fusions at §B.3 stand on their own evidence; they must not be presented as Process B's output.**
+> ⭐ **The four Fusions at §B.3 stand on their own evidence and are not Process B's output.** ⭐⭐ **Process B's
+> own output is §B.3a, built from the designated picks and kept separate for exactly that reason.**
 
 > ⛔ **GPS LAW throughout.** ***The real site is admissible as a coordinate and a set of PHYSICAL FACTS only.***
 > ⛔ **No operator's own pages, no discovery/naming history, no real place-names carried in-world.** ✅ **The
@@ -166,7 +167,7 @@ stated in real-world terms, and it arrived from a source rather than from this p
 reason being *"the Breadbasket is not only where the food grows, it is where the growing is figured out."***
 ⭐ **The agricultural experiment station's founding objective — *"cooperation between practical farmers and
 scientific professionals"* — is the earliest explicit institutional statement that production and study are ONE
-enterprise.** ⇒ **The half-mandate is not a modelling compromise; it is the oldest real form of this
+enterprise.** ⇒ **The half-mandate is not a modeling compromise; it is the oldest real form of this
 institution.** ⚠ **Tagged: adapted · deep.** ⏸️ **The source is identified, not fully read — open thread #10.**
 
 ### ⭐ FUSION 4 — **controlled-environment agriculture gives the lit vaults their real constraints**
@@ -177,6 +178,185 @@ reading from an independent direction.** ⚠⚠ **But the log's caveat binds: th
 containers, crew-tended, sized for research and NOT for feeding a population.** ⛔ **No per-capita or scale
 figure is carried across.** ⚠ **Tagged: directly inherited · surface.**
 
+## B.3a ⭐⭐⭐ PROCESS B'S OWN OUTPUT — **the designated picks, run 2026-09-22**
+
+> **Picks:** **Tyumen `[PRIMARY]` · San Luis Potosí `[SECONDARY]` · Guatapé `[SECONDARY]`**
+> *(`Cities/Inspirational-Influences.md` L75–78)*. **Developer's stated rationale for the three:** ***"the
+> general setting and surroundings (natural, societal, civilizational, etc etc) to use as a basis"*** — **so
+> they carry CONDITIONS, not artifacts.**
+> **Inventory:** 15 searches, multiple angles per pick, `Davis_Research_Log.md` `H58` §3–§5.
+> **Fusion:** this section. **Davis read first:** `02` §4.1 · §4.2 · §5 · §7.3 · §8–§8.2 · `Phase 5` §5e ·
+> `Phase 7` §A.1/§C.
+> ⛔ **GPS LAW throughout — mechanisms and physical facts only. No national or cultural identity is available
+> as a reason for anything here.** ⛔ **`NO FORCED FIT` — see §B.3b, which refuses the best-looking candidate.**
+
+### ⭐⭐⭐ FUSION 5 — **the institute that designs what is operated elsewhere explains the MISSING CORRECTION LOOP, in the present tense**
+
+**`02` §4.2 states this pass's deepest synthesis — *a city with no correction loop has no instrument for
+noticing a recurring misallocation, so a present-tense repeating cost presents as a past-tense settled
+condition* — and attributes the absence to the founding loss, which is PAST-tense.** ⛔ **No present-tense
+mechanism was ever supplied.**
+
+**The pick supplies one.** **`TyumenNIIgiprogas`, ~1,700 staff, designs and equips fields whose *"design
+solutions are put into practice in operations across West and East Siberia"* — the output is implemented away
+from where it is produced, and a giant field elsewhere *"became a testing ground"* for the institute's own
+techniques.** ⭐ **At civic scale the same shape: the city is the administrative center of an extraction
+industry whose deposits lie hundreds of kilometers north.**
+
+**And `Phase 7` §C states Davis's arrangement in canon's own words:** ***"The half-mandated research sector
+sends people and knowledge, not freight"*** · ***"an expertise export BY CONSTRUCTION."***
+
+> # ⇒ ⭐⭐⭐ ***DAVIS'S WORK IS TESTED WHERE DAVIS IS NOT.***
+> **The outcome of a piece of work is observed by people who did not do it, so the correction happens at the
+> far end. The design center receives the commission. It does not receive the result.**
+>
+> ## ⭐⭐⭐ AND THE THIRD-ORDER CONSEQUENCE
+> **`02` §8's one owned asset — *serial, seasonal, checked-against-the-record observation* — IS a correction
+> loop. `Phase 7` establishes that this is precisely what Davis exports.**
+> # ⇒ ***DAVIS EXPORTS THE INSTRUMENT IT CANNOT RUN ON ITSELF. The one city that owns the correction loop is the one place the loop does not close.***
+
+**What it explains, each previously asserted without mechanism:** §4.2's present-tense invisibility *(nothing
+returns, so nothing announces)* · §4.1's cost-absent half *(the announcement happens elsewhere)* · `D4`'s
+under-reporting *(no returning outcome to contradict the report)* · ⭐ **§8.2's unrecognized instrument —
+sharpened: the apparatus is not idle, it is in continuous use, pointed outward.**
+
+⚠ **Tagged: adapted · deep.** ⛔ **No destination, receiving party, volume or institution invented.**
+
+### ⭐⭐⭐ FUSION 6 — **fossil water dissolves a false dichotomy in `H29`, and names Davis's relation to its own water**
+
+**`Phase 5` §5e: Davis's heat demand is continuous, non-optional and structural, and `Geothermal_Heating.md`'s
+198 lines do not list Davis — inferring *"whatever keeps Davis warm is not the ground it stands on; it is
+supplied."*** ⛔ **That inference has exactly two branches. Nothing tested for a third.**
+
+**The pick is a third.** **~20 hot springs; water raised from boreholes ~2,500 m deep at 36–48 °C; origin
+stated precisely as *fossil water, from the warm West Siberian Sea receding* — water from a sea that is no
+longer there. 21 thermal resorts; the season opens in the cold half; the documented draw is the CONTRAST.**
+
+> # ⇒ ⭐⭐⭐ **A DEEP, WARM, NON-POTABLE RELICT AQUIFER IS NEITHER "GEOTHERMAL HEATING" NOR "SUPPLIED FROM OUTSIDE." A NATIONAL GEOTHERMAL REGISTER WOULD NOT LIST IT, BECAUSE IT IS NOT GEOTHERMAL.**
+
+⭐⭐ **This WIDENS `H29` rather than closing it, and that is the honest outcome.** **§5e's 198-line zero stays
+a real, affirmable absence; what falls is the assumption that its only complement is external supply.**
+⛔ **No claim that Davis has such an aquifer.** ⚠ **But the category is live, not idle: §B.3 Fusion 1 already
+established Davis's lakes as ISOLATION BASINS — *former sea inlets cut off as the land rebounded* — and
+Phase 3's inputs already carry fracture hydrology, the freshwater lens and lake salinity magnitudes.**
+***Davis's ground is already canon-established as holding the water of a sea that is no longer there.***
+
+**And the second finding needs no aquifer at all.** **`D1` establishes Davis's most abundant water cannot be
+drunk; `02` §8.3 already writes it into the life.**
+
+> # ⇒ ⭐⭐ ***A SEA THAT CANNOT BE DRUNK CAN ONLY EVER BE A SUBSTITUTE FOR A SEA, NEVER A SUPPLY.***
+> **The pick's own locals name the category out loud — *"the sea substitute"* — and it is exactly the relation
+> Davis already had to its own water and had no word for.**
+
+⭐⭐ **And it lands on this pass's weakest landmark.** **Gate 4 recorded the two-register crossing as *WEAKEST
+UNDER SWAP* — any city with heated interiors and a cold outside crosses a threshold daily.** ⭐⭐⭐ **The pick
+narrows the condition: the documented draw is not warmth but CONTRAST, and it is sought in the cold half.**
+⇒ **A crossing merely endured is generic. A crossing SOUGHT, in the dark half, toward water that is warm and
+undrinkable, is not.**
+
+⚠ **Tagged: adapted · deep.** ⛔ **No resort, bathing institution, custom or facility is invented.** ⛔ **`H29`
+STAYS OPEN.**
+
+### ⭐⭐ FUSION 7 — **relocation criteria explain why the residue has no name**
+
+**`02` §7.3's binding wording rule states the cost plainly: *anyone here because their departure did not
+happen is invisible inside that account, and there is no word for them.* **And §8.1's Shadow asserts the city
+converts structural charges into character judgements *authorlessly, in complete good faith*.** ⛔ **Neither
+demonstrates the mechanism.**
+
+**The pick documents it.** **In the reservoir displacement, *the selection criteria for new homes prioritized
+families and excluded single individuals such as widows and widowers*.**
+
+> # ⇒ ⭐⭐⭐ ***NOBODY REFUSED THE WIDOW. THE FORM SIMPLY HAD NO ROW FOR HER.***
+> **An eligibility criterion built for the expected case excludes a whole category of person with no decision
+> made about them — no judgement, no counterparty, no author, nothing to appeal.** ***The exclusion is a
+> property of the instrument's shape, not of anyone's intent.***
+
+⇒ ⭐⭐ **Davis's nameless residue is not a peculiarity of Davis and not a moral failure of anyone in it. It is
+what administrative categories do when built for the expected case** — **`00d`'s shadow standard exactly: no
+defect, no villain, everyone in good faith.** ⭐ **And it sharpens `D2` from a new side: a category can be
+excluded by an instrument that was never about exclusion, so there is not even an external office to name.**
+
+⚠ **Tagged: adapted · deep.** ⛔ **No Davis criterion, scheme or excluded category is invented.**
+
+### ⭐⭐ FUSION 8 — **two claims on one ground explain why the harvest-weeks collision is invisible**
+
+**`02` §4.2 Reading B: what the balance costs is *the ability to allocate its own weeks*; who pays is
+*whoever is doing the science in the harvest weeks*; and the city almost perceives it — *fully visible as
+individual failure, never as structural charge*.** **§8.1 supplies the word it becomes: *the one whose
+science never finishes is **disorganized**.*** ⛔ **Why a recurring, structurally identifiable double-claim
+never once presents as a dispute was never accounted for.**
+
+**The pick holds a documented, centuries-stable case: one landscape receiving two distinct pilgrimages, both
+original, neither a visitor, neither a trespasser.**
+
+> # ⇒ ⭐⭐⭐ ***A DISPUTE REQUIRES A TRESPASSER. WHERE BOTH CLAIMS ARE ORIGINAL AND LEGITIMATE, THE COLLISION HAS NO WRONGDOER — SO IT CANNOT PRESENT AS A CONFLICT, ONLY AS A PERSON FAILING.***
+
+**Davis's two vocations are BOTH assigned** *(`02` §8)*, **both mandated, and both land on the same four-month
+blaze of light and work.** ⇒ **The agriculture is not encroaching and the science is not shirking; both are
+doing exactly what the city was assigned to do.** **So the only surface the collision can appear on is the
+individual standing in both claims at once.**
+
+⚠ **Tagged: adapted · deep.** ⛔ **Nothing religious, ritual or pilgrimage-shaped is carried into Davis — only
+the structure: two original claims, one ground, no trespasser.**
+
+### ⭐ FUSION 9 — **the recurring water argument explains why `D1` holds the shared-civic-fact slot**
+
+**`02` §5.4 item 3: *in a city with no social instrument of refusal, the unremediable physical deficit is the
+closest thing it has to a shared civic fact*.** ⛔ **Why WATER rather than heat or plant was never accounted
+for — §5e establishes all three are dependencies and that Davis *has no dependency it can discuss*.**
+
+**The pick: the city was founded in 1592 in a neighboring valley rather than at its own mine *because there
+was not enough water at the mining site*. Four centuries later, a new extraction dispute's own framing in the
+literature was *"the water or the gold?"* — the identical constraint, recurring as the central argument
+across a different industry, technology and political order.**
+
+> # ⇒ ⭐⭐ ***WATER IS THE ONLY TERM IN THE ARGUMENT THAT OUTLIVES EVERY OTHER TERM IN IT.***
+> **It is not solved and retired; it is re-argued under new names by people with no memory of the last time,
+> because it is the one input for which no substitute, technology or authority has ever been found.**
+
+⇒ **That is why `D1`, not heat and not plant, is the deficit everybody already knows.** ⚠ **Tagged: adapted ·
+surface** — *it explains a ranking the pass had stated, rather than supplying a mechanism the pass lacked.*
+
+### ⭐⭐ TWO DISANALOGIES — **§B.3 Fusion 2 establishes a disanalogy as a legitimate output**
+
+| | |
+|---|---|
+| ⭐⭐ **A — the tower above the waterline** | **At the flooded site, a church tower still stands above the water, marking where the original town was: a community that lost its center keeps a standing, publicly legible marker of the prior state.** **`02` §5.1 is the exact opposite, in its strongest form — *the city cannot frame the absence as a loss, because it has no prior state to compare against.*** ⇒ ⭐⭐⭐ ***A MARKER OF A PRIOR STATE IS THE ONE THING THAT WOULD CONVERT `D3a` FROM A CONDITION INTO A LOSS — AND DAVIS'S STRUCTURE FORBIDS ONE.*** **Not because none was built, but because there is nothing for a marker to point at** |
+| ⭐⭐ **B — the commemorated cartographer** | **The pick's embankment carries bas-reliefs of named figures, among them *the region's first cartographer*.** **§F.3 below records Davis's notable figures as ⛔ *zero, verified* — empirically, with no reason attached. `02` §8 supplies the reason and never connected it: Davis's method addresses *a landscape no document could describe*.** ⇒ ⭐⭐⭐ ***DAVIS CANNOT HAVE A FIRST CARTOGRAPHER, BECAUSE ITS GROUND DEFEATS WHAT A CARTOGRAPHER PRODUCES.*** **Where a landscape can be mapped, the mapping can be finished and the finisher named. Where it can only be observed serially and seasonally, forever, the work has no completion moment — and a commemorable figure requires one** |
+
+> ⭐⭐ **Disanalogy B converts a verified empty cell into a DERIVED one: §F.3's zero is not a gap in this pass's
+> research, it is a consequence of the spine.** ⚠ **And it reinforces §4.1 from a new direction — *an
+> obligation with no completion has no moment at which anyone can be credited.* ⭐ The same silence that makes
+> failure unannounceable makes success uncommemorable.**
+
+## B.3b ⛔⛔ ONE CANDIDATE REFUSED — **`NO FORCED FIT`, and it bites the best-looking one**
+
+**The `zócalo` was the strongest candidate in the entire inventory.** **It is the lower course of a wall built
+in hard material to give the building stability; from 1919 it was sculpted to protect mud-and-clay walls from
+rain and street dust; and** ⭐⭐⭐ **in the 1980s, rebuilding after the old town was lost, families began using
+the panels to record what had gone under the water — *"what began as weatherproofing became a form of
+collective memory, painted directly onto the walls people walked past every day"* — including the trade of
+the building's owner.**
+
+**On its face it answers `D3b`** *(the rebuilt competence was never written down, **unspeakable**)* **and
+§5.1's finding that the only record Davis holds *documents the terrain and not the teaching*.**
+
+> # ⛔⛔ **REFUSED. DAVIS HAS NOTHING FOR IT TO EXPLAIN.**
+> **Checked directly: a sweep of all nine Phase files for *inscription · carving · painting · marking ·
+> plaque · engraving* returns ZERO.** ***Davis has no surface-marking practice of any kind.***
+> ⇒ ⭐⭐⭐ **Supplying one would not be a fusion. It would be an invention wearing a citation** — **the exact
+> failure §B.3's test exists to prevent, since the test is *explain something the location already HAD*.**
+
+⚠ **Recorded with its reasoning intact so a later session does not re-derive the candidate and reach the
+opposite conclusion by forgetting to check.** ⭐ **And the empty slot is itself informative: a city whose one
+owned asset is a documentary method, and which has no non-documentary record at all, keeps all of its memory
+in a single medium.** ⛔ **Observation only — not written into any phase.**
+
+**Three further docket items were tested and left unfused** — **`etap`/`poluetap` staged transfer posts · a
+single-lane tunnel as the only way in · a claim of ownership stopped mid-word and left legible.** ⛔ **None
+explains a thing Davis already had; all three describe instruments Davis would have to be GIVEN.**
+
 ## B.4 ⚠ Separately — Step 3's own shortfall is real, and routes elsewhere
 
 > *"Run the real-world research against the location's full pick list, **prioritizing the LOWER TIERS** — top-tier
@@ -185,30 +365,41 @@ figure is carried across.** ⚠ **Tagged: directly inherited · surface.**
 
 **Davis's five picks, from its own research step:**
 
-| Pick | Verdict |
+| Pick | Verdict *(worked 2026-09-22 — `Davis_Research_Log.md`, Gate 7 entries)* |
 |---|---|
-| **1 — the absent instrument of refusal** | *(top-tier; absorbed)* |
-| **2 — competence rebuilt but never written down** | ⚠ **rated the LEAST-SPENT of the five by one reader** |
-| **3 — the general population** | ⚠ **scoped out of Davis's range by another** |
-| ⭐⭐⭐ **4 — THE PHYSICAL SITE** | ⛔⛔ ***NOT SPENT — "least spent of all"*** |
-| **5 — the registered topics** | **ranked below 1–3** |
+| **1 — the absent instrument of refusal** | ✅ **SPENT.** Both named targets read in full; a FOURTH structural mode found *(capture-with-check-and-reversal)* |
+| **2 — competence rebuilt but never written down** | ✅ **SPENT.** Three independent mechanisms recovered, converging on one conclusion |
+| **3 — the general population** | ✅ **SPENT.** An actual occupational census read; the generalist obligation now primary-sourced AND narrowed |
+| ⭐⭐⭐ **4 — THE PHYSICAL SITE** | ⚠ **PARTLY SPENT.** `H22` resolved; a new primary Davis-site fact recovered. **Two targets remain closed** |
+| **5 — the registered topics** | ✅ **SPENT.** The institutions half answered from the book layer |
 
 > ⚠ ***These are ULM Step 3 deficit-questions, NOT Process B's tiers*** *(see the correction above)*.
-> **They are recorded here because `P4`'s shortfall is genuinely a second, quieter reason the landmark half of
-> this catalog is thin — but it routes to STEP 3 / GATE 7, not to Process B.**
+> **They are recorded here because `P4`'s shortfall was a second, quieter reason the landmark half of this
+> catalog is thin — and it routes to STEP 3 / GATE 7, not to Process B.**
 
-**Its three NAMED, unread targets — carried verbatim so a later session can spend them without re-deriving:**
-- ⭐ **`Adamson & Pickard 1986`** — *the axis test and the likeliest home of the missing sublimation figure*
-- **`CRREL Report 93-14`** — *exceeded a fetch limit; obtainable locally*
-- **the eight unread chapters of a 1988 site-specific volume**
+**`P4`'s three named targets, and what each returned:**
+- ⛔ **`Adamson & Pickard 1986`** — **NOT OBTAINED.** No open-access route exists; the one located secondary
+  review is itself paywalled. ⭐ **The axis question it was named for is answered anyway — see below.
+  The sublimation figure remains unfound.**
+- ✅ **`CRREL Report 93-14`** *(Mellor, `Notes on Antarctic Aviation`, August 1993)* — **READ.** The fetch
+  ceiling was a tool limit, not a source limit: two hosts still refuse it, a third served the full 157-page
+  file. ⭐⭐ **It carries a direct site finding — a 1977 engineering survey identifying TWO candidate
+  hard-surface runway sites in broad, low-relief, ice-free valleys a few kilometers east and northeast of the
+  station, buildable to 2.4 km and extendable to 3 km by placing fill in shallow coastal water.**
+- ⚠ **The 1988 site-specific volume** — **IDENTIFIED and partially mapped** *(`Biology of the Vestfold Hills,
+  Antarctica`, reprinted from Hydrobiologia 165, 1988; eleven chapters located with page ranges)*, **but no
+  chapter's full text was read, and the specific "eight unread chapters" the earlier count refers to is not
+  identifiable from anything in the corpus.** ⛔ **NOT closed.**
 
-> ⛔⛔ **THIS PASS DID NOT RUN THEM, AND DID NOT INVENT AROUND THEM.**
-> ⇒ ***The physical-landmark half of this catalog is therefore THINNER THAN IT SHOULD BE, and that is a
-> RESOURCING fact, not a fact about Davis.*** ⚠ **Tracked as `H56` — Step 3's shortfall — and kept distinct
-> from `H54`, which is Process B's missing instrument.**
-> ⭐ **`LAW 0-R`: a pick is not exhausted because it has been searched.** ⭐ **The research step's own verdict —
-> *"three picks aren't spent because their answers are in BOOKS AND STATUTES, not on an INDEX"* — is the
-> specific reason, and it names the fix.**
+> ⭐⭐⭐ **AND `Gore et al. 1996` — the second half of `H22`'s named test, never on this list — WAS obtained.**
+> **Its abstract gives the mechanism directly: west of the salt line, halite and thenardite from marine
+> aerosols, postglacial seawater saturation and glacial dispersal of salt-saturated fjord sediments; east of
+> it, subglacial carbonates and in-place chemical weathering products.** ⇒ **`H22` RESOLVES — see
+> `Phase 3` §F.5.**
+>
+> ⭐ **`LAW 0-R` vindicated twice over: a pick is not exhausted because it has been searched, and a document is
+> not unavailable because two hosts refused it.** ⚠ **`H56` narrows rather than closes — the landmark half
+> gained a real site finding, and two targets stay shut.**
 
 ---
 
@@ -379,9 +570,9 @@ comparison ONE LOCATION forbids.** ⇒ ✅ **NOT RUN, on purpose, with the reaso
 | # | Hole |
 |--:|---|
 | ⛔⛔⛔ `H54` | ***WITHDRAWN AT STEP 5 — THE CLAIM WAS FALSE.*** ~~*No city carries `Primary`/`Secondary`/`Supporting` tagging*~~ ⇒ **`Cities/Inspirational-Influences.md` carries it corpus-wide: 62 `[PRIMARY]`, 83 `[SECONDARY]`.** ⭐ **DAVIS'S ACTUAL PICKS (L75–78): *Tyumen, Russia* `[PRIMARY]` · *San Luis Potosí* `[SECONDARY]` · *Guatapé, Colombia* `[SECONDARY]`.** ⚠ **The grep that "proved" absence searched for `Supporting)`; the format is `[SECONDARY]`** |
-| ⭐⭐⭐ `H58` | ⛔⛔ ***PROCESS B IS STILL NOT CORRECTLY RUN.*** **§B.2's list is a PHYSICAL-SITE reference set, not Davis's designated inspirations.** **Tyumen, San Luis Potosí and Guatapé have not been researched.** ***The largest open item in the pass*** — see `05_Reconciliation.md` §1.1 |
+| ⭐⭐⭐ `H58` | ✅ **CLOSED 2026-09-22.** **Process B run against the designated inspirations — Tyumen `[PRIMARY]`, San Luis Potosí `[SECONDARY]`, Guatapé `[SECONDARY]`.** **Inventory: 15 searches, multiple angles per pick. Fusion: §B.3a — five fusions, two disanalogies, one documented refusal at §B.3b.** ⭐⭐ **The PRIMARY pick paid twice, both times on this pass's own deepest findings — the missing correction loop (§4.2) and the `H29` heat paradox.** ⚠ **§B.2's table remains a PHYSICAL-SITE reference set and is still not the pick list; the two are kept separate on purpose** |
 | ⚠ `H57` | ⛔ **THE ICE-FREE AREA IS NOT SETTLED.** **Three published figures — `200 / 420 / 512 km²` — unreconciled; canon states `~400`.** ⚠ **Open thread #6 warns against resolving it by picking the convenient one, and this pass had done exactly that in Phase 7 until it was amended** |
-| ⭐⭐ `H56` | ⚠ **Step 3's own shortfall — four of five picks unspent, `P4` (the physical site) *"least spent of all."*** **Three named targets: `Adamson & Pickard 1986` · `CRREL Report 93-14` · the eight unread chapters of a 1988 site-specific volume.** ⛔ **Routes to STEP 3 / GATE 7 — distinct from `H54`** |
+| ⭐⭐ `H56` | ⚠ **NARROWED 2026-09-22, not closed.** **Picks 1, 2, 3 and 5 are now SPENT; `P4` is PARTLY spent.** ✅ **`CRREL Report 93-14` read — a real site finding recovered *(two candidate hard-surface runway sites, 1977 survey)*.** ✅ **`H22` resolved via `Gore et al. 1996`.** ⛔ **Still shut: `Adamson & Pickard 1986` *(no OA route exists)* and the 1988 volume's full text *(identified, eleven chapters mapped, none read)*.** ⛔ **Routes to STEP 3 / GATE 7 — distinct from `H54`** |
 | `H55` | ⚠ **248 years with two recorded events** — a hole, not a characterization |
 | `H53` | ⭐⭐ **What an unattached person actually does** *(carried from Phase 9)* |
 | `A-1` | ⛔⛔ **Mortuary — RESERVED, intact through eight phases** |
@@ -394,7 +585,7 @@ comparison ONE LOCATION forbids.** ⇒ ✅ **NOT RUN, on purpose, with the reaso
 |---|---|
 | ⏸️ **Step 5 — Reconciliation** | ⭐⭐⭐ **§C.1's changing-point and §D's two gloves are the most testable things in the whole pass** — *concrete, physical, and either present in the culture files or not* · **§G's Virgo/Capricorn readings** |
 | ⏸️ **Step 6 — Differentiate** | **§0's theme · §H's border-adjacency deferral belongs to the terminal check** |
-| ⏸️ **Step 7 — QA** | ⚠⚠ **GATE 7 (research accounting) MUST NOT read Step 3 as closed** — **four of five picks unspent, and `H54` is now a second, louder site of the same fact** |
+| ⏸️ **Step 7 — QA** | ⭐ **GATE 7 (research accounting) has its evidence: four picks SPENT, `P4` PARTLY spent, `H58` CLOSED.** ⚠⚠ **It still must not read `P4` as closed — two named targets remain shut, and `H56` is narrowed rather than resolved** |
 | ⏸️ **Step 9 — Record** | **§I's band/`DR-4` collision · §Q's three findings** |
 | ⛔⛔ **THE 15:00 AUDIT** | **§Q.1's false-positive class · §I's collision · `H54`** |
 

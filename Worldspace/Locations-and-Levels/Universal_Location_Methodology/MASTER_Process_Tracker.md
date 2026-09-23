@@ -8,9 +8,16 @@
 >
 > ## ✅ DAVIS — **ULM COMPLETE, Steps −1 through 10** *(2026-09-16)*
 >
-> ⛔ **Gate 7 FAILS and is NOT closed** — *four of five research picks unspent; `H58`, the RWBEM inspirations
-> (`Inspirational-Influences.md` L75–78), never run. Blocked on web-search budget, not on effort.* **First item
-> for a fresh session.**
+> ✅ **Gate 7 CLOSED 2026-09-22, and it PASSES at 67%** — *all six rows worked; four changed a finding, two
+> corroborated without changing and are scored as corroborations.* ⭐⭐ **`H58` CLOSED: Process B run against
+> Tyumen `[PRIMARY]`, San Luis Potosí `[SECONDARY]` and Guatapé `[SECONDARY]` (`Inspirational-Influences.md`
+> L75–78) — 15 searches, then five fusions, two disanalogies and one documented refusal at
+> `Davis/04_Phase_10_Catalog.md` §B.3a/§B.3b.** ⭐ **`H22` resolved as a side effect: `Phase 3` §F.5's unified
+> hypothesis is now ADOPTED on `Gore et al. 1996`.**
+> ⚠ **`H58` was labeled "RWBEM" here and in `Davis/07_QA.md`. It is PROCESS B** — *a ULM Phase 10 section, not
+> the standalone RWBEM instrument.* ✅ **Corrected in both.**
+> ⛔ **NOT closed: `P4` (the physical site) is PARTLY spent — `Adamson & Pickard 1986` has no open-access
+> route and the 1988 volume's chapters are unread. `H56` is narrowed, not resolved.**
 > ⛔⛔ **AND THE NEXT CITY CANNOT BE RUN BY THE SESSION THAT RAN DAVIS** — *it read that city's own `16`
 > determination in full. Manifested in `06_Worked_Example_Provenance.md`.* **A fresh session must take it.**
 > **Detail: `Davis/07_QA.md` · `Davis/10_Readiness_Check.md` · `Davis/09.5_Log.md`.**

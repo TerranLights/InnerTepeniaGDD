@@ -73,8 +73,14 @@
 - Chongqing, China [SECONDARY] // massive heavy-industrial center — nearly 80% of gross industrial output from heavy industry, anchored by one of China's largest integrated iron-and-steel complexes
 
 ##### Davis
+> **What these three are for** *(developer, 2026-09-22)*: ***"the general setting and surroundings (natural,
+> societal, civilizational, etc etc) to use as a basis."*** **They supply CONDITIONS, not artifacts** — the
+> question they answer is *what is it like to be in a place like this*, not *what specific thing should be
+> copied across*. ⚠ *May well be general to every pick in this file rather than specific to Davis; recorded
+> here because this is where it was asked.*
+
 - Tyumen, Russia [PRIMARY]
-- San Luis Potosí [SECONDARY]
+- San Luis Potosí [SECONDARY] ⚠ *(Mexico — the state and its capital city; no country given in the original entry)*
 - Guatapé, Colombia [SECONDARY]
 
 ##### Vostok

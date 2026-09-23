@@ -14,7 +14,7 @@
 | **1** | **Append the QA block and the Review Panel block** | ✅ **Both exist as full files: `07_QA.md` · `08_Review_Panel.md`** |
 | **2** | **Add the differentiation row, same commit** | ✅ **DONE at Step 6 — both tables.** ⚠ **Nothing was noticed about another city requiring propagation** |
 | **3** | **Update whatever tracker claims completion** | ✅ **DONE — see §2. This was Gate 0's fail, and the fix is the remedy** |
-| **4** | **If the pass changed the methodology, update it in the same commit** | ⚠ **PARTIAL — see §4** |
+| **4** | **If the pass changed the methodology, update it in the same commit** | ✅ **COMPLETE** — *partial at Step 9; finished at Step 10, verified 2026-09-22. See §4* |
 
 ---
 
@@ -64,7 +64,7 @@ pass to carry `M-208`'s disposition, and it accumulated through every subsequent
 | **`Mechanical_Extraction_Field_Guide.md`** — two new rules: *the spine's `MUST OPEN` list is the contract, the category list a floor*; *a `RELIABLE` stamp is not a blanket warranty* | ✅ **WRITTEN** |
 | **New Tier U sheet** — `Division_of_Industry_Reliability_Quick_Reference.md`, the citation gate | ✅ **WRITTEN, and corrected once the same day** |
 | **Datasheet repairs** — the DoI gate wired into three cities' Phase 4 and Phase 7 | ✅ **WRITTEN** |
-| ⛔ **`M-241`'s three spine defects** | ⛔⛔ **NOT YET WRITTEN INTO `03`/`04`.** ***"A methodology change that does not update the runbook has not been made — the next pass will follow the runbook, not the commit message."*** **`H74`** |
+| ✅ **`M-241`'s three spine defects** | ✅ **WRITTEN INTO `03_The_Phase_Spine.md` at Step 10, verified 2026-09-22 — four sites: L465 and L1090** *(defect 1, both sites of the swap-test class)* **· L868** *(defect 2, the `Factions/` annotation)* **· L1177** *(defect 3, the Band 5–6 delegation target)*. ⭐ **`04` needed nothing — all three are spine instructions.** **`H74` CLOSED** |
 
 ---
 
@@ -72,7 +72,7 @@ pass to carry `M-208`'s disposition, and it accumulated through every subsequent
 
 | # | Hole | Opened at |
 |--:|---|---|
-| ⭐⭐⭐ `H58` | **Process B never run against Davis's designated inspirations — Tyumen, San Luis Potosí, Guatapé.** ⛔ **Blocked: web budget exhausted; `LAW 0-R` forbids recall** | Step 5 |
+| ⭐⭐⭐ `H58` | ✅ **CLOSED 2026-09-22.** **Process B run against Tyumen, San Luis Potosí and Guatapé — 15 searches, then five fusions, two disanalogies and one documented refusal** *(`Phase 10` §B.3a/§B.3b)*. ⭐⭐ **It also unblocked `06_Differentiate.md`'s Substitute 3, which that step named as the only instrument that could push back from outside the corpus** | Opened Step 5 · closed 2026-09-22 |
 | ⭐⭐⭐ `H69` | **The credit line has no written exit and no written return** | Gate 9 · five panel corners |
 | ⭐⭐ `H71` | **Davis has social venues and no social occasions** | Review Panel |
 | ⭐⭐ `H65` | **Where Davis's icebreaking is based, who operates it, and out of whose allocation** | Port ruling · the Ruler |
@@ -82,7 +82,7 @@ pass to carry `M-208`'s disposition, and it accumulated through every subsequent
 | ⚠ `H70` | **Gate I's inheritance count is a sample, not a census** | Gate I |
 | ⚠ `H72` | **Who holds the children during a shift** | The Parent |
 | ⚠ `H73` | **Whether removing the instrument's ability to conclude was deliberate** | Refereed |
-| ⛔ `H74` | **`M-241`'s spine defects not yet written into the runbook** | This step |
+| ✅ `H74` | ✅ **CLOSED.** **`M-241`'s three spine defects ARE in the runbook — four sites in `03_The_Phase_Spine.md`, written at Step 10 and verified 2026-09-22.** ⚠ **This row stood open for six days because Step 9 recorded the gap and Step 10 fixed it without coming back to close the row** | Opened this step · closed 2026-09-22 |
 | ⏸️ `H8` | ⛔ **REOPENED — Davis's founding administration.** *The figure that appeared to answer it is history-file* | Step 5 |
 | ⛔⛔ `A-1` | **THE MORTUARY QUESTION — RESERVED, INTACT THROUGH NINE STEPS** | Step 0 |
 
@@ -113,13 +113,15 @@ existed.** ⇒ ***Promoted from strongest finding to GENERATING finding.***
 
 > # ⚠ **STEP 9 RECORDED — WITH TWO GATES STILL FAILED AND ONE ACTION PARTIAL**
 
-⛔ **Gate 7 is NOT closed and must not be.** **Four of five research picks unspent, and `H58` — the designated
-real-world inspirations — never opened at all.** ⚠ **This is the single largest weakness in the pass, and
-`LAW 0`'s caution applies directly: *thirteen gates confirm the pass is not wrong; none of them can tell us it
-is not thin.***
+✅ **Gate 7 CLOSED 2026-09-22 and PASSES at 67%.** **All six rows worked. `H58` closed — the designated
+real-world inspirations researched and fused** *(`Phase 10` §B.3a/§B.3b)*. **`H22` resolved as a side effect.**
+⚠ **`LAW 0`'s caution still applies in narrowed form — *the gates confirm the pass is not wrong; none can tell
+us it is not thin* — and `P4` is where the thinness risk now sits: two named targets remain unobtainable and
+`H56` is narrowed rather than resolved.**
 
-⛔ **Action 4 is partial.** **`M-241`'s three defects are logged but not yet in the runbook, and the runbook is
-what the next pass will follow.**
+✅ **Action 4 completed at Step 10, verified 2026-09-22.** **`M-241`'s three defects are in the runbook — four
+sites in `03_The_Phase_Spine.md` — so the next pass will follow the corrected instructions rather than the
+ones that command the forbidden or the nonexistent.**
 
 ⭐ **What went right is worth stating too:** **the step-level checks — `M-208`'s close-out and Gate 9's second
 run — both caught real failures on work already marked complete, and the Review Panel corroborated one of them

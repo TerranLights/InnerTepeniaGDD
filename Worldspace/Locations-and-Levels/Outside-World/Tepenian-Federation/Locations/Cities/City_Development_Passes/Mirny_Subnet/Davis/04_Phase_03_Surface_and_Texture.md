@@ -53,7 +53,7 @@
 | ⛔ `Local_Cultures/…/Davis.md` · `Local_Robot_Culture/…/Davis.md` | **Open at Step 5, as a CHECK.** ⚠ **The Specs' developer-vision line points into `Local_Cultures/`. The pointer was seen and NOT followed** |
 | ⛔ The excluded Specs lines | `4`, `9`, `88–89`, `121`, `135–142`, `144–147`, `149–152`, `156–175`, `177`, `180–181`. Not read; nothing below derives from them |
 | ⛔ Any other city's material | **ONE LOCATION law.** ⚠ **The `01` geosciences file cross-applies an extremophile finding to another named city — only Davis's half is taken** |
-| ⏸️ **The named-but-unread papers** | `Adamson & Pickard 1986`, `Gore et al. 1996` — **the test for §F.5's hypothesis. Named, not opened; the hypothesis is held open rather than resolved** |
+| ✅ **The named test papers** | ✅ **`Gore et al. 1996` OBTAINED 2026-09-22 — §F.5's hypothesis is tested and ADOPTED, `H22` resolved.** ⛔ **`Adamson & Pickard 1986` remains unobtained; no open-access route exists** |
 
 ### ⚠ DECLARED — caveats carried rather than buried
 
@@ -202,8 +202,10 @@ research supplies real precedent for **extremophile communities in hypersaline w
   unweathered, vegetation-richer ground from ground where physical weathering produces *abundant sand*.**
   ⇒ ***Underfoot, Davis is not one surface. It is at minimum two: sound rock, and rock being turned into
   sand.***
-  ⚠ **Where that line runs at Davis specifically is NOT established** — the study's primary subject is a
-  different oasis, and the axis identity is unsourced *(`H22`)*.
+  ✅ **The axis identity IS established** *(`H22` resolved — §F.5)*: **west/coast is the marine-salt side,
+  east/ice-sheet the weathering side, and `Gore et al. 1996` is site-specific rather than a comparative aside
+  from a different oasis.** ⚠ **Where the line RUNS — its mapped position and how sharp it is — is still NOT
+  established.**
 - ⭐ **The soft ground is centimetres deep.** ***"Periglacial"*** is the registered term for ice-free ground
   bordering ice, and its active layer is *"only the top few centimetres."* **Below it, permanently frozen
   ground; below that, ground kept unfrozen by geothermal heat.** ⇒ **a thin seasonal skin over a frozen slab.**
@@ -362,7 +364,7 @@ isolation and different freshwater input will hold different points on that sali
 > ⭐⭐ **Which gives §B.4's image a cause:** ***some water is open while the water beside it is shut because they
 > sit at different points on a salinity gradient, and salt lowers a freezing point.***
 
-## F.5 ⏸️ ⭐⭐⭐ A third mechanism — **HELD AS A HYPOTHESIS, with its test named**
+## F.5 ✅ ⭐⭐⭐ A third mechanism — **THE TEST WAS RUN. THE HYPOTHESIS HOLDS.**
 
 **Combining three independent source sets, the Step 3 research proposed:** *lakes saline near the coast and
 fresh toward the plateau* · *wind raising salt aerosol from those marine inlets and saline lakes* · *tafoni only
@@ -375,11 +377,43 @@ water.**
 ⭐⭐⭐ **For a city whose authority is a dated observation and whose legitimacy is *in the log*, a natural annual
 archive that only some of its water bodies can keep is as load-bearing as physical facts get.**
 
-> ⛔⛔ **STRICT CAVEAT, THE RESEARCHER'S OWN, CARRIED WHOLE:** ***the salinity gradient is stated coast→plateau;
-> the salt line is stated west|east. NO SOURCE SAYS THEY ARE THE SAME AXIS.***
-> ⏸️ **HELD AS A HYPOTHESIS WITH A NAMED TEST — `Adamson & Pickard 1986` / `Gore et al. 1996`, both UNREAD.**
-> ⛔ **Not adopted. Not built on.** ⭐ *A finding this good, held open because one axis identity is unsourced, is
-> the discipline working.* **Hole `H22`.**
+> ⛔⛔ **THE CAVEAT THAT HELD IT, THE RESEARCHER'S OWN:** ***the salinity gradient is stated coast→plateau;
+> the salt line is stated west|east. No source read at Step 3 said they are the same axis.***
+> ⭐ *A finding this good, held open because one axis identity was unsourced, was the discipline working.*
+
+### ✅⭐⭐⭐ `H22` — RESOLVED 2026-09-22. **They are the same axis, and the mechanism says why.**
+
+**`Gore et al. 1996` — one of the two named tests — was obtained and its abstract carries the mechanism
+directly:**
+
+> ***"A regional chemical boundary termed the 'salt line', in the Vestfold Hills of East Antarctica, has been
+> investigated using X-ray diffraction and electron probe analyses of surficial salts, and conductivity of
+> surficial sediments. West of the salt line, halite and thenardite are abundant. These salts are derived from
+> dispersal of marine aerosols, saturation of sediment by seawater during postglacial marine transgression,
+> and glacial dispersal of salt-saturated fjord bottom sediments. East of the salt line, subglacial calcium
+> carbonates and salts formed by chemical weathering of their substrates occur."***
+>
+> *Gore, D.B., Creagh, D.C., Burgess, J.S., Colhoun, E.A., Spate, A.P. & Baird, A.S. (1996),*
+> ***Antarctic Science*** *8(1): 73–84.*
+
+**And a second, independently worded description of the same boundary states its geometry in the other
+coordinate system:** ***salt-enriched ground to the west and north nearest the coast, salt-poor ground to the
+east and south nearest the ice sheet.***
+
+> # ⇒ ⭐⭐⭐ **WEST = COAST. EAST = ICE SHEET. THE TWO STATEMENTS DESCRIBE ONE BOUNDARY IN TWO COORDINATE SYSTEMS.**
+> **The driver is distance from the marine aerosol source, which at this site runs west-to-east exactly as it
+> runs coast-to-plateau.** ⭐⭐ **The gradient and the line are not two candidate axes. They are one axis, and
+> the mechanism is why.**
+
+⚠ **`M-158` is honored, not bypassed: this is not an inference from a source's silence. It is two independently
+worded descriptions of the same boundary, converging on one stated mechanism.**
+⛔ **`Adamson & Pickard 1986`, the other named test, was NOT obtained** — no open-access route exists.
+⭐ **It is not needed for the axis question, which `Gore et al. 1996` settles on its own evidence.**
+
+> ## ✅ ⇒ **§F.5's unified hypothesis is ADOPTED.**
+> ***The saline basins are the source of the salt that eats the rock, and they are the same basins that cannot
+> keep an annual ledger. The archive-keeping half of the water and the sound-bedrock half of the land are the
+> same half*** — **and that half is the landward, ice-sheet-facing half.**
 
 ---
 
@@ -400,7 +434,8 @@ archive that only some of its water bodies can keep is as load-bearing as physic
   excluded — what it does that salt is not already doing is an open question, not an answer** *(`H21`)*.
 - ⛔ **Does not settle the basement lithology.** Granite and metamorphic basement are both sourced and they
   disagree *(`H20`)*.
-- ⛔ **Does not place the salt line at Davis**, or claim its axis is the salinity gradient's axis *(`H22`)*.
+- ⛔ **Does not place the salt line at Davis** — its mapped position and sharpness stay unestablished.
+  ✅ **It DOES now claim the axis identity, on `Gore et al. 1996`** *(`H22` resolved — §F.5)*.
 - ⛔ **Does not treat the salt-aerosol transport mechanism as confirmed here** — the threshold is `>10 m/s`
   against a `~5.6 m/s` mean, and gust data is unstated.
 - ⛔ **Does not describe how Davis smells.** Only the guaranteed interior/exterior structure is given.
@@ -432,7 +467,7 @@ archive that only some of its water bodies can keep is as load-bearing as physic
 | `H19` | **Which water bodies stay liquid, and for how long** | The range and its cause are established; no specific body's state is |
 | `H20` | ⚠⚠ **The basement lithology — granite or metamorphic?** | **Two sources disagree**, and the atlas's own caveat says its scale cannot resolve the Vestfold Hills internally. ⏸️ **Also open: whether modern mapping revises the `γPz` assignment** |
 | `H21` | ⏸️ **What freeze–thaw does at Davis that salt is not already doing, and where** | ***The single most consequential unresolved item carried out of Step 3***, and the one the first draft of this phase wrongly treated as settled |
-| `H22` | ⏸️ ⭐⭐ **Whether the salinity gradient (coast→plateau) and the salt line (west\|east) are the same axis** | **§F.5's unified hypothesis stands or falls on it.** **Named test: `Adamson & Pickard 1986`, `Gore et al. 1996` — both unread** |
+| `H22` | ✅ ⭐⭐⭐ **RESOLVED 2026-09-22 — the salinity gradient (coast→plateau) and the salt line (west\|east) ARE the same axis** | **`Gore et al. 1996` obtained; its mechanism settles it — west/coast carries marine-derived halite and thenardite, east/ice-sheet carries subglacial carbonates and in-place weathering products.** ✅ **§F.5's unified hypothesis ADOPTED.** ⛔ **`Adamson & Pickard 1986` still unobtained and not needed for this question** |
 | `H23` | ⭐ **Whether Davis's own water bodies keep varves, and which** | **Varves form only in fresh or brackish water.** ***For a city whose legitimacy is in the log, a natural annual archive is directly load-bearing*** — and canon does not say whether it has one |
 
 ---
@@ -488,8 +523,10 @@ phase is stronger after today than it was before.**
 **A surface-and-texture phase that cannot say what the buildings are made of has a gap in the middle of its own
 subject.**
 
-**Third doubt:** ⏸️ **`H22`/`H23` — §F.5's unified hypothesis is the most interesting thing this phase touched
-and it rests on an axis identity no source states.** ⭐ **Held open with a named, unread test rather than
-adopted.**
+**Third doubt:** ✅ **`H22` RESOLVED 2026-09-22 — §F.5's unified hypothesis was the most interesting thing this
+phase touched, it rested on an axis identity no source then stated, and the named test was eventually run.**
+⭐⭐ ***Holding it open rather than adopting it is what made the resolution worth anything*** — **the hypothesis
+is now adopted on `Gore et al. 1996`'s stated mechanism rather than on this phase's own enthusiasm.**
+⏸️ **`H23` stands.**
 
 ⛔ **PHASE 4 — ORDINARY LIFE — opens next. Not opened here.**

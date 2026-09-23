@@ -77,13 +77,23 @@ precisely why `D4` records that Davis's is addressed there and not here.** ⇒ *
 the city lacks, which is why the lack is survivable and also why it is invisible.***
 ⚠ **Against the subnet: not run — subnet-level material would require reading peer cities.**
 
-## 2.3 ⛔⛔ Substitute 3 — **real-world comparables. BLOCKED.**
+## 2.3 ✅ Substitute 3 — **real-world comparables. RUN 2026-09-22.**
 
 **Davis's designated inspirations are `Tyumen, Russia [PRIMARY]`, `San Luis Potosí [SECONDARY]` and
 `Guatapé, Colombia [SECONDARY]`** *(`Inspirational-Influences.md` L75–78)*.
-⛔ **None has been researched — `H58`.** ⛔ **This session's web-research budget is exhausted, and `LAW 0-R`
-forbids substituting recall.** ⇒ ***This substitute is unavailable and the pass says so rather than
-improvising one.***
+✅ **All three researched — 15 searches, multiple angles per pick — then fused against this pass at
+`04_Phase_10_Catalog.md` §B.3a.** **`H58` CLOSED.**
+
+> ### ⭐⭐⭐ AND IT DID WHAT §4 SAID ONLY IT COULD DO — **it pushed back from outside the corpus**
+> **Two returns changed findings this pass could not resolve internally:** ⭐ **Fusion 5 supplies the
+> PRESENT-TENSE mechanism `02` §4.2 asserted and never had** *(an expertise export means outcomes land
+> off-site, so the correction happens at the far end)*; ⭐ **Fusion 6 breaks a false dichotomy inside `H29`**
+> *(a deep, warm, non-potable relict aquifer is neither geothermal heating nor external supply)*.
+> ⛔ **And one candidate was REFUSED** — **the `zócalo`, on a direct check finding Davis has no surface-marking
+> practice of any kind.** ***An instrument that only ever agrees is not pushing back; this one declined.***
+
+⚠ **What remains deferred is the SIBLING half only, and that is deferred BY LAW** *(terminal differentiation
+check)*, **not by any gap in this pass.**
 
 ## 2.4 ✅ Substitute 4 — **the generator-conflict method** *(`02` §5)*
 
@@ -102,11 +112,15 @@ one being wrong.**
 and carries the same risk.** ✅ **Substitute 1 was run.** ⛔ **Substitute 3, the one that would have pushed back
 hardest from outside the corpus, was unavailable.**
 
-> ### ⚠⚠ SO THE HONEST STATEMENT OF RESIDUAL RISK
+> ### ⚠ SO THE HONEST STATEMENT OF RESIDUAL RISK — **narrowed 2026-09-22**
 > **The axis is derived from Davis's own ratified spine and is corroborated across five phases, which is the
-> strongest internal footing available.** ⛔ **It has NOT been tested against anything outside this location —
-> not a sibling, and not its own designated real-world inspirations.** ***Both tests exist; both are deferred,
-> one by law and one by `H58`.***
+> strongest internal footing available.** ✅ **It has NOW been tested against something outside this
+> location: its own designated real-world inspirations** *(§2.3; `Phase 10` §B.3a)*.
+> ⭐⭐ **The axis survived, and gained a mechanism it did not have** — **Fusion 5 explains WHY the serial
+> obligations announce nothing here, and the explanation came from a documented institutional structure rather
+> than from this pass's own derivation.**
+> ⛔ **The SIBLING test remains untaken and is deferred BY LAW.** ***One test done, one deferred — not two
+> deferred.***
 
 ---
 
@@ -134,6 +148,31 @@ commit as the pass.**
 data row.** ⛔ **If the table has an intended ordering, it is not knowable in-run and the terminal check should
 re-sort.**
 
+> ## ⛔⛔⛔ CORRECTION, 2026-09-21 — **THIS STEP UNDER-FILLED THE TABLE, AND THE ANTI-CONTAMINATION PROTOCOL IS WHY**
+> **The table does not have two tables. It has NINE**, one per section: capability shape · Phase 2 · Phase 3 ·
+> Phase 4 · Phase 6 · Phase 7 · Phase 8 · Phase 5 · Phase 9. **This step wrote 2 of 9 and declared the column
+> added, in good faith** — because the header-rows-only read above surfaced only the first two headers and
+> **nothing in the read told it that more sections existed.**
+>
+> ⭐⭐⭐ **THE FAILURE IS NOT CARELESSNESS. A RULE WRITTEN TO PREVENT CONTAMINATION PRODUCED A SILENT
+> INCOMPLETENESS** — *the protocol that stopped this pass from reading a sibling's cell also stopped it from
+> counting the destinations it owed.* ⛔ **And neither check caught it: Gate 0 verified that this FILE exists
+> at 160 lines, and Step 10 asserted *"the differentiation column written"* without opening the destination —
+> in the one step whose own governing law is **verify, do not assert.***
+>
+> ✅ **BACKFILLED 2026-09-21.** **The seven missing rows were transcribed from this pass's own ratified phase
+> files** *(each phase's `# 0 · THE AXIS` block, plus the specific secondary fields each section asks for)*,
+> **carrying Step 5's and Step 8's amendments rather than the phases' original text** — the Phase 6
+> not-singular amendment and the refereed settlement, Phase 7's credit-kinship `05` §6.1-col.3 tag and the
+> reconciled counterculture reading, Phase 8's open `H45`/`H46`, the reserved `A-1` mortuary, and **Phase 5's
+> standing flag that its axis predates the 2026-09-16 port ruling and needs re-checking against it.**
+> ⛔ **No sibling cell was read during the backfill; insertion was done by matching header text only.**
+>
+> ### ⭐⭐ THE FORWARD FIX, for every city whose pass has not yet run
+> **Record the table's SECTION COUNT AND HEADINGS in each city's `Step_6.md` datasheet.** **Section headers are
+> structure, not another city's answers** — reading them violates nothing, and it means a future pass knows it
+> owes nine rows without ever touching a sibling's cell. ⏸️ **Not yet applied.**
+
 ---
 
 # 5 · ⛔ WHAT THIS STEP DOES NOT CLAIM
@@ -153,8 +192,10 @@ re-sort.**
 *the things that keep people warm and lit announce their own failure; the serial obligations announce
 nothing* — and five phases written afterward, without reaching for it, all landed on it.**
 
-**Biggest doubt:** ⛔ **`H58`.** **Substitute 3 is the only instrument that could have pushed back from outside
-the corpus, and it is unrun. The axis currently rests entirely on internal corroboration.**
+**Biggest doubt — ✅ ANSWERED 2026-09-22.** **`H58` is closed and Substitute 3 has been run.** ⭐⭐ **The axis
+no longer rests entirely on internal corroboration: it was tested against Davis's three designated real-world
+inspirations, survived, and gained the present-tense mechanism it had been missing** *(§2.3)*.
+⚠ **The remaining doubt is narrower and is deferred by law — the sibling comparison.**
 
 ⛔ **STEP 7 — QA, THE SEVENTEEN GATES — opens next.** ⭐ **`04`'s Gate 6 note carries a live instruction for it:
 run Gate 4's swap test deliberately as partial cover for the deferred Gate 6.**

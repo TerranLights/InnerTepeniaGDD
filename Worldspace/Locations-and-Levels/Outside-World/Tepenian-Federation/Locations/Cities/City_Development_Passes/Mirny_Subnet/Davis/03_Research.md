@@ -252,13 +252,16 @@ know what they would have given, which is what the rule requires.**
 **Round 3's specific job for a research step.** *Each researcher was required to answer SPENT / NOT SPENT per
 pick and to name the single specific thing that would change it — ⛔ not "more research."*
 
-| Pick | Verdict | The named thing that would move it |
+> ## ✅ ALL FIVE PICKS WORKED 2026-09-22 — **the table below is the state at Step 3; the right column records
+> what each named target returned.** *Full detail: `Davis_Research_Log.md`, Gate 7 entries.*
+
+| Pick | Verdict at Step 3 | The named thing — and what it returned |
 |---|---|---|
-| **1 · refusal instrument** | ⛔ **NOT SPENT** | **The 20 By-Laws under Ordinance T1/1985** *(the ordinance was reached; the by-laws are where a communal body's actual reach is written)* · **Martin Martin, 1698** |
-| **2 · unwritten competence** | ⛔ **NOT SPENT — least spent of all** | **Argote/Beckman/Epple 1990 primary** · the moderator table of *Procedural Skill Retention and Decay* · **IAEA nuclear knowledge-management** *(replaces the polar-handover sub-part, which A's controlled zero closed as a real absence)* |
-| **3 · general population** | ⛔ **NOT SPENT** | **An actual occupational census** · one primary corroboration of the generalist obligation |
-| **4 · the site** | ⛔ **NOT SPENT** *(C: least spent of all)* | ⭐ **`Adamson & Pickard 1986`** — the axis test AND the likeliest home of the missing sublimation figure · **CRREL Report 93-14** *(exceeded a 10 MB fetch limit; obtainable locally)* · the eight unread chapters of a 1988 site-specific volume |
-| **5 · registered topics** | ⚠ **PARTLY SPENT** | A founding statute, for the institutions half |
+| **1 · refusal instrument** | ⛔ NOT SPENT ⇒ ✅ **SPENT** | **The 20 By-Laws under Ordinance T1/1985** ✅ **read; all 20 counted, NOT ONE reaches presence or membership** · **Martin Martin, 1698** ✅ **read — yielded a FOURTH structural mode, capture-with-check-and-reversal** |
+| **2 · unwritten competence** | ⛔ NOT SPENT, least spent ⇒ ✅ **SPENT** | **Argote/Beckman/Epple 1990** ✅ **read** · the moderator table of *Procedural Skill Retention and Decay* ⛔ **paywalled — its 1998 predecessor read in full instead, disclosed** · **IAEA nuclear knowledge-management** ✅ **read — *"experts know more than they can tell (or write)"*, plus eight named methods** |
+| **3 · general population** | ⛔ NOT SPENT ⇒ ✅ **SPENT** | **An actual occupational census** ✅ **obtained** *(SSB Svalbard, 1,706.1 man-years by sector)* · **one primary corroboration of the generalist obligation** ✅ **obtained — and it NARROWED the claim: shared chores yes, cargo handling no** |
+| **4 · the site** | ⛔ NOT SPENT ⇒ ⚠ **PARTLY SPENT** | ⛔ **`Adamson & Pickard 1986` — no open-access route exists; the sublimation figure stays unfound.** ⭐⭐ **But `Gore et al. 1996`, the other half of the axis test, WAS obtained and resolves `H22`** · ✅ **CRREL Report 93-14 read — the fetch ceiling was a tool limit; a third mirror served it** · ⚠ **the 1988 volume identified and eleven chapters mapped, none read** |
+| **5 · registered topics** | ⚠ PARTLY SPENT ⇒ ✅ **SPENT** | **A founding statute, for the institutions half** ⛔ **the literal 1925 charter is unreachable** ⇒ ⭐ **the book layer supplied better: Jewett's 1925 manifesto and Buckley's Murray Hill design brief, both verbatim — architecture as the organizing mechanism, a fourth institutional model** |
 
 > ## ⭐⭐ AND THE FRAMING THAT EXPLAINS WHY — B's, and it is the useful one
 > ### ***"Three picks aren't spent because their answers are in BOOKS AND STATUTES, not on an INDEX."***
