@@ -280,7 +280,7 @@ lighter pass because more remain in the queue.
   relationships anywhere in the project (per `00e` §6 in the district runbook).
 
   **Why it's not being fixed now:** it needs a developer ruling on how the system's non-Wu-Xing members —
-  Air, Electricity, Electromagnetism — relate to a five-member cycle they were never part of, and that
+  Air, Electricity, Magnetism — relate to a five-member cycle they were never part of, and that
   ruling changes an existing canon reference file. Not a documentation task alone; a design decision. See
   `02_Generators_Capability_and_Symbols.md` §6.4 in the Universal Location Methodology for the full
   registered-systems context this sits inside of.

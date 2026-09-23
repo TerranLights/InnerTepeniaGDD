@@ -58,40 +58,60 @@ coincidence.
 
 ---
 
+> # ⏸️ THE ELEMENT COLUMN — **`⏸️` MEANS PENDING BY RULE, NOT MISSING**
+>
+> **`DR-8a`, settled 2026-09-16, moved the symbol determination INTO the pass: *"Step 4, Phase 10 (Catalog).
+> Not Step 5 — Phase 10 already has the full Phase 1–9 profile in hand by the time it's written."*** **Step 5
+> remains the backstop for a genuine contradiction, but it does not make the primary call.**
+>
+> ⇒ ⭐ **Cleared 2026-09-23 for every city that has not run the ULM.** **An element assigned before the pass
+> exists is a determination made without the profile that `DR-8a` says should make it** — so those slots are
+> now held open for their own Phase 10 to fill.
+>
+> ✅ **FOUR CITIES KEEP THEIR ENTRIES, because their passes are complete:** **Davis · Shirayuki · Sinheung ·
+> Zhongshan.**
+> ⚠ **`⏸️` is a deliberate hold with a named filler, not an oversight** — *per `M-171`, "I did not look" and
+> "I looked and it was empty" are different results, and so is "this is not mine to fill yet."*
+>
+> ⛔ **The `Why` column is UNTOUCHED throughout.** **Those rationales were written against the old
+> assignments and several of them argue for a specific element in prose.** ***Clearing the cell without
+> reading the sentence beside it would have destroyed the reasoning a later pass may want to weigh — or to
+> reject.*** ⚠ **Read the `Why` as a prior argument, never as a current determination.**
+
 ## Halley Subnet
 
 | City | Planet | Element | Why |
 |---|---|---|---|
-| Halley | Mercury | Water | Endurance right at the edge of a moving ice shelf, adapting rather than resisting |
-| Neumayer | Neptune | Metal | Precise, self-contained work that rewards inquiry rather than announcing itself |
-| Belgrano | Neptune | Metal | **The Halley subnet's primary aviation hub** and one of its two coastal receiving ports — and, downstream of the airfield, the **Belgrano Institute of Medicine**, one of only three sources of trained medical personnel in the Federation, flagship in **Emergency and Trauma Response**. *Precision under pressure, triage, and the discipline of knowing what cannot be saved.* **Its effect is felt wherever its medics and freight go, not at Belgrano itself** *(re-derived 2026-09-04 — see note below)* |
-| Troll | Neptune | Electricity | The subnet's real freight-and-aviation distribution hub — genuine working-class logistics muscle, redistributing goods that arrive via Sanay and Belgrano onward by air |
-| Sanay | Jupiter | Electromagnetism | Holds the literal Arcanet nexus — the invisible hub everything else connects through, weight self-evident without needing credit |
-| Princess Elisabeth | Uranus | Electricity | Self-generated power, a genuine technological outlier by design |
-| Lazar | Jupiter | Wood | By far Tepenia's single largest city — the second-largest isn't close. Built and continually reshaped by relentless waves of immigration, its own name phonetically shifted by sheer population mass, gathering whoever arrives and giving them somewhere to belong |
+| Halley | Mercury | ⏸️ | Endurance right at the edge of a moving ice shelf, adapting rather than resisting |
+| Neumayer | Neptune | ⏸️ | Precise, self-contained work that rewards inquiry rather than announcing itself |
+| Belgrano | Neptune | ⏸️ | **The Halley subnet's primary aviation hub** and one of its two coastal receiving ports — and, downstream of the airfield, the **Belgrano Institute of Medicine**, one of only three sources of trained medical personnel in the Federation, flagship in **Emergency and Trauma Response**. *Precision under pressure, triage, and the discipline of knowing what cannot be saved.* **Its effect is felt wherever its medics and freight go, not at Belgrano itself** *(re-derived 2026-09-04 — see note below)* |
+| Troll | Neptune | ⏸️ | The subnet's real freight-and-aviation distribution hub — genuine working-class logistics muscle, redistributing goods that arrive via Sanay and Belgrano onward by air |
+| Sanay | Jupiter | ⏸️ | Holds the literal Arcanet nexus — the invisible hub everything else connects through, weight self-evident without needing credit |
+| Princess Elisabeth | Uranus | ⏸️ | Self-generated power, a genuine technological outlier by design |
+| Lazar | Jupiter | ⏸️ | By far Tepenia's single largest city — the second-largest isn't close. Built and continually reshaped by relentless waves of immigration, its own name phonetically shifted by sheer population mass, gathering whoever arrives and giving them somewhere to belong |
 
 ## Palmer Subnet
 
 | City | Planet | Element | Why |
 |---|---|---|---|
-| Palmer City | Earth | Fire | A fully, completely alive city of art, music, and culture — rivaling Las Vegas, New Orleans, and St. Petersburg — inside a harsh, unforgiving surrounding environment |
-| Esperanza | Mars | Wood | Revived from centuries of drifting through other various conditions, back to being oriented around families — its original purpose |
-| Rothera | Asteroid Belt | Earth | "Built to Last, By Never Being in One Place" — a decentralized industrial base spread deliberately across Adelaide Island, output reaching every other Palmer subnet city; the heavily decentralized nature is a direct, literal match for the Asteroid Belt symbol itself |
-| Marambio | Neptune | Electricity | A demanding dual hub (port + airport) handled with quiet, undramatized capability |
-| Port Lockroy | Neptune | Water | A courier settlement built on diligence directly — a relay point moving parcels and other transportable goods between the Peninsula and the mainland |
-| Sejong | Jupiter | Air | Diplomatic coordination as an art form — gathering many neighbors, giving each somewhere to belong |
-| Signy | Mercury | Water | Small, isolated, careful self-sufficient planning at the margins |
-| Juan Carlos | Neptune | Metal | An archive known through its records and effects, not direct presence |
+| Palmer City | Earth | ⏸️ | A fully, completely alive city of art, music, and culture — rivaling Las Vegas, New Orleans, and St. Petersburg — inside a harsh, unforgiving surrounding environment |
+| Esperanza | Mars | ⏸️ | Revived from centuries of drifting through other various conditions, back to being oriented around families — its original purpose |
+| Rothera | Asteroid Belt | ⏸️ | "Built to Last, By Never Being in One Place" — a decentralized industrial base spread deliberately across Adelaide Island, output reaching every other Palmer subnet city; the heavily decentralized nature is a direct, literal match for the Asteroid Belt symbol itself |
+| Marambio | Neptune | ⏸️ | A demanding dual hub (port + airport) handled with quiet, undramatized capability |
+| Port Lockroy | Neptune | ⏸️ | A courier settlement built on diligence directly — a relay point moving parcels and other transportable goods between the Peninsula and the mainland |
+| Sejong | Jupiter | ⏸️ | Diplomatic coordination as an art form — gathering many neighbors, giving each somewhere to belong |
+| Signy | Mercury | ⏸️ | Small, isolated, careful self-sufficient planning at the margins |
+| Juan Carlos | Neptune | ⏸️ | An archive known through its records and effects, not direct presence |
 
 ## Mirny Subnet
 
 | City | Planet | Element | Why |
 |---|---|---|---|
-| Mirny | Saturn | Earth | Built as its own windbreak, unforced pride, doesn't need outside validation |
-| Casey | Mars | Fire | Revived from centuries of drifting through other various conditions, back to being oriented around culture |
+| Mirny | Saturn | ⏸️ | Built as its own windbreak, unforced pride, doesn't need outside validation |
+| Casey | Mars | ⏸️ | Revived from centuries of drifting through other various conditions, back to being oriented around culture |
 | Davis | — | — | ⏸️ **BLANK. Deliberately unset, developer ruling 2026-09-16** — *"for now, for the current time, we can just make that blank."* ⛔ **Do not fill from the breadbasket reading; Davis is also a port city, and the symbol is open** |
-| Kunlun | Pluto | Air | Among the most physically isolated places in Tepenia, built entirely around observation |
-| Vostok | Pluto | Water | Tepenia's other loneliest outpost, deep biological/genetic research |
+| Kunlun | Pluto | ⏸️ | Among the most physically isolated places in Tepenia, built entirely around observation |
+| Vostok | Pluto | ⏸️ | Tepenia's other loneliest outpost, deep biological/genetic research |
 | Zhongshan | Saturn | Metal | "The Quiet City" — self-sufficient, ordered complexity, content unexamined |
 | Sinheung | Uranus | Electricity | An outlier by its own outsized national pride, distinguishing itself forcefully from Tepenia's quieter post-national norm — unlike Sayowa's own quiet, uncredited service work, Sinheung wants to be noticed. Also the literal chamber-manufacturing city, animating inert matter into life |
 | Shirayuki | Uranus | Fire | A natural outlier — a place people will make excuses to be able to move to |
@@ -100,27 +120,27 @@ coincidence.
 
 | City | Planet | Element | Why |
 |---|---|---|---|
-| Janbogo | Earth | Air | Effectively a "sister city" with Zukelli — a fused, synthesized fashion identity blending many distinct influences into one, anchored by shielded commercial halls as its social heart, also the subnet's own Arcanet relay-nexus |
-| Fort McMurdo | Jupiter | Earth | The de facto capital — dominance so obvious it needs no assertion, quietly load-bearing |
-| Dumont d'Urville | Mercury | Fire | Small but intensely alive — "New Orleans at 1/20th scale" |
-| Cape Adare | Earth | Wood | Big-city warmth at small-town scale, unhurried, community-first |
-| Zukelli | Earth | Wood | A place with real soul — a huge, genre-diverse music scene grown from hospitality-centered founding instincts and genuine demographic breadth |
-| Scott | Saturn | Water | The deliberately quiet counterpart next door to a loud capital, content not to be noticed |
-| Denison | Venus | Metal | A single fused, comprehensively interlinked structure — the most extreme wind-engineering conditions in the country met with an equally extreme, uncompromising structural answer |
+| Janbogo | Earth | ⏸️ | Effectively a "sister city" with Zukelli — a fused, synthesized fashion identity blending many distinct influences into one, anchored by shielded commercial halls as its social heart, also the subnet's own Arcanet relay-nexus |
+| Fort McMurdo | Jupiter | ⏸️ | The de facto capital — dominance so obvious it needs no assertion, quietly load-bearing |
+| Dumont d'Urville | Mercury | ⏸️ | Small but intensely alive — "New Orleans at 1/20th scale" |
+| Cape Adare | Earth | ⏸️ | Big-city warmth at small-town scale, unhurried, community-first |
+| Zukelli | Earth | ⏸️ | A place with real soul — a huge, genre-diverse music scene grown from hospitality-centered founding instincts and genuine demographic breadth |
+| Scott | Saturn | ⏸️ | The deliberately quiet counterpart next door to a loud capital, content not to be noticed |
+| Denison | Venus | ⏸️ | A single fused, comprehensively interlinked structure — the most extreme wind-engineering conditions in the country met with an equally extreme, uncompromising structural answer |
 
 ## Mawson Subnet
 
 | City | Planet | Element | Why |
 |---|---|---|---|
-| Mawson | Earth | Fire | A warm, generative "resort town" built around romance and new beginnings |
-| Dome Fuji | Pluto | Water | Extreme isolation embraced as devotion, dissolving the self/environment boundary |
-| Sayowa | Neptune | Earth | The quiet dispatch hub keeping goods moving for everyone else, practical over glamorous |
+| Mawson | Earth | ⏸️ | A warm, generative "resort town" built around romance and new beginnings |
+| Dome Fuji | Pluto | ⏸️ | Extreme isolation embraced as devotion, dissolving the self/environment boundary |
+| Sayowa | Neptune | ⏸️ | The quiet dispatch hub keeping goods moving for everyone else, practical over glamorous |
 
 ## Byrd
 
 | City | Planet | Element | Why |
 |---|---|---|---|
-| Byrd | Mars | Earth | Lay dormant for centuries, revived back to being extremely well-developed following an exploration crew's mission to find it |
+| Byrd | Mars | ⏸️ | Lay dormant for centuries, revived back to being extremely well-developed following an exploration crew's mission to find it |
 
 ## Amundsen Station
 
@@ -129,7 +149,7 @@ by the same "for the sake of total completion" reasoning that included it in `Ci
 
 | Entity | Planet | Element | Why |
 |---|---|---|---|
-| **Amundsen Station** | **Neptune** | **Electromagnetism** | Calculated before it was built — decades of survey science established the Tower was possible before a beam was laid; then ran the national data infrastructure from the furthest point in the country. Known everywhere by its effect, visited by almost no one. The one place every meridian converges and every direction is north |
+| **Amundsen Station** | **Neptune** | ⏸️ | Calculated before it was built — decades of survey science established the Tower was possible before a beam was laid; then ran the national data infrastructure from the furthest point in the country. Known everywhere by its effect, visited by almost no one. The one place every meridian converges and every direction is north |
 
 ---
 
@@ -178,7 +198,7 @@ flatly wrong.*** **What this station produced:**
 ⚠ **Neptune's negative also lands:** *"understood entirely through someone else's disturbance rather than on
 your own terms."* **Amundsen had no terms of its own** — it *"belonged to all of them and therefore to none."*
 
-## Why ELECTROMAGNETISM
+## Why MAGNETISM
 
 | The element's own text | Amundsen |
 |---|---|
@@ -192,9 +212,9 @@ your own terms."* **Amundsen had no terms of its own** — it *"belonged to all 
 compass"* — a station with no identity but its function; and *"a signal is also a vulnerability — anything
 reachable by an invisible field can be jammed, intercepted, or spoofed."*
 
-## ⚠⚠ THE OBJECTION, ANSWERED — this doubles Electromagnetism
+## ⚠⚠ THE OBJECTION, ANSWERED — this doubles Magnetism
 
-**This file's own Distribution Notes previously read:** *"Electromagnetism's single use (Sanay) is deliberate
+**This file's own Distribution Notes previously read:** *"Magnetism's single use (Sanay) is deliberate
 rather than an oversight… forcing a second use elsewhere would have been arbitrary."*
 
 **Two reasons the doubling is not arbitrary here:**
@@ -261,10 +281,10 @@ uncredited service work against Sinheung's own need for recognition. The remaini
 through effect/record rather than direct presence."
 
 **Element usage (35 entities):** Earth 6, Water 6, Fire 5, Metal 5, Wood 4, Electricity 4, Air 3,
-**Electromagnetism 2**.
+**Magnetism 2**.
 
-> ### ⚠ ELECTROMAGNETISM WAS SINGLE-USE UNTIL 2026-09-04 — the change is deliberate, not drift
-> **The previous note read:** *"Electromagnetism's single use (Sanay) is deliberate rather than an oversight
+> ### ⚠ MAGNETISM WAS SINGLE-USE UNTIL 2026-09-04 — the change is deliberate, not drift
+> **The previous note read:** *"Magnetism's single use (Sanay) is deliberate rather than an oversight
 > — Sanay's literal Arcanet nexus is the one city whose established function maps directly onto the
 > element's own 'invisible bonds, signal and transmission' meaning; **forcing a second use elsewhere would
 > have been arbitrary.**"* **That reasoning stands, and Sanay keeps its entry in full.**

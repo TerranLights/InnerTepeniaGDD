@@ -508,7 +508,7 @@ either slot's pick implies about the other.
 **What actually went wrong, city by city:**
 - **Janbogo, Mirny, Shirayuki:** each proposed a fresh Robo-Element from scratch without ever checking the
   file. All three conflicted with the real pre-existing pick — Janbogo proposed Fire (actual: Air), Mirny
-  proposed Water/Metal (actual: Earth), Shirayuki proposed Electromagnetism (actual: Fire — its own rejected
+  proposed Water/Metal (actual: Earth), Shirayuki proposed Magnetism (actual: Fire — its own rejected
   secondary candidate turned out to be the right answer).
 - **Zhongshan, Byrd:** also skipped the check, but happened to land on the correct Element by coincidence
   (Metal, Earth respectively) — both still missed the Solar symbol half and wrongly framed the result as a

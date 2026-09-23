@@ -18,7 +18,7 @@ extension.*
 | **14 · The Population Share Check** | the general-population discipline | ✅ `Concordia-City/Districts/Phase_Instructions/00b_General_Population_Discipline.md` |
 | **Borrowed Form** · **The Unrecognized Instrument** | the location's own material | ✅ produced by the pass |
 | **The Zodiac Lens** | **12 signs, full attributes** | ✅ **12/12** — `Reference/Real-World/Zodiac_Signs_Full_Attributes.md` |
-| **Extension · Elemental/Planetary Cross-Check** | **8 Robot Elementals** | ✅ **8/8** — *Earth · Air · Fire · Water · Wood · Metal · Electricity · Electromagnetism* |
+| **Extension · Elemental/Planetary Cross-Check** | **8 Robot Elementals** | ✅ **8/8** — *Earth · Air · Fire · Water · Wood · Metal · Electricity · Magnetism* |
 | | **10 Planetary Symbols** *(9 planets + the Asteroid Belt)* | ✅ **10/10** |
 
 ⭐ **So the Cross-Check's full load is supported: 18 self-checks per sign × 12 signs = 216 combinations.**

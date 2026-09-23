@@ -16,7 +16,7 @@ symbol-system files, per `02` §6.0.**
 |---|---|---|---|
 | **Davis** | Earth planet + Earth element | **Reinforcing** | The assignment file itself calls it "a deliberate doubling-down": a place with no counterweight to its own groundedness — a strength with a named risk rather than a bland virtue |
 | **Kunlun** | Pluto (isolation) + Air (communication, thought, the connective medium) | **Tensioned, sharply** | The most physically isolated place in the country bound to the element of connection — **and it is an observatory.** Cut off from every person and connected to the entire sky. Not available from either symbol alone |
-| **Sanay** | Jupiter (dominance, gathering) + Electromagnetism (invisible bonds, signal, transmission) | **Orthogonal to complementary** | One describes weight, one describes reach — and it holds the Arcanet nexus, where the two registers meet exactly |
+| **Sanay** | Jupiter (dominance, gathering) + Magnetism (invisible bonds, signal, transmission) | **Orthogonal to complementary** | One describes weight, one describes reach — and it holds the Arcanet nexus, where the two registers meet exactly |
 
 > ### ⚠ This table is the recorded origin of M-82 and M-83
 > **It sat un-manifested in required reading for weeks and burned Run 11** *(which found the gap the hard

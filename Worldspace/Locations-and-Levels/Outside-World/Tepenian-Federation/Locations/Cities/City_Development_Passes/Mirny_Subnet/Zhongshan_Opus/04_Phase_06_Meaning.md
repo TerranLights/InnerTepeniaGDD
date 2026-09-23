@@ -87,17 +87,27 @@ vision note, this pass's own derived material — **not** the read-last culture 
 
 ## ⭐⭐ AND `G1` CORROBORATES — which is exactly what corroboration-tier is for
 
-`02_Spine.md` §2.7 classified the Saturn+Metal pairing as **IRONIC** before this phase existed:
+`02_Spine.md` §2.7 classifies the Saturn+Metal pairing as **IRONIC**:
 
 | | |
 |---|---|
 | **SATURN** | *"Doesn't care to be fully known… its true nature may perhaps be unknowable, which it's perfectly fine with."* ⭐ **Beauty built from fragments rather than requiring wholeness** |
-| **METAL** | *"Uncompromising honesty… precision, clarity… honoring what has genuinely ended"* |
+| **METAL** | *"Announces its limit by bending"* — integrity that holds completely, right up to its limit. And: *"what makes a body whole is what lets one failure travel all of it."* |
 
-⭐ **A city that will tell you the exact truth about any single thing and does not care whether you ever
-understand the whole** is a city that does not need its name on what it makes. **`05_The_Input_Contract.md`
-§6.1c: G1 may support a finding the other generators produce; it may not originate one.** ✅ **Six generators
-produced this one. G1 supports it.** *That is the rule working as designed, not a shortcut around it.*
+> ⭐⭐⭐ **Saturn's virtue is not requiring wholeness. Metal's vice is that wholeness, once achieved, propagates
+> failure entire.** **A structure built from fragments that were never required to cohere is a structure with
+> nothing for Metal's failure mode to travel through.**
+>
+> **And `05_Reconciliation.md` §5.5 finds the civic version of exactly this, without `G1` in hand:**
+> ***"THE THREE CITIES HAD ONE WORKFORCE LONG BEFORE THEY HAD ONE GOVERNMENT"*** — *unification ratified a
+> labor market that already worked, daily, in both directions, before anything made it lawful.*
+>
+> # ⇒ **THE WORKFORCE WORKED WITHOUT A NAME ON IT — WHICH IS SATURN'S FRAGMENTS AND METAL'S UN-PROPAGATED FAILURE, READ AS THIS CITY'S OWN LABOR HISTORY.**
+
+⭐ **A city built from parts that were never required to cohere into one legible whole** is a city that does
+not need its name on what it makes. **`05_The_Input_Contract.md` §6.1c: G1 may support a finding the other
+generators produce; it may not originate one.** ✅ **Six generators produced this one. G1 supports it.** *That
+is the rule working as designed, not a shortcut around it.*
 
 > ### ⛔ AND THIS IS NOT THE LEAKED FINDING — the difference, stated so it is checkable
 > | The leak (`Phase 5` §5.0) | This finding |
@@ -150,76 +160,14 @@ religion. That's a real, non-contradictory point of texture worth keeping visibl
 
 ---
 
-# 6.3 · THE WU XING CORRESPONDENCE — **a deferred canon question, and the principle that settles it**
+# 6.3 · WHY NO COLD-LIBERATION FAITH IS SITED HERE
 
-> ## ✅ DEVELOPER RULING, 2026-09-10 — verbatim
-> > ***"In terms of the real Wu Xing correspondence, that's something that we'll address at some point in the
-> > future. The effects upon the locations shouldn't really be all that different, because even if it ends up
-> > being under the header-label of a new element, the important thing is the meaning (whatever that meaning
-> > ends up being)."***
->
-> ⭐⭐ **THE LABEL IS PROVISIONAL. THE MEANING BINDS.** *This is `02` §6.0 generalized one step further: not
-> only "read the member from the file rather than from the tradition," but **the member's own NAME is not
-> load-bearing either — its terms are.***
-
-**`Ice-Cold_Buddhism_Research/03_Systems_Thinking_and_Interdependence.md` §5 carries the real Wu Xing
-correspondence table:**
-
-> **Water = Winter, North · Wood = Spring, East · Fire = Summer, South · METAL = AUTUMN, WEST · Earth = the
-> balancing center.** ⭐ **Wood and Fire are Yang; METAL AND WATER ARE YIN.**
-
-**And `Robot_Elementals.md`'s own Metal entry — this city's assigned element — reads: *West · Autumn ·
-White*.** **The project's element roster is openly built from the Wu Xing** (*"the Chinese Wu Xing five"*,
-its own header). **So the real tradition classes this city's element as a YIN — cold-side — element, and the
-same research file nominates *"Water, or Water alongside Metal"* as Ice-Cold Buddhism's patron element,
-"given ice is literally solid water while also carrying a hard, crystalline quality closer to Metal's."**
-
-> ## ⛔ THAT CHAIN IS EXACTLY THE ERROR `02` §6.0 EXISTS TO PREVENT, AND IT WOULD HAVE FIRED HERE.
-> **`02` §6.0: *"A registered symbol's meaning is whatever its FILE says it is — not what the name means in
-> the tradition you happen to know… open the file, read the member's actual terms."***
->
-> **`Robot_Elementals.md`'s Metal says nothing about cold, Yin, or liberation.** It says ***precision,
-> integrity, clarity, the capacity to let go gracefully, honoring what has genuinely ended, uncompromising
-> honesty*** — and negatively, ***rigidity, grief that can't move on, isolation through over-refinement.***
-> ⭐ **The project's Metal is about integrity and grief. It is not about cold.**
-
-**Three further checks, each independently fatal to the forced fit:**
-
-1. **Metal is assigned to five cities** (`City_Symbol_Assignments.md` distribution notes). **It is not
-   distinctive to this place.**
-2. ⭐⭐ **Neither actual Ice-Cold Buddhism city is a Metal city** — Kunlun carries **Air**, Dome Fuji carries
-   **Water**. **The faith's own sites disprove the correspondence as a siting rule.**
-3. **This city's lived relationship to cold is the wrong shape for the faith entirely.** `04_Phase_04` §4.2
-   measured it against the cold file's own thresholds: **lubricant failure, embrittlement and the death
-   spiral never fire here; a January mean above freezing.** ⭐ ***Cold here is a cost, never a gate —
-   undramatic, survivable, ordinary.*** **A tradition whose central image is cold-as-attainment has nothing
-   to grip on a population for whom cold is a slightly smaller battery and a dearer night.**
-
-> ### ⭐ AND THE `§6.0` READING ERROR IS AVAILABLE IN BOTH HALVES OF THIS CITY'S PAIR
-> **`02` §6.0's own worked example of the read-from-the-tradition error IS SATURN** — *this city's other
-> registered symbol.* **`00_Frame.md` §0.1b-2 already recorded that the Saturn half was live here.**
-> ⛔ **This phase found the same shape on the Metal half, in a different file, pointing at a different wrong
-> answer.** ✅ **Both walked around, by reading the terms rather than the names.**
-
-## ⭐⭐⭐ WHAT THE RULING MEANS FOR THIS PASS — the findings are LABEL-INDEPENDENT
-
-**Because the ruling makes meaning the binding thing, it is worth stating plainly what a future relabel
-would and would not disturb — so a later session does not have to re-derive it, or needlessly re-open a
-pass that is still sound.**
-
-| | Depends on the LABEL "Metal"? | Status under a relabel |
-|---|---|---|
-| ⭐ **`02_Spine.md` §2.7 — the pairing relation read as IRONIC** | ⛔ **No.** Derived from the two members' quoted terms: *"doesn't care to be fully known"* against *"uncompromising honesty"* | ✅ **SURVIVES** — carries forward with the terms |
-| ⭐ **`6.1` — G1 corroborating the standard of worth** | ⛔ **No.** Same terms, same quotation | ✅ **SURVIVES** |
-| **`6.3` — declining to site a cold-liberation faith here** | ⛔ **No.** Rests on what the file's Metal entry *says* (integrity, clarity, grief — no cold), plus three independent checks | ✅ **SURVIVES** |
-| ⚠ **Anything that read "Metal" as *meaning* Yin, autumn, west, or cold** | ✅ **Yes — and this pass wrote none of it** | *n/a* |
-
-> # ⭐ **SO THE ONLY THING THAT WOULD INVALIDATE THIS CITY'S `G1` WORK IS A CHANGE TO THE MEMBER'S OWN TERMS — NOT A CHANGE TO ITS NAME.**
-> ⚠ **A future session re-opening this question should check `Robot_Elementals.md`'s entry text, not its
-> heading.** *If the terms travel with the relabel, nothing here needs revisiting.*
-
-✅ **Logged for `09.5_Log.md`** — as a deferred canon question with a stated resolution principle, not as a
-defect.
+**This city's lived relationship to cold is the wrong shape for Ice-Cold Buddhism.** `04_Phase_04` §4.2
+measured it against the cold file's own thresholds: lubricant failure, embrittlement and the death spiral
+never fire here; a January mean above freezing. ***Cold here is a cost, never a gate — undramatic,
+survivable, ordinary.*** **A tradition whose central image is cold-as-attainment has nothing to grip on a
+population for whom cold is a slightly smaller battery and a dearer night.** ⇒ **This carries `6.2`'s "not
+sited here" verdict on Ice-Cold Buddhism.**
 
 ---
 

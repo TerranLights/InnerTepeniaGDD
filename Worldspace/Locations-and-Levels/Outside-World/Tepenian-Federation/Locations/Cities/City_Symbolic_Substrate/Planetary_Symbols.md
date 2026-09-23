@@ -6,7 +6,7 @@ symbolism, a standalone system paired with Elementals only at the point of city 
 (`City_Symbol_Assignments.md`). Per direct developer instruction, this was invented from scratch rather than
 reused from real-world astrology or mythology; each planet's meaning is instead grounded in a real, verifiable
 astronomical or physical fact about that specific planet, the same way the two "robot elements" (Electricity,
-Electromagnetism) are grounded in real physics rather than any existing tradition.
+Magnetism) are grounded in real physics rather than any existing tradition.
 
 **Status: official reference framework, promoted from `to-be-integrated/planetary-symbols.md` and
 `to-be-integrated/planetary-appended-symbols.md` 2026-08-30** (the two source drafts consolidated into this single file, no

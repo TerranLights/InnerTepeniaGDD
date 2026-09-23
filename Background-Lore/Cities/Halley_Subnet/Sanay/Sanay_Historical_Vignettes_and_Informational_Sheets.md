@@ -17,7 +17,7 @@ contact within it, but had essentially no digital reach past the subnet boundary
 exception of the dedicated pre-Tower cable linking the Halley subnet directly to Amundsen Station. Batch 5,
 per direct developer instruction, returns to post-Tower full connectivity with genuinely fresh occurrences
 distinct from batch 3, cross-referenced against `city-symbol-pairs.md` (Sanay = Jupiter/self-evident weight +
-Electromagnetism/the invisible hub) as a thematic undertone. Target 30, 30 done as of this batch — Sanay's own
+Magnetism/the invisible hub) as a thematic undertone. Target 30, 30 done as of this batch — Sanay's own
 full target complete. Batch 6, per direct developer instruction, returns to Batch 4's own pre-Tower,
 subnet-bounded framing with genuinely fresh occurrences, distinct from both Batch 4 and each other, now also
 cross-referenced against Sanay's own symbol pair — including the Amundsen Station cable's own partial

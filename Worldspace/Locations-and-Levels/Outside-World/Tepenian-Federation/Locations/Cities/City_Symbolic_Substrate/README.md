@@ -15,7 +15,7 @@ means "confirmed working reference," not "frozen forever."
 - `Robot_Elementals.md` — eight elements: the Chinese Wu Xing five (Earth, Fire, Water, Wood, Metal) plus Air
   (the Greek/Western import, kept deliberately outside the Wu Xing correspondence system rather than forced
   into an artificial slot), plus two "robot elements" grounded in real physics rather than any existing
-  tradition (Electricity, Electromagnetism).
+  tradition (Electricity, Magnetism).
 - `City_Symbol_Assignments.md` — a Planet + Element pair for each of the 35 outer cities (34 assigned; Abowasa
   excluded pending its own founding-nation fix), each pairing derived from and justified against that city's
   own already-established personality — cross-checked specifically against the three-axis reads in the

@@ -81,7 +81,7 @@ market's name than the city's.*
   population mass, gathering whoever arrives and giving them somewhere to belong") — already on file, not a
   fresh proposal, and the second Jupiter-paired city in the subnet (with Sanay) — addressed directly in
   Cross-Reference Synthesis rather than treated as coincidence, since the Robo-Element differs (Wood, not
-  Sanay's Electromagnetism). Human-Robot Relations Baseline — ordinary confirmation: robots hold a real
+  Sanay's Magnetism). Human-Robot Relations Baseline — ordinary confirmation: robots hold a real
   numeric majority (942,771 to 861,206), consistent with the national "egalitarian, skewed in favor of robots"
   characterization. Gen/Mark (Cradle) — checked directly against the full site-status list (current: Sinheung,
   Byrd; historical: Mountain Pass, Denison; paused-candidate: Belgrano, Concordia) — **Lazar appears in none of
@@ -331,7 +331,7 @@ localize per city.*
   city, robot-majority, formally powerless relative to its own weight) is worth flagging directly to the
   developer as a real, currently undeveloped hook, in the same register as Byrd's own DLC2-relevant finding.
 - **[Directly-inherited, Deep, resolves a symbol-pair question]** — *Input categories combined: E (Lazar's own
-  Jupiter+Wood grounding) + E (Sanay's own Jupiter+Electromagnetism grounding)*
+  Jupiter+Wood grounding) + E (Sanay's own Jupiter+Magnetism grounding)*
   Lazar shares its Solar symbol (Jupiter) with Sanay — the second Jupiter-paired city in this subnet — but the
   two picks ground themselves in genuinely different facets of "large/central," differentiated further by
   distinct Robo-Elements. Sanay's own grounding is about centrality by *function*: holding the literal Arcanet

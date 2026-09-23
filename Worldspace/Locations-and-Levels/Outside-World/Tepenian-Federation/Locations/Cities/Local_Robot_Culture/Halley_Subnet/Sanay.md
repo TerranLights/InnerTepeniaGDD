@@ -71,7 +71,7 @@ was built to prove: that taking real damage and staying functional are not the s
   Glitch-Coolant — **confirmed a genuine open slot**: checked directly against
   `Robot_Physiology_and_Cultural_Practices.md`'s own bohemian-variety and working-class-potency example lists,
   Sanay named in neither — this pass derives its placement, see §6. Robot Elementals & Solar Symbols —
-  confirmed directly: **Solar symbol Jupiter + Robo-Element Electromagnetism**
+  confirmed directly: **Solar symbol Jupiter + Robo-Element Magnetism**
   (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "Holds the literal Arcanet nexus — the invisible hub everything
   else connects through, weight self-evident without needing credit") — already on file, not a fresh proposal.
   Human-Robot Relations Baseline — **Sanay is not merely a local instance of this baseline; it's the confirmed
@@ -124,7 +124,7 @@ was built to prove: that taking real damage and staying functional are not the s
 | Arcanet Etiquette *(Part IV worked example)* | **Yes — already confirmed in canon** | §24 already establishes modest, functional day-to-day use despite hosting the actual nexus; see §9 and Cross-Reference Synthesis. |
 | Robot Biology and Culture | **Yes** | Siligel gets a real local specification; "What Counts as Death" ties directly into Sanay's own civic mythology; see §5 and §6. |
 | Glitch-Coolant | **Yes, genuine open slot, derived** | Placed in a shift-changeover-tied, efficiency-over-refinement pattern within the working-class/potency pole, distinct in mechanism from both Byrd/Rothera's and Troll's own versions. |
-| Robot Elementals & Solar Symbols | **Yes — already established** | Solar symbol Jupiter + Robo-Element Electromagnetism already on file. See §5. |
+| Robot Elementals & Solar Symbols | **Yes — already established** | Solar symbol Jupiter + Robo-Element Magnetism already on file. See §5. |
 | Human-Robot Relations Baseline | **Yes — and the literal originating case, not just a local instance** | Confirmed directly in `Robot_Physiology_and_Cultural_Practices.md`: the project-wide baseline was generalized *from* Sanay specifically. |
 | The Fragmentation Matrix (Bond/Grief) | **N/A (out of scope)** | Same reasoning as every prior standalone subnet city — a player-facing mechanic, not a culture-content input. |
 
@@ -209,7 +209,7 @@ localize per city.*
   an identical structural fact about her own body every day. See Cross-Reference Synthesis for the fuller
   treatment, including how this differs in content (though not in method) from Halley's own robot-physiology
   echo of its civic philosophy.
-- **[Directly-inherited, Deep]** Solar symbol Jupiter + Robo-Element Electromagnetism is already on file for
+- **[Directly-inherited, Deep]** Solar symbol Jupiter + Robo-Element Magnetism is already on file for
   Sanay, grounded directly in "holds the literal Arcanet nexus — the invisible hub everything else connects
   through, weight self-evident without needing credit." Both halves of the pick map with real precision onto a
   city whose entire civic identity is substantial, load-bearing function that asks for no recognition.

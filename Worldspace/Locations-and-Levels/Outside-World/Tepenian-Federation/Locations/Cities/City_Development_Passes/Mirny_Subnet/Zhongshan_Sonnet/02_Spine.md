@@ -310,26 +310,22 @@ produce shapes alone and must be paired; the structure comes from the pairing).
 | | Terms, read from the files (`00_Frame.md` §0.1b-2) |
 |---|---|
 | **SATURN** | Mystery — doesn't care to be fully known. + Beauty built from fragments rather than requiring wholeness. − Held together only loosely; impressive from a distance, insubstantial up close |
-| **METAL** | Righteousness/Integrity (*Yi*); grief. + Precision, clarity, discernment, the capacity to let go gracefully, honoring what has genuinely ended, uncompromising honesty. − Rigidity; grief that can't move on; isolation through over-refinement |
+| **METAL** | Announces its limit by bending. + Integrity that holds completely, right up to its limit, with no slow sag and no quiet compromise. − The warning and the strength are the same property, so hardening removes the warning; continuity carries the failure — what makes a body whole is what lets one failure travel all of it |
 
 ## Classifying the relation
 
 Saturn's core promise is comfort with partial knowledge — a structure that does not need to resolve, does not
-need to be fully seen, and is fine with that. Metal's core promise is the opposite disposition entirely:
-**uncompromising honesty**, precision, the discipline of cutting away everything that is not the plain truth.
-A place whose registered virtue is full legibility, paired with a place whose registered nature is comfortable
-opacity.
+need to be fully seen, and is fine with that. Metal's core promise is that the limit is announced: it bends
+before it breaks, visibly, and the deformation is the warning — and its named failure is that the announcement
+can be lost, the limit going silent with no notice.
 
-This is not merely **Tensioned** (two symbols pulling against each other, held in an ongoing contradiction) —
-it is sharper than that. Metal's specific promise — that this city, examined, gives you the whole truth,
-cleanly — is the exact thing Saturn undercuts: the city as a *whole* does not care whether it is fully known,
-however honest any single exchange inside it is. That is `02` §6.3's definition of **Ironic** precisely: *"one
-symbol undercuts the other's promise… the second symbol makes the first's characteristic strength fail in a
-specific, nameable way."*
+Metal's characteristic strength is that it announces its own limit. Saturn is the disposition that would not
+be watching: a structure that doesn't care to be fully known has no alarm for the one event Metal says to
+fear. That is `02` §6.3's definition of **Ironic** precisely: *"one symbol undercuts the other's promise… the
+second symbol makes the first's characteristic strength fail in a specific, nameable way."*
 
 > ## RELATION: **IRONIC**
-> Saturn declines to be fully known. Metal's central virtue is uncompromising clarity. A place whose registered
-> symbols are "does not care to be understood" and "will not shade the truth," at once.
+> Metal announces its limit; Saturn is the disposition that would not be listening for it.
 
 **And this reading is corroborated, not invented, by what Steps 0 and 1 already found independently, without
 reference to G1 at all:** the Jeju-do court settled everything by *agreeing with everybody* rather than
@@ -337,7 +333,8 @@ resolving a dispute (Step 1, `A-1`) — a proceeding that produced an outcome wi
 about a conflict, because there was none to be honest about. The fabrication-chamber candidacy has no terminal
 "no" — permanently under consideration, never refused, never confirmed (Step 1, `A-4`) — precision about
 process, no closure on the fact. **Both are Saturn's signature (unresolved, and comfortable with it) produced
-by institutions that would, on Metal's own terms, be expected to resolve things cleanly.** The pairing is
+by institutions that would, on Metal's own terms, be expected to hold or fail cleanly — no slow sag, no
+drawn-out ambiguity — rather than remain permanently unresolved.** The pairing is
 corroboration-tier only (`05` §6.1c) — it may support these findings, not originate them — but the agreement
 across independently-derived material is worth recording as exactly the kind of check `05` §6.1c exists to
 permit.
@@ -350,7 +347,8 @@ permit.
 > Everything here arrives and moves on — water, roads, freight geometry, a fifth of the people — and the only
 > permanently fixed thing is the city's right to be where it is, which was settled by strangers before anyone
 > arrived, cannot be revised, and costs nothing to keep; and the same irresolution runs through the city's own
-> registered symbols, which promise both unsparing honesty and comfortable opacity, at once.
+> registered symbols, which promise both a limit that announces itself and a disposition that would not be
+> listening for it, at once.
 
 **Not decided here:** what any of it is like to live in · the counterculture · the shadow · any institution ·
 `DRQ-11` · `R-2`'s candidacy. No research has been run — Step 3 is next, and `02` §4.2's Unrecognized Instrument

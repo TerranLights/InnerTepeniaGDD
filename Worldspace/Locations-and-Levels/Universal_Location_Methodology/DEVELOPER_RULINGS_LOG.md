@@ -117,6 +117,30 @@ composed and citable, same footing as the Planet half, **except that a pass shou
 one-word label as provisional** until the flagged review closes. `05` §3's "the methodology must not decide
 it" no longer applies to the six meanings; it still applies to the seven pending one-words.
 
+## ⏸️⏸️ DOWNSTREAM CONSEQUENCE, SURFACED 2026-09-23 — **three cities were assigned members whose meanings moved under them**
+
+**The rename was propagated across every live file on 2026-09-23** *(26 occurrences, 14 files)*. ⛔ **The
+dated cold-run records, this log, and `OBSERVATIONS_and_Methodology_Findings.md` keep the old name on
+purpose — they are records of what was read on a date, and renaming them would falsify them.** ✅ **No live
+file now carries `Electromagnetism`.**
+
+⚠⚠ **But a rename is not the whole of it. Two members changed MEANING, and three city assignments were made
+against the old meanings.** ⛔ **None of the following is decided here — each is the developer's call.**
+
+| City | Assigned | The problem |
+|---|---|---|
+| **Sanay** | Jupiter + *(was Electromagnetism)* | ⛔⛔ **WEAKENED.** Its rationale is *"holds the literal Arcanet nexus — the invisible hub everything else connects through."* **That is signal and transmission — the exact scope this ruling withdrew**, and it now sits with **Electricity**, which *"already claims connection and communication."* ⭐ **What survives is only the action-at-a-distance half.** ⚠ *This file's own distribution note justified doubling the member on the grounds that Sanay's function "maps directly onto the element's own 'invisible bonds, signal and transmission' meaning" — a sentence whose premise the ruling removed.* |
+| **Amundsen Station** | Neptune + *(was Electromagnetism)* | ✅⭐⭐ **STRENGTHENED.** *"Known everywhere by its effect, visited by almost no one"* is the new Neutral almost exactly — *"it acts across empty space, on things that never touch it."* ⭐⭐⭐ **And *"the one place every meridian converges and every direction is north"* is ALIGNMENT stated as geography.** **This assignment fits the rebuilt member better than it fitted the old one.** |
+| **Zhongshan** | Saturn + Metal | ⚠⚠ **Metal's meaning moved entirely** *(honesty/grief → announcement-of-limit, hardening, cohesion)*. **The pass's declaration and Step 2 pairing were re-derived 2026-09-23 and the `Ironic` classification survived on new grounds** — but ⛔ **its SPINE SENTENCE still reads *"registered symbols, which promise both unsparing honesty and comfortable opacity"*, and *unsparing honesty* was old-Metal.** **That clause currently has no source.** ⏸️ **Whether Zhongshan keeps Metal at all is open — see the candidate assessment raised the same day** *(Magnetism reads as the strongest alternative: "alignment, not addition" against the pass's own *"one workforce long before one government"*)*. |
+
+> ### ⭐⭐ THE GENERAL SHAPE, WORTH CARRYING PAST THESE THREE
+> ***When a registered symbol's meaning is rebuilt, the cities already assigned it do not fail loudly — their
+> rationales simply stop being supported, and nothing in the file says so.*** **`02` §6.0's rule (*read the
+> member from its FILE*) is what makes the damage findable: a pass that quoted its source can be re-checked
+> against it, and a pass that read the member off its name cannot.**
+> ⚠ **Every other city assignment should be swept against the rebuilt members before the next symbol-dependent
+> pass — not only these three, which were found because they were in front of us.**
+
 **Full content:** `Robot_Elementals.md`, rebuilt in place, same file.
 
 ---

@@ -81,7 +81,7 @@ arc every robot already lives individually: made by others first, self-authored 
 | Arcanet Etiquette *(Part IV worked example)* | **Yes, genuine expansion of thin existing material** | §24 is confirmed thin/generic (unlike every prior city's rich Arcanet material) — this pass proposes real expansion grounded in the city's established creative-distribution infrastructure; see §9. |
 | Robot Biology and Culture | **Yes** | Siligel gets real local specification via the frame-customization/craft angle; see §10. |
 | Glitch-Coolant | **Yes, sixth distinct variant** | Home-crafted/traded within creative circles — see §6. |
-| Robot Elementals & Solar Symbols | **Yes — corrected 2026-08-10, already established** | Solar symbol Uranus + Robo-Element Fire already on file (`city-symbol-pairs.md`), missed by this pass's original search; the Electromagnetism proposal is withdrawn. Platonic Solids excluded, consistent with prior cities. See §5 and Cross-Reference Synthesis. |
+| Robot Elementals & Solar Symbols | **Yes — corrected 2026-08-10, already established** | Solar symbol Uranus + Robo-Element Fire already on file (`city-symbol-pairs.md`), missed by this pass's original search; the Magnetism proposal is withdrawn. Platonic Solids excluded, consistent with prior cities. See §5 and Cross-Reference Synthesis. |
 | Human-Robot Relations Baseline | **Yes, confirmed** | §16 already establishes robots slightly outnumber humans with no dominant hierarchy — confirmation, not new derivation. |
 | The Fragmentation Matrix (Bond/Grief) | **N/A (out of scope)** | Same reasoning as every prior city — a player-facing mechanic, not a culture-content input; Shirayuki is a standalone subnet city. |
 
@@ -147,14 +147,14 @@ localize per city.*
 - **[Directly-inherited, Deep]** §18's no-dominant-tradition landscape is confirmed accurate by this pass. Its
   own "quiet, layered awareness of the city's own diplomatic origin" is real material, though not itself
   devotional — see Cross-Reference Synthesis for the genuinely new robot-specific extension.
-- **[Directly-inherited, Deep] — corrected 2026-08-10.** This file's original Electromagnetism (primary) /
+- **[Directly-inherited, Deep] — corrected 2026-08-10.** This file's original Magnetism (primary) /
   Fire (secondary) proposal is withdrawn as a proposal — but its own secondary candidate turns out to be the
   actual answer. Shirayuki's real pre-existing pick, per `city-symbol-pairs.md`, is **Solar symbol Uranus +
   Robo-Element Fire**. Fire's positive valence (passion, charisma, the courage to act and be seen) tracks the
   city's own Feeling/Compliant/Positive-Outlook register — "by a wide margin the warmest" of its Tri-Cities
   cluster — a direct, well-grounded fit this file had already half-recognized before reaching past it for a
-  more elaborate Electromagnetism reading. See Cross-Reference Synthesis for the reworked treatment of the
-  Ashiato-crystallization material without the withdrawn Electromagnetism framing.
+  more elaborate Magnetism reading. See Cross-Reference Synthesis for the reworked treatment of the
+  Ashiato-crystallization material without the withdrawn Magnetism framing.
 
 ### 6. Consumption & Vice Culture — Local Siligel/Coolant/Glitch-Coolant Flavor
 
