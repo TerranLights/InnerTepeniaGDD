@@ -11,7 +11,7 @@ not yet developer-confirmed as final.
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — China, USA (founding operator heritage). Significant —
+- **Nations present, by tier:** Primary — China, USA. Significant —
   Japan, Germany, France, UK, Italy. Notable — South Korea, Canada, Indonesia, Australia (founding
   wave), Philippines, Malaysia, New Zealand (founding wave), Chile. Exact per-nation share % in
   `Specs/Fort_McMurdo.md` and `Official_Population_Census.md`.
@@ -113,7 +113,7 @@ economic density rather than population size) and Calgary's own real precedent (
 where decisions get made even though the underlying resource comes from elsewhere) both ground Fort
 McMurdo's own "presence, not population" identity in genuine documented parallels.
 
-### USA (Primary, 21.69%, founding-operator heritage)
+### USA (Primary, 21.69%)
 
 **Real-world parallel community/communities identified:** Hawaii's Big Island (geography — Kīlauea's
 own history of persistent/recurring lava lakes, the single strongest real-world match in this entire
@@ -121,17 +121,13 @@ project for Fort McMurdo/Erebus specifically) and Pittsburgh (civic type — the
 heavy-industrial city that other regions depended on, plus a real history as a seat of regional power,
 a strong dual match).
 
-**Standout entry:** USA holds founding-operator heritage at the city that was, for most of Tepenian
-history, the actual national capital — the single most consequential civic role any population holds
-anywhere in this project, now resolved to present-day capital-less status.
-
 #### Surface Culture findings
 - **Food:** no strongly distinct local variant surfaced.
 - **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** no strongly distinct local variant surfaced.
 - **Holidays:** Tepenian Independence Day, alongside informal observance connected to the city's own
-  historical capital status, given USA's direct founding-operator role.
+  historical capital status.
 - **Music:** no strongly distinct local variant surfaced.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
@@ -163,7 +159,7 @@ anywhere in this project, now resolved to present-day capital-less status.
   here ripple outward to change what other cities can do, felt directly with no need for explanation.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: a specific, literal claim on the city's own
-  founding-operator role and its historical status as national capital.
+  historical status as national capital.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -513,9 +509,8 @@ of Skye's ancient volcanic terrain) — Sheffield (civic type), a classic real U
 
 **Working name: "McMurdan"** *(placeholder; not yet developer-confirmed).*
 
-Fort McMurdo's neo-culture centers on its own established "presence, not population" civic gravity —
-USA, the founding-operator heritage nation, carries this most directly given the city's historical
-status as Tepenia's national capital (now resolved to present-day capital-less status), grounded in
+Fort McMurdo's neo-culture centers on its own established "presence, not population" civic gravity,
+given the city's historical status as Tepenia's national capital (now resolved to present-day capital-less status), grounded in
 Zug and Calgary's real precedents for concentrated economic/decision-making density mattering more than
 population size. Japan and Italy both hold outstanding, near-literal geography matches (Sakurajima and
 Mount Etna respectively, alongside USA's own Hawaii match) — three populations independently anchored to

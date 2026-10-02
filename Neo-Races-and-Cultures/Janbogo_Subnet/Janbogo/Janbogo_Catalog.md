@@ -11,8 +11,8 @@ developer-confirmed as final.
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — China, USA. Significant — Japan, Germany, Italy, South Korea
-  (founding operator), Canada, Indonesia, Australia (founding wave). Notable — Philippines, Malaysia,
+- **Nations present, by tier:** Primary — China, USA. Significant — Japan, Germany, Italy, South Korea,
+  Canada, Indonesia, Australia (founding wave). Notable — Philippines, Malaysia,
   New Zealand (earliest founding wave), Chile. Exact per-nation share % in `Specs/Janbogo.md` and
   `Official_Population_Census.md`.
 - **Geography:** Terra Nova Bay, Ross Sea coast — the Pacific-facing side of Antarctica, a relatively
@@ -238,24 +238,23 @@ Quarter, a strong dual match).
 
 ---
 
-### South Korea (Significant, 10.23%, founding-operator heritage)
+### South Korea (Significant, 10.23%)
 
 **Real-world parallel community/communities identified:** Sokcho and the east coast near the Taebaek
 Mountains (geography — real seasonal mountain-downslope winds into a coastal town) and Busan (civic
 type — South Korea's largest port city, a strong match).
 
-**Standout entry:** South Korea holds founding-operator heritage at the city whose defining landmark,
-Majyao's Teahouse, directly anchors the whole civic identity — the single most concrete link between a
-founding population and a city's own established defining feature found at Janbogo.
+**Standout entry:** Janbogo's defining landmark, Majyao's Teahouse, directly anchors the whole civic
+identity — the single most concrete link between a founding population and a city's own established
+defining feature found at Janbogo.
 
 #### Surface Culture findings
-- **Food:** Majyao's Teahouse's own cuisine, the city's own defining civic landmark, tied directly to
-  this population's founding-operator role.
+- **Food:** Majyao's Teahouse's own cuisine, the city's own defining civic landmark.
 - **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** no strongly distinct local variant surfaced.
 - **Holidays:** Tepenian Independence Day, alongside informal observance connected to Majyao's
-  Teahouse's own founding, given this population's direct founding-operator role.
+  Teahouse's own founding.
 - **Music:** no strongly distinct local variant surfaced.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
@@ -286,8 +285,6 @@ founding population and a city's own established defining feature found at Janbo
 - Self, time, past and future: a specific, literal claim on the city's own defining civic landmark and
   founding institution, given the direct Majyao's Teahouse tie.
 - Fairness and justice: no strongly distinct local variant surfaced.
-- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding-
-  operator role.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -623,7 +620,7 @@ sheltered inlet) and Vancouver (civic type — a genuine major Canadian port cit
 **Working name: "Janbogan"** *(placeholder; not yet developer-confirmed).*
 
 Janbogo's neo-culture centers on two intertwined civic facts: Majyao's Teahouse, the defining landmark
-directly tied to South Korea's own founding-operator heritage and grounded in the Central Asian
+grounded in the Central Asian
 Chaykhana and Ottoman Kahvehane traditions (a specific institution transcending its origin to become
 universal and ethnicity-agnostic), and the genuinely heavy emotional weight of having been deliberately
 spared to witness Zukelli's destruction and carry its deterrent message forward. USA's New Orleans jazz

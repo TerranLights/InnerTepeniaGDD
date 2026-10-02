@@ -12,13 +12,12 @@ Notes (Phase 2) drafted below as a working first pass, not yet developer-confirm
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — China (founding operator heritage). Significant — South
+- **Nations present, by tier:** Primary — China. Significant — South
   Korea, Japan, Germany, Russia, Australia (founding wave). Notable — Vietnam, Estonia, Thailand,
   Lithuania, Malaysia, Indonesia, Romania, Philippines, Latvia, New Zealand, Bulgaria, South Africa.
   Exact per-nation share % in `Specs/Zhongshan.md` and `Official_Population_Census.md`.
 - **Geography:** Larsemann Hills, Prydz Bay — nearly the same coordinates as Sinheung, both facing
-  Prydz Bay; see Sinheung's own entry for full shared geographic detail. Chinese icebreaker routes to
-  Prydz Bay carry into the exile city's own maritime heritage.
+  Prydz Bay; see Sinheung's own entry for full shared geographic detail.
 - **Geological composition:** Ice-free oasis bedrock, Larsemann Hills — the developer's own worked
   example for this whole project ("Zhongshanese" people) starts here.
 
@@ -58,9 +57,8 @@ Notes (Phase 2) drafted below as a working first pass, not yet developer-confirm
 **Terrain profile:** same Larsemann Hills glacial-meltwater-oasis profile shared by Sinheung and
 Shirayuki (see Lazar's own entry for the general hydrological framing).
 
-- **China (Primary, founding operator heritage):** Namtso Lake area, Tibetan Plateau — the same
-  strong match used at Sinheung/Shirayuki, doubly fitting here given China's own founding-operator
-  role at this specific city — the developer's own "Zhongshanese" worked example starts here.
+- **China (Primary):** Namtso Lake area, Tibetan Plateau — the same
+  strong match used at Sinheung/Shirayuki — the developer's own "Zhongshanese" worked example starts here.
 - **South Korea (Significant):** Baekrokdam, Hallasan (Jeju Island) — same moderate/thematic match as
   at Sinheung.
 - **Japan (Significant):** Daisetsuzan mountain lake district, Hokkaido — same match as at
@@ -89,8 +87,7 @@ erasing — a precise structural precedent for Zhongshan's own established semi-
 "never fully abandoned even as later construction bent and broke it in places").
 
 - **China (Primary):** Ningbo-Zhoushan — one of China's largest maritime trade port complexes, an
-  excellent, especially fitting match given China's own founding-operator heritage at this city — the
-  developer's own "Zhongshanese" worked example starts here.
+  excellent match — the developer's own "Zhongshanese" worked example starts here.
 - **South Korea (Significant):** Busan — same major logistics/trade-port match used elsewhere.
 - **Japan (Significant):** Yokohama — same major Japanese port-trade match used at Janbogo.
 - **Germany (Significant):** Hamburg — same major German port match used repeatedly elsewhere.
@@ -111,7 +108,7 @@ they're from nation Y."
 **Pre-existing research folded in (per the process requirement):** Zhongshan's Enneagram profile,
 recorded in `Local_Cultures/Mirny_Subnet/Tri-Cities_Region.md`, is **Instinctive (Gut) / Withdrawn /
 Competency** — "the Quiet City," a personality organized around autonomy, presence, and simply *being*
-rather than analyzing or performing. Zhongshan is the only Tepenian city where the founding operator
+rather than analyzing or performing. Zhongshan is the only Tepenian city where the founding
 nation stayed demographically Primary from founding through the present, unbroken — the city never lost
 its identity, only refined it, always in close proximity to two very different neighbors (Sinheung,
 Shirayuki) without ever blending into either. A genuine "double life" dynamic governs daily life: a
@@ -127,11 +124,10 @@ Quarter** (a counterculture district deliberately left without an official name,
 would violate the same non-prying norm that governs individual privacy elsewhere in the city) as the
 two most thematically concentrated sites in Zhongshan.
 
-### China (Primary, 35.83%, founding operator heritage, unbroken demographic Primary since founding)
+### China (Primary, 35.83%, unbroken demographic Primary since founding)
 
 **Real-world parallel community/communities identified:** Namtso Lake area, Tibetan Plateau (geography
-— the same strong match used at Sinheung/Shirayuki, doubly fitting given China's own founding-operator
-role) and three precisely-matched civic-type precedents — **Ningbo-Zhoushan** (one of China's largest
+— the same strong match used at Sinheung/Shirayuki) and three precisely-matched civic-type precedents — **Ningbo-Zhoushan** (one of China's largest
 maritime trade port complexes), **Vilnius** (bold-defiance political character shaped by proximity to
 larger neighboring powers), and **Yekaterinburg** (grid-plan-plus-organic-growth architectural
 precedent). Zhongshan's own developer-designated flagship worked example ("Zhongshanese") begins here —
@@ -180,7 +176,7 @@ era.
 
 **Concepts of:**
 - Self, time, past and future: an identity that was never diluted, only refined — the only Tepenian
-  city where the founding operator nation stayed demographically Primary, unbroken, from founding
+  city where the founding nation stayed demographically Primary, unbroken, from founding
   through the present.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: a specific, literal claim on the city's own unbroken

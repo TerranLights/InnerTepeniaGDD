@@ -53,9 +53,9 @@ developer-confirmed as final.
 - **UK (Significant):** South Georgia — a genuine, glaciated, rugged UK sub-Antarctic island, a strong
   match.
 - **Italy (Significant):** No domestic match — flagged as weak.
-- **Spain (Significant):** No domestic population match, though worth noting Spain's own real
-  Antarctic base is literally named "Juan Carlos I" — a direct namesake connection even without a
-  matching terrain/population parallel.
+- **Spain (Significant):** No domestic population match, though worth noting the city is named for
+  Spain's own King Juan Carlos — a direct namesake connection even without a matching
+  terrain/population parallel.
 
 ---
 

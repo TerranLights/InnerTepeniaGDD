@@ -20,7 +20,7 @@ developer-confirmed as final.
   Indian Ocean; one of the most rugged stretches of the East Antarctic coast, Prince Charles Mountains
   visible to the south.
 - **Geological composition:** Coastal rugged terrain — the oldest continuously-occupied site in the
-  subnet (1954 founding), giving it deep institutional/territorial roots.
+  subnet.
 
 ---
 
@@ -605,5 +605,5 @@ quiet tension between founding memory and demographic present — worth developi
 Course of Events work rather than treated as a coincidental parallel. Trogir's own 2,300 years of
 unbroken urban continuity beneath completely different rulers gives that theme a precise, documented
 real-world shape: Mawson's continuity was never about which nation happened to be living there at any
-given time, the oldest continuously-occupied site in its subnet (1954 founding) carrying forward
+given time, the oldest continuously-occupied site in its subnet carrying forward
 regardless of demographic shift.

@@ -229,14 +229,10 @@ the City-Type dimension specifically, despite the weak geography match.
 
 **Real-world parallel community/communities identified:** the Tibetan Plateau, Nagqu/Amdo (geography —
 the strongest available match, though even the Tibetan Plateau falls short of Kunlun's full altitude
-extremity) and a genuine literal founding tie — the real Kunlun Station (CHINARE, 2009) that this
-Tepenian city is itself directly named for and built upon.
+extremity).
 
-**Standout entry:** China is the only population at Kunlun holding both a literal historical founding
-tie and the strongest available geography match at once — despite the 2026-07-06 population
-re-resolution deliberately moving Kunlun away from single-nation framing, China's genuine founding
-heritage persists as a real, distinct thread within the now-multinational, function-first population,
-comparable in kind to Spain's namesake claim at Juan Carlos or South Korea's at Sejong.
+**Standout entry:** China holds the strongest available geography match of any population at Kunlun,
+a real, distinct thread within the now-multinational, function-first population.
 
 #### Surface Culture findings
 - **Food:** high-altitude Tibetan Plateau practical tradition, echoing the strongest available
@@ -245,16 +241,14 @@ comparable in kind to Spain's namesake claim at Juan Carlos or South Korea's at 
 - **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** no strongly distinct local variant surfaced.
-- **Holidays:** Tepenian Independence Day, alongside informal observance connected to the real Kunlun
-  Station's own founding anniversary, given this population's direct namesake tie.
+- **Holidays:** Tepenian Independence Day.
 - **Music:** no strongly distinct local variant surfaced.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** no strongly distinct local variant surfaced.
 - **Literature:** no strongly distinct local variant surfaced.
-- **Language:** CHINARE/Kunlun Station founding-heritage vocabulary, a literal namesake connection
-  (Kunlun Station → the city of Kunlun).
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
@@ -271,12 +265,9 @@ comparable in kind to Spain's namesake claim at Juan Carlos or South Korea's at 
 - Cleanliness, modesty, beauty: no strongly distinct local variant surfaced.
 
 **Concepts of:**
-- Self, time, past and future: literal namesake and founding ownership — comparable in kind to Spain's
-  claim at Juan Carlos or South Korea's at Sejong, a direct historical-founding tie rather than a purely
-  heritage-tracking abstraction like the rest of Kunlun's population.
+- Self, time, past and future: no strongly distinct local variant surfaced.
 - Fairness and justice: no strongly distinct local variant surfaced.
-- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding
-  identity, given the direct Kunlun Station namesake tie.
+- Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -772,10 +763,8 @@ than differentiating meaningfully by nation. Only two populations break from thi
 distinct texture: USA, via three separate, precisely-matched real-world institutional precedents
 (NOIRLab, CHESS/CHEXS, MIT) that ground Kunlun's own "not a job, it's life" ethos and its
 merger-born multinational structure in real documented parallels rather than invented assertions; and
-China, via a literal historical founding tie (the real Kunlun Station, CHINARE 2009) that the city is
-directly named for, giving it a namesake claim comparable to Spain's at Juan Carlos or South Korea's at
-Sejong — despite the 2026-07-06 population re-resolution deliberately moving Kunlun's civic identity
-away from single-nation framing.
+China, via the strongest available geography match (the Tibetan Plateau), carried into its own
+high-altitude practical food tradition.
 
 **The shared civic ethos, not nation-by-nation variation, is Kunlun's actual defining cultural
 feature.** Every population here converges on the same Thinking/Withdrawn/Positive-Outlook register:

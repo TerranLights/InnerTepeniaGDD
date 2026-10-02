@@ -8,7 +8,7 @@ Synthesis Notes (Phase 2) drafted below as a working first pass, not yet develop
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — USA. Significant — Germany (founding operator heritage),
+- **Nations present, by tier:** Primary — USA. Significant — Germany,
   France, UK, Brazil. Notable — Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic,
   Ukraine, Romania, Norway, Finland, Hungary, South Africa, Chile, Slovakia, Croatia, Bulgaria, Serbia,
   Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in `Specs/Neumayer.md` and
@@ -67,8 +67,7 @@ same "impermanent/engineered ground" substitution logic to this city's own natio
 - **USA (Primary):** Louisiana Gulf Coast / Mississippi River Delta — actively subsiding, shifting
   land requiring ongoing infrastructure adaptation.
 - **Germany (Significant):** North Sea Wadden Sea / polder land — centuries of engineered land
-  reclamation on shifting tidal terrain; especially fitting here given Germany's own founding-operator
-  heritage at this specific city.
+  reclamation on shifting tidal terrain.
 - **France (Significant):** Camargue (Rhône River delta) — shifting wetland/marsh terrain.
 - **UK (Significant):** The Fens (eastern England) — reclaimed, historically sinking marshland.
 - **Brazil (Significant):** Amazon River delta / Marajó Island — shifting alluvial terrain; weaker
@@ -84,8 +83,7 @@ current-generation fabrication-synthesis chamber schematic" is Neumayer's defini
 - **USA (Primary):** Los Alamos, New Mexico — a real US town built entirely around scientific and
   engineering R&D, an excellent match.
 - **Germany (Significant):** Garching bei München — a real German research-town cluster (Max
-  Planck/TUM institutes), an especially fitting match given Germany's own founding-operator heritage
-  at this city.
+  Planck/TUM institutes).
 - **France (Significant):** Saclay — France's own major dedicated science-research cluster town, a
   strong match.
 - **UK (Significant):** Harwell, Oxfordshire — a real UK science/engineering research campus town, a
@@ -97,8 +95,7 @@ current-generation fabrication-synthesis chamber schematic" is Neumayer's defini
 ## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
 **No National Stereotypes compliance note:** every finding below is framed as arising from Neumayer's
-own conditions (its precision-engineering research economy, its floating-ice-shelf foundation, and
-Germany's genuine founding-operator role) that a given population's originating patterns fed into or
+own conditions (its precision-engineering research economy and its floating-ice-shelf foundation) that a given population's originating patterns fed into or
 reinforced — never as "this population does X because they're from nation Y."
 
 ### USA (Primary, 19.51%)
@@ -228,16 +225,14 @@ population at Neumayer.
 
 ---
 
-### Germany (Significant, 9.39%, founding-operator heritage)
+### Germany (Significant, 9.39%)
 
-**Real-world parallel community/communities identified:** North Sea Wadden Sea / polder land (geography
-— especially fitting given Germany's founding-operator role) and Garching bei München (civic type — a
-real German research-town cluster, Max Planck/TUM institutes, an especially fitting match for the same
-reason).
+**Real-world parallel community/communities identified:** North Sea Wadden Sea / polder land (geography)
+and Garching bei München (civic type — a real German research-town cluster, Max Planck/TUM institutes).
 
-**Standout entry:** Germany is the only population at Neumayer that is simultaneously founding-operator
-heritage, dual-anchored (strong on both geography and City-Type), and a substantial population share —
-the clearest "foundational, not just present" population found in this project so far.
+**Standout entry:** Germany is the only population at Neumayer that is simultaneously dual-anchored
+(strong on both geography and City-Type) and a substantial population share — the clearest
+"foundational, not just present" population found in this project so far.
 
 #### Surface Culture findings
 - **Food:** no strongly distinct local variant surfaced.
@@ -245,9 +240,8 @@ the clearest "foundational, not just present" population found in this project s
 - **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** no strongly distinct local variant surfaced.
 - **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
-- **Music:** Electronic, Metal, and Digital-Industrial — Neumayer's own confirmed dominant genres; given
-  Germany's founding-operator heritage here, this population's own real precision-engineering culture
-  reads as especially close to the source of this machinery-adjacent soundscape.
+- **Music:** Electronic, Metal, and Digital-Industrial — Neumayer's own confirmed dominant genres; this
+  population's own real precision-engineering culture reads as especially close to the source of this machinery-adjacent soundscape.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
@@ -275,9 +269,8 @@ the clearest "foundational, not just present" population found in this project s
 
 **Concepts of:**
 - Self, time, past and future: institutional prestige and methodical rigor as the city's own
-  foundational research ethos, not just one flavor among several — this population's presence is closer
-  to Neumayer's actual origin story than to an added layer, distinct from every other population's entry
-  here.
+  foundational research ethos, not just one flavor among several — distinct from every other
+  population's entry here.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
@@ -457,11 +450,10 @@ big-city flavors or Belgrano's convergent maker-city pride, this reads as multip
 hierarchies* coexisting — a subtle, genuinely usable source of internal civic friction (whose research
 tradition carries the most weight here?) rather than a single unified value.
 
-Germany stands apart from the other four as the one population that is founding-operator heritage,
-dual-anchored, and substantially populated all at once — Neumayer's German-descended population isn't
-simply "present," it's closer to the city's own origin story than any other population's contribution,
-a distinction worth preserving explicitly in future work rather than flattening Germany into "just
-another Significant-tier nation."
+Germany stands apart from the other four as the one population that is dual-anchored and
+substantially populated all at once — Neumayer's German-descended population isn't simply "present,"
+and that distinction is worth preserving explicitly in future work rather than flattening Germany into "just another
+Significant-tier nation."
 
 **Methodology note carried forward with confidence now:** Brazil's third consecutive weak City-Type
 match, this time at a "purpose-built research town" category, confirms a real pattern rather than

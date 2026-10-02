@@ -118,7 +118,7 @@ granite-highland terrain) that a given population's originating patterns fed int
 never as "this population does X because they're from nation Y."
 
 **A structural note before the per-nation entries:** Abowasa's own founding nations — Finland and
-Sweden, source of the real Aboa and Wasa stations — have drifted down to Notable tier (1.47% and 1.79%
+Sweden — have drifted down to Notable tier (1.47% and 1.79%
 respectively) and sit outside this Phase 1c pass's Primary/Significant scope. The same "founding myth
 outlives founding population" pattern already seen at Sanay (South Africa) repeats here. The six
 nations below are the *present-day* lived-culture majority, not the founding one.

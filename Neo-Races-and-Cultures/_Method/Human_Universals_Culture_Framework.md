@@ -9,7 +9,7 @@
 > full, because a document that cites its governing rule instead of stating it will be used without it.*
 > ⚠ **This framework is the primary instrument for building city cultures, so these rules bind it directly.**
 
-### 1 · ⭐⭐ STATION-BUILDER ≠ EXILE ORIGIN — **two different nations, and for most cities they DIFFER**
+### 1 · ⭐⭐ STATION-BUILDER ≠ EXILE ORIGIN — **two different questions; founders come only from the Founding Register, on geography and access**
 
 | ⛔ **The station's BUILDER** | ✅ **The EXILE POPULATION's origin** |
 |---|---|
@@ -44,7 +44,7 @@ answers for both would mean at least one is wrong.)*
 | **ACT 1** | 2564 → early 2600s | ***"Japanese / Chinese / Russian / American who live in Antarctica."*** Origin cultures still FRESH |
 | ⭐ **ACT 2** | ~late 2600s / early 2700s on | ## ***Properly TEPENIAN.*** Origin is **ancestry, not identity** |
 
-⚠ **The Second Interwar (2564–2812) spans both and is MOSTLY ACT 2** — *Act 1 is roughly its first 18%.*
+⚠ **The Second Interwar (2564–2812) spans both and is MOSTLY ACT 2** — *Act 1 is its earlier part, a hazy range not yet dated.*
 
 ### 5 · ⭐⭐ MECHANISM — **interconnection; Amundsen Tower's COMPLETION solidified it (~2688)**
 

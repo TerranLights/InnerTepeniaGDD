@@ -8,8 +8,8 @@ Synthesis Notes (Phase 2) drafted below as a working first pass, not yet develop
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — USA. Significant — Germany, France, UK, Russia (founding
-  infrastructure heritage), Brazil. Notable — Poland, Netherlands, Argentina, Czech Republic, Ukraine,
+- **Nations present, by tier:** Primary — USA. Significant — Germany, France, UK, Russia,
+  Brazil. Notable — Poland, Netherlands, Argentina, Czech Republic, Ukraine,
   Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia,
   Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in `Specs/Lazar.md` and
   `Official_Population_Census.md`.

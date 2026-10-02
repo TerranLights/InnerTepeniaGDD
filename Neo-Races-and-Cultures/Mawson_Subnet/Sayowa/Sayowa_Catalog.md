@@ -10,7 +10,7 @@ third and final Mawson subnet city; the subnet is now fully complete. Pre-drafte
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — China. Significant — Japan (founding operator heritage),
+- **Nations present, by tier:** Primary — China. Significant — Japan,
   Germany, France, UK, South Korea, Indonesia, Australia. Notable — Poland, Netherlands, Czech Republic,
   Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia,
   Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in `Specs/Sayowa.md` and
@@ -67,8 +67,7 @@ seasonal sea ice, not just any offshore island.
 - **China (Primary):** Bohai Sea islands near the Liaodong Bay coast — one of the few places in China
   with genuine seasonal sea ice, a real (if narrow) match.
 - **Japan (Significant):** Hokkaido's Okhotsk coast, e.g. Monbetsu's offshore drift ice — real
-  seasonal sea ice with a real coastal population; an especially strong match given Japan's own
-  founding-operator heritage at this city (the real Shōwa Station is Japanese).
+  seasonal sea ice with a real coastal population.
 - **Germany (Significant):** Weak match — Baltic islands such as Rügen see occasional winter ice, but
   nothing to the reliability of Sayowa's; flagged for Phase 2 review.
 - **France (Significant):** No domestic seasonal-sea-ice islands — flagged as weakest, likely needs a
@@ -93,7 +92,7 @@ most concretely civic of the three.
   flagged as a moderate, generic match (many Chinese port/logistics junction cities would fit
   loosely).
 - **Japan (Significant):** Same maritime-trade-plus-logistics profile as noted for Toyama Bay
-  elsewhere in this project; a moderate match given the founding-operator heritage here.
+  elsewhere in this project; a moderate match.
 - **Germany (Significant):** Duisburg — a real major German inland transit/logistics junction city.
 **Correction, folded in from `Sayowa_Mega_Init.md`'s own Inspirational Influences research:** rather
 than the flagged-weak generic reads below, UK and France both draw on specific, precisely-matched
@@ -520,32 +519,26 @@ fitting parallel to Sayowa's own genuinely liminal geography, bridging the Mawso
 
 ---
 
-### Japan (Significant, 2.71%, smallest population, founding-operator heritage)
+### Japan (Significant, 2.71%, smallest population)
 
 **Real-world parallel community/communities identified:** Hokkaido's Okhotsk coast, e.g. Monbetsu's
-offshore drift ice (geography — real seasonal sea ice with a real coastal population, an especially
-strong match given Japan's own founding-operator heritage here, the real Shōwa Station is Japanese) —
+offshore drift ice (geography — real seasonal sea ice with a real coastal population) —
 same maritime-trade-plus-logistics profile as noted for Toyama Bay elsewhere in this project (City-Type
-— a moderate match given the founding-operator heritage).
-
-**Standout entry:** despite holding the smallest population share at Sayowa, Japan is the city's own
-founding-operator nation — the real Shōwa Station this Tepenian city is directly named for and built
-upon.
+— a moderate match).
 
 #### Surface Culture findings
 - **Food:** no strongly distinct local variant surfaced.
 - **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** no strongly distinct local variant surfaced.
-- **Holidays:** Tepenian Independence Day, alongside informal observance connected to the real Shōwa
-  Station's own founding anniversary, given this population's direct founding-operator role.
+- **Holidays:** Tepenian Independence Day.
 - **Music:** no strongly distinct local variant surfaced.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** no strongly distinct local variant surfaced.
 - **Literature:** no strongly distinct local variant surfaced.
-- **Language:** Shōwa Station-derived founding-heritage vocabulary, a literal namesake connection.
+- **Language:** no strongly distinct local variant surfaced.
 
 #### Deep Culture findings
 
@@ -565,8 +558,6 @@ upon.
 - Self, time, past and future: seasonal drift-ice endurance as a lived, first-hand-adjacent identity,
   echoing Monbetsu's own real Okhotsk-coast precedent directly.
 - Fairness and justice: no strongly distinct local variant surfaced.
-- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding-
-  operator role, given the direct Shōwa Station namesake tie.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -589,9 +580,7 @@ moving goods for the wider highway network, done quietly and dutifully rather th
 holds one of the single most precise real-world matches found anywhere in this project via Felixstowe's
 own real "small population, outsized structural weight" precedent, mechanistically identical to
 Sayowa's own established central tension. France's Perpignan match and Germany's Duisburg match both
-reinforce the same function-over-fame framing from genuinely distinct real-world routes. Japan, despite
-holding the smallest population share here, is Sayowa's own literal founding-operator nation — the real
-Shōwa Station this Tepenian city is directly named for. Indonesia and Australia both read thin,
+reinforce the same function-over-fame framing from genuinely distinct real-world routes. Indonesia and Australia both read thin,
 consistent with weak matches on both dimensions rather than any settled predictive pattern.
 
 **Worth flagging as general civic-identity flavor, not nation-specific:** Djibouti City's own real

@@ -7,10 +7,16 @@ Not started.
 
 ## City Snapshot
 
-*(Pull from `Specs/[City].md` — don't re-derive, just summarize.)*
+*(Pull from `Specs/[City].md` and summarize — **except the founders**, which come only from
+`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md`.)*
 
+> ⛔ **Never take a founding claim from spec prose, a census tag, or another catalog.** Copy the city's Register row
+> as-is. A founding nation stands on geography and access, never on the real station (`DR-19`). If the row is ⏸️ open
+> or ⛔ overturned, write "not yet ruled" and treat no nation as the founder.
+
+- **Founders:** (the city's `Founding_Register.md` row: founders, ruling, status)
 - **Nations present, by tier and share %:** (from `Official_Population_Census.md` / the city's own
-  per-nation breakdown table)
+  per-nation breakdown table; **leave out any founding tags** carried in those tables)
 - **Geography:** (coastal / interior / mountainous / volcanic / ice-shelf / etc. — from the city's own
   Geographic Basis section)
 - **Geological composition:** (bedrock type, terrain character, notable geological features)

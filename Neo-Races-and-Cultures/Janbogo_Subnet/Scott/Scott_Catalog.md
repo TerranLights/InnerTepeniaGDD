@@ -12,8 +12,8 @@ developer-confirmed as final.
 ## City Snapshot
 
 - **Nations present, by tier:** Primary — China, USA. Significant — Japan, UK, South Korea, Canada,
-  Indonesia, Australia (founding wave). Notable — Philippines, Malaysia, New Zealand (founding operator
-  heritage), Chile. Exact per-nation share % in `Specs/Scott.md` and `Official_Population_Census.md`.
+  Indonesia, Australia (founding wave). Notable — Philippines, Malaysia, New Zealand,
+  Chile. Exact per-nation share % in `Specs/Scott.md` and `Official_Population_Census.md`.
 - **Geography:** Hut Point Peninsula, Ross Island — ~3km from Fort McMurdo on the same volcanic
   promontory; shares Fort McMurdo's geography (McMurdo Sound, Erebus, Dry Valleys) but at much smaller,
   more compact scale.

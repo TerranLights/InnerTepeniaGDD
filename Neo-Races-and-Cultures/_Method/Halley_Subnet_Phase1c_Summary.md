@@ -18,8 +18,7 @@ All eight Halley subnet cities now have complete Per-Nation Entries and draft Ph
 - **Lazar** ("Lazaran") — Tepenia's clearest "big city," all six populations well-textured;
   largest-city-but-not-the-capital civic tension.
 - **Neumayer** ("Neumayeran") — research-institute city with competing national prestige hierarchies;
-  Germany confirmed as genuinely foundational (founding-operator heritage + dual-anchored + substantial
-  population, together, not just one of the three).
+  Germany confirmed as genuinely foundational (dual-anchored + substantial population, together).
 - **Princess Elisabeth** ("Elisabethan" — flagged homophone, needs a different working name) —
   wind-as-mastery/frontier converging across both co-Primary populations (Japan, USA).
 - **Troll** ("Trollan") — freight-logistics-precision three-way convergence (USA/UK/Germany).

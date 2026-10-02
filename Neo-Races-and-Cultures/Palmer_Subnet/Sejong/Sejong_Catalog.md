@@ -63,8 +63,7 @@ match here, not just the physical terrain.
 - **Italy (Significant):** No domestic match — flagged as weak.
 - **Russia (Significant):** The Kuril Islands — a genuine cold-maritime volcanic island chain with a
   real Russian population, a strong match.
-- **South Korea (Significant):** Jeju Island — a real mild maritime volcanic Korean island; also worth
-  noting Sejong Station is literally Korea's own real Antarctic base, reinforcing the thematic fit.
+- **South Korea (Significant):** Jeju Island — a real mild maritime volcanic Korean island.
 
 ---
 
@@ -92,8 +91,8 @@ Per-Nation Entries section is the corrected, authoritative version.
 - **Brazil (Significant):** No standout domestic match — flagged as weak.
 - **Italy (Significant):** No standout domestic match — flagged as weak.
 - **Russia (Significant):** No standout domestic match — flagged as weak.
-- **South Korea (Significant):** Since Sejong Station is literally Korea's own real Antarctic base here,
-  the strongest match is thematic rather than a domestic transit-hub city: Korea's own real
+- **South Korea (Significant):** The strongest match is thematic rather than a domestic transit-hub
+  city: Korea's own real
   Sejong City, a purpose-built administrative/planned city, sharing the namesake and a
   purpose-built-settlement character.
 
@@ -646,8 +645,8 @@ neo-culture less about *which* value different populations converge on or diverg
 space without fully merging — closer to Gibraltar's relational identity-through-contrast than to any
 single-nation-dominant city cataloged so far.
 
-South Korea, the smallest population (5.79%), holds the deepest identity claim via direct namesake —
-Sejong is literally named for Korea's own real Antarctic base. USA's Primary-tier size sets the
+South Korea, the smallest population (5.79%), holds the deepest identity claim via the shared Sejong
+name. USA's Primary-tier size sets the
 administrative/coordination tone (Thinking/Compliant/Competency, driven by proximity to the Machu
 Picchu Border & Customs Authority) without dominating the *content* of any other population's own
 quarter.

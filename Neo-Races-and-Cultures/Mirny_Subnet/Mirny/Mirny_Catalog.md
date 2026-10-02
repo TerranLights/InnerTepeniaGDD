@@ -12,8 +12,8 @@ developer-confirmed as final.
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — China. Significant — Japan, UK, South Korea, Russia
-  (founding operator heritage), Indonesia, Australia (founding wave). Notable — Thailand, Vietnam,
+- **Nations present, by tier:** Primary — China. Significant — Japan, UK, South Korea, Russia,
+  Indonesia, Australia (founding wave). Notable — Thailand, Vietnam,
   Philippines, Malaysia, South Africa, New Zealand, Belarus. Exact per-nation share % in
   `Specs/Mirny.md` and `Official_Population_Census.md`.
 - **Geography:** Davis Coast, East Antarctica, sitting almost exactly on the Antarctic Circle
@@ -61,7 +61,7 @@ wind-record real-world locations.
 - **UK (Significant):** Shetland Islands — genuinely the windiest part of the UK, a strong match.
 - **South Korea (Significant):** Jeju Island's western coastal wind corridor — same match as Denison.
 - **Russia (Significant):** Novaya Zemlya / the Kara Sea coast — real, severe Arctic wind exposure; a
-  strong match, and especially fitting given Russia's own founding-operator heritage at this city.
+  strong match.
 - **Indonesia (Significant):** No meaningful match — flagged as weakest.
 - **Australia (Significant):** Barrow Island, Western Australia — the same world-record wind-gust
   match used at Denison.
@@ -94,7 +94,6 @@ glory, mirroring Mirny's own economic identity as a genuine industrial engine ra
 capital) and **Nizhny Tagil** (home to the world's largest tank manufacturer, a single industrial
 complex so dominant it effectively defines the whole city's economy — a concrete precedent for
 Mirny's own "huge industrial yards, machinery running more often than not" at matching scale).
-Especially fitting given Russia's own founding-operator heritage here.
 
 - **Russia (Significant):** superseded by the Yakutsk/Nizhny Tagil correction above.
 - **Indonesia (Significant):** No standout domestic match — flagged as weak.
@@ -348,15 +347,13 @@ single-mission City-Type categories, despite a substantial population share here
 
 ---
 
-### Russia (Significant, 7.22%, founding-operator heritage)
+### Russia (Significant, 7.22%)
 
 **Real-world parallel community/communities identified:** Novaya Zemlya / the Kara Sea coast
-(geography — real, severe Arctic wind exposure, a strong match, especially fitting given Russia's own
-founding-operator heritage) and two precisely-matched civic-type precedents — **Yakutsk** (severe
+(geography — real, severe Arctic wind exposure, a strong match) and two precisely-matched civic-type precedents — **Yakutsk** (severe
 conditions managed as routine, not spectacle; a city transformed by resource extraction rather than
 founding glory) and **Nizhny Tagil** (a single dominant industrial complex effectively defining a whole
-city's economy). The most richly, precisely anchored population at Mirny, and its founding-operator
-heritage nation.
+city's economy). The most richly, precisely anchored population at Mirny.
 
 #### Surface Culture findings
 - **Food:** no strongly distinct local variant surfaced.
@@ -397,8 +394,6 @@ heritage nation.
   entirely by resource extraction, mirrors Mirny's own economic identity directly, including the newly
   elevated Sinheung-supply role.
 - Fairness and justice: no strongly distinct local variant surfaced.
-- Roles related to age, sex, class, family: a specific, literal claim on the city's own
-  founding-operator role, given Russia's genuine founding heritage here.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -528,7 +523,7 @@ weak).
 Mirny's neo-culture centers on unforced industrial pride — a windbreak-architecture city whose fortified
 outer ring exists specifically to shelter huge industrial yards, now elevated from a subnet-local
 construction engine to a nationally significant supply chain feeding Sinheung's fabrication-synthesis-
-chamber manufacturing. Russia, the founding-operator heritage nation, carries this most directly via two
+chamber manufacturing. Russia carries this most directly via two
 precisely-matched precedents (Yakutsk's severe-conditions-as-routine culture, Nizhny Tagil's
 single-dominant-complex economic identity), while UK supplies the single strongest real-world quarrying
 anchor found anywhere in this project (Portland stone) despite holding no founding claim. China,

@@ -259,8 +259,8 @@ is sacred" and "people matter more than the schedule" reads as a live, ongoing n
 city rather than a settled question — a strong candidate seed for actual Course of Events content.
 
 South Africa's founding-nation status (now Notable tier, 4.48%) survives as the city's *mythology*
-layer rather than its lived-culture majority: the SANAE name, the bedrock-endurance founding story, the
-sense of a debt owed to the original station's builders — carried forward institutionally and
+layer rather than its lived-culture majority: the SANAE name and the bedrock-endurance founding story,
+carried forward institutionally and
 symbolically even though the population that tells that story today is mostly German- and
 Brazilian-descended, not South African-descended. That gap between founding myth and present
 demographic reality is itself a genuine, usable piece of Sanay's identity, not a contradiction to

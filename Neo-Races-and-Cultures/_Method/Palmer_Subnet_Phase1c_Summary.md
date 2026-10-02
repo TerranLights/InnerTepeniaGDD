@@ -10,7 +10,7 @@ All eight Palmer subnet cities now have complete Per-Nation Entries and draft Ph
   anchored population found anywhere in the project: strongest geography match, strongest City-Type
   match, and a literal historical tie to the founding event, all at once.
 - **Juan Carlos** ("Juan Carlan"/"Carlino," undecided) — a fishing-port-plus-archive city. Spain holds
-  a namesake claim (the real Spanish base is literally "Juan Carlos I"). Italy is the first confirmed
+  a namesake claim (the city is named for Spain's King Juan Carlos). Italy is the first confirmed
   instance of a new pattern: a large population with no strong anchor on any dimension, not explained
   by the Brazil settlement-type rule.
 - **Marambio** ("Marambian") — required a full correction pass. Paleontology is real geology, not a
@@ -36,8 +36,7 @@ All eight Palmer subnet cities now have complete Per-Nation Entries and draft Ph
   off most dramatically here: the original pass read eight of nine populations as weak, but existing
   research already established the real precedent (Izmir/Smyrna and Keelung's "boundary zones" of
   self-governed quarters) — a shared structural pattern held by every population, not a single
-  dominant match. South Korea's namesake claim (the real Sejong Station) mirrors Spain's at Juan
-  Carlos.
+  dominant match. South Korea's namesake claim mirrors Spain's at Juan Carlos.
 - **Signy** ("Signian") — the highest Primary-tier population concentration found anywhere in the
   project (USA, 33.33%), yet the quietest civic register of any city cataloged, matching its own
   Thinking/Withdrawn/Competency Enneagram core rather than its numeric dominance. Fishing confirmed as

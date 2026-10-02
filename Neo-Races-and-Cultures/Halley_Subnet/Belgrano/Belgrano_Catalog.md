@@ -407,11 +407,11 @@ manufacturing, and fabrication — with maintenance/repair (including Rastra-spe
 significant but secondary strand, not the dominant one. This reinforces rather than complicates the
 "maker city" reading below.
 
-**Founding-nation-drift echo, folded in 2026-07-16:** Argentina — Belgrano's real Air Force founding
+**Founding-nation-drift echo, folded in 2026-07-16:** Argentina — Belgrano's founding
 nation, directly tied to the original Byrd Expedition discovery — sits at Notable tier (4.40%),
 diluted like every Halley subnet founding nation. Outside this pass's Primary/Significant scope, but
 the same pattern already confirmed at Sanay (South Africa) and Abowasa (Finland/Sweden): a founding
-identity (here, the Rastra-inventing, frontier-martial Air Force heritage) surviving as civic mythology
+identity (here, the Rastra-inventing, frontier-martial founding heritage) surviving as civic mythology
 and craft-tradition long after the founding population itself became a small minority.
 
 Belgranan culture reads as Tepenia's clearest **"maker city"** — three independent populations (USA,

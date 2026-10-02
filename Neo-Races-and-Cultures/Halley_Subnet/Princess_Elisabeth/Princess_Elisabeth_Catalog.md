@@ -10,7 +10,7 @@ yet developer-confirmed as final.
 ## City Snapshot
 
 - **Nations present, by tier:** Primary — USA, Japan. Significant — Germany, France, UK, Brazil,
-  Australia. Notable — Poland, Netherlands, Belgium (founding operator heritage), Argentina, Czech
+  Australia. Notable — Poland, Netherlands, Belgium, Argentina, Czech
   Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia,
   Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in
   `Specs/Princess_Elisabeth.md` and `Official_Population_Census.md`.

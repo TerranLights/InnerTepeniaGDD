@@ -35,7 +35,7 @@ local variant surfaced" are omitted since there's nothing to list.
 
 ### Neumayer
 - USA (19.51%) — Electronic, Metal, Digital-Industrial
-- Germany (9.39%) — Electronic, Metal, Digital-Industrial (founding-operator population)
+- Germany (9.39%) — Electronic, Metal, Digital-Industrial
 - France (10.03%) — Electronic, Metal, Digital-Industrial
 - UK (5.24%) — Electronic, Metal, Digital-Industrial
 - Brazil (4.60%) — Brazilian-diaspora baseline layered onto the Electronic/Metal/Digital-Industrial city

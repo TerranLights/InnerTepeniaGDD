@@ -11,8 +11,8 @@ not yet developer-confirmed as final.
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — China, USA. Significant — Japan, France (founding operator
-  heritage), South Korea, Indonesia, Australia (founding wave). Notable — Thailand, Vietnam,
+- **Nations present, by tier:** Primary — China, USA. Significant — Japan, France,
+  South Korea, Indonesia, Australia (founding wave). Notable — Thailand, Vietnam,
   Philippines, Malaysia, New Zealand. Exact per-nation share % in `Specs/Dumont_dUrville.md` and
   `Official_Population_Census.md`.
 - **Geography:** Petrel Island, Géologie Archipelago, ~5km off the Adélie Land coast — not built on the
@@ -59,7 +59,7 @@ continental, still subject to persistent severe wind.
   communities.
 - **France (Significant):** Ouessant / Île de Sein, Brittany — small, famously wind-battered French
   islands ("who sees Ouessant sees his own blood" is a real local proverb about the danger of its
-  waters); an especially strong match given France's own founding-operator heritage at this city.
+  waters).
 - **South Korea (Significant):** Baengnyeongdo or Marado — small, remote, rocky Korean offshore
   islands.
 - **Indonesia (Significant):** No strong match — Indonesia's small islands are tropical and lack the
@@ -82,9 +82,9 @@ plain research outpost with penguins nearby.
   a strong structural match.
 - **USA (Primary):** Homer, Alaska — a real American coastal wildlife-tourism gateway town.
 - **Japan (Significant):** Shiretoko, Hokkaido — a real Japanese UNESCO wildlife-reserve gateway town.
-- **France (Significant, founding operator heritage):** Saintes-Maries-de-la-Mer, Camargue — a real
+- **France (Significant):** Saintes-Maries-de-la-Mer, Camargue — a real
   French wildlife-reserve gateway town (flamingos, wild horses) with a genuine small-town cultural
-  identity of its own; an especially fitting match given France's own founding-operator heritage here.
+  identity of its own.
 - **South Korea (Significant):** Suncheon — a real Korean wetland-reserve gateway town (migratory
   birds).
 - **Indonesia (Significant):** Labuan Bajo — a real Indonesian wildlife-reserve gateway town (Komodo
@@ -111,11 +111,7 @@ X because they're from nation Y."
 is **Feeling (Heart) / Assertive / Positive Outlook** — a tight, alive, culturally rich downtown core,
 heating units running between buildings as a visible, outward display of vitality, and an already-
 established "Negotiated Ground" culture organized around relationship and identity negotiation.
-`Dumont_dUrville_Mega_Init.md`'s Inspirational Influences research grounds this directly: Singapore's
-own real precedent (a founding administrative language remaining a living civic default for generations
-after its original speakers became a demographic minority) illuminates France's own founding-operator
-heritage persisting as civic default beneath the present China/USA-led population — not a preserved
-relic, but a fully living default. San Miguel de Allende and San Miguel de Tucumán are general
+`Dumont_dUrville_Mega_Init.md`'s Inspirational Influences research grounds this directly: San Miguel de Allende and San Miguel de Tucumán are general
 civic-identity flavor not tied to any specific Primary/Significant nation here, but they ground two
 established facts in genuine precedent: the "New Orleans at 1/20th scale" downtown culture as plausibly
 load-bearing to the city's survival (not just a pleasant amenity), and St. Jules Day's own legitimate
@@ -233,18 +229,13 @@ Alaska (civic type — a real American coastal wildlife-tourism gateway town).
 
 ---
 
-### France (Significant, 11.80%, founding-operator heritage)
+### France (Significant, 11.80%)
 
 **Real-world parallel community/communities identified:** Ouessant/Île de Sein, Brittany (geography —
 small, famously wind-battered French islands, "who sees Ouessant sees his own blood" a real local
-proverb about the danger of its waters, an especially strong match given France's own founding-operator
-heritage here) and Saintes-Maries-de-la-Mer, Camargue (civic type — a real French wildlife-reserve
-gateway town, flamingos and wild horses, with a genuine small-town cultural identity of its own).
-
-**Standout entry:** France's founding-operator heritage persists as the city's living civic default,
-directly echoing Singapore's own real precedent — a founding administrative language/culture remaining
-the genuine default for generations after its original population becomes a demographic minority (here,
-behind China and USA), not a preserved relic but a fully living civic fact.
+proverb about the danger of its waters) and Saintes-Maries-de-la-Mer, Camargue (civic type — a real
+French wildlife-reserve gateway town, flamingos and wild horses, with a genuine small-town cultural
+identity of its own).
 
 #### Surface Culture findings
 - **Food:** Camargue's own real pastoral/wetland culinary tradition, echoing Saintes-Maries-de-la-Mer's
@@ -287,8 +278,8 @@ behind China and USA), not a preserved relic but a fully living civic fact.
   Petrel Island's own founding logic (chosen for practical, buildable-rock reasons, not ambition),
   echoing San Miguel de Tucumán's own real "chosen for practical geography" precedent.
 - Fairness and justice: no strongly distinct local variant surfaced.
-- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding-
-  operator role and its own namesake, Jules Dumont d'Urville.
+- Roles related to age, sex, class, family: a specific, literal claim on the city's own namesake,
+  Jules Dumont d'Urville.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -533,11 +524,7 @@ Dumont d'Urville's neo-culture centers on its own established "New Orleans at 1/
 identity — live music in almost every eatery — shared citywide rather than dividing populations, and its
 wildlife-tourism-gateway function, where six of seven populations hold a genuine, often excellent
 real-world match (Wòlóng, Homer, Saintes-Maries-de-la-Mer, Shiretoko, Phillip Island's near-literal
-"Penguin Parade," Labuan Bajo). France, the founding-operator heritage nation, carries the deepest civic
-weight despite modest population share (11.80%): Singapore's own real precedent (a founding
-administrative language persisting as living civic default for generations after its original speakers
-became a demographic minority) grounds France's own founding-culture persistence beneath the present
-China/USA-led population directly. Every population shares in St. Jules Day, the city's own single
+"Penguin Parade," Labuan Bajo). Every population shares in St. Jules Day, the city's own single
 founding-moment civic anchor (echoing San Miguel de Tucumán's real precedent for how legitimately a
 small city's whole identity can orbit one date), and Petrel Island's own founding logic — chosen for
 practical, buildable-rock reasons, not ambition — gives the city's whole origin story a grounded,

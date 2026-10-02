@@ -10,8 +10,8 @@ first pass, not yet developer-confirmed as final.
 ## City Snapshot
 
 - **Nations present, by tier:** Primary — USA. Significant — Germany, France, UK, Russia, Brazil.
-  Notable — Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway (founding
-  operator heritage), Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia,
+  Notable — Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway,
+  Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia,
   Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in `Specs/Troll.md` and
   `Official_Population_Census.md`.
 - **Geography:** Jutulsessen nunatak group, Queen Maud Land — inland, elevated above the coastal ice

@@ -10,7 +10,7 @@ developer-confirmed as final.
 ## City Snapshot
 
 - **Nations present, by tier:** Primary — USA. Significant — UK, Mexico, Brazil, Argentina (founding
-  operator heritage). Notable — Chile (founding wave), Uruguay. Exact per-nation share % in
+  nation). Notable — Chile (founding wave), Uruguay. Exact per-nation share % in
   `Specs/Esperanza.md` and `Official_Population_Census.md`.
 - **Geography:** Hope Bay, northern tip of the Trinity Peninsula, facing the Weddell Sea — one of the
   northernmost Tepenian cities (63°24'S), no polar night or midnight sun. Colder/drier than the western
@@ -51,9 +51,9 @@ matches here are generally stronger and more direct than elsewhere in the projec
 - **Mexico (Significant):** No domestic match — flagged as weakest, likely needs a diaspora-community
   approach.
 - **Brazil (Significant):** No domestic match — flagged as weak.
-- **Argentina (Significant, founding operator heritage):** Tierra del Fuego / Ushuaia — the single
+- **Argentina (Significant):** Tierra del Fuego / Ushuaia — the single
   most direct real-world match in the entire project; genuine Argentine sub-Antarctic peninsula
-  population, especially fitting given Argentina's own founding-operator heritage at this city.
+  population.
 
 ---
 
@@ -68,9 +68,8 @@ identity (the real Esperanza Base is famous for the first child born in Antarcti
 - **UK (Significant):** Felixstowe — same major UK trans-shipment port match used at Sanay.
 - **Mexico (Significant):** Veracruz — a real major Mexican trans-shipment port city.
 - **Brazil (Significant):** Santos — same major Brazilian port match used at Sanay.
-- **Argentina (Significant, founding operator heritage):** Ushuaia — a real Argentine port city
-  serving as the actual gateway/trans-shipment point to Antarctica today, an excellent, especially
-  fitting match given Argentina's own founding-operator heritage here.
+- **Argentina (Significant):** Ushuaia — a real Argentine port city
+  serving as the actual gateway/trans-shipment point to Antarctica today, an excellent match.
 
 ---
 
@@ -317,7 +316,7 @@ type — same major UK trans-shipment port match used at Sanay). Double-strong.
 
 ---
 
-### Argentina (Significant, 8.35%, smallest population, founding-operator heritage)
+### Argentina (Significant, 8.35%, smallest population)
 
 **Real-world parallel community/communities identified:** Ushuaia / Tierra del Fuego — simultaneously
 the **strongest geography match** and the **strongest City-Type match** found anywhere in this entire
@@ -325,8 +324,7 @@ project, for the same real place. Ushuaia is genuinely known as "the end of the 
 mundo*) and is the actual real-world gateway city to Antarctica today.
 
 **Standout entry:** despite being Esperanza's smallest Significant-tier population, Argentina combines
-founding-operator heritage, the single strongest real-world match (on both dimensions at once) in the
-whole project, *and* a literal historical tie to the city's own founding mythology — the real
+the single strongest real-world match (on both dimensions at once) in the whole project *and* a literal historical tie to the city's own founding mythology — the real
 Esperanza Base's famous 1978 "first child born in Antarctica" event was specifically an Argentine
 undertaking. No population anywhere else in this project has this many converging forms of authority
 over its host city's identity at once.

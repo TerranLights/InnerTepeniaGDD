@@ -116,8 +116,8 @@ any port-city population generically:
   nations, not just a generic port-city reuse.
 - **Argentina, Chile, Uruguay (Notable tier, founding wave — outside this pass's Primary/Significant
   scope, but worth flagging explicitly):** these are the nations most directly tied to the actual
-  established South America shipping-partner canon and to Marambio's own Argentine Air Force founding
-  heritage; a future Notable-tier pass at this city should prioritize them over extending Vigo/Veracruz-
+  established South America shipping-partner canon and to Marambio's own Argentine founding
+  population; a future Notable-tier pass at this city should prioritize them over extending Vigo/Veracruz-
   style matches to Spain/Mexico.
 - **Spain, Mexico (Significant):** genuinely present as populations, but their earlier "port" entries
   (Vigo, Veracruz) were a mismatch with the actual established South America-shipping-partner lore —
@@ -585,7 +585,7 @@ into function... rather than self-reflection," to the point of apparently never 
 version of Janbogo's signature "founding culture outlives its founders" phenomenon.
 
 **A direct, striking confirmation of the Halley-subnet founding-drift pattern:** Argentina, Marambio's
-own founding nation (Argentine Air Force base since 1969), has drifted to just **0.74%** of the present
+own founding nation, has drifted to just **0.74%** of the present
 population — the single deepest founding-nation erosion documented anywhere in the Palmer subnet, per
 `Marambio_Cross_Reference_Synthesis.md`'s own Finding 3. This is the same structural pattern already
 seen at Sanay (South Africa) and Abowasa (Finland/Sweden) in the Halley subnet, now confirmed

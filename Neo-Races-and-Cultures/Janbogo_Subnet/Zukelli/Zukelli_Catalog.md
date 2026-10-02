@@ -12,8 +12,8 @@ yet developer-confirmed as final.
 
 ## City Snapshot
 
-- **Nations present, by tier:** Primary — China, USA. Significant — Japan, Italy (founding operator
-  heritage), South Korea, Canada, Indonesia, Australia (founding wave). Notable — Philippines, Malaysia,
+- **Nations present, by tier:** Primary — China, USA. Significant — Japan, Italy,
+  South Korea, Canada, Indonesia, Australia (founding wave). Notable — Philippines, Malaysia,
   New Zealand (earliest founding wave), Chile. Exact per-nation share % in `Specs/Zukelli.md` and
   `Official_Population_Census.md`.
 - **Geography:** Terra Nova Bay coast, ~8km from Janbogo — same bay, same polynya, same katabatic winds
@@ -55,8 +55,7 @@ own distinct nation set.
 - **China (Primary):** Dalian's bay coastline — same match as Janbogo.
 - **USA (Primary):** Juneau, Alaska — same Taku-wind match as Janbogo.
 - **Japan (Significant):** Toyama Bay — same match as Janbogo.
-- **Italy (Significant):** Gulf of Trieste (Bora wind) — same strong mechanistic match as Janbogo;
-  especially notable given Italy's own founding-operator heritage at this specific city.
+- **Italy (Significant):** Gulf of Trieste (Bora wind) — same strong mechanistic match as Janbogo.
 - **South Korea (Significant):** Sokcho / Taebaek Mountains coast — same match as Janbogo.
 - **Canada (Significant):** Kitimat, British Columbia (Squamish winds) — same match as Janbogo.
 - **Indonesia (Significant):** No meaningful match, as at Janbogo — flagged weakest.
@@ -390,11 +389,10 @@ own laneway food-and-craft-culture identity.
 
 ---
 
-### Italy (Significant, 6.24%, founding-operator heritage)
+### Italy (Significant, 6.24%)
 
 **Real-world parallel community/communities identified:** the Gulf of Trieste, the Bora wind
-(geography — the same strong mechanistic match used at Janbogo, especially notable given Italy's own
-founding-operator heritage here) and Bologna (civic type — Italy's own real food-culture-defined city,
+(geography — the same strong mechanistic match used at Janbogo) and Bologna (civic type — Italy's own real food-culture-defined city,
 "La Grassa," the Fat One, a strong match), enriched by **Venice**, from `Zukelli_Mega_Init.md`'s own
 research — a real precedent for organic, unplanned growth cohering into something beautiful and
 intentional rather than merely disordered, directly reinforcing the established line that Zukelli's
@@ -403,11 +401,9 @@ design flaw. Venice's own historical role as a prosperous crossroads between two
 maps cleanly onto Zukelli's own real function: the meeting point of two entangled, separate civic
 identities (Zukelli and Janbogo) sharing one bay.
 
-**Standout entry:** despite Italy's founding-operator heritage, Zukelli's genre-diverse music scene is
-explicitly established as *not* specifically Italian-rooted (corrected 2026-07-13) — the city's actual
-cultural character grew from its full demographic breadth and hospitality-centered civic instinct, not
-from its founding nation alone, a genuine departure from the "founding nation supplies the defining
-cultural texture" pattern common elsewhere in this project.
+**Standout entry:** Zukelli's genre-diverse music scene is explicitly established as *not* specifically
+Italian-rooted (corrected 2026-07-13) — the city's actual cultural character grew from its full
+demographic breadth and hospitality-centered civic instinct, not from its founding nation alone.
 
 #### Surface Culture findings
 - **Food:** Bologna's own real "La Grassa" food-culture identity, a strong contributor to Zukelli's own
@@ -417,7 +413,7 @@ cultural texture" pattern common elsewhere in this project.
 - **Fashion:** no strongly distinct local variant surfaced.
 - **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** no strongly distinct local variant surfaced beyond the citywide genre-diverse scene, not
-  specifically Italian-rooted despite this population's founding-operator heritage.
+  specifically Italian-rooted.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
@@ -445,9 +441,6 @@ cultural texture" pattern common elsewhere in this project.
   entangled, separate civic identities sharing one bay, echoing Venice's own historical role as a
   prosperous crossroads between two separate worlds.
 - Fairness and justice: no strongly distinct local variant surfaced.
-- Roles related to age, sex, class, family: a specific, literal claim on the city's own founding-
-  operator role, given Italy's own genuine founding heritage here — though notably not the sole source
-  of the city's actual cultural character.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -576,11 +569,9 @@ specifically around food culture, "the nation's kitchen").
 Zukelli's neo-culture centers on a genuine, city-wide hospitality identity — every one of its eight
 populations independently anchors to a real-world food/hospitality-culture-defined city (Chengdu, New
 Orleans, Jeonju, Montreal, Melbourne, Bologna, Yogyakarta, Osaka), producing the most consistently
-well-textured population-wide convergence found anywhere in this project. Crucially, this warmth was
-never the property of Italy, the founding-operator heritage nation — the city's genre-diverse music
-scene is explicitly established as growing from the city's full demographic breadth rather than an
-"Italian-rooted" origin, a genuine, corrected departure from the founding-nation-supplies-defining-
-texture pattern common elsewhere. Italy's own real contribution is instead structural: Venice's precise
+well-textured population-wide convergence found anywhere in this project. Crucially, the city's
+genre-diverse music scene is explicitly established as growing from the city's full demographic breadth
+rather than an "Italian-rooted" origin. Italy's own real contribution is instead structural: Venice's precise
 real-world precedent for organic growth cohering into intentional beauty, and for a crossroads city
 mediating between two separate worlds — mapping directly onto Zukelli's own tangled streets and its
 real function as Janbogo's entangled twin.
