@@ -188,7 +188,7 @@ gate."***
 > **And the outdoor register still exists for everybody, because the mean is −10.0 °C and April's record low is
 > −41.8 °C.**
 > ⇒ ⭐⭐ ***Davis is a two-register city with a daily transition between them.*** **The glasshouse is warm; forty
-> metres away it is not.** **A place whose ordinary day crosses that boundary repeatedly dresses for the
+> meters away it is not.** **A place whose ordinary day crosses that boundary repeatedly dresses for the
 > crossing, not for either end.**
 
 ⚠ **`00b` GUARD:** ⛔ **This is the GENERAL condition — a majority of residents cross that boundary, whatever

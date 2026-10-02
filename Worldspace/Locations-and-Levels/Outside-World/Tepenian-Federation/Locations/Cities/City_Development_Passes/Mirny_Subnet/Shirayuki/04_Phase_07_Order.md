@@ -5,7 +5,7 @@ pass** — *the `~2780s` merger rewrites governance, and `00b`'s object-coloniza
 claim.*
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *How does this place organize work, decide things, pass on skill, and handle the people who do not
 > fit?*
@@ -245,10 +245,10 @@ reconciled at Step 5/7.**
 
 ### ⭐⭐⭐⭐ AND THE HERESY HAS A PROOF OF CONCEPT — **everyone lives in it**
 
-> **The pre-exile station stock OUTLASTED ITS MAKERS' CARE ENTIRELY. They left. It is still standing.**
+> **The pre-exile station stock was STANDING WHEN THE EXILES ARRIVED IN 2564, AND HAS STOOD SINCE.**
 > ⭐⭐ **So the dissenting position is not hypothetical and does not have to argue from theory.** **Someone
-> holding it can point at the building they are standing in and say:** ***that worked, and it was not even
-> made for us.***
+> holding it can point at the building they are standing in and say:** ***that has lasted, and it was not
+> even made for us.***
 > ⭐ **`03`'s instruction is honored — *"keep it sympathetic, not criminal"* — and this makes it easier: the
 > heresy's best argument is the city's own floor.**
 

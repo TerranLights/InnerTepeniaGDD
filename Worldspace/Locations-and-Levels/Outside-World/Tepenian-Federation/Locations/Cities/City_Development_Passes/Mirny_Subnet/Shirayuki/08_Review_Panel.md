@@ -66,7 +66,7 @@ not invented wholesale at Step 8.**
 > ## ⭐⭐⭐ ***LOVING THE CLEANING IS LOVE.***
 > **A city where people genuinely enjoy tending things, in good company, in a mild summer, with music in the
 > found shelter, is not a grim place.** ***It is a place with an unusually low bar for satisfaction and an
-> unusually high one for competence*** — **and those two together are a recognisable kind of happiness.**
+> unusually high one for competence*** — **and those two together are a recognizable kind of happiness.**
 
 ✅ **The finding is not changed. Its FRAMING is.** ⭐ **`00d`'s tell — *"a reader closing the file and calling
 the place sinister"* — was run repeatedly and passed. ⚠ *The Lover's question is a different and sharper test,

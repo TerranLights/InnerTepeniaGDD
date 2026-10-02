@@ -136,7 +136,8 @@ deposition order** · **and many are ISOLATION BASINS: former sea inlets cut off
 preserving a dated horizon marking the moment it stopped being sea.**
 
 > # ⇒ ***THE GROUND ITSELF IS AN ARCHIVE OF DATED SERIES, AND READING IT IS THE TERRAIN COMPETENCE.***
-> ⭐⭐ **A city whose inherited expertise is reading layered, dated, order-preserving natural records would
+> ⭐⭐ **A city whose expertise — rebuilt by its exiles from the station's records, research results and
+> techniques — is reading layered, dated, order-preserving natural records would
 > arrive at exactly Davis's civic proposition — *the entry made at the time is the true one* — because that is
 > literally how its landscape yields knowledge.**
 > ⭐ **And it explains `D3a`'s shape: the competence the exiles rebuilt is a READING competence.**
@@ -239,7 +240,7 @@ a real, affirmable absence; what falls is the assumption that its only complemen
 ⛔ **No claim that Davis has such an aquifer.** ⚠ **But the category is live, not idle: §B.3 Fusion 1 already
 established Davis's lakes as ISOLATION BASINS — *former sea inlets cut off as the land rebounded* — and
 Phase 3's inputs already carry fracture hydrology, the freshwater lens and lake salinity magnitudes.**
-***Davis's ground is already canon-established as holding the water of a sea that is no longer there.***
+***Davis's ground is already research-established as holding the water of a sea that is no longer there.***
 
 **And the second finding needs no aquifer at all.** **`D1` establishes Davis's most abundant water cannot be
 drunk; `02` §8.3 already writes it into the life.**
@@ -435,7 +436,7 @@ explains a thing Davis already had; all three describe instruments Davis would h
 | ⭐⭐⭐ **10** | **THE ISOLATION BASINS** — *water that used to be sea, cut off as the land rose, each holding a dated horizon marking the moment it stopped being sea* | **Holocene sea-level change; lake detachment.** ⭐⭐ ***The physical origin of Davis's record-standard — see Fusion 1*** |
 | ⭐⭐ **11** | **THE LAKE THAT DOES NOT FREEZE** — *a hypersaline basin liquid far below 0 °C, open water in a frozen landscape* | **Hypersaline lake regime, documented at this landform type** |
 | ⭐ **12** | **THE LAYERED WATER** — *basins whose column never fully mixes, so what settled stays in the order it settled* | **Meromixis.** ⚠ **Whether residents read them is NOT asserted — only that the terrain does this** |
-| ⚠ **13** | **THE SALT LINE** — *the boundary in the weathering regime* | ⏸️ **Its position, extent and stability are UNREAD** *(open thread #4: `Adamson & Pickard 1986`, `Gore et al. 1996`)*. **`M-158` applies — the unstated half must not be inferred.** **Named as a feature; NOT characterized** |
+| ⚠ **13** | **THE SALT LINE** — *the boundary in the weathering regime* | ⏸️ **Its position, extent and stability are UNREAD** *(open thread #4; `Adamson & Pickard 1986` has no open-access route)*. ✅ **Its axis is established — west/coast marine-salt, east/ice-sheet salt-poor** *(`Gore et al. 1996`; `H22`, Phase 3 §F.5)*. **`M-158` applies — the unstated half must not be inferred.** **Named as a feature; NOT characterized** |
 
 ⚠⚠ **AND A CORRECTION TO THIS PASS'S OWN EARLIER PHASES:** **Phase 7 §D.4 stated Davis's ice-free area as
 `~400 km²`.** ⛔ **The research log's open thread #6 records THREE published figures — `200 / 420 / 512 km²` —
@@ -545,7 +546,7 @@ comparison ONE LOCATION forbids.** ⇒ ✅ **NOT RUN, on purpose, with the reaso
 > 'musts' are DEFERRED."***
 
 > # ⇒ ⛔⛔ ***THE DELEGATION TARGET DOES NOT EXIST. Davis has no sub-locations, by ruling.***
-> ✅ **Everything above is therefore catalogued as CITY-WIDE.** ⛔ **No sub-location was invented to satisfy the
+> ✅ **Everything above is therefore cataloged as CITY-WIDE.** ⛔ **No sub-location was invented to satisfy the
 > band rule — that would close a deliberate deferral.**
 > ⭐ **METHODOLOGY FINDING: this collides for EVERY Band 5–6 city in the corpus, not only Davis.**
 
@@ -628,11 +629,11 @@ three claims already withdrawn today.** ⭐ **It is held because it is an EXPLAN
 rather than a new finding, because the physical regime is sourced, and because the Step 3 log's own caution —
 *"a landscape, not a settlement"* — is carried with it and bars the tempting next step.**
 
-**Third:** ⛔ **`H57`.** **This pass stated the ice-free area as a settled `~400 km²` in Phase 7 when three
-unreconciled figures exist. Amended, but it was exactly the error the research log had warned against.**
-
 **Second doubt:** ⚠ **§C's proper-noun restraint departs from the spine's instruction.** **Declared, reasoned,
 and overrulable — but a departure.**
+
+**Third:** ⛔ **`H57`.** **This pass stated the ice-free area as a settled `~400 km²` in Phase 7 when three
+unreconciled figures exist. Amended, but it was exactly the error the research log had warned against.**
 
 ⛔ **STEP 5 — RECONCILIATION — opens next.** ⭐ **It is where `Local_Cultures/` and `Local_Robot_Culture/` are
 finally read, as a CHECK.** **Not opened here.**

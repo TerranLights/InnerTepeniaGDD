@@ -3,7 +3,7 @@
 **Run 2026-09-06 · consolidated 2026-09-06 after the re-run.** **Piece 2.** *Input: `00_Frame.md`.*
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Step 1 has two jobs and the runbook names both:**
 > **① *"What canon already says, and its epistemic status."*** — §§1–3.
@@ -65,7 +65,7 @@ explicit split marker:** *"⛔ COLD RUN 15: STOP READING §4c HERE… **(Warm ru
 | **Universe repo** | swept |
 | **Sibling projects** | swept — ⚠ `CurrentNovelDocs` carries **49** files naming this subject |
 | ⛔ **`City_Megasheets/Mirny_Subnet/Shirayuki/`** | **6 files — WITHHELD from every run.** ⚠ *Partially leaked into this session by the mandatory `graphify` hook — `M-142`* |
-| ⛔ **`Background-Lore/…/Shirayuki/Course_of_Events/`** | **11 files** — ⚠ **filenames are theses.** **DEMOTED by standing instruction** *(which vignettes are canon is undecided across all cities)*: **readable as prompts, cannot ground a finding** |
+| ⛔ **`Background-Lore/…/Shirayuki/Course_of_Events/`** | **11 files** — ⛔ **NOT CANON — not an input, not even as a prompt.** *Not read, not cited* |
 
 ---
 
@@ -214,7 +214,7 @@ declaration — so `Division_of_Industry/`, developer-ruled `RELIABLE`, is unaff
 > | ⭐⭐⭐ **3rd** | ***THE ALLOCATION OUTLIVES THE CATEGORY IT WAS WRITTEN IN.*** **By Act 2 the holder is a Tepenian city and the refused party is a Tepenian city. The instrument is legally live; its TERMS have gone historically inert** |
 > | ⭐⭐ **And** | ***It cannot be renounced any more than it can be appealed*** *(no successor body has standing)*. **So a city can inherit an advantage it no longer has the vocabulary to justify** — **not a grievance and not a privilege, but an INHERITED AWKWARDNESS** |
 
-⚠ **And it is lived at fifteen kilometers.** *China is Shirayuki's fifth-largest origin at `7.18%`, `~59,000`
+⚠ **And it is lived at about eight kilometers.** *China is Shirayuki's fifth-largest origin at `7.18%`, `~47,000`
 people at Census II.* ⭐ **By Act 2 those are ancestry figures** — ***so the descendants of the excluded live
 here, the exclusion is still legally operative, and the category it insulted has dissolved.***
 
@@ -240,7 +240,7 @@ inherited material.**
 > ⭐⭐ ***The finding flips from "the gate had a shape" to "the gate may have had no shape at all on the robot
 > side — the difference may be CHOICE, not SELECTION."*** ⏸️ **Phases 2 and 9 own it.**
 
-⭐ **The remainder is `188,680` robots who stayed for reasons canon can name, and `302,512` humans who stayed
+⭐ **The remainder is `352,980` robots who stayed for reasons canon can name, and `302,512` humans who stayed
 for reasons it cannot.**
 
 ## A3 · "SCHOOLS DRAW STUDENTS FROM ACROSS TEPENIA" *(an ADMISSION)* — ⛔ **FIRES**
@@ -393,8 +393,7 @@ so it is BACKGROUND, not characterization.** ✅ **What IS a Shirayuki fact is t
 | **2** | **`G3` re-sourced** from `Specs/` + `Division_of_Industry/16` Half B | Step 2 | ✅ **DISCHARGED** |
 | **3** | ⏸️ **The ratified-root list is unenumerated** *(§3c)* | **developer** | ⏸️ **`DRQ-12`** |
 | **4** | ⭐⭐⭐ **ACT-STAMP EVERY INHERITED CLASSIFICATION.** *Ask of each `Determined`/`Inflected`/`Originated` call: **as of WHICH ACT?*** | Step 2 + Phases 4–8 | ⭐ **ONGOING** |
-| **5** | ⚠ **Run the asymmetry check across `Course_of_Events`' 11 files**, prompt-tier only | Step 3 / Phase 2 | ⏸️ **OPEN** |
-| **6** | ⭐ **`GOVERNING`-tier sources carried in every phase** *(§3b)* | all | ✅ **APPLIED** |
+| **5** | ⭐ **`GOVERNING`-tier sources carried in every phase** *(§3b)* | all | ✅ **APPLIED** |
 
 ---
 
@@ -402,8 +401,7 @@ so it is BACKGROUND, not characterization.** ✅ **What IS a Shirayuki fact is t
 
 - ⛔ **It cannot prove the surface is fully swept.** *`~250` files, 97 directories; the scope pin's own root
   list was never pinned, which Run 15 found makes "a risen count means a source joined" **unfalsifiable**.*
-- ⛔ **It cannot prove the four asymmetries are the only ones.** *Seven inherited findings were tested. The
-  `Course_of_Events` folder — 11 files, read-last — was not, and it is the likeliest home of more.*
+- ⛔ **It cannot prove the four asymmetries are the only ones.** *Seven inherited findings were tested.*
 - ⛔ **`A3` and the ground-stratification collision are a POINTER, not a finding.** *Phases 1 and 9 must earn
   it or kill it.*
 - ⛔ **§6's mechanism follows from two sourced facts; no canon states that the departure re-sorted the rock.**
@@ -412,4 +410,4 @@ so it is BACKGROUND, not characterization.** ✅ **What IS a Shirayuki fact is t
 ---
 
 📎 **Next piece: `02_Spine.md` — Step 2, Build the spine.**
-📎 `00_Frame.md` · `09.5_Log.md` · `_Archive/2026-09-06_pre-consolidation/` · `DRQ-10/11/12`
+📎 `00_Frame.md` · `09.5_Log.md` · `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/` · `DRQ-10/11/12`

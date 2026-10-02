@@ -445,7 +445,7 @@ the measure; there is only met and not met, and pardon is not on offer for objec
 |---|---|
 | **`Phase 9` (Populations)** | ⭐ **The threshold as the city's real social space (`D.2`)** · **the evening hour as the one shared window (`A.1`, `B.1`)** · *`Phase 4`'s "robots hear more of this city than humans do" is still unspent* |
 | **`Phase 10` (Catalog)** | **Sealed metal instruments · graded domestic objects · the crock · glove-in-belt · the threshold** |
-| **`CST`** | ⭐⭐ **The convergence at `A.3`** — *five preservation traditions that never had to compete, because the place needed the one thing they all knew.* **That is a composition-merge question and `technique 18` owns it** |
+| **`CST`** | ⭐⭐ **The convergence at `A.3`** — *three preservation traditions that never had to compete, because the place needed the one thing they all knew.* **That is a composition-merge question and `technique 18` owns it** |
 | **`Step 5`** | ⛔ **`8f`'s speech marker and `8a`'s axis are PROVISIONAL against the read-last `Local_Cultures` file** |
 
 # ▶ OPEN ITEMS

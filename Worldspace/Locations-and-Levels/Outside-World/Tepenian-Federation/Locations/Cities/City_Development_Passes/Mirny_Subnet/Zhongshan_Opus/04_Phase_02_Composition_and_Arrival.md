@@ -15,7 +15,7 @@
 |---|---|---|
 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` | `# PHASE 2 — COMPOSITION & ARRIVAL` (L401–469) | The `📂 MUST OPEN` block and full procedure — read in full this restart, along with the whole file (all eleven phases, 1173 lines) |
 
-⚠ **Generators used:** primarily **G8** (composition, all 18 nations, both censuses) and **G4** (founding condition — the Jeju-do court, the ~481-year continuous-habitation exception). **G1 corroboration** — the IRONIC Saturn+Metal pairing classified at `02_Spine.md` §2.7 bears on this phase's founding-proceedings finding (§2.6, below) and is cited there explicitly, not silently.
+⚠ **Generators used:** primarily **G8** (composition, all 18 nations, both censuses) and **G4** (founding condition — the site claim the Jeju-do court confirmed, the ~481-year continuous-habitation exception). **G1 corroboration** — the IRONIC Saturn+Metal pairing classified at `02_Spine.md` §2.7 bears on this phase's founding-proceedings finding (§2.6, below) and is cited there explicitly, not silently.
 
 ## Canon opened
 
@@ -34,7 +34,7 @@
 |---|---|
 | The station operator's identity, dates, expansion history and lineage | GPS law — the site is a coordinate |
 | Census §A L410's *"the only Tepenian city where…"* clause | The one-sentence test — the comparative half is dropped; the surviving half is kept (§2.1) |
-| `City_Vision_Notes/` and `Local_Cultures/…/Zhongshan.md` | Still read-last — standing closure from Step 0, opens at Step 5 as a check |
+| `Local_Cultures/…/Zhongshan.md` | Still read-last — standing closure from Step 0, opens at Step 5 as a check |
 | "Diaspora / affinity files" | Resolves to nothing admissible for a city pass — composition comes from the census and the spec alone |
 
 ---
@@ -83,7 +83,7 @@ develop, not this phase's.
 
 ## And the one comparative claim, reduced to its surviving half
 
-Census §A L410 says this city is *"the only Tepenian city where the founding operator nation is also the
+Census §A L410 says this city is *"the only Tepenian city where"* its founding nation *"is also the
 long-run primary."* The **"only"** is a ranking against 37 other cities and is dropped. What survives the
 one-sentence test: **the founding-population origin and the long-run primary bloc are the same, and that
 identity is continuous from the founding to the present.** This is not a claim about the station's builder — it
@@ -132,12 +132,8 @@ Here the modes are not inferred. Four of the five are written into the treaty or
 > | **Byrd** | Fell out of the maintenance chain entirely and was abandoned — rare enough to be discoverable much later |
 > | **Zhongshan** | Plausibly *"stayed under continuous Chinese/Sinian habitation throughout the First Interwar Period rather than passing through rotating operators. This is generational habitation continuity (a population, naturally evolving over five centuries), not the institutional-culture continuity the rule forbids, and it reinforces rather than substitutes for the Jeju-do ruling."* |
 >
-> ⚠ **CITATION CORRECTED 2026-09-11.** *This row previously read* **"habitation and administration"** *inside a
-> quotation attributed to the binding law.* ⛔ **`No_National_Stereotypes.md` L17 says only "habitation."** The
-> phrase **"habitation and administration" is real but belongs to `Specs/Zhongshan.md` L142** — right words,
-> wrong file. ⏸️ **The substantive question this exposes — the two sources differ, and the law forbids
-> institutional continuity one sentence later — is DEFERRED at the developer's direction, 2026-09-11, and
-> docketed at `R-24`. Nothing in this pass rests on the disputed word.**
+> ⚠ **`No_National_Stereotypes.md` L17 says "habitation."** Continuous habitation stands; institutional
+> continuity does not (`R-24`, ruled 2026-10-01). Nothing in this pass rests on institutional continuity.
 
 **The law's own structure is worth naming precisely: its two exceptions are *continuous presence* and *total
 absence* — this city is the first of those, and the developer's own note attaches a condition to reaching for
@@ -236,9 +232,9 @@ so Step 5 can rule on it, and flagged inside `DRQ-18`.
 > Process D: run Borrowed Form where a later category comes up empty — but not to skip the capability reading;
 > a borrowed form should explain a gap the capability reading already predicted.
 
-| The gap IS predicted | `02_Spine.md` §2.5 (deficit: no arbitration mechanism) · `03_Research.md` §3.2 sourced the shape from four independent real-world instruments |
+| The gap IS predicted | `02_Spine.md` §2.5 (deficit: no arbitration mechanism) · `03_Research.md` §3.2 sourced the shape from general Antarctic practice |
 |---|---|
-| A candidate form EXISTS | `03_Research.md` §3.2's own finding — governance by expectation, not rule, across four registers (the real ASMA management plan, the ASPA permit regime, Antarctic emergency-response norms, and Midwinter Day's exchange ritual) |
+| A candidate form EXISTS | `03_Research.md` §3.2's own finding — governance by expectation, not rule, in two registers (Antarctic land-based emergency-response norms and Midwinter Day's exchange ritual), and at treaty level in Falkland Treaty Article III.1 |
 | NOT spent here | Borrowed Form asks *who arrived carrying the missing thing*, which is an arrival question and belongs to this phase — but the category it would fill is Phase 7's, and spending it now would write Phase 7 early and badly |
 | What IS recorded here, because only this phase can | **Nobody arrived carrying it — and the record is stronger than that.** See the two proceedings below |
 
@@ -250,7 +246,7 @@ so Step 5 can rule on it, and flagged inside `DRQ-18`.
 | **Who was heard** | Nobody. Article II.2.2: a finding of wrongdoing is *"not required, sought, or relevant"* | Nobody, because nobody disagreed. `Specs/Zhongshan.md`: *"neither Japan nor Korea pressed a competing claim"* |
 | **What it produced** | A verdict on a whole category, with no charge attached | Confirmation of an existing presence as *"exclusively theirs"* |
 | **Where it happened** | Another continent | Another continent |
-| **When** | Before anyone was here | *"before any of them ever set foot in Tepenia"* |
+| **When** | Before the exile era began | *"before any of them ever set foot in Tepenia"* |
 
 > # THE ONE COURT IN THIS CITY'S HISTORY NEVER HAD TO DECIDE ANYTHING.
 > It did not weigh two claims and pick one. It ratified a claim nobody was contesting. **So the founding
@@ -286,8 +282,7 @@ converge on one shape, independently, is exactly the kind of agreement `02_Gener
 > government. And then the same Article declines to finish the sentence: *"Nothing in this Article shall be
 > read to define what authority sits above such regional groupings."* **The founding document creates a forum
 > for local disputes and expressly refuses to say what stands over it.** That is `03_Research.md` §3.2's own
-> four-instrument shape — coordination without a defined arbiter — appearing a fifth time, in the country's own
-> founding law. Phase 5c and Phase 7b inherit it.
+> shape — coordination without a defined arbiter — appearing a third time, in the country's own founding law. Phase 5c and Phase 7b inherit it.
 
 ---
 
@@ -298,7 +293,7 @@ converge on one shape, independently, is exactly the kind of agreement `02_Gener
 ## THE AXIS: `PRIORITY OF PRESENCE` — not origin, not proportion.
 
 Most compositions answer *where did everyone come from*. This one's live question is *who was here first, and
-does it count for anything?* — because it is one of the few places where "first" is not the founders.
+does it count for anything?* — because here "first" is not the founders.
 
 | The mode-mix in four words | *"Inherited residents beneath sentenced arrivals."* |
 |---|---|

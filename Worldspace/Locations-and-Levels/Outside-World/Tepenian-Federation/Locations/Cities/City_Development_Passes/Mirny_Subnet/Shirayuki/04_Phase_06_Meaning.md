@@ -3,7 +3,7 @@
 **Run 2026-09-06 · consolidated 2026-09-06 after the re-run.** **Piece 9.**
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *What does this place believe, what does it hold sacred without saying so, and what does it do
 > about death?*

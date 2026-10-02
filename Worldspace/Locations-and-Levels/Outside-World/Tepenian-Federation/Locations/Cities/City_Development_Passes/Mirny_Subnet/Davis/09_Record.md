@@ -57,7 +57,7 @@ pass to carry `M-208`'s disposition, and it accumulated through every subsequent
 
 ---
 
-# 4 · ⚠ ACTION 4 — METHODOLOGY UPDATES, PARTIAL
+# 4 · ✅ ACTION 4 — METHODOLOGY UPDATES
 
 | Change | Status |
 |---|---|
@@ -111,7 +111,7 @@ existed.** ⇒ ***Promoted from strongest finding to GENERATING finding.***
 
 # 7 · VERDICT
 
-> # ⚠ **STEP 9 RECORDED — WITH TWO GATES STILL FAILED AND ONE ACTION PARTIAL**
+> # ✅ **STEP 9 RECORDED — GATE 0'S FAIL CARRIED OPENLY AND FIXED (§2)**
 
 ✅ **Gate 7 CLOSED 2026-09-22 and PASSES at 67%.** **All six rows worked. `H58` closed — the designated
 real-world inspirations researched and fused** *(`Phase 10` §B.3a/§B.3b)*. **`H22` resolved as a side effect.**

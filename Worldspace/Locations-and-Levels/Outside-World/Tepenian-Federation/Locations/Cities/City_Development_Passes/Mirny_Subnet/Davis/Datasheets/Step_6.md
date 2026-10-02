@@ -1,5 +1,11 @@
 # Davis — Datasheet · Step 6 (Differentiate — WRITE-ONLY)
 
+> ⛔⛔⛔ **SUPERSEDED, 2026-09-21 — DAVIS'S PASS HAS ACTUALLY RUN.** This datasheet was pre-staged input for a
+> pass that had not started; Davis's real Step 6 output lives at `06_Differentiate.md` in this city's own pass
+> folder (run 2026-09-16, backfilled to all 9 table sections 2026-09-21 — see that file's own correction box).
+> **Do not consult this file for Davis's differentiation work — it is retained only as a record of what a
+> pre-staged datasheet looked like before the pass overtook it.**
+
 > ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.**
 > Nothing about Step 6 differs by city — the governing rule, Part III's full text (III.0–III.4), and the
 > destination addresses are all corpus-wide constants, already pasted in full there. No need to re-extract.

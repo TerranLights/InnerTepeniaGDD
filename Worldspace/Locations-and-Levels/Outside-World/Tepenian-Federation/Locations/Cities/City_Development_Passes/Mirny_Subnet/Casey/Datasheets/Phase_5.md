@@ -7,7 +7,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Highway routing | Hwy 110: Zhongshan → Davis → Mirny → Casey → Concordia (bare infrastructure fact, the highway's own stated path). Hwy 2/DCH: junction with Hwy 110, at Casey → Dumont d'Urville — Casey is the route's own western origin point | `Infrastructure/Highways.md` L21, L28 |
+| Highway routing | Hwy 110: Zhongshan → Davis → Mirny → Casey → Concordia (bare infrastructure fact, the highway's own stated path). Hwy 2/DCH: junction with Hwy 110, at Casey → Dumont d'Urville — Casey is the route's own western origin point | `Infrastructure/Highways.md` L89–91, L197 |
 | `City_Relationship_Database.md` — Casey's own header | Real station: Casey Station (Australia) · Region: East Antarctic coast / Dumont d'Urville Sea area · Arcanet subnet: Mirny ("Australian") — non-hub member · Direct highway neighbors: one subnet neighbor west via Hwy 110, one inland spur via Hwy 110, one cross-subnet neighbor east via Hwy 2 | `City_Relationship_Database.md` L152–160 |
 | Casey's own outward role, already stated in-source | Junction city where Hwy 110 and Hwy 2 meet; gateway between the Mirny subnet coast and the Dumont d'Urville Sea area. Coastal port receiving Australian freighter shipments (raw materials, staged via Hobart) — sits at the overlap of both the Mirny subnet and the Dumont d'Urville Sea supply lines, both of which run through Australia | `City_Relationship_Database.md` L160 |
 | Casey's own strongest outward connection, stated as Casey's relation | One cross-subnet link, rated Strong/Infrastructure, via a direct highway with no intermediate subnet — described in-source as *"the shortest, most direct cross-subnet highway link in the country"* | `City_National_Connections.md`, Casey's own §, L285–286 |
@@ -31,9 +31,10 @@
 > (the freighter/port role above). The "Australian-heritage network" claim exists only in the file that traces
 > to the withheld source.
 >
-> ⇒ **Not recorded as fact here.** A Phase 5 T8 dispatch must adjudicate what, if anything, about Casey's
-> intra-subnet cultural relations survives independent of the withheld source — same open question already
-> standing for the other two cities named in the identical claim.
+> ⇒ **Not recorded as fact here.** ⛔ The word "heritage" is not an input (`DR-19`, `DR-25`). The tie itself is
+> never deleted (`DR-28`): Casey's founding by Australia is ruled on geography and access (Founding Register), and
+> Davis's Australian founding-wave ties to Casey and Mirny stand (`DR-29`). A Phase 5 T8 dispatch must adjudicate
+> what, if anything, about Casey's intra-subnet cultural relations survives independent of the withheld source.
 
 **Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the
 parent-disagreement analysis, the arrival-type enumeration + visitor-to-member mechanism, the dependency/

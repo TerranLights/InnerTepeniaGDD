@@ -65,8 +65,7 @@ stale line in `Specs/`.
 > other people doing other jobs, as well)."*
 
 And the export clause itself is worth carrying forward whole, because it reshapes what kind of hub this city
-is: *"Zhongshan produces engineers and researchers who end up across Tepenia"* — the same shape as Princess
-Elisabeth's "expertise other cities traded for." **This city's national contribution is people, not cargo** —
+is: *"Zhongshan produces engineers and researchers who end up across Tepenia."* **This city's national contribution is people, not cargo** —
 and the three-highway junction at its own front door is explicitly *not* mandated: a crossroads is not
 automatically an employer, and §15's "not a trade hub" is a denial, not an omission waiting to be filled.
 
@@ -99,7 +98,7 @@ Five run. `02` requires three.
 | Quadrant | |
 |---|---|
 | **STRENGTH** | It makes liquid water on its own, annually — January mean `+0.2 °C`, above freezing; melt streams running; lakes ice-free. Exposed ROCK — a foundation and a quarry, not ice that moves. Annual `−9.9 °C`, a comparatively mild site |
-| **DEFICIT** | It cannot hold its own precipitation — `149 mm` falls, `67 mm` lands, `82 mm` lost to sublimation and wind transport, `~45%` retention. It cannot reliably land small boats on its east coast — katabatic flow drives sea-ice debris hundreds of metres offshore |
+| **DEFICIT** | It cannot hold its own precipitation — `149 mm` falls, `67 mm` lands, `82 mm` lost to sublimation and wind transport, `~45%` retention. It cannot reliably land small boats on its east coast — katabatic flow drives sea-ice debris hundreds of meters offshore |
 | **STANDING COST** | Abrasion, and the mechanism is measured, not asserted: *"cumulative snow transportation can be approximately 4 orders of magnitude higher than snow precipitation at coastal sites"* — *"weather there is not something that comes down. It is something that goes past."* Here the ground is exposed rock, so what goes past is dust and grit as well as snow. Every surface, seal, bearing and lens is on a cleaning clock. Plus: the melt is seasonal and must be caught while it runs |
 | **GRUDGING TOLERANCE** | Small-boat work on the east coast — nobody forbids it; the wind prices it, by the day. Fine outdoor work — the insulation-vs-dexterity trade-off is a gradient, not a gate. And VISIBILITY decouples from ACCUMULATION here: whiteout is driven by what blows and often happens under a clear sky, since the snow is lifted, not falling, while digging-out is driven by what lands, which is only `67 mm`. A city frequently unnavigable and almost never buried |
 
@@ -116,9 +115,9 @@ Five run. `02` requires three.
 
 | Quadrant | |
 |---|---|
-| **STRENGTH** | Uncontested legitimacy — a court settled the claim before anyone arrived; nobody competed. Unbroken continuity, no second population inheriting a first. It carried a political heritage, not only people (the naming act, Sun Yat-sen's courtesy name) |
-| **DEFICIT** | It has no arbitration mechanism, because it never needed one — the court sat once, off-continent, before arrival |
-| **STANDING COST** | Near-silent, and the silence is load-bearing. A settled, unappealable claim costs nothing to maintain — no annual renewal, no defence, no petition |
+| **STRENGTH** | Uncontested legitimacy — a court confirmed the claim before the exile era began; nobody competed. Unbroken continuity, no second population inheriting a first |
+| **DEFICIT** | It has no arbitration mechanism, because it never needed one — the court sat once, off-continent, before the exile era |
+| **STANDING COST** | Near-silent, and the silence is load-bearing. A settled, unappealable claim costs nothing to maintain — no annual renewal, no defense, no petition |
 | **GRUDGING TOLERANCE** | Being from one of the fifteen nations that had no standing in the settlement (Step 1 finding `A-1`). Costs nothing formally; the founding story is simply not yours |
 
 ## G5 · NETWORK POSITION
@@ -134,7 +133,7 @@ Five run. `02` requires three.
 
 | Quadrant | |
 |---|---|
-| **STRENGTH** | A plurality with a clear centre — China `35.83%`, dominant, not a majority. It kept `77.90%` of itself through an exit that was freely available |
+| **STRENGTH** | A plurality with a clear center — China `35.83%`, dominant, not a majority. It kept `77.90%` of itself through an exit that was freely available |
 | **DEFICIT** | No majority. `64.17%` is everyone else; no group carries a civic norm by weight alone. And the retention spread is reversed against its own parent: national surface retention, Census I→II, is `humans 67.12% / robots 69.71%`, spread `−2.59 pp` (humans used the orbital exit more, nationally). Here: `humans 82.66% / robots 73.26%`, spread `+9.40 pp` — robots used it more. The sign is inverted (city-against-parent, `01` §5.3a substitute 2 — not a city-to-city comparison) |
 | **STANDING COST** | Eighteen nations' worth of difference, held together continuously — and by Act 2 they are properly Tepenian, so the shared register is made, not inherited |
 | **GRUDGING TOLERANCE** | Being one of the twelve Notable-tier origins (`1.20%`–`3.56%`) |
@@ -176,7 +175,7 @@ opened — robots faster than humans.
 ## AND G4 IS THE EXCEPTION — which is why its STANDING COST cell is silent
 
 The one thing here that has never moved, and cannot, is the city's right to be where it is. Settled by a court,
-off-continent, before anyone arrived — permanent, unappealable, and costing nothing to maintain. G4's
+off-continent, before the exile era began — permanent, unappealable, and costing nothing to maintain. G4's
 near-silent cost cell is not a thin reading; it is the profile telling the truth: a claim that was never
 contested requires no upkeep.
 
@@ -215,7 +214,7 @@ second input set exists for the first time. Docketed, not skipped.
 | Cannot retain precipitation | Nowhere at all — physical, unremediable |
 | Cannot land small boats, east coast | Nowhere at all — the wind is not negotiable |
 | ~~Cannot expand on rock~~ | **Withdrawn — not a deficit.** `Extent_and_Density_Per_City.md` §10, ruled 2026-09-05: "rock and/or ice, both." Terrain is priced, not scarce. What the rock produces is a class divide (`2.6`, below), which belongs to Phase 7 |
-| No arbitration mechanism | In its own past — the court sat once, before arrival |
+| No arbitration mechanism | In its own past — the court sat once, before the exile era |
 | Not a trade hub | Diffuse |
 | No majority | Diffuse |
 
@@ -263,7 +262,7 @@ the only hard edge in Antarctica, so the technique has teeth only on a coastline
 |---|---|---|---|---|
 | **ROCK** | Doesn't | — | Nothing | Fixed and small |
 | **PLATEAU / DIVIDE ICE** | Buries | `~2.7 cm/yr` | `~6.7 m` — one rebuild in two and a half centuries | Unlimited |
-| **SHELF & FLOWING ICE** | Buries and travels | `~1.2 m/yr` burial; `740–1,500 m/yr` flow | `~298 m` buried, `184–372 km` travelled | Unlimited but temporary |
+| **SHELF & FLOWING ICE** | Buries and travels | `~1.2 m/yr` burial; `740–1,500 m/yr` flow | `~298 m` buried, `184–372 km` traveled | Unlimited but temporary |
 
 The burial ratio between the two ice types is `44×`.
 
@@ -345,8 +344,8 @@ permit.
 
 > ## THE SPINE, IN ONE SENTENCE
 > Everything here arrives and moves on — water, roads, freight geometry, a fifth of the people — and the only
-> permanently fixed thing is the city's right to be where it is, which was settled by strangers before anyone
-> arrived, cannot be revised, and costs nothing to keep; and the same irresolution runs through the city's own
+> permanently fixed thing is the city's right to be where it is, which was settled by strangers before the exile
+> era began, cannot be revised, and costs nothing to keep; and the same irresolution runs through the city's own
 > registered symbols, which promise both a limit that announces itself and a disposition that would not be
 > listening for it, at once.
 

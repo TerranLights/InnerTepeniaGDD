@@ -218,7 +218,7 @@ No other city's row, column, culture file or conclusion is read at any point bef
 |--:|---|---|
 | **1** | Input depth — every generator has a real, sourced entry; four are candidates for RICH at Step 2 | No thinness excuse exists for this pass |
 | **2** | Site — a Band-5 population on ~40 km² of rock shared three ways | Every extent-, density-, layout- or ground-dependent finding is gated behind `R-1`/`DRQ-11` |
-| **3** | Founding — an exclusive claim settled by international court, before arrival, uncontested | Anything about legitimacy, security of tenure, or the city's relationship to its own right to exist |
+| **3** | Founding — an exclusive claim confirmed by international court, before the exile era, uncontested | Anything about legitimacy, security of tenure, or the city's relationship to its own right to exist |
 | **4** | Band crossing — the pass spans the 4↔5 threshold | Every general-population claim; `00b`'s "what population, over what span" question runs twice on this city |
 
 ---
@@ -229,7 +229,7 @@ No other city's row, column, culture file or conclusion is read at any point bef
 |---|---|
 | ✅ `00b_General_Population_Discipline.md` (262 ln) | **Read in full.** Binds every phase. Carries the second axis — a narrow OBJECT standing in for a whole SECTOR — and its arithmetic test: multiply the sector percentage by the population and compare to what the work plausibly requires. At ~1.15M that test bites hard here |
 | ✅ `00d_Shadow_Proportion_Discipline.md` (223 ln) | **Read in full.** Three tests: unintended · unnoticed in-world · discoverable not announced. No villains, and price a sanction in this city's own physical conditions |
-| ✅ `Robot_Physiology_and_Cultural_Practices.md` (439 ln) | **Read in full, per `§C.10`.** Governs Phases 3, 4, 6, 7, 9 — see `0.6b` below |
+| ✅ `Robot_Physiology_and_Cultural_Practices.md` (439 ln) | **Read in full, per `§C.10`.** Governs Phases 3, 4, 6, 7, 9 — see `0.6a` below |
 | ⏸️ `Cultural_Synthesis_Techniques.md` (1,196 ln) | Opens at Step 2/3 — its techniques attach to a named deficit, which Step 2 produces. Declared, not skipped |
 | ⏸️ `Real-World_Basis_Extrapolation_Method.md` (463 ln) | Opens at Step 3, its operative step |
 | ⏸️ `00f_Review_Panel.md` (833 ln) | Opens at Step 8, its operative step |
@@ -330,9 +330,9 @@ assumptions cheap to revise, never build the strongest finding on one.
 
 > `01` §5.2 rule 3, applied deliberately: *"Where a finding could be built either on a provisional parental
 > fact or on a local physical constraint, build it on the constraint — the ice sheet will not be retconned."*
-> This city has an unusually strong constraint set — a ~40 km² shared rock platform, a −9.9 °C mean, a
+> This city has an unusually strong constraint set — a ~40 km² shared rock platform, a −9.9 °C mean,
 > a primary south-easterly ground-katabatic flow with a secondary, occasional north-easterly cyclonic-storm
-> regime (corrected 2026-09-10 — see `0.6b`), ~45% precipitation retention, a January mean above freezing,
+> regime (corrected 2026-09-10 — see `0.6a`), ~45% precipitation retention, a January mean above freezing,
 > and a ~49-day polar night. The spine will be built on those, not on P-1 through P-3.
 
 `01` §5.1's Act-blindness warning (`M-157`) is live: this pass is mostly Act 2, so the `Determined` class is at
@@ -376,14 +376,14 @@ be written as locally originated.
 | `Local_Cultures/Mirny_Subnet/Zhongshan.md` (381 ln) · `Local_Robot_Culture/Mirny_Subnet/Zhongshan.md` (281 ln) | Read-last. Opens at Step 5, as a check |
 | `Test_Runs/` bodies (Run 3, Run 4) | Zero intake for the pass duration, standing developer ruling |
 | `City_Megasheets/…/Zhongshan/` | Withheld corpus-wide, due for rewrite |
-| `Background-Lore/…/Zhongshan/` (13 files, 1,905 ln) | Unratified by default (`05` §6.3) — readable as a prompt, cannot ground a finding |
+| `Background-Lore/…/Zhongshan/` (13 files, 1,905 ln) | Not canon — never an input |
 | `06`'s gloss columns for other cities | Reading them would breach the warm-run rule for those locations |
 
 ## ⚠ N/A for this location, and why
 
 | Source | Reason |
 |---|---|
-| `City_Concept-Art/Mirny_Subnet/Zhongshan_Opus/` | Empty by design — `.gitkeep` only. A result, not a hole |
+| `City_Concept-Art/Mirny_Subnet/Zhongshan/` | Empty by design — `.gitkeep` only. A result, not a hole |
 | `Davis_Geosciences_Research/`, `Ice-Cold_Buddhism_Research/` | Site-specific to other stations/other religious content; zero mentions of this city. No forced fit |
 
 ---

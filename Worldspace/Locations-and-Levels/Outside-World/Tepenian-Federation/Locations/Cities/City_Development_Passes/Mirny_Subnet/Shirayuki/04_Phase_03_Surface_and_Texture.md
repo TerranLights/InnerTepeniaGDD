@@ -3,7 +3,7 @@
 **Run 2026-09-06 · consolidated 2026-09-06 after the re-run.** **Piece 6.**
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *What is this place made of, and what is it like to be inside it — **to the eye, ear, nose, and
 > skin?***
@@ -114,12 +114,12 @@ meeting place.**
 
 > ⭐⭐⭐ **THIS IS A DESERT.** *`~149 mm` of annual precipitation at `~45%` retention — `82 mm` lost to
 > sublimation and wind transport — is **under the standard `<250 mm/yr` threshold.*** **Combined with sub-zero
-> means for ten months, volatiles are suppressed almost year-round.**
+> means for eleven months, volatiles are suppressed almost year-round.**
 
 | | |
 |---|---|
 | **Most of the year** | ⭐ **very little.** *Cold, dry air carries almost nothing. **Rock dust** is the baseline* |
-| **The melt season** *(Dec–Jan, above freezing)* | ⭐⭐ **the one olfactory event of the year** — *wet rock, meltwater, the lakes going ice-free* |
+| **The melt season** *(Dec–Jan, daytime highs above freezing)* | ⭐⭐ **the one olfactory event of the year** — *wet rock, meltwater, the lakes going ice-free* |
 | **Indoors** | warm metal, coolant, charge |
 
 ⭐⭐ **Third order:** ***a city that smells of almost nothing for ten months has a population for whom smell is

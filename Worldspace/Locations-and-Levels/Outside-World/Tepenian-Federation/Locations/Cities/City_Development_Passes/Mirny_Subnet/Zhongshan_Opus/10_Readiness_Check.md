@@ -174,8 +174,8 @@ bind.** ⭐ **Recorded so the next run does not misread the flag as applying to 
   ✅ Tools/handoff_audit.py
   ✅ Disciplines/00f_Review_Panel.md
   ✅ Test_Runs/OBSERVATIONS_and_Methodology_Findings.md
-  ✅ Test_Runs/2026-08-30_Zhongshan_Run3_Cold
-  ✅ Test_Runs/2026-08-30_Zhongshan_Run4_Cold_Methodology-Delta
+  ✅ Archive/ULM_Records/Test_Runs/2026-08-30_Zhongshan_Run3_Cold
+  ✅ Archive/ULM_Records/Test_Runs/2026-08-30_Zhongshan_Run4_Cold_Methodology-Delta
   ✅ Test_Runs/Zhongshan_Extracted_Worked_Examples.md
 ```
 

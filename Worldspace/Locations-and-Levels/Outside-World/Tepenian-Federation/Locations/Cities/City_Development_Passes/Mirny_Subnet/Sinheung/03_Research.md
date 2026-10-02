@@ -85,10 +85,9 @@ textile industry region of Daegu… due to this strong lock-in, renewal has been
 > the items available there."***
 
 **A naming layer that survived a physical relocation and kept describing an arrangement the ground no longer
-has.** ⭐⭐ **The mechanism is portable and this city has two places for it:**
-1. **Its own name was imposed and later reclaimed** — *a naming layer that outlived the arrangement that set it*
-2. ⭐⭐ **It was allocated an OASIS and mostly does not stand on rock** — ***the allocation's language still names
-   a basis the city has grown off***
+has.** ⭐⭐ **The mechanism is portable and this city has a place for it:**
+⭐⭐ **It was allocated an OASIS and mostly does not stand on rock** — ***the allocation's language still names
+a basis the city has grown off.***
 
 ⛔ **NOT ADOPTED — this is a candidate mechanism, not a finding.** *`Phase 3` and `Phase 6` own it.*
 
@@ -315,8 +314,8 @@ its interior role — the airstrip flying direct to the deep interior, and the M
 ⛔ **Not any single deficit — the thing all four generators independently agreed on:**
 
 > # ***THIS CITY DOES NOT ORIGINATE.***
-> **Not designs *(the `Mark IV` is Neumayer's)*. Not materials *(trucked in)*. Not its site *(a court's
-> allocation)*. Not, at first, its name *(a placeholder that stuck)*.**
+> **Not designs *(the `Mark IV` is Neumayer's)*. Not materials *(trucked in)*. Not its site or its title *(a
+> court's allocation)*.**
 
 ## 9.2 · SWEEP THE TRADES, MACHINES AND SAFETY-CRITICAL PROCESSES
 

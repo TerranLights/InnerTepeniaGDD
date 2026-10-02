@@ -99,7 +99,7 @@ ordinary life · meaning · order · making · relation · populations.*
 | Ruling | Date | Carried |
 |---|---|---|
 | **The `−10%` census release** | 2026-09-05 | ✅ *All figures in the pass are post-ruling; percentages survive it* |
-| **Extent: *"rock and/or ice, both"*** | 2026-09-05 | ✅ **Row 9 rests on it** *(rock vs. re-levelled apron)* |
+| **Extent: *"rock and/or ice, both"*** | 2026-09-05 | ✅ **Row 9 rests on it** *(rock vs. re-leveled apron)* |
 | **Part III goes write-only** | 2026-09-06 | ✅ **This step obeys it; the table's own text does not** *(Finding 1)* |
 
 ---
@@ -117,16 +117,16 @@ the orbital exit, not the war.*
 
 | Axis | **FOUNDING, 2564** | **ORBITAL EXIT** | **LATE FRAME** |
 |---|---|---|---|
-| **Who allocates** | ⭐ **A court did — the Jeju-do proceeding, a person, once** | The door decides, and only outward | **Nothing contested has a defendant** |
+| **Who allocates** | ⭐ **A court confirmed the claim — the Jeju-do proceeding, once** | The door decides, and only outward | **Nothing contested has a defendant** |
 | **Composition** | Two branches of one stock, ~481 years apart, meeting | ⭐ **`50.60%` robot → `47.59%` robot: the majority INVERTS** | 18 origins; a plurality that cannot impose |
 | **The commons** | Not yet built — nothing inherited was common to all | — | **Built on site; the seams are load-bearing** |
 
 > ## ⭐⭐⭐ **AND SUBSTITUTE 1 PRODUCES A GENUINE RESULT ON EACH ROW, INCLUDING A NON-CHANGE.**
 >
-> **Row 1 — the apparent contradiction, resolved.** *The founding DID have an authored allocation.* ⭐ **But
+> **Row 1 — the apparent contradiction, resolved.** *The founding DID have an authored decision — the court's confirmation.* ⭐ **But
 > `Phase 2` §2.6 already established that both founding proceedings settled contests nobody was having —
-> *"neither Japan nor Korea pressed a competing claim."*** **So the city's one authored allocation was
-> authored elsewhere, before anyone arrived, and decided nothing.**
+> *"neither Japan nor Korea pressed a competing claim."*** **So the city's one authored decision was
+> made elsewhere, before the exile era began, and decided nothing.**
 > ## **The present frame's "no defendant" is not a loss of something this city once had. It never had it.**
 > ⭐ *A non-change across 248 years is itself the differentiation: this city is stable on its defining axis for
 > the entire frame.*
@@ -149,7 +149,7 @@ available is the NATIONAL scale**, and the pass ran it twice:
 ✅ **Run at `Step 3` and recorded in `03_Research.md` §3.7, at two depths per pick** — **Vilnius/Užupis
 `[PRIMARY]` · Austin `[SECONDARY]` · Yekaterinburg `[SECONDARY]`** — *with divergence stated explicitly*
 *("the log explicitly diverged from it on one axis — bohemian/art-scene character, replaced with procedural
-parody, while keeping the charter-and-performance shape")*. ⭐ **Plus the real ASMA 6 plan, EDEN ISS, the MCAA
+parody, while keeping the charter-and-performance shape")*. ⭐ **Plus EDEN ISS, the MCAA
 factors, Nunavut and Svalbard, each used as a source and never as a specification.**
 
 ## Substitute 4 — **THE GENERATOR-CONFLICT METHOD** *(`02` §5 — needs no siblings at all)*

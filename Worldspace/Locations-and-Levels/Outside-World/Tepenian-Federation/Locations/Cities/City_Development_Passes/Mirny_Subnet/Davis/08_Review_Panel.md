@@ -27,7 +27,7 @@
 > that do not announce themselves cannot knowingly protect them.***
 > ⭐⭐ **And the sheet's own warning — *"a low `unmet` count usually means the location's problems are absences
 > it does not know it has"* — is Davis's thesis statement arrived at from the opposite direction.**
-> ⚠ **Final count below: 1 `unmet`, 3 `declined`. That ratio is characterization, not a weak run.**
+> ⚠ **Final count below: 0 `unmet`, 1 `declined`. That ratio is characterization, not a weak run.**
 
 ---
 
@@ -286,7 +286,7 @@ faculty, Crone, Gate 9). H71 converges from two (Child, Lover). Two clusters, di
 subjects — not a collapsed lens.
 
 Panel-derived findings: H71, H73.
-Dispositions: 1 unmet-equivalent, 3 declined, 6 accepted, 2 noted, 1 rejected.
+Dispositions: 0 unmet, 1 declined, 8 accepted, 2 noted, 1 rejected (refereed).
 Standing objections not resolved: H69, H71, H72, H73.
 ```
 
@@ -309,4 +309,4 @@ may be the most important thing in this file.** ⛔ **Davis's free tier is 31.1%
 ***The pass may have produced a city nobody would want to live in, and the honest position is that we cannot
 yet tell.***
 
-⛔ **STEP 9 — RECORD — opens next.** ⚠ **Gate 0 and Gate 7 both fail and must be carried there openly.**
+⛔ **STEP 9 — RECORD — opens next.** ⚠ **Gate 0 fails and must be carried there openly.** *(Gate 7 passes on its 2026-09-22 re-run — `07_QA.md`.)*

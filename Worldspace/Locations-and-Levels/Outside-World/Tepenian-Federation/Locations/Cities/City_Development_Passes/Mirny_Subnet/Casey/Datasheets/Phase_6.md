@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | `Factions/Robot_Religions/` — Casey-specific hit | Checked properly: **neither Polydimensional Animism nor Cymatics Reverence names Casey anywhere** — a genuine zero-hit result against the real 2-religion, 6-file roster (file count re-verified: 6) | Re-verified this turn: `grep -rln -i casey` returns 0 files |
-| `National_Holidays.md` — Casey mention | Checked, **zero hits for Casey** by name — unlike Mirny, which has a real "Two Days a Year" civic-observance entry, no equivalent exists for Casey in this file | Re-verified this turn |
+| `National_Holidays.md` — Casey mention | Checked, **zero hits for Casey** by name — no civic-observance entry exists for Casey in this file | Re-verified this turn |
 | `Ice-Cold_Buddhism_Research/` — relevance check | Checked, **zero hits for Casey** across all 7 files (file count re-verified: 7) | Re-verified this turn |
 | The RESERVED mortuary question | Not dispatched, per the Field Guide's own sequencing exclusion — RESERVED means RESERVED regardless of mechanical-ness | `Mechanical_Extraction_Field_Guide.md`, the sequencing-exclusion table |
 

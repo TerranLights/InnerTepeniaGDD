@@ -3,7 +3,7 @@
 > ⚠ **DRAFT — Tier C.** Merged 2026-09-15: Step 1, Step 2, and Phase 1 all draw on the identical physical/
 > climate/capability facts — kept as three files they were near-total duplicates. **Feeds `01_Inherited.md`
 > (Step 1) and `02_Spine.md` (Step 2) when Mirny's own pass actually runs.** Mirny's Specs file is unusually
-> detailed (231 lines) — this table extracts only what belongs to the physical/environmental capability
+> detailed (230 lines) — this table extracts only what belongs to the physical/environmental capability
 > profile. Economy, founding narrative, and notable-figures content living in the same Specs file belongs to
 > later phases and is NOT pulled in here.
 
@@ -20,10 +20,10 @@
 | Geographic mechanism — the Antarctic Circle line | Mirny sits at 66°33′S, within arcseconds of the Antarctic Circle (66°33′26″S) — described in-source as "not a coincidence... the defining geographic fact of the city" | `Specs/Mirny.md` L53–55 |
 | `16_Per_City_Three_Tier_Run.md` Half B — Mirny's own row | Subnet: Mirny · D (difficulty): 1.25 · Workforce: **1,018,480** · base%: 41.1% · MAND%: 11.8% · **FREE%: 47.1%** · src: `C` | `16_Per_City_Three_Tier_Run.md` L275 |
 | `Energy_Grid_Failure_Rationale.md` | Checked, **zero hits for Mirny** by name | Re-verified this turn |
-| Founding — what the source states, verbatim structure | Settled post-Falkland Treaty. Soviet-era infrastructure at Mirny Station, operating from 1956, maintained by a rotating succession of national operators through the First Interwar; no institutional knowledge survived that chain of handoffs, but preserved journals, logs, and orientation manuals gave the exiles a documentary starting point | `Specs/Mirny.md` L150 |
-| Founding population, as stated | "Primarily Russian exiles alongside a broader mix of communities in the East Antarctic coastal area" | `Specs/Mirny.md` L152 |
+| Inherited infrastructure and records (`DR-24`, `DR-25`) | Settled post-Falkland Treaty, onto the substantial, functional station that remained (Soviet-era infrastructure, operating from 1956 — an infrastructure fact only). No institutional knowledge survived; preserved journals, logs and orientation manuals gave the exiles a documentary starting point | `Specs/Mirny.md` L150 (the operator succession, chars 35–361, is GPS-excluded by the Step −1 contract) |
+| Founding population | Exiles from Russia, China and Australia. Spec L152's *"Primarily Russian exiles…"* contradicts `DR-9` → proposed-correction docket; not an input | `Founding_Register.md` (`DR-9`) |
 | Reassignment note already in the source — dated, in-world content | *"Reassigned 2026-07-16… Mirny is also the near-exclusive top-tier industrial/quarrying hub feeding raw materials to the Tri-Cities — specifically to Sinheung, where they're fabricated into robot-synthesis chambers."* | `Specs/Mirny.md` L176 |
-| Composition tiers (kept here too for spine-building convenience; full detail at `Phase_2.md`) | Primary: China · Significant: Japan, UK, South Korea, Russia (founding operator heritage), Indonesia, Australia (founding wave) · Notable: Thailand, Vietnam, Philippines, Malaysia, South Africa, New Zealand, Belarus | `Specs/Mirny.md` L18–22; cross-verified against `Official_Population_Census.md` L372–377, exact match |
+| Composition tiers (kept here too for spine-building convenience; full detail at `Phase_2.md`) | Primary: China · Significant: Japan, UK, South Korea, Russia, Indonesia, Australia (founding wave) · Notable: Thailand, Vietnam, Philippines, Malaysia, South Africa, New Zealand, Belarus | `Specs/Mirny.md` L18–22; cross-verified against `Official_Population_Census.md` L372–377, exact match |
 
 **Not mechanical / not included here:** the Gate 9 asymmetry audit, the inheritance classification
 (`Determined`/`Inflected`/`Originated`/`Aggregated`), the shape reading (BALANCED/COST-DOMINANT/etc.),

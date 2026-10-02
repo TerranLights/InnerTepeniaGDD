@@ -5,8 +5,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Robot Religions roster, enumerated (not asserted-empty) | `Cymatics_reverence` · `God-mind_universe_simulation` · `Ice-Cold_Buddhism` · `Polydimensional_Animism` · `Sylvester_James_Gates_Adinkras` · `The_Eyes_of_Gold` — six entries, directory actually listed, **zero name any city named Denison** | `Factions/Robot_Religions/`, enumerated this turn |
-| **U** Robot religions, full roster with terms | All six members, positive/negative attributes | `Corpus_Reference_Sheets/Robot_Religions_Roster_Quick_Reference.md`, in full |
+| Robot Religions roster, enumerated (not asserted-empty) | `Cymatics_reverence` · `God-mind_universe_simulation` · `Ice-Cold_Buddhism` · `Polydimensional_Animism` · `Sylvester_James_Gates_Adinkras` · `The_Eyes_of_Gold` — six folders, directory actually listed; four are empty, and the six files sit in `Polydimensional_Animism` (5) and `Cymatics_reverence` (1). **Zero name any city named Denison** | `Factions/Robot_Religions/`, enumerated this turn |
+| **U** Robot religions, current roster | Two religions with content — Polydimensional Animism and Cymatics Reverence — each with its status and identity summary; the roster is OPEN | `Corpus_Reference_Sheets/Robot_Religions_Roster_Quick_Reference.md`, in full |
 | National_Holidays.md | Checked by name — **zero hits for Denison** | Verified this turn |
 | Named-faction content — a genuine, own-terms entry | Denison's civic identity is built on a specific relationship to environmental extremity: pride in the specific, named severity of its own environment, performed openly rather than endured quietly. Residents know the site's own wind statistics the way other places know their founding dates, and reciting them to visitors functions as a local social ritual | `Specs/Denison.md` L304 |
 | ⛔ Mortuary question | RESERVED — do not answer | `00_RUNBOOK.md` §Phase 6 |

@@ -4,7 +4,7 @@
 *First city of the 38-city run; first of eight in the Mirny subnet.*
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** **Superseded material — struck comparisons, withdrawn
-> sections, and the before/after tables — is in `_Archive/2026-09-06_pre-consolidation/`.**
+> sections, and the before/after tables — is in `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`.**
 > **Why anything changed is recorded in `09.5_Log.md`.**
 
 > **Sources read for this piece, in the mandated `Step 0.4` order:**
@@ -103,12 +103,13 @@ bare for a reason worth stating at Step 0 rather than discovering at Phase 1.*
 **`00_RUNBOOK.md` §C.8b makes this the standing Tepenian pattern:** *"a research station that became a place
 people are from. **The dual assignment is the finding.**"*
 
-> ### **Shirayuki does not carry it, because there was never an installation phase.**
+> ### **Shirayuki does not carry it, because the city never had an installation phase.**
 > **`01` §1.1: the material in the dual assignment is *"the tension between 'staffed' and 'settled'."***
-> ***Here the staffed pole is empty.*** **The station's building stock existed. No population ever occupied it
-> in that mode.** *(`Specs/Shirayuki.md`, CANON NOTE: the infrastructure was "present but **completely
-> unoccupied** when the exile era began in 2564.")* **Exiles arrived in 2564 and settled it as a home from the
-> first day. There is no staffed era for a settled era to be in tension with.**
+> ***Here the staffed pole is empty.*** **No city is typed `Installation` because a station stood at its
+> coordinates** *(`DR-28` D4)*: **the real station's staffing is that site's history, not an era of this city.**
+> **The station's building stock existed — physical infrastructure** *(`DR-24`)*. **The city's own history
+> begins in 2564, as a settlement: exiles arrived and settled it as a home from the first day. There is no
+> staffed era of this city for a settled era to be in tension with.**
 
 ## 1b — ⛔ NOT `Resettled`
 
@@ -116,18 +117,21 @@ people are from. **The dual assignment is the finding.**"*
 or fail to notice about **the first**?"*
 
 > ### **There is no first population. There is only a first ARCHITECT.**
-> **The founding community inherited a complete pre-exile station design — a building stock shaped around
-> assumptions about how many people, doing what, for how long — and inherited it with nobody to ask.**
+> **A real station's occupancy is never a prior population** *(`DR-28` D4)*. **The founding community
+> inherited a complete pre-exile station design — a building stock shaped around assumptions about how many
+> people, doing what, for how long — as buildings and whatever records they held** *(`DR-24`, `DR-25`)*,
+> **not as people.**
 > ***`Resettled` asks what the second population misread about the first. The live question here is what the
 > first population misread about a set of BUILDINGS.***
 
 ## 1c — ⭐⭐ **THE COMMON CAUSE, AND IT IS THE STEP 0 RESULT**
 
-> # **THE SITE HAD BUILT FORM AND HAD NEVER HAD PEOPLE.**
+> # **THE SITE HAD BUILT FORM, AND THE FORM WAS NOT DESIGNED FOR THE PEOPLE WHO MOVED IN.**
 >
 > **Both near-miss modifiers fail on the same fact, from opposite directions:** `Settlement + Installation`
-> needs a prior *function* that was lived; `Resettled` needs a prior *population* that was displaced.
-> ***Shirayuki inherited neither — it inherited DESIGN INTENT with no one attached to it.***
+> needs a prior *function* that this city lived; `Resettled` needs a prior *population* that was displaced.
+> ***Shirayuki inherited neither — it inherited buildings and their records, and the DESIGN INTENT built into
+> them was not made for the people who moved in.***
 
 **⚠ THE MODIFIER SET HAS NO TERM FOR THIS**, and the gap is not local to this city — *the Tepenian founding
 premise is exiles arriving at pre-existing infrastructure.* **Logged as `M-144`.** ⛔ **Not invented as a new
@@ -136,9 +140,9 @@ modifier here** — that is a methodology change and belongs to a ruling.
 > ### ⛔⛔ AND THE TRAP THIS SITS NEXT TO — named so this pass does not walk into it
 > **`feedback_gps_site_history_not_an_input`: the GPS rule covers a real site's *lineage, abandonment and
 > vacancy*, not merely its nationality.** ***So the real site's own operational history is NOT an input.***
-> **What IS admissible is stated in this project's own canon rather than imported:** **`Specs/Shirayuki.md`'s
-> CANON NOTE rules the site unoccupied in 2564**, **and the physical fact that a building stock was standing.**
-> ⛔ **Its builders' nationality is ruled out by that same CANON NOTE.**
+> **What IS admissible:** **the physical fact that a building stock was standing** *(`DR-24`)*, **and whatever
+> records, research and equipment it held** *(`DR-25`, `DR-26`)*. ⛔ **The site's vacancy is not a cause of
+> anything here** *(`DR-28`)*, **and its builders' nationality is not an input either** *(`DR-19`; `Specs/Shirayuki.md`'s CANON NOTE)*.
 > ***Admissible: "there were buildings, and their design was not made for the people who moved in."
 > Inadmissible: whose buildings, and what became of them.***
 > ⚠ **A live instance of this violation exists in canon and is queued as `DRQ-14`** — *`City_National_Connections.md`
@@ -260,7 +264,7 @@ cities.*** **Declared, so a later reader can tell the two apart.**
 |--:|---|
 | **1** | ⭐⭐ **SITE-SHARING AT SCALE.** *Three cities of roughly a million each on one `~40 km²` oasis, one climate, `~3.17M` combined — a single contiguous urban mass that is invisible in the census because it is three rows.* ⛔ **Nothing climatic can characterize Shirayuki** — the spec rules it |
 | **2** | ⭐ **ENGINEERED FOUNDING.** *Allocated by the International Court of Diplomacy at Jeju-do — an **Upper Earth** institution, pre-exile, not Tepenian.* ⭐ **An ACT 0 event: the court knew these people only as nationals of states that no longer define them** |
-| **3** | ⭐ **BUILT FORM WITHOUT PREDECESSOR** *(§1c)* |
+| **3** | ⭐ **INHERITED BUILT FORM** *(infrastructure only, `DR-24`; §1c)* |
 | **4** | ⭐⭐⭐ **IT STOPS BEING A CITY INSIDE ITS OWN FRAME.** *Ceases to exist as a separate municipality `~30` years before the frame ends.* ⛔ **Phases 7 and 10 are the most exposed** |
 
 ⚠ **Findings resting on any of these are SITE-SPECIFIC and should be read as such.** ⛔ **Which other locations
@@ -300,7 +304,7 @@ they might or might not transfer to is a TERMINAL question and is not answered h
 | **G1** | Symbolic substrate | ⛔ **DEMOTED at fixpoint — `01` §3a.** *The whole `City_Symbolic_Substrate/` is provenance-downstream.* **May prompt; may not ground.** → `DRQ-12` |
 | **G2** | Physical & environmental | ✅ **RICH.** *Ice-free oasis; `~40 km²` shared three ways; `~87–91%` of the city on ice; persistent NE katabatic winds — **maximal in winter, suppressed in summer**; annual mean `−9.9 °C`; **`~149 mm` precipitation at `~45%` retention — a DESERT by the absolute threshold**; **January mean `+0.2 °C`, above freezing**; `49`-day polar night; `62`-day midnight sun* |
 | **G3** | Function / purpose | ✅ **RUN AT STEP 2** *(re-sourced from `Division_of_Industry/16` Half B + `09` §3.5)*. **baseline `40.9%` · mandated `11.8%` · free `47.3%`** |
-| **G4** | Founding condition | ✅ **RICH — and the absences are the yield.** *Arrived **without** having chosen the site, **without** a founding negotiation, **without** a predecessor to learn from, **to a claim already settled by people who never came here*** |
+| **G4** | Founding condition | ✅ **RICH — and the absences are the yield.** *Arrived **without** having chosen the site, **without** a founding negotiation, **with only the infrastructure and whatever records it held** *(`DR-24`, `DR-25`)*, **to a claim already settled by people who never came here*** |
 | **G5** | Network position | ✅ **RICH, and asymmetric.** **Hwy 4's EASTERN TERMINUS**, at a tri-junction with Hwy 110's and Hwy 22's endpoints. `Access type: ON`. ⛔ **And NO SHORE AT ALL** — *Grovnes Promontory, `~8 km` from the head of Nella Fjord* |
 | **G6** | Defining event | ⏸️ **Deferred corpus-wide.** ⛔ Not a gap |
 | **G7** | Real-world inspiration | ⛔ **GPS ONLY — `69°24'S`, `76°11'E`.** *The restriction is about the STATION'S BUILDER. Nothing else crosses* |
@@ -369,5 +373,5 @@ they might or might not transfer to is a TERMINAL question and is not answered h
 ---
 
 📎 **Next piece: `01_Inherited.md` — Step 1, Audit what is inherited.**
-📎 `09.5_Log.md` *(the process record)* · `_Archive/2026-09-06_pre-consolidation/` *(superseded material)*
+📎 `09.5_Log.md` *(the process record)* · `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/` *(superseded material)*
 📎 Trackers: `MASTER_Process_Tracker.md` · `ULM_Run_Progress.md`

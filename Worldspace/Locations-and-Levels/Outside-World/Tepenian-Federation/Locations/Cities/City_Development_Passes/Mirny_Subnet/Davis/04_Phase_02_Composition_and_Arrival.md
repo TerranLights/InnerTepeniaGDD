@@ -575,7 +575,7 @@ what Davis's founding administration was, who staffed it, or where on that path 
 
 > ### ⛔ WHAT THIS MODE MAY NOT BE EXTENDED TO
 > **The election is an ACT-1 ANCESTRAL FACT.** Across the Act boundary exile *"stops being a STATUS and becomes
-> a LINEAGE."* **By Act 2 — ~82% of the frame — essentially nobody alive at Davis elected anything.** What
+> a LINEAGE."* **By Act 2 — most of the frame — essentially nobody alive at Davis elected anything.** What
 > survives is not a memory of a choice; it is the standing legal geometry the clause created, which Art. I.1
 > keeps in force *"without term."*
 > ⛔ **§7.3 is obeyed absolutely: nothing here reads the post-orbital population as self-selected.**
@@ -854,7 +854,7 @@ not passing through. They were leaving, and the leaving did not occur.***
 **Fire #3 requires it: *"⭐ Ask it ONCE PER ACT."*** ⛔ ***The composition table's own classification INVERTS
 across the Act boundary.***
 
-## Act 1 — 2564 → early 2600s (~45 years, ≈18% of the frame)
+## Act 1 — 2564 → somewhere in the 2600s (a hazy range, not yet dated)
 
 **Who is here:** people who were **personally moved**, within living memory, by a document they can cite. The 21
 origins are **live national identities** — *"X who live in Antarctica."* **Exile is a STATUS, not an ancestry.**
@@ -874,10 +874,10 @@ most of the frame"* and **forbids *"from 2564."*** **No finding here requires it
 > ⭐ **`02` §3.1 established THAT verification replaces authority at Davis. Phase 2 establishes WHEN — and the
 > reason is a scarcity rather than a preference.**
 
-## Act 2 — ~late 2600s / early 2700s onward (≈82% of the frame)
+## Act 2 — by the late 2600s / early 2700s, onward (most of the frame)
 
 **Who is here:** **Tepenians.** ⛔ *"A story that writes its city as its founding nation is writing the wrong Act
-for about 200 of those 248 years."* **Origin is ancestry, not identity. Exile is a LINEAGE.**
+for most of those 248 years."* **Origin is ancestry, not identity. Exile is a LINEAGE.**
 
 **By what route:** **born or made here, overwhelmingly.** ⭐ **No arrival mode is operating at all.**
 
@@ -975,7 +975,7 @@ forms — the portable ones — and the assembling forms die.*
 > a SHAPE that acts identically on all twenty-one stocks — which is what an anti-convergence engine looks like
 > when the separation input is high and no stock holds a majority's inertia.**
 
-**The operator's six inputs, filled from Davis's own established findings:** *time* — 248 years, ~82% Act 2 ·
+**The operator's six inputs, filled from Davis's own established findings:** *time* — 248 years, mostly Act 2 ·
 *separation* — total and legally permanent in both directions · *local environmental setting* — ~400 km² of
 exposed rock, mean −10.0 °C, 72.8 mm precipitation at 38.5% retention · *local struggles* — carrying across an
 interval in which nothing can be replenished · *local goals* — a serial obligation with no failure signal ·
@@ -1536,7 +1536,7 @@ in-run, and the 2026-09-06 ruling relocated **five** named instruments and could
 
 **Two instances in one phase.** §O item 6: a reader nearly reported a four-file line-count recurrence that did
 not occur, and the verification cost one command. §O item 7: **the resume plan carried an action premised on a
-verifier failure that did not exist, and running the verifier unmodified cost one command and cancelled the
+verifier failure that did not exist, and running the verifier unmodified cost one command and canceled the
 action.** ⭐ ***The rule was written about a script. It was needed here about a manual line count and about a
 written plan.***
 

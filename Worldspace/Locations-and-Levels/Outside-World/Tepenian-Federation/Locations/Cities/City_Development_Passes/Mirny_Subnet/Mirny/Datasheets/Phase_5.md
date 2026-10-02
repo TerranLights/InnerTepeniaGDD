@@ -8,13 +8,13 @@
 | Category | Value | Citation |
 |---|---|---|
 | Highway routing | Hwy 110: Zhongshan → Davis → Mirny → Casey → Concordia. Endpoints: Zhongshan (northwest) ↔ Concordia (south). Mirny sits at the **midpoint**; direct highway neighbors are the two adjacent stops in each direction | `Infrastructure/Highways.md` L197–199; `City_Relationship_Database.md` L328–329 |
-| `City_Relationship_Database.md` — Mirny's own header | Real station: Mirny Station (Russia) · Region: East Antarctic coast · Arcanet subnet: Mirny ("Australian") — **hub city**. *"Hub of the Mirny... Arcanet subnet despite being Russian — subnets organized geographically, not nationally"* | `City_Relationship_Database.md` L323–330 |
+| `City_Relationship_Database.md` — Mirny's own header | Region: East Antarctic coast · Arcanet subnet: Mirny ("Australian", a geographic nickname only, `DR-13`) — **hub city**. The source's national label for the city rests on the station and is not carried (`DR-19`) | `City_Relationship_Database.md` L323–330 |
 | Mirny's own outward economic role, already stated in-source | Hub port for Australian freighter shipments (raw materials, staged via Hobart/Fremantle) — the primary receiving point for the Mirny/Mawson subnet coastal supply line | `City_Relationship_Database.md` L330, citing `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md` |
 | Mirny's own supply role to another city, stated as Mirny's outward relation | *"Mirny is [the other city's] own raw-material quarry-and-supply feeder, and Mirny's Windwright Guildhall has directly consulted on [that city's] own structural engineering"* | `City_National_Connections.md`, Mirny's own §, L264–266 |
-| Mirny's own Arcanet hub function, independently stated in Mirny's OWN Specs file (not contingent on the flagged source below) | *"The Mirny subnet relay hardware — the physical Arcanet infrastructure that makes Mirny the hub of the 'Australian' subnet, routing Zhongshan, Casey, Davis, Vostok, and Kunlun to each other"* — if it fails, the whole Mirny subnet loses contact with itself | `Specs/Mirny.md` L184 |
+| Mirny's own Arcanet hub function, independently stated in Mirny's OWN Specs file (not contingent on the flagged source below) | *"The Mirny subnet relay hardware — the physical Arcanet infrastructure that makes Mirny the hub of the 'Australian' subnet, routing Zhongshan, Casey, Davis, Vostok, and Kunlun to each other"* — if it fails, the whole Mirny subnet loses contact with itself. ⚠ The five-city list (chars 129–195) is a dated partial list (2026-07-04); the subnet's members are the census's nine, all routed through this hub (`00_Frame.md` R-3; `DR-18`) | `Specs/Mirny.md` L184 |
 | Airport | **Mirny Airport** — one of only 10 confirmed airport markers in all of Tepenia, confirmed directly from the developer's own reference map | `Infrastructure/Airports.md` L12 |
 | Port | Australia-partner receiving node, three-node group (alongside two other cities); **tier not established** | `Infrastructure/Ports.md` L129, L221, L572, L628 |
-| Mirny's own civic institutions, stated without comparison | Windbreak-ring architecture answers the extreme-katabatic-wind engineering problem (cross-ref `Phase_3.md`). Dual-Kitchen Halls institutionalize Russian-Chinese coexistence at civic scale | `City_National_Connections.md`, Mirny's own §, L272–275 — comparative framing to other cities' own solutions stripped out, Mirny's own half only |
+| Mirny's own civic institutions, stated without comparison | Windbreak-ring architecture answers the extreme-katabatic-wind engineering problem (cross-ref `Phase_3.md`). Dual-Kitchen Halls institutionalize Russian-Chinese coexistence at civic scale. ⚠ This source line names two of the three founding stocks; the founders are exiles from Russia, China and Australia (`DR-9`), so it is not carried as a founding fact | `City_National_Connections.md`, Mirny's own §, L272–275 — comparative framing to other cities' own solutions stripped out, Mirny's own half only |
 
 ## ⛔⛔ FLAGGED — found, NOT extracted, do not treat as clean fact
 
@@ -32,7 +32,9 @@
 > only in the two files that trace to the withheld source.
 >
 > ⇒ **Not recorded as fact here.** A Phase 5 T8 dispatch must adjudicate what, if anything, about Mirny's
-> intra-subnet cultural relations survives independent of the withheld source.
+> intra-subnet cultural relations survives independent of the withheld source. ⛔ **Any tie it keeps stands on
+> the founders shared by geography and access (`DR-9`, `DR-19`), never on "heritage"; the tie is re-grounded,
+> never deleted (`DR-28`).**
 
 **Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the
 parent-disagreement analysis, the arrival-type enumeration + visitor-to-member mechanism, the dependency/

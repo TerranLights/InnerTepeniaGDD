@@ -33,7 +33,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Cape_Adare.md` |
+| **Spec** | `../../../Specs/Janbogo subnet/Cape_Adare.md` |
 | **Local culture** | `../../../Local_Cultures/Janbogo_Subnet/Cape_Adare.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Cape_Adare.md` |
 | **Research log** | `../../../Research_Logs/Cape_Adare_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |

@@ -151,28 +151,26 @@ readers; the cross-check settles it `Inflected` per `01` L412 read literally, an
 > |---|---|
 > | **`G4`** | ✅ **UNCONDITIONAL.** ⛔ **The CONDITIONAL tag ordered at §1.6 is WITHDRAWN** |
 > | **Load-bearing fire #4** | ✅ **Stays a fire** — the *cost* and *no-route-back* asymmetry is untouched by admissibility. **Only the GPS objection dies** |
-> | **`00_Frame.md` §0.1a ground 1** | ⛔ **FALLS** — see §1.3a |
+> | **`00_Frame.md` §0.1a ground 1** | ✅ **STANDS** — `DR-7` admits the records only (`DR-25`); the station's occupancy is a coordinate and never a first population (`DR-19`). See §1.3a |
 > | **`Originated`** | ✅ **Does not empty.** The disputed branch is closed |
 > | ⚠ **Still forbidden** | **Inferring the founding population's character from the operator nationality.** ⭐ *`DR-7` admits the MATERIALS; it admits nothing about WHO MADE THEM* |
 
-## 1.3a ⛔ WHAT THE RULING COSTS STEP 0 — **one ground falls; the verdict stands**
+## 1.3a ✅ WHAT THE RULING MEANS FOR STEP 0 — **no ground falls; the verdict stands**
 
-**`00_Frame.md` §0.1a declined the `Resettled` modifier on THREE independent grounds. `DR-7` kills the first:**
+**`00_Frame.md` §0.1a declined the `Resettled` modifier on THREE independent grounds. All three stand:**
 
 | | Ground | Status |
 |---|---|---|
-| **1** | *The modifier's obligatory question needs a "first population," and the only route runs through the real station's prior occupancy, which GPS excludes* | ⛔ **FALLS.** `DR-7` does not exclude it |
+| **1** | *The modifier's obligatory question needs a "first population," and there is none: a real station's prior occupancy is never a population* | ✅ **STANDS.** `DR-7` admits the records, not the occupancy as a population (`DR-19`, `DR-28`) |
 | **2** | *`L127` resolves it in canon — the documentary inheritance is a founding-era starting point, **explicitly superseded**. Using a whole-frame type modifier for a bounded, canon-superseded Act 1 condition is a **scale error in the instrument*** | ✅ **STANDS, untouched** |
 | **3** | *Nothing is lost by declining — `L127` is seated at `G4`, a selected generator* | ✅ **STANDS, and is now STRONGER** — `G4` is unconditional |
 
-> ### ✅ **`Resettled` REMAINS DECLINED.** ⚠ **But `00_Frame.md` §0.1a must be corrected**: it currently carries
-> a ground that is no longer good law, and a later reader would inherit it. ⛔ ***A verdict that survives on two
-> of three grounds is still correct; a verdict whose stated reasoning is wrong is a trap for the next pass.***
+> ### ✅ **`Resettled` REMAINS DECLINED**, on all three grounds.
 >
 > ### ⭐ AND THE SEVERABILITY CONTRADICTION AT §1.0 ITEM 3 IS DISSOLVED, NOT PATCHED
-> **§0.1a answered severability twice, oppositely.** ⭐ ***`DR-7` says the admitting answer was the right one***
-> — the record IS severable from the occupancy, and the persistence test is what severs them. **The section was
-> not confused; it was half-right, and the half that was right is the half it did not act on.**
+> ⭐ ***The record IS severable from the occupancy, and the persistence test is what severs them.*** **The
+> record is admitted as an input (`DR-7`, `DR-25`); the occupancy stays a coordinate and is never a first
+> population (`DR-19`).** **§0.1a's two answers are about two different objects, and both hold.**
 
 ---
 
@@ -209,8 +207,8 @@ from prior occupancy.**
 
 | If ruled **INADMISSIBLE** | If ruled **ADMISSIBLE** |
 |---|---|
-| `G4` **retains** `L129` and `L131`'s in-world criterion — it does **not** collapse to a bare fact | ⛔ **It REOPENS `00_Frame.md` §0.1a ground 1** — the ground on which Step 0 declined the `Resettled` modifier |
-| ⚠ **`Originated` may go EMPTY** *(disputed: one cross-checker says empty, one says limnology is independent of `L127`)* | The already-filed `Resettled` developer question returns with it |
+| `G4` **retains** `L129` and `L131`'s in-world criterion — it does **not** collapse to a bare fact | **`00_Frame.md` §0.1a ground 1 is unaffected** — the records are admitted; the occupancy is never a population (`DR-19`, `DR-25`) |
+| ⚠ **`Originated` may go EMPTY** *(disputed: one cross-checker says empty, one says limnology is independent of `L127`)* | The `Resettled` question is settled on the same ground (`DR-28`) |
 
 > ## ⭐ IT IS THE SAME QUESTION AS `00_Frame.md` §0.7's `Resettled` ITEM. **MERGE THEM AND RULE ONCE.**
 > **§0.7 already records that this settles most of the 38-city run, since nearly every city sits on a real
@@ -300,8 +298,8 @@ flagged that as a hazard. ⛔ Step 2 must not rely on that inference.**
 
 | Item | Disposition | Resolution |
 |---|---|---|
-| **`Resettled` — prior POPULATION or merely prior OCCUPANCY?** (`01` §1.2) | ⏸️ **B** | Corpus-wide definitional gap in the methodology (`01` §1.2 itself), not a Davis fact. **Davis's own verdict (zero modifiers) survives on grounds 2–3 of 3 regardless of how this is eventually ruled** — see `00_Frame.md` §0.1a. ⛔ **Do not re-ask this at Steps 2–10.** It is corpus business, raised once, parked until the developer has bandwidth across the 38-city run |
-| **`Settlement + Installation` vs the GPS law** (`01` §1.1) | ⏸️ **B** | Same shape as above — Type is already settled (`Settlement`, no modifiers). **Does not block any future Davis step.** Flagged once for a methodology-level fix, not Davis's to re-raise |
+| **`Resettled` — prior POPULATION or merely prior OCCUPANCY?** (`01` §1.2) | ✅ **A** | **Ruled: a real station's prior occupancy is never a prior population** (`DR-19`, `DR-28`). **Davis's own verdict (zero modifiers) stands on all three grounds** — see `00_Frame.md` §0.1a. ⛔ **Do not re-ask this at Steps 2–10** |
+| **`Settlement + Installation` vs the GPS law** (`01` §1.1) | ✅ **A** | **Ruled: no city is typed `Installation` because a station stood at its coordinates** (`DR-28`). Type is settled (`Settlement`, no modifiers) |
 | **`G6`'s null — re-grounding** (`REQ-G6-b`) | ✅ **A** | ⭐ **Resolves at Step 2.** Step 2 selects/profiles generators; if `G6` is re-examined there, an isolated reader opens the ONE matching line in the 346-line universe file (counts-only was this pass's own self-imposed caution, not a developer-required gate) and reports its content as a normal `G6` finding. **If Step 2 does not need `G6`, it stays a recorded null through to Step 9 — either way, no developer input required** |
 | ⛔ **The "chosen / selected" ambiguity** — does the ratified spine wording presume ELECTION where the population may have been ASSIGNED? | ✅ **A** | ⭐⭐ **THE MOST TIME-CRITICAL ITEM — resolves AT Step 2, by Step 2's own three T8 readers, as ordinary interpretive analysis.** This is not a developer question — it is a reading-comprehension call the deriving pass is equipped to make (per Gate 9's asymmetry framework, already in scope for Step 2's spine-building). **Step 2 must resolve it in-pass and record which reading it adopted, with reasoning — it must NOT escalate this upward** |
 | **RWBEM Step D commands reading the struck `City_Vision_Notes/`** | ✅ **A** | ⭐ **Resolves automatically, whenever RWBEM Step D is reached for Davis** (RWBEM runs after ULM + CST complete, per the standing city-run order). **Pre-resolved here so it is not re-discovered as a surprise then:** `City_Vision_Notes/` remains struck corpus-wide per `00.1a` (developer ruling 2026-09-11) regardless of what RWBEM's own text says — **the strike outranks RWBEM Step D's instruction.** When that step is reached, apply the strike and proceed; do not ask |
@@ -353,11 +351,10 @@ decides about anyone wrote both sides, and the corpus's one clean pass proves th
 style.*** **Fourteen load-bearing fires, filtered rather than merged, each attached to a selected generator.**
 
 ✅ **`L127`'s severability was escalated and RULED the same day — `DR-7`.** **`G4` is unconditional**, and the
-§0.1a contradiction dissolves in the admitting direction.
+§0.1a contradiction dissolves: the record is admitted, and the occupancy is never a population.
 
-**Biggest doubt, carried forward:** ⚠ **two defects in `00_Frame.md`** — written this morning, T8-verified, and
-wrong in two places that three readers and the pass owner all passed over — ⛔ **one of which (`§0.1a` ground 1)
-is now KNOWN-BAD LAW and must be corrected before Step 2 inherits it.** ⭐ ***Neither defect was visible from
-any single reader's output, which is the strongest available argument for the cross-check round.***
+**Biggest doubt, carried forward:** ⚠ **a defect in `00_Frame.md`** *(§1.4, the undated transition)* — written
+this morning, T8-verified, and passed over by three readers and the pass owner. ⭐ ***It was not visible from any
+single reader's output, which is the strongest available argument for the cross-check round.***
 
 ⛔ **Step 2 — BUILD THE SPINE — opens next.**

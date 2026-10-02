@@ -109,8 +109,8 @@ one being wrong.**
 > is pushing back. Say so in the pass, and run substitute 1 without fail."***
 
 ⭐ **Davis HAS siblings. They are unreadable in-run by law, so this pass is functionally the no-sibling case
-and carries the same risk.** ✅ **Substitute 1 was run.** ⛔ **Substitute 3, the one that would have pushed back
-hardest from outside the corpus, was unavailable.**
+and carries the same risk.** ✅ **Substitute 1 was run.** ✅ **Substitute 3, the one that pushes back hardest from outside the corpus,
+was run 2026-09-22** *(§2.3)*.
 
 > ### ⚠ SO THE HONEST STATEMENT OF RESIDUAL RISK — **narrowed 2026-09-22**
 > **The axis is derived from Davis's own ratified spine and is corroborated across five phases, which is the

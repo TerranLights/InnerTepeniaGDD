@@ -25,7 +25,7 @@ phase — its pairing bears more on governance and meaning than on texture.
 |---|---|---|
 | **Climate READER — `Reference/Real-World/Climate Data/READER/Zhongshan.md`** | Read directly, all 17 lines | The monthly mean series, confirmed identical to `Specs/Zhongshan.md`'s embedded table — cross-verified, no drift |
 | **`Specs/Zhongshan.md`** | Reopened, Geographic Basis + Annual Climate sections | The full monthly table, the precipitation regime, the wind, the polar night/midnight sun dates |
-| **`City_Concept-Art/Mirny_Subnet/Zhongshan_Opus/`** | ✅ Opened and confirmed EMPTY — `.gitkeep` only | A result, not a hole |
+| **`City_Concept-Art/Mirny_Subnet/Zhongshan/`** | ✅ Opened and confirmed EMPTY — `.gitkeep` only | A result, not a hole |
 | **`Reference/Real-World/Davis_Geosciences_Research/`** | ✅ Opened — 0 mentions of this city across both files | Site-specific to Davis's own geology. No forced fit |
 | **`Cities/Research_Logs/Zhongshan_Research_Log.md`** | Reopened — the geology, wind-physics and building-science queries (22–26, 31, 33, 38, 43–44, 53–54, 70) | The physical mechanisms behind this phase's findings, below |
 | ⛔ **`City_Megasheets/…/Zhongshan_Physical_Infrastructure_Attributes.md`** | Withheld corpus-wide, per standing facts | Recording the conflict, not opening it |
@@ -38,7 +38,7 @@ The vision note (`00_Frame.md` §0.4, rank-2 primary) already states a texture c
 
 > *"A chaotically-organized city… The streets are semi-gridlike."*
 
-`00_Frame.md` §0.6a records this as PRIMARY and explicitly not a contradiction to tidy: *"the pass must find
+`00_Frame.md` §0.4 records this as PRIMARY and explicitly not a contradiction to tidy: *"the pass must find
 what produces both."* This phase is where that gets answered — see §3.4, below.
 
 ---
@@ -55,8 +55,8 @@ inversion always accompanies it.
 
 **A city that is loudest exactly when its residents are trying to sleep, and near-silent by the time most of
 them are at work.** Not a hardship to be solved — a fact of the acoustic day, load-bearing enough that a
-resident's whole sense of "quiet hours" runs backward from anywhere without this wind. **Under Robots do not
-require sleep the way humans do, but per `00_Frame.md` §0.6b, robots and humans share a night** (`Robot_Physiology_and_Cultural_Practices.md`: recharging is an overnight, physiologically real requirement) —
+resident's whole sense of "quiet hours" runs backward from anywhere without this wind. **Robots do not
+require sleep the way humans do, but robots and humans share a night** (`Robot_Physiology_and_Cultural_Practices.md` §Downtime, Recharging and Leisure: recharging is an overnight, physiologically real requirement) —
 so the loudest hour of the day is also, structurally, the hour almost the entire city is at rest indoors.
 
 ### ⭐⭐⭐⭐⭐ TWO WINDS, NOT ONE — CORRECTED 2026-09-10, developer-directed research
@@ -100,7 +100,7 @@ controls, tied to a real, nameable mechanism rather than to weather in general.
 
 ## FEEL
 
-**Insulation-vs-dexterity is the standing texture of every outdoor task** (`00_Frame.md` §0.6b) — a gradient,
+**Insulation-vs-dexterity is the standing texture of every outdoor task** (`00_Frame.md` §0.6a) — a gradient,
 never a gate, and this city's own values (annual `−9.9 °C`, January mean `+0.2 °C`, persistent wind) put outdoor
 fine work somewhere specific on it: workable, but never comfortable, and never year-round in the same register.
 **And salt is a tactile fact as much as a chemical one.** Crystallization stress inside exposed material runs
@@ -230,7 +230,7 @@ pass rather than guessed.
 
 | To | What |
 |---|---|
-| **Phase 4** | The diurnal wind cycle as an ordinary-day organizing fact; the shared-night finding already carried from `00_Frame.md` §0.6b |
+| **Phase 4** | The diurnal wind cycle as an ordinary-day organizing fact; the shared-night finding already carried from §3.2 (`Robot_Physiology_and_Cultural_Practices.md` §Downtime, Recharging and Leisure) |
 | **Phase 7** | Salt-driven maintenance as a standing labor category (already flagged at `02_Spine.md` §2.2 as a standing cost) |
 | **Phase 8** | The construction-age seam as a craft/building-material finding — older rock-founded stock vs. newer ice-adjacent stock |
 | **Phase 10** | The fault-lineament street geometry as concrete, nameable texture for named places — a "straight stretch that suddenly doesn't align with the next block" is enterable, specific texture, not abstract geology |

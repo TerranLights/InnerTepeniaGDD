@@ -101,8 +101,8 @@ stretch with no daylight to anchor the start, and two months in which the cold p
 # A · PROCESS A — THE HEADLINE FUNCTION, AND WRITING AWAY FROM IT
 
 **The headline, in one sentence, as canon states it:** ***Davis is Tepenia's breadbasket and a prime
-ecological/limnological research hub*** — *"sheltered-agriculture and greenhouse cultivation alongside genuine
-research heritage make up the clear majority of daily activity."*
+ecological/limnological research hub*** — *"sheltered-agriculture and greenhouse cultivation alongside
+research make up the clear majority of daily activity."*
 
 > ### ⛔ THE TEST, APPLIED HONESTLY: *"would this reasonably be someone's entire day, every day, forever?"*
 > **A Phase 4 that answered *"residents farm and take readings"* would fail on the spine's own test, and would

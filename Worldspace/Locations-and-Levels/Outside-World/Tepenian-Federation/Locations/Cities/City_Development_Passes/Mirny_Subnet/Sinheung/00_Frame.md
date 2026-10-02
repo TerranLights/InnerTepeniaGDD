@@ -84,7 +84,7 @@ and the tension between 'staffed' and 'settled' is a live source of material."*
 
 | | Which findings will depend on it |
 |---|---|
-| **1 · Founded by DIPLOMATIC ALLOCATION, decided before the exile era began** | *Canon calls this one of only two cities settled this way rather than by organic inheritance.* **Anything about how this city understands its own right to be here** |
+| **1 · Founded by DIPLOMATIC ALLOCATION, decided before the exile era began** | *Canon calls this one of only two cities settled by the Jeju-do court's allocation.* **Anything about how this city understands its own right to be here** |
 | **2 · It manufactures the apparatus that creates robots** — *fabrication-synthesis chambers, shipped nationwide* | **Phases 7, 8 and 9.** *A Federation-wide dependency sitting inside one Band-4 city* |
 | **3 · It hosts the Federation's ONLY source of robotic care**, physical and emotional both | **Phase 4 and Phase 9.** *In a ~51% robot nation this is the majority's mental-health system* |
 
@@ -223,8 +223,9 @@ robotic care**, physical *and emotional*, **including robotic counselors.**
 
 ## ⛔⛔ ITEM 5 · **THE SIBLING SET IS DECLARED AND NOT READ**
 
-**Canon states plainly that three cities occupy this oasis, allocated by the same three-way Jeju-do agreement,
-and that the cluster's density produced a daily inter-community dynamic.** ✅ ***That is RELATION — a fact this
+**Canon states plainly that three cities occupy this oasis — this site allocated to Korea by the Jeju-do court
+(Shirayuki's to Japan by the same court) — and that the cluster's density produced a daily inter-community
+dynamic.** ✅ ***That is RELATION — a fact this
 city lives with — and it is admissible.***
 
 ⛔ **What this pass will NOT do:** *open the neighbors' passes, read their rows in the differentiation table,

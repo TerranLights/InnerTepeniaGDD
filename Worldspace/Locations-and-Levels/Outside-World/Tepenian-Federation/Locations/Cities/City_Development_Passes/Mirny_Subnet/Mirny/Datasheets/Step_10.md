@@ -7,9 +7,8 @@
 
 **ZERO genuine hits.** Two raw string matches for "mirny" exist, but both are false positives of the "Mirny
 Subnet as qualifier for a DIFFERENT city" shape already flagged in `Phase_10.md`: one names
-`Mirny_Subnet/Zhongshan_Sonnet/` (a different city held at Phase 3), the other names
-`Mirny_Subnet/Casey/Course_of_Events/` (Casey's own standing filename-leak warning — see Casey's `Step_10.md`
-for the real entry that hit belongs to). Neither is a worked example OF Mirny; no skip rule applies to it.
+`Mirny_Subnet/Zhongshan_Sonnet/` (a different city held at Phase 3), the other names a different city's folder.
+Neither is a worked example OF Mirny; no skip rule applies to it.
 
 Re-verified fresh: `06_Worked_Example_Provenance.md` (406 lines), `grep -in "mirny"` → 2 raw hits at L107 and
 L314, both checked in full context and confirmed off-subject.

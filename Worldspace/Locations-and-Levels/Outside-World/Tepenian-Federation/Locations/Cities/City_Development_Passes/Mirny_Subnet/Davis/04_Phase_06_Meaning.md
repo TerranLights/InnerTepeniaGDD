@@ -109,15 +109,17 @@ about any other place?** No.
 
 ## A.2b ⭐⭐⭐ AND THE TRUTH IS NOT SINGULAR — **the half the proposition needs**
 
-**`Local_Cultures` §4 records a standing property of this terrain:**
+**`Local_Cultures` §4** *(Tier 3, opened at Step 5 — `05_Reconciliation.md` §1)* **records a standing property
+of this terrain:**
 
 > ***"The Vestfold Hills' varied water bodies — freshwater lakes, saltwater lakes, fjord inlets — each freeze,
 > thaw, and open on their own separate schedules… the ice conditions of one lake say nothing reliable about
 > another, and residents track MULTIPLE, DISTINCT local environmental calendars rather than one unified
 > seasonal clock."***
 
-⇒ ⭐⭐ **A city whose inherited expertise is reading a landscape that never speaks with one voice does not get a
-single authoritative account of anything. It gets several, each correctly made, each true of its own basin.**
+⇒ ⭐⭐ **A city whose expertise — rebuilt by its exiles from the station's records, research results and
+techniques — is reading a landscape that never speaks with one voice does not get a single authoritative
+account of anything. It gets several, each correctly made, each true of its own basin.**
 
 > # ⭐⭐⭐ ***A RECORD IS TRUE BECAUSE IT WAS MADE AT THE TIME — AND TWO RECORDS MADE AT THE TIME MAY DISAGREE WITHOUT EITHER BEING FALSE.***
 
@@ -351,7 +353,7 @@ occupational trap.
 
 | To | What it carries |
 |---|---|
-| ⭐⭐⭐ **Phase 9 — Populations** | **§D.1's двух-sided silence, and `H38`** — ⛔ **what anyone makes of it is Phase 9's, not this phase's** · **§B.3's two layers** |
+| ⭐⭐⭐ **Phase 9 — Populations** | **§D.1's two-sided silence, and `H38`** — ⛔ **what anyone makes of it is Phase 9's, not this phase's** · **§B.3's two layers** |
 | ⭐⭐ **Phase 7 — Order** | ⭐⭐⭐ **§D: the failure of the central promise CANNOT BE STATED, so it cannot be governed** — **an order phase needs to know that shortfall has no admissible form** · **`H35`: whether anything codifies the record-rule** |
 | ⭐⭐ **Phase 8 — Making** | **§A.2's proposition bounds what counts as a made thing's warrant** · ⚠ **Phase 3's lapse bias on what origin material survives** |
 | ⭐⭐ **Phase 10 — Catalog** | **§E's three observances need names, dates and forms — ⛔ none written here** · ⚠ **the `00b` guard travels with E.3** |

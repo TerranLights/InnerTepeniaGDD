@@ -69,7 +69,7 @@ wrong.**
                        · threshold 3→4 — mandatory decomposition into sub-locations  → DEFERRED
                        · threshold 4→5 — distributional analysis (spread, modes)     → DEFERRED
                      This pass writes base-level fundamental facts AT a declared Band 5 WITHOUT
-                     performing Band 5 distributional analysis. Suspended, not cancelled.
+                     performing Band 5 distributional analysis. Suspended, not canceled.
                      ⛔ No finding in this pass may be presented as a distributional result.
 
 **Extent band:**     UNDETERMINED — a BLOCKED CHECK, not an absence. Filed as REQUESTED.
@@ -96,7 +96,7 @@ wrong.**
                      21 June 2564 — simultaneously this frame's Opening Image. The same event
                      serves as both bookends.
                      Following: the Long Night War, 2812. THIS PASS SITS ENTIRELY BEFORE IT.
-                     ACTS: the frame spans BOTH and is MOSTLY ACT 2 (Act 1 ≈ the first 18%).
+                     ACTS: the frame spans BOTH and is MOSTLY ACT 2 (Act 1 is the earlier part, a hazy range not yet dated).
                      EPISTEMIC HORIZON — the frame's real work: residents know the Arcanet as
                      functioning, Amundsen Tower as completed (~2688) and operating, and orbital
                      migration as a lived event. ⛔ The Long Night War and the Planetary Split
@@ -174,14 +174,12 @@ have the modifier, not a pull toward assigning it*** — *"commonly assigned"* f
 *"under-used"* must mean its questions go unworked. **With that support removed, NO FORCED FIT's first direction
 is unopposed.**
 
-**Three independent grounds, any one sufficient — ⛔ AND THE FIRST HAS SINCE BEEN OVERRULED. See the box below.**
-1. ~~**The modifier's obligatory question is *"what did the second population inherit, misread, or fail to notice
-   about **the first**?"*** — and the only route to a "first population" here runs through the real station's
-   prior occupancy, which **GPS-purposes-only** excludes.~~ ⛔⛔ **STRUCK 2026-09-14 — `DR-7`. THIS GROUND IS NO
-   LONGER GOOD LAW.** ***The GPS law does NOT exclude the record a prior lineage left behind***; the test is
-   whether the material *"would still be here if the originating nation had left and never returned."*
-   ⚠ **The verdict below is unaffected — it survives on grounds 2 and 3, either of which is sufficient — but a
-   later reader inheriting this ground would inherit a wrong reason for a right answer.**
+**Three independent grounds, any one sufficient.**
+1. **The modifier's obligatory question is *"what did the second population inherit, misread, or fail to notice
+   about **the first**?"*** — and there is no first population at Davis. **A real station's prior occupancy is
+   a coordinate, never a population** (`DR-19`, `DR-28`). What the station left behind is **records** —
+   journals, logs, orientation manuals — and its infrastructure (`DR-24`, `DR-25`); **`DR-7` admits those
+   records as inputs, not their keepers as a people.**
 2. **`Specs/Davis.md` L127 resolves it in canon:** the documentary inheritance is a **founding-era starting
    point, explicitly superseded** — *"the exiles still built their own practical mastery of the terrain
    independently, over generations of their own."* **A type modifier is a whole-frame property that installs an
@@ -368,8 +366,8 @@ case, not the exception** — *"a methodology that assumes top-down order will n
 | **Step 2** | ⭐ The `G2`×`G4` conflict: **a documentary inheritance without a living institution, against ~400 km² of exposed rock and a −10.0 °C mean** |
 | **Step 3** | **Create `Davis_Research_Log.md`** — verified absent; `G7`'s research half is unbuilt. `LAW 0-R` binds |
 | **Step 5** | **First opening** of `Local_Cultures/` and `Local_Robot_Culture/`, as a CHECK |
-| ⚠ **Developer — PARTLY RULED** | `01` §1.2 — does `Resettled` require a prior resident **POPULATION** or merely prior **OCCUPANCY**? *(Settles most of the 38-city run — nearly all sit on real station sites)* ⭐ **`DR-7` (2026-09-14) removes the GPS OBSTACLE to answering it** — inherited material is admissible — **but does not itself answer the §1.2 question.** ⛔ **Still open, and now open on its own terms rather than as a GPS question** |
-| ⏸️ **Developer** | `01` §1.1's *"expect this doubling"* (`Settlement + Installation`) **collides head-on with the GPS law for every Tepenian city founded on a real station.** Twice-evidenced, methodology-level |
+| ✅ **Developer — RULED** | `01` §1.2 — `Resettled` requires a prior resident **POPULATION**; **a real station's prior occupancy is never a prior population** (`DR-19`, `DR-28`). The modifier stays open only for an in-world Tepenian prior population. `DR-7` admits the station's records as inputs; it does not make their keepers a population |
+| ✅ **Developer — RULED** | `01` §1.1's *"expect this doubling"* (`Settlement + Installation`): **no city is typed `Installation` because a station stood at its coordinates** (`DR-28`) |
 | ⏸️ **Developer** | **RWBEM Step D still commands reading `City_Vision_Notes/` as "PRIMARY AND UPSTREAM"** after `00.1a` struck that root corpus-wide. **A pass following the method opens a struck root** |
 | ⏸️ **Developer** | The **second one-sentence test** *(§0.3)*, and the two `triple_read_verify.py` defects *(§0)* |
 

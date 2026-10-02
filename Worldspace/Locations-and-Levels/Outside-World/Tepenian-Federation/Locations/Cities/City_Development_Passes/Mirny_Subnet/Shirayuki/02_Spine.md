@@ -4,7 +4,7 @@
 `01_Inherited.md`.* ⛔ **No research yet** — `Step 3` is aimed at what this step names.
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **`00_RUNBOOK.md`: *"This is the step everything else hangs on."***
 
@@ -78,7 +78,7 @@ used** — the later three-tier model, and the one `FREE 47.3%` comes from.
 |---|---|
 | **STRENGTH** | ⭐⭐ **`47.3%` OF THE WORKFORCE IS UNSPOKEN-FOR** — `420,886` people. **Canon's own name for it: *"the character budget."*** · ⭐ **And it is broad**: research, arts, and the cluster's commercial trade are ALL free · **the mandated sector is a university** |
 | **DEFICIT** | ⭐ **It has no material lever.** *`16`: the arts export is **a reputation** — "the nation is poorer without it and **not MATERIALLY harmed.**"* ***A city whose national contribution cannot be withheld has nothing to withhold*** · **the mandate is a single sector** |
-| **STANDING COST** | ⭐⭐⭐ **`40.9%` BASELINE — THE COLD-TAX, IN LABOR.** *`09` §3.5: baseline is "what keeping people alive costs," and **it cannot change.*** **Against a real-world modern-US comparable of `~29%`, this city carries `+6.4` points of pure existence-maintenance, forever** · ⚠ **plus `11.8%` mandated education — continuous, imposed, and NOT physical** |
+| **STANDING COST** | ⭐⭐⭐ **`40.9%` BASELINE — THE COLD-TAX, IN LABOR.** *`09` §3.5: baseline is "what keeping people alive costs," and **it cannot change.*** **Against a real-world modern-US comparable of `~29%`, this city carries `+11.9` points of pure existence-maintenance, forever** · ⚠ **plus `11.8%` mandated education — continuous, imposed, and NOT physical** |
 | **GRUDGING TOLERANCE** | ⭐ **Working in the free tier at all.** *`47.3%` do.* **But `09` §3.5 states the standing qualification: the margin is an UPPER BOUND, and the correction is largest at robot-majority cities** — ⛔ **and this city is `53.85%` robot.** ***The character budget is smaller than it looks*** |
 
 ## 2c · `G4` — FOUNDING CONDITION *(the absences are the yield)*
@@ -92,14 +92,14 @@ them rather than being fought over on arrival."*
 | Absence | Why it is permanent |
 |---|---|
 | ⭐⭐ **Without a founding negotiation** | **Nobody in the founding generation ever had to make the case for being here.** *The argument was had by other people, on another continent, about somebody else* |
-| ⭐ **Without a predecessor** | **The site had never been occupied.** *No handover, no one to ask about the ground. Every lesson first-hand* |
+| ⭐ **Without people to hand it over** | **The city's own history begins in 2564; it inherited buildings and records** *(`DR-24`, `DR-25`)*, **not people.** *No handover in person. Whatever the records do not say about the ground is learned first-hand* |
 | ⭐ **Without having chosen** | *The site was **assigned**. The founding generation's relationship to the place begins with someone else's decision* |
-| **Without a founding hardship** | *The buildings were standing and empty.* ***There is no arrival story in which anything was overcome*** |
+| **Without a founding hardship** | *The buildings were standing and the claim was already settled.* ***There is no arrival story in which anything was overcome*** |
 
 | Quadrant | |
 |---|---|
 | **STRENGTH** | **Legitimacy requiring no defense** · **a running start on complete infrastructure** |
-| **DEFICIT** | ⭐⭐ **NO FOUNDING ARGUMENT.** *A city that never had to argue for itself has no rehearsed account of why it should exist — and when one is eventually needed there is nothing to reach for* · **no inherited site knowledge** |
+| **DEFICIT** | ⭐⭐ **NO FOUNDING ARGUMENT.** *A city that never had to argue for itself has no rehearsed account of why it should exist — and when one is eventually needed there is nothing to reach for* · **site knowledge only from the inherited records, never from the people who made them** |
 | **STANDING COST** | ⚠⚠ **THIN.** *A claim settled by treaty does not need renewing. **Nothing about this founding obliges anyone to do anything continuously*** |
 | **GRUDGING TOLERANCE** | ⭐ **Asking why you are here.** *Nobody forbids the question. The answer is "a court on another continent decided, for reasons about somebody else"* — **permitted, and it costs something to look at squarely** |
 
@@ -320,4 +320,4 @@ so it is unlocked.**
 ---
 
 📎 **Next piece: `03_Research.md` — Step 3, Research aimed at what Step 2 named.**
-📎 `00_Frame.md` · `01_Inherited.md` · `09.5_Log.md` · `_Archive/2026-09-06_pre-consolidation/` · `DRQ-10/11/12/13`
+📎 `00_Frame.md` · `01_Inherited.md` · `09.5_Log.md` · `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/` · `DRQ-10/11/12/13`

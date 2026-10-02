@@ -3,7 +3,7 @@
 **Run 2026-09-06 · re-run and consolidated 2026-09-06.** **Piece 12.**
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *What is life here like for each distinct kind of person present, and how do those kinds relate?*
 
@@ -272,7 +272,7 @@ unified city's name is OPEN CANON and is not invented here.**
 
 | ⛔ What the law blocks | ✅ What it never blocked |
 |---|---|
-| **the real SITE's operator nationality and its lineage** *(`DRQ-14` records a live violation of this in canon)* | ⭐⭐ **THE CITY'S OWN ETHNIC CHARACTER, which comes from its FOUNDING POPULATION and is canon** |
+| **the real SITE's operator nationality and its lineage** | ⭐⭐ **THE CITY'S OWN ETHNIC CHARACTER, which comes from its FOUNDING POPULATION and is canon** |
 
 > ## ***THE LAW EXISTS SO A CITY IS CHARACTERIZED BY WHO LIVES THERE, NOT BY WHOSE STATION IT OCCUPIES.***
 

@@ -4,7 +4,7 @@
 Phase 1 = `02_Spine.md`. This is the first written phase.*
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *Who is actually here, in what proportion, from where — **and by what route did they come to be
 > here?***

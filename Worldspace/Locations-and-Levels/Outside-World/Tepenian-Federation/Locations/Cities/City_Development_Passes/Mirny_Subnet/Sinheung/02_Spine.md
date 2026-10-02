@@ -37,7 +37,7 @@
 
 | | |
 |---|---|
-| **What it is for, on its own terms** | **Heavy industrial fabrication** — `45%`, *the corpus's highest single sector* `[Column-3 tag: project-internal derivation]`. *Raw materials in, finished goods out, at volume* |
+| **What it is for, on its own terms** | **Heavy industrial fabrication** — `45%`, *this city's dominant sector* `[Column-3 tag: project-internal derivation]`. *Raw materials in, finished goods out, at volume* |
 | **What its parent needs from it** | ⭐⭐ **TWO NATIONAL SINGULARITIES.** *(1) **the Cradle chambers** — the apparatus robots come into existence in, **one of only two cities that make them**, shipped nationwide so a robot can be built anywhere. (2) **the Institute** — one of three sources of ALL trained care personnel, and the source of **all robotic care*** |
 
 > ## ⭐⭐⭐ THE DIVERGENCE IS THE GENERATOR, AND HERE IT IS SHARP
@@ -64,13 +64,11 @@ era began, in a three-way agreement among regional peers.**
 | **STANDING COST** | **A title held by external instrument rather than by possession or use.** *What validates the claim is a court's decision, not anything the city does* |
 | **GRUDGING TOLERANCE** | ⭐ **Being here without being of the founding stock.** *Nothing excludes you; the founding story simply is not about you* |
 
-> ### ⭐⭐⭐ THE SECOND ABSENCE, AND IT IS THE SHARPER ONE
-> ***They did not name their own city.*** **"Soyuz" was a placeholder carried over from the physical station's
-> namesake — canon: *"never actually chosen by the community it was attached to."*** **It stuck, and it stuck
-> for a long time.**
-> ⭐ **This deficit is the ONE that was actually remedied** — *the city is now Sinheung, 新興, **"newly rising /
-> emerging,"** a name its founders would recognize as theirs.* ⚠ **A remedied deficit is still a `G4` finding:
-> it tells you what the founding lacked and what it took to close.**
+> ### ⭐ THE NAME IS A NAMING FACT, NOT A FOUNDING FINDING
+> **"Soyuz" was a working placeholder that the spec says was carried over informally from the physical
+> station's namesake — canon: *"never actually chosen by the community it was attached to."*** **The city is
+> now Sinheung, 新興, *"newly rising / emerging."*** ⛔ **No `G4` quadrant rests on the name.** ***The founding's
+> absence is the allocation's: a title settled by a court before anyone arrived.***
 
 ## `G5` · NETWORK POSITION — *direction and volume, not adjacency*
 
@@ -137,11 +135,11 @@ loss**.* ⛔ **And the `−10%` is an authoring adjustment, not an event.**
 |---|---|
 | **`G2`** | **It does not stand on its own rock.** *Mostly ice; the oasis is `~34–40 km²`, shared, and this city alone needs `96–137 km²`* |
 | **`G3`** | **It does not own the design.** *Mark IV belongs to Neumayer* |
-| **`G4`** | **It did not win its site — or, for a long time, name itself.** *A court granted the ground; a placeholder supplied the name* |
+| **`G4`** | **It did not win its site or its title.** *A court granted both before anyone arrived* |
 | **`G5`** | **It does not have its own materials, or a usable shore.** *Feedstock arrives by truck* |
 
 > # ⭐⭐⭐⭐ **ALMOST NOTHING THIS CITY WORKS WITH ORIGINATED HERE.**
-> **Its ground, its design, its materials, its title and originally its name all came from somewhere else.**
+> **Its ground, its design, its materials and its title all came from somewhere else.**
 > ⚠ ***This is a four-generator agreement across physical, functional, founding and network classes — which is
 > the strongest form of grounding the method produces*** *(`02` §5: agreement across independent generators is
 > grounding, and these four were run separately before being compared)*.
@@ -203,7 +201,7 @@ and that is a finding rather than a gap.**
 outpost on life support whose identity has quietly become its own maintenance.* ⛔ **This one pays an enormous
 imposed cost AND supplies the nation with two things nobody else can supply.**
 
-> # ***THE SPINE:*** **A CITY THAT OWNS ALMOST NOTHING IT USES — NOT ITS GROUND, NOT ITS DESIGN, NOT ITS MATERIALS, NOT AT FIRST EVEN ITS NAME — AND WHOSE ONE SELF-MADE POSSESSION IS A STANDARD OF WORTH WITH NO OFFICE, NO AUTHORITY, AND NO APPEAL.**
+> # ***THE SPINE:*** **A CITY THAT OWNS ALMOST NOTHING IT USES — NOT ITS GROUND, NOT ITS DESIGN, NOT ITS MATERIALS, NOT EVEN ITS TITLE — AND WHOSE ONE SELF-MADE POSSESSION IS A STANDARD OF WORTH WITH NO OFFICE, NO AUTHORITY, AND NO APPEAL.**
 > ⭐ **It carries a cost the ground imposes and a duty the nation depends on, and the only thing it can call
 > its own is how well it does the work.**
 
@@ -223,7 +221,7 @@ down anywhere it could be copied from.*** ⏸️ **A candidate reading, not adop
 | **No usable east shore** | **NOWHERE AT ALL** | *The wind is permanent* |
 | **No design credit** | **SINGLE ADDRESS** — *named, reachable* | ⭐ *"A grievance is a relationship that can eventually be acted on — this is the best case."* ⚠ **But no grievance is written. The city holds the deficit without resenting it, and that is itself a finding** |
 | **No material base** | **SINGLE ADDRESS** — *inbound by road* | *Addressed, functioning, and permanent* |
-| **No self-given name** | ⭐ **IN ITS OWN PAST — AND REMEDIED** | *The rare case of a deficit that was actually closed. The remedy was historical and it was taken* |
+| **A title it did not win** | **NOWHERE AT ALL** | *The allocation was settled before the arrival, and a founding cannot be re-won.* ⭐ **The same instrument that leaves nothing to have won makes the claim unimpeachable** |
 | ⭐⭐ **The founding story reaches a third of the city** | ⛔⛔ **DIFFUSE** | **See below — this is the strongest address finding** |
 
 > ## ⛔⛔ THE DIFFUSE ONE IS NOT MERELY UNADDRESSED — **it is UNSPEAKABLE**
@@ -236,8 +234,8 @@ down anywhere it could be copied from.*** ⏸️ **A candidate reading, not adop
 > occasion on which "the founding story is not about me" would be raised, and no one to raise it to.*
 > ### ***So the deficit is not unaddressed — it has no natural author and no natural occasion.*** **`§4.1`: "that is a much stronger finding."**
 
-**⭐ THE COUNT:** **six deficits · four distinct address types** — *two unremediable, two addressed at named
-counterparties, one remedied in its own past, one unspeakable.*
+**⭐ THE COUNT:** **six deficits · three distinct address types** — *three unremediable, two addressed at named
+counterparties, one unspeakable.*
 ⚠ **`DRQ-11` (the rock allocation) bears directly on row 1 and is OPEN. Recorded as a live dependency;
 this pass does not stall on it.**
 
@@ -255,7 +253,7 @@ Oasis available (SHARED, 3 cities) = ~34–40 km²
 ```
 
 ⛔ **NO INTERPRETATION HERE, per the step.** ⚠ **One statement of fact only: the requirement exceeds the entire
-oasis by `2.6×`–`3.7×` before any sharing, so the city is predominantly not on rock.**
+oasis by `2.4×`–`4.0×` before any sharing, so the city is predominantly not on rock.**
 ⏸️ **`Gate 11` will read this. `DRQ-11` owns the allocation among the three.**
 
 ---

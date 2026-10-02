@@ -1,8 +1,7 @@
 # Davis — Datasheet · Phase 2 (Composition & Arrival)
 
-> ⚠ **DRAFT — Tier C.** `04_Phase_02_Composition_and_Arrival.md` itself has NOT been written yet (deferred to
-> the next restricted-hours window — see the plan's Workstream 1). This datasheet is safe to build ahead of
-> that, since it is mechanical fact only, no synthesis. Two provenance tiers below: **directly verified** (I
+> ⚠ **DRAFT — Tier C.** Built ahead of `04_Phase_02_Composition_and_Arrival.md` *(since written, T8-verified,
+> 2026-09-16)*. Safe to build ahead of the phase, since it is mechanical fact only, no synthesis. Two provenance tiers below: **directly verified** (I
 > read the cited lines myself, this session) vs. **T8-reported** (quoted by today's three Round 1/Round 3
 > readers; not yet independently re-confirmed by me against the primary text at its exact byte range).
 

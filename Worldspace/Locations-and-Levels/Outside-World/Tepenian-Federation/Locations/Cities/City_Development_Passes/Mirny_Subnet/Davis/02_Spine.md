@@ -39,8 +39,8 @@ baseline (`§N.6`).**
 
 > ### ⭐ AND DEFECT 8 IS THE ONE WORTH THE MOST
 > **It did not originate with any reader. It was handed to all three IN THE DISPATCH BRIEF as an established
-> bound**, inherited from `00_Frame.md` §0.7. ⛔ ***L143 contains no self-understanding at all, and calls the
-> research half a `heritage`.*** **Two readers killed it independently — one by reading the line closely, one by
+> bound**, inherited from `00_Frame.md` §0.7. ⛔ ***L143 contains no self-understanding at all; both of its
+> clauses are parent-facing.*** **Two readers killed it independently — one by reading the line closely, one by
 > showing the two roles are a single method.**
 > ## ***A reader given a false premise as an established fact refused it on the source. That is the strongest single result this protocol has produced.***
 
@@ -356,8 +356,7 @@ register for all three.**
 while the polity above them requires calories."*
 
 > # ⛔ **KILLED. L143 contains no self-understanding at all.**
-> **Its own word for the research half is *"heritage"* — an inheritance, not an identity — and BOTH clauses are
-> parent-facing:** *"Tepenia's breadbasket"* and *"a prime… research hub"* **both say what Davis is FOR, to
+> **BOTH clauses are parent-facing:** *"Tepenia's breadbasket"* and *"a prime… research hub"* **both say what Davis is FOR, to
 > somebody else.** ⭐ **Killed twice, independently: once by reading the line closely, once by showing the two
 > roles are two depths of one method rather than two tribes.**
 >
@@ -434,7 +433,7 @@ sentence in this file has been checked; none connects Davis's ground or its agri
 
 | Clause | Seated on | Why it cannot be dropped |
 |---|---|---|
-| ***assigned both of its vocations*** | `G3` — L143's two parent-facing roles and the word *heritage*; corroborated by **35 against 25** | **Removes the election presumption at site (i)** and kills the two-tribe reading |
+| ***assigned both of its vocations*** | `G3` — L143's two parent-facing roles; corroborated by **35 against 25** | **Removes the election presumption at site (i)** and kills the two-tribe reading |
 | ***did not choose its remaining population*** | `G8` — the census records a destination, not a gate | **Removes the election presumption at site (iii)** — the half that would have flattered the city |
 | ***its METHOD is its own*** | `G4` — *"the exiles still built their own practical mastery of the terrain independently, over generations of their own"* | ⭐ **The ONLY thing in the admitted set canon attributes to the people here rather than to an inheritance or an assignment** |
 | ***a landscape no document could describe*** | `G2` × `G4` *(§3.1)* | **The method is not a temperament — it is forced by a specific property of this specific ground** |

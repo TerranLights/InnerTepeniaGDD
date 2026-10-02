@@ -30,7 +30,7 @@ reaching for it here would be ornament.
 | ⭐⭐ **`09_Per_City_Baseline_Run.md`** | **All 270 lines, incl. §3.5 THE FREEDOM MARGIN and §5's workforce ruling** | This city's own D, the formula, and the finding §3.5 itself says *"should reach the culture work, which will never open a Division of Industry calculation file"* |
 | ⭐⭐⭐ **`11_Caloric_Rebuild_and_Livestock_Tier.md`** | **All 385 lines, read in full** | ⛔ **It SUPERSEDES `09`'s food rate (53 → 120.7) and therefore this city's own baseline figure.** Plus the marine finding, which collides with the authorial vision — see §4.4 |
 | ✅ **`National_Medical_and_Care_Institutes.md`** | **All 245 lines** | Robot-care turnover is voluntary where human turnover is mortality; the residential-cohort structure; this city's own training flow |
-| **P `National_Economy_and_Currency.md`** | **All 54 lines** | ⭐ **In-frame the currency is energy — "a unit redeemable for a fixed amount of guaranteed grid capacity."** The single most load-bearing fact in this phase |
+| **P `National_Economy_and_Currency.md`** | **All 54 lines** | ⛔ **Nothing about what the money is backed by is settled** — no finding in this phase rests on a backing, a unit or a mechanism |
 | **`16_Per_City_Three_Tier_Run.md` §18** | Reopened | `D = 1.25`, GROWER, food term 100%; the FREE tier at 43.4% |
 | ⛔ **`City_Logistics.md`** | **NOT opened — correctly.** Removed from this phase 2026-09-06 (`M-152`): scoped to one named city's own logistics, so registering it as a general per-location target was wrong. **Not re-added** | — |
 | ⚠ **`Local_Cultures/…/Zhongshan.md`** | Still read-last — opens at Step 5 as a check | — |
@@ -60,7 +60,7 @@ else.** Everything below is about them.
 > the interesting part."* **This city spans the `4↔5` threshold (`00_Frame.md` §0.1c), so this is the correct
 > instrument.** Four items. All four are physical, and none of them is anybody's job.
 
-## 1 · The night is metered, and the meter is the currency
+## 1 · The night is metered
 
 **Two facts collide, and neither was written with the other in mind:**
 
@@ -69,16 +69,13 @@ else.** Everything below is about them.
 | **Robots must recharge overnight** — a physiologically real requirement, not a convention (`Robot_Physiology…`) | And **charging a cold cell below freezing causes lithium plating — permanent, irreversible capacity loss** (`Robot_Cold_Physiology.md` §1) |
 | **This city's monthly mean is below freezing in eleven months of twelve** — only January (`+0.2 °C`) is above, and December (`−0.5 °C`) misses by half a degree | ⭐ **Therefore warmed charging space is not a convenience here. It is the ordinary condition of every night, for eleven months a year** |
 
-**And the third fact makes it legible:** in-frame, the currency *is* energy — *"a unit redeemable for a fixed
-amount of guaranteed grid capacity"* (`National_Economy_and_Currency.md`). **So the warmth a robot needs in
-order to charge without damaging herself is denominated in the same unit as her wages.**
+**And the third fact makes it legible:** the warmth a robot needs in order to charge without damaging herself
+is drawn from the city's own power, every night, and paid for like any other necessity. **What the money
+itself is backed by is not settled in canon (`National_Economy_and_Currency.md`), and nothing here rests on it.**
 
-> ### ⭐⭐ THE ORDINARY NIGHT HAS A PRICE, AND EVERYONE CAN READ IT IN THE UNIT THEY ARE PAID IN.
-> **This is not a robot fact.** The dual economy runs both halves off the same regulated grid — *"human
-> heating/food/water systems and robot siligel production/component maintenance both ultimately traced back to
-> the same regulated grid."* **A human household is heated on the same meter, in the same unit, for the same
-> eleven months.** ⭐ ***It is the one recurring cost that every single resident of both kinds pays, nightly,
-> in the same denomination.***
+> ### ⭐⭐ THE ORDINARY NIGHT HAS A PRICE, AND EVERYONE PAYS IT.
+> **This is not a robot fact.** **A human household is heated from the same power, for the same eleven
+> months.** ⭐ ***It is the one recurring cost that every single resident of both kinds pays, nightly.***
 
 ## 2 · The cheap hours are the dark, loud ones — and everyone is already in them
 
@@ -89,12 +86,12 @@ maximal speed at mid-night, and then decreases before the next noon"* — and th
 ```
 WIND PEAKS      → midnight
 GENERATION PEAKS → midnight
-PRICE TROUGHS   → midnight          (the currency is grid capacity)
+PRICE TROUGHS   → midnight          (power is most plentiful)
 THE CITY IS ALREADY AT REST         → midnight   (the shared night)
 ```
 
 > ### ⭐⭐⭐ **THE CHEAPEST HOUR OF THE DAY AND THE HOUR THE WHOLE CITY IS PLUGGED IN ARE THE SAME HOUR, AND NOBODY ARRANGED THAT.**
-> **It falls out of the wind's own diurnal cycle meeting an energy-denominated currency.** *Rest is
+> **It falls out of the wind's own diurnal cycle meeting the price of power.** *Rest is
 > cheap here for a reason that has nothing to do with anyone deciding rest should be cheap.*
 
 ⚠ **And the inverse is the constraint that actually bites:** **midday is when power is dearest** — the wind has
@@ -203,7 +200,7 @@ the gap invisible to everyone inside it because nobody eats macronutrients, they
 ## What the marine sector actually is, then
 
 **Single-digit percent of a `15%` sector is food capture.** The rest is what a working harbor on a coast with
-**no designated anchorage or barge landing**, a **~Jan–Mar sea window**, and **one annual resupply ship** actually
+**katabatic-driven ice debris offshore**, a **constructed port with a ~Nov–Mar window** (`Ports.md` §5.6c) actually
 requires: harbor and small-boat operation, ice observation, marine science, processing and preservation
 (`11` names `B1e processing & preservation` as *"the entirely missing industry"*), and the shore-side handling
 of a catch that is landed for protein rather than for tonnage.
@@ -348,7 +345,7 @@ middle of the night.**
 
 | The one-sentence test | *"Power is cheapest at midnight because that is when the katabatic peaks, so rest, recharging and the growing lights all crowd into the loud dark, and the calm, expensive middle of the day is when people go outside."* **Delete every other city's name — it survives, and names no other place** |
 |---|---|
-| Checked against the differentiation instrument | The axis is not "a cold city with expensive power" (portable). It is **a city whose rest cycle and cheap-energy cycle coincide by physics** — which requires this wind, on this diurnal clock, under an energy-denominated currency |
+| Checked against the differentiation instrument | The axis is not "a cold city with expensive power" (portable). It is **a city whose rest cycle and cheap-energy cycle coincide by physics** — which requires this wind, on this diurnal clock |
 
 ---
 
@@ -361,7 +358,7 @@ middle of the night.**
 
 | Finding | Tag |
 |---|---|
-| ⭐ **The ordinary night is metered, and the meter is the currency** — warmed overnight charging is the universal nightly condition for eleven months, and it is denominated in the same unit as wages, for both populations | genuinely emergent · deep |
+| ⭐ **The ordinary night is metered** — warmed overnight charging is the universal nightly condition for eleven months, and heating is a nightly cost for both populations | genuinely emergent · deep |
 | ⭐⭐ **The cheapest hour and the hour the whole city is at rest are the same hour, and nobody arranged it** — wind peak → generation peak → price trough → the shared night | genuinely emergent · deep — **the phase's headline** |
 | ⭐⭐ **The food you can name is not the food that feeds you** — fishing supplies two-thirds of the protein and a sixth of the calories; the authorial vision and the caloric arithmetic are about different objects and both stand | genuinely emergent · deep — **a both-are-true resolution, not a kill** |
 | **The cold here is a cost, never a gate** — measured against the cold file's own thresholds, lubricant failure, embrittlement and the death spiral never fire; capacity reduction and cold-charge plating do | canon-derived · deep |

@@ -6,7 +6,7 @@
 record, and the log is where a later session re-checks a claim against its source.*
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **`3.1` — the technique:** *"the profile says what the place **cannot do**; it does not say what the missing
 > thing **looks like**. Find a real culture that has it, and the contrast writes the finding."*
@@ -14,7 +14,7 @@ record, and the log is where a later session re-checks a claim against its sourc
 > become visible until the third pick, §B's load-bearing detail came from the sixth, and §A's central finding
 > came from GOING BACK to a pick already logged as covered.**
 
-**20 searches across four sessions · 15 productive · 1 dead end · 1 blocked-then-rescinded · 1 near-duplicate.**
+**24 searches across four sessions · 20 productive · 1 dead end · 1 partial · 1 blocked-then-rescinded · 1 near-duplicate.**
 
 ---
 
@@ -378,7 +378,7 @@ design.* **→ Phase 9 / canon.**
 | **What the scene is made of** | **the unplaceable** | ⭐⭐⭐ **the DIVERTED** |
 
 > # ⭐⭐⭐⭐⭐ **THE NATION PAYS TO GATHER TALENT AT SHIRAYUKI. SHIRAYUKI KEEPS SOME OF IT.**
-> ***A national investment with a local leak — and canon says the leak is the KNOWN ROUTE, travelled
+> ***A national investment with a local leak — and canon says the leak is the KNOWN ROUTE, traveled
 > deliberately, by people who came for it.*** **That is not benign neglect, and it is nobody's policy.**
 
 ---

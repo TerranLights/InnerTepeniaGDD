@@ -58,7 +58,7 @@
 **`G8` (demographic composition) — primary**, and for the first time in this pass it is *dynamic*: the
 composition changes inside the frame *(§9.1)*.
 **`G2` (physical/environmental)** — the salt load, the gale count, the ground.
-**`G5` (network position)** — the Institute next door; the Kunlun kinship tie; the orbital exit.
+**`G5` (network position)** — the Institute next door; the Kunlun census-tier tie; the orbital exit.
 **`G4` (founding condition)** — the two arrival modes, and the door that opened one way.
 **`G1` — RE-CHECKED, NOT SKIPPED.** Saturn + Metal, **IRONIC**. ⭐ It corroborates §9.3's finding — *a city
 comfortable with never being fully known, whose defining social fact is a thing nobody says out loud* — and
@@ -185,7 +185,7 @@ the inversion. The inversion is in the retention rates themselves.**
 | **Salt is never washed off by weather. Crystallization stress runs `10–20 MPa`; hydration expansion up to `300%`** | `03_Research.md` §3.3, sourced |
 | **`174` gale days a year, maximum recorded `43.6 m/s`** | Research Log, Session 4 |
 | **`A4` construction and structural maintenance is a standing labor category whose arithmetic is a permanent loss** | `04_Phase_07` §7a.4 |
-| **`89–92%` of the city stands on ice, with an apron that is re-levelled on a schedule** | `00_Frame.md` · `05` §3 |
+| **`89–92%` of the city stands on ice, with an apron that is re-leveled on a schedule** | `00_Frame.md` · `05` §3 |
 
 > ## ⭐⭐⭐⭐ **SO ROUGHLY HALF THIS CITY'S POPULATION CAN HEAR ITS BUILDINGS FAILING, CONTINUOUSLY, AS A MATTER OF ORDINARY PERCEPTION — AND THE OTHER HALF CANNOT.**
 >
@@ -244,7 +244,7 @@ city is used as a baseline and no ranking is drawn.**
 
 ### ⛔ And the Watchers' collision, handed forward by Phase 6, lands on a person here
 
-**Phase 6 established the shape: this city's kinship tie runs to Kunlun; Kunlun is the congregation point of
+**Phase 6 established the shape: this city's census-tier tie runs to Kunlun; Kunlun is the congregation point of
 Polydimensional Animism's Watchers; Polydimensional Animism welcomes humans as equals; Kunlun forbids human
 presence as a safety measure.**
 
@@ -328,7 +328,7 @@ Phase 7 7a.5  :  The desirable address and the cheap address are the same addres
 
 > ## ⭐⭐⭐ **A HUMAN AND A ROBOT ON THE OLD ROCK SHARE SOMETHING NEITHER SHARES WITH THEIR OWN KIND ON THE APRON.**
 > **The gradient runs straight through both populations and does not bend for either.** ⭐ **Against an address
-> that decides what your maintenance costs, whether your ground is re-levelled on a schedule, and whether your
+> that decides what your maintenance costs, whether your ground is re-leveled on a schedule, and whether your
 > building is in the `8–11%` that never needs rebuilding — human-or-robot is the quieter fact.**
 
 ## 9.3c — ⭐⭐⭐⭐ AND THE REASON IT BITES ASYMMETRICALLY IS ARITHMETIC, NOT TEMPERAMENT
@@ -353,7 +353,7 @@ Phase 7 7a.5  :  The desirable address and the cheap address are the same addres
 ### ⭐⭐ And Ch. 13's own mechanism makes it sharper still
 
 **Ch. 13 seats robot identity in *"same city, same struggles, same life-goals."*** ⭐ **In a city where the
-struggles are literally different by address — a re-levelling schedule, a maintenance bill, a seal that got
+struggles are literally different by address — a re-leveling schedule, a maintenance bill, a seal that got
 salt in it — *"same city"* has a sub-unit that Ch. 13's mechanism can see.**
 
 > ## **THE ROCK AND THE APRON ARE TWO LOCALITIES INSIDE ONE LOCALITY, AND THE LENS THIS PHASE DECLARED IS EXACTLY THE LENS THAT DETECTS THEM.**
@@ -451,7 +451,7 @@ adjustment preserved the ratio and therefore cannot account for it.*
 
 ## **THE ADDRESS OUTRANKS THE SPECIES.**
 
-**In a city where `8–11%` of the ground never needs rebuilding and the rest is re-levelled on a schedule, which
+**In a city where `8–11%` of the ground never needs rebuilding and the rest is re-leveled on a schedule, which
 ground a person stands on decides more about their life than which kind of person they are — and it presses
 harder on the half of the population that has one fewer identity axis to spread it across.**
 
@@ -464,7 +464,7 @@ rock fraction, its own density, its own salt and wind, and canon's own three-ver
 
 | To | What |
 |---|---|
-| **Phase 10 — CATALOG** | ⭐ **The rock/apron seam as enterable, walkable geography** — a street where the foundation changes · a re-levelling schedule as a nameable posted object · **a wall a robot can hear and a human cannot**, as a scene rather than an exposition · the maker's mark · **role-archetypes only, no invented names** |
+| **Phase 10 — CATALOG** | ⭐ **The rock/apron seam as enterable, walkable geography** — a street where the foundation changes · a re-leveling schedule as a nameable posted object · **a wall a robot can hear and a human cannot**, as a scene rather than an exposition · the maker's mark · **role-archetypes only, no invented names** |
 | **Step 5 — RECONCILIATION** | ⛔ **`Local_Robot_Culture/Mirny_Subnet/Zhongshan.md` is the single most relevant read-last file to this phase** — §9.2a, §9.2d and §9.3c are the findings it will test · the four declared leaks · `DRQ-18` |
 | **Step 6 — DIFFERENTIATE** | **THE ADDRESS OUTRANKS THE SPECIES**, write-only |
 

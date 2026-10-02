@@ -101,7 +101,7 @@ minority of it.***
 
 | | |
 |---|---|
-| **The founding-era build** | ⭐ **ON THE ROCK.** *The Jeju-do court allocated an **ice-free oasis**; that is the thing that made the site worth three separate diplomatic claims* |
+| **The founding-era build** | ⭐ **ON THE ROCK.** *The Jeju-do court allocated an **ice-free oasis**; that is the thing that made the site worth a diplomatic claim* |
 | **Everything after** | ⭐⭐ **ON THE ICE.** *The city needs `96–137 km²` at band density; the whole oasis is `~34–40 km²` and three cities stand on it* |
 
 > # ⭐⭐⭐⭐ **SO THE SEAM IS LITERAL, AND YOU CAN WALK ACROSS IT.**

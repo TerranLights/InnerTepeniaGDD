@@ -15,7 +15,7 @@
 
 | | |
 |---|---|
-| ⛔ **FIRED** | **The American-English scan — FIVE hits, all introduced during the re-run prose** |
+| ⛔ **FIRED** | **The American-English scan — SIX hits, all introduced during the re-run prose** |
 | ✅ **Passed** | **the other fifteen** |
 | ⏸️ **Terminal / not run** | **Gate 5's sibling half · Gate 6's against-siblings half · Gate 10 (= Step 8)** |
 | ⚠ **Limitation found in a gate itself** | ⭐ **Gate 11 is partly TAUTOLOGICAL here — see `G11`** |
@@ -61,9 +61,9 @@ $ grep -nE "\b(STANDING COST|GRUDGING TOLERANCE|capability profile)\b" <17 pass 
 04_Phase_02_Composition_and_Arrival.md:337:GRUDGING TOLERANCE quadrant, and Phase 2 is not that quadrant.**
 ```
 
-⭐ **VERDICT: all seven hits are legitimate.** *Six are row labels inside `02_Spine.md`'s own quadrant tables —
-**the generator's output, correctly labeled as such** — and one is a methodology citation in `03`, one a
-cross-reference in Phase 2.* ⛔ **Zero occurrences inside a claim about the city.**
+⭐ **VERDICT: all seven hits are legitimate.** *Five are inside `02_Spine.md` — four row labels in its own
+quadrant tables and the heading that states their result — **the generator's output, correctly labeled as
+such** — one is a methodology citation in `03`, and one a cross-reference in Phase 2.* ⛔ **Zero occurrences inside a claim about the city.**
 
 ---
 
@@ -135,9 +135,10 @@ distinct objects.*
 
 ## Gate 7 — RESEARCH ACCOUNTING ✅ **PASS**
 
-**Six sessions in `Research_Logs/Shirayuki_Research_Log.md`, with verbatim search strings.**
-**20 searches: 15 productive · 1 dead end *(recorded with the point at which it died — the query, not the
-sources)* · 1 blocked-then-rescinded · 1 partial · 2 near-duplicates.** ⭐ **Every pick recorded as used or
+**Six sessions in `Research_Logs/Shirayuki_Research_Log.md`, with verbatim search strings** *(Session 1 is
+the cold Run 15; this pass's are Sessions 2–6)*.
+**26 searches: 22 productive · 1 dead end *(recorded with the point at which it died — the query, not the
+sources)* · 1 blocked-then-rescinded · 1 partial · 1 near-duplicate.** ⭐ **Every pick recorded as used or
 rejected, and unrun alternatives logged.**
 
 ## Gate 8 — STANDOUT RECORDED ✅ **PASS**

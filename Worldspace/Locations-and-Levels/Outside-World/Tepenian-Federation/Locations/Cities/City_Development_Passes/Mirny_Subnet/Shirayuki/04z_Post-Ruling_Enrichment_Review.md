@@ -4,7 +4,7 @@
 pass against the culture / ethnicity / Acts rulings.** ⭐ **Feeds `Step 5` Reconciliation; does not replace it.**
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **The lens applied:** *station-builder ≠ population origin · composition-then-culture · **stock + divergence
 > operator** · **Act 1 (ethnic-fresh) → Act 2 (properly Tepenian)** · interconnection solidified `~2688` ·
@@ -75,7 +75,7 @@ sits on ICE. `03_Research.md` §C: *nothing on ice gets to be old*.**
 
 | Stratum | Where | Whose |
 |---|---|---|
-| ⭐⭐ **PRE-EXILE** | **on rock** — *the inherited station stock, standing and empty in 2564* | ⛔ ***Nobody's here. Built by people who never came, for a purpose nobody here had*** |
+| ⭐⭐ **PRE-EXILE** | **on rock** — *the inherited station stock, standing in 2564* | ⛔ ***Nobody's here. Built before the exile, for a purpose nobody here had*** |
 | ⭐ **ACT 1** | **on rock** — *what the founding generation added, because rock is where they were* | **the ethnic-fresh era** |
 | **ACT 2** | ⛔ **on ice** — *everything else, rebuilt on a cycle* | **the Tepenian city** |
 

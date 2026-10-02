@@ -33,7 +33,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Zukelli.md` |
+| **Spec** | `../../../Specs/Janbogo subnet/Zukelli.md` |
 | **Local culture** | `../../../Local_Cultures/Janbogo_Subnet/Zukelli.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Zukelli.md` |
 | **Research log** | `../../../Research_Logs/Zukelli_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |

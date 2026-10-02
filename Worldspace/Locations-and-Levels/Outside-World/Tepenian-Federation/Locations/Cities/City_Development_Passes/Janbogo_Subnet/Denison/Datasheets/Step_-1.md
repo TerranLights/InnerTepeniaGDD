@@ -11,7 +11,7 @@
 | Length | 362 lines total | `wc -l`, verified this turn |
 | Identity | Denison | `Specs/Denison.md` L1 |
 
-## Verbatim, admissible header fields
+## Verbatim header fields — admissibility is Step −1's own ruling
 
 ```
 **Based on:** Cape Denison, Commonwealth Bay, George V Land, East Antarctica (~67°00'S, 142°40'E) —
@@ -26,7 +26,9 @@ Tepenian city whose civic identity is built on open pride in environmental extre
 quiet endurance
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, ruins accessible   ⛔ POST-WAR HALF
 ```
-— `Specs/Denison.md` L3–9. **Highway access: Hwy 183.**
+— `Specs/Denison.md` L3–9. **Highway access: Hwy 183.** ⛔ *"founded on the legendary Mawson expedition site"*
+is real-site history — not an input (rule 7; `DR-28`); the Mawson base in **Based on:** is a site fact only. ⛔ *"the
+one Tepenian city whose…"* is a comparison with other cities — not an input (law of one location).
 
 ```
 Note (created 2026-07-05): This file did not previously exist — all of Denison's established lore
@@ -75,6 +77,9 @@ table is reproduced here.**
 the two Census I/II rows above.**
 
 ## Developer Vision Notes — verbatim, in full
+
+> ⛔ **`DR-10`: developer-vision notes are post-ULM — not an input at any step.** Recorded here as a bibliographic
+> fact only. (Whether `DR-10` is corpus-wide is the open question `DR-10a`.)
 
 ```
 # Denison — Developer Vision Notes

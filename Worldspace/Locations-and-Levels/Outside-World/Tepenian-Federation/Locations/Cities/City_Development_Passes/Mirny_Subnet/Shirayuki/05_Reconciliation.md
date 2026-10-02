@@ -15,7 +15,7 @@
 | Source | Status |
 |---|---|
 | ⭐⭐ **`Local_Cultures/Mirny_Subnet/Shirayuki.md`** | **A 32-section Cultural Spec Sheet, 285 lines.** ***Read in full for the first time*** |
-| ⚠ **`Background-Lore/…/Course_of_Events/` — 11 vignettes** | ⛔ **DEMOTED by standing instruction.** ✅ **TITLES ONLY, as prompts — contents not opened to ground anything** |
+| ⚠ **`Background-Lore/…/Course_of_Events/` — 11 vignettes** | ⛔ **NOT OPENED — not canon, not an input** |
 
 ---
 
@@ -69,11 +69,6 @@ contradictory.**
 > # ***A CITY WHOSE PROPOSITION IS THAT STANDING IS EARNED BY ATTENTION HAS NAMED ITS SIGNATURE SCENE AFTER THE MARK ATTENTION LEAVES.***
 > ⭐⭐ **The pass reached the concept from function — grit, thin gloves, asymmetric wear, technique — and canon
 > had already named it.** ⛔ **Neither derived from the other.**
-
-⚠ **And the vignette titles corroborate from a third direction** *(prompt-tier only)*: **`Ashiato`** ·
-**`The Trail You Leave`** · **`Clean Streets Shared Pride`** · **`One of the Ones Who Left`** ·
-**`Labs Into Galleries`** · **`Nobody's a Stranger Long`**. ⭐ ***"The Trail You Leave" is the same concept
-again, in a third file.***
 
 ---
 
@@ -288,7 +283,6 @@ everything in it that WAS purely a Run-14 conclusion was comparative and is alre
 | **Ph 6 §E — observance candidates** | ✅ **RECONCILED — additive, no collision** *(§1)* |
 | **Ph 8 §B — does the general musical answer collide with the refused named form?** | ✅ **NO COLLISION.** *`Glacier-pop` is a named SCENE; the pass's finding is that the city's musical GEOGRAPHY is inherited from its weather. Different objects* |
 | **Ph 10 §B2 — Zodiac Lens person-shaped results** | ✅ **NONE produced.** *The yields were places, conditions and dispositions; no person-shaped result to fold into Phase 9* |
-| **`01_Inherited.md` obligation 5 — the `Course_of_Events` asymmetry check** | ⚠ **RUN AT TITLE LEVEL ONLY.** *Contents remain DEMOTED and unopened.* ⭐ **Six of eleven titles corroborate existing findings; none contradicts one** |
 
 ---
 
@@ -349,8 +343,6 @@ tags.** ⛔ **No generator vocabulary appears in a claim about the city.**
 
 # 8a · WHAT STEP 5 GENUINELY COULD NOT RESOLVE
 
-- ⛔ **`Course_of_Events` contents** remain unopened and DEMOTED.
-- ⛔ **`Course_of_Events` contents** remain unopened and DEMOTED.
 - ⏸️ **`DRQ-10` · `DRQ-11` · `DRQ-12` · `DRQ-13` · `DRQ-14`** all still open.
 - ⚠ **`§25`'s open question** — *whether the "Alternative Culture" reputation belongs to this city alone* — **is
   canon's own, deliberately left open, and this pass does not touch it** *(it would require reading siblings)*.

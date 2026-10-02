@@ -127,7 +127,7 @@ omissions because it is the phase that asks where everything actually is.**
 | 12 | The seals — on a building and on a body, the same word | `Phase 4` · `Phase 8` §8.4b |
 | 13 | Streets tracking a billion-year-old fold pattern — *"a straight stretch that suddenly doesn't align with the next block"* | `Phase 3`:236 |
 | 14 | The rock/apron seam — a street where the foundation changes | `Phase 9`:467 |
-| 15 | The re-levelling schedule, as a posted object | `Phase 9`:467 |
+| 15 | The re-leveling schedule, as a posted object | `Phase 9`:467 |
 | 16 | The ossuary — metal half legible, calcium half not | `Phase 6`:405 |
 | 17 | The quiet midday when the wind drops, and cannot be scheduled | `Phase 6`:405 |
 | 18 | A wall a robot can hear and a human cannot | `Phase 9`:467 |
@@ -164,8 +164,8 @@ fact-to-finding table)*. **So the technique runs in its post-pass mode.**
 ### ⏸️ And one named unspent pick is recorded, not chased
 
 **`03_Research.md`:46 logs *"the ASMA's Maps A–E (spatial layout, **for Phase 10**)"* as an open thread.**
-**The ASMA document itself WAS fetched and read** *(Research Log Session 3)* **— its governance content became
-`§R-1`/`§R-2`. Its MAPS were not extracted.** ⏸️ **Recorded as the one pick aimed squarely at this phase that
+**The ASMA document itself WAS fetched and read** *(Research Log Session 3)* **for the site's physical facts.
+Its MAPS were not extracted.** ⏸️ **Recorded as the one pick aimed squarely at this phase that
 this pass did not spend**, and what it would supply: **verified spatial layout for named places.**
 
 ---
@@ -188,7 +188,7 @@ this pass did not spend**, and what it would supply: **verified spatial layout f
 | **Cancer** | ⭐⭐⭐ *"Notices who's hurting before they say anything"* → **§9.2a, exactly: half the city hears the buildings failing before anyone reports it** *(sharpened)*. ⭐ *"A hard shell built because what's underneath is soft"* → **the seal layer** *(a THING)*. ⚠ **Register split recorded:** *the DOMESTIC register only half-applies — half this population has no family in Cancer's sense at all* | **sharpened + new + register split** |
 | **Leo** | ⛔⛔ **The strongest null in the run, and the most informative.** *Leo's core need — to be SEEN giving — is precisely what this city's standard refuses* *(`Phase 6`: a thing that works does not need someone's name on it)*. ⭐ **And it has exactly ONE address: the artisan institution, which is the city's own written exception to itself** | **null + one exception** |
 | **Virgo** | ⭐⭐⭐ *"Modesty that doesn't need credit to keep doing the work"* → **`Phase 6`'s finding in another vocabulary.** ⭐ *"Anxiety over details nobody else noticed"* → **the inspection round whose success is finding nothing** *(a SETTING)* | **corroboration + new** |
-| **Libra** | ⭐⭐⭐⭐ **The negative register reads as this city's governance and STRUCTURALLY IS NOT IT.** *"Conflict-avoidance severe enough to let real problems fester"* describes the surface exactly — **and `Phase 7` established there is nobody to avoid.** ⭐ **A player-facing misread worth building on.** ⭐ *"The version most people can actually live with"* → the ASMA's own verbs | **sharpened + corroboration** |
+| **Libra** | ⭐⭐⭐⭐ **The negative register reads as this city's governance and STRUCTURALLY IS NOT IT.** *"Conflict-avoidance severe enough to let real problems fester"* describes the surface exactly — **and `Phase 7` established there is nobody to avoid.** ⭐ **A player-facing misread worth building on.** ⭐ *"The version most people can actually live with"* → the notify-propose-defer verbs of `Phase 7` §7b.5 | **sharpened + corroboration** |
 | **Scorpio** | ⛔ **FULL NULL, two stated reasons.** *(1) The investigation register has no civic landing — this city has no form for naming authorless failure. (2) ⛔ The secretiveness register is `§7.0`'s quarantined territory and is deliberately not reached for* | **null, declared** |
 | **Sagittarius** | ⭐⭐⭐ *"Generosity, especially with knowledge"* + *"a deep love of freedom, for itself and for others"* → **the mandate: `133,907` workers producing people who leave.** ⭐⭐ **A PLACE: the tri-junction — terminus of the longest, emptiest road, jointly held, belonging to nobody** | **new + corroboration** |
 | **Capricorn** | ⭐ **A THING: the rotation that outlived its authors** — *"discipline and follow-through across years, not just moments,"* inherited rather than assigned. ⚠ **A second candidate (long-term planning → the lake record) was generated and REJECTED as redundant with Taurus's** | **new + declared redundancy** |
@@ -235,7 +235,7 @@ not skipped.**
 | **The Warm Rooms** *(working name)* | **At the junction.** Where rides are arranged, because every overland arrival here is a social arrival |
 | ⭐ **The Head of Nella Fjord** | **The constructed port.** *Built and rebuilt at shared cost, season after season, on a four-month window.* **Primary dominion sits on the east shore by `450` meters; this city is on the west** |
 | **The Tri-Cities Airport** | Shared three ways *(`Airports.md` L13)*. **The route by which fabrication-synthesis chambers actually move — by road and air, never by sea** *(`16` §18, developer ruling 2026-09-02)* |
-| ⭐⭐ **The Seam** *(working name)* | **A street where the foundation changes** — rock-founded fabric on one side, re-levelled apron on the other. ⭐ **`Phase 9`'s axis, made walkable** |
+| ⭐⭐ **The Seam** *(working name)* | **A street where the foundation changes** — rock-founded fabric on one side, re-leveled apron on the other. ⭐ **`Phase 9`'s axis, made walkable** |
 | ⭐ **The Misaligned Stretch** *(working name)* | **A straight run of street that suddenly does not line up with the next block** — because both track a `990–900 Ma` fold pattern rather than a plan *(`03_Research.md` Q70)*. ⭐ **Enterable geology** |
 | **Stornes** | **The borosilicate–phosphate ground.** *The boron line is the non-thematic export* *(`Phase 7` §7a.3)*; **the phosphate half is docketed at `R-11`, unresolved** |
 | ⭐ **Lake Stepped · Sarah Tarn** | **Canon-real lakes with retention times of under two years and twenty-one-to-twenty-two years respectively.** ⭐ **The two ends of the portfolio, and the physical subjects of the `LAW G` service** |
@@ -255,7 +255,7 @@ not skipped.**
 | **Seal kit** | **The same word covers a building and a body.** *Salt gets into the first; cold cracks the second* |
 | **Two gloves** | **The heavy pair and the high-gauge pair**, because the weather wants one and the work wants the other, on the same day, on a walk under a kilometer |
 | **Seal-Processing Hook** | ⭐ **Canon item, naming this city** *(`Weapon_Item_Catalog.md`)* — Prydz Bay marine-resource tooling |
-| **Katabatic Vent Charge** | Wind-channelling infrastructure maintenance, for `174` gale days a year |
+| **Katabatic Vent Charge** | Wind-channeling infrastructure maintenance, for `174` gale days a year |
 | **Exile Ration Kit Multitool** | **A Falkland-Treaty-era artifact many families still own.** *In-frame, heirloom-weighted, and the founding wave's object* |
 | ⭐ **A text nobody was taught to read** | **An artifact of the pre-national resident branch.** *"Records can cross as artifacts; instruction cannot"* — ⏸️ **and `DRQ-18` means its provenance is not this pass's to settle** |
 | **Glitch-coolant, many formulations** | **Variety and refinement over raw intensity** *(canon, naming this city)* |
@@ -288,7 +288,7 @@ not skipped.**
 | ⭐⭐⭐ **The metered midnight** | **The wind at its loudest, power at its cheapest, the whole city stationary together, and the growing lights and the residential charge load wanting the same hours** |
 | ⭐⭐ **The quiet midday** | **When the wind finally drops — and it cannot be put in a calendar.** *The only part of the day the weather gives back, and the city's one outdoor pole* |
 | ⭐ **A conversation with a pause in it** | **Someone glances at the nearest reading before answering.** *A visitor reads it as evasiveness. It is how an intention gets formed here* |
-| ⭐⭐ **Standing on the seam** | **One foot on ground that will never be rebuilt, one on ground scheduled for re-levelling** |
+| ⭐⭐ **Standing on the seam** | **One foot on ground that will never be rebuilt, one on ground scheduled for re-leveling** |
 | **The contested window** | **Nobody forbids anything. The meter simply prices it** |
 | ⭐ **A room where half the audience hears more** | **The contemplative tradition, played at the hour the city is at rest, to a `50/50` audience receiving two different objects** |
 | **The berth argument that has no arbiter** | *Three municipalities, one seasonal queue, and Article III.1 declining to say what sits above them* |

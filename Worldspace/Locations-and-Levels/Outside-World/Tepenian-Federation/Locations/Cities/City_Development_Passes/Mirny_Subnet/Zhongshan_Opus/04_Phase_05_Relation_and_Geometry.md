@@ -152,7 +152,7 @@ subject; other eras appear as history or as anticipation, never as undeclared mi
 
 | | Requires | Supplies |
 |---|---|---|
-| **The Federation** | ⭐ **Three quarters of the technical/scientific sector as mandated national output**, owed outward continuously (`16` §18) | Currency *(energy-denominated)*, calendar, law, language family — and **the grid the currency is denominated in** |
+| **The Federation** | ⭐ **Three quarters of the technical/scientific sector as mandated national output**, owed outward continuously (`16` §18) | Currency *(backing not settled, `National_Economy_and_Currency.md`)*, calendar, law, language family — and **the national grid** |
 | **The Mirny subnet** | Little this pass depends on | ⛔ **Arcanet topology and membership — and the relay hardware is in another city.** See `5e` |
 
 ## ⭐⭐ WHERE THEY DISAGREE — and it is not about output, it is about people
@@ -229,8 +229,8 @@ tri-junction itself.**
 > *Prefer a mechanism over a ceremony — derived from the local economy, with no announcement and often no
 > awareness that it has happened.*
 
-**Phase 4 established that the ordinary night is metered, that warmed charging space is the universal nightly
-condition for eleven months of the year, and that the currency is denominated in grid capacity.**
+**Phase 4 established that the ordinary night is metered, and that warmed charging space is the universal
+nightly condition for eleven months of the year.**
 
 > ## **YOU BECOME A RESIDENT HERE WHEN YOU HAVE A WARMED PLACE OF YOUR OWN ON THE METER.**
 > **Not a ceremony, not a registration — an account.** *Nobody announces it, nobody witnesses it, and the
@@ -272,7 +272,7 @@ condition for eleven months of the year, and that the currency is denominated in
 ## The outward direction — because relations are asymmetric and both halves must be written
 
 **What do the neighbors need from this city?** Canon records the cluster ties as *Strong, Cultural/Political*
-in both directions, founded on the same Jeju-do allocation. **Concretely: the west shore, and Hwy 110's
+in both directions. **Concretely: the west shore, and Hwy 110's
 western terminus** — the coastal road to the rest of the subnet and to the capital begins on this city's
 ground. ⭐ **So the cluster's own outward connection toward Concordia runs through the city that lost the
 harbor by 450 meters.** *Neither city holds both doors.*

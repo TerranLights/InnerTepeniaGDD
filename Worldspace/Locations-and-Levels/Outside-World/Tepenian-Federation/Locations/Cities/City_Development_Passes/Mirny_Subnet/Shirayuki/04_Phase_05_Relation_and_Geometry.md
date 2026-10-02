@@ -4,7 +4,7 @@
 written mid-spine specifically so it cannot be dropped.**
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *What is this place to the places around it, to the thing that contains it, and to anyone crossing
 > its edge?* **Core move: *write a relation as a MECHANISM, not a rivalry* — never who dislikes whom, but
@@ -178,7 +178,7 @@ current value is authoritative.*
 | `Nov–Mar` holds | |
 |---|---|
 | **1** | ⭐ **the entire year's sea freight** |
-| **2** | **the compulsory ground work** — *drainage against meltwater; ice re-levelling* |
+| **2** | **the compulsory ground work** — *drainage against meltwater; ice re-leveling* |
 | **3** | **the elective surface care** — *thin gloves, no scratching, light to see by* |
 
 ⭐⭐ **They do not merely overlap.** ***They are the same window for the same reason: it is the season the ice

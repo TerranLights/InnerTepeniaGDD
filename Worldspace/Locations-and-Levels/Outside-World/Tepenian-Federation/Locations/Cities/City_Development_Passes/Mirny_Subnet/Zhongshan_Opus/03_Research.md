@@ -70,31 +70,29 @@ precipitation** · **cannot land small boats on the east coast** · **not a trad
 
 ---
 
-# 3.2 · NO ARBITRATION MECHANISM — the richest vein, and it converged from four independent directions
+# 3.2 · NO ARBITRATION MECHANISM — the richest vein, and it converged from independent directions
 
-The research log's own sessions found this same shape four separate times, from four unrelated instruments,
-across three sweeps — the convergence `LAW 0-R` predicts ("a three-pick convergence was invisible until the
-third") but sharper, because these are not three readings of one pick, they are four different real-world
-mechanisms independently describing the same site.
+The research log found this shape in general Antarctic practice — continent-wide, not specific to this site —
+and the country's own founding canon carries the same shape at treaty level and in the court that confirmed
+this city's claim to its site.
 
-| Sweep | Instrument | What it says about who decides |
+| Source | Instrument | What it says about who decides |
 |---|---|---|
-| 1 | The ASMA management plan (Measure 15, 2014) — the real management plan covering the real Larsemann Hills | Purpose: *"to promote coordination and cooperation by Parties."* Every commitment is a verb of communication. *"No artificial boundary markers are in place."* No arbitrator, no allocator, no dispute procedure — the whole instrument is guidance and encouragement |
-| 2 | The ASPA 174 (Stornes) permit regime | Self-permitting and mutual inspection: each of the four sponsoring nations (Australia, China, India, Russia) licenses its own people and reports to the others. No central issuing authority |
-| 4 | Antarctic land-based medical emergency response | *"Unlike maritime and aeronautical response to distress signals, there are NO official agreements for cooperation in Antarctic land-based medical emergencies — although any nation with capacity to assist can be reasonably expected to do so."* Responsibility sits with the program involved; others act on expectation, not obligation |
-| 4 | The 2008 Progress station fire, 1.5 km from the real Zhongshan Station, in this same oasis | A two-story building destroyed, one worker killed. The injured were taken to Zhongshan and treated there. **The fire destroyed the radio equipment, so Russian officials were not informed for four days.** The neighbor arrived immediately; the authority that was nominally in charge did not know for four days |
+| Q60 | Antarctic land-based medical emergency response — general practice, continent-wide | *"Unlike maritime and aeronautical response to distress signals, there are NO official agreements for cooperation in Antarctic land-based medical emergencies — although any nation with capacity to assist can be reasonably expected to do so."* Responsibility sits with the program involved; others act on expectation, not obligation |
+| Canon | Falkland Treaty Article III.1 (read at `04_Phase_02_Composition_and_Arrival.md` §2.6) | Settlements *"may, at their own initiative, associate into regional groupings for the resolution of local questions"* — and *"nothing in this Article shall be read to define what authority sits above such regional groupings."* A forum for local disputes, with no defined arbiter over it |
+| Canon | The Jeju-do court (`Specs/Zhongshan.md`, Founding; read at `04_Phase_02_Composition_and_Arrival.md` §2.6) | *"Neither Japan nor Korea pressed a competing claim."* The court that confirmed this city's claim to its site heard no contest and decided none |
 
 ## Fusion (`Real-World_Basis_Extrapolation_Method.md` Step C) — does this city plausibly produce its own version?
 
 **Yes, and it is not a stretch — it is the mechanism `02_Spine.md` already named as this deficit's address**
 (*in its own past*, and *unnameable from inside*, because the court's own parties were never here to notice
-the gap they left). The real record supplies the *shape* that address only asserted: **a multi-party shared
-site whose entire coordination runs on expectation rather than rule, and whose worst tests show that
-neighboring proximity, not formal authority, is what actually answers.** This city's own founding condition
-(`02_Spine.md` §2.2, G4) already produces the same disposition from a different direction — a claim settled by
-agreement rather than contest has no reason to build the machinery a contested claim would need. **The two
-lines corroborate rather than compete**, exactly as `02` §5.2 describes two generators independently landing
-on one reading.
+the gap they left). The real record supplies the *shape* that address only asserted: **coordination that runs
+on expectation rather than rule — whoever can help is expected to, and no agreement says who must.** The
+founding treaty builds the same shape into law, a forum with nothing defined above it. This city's own founding
+condition (`02_Spine.md` §2.2, G4) already produces the same disposition from a different direction — a claim
+settled by agreement rather than contest has no reason to build the machinery a contested claim would need.
+**The lines corroborate rather than compete**, exactly as `02` §5.2 describes two generators independently
+landing on one reading.
 
 **And the same shape recurs at the register that should be its opposite — festival, not emergency:** Midwinter
 Day, researched at Query 71, is *"the biggest EXCEPTION to station-specific celebrations… celebrated right
@@ -105,9 +103,9 @@ of its own to mark the darkest day) by taking a form from elsewhere and re-point
 The research log's own note on this is worth carrying forward whole: *the emergency and the festival are the
 same relationship in two registers, and neither one runs through an authority.*
 
-**Handed to Phase 6 (Meaning) and Phase 7 (Order):** a shared-oasis coordination custom, modeled on the real
-ASMA's own verbs — proposing, notifying, deferring — with no enforcement clause, and a Midwinter-shaped
-exchange observance that the diffuse `no majority` deficit (§3.4, below) can also anchor to, since Midwinter's
+**Handed to Phase 6 (Meaning) and Phase 7 (Order):** a coordination custom that runs on expectation —
+proposing, notifying, deferring — with no enforcement clause, grounded in the treaty's own Article III.1, and
+a Midwinter-shaped exchange observance that the diffuse `no majority` deficit (§3.6, below) can also anchor to, since Midwinter's
 whole appeal is that it belongs to nobody's origin nation specifically.
 
 ---
@@ -130,7 +128,7 @@ labeled as a derivation rather than a source fact, and reproduced here because i
 
 **Fusion:** the only way to prevent salt damage is to spend the scarcest resource washing it off — the deficit
 bills itself once as thirst and once as decay, from the same missing rain. **And it bills a third time on the
-day something burns**, per `3.2`'s own source: the standard Antarctic firefighting doctrine is dry chemicals,
+day something burns**, per the log's Query 59 on general Antarctic fire practice: the standard Antarctic firefighting doctrine is dry chemicals,
 not water, precisely because *"if there is a fire there is unlikely to be very much liquid water around to
 fight it with."* Handed to Phase 3 (Surface & Texture) and Phase 8 (Making) — a maintenance trade whose entire
 job is a losing arithmetic against a resource it is also rationed on, and a fire-response culture built around
@@ -146,15 +144,14 @@ water genuinely is) and Phase 7 (a water-quality inspection regime that cannot t
 
 # 3.4 · CANNOT LAND SMALL BOATS — corroborated at source, and it reframes the network-position conflict
 
-The ASMA states outright: *"no anchorages or barge landings are designated… vessels usually anchor
-approximately 5 nm offshore,"* and small-boat access to eastern Broknes is *"difficult and sometimes impossible
-due to ice debris up to hundreds of meters off shore, blown by the prevailing north-easterly winds. Helicopters
-are therefore the only reliable means."* This independently corroborates §15's "not a trade hub" from a wholly
-different register — physical rather than economic — which is exactly `02` §5.3's both-are-true shape landing
-a third time (after G3 and G5) on the same underlying structural fact.
+The physical record states it outright: small-boat access to eastern Broknes is *"difficult and sometimes
+impossible due to ice debris up to hundreds of meters off shore, blown by the prevailing north-easterly
+winds."* This independently corroborates §15's "not a trade hub" from a wholly different register — physical
+rather than economic — which is exactly `02` §5.3's both-are-true shape landing a third time (after G3 and G5)
+on the same underlying structural fact.
 
 ⚠ **CORRECTED 2026-09-10, per developer-directed research (`Cities/Research_Logs/Zhongshan_Research_Log.md`
-Session 4).** The ASMA's north-easterly wind is the SECONDARY regime — an occasional, cyclonic-storm-driven
+Session 4).** The north-easterly wind in that quote is the SECONDARY regime — an occasional, cyclonic-storm-driven
 wind, responsible for over 80% of blowing-snow events but a minority of the station's actual wind-hours. The
 PRIMARY wind, per Zhongshan's own station-specific numerical study (Haiyang Xuebao, 2016), is a constant,
 ground-hugging katabatic flow from the SOUTHEAST. **So the boat-landing hazard is not a daily condition — it is
@@ -165,10 +162,9 @@ weather.
 
 **And the real fast-ice cycle adds a texture layer §2's profile didn't have:** fast ice forms late February,
 reaches full coverage April–October (maximum extent in September, up to 100 km offshore), and the bay is
-largely ice-free only January–March. **The resupply ship reaches the outer ice edge once a year, late
-November/early December.** A settlement whose sea door is open roughly a quarter of the year, and whose one
-scheduled maritime arrival is annual rather than routine, does not run its calendar around shipping — it runs
-around the one window. Handed to Phase 5 (Relation & Geometry): the harbor named in the spec (`00_Frame.md`
+largely ice-free only January–March. **The harbor this city uses is a constructed, shared port with a usable
+window of roughly four months, November–March (`Ports.md` §5.6c).** A settlement whose sea door is open roughly a
+third of the year does not run its calendar around shipping — it runs around the one window. Handed to Phase 5 (Relation & Geometry): the harbor named in the spec (`00_Frame.md`
 §0.1c, `I-6`) is real, but its usable season is short, which changes what "having a harbor" means for this
 city's actual rhythm.
 
@@ -286,14 +282,14 @@ case, are explicit that scarcity *produced* their informal harmony, not the reve
 than quietly dropped, per `04` Part IV's standing rule that a self-audit runs on the same faculty that produced
 the error: **the "never needed to" causal story for this city's own arbitration deficit is not supported by
 the real-world record, and Phase 7 must find a cause that is not that one.** `3.2`'s convergence (governance by
-expectation, sourced four ways) stands independently and does not depend on the killed hypothesis.
+expectation, sourced from general Antarctic practice and from the founding treaty) stands independently and does not depend on the killed hypothesis.
 
 ---
 
 # ⭐ WHAT THIS STEP PRODUCED, AND WHAT IT DID NOT
 
-Five deficits researched, four converging on a single governance-by-expectation shape sourced from four
-independent real-world instruments, one dead end honestly recorded, three G7 picks fused at two depths each,
+Five deficits researched, four converging on a single governance-by-expectation shape sourced from general
+Antarctic practice and corroborated by the founding treaty, one dead end honestly recorded, three G7 picks fused at two depths each,
 and a set of G2 texture facts that sharpen without altering Step 2's shape. **Not decided here:** which of
 these fused candidates actually gets written into which phase's finding — that is Step 4's work, phase by
 phase, opening each phase's own `📂 MUST OPEN` block before writing it.

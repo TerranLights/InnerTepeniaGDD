@@ -392,7 +392,7 @@ objections are data about how the place is experienced, not verdicts on whether 
 > # ⭐⭐⭐⭐ THE SETTLEMENT
 > ## ***THIS CITY CANNOT TELL THE DIFFERENCE BETWEEN A WIND AND A RULING, AND HAS NEVER NEEDED TO.***
 > **Everything that has ever shaped it — the bedrock, the katabatic, the meter, the fjord, a court that sat on
-> another continent before anyone arrived — arrived as a condition rather than as a decision.** ⭐ **So it
+> another continent before the exile era began — arrived as a condition rather than as a decision.** ⭐ **So it
 > built one vocabulary, and that vocabulary is now applied to everything, including the few things that were
 > genuinely somebody's doing.** ⛔ ***It is not innocence and it is not evasion. It is a missing distinction,
 > and there is no local instrument that could supply it.***
@@ -425,18 +425,18 @@ about, where each overreaches, and a limit set on both.*
 | ⭐ **Many things to drink, none of them strong** | Canon's bohemian glitch-coolant register — *variety and refinement over raw intensity* |
 | ⭐ **Nobody is checking whether you still belong** | `Phase 8` §8.6d — membership by not-being-re-checked |
 
-> ### ⭐⭐ **A CITY WHERE MOST OF YOUR LIFE IS YOUR OWN, REST IS CHEAP, AND NOBODY IS RE-EXAMINING YOU.** **That is lovable, and it is arrived at from wind physics and an energy-denominated currency rather than asserted.**
+> ### ⭐⭐ **A CITY WHERE MOST OF YOUR LIFE IS YOUR OWN, REST IS CHEAP, AND NOBODY IS RE-EXAMINING YOU.** **That is lovable, and it is arrived at from wind physics and the price of power rather than asserted.**
 
 ## ⛔⛔ AND THE IMPOTENT LOVER'S CHARGE — *what has gone dead here?* — **must be recorded honestly**
 
 **The shadow question is *"flattened affect — lack of enthusiasm, lack of vividness, lack of aliveness,"*
 and `00f` says to ask it of anything that reads as competent and joyless.**
 
-**Line up what this pass established:** *no faith is sited here* · *no Saint reaches this city's name* ·
+**Line up what this pass established:** *no faith is sited here* ·
 *nothing has an author* · *the most expressive figure is deliberately unnamed* · *the culture refuses to
 ritualize its own failure* · *there is no arbiter for anything.*
 
-> ## ⚠⚠ **THOSE SIX FACTS, ASSEMBLED WITHOUT THE WARMTH ABOVE, DESCRIBE A COMPETENT AND JOYLESS PLACE.**
+> ## ⚠⚠ **THOSE FIVE FACTS, ASSEMBLED WITHOUT THE WARMTH ABOVE, DESCRIBE A COMPETENT AND JOYLESS PLACE.**
 
 ⛔⛔ **And the uncomfortable finding, recorded because `00f` demands negative results be recorded rather than
 discarded:** ***almost all of this city's warmth lives in `Phase 8` §A8.1–A8.6 — material added in a dated

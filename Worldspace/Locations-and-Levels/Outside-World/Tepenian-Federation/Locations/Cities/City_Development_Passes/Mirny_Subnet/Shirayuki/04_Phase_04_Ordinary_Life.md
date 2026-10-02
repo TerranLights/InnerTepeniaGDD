@@ -3,7 +3,7 @@
 **Run 2026-09-06 · consolidated 2026-09-06 after the re-run.** **Piece 7.**
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *What is an ordinary person's day here, **apart from what this place is famous for?***
 > ⭐ **The core move: *name the headline function in one sentence, then deliberately write AWAY from it.***
@@ -54,7 +54,7 @@ and evenly, no horizontal motion)* **versus *"expensive ice"*** *(migrating shel
 upstream against, forever)*. ⭐ **This city's ice is the cheap kind, and its ruled difficulty is `D = 1.25`.**
 
 > ### ⭐ SO THE ORDINARY WORK IS NOT DRAMATIC REBUILDING. IT IS INCREMENTAL.
-> **Raising, re-levelling, digging out, extending, re-founding a little at a time.** ***Slow, constant,
+> **Raising, re-leveling, digging out, extending, re-founding a little at a time.** ***Slow, constant,
 > unremarkable, and never finished.***
 
 ⚠⚠ **AND TWO CANON INSTRUMENTS DISAGREE ABOUT THIS GROUND.** *`16` Half B classifies the city **"rock-founded,"
@@ -77,7 +77,7 @@ figures.*
 >
 > ### ⭐⭐⭐ AND THE SHARED RHYTHM IS NOT A COINCIDENCE — IT IS PHYSICALLY IMPOSED
 > **Outdoor work needs light AND low wind, and those peak together only in summer** *(`04_Phase_03` §E.1)*.
-> **Grit clearance matters most against the meltwater it must carry; ice re-levelling wants light and workable
+> **Grit clearance matters most against the meltwater it must carry; ice re-leveling wants light and workable
 > temperatures.** ⭐⭐ ***So the city does not have two workloads that happen to feel alike. It has two that
 > must be done at the same time, because only one part of the year permits either.***
 > ⭐ **`02` §3.2's chain completes:** *the elective obligation rides the compulsory one because they are the
@@ -243,10 +243,12 @@ only that solitude has a price here and the price is physical.**
 
 # 7 · THE ECONOMY IN FRAME — **one line, and the post-war half is excluded**
 
-**`National_Economy_and_Currency.md`: an ENERGY-BACKED NATIONAL CURRENCY during the Second Interwar Period.**
-⭐ **That is this pass's frame, so it is the operative fact.** ⛔ **The fracture into regional currencies plus a
-cross-subnet trade standard is caused by Amundsen Tower's destruction — POST-WAR, and excluded by `§C.8a`.**
-⚠ *Noted because the same file carries both, and reading past the fracture point would import the war.*
+**`National_Economy_and_Currency.md`: a NATIONAL CURRENCY existed during the Second Interwar Period — what it
+was backed by is unsettled at every stage (`DR-3`) and must not be treated as "energy-backed" or any other
+specific mechanism.** ⭐ **That existence, shape-only, is this pass's frame, so it is the operative fact.**
+⛔ **The fracture into regional currencies plus a cross-subnet trade standard is caused by Amundsen Tower's
+destruction — POST-WAR, and excluded by `§C.8a`.** ⚠ *Noted because the same file carries both, and reading
+past the fracture point would import the war.*
 
 ---
 

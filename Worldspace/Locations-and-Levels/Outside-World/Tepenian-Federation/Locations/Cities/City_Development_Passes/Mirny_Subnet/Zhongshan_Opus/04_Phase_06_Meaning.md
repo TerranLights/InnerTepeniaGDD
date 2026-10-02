@@ -25,7 +25,7 @@ for the first time in this pass it is load-bearing as corroboration rather than 
 | ✅ OPENED | Extent | What it gave |
 |---|---|---|
 | ⭐ **`Worldspace/Factions/Robot_Religions/`** | **The whole folder — 919 lines across 6 files, read in full** | Polydimensional Animism's five denominations **with their confirmed stronghold cities**, and Cymatics reverence's deliberate homelessness. ⛔ **A named negative — see `6.2`** |
-| **`National_Holidays.md`** | **All 166 lines** | The four-category framework; Independence Day on the winter solstice; the Tepenian Saints roster — ⭐ **and this city's own namesake sits outside it** (`6.5`) |
+| **`National_Holidays.md`** | **All 166 lines** | The four-category framework; Independence Day on the winter solstice; the Tepenian Saints roster (`6.5`) |
 | ⭐ **`Reference/Real-World/Ice-Cold_Buddhism_Research/`** | **All 7 files, 896 lines, read in full** | Sacred sites Dome Fuji + Kunlun, *"this proportion must be preserved."* **Not applicable here — and it contains a live trap this pass had to walk around; see `6.3`** |
 | **`Specs/Zhongshan.md`** | Reopened for the Naming technique | The religious-register sweep — `6.1` |
 | ⛔ **The deferred MORTUARY question** | **RESERVED — not answered.** `00_Frame.md` §0.5 `R-5` | The ossuary ruling IS canon and is used; the human-disposition and assembly-across-time halves are untouched |
@@ -55,7 +55,6 @@ vision note, this pass's own derived material — **not** the read-last culture 
 | *"established Zhongshan's own **artisan class as a recognized civic institution**"* | The *class* is the institution — not a guild, not a master's lineage |
 | *"articulating the **founding political stance**"* | A stance, credited to a role rather than carried by an office |
 | *"Zhongshan's claim to its own site was **never left to chance**"* | Assurance language about an act nobody local performed |
-| *"an act of **cultural continuity** from a community that **carried its political heritage into the ice**"* | Carrying, not founding |
 
 > ### ⚠ ONE AMBIGUITY, FLAGGED RATHER THAN RESOLVED — `M-158` discipline
 > **"Deliberately left unnamed" admits two readings:** *in-world* (the city does not record who wrote it) or
@@ -76,13 +75,13 @@ vision note, this pass's own derived material — **not** the read-last culture 
 | `04_Phase_03` §3.4 | **The street plan.** A billion-year-old fault-and-fold pattern, not a planner's grid |
 | `04_Phase_04` §4.2 | **The cheap-hours economy.** The wind sets the price; no policy does |
 | `04_Phase_04` §4.6 | **And it cannot be petitioned** — *"because the mechanism is a meter rather than a rule, there is nobody to petition"* |
-| `04_Phase_05` §5a, and `03_Research.md` §3.2 | **The governance of the shared site.** Four independent real-world instruments, all coordination-by-expectation, no arbiter |
-| `04_Phase_02` §2.6 | **The founding adjudication.** A court that sat on another continent, before anyone arrived — *"a court agreeing with everybody"* |
+| `04_Phase_05` §5a, and `03_Research.md` §3.2 | **The governance of the shared site.** General Antarctic practice in two registers plus the treaty's own Art. III.1, all coordination-by-expectation, no arbiter |
+| `04_Phase_02` §2.6 | **The founding adjudication.** A court that sat on another continent, before the exile era began — *"a court agreeing with everybody"* |
 | `04_Phase_05` §5c | **The export.** People who leave and are credited where they land |
 
 > ## ⭐⭐⭐⭐ SIX INDEPENDENTLY-DERIVED PHASES, ONE SHAPE: **THIS CITY IS FULL OF THINGS THAT WORK AND HAVE NO AUTHOR.**
 > **Not one of them was derived looking for this.** *The street plan came from bedrock geology, the class
-> divide from surface ratios, the cheap window from wind physics, the governance from a management plan, the
+> divide from surface ratios, the cheap window from wind physics, the governance from Antarctic practice, the
 > founding from a treaty, the export from an industry determination.*
 
 ## ⭐⭐ AND `G1` CORROBORATES — which is exactly what corroboration-tier is for
@@ -141,7 +140,8 @@ is the rule working as designed, not a shortcut around it.*
 ## ⭐⭐ The one genuine religious fact this city has, and it is RELATION rather than doctrine
 
 **Canon establishes, twice** (`National_Medical_and_Care_Institutes.md` L109; `Airports.md`), **that this
-city's kinship tie runs to Kunlun** — a shared-origin demographic bond, `I-9` in the inheritance ledger.
+city's tie runs to Kunlun** — a census-tier bond (China is Primary-tier in both; Kunlun's founding population
+is UNRULED, `Founding_Register.md`), `I-9` in the inheritance ledger.
 **And Kunlun is the confirmed congregation point of the Watchers**, Polydimensional Animism's
 observation-centered denomination: *"a generations-long watch that may never resolve, by design — the waiting
 is the point, not a guaranteed payoff."*
@@ -226,7 +226,7 @@ trade,"* because *"you cannot sustain a profession on demand that vanishes for m
 |---|---|
 | **The central promise** | *A thing that works does not need someone's name on it* (`6.1`) |
 | ⛔ **When it becomes impossible to keep** | **When something stops working.** *An authorless mechanism cannot be appealed to, because there is nobody to appeal to* |
-| **Where that already bites, measured** | The contested cheap window, *"nobody to petition"* (`Phase 4` §4.6) · the berthing queue with no final authority (`Phase 5` §5a) · the relay hardware in another city (`Phase 5` §5e) · governance by expectation across four independent instruments (`03_Research.md` §3.2) |
+| **Where that already bites, measured** | The contested cheap window, *"nobody to petition"* (`Phase 4` §4.6) · the berthing queue with no final authority (`Phase 5` §5a) · the relay hardware in another city (`Phase 5` §5e) · governance by expectation, sourced from general Antarctic practice and the treaty (`03_Research.md` §3.2) |
 
 > ## ⭐⭐⭐ **DOES THE CULTURE RITUALIZE THE FAILURE, OR REFUSE TO? — IT REFUSES.**
 > **A city whose standard is that working things need no author has no vocabulary for *"this failed, and it
@@ -235,20 +235,16 @@ trade,"* because *"you cannot sustain a profession on demand that vanishes for m
 > shape: **unintended, unnoticed in-world, discoverable rather than announced, and working with everyone
 > acting in good faith.** ⏸️ **Phase 7 owns what the city does about it. This phase only names it.**
 
-## ⭐⭐ AND THE NATIONAL SACRED VOCABULARY DOES NOT FIT THIS CITY EITHER
+## ⭐⭐ AND THE NATIONAL SACRED VOCABULARY IS NATIONAL, NOT LOCAL
 
 **`National_Holidays.md` establishes the Tepenian Saints:** pre-2083 Antarctic explorers *"venerated in
 Tepenian civic culture as 'Saints' for unknowingly preparing the home that exiles would later need."*
 **The roster: St. Robert (Scott) · St. Ernest · St. Roald (Amundsen) · St. Douglas (Mawson) · St. Richard
 (Byrd).**
 
-> ### ⭐ **EVERY SAINT IS AN EXPLORER WHOSE NAME BECAME A CITY. THIS CITY'S NAMESAKE IS NEITHER.**
-> **Sun Yat-sen never went near Antarctica.** `Specs/Zhongshan.md`: the naming is *"an act of cultural
-> continuity from a community that carried its political heritage into the ice."*
-> ⛔ **So the one national framework for venerating a name does not reach this city's own name** — **and the
-> city's answer to the question "who is honored here" is a political inheritance rather than a Saint.**
-> ⭐⭐ ***A city that does not put names on what works is also a city the national name-honoring framework
-> does not cover.*** *Two independent facts, the same shape.*
+> ### ⭐ **THE SAINTS ARE VENERATED FEDERATION-WIDE, AND THIS CITY KEEPS THEM AS EVERY CITY DOES.**
+> **Nothing local attaches to them here.** The city keeps the site's name, 中山 — a naming fact only. No
+> finding is drawn from the namesake, and none of the Saints is this city's own.
 
 ---
 
@@ -272,10 +268,10 @@ and every element is already established:**
 > and cheapest hour of the year.*** **Nothing about that was arranged; it is what June 21 is at this
 > latitude, under this wind, on this meter.**
 
-## 2 · The Saints — **an observance this city does not have**, and the absence is the entry
+## 2 · The Saints — **national, kept here as everywhere**
 
-Per `6.5`. ⛔ **Not written as a deficit.** *Recorded as a national framework whose organizing principle —
-honor the named explorer whose name you carry — does not describe this place.*
+Per `6.5`. *A Federation-wide veneration with nothing local attached; this city adds no observance of its own
+to it.*
 
 ## 3 · ⭐ THE SMALL AND UNSERIOUS ONE — **and it cannot be scheduled**
 
@@ -288,13 +284,8 @@ day to day.
 > **Somebody notices it has gone quiet, and word gets around, and people go outside.** *No date, no
 > organizer, nothing owed to anyone who misses it.*
 
-| ⚠ Differentiation check — because a weather-dependent observance already exists in canon | |
-|---|---|
-| **Dome Fuji's "Deepest Cold"** | *"A genuinely religious, mandatory observance"* whose unschedulability is **a documented point of doctrinal dispute** |
-| ⭐ **This city's** | **Trivial, optional, and nobody minds being late.** *The unschedulability is the charm rather than the controversy* |
-
-> ⭐⭐ **Same mechanism, opposite register — which is a real differentiation rather than an echo.** *And it is
-> the phase's required unserious observance, arrived at from wind data and a cheap-power finding rather than
+> ⭐⭐ **Trivial, optional, and nobody minds being late — the unschedulability is the charm.** *And it is the
+> phase's required unserious observance, arrived at from wind data and a cheap-power finding rather than
 > invented to fill the slot.*
 
 ⛔ **Category 4 (celestial/faction-specific) is NOT filled.** `National_Holidays.md` flags it as needing its
@@ -322,11 +313,10 @@ own dedicated investigation, and it is explicitly not universal. **Left alone.**
 | ⛔ **No faith is sited here** — the roster check run against all three canon traditions, each with a stated reason. **Explicitly not "no faith is possible here"** | **result, not a hole** |
 | ⭐⭐ **The Watchers' collision has somebody standing in it here** — a faith that welcomes humans as equals, whose congregation point cannot admit them | canon-derived · deep |
 | ⭐ **The culture REFUSES to ritualize its own core value's failure** — no vocabulary for "this failed and it was nobody's fault" | genuinely emergent · deep |
-| ⭐ **The national Saints framework does not reach this city's own name** — every Saint is an explorer-namesake; this one is a political inheritance | canon-derived · deep |
 | ⭐⭐ **An ossuary is for the dead; this city's two great absences are neither dead nor present** — the orbital emigrants and the uncounted first residents | genuinely emergent · deep |
 | **Robot death here is handled by community alone** — canon's "religion and community" resolving to one term, as a direct consequence of the null | genuinely emergent · deep |
 | **Independence Day falls in darkness, in the wettest month, at the cheapest and loudest hour** | canon-derived · deep |
-| ⭐ **An unserious midday observance that cannot be scheduled** — same mechanism as a canon solemn one, opposite register | genuinely emergent · deep |
+| ⭐ **An unserious midday observance that cannot be scheduled** — trivial, optional, and nobody minds being late | genuinely emergent · deep |
 | ⭐⭐ **LABEL IS PROVISIONAL, MEANING BINDS** *(developer ruling, 2026-09-10)* — and this pass's `G1` findings are therefore label-independent: only a change to `Robot_Elementals.md`'s entry TEXT would disturb them, not a change to its heading | **ruling recorded · durability stated · log at `09.5`** |
 
 ⏸️ **To Step 5:**

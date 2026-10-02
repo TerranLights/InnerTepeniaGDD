@@ -156,26 +156,32 @@ chamber technicians — and robotic counselors.*
 > `Phase 7`'s must-open canon.* ⛔ **The first draft of `7a` wrote an economy without opening the file that says
 > what the economy is denominated in.**
 
-**Canon, Second Interwar:** an **energy-backed currency** — *"a unit redeemable for a fixed amount of guaranteed
+> ⛔⛔⛔ **CORRECTED 2026-09-26 — THE PREMISE BELOW IS NOT CANON.** *"A unit redeemable for a fixed amount of
+> guaranteed grid capacity"* is a fabricated quote — no such line exists in `National_Economy_and_Currency.md`,
+> which forcefully states the opposite: **nothing about what the money is backed by is settled, at any stage**
+> (`DR-3`). The entire rhyme/unifier argument below is built on that fabrication and does not hold as written.
+> Kept here as a record of the error, not as a usable finding. **What actually survives:** only that *a
+> national currency existed by the late Second Interwar Period* (shape, not mechanism) — any rhyme between
+> that fact and this city's own Standard would need to be re-derived from scratch, without assuming a backing
+> mechanism.
+
+**~~Canon, Second Interwar: an energy-backed currency — "a unit redeemable for a fixed amount of guaranteed
 grid capacity… not an abstract, faith-based fiat currency; it worked because it had something to be backed
-**by**."*
+by."~~** *(struck — see correction above)*
 
-> ### ⭐⭐⭐⭐⭐ AND IT RHYMES WITH THIS CITY'S OWN INSTRUMENT SO EXACTLY THAT THE STANDARD STOPS LOOKING ECCENTRIC
-> | The national currency | This city's Standard |
+> ### ~~AND IT RHYMES WITH THIS CITY'S OWN INSTRUMENT SO EXACTLY THAT THE STANDARD STOPS LOOKING ECCENTRIC~~
+> | ~~The national currency~~ | This city's Standard |
 > |---|---|
-> | **Worth = verified energy allocation** | **Worth = verified physical integrity** |
-> | ⛔ **Explicitly NOT faith-based** | ⛔ **Explicitly not vouched-for — `B.5` forbids certifying on another's behalf** |
+> | ~~**Worth = verified energy allocation**~~ | **Worth = verified physical integrity** |
+> | ~~Explicitly NOT faith-based~~ | Explicitly not vouched-for — `B.5` forbids certifying on another's behalf |
 >
-> # ***BOTH SAY THE SAME THING: WORTH IS WHAT CAN BE VERIFIED, NOT WHAT SOMEBODY ATTESTS TO.***
-> ⭐⭐ **So this city's home-made measure is not a local eccentricity — *it is the national economy's own
-> epistemology, applied to materials by people who never connected the two*.** ⛔ **And they would not: `Phase 9`
-> `C.4` establishes that this city is pattern-illegible to itself.**
+> *(The city-side column still stands on its own; the national-currency column and the parallel drawn between
+> them do not, per the correction above.)*
 
-⭐⭐ **AND CANON SUPPLIES A SECOND UNIFIER THIS PASS HAD NOT SEEN:** *the currency* ***"naturally bridged the
-human/robot dual economy"*** *— human heating, food and water and robot siligel production and component
-maintenance both tracing back to one regulated grid.* ⭐ **`Phase 8` found the Standard reaching both populations
-natively; `Phase 9` adopted a shared constraint as its lens.** ***This is a third, independent structure doing
-the same thing — and none of the three was designed to.***
+~~**AND CANON SUPPLIES A SECOND UNIFIER THIS PASS HAD NOT SEEN:** *the currency "naturally bridged the
+human/robot dual economy" — human heating, food and water and robot siligel production and component
+maintenance both tracing back to one regulated grid.*~~ *(struck — same fabricated premise; the dual-economy
+bridge, if real, needs its own independent support, not this one)*
 
 ---
 

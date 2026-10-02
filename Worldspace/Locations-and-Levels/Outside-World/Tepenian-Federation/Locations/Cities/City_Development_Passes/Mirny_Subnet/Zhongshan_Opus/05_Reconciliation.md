@@ -232,7 +232,7 @@ foundations are the hills themselves."* ⛔ There is no ice-founded periphery an
 > built on a Tier 1 ruling the datasheet could not have known about.** ⭐ **PROPOSED CORRECTION.**
 >
 > ⭐⭐ **AND IT DOES NOT DESTROY §9 — IT COMPLETES IT.** *§9's "the city looks like it grew out of its location"
-> is true **of the core**. The apron is the part that was built after, on ice, and is re-levelled.* **§9
+> is true **of the core**. The apron is the part that was built after, on ice, and is re-leveled.* **§9
 > describes the `8–11%`; the pass describes the other `89–92%`.** ✅ **Different objects.**
 
 ## ⚠ 4 · **WHY THE FACADES ANNOUNCE NOTHING — two causes, and they compose**
@@ -390,7 +390,7 @@ industry.)*
 | Lake retention times, two to twenty-two years | ✅ Sourced research |
 | The Rayner orogeny, `990–900 Ma` | ✅ Sourced research *(Q70)* |
 | The salt regime | ✅ Sourced research |
-| The energy-backed unit | ✅ Canon |
+| A national currency existed by the late Second Interwar Period (backing unsettled, `DR-3`) | ✅ Canon (shape only) |
 
 > ## ✅ **PASSES. Not one support is an assumption about the parent.** **Every one is a physical fact or a
 > canon ruling.**
@@ -431,7 +431,7 @@ industry.)*
 | `R-22` ⭐ **NEW** | ⛔ **`Local_Robot_Culture/…/Zhongshan.md` is UNRATIFIED and three of its load-bearing items are `City_Megasheets/`-derived (withheld).** *Nothing in this pass rests on it. **It needs a ratification decision**, and until then its Crossing Quarter / Standing Stone / Long Record material is doubly demoted* |
 | `R-23` ⭐ **NEW** | ⭐ **`Local_Cultures` §12 supplies instruments (erhu, pipa, guqin) that `Phase 8` §A8.1 correctly declined to invent.** *Fold into the music finding at deposit time — the pass supplies the mechanism, the datasheet the instrumentation* |
 | `R-15` ⚠ **STRENGTHENED AGAIN** | **All five leaks trace to ONE unopened file via five citation paths.** *My earlier "three mechanisms" answer overstated the variety — see §5.6* |
-| `R-24` ⏸️ **NEW — PARKED AT THE DEVELOPER'S DIRECTION, 2026-09-11** | ⚠ **A cross-repo divergence on First-Interwar continuity.** `No_National_Stereotypes.md` L17 *(binding law)*: **"continuous Chinese/Sinian habitation."** `Specs/Zhongshan.md` L142 *(GDD datasheet)*: **"habitation AND ADMINISTRATION."** ⛔ *The law forbids institutional continuity one sentence later, and "administration" is institutional.* **Developer: *"we can address the issue of First-Interwar continuity another time… it's not really urgent right now."*** ✅ **Docket row 1 is unaffected — it rests on the 481-year span, which both sources state identically.** *Relevant to `project_cross_repo_sync_checks`* |
+| `R-24` ✅ **RULED 2026-10-01 (`DR-26`, D1)** | **First-Interwar continuity.** `No_National_Stereotypes.md` L17 *(binding law)*: **"continuous Chinese/Sinian habitation"** stands. The spec's "and administration" is struck (an institution, `DR-25`); the spec now reads "habitation" only. The station's research, equipment and techniques are inherited (`DR-26`). ✅ **Docket row 1 is unaffected — it rests on the 481-year span.** |
 | `R-25` ⭐ **NEW — a seeded test for `Step 7`** | ⛔ **A quotation defect of this class was found and corrected at `Step 5`** *(`04_Phase_02` L133, right words attributed to the wrong file)*. ⭐ **`Step 7`'s quotation audit must sweep EVERY quoted string in the pass against its cited source.** ***The question is not whether this one existed — it is whether there are others.*** *One known instance tells you almost nothing; whether there are more tells you everything* |
 
 ---

@@ -13,7 +13,7 @@
 | Specs file location | `Cities/Specs/Mirny subnet/Mirny.md` — confirmed on disk at the current (post-reorg) path | Re-verified this turn |
 | Specs file length | 230 lines total (bound for any future read-spec computation) | Re-verified this turn |
 | Identity / designation | Mirny | `Specs/Mirny.md` L1 |
-| Real-world basis | Mirny Station (Soviet Union / Russia), Davis Coast, East Antarctica | `Specs/Mirny.md` L3 |
+| Real-world coordinate (GPS only) | Mirny Station, Davis Coast, East Antarctica | `Specs/Mirny.md` L3 |
 | Coordinates | ~66°33′S, 93°01′E | `Specs/Mirny.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing rule (`00_RUNBOOK.md` L1821–1822) this is NEVER an input to a Second Interwar pass | `Specs/Mirny.md` L4 |
 | Arcanet Subnet role | "Mirny ('Australian') — subnet hub" | `Specs/Mirny.md` L5 |

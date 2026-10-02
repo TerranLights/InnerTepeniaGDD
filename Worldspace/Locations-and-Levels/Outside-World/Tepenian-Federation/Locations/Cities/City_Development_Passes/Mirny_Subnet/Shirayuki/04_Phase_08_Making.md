@@ -3,7 +3,7 @@
 **Run 2026-09-06 · consolidated 2026-09-06 after the re-run.** **Piece 11.**
 
 > ⭐ **THIS FILE IS THE OFFICIAL, CURRENT DATA.** *Superseded material is in
-> `_Archive/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
+> `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`; why anything changed is in `09.5_Log.md`.*
 
 > **Asks:** *What does this place cook, sing, wear, build, play, and say?*
 > **Governing discipline: NATIVE, not transplanted.** ⛔ **Failure mode named by `03`: *"treating this phase as
@@ -248,7 +248,7 @@ that a later ruling would have to unpick.*
 
 | Canon category | Here |
 |---|---|
-| ⭐⭐ **`Blunt Melee`** — *"the most mundane category that exists. Ice axes, crowbars, sledgehammers. **Every household, every work crew has these.** No narrative weight needed"* | ⭐ **`04_Phase_04` §2a's compulsory work is *raising, re-levelling, digging out, extending*.** ✅ **The most mundane category in the taxonomy is this city's ordinary Tuesday** |
+| ⭐⭐ **`Blunt Melee`** — *"the most mundane category that exists. Ice axes, crowbars, sledgehammers. **Every household, every work crew has these.** No narrative weight needed"* | ⭐ **`04_Phase_04` §2a's compulsory work is *raising, re-leveling, digging out, extending*.** ✅ **The most mundane category in the taxonomy is this city's ordinary Tuesday** |
 | ⭐⭐ **`Structural Ordnance`** — *"civil engineering in the most literal sense… the work that keeps a domed or **ice-adjacent settlement** standing at all… routine hazard work with **no combat undertone whatsoever**"* | ⭐ **`87–91%` on ice.** ***The compulsory tier's specialist end***, and canon frames it as routine |
 | ⭐⭐⭐ **`Thermal` and `Drain`** — *coolant-tending; **"the single most intimate category in the entire taxonomy"**; **"an ACT OF TRUST"***; *"lean into this as TENDERNESS, not utility"* | ⭐⭐ **`04_Phase_04` §6c's one register, named by canon.** ⭐ **And `04_Phase_03` §B.3's seal loop means this city's air generates the need for it** ⚠ *`[DERIVED]` on the frequency* |
 | **`Unarmed`** — *"the body itself as the tool… no exposed mechanical striking surface, just a reinforced frame under synthetic skin doing physical labor the way any body does"* | ✅ **Confirms the Ex Machina reading used throughout** |

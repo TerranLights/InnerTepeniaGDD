@@ -33,8 +33,8 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Concordia.md` |
-| **Local culture** | `../../../Local_Cultures/Janbogo_Subnet/Concordia.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
+| **Spec** | `../../../Specs/Janbogo subnet/Concordia.md` |
+| **Local culture** | `../../../../../../../Concordia-City/Concordia_Second_Interwar_Cultural_Sheet.md` ⚠ *Concordia does not follow the `Local_Cultures/` pattern — this is its Second Interwar sheet, read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Concordia.md` |
 | **Research log** | `../../../Research_Logs/Concordia_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` |

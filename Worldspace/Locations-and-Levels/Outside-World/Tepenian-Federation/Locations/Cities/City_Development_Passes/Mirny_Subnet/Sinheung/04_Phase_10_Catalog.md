@@ -53,7 +53,7 @@
 | ⭐ **THE CUT** | **The channel into Nella Fjord.** *Re-opened every season; gone if it is not.* **Named for the act rather than the place, because it is not a place for eight months of the year** |
 | ⭐ **THE INSTITUTE** | **The Sinheung Institute of Cybernetics and Robotic Care** *(canon)*. ⭐ **Residential in the strong sense — a cohort arrives, stays four years, and leaves together** |
 | **THE GRADING FLOOR** | *Where refined material meets the Standard.* ⛔ **No office, no inspector — the floor is a place, not an authority** *(`Phase 3`)* |
-| **THE STRIP** | **The city's own airstrip** *(canon)* — *smaller and less advanced than the northern one, and real* |
+| **THE STRIP** | **The city's own airstrip** *(canon)* — *small, and real* |
 
 ---
 

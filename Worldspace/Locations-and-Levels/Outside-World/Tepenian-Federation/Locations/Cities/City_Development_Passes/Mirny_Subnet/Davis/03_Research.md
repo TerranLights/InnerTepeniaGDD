@@ -215,7 +215,9 @@ do not.* ***Two independent routes to the same shape.***
 > ## ⛔ WHY THIS IS NOT YET A FINDING — the researcher's own caveat, and it is decisive
 > ***The salinity gradient is stated COAST→PLATEAU. The salt line is stated WEST|EAST.***
 > # **No source says they are the same axis.**
-> ⏸️ **Named test, unread by any researcher: `Adamson & Pickard 1986` / `Gore et al. 1996`.**
+> ⏸️ **Named test: `Adamson & Pickard 1986` / `Gore et al. 1996`** — unread by any researcher at Step 3.
+> ✅ **`Gore et al. 1996` was obtained 2026-09-22 and establishes the axis identity** *(`H22`;
+> `04_Phase_03_Surface_and_Texture.md` §F.5)*. ⛔ **`Adamson & Pickard 1986` has no open-access route.**
 > ⭐ *A finding this good, held open because one axis identity is unsourced, is the discipline working.*
 
 ## 4.3 The book track — **the ground itself** *(full extractions in `Reference/Real-World/`)*
@@ -304,10 +306,12 @@ refused further queries outright.
 # 8 · ⛔ WHAT THIS STEP DOES NOT CLAIM
 
 - **Does not write any part of Davis's culture.** No institution, practice, custom, festival or person invented.
-- **Does not assert the causal unification** *(§4.2)* — **it is a hypothesis with a named, unread test.**
+- **Does not assert the causal unification** *(§4.2)* — **at this step it is a hypothesis with a named test**,
+  which Phase 3 ran and adopted *(`H22`, `Gore et al. 1996`)*.
 - **Does not generalize the refusal finding** — **n=1 on primary-source evidence**, suggestive across three cases.
 - **Does not carry the generalist-obligation reframe to settlement scale.** ⛔ **Crew scale only.**
-- **Does not claim any pick is exhausted.** ⭐ *Four of five are explicitly NOT SPENT, with named targets.*
+- **Does not claim any pick is exhausted at Step 3.** ⭐ *Four of five were NOT SPENT, with named targets; all
+  five were worked 2026-09-22 — four SPENT, Pick 4 PARTLY SPENT (§6).*
 - **Does not assert a support ratio** — a range, `4:1 – 7:1`.
 - **Does not exclude freeze–thaw** — salt is established as operative; frost is limited by reagent scarcity, not
   ruled out.
@@ -325,7 +329,7 @@ refused further queries outright.
 | ⭐ **Step 4 — Phase 3 (Surface & Texture), Phase 1 material** | **Salt weathering as the operative regime**; the fracture/porosity distinction; permafrost's thermal strength and phase-change failure |
 | ⏸️ **Step 4 / Step 5** | ⭐⭐ **The causal unification — as a HYPOTHESIS.** *If a later phase wants it, the axis test must be run first* |
 | **Step 5 — reconciliation** | **Hirschman's three falsifiers** must be tested, not merely cited |
-| ⚠ **Step 7 — Gate 7 (research accounting)** | **Every pick's SPENT/NOT-SPENT verdict and named target is in `Davis_Research_Log.md`.** ⛔ **Four of five are not spent — Gate 7 must not read this step as closed** |
+| ⚠ **Step 7 — Gate 7 (research accounting)** | **Every pick's SPENT/NOT-SPENT verdict and named target is in `Davis_Research_Log.md`.** ⛔ **Pick 4 is still PARTLY SPENT (§6) — Gate 7 must not read this step as closed** |
 | ⏸️ **Whenever anyone re-opens the book folder** | **The two prior "DONE, low yield" verdicts are UNVERIFIED** — one rests on a book's *"own short Preface."* **Both books have searchable text layers** |
 
 ---
@@ -341,8 +345,8 @@ corrections — one against the pass owner.**
 structured rather than empty** — *the refusal instrument exists and is characteristically not communal* — **and
 an independently published framework (Hirschman) converged on a spine Step 2 had derived blind.**
 
-**Biggest doubt, carried forward:** ⚠ ***Four of five picks are NOT SPENT, and the tooling imposed a ceiling
-the governing law says does not exist.*** ⭐ **Both are stated rather than smoothed** — *and B's reading is that
+**Biggest doubt, carried forward:** ⚠ ***Four of five picks were NOT SPENT at Step 3 (all worked 2026-09-22;
+Pick 4 still PARTLY SPENT, §6), and the tooling imposed a ceiling the governing law says does not exist.*** ⭐ **Both are stated rather than smoothed** — *and B's reading is that
 the remaining answers were never on an index anyway.*
 
 ⛔ **Step 4 — WRITE THE PHASES — opens next.**

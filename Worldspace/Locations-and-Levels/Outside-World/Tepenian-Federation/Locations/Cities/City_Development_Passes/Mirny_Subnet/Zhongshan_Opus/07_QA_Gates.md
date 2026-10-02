@@ -222,7 +222,7 @@ whether the robot receiving it is the one performing it herself."***
 words. ⛔ **`"is determined by"` appears nowhere in the source** — it is the table's **column header**
 *(`Determined by`)* welded onto a body cell to make a sentence. **Faithful in meaning, manufactured in form.**
 
-> ### ✅ **MATERIALITY: NONE CHANGES A FINDING.** *Libra still points at the ASMA's verbs; Cancer still points
+> ### ✅ **MATERIALITY: NONE CHANGES A FINDING.** *Libra still points at the notify-propose-defer verbs; Cancer still points
 > at the seal layer; the lifespan tier still turns on reliable access; supply is still a free variable.*
 > **These are citation-hygiene defects, not reasoning defects.**
 
@@ -357,7 +357,7 @@ would then rest on the numbers rather than the idea.** ⏸️ *Flagged for the t
 # ⚠ GATE 7 — RESEARCH ACCOUNTING. **Partial, and stated as partial.**
 
 **`03_Research.md` §3.8 carries a fact-to-finding table, which is the required record.** ✅ **Picks that
-changed findings:** the ASMA plan *(governance-by-expectation)* · lake retention times *(the `LAW G` industry)*
+changed findings:** Antarctic emergency-response norms and Midwinter Day *(governance-by-expectation)* · lake retention times *(the `LAW G` industry)*
 · salt chemistry *(the maintenance arithmetic)* · the diurnal wind *(`Phase 4`'s whole spine)* · the Rayner
 orogeny *(street geometry)* · Stornes boron *(the non-thematic export)* · EDEN ISS · Posikunchiki.
 **Withheld, with what it would give recorded:** Vilnius's courtyard texture *(spent at `Phase 10`)*.

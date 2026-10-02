@@ -1,7 +1,7 @@
 # Davis — development pass
 
-**Folder opened 2026-09-05. ▶ RUNNING — Steps −1 through 3 COMPLETE. ▶ STEP 4 IN PROGRESS: Phases 2, 3, 4 and 5
-written; Phase 6 next.** *(2026-09-16.)*
+**Folder opened 2026-09-05. ✅ ULM COMPLETE — Steps −1 through 10** *(2026-09-16; Gate 7 re-run and passed
+2026-09-22 — `07_QA.md`, `10_Readiness_Check.md`)*. **CST and RWBEM not yet run.**
 
 > ### ⛔⛔ A CONTAMINATION BOUNDARY FALLS INSIDE STEP 4 — developer ruling, 2026-09-16
 > **At 15:00 on 2026-09-16 the orchestrator audits two COMPLETED sibling passes in the same subnet
@@ -11,7 +11,7 @@ written; Phase 6 next.** *(2026-09-16.)*
 > | Davis phases written | Status |
 > |---|---|
 > | **BEFORE 15:00** | ✅ **CLEAN BY CONSTRUCTION** — written by a reader who had not opened any sibling pass |
-> | **AFTER 15:00** | ⛔ **MUST be produced by T8 dispatch** — three isolated readers per phase, orchestrator synthesises only. **ONE LOCATION is held at the READER layer, not at the orchestrator's** |
+> | **AFTER 15:00** | ⛔ **MUST be produced by T8 dispatch** — three isolated readers per phase, orchestrator synthesizes only. **ONE LOCATION is held at the READER layer, not at the orchestrator's** |
 >
 > ⚠ **Record which side of the boundary each remaining phase file was written on, in that file's own provenance
 > box.** ⛔ **A phase written after 15:00 without a dispatch is not admissible.**
@@ -23,7 +23,7 @@ written; Phase 6 next.** *(2026-09-16.)*
 > it yet?*** **Only the first may be characterized.** *(Phase 5's first draft failed this and was corrected —
 > `04_Phase_05…md` §10 items 1–3. Generalized corpus-wide in `Mechanical_Extraction_Field_Guide.md`.)*
 
-> ### ⚠⚠ THE TWO STEP-4 FILES SO FAR DO NOT HAVE THE SAME PROVENANCE — check before relying on either
+> ### ⚠⚠ THE FIRST TWO STEP-4 FILES DO NOT HAVE THE SAME PROVENANCE — check before relying on either
 > | File | Provenance |
 > |---|---|
 > | `04_Phase_02_Composition_and_Arrival.md` | ✅ **T8-verified.** Three isolated readers, **Round 2 unanimous 30/30 with no proof block edited**, Round 3 cross-check. Evidence: `04b_T8_Rounds_Phase_2.md` |
@@ -36,7 +36,7 @@ written; Phase 6 next.** *(2026-09-16.)*
 
 > ## ⭐ STEP 3 — RESEARCH — COMPLETE 2026-09-15
 > **`03_Research.md`** · evidence **`03b_T8_Rounds_Step_3.md`** · ⭐ **every search string, rejected source,
-> dead end and open thread: `…/Cities/Research_Logs/Davis_Research_Log.md`** *(1,943 lines, created this step)*.
+> dead end and open thread: `…/Cities/Research_Logs/Davis_Research_Log.md`** *(1,953 lines, created this step)*.
 > **Two tracks: three isolated researchers (~310 retrieval operations) + the standing book-extraction checklist
 > worked in full.**
 >
@@ -45,11 +45,12 @@ written; Phase 6 next.** *(2026-09-16.)*
 > |---|---|
 > | **1 · The generalist-obligation reframe is CREW-SCALE ONLY** | *Every supporting case describes tens of people.* **Davis is 1,158,314** |
 > | **2 · The refusal finding is NOT generalized** *(`n=1`)* | ⭐ *Not "nobody decides about persons" but **"somebody does, and it is not the residents"*** — and `PA-6` means **Davis cannot know where its own sits** |
-> | **3 · The causal unification is a HYPOTHESIS** | *The salinity gradient is coast→plateau; the salt line west\|east.* **No source says they are the same axis** |
+> | **3 · The causal unification is a HYPOTHESIS** | *The salinity gradient is coast→plateau; the salt line west\|east.* **No source read at Step 3 says they are the same axis.** ✅ *Tested and adopted at Phase 3 on `Gore et al. 1996` (`H22`)* |
 >
-> ### ⚠ AND FOUR OF FIVE PICKS ARE EXPLICITLY **NOT SPENT**
+> ### ⚠ AND FOUR OF FIVE PICKS WERE **NOT SPENT** AT STEP 3
 > ⛔ **Gate 7 must not read this step as closed.** *Named targets are in the log.* ⭐ **That is `LAW 0-R`
-> honored, not a shortfall.**
+> honored, not a shortfall.** ✅ *All five worked 2026-09-22 — four SPENT, Pick 4 PARTLY SPENT
+> (`03_Research.md` §6).*
 
 > ## ⭐⭐⭐ THE SPINE — built 2026-09-15, on verified unanimous consensus
 > ***Davis was assigned both of its vocations and did not choose its remaining population. The only thing here
@@ -129,8 +130,9 @@ the city's own research log, **created by this step** and append-only from here.
 *(⭐⭐ Added 2026-09-15, completed same day: **`Datasheets/`** — Davis is the FIRST application of the
 corpus-wide **Mechanical Extraction & Datasheet methodology**
 (`…/Universal_Location_Methodology/Mechanical_Extraction_Field_Guide.md`), and now the REFERENCE EXAMPLE for
-the full 22-file manifest — **all 22 present**: `Step_-1` through `Step_3`, `Step_5` through `Step_10` *(11
-step files, Step 4 excluded — not dispatched as a unit)* + `Phase_0` through `Phase_10` *(11 phase files)*.
+the full 19-file manifest — **all 19 present**: `Step_-1`, `Step_0`, `Step_1_and_2`, `Step_3`, `Step_5`
+through `Step_10` *(10 step files, Step 4 excluded — not dispatched as a unit)* + `Phase_2` through `Phase_10`
+*(9 phase files; `Step_0` carries Phase 0 and `Step_1_and_2` carries Phase 1)*.
 ⚠ **Marked `DRAFT` in every file header — not yet independently re-verified via a fresh 3-reader T8 dispatch of
 their own**, per the Field Guide's own standing note. ⛔ **`Step_5.md` is a deliberate stub, not real content**
 — `Local_Cultures/`/`Local_Robot_Culture/` are read-last by rule; the file states that explicitly rather than
@@ -139,10 +141,10 @@ Relationships.md`'s Davis-Mawson connection traces entirely to the withheld `Dav
 Megasheet, checked for an independent admissible route and confirmed to have none — flagged, not extracted, a
 Phase 5 T8 dispatch must adjudicate it fresh. **Any-hour work; does not touch the operating-hours law.**)*
 
-## Files still to appear
+## Steps 4–10 and their datasheets
 
 > ## ⭐⭐⭐ CHECK THE MATCHING DATASHEET FIRST — every row below, before dispatching `T8`
-> **Added 2026-09-15.** `Datasheets/` holds the full 22-file set. Each row's pointer is a citation-only
+> **Added 2026-09-15.** `Datasheets/` holds the full 19-file set. Each row's pointer is a citation-only
 > pre-check — a mechanical fact already located and cited, so the dispatch doesn't re-derive it. ⛔ **It never
 > replaces opening the MUST-OPEN primary sources in full** — see `00.0_Pre-Trip_Inspection.md` §C/§D for the
 > actual dispatch instructions and the same guardrail stated there in full.
@@ -159,8 +161,8 @@ Phase 5 T8 dispatch must adjudicate it fresh. **Any-hour work; does not touch th
 | `04_Phase_09_Populations.md` | ULM Step 4, Phase 9 — the `M-169` phase, highest stakes | `Datasheets/Phase_9.md` — Tier U mostly; `Robot_Universals/` Ch.13/14 not yet extracted |
 | `04_Phase_10_Catalog.md` | ULM Step 4, Phase 10 | `Datasheets/Phase_10.md` — Characters canon RUN not asserted zero; Zodiac's 12 fixed terms included |
 | `05_Reconciliation.md` | ULM Step 5 — and the CLOSE pass | ⛔ `Datasheets/Step_5.md` — **deliberate stub, nothing to check.** `Local_Cultures/`/`Local_Robot_Culture/` are read-last by rule |
-| ⛔ `06_Differentiation.md` | **WILL NOT EXIST, correctly** — Step 6 is **WRITE-ONLY** as of 2026-09-06; the column goes into the shared table, not into a file here | `Datasheets/Step_6.md` — Tier U method text only; the column isn't pre-stageable |
-| `07_*` | ULM Step 7 — the 17 gates | `Datasheets/Step_7.md` — full gate checklist, fixed corpus-wide |
+| `06_Differentiate.md` | ULM Step 6 — **WRITE-ONLY** as of 2026-09-06: Davis's column goes into the shared table; this file records the peer-free substitutes run here | `Datasheets/Step_6.md` — Tier U method text only; the column isn't pre-stageable |
+| `07_QA.md` | ULM Step 7 — the 17 gates | `Datasheets/Step_7.md` — full gate checklist, fixed corpus-wide |
 | `08_Review_Panel.md` | ULM Step 8 — six dispositions | `Datasheets/Step_8.md` — panel roster + all 6 dispositions, fixed corpus-wide |
 | `09_Record.md` · `09.5_Log.md` | ULM Step 9 — ⚠ **the recording law: snags, dead ends, killed findings, self-corrections** | `Datasheets/Step_9.md` — ⛔ except the next `M-` number, genuinely dynamic, look it up live |
 | `10_Readiness_Check.md` | ULM Step 10 — ⚠ **verify, do not assert** | `Datasheets/Step_10.md` — already confirms Davis is NOT the trial's worked example, re-verified twice |
@@ -182,10 +184,14 @@ by process, since all the answers will be related to each other anyway."*
 | ⏸️ **Local culture** | `…/Cities/Local_Cultures/Mirny_Subnet/Davis.md` — **READ LAST, at Step 5, as a CHECK** |
 | ⏸️ **Local robot culture** | `…/Cities/Local_Robot_Culture/Mirny_Subnet/Davis.md` — **READ LAST, at Step 5, as a CHECK** |
 | ⛔ ~~**Vision notes**~~ | ~~`…/Cities/City_Vision_Notes/Davis.md`~~ — **STRUCK corpus-wide, developer ruling 2026-09-13** *(`00.1a` §4.1)*. ⭐ Nothing lost: `Specs/Davis.md` **L143** is a strict superset, on better provenance |
-| **Research log** | `…/Cities/Research_Logs/Davis_Research_Log.md` ⚠ **does not exist yet — Step 3 creates it** |
+| **Research log** | `…/Cities/Research_Logs/Davis_Research_Log.md` — **created at Step 3**, append-only |
 | **Picks to mine** | `…/Cities/Inspirational-Influences.md` ⚠ **not an enumerated ratified root → DEMOTED** |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 
 📎 **Progress:** `MASTER_Process_Tracker.md` · `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`
 📎 **Binding rulings:** `DEVELOPER_RULINGS_LOG.md` · **Docket:** `../../DOCKET.md`
 *(all under `…/Universal_Location_Methodology/` except the docket)*
+
+---
+
+**Archived records (`DR-27`, 2026-10-01):** this pass's `T8` reader files (`.t8_*`), `T8` round records (`*b_T8_Rounds_*`) and the superseded single-reader Step −1 file are at `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Davis/` (repo root), same file names. A citation here to one of them resolves there. Not canon; not an input.

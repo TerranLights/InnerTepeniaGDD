@@ -4,7 +4,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Division-of-Industry sector figures | See `Step_1_and_2.md` and `Phase_4.md` for the full `16`/`09`/`11` rows — D 2.00, workforce 804,656, base% 44.4%, canon §15 25% (old convention) | Cited there |
+| Division-of-Industry sector figures | See `Step_1_and_2.md` and `Phase_4.md` for the full `16`/`09`/`11` rows — D 2.00, workforce 804,656, base% **53.2%** (`16` Half B L258 and §25 L2579; `09`'s 44.4% is the pre-caloric-rebuild figure, which `11` L330 carries to 53.2%), canon §15 25% (old convention) | Cited there; `16_Per_City_Three_Tier_Run.md` L258, L2579; `11_Caloric_Rebuild_and_Livestock_Tier.md` L330 |
 | ⚠ Object-colonization trap check | Denison's §15 figure (25%) is explicitly flagged by the Division-of-Industry folder's own README as an **old-convention** figure — recorded as-is, not fixed here | `16_Per_City_Three_Tier_Run.md` L165 |
 | Division_of_Industry_Sweep_2026-08-31.md §4.4 — Denison's own row | `. . . Y . . 5/6` | `Division_of_Industry_Sweep_2026-08-31.md` L154 |
 | ⚠ Sweep note, verbatim | *"Denison's whole identity is wind-engineering, and it still has no construction sector."* | `Division_of_Industry_Sweep_2026-08-31.md` L205 |

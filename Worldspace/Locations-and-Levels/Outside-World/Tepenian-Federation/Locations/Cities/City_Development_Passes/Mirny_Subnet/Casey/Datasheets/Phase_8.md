@@ -12,4 +12,4 @@
 
 **Not mechanical / not included here:** cuisine, arts/craft, dress, play/sports/humor, language and speech
 markers — this phase's actual content. Music has a real seed (Splinters) to build FROM; the rest of this phase
-will need genuinely new synthesis, same as Mirny's own thin result.
+will need genuinely new synthesis.

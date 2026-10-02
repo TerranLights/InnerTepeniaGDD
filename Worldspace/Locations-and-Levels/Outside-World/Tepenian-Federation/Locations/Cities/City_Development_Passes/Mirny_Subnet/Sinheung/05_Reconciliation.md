@@ -77,6 +77,13 @@ old Russian station structures*. §5b, §18 and §21 all rest on the same founda
 > not its design, not its materials* — reaches a very similar place without the forbidden input, and may be the
 > cleaner route to the same character.**
 
+> ### ⛔ AND §20 CARRIES THE SAME CLASS, IN ONE CLAUSE
+> **§20 gives the Russian-descended community a low-visibility claim.** ✅ *Recorded in `Phase 9` as a
+> composition fact only (Russia `6.85%`, Significant tier).* ⛔ **Its clause *"none of the residual
+> institutional weight its own infrastructure might otherwise suggest"* gives the station's operator
+> nationality a bearing on a resident community, and that nationality confers nothing on any resident
+> community.** **Proposed: strike the clause.**
+
 ## C.2 THE FACTUAL CORRECTIONS
 
 | § | Datasheet says | Proposed | Confidence |
@@ -137,7 +144,6 @@ that produces it."*** ⛔ **Keep the reading-order tag; drop any hedge.**
 |--:|---|---|
 | **1** | ⭐ **A SECOND canon placeholder figure: *Foreman Dae-ho Richter*** *(placeholder, 2026-07-17)* — credited with securing the city's place among the chamber manufacturers | **`Phase 10` `G`** — *the pass had carried only one* |
 | **2** | **Two existing municipal holidays** — *Founding Day* and *The Hills Accord* *(both placeholder names)* | **`Phase 10` `F`** — ⭐ *the pass's three observances are ADDITIONAL candidates, not replacements* |
-| **3** | ⭐ **§20's sharp detail:** *the Russian-descended community has "the least visible claim of any community here… none of the residual institutional weight its own infrastructure might otherwise suggest"* | ⭐⭐ **`Phase 9` `D.7`** — **this is the GPS law working correctly in the datasheet's own text**, and it is worth keeping |
 
 ---
 
@@ -188,7 +194,7 @@ deferred and displaced, so only the maker is ever positioned to know.***
 | File | Change |
 |---|---|
 | **`04_Phase_07_Order.md`** | ⭐⭐ **`D.1` un-blocked; `D.6` AMENDED** — *withdrawal, not opposition, and the mechanism is the missing office* |
-| **`04_Phase_09_Populations.md`** | ⭐ **Three Zodiac person-roles added; §20's Russian-descent detail folded into `D.7`** |
+| **`04_Phase_09_Populations.md`** | ⭐ **Three Zodiac person-roles added; §20's Russian-descent detail recorded as composition only, its infrastructure clause docketed (`C.1` class)** |
 | **`04_Phase_10_Catalog.md`** | ⭐ **Second canon placeholder figure; two existing municipal holidays** |
 | ⛔ **Nothing is retracted** | *No pass finding was overturned by the datasheet. One was amended and made stronger* |
 

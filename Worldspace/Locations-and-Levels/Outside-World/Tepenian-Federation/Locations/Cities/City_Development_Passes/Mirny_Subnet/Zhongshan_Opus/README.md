@@ -33,7 +33,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Zhongshan.md` |
+| **Spec** | `../../../Specs/Mirny subnet/Zhongshan.md` |
 | **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Zhongshan.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Zhongshan.md` |
 | **Research log** | `../../../Research_Logs/Zhongshan_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
@@ -42,3 +42,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 📎 Progress: `MASTER_Process_Tracker.md` · `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`
 *(all in `Universal_Location_Methodology/`)*
+
+---
+
+**Archived records (`DR-27`, 2026-10-01):** the pre-redo pass (`_archive_pre-redo_2026-09-10/`) is at `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/_archive_pre-redo_2026-09-10/` (repo root). Not canon; not an input.

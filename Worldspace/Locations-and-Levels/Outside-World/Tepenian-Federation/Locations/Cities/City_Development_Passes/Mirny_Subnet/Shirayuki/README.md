@@ -14,7 +14,7 @@
 |---|---|---|
 | ⭐⭐ **The numbered pass files** | ***THE OFFICIAL, CURRENT DATA.*** **One coherent document per piece** | ✅ **Everything. This is the pass** |
 | ⭐⭐ **`09.5_Log.md`** | **The Step 9.5 record — ~320 numbered entries: snags, dead ends, killed findings, self-corrections, and every ruling that changed something** | ⭐ **WHY anything is the way it is.** ⛔ **Not archived — this is the authoritative history** |
-| **`_Archive/2026-09-06_pre-consolidation/`** | **Every file as it stood before consolidation** — *original text PLUS the appended re-run sections that struck and amended it* | ⚠ **Only to check what a claim used to say, or why it was withdrawn.** ⛔ **NOT canon** |
+| **`Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/`** | **Every file as it stood before consolidation** — *original text PLUS the appended re-run sections that struck and amended it* | ⚠ **Only to check what a claim used to say, or why it was withdrawn.** ⛔ **NOT canon** |
 
 > ### ⚠ WHY THE ARCHIVE EXISTS
 > **A 13-part re-run struck a substantial amount of material** — *cross-city comparisons, z-scores, an
@@ -82,9 +82,13 @@ by process, since all the answers will be related to each other anyway."*
 | **Research log** | `../../../Research_Logs/Shirayuki_Research_Log.md` — *Sessions 2–5; exact search strings and open threads* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` ⛔ **DEMOTED** *(`DRQ-12`)* — *readable as a prompt; cannot ground a finding* |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
-| ⭐⭐ **PRIOR PASSES** | **`Universal_Location_Methodology/Test_Runs/2026-09-0{2,3}_Shirayuki_Run1{3,4,5}_Cold/`** — *three dead cold runs.* ⭐ **Run 14's `00_RUN_STATUS.md` §4 banks attribute-tier work for a successor and carries a warm-run split marker** |
+| ⭐⭐ **PRIOR PASSES** | **`Archive/ULM_Records/Test_Runs/2026-09-0{2,3}_Shirayuki_Run1{3,4,5}_Cold/`** — *three dead cold runs.* ⭐ **Run 14's `00_RUN_STATUS.md` §4 banks attribute-tier work for a successor and carries a warm-run split marker** |
 | ⭐ **Pre-contamination review** | **`Universal_Location_Methodology/Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`** — ⛔ **its §10/§11d fixpoint PROVENANCE verdicts bind in warm mode too**; *the quarantine machinery does not* |
 | ⭐⭐ **GOVERNING, universe-tier** | **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** · **`TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`** — ⚠ *neither is declared as a source by any local file, so a source-declaration audit cannot see them* |
 
 📎 Progress: `MASTER_Process_Tracker.md` · `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`
 *(all in `Universal_Location_Methodology/`)*
+
+---
+
+**Archived records (`DR-27`, 2026-10-01):** the pre-consolidation pass (formerly `_Archive/2026-09-06_pre-consolidation/`) is at `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Shirayuki/2026-09-06_pre-consolidation/` (repo root). Not canon; not an input.

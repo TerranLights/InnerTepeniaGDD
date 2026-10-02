@@ -95,8 +95,9 @@ tier.** ⭐ *It is here on pool size and, decisively, on the Jeju-do allocation.
 
 > ### ***Proximity would not have delivered this population. A court did.***
 > ⭐ **Which is `G4`'s absence restated through demography:** *the founding is an instrument, not a journey.*
-> ⚠ **Contrast inside the same table:** **Russia is at distance `0`** *(Yekaterinburg and Perm sit on this
-> meridian)* — **the nation nearest by reach is at `6.85%`, and the nation furthest by reach founded the city.**
+> ⚠ **Inside the same table:** **Russia is at distance `0`** *(its UTC+5 zone takes in Yekaterinburg and
+> Perm)* — **the nation nearest by reach is at `6.85%`, and a nation four zones off, at the table's outer edge
+> with Germany, Hungary and Japan, founded the city.**
 
 ---
 

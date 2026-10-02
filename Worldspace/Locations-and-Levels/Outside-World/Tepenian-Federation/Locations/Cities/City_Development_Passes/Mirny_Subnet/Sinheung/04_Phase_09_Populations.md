@@ -214,7 +214,7 @@ together, lives together for the duration, and leaves together."***
 
 | So this city permanently contains | |
 |---|---|
-| ⭐⭐ **A rolling body of students who are not from here, cannot leave, and are not visitors** | *at roughly **`3,400` graduates a year** in robot care, against Esperanza's `~21,000` in human healthcare* |
+| ⭐⭐ **A rolling body of students who are not from here, cannot leave, and are not visitors** | *at roughly **`3,400` graduates a year** in robot care* |
 | ⭐ **They arrive and depart on the SEASON, not the calendar** | ***the same freeze-thaw and the same shut corridor that govern everything else in this pass*** |
 | ⛔ **And they are neither residents nor outsiders** | *the city's own categories do not have a slot for them* |
 
@@ -315,8 +315,8 @@ on the rest.**
 > ## ⛔⛔ **CORRECTED 2026-09-07 — THE FIRST VERDICT HERE WAS THE MISREADING THE LAW EXPLICITLY WARNS ABOUT.**
 > **It read: *"the allocation conferred a founding title and NOTHING FURTHER… it does not describe the
 > population."*** ⛔ **`00_RUNBOOK.md` §C.9c, developer ruling 2026-09-06:** ***"Shirayuki is Japan-founded,
-> **Sinheung Korea-founded**, Zhongshan China-founded — by the Jeju-do allocation AND THE CENSUS, which is where
-> a city's people actually come from,"*** *and* ***"a pass that refuses all ethnic material is not obeying this
+> **Sinheung Korea-founded** … by the Jeju-do allocation AND THE CENSUS, which is where a city's people
+> actually come from,"*** *and* ***"a pass that refuses all ethnic material is not obeying this
 > law — it is MISREADING it, and it will produce PLACELESS CITIES."***
 > ⭐ **§C.9b unlocks it explicitly: once composition is established — which `Phase 2` did — origin-ethnicities
 > and ethnic-cultures MAY be taken into consideration.**
@@ -460,13 +460,11 @@ condition — clustering entirely in inherited or entirely in surface — is not
 | **THE ELDER WHO WILL NOT RE-GRADE** | *Taurus* | ⚠ **The Standard's own negative, embodied** — *a position held past the point it stopped making sense, with no appeal* |
 | **THE ONE WHO LEAVES THE TRADE** | *Sagittarius* | ⭐ **Canon-backed** — *robot-care turnover is voluntary; "it replaces people who changed their minds"* |
 
-## 2 · ⭐⭐ A DETAIL ADOPTED FROM THE READ-LAST FILE, INTO `D.7`
+## 2 · ⚠ A DETAIL FROM THE READ-LAST FILE, RECORDED AS COMPOSITION ONLY
 
-**Datasheet §20:** *the Russian-descended community here has* ***"the least visible claim of any community…
-none of the residual institutional weight its own infrastructure might otherwise suggest."***
-
-> ⭐⭐⭐ **This is the GPS law working correctly, in the datasheet's own text** — *the operator of the physical
-> station confers nothing on the people descended from that nation.* ✅ **Adopted into `D.7`'s minorities row,
-> which `Phase 9` had left explicitly open.** ⛔ **And it is the one place the datasheet applies the law to the
-> SITE rather than only to the composition** *(see `Step 5` `C.1` for where it does not)*.
+**Datasheet §20 gives the Russian-descended community a low-visibility claim.** ✅ **Recorded as a composition
+fact only** *(Russia `6.85%`, Significant tier)*. ⛔ **The station's operator nationality confers nothing on any
+resident community, and the datasheet's *"its own infrastructure… residual institutional weight"* clause is
+docketed as a GPS violation, the same class as `Step 5` `C.1`.** *`D.7`'s minorities row stays open, as
+`Phase 7` left it.*
 

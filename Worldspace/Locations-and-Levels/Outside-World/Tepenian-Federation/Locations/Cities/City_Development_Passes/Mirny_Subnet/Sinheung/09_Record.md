@@ -39,8 +39,8 @@ third chamber manufacturer* — **filed in `Phase 5` `D.1`, not propagated into 
 # 3 · THE PASS'S OWN FINDINGS — **the spine, and what hangs on it**
 
 > ## ⭐⭐⭐⭐⭐ THE SPINE
-> ***A city that owns almost nothing it uses — not its ground, not its design, not its materials, not at first
-> even its name — and whose one self-made possession is a standard of worth with no office, no authority and no
+> ***A city that owns almost nothing it uses — not its ground, not its design, not its materials, not even its
+> title — and whose one self-made possession is a standard of worth with no office, no authority and no
 > appeal.***
 
 | ⭐ | Finding |

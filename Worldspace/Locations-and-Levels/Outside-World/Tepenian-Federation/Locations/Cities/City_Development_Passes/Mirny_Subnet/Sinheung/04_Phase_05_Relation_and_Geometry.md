@@ -87,7 +87,7 @@ natural geological formation.*
 
 | Era | State |
 |---|---|
-| ⭐ **AT ITS FOUNDING** *(2564 →)* | **A distinct municipality with an unimpeachable title to a site — *and the title was granted, not won*.** *Three separate governments under the Jeju-do partition* |
+| ⭐ **AT ITS FOUNDING** *(2564 →)* | **A distinct municipality with an unimpeachable title to a site — *and the title was granted, not won*.** *Three separate governments on one oasis; this city's title from the Jeju-do allocation* |
 | ⭐⭐ **AT ITS CRISIS** *(~2688, the de facto amalgamation)* | **Canon gives this stage a cause — sprawl: *"physical growth closes the remaining gaps."*** ⚠ *A continuous urban area, still three governments* |
 | ⭐⭐⭐ **NOW** *(by the ~2780s — inside this frame)* | ⛔⛔ **NOT A SEPARATE CITY.** *Canon: "at some point the three cities formally, legally become one single city."* **For roughly the last thirty years of the declared frame, this place is a part rather than a whole** |
 
@@ -100,10 +100,10 @@ natural geological formation.*
 > that was governing.** ⛔ **Not adopted as this city's intention. It is a consequence, and canon does not say
 > anyone wanted it.**
 
-> ### ⭐⭐ AND ONE MORE THING SITS ON THE SAME ARC, FROM `Step 2`'s `G4`
-> **This city's founders did not name it; a placeholder stuck for generations; the name was finally reclaimed
-> as *"newly rising / emerging."*** ⛔ ***And the merged city's own name is still an open question in canon.***
-> ⭐ **So the city that finally took its own name is merged into one that does not yet have one.**
+> ### ⭐⭐ AND ONE MORE THING SITS ON THE SAME ARC: THE NAME
+> **This city's name is Sinheung, *"newly rising / emerging."*** ⛔ ***And the merged city's own name is still
+> an open question in canon.***
+> ⭐ **So a city with a name of its own is merged into one that does not yet have one.**
 > ⏸️ *Recorded as an arc, not a claim about anyone's feelings. `Phase 6` owns what people make of it.*
 
 ---
@@ -193,7 +193,7 @@ deliberately NOT adopted.** ⏸️ *Handed forward.*
 | To | What |
 |---|---|
 | ⭐⭐⭐⭐ **`Phase 6` · `Phase 7`** | ***A dominion the city did not seek, cannot decline, and must re-perform every season*** — **and which is the mechanism by which it stops being a separate city** |
-| ⭐⭐⭐ **`Phase 6`** | **The city that finally took its own name is merged into one that has none** |
+| ⭐⭐⭐ **`Phase 6`** | **A city with a name of its own is merged into one that has none** |
 | ⭐⭐ **`Phase 7`** | **Somebody must command the annual re-cut. Canon says so and does not say who** |
 | ⭐ **`Phase 9` · `CST 10`** | **A membership candidate: having worked a re-cut season.** *Not adopted* |
 | ⭐ **`Phase 6`** | ***The ground is a dependency with no counterparty — a shadow, because you cannot petition a landform*** |
@@ -224,7 +224,8 @@ deliberately NOT adopted.** ⏸️ *Handed forward.*
 | **Neumayer** | designed the schematic this city's floor builds from — *already in the pass* |
 | **Mawson · Sayowa** | the physical import route and the Hwy 4 junction link |
 | **Troll · Dome Fuji** | the two independent aviation routes that kept Dome Fuji supplied |
-| **Sejong · Janbogo** | ⭐ *"one of Tepenia's **three Korean-founded cities**"* — **ceremonial kinship, explicitly "genuine but limited"** |
+| **Janbogo** | ⭐ **Shared Korean founding** *(Founding Register: Janbogo = Korea, `DR-22`; Sinheung = Korea, by the Jeju-do allocation)* — *"Both Korean-founded cities"* |
+| **Sejong** | **Demographic: Sejong's own Korean community** *(Significant tier)* — **ceremonial kinship, explicitly "genuine but limited"** |
 
 ⚠ **One-sentence test run on every row above: each survives deleting the other name** — *what flows, in which
 direction.* ✅ **Relation, not comparison.**
@@ -274,9 +275,9 @@ literal.***
 | **`Phase 7` `B.2`** | ⭐ **The ice work's lack of administrative existence gains a cause**: *the administration CAN address structural questions — by sending to Mirny. The ice is the structural question it cannot send* |
 | **`Phase 8` `C.1`** | ⭐⭐ **The corpus-invisibility explanation is UPGRADED** *(vocabulary gap → an address that points elsewhere)*. **The verdict — act is maintenance, corpus is design — is UNCHANGED** |
 | **`Phase 7` `A.3`** | ⚠ *"imports its materials and its designs"* now also reads **imports its structural authority** |
-| **`Phase 9`** | ⭐ **Korean-founded is canon-confirmed here too** — *"one of Tepenia's three Korean-founded cities"* — **corroborating `9C.3`'s corrected verdict** |
+| **`Phase 9`** | ⭐ **Korea-founded stands on the Founding Register** *(Jeju-do allocation)*; **the Janbogo row's "Both Korean-founded cities" agrees with it** — **corroborating `9C.3`'s corrected verdict** |
 
-⛔ **`DRQ` NOTE — `City_Relationship_Database.md` carries a stale identity line** *("Real station: Sinheung
-Station (Russia)")*. ⭐ **This is the same `Specs/` find-replace artifact already on the `Step 5` docket, not a
-new fact** — *and `§C.9c` is explicit that the Progress site's operator nationality enters this city not at all.*
+⛔ **`City_Relationship_Database.md`'s identity line** *("Real station: Progress Station (Russia)")* **is a GPS
+fact about the physical plant only** — *and `§C.9c` is explicit that the Progress site's operator nationality
+enters this city not at all.*
 

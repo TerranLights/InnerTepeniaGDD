@@ -37,7 +37,7 @@
 | `Division_of_Industry/16_Per_City_Three_Tier_Run.md` §18 | 88 | **This city's own determination.** Read by schema anchor at the numbered heading — **never grepped by name**, per `00.0` §E's `§C.6` carve-out |
 | `Division_of_Industry_Sweep_2026-08-31.md` §4.4 | 250 | The 6-industry matrix and its `5/6 absent` reading |
 | `National_Medical_and_Care_Institutes.md` | 245 | ⭐ The three institutes; the residential-cohort finding; the decade-long fuse. **Names this city at L109** |
-| `National_Economy_and_Currency.md` | 54 | The energy-backed unit, and what backs it |
+| `National_Economy_and_Currency.md` | 54 | ⛔ **Nothing about what the money is backed by is settled, at any stage** — do not read an "energy-backed unit" out of this file |
 | `City_Logistics.md` | 268 | ⚠ **Read in full; USED only for its `## The Dual Economy` and currency-pointer sections**, per `M-152` |
 | `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md` | 1,155 | ⭐⭐ **Names this city at L996.** Hwy 22 as the Tower's own precondition. The `~324 GW` standing obligation |
 | `Theoretical-Calculations/` — the other three | 339 | **Opened. Empty for this phase — a RESULT, see below** |
@@ -230,11 +230,11 @@ character budget is mortgaged to whatever they trade for dinner, and nine cities
 | `02_Spine.md`:217 | The rock/ice class divide belongs to Phase 7 | **§7a** |
 | `02_Spine.md`:294 | *"Phase 7 owns what the city does about it"* — the `8–11%` permanent ground | **§7a** |
 | `03_Research.md`:49 | The Tasmania gateway-identity thesis *"aims directly at Phase 7, unread"* | ⏸️ **Still unread — docketed, not silently dropped** |
-| `03_Research.md`:108 | A shared-oasis coordination custom on the ASMA's own verbs, no enforcement clause | **§7b** |
-| `03_Research.md`:143 | A water-quality regime that cannot treat the oasis as one source | **§7b** |
-| `03_Research.md`:194 | "Coordination forum with no defined superior," inherited from Art. III.1 | **§7b** |
-| `03_Research.md`:273 | Stornes borosilicate/phosphate — *"a non-thematic export candidate, `Phase 7a`"* | **§7a** |
-| `03_Research.md`:288 | ⛔ *"Phase 7 must find a cause that is not that one"* | **§7b — and this is the phase's hardest obligation** |
+| `03_Research.md`:106 | A coordination custom that runs on expectation, no enforcement clause, grounded in Art. III.1 | **§7b** |
+| `03_Research.md`:141 | A water-quality regime that cannot treat the oasis as one source | **§7b** |
+| `03_Research.md`:190 | "Coordination forum with no defined superior," inherited from Art. III.1 | **§7b** |
+| `03_Research.md`:269 | Stornes borosilicate/phosphate — *"a non-thematic export candidate, `Phase 7a`"* | **§7a** |
+| `03_Research.md`:284 | ⛔ *"Phase 7 must find a cause that is not that one"* | **§7b — and this is the phase's hardest obligation** |
 | `04_Phase_02`:235 | Borrowed Form's category is Phase 7's to fill | **§7b** |
 | `04_Phase_02`:262 | The two proceedings that decided nothing → *"Phase 7, which owns governance"* | **§7b** |
 | `04_Phase_02`:283 | Falkland Treaty Art. III.1 — *"Phase 5c and Phase 7b inherit it"* | **§7b** |
@@ -265,9 +265,9 @@ character budget is mortgaged to whatever they trade for dinner, and nine cities
 |---|---|
 | Water & sanitation · waste treatment · enclosure & atmosphere · construction & structural maintenance · emergency services · thermal distribution · primary healthcare, obstetrics, childcare · mortuary & decommissioning | Food · manufactured goods & robot parts · materials recovery output · power generation · specialist healthcare · **higher education & specialist training** · arts & hospitality · administration *(partially)* |
 
-**Now place this city's mandate in it.** `16` §18, from §15's own export clause: *"Technical/scientific: ~35% —
-the research heritage is continuous from the founding station; **Zhongshan produces engineers and researchers
-who end up across Tepenia.**"* The developer ruled three-quarters of that sector mandated. **`133,907 workers`
+**Now place this city's mandate in it.** `16` §18, from §15's own export clause: *"Technical/scientific: ~35% — …
+**Zhongshan produces engineers and researchers who end up across Tepenia.**"* The city inherited the
+station's research results, equipment and techniques, and took the work up from there. The developer ruled three-quarters of that sector mandated. **`133,907 workers`
 — `15.4%` of everyone who works here — are nationally committed to producing qualified people for somewhere
 else.**
 
@@ -505,7 +505,7 @@ which is a far better explanation of their cluster economy than proximity alone.
 
 ## 7b.3 — ⭐⭐⭐⭐ THE CAUSE `03` §3.9 DEMANDED, and it is not the killed one
 
-**The obligation, quoted exactly from `03_Research.md`:288** — *"the 'never needed to' causal story for this
+**The obligation, quoted exactly from `03_Research.md`:284** — *"the 'never needed to' causal story for this
 city's own arbitration deficit is **not supported by the real-world record**, and **Phase 7 must find a cause
 that is not that one.**"* The Ju/'hoansi evidence runs the other way: **scarcity produced informal harmony, not
 abundance.**
@@ -523,7 +523,7 @@ cities want the same `40 km²`. **Every one of those is a genuine, live, materia
 > | The water, and how old it is | **The lake's own retention time** — two years, or twenty-two |
 > | The permanent ground | **The Rayner orogeny, `990–900 Ma`** *(`03_Research.md`, Q70)* |
 > | The maintenance bill | **The salt, and the rain that does not come** |
-> | The unit the meter counts in | **A national grid obligation nobody here is party to** *(§7b.4)* |
+> | The money the meter is paid in | **Set nationally; nobody here is party to it** *(§7b.4)* |
 >
 > ## ⭐⭐⭐⭐ **AN ARBITRATOR IS ONLY USEFUL WHERE A PERSON MADE THE ALLOCATION. YOU CANNOT BRING A CASE AGAINST A KATABATIC WIND.**
 >
@@ -555,15 +555,13 @@ failed, and it was nobody's fault'… no rite for it, no office to bring it to, 
 |---|---|---|---|
 | **THE PHYSICAL** | the cheap hours · the berths · the water's age · the permanent ground · the salt bill | none — it does not claim any | ⛔ **No. There is nobody to appeal to** |
 | **THE MUNICIPAL** | permits, registries, rationing, allocation, inspection, placement — the `C3` apparatus, and it is large | ordinary administration; `08` §8 sources the national rate at `65 per 1,000 residents`, the largest single resident-keyed line in the country | ✅ **Yes — and it is the only place in the city where "yes" is the answer** |
-| **THE NATIONAL** | the unit itself | `National_Economy_and_Currency.md`: a currency *"redeemable for a fixed amount of guaranteed grid capacity,"* credible only because Amundsen Tower made the grid genuinely continental | ⛔ **No. Nobody here is party to it** |
+| **THE NATIONAL** | the currency itself | `00_Frame.md` `P-1`: the Federation determines the currency. What backs it is not settled (`National_Economy_and_Currency.md`) | ⛔ **No. Nobody here is party to it** |
 
-> ## ⭐⭐ **THE PRICE IS LOCAL AND THE UNIT IS NATIONAL.**
-> **What a kilowatt-hour costs at midnight here is set by this city's own wind. What a kilowatt-hour *is* is set
-> by a `~324 GW` obligation at the South Pole that must never be interrupted for as long as the structure
-> stands.** *(`Amundsen_Tower…` : a space fountain is held up by momentum; stop the power and it falls — **"not
-> a failure mode, a permanent condition of ownership."**)*
+> ## ⭐⭐ **THE PRICE IS LOCAL AND THE CURRENCY IS NATIONAL.**
+> **What a kilowatt-hour costs at midnight here is set by this city's own wind. The money it is paid in is set
+> by the Federation.**
 >
-> ### **Nobody in this city votes on either half. One is weather and one is a promise made at the other end of Hwy 22.**
+> ### **Nobody in this city votes on either half. One is weather and one is decided nationally.**
 
 **⭐ And `00` §C8 sharpens what the middle layer actually is:** *"In a rationed economy, **allocation IS the
 financial system**."* **The registry clerk and the banker are the same profession here** — SOC archetype 12
@@ -576,17 +574,16 @@ economy. It is the economy's ledger**, and it is the one institution a citizen c
 *"at their own initiative"* for local questions and the maintenance of order among themselves — then:
 ***"Nothing in this Article shall be read to define what authority sits above such regional groupings."***
 
-**`03_Research.md` §3.2 found the same shape sourced four more ways** — the real ASMA management plan's verbs
-*(proposing, notifying, deferring, with no enforcement clause)*, the ASPA permit regime, Antarctic
-emergency-response norms, and Midwinter Day's exchange ritual. **`04_Phase_02`:283 calls the treaty the fifth
-instance.** **Governance by expectation, sourced five ways, and now supplied with a mechanism.**
+**`03_Research.md` §3.2 found the same shape in general Antarctic practice, in two registers** — land-based
+emergency-response norms *(whoever can help is expected to; no agreement says who must)* and Midwinter Day's
+exchange ritual. **`04_Phase_02`:282 calls the treaty the third instance.** **Governance by expectation, sourced
+three ways, and now supplied with a mechanism.**
 
 > ⭐ **And Borrowed Form — held at `04_Phase_02`:235 specifically so it would not be spent early — is spent
-> here, correctly.** The gap was predicted *(no arbitration mechanism)*; the candidate form existed *(the ASMA's
-> own coordination verbs)*; **this phase can now say what the borrowed form is FOR.** It is not a substitute
+> here, correctly.** The gap was predicted *(no arbitration mechanism)*; the candidate form existed *(coordination
+> by expectation, and a treaty forum with nothing defined above it)*; **this phase can now say what the borrowed form is FOR.** It is not a substitute
 > for arbitration. **It is the correct instrument for a world where allocations have no author: you cannot
-> adjudicate the wind, but you can notify, propose, and defer around it** — and those are the three verbs the
-> real management plan actually uses.
+> adjudicate the wind, but you can notify, propose, and defer around it.**
 
 ## 7b.6 — ⭐ Permanently under consideration
 

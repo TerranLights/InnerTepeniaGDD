@@ -25,7 +25,7 @@
 | # | Finding | Source | Tier |
 |--:|---|---|---|
 | **A** | **The Jeju-do allocation** — *a claim secured by diplomacy before the exile era began; one of only two cities settled this way* | `Specs/` `## Founding` | **1 · HARD CANON** *(founding instrument)* |
-| **B** | **`Industrial fabrication: 45%`** — *the corpus's highest single sector* | `Division_of_Industry` §15, via the Institutes file | ⚠ **3 · DERIVED** — *Column-3 tag required* |
+| **B** | **`Industrial fabrication: 45%`** — *this city's dominant sector* | `Division_of_Industry` §15, via the Institutes file | ⚠ **3 · DERIVED** — *Column-3 tag required* |
 | **C** | **The Cradle / fabrication-synthesis chambers** — *the apparatus robots come into existence in; shipped nationwide; **one of only two cities that manufacture them at all**; built to the **Mark IV** schematic **designed at Neumayer*** | `Specs/`, Institutes file | **1 · HARD CANON** |
 | **D** | ⭐⭐ ***"Sinheung's fabrication can be duplicated"*** | Institutes file, opening section | **1 · HARD CANON** *(`locked-canon`, developer ruling)* |
 | **E** | **The Institute of Cybernetics and Robotic Care** — *one of **three** sources of ALL trained medical and care personnel in Tepenia; the source of ALL robotic care; **physical AND emotional**, incl. robotic counselors* | Institutes file §3 | **1 · HARD CANON** |
@@ -101,8 +101,8 @@ written.** ⏸️ *Handed to `Phase 4` and `Phase 9`.*
 > be improvised, and cannot be imported."***
 
 ⭐ **The sentence exists to elevate the Institute. The verdict on Sinheung is a rhetorical foil.**
-⛔ **Nobody wrote what it means FOR SINHEUNG to hold, in canon, the judgment that its dominant sector — 45%,
-the corpus's highest — is duplicable.**
+⛔ **Nobody wrote what it means FOR SINHEUNG to hold, in canon, the judgment that its dominant sector — 45%
+— is duplicable.**
 
 > ### ⚠⚠ AND THE CLAIM SITS IN TENSION WITH THE COUNT, IN THE SAME BODY OF CANON
 > | Canon says | Canon also says |

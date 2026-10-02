@@ -36,7 +36,7 @@
 | **Ph 3 §F** | ⭐⭐ **A GRIT-CLEARANCE AND DRAINAGE SYSTEM** — *gutters, channels, the routine that keeps meltwater moving* |
 | **Ph 3 §D** | **A visible, permanent ROCK/ICE SEAM running through the built city** |
 | **Ph 3 §C** | ⭐ **Interiors of somebody else's proportions — the pre-exile station stock, adapted for generations** |
-| **Ph 4 §2a** | **Ice work: raising, re-levelling, digging out, extending** — *and the crews and kit that do it* |
+| **Ph 4 §2a** | **Ice work: raising, re-leveling, digging out, extending** — *and the crews and kit that do it* |
 | **Ph 4 §6b** | ⭐⭐ **Two household consumables everyone buys: gloves and glazing** — *so, places that sell and mend them* |
 | **Ph 4 §3 · Ph 8 §G** | ⭐⭐⭐ **Coolant-tending** — *canon's "most intimate category," and this city's air generates the need* |
 | **Ph 5 `5d.1`** | **The last leg of the supply line — an `8 km` overland haul from a neighbor's port** |
@@ -94,8 +94,8 @@ chemical preservation*.** ⭐ **Set each against this city's own physical facts:
 
 | Register | Here |
 |---|---|
-| ⭐⭐ **DRYING** | ***Nearly free.*** *This is a **cold desert** — `~149 mm/yr`, sub-zero means for ten months. The air does the work* |
-| ⭐⭐ **FREEZING** | ***Free for ten months.*** *Ambient, not powered* |
+| ⭐⭐ **DRYING** | ***Nearly free.*** *This is a **cold desert** — `~149 mm/yr`, sub-zero means for eleven months. The air does the work* |
+| ⭐⭐ **FREEZING** | ***Free for eleven months.*** *Ambient, not powered* |
 | ⛔⛔ **SALTING / BRINE** | ***SHIPPED.*** **This city has no shore** *(Ph 5 §0)* — **so salt arrives through the four-month window, in a queue it has no standing in, and up the `8 km` haul** |
 | ⚠ **FERMENTATION** | **Requires managed warmth.** ⭐ *So it is an INDOOR, deliberate activity rather than an ambient one* |
 
@@ -140,6 +140,77 @@ of existing findings rather than new material — recorded as such, not dressed 
 
 ---
 
+# B3 · ⭐⭐⭐⭐⭐ THE PLANET + ELEMENT — **run per `03_The_Phase_Spine.md`'s own procedure, for the first time**
+
+> ⛔⛔ **CORRECTED 2026-09-27.** *`City_Symbol_Assignments.md` has carried **Uranus / Fire** for this city since
+> before `DR-8a` (2026-09-16) established that this determination belongs here, at Phase 10, after Phases 1–9
+> exist — and no §B3 work was ever actually done for Shirayuki. The row was a pre-methodology holdover, not a
+> completed determination.* **This section runs the real check, per procedure: Phases 1–9 read first, in full,
+> before either reference file was opened.**
+
+## Uranus — CONFIRMED
+
+**`Planetary_Symbols.md`'s Uranus:** *"A permanent tilt inherited from something that happened once, long ago,
+and was never anyone's choice... An identity built after a defining event, not before it — reorientation as
+the new baseline rather than damage waiting to be corrected... An unintentional 'outsider' in its broader
+environmental context."*
+
+**Traces to:** the Jeju-do allocation (`00_Frame.md` §5, `01_Inherited.md` §A1, `02_Spine.md` §2c) — a claim
+settled by a body that knew these people only as nationals of states that no longer exist, never argued for,
+never chosen, permanent, and with no route back. The city's actual identity (the craft/upkeep standard,
+`04_Phase_06` §A) was built entirely *after* that founding, "organically," as the new baseline — not as a
+correction to the founding but as what the founding became.
+
+## Fire → **REVISED to Air**
+
+**Fire never fit.** Nothing in Phases 1–9 engages combustion, self-sustaining reaction, or fuel-consumption —
+the properties `Robot_Elementals.md` actually defines Fire by. The original assignment predates this pass
+entirely and was never derived from anything Shirayuki-specific.
+
+**`Robot_Elementals.md`'s Air:** *"Does nothing itself and determines everything — and only for those who are
+inside it together... Noticed when it moves, or when it is gone, and at no other time... It carries what
+cannot cross a vacuum [sound]... The same air that held the heat in strips it away the instant something moves
+it... never a party to anything, only the precondition."*
+
+**Traces to, directly:**
+- ⭐⭐⭐ **`04_Phase_03` §B.4, near-verbatim:** *"THE WIND: FELT, NEVER SEEN. It has no face, no name, no
+  silhouette."* — the same character Air's own definition gives it: noticed only in motion or absence, never a
+  party, only ever the precondition.
+- **The spine itself** (`02_Spine.md` §7): the city's entire standing-cost profile is physical, and the one
+  named physical agent is the persistent NE katabatic wind — present in every phase from `G2` onward.
+- ⭐⭐ **Air-as-medium, literally:** `04_Phase_03` §B.1 and `04_Phase_08` §B derive the city's whole acoustic and
+  musical geography from the fact that sound needs a shared, undisturbed medium — *"every structure casts an
+  acoustic shadow... music happens in the lee... to practice unheard, you go into the wind."* This is Air's
+  own defining property (*"it carries what cannot cross a vacuum... a voice requires both ends standing in
+  the same air"*), not an inference from a different one.
+- ⭐⭐ **The positive/negative split maps onto the seasonal dial** (`04_Phase_03` §E): summer is Air's positive
+  pole — the wind's weakest state, when stillness enables precision work, contact and shelter; winter is Air's
+  negative pole — maximal, indiscriminate, stripping, "noticed exclusively when it turns on you." *"Light and
+  wind run on opposite schedules… there is no calm dark day"* is this city living permanently inside Air's own
+  stated duality, never resting fully in either pole.
+- **Every consequence downstream of the wind** — the seal-loop's bodily cost, the two wardrobes, the windows
+  facing the lee, the annual thaw as reckoning, the craft-transmission model forced into master-apprentice —
+  all trace back to this one agent, exactly the shape `Robot_Elementals.md` describes: Air itself does
+  nothing; it determines everything downstream of it.
+
+**Not adopted, and explicitly checked against:** Water (freeze-thaw/cryosuction is real background physics
+here but was never adopted as this city's own governing mechanism — the research pass diverged away from it
+toward the wind); Earth (the rock/ice axis is real and load-bearing, but Earth's own definition is about
+ground *failing* — liquefying, losing contact — and Shirayuki's rock does not fail; only the ice is cyclical,
+and even that is routine rather than catastrophic).
+
+## The determination
+
+> # **Uranus + Air.**
+
+**One sentence each, per procedure:** *Uranus, because the city's entire identity is a reorientation around a
+permanent condition it never chose, adopted as the new baseline rather than treated as damage to fix. Air,
+because a persistent, unseen, directional wind is the one agent present in nearly every finding this pass
+produced, and its own defining duality — inert until it moves, sheltering when still, stripping when not — is
+this city's own seasonal and civic dial.*
+
+---
+
 # C · ⭐⭐⭐ THE CATALOG — **four categories, kept separate**
 
 ## C.1 — NAMED PLACES AND LANDMARKS
@@ -173,7 +244,7 @@ of existing findings rather than new material — recorded as such, not dressed 
 | ⭐⭐⭐ **LIGHT GLOVES** | **A staple, not equipment.** *Thin enough for precision work, destroyed fastest by grit, visibly worn, openly replaced, mended in public.* ⭐ **And for a robot, seam protection as well as warmth** |
 | ⭐⭐⭐ **GLAZING** | **The second consumable.** *Windward glass clouds rather than breaks — a gradual, total, unremarkable failure* |
 | ⭐⭐ **THE HEAVY COAT** | *The second wardrobe.* **Wind-facing, not precision kit, worn in the season the work stops** |
-| ⭐⭐ **CROWBARS, ICE AXES, SLEDGEHAMMERS** | ***Canon's most mundane category, and this city's ordinary Tuesday*** — *raising, re-levelling, digging out* |
+| ⭐⭐ **CROWBARS, ICE AXES, SLEDGEHAMMERS** | ***Canon's most mundane category, and this city's ordinary Tuesday*** — *raising, re-leveling, digging out* |
 | ⭐⭐⭐ **COOLANT-TENDING KIT** | ***Canon: "the single most intimate category in the entire taxonomy"*** — *and here the air generates the need for it* |
 | ⭐⭐ **NON-ABRASIVE CLOTHS · SEALANTS · WAX** | **The care kit.** *Where doing it wrong does the damage faster than neglect* |
 | ⭐⭐ **THE PRESERVING STORES** | *Dried and frozen as ambient; **salt as a marked import***; fermentation crocks kept indoors, in warmth |
@@ -186,7 +257,7 @@ of existing findings rather than new material — recorded as such, not dressed 
 | ⭐⭐⭐ **The one who is asked back** | *The city's real credential.* **Uncertified, ungoverned, and everyone knows who they are** *(Ph 7 `7c.3`)* |
 | ⭐⭐⭐ **The one who is invited, agreed with, and nothing follows** | ***The shadow, in a person.*** **No policy excluded them; nobody decided; they are simply not asked back** ⚠ **`00d`: sympathetic, not criminal** |
 | ⭐⭐ **The drainage-crew hand** | *Compulsory tier. The reason the streets are clean, and nobody thinks of it as culture* |
-| ⭐⭐ **The ice hand** | *Raising and re-levelling, a little at a time, forever* |
+| ⭐⭐ **The ice hand** | *Raising and re-leveling, a little at a time, forever* |
 | ⭐⭐⭐ **The coolant-tender** | ***A caretaker relationship canon calls an act of trust*** — *and here an ordinary, seasonal, constant one* |
 | ⭐⭐ **The arriving student** | **Came for the university, on a national ticket** — ⭐ *and some of them stay, for the thing the institution cannot grant* |
 | ⭐⭐ **The one who mends gloves** | *A staple trade, unglamorous, universal custom* |
@@ -276,6 +347,6 @@ SHARED rather than ADJACENT, and shared edges do not bleed character — they im
 
 📎 **PHASE 4 IS COMPLETE — all eleven phases written.**
 📎 **Next: `Step 5 — Reconciliation (and the CLOSE pass)`** — ⚠ ***this is where the read-last material finally
-opens as a CHECK***: `Local_Cultures/Mirny_Subnet/Shirayuki.md`, the `Course_of_Events/` vignettes, and the
-`04z` §7 inventory of newly-admissible stock.
+opens as a CHECK***: `Local_Cultures/Mirny_Subnet/Shirayuki.md` and the `04z` §7 inventory of
+newly-admissible stock.
 📎 `00_Frame.md` · `01_Inherited.md` · `02_Spine.md` · `03_Research.md` · `04_Phase_02…09` · `04z` · `09.5_Log.md`

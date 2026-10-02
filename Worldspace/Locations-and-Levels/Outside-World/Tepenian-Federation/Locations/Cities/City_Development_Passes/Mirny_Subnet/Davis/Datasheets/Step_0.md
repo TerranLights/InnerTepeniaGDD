@@ -12,7 +12,7 @@
 | Population band | 5 — Regional (~1M–50M), 1,158,314 | `00_Frame.md` §0.1, L65–67; ruled by `DR-4` |
 | Extent band | UNDETERMINED — blocked check, filed `REQUESTED` | `00_Frame.md` §0.1, L75–81 |
 | Status | LIVING (explicitly not `Declining`) | `00_Frame.md` §0.1, L83–90 |
-| Temporal frame | Second Interwar, 2564–2812 (248 years); Acts split ≈ Act 1 first 18% | `00_Frame.md` §0.1, L92–105 |
+| Temporal frame | Second Interwar, 2564–2812 (248 years); Act 1 is the earlier part, a hazy range not yet dated | `00_Frame.md` §0.1, L92–105 |
 | Parent | Mirny Arcanet subnet — UNWRITTEN | `00_Frame.md` §0.1, L107–108 |
 | Children | NONE, by deferral (`DR-4` suspends the 3→4 decomposition threshold) | `00_Frame.md` §0.1, L110–112 |
 | Sibling set | Exists, read-forbidden in-run (write-only differentiation table) | `00_Frame.md` §0.1, L114–121 |

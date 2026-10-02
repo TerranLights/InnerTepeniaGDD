@@ -99,10 +99,10 @@ icebreaker-dependent.**
 
 | ULM finding | Disposition |
 |---|---|
-| ⛔ **Phase 7 §A.4 — maritime *"considered for the mandate and rejected… not dependent on its own shipping"*** | ⛔⛔ **The reasoning is void. `16` §19 is re-ruled: the sector stays FREE because hub status is infrastructure rather than provider work, and Option B holds at mandate 28.2% / free 31.1%.** **Phase 7's text needs replacing** |
+| ⛔ **Phase 7 §A.4 — maritime *"considered for the mandate and rejected… not dependent on its own shipping"*** | ⛔⛔ **The reasoning is void. `16` §19 is re-ruled: the sector stays FREE because hub status is infrastructure rather than provider work, and Option B holds at mandate 28.2% / free 31.1%.** ✅ **Phase 7 §A.4 carries the port ruling** |
 | ⭐⭐ **Phase 7 §A.3 — *Davis is power-limited, not land-limited*** | ✅ **STRENGTHENED, and it is the mechanism the ruling needed.** **`10` §5e names the constraints as *energy, glass, CO₂, labor, logistics*** ⇒ ***those are imports. The port feeds the greenhouses; it does not empty them*** |
 | ⭐ **Phase 7 §A.5 — Davis is the SUBSTITUTABLE one** *(canon: "Davis can be supplemented by fishing fleets")* | ✅ **UNAFFECTED.** *Food substitutability and import dependence are different axes* |
-| ⛔ **Phase 10 §C — the landmark set** | ⚠ **No port appears in it. The catalog needs the harbor as its primary structure** |
+| ⛔ **Phase 10 §C — the landmark set** | ✅ **The harbor is the catalog's primary structure** *(§C row 6)* |
 | ⭐ **Phase 5 — relation and geometry** | ⚠ **Written before Davis had an outward maritime relationship. Needs re-checking** |
 
 > ### ⭐⭐ AND IT DOES NOT DISTURB THE BREADBASKET
@@ -144,23 +144,26 @@ icebreaker-dependent.**
 |---|---|
 | ⛔⛔ **The Sediment Core Archive** — *reached as "the physical anchor of Davis's comfort-with-multiplicity belief structure"* | **Withheld Megasheet content, reaching this pass only as a citation.** ⚠ ***This was recorded as the strongest corroboration in the run*** |
 | ⛔ **Wren Kalloway (founding Administrator) · Ratna Wirawan (naturalist)** | **History-file figures.** ⇒ **Phase 2's `H8` is NOT answered. Phase 10 §F.3's zero STANDS as written** |
-| ⛔ **The Vladivostok "wish"** | **History-file — and moot: the port ruling makes Davis the thing the wish was about** |
+| ⛔ **The Vladivostok "wish"** | **History-file — not canon; inadmissible** |
 | ⛔ **The Earth-valence synthesis** | **Davis's Elemental assignment is now BLANK by developer ruling** |
 | ⛔ **Terrain-keyed surface markers · sound-naturalism** | ⚠ **Admissible in themselves** *(derived from §13, §14 and robot acoustic canon)* **but they are Tier 3 PROPOSALS, not canon.** ⇒ **Phase 8's `H45` and `H46` remain OPEN with candidates noted, not filled** |
 
 ---
 
-# 6 · ⭐ THE GPS NARROWING — **the ULM was over-broad**
+# 6 · ⭐ THE GPS NARROWING — **the ULM's refusal stands**
 
-**Phase 10 refused the city's namesake outright as a GPS-law violation. The culture sheet builds its identity
+**Phase 7 refused the city's namesake outright as a GPS-law violation. The culture sheet builds its identity
 on it.**
 
-| ⛔ GPS violation — stands | ✅ Legitimate — the ULM wrongly refused it |
-|---|---|
-| **`Specs` / §2: the station was operated by a national program since 1957, therefore *"Australian founding character shaped Davis from the outset"*** — ***site lineage → population culture, the law's exact target*** | ⭐⭐⭐ ***"The founding generation CHOSE his name deliberately."*** **An in-world act by the people who live there, and the meaning they built on it** |
+| ⛔ GPS violation — stands |
+|---|
+| **`Specs` / §2: the station was operated by a national program since 1957, therefore *"Australian founding character shaped Davis from the outset"*** — ***site lineage → population culture, the law's exact target*** |
+| ***"The founding generation CHOSE his name deliberately"*** — **a namesake's biography read as the city's meaning** (`DR-28`) |
 
-> # ⇒ ***The law bars inheriting a site's identity. It does not bar a population from choosing a name and meaning it.***
-> ⚠ **`H62` — the founding-character sentence needs a developer ruling; it is not this pass's to strike.**
+> # ⇒ ***The law bars a site's identity AND its namesake's biography as inputs; the city's name is a coordinate label.***
+> ✅ **`H62` — ruled by `DR-19`:** a city's character never stands on the station or its operator. **The
+> Australian founding itself stands on geography** (`DR-29`, `Founding_Register.md`); the operator-to-character
+> inference is the culture sheet's to correct, outside this pass.
 
 ---
 
@@ -183,7 +186,7 @@ on it.**
 | ⭐⭐ `H65` | **Where Davis's icebreaking is based and who operates it.** ⚠ *The capability itself is established Tepenian practice; only the siting is open* |
 | ⭐ `H66` | **The inbound manifest — what actually arrives** |
 | ⭐ `H67` | **Whether a national import port fits inside a maritime sector at 15% of the distinctive tier** |
-| ⚠ `H62` | **The founding-character sentence — a GPS-law question for the developer** |
+| ✅ `H62` | **The founding-character sentence — ruled by `DR-19` (§6).** ⚠ *The correction sits in `Local_Cultures`, outside this pass* |
 | ⏸️ `H8` | ⛔ **REOPENED. Davis's founding administration is unanswered; the figure that appeared to answer it is history-file** |
 
 ---
@@ -202,8 +205,8 @@ continuously by the landscape rather than taught once by an anecdote.***
 real-feeling and none was admissible.** ⭐ **Seven convergences survive on canon sources, including the whole
 credit-kinship mechanism, which `16` carries independently of the incident that supposedly originated it.**
 
-**Biggest doubt:** ⚠ **§3.** **The port ruling is canon and the pass has not yet been rewritten to it —
-Phase 7 §A.4 still carries void reasoning in its own text, and Phase 10's catalog has no harbor in it.**
-***Step 5 records the reconciliation; the phases have not yet been brought into line.***
+**Biggest doubt:** ⚠ **§3.** **The port ruling is canon, and Phase 7 §A.4 and Phase 10's catalog carry it —
+but the harbor's operating season and its icebreaking are open (`H65`), and Phase 5 was written before Davis
+had an outward maritime relationship.**
 
 ⛔ **STEP 6 — DIFFERENTIATE (WRITE-ONLY) — opens next. Not opened here.**

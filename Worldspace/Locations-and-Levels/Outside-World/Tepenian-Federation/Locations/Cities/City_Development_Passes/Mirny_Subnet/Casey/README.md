@@ -33,7 +33,8 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Casey.md` |
+| ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built. ⛔ **Does NOT replace any MUST-OPEN read** — Step 4 still opens every primary source in full, per the Field Guide's own guardrail |
+| **Spec** | `../../../Specs/Mirny subnet/Casey.md` |
 | **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Casey.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Casey.md` |
 | **Research log** | `../../../Research_Logs/Casey_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |

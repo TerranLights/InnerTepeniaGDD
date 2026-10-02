@@ -28,14 +28,14 @@ DERIVED` may be superseded by the ULM · `4 · TEST RUNS` is closed for the pass
 | # | Inherited claim | Source | Tier |
 |:--:|---|---|:--:|
 | **I-1** | The Jeju-do court settled this city's claim to its own site — exclusively, before the exile era, uncontested | `Specs/Zhongshan.md`, Founding | **1** |
-| **I-2** | Continuous Sinian habitation and administration through the entire First Interwar (~481 yr) — a ruled exception to the rotating-operator model | `Specs/Zhongshan.md`, Founding · `No_National_Stereotypes.md` L17 | **1** |
+| **I-2** | Continuous Sinian habitation through the entire First Interwar (~481 yr) — a ruled exception to the rotating-operator model | `No_National_Stereotypes.md` L17 | **1** |
 | **I-3** | Census I `1,151,489` → Census II `897,016`; the change is pre-war migration to the orbital tier, not loss | `Official_Population_Census.md`; `Specs/Zhongshan.md` Population & Composition | **1** |
 | **I-4** | The `−10%` census ruling is an authoring adjustment, not an event — "nobody left this city" | `Specs/Zhongshan.md` Population & Composition | **1** |
 | **I-5** | 18 nations, tiered Primary/Significant/Notable; China 35.83% Primary, the eighteen summing to exactly 100% | `Specs/Zhongshan.md`, Per-Nation Breakdown | **1** |
 | **I-6** | Access ON · Hwy 110's western terminus · a tri-junction shared with Hwy 4 and Hwy 22 · Prydz Bay harbor | `Specs/Zhongshan.md` header, L7 | **1** |
 | **I-7** | This city is "a strong candidate" for a third national fabrication-chamber site — explicitly undecided | `Robot_Physiology_and_Cultural_Practices.md` L409 | **1**, unresolved candidacy |
 | **I-8** | A "bohemian/cosmopolitan" glitch-coolant culture — variety and refinement over raw intensity | `Robot_Physiology_and_Cultural_Practices.md` L281 | **1** |
-| **I-9** | Kinship tie to Kunlun, via shared Chinese-origin population — narrower than the source: the Mountain Pass chamber-manufacturing joint venture and its post-Tower failure are post-war/Tower-adjacent and are NOT inherited into this frame | `National_Medical_and_Care_Institutes.md` L109 | **1**, scope-narrowed |
+| **I-9** | A tie to Kunlun on the census tiers — China is Primary-tier in both cities; Kunlun's founding population is UNRULED (`Founding_Register.md`), so the tie rests on the tiers, not on a shared founding — narrower than the source: the Mountain Pass chamber-manufacturing joint venture and its post-Tower failure are post-war/Tower-adjacent and are NOT inherited into this frame | `National_Medical_and_Care_Institutes.md` L109 · `Official_Population_Census.md`, Kunlun tier table | **1**, scope-narrowed |
 | **I-10** | Ossuaries are canon, mixed (metal and calcium bone together), and sacred-and-untouchable — metal is mined from quarries, never taken from the dead | `Robot_Physiology_and_Cultural_Practices.md` L75–140 | **1** |
 | **I-11** | "A chaotically-organized city… semi-gridlike streets… activity that seems to have purpose, and things generally have purpose here." Coastal fishing as a food backbone | `City_Vision_Notes/Zhongshan.md` L17 | **2** |
 | **I-12** | `G1` = Saturn + Metal | `City_Symbol_Assignments.md` L95 | **3** — provenance-downstream of a personality read; corroboration only, per `05` §6.1c |
@@ -72,10 +72,10 @@ before any of them arrived."*
 |---|---|
 | Who does the mechanism decide against? | Everyone who was not a party — fifteen of the eighteen nations now living here |
 | Is that outcome as durable as the favorable one? | More durable. The claim was settled before the exile era began, so it was never available to be competed for |
-| Is there a route back? | None is written, and none appears possible. The court sat once, before anyone arrived. No second sitting, no appeal, no mechanism by which a later-arriving population could acquire a claim |
+| Is there a route back? | None is written, and none appears possible. The court sat once, before the exile era began. No second sitting, no appeal, no mechanism by which a later-arriving population could acquire a claim |
 
-**The open asymmetry:** `64.17%` of this city's population belongs to nations that had no standing in the
-settlement that founded it — and the settlement is the reason the city has never had to defend its own
+**The open asymmetry:** `47.17%` of this city's population belongs to nations that had no standing in the
+settlement that confirmed its claim — and the settlement is the reason the city has never had to defend its own
 existence. Not resolved here. Phases 2 and 7 own it, and `00d` applies directly: if nobody experiences this as
 a grievance, it is a candidate shadow, not a politics.
 
@@ -181,7 +181,7 @@ holds which portion of it. Phases 7 and 8 own it.
 | **I-6 · network position** | Geometry. A terminus is not a gate |
 | **I-8 · the glitch-coolant register** | A described variety, and canon shows the axis is graded rather than gated — a third variant (Troll) exists inside one pole. No threshold |
 | **I-5 · the nation tiers** | `02` G8 reads composition for named portable institutions, never for percentages — the tiers are weighted relative ranking, not a census. Tier membership is not an in-world status to be gated in or out of |
-| **I-9 · the Kunlun kinship tie** | A shared-ancestry fact, not a mechanism. Nobody is admitted to or excluded from kinship by a rule |
+| **I-9 · the Kunlun tie** | A census-tier fact, not a mechanism. Nobody is admitted to or excluded from it by a rule |
 
 ---
 
@@ -191,7 +191,7 @@ holds which portion of it. Phases 7 and 8 own it.
 |---|---|
 | ✅ May ground a finding | I-1 … I-10, I-13 (tier 1) · I-11 (tier 2, primary) |
 | ⚠ Corroboration only | I-12 — `G1` is provenance-downstream of a personality read (`05` §6.1c); usable members and definitions, never the rationale |
-| ⛔ May not ground a finding | `Background-Lore/` (unratified → demoted) · I-15 (read-last) · I-16 (closed) |
+| ⛔ May not ground a finding | `Background-Lore/` (not canon — never an input) · I-15 (read-last) · I-16 (closed) |
 | ⛔⛔ Pre-declared non-independent | `00_Frame.md` `R-10` — if this pass's own Step 2 independently produces a capability shape matching `06_Worked_Example_Provenance.md`'s Run-4 gloss (`STANDING COST populated by G2+G4`), that agreement is not evidence |
 
 ---

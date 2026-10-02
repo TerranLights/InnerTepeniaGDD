@@ -129,8 +129,7 @@ absence is correct rather than a skip.**
 ornament as change.** ⭐ **Inspected: all three are load-bearing — remove any one and `Step 3.6` does not
 resolve.** ✅ **But the honest note is that the pick count is LOW (3), so the ratio is weak evidence either way.**
 
-⏸️ **`Step 3`'s own open threads remain open and are recorded** *(whose `Mark IV` revisions; the ATCM management
-plan governing three stations on one site)*.
+⏸️ **`Step 3`'s own open threads remain open and are recorded** *(whose `Mark IV` revisions)*.
 ✅ **PASS, with the low-N caveat stated.**
 
 ---

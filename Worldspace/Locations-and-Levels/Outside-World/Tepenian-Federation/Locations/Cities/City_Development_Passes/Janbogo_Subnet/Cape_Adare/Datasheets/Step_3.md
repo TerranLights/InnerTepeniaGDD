@@ -1,0 +1,17 @@
+# Cape Adare — Datasheet · Step 3 (Research)
+
+> ⚠ **DRAFT.** Genuinely thin, per the Field Guide's own prediction — "the deficits Step 2 named" don't exist
+> yet, since Cape Adare's own Step 2 hasn't run. This file is a status check, not a findings summary.
+> ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
+
+| Category | Value | Citation |
+|---|---|---|
+| Research log | Checked, **does not exist yet** — created at Step 3 when it actually runs, same convention corpus-wide, and already flagged as such in this city's own pass README | Re-verified 2026-09-30: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/` has no Cape_Adare file; `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/README.md` L39 notes *"may not exist yet — Step F creates it"* |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` — "picks to mine" | ⚠ **DEMOTED, not a ratified root** — the file declares no status and does not live in a ratified root, so under `05` §6.3 rule 6 it cannot ground a finding. Content as listed: **Yalta, Crimea [PRIMARY]** · **Lahti, Finland [SECONDARY]** · **Boulders Beach / Simon's Town, South Africa [SECONDARY]** (the entry carries its own annotation about penguins living inside a residential neighborhood) | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md` L35–38; status rule at `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/05_The_Input_Contract.md` L709–713 |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/City_and_District_Research_Topics.md` — the research-topic index | Heading: *"Cape Adare (first human footprint in Antarctica, penguin colony)"* · topics: *"Real Cape Adare/Borchgrevink expedition history — the actual first overwintering site in Antarctica"* · *"Adélie penguin colony ecology — Cape Adare hosts one of the largest real colonies on the continent"* — the first topic is real-site history — ⛔ not an input (rule 7); recorded only so Step −1 strikes it | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/City_and_District_Research_Topics.md` L293–295 |
+| Overlap with the eBook pre-staging queue | This step's real work (search strings, book-extraction checklists) is the same category of any-hour mechanical prep already queued corpus-wide — not duplicated here | Cross-link, not re-derived |
+
+**Not mechanical / not included here:** any actual research finding — none exists until Cape Adare's own Step 2
+names a real deficit to aim at, and Step 3 itself runs. **Per `LAW 0-R`, a pick is not exhausted because it has
+been searched once** — this table records what the picks list currently says, not a completed research pass
+against them.

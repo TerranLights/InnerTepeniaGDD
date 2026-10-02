@@ -151,8 +151,7 @@ ACCOMMODATION MACHINERY — a default plus a standing procedure for when the def
 
 > ### ⭐⭐⭐ AND PHASE 7 DERIVED EXACTLY THAT, FROM SOMEWHERE ELSE ENTIRELY
 > **`04_Phase_07_Order.md` found governance by expectation — *notify, propose, defer* — with no defined
-> arbiter, sourced five ways** *(the ASMA plan, the ASPA permit regime, emergency-response norms, Midwinter, and
-> Falkland Treaty Art. III.1)*. ⭐ **"A default plus a standing procedure for when the default does not fit,
+> arbiter, sourced three ways** *(Antarctic emergency-response norms, Midwinter, and Falkland Treaty Art. III.1)*. ⭐ **"A default plus a standing procedure for when the default does not fit,
 > and nobody empowered to decide" is the same object, reached from composition arithmetic instead of from
 > governance canon.** **Two instruments, one answer, genuinely independent.**
 
@@ -251,7 +250,7 @@ result, which the technique calls the valuable one:**
 
 ### ⭐⭐⭐ And `03_Research.md` §3.6 reached the same place from real-world research, before this instrument was opened
 
-**That step found — from the real ASMA management plan and from Midwinter Day's exchange observance — that what
+**That step found — from Midwinter Day's exchange observance, general Antarctic practice — that what
 fills this city's `no majority` slot *"is not a shared origin, it is a shared DATE,"* and that Midwinter's whole
 appeal is that ***it belongs to nobody's origin nation specifically.***
 
@@ -414,7 +413,7 @@ is SHARED, not COMPARATIVE.* **No ranking is drawn and no other city is used as 
 
 | Condition | What it does to how music is actually encountered |
 |---|---|
-| ⭐⭐ **THE SHARED NIGHT** *(`00_Frame.md` §0.6b, Phase 4)* — robots recharge overnight, humans sleep; **everyone stops at the same time** | **There is one evening, and everybody is in it.** *A city where half the population worked through the dark would have two audiences and two repertoires; this one has one* |
+| ⭐⭐ **THE SHARED NIGHT** *(`Robot_Physiology_and_Cultural_Practices.md` §Downtime, Recharging and Leisure; Phase 4)* — robots recharge overnight, humans sleep; **everyone stops at the same time** | **There is one evening, and everybody is in it.** *A city where half the population worked through the dark would have two audiences and two repertoires; this one has one* |
 | **`79,360` residents per km² of ice-free ground** *(`05` §3, corrected)* — three municipalities on one rock | **Nothing is far away and nothing is soundproof.** Music is a thing heard through a wall at least as often as it is attended |
 | **The wind peaks at midnight, all year, and dies before noon** *(Phase 4, Q43–44)* | ⭐ **The loudest hours are the darkest, and they are also the cheap ones.** The city's ambient sound has a nightly shape nobody chose |
 | **`174` gale days** | Outdoor gathering is not a general-population option most of the year |
@@ -835,7 +834,7 @@ transmission always runs through humans.
 > from.** **Then both drifted together, for another two and a half centuries, with the correction permanently
 > unavailable.**
 
-**And Phase 2 supplies the sharpest linguistic consequence, in canon's own words:**
+**And Phase 2 supplies the sharpest linguistic consequence, in its paraphrase of canon (`No_National_Stereotypes.md` L168, L19):**
 
 > ## ***"Records can cross as artifacts; instruction cannot."***
 > ⭐ **A text from the older branch could survive as an OBJECT. Nobody was ever taught to read it the way it was
@@ -891,7 +890,7 @@ own roster shares, its own two-clock divergence, its own closed border, and its 
 ranking, no other city as a control.**
 
 ⭐ **And note which instrument produced it:** `R4`'s third-order consequence, arrived at independently by
-`03_Research.md` §3.6 from the real ASMA and Midwinter Day. **Composition arithmetic and real-world research,
+`03_Research.md` §3.6 from Midwinter Day. **Composition arithmetic and real-world research,
 agreeing.**
 
 ---
@@ -920,7 +919,7 @@ agreeing.**
 | `04_Phase_05`:343 | **The four-month window as a making-and-provisioning calendar; a constructed port implies a rebuild trade, a skill and a season** | ⛔ **DROPPED ENTIRELY** |
 | `04_Phase_06`:403 | **The contemplative classical tradition** — ⛔ *derive from this city's own conditions, NOT the Zen aesthetics read that phase* · the unserious midday thing as leisure texture | ⛔ **DROPPED** |
 | `04_Phase_03`:235 | **The construction-age seam as a craft/building-material finding** | ⚠ *Used for dress at §8.4, not as craft* |
-| `03_Research.md`:254 · :269 | **Posikunchiki** at Phase 8 depth · **the wind as a resource, not only a cost** | ⛔ **DROPPED** |
+| `03_Research.md`:250 · :265 | **Posikunchiki** at Phase 8 depth · **the wind as a resource, not only a cost** | ⛔ **DROPPED** |
 
 > ⚠ **The contemplative classical tradition was handed to this phase THREE separate times** *(Phases 2, 4 and
 > 6)*, **and §8.3 wrote a music section without it.** ***That is the worst consequence of the skipped sweep, and
@@ -943,7 +942,7 @@ agreeing.**
 | Fact | Source |
 |---|---|
 | **The katabatic wind runs ALL YEAR, with a diurnal cycle: begins evening, peaks at midnight, dies before noon** | `03_Research.md` Q43–44 |
-| **The shared night** — robots recharge overnight and humans sleep; **everyone stops at the same hour** | `00_Frame.md` §0.6b · Phase 4 |
+| **The shared night** — robots recharge overnight and humans sleep; **everyone stops at the same hour** | `Robot_Physiology_and_Cultural_Practices.md` §Downtime, Recharging and Leisure · Phase 4 |
 | **`79,360` residents per km² of ice-free ground.** Nothing is far away and nothing is soundproof | `05` §3, corrected |
 | **FAR STOCK.** Eighteen origins, no two tuning or interval systems structurally compatible, **so the commons had to be built here** | §8.1's `R4` |
 
@@ -995,7 +994,7 @@ what it means to live in. ⭐ Its craft half is a separate finding: two building
 traditions, two material vocabularies, and two definitions of what a fix is FOR.**
 
 **On the rock, a repair is expected to be permanent. On the apron, it is expected to be re-done** — the ground
-is re-levelled on a schedule *(`05` §3)*. ⭐ **The same trade, in the same city, holds two opposite standards of
+is re-leveled on a schedule *(`05` §3)*. ⭐ **The same trade, in the same city, holds two opposite standards of
 a good job** — and `Phase 7` §7a.5 established that the difference is a cost gradient wearing a status
 gradient's clothes.
 
@@ -1028,7 +1027,7 @@ generation peaks at midnight because the wind does.**
 | | |
 |---|---|
 | **The demonym** | ⏸️ **An open canon question** *(`04_Phase_02`:324 — *"Zhongshaners"?*)*. ⛔ **Not answered here** — naming a people is developer territory under the same rule that governs person-names |
-| **The unserious midday thing** | ✅ **`Phase 6` §6.2 owns it** — *a trivial midday observance that happens when the wind finally drops and cannot be put in a calendar.* ⭐ **Its leisure half sharpens §8.6b: this city's leisure has TWO poles — an indoor, simultaneous, metered night, and an outdoor, unschedulable midday.** *The second is the only part of the day the wind gives back* |
+| **The unserious midday thing** | ✅ **`Phase 6` §6.6 owns it** — *a trivial midday observance that happens when the wind finally drops and cannot be put in a calendar.* ⭐ **Its leisure half sharpens §8.6b: this city's leisure has TWO poles — an indoor, simultaneous, metered night, and an outdoor, unschedulable midday.** *The second is the only part of the day the wind gives back* |
 
 ---
 

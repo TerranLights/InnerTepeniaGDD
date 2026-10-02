@@ -119,7 +119,7 @@ deleted correct entries — including a procedural refusal that is the most usef
 
 > ### ⭐⭐⭐ THE PATTERN WORTH RECORDING
 > ***All three failures were in the HANDOFF, not in Davis's pass.*** **Nothing the check found made any finding
-> about Davis wrong.** ⭐ **A pass can be complete, internally sound, thirteen-gates-clean — and still not be
+> about Davis wrong.** ⭐ **A pass can be complete, internally sound, fourteen-gates-clean — and still not be
 > safe to hand over.**
 > ⚠ **And declaring readiness without running this would have been wrong THREE TIMES, on a session that had
 > just spent an hour being careful.**
@@ -130,8 +130,8 @@ deleted correct entries — including a procedural refusal that is the most usef
 
 > # ⚠ **READY TO CLOSE — NOT READY TO HAND OFF TO THIS SESSION**
 
-✅ **Davis's pass is COMPLETE: Steps −1 through 10, thirteen gates passed, two honest fails recorded and not
-waived, the Review Panel run, the differentiation column written, seven methodology findings logged and
+✅ **Davis's pass is COMPLETE: Steps −1 through 10, fourteen gates passed, one honest fail (Gate 0) recorded, not
+waived, and fixed at Step 9, the Review Panel run, the differentiation column written, seven methodology findings logged and
 implemented.**
 
 ⛔⛔ **But the next pass CANNOT be run by this session.** **This orchestrator has read the next subject's own

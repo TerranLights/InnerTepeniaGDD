@@ -33,12 +33,17 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Mirny.md` |
+| ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built. ⛔ **Does NOT replace any MUST-OPEN read** — Step 4 still opens every primary source in full, per the Field Guide's own guardrail |
+| **Spec** | `../../../Specs/Mirny subnet/Mirny.md` |
 | **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Mirny.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Mirny.md` |
-| **Research log** | `../../../Research_Logs/Mirny_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
+| **Research log** | `../../../Research_Logs/Mirny_Research_Log.md` — *created by the ULM's own Step 3* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 
 📎 Progress: `MASTER_Process_Tracker.md` · `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`
 *(all in `Universal_Location_Methodology/`)*
+
+---
+
+**Archived records (`DR-27`, 2026-10-01):** this pass's `T8` reader files (`.t8_*`), `T8` round records (`*b_T8_Rounds_*`) are at `Archive/ULM_Records/City_Development_Passes/Mirny_Subnet/Mirny/` (repo root), same file names. A citation here to one of them resolves there. Not canon; not an input.

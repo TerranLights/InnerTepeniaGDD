@@ -1,5 +1,12 @@
 # Davis — Datasheet · Step 5 (Reconciliation)
 
+> ⛔⛔⛔ **SUPERSEDED, 2026-09-21 — DAVIS'S PASS HAS ACTUALLY RUN.** This datasheet was pre-staged input for a
+> pass that had not started; Davis's real Step 5 output lives at `05_Reconciliation.md` in this city's own pass
+> folder. **Do not consult this file for Davis's reconciliation work.** Retained below as a record only, with
+> one line removed that overstepped copy-paste scope: a prediction about how future cities' own passes would
+> fare, which is not something any source states — see `Mechanical_Extraction_Field_Guide.md` if that class of
+> finding needs recording.
+
 > ## ⛔⛔⛔ A GATE STANDS BEFORE THIS STEP — **run it FIRST.** *(added 2026-09-16)*
 > **`00_RUNBOOK.md` L2682 — the `M-208` CLOSE-OUT CHECK: *"run once, after Phase 10, before moving to Step
 > 5."*** ***"A pass may not proceed to Step 5 with a `⛔ NEVER CITED` row that nobody has looked at and
@@ -17,7 +24,6 @@
 > Step 4 had already been declared complete. ***A receipting defect, not a coverage one.***
 > ✅ **RESOLVED 2026-09-16:** receipts added to Phases 6–10; **7 of 8 now `OK`**; **`G6`'s legitimate-null
 > disposition written once into `09.5_Log.md` §1.3**, so the check passes clean on re-run.
-> ⭐ ***Expect the same failure at every other city*** — the per-phase `MUST OPEN` discipline cannot see it.
 
 > ⛔⛔ **OTHERWISE DELIBERATELY EMPTY — NOT AN OVERSIGHT.** The only slot in the full 22-file inventory that is
 > fully blocked, not merely undone.

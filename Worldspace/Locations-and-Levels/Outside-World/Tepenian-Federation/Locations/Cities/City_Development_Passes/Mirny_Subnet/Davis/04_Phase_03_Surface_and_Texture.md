@@ -202,12 +202,12 @@ research supplies real precedent for **extremophile communities in hypersaline w
   unweathered, vegetation-richer ground from ground where physical weathering produces *abundant sand*.**
   ⇒ ***Underfoot, Davis is not one surface. It is at minimum two: sound rock, and rock being turned into
   sand.***
-  ✅ **The axis identity IS established** *(`H22` resolved — §F.5)*: **west/coast is the marine-salt side,
-  east/ice-sheet the weathering side, and `Gore et al. 1996` is site-specific rather than a comparative aside
-  from a different oasis.** ⚠ **Where the line RUNS — its mapped position and how sharp it is — is still NOT
+  ✅ **The axis identity IS established** *(`H22` resolved — §F.5)*: **west/coast is the marine-salt side, where
+  the rock is being turned to sand; east/ice-sheet is the salt-poor, relatively unweathered side; and
+  `Gore et al. 1996` is site-specific rather than a comparative aside from a different oasis.** ⚠ **Where the line RUNS — its mapped position and how sharp it is — is still NOT
   established.**
-- ⭐ **The soft ground is centimetres deep.** ***"Periglacial"*** is the registered term for ice-free ground
-  bordering ice, and its active layer is *"only the top few centimetres."* **Below it, permanently frozen
+- ⭐ **The soft ground is centimeters deep.** ***"Periglacial"*** is the registered term for ice-free ground
+  bordering ice, and its active layer is *"only the top few centimeters."* **Below it, permanently frozen
   ground; below that, ground kept unfrozen by geothermal heat.** ⇒ **a thin seasonal skin over a frozen slab.**
 - **The air is mild for the continent and still cold.** Mean **−10.0 °C**; coldest months about **−21 °C**;
   record low **−41.8 °C** — ⚠ **in APRIL, not midwinter** — against a record high of **+13.0 °C** in January.
@@ -247,7 +247,7 @@ diversity within the city's geography unusual in Tepenia**."*
 
 | Register | What canon establishes |
 |---|---|
-| **Street level** | Broken and salt-eaten rock, sand where weathering has finished, a centimetre-deep active layer, cold-but-moderate air, moderate wind, very little falling weather *(~6–7% precipitation probability in December and January)*, four terrain registers — and **quiet** |
+| **Street level** | Broken and salt-eaten rock, sand where weathering has finished, a centimeter-deep active layer, cold-but-moderate air, moderate wind, very little falling weather *(~6–7% precipitation probability in December and January)*, four terrain registers — and **quiet** |
 | **Institutional interior** | **Sheltered agriculture and greenhouse cultivation** — *"the clear majority of daily activity"* — warm, wet, growing, **and thermally managed on purpose** |
 | **Third register, small and named** | *"Large enough to support a small arts and music community. Most non-work time goes to bars, eateries, and general social establishments"* |
 
@@ -443,7 +443,6 @@ worded descriptions of the same boundary, converging on one stated mechanism.**
 - ⛔ **Does not invent texture the Phase 1 constraint does not support** — `03` L526.
 - ⛔ **Does not name, characterize or assign a state to any individual lake, inlet or structure.**
 - ⛔ **Does not claim a uniform permafrost-foundation problem across the city.**
-- ⛔ **Does not adopt §F.5's unified hypothesis** — held, with a named unread test.
 - ⛔ **Does not open, quote or infer from `Davis_Physical_Infrastructure_Attributes.md`.**
 - ⛔ **Does not carry any conclusion from `Davis_Full_Extrapolation.md`.**
 - ⛔ **Does not place any build against the undated Census I → II departure.**
@@ -480,7 +479,7 @@ worded descriptions of the same boundary, converging on one stated mechanism.**
 | ⭐⭐ **Phase 5 — Relation & Geometry** | ⭐ **FIRST IMPRESSIONS** *(§B.4)* — **the first thing Davis shows a stranger is that it is not uniform** · **§B.1's quiet, which a Passer-Through would notice before anything else** · **Prydz Bay harbor as the maritime entry** |
 | ⭐⭐ **Phase 6 — Meaning** | **§E's transition-not-depth finding; §F.3's two opposite invisibilities** — ⛔ **offered as physical substrate, not as belief** |
 | ⭐⭐ **Phase 7 — Order** | **`H17`** · ⭐⭐ **§F's permanent maintenance obligation is an ORDER question — somebody must be answerable for a cost that never completes and never announces itself** |
-| ⭐⭐ **Phase 8 — Making** | **Salt-eaten, tafoni-pitted stone; sand where weathering has finished; an impermeable rock body; a centimetre-deep active layer; a 72.8 mm/yr water budget** — the material constraints on anything made here. ⚠ **`H17` first** |
+| ⭐⭐ **Phase 8 — Making** | **Salt-eaten, tafoni-pitted stone; sand where weathering has finished; an impermeable rock body; a centimeter-deep active layer; a 72.8 mm/yr water budget** — the material constraints on anything made here. ⚠ **`H17` first** |
 | ⭐⭐⭐ **Phase 9 · Phase 6 — via `H23`** | ⭐ **The varve question.** **A city whose authority is a dated series, sited among water bodies of which only some can keep an annual layer, is a genuinely rich intersection** — ⛔ **and it is a HOLE here, not a finding** |
 | ⭐ **Phase 10 — Catalog** | **The four terrain registers, the fjord inlets, the lake system, Prydz Bay harbor, and the tafoni-pitted and sand-producing ground are the nameable features.** ⛔ **None is named here** |
 | ⏸️ **Step 5 — Reconciliation** | ⭐⭐ **H-1's invisibility convergence is the single most valuable thing to test against the read-last culture files** |
