@@ -11,10 +11,10 @@ before 2026-07-25 — first entry below.
 
 ## Derelict's Eye
 
-**Added 2026-07-25.** Grew directly out of the GPS-purposes-only sweep across city-history files, which
-established as binding law that a Tepenian city's real-world station hands its 2564 founders only a
-physical shell — a runway, a hangar, a building, centuries-dormant and unstaffed — never personnel or
-institutional continuity (`Founding_Nation_Bug_Investigation_Methodology.md`). Recognizing what one of these
+**Added 2026-07-25.** Grew out of the GPS-purposes-only law (`No_National_Stereotypes.md`): a Tepenian city's
+real-world station hands its 2564 founders its physical infrastructure, records, research, equipment and
+techniques — never personnel, a tradition or institutional continuity. Most stations were kept maintained
+across the gap, but some pre-exile structures did fall out of use (Byrd's whole station among them). Recognizing what one of these
 derelict pre-exile structures actually was, and successfully restoring it, is now a recurring founding-era
 plot mechanism across a dozen-plus cities (the runway at Marambio, the labs at Abowasa, the weather station
 at Casey, among others).
@@ -32,7 +32,7 @@ things that have been dead for centuries.
 
 **Design note:** deliberately the first entry in this still-mostly-empty category. A natural companion trait
 to `Character-Creation/Traits.md`'s "Reclaimer's Hands" (a founding-lineage trait for descendants of the
-2564 ex-program exiles who did this kind of reclamation first) — a player could plausibly have both, or
+skilled 2564 exiles who did this kind of reclamation first) — a player could plausibly have both, or
 either alone.
 
 **Real production dependency, flagged 2026-07-25 — this perk is currently decorative, not functional.** The

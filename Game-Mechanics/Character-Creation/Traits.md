@@ -123,13 +123,13 @@ direction — see that perk's own design note for how the two interact when take
 
 | Trait Name | Bonuses | Penalties | Thematic Fit |
 |---|---|---|---|
-| **Reclaimer's Hands** | +15% Precision Maintenance & Repair specifically when working on pre-exile (real Upper-Earth-era) infrastructure — recognizing and restoring centuries-dormant stations, runways, and equipment across the many cities founded this way (see `Founding_Nation_Bug_Investigation_Methodology.md`'s "ex-program exiles among the founding population" mechanic) | -10% effectiveness with purely Tepenian-developed systems the character's founding lineage never touched | Descended from a 2564 founding-era ex-program exile (aviator, researcher, engineer) — a genuinely different lineage than the Upper Earth Defectors (who arrived ~250 years later, during the Long Night War); inherited real expertise without inherited context |
+| **Reclaimer's Hands** | +15% Precision Maintenance & Repair specifically when working on pre-exile (real Upper-Earth-era) infrastructure — recognizing and restoring the long-maintained pre-exile stations, runways, and equipment the founding cities inherited (see `No_National_Stereotypes.md`: skilled exiles among the founding population, and records, research, equipment and techniques that cross the gap) | -10% effectiveness with purely Tepenian-developed systems the character's founding lineage never touched | Descended from a skilled 2564 founding-era exile (aviator, researcher, engineer) — a genuinely different lineage than the Upper Earth Defectors (who arrived ~250 years later, during the Long Night War); inherited real expertise without inherited context |
 
-**Design note on this trait's origin:** grew directly out of the 2026-07-25 GPS-purposes-only sweep across
-city-history files, which established as binding law that a city's real-world station hands its 2564 exiles
-only a physical shell — never personnel or institutional continuity — and that any inherited operational
-skill in a founding story has to trace to *ex-program exiles among the founding population itself*. This
-trait is the player-facing expression of being descended from exactly one of those figures.
+**Design note on this trait's origin:** grew out of the GPS-purposes-only law (`No_National_Stereotypes.md`):
+a city's real-world station hands its 2564 exiles its physical infrastructure, records, research, equipment and
+techniques, but never personnel, a tradition or institutional continuity, and any operational skill in a
+founding story traces to *skilled exiles among the founding population itself* or is rediscovered from those
+records. This trait is the player-facing expression of being descended from exactly one of those figures.
 
 ### Information/Cyber Warfare Traits *(added 2026-07-26, tentative — flagged for future review, not locked in)*
 
