@@ -740,6 +740,19 @@ is immediately apparent, don't force one. It's better to input nothing, than to 
 | **The search hook** | Stays OFF: *"while it was turned on, it ended up causing infinitely more problems than it solved"* |
 | **Applied 2026-10-01** | `No_National_Stereotypes.md` (both repos' references follow it: the ULM quick-reference sheet and `Human_Universals_Culture_Framework.md` §1) |
 
+## `DR-32` · ✅ **NAMESAKES ARE NEVER A BASIS FOR DATA · SAYOWA WILL BE RENAMED · MAWSON/KAZAKHSTAN NOTED**
+
+**Developer, verbatim (2026-10-01):** *"namesakes are never a basis for data. Those are strictly just neat, interesting
+in-world details"* · on Sayowa's placeholder name: *"`{{ Syowa/Showa }}` is guaranteed to be renamed. At the moment, I
+currently have no idea what, but it will definitely get a new name for sure"* · on Mawson: *"Mawson is actually
+directly underneath Kazakhstan, so that could very well be a valid option for a founding nation"*
+
+| | |
+|---|---|
+| **Namesakes** | A city's namesake (a person the real station or the city is named for) is **flavor only**: a neat in-world detail, never an input, a tie, a reason or data. Applies to the Davis↔Mawson connection: the Aurora relief voyage may appear as an in-world detail but grounds no tie. The two cities' tie, if any, stands on the Register and the map |
+| **Sayowa** | **Will be renamed** (new name not yet chosen; add to the rename list `R-17`). `{{ Syowa/Showa }}` stays a placeholder until then |
+| **Mawson** | **An option noted, not a ruling.** Mawson stays Australia in the Register (`DR-19`). Kazakhstan (≈ +3…+6; Mawson ≈ +4) is a possible founding nation for the revisit. Mongolia was a mis-sighting on the map |
+
 ---
 
 # OPEN, ARISING FROM THESE RULINGS

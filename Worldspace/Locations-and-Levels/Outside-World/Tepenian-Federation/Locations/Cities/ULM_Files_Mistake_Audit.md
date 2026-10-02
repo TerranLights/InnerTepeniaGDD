@@ -860,13 +860,13 @@ OTHER: 1 Concordia/README:37 broken path; 2 Denison Step_-1:77-102 copies City_V
 
 **Parked for the developer — none of these blocks anything:**
 
-1. **The Davis↔Mawson connection** rests on the two namesakes' real history (Aurora relief voyage). `DR-28` says that
+1. ✅ *Answered 2026-10-01 (`DR-32`): namesakes are flavor only, never a basis for data.* **The Davis↔Mawson connection** rested on the two namesakes' real history (Aurora relief voyage). `DR-28` says that
    is not an input; `DR-29` keeps Davis as written. Keep it, re-ground it on both cities' Australian founding, or drop
    the namesake story? (`City_Cross_Subnet_Relationships.md` Part 3 left untouched pending this.)
 2. **CST techniques inside the ULM** — the Unrecognized Instrument (Step 3.6), the Zodiac Lens (Phase 10 §B2), the
    Surviving Witness and Necessity Before Meaning. Their CST citations are gone. Does `DR-14` bar the techniques
    themselves?
-3. **Sayowa's name** — `{{ Syowa/Showa }}` was written as a placeholder; add it to the rename list (`R-17`)?
+3. ✅ *Answered 2026-10-01 (`DR-32`): Sayowa will be renamed; on the `R-17` list.*
 4. **Sinheung**
    - "Soyuz" is a different real station from Progress, so the spec's naming note is wrong somewhere.
    - Chamber manufacturers: two, a handful, or three?
@@ -875,7 +875,7 @@ OTHER: 1 Concordia/README:37 broken path; 2 Denison Step_-1:77-102 copies City_V
    - "Bharati Station" as an in-world landmark name versus the spec's CANON NOTE.
    - Shore or inland (`Ports.md` §5.6c versus two pass lines and the real coastal site).
    - The spec gives ~15 km to Zhongshan; its own coordinates give ~8 km.
-6. **Mirny**
+6. *(Developer, 2026-10-01: "later, some other time.")* **Mirny**
    - The mandated workforce share is 11.8% (`16` L275) or 23.6% (`16` §20, which rests on a vision note that may fall
      under `DR-10`).
    - Is "Two Days a Year" canon or open?

@@ -270,10 +270,11 @@
 > | `R-12` | Janbogo and Mirny Ultra Megasheet inspiration picks derived from real stations |
 > | `R-13`–`R-15` | done (2026-10-01) |
 > | `R-16` | Rename `{{ Abowasa }}` along the lines of "Santa Maria" (Italy + CIN, `DR-22`) |
-> | `R-17` | Station-derived city names: Princess Elisabeth (to be renamed), Lazar, Sanay |
+> | `R-17` | Station-derived city names: Princess Elisabeth (to be renamed), Lazar, Sanay, **Sayowa** (`{{ Syowa/Showa }}`, guaranteed rename, name not chosen, `DR-32`) |
 > | `R-18` | Zukelli's founder (shortlist: Hawaii, Mongolia, Taiwan, Indonesia, Australia) |
 > | `R-19` | Lazar: Russia's founding role; the Novolazarevskaya/Maitri coalescence story |
 > | `R-20` | South Africa's founding wave at Halley; Signy's co-founder(s) |
+> | `R-23` | Mawson: Kazakhstan noted as a possible founding nation (`DR-32`); stays Australia in the Register until ruled |
 >
 > ⚠ *These `R-` numbers are the Station Heritage tracker's. The `R-4` and `R-12` in the Davis record at the top of
 > this file belong to an earlier, separate series of methodology-review items and are different items.*

@@ -100,9 +100,9 @@ The Bharati Station site sits in the Larsemann Hills, approximately 1-2km from t
 _https://legacy.bas.ac.uk/met/READER/_
 
 > **Why this proxy, and how good it is.** Shirayuki sits at **69°24'S 76°11'E**; Zhongshan at **69°22'S
-> 76°22'E** — **approximately 15 km apart, in the same 40 km² ice-free oasis, at the same elevation, on the
+> 76°22'E** — **approximately 8 km apart, in the same 40 km² ice-free oasis, at the same elevation, on the
 > same Prydz Bay coast.** *(The `Climate Data/READER/Shirayuki.md` entry names "Zhongshan or Davis" as the
-> candidate proxies; **Zhongshan is chosen over Davis**, which is 110 km away across the bay.)* **At 15 km
+> candidate proxies; **Zhongshan is chosen over Davis**, which is 110 km away across the bay.)* **At 8 km
 > the two sites are not meaningfully distinguishable climatically** — this is about as strong as a proxy
 > gets, and considerably stronger than the Palmer→Port Lockroy or DDU→Denison proxies used elsewhere in
 > this pass. **Every temperature figure below is Zhongshan's, unmodified.** Daylight is computed from
@@ -113,7 +113,7 @@ _https://legacy.bas.ac.uk/met/READER/_
 **Record extremes:** record high **+9.4 °C** (Dec); record low **-45.4 °C** (Aug) _(NOAA NCEI GHCN-Daily station `AYM00089574` — Progress, ~8 km; daily observations 1988-2026)_ *(researched 2026-09-04)*
 **Prevailing winds:** **persistent and strong katabatic winds from the NORTH-EAST on most summer days** — the defining climatic feature of the Larsemann Hills. The same winds keep the lakes well-mixed through the thaw, and blow sea ice debris hundreds of meters offshore, making small-boat landings on the east coast difficult or impossible *(ASMA No. 6 — Larsemann Hills Management Plan §4.2, ATCM XXXVII; researched 2026-09-04)*
 **Temperature range:** coldest months (July/August) avg −16.1°C; warmest month (January) avg +0.2°C — above freezing in the mean
-**Annual precipitation:** **148.9 mm** water equivalent _(proxy: Progress, Larsemann Hills (~15 km); measured monthly normals — see table)_ *(researched 2026-09-04)*
+**Annual precipitation:** **148.9 mm** water equivalent _(proxy: Progress, Larsemann Hills (~8 km); measured monthly normals — see table)_ *(researched 2026-09-04)*
 
 #### ⭐ Precipitation regime — what falls vs what lands
 
@@ -152,7 +152,7 @@ _https://legacy.bas.ac.uk/met/READER/_
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089574** (PROGRESS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (PROXY — Progress, Larsemann Hills (~15 km), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089574. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (PROXY — Progress, Larsemann Hills (~8 km), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089574. **Avg Daylight:* computed from this city's own latitude.*
 
 
 — design-grade estimates; precipitation total is the sourced AARI Larsemann Hills figure.*
@@ -160,7 +160,7 @@ _https://legacy.bas.ac.uk/met/READER/_
 *Polar night ~May 29–Jul 16 (~49 days); midnight sun ~Nov 22–Jan 22 (~62 days)*
 
 > **⚠ Note for culture synthesis — this is a THREE-city oasis, not a pair.** Shirayuki, **Sinheung** (~1–2
-> km) and **Zhongshan** (~15 km) share one 40 km² patch of ice-free ground and one climate. **The climate
+> km) and **Zhongshan** (~8 km) share one 40 km² patch of ice-free ground and one climate. **The climate
 > therefore differentiates none of them** — it is common ground, and any cultural distinction between the
 > three has to come from somewhere other than weather. *(`Character & Culture` above already leans on "the
 > Larsemann Hills' comparatively mild, gentle climate" as a driver of Shirayuki's research/arts identity;

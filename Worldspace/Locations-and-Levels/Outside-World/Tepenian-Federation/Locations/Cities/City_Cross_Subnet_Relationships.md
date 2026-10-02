@@ -132,7 +132,9 @@ collected together specifically as the country's cross-subnet fabric.
 
 ---
 
-## Part 3 — A Real-World Historical Connection, Not Yet Dramatized (high-value open thread)
+## Part 3 — A Real-World Historical Connection, Not Yet Dramatized (in-world flavor only)
+
+> ⛔ **Namesakes are never a basis for data** (developer, 2026-10-01, `DR-32`): this story is a neat in-world detail, not the ground of any tie or finding between the two cities.
 
 **Davis and Mawson share more than naming heritage — their real-world namesakes had a direct historical
 relationship.** John King Davis (Davis's namesake) captained the *SY Aurora* on Douglas Mawson's own
