@@ -112,7 +112,7 @@ all**, so most cities have neither a core figure nor an outer boundary recorded.
 | Sayowa | Syowa Station | Japan | Mawson | ~ Damaged / Partially operational |
 | **Mawson** *(subnet hub)* | Mawson Station | Australia | Mawson | ~ Damaged / Partially operational |
 | **Shirayuki** *(named 2026-07-08)* | Bharati Station | Japan *(via Jeju-do allocation)* / India (infrastructure only) | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
-| Sinheung | Sinheung Station | Russia | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed" — see `Specs/Sinheung.md`)* |
+| Sinheung | Progress Station | Russia | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed" — see `Specs/Sinheung.md`)* |
 | Zhongshan | Zhongshan Station | Sinian Federation | Mirny ("Australian") | ~ Damaged / Partially operational |
 | Davis | Davis Station | Australia | Mirny ("Australian") | ~ Damaged / Partially operational |
 

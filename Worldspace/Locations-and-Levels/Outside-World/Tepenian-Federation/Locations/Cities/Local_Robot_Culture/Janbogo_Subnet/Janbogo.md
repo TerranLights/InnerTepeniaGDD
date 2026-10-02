@@ -31,8 +31,8 @@ recognizable regardless of who built her or when.*
   (Robot-Specific Culture — pre-existing), §18 (Religious/Philosophical Landscape), §24 (Arcanet Culture —
   pre-existing) did the most load-bearing work.
 - **Input B — Geography & Geology:** `Specs/Janbogo.md`. Geographic Basis (Terra Nova Bay/polynya, Zukelli
-  sightline), Annual Climate (katabatic wind character, polar night/midnight sun lengths), Founding (South
-  Korea sole founding-operator; Jang Bogo → Janbogo phonetic drift).
+  sightline), Annual Climate (katabatic wind character, polar night/midnight sun lengths), Founding
+  (Jang Bogo → Janbogo phonetic drift).
 - **Input C — Local Infrastructure:** `Janbogo_Physical_Infrastructure_Attributes.md` (14 attributes, 7
   cross-referenced Findings) and `Janbogo_Community_Infrastructure.md` (Additions + Social Cohesion
   Mechanisms). Katabatic Warning Towers, the Great Shielded Commercial Halls, Majyao's Original Teahouse, the
@@ -40,7 +40,7 @@ recognizable regardless of who built her or when.*
 - **Input D — Source Inspirations:** all three sub-sources used. `Inspirational-Influences.md` (chaykhana
   [PRIMARY], Dubai mall culture [PRIMARY], Murmansk [SECONDARY], Ottoman/kahvehane tradition [SECONDARY], New
   Orleans jazz [SUPPORTING]); `Janbogo_Catalog.md`'s per-nation Real-World Parallel Locations (South Korea
-  flagged "standout entry" — direct founding-operator tie to the Teahouse; Italy's Gulf of Trieste Bora-wind
+  flagged "standout entry"; Italy's Gulf of Trieste Bora-wind
   parallel for katabatic-endurance identity).
 - **Input E — Tepenia-Wide Robot Culture Canon:** all 5 applicable members checked. Robot Biology and Culture,
   Glitch-Coolant (Janbogo already explicitly named in canon as a bohemian/cosmopolitan-variety city, alongside

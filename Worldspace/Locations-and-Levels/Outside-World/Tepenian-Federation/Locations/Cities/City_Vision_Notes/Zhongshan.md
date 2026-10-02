@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Zhongshan is one of Tepenia's largest cities (Census I: 631,985 humans / 647,448 robots), the only Tepenian city where the founding operator nation (China) is also the long-run demographic Primary, and already had an extensively developed "Zhongshan Austere" / "the Quiet City" identity (Song Dynasty aesthetic principles, Dongbei/Russian fusion cuisine *(note added 2026-07-13: this "Russian fusion" framing predates that day's correction of Zhongshan's founding story to singularly Chinese — see `Specs/Zhongshan.md` and `Local_Cultures/Mirny_Subnet/Zhongshan.md`; the cuisine is now resolved as continuously Chinese, not a Sino-Russian fusion)*, dumpling culture, quiet/unhurried social rhythm).
+Recap of what was already established going in: Zhongshan is one of Tepenia's largest cities (Census I: 631,985 humans / 647,448 robots), and already had an extensively developed "Zhongshan Austere" / "the Quiet City" identity (Song Dynasty aesthetic principles, Dongbei/Russian fusion cuisine *(note added 2026-07-13: this "Russian fusion" framing predates that day's correction of Zhongshan's founding story to singularly Chinese — see `Specs/Zhongshan.md` and `Local_Cultures/Mirny_Subnet/Zhongshan.md`; the cuisine is now resolved as continuously Chinese, not a Sino-Russian fusion)*, dumpling culture, quiet/unhurried social rhythm).
 
 ---
 

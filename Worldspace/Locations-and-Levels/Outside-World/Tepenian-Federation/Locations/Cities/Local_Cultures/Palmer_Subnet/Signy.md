@@ -23,13 +23,13 @@
 | Significant | Germany, France, UK, Brazil |
 | Notable | Argentina, South Africa *(founding wave)*, Chile, Uruguay |
 
-*Signy is the only Palmer subnet city with a South African, rather than Argentine or Chilean, founding-wave presence — a direct consequence of its genuinely different position. Where most Peninsula cities drew their earliest arrivals through the short Drake Passage crossing from Argentina and Chile, Signy's South Orkney location sits much further east, closer to the South Atlantic route through Cape Town already established as Tepenia's Halley subnet shipping corridor. UK, the actual founding-operator nation (BAS heritage), sits at Significant tier — diluted like every Palmer subnet founding nation, but with a genuinely distinct secondary founding current running alongside it.*
+*Signy is the only Palmer subnet city with a South African, rather than Argentine or Chilean, founding-wave presence — a direct consequence of its genuinely different position. Where most Peninsula cities drew their earliest arrivals through the short Drake Passage crossing from Argentina and Chile, Signy's South Orkney location sits much further east, closer to the South Atlantic route through Cape Town already established as Tepenia's Halley subnet shipping corridor. UK sits at Significant tier — diluted like every Palmer subnet founding nation, but with a genuinely distinct secondary founding current running alongside it.*
 
 ---
 
 ## 2. Founding Story
 
-The British Antarctic Survey had operated seasonally at Signy since 1947, running a long-term biological research program studying the South Orkney Islands' marine ecology and terrestrial biology. British exiles inherited that station and converted it to year-round habitation, carrying the biological research mission forward as both purpose and methodology — Signy's founding character was scientific from the very beginning, distinct from Rothera's operational character or Port Lockroy's historical one, each of the subnet's BAS-heritage cities having developed its own distinct institutional identity independently.
+The British Antarctic Survey had operated seasonally at Signy since 1947, running a long-term biological research program studying the South Orkney Islands' marine ecology and terrestrial biology. British exiles inherited the station's physical infrastructure and converted it to year-round habitation, and the islands' own biological richness gave the founding community its purpose and methodology — Signy's founding character was scientific from the very beginning, distinct from Rothera's operational character or Port Lockroy's historical one, each city having developed its own distinct institutional identity independently.
 
 A South African founding wave arrived alongside the British population, likely via the South Atlantic route rather than the Drake Passage corridor most Peninsula cities used — the same geographic logic that made South Africa a founding presence at Halley subnet cities extended, in smaller form, to Signy's more easterly position.
 
@@ -59,7 +59,7 @@ No polar night or midnight sun at this latitude. Signy's real rhythm follows the
 
 Signy's civic identity is built entirely around absolute, practiced isolation — no highway, no road, no overland connection to anything, a significant sea voyage from the nearest other Tepenian city. Rather than a source of hardship alone, that isolation became the city's whole defining fact: a community that learned genuine self-sufficiency because there was never any other option, and that built something lasting anyway.
 
-- **a. Founding tension** — The city inherited a scientific, BAS-based institutional character from the research program itself, diluted by later USA demographic Primary like every Palmer subnet city — but here it's compounded by a genuinely distinct South African founding-wave current running alongside the British one, a Notable-tier population arriving via a different route than any of its Peninsula neighbors.
+- **a. Founding tension** — The founding community built a scientific institutional character of its own, diluted by later USA demographic Primary like every Palmer subnet city — but here it's compounded by a genuinely distinct South African founding-wave current running alongside the British one, a Notable-tier population arriving via a different route than any of its Peninsula neighbors.
 - **b. Fault lines** — Between the scientific, research-oriented founding character (biological monitoring as both mission and methodology) and the practical, harder-edged reality of maintaining absolute self-sufficiency in genuine isolation.
 
 ---
@@ -83,7 +83,7 @@ Signy's civic identity is built entirely around absolute, practiced isolation �
 
 ## 8. Language
 
-- **a. Primary language(s):** English dominant (American Primary tier), carrying decades of accumulated scientific and institutional vocabulary from the station's own long-running research tradition, plus a distinct minority-language thread tied to the Notable-tier founding-wave population, unlike anywhere else in the Palmer subnet.
+- **a. Primary language(s):** English dominant (American Primary tier), carrying decades of accumulated scientific and institutional vocabulary from the city's own long-running research tradition, plus a distinct minority-language thread tied to the Notable-tier founding-wave population, unlike anywhere else in the Palmer subnet.
 - **b. Linguistic character** — Practical and scientific, shaped by decades of biological research terminology woven into everyday civic language.
 - **c. Slang / dialect markers** — Terminology tied to the wildlife research program — seal, penguin, and seabird monitoring vocabulary as genuine civic shorthand.
 - **d. Language and integration** — Minimal pressure, consistent with a small, isolated community where newcomers are quickly and thoroughly known.
@@ -192,14 +192,14 @@ Minimal and inward-facing — Signy has never had the connectivity or scale to p
 
 ## 22. Relationship to Upper Earth
 
-Filtered through the station's long scientific tradition and Signy's own extreme isolation — a quiet relationship, given how little of Signy's story ever reached the rest of Tepenia in the first place.
+Filtered through the city's long scientific tradition and Signy's own extreme isolation — a quiet relationship, given how little of Signy's story ever reached the rest of Tepenia in the first place.
 
 ---
 
 ## 23. Relationship to Other Cities
 
 - **Palmer City (subnet hub):** The Arcanet link exists but is weak — hundreds of kilometers of open ocean signal, real and functional but the most vulnerable intra-subnet connection in Tepenia.
-- **Rothera and Port Lockroy:** Fellow BAS-heritage Palmer subnet cities, sharing the same originating institutional lineage despite Signy's much greater physical isolation from either.
+- **Rothera and Port Lockroy:** Fellow British-founded Palmer subnet cities, despite Signy's much greater physical isolation from either.
 - **Every other Tepenian city:** Genuinely distant — Signy is closer to the South Atlantic than to any Tepenian settlement, a geographic fact that shapes every one of its external relationships.
 
 ---

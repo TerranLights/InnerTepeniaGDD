@@ -88,8 +88,8 @@ industries are carried inside their parent's weight**, per the register's LINE/F
 | A3 Enclosure & atmosphere integrity | **8** | — |
 | C4 Materials recovery & recycling | **8** | B5 textiles/survival gear |
 
-**A1 is the largest single weight and that is deliberate** — heat is the survival precondition in this setting,
-and the national currency was energy-backed. **C3's 14 is the research's correction**, not an intuition; see §5.
+**A1 is the largest single weight and that is deliberate** — heat is the survival precondition in this setting.
+**C3's 14 is the research's correction**, not an intuition; see §5.
 
 ---
 

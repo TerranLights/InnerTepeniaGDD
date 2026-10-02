@@ -35,8 +35,8 @@ more than the right to keep its own name on the map.*
   naming honor for itself), §24 (Arcanet — the literal origin point of Hwy 59, "unusually infrastructure-aware
   ... in a way most subnets' populations don't have to think about directly").
 - **Input B — Geography & Geology:** `Specs/Halley.md`. The Brunt Ice Shelf — not bedrock, moving 400–700
-  meters per year toward the sea. Founding: post-Falkland Treaty British exiles inheriting BAS's own six-times-
-  rebuilt station legacy, layered under an earlier South African founding wave (via the Cape Town gateway
+  meters per year toward the sea. Founding: post-Falkland Treaty British exiles, layered under an earlier
+  South African founding wave (via the Cape Town gateway
   still used today) and an eventual American demographic majority — "none of these three layers erased the
   others; they simply stacked." The founding generation's actual consequential decision was structural, not
   demographic: ski-mounted platforms with active tracked propulsion, moving deliberately ahead of the ice's

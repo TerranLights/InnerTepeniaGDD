@@ -112,11 +112,9 @@ collected together specifically as the country's cross-subnet fabric.
   remote subnet to the Halley subnet directly. See `project_belgrano_byrd_expedition` memory.
 - **Kunlun (Mirny) ↔ Dome Fuji (Mawson).** The only two 100%-robot cities in Tepenia; also the two poles
   of Ice-Cold Buddhism (Kunlun the holiest site, Dome Fuji its major pilgrimage destination), and directly
-  linked by Hwy 37 (see Part 1). Already dramatized as a Course of Events cross-subnet chain during the
-  nationwide Enhancement pass.
+  linked by Hwy 37 (see Part 1).
 - **Sinheung (Mirny) ↔ Byrd (Byrd).** Tepenia's only two active Cradle/fabrication-synthesis-chamber
-  manufacturers — already dramatized as a Course of Events cross-subnet chain, deliberately written as
-  pure industrial fact without touching Cradle/player-origin implications.
+  manufacturers — a pure industrial fact, with no Cradle/player-origin implications.
 - **Troll (Halley) ↔ Sinheung (Mirny) ↔ Dome Fuji (Mawson), a genuine three-subnet logistics triangle.**
   Troll Airfield and a smaller Sinheung-area airstrip are the two direct aviation routes that kept
   Dome Fuji supplied through a substantial stretch of its history — two separate routes converging on one
@@ -226,12 +224,12 @@ next step has real material to work from, not guesswork.
 **Still open:**
 1. Byrd's population-vs-geography tension and the Vostok/Byrd shared Primary-nation pairing (Part 4) —
    both genuinely surprising, neither yet explained anywhere in existing lore.
+2. **Hwy 59's Arcanet Line** (Part 1) — open in canon; the Course of Events and Historical Vignettes material
+   written on it is not canon.
+3. **The Davis/Mawson connection** (Part 3) — open in canon; the Historical Vignettes material written on it is
+   not canon.
 
 **Resolved since this list was first written, 2026-08-06:**
-- **Hwy 59's Arcanet Line** (Part 1) — developed into its own Course of Events chain
-  (`Halley_09_One_Road_Two_Signals.md`) plus multiple Historical Vignettes entries.
-- **The Davis/Mawson real-historical-rescue connection** (Part 3) — dramatized across three separate
-  Historical Vignettes entries in Davis's and Mawson's own files.
 - **Palmer subnet's overall weak connectivity** (Part 5) — superseded by `City_National_Connections.md`,
   which gives all 35 outer cities at least one identified connection (see that file's own "Coverage Note").
   This file's own Part 5 count (20/35) is accordingly historical, not a live gap.

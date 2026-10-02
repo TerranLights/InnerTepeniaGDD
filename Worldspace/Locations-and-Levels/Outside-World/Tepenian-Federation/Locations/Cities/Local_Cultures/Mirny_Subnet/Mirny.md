@@ -38,7 +38,7 @@ community among several, in a city that ended up demographically Chinese by scal
 
 ## 2. Founding Story
 
-Mirny Station was one of the oldest continuously occupied Antarctic stations in the real world, operating since 1956, and one of Russia's most significant Antarctic footholds. When the Falkland Treaty exiles arrived, Russian robots and their human allies inherited substantial Soviet-and-Russian-era infrastructure and generations of institutional Antarctic knowledge — a genuine head start, similar in kind to what Casey's founders inherited from Australia, though considerably older.
+Mirny Station was one of the oldest continuously occupied Antarctic stations in the real world, operating since 1956, and one of Russia's most significant Antarctic footholds. When the Falkland Treaty exiles arrived, Russian robots and their human allies inherited substantial Soviet-and-Russian-era infrastructure — a genuine head start, similar in kind to what Casey's founders inherited from Australia, though considerably older.
 
 The name was never in question. *Mirny* — the sloop that carried Fabian von Bellingshausen's 1819–1821 expedition, the first to circumnavigate Antarctica and among the first human eyes to ever see it — predates Tepenia by centuries. Keeping it was a statement: Russia had been present at Antarctica's very beginning, long before any nation's robots were exiled here, and intended to remain woven into its story permanently.
 
@@ -161,7 +161,7 @@ A genuine layered coexistence of Russian and Chinese musical traditions, more se
 ## 15. Division of Industry
 
 - Communications / Arcanet infrastructure: ~20% — an unusually large sector, reflecting Mirny's unique subnet-hub role
-- Technical / scientific: ~20% — inherited Soviet/Russian institutional research capacity
+- Technical / scientific: ~20% — research and technical work
 - Industrial / manufacturing: ~20%
 - Maritime: ~15%
 - Commercial: ~15%
@@ -175,7 +175,7 @@ A genuine layered coexistence of Russian and Chinese musical traditions, more se
 
 ## 16. Human-Robot Relations
 
-Founded on the same shared-exile logic as most Tepenian cities, inflected by Mirny's specific historical depth — Russian robots and their human allies inheriting generations of pre-exile institutional continuity gave the founding relationship real historical weight from the outset. As the city's demographics broadened, this baseline of solidarity persisted without needing active maintenance; like Casey, Mirny's practical, function-first culture leaves little room for human-robot relations to become a live political question.
+Founded on the same shared-exile logic as most Tepenian cities — Russian robots and their human allies settling the site together gave the founding relationship real weight from the outset. As the city's demographics broadened, this baseline of solidarity persisted without needing active maintenance; like Casey, Mirny's practical, function-first culture leaves little room for human-robot relations to become a live political question.
 
 ---
 
@@ -217,7 +217,7 @@ Administrative and function-oriented, shaped heavily by the responsibility of be
 
 ## 22. Relationship to Upper Earth
 
-Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by its infrastructural responsibilities more than by active grievance politics. The site's own institutional age — one of the oldest continuously run stations in Antarctica, its founding legend anchored in a centuries-old expedition rather than the raw wound of exile itself — gives Mirny's relationship to Upper Earth a slightly more historical, less immediately personal character than younger-feeling founding stories.
+Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by its infrastructural responsibilities more than by active grievance politics. Its founding legend, anchored in a centuries-old expedition rather than the raw wound of exile itself, gives Mirny's relationship to Upper Earth a slightly more historical, less immediately personal character than younger-feeling founding stories.
 
 ---
 
@@ -241,7 +241,6 @@ Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by 
 - Communications and infrastructure expertise — Mirny-trained relay and Arcanet specialists carry unusual weight given the city's unique hub responsibility
 - Wind-engineering competence, in the same practical register as Denison's but without the identity-performance
 - A specific *type of person* — steady, competent, comfortable holding two things at once (two languages, two eras of the city's own settlement, two seasons of light) without needing to resolve the tension between them
-- Historical continuity — Mirny's Russian-heritage community carries forward one of the deepest pre-exile Antarctic historical threads in all of Tepenia
 
 ---
 

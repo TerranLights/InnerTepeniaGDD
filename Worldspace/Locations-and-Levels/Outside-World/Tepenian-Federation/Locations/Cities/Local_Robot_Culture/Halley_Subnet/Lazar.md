@@ -32,15 +32,15 @@ market's name than the city's.*
   tradition; moderate privacy, more genuine anonymity than the subnet's smaller cities), §7 (draws people
   comfortable with genuine demographic plurality and urban scale; repels anyone wanting one clean identity to
   anchor to), §8c ("old town" versus "the expansion" as persistent, ordinary civic geography, not just
-  historical trivia), §15 (Commercial/trade 20%, Technical/scientific 20% — inherited Novolazarevskaya
-  research/logistics tradition, Industrial/manufacturing 20%), §16/§17 (Human-Robot Relations / Robot-Specific
+  historical trivia), §15 (Commercial/trade 20%, Technical/scientific 20%, Industrial/manufacturing 20%),
+  §16/§17 (Human-Robot Relations / Robot-Specific
   Culture — robots outnumbering humans by a real margin, 942,771 to 861,206; robot culture explicitly "without
   a single unifying robot-culture narrative the way smaller, more singular cities might have" — this file's
   own load-bearing seam, built on directly below), §18 (no dominant formal religion; a practical ethic of
-  integration; specific pride in Novolazarevskaya's unbroken operational history), §21 (the most substantial
+  integration; specific pride in a city that has never fully gone dark), §21 (the most substantial
   political weight in Tepenia by sheer population), §23 (Troll west via Hwy 7 — Lazar as its eastern terminus;
   Princess Elisabeth east via the Belgrano Highway Extension, which originates at Lazar — both flagged forward,
-  see Swap Test), §25 (export culture — genuine urban-scale expertise, the Novolazarevskaya logistics legacy,
+  see Swap Test), §25 (export culture — genuine urban-scale expertise,
   "a specific type of person... recognizable by an ease with complexity that smaller Halley subnet cities'
   residents don't share"), §26 (the two holidays), §32 (diaspora — comfort with scale, plurality, and
   integration; an instinct for finding common ground across difference).
@@ -50,8 +50,8 @@ market's name than the city's.*
   the third bedrock-founded Halley-subnet city run so far (with Sanay and Troll), against three confirmed
   ice-shelf cities (Halley, Neumayer, Belgrano) — a clean 3–3 split across the subnet now that all six of
   these cities have been run. Founding: a genuinely unique three-stage process (two separate settlements,
-  coalescence, rename) — Russian exiles inheriting the real, continuously-operated Novolazarevskaya Station
-  (unbroken since 1961) plus overflow expansion into the real, unoccupied Maitri site (no Indian/South Asian
+  coalescence, rename) — Russian exiles settling the real Novolazarevskaya site plus overflow expansion
+  into the real, unoccupied Maitri site (no Indian/South Asian
   population ever settled in Tepenia, per binding canon), the two growing into one city over roughly a century
   during the First Interwar Period, well before the later American/German/French/Brazilian immigration waves
   arrived.
@@ -164,7 +164,7 @@ localize per city.*
   "experienced as two adjacent moods rather than a rift" (`Lazar_Community_Infrastructure.md`). A genuinely
   two-district-scale shared experience, sitting between the Sector floor above and the citywide holidays below.
 - **[Adapted, Deep]** A third, specialist shape: the technical/engineering sector (20% of Lazar's own
-  industry, an inherited Novolazarevskaya research/logistics tradition — §15) maintains a real, ongoing
+  industry — §15) maintains a real, ongoing
   professional relationship with Neumayer's own precision-engineering culture (Full Extrapolation §V;
   Physical Infrastructure Finding C, the Neumayer Trade Exchange) — a specialized-trust shape the broader
   condition takes for robots and humans working in that specific technical slice of the city's own economy.
@@ -217,8 +217,8 @@ localize per city.*
 ### 5. Religion & Belief — Robot-Specific Local Practice
 
 - **[Directly-inherited, Deep]** §18's own material stands as the honest local answer: no dominant formal
-  religion, the closest shared value a practical ethic of integration, alongside a specific, genuine pride in
-  Novolazarevskaya's unbroken operational history — a station, and now a city, that has never fully gone dark.
+  religion, the closest shared value a practical ethic of integration, alongside a specific, genuine pride in a
+  city that has never fully gone dark.
 - **[Directly-inherited, Deep]** The Unbroken Watch and Coalescence Day are both already established civic
   observances (§26), with the Unbroken Watch anchored to a concrete physical site, the Unbroken Operations
   Hall (Physical Infrastructure Finding B) — the walkable monument to the existing Cross-Reference Synthesis's

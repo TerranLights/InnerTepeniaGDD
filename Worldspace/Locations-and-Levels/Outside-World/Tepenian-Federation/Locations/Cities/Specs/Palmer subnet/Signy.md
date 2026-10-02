@@ -271,7 +271,7 @@ Maritime biology and ecology research, fishing and maritime resources of the Sco
 ---
 
 ## Notable Figures
-- **Dr. Naledi van Zyl-Osei** *(placeholder, proposed `Signy_Full_Extrapolation.md` Section II)* — a founding-era biological researcher continuing the BAS's marine-and-terrestrial mission into the exile era, drawing on Signy's South African founding-wave presence. Built into Course of Events stage #4 ("Naledi's Research").
+- **Dr. Naledi van Zyl-Osei** *(placeholder, proposed `Signy_Full_Extrapolation.md` Section II)* — a founding-era biological researcher who established Signy's own marine-and-terrestrial research, drawing on Signy's South African founding-wave presence. Built into Course of Events stage #4 ("Naledi's Research").
 - **Platform Engineer Declan Ferreira-Whitcombe** *(placeholder, proposed `Signy_Full_Extrapolation.md` Section II)* — credited with designing the floating extension-platforms behind Signy's fishing economy. Built into Course of Events stage #5 ("Declan's Platforms").
 
 ---

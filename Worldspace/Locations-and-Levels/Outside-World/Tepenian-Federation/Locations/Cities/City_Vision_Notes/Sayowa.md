@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Sayowa sits on East Ongul Island (Prince Harald Coast), the westernmost city in the Mawson subnet, built on JARE (Japanese Antarctic Research Expedition) heritage. At the time this session began, Sayowa's file still described itself as "Tepenia's primary Japanese demographic presence" — a claim already known to be stale following the same-session Larsemann Hills demographic rework, which had made Shirayuki (not Sayowa) the genuine Japan-Primary city.
+Recap of what was already established going in: Sayowa sits on East Ongul Island (Prince Harald Coast), the westernmost city in the Mawson subnet. At the time this session began, Sayowa's file still described itself as "Tepenia's primary Japanese demographic presence" — a claim already known to be stale following the same-session Larsemann Hills demographic rework, which had made Shirayuki (not Sayowa) the genuine Japan-Primary city.
 
 ---
 

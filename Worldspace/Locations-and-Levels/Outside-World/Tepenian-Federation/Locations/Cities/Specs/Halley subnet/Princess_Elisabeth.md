@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
 **Highway access:** Hwy 7-ext / Belgrano Highway Extension (eastern Halley subnet; Sør Rondane nunatak position); connection to Dome Fuji corridor TBD
-**Significance:** International Polar Foundation heritage; named after Princess Elisabeth of Belgium (born 2001); the most recently built of the Tepenian founding stations (opened 2009); designed from inception as a zero-emissions station — the first Antarctic station built to zero-waste, minimal-impact design principles; on Utsteinen nunatak in the Sør Rondane Mountains; the real station is famously exposed to gales up to 300 km/h, surviving only through deliberate aerodynamic engineering and deep permafrost anchoring rather than any natural shelter — a fact that directly informed this city's eventual destruction; the eastern position in Queen Maud Land puts it closer to Dome Fuji than to the western Halley subnet cities
+**Significance:** Named after Princess Elisabeth of Belgium (born 2001); the most recently built of the Tepenian founding stations (opened 2009); designed from inception as a zero-emissions station — the first Antarctic station built to zero-waste, minimal-impact design principles; on Utsteinen nunatak in the Sør Rondane Mountains; the real station is famously exposed to gales up to 300 km/h, surviving only through deliberate aerodynamic engineering and deep permafrost anchoring rather than any natural shelter — a fact that directly informed this city's eventual destruction; the eastern position in Queen Maud Land puts it closer to Dome Fuji than to the western Halley subnet cities
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); destroyed, ruins accessible with a small straggling survivor population
 
 ---
@@ -25,7 +25,7 @@
 |------|---------|
 | Primary | USA, Japan |
 | Significant | Germany, France, UK, Brazil, Australia |
-| Notable | Poland, Netherlands, Belgium *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Belgium, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -73,7 +73,7 @@ Princess Elisabeth sits on Utsteinen nunatak, a rocky ridge in the Sør Rondane 
 
 The eastern position in Queen Maud Land — longitude 23°21'E — puts Princess Elisabeth significantly east of the other Halley subnet cities clustered between 14°W and 12°E. It is geographically closer to Dome Fuji (39°42'E) than to Troll or Abowasa, though still within the Halley subnet.
 
-The station was designed by the International Polar Foundation as the first zero-emissions Antarctic station: wind and solar power, no fossil fuels, zero waste discharge. That founding philosophy — that a human presence here should leave no mark — was inseparable from the site's brutal exposure: the city could only exist here at all because of continuous, deliberate engineering effort. When the Long Night War came, that same dependency became the city's undoing. Whatever combination of direct attack and infrastructure failure actually destroyed Princess Elisabeth, the underlying vulnerability was always the same one that had always defined it: nothing here survives on its own.
+The station was designed by the International Polar Foundation as the first zero-emissions Antarctic station: wind and solar power, no fossil fuels, zero waste discharge. That design was inseparable from the site's brutal exposure: the city could only exist here at all because of continuous, deliberate engineering effort. When the Long Night War came, that same dependency became the city's undoing. Whatever combination of direct attack and infrastructure failure actually destroyed Princess Elisabeth, the underlying vulnerability was always the same one that had always defined it: nothing here survives on its own.
 
 ### Annual Climate
 
@@ -136,7 +136,7 @@ The station was designed by the International Polar Foundation as the first zero
 
 **Settled:** Post-Falkland Treaty, on Princess Elisabeth Antarctica station infrastructure. The International Polar Foundation's station opened in 2009 — the most recently built of the founding-era stations. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. The IPF's own institutional presence did not survive that chain of handoffs, but preserved journals, logs, and design/maintenance manuals did, giving the exiles a real documentary starting point for the zero-emissions systems, distinct from a living institution teaching them directly.)* The exile community inherited the zero-emissions physical infrastructure and, working from those surviving records, independently re-derived and maintained the engineering logic behind it themselves.
 
-**Founding population:** Belgian exiles, with International Polar Foundation institutional character. Belgium's Antarctic presence was primarily through Princess Elisabeth; the Belgian exile community was concentrated here.
+**Founding population:** Belgian exiles. The Belgian exile community was concentrated here.
 
 Named after Princess Elisabeth of Belgium (born 2001, daughter of King Philippe). The name carried across the transition from research station to exile city, and outlasted the city's destruction as the name of its ruins.
 
@@ -146,7 +146,7 @@ Named after Princess Elisabeth of Belgium (born 2001, daughter of King Philippe)
 
 *(Written present-tense per confirmed project methodology — see `Cities/Local_Cultures/README.md` and `Cities/Local_Cultures/Halley_Subnet/Princess_Elisabeth.md` for the full living-culture treatment. This section retains the city's character as it existed before destruction.)*
 
-Princess Elisabeth had the character of a city that took its design principles seriously because they were built in — and because the site demanded it. The zero-emissions founding philosophy wasn't just environmental policy; it was survival infrastructure. The renewable energy systems, the waste management design, the no-discharge infrastructure: all of it was physically present, all of it required active maintenance, and none of it was optional. Living in Princess Elisabeth meant living in a city that had always been designed to leave no mark, on a site so exposed that leaving any mark at all required constant, deliberate effort just to exist.
+Princess Elisabeth had the character of a city that took its design principles seriously because they were built in — and because the site demanded it. The zero-emissions design wasn't just environmental policy; it was survival infrastructure. The renewable energy systems, the waste management design, the no-discharge infrastructure: all of it was physically present, all of it required active maintenance, and none of it was optional. Living in Princess Elisabeth meant living in a city that had always been designed to leave no mark, on a site so exposed that leaving any mark at all required constant, deliberate effort just to exist.
 
 That design principle, extended across generations into a full community, produced a particular relationship to resource use and environmental accountability — not moralistic, but practical: the systems that kept the city alive were visible, understandable, and demanded active maintenance every single day. When the war came and those systems failed or were destroyed, the city had nothing else to protect it.
 
@@ -187,7 +187,7 @@ Princess Elisabeth was destroyed during the Long Night War. Unlike Sanay's bedro
 ---
 
 ## Legacy
-Princess Elisabeth's legacy is a harder, more sobering one than its founding philosophy ever anticipated: proof that a human settlement built entirely on continuous engineering, with no natural refuge to fall back on, is only ever as safe as its systems remain intact. The zero-emissions design that once defined the city's pride became, after the war, the clearest illustration of exactly how much the city had always depended on keeping those systems running.
+Princess Elisabeth's legacy is a harder, more sobering one than its founders ever anticipated: proof that a human settlement built entirely on continuous engineering, with no natural refuge to fall back on, is only ever as safe as its systems remain intact. The zero-emissions design that once defined the city's pride became, after the war, the clearest illustration of exactly how much the city had always depended on keeping those systems running.
 
 ---
 

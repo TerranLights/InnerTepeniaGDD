@@ -27,7 +27,7 @@
 | Significant | Germany, France, UK, Italy, Spain |
 | Notable | Mexico, Brazil, Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Spain, the actual founding-operator nation, holds on at Significant tier rather than being diluted all the way to Notable — a similar demographic retention to Rothera's UK, distinct from cities where the founding nation falls further. Argentina and Chile carry the founding-wave flag, the same Drake Passage-proximity pattern seen across the Palmer subnet, though Juan Carlos's own founding population was primarily Spanish rather than South American.*
+*Spain holds on at Significant tier rather than being diluted all the way to Notable — a similar demographic retention to Rothera's UK, distinct from cities where the founding nation falls further. Argentina and Chile carry the founding-wave flag, the same Drake Passage-proximity pattern seen across the Palmer subnet, though Juan Carlos's own founding population was primarily Spanish rather than South American.*
 
 ---
 
@@ -143,7 +143,7 @@ A genuinely coherent musical tradition developed independently by the exile comm
 
 - Maritime / fishing resources: 30% — leveraging Livingston Island's coastal access
 - Commercial / trade: 20%
-- Technical / scientific: 20% — continuity from the original Antarctic program's own research infrastructure, carried forward and developed by the exile community itself rather than an imported scientific culture
+- Technical / scientific: 20% — built on the original station's research infrastructure, developed by the exile community itself rather than an imported scientific culture
 - Cultural / social institutions: 15% — the city's own hosted-gathering tradition as genuine civic infrastructure
 - Other: 15%
 

@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Belgrano at the western end of the Halley subnet highway corridor; Weddell Sea coastal position)
-**Significance:** Southernmost major city in the Halley subnet; Argentine Air Force base heritage; one of the few Tepenian cities with confirmed runway infrastructure; deep Weddell Sea position puts it further south than most Halley subnet cities; named after Manuel Belgrano, Argentine independence general and creator of the Argentine flag; maps recovered from Belgrano ruins contributed to the founding expedition that located Byrd Station (Byrd subnet — cross-subnet historical significance)
+**Significance:** Southernmost major city in the Halley subnet; one of the few Tepenian cities with confirmed runway infrastructure; deep Weddell Sea position puts it further south than most Halley subnet cities; named after Manuel Belgrano, Argentine independence general and creator of the Argentine flag; maps recovered from Belgrano ruins contributed to the founding expedition that located Byrd Station (Byrd subnet — cross-subnet historical significance)
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); survived the war, ruined afterward — ruins accessible in DLC 5
 
 ---
@@ -119,7 +119,7 @@ The Argentine Air Force operated here because of the runway — flat coastal ice
 
 **Settled:** Post-Falkland Treaty, on Belgrano II Base infrastructure. The Argentine Air Force operated here from 1979. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the base was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. No continuous military chain of command survived that gap — there is no institutional line running from 1979 into the 2564 exile settlement. But preserved journals, logs, and orientation manuals did survive, giving the exiles a real documentary starting point. See the Character & Culture note below for the corrected framing.)* The runway itself — genuinely functional infrastructure, kept maintained across the centuries — gave Belgrano its Halley subnet role as the primary aviation hub, paralleling Marambio's role in the Palmer subnet.
 
-**Founding population:** Argentine exiles, Air Force institutional character. The Argentine community in Tepenia extended across three cities in three different subnets: Esperanza and Marambio in the Palmer subnet, Belgrano in the Halley subnet. The shared Argentine identity across subnets was one of the larger distributed national presences in Tepenia.
+**Founding population:** Argentine exiles. The Argentine community in Tepenia extended across three cities in three different subnets: Esperanza and Marambio in the Palmer subnet, Belgrano in the Halley subnet. The shared Argentine identity across subnets was one of the larger distributed national presences in Tepenia.
 
 Named after Manuel Belgrano (1770–1820) — Argentine independence general, economist, and creator of the Argentine flag. A founding figure, not an Antarctic figure: the Argentine exile community chose to honor their national history rather than Antarctic exploration history.
 

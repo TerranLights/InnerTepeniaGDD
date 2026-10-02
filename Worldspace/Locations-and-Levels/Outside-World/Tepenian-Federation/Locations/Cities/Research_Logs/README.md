@@ -114,14 +114,19 @@ Per research session, record:
   attributes, not conclusions, and a later cold run may read it.**
 - **Non-city locations get one too** — districts, subnets, structures, corridors, orbital locations. Store it
   with that location's own material; the convention is universal, only the folder changes.
+- ⛔ **Research about a real station covers the site, not the operator.** That means the physical site, the
+  infrastructure, and the kind(s) of work the station actually does, so the records the newcomers inherit match
+  the real location (`DR-24`, `DR-25`). Never the operator's history, governance or national program as a cause
+  of anything (`DR-19`). Log such sources as *not used*, with the reason.
 
 ## Index
 
 | Location | Log | Last session |
 |---|---|---|
-| **Zhongshan** | `Zhongshan_Research_Log.md` | 2026-08-30 — Run 3 cold pass. 6 queries; 3 picks + physical site + 2 forcing-function comparanda. **7 open threads recorded**, incl. the unread ASMA 6 management plan |
+| **Zhongshan** | `Zhongshan_Research_Log.md` | 2026-08-30 — Run 3 cold pass. 6 queries; 3 picks + physical site + 2 forcing-function comparanda. **7 open threads recorded** |
 | **Janbogo** | `Janbogo_Research_Log.md` | 2026-08-31 — Run 9 cold pass. 2 search queries + 3 fetches (1 failed, HTTP 402); Jang Bogo Station's real staffing/scale and its historical namesake. **5 open threads recorded**, incl. an unfused downfall-by-overreach parallel deliberately deferred to a later filter test |
 | ⭐ **Davis** | `Davis_Research_Log.md` | **2026-09-15 — ULM Step 3, warm pass.** ⭐ **Two independent tracks: three isolated researchers on identical briefs (~310 retrieval operations, every string verbatim) + the standing book-extraction checklist worked in full.** **17 open threads · 15 dead ends · 17 "not used" rows.** ⛔⛔ **FOUR OF FIVE PICKS EXPLICITLY NOT SPENT, each with a named target** *(by-laws, a primary 1990 study, an occupational census, `Adamson & Pickard 1986`, CRREL 93-14)*. ⚠ **A THIRD DEAD-END CLASS was found and named — `TOOL-DEATH` — and a session-wide 200/200 search cap collided with `LAW 0-R`'s "no search budget," biasing the later source mix by pick order** |
+| **Upper Earth Trade (Australia)** | `Upper_Earth_Trade_Research_Log.md` | **2026-09-26, 5 sessions + a Status Rollup at the top of the file** (sorts every candidate into still-live/weak/unresolved/eliminated, no ranking — added so a later pass doesn't have to re-read all 5 sessions by hand). Session 1: verified the "~175% food surplus" figure (173%/2007 MAFF, 207%/2010 FAO) and compiled a no-ranking candidate list of Australian high-markup import categories. Session 2: cross-referenced real Tepenia↔Australia shipping estimates (~10-11 days, from a parallel CurrentNovelDocs survey) against Australia's real per-category supplier transit times — Morocco/phosphate shows the largest gap (30-45 days vs. ~10-11). Session 3: real Antarctic geology cross-matched to Australia's import needs — Dufek Intrusion (Bushveld-Complex-class PGMs) and Ross/Weddell Sea hydrocarbons are real, sourced candidates; Antarctic rare-earth deposits are a confirmed dead end. Session 4: developer ruling — phosphate and bulk building materials/iron ore struck from Tepenia's *export* list (domestic need), and flipped into a plausible Tepenia *import* from Australia instead (alongside food), sharpening rather than closing the open "what does Tepenia send back" question. Session 5: nuclear-specific manufacturing research — nuclear-heat hydrogen production and the nuclear fuel-cycle (enrichment/fuel fabrication, legally barred to Australia under the ARPANS Act 1998/EPBC Act 1999) survive as real candidates; Mo-99/Co-60 radioisotope export is a confirmed dead end (Australia already produces and exports both domestically via ANSTO). **18 open threads recorded across Sessions 1-3 and 5** |
 
 > ### ⚠ THIS INDEX IS INCOMPLETE — noted 2026-09-15, not fixed
 > **The folder also holds `Shirayuki_`, `Sinheung_`, `Mawson_`, `Climate_Data_` and `Division_of_Industry_`

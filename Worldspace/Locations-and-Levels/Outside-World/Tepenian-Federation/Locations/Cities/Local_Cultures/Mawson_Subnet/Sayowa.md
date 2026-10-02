@@ -20,16 +20,16 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan *(founding operator heritage)*, Germany, France, UK, South Korea, Indonesia, Australia |
+| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia |
 | Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Japan, the actual founding nation (JARE heritage), sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Sinheung's). **Corrected 2026-07-06:** Sayowa is no longer the primary Japanese Tepenian presence — that's Shirayuki now (36.27% Japan-Primary, following its own population re-derivation the same session), the direct result of its diplomatically-protected Jeju-do allocation. Sayowa's own Japan share is genuinely diluted, down to just 2.71% — plausibly the very outcome Japan's diplomats anticipated and tried to hedge against by securing Shirayuki as a protected backstop in the first place. See `Specs/Sayowa.md` and `Specs/Shirayuki.md` for the full cross-reference.*
+*Japan, the actual founding nation, sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Sinheung's). **Corrected 2026-07-06:** Sayowa is no longer the primary Japanese Tepenian presence — that's Shirayuki now (36.27% Japan-Primary, following its own population re-derivation the same session), the direct result of its diplomatically-protected Jeju-do allocation. Sayowa's own Japan share is genuinely diluted, down to just 2.71% — plausibly the very outcome Japan's diplomats anticipated and tried to hedge against by securing Shirayuki as a protected backstop in the first place. See `Specs/Sayowa.md` and `Specs/Shirayuki.md` for the full cross-reference.*
 
 ---
 
 ## 2. Founding Story
 
-The Japanese Antarctic Research Expedition (JARE) had operated at Syowa Station since 1957 — one of the longest-running national Antarctic programs in the real world. Japanese exiles inherited that deep institutional foundation, along with the extensive physical infrastructure and scientific programs accumulated over decades of continuous research.
+Japanese exiles founded the city on Syowa Station's extensive physical infrastructure.
 
 The city's name evolved phonetically from Shōwa (昭和) — the Japanese imperial era spanning 1926 to 1989, the reign of Emperor Hirohito, a period of extraordinary transformation in Japanese history encompassing war, defeat, and reconstruction. That name, carried into exile and settled into a proper Tepenian noun, gave Sayowa a genuinely weighty historical inheritance from its very founding — few Tepenian city names carry as much specific historical gravity.
 
@@ -66,7 +66,7 @@ Sayowa's civic identity rests on a genuine duality: a small, genuinely diverse c
 
 - **a.** Junction responsibility is a genuine civic value — Sayowa's small population carries disproportionate weight simply because of where it sits.
 - **b. Hospitality character** — Practiced hospitality toward travelers and transit traffic, given the city's genuine role as a crossing point between subnets.
-- **c.** Paced by the station's own uninterrupted research history — nearly seven decades of continuous operation left the city with a working rhythm that's thorough, unhurried, institutionally competent.
+- **c.** Paced by a working rhythm that's thorough, unhurried, institutionally competent — the pace of a small city that keeps critical junction infrastructure running.
 - **d. Public/private divide** — The Hwy 37/Hwy 7-ext junction and its maintenance are entirely public civic business; Japanese cultural and historical life (particularly the Shōwa-era name's specific meaning) is a more private, generational matter.
 - **e. Privacy as civic value** — Genuine, given the small population — Sayowa's intimacy comes from simply being one of the Mawson subnet's smallest cities, even while carrying continental-scale responsibility.
 
@@ -81,7 +81,7 @@ Sayowa's civic identity rests on a genuine duality: a small, genuinely diverse c
 
 ## 8. Language
 
-- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern). **Corrected 2026-07-06:** Japanese presence here is genuine but no longer "concentrated" in the way this file used to claim — Shirayuki is the actual primary Japanese Tepenian city now; Sayowa's Japanese heritage carries institutional weight (JARE) rather than demographic weight.
+- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern). **Corrected 2026-07-06:** Japanese presence here is genuine but no longer "concentrated" in the way this file used to claim — Shirayuki is the actual primary Japanese Tepenian city now; Sayowa's Japanese founding carries historical weight (the Shōwa-era name) rather than demographic weight.
 - **b. Linguistic character** — Practical and junction-oriented, shaped by constant transit traffic between the Mawson subnet, Concordia, and the Halley subnet.
 - **c. Slang / dialect markers** — Terminology tied to the Shōwa-era name's specific historical weight, alongside junction/highway-coordination vocabulary unique to Sayowa's structural role.
 - **d. Language and integration** — Moderate pressure, given the city's genuine function as a crossing point requiring some fluency across multiple travelers' contexts.
@@ -99,7 +99,7 @@ Built on inherited JARE infrastructure, shaped by East Ongul Island's genuinely 
 ## 10. Cuisine
 
 - **a. Human cuisine** — **Corrected 2026-07-06:** a genuinely diverse table, developed by Sayowa's own small, mixed population and shaped by its junction/industrial character rather than concentrated around any one nation's tradition — the "primarily Japanese" framing this file previously used was inaccurate; that distinction belongs to Shirayuki instead.
-- **b. Social context of eating** — Practical, shaped by both the JARE scientific tradition's methodical character and the city's genuine transit-point function.
+- **b. Social context of eating** — Practical, shaped by the city's genuine transit-point function.
 - **c. Robot cuisine / siligel culture** — Modest, scaled to one of the Mawson subnet's smallest populations.
 
 ---
@@ -118,9 +118,9 @@ Modest, and genuinely its own — **corrected 2026-07-06:** no longer framed as 
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Reflecting the station's own long, methodical scientific documentation history — decades of careful record-keeping leaving a visible mark on how the city documents itself.
+- **Visual arts:** Methodical and documentary — careful record-keeping leaves a visible mark on how the city documents itself.
 - **Literature:** The Shōwa-era name itself functions as foundational literary/historical material — a name that carries an entire imperial era's transformation, war, and reconstruction into a small Antarctic exile city.
-- **Crafts & material culture:** Practical, methodical, shaped by the same decades of thorough, patient institutional work that defines the station's own research history.
+- **Crafts & material culture:** Practical, methodical, shaped by the thorough, patient work of keeping the junction running.
 
 ---
 
@@ -143,7 +143,7 @@ Modest, and genuinely its own — **corrected 2026-07-06:** no longer framed as 
 
 - **Industrial fabrication: 30%** — things genuinely get *made* here, not just routed through
 - **Trucking & dispatch: 25%** — a huge logistics operation befitting the highway junction the city sits on; distinct from fabrication, this is the routing/coordination side specifically
-- Scientific research: 20% — inherited JARE tradition
+- Scientific research: 20% — research work
 - Maritime trade: 15% — Lützow-Holm Bay access
 - Leisure / commercial: 5% — a genuine but distinctly secondary sector, well behind the industrial core
 - Other: 5%
@@ -164,7 +164,7 @@ Robot culture at Sayowa likely centers on junction-maintenance and logistics-coo
 
 ## 18. Religious / Philosophical Landscape
 
-- No dominant formal religion; the closest shared value is the same methodical patience the station's own long research history instilled, extended into the equally patient, ongoing work of maintaining critical junction infrastructure.
+- No dominant formal religion; the closest shared value is a methodical patience, expressed in the ongoing work of maintaining critical junction infrastructure.
 - A quiet awareness of disproportionate responsibility — Sayowa's residents understand that their small city matters more to the wider world than its population would suggest.
 
 ---
@@ -177,7 +177,7 @@ Minimal — a small city with genuine continental-scale infrastructure responsib
 
 ## 20. Private Life & Minority Communities
 
-The broad Significant tier (China Primary; Japan, Germany, France, UK, South Korea, Indonesia, Australia Significant) and the extensive Notable list maintain identity through private, personal practice — Sayowa's public civic face is organized around its junction responsibility and JARE heritage rather than any single demographic group. **Corrected 2026-07-06:** no longer framed around a "concentrated Japanese presence" — Japan is genuinely diluted here (2.71%), same as every other nation outside China's Primary share.
+The broad Significant tier (China Primary; Japan, Germany, France, UK, South Korea, Indonesia, Australia Significant) and the extensive Notable list maintain identity through private, personal practice — Sayowa's public civic face is organized around its junction responsibility rather than any single demographic group. **Corrected 2026-07-06:** no longer framed around a "concentrated Japanese presence" — Japan is genuinely diluted here (2.71%), same as every other nation outside China's Primary share.
 
 ---
 
@@ -215,7 +215,7 @@ Genuinely significant given the city's physical junction role — Sayowa likely 
 ## 25. Export Culture
 
 - Junction-logistics and highway-maintenance expertise — Sayowa-trained specialists in keeping critical, high-stakes infrastructure functional
-- **Corrected 2026-07-06:** the station's own methodical research tradition and the Shōwa-era name's historical weight — a genuine institutional export tied to Sayowa's own founding history, though no longer "the primary Japanese cultural presence in Tepenia" (that's Shirayuki's export now)
+- **Corrected 2026-07-06:** the Shōwa-era name's historical weight — a genuine export tied to Sayowa's own founding history, though no longer "the primary Japanese cultural presence in Tepenia" (that's Shirayuki's export now)
 - A specific *type of person* — comfortable holding disproportionate structural responsibility in a small community, recognizable by an ease with that gap between scale and significance
 
 ---
@@ -263,11 +263,11 @@ Becoming a local at Sayowa means genuinely internalizing the city's disproportio
 
 ## 31. Notable Figures
 
-- **JARE Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, added 2026-07-17, proposed `Sayowa_Full_Extrapolation.md` §V)* — a present-day keeper of Sayowa's Shōwa-era naming history and JARE's own research tradition.
+- **Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, added 2026-07-17, proposed `Sayowa_Full_Extrapolation.md` §V)* — a present-day keeper of Sayowa's Shōwa-era naming history and the city's own research records.
 - **Junction Coordinator Wei-Lin Andersen** *(placeholder, added 2026-07-17, same section)* — a present-day figure overseeing the practical work of keeping the Sayowa Junction functional.
 
 ---
 
 ## 32. Diaspora Character in Concordia
 
-**Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Shirayuki refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine sense of institutional history — the Shōwa-era name's specific historical weight, the station's own methodical research tradition, and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated Japanese identity.
+**Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Shirayuki refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine sense of institutional history — the Shōwa-era name's specific historical weight and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated Japanese identity.

@@ -7,7 +7,7 @@ direction.** See `README.md` in this folder for the convention itself.
 became, and what was deliberately left unexplored** — so that any future session can pick up the thread,
 re-check a claim against its actual source, or go deeper without starting over.
 
-**Read this alongside** `Universal_Location_Methodology/Test_Runs/2026-08-30_Zhongshan_Run3_Cold/`, which holds
+**Read this alongside** `Archive/ULM_Records/Test_Runs/2026-08-30_Zhongshan_Run3_Cold/`, which holds
 the pass the research fed.
 
 ---
@@ -159,6 +159,9 @@ forcing-function comparanda.
 | **Real Zhongshan Station's own layout and buildings** | Not needed for a culture pass | Phase 10 named-place grounding |
 | **Stornes peninsula's phosphate mineralogy** *(referenced in ASMA material)* | Not surfaced in the summaries | Possible second non-thematic export; would need checking against `Per_City_Weapons`/materials canon |
 | **Austin's greenbelt preservation campaign in detail** | The "faded from memory" fact was the payload | A concrete civic-campaign mechanism, if Zhongshan ever needs one |
+
+> **2026-10-01 scope note:** in the ASMA 6 management plan, only the physical-site content (geology, lakes,
+> phosphate) is admissible. Its governance content — how three nations' stations coordinate — is excluded (`DR-19`).
 
 ### Sources
 

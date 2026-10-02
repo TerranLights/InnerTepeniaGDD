@@ -6,7 +6,7 @@
 
 ## Session 1 — 2026-08-31, Run 9 (Universal Location Methodology), Phase 1 Step 3
 
-**Context:** Cold pass on Janbogo (`Universal_Location_Methodology/Test_Runs/2026-08-31_Janbogo_Run9_Cold/`).
+**Context:** Cold pass on Janbogo (`Archive/ULM_Records/Test_Runs/2026-08-31_Janbogo_Run9_Cold/`).
 **Researching against:** G4's own "without what" REQUESTED gap (`02_Phase1_Constraint_and_Capability.md`) —
 what did Jang Bogo Station's real infrastructure actually consist of, to ground the claim that Janbogo's
 founders inherited a building shape mismatched to a settling city's eventual scale. Also G7 (real-world
@@ -71,3 +71,7 @@ over, it is the founding-condition deficit itself.
 5. **antarctica.fandom.com's Jang Bogo Station page** — surfaced, fetch failed (HTTP 402). Not retried.
    May hold more granular building-level detail (named labs, dorms) than the sources actually used. Worth a
    retry via a different access method if this pass later needs finer physical-texture detail (Phase 3).
+
+---
+
+**Scope note (2026-10-01, `DR-28`):** the namesake rows above (Jang Bogo, the historical figure) are a record of research only. The namesake is never an input to Janbogo's identity, core value or naming meaning. The staffing row is an infrastructure fact (`DR-24`).

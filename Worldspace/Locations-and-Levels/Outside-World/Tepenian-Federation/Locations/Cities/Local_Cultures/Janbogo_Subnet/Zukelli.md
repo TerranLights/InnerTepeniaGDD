@@ -20,7 +20,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Italy, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
 *Zukelli's composition is almost a mirror of Janbogo's — same Primary pair, same demographic shape, ~8km apart on the same bay *(corrected 2026-07-13 from "ten kilometers" — a stale figure surviving here despite the header above already carrying the 2026-07-03 correction)*. What differs is which exile community broke ground first and shaped the earliest civic institutions before the population diversified around it. This is the same structural pattern as Janbogo's own founding-era timeline (an early civic template that outlasted the founding population's own demographic share), which makes the two cities a genuine paired case — except Janbogo's own civic culture is still a living thing, and Zukelli's own version of it ended when the city did. Same shape, opposite outcome.*

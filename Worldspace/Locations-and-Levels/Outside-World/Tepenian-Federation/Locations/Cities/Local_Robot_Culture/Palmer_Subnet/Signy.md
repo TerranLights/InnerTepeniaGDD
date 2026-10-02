@@ -43,17 +43,15 @@ every robot who calls this the one city in Tepenia the war never touched.*
   Culture — robot culture woven directly into the biological research program itself, no separate institution
   needed or possible at this scale), §18 (a lived philosophy of self-sufficiency and endurance; the strongest
   Tepenian claim on St. Ernest/Shackleton veneration), §19 (no counterculture — too small, too isolated to
-  support one), §23 (Palmer City, Rothera, Port Lockroy — fellow BAS-heritage cities), §25 (Export Culture —
+  support one), §23 (Palmer City, Rothera, Port Lockroy), §25 (Export Culture —
   "a specific *type* of person... comfortable with absolute isolation... an ease with remoteness that no other
   Tepenian city's residents share, not even Rothera's or Port Lockroy's"), §26 (The Long Watch, St. Ernest's
   Passage), §30 (**the siligel shortage — the single most load-bearing fact in this entire file**, a "strong
   candidate DLC 3 questline hook — not yet designed further").
 - **Input B — Geography & Geology:** `Specs/Signy.md`. Signy Island and the much larger Coronation Island,
   South Orkney Islands, Scotia Sea — joined by a single bridge, no highway or overland connection to anywhere,
-  the most isolated city in Tepenia. Founding: post-Falkland Treaty, British exiles who independently
-  developed a biological-science focus on the same islands the historical BAS station once studied, drawing on
-  preserved documentary records rather than any living, continuously-taught institutional mission — the same
-  documentary-not-taught pattern confirmed project-wide. A genuinely distinct South African founding-wave
+  the most isolated city in Tepenia. Founding: post-Falkland Treaty, British exiles who developed a
+  biological-science focus. A genuinely distinct South African founding-wave
   presence, unique among Palmer-subnet cities, arriving via the South Atlantic route rather than the Drake
   Passage. **Status: Survived, fully operational** — the only Palmer-subnet city, and one of very few Tepenian
   cities anywhere, that took zero direct war damage, overlooked entirely by Upper Earth's targeting due to
@@ -304,15 +302,14 @@ localize per city.*
   have no equivalent at Signy, whose own defining structure is total isolation, not internal fragmentation. No
   finding transplants either direction.
 - **[Directly-inherited, Deep, directly resolving Port Lockroy's own forward flag]** — *Input categories
-  combined: Port Lockroy's own §23 "confirmed sibling BAS-heritage city" flag + Port Lockroy's own already-
-  completed file*
-  Checked directly: both cities share genuine British Antarctic Survey founding heritage, but Port Lockroy's
+  combined: Port Lockroy's own §23 sibling-city flag + Port Lockroy's own already-completed file*
+  Checked directly: both cities share a British founding population, but Port Lockroy's
   own central finding (a robot's own non-aging physiology as literal, personal continuity across the Communal
   Stone Wall's multi-generational construction) has no equivalent at Signy, whose own founding character was
   explicitly scientific rather than historical/memorial (per `Specs/Signy.md`'s own direct three-way
   distinction: Rothera operational, Port Lockroy historical, Signy scientific). A confirmed non-match, the
-  cleanest of the three BAS-heritage siblings' own comparisons — each city genuinely differentiated the shared
-  institutional origin into a wholly different civic character.
+  cleanest of the three British-founded siblings' own comparisons — each city genuinely differentiated a shared
+  founding nationality into a wholly different civic character.
 
 ---
 
@@ -352,12 +349,12 @@ city carries.**
    Rothera's own side) — confirmed directly, not merely inherited:** see Cross-Reference Synthesis above.
 4. **Against Scott (already completed, a confirmed Medium Cultural tie) — resolved as a clean non-match beneath
    a real subnet-position resemblance:** see Cross-Reference Synthesis above.
-5. **Against Port Lockroy (already completed, a confirmed sibling BAS-heritage city, directly resolving its
-   own forward flag) — resolved as the cleanest non-match of the three BAS-heritage siblings:** see
+5. **Against Port Lockroy (already completed, a confirmed British-founded sibling city, directly resolving its
+   own forward flag) — resolved as the cleanest non-match of the three British-founded siblings:** see
    Cross-Reference Synthesis above.
 
 No finding above reads as generic "remote isolated city" content that happened to get filed under Signy's
 name — every finding depends on facts (the specific siligel shortage, the two-island bridge structure, the
-particular character of this city's own BAS-heritage divergence) that are concretely, specifically Signy's
+particular character of this city's own scientific founding focus) that are concretely, specifically Signy's
 own. **This closes out the Palmer Subnet — 8 of 8 cities now Draft. Amundsen Station remains the sole
 remaining entry in the entire 36-city project.**

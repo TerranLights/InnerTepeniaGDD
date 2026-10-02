@@ -112,38 +112,6 @@ ACROSS 26 COASTAL CITIES:  112 qualified listed, 33 MISSING -> 23% absent
 
 ---
 
-# 4 · ⚠ A SECOND, DIFFERENT PROBLEM — **RUSSIA'S PRESENT-SIDE IS STATION-DERIVED**
-
-**Where Russia IS listed, it tracks real-world operator identity almost perfectly.** *Of its **9 coastal/nunatak
-appearances**, **8 have a Russian-operated facility at or adjacent to the site**:*
-
-| City | The facility |
-|---|---|
-| **Lazar** | Novolazarevskaya — *the file says so outright: "co-located at this exact site, giving Russia infrastructure advantage"* |
-| **Mirny** | Mirny Station — *`Specs/Mirny.md` still tags it **`Russia (founding operator heritage)`*** |
-| **Sinheung** | Progress Station |
-| **Zhongshan** | *adjacent to* Progress |
-| **Shirayuki** | *adjacent to* Progress |
-| **Sejong** | Bellingshausen, King George Island |
-| **Troll** · **Abowasa** | **Novo airfield — the gateway table names it *"(Russia-operated)"*** |
-| ⚠ **Casey** | ***unexplained*** — the one appearance with no Russian facility |
-
-⛔ **That is the GPS-purposes-only violation, and it has been caught before and not swept.** *`Zhongshan`'s own
-2026-07-13 note says Russia was there for "operator heritage," that the claim was **also factually wrong** (the
-Russian station is at Sinheung's site, not Zhongshan's) — **and then rewrote the justification while leaving
-the row standing.*** **The reason was deleted; the effect was not.**
-
-> ## ⭐⭐⭐ SO RUSSIA IS WRONG IN BOTH DIRECTIONS AT ONCE
-> **Where a Soviet station exists, heritage put Russia in — the right answer for the wrong reason.**
-> **Where none exists, its absence left Russia out — the wrong answer, ten times.**
-> ***Davis is not an anomaly. Davis is the visible corner of a pattern that covers a third of the coast.***
-
-⚠ **Same class, already logged three times for Italy at Janbogo** *(`Specs/Janbogo.md`: "Same Janbogo/Zukelli
-bleed-over pattern previously found (and fixed) twice… this is its third occurrence")*. **The corpus keeps
-catching this one city at a time. This audit is the first time it has been counted.**
-
----
-
 # 5 · ⛔ WHAT IS **NOT** A BUG — do not "fix" these
 
 **A second check looked for pool inversions** *(a nation tiered below one with a smaller pool)* **and returned 7
@@ -185,9 +153,7 @@ cities. A checker cannot tell an override from an error — only the change-log 
 1. **Rule on the window's scope first** — *does ±3 gate every tier, or only Notable?* ⛔ **Everything downstream
    depends on this and it is currently undefined.**
 2. **Close the 33 coverage gaps**, cheapest-first: *the four block-missing nations account for 29 of them.*
-3. **Re-derive Russia everywhere** — *strip the operator-heritage justifications at **Lazar** and **Mirny**
-   (the last two live ones), and add Russia to the ten cities where it qualifies.* ⭐ **Its rows are mostly
-   right; its reasons are wrong and its absences are wrong.**
+3. **Re-derive Russia everywhere** — *add Russia to the ten cities where it qualifies.*
 4. **Re-de-stack** every touched city's per-nation table.
 5. ⛔ **LAST — rebuild the census's National Origin table as a direct sum of the Specs files.** *Its own notes
    forbid patching it, and it has drifted twice before.*

@@ -140,8 +140,9 @@ mate) be made outside Vostok and shipped in?
 ### ⭐ The result worth keeping
 
 > **Alcohol content on the Hwy 37 plateau route is a shipping specification, not a recreational preference.**
-> Only ~60%+ ABV survives an unheated haul at −55 °C. **Everything weaker needs a heated container** — energy
-> cost, on the most expensive route, in an energy-backed economy.
+> Only ~60%+ ABV survives an unheated haul at −55 °C. **Everything weaker needs a heated container** — a real
+> energy cost, on the most expensive route, regardless of what the currency turns out to be backed by
+> (unsettled at every stage, `DR-3`).
 >
 > **So weakness is the luxury. Orange juice costs more than whiskey at Vostok.** Beer is an extravagance;
 > kombucha is near-unobtainable as a liquid, though a live SCOBY ships fine and brews locally, making the

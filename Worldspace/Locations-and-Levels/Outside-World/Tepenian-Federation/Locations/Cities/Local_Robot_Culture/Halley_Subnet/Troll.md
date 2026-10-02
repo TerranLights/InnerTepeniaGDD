@@ -51,9 +51,7 @@ faction aside long enough to do the job in front of her.*
   instinct layered onto the shared cold-competence pride).
 - **Input B — Geography & Geology:** `Specs/Troll.md`. Jutulsessen nunatak, inland Queen Maud Land — more
   continental and considerably colder than any coastal Halley subnet city, genuine bedrock. Founding:
-  post-Falkland Treaty Norwegian exiles inheriting a rotating-operator Polar Institute station chain — the
-  same documentary-not-taught mechanism already confirmed for Mirny, Sayowa, Neumayer, and Belgrano — plus the
-  airfield itself, inherited wholesale. The 1939 Queen Maud Land claim and Amundsen's own historical
+  post-Falkland Treaty Norwegian exiles, inheriting the airfield itself wholesale. The 1939 Queen Maud Land claim and Amundsen's own historical
   expeditions through this landscape came forward as chosen, learned heritage, not a living institution's
   direct transmission.
 - **Input C — Local Infrastructure:** `Troll_Physical_Infrastructure_Attributes.md` (12 attributes, 6 new

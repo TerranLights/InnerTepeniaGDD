@@ -1,5 +1,11 @@
 ## Identifying Real Cities in the World to Serve as Inspiration for Tepenian Cities
 
+> ⛔ **Picks are judged on structural and thematic parallel alone** — local industry, economy, arts and music scene,
+> work/life culture — **never on sharing a nation with the city's station or its founders.** Developer, 2026-10-01, on
+> how the picks were chosen: *"the general makeup of the city (local industry, local economy, local arts/music scene,
+> local work/life culture, etc…) were what I see in my head. The country that those cities are in is not relevant to
+> the purposes of synthesizing a new location from them."* **Founders come only from `Founding_Register.md`.**
+
 > **Scope note — highways and corridors deliberately have no entries here.** *(Developer ruling, 2026-08-31.)*
 > *"A road will be dependent upon the context it's in, and that context will already be established by the
 > worldbuilding"* — and that context is **two things, equally**: *"not just the two locations it connects, but

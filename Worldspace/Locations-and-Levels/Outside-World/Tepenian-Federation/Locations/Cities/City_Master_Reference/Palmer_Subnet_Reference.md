@@ -36,7 +36,7 @@
 
 ### Canon facts (✅)
 - **Highway:** Hwy 1 waypoint (not terminus — corrected 2026-07-06; Esperanza is the true northern terminus). Reached via the Picnic Passage causeway/bridge chain (Marambio → Snow Hill I. → James Ross I. → Prince Gustav Channel → Trinity Peninsula mainland).
-- **Founding:** Argentine Air Force base since 1969; exiles inherited a structurally sound but operationally *dormant* airfield and rebuilt genuine operational discipline themselves (documentary record, not living institutional teaching).
+- **Founding:** exiles inherited a structurally sound but operationally *dormant* airfield and rebuilt genuine operational discipline themselves (documentary record, not living institutional teaching).
 - **Economy §15:** Aviation/logistics 30% + Maritime/port operations 30% (equally central, established 2026-07-04/16) + Commercial/trade 15% + Technical/maintenance 20% + Other 5%.
 - **⭐ National role:** the Palmer subnet's confirmed South America shipping-receiving node (Upper Earth trade partner, parallel to South Africa/Halley, NZ/Ross, Australia/Dumont d'Urville). The airfield is **internal-Tepenia-only**; the port serves both worlds. Complementary, not competing, with Esperanza's own trans-shipment role.
 - **DoI status:** Listed as a LOGISTICS provider (aviation 30% + maritime 30% = 60%) in `04_Providers_and_National_Balance.md` §3. **⭐ Developer ruling 2026-09-02 (`16`):** Marambio's shipping connects South America + the Weddell Sea; its airport is domestic-only, connecting Marambio to the rest of Tepenia — this is what distinguishes it from Sejong's international-gateway role.
@@ -84,7 +84,7 @@ The richest/most emotionally weighted finding in this file: a robot dockworker i
 
 ### Canon facts (✅)
 - **No highway** — maritime-access only, most isolated Palmer subnet city. **Genuine two-island structure** (established 2026-07-17, from a 2026-07-04 Vision Notes fact): **Signy Island** (small, holds the shipping dock + radio comms — radio, not Arcanet, since digital networking can't reach this far) + **Coronation Island** (much larger, holds residential/leisure infrastructure), joined by one bridge (unnamed in confirmed canon; "the Endurance Span" proposed, not locked).
-- **Founding:** BAS since 1947; British + a genuinely distinct South African founding-wave (via the South Atlantic/Cape Town route, not Drake Passage) — the only Palmer subnet city with this.
+- **Founding:** partially South African (via the South Atlantic/Cape Town route, not Drake Passage), with at least one other co-founder still open (`DR-22`) — the only Palmer subnet city with a South African founding.
 - **⚠ War Impact Note:** the city's human population **can sustain itself on the Scotia Sea's marine richness** (per the original spec text) — **⚠⚠ SUPERSEDED 2026-09-02 by the food model in `Division_of_Industry/14`: marine capacity caps at ~16% of national calories and ~17% of fat, mostly protein. A marine-only diet is protein-rich, fat/carb-poor — the "rabbit starvation" failure mode, not indefinite sustenance.** See `project_city_post_cultures` memory correction: the developer's DLC 3 questline design (humans fine, robots facing a real siligel shortage) **stands and is sharpened, not weakened**, by this correction — Signy is rock-founded and can grow in lit vaults, so it starves *slowly* as phosphorus depletes over years, the same multi-year fuse as the national phosphate finding, arriving at one city.
 - **Economy §15:** Biological/ecological research 30% + Marine/fishing 30% + Maritime trade 20% + Technical/maintenance 15% + Other 5%.
 - **DoI status:** listed FOOD (fish) provider at 30% in `04` §3. Per the marine-employment finding (`11`), this cannot mean fishing crews at scale — the entire national sustainable catch needs only ~13,000 fishers — so Signy's marine sector is more plausibly port/processing/research-adjacent than raw catching capacity.
@@ -127,7 +127,7 @@ The single most nationally significant finding flagged in the whole Palmer-subne
 
 ### Canon facts (✅)
 - **Highway:** Hwy 1's true **northern terminus** (corrected 2026-07-06).
-- **Founding:** the real Esperanza Base (est. 1952) is the site of the first human birth in Antarctica (Emilio Marcos Palma, 1978, pre-exile). Founding council built the city on that discovery as a deliberate charter: care for the children of humans who chose exile alongside robots — explicitly multinational, not Argentine-exclusive, despite Argentine site heritage.
+- **Founding:** the real Esperanza Base (est. 1952) is the site of the first human birth in Antarctica (Emilio Marcos Palma, 1978, pre-exile). Founding council built the city on that discovery as a deliberate charter: care for the children of humans who chose exile alongside robots — explicitly multinational, not Argentine-exclusive.
 - **Economy §15:** Education/childcare/family services ~25% (unusually large formal sector) + Maritime/harbor trade ~20% + Commercial ~15% + Technical/scientific ~15% + Agricultural/food production ~15% + Other/admin ~10%.
 - **⭐⭐ National role — the Esperanza Institute of Medicine** (`[CGRM 2026-09-01 · Path 6]`): one of only THREE national sources of trained medical/care personnel in the Federation; source of the nation's *settled* medicine (GPs, obstetricians/midwives, nurses, chronic-care/geriatric specialists). Flagship: Department of Pediatrics, grown directly from the founding charter + birth registry. Tepenia cannot evacuate patients off-continent, so cannot import clinicians either — every settled-medicine practitioner was made here.
 - **⭐ Trans-shipment role:** Weddell Sea-facing, mainland (non-island) status makes it a natural trans-shipment point between the Halley and Palmer subnets (e.g., Belgrano-crafted goods → Esperanza → Palmer City, documented via Griselda Alejandra Chávez's piano trade).
@@ -175,8 +175,8 @@ Because robots don't age, a single Caregiver-Teacher can remain a living verific
 
 ### Canon facts (✅)
 - **No highway** — King George Island sits 160–177 km from the mainland, too wide for any bridge; maritime/aviation-only.
-- **Founding:** unusual — multiple exile communities (Korean, Argentine, Brazilian, Chilean, Polish, Russian, Czech, Uruguayan) had pre-existing footholds on the same island simultaneously. **South Korea retained Significant tier (5.79%)** rather than diluting to Notable — one of the stronger founder-nation retentions, though still Sejong's smallest Significant nation.
-- **⚠ Corrected 2026-07-13:** China was previously miscoded co-Primary (traced to real-world Great Wall Station on the same island — an operator-identity error the project's own methodology excludes). Removed; USA is sole Primary (21.65%). Sejong-Janbogo relationship reframed from "the two Korean cities" to a shared founding-era naming heritage only (Janbogo + Sinheung are the living Korean demographic centers).
+- **Founding:** a primarily Anglo-Latin society of immigrants from North, Central and South America (`DR-20`); who first established it is open (`DR-20a`). **South Korea retained Significant tier (5.79%)** rather than diluting to Notable — one of the stronger founder-nation retentions, though still Sejong's smallest Significant nation.
+- USA is sole Primary (21.65%). Janbogo and Sinheung are the living Korean demographic centers.
 - **Economy §15:** Commercial/trade 25% + Technical/scientific 20% + Diplomatic/inter-community coordination 15% + Marine/resource extraction 15% + Education 15% + Other 10%.
 - **⭐⭐ National role, ruled 2026-09-02 (`16`):** Sejong hosts **Machu Picchu Airport — the international arrival gateway**, connecting to Ushuaia and the Machu Picchu Border & Customs Authority. Distinguished from Marambio's domestic-only airport by mode+direction, not territory: "Sejong is where people and goods enter Tepenia at all." Reframed as **mandated national border/customs work** given Tepenia's existential phosphate-import dependency (`14`) — 25% mandate ruling upgraded from "weakest of the eight estimates" to solid.
 - **⚠ Open per that same ruling:** does Juan Carlos share the border function (its own §5 record notes the airport marker sits "close enough to Juan Carlos" per the map), or does Sejong hold it exclusively? Juan Carlos already carries fishing 30% — a shared border role would make it a two-role city.
@@ -217,7 +217,7 @@ This file's own header flags a **live, incompletely-fixed canon bug**: an invali
 
 ### Canon facts (✅)
 - **No highway** — Livingston I. sits 110 km from mainland, 95.4 km from Sejong; both far too wide for any bridge.
-- **Founding:** Spanish, seasonal since 1988. Spain retained Significant tier (not diluted to Notable) — a similarly strong retention to Rothera's UK.
+- **Founding:** like Sejong, a primarily Anglo-Latin society of immigrants from the Americas (`DR-20`); who first established it is open (`DR-20a`). Spain sits at Significant tier.
 - **⭐ National role — Tepenia's first bureaucratic archive** (established 2026-07-05): the original home of Federation immigration/customs records, directly tied to the Machu Picchu Border & Customs Authority. Non-immigrant visitors routed to a separate corridor/sealiner to Palmer City. **This archive later relocated and consolidated into Amundsen Station's own pre-Split-Brain unified archive** — Juan Carlos is the direct historical origin point of the same archive DLC 1 ("Echoes of Amundsen") centers on. This function is *why* Upper Earth targeted it specifically, even after the bulk archive had moved.
 - **Economy §15:** Maritime/fishing 30% + Commercial/trade 20% + Technical/scientific 20% + Cultural/social institutions 15% + Other 15%.
 - **Defining social institution:** a hosted, argument-driven gathering tradition, **deliberately never given a formal name** (removed by developer direction 2026-07-22 — "nobody in-world calls it anything either"). Exported into Concordia (Leo, Taurus, Pisces districts).
@@ -308,7 +308,7 @@ This file's own header states it deliberately **does not** build culture content
 
 ### Canon facts (✅)
 - **Why it survived (established 2026-07-03):** Adelaide Island is by far the largest, most mountainous Palmer subnet landmass (~120 km, peaks >2,500 m) — the industrial base is genuinely decentralized across it rather than concentrated, so no single strike could erase it, unlike Palmer City/Sejong's concentrated small islands. **Also has genuine large-scale underground vault sections**, a compounding third layer of resilience.
-- **Founding:** BAS since 1975; inherited the rare paved Bonner airstrip (900 m).
+- **Founding:** inherited the rare paved Bonner airstrip (900 m).
 - **Economy §15:** Industrial/manufacturing 40% (defining) + Marine/resource extraction 20% + Aviation/logistics 15% + Technical/scientific 10% + Commercial/trade 10% + Other 5%.
 - **⭐ National role:** the Palmer subnet's industrial center — raw materials → finished infrastructure components used across the whole subnet, plausibly reaching every subnet city including Palmer City. Listed FABRICATION provider at "industrial 40%" in `04` §3.
 
@@ -381,7 +381,7 @@ One-liner: a Port Lockroy robot may be the only resident present for the entire 
 ## Subnet-wide cross-references (from `City_National_Connections.md`, ✅)
 
 - **Marambio ↔ Esperanza:** Strong Economic tie (bulk-vs-specialty Weddell Sea shipping division of labor).
-- **Marambio ↔ Belgrano** (Halley subnet): Medium Demographic/Aviation tie (shared Argentine Air Force founding heritage, both their subnet's primary aviation hub).
+- **Marambio ↔ Belgrano** (Halley subnet): Medium Demographic/Aviation tie (both Argentine-founded, both their subnet's primary aviation hub).
 - **Marambio ↔ Byrd:** Medium Infrastructure tie (secondary logistics link).
 - **Esperanza ↔ Belgrano:** Medium Cultural/Demographic tie, explicitly characterized as "thin, logistics-only."
 - **Esperanza ↔ Janbogo:** Medium Demographic tie (shared emigration drain toward Lazar, alongside Zukelli).
@@ -389,7 +389,7 @@ One-liner: a Port Lockroy robot may be the only resident present for the entire 
 - **Signy ↔ Princess Elisabeth** (Halley subnet): Medium Technical tie ("both cities built genuine civic identity around engineered, actively-maintained self-sufficient power").
 - **Signy ↔ Rothera:** Medium Infrastructure tie — "the only two Palmer subnet cities that survived the Long Night War intact/functional."
 - **Signy ↔ Scott** (Janbogo subnet): Medium Cultural tie ("both are the smaller, quieter city in a subnet otherwise defined by a larger, louder neighbor").
-- **Rothera/Port Lockroy/Signy:** share BAS-heritage founding lineage; each independently developed a genuinely distinct civic character (operational / historical / scientific respectively — per `Specs/Signy.md`'s own three-way distinction).
+- **Rothera/Port Lockroy/Signy:** each independently developed a genuinely distinct civic character (operational / historical / scientific respectively — per `Specs/Signy.md`'s own three-way distinction).
 - **Byrd Expedition founding-era link** (established 2026-07-03): Palmer City AND Rothera both shipped historical accounts/maps to help sharpen the Byrd Expedition's heading toward the lost Byrd Station site — a real founding-era connection spanning three DLCs (Palmer City here, Belgrano in DLC 5, Byrd in DLC 2).
 
 ---

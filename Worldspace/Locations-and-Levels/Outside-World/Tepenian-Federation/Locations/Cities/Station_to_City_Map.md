@@ -2,6 +2,8 @@
 
 Every Antarctic research station became a Tepenian city or settlement as the exile population expanded after the Falkland Treaty (June 21, 2564). This table documents the full mapping from real station to game city, organized by geographic region.
 
+> ⛔ **The "Country" column is the station's builder: a coordinate and an infrastructure fact only (`DR-19`, `DR-24`).** It is never a reason for a city's founders, identity, culture or ties. **Founders come only from `Founding_Register.md`**, on geography and access.
+
 **Name conventions established so far:**
 - Direct carry-over (most common): Neumayer, Belgrano, Mirny, Vostok
 - Phonetic adaptation: Jang Bogo → Janbogo
@@ -31,7 +33,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Rothera Station | UK | **Rothera** ✓ | Damaged; partially operational | Major British station on Adelaide Island |
 | Esperanza Base | Argentina | **Esperanza** ✓ | Destroyed *(corrected 2026-07-03)* | Oldest continuously occupied station; historic families |
 | Marambio Base | Argentina | **Marambio** ✓ | Destroyed *(corrected 2026-07-03 — small, flat, single-point-of-failure airfield island)* | Has a runway — logistics/transport hub in-game |
-| King Sejong | Unified Korea | **Sejong** ✓ | Destroyed | Korean station; Unified Korea's presence in Tepenia |
+| King Sejong | Unified Korea | **Sejong** ✓ | Destroyed | Korean station |
 | Juan Carlos I | Spain | **Juan Carlos** ✓ | Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md`)* | Spanish station, Livingston Island |
 | Signy Station | UK | **Signy** ✓ | Survived; fully operational *(upgraded 2026-07-03)* | South Orkney Islands; northernmost Tepenian outpost; peripheral — confirmed overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines |
 | Port Lockroy | UK | **Port Lockroy** ✓ | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Goudier Island; too strategically irrelevant to be a priority target, plausibly conflated with adjacent Palmer City's strike zone |
@@ -53,7 +55,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
 | Neumayer Station III | Germany | **Neumayer** ✓ | Damaged; partially operational | Off Hwy 7 main route — possibly harder to target |
-| Sanae IV Station | South Africa | Sanay | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | South African presence in Tepenia |
+| Sanae IV Station | South Africa | Sanay | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | South African station |
 | Troll Base | Norway | Troll | Damaged; partially operational | Norwegian station; runway access — logistics value |
 | Aboa Station + Wasa Research Station | Finland + Sweden | Abowasa | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed"; renamed from "Aboa" 2026-07-05)* | Two genuinely separate stations ~200m apart; both built for year-round occupation but staffed seasonally only |
 | Novolazarevskaya Station + Maitri Station site | Russia / non-Indian | **Lazar** | Damaged; partially operational | Name finalized 2026-07-03 — founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); eastern terminus of Hwy 7, origin of Belgrano Extension. See `Specs/Lazar.md`. |
@@ -66,7 +68,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
 | Syowa Station | Japan | Sayowa | Damaged; partially operational | Major highway junction (Hwy 37 × Hwy 7-ext); critical infrastructure node; DLC 4 |
-| Sinheung Station | Russia | Sinheung | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — effectively co-located with Zhongshan, a few hundred meters apart in reality; differing outcomes made no physical sense)* | Russian station, East Antarctic coast |
+| Progress Station | Russia | Sinheung | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — effectively co-located with Zhongshan, a few hundred meters apart in reality; differing outcomes made no physical sense)* | Russian station, East Antarctic coast |
 | Mawson's Huts / Mawson Station | Australia | Mawson | Damaged; partially operational | Confirmed Arcanet subnet hub; DLC 4 anchor |
 | Bharati Station | India (infrastructure only) / Japan (founding population) | **Shirayuki** | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08 |
 | Zhongshan Station | Sinian Federation | Zhongshan | Damaged; partially operational | Sinian Federation station; named after Sun Yat-sen; major highway junction (Hwy 110 × Hwy 22) |

@@ -18,7 +18,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Italy, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
 *Source: `Official_Population_Census.md` Sections A–C.*

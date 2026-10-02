@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Mawson (hub city)
 **Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — Mawson is on **Hwy 4 (the Mawson-Sinheung Highway)**, between the Sayowa Junction and Sinheung: the Sayowa Junction → Mawson → Sinheung → (Shirayuki). *(Further corrected 2026-07-06, same day: the western terminus is the Sayowa Junction, near but not inside Sayowa itself — see `Specs/Sayowa.md`.)* See `Locations/Infrastructure/Highways.md`.
-**Significance:** Arcanet hub for the Mawson subnet; Australia's oldest continuously operating Antarctic station (since 1954); named after Sir Douglas Mawson — St. Douglas in the Tepenian Saints framework, the greatest Australian polar explorer; Mac.Robertson Land was named after Macpherson Robertson, the Australian confectioner who funded the 1929-31 BANZARE expedition; the Australian Antarctic Division's primary operational base; gateway to the western Mawson subnet
+**Significance:** Arcanet hub for the Mawson subnet; named after Sir Douglas Mawson — St. Douglas in the Tepenian Saints framework, the greatest Australian polar explorer; Mac.Robertson Land was named after Macpherson Robertson, the Australian confectioner who funded the 1929-31 BANZARE expedition; gateway to the western Mawson subnet
 **DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational as subnet hub
 
 ---
@@ -126,7 +126,7 @@ St. Douglas (Mawson) is the patron Saint of this city and subnet. His connection
 
 **Settled:** Post-Falkland Treaty, on Mawson Station infrastructure. The Australian Antarctic Division operated here from 1954. *(Refined 2026-07-25 — GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story and shouldn't be specified. No single institution's culture, personnel, or continuity persisted across that chain; each handoff was a fresh operator, not an unbroken inheritance. Preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point — learning from a written record is not the same as being taught by a living institution.)* What the exiles actually inherited was a genuinely functional, well-maintained station — one of the most substantial and well-built bases in Tepenia, which is what actually gave the founding community its strong start. Since 2564, Tepenian Mawson itself has been the longest unbroken *Tepenian* occupation of any city in the nation — a real and different claim from the station's pre-exile history.
 
-**Founding population:** Australian exiles, Australian Antarctic Division heritage. Inheriting the longest unbroken occupation of any Tepenian city gave the founding community a strong sense of territorial legitimacy in their corner of the continent.
+**Founding population:** Australian exiles.
 
 Named for St. Douglas (Sir Douglas Mawson, 1882–1958) — the patron Saint of the Mawson subnet, the greatest Australian Antarctic explorer, whose 1911-14 Australasian Antarctic Expedition and subsequent expeditions defined Australian polar identity.
 
@@ -159,7 +159,7 @@ Subnet hub logistics, maritime trade (Holme Bay, Indian Ocean access), scientifi
 ---
 
 ## Notable Figures
-- **Founding Administrator Warrick Zhao** *(placeholder, proposed 2026-07-07)* — credited with steering the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
+- **Founding Administrator Warrick Zhao** *(placeholder, proposed 2026-07-07)* — credited with steering the exile community through the earliest transition from inherited research station to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
 - **Hostess Mei-Ling Sorensen** *(placeholder, proposed 2026-07-07)* — the figure most associated, in Mawson's own institutional memory, with formalizing the honeymoon-destination reputation into something deliberately cultivated rather than incidental; credited locally with establishing the earliest dedicated hospitality infrastructure the modern reputation grew from.
 
 ---
@@ -170,7 +170,7 @@ Mawson is the Mawson subnet hub — its Arcanet connection to the rest of Tepeni
 ---
 
 ## Legacy
-Mawson's legacy is continuity — the city that never stopped being here, from 1954 forward. The Australian Antarctic Division's century-long occupation became a Tepenian exile city became a Long Night War survivor (damaged but operational). The thread never broke.
+Mawson's legacy is continuity — the city that never stopped being here, from its 2564 founding forward. A Tepenian exile city became a Long Night War survivor (damaged but operational). The thread never broke.
 
 **Confirmed 2026-07-07 — a structural principle, not just a demographic theme:** "The Name That Outlasted the Founders" turns out to describe more than Mawson's population history. It's a pattern that recurs at multiple scales of the same city — national founding identity (Australia's name and St. Douglas's legacy persisting), present-day demographic reality (China's long-run Primary status), and now infrastructural function (the hub role itself outlasting which specific connections it actually coordinates, per the Arcanet damage mechanism above). All three follow the identical shape: the underlying structure persists: what specifically occupies or connects through it changes.
 

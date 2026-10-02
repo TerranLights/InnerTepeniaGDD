@@ -69,7 +69,7 @@ rather than itemized.
 
 | # | Industry | Default | Why non-optional **here specifically** |
 |---|---|---|---|
-| A1 | **Thermal & power** | `LINE` | Heat is not comfort, it is the survival precondition — Concordia's own canon calls dome-and-corridor heating exactly that. Generation, distribution, and a maintenance load that never stops. **Post-Tower this is the national wound**, and the currency was energy-backed. |
+| A1 | **Thermal & power** | `LINE` | Heat is not comfort, it is the survival precondition — Concordia's own canon calls dome-and-corridor heating exactly that. Generation, distribution, and a maintenance load that never stops. **Post-Tower this is the national wound** — what the currency was backed by, at any stage, remains unsettled (`DR-3`). |
 | A2 | **Water & sanitation** | `LINE` | Water is *ice*: the cost is energy to melt, not pressure to pump — a different industry from the one every real city runs. Waste cannot be landfilled in permafrost nor discharged into a frozen sea. |
 | A3 | **Enclosure & atmosphere integrity** | `LINE` | Distinct from construction. Seals, pressure, air handling, CO₂, humidity. **A dome breach is not a repair job; it is a mass-casualty event.** |
 | A4 | **Construction & structural maintenance** | `LINE` | Every structure fights conditions engineered to destroy it: katabatic wind, drift burial, frost heave, thermal cycling. **Denison's entire civic identity is wind-engineering and it has no construction sector.** |
@@ -139,7 +139,7 @@ rather than itemized.
 |---|---|---|---|---|
 | **C6** | **Legal & justice** | `LINE` | **23-0000 Legal** | **Canon establishes a three-tier criminal justice system** — exile → supervised labor → Aquarius subject. **Courts, adjudication, enforcement and legal support are all implied and none are staffed.** A society with a sentencing ladder has a judiciary |
 | **C7** | **Community & social services** | `FOLD` | **21-0000 Community & Social Service** | Counselors, social workers, **and religious workers.** Canon has **five robot religions**, a published Polydimensional Animism with rituals and doctrines, and an institute training **robot counselors.** All currently unemployed |
-| **C8** | **Finance, currency & allocation** | `LINE` | **13-0000 Business & Financial Operations** | Canon has an **energy-backed national currency**, post-war **regional currencies plus a cross-subnet trade standard**, a **black market**, and a rationed/metered economy. ⭐ **In a rationed economy, allocation IS the financial system** — this is larger here than in a market society, not smaller |
+| **C8** | **Finance, currency & allocation** | `LINE` | **13-0000 Business & Financial Operations** | Canon has a **national currency** (backing unsettled at every stage, `DR-3`), post-war **regional currencies plus a cross-subnet trade standard**, a **black market**, and a rationed/metered economy. ⭐ **In a rationed economy, allocation IS the financial system** — this is larger here than in a market society, not smaller |
 | **D4** | **Computing & data systems** | `FOLD` | **15-0000 Computer & Mathematical** | **Arcanet, Leyline, bridge units and jack-in are all canon.** Nobody currently runs, maintains or writes for any of them |
 
 **And one expansion rather than an addition:**

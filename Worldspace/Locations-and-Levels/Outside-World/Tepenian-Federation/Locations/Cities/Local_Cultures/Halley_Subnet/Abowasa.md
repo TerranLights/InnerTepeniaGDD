@@ -21,9 +21,9 @@
 |------|---------|
 | Primary | USA |
 | Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Belgium, Sweden *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland *(founding operator heritage)*, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Abowasa is the only Tepenian city with two founding-operator nations rather than one — Finland and Sweden jointly, reflecting the real Aboa and Wasa stations' proximity (~200m apart, genuinely separate facilities rather than one joint station — established 2026-07-05). Both founding nations sit at the same Notable tier by Census II, diluted together by the same eventual American demographic Primary that reshaped every other Halley subnet city. What makes Abowasa distinct isn't escaping that dilution — it didn't — but that the founding tension here was never a single nation's story to begin with. It was always two.*
+*Abowasa is the only Tepenian city with two founding nations rather than one — Finland and Sweden jointly. Both founding nations sit at the same Notable tier by Census II, diluted together by the same eventual American demographic Primary that reshaped every other Halley subnet city. What makes Abowasa distinct isn't escaping that dilution — it didn't — but that the founding tension here was never a single nation's story to begin with. It was always two.*
 
 ---
 
@@ -139,7 +139,7 @@ A genuinely shared folk tradition, grown out of the two founding communities mak
 
 ## 15. Division of Industry
 
-- Technical / scientific: 25% — inherited FINNARP/SWEDARP research tradition
+- Technical / scientific: 25% — research work run out of the twin station sites
 - Marine / resource extraction: 15%
 - Commercial: 15% — internal Halley subnet trade
 - Industrial / manufacturing: 15%

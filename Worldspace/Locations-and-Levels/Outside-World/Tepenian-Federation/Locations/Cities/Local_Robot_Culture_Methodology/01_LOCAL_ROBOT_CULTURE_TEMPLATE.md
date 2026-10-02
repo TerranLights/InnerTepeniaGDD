@@ -33,12 +33,14 @@ reconciliation review can see exactly what fed each finding below.
 - **Input B — Geography & Geology:** *[same]*
 - **Input C — Local Infrastructure:** *[same]*
 - **Input D — Source Inspirations:** *[same — note which of the 3 sub-sources: Inspirational-Influences.md /
-  Real-World Stations / per-city Real-World Parallel Locations]*
+  Real-World Stations / per-city Real-World Parallel Locations]* ⛔ *Real-World Stations supply **physical and
+  infrastructure facts only** (`DR-24`). Never founders, identity or culture (`DR-19`).*
+- **Founders:** *[the city's row in `Locations/Cities/Founding_Register.md`: founders, ruling, status. Never taken from
+  spec prose or census tags]*
 - **Input E — Tepenia-Wide Robot Culture Canon:** *[which of the 6 confirmed members were actually relevant
   here]*
 - **Additional candidate inputs used, if any:** *[Community Infrastructure / City Enneagram Personalities /
-  City Vision Notes / Subnet Meta-Personality / Historical Vignettes & Course of Events / District Refugee
-  Diaspora Composition — note which, if any, and why]*
+  City Vision Notes / Subnet Meta-Personality / District Refugee Diaspora Composition — note which, if any, and why]*
 - **Concentric rings actually widened to:** *[own files / adjacent-cluster docs / cross-reference databases /
   repo-wide grep / sibling cities / synthesis-rollup docs — note how far the search actually had to go]*
 
@@ -183,9 +185,8 @@ own framing. Note which input categories combined to produce each one.*
 
 **Restructured 2026-08-09** — the original three-subsection version of this section (Landmarks/Institutions,
 Events, Figures) came back essentially empty on the Janbogo test run, correctly: inventing landmarks, events,
-or named figures isn't actually this methodology's job. That's `Background-Lore/Cities/[City]_Historical_
-Vignettes_and_Informational_Sheets.md` / `_Course_of_Events_Suggestions.md` territory (candidate, non-canon
-material) and `Local_Cultures` §29–31's job (established landmarks/events/figures) respectively. Replaced with
+or named figures isn't actually this methodology's job. Established landmarks, events and figures are
+`Local_Cultures` §29–31's job. Replaced with
 a single light note instead of three placeholder-heavy headers:
 
 - **Existing landmarks/institutions this pass gave new *meaning* to** (not new landmarks — reinterpretations of
@@ -194,8 +195,7 @@ a single light note instead of three placeholder-heavy headers:
 - **Existing `Local_Cultures` §31 figures whose robot/human status this pass had to leave open**, if any: *[note
   here rather than inventing a resolution]*
 - **New landmark/event/figure candidates surfaced but NOT resolved here**, if any turned up during Steps 1–4 —
-  point to the specific Historical Vignette/Course of Events file where the candidate lives, and flag it for a
-  developer decision on whether to formally adopt it, rather than treating it as settled by inclusion in this
+  flag it for a developer decision on whether to formally adopt it, rather than treating it as settled by inclusion in this
   file.
 
 ---

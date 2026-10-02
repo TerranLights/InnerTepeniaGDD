@@ -41,7 +41,7 @@
 |------|---------|
 | Primary | China, USA |
 | Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | Philippines, Malaysia, New Zealand *(founding operator heritage)*, Chile |
+| Notable | Philippines, Malaysia, New Zealand, Chile |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -144,7 +144,7 @@ The proximity to Fort McMurdo was both the defining fact of Scott's existence an
 
 **Founding population:** New Zealand exiles primarily, alongside a broader Pacific-region community.
 
-The name was kept as-is from the station. Robert Falcon Scott — British explorer, died on the return journey from the South Pole in 1912 — had been the organizing spirit of New Zealand's Antarctic identity for centuries by the time of the exile. Keeping his name was not a statement of British loyalty (New Zealand had been independent for centuries) but of Antarctic heritage.
+The name was kept as-is from the station. Robert Falcon Scott — British explorer, died on the return journey from the South Pole in 1912.
 
 ---
 

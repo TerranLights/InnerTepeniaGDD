@@ -10,6 +10,10 @@ top of the already-completed *Robot Universals* (`TepenianUniverseTimeline/Refer
 which deliberately stops at "the floor and the method," explicitly leaving population-specific content to each
 project's own repo. This is that population-specific layer, for Tepenia's cities.
 
+> ⛔ **Founders and the real station.** Founders come only from `Locations/Cities/Founding_Register.md`. A founding
+> nation stands on geography and access, never on the real station (`DR-19`). The station is infrastructure (`DR-24`),
+> and what the newcomers inherited from it is records, never a tradition or an institution (`DR-25`).
+
 ---
 
 ## The Reasoning Mechanism We're Building On Top Of (not reinventing)
@@ -65,9 +69,9 @@ composition is quite literally which slices of the pool are locally available to
 
 ## Input Category B — Geography & Geology
 
-**Source:** `Locations/Cities/Specs/[City].md` — `## Geographic Basis`, `### Annual Climate`, `## Founding`
-sections. (Not the Physical Infrastructure Attributes files — those are derived output, not raw geography; the
-actual geographic/climate/founding facts live here, one layer upstream.)
+**Source:** `Locations/Cities/Specs/[City].md` — `## Geographic Basis` and `### Annual Climate` sections (not the
+Physical Infrastructure Attributes files — those are derived output, not raw geography). **Founders come only from
+`Founding_Register.md`**, never from the spec's `## Founding` prose (`DR-19`).
 
 **What this gives the Differentiation Engine:** physical-environment conditions — climate severity, terrain,
 isolation, proximity to other cities/subnets — the kind of condition that would plausibly shape robot-specific
@@ -99,9 +103,9 @@ as Local_Cultures' robot-culture subsection — check what's already there befor
    chaykhana + Dubai mall culture for the specific *institutions* those parallels contribute, not just vibes).
    This is a genuinely rich, underused input — the PRIMARY entries especially read like ready-made seeds for
    "what would a distinctly local *robot* custom look like here."
-2. **`Reference/Real-World/Stations/`** (shared, not per-city) — real-world Antarctic station/expedition
-   infrastructure data. Grounds logistics/founding realism more than culture directly; likely a secondary,
-   supporting input rather than a primary driver of robot-culture flavor.
+2. **`Reference/Real-World/Stations/`** (shared, not per-city) — real-world Antarctic station infrastructure data:
+   **physical and infrastructure facts only** (`DR-24`), plus what the station's records would contain (`DR-25`).
+   Never a source of founders, identity, culture or traditions (`DR-19`). A secondary, supporting input.
 3. **Per-city `## Real-World Parallel Locations`** inside `Neo-Races-and-Cultures/[Subnet]/[City]/[City]_Catalog.md`
    — per-*nation* real-world cultural/geographic parallels (distinct from #1's per-*city* whole-place parallels).
    Finer-grained than Inspirational-Influences.md; probably feeds Input A more than a standalone input of its
@@ -181,14 +185,10 @@ itself.
 - **Subnet Meta-Personalities** (`project_subnet_meta_personalities` — all 5 multi-city subnets complete) —
   an above-city layer; relevant if robot culture should inherit anything at the subnet level before the city
   level narrows it further.
-- **`Background-Lore/Cities/[City]_Historical_Vignettes_and_Informational_Sheets.md` /
-  `_Course_of_Events_Suggestions.md`** — actual incident-level history, distinct from the real-world Stations
-  reference. Plausible source for "a specific past event that shaped this city's local robot custom," which is
-  a different (and probably richer) condition-type than any of the above.
 - **`District_Refugee_Diaspora_Composition.md`** — weighted cultural-transplant data, but scoped to Concordia's
   13 districts specifically, not standalone subnet cities. Open question: does this methodology need a
   Concordia-district variant distinct from the standalone-city version, given Concordia's diaspora-driven
-  composition works differently from a single-nation-founded city like most subnet cities?
+  composition works differently from a standalone subnet city whose founders are set in `Founding_Register.md`?
 
 ---
 
@@ -203,7 +203,7 @@ Before any reasoning starts, gather the city's raw material outward in rings, re
 discipline already validated in this project (`feedback_general_investigation_methodology.md`):
 own dedicated files (Specs, Local_Cultures, Physical Infrastructure Attributes, Community Infrastructure,
 Catalog) → adjacent/cluster-level docs that mention the city without being filed under it (subnet-level
-Megasheet material, Historical Vignettes, Course of Events) → cross-reference/database files in the same
+Megasheet material) → cross-reference/database files in the same
 folder tier (`City_Relationship_Database.md`, `City_National_Connections.md`) → a repo-wide grep for the city's
 name with no path restriction → sibling cities in the same subnet, checked directly for contrast, not just each
 against its own internal facts → any subnet- or project-level synthesis document that cites this city. Read, not
@@ -254,7 +254,7 @@ it's actually an answer to.
 **Further refinement, added 2026-08-10 after a real near-miss on Casey's re-scan.** "Shared experience" means
 an ongoing, cumulative shared *life* experience — a shared way of living, working, or existing together over
 time — not a single discrete incident (one storm weathered together, one rescue, one crisis night). A specific
-named incident is valuable, but it belongs in the city's Historical Vignettes/Course of Events material (or as
+named incident is valuable, but it belongs in the city's own municipal history (or as
 grounding for a different aspect, like §2's Cooperation/Morality ethic) — it is not itself the Kinship
 mechanism. The test: would this bond exist between two robots who never happened to share that one specific
 event, but who live the same ongoing condition? If yes, the ongoing condition is the real Kinship finding, and
@@ -360,8 +360,8 @@ revisit once the tracking checklist (`02_City_Tracking_Checklist.md`) is closer 
   Vernacular Language finding's Iceberg tag; Cross-Reference Synthesis producing the strongest findings, as
   hypothesized). See the developer discussion following that run for the full readout.
 - **Reference section (Part III of the template) restructured 2026-08-09** — Janbogo's run came back with this
-  section nearly empty, correctly: landmark/event/figure invention isn't really this methodology's job
-  (that's Historical Vignettes/Course of Events territory). See `01_LOCAL_ROBOT_CULTURE_TEMPLATE.md` for the
+  section nearly empty, correctly: landmark/event/figure invention isn't really this methodology's job.
+  See `01_LOCAL_ROBOT_CULTURE_TEMPLATE.md` for the
   lighter replacement.
 - **Tracking checklist added:** `02_City_Tracking_Checklist.md`, in this same folder — all 35 cities +
   Amundsen Station, subnet by subnet, status per city.

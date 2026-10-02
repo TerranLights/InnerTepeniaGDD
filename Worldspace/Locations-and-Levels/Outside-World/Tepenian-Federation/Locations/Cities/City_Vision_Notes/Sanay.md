@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in (see the two files above for full detail): Vesleskarvet nunatak, Ahlmannryggen range, Queen Maud Land (~71°40'S, 2°51'W) — bedrock foundation, unlike the ice-shelf cities. Founding: South African National Antarctic Expedition (SANAE) heritage, operational since 1997 (SANAE IV); the only major South African community in Tepenia. Population: Census I 231,576H/232,093R (463,669 combined); Census II 145,798H/129,319R (275,117 combined). Composition: Germany Primary, UK/Brazil Significant, South Africa itself only Notable-tier. Status: Damaged, partially operational. Established this same session, just before this vision pass: Sanay hosts the Halley subnet's actual Arcanet relay nexus (built by Halley's own residents' labor); Sanay is, alongside Belgrano, one of the two receiving ports for South African freighter shipments, trucked onward to Halley via Hwy 7.
+Recap of what was already established going in (see the two files above for full detail): Vesleskarvet nunatak, Ahlmannryggen range, Queen Maud Land (~71°40'S, 2°51'W) — bedrock foundation, unlike the ice-shelf cities. Founding: South African exiles; the only major South African community in Tepenia. Population: Census I 231,576H/232,093R (463,669 combined); Census II 145,798H/129,319R (275,117 combined). Composition: Germany Primary, UK/Brazil Significant, South Africa itself only Notable-tier. Status: Damaged, partially operational. Established this same session, just before this vision pass: Sanay hosts the Halley subnet's actual Arcanet relay nexus (built by Halley's own residents' labor); Sanay is, alongside Belgrano, one of the two receiving ports for South African freighter shipments, trucked onward to Halley via Hwy 7.
 
 **Faction:** "Competence Without Commentary" — Sanay's specific angle is the refusal of exceptionalism: it took real structural damage and actively rejects any narrative framing its bedrock survival as luck or specialness worth talking about.
 
@@ -38,7 +38,7 @@ The existing Local_Cultures file characterized Sanay throughout (Architecture, C
 
 *(Generalized 2026-07-05:)* This turned out not to be a Sanay-specific dynamic — the developer confirmed it's the default baseline pattern across Tepenia as a whole, characterized as "egalitarian, skewed in favor of robots." Written into `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` as a project-wide fact, alongside the related, separately-confirmed exception: Kunlun and Dome Fuji forbid human presence entirely, purely as a protective safety measure against fatal altitude/cold combinations, not from any anti-human sentiment.
 
-**The SANAE research heritage's current visibility:** genuinely undecided — the developer isn't sure whether/how the founding scientific legacy still shows up in the now heavily industrial port city. Left open.
+**The founding-era research legacy's current visibility:** genuinely undecided — the developer isn't sure whether/how the founding scientific legacy still shows up in the now heavily industrial port city. Left open.
 
 ---
 
@@ -48,4 +48,4 @@ The existing Local_Cultures file characterized Sanay throughout (Architecture, C
 - Exact extent/location of war damage across the city
 - Sanay's specific social/economic role relative to its damaged-but-functioning neighbors
 - Sanay-origin diaspora in Concordia (unasked)
-- Whether/how the SANAE research heritage still has a visible presence in the city today
+- Whether/how the founding-era research legacy still has a visible presence in the city today

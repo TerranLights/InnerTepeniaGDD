@@ -19,11 +19,11 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China *(founding operator heritage — continuous from founding through present; strengthened 2026-07-06, three times)* |
+| Primary | China *(continuous from founding through present; strengthened 2026-07-06, three times)* |
 | Significant | South Korea, Japan, Germany, Russia, Australia *(founding wave)* |
 | Notable | Vietnam, Estonia, Thailand, Lithuania, Malaysia, Indonesia *(demoted 2026-07-06)*, Romania, Philippines, Latvia, New Zealand, Bulgaria, South Africa |
 
-*Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary. Chinese cultural identity is unbroken from day one — never displaced by incoming demographics. Zhongshan's founding was itself confirmed via the International Court of Diplomacy at Jeju-do — the same three-way Upper Earth body (Japan, Korea, and the Sinian Federation coordinating as peers) that later allocated Shirayuki to Japan — which settled China's claim to Zhongshan Station as exclusive: neither Japan nor Korea pressed a competing claim, and Russia was never a party to that court at all. Every other nation present in Zhongshan today, Russia included, arrived through ordinary subsequent immigration into an already-established Chinese cultural framework — see Section 2. **Adjusted 2026-07-06, in three rounds** — Round 1: UK removed, its share folded into China's own; Japan and Indonesia swapped shares. Round 2: Indonesia demoted further, from Significant to Notable; Belarus and Ukraine both removed entirely, their shares folded into China; the gap left by Indonesia's own demotion split evenly between China and South Korea. Round 3: a direct hand-specified transfer — 3.0 points from South Korea and 2.0 points from Japan, both moved to China. China now sits at 35.83%, South Korea at 9.70%, Japan at 7.30%. See `Specs/Zhongshan.md`'s Founding Population Adjustment for the full math.*
+*Chinese cultural identity is unbroken from day one — never displaced by incoming demographics. Zhongshan's founding was itself confirmed via the International Court of Diplomacy at Jeju-do — the same three-way Upper Earth body (Japan, Korea, and the Sinian Federation coordinating as peers) that later allocated Shirayuki to Japan — which settled China's claim to Zhongshan Station as exclusive: neither Japan nor Korea pressed a competing claim, and Russia was never a party to that court at all. Every other nation present in Zhongshan today, Russia included, arrived through ordinary subsequent immigration into an already-established Chinese cultural framework — see Section 2. **Adjusted 2026-07-06, in three rounds** — Round 1: UK removed, its share folded into China's own; Japan and Indonesia swapped shares. Round 2: Indonesia demoted further, from Significant to Notable; Belarus and Ukraine both removed entirely, their shares folded into China; the gap left by Indonesia's own demotion split evenly between China and South Korea. Round 3: a direct hand-specified transfer — 3.0 points from South Korea and 2.0 points from Japan, both moved to China. China now sits at 35.83%, South Korea at 9.70%, Japan at 7.30%. See `Specs/Zhongshan.md`'s Founding Population Adjustment for the full math.*
 
 ---
 
@@ -35,7 +35,7 @@ The name *Zhongshan* — the courtesy name of Sun Yat-sen, the founding figure o
 
 Zhongshan's claim to its own site was never left to chance. Before the exile era began, the International Court of Diplomacy at Jeju-do — the same Upper Earth institution that later allocated the unoccupied Bharati site to Japan as Shirayuki — coordinated Japan, Korea, and the Sinian Federation as regional peers, settling each nation's claim in the Larsemann Hills area as part of the same process. China's existing, extensive presence at Zhongshan Station was confirmed as exclusively theirs; neither Japan nor Korea pressed a competing claim. Russia was never a party to that court at all — whatever Russian presence exists in Zhongshan today arrived the same way Korea's, Germany's, and Japan's did: as ordinary immigration into a city whose founding, and whose exclusive claim to its own site, was already settled before any of them arrived.
 
-Australian expeditioners formed the founding wave of non-Chinese settlers who arrived once the exile era began. Subsequent immigration brought Korean, German, Japanese, Russian, and Eastern European communities in meaningful numbers, largest to smallest by the share Zhongshan holds today: Korea (9.70%), Germany (8.47%), Japan (7.30%), Russia (5.72%), Australia (3.66%). All of them integrated into a cultural framework that was already well-established by the time they arrived.
+Australian exiles formed the founding wave of non-Chinese settlers who arrived once the exile era began. Subsequent immigration brought Korean, German, Japanese, Russian, and Eastern European communities in meaningful numbers, largest to smallest by the share Zhongshan holds today: Korea (9.70%), Germany (8.47%), Japan (7.30%), Russia (5.72%), Australia (3.66%). All of them integrated into a cultural framework that was already well-established by the time they arrived.
 
 ---
 
@@ -199,7 +199,7 @@ The counterculture's relationship to the musical mainstream is direct and delibe
 
 ## 15. Division of Industry
 
-- Technical / scientific: ~35% — the research heritage is continuous from the founding station; Zhongshan produces engineers and researchers who end up across Tepenia
+- Technical / scientific: ~35% — Zhongshan produces engineers and researchers who end up across Tepenia
 - Industrial / manufacturing: ~25% — precision manufacturing, with the craft ethic applying to industrial output as much as to art
 - Marine resource extraction: ~15% — Prydz Bay fishing and related industries
 - Commercial: ~15% — more modest than a city like Janbogo; Zhongshan is not a trade hub

@@ -25,7 +25,7 @@
 | Significant | Canada, Japan, UK, Intermarium/Intermaria, Italy, South Korea, Germany, France |
 | Notable | New Zealand, Argentina, Sweden, Australia, Chile, Norway, Spain, South Africa, Netherlands |
 
-*Kunlun is now the only Tepenian city whose composition is tiered by professional/scientific heritage (real-world space, astronomy, and communications programs) rather than population, GDP, or founding-operator history. China remains a genuine Primary-tier presence — the real CHINARE founding heritage — but sits alongside the USA and Russia as one of three space-superpower nations rather than standing alone. Nineteen nations are represented in total, each earning its place through a specific, real credential (a national space agency, a major observatory, a deep-space communications facility, meaningful rocket heritage) rather than by population weight. See Section 5 for how this reframes Kunlun's whole civic identity.*
+*Kunlun is now the only Tepenian city whose composition is tiered by professional/scientific heritage (real-world space, astronomy, and communications programs) rather than population or GDP. China remains a genuine Primary-tier presence but sits alongside the USA and Russia as one of three space-superpower nations rather than standing alone. Nineteen nations are represented in total, each earning its place through a specific, real credential (a national space agency, a major observatory, a deep-space communications facility, meaningful rocket heritage) rather than by population weight. See Section 5 for how this reframes Kunlun's whole civic identity.*
 
 ---
 

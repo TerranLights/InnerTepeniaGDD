@@ -188,7 +188,7 @@ design-grade estimates; the annual precipitation total is Palmer Station's sourc
 
 The original founding principle of Operation Tabarin — that Britain should have a physical presence in Antarctica to support its territorial claim — is a fact of the site's 1944 origin, not a mission the exile city carried forward. What persisted through exile instead was the site's own layered-history instinct: Port Lockroy became proof of concept that a place could keep every era of its own past physically present rather than starting fresh, the same palimpsest character that came to define it long after any wartime purpose had become just one more layer among many.
 
-**Founding population:** British exiles, with a specific institutional connection to both the wartime history and the BAS heritage program. The British exile community in the Palmer subnet spans Port Lockroy, Rothera, and Signy — all BAS-origin or BAS-managed sites.
+**Founding population:** British exiles. The British exile community in the Palmer subnet spans Port Lockroy, Rothera, and Signy.
 
 ---
 
@@ -225,7 +225,7 @@ Maritime trade using the natural harbor's shelter, heritage/cultural significanc
 ---
 
 ## Connection to Concordia
-Palmer subnet. Port Lockroy's history extends the British Antarctic presence back to 1944 — the deepest roots of any single British Antarctic site. That history is its signal in the Concordia consciousness, insofar as anyone in Concordia still knows it.
+Palmer subnet. Port Lockroy's history reaches back to its 1944 buildings — the oldest continuously-occupied site in Tepenia. That history is its signal in the Concordia consciousness, insofar as anyone in Concordia still knows it.
 
 ---
 

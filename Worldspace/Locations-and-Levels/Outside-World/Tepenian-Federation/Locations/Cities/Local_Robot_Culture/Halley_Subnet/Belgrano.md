@@ -46,9 +46,8 @@ anyone to measure anything: is the thing in front of her still airworthy, and di
   southernmost Halley subnet city and one of the coldest in Tepenia. **Confirmed: Belgrano's runway sits on
   flat coastal ice, not bedrock** — "the ice shelf environment means the coastal geography shifts over time," the
   same underlying condition as Halley and Neumayer, genuinely distinct from Sanay's own confirmed bedrock.
-  Founding: post-Falkland Treaty exiles inheriting a caretaker-maintained (not institutionally continuous)
-  Argentine Air Force base chain — the same documentary-not-taught mechanism already confirmed for Mirny, Sayowa,
-  and Neumayer. The runway itself is genuinely functional infrastructure, kept maintained across the centuries.
+  Founding: post-Falkland Treaty exiles settling on caretaker-maintained base infrastructure. The runway itself
+  is genuinely functional infrastructure, kept maintained across the centuries.
 - **Input C — Local Infrastructure:** `Belgrano_Physical_Infrastructure_Attributes.md` (11 attributes, 5 new
   Cross-Referenced Findings plus 3 pre-existing = 8 total) and `Belgrano_Community_Infrastructure.md`. The
   Working Records Hall, the Rastra Garages, the Spare-Parts Fabrication Yards, and the Boneyard Maintenance

@@ -31,7 +31,7 @@
 
 Port Lockroy's founding progression is unique among Tepenian cities: military, then memorial, then community. The original installation was built in 1944 during Operation Tabarin — a British wartime intelligence post monitoring German naval activity in the South Atlantic, with nothing to do with Antarctic science or exploration at all. After the war, it became a heritage museum, possibly the most visited historical Antarctic site in the pre-exile world. When the Falkland Treaty exiles arrived, that heritage site became a living city, one that never stopped being aware of its own layered history.
 
-British exiles founded the settlement, carrying forward both the wartime institutional memory and a connection to the broader BAS heritage program that also produced Rothera and Signy — the three British-origin cities of the Palmer subnet. The original 1944 buildings were incorporated into the growing city rather than replaced, giving Port Lockroy a genuinely unusual relationship to its own past from the very beginning.
+British exiles founded the settlement — one of the three British-founded cities of the Palmer subnet, alongside Rothera and Signy. The original 1944 buildings were incorporated into the growing city rather than replaced, giving Port Lockroy a genuinely unusual relationship to its own past from the very beginning.
 
 ---
 
@@ -58,14 +58,14 @@ A brief polar night (~14 days) and brief midnight sun (~18 days), among the shor
 Port Lockroy's whole civic identity is built on continuous, visible history — a palimpsest where every generation wrote over the last without quite erasing it. Unlike Palmer City's forward-looking spectacle or Rothera's practical productivity, Port Lockroy's defining relationship is with its own past: the wartime buildings, the heritage-museum decades, and now the exile-era community, all physically present at once.
 
 - **a. Founding tension** — Not the usual founding-nation-vs-majority pattern but a temporal one: a city continuously aware of what it used to be (military installation, then museum, then home), where every era layers rather than replaces the last.
-- **b. Fault lines** — Between treating the city's history as living, accountable memory (per its own established character) versus simply as heritage-tourism spectacle — a tension inherited directly from its pre-exile identity as a museum.
+- **b. Fault lines** — Between treating the city's history as living, accountable memory (per its own established character) versus simply as heritage-tourism spectacle — a tension built into a city that grew up around preserved buildings.
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
 - **a.** History is physically present and taken seriously — nothing gets demolished here without real consideration.
-- **b. Hospitality character** — Warm but layered, shaped by decades of being a heritage site that welcomed visitors before it was ever a permanent home.
+- **b. Hospitality character** — Warm but layered, shaped by a city that treats its own preserved past as something to show visitors.
 - **c.** Paced by the sheltered harbor's maritime rhythms rather than any industrial or aviation schedule.
 - **d. Public/private divide** — The city's historical strata (1944 buildings, wartime equipment, museum-era artifacts) are shared civic property; personal life happens quietly around and within that inherited history.
 - **e. Privacy as civic value** — Genuine, given the small population — Port Lockroy's real intimacy comes from simply being one of Tepenia's smallest cities.
@@ -81,7 +81,7 @@ Port Lockroy's whole civic identity is built on continuous, visible history — 
 
 ## 8. Language
 
-- **a. Primary language(s):** English dominant (American Primary tier), with institutional vocabulary persisting from the wartime installation and the BAS heritage-museum era — jargon the site itself developed and kept, not an inherited national dialect.
+- **a. Primary language(s):** English dominant (American Primary tier), with institutional vocabulary the city's own preservation work developed and kept — jargon born on-site, not an inherited national dialect.
 - **b. Linguistic character** — Understated, historically-inflected — a small city's vocabulary shaped by decades of narrating its own past to visitors during the museum era.
 - **c. Slang / dialect markers** — Terminology tied to the layered building history — references to "the '44 wing" or similar era-specific shorthand distinguishing the city's different historical strata.
 - **d. Language and integration** — Minimal pressure, consistent with a small, intimate community where newcomers are quickly known rather than formally assimilated.
@@ -117,7 +117,7 @@ Modest and personal, consistent with the city's small, intimate scale — no lar
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Documentary and historical in character, given the city's whole relationship to its own layered past.
-- **Literature:** Institutional record-keeping and historical narration, inherited directly from the pre-exile museum era's practice of telling visitors the site's own story.
+- **Literature:** Institutional record-keeping and historical narration — the city telling visitors its own story.
 - **Crafts & material culture:** Preservation-oriented — maintaining rather than replacing inherited structures and artifacts is treated as genuine, valued civic work.
 
 ---
@@ -138,7 +138,7 @@ Modest and personal, consistent with the city's small, intimate scale — no lar
 ## 15. Division of Industry
 
 - Maritime trade: 30% — leveraging the harbor's natural shelter
-- Heritage / cultural preservation: 25% — a genuine civic function inherited from the museum era
+- Heritage / cultural preservation: 25% — a genuine civic function built around the preserved 1944 buildings
 - Commercial / small trade: 20%
 - Technical / maintenance: 15% — preserving the layered historical infrastructure
 - Other: 10%
@@ -196,7 +196,7 @@ Filtered through the specific, unusual wartime origin — Operation Tabarin's Co
 
 - **Palmer City (north) and Rothera (south):** Direct Hwy 1 highway neighbors.
 - **Palmer City specifically:** A genuinely load-bearing relationship post-war — Port Lockroy's survival is plausibly tied to its proximity to Palmer City, whose destruction may have simply subsumed or obscured Port Lockroy's own tiny footprint from Upper Earth's targeting.
-- **Rothera and Signy:** Palmer subnet cities built on the same parent Antarctic program's infrastructure lineage — a sibling relationship built on that shared institutional starting point, not on any one nation's ongoing claim, despite very different post-war fates.
+- **Rothera and Signy:** Fellow British-founded Palmer subnet cities, despite very different post-war fates.
 
 ---
 

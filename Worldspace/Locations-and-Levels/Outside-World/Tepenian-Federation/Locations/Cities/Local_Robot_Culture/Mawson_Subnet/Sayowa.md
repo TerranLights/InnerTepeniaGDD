@@ -38,21 +38,19 @@ identity is "small vessel, outsized cargo" carried without complaint.*
 - **Input B — Geography & Geology:** `Specs/Sayowa.md`. East Ongul Island, Lützow-Holm Bay, Prince Harald
   Coast — the westernmost Mawson-subnet city, closest to the Halley subnet boundary (Sayowa↔Princess Elisabeth
   via Hwy 7-ext is "the most geographic-adjacent inter-subnet proximity in Tepenia"). Milder climate than
-  Mawson or Dome Fuji (mean −10.5°C). **Founding:** Japanese JARE operated Syowa Station continuously from
-  1957; through the First Interwar Period the station changed hands among rotating national operators (which
-  nations, in what order, "isn't relevant to the story"); JARE's own *institutional* memory and scientific
-  programs did not survive that handoff chain, but preserved written logs/manuals did — "learning from a
+  Mawson or Dome Fuji (mean −10.5°C). **Founding:** through the First Interwar Period the station changed
+  hands among rotating national operators (which nations, in what order, "isn't relevant to the story"); no
+  living institution survived that handoff chain, but preserved written logs/manuals did — "learning from a
   written record isn't the same as being taught by a living institution," a documentary, not living,
-  inheritance. Founding population: Japanese exiles via organic station inheritance, with **no diplomatic
-  protection**, unlike Shirayuki's Jeju-do decree. Demonym: Sayowan.
+  inheritance. Founding population: Japanese exiles, with **no diplomatic protection**, unlike Shirayuki's
+  Jeju-do decree. Demonym: Sayowan.
 - **Input C — Local Infrastructure:** `Sayowa_Physical_Infrastructure_Attributes.md` (17 attributes, 4
   Cross-Referenced Findings — the file's own note: "Sayowa has the least content of the three Mawson subnet
   cities," deliberately kept lightest of the three) and `Sayowa_Community_Infrastructure.md`. The Sayowa
   Junction (physically *near*, not *in*, the city, linked by the Sayowa Spur) and **the Junction Cooperative
   Maintenance Office** — "small vessel, outsized cargo made architectural" — did the most load-bearing work.
   Finding C (Junction repair priority and Sayowa's own wartime survival trace to the identical
-  attacker-restraint calculation) and Finding D (the physical JARE-heritage/industrial split independently
-  echoes the demographic Japan-institutional/China-Primary split) both worth developer attention.
+  attacker-restraint calculation) is worth developer attention.
 - **Input D — Source Inspirations:** `Inspirational-Influences.md` (Felixstowe UK, Trois-Rivières Quebec [both
   PRIMARY]; Kryvyi Rih, Perpignan, Djibouti City [all SECONDARY]) and `Sayowa_Catalog.md`'s per-nation
   material. Felixstowe flagged in-file as "the tightest possible structural match... mechanistically identical"
@@ -164,9 +162,8 @@ localize per city.*
 ### 5. Religion & Belief — Robot-Specific Local Practice
 
 - **[Directly-inherited, Deep]** §18's own material stands as the honest local answer: no dominant formal
-  religion, but "a quiet awareness of disproportionate responsibility" and the same methodical patience the
-  station's 69-year JARE research history instilled, extended into the equally patient, ongoing work of
-  maintaining critical junction infrastructure. Confirmed, not invented. See Cross-Reference Synthesis for the
+  religion, but "a quiet awareness of disproportionate responsibility" and a methodical patience carried into
+  the equally patient, ongoing work of maintaining critical junction infrastructure. Confirmed, not invented. See Cross-Reference Synthesis for the
   genuinely new material this pass adds — a real, functional relationship to a *different* faith entirely, one
   §18 as written gives no hook for at all.
 

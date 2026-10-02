@@ -20,7 +20,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany *(founding operator heritage)*, France, UK, Brazil |
+| Significant | Germany, France, UK, Brazil |
 | Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Chile, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *A cleaner two-layer founding tension than Halley's own three-way stack: Germany founded Neumayer, and by Census II sits at Significant tier beneath an eventual American demographic Primary. What makes this distinct from Janbogo's or Zukelli's version of the same basic pattern is that what persisted isn't a soft cultural flavor — cuisine, language, festival — but an institutionalized, professionalized mission: rigorous multi-generational scientific method, applied to precision engineering, that the founding community built for itself out of necessity — decades-old instruments with no replacements, and an ice shelf that never stopped moving. Newcomers of every background didn't inherit a nationality; they inherited a functioning research station and the discipline required to keep it running.*
@@ -47,7 +47,7 @@ Neumayer sits on the Ekström Ice Shelf facing the Weddell Sea — built directl
 
 ## 4. Seasonal Rhythms
 
-Neumayer's polar night (~73 days) and midnight sun (~75 days) are shorter and less extreme than Halley's, but the city's actual defining rhythm isn't seasonal at all — it's the slow, continuous, non-annual measurement of the ice shelf's own movement, tracked with the same instrumented rigor the AWI heritage applies to everything else. Where Halley's culture responds to ice movement through collective relocation decisions, Neumayer responds to the identical physical fact through data: monitored, measured, modeled, and engineered around, rather than debated as a civic question.
+Neumayer's polar night (~73 days) and midnight sun (~75 days) are shorter and less extreme than Halley's, but the city's actual defining rhythm isn't seasonal at all — it's the slow, continuous, non-annual measurement of the ice shelf's own movement, tracked with the same instrumented rigor the city applies to everything else. Where Halley's culture responds to ice movement through collective relocation decisions, Neumayer responds to the identical physical fact through data: monitored, measured, modeled, and engineered around, rather than debated as a civic question.
 
 ---
 
@@ -143,7 +143,7 @@ Practical, technical, unadorned — clothing here reads as equipment more than s
 
 - Technical / scientific: 35% — the core civic identity, atmospheric/oceanographic/glaciological research and precision engineering
 - Technical / engineering: 20% — structural analysis and design work, the Amundsen Tower legacy trade
-- Education: 15% — training the next generation into the AWI-descended institutional tradition
+- Education: 15% — training the next generation into the city's own instrumentation discipline
 - Marine / resource extraction: 15%
 - Commercial: 10%
 - Other: 5%
@@ -221,7 +221,7 @@ Data-heavy and archival — Neumayer's Arcanet use is dominated by its own scien
 
 ## 26. Municipal Holidays
 
-- **Founders' Instrument** *(placeholder name)* — a civic observance marking the founding of the inherited AWI research mission
+- **Founders' Instrument** *(placeholder name)* — a civic observance marking the founding and the inherited instruments the city grew from
 - **The Schematic** *(placeholder name)* — a quieter, less publicized observance among Neumayer's engineering community marking the completion of the Amundsen Tower design work, largely unknown outside the city itself
 
 ---

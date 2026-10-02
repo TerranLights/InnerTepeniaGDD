@@ -16,7 +16,7 @@ Earlier in this session, Belgrano's presentation leaned heavily on "the Decline"
 
 ## Facts and factions presented (corrected)
 
-Coats Land coast, Weddell Sea, Queen Maud Land. Halley subnet, southernmost major city. Argentine Air Force founding (since 1979), directly tied to the Byrd Station discovery expedition (Belgrano's own "Arrastradoras"/"Rastra" vehicles, an all-robot crew, maps recovered from Belgrano's archives). Population (Census II) 429,820H/407,948R/837,768 combined. Composition: USA Primary; Germany/UK/Brazil Significant; Argentina (founding wave) at Notable. Identity: "The Airbase That Never Stood Down" — purposeful, frontier-proud, almost martial civic bearing; function before comfort as baseline, not aspiration.
+Coats Land coast, Weddell Sea, Queen Maud Land. Halley subnet, southernmost major city. Argentine founding, directly tied to the Byrd Station discovery expedition (Belgrano's own "Arrastradoras"/"Rastra" vehicles, an all-robot crew, maps recovered from Belgrano's archives). Population (Census II) 429,820H/407,948R/837,768 combined. Composition: USA Primary; Germany/UK/Brazil Significant; Argentina (founding wave) at Notable. Identity: "The Airbase That Never Stood Down" — purposeful, frontier-proud, almost martial civic bearing; function before comfort as baseline, not aspiration.
 
 **Factions:** The Archivists' Debate (second interwar) — archive as duty roster, maintained on schedule because that's simply how Belgrano keeps anything.
 
@@ -24,7 +24,7 @@ Coats Land coast, Weddell Sea, Queen Maud Land. Halley subnet, southernmost majo
 
 **Notable figure already locked in:** Salagéa Aparast — Belgrano native, DLC 5 protagonist/recruitable companion, boat-dwelling datashard archivist, carrying the city's founding discipline and functional seriousness with her even while living apart from Belgrano itself. Connected to Griselda Alejandra Chávez (non-native instrument-maker, knew Salagéa during the second interwar era, now lives on Deimos).
 
-**Flagged gaps going in (second interwar-relevant only):** one notable figure still a placeholder (a founding-era Air Force commander/institutional figure — who set the operational tone that outlasted the institution itself); economy beyond aviation/shipping thin; where the Byrd-founding maps were physically archived; whether Belgrano had contact with fellow Argentine-founded Esperanza/Marambio pre-Split-Brain.
+**Flagged gaps going in (second interwar-relevant only):** one notable figure still a placeholder (a founding-era airbase commander who set the city's operational tone); economy beyond aviation/shipping thin; where the Byrd-founding maps were physically archived; whether Belgrano had contact with fellow Argentine-founded Esperanza/Marambio pre-Split-Brain.
 
 *(The post-war "Decline" — cause, timeline, who shaped it, municipal holidays or lack thereof in the ruined state — is now tracked separately; see "The Boneyard Times" faction in `City_Origin_Factions_PostWar_Refugee.md`.)*
 
@@ -52,7 +52,7 @@ Coats Land coast, Weddell Sea, Queen Maud Land. Halley subnet, southernmost majo
 
 ## Still open from the original question list (second interwar-relevant only)
 
-- One more notable figure (founding-era Air Force commander/institutional figure)
+- One more notable figure (founding-era airbase commander)
 - Economy beyond aviation/shipping
 - Where the Byrd-founding maps were physically archived
 - Contact between Belgrano and Esperanza/Marambio (fellow Argentine-founded cities) pre-Split-Brain

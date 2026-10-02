@@ -18,10 +18,10 @@
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | UK, Mexico, Brazil, Argentina *(founding operator heritage)* |
+| Significant | UK, Mexico, Brazil, Argentina |
 | Notable | Chile *(founding wave)*, Uruguay |
 
-*(Added 2026-07-13 — the "founding operator heritage" tag on Argentina was already present in `Local_Cultures/Palmer_Subnet/Esperanza.md`'s own composition table but missing here; brought into parity. Distinct from Chile's separate "(founding wave)" tag: Argentina is the actual station-operator nation per the Founding section below, while Chile's presence reflects independent geographic-proximity early arrival, the same distinction already established at Signy for South Africa.)*
+*(Argentina is the founding nation per the Founding section below, while Chile's presence reflects independent geographic-proximity early arrival, the same distinction already established at Signy for South Africa.)*
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -112,7 +112,7 @@ What distinguished Esperanza's founding from every other Tepenian city was the d
 
 The founding population understood that humans who had chosen to follow the robots into exile had sacrificed everything — separated from their birth homelands forever, cut off from their genetic relatives for life. They had made the most absolute personal sacrifice the Falkland Treaty era could ask of a human being. The founding council of Esperanza resolved that those humans deserved to have their own children looked after. The city was established with that principle as its foundational charter.
 
-**Founding population:** Multinational rather than purely Argentine — though the Argentine cultural heritage of the site was preserved, Esperanza's founding principle made it a city that claimed human children broadly, not only Argentine ones. Any human who had made the permanent sacrifice of exile was part of the community Esperanza was built to protect.
+**Founding population:** Multinational rather than purely Argentine — Esperanza's founding principle made it a city that claimed human children broadly, not only Argentine ones. Any human who had made the permanent sacrifice of exile was part of the community Esperanza was built to protect.
 
 The name was kept. The word "esperanza" — hope — fit what the city was being built to be: not just a shelter, but a commitment to the humans who had given everything.
 
@@ -124,7 +124,7 @@ Esperanza's culture was shaped by the principle it was founded on — the idea t
 
 Children born in Esperanza were not just private family events. They were civic ones. The birth registry was not recordkeeping — it was the city's living proof that the sacrifice of the founding generation had been worth it. Every generation of children born into no other home was confirmation that the compact had held.
 
-The city was genuinely multinational from the beginning. The Argentine heritage of the site was honored, and the Argentine founding community remained the largest cultural group, but Esperanza's charter was not Argentine — it was human. Children of any national background, whose parents or ancestors had chosen exile, had a claim on what Esperanza was built to be.
+The city was genuinely multinational from the beginning. The Argentine founding community remained the largest cultural group, but Esperanza's charter was not Argentine — it was human. Children of any national background, whose parents or ancestors had chosen exile, had a claim on what Esperanza was built to be.
 
 The name was a living fact as much as a label. In a federation founded on expulsion, naming your city "Hope" and building it to care for the humans who gave up everything to be there is a statement. Esperanza made that statement every generation.
 

@@ -125,7 +125,7 @@ What makes Vostok more than simply the coldest and most isolated place in an alr
 
 **Settled:** Post-Falkland Treaty. Vostok Station had been in Soviet/Russian operation from 1957. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. "Inherited... its extraordinary scientific legacy" still overstates it — no living scientific legacy or institutional culture survived that chain of handoffs. Preserved journals, logs, and orientation manuals did survive, though, giving the exiles a real documentary starting point — learning from a written record isn't the same as being taught by a living institution.)* What actually made 2564 settlement possible was the genuinely maintained station and the extreme environment itself, which the founding community had to re-learn to survive in from scratch using those records as a foundation, independently building whatever scientific culture Vostok has today.
 
-**Founding population:** Primarily Russian exiles, given the station's deep Soviet/Russian institutional character. The community that settled Vostok was necessarily small — the environment cannot sustain a large population — and necessarily specialized. You did not go to Vostok by accident.
+**Founding population:** Primarily Russian exiles. The community that settled Vostok was necessarily small — the environment cannot sustain a large population — and necessarily specialized. You did not go to Vostok by accident.
 
 The name was kept.
 

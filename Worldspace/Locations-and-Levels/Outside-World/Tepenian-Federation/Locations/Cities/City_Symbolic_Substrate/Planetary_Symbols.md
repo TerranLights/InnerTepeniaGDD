@@ -1,17 +1,44 @@
-# Planetary Symbols — the Nine Planets Plus the Asteroid Belt
+# Planetary Symbols — the Sun, the Nine Planets, and the Asteroid Belt
 
-**What this is:** a symbol system built around the nine planets (Mercury through Pluto) plus a tenth symbol,
-the Asteroid Belt — independent of the Robot Elementals (`Robot_Elementals.md`) and of Platonic-solid
-symbolism, a standalone system paired with Elementals only at the point of city assignment
-(`City_Symbol_Assignments.md`). Per direct developer instruction, this was invented from scratch rather than
-reused from real-world astrology or mythology; each planet's meaning is instead grounded in a real, verifiable
-astronomical or physical fact about that specific planet, the same way the two "robot elements" (Electricity,
-Magnetism) are grounded in real physics rather than any existing tradition.
+**What this is:** a symbol system built around the Sun, the nine planets (Mercury through Pluto), and the
+Asteroid Belt — independent of the Robot Elementals (`Robot_Elementals.md`) and of Platonic-solid symbolism, a
+standalone system paired with Elementals only at the point of city assignment (`City_Symbol_Assignments.md`).
+Per direct developer instruction, this was invented from scratch rather than reused from real-world astrology
+or mythology; each member's meaning is instead grounded in a real, verifiable astronomical or physical fact
+about that specific body, the same way the two "robot elements" (Electricity, Magnetism) are grounded in real
+physics rather than any existing tradition.
 
 **Status: official reference framework, promoted from `to-be-integrated/planetary-symbols.md` and
 `to-be-integrated/planetary-appended-symbols.md` 2026-08-30** (the two source drafts consolidated into this single file, no
 content lost — the appended draft's "one word" and "summary" fields are folded in below). Confirmed working
 reference; still open to future revision the way any canon document is, not a frozen final version.
+
+---
+
+## The Sun
+
+**The eleventh symbol.** Not one of the orbiting bodies — the thing the rest of this set orbits, and the
+source of nearly all the energy any of them have to work with. Core fusion converts mass to energy directly,
+needs no external oxidizer, and is confined by the star's own gravity rather than by any container — a
+different mechanism entirely from ordinary combustion (compare Fire, `Robot_Elementals.md`). A given photon
+can spend upward of 100,000 years working outward from the core before it ever reaches the surface, though
+the trip from that surface to any planet takes only minutes. And the output itself carries no address: it
+radiates the same in every direction, favoring nothing and aiming at nothing — what a given planet actually
+receives is decided entirely by that planet's own distance and its own capacity to catch and use it, never by
+anything the source does.
+
+- **One word:** Power *(alternatives: Output, Source)*
+- **Summary:** Gives identically to everyone in reach; what becomes of it is entirely the receiver's own doing
+- **Neutral:** Radiates the same in every direction; distance and the recipient's own capacity decide what
+  actually gets used, not anything about the emission itself
+- **Positive:** Makes no case-by-case adjustment for who's asking — the same output reaches every direction in
+  equal measure, and what a place makes of what arrives is entirely that place's own doing. What it delivers
+  today was already committed and moving outward long before there was anyone downstream to receive it —
+  reliable not because it responds quickly, but because it never had to be asked in the first place.
+- **Negative:** Makes no case-by-case adjustment for who's asking, either — a place that cannot use what
+  reaches it is simply not accommodated, and there is no one to petition about that. Everything it delivers
+  today is already old, set in motion by conditions from tens of thousands of years before anyone downstream
+  could have asked for it, or objected to it.
 
 ---
 

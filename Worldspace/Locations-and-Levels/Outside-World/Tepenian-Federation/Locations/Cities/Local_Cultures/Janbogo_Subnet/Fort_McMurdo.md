@@ -19,17 +19,17 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA *(founding operator heritage)* |
+| Primary | China, USA |
 | Significant | Japan, Germany, France, UK, Italy |
 | Notable | South Korea, Canada, Indonesia, Australia *(founding wave)*, Philippines, Malaysia, New Zealand *(founding wave)*, Chile |
 
-*Fort McMurdo has the most cosmopolitan Significant tier of any Tepenian city documented so far — five nations (Japan, Germany, France, UK, Italy), none of them dominant, all of them real. That breadth is a direct product of the city's founding function: a rotational-labor industrial hub absorbs people from everywhere, and some fraction of every rotation stays. The founding tension here is unlike Janbogo's (founding nation drops to minority) or Zhongshan's (founding nation stays sole majority) — the USA retained its founding-operator status all the way to Census II, but had to share Primary tier equally with China rather than being displaced by it. Two co-equal Primary nations, one that built the place and one that worked it into what it became.*
+*Fort McMurdo has the most cosmopolitan Significant tier of any Tepenian city documented so far — five nations (Japan, Germany, France, UK, Italy), none of them dominant, all of them real. That breadth is a direct product of the city's founding function: a rotational-labor industrial hub absorbs people from everywhere, and some fraction of every rotation stays. The founding tension here is unlike Janbogo's (founding nation drops to minority) or Zhongshan's (founding nation stays sole majority) — the USA retained its founding status all the way to Census II, but had to share Primary tier equally with China rather than being displaced by it. Two co-equal Primary nations, one that built the place and one that worked it into what it became.*
 
 ---
 
 ## 2. Founding Story
 
-McMurdo Station was, before the exile, the largest and best-equipped station on the continent — a genuine small-town infrastructure of piers, fuel depots, vehicle yards, a harbor, and full utilities. When the Falkland Treaty exiles arrived, they inherited the most substantial ready-to-use foundation of any Tepenian city. American exiles founded and administered it, but McMurdo Station had always been a multinational working environment in real life, and the exile city continued that pattern from day one — it was never a mono-national settlement pretending otherwise.
+McMurdo Station was, before the exile, the largest and best-equipped station on the continent — a genuine small-town infrastructure of piers, fuel depots, vehicle yards, a harbor, and full utilities. When the Falkland Treaty exiles arrived, they inherited the most substantial ready-to-use foundation of any Tepenian city. American exiles founded and administered it, but the exile city was a multinational working environment from day one — it was never a mono-national settlement pretending otherwise.
 
 The "Fort" prefix was deliberate: a reference to Fort MacMurray, Alberta — a name that by the 2500s meant one thing, industrial resource extraction at scale. The founders were not being subtle about what they were building. This would not be a cultural capital or a symbolic first city. It would be a working city, and the name said so before anyone set foot in it.
 
@@ -63,7 +63,7 @@ The ~118-day polar night doesn't stop work; it just moves it indoors and under f
 
 Fort McMurdo's civic identity is built on a claim it mostly, but not entirely, lives up to: that what you can do matters more than where you're from. It is a culture forged by physically demanding, highly interdependent industrial work, where a crew that can't trust its weakest link fails together — a condition that makes competence-based status not just an ideal but a practical necessity. The city that resulted is direct, unsentimental, and largely unbeautiful, in the specific way that places built to work rather than to be admired tend to be.
 
-- **a. Founding tension** — The USA retains institutional memory as founding operator: the naming, the early infrastructure decisions, the historical record all point to it. But China's population, arriving overwhelmingly through the rotational-labor system and increasingly choosing to stay, grew to exact parity with the founding population by Census II — not a takeover, a tie. The tension is less "who is the real Fort McMurdo" and more "founding legacy versus present-day equality," playing out quietly in who ends up in administrative roles versus who ends up running the crews that actually keep the city alive.
+- **a. Founding tension** — The USA retains institutional memory: the naming, the early infrastructure decisions, the historical record all point to it. But China's population, arriving overwhelmingly through the rotational-labor system and increasingly choosing to stay, grew to exact parity with the founding population by Census II — not a takeover, a tie. The tension is less "who is the real Fort McMurdo" and more "founding legacy versus present-day equality," playing out quietly in who ends up in administrative roles versus who ends up running the crews that actually keep the city alive.
 - **b. Fault lines** — The meritocratic ideology is sincerely believed and largely true on the shift floor, but administrative and management roles still skew toward founding-heritage lineages in a way workers notice, grumble about privately, and rarely organize around — the population is simply too transient, historically, for sustained labor politics to take root. It surfaces occasionally, briefly, and dissipates when the next rotation cycles through.
 
 ---

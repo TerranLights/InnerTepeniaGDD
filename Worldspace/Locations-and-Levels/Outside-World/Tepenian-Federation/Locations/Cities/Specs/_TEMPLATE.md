@@ -1,6 +1,6 @@
 # [City Name]
 
-**Based on:** [Real station name], [country], [approximate coordinates if known]
+**Based on:** [Real station name], [country], [approximate coordinates if known] *(GPS and infrastructure only — never a reason for the founders, identity or culture: `DR-19`, `DR-24`)*
 **Status:** [Destroyed / Damaged; partially operational / Survived — [condition] / Historical site (pre-exile)]
 **Arcanet Subnet:** [Subnet name] [("colloquial nickname" if any)]
 **Access type:** [ON = directly on a highway mainline, including junctions and termini / SPUR = connecting road, ramp, or off-road spur to a mainline / SEA-LINK = reached by boat crossing from a highway ramp / NONE = no highway connection]
@@ -59,16 +59,22 @@
 
 ## Founding
 
-**Settled:** [Date or era — e.g., June 21, 2564 / Shortly after the Falkland Treaty / Pre-exile (expedition base only)]
-**Founding population:** [Who arrived first, and why were they here?]
+> ⛔ **Founders come only from `Locations/Cities/Founding_Register.md`.** A founding nation stands on
+> geography and access, never on the real station named in **Based on:** (`DR-19`). The station, the nation or program
+> that ran it and its start year belong in **Settled:** as facts about the inherited **infrastructure** only (`DR-24`).
 
-[Narrative: what did the first settlers find, what did they build, what made this place distinct from the beginning?]
+**Settled:** [Date or era — e.g., June 21, 2564 / Shortly after the Falkland Treaty / Pre-exile (expedition base only)] [Optional: the real station infrastructure the exiles inherited — station, operator, start year, condition (`DR-24`)]
+**Founding population:** [Copy the city's row from `Founding_Register.md`: the founders and the ruling that set them. If the row is ⏸️ open or ⛔ overturned, write "⏸️ Not yet ruled — see `Founding_Register.md`" and nothing more.]
+
+[Narrative: what did the first settlers find, what did they build, what made this place distinct from the beginning? Write it only from a ✅ or 🟡 Register row. Never infer the founders from the station.]
 
 *(Pre-exile historical sites: note that settlement predates the exile era; describe the expedition or purpose instead.)*
 
 ---
 
 ## Character & Culture
+
+*(The culture comes from this city's own time, place, hardships and people. It never comes from the real station's operator or program.)*
 
 [What kind of city was this at peak? What was its dominant social character, reputation in Tepenia? What would someone who grew up here say about it? Is there anything this city was nationally known for — something that people across Tepenia would recognize even if they had never been there?]
 

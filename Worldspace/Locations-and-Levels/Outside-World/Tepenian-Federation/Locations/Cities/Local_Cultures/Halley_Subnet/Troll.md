@@ -21,7 +21,7 @@
 |------|---------|
 | Primary | USA |
 | Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway *(founding operator heritage)*, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *A standard two-layer founding tension for this subnet — Norway founded Troll and left it its territorial history (Queen Maud Land's 1939 Norwegian claim, the site's connection to Amundsen/St. Roald's expeditions), and by Census II sits at Notable tier, the lowest ranking, beneath an eventual American demographic Primary. But Troll's actual defining civic fact today has less to do with this demographic layering than with a structural one: the airfield. Whoever controls it, regardless of ancestry, holds the only real leverage in the city.*
 
@@ -29,7 +29,7 @@
 
 ## 2. Founding Story
 
-Norwegian exiles settled Troll on the Jutulsessen nunataks, inheriting both the Norwegian Polar Institute's research station and a much older claim: Norway had asserted sovereignty over Queen Maud Land — Dronning Maud Land — in 1939, and that territorial history came with the founding community into the exile era. So did the site's own deeper connection to Antarctic exploration: Amundsen's expeditions passed through this landscape, and the founding community carried forward a hard-earned pride in making a virtue of conditions most expeditions only endured.
+Norwegian exiles settled Troll on the Jutulsessen nunataks, inheriting both the existing research station's infrastructure and a much older claim: Norway had asserted sovereignty over Queen Maud Land — Dronning Maud Land — in 1939, and that territorial history came with the founding community into the exile era. So did the site's own deeper connection to Antarctic exploration: Amundsen's expeditions passed through this landscape, and the founding community carried forward a hard-earned pride in making a virtue of conditions most expeditions only endured.
 
 What made Troll consequential beyond its founding history, though, was the airfield. Troll Airfield's real-world runway — roughly 3,000 meters, capable of receiving intercontinental aircraft — was an extraordinary capability for an inland Antarctic site, and the exile city inherited it wholesale. No other Halley subnet city, not even coastal Belgrano with its own shorter runway, could match that reach. Troll became, structurally, the subnet's one real window to anywhere outside itself.
 
@@ -138,7 +138,7 @@ Older folk traditions persist in private and small-gathering contexts — an ech
 ## 15. Division of Industry
 
 - Commercial / logistics: 30% — airfield operations and control, the city's defining function; *(established 2026-07-04)* a genuine intermodal freight hub, not just aviation access — receiving trucked-in imports from Sanay/Belgrano (originally from Africa) and flying them onward across Tepenia, making Troll a working-class city with above-average national spending power
-- Technical / scientific: 20% — research tradition descended from the founding-era Polar Institute station
+- Technical / scientific: 20% — research work dating to the city's founding era
 - Marine / resource extraction: 15%
 - Industrial / manufacturing: 15%
 - Education: 12%
@@ -160,7 +160,7 @@ Robot culture at Troll is heavily oriented around aviation and logistics experti
 
 ## 18. Religious / Philosophical Landscape
 
-- St. Roald (Amundsen) veneration carries specific weight at Troll, rooted in the site's own founding-era connection to his expeditions and the Polar Institute station that followed — though whether this civic reverence has kept pace with the airfield-control tension dominating daily life is an open question.
+- St. Roald (Amundsen) veneration carries specific weight at Troll, rooted in the site's own connection to his expeditions — though whether this civic reverence has kept pace with the airfield-control tension dominating daily life is an open question.
 - A shared, largely secular ethic of competence-as-pride — cold-weather excellence, aviation reliability — functions as the city's closest thing to a unifying value system.
 
 ---

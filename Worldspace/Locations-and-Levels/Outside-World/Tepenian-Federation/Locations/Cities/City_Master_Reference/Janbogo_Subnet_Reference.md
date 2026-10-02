@@ -137,7 +137,7 @@ pending; Concordia's Notable Figures section is entirely TBD.
 - Built on **Petrel Island**, Géologie Archipelago, ~5 km off the Adélie Land coast — island-positioned.
 - Among the windiest regions on Earth (Adélie katabatics); George V Land nearby holds real-world highest-sustained-wind records.
 - **Adélie penguin colonies** are a defining daily-life feature (food supplement + coexistence).
-- Named for St. Jules (Jules Dumont d'Urville, landed Jan 21 1840); most distinctively francophone-speaking city in Tepenia.
+- Named for St. Jules (Jules Dumont d'Urville, landed Jan 21 1840).
 - **Pink Lucy's origin city** — she later relocated to Janbogo pre-war (resolved 2026-07-12); whether she then reached Concordia is open.
 - Genuine two-highway junction: Hwy 2 eastern terminus (from Casey) + Hwy 183 northern terminus (from Concordia via Denison).
 - **Open engineering question**: permanent bridge to the mainland vs. seasonal crossing — extensively brainstormed in Specs (flutter risk, pack-ice pier loads, maintenance access) but explicitly NOT resolved.
@@ -302,7 +302,7 @@ Exact extraction materials TBD; what "partially operational" means today; demony
 - **Hwy 183 is Concordia's most critical supply artery** — "whatever enters or exits Concordia by ground moves through Janbogo."
 - **Janbogo Arcanet subnet nexus physically sits in Concordia's Gemini district** (unusual — most nexuses sit in their hub city) — reflects depth of the relationship. Gemini is the largest, most established diaspora enclave in Concordia.
 - Teahouse culture nationally famous (Majyao's Teahouse, since relocated to Concordia/Aquarius).
-- **One of three Korean-founded Tepenian cities** (with Sejong and Sinheung) — Janbogo's claim rests on institutional/cultural depth despite demographic dilution, not raw population share (South Korea is still its largest Significant-tier nation at 10.23%).
+- **One of Tepenia's two Korean-founded cities** (with Sinheung) — Janbogo's claim rests on institutional/cultural depth despite demographic dilution, not raw population share (South Korea is still its largest Significant-tier nation at 10.23%).
 - ~8 km south of Zukelli's ruins, visible from the waterfront — understood since 2026-07-05 as a deliberate "living witness" arrangement, not incidental proximity.
 
 ### Economy §15 (canon)

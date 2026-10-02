@@ -175,7 +175,7 @@ Robot culture here is genuinely diverse, mirroring the city's whole "varied pers
 ## 18. Religious / Philosophical Landscape
 
 - No dominant formal religion; the closest shared value is a genuine appreciation for calm, considered pursuit — research, art, and craft valued as ends in themselves, supported by a setting that doesn't force survival to dominate daily life.
-- A quiet, layered awareness of the city's own diplomatic origin — existing because three great powers decided it should, rather than through organic arrival, gives residents a specific, reflective relationship to their own civic history.
+- A quiet, layered awareness of the city's own diplomatic origin — existing because three great powers decided it should gives residents a specific, reflective relationship to their own civic history.
 
 ---
 
@@ -203,14 +203,14 @@ Modest, defined more by institutional and cultural depth than political ambition
 
 ## 22. Relationship to Upper Earth
 
-Genuinely unique among Tepenian cities: its very existence traces directly to an Upper Earth diplomatic decision (the Jeju-do court's allocation), giving it a specific, reflective relationship to Upper Earth unlike any organic-founding city's more straightforward exile narrative.
+Its very existence traces directly to an Upper Earth diplomatic decision (the Jeju-do court's allocation), giving it a specific, reflective relationship to Upper Earth.
 
 ---
 
 ## 23. Relationship to Other Cities
 
 - **Sinheung and Zhongshan (Larsemann Hills cluster):** Close cluster neighbors, now consistently resolved as damaged-but-functional alongside this city — genuine daily cross-community contact, similar in spirit to Sejong's own King George Island density.
-- **Sayowa:** The other Japanese Tepenian city, but with a genuinely different founding mechanism — Sayowa inherited its own real JARE station organically; this city exists because Upper Earth diplomacy decided it should. Two Japanese communities shaped by entirely different founding stories, and — since this city's move to the Mirny subnet 2026-07-05 — now in different subnets as well, a new wrinkle in the comparison that wasn't there before.
+- **Sayowa:** The other Japanese-founded Tepenian city — and, since this city's move to the Mirny subnet 2026-07-05, now in a different subnet, a new wrinkle in the relationship that wasn't there before.
 - **Mawson (the city):** Connected via Hwy 4 through Sinheung — a physical highway link that persists even though this city and Mawson are no longer the same Arcanet subnet, following the 2026-07-05 reassignment.
 
 ---

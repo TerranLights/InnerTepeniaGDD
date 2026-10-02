@@ -20,7 +20,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, France *(founding operator heritage)*, South Korea, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, France, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
 *France founded and named the city and gave it St. Jules — and by Census II, French heritage sits at Significant tier, well below the China/USA Primary pairing that emerged over generations of arrivals. The city's own language, food, and aesthetic sensibility developed on-site out of that founding population's daily circumstances rather than being simply carried over intact. The shape of this founding-tier tension is close to Fort McMurdo's (founding nation retained institutionally, demographic majority arrived later) but plays out at a much smaller, more intimate scale: a city of ~312,000 rather than Fort McMurdo's industrial sprawl, an island rather than a peninsula, a population where robots (177,372) meaningfully outnumber humans (134,634) — Dumont d'Urville was never a place many humans chose to live if they had another option, given the wind.*

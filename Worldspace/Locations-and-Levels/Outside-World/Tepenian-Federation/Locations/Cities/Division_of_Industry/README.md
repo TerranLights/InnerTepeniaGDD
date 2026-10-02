@@ -1,5 +1,10 @@
 # Division of Industry — STATUS: RELIABLE, WITH ONE CARVE-OUT
 
+> ⛔ **Applies to every file in this folder:** a city's inherited infrastructure, records, research, equipment and
+> techniques are facts it may build on (`DR-24`, `DR-25`, `DR-26`); the real station's operator is never the cause of a
+> sector, and a tradition is never inherited from a station. **Founders come only from `Founding_Register.md`**, on geography and
+> access (`DR-19`).
+
 > ## ⛔ **CARVE-OUT — THE FOOD LAYER (B1) IS NOT RELIABLE. Added 2026-09-01, after independent validation.**
 > **Three independent checkers found the national food balance to be circular, double-counted, and stated in
 > the wrong units. `10_Validation_Findings_2026-09-01.md` is REQUIRED READING before citing ANY food figure

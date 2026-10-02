@@ -21,7 +21,7 @@
 |------|---------|
 | Primary | China, USA |
 | Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | Philippines, Malaysia, New Zealand *(founding operator heritage)*, Chile |
+| Notable | Philippines, Malaysia, New Zealand, Chile |
 
 *Scott carries the most extreme version of the founding-nation-persists pattern documented anywhere in the Janbogo subnet — arguably anywhere in Tepenia so far. New Zealand founded the city, named it, and set its earliest civic institutions in place, and by Census II sits at Notable tier — the lowest possible tier, below even Janbogo's Korea, Zukelli's Italy, or Dumont d'Urville's France, all of which at least held Significant tier. Yet Scott's early civic template — St. Robert's veneration, the precision-over-scale ethos, the whole character of the place — persisted anyway, independently carried forward by whoever actually lived there. The culture didn't just survive its founding nation's demographic collapse to Notable tier. It barely noticed.*
 
@@ -29,7 +29,7 @@
 
 ## 2. Founding Story
 
-New Zealand exiles arrived to a station that had already been running, modestly and carefully, since 1957 — Scott Base was never built for scale the way McMurdo was; it was built for quality of relationship with a difficult environment, a design choice the founders carried straight into the exile city. The founders kept it modest on purpose, three kilometers from a city that would grow into the largest industrial center in the Federation, and never tried to compete with it on size.
+New Zealand exiles arrived to a small station — Scott Base was never built for scale the way McMurdo was. The founders kept it modest on purpose, three kilometers from a city that would grow into the largest industrial center in the Federation, and never tried to compete with it on size.
 
 The name was kept without hesitation: Robert Falcon Scott, who died returning from the Pole in 1912, had organized New Zealand's entire relationship with Antarctica for centuries before the exile ever happened. Keeping his name wasn't loyalty to Britain — New Zealand had been independent for centuries by then — it was inheritance of a specific Antarctic identity that predated the nation's independence and outlasted it.
 

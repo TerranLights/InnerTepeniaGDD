@@ -25,7 +25,7 @@
 | Significant | France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Sejong has the broadest Significant tier of any Palmer subnet city — eight nations, reflecting King George Island's real-world status as the most internationally concentrated research site in Antarctica. South Korea (the actual founding-operator nation) held on at Significant tier rather than being diluted all the way to Notable — a stronger demographic retention than most Tepenian founding nations manage. **Corrected 2026-07-13:** China was previously listed as co-Primary here, justified by its real-world Great Wall Station on the same island — but that's exactly the kind of operator-identity reasoning this project's own methodology explicitly excludes from population composition (see `Upper_Earth_Immigration_Composition.md`). China appears nowhere else in the Palmer subnet; removed, with USA as sole Primary matching the rest of the subnet.*
+*Sejong has the broadest Significant tier of any Palmer subnet city — eight nations. South Korea held on at Significant tier rather than being diluted all the way to Notable — a stronger demographic retention than most Tepenian founding nations manage.*
 
 ---
 
@@ -143,7 +143,7 @@ A genuine blend shaped by cross-community influence from the island's dense mult
 ## 15. Division of Industry
 
 - Commercial / trade: 25% — leveraging King George Island's accessibility and multinational density
-- Technical / scientific: 20% — inherited KOPRI research tradition
+- Technical / scientific: 20% — research and technical work
 - Diplomatic / inter-community coordination: 15% — a genuinely unique sector given the island's density
 - Marine / resource extraction: 15%
 - Education: 15%
@@ -194,7 +194,7 @@ Genuinely complex and relational — Sejong's political character was defined as
 
 ## 22. Relationship to Upper Earth
 
-Layered through the island's own founding-era research infrastructure (KOPRI among the stations that once stood here) against the later USA-Primary demographic reality — genuinely plural, and further complicated by the constant daily awareness of a dozen neighboring nations' own separate relationships to Upper Earth on the same island.
+Layered through the city's own founding history against the later USA-Primary demographic reality — genuinely plural, and further complicated by the constant daily awareness of a dozen neighboring nations' own separate relationships to Upper Earth on the same island.
 
 ---
 

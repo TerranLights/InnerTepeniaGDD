@@ -21,15 +21,15 @@
 |------|---------|
 | Primary | Germany |
 | Significant | UK, Brazil |
-| Notable | Poland, Argentina, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa *(founding operator heritage)*, Slovakia, Chile, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Argentina, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Chile, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Sanay breaks the demographic pattern every other Halley subnet city follows. Everywhere else, USA becomes the eventual Primary regardless of founding nation. At Sanay, Germany does — plausibly a spillover effect of its close regional proximity to Neumayer's own substantial German community, drawing German immigration toward this specific stretch of Queen Maud Land rather than the more general American pattern seen along the rest of the coast. South Africa, the actual founding-operator nation (SANAE heritage), sits at Notable tier — diluted, like every other founding nation in this subnet, but diluted by a different demographic current than its neighbors.*
+*Sanay breaks the demographic pattern every other Halley subnet city follows. Everywhere else, USA becomes the eventual Primary regardless of founding nation. At Sanay, Germany does — plausibly a spillover effect of its close regional proximity to Neumayer's own substantial German community, drawing German immigration toward this specific stretch of Queen Maud Land rather than the more general American pattern seen along the rest of the coast. South Africa sits at Notable tier — diluted, like every other founding nation in this subnet, but diluted by a different demographic current than its neighbors.*
 
 ---
 
 ## 2. Founding Story
 
-South Africa had operated Antarctic stations continuously since 1960, and SANAE IV — perched on the bedrock of Vesleskarvet nunatak since 1997 — was the culmination of that program. Falkland Treaty exiles inherited both the physical station and its scientific mission, and South African settlers became the only major South African community anywhere in Tepenia. The city's very name is South African in origin twice over: "Sanay" evolved phonetically from the SANAE acronym itself, the expedition name settling into a proper noun for the people who made their home there.
+South Africa had operated Antarctic stations continuously since 1960, and SANAE IV — perched on the bedrock of Vesleskarvet nunatak since 1997 — was the culmination of that program. Falkland Treaty exiles inherited the physical station, and South African settlers became the only major South African community anywhere in Tepenia. The city's very name is South African in origin twice over: "Sanay" evolved phonetically from the SANAE acronym itself, the expedition name settling into a proper noun for the people who made their home there.
 
 What set Sanay apart from its neighbors demographically only became clear over the following generations: where Halley, Neumayer, and Troll all eventually saw American immigration outpace their founding populations, Sanay's Primary tier went to Germany instead — likely drawn by the same regional current that made Neumayer, just up the coast, one of Tepenia's most concentrated German communities. South Africa's founding character persisted as institutional and cultural memory, but the demographic story here diverged from the rest of the subnet almost from the start.
 
@@ -58,7 +58,7 @@ Sanay's polar night (~88 days) and midnight sun (~89 days) sit in the middle of 
 Sanay's civic identity rests on real structural endurance rather than the more dramatic "the city that survived intact" framing its own early records once claimed. The bedrock foundation gave it a genuine advantage against the war's damage, but it took that damage all the same — Sanay is one of several Halley subnet communities still standing after being hit, not a singular untouched exception in a subnet of ruins. That distinction — endurance instead of exemption — is the whole of its self-image.
 
 - **a. Founding tension** — South Africa founded the city, and now sits at Notable tier — but unlike every other Halley subnet city, the nation that eventually became Primary here is Germany, not the USA. The demographic story Sanay tells about itself is genuinely different from its neighbors', even though the underlying shape (founding nation diluted to the bottom tier) is the same.
-- **b. Fault lines** — A quiet tension between the city's South African institutional memory (the SANAE heritage, the founding character) and its lived present (an increasingly German-inflected demographic majority whose own connection runs through Neumayer's engineering culture rather than South African Antarctic tradition).
+- **b. Fault lines** — A quiet tension between the city's South African institutional memory (the founding generation's character) and its lived present (an increasingly German-inflected demographic majority whose own connection runs through Neumayer's engineering culture rather than through Sanay's founding story).
 
 ---
 
@@ -83,7 +83,7 @@ Sanay's civic identity rests on real structural endurance rather than the more d
 
 - **a. Primary language(s):** German dominant (Primary tier), with English, Afrikaans, and other South African linguistic heritage present at a diminished but real level tied to the founding institutional memory.
 - **b. Linguistic character** — A genuinely unusual linguistic profile for this subnet — German as the practical daily default rather than English, distinguishing Sanay's soundscape from its American-Primary neighbors.
-- **c. Slang / dialect markers** — Terminology referencing the SANAE founding heritage persists as institutional/ceremonial vocabulary even among residents with no South African ancestry.
+- **c. Slang / dialect markers** — Terminology referencing the city's South African founding persists as institutional/ceremonial vocabulary even among residents with no South African ancestry.
 - **d. Language and integration** — Low pressure; a practical, hardworking community integrates newcomers through demonstrated reliability rather than linguistic assimilation.
 
 ---
@@ -143,7 +143,7 @@ A working port's own homegrown music scene, heard in the residential, commercial
 - Trucking / logistics: 20% — the clifftop depots and truckyards moving goods onward via Hwy 7, including to Halley
 - Warehousing / import-export administration: 15% — the clifftop business district
 - Industrial / manufacturing: 15% — repair and structural maintenance, inherited from the war-damage-and-recovery era
-- Technical / scientific: 10% — the research tradition that began with the SANAE station, now a smaller slice of the city's actual economy
+- Technical / scientific: 10% — the research work the founding generation built up, now a smaller slice of the city's actual economy
 - Other (commercial, education, leisure-district service work): 10%
 
 ---
@@ -218,7 +218,7 @@ Modest and practical day-to-day, reflecting the city's ongoing recovery work —
 
 ## 26. Municipal Holidays
 
-- **Founders' Bedrock** *(placeholder name)* — commemorating the SANAE founding and the structural stability that has defined the city ever since
+- **Founders' Bedrock** *(placeholder name)* — commemorating the city's founding on bedrock and the structural stability that has defined it ever since
 - **The Standing** *(placeholder name)* — a quiet, unglamorous observance marking the city's continued function after the Long Night War, deliberately understated rather than triumphant
 
 ---

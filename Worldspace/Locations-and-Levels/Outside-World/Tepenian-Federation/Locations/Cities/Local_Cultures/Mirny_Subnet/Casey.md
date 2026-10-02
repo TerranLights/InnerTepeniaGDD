@@ -159,7 +159,7 @@ Broad, eclectic, shaped by constant exposure to travelers from every corner of T
 
 - Transit / logistics / resupply: ~30% — the dominant sector, reflecting the junction economy directly
 - Commercial: ~20%
-- Technical / scientific (inherited Australian Antarctic Division capacity): ~15%
+- Technical / scientific (research and technical work): ~15%
 - Maritime: ~15%
 - Industrial / manufacturing: ~10%
 - Other: ~10%

@@ -7,7 +7,7 @@
 **Census II Population:** 429,820 humans / 407,948 robots / 837,768 combined *(pre-decline figure — see Section 2)*
 **Location:** Confín Coast, Coats Land, southern Weddell Sea (~77°52'S, 34°37'W)
 
-**One-liner:** *A hard, disciplined, purposeful aviation hub — Air Force exiles running the Halley subnet's frontier, its operational discipline intact roughly two and a half centuries on regardless of who's actually living there now.*
+**One-liner:** *A hard, disciplined, purposeful aviation hub running the Halley subnet's frontier, its operational discipline intact roughly two and a half centuries on regardless of who's actually living there now.*
 
 *(Corrected 2026-07-04: this section previously blended the city's living second interwar-era identity with its post-war "Decline" into one two-layer culture — the only Tepenian city whose Local_Cultures file did this, breaking from the standard methodology every other city follows of keeping living pre-war culture here and destruction/decline facts in Specs/the post-war layer. The Decline content has been moved to `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md`, where it now has its own dedicated faction entry. This file is restored to describing Belgrano's actual living, functioning second interwar culture only.)*
 
@@ -25,13 +25,13 @@
 | Significant | Germany, UK, Brazil |
 | Notable | Poland, Argentina *(founding wave)*, Czech Republic, Hungary, South Africa, Slovakia, Chile, Croatia, Serbia, Slovenia, Uruguay |
 
-*Belgrano is Tepenia's most extreme case of founding-era institutional culture outlasting the demographic weight of the population that built it. The Air Force base's operators set the entire founding character — shortest Weddell Sea approach of any nation, the Air Force institutional culture, the name itself — and the founding Argentine population still ended up Notable tier, the lowest rung, behind the USA, Germany, UK, and Brazil. Unlike Janbogo (where Korea at least held Significant tier), Belgrano's founding population was essentially demographically erased over roughly two and a half centuries, while the base's own operational culture — military, functional, purposeful, frontier — persisted as the city's operating character almost in spite of the numbers.*
+*Belgrano is Tepenia's most extreme case of founding-era institutional culture outlasting the demographic weight of the population that built it. The founding Argentine population set the entire founding character — the airfield-first discipline, the name itself — and still ended up Notable tier, the lowest rung, behind the USA, Germany, UK, and Brazil. Unlike Janbogo (where Korea at least held Significant tier), Belgrano's founding population was essentially demographically erased over roughly two and a half centuries, while the founders' own operational culture — functional, purposeful, frontier — persisted as the city's operating character almost in spite of the numbers.*
 
 ---
 
 ## 2. Founding Story
 
-Belgrano II Base was Argentina's southernmost Antarctic installation, operated by the Argentine Air Force since 1979 for its runway — flat coastal ice on the deep Weddell Sea coast, the shortest approach from Buenos Aires of any viable Antarctic position. When the exile era began, that runway became the seed of the Halley subnet's primary aviation hub, and the base's own Air Force institutional culture — disciplined, functional, oriented around purpose rather than comfort — became the city's founding template.
+Belgrano II Base was Argentina's southernmost Antarctic installation, operated by the Argentine Air Force since 1979 for its runway — flat coastal ice on the deep Weddell Sea coast, the shortest approach from Buenos Aires of any viable Antarctic position. When the exile era began, that runway became the seed of the Halley subnet's primary aviation hub, and the culture the founders built around running it — disciplined, functional, oriented around purpose rather than comfort — became the city's founding template.
 
 Named for Manuel Belgrano, the Argentine independence general and creator of the Argentine flag — a deliberate choice of national history over Antarctic history, distinguishing Belgrano from cities named after explorers or station namesakes. The founders wanted their new home to remember where they came from, not just where they'd landed.
 
@@ -47,7 +47,7 @@ Belgrano's founding-era significance runs deeper than its own borders, too *(est
 
 Belgrano is the southernmost city in the Halley subnet, and one of the coldest in Tepenia — mean annual temperature around −13.2°C, with winter months regularly below −30°C. The Weddell Sea is among the most ice-choked seas in Antarctica; the deep southern position, combined with katabatic wind exposure off the interior, makes Belgrano's climate a maritime-continental transition harsher than any other Halley coastal city.
 
-The founding Air Force culture treated this harshness the way military installations treat hostile environments generally: not as something to be softened, but as an operational parameter to be planned around. Belgrano was never a comfortable city. It was a functional one, built by people who expected hardship and organized their whole civic character around meeting it without complaint.
+The founding culture treated this harshness the way military installations treat hostile environments generally: not as something to be softened, but as an operational parameter to be planned around. Belgrano was never a comfortable city. It was a functional one, built by people who expected hardship and organized their whole civic character around meeting it without complaint.
 
 The climate is a managed operational parameter, not an obstacle — infrastructure built to compensate for the cold runs continuously and reliably, maintained by the same institutional discipline that defines everything else about the city.
 
@@ -69,7 +69,7 @@ Belgrano's aviation operations are seasonally gated by weather windows — fligh
 
 **Name/concept:** *The Airbase That Never Stood Down*
 
-Belgrano's civic character, across its whole two-and-a-half-century second interwar history, is a hard, disciplined, functionally-minded aviation hub — founded by Argentine Air Force exiles and carried forward by a later demographic majority that never bothered to soften it. That culture is purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic bearing. Function before comfort is not an aspiration here; it's the baseline.
+Belgrano's civic character, across its whole two-and-a-half-century second interwar history, is a hard, disciplined, functionally-minded aviation hub — founded by Argentine exiles and carried forward by a later demographic majority that never bothered to soften it. That culture is purposeful, frontier-proud, and — by Tepenian standards — almost martial in its civic bearing. Function before comfort is not an aspiration here; it's the baseline.
 
 - **a. Founding tension** — Argentina founded the city and set its entire character, then became its smallest recognized demographic tier over the following century-plus. The tension isn't about whose culture is "real" — the founding discipline was thoroughly adopted by everyone who came after, regardless of where they were from, so the question is less "does Argentine culture survive" and more "why did an operational ethos this total prove so contagious to later arrivals."
 
@@ -81,9 +81,9 @@ Belgrano's civic character, across its whole two-and-a-half-century second inter
 
 ## 6. Social Contract & Unwritten Rules
 
-- **a. Function before comfort.** The founding Air Force ethic survives intact: things that work matter more than things that are pleasant. A Belgrano resident judges a person, a tool, or a shelter by whether it does the job, not by how it feels to use.
+- **a. Function before comfort.** The founding ethic survives intact: things that work matter more than things that are pleasant. A Belgrano resident judges a person, a tool, or a shelter by whether it does the job, not by how it feels to use.
 - **b. Hospitality character** — Blunt and practical. You're given what you need — shelter, warmth, information about hazards — without ceremony. Belgrano hospitality reads as cold to outsiders used to warmer cities, but it is genuinely generous; it just isn't performed.
-- **c. Discipline through the chain of command** — Residents maintain schedules, maintenance routines, and mutual-aid rotations with a rigor that outsiders find almost military, because it is: the Air Force institutional structure never really stopped operating, just extended its command culture to cover an entire civilian population that grew up inside it.
+- **c. Discipline through the chain of command** — Residents maintain schedules, maintenance routines, and mutual-aid rotations with a rigor that outsiders find almost military, because it is: the founders ran the city on an airfield crew's command structure from the first day, and that structure never really stopped operating, just extended its command culture to cover an entire civilian population that grew up inside it.
 - **d. Public/private divide** — Thin, but by institutional design rather than necessity. A population this closely integrated around one operational purpose means everyone knows everyone's role, readiness, and capability — the same way any well-run installation would.
 - **e. Privacy as civic value** — Low, functionally. Arcanet infrastructure is used almost entirely for practical coordination — flight schedules, maintenance logs, hazard warnings — not social or personal content. Belgrano simply never developed much of a taste for using its network that way.
 
@@ -121,7 +121,7 @@ Belgrano's built environment is aviation-industrial at its core — hangars, run
 
 ## 11. Fashion
 
-Function-first by heritage, not necessity: durable cold-weather gear, military-surplus-style layering inherited directly from the founding Air Force aesthetic. There's no fashion industry in the conventional sense — clothing is issued and maintained rather than designed for display — and a Belgrano resident's gear tells the story of their operational role rather than any personal styling choice.
+Function-first by habit as much as necessity: durable cold-weather gear, military-surplus-style layering carried down from the founding generation's own working dress. There's no fashion industry in the conventional sense — clothing is issued and maintained rather than designed for display — and a Belgrano resident's gear tells the story of their operational role rather than any personal styling choice.
 
 ---
 
@@ -164,7 +164,7 @@ Belgrano's music is oral, communal, and rooted in the city's own founding-era fo
 
 ## 16. Human-Robot Relations
 
-The founding Air Force culture was institutionally integrated from the start — robots and humans serving the same operational function within the same command structure, a working relationship built on shared purpose rather than negotiated coexistence. That integration survived the demographic shift intact: Function-before-comfort applies to species relations the same way it applies to everything else in Belgrano — a robot maintaining the heating system and a human running flight logistics are equally essential, and neither role carries more institutional prestige than the other.
+The founding culture was institutionally integrated from the start — robots and humans serving the same operational function within the same command structure, a working relationship built on shared purpose rather than negotiated coexistence. That integration survived the demographic shift intact: Function-before-comfort applies to species relations the same way it applies to everything else in Belgrano — a robot maintaining the heating system and a human running flight logistics are equally essential, and neither role carries more institutional prestige than the other.
 
 ---
 
@@ -206,7 +206,7 @@ Governance runs on institutional authority rather than the Federation's normal c
 
 ## 22. Relationship to Upper Earth
 
-Distant and mostly institutional rather than emotional — Belgrano's founding population came from an Air Force posting, not a grievance, and roughly two and a half centuries on, the relationship to Upper Earth is filtered through operational pride (being good at a hard job in a harsh place) more than any raw political sentiment about the exile itself.
+Distant and mostly institutional rather than emotional — Belgrano's founding population built its identity around a job, not a grievance, and roughly two and a half centuries on, the relationship to Upper Earth is filtered through operational pride (being good at a hard job in a harsh place) more than any raw political sentiment about the exile itself.
 
 ---
 
@@ -271,7 +271,7 @@ Becoming a Belgrano resident means being absorbed into the operational and maint
 
 ## 30. Significant Local Events
 
-- **The founding (post-1979 Air Force base, post-Falkland Treaty exile settlement)** — establishment of Belgrano as the Halley subnet's primary aviation hub
+- **The founding (post-Falkland Treaty exile settlement)** — establishment of Belgrano as the Halley subnet's primary aviation hub
 - **The Long Night War** — Belgrano survived the war intact, unlike Zukelli and Denison, which were destroyed outright *(corrected 2026-07-05 — this line previously also named Sinheung here; Sinheung was damaged, not destroyed, see `TODO.md`)*; what happens afterward is a separate, post-war chapter of the city's story, not part of its living second interwar identity (see `City_Origin_Factions_PostWar_Refugee.md`)
 - **The Byrd Expedition** *(established 2026-07-03)* — Belgrano's archives held the richest documentary record pointing to Byrd Station's location; Palmer City and Rothera shipped their own supporting records across the Weddell Sea once word of the expedition spread; Belgrano's industrial/airbase capacity built "las Arrastradoras" (ancestor of the now-international "Rastra"), Tepenia's first native overland vehicles, and an all-robot crew drove them out from the city on the founding crossing that discovered the buried underground city at Byrd
 
@@ -281,7 +281,7 @@ Becoming a Belgrano resident means being absorbed into the operational and maint
 
 - **Salagéa Aparast** — Robot; Belgrano native; boat-dwelling datashard courier operating along the Atlantic coast; carries the city's founding discipline and functional seriousness with her even while living apart from Belgrano itself; chose to remain on Earth during the Long Night War specifically to keep archiving pre-war knowledge rather than evacuate via Amundsen Tower
 - **Griselda Alejandra Chávez** — Robot; not a Belgrano native (built in the Republic of Sonora, Upper Earth) but a longtime resident during the city's second interwar, fully-functioning era — a blacksmith who became an instrument-maker, shipping whalebone-and-metal pianos by sea to Esperanza and onward to Palmer City. Left via Amundsen Tower on an early evacuation ride before the Long Night War, and now lives on Deimos. **Personally knew Salagéa Aparast** during this pre-war period — see both characters' files.
-- **[Placeholder — founding-era Air Force commander or institutional figure]** — whoever set the operational tone that outlasted the institution itself
+- **[Placeholder — founding-era airfield commander or institutional figure]** — whoever set the operational tone that outlasted the founding generation itself
 
 ---
 

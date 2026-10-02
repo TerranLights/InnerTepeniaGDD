@@ -242,8 +242,8 @@ status.*
 - **[Adapted, Deep]** §24's own material stands as the honest local answer: substantial and central, mirroring
   the city's founding role as Tepenia's own point of origin. A direct robot-specific extension, grounded in
   Community Infrastructure's own established fact that Radio Anvers's broadcast signal reportedly reaches as
-  far as Rothera and Signy on a clear night: robots concentrated in the city's inherited Palmer Station research/
-  technical sector (§15) plausibly carry primary responsibility for that broadcast infrastructure's own
+  far as Rothera and Signy on a clear night: robots concentrated in the city's research/technical sector
+  (§15) plausibly carry primary responsibility for that broadcast infrastructure's own
   continued reach — flagged forward directly for Rothera's and Signy's own eventual runs, since both cities may
   carry a real, receiving-end cultural memory of Palmer City's own signal.
 

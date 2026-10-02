@@ -23,7 +23,7 @@
 | Significant | Germany, France, UK, Canada, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Rothera's founding population was primarily British — Rothera and Halley are the two Tepenian cities with British Antarctic Survey origins, giving the UK exile community a presence on both the Peninsula's west coast and Queen Maud Land's Atlantic coast. Argentina and Chile arrived first, via the same short Ushuaia/Punta Arenas corridor seen across the Palmer subnet, ahead of the British institutional population and the American demographic majority that followed. UK itself sits at Significant tier, not Notable — its population share was outlasted by the American wave that arrived later, the same numeric pattern seen elsewhere in the subnet.*
+*Rothera's founding population was primarily British. Argentina and Chile arrived first, via the same short Ushuaia/Punta Arenas corridor seen across the Palmer subnet, ahead of the British founding population and the American demographic majority that followed. UK itself sits at Significant tier, not Notable — its population share was outlasted by the American wave that arrived later, the same numeric pattern seen elsewhere in the subnet.*
 
 ---
 
@@ -31,7 +31,7 @@
 
 The British Antarctic Survey had operated at Rothera since 1975, and the exile settlement inherited one of the most developed, best-maintained station sites on the entire Peninsula — including a rare paved runway, the 900-meter Bonner airstrip, giving Rothera an aviation capability most Tepenian cities lacked from the very beginning. British exiles made up the founding population, arriving to find genuinely functional, well-built infrastructure waiting for them, distinct from cities founded on more improvised or abandoned sites elsewhere in Tepenia.
 
-Argentina and Chile's exile communities arrived first by simple geographic proximity — the short Drake Passage crossing from Ushuaia and Punta Arenas — ahead of the British institutional population and, later, the larger American demographic wave that arrived in volume. Population balance shifted considerably over the generations that followed, but that arrival order remains part of the city's own founding record.
+Argentina and Chile's exile communities arrived first by simple geographic proximity — the short Drake Passage crossing from Ushuaia and Punta Arenas — ahead of the British founding population and, later, the larger American demographic wave that arrived in volume. Population balance shifted considerably over the generations that followed, but that arrival order remains part of the city's own founding record.
 
 What distinguished Rothera from its Peninsula neighbors almost immediately was Adelaide Island itself — by far the largest landmass in the subnet, mountainous, with far more room to grow than the smaller islands hosting Palmer City or Sejong. Where those cities grew as compact, concentrated settlements, Rothera's development spread outward across the island's scale, laying the groundwork for what would become, generations later, the subnet's industrial backbone.
 
@@ -59,7 +59,7 @@ Rothera has a brief polar night (~16 days) and brief midnight sun (~20 days) —
 
 Rothera's civic identity is built on practical competence and physical scale rather than spectacle — the opposite of Palmer City's celebratory self-image, and distinct from Marambio's aviation-hub prestige. Where those cities are defined by what they *are*, Rothera is defined by what it *makes* — raw materials into finished infrastructure, distributed production rather than concentrated production, and a hard-won post-war identity as the place that kept functioning specifically because it was never one target to hit.
 
-- **a. Founding tension** — British institutional founding population, an Argentine/Chilean early-arrival wave, eventual American demographic Primary — three population layers arriving in sequence, but here that sequence is overshadowed by a newer, more load-bearing civic fact: industrial function, not founding nationality, is what actually defines Rothera today.
+- **a. Founding tension** — British founding population, an Argentine/Chilean early-arrival wave, eventual American demographic Primary — three population layers arriving in sequence, but here that sequence is overshadowed by a newer, more load-bearing civic fact: industrial function, not founding nationality, is what actually defines Rothera today.
 - **b. Fault lines** — A quiet tension between the city's own proud institutional memory of running this station across generations (decades of accumulated operational competence, inherited infrastructure) and the practical reality that its post-war relevance depends entirely on continued industrial output, not on that history alone.
 
 ---
@@ -83,7 +83,7 @@ Rothera's civic identity is built on practical competence and physical scale rat
 
 ## 8. Language
 
-- **a. Primary language(s):** English dominant (American Primary tier), with genuine industrial/technical vocabulary carried forward from centuries of continuous station operation — a professional register the exile community kept and built on rather than reinvented.
+- **a. Primary language(s):** English dominant (American Primary tier), with genuine industrial/technical vocabulary — a professional register the exile community built up across generations of running the city's runway and factories.
 - **b. Linguistic character** — Practical, technical, industry-specific terminology woven into everyday civic language, alongside Argentine/Chilean Spanish inflection from the founding wave.
 - **c. Slang / dialect markers** — Industry-specific shorthand tied to the decentralized production sites — terms for specific facilities, processing stages, and the runway's operational status.
 - **d. Language and integration** — Low pressure; a working industrial city integrates newcomers through demonstrated usefulness rather than linguistic assimilation.
@@ -119,7 +119,7 @@ Modest compared to Palmer City's jazz-defined musical soul — a working city's 
 ## 13. Arts & Aesthetics
 
 - **Visual arts:** Documentary and industrial in character — art here is more likely to depict the actual work of production than abstract spectacle.
-- **Literature:** Technical and institutional record-keeping, carried forward from centuries of continuous station operation, rather than the mythological founding-story literature Palmer City cultivated.
+- **Literature:** Technical and institutional record-keeping, rather than the mythological founding-story literature Palmer City cultivated.
 - **Crafts & material culture:** Genuine industrial craft — the actual skill of processing raw materials into finished infrastructure components is treated as real, respected expertise here.
 
 ---
@@ -142,7 +142,7 @@ Modest compared to Palmer City's jazz-defined musical soul — a working city's 
 - Industrial / manufacturing: 40% — the city's clearly defining sector, raw materials into finished infrastructure components
 - Marine / resource extraction: 20% — Adelaide Island's mountainous terrain and maritime trade
 - Aviation / logistics: 15% — the Bonner airstrip, secondary to the industrial role but genuinely functional
-- Technical / scientific: 10% — inherited BAS research tradition
+- Technical / scientific: 10% — research and technical work
 - Commercial / trade: 10%
 - Other: 5%
 
@@ -169,7 +169,7 @@ Robot culture here centers on industrial and technical expertise — the practic
 
 ## 19. Underground / Counterculture
 
-Minimal — a working industrial city organized around practical function doesn't have much room for a distinct counterculture; whatever friction exists (pride in the station's institutional legacy versus the practical reality of ongoing post-war production) is discussed openly rather than organized against.
+Minimal — a working industrial city organized around practical function doesn't have much room for a distinct counterculture; whatever friction exists (pride in the city's own operational legacy versus the practical reality of ongoing post-war production) is discussed openly rather than organized against.
 
 ---
 
@@ -191,7 +191,7 @@ Practically significant rather than politically prominent — Rothera's importan
 
 ## 22. Relationship to Upper Earth
 
-Filtered primarily through the British founding population's own institutional history (the BAS's decades of pre-exile Antarctic operation), layered against the Argentine/Chilean founding wave's own separate relationship — genuinely plural, though less emotionally central to the city's self-image than its industrial function is.
+Filtered primarily through the British founding population's own history, layered against the Argentine/Chilean founding wave's own separate relationship — genuinely plural, though less emotionally central to the city's self-image than its industrial function is.
 
 ---
 
@@ -219,7 +219,7 @@ Practical and industrially-oriented — Arcanet use here likely centers on coord
 
 ## 26. Municipal Holidays
 
-- **Founders' Airstrip** *(placeholder name)* — commemorating the inherited BAS runway and the institutional competence it represents
+- **Founders' Airstrip** *(placeholder name)* — commemorating the inherited runway and the competence it took to keep it flying
 - **The Standing Works** *(placeholder name)* — an observance marking the city's continued post-war industrial function, its decentralized survival distinct from every other Peninsula city's fate
 
 ---
@@ -268,4 +268,4 @@ Becoming a local at Rothera means demonstrating practical usefulness to the city
 
 ## 32. Diaspora Character in Concordia
 
-No substantial Rothera diaspora community is established in Concordia — the Palmer subnet cities are geographically distant and the Long Night War hit the Peninsula hard and early. What Concordia knows of Rothera, it knows mostly from before the war, and mostly through Halley's own parallel BAS heritage rather than any direct community connection.
+No substantial Rothera diaspora community is established in Concordia — the Palmer subnet cities are geographically distant and the Long Night War hit the Peninsula hard and early. What Concordia knows of Rothera, it knows mostly from before the war, rather than through any direct community connection.

@@ -482,7 +482,7 @@ post-war retrospect, and a real, load-bearing local inversion of the national Hu
   resolved as real but non-transplanting: Juan Carlos parallels thematically but differs in mechanism, Zhongshan
   is a genuine instructive opposite (actively documents vs. actively avoids checking its own past), Cape Adare
   is the closest family resemblance (both preservation-as-practice) but via a different structure (dedicated
-  archive vs. diffuse layered architecture). Rothera and Signy (both confirmed sibling BAS-heritage cities)
+  archive vs. diffuse layered architecture). Rothera and Signy (both confirmed connections)
   flagged forward for real re-checks once run.
 - [x] **Rothera — Draft (pending review)** — run #32, 2026-08-11, sixth city of the Palmer Subnet, directly
   following up on forward flags from Denison's (Janbogo subnet) and Port Lockroy's own completed files.

@@ -4,6 +4,8 @@
 
 **These are not profiles of individual residents** — they're readings of each city's own collective character, grounded entirely in what's already established about that city elsewhere in the project. No generic Enneagram trivia; every judgment cites a specific, already-canonical detail.
 
+> ⛔ **A reading never draws on the real station or its operator (`DR-19`).** Founders come only from `Founding_Register.md`.
+
 ---
 
 ## The Three Axes

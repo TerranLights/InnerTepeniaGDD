@@ -43,9 +43,9 @@ spent generations actively protecting one shared, unglamorous hour at the end of
 - **Input B — Geography & Geology:** `Specs/Rothera.md`. Rothera Point, Adelaide Island, western Antarctic
   Peninsula — by far the largest, most mountainous landmass in the subnet (~120km, peaks over 2,500m), the
   mildest climate in Tepenia outside Palmer City itself (regular rain, above-freezing summer temperatures).
-  Founding: post-Falkland Treaty on inherited BAS infrastructure (operational since 1975), British institutional
-  founders arriving after an Argentine/Chilean early wave, American demographic Primary arriving later —
-  three population layers in sequence, superseded as the city's defining fact by industrial function itself.
+  Founding: post-Falkland Treaty on inherited station infrastructure, British founders arriving after an
+  Argentine/Chilean early wave, American demographic Primary arriving later — three population layers in
+  sequence, superseded as the city's defining fact by industrial function itself.
   **Status: Damaged but partially operational** — survived the war specifically *because* its industrial base
   was decentralized across Adelaide Island's own exceptional scale rather than concentrated in one strikeable
   core, with large-scale underground vault sections as a second, compounding layer of resilience.

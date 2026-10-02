@@ -22,14 +22,14 @@
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | UK, Mexico, Brazil, Argentina *(founding operator heritage)* |
+| Significant | UK, Mexico, Brazil, Argentina |
 | Notable | Chile *(founding wave)*, Uruguay |
 
 *Esperanza's founding tension isn't nation-versus-nation the way Zhongshan's,
 Janbogo's, or Belgrano's are. Argentina holds Significant tier — present but not
 dominant, moderately stronger than Belgrano's near-erasure, nowhere near Zhongshan's
 outright primacy. That's because Esperanza's founding charter was never actually
-about Argentine identity, despite the Argentine site heritage. It was written around
+about Argentine identity, despite the Argentine founding. It was written around
 a mission — caring for the human children of exile — explicitly defined to apply
 regardless of nationality. The tension here runs somewhere else entirely: see
 Section 5.*
@@ -44,7 +44,7 @@ The founding council's reasoning was direct: the humans who followed robots into
 
 The name was already correct and needed no changing. *Esperanza* — hope — is exactly what a federation built on expulsion needed a city to mean.
 
-The city's early texture grew out of the original base's own history and infrastructure — a site literally designed and built for family habitation, inherited directly rather than improvised — but the charter itself was written to be bigger than any single nation. Any human whose family had made the sacrifice of exile had a claim on what Esperanza existed to protect, regardless of where they'd come from. Multinational settlement followed quickly and was, from the outset, not a dilution of the founding identity but an expression of it.
+The city's early texture grew out of the original base's own infrastructure — a site literally designed and built for family habitation, inherited directly rather than improvised — but the charter itself was written to be bigger than any single nation. Any human whose family had made the sacrifice of exile had a claim on what Esperanza existed to protect, regardless of where they'd come from. Multinational settlement followed quickly and was, from the outset, not a dilution of the founding identity but an expression of it.
 
 ---
 

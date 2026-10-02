@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Mawson is the Mawson subnet's hub city, Australia's oldest continuously operating Antarctic station (since 1954), with an existing "The Name That Outlasted the Founders" identity — Australia founded the city and gave it its name, but China is the actual long-run demographic Primary (17.02%), with Australia sitting at Significant tier (8.29%), the same "founding nation buried behind China" pattern later confirmed at Shirayuki and Sinheung.
+Recap of what was already established going in: Mawson is the Mawson subnet's hub city, with an existing "The Name That Outlasted the Founders" identity — Australia founded the city and gave it its name, but China is the actual long-run demographic Primary (17.02%), with Australia sitting at Significant tier (8.29%), the same "founding nation buried behind China" pattern later confirmed at Shirayuki and Sinheung.
 
 ---
 

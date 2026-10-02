@@ -70,13 +70,12 @@ while the combined-losses list three paragraphs down used "838,000" (the figure 
 actually requires, and the one that matches the precise Census II figure, 837,768). Fixed the
 standalone entry to 838,000. **Belgrano's Phase-2 streak reset by this finding.**
 
-**Pass 2:** A comprehensive founding-heritage-tag audit — extracted every "(founding operator
-heritage)," "(founding wave)," "(founding infrastructure heritage)," and Jeju-do-allocation tag across
-all 38 Specs files in one pass and cross-checked each against its city's own established real-world
-operator/immigration-pattern facts (the Australia/New Zealand "founding wave" tags recurring across
+**Pass 2:** A comprehensive founding-tag audit — extracted every "(founding wave)" and
+Jeju-do-allocation tag across
+all 38 Specs files in one pass and cross-checked each against its city's own established
+immigration-pattern facts (the Australia/New Zealand "founding wave" tags recurring across
 Ross Sea cities confirmed as the established Hobart/Fremantle shipping-partner canon, not copy-paste
-bleed-over; every "operator heritage" tag confirmed matching its city's actual real-world station
-operator). **Clean — no new bleed-over instances found anywhere.** This is Belgrano's first clean pass
+bleed-over). **Clean — no new bleed-over instances found anywhere.** This is Belgrano's first clean pass
 post-finding; the population-math re-verification done while fixing its census entry (confirmed the
 838,000 figure makes the combined-losses total 5,634,813 exactly) counts as its second.
 
@@ -165,9 +164,8 @@ the three passes.**
 **Janbogo subnet, Round 2 Pass 1-3, all 7 cities, 2026-07-14.** Fresh individual `Specs/*.md` reads for
 all 7 cities (Cape Adare, Denison, Dumont d'Urville, Fort McMurdo, Janbogo, Scott, Zukelli) — no new
 bugs, tier tables all consistent with the master-list script (Dumont d'Urville's known instance
-confirmed, no new ones). Janbogo's own Italy-tag fix (item 18's third occurrence) confirmed still
-holding. Then two batch angles: `Janbogo_Subnet_Ultra_Megasheet` (6 files, checked for founding-
-operator tag claims and the Italy/Janbogo bleed-over pattern specifically) — clean; `Super_Ultra_Megasheet`
+confirmed, no new ones). Then two batch angles: `Janbogo_Subnet_Ultra_Megasheet` (6 files, checked
+for founding-tag claims and neighbor bleed) — clean; `Super_Ultra_Megasheet`
 Janbogo-subnet mentions — clean. **All 7 Janbogo-subnet cities: 3/3 clean.**
 
 **Palmer subnet, Round 2 Pass 1-3, all 8 cities, 2026-07-14.** Fresh individual `Specs/*.md` reads for

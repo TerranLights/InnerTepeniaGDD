@@ -142,7 +142,7 @@ Performative and spectacle-driven, drawing from the full breadth of representent
 - Entertainment / hospitality: 35% — the city's clearly central industry
 - Commercial / trade: 20% — subnet hub role, key Hwy 1 waypoint
 - Cultural institutions / arts: 15%
-- Technical / scientific: 10% — inherited Palmer Station research tradition
+- Technical / scientific: 10% — research and technical work
 - Marine / resource extraction: 10%
 - Other: 10%
 

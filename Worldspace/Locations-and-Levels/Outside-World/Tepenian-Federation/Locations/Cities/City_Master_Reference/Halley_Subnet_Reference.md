@@ -43,7 +43,7 @@
 
 ### ✅ Canon facts
 - **Ice shelf, not bedrock** — hydraulic-leg architecture (extends the real Neumayer III design), floating, structurally distinct from bedrock cities. Reached via an unnamed connector off Hwy 7 (not directly on it); **not** one of the two receiving ports.
-- **Founding:** AWI German heritage (since 1981); documentary-not-taught institutional transfer (journals/logs survived, no living institution did). Inherited a full settlement's worth of scientific/engineering equipment.
+- **Founding:** German exiles. Inherited the station's journals and logs as documentary records (no living institution survived) and a full settlement's worth of scientific/engineering equipment.
 - **⭐ The Amundsen Tower's SCHEMATICS were designed here** — not built here (built at the South Pole) — a source of deep, complicated pride since nobody at the Tower's ruins credits Neumayer.
 - **⭐ Also designs the current-generation (Mark IV) Cradle fabrication-chamber schematic**, which Sinheung and Byrd actually build from. Also drafted the original schematic for Calethina (Concordia's activation-lab hologram).
 - **⭐ Also redesigned the first Rastra** (the nationwide tracked-hauler vehicle lineage) — a rough first-gen hauler built at Belgrano was brought here and reverse-engineered into something that could survive the Byrd-crossing distance.
@@ -67,7 +67,7 @@
 
 ### Open threads
 - Whether the centuries-long climate/atmospheric record survived the war (developer leaning yes, not locked in).
-- AWI institutional survival status; demonym; two placeholder holidays ("Founders' Instrument," "The Schematic").
+- Demonym; two placeholder holidays ("Founders' Instrument," "The Schematic").
 - **⭐ Division-of-Industry note:** Ruled 2026-09-02 (see `Division_of_Industry/15`) as a **research exporter**, minimum 16.7% of distinctive tier, to cover its food-import debt — and its research subject was independently identified as **EDEN ISS**, the real Antarctic greenhouse technology the whole national food model depends on.
 
 ### ✈️🛣️ Infrastructure cross-references
@@ -94,7 +94,7 @@
 - **One of two Tepenian cities on a floating ice shelf** (with Neumayer). Moving 400–700 m/yr toward the sea; calves periodically. **The only city architecturally designed from inception for relocation** — ski-mounted modules with active propulsion tracks, moving deliberately ahead of drift.
 - **NO docks, NO airstrip — deliberate design choice**, not oversight: fixed infrastructure would just be carried away by the ice. All resupply overland via Belgrano/Sanay (whichever passage is open) → Hwy 7 connector.
 - **⭐ Genuinely more fragile than a typical coastal city**, precisely because it has no maritime fallback if Hwy 59 or the Hwy 7 connector are compromised.
-- **Three-layer founding:** British institutional heritage (BAS, six station rebuilds) + a South African-led founding wave (Cape Town gateway — same route South African freighters still use) + eventual American demographic Primary. None erased the others.
+- **Layered founding:** a South African-led founding wave (Cape Town gateway — same route South African freighters still use) + eventual American demographic Primary. Neither erased the other.
 - §15: Technical/scientific 25%, Marine/resource extraction 20% (indirect — no own docks), Commercial 20%, Technical/Arcanet 15%, Industrial 12%, Other 8%.
 - **Identity: "Built to Move."** Impermanence is routine civic business, not crisis. "It's never finished, it's positioned."
 - Demonym: **Hallite.**
@@ -139,7 +139,7 @@
 | Megasheet | `City_Megasheets/Halley_Subnet/Abowasa/` (5 files) | 🔴 |
 
 ### ✅ Canon facts
-- **Only jointly-founded city in Tepenia** — Finland (FINNARP) and Sweden (SWEDARP), two genuinely separate ~200m-apart stations, absorbed together by the exile community rather than merged pre-war.
+- **Only jointly-founded city in Tepenia** — Finland and Sweden, across two genuinely separate ~200m-apart stations, absorbed together by the exile community rather than merged pre-war.
 - **Bedrock (nunatak), mainland — not an island.** ~130 km inland, more interior/continental than Neumayer or Sanay. One of the driest Halley-subnet cities.
 - Renamed from "Aboa" to "Abowasa" 2026-07-05, folding both station names in. Demonym: **Abowasian.**
 - §15: Technical/scientific 25%, Marine 15%, Commercial 15%, Industrial 15%, Education 15%, Other 15% — genuinely modest, no dominant sector (small-scale economy explicitly noted).
@@ -175,7 +175,7 @@
 
 ### ✅ Canon facts
 - **Bedrock nunatak.** Home to **Troll Airfield — ~3,000m, intercontinental-capable**, the subnet's only real external chokepoint. Survived the war and remains functional; **who controls it is contested — the working candidate for DLC 5's central conflict.**
-- Founding: Norwegian Polar Institute heritage; 1939 Queen Maud Land claim; Amundsen ("St. Roald") expedition heritage — carried forward as chosen/learned, not living institutional transmission.
+- Founding: Norwegian exiles; 1939 Queen Maud Land claim; Amundsen ("St. Roald") expedition heritage — carried forward as chosen/learned, not living institutional transmission.
 - **⭐ Genuine intermodal freight hub, not just aviation access:** imports land at Sanay/Belgrano (from Africa) → trucked to Troll via Hwy 7 → flown out nationally. Effective center of a major share of Tepenia's real-economy import/distribution network.
 - **⭐ Historical dual-route supply lifeline to Dome Fuji** (with a Sinheung-area airstrip) — two separate direct aviation routes, not a relay; ran from after Dome Fuji's pilgrimage resettlement until the Long Night War.
 - §15: Commercial/logistics 30% (freight hub), Technical/scientific 20%, Marine 15%, Industrial 15%, Education 12%, Other 8%.
@@ -240,7 +240,7 @@
 - Placeholder figures: Foreman Ingrid Van Zylsberg, Councilor Pieter Alsdorf.
 
 ### Open threads
-- Extent/location of war damage; specific social/economic role relative to neighbors; Sanay-origin Concordia diaspora; whether SANAE research heritage still has visible presence.
+- Extent/location of war damage; specific social/economic role relative to neighbors; Sanay-origin Concordia diaspora; whether the founding-era research legacy still has visible presence.
 - **⭐ Division-of-Industry note:** the Halley subnet food-gap commuter mechanism (`05_Remaining_Cities_Assessment.md`) draws on Sanay's spare capacity alongside Belgrano.
 
 ### ✈️🛣️ Infrastructure cross-references
@@ -266,7 +266,7 @@
 
 ### ✅ Canon facts
 - **Ice shelf (flat coastal ice), not bedrock** — the third confirmed Halley-subnet ice-shelf city.
-- Founding: Argentine Air Force (since 1979); founding population diluted to the smallest recognized demographic tier over ~2.5 centuries, yet the **operational/martial civic culture persisted regardless** — extreme case of institution outlasting demographics.
+- Founding: Argentine exiles; founding population diluted to the smallest recognized demographic tier over ~2.5 centuries, yet the **operational/martial civic culture persisted regardless** — extreme case of a civic culture outlasting demographics.
 - **⭐ Belgrano built the first native Tepenian overland vehicles — "las Arrastradoras" (→ international "Rastra")** — for the expedition that found buried Byrd Station, using maps recovered from Belgrano's own archive, with material support shipped from Palmer City and Rothera and an all-robot founding crew. **First-generation hauler was reverse-engineered by Neumayer** into the design that actually completed the crossing.
 - One of the two Halley-subnet coastal receiving ports (with Sanay).
 - **⭐ National Medical Institute:** **the Belgrano Institute of Medicine** — field medicine, flagship Department of Emergency and Trauma Response; medevac is an aviation function, downstream of the airfield.
@@ -358,7 +358,7 @@
 - **Tepenia's single largest city, pre- and post-war** — ~46% bigger than #2 pre-war, ~53% post-war.
 - **⭐ 100–180 freshwater meltwater lakes** — the Schirmacher Oasis (~34 km², one of Antarctica's rare ice-free areas). Liquid water in summer.
 - **Bedrock — but per the developer's 2026-09-02 ruling, Lazar builds UPWARD, OUTWARD onto ice, AND DOWNWARD** — all three, with downward the thermally cheap option (see `Division_of_Industry/13` §14).
-- **Genuinely unique three-stage founding:** two separate settlements (Novolazarevskaya, continuously operated since 1961; Maitri overflow) → coalescence (~1 century, First Interwar) → phonetic rename from "Novolazarevskaya" to "Lazar" as later immigration (USA, Germany, France, UK, Brazil — a genuinely flat five-way Significant tier) overtook the Russian founding population.
+- **Genuinely unique three-stage founding:** two separate settlements (Novolazarevskaya; Maitri overflow) → coalescence (~1 century, First Interwar) → phonetic rename from "Novolazarevskaya" to "Lazar" as later immigration (USA, Germany, France, UK, Brazil — a genuinely flat five-way Significant tier) overtook the Russian founding population.
 - **⭐ Population deliberately rebalanced 2026-07-03**, drawing sustained organic in-migration most heavily from **Janbogo, Zukelli, and Esperanza** — all three source cities' own files updated to match.
 - **Megacity infrastructure:** maglev primary transit, electric secondary, elevated tertiary — specifically why it reads quieter than its scale suggests. Multicolored lights, holographic advertisements.
 - §15: Commercial/trade 20%, Technical/scientific 20%, Industrial 20%, Marine 15%, Education 15%, Other 10%.

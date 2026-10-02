@@ -178,7 +178,7 @@ pending; Concordia's Notable Figures section is entirely TBD.
 - Built on **Petrel Island**, Géologie Archipelago, ~5 km off the Adélie Land coast — island-positioned.
 - Among the windiest regions on Earth (Adélie katabatics); George V Land nearby holds real-world highest-sustained-wind records.
 - **Adélie penguin colonies** are a defining daily-life feature (food supplement + coexistence).
-- Named for St. Jules (Jules Dumont d'Urville, landed Jan 21 1840); most distinctively francophone-speaking city in Tepenia.
+- Named for St. Jules (Jules Dumont d'Urville, landed Jan 21 1840).
 
 > ⋯ lines 141–141 withheld ⋯
 

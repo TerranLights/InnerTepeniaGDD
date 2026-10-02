@@ -201,7 +201,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 2 (DCH) — eastern terminus; also the northern endpoint of Hwy 183, which connects directly to Hwy 2's own endpoint here *(corrected 2026-07-13 — previously listed only Hwy 2, with Denison attributed to that same highway; Denison was moved to Hwy 183 in the 2026-07-06 correction, making this city a genuine two-highway junction)*
 - **Direct highway neighbors:** Casey (west, via Hwy 2), Cape Denison (south, via Hwy 183)
-- **Notes:** Dumont d'Urville Sea named after this location/explorer; French station; major refugee source for Concordia (Dumont d'Urville Sea coast = primary refugee geography). **Primary Dumont d'Urville Sea port for Australian freighter shipments** (raw materials, staged via Hobart) — mirrors the real French IPEV logistics chain, which runs *L'Astrolabe* out of Hobart despite France being the founding/operating nation; see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Dumont d'Urville Sea named after this location/explorer; French station; major refugee source for Concordia (Dumont d'Urville Sea coast = primary refugee geography). **Primary Dumont d'Urville Sea port for Australian freighter shipments** (raw materials, staged via Hobart) — mirrors the real IPEV logistics chain, which runs *L'Astrolabe* out of Hobart; see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -270,7 +270,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Mirny ("Australian")
 - **Highways:** Hwy 37 ✓
 - **Direct highway neighbors:** Dome Fuji (one direction, Hwy 37), Vostok (other direction, Hwy 37, via the Mountain Pass Airport waypoint) *(corrected 2026-07-13 — previously listed Vostok and Concordia; the same stale route order already fixed on `Highways.md`, `Specs/Vostok.md`, and this file's own Vostok entry back on 2026-07-06, but missed here)*
-- **Notes:** Highest station in Antarctica; Sinian Federation origin; altitude too extreme for population growth; in Mirny subnet despite Sinian Federation ownership — subnets were organized geographically, not nationally; on Hwy 37 between Dome Fuji and Vostok
+- **Notes:** Highest station in Antarctica; Sinian Federation origin; altitude too extreme for population growth; in Mirny subnet — subnets were organized geographically, not nationally; on Hwy 37 between Dome Fuji and Vostok
 
 ---
 
@@ -327,7 +327,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Mirny ("Australian") — **hub city**
 - **Highways:** Hwy 110 — midpoint
 - **Direct highway neighbors:** Davis (west), Casey (east)
-- **Notes:** Hub of the Mirny ("Australian") Arcanet subnet despite being Russian — subnets organized geographically, not nationally; primary refugee source for Concordia. **Hub port for Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) — as the subnet hub, likely the primary receiving point for the Mirny/Mawson subnet coastal supply line, same real-world logistics pattern as Halley (subnet hub, different nationality) receiving South African shipments — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Hub of the Mirny ("Australian") Arcanet subnet — subnets are organized geographically, not nationally (Mirny itself was founded by Russia, China and Australia, `DR-9`); primary refugee source for Concordia. **Hub port for Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) — as the subnet hub, likely the primary receiving point for the Mirny/Mawson subnet coastal supply line, same real-world logistics pattern as Halley (subnet hub, different nationality) receiving South African shipments — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -404,7 +404,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Janbogo
 - **Highways:** Hwy 183, via spur/connecting road, not a main-line stop *(corrected 2026-07-13 — this entry still claimed "Hwy 1, eastern terminus," the exact same false claim already corrected in Fort McMurdo's own entry above on 2026-07-03; Hwy 1's confirmed termini are Marambio and Byrd, both on the Antarctic Peninsula/West Antarctic side — it never reaches the Ross Sea side at all)*
 - **Direct highway neighbors:** Fort McMurdo (adjacent, shared spur access), Janbogo (north, via Hwy 183)
-- **Notes:** Directly adjacent to Fort McMurdo on Ross Island; New Zealand station; reached via the same spur road as Fort McMurdo, not a Hwy 1 junction. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — fittingly, given Scott's own real-world founding nation is New Zealand — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Directly adjacent to Fort McMurdo on Ross Island; New Zealand station; reached via the same spur road as Fort McMurdo, not a Hwy 1 junction. **Ross Sea coastal port receiving New Zealand freighter shipments** (raw materials) — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
 
 ---
 
@@ -415,7 +415,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** None — corrected 2026-07-03, same issue as Juan Carlos. Real-world verification confirmed King George Island sits 160-177km from the mainland Peninsula and from Marambio's causeway landing — far too wide for any bridge, same order of magnitude as Juan Carlos's isolation. `Specs/Sejong.md` already correctly said "TBD — maritime and aviation connections primary."
 - **Direct highway neighbors:** None (no highway access) — Esperanza, Marambio, and Juan Carlos remain nearby Peninsula-cluster neighbors culturally and by shipping/aviation route, just not by road
-- **Notes:** Named after King Sejong the Great (Hangul alphabet creator) — founded by South Korean exiles, but Sejong's own Korean population has since diluted to just 5.79%, its smallest Significant-tier nation, behind the USA's sole 21.65% Primary; a founding-era naming heritage shared with Janbogo, not a living Korean demographic tie (Tepenia's two genuine living Korean centers are Janbogo and Sinheung, Mirny subnet, 34.62% Primary) *(corrected 2026-07-13 — previously "Unified Korea's Antarctic presence alongside Janbogo," overstating present-day relevance and omitting Sinheung; see `Specs/Sejong.md`)*; King George Island = slightly off the peninsula proper
+- **Notes:** Named after King Sejong the Great (Hangul alphabet creator). Founded as a primarily Anglo-Latin society by immigrants from North, Central and South America (`DR-20`); who first established it is open (`DR-20a`). Tepenia's living Korean centers are Janbogo and Sinheung (Mirny subnet, 34.62% Primary); King George Island = slightly off the peninsula proper
 
 ---
 
@@ -430,7 +430,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 ---
 
 ### Sinheung
-- **Real station:** Sinheung Station (Russia)
+- **Real station:** Progress Station (Russia)
 - **Region:** Indian Ocean coast
 - **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Sinheung and Zhongshan sit at effectively identical real-world coordinates, only a few hundred meters apart; differing survival outcomes made no physical sense; resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (now Shirayuki); see `Specs/Sinheung.md`)*
 - **Arcanet subnet:** Mirny *(corrected 2026-07-05 — moved from Mawson, joining Zhongshan and Shirayuki in the Larsemann Hills cluster; real-world geography places it far closer to Davis (Mirny) than to Mawson Station. See `TODO.md`. Highway network unaffected — Hwy 4 remains a physical road independent of Arcanet subnet boundaries.)*

@@ -3,11 +3,11 @@
 ---
 
 **Subnet:** Mawson (hub city)
-**Status:** Damaged; partially operational — the subnet hub, damaged but functioning, the longest continuously-occupied site of any Mawson subnet city
+**Status:** Damaged; partially operational — the subnet hub, damaged but functioning
 **Census Population:** 709,729 humans / 737,004 robots / 1,446,733 combined (Census I, rank 6th of ~34); 427,321 humans / 525,125 robots / 952,446 combined (Census II, rank 9th) *(Census I corrected 2026-07-05 — had drifted from Specs/Official_Population_Census.md)*
 **Location:** Horseshoe Harbor, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E)
 
-**One-liner:** *The city that never stopped being here since 1954 — an Australian founding that gave the whole subnet its name and its patron Saint, its population long since reshaped by the Indian Ocean's own demographic current into something the founders never anticipated.*
+**One-liner:** *The subnet's hub — an Australian founding that gave the whole subnet its name and its patron Saint, its population long since reshaped by the Indian Ocean's own demographic current into something the founders never anticipated.*
 
 ---
 
@@ -23,13 +23,13 @@
 | Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Poland, Netherlands, Thailand, Czech Republic, Ukraine, Vietnam, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Lithuania, Slovenia, Latvia, Estonia |
 
-*Mawson breaks the pattern nearly every Atlantic- and Peninsula-facing Tepenian city follows. Where Halley, Palmer, and most of their subnet neighbors eventually became American-Primary regardless of founding nation, Mawson's Indian Ocean position — facing East Asia and Oceania rather than the Atlantic or South America — produced a China-Primary demographic long-run, with Japan, South Korea, and Indonesia all holding real Significant-tier weight alongside the usual European contributors. Australia, the actual founding-operator nation, holds the founding-wave flag at Significant tier — a strong retention (like Rothera's UK, Sejong's South Korea, Juan Carlos's Spain) rather than being diluted all the way to Notable.*
+*Mawson breaks the pattern nearly every Atlantic- and Peninsula-facing Tepenian city follows. Where Halley, Palmer, and most of their subnet neighbors eventually became American-Primary regardless of founding nation, Mawson's Indian Ocean position — facing East Asia and Oceania rather than the Atlantic or South America — produced a China-Primary demographic long-run, with Japan, South Korea, and Indonesia all holding real Significant-tier weight alongside the usual European contributors. Australia holds the founding-wave flag at Significant tier — a strong retention (like Rothera's UK, Sejong's South Korea, Juan Carlos's Spain) rather than being diluted all the way to Notable.*
 
 ---
 
 ## 2. Founding Story
 
-The Australian Antarctic Division had operated Mawson Station continuously since 1954 — the longest unbroken human occupation of any Tepenian city, predating every other Mawson subnet settlement. Australian exiles inherited that institutional depth directly: operational knowledge, physical infrastructure, and — simply from being the ones who inherited the oldest, most continuously run base on the continent — a genuine sense of territorial legitimacy in their corner of it.
+Mawson Station's infrastructure was standing and serviceable when the Falkland Treaty exiles arrived, and Australian exiles founded the city on it.
 
 The city was named for Sir Douglas Mawson, the greatest Australian polar explorer, whose 1911–14 Australasian Antarctic Expedition and subsequent voyages defined Australian polar identity. In the Tepenian Saints framework, Mawson became St. Douglas — his connection to this city complete in a way no other Tepenian Saint quite matches: the city, the subnet, and the whole surrounding claimed territory all carry his name or legacy.
 
@@ -57,7 +57,7 @@ Mawson's polar night (~36 days) and midnight sun (~37 days) are relatively brief
 
 **Name/concept:** *The Name That Outlasted the Founders*
 
-Mawson's civic identity is built on continuity and inheritance — the oldest continuously-occupied site in its subnet, carrying forward St. Douglas's name and legacy with genuine, complete weight. But the demographic story underneath that continuity is one of quiet, thorough change: the Australian founding population that gave the city and the whole subnet its name has been demographically overtaken by an Indian-Ocean-facing current entirely of its own, with China now the actual Primary-tier majority.
+Mawson's civic identity is built on continuity — the subnet's hub from its founding, carrying forward St. Douglas's name and legacy with genuine, complete weight. But the demographic story underneath that continuity is one of quiet, thorough change: the Australian founding population that gave the city and the whole subnet its name has been demographically overtaken by an Indian-Ocean-facing current entirely of its own, with China now the actual Primary-tier majority.
 
 - **a. Founding tension** — Australia founded the city, gave it its name, its patron Saint, and its territorial legitimacy, and retains a genuine founding-wave presence at Significant tier — but the city's actual long-run demographic character now belongs to China, with Japan/South Korea/Indonesia providing real secondary weight. The name persists; who actually lives under it has changed.
 - **b. Fault lines** — Between deep institutional reverence for St. Douglas and Australian founding heritage, and the lived, everyday reality of a demographically Chinese-Primary city — not a hidden tension, but a genuinely accepted one, since the subnet hub role has always mattered more to Mawson's civic self-image than any single national identity.
@@ -79,7 +79,7 @@ Mawson's civic identity is built on continuity and inheritance — the oldest co
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** people drawn to institutional depth and continuity — Mawson has always been the place with the deepest operational roots of anywhere in its subnet.
+- **The type this city draws:** people drawn to institutional depth and continuity — Mawson has always been the operational center of its subnet.
 - **Vision session, 2026-07-06:** it's genuinely easy to make friends here — a welcoming civic character to match the resort-town comparison above, and a real draw in its own right.
 - **The type this city repels:** anyone seeking a single, uncontested national identity — Mawson's own founding nation is no longer its demographic majority, and the city has made real peace with that gap.
 
@@ -132,7 +132,7 @@ Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian 
 
 - **Sound:** Genuinely multilingual — Chinese, Japanese, Korean, Indonesian, and English all part of ordinary daily soundscape.
 - **Smell:** Cold, coastal, East Antarctic — similar to Mirny's climate character.
-- **Feel:** Institutionally deep and continuous — Mawson feels like the oldest, most settled place in its subnet, because it is.
+- **Feel:** Institutionally deep and continuous — Mawson feels like the most settled place in its subnet.
 - **First impressions for visitors:** The Prince Charles Mountains backdrop and Horseshoe Harbor first, then quickly the genuine demographic plurality of a city whose name and whose population tell two different stories.
 
 ---
@@ -145,7 +145,7 @@ Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian 
 
 - Subnet-hub logistics / Arcanet coordination: 25% — the city's clearly defining civic function
 - Maritime trade: 20% — Holme Bay, Indian Ocean access
-- Technical / scientific: 20% — inherited Australian Antarctic Division research tradition
+- Technical / scientific: 20% — research and technical work
 - Commercial / trade: 15%
 - Hospitality / honeymoon tourism — **vision session, 2026-07-06:** 10%, a genuine economic sector given Mawson's status as Tepenia's go-to honeymoon destination for newly-married human-robot couples
 - Other: 10%
@@ -231,7 +231,7 @@ The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was
 ## 26. Municipal Holidays
 
 - **St. Douglas's Landing** *(placeholder name)* — commemorating the Australasian Antarctic Expedition and Sir Douglas Mawson's legacy
-- **The Unbroken Watch** *(placeholder name)* — an observance marking the city's continuous operation since 1954, the longest of any Mawson subnet city
+- **The Unbroken Watch** *(placeholder name)* — an observance marking the city's continuous operation since its founding
 
 **Honeymoon tradition, proposed 2026-07-07:** a customary visit to the Prince Charles Mountains overlook above Horseshoe Harbor, timed for whichever of polar night or midnight sun happens to be in season during the stay — couples make the trip regardless of which extreme they encounter, treating it as the honeymoon's own defining shared memory.
 
@@ -274,7 +274,7 @@ Becoming a local at Mawson means engaging with both halves of the city's identit
 
 ## 31. Notable Figures
 
-- **Founding Administrator Warrick Zhao** *(placeholder, proposed 2026-07-07)* — steered the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
+- **Founding Administrator Warrick Zhao** *(placeholder, proposed 2026-07-07)* — steered the exile community through the earliest transition from station settlement to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
 - **Hostess Mei-Ling Sorensen** *(placeholder, proposed 2026-07-07)* — the figure most associated, in Mawson's own institutional memory, with formalizing the honeymoon-destination reputation into something deliberately cultivated rather than incidental.
 
 ---

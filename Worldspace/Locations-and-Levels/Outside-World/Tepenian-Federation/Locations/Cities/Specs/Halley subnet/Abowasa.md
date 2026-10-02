@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Halley subnet; Abowasa on the western coastal section; Vestfjella/Kraul Mountains nunatak position)
-**Significance:** The only joint-national founding in Tepenia among non-unified nations — the Swedish polar program (SWEDARP) and Finnish Antarctic Research Program (FINNARP) both contributed to the founding population; **renamed from "Aboa" to "Abowasa" 2026-07-05** (see Founding below for the reasoning); located in the Kraul Mountains/Vestfjella in the western sector of Queen Maud Land, further from the coast than Neumayer; one of the smaller Halley subnet cities and the only dual-national city to remain even partially inhabited after the war
+**Significance:** The only joint-national founding in Tepenia among non-unified nations — Finnish and Swedish exiles founded it together; **renamed from "Aboa" to "Abowasa" 2026-07-05** (see Founding below for the reasoning); located in the Kraul Mountains/Vestfjella in the western sector of Queen Maud Land, further from the coast than Neumayer; one of the smaller Halley subnet cities and the only dual-national city to remain even partially inhabited after the war
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational
 
 ---
@@ -19,7 +19,7 @@
 |------|---------|
 | Primary | USA |
 | Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Belgium, Sweden *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland *(founding operator heritage)*, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -64,7 +64,7 @@
 
 Abowasa sits on Basen nunatak in the Kraul Mountains (Vestfjella) — a range of nunataks and rock outcrops in western Queen Maud Land, part of the Antarctic mainland, not an island: a nunatak is a rock outcrop protruding through the surrounding ice sheet, roughly 130km inland from the coast. The Vestfjella position is further from the Weddell Sea coast than Sanay or Troll, giving Abowasa a more interior character. The nunatak foundation provides bedrock stability.
 
-**Established 2026-07-05 — two stations, not one:** the real-world Aboa (Finland, 1988) and Wasa (Sweden, 1989) are genuinely separate national research stations, not a single joint facility as earlier lore loosely implied — they simply sit only ~200m apart, close enough that they're often discussed together (sometimes as "Aboa-Wasa" or the Nordenskiöld Base) without ever technically merging. This is the more precise, better-grounded explanation for the exile city's dual-national founding: two distinct communities, right on top of each other, naturally growing into one unified settlement given the tiny distance between them — hence the renamed "Abowasa," combining both station names rather than keeping only the Finnish one.
+**Established 2026-07-05 — two stations, not one:** the real-world Aboa (Finland, 1988) and Wasa (Sweden, 1989) are genuinely separate national research stations, not a single joint facility as earlier lore loosely implied — they simply sit only ~200m apart, close enough that they're often discussed together (sometimes as "Aboa-Wasa" or the Nordenskiöld Base) without ever technically merging. The exile city began as two distinct communities, right on top of each other, naturally growing into one unified settlement given the tiny distance between them — hence the renamed "Abowasa," combining both station names rather than keeping only the Finnish one.
 
 **Also established 2026-07-05 — built for winter, used only in summer.** Both real stations were designed and built with the physical capability for year-round occupation (Aboa specifically, by Finland's VTT Technical Research Center), but neither nation ever chose to staff them through the winter — a deliberate operational/budgetary decision, not a structural limitation. Antarctic summer (Nov-Feb) is when field research is actually viable; maintaining a staffed winter presence was never worth the cost for a seasonal research program. This matters for Abowasa's founding: the infrastructure itself was never what limited habitation, only the funding decision — which simply stopped applying once Finnish and Swedish exiles needed a genuine permanent home rather than a seasonal outpost.
 
@@ -128,7 +128,7 @@ The choice to name the city after Turku (Aboa is Latin for Turku) — Finland's 
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on the combined Aboa and Wasa station infrastructure. Finland and Sweden jointly operated here — Finland's FINNARP program and Sweden's SWEDARP (later part of the Swedish Polar Research Secretariat). Both nations contributed founding populations; both national cultures are present in the city from the beginning.
+**Settled:** Post-Falkland Treaty, on the combined Aboa and Wasa station infrastructure. Finnish and Swedish exiles both contributed founding populations; both national cultures are present in the city from the beginning.
 
 **Founding population:** Finnish and Swedish exiles, jointly. The two Scandinavian communities share the city as a matter of founding principle. The coexistence is not an accident — it was built in, quite literally, by the ~200m distance between the two stations they inherited.
 

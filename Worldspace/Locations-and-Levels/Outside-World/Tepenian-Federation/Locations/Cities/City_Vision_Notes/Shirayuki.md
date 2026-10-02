@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: at the time of this 2026-07-06 session, believed to be the only Tepenian city founded by deliberate Upper Earth diplomatic allocation (the Jeju-do Court) rather than organic station inheritance *(corrected 2026-07-13: Sinheung was resolved the same day to share this identical mechanism, allocated to Korea rather than Japan — there are now two such cities, not one; see `Specs/Shirayuki.md` and `Specs/Sinheung.md`)* — Japan was assigned this unoccupied site specifically to prevent China's regional demographic pull from defaulting into a third claim in the Larsemann Hills cluster. At the start of this session, the standard population/GDP tiering method had ironically buried Japan at Significant tier (3.28%) behind China's Primary (19.05%) anyway — the exact outcome the diplomatic allocation was meant to prevent.
+Recap of what was already established going in: at the time of this 2026-07-06 session, believed to be the only Tepenian city founded by deliberate Upper Earth diplomatic allocation (the Jeju-do Court) *(corrected 2026-07-13: Sinheung was resolved the same day to share this identical mechanism, allocated to Korea rather than Japan — there are now two such cities, not one; see `Specs/Shirayuki.md` and `Specs/Sinheung.md`)* — Japan was assigned this unoccupied site specifically to prevent China's regional demographic pull from defaulting into a third claim in the Larsemann Hills cluster. At the start of this session, the standard population/GDP tiering method had ironically buried Japan at Significant tier (3.28%) behind China's Primary (19.05%) anyway — the exact outcome the diplomatic allocation was meant to prevent.
 
 ---
 

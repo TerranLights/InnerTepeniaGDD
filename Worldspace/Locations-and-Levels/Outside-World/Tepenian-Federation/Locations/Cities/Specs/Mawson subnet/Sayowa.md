@@ -6,7 +6,7 @@
 **Arcanet Subnet:** Mawson
 **Access type:** SPUR
 **Highway access:** **Corrected 2026-07-06, twice.** First correction: Sayowa sits at the meeting point of Hwy 4 (western terminus, Mawson-Sinheung Highway → Mawson → Sinheung → Shirayuki), Hwy 7-ext (eastern terminus, ← Princess Elisabeth ← Lazar), and Hwy 37 (Mountain Cut Throughway → Dome Fuji → Kunlun → Vostok → Concordia). **Second correction, same day, following this city's own vision session:** the actual three-way crossing point — **the Sayowa Junction** — is located *near* Sayowa rather than physically inside the city. A large dedicated connecting road, **the Sayowa Spur**, links the city proper to the junction. This reflects Sayowa's real character as a genuinely developed industrial/residential city (fabrication, trucking & dispatch) rather than a place built directly around the highway crossing itself. See `Locations/Infrastructure/Highways.md`.
-**Significance:** Japanese Antarctic Research Expedition (JARE) heritage; name derived from "Syowa" (Shōwa) — the Japanese imperial era name for the reign of Emperor Hirohito (1926–1989); the name carries the weight of mid-20th century Japanese history; island position on East Ongul Island gives Sayowa a defined maritime boundary; geographically westernmost city in the Mawson subnet, bridging toward the Halley subnet territory; a major highway junction connecting to Vostok, Kunlun, Concordia, and the Halley subnet
+**Significance:** Name derived from "Syowa" (Shōwa) — the Japanese imperial era name for the reign of Emperor Hirohito (1926–1989); the name carries the weight of mid-20th century Japanese history; island position on East Ongul Island gives Sayowa a defined maritime boundary; geographically westernmost city in the Mawson subnet, bridging toward the Halley subnet territory; a major highway junction connecting to Vostok, Kunlun, Concordia, and the Halley subnet
 **DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational — critical junction infrastructure, damaged but functioning
 
 ---
@@ -56,7 +56,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan *(founding operator heritage)*, Germany, France, UK, South Korea, Indonesia, Australia |
+| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia |
 | Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -206,7 +206,7 @@ The "Sayowa" name evolved from the original Japanese station name Syowa (romaniz
 
 **Settled:** Post-Falkland Treaty, on Syowa Station infrastructure. JARE operated at this location from 1957. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. JARE's own scientific programs, and any institutional memory of them, did not survive that chain of handoffs — but preserved journals, logs, and orientation manuals did, giving the exiles a real documentary starting point. Learning from a written record isn't the same as being taught by a living institution.)* The exile community inherited the extensive, genuinely functional physical infrastructure left behind, and built their own research culture on it independently.
 
-**Founding population:** Japanese exiles, via JARE's own organic station inheritance. **Corrected 2026-07-06:** this file previously claimed Sayowa is "the primary Japanese Tepenian presence" — that's no longer accurate (and may never have been, once the numbers were actually run). Sayowa's population re-derivation this session confirmed Japan diluted to just 2.71%, buried near the bottom of Significant tier, well behind China's 17.39% Primary. Shirayuki — not Sayowa — is Tepenia's genuine Japan-Primary city (36.27%, see `Specs/Shirayuki.md`), the direct result of its diplomatically-protected Jeju-do allocation. **Surfaced the same session:** this contrast is plausibly not a coincidence — Japan's diplomats at Jeju-do may well have anticipated exactly this outcome for Sayowa (an organically-settled station subject to the same regional Chinese demographic pressure visible everywhere else in the area) and pushed for Shirayuki specifically as a protected backstop. If so, the bet paid off: Sayowa diluted as feared, Shirayuki held as intended.
+**Founding population:** Japanese exiles. **Corrected 2026-07-06:** this file previously claimed Sayowa is "the primary Japanese Tepenian presence" — that's no longer accurate (and may never have been, once the numbers were actually run). Sayowa's population re-derivation this session confirmed Japan diluted to just 2.71%, buried near the bottom of Significant tier, well behind China's 17.39% Primary. Shirayuki — not Sayowa — is Tepenia's genuine Japan-Primary city (36.27%, see `Specs/Shirayuki.md`), the direct result of its diplomatically-protected Jeju-do allocation. **Surfaced the same session:** this contrast is plausibly not a coincidence — Japan's diplomats at Jeju-do may well have anticipated exactly this outcome for Sayowa (subject to the same regional Chinese demographic pressure visible everywhere else in the area) and pushed for Shirayuki specifically as a protected backstop. If so, the bet paid off: Sayowa diluted as feared, Shirayuki held as intended.
 
 The Sayowa name evolved phonetically from the station's Shōwa designation — the imperial era name the Japanese Antarctic program had used since 1957, now settled into a proper Tepenian noun.
 
@@ -214,11 +214,11 @@ The Sayowa name evolved phonetically from the station's Shōwa designation — t
 
 ## Character & Culture
 
-Sayowa had the character of a city built for endurance in a place that offered no compromises. The island position, the sea ice, and the cold demanded refined, disciplined operation rather than a fight against the environment. The station's own uninterrupted research history, running since 1957 without a gap, left the exile community with a working culture shaped by that institution's own emphasis on methodical, long-term work: thorough, patient, unhurried — earned from seven decades of continuous operation, not from any single founding population's temperament. *(Corrected 2026-07-12 — this passage previously framed Sayowa's character as "deeply Japanese," a claim that also no longer matched this file's own corrected demographics: see Founding, below, where Japan's actual population share is confirmed diluted to 2.71%, well behind China's Primary tier.)*
+Sayowa had the character of a city built for endurance in a place that offered no compromises. The island position, the sea ice, and the cold demanded refined, disciplined operation rather than a fight against the environment. That demand left the exile community with a working culture built on methodical, long-term work: thorough, patient, unhurried — earned from their own generations of operation in that environment, not from any single founding population's temperament. *(Corrected 2026-07-12 — this passage previously framed Sayowa's character as "deeply Japanese," a claim that also no longer matched this file's own corrected demographics: see Founding, below, where Japan's actual population share is confirmed diluted to 2.71%, well behind China's Primary tier.)*
 
 The geographic position — westernmost Mawson subnet city, closest to the Halley subnet — gave Sayowa a slightly liminal quality within its own subnet. It was the city that faced west more than east, that had the most geographic relationship to the Halley subnet's eastern cities, formalized in the exile era as a genuine highway junction (Hwy 37 toward Vostok/Kunlun/Concordia, Hwy 7-ext toward Princess Elisabeth and Lazar) — Sayowa became critical infrastructure precisely because of the liminal position its geography always gave it.
 
-**Nationally known for:** The Sayowa name. The island position in Lützow-Holm Bay. The long JARE research heritage. The westernmost Mawson subnet city. Being the critical junction between the Mawson subnet, the inland Concordia route, and the Halley subnet.
+**Nationally known for:** The Sayowa name. The island position in Lützow-Holm Bay. The westernmost Mawson subnet city. Being the critical junction between the Mawson subnet, the inland Concordia route, and the Halley subnet.
 
 ---
 
@@ -236,13 +236,13 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ---
 
 ## Notable Figures
-- **JARE Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, proposed `Sayowa_Full_Extrapolation.md` Section V)* — a present-day keeper of Sayowa's Shōwa-era naming history and JARE's own research tradition.
+- **Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, proposed `Sayowa_Full_Extrapolation.md` Section V)* — a present-day keeper of Sayowa's Shōwa-era naming history and the city's own research tradition.
 - **Junction Coordinator Wei-Lin Andersen** *(placeholder, same section)* — a present-day figure overseeing the practical work of keeping the Sayowa Junction functional across multiple parties' overlapping dependency on it.
 
 ---
 
 ## Connection to Concordia
-Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (36.27% Japan-Primary), not Sayowa's (Japan diluted to 2.71%). Sayowa retains its own genuine Japanese founding heritage and JARE institutional history, but any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Sayowa's proximity to Hwy 37's junction (just off Hwy 7-ext) gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Vostok — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
+Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (36.27% Japan-Primary), not Sayowa's (Japan diluted to 2.71%). Sayowa retains its own genuine Japanese founding heritage, but any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Sayowa's proximity to Hwy 37's junction (just off Hwy 7-ext) gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Vostok — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
 
 ---
 
@@ -255,7 +255,7 @@ Sayowa was damaged during the Long Night War but remains partially operational �
 ---
 
 ## Legacy
-Sayowa's legacy is dual: the JARE tradition extended across exile — one of the most methodical and persistent scientific programs in Tepenia, now re-rooted in a community rather than a research mission — and, layered on top of that scientific inheritance, the city's eventual role as one of the most structurally critical pieces of infrastructure in post-war Tepenia, a junction the whole continent's connectivity plausibly depends on.
+Sayowa's legacy is dual: its own methodical, persistent scientific culture — one of the most patient research traditions in Tepenia — and, layered on top of that, the city's eventual role as one of the most structurally critical pieces of infrastructure in post-war Tepenia, a junction the whole continent's connectivity plausibly depends on.
 
 ---
 

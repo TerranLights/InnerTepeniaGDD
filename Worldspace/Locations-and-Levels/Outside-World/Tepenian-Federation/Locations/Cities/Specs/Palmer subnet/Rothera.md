@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Palmer ("American")
 **Access type:** SPUR
 **Highway access:** **Corrected 2026-07-06** — Rothera is reached via a **road ramp** off the Hwy 1 mainline, near the highway's western terminus at Byrd. See `Locations/Infrastructure/Highways.md`.
-**Significance:** Tepenian city on Adelaide Island; one of the largest BAS installations in Antarctic history; one of the few Tepenian cities with confirmed aviation infrastructure (a paved runway, in operation from the real-world BAS era); island-positioned city on the west coast of the Peninsula; **the Palmer subnet's industrial center** — raw materials processed into finished infrastructure components used across the whole subnet, including Palmer City itself
+**Significance:** Tepenian city on Adelaide Island; one of the few Tepenian cities with confirmed aviation infrastructure (a paved runway); island-positioned city on the west coast of the Peninsula; **the Palmer subnet's industrial center** — raw materials processed into finished infrastructure components used across the whole subnet, including Palmer City itself
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged but functional — one of the few operational nodes in an otherwise ruin-dominated DLC
 
 ---
@@ -163,9 +163,9 @@ Rothera was one of the few Antarctic stations with a paved runway. The Bonner La
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on the Rothera Research Station infrastructure. The BAS had operated at Rothera since 1975 — nearly six centuries of continuous British Antarctic presence before the exile era. The exile settlement inherited one of the most developed and well-maintained station sites on the Peninsula.
+**Settled:** Post-Falkland Treaty, on the Rothera Research Station infrastructure. The BAS had operated at Rothera since 1975. The exile settlement inherited one of the most developed and well-maintained station sites on the Peninsula.
 
-**Founding population:** Primarily British exiles. Both Rothera and Halley have British Antarctic Survey origins, giving the British exile community a presence on two coasts — the Peninsula's west side and the Atlantic's Queen Maud Land coast. The cultural connection between Rothera and Halley, despite their geographic distance, would have been real.
+**Founding population:** Primarily British exiles. Both Rothera and Halley were founded by British exiles, giving the British exile community a presence on two coasts — the Peninsula's west side and the Atlantic's Queen Maud Land coast. The cultural connection between Rothera and Halley, despite their geographic distance, would have been real.
 
 The paved runway — inherited from the BAS era — gave Rothera a practical distinction from other Peninsula cities. Aviation infrastructure in Tepenia is rare; Rothera had it from the beginning.
 
@@ -227,7 +227,7 @@ The city occupies Rothera Point on Adelaide Island, with its industrial faciliti
 
 ## Legacy
 
-Rothera's legacy is its infrastructure and its continued function — the runway, the BAS institutional knowledge, the demonstration that the Peninsula could support an aviation-capable, industrially productive city in a climate this maritime. In the DLC 3 landscape, Rothera is the site that most concretely represents what the Palmer subnet still has, in practical operational terms — not the ruin the rest of the Peninsula became, but the place that still makes the Peninsula's continued survival physically possible.
+Rothera's legacy is its infrastructure and its continued function — the runway, the demonstration that the Peninsula could support an aviation-capable, industrially productive city in a climate this maritime. In the DLC 3 landscape, Rothera is the site that most concretely represents what the Palmer subnet still has, in practical operational terms — not the ruin the rest of the Peninsula became, but the place that still makes the Peninsula's continued survival physically possible.
 
 ---
 

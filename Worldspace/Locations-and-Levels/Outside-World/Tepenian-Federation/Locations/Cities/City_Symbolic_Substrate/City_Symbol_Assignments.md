@@ -50,7 +50,7 @@ from each city's actual pre-war-established character instead.
 > effect on something else rather than direct presence)* holds: Belgrano's medics and freight are felt
 > across the country, at places that are not Belgrano.
 
-**Overlap between cities is expected and, in places, deliberate** — with only 10 planets and 8 elements across
+**Overlap between cities is expected and, in places, deliberate** — with only 11 planets and 8 elements across
 35 entities, some repetition is mathematically inevitable, and a few repeats specifically echo already-
 established lore rather than being arbitrary: Kunlun, Vostok, and Dome Fuji all landing on **Pluto**
 (Isolation) mirrors their already-established extreme-isolation kinship and Ice Cold Buddhism connection, not
@@ -114,7 +114,7 @@ coincidence.
 | Vostok | Pluto | ⏸️ | Tepenia's other loneliest outpost, deep biological/genetic research |
 | Zhongshan | Saturn | Metal | "The Quiet City" — self-sufficient, ordered complexity, content unexamined |
 | Sinheung | Uranus | Electricity | An outlier by its own outsized national pride, distinguishing itself forcefully from Tepenia's quieter post-national norm — unlike Sayowa's own quiet, uncredited service work, Sinheung wants to be noticed. Also the literal chamber-manufacturing city, animating inert matter into life |
-| Shirayuki | Uranus | Fire | A natural outlier — a place people will make excuses to be able to move to |
+| Shirayuki | Uranus | Air | ⭐ **Re-derived 2026-09-27, ULM Phase 10 §B3 — Uranus confirmed, Element revised from Fire (never grounded).** Uranus: an identity built entirely after a defining event it never chose (the Jeju-do allocation), reoriented as the new baseline rather than damage to fix. Air: a persistent, unseen, directional wind is the one agent present in nearly every finding this pass produced — felt, never seen, no face or name, sheltering when still and stripping when not, exactly Air's own stated duality. Full derivation: `City_Development_Passes/Mirny_Subnet/Shirayuki/04_Phase_10_Catalog.md` §B3 |
 
 ## Janbogo Subnet
 
@@ -244,6 +244,42 @@ isn't only isolation-bonding: **it is what happens when the most capable people 
 through the same small facility for a century.** *Flagged for the developer as candidate material, not
 asserted canon.*
 
+## ⛔⛔ FLAGGED, NOT RE-DERIVED — the `Why MAGNETISM` table above quotes withdrawn text
+
+**Found while adding the Sun, unrelated to it.** `Robot_Elementals.md`'s Electromagnetism entry was reverted
+to Magnetism, name and scope, under `DR-1` — the signal/transmission half of the old meaning was withdrawn
+and given to Electricity instead. The table above quotes that withdrawn half directly: *"signal and
+transmission… by a field rather than a wire"* and the negative's *"a signal is also a vulnerability… jammed,
+intercepted, or spoofed"* are no longer in the file. ⭐ **The other three rows are not casualties — they read
+AS OR MORE strongly against the rebuilt entry:** the pole/alignment material (*"a north pole is only
+meaningful because a south pole exists"*, *"alignment and orientation"*) is now the rebuilt Magnetism's own
+core claim (no monopoles; magnetization as alignment, not addition), stated with more precision than the
+original derivation had available. **Needs a re-derivation pass against the current entry, not a patch — not
+done here.**
+
+## ⏸️ FLAGGED FOR REVIEW — the Sun, added above, and this entity's own energy role
+
+**Raised by the developer, 2026-09-23**, on adding the Sun as an eleventh Planetary Symbol (`Planetary_Symbols.md`).
+**Not decided here — this entity's own symbol pair is not open for reassignment outside its own review.**
+
+- **The real physical point, stated plainly:** the Sun does not manage, balance, or distribute anything — it
+  radiates the same in every direction, and distribution is entirely a property of what receives it, never of
+  the source. **Managing and balancing power INPUT/OUTPUT across six subnets is an ENGINEERING function** —
+  closer to what an electrical grid operator does than to what a star does. That distinction may matter more
+  than the surface resemblance between "the country's power source" and "the Sun."
+- **The Sun's own Neptune-adjacent hook, already sitting in this file:** the `Why NEPTUNE` table above already
+  quotes Neptune's own text — *"intensity that has nothing to do with proximity to the source of energy"* —
+  and reads it as *"the city that regulated the nation's energy, from its furthest edge."* **That clause names
+  "the source of energy" as a contrast concept. It now has a literal referent it didn't have when this
+  derivation was written.**
+- **The rejected-candidates table above already considered Electricity for exactly Amundsen's power-regulation
+  role**, and refused it only because *"the developer's emphasis was **data** infrastructure, which is signal,
+  not power."* **If a future review weighs the Sun here, that refusal's own reasoning — data vs. power — is
+  the fork to re-examine first**, not a reason to assume the Sun fits better.
+
+⛔ **Not a candidate swap. Not a conclusion.** This entity's Planet+Element pair stays Neptune+Magnetism until
+a real review says otherwise.
+
 ---
 
 ## A Tenth Solar Symbol: The Asteroid Belt
@@ -287,12 +323,19 @@ through effect/record rather than direct presence."
 > **The previous note read:** *"Magnetism's single use (Sanay) is deliberate rather than an oversight
 > — Sanay's literal Arcanet nexus is the one city whose established function maps directly onto the
 > element's own 'invisible bonds, signal and transmission' meaning; **forcing a second use elsewhere would
-> have been arbitrary.**"* **That reasoning stands, and Sanay keeps its entry in full.**
+> have been arbitrary.**"* ⛔ **THAT QUOTE NAMES THE WITHDRAWN HALF OF THE MEANING** — *"signal and
+> transmission"* was reassigned to Electricity under `DR-1`. **Whether Sanay's assignment still holds needs
+> its own re-derivation against the current Magnetism entry; "that reasoning stands" is no longer a safe
+> claim — flagged, not re-derived, same as Amundsen's identical case above.**
 >
 > ⭐ **Amundsen Station is the one warranted exception: Sanay holds ONE subnet's nexus, Amundsen holds the
 > node connecting ALL SIX.** *The higher-order case of the identical function.* **They are a scale pair, not
 > a collision.** ⚠ **And the original note was written while Amundsen was absent from this file entirely —
 > it never considered this entity.** *Its claim, that no CITY warranted a second use, remains true.*
-**Davis, 2026-08-05:** moved from Wood to Earth — Davis now carries Earth as both planet and element, a
-deliberate doubling-down rather than an oversight, matching how thoroughly "breadbasket/grounded" defines the
-city.
+⛔ **Davis, 2026-08-05 (SUPERSEDED 2026-09-16):** the city's Earth/Earth doubling from that date is no longer
+current — its row above is BLANK, per direct developer ruling: *"for now, for the current time, we can just
+make that blank... do not fill from the breadbasket reading; Davis is also a port city, and the symbol is
+open."* **Kept here only as a record that this was tried and set aside, not as a standing fact.** Davis's own
+`04_Phase_10_Catalog.md` (written 2026-09-23, after the Robot Elementals rebuild) carries no §B3 section yet —
+whenever that determination is actually run, it starts from a blank slate, not from "breadbasket," and against
+the current, physically-derived element definitions.

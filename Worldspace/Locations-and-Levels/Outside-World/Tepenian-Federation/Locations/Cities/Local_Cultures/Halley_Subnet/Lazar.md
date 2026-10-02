@@ -7,7 +7,7 @@
 **Census II Population:** 861,206 humans / 942,771 robots / **1,803,977 combined — rank 1st of ~30, Tepenia's single largest city** *(grown through sustained organic immigration, most heavily from Janbogo, Zukelli, and Esperanza — see `Official_Population_Census.md`. Census I combined: 2,620,319, also rank 1st — the gap over the #2 city is roughly 46% pre-war and 53% post-war, a genuinely standalone tier above every other Tepenian city.)*
 **Location:** Schirmacher Oasis, Queen Maud Land (~70°46'S, 11°44'E)
 
-**One-liner:** *Tepenia's largest city, and its only one with no single founding story — two separate settlements, one inherited from a continuously-run Russian station and one improvised from an unoccupied Indian one, that grew into each other, outgrew their own combined name, and outgrew every other city in the Federation besides.*
+**One-liner:** *Tepenia's largest city, and its only one with no single founding story — two separate settlements, one built on a Russian station's infrastructure and one improvised from an unoccupied Indian one, that grew into each other, outgrew their own combined name, and outgrew every other city in the Federation besides.*
 
 ---
 
@@ -20,10 +20,10 @@
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany, France, UK, Russia *(founding infrastructure heritage)*, Brazil |
+| Significant | Germany, France, UK, Russia, Brazil |
 | Notable | Poland, Netherlands, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Lazar has the broadest, most evenly-split Significant tier of any Halley subnet city — five nations (Germany, France, UK, Russia, Brazil) at comparable strength beneath the American Primary, rather than the usual one or two. That breadth is a direct legacy of the city's founding: rather than one nation's population gradually being diluted by American immigration, Lazar began as two separate communities and never had a single clean cultural default to dilute in the first place. Russia's "founding infrastructure heritage" flag — a different label from the "founding operator heritage" used elsewhere in this subnet — reflects a genuinely different relationship: Russia didn't found the city's actual population so much as provide the literal, continuously-functioning physical infrastructure (the real Novolazarevskaya Station, unbroken since 1961) that the city was built on and around.*
+*Lazar has the broadest, most evenly-split Significant tier of any Halley subnet city — five nations (Germany, France, UK, Russia, Brazil) at comparable strength beneath the American Primary, rather than the usual one or two. That breadth is a direct legacy of the city's founding: rather than one nation's population gradually being diluted by American immigration, Lazar began as two separate communities and never had a single clean cultural default to dilute in the first place.*
 
 ---
 
@@ -144,7 +144,7 @@ A broad, genuinely mixed musical culture that never settled on one dominant soun
 ## 15. Division of Industry
 
 - Commercial / trade: 20% — leveraging the city's real scale and eastern Hwy 7/Hwy 7-ext junction role
-- Technical / scientific: 20% — inherited Novolazarevskaya research and logistics tradition
+- Technical / scientific: 20% — research and logistics
 - Industrial / manufacturing: 20% — reconstruction and maintenance post-war
 - Marine / resource extraction: 15%
 - Education: 15%
@@ -167,7 +167,7 @@ Robot culture here reflects the city's scale and dual-settlement history — sub
 ## 18. Religious / Philosophical Landscape
 
 - No dominant formal religion; the closest shared value is a practical ethic of integration — five national communities and two settlement origins coexisting without any one claiming precedence.
-- A specific pride in Novolazarevskaya's unbroken operational history — a station, and now a city, that has never fully gone dark, tested but not broken by the Long Night War.
+- A specific pride in the old core's unbroken operational history — a city that has never fully gone dark, tested but not broken by the Long Night War.
 
 ---
 
@@ -216,14 +216,13 @@ Substantial, reflecting the city's genuine scale — likely the most active Arca
 ## 25. Export Culture
 
 - Genuine urban-scale expertise — Lazar-trained specialists in managing a large, demographically plural city are recognized across the subnet
-- The Novolazarevskaya logistics tradition — real-world DROMLAN air-network heritage, whatever institutional form it took in Tepenia
 - A specific *type of person* — comfortable with genuine scale and plurality, recognizable by an ease with complexity that smaller Halley subnet cities' residents don't share
 
 ---
 
 ## 26. Municipal Holidays
 
-- **The Unbroken Watch** *(placeholder name)* — commemorating Novolazarevskaya's real, continuous, never-interrupted operational history
+- **The Unbroken Watch** *(placeholder name)* — commemorating the old core's continuous, never-interrupted operation since the city's founding
 - **Coalescence Day** *(placeholder name)* — marking the historical merger of the two founding settlements into one city
 
 ---

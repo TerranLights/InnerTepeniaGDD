@@ -208,7 +208,7 @@ Dome Fuji's culture was shaped from the beginning by the altitude question. Who 
 
 The robot population had different concerns — technical rather than physiological — and over generations, Dome Fuji's demographic composition may have shifted toward a higher proportion of robots than the founding generation. A city where robots can function at full capacity and humans cannot is a city where the balance between species gradually changes.
 
-The founding research station gave Dome Fuji its earliest social character — a small, isolated scientific mission adapting its own institutional discipline to conditions no one at the site had faced before. How that character was maintained, adapted, and transformed over centuries at 3,810 meters — and how much of it survived the founding population's eventual departure — is TBD.
+Dome Fuji's earliest social character was that of a small, isolated founding community adapting to conditions no one at the site had faced before. How that character was maintained, adapted, and transformed over centuries at 3,810 meters — and how much of it survived the founding population's eventual departure — is TBD.
 
 **Nationally known for:** The altitude. Being alive but compromised. The dome location — one of the flattest, highest, most featureless points in Antarctica. As a pilgrimage site for practitioners of "Ice Cold Buddhism" (placeholder name — see Robot Religions in TODO).
 

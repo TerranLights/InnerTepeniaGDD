@@ -137,8 +137,11 @@ and Alaska's Matanuska-Susitna Valley sets vegetable records on ~20-hour days.
 | **Outdoor field** | 1.5 | **15.6** | **1.7%** |
 
 > ## ⭐ **Moving the staple tier outdoors saves ~88 TWh/yr — very nearly 10% of national electricity
-> consumption — in a country whose CURRENCY IS DENOMINATED IN GUARANTEED GRID CAPACITY.**
-> **This is not a farming decision. It is a monetary one.**
+> consumption.** ⛔ **Corrected 2026-09-26: the earlier claim that Tepenia's currency is "denominated in
+> guaranteed grid capacity" is NOT canon — nothing about what the currency is backed by is settled, at any
+> stage (`DR-3`).**
+> **This is still a real power-allocation decision, whatever the monetary system turns out to be — grid
+> capacity is scarce and load-bearing on its own terms, independent of any currency claim.**
 
 ### ⛔ Land — and this is the constraint that caps the whole idea
 

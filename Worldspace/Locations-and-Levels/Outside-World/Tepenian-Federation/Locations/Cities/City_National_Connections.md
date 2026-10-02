@@ -9,6 +9,12 @@ Historical Vignettes batch 2 pass (`Historical_Vignettes_Progress_Tracker.md`) w
 the-war cities (Zukelli, Princess Elisabeth, Denison) are included as they stood during this living period, not
 as their later ruined state.
 
+> ⛔ **Not canon as a source: the Historical Vignettes and Course of Events files** (developer ruling). A connection
+> below that rests only on them is not an input to any ULM, CST or RWBEM pass. A connection that ties two cities
+> through a real station, its operator, a namesake or the real site's history is not an input either (`DR-19`,
+> `DR-28`); the tie between the two cities stays, and its reason is re-grounded in routes, trade, supply or the
+> census.
+
 **Relationship to `City_Cross_Subnet_Relationships.md`:** that file is the physical-infrastructure and
 already-cataloged-connections foundation this one builds on and extends — its highway/aviation network
 findings and Part 2/3/4 threads are folded in below rather than repeated in full. This file goes further in two
@@ -59,17 +65,17 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Davis** (Mirny) — Medium, Scientific. The two most genuinely comparable "hard science" civic identities in
   the country — long-term, multi-generational atmospheric/glaciological research at Neumayer, paleoclimate
   sediment-core research at Davis — a natural professional correspondence once full connectivity exists.
-- **Lazar** (Halley) — Medium, Historical. The nearest confirmed Halley subnet neighbor; Novolazarevskaya's own
-  real-world DROMLAN air-logistics-hub heritage plausibly gave founding-era Lazar and Neumayer a working
-  logistics relationship neither city's own file has fully developed yet.
+- **Lazar** (Halley) — Medium, Historical. The nearest confirmed Halley subnet neighbor, a proximity that
+  plausibly gave founding-era Lazar and Neumayer a working logistics relationship neither city's own file has
+  fully developed yet.
 
 ### Belgrano
 - **Byrd** (Byrd) — Strong, Historical/Infrastructure. Maps recovered from Belgrano's own archives contributed
   directly to the expedition that located and founded Byrd — Tepenia's founding overland-exploration story.
 - **Esperanza** (Palmer) — Medium, Cultural/Demographic. Argentina's only three founding-population cities in
   the country, split across two subnets — a real, if thin, cross-subnet Argentine cultural thread.
-- **Marambio** (Palmer) — Medium, Demographic/Aviation. Shares Argentine Air Force founding heritage with
-  Marambio; both cities are their own subnet's primary aviation hub, a natural professional correspondence.
+- **Marambio** (Palmer) — Medium, Demographic/Aviation. Both Argentine-founded cities, and both their own
+  subnet's primary aviation hub, a natural professional correspondence.
 - **Sanay** (Halley) — Strong, Logistics. Both South African freighter receiving ports for the Halley subnet,
   interchangeable depending on which passage is open, feeding the same overland Hwy 7 distribution chain.
 - **Troll** (Halley) — Strong, Logistics. Belgrano's own received freight moves onward through Troll's own
@@ -126,7 +132,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 
 ### Princess Elisabeth
 - **Sayowa** (Mawson) — Strong, Social/Cultural. Tepenia's single most geographically adjacent inter-subnet
-  proximity; a sustained, generations-deep Japanese-heritage family correspondence connects the two cities,
+  proximity; a sustained, generations-deep family correspondence connects the two cities,
   predating and outlasting the formal Hwy 7-ext highway link.
 - **Dome Fuji** (Mawson) — Medium, Geographic/Cultural. The closest Halley subnet city to Dome Fuji by
   longitude, though the exact highway link is unconfirmed; a plausible minor pilgrimage-adjacent connection
@@ -150,9 +156,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   (Novolazarevskaya and the unoccupied Maitri site) parallels Sejong's own multinational-coexistence-by-
   necessity founding, though Lazar's merger was demographic rather than a live negotiation.
 - **Abowasa** (Halley) — Medium, Cultural. The same coalescence-versus-coexistence parallel.
-- **Neumayer** (Halley) — Medium, Historical. The nearest confirmed Halley subnet neighbor; Novolazarevskaya's
-  own real-world DROMLAN air-logistics-hub heritage plausibly gave founding-era Lazar and Neumayer a working
-  logistics relationship neither city's own file has fully developed yet.
+- **Neumayer** (Halley) — Medium, Historical. The nearest confirmed Halley subnet neighbor, a proximity that
+  plausibly gave founding-era Lazar and Neumayer a working logistics relationship neither city's own file has
+  fully developed yet.
 - **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 7-ext runs from the Sayowa Junction directly to Lazar,
   giving the Mawson subnet's own connective hub a direct physical link to Tepenia's single largest city.
 
@@ -201,8 +207,8 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ### Marambio
 - **Esperanza** (Palmer) — Strong, Economic. The bulk-cargo half of the established shipping division of labor
   with Esperanza's own smaller-scale, higher-value shipments.
-- **Belgrano** (Halley) — Medium, Demographic/Aviation. Shares Argentine Air Force founding heritage; both
-  cities are their own subnet's primary aviation hub.
+- **Belgrano** (Halley) — Medium, Demographic/Aviation. Both Argentine-founded cities, and both their own
+  subnet's primary aviation hub.
 - **Byrd** (Byrd) — Medium, Infrastructure. A secondary/backup logistics link into the Palmer-Byrd-Mirny
   overland corridor alongside Hwy 1.
 
@@ -220,10 +226,10 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Palmer City** (Palmer) — Strong, Political/Economic. The Machu Picchu gateway corridor Palmer City's own
   tourism economy depends on.
 - **Juan Carlos** (Palmer) — Strong, Political/Economic. The same shared gateway.
-- **Janbogo** (Janbogo) — Medium, Demographic. One of Tepenia's three Korean-founded cities — genuine but
-  limited, ceremonial kinship rather than close operational ties, per the established "kin, not siblings"
+- **Janbogo** (Janbogo) — Medium, Demographic. Janbogo's Korean founding and Sejong's own Korean community
+  (Significant tier) — genuine but limited, ceremonial kinship rather than close operational ties, per the established "kin, not siblings"
   framing.
-- **Sinheung** (Mirny) — Medium, Demographic. The same Korean-founded kinship.
+- **Sinheung** (Mirny) — Medium, Demographic. Sinheung's Korean founding and Sejong's own Korean community (Significant tier).
 - **Abowasa** (Halley) — Medium, Cultural. Both cities solved a genuine multinational-coexistence problem at
   founding.
 - **Lazar** (Halley) — Medium, Cultural. Lazar's own coalescence from two settlements parallels Sejong's own
@@ -294,7 +300,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   including Casey's own technical circles.
 
 ### Davis
-- **Mawson** (Mawson) — Medium, Cultural/Historical. Shared Australian Antarctic naming heritage, and — the
+- **Mawson** (Mawson) — Medium, Cultural/Historical. Both Australian-founded cities (`DR-19`), and — the
   deeper, undeveloped thread — Davis's own real-world namesake personally captained the rescue voyage that
   saved Mawson's own real-world namesake's stranded expedition party.
 - **Casey** (Mirny) — Strong, Cultural. Part of the intra-subnet Australian-heritage network.
@@ -371,9 +377,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   ruins-era garage bypasses a stat-gate on Sinheung's own plane-repair sidequest.
 - **Princess Elisabeth** (Halley) — Medium, Demographic. Both share genuine Japanese-heritage demographic
   presence — a real, if never dramatized, kinship once full connectivity exists.
-- **Sejong** (Palmer) — Medium, Demographic. One of Tepenia's three Korean-founded cities — genuine but
+- **Sejong** (Palmer) — Medium, Demographic. Sejong's Korean community (Significant tier) — genuine but
   limited, ceremonial kinship.
-- **Janbogo** (Janbogo) — Medium, Demographic. The same Korean-founded kinship.
+- **Janbogo** (Janbogo) — Medium, Demographic. Both Korean-founded cities.
 - **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Sinheung,
   the same Spur/Junction link that reaches Shirayuki alongside it — distinct from the general Mawson-city
   import route above, this is the specific Sayowa-anchored physical connection.
@@ -381,11 +387,10 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ### Shirayuki
 - **Zhongshan** (Mirny) — Strong, Cultural/Political. Part of the Larsemann Hills Tri-Cities cluster.
 - **Sinheung** (Mirny) — Strong, Cultural/Political. The same Tri-Cities cluster.
-- **Sayowa** (Mawson) — Medium, Cultural. Shirayuki's own Bharati-Station-descended founding and Sayowa's own
-  JARE heritage are Tepenia's two clearest living Japanese-institutional-heritage civic identities, outside
-  Sinheung's and Princess Elisabeth's demographic (not institutional) Japanese presence.
 - **Princess Elisabeth** (Halley) — Medium, Demographic. Both share genuine Japanese-heritage demographic
   presence.
+- **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction to Shirayuki, the same
+  Spur/Junction link that reaches Sinheung alongside it.
 
 ---
 
@@ -394,9 +399,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ### Janbogo
 - **Zukelli** (Janbogo) — Strong, Social. The pre-war "Crossing" tradition — informal visits blurring who was
   hosting whom — reflected genuine, deep closeness between the two neighboring cities.
-- **Sejong** (Palmer) — Medium, Demographic. One of Tepenia's three Korean-founded cities — genuine but
+- **Sejong** (Palmer) — Medium, Demographic. Sejong's Korean community (Significant tier) — genuine but
   limited, ceremonial kinship rather than close operational ties.
-- **Sinheung** (Mirny) — Medium, Demographic. The same Korean-founded kinship.
+- **Sinheung** (Mirny) — Medium, Demographic. Both Korean-founded cities.
 - **Mawson** (Mawson) — Medium, Cultural. Tepenia's other deliberately hospitality-forward civic identity,
   though built on tourism rather than transit hospitality.
 - **Esperanza** (Palmer) — Medium, Demographic. Thinned by the same sustained emigration to Lazar as Janbogo
@@ -485,7 +490,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   commissioned out of Mawson.
 - **Palmer City** (Palmer) — Medium, Economic/Cultural. Tepenia's two deliberately-cultivated hospitality
   economies.
-- **Davis** (Mirny) — Medium, Cultural/Historical. Shared Australian Antarctic naming heritage, plus the
+- **Davis** (Mirny) — Medium, Cultural/Historical. Both Australian-founded cities (`DR-19`), plus the
   deeper real-world rescue connection between the two cities' own namesakes.
 - **Sinheung** (Mirny) — Medium, Infrastructure. Sinheung receives its own imports via the city of Mawson.
 - **Janbogo** (Janbogo) — Medium, Cultural. Tepenia's other deliberately hospitality-forward civic identity.
@@ -493,7 +498,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ### Dome Fuji
 *(Framing note: Dome Fuji's own Ice Cold Buddhist devotee community and its connection to Kunlun postdate the
 Tower's completion by a comfortable margin under either candidate completion date — at Tower-completion time,
-Dome Fuji is still its own JARE-descended research station. Connections below reflect that era; the
+Dome Fuji is still a research station. Connections below reflect that era; the
 devotee-era connection to Kunlun is noted separately as a later, still-pre-war development.)*
 - **Troll** (Halley) — Strong, Infrastructure/Economic. One of Dome Fuji's three confirmed aviation supply
   routes, direct by air.
@@ -520,13 +525,13 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
 - **Dome Fuji** (Mawson) — Strong, Infrastructure. Sayowa is Dome Fuji's own overland supply-chain gateway and
   aviation-route origin point.
 - **Princess Elisabeth** (Halley) — Strong, Social/Cultural. Tepenia's single most geographically adjacent
-  inter-subnet proximity, sustained by a generations-deep Japanese-heritage family correspondence.
-- **Shirayuki** (Mirny) — Medium, Cultural. Sayowa's own JARE heritage and Shirayuki's own Bharati-Station
-  founding are Tepenia's two clearest living Japanese-institutional-heritage civic identities.
+  inter-subnet proximity, sustained by a generations-deep family correspondence.
 - **Lazar** (Halley) — Medium, Infrastructure. Hwy 7-ext runs from the Sayowa Junction directly to Lazar,
   giving Tepenia's single largest city a direct physical link to the Mawson subnet's own connective hub.
 - **Sinheung** (Mirny) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Sinheung, the
   same Spur/Junction link that reaches Shirayuki alongside it.
+- **Shirayuki** (Mirny) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Shirayuki,
+  alongside the same Spur/Junction link to Sinheung.
 - **Halley subnet cities generally** — Medium, Infrastructure. The Sayowa Junction is the confirmed
   convergence point for Halley subnet's own Hwy 7/7-ext spine, giving Sayowa indirect logistics relevance to
   every Halley subnet city, not only Princess Elisabeth and Lazar.
@@ -573,13 +578,10 @@ map:
 2. **Fort McMurdo's Euro-heavy demographic anomaly** within an otherwise Pacific-facing subnet — a plausible,
    thematically apt consequence of being the national capital, worth developing into an actual migration
    story.
-
-**Resolved since this list was first written, 2026-08-06:**
-- **Hwy 59's Arcanet Line** (Halley ↔ Amundsen Station) — developed into its own Course of Events chain
-  (`Halley_09_One_Road_Two_Signals.md`) plus multiple Historical Vignettes entries; no longer open.
-- **The Davis/Mawson real-historical-rescue connection** — dramatized across three separate Historical
-  Vignettes entries in Davis's and Mawson's own files (a joint historical-research effort confirming the
-  connection, a founding-era honoring of it, and Mawson's own follow-up inquiry); no longer open.
+3. **Hwy 59's Arcanet Line** (Halley ↔ Amundsen Station) — still open in canon; the Course of Events and
+   Historical Vignettes material written on it is not canon.
+4. **The Davis/Mawson connection** — still open in canon; the Historical Vignettes material written on it is not
+   canon. A connection resting on the two namesakes' real history is not an input (`DR-28`).
 
 ---
 

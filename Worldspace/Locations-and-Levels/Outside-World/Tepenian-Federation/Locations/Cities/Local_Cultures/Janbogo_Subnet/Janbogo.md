@@ -20,7 +20,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, Germany, Italy, South Korea *(founding operator)*, Canada, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Germany, Italy, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
 *Janbogo is Tepenia's clearest case of a founding-era civic template surviving its own demographic minority status. Unified Korea founded the city, gave it its name, and set its earliest civic institutions in place — teahouses, communal warmth, the instinct to make daily life worth living under difficult conditions, all worked out independently by the founding population out of the city's own circumstances. But over roughly two and a half centuries, the sheer scale of Chinese and American emigration potential outweighed Korea's smaller founding population, and China and USA became the numerically dominant lineages. The culture did not follow the numbers. It stayed exactly as it was built. People whose ancestry is Chinese, American, Japanese, German — the demographic majority of the city — grew up inside a civic identity that was never theirs by blood and is now inarguably theirs by practice.*

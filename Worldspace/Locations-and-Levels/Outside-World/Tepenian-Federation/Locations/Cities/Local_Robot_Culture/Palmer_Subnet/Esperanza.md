@@ -69,7 +69,7 @@ the actual, literal shape of family life, not an unfortunate exception to it.*
   global federation of family-style houses led by trained "SOS mothers," explicitly prioritizing long-term,
   family-structured care over institutional orphanage models**; Boys Town, Pestalozzi Children's Village, and
   Kibbutz collective child-rearing [SECONDARY/SUPPORTING]) and `Esperanza_Catalog.md`'s per-nation material —
-  Argentina flagged in-file as combining founding-operator heritage, the single strongest real-world match (on
+  Argentina flagged in-file as combining the single strongest real-world match (on
   both geography and City-Type at once) found anywhere in the project to that point, *and* a literal historical
   tie to the founding event itself. **Mandatory translation applied:** SOS Children's Villages is a human
   institution; the actual robot-specific finding it feeds is the Caregiver-Teacher Halls' own multi-generational

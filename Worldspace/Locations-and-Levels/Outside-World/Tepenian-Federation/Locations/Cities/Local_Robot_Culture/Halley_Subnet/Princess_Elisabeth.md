@@ -55,9 +55,7 @@ was never quite the same thing that would have killed her.*
   genuine exposed bedrock, but unlike Sanay's or Troll's own bedrock siting, **the terrain here offers zero
   passive wind shelter**; the real station faces gales up to 300 km/h and survives only through deliberate
   aerodynamic engineering and permafrost anchoring, never through terrain. Founding: post-Falkland Treaty
-  Belgian exiles inheriting a rotating-operator International Polar Foundation station chain (the same
-  documentary-not-taught mechanism confirmed elsewhere in this subnet) plus the zero-emissions physical
-  infrastructure itself, independently re-derived and maintained by the exile community from surviving
+  Belgian exiles, inheriting the zero-emissions physical infrastructure itself, independently re-derived and maintained by the exile community from surviving
   records rather than a living institution's direct teaching. **Status: Destroyed** — a targeted strike
   against the integration points between surface generation and underground reserve, not a broad attack or
   gradual failure (Full Extrapolation §III), leaving a small straggling survivor population among the ruins.

@@ -21,9 +21,9 @@
 |------|---------|
 | Primary | USA, Japan |
 | Significant | Germany, France, UK, Brazil, Australia |
-| Notable | Poland, Netherlands, Belgium *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Belgium, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Princess Elisabeth breaks the subnet's pattern in a genuinely new way. Every other Halley subnet city has exactly one Primary-tier nation (USA everywhere except Sanay's Germany). Princess Elisabeth has two — USA and Japan simultaneously — a direct consequence of its unusually eastern position, closer to Dome Fuji and the Mawson subnet's Indian Ocean coast than to the rest of the Atlantic cluster. This is the only Halley subnet city with meaningful eastern-approach immigration, meaning it absorbed population from two directions at once rather than one. Belgium, the actual founding-operator nation, sits at Notable tier — diluted, like every founding nation in this subnet, but diluted by two demographic currents instead of one.*
+*Princess Elisabeth breaks the subnet's pattern in a genuinely new way. Every other Halley subnet city has exactly one Primary-tier nation (USA everywhere except Sanay's Germany). Princess Elisabeth has two — USA and Japan simultaneously — a direct consequence of its unusually eastern position, closer to Dome Fuji and the Mawson subnet's Indian Ocean coast than to the rest of the Atlantic cluster. This is the only Halley subnet city with meaningful eastern-approach immigration, meaning it absorbed population from two directions at once rather than one. Belgium sits at Notable tier — diluted, like every founding nation in this subnet, but diluted by two demographic currents instead of one.*
 
 ---
 
@@ -160,7 +160,7 @@ Robot culture here centers on renewable energy systems expertise — the precisi
 
 ## 18. Religious / Philosophical Landscape
 
-- No dominant formal religion, but a genuinely shared ethic around minimal environmental footprint — treated less as doctrine and more as lived practice, consistent with the founding station's own design philosophy.
+- No dominant formal religion, but a genuinely shared ethic around minimal environmental footprint — treated less as doctrine and more as lived practice, consistent with the zero-emissions infrastructure the city has always had to keep running.
 - The city's eastern proximity to Dome Fuji raises a live, unresolved question about whether any meaningful Ice Cold Buddhism pilgrimage connection exists here — unlike Dome Fuji and Kunlun's confirmed sacred-site status, Princess Elisabeth's relationship to the faith remains genuinely open.
 
 ---

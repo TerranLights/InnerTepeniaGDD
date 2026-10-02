@@ -260,8 +260,12 @@ sat between **1,980 and 3,499 t for 28 consecutive years** to hold the stock at 
   structure**. The nearest canon analog is Vostok, diagnosed in `04` §5 as *"not 'too few farmers' but 'food
   here costs power the city does not have'"* — **labor-sufficient, energy-insufficient.**
 
-**⚠ And this is a nation whose currency is denominated in guaranteed grid capacity.** A program here should be
-costed in **watts**. Until it is, "Davis surrenders 7.2%" is not comparable to anything, including itself.
+**⚠ Corrected 2026-09-26: "a nation whose currency is denominated in guaranteed grid capacity" is NOT canon —
+nothing about what the currency is backed by is settled, at any stage (`DR-3`; see `AUDIT_AGENDA_2026-09-16_after-1500.md`
+item 3, which already flagged this exact line as the "killed claim... live in a file stamped RELIABLE").**
+A program here should still be costed in **watts** regardless — grid capacity is scarce on its own physical
+terms, independent of any currency claim. Until it is, "Davis surrenders 7.2%" is not comparable to anything,
+including itself.
 
 ## Three further defects in the strain metric
 

@@ -143,7 +143,7 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 
 **Founding population:** Primarily Australian exiles — robots from Australian society and their human partners and supporters — alongside others who arrived by sea during the early settlement wave. Casey's position as an accessible coastal arrival point meant it received a wider mix of early arrivals than some more geographically isolated cities.
 
-Australia had more Antarctic infrastructure per capita than most nations entering exile, and Casey was its centerpiece: the largest, best-equipped Australian station, with relatively modern facilities by pre-exile standards. The founding generation inherited a genuinely functional base and the task of turning a research station into a city.
+Casey had been the largest, best-equipped Australian station, with relatively modern facilities by pre-exile standards. The founding generation inherited a genuinely functional base and the task of turning a research station into a city.
 
 ---
 

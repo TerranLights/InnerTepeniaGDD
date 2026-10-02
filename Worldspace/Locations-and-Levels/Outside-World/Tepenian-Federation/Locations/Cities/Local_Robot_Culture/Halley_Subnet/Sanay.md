@@ -43,10 +43,8 @@ was built to prove: that taking real damage and staying functional are not the s
   itself," held with quiet, specific pride "even though the subnet carries someone else's name").
 - **Input B — Geography & Geology:** `Specs/Sanay.md`. Vesleskarvet nunatak, Ahlmannryggen range, Queen Maud
   Land — genuine bedrock, stable in a way no ice-shelf city (Halley, Neumayer) can claim. Founding: post-
-  Falkland Treaty exiles inheriting a chain of rotating national operators' worth of SANAE infrastructure, with
-  no living scientific mission surviving intact — a documentary starting point (preserved journals, logs,
-  orientation manuals), not a taught institutional one, the identical mechanism already established for Sayowa
-  in a different subnet. The only major South African community in Tepenia. **Status: damaged, partially
+  Falkland Treaty exiles, settling on the surviving SANAE physical infrastructure. The only major South African
+  community in Tepenia. **Status: damaged, partially
   operational** — the bedrock gave real structural resilience without full immunity; one of several
   struggling-but-functioning Halley-subnet nodes, deliberately not a singular untouched exception.
 - **Input C — Local Infrastructure:** `Sanay_Physical_Infrastructure_Attributes.md` (12 attributes, 6 new

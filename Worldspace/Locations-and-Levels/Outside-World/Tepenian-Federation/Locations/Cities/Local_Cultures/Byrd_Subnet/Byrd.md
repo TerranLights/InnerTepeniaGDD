@@ -25,7 +25,7 @@
 
 *Byrd's composition reflects successive waves of arrival rather than a single founding population. The first wave — citizens, both robot and human, who came from the Palmer and Halley subnets specifically to establish Byrd and build the industrial center the country needed — gave the city its USA/Canada-led founding character. Larger waves followed generations later, drawn by the work Byrd's growing industry offered: more arrivals from Palmer and Halley, joined increasingly by workers from the Janbogo and Mirny subnets, and to a lesser extent Mawson. That broader, later migration is responsible for Japan, South Korea, China, and Australia's own Significant-tier presence, and for Byrd's wide, 36-nation Notable tier — a demographic breadth second only to Palmer City's own, the product of genuine multi-subnet migration rather than any single event.*
 
-**Re-tiered 2026-07-06, during this city's City Vision Notes session:** the original tiering had Japan at Primary ahead of the USA itself — Byrd's actual founding-operator nation. A hand-specified six-way rotation moved USA and Canada into Primary (matching founding heritage), with Australia, Japan, South Korea, and China filling Significant. Full detail in `Specs/Byrd.md`'s Founding Population Adjustment note.
+**Re-tiered 2026-07-06, during this city's City Vision Notes session:** the original tiering had Japan at Primary ahead of the USA. A hand-specified six-way rotation moved USA and Canada into Primary (matching founding heritage), with Australia, Japan, South Korea, and China filling Significant. Full detail in `Specs/Byrd.md`'s Founding Population Adjustment note.
 
 ---
 

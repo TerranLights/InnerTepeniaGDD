@@ -45,10 +45,8 @@ outliving him.*
 - **Input B — Geography & Geology:** `Specs/Marambio.md`. Seymour Island, Weddell Sea, eastern Antarctic
   Peninsula, 64°14'S — genuinely flat, small, indefensible terrain concentrating two critical logistics assets
   on the same ground, unlike Rothera's large, mountainous, decentralizable Adelaide Island. Founding: post-
-  Falkland Treaty, Argentine exiles inheriting a structurally sound but operationally *dormant* airfield (no
-  continuous Air Force command structure survived to hand down directly — the exiles rebuilt genuine operational
-  discipline themselves, informed by surviving records rather than living institutional teaching, the same
-  documentary-not-taught pattern confirmed project-wide). **Status: Destroyed** — a single strike eliminated
+  Falkland Treaty, Argentine exiles inheriting a structurally sound but operationally *dormant* airfield and
+  developing their own operational discipline around it. **Status: Destroyed** — a single strike eliminated
   both the airfield and shipyards together, credited by the existing Cross-Reference Synthesis as a more
   efficient, more devastating loss than the original single-asset framing conveyed.
 - **Input C — Local Infrastructure:** `Marambio_Physical_Infrastructure_Attributes.md` (9 attributes, 5 new
@@ -86,7 +84,7 @@ outliving him.*
   reflected upon the way Janbogo's version was**) are recognized and extended here, not re-derived from
   scratch — see §1 and Cross-Reference Synthesis. `City_National_Connections.md` confirms a Strong Economic tie
   to Esperanza (already completed — the bulk-vs-specialty shipping division of labor), a Medium Demographic/
-  Aviation tie to Belgrano (Halley subnet, already completed — shared Argentine Air Force founding heritage,
+  Aviation tie to Belgrano (Halley subnet, already completed — a shared Argentine founding population,
   both their own subnet's primary aviation hub), and a Medium Infrastructure tie to Byrd (already completed —
   a secondary logistics link). District Refugee Diaspora Composition not used — Marambio is a standalone
   subnet city.
@@ -147,7 +145,7 @@ status.*
   permanence — is confirmed and needs no adaptation: a robot's own standing at Marambio runs on reliable
   participation in that motion, not on settling into any fixed role.
 - **[Emergent, robot-only, Deep]** A genuinely different, robot-specific answer to the existing Cross-Reference
-  Synthesis's own open question (whether Marambio's founding-institutional persistence — Argentine Air Force
+  Synthesis's own open question (whether Marambio's founding-institutional persistence — the founding community's own
   operational discipline outliving the founding population's own 0.74% demographic share — was ever noticed and
   named the way Janbogo's identical structural pattern was): checked directly against Janbogo's own already-
   completed file, where the teahouse-keeping apprenticeship is an *explicit, celebrated* teaching-lineage

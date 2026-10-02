@@ -46,7 +46,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, France *(founding operator heritage)*, South Korea, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, France, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -173,7 +173,7 @@ Dumont d'Urville had the character of a city that knew it was beautiful and diff
 
 The wind shaped everything else. Architecture at Dumont d'Urville was built low, anchored, oriented. The cultural relationship with wind was not Mirny's pragmatic stoicism; it was something closer to negotiation — living with a condition that could not be fought, only accommodated. The island position reinforced this: the city could not expand beyond its natural borders, and the sea reminded residents on all sides that they were somewhere particular.
 
-The city's food culture, language, and aesthetic sensibility grew out of its own tight, island-bound circumstances and the wind-negotiation instinct described above, developed independently rather than transplanted wholesale — though French remained the civic-default language, an echo of the original station's operating history rather than an explanation for the culture that formed around it. It became the most distinctively francophone-speaking city in Tepenia — a small city, but one with a specific character.
+The city's food culture, language, and aesthetic sensibility grew out of its own tight, island-bound circumstances and the wind-negotiation instinct described above, developed independently rather than transplanted wholesale — though French remained the civic-default language. It became the most distinctively francophone-speaking city in Tepenia — a small city, but one with a specific character.
 
 **Nationally known for:** The penguin colonies. The wind. St. Jules. The island position. Being where Adélie Land begins.
 

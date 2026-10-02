@@ -817,8 +817,8 @@ time the extraction half has been the more natural read.**
 
 ### Notes
 
-- **Technical/scientific 20% is heritage research, not national provider work** — *"descended from the
-  founding-era Polar Institute station."* Nothing in canon marks it load-bearing, so it stays free.
+- **Technical/scientific 20% is local research built on the inherited Polar Institute station's records,
+  research and equipment (`DR-25`, `DR-26`), not national provider work.** Nothing in canon marks it load-bearing, so it stays free.
 - **⚠ Corrected this pass:** the City Master Reference previously stated Troll *"is not on any highway route
   directly."* **False — Troll is on the Hwy 7 main line between Sanay and Lazar**, which is the road half of
   its own freight hub. Fixed in `Halley_Subnet_Reference.md`.
@@ -1066,7 +1066,7 @@ sector for. Register item 6.
 
 ### Notes
 
-- **Technical/scientific 20% — *"inherited KOPRI research tradition."*** Local heritage research, nothing
+- **Technical/scientific 20% — *"inherited KOPRI research records and logs."*** Local research, nothing
   marking it load-bearing. **FREE.**
 - **Marine/resource extraction 15% — unannotated, but Sejong is COASTAL.** Register item 5's inland-
   extraction pattern **does not apply here**, and `04` §3 names **Juan Carlos** the South Shetlands fishing
@@ -1726,8 +1726,8 @@ infrastructure components do not fly.** Rothera's fabrication output leaves by t
 
 ### Notes
 
-- **Technical/scientific 10% — *"inherited BAS research tradition."*** **FREE**, the same call as Troll's
-  Polar Institute and Sejong's KOPRI: local heritage research, nothing marking it load-bearing.
+- **Technical/scientific 10% — *"inherited BAS research records and logs."*** **FREE**, the same call as Troll's
+  Polar Institute and Sejong's KOPRI: local research, nothing marking it load-bearing.
 - **The Marambio–Rothera ramp is one of only FIVE Hitchhiking-Valid stretches in the national network**
   *(`Highways.md` L287)*.
 - **⚠ Post-war, NOT an input:** Rothera survived via **genuine decentralization across Adelaide Island** plus
@@ -1894,7 +1894,7 @@ mandating all of it would conscript the *"other"* alongside the school.
 | Sector | Why free |
 |---|---|
 | **Diplomatic/inter-community 10%** | *"A genuine sector given the cluster's density"* — **points inward**, exactly like Sejong's |
-| **Technical/scientific 15%** | *"Inherited Arctic and Antarctic Research Institute tradition"* — heritage research, as at Troll, Sejong, Rothera |
+| **Technical/scientific 15%** | *"Inherited Arctic and Antarctic Research Institute records and logs"* — local research on inherited records, as at Troll, Sejong, Rothera |
 | **Commercial/trade 15%** | The Tri-Cities cluster economy |
 | **Marine/resource extraction 10%** | *"Prydz Bay maritime access."* ⭐ Note Sinheung's raw materials arrive **by truck from Mirny** *(via the Hwy 110/Hwy 4 tri-junction at Zhongshan)*, **not by sea** — so its maritime is not the fabrication chain's input |
 
@@ -1975,9 +1975,9 @@ reaches the country, and it closes the maritime question for the whole cluster.*
 
 ### What the national role actually is
 
-**§15's largest sector states it outright:** *"Technical/scientific: ~35% — the research heritage is
-continuous from the founding station; **Zhongshan produces engineers and researchers who end up across
-Tepenia**."*
+**§15's largest sector states it outright:** *Technical/scientific: ~35%*, built on the station's research
+results, equipment and techniques, which the city inherited and carried on (`DR-26`) — *"**Zhongshan produces
+engineers and researchers who end up across Tepenia**."*
 
 **An export clause inside the annotation itself** — the same shape as Princess Elisabeth's *"expertise other
 cities traded for."* ***Zhongshan's national contribution is PEOPLE, not cargo.*** **The analyst proposed
@@ -2023,7 +2023,7 @@ Industrial ~5% · Other ~5%.
 **§15: *"Technical/scientific: ~25% — environmental, ecological, and limnological research — the founding
 research heritage, now a CO-EQUAL PILLAR ALONGSIDE AGRICULTURE rather than a shrinking minority."***
 
-**Everywhere else in this pass, *"founding research heritage"* has marked a sector FREE** — Troll's Polar
+**Everywhere else in this pass, local research on inherited records has marked a sector FREE** — Troll's Polar
 Institute, Sejong's KOPRI, Rothera's BAS, Sinheung's AARI. **This annotation does not stop there.** It names
 a **second** thing — *co-equal pillar alongside agriculture* — **explicitly tying the research to the
 mandated sector.**
@@ -2037,7 +2037,7 @@ mandated sector.**
 > comparators the developer ruled on**, the **fungi tier**, the **livestock tier** *(`11`)*. **The Breadbasket
 > is not only where the food grows — it is where the growing is figured out.**
 
-**HALF, not full**, because the annotation genuinely names both a local heritage and a national pillar — the
+**HALF, not full**, because the annotation genuinely names both local research and a national pillar — the
 **Princess Elisabeth split**, applied to a sector where **both halves are real.**
 
 ### What stays FREE
@@ -2151,8 +2151,8 @@ explicitly **not** to Concordia, a different subnet, severed by the Split Brain)
 
 ### What stays FREE
 
-- **Technical/scientific 20%** — *"inherited Soviet/Russian institutional research capacity."* Heritage
-  research, on the standing precedent for that annotation.
+- **Technical/scientific 20%** — *"inherited Soviet/Russian institutional research capacity."* Research,
+  on the standing precedent for that annotation.
 - **Maritime 15%** — **in neither chain.** The quarries are **inland to the south**, the material arrives by
   truck, and the output moves by road. *(Chambers travel by road and air per the 2026-09-02 ruling.)*
 - **Commercial 15% · Other 10%** — local.
@@ -2227,7 +2227,7 @@ actual defining fact, rather than smoothed over.**
 
 ### What else stays FREE
 
-- **Technical/scientific 15%** — *"inherited Australian Antarctic Division capacity."* Heritage research.
+- **Technical/scientific 15%** — *"inherited Australian Antarctic Division capacity."* Research.
 - **Maritime 15% · Industrial 10% · Other 10%** — nothing marks them national.
 
 ### Notes
@@ -2896,7 +2896,7 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
   **unusual; most nexuses sit in their hub city.** Canon reads this as reflecting the depth of the
   relationship: **Gemini is the largest, most established diaspora enclave in Concordia.** *(Note this means
   the nexus labor is NOT in Janbogo's §15 to mandate — it is physically elsewhere.)*
-- **One of three Korean-founded Tepenian cities** *(with Sejong and Sinheung)* — **Janbogo's claim rests on
+- **Korean-founded** *(with Sinheung, the other Korean-founded city)* — **Janbogo's claim rests on
   institutional and cultural depth despite demographic dilution**, not raw population share *(South Korea
   remains its largest Significant-tier nation at 10.23%)*.
 - **~8 km south of Zukelli's ruins, visible from the waterfront** — understood since 2026-07-05 as a
@@ -3160,7 +3160,7 @@ Basis.)*
 
 ### What stays FREE
 
-- **Scientific research 20%** — *"inherited JARE tradition."* Heritage research.
+- **Scientific research 20%** — *"inherited JARE records and logs."* Local research.
 - **Leisure/commercial 5%** — canon calls it *"a genuine but distinctly secondary sector, well behind the
   industrial core."*
 - **Other 5%.**
@@ -3307,7 +3307,7 @@ foreign exchange that plausibly pays for the phosphate Tepenia cannot manufactur
 
 ### What else stays FREE
 
-- **Technical/scientific 20%** — *"inherited Australian Antarctic Division research tradition."* Heritage
+- **Technical/scientific 20%** — *"inherited Australian Antarctic Division research records and logs."* Local
   research, the standing precedent.
 - **Commercial/trade 15% · Other 10%** — unannotated.
 

@@ -37,7 +37,7 @@
 | Significant | France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Source: `Official_Population_Census.md` Sections A–C. **Recalculated 2026-07-13** — China removed as a methodology-violating entry (see `Upper_Earth_Immigration_Composition.md`'s Sejong section for the full reasoning: China appeared nowhere else in the Palmer subnet, its inclusion here traced to real-world Great Wall Station's presence on King George Island despite this project's own rule that station-operator identity is excluded from this composite). Remaining nations rescaled proportionally (×1.2481) to sum to 100%, preserving their prior relative shares.*
+*Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
@@ -66,7 +66,7 @@
 
 King George Island is the largest of the South Shetland Islands, lying approximately 120km north of the Antarctic Peninsula across the Bransfield Strait. At 62°13'S — well north of the Antarctic Circle — Sejong has no polar night and no midnight sun, and experiences the mildest climate of any Palmer subnet city. The Drake Passage and Bransfield Strait create a maritime environment warmer and wetter than the Peninsula mainland.
 
-What made King George Island distinctive in the pre-exile era was concentration: nearly a dozen national research programs operated here simultaneously, on an island roughly 80km long. In the exile era, those programs became the seeds of multiple small communities — nationalities that might otherwise have settled in different regions of Tepenia found themselves on the same island, sharing infrastructure, sharing weather, and learning to coexist in close quarters. King George Island became one of the most multinational places in Tepenia *(corrected — Palmer City, deliberately expanded to cover all 43 master-list nations, holds Tepenia's actual "most diverse city" title; see `Specs/Palmer_City.md`)* — a genuinely dense, close-quarters multinational mix in its own right, distinct in character from Palmer City's own broader, more diffuse diversity.
+What made King George Island distinctive in the pre-exile era was concentration: nearly a dozen national research programs operated here simultaneously, on an island roughly 80km long. In the exile era, that dense cluster of station infrastructure became the seeds of multiple small communities — many nationalities found themselves on the same island, sharing infrastructure, sharing weather, and learning to coexist in close quarters. King George Island became one of the most multinational places in Tepenia *(corrected — Palmer City, deliberately expanded to cover all 43 master-list nations, holds Tepenia's actual "most diverse city" title; see `Specs/Palmer_City.md`)* — a genuinely dense, close-quarters multinational mix in its own right, distinct in character from Palmer City's own broader, more diffuse diversity.
 
 Sejong, as the Korean settlement, was named after the king who gave Korea its alphabet — an act of cultural self-definition by a monarch who believed his people deserved a writing system of their own. The choice of name carries quiet weight: an exile community naming their Antarctic city after the person who gave their ancestors the tools to record their own language and history.
 

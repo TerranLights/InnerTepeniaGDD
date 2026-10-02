@@ -302,5 +302,5 @@ subnet-wide pattern named for the first time.**
 No finding above reads as generic "small heritage city" content that happened to get filed under Port
 Lockroy's name — every finding depends on facts (the Communal Stone Wall's own specific multi-generational
 design, Old Toby's already-established mathematically-doomed prophecy, the already-canon robot courier detail)
-that are concretely, specifically Port Lockroy's own. **Rothera and Signy (both confirmed sibling BAS-heritage
+that are concretely, specifically Port Lockroy's own. **Rothera and Signy (both confirmed sibling
 cities, per §23) and the remaining Palmer-subnet cities are flagged forward for real re-checks once run.**

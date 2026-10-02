@@ -31,7 +31,7 @@
 
 ## 2. Founding Story
 
-Before the exile era began, the International Court of Diplomacy at Jeju-do — the same Upper Earth institution that later confirmed China's claim to Zhongshan Station and allocated the unoccupied Bharati site to Japan as Shirayuki — coordinated Japan, Korea, and the Sinian Federation as regional peers, settling each nation's claim in the Larsemann Hills area as part of the same process. This site, physically built as Progress Station by Russia's Arctic and Antarctic Research Institute since the 1980s, was allocated to Korea. Korean exiles settled it once the Falkland Treaty exile era began, inheriting the station's deep institutional infrastructure without ever holding a founding claim through it — Russia was not a party to that court, and never had one.
+Before the exile era began, the International Court of Diplomacy at Jeju-do — the same Upper Earth institution that later confirmed China's claim to Zhongshan Station and allocated the unoccupied Bharati site to Japan as Shirayuki — coordinated Japan, Korea, and the Sinian Federation as regional peers, settling each nation's claim in the Larsemann Hills area as part of the same process. This site, physically built as Progress Station by Russia's Arctic and Antarctic Research Institute since the 1980s, was allocated to Korea. Korean exiles settled it once the Falkland Treaty exile era began, inheriting the station's physical infrastructure without ever holding a founding claim through it — Russia was not a party to that court, and never had one.
 
 The placeholder name "Soyuz" was never the founding community's own choice. It stuck the way a physical station's informal designation sometimes does when nobody replaces it — carried over from the Russian spacecraft program the original infrastructure's operators associated with the site, not a name chosen by the Korean population that actually settled it. That gap closed 2026-07-14: the city is officially **Sinheung** (신흥, "newly rising/emerging"), selected from a candidate list built from the city's own established character rather than from the old placeholder's own naming logic — see `Specs/Sinheung.md` for the full candidate list.
 
@@ -59,7 +59,7 @@ The oasis microclimate moderates conditions somewhat compared to the surrounding
 
 **Name/concept:** *Claimed, Not Found* — a thematic identity distinct from, but resonant with, the city's own real name, Sinheung ("newly rising/emerging"): a claim asserted by treaty, then risen into on its own terms.
 
-This city's founding tension is sharper than either of its Larsemann Hills neighbors'. Zhongshan's Chinese population never had to justify being there — the station was theirs from the start. Shirayuki's Japanese population settled a genuinely empty site — nobody to displace, nothing to prove against a prior claimant. This city's Korean population inherited an actively operating Russian research station, secured by a diplomatic decision made in a negotiating room Russia was never invited into. The founders knew it. Their descendants still do, at some level below conscious articulation: this is the one city in the cluster whose right to exist here was made by treaty, not simply found.
+This city's founding tension is its own. Its Korean founders' claim to the site was secured by a diplomatic decision of the Jeju-do court, made in a negotiating room Russia was never invited into, before any of them arrived. What they inherited was the station's infrastructure and records, not a history of their own on this ground. The founders knew it. Their descendants still do, at some level below conscious articulation: their right to exist here was made by treaty, not simply found.
 
 That knowledge produced a civic character built around proving the claim through output rather than through inherited legitimacy — the same instinct that made this city, of all the modest-profile cities in Tepenia, one of the handful that actually manufactures the physical apparatus that creates new robot citizens. Nobody assigned that role because of the founding story. But a population that had to earn its place gravitated toward doing something nobody could dispute the value of.
 
@@ -148,7 +148,7 @@ Korean musical tradition, genuinely carried forward by the population that actua
 **Revised 2026-07-06 (vision session)** — heavy industrial fabrication is Sinheung's actual dominant sector, not the research/commercial/diplomatic mix previously listed:
 
 - **Industrial fabrication: 45%** — raw materials trucked in from Mirny (via the Hwy 110/Hwy 4 tri-junction at Zhongshan) and fabricated into finished goods. *(Corrected 2026-07-16 — previously "from Davis"; see `Specs/Sinheung.md`'s Economy & Industry section for the reassignment.)* Most significantly, **Sinheung is one of a handful of Tepenian cities that manufactures "fabrication-synthesis chambers"** (placeholder name, pending refinement) — the actual apparatus that creates robots. These chambers are shipped nationwide from Sinheung and the handful of other cities that produce them, meaning a robot can be "born" (built) in any Tepenian city regardless of whether that city has its own chamber-manufacturing capability. This is a foundational piece of how robot creation works across Tepenia, not a Sinheung-specific curiosity — see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` for cross-reference once developed further.
-- Technical / scientific: 15% — inherited Arctic and Antarctic Research Institute tradition
+- Technical / scientific: 15% — research and technical work
 - Commercial / trade: 15% — cluster-level economy shared with Zhongshan and its neighbor
 - Marine / resource extraction: 10% — Prydz Bay maritime access
 - Diplomatic / inter-community coordination: 10% — a genuine sector given the cluster's density
@@ -158,7 +158,7 @@ Korean musical tradition, genuinely carried forward by the population that actua
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (550,159 to 519,191 Census I), human-robot relations here follow the same output-as-legitimacy logic that defines everything else about this city: standing, human or robot, is measured by contribution rather than origin. Because the Korean founders themselves arrived via diplomatic allocation rather than organic belonging, there's a structural sympathy running through the city between its human population and its robot citizens — both are here, in different ways, because of what they can do rather than an inherited right to be here.
+With robots slightly outnumbering humans (550,159 to 519,191 Census I), human-robot relations here follow the same output-as-legitimacy logic that defines everything else about this city: standing, human or robot, is measured by contribution rather than origin. Because the Korean founders themselves arrived via diplomatic allocation, there's a structural sympathy running through the city between its human population and its robot citizens — both are here, in different ways, because of what they can do rather than an inherited right to be here.
 
 ---
 
@@ -208,8 +208,8 @@ Filtered through Korea's own diplomatic maneuvering at Jeju-do — a relationshi
 ## 23. Relationship to Other Cities
 
 - **Shirayuki (east, Hwy 4):** Direct highway neighbor and fellow Jeju-do-founded Larsemann Hills city, sharing the same Mirny subnet membership — the two cities' founders were negotiated into existence by the same three-way court, at the same time, both as counterweights to the same Chinese regional presence. *(Corrected 2026-07-14 — this entry previously said "west"; per `Locations/Infrastructure/Highways.md`'s authoritative Hwy 4 route (Sayowa Junction → Mawson → this city → Shirayuki), Shirayuki sits east of this city, with Mawson to the west.)*
-- **Zhongshan:** The closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact between this city's Korean population and Zhongshan's Chinese population. The two cities' founding stories are mirror images: Zhongshan's claim was organic and merely confirmed by Jeju-do; this city's claim was made by Jeju-do from nothing. Both cities know it.
-- **Mirny (the city):** *(Corrected 2026-07-13 — this entry previously described "two Russian communities split across different subnets." That's wrong; this city was never Russian-founded.)* Whatever relationship exists between this city and Mirny (the city) — itself carrying its own separately-flagged Russian-identity question, see `project_mirny_rename_flagged` — has nothing to do with a shared Russian heritage that never actually existed here. Genuine relationship TBD.
+- **Zhongshan:** The closest, most immediate cluster relationship — nearly the same coordinates, constant daily cross-community contact between this city's Korean population and Zhongshan's Chinese population.
+- **Mirny (the city):** This city was never Russian-founded, and Mirny's founders are Russia, China and Australia (`DR-9`), so no shared Russian origin links the two. Genuine relationship TBD.
 
 ---
 
@@ -265,7 +265,7 @@ Becoming a local here means genuinely participating in the city's output-as-legi
 
 ## 30. Significant Local Events
 
-- **The Jeju-do allocation** — the founding event itself: the moment this site, an active Russian research station, was diplomatically secured for Korea before the exile era even began. The specific circumstances (how contested, how negotiated) are TBD.
+- **The Jeju-do allocation** — the founding event itself: the moment this site, with its Russian-built station infrastructure, was diplomatically secured for Korea before the exile era even began. The specific circumstances (how contested, how negotiated) are TBD.
 - **The Long Night War damage** — this city was hit hard, like its effectively co-located neighbor Zhongshan, but not destroyed. It survives today damaged but partially operational, alongside Zhongshan and Shirayuki — all three Jeju-do-founded Larsemann Hills cities sharing that fate. Exact extent of the damage TBD for DLC 4 design.
 
 ---

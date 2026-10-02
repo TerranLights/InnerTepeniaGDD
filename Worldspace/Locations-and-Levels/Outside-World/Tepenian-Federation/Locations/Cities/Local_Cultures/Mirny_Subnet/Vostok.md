@@ -29,7 +29,7 @@
 
 ## 2. Founding Story
 
-Vostok was settled post-Falkland Treaty on Vostok Station's infrastructure — one of the longest continuously operated Antarctic stations on Earth, Soviet and then Russian since 1957. By 2564, the station was old but functioning, making it one of the few inland sites where exile settlement was even practically possible. The founding population was primarily Russian exiles, inheriting both the station's extreme environment and its extraordinary scientific legacy — the deep drilling program into Lake Vostok, a subglacial lake sealed beneath roughly 4km of ice for an estimated 15–25 million years.
+Vostok was settled post-Falkland Treaty on Vostok Station's infrastructure — one of the longest continuously operated Antarctic stations on Earth, Soviet and then Russian since 1957. By 2564, the station was old but functioning, making it one of the few inland sites where exile settlement was even practically possible. The founding population was primarily Russian exiles, drawn by the extreme environment and by what lay beneath it — Lake Vostok, a subglacial lake sealed beneath roughly 4km of ice for an estimated 15–25 million years.
 
 Nobody came to Vostok by accident. The environment (record cold of −89.2°C, the coldest air temperature ever measured at a surface station on the planet, set in 1983 and never broken) selected hard for people willing to accept genuine, extreme isolation as the cost of the science. That founding community was necessarily small, necessarily specialized, and — per the historical record — recognizably Russian in character.
 
@@ -57,7 +57,7 @@ Polar night runs roughly April 22 to August 21 (~121 days); midnight sun roughly
 
 **Name/concept:** *A Legend Living in Someone Else's House*
 
-Vostok's identity is built on a genuine split: the city's *reputation* (Russian, scientific, defined by Lake Vostok and the cold record) and the city's *actual current population* (Pacific-corridor, no Russian heritage at all, no known event connecting the two). Nowhere else in Tepenia is the gap between a city's founding legend and its lived present quite this stark — even Byrd's own founding-vs-population-blend tension at least shares a hemisphere's worth of continuity; Vostok's current residents inherited a place whose entire meaning (the lake, the cold record, the Soviet/Russian scientific tradition) was built by people who are, as far as current canon establishes, simply gone, with nothing on record explaining how the population that lives there now came to be there instead.
+Vostok's identity is built on a genuine split: the city's *reputation* (Russian, scientific, defined by Lake Vostok and the cold record) and the city's *actual current population* (Pacific-corridor, no Russian heritage at all, no known event connecting the two). Nowhere else in Tepenia is the gap between a city's founding legend and its lived present quite this stark — even Byrd's own founding-vs-population-blend tension at least shares a hemisphere's worth of continuity; Vostok's current residents inherited a place whose entire meaning (the lake, the cold record, the founders' scientific tradition) was built by people who are, as far as current canon establishes, simply gone, with nothing on record explaining how the population that lives there now came to be there instead.
 
 - **a. Founding tension** — This is the central, defining tension of the entire city, more pronounced than almost anywhere else in Tepenia, and it's sharper for having no explanatory mechanism attached to it at all. The population that lives at Vostok today didn't arrive from anywhere in particular, didn't displace anyone in any documented event — they simply are Vostok's population, the same way any other Tepenian city's demographic table is simply given rather than narrated. They inherited Lake Vostok, the cold record, and the whole weight of "the coldest, most isolated city in Tepenia" as an identity they did not build, with no migration story to even gesture at how the handoff happened — and may not fully understand the significance of what they've inherited.
 - **b. Fault lines** — Between the scientific mission (the Lake Vostok research program, ostensibly still central per Section 15) and a population that arrived for reasons having nothing to do with genetics, glaciology, or subglacial biology at all. Whether the current population has taken up the founding mission, ignores it, or something in between is a genuinely open and dramatically rich question.
@@ -193,7 +193,7 @@ Likely minimal, given the near-total isolation (1,260km from the nearest subnet 
 
 ## 22. Relationship to Upper Earth
 
-TBD — the founding Russian community's relationship to Upper Earth would have been shaped by Cold War-era Soviet/Russian Antarctic history specifically; the current population's own relationship, given their unrelated origin, is a separate and undeveloped question.
+TBD — the founding Russian community's relationship to Upper Earth and the current population's own relationship, given their unrelated origin, are separate and undeveloped questions.
 
 ---
 

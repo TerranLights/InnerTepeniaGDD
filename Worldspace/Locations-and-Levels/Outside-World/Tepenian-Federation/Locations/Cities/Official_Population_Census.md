@@ -113,8 +113,6 @@ National communities are classified by tier based on long-run population share. 
 | Significant | Germany, France, UK, Italy, South Korea, Russia, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Note: South Korea holds founding operator heritage at Sejong (Korean Antarctic Station). Long-run population primary is China and USA.*
-
 ---
 
 **Signy** *(South Orkney Islands)*
@@ -150,7 +148,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany *(founding operator heritage)*, France, UK, Brazil |
+| Significant | Germany, France, UK, Brazil |
 | Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Chile, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 ---
@@ -161,7 +159,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | USA |
 | Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway *(founding operator heritage)*, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 ---
 
@@ -171,7 +169,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | USA |
 | Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Belgium, Sweden *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland *(founding operator heritage)*, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 ---
 
@@ -181,9 +179,9 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | Germany |
 | Significant | UK, Brazil |
-| Notable | Poland, Argentina, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa *(founding operator heritage)*, Slovakia, Chile, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Argentina, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Chile, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Note: South Africa (SANAE station) set Sanay's founding character. Germany leads the long-run population composition.*
+*Note: South Africa set Sanay's founding character. Germany leads the long-run population composition.*
 
 ---
 
@@ -193,7 +191,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | USA, Japan |
 | Significant | Germany, France, UK, Brazil, Australia |
-| Notable | Poland, Netherlands, Belgium *(founding operator heritage)*, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Notable | Poland, Netherlands, Belgium, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *Note: Princess Elisabeth is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia).*
 
@@ -204,7 +202,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany, France, UK, Russia *(founding infrastructure heritage — co-located Novolazarevskaya station)*, Brazil |
+| Significant | Germany, France, UK, Russia, Brazil |
 | Notable | Poland, Netherlands, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 ---
@@ -244,7 +242,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, Germany, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Germany, Italy, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
 ---
@@ -254,7 +252,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, Italy *(founding operator heritage)*, South Korea, Canada, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Italy, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
 ---
@@ -273,7 +271,7 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA *(founding operator heritage)* |
+| Primary | China, USA |
 | Significant | Japan, Germany, France, UK, Italy |
 | Notable | South Korea, Canada, Indonesia, Australia *(founding wave)*, Philippines, Malaysia, New Zealand *(founding wave)*, Chile |
 
@@ -284,7 +282,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, France *(founding operator heritage)*, South Korea, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, France, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
 ---
@@ -295,9 +293,9 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | China, USA |
 | Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | Philippines, Malaysia, New Zealand *(founding operator heritage)*, Chile |
+| Notable | Philippines, Malaysia, New Zealand, Chile |
 
-*Note: New Zealand holds founding operator heritage at Scott (Scott Base = NZ Antarctic program). Long-run primary is China and USA.*
+*Note: New Zealand is Scott's founding nation. Long-run primary is China and USA.*
 
 ---
 
@@ -309,7 +307,7 @@ National communities are classified by tier based on long-run population share. 
 | Significant | USA, Thailand, Vietnam, Philippines, Malaysia, New Zealand, Belarus |
 | Notable | Germany, France, UK, Italy, Canada, Spain, Mexico, Poland, Netherlands, Belgium, Sweden, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-*Note: Concordia's national composition reflects a founding-operator throughline — France and Italy, the station's real founding nations, land in the Notable tier despite falling outside the standard solar-timezone eligibility window used elsewhere, a deliberate developer choice rather than an oversight. A genuine founding-wave-vs-long-run-majority tension, the same pattern used at several other Tepenian cities (see `Cities/Local_Cultures/*/*.md` "founding tension" sections).*
+*Note: France and Italy land in Concordia's Notable tier despite falling outside the standard solar-timezone eligibility window used elsewhere, a deliberate developer choice rather than an oversight. A genuine founding-wave-vs-long-run-majority tension, the same pattern used at several other Tepenian cities (see `Cities/Local_Cultures/*/*.md` "founding tension" sections).*
 
 ---
 
@@ -374,7 +372,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, South Africa, New Zealand, Belarus |
 
 ---
@@ -403,11 +401,11 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | China *(founding operator heritage)* |
+| Primary | China |
 | Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
-*Note: Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary — Chinese cultural identity is continuous from founding through present. **Strengthened further 2026-07-06** — see `Specs/Zhongshan.md`'s Founding Population Adjustment; China's share moved from 19.05% to 35.83% across three rounds of hand-specified adjustments.*
+*Note: Chinese cultural identity at Zhongshan is continuous from founding through present. **Strengthened further 2026-07-06** — see `Specs/Zhongshan.md`'s Founding Population Adjustment; China's share moved from 19.05% to 35.83% across three rounds of hand-specified adjustments.*
 
 ---
 
@@ -416,12 +414,12 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Russia *(founding operator heritage)*, Indonesia, Australia *(founding wave)* |
+| Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
 ---
 
-**Shirayuki** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do rather than an organic real-station inheritance; named Shirayuki 2026-07-08 — see `Specs/Shirayuki.md`. Moved here from the Mawson Subnet section 2026-07-05 — see note above. **Confirmed 2026-07-06:** the diplomatic allocation now genuinely holds demographically too — Japan re-tiered to Primary at 36.27%, no longer buried behind China the way the standard population method had put it.)*
+**Shirayuki** *(Prydz Bay — founding population resolved 2026-07-03: Japan, via a deliberate diplomatic allocation by the International Court of Diplomacy at Jeju-do; named Shirayuki 2026-07-08 — see `Specs/Shirayuki.md`. Moved here from the Mawson Subnet section 2026-07-05 — see note above. **Confirmed 2026-07-06:** the diplomatic allocation now genuinely holds demographically too — Japan re-tiered to Primary at 36.27%, no longer buried behind China the way the standard population method had put it.)*
 
 | Tier | Nations |
 |------|---------|
@@ -553,7 +551,7 @@ National communities are classified by tier based on long-run population share. 
 
 ***Adjusted 2026-07-06*** — *the Larsemann Hills demographic rework (Zhongshan, Sinheung, Shirayuki — see `TODO.md`'s "Larsemann Hills cluster demographic rework" entry) changed each of those three cities' own per-nation Census I human figures significantly, across multiple rounds each. Recomputed the exact delta for every affected nation by diffing each city's old vs. new Specs-file figures directly (not re-derived independently), then applied those deltas to this table. Net changes: Japan +197,785 (734,189 → 931,974 — no longer buried behind China's regional pull, now genuinely Tepenia's fourth-largest exile nation, largely on the strength of Shirayuki's 36.27%); South Korea +116,674 (759,172 → 875,846); UK −110,931 (984,435 → 873,504, having been removed entirely from all three cities' tables); Indonesia −93,891 (652,202 → 558,311); Belarus −27,868; Ukraine −26,545; Malaysia −19,671; Romania −17,819; Hungary +17,808 (new entrant to this table, replacing Romania's old share at Sinheung specifically); Russia −15,632; China −13,089 (1,686,675 → 1,673,586 — still comfortably the largest single nation overall, just less dominant in this specific cluster); Philippines −6,846; smaller adjustments (±35 or less) to South Africa, New Zealand, Estonia, Bulgaria, Germany, Australia, Vietnam, Thailand, Lithuania, Latvia. Total conserves exactly: 15,623,521 before and after, confirming this was a pure internal reallocation with no city's own total population affected.*
 
-***Adjusted again 2026-07-06, same day*** — *Byrd's own City Vision Notes session produced a hand-specified re-tiering: a six-way rotation moved USA and Canada into Primary tier (Byrd's actual founding-operator nation, USA, had been buried behind Japan), with Australia, Japan, South Korea, and China filling Significant; a further swap moved China above Indonesia; a final −0.01% rounding correction was applied to China. Deltas computed directly from `Specs/Byrd.md`'s old vs. new per-nation figures: USA +3,987 (2,525,235 → 2,529,222); Canada +15,356 (309,118 → 324,474); Australia +6,453 (693,290 → 699,743); China +1,388 (1,673,586 → 1,674,974); Japan −13,747 (931,974 → 918,227); South Korea −5,586 (875,846 → 870,260); Indonesia −7,840 (558,311 → 550,471). Off by 11 (15,623,532 vs. 15,623,521) due to rounding across 7 affected nations; immaterial.*
+***Adjusted again 2026-07-06, same day*** — *Byrd's own City Vision Notes session produced a hand-specified re-tiering: a six-way rotation moved USA and Canada into Primary tier (Byrd's actual founding nation, USA, had been buried behind Japan), with Australia, Japan, South Korea, and China filling Significant; a further swap moved China above Indonesia; a final −0.01% rounding correction was applied to China. Deltas computed directly from `Specs/Byrd.md`'s old vs. new per-nation figures: USA +3,987 (2,525,235 → 2,529,222); Canada +15,356 (309,118 → 324,474); Australia +6,453 (693,290 → 699,743); China +1,388 (1,673,586 → 1,674,974); Japan −13,747 (931,974 → 918,227); South Korea −5,586 (875,846 → 870,260); Indonesia −7,840 (558,311 → 550,471). Off by 11 (15,623,532 vs. 15,623,521) due to rounding across 7 affected nations; immaterial.*
 
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|

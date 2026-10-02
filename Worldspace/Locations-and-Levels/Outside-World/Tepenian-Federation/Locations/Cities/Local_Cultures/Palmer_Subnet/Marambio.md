@@ -25,13 +25,13 @@
 | Significant | Germany, UK, Spain, Canada, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
 
-*Marambio's Significant tier is unusually broad for the Palmer subnet — six nations rather than the more typical five, including Spain, which doesn't appear at this tier in most other Peninsula cities. Argentina, the actual founding-operator nation (Argentine Air Force heritage), sits at Notable tier by Census II — diluted like every Palmer subnet founding nation, though the original base's military character left a deep institutional imprint on the city that outlasted the founding population's own numeric share.*
+*Marambio's Significant tier is unusually broad for the Palmer subnet — six nations rather than the more typical five, including Spain, which doesn't appear at this tier in most other Peninsula cities. Argentina sits at Notable tier by Census II — diluted like every Palmer subnet founding nation.*
 
 ---
 
 ## 2. Founding Story
 
-The Argentine Air Force had operated Marambio Base since 1969, giving Seymour Island a continuous human presence and a functional runway years before the exile era began. When the Falkland Treaty exiles arrived, they inherited a working aviation hub rather than an improvised settlement — Argentine exiles, carrying the Air Force's institutional character, built a city directly around that infrastructure. The name was kept, honoring Vicecomodoro Gustavo Marambio.
+The Argentine Air Force had operated Marambio Base since 1969, giving Seymour Island a continuous human presence and a functional runway years before the exile era began. When the Falkland Treaty exiles arrived, they inherited a working aviation hub rather than an improvised settlement — Argentine exiles built a city directly around that infrastructure. The name was kept, honoring Vicecomodoro Gustavo Marambio.
 
 Marambio and Esperanza together gave the Argentine exile community a strong presence across the northern Antarctic Peninsula — two cities, one air-hub identity and one children-of-exile identity, both distinctly Argentine in origin even as later immigration reshaped their populations.
 
@@ -71,7 +71,7 @@ confirmed receiving node for South America (Tepenia's Upper Earth shipping partn
 is Marambio's actual link to both worlds simultaneously — a real, felt distinction for anyone working
 the docks versus anyone working the runway.
 
-- **a. Founding tension** — Argentina founded the city and gave it its military-institutional
+- **a. Founding tension** — Argentina founded the city and gave it its operational, airfield-first
   character, later diluted to Notable tier (0.74% by Census II — the deepest founding-nation erosion
   documented anywhere in the Palmer subnet) by the same broad immigration pattern (USA Primary, six
   Significant-tier nations) seen across the Palmer subnet.
@@ -212,7 +212,7 @@ Practically significant through connectivity rather than political ambition — 
 
 ## 22. Relationship to Upper Earth
 
-Filtered primarily through the Argentine founding population's own Air Force institutional history, layered against the broader immigration wave (USA, Germany, UK, Spain, Canada, Mexico, Brazil) that reshaped the city's demographics over time.
+Filtered primarily through the Argentine founding population's own history, layered against the broader immigration wave (USA, Germany, UK, Spain, Canada, Mexico, Brazil) that reshaped the city's demographics over time.
 
 ---
 
@@ -240,7 +240,7 @@ Practical and aviation-oriented — Arcanet use here likely centered on coordina
 
 ## 26. Municipal Holidays
 
-- **Founders' Flight** *(placeholder name)* — commemorating the Argentine Air Force's original 1969 presence and the inherited runway
+- **Founders' Flight** *(placeholder name)* — commemorating the founding and the inherited runway
 - *A second municipal holiday is open — "The Warm Ground" previously held this slot as a fossil-record observance, struck per the developer's own correction that Seymour Island's paleontology isn't a driver of the city's culture; not yet replaced.*
 
 ---

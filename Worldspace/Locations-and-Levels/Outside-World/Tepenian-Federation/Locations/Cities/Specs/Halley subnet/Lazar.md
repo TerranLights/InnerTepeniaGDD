@@ -6,7 +6,7 @@
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
 **Highway access:** Eastern terminus of Hwy 7 proper; origin point of the Belgrano Highway Extension (Hwy 7-ext, built 2611–2614) toward Princess Elisabeth and Sayowa
-**Significance:** The only Halley subnet city formed from the coalescence of two originally separate settlements; resolves the India-founding-population canon gap (see canon note) by crediting the real, continuously-operated adjacent Russian station rather than inventing a founding nation from nothing. **Tepenia's single largest city by population, both pre- and post-war** (see Population Note below).
+**Significance:** The only Halley subnet city formed from the coalescence of two originally separate settlements; resolves the India-founding-population canon gap (see canon note) by having the adjacent Russian-founded settlement expand into the unoccupied Maitri site rather than inventing a founding nation from nothing. **Tepenia's single largest city by population, both pre- and post-war** (see Population Note below).
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational — Tepenia's largest city overall, badly hit but not destroyed
 
 ---
@@ -25,7 +25,7 @@ The in-fiction justification for Lazar's outsized scale: near-coastal position (
 
 No Indians or people from the South Asian subcontinent (including Pakistan, Bangladesh, or related nations) ever came to Antarctica or settled in Tepenia. This is established world canon. The real Maitri Station (India) was therefore **completely unoccupied** when the exile era began — its infrastructure present but unclaimed by any Indian population. The real-world station name "Maitri" (Sanskrit: friendship) does not carry forward into Tepenia in any form.
 
-What resolves the gap: the real Novolazarevskaya Station (Russia) sits in the same Schirmacher Oasis, essentially adjacent to Maitri — continuously operated since January 1961 without interruption, one of the most durable year-round Antarctic stations in the real world. Rather than invent a founding population for the Maitri site from nothing, Tepenia's founding history has the nearby, already-established Russian settlement expand into and eventually absorb the unoccupied site — see Founding, below.
+What resolves the gap: the real Novolazarevskaya Station (Russia) sits in the same Schirmacher Oasis, essentially adjacent to Maitri. Rather than invent a founding population for the Maitri site from nothing, Tepenia's founding history has the nearby, already-established Russian settlement expand into and eventually absorb the unoccupied site — see Founding, below.
 
 See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson) for the same India-exclusion situation at the other Indian Antarctic station — resolved differently there (Japanese diplomatic allocation, not adjacent-station coalescence).
 
@@ -39,7 +39,7 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany, France, UK, Russia *(founding infrastructure heritage — co-located Novolazarevskaya station)*, Brazil |
+| Significant | Germany, France, UK, Russia, Brazil |
 | Notable | Poland, Netherlands, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -154,24 +154,24 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 
 **Settled:** Post-Falkland Treaty, in three stages:
 
-1. **Two smaller settlements.** Russian exiles inherited the real, continuously-operated Novolazarevskaya Station — never abandoned even in the real world, running year-round since 1961 — and it became the area's first, larger, more established Tepenian settlement. The nearby Maitri site, unoccupied since no Indian exile population ever arrived, became a second, smaller settlement, populated not independently but as an outgrowth of Novolazarevskaya itself — overflow population expanding into ready-built, unclaimed infrastructure a short distance away.
+1. **Two smaller settlements.** Russian exiles settled the Novolazarevskaya Station infrastructure, and it became the area's first, larger, more established Tepenian settlement. The nearby Maitri site, unoccupied since no Indian exile population ever arrived, became a second, smaller settlement, populated not independently but as an outgrowth of Novolazarevskaya itself — overflow population expanding into ready-built, unclaimed infrastructure a short distance away.
 2. **Coalescence.** As both settlements grew, the physical and social distance between them collapsed — what began as two related but separate communities became, over time, one continuous urban area. The city that resulted was a genuine composite: Novolazarevskaya's institutional core and Maitri's physical expansion, functioning as a single settlement in every practical sense.
 3. **The rename.** The merged city was first known simply as Novolazarevskaya, matching its dominant founding population. But over succeeding generations, American, German, French, and Brazilian immigration reshaped the city's demographics until the Russian founding population was outpaced by all of them combined — the same dilution pattern every Halley subnet founding nation experiences, just with an unusually strong secondary hold given Novolazarevskaya's real infrastructure advantage. As the city's day-to-day linguistic and cultural center of gravity shifted, the long, specifically Russian name became a burden the new demographic majority had no attachment to — and it was phonetically truncated down to "Lazar," keeping a recognizable fragment of the original name (and, fittingly, a fragment that reads as a legitimate personal name in its own right) while shedding the rest.
 
-**Founding population:** Russian exiles (Novolazarevskaya heritage), later demographically overtaken by USA (Primary), and Germany, France, UK, and Brazil (Significant tier) — see full composition in `Official_Population_Census.md`.
+**Founding population:** Russian exiles, later demographically overtaken by USA (Primary), and Germany, France, UK, and Brazil (Significant tier) — see full composition in `Official_Population_Census.md`.
 
 ---
 
 ## Character & Culture
 
-Lazar's civic identity is built on being a genuine merger rather than a single founding story — the only Halley subnet city that can't point to one founding population's arrival, because it began as two. The Russian founding population, still present and honored (Novolazarevskaya's continuous, unbroken operational history is a real point of pride — a station that never went dark, inherited by a city that carried that same unbroken-function ethos right up until the Long Night War), gave way over generations to a broader demographic mix without a single new claimant sitting cleanly in its place. Rather, four populations at once (USA, Germany, France, and Brazil, alongside the UK) all arrived and settled at comparable scale, building the city into what was, by Antarctican standards, a genuine megacity — which is exactly what made it a plausible target once the war came, and exactly what kept it from being erased entirely when the bombs actually fell.
+Lazar's civic identity is built on being a genuine merger rather than a single founding story — the only Halley subnet city that can't point to one founding population's arrival, because it began as two. The Russian founding population, still present and honored, gave way over generations to a broader demographic mix without a single new claimant sitting cleanly in its place. Rather, four populations at once (USA, Germany, France, and Brazil, alongside the UK) all arrived and settled at comparable scale, building the city into what was, by Antarctican standards, a genuine megacity — which is exactly what made it a plausible target once the war came, and exactly what kept it from being erased entirely when the bombs actually fell.
 
-**Nationally known for:** Being a merged city — two settlements, one identity. The Novolazarevskaya heritage and its unbroken operational history, now tested by the war in a way it never had been before. The Schirmacher Oasis meltwater lakes. Being the eastern terminus of Hwy 7 and the origin point of the Belgrano Highway Extension. Being one of the few Halley subnet cities large enough to take a real beating and keep functioning anyway.
+**Nationally known for:** Being a merged city — two settlements, one identity. The Schirmacher Oasis meltwater lakes. Being the eastern terminus of Hwy 7 and the origin point of the Belgrano Highway Extension. Being one of the few Halley subnet cities large enough to take a real beating and keep functioning anyway.
 
 ---
 
 ## Economy & Industry
-Oasis resources (meltwater lakes, exposed bedrock, the unique microclimate), Halley subnet internal trade, whatever institutional legacy Novolazarevskaya's real logistics-hub role (part of the real-world DROMLAN air network) carried into Tepenia. Full detail TBD for DLC 5. *(Developer vision session, 2026-07-05 — see `City_Vision_Notes/Lazar.md`:)* The city visibly supports genuine megacity-scale commercial density — holographic advertisements and multicolored lights throughout — but what's actually driving an economy large enough to justify that presence is explicitly unresolved and flagged as needing real development, not just a placeholder gap.
+Oasis resources (meltwater lakes, exposed bedrock, the unique microclimate), Halley subnet internal trade. Full detail TBD for DLC 5. *(Developer vision session, 2026-07-05 — see `City_Vision_Notes/Lazar.md`:)* The city visibly supports genuine megacity-scale commercial density — holographic advertisements and multicolored lights throughout — but what's actually driving an economy large enough to justify that presence is explicitly unresolved and flagged as needing real development, not just a placeholder gap.
 
 ---
 
@@ -208,7 +208,6 @@ Lazar's legacy is coalescence itself — proof that two separate beginnings, one
 
 ## Open Questions
 - **The exact timeline of coalescence** — how many generations passed between the two settlements' founding and their merger into one city?
-- **Novolazarevskaya's institutional legacy** — did the real station's DROMLAN air-logistics-hub role carry forward into Tepenia as a specific city function?
 - **The former Maitri district today** — does the old dividing line between the two original settlements still register as a cultural or social boundary within the city, or has it fully dissolved? Does it also correlate with which parts of the city took the worst war damage?
 - **The Schirmacher lakes in community life** — what role did the meltwater lakes play? Social gathering? Water resource? Scientific study?
 - **Relationship to Neumayer** — the nearest confirmed Halley subnet city; what was the pre-war connection?

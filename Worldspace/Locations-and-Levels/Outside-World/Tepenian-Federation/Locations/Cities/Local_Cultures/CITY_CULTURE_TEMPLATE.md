@@ -13,6 +13,11 @@
 
 ## PART I — FOUNDATIONS
 
+> ⛔ **Founders come only from `Locations/Cities/Founding_Register.md`.** Copy the city's row (founders, ruling, status).
+> Never take a founding claim from spec prose, census tags or another city's sheet. A founding nation stands on
+> geography and access, never on the real station (`DR-19`). Station facts are infrastructure only (`DR-24`). If the
+> row is ⏸️ open or ⛔ overturned, say "not yet ruled" wherever a founder would go.
+
 ---
 
 ## 1. National/Ethnic Composition
@@ -23,13 +28,13 @@
 | Significant | |
 | Notable | |
 
-*[Notes on founding wave nations, long-run primary dynamics, or any unusual composition features]*
+*[Founders: the city's `Founding_Register.md` row. Then notes on long-run primary dynamics or any unusual composition features. Leave out any founding tags carried in the census tables.]*
 
 ---
 
 ## 2. Founding Story
 
-*Prose — how this city came to be post-Falkland Treaty; who arrived first; early crises or defining moments; what set the city's character before it stabilized; any significant naming decisions*
+*Prose — how this city came to be post-Falkland Treaty; who arrived first (only as the Register holds it); early crises or defining moments; what set the city's character before it stabilized. The city's name is an inherited map label; don't present it as the founders' choice unless a ruled founder gives a reason of its own*
 
 ---
 
@@ -55,7 +60,7 @@
 
 *Prose — expanded description of the core cultural identity; what this city is, in full*
 
-- **a. Founding tension** — *[where the founding wave identity persists vs. where the long-run majority rewrote it; or, if the founding and long-run primary are the same, what the internal tension is instead]*
+- **a. Founding tension** — *[where the founders' identity (per the Register) persists vs. where the long-run majority rewrote it; or, if the founding and long-run primary are the same, what the internal tension is instead. If the Register row is ⏸️ or ⛔, leave this open]*
 - **b. Fault lines** — *[live internal divisions within the culture; what the city disagrees with itself about]*
 
 ---

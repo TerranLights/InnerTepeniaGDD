@@ -9,13 +9,12 @@ canon reference in this project, it remains open to future revision** — promot
 means "confirmed working reference," not "frozen forever."
 
 **Two independent symbol systems, paired per-city:**
-- `Planetary_Symbols.md` — the nine planets (Mercury through Pluto) plus a tenth symbol, the Asteroid Belt.
-  Invented from scratch rather than drawn from real-world astrology; each planet's meaning is instead grounded
-  in a real, verifiable astronomical or physical fact about that specific planet.
-- `Robot_Elementals.md` — eight elements: the Chinese Wu Xing five (Earth, Fire, Water, Wood, Metal) plus Air
-  (the Greek/Western import, kept deliberately outside the Wu Xing correspondence system rather than forced
-  into an artificial slot), plus two "robot elements" grounded in real physics rather than any existing
-  tradition (Electricity, Magnetism).
+- `Planetary_Symbols.md` — the Sun, the nine planets (Mercury through Pluto), and the Asteroid Belt, eleven
+  members in all. Invented from scratch rather than drawn from real-world astrology; each member's meaning is
+  grounded in a real, verifiable astronomical or physical fact about that specific body.
+- `Robot_Elementals.md` — eight elements: Earth, Air, Fire, Water, Wood, and Metal, plus two "robot elements"
+  (Electricity, Magnetism). All eight are grounded in a real, verifiable physical fact about that specific
+  element; none carries a Wu Xing or other traditional correspondence.
 - `City_Symbol_Assignments.md` — a Planet + Element pair for each of the 35 outer cities (34 assigned; Abowasa
   excluded pending its own founding-nation fix), each pairing derived from and justified against that city's
   own already-established personality — cross-checked specifically against the three-axis reads in the
@@ -44,13 +43,13 @@ paths.
 
 | File | Contents |
 |---|---|
-| `Planetary_Symbols.md` | All 10 planetary/solar symbols, each with a grounding fact, a one-word core, a one-line summary, and a full positive/negative dual-valence read |
-| `Robot_Elementals.md` | All 8 elements, each with the same dual-valence depth, following the Wu Xing correspondence system (direction/season/color/virtue/emotion) where applicable |
+| `Planetary_Symbols.md` | All 11 planetary/solar symbols, each with a grounding fact, a one-word core, a one-line summary, and a full positive/negative dual-valence read |
+| `Robot_Elementals.md` | All 8 elements, each with the same dual-valence depth, grounded in physical derivation — no traditional correspondence carried on any member |
 | `City_Symbol_Assignments.md` | The per-city Planet + Element pairing table, organized by subnet, with the specific already-established city fact each pairing is grounded in |
 
 ## Distribution and Overlap
 
-With only 10 planetary symbols and 8 elements across 34 assigned cities, some repetition is mathematically
+With only 11 planetary symbols and 8 elements across 34 assigned cities, some repetition is mathematically
 inevitable — see `City_Symbol_Assignments.md`'s own distribution notes for the exact counts. As with the
 Zodiac substrate's own overlap cases, a handful of repeats are flagged as deliberate echoes of already-
 established kinship rather than coincidence (Kunlun, Vostok, and Dome Fuji all sharing Pluto mirrors their

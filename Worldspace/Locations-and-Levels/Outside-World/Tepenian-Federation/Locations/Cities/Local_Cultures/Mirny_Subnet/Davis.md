@@ -40,11 +40,11 @@ Asian corridor at this specific longitude.*
 
 ## 2. Founding Story
 
-Davis Station had been operated by the Australian Antarctic Division since 1957, in the Vestfold Hills — one of the largest ice-free coastal oasis areas on the continent, roughly 400 km² of exposed rock, lakes, and fjord-like inlets. When Falkland Treaty exiles arrived, they inherited both the physical station and decades of accumulated Australian environmental research into a landscape unlike almost anywhere else in Tepenia.
+Davis Station had been operated by the Australian Antarctic Division since 1957, in the Vestfold Hills — one of the largest ice-free coastal oasis areas on the continent, roughly 400 km² of exposed rock, lakes, and fjord-like inlets. When Falkland Treaty exiles arrived, they inherited both the physical station and its accumulated research records on a landscape unlike almost anywhere else in Tepenia.
 
 The name carries a specific, deliberate weight. John King Davis was not an explorer in the flag-planting sense — he was a ship's captain, the man whose seamanship enabled other people's expeditions to happen and, critically, to come home. He captained the *SY Aurora* on Mawson's expeditions and completed the relief voyage that rescued Mawson's stranded party after the loss of his companions. Davis isn't a Tepenian Saint (the Saints are pre-2083 explorers, not supporting mariners), but the founding generation chose his name deliberately anyway: a monument not to glory, but to the unglamorous, essential competence that makes glory possible for someone else.
 
-Australian founding character shaped Davis from the outset, alongside — but administratively separate from — Casey and the subnet hub Mirny itself. Davis never carried Mirny's hub weight or Casey's junction-city function; instead, the city organized itself around the specific, exceptional resource its founders inherited: terrain unlike any other in Tepenia, and the research tradition needed to actually understand it.
+Australian founding character shaped Davis from the outset, alongside — but administratively separate from — Casey and the subnet hub Mirny itself. Davis never carried Mirny's hub weight or Casey's junction-city function; instead, the city organized itself around the specific, exceptional resource its founders inherited: terrain unlike any other in Tepenia, which demanded a research tradition of the city's own to actually understand it.
 
 ---
 

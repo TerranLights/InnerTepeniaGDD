@@ -262,9 +262,8 @@ material for the eventual "places/things/people" follow-on pass once the full ch
   with nothing left to translate or modify.
 - **A genuinely unique founding story among all nine cities run so far:** Zhongshan's founding population
   *defected* — chose robots over their own nation — rather than being exiled by treaty (Sinheung, Shirayuki)
-  or settling organically (Casey, Davis). Combined with being the *one* exception to this subnet's rotating-
-  operator founding model (real population continuity, not handoff-via-written-record), this produces an
-  unusually deep, unselfconscious cultural inheritance no other city's robots have.
+  or settling organically (Casey, Davis). Combined with real population continuity from that founding
+  generation, this produces an unusually deep, unselfconscious cultural inheritance no other city's robots have.
 - **All three cross-city tensions flagged forward by earlier cities got checked against real content, not
   left as assumptions:** confirmed genuinely opposite Enneagram expression vs. Sinheung (same Gut-centered
   theme, opposite direction); confirmed — not refuted — Davis's claimed Arcanet-orientation overlap as real
@@ -1322,7 +1321,7 @@ written. Reconciled 2026-08-11 after direct verification the underlying file is 
   actively avoids checking its own heritage while Port Lockroy actively documents and accounts for its own; Cape
   Adare is the closest real family resemblance (both build civic identity around preservation-as-practice) but
   via a different structure — a single dedicated archive building versus diffuse, physically-incorporated
-  layered architecture. Rothera and Signy (both confirmed sibling BAS-heritage cities, per §23) flagged forward
+  layered architecture. Rothera and Signy (both confirmed connections, per §23) flagged forward
   for real re-checks once run.
 
 ---
@@ -1436,8 +1435,8 @@ flag)
   tradition bought by comparative isolation, Sejong's constant fluency-in-contrast bought by extreme density —
   with nothing transplanting either direction.
 - **Swap Test checked directly against Palmer City (Strong Political/Economic tie), Janbogo and Sinheung (both
-  Medium Demographic "Korean-founded kinship" ties, confirmed consistent with rather than contradicted by the
-  corrected canon, since neither tie claims living cultural continuity in the first place), with Abowasa
+  Medium Demographic ties resting on Sejong's own Korean community; Sejong itself was founded by immigrants from
+  the Americas, `DR-20`), with Abowasa
   deliberately left unchecked per the standing project-wide deferral.** Signy flagged forward generally, with
   no specific connection-file tie requiring a targeted re-check.
 
@@ -1486,9 +1485,9 @@ Elisabeth's, Scott's, Port Lockroy's, and Rothera's own forward flags)
   narrower in the one place robots need it most), Kunlun and Vostok (Medium Technical, power-engineering-only,
   no robot-culture transplant), Rothera (Medium Infrastructure, already resolved from Rothera's own side,
   confirmed directly), Scott (Medium Cultural, a real subnet-position resemblance with no findings-level
-  transplant), and Port Lockroy (confirmed sibling BAS-heritage city, resolved as the cleanest non-match of the
-  three BAS-heritage siblings — each city genuinely differentiated its shared institutional origin into a
-  wholly different civic character: Rothera operational, Port Lockroy historical, Signy scientific).
+  transplant), and Port Lockroy (confirmed connection, resolved as the cleanest non-match of the three — each
+  city holds a wholly different civic character: Rothera operational, Port Lockroy historical, Signy
+  scientific).
 
 ---
 
@@ -1497,7 +1496,7 @@ Elisabeth's, Scott's, Port Lockroy's, and Rothera's own forward flags)
 Esperanza, Juan Carlos, Marambio, Palmer City, Port Lockroy, Rothera, Sejong, Signy — all in Draft status,
 awaiting developer review. Every forward-flagged cross-city tension raised during the subnet's run was
 eventually checked against the actual target city's real content, not left as an assumption:
-- Port Lockroy → Rothera/Signy (BAS-heritage sibling re-checks) — resolved, both cleanly differentiated from
+- Port Lockroy → Rothera/Signy (connection re-checks) — resolved, both cleanly differentiated from
   Port Lockroy's own historical/memorial character (Rothera operational, Signy scientific).
 - Juan Carlos → Sejong (Coherence vs. Contrast faction) — resolved as a genuine structural opposite.
 - Palmer City → Sejong (Strong Political/Economic gateway tie) — resolved as a clean non-match beneath a real

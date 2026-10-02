@@ -38,9 +38,7 @@ online.*
   Synthesis), §26 (the two placeholder holidays, Founders' Instrument and The Schematic).
 - **Input B — Geography & Geology:** `Specs/Neumayer.md`. Ekström Ice Shelf, floating rather than bedrock,
   hydraulic-leg architecture extending the real Neumayer III's own snow-accumulation design into full civic
-  architecture. Founding: post-Falkland Treaty exiles inheriting a rotating-operator AWI station chain — a
-  documentary starting point (preserved journals, logs, orientation manuals), not a living taught institution,
-  the same mechanism already confirmed for Mirny and Sayowa in other subnets. **Confirmed: Neumayer is not on
+  architecture. Founding: post-Falkland Treaty exiles. **Confirmed: Neumayer is not on
   Hwy 7 directly** — reached via a small, unnamed connector road branching off between Abowasa and Sanay, and
   is explicitly **not** one of the subnet's two coastal receiving ports (that's Belgrano and Sanay) — a
   genuinely more physically set-apart position than either subnet-mate processed so far.
@@ -53,7 +51,7 @@ online.*
   this pass most directly.
 - **Input D — Source Inspirations:** `Inspirational-Influences.md` and `Neumayer_Catalog.md`'s per-nation
   material — the sixth city catalog completed project-wide, genuinely rich. Los Alamos (USA), Garching bei
-  München (Germany, especially fitting given founding-operator heritage), Saclay (France), and Harwell (UK)
+  München (Germany), Saclay (France), and Harwell (UK)
   all independently converge on the same underlying value — intellectual/technical achievement as the primary
   status marker — via four genuinely distinct national research-prestige traditions, a real internal civic
   friction (whose tradition carries the most weight here) the Catalog itself flags as worth developing further.
@@ -306,7 +304,7 @@ localize per city.*
   institutionally anchored to the Precision Institute specifically)*
   Sanay's own file flagged this directly for a real re-check once Neumayer was run — resolving it honestly,
   not just checking it off. Neumayer's own material neither confirms nor refutes the hypothesis. The
-  precondition is real: Neumayer does hold a substantial, founding-operator-heritage German population
+  precondition is real: Neumayer does hold a substantial German population
   (9.39%, Significant tier), and the geography is plausible (the two cities sit closer to each other than
   either does to most of the rest of the subnet). But nothing in Neumayer's own gathered material — not its
   §23 relationships section, not `City_National_Connections.md`'s own detailed Neumayer entry, not a single

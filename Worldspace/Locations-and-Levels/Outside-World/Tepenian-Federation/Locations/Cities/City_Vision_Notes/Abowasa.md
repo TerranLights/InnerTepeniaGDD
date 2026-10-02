@@ -8,7 +8,7 @@
 
 ## Facts and factions presented (2026-07-04 recap)
 
-Basen nunatak, Vestfjella mountains (= the Kraul Mountains — same range, Norwegian vs. English naming, confirmed 2026-07-05), Queen Maud Land. Halley subnet. **Status: Damaged; partially operational.** Tepenia's only jointly-founded city — Finland (FINNARP) and Sweden (SWEDARP) both contributed founding population simultaneously. Population (Census II) 310,791H/296,650R/607,441 combined — one of the few Tepenian cities where humans slightly outnumber robots. Composition: USA Primary; Germany/France/UK/Russia/Brazil Significant; Sweden and Finland (both founding heritage) diluted together to Notable tier. Identity: "Two Peoples, One Small Place" — a doubled founding-vs-majority tension, negotiated household by household rather than citywide, no anonymity to hide behind given the small population.
+Basen nunatak, Vestfjella mountains (= the Kraul Mountains — same range, Norwegian vs. English naming, confirmed 2026-07-05), Queen Maud Land. Halley subnet. **Status: Damaged; partially operational.** Tepenia's only jointly-founded city — Finland and Sweden both contributed founding population simultaneously. Population (Census II) 310,791H/296,650R/607,441 combined — one of the few Tepenian cities where humans slightly outnumber robots. Composition: USA Primary; Germany/France/UK/Russia/Brazil Significant; Sweden and Finland (both founding heritage) diluted together to Notable tier. Identity: "Two Peoples, One Small Place" — a doubled founding-vs-majority tension, negotiated household by household rather than citywide, no anonymity to hide behind given the small population.
 
 **Factions:** Competence Without Commentary (second interwar) — Abowasa's position: competence is intimacy management.
 

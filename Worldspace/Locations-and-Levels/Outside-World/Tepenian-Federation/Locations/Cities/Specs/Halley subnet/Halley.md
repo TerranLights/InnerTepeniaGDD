@@ -134,7 +134,7 @@ The Weddell Sea is one of the most ice-choked bodies of water in the world — t
 
 **Settled:** Post-Falkland Treaty. The British exiles arrived at Halley Station — whichever iteration was current at the time — and built on it. They inherited both the infrastructure and the problem: a station on moving ice requires constant management, and the founding generation had to decide immediately what their relationship with that movement would be.
 
-**Founding population:** Primarily British exiles alongside a broader Atlantic-region community. The UK had maintained Halley Station for over a century before the exile era; the institutional knowledge of how to live on a floating ice shelf came with the founding population.
+**Founding population:** Primarily British exiles alongside a broader Atlantic-region community.
 
 The founding generation made a decision that defined the city ever after: they would not fight the movement. They would design for it. Halley's architecture was built to be relocated — modular structures on ski-mounted platforms, designed to be towed across the ice surface when the ice dynamics required it. This was not a compromise; it was a philosophy. The city acknowledged that it lived on borrowed ground and built accordingly.
 
