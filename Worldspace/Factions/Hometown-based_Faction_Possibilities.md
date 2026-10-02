@@ -1,7 +1,7 @@
 # Suggested Collective Groupings from Tepenian City Refugee Backgrounds
 
 **Date:** June 30, 2026  
-**Purpose:** Purely exploratory suggestions for organic collective groupings (affinity groups, mutual-aid networks, cultural/philosophical circles, proto-factions) that refugees from various Tepenian home cities would naturally form in Concordia. These are derived strictly from the kinds of lives people lived in their cities of origin — shaped by geography, climate, station heritage, daily realities, and shared history — without reference to power structures, grid control, or end-game ambitions.
+**Purpose:** Purely exploratory suggestions for organic collective groupings (affinity groups, mutual-aid networks, cultural/philosophical circles, proto-factions) that refugees from various Tepenian home cities would naturally form in Concordia. These are derived strictly from the kinds of lives people lived in their cities of origin — shaped by geography, climate, the station infrastructure and records each city inherited, daily realities, and shared history — without reference to power structures, grid control, or end-game ambitions.
 
 **Core Premise**  
 Every Tepenian city developed a distinct character because of its specific geography and environment ("Geography is Character"). Coastal accessibility, extreme inland cold, logistical busyness, or scientific isolation each forged different values, social patterns, survival strategies, and worldviews. When people from these places become refugees in Concordia, they carry those lived experiences with them and naturally cluster around what feels familiar, meaningful, and supportive.
@@ -59,10 +59,10 @@ Every Tepenian city developed a distinct character because of its specific geogr
 
 ---
 
-## 4. Scientific / Research-Station Heritage Cities (Broad Category)
-**Typical origins:** Neumayer (precision focus), Mirny (pioneering/exploratory), Palmer (biological/ecological), and many others with strong research-station roots.
+## 4. Scientific / Research Cities (Broad Category)
+**Typical origins:** Neumayer (precision focus), Mirny (pioneering/exploratory), Palmer (biological/ecological), and many others that took up the research, records and equipment their stations left behind and carried the work on as their own.
 
-**Lived Background:** Data-driven, long-term observational mindset. Value placed on evidence, documentation, interdisciplinary collaboration, and patient discovery. International pre-Tepenia heritage blended into Tepenian identity. Strong emphasis on questioning assumptions and recording accurately.
+**Lived Background:** Data-driven, long-term observational mindset. Value placed on evidence, documentation, interdisciplinary collaboration, and patient discovery. Strong emphasis on questioning assumptions and recording accurately.
 
 ### The Inquiry Accord (or Evidence Circles)
 - **Core belief-system & life principles:** Reliable understanding comes from rigorous observation, honest questioning, and open sharing — especially when findings are uncomfortable.
@@ -96,8 +96,8 @@ These form from shared experiences that cut across multiple city types or from t
 
 ---
 
-## 6. Pioneering / Exploratory Heritage Cities
-**Typical origins:** Mirny-style stations and other frontier-oriented outposts known for pushing boundaries under harsh conditions.
+## 6. Pioneering / Exploratory Cities
+**Typical origins:** Mirny-style frontier cities and other settlements built out into the harshest terrain, known for pushing boundaries under harsh conditions.
 
 **Lived Background:** Emphasis on boldness, adaptability to the unknown, first-mover problem-solving, and a cultural pride in having established or expanded settlements in unforgiving terrain. High robot collaboration in exploration and construction.
 
@@ -198,7 +198,7 @@ These form from shared experiences that cut across multiple city types or from t
 ### The Signal-Keepers (or Relay Kin)
 - **Core belief-system & life principles:** Connection is fragile and precious. Clear, honest transmission (of information, emotion, or intent) builds trust; silence or distortion must be navigated with care.
 - **Typical focus:** Practices for reliable communication; support for those experiencing isolation or "signal loss" in the new city; preserving methods of long-distance bonding.
-- **Common expressions:** Message-relay rituals, active listening circles, creative use of symbols or codes drawn from station heritage.
+- **Common expressions:** Message-relay rituals, active listening circles, creative use of symbols or codes drawn from the station's old records.
 
 ### The Echo-Listeners
 - **Core belief-system & life principles:** In isolation, one learns to truly hear what is unsaid as well as what is said. Meaning often arrives in fragments that must be patiently assembled.
@@ -336,7 +336,7 @@ These form from shared experiences that cut across multiple city types or from t
 ---
 
 ## 23. Identity, Naming & Legacy Cities
-**Typical origins:** Places with strong station heritage, multi-generational presence, or deliberate efforts to maintain distinct cultural or personal identities despite uniformity pressures.
+**Typical origins:** Places with long-kept records and names, multi-generational presence, or deliberate efforts to maintain distinct cultural or personal identities despite uniformity pressures.
 
 **Lived Background:** Importance of names, stories, symbols, and self-definition as anchors of continuity and dignity.
 

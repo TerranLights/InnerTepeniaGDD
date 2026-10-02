@@ -4,7 +4,8 @@
 
 * **Primary loyalties:**
   - The truth, proven conclusively rather than just believed — the throughline connecting her original
-    Mexican-conspiracy investigation to her present-day pursuit of the Akina-adjacent case (see
+    Mexican-conspiracy investigation to her present-day pursuit of the `TBN [SE-031]`-adjacent case
+    ("Akina," working title only, not developer-confirmed) (see
     `README.md`'s Personal Questline Hook and Design Notes).
   - The people she's personally close to — a 7w8 Self-Preservation "Keeper of the Castle" builds and protects a
     trusted circle; her "friendly-bitchy" willingness to needle the people she loves is itself a form of holding

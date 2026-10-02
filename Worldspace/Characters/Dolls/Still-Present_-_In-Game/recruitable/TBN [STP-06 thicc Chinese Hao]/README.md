@@ -21,7 +21,7 @@ outward onto a genuine technical mission: developing more material-efficient far
 getting the schematics to Tepenia's space-dwelling population. **[Sourced, 2026-08-24 seed]**
 **Primary Location(s):** Davis, Tepenian Federation (Mirny subnet) — present day. **[Sourced]** Davis is
 Tepenia's established breadbasket and prime ecological/limnological research hub (`Specs/Davis.md` §Character &
-Culture: "sheltered-agriculture and greenhouse cultivation alongside genuine research heritage make up the
+Culture: "sheltered-agriculture and greenhouse cultivation alongside research make up the
 clear majority of daily activity") — an unusually clean fit for her stated goal, not a coincidence of placement.
 **[Strong Inference: her relocation to Davis specifically, rather than staying in Zhongshan, is best explained
 as a deliberate move toward the one city best suited to the work she'd become inspired to do.]**
@@ -44,8 +44,7 @@ main-game roster.]**
 synthesized and built in Davis... not an Upper Earth exile"): that note pre-dated the filled-in seed and
 proposed Davis as her birthplace by inference from Davis's own China-Primary founding tier. Zhongshan is an
 even stronger match for the same reasoning — it is Tepenia's most concentratedly Chinese-founded city (35.83%
-China, Primary tier, versus Davis's 20.51%; `Specs/Zhongshan.md` §Population & Composition), purpose-founded by
-continuous Sinian/Chinese habitation rather than a rotating-operator site. The "Tepenia-native, not an Upper
+China, Primary tier, versus Davis's 20.51%; `Specs/Zhongshan.md` §Population & Composition). The "Tepenia-native, not an Upper
 Earth exile, Chinese-heritage-consistent" core facts stand unchanged; only the specific origin city is
 corrected. She later relocated to **Davis**, present-day residence, which the seed lists as a separate
 "Location" field distinct from origin — consistent with this project's usual pattern of Dolls having a
@@ -168,8 +167,7 @@ from once the workday's tasks are done.
 
 **Sourced, 2026-08-24 seed; refined 2026-08-24 on the origin-city point per Core Identity above.**
 
-Hao was built in Zhongshan — Tepenia's most concentratedly Chinese-founded city, still carrying the weight of a
-major national program's continuous investment — late in the Second Interwar Period, making her genuinely young
+Hao was built in Zhongshan — Tepenia's most concentratedly Chinese-founded city — late in the Second Interwar Period, making her genuinely young
 by robot standards even in the present day. Her purpose at construction is not yet determined.
 
 What set her actual life's direction wasn't her original purpose but a close human friend of hers, born and

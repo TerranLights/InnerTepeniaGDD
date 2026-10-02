@@ -7,7 +7,8 @@
   turned Imelda from a social-media personality into a real investigator for the first time.
 * **The unknown benefactor** — unnamed, unknown even to Imelda herself. Intervened to have her sentence to
   destruction commuted to Antarctic exile instead. A standing mystery, not yet meant to be resolved on the page
-  (see `README.md`'s Design Notes on handling this alongside the Akina connection).
+  (see `README.md`'s Design Notes on handling this alongside the `TBN [SE-031]` connection — "Akina" a
+  working title only, not developer-confirmed).
 * **Abramentes Industries (Las Indústrias de Abramentes)** — her makers. Built her for a purpose she initially
   rejected. Present relationship, if any, TBD.
 * **Original social-media audience (pre-conspiracy)** — a large, genuinely affectionate following built before

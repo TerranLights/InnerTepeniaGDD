@@ -18,7 +18,7 @@ appeared only alongside Fort McMurdo in Candidate #2's Erebus crisis.
   choice, not necessity"; overwhelmingly residential, quiet, family-oriented, the direct experiential
   counterpart to Fort McMurdo's constant operational churn three kilometers away.
 - **Scott's own Local Cultures, Section 5** — Scott's whole civic identity organized around quality and
-  precision over scale; New Zealand, the founding-operator nation, has diluted to Notable tier (3.52%), "one
+  precision over scale; New Zealand, the founding nation, has diluted to Notable tier (3.52%), "one
   of the deepest founding-nation dilutions documented anywhere in Tepenia," yet the culture "shows no sign
   of having noticed the demographic shift" — a genuinely lived, functionally-transmitted civic template, not
   a ceremonial one (consistent with Cross-City Patterns, Pattern 2's own framework, though Scott isn't one

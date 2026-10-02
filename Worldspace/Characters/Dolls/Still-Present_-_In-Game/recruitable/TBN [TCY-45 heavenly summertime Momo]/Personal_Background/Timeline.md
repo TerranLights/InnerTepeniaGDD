@@ -29,7 +29,7 @@ of 2564. Those sections are omitted rather than left blank.
   - Developer's floated options: a wish to be useful; a pull toward a clean/renewable-energy cause; some other
     undetermined motive.
   - The clean-energy option is the best-supported — Princess Elisabeth is the Federation's zero-emissions
-    station and IPF inheritance (`Specs/Princess_Elisabeth.md`).
+    station (`Specs/Princess_Elisabeth.md`).
 - **Move 3 → Zukelli** *(Janbogo subnet)*. Drawn by the **Zukellian sense of community**. **[Sourced]** Possibly
   compounded by an additional motive, currently TBD.
   - Zukelli's civic life centered on communal meals and a food-and-music hospitality culture. By the seed's

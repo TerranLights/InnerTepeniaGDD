@@ -12,8 +12,8 @@ Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 ## Inputs actually used (Step 1 of the design method)
 
 - **Lazar Full Extrapolation, Section IV and VI** — the established civic pride built on Lazar's own
-  century-plus, unbroken "never gone dark" operational tradition, inherited from Novolazarevskaya's own
-  continuously-maintained research-station infrastructure, and the Lazarus echo already noted as fitting
+  century-plus, unbroken "never gone dark" operational tradition, kept since the city's founding on Novolazarevskaya's
+  continuously-maintained research-station infrastructure and the logs and records it left behind, and the Lazarus echo already noted as fitting
   local folklore.
 - **Lazar Full Extrapolation, Section V** — the established, straightforwardly complementary relationship
   between Lazar and Neumayer, with Neumayer's own precision-engineering culture holding an ongoing

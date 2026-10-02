@@ -26,7 +26,7 @@ The complete Ultra-Megasheet for Concordia as a whole — the last functioning m
 
 | | |
 |---|---|
-| **Real-world basis** | Concordia Station, Dome C, East Antarctic Plateau (~75°06'S, 123°20'E) — a real joint French/Italian research station; founding-operator throughline (France and Italy) preserved in Concordia's own population composition even though neither nation ends up numerically dominant |
+| **Real-world basis** | Concordia Station, Dome C, East Antarctic Plateau (~75°06'S, 123°20'E) — a real joint French/Italian research station |
 | **Founding logic** | Not a single founding moment. Settled gradually after the Falkland Treaty (June 21, 2564) as later, less accessible waves — Concordia's own inland position meant it wasn't a first-wave settlement (Palmer City was); it grew specifically *because* coastal cities filled, then fell, one after another |
 | **Structural conceit** | 13 districts: 12 named for zodiac signs (Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces), plus the Hub (Axis Mundi), the one district with no zodiac sign at all, sitting at the center as neutral crossroads. The zodiac naming is explicitly the developer's own out-of-fiction organizational scheme — not an in-world conceit the districts themselves are aware of |
 | **Population (Census I, pre-orbital)** | 504,799 humans / 511,148 robots / **1,015,947** combined |
@@ -99,7 +99,7 @@ Venice's own founding logic was fundamentally defensive — a population fleeing
 
 The actual Concordia Station is jointly operated by France and Italy — two separate national programs sharing one isolated facility, by necessity rather than any deeper cultural affinity, and making it function anyway.
 
-**What this gives Concordia:** a quiet, literal precedent for the Hub's own founding logic (a neutral space forcing cooperation between parties who would not otherwise be under the same roof) sitting directly underneath the fictional city's own real-world namesake, worth treating as more than coincidence.
+**What this gives Concordia:** a quiet, literal precedent for the Hub's own founding logic (a neutral space forcing cooperation between parties who would not otherwise be under the same roof).
 
 ### Supporting: Jerusalem's Old City quarters
 

@@ -69,8 +69,7 @@ by a wide margin. Starter list, per the original brainstorm:
 **Why this is compliant with No National Stereotypes:** none of these read as a founding-population
 group celebrating "their own" heritage — Ancient Egypt, Rome, and Sumeria/Babylonia aren't even among
 Tepenia's 43
-master-list founding nations, and Victorian England predates the modern UK's own founding-operator
-role at any Tepenian city. These holidays exist because robots, with equal access to the entirety of
+master-list founding nations. These holidays exist because robots, with equal access to the entirety of
 human history rather than a filtered inheritance from one ancestry, gravitated toward specific
 aesthetic epochs on their own terms — closer to how a real-world Egyptian-revival or steampunk
 subculture works than how a national heritage holiday works.

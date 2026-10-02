@@ -21,8 +21,7 @@ Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5
   the very outcome that justified Shirayuki's protection being sought in the first place.
 - **Sayowa's own Full Extrapolation, Section I** — the Sayowa name carries genuinely different weight
   depending on who's asked: an ordinary proper noun for the demographic majority, but real, felt generational
-  gravity for the smaller Japanese-heritage community specifically, carriers of JARE's own institutional
-  tradition rather than demographic weight.
+  gravity for the smaller Japanese-heritage community specifically.
 - **Sayowa's own Cross-Reference Synthesis, Finding 3** — "small vessel, outsized cargo": Sayowa's whole
   character, at every scale, runs on modest presentation quietly carrying significance well beyond what its
   own size or self-image would suggest, and Sayowa itself would never be the one to point that out.
@@ -34,7 +33,7 @@ Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5
 ## The Chain
 
 **SETUP** — A member of Sayowa's small Japanese-heritage community wants to properly document and preserve
-their own institutional history — the JARE tradition, the Shōwa-era naming's real generational weight — given
+their own community history — the Shōwa-era naming's real generational weight — given
 how thin that community has grown relative to the city's demographic majority. The player is asked to help
 gather and verify the historical record, a straightforward heritage-preservation task.
 

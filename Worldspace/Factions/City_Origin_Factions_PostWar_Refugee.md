@@ -110,7 +110,7 @@ Each of the four destroyed-city communities is living through this question on i
 
 *Note 2026-07-04: Fort McMurdo's second interwar-era counterpart faction ("Fort McMurdo — Life at the Center of Everything," in `City_Origin_Factions_Second_Interwar.md`) describes the same city *before* it lost this function — worth reading alongside this one for the full arc from dominant hub to displaced community.*
 
-Fort McMurdo was the de facto capital of real-world Antarctica. Everything went through it. For the first decades of Tepenian settlement, McMurdo's logistical heritage was the backbone of how the continent operated. Its residents knew this. Their identity was not just "we are from McMurdo" but "we are the people who kept everything running."
+Fort McMurdo was Tepenia's historical capital. Everything went through it. For the first decades of Tepenian settlement, McMurdo's logistics were the backbone of how the continent operated. Its residents knew this. Their identity was not just "we are from McMurdo" but "we are the people who kept everything running."
 
 That function is gone.
 

@@ -799,7 +799,7 @@ revision inside Phase 9 itself rather than silently merged.
 
 **Divergence table — populated 2026-08-31, Sinheung, Run 5, after two developer-caught corrections to the
 search discipline (see step 6 above and M-38b/observations log).** Full write-up, including both correction
-passes: `Universal_Location_Methodology/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`.
+passes: `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`.
 
 | Sign | Results at Sinheung | Category |
 |---|---|---|
@@ -878,9 +878,10 @@ aftermath, immediately after the technique's own first run and its two search-di
 **What this adds, formalized.** The base Zodiac Lens run (above) asks each of the twelve signs, once, what
 shape it takes at this location on its own terms. This extension asks the same question **again, eighteen more
 times per sign** — once paired with each of the eight Robot Elementals (`City_Symbolic_Substrate/
-Robot_Elementals.md`) and once with each of the ten Robot Planetary Symbols (`City_Symbolic_Substrate/
-Planetary_Symbols.md`, nine planets plus the Asteroid Belt) — **read individually, one at a time, never as the
-location's own already-assigned pair.** Twelve signs × eighteen cross-checks = 216 individual prompts across a
+Robot_Elementals.md`) and once with each of the eleven Robot Planetary Symbols (`City_Symbolic_Substrate/
+Planetary_Symbols.md`, the Sun, the nine planets, and the Asteroid Belt) — **read individually, one at a time,
+never as the location's own already-assigned pair.** Twelve signs × nineteen cross-checks = 228 individual
+prompts across a
 full run. This is a genuine expansion of the search space the base technique already runs, not a separate
 instrument.
 

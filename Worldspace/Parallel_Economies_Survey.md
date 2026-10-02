@@ -16,17 +16,20 @@ when it has —
 3. a **valuation/exchange mechanism** (some way of comparing or trading it, even informally), and
 4. **structural power effects** (who controls the flow gains real leverage over others).
 
-**Relationship to existing canon.** `Worldspace/National_Economy_and_Currency.md` already establishes Tepenia's
-*formal* monetary system in detail (an energy-backed national currency during the Second Interwar Period,
-fracturing into regional currencies plus a cross-subnet trade standard after the Planetary Split Brain). That file is not
-superseded or duplicated here — §1 below places it explicitly on this same rubric for completeness, then every
-other section covers economies that run *alongside, underneath, or independently of* that formal currency, the
-same way the black market already does per `National_Economy_and_Currency.md`'s own "What's Still Open"
-section and the confirmed `10c_Pisces_Black_Market_Origin.md` mechanism.
+**Relationship to existing canon.** `Worldspace/National_Economy_and_Currency.md` establishes only the *shape*
+of Tepenia's formal monetary system, not its mechanism — per-subnet local currencies in the early Federation,
+harmonizing into a national system by the late Second Interwar, re-fracturing into regional currencies plus a
+cross-subnet trade standard after the Planetary Split Brain. **What backs any of these, at any stage, is
+explicitly unsettled** (`National_Economy_and_Currency.md`'s own header; `DR-3`) — do not read "energy-backed"
+into this file's own §1 below or anywhere else. That file is not superseded or duplicated here — §1 below places
+it explicitly on this same rubric for completeness, then every other section covers economies that run
+*alongside, underneath, or independently of* that formal currency, the same way the black market already does
+per `National_Economy_and_Currency.md`'s own "What's Still Open" section and the confirmed
+`10c_Pisces_Black_Market_Origin.md` mechanism.
 
 ---
 
-## 1. Energy/charge — already-confirmed canon, included here as the baseline case
+## 1. Energy/charge — the SHAPE is confirmed canon, the backing is not; included here as the baseline case
 
 **Not a candidate — this is Tepenia's actual, established formal currency**, per `National_Economy_and_Currency.md`.
 Included here only so the rubric above has a worked, confirmed example to check the more speculative entries

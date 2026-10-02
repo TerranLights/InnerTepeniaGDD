@@ -13,7 +13,11 @@ consequences, where natural · what is blocked, and how badly.
 
 ---
 
-## ⚠ DRQ-01 — **WITHDRAWN AND REPLACED, 2026-08-31.** The question was wrong; the date was settled six weeks ago.
+## ⚠ DRQ-01 — **WITHDRAWN AND REPLACED, 2026-08-31.**
+
+> ⛔ **2026-10-01: the "adoption" cited below comes from a Course of Events file, and the developer has ruled that the
+> Background-Lore vignettes and Course of Events files are not canon** (`05_The_Input_Contract.md` rule 3a). **The
+> St. Carsten date is therefore still an open question (REQUESTED), not a settled decision.**
 
 > ### The original question should never have been asked
 >
@@ -689,7 +693,14 @@ model at all; ③ if it does, run the sweep in Division of Industry — not in t
 
 ---
 
-## 🔴 DRQ-14 — ⛔⛔ **THE GPS LAW IS BROKEN IN A CANON FILE — "Bharati-Station-descended founding"**
+## ✅ DRQ-14 — ⛔⛔ **THE GPS LAW IS BROKEN IN A CANON FILE — "Bharati-Station-descended founding"** — **ANSWERED 2026-10-01**
+
+> **Answered by `DR-19`:** a city's founders stand on geography and access, never on the real station; founders come only
+> from `Founding_Register.md`. **The offending line is gone** from `City_National_Connections.md`, and **the
+> Shirayuki–Sayowa tie was re-grounded on Highway 4, not deleted.** **The corpus sweep this item asked for was done** by
+> the 2026-09-30/10-01 station-heritage sweeps and the 2026-10-01 ULM files audit (`Cities/ULM_Files_Mistake_Audit.md`).
+> Closed by the developer, 2026-10-01. The entry below is kept as the record.
+
 
 **Raised 2026-09-06, Shirayuki `Phase 5` re-run, on opening a relationship file the pass had deferred.**
 ⚠ **Flagged rather than edited: it is canon-tier, it appears twice, and one of the two entries belongs to a

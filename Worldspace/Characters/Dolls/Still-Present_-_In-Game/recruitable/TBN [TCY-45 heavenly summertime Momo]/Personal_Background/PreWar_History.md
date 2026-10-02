@@ -83,8 +83,7 @@ She moved there for reasons the seed leaves **open**. **[Sourced as open]** Deve
 3. Some other, yet-undetermined motivation
 
 **[Strong Inference]** Option 2 has the strongest external support: Princess Elisabeth is the Federation's
-International Polar Foundation inheritance and its **zero-emissions station**, the most recently built of the
-founding stations, and its ruined power systems are already flagged as a candidate questline
+**zero-emissions station**, the most recently built of the founding stations, and its ruined power systems are already flagged as a candidate questline
 (`Specs/Princess_Elisabeth.md`). A character motivated toward clean-energy work would fit the city precisely,
 and would hand that questline a personal connection it currently lacks.
 

@@ -145,8 +145,8 @@ that, or simply followed the work and found herself somewhere that fit, is an op
 
 **Princess Elisabeth** *(Halley subnet)* — reasons undecided in the seed; the developer's leading hypothesis is
 a wish to be useful, possibly toward a clean-and-renewable-energy cause. **[Sourced as hypothesis]** **This
-lands on real canon [Strong Inference]:** Princess Elisabeth is the Federation's International Polar Foundation
-inheritance and its zero-emissions station, and its ruined power systems are already flagged as a candidate
+lands on real canon [Strong Inference]:** Princess Elisabeth is the Federation's zero-emissions station, and its
+ruined power systems are already flagged as a candidate
 questline (`Specs/Princess_Elisabeth.md`). The clean-energy motive fits the city exactly and is the strongest of
 the seed's three floated options.
 

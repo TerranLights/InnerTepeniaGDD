@@ -22,8 +22,7 @@ her own track.
 ## Inputs actually used (Step 1 of the design method)
 
 - **Troll's own Full Extrapolation, Section III** — genuine St. Roald (Amundsen) veneration persists at
-  Troll, tracing back to the 1939 Queen Maud Land claim and the Polar Institute's own founding-era history,
-  but has been increasingly overshadowed by the airfield-conflict identity in recent generations: a quieter,
+  Troll, tracing back to the 1939 Queen Maud Land claim, but has been increasingly overshadowed by the airfield-conflict identity in recent generations: a quieter,
   more private practice among older residents, while the city's dominant public identity has shifted almost
   entirely to "whoever holds the runway." An explicitly live, unresolved tension.
 - **Troll's own Full Extrapolation, Section IV** — the two holidays developed directly from that tension:
@@ -34,7 +33,7 @@ her own track.
   the runway and tower, another the fuel depot, another trucking dispatch — none holding all of it, and all
   three plausibly hungry for any usable infrastructure or land they can fold into their own position.
 - **Troll's own Full Extrapolation, Section V** — Chief Airfield Engineer Kristoffer Adeyemi-Solberg, the
-  founding-era Norwegian Polar Institute figure credited with the airfield's original operational capacity —
+  founding-era Norwegian figure credited with the airfield's original operational capacity —
   a natural ancestral figure for a present-day keeper of the older Norwegian civic tradition to be descended
   from or connected to.
 - **Explicitly excluded:** naming a winning faction in the airfield's own central conflict, and any claim
@@ -77,8 +76,8 @@ force it back into living relevance is honest or just a different kind of paving
 
 **BUT** — The reversal cuts against a clean answer either way. Formally preserving St. Roald's Landing as a
 protected, recorded civic institution — a status independent of whichever faction eventually wins the
-airfield fight — genuinely guarantees the site and the observance survive on paper, the way Sanay's own SANAE
-research heritage survives as institutional memory rather than lived work. But it also means accepting, out
+airfield fight — genuinely guarantees the site and the observance survive on paper, as institutional memory rather
+than lived work. But it also means accepting, out
 loud, that the tradition is now history rather than practice, a decision some of the elder's own community
 might experience as a second, quieter loss layered on top of the first — better than demolition, but still
 a kind of ending, formalized rather than fought.

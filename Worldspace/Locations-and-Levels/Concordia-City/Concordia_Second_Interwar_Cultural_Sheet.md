@@ -12,7 +12,7 @@
 **Census II Population:** 309,068 humans / 326,234 robots (635,302 combined) — the same population, roughly 37.5% of it living or working in orbit by Census II; national composition percentages are identical across both censuses (see Section 1)
 **Location:** Dome C, East Antarctic Plateau (~75°06'S, 123°20'E), 3,233m elevation
 
-**One-liner:** *A French-Italian research outpost that grew up alongside a Federation building a space elevator — and by the time that Federation's confidence peaked, had become, almost entirely by accident of longitude, one of the most genuinely Chinese-Japanese-Korean-Russian-Indonesian-Australian cities in it.*
+**One-liner:** *A French- and Italian-founded city that grew up alongside a Federation building a space elevator — and by the time that Federation's confidence peaked, had become, almost entirely by accident of longitude, one of the most genuinely Chinese-Japanese-Korean-Russian-Indonesian-Australian cities in it.*
 
 ---
 
@@ -28,13 +28,13 @@
 | Significant | USA, Thailand, Vietnam, Philippines, Malaysia, New Zealand, Belarus |
 | Notable | Germany, France, UK, Italy, Canada, Spain, Mexico, Poland, Netherlands, Belgium, Sweden, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
-Concordia's real solar longitude — 123°20'E, UTC+8 — puts it deep in the East Asia/Pacific/Russian timezone corridor. A ±5 solar-time-zone eligibility window (wider than the standard ±3 used at every other Tepenian city, by deliberate design for this one) produces exactly the six-nation Primary tier above, plus a seven-nation Significant tier of the same regional character. Europe simply isn't close: France and Italy sit roughly 7 timezones away even at that generous radius. Their real, if modest, Notable-tier presence reflects a founding-operator throughline — France and Italy, Concordia Station's real founding nations, given some recognizable foothold in the city they founded despite the timezone math otherwise excluding them entirely. This is one of the widest founding-nation-vs-long-run-majority gaps anywhere in Tepenia. Full per-nation head counts for both censuses are in `Official_Population_Census.md`, Section A.
+Concordia's real solar longitude — 123°20'E, UTC+8 — puts it deep in the East Asia/Pacific/Russian timezone corridor. A ±5 solar-time-zone eligibility window (wider than the standard ±3 used at every other Tepenian city, by deliberate design for this one) produces exactly the six-nation Primary tier above, plus a seven-nation Significant tier of the same regional character. Europe simply isn't close: France and Italy sit roughly 7 timezones away even at that generous radius. Their real, if modest, Notable-tier presence gives France and Italy some recognizable foothold in the city they founded despite the timezone math otherwise excluding them entirely. This is one of the widest founding-nation-vs-long-run-majority gaps anywhere in Tepenia. Full per-nation head counts for both censuses are in `Official_Population_Census.md`, Section A.
 
 ---
 
 ## 2. Founding Story
 
-Concordia Station predates the exile era by centuries — a joint French-Italian Antarctic research facility, chosen for exactly the qualities that make deep interior sites valuable for science: altitude, isolation, atmospheric stability. When the Falkland Treaty took effect in 2564, Concordia was not a first-wave settlement; the accessible coastal stations, Palmer City foremost, absorbed the earliest exile population. Concordia grew afterward, on its own schedule, as part of something much larger than itself.
+When the Falkland Treaty took effect in 2564, Concordia was not a first-wave settlement; the accessible coastal stations, Palmer City foremost, absorbed the earliest exile population. Concordia grew afterward, on its own schedule, as part of something much larger than itself.
 
 The Federation spent its first century founding cities and wiring them together — highways between city clusters first, then the Arcanet extended subnet by subnet, region by region. Concordia's own three highway connections (Hwy 110 to the Mirny coast, Hwy 37 across the plateau to Sayowa and the Atlantic system, Hwy 183 south to the Ross Sea cities) and its Janbogo subnet Arcanet membership matured during this same nation-building decades, not as an afterthought bolted onto an already-established city but as part of the Federation's deliberate, generation-long project of becoming a real, interconnected country rather than a scatter of exile camps. By the time Hwy 22 — the Transcontinental Highway — reached the South Pole and full-scale construction of the Amundsen Tower began in earnest, Concordia was already a functioning node in a healthy, ambitious Federation, one of the cities whose own growth had helped make that kind of national project imaginable in the first place.
 
@@ -68,7 +68,7 @@ The same physical seasons documented elsewhere (~82-day polar night, ~85-day mid
 
 Second Interwar Concordia's whole character is bound up with the Federation's own ascendant mood during the two and a half centuries it took to found cities, wire a continent together, and build a space elevator. Concordia grew during exactly that window — not the Federation's political capital (that seat is TBD, per `Specs/Concordia.md`'s own open question) and not its cultural capital (that was Palmer City), but a real, confident, well-resourced city within a nation that had genuine reason to believe its best years were ahead of it. Its own population tells a quieter version of the same ambitious, outward-looking story: founded by two European nations, but filled out over two and a half centuries by people who came from across the whole Federation because Concordia specifically, at 123°E, was within their reach and worth the reach — China, Japan, South Korea, Russia, Indonesia, and Australia above all.
 
-- **a. Founding tension** — Between the founding French-Italian scientific-outpost character and the genuinely East-Asian/Pacific/Russian long-run population that came to define the city's numbers, purely as a function of Concordia's own longitude. Most Tepenian cities where founders lose ground to a later majority still see the founders hold Significant status; Concordia's founders don't even manage that, landing in Notable instead — one of the widest founding-vs-long-run gaps in the Federation.
+- **a. Founding tension** — Between the French-Italian founders and the genuinely East-Asian/Pacific/Russian long-run population that came to define the city's numbers, purely as a function of Concordia's own longitude. Most Tepenian cities where founders lose ground to a later majority still see the founders hold Significant status; Concordia's founders don't even manage that, landing in Notable instead — one of the widest founding-vs-long-run gaps in the Federation.
 - **b. Fault lines** — The dome/outdoor divide (Sagittarius, Capricorn vs. everyone else) already existed in this era, per `Specs/Concordia.md`, and is plausibly the city's oldest genuine internal fault line, present from very early in its growth.
 
 ---
@@ -222,7 +222,7 @@ A functioning, fully-connected six-subnet Arcanet, extended region by region dur
 
 ## 25. Export Culture
 
-- Scientific research output, in the tradition of the real Concordia Station's own astronomy, glaciology, and atmospheric-physics work
+- Scientific research output — astronomy, glaciology, and atmospheric-physics work
 - Manufactured goods from Capricorn's industrial yards, at full capacity
 - Whatever cultural and entertainment product Leo produced at its second interwar Early Federation Boom-era height (2570s–2590s)
 

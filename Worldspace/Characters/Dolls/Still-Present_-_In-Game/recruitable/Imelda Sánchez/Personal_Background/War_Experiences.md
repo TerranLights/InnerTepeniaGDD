@@ -9,10 +9,11 @@ questline development reaches this period.
 
 **Possible connection, flagged in `README.md`'s Design Notes:** her Palmer City years, immediately preceding
 this period, plausibly overlap with the timeframe of the Long Night War's own established inciting incident (a
-gynoid, Akina, killing an Upper Earth diplomat in self-defense in Palmer City — see
+gynoid, `TBN [SE-031]` (working title "Akina," not developer-confirmed), killing an Upper Earth diplomat in
+self-defense in Palmer City — see
 `Worldspace/Characters/Dolls/Still-Present_-_In-Game/unsure and_or special cases/TBN [SE-031 Palmer City
 self-defense Akina]/`). Whether Imelda has any direct memory of that period, rather than just a present-day
-investigative interest in it, is undecided and worth developing carefully alongside Akina's own timeline.
+investigative interest in it, is undecided and worth developing carefully alongside her own timeline.
 
 ## TODO
 - [ ] The flight from Port Lockroy to Rothera — route, danger, what was left behind.

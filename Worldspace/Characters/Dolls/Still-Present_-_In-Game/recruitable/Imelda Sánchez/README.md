@@ -221,14 +221,14 @@ See Design Notes for the specific canon connection this goal points at, and why 
   assignment.
 - **The Akina connection — significant finding, flagged 2026-08-15, handle with care:** Imelda's stated goal —
   proving there's more to "the murder in self-defense between the robot and the diplomat" — matches this
-  project's own established Long Night War inciting incident almost exactly: a gynoid (now named **Akina**, see
+  project's own established Long Night War inciting incident almost exactly: a gynoid (`TBN [SE-031]`, working title "Akina," not developer-confirmed, see
   `Worldspace/Characters/Dolls/Still-Present_-_In-Game/unsure and_or special cases/TBN [SE-031 Palmer City
   self-defense Akina]/`) killed an Upper Earth diplomat in self-defense in Palmer City, and the fallout from his
   death is the actual chain of escalation that led to the Long Night War. Imelda's own years living in Palmer
   City, specifically for its social connections, plausibly put her in the right place at the right time for
-  this to have become personal to her — worth developing once Akina's own precise timeline is further along.
-  **Caution, per project's own Mystery = Soft-Detail-Delivery law:** Akina's file already establishes this as
-  "extremely delicate, requiring the utmost care," and the canon record already fully favors Akina's account.
+  this to have become personal to her — worth developing once her own precise timeline is further along.
+  **Caution, per project's own Mystery = Soft-Detail-Delivery law:** her file already establishes this as
+  "extremely delicate, requiring the utmost care," and the canon record already fully favors her account.
   Imelda's quest should not be built to actually overturn or re-litigate that account — the value here is a
   companion whose personal drive is to chase down corroborating proof and expose whatever fed into the
   diplomat's actions, not a mystery-box replacement for settled canon. Full resolution, if any, belongs in
@@ -260,4 +260,4 @@ See Design Notes for the specific canon connection this goal points at, and why 
   - [ ] Identity of the close friend affected, and of the unknown benefactor.
   - [ ] Full personality/voice (Phase 3).
   - [ ] MACHINE stat baseline — proposed above, not locked.
-  - [ ] Questline design, including the Akina-connected thread.
+  - [ ] Questline design, including the `TBN [SE-031]`-connected thread ("Akina," working title only).
