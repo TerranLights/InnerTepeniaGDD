@@ -9,7 +9,7 @@
 - **The Marambio Airfield** — the Palmer subnet's primary aviation hub, the most developed airstrip infrastructure of any Peninsula city, now cratered rubble.
 - **The Marambio Shipyards** — spanning the island's inner side, the confirmed receiving port for the South America shipping corridor, destroyed alongside the airfield in the same strike.
 - **The Picnic Passage Causeway** — Marambio's Hwy 1 crossing, plausibly still intact, now a bridge to nowhere connecting the rest of Hwy 1 to a destination that no longer exists.
-- **The Comandante's Operations Hall** — where the founding-era Air Force officer established the operational discipline that outlasted the founding population's own demographic presence.
+- **The Comandante's Operations Hall** — where the founding-era officer established the operational discipline that outlasted the founding population's own demographic presence.
 
 ## Small offices for educational training (pre-war)
 

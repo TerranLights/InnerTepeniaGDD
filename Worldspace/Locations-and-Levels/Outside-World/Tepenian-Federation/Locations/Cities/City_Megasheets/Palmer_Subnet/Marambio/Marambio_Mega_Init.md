@@ -18,13 +18,13 @@
 | **Status** | Destroyed (Long Night War) |
 | **Subnet** | Palmer — a Hwy 1 waypoint (corrected 2026-07-06; Esperanza is the true northern terminus), reached via the Picnic Passage causeway/bridge chain |
 | **Population (Census II)** | 195,623 humans / 234,522 robots / 430,145 combined (island cap) |
-| **Founding** | Argentine Air Force since 1969; exile community inherited a fully working aviation hub rather than an improvised settlement |
+| **Founding** | Argentine exiles; the exile community inherited a fully working aviation hub rather than an improvised settlement |
 
 ---
 
 ## Who Lives Here, and Why
 
-USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the actual founding-operator nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet, even as the base's own founding-era military-aviation institutional character (discipline, operational rigor — the working culture of an airfield that has to run on schedule) persisted regardless of who was actually staffing it by Census II.
+USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the founding nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet.
 
 ---
 
@@ -64,7 +64,7 @@ Carried forward from `Specs/Marambio.md` and `City_Vision_Notes/Marambio.md`, st
 - ~~A data-quality gap: Marambio is missing from the census's own "Lost and Ruined Cities" section~~ — **resolved 2026-07-13** (`Official_Population_Census.md`'s combined-losses total, during Sejong's own re-check pass), no longer open
 
 **Resolved 2026-07-17:** "Founders' Flight" (Course of Events Suggestion #7, an aviation-focused
-observance honoring the 1969 Argentine Air Force arrival and the exile generation's own founding flight,
+observance honoring the exile generation's own founding flight,
 `Marambio_Course_of_Events_Suggestions.md`) is fully developed, not a placeholder; a second municipal
 holiday slot remains open — see the correction below. Also resolved: Comandante Ezequiel Fariña
 (Suggestion #2) is named as a notable figure. Also resolved: the exact division of labor between

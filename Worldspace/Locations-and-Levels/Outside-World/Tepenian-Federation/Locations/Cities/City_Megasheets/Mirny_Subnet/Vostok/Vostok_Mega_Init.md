@@ -18,7 +18,7 @@
 | **Status** | Survived — extremely remote, but genuinely reachable via Hwy 37 |
 | **Subnet** | Mirny — Arcanet connection theoretical only; the actual physical highway link runs through Kunlun to Concordia instead |
 | **Population (Census I)** | 129,617 humans / 259,644 robots / 389,261 combined |
-| **Founding** | Russian exiles on Vostok Station's infrastructure, inheriting the Lake Vostok drilling program — but the *current* population carries zero connection to that founding story, with no known event explaining the gap (see `Vostok_Full_Extrapolation.md` Section II, revised 2026-07-31) |
+| **Founding** | Russian exiles on Vostok Station's infrastructure — but the *current* population carries zero connection to that founding story, with no known event explaining the gap (see `Vostok_Full_Extrapolation.md` Section II, revised 2026-07-31) |
 
 ---
 

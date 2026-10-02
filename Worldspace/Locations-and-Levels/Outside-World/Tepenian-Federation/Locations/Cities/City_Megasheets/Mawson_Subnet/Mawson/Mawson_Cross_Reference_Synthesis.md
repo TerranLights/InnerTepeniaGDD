@@ -30,7 +30,7 @@
 
 ## Finding 3: Mawson holds two genuinely different kinds of civic prestige on two different timescales
 
-**Combining:** Varna's real ~3,000-year continuous cultural centrality, held simultaneously with a genuinely lived, current resort function + Jeju's real, comparatively recent honeymoon reputation, deliberately earned within living memory rather than ancient + Mawson's own two-tier timeline (a 1954 founding, essentially as old as Tepenia gets, alongside an honeymoon reputation explicitly "earned over decades").
+**Combining:** Varna's real ~3,000-year continuous cultural centrality, held simultaneously with a genuinely lived, current resort function + Jeju's real, comparatively recent honeymoon reputation, deliberately earned within living memory rather than ancient + Mawson's own two-tier timeline (a founding essentially as old as Tepenia gets, alongside an honeymoon reputation explicitly "earned over decades").
 
 **2nd-order effect:** Mawson's two defining reputations operate on genuinely different timescales — the "oldest continuously-occupied site" fact is a founding-era credential, while the honeymoon-destination reputation is a comparatively recent, actively cultivated development, much closer to Jeju's real decades-long timeline than to Varna's own millennia-deep resort identity.
 

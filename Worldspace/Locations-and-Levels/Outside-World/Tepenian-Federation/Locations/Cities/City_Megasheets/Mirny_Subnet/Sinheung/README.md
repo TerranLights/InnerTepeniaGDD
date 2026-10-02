@@ -54,7 +54,7 @@ A real city whose entire modern civic economy was built on integrated textile ma
 
 A city producing a hugely disproportionate share of an entire nation's total vehicle manufacturing output, hosting several major international automakers, while simultaneously carrying deep academic heritage and a growing technology sector — genuine industrial weight paired with layered, less obviously visible depth, none of it centered on political capital status.
 
-**What this gives the city:** a near-exact structural match for its own established "quietly load-bearing infrastructure for the entire Federation" status — manufacturing something so foundational that an outsized share of an entire nation's activity depends on one city's output, despite that city carrying a modest political profile rather than capital-level prominence. Córdoba's own layered identity (industrial, academic, increasingly technological all at once) also mirrors this city's own established combination of industrial fabrication, inherited research tradition, and cluster-diplomacy function.
+**What this gives the city:** a near-exact structural match for its own established "quietly load-bearing infrastructure for the entire Federation" status — manufacturing something so foundational that an outsized share of an entire nation's activity depends on one city's output, despite that city carrying a modest political profile rather than capital-level prominence. Córdoba's own layered identity (industrial, academic, increasingly technological all at once) also mirrors this city's own established combination of industrial fabrication, inherited research records and logs, and cluster-diplomacy function.
 
 ### Secondary: Volgograd — flag resolved 2026-07-14
 

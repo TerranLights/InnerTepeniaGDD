@@ -18,7 +18,7 @@
 | **Status** | Ruins — survived the Long Night War intact, declined afterward; still inhabited (DLC 5) |
 | **Subnet** | Halley — southernmost major city in the subnet, Hwy 7's western end |
 | **Population (Census II)** | 429,820 humans / 407,948 robots / 837,768 combined *(pre-decline figure)* |
-| **Founding** | Argentine Air Force exiles, since 1979; runway inheritance made it the Halley subnet's primary aviation hub |
+| **Founding** | Argentine Air Force exiles; runway inheritance made it the Halley subnet's primary aviation hub |
 
 ---
 

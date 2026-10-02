@@ -127,7 +127,7 @@ Unlike every other item below, this one wasn't proposed here at the time of writ
 
 ## IV. Adapting the Bharati Station Infrastructure
 
-**Proposed:** the real Bharati Station's own 2010s-era design — the newest, most modern infrastructure in the Larsemann Hills cluster — was built for scientific research, and the founding Japanese community adapted it gradually rather than replacing it: former research labs converted into gallery and studio space, dormitory blocks repurposed toward the school system that would eventually draw students nationwide, support buildings folded into the downtown core's now-established art-and-commerce density. This gives the city's present-day "clean, orderly, art-filled" architecture a genuine throughline back to its founding infrastructure, rather than treating the research-station origin and the arts-city present as two disconnected facts.
+**Proposed:** the real Bharati Station's own 2010s-era design — the newest, most modern infrastructure in the Larsemann Hills cluster — was built for scientific research, and the founding Japanese community adapted it gradually rather than replacing it: former research labs converted into gallery and studio space, dormitory blocks repurposed toward the school system that would eventually draw students nationwide, support buildings folded into the downtown core's now-established art-and-commerce density.
 
 ---
 
@@ -197,11 +197,11 @@ The most structurally important proposal here is Section III — dating the clus
 
 *(Corrected 2026-07-13: this finding originally called Shirayuki "the only Tepenian city founded via institutional diplomatic engineering" — wrong. Sinheung was founded via the identical Jeju-do allocation, to Korea rather than Japan. Corrected below to two cities, not one, without weakening the finding's actual argument.)*
 
-**Combining:** the established fact that Japan's Primary-tier demographic status held and was, per the 2026-07-06 correction, explicitly "vindicated" against the regional Chinese pull it was designed to resist + Novosibirsk's Akademgorodok as real-world proof that a deliberately, top-down constructed research/education city can achieve genuine depth and excellence, not just organic ones + the established fact that this city and Sinheung are the only two Tepenian cities founded via institutional diplomatic engineering rather than organic real-station inheritance.
+**Combining:** the established fact that Japan's Primary-tier demographic status held and was, per the 2026-07-06 correction, explicitly "vindicated" against the regional Chinese pull it was designed to resist + Novosibirsk's Akademgorodok as real-world proof that a deliberately, top-down constructed research/education city can achieve genuine depth and excellence, not just organic ones + the established fact that this city and Sinheung are the only two Tepenian cities founded via institutional diplomatic engineering.
 
 **2nd-order effect:** this city represents a double vindication of engineered outcomes over organic chance — both the demographic allocation itself (Japan remaining Primary) and the resulting civic identity (genuine research and arts depth, not a hollow or purely administrative city) worked out as intended, matching Akademgorodok's own real-world precedent that top-down design can produce authentic excellence rather than a lesser imitation of organic growth.
 
-**3rd-order effect:** since virtually every other Tepenian city traces its founding to organic real-station inheritance, this city and Sinheung occupy a genuinely distinctive position in the setting as a whole — the only two concrete, already-resolved test cases for whether deliberate institutional planning can produce outcomes as real and lasting as organic development, rather than a purely theoretical question. The two cases actually agree, strengthening the finding rather than complicating it: both allocated nations ended up genuinely Primary-tier (Japan 36.27% here, Korea 34.62% at Sinheung) — the same Jeju-do mechanism, applied twice to two different nations, produced the same kind of vindicated outcome both times.
+**3rd-order effect:** as the two cities founded by the Jeju-do allocation, this city and Sinheung are concrete, already-resolved test cases for whether deliberate institutional planning can produce outcomes as real and lasting as organic development, rather than a purely theoretical question. The two cases actually agree, strengthening the finding rather than complicating it: both allocated nations ended up genuinely Primary-tier (Japan 36.27% here, Korea 34.62% at Sinheung) — the same Jeju-do mechanism, applied twice to two different nations, produced the same kind of vindicated outcome both times.
 
 **4th-order effect:** if any broader Federation-level conversation about planning versus organic growth were ever to need a real precedent to point to, this city is the one place in Tepenia that could genuinely be cited as evidence either way — a small, specific point of connection between this one city's own founding story and any larger governance or infrastructure-planning discourse elsewhere in the setting.
 
@@ -230,7 +230,7 @@ The most immediately useful finding here is **Finding 2** — it's the one with 
 - **The Shirayuki Institute of Applied and Fine Arts** — the city's flagship university, oriented around highly-technical sub-fields of art and design in their many specific forms; comparable in scope but distinct in focus to Sinheung's smaller university (materials, fabrication, production). Many people, both human and robot, move to Shirayuki specifically to study here, using the Institute as a deliberate stepping stone toward eventually integrating into the local arts and music culture rather than as an end in itself.
 - **The Ashiato Ateliers** — informal studios where residents assemble, alter, and personalize their own homemade Alt-Rock/Alt-Grunge/Alt-Pop garments.
 - **Glacier-Pop Living Rooms** — the informal, friends-and-neighbors performance spaces where the city's massive amateur music scene actually happens, distinct from its formal conservatories.
-- **The Bharati Gallery Halls** — former research labs converted into gallery and studio space, the throughline from Bharati Station's original research infrastructure.
+- **The Bharati Gallery Halls** — former research labs converted into gallery and studio space.
 - **The Founders' Garden** — the physical site tied to the observance celebrating the city's research, education, and arts identity.
 - **The Cluster Boundary Walk** — an informal path crossing into Sinheung's and Zhongshan's own territory.
 - **The Battle Halls** *(added 2026-07-31)* — informal, recurring venues built for direct band-vs-band and performer-vs-performer competitive showcases, distinct in spirit from the collaborative, friends-and-neighbors Glacier-Pop Living Rooms.
@@ -246,7 +246,7 @@ The most immediately useful finding here is **Finding 2** — it's the one with 
 - textile alteration and homemade-fashion craft (the Ashiato tradition)
 - conservatory-style musical training alongside informal amateur mentorship
 - highly-technical art and design sub-fields, via the Institute (sound design, fashion/textile engineering, applied visual media, and comparable specific disciplines)
-- research-institution methodology, inherited from the Bharati Station's own academic origins
+- research-institution methodology
 - self-publishing and small-press craft *(added 2026-08-02)* — writing, editing, and low-volume print production, centered on the Print & Zine Collective
 
 ## Social cohesion mechanisms

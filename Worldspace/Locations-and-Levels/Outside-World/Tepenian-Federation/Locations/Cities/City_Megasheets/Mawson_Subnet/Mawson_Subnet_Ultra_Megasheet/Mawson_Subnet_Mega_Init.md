@@ -27,7 +27,7 @@
 
 ## Who Lives Here, and Why
 
-Mawson subnet's three cities carry three genuinely different relationships to their own founding populations, spanning the full range this project has documented anywhere: Mawson's peaceful, accepted dilution (Australian founders, Chinese-Primary present, no unresolved tension); Sayowa's institutional-weight-without-demographic-weight split (Japanese founders diluted to Significant tier, the Shōwa-era name still meaningful only to a shrinking few); and Dome Fuji's total population succession (the entire founding Japanese research population gone by ordinary attrition, replaced by a 100%-robot devotee population for whom national origin isn't even a relevant category anymore).
+Mawson subnet's three cities carry three genuinely different relationships to their own founding populations, spanning the full range this project has documented anywhere: Mawson's peaceful, accepted dilution (Australian founders, Chinese-Primary present, no unresolved tension); Sayowa's name-weight-without-demographic-weight split (Japanese founders diluted to Significant tier, the Shōwa-era name still meaningful only to a shrinking few); and Dome Fuji's total population succession (the entire founding Japanese research population gone by ordinary attrition, replaced by a 100%-robot devotee population for whom national origin isn't even a relevant category anymore).
 
 This makes Mawson subnet, more than any other in the project, the place where the question "what happens to a founding population over centuries" gets answered in its most varied and most extreme forms — not a subnet with one demographic story and small variations on it, but three genuinely different endings to the same kind of beginning.
 

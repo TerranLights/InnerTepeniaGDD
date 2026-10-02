@@ -36,7 +36,7 @@
 
 ## VI. British Diaspora in Concordia — Folded Into Halley's, Not Separate
 
-**Proposed:** no distinct Rothera-specific diaspora community exists in Concordia, consistent with what's already directly stated in `Specs/Rothera.md`. But given the established real cultural connection between Rothera and Halley (both BAS-origin, "the cultural connection... despite their geographic distance, would have been real"), any Rothera-descended presence in Concordia most plausibly exists folded into and indistinguishable from Halley's own established diaspora community, rather than forming a separate identity of its own.
+**Proposed:** no distinct Rothera-specific diaspora community exists in Concordia, consistent with what's already directly stated in `Specs/Rothera.md`. But given the established real cultural connection between Rothera and Halley ("the cultural connection... despite their geographic distance, would have been real"), any Rothera-descended presence in Concordia most plausibly exists folded into and indistinguishable from Halley's own established diaspora community, rather than forming a separate identity of its own.
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## VIII. The Two Placeholder Holidays, Confirmed and Sharpened
 
-- **Founders' Airstrip** — commemorating the inherited BAS runway and the institutional competence it represents; plausibly observed with a maintenance-crew open house, the closest thing Rothera has to civic ceremony given its whole function-over-presentation character.
+- **Founders' Airstrip** — commemorating the inherited runway and the founding generation's competence in keeping it running; plausibly observed with a maintenance-crew open house, the closest thing Rothera has to civic ceremony given its whole function-over-presentation character.
 - **The Standing Works** — marking the city's continued post-war industrial function, its decentralized survival distinct from every other Peninsula city's fate; plausibly timed to the anniversary of the Long Night War strikes themselves, a day that could easily read as mourning elsewhere but reads in Rothera specifically as quiet, earned pride in having kept working through it.
 
 ---
 
 ## IX. Notable Figures (proposed, unconfirmed)
 
-- **Chief Engineer Malcolm Ashgrove-Pryce** *(placeholder)* — the founding-era BAS-trained figure credited with laying out Rothera's original decentralized industrial plan across Adelaide Island, decades before anyone knew that same decentralization would be what saved the city.
+- **Chief Engineer Malcolm Ashgrove-Pryce** *(placeholder)* — the founding-era figure credited with laying out Rothera's original decentralized industrial plan across Adelaide Island, decades before anyone knew that same decentralization would be what saved the city.
 - **Vault Architect Dorotéia Uribe-Calloway** *(placeholder)* — credited with pioneering the underground excavation program in its earliest phase, a founding figure for what became, generations later, a genuine wartime shelter network.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*

@@ -6,7 +6,7 @@ possess, built directly from `Specs/Esperanza.md`, `Local_Cultures/Palmer_Subnet
 until this pass is complete across all 34 DLC cities. Not locked canon. Written 2026-07-30.
 
 **Why Esperanza's attributes look like nothing else examined so far:** every other city's founding purpose
-is geographic or institutional (a research station repurposed, a supply hub, a gateway). Esperanza's
+is geographic or functional (a supply hub, a gateway). Esperanza's
 founding purpose is an explicit ethical compact — caring for the children of humans who sacrificed
 everything to follow robots into permanent exile — making its core infrastructure civic-caregiving rather
 than environmental-survival or economic. It's also the only city examined so far whose central artifact is
@@ -17,8 +17,7 @@ Peninsula; status is Destroyed; north of the Antarctic Circle, no polar night or
 continental-transition climate, colder and drier than the western Peninsula but still mild by Tepenian
 standards; founded on an explicit, deliberate compact — established after the founding generation
 discovered pre-exile records of the first human birth in Antarctica here — to organize the city around
-caring for the children of humans who chose permanent exile; genuinely multinational despite honored
-Argentine site heritage; robots served as the actual durable caregivers and teachers across generations;
+caring for the children of humans who chose permanent exile; genuinely multinational; robots served as the actual durable caregivers and teachers across generations;
 Hope Bay's mainland (non-island) position and Weddell Sea-facing harbor made it a natural maritime
 trans-shipment point between the Halley and Palmer subnets.
 
@@ -50,10 +49,10 @@ trans-shipment point between the Halley and Palmer subnets.
 6. **Overland connector infrastructure onward from the harbor into the Peninsula highway network**,
    supporting the established Weddell-Sea-to-Palmer-City goods route.
 
-## Heritage & Identity Infrastructure
+## Preserved Pre-Exile Site Infrastructure
 
-7. **Whatever physical site preserved the honored Argentine founding heritage of the station**, distinct
-   from the city's own broader, explicitly multinational civic charter — heritage acknowledged without
+7. **The preserved pre-exile station buildings themselves**, distinct
+   from the city's own broader, explicitly multinational civic charter — kept and acknowledged without
    defining who the compact actually served.
 
 ## Ruins-Specific Memorial Infrastructure
@@ -131,18 +130,18 @@ reached the rest of Tepenia.
 **3rd-order effect:** gives Finding 3's own economic argument (Esperanza's loss rippling outward, not staying
 contained to its own ruins) a real physical mechanism rather than an abstract trade relationship.
 
-### Finding E: the honored Argentine heritage site may be the same building where the founding compact was actually discovered
+### Finding E: the preserved pre-exile site may be the same building where the founding compact was actually discovered
 
-**Combining:** attribute #7 (whatever physical site preserved the honored Argentine founding heritage) + the
-Full Extrapolation's Section III (the compact was discovered inside a sealed Argentine military archive room,
-found during routine inventory of inherited infrastructure).
+**Combining:** attribute #7 (whatever physical site preserved the inherited pre-exile station buildings) +
+the Full Extrapolation's Section III (the compact was discovered inside a sealed Argentine military archive
+room, found during routine inventory of inherited infrastructure).
 
-**2nd-order effect:** since the founding birth documentation was specifically found within Argentine military
-records, attribute #7's own heritage site and the discovery location Section III describes are plausibly one
-and the same building.
+**2nd-order effect:** since the founding birth documentation was specifically found inside the inherited
+station buildings, attribute #7's own preserved site and the discovery location Section III describes are
+plausibly one and the same building.
 
-**3rd-order effect:** worth flagging as a likely physical consolidation — Esperanza's honored national
-heritage and its founding civic origin story may share a single, doubly significant location rather than
+**3rd-order effect:** worth flagging as a likely physical consolidation — Esperanza's preserved pre-exile
+buildings and its founding civic origin story may share a single, doubly significant location rather than
 requiring two separate sites.
 
 ---

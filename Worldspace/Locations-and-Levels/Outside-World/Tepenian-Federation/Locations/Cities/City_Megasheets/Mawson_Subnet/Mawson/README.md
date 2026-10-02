@@ -26,13 +26,13 @@ The full, concatenated Mawson reference — synthesis, then extrapolation, then 
 | **Status** | Damaged, partially operational — the subnet hub |
 | **Subnet** | Mawson — hub city, Hwy 4 between the Sayowa Junction and Sinheung |
 | **Population (Census II)** | 427,321 humans / 525,125 robots / 952,446 combined |
-| **Founding** | Australian exiles on Mawson Station's infrastructure — the longest unbroken human occupation of any Tepenian city, since 1954 |
+| **Founding** | Australian exiles on Mawson Station's infrastructure — the longest unbroken human occupation of any Tepenian city |
 
 ---
 
 ## Who Lives Here, and Why
 
-China leads as demographic Primary, with Japan, South Korea, Indonesia, and the founding-wave Australians all holding genuine Significant-tier weight — an Indian-Ocean-facing immigration current entirely distinct from the American-Primary pattern most of the rest of Tepenia eventually settled into. Australia, the actual founding-operator nation, retains a strong founding-wave Significant-tier presence rather than being diluted all the way to Notable — the same pattern already established for Rothera's UK, Sejong's South Korea, and Juan Carlos's Spain.
+China leads as demographic Primary, with Japan, South Korea, Indonesia, and the founding-wave Australians all holding genuine Significant-tier weight — an Indian-Ocean-facing immigration current entirely distinct from the American-Primary pattern most of the rest of Tepenia eventually settled into. Australia retains a strong founding-wave Significant-tier presence rather than being diluted all the way to Notable — the same pattern already established for Rothera's UK, Sejong's South Korea, and Juan Carlos's Spain.
 
 ---
 
@@ -122,7 +122,7 @@ Following the same "-ite" suffix pattern already established at Kunlun (Kunlunit
 
 ## IV. Notable Figures (proposed, unconfirmed)
 
-- **Founding Administrator Warrick Zhao** *(placeholder, deliberately cross-cultural surname reflecting the city's own demographic story)* — credited with steering the exile community through the earliest transition from Australian Antarctic Division operations to genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
+- **Founding Administrator Warrick Zhao** *(placeholder, deliberately cross-cultural surname reflecting the city's own demographic story)* — credited with steering the exile community through its earliest years into genuine Tepenian civic institution, setting the precedent that hub function would always matter more to Mawson's self-image than any single national identity.
 - **Hostess Mei-Ling Sorensen** *(placeholder)* — the figure most associated, in Mawson's own institutional memory, with formalizing the honeymoon-destination reputation into something deliberately cultivated rather than incidental; credited locally with establishing the earliest dedicated hospitality infrastructure that the modern reputation grew from.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*
@@ -179,7 +179,7 @@ Section I is the most structurally useful proposal here — it gives Mawson's ow
 
 ## Finding 3: Mawson holds two genuinely different kinds of civic prestige on two different timescales
 
-**Combining:** Varna's real ~3,000-year continuous cultural centrality, held simultaneously with a genuinely lived, current resort function + Jeju's real, comparatively recent honeymoon reputation, deliberately earned within living memory rather than ancient + Mawson's own two-tier timeline (a 1954 founding, essentially as old as Tepenia gets, alongside an honeymoon reputation explicitly "earned over decades").
+**Combining:** Varna's real ~3,000-year continuous cultural centrality, held simultaneously with a genuinely lived, current resort function + Jeju's real, comparatively recent honeymoon reputation, deliberately earned within living memory rather than ancient + Mawson's own two-tier timeline (a founding essentially as old as Tepenia gets, alongside an honeymoon reputation explicitly "earned over decades").
 
 **2nd-order effect:** Mawson's two defining reputations operate on genuinely different timescales — the "oldest continuously-occupied site" fact is a founding-era credential, while the honeymoon-destination reputation is a comparatively recent, actively cultivated development, much closer to Jeju's real decades-long timeline than to Varna's own millennia-deep resort identity.
 

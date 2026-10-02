@@ -30,7 +30,7 @@ The full, concatenated Esperanza reference — synthesis, then extrapolation, th
 
 ## Who Lives Here, and Why
 
-USA sits Primary (36.36%), with a broad Significant tier beneath it — Brazil, Mexico, UK, and Argentina (the actual founding-heritage nation) all present without any single one dominating. Unlike almost every other Tepenian city, this composition carries none of the usual founding-nation-versus-majority tension, because Esperanza's charter was never national to begin with — "any human whose family had made the sacrifice of exile had a claim on what Esperanza existed to protect," a design principle, not a demographic accident that happened to work out inclusively.
+USA sits Primary (36.36%), with a broad Significant tier beneath it — Brazil, Mexico, UK, and Argentina all present without any single one dominating. Unlike almost every other Tepenian city, this composition carries none of the usual founding-nation-versus-majority tension, because Esperanza's charter was never national to begin with — "any human whose family had made the sacrifice of exile had a claim on what Esperanza existed to protect," a design principle, not a demographic accident that happened to work out inclusively.
 
 ---
 

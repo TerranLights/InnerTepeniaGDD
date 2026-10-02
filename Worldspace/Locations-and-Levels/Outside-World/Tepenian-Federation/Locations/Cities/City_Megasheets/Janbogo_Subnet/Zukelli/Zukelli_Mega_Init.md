@@ -19,7 +19,7 @@
 | **Distance from Janbogo** | ~8km, same bay, same Terra Nova Bay polynya |
 | **Subnet** | Janbogo — reached via a connecting road off Hwy 183, shared access with Janbogo |
 | **Population (Census II, at destruction)** | 443,754 humans / 493,905 robots / 937,659 combined — 72.5% human retention, 77.7% robot retention, destroyed near its own demographic peak, not in decline |
-| **Founding** | Italian exiles on Mario Zucchelli Station's mature infrastructure (Italy's Antarctic presence since 1985) |
+| **Founding** | Italian exiles on Mario Zucchelli Station's mature infrastructure |
 
 ---
 

@@ -12,8 +12,7 @@ confirmed exclusively so by the same Jeju-do court that allocated Shirayuki to J
 exception to the project's general rotating-operator founding model** — Zhongshan plausibly saw continuous
 Chinese/Sinian habitation straight through the First Interwar Period, not a chain of unrelated operators,
 independently reinforcing the Jeju-do court's later formal confirmation; status is damaged but partially
-operational; economy is Prydz Bay maritime logistics (inherited Chinese icebreaker heritage) and scientific
-research; culture is contemplative, artisan-craft-forward (precision woodworking, ceramics, metalworking),
+operational; economy is Prydz Bay maritime logistics and scientific research; culture is contemplative, artisan-craft-forward (precision woodworking, ceramics, metalworking),
 with a genuine archival tradition and a deliberately unofficial counterculture district.
 
 ---
@@ -32,8 +31,8 @@ with a genuine archival tradition and a deliberately unofficial counterculture d
 
 3. **Prydz Bay harbor infrastructure** (established) — the primary maritime entry, the historic route
    Chinese icebreakers ran pre-exile.
-4. **Substantial icebreaker maintenance and staging infrastructure**, inherited from and continuing one of
-   the most active pre-exile Chinese Antarctic logistics operations.
+4. **Substantial icebreaker maintenance and staging infrastructure**, inherited from the original station's
+   own logistics facilities.
 
 ## Ice-Free Terrain Infrastructure (Larsemann Hills)
 

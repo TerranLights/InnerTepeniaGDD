@@ -20,13 +20,13 @@
 | **Status** | Damaged, partially operational — the subnet hub |
 | **Subnet** | Mawson — hub city, Hwy 4 between the Sayowa Junction and Sinheung |
 | **Population (Census II)** | 427,321 humans / 525,125 robots / 952,446 combined |
-| **Founding** | Australian exiles on Mawson Station's infrastructure — the longest unbroken human occupation of any Tepenian city, since 1954 |
+| **Founding** | Australian exiles on Mawson Station's infrastructure — the longest unbroken human occupation of any Tepenian city |
 
 ---
 
 ## Who Lives Here, and Why
 
-China leads as demographic Primary, with Japan, South Korea, Indonesia, and the founding-wave Australians all holding genuine Significant-tier weight — an Indian-Ocean-facing immigration current entirely distinct from the American-Primary pattern most of the rest of Tepenia eventually settled into. Australia, the actual founding-operator nation, retains a strong founding-wave Significant-tier presence rather than being diluted all the way to Notable — the same pattern already established for Rothera's UK, Sejong's South Korea, and Juan Carlos's Spain.
+China leads as demographic Primary, with Japan, South Korea, Indonesia, and the founding-wave Australians all holding genuine Significant-tier weight — an Indian-Ocean-facing immigration current entirely distinct from the American-Primary pattern most of the rest of Tepenia eventually settled into. Australia retains a strong founding-wave Significant-tier presence rather than being diluted all the way to Notable — the same pattern already established for Rothera's UK, Sejong's South Korea, and Juan Carlos's Spain.
 
 ---
 

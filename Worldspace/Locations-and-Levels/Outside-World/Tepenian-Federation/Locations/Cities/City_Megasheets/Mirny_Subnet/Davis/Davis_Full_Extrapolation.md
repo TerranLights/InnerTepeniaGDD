@@ -24,7 +24,7 @@
 
 ## IV. The Mawson Question — Administratively Separate, Symbolically Linked
 
-**Proposed:** given Mawson-the-city sits in a different subnet entirely, any pre-war relationship with Davis would have run through occasional, mostly symbolic or ceremonial gestures — shared Australian Antarctic naming heritage acknowledged on national holidays or through cultural exchange, rather than genuine day-to-day operational ties. This makes the Split Brain's severance of this particular link low-cost: there wasn't a deep working relationship to lose, just an occasional historical nod that's now simply gone, unremarked and unmourned by most residents of either city.
+**Proposed:** given Mawson-the-city sits in a different subnet entirely, any pre-war relationship with Davis would have run through occasional, mostly symbolic or ceremonial gestures — shared Australian heritage and Australian-explorer namesakes acknowledged on national holidays or through cultural exchange, rather than genuine day-to-day operational ties. This makes the Split Brain's severance of this particular link low-cost: there wasn't a deep working relationship to lose, just an occasional historical nod that's now simply gone, unremarked and unmourned by most residents of either city.
 
 ---
 

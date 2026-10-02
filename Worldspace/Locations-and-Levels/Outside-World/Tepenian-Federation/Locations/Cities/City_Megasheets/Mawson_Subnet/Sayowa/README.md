@@ -24,13 +24,13 @@ The full, concatenated Sayowa reference — synthesis, then extrapolation, then 
 | **Status** | Damaged; partially operational — a critical junction, hit but too structurally important to fully destroy |
 | **Subnet** | Mawson — westernmost city, bridging toward the Halley subnet |
 | **Population (Census II)** | 85,199 humans / 79,758 robots / 164,957 combined — one of the smallest Mawson subnet cities |
-| **Founding** | Japanese exiles, via JARE's organic station inheritance (continuous research presence since 1957) |
+| **Founding** | Japanese exiles |
 
 ---
 
 ## Who Lives Here, and Why
 
-China sits Primary, with Japan — the actual founding nation — diluted all the way down into Significant tier alongside Germany, France, UK, South Korea, Indonesia, and Australia. Sayowa is no longer, and was corrected in 2026-07-06 to no longer claim to be, Tepenia's primary Japanese demographic presence — that distinction belongs to Shirayuki now, whose diplomatically-protected Jeju-do allocation held where Sayowa's organic settlement diluted under the same regional Chinese demographic pressure visible across this whole corner of the continent. Sayowa retains genuine Japanese institutional heritage (JARE) without the population share to match.
+China sits Primary, with Japan — the actual founding nation — diluted all the way down into Significant tier alongside Germany, France, UK, South Korea, Indonesia, and Australia. Sayowa is no longer, and was corrected in 2026-07-06 to no longer claim to be, Tepenia's primary Japanese demographic presence — that distinction belongs to Shirayuki now, whose diplomatically-protected Jeju-do allocation held where Sayowa's organic settlement diluted under the same regional Chinese demographic pressure visible across this whole corner of the continent.
 
 ---
 
@@ -101,15 +101,15 @@ Djibouti City is the standout of this pass — it isn't just a thematic echo but
 
 ---
 
-## I. What the Sayowa Name Means Today: Institutional Weight for a Few, Ordinary Name for Most
+## I. What the Sayowa Name Means Today: Felt Weight for a Few, Ordinary Name for Most
 
-**Proposed:** consistent with the city's own established Public/Private divide — "Japanese cultural and historical life, particularly the Shōwa-era name's specific meaning, is a more private, generational matter" — the name plausibly carries two genuinely different weights depending on who's asked. For the demographic majority (China-Primary, alongside the broad Significant and Notable tiers), "Sayowa" functions as an ordinary proper noun, phonetically settled and civically unremarkable, the way most residents of most cities don't think hard about their city's name's etymology day to day. For the smaller Japanese-heritage community specifically — carriers of JARE's own institutional tradition rather than demographic weight — the name still carries real, felt gravity: a name that folds an entire imperial era of war, defeat, and reconstruction into the place their ancestors settled, discussed and remembered generationally rather than publicly performed. This mirrors the pattern already established at Belgrano, where a founding-era institutional tradition persisted as living local practice long after demographic weight moved elsewhere.
+**Proposed:** consistent with the city's own established Public/Private divide — "Japanese cultural and historical life, particularly the Shōwa-era name's specific meaning, is a more private, generational matter" — the name plausibly carries two genuinely different weights depending on who's asked. For the demographic majority (China-Primary, alongside the broad Significant and Notable tiers), "Sayowa" functions as an ordinary proper noun, phonetically settled and civically unremarkable, the way most residents of most cities don't think hard about their city's name's etymology day to day. For the smaller Japanese-heritage community specifically, the name still carries real, felt gravity: a name that folds an entire imperial era of war, defeat, and reconstruction into the place their ancestors settled, discussed and remembered generationally rather than publicly performed.
 
 ---
 
 ## II. Pre-War Contact with Princess Elisabeth: Modest, Practical, and Quietly Connected by a Shared Japanese Thread
 
-**Proposed:** given Sayowa and Princess Elisabeth's established status as the single most geographically-adjacent inter-subnet proximity in all of Tepenia, some genuine pre-war contact plausibly existed, primarily practical — logistics and trade coordination made sense long before the exile era formalized it as the Hwy 7-ext connection. Worth flagging directly: Princess Elisabeth is the only Halley subnet city with genuine Japanese demographic presence (co-Primary alongside the USA, credited to an "eastern approach" immigration current), while Sayowa carries Japanese institutional heritage without matching demographic weight. Given Sayowa is the nearest Mawson subnet point of contact to Princess Elisabeth, it's a reasonable, earned proposal that at least part of Princess Elisabeth's own established eastern Japanese immigration current ran through or near Sayowa specifically — making the pre-war relationship between these two cities modestly deeper than pure highway logistics, carried in part by individual Japanese-heritage families maintaining contact across the corridor.
+**Proposed:** given Sayowa and Princess Elisabeth's established status as the single most geographically-adjacent inter-subnet proximity in all of Tepenia, some genuine pre-war contact plausibly existed, primarily practical — logistics and trade coordination made sense long before the exile era formalized it as the Hwy 7-ext connection. Worth flagging directly: Princess Elisabeth is the only Halley subnet city with genuine Japanese demographic presence (co-Primary alongside the USA, credited to an "eastern approach" immigration current), while Sayowa's Japanese founding community has diluted to a small minority. Given Sayowa is the nearest Mawson subnet point of contact to Princess Elisabeth, it's a reasonable, earned proposal that at least part of Princess Elisabeth's own established eastern Japanese immigration current ran through or near Sayowa specifically — making the pre-war relationship between these two cities modestly deeper than pure highway logistics, carried in part by individual Japanese-heritage families maintaining contact across the corridor.
 
 ---
 
@@ -127,7 +127,7 @@ Djibouti City is the standout of this pass — it isn't just a thematic echo but
 
 ## V. Notable Figures (proposed, unconfirmed)
 
-- **JARE Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder)* — a present-day keeper of Sayowa's Shōwa-era naming history and JARE's own research tradition, the kind of figure Section I proposes exists specifically within the smaller Japanese-heritage community rather than the city's demographic majority.
+- **Civic Historian Haruto Kowalczyk-Nakamura** *(placeholder)* — a present-day keeper of Sayowa's Shōwa-era naming history, the kind of figure Section I proposes exists specifically within the smaller Japanese-heritage community rather than the city's demographic majority.
 - **Junction Coordinator Wei-Lin Andersen** *(placeholder)* — a present-day figure overseeing the cooperative arrangement proposed in Section III, the practical, unglamorous work of keeping the Sayowa Junction functional across multiple parties' overlapping dependency on it.
 
 *(Both entirely proposed — placeholder figures meant to give Sayowa's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
@@ -148,7 +148,7 @@ Section III is the most structurally valuable proposal here — it resolves Sayo
 
 ## Finding 1: Japan's Tepenian diaspora produced three genuinely different outcomes from three genuinely different mechanisms — Shirayuki, Princess Elisabeth, and Sayowa
 
-**Combining:** Shirayuki's established status as the genuine Japan-Primary city (36.27%), the direct result of diplomatic protection at Jeju-do + Princess Elisabeth's established co-Primary Japanese demographic presence, credited to an organic "eastern approach" immigration current + Sayowa's own organic JARE settlement, which diluted under the same regional Chinese demographic pressure visible everywhere else in the area, down to a mere 2.71% share.
+**Combining:** Shirayuki's established status as the genuine Japan-Primary city (36.27%), the direct result of diplomatic protection at Jeju-do + Princess Elisabeth's established co-Primary Japanese demographic presence, credited to an organic "eastern approach" immigration current + Sayowa's own organic settlement, which diluted under the same regional Chinese demographic pressure visible everywhere else in the area, down to a mere 2.71% share.
 
 **2nd-order effect:** these are three structurally distinct outcomes for the same national-origin population, produced by three different mechanisms — deliberate diplomatic protection (Shirayuki), unplanned organic demographic current (Princess Elisabeth), and unprotected organic dilution (Sayowa) — rather than one uniform "Japanese Tepenian experience" repeating across the continent.
 
@@ -211,7 +211,7 @@ Finding 2 is the most valuable of the three for future design work — it's the 
 
 - junction infrastructure maintenance and cooperative multi-party coordination
 - seasonal ice-road and icebreaker maritime logistics
-- JARE institutional history and archival keeping, for the smaller Japanese-heritage community specifically
+- Shōwa-era naming history and archival keeping, for the smaller Japanese-heritage community specifically
 
 ## Social cohesion mechanisms
 

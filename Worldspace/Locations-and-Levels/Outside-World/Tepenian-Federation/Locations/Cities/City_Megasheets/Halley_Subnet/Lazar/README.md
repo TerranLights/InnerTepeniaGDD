@@ -24,7 +24,7 @@ The full, concatenated Lazar reference — synthesis, then extrapolation, then c
 | **Status** | Damaged; partially operational — badly bombed during the Long Night War, too large to be destroyed outright |
 | **Subnet** | Halley — eastern terminus of Hwy 7; origin point of the Belgrano Highway Extension |
 | **Population (Census II)** | 861,206 humans / 942,771 robots / 1,803,977 combined — **Tepenia's single largest city**, both censuses |
-| **Founding** | Russian exiles (Novolazarevskaya heritage) absorbing the unoccupied Maitri site via overflow, later demographically overtaken by five roughly-equal nations |
+| **Founding** | Russian exiles absorbing the unoccupied Maitri site via overflow, later demographically overtaken by five roughly-equal nations |
 
 ---
 
@@ -90,7 +90,7 @@ A real precedent for "too big and too redundant to be erased by bombing" — Lon
 
 Carried forward from `Specs/Lazar.md` and `City_Vision_Notes/Lazar.md`, still genuinely unresolved:
 - The exact timeline of coalescence — how many generations passed between the two settlements' founding and their merger
-- Whether Novolazarevskaya's real DROMLAN air-logistics-hub role carried forward into Tepenia as a specific city function
+- Whether Lazar carries a specific regional logistics function
 - Whether the old core/new expansion divide still registers today, and whether it correlates with which part of the city took the worst war damage
 - Relationship to Neumayer, the nearest confirmed Halley subnet neighbor
 - Demonym — still TBD
@@ -118,27 +118,27 @@ Budapest is the standout of this pass — it's not just a thematic echo but a ge
 
 ---
 
-## II. Novolazarevskaya's DROMLAN Legacy: The Function Survived, the Aviation Didn't
+## II. Lazar's Logistics Function: By Highway, Not by Air
 
-**Proposed:** Tepenia's confirmed airport network is fixed at exactly eight functioning airports (Zukelli/Janbogo, Mirny, the Tri-Cities, Troll, Rothera, Marambio, Machu Picchu/Sejong, and Mountain Pass) — Lazar is not among them. This means the real Novolazarevskaya Station's DROMLAN air-logistics-hub heritage could not have carried forward into Tepenia as an actual airfield. What plausibly did carry forward is the *function*, translated into a different mechanism: Lazar inherited the role of "distribution and logistics hub for the surrounding region," but by highway rather than by air, consistent with its established status as Hwy 7's eastern terminus and the origin point of the Belgrano Highway Extension. The institutional habit of coordinating large-scale regional logistics survived; the specific infrastructure it once ran on didn't.
+**Proposed:** Tepenia's confirmed airport network is fixed at exactly eight functioning airports (Zukelli/Janbogo, Mirny, the Tri-Cities, Troll, Rothera, Marambio, Machu Picchu/Sejong, and Mountain Pass) — Lazar is not among them, so any regional logistics role it holds cannot run through an airfield. Lazar holds the role of "distribution and logistics hub for the surrounding region" by highway rather than by air, consistent with its established status as Hwy 7's eastern terminus and the origin point of the Belgrano Highway Extension. The civic habit of coordinating large-scale regional logistics runs on the ground.
 
 ---
 
 ## III. What's Actually Driving Lazar's Megacity Commercial Economy: Ground-Transit Logistics at a Scale Nothing Else in Tepenia Can Match
 
-**Proposed, directly answering the developer's own flagged gap:** three established facts, combined, give Lazar's holographic-advertisement-heavy commercial density a genuine economic engine rather than a placeholder. First, Section II's proposed highway-based inheritance of Novolazarevskaya's logistics-hub function. Second, Lazar's literal position as the convergence point of Hwy 7 proper and the Belgrano Highway Extension — the only point in the Halley subnet where both routes meet. Third, and most simply, Lazar's own sheer population: a genuine megacity of nearly 1.8 million combined residents generates enormous internal consumer demand on its own, independent of any external trade role. Put together, Lazar functions as the Halley subnet's actual commercial and distribution capital — not because of any single spectacular export, but because it is simultaneously the region's largest market, its largest highway junction, and the inheritor of a real logistics tradition, three ordinary facts that combine into something that looks, from street level, like a full megacity economy.
+**Proposed, directly answering the developer's own flagged gap:** three established facts, combined, give Lazar's holographic-advertisement-heavy commercial density a genuine economic engine rather than a placeholder. First, Section II's proposed highway-based logistics-hub function. Second, Lazar's literal position as the convergence point of Hwy 7 proper and the Belgrano Highway Extension — the only point in the Halley subnet where both routes meet. Third, and most simply, Lazar's own sheer population: a genuine megacity of nearly 1.8 million combined residents generates enormous internal consumer demand on its own, independent of any external trade role. Put together, Lazar functions as the Halley subnet's actual commercial and distribution capital — not because of any single spectacular export, but because it is simultaneously the region's largest market, its largest highway junction, and its regional distribution hub, three ordinary facts that combine into something that looks, from street level, like a full megacity economy.
 
 ---
 
 ## IV. The Old Core/New Expansion Divide Today: Still Visible, and Correlated with War Damage
 
-**Proposed:** the divide still registers, both socially and physically. The old Novolazarevskaya core, built on continuously-maintained, deliberately robust research-station infrastructure with a century-plus unbroken operational tradition behind it, took proportionally less damage during the Long Night War — its construction standard, inherited from an institution that had never gone dark even once in its entire real-world history, gave it a genuine passive resilience advantage. The newer former-Maitri expansion, grown faster and more improvisationally as overflow development rather than built to the same durable standard, took the worse damage. This places Lazar as a third confirmed case of the "old core survives, new addition doesn't" pattern already established at Port Lockroy and Fort McMurdo — and gives it a specifically poetic dimension unique to Lazar: the district whose entire civic pride is built on the idea of *never having gone dark* is also, materially, the district that survived the war most intact.
+**Proposed:** the divide still registers, both socially and physically. The old Novolazarevskaya core, built on continuously-maintained, deliberately robust research-station infrastructure with a century-plus unbroken operational tradition behind it, took proportionally less damage during the Long Night War — its construction standard, maintained without a break since the city's founding, gave it a genuine passive resilience advantage. The newer former-Maitri expansion, grown faster and more improvisationally as overflow development rather than built to the same durable standard, took the worse damage. This places Lazar as a third confirmed case of the "old core survives, new addition doesn't" pattern already established at Port Lockroy and Fort McMurdo — and gives it a specifically poetic dimension unique to Lazar: the district whose entire civic pride is built on the idea of *never having gone dark* is also, materially, the district that survived the war most intact.
 
 ---
 
 ## V. Relationship to Neumayer: Complementary Specialties, No Friction
 
-**Proposed:** Lazar's nearest confirmed Halley subnet neighbor, Neumayer, occupies almost the opposite civic niche — a small, "Measured, Not Debated" engineering city positioned off Hwy 7's main line, responsible for precision schematic work (the Amundsen Tower's own design, and now the current-generation fabrication-synthesis chamber's schematic) rather than population or commerce. The proposed relationship is straightforwardly complementary rather than competitive: Neumayer's small, specialized population plausibly relies on Lazar as its nearest genuine megacity market for goods and services it has no reason to produce itself, while Lazar's own engineering and technical sector (already credited with 20% of its industry, an inherited Novolazarevskaya research tradition) has a natural, ongoing professional relationship with Neumayer's precision-engineering culture, without either city needing anything dramatic from the other to explain the connection.
+**Proposed:** Lazar's nearest confirmed Halley subnet neighbor, Neumayer, occupies almost the opposite civic niche — a small, "Measured, Not Debated" engineering city positioned off Hwy 7's main line, responsible for precision schematic work (the Amundsen Tower's own design, and now the current-generation fabrication-synthesis chamber's schematic) rather than population or commerce. The proposed relationship is straightforwardly complementary rather than competitive: Neumayer's small, specialized population plausibly relies on Lazar as its nearest genuine megacity market for goods and services it has no reason to produce itself, while Lazar's own engineering and technical sector (already credited with 20% of its industry) has a natural, ongoing professional relationship with Neumayer's precision-engineering culture, without either city needing anything dramatic from the other to explain the connection.
 
 ---
 
@@ -150,7 +150,7 @@ Budapest is the standout of this pass — it's not just a thematic echo but a ge
 
 ## VII. The Dual-Personality Idea, Developed: Institutional Reserve vs. Commercial Density
 
-**Proposed, directly answering the developer's own flagged, undecided idea:** extending the architectural old-core/new-expansion split into a genuine civic dual character, the old Novolazarevskaya core carries a quieter, more institutional, more reserved character — a direct extension of the original research station's own disposition and its "never gone dark" civic pride — while the former-Maitri expansion carries the bulk of the megacity's holographic-advertisement commercial density and faster, more overflow-driven energy already established in the vision notes. This isn't a tension the way old-core-vs-majority tensions work in other cities; it reads more like two adjacent moods within one functioning metropolis, each legible the moment a visitor crosses from one district into the other.
+**Proposed, directly answering the developer's own flagged, undecided idea:** extending the architectural old-core/new-expansion split into a genuine civic dual character, the old Novolazarevskaya core carries a quieter, more institutional, more reserved character, anchored in its "never gone dark" civic pride — while the former-Maitri expansion carries the bulk of the megacity's holographic-advertisement commercial density and faster, more overflow-driven energy already established in the vision notes. This isn't a tension the way old-core-vs-majority tensions work in other cities; it reads more like two adjacent moods within one functioning metropolis, each legible the moment a visitor crosses from one district into the other.
 
 ---
 
@@ -165,7 +165,7 @@ Budapest is the standout of this pass — it's not just a thematic echo but a ge
 
 ## Worth Your Attention
 
-Section II is the most structurally important proposal here — it catches a genuine risk of contradicting the project's own fixed eight-airport canon, and resolves the DROMLAN legacy question by separating function from mechanism rather than simply inventing a ninth airport. Section VI's Lazarus echo is the most quietly delightful detail of the whole pass — an entirely unplanned linguistic coincidence that turns out to fit Lazar's own survival story almost too well to ignore.
+Section II is the most structurally important proposal here — it catches a genuine risk of contradicting the project's own fixed eight-airport canon, and resolves Lazar's logistics role by highway rather than simply inventing a ninth airport. Section VI's Lazarus echo is the most quietly delightful detail of the whole pass — an entirely unplanned linguistic coincidence that turns out to fit Lazar's own survival story almost too well to ignore.
 
 ---
 

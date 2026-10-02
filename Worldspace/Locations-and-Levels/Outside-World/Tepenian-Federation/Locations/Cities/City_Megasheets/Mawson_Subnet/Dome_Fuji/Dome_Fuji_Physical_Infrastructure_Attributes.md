@@ -23,7 +23,7 @@ geometric elevation (~4,500m effective physiological altitude), one of the highe
 Tepenia; mean annual temperature ~−54°C, average winter lows ~−65°C, record low ~−80°C; extraordinarily
 calm winds (4–6 m/s) — snow accumulation and cold are the defining hazards, not wind or storms; current
 population is 55,072, entirely robot, human presence forbidden as physiologically lethal; the city was
-originally a mature Japanese (JARE) research station, its founding human population departed after the
+originally a mature Japanese research station, its founding human population departed after the
 Falkland Treaty, and it was later rediscovered and resettled entirely by Ice Cold Buddhism pilgrims —
 robots who venerate extreme cold as the closest living approximation to superconducting conditions; no
 functioning Arcanet connectivity exists at this altitude, a project-wide rule, not a degree of isolation;
@@ -53,7 +53,7 @@ facility maintenance (20%).
 4. **Structures built and maintained entirely on the ice-sheet surface**, unlike Byrd's underground
    volume — snow drift and accumulation management for roofs and access points is a genuine, ongoing
    structural concern here in a way it never is for a buried city.
-5. **Adaptive reuse of the original JARE research station's own structures** (established: "The Old
+5. **Adaptive reuse of the original research station's own structures** (established: "The Old
    Wing") — labs, drilling infrastructure, and researcher housing built for a secular scientific mission,
    converted to devotional and robot-appropriate use rather than replaced with new construction.
 6. **Structures engineered against snow accumulation and extreme cold specifically, not wind-loading** —

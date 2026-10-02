@@ -24,13 +24,13 @@ The full, concatenated Marambio reference — synthesis, then extrapolation, the
 | **Status** | Destroyed (Long Night War) |
 | **Subnet** | Palmer — a Hwy 1 waypoint (corrected 2026-07-06; Esperanza is the true northern terminus), reached via the Picnic Passage causeway/bridge chain |
 | **Population (Census II)** | 195,623 humans / 234,522 robots / 430,145 combined (island cap) |
-| **Founding** | Argentine Air Force since 1969; exile community inherited a fully working aviation hub rather than an improvised settlement |
+| **Founding** | Argentine exiles; the exile community inherited a fully working aviation hub rather than an improvised settlement |
 
 ---
 
 ## Who Lives Here, and Why
 
-USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the actual founding-operator nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet, even as the base's own founding-era military-aviation institutional character (discipline, operational rigor — the working culture of an airfield that has to run on schedule) persisted regardless of who was actually staffing it by Census II.
+USA sits Primary (27.59%), with a genuinely broad Significant tier beneath it — Spain, Mexico, UK, Canada, Germany, and Brazil, none dominant. Argentina, the founding nation, is diluted all the way down to Notable tier at just 0.74% — the deepest founding-nation erosion documented anywhere in the Palmer subnet.
 
 ---
 
@@ -70,7 +70,7 @@ Carried forward from `Specs/Marambio.md` and `City_Vision_Notes/Marambio.md`, st
 - ~~A data-quality gap: Marambio is missing from the census's own "Lost and Ruined Cities" section~~ — **resolved 2026-07-13** (`Official_Population_Census.md`'s combined-losses total, during Sejong's own re-check pass), no longer open
 
 **Resolved 2026-07-17:** "Founders' Flight" (Course of Events Suggestion #7, an aviation-focused
-observance honoring the 1969 Argentine Air Force arrival and the exile generation's own founding flight,
+observance honoring the exile generation's own founding flight,
 `Marambio_Course_of_Events_Suggestions.md`) is fully developed, not a placeholder; a second municipal
 holiday slot remains open — see the correction below. Also resolved: Comandante Ezequiel Fariña
 (Suggestion #2) is named as a notable figure. Also resolved: the exact division of labor between
@@ -127,14 +127,14 @@ record in `Neo-Races-and-Cultures/_Method/Palmer_Subnet_Phase1c_Summary.md` and
 
 ## IV. The Placeholder Holiday, Developed
 
-- **Founders' Flight** — commemorates the original 1969 Argentine Air Force arrival and, by extension, the exile generation's own founding flight onto Seymour Island; an aviation-focused observance, fittingly, for a city whose founding infrastructure was a runway.
+- **Founders' Flight** — commemorates the exile generation's own founding flight onto Seymour Island; an aviation-focused observance, fittingly, for a city whose founding infrastructure was a runway.
 - *A second municipal holiday slot is open. "The Warm Ground" previously held it as a fossil-record observance; struck for the same reason as Section III, above.*
 
 ---
 
 ## V. Notable Figures (proposed, unconfirmed)
 
-- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era Air Force officer credited with establishing Marambio's operational discipline and institutional character, a culture that persisted long after the founding population's own demographic presence eroded to Notable tier by Census II.
+- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era officer credited with establishing Marambio's operational discipline, a culture that persisted long after the founding population's own demographic presence eroded to Notable tier by Census II.
 
 *(Entirely proposed — a placeholder figure meant to give the "Notable Figures: TBD" line a concrete
 starting point, not finished character writing. A second figure, a paleontologist tied to Seymour
@@ -213,7 +213,7 @@ Finding 2 is the more speculative of the two, but the more generative — it's t
 - **The Marambio Airfield** — the Palmer subnet's primary aviation hub, the most developed airstrip infrastructure of any Peninsula city, now cratered rubble.
 - **The Marambio Shipyards** — spanning the island's inner side, the confirmed receiving port for the South America shipping corridor, destroyed alongside the airfield in the same strike.
 - **The Picnic Passage Causeway** — Marambio's Hwy 1 crossing, plausibly still intact, now a bridge to nowhere connecting the rest of Hwy 1 to a destination that no longer exists.
-- **The Comandante's Operations Hall** — where the founding-era Air Force officer established the operational discipline that outlasted the founding population's own demographic presence.
+- **The Comandante's Operations Hall** — where the founding-era officer established the operational discipline that outlasted the founding population's own demographic presence.
 
 ## Small offices for educational training (pre-war)
 

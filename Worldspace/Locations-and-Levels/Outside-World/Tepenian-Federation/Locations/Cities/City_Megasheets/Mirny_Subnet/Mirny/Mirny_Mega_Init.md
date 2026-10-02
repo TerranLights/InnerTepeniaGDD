@@ -20,7 +20,7 @@
 | **Status** | Damaged; partially operational |
 | **Subnet** | Mirny — subnet hub, sitting precisely on the Antarctic Circle; Hwy 110's Coastal Cut connects it to Casey/Concordia (east) and Davis/Zhongshan (west) |
 | **Population (Census II)** | 507,344 humans / 509,151 robots / 1,016,495 combined |
-| **Founding** | Russian exiles inheriting one of the oldest continuously-occupied Antarctic stations (operating since 1956), named for the sloop *Mirny* from Bellingshausen's 1819–1821 expedition — the first to circumnavigate and sight Antarctica |
+| **Founding** | Russian exiles; the city is named for the sloop *Mirny* from Bellingshausen's 1819–1821 expedition — the first to circumnavigate and sight Antarctica |
 
 ---
 

@@ -26,7 +26,7 @@ Unlike every other item below, this one wasn't proposed here at the time of writ
 
 ## IV. Adapting the Bharati Station Infrastructure
 
-**Proposed:** the real Bharati Station's own 2010s-era design — the newest, most modern infrastructure in the Larsemann Hills cluster — was built for scientific research, and the founding Japanese community adapted it gradually rather than replacing it: former research labs converted into gallery and studio space, dormitory blocks repurposed toward the school system that would eventually draw students nationwide, support buildings folded into the downtown core's now-established art-and-commerce density. This gives the city's present-day "clean, orderly, art-filled" architecture a genuine throughline back to its founding infrastructure, rather than treating the research-station origin and the arts-city present as two disconnected facts.
+**Proposed:** the real Bharati Station's own 2010s-era design — the newest, most modern infrastructure in the Larsemann Hills cluster — was built for scientific research, and the founding Japanese community adapted it gradually rather than replacing it: former research labs converted into gallery and studio space, dormitory blocks repurposed toward the school system that would eventually draw students nationwide, support buildings folded into the downtown core's now-established art-and-commerce density.
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## Finding 1: This subnet completes Japan's full Tepenian diaspora range, and does so by comparison rather than causation
 
-**Combining:** Sayowa's own established Cross-Reference Finding 1 (three diaspora outcomes: Shirayuki protected, Princess Elisabeth organic-strong, Sayowa organic-diluted) + Dome Fuji's own original JARE founding, previously undiscussed in relation to Sayowa's own finding + Dome Fuji's total population succession, the most extreme organic outcome of all (`Mawson_Cross_City_Patterns.md`, Pattern 2).
+**Combining:** Sayowa's own established Cross-Reference Finding 1 (three diaspora outcomes: Shirayuki protected, Princess Elisabeth organic-strong, Sayowa organic-diluted) + Dome Fuji's own original Japanese founding, previously undiscussed in relation to Sayowa's own finding + Dome Fuji's total population succession, the most extreme organic outcome of all (`Mawson_Cross_City_Patterns.md`, Pattern 2).
 
 **2nd-order effect:** the same national-origin diaspora now has four documented outcomes across the whole project, and two of the most extreme organic ones — Sayowa's dilution and Dome Fuji's total succession — sit inside this single subnet, a pairing no prior document had connected.
 

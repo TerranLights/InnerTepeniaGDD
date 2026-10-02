@@ -157,7 +157,7 @@ Throughway 1 is the most significant item in this entire Ultra-Megasheet, not ju
 
 Mirny subnet's founding populations arrived through a genuinely wider range of mechanisms than any other subnet examined so far — organic multi-generational settlement (Zhongshan, Davis), a deliberate function-based curated draw (Kunlun), a demographic accident unconnected to any founding legend (Vostok), and pre-exile diplomatic engineering at the Jeju-do Court (Shirayuki *and* Sinheung, two nations allocated separate sites by the same treaty) *(corrected 2026-07-13 — previously listed Sinheung under its own separate "genuinely doubled dual founding" mechanism; wrong, its actual founding is singularly Korean via the same Jeju-do allocation as Shirayuki)* — four distinct mechanisms across eight cities, more variety in how a population actually forms than this project has documented in any other single subnet.
 
-This produces a subnet whose demographic story resists a single throughline the way Halley subnet's founding-nation diversity or Janbogo/Ross subnet's Pacific-corridor concentration each did — instead, Mirny subnet's real defining demographic fact is the sheer number of different processes sitting side by side, from Zhongshan's unbroken Chinese continuity (the only Tepenian city where the founding operator nation never lost Primary status) to Kunlun's fully re-resolved, nationality-neutral specialist population, with nearly every other possible mechanism represented somewhere in between.
+This produces a subnet whose demographic story resists a single throughline the way Halley subnet's founding-nation diversity or Janbogo/Ross subnet's Pacific-corridor concentration each did — instead, Mirny subnet's real defining demographic fact is the sheer number of different processes sitting side by side, from Zhongshan's unbroken Chinese continuity to Kunlun's fully re-resolved, nationality-neutral specialist population, with nearly every other possible mechanism represented somewhere in between.
 
 ---
 
@@ -229,7 +229,7 @@ Mirroring the district-level and other-subnet exercises, but adapted to this sub
 - **Davis carries the enabler role, three times reinforced** — namesake, real-world precedent, and current economy all independently converging on the same "makes other people's work possible" identity.
 - **Vostok carries an inheritance nobody currently living there actually built** — a legend arrived at by accident, taken up anyway because the work itself was worth doing.
 - **Kunlun carries the most complete Head-center identity in Tepenia** — a city that became one enormous distributed instrument, re-resolved from a single nation into whoever the actual expertise required.
-- **Zhongshan carries the one unbroken continuity** — the only Tepenian city where the founding operator nation never lost its own demographic Primary status.
+- **Zhongshan carries the one unbroken continuity** — the only Tepenian city where the founding nation never lost its own demographic Primary status.
 - **The Sinheung carries the nation's actual robot-creation capacity** — quietly load-bearing infrastructure sitting behind a modest political profile, so quiet that its own war damage suggests Upper Earth understood its significance better than most Tepenians did.
 - **Shirayuki carries a diplomatic decision made real** — an imposed origin that became, over generations, something its own residents would choose again.
 

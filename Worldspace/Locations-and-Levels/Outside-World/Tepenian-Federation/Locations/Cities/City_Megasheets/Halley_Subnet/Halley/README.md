@@ -24,7 +24,7 @@ The full, concatenated Halley reference — synthesis, then extrapolation, then 
 | **Status** | Damaged; partially operational |
 | **Subnet** | Halley — the subnet's own namesake, but deliberately *not* its technical Arcanet nexus (that sits at Sanay); reached via Hwy 59 (doubles as the Arcanet cable corridor south to Amundsen Station) and Hwy 7 (to Belgrano and the rest of the subnet) |
 | **Population (Census II)** | 509,209 humans / 578,860 robots / 1,088,069 combined — Tepenia's 3rd largest city |
-| **Founding** | British exiles alongside a broader Atlantic-region community; a three-layer founding stack (British institutional heritage, a South African-led founding wave, an eventual American demographic majority) that never resolved into one single story |
+| **Founding** | British exiles alongside a broader Atlantic-region community; a layered founding (a South African-led founding wave, an eventual American demographic majority) that never resolved into one single story |
 
 ---
 

@@ -110,11 +110,9 @@ months between the rarer seasonal ones.
 
 **Seasonal / annual:**
 
-- **Midwinter Observance** — timed to the winter solstice, deep within the six-month polar night; drawing
-  directly on the real Amundsen-Scott Station's own genuine, decades-old Midwinter tradition (a real-world
-  practice worth adapting rather than inventing from nothing) — the one moment of the year every crew,
-  regardless of home subnet or nation, would have shared in common: the exact midpoint of the darkness,
-  deliberately marked rather than simply endured.
+- **Midwinter Observance** — timed to the winter solstice, deep within the six-month polar night — the one
+  moment of the year every crew, regardless of home subnet or nation, would have shared in common: the exact
+  midpoint of the darkness, deliberately marked rather than simply endured.
 - **Equinox Sunrise Gathering** — timed to the station's own unique 360° simultaneous sunrise after six
   months of continuous darkness, plausibly the closest thing rotating crews had to a shared, un-invented St.
   Roald acknowledgment (see the companion Attributes file's own Finding G) — watching the sun return from

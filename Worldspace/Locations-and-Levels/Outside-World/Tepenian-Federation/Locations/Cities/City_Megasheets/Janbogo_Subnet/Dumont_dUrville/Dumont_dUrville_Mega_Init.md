@@ -18,7 +18,7 @@
 | **Status** | Damaged; partially operational — hit during the Long Night War, not destroyed |
 | **Subnet** | Janbogo — a genuine two-highway junction (Hwy 2's eastern terminus, Hwy 183's northern terminus) |
 | **Population (Census II)** | 134,634 humans / 177,372 robots / 312,006 combined — island cap, robots meaningfully outnumbering humans |
-| **Founding** | French exiles on Dumont d'Urville Station infrastructure (continuous French presence since 1956) |
+| **Founding** | French exiles on Dumont d'Urville Station infrastructure |
 
 ---
 

@@ -20,7 +20,7 @@
 
 ## Finding 2: Neumayer and Halley are structural opposites in exactly the dimension that matters most, despite facing the same underlying problem
 
-**Combining:** Neumayer's newly-proposed formal, deliberate preservation of its own founding institution (AWI) as a structured, ongoing entity + Halley's own established Cross-Reference finding — a consistent civic habit of trading away concrete institutional control for something less tangible (naming honor, symbolic confidence) + both cities sharing the same subnet, similar unstable-ice-shelf geography, and a comparable founding era.
+**Combining:** Neumayer's newly-proposed formal, deliberate preservation of its own founding institution (the Precision Institute) as a structured, ongoing entity + Halley's own established Cross-Reference finding — a consistent civic habit of trading away concrete institutional control for something less tangible (naming honor, symbolic confidence) + both cities sharing the same subnet, similar unstable-ice-shelf geography, and a comparable founding era.
 
 **2nd-order effect:** Neumayer and Halley, despite facing structurally similar physical instability, chose opposite civic responses to it — Neumayer doubled down on formal institutional structure and precise documentation, while Halley repeatedly let formal control slip away in favor of confidence and reputation.
 
@@ -32,9 +32,9 @@
 
 ## Finding 3: Neumayer's rigorous record-keeping habits may extend far beyond climate data, making it a genuinely plausible second archive location for the Planetary Split Brain storyline
 
-**Combining:** the Full Extrapolation's proposed redundant off-site backup practice for Neumayer's own climate data, treated as routine precision-institution behavior + the newly-proposed formal AWI institutional preservation, suggesting the city takes its own institutional memory unusually seriously across the board + the established, Tepenia-wide Planetary Split Brain crisis, which the Amundsen Station archive alone is currently positioned to help reconcile.
+**Combining:** the Full Extrapolation's proposed redundant off-site backup practice for Neumayer's own climate data, treated as routine precision-institution behavior + the newly-proposed formal preservation of the Precision Institute, suggesting the city takes its own institutional memory unusually seriously across the board + the established, Tepenia-wide Planetary Split Brain crisis, which the Amundsen Station archive alone is currently positioned to help reconcile.
 
-**2nd-order effect:** if rigorous, redundant record-keeping is simply how Neumayer operates as a matter of course, it's plausible the city holds well-preserved documentation on more than just atmospheric science — potentially early Tower engineering records, AWI's own institutional history, or other Halley subnet material entrusted to its unusually careful archival habits.
+**2nd-order effect:** if rigorous, redundant record-keeping is simply how Neumayer operates as a matter of course, it's plausible the city holds well-preserved documentation on more than just atmospheric science — potentially early Tower engineering records, the Precision Institute's own institutional history, or other Halley subnet material entrusted to its unusually careful archival habits.
 
 **3rd-order effect:** this makes Neumayer a genuinely plausible second significant archive location in Tepenia — not as complete or centrally important as Amundsen Station's own pre-Split-Brain archive, but a real, earned reason the city might hold valuable corroborating history.
 

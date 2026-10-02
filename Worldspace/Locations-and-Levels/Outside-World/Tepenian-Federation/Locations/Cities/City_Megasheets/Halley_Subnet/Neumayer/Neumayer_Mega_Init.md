@@ -18,7 +18,7 @@
 | **Status** | Damaged; partially operational |
 | **Subnet** | Halley — off Hwy 7's main line via its own connector, an ice shelf position |
 | **Population (Census II)** | 385,071 humans / 445,676 robots / 830,747 combined |
-| **Founding** | Exiles who inherited the AWI station, and a full settlement's worth of scientific and engineering equipment that became the seed of Neumayer's own most significant contribution to Tepenian history |
+| **Founding** | Exiles who inherited the station, and a full settlement's worth of scientific and engineering equipment that became the seed of Neumayer's own most significant contribution to Tepenian history |
 
 ---
 
@@ -95,8 +95,8 @@ Carried forward from `Specs/Neumayer.md` and `City_Vision_Notes/Neumayer.md`, st
 - Current ice-shelf-movement and calving status — how far has the Ekström Ice Shelf moved since the war, and has any portion of the city calved into the Weddell Sea?
 - Whether the centuries-long climate/atmospheric data record survived the war or reached Concordia — an open lean toward yes, not settled canon
 
-**Resolved 2026-07-17:** whether the Alfred Wegener Institute survived as a distinct institutional entity
-in exile — yes, per Course of Events Suggestion #4, "The Institute That Refused to Dissolve": formally,
+**Resolved 2026-07-17:** whether the city's founding research and engineering institution survived as a
+distinct institutional entity — yes, per Course of Events Suggestion #4, "The Institute That Refused to Dissolve": formally,
 deliberately preserved as its own entity, producing two overlapping governance systems (general civic
 administration and the continuous research institute) rather than letting either absorb the other. Also
 resolved: "The Schematic" holiday name, previously listed here as undeveloped — it's the same civic

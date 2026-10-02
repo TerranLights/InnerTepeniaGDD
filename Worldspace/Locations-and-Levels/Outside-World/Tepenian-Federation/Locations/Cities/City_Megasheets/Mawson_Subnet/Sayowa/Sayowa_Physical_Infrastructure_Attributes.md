@@ -17,10 +17,10 @@ subnet all at once, and that junction is structurally more nationally important 
 icebreaker-accessible in summer, a genuine seasonal dual-mode access city; status is damaged but partially
 operational, specifically because the Sayowa Junction was valuable enough to be targeted but too
 structurally important to the whole continent's connectivity to fully destroy; population ~165k (Census
-II), a fraction of Mawson's; economy is fabrication, trucking/dispatch, and JARE-heritage scientific
-research; the city itself is physically split into two matched, deliberately separate halves — an
-industrialized fabrication-and-dispatch zone and a residential zone preserving the original JARE research
-footprint (established, Course of Events chain #1); the actual three-way junction sits near, not inside,
+II), a fraction of Mawson's; economy is fabrication, trucking/dispatch, and scientific research; the city
+itself is physically split into two matched, deliberately separate halves — an industrialized
+fabrication-and-dispatch zone and a residential zone preserving the original research-station footprint
+(established, Course of Events chain #1); the actual three-way junction sits near, not inside,
 the city, connected by the dedicated Sayowa Spur road.
 
 ---
@@ -63,17 +63,17 @@ the city, connected by the dedicated Sayowa Spur road.
 10. **A physically distinct industrial fabrication-and-dispatch zone**, separate from the residential zone
     (established, Course of Events chain #1's own Culmination — "a clean split... rather than the two
     simply blurring together").
-11. **Preserved JARE research infrastructure, kept intentionally separate from the industrial buildout**
+11. **Preserved research-station infrastructure, kept intentionally separate from the industrial buildout**
     (established, same chain) — the original scientific footprint protected from being folded into the
     newer industrial apparatus rather than displaced by it.
 
-## Scientific/JARE Heritage Infrastructure
+## Scientific & Archival Infrastructure
 
-12. **Archival space for Shōwa-era institutional memory**, held privately and generationally within the
+12. **Archival space for Shōwa-era memory**, held privately and generationally within the
     Japanese-heritage community specifically (per `Sayowa_Community_Infrastructure.md`'s own corrected
     framing) — distinct from any public commemorative infrastructure.
-13. **Continued ice-core or polar-research facilities** inherited from JARE's own uninterrupted 1957-era
-    research tradition, maintained within the residential half of the city's own physical split.
+13. **Continued ice-core or polar-research facilities**, housed in the original research-station buildings
+    and maintained within the residential half of the city's own physical split.
 
 ## Logistics & Dispatch
 
@@ -153,17 +153,16 @@ lose by letting the Junction fail completely.
 **3rd-order effect:** this makes Sayowa's own repair priorities a direct continuation of its wartime survival
 logic rather than a separate post-war decision — one consistent principle governing both.
 
-### Finding D: the physical split between JARE heritage and the industrial zone mirrors the demographic split in Finding 1
+### Finding D: the physical split between the preserved research footprint and the industrial zone mirrors the demographic split in Finding 1
 
-**Combining:** attributes #11–13 (preserved JARE research infrastructure, kept intentionally separate from
+**Combining:** attributes #11–13 (preserved research-station infrastructure, kept intentionally separate from
 the industrial buildout; archival Shōwa-era memory held privately within the Japanese-heritage community) +
 the existing Cross-Reference Synthesis's Finding 1 (Japan's Tepenian diaspora producing genuinely separate
 outcomes at Shirayuki, Princess Elisabeth, and Sayowa).
 
 **2nd-order effect:** the physical separation between the preserved research footprint and the newer
 industrial zone is a spatial echo of the same separation already visible in the population data — Sayowa's
-institutional memory (JARE heritage) and its demographic majority (China-Primary) occupy genuinely distinct
-space, not blended, in both the census tables and the city's own layout.
+founding-era community and its demographic majority (China-Primary) occupy genuinely distinct space, not blended, in both the census tables and the city's own layout.
 
 **3rd-order effect:** worth naming as a small but real piece of design coherence — Sayowa's built environment
 and its demographic history are telling the identical story independently, without either fact having been

@@ -9,7 +9,7 @@
 - **The Shirayuki Institute of Applied and Fine Arts** — the city's flagship university, oriented around highly-technical sub-fields of art and design in their many specific forms; comparable in scope but distinct in focus to Sinheung's smaller university (materials, fabrication, production). Many people, both human and robot, move to Shirayuki specifically to study here, using the Institute as a deliberate stepping stone toward eventually integrating into the local arts and music culture rather than as an end in itself.
 - **The Ashiato Ateliers** — informal studios where residents assemble, alter, and personalize their own homemade Alt-Rock/Alt-Grunge/Alt-Pop garments.
 - **Glacier-Pop Living Rooms** — the informal, friends-and-neighbors performance spaces where the city's massive amateur music scene actually happens, distinct from its formal conservatories.
-- **The Bharati Gallery Halls** — former research labs converted into gallery and studio space, the throughline from Bharati Station's original research infrastructure.
+- **The Bharati Gallery Halls** — former research labs converted into gallery and studio space.
 - **The Founders' Garden** — the physical site tied to the observance celebrating the city's research, education, and arts identity.
 - **The Cluster Boundary Walk** — an informal path crossing into Sinheung's and Zhongshan's own territory.
 - **The Battle Halls** *(added 2026-07-31)* — informal, recurring venues built for direct band-vs-band and performer-vs-performer competitive showcases, distinct in spirit from the collaborative, friends-and-neighbors Glacier-Pop Living Rooms.
@@ -25,7 +25,7 @@
 - textile alteration and homemade-fashion craft (the Ashiato tradition)
 - conservatory-style musical training alongside informal amateur mentorship
 - highly-technical art and design sub-fields, via the Institute (sound design, fashion/textile engineering, applied visual media, and comparable specific disciplines)
-- research-institution methodology, inherited from the Bharati Station's own academic origins
+- research-institution methodology
 - self-publishing and small-press craft *(added 2026-08-02)* — writing, editing, and low-volume print production, centered on the Print & Zine Collective
 
 ## Social cohesion mechanisms

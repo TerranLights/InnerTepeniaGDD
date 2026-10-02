@@ -12,7 +12,7 @@
 
 ## II. Why Abowasa Survived Partially: A Small Scientific Target, Not a Small Civilian One
 
-**Proposed:** Abowasa's own established economy names Technical/Scientific work as its single largest sector (25% of industry, the inherited FINNARP/SWEDARP research tradition) — larger than any other sector in a city that otherwise has no dominant industry at all. This gives the partial-destruction question a concrete, earned answer: Abowasa was never valuable enough, as a settlement, to warrant a full strike — small, inward-facing, never a major economic node — but its scientific and research infrastructure was specific and functional enough to be worth disabling. The war damage proposed here targeted the technical and research facilities directly, not the residential, household-scale community around them — consistent with a strike calculated to remove a modest but real capability rather than to erase a population that posed no strategic threat on its own.
+**Proposed:** Abowasa's own established economy names Technical/Scientific work as its single largest sector (25% of industry) — larger than any other sector in a city that otherwise has no dominant industry at all. This gives the partial-destruction question a concrete, earned answer: Abowasa was never valuable enough, as a settlement, to warrant a full strike — small, inward-facing, never a major economic node — but its scientific and research infrastructure was specific and functional enough to be worth disabling. The war damage proposed here targeted the technical and research facilities directly, not the residential, household-scale community around them — consistent with a strike calculated to remove a modest but real capability rather than to erase a population that posed no strategic threat on its own.
 
 ---
 
@@ -38,7 +38,7 @@
 ## VI. Notable Figures (proposed, unconfirmed)
 
 - **Elder Ingrid Lindqvist-Väisänen** *(placeholder)* — a present-day community figure whose own hyphenated surname (Swedish-Finnish) is treated locally as a small, quiet emblem of the city's whole founding story; often the person newcomers are introduced to first, given the fast, near-inevitable visitor-to-resident transition already established in Abowasa's own culture.
-- **Founding-era FINNARP/SWEDARP joint coordinator** *(placeholder, unnamed)* — whoever first formalized the practical cooperation between the two exile communities in the earliest post-Falkland Treaty years, before the two stations' populations had any reason yet to think of themselves as one city.
+- **Founding-era joint coordinator** *(placeholder, unnamed)* — whoever first formalized the practical cooperation between the two exile communities in the earliest post-Falkland Treaty years, before the two stations' populations had any reason yet to think of themselves as one city.
 
 *(Both entirely proposed — placeholder figures meant to give Abowasa's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
 

@@ -18,13 +18,13 @@
 | **Status** | Damaged; partially operational — a critical junction, hit but too structurally important to fully destroy |
 | **Subnet** | Mawson — westernmost city, bridging toward the Halley subnet |
 | **Population (Census II)** | 85,199 humans / 79,758 robots / 164,957 combined — one of the smallest Mawson subnet cities |
-| **Founding** | Japanese exiles, via JARE's organic station inheritance (continuous research presence since 1957) |
+| **Founding** | Japanese exiles |
 
 ---
 
 ## Who Lives Here, and Why
 
-China sits Primary, with Japan — the actual founding nation — diluted all the way down into Significant tier alongside Germany, France, UK, South Korea, Indonesia, and Australia. Sayowa is no longer, and was corrected in 2026-07-06 to no longer claim to be, Tepenia's primary Japanese demographic presence — that distinction belongs to Shirayuki now, whose diplomatically-protected Jeju-do allocation held where Sayowa's organic settlement diluted under the same regional Chinese demographic pressure visible across this whole corner of the continent. Sayowa retains genuine Japanese institutional heritage (JARE) without the population share to match.
+China sits Primary, with Japan — the actual founding nation — diluted all the way down into Significant tier alongside Germany, France, UK, South Korea, Indonesia, and Australia. Sayowa is no longer, and was corrected in 2026-07-06 to no longer claim to be, Tepenia's primary Japanese demographic presence — that distinction belongs to Shirayuki now, whose diplomatically-protected Jeju-do allocation held where Sayowa's organic settlement diluted under the same regional Chinese demographic pressure visible across this whole corner of the continent.
 
 ---
 

@@ -12,7 +12,7 @@ Following the simple, direct adjectival pattern already used for other short-nam
 
 ## II. Notable Figures (proposed, unconfirmed)
 
-- **Dr. Naledi van Zyl-Osei** *(placeholder)* — a founding-era biological researcher continuing the BAS's original marine-and-terrestrial-biology mission into the exile era, drawing on Signy's unique South African founding-wave presence for her own background.
+- **Dr. Naledi van Zyl-Osei** *(placeholder)* — a founding-era biological researcher central to the city's founding marine-and-terrestrial-biology mission, drawing on Signy's unique South African founding-wave presence for her own background.
 - **Platform Engineer Declan Ferreira-Whitcombe** *(placeholder)* — credited with designing the floating extension-platforms that let Signy's fishing economy reach beyond the coastline itself, a founding figure for the city's whole established fishing identity.
 
 *(Both entirely proposed — placeholder figures meant to give the "Notable Figures: TBD" line a concrete starting point, not finished character writing.)*

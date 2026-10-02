@@ -24,7 +24,7 @@ The full, concatenated Davis reference — synthesis, then extrapolation, then c
 | **Status** | Damaged; partially operational *(corrected 2026-07-14 — see `Davis_Mega_Init.md`; this concatenated copy carried the same stale pre-2026-07-03 status)* |
 | **Subnet** | Mirny — on Hwy 110, between Zhongshan and Mirny |
 | **Population (Census II)** | 437,423 humans / 344,173 robots / 781,596 combined — one of few Tepenian cities with a genuine human majority |
-| **Founding** | Australian exiles inheriting decades of AAD environmental research into the Vestfold Hills' unusual ice-free terrain |
+| **Founding** | Australian exiles |
 
 ---
 
@@ -115,7 +115,7 @@ Tyumen is the standout of this pass — its real role as the essential, unglamor
 
 ## IV. The Mawson Question — Administratively Separate, Symbolically Linked
 
-**Proposed:** given Mawson-the-city sits in a different subnet entirely, any pre-war relationship with Davis would have run through occasional, mostly symbolic or ceremonial gestures — shared Australian Antarctic naming heritage acknowledged on national holidays or through cultural exchange, rather than genuine day-to-day operational ties. This makes the Split Brain's severance of this particular link low-cost: there wasn't a deep working relationship to lose, just an occasional historical nod that's now simply gone, unremarked and unmourned by most residents of either city.
+**Proposed:** given Mawson-the-city sits in a different subnet entirely, any pre-war relationship with Davis would have run through occasional, mostly symbolic or ceremonial gestures — shared Australian heritage and Australian-explorer namesakes acknowledged on national holidays or through cultural exchange, rather than genuine day-to-day operational ties. This makes the Split Brain's severance of this particular link low-cost: there wasn't a deep working relationship to lose, just an occasional historical nod that's now simply gone, unremarked and unmourned by most residents of either city.
 
 ---
 

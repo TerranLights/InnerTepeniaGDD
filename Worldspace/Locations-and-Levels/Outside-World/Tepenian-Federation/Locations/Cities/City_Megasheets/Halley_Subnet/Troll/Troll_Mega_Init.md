@@ -18,7 +18,7 @@
 | **Status** | Damaged; partially operational |
 | **Subnet** | Halley — the inland section of Hwy 7, plus Troll Airfield, a 3,000m intercontinental-capable runway |
 | **Population (Census II)** | 323,650 humans / 348,182 robots / 671,832 combined |
-| **Founding** | Norwegian exiles, Norwegian Polar Institute heritage since 1990, inheriting the 1939 Queen Maud Land claim alongside the airfield itself |
+| **Founding** | Norwegian exiles, inheriting the 1939 Queen Maud Land claim alongside the airfield itself |
 
 ---
 

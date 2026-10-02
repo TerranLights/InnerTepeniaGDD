@@ -29,14 +29,14 @@ record in `Neo-Races-and-Cultures/_Method/Palmer_Subnet_Phase1c_Summary.md` and
 
 ## IV. The Placeholder Holiday, Developed
 
-- **Founders' Flight** — commemorates the original 1969 Argentine Air Force arrival and, by extension, the exile generation's own founding flight onto Seymour Island; an aviation-focused observance, fittingly, for a city whose founding infrastructure was a runway.
+- **Founders' Flight** — commemorates the exile generation's own founding flight onto Seymour Island; an aviation-focused observance, fittingly, for a city whose founding infrastructure was a runway.
 - *A second municipal holiday slot is open. "The Warm Ground" previously held it as a fossil-record observance; struck for the same reason as Section III, above.*
 
 ---
 
 ## V. Notable Figures (proposed, unconfirmed)
 
-- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era Air Force officer credited with establishing Marambio's operational discipline and institutional character, a culture that persisted long after the founding population's own demographic presence eroded to Notable tier by Census II.
+- **Comandante Ezequiel Fariña** *(placeholder)* — the founding-era officer credited with establishing Marambio's operational discipline, a culture that persisted long after the founding population's own demographic presence eroded to Notable tier by Census II.
 
 *(Entirely proposed — a placeholder figure meant to give the "Notable Figures: TBD" line a concrete
 starting point, not finished character writing. A second figure, a paleontologist tied to Seymour

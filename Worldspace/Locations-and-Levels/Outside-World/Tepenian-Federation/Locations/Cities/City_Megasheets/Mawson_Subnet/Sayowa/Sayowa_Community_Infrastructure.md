@@ -15,7 +15,7 @@
 
 - junction infrastructure maintenance and cooperative multi-party coordination
 - seasonal ice-road and icebreaker maritime logistics
-- JARE institutional history and archival keeping, for the smaller Japanese-heritage community specifically
+- Shōwa-era naming history and archival keeping, for the smaller Japanese-heritage community specifically
 
 ## Social cohesion mechanisms
 

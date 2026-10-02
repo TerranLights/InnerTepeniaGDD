@@ -128,7 +128,7 @@ independently.
 ### Finding D: the maglev transit network is physical-infrastructure confirmation of Lazar's own resolved megacity-economy question
 
 **Combining:** attributes #3–4 (the maglev/elevated transit network, scaled to Tepenia's single largest
-population) + the Full Extrapolation's Section III (three ordinary facts — inherited logistics function,
+population) + the Full Extrapolation's Section III (three ordinary facts — regional logistics function,
 highway convergence, sheer population — combining into Lazar's genuine megacity commercial economy).
 
 **2nd-order effect:** the maglev network is a fourth physical confirmation of Section III's own argument —
@@ -137,18 +137,18 @@ both cause and effect of the megacity scale that argument already resolves.
 **3rd-order effect:** reinforces an already-settled developer-flagged gap with a concrete piece of
 infrastructure, the same kind of upgrade several other Findings in this pass have provided.
 
-### Finding E: the Junction Markets are the commercial expression of Lazar's resolved DROMLAN-legacy question
+### Finding E: the Junction Markets are the commercial expression of Lazar's resolved logistics-role question
 
 **Combining:** attribute #7 (the Hwy 7 / Belgrano Extension Junction Markets) + the Full Extrapolation's
-Section II (Novolazarevskaya's real DROMLAN aviation-hub legacy survived as function, translated to highway
-logistics, since Lazar isn't among Tepenia's fixed eight airports).
+Section II (Lazar's regional logistics function runs by highway, since Lazar isn't among Tepenia's fixed
+eight airports).
 
 **2nd-order effect:** the Junction Markets are the direct physical and commercial expression of that
-resolved "function survived, the airfield didn't" answer — the actual marketplace occupying the highway
-convergence point that inherited the old aviation hub's regional logistics role.
+resolved "by highway, not by air" answer — the actual marketplace occupying the highway convergence point
+that carries the city's regional logistics role.
 
 **3rd-order effect:** ties one of the Full Extrapolation's most structurally important resolutions to an
-actual, walkable location rather than leaving it as an abstract institutional-succession argument.
+actual, walkable location rather than leaving it as an abstract argument.
 
 ---
 

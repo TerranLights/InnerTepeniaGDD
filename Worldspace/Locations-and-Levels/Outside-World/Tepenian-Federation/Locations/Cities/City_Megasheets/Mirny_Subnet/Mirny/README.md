@@ -26,7 +26,7 @@ The full, concatenated Mirny reference — synthesis, then extrapolation, then c
 | **Status** | Damaged; partially operational |
 | **Subnet** | Mirny — subnet hub, sitting precisely on the Antarctic Circle; Hwy 110's Coastal Cut connects it to Casey/Concordia (east) and Davis/Zhongshan (west) |
 | **Population (Census II)** | 507,344 humans / 509,151 robots / 1,016,495 combined |
-| **Founding** | Russian exiles inheriting one of the oldest continuously-occupied Antarctic stations (operating since 1956), named for the sloop *Mirny* from Bellingshausen's 1819–1821 expedition — the first to circumnavigate and sight Antarctica |
+| **Founding** | Russian exiles; the city is named for the sloop *Mirny* from Bellingshausen's 1819–1821 expedition — the first to circumnavigate and sight Antarctica |
 
 ---
 
@@ -150,9 +150,7 @@ Following the straightforward adjectival pattern already natural to the name its
 
 ## VIII. The Sinheung Relationship, Resolved
 
-*(Corrected 2026-07-13: this section originally described "Mirny's and Sinheung's Russian communities" and "the two Russian communities" — wrong on both counts as a defining relationship. Sinheung (at the time tracked under the placeholder "Soyuz") is singularly Korean-founded via the Jeju-do court; Russia was never more than the physical Progress Station's operator there, and its population today sits at ordinary Significant tier (6.85%), the same non-founding status Russia holds at Mirny itself (Significant, founding-operator heritage, diluted behind China's Primary). Rebuilt below on the corrected premise: a minority-to-minority connection between two cities' own Russian-descended populations, not a relationship between "the two Russian cities." Sinheung was officially named 2026-07-14.)*
-
-**Proposed:** pre-Split-Brain contact between Mirny's own Russian-descended minority (its genuine founding-operator heritage, though long since diluted to Significant tier behind China's Primary) and Sinheung's own separate, ordinary-immigration Russian minority was real but modest — occasional and largely ceremonial, given the genuine physical distance separating them across the subnet before Sinheung's later administrative move into the Mirny subnet itself, and given that neither city's Russian population was ever its defining demographic. What's changed since is more significant than nostalgia: Mirny's own subnet-hub relay infrastructure now plausibly routes Sinheung's communications directly, alongside Zhongshan's, Casey's, Davis's, Vostok's, and Kunlun's — giving the two cities' Russian-descended communities a genuinely new kind of connection, administrative and technical rather than purely cultural-historical, that didn't exist in this form before the subnet reorganization.
+**Proposed:** pre-Split-Brain contact between Mirny's own Russian-descended minority (at Significant tier, behind China's Primary) and Sinheung's own separate, ordinary-immigration Russian minority was real but modest — occasional and largely ceremonial, given the genuine physical distance separating them across the subnet before Sinheung's later administrative move into the Mirny subnet itself, and given that neither city's Russian population was ever its defining demographic. What's changed since is more significant than nostalgia: Mirny's own subnet-hub relay infrastructure now plausibly routes Sinheung's communications directly, alongside Zhongshan's, Casey's, Davis's, Vostok's, and Kunlun's — giving the two cities' Russian-descended communities a genuinely new kind of connection, administrative and technical rather than purely cultural-historical, that didn't exist in this form before the subnet reorganization.
 
 ---
 

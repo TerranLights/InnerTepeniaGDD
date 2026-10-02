@@ -80,7 +80,7 @@
 
 ## Finding 7: there may be a robot alive today who remembers Dome Fuji as a research station
 
-**Combining:** the project-wide established fact that robots can live for centuries, especially with self-administered cyber-mechanical maintenance, and are "the primary carriers of continuous institutional memory across Tepenian society" (not human genealogical lines) + Specs' history that the original JARE-derived research mission would have employed support/maintenance robots alongside its human researchers + the Full Extrapolation's own proposed timeline (humans departing by slow attrition, the site briefly vacant, then robot pilgrims arriving and finding the station's infrastructure intact rather than ruined).
+**Combining:** the project-wide established fact that robots can live for centuries, especially with self-administered cyber-mechanical maintenance, and are "the primary carriers of continuous institutional memory across Tepenian society" (not human genealogical lines) + Specs' history that the original research mission would have employed support/maintenance robots alongside its human researchers + the Full Extrapolation's own proposed timeline (humans departing by slow attrition, the site briefly vacant, then robot pilgrims arriving and finding the station's infrastructure intact rather than ruined).
 
 **2nd-order effect:** given robot lifespans, it's entirely plausible that a support or maintenance robot from the *original* secular research era could still be functional today — not as a devotee who arrived through pilgrimage, but as someone who was simply already there and never left, having outlived the humans it once served by centuries.
 

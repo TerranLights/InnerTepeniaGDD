@@ -13,7 +13,7 @@ Mirroring the district-level and other-subnet exercises, but adapted to this sub
 - **Davis carries the enabler role, three times reinforced** — namesake, real-world precedent, and current economy all independently converging on the same "makes other people's work possible" identity.
 - **Vostok carries an inheritance nobody currently living there actually built** — a legend arrived at by accident, taken up anyway because the work itself was worth doing.
 - **Kunlun carries the most complete Head-center identity in Tepenia** — a city that became one enormous distributed instrument, re-resolved from a single nation into whoever the actual expertise required.
-- **Zhongshan carries the one unbroken continuity** — the only Tepenian city where the founding operator nation never lost its own demographic Primary status.
+- **Zhongshan carries the one unbroken continuity** — the only Tepenian city where the founding nation never lost its own demographic Primary status.
 - **The Sinheung carries the nation's actual robot-creation capacity** — quietly load-bearing infrastructure sitting behind a modest political profile, so quiet that its own war damage suggests Upper Earth understood its significance better than most Tepenians did.
 - **Shirayuki carries a diplomatic decision made real** — an imposed origin that became, over generations, something its own residents would choose again.
 

@@ -25,7 +25,7 @@
 
 - hospitality, casino, and entertainment-industry craft
 - jazz, rockabilly, and electroswing performance training
-- inherited Palmer Station research tradition (technical/scientific sector)
+- technical and scientific research
 - diplomatic protocol and tourism-reception craft *(added 2026-08-02)* — formal hosting, translation, and Upper Earth cultural liaison work, centered on the Diplomatic Quarter
 
 ## Social cohesion mechanisms (pre-war)

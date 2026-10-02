@@ -65,7 +65,7 @@ Building directly on the City Vision Notes tourism-economy resolution, the exist
 - **Entertainment / hospitality / tourism: 45%** (revised up from 35%, folding in the now-resolved Upper Earth tourism revenue explicitly)
 - **Commercial / trade: 15%** — subnet hub role, Hwy 1 waypoint access via the boat crossing
 - **Cultural institutions / arts: 15%** — jazz, rockabilly, and electroswing venues, museums and institutions built around the founding artifacts
-- **Technical / scientific: 10%** — inherited Palmer Station research tradition
+- **Technical / scientific: 10%**
 - **Marine / resource extraction: 10%** — genuine but secondary, given the milder maritime climate's fishing/marine access
 - **Other: 5%**
 

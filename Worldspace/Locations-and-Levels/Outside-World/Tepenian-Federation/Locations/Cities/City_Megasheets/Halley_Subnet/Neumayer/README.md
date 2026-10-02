@@ -24,7 +24,7 @@ The full, concatenated Neumayer reference — synthesis, then extrapolation, the
 | **Status** | Damaged; partially operational |
 | **Subnet** | Halley — off Hwy 7's main line via its own connector, an ice shelf position |
 | **Population (Census II)** | 385,071 humans / 445,676 robots / 830,747 combined |
-| **Founding** | Exiles who inherited the AWI station, and a full settlement's worth of scientific and engineering equipment that became the seed of Neumayer's own most significant contribution to Tepenian history |
+| **Founding** | Exiles who inherited the station, and a full settlement's worth of scientific and engineering equipment that became the seed of Neumayer's own most significant contribution to Tepenian history |
 
 ---
 
@@ -97,7 +97,7 @@ The actual institution whose entire mission is precision metrology, literally de
 Carried forward from `Specs/Neumayer.md` and `City_Vision_Notes/Neumayer.md`, still genuinely unresolved:
 - Notable figures: still nobody named
 - Demonym: still TBD
-- Whether the Alfred Wegener Institute survived as a distinct institutional entity in exile, or dissolved into the city's general governance
+- Whether the city's founding research and engineering institution survived as a distinct institutional entity, or dissolved into the city's general governance
 - Current ice-shelf-movement and calving status — how far has the Ekström Ice Shelf moved since the war, and has any portion of the city calved into the Weddell Sea?
 - Two placeholder holiday names ("Founders' Instrument," "The Schematic") never fully developed
 - Whether the centuries-long climate/atmospheric data record survived the war or reached Concordia — an open lean toward yes, not settled canon
@@ -122,7 +122,7 @@ Bletchley Park is the standout of this pass — its real historical precedent fo
 ## I. Notable Figures (proposed, unconfirmed)
 
 - **Chief Engineer Ingrid Osei-Falkenberg** *(placeholder)* — the lead designer credited with the Amundsen Tower's original schematics and structural planning, the figure whose work quietly reshaped Tepenian history without her own name ever reaching the Tower itself.
-- **Institutional Director Marcus Chen-Bergström** *(placeholder)* — credited with formally preserving the Alfred Wegener Institute's own structure within the exile city, rather than letting it dissolve into general governance.
+- **Institutional Director Marcus Chen-Bergström** *(placeholder)* — credited with formally preserving the Precision Institute's own structure within the exile city, rather than letting it dissolve into general governance.
 
 *(Both entirely proposed — placeholder figures meant to give Neumayer's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
 
@@ -134,9 +134,9 @@ Following the standard adjectival pattern already used across Tepenia's founding
 
 ---
 
-## III. AWI's Institutional Continuity: Formally Preserved, Not Dissolved
+## III. The Precision Institute's Continuity: Formally Preserved, Not Dissolved
 
-**Proposed:** the Alfred Wegener Institute survived as a genuine, distinct institutional entity within the city rather than dissolving quietly into general governance. This follows directly from Neumayer's own established rigor-first culture — a city organized around "Measured, Not Debated" would treat formalizing its own founding institution's continuity as exactly the kind of thing worth doing properly, rather than letting it informally fade.
+**Proposed:** the city's founding research and engineering institution, the Precision Institute, survived as a genuine, distinct institutional entity within the city rather than dissolving quietly into general governance. This follows directly from Neumayer's own established rigor-first culture — a city organized around "Measured, Not Debated" would treat formalizing its own founding institution's continuity as exactly the kind of thing worth doing properly, rather than letting it informally fade.
 
 ---
 
@@ -148,7 +148,7 @@ Following the standard adjectival pattern already used across Tepenia's founding
 
 ## V. The Two Placeholder Holidays, Developed
 
-- **Founders' Instrument** — commemorating the founding generation's decision to treat the inherited AWI research and engineering equipment as a genuine ongoing mission rather than scrap, the day the work that eventually became the Amundsen Tower project formally began.
+- **Founders' Instrument** — commemorating the founding generation's decision to treat the inherited research and engineering equipment as a genuine ongoing mission rather than scrap, the day the work that eventually became the Amundsen Tower project formally began.
 - **The Schematic** — a specifically Tower-related observance, marking the day Neumayer's own design work was formally completed and handed off to the actual construction site at the South Pole — a quietly bittersweet civic holiday, since almost nobody outside the city remembers what it actually commemorates.
 
 ---
@@ -199,7 +199,7 @@ Section VIII is the most emotionally significant proposal here — it takes the 
 
 ## Finding 2: Neumayer and Halley are structural opposites in exactly the dimension that matters most, despite facing the same underlying problem
 
-**Combining:** Neumayer's newly-proposed formal, deliberate preservation of its own founding institution (AWI) as a structured, ongoing entity + Halley's own established Cross-Reference finding — a consistent civic habit of trading away concrete institutional control for something less tangible (naming honor, symbolic confidence) + both cities sharing the same subnet, similar unstable-ice-shelf geography, and a comparable founding era.
+**Combining:** Neumayer's newly-proposed formal, deliberate preservation of its own founding institution (the Precision Institute) as a structured, ongoing entity + Halley's own established Cross-Reference finding — a consistent civic habit of trading away concrete institutional control for something less tangible (naming honor, symbolic confidence) + both cities sharing the same subnet, similar unstable-ice-shelf geography, and a comparable founding era.
 
 **2nd-order effect:** Neumayer and Halley, despite facing structurally similar physical instability, chose opposite civic responses to it — Neumayer doubled down on formal institutional structure and precise documentation, while Halley repeatedly let formal control slip away in favor of confidence and reputation.
 
@@ -211,9 +211,9 @@ Section VIII is the most emotionally significant proposal here — it takes the 
 
 ## Finding 3: Neumayer's rigorous record-keeping habits may extend far beyond climate data, making it a genuinely plausible second archive location for the Planetary Split Brain storyline
 
-**Combining:** the Full Extrapolation's proposed redundant off-site backup practice for Neumayer's own climate data, treated as routine precision-institution behavior + the newly-proposed formal AWI institutional preservation, suggesting the city takes its own institutional memory unusually seriously across the board + the established, Tepenia-wide Planetary Split Brain crisis, which the Amundsen Station archive alone is currently positioned to help reconcile.
+**Combining:** the Full Extrapolation's proposed redundant off-site backup practice for Neumayer's own climate data, treated as routine precision-institution behavior + the newly-proposed formal preservation of the Precision Institute, suggesting the city takes its own institutional memory unusually seriously across the board + the established, Tepenia-wide Planetary Split Brain crisis, which the Amundsen Station archive alone is currently positioned to help reconcile.
 
-**2nd-order effect:** if rigorous, redundant record-keeping is simply how Neumayer operates as a matter of course, it's plausible the city holds well-preserved documentation on more than just atmospheric science — potentially early Tower engineering records, AWI's own institutional history, or other Halley subnet material entrusted to its unusually careful archival habits.
+**2nd-order effect:** if rigorous, redundant record-keeping is simply how Neumayer operates as a matter of course, it's plausible the city holds well-preserved documentation on more than just atmospheric science — potentially early Tower engineering records, the Precision Institute's own institutional history, or other Halley subnet material entrusted to its unusually careful archival habits.
 
 **3rd-order effect:** this makes Neumayer a genuinely plausible second significant archive location in Tepenia — not as complete or centrally important as Amundsen Station's own pre-Split-Brain archive, but a real, earned reason the city might hold valuable corroborating history.
 
@@ -235,14 +235,14 @@ Finding 3 is the most significant of the three — it takes Neumayer's own estab
 
 # Neumayer — Community Infrastructure & Social Life
 
-**What this is:** concrete physical spaces, small institutions, and recurring social rituals that give Neumayer's already-established culture a tangible, ground-level presence — the same pass done for each of Concordia's 13 districts and for all 8 Mirny subnet cities plus Halley, Abowasa, Belgrano, and Lazar, extended here. **Note:** the existing `Neumayer_Full_Extrapolation.md` Section III names the founding institution "the Alfred Wegener Institute" directly — the real institute's own real-world name, presented as persisting as Neumayer's civic institution centuries later. Same GPS-only issue already caught for Abowasa/Belgrano/Lazar, applied here to an institution's name rather than a place or person; renamed below to "The Precision Institute." **Flagged for possible future renaming** — the developer likes this name but wants to leave room to consider additional options later; treat as a good working name, not necessarily final. Drawn from `Neumayer_Mega_Init.md`, `Neumayer_Full_Extrapolation.md`, `Neumayer_Cross_Reference_Synthesis.md`, and `Local_Cultures/Halley_Subnet/Neumayer.md`. Written 2026-07-30.
+**What this is:** concrete physical spaces, small institutions, and recurring social rituals that give Neumayer's already-established culture a tangible, ground-level presence — the same pass done for each of Concordia's 13 districts and for all 8 Mirny subnet cities plus Halley, Abowasa, Belgrano, and Lazar, extended here. **Note:** "The Precision Institute" is **flagged for possible future renaming** — the developer likes this name but wants to leave room to consider additional options later; treat as a good working name, not necessarily final. Drawn from `Neumayer_Mega_Init.md`, `Neumayer_Full_Extrapolation.md`, `Neumayer_Cross_Reference_Synthesis.md`, and `Local_Cultures/Halley_Subnet/Neumayer.md`. Written 2026-07-30.
 
 ---
 
 ## Additions
 
 - **The Ice Shelf Observatory** — primary scientific infrastructure, partially surviving in the damaged state.
-- **The Precision Institute** *(renamed from "the Alfred Wegener Institute"; flagged for possible future renaming — a good working name, not necessarily final)* — the formally preserved founding research and engineering institution.
+- **The Precision Institute** *(flagged for possible future renaming — a good working name, not necessarily final)* — the formally preserved founding research and engineering institution.
 - **The Amundsen Tower Design Archive** — wherever the original schematics and structural plans were kept.
 - **Instrument-Craft Workshops** — where precision engineering and calibrated-tool-making is practiced as genuinely admired craft.
 - **After-Hours Sound Venues** — the Electronic/Metal/Digital-Industrial bars and music spaces that serve as the city's actual release valve.
@@ -264,4 +264,4 @@ Finding 3 is the most significant of the three — it takes Neumayer's own estab
 
 ## Worth Your Attention
 
-The Precision Institute and After-Hours Sound Venues are the standout items — together they give Neumayer's "Measured, Not Debated" precision culture both a formal institutional anchor (renamed off the real-world violation) and its genuine emotional release valve, the two halves of the city's own established character.
+The Precision Institute and After-Hours Sound Venues are the standout items — together they give Neumayer's "Measured, Not Debated" precision culture both a formal institutional anchor and its genuine emotional release valve, the two halves of the city's own established character.

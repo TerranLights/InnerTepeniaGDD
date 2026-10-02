@@ -18,7 +18,7 @@
 | **Status** | Damaged; partially operational — badly bombed during the Long Night War, too large to be destroyed outright |
 | **Subnet** | Halley — eastern terminus of Hwy 7; origin point of the Belgrano Highway Extension |
 | **Population (Census II)** | 861,206 humans / 942,771 robots / 1,803,977 combined — **Tepenia's single largest city**, both censuses |
-| **Founding** | Russian exiles (Novolazarevskaya heritage) absorbing the unoccupied Maitri site via overflow, later demographically overtaken by five roughly-equal nations |
+| **Founding** | Russian exiles absorbing the unoccupied Maitri site via overflow, later demographically overtaken by five roughly-equal nations |
 
 ---
 
@@ -90,10 +90,9 @@ Carried forward from `Specs/Lazar.md` and `City_Vision_Notes/Lazar.md`, still ge
 - What's actually driving Lazar's evident megacity-scale commercial economy — explicitly flagged by the developer as needing real exploration, not a placeholder gap
 - Whether the "dual personality" idea (extending the old-core/new-expansion architectural split into a genuine civic dual character) gets developed further
 
-**Resolved 2026-07-17:** whether Novolazarevskaya's real DROMLAN air-logistics-hub role carried forward
-into Tepenia as a specific city function — yes, per Course of Events Suggestion #3, "The Function That
-Outlived the Airfield": the coordination habit survives Tepenia's fixed eight-airport network by
-reinventing itself on the ground, making Lazar the Halley subnet's actual highway distribution capital.
+**Resolved 2026-07-17:** whether Lazar carries a specific regional logistics function — yes, per Course
+of Events Suggestion #3: outside Tepenia's fixed eight-airport network, the coordination habit runs on
+the ground, making Lazar the Halley subnet's actual highway distribution capital.
 Also resolved: Lazar's relationship to Neumayer, its nearest confirmed subnet neighbor — per Course of
 Events Suggestion #7, "Complementary Not Competing," a quiet, undramatic mutual-usefulness relationship
 (Neumayer relies on Lazar as its nearest real market; Lazar's technical sector keeps an ongoing

@@ -34,8 +34,8 @@ Debated," balanced by a genuine After-Hours music scene as release valve.
 
 3. **The Ice Shelf Observatory** (established) — the city's primary scientific infrastructure, atmospheric
    and glaciological monitoring.
-4. **The Precision Institute** (established, renamed from the real Alfred Wegener Institute) — the formally
-   preserved founding research and engineering institution.
+4. **The Precision Institute** (established) — the formally preserved founding research and engineering
+   institution.
 5. **Instrument-Craft Workshops** (established) — dedicated space for precision engineering and calibrated
    tool-making, practiced as genuinely admired craft.
 
@@ -116,7 +116,7 @@ infrastructure without cross-referencing each other directly.
 
 ### Finding C: the Precision Institute is the concrete institutional anchor for Neumayer's half of the Halley comparison
 
-**Combining:** attribute #4 (the Precision Institute, the formally preserved AWI successor) + the existing
+**Combining:** attribute #4 (the Precision Institute, the formally preserved founding institution) + the existing
 Cross-Reference Synthesis's Finding 2 (Neumayer and Halley as structural opposites facing the same
 underlying ice-shelf instability — Neumayer doubling down on formal institutional structure, Halley trading
 concrete control for confidence).

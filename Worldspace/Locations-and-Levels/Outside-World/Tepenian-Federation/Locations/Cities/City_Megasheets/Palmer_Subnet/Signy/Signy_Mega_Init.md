@@ -18,7 +18,7 @@
 | **Status** | Survived; fully operational — but with a real asterisk (see below) |
 | **Subnet** | Palmer — no highway; maritime-access only; the weakest Arcanet link in Tepenia; a significant sea voyage from the nearest other city |
 | **Population (Census II)** | 53,928 humans / 79,827 robots / 133,755 combined (island cap) |
-| **Founding** | BAS since 1947, British exiles with a biological-science focus, alongside a unique South African founding-wave presence — the only Palmer subnet city with this, via the Cape Town–South Orkneys route |
+| **Founding** | British exiles with a biological-science focus, alongside a unique South African founding-wave presence — the only Palmer subnet city with this, via the Cape Town–South Orkneys route |
 
 ---
 

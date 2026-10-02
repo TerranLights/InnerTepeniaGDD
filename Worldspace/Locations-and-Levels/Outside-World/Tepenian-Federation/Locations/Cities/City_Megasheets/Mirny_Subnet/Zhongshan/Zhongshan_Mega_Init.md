@@ -8,7 +8,7 @@
 
 ## The One-Line Pitch
 
-*The only Tepenian city where the founding operator nation stayed on top for good — a place that never lost its identity, only refined it, in constant proximity to two very different neighbors without ever blending into either, and where you always, gently, know you're a guest.*
+*The only Tepenian city where the founding nation stayed on top for good — a place that never lost its identity, only refined it, in constant proximity to two very different neighbors without ever blending into either, and where you always, gently, know you're a guest.*
 
 ---
 
@@ -20,7 +20,7 @@
 | **Status** | Damaged, partially operational |
 | **Subnet** | Mirny — Hwy 110's western terminus, tri-junction with Hwy 4 and Hwy 22, co-located with Sinheung and the Shirayuki |
 | **Population (Census II)** | 522,372 humans / 474,312 robots / 996,684 combined |
-| **Founding** | Sinian (Chinese) defectors who chose exile alongside robots over their own nation's ideology — the only Tepenian city where the founding operator nation is also the unbroken long-run demographic Primary |
+| **Founding** | Sinian (Chinese) defectors who chose exile alongside robots over their own nation's ideology — the only Tepenian city where the founding nation is also the unbroken long-run demographic Primary |
 
 ---
 

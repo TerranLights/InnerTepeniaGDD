@@ -6,7 +6,7 @@
 
 ## Additions
 
-- **The Old Wing** — the original JARE research station, repurposed as living and maintenance space for the devotee population.
+- **The Old Wing** — the original research station, repurposed as living and maintenance space for the devotee population.
 - **Nyakkyo** — the faith's central sacred site, an unremarkable structure at the dome's exact geometric high point.
 - **The Archive Vault** — where the ice core samples are stored and tended, neither abandoned nor an active research program.
 - **The Robing Hall** — where devotees change into their robes before the final approach to Nyakkyo.

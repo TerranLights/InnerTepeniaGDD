@@ -12,7 +12,7 @@ Following the standard adjectival pattern already used across Tepenia's shorter-
 
 ## II. Economic Character: Precision, Calibration, and Monitoring
 
-**Proposed:** Scott's technical/research economy specializes in precision equipment calibration, maintenance, and environmental and geological monitoring for the whole Hut Point Peninsula — including a share of the ongoing Erebus monitoring program, complementing rather than competing with Fort McMurdo's own established heavy-industry focus. This traces directly from Scott Base's own real-world emphasis on scientific and environmental monitoring, and it gives Scott a specific, non-overlapping economic niche alongside Fort McMurdo rather than a vague "smaller version of the same thing."
+**Proposed:** Scott's technical/research economy specializes in precision equipment calibration, maintenance, and environmental and geological monitoring for the whole Hut Point Peninsula — including a share of the ongoing Erebus monitoring program, complementing rather than competing with Fort McMurdo's own established heavy-industry focus. This gives Scott a specific, non-overlapping economic niche alongside Fort McMurdo rather than a vague "smaller version of the same thing."
 
 ---
 
@@ -30,7 +30,7 @@ Following the standard adjectival pattern already used across Tepenia's shorter-
 
 ## V. Notable Figures (proposed, unconfirmed)
 
-- **Community Organizer Fiona Māui** *(placeholder — corrected 2026-07-17; previously "Fiona Māui-Larsen," whose Scandinavian-coded surname matched no Scott nation; simplified to Fiona (UK-adjacent) + Māui (New Zealand, the founding-operator nation))* — credited with shaping Scott's domestic, family-oriented civic character in its early exile-era decades, the figure behind the city's own deliberate choice to stay modest rather than grow.
+- **Community Organizer Fiona Māui** *(placeholder)* — credited with shaping Scott's domestic, family-oriented civic character in its early exile-era decades, the figure behind the city's own deliberate choice to stay modest rather than grow.
 - **Keeper of Hut Point Wiremu Tane** *(placeholder — corrected 2026-07-17; previously "Wiremu Halvorsen," whose Norwegian-coded surname matched no Scott nation; renamed fully Māori, matching New Zealand)* — a ceremonial figure associated with maintaining the Independence Day remembrance tradition at Hut Point, tending the site between observances.
 
 *(Both entirely proposed — placeholder figures meant to give Scott's empty "Notable Figures" list a concrete starting point, not finished character writing.)*

@@ -11,4 +11,9 @@
 - **`README.md`** — the concatenation of all three above, in order; the definitive, all-in-one mega-datasheet
 - **`Questline_Asset_Concept_Art/`** *(renamed 2026-07-08, formerly `Concept_Art/`)* — narrow, close-up concept art tied to this specific city's own quest design: individual buildings, quest scenes, items, characters encountered here. For whole-city or general-neighborhood concept art (establishing shots, skylines, district layouts), see the separate top-level `Cities/City_Concept-Art/` folder instead, organized by subnet rather than by individual city.
 
+> ⏸️ **Rewrite pending — and don't edit the existing megasheets** (developer, 2026-10-01). Every city megasheet will
+> be **rewritten after all cities have been through the ULM, the CST and the RWBEM**, so editing the current ones is
+> double work. The compilation guide's inputs (Step 0) get revised to those outputs plus `Founding_Register.md` when
+> that rewrite begins. The "step 7 of the City Vision Notes pipeline" description above is the old order.
+
 **Do not populate any city's megasheet until that city has completed the full upstream pipeline** — the whole point is that this is the *last* step, synthesizing everything already established rather than introducing new lore of its own.

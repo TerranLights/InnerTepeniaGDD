@@ -16,8 +16,7 @@ identity was its position at the junction of Hwy 110 (Concordia/Mirny) and Hwy 2
 the last coastal city before the deep interior drive; economy was built entirely on transit — resupply,
 rest, information exchange, not production or destination tourism; the Wilkes Station ruins, a genuine
 pre-exile American research site, sat a few kilometers away, already a historical curiosity before Casey's
-own destruction; population was large (Census I ~1.5 million), inherited from Australia's largest Antarctic
-station; climate combined katabatic winds off the interior with maritime storm systems off the sea, a dual
+own destruction; population was large (Census I ~1.5 million); climate combined katabatic winds off the interior with maritime storm systems off the sea, a dual
 exposure milder than Mirny's but genuinely distinct from a purely interior or purely coastal profile;
 seasonal maritime access ran roughly November-March.
 

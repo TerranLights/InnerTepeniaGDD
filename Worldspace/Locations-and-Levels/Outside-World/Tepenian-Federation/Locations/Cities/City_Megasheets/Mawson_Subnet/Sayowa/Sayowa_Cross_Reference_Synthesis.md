@@ -6,7 +6,7 @@
 
 ## Finding 1: Japan's Tepenian diaspora produced three genuinely different outcomes from three genuinely different mechanisms — Shirayuki, Princess Elisabeth, and Sayowa
 
-**Combining:** Shirayuki's established status as the genuine Japan-Primary city (36.27%), the direct result of diplomatic protection at Jeju-do + Princess Elisabeth's established co-Primary Japanese demographic presence, credited to an organic "eastern approach" immigration current + Sayowa's own organic JARE settlement, which diluted under the same regional Chinese demographic pressure visible everywhere else in the area, down to a mere 2.71% share.
+**Combining:** Shirayuki's established status as the genuine Japan-Primary city (36.27%), the direct result of diplomatic protection at Jeju-do + Princess Elisabeth's established co-Primary Japanese demographic presence, credited to an organic "eastern approach" immigration current + Sayowa's own organic settlement, which diluted under the same regional Chinese demographic pressure visible everywhere else in the area, down to a mere 2.71% share.
 
 **2nd-order effect:** these are three structurally distinct outcomes for the same national-origin population, produced by three different mechanisms — deliberate diplomatic protection (Shirayuki), unplanned organic demographic current (Princess Elisabeth), and unprotected organic dilution (Sayowa) — rather than one uniform "Japanese Tepenian experience" repeating across the continent.
 

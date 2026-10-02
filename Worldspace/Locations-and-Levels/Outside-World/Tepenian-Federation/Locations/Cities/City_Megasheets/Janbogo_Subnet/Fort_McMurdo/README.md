@@ -30,7 +30,7 @@ The full, concatenated Fort McMurdo reference — synthesis, then extrapolation,
 
 ## Who Lives Here, and Why
 
-China and USA sit co-Primary (19.34%/21.69%), with a genuinely broad Significant tier — Germany, France, Japan, Italy, UK — and an extensive Notable tier beneath that: Chile, Canada, Malaysia, New Zealand, Australia, Indonesia, South Korea, Philippines. Few Tepenian cities carry this many distinct national tiers at once, consistent with the established fact that McMurdo Station was always a multinational working environment, never exclusively American even though Americans founded and named it.
+China and USA sit co-Primary (19.34%/21.69%), with a genuinely broad Significant tier — Germany, France, Japan, Italy, UK — and an extensive Notable tier beneath that: Chile, Canada, Malaysia, New Zealand, Australia, Indonesia, South Korea, Philippines. Few Tepenian cities carry this many distinct national tiers at once.
 
 ---
 

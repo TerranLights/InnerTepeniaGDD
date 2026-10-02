@@ -21,8 +21,8 @@ otherwise ruin-dominated DLC 3 landscape, though "functioning" carries a real po
 isolated Palmer subnet city, maritime-access only, with the weakest Arcanet link in the Federation (radio,
 not digital networking, confirmed as the actual long-distance link given the sheer open-ocean distance);
 sub-Antarctic rather than full Antarctic, biologically rich (seals, penguins, seabirds, Scotia Sea marine
-productivity); founding population independently developed a biological-science civic focus, converging on
-the same mission the original BAS station had rather than inheriting it; the strongest Tepenian Saints
+productivity); founding population independently developed a biological-science civic focus; the strongest
+Tepenian Saints
 connection to St. Ernest (Shackleton) of any city in the Federation.
 
 ---

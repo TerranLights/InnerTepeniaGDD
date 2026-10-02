@@ -24,13 +24,13 @@ The full, concatenated Princess Elisabeth reference — synthesis, then extrapol
 | **Status** | Destroyed; ruins, explorable, with a small straggling survivor population |
 | **Subnet** | Halley ("Atlantic") — genuinely eastern position, closer to Dome Fuji than to its own subnet's western cluster |
 | **Population (Census II)** | 401,403 humans / 365,359 robots / 766,762 combined |
-| **Founding** | Belgian exiles, International Polar Foundation heritage; the most recently built founding-era station (opened 2009) |
+| **Founding** | Belgian exiles; the most recently built founding-era station (opened 2009) |
 
 ---
 
 ## Who Lives Here, and Why
 
-USA and Japan sit co-Primary — the only Halley subnet city with two Primary-tier founding populations rather than one, a direct consequence of its unusually eastern position drawing both the subnet's usual Atlantic-side American current and a genuinely distinct Indian-Ocean-side Japanese current no other Halley city absorbed in comparable strength. Belgium, the actual founding-operator nation, sits diluted at Notable tier — not by one later current but by two simultaneously.
+USA and Japan sit co-Primary — the only Halley subnet city with two Primary-tier founding populations rather than one, a direct consequence of its unusually eastern position drawing both the subnet's usual Atlantic-side American current and a genuinely distinct Indian-Ocean-side Japanese current no other Halley city absorbed in comparable strength. Belgium sits diluted at Notable tier — not by one later current but by two simultaneously.
 
 ---
 

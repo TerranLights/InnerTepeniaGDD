@@ -18,13 +18,13 @@
 | **Status** | Damaged; partially operational |
 | **Subnet** | Palmer — a road ramp off the Hwy 1 mainline, near the highway's western terminus at Byrd |
 | **Population (Census II)** | 121,784 humans / 134,073 robots / 255,857 combined (island cap) |
-| **Founding** | BAS since 1975, inheriting a well-developed station and a rare paved runway; Argentine and Chilean arrivals came first, ahead of the British institutional population and later American demographic majority |
+| **Founding** | Built on a well-developed station and a rare paved runway; Argentine and Chilean arrivals came first, ahead of the British institutional population and later American demographic majority |
 
 ---
 
 ## Who Lives Here, and Why
 
-USA sits Primary (28.57%), with a genuinely close-clustered Significant tier beneath it — Germany, Canada, and Brazil all within a percentage point of each other, France, Mexico, and UK close behind. The UK, the actual founding-operator nation, held on at Significant tier rather than falling to Notable — its population share outlasted the founding-*wave* nations (Argentina, Chile) numerically, even though those arrived first, before the British institutional population, and later the larger American wave, arrived in volume.
+USA sits Primary (28.57%), with a genuinely close-clustered Significant tier beneath it — Germany, Canada, and Brazil all within a percentage point of each other, France, Mexico, and UK close behind. The UK held on at Significant tier rather than falling to Notable — its population share outlasted the founding-*wave* nations (Argentina, Chile) numerically, even though those arrived first, before the British institutional population, and later the larger American wave, arrived in volume.
 
 ---
 

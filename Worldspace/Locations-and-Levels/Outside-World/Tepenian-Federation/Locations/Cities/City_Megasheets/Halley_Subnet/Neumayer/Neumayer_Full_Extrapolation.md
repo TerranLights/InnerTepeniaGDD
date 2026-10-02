@@ -7,7 +7,7 @@
 ## I. Notable Figures (proposed, unconfirmed)
 
 - **Chief Engineer Ingrid Osei-Falkenberg** *(placeholder)* — the lead designer credited with the Amundsen Tower's original schematics and structural planning, the figure whose work quietly reshaped Tepenian history without her own name ever reaching the Tower itself.
-- **Institutional Director Marcus Chen-Bergström** *(placeholder)* — credited with formally preserving the Alfred Wegener Institute's own structure within the exile city, rather than letting it dissolve into general governance.
+- **Institutional Director Marcus Chen-Bergström** *(placeholder)* — credited with formally preserving the Precision Institute's own structure within the exile city, rather than letting it dissolve into general governance.
 
 *(Both entirely proposed — placeholder figures meant to give Neumayer's empty "Notable Figures" list a concrete starting point, not finished character writing.)*
 
@@ -19,9 +19,9 @@ Following the standard adjectival pattern already used across Tepenia's founding
 
 ---
 
-## III. AWI's Institutional Continuity: Formally Preserved, Not Dissolved
+## III. The Precision Institute's Continuity: Formally Preserved, Not Dissolved
 
-**Proposed:** the Alfred Wegener Institute survived as a genuine, distinct institutional entity within the city rather than dissolving quietly into general governance. This follows directly from Neumayer's own established rigor-first culture — a city organized around "Measured, Not Debated" would treat formalizing its own founding institution's continuity as exactly the kind of thing worth doing properly, rather than letting it informally fade.
+**Proposed:** the city's founding research and engineering institution, the Precision Institute, survived as a genuine, distinct institutional entity within the city rather than dissolving quietly into general governance. This follows directly from Neumayer's own established rigor-first culture — a city organized around "Measured, Not Debated" would treat formalizing its own founding institution's continuity as exactly the kind of thing worth doing properly, rather than letting it informally fade.
 
 ---
 
@@ -33,7 +33,7 @@ Following the standard adjectival pattern already used across Tepenia's founding
 
 ## V. The Two Placeholder Holidays, Developed
 
-- **Founders' Instrument** — commemorating the founding generation's decision to treat the inherited AWI research and engineering equipment as a genuine ongoing mission rather than scrap, the day the work that eventually became the Amundsen Tower project formally began.
+- **Founders' Instrument** — commemorating the founding generation's decision to treat the inherited research and engineering equipment as a genuine ongoing mission rather than scrap, the day the work that eventually became the Amundsen Tower project formally began.
 - **The Schematic** — a specifically Tower-related observance, marking the day Neumayer's own design work was formally completed and handed off to the actual construction site at the South Pole — a quietly bittersweet civic holiday, since almost nobody outside the city remembers what it actually commemorates.
 
 ---

@@ -158,8 +158,8 @@ Section VI of the Full Extrapolation already establishes for the city's demograp
 ### Finding C: Founding Administrator Warrick Zhao's legacy has a concrete physical address
 
 **Combining:** attribute #12 (the logistics coordination center, the physical seat of the hub function) +
-the Full Extrapolation's Notable Figure Warrick Zhao (credited with steering the transition from AAD
-operations to genuine Tepenian civic institution, "hub function mattering more than any single national
+the Full Extrapolation's Notable Figure Warrick Zhao (credited with steering the exile community's
+earliest years into genuine Tepenian civic institution, "hub function mattering more than any single national
 identity").
 
 **2nd-order effect:** the coordination center is plausibly the direct institutional descendant of Zhao's own
