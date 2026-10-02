@@ -80,7 +80,7 @@ law or charter ever requires it.
 ###### The downstream consequence of the 2nd-order change — caused by *it*, not by the original conflict.
 
 That unwritten dual-input norm becomes so deeply ingrained that it structurally has no place for a third
-voice at all — and Belgium, the city's actual founding-operator nation, already diluted to Notable tier by
+voice at all — and Belgium, the city's actual founding nation, already diluted to Notable tier by
 both larger currents, finds its remaining civic influence quietly locked out of exactly the kind of paired
 decision-making that has become the city's default. It is the paired norm itself, not the original
 demographic dilution, that finishes marginalizing the founders' own voice in civic life.

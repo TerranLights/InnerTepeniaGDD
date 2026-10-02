@@ -97,7 +97,7 @@ files in that city's `Course_of_Events/` folder.
   here?)" — but none of the 10 existing stages touch inter-population research-prestige rivalry at all;
   they focus entirely on the Tower/Cradle uncredited-legacy pattern, ice-shelf philosophy vs. Halley, and
   recordkeeping. Also unused: Germany's flagged distinction as the *only* population that is
-  simultaneously founding-operator heritage, dual-anchored, and substantially populated — "closer to the
+  simultaneously dual-anchored and substantially populated — "closer to the
   city's own origin story than any other population's contribution," per the Catalog's own text.
 - [x] **Princess Elisabeth** — No consistency bugs found (rank citation "15th of ~32" checked against
   the census table and matches exactly). Spot-checked 1 of 10 Course_of_Events files (#2, "What's
@@ -519,7 +519,7 @@ individual ones).
   nation-mismatch sub-pattern):** two of Section 31's placeholders were still generic/unnamed despite
   `Janbogo_Full_Extrapolation.md` §III already proposing named figures — propagated to `Specs/Janbogo.md`
   and `Local_Cultures/Janbogo_Subnet/Janbogo.md`. One of the two proposed names, "Han Soo-jin Ferreira,"
-  paired a genuine Korean name (matches South Korea, the founding-operator nation) with a Portuguese
+  paired a genuine Korean name (matches South Korea, the founding nation) with a Portuguese
   surname that matches nothing in Janbogo's population — simplified to "Han Soo-jin" across 4 files. The
   other proposed name, "Wu Lian-Marchetti," checked out fine — Italy is genuinely Significant-tier here,
   unlike at Denison where the identical surname was wrong. **Enhancement opportunities found:** none
@@ -542,7 +542,7 @@ individual ones).
   `Zukelli_Full_Extrapolation.md` §VII already proposing two placeholders (Elisa Faranda, Councilman
   Renzo Adorni) — propagated to `Specs/Zukelli.md` and `Local_Cultures/Janbogo_Subnet/Zukelli.md`. Both
   names checked against the nation-mismatch pattern — clean, both genuinely Italian, matching Zukelli's
-  Significant-tier founding-operator nation. **Enhancement opportunities found:** none beyond what
+  Significant-tier founding nation. **Enhancement opportunities found:** none beyond what
   Full_Extrapolation already covers.
 
 **JANBOGO SUBNET COMPLETE — all 7 cities swept 2026-07-17.** Summary: 3 stale population-rank fixes

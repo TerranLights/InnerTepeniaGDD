@@ -2,7 +2,7 @@
 ### Featuring [Character A] and [Character B] (placeholder figures — unnamed)
 
 **Course of Events Suggestion #8**, translated from `Princess_Elisabeth_Course_of_Events_Suggestions.md`
-into `z-template_-_city_histories_conflict_variant.md`. Grounded in: Belgium's founding-operator status
+into `z-template_-_city_histories_conflict_variant.md`. Grounded in: Belgium's founding status
 diluted to Notable tier (`Mega_Init` "Who Lives Here, and Why") and the proposed "trivia, not reverence"
 naming outcome (`Full_Extrapolation` §V). Character fields are intentionally left blank — see each Conflict
 section's Design Notes for what kind of conflict, and what kind of character(s), would make the following

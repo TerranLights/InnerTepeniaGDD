@@ -306,7 +306,7 @@ preserve deliberate smallness (#8), the friendly, sibling-like Scott/Fort McMurd
 city that never wanted to be the capital" as its own settled identity (#10). New angles below are ones
 the existing 10 don't touch.
 
-1. **Division of industry → history.** The Mega_Init notes New Zealand, the founding-operator nation,
+1. **Division of industry → history.** The Mega_Init notes New Zealand, the founding nation,
    sits at just 3.52% — "one of the deepest founding-nation dilutions documented anywhere in Tepenia, even
    as the city's whole civic identity remains organized around the founding-era civic template." Chains
    #1 and #2 cover the founding choice to stay small generally, but neither addresses New Zealand's own
@@ -392,7 +392,7 @@ existing 10 don't touch.
    `Course_of_Events/Zukelli_11_The_Wave_That_Was_Still_Arriving.md`.
 
 5. **Other.** The City Snapshot lists both Australia and New Zealand as founding-wave populations at
-   Zukelli, alongside Italy's own founding-operator status — but none of the 10 chains touch either
+   Zukelli, alongside Italy's own founding status — but none of the 10 chains touch either
    population's own early-arriving role; chain #8 covers only Italy's civic template. A chain about
    Australia's or New Zealand's own quiet presence during Zukelli's founding period — distinct from
-   Italy's formal founding-operator role — would fill a population gap none of the existing chains touch.
+   Italy's formal founding role — would fill a population gap none of the existing chains touch.

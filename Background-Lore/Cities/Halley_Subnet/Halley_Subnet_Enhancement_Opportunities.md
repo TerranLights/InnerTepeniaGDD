@@ -325,7 +325,7 @@ seismic reading handled with total calm (#10). New angles below are ones the exi
    philosophy is built around, rather than a success story about the philosophy working as intended.
 
 5. **Other.** The Catalog's Synthesis Notes single out Germany as Neumayer's one population that is
-   simultaneously founding-operator heritage, dual-anchored, and substantially populated — "closer to the
+   simultaneously dual-anchored and substantially populated — "closer to the
    city's own origin story than any other population's contribution." None of the 10 chains dramatize how
    that founding role gets carried, or possibly contested, across generations as the city's population
    diversifies — e.g., a non-German engineer rising to genuine leadership within an institute culture whose
