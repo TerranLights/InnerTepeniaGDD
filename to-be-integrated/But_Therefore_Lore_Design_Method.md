@@ -39,10 +39,10 @@ population have to do next, and why."
   something — the environment, later immigration, a war, a diplomatic decision made on their behalf —
   pushes the story somewhere they didn't plan for. **This is, structurally, the single most important
   beat in almost every Tepenian city's own founding-to-present arc already on record**, because it's
-  the exact hinge the whole country-wide culture re-check was built to protect: a city's real-world
-  *founding station operator* (bucket #1, GPS-only) is never allowed to be the thing that explains
-  present-day culture on its own — there has to be a genuine "but" between founding and present, where
-  the *actual, current population* (bucket #2) took over as the causal engine. A city whose lore skips
+  the exact hinge the whole country-wide culture re-check was built to protect: the real station's operator
+  (bucket #1, GPS-only) never enters the chain at all — it isn't a founder, and it explains nothing. The
+  founders come from `Founding_Register.md`, and there has to be a genuine "but" between founding and present,
+  where the *actual, current population* (bucket #2) becomes the causal engine. A city whose lore skips
   that "but" is exactly the kind of city this whole project's bug-hunt kept finding problems in.
 
 ---
@@ -67,23 +67,21 @@ Applying this to Belgrano's already-written "Boneyard Times" history (see
 `Local_Cultures/Halley_Subnet/Belgrano.md`, `Worldspace/Factions/City_Origin_Factions_PostWar_Refugee.md`)
 to show the chain that's already implicitly there, made explicit:
 
-> Belgrano was founded as a working Argentine Air Force base — a population defined by operational
-> discipline, runway maintenance, function over comfort. **But** unlike its neighbors, Belgrano
-> survived the Long Night War intact — no single geographic reason protects it the way Sanay's
-> bedrock or Lazar's sheer scale do, which is itself still an open question (see `TODO.md`, "Belgrano's
-> Wartime Status"). **Therefore** the post-war community expected the disciplined, functioning
-> institution they'd always had to simply continue. **But** the institution itself didn't survive the
-> peace — infrastructure failure, population loss, and severed supply lines eroded it over decades,
-> even though the city itself never fell. **Therefore** the discipline persisted anyway, as habit and
-> inheritance rather than active institutional purpose — people who "still function like an airbase
-> crew, because that's the only civic template Belgrano ever had, but there's no chain of command left
-> to answer to." **But** the mechanic subculture that once served the Air Force's own vehicles is now
-> one of the only things in the Boneyard Times that's genuinely load-bearing again — keeping old
-> Rastras running is real, earned standing, independent of the founding discipline it descended from.
-> **Therefore** Belgrano's present-day culture is a population still living out an institutional
-> reflex whose institution is gone, with exactly one skill from that era that never stopped mattering.
+> Belgrano was founded by Argentine exiles at an airbase whose infrastructure and records had outlasted the
+> people who built it. **But** no one who had run it was there to teach them — the discipline the base was built
+> around survived only in its logs, manuals and maintenance records. **Therefore** the founders, and newcomers
+> drawn to the work, rebuilt that discipline themselves from the records, diligently, as a practice they chose.
+> **But** unlike its neighbors, Belgrano survived the Long Night War intact (still an open question — see
+> `TODO.md`, "Belgrano's Wartime Status"). **Therefore** the post-war community expected the institution it had
+> rebuilt to simply continue. **But** infrastructure failure, population loss and severed supply lines eroded it
+> over decades, even though the city never fell. **Therefore** the discipline persisted as habit — people who
+> "still function like an airbase crew… but there's no chain of command left to answer to." **But** the
+> mechanic subculture that kept the base's vehicles running is now one of the only things in the Boneyard Times
+> that's genuinely load-bearing again. **Therefore** Belgrano's present-day culture is a population still living
+> out a rediscovered reflex whose institution is gone, with exactly one skill from that era that never stopped
+> mattering.
 
-Notice this required no new invention — every fact is already on record. What the chain does is show
+Notice the chain adds nothing that isn't already on record or ruled (`DR-25`). What the chain does is show
 *why* those facts belong in that order, and why the culture reads as earned rather than assigned. A
 city whose write-up can't be re-told this way — where the facts don't actually depend on each other —
 is a city whose lore is still mostly And Then.
@@ -95,8 +93,9 @@ is a city whose lore is still mostly And Then.
 ### 5a. The Founding-to-Present Causal Spine (default city/place template)
 
 ```
-FOUNDING CIRCUMSTANCE  — real-world station/site inherited; who arrived and why (GPS-only fact,
-                          per bucket #1 — this is a starting condition, never the final explanation)
+FOUNDING CIRCUMSTANCE  — the site and what it left behind (infrastructure and records: DR-24, DR-25);
+                          who arrived, exactly as Founding_Register.md holds it, and why (geography
+                          and access: DR-19)
    │
    ▼ BUT
 COMPLICATION            — the environment, the site, or the population itself didn't match what
@@ -127,35 +126,29 @@ OPEN TENSION             — an honest, still-live question the culture hasn't r
 doesn't need to change, the turning point isn't load-bearing — it's decoration, and the city's culture
 is still quietly resting on the Founding-Era Response (or worse, on the founding nation) alone.
 
-### 5b. The Demographic Reversal (for the founding-nation-vs-current-population case specifically)
+### 5b. Founders vs. the present population
 
-A narrower, more targeted version of 5a for the single most common shape in this project's own city
-lore — a station's real-world operator is not the city's own current causal population:
+For the common case where a city's founders (per `Founding_Register.md`) are not its current causal population:
 
 ```
-REAL-WORLD OPERATOR     — the nation that physically built the station (bucket #1; a GPS fact,
-                          stated once, then set aside)
+FOUNDERS                — from the Register; never the real station's operator
    │
    ▼ BUT
-THE MECHANISM            — pick the one that's actually true for this city, don't default to the
-                          first one that comes to mind:
-                          — organic dilution (later immigration outpaces the founders, e.g. Sayowa)
-                          — diplomatic allocation (an Upper Earth institution assigned the site to
-                            a different nation entirely, e.g. Shirayuki/{{Korean city}}'s Jeju-do
-                            mechanism)
-                          — two-settlement coalescence (an adjacent, unrelated population absorbs
-                            an unoccupied site, e.g. Lazar)
-                          — total succession (the founding population leaves entirely; a new,
-                            unrelated population arrives later for its own reasons, e.g. Dome Fuji)
+THE MECHANISM            — whichever is actually true for this city:
+                          — organic dilution (later immigration outnumbers the founders; e.g. Australia
+                            at Mawson)
+                          — diplomatic allocation (an Upper Earth institution assigned the site; e.g.
+                            Shirayuki and Sinheung via the Jeju-do court)
+                          — succession (the founding population leaves; a different population arrives
+                            later for its own reasons)
    │
    ▼ THEREFORE
-CURRENT CAUSAL POPULATION — whichever population the mechanism above actually produced — this,
-                          and only this, is allowed to explain present-day culture
+CURRENT CAUSAL POPULATION — whichever population the mechanism produced — this, and only this, is
+                          allowed to explain present-day culture
 ```
 
-**Design check:** if the "mechanism" step is missing or unstated, the city is at risk of exactly the
-bug class this whole project's founding-nation sweep exists to catch. Naming the mechanism explicitly,
-in-lore, is what turns "GPS coincidence" into an actual causal chain a reader can follow.
+**Design check:** if the mechanism is missing or unstated, the city is at risk of the bug class this project's
+founding-nation sweep exists to catch. **The real station never appears in this chain.**
 
 ### 5c. The Lore Beat Worksheet
 
@@ -187,8 +180,8 @@ This method doesn't replace anything already established — it's the sequencing
 tools that already exist:
 
 - **The three-way GPS/population/temperament distinction** (`Founding_Nation_Bug_Investigation_Methodology.md`,
-  Section 1) — the "But" in Section 5b above *is* this distinction, written as a narrative hinge
-  instead of a checklist rule.
+  Section 1) — Section 5b keeps the real station out of the chain entirely and starts from the Register's
+  founders — this distinction, written as a narrative hinge instead of a checklist rule.
 - **The 7-point generative framework** (same doc, Section 2) — items 1-3 map onto 5a's Founding
   Circumstance → Complication → Response; items 4-6 map onto the Historical Turning Point and
   Present-Day Culture stages; item 7 (real-world echo, applied last, as flavor) belongs *after* the

@@ -6,7 +6,7 @@
 
 ## The Core Concept
 
-The previous session's "Sino-Russian" label is a good starting point but undersells the specificity of what's there. Zhongshan has one genuinely unique property in all of Tepenia: **China's cultural dominance is unbroken from day one.** It's the only city where the founding operator nation never got displaced by long-run demographics. That changes the character of the culture entirely — there's no founding tension in the usual sense. China didn't have to fight to stay on top; it was never displaced. But 130–140 years of Antarctic exile with a substantial Russian T2, Japanese and Korean T2, and an Eastern European notable tier transforms even an unbroken tradition into something new.
+The previous session's "Sino-Russian" label is a good starting point but undersells the specificity of what's there. Zhongshan has one genuinely unique property in all of Tepenia: **China's cultural dominance is unbroken from day one.** It's the only city where the founding nation never got displaced by long-run demographics. That changes the character of the culture entirely — there's no founding tension in the usual sense. China didn't have to fight to stay on top; it was never displaced. But 130–140 years of Antarctic exile with a substantial Russian T2, Japanese and Korean T2, and an Eastern European notable tier transforms even an unbroken tradition into something new.
 
 The concept I'd propose: **Zhongshan Austere** — a culture that never lost its Chinese identity but refined it under exile conditions into something quieter, more philosophical, and more deliberately melancholic than mainland Sinian culture ever was. Russia's T2 presence adds a specific flavor: Russian cultural tradition runs deep on endurance, collective suffering as formative, emotional intensity beneath a stoic surface, and a literary/artistic tradition that aestheticizes grief rather than suppressing it. When that meets a Chinese cultural foundation that values long-term thinking, craft precision, and collective harmony, you get something genuinely distinct.
 
@@ -17,7 +17,7 @@ Think: **ice-cold classicism with a tragic undertone.** A city that takes itself
 ## Why Ji-Eun Kim Would Stop Here
 
 - Korean is T2 (Significant), so Ji-Eun wouldn't be culturally isolated — there's a real Korean community here
-- Zhongshan would have a strong technical and scientific culture (the real Zhongshan Station was a major Chinese research hub), which directly aligns with her work in nanotech
+- Zhongshan would have a strong technical and scientific culture, which directly aligns with her work in nanotech
 - The city's aesthetic seriousness — the idea that craft is a form of philosophy — would resonate with someone who makes gold ocular implants, where the precision *is* the art
 - The Sino-Russian melancholy might appeal to someone in transit and processing something; Zhongshan feels like a city where you can be quiet and work and not be asked to perform happiness
 
@@ -71,7 +71,7 @@ Larsemann Hills has some of the best microclimates on the East Antarctic coast �
 - There might be a specific Zhongshan literary form or movement — something like Antarctic haiku crossed with Dostoevskian depth
 
 ### 11. Division of Industry
-- Heavy scientific/technical (the research heritage is continuous)
+- Heavy scientific/technical
 - Significant fishing/marine resource extraction (Prydz Bay)
 - Precision manufacturing — the craft ethic applies to industry too
 - Relatively modest commercial sector compared to a city like Janbogo

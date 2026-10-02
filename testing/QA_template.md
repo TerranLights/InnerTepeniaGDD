@@ -7,11 +7,15 @@
 need to be re-derived from scratch again.
 
 **The governing rule this all serves:** `TerranLights/TepenianUniverseTimeline`'s
-`Reference/No_National_Stereotypes.md` — a Tepenian city's real-world founding nation is a GPS
-coordinate only, never a cause. This document is the *investigation method* for finding violations
+`Reference/No_National_Stereotypes.md` — the nation that built or ran a Tepenian city's real-world
+station is a GPS coordinate only, never a cause. A city's **founders** are a different thing: they come from
+`Founding_Register.md` and stand on geography and access (`DR-19`). This document is the *investigation method* for finding violations
 of that rule that survived the 2026-07-12 sweep because they're demographic/factual bugs, not
 stereotype-language bugs — the sweep caught bad *prose* ("German rigor"); this process catches bad
 *facts underneath correct-sounding prose*.
+
+**Records, not personhood, cross the gap (`DR-25`):** a station hands down records, logs, journals, manifests and
+maps — never a tradition or a living institution.
 
 ---
 
@@ -56,8 +60,9 @@ its specific form using this sequence, in order:
 
 1. **Physical circumstance, not national temperament** — terrain, climate, wind, altitude, let
    physical facts force behavior/architecture/social patterns directly.
-2. **Inherited infrastructure as circumstance, not culture** — what kind of station the founders
-   walked into hands them tools and an institutional shape, a starting condition.
+2. **Inherited infrastructure and records as circumstance, not culture** — the station the founders
+   walked into hands them tools, buildings and records (`DR-24`, `DR-25`), a starting condition. Never an
+   institution or a tradition.
 3. **The problem this specific group had to solve together** — the load-bearing move. The causal
    agent is *this particular group, solving this particular problem*, never their nationality.
 4. **Function within the wider network** — what a city actually does (industrial hub, aviation
@@ -94,7 +99,8 @@ instead of its own current, established facts.** Concrete pattern, found three t
   *no supporting text anywhere in that city's own Founding Story section*. Found and removed twice
   (Australia in Sinheung, Russia in Shirayuki) — both were leftover labels
   whose own justification had quietly disappeared or never existed. **Always cross-check every
-  tier-table annotation against the actual Founding Story prose, not just against itself.**
+  tier-table annotation against the city's `Founding_Register.md` row — not against the Founding Story prose,
+  and not against itself.**
 - **Stale demographic assumptions in creative-content sections.** Cuisine/Music/Fashion/Arts
   sections written before a population re-derivation, describing the *pre-correction* demographic
   leader, never updated when Section 1's table changed. Found in three different forms: a flatly
@@ -116,27 +122,13 @@ instead of its own current, established facts.** Concrete pattern, found three t
   "diffuseness tied to demographic breadth" was checked and confirmed legitimate (bucket #2,
   genuinely flat population, framed as "real, not weaker") — don't assume every item on the
   checklist needs a rewrite; some just need verification and a clean bill of health.
-- **Methodology-level GPS violations — a real-world station-operator nationality leaking into the
-  population *math itself*, not just into prose.** Deeper than the other three: those live in a
-  city's own creative-content files; this one lives in the shared source-of-truth,
-  `Upper_Earth_Immigration_Composition.md`. Found at Sejong: China sat co-Primary (19.88%) in that
-  file's own Sejong section, justified as "both reach KGI via Pacific/Atlantic routes" — but China
-  appears nowhere else in the Palmer subnet, the document's own timezone/distance filter was never
-  actually applied to it, and the real cause was almost certainly King George Island's genuine
-  real-world Great Wall Station — exactly the operator-identity reasoning this document's own stated
-  rule excludes ("Cities are analyzed as if ownership is irrelevant"). **When investigating a city,
-  don't stop at that city's own files — check whether the master population-methodology file's
-  entry for it actually obeys its own stated exclusion rules, especially for any nation that (a)
-  appears in only one city and (b) traces to a real-world station on that city's exact site.**
-  Fixing this required a full recalculation (proportional rescaling of the remaining nations, factor
-  = 100/(100-removed%)), re-verified to sum to exactly 100%, propagated across every layer (Specs,
-  Local_Cultures, all Megasheet files including README.md, and the master composition file itself)
-  — the widest-blast-radius fix of any city on this checklist so far. Also surfaced a **downstream
-  discovery**, not itself part of this bug class: fixing one number in the master file can leave
-  *other, unrelated* prose in that same file stale (Sejong's removal exposed a separate, pre-existing
-  "Sejong is the largest Tepenian city" claim that already conflicted with the developer's own Lazar
-  population rebalancing work) — flag findings like this rather than silently fixing them; they're
-  a different, wider staleness problem than the one this checklist targets.
+- **Methodology-level GPS violations — a real station's operator leaking into the population math itself,
+  not just into prose.** These live in the shared source of truth, `Upper_Earth_Immigration_Composition.md`.
+  **When investigating a city, check whether the master population file's entry for it obeys its own
+  exclusion rule — especially for any nation that (a) appears in only one city and (b) traces to a real
+  station on that city's site.** A fix means recalculating (proportional rescaling, factor = 100/(100 −
+  removed %)), re-verifying the sum, and propagating to every layer. (Census changes wait until after the
+  ULM: `DR-23`.)
 - **A sibling of the operator-nationality violation: a historical *person's* nationality leaking into
   the population math, not a station operator's.** Found at Cape Adare, 2026-07-13:
   `Upper_Earth_Immigration_Composition.md` credited UK with an elevated Significant-tier share
@@ -152,18 +144,14 @@ instead of its own current, established facts.** Concrete pattern, found three t
 - **Sibling-city omission — a city's own "how many peers like me exist" count going stale.**
   Distinct from the other four: not a wrong fact about the city itself, but an incomplete count of
   *related* cities, missed because one of them was created/resolved after the count was originally
-  written. Found at Sejong ("Janbogo is Korea's only other demographic center" — actually two
-  others) and, wider, at Janbogo itself ("Tepenia's two Korean cities" — actually three, omitting
-  Sinheung), including inside a full proposed creative section
+  written. Found at Janbogo ("Tepenia's two Korean cities," omitting Sinheung), including inside a full proposed creative section
   (`Janbogo_Full_Extrapolation.md`'s "Sejong Relationship" section, built entirely on a two-city
   premise). **When a city's file claims to be one of N sibling cities sharing some trait (same
   founding nation, same real-world basis, same structural role), verify N against a project-wide
   grep for that trait — don't trust the count as given, especially if any sibling was resolved or
   significantly changed after the claiming file was last touched.** Also surfaced a related, useful
-  precedent: not every sibling relationship needs to resolve to the same shape — Janbogo/Sejong kept
-  a "limited ceremonial contact" relationship while Sinheung genuinely had
-  none (different founding mechanism, different subnet, no established connection) — a three-way
-  count doesn't require a uniform three-way relationship.
+  precedent: not every sibling relationship resolves to the same shape — a count of related cities doesn't
+  require a uniform relationship among them.
 
 **A cousin of the sibling-city omission pattern, found re-checking Shirayuki a third time
 2026-07-13: sibling-exclusivity overclaims.** Where omission bugs undercount siblings ("two Korean
@@ -230,12 +218,10 @@ structural/demographic mirrors of each other (Zukelli and Janbogo explicitly are
 of Janbogo's" per Zukelli's own Section 1), diff their parallel sections directly against each
 other, not just each one against its own internal population table. A claim can be individually
 plausible in isolation and still be an overclaim relative to the sibling city's more careful version
-of the same claim. Found this way at Zukelli: Local_Cultures' Language section claimed Italian was
-"the civic default" despite not even being Zukelli's largest Significant-tier nation, a stronger
-claim than Janbogo's own parallel section made for Korean under an equivalent (arguably stronger)
-demographic case. An internal-only check might have missed it, since "founding language persists
-somewhat" is true in both cities — the bug was specifically in *how strongly* one sibling's version
-claimed it.
+of the same claim. Found this way at Zukelli: its Language section claimed a language was "the civic
+default" more strongly than Janbogo's parallel section claimed for Korean, under a weaker demographic case.
+An internal-only check might have missed it — the bug was in *how strongly* one sibling's version claimed
+it.
 
 ---
 
@@ -244,9 +230,11 @@ claimed it.
 1. **Pull the city's own Population & Composition table** (`Specs/[City].md`) — confirm what
    tier/percentage each nation actually holds *today*, and read any notes on *how* that table was
    derived (organic tiering vs. hand-corrected — a corrected table is where stale sections hide).
-2. **Read the Founding Story** (`Local_Cultures/[Subnet]/[City].md` Section 2, and `Specs/[City].md`
-   Founding section) — confirm every nationality named in the tier table's annotations is actually
-   supported by this prose. Flag any tier annotation with no textual backing.
+2. **Check founders against `Founding_Register.md`.** Confirm every founding claim and every tier-table
+   founding annotation matches the city's Register row. Then read the Founding Story
+   (`Local_Cultures/[Subnet]/[City].md` Section 2, `Specs/[City].md` Founding) for anything that disagrees.
+   Run `Universal_Location_Methodology/Tools/check_founders_against_register.py --city "[City]"` and read
+   every hit.
 3. **Read the "deeper cultural apparatus"** — architecture, cuisine, fashion, music, arts/crafts,
    social contract, private life — checking every nationality mention against the *current* tier
    table (not memory, not vibes — the actual numbers). Flag anything citing a nation whose weight in
@@ -254,10 +242,10 @@ claimed it.
 4. **Grep is not enough — read the sections.** A keyword search for one exact phrase
    ("Chinese and Japanese") will miss a paraphrase of the same bug ("Chinese, Japanese, and...").
    Grep to prioritize where to look, but actually read every flagged section's surrounding prose.
-5. **Check every layer independently**, not just the Local_Cultures sheet: `Specs/[City].md`,
-   `Local_Cultures/[Subnet]/[City].md` (32 sections), `City_Megasheets/.../[City]_Mega_Init.md`,
-   `..._Full_Extrapolation.md`, `..._Cross_Reference_Synthesis.md`, and `README.md`. Each has
-   independently drifted in past cases — a fix in one does not propagate to the others.
+5. **Check every layer independently**: `Specs/[City].md` and `Local_Cultures/[Subnet]/[City].md` (32
+   sections). **Skip the megasheets** — they're rewritten after the ULM, CST and RWBEM and aren't edited before
+   then (developer, 2026-10-01). Each layer has independently drifted in past cases — a fix in one does not
+   propagate to the others.
    **Confirmed the hard way at Zhongshan, 2026-07-13: a resolution memory claiming "all layers
    checked" is not itself evidence the check happened.** The original Zhongshan fix session touched
    Local_Cultures and all three Megasheet files correctly, then apparently never actually re-read
@@ -276,23 +264,21 @@ claimed it.
    sibling-omission pattern) sat one line away, untouched. A "checked clean" note should specify *what
    was checked for*, and later passes should re-read content fresh rather than trust even a
    narrowly-true "no stale X found" claim to mean "no bugs of any kind."**
-6. **`README.md` is a stale, hand-concatenated snapshot** of the other three Megasheet files, not a
-   live include. Fixing the three component files does NOT fix README.md — it must be regenerated
-   (re-concatenated) afterward, or it will silently keep serving the old, wrong version.
+6. *(Megasheets aren't edited until their post-ULM/CST/RWBEM rewrite. When that rewrite happens: `README.md`
+   is a hand-concatenated snapshot of the component files and must be regenerated after any change to them.)*
 7. **Check adjacent/meta files before assuming a fix is new.** `Tri-Cities_Region.md` already had
    the correct Jeju-do mechanism, written a full week before this bug was independently
    rediscovered on Zhongshan — it just never propagated into the individual city files. Always
    check region/cluster-level overview docs for canon that's already correct but un-synced.
 8. **When founding-nation ≠ current-Primary-nation, check for precedent before inventing a
-   resolution.** Sayowa (Japan-founded, later demographically diluted by ordinary Chinese
-   immigration) is the established precedent pattern for organic dilution — different in kind from
-   Sinheung's pattern (founder and current-Primary are the same nation,
+   resolution.** Organic dilution (founders later outnumbered by ordinary immigration — e.g. Australia at
+   Mawson, now China-Primary) is different in kind from Sinheung's pattern (founder and current-Primary are the same nation,
    Korea, just not the nation that physically built the station). Don't assume every
    founder/current-nation mismatch needs the same fix; check which pattern actually applies.
 9. **Confirm the resolution direction with the user before rewriting**, especially when the fix
    requires real creative development (not just re-causation of already-good content) — ask whether
-   the city should read as singularly one-nation-dominant (Zhongshan/Korean-city pattern) or as
-   genuinely diffuse (Sayowa pattern) before generating 32 sections of new material.
+   the city should read as singularly one-nation-dominant (the Zhongshan pattern) or as
+   genuinely diffuse (the Mawson pattern) before generating 32 sections of new material.
 10. **Save the resolution to memory and mark the TODO.md checklist entry**, including which files
     were touched and which weren't yet verified — see the project's per-city resolution memories
     (`project_zhongshan_singularly_chinese_resolution`,
@@ -386,23 +372,10 @@ claimed it.
     pages below it in that same file's own Section 2. Three prior full re-reads of this file missed
     it. A One-liner reads as decorative framing, easy to skim past, but it's a factual claim like any
     other and needs the same verification as the body text it summarizes.
-18. **A fourth variant of the operator/founder conflation: GPS-proximity between two neighboring
-    real-world stations can itself smuggle in an unearned heritage claim, even in a "correction" meant
-    to fix the more familiar version of this bug.** Confirmed at Janbogo's fifth re-check pass
-    (2026-07-13): `Specs/Janbogo.md`'s tier table wrongly tagged Italy `(founding operator heritage)`
-    — Italy's real operator heritage (Mario Zucchelli Station) belongs to neighboring Zukelli, not
-    Janbogo (Jang Bogo Station, South Korea's operator), the third time this exact bleed-over had been
-    found across the corpus. The first fix attempt retagged Italy as "operator-*adjacent* — shared
-    Terra Nova Bay proximity to Zukelli," copying phrasing that had sat unchallenged in
-    `Local_Cultures/Janbogo_Subnet/Janbogo.md` since at least the city's first pass. **The developer
-    caught that this was itself still wrong**: Italy has no founding-population connection to Janbogo
-    at all, adjacent or otherwise — the two stations' ~8km proximity is GPS coincidence, not a
-    heritage channel of any kind, and the correct fix was to remove the tag entirely rather than
-    soften it. **When two cities are established neighbors (shared bay, shared subnet, visible from
-    each other), don't assume a nation's genuine founding role in one city licenses even a qualified,
-    "adjacent" heritage tag in the other — a real GPS relationship between two cities is not itself a
-    population-causal relationship, and proximity-flavored language can reintroduce the exact bug a
-    fix was meant to remove.** See [[project_janbogo_bug_check_resolved]].
+18. **Neighboring cities share GPS, not population.** When two cities are established neighbors
+    (shared bay, shared subnet, visible from each other), a nation's place in one city licenses no tag,
+    tier or qualified "adjacent" claim in the other. A GPS relationship between two cities is not a
+    population-causal relationship.
 19. **A session's own notes claiming "corrected directly into [file list]" are not themselves evidence
     every listed file actually received the correction — the sharpest version yet of the "all layers
     checked is not evidence" lesson.** Confirmed at Halley's first re-check pass (2026-07-13):
@@ -431,21 +404,10 @@ claimed it.
     that names which entities were wrongly implicated should trigger a check of every one of those
     entities' own files, not just the file the error was found in and the file most directly tied to
     the correct answer. See [[project_neumayer_bug_check]].
-21. **A founding-heritage tag can migrate onto the wrong nation via direct copy-paste between two
-    cities that happen to share an otherwise-identical tier-table nation list — a new sub-variant of
-    the operator/founder-conflation family, distinct from GPS-proximity smuggling (item 18).**
-    Confirmed at Sayowa's second re-check pass (2026-07-14, part of the Mawson subnet sweep):
-    `Specs/Sayowa.md` and `Local_Cultures/Mawson_Subnet/Sayowa.md` both read "Japan, Germany, France,
-    UK, South Korea, Indonesia, Australia *(founding wave)*" — with the tag attached to Australia,
-    even though both files' own prose is unambiguous that Japan (JARE/Syowa Station) is Sayowa's
-    actual founding nation, with zero established Australian founding connection anywhere. The likely
-    origin: `Specs/Mawson.md` carries the *exact same row text*, where the tag is genuinely correct
-    (Australia truly is Mawson's own founding nation) — strong evidence the row was copied between
-    the two cities' files at some point, with the tag riding along attached to the wrong nation in
-    the new context. **When two cities' tier tables share an identical or near-identical nation
-    list, check whether any founding-heritage tag riding along in that shared text actually belongs
-    in the destination city, rather than assuming a match in wording means the underlying fact was
-    independently verified for each city.** See [[project_sayowa_recheck_mawson_sweep]].
+21. **A founding tag in a copied tier-table row must be re-checked for the destination city.** When two
+    cities' tier tables share an identical or near-identical nation list (found at Sayowa and Mawson,
+    2026-07-14), don't assume each city's tag was independently verified — re-derive it from geography
+    (`DR-19`) and the city's `Founding_Register.md` row.
 22. **Shared/aggregate files should be checked once as a batch angle covering every entity at once,
     not re-read once per entity.** Discovered running Investigation Loop Round 2 (2026-07-14): a
     single full read of `City_Relationship_Database.md` (539 lines) or `Official_Population_Census.md`
@@ -505,8 +467,8 @@ claimed it.
 27. **A systematic, corpus-wide audit of one tag or annotation pattern — extracting every instance at
     once and reviewing them side by side — distinguishes genuine cross-entity canon from copy-paste
     bleed-over far more reliably than checking each instance in isolation.** Run as Investigation Loop
-    Round 2's own Phase 2 (2026-07-14): a single grep pulled every `(founding operator heritage)`,
-    `(founding wave)`, `(founding infrastructure heritage)`, and Jeju-do-allocation tag across all 38
+    Round 2's own Phase 2 (2026-07-14): a single grep pulled every
+    `(founding wave)` and Jeju-do-allocation tag across all 38
     Specs files into one list. Seeing them together made a pattern visible that checking any one city in
     isolation couldn't reveal: "Australia (founding wave)" and "New Zealand (founding wave)" recur
     across nearly every Ross Sea/Janbogo-subnet city regardless of that city's own real-world station
@@ -517,7 +479,9 @@ claimed it.
     tag pattern that recurs across many entities as a bleed-over bug, pull every instance into one view
     and check whether it traces to an already-established cross-entity canon (a shipping route, a
     regional immigration pattern) before assuming it's an error — but also don't skip pulling every
-    instance into one view in the first place, since that's the only way to tell the two apart.**
+    instance into one view in the first place, since that's the only way to tell the two apart.** **And for every tag, ask the prior question: does it
+    stand on geography and access and match the city's `Founding_Register.md` row — or does it trace to the
+    real station? A tag that traces to the station is removed, however consistent it looks across cities.**
 
 ---
 
@@ -575,8 +539,9 @@ at all by definition.
 
 When a city's current filename/placeholder name (e.g. "Sinheung") was never actually chosen by the
 population that lives there — verify this against the Founding Story before assuming it — refer to
-the city as **`{{currently-unnamed [Nationality] city}}`** in conversation and in new prose, per
-`feedback_currently_unnamed_korean_city_label` memory. Keep using the underlying filename for file
+the city by a bracketed placeholder of its current name (e.g. `{{ Abowasa }}`) in conversation and in new
+prose. Never label a city by a nationality unless its `Founding_Register.md` row rules that nation its
+founder. Keep using the underlying filename for file
 paths and cross-references; only the *prose label* changes. This convention already existed in
 `Tri-Cities_Region.md` and `Inspirational-Influences.md` (as `{{ex-Sinheung}}`) before this session
 independently reinvented it — check for an existing bracket-placeholder convention before assuming

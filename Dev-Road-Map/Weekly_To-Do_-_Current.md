@@ -39,7 +39,7 @@ subnet regional identity, and more):** **`Universal_Location_Methodology/WHY_CIT
 1. **Finish the `§C.1` split extracts.** Halley + Janbogo built. **Mawson/Byrd/Amundsen + Mirny need one more
    reader each; Palmer needs re-mapping.** → `00_RUNBOOK.md` §C.1
 2. **Run 14 — Casey, cold.** Prep + review ready; **a fresh session must run it.**
-   → `Test_Runs/Casey_ColdRun_Prep_2026-09-02.md`
+   → `Archive/ULM_Records/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md`
 3. **Re-run Shirayuki, cold.** Its review is **`CONFIRMED` + pinned** — setup is already paid for.
    → `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`
 4. **Work Casey's escalation ladder** (86 split lines) to get its review to `CONFIRMED`.
@@ -556,8 +556,8 @@ at the developer's home. Recorded here as a resume point in case of another outa
      enormously, and the core must degrade gracefully when a given input is simply absent:
      - *Concordia districts:* the **zodiac substrate** (`Districts/Zodiac_Personality_Substrate/`), the
        Enneagram group assignment, `District_Refugee_Diaspora_Composition.md`, `Historical_Pressures.md`
-     - *The 35 outer cities:* real-world station heritage, `District-Inspirational-Influences.md`-style picks,
-       BAS READER climate data, `Official_Population_Census.md`, founding-nation tiers
+     - *The 35 outer cities:* the GPS site and inherited infrastructure (`DR-24`), `District-Inspirational-Influences.md`-style
+       picks, BAS READER climate data, `Official_Population_Census.md`, founders from `Founding_Register.md`
      - *Orbital settlements:* closed-environment constraints, population origin, minimal-inter-location-travel
        — and **no real-world analog and no zodiac**
      - *States/countries:* not yet defined
@@ -687,8 +687,8 @@ in this file, including the rest of "High Priority" below, until done or explici
   material of their own for the first time).
 
 - [ ] **The Long Night War's inciting incident — three identities still TBD**
-  Core premise established 2026-07-04 (a diplomat assaulted a gynoid, killed in self-defense — she's Akina);
-  the three specific identities involved are not yet chosen. See `TODO.md`'s "Decision Required" section.
+  Core premise established 2026-07-04 (a diplomat assaulted a gynoid, killed in self-defense — she's `TBN [SE-031]`,
+  working title "Akina," not developer-confirmed); the three specific identities involved are not yet chosen. See `TODO.md`'s "Decision Required" section.
 
 - [x] **Capricorn's core injustice — RESOLVED 2026-07-29 as "The Narrow Door." This entry was stale; corrected 2026-08-29.**
   This tracker said "4 contenders shortlisted, none chosen" for a month after the decision was actually made.

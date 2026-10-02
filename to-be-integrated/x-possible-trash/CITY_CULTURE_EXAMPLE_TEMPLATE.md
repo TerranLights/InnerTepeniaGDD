@@ -1,6 +1,11 @@
 # [City Name] — Cultural Spec Sheet
 ### *Example template — Zhongshan used as worked example throughout*
 
+> ⛔ **Zhongshan-specific. Not a pattern to copy.** Zhongshan's founding nation continuing as the long-run Primary is a
+> developer-confirmed **exception** (`DR-21`). For any other city, founders come only from
+> `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md`, and never
+> from the real station (`DR-19`). Use this file for its **structure and depth**, not its founding content.
+
 ---
 
 **Subnet:** Mirny ("Australian")
@@ -20,11 +25,11 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China *(founding operator heritage — continuous from founding through present)* |
+| Primary | China *(continuous from founding through present)* |
 | Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
 | Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
 
-*Zhongshan is the only Tepenian city where the founding operator nation is also the long-run primary. Chinese cultural identity is unbroken from day one — never displaced by incoming demographics. Russia's T2 presence reflects the geographic proximity of the former Russian Progress and Mirny stations; both communities arrived early and settled deeply.*
+*Zhongshan is the only Tepenian city where the founding nation is also the long-run primary. Chinese cultural identity is unbroken from day one — never displaced by incoming demographics. Russia's T2 community arrived early and settled deeply.*
 
 ---
 
@@ -34,7 +39,7 @@ The Sinian Federation was among the Upper Earth nations that persecuted robots a
 
 The name *Zhongshan* — the courtesy name of Sun Yat-sen, the founding figure of modern China revered across historical political lines — was chosen deliberately. It signals cultural continuity and political independence in the same gesture: *we kept the name; we did not keep you.*
 
-Russian settlers arrived in significant numbers early in the founding period, drawn by the geographic proximity of the former Russian Progress Station to the Larsemann Hills site. The two communities coexisted without friction from the beginning — not through formal negotiation, but through a shared temperament. Both groups were quiet. Both valued privacy. Both had cultural traditions built around slowness, craft, and endurance. The synthesis was not designed. It simply happened.
+Russian settlers arrived in significant numbers early in the founding period. The two communities coexisted without friction from the beginning — not through formal negotiation, but through a shared temperament. Both groups were quiet. Both valued privacy. Both had cultural traditions built around slowness, craft, and endurance. The synthesis was not designed. It simply happened.
 
 Australian expeditioners formed the founding wave of non-Sino-Russian settlers. Subsequent immigration brought Japanese, Korean, German, British, and Eastern European communities in meaningful numbers. All of them integrated into a cultural framework that was already well-established by the time they arrived.
 
@@ -188,7 +193,7 @@ The counterculture's relationship to the musical mainstream is direct and delibe
 
 ## 15. Division of Industry
 
-- Technical / scientific: ~35% — the research heritage is continuous from the founding station; Zhongshan produces engineers and researchers who end up across Tepenia
+- Technical / scientific: ~35% — Zhongshan produces engineers and researchers who end up across Tepenia
 - Industrial / manufacturing: ~25% — precision manufacturing, with the craft ethic applying to industrial output as much as to art
 - Marine resource extraction: ~15% — Prydz Bay fishing and related industries
 - Commercial: ~15% — more modest than a city like Janbogo; Zhongshan is not a trade hub

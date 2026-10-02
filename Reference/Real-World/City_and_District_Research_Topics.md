@@ -172,7 +172,8 @@ secondary thread if more material surfaces:
 
 **Belgrano** (airbase survived the war, declined after — "Boneyard Times")
 - Post-military-base economic decline — company-town literature on bases outliving their purpose
-- Institutional discipline that outlasts the institution itself
+- Rediscovered discipline — newcomers reviving an institution's practices from its surviving records, logs and
+  manuals (a discipline can't be handed across the gap, but it can be rediscovered: developer, 2026-10-01)
 - Aircraft boneyards — real aviation industry practice, a literal existing parallel
 
 **Lazar** (grown together, no single founding story, largest city)
@@ -232,8 +233,9 @@ secondary thread if more material surfaces:
 - Subterranean industrial architecture
 
 **Sejong** (dense multinational island settlement)
-- High-density multinational enclave planning — real King George Island hosts several nations' stations
-  clustered closely, a direct existing parallel
+- Translation-driven settlement growth — inherited records in one language and newcomers speaking another draw
+  translators, who draw their own networks in turn (developer, 2026-10-01: New Amsterdam → New York as a much
+  larger precedent)
 - Cohabitation sociology in crowded, multi-national settings
 
 **Signy** (most isolated city, two islands/bridge, robots starving from isolation)
@@ -277,7 +279,7 @@ secondary thread if more material surfaces:
 - Subglacial lake science — the real Lake Vostok is one of the most-studied subglacial lakes on Earth,
   extremely rich source material (extremophile biology, drilling-contamination protocols)
 - Extremophile biology — life in extreme cold, sealed ecosystems
-- Sociology of inheriting someone else's institutional legend
+- Communities built around inherited records — living with logs, journals and maps left by people they never met
 
 **Zhongshan** (stable founding-nation identity between two very different neighbors)
 - Buffer-state / small-power-between-two-larger-neighbors geopolitics
@@ -300,8 +302,8 @@ secondary thread if more material surfaces:
   (Mawson's original expedition site); directly worth researching
 - Fused megastructure architecture for extreme climates
 
-**Dumont d'Urville** (francophone city, penguin coexistence)
-- Real Dumont d'Urville station history — French Antarctic policy, direct existing parallel
+**Dumont d'Urville** (penguin coexistence)
+- Small-island siting and sea-ice access on the Adélie coast — the real Petrel Island site's physical conditions
 - Human-wildlife coexistence urban planning — the real station routes infrastructure around penguin
   colonies already
 
@@ -321,9 +323,8 @@ secondary thread if more material surfaces:
 
 ### Mawson Subnet
 
-**Mawson** (oldest continuously-occupied site, population became something else)
-- Real Mawson Station history — the actual oldest continuously operated station south of the Antarctic
-  Circle
+**Mawson** (population became something else)
+- The real site's physical conditions at Mawson's coordinates — terrain, wind, sea-ice access
 - Founder-population demographic drift and replacement sociology
 
 **Dome Fuji** (ice-core research site, second-holiest robot-religion site)
@@ -333,7 +334,7 @@ secondary thread if more material surfaces:
 
 **Sayowa** ("where three roads meet," significant for transit not population)
 - Crossroads/waystation town sociology
-- Shōwa-era Japanese naming and historical memory
+- Island-junction logistics — East Ongul Island's sea-ice and overland access to the mainland
 
 ### Byrd Subnet
 
@@ -343,7 +344,7 @@ secondary thread if more material surfaces:
 - Heavy industrial robotics fabrication from raw materials
 
 ### Amundsen-Scott Station
-- Real Amundsen-Scott South Pole Station history and Antarctic Treaty neutrality
+- Antarctic Treaty neutrality as a governance model — the treaty's own provisions, not any station's operating history
 - Space elevator / space-fountain engineering theory — directly ties to the existing Amundsen Tower
   project notes
 - Network topology and articulation points — Amundsen Station being the single node connecting all six
