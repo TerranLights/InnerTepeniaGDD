@@ -4,7 +4,7 @@
 
 **Asks:** *Who is actually here, in what proportion, from where — and by what route did they come to be here?*
 📌 **Every bare filename cited below — this file's `## Canon opened` table included — resolves via the
-MASTER ADDRESS KEY: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/00.0_Pre-Trip_Inspection.md` §K.** Four names
+MASTER ADDRESS KEY: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Sonnet/00.0_Pre-Trip_Inspection.md` §K.** Four names
 there are ambiguous by design (`Zhongshan.md`, `README.md`, `06_Differentiation.md`,
 `09.6_Input_Audit.md`) — §K's own table resolves each per instance; never resolve them from the bare
 name alone. *Added 2026-09-10, per the developer's instruction to point every guide file at its source
@@ -98,7 +98,7 @@ opened** — see `00.1_Step_MINUS-1_Input_Contract.md`'s retroactive audit; dock
 
 ## ✅ And the one comparative claim, reduced to its surviving half
 
-**Census `§A` L410 says this city is *"the only Tepenian city where the founding operator nation is also the
+**Census `§A` L410 says this city is *"the only Tepenian city where"* its founding nation *"is also the
 long-run primary."*** ⛔ **The `"only"` is a ranking against 37 other cities and is DROPPED.**
 
 > ⭐ **What survives the one-sentence test, and is kept:** ***the founding-population origin and the long-run

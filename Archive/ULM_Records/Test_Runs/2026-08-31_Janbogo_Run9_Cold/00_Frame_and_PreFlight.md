@@ -108,8 +108,8 @@ types (memory, `Specs/`, `_Physical_Infrastructure_Attributes.md`). Recorded as 
 
 **Provisional assumptions about the parent (Tepenian Federation, unwritten):**
 1. Currency, calendar, and language-family policy are Federation-determined, per standing project canon
-   (energy-backed currency → regional currency + trade standard, per `[[project_national_currency_history]]`
-   memory) — Janbogo does not originate any of these.
+   (local currency → national currency → regional currency + trade standard, per `[[project_national_currency_history]]`
+   memory — backing unsettled at every stage, not "energy-backed") — Janbogo does not originate any of these.
 2. The Federation's own relationship to a coastal supply/port city of Janbogo's kind is assumed ordinary
    (no special provisional status), since no canon suggests otherwise for the neutral pre-war frame.
 3. Per `01` §5.2 rule 3, no finding in this pass is built as depending on an unwritten-parent assumption
