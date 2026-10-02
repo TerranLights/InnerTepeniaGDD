@@ -110,7 +110,10 @@ Step 3 · `Cities/Research_Logs/README.md`.*
   2026-09-06.)* **(1) STATION-BUILDER ≠ POPULATION ORIGIN.** A site's real-world builder is a GPS coordinate
   only; **a community's own origin is canon and IS admissible once composition is established.** *The law
   exists so a place is characterized by **who lives there**, not by **whose site it occupies** — and refusing
-  all ethnic material is a misreading that produces placeless locations.* **(2) COMPOSITION NAMES THE STOCK;
+  all ethnic material is a misreading that produces placeless locations.* ⛔ **Founders come only from
+  `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md` and
+  stand on geography and access (`DR-19`). A spec's `Founding population:` line naming the station's operator is
+  not evidence of founders.** *(Added 2026-10-01 at the developer's direction.)* **(2) COMPOSITION NAMES THE STOCK;
   TIME AND PLACE PRODUCE THE CULTURE.** Apply the divergence operator — *time · separation · local
   environmental setting · local struggles and hardships · local goals · local sensibilities and habits.*
   Neither refuse ethnic material nor transplant a source culture intact. **(3) THE ACTS:** *Act 1* (2564 →
