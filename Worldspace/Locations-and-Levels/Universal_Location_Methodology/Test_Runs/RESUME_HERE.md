@@ -185,8 +185,8 @@
 > thing to pick up.
 
 **✅ RUN 11 COMPLETE — 2026-08-31. The Sanay Maritime Shipping Port, cold, all eleven phases / sixteen gates /
-base Zodiac Lens family (all twelve signs) / Review Panel.** Full writeup: `Test_Runs/2026-08-31_
-SanayMaritimeShippingPort_Run11_Cold/` (15 files) plus a dedicated research log. **Chosen per direct developer
+base Zodiac Lens family (all twelve signs) / Review Panel.** Full writeup: `Archive/ULM_Records/Test_Runs/
+2026-08-31_SanayMaritimeShippingPort_Run11_Cold/` (15 files) plus a dedicated research log. **Chosen per direct developer
 instruction, not the default** — `RESUME_HERE.md`'s own standing guidance names the six still-untested Types
 as the default pick absent a specific instruction otherwise; the developer gave one, naming the Sanay
 Shipyard specifically and scoping it to "exactly the maritime shipping port." **This is a second
@@ -290,7 +290,7 @@ standing priority for the next session, unchanged by this run.
 > own follow-up direction, an exact line-ranged reading sequence** — 22 numbered steps, each either a
 > verified admissible `File :: Lines A–B` range or an explicit "do not read past line X" boundary, including
 > one row-level cut (a single inadmissible line sitting inside an otherwise-clean landmark list). Filed as
-> **`Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`** — read that file first, and follow its numbered
+> **`Archive/ULM_Records/Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`** — read that file first, and follow its numbered
 > sequence literally (using `Read`'s own `offset`/`limit`, not a full-file read), if picking up the Sanay
 > Shipyard as a future subject. **Recorded as M-81**: the first case of a *sub-location's own parent* holding
 > prior conclusions about it, structurally different from every earlier contamination event in this series.
@@ -332,7 +332,7 @@ previous work, which is the entire point.**
 > ## ⚠ The axis has changed. Every prior run varied INPUT RICHNESS on the same Type (Settlement, plus one
 > Corridor). This phase varies TYPE itself.
 >
-> **Eight locations have been run under this methodology so far — Zhongshan (×2), Sinheung, Cape Adare, and
+> **Seven locations have been run under this methodology so far — Zhongshan (×2), Sinheung, Cape Adare, and
 > Janbogo are all Settlement type; Highway 37 is the only Corridor; Mountain Pass Airport (Run 10) and the
 > Sanay Maritime Shipping Port (Run 11) are both Installation.** Of `01_Frame_Typology_and_Inheritance.md`
 > §1.1's nine primary types
@@ -353,13 +353,13 @@ that passage's content — no fix exists, only honest labeling of which findings
 12-parallel-subagent pattern was run for the first time and worked as designed** — producing ~220 findings
 and a genuine cross-sign convergence (six of twelve independent signs, zero shared visibility, converging on
 the same civic institution) that no single technique could have reached. **Gate 6, opened last, passed in
-the strongest form this methodology has yet produced**: five genuinely new findings absent from the
+the strongest form this methodology has yet produced**: four genuinely new findings absent from the
 existing 32-section culture sheet, one honestly-recorded partial divergence, zero kills — comparable to
 Zhongshan Run 3's own benchmark. **The `03` §0.4 ordering-collision instrumentation fix (M-61) tested clean
 across all four docket rows, on the richest location yet run** — this specific defect class is now
 considered well-covered; a routine collision log is still good practice on any future run, but it is no
 longer this methodology's own special open question. **Full writeup:**
-`Test_Runs/2026-08-31_Janbogo_Run9_Cold/` (30 files).
+`Archive/ULM_Records/Test_Runs/2026-08-31_Janbogo_Run9_Cold/` (30 files).
 
 **What changed with Run 7, briefly:** Cape Adare (highest TBD-density of all 35 outer cities, zero Hwy 37
 connection) was run complete — eleven phases, sixteen gates, Review Panel; the Zodiac Lens deliberately
@@ -368,14 +368,14 @@ itself** — a file-type every prior run had trusted by default — and fixed in
 `05_The_Input_Contract.md` §6.1d before trusting any `Specs/` file's "Character," "Culture," or "Significance"
 section on a future run.** The neutral-frame rule (`01` §4.1) passed its hardest test yet on this run — Cape
 Adare's own canon foregrounds its post-war Destroyed status unusually prominently, and the pass held the
-living, pre-war frame throughout regardless. **Full writeup:** `Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` (15
+living, pre-war frame throughout regardless. **Full writeup:** `Archive/ULM_Records/Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` (15
 files), plus a concrete follow-up plan for closing that run's own eleven REQUESTED items in its own
 `14_Step9_Record_and_Step10_Readiness.md`.
 
 **What changed with Run 6, briefly:** Highway 37 was the first (and so far only) Corridor-type location run
 under this methodology, and the first genuinely thin one — no completed culture pass existed for it before
 the run, unlike Zhongshan and Sinheung, which both turned out to be best-case configurations despite being
-chosen as "thin" candidates. **Full writeup:** `Test_Runs/2026-08-31_Highway37_Run6_Cold/` (17 files). **One
+chosen as "thin" candidates. **Full writeup:** `Archive/ULM_Records/Test_Runs/2026-08-31_Highway37_Run6_Cold/` (17 files). **One
 methodology change came out of it, binding on every run from here on**: `01_Frame_Typology_and_Inheritance.md`
 §4.1, "THE DEFAULT FRAME IS NEUTRAL" — absent a specific reason otherwise, a pass defaults to the Second
 Interwar Period baseline (before the Long Night War, before Amundsen Tower's destruction), not to the
@@ -495,9 +495,9 @@ the location, fresh, by rule rather than by recall — see §3 below.
 
 **Not developer-locked to a single subject this time.** The constraint is on the axis, not the specific
 location: **choose a location whose primary Type has never been run under this methodology.** Per
-`01_Frame_Typology_and_Inheritance.md` §1.1, nine primary types exist. Two are covered — **Settlement**
-(five runs) and **Corridor** (one run, Highway 37). **Seven remain untested. Pick one Type, then pick the
-strongest available subject for it.**
+`01_Frame_Typology_and_Inheritance.md` §1.1, nine primary types exist. Three are covered — **Settlement**
+(five runs), **Corridor** (one run, Highway 37) and **Installation** (two runs, Runs 10 and 11). **Six remain
+untested. Pick one Type, then pick the strongest available subject for it.**
 
 | Type | Tested? | Candidate subject(s), from this methodology's own worked examples (`01` §1.1) or general canon | Notes |
 |---|---|---|---|
@@ -521,14 +521,13 @@ strongest available subject for it.**
    a silent bias the rest of the phase cannot correct for.
 4. **State the typicality declaration for the choice itself**, per `00_RUNBOOK.md`: is the chosen location
    typical or exceptional for its Type, and if exceptional, which findings will depend on that.
-5. **Before counting any location's input as admissible, check for a `Course_of_Events/`-style demoted
-   folder** (`05` §6.3) — the Janbogo run confirmed this pattern is project-wide, not Janbogo-specific, and
-   every city (and plausibly every location of any type) may carry unratified narrative material that passes
-   circularity but fails ratification. Run the §7 pre-flight ratification block on every input, not just the
-   ones that look like vignette folders.
+5. **Before counting any location's input as admissible, exclude every `Course_of_Events/` folder and
+   Background-Lore vignette** (`05` §6.3) — every city carries one, and none is canon or ever an input. Run
+   the §7 pre-flight ratification block on every other input too, not just the ones that look like vignette
+   folders.
 
 **One Type per run, one run per fresh session, same standing pacing precedent as every prior run:** *"if it
-takes a month to get it right, then we spend a month testing and refining it."* Do not treat "seven Types
+takes a month to get it right, then we spend a month testing and refining it."* Do not treat "six Types
 remain" as a reason to rush any one of them.
 
 ---
@@ -591,7 +590,8 @@ about the chosen location:**
 
 Per `05` §6.1's operational split:
 
-- **ADMISSIBLE:** physical/environmental facts, founding mechanism/date/circumstance, function/industry,
+- **ADMISSIBLE:** physical/environmental facts, founding mechanism/date/circumstance (founders from
+  `Founding_Register.md` only), function/industry,
   network position/routes, census/composition/population-change, dated events, a research log (if one exists
   for this location — it holds attributes, never conclusions, per `05` §6.1).
 - **INADMISSIBLE:** any prior culture-pass conclusion about the location — character, temperament, capability
@@ -672,7 +672,7 @@ or a signature phrase — stop reading it, and add a banner before you continue.
    `../Disciplines/Cultural_Synthesis_Techniques.md` · `../Disciplines/Real-World_Basis_Extrapolation_Method.md`.
 5. **Run the `05` §7 pre-flight**, including Configuration, provenance, and the typicality declaration.
 6. **Read canon in the Step 0.4 triage order** — specs → symbols → census *(and change across both, if
-   multiple snapshots exist)* → founding → physical facts → **culture files never**, per §3b above.
+   multiple snapshots exist)* → founding *(founders from `Founding_Register.md` only)* → physical facts → **culture files never**, per §3b above.
 7. **Write Phases 0–10.** Record nulls **with reasons**, distinguishing *covered in substance, absent in form*
    from *absent and unexplained*. **Where a phase is partially written and partially deferred, name which
    specific claims are grounded and which are not — a phase-level null flag does not cover every individual
@@ -727,11 +727,12 @@ or a signature phrase — stop reading it, and add a banner before you continue.
    registered systems (`Planetary_Symbols.md`, `Robot_Elementals.md`) actively diverge from familiar
    associations in places, and reading from the name instead of the file has inverted a capability reading
    before.
-4. **Score every quantitative claim as a z-score against the full comparison set, never against a local
-   group.** A gap that looks striking against two or three neighbors is frequently unremarkable against the
-   whole set. *(A human-vs-robot retention gap has been independently found and killed on the same basis
-   twice already, on a different location than whichever one this run is about — expect the same discipline
-   to matter here, not necessarily the same specific gap.)*
+4. **Never call a quantitative claim striking by setting it against two or three neighbors.** In a city pass,
+   state the location's own figures flatly, against its own earlier states and real-world comparables; the
+   z-score against the full comparison set belongs to the terminal differentiation check, never to an
+   in-run pass (the law of one location, `00_RUNBOOK.md`). *(A human-vs-robot retention gap has been
+   independently found and killed twice already, on a different location than whichever one this run is
+   about — expect the same discipline to matter here, not necessarily the same specific gap.)*
 5. **The universe repo is OUTSIDE this repo** —
    `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/`. ⚠ **And "repo-wide" does
    not mean canon-wide**: a search that never leaves this repo is evidence about one directory, not about
@@ -786,8 +787,9 @@ There is no deadline. Go back and make it true.**
 > has not answered the question this phase exists to ask. Also still expected of every run, unchanged:
 >
 > - **The ordering-collision log** (§2b) — now standing practice, not a special watch, but still expected.
-> - **The §7 ratification block filled in** (`05` §6.3), listing what was demoted and which findings came out
->   REQUESTED because they rested only on unratified material.
+> - **The §7 ratification block filled in** (`05` §6.3), listing what was excluded or demoted *(Course of
+>   Events files and Background-Lore vignettes are excluded outright: not canon, never an input)* and which
+>   findings came out REQUESTED because they rested only on unratified material.
 > - **The typicality declaration** (§2) — stated plainly, with which findings depend on it.
 
 > # ⛔⛔⛔ STEP −3 ADDED 2026-09-03 — **THE MEMORY DIRECTORY IS BLACKED OUT FOR EVERY COLD RUN**

@@ -93,8 +93,8 @@ people and settings would exist here, besides what is already listed?"*
 ⛔ **BEFORE STEP B — the binding GPS law**, at
 `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/No_National_Stereotypes.md`
 *(sibling repo; the old relative citation was dead and was fixed 2026-09-05).*
-⛔ **STEP D — the Megasheet tree is WITHHELD.** *Read `Specs/` · `Local_Cultures/` · `City_Vision_Notes/` ·
-the census · `Extent_and_Density_Per_City.md` instead.*
+⛔ **STEP D — the Megasheet tree is WITHHELD.** *Read `Specs/` · `Local_Cultures/` · the census ·
+`Extent_and_Density_Per_City.md` instead.* *(`City_Vision_Notes/` is struck corpus-wide by developer ruling.)*
 ⭐ **STEP F is NOT OPTIONAL** — *one `[City]_Research_Log.md`, appended to and never rewritten. **Exact search
 strings, sources accepted AND rejected, and threads noticed but not chased.***
 

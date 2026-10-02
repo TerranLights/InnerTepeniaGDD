@@ -20,14 +20,14 @@ nothing, or a shortened generic-language pointer).
 
 ### Status note (top of file)
 
-Removed the specific Run 3 result summary (five gates fired, ten findings, the 2564-exiles-joined-not-founded
-finding, etc.) from the runbook's own status block. **Replaced with a generic pointer** to Run 3/Run 4 as
+Removed the specific Run 3 result summary (five gates fired, ten findings, etc.) from the runbook's own status
+block. **Replaced with a generic pointer** to Run 3/Run 4 as
 completed test instances, without restating their content.
 
 **Original content**, preserved here:
 > One location — Zhongshan — has now been taken through the complete instrument: all eleven phases, all
 > sixteen gates, and the Review Panel, in a cold session with prior conclusions quarantined (Run 3,
-> `Test_Runs/2026-08-30_Zhongshan_Run3_Cold/`). Five gates fired; two produced findings the pass would not
+> `Archive/ULM_Records/Test_Runs/2026-08-30_Zhongshan_Run3_Cold/`). Five gates fired; two produced findings the pass would not
 > otherwise contain; one gate proved structurally unrunnable in a cold pass; and the run passed `05` §6.1's
 > falsifiable test, producing ten findings absent from the location's existing material.
 

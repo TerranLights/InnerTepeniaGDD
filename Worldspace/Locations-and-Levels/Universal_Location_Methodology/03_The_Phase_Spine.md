@@ -143,8 +143,9 @@ Stated once here rather than repeated eleven times.
 3. **Name the axis, in bold, before writing the content.** *(`00_RUNBOOK.md` Step 4.)* A category is not
    differentiated by having different content; **it is differentiated by answering a different question.** If
    you cannot name the axis in three or four words, the category has not been differentiated — it has only been
-   described differently. Check the axis against the differentiation instrument (`04`) before writing.
-4. **A null is a result.** *(`Cultural_Synthesis_Techniques.md`, "Using this file" §5.)* A category that
+   described differently. In a ULM / CST / RWBEM pass, add the axis to this location's own column of the
+   differentiation instrument (`04` Part III, write-only in-run) and never read another location's row.
+4. **A null is a result.** A category that
    produces nothing distinctive for this location is allowed to produce nothing. **Record the null and say
    why.** Expect several per location; a location where every phase fires richly is a location someone has
    over-written. **But distinguish two nulls:** *covered in substance, absent in the expected form* is a finding;
@@ -158,7 +159,7 @@ Stated once here rather than repeated eleven times.
    > stand in for a claim-by-claim account.
 5. **General-population discipline** (`00b`), **with the Band-1 inversion** from `01` §2.3.
 6. **Shadow proportion** (`00d`): the surface is true, the shadow is also true, and the shadow is a byproduct.
-7. **The player-facing test** (`Cultural_Synthesis_Techniques.md` §0b): push every finding until it has a
+7. **The player-facing test:** push every finding until it has a
    physical or behavioral expression — **seen, heard, entered, handled, spoken, done, or hooked.** A finding
    that can only be read about is weak. **And the violation is usually the gameplay.**
 8. **Run the four-question canon check** (`00_RUNBOOK.md` §E), against the targets in §0.3 below.
@@ -320,6 +321,7 @@ before the writing starts.
 # PHASE 1 — CONSTRAINT & CAPABILITY *(the spine)*
 
 **Asks:** *What can this place do without trying, what can it not do at all, what must it keep paying, and what
+does it permit but punish?*
 
 > ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
 > *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
@@ -332,7 +334,7 @@ before the writing starts.
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Energy_Grid_Failure_Rationale.md`
 > - ⭐⭐ **CLIMATE** — ⛔ **files are named for the REAL-WORLD STATION, not the city. Search by the ALIAS SET or you will get a false negative**
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`
-> - **Stations**
+> - **Stations** *(physical and infrastructure facts only, `DR-24`; a station's operator or nation is never a founder, identity or tie input, `DR-19`)*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Stations/`
 > - ⭐ **`16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures.** ⛔ `QUERYABLE-BY-SCHEMA`; **never `grep` it by subject name**
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
@@ -351,8 +353,6 @@ before the writing starts.
 
 
 
-does it permit but punish?*
-
 **The whole of `02` is this phase's reference.** Everything downstream hangs on it.
 
 **The core move.** Run three independent generators to three separate four-quadrant profiles, **then compare** —
@@ -364,9 +364,9 @@ agreement is grounding, conflict is the richest finding site in the method, and 
 - **B.** Build the comparison table; mark every cell *agree · conflict · silent*.
 - **C.** Resolve conflicts with the both-are-true test — *what single property would produce both readings, and
   are the two claims about different objects or at different scales?*
-- **D.** Read the **shape** (`02` §4) and apply its matching question. **Where a shape repeats a
-  previously-written location, run the three-step rule and write the comparison as a table on at least four
-  axes, including tense.**
+- **D.** Read the **shape** (`02` §4) and apply its matching question. **In-run, test the shape against `02`
+  §4.0's double reading (the same input set read twice), never against another location;** `02` §4's three-step
+  rule is TERMINAL (`00_RUNBOOK.md`, THE LAW OF ONE LOCATION).
 - **E.** Read the **address** of each deficit (`02` §4.1) — and **count the addresses**, because a count above
   one should raise suspicion rather than reassurance.
 - **F.** **Then** research the deficit. The profile says what the place cannot do; it does not say what the
@@ -392,7 +392,7 @@ appendix for what the ruin still does to visitors.
 - Stopping at first-order on the physical generator. *"It is cold"* is a starting condition, not a finding.
 - Writing a capability profile as a **diagnosis** rather than a profile — the district rule holds: strengths and
   deficits stated as what the place can and cannot institutionally do, **then one consequence.** If the
-  consequence reads like another location's, it is wrong.
+  consequence could be true anywhere, it is wrong.
 - Filling the STANDING COST quadrant with function. They are different questions (`02` §3.1).
 - Letting the profile become a list of prohibitions. Prohibitions are Phase 7.
 
@@ -449,8 +449,7 @@ finding.**
 - **A.** Establish the composition from canon; **read the composition source for its own stated limits** and do
   not build a finding on a percentage that the source says is a relative ranking.
 - **B.** Classify the arrival modes and their approximate mix.
-- **C.** **Separate the native layer from the transplanted layer, explicitly** (`Cultural_Synthesis_Techniques`
-  §12). Read the composition material *to know what to write around*, not what to repeat. **A place whose only
+- **C.** **Separate the native layer from the transplanted layer, explicitly.** Read the composition material *to know what to write around*, not what to repeat. **A place whose only
   culture is its immigrants' cultures has no culture.**
 - **D.** Run **Borrowed Form** where a later category comes up empty — but not to skip the capability reading;
   a borrowed form should explain a gap the capability reading already predicted.
@@ -481,7 +480,7 @@ differentiation pass.** ✅ **In-run, run the peer-free test: *could this be tru
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`
 > - **P** `Specs/`
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`
-> - **P** **Concept art** ⚠ *only 4 of 37 cities hold images; the rest are empty `.gitkeep` folders*
+> - **P** **Concept art** ⚠ *only 4 of the 38 cities hold images; the rest have empty `.gitkeep` folders, and Bunger Hills City has no folder*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/`
 > - **P** `Davis_Geosciences_Research/` *where applicable*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Davis_Geosciences_Research/`
@@ -616,6 +615,7 @@ the file** for every other phase (`04` Gate 3).
 # PHASE 5 — RELATION & GEOMETRY *(the restored phase)*
 
 **Asks:** *What is this place to the places around it, to the thing that contains it, and to anyone crossing its
+edge?*
 
 > ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
 > *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
@@ -633,6 +633,8 @@ the file** for every other phase (`04` Gate 3).
 > - **P** `City_National_Connections.md`
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_National_Connections.md`
 > 
+> ⛔ **The three city-relationship files are read for routes, trade, supply and population ties only.** A line in them that rests on the Background-Lore vignettes or Course of Events, or that ties cities through a real station, its operator, a namesake or "heritage", is **not an input** (`DR-19`, `DR-28`, `05` rule 3a). The tie itself is never dropped; its stated reason is.
+> 
 > ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**
 > 
 > ### ⭐⭐ AND CLOSE THE PHASE WITH A `## Canon opened` RECEIPT — **`M-171`**
@@ -646,8 +648,6 @@ the file** for every other phase (`04` Gate 3).
 
 
 
-
-edge?*
 
 **This phase exists because its absence was measured.** It restores city template §23 and closes the hole `00e`
 §6 names. **It is mandatory for every type and primary for two.**
@@ -752,6 +752,7 @@ usually what it is like to have relations with places that do not have a relatio
 # PHASE 6 — MEANING
 
 **Asks:** *What does this place believe, what does it hold sacred without saying so, and what does it do about
+death?*
 
 > ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
 > *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
@@ -778,8 +779,6 @@ usually what it is like to have relations with places that do not have a relatio
 
 
 
-death?*
-
 **Process.**
 - **A.** **Run the Naming technique first, before generating anything.** Search the location's existing canon
   for religious-register language attached to non-religious objects — *sacred, honor, sworn, kept, owed,
@@ -791,7 +790,7 @@ death?*
   > its commonest form.** Where the place already has a named faith, expect instead a **stake** (what is at risk
   > here that is at risk nowhere else), a **compact** (what it agreed to and never wrote down), or a **debt**
   > (what it owes and does not discuss). **Do not invent a second religion to fill a slot already occupied.**
-  > **Counter-check: the name must not be portable.** If it would work equally well for a sibling, it has been
+  > **Counter-check: the name must not be portable.** If it would work equally well anywhere else, it has been
   > written too abstractly.
 - **B.** **Belief landscape.** Draw on the existing roster before inventing; but a genuinely new belief emerging
   from the analysis is a good outcome, not a problem, **provided it grows out of something the place verifiably
@@ -839,6 +838,7 @@ divergent funerary traditions in one shared environment, which is its own differ
 # PHASE 7 — ORDER
 
 **Asks:** *How does this place organize work, decide things, pass on skill, and handle the people who do not
+fit?*
 
 > ### 📂 MUST OPEN — **this phase's required canon. ABSOLUTE ADDRESSES, every one verified to resolve.**
 > *Mirrored from the project runbook's per-phase canon table (`§C.8c`). ⛔ **Absolute, always** — a relative path is folder-dependent and this file is read from at least three places.*
@@ -884,8 +884,6 @@ divergent funerary traditions in one shared environment, which is its own differ
 
 
 
-fit?*
-
 **Restores** city template §15 (division of industry) and §21 (political character), and takes prohibition and
 sanction from Phase 1 per `02` §3.3. **Primary phase for Polity and Installation types.**
 
@@ -905,7 +903,8 @@ is people or expertise.
 > **The fix is to widen the definition, NOT to shrink the sector** — "heritage" properly means stewardship of
 > the past broadly: libraries, civic archives, building conservation, records administration. At 20% that is
 > ordinary; pointed at one object it is absurd. **Write the sector's general breadth first, then name the
-> signature instance as a scoped specialization inside it.**
+> signature instance as a scoped specialization inside it.** ⛔ *A real site's historic hut, museum or expedition
+> relic is never the signature instance: that is the real site's history, not an input (`DR-28`).*
 >
 > **This is `00b`'s general-population discipline on a second axis** — a narrow *object* standing in for a
 > *sector*, rather than a narrow *role* standing in for a *population*. Same failure, same cause: the vivid
@@ -1058,7 +1057,7 @@ project's own representation framework names four categories of which only one i
 may have others.
 
 **The lens decision, which must be made explicitly per location type.** The outer-city version anchors robot
-culture in **founding-nation** threads; the district version anchors it in **theme/role**, because districts are
+culture in the **founding population the Founding Register names** (never the station's operator or nation); the district version anchors it in **theme/role**, because districts are
 not nation-founded. **Neither is universal.** Decide and state the anchor: what does *this* location's
 non-dominant population organize its culture around — origin, function, the built environment, a shared
 constraint, or a shared exclusion?
@@ -1150,14 +1149,23 @@ placeholders under the same naming rule).
 - **B.** Run the real-world research against the location's full pick list, **prioritizing the lower tiers** —
   top-tier picks get absorbed into a location's identity summary early and spent, while lower tiers sit
   unexamined and still hold unspent specificity.
-- **B2.** *(Added 2026-08-31.)* **Run `Cultural_Synthesis_Techniques.md`'s Technique — The Zodiac Lens**, a
-  second, independent source for this phase: all twelve zodiac signs run as non-binding interrogation prompts
+- **B2.** *(Added 2026-08-31.)* **Run the Zodiac Lens**, as stated here *(`DR-14` keeps the CST file itself
+  out of a ULM pass)*, a second, independent source for this phase: all twelve zodiac signs run as non-binding interrogation prompts
   against this location's own already-established character, each one asked what person/place/thing it would
   take here, if anything — **never as an assignment, and never referencing the substrate's own parent set's
   completed content.** Zero, one, or several results per sign are all legitimate; record nulls with reasons rather than
   forcing a result to fill every sign.
   **Person-shaped results AMEND Phase 9 at Step 5** (§0.4) — they are **not** a Phase 9 input, and **Phase 9
   must never wait on this technique**, which runs six phases after it.
+- **B3.** *(Added 2026-09-16, `DR-8`/`DR-8a`.)* **Determine the location's Planet + Element pair here, now
+  that Phases 1–9 exist.** ⛔ **Do not open `City_Symbol_Assignments.md`, `Planetary_Symbols.md`, or
+  `Robot_Elementals.md` before this step** — they are closed to every earlier phase and to Step −1, per
+  `00_RUNBOOK.md` §C.7. Read the location's own established character from Phases 1–9 first; only then open
+  the three files, check what they already carry (34 of 35 cities have an existing pair), and **confirm it,
+  revise it, or leave it explicitly open** against what the pass actually found. State the reasoning in one or
+  two sentences — this is a determination, not an essay. **Step 5 remains the backstop**: if its own
+  reconciliation pass surfaces a genuine contradiction between this determination and an earlier phase, it is
+  revised there like any other finding.
 - **C.** Organize under the four headings; **name places and things specifically, leave people as roles.**
 - **D.** Check border-adjacency texture where the location abuts a neighbor whose character might bleed across
   — **a real but easy-to-overuse technique; do not force it.**
@@ -1183,4 +1191,5 @@ Recorded so the next pass does not assume completeness.
 - **The physical map.** Adjacency and layout are inputs here, not outputs.
 - **Anything below the location scale** — a single building's interior, an individual character. Characters have
   their own methodology.
-- **Validation.** Nothing in this file has been run on a real location yet. **See the README's status note.**
+- **Validation.** The spine has been run on real locations since it was written; the runs and what they found
+  are recorded in `Test_Runs/RUN_LOG.md` and `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`, not here.

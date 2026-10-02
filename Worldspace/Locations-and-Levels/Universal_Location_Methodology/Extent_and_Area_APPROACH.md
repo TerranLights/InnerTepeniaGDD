@@ -9,7 +9,10 @@
 > `01` §6's declaration block has a mandatory `**Extent band:**` line. `00_RUNBOOK.md` Step 2 item 6 orders
 > the division and calls it *"the cheapest plausibility check in the methodology."*
 >
-> ⛔ **It has never been runnable for any city in the project.**
+> ⛔ **It had never been runnable for any city in the project.**
+>
+> ✅ **Closed 2026-09-05:** *13 cities now carry a declared extent, and the other 25 are closed by the coastline
+> ruling* — `Extent_and_Density_Per_City.md` §10–§11.
 
 ---
 
@@ -44,8 +47,8 @@ limited by actual physical/geographical/geological conditions/settings."*
 | **Neumayer** | ***"built on the Ekström Ice Shelf rather than on bedrock, which has structural implications for long-term city stability"*** |
 
 > ⚠ **Six cities have a real-world area figure and NONE of them is a city extent** — Cape Adare (2.94 km²
-> cape) · Denison (1.11 km² ASMA) · Davis (~400 km² oasis) · Lazar (~34 km² oasis) · Sayowa (~4–5 km²
-> island) · Sinheung (~34 km² hills). ***They measure the real-world SITE, not the city, and they bound
+> cape) · Denison (1.11 km² ASMA) · Davis (~400 km² oasis) · Lazar (~34 km² oasis) · Sayowa (~1.5 km²
+> island) · Sinheung (~40 km² hills). ***They measure the real-world SITE, not the city, and they bound
 > nothing.*** **A prior version of the audit called them "upper bounds on habitable land." That was wrong,
 > and it is the exact misreading this section exists to prevent.**
 
@@ -84,8 +87,8 @@ Signy · Port Lockroy.** ***That is a settlement-form constraint already doing r
 > density, after which Gate 11 returns the assumption.**
 >
 > ⚠ **A live instance, caught before it was acted on:** *during the 2026-09-05 Denison pass this file's author
-> proposed anchoring Denison's reduction to Sayowa — island-capped, ~4.5 km², 50,084/km² — as "the direct
-> analog." **That is the trap.** Sayowa's figure is itself an unchecked judgment call, and Sayowa's own spec
+> proposed anchoring Denison's reduction to Sayowa — island-capped, ~4.5 km² by its spec's figure *(East Ongul
+> is ~1.5 km²)*, 50,084/km² — as "the direct analog." **That is the trap.** Sayowa's figure is itself an unchecked judgment call, and Sayowa's own spec
 > already flags 50,084/km² as "the implausibility."*
 >
 > ## ⭐⭐⭐ WHAT THE CAPS ARE INSTEAD: **the first eleven HYPOTHESES to test.**
@@ -172,15 +175,16 @@ caught.**
 
 | Start with | Why |
 |---|---|
-| ⭐ **Denison** | **the worst density case in the corpus** — naive ~960,000/km², nearly 3× worse than the Cape Adare figure that was already rejected as implausible. **And it already has a researched megastructure answer** sitting flagged in its spec |
-| ⭐ **The six "island-capped" cities** | **hard physical ceilings already annotated in the census.** If the method cannot produce a defensible number where the constraint is unambiguous, it will not work anywhere |
+| ⭐ **Denison** | **the worst density case in the corpus** — naive ~960,000/km² *(Census I)* — ~2.7× the Cape Adare figure already rejected as implausible *(357,160/km², which is on Census II)*, and ~1.9× Cape Adare on the same Census I basis *(1,499,654 ÷ 2.94 km² ≈ 510,000/km²)*. **And it already has a researched megastructure answer** sitting flagged in its spec |
+| ⭐ **The eleven "island-capped" cities** | **annotated in the census, each on a measurable island** — water is a hard edge, so the constraint is unambiguous. ⚠ *The label itself is not a ceiling: the eleven islands differ in area by 194,000× (§7c).* If the method cannot produce a defensible number where the edge is unambiguous, it will not work anywhere |
 
 **Getting the method right on both extremes calibrates everything between them.**
 
 ## ⚠ Live implausibilities already recorded, waiting on this
 
 - **`Specs/Sayowa.md`** has already run the division: ***"225,376 people on ~4–5 km² is ~50,000/km² — the
-  implausibility…"***
+  implausibility…"*** ✅ *Resolved 2026-09-05: East Ongul is ~1.5 km², and the declared extent is ~31.5 km²
+  at 7,155/km² (`Extent_and_Density_Per_City.md` §6).*
 - **`Specs/Cape_Adare.md`** says outright: ***"the exact figure is a worldbuilding decision, not an
   arithmetic one."***
 
@@ -334,8 +338,9 @@ not circular*** — **use it for §7's band widths.**
 # 8 · ⏸️ STATUS
 
 **DEFERRED BY DEVELOPER RULING, 2026-09-03:** *"The issue of density has to be addressed another time…"*
-**Reopened for approach-design 2026-09-04; no extent figure has been derived, proposed or assumed for any
-city.** ⛔ **Do not derive one until the §7 rulings are made.**
+**Reopened for approach-design 2026-09-04, and worked 2026-09-05:** ✅ **13 cities now carry a declared
+extent, and the other 25 are closed by the coastline ruling, not pending** *(`Extent_and_Density_Per_City.md`
+§10–§11)*. ⛔ **Do not open a "finish the rest" task.**
 
 > ## ⭐⭐ SCHEDULED — **2026-09-05, developer ruling 2026-09-04**
 > > ***"tomorrow, first, we need to address `Ports.md`… Then, once that's done, we'll go through and
@@ -355,7 +360,7 @@ city.** ⛔ **Do not derive one until the §7 rulings are made.**
 > | **3** | **Band widths** — what counts as COMPACT vs EXTENSIVE | §5.2 — without them there is nothing to declare on the `**Extent band:**` line |
 > | **4** | **Whether Tepenian engineering exceeds real-world limits, and by how much** | The multiplier every figure is computed against |
 >
-> ⭐ **Recommended first two cities once the rulings exist: Denison and the six island-capped** *(§6)* —
+> ⭐ **Recommended first two cities once the rulings exist: Denison and the eleven island-capped** *(§6)* —
 > **the two extremes, because they calibrate everything between them.**
 >
 > ⛔⛔ **And the trap, restated because it is the one that would waste the whole session:

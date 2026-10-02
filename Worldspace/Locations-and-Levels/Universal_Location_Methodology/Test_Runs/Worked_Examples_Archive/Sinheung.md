@@ -10,11 +10,8 @@
 
 ## From `02` §4.1 — the `in a neighbor's present` address *(copied 2026-09-03; also still inline at L347)*
 
-**Rule it illustrates:** the comparison population — someone who has organically what this location was only
-allocated, or lacks entirely — never departed; they are living, permanent and physically co-located.
-
-**The instance (Run 5):** a paper-secured founding claim sitting permanently beside a neighbor's organic one,
-a few hundred meters away.
+**Rule it illustrates:** the comparison population — someone who has what this location lacks — never
+departed; they are living, permanent and physically co-located.
 
 *(Further Sinheung material: `03` Phase 6 §C's fourth death-outsourcing reason, and Phase 9D's "not a target
 ratio" clarification — see `../../06_Worked_Example_Provenance.md`.)*
@@ -28,7 +25,7 @@ ratio" clarification — see `../../06_Worked_Example_Provenance.md`.)*
 
 **Divergence table — populated 2026-08-31, Sinheung, Run 5, after two developer-caught corrections to the
 search discipline (see step 6 above and M-38b/observations log).** Full write-up, including both correction
-passes: `Universal_Location_Methodology/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`.
+passes: `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`.
 
 | Sign | Results at Sinheung | Category |
 |---|---|---|

@@ -302,8 +302,8 @@ shadow structure**." One pole inflates and seizes; the other deflates and abdica
 |---|---|---|---|
 | **King** | order, blessing, generativity, stewardship of the whole | **The Tyrant** | **The Weakling** |
 | **Warrior** | disciplined action, boundary, transpersonal devotion | **The Sadist** | **The Masochist** |
-| **Magician** | knowledge, technique, insight, containment | **The Manipulator** | **The Denying "Innocent" One** |
-| **Lover** | connection, aliveness, sensuality, vision | **The Addict** | **The Impotent Lover** |
+| **Magician** | knowledge, technique, insight, containment | **The Detached Manipulator** | **The Denying "Innocent" One** |
+| **Lover** | connection, aliveness, sensuality, vision | **The Addicted Lover** | **The Impotent Lover** |
 
 ### The four standing questions
 
@@ -338,12 +338,12 @@ These replace the generic passive/aggressive pair in §4 with eight specific, so
 - **The Sadist** — *where is hardness admired past the point of function?* Note the book's link: the Sadist's
   hatred of the weak is "really the Sadist's own hidden Masochist."
 - **The Masochist** — *where does this place absorb harm and call it virtue?*
-- **The Manipulator** — *who withholds what people need to know for their own well-being?* Sourced and precise:
+- **The Detached Manipulator** — *who withholds what people need to know for their own well-being?* Sourced and precise:
   he "maneuvers people by withholding from them information they may need," and "charges heavily for the little
   information he does give, which is usually just enough to demonstrate his superiority."
 - **The Denying "Innocent" One** — *what does this place refuse to know that it already knows?* The most useful
   of the eight for shadow work, and a different angle on `00d` than any existing gate.
-- **The Addict** — *what is this place lost in?* "Lostness… the victim of his own sensitivity," pursuing
+- **The Addicted Lover** — *what is this place lost in?* "Lostness… the victim of his own sensitivity," pursuing
   intensity past function.
 - **The Impotent Lover** — *what has gone dead here?* "Flattened affect — lack of enthusiasm, lack of vividness,
   lack of aliveness." **Ask this of any district that reads as competent and joyless.**
@@ -369,8 +369,8 @@ active-passive structure — giving a complete sixteen-name system, captured who
 | Warrior | **The Hero** | The Grandstander Bully | The Coward |
 
 **Developmental order:** the Divine Child powers up first; the Precocious and Oedipal Children next; **the Hero
-governs the last stage of boyhood.** *(Corrections to §4b from Figure 1: the Magician's active shadow is the*
-**Detached** *Manipulator, and the Lover's is the* **Addicted** *Lover.)*
+governs the last stage of boyhood.** *(Figure 1 gives the mature active shadows their full names, used in §4b:
+the* **Detached** *Manipulator and the* **Addicted** *Lover.)*
 
 ### Two mechanics worth more than the names
 
@@ -610,13 +610,13 @@ improvement, and not a second opinion.** Do not report its output as though some
 **Rule 0 — A negative result is a result, and must be recorded rather than discarded.** *(Added 2026-08-29.)* Three kinds, all informative:
 
 - **A shadow question that returns "not guilty."** The Detached Manipulator — *who withholds what people need to
-  know?* — found **nobody** in the Labs, which withholds nothing; its failure is absence of record, not
-  concealment. **That exonerates the district on a specific charge**, which is worth knowing precisely because
+  know?* — found **nobody** in District E *(see the tables below)*, which withholds nothing; its failure is
+  absence of record, not concealment. **That exonerates the district on a specific charge**, which is worth knowing precisely because
   the shadow positions are written to be hostile.
 - **A Life Arc that returns "yes, trivially."** The Maiden — *can a young person separate here?* — is answered
-  by the Labs immediately and easily, because it is **where people separating from elsewhere arrive.** An easy
+  by that same district immediately and easily, because it is **where people separating from elsewhere arrive.** An easy
   yes characterizes a district as sharply as a silence does.
-- **A silence.** Already recorded (§3): the King arc found nothing in the Labs, because **nobody there
+- **A silence.** Already recorded (§3): the King arc found nothing in that district, because **nobody there
   experiences themselves as powerful.**
 
 **Rule 1 — A position with nothing to say must say nothing.** Most will have no comment on most locations.
@@ -646,8 +646,9 @@ homogenization, and they would undo the entire point of a per-district methodolo
 what a place is, not to bring it up to a standard.**
 
 **A want that the location characteristically would not and should not satisfy is a finding about the
-location.** The Yards has nowhere purposeless to stand. The correct output is not *the Yards needs a commons* —
-it is *the Yards has no concept of purposeless space, and here is what that does to a childhood.* **The
+location.** *(Archived instance:)* a district with nowhere purposeless to stand. The correct output is not *the
+district needs a commons* — it is *the district has no concept of purposeless space, and here is what that does
+to a childhood.* **The
 persona goes unsatisfied, and that is the answer.**
 
 **Test each objection against the district's own established character before deciding it**, exactly as Gate 4's
@@ -706,22 +707,22 @@ one.**
 
 ### `unmet` measures what a district is *knowingly protecting* — not how hard the panel was run
 
-This file has said that **`unmet` should be common and a panel that never produces it is being run wrong.**
-That is half right and the other half was costing real time. The counts:
+**`unmet` is easily read as a rigor score — *a panel that never produces it is being run wrong.*** That is half
+right and the other half was costing real time. The counts:
 
-| District | `unmet` | What it consciously protects |
+| Archived district | `unmet` | What it consciously protects |
 |---|---|---|
-| **The Markets** | **3** | the not-looking — the instrument that makes it the only district that takes anyone |
-| The Circuit | 1 | little; it is unusually accommodating |
-| The Frostlands | 1 | little; its problems are absences it has never perceived |
-| **The Undergrid** | **1** | **non-ownership — exactly one thing, and the one `unmet` landed on it** |
+| **A** | **3** | the not-looking — the instrument that makes it the only district that takes anyone |
+| B | 1 | little; it is unusually accommodating |
+| C | 1 | little; its problems are absences it has never perceived |
+| **D** | **1** | **non-ownership — exactly one thing, and the one `unmet` landed on it** |
 
 **A low count is not evidence of a soft panel.** It is evidence that the district's problems are **absences it
-does not know it has**, and **you cannot refuse to surrender something you do not know you hold.** The Markets
-scored three because they have something worth defending and know it; the Undergrid scored one **on precisely
-the one thing it consciously defends.**
+does not know it has**, and **you cannot refuse to surrender something you do not know you hold.** District A
+scored three because it has something worth defending and knows it; District D scored one **on precisely the
+one thing it consciously defends.**
 
-**So read `unmet` as a diagnostic of self-knowledge, not of panel rigour** — and when a run comes back low,
+**So read `unmet` as a diagnostic of self-knowledge, not of panel rigor** — and when a run comes back low,
 **check whether the district is accommodating or merely unaware** before concluding the panel went easy.
 
 > ### ⚠ ADDED 2026-08-30 — `unmet` currently has TWO definitions in this file, and they disagree
@@ -755,29 +756,29 @@ the one thing it consciously defends.**
 
 ### A position that cannot be cast at all is a finding, and a strong one
 
-**The Frostlands' Neighbor position could not be voiced from the Undergrid** — there was no history, no
-grievance, no trade and no contact to speak from. **A panel position requires a standpoint**, and the absence of
+**District C's Neighbor position could not be voiced from District D** — there was no history, no grievance,
+no trade and no contact to speak from. **A panel position requires a standpoint**, and the absence of
 one is the strongest available confirmation that a relationship genuinely does not exist.
 
-**Record it as a result rather than substituting a different neighbor.** It confirmed that district's Finding
-VIII from the outside, and the Undergrid's own pass later confirmed it from the other side.
+**Record it as a result rather than substituting a different neighbor.** It confirmed one of District C's own
+Findings from the outside, and District D's own pass later confirmed it from the other side.
 
 ### The shadow position is worth running every time, and the results have got sharper as the roster is worked
 
 Six run, and the verdicts are not converging on "not guilty" the way the first two suggested:
 
-| District | Position | Verdict |
+| Archived district | Position | Verdict |
 |---|---|---|
-| The Labs | Detached Manipulator | **not guilty** |
-| The Government District | Tyrant | **not guilty** |
-| The Circuit | Know-It-All Trickster | **partially guilty — on self-image, not conduct** |
-| The Markets | Addicted Lover | **guilty on a redirected charge** — not dissolute; addicted to being needed |
-| The Frostlands | Denying "Innocent" One | **partially guilty — on effect rather than intent** |
-| The Undergrid | Detached Manipulator | **not guilty, with the conditions for guilt stated** |
+| E | Detached Manipulator | **not guilty** |
+| F | Tyrant | **not guilty** |
+| B | Know-It-All Trickster | **partially guilty — on self-image, not conduct** |
+| A | Addicted Lover | **guilty on a redirected charge** — not dissolute; addicted to being needed |
+| C | Denying "Innocent" One | **partially guilty — on effect rather than intent** |
+| D | Detached Manipulator | **not guilty, with the conditions for guilt stated** |
 
 **Two techniques came out of this and both should be used deliberately.** **The redirect** — the literal charge
-fails and an adjacent one lands, which is where the Markets' best shadow material came from. And **the
-conditional acquittal** — *not guilty, and here is exactly what would make it guilty*, which gave the Undergrid
+fails and an adjacent one lands, which is where District A's best shadow material came from. And **the
+conditional acquittal** — *not guilty, and here is exactly what would make it guilty*, which gave District D
 a live, playable trajectory instead of a verdict. **Pick the position most obviously suited to the district's
 reputation**, because the obvious charge failing is usually where the real one is.
 
@@ -794,7 +795,7 @@ inside the fiction by someone who already accepts its premises.**
 
 > **A panelist cannot object that a district is implausible, because the panelist only exists if it is.**
 
-**The demonstration, and it is recent.** The Frostlands' counterculture was first written as a district that
+**The demonstration, and it is recent.** District C's counterculture was first written as a district that
 **socially excludes people for being tedious** — in a place where outside is lethal. That version passed Gates
 0 through 10 **and a full nine-position panel with two mandatory outside positions.** Not one of them had a
 standpoint from which to notice, because every one of them was a person living in a district where that was
@@ -817,10 +818,11 @@ already normal.
   are also extracted and remain the one part of Weiland's system this panel does not yet use.
 - **Before mining anything, check `Reference/Real-World/Book_Extraction_Index.md`.** Twenty-three books are
   already extracted across three locations, and this file twice claimed material was missing that was not.
-- **The `unmet` disposition should be common, and if it never appears the panel is being run wrong.** A
-  location that satisfies every position on the panel has no character. Expect several `unmet` results per
-  district, and expect the interesting ones to cluster on the positions the district is worst equipped for —
-  which is exactly where its identity is sharpest.
+- **Refusals — `unmet` and `declined` together — should be common, and if neither ever appears the panel is
+  being run wrong.** A location that satisfies every position on the panel has no character. Expect several
+  refusals per district, and expect the interesting ones to cluster on the positions the district is worst
+  equipped for — which is exactly where its identity is sharpest. **The `unmet` share of them is a separate
+  reading** — a diagnostic of self-knowledge, not of rigor (above) — **and a low `unmet` count is legitimate.**
 - **Positions drift toward the author's sympathies over repeated use.** The Neighbor and the shadows are the
   most prone to softening, because both are written to be unwelcome. Check periodically that they still bite.
 - **One early panel run (2026-08-29) predates this roster.** It was run against the earlier invented list of

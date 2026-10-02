@@ -1,7 +1,7 @@
 # Gate 5 — Cross-location consistency
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 146–150.** ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 148–153.** *(Re-verified 2026-10-01 against the current gate headings.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -33,7 +33,8 @@
 
 # THE INSTRUCTION
 
-**Gate 5 — Cross-location consistency.** Export/import coherence against neighbors; **shared-environment
+**Gate 5 — Cross-location consistency.** Export/import coherence against neighbors *(RELATION: what flows and
+where it lands, read from canon such as the Division of Industry, never from another location's culture pass)*; **shared-environment
 consequences** (anything vented, emitted, sounded or spilled arrives somewhere); and **new categories are
 legitimate discoveries** — the check is not *does this already exist, use that instead*, it is only *is the new
 thing named and cross-referenced so it enters canon cleanly?*

@@ -189,9 +189,7 @@ Denison*** — *there the Mackellar group roughly quadruples a 1.5 km² cape; he
 > ***So Dumont d'Urville was always a mainland city with an offshore old town.*** **The spec writes the island
 > half beautifully and simply never said where the roads land.**
 
-⭐⭐ **And the real-world site does exactly this job:** **Cap Prud'homme (66°41'S, 139°55'E), ~5 km south of
-Petrel**, is *"a **gateway** where **supply convoys to Concordia** and exploration traverses are prepared."*
-***That is Hwy 183's function — "from Concordia via Denison" — standing at the same coordinate.***
+⭐ **The nearest mainland ground is Cap Prud'homme (66°41'S, 139°55'E), ~5 km south of Petrel.**
 
 ## 🔬 What the mainland is made of
 
@@ -323,8 +321,7 @@ it stands on was simply never recorded.***
 🔬 **Normanna Strait is 1.9 km** — *shorter than Denison's 3 km span, in sheltered water.*
 ⭐ **And it uses the one thing Coronation has in abundance:** *its land is glacier and mountain, largely
 unbuildable; its **coastline** is not.* **The fleet does not compete with the ice — it ignores it.**
-⚠ **Precedent on this exact site:** *a shore whaling station ran at Factory Cove until 1925–26, and Antarctic
-whaling ran on **moored factory ships**.*
+⚠ **Real-world comparable:** *Antarctic whaling ran on **moored factory ships**.*
 
 ## ⭐⭐⭐ CORONATION'S LANDMASS BECOMES THE POWER STATION — and the resource is extraordinary
 
@@ -384,7 +381,7 @@ fact, not an engineering objection.**
 ## ⚠ TWO THINGS LEFT OPEN
 
 ⛔ **SEA ICE.** ⭐ *A lead, not a resolution:* **the föhn makes the south-coast bays the warmest water in the
-archipelago — the same water the whalers and the station chose.** *The South Orkneys freeze, and **beset vessels get crushed** — the historical failure mode for
+archipelago.** *The South Orkneys freeze, and **beset vessels get crushed** — the historical failure mode for
 anything moored through an Antarctic winter.* **Either the piers break ice, the hulls are built for it, or the
 fleet is seasonal.** ***Whichever is chosen becomes a defining fact about the place, and it is not yet
 chosen.***
@@ -515,8 +512,8 @@ there; a continental mountain spine here)*. **Same physics, unrelated geometry �
 | ~~**8**~~ | ✅ **Marambio** | ✅ **EXTENT SETTLED 2026-09-05** *(§8)* — **7,311/km² on Seymour I., correct on arrival; population UNCHANGED at 570,269.** ⛔ *Pool transfer **REJECTED same day** — the full pool went to **{{Bunger Hills City}}** instead (§11).* **James Ross I. still deliberately reserved for Esperanza.** |
 
 ⚠ **Denison is NOT in this queue** — *it is not island-capped, it was worked separately
-(`Extent_and_Area_APPROACH.md` §7b), and its population is **flagged for reduction, deliberately held** until
-these eleven give it something to calibrate against.*
+(`Extent_and_Area_APPROACH.md` §7b). Once these eleven gave it something to calibrate against, it was
+**re-addressed: two-zone, ~50 km², population −15% → 906,222 at 18,124/km²** (§5, §11).*
 
 ⛔ **The other 26 cities are out of scope for this file so far.**
 
@@ -557,14 +554,13 @@ mode — every city is a MIX of the three, and the mix is the extent answer:*
 different cities.*
 
 ### ⭐⭐⭐ WHICH MAKES HALLEY A CITY THAT MOVES
-**1,452,345 people on the Brunt Ice Shelf.** 🔬 *The real precedent is unambiguous: **the first four Halley
-stations were buried by snow and crushed until uninhabitable**, and **Halley VI was relocated 23 km inland in
-2016** ahead of Chasm-1.* **At 900 m/yr a building travels 1 km every 13 months — 72 km in a human
-lifetime — toward a calving front.**
+**1,452,345 people on the Brunt Ice Shelf.** 🔬 *The shelf's own measured rates settle it: **~1.2 m/yr of
+burial** and **740–1,500 m/yr of flow**, with chasms opening across it (Chasm-1).* **At 900 m/yr a building
+travels 1 km every 13 months — 72 km in a human lifetime — toward a calving front.**
 
 > ***A permanent Halley is not possible on that surface. A migrating one is.*** **The city walks upstream
 > against the ice, forever, and its whole material culture is downstream of that.** *(Neumayer, on the
-> Ekström, is the same problem — and real Neumayer III sits on hydraulic jacks for exactly this reason.)*
+> Ekström, is the same problem; buildings raised on hydraulic jacks are the standard polar answer to burial.)*
 
 ## ⭐⭐⭐ AND THE ROCK IS A CLASS DIVIDE — **by mechanism, not by taste**
 

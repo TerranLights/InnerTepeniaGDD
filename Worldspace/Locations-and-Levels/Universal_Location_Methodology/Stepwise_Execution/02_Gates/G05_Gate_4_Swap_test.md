@@ -1,7 +1,7 @@
 # Gate 4 — Swap test
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 141–145.** ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 141–147.** *(Re-verified 2026-10-01 against the current gate headings.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -35,7 +35,9 @@
 
 **Gate 4 — Swap test.** For each finding: would it survive essentially unchanged if swapped onto a comparable
 location? **Pick the partner most likely to survive the swap, not a convenient comparable** — the gate is only
-informative if it could plausibly fail. **Record which finding was weakest under the swap**, not merely that the
+informative if it could plausibly fail. ⛔ **In a ULM / CST / RWBEM pass the partner is never another Tepenian
+city** (`00_RUNBOOK.md`, THE LAW OF ONE LOCATION): swap onto a real-world comparable or a generic location of the
+same type, and ask the peer-free question, *would this be true anywhere?* **Record which finding was weakest under the swap**, not merely that the
 set passed. A gate that only ever reports success is not being run honestly.
 
 ---

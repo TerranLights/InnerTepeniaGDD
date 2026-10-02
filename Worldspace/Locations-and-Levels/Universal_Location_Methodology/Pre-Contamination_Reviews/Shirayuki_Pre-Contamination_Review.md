@@ -103,7 +103,7 @@ rate recorded *(§6d — the ladder is yield recovery, not a safety gate)* · **
 |---|---|---|---|
 | **1** | **Required reading** | ✅ **SWEPT — 3 LEAKS FOUND, LOCATED, NOT READ** | An isolated reader classified every hit across all 11 required files. **See §4.** ⚠ **`06`'s own manifest check would have returned CLEAN** — its two hits sit inside *other* cities' sections. **M-82's 4th and 5th instances** *(M-99)* |
 | **2** | **Auto-loaded memory** | ✅ **CLOSED BY BLACKOUT — superseded 2026-09-03** | `grep -ril shirayuki` → **38 entries**. **5 city-named entries BANDED** in place via `§3d`; **the remaining 33 are covered by the memory index's new default-deny declaration.** *(Per-entry banding does not scale at 38 entries × 37 cities — M-99.)* ⛔ **SUPERSEDED: the whole directory is now BLACKED OUT for the deriver until Step 7** *(`COLD_RUN_CHECKLIST.md` STEP −3, developer ruling)*. **The 38 figure was also the wrong width — the alias union is 51, and 5 entries carried conclusions of which 4 were CROSS-CITY pass records** *(M-118, M-129)*. **Those 5 are now banded, which matters only for the PUSH channel; PULL is closed outright.** |
-| **3** | **File tree** | ✅ **SANITIZED AT SOURCE** | **No `ls`/`find` was run against Shirayuki by this session.** The inventory in §3 came from readers under a positive-format contract that forbids returning vignette filenames |
+| **3** | **File tree** | ✅ **SANITIZED AT SOURCE** | **No `ls`/`find` was run against Shirayuki by this session.** The inventory in §3 came from readers under a positive-format contract that forbids returning authored filenames |
 | **4** | **Union / compositional** | ✅ **CLEAR** | **This session has read none of the three flagged lines and none of the banded entries.** **The union is empty.** **Next session: keep an exposure ledger and review it as a SET before Phase 0** (M-89) |
 
 ---
@@ -146,7 +146,6 @@ City_Megasheets/Mirny_Subnet/Shirayuki/Shirayuki_Physical_Infrastructure_Attribu
 | `Cities/Local_Robot_Culture/Mirny_Subnet/Shirayuki.md` | 279 lines | ✅ *(⛔ quarantined content)* |
 | `Cities/City_Enneagram_Personalities/Mirny_Subnet/Shirayuki.md` | **76 lines** | ✅ *(⛔ quarantined content)* |
 | `Cities/City_Vision_Notes/Shirayuki.md` | 35 lines | ✅ *(⛔ quarantined — `05` §6.1 tier, see Casey review §6 reasoning)* |
-| **`Background-Lore/Cities/Mirny_Subnet/Shirayuki/`** | **13 files, 98–668 lines** | ⛔⛔ **NEVER `ls`. Address by index.** *(M-88)* |
 | `Cities/Research_Logs/` | **none for Shirayuki** | **Create one at Step 3** per `00_RUNBOOK.md` §3.7 |
 
 ---
@@ -374,7 +373,8 @@ ULM/Pre-Contamination_Reviews      |   1      TepenianUniverseTimeline/Worldspac
 | ⛔ `WITHHELD` — highest-value rows only | Why |
 |---|---|
 | `graphify-out` ×2 | **retrieval_layer** |
-| `auto-loaded memory` *(51)* · `CurrentNovelDocs` *(49)* · `Background-Lore` *(28)* | culture_conclusions · **authored_titles** |
+| `auto-loaded memory` *(51)* · `CurrentNovelDocs` *(49)* | culture_conclusions · **authored_titles** |
+| `Background-Lore` *(28)* | ⛔ **not canon; never an input** — **never opened, at Step 7 or at any other step** |
 | `Cities/Local_Cultures` · `Local_Robot_Culture` *(20)* · `City_Enneagram_Personalities` · `City_Megasheets` · `City_Master_Reference` | culture_conclusions |
 | `Cities/City_Vision_Notes` · `Storyline` · `Dev-Road-Map` · `to-be-integrated` · `Super_Ultra_Megasheet` · `Local_Robot_Culture_Methodology` | **unratified** *(`05` §6.3)* |
 | `ULM/Test_Runs` incl. **this run's own status file** | culture_conclusions |
@@ -596,7 +596,7 @@ the checklist prefers that for large mostly-other-location files, and §8b's rea
 under `2026-09-03` *(the `COLD_RUN_CHECKLIST` Brief A)*; **`R1B` ran under `2026-09-03-b`**, which adds the
 OUTPUT CONTRACT and fixes the count-unit ambiguity *(M-132, M-133)*.
 **Verdict computed from the JSON ON DISK, never from receipt lines (M-133); tool committed at
-`Test_Runs/2026-09-03_Shirayuki_Run15_Cold/unanimity.py`.**
+`Archive/ULM_Records/Test_Runs/2026-09-03_Shirayuki_Run15_Cold/unanimity.py`.**
 
 | File | n | INERT | content | **A 3-0** | W 3-0 | SPLIT | **adm%** |
 |---|--:|--:|--:|--:|--:|--:|--:|
@@ -723,7 +723,7 @@ content suddenly becomes available). Just add it there."*
 
 **`Developer_Ruling_Queue.md` · `Cross_City_Cultural_Patterns.md` ·
 `Robot_Physiology_and_Cultural_Practices.md` · `testing/QA_template.md` ·
-`Amundsen_Station_Archive_and_Trucking_Network.md` · `Falkland_Treaty/Scaffold.md`** — **893 admissible lines
+`Amundsen_Station_Archive_and_Trucking_Network.md` · `Falkland_Treaty/Scaffold.md`** — **871 admissible lines
 between them.**
 
 **Why these and not `Specs`:** each is a large MULTI-TOPIC reference file (a robot-physiology reference
@@ -737,9 +737,9 @@ budget on this one axis.**
 
 **Disposition: `DEMOTED-PENDING-STEP-7`.** ⛔ **Treated as demoted for grounding purposes in this run** — do
 not cite them as `PRODUCED` support. ✅ **Re-classify at Step 7**, when they open alongside every other
-withheld source for comparison — the same moment memory and `Disciplines/` originals reopen (`STEP −3`,
+withheld source for comparison *(`Background-Lore` excepted: it never opens)* — the same moment memory and `Disciplines/` originals reopen (`STEP −3`,
 `00_RUNBOOK.md` Step 7). **A Step 7 session should run the same Brief-C passage-classification technique used
-on `Specs` §12a, once per file, before accepting or discarding the 893 lines.**
+on `Specs` §12a, once per file, before accepting or discarding the 871 lines.**
 
 > ### Standing rule this establishes, general form of the `Specs` fix
 > ***A citation found during a fixpoint provenance walk demotes the FILE only when the citing passage is

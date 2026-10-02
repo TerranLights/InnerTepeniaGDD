@@ -129,8 +129,8 @@ The Shadow is a **byproduct**, never the operating principle.
 ## What this means in practice
 
 **Proportion.** The overwhelming majority of what a district is, day to day, is people doing what they believe
-is right, within a culture that mostly delivers on its promises. The Sanctuary genuinely shelters people. The
-Yards genuinely builds things that last. Write that as the reality, because it *is* the reality.
+is right, within a culture that mostly delivers on its promises. A place built around shelter genuinely shelters
+people; a place built around making genuinely builds things that last. Write that as the reality, because it *is* the reality.
 
 **Register.** A shadow finding should read as *"and this follows from that, though nobody meant it to,"* never
 as *"here is what the district is really like underneath."* There is no "really like underneath." The surface
@@ -141,14 +141,14 @@ someone to be cynical, self-interested, or knowingly cruel for it to work, it ha
 it so it works with everyone acting in good faith.
 
 **Do not let extraction weighting leak into application.** The `Zodiac_Personality_Substrate/` files
-deliberately give heavy weight to §3 Shadow, because the *extraction* brief prioritised capturing what sources
+deliberately give heavy weight to §3 Shadow, because the *extraction* brief prioritized capturing what sources
 actually said about failure modes — those sections are dense on purpose. **That weighting is an artifact of the
 extraction, not a statement about how much of a district is shadow.** Applying a substrate file proportionally
 to its own section lengths will produce a district that is 40% pathology, which is wrong.
 
 ## ⚠ Do not scale an individual's behavior into a civic sanction
 
-**Added 2026-08-29, from the Frostlands, after a developer correction.**
+**Added 2026-08-29, after a developer correction.**
 
 The substrate files describe **one person at a time** — that is what the source books are, and several of the
 files say so outright in their own §15. **A line about how this temperament treats a friend is not a statement
@@ -167,8 +167,8 @@ essentially near-guaranteed death over."*
    applied to shadow material. An individual's impatience scales to **a smaller room and a shorter hearing**,
    not to a sanction.
 2. **A sanction must be proportionate to the district's physical conditions, and those conditions must be
-   checked.** In the Frostlands, *outside is lethal* — so any exclusion-shaped penalty is a death sentence in
-   practice, and a culture whose deepest reflex is that nobody gets left out in the cold **will not impose one
+   checked.** Where *outside is lethal*, any exclusion-shaped penalty is a death sentence in practice, and a
+   culture whose deepest reflex is that nobody gets left out in the cold **will not impose one
    over tedium.** Before writing any exclusion, ask what it physically costs the excluded person **in that
    district**, and whether the district would actually pay that price for that offense.
 

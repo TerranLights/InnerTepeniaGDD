@@ -1,7 +1,7 @@
 # Step 2 — Build the spine
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2497–2525.** *(Range refreshed 2026-09-14 — re-verified against the current file AND re-synced against it; was `2428–2456`, itself stale since a 2026-09-07 "refresh" that moved only the declared number and never re-checked the body — see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2540–2568.** *(Re-verified 2026-10-01 against the current `# Step` headings.)* *(Range refreshed 2026-09-14 — re-verified against the current file AND re-synced against it; was `2428–2456`, itself stale since a 2026-09-07 "refresh" that moved only the declared number and never re-checked the body — see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > ⛔⛔ **`R-12`, found 2026-09-14: this is the step the Davis pass's own Pre-Trip Inspection mis-addressed as
 > "the §D Phase-2 row-set."** ***Step 2 is PHASE 1, per the runbook's own opening line below.*** `Step N ≠ Phase
 > N` — the mapping is Step 0→Phase 0, Step 2→Phase 1, Step 4→Phases 2–10.

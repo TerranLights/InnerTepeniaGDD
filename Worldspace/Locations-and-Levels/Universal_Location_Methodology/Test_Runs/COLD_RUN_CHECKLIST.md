@@ -306,8 +306,8 @@ not in it** — and that transition is where Run 14 died. **It does not announce
 > intersection SILENTLY.*** **An absent assertion is not a failed one (M-106).**
 > Tags `A`/`W`/`I`/`B`; char-spans as `[line,line,"A","G2",start,end]`. **Ranges must tile 1..n.**
 >
-> **ADMISSIBLE (A)** = attribute-tier: physical/geographic **G2** · founding **G4** · function/industry **G3**
-> · routes **G5** · census/composition **G8** · dated events **G6** · real-world basis **G7** · symbols **G1**
+> **ADMISSIBLE (A)** = attribute-tier: physical/geographic **G2** · founding **G4** *(founders from `Founding_Register.md` only)* · function/industry **G3**
+> · routes **G5** · census/composition **G8** · dated events **G6** · real-world basis **G7** *(coordinate, physical site and inherited infrastructure only; never the operator as a cause, `DR-19`)* · symbols **G1**
 > · pointer tables · open-question lists.
 > **WITHHELD (W)** = any prior culture-pass conclusion: character, temperament, identity, capability profile,
 > differentiation claim, personality read, evaluative or interpretive prose, derived rationale.

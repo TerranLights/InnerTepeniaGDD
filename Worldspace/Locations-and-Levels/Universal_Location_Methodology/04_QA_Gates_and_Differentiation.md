@@ -140,10 +140,13 @@ best contradiction detector available.
 
 **Gate 4 — Swap test.** For each finding: would it survive essentially unchanged if swapped onto a comparable
 location? **Pick the partner most likely to survive the swap, not a convenient comparable** — the gate is only
-informative if it could plausibly fail. **Record which finding was weakest under the swap**, not merely that the
+informative if it could plausibly fail. ⛔ **In a ULM / CST / RWBEM pass the partner is never another Tepenian
+city** (`00_RUNBOOK.md`, THE LAW OF ONE LOCATION): swap onto a real-world comparable or a generic location of the
+same type, and ask the peer-free question, *would this be true anywhere?* **Record which finding was weakest under the swap**, not merely that the
 set passed. A gate that only ever reports success is not being run honestly.
 
-**Gate 5 — Cross-location consistency.** Export/import coherence against neighbors; **shared-environment
+**Gate 5 — Cross-location consistency.** Export/import coherence against neighbors *(RELATION: what flows and
+where it lands, read from canon such as the Division of Industry, never from another location's culture pass)*; **shared-environment
 consequences** (anything vented, emitted, sounded or spilled arrives somewhere); and **new categories are
 legitimate discoveries** — the check is not *does this already exist, use that instead*, it is only *is the new
 thing named and cross-referenced so it enters canon cleanly?*
@@ -238,9 +241,9 @@ mechanism decides **against**, whether that outcome is as durable, and **whether
 **Gate 10 — The Review Panel.** `00f_Review_Panel.md`, **carried unchanged** — it is explicitly fit for this
 methodology and only the casting changes. Six Flat Archetypes, plus the **Passer-Through** and **Neighbor**
 (both mandatory), plus the **Lover faculty's question every time** — *is this place alive, and could anyone love
-it?* Five dispositions: **accepted · noted · rejected · refereed · unmet.**
-> **`unmet` should be common**, and it measures **what a location knowingly protects** rather than how hard the
-> panel was run. **A low count is not a soft panel** — it usually means the location's problems are absences it
+it?* Six dispositions: **accepted · noted · rejected · refereed · unmet · declined.**
+> **Refusals — `unmet` and `declined` together — should be common.** `unmet` measures **what a location knowingly
+> protects** rather than how hard the panel was run, so **a low `unmet` count is not a soft panel** — it usually means the location's problems are absences it
 > does not know it has, and *you cannot refuse to surrender something you do not know you hold.*
 > **A position that cannot be cast at all is a finding**, and a strong one.
 
@@ -485,15 +488,18 @@ and deficit-address table first, because that is what everything else descends f
    next pass; **write the comparison as a table on at least four axes**, and include the **tense** axis — *where
    and when the loss happens* — which is the one most often skipped and the one that most often separates two
    locations that otherwise look identical.
-3. **Name the axis the category answers on**, in bold, and confirm no completed sibling already uses it.
-   **Different content is not differentiation; a different question is.**
+3. **Name the axis the category answers on**, in bold. ⏸️ *Confirming that no completed sibling already uses
+   it is TERMINAL-ONLY, like steps 1–2.* **Different content is not differentiation; a different question is.**
 4. **After completing a location, add its column in the same commit.**
 
 ## III.3 Sibling sets of different sizes
 
+> ⏸️ **TERMINAL-ONLY for a ULM / CST / RWBEM pass** (the 2026-09-06 ruling above). In-run, every location takes
+> the III.4 path.
+
 | Set size | How to run it |
 |---|---|
-| **Large** (20+) | Full table. **Check the most recently written first** — collisions cluster there, and that comparison will produce most of the work. |
+| **Large** (20+) | Full table, with all columns present. |
 | **Medium** (5–20) | Full table; expect most pairs to eventually be compared directly. |
 | **Two** | **Write them together.** Two locations holding one faculty at opposite extremes are each other's exact remedy — and **the remedy is unacceptable**, because taking it means conceding the other's authority over that faculty. Writing them months apart wastes the sharpest contrast available. |
 | **One** *(no siblings)* | See below. |
@@ -561,22 +567,21 @@ sole polity, a one-off megastructure.
   panelist has a standpoint from which to doubt it.
 - **A recorded failure is not a fixed failure.** When a discipline names an example, open it and confirm the
   text changed.
-- **And one specific to this methodology, stated now rather than after it bites:** **none of this has been run
-  on anything.** The district gates each descend from a named pass that went wrong. These do not. **The first
-  several real runs should be treated as tests of the instrument as much as of the location**, and every gate
+- **And one specific to this methodology, stated before it bit:** **when these gates were written, none of
+  them had been run on anything.** The district gates each descend from a named pass that went wrong; these
+  began without that history. **Every real run is a test of the instrument as much as of the location**, and every gate
   that fires — or conspicuously fails to — should be recorded here with the location it happened on.
 
 ---
 
 # Part V — INSTRUMENTS ON TRIAL
 
-> ## ⚠⚠ NOTHING IN THIS PART IS LAW. **It is a proposal with a stated falsification condition, awaiting a second location.**
+> ## ⛔⛔ MANDATORY, AND STILL MEASURED. **Every instrument in this Part runs on every step, every phase, every city** *(developer ruling 2026-09-11, §V.4; `00_RUNBOOK.md` Step 4, the `T1`–`T8` BINDING block)*.
 > **Added 2026-09-11 at the developer's direction:** ***"append it as a test, so that we can see how it flies
 > on a different city to see if the same defects still happen."***
 >
-> ⛔ **Do not cite Part V as binding. Do not enforce it in a review.** A pass that ignores it entirely is not in
-> violation of anything. **Its only obligation is on the pass that agrees to run the trial, and that obligation
-> is to RECORD, not to comply.**
+> ⛔ **A pass that skips this Part is in violation.** **Its obligation is to COMPLY AND RECORD:** the stated
+> falsification condition stands, and every pass fills it in.
 
 **Why this Part exists in this form rather than as a new rule:** Part IV, above, says a perfect prediction
 record from a self-grader is house style rather than evidence, and names two things that would restore it as a
@@ -722,7 +727,7 @@ recorded rather than tuned away.**
 > ### ⛔⛔ SUPERSEDED 2026-09-11 — **DEVELOPER RULING: `T1`–`T8` ARE MANDATORY, EVERY STEP, EVERY PHASE, EVERY CITY**
 > > ***"Not just on Davis. Every step, every phase, for EVERY CITY. That's why it's IN THE TEMPLATE."***
 >
-> ⭐ **RECORDING REMAINS REQUIRED** — *the falsification conditions in §9.1/§V.2.4 stand and must still be
+> ⭐ **RECORDING REMAINS REQUIRED** — *the falsification conditions in this file's §V.3 and §V.2.4 and in `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §9.1 stand and must still be
 > filled in.* ⛔ **But recording is now IN ADDITION to complying, never INSTEAD of it.**
 
 ~~**The obligation is to RECORD, not to comply.**~~ *A pass that applies none of `T1`–`T3` but runs the audit and
@@ -761,7 +766,7 @@ measures whether the defect recurs unaided.* ⛔ **No longer true. An unapplied 
 
 # Part V.2 — THE HANDOFF LEDGER, AND WHAT AN AXIS SHEDS
 
-> ## ⚠⚠ ALSO ON TRIAL. **Same terms as Part V: a proposal with a falsification condition, awaiting a second location.**
+> ## ⛔⛔ ALSO MANDATORY, AND STILL MEASURED. **Same terms as Part V: runs on every step, phase and city, with a falsification condition every pass records.**
 > **Added 2026-09-11 at the developer's direction:** ***"append them to Part V as an additional test trial so we
 > can see how effective they are."***
 >
@@ -907,7 +912,7 @@ is why `C2` below is not a reminder but the precondition for every other check h
 ### ⛔⛔ GUARDS
 
 - ⛔ **DO NOT retrofit `C1`–`C5` to `Zhongshan_Opus`, and do not add the missing sweep blocks to Phases 3–6
-  and 10.** ***It is the baseline.*** *The `2-of-8` figure is the only number the trial has to beat.*
+  and 10.** ***It is the baseline.*** *The `2-of-8` figure (formal enumerations before `Phase 8`'s repair; `3-of-8` after it, §V.2.2) is the only number the trial has to beat.*
 - ⛔ **DO NOT run this on `Zhongshan_Sonnet`** — *held control, Phase 3, divergence fork.*
 - ✅ **Run it on the NEXT CITY to open a pass.**
 - ⚠ **This compares INSTRUMENTS across runs, not cities.** *No content crosses. `THE LAW OF ONE LOCATION`
@@ -917,5 +922,5 @@ is why `C2` below is not a reminder but the precondition for every other check h
 
 | Location | Date | Outbound rows | Phases w/ rows and NO enumeration | Formal / informal / none | Lover faculty | Rested on a late repair? | C1–C5 applied | Verdict |
 |---|---|---|---|---|---|---|---|---|
-| **`Zhongshan_Opus`** | **2026-09-11** | `22` | ⛔ **`5` of `8` eligible** | `3 / 1 / 5` *(and one of the 3 is a repair)* | ✅ **PASS** | ⛔⛔ **YES — entirely** | ⛔ **none — baseline** | ⚠ **BASELINE. Not a test of the fix** |
+| **`Zhongshan_Opus`** | **2026-09-11** | `22` | ⛔ **`5` of `8` eligible** | `3 / 1 / 4` *(and one of the 3 is a repair)* | ✅ **PASS** | ⛔⛔ **YES — entirely** | ⛔ **none — baseline** | ⚠ **BASELINE. Not a test of the fix** |
 | *(next city)* | | | | | | | | |

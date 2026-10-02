@@ -5,9 +5,10 @@
 > **Created 2026-09-11** at the developer's direction, after the Opus-array city-3 pass:
 > ***"copy it to a separate working file that includes the two appended tests so that we can test that independently."***
 >
-> ⭐ **Everything from the canonical recipe is carried unchanged.** ⛔ **Every addition is marked 🧪 and is
-> NON-BINDING.** **A pass run against this file that ignores every 🧪 block has still run the recipe correctly —
-> and is, in fact, one of the two informative outcomes.**
+> ⭐ **Everything from the canonical recipe is carried unchanged.** **Every addition is marked 🧪.** ⛔ **`T1`–`T8`
+> are MANDATORY on every step, every phase, every city** *(developer ruling 2026-09-11, §N.3; `00_RUNBOOK.md`
+> Step 4)*: **a pass that ignores the 🧪 blocks has not run the recipe.** Their falsification conditions (§9.1)
+> still stand and are recorded in addition.
 
 **Written 2026-09-07, from the measured failures of city 2.**
 **Applies to any location of any type, in any setting that uses this methodology.**
@@ -216,7 +217,7 @@ it, so the generated file must carry it as an explicit, dated line.**
 >
 > | Law | Address | One-line operational form |
 > |---|---|---|
-> | ⭐⭐⭐ **Pre-war materials admissible — the PERSISTENCE TEST** | `DEVELOPER_RULINGS_LOG.md` `DR-7` | *GPS-purposes-only does NOT exclude the real site's record of what a prior lineage left behind — audio logs, journals, manifests, maps, orientation manuals. **Test: would this material still be here if the originating nation had left and never returned? YES → admissible as an ordinary `G4` input. NO → it is an ongoing national presence wearing a material's clothing, and is excluded.** `DR-7` admits the MATERIALS; it admits NOTHING about who made them — never infer the founding population's character from the operator nationality.* |
+> | ⭐⭐⭐ **Pre-war materials admissible — the PERSISTENCE TEST** | `DEVELOPER_RULINGS_LOG.md` `DR-7` | *GPS-purposes-only does NOT exclude the real site's record of what a prior lineage left behind — audio logs, journals, manifests, maps, orientation manuals. **Test: would this material still be here if the originating nation had left and never returned? YES → admissible as an ordinary `G4` input. NO → it is an ongoing national presence wearing a material's clothing, and is excluded.** `DR-7` admits the MATERIALS; it admits NOTHING about who made them — never infer the founding population's character from the operator nationality.* **Also inheritable: physical infrastructure (`DR-24`) and the station's research, equipment and techniques (`DR-26`). Never inheritable: a tradition (`DR-25`). Never a reason for founders, identity, culture, naming or ties: the operator or its nation (`DR-19`); founders come only from `Founding_Register.md`.** |
 >
 > ⭐ **Why this must be templated rather than re-derived per city:** it was escalated and ruled on Davis's own
 > Step 1, in under a day, precisely because no prior pass had this question answered anywhere reachable at the
@@ -246,9 +247,9 @@ THIS city's case differs, not on re-deriving the question from nothing.*
 
 | Standing item | Default disposition | Why it does not need a fresh developer question |
 |---|---|---|
-| **`Resettled` — prior POPULATION or merely prior OCCUPANCY?** (`01` §1.2) | ⏸️ **B — flag once, does not block** | **Corpus-wide definitional gap, unresolved in `01` §1.2 itself.** Most Tepenian cities sit on a real pre-war station and will hit this. A location's Type/modifier verdict should be reachable on grounds OTHER than this one (declining `Resettled` on the modifier's own obligatory-question test, or on the scale/frame argument — see Davis's `00_Frame.md` §0.1a for the worked pattern) — **if it is, this stays parked and is not asked again.** If a location's verdict genuinely CANNOT be reached without this ruling, that is the signal it has become a real blocker — escalate then, not by default |
-| **`Settlement + Installation` — does `01` §1.1's "expect this doubling" collide with the GPS law?** | ⏸️ **B — flag once, does not block** | Same shape as above, for every station-founded city. Flag it in this Pre-Trip's laws/open-items section once; do not re-raise per step |
-| **`City_Vision_Notes/` is struck corpus-wide** (`00.1a`, developer ruling 2026-09-11) **— but RWBEM Step D's own text still calls it PRIMARY AND UPSTREAM** | ✅ **A — resolves automatically, every time, no exception** | **The strike outranks RWBEM Step D's instruction, for every city, permanently, until RWBEM's own text is corrected.** When THIS city's RWBEM Step D is reached: apply the strike, proceed, do not open the file, do not ask |
+| **`Resettled` — prior POPULATION or merely prior OCCUPANCY?** (`01` §1.2) | ✅ **A — resolved by `DR-28`** | **A real station's occupancy is never a prior population.** `Resettled` cannot rest on it; the station's records, research and equipment are inherited as such (`DR-25`, `DR-26`). The modifier remains available only for an in-world Tepenian prior population |
+| **`Settlement + Installation` — does `01` §1.1's "expect this doubling" collide with the GPS law?** | ✅ **A — resolved by `DR-28`** | **No city is typed `Installation` because a real station stood at its coordinates.** Do not raise it per city |
+| **`City_Vision_Notes/` is struck corpus-wide** (`00.1a`, developer ruling 2026-09-11) **— but RWBEM Step D's own text still calls it PRIMARY AND UPSTREAM** | ✅ **A — resolves automatically, every time, no exception** | **The strike outranks RWBEM Step D's instruction, for every city, permanently, until RWBEM's own text is corrected.** When THIS city's RWBEM Step D is reached *(after the ULM, never inside it, `DR-14`)*: apply the strike, proceed, do not open the file, do not ask |
 | ⭐⭐ **A generator returns null, ambiguous, or under-grounded at Step 1** | ✅ **A, by default — check the later steps first** | ***Before escalating an inherited-material gap found at Step 1: ask whether a LATER STEP OF THIS SAME PASS will naturally re-examine it as part of its own ordinary work*** *(Step 2 profiling that generator again, Step 3 researching the deficit it names, Step 7's QA gates).* **If yes, defer to that step and say so — do not ask the developer preemptively for something the pass's own machinery is about to produce.** Only escalate if the item survives past the step that would naturally have resolved it |
 | ⭐ **An inherited line's wording presumes a fact the census/composition data doesn't actually establish** *(e.g. Davis's "chosen/selected" ambiguity)* | ✅ **A — the deriving pass's own call** | **This is ordinary interpretive analysis under Gate 9's asymmetry framework, not a developer question.** The step that would write the finding resolves it in-pass, records which reading it adopted and why. Escalate only if the two readings would produce genuinely irreconcilable downstream consequences that no amount of in-pass reasoning can settle |
 
@@ -663,6 +664,25 @@ convergence itself is evidence, per `04`'s own point that independently-reached 
 single voice)*. ⏸️ **If the three outputs disagree in SUBSTANCE despite passing both rounds, that disagreement
 is itself a result — log it, do not silently pick one.**
 
+> ### ⭐⭐ AMENDED 2026-09-28 — **THE WRITTEN CONTENT IS A MERGE, NOT A PICK.** *(Developer instruction at Mirny's Step −1 — `M-246`.)*
+> > *"When different subagents process data, think about the information, and reach results, assuming that the
+> > results are not contradictory to each other, that itself could be worth writing to the files, because one
+> > subagent may find a fact that another subagent missed."*
+>
+> ⛔ **"Any one of the three unanimously-cleared outputs may be used" (above) is SUPERSEDED.** The written content
+> is built in two halves:
+> 1. **CONTRADICTION → the most conservative current (post-Round-3) view**, with the split named in the row
+>    (`00_RUNBOOK.md` §C.2 L1221–1241, by analogy). ⚠ **Named exception:** population-origin / ethnic material
+>    goes to DEMOTED, never EXCLUDED — `00_RUNBOOK.md` §C.9c (*"a pass that refuses all ethnic material"*) makes outright refusal an error in its own right.
+> 2. **NO CONTRADICTION → UNION.** A fact only one reader found is written, and credited to its finder in a
+>    "found by / confirmed by" table.
+>
+> ⭐ **Why:** on its first use, the three best finds were each seen by **one** reader in Round 1. An
+> intersection-only merge — or picking one reader's output — would have discarded exactly those.
+> **Round 3's prompt now carries a fifth section** after the four questions: *disposition differences — (a) the
+> other reader is right · (b) mine is right · (c) a developer question* — so every reader's current view is on
+> record for the merge.
+
 ## N.3 — ⚠⚠ THE COST, STATED PLAINLY, AND THE STANDING-PROTOCOL COLLISION
 
 ⛔ **This is the most expensive of the eight trial additions.** **Minimum 3× the reading cost of a normal
@@ -727,7 +747,7 @@ deliberately, not a mandatory expansion of scope.*
 
 ## N.6 — 📌 BASELINE — **there is none, and that is stated rather than fabricated**
 
-⛔ **`T8` has never been run.** *`Zhongshan_Opus` was written by a single continuous session, not by this
+⛔ **When this section was written, `T8` had never been run.** *`Zhongshan_Opus` was written by a single continuous session, not by this
 protocol — there is no "before" number to compare against, unlike `T1`–`T7`.* ✅ **The first real invocation
 IS the baseline. Record it in full, raw, in the results log below** — *`04` Part IV's own standing rule: a
 prediction stated in advance and then tested for the first time is worth more than a retrofit ever could be.*
@@ -778,7 +798,7 @@ prediction stated in advance and then tested for the first time is worth more th
 |---|---|---|---|---|
 | **−1** | The input contract | `# Step −1 — The input contract, before the frame` | `00_RUNBOOK.md` | `Stepwise_Execution/01_Spine/S01_Step_MINUS-1_The_input_contract_before_the_frame.md` |
 
-> 🧪 `T8` — **Step −1:** `Agent×3(general-purpose, T8_PROMPT{files: 00_RUNBOOK.md §"Step −1", the location's own Specs/vision-note set})` → `triple_read_verify.py` → cross-check → write `00.1_Step_MINUS-1_Input_Contract.md` only on UNANIMOUS.
+> 🧪 `T8` — **Step −1:** `Agent×3(general-purpose, T8_PROMPT{files: 00_RUNBOOK.md §"Step −1", the location's own Specs file})` *(`City_Vision_Notes/` is struck corpus-wide, `00.1a`; never dispatched)* → `triple_read_verify.py` → cross-check → write `00.1_Step_MINUS-1_Input_Contract.md` only on UNANIMOUS.
 
 | Step | Governing rule | Section | Origin | Extract |
 |---|---|---|---|---|
@@ -802,7 +822,7 @@ prediction stated in advance and then tested for the first time is worth more th
 |---|---|---|---|---|
 | **3** | Research, aimed at what Step 2 named | `# Step 3 — Research…` | `00_RUNBOOK.md` | `Stepwise_Execution/01_Spine/S05_Step_3_Research_aimed_at_what_Step_2_named.md` |
 
-> 🧪 `T8` — **Step 3:** `Agent×3(general-purpose, T8_PROMPT{files: 00_RUNBOOK.md §"Step 3" + the deficits Step 2 named + Real-World_Basis_Extrapolation_Method.md})` → `triple_read_verify.py` → cross-check → write `03_Research.md` only on UNANIMOUS. ⚠ *`LAW 0-R` binds here: a source is not exhausted because it was searched once — the cross-check in Round 3 is where that gets tested, not Round 2.*
+> 🧪 `T8` — **Step 3:** `Agent×3(general-purpose, T8_PROMPT{files: 00_RUNBOOK.md §"Step 3" + the deficits Step 2 named})` → `triple_read_verify.py` → cross-check → write `03_Research.md` only on UNANIMOUS. ⛔ *`Real-World_Basis_Extrapolation_Method.md` removed from this list 2026-09-29 (`DR-14`): RWBEM is not a ULM input; real-world comparables still run here through the ULM's own Step 3 research (`DR-15`).* ⚠ *`LAW 0-R` binds here: a source is not exhausted because it was searched once — the cross-check in Round 3 is where that gets tested, not Round 2.*
 
 | Step | Governing rule | Section | Origin | Extract |
 |---|---|---|---|---|
@@ -882,7 +902,7 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 | **1** | **P** Spec | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/`**`<City>.md`** | `MAPPED` |
 | **1** | **P** Energy grid | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Energy_Grid_Failure_Rationale.md` | `MAPPED` |
 | **1** | ⭐⭐ **P** Climate READER | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/`**`<REAL-WORLD STATION NAME>.md`** | `MAPPED` — ⛔ **keyed by STATION, not city — resolve via the alias set (§ STEP 1)** |
-| **1** | Stations | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Stations/` | background only |
+| **1** | Stations | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Stations/` | background only *(physical and infrastructure facts only, `DR-24`; a station's operator or nation is never a founder, identity or tie input, `DR-19`)* |
 | **1** | Div. of Industry `16` Half B | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` | ⛔ `QUERYABLE-BY-SCHEMA` — never grep by subject name |
 
 > 🧪 `T8` — **Phase 1:** `Agent×3(general-purpose, T8_PROMPT{files: the 5 rows above — Climate READER resolved via the alias set FIRST})` → `triple_read_verify.py` → cross-check → content feeds Step 1's `01_Inherited.md` and Phase 1's own text only on UNANIMOUS.
@@ -924,6 +944,8 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 | **5** | City_Cross_Subnet_Relationships | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Cross_Subnet_Relationships.md` | `MAPPED` |
 | **5** | City_Relationship_Database | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Relationship_Database.md` | `MAPPED` |
 | **5** | City_National_Connections | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_National_Connections.md` | `MAPPED` — ⚠ **draws on withheld/read-last material by its own stated method; open the header first (§ STEP 4)** |
+
+> ⛔ **The three city-relationship files are read for routes, trade, supply and population ties only.** A line in them that rests on the Background-Lore vignettes or Course of Events, or that ties cities through a real station, its operator, a namesake or "heritage", is **not an input** (`DR-19`, `DR-28`, `05` rule 3a). The tie itself is never dropped; its stated reason is.
 
 > 🧪 `T8` — **Phase 5:** `Agent×3(general-purpose, T8_PROMPT{files: the 6 rows above — City_National_Connections header checked FIRST for downstream withheld material, per §D STEP 4 of the recipe})` → `triple_read_verify.py` → cross-check → write `04_Phase_05_Relation_and_Geometry.md` only on UNANIMOUS.
 
@@ -1039,7 +1061,7 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 |---|---|
 | **Outbound handoff rows** | `22` |
 | ⛔ **Phases with rows addressed to them and NO enumeration** | **`5` of `8` eligible** |
-| **Sweep form: formal / informal / none** | `3 / 1 / 5` — *and one of the 3 is a repair* |
+| **Sweep form: formal / informal / none** | `3 / 1 / 4` — *and one of the 3 is a repair* |
 | **Quotation fragments tested** | `212` |
 | **Confirmed quotation defects** | `4` — ⛔ **`4` in CELLS, `0` in PROSE** |
 | **Position-coverage ledger** | ⛔ **Did not exist** |
@@ -1066,7 +1088,7 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 
 | Location | Date | Outbound | Phases w/ NO enumeration | formal/informal/none | Quot. defects `CELL`/`PROSE` | Lover faculty | Rested on a late repair? | T1–T7 applied | Verdict |
 |---|---|---|---|---|---|---|---|---|---|
-| *(baseline — see 9.2)* | 2026-09-11 | `22` | **`5` of `8`** | `3/1/5` | **`4` / `0`** | ✅ PASS | ⛔⛔ **YES** | ⛔ none | ⚠ **BASELINE, not a test** |
+| *(baseline — see 9.2)* | 2026-09-11 | `22` | **`5` of `8`** | `3/1/4` | **`4` / `0`** | ✅ PASS | ⛔⛔ **YES** | ⛔ none | ⚠ **BASELINE, not a test** |
 | | | | | | | | | | |
 
 ---

@@ -80,7 +80,7 @@ contamination; consulted at the end they are evidence."*
 | **1** | specs / physical facts | |
 | **2** | symbol assignment | |
 | **3** | composition, census, **and population change across snapshots** | |
-| **4** | founding and events | |
+| **4** | founding (founders from `Founding_Register.md` only) and events (never the Background-Lore vignettes or Course of Events) | |
 | **5** | the sibling set's differentiation instrument, if one exists | |
 | **6** | ⛔ **LAST — this location's own completed culture material** | ***as a CHECK, never as an input*** |
 
@@ -98,7 +98,7 @@ order before the pass has begun.** **Check `06` for the subject, and treat any h
 
 | ✅ OPEN from the start | ⛔ CLOSED until Step 6 |
 |---|---|
-| **All of this city's attributes** — spec, climate, founding, network position, symbol members | ⛔ **Other cities' CULTURE files** |
+| **All of this city's attributes** — spec, climate, founding (founders from `Founding_Register.md` only), network position, symbol members | ⛔ **Other cities' CULTURE files** |
 | **Census, composition, Division-of-Industry figures** *(all cities — these are attributes)* | ⛔ **Other cities' `Full_Extrapolation` / `Mega_Init` / robot-culture / Enneagram reads** |
 | **Universe canon** · **real-world research** · **infrastructure** · **relationship files** | ⛔ **`City_Master_Reference/` entries for other cities** |
 | **This city's research log** | ⛔ **`Worked_Examples_Archive/`** |
@@ -121,9 +121,10 @@ order before the pass has begun.** **Check `06` for the subject, and treat any h
 derivation precisely so Gate 6 has something independent to test.*** **Open them early and the gate tests
 nothing — the pass will already have been shaped by them.**
 
-**Until Gate 6 fires, run all four `04` Part III.4 substitutes and say in the pass that you did:**
-own earlier states · the nearest analogous location at another scale · real-world comparables ·
-the generator-conflict method.
+**Until Gate 6 fires, run the PEER-FREE substitutes (`01` §5.3a; `00_RUNBOOK.md`, the law of one location) and
+say in the pass that you did:** real-world comparables, through the ULM's own Step 3 research (`DR-15`) · the
+generator-conflict method · the location's own earlier states *(deferred with the histories, `DR-16`)*. The
+"nearest analogous location at another scale" substitute reads another location, so it is not run in-pass.
 
 ---
 

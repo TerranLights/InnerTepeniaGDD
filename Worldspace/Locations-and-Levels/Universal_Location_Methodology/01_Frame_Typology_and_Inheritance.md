@@ -114,7 +114,9 @@ are in `00_RUNBOOK.md` §C.8)*:
   **Anywhere founded as an installation and now inhabited as a home carries `Settlement + Installation`**, and
   ***the tension between "staffed" and "settled" is a live source of material*** rather than a labeling
   awkwardness. **Expect this doubling wherever a setting's history includes purpose-built outposts that
-  outlived their purpose.**
+  outlived their purpose.** ⛔ *For this project's cities: being sited where a real station stood is not "founded
+  as an installation". The station is a coordinate and an infrastructure fact (`DR-19`, `DR-24`); no city is typed
+  `Installation` on that ground (`DR-28`).*
 - ### ⭐ **A TYPE THE PARENT METHODOLOGY LACKED IS WHY `Interstitial` EXISTS.**
   **A location that returns *nothing* from every substrate-driven step — no capability row, no assigned
   member, no modality — is not a defective settlement.** ***It is very often an Interstitial, and §1.3 gives
@@ -132,7 +134,7 @@ Each adds obligatory questions. A location may carry several.
 | **Ruined / abandoned** | Who left, how fast, and what did they not take? Who is here now who is not a resident? What does the ruin testify to that its living version would have concealed? |
 | **Contested** | Whose account of this place is the pass writing? **Two passes may be required, and disagreeing is the correct outcome.** |
 | **Seasonal / rotational** | Which population is the subject — the winterers or the summer crew? What does the place do when nobody is here? |
-| **Resettled** | What did the second population inherit, misread, or fail to notice about the first? *(Commonly assigned and systematically under-used — check every location carrying it.)* |
+| **Resettled** | What did the second population inherit, misread, or fail to notice about the first? *(Commonly assigned and systematically under-used — check every location carrying it.)* ⛔ *A real station's people are never the first population (`DR-28`); what they left — records, research, equipment — is inherited as such (`DR-25`, `DR-26`).* |
 | **Restricted / sacred** | Who may not enter, who decides, and what does exclusion cost the excluded? |
 
 ## 1.3 The Interstitial procedure — the type the district methodology had no answer for
@@ -264,8 +266,8 @@ Replace them:
 | What is the counterculture? | **Who is here in defiance of what this place is now supposed to be?** |
 | What is the visitor experience? | **This becomes the primary phase**, because every person here is a visitor. |
 
-**And `Cultural_Synthesis_Techniques.md` §7, The Surviving Witness, is promoted from one technique among sixteen
-to the primary generative instrument.** A Band 0 location's entire content is testimony: building stock, tool
+**And The Surviving Witness — reading what the place itself testifies to — is promoted to the primary generative
+instrument.** A Band 0 location's entire content is testimony: building stock, tool
 wear, a route people avoid, repairs that do not match, an inventory that does not balance, a population gap.
 **Run it first and run it hardest.**
 
@@ -290,7 +292,7 @@ Declared separately from type and band because a settlement can be any of these 
 | **Seasonal / rotational** | Which population is the subject, and what does the handover feel like? **The two populations may not like each other**, and that is standard rather than exceptional. |
 | **Transit-only** | Who maintains it, and do they count as living here? |
 | **Contested** | Whose account is this? *(See §1.2 — two passes may be correct.)* |
-| **Resettled** | What did the second population inherit and misread? |
+| **Resettled** | What did the second population inherit and misread? *(Never a real station's people, `DR-28`.)* |
 
 > **⚠ A population drop that is migration, not decline.** *(Added 2026-08-31, from a real case.)* Where a
 > setting tracks population across more than one snapshot (a census pair, a before/after), a later figure
@@ -410,7 +412,7 @@ parent determines, or treating as inherited something the location actually orig
 |---|---|---|
 | **Determined** | Fixed by the parent; the location has no say. Climate, currency, the calendar, the language family, physical law | **Writing a local variant of a thing that cannot vary.** A district does not have its own climate. If the pass produced one, the pass is wrong. |
 | **Inflected** | The parent supplies the form; the location supplies its version. A national holiday, observed *this* way | **This is where most good local culture actually lives**, and a pass that skips it in favor of wholly-invented material is working harder for a worse result. |
-| **Originated** | Exists here, comes from nowhere above. Must be differentiated against siblings | **Claiming origination for something inherited** — which is how two siblings end up "independently" inventing the same custom. |
+| **Originated** | Exists here, comes from nowhere above. Its differentiation against siblings is the terminal check on the finished corpus, never in-run (`00_RUNBOOK.md`, THE LAW OF ONE LOCATION) | **Claiming origination for something inherited** — which is how two siblings end up "independently" inventing the same custom. |
 | **Aggregated** | The parent's own character is partly the sum or the tension of its children | Ignoring it produces a Band 5–6 polity written as if it were a large Band 3 town. |
 
 **The Inflected class is the workhorse and is systematically under-used.** When a category comes up empty, the
@@ -457,7 +459,7 @@ one, it must say so and name the child findings that need revision. This is Gate
 > generator.
 >
 > **So read the rest of this section in that order:** §5.3a is the default path. §5.3b applies only when
-> siblings exist **and are already written.**
+> siblings exist **and are already written**, and for a ULM / CST / RWBEM pass only at the terminal check.
 
 ### 5.3a — The default: one location, no comparison set
 
@@ -497,8 +499,8 @@ one, it must say so and name the child findings that need revision. This is Gate
    > the technique — it is the technique correctly refusing to violate Gate F.**
 2. **The nearest analogous location at a different scale.** A unique station against the cities; a unique
    polity against its own subnets.
-3. **Real-world comparables**, via `Real-World_Basis_Extrapolation_Method.md` — **divergence stated
-   explicitly**, per the source-not-specification rule.
+3. **Real-world comparables**, via the ULM's own Step 3 research (`00_RUNBOOK.md` Step 3; `DR-15`) — for what
+   is known to exist in the place, **divergence stated explicitly**, per the source-not-specification rule.
 4. **The generator-conflict method** (`02` §5) — **which needs no comparison set at all, and is the reason
    this methodology runs three generators rather than one.**
 
@@ -507,11 +509,15 @@ un-run check.
 
 ### 5.3b — When a sibling set does exist
 
+> ⛔ **In a ULM / CST / RWBEM pass this subsection is TERMINAL, not in-run** (`00_RUNBOOK.md`, THE LAW OF ONE
+> LOCATION, 2026-09-06). The pass adds its own column to the differentiation table and never reads another
+> location's. The strategies below govern the terminal differentiation check on the finished corpus.
+
 Sibling sets vary enormously:
 
 | Situation | Example | The differentiation strategy |
 |---|---|---|
-| **Large set** | 35 outer cities | Full table; check the most recently written first *(collisions cluster on the previous pass — `00c` Gate 6b)* |
+| **Large set** | 35 outer cities | Full table |
 | **Small set** | 6 subnets, 13 districts | Full table, and expect every pair to be compared |
 | **Set of two** | A mirrored pair | **May be written together** — the mirrored-pair rule: two locations holding one faculty at opposite extremes are each other's exact remedy and should not be written a month apart. **See the warning below before using this.** |
 | **No siblings** | A unique station · a sole polity · a one-off megastructure | **Use §5.3a.** This is the ordinary case. |

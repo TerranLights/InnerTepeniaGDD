@@ -13,11 +13,11 @@ worldbuilding a Tepenian location** — before the war, before Amundsen Tower's 
 
 | Act | Span | What the people ARE |
 |---|---|---|
-| **Act 1** | 2564 → early 2600s (~40–50 years, **~18%** of the period) | *"Chinese / Japanese / American / Russian / Mexican who live in Antarctica."* National-ethnic-origin cultures are still fresh |
-| **Act 2** | ~late 2600s / early 2700s onward (**~82%** of the period) | **Properly Tepenian, in both name and cultural identity.** Origin is now ANCESTRY, not identity |
+| **Act 1** | 2564 → somewhere in the 2600s *(a hazy range; exact dates come after the new vignettes are written and ordered on the timeline — developer, 2026-10-01)* | *"Chinese / Japanese / American / Russian / Mexican who live in Antarctica."* National-ethnic-origin cultures are still fresh |
+| **Act 2** | by the late 2600s / early 2700s, onward (most of the period) | **Properly Tepenian, in both name and cultural identity.** Origin is now ANCESTRY, not identity |
 
 ⚠ **The era spans both Acts and is mostly Act 2.** A pass that writes its characters as their founding nation
-is writing the wrong Act for about 200 of the 248 years.
+is writing the wrong Act for most of the 248 years.
 
 ## The consolidating mechanism
 

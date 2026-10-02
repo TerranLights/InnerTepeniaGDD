@@ -3,7 +3,7 @@
 > ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 6. Extracted in full from
 > `04_QA_Gates_and_Differentiation.md` Part III (L417–517) and `00_RUNBOOK.md` §"Step 6" (L2843–2892), both
 > re-read in full 2026-09-15. **Nothing below is Casey-specific, Davis-specific, or Mirny-specific — it is the
-> same for all 37 cities and does not need re-extraction per city.**
+> same for all 38 cities and does not need re-extraction per city.**
 
 ## Governing rule — Part III is WRITE-ONLY during a per-location pass, ruled 2026-09-06
 
@@ -82,7 +82,7 @@ because it already failed once, when two districts were given nearly the same fo
 
 ## Destination addresses
 
-- The 37 cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md` (created 2026-09-04)
+- The 38 cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md` (created 2026-09-04)
 - The 13 districts → `…/Concordia-City/Districts/Cross_District_Differentiation_Table.md`
 - ⚠ NOT this instrument: `…/Cities/Division_of_Industry/02_Cross_City_Industry_Differentiation_Table.md` — a
   different guard for a different pass (the necessary-industries bulk run); both exist, neither replaces the

@@ -2,7 +2,7 @@
 
 > ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 8. Extracted in full from
 > `Disciplines/00f_Review_Panel.md` (832 lines), read in full 2026-09-15. **Nothing below is city-specific — it
-> is the same panel roster and procedure for all 37 cities.** Only the actual casting and objections raised for
+> is the same panel roster and procedure for all 38 cities.** Only the actual casting and objections raised for
 > a given city are Tier C — that's Step 8's own future content, not this sheet.
 
 **Placement:** after Gates 0–9, before the standout is finalized — the panel frequently changes what the
@@ -90,8 +90,8 @@ Archetype (Panels A/B) and a faculty (Panel D) — always name the system: "the 
 |---|---|---|---|
 | King | order, blessing, generativity, stewardship of the whole | The Tyrant | The Weakling |
 | Warrior | disciplined action, boundary, transpersonal devotion | The Sadist | The Masochist |
-| Magician | knowledge, technique, insight, containment | The Manipulator | The Denying "Innocent" One |
-| Lover | connection, aliveness, sensuality, vision | The Addict | The Impotent Lover |
+| Magician | knowledge, technique, insight, containment | The Detached Manipulator | The Denying "Innocent" One |
+| Lover | connection, aliveness, sensuality, vision | The Addicted Lover | The Impotent Lover |
 
 **The four standing questions:**
 - **The King** — *does this place bless anyone?* Who is seen and valued here, by what mechanism, and who is
@@ -109,9 +109,9 @@ Archetype (Panels A/B) and a faculty (Panel D) — always name the system: "the 
 - **Weakling** — where does this place abdicate; where does authority exist on paper with nobody exercising it?
 - **Sadist** — where is hardness admired past the point of function?
 - **Masochist** — where does this place absorb harm and call it virtue?
-- **Manipulator** — who withholds what people need to know for their own well-being?
+- **Detached Manipulator** — who withholds what people need to know for their own well-being?
 - **Denying "Innocent" One** — what does this place refuse to know that it already knows?
-- **Addict** — what is this place lost in, pursuing intensity past function?
+- **Addicted Lover** — what is this place lost in, pursuing intensity past function?
 - **Impotent Lover** — what has gone dead here? (Ask of any place that reads as competent and joyless.)
 
 ## Panel E — the immature precursors (the developmental axis)
@@ -238,8 +238,9 @@ a concrete person notices concrete things.
 - The roster transfers across settings and media unchanged; only the casting changes.
 - Six mandatory positions is the practical ceiling for attentive use — the Arcs and Shadows are a bench, not a
   checklist; running all twenty-four on every location produces shallower passes, not broader coverage.
-- `unmet` should be common; a location that satisfies every position has no character. Expect several `unmet`
-  results, clustering on the positions the location is worst equipped for — exactly where its identity is
-  sharpest.
+- Refusals (`unmet` and `declined` together) should be common; a location that satisfies every position has no
+  character. Expect several refusals, clustering on the positions the location is worst equipped for — exactly
+  where its identity is sharpest. The `unmet` share alone is a self-knowledge reading, and a low `unmet` count
+  is legitimate.
 - Positions drift toward the author's sympathies over repeated use — the Neighbor and the shadows are most
   prone to softening, since both are written to be unwelcome; check periodically that they still bite.

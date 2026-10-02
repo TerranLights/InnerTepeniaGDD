@@ -1,7 +1,7 @@
 # Step 0 — Frame
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2416–2479.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2376–2417`, which overlapped the CORRECT range by only 5% and was mostly Step −1's text. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the entire `📂 Required Reading` box, the robot-physiology addition to 0.2, the `Test_Runs/` exclusion under 0.4, and the `Run_Modes` restatement. This is `R-10`'s single largest measured card-content gap. Found and fixed 2026-09-14, on the Davis pass's own Step 0 — see `M-221`, the general form of this exact defect.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2455–2522.** *(Re-verified 2026-10-01 against the current `# Step` headings.)* *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2376–2417`, which overlapped the CORRECT range by only 5% and was mostly Step −1's text. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the entire `📂 Required Reading` box, the robot-physiology addition to 0.2, the `Test_Runs/` exclusion under 0.4, and the `Run_Modes` restatement. This is `R-10`'s single largest measured card-content gap. Found and fixed 2026-09-14, on the Davis pass's own Step 0 — see `M-221`, the general form of this exact defect.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -53,13 +53,17 @@ from `01`'s own block; see the required-reading box above)*. **Every line change
 **0.2 Read the disciplines — ⛔ FROM `../../Disciplines/`, THE ULM'S OWN COPIES. Not the originals.**
 `../../Disciplines/00b_General_Population_Discipline.md` *(and its Band-1 inversion, `01` §2.3)* ·
 `../../Disciplines/00d_Shadow_Proportion_Discipline.md` · `../../Disciplines/00f_Review_Panel.md` ·
-`../../Disciplines/Cultural_Synthesis_Techniques.md` · `../../Disciplines/Real-World_Basis_Extrapolation_Method.md` ·
 ⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** *(`§C.10` — added here
 2026-09-09; every phase is a question about the majority population, so this is not a Phase-8 food check and
 belongs at Step 0, not discovered mid-pass)*.
-> ***The originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** — between
-> them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is next
-> *(M-130)*. **They open at Step 7 with everything else.** **See `../../Disciplines/README.md`.**
+> ⛔ **`../../Disciplines/Cultural_Synthesis_Techniques.md` and `../../Disciplines/Real-World_Basis_Extrapolation_Method.md`
+> are NOT read in a ULM pass** *(removed from this list 2026-09-29, developer ruling `DR-14`: "the CST and RWBEM are
+> for later")*. They run corpus-wide **after** all 38 cities' ULM (the 2026-09-28 breadth-first ruling). ⭐ **Real-world
+> comparables still run in the ULM** — through its own Step 3 research, for things known to exist in the place;
+> RWBEM later adds what would *probably* also exist there *(`DR-15`)*.
+> ***The district originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** —
+> between them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is
+> next *(M-130)*. **They open at Step 7 with everything else.** **See `../../Disciplines/README.md`.**
 
 **0.3 Run Gate 0** — reconcile any completion claim against the file, **and the file's own open-questions list
 against what has actually been resolved elsewhere.** Cheapest gate, highest yield, fails in both directions.
@@ -80,7 +84,7 @@ disciplines have been written since, and inherited findings are where Gate 9 fir
 > prevents opening it early]. This is the single point where a warm run can silently destroy its own value."*
 >
 > **1.** specs / physical facts → **2.** symbol assignment → **3.** composition, census, **and population
-> change across census snapshots** → **4.** founding and events → **5.** the sibling set's differentiation
+> change across census snapshots** → **4.** founding (founders from `Founding_Register.md` only) and events (never Background-Lore) → **5.** the sibling set's differentiation
 > instrument, if one exists → **6.** *last of all*, the location's own completed culture material.
 >
 > **Culture material is read last and read as a CHECK, never as an input** — see the circularity rule in

@@ -205,6 +205,12 @@ point.
 
 **What stays fully usable:** pure physical/geographic facts about the land or object itself — terrain,
 climate, materials, dimensions, physical constraints. These hold regardless of who built or claimed anything.
+**The surviving infrastructure is usable as infrastructure:** what was built there, by whom and when, stated as
+a fact about the physical plant the newcomers inherited — never as the reason for who they are. **So is what
+that infrastructure physically hands down:** its records (logs, journals, manifests, maps) and its research
+results, equipment and techniques, which newcomers can take up from those records and that equipment. **What a
+site never hands down is a tradition, an identity or a people** — nothing passes person to person across the
+gap.
 **When genuinely unsure whether a real-world thread is safe, omit it rather than reframe it.**
 
 *(This project's own binding instance of this principle — with worked violation examples and a case study —
@@ -362,8 +368,8 @@ might already exist under a different name or genuinely contradict established f
 > stale numbers.*
 >
 > ⛔ **DO NOT READ:** *`City_Megasheets/` in full — Mega_Init · Full_Extrapolation · `*_Cross_Reference_Synthesis.md`
-> · the subnet Ultra-Megasheets · the Compilation Guide's Step 2.* ⚠ **All 41 city Cross-Reference Synthesis
-> files sit inside that tree.**
+> · the subnet Ultra-Megasheets · the Compilation Guide's Step 2.* ⚠ **All 41 Cross-Reference Synthesis files
+> (36 city, 5 subnet) sit inside that tree.**
 >
 > ## ✅ READ INSTEAD — cities. ⛔⛔ **REVISED 2026-09-06. THESE ARE NOT ONE TIER, AND THE ORDER IS THE POINT.**
 >
@@ -440,8 +446,8 @@ remains a legitimate input **even to a later cold run on the same location** —
 
 The Compilation Guide's own sharpened standing rule (2026-07-07) — a real-world pick's fit is judged purely on
 structural/thematic fusion, never on whether it happens to share a founding nation or demographic with the
-location with a founding population — applies here unchanged. Some sub-location types have no founding nation at all (a district of a single city, for instance
-isn't nation-founded the way outer cities are), so the literal collision this rule was written for doesn't arise
+location — applies here unchanged. Some sub-location types have no founding nation at all (a district of a single city, for instance
+isn't nation-founded the way many outer cities are), so the literal collision this rule was written for doesn't arise
 for district picks — but the underlying principle still generalizes: judge every fused detail on whether it
 actually fits the location's own established character, never on any demographic or origin-matching basis.
 

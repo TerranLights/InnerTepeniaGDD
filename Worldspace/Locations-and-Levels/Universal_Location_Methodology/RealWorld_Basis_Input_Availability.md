@@ -41,8 +41,8 @@ to NOTHING from this repo.** ✅ **The law is real and live; it is in the SIBLIN
 Guide's Step 2** — ***all inside `City_Megasheets/`, which the developer withheld from every ULM run the same
 day.*** ⚠ **All 41 city `*_Cross_Reference_Synthesis.md` files sit in that tree.**
 
-✅ **Step D now names live targets instead:** *cities — `Specs/` · `Local_Cultures/<Subnet>/` ·
-`City_Vision_Notes/` · the census · `Extent_and_Density_Per_City.md`; districts — Deep Dive and Community
+✅ **Step D now names live targets instead:** *cities — `Specs/` · `Local_Cultures/<Subnet>/` · the census ·
+`Extent_and_Density_Per_City.md` (`City_Vision_Notes/` is struck corpus-wide by developer ruling); districts — Deep Dive and Community
 Infrastructure, both outside the withheld tree.* ⚠ **With the standing warning that Amundsen Station and
 Concordia do not follow the `<Subnet>/` pattern and must be read by name.**
 

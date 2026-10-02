@@ -35,8 +35,9 @@
 >    > **The alias set:** current name · in-fiction alternates and other scripts · **retired placeholder /
 >    > working titles** · **the real-world basis name** · candidate names considered and dropped.
 >    >
->    > **⚠ The real-world basis name is the sharpest case:** it is simultaneously an admissible **`G7`
->    > attribute** *and* the key to every conclusion written before the rename. **`Specs/` files record it
+>    > **⚠ The real-world basis name is the sharpest case:** it is simultaneously the key to the location's climate
+>    > and physical-site files *(a coordinate only, `DR-19`)* *and* the key to every conclusion written before the
+>    > rename. **`Specs/` files record it
 >    > openly, so the set is cheap to build — sweep the UNION, and RECORD the alias set in the review so the
 >    > next session sweeps the same width.**
 >    >
@@ -56,7 +57,7 @@
 >
 > 3. **Dispatch isolated readers (`§C.2` return contract) to do ALL of the following**, and read nothing
 >    yourself until they return:
->    - **Scan the required reading** — `00`–`06`, `00b`, `00d`, `00f`, `Cultural_Synthesis_Techniques.md` —
+>    - **Scan the required reading** — `00`–`06`, `00b`, `00d`, `00f` *(CST removed 2026-09-29, `DR-14` — not a ULM input)* —
 >      **for the subject's name. Return LINE NUMBERS ONLY.** You then read those files *skipping those lines.*
 >      **This closes vector 1, and `06_Worked_Example_Provenance.md` is not sufficient on its own — it is a
 >      manifest maintained by hand, and it has now been wrong three times.**
@@ -90,7 +91,7 @@
 >      | **any sentence naming a CAPABILITY, TEMPERAMENT or VERDICT without a subject** | *"its greatest strength and its largest vulnerability are the same property"* is spine-tier with or without a name |
 >      **⛔ Every hit is treated as a SKIP RANGE, exactly as a named example would be** *(M-103 — the range,
 >      never the line)*. **A hit that turns out to concern a different location costs one skipped paragraph.**
->    - **Return the file tree as SANITIZED paths** — *"`…/Course_of_Events/` — 11 files, 91–143 lines each"* —
+>    - **Return the file tree as SANITIZED paths** — *"`…/<folder>/` — 11 files, 91–143 lines each"* —
 >      **never the filenames.** **This closes vector 3.**
 >    - **Build the admissible/withheld coordinate map** — the ordinary `§C.2` job, which is all anyone was
 >      doing before.
@@ -288,11 +289,12 @@ specific:
 > **⭐ Added 2026-08-31, Sinheung Run 5 — Gate 6 has now demonstrated a second mode, and it is the more
 > important one.** Every prior Gate 6 fire found *collisions* (duplicate institutions needing differentiation).
 > Sinheung Run 5 found **convergence**: a cold pass built entirely from Tier-1 attribute generators
-> independently reproduced the withheld culture sheet's own central finding, including its sharpest specific
-> claim (the Zhongshan-organic-vs-Sinheung-allocated distinction), stated almost word-for-word, before that
-> file was ever opened. **This is the strongest evidence yet that the generator stack tracks something real
-> about this project's own founding-condition facts, not merely something plausible.** Full writeup:
-> `Test_Runs/2026-08-31_Sinheung_Run5_Cold/12_Step7_Gate6_Withheld_Comparison.md`, M-35.
+> independently reproduced the withheld culture sheet's own central finding before that file was ever opened.
+> ⚠ **Convergence is not proof:** the finding it reproduced rested on a contrast between neighboring cities'
+> foundings that `DR-19` and the law of one location both forbid, so a cold pass and a withheld file can agree on
+> an error as readily as on a fact. **Check a convergent finding against the rulings before treating it as
+> validated.** Full writeup:
+> `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/12_Step7_Gate6_Withheld_Comparison.md`, M-35.
 >
 > **What is still untested: everything about a THIN location.** Sinheung, like every location run through this
 > instrument so far, turned out to be a best case in some way (rich attribute canon, comparable in depth to
@@ -738,7 +740,6 @@ repo, not inside this one — so a pass must open it deliberately; it will not t
 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Master_Reference/` | **⚠ MIXED-ADMISSIBILITY per-city file index — see §C.1 before opening in a cold run** |
 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/District_Canon_Reference.md` | **district locked canon** |
 | `Neo-Races-and-Cultures/` | per-subnet cultures; `Orbital_Cryptograph_Helix_Era/` for the novel-series crossover |
-| `Background-Lore/Cities/` | historical vignettes |
 | `Reference/Real-World/` | research extractions — **check `Book_Extraction_Index.md` before mining any book**. ⚠ **EXPANDED 2026-09-03 — see §C.9; this row was ONE line covering ~90 files across nine subfolders, none of them addressed and none reachable from the per-phase table** |
 | **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/`** *(18 files)* | ⚠ **THE STRONGEST `G3` SUPPLY IN THE PROJECT — and MIXED-RELIABILITY. See §C.6 before citing any figure** |
 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry_Sweep_2026-08-31.md` | the corpus-wide necessary-industry gap matrix **(G3)** |
@@ -770,7 +771,7 @@ and division-of-industry determinations.
 | The **Files found** table — pure pointers, with tier markers | **Robot culture** sections — 🔴 draft findings |
 | **✈️🛣️ Infrastructure cross-references** — line-anchored network facts **(G5)** | **Design-tool readings** — Enneagram personality reads |
 | Census I/II **(G8)**; geology and D **(G2)** | **District affinity** picks — derived |
-| Real-world basis **(G7)**; founding mechanism **(G4)** | *"Identity: '…'"*-style claims |
+| Real-world basis: coordinate and physical-infrastructure facts only **(G2/G5; `DR-19`, `DR-24`)**; founding mechanism **(G4)**, founders from `Founding_Register.md` only | *"Identity: '…'"*-style claims |
 | §15 sector list and the mandate/free figures **(G3 — but see below)** | The determinations' **characterization notes** |
 | **Open threads** — these are gaps, not answers | Any canon-facts bullet phrased as interpretation |
 
@@ -876,7 +877,7 @@ learns *where* to look without ever being exposed to *what is there*.**
 > **The row above used to read "File path" with no qualification, directly beside a row forbidding section
 > headings. That is a contradiction, and a corpus that titles files by their argument exploits it.**
 >
-> **The live instance:** a vignette folder whose **eleven filenames were each a thesis about the location** —
+> **The live instance:** a folder whose **eleven filenames were each a thesis about the location** —
 > **four of them naming load-bearing civic facts outright**, in the folder's own directory listing. **A single
 > `ls` handed the deriving session more of the withheld conclusion than any paragraph would have**, because
 > titles are *distilled*. **No file was opened. `§3c` had mandated the `ls`.**
@@ -896,7 +897,7 @@ learns *where* to look without ever being exposed to *what is there*.**
 >    and template-generated names (`Specs/`, `_Physical_Infrastructure_Attributes.md`) are safe. **Authored
 >    titles are not.**
 > 2. **Where a name carries a claim, return a SANITIZED path** — the directory, the file COUNT, and the line
->    counts: *"`…/Course_of_Events/` — 11 files, 91–143 lines each."* **The deriver can address a file by
+>    counts: *"`…/<folder>/` — 11 files, 91–143 lines each."* **The deriver can address a file by
 >    index without ever seeing its title.**
 > 3. **⚠ This binds the DERIVER too, not only the reader.** **Never run a bare `ls`, `find`, `tree` or
 >    `grep -l` against your own subject's folders.** **Delegate the listing.** *(`§3c`'s "navigate by path,
@@ -1144,7 +1145,7 @@ learns *where* to look without ever being exposed to *what is there*.**
 > | **MAPPED** | 3-of-3 coordinate map exists | Slice the `ADMISSIBLE` lines *(script, never by hand)* |
 > | **WITHHELD** | Conclusion-tier, or unratified | Do not open. Opened at Step 7 as a check |
 > | ⭐ **QUERYABLE-BY-SCHEMA** | **Registered canon · needed by a generator · unmapped** | **Name the FIELDS. An isolated extractor returns those fields and nothing else** |
-> | ⭐ **REQUIRED-READ-WITH-SKIPS** | **`CLAUDE.md` mandates reading it in full** — `00`–`06`, `README`, and everything in **`Disciplines/`** *(the ULM copies; the originals are `WITHHELD`)* | **Read in full, applying the vector-1 skip RANGES.** ⛔ **Never probe a range boundary** (M-103) |
+> | ⭐ **REQUIRED-READ-WITH-SKIPS** | **`CLAUDE.md` mandates reading it in full** — `00`–`06`, `README`, and **`Disciplines/`** `00b` · `00d` · `00f` *(the ULM copies; the originals are `WITHHELD`)* — ⛔ *not* `Disciplines/`' CST or RWBEM copies, which are not ULM inputs *(`DR-14`, 2026-09-29)* | **Read in full, applying the vector-1 skip RANGES.** ⛔ **Never probe a range boundary** (M-103) |
 >
 > > ### ⚠ THE FOURTH TIER WAS MISSING FOR ~40 MINUTES AND A READER CAUGHT IT *(M-115.)*
 > > **The first Brief B dispatched under the three-state set hit required-reading files and had no legal
@@ -1474,8 +1475,7 @@ mechanism worth having.**
 > Cities/            | 14
 > Division_of_Industry/ |  7
 > City_Master_Reference/ | 5
-> Background-Lore/   | 13
-> TOTAL              | 39
+> TOTAL              | 26
 > ```
 >
 > > ***A COUNT THAT HAS RISEN MEANS A SOURCE JOINED, AND THE REVIEW IS `DRAFT` AGAIN*** — exactly as a moved
@@ -1644,7 +1644,7 @@ matters for how a pass should treat each.***
 |---|---|---|
 | **Lazar** | **Mandate 0%, and canon itself flags the economy as needing real development.** The folder's own *"one genuine open question"* | ⛔ **Do not cite a Lazar mandate figure.** Treat as `REQUESTED` |
 | **{{Bunger Hills City}}** | **`DRQ-05` OPEN** — excluded from the run by ruling | ⛔ Excluded by design, not missing |
-| **Port Lockroy** | **Stale TBD; its post office sits as an open question.** *(Separately: 40% heritage-themed, flagged as needing a scale judgment rather than a bug fix)* | ⚠ Cite with the caveat |
+| **Port Lockroy** | **Stale TBD; its post office sits as an open question.** *(Separately: 40% heritage-themed — built on the real site's history, queued as `R-4`; that share is not an input, `DR-28`)* | ⚠ Cite the post-office question only |
 | **Esperanza** | **Education 25% counted as fully mandated, but part is local schooling already in baseline C1a — a flagged DOUBLE-COUNT risk** | ⚠ Do not build on the 25% |
 | **The ten H percentages** | Named as still open in Half B | ⚠ Check before use |
 | **Every EXPORT figure, all cities** | **`DRQ-09` OPEN** — the baseline/distinctive convention still blocks them | ⛔ **Do not cite export figures at all** |
@@ -1743,8 +1743,8 @@ relying on it, and read every member's terms from its own file, never from the n
 
 | System | Where | Cardinality | Shape | Notes |
 |---|---|---|---|---|
-| **Zodiac Personality Substrate** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **Second, non-assignment use-mode for ANY location:** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md`'s **Zodiac Lens** — twelve signs as non-binding interrogation prompts, **never as an assignment, and never referencing Concordia's completed district content** |
-| **Planetary Symbols** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 10 members; one-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired** |
+| **Zodiac Personality Substrate** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` | 1 per district | **RICH** | Four dignity terms, real absences, full aspect geometry. **The only rich system in the project.** Exhaustion: 13 districts, 12 signs — **the Hub receives nothing, and that absence became its character.** ⚠ **Second, non-assignment use-mode for ANY location:** the **Zodiac Lens** (`03` Phase 10 §B2; `DR-14` keeps the CST file itself out of a ULM pass) — twelve signs as non-binding interrogation prompts, **never as an assignment, and never referencing Concordia's completed district content** |
+| **Planetary Symbols** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md` | 1 of a pair | **THIN** | 11 members (the Sun, 9 planets, the Asteroid Belt); one-word / summary / neutral / positive / negative. No absences, no cross-relations. **Must be paired** |
 | **Robot Elementals** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md` | 1 of a pair | **THIN** | 8 members. **Originally composed on physical derivation — each member's meaning grounded in a real, verifiable physical fact, never in an existing tradition.** Seven members (Earth, Air, Fire, Water, Wood, Metal, Magnetism) carry one-word / summary / neutral / positive / negative; Electricity carries positive/negative only. ⏸️ **All seven of those one-word labels are flagged for developer review and may still change — check the file's own flags before citing one as settled.** **No Wu Xing correspondences of any kind.** No absences, no cross-relations |
 | **Planet + Element** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` | **2 (a pair)** | **PAIRED** | 34 of 35 cities. **Use `02` §6.3** |
 | **Subnet Elementals / Six Perfections** | ⚠ **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Storyline/DLC-Questlines/Subnet_Symbolic_Associations.md`** *(**CORRECTED 2026-09-03** — was `../../Storyline/…`, which resolves to `Worldspace/Storyline/` and does not exist; the file sits at the repo root, one level further up)* | 1–2 per subnet | THIN→PAIRED | Subnet scale. **Do not cross-apply to city scale** |
@@ -1880,7 +1880,7 @@ open. Both are universal. The actual eras, dates and addresses are project data 
 > pass that means: the founding and its circumstances, allocation or charter decisions, migrations, a
 > discovery, a disaster, a founding crime — anything inside `2564–2812`.** ***The Long Night War is the frame's
 > terminus, not an event inside it.*** **Addresses: `Worldspace/World_History_Reference.md` · **U**
-> `Timeline Eras/` · `Background-Lore/Cities/<Subnet>/<City>/` · the spec's own `## Founding`.**
+> `Timeline Eras/` · the spec's own `## Founding`.**
 >
 > > **⭐ The generalizable rule, for any setting using this methodology:**
 > > ***A frame declaration does not merely date a pass — it makes some EXISTING, CANON, well-written material
@@ -1907,7 +1907,7 @@ terms, on its own merit."***
 substrate, an Ultra Megasheet, thirteen completed sub-locations. **It is therefore the most AVAILABLE
 comparison in the corpus and the most MISLEADING one: anything measured against it reads as deficient.**
 **A dry-run audit did exactly this on 2026-09-03 and produced a false corpus-wide "structural failure"
-finding** *(retracted: `Test_Runs/ULM_Dry_Run_Findability_Trace_2026-09-03.md` §Finding −1)*.
+finding** *(retracted: `Archive/ULM_Records/Test_Runs/ULM_Dry_Run_Findability_Trace_2026-09-03.md` §Finding −1)*.
 
 > ### ⚠ AND THIS IS THE SAME RULING IN A THIRD COSTUME — recognize the pattern, not just the instance
 > | Ruled irrelevant | The form it took |
@@ -1955,7 +1955,7 @@ Concordia as the measure of what a location should have, be, or contain.
 | Location | Type |
 |---|---|
 | A Concordia district *(e.g. Cancer)* | Settlement |
-| **Vostok** | **Settlement + Installation** — a research station that became a place people are from. ⭐ **The dual assignment is the finding**; everywhere founded as a station and now inhabited as a home carries it |
+| **Vostok** | **Settlement** — the type comes from the city's own canon. The real station at its coordinates is a coordinate and an infrastructure fact (`DR-19`, `DR-24`), never a type: no city is typed `Installation` because a station stood there (`DR-28`) |
 | Highway 37 | Corridor |
 | **Amundsen Tower** | **Structure**, modifier *ruined*. Formerly Structure + Installation |
 | The Tepenian Federation | Polity, Band 6 |
@@ -1973,8 +1973,8 @@ Concordia as the measure of what a location should have, be, or contain.
 | **1** | **U** `Worldspace/Locations/` · **P** `Specs/` *(incl. its `**Access type:**` token)*, `Energy_Grid_Failure_Rationale.md`, physical infrastructure · ⭐⭐ **CLIMATE: `Reference/Real-World/Climate Data/READER/` (§C.9) — ⛔ FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE CITY. Search by the ALIAS SET or you will get a false negative** · **`Stations/` (§C.9)** · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B — the `G3` figures (§C.6). `QUERYABLE-BY-SCHEMA`; never `grep` it by subject name** |
 | **2** | **U** ⚠ **`No_National_Stereotypes.md` — binding** · `Falkland_Treaty/` · **P** `Official_Population_Census.md` · ⛔ **"diaspora/affinity files" — RESOLVES TO NOTHING ADMISSIBLE.** *The only candidate, `City_Refugee_District_Affinities.md`, maps cities TO CONCORDIA DISTRICTS — forbidden input to a city pass under `§C.8d` (Concordia is not a yardstick) and THE LAW OF ONE LOCATION. Composition comes from Census alone.* · ⭐⭐ **SEE THE SEQUENCING RULING BELOW — it governs this phase and Phases 8, 9 and 10** |
 | **3** | **P** ⭐ **`Reference/Real-World/Climate Data/READER/` (§C.9 — alias-keyed)** · `Specs/` · physical infrastructure attributes · **concept art: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Concept-Art/<Subnet>/<City>/`** ⚠ *(only 4 of 37 cities hold actual images; the rest are empty `.gitkeep` folders)* · **`Davis_Geosciences_Research/` (§C.9)** where applicable |
-| **4** | ⭐⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE** *(§C.10; the shared night, overnight recharging, leisure-as-a-fact-of-life, siligel/coolant, smoking, the human-robot baseline)* · `Robot_Cold_Physiology.md` · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B** — *this city's baseline/mandated/**free** tiers, i.e. how much of a working life is NOT spoken for* · ⭐ **`Division_of_Industry/09_Per_City_Baseline_Run.md` §3.5 — THE FREEDOM GRADIENT**, *which the physiology file itself cites as the measure of "the thing the exile was for"* · `Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md` *(the food layer, rebuilt)* · ✅ **`National_Medical_and_Care_Institutes.md`** *(`locked-canon`)* · **P** `National_Economy_and_Currency.md` ⚠ *(in-frame: the energy-backed national currency. The post-Split-Brain fracture is POST-WAR — `§C.8a`)* |
-| **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` |
+| **4** | ⭐⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE** *(§C.10; the shared night, overnight recharging, leisure-as-a-fact-of-life, siligel/coolant, smoking, the human-robot baseline)* · `Robot_Cold_Physiology.md` · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B** — *this city's baseline/mandated/**free** tiers, i.e. how much of a working life is NOT spoken for* · ⭐ **`Division_of_Industry/09_Per_City_Baseline_Run.md` §3.5 — THE FREEDOM GRADIENT**, *which the physiology file itself cites as the measure of "the thing the exile was for"* · `Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md` *(the food layer, rebuilt)* · ✅ **`National_Medical_and_Care_Institutes.md`** *(`locked-canon`)* · **P** `National_Economy_and_Currency.md` ⚠ *(in-frame: a national currency existed — backing unsettled at every stage, `DR-3`, do not read "energy-backed." The post-Split-Brain fracture is POST-WAR — `§C.8a`)* |
+| **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` *(routes, trade, supply and population ties only; never a vignette-derived, station, namesake or "heritage" reason, `DR-19`)* |
 | **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief.** ⭐⭐ **THE ROSTER IS OPEN AND IS EXPECTED TO GROW** *(developer ruling, 2026-09-06: **"I am open to the possibility — in fact, the likelihood — that there will be more robot religions, so don't force any community/society into a religion where it doesn't already naturally fit"**)*. ⛔ **So a roster `grep` returning ZERO for a location is a RESULT, not a gap to fill** — *write "no faith sited here," leave the slot explicitly open, and never let it read as "no faith possible." `03` §Phase 6 B carries the universal form* · `National_Holidays.md` ⚠ *(its own scope note warns that most cities' `Local_Cultures/` files already hold scattered festival material — **which is `Step 0.4` item-6 READ-LAST**, so any observance a pass proposes is a CANDIDATE pending Step 5 reconciliation)* · ⭐ **`Reference/Real-World/Ice-Cold_Buddhism_Research/` (§C.9, 7 files — metaphysics, machine ethics, Zen aesthetics, vocabulary)** ⚠ *the faith's name is a placeholder* · **`The_True_Believer_` / `The_Meme_Machine_Extraction.md` (§C.9)** · **the deferred mortuary question — do not answer it** |
 | **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · ⭐ **`Reference/Real-World/Industry_Staffing_and_Productivity/` and `jobs_professions_and_fields/` (SOC) — both §C.9; SOC tier-marking is ADDITIVE, never a replacement** · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
 | **8** | **P** ⚠ **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
@@ -2067,11 +2067,11 @@ information, so if it can't find it, it's worthless."***
 | ⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md`** | **What deep cold costs a ROBOT** — recharge trade-off, the death spiral, permanent vs reversible capacity loss, embrittlement | **3**, **4** | ⭐ **Altitude costs a robot nothing; cold costs a great deal, on different axes than it costs a human.** *A robot is safer MOVING than resting* |
 | ⭐ **`…/Concordia-City/Concordia_Altitude_and_Atmosphere.md`** | **What altitude costs a HUMAN at Concordia** — ~3,800 m physiological, **no acclimatization**, heated but deliberately unpressurized | **1**, **4**, **9** | ⭐ **Robots are unaffected, which makes them the city's entire practical mobility** |
 | ⭐⭐ **`Climate Data/READER/`** *(38 files)* | **`G2` — authoritative monthly mean temperatures**, BAS READER, **WMO 1991–2020 normals**, with citation | **1**, **3** | ⛔⛔ **MOSTLY KEYED BY REAL-WORLD STATION NAME, NOT CITY NAME** — `Aboa.md` · `Princess_Elizabeth.md` *(note the `z`)* · `Sejong.md`. ***A pass searching by its subject's Tepenian name can find NOTHING and conclude the climate data is absent.*** **Reachable via the ALIAS SET** *(`Step −2` item 1a, M-118)*. ⚠ Also holds `Little_America.md`, a historical station that is not a Tepenian city, plus `Davis.md` and `Dumont_dUrville.md`, which are **proxy sources, not cities**. *(`Bharati_TBD.md` → `Shirayuki.md` and `Denison.md` created, both 2026-09-04.)* |
-| **`Stations/`** | `G2`/`G7` physical station facts — COMNAP catalog | **1**, **5** | ⚠ **`Antarctic_Stations_With_Airstrips.md` is BACKGROUND ONLY** — `Airports.md` states outright it *"does not track 1:1"* and is **not a predictor of Tepenia's own network** |
+| **`Stations/`** | `G2`/`G5` physical and infrastructure station facts only — COMNAP catalog *(operator/nation columns are never a founder, identity or tie input, `DR-19`)* | **1**, **5** | ⚠ **`Antarctic_Stations_With_Airstrips.md` is BACKGROUND ONLY** — `Airports.md` states outright it *"does not track 1:1"* and is **not a predictor of Tepenia's own network** |
 | **`Industry_Staffing_and_Productivity/`** | staffing ratios, labor-productivity factors | **7a** | A declared input to `Division_of_Industry/` |
 | **`jobs_professions_and_fields/`** | the **SOC** occupational taxonomy + summaries | **7**, **9** | ⚠ `SOC_Cross_Category_District_Matching.md` is **district-derived**, not raw research. **SOC tier-marking is ADDITIVE — it feeds existing methods, never replaces them** |
 | **`Ice-Cold_Buddhism_Research/`** *(7 files)* | belief-system research — metaphysics, machine ethics, Zen aesthetics, vocabulary | **6** | ⚠ **the faith's name is a PLACEHOLDER.** Bears on **Dome Fuji** *(a continent-wide pilgrimage site)*, **Kunlun** *(its primary site)* and **Vostok** |
-| **`Vostok_Genetics_Research/`** | DNA computing; life-as-information-processing | **7** | Vostok-specific; also the Cryptograph Helix basis |
+| **`Vostok_Genetics_Research/`** | DNA computing; life-as-information-processing | **7** | Vostok-specific; also the Cryptograph Helix basis. Book-based research, not the real station's program. ⛔ *Its checklist leans on a Course of Events suggestion, which is not canon and never an input* |
 | **`Davis_Geosciences_Research/`** | groundwater and lake chemistry | **1**, **3** | Davis-specific |
 | **`Zodiac_Signs_Full_Attributes.md`** | the twelve signs' full attributes | **10 §B2** | ⭐ **The Zodiac Lens technique sends you to `Zodiac_Personality_Substrate/`; THIS file was never registered beside it** |
 | **`Symbolic_Sets_of_Six_and_Seven.md`** | symbol-system structure | **§C.7** | assess with `02` §6.2 before relying on it |
@@ -2139,10 +2139,11 @@ information, so if it can't find it, it's worthless."***
 
 ⚠ **Worked instance, and note that the two sites are easy to confuse even for the developer:** *the Larsemann
 Hills hold three cities on real stations of three different operators.* **Canon: `Shirayuki` = the Bharati
-site · `Sinheung` = the Progress site · `Zhongshan` = the Zhongshan site.** ⛔ **NONE of those operator
-nationalities enters any of the three cities.** ✅ **Shirayuki is Japan-founded, Sinheung Korea-founded,
-Zhongshan China-founded — *by the Jeju-do allocation and the census*, which is where a city's people actually
-come from.**
+site · `Sinheung` = the Progress site · `Zhongshan` = the Zhongshan site.** ⛔ **No operator nationality
+enters any of the three cities BECAUSE of the station.** ✅ **Shirayuki is Japan-founded and Sinheung
+Korea-founded, both by the Jeju-do court's allocation; Zhongshan is Chinese-founded (the Sinian Federation) on its
+own geographic and time-zone access — *per the Founding Register*, which is where a city's founders actually come
+from.**
 
 ---
 
@@ -2213,13 +2214,12 @@ sensibilities and habits**
 ### ⭐⭐⭐ AND THIS IS THE ANTI-CONVERGENCE ENGINE, NOT A LICENSE TO CONVERGE
 
 > ***Two cities founded by the same nation MUST diverge, because the operator's inputs differ.***
-> **Worked case sitting in this project already: Tepenia has TWO Japan-founded cities — `Shirayuki`
-> *(Japan `36.27%`, protected by the Jeju-do allocation)* and `Sayowa` *(Japan diluted to `2.71%`, China
-> `17.39%`)*.** ⭐ **Same stock, 250 years, radically different local conditions and radically different
-> demographic outcomes.**
+> **Worked case sitting in this project already: the Founding Register gives Argentina three cities (Marambio,
+> Esperanza, Belgrano) and Australia three (Casey, Davis, Mawson).** ⭐ **Same stock, 250 years, different local
+> conditions, so different outcomes.**
 >
 > ### ⛔⛔ THE COMPARISON THIS CASE USED TO INSTRUCT IS WITHDRAWN — **2026-09-06**
-> **It formerly read:** *"If a pass produces similar-shaped Japanese-descended cultures for both, at least one
+> **It formerly read:** *"If a pass produces similar-shaped cultures for two of them, at least one
 > is wrong — which is `Cultural_Synthesis_Techniques`' governing rule, arriving through ethnicity rather than
 > through technique."* ⛔ **A per-location pass may not run that check, because running it requires reading the
 > other city.** ⏸️ **TERMINAL — it returns at the differentiation pass on the finished corpus.**
@@ -2255,12 +2255,12 @@ are not carrying the same culture.**
 
 | Act | Roughly | What the people ARE |
 |---|---|---|
-| ⭐ **ACT 1** | **2564 → early 2600s** *(~40–50 years)* | ***"Japanese who live in Antarctica."*** **Origin cultures still FRESH** |
+| ⭐ **ACT 1** | **2564 → somewhere in the 2600s** *(a hazy range; exact dates come after the new vignettes are written and ordered on the timeline — developer, 2026-10-01)* | ***"Japanese who live in Antarctica."*** **Origin cultures still FRESH** |
 | ⭐⭐⭐ **ACT 2** | **~late 2600s / early 2700s onward** | ## ***TEPENIAN, in name and cultural identity.*** **Origin is now ANCESTRY, not identity** |
 
 > ### ⚠⚠ **THE DEFAULT FRAME — the Second Interwar, 2564–2812 — SPANS BOTH ACTS AND IS MOSTLY ACT 2.**
-> **Act 1 is roughly the first `18%` of it.** ***A pass that writes its city as its founding nation is writing
-> the wrong Act for about 200 of the frame's 248 years.***
+> **Act 1 is its earlier part; the boundary is a hazy range.** ***A pass that writes its city as its founding
+> nation is writing the wrong Act for most of the frame's 248 years.***
 
 ## ⭐⭐⭐⭐ THE MECHANISM — **INTERCONNECTION. And the Tower's COMPLETION is what solidified it.**
 
@@ -2473,10 +2473,14 @@ from `01`'s own block; see the required-reading box above)*. **Every line change
 **0.2 Read the disciplines — ⛔ FROM `Disciplines/`, THE ULM'S OWN COPIES. Not the originals.**
 `Disciplines/00b_General_Population_Discipline.md` *(and its Band-1 inversion, `01` §2.3)* ·
 `Disciplines/00d_Shadow_Proportion_Discipline.md` · `Disciplines/00f_Review_Panel.md` ·
-`Disciplines/Cultural_Synthesis_Techniques.md` · `Disciplines/Real-World_Basis_Extrapolation_Method.md` ·
 ⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** *(`§C.10` — added here
 2026-09-09; every phase is a question about the majority population, so this is not a Phase-8 food check and
 belongs at Step 0, not discovered mid-pass)*.
+> ⛔ **`Disciplines/Cultural_Synthesis_Techniques.md` and `Disciplines/Real-World_Basis_Extrapolation_Method.md`
+> are NOT read in a ULM pass** *(removed from this list 2026-09-29, developer ruling `DR-14`: "the CST and RWBEM are
+> for later")*. They run corpus-wide **after** all 38 cities' ULM (the 2026-09-28 breadth-first ruling). ⭐ **Real-world
+> comparables still run in the ULM** — through its own Step 3 research, for things known to exist in the place;
+> RWBEM later adds what would *probably* also exist there *(`DR-15`)*.
 > ***The district originals are UNCHANGED, authoritative for district work, and `WITHHELD` from a cold run*** —
 > between them they carry worked instances for ~14 locations, which is a vector-1 leak for whatever subject is
 > next *(M-130)*. **They open at Step 7 with everything else.** **See `Disciplines/README.md`.**
@@ -2624,7 +2628,7 @@ it.**
 **⭐ 3.7 Log every search in this location's own research log, as you run it.** *(Standing developer
 instruction, 2026-08-30, Zhongshan Run 3.)* **One dedicated file per location** — for cities,
 `Cities/Research_Logs/[Location]_Research_Log.md`; other location types keep theirs with their own material.
-**Full convention in that folder's `README.md` and in `Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.**
+**Full convention in that folder's `README.md`.**
 
 **Record the exact search strings verbatim**, the sources actually used, a fact-by-fact table of *what came
 back → which finding it became*, what was **withheld** versus **omitted**, the **divergences from source**, and
@@ -2633,9 +2637,7 @@ back → which finding it became*, what was **withheld** versus **omitted**, the
 **Why it is in the procedure and not in a style guide:** a finished pass publishes conclusions and buries
 evidence. Without the log, the next session cannot re-check a claim against its source, cannot distinguish a
 researched fact from an assumed one, re-runs searches already run — and **loses every deliberately-unpursued
-thread, which is routinely the best material the research produced.** *(Run 3 left seven, including an
-unread Antarctic Treaty management plan governing three stations sharing one site — very likely the highest-value
-unread source for that city's Phase 5 and Phase 7.)*
+thread, which is routinely the best material the research produced.** *(Run 3 left seven.)*
 
 **It also survives quarantine:** a research log holds *attributes*, not conclusions, so per `05` §6.1 it stays
 **admissible input even to a later cold run on the same location** — which the pass it fed does not.
@@ -2707,6 +2709,7 @@ Standing reminders, all of which have their own recorded failure behind them:
 > | **Part V** — `Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close |
 > | **Part V.2** — `Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration` |
 > | **`Tools/phase_discipline_check.py`** | `T3` ledger · `T4` shed marker · `T5` early Lover-faculty smoke test |
+> | ⭐ **The `T8` WRITE is a MERGE, not a pick** *(developer, 2026-09-28, `M-246`)* | **Contradiction → the most conservative current view, split named in the row** *(population-origin material → DEMOTED, never EXCLUDED — §C.9c, "a pass that refuses all ethnic material")*. **No contradiction → UNION: every single-reader find is written and credited to its finder.** Full statement: `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 |
 >
 > ### ⚠ STILL MEASURED, NO LONGER OPTIONAL — the two are not the same thing
 > **The falsification conditions in `04` Parts V/V.2 and §N.5 REMAIN IN FORCE and must still be recorded.**
@@ -2775,7 +2778,7 @@ both**, then check whether the two claims are about different objects.
 **Canon outranks a generator** (`05` §6.1, opened above). State the contradiction and the reconciliation in the
 text; do not silently pick one. **Where it genuinely cannot be reconciled, flag it open.**
 
-> # ⭐⭐⭐⭐⭐ ⚠ **BUT "CANON" IS TWO TIERS, AND ONLY ONE OF THEM OUTRANKS.** *(Developer ruling, 2026-09-06.)*
+> # ⭐⭐⭐⭐⭐ ⚠ **BUT "CANON" IS FOUR TIERS, AND ONLY ONE OF THEM OUTRANKS.** *(Developer ruling, 2026-09-06.)*
 > > ***"Anywhere that the ULM derived answers that are different from what's currently listed in the
 > > datasheets, it is entirely possible that the new results may be valid, and the older, previous results may
 > > be invalid. **That's a major reason why I created the ULM — to be able to produce accurate results.** So
@@ -2960,7 +2963,9 @@ what it flagged.**
 `Disciplines/00f_Review_Panel.md` *(the ULM copy)*, carried unchanged; only the casting changes. Six Flat Archetypes plus the mandatory
 **Passer-Through** and **Neighbor**; the **Lover faculty's question every time.**
 
-**Five dispositions:** accepted · noted · rejected · refereed · **unmet.**
+**Six dispositions:** accepted · noted · rejected · refereed · **unmet** · **declined.** *(Corrected 2026-09-28 — this
+line read "Five" and omitted `declined`; `Disciplines/00f_Review_Panel.md` L746 and `CLAUDE.md` both carry six.
+Found reading the runbook in full at Mirny's Step −1.)*
 
 **The test that keeps this from homogenizing a whole set** — ⭐ **restated 2026-09-06 in its peer-free form,
 because the old wording required reading a sibling:**
@@ -3075,7 +3080,7 @@ before handing off to another session.**
 
    **1b. ⚠ Sanitize the file tree.** **Check whether any file or folder the next run must navigate is
    *titled* with a claim about the location.** **If so, the handoff carries sanitized paths** — directory,
-   file count, line counts — **never the filenames.** *(Vector 3, Run 12: eleven vignette filenames, each a
+   file count, line counts — **never the filenames.** *(Vector 3, Run 12: eleven filenames, each a
    thesis, delivered by a single mandated `ls`.)*
 
    **1c. ⚠⚠ GREP YOUR OWN NEW PROSE FOR THE SUBJECT'S NAME, BEFORE COMMITTING.** **For every hit ask: does
@@ -3149,6 +3154,7 @@ entries carried conclusion vocabulary about the same cluster.**
 | ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md` **— ORIGINAL, `WITHHELD` from a cold run; read `Disciplines/` instead** | **the generative toolkit — sixteen techniques, already general-scope** |
 | ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the research method |
 | ⛔ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Phase_Instructions/00f_Review_Panel.md` **— ORIGINAL, `WITHHELD`; read `Disciplines/` instead** | the panel, carried unchanged |
-| ⭐ **`Disciplines/`** | **THE ULM'S OWN COPIES of the five shared instruments** — `00b` · `00d` · `00f` · `Cultural_Synthesis_Techniques` · `Real-World_Basis_Extrapolation_Method`. **Read THESE during a cold run.** ***The originals are unchanged, authoritative, and `WITHHELD` until Step 7*** — they carry worked instances for ~14 locations, which is a vector-1 leak for whichever subject is next |
+| ⭐ **`Disciplines/`** | **THE ULM'S OWN COPIES of the five shared instruments** — `00b` · `00d` · `00f` · `Cultural_Synthesis_Techniques` · `Real-World_Basis_Extrapolation_Method`. **Read THESE during a cold run** — ⛔ *but in a
+ULM pass, only `00b` · `00d` · `00f`; the CST and RWBEM copies are not ULM inputs (`DR-14`, 2026-09-29)*. ***The originals are unchanged, authoritative, and `WITHHELD` until Step 7*** — they carry worked instances for ~14 locations, which is a vector-1 leak for whichever subject is next |
 | `.../00b_…` · `.../00d_…` | general population · shadow proportion — **originals**, binding, and the district methodology's own |
 | `.../00_RUNBOOK.md` | **the district procedure — the parent of this one, and still authoritative for districts** |

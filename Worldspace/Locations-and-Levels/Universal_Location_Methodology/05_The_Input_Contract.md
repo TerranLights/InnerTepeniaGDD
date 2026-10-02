@@ -93,7 +93,7 @@ requires at least three of them to run. **Every one of the eight is a thing the 
 | G1 Assigned symbolic substrate | Supplied — the assignment is made in a separate pass |
 | G2 Physical & environmental constraint | Supplied — real geography, or authored geography |
 | G3 Function & purpose | Supplied — canon decides what a place is for |
-| G4 Founding condition | Supplied — canon |
+| G4 Founding condition | Supplied — canon; **founders from `Founding_Register.md` only**, stated on the city's own geography and access, never on the real station (`DR-19`) |
 | G5 Network position | Supplied — the map and infrastructure files |
 | G6 Defining event | Supplied — the timeline |
 | G7 Real-world inspiration | **Split** — the *designation* is supplied; the *research* is the method's own work |
@@ -194,7 +194,7 @@ the capability profile cannot be built**, and without the profile nothing downst
 |---|---|
 | **Physical & environmental facts** | Terrain, climate, altitude, exposure, hazards, what the site provides and withholds |
 | **Function / purpose** | What the place is *for* — and separately, **what its parent needs from it**, because those two disagreeing is itself a generator |
-| **Founding condition** | Who, when, why, under what constraint, **with what, and without what** |
+| **Founding condition** | Who, when, why, under what constraint, **with what, and without what** — *who* comes only from `Founding_Register.md` (`DR-19`) |
 | **Network position** | What connects, in which direction, carrying what volume |
 | **Population composition** | Who is here, in what proportion, from where |
 | **Defining events** | What has happened *to* this place |
@@ -235,7 +235,7 @@ witness to it**, and you reason *backward* from the particular to what must be t
 > it.** *"Character X lives here"* is a roster entry and adds nothing. ***"What must be true of this place for X
 > to have become who X is?"*** is a derivation, and it will produce things the attribute generators cannot.
 
-**This is `Cultural_Synthesis_Techniques.md` §7, The Surviving Witness, pointed at living canon instead of
+**This is The Surviving Witness (`01` §2.4), pointed at living canon instead of
 physical remains** — the same logic, different evidence.
 
 ### The interrogation procedure
@@ -334,6 +334,9 @@ Run per particular. Five steps, and step 2 is the one that does the work.
 If canon says this is *the only place that does X*, *the first place where Y happened*, or *the last place still
 doing Z* — **that is differentiation handed to you for free**, and it satisfies Gate 6 before the pass begins.
 
+⛔ **Only an in-world Tepenian first, only or last counts.** A first that belongs to the real site's history (an
+expedition, a first overwintering, a first birth, a territorial claim, a museum) is not an input (`DR-28`).
+
 **Interrogate it hardest:** what made it possible *here and nowhere else*? What did the other places have that
 prevented it, or lack that made it unnecessary? **A uniqueness claim always implies a comparison, and the
 comparison is usually more interesting than the claim.**
@@ -364,7 +367,8 @@ both-are-true test before deciding either is wrong.
 
 **But they can substitute for a missing generator at reduced strength.** Where G8 (composition) is unavailable,
 four or five known residents are a weak but real sample. Where G4 (founding condition) is unavailable, the
-oldest known particular is a floor on the place's age and a witness to its early character. **Say that this is
+oldest known particular is a floor on the place's age and a witness to its early character *(an in-world
+Tepenian particular only; never the real station or the real site's history, `DR-28`)*. **Say that this is
 what you are doing**, and expect a thinner result.
 
 **And they can conflict with a generator, which is the best thing they do.** A physical generator saying the
@@ -486,7 +490,7 @@ this methodology's output, so the rule as written permitted all of it as input.*
 | **ADMISSIBLE as input — attributes** | **INADMISSIBLE as input — conclusions** | **⚠ ADMISSIBLE BUT SELF-ORIGINATED** *(added 2026-08-30)* |
 |---|---|---|
 | Physical and environmental facts | *"This city's character is X"* | A fact that is **genuinely canon and genuinely usable**, but which **originated in this same location's own prior culture pass** and was later promoted or migrated |
-| Founding mechanism, date, and circumstance | *"Its temperament reads as Y"* | **Use it — you are usually obliged to.** But **tag every finding that rests on it**, because it is **corroboration, never independent derivation** |
+| Founding mechanism, date, and circumstance *(founders: `Founding_Register.md` only; never the real station's operator, nation or start year, `DR-19`)* | *"Its temperament reads as Y"* | **Use it — you are usually obliged to.** But **tag every finding that rests on it**, because it is **corroboration, never independent derivation** |
 | Function, industry, what it makes | Any prior pass's **capability, personality, or culture** finding | The commonest source: **a claim migrated upstream into shared canon** — see §6.1b |
 | Network position, routes, adjacency | A prior pass's **shape**, **axis**, or **differentiation** claim | Second commonest: **a symbol or type assignment derived from a prior personality read** |
 | Census, composition, **population change** | Anything phrased as an interpretation rather than a fact | |
@@ -592,6 +596,20 @@ point.** **Column 3 exists because the first two assume a claim stays where it w
 > 3. **A pass that finds a shared-canon fact citing its own location must tag it `[SELF-ORIGINATED]`** and
 >    treat every dependent finding as corroboration.
 
+> ### ⚠ 6.1c — A SYMBOL ASSIGNMENT MAY BE DOWNSTREAM OF A PERSONALITY READ
+>
+> **Added 2026-08-30.** In this project, `City_Symbol_Assignments.md` states in its own header that every
+> assignment was **"derived from each city's own established personality"** — from a set of prior Enneagram
+> reads. **So G1 is provenance-downstream of a culture pass for all 34 assigned cities**, and §6.1's bare
+> listing of "Symbol assignment" as admissible is **wrong as written for this project.**
+>
+> **The clean salvage, and it generalizes:** **the *pair* is a two-token assignment and the *meanings* live in
+> the system files, which describe symbols rather than this location.** So:
+> - **Usable:** the assigned members, and their definitions read from the system's own files *(per `02` §6.0)*.
+> - **NOT usable:** any *rationale* column in the assignment table. Those are capability verdicts wearing an
+>   index's clothing — *"self-sufficient, ordered complexity, content unexamined"* is a four-term personality
+>   reading, not an assignment.
+
 > ### ⚠ 6.1d — A `Specs/` FILE IS NOT CATEGORICALLY SAFE EITHER
 >
 > **Added 2026-08-31, self-caught mid-pass.** `00_RUNBOOK.md` §0.4 heads its admissible-first
@@ -607,20 +625,6 @@ point.** **Column 3 exists because the first two assume a claim stays where it w
 > headed **"Character," "Culture," "Significance," "Developer vision,"** or similar as suspect by default —
 > apply the same header/content check §6.1a already requires of `_Physical_Infrastructure_Attributes.md` files.
 > **No file-type in this registry is safe by category. Every file is safe by content, checked.**
-
-> ### ⚠ 6.1c — A SYMBOL ASSIGNMENT MAY BE DOWNSTREAM OF A PERSONALITY READ
->
-> **Added 2026-08-30.** In this project, `City_Symbol_Assignments.md` states in its own header that every
-> assignment was **"derived from each city's own established personality"** — from a set of prior Enneagram
-> reads. **So G1 is provenance-downstream of a culture pass for all 34 assigned cities**, and §6.1's bare
-> listing of "Symbol assignment" as admissible is **wrong as written for this project.**
->
-> **The clean salvage, and it generalizes:** **the *pair* is a two-token assignment and the *meanings* live in
-> the system files, which describe symbols rather than this location.** So:
-> - **Usable:** the assigned members, and their definitions read from the system's own files *(per §6.0)*.
-> - **NOT usable:** any *rationale* column in the assignment table. Those are capability verdicts wearing an
->   index's clothing — *"self-sufficient, ordered complexity, content unexamined"* is a four-term personality
->   reading, not an assignment.
 
 > **Conclusions are read LAST, and read as a CHECK.** After the pass produces its own findings, compare. **A
 > match is corroboration. A mismatch is a finding site.** Consulted at the start they are contamination;
@@ -646,7 +650,8 @@ a materially changed methodology — but it must be labeled, or the circularity 
 
 ## 6.2 What outside AI synthesis can and cannot supply
 
-**Can:** anything in the PROVIDED list, on the same terms as a human — physical facts, founding stories,
+**Can:** anything in the PROVIDED list, on the same terms as a human — physical facts, founding stories *(founders
+from `Founding_Register.md` only)*,
 composition, events, network position. The four acceptance properties are the whole test.
 
 **Cannot:** anything RESERVED. A reserved decision is reserved *to the developer specifically*; it is a question
@@ -656,8 +661,8 @@ of authority, and no generating process discharges it. **An outside process may 
 
 ## 6.3 ⚠ RATIFICATION IS A SEPARATE AXIS FROM CIRCULARITY — and this file had no tier for it
 
-**Added 2026-08-31, on a direct developer flag during Run 9 setup:** *"those vignettes still need to be
-double-checked. I haven't determined which ones are canon."*
+**Added 2026-08-31, on a direct developer flag during Run 9 setup:** *(a body of proposed material whose
+canon status the developer had not determined).*
 
 **Everything in §6.1 tests one thing: is this input CIRCULAR — is it downstream of a culture-pass conclusion
 about this same location?** That is a real test and it is not this one. **A file can pass §6.1 completely —
@@ -672,24 +677,25 @@ it.** Admissibility has two axes and this file previously described only one.
 
 ### The recorded instance
 
-**One location's `Course_of_Events/` set — eleven files, ~1,836 lines — is not confirmed canon.** The status
+**One location's set of proposed narrative material — eleven files — was not confirmed canon.** The status
 is **stated in the files' own headers**, which read *"Course of Events **Suggestion** #1, translated from
-`…_Course_of_Events_Suggestions.md`"*, and whose character fields are deliberately left blank as design
-prompts. **Every location has a folder of this kind.** They are proposals awaiting a ratification decision the
-developer has not yet made.
+`…_Suggestions.md`"*, and whose character fields are deliberately left blank as design
+prompts. **The developer has ruled on the whole class: the Background-Lore vignettes and every Course of Events
+file are not canon and are never an input** (rule 3a below).
 
 > ### ⭐ Why this went unnoticed: a filter caught it once, for the wrong reason
 >
-> **One cold run excluded its vignettes correctly — and by accident.** Its pre-flight disqualified them as
+> **One cold run excluded its proposed material correctly — and by accident.** Its pre-flight disqualified them as
 > *"downstream of withheld material"* — a §6.1 CIRCULARITY judgment. **It never asked whether they were
 > canon.** On a location whose culture file is not withheld, that reasoning does not fire, and the same
 > unratified material sails straight through as admissible.
 >
 > **A correct result produced by the wrong rule is not a working rule. It is an untested one.**
 >
-> **And it has already failed once.** A later **warm** run listed a `*_Course_of_Events_Suggestions.md` file
+> **And it has already failed once.** A later **warm** run listed a `*_Suggestions.md` file
 > in its input set with no status marking at all — admitted as though settled. A warm pass admits everything by design, which is exactly why *status marking*, not
-> exclusion, is the rule below.
+> exclusion, is the rule below for unratified material generally. *(This file's own class, the Course of Events
+> material, is excluded outright by rule 3a.)*
 
 ### The rule
 
@@ -701,6 +707,10 @@ developer has not yet made.
 3. **Unratified material is NOT quarantined — it is DEMOTED.** It cannot ground a finding, cannot settle a
    fact, and cannot be cited as canon. **It may be read as a prompt** — the same standing a real-world
    inspiration has: a source, never a specification. Distinguish it in the text every time.
+3a. ⛔ **EXCEPTION — EXCLUDED, NOT DEMOTED: `Background-Lore/` (the Historical Vignettes, every
+   `*_Course_of_Events_Suggestions.md` file and every `Course_of_Events/` variant).** Developer ruling: not canon,
+   never an input. **Not read, not cited, not scheduled for a later step, not used as a prompt and not used as
+   corroboration.** A pass that finds one of these files on a read list strikes it from the list.
 4. **Where an unratified file is the ONLY support for a finding, the finding is REQUESTED, not PRODUCED** —
    it goes to the developer as a ratification question, not into the pass as a fact.
 5. **Never ratify by use.** Citing a suggestion in a completed pass, and then treating the completed pass as
@@ -769,9 +779,9 @@ Run before Phase 0. **Cheap, and it is the input-side equivalent of Gate 0.**
 **Ratification check (§6.3) — run on every input that already passed §6.1, second, never instead:**
 - Files whose header or filename declares them *suggestion / proposal / draft / opportunities / candidate /
   tracker / TENTATIVE / flagged*:  [list, or "none found — and state that the headers were actually opened"]
-- **DEMOTED (readable as prompt, cannot ground a finding):**  ...
+- **EXCLUDED, never opened (rule 3a — Background-Lore vignettes / Course of Events):**  [confirm none is on the read list]
+- **DEMOTED (other unratified material: readable as prompt, cannot ground a finding):**  ...
 - **Findings resting ONLY on unratified material → these are REQUESTED, not PRODUCED:**  ...
-- *`Course_of_Events/` and `*_Course_of_Events_Suggestions.md` are unratified by default in this corpus.*
 
 **Reserved decisions in force for this pass:**  ...
 

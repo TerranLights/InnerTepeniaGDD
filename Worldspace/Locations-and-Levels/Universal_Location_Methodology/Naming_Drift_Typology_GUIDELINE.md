@@ -71,10 +71,10 @@ not because anyone in-world chose to keep them.**
 
 | # | Type | Mechanism | The instance it came from |
 |--:|---|---|---|
-| **1** | **Phonetic truncation under demographic turnover** | A long name shortens as the community that pronounced it fully is outnumbered by later arrivals | ⭐ **Lazar** ← *Novolazarevskaya* — the spec states it plainly: *"shortened as the founding Russian demographic was overtaken by later American, German, French, and Brazilian immigration"* |
+| **1** | **Phonetic truncation under demographic turnover** | A long name shortens as the community that pronounced it fully is outnumbered by later arrivals | ⭐ **Lazar** ← *Novolazarevskaya* — a long name shortened as later arrivals outnumbered the speakers who said it in full *(who those speakers were is part of Lazar's revisit, `DR-29`; founders per `Founding_Register.md` only)* |
 | **2** | **Acronym lexicalization** | An institutional acronym stops being read as letters and becomes a word | **Sanay** ← *SANAE* (South African National Antarctic Expedition) |
 | **3** | **Transliteration settling** | A name in another script settles into one stable local spelling, losing its diacritics and its original orthography | **Sayowa** ← *Syowa / Shōwa / 昭和* |
-| **4** | **Fusion** | Two adjacent settlements coalesce and their names merge into one | **Abowasa** ← *Aboa* (Finland) + *Wasa* (Sweden) |
+| **4** | **Fusion** | Two adjacent settlements coalesce and their names merge into one | **Abowasa** ← *Aboa* + *Wasa*, the two real stations at this coordinate *(a naming fact only: the founders are Italy and the CIN per `Founding_Register.md`, and the name is to be replaced, `R-16`)* |
 | **5** | **Orthographic simplification** | A foreign digraph or cluster is respelled the way locals actually write it | **Zukelli** ← *Zucchelli* (`cch` → `k`) |
 | **6** | **Title accretion** | A functional prefix attaches and becomes part of the name | **Fort McMurdo** ← *McMurdo* |
 | **7** | **Replacement** ⚠ *not drift* | The old name is set aside and a new one is chosen outright | **Shirayuki** ← the *Bharati* site. **A deliberate act, not erosion — and note it produced a name in the founding population's own language** |
@@ -107,7 +107,7 @@ not because anyone in-world chose to keep them.**
 | Named for an institution nobody belongs to any more | **2** — lexicalization | the acronym becomes a word and loses its expansion |
 | Named in a script the local population does not use | **3** — settling | one spelling wins; the diacritics go |
 | Two settlements that grew together | **4** — fusion | one name from two |
-| Named for a person still actively venerated | ⛔ **probably none** | **veneration preserves.** *St. Douglas at Mawson is a live cult of memory; that name is under no pressure at all* |
+| Named for a person still actively venerated | ⛔ **probably none** | **veneration preserves.** *A name shared with a Federation-wide Saint is under no pressure at all (the veneration is national, never the city's identity, `DR-28`)* |
 | A feature nobody visits | ⛔ **probably none** | distant reference preserves |
 
 > ### ⭐ The last two rows are the useful ones, and they are why this is a guideline rather than a rule.
@@ -125,7 +125,7 @@ not because anyone in-world chose to keep them.**
 | **Make the ORIGINAL name causal** | `Disciplines/Real-World_Basis_Extrapolation_Method.md`'s standing principle: ***a real-world basis is a COORDINATE, never a CAUSE.*** **The original name fixes what a thing is called; it must never explain anything about the people** |
 | **Read national origin into a naming outcome** | ⛔ **`No_National_Stereotypes.md` — GPS facts only.** *Type 1's demographic mechanism is about numbers of speakers, not about national character, and must stay that way* |
 | **Force a result** | **A null is a legitimate outcome and needs no apology.** *(`03` §0.2 item 4 — a null is a result; record it and say why)* |
-| **Apply it retroactively to settled names** | **The seven instances above are canon and closed.** This describes them; it does not reopen them |
+| **Apply it retroactively to settled names** | **The seven instances above are canon and closed**, except where a revisit or rename is already queued (Lazar, `DR-29`; Abowasa, `R-16`). This describes them; it does not reopen them |
 
 ---
 

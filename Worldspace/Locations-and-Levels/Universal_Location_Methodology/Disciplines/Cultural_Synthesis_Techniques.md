@@ -648,7 +648,7 @@ Full discipline: `00b_General_Population_Discipline.md`, in this folder.
 4. **Filter through §0 and §0b.** New is good. Uncharacteristic is not. Unplayable is weak.
 5. **Not every technique fires everywhere.** A technique that produces nothing is a legitimate result — record
    the null rather than manufacturing a weak answer. Expect several nulls per location; a place where all
-   fourteen fire is a place someone has over-written.
+   eighteen fire is a place someone has over-written.
 6. **Genuinely new things that fit no category are kept**, named, and cross-referenced. That is the method
    working.
 7. **Add to this file.** Any new operation that produced a good result and could plausibly produce a
@@ -715,8 +715,7 @@ never applied before it existed.** The file was open in front of three passes th
 
 **Where the material is.** *(This project: see `../00_RUNBOOK.md` §C.)* Weighted
 per-district composition with named, portable institutions and social-cohesion mechanisms per contributing
-city. **Measured 2026-08-29: five of the nine completed districts make no use of it at all**, including
-including one whose file uses the word *refugee* zero times.
+city. **Measured 2026-08-29: five of the nine completed districts make no use of it at all**, including one whose file uses the word *refugee* zero times.
 
 
 ---
@@ -743,14 +742,14 @@ exception to anything.
 
 ### Worked instances
 
-- **The Frostlands** can only keep what can be made to mean something — and hold **two** non-narrative recorders
-  already: an imported fixed-form recitation filed as a regional accent, and **salvage frames recovered from
-  lost expeditions that report intervals and readings without needing any of it to signify.** The district
-  repairs the second for morale and never asks what it saw.
-- **The Undergrid** cannot declare anything finished — and **closes items every day on its siligel purification
-  line**, where two independent measurements agreeing *is* the close-out, because the standard is quantitative
-  and needs nobody's judgment. **It solved its own constitutional problem in one process two hundred and fifty
-  years ago and never noticed the method generalizes.**
+**Two are stated in full in the original.** **What they demonstrate, stated generally:**
+
+- **A place can hold MORE THAN ONE instance of the faculty it lacks**, each filed under some other heading (an
+  accent, a piece of salvage, a maintenance chore), and **can be actively looking after one of them for an
+  unrelated reason without ever asking what it does.**
+- **The instance is usually a process where a quantitative standard or a physical constraint makes the call**,
+  so nobody's judgment is needed. **A place can solve its own central problem in one process, generations ago,
+  and never notice the method generalizes.**
 
 ### How to run it
 
@@ -898,11 +897,12 @@ aftermath, immediately after the technique's own first run and its two search-di
 > the results against each other and see if they can combine in novel, emergent ways."
 
 **What this adds, formalized.** The base Zodiac Lens run (above) asks each of the twelve signs, once, what
-shape it takes at this location on its own terms. This extension asks the same question **again, eighteen more
+shape it takes at this location on its own terms. This extension asks the same question **again, nineteen more
 times per sign** — once paired with each of the eight Robot Elementals (`City_Symbolic_Substrate/
-Robot_Elementals.md`) and once with each of the ten Robot Planetary Symbols (`City_Symbolic_Substrate/
-Planetary_Symbols.md`, nine planets plus the Asteroid Belt) — **read individually, one at a time, never as the
-location's own already-assigned pair.** Twelve signs × eighteen cross-checks = 216 individual prompts across a
+Robot_Elementals.md`) and once with each of the eleven Robot Planetary Symbols (`City_Symbolic_Substrate/
+Planetary_Symbols.md`, the Sun, the nine planets, and the Asteroid Belt) — **read individually, one at a time,
+never as the location's own already-assigned pair.** Twelve signs × nineteen cross-checks = 228 individual
+prompts across a
 full run. This is a genuine expansion of the search space the base technique already runs, not a separate
 instrument.
 
@@ -910,20 +910,20 @@ instrument.
 1. **Read every elemental and planetary member from its own registered file**, per `02` §6.0's standing rule —
    from the file, never from the symbol's name or tradition. This applies exactly as it does to the twelve
    zodiac signs themselves.
-2. **For each zodiac sign, run all eighteen cross-checks before moving to the next sign.** For each pairing,
+2. **For each zodiac sign, run all nineteen cross-checks before moving to the next sign.** For each pairing,
    ask: *reading this sign's registered character together with this elemental or planetary symbol's
    registered meaning, does something fresh and characteristically consistent appear at this location that
    neither the base Zodiac Lens run nor any prior cross-check for this sign already produced?*
-3. **A "fresh emergent" result is the ideal outcome, never an obligation.** Given 216 total prompts across a
+3. **A "fresh emergent" result is the ideal outcome, never an obligation.** Given 228 total prompts across a
    full run, most individual cross-checks should be expected to produce nothing — per the same discipline
    `Cultural_Synthesis_Techniques.md` §0/§0b already applies to every other technique in this file, a result
    that would be uncharacteristic or forced does not get kept merely because a slot exists for it.
-4. **Only after all eighteen cross-checks for one sign are complete, check that sign's own accumulated results
+4. **Only after all nineteen cross-checks for one sign are complete, check that sign's own accumulated results
    against each other for combinatorial synthesis.** Two separate cross-check findings, read together, may
    suggest something neither implies alone — this internal combination step is run once per sign, after that
-   sign's own eighteen checks, not across signs and not against the base run's own result in isolation.
+   sign's own nineteen checks, not across signs and not against the base run's own result in isolation.
 5. **The stopping-criterion rule (step 6, above) applies at every layer of this extension**, not only to the
-   base run: a sign's eighteen cross-checks are not "done" merely because eighteen prompts were run — state
+   base run: a sign's nineteen cross-checks are not "done" merely because nineteen prompts were run — state
    explicitly why a given prompt produced nothing (uncharacteristic, redundant with an existing result, or
    simply nothing in the two registered files' content intersects meaningfully) rather than leaving a blank
    slot with no stated reason.
@@ -931,7 +931,7 @@ instrument.
    assignments, the elementals' or planets' assigned city pairings' own *rationale* columns (`05` §6.1c) — at
    any point in this extension, for the same reason stated in the base technique above.
 
-**Scale, stated honestly.** 216 prompts per location is a large undertaking even by this methodology's own
+**Scale, stated honestly.** 228 prompts per location is a large undertaking even by this methodology's own
 no-time-limit standard, and it should be treated as an advanced, deliberately-scheduled deepening pass — run
 when there is genuine budget for it, not defaulted into as part of every Phase 10 pass.
 
@@ -942,20 +942,20 @@ extension's own first run.** Developer's own words, preserved in full:
 > the methodology to spawn 12 separate subagents, one to examine and explore each individual Zodiac sign with
 > all of its possibilities."
 
-**Why this is the right shape, not just a speed trick.** Each sign's eighteen cross-checks and its own
+**Why this is the right shape, not just a speed trick.** Each sign's nineteen cross-checks and its own
 within-sign combinatorial step (§ procedure, steps 2–4 above) are genuinely independent of every other sign's
-— nothing about Taurus's eighteen checks depends on what Scorpio's eighteen checks found. Running all twelve in
+— nothing about Taurus's nineteen checks depends on what Scorpio's nineteen checks found. Running all twelve in
 one continuous session, as this extension's first application did, means every sign's search
 competes for the same attention and the same context against eleven others, which is exactly the condition
 under which the shallow-stop failure this session already caught twice (M-38b) is likeliest to recur silently
 on whichever signs get reached last. **Twelve independent subagents, one per sign, each running only that
-sign's eighteen cross-checks and its own combinatorial step, removes that competition entirely** — each sign
+sign's nineteen cross-checks and its own combinatorial step, removes that competition entirely** — each sign
 gets a fresh, fully-attended pass, not a tenth or eleventh lap through a tiring procedure.
 
 **Procedure, updated:**
 1. Spawn twelve agents in parallel, one per zodiac sign, each briefed with: this location's own already-
    established character (Phases 0–10), the sign's own registered file, and all eight Robot Elementals' and
-   ten Robot Planetary Symbols' registered files. Each agent runs that one sign's eighteen cross-checks and its
+   eleven Robot Planetary Symbols' registered files. Each agent runs that one sign's nineteen cross-checks and its
    own within-sign combinatorial synthesis, applying the stopping-criterion rule (step 6) independently.
 2. **The coordinating session still runs a final, cross-sign combinatorial pass afterward** — not delegated,
    since it requires holding all twelve signs' accumulated results at once, which is exactly the kind of

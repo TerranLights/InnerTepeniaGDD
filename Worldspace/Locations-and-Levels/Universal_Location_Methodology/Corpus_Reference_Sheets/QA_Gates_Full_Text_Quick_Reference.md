@@ -2,7 +2,7 @@
 
 > ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 7. Extracted in full from
 > `04_QA_Gates_and_Differentiation.md` Parts I–II (L96–414), read in full 2026-09-15. **Nothing below is
-> city-specific — it is the same 17-gate checklist for all 37 cities and does not need re-extraction per city.**
+> city-specific — it is the same 17-gate checklist for all 38 cities and does not need re-extraction per city.**
 > ⚠ Only the ACTUAL pass/fail verdict for a given city is Tier C — that is Step 7's own future content, not this
 > sheet.
 
@@ -77,9 +77,10 @@ probably not run the second pass. Run it against every membership, promotion or 
 writes — the favorable path is the one that gets written, which is exactly why the gate exists.
 
 **Gate 10 — The Review Panel.** `00f_Review_Panel.md`, carried unchanged — see
-`Corpus_Reference_Sheets/Review_Panel` content already extracted for Step 8. `unmet` should be common and
-measures what a location knowingly protects, not how hard the panel was run — a low count usually means the
-location's problems are absences it does not know it has. A position that cannot be cast at all is itself a
+`Corpus_Reference_Sheets/Review_Panel` content already extracted for Step 8. Refusals (`unmet` and
+`declined` together) should be common; `unmet` alone measures what a location knowingly protects, not how hard
+the panel was run — a low `unmet` count usually means the location's problems are absences it does not know it
+has. A position that cannot be cast at all is itself a
 finding, and a strong one.
 
 **Gate 11 — Plausibility.** The one direction the others cannot look — every other gate checks a relation

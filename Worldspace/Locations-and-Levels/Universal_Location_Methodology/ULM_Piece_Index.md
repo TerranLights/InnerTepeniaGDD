@@ -65,7 +65,7 @@ piece is and where it lives; the file named in each section is the authority on 
 | **3** | **Internal contradiction** | Read Ordinary Life against everything else |
 | **4** | **Swap test** | Would this finding survive being moved to another location? If yes, it is not a finding |
 | **5** | **Cross-location consistency** | Export/import coherence with the siblings |
-| **6** | **Duplicate institutions** | ⚠ **UNRUNNABLE in a cold pass by construction** — runs late, at Step 7, when withheld files open |
+| **6** | **Duplicate institutions** | **In-run: the same institution named twice, within this location only.** ⛔ The against-siblings half is **TERMINAL** — run on the finished corpus, not in a per-location pass *(ruled 2026-09-06)* |
 | **7** | **Research accounting** | Every researched pick recorded as used or rejected |
 | **8** | **Standout recorded** | Name the single strongest thing the pass produced |
 | **9** | **Asymmetry** | For every threshold or gradient finding, say which way it runs |
@@ -106,7 +106,7 @@ verified by label extraction 2026-09-07). **A wrong count sentence never subtrac
 | **G1** | **Assigned symbolic substrate** | **Planet + Element for cities** *(the zodiac is DISTRICTS)*. ⭐ *The only generator with **no obligation to be plausible*** — it constrains toward the meaningful. ⚠ For these cities it is **provenance-downstream of a personality read**, so corroboration only. ⏸️⏸️ **UNDETERMINED, ruled 2026-09-06: whether a SIGN layer is also added to cities later — signs would REPEAT across 35+ cities, and the assignment would be DOWNSTREAM of the city passes. Not a gap; do not fill it** |
 | **G2** | **Physical & environmental** | Terrain, climate, altitude, exposure, hazards — **what the site provides and what it withholds** |
 | **G3** | **Function / purpose** | What it is for — *and separately, **what its parent needs from it**. The two disagreeing is itself the generator* |
-| **G4** | **Founding condition** | Who, when, why, under what constraint, **with what and WITHOUT what.** ⭐ *The absences are the yield* |
+| **G4** | **Founding condition** | Who (from `Founding_Register.md` only), when, why, under what constraint, **with what and WITHOUT what.** ⭐ *The absences are the yield* |
 | **G5** | **Network position** | What connects, in which direction, carrying what volume. ⭐ *Its distinctive yield is **asymmetry*** |
 | **G6** | **Defining event** | *A disaster, a war, a discovery, a founding crime.* ⛔ **Push to third order: what practice exists now that only makes sense because of it — and does anyone still know why?** ⏸️ *Deferred out of input prep corpus-wide; belongs with city histories* |
 | **G7** | **Real-world inspiration** | Which real case anchors it. ⛔⛔ **GPS PURPOSES ONLY — a coordinate, never a cause, an identity, or a history** |

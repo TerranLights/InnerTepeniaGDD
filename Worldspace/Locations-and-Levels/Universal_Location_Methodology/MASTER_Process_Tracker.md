@@ -4,7 +4,7 @@
 
 ---
 
-> # ⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-15. READ THIS FIRST, THEN THE BOOT BLOCK BELOW.**
+> # ⏸️ WHERE THE LAST SESSION STOPPED — **2026-09-15 (Davis).** ⛔ **SUPERSEDED 2026-09-28 — the live city is MIRNY. Go to `📍 RESUME HERE`.** *(This banner is kept as Davis's record.)*
 >
 > ## ✅ DAVIS — **ULM COMPLETE, Steps −1 through 10** *(2026-09-16)*
 >
@@ -29,7 +29,8 @@
 > | **1 · Inherited** | ✅ | `01_Inherited.md` + `01b_T8_Rounds_Step_1.md` |
 > | ⭐ **2 · Build the spine** | ✅ **2026-09-15** | **`02_Spine.md`** + `02b_T8_Rounds_Step_2.md` |
 > | ⭐ **3 · Research** | ✅ **2026-09-15** | **`03_Research.md`** + `03b_T8_Rounds_Step_3.md` + ⭐ **`…/Cities/Research_Logs/Davis_Research_Log.md`** *(1,943 lines)* |
-> | **4 · Write the phases** | ⏭️ **NEXT** | — *Phases 2–10, per `03_The_Phase_Spine.md`* ⚠ **`Step N ≠ Phase N` — check Step 4's `T8` block for `R-12`'s drift before dispatching** |
+> | **4 · Write the phases** | ✅ **2026-09-16** | `04_Phase_02_…` through `04_Phase_10_Catalog.md` |
+> | **5–10** | ✅ **2026-09-16** *(Gate 7 closed 2026-09-22)* | `05_Reconciliation.md` · `06_Differentiate.md` · `07_QA.md` · `08_Review_Panel.md` · `09_Record.md` · `09.5_Log.md` · `10_Readiness_Check.md` |
 >
 > ### ⛔⛔ WHAT STEP 4 MUST CARRY FROM STEP 3 — **three scope limits, and dropping any one makes a finding FALSE**
 > 1. ⛔ **THE GENERALIST-OBLIGATION REFRAME IS CREW-SCALE ONLY.** *Every supporting case describes TENS of
@@ -94,12 +95,14 @@
 > **`DR-6`** *(a dispatched reader reads a named file at a named range; no graphify)* · ⭐⭐ **`DR-7`**
 > *(**pre-war materials ARE admissible**; the GPS law does not exclude what a lineage left behind. **The
 > PERSISTENCE TEST:** would this material still be here if the originating nation had left and never returned?
-> **`L127` is admissible; `G4` is UNCONDITIONAL**)*.
+> **`L127` is admissible; `G4` is UNCONDITIONAL**)*. ⚠ *What a station leaves is physical infrastructure, records,
+> equipment and research results (`DR-24`, `DR-26`), never a tradition passed person to person (`DR-25`); it admits
+> nothing about who made it or who founded the city (`DR-19`; founders from `Founding_Register.md` only).*
 >
 > ### ⏸️ STILL OPEN FOR THE DEVELOPER — carried, not forgotten. ⛔ **NONE OF IT BLOCKS DAVIS**
-> `01` §1.2 — does **`Resettled`** need a prior **POPULATION** or merely prior **OCCUPANCY**? *(`DR-7` removed
-> the GPS obstacle but did not answer it; settles most of the 38-city run)* · `01` §1.1's
-> **`Settlement + Installation`** expectation vs. the GPS law · **RWBEM Step D still commands reading the
+> ✅ *`Resettled` on a station's prior occupancy, and `Settlement + Installation` on station sites: both closed by
+> `DR-28` (a station's people are never a prior population; no city is typed `Installation` because a station stood
+> there).* · **RWBEM Step D still commands reading the
 > struck `City_Vision_Notes/`** · the proposed **second ONE LOCATION test** *(needs a provenance exception — as
 > worded it would strike ratified canon)* · **`R-4`** *(`Configuration` field rename — **parked by developer
 > instruction until Davis closes**)*.
@@ -215,20 +218,78 @@
 | **6** | ⭐ **Run exactly ONE piece.** *Display it AND write it, in the same turn* | The operating protocol above. ⛔ **THERE IS NO TIME LIMIT** |
 | **7** | **Update the `📍 RESUME HERE` block and the grid** | *A piece is not closed until the tracker says so* |
 
-> # ⏸️ PENDING SEQUENCING DECISION — **BREADTH-FIRST vs DEPTH-FIRST.** *(Developer, 2026-09-06, thinking aloud — NOT yet ruled.)*
-> > ***"Instead of going all the way from beginning-to-end through the entire process [ULM → CST → RWBEM] one city at a time, what I should do is process all the cities through the ULM first, and then… we'll have a massive list of test options to choose from."***
+> # ✅ SEQUENCING DECISION — **BREADTH-FIRST, RULED.** *(Developer, 2026-09-28 — resolves the 2026-09-06 open question below.)*
 >
-> | ✅ For breadth-first | ⚠ Against |
+> **RULED: ULM runs breadth-first across all 38 cities first. CST and RWBEM come after, corpus-wide, not
+> per-city.** Two reasons given, both standing:
+>
+> 1. ⭐⭐ **A post-ULM annotation pass is planned.** Once all 38 cities' ULM is complete, the developer reads
+>    through the notes and annotates wherever an idea, addition, or vision occurs to them. **The next step
+>    is then this assistant extrapolating from those annotations and appending the result as additional
+>    sections in the resulting files** — a step that needs the full 38-city ULM corpus to already exist, not
+>    a partial one.
+> 2. ⭐⭐⭐ **A parallel session is separately reorganizing the post-2083-war world's POLITICAL/NATIONAL map** —
+>    how nations are bordered and arranged by the time of the Falkland Treaty (2564), which by then would be
+>    very well-established. ⛔⛔ **This does NOT mean current cultural-depth work is a stand-in or throwaway —
+>    developer correction, 2026-09-28: *"Just because a people's national borders are different, that doesn't
+>    make them a different culture of people."*** **A border/administrative redraw does not erase or replace
+>    who a city's founding population actually is (per the Founding Register), or that people's real cultural
+>    practices — ULM city passes
+>    should keep going FULLY DEEP on real cultural research now, same rigor as always, not held back.**
+>    ✅ **What may still shift later, once the 2083→2564 border-reorg work finishes, is narrower: the
+>    POLITICAL/ADMINISTRATIVE framing** — which nation a founding population is formally counted under,
+>    national borders, which government issues a Jeju-do-style allocation — **not the depth or validity of
+>    the cultural research on the people themselves.** Current-day real-world national borders are used for
+>    now as the practical stand-in for that political layer specifically, pending the parallel session's own
+>    work; the people and their culture are not provisional in the same way.
+>
+> **This supersedes the 2026-09-06 "suggested tweak"** *(running CST once early as a pipeline-validation
+> city)*: with CST corpus-wide deferred until ULM finishes on all 38, there is no early CST run to validate
+> against.
+
+## ⏸️ POST-ULM QUEUE — **resolve after the full ULM is complete for the entire country**
+
+> **Station-heritage city rulings `R-1` … `R-20`** (developer, 2026-10-01: *"just make a note in the ULM tracker file to
+> resolve those and I'll get to them later, after the full ULM process is complete for the entire country"*). They're
+> listed in full, with locations, in
+> `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Station_Heritage_Removal_Tracker.md` §5:
+>
+> | | |
 > |---|---|
-> | **A full pool of composition profiles to pick test cases from** *(the developer's own reason)* | ⛔ **It defers the feed-forward check by 37 cities.** *The protocol's step 4 is "the clarified result is the input to the next piece" — depth-first tests the `ULM → CST` handoff immediately* |
-> | ⭐⭐ **INSTRUMENT STABILITY — the strongest argument.** *2026-09-06 alone changed the instruments heavily (`DRQ-15`, the GPS clarification, technique `18`, the source map).* **Depth-first means city 1 and city 20 run different CST versions and nothing records which.** *Breadth-first runs each LAYER under one version* | ⚠ *A handoff defect found after 38 passes is expensive — and 2026-09-06 is the evidence: CST could not locate ULM output at all, and that surfaced because the developer asked, not because a check caught it* |
-> | ⭐ **The `ONE LOCATION` law is easier to keep** — *no city's CST output exists while any city's ULM runs, so there is nothing downstream to leak* | |
-> | ⭐ **The terminal differentiation check needs the whole corpus regardless** | |
+> | `R-1` | Concordia: French/Italian founders, languages and cuisine (7 zones away) |
+> | `R-2` | Belgrano and Marambio: Air Force founding identity, a founding fact or the station's program? **Belgrano:** discipline can't cross the gap but can be *rediscovered*. Find newcomer nation-cultures within 3 zones (UTC−5…+1) who revived the old ways from the records. ⭐ **Research checkable institutions and professions** (aviation, military aviation, maintenance cultures…), never national temperament |
+> | `R-3` | Sanay: founding purpose = the real SANAE research mission |
+> | `R-4` | Port Lockroy: identity = the real site's WWII/museum history |
+> | `R-5` | Esperanza: founding compact on the real 1978 first birth |
+> | `R-6` | Mawson: "oldest continuously occupied" from the real 1954 start |
+> | `R-7` | Neumayer: no named founder; "the Precision Institute" as AWI's continuation |
+> | `R-8` | Lazar: §II rewritten by the 2026-09-30 sweep, needs review |
+> | `R-9` | Real-site history: Denison expedition, Cape Adare hut, Troll 1939 claim, Vostok cold record, Amundsen "Saint Roald", Mawson's territorial "ceremonial memory", Davis/Mawson namesakes' rescue story |
+> | `R-10` | Halley: founders conflict across files (the UK's role is ruled, `DR-22`) |
+> | `R-11` | Sayowa: founders ruled (`DR-30`: first established by the CIN or Kazakhstan, which is open; industrialized by Kazakh industrialists). Revisit its Japanese-founding text; the July Australia→Japan census-tag move to reconsider at the census review |
+> | `R-12` | Janbogo and Mirny Ultra Megasheet inspiration picks derived from real stations |
+> | `R-13`–`R-15` | done (2026-10-01) |
+> | `R-16` | Rename `{{ Abowasa }}` along the lines of "Santa Maria" (Italy + CIN, `DR-22`) |
+> | `R-17` | Station-derived city names: Princess Elisabeth (to be renamed), Lazar, Sanay |
+> | `R-18` | Zukelli's founder (shortlist: Hawaii, Mongolia, Taiwan, Indonesia, Australia) |
+> | `R-19` | Lazar: Russia's founding role; the Novolazarevskaya/Maitri coalescence story |
+> | `R-20` | South Africa's founding wave at Halley; Signy's co-founder(s) |
 >
-> ### 💡 SUGGESTED TWEAK — *offered, not decided*
-> **Run `CST` ONCE on the one city whose ULM is complete, as a pipeline validation. Then switch to
-> breadth-first for the remaining 37.** ⭐ *Proves the handoff, and that city is also a strong composition test
-> case in its own right — the corpus's most dominant-plurality profile at `4.1:1`.*
+> ⚠ *These `R-` numbers are the Station Heritage tracker's. The `R-4` and `R-12` in the Davis record at the top of
+> this file belong to an earlier, separate series of methodology-review items and are different items.*
+>
+> **City revisits** (founders ruled out or open; spec, culture, catalog and datasheet text to rework): Dumont d'Urville ·
+> Zukelli · **Sejong** · Juan Carlos · Sayowa · Dome Fuji · Rothera · Fort McMurdo · Abowasa · Princess Elisabeth ·
+> **Lazar** (added `DR-29`, 2026-10-01; together with `R-8`, `R-17`, `R-19`, and the Lazar lines in `Specs/Shirayuki.md`).
+> **Davis and Shirayuki stay as written** (`DR-29`).
+> **Station-derived founder lines for unruled cities** (`DR-28` D7; the ULM and datasheet copies already read
+> "UNRULED"): `Specs/…/Vostok.md` L128 ("Primarily Russian exiles, given the station's… Soviet/Russian character") and
+> `16_Per_City_Three_Tier_Run.md`'s Vostok "liturgical language" note · `Specs/…/Kunlun.md` L168–170 (CHINARE exiles) ·
+> `Specs/…/Denison.md` L277–279 (Mawson's base) · Lazar (above).
+> **Sejong's revisit also covers** the "three Korean-founded cities" claim in `Local_Robot_Culture/Palmer_Subnet/Sejong.md`
+> L129, `Storyline/DLC-Questlines/Janbogo/DLC_6_Janbogo_Main_Questline_Candidate_07.md`, and the Janbogo megasheet.
+>
+> Also post-ULM, already ruled: **the census** (`DR-23`, hands off until all 38 cities finish the ULM).
 
 ## ⛔ STANDING FACTS — **already ruled. Do NOT re-derive, re-audit, or re-raise these.**
 
@@ -242,7 +303,7 @@
 | **Extent** | ✅ **Closed.** *13 cities declared; the other 25 are closed by the coastline ruling, not pending.* ⛔ **Do not open a "finish the rest" task** |
 | ⛔ **`City_Megasheets/`** | **WITHHELD from every run** — *the whole tree, due to be rewritten* |
 | ⛔ **Other cities' conclusions** | **Stay closed until Step 6** — *not for quarantine, but so **Gate 6** has something independent to test* |
-| **Research logs** | ⚠ **5/38, and that is fine** — *a log is an **output** of a pass, not an input. Create one when that city's pass first researches something* |
+| **Research logs** | ⚠ **7/38, and that is fine** — *a log is an **output** of a pass, not an input. Create one when that city's pass first researches something* |
 
 ---
 
@@ -295,8 +356,9 @@
 ---
 
 > # 📍 RESUME HERE
-> **CITY:** ⭐ **DAVIS** *(Mirny)* · **PIECE:** ⏭️ **ULM `Step 3` — RESEARCH**, aimed at what Step 2 named
-> **LAST TOUCHED:** **2026-09-15.** *(Steps −1, 0, 1, 2 complete — see the block at the top of this file.)*
+> **CITY:** ⭐ **MIRNY** *(Mirny subnet)* · **PIECE:** ⏭️ **ULM `Step 4` — THE PHASES** *(Step 3's two open questions for the developer — sea-ice record vs spec; the emperor-penguin colony — matter at the climate phases)*
+> **LAST TOUCHED:** **2026-09-30.** *Step 3 ✅ — `…/Mirny_Subnet/Mirny/03_Research.md` + `Research_Logs/Mirny_Research_Log.md` (T8: Round 2 UNANIMOUS 3/3, Round 3 6/6 CONSISTENT; round record `03b_T8_Rounds_Step_3.md`; web-search session cap reached — unspent picks logged).* · *Step 2 ✅ — `…/Mirny_Subnet/Mirny/02_Spine.md` (T8: Round 2 UNANIMOUS 6/6, Round 3 6/6 CONSISTENT; round record `02b_T8_Rounds_Step_2.md`).* · *Step 1 ✅ — `…/Mirny_Subnet/Mirny/01_Inherited.md` (T8: Round 2 UNANIMOUS 3/3, Round 3 6/6 CONSISTENT; round record `01b_T8_Rounds_Step_1.md`).* · *2026-09-29: Step 0 ✅ — `…/Mirny_Subnet/Mirny/00_Frame.md` (T8: Round 2 UNANIMOUS 18/18, Round 3 6/6 CONSISTENT; round record `00b_T8_Rounds_Step_0.md`). Developer rulings given at its close: `DR-14`–`DR-18` (⛔ **CST and RWBEM are not ULM inputs**; real-world comparables stay in via Step 3; the ULM works at full Census I; founding dates after the ULM). Still open from the frame: **Q-20** (Installation half of the Type, held) and Q-33 (registration, to discuss together).* · *2026-09-28: Step −1 ✅ — `…/Mirny_Subnet/Mirny/00.1_Step_MINUS-1_Input_Contract.md` (T8: Round 2 UNANIMOUS 15/15, Round 3 6/6 CONSISTENT; round record `00.1b_…`). Developer rulings given at its close: `DEVELOPER_RULINGS_LOG.md` `DR-9`–`DR-13` (open follow-ons `DR-10a`, `DR-11a`).*
+> *(Davis: ULM complete — Steps −1 through 10, per its own folder and `ULM_Run_Progress.md`. The Davis lines below this block are its record.)*
 >
 > > ### ⛔⛔ THIS BLOCK WAS STALE FOR EIGHT DAYS AND IT MISDIRECTED A SESSION — corrected 2026-09-15
 > > **It read *"ZHONGSHAN · `Step −1` · last touched 2026-09-07"* while Davis had been the live city since
@@ -311,7 +373,7 @@
 > > `📍 RESUME HERE` block and the grid"* — BOTH, and this is what it costs when only one is done.**
 >
 > ## ✅✅ SINHEUNG — **ULM PASS COMPLETE, Steps −1 through 10.** *City 2 of 38.*
-> **17 files.** *Full contents listed in `09_Record.md` §1 — **listed, never claimed** (Gate 0).*
+> **21 files on disk.** *Contents listed in `09_Record.md` §1 — **listed, never claimed** (Gate 0).*
 > **15 of 17 gates run** *(Gate 6 terminal; Gate 10 = Step 8)* · **all six Review Panel dispositions used** ·
 > **both differentiation tables carry its entry** · **every path in the pass resolves mechanically.**
 >
@@ -355,8 +417,8 @@
 > | ⏸️ **{{Bunger Hills City}}** | **SAVED FOR LATER** — *"I'd like to save it for later"*. ⚠ *Also `DRQ-05` OPEN* |
 > | **Everything else** | ✅ *"the rest of them should be ready for processing"* |
 >
-> **Mirny subnet, this week — 8 cities** *(9 minus {{Bunger Hills City}})*: ▶ **Shirayuki** ·
-> Casey · Davis · Kunlun · Mirny · Sinheung · Vostok · Zhongshan.
+> **Mirny subnet — 8 cities** *(9 minus {{Bunger Hills City}})*: ✅ **Shirayuki** ·
+> Casey · ✅ **Davis** · Kunlun · ▶ **Mirny** · ✅ **Sinheung** · Vostok · ✅ **Zhongshan**.
 
 ## Legend
 | | |
@@ -384,14 +446,14 @@ is unruled. Tracked as three columns so either reading works.**
 
 | | Subnet | Region | Cities | In scope | **ULM** | **CST** | **RWBEM** | Logs |
 |:-:|---|---|--:|--:|:-:|:-:|:-:|--:|
-| | **Palmer** | Antarctic Peninsula & South Shetlands *(~55–65°W)* | 8 | 8 | 0/8 | 0/8 | 0/8 | 0 |
-| | **Halley** | Weddell Sea & Dronning Maud Land *(~30°W–15°E)* | 8 | 8 | 0/8 | 0/8 | 0/8 | 0 |
-| | **Mawson** | Enderby & Mac. Robertson Land *(~40–70°E)* | 3 | 3 | 0/3 | 0/3 | 0/3 | 1 |
-| ▶ | ⭐ **MIRNY** | **Prydz Bay → Wilkes Land** *(~70–110°E)* | **9** | **8** | ▶ **0/8** *(1 started)* | 0/8 | 0/8 | **3** |
-| | **Janbogo** | Ross Sea, Victoria Land & Dome C *(~140–170°E)* | 8 | 7 | 0/7 | 0/7 | 0/7 | 1 |
+| | **Palmer** | Antarctic Peninsula & South Shetlands *(~45–68°W)* | 8 | 8 | 0/8 | 0/8 | 0/8 | 0 |
+| | **Halley** | Weddell Sea & Dronning Maud Land *(~35°W–24°E)* | 8 | 8 | 0/8 | 0/8 | 0/8 | 0 |
+| | **Mawson** | Enderby & Mac. Robertson Land *(~40–63°E)* | 3 | 3 | 0/3 | 0/3 | 0/3 | 1 |
+| ▶ | ⭐ **MIRNY** | **Prydz Bay → Wilkes Land** *(~76–111°E)* | **9** | **8** | ▶ **4/8** *(1 in progress)* | 0/8 | 0/8 | **5** |
+| | **Janbogo** | Ross Sea, Victoria Land & Dome C *(~123–170°E)* | 8 | 7 | 0/7 | 0/7 | 0/7 | 1 |
 | | **Byrd** | West Antarctic interior *(~120°W)* | 1 | 1 | 0/1 | 0/1 | 0/1 | 0 |
 | | **Amundsen** | ⭐ South Pole — *inter-subnet* | 1 | 1 | 0/1 | 0/1 | 0/1 | 0 |
-| | **TOTAL** | | **38** | **36** | **0 done · 1 started** | **0** | **0** | **5** |
+| | **TOTAL** | | **38** | **36** | **4 done · 1 in progress** | **0** | **0** | **7** |
 
 ⚠ **"In scope" is 36, not 38** — *`Concordia` and `{{Bunger Hills City}}` are held out by the ruling above.*
 
@@ -433,11 +495,12 @@ is unruled. Tracked as three columns so either reading works.**
 | Mawson | · | · | · | ✅ |
 | Sayowa | · | · | · | · |
 
-### ⭐▶ MIRNY — *Prydz Bay → Wilkes Land* · **ACTIVE** · **3 / 8 ULM-complete** *(1 in progress)*
+### ⭐▶ MIRNY — *Prydz Bay → Wilkes Land* · **ACTIVE** · **4 / 8 ULM-complete** *(1 in progress: Mirny)*
 
 > ⛔ **CORRECTED 2026-09-13 — this header read `0 / 8 (1 started)` and was wrong on both numbers.**
-> **Verified from disk, not from the table:** three cities carry a `10_Readiness_Check.md` — **Shirayuki**
-> *(38 files)*, **Sinheung** *(21)*, **Zhongshan_Opus** *(38)*. **Davis** is in progress *(5)*.
+> **Verified from disk, not from the table:** three cities carried a `10_Readiness_Check.md` on 2026-09-13 —
+> **Shirayuki** *(38 files then; 23 after its `_Archive/` moved to `Archive/ULM_Records/`)*, **Sinheung** *(21)*,
+> **Zhongshan_Opus** *(38 then; 24 now, same move)*. **Davis** was in progress *(5)*; it completed 2026-09-16.
 >
 > ⭐⭐ **HOW THIS SURVIVED: `Gate 0` outward was never run on the TRACKERS.** Sinheung's own Step 10 item 9
 > asks ***"does every completion claim match the files?"***, **fired**, caught its `README.md` claiming
@@ -461,14 +524,14 @@ is unruled. Tracked as three columns so either reading works.**
 
 | City | **ULM** | **CST** | **RWBEM** | Log |
 |---|:-:|:-:|:-:|:-:|
-| ▶ **Shirayuki** | ✅ **ULM COMPLETE** — ⚠ **`23` live files, and there is NO Step −1** *(corrected 2026-09-13: this cell said "Steps −1–10, 22 files"; the README's own manifest has no Step −1 row and lists `00_Frame.md` as "Step 0")*. ⛔ **TARGETED REVIEW QUEUED — see below** | ✅ **READY** *(`DRQ-15` resolved)* | · | ✅ **+S6** |
+| ✅ **Shirayuki** | ✅ **ULM COMPLETE** — ⚠ **`23` live files, and there is NO Step −1** *(corrected 2026-09-13: this cell said "Steps −1–10, 22 files"; the README's own manifest has no Step −1 row and lists `00_Frame.md` as "Step 0")*. ⛔ **TARGETED REVIEW QUEUED — see below** | ✅ **READY** *(`DRQ-15` resolved)* | · | ✅ **+S6** |
 | Casey | · | · | · | · |
-| ▶ **Davis** | ▶ **Step −1 ✅ COMPLETE** *(`00.1`, on verified `T8` unanimous consensus — Rounds 1–3, `15/15`)*. **Step 0 next.** ⛔ **Band 5 on Census I per `DR-4`**; distributional analysis **deferred by ruling** | · | · | ▶ |
+| ✅ **Davis** | ✅ **ULM COMPLETE** *(Steps −1 through 10, 2026-09-16; Gate 7 closed 2026-09-22 — `…/Davis/10_Readiness_Check.md`)*. ⛔ **Band 5 on Census I per `DR-4`**; distributional analysis **deferred by ruling** | · | · | ✅ |
 | Kunlun | · | · | · | · |
-| Mirny | · | · | · | · |
+| ▶ **Mirny** | ▶ **Step −1 ✅** *(2026-09-28, `00.1_Step_MINUS-1_Input_Contract.md`; T8 UNANIMOUS + 6/6 CONSISTENT)* · **Step 0 ✅** *(2026-09-29, `00_Frame.md`; T8 UNANIMOUS 18/18 + 6/6 CONSISTENT)* · **Step 1 ✅** *(2026-09-30, `01_Inherited.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 2 ✅** *(2026-09-30, `02_Spine.md`; T8 UNANIMOUS 6/6 + 6/6 CONSISTENT)* · **Step 3 ✅** *(2026-09-30, `03_Research.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 4 next** | · | · | ✅ |
 | ✅ **Sinheung** | ✅ **ULM COMPLETE** *(Steps 0–10, **21 files**)* — ⛔ **the `·` here was FALSE from at least 2026-09-06 to 2026-09-13.** ⭐ `06_Differentiation.md` **correctly does not exist** *(Step 6 is WRITE-ONLY; the rows went into both shared tables in the same commit — 9 culture axes + a 12/12 industry column, no other city's row read)*. **Phases 0–1 live inside Steps 0–3**, not in `04_Phase_00/01` files. **+ a `09.6_Input_Audit.md` the template never predicted** | · | · | ✅ |
 | Vostok | · | · | · | · |
-| ✅ **Zhongshan** | ✅ **OPUS ARRAY: Steps −1–10 complete, 24 step files** *(+1 archive folder)* — ⚠ **Sonnet array deliberately held at Phase 3.** ⭐ **OFFICIAL as of 2026-09-13 — the developer's declared quality bar for every ULM pass** *(see the §"OFFICIAL ≠ CANON" note below)*. ⛔ **NOT CANON** — pending the developer's own read-through and per-section notes. Detail: `…/Zhongshan_Opus/10_Readiness_Check.md` | · | · | ✅ **+9.5** |
+| ✅ **Zhongshan** | ✅ **OPUS ARRAY: Steps −1–10 complete, 24 step files** *(its archive folder is in `Archive/ULM_Records/`)* — ⚠ **Sonnet array deliberately held at Phase 3.** ⭐ **OFFICIAL as of 2026-09-13 — the developer's declared quality bar for every ULM pass** *(see the §"OFFICIAL ≠ CANON" note below)*. ⛔ **NOT CANON** — pending the developer's own read-through and per-section notes. Detail: `…/Zhongshan_Opus/10_Readiness_Check.md` | · | · | ✅ **+9.5** |
 | ⏸️ *{{Bunger Hills City}}* | ⏸️ **held** | ⏸️ | ⏸️ | · |
 
 > ## ⏸️⏸️ QUEUED — SHIRAYUKI TARGETED REVIEW · **AFTER DAVIS, NOT BEFORE**
@@ -565,7 +628,7 @@ is unruled. Tracked as three columns so either reading works.**
 |---|:-:|:-:|:-:|:-:|
 | Amundsen Station | · | · | · | · |
 
-**Totals:** ULM **0 / 38 complete · 1 started** · CST 0/38 · RWBEM 0/38 · research logs 5/38.
+**Totals:** ULM **4 / 38 complete · 1 in progress** *(Shirayuki · Sinheung · Zhongshan · Davis complete; Mirny in progress)* · CST 0/38 · RWBEM 0/38 · research logs 7/38.
 
 📎 Per-process detail: `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`
 📎 What the pieces are: `ULM_Piece_Index.md` · input availability: `Cultural_Synthesis_Input_Availability.md` · `RealWorld_Basis_Input_Availability.md`

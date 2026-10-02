@@ -445,7 +445,7 @@ its own Phase 1 census figures. The Frame Declaration (written earlier in the sa
 
 **What was wrong:** Census II (996,684) is *lower* than Census I (1,279,433) — a drop, not growth. The
 Frame-Declaration author (this same pass, earlier) apparently reasoned from "this city was presumably growing
-during its early organic-settlement period, before the snapshot" without checking that against the two actual
+during its early settlement period, before the snapshot" without checking that against the two actual
 numbers the pass had already transcribed two sections earlier in the same file.
 
 **Why it isn't simply "Declining" either:** `01` §3's status table offers Living / Growing / Declining / Dying /
@@ -531,7 +531,7 @@ for it, and self-audit in prose does not catch it because reading past a familia
 conflict exactly as it governs generator-vs-generator conflict, and now says so — ✅ IMPLEMENTED
 
 **Found and corrected live, during Run 4's Step 7**, at the developer's direct instruction. A first draft of
-this pass's Gate 6 reconciliation (`Test_Runs/2026-08-30_Zhongshan_Run4_Cold_Methodology-Delta/
+this pass's Gate 6 reconciliation (`Archive/ULM_Records/Test_Runs/2026-08-30_Zhongshan_Run4_Cold_Methodology-Delta/
 09_Step7_Gate6_and_Reconciliation.md`) treated a real contradiction between this pass's Phase 8 cuisine/crafts
 finding and Zhongshan's existing culture sheet as a flat kill — "this pass was wrong, discard it." **The
 developer's correction:** a contradiction between two true-seeming claims about the same place is not
@@ -811,7 +811,7 @@ deeper search; **Pisces's original null reversed into a real finding** (an infor
 matching the sign's registered "thrill of the hunt" almost exactly) that the shallow first pass never reached;
 two signs (Sagittarius, Capricorn) were checked further and confirmed to genuinely warrant only one result,
 with the rejected alternatives and reasons stated. Full comparison in
-`Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`.
+`Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`.
 
 **Second catch, same session, same developer, immediately after seeing the re-run:** *"a lot of these are now
 'two results.' Did that happen organically, or did you just stop as soon as you discovered an additional
@@ -854,7 +854,7 @@ results against each other for novel combinations. **Implemented in full**, deve
 verbatim, as an extension to `Cultural_Synthesis_Techniques.md`'s Technique — The Zodiac Lens.
 
 **Run completed, same session, serially (not yet via the parallelization pattern below).** Full results:
-`Test_Runs/2026-08-31_Sinheung_Run5_Cold/17_Zodiac_Elemental_Planetary_CrossCheck.md` — 56 hits of 216 prompts,
+`Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/17_Zodiac_Elemental_Planetary_CrossCheck.md` — 56 hits of 216 prompts,
 every null carrying a stated reason. Two standout results: Cancer's Wood cross-check closed a real,
 previously-open Review Panel gap (childcare); Pisces's single base result (itself a reversal from an initial
 null) produced the richest single-sign harvest of the whole extension once run to full depth.
@@ -878,7 +878,7 @@ have found alone.
 # M-41 — the per-HIT contradiction check: a further developer-proposed self-check on the Zodiac Lens family,
 implemented and applied to the base run
 
-**2026-08-31, immediately after M-40.** The developer proposed that every kept HIT (base run or extension
+**2026-08-31, immediately after M-39.** The developer proposed that every kept HIT (base run or extension
 cross-check) get a deliberate second look: generate a candidate in apparent tension with the register just
 found (industry vs. leisure, formal vs. informal, communal vs. private) and check whether it **also**
 characteristically fits, kept alongside the original rather than replacing it — explicitly distinguished from
@@ -888,7 +888,7 @@ preserved verbatim, as step 7 of `Cultural_Synthesis_Techniques.md`'s Technique 
 every layer the technique family operates at (the base run, each of the 216 cross-check cells, and inside each
 parallel per-sign subagent's own work).
 
-**Applied to Sinheung's base twelve-sign run** (`Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`):
+**Applied to Sinheung's base twelve-sign run** (`Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`):
 eight genuine new findings, including a Capricorn/Aquarius cross-reference (the Chief Engineer's formal
 authority and the voluntary technical society turn out to be two independently-discovered sides of the same
 real civic tension) and a way to give the existing RESERVED Notable Figures a folk-memory role without touching
@@ -965,15 +965,12 @@ Run 5, 2026-08-31
 **What happened.** Sinheung Run 5's Phase 1 (four generators: physical constraint, function, founding
 condition, symbol pair — none of them culture-pass-derived) converged on a central finding: Sinheung pays,
 continuously, on multiple independent fronts, to keep being believed to have deserved to exist. Step 5's
-reconciliation, run entirely before any withheld file was opened, further distinguished this from Zhongshan's
-own founding condition specifically **because** Zhongshan's claim was *confirmed* (organic, prior operator
-presence) while Sinheung's was *allocated from nothing* by the Jeju-do court.
+reconciliation, run entirely before any withheld file was opened, located Sinheung's founding condition in its
+own allocation by the Jeju-do court.
 
 **Only then**, per `RESUME_HERE.md` §5 step 10, was `Local_Cultures/Mirny_Subnet/Sinheung.md` opened. Its own
 central finding, written independently and earlier, with full access: *"Claimed, Not Found"* — a civic
-character built around "proving the claim through output rather than through inherited legitimacy," with the
-Zhongshan comparison stated **almost word-for-word**: *"Zhongshan's claim was organic and merely confirmed by
-Jeju-do; this city's claim was made by Jeju-do from nothing. Both cities know it."*
+character built around "proving the claim through output rather than through inherited legitimacy."
 
 **Why this is the strongest result recorded, not merely a good one:** every prior Gate 6 fire in this
 methodology's history (Zhongshan Run 4) found *collisions* — duplicate institutions needing differentiation.
@@ -1005,10 +1002,9 @@ implemented below in the same commit.
 
 **Found during Sinheung Run 5's Phase 1.** `02` §4.1's "in its own past" address assumes the witnesses who
 could name a deficit have **departed** (the Shirayuki Run 1 worked case: emigration removed the comparison
-population). Sinheung's G4 founding-condition deficit (no organic, lived claim to the site) does not fit this:
-**the comparison population — Zhongshan and Shirayuki's own founding populations, who DO have organic/prior-
-operator claims — never left. They are immediate neighbors, living a few hundred meters to 8km away,
-permanently.** This is neither "in its own past" (evidence departed) nor "diffuse" (no witness ever existed).
+population). Run 5 raised a third case: **a deficit whose comparison population never left — an immediate
+neighbor, living alongside the place permanently.** This is neither "in its own past" (evidence departed) nor
+"diffuse" (no witness ever existed).
 
 **Proposed addition to `02` §4.1's PEER-FREE table**, implemented below: **"In a neighbor's present"** — the
 deficit is nameable and the comparison is constantly, physically available, but naming it requires looking
@@ -1250,7 +1246,7 @@ canon foregrounds its Destroyed status far more prominently than Highway 37's di
 file's own header line, its DLC description, an entire "Current Status / Destruction" section, and a closing
 "Legacy" section written in a genuinely elegiac register about the city's loss. **This run held the neutral,
 living, pre-war frame throughout regardless**, verified by an actual zero-hit sweep across all eleven phase
-files (Gate F, `Test_Runs/2026-08-31_CapeAdare_Run7_Cold/12_Step7_QA_Gates.md`) — not merely a mid-pass
+files (Gate F, `Archive/ULM_Records/Test_Runs/2026-08-31_CapeAdare_Run7_Cold/12_Step7_QA_Gates.md`) — not merely a mid-pass
 correction holding by inertia, but a rule tested under real narrative pull toward the more dramatic, better-
 documented alternative, and holding anyway.
 
@@ -1312,26 +1308,19 @@ unmarked conclusion content should log it and route it there, rather than fixing
 
 ---
 
-# M-56 — ⭐ Gate 6 run on Cape Adare: the falsifiable test passes in BOTH directions, and the misses are input failures
+# M-56 — Gate 6 run on Cape Adare: real novelty, and a match and two misses that rest on the site's own history
 
 **2026-08-31, Run 7's deferred Gate 6, executed at the last possible moment** — immediately before the
 developer authorized admitting the withheld material for a warm re-run, which permanently ends the ability to
 measure a cold pass against it.
 
-**Convergence — the second recorded instance.** Run 7's spine finding, derived from the census table and the
-admissible Founding section alone, was **"precedence without a majority."** The withheld culture sheet's own
-Post-Culture Identity section names the city's core identity **"Precedence"** and describes it as *"a fact so
-large it flattened whatever national distinctions its mixed population might otherwise have organized
-around."* **Near-verbatim, from different evidence.** After Sinheung Run 5 (M-35), **this is the second time a
-cold pass has independently reproduced a withheld sheet's own central claim** — which is now a pattern rather
-than an anecdote, and the strongest evidence yet that the generator stack tracks something real about this
-project's founding-condition facts.
-
-**A second, smaller convergence worth recording because it happened in a different system:** the Canon Gap
-Resolution Method's prepared groundwork for St. Carsten's feast day (DRQ-01) recommended commemorating **the
-staying** rather than the landing, reasoning from the Saints framework's own wording. The withheld file's §26
-had already named the primary observance **"St. Carsten's Wintering,"** with "The First Landing" explicitly
-secondary. **Two systems, neither reading the withheld file, both landing on the wintering.**
+**The match — on a premise that is not an input.** Run 7's spine finding, derived from the census table and
+the Founding section, was **"precedence without a majority."** The withheld culture sheet's own Post-Culture
+Identity section names the city's core identity **"Precedence."** **Both rest on the real site's history** —
+the 1899 landing and first overwintering at Cape Adare — which never grounds a city's identity, core value or
+founding logic (`DR-28`). The match shows two passes reading the same site history, not the generator stack
+tracking a founding condition. **The census half of the finding stands on its own**: no single national
+community holds a majority.
 
 **Novelty — the test's other half also passes.** Three findings the withheld material does not contain, led by
 **the arrival-wave mismatch**: the census's own annotations flag New Zealand as *earliest founding wave* at
@@ -1344,67 +1333,49 @@ dominant template to push against); Run 7 derived one. **Both-are-true applied: 
 withheld file means rebellion against a template, Run 7 described opting out of a process. **Run 7's content
 survives with a corrected label; the withheld file's calibration is better.** A mislabeling, not a kill.
 
-**⭐ And the most useful finding for the methodology: BOTH of the cold pass's real misses were input failures,
-not analytical ones.** Run 7 entirely missed that **roughly a third of Cape Adare's stated economy is
-heritage-preservation and civic memory-keeping** (withheld §15/§17/§24/§25), and missed the sharper form of the
-city's own fault line (*"what happens if the hut is lost?"* rather than the vaguer "precedence contested").
-**Neither fact appears anywhere in admissible material** — the Specs file names the hut as a landmark but never
-states that memory-keeping is a major economic sector.
+**⭐ And the most useful finding for the methodology: the cold pass's two apparent misses are not findings it
+should have made.** Run 7 did not produce the withheld file's claim that **roughly a third of Cape Adare's
+stated economy is heritage-preservation and civic memory-keeping** (withheld §15/§17/§24/§25), nor its fault
+line (*"what happens if the hut is lost?"*). **Neither appears in admissible material, and neither stands**:
+both build the city's identity on the 1899 hut, which is the real site's history (`DR-28`), and the §15 sector
+figure is itself a canon defect (M-59, M-60).
 
-**This is the cleanest demonstration yet of M-54's distinction.** The pass did not fail to reason; it was not
-given the premise. **A cold pass's quality ceiling is set by its admissible input, and measuring a cold pass
-without measuring its input scarcity will systematically misattribute the second to the first.**
+**What this adds to M-54's distinction:** a fact absent from admissible material is not automatically a miss.
+**Before scoring a cold pass against a withheld file, check that the withheld claim stands on admissible
+ground.** A withheld claim resting on the site's history, or on a canon defect, is not a ceiling the pass
+failed to reach.
 
 
 ---
 
-# M-57 — ⚠ A settled decision, invisible to every file anyone would check — and a REQUESTED item that should never have existed
+# M-57 — ⚠ A suggestion file's "adopted" date is not a decision — and the REQUESTED item stands
 
 **2026-08-31, found while opening Cape Adare's withheld material for a warm pass.**
 
-**St. Carsten's civic observance date was formally adopted on 2026-07-17** — *"February 17th is formally
-adopted as St. Carsten's Landing"* (`Background-Lore/Cities/Janbogo_Subnet/Cape_Adare/Cape_Adare_Course_of_
-Events_Suggestions.md` §6), with `Cape_Adare_Mega_Init.md` recording it as **"Resolved 2026-07-17."**
-
-**Six weeks later, the decision had reached none of the three files anyone would look in:**
+**St. Carsten's civic observance date is unsettled in canon:**
 
 | File | State |
 |---|---|
-| `Specs/Cape_Adare.md` Open Questions | still *"a specific date TBD"* |
-| `Local_Cultures/…/Cape_Adare.md` §26 | names a **different** primary observance, *"exact date TBD"* |
-| `Worldspace/National_Holidays.md` Saints roster | St. Carsten absent entirely |
+| `Specs/Cape_Adare.md` Open Questions | *"a specific date TBD"* |
+| `Local_Cultures/…/Cape_Adare.md` §26 | *"exact date TBD"* |
+| `Worldspace/National_Holidays.md` Saints roster | St. Carsten absent |
 
-**The consequence chain, and nobody in it acted wrongly:** ULM Run 7 read only admissible material, found
-"TBD," and correctly logged a REQUESTED item. The Canon Gap Resolution Method triaged it RESERVED, prepared
-groundwork, and routed it to the developer. **The developer was asked to decide something their own project had
-already decided, and answered "I currently have no idea" — which was the only possible answer given what was
-in front of them.**
+A `Background-Lore/` Course of Events suggestions file names a date and calls it adopted, and
+`Cape_Adare_Mega_Init.md` records it as resolved. **The Background-Lore vignettes and every Course of Events
+file are not canon and never an input** — not read, not cited, not corroboration — so neither settles anything.
 
-**This is the exact failure class the project's own investigation skeleton already names** — *"a fix in one
-layer does not propagate to the others"* and *"a correct diagnosis inside an analytical document is not a
-fix."* **What is new is the direction: previous instances were a fix failing to propagate. This is a
-*resolution* failing to propagate, which is worse**, because a stale TBD actively manufactures phantom work —
-it generated a REQUESTED item, a triage, a research pass, a queue entry, and a developer interruption, all for
-a question with an existing answer.
+**The chain held:** ULM Run 7 read only admissible material, found "TBD," and correctly logged a REQUESTED
+item. The Canon Gap Resolution Method triaged it RESERVED, prepared groundwork, and routed it to the
+developer, who answered *"I currently have no idea."* **The REQUESTED item stands.** Whether St. Carsten
+belongs on the Saints roster at all is a question for the Saints canon; Cape Adare's identity never rests on
+it (`DR-28`).
 
-## The self-catch, recorded because it is the more useful half
+## The rule this yields
 
-**The Canon Gap Resolution Method's Path 1 should have found this and did not.** Its own procedure cites the
-concentric-ring rule — *widen to a repo-wide grep with no path restriction* — and the answer was sitting in
-`Background-Lore/`, **outside the Cities folder entirely.** The search stayed inside Cape Adare's own file set
-and stopped. **A Gate 7 failure on that system's very first ruling-preparation.**
-
-**Implemented as a hard rule rather than a lesson:** before routing anything to a developer as RESERVED, run
-the unrestricted repo-wide search. **The cost of skipping it is not a missed fact — it is spending the
-developer's authority on a question that was already closed.**
-
-## And the contradiction the discovery exposed, which IS a real open question
-
-The adopted holiday commemorates **the landing**. `Local_Cultures` §26 makes **the wintering** the central
-observance and demotes the landing to secondary — and §18 states the city's theology explicitly: veneration is
-*"focused specifically on the act of staying rather than the act of arriving."* **The formally-adopted holiday
-commemorates the one thing the city's own religious framing says is not the significant part.** Routed as
-DRQ-01b.
+**The Canon Gap Resolution Method's Path 1 widens to a repo-wide search before routing anything as RESERVED,
+and that search excludes `Background-Lore/` and every Course of Events file.** A hit there is not an answer.
+Treating it as one would launder a non-canon suggestion into a ruling — `05` §6.1b's laundering problem on the
+authority axis (M-62).
 
 
 ---
@@ -1422,9 +1393,13 @@ capability shapes**, purely from the admitted input set:
 **What filled it:** `Local_Cultures` §15 assigns heritage-site preservation 20% and civic memory-keeping 15%;
 §17 makes archival work the robot specialization; §24 and §25 build on both. **Roughly a third of the city's
 stated economy is the maintenance of one 1899 hut and its documentation** — a textbook standing cost in `02`
-§3.1's sense, and **none of it appears in any admissible file.**
+§3.1's sense, and **none of it appears in any admissible file.** **And none of it stands**: it builds the
+city's economy on the real site's history (`DR-28`) and on a sector figure M-59 shows to be a canon defect.
+**So this instance shows the mechanism, not a correct warm reading** — the warm quadrant was filled by
+culture-tier content a cold pass cannot reach, which is what the warning below is about; here that content
+was also wrong.
 
-**Why this instance matters more than Zhongshan's (M-?/Runs 3–4), which established the phenomenon:**
+**Why this instance matters more than Zhongshan's (M-9/Runs 3–4), which established the phenomenon:**
 Zhongshan's flip came from **deliberately quarantining known institutions** — an artifact of the experiment.
 **Cape Adare's came from canon that existed, was never withheld by anyone's choice, and was simply unreachable
 from the attribute tier.** That is the far commoner situation.
@@ -1474,10 +1449,8 @@ economic function** (Davis agriculture 35%, Casey transit/logistics 30%, Zukelli
 > **Proposed as a dedicated sweep across all 35 cities' §15 sections**, the same shape as the founding-nation
 > bug sweep — flagged, not started.
 
-**The reframe that fixes it is also better fiction:** heritage is Cape Adare's most **famous** work, not its
-biggest. Athens is not 35% archaeology. A small, prestigious institution carrying outsized civic identity is
-more interesting than mass employment — and it makes the surviving-record finding sharper, since survival then
-rests on a specific fragile institution rather than sheer numbers.
+**The reframe that fixes it is also better fiction:** a sector is named by what a city of that size actually
+does, not by its most famous object. Athens is not 35% archaeology. The fuller fix is M-60's.
 
 
 ---
@@ -1532,9 +1505,9 @@ for object-colonization — the same shape as the founding-nation bug sweep, and
 
 **For a gateway port city, records are operational infrastructure, not sentiment.** Arrival logs, cargo
 manifests, customs and port records are what a landfall city actually *runs on* — which makes a large
-archival sector at Cape Adare not merely plausible but *functionally necessary*, and reframes its
-memory-keeping identity as working infrastructure that happens to also hold a hut's documentation. **A better
-answer than either the original claim or the first correction.**
+archival sector at Cape Adare not merely plausible but *functionally necessary* — standing on the city's own
+port function, not on the site's history. **A better answer than either the original claim or the first
+correction.**
 
 ---
 
@@ -1648,15 +1621,15 @@ only question ever asked of a header was the circularity one.
 >
 > **And it has already failed in output.** Cape Adare **Run 8 (warm)** lists
 > `Cape_Adare_Course_of_Events_Suggestions.md` in its input set **with no status marking** — admitted as
-> settled. A warm pass admits everything by design, which is why the fix is *status marking*, not exclusion.
+> settled. These files are not canon and never an input, in a warm pass as in a cold one, so the fix is
+> exclusion.
 
-## Why DEMOTE rather than QUARANTINE
+## Why EXCLUDE, not merely quarantine
 
-**Quarantine is for contamination risk; unratified material poses none.** It is upstream, developer-authored,
-and often good. It simply has no authority yet. So it is **demoted to prompt standing — the same standing a
-real-world inspiration has: a source, never a specification.** It may be read; it cannot ground a finding,
-settle a fact, or be cited as canon. **A finding resting only on unratified material is REQUESTED, not
-PRODUCED** — it goes back as a ratification question.
+**Quarantine is for contamination risk; this is a different axis.** The Background-Lore vignettes and every
+Course of Events file are **not canon and never an input** — not read, not cited, not scheduled, not a prompt,
+not corroboration. **A finding that would need one is REQUESTED, not PRODUCED** — it goes to the developer as
+a question.
 
 **And never ratify by use.** Citing a suggestion in a pass, then treating that pass as canon, is `6.1b`'s
 laundering problem transplanted from the provenance axis to the authority axis.
@@ -1666,13 +1639,12 @@ laundering problem transplanted from the provenance axis to the authority axis.
 - **`05_The_Input_Contract.md` §6.3 — new.** The two-axis table, the recorded instance, the five rules.
 - **`05` §7 pre-flight** — a ratification block added to the Input Contract Check, explicitly run *second*,
   on inputs that already passed §6.1.
-- **Run 9's handoff** marks Janbogo's eleven vignettes demoted before the run opens.
+- **Run 9's handoff** marks Janbogo's eleven vignettes not canon and never an input before the run opens.
 
-## Outstanding
+## Status
 
-- **Cape Adare Run 8 needs its input set re-marked** — the suggestion file is currently listed as an equal.
-- **The ratification decision itself is the developer's and is not made.** Which `Course_of_Events` files are
-  canon is an open question across all 35 cities, not only Janbogo.
+- **The developer's rule covers every city:** the Background-Lore vignettes and every `Course_of_Events` file
+  are not canon and never an input.
 
 ---
 
@@ -1884,24 +1856,19 @@ pass.
 
 ---
 
-# M-68 — Two Phase 6 (Meaning) results worth carrying forward: a structural Saints-category mismatch, and a candidate fifth reason for outsourcing the dead
+# M-68 — Two Phase 6 (Meaning) results worth carrying forward: a Saints question routed to the Saints canon, and a candidate fifth reason for outsourcing the dead
 
 **Found 2026-08-31, Run 9 (Janbogo), Phase 6.** Recorded here per the recording law even though both are
 "successful technique" results rather than snags — the recording law is explicit that ways of achieving
 results belong in this file too, not only problems.
 
-## Finding 1 — Janbogo cannot structurally hold a Tepenian Saint, and the reason generalizes
+## Finding 1 — whether Janbogo holds a Tepenian Saint is a Saints-canon question, not a naming one
 
-`National_Holidays.md`'s Tepenian Saints category venerates specifically **pre-war Antarctic explorers**
-(Scott, Shackleton, Amundsen, Mawson, Byrd). Janbogo's own namesake — Jang Bogo, a 9th-century Korean naval
-commander — has no Antarctic connection whatsoever, so Janbogo cannot participate in the Saints framework by
-the framework's own defining criterion, even though two of its own subnet-mates (Scott, Fort McMurdo) do.
-**This generalizes**: any Tepenian city whose real-world basis is a *modern* research station named for a
-non-exploration-era historical or cultural figure (rather than a Golden-Age-of-Antarctic-Exploration
-explorer) will hit the identical structural mismatch. **Worth a targeted check**: which of the 35 outer
-cities' real-world station namesakes are modern/non-explorer figures, since each is a candidate for the same
-finding, and each would need the same REQUESTED handling (a genuinely new observance category, not forced
-into Saints).
+`National_Holidays.md`'s Tepenian Saints category venerates **pre-war Antarctic explorers** (Scott,
+Shackleton, Amundsen, Mawson, Byrd) as Federation-wide observance. Janbogo keeps the name of the station at its
+coordinates (Jang Bogo, a 9th-century Korean naval commander); keeping a station's name is a naming fact only,
+and a city's observances are never derived from its namesake (`DR-28`). **Whether Janbogo holds a Tepenian
+Saint is a question for the Saints canon, not for the real station's naming; REQUESTED.**
 
 ## Finding 2 — a candidate fifth reason for outsourcing the dead
 
@@ -2062,9 +2029,9 @@ signal worth elevating, not just noting.
 # M-72 — Step 6 differentiation caught a real near-collision between two ULM-run siblings, pre-empting Gate 6
 
 **Found 2026-08-31, Run 9 (Janbogo), Step 6.** Checking against the most recently completed ULM sibling
-(Cape Adare, Run 7) per `04` Part III.2, Janbogo's own G8 finding (founding operator nation not the
-demographic majority) rhymed closely with Cape Adare's own spine finding ("precedence without a majority" —
-founding-memory-holder ≠ demographic-weight-holder). **Differentiated inline on four axes** (nature of the
+(Cape Adare, Run 7) per `04` Part III.2, Janbogo's own G8 finding (founding nation — Korea — not the
+demographic majority) rhymed closely with Cape Adare's own census-based finding (no single national community
+holding a majority). **Differentiated inline on four axes** (nature of the
 founding claim, what displaced it, severity/shape of the gap, tense) rather than left as an unremarked
 coincidence — full table in `14_Step5_Reconciliation.md`.
 
@@ -2079,17 +2046,16 @@ its own dedicated table, per the same reasoning the district folder's own table 
 
 ---
 
-# M-73 — Gate 6 opened: five genuinely new findings, one honest partial divergence, zero kills, one triple-confirmed methodology self-validation
+# M-73 — Gate 6 opened: four genuinely new findings, one honest partial divergence, zero kills, one triple-confirmed methodology self-validation
 
 **Run 2026-08-31, Run 9 (Janbogo), Step 7 Gate 6.** Full write-up: `15_Step7_Gate6_Withheld_Comparison.md`.
 Headline result, recorded here because it is the run's own answer to `05` §6.1's closing falsifiable test.
 
-**Five findings this pass produced are genuinely absent from the 32-section withheld culture sheet**: the
+**Four findings this pass produced are genuinely absent from the 32-section withheld culture sheet**: the
 death/departure Registry institution (the culture sheet has NO mortuary content anywhere — a total gap this
 pass filled, independently reinforced by six of twelve Zodiac Lens signs); the quantified G4 founding-
 footprint mismatch (real station staffing numbers, not in the culture sheet's own vaguer version); the
-polynya-driven cuisine-timing advantage; the quantified Zukelli founding-dilution comparison (10.23% vs.
-6.24%); and the two-layer outdoor-labor culture. **One partial divergence was found and honestly recorded
+polynya-driven cuisine-timing advantage; and the two-layer outdoor-labor culture. **One partial divergence was found and honestly recorded
 rather than smoothed**: Phase 5d's economic-participation membership candidate turned out to be one layer
 beneath the culture sheet's own more specific reciprocity-of-hosting marker — both-are-true tested and kept
 as a real, informative near-miss rather than either a false match or a discarded kill.
@@ -2103,7 +2069,7 @@ contradiction, don't pick a side) turned out to be exactly right** — a rare ca
 discipline's payoff is directly, cleanly demonstrable within a single run.
 
 **Comparable in strength to Zhongshan Run 3's own ten-finding falsifiable-test result** (`RESUME_HERE.md`'s
-own cited precedent for what a strong Gate 6 pass looks like) — this run's own five-plus-one result, on a
+own cited precedent for what a strong Gate 6 pass looks like) — this run's own four-plus-one result, on a
 location deliberately chosen for richness and heavy admissibility exclusions rather than thinness, is a real
 data point that the instrument's falsifiable-test property holds even under much harsher input constraints
 than Zhongshan Run 3 faced.
@@ -2320,7 +2286,7 @@ industry and its loudest, busiest environment"; six Cross-Referenced Findings in
 self-caught the exposure before Phase 0 began** (unlike Cape Adare Run 7's own mid-pass catch) and, at the
 developer's own direction, did not attempt to salvage a cold pass — instead read everything relevant in
 full and built a complete admissibility map and reading sequence for a genuinely fresh session, filed as
-`Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`.
+`Archive/ULM_Records/Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`.
 
 **Why this is a genuinely new case for this methodology's own quarantine discipline, not a repeat of an
 already-recorded pattern.** Every prior contamination event in this series (M-21's memory leak, Cape Adare's
@@ -2511,7 +2477,7 @@ own application of the signs and no visibility into each other's work, ran the b
 
 **Seven of the twelve — Taurus, Gemini, Virgo, Sagittarius, Capricorn, Scorpio, Aquarius — independently
 converged on an identical two-part institutional shape**: this port runs on exactly one written authority (a
-manual inherited from a defunct founding institution, never formally revised) and exactly one living
+manual inherited with the station's records, never formally revised) and exactly one living
 authority (peer-taught workaround knowledge, never formalized), with nothing anywhere reconciling the two.
 Each sign reached this through its own genuinely distinct registered material — Taurus's "first-impression
 lock" shadow, Gemini's Jupiter-in-detriment ("can retrieve anything and rank nothing"), Virgo's
@@ -2519,7 +2485,7 @@ Mercury-as-scribe "unsigned work" core need, Sagittarius's core need for "a warr
 external and written down," Capricorn's own Pricus myth (resetting to a configuration that no longer holds
 rather than revising it), Scorpio's "authority without visibility," and Aquarius's Saturn/Uranus split
 explicitly naming the codified and improvising registers as "the same person, not two factions." **Full
-detail and per-sign citations in `Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/11_Zodiac_
+detail and per-sign citations in `Archive/ULM_Records/Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/11_Zodiac_
 Lens.md`.**
 
 **This exceeds every prior convergence this methodology has produced.** Janbogo Run 9's six-sign convergence
@@ -4227,8 +4193,9 @@ those is an alias, and every alias is a search term the sweep did not run.**
 > retired placeholders · the real-world basis name · candidate names that were considered and dropped.**
 > **Sweep the union. Record the alias set in the review, so the next session sweeps the same width.**
 
-**⚠ And the sharpest case is the REAL-WORLD BASIS NAME**, because it is simultaneously an admissible `G7`
-attribute *and* the key to conclusion-tier prose written before the rename. **`Specs/` files record it
+**⚠ And the sharpest case is the REAL-WORLD BASIS NAME**, because it is a coordinate and infrastructure record
+only (never a cause of the location's founders, identity or culture, per `02` §G7) *and* the key to
+conclusion-tier prose written before the rename. **`Specs/` files record it
 openly — so the alias set is cheap to build and there is no excuse for not having one.**
 
 ---
@@ -5432,7 +5399,7 @@ second one arriving *after* the first was corrected.
 
 1. **National attribution disguised as neutral structural/infrastructure fact.** Real Bharati Station's
    construction (shipping containers, Antarctic-Treaty disassembly design) was framed as thematically
-   load-bearing for Shirayuki, with the founding nation's name attached. Corrected on developer flag.
+   load-bearing for Shirayuki, with the station operator's name attached. Corrected on developer flag.
 2. **The same violation immediately recurred, with different nations in it.** Searching for a real-world
    comparable, the session reasoned "the real Larsemann Hills already has multiple real nations' stations
    clustered together — that's more directly relevant than a generic historical analogy" and went on to
@@ -5745,9 +5712,9 @@ pre-contamination review sitting in the same methodology directory.***
 
 | What existed | What the boot showed |
 |---|---|
-| `Test_Runs/2026-09-02_Shirayuki_Run13_Cold/` | — |
-| `Test_Runs/2026-09-03_Shirayuki_Run14_Cold/` — **§4 titled *"Work banked… so a successor session inherits it rather than re-deriving it"*** | — |
-| `Test_Runs/2026-09-03_Shirayuki_Run15_Cold/` — 3 coordinate maps, fixpoint provenance, `unanimity.py` | — |
+| `Archive/ULM_Records/Test_Runs/2026-09-02_Shirayuki_Run13_Cold/` | — |
+| `Archive/ULM_Records/Test_Runs/2026-09-03_Shirayuki_Run14_Cold/` — **§4 titled *"Work banked… so a successor session inherits it rather than re-deriving it"*** | — |
+| `Archive/ULM_Records/Test_Runs/2026-09-03_Shirayuki_Run15_Cold/` — 3 coordinate maps, fixpoint provenance, `unanimity.py` | — |
 | `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md` — 749 lines | — |
 
 ### Why every control missed it, and none of them malfunctioned
@@ -6034,7 +6001,7 @@ different city, and it is registered as canon for the question.***
 | ⭐⭐ **`Division_of_Industry/09` §3.5** | ***THE FREEDOM GRADIENT*** — **which the physiology file itself cites as the measure of "the thing the exile was for."** *It was never registered for the phase that needs it* |
 | `Division_of_Industry/11` | the rebuilt food layer |
 | ✅ **`National_Medical_and_Care_Institutes.md`** | `locked-canon` — *the only clean file of the eight the Run 15 provenance check tested* |
-| `National_Economy_and_Currency.md` | ⚠ in-frame: the energy-backed national currency. **The post-Split-Brain fracture is POST-WAR** |
+| `National_Economy_and_Currency.md` | ⚠ in-frame: a national currency existed (backing unsettled at every stage, `DR-3` — do not read "energy-backed"). **The post-Split-Brain fracture is POST-WAR** |
 
 **And the `§C` row for `City_Logistics.md` is re-scoped in place** — *marked **CONCORDIA ONLY**, with its two
 genuinely general sections (**the Dual Economy**, the currency pointer) named so they are not lost.*
@@ -7648,8 +7615,7 @@ check before reusing those numbers.**
 *"available to every pass, with or without siblings."*** ⛔ **The fifth is not peer-free.**
 
 > ### The definition defeats the filing
-> ***"In a neighbor's present"*** requires **a co-located peer who holds the thing organically and never
-> departed.** **Establishing that requires reading another location's PRESENT STATE** — which
+> ***"In a neighbor's present"*** requires **a co-located peer who holds the thing and never departed.** **Establishing that requires reading another location's PRESENT STATE** — which
 > `00_RUNBOOK.md`'s **ONE LOCATION law** *(developer ruling, 2026-09-06)* forbids in-run.
 
 ## ⭐ AND THE SHAPE IS ALREADY ON RECORD — this is the second instance of one pattern
@@ -7750,8 +7716,8 @@ it.*
 of `Specs/Davis.md` L143, **the single line that says what Davis is for.**
 
 > ## ⛔ **L143 CONTAINS NO SELF-UNDERSTANDING AT ALL.**
-> **Its own word for the research half is *"heritage"* — an inheritance, not an identity — and BOTH clauses are
-> parent-facing:** *"Tepenia's breadbasket"* and *"a prime… research hub"* **both state what the place is FOR,
+> **It names the research half as something inherited from the station (`DR-26`), not as an identity — and
+> BOTH clauses are parent-facing:** *"Tepenia's breadbasket"* and *"a prime… research hub"* **both state what the place is FOR,
 > to somebody else.**
 >
 > ⭐ **Two readers killed it INDEPENDENTLY, by two different routes:** one by reading the line closely against
@@ -7967,7 +7933,7 @@ rebuilt, and questioned again.**
 > ## ⛔⛔ EVERYTHING THE DETOUR COST WAS ALREADY WRITTEN DOWN
 > | Reasoned out from scratch, over roughly an hour | Where it already sat |
 > |---|---|
-> | **That history files are not canon** | ⭐ **`05` §6.3, in full** — *"One location's `Course_of_Events/` set… is not confirmed canon… **EVERY LOCATION HAS A FOLDER OF THIS KIND.** They are proposals awaiting a ratification decision the developer has not yet made"* |
+> | **That history files are not canon** | ⭐ **`05` §6.3, in full** — *"One location's `Course_of_Events/` set… is not confirmed canon… **EVERY LOCATION HAS A FOLDER OF THIS KIND.**"* Not canon, and never an input |
 > | **That ratification is a separate axis from provenance** | **`05` §6.3's own title and its three-row table** |
 > | **That a particular infrastructure file was inadmissible** | ⭐⭐ **`05` §6.1a, which names that file class BY FILENAME as its worked example** — *"the filename says attributes. The file was two passes welded together… its own header named a withheld culture file as a source"* |
 > | **The scales for the both-are-true test** | **`04`'s Gate 6 note** |
@@ -8270,3 +8236,140 @@ built on a search that did not match the format. Both produce a clean-looking re
 ⚠ **Not escalated to a runbook edit.** **The operating-hours law itself is correct and needs no amendment —
 what failed was the practice of filling in its record.** ⭐ **Recorded here so the next session inherits the
 practice, not just the law.**
+
+---
+
+# `M-245` — ⛔ **A RULE STATED ONCE IN A FILE IS INVISIBLE TO A READER WHO OPENS A LATER SECTION OF THE SAME FILE**
+
+**Measured 2026-09-27, Shirayuki Phase 10 §B3 (the symbol re-derivation) and the developer's own follow-up
+question about it.**
+
+**`DR-8a` (2026-09-16) is correctly and fully stated in `02_Generators_Capability_and_Symbols.md`'s own `G1`
+entry (§2, line ~130): the city Planet + Element system is deferred to Step 4, Phase 10 §B3, and is excluded
+from every earlier step and phase, no exceptions.** ⛔ **But §6.3, ~560 lines later in the same file, presents
+the pairing-relation typology — the actual mechanism `G1` would use — as available, structured, rich content,
+with no cross-reference back to §2's own deferral.** **A reader who opens the file at §6 (Symbol binding)
+rather than at §2 (the generator stack) would never encounter the timing rule at all — same file, same
+document, two sections that do not know about each other.**
+
+## ⇒ THE SHAPE, AND IT IS `M-121` ONE LEVEL DOWN
+
+**`M-121`'s finding was cross-FILE: a governing document no local file declares as a source is invisible to a
+source-declaration audit.** ⭐ **This is the same mechanism cross-SECTION, inside one file:** a rule stated once,
+in the section where it was decided, does not reach a reader who is pulled to a *different* section of the same
+document by its own table of contents — because nothing at the point of actual temptation says to look back.
+
+**Section 6 was written as universal, project-agnostic methodology (`00_RUNBOOK.md`'s own LAYERING LAW
+requires this) — correctly. But "universal and timeless" and "not currently gated" read identically on the
+page unless the gate is repeated at the point where the technique is described in enough detail to be worth
+running.**
+
+## ⇒ THE FIX APPLIED
+
+1. **A banner at the top of `# 6. Symbol binding`**, before `§6.0`, naming the `DR-8a` gate explicitly and
+   pointing back to `G1`'s own `§2` entry.
+2. **A second, identical reminder immediately inside `§6.3`** — the specific subsection with the rich,
+   actionable content — rather than trusting the section-6 banner alone to be read and remembered 30+ lines
+   later.
+3. **A one-line flag on the generator-stack table itself** (`§2`'s own summary row for `G1`), so even a reader
+   who never opens `G1`'s full entry sees the deferral at the first mention.
+
+## ⇒ THE GENERALIZED TEST
+
+**For any binding rule that lives in one section of a long reference file: if the file has a second section
+describing the same mechanism in enough operational detail to tempt early use, the rule must be repeated
+there too — not cross-referenced once and trusted to carry.** ⭐ **A rule that only exists where it was decided
+protects a reader who starts at the beginning. It does nothing for a reader the document's own structure sends
+somewhere else first.**
+
+⚠ **Not a new ruling — `DR-8a` needed no change and none was made.** **This is propagation of an existing,
+correct rule into the place inside its own host file where it was silently absent.** ⭐ **Recorded because the
+next long reference file this project writes will have the same shape unless the test above is applied to it
+on purpose.**
+
+---
+
+# `M-246` — ⭐⭐ **THE `T8` WRITE IS A MERGE, NOT A PICK — CONTRADICTION GOES CONSERVATIVE, SILENCE GOES TO UNION**
+
+**Found on:** Mirny, Step −1, 2026-09-28. **Developer instruction, verbatim:** *"When different subagents process
+data, think about the information, and reach results, assuming that the results are not contradictory to each
+other, that itself could be worth writing to the files, because one subagent may find a fact that another
+subagent missed."*
+
+## ⇒ WHAT HAPPENED
+`PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 said *"any one of the three unanimously-cleared outputs may be used as
+the written content."* **On Mirny's Step −1 the three readers passed Round 2 (15/15) and Round 3 (6/6 CONSISTENT)
+while differing on ~40 spans** — and **the three most valuable finds were each seen by ONE reader in Round 1**: a
+contradiction inside a single 1,180-character spec line; a one-short rounding gap in a census table; other-location
+instances sitting inside required rule files. **Picking any one reader's output would have discarded two of the
+three.**
+
+## ⇒ THE RULE
+1. **Contradiction → the most conservative current (post-Round-3) view**, split named in the row (`00_RUNBOOK.md`
+   §C.2's asymmetry, by analogy: a false admit is unrecoverable, a false withhold is recoverable).
+2. **No contradiction → UNION**, every single-reader find credited to its finder.
+
+## ⇒ THE KILLED SHORTCUT — "most conservative" is not always "exclude"
+**Applied mechanically, rule 1 would have EXCLUDED a population-origin statement** ("Russian exiles") because one
+reader excluded it. ⛔ **`00_RUNBOOK.md` L2137–2138 makes outright refusal of ethnic material an error in its own
+right.** Round 3 resolved it before the orchestrator had to: **all three readers moved to DEMOTED** — the neutral
+disposition that neither settles the contradiction nor refuses the material. **Named exception, written into the
+rule.** *(The developer then ruled the substance: the founders were exiles from Russia, China and Australia.)*
+
+## ⇒ FIX APPLIED
+`PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 amended; `00_RUNBOOK.md` `T1`–`T8` table gains the merge row. **Both in
+the same change.** Worked instance: `City_Development_Passes/Mirny_Subnet/Mirny/00.1_Step_MINUS-1_Input_Contract.md`
+§H (the union table) and `00.1b_T8_Rounds_Step_MINUS-1.md`.
+
+---
+
+# `M-247` — ⚠ **A PRE-TRIP'S PER-STEP `T8` LIST OMITTED THE FILE THE STEP'S OWN TEXT NAMES**
+
+**Found on:** Mirny, Step −1, 2026-09-28.
+
+**What happened:** Mirny's `00.0_Pre-Trip_Inspection.md` §C gave Step −1's `T8` read set as *`00_RUNBOOK.md`
+§"Step −1" + the spec*. **The runbook's own Step −1 text (L2431) says: run `05_The_Input_Contract.md` §7's
+pre-flight** — so the one file the step is about was missing from the list the readers were to receive. It was
+caught by reading the runbook in full before dispatch, and the dispatched set was widened (`05`, the rulings log,
+the Pre-Trip itself, eight line-checked runbook spans).
+
+**The shape:** *an address book resolved from a TEMPLATE row, never re-checked against the governing text it
+points to.* `M-121` ("registered globally is not registered at the point of use") in the Pre-Trip's own layer.
+
+**Status:** ✅ **Fixed in Mirny's own Pre-Trip** (a correction note under §C's Step −1 block). ⏸️ **RAISED, NOT
+FIXED in the recipe template** (`PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §6a's Step −1 row) — **awaits developer OK**;
+until it lands, every Pre-Trip's Step −1 list must be checked against `00_RUNBOOK.md` L2429–2453 by hand.
+
+**Found in the same read, fixed the same day:** `00_RUNBOOK.md` L2963 and its extract `S10` said the Review Panel
+has **five** dispositions; `00f` L746 and `CLAUDE.md` carry **six** (`declined`). Corrected in both.
+
+---
+
+# `M-248` — ⚠ **`M-247` RECURRED AT STEP 0 — AND THE RUNBOOK ITSELF CARRIED A RULING IT NEVER RECEIVED**
+
+**Found on:** Mirny, Step 0, 2026-09-29.
+
+**1 · The recurrence.** Mirny's Pre-Trip gave Step 0's `T8` set as *`00_RUNBOOK.md` §"Step 0" + the Phase-0 rows +
+the census row*. It omitted `01_Frame_Typology_and_Inheritance.md` (Step 0's own governing document, `RB`
+L2458–2459), the `Disciplines/` files (Step 0.2) and Robot Physiology (`§C.10`). Rebuilt before dispatch from the
+runbook's own text (18 files). **Same shape as `M-247`, one step later** — so the template fix `M-247` raised is not
+optional: until it lands, **every** Pre-Trip `T8` list must be re-resolved against its step's own runbook text.
+
+**2 · A ruling that never reached the runbook.** The 2026-09-28 breadth-first ruling (ULM on all 38, then CST and
+RWBEM) was recorded in the tracker, but `RB` Step 0.2 still listed CST and RWBEM as required reads. Followed
+literally, they were read; the developer stopped it (*"the CST and RWBEM are for later"*, `DR-14`). **Fixed
+2026-09-29 with the developer's OK:** removed from the ULM reading lists in `RB` (Step 0.2, the vector-1 scan list,
+the REQUIRED-READ-WITH-SKIPS row, the `Disciplines/` table), the recipe's Step 3 `T8` list, and Mirny's Pre-Trip.
+**The shape:** *a sequencing ruling recorded where progress is tracked, but not where the procedure is read.*
+
+**3 · The knock-on a reader caught.** `01` L500 defines the "real-world comparables" substitute as running *via*
+RWBEM, so deferring RWBEM silently removed a peer-free substitute. The developer kept it in the ULM (`DR-15`):
+comparables ground what is known to exist; RWBEM later adds what probably also exists. `01` L500 and `RM` L124–126
+still need rewording → `DR-15a`, **awaits OK**.
+
+**4 · Also found:** the `06` subject check (`RB` L2508–2509, *before* Step 0.2) is on no Pre-Trip `T8` list and ran
+late. **`T8` value, measured:** Round 3 moved every reader; four catches came from a single reader each
+(`00b_T8_Rounds_Step_0.md` §N.5).
+
+**Status:** ✅ Mirny's Pre-Trip corrected; ✅ reading lists corrected. ⏸️ Recipe template (`M-247`) and `DR-15a` —
+**await developer OK.**

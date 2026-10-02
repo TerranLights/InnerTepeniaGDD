@@ -1,7 +1,7 @@
 # Step 3 — Research, aimed at what Step 2 named
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2526–2620.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2457–2551`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the ENTIRE `LAW 0-R` block (research-fully, no time limit, no search budget — a governing law, not a reminder) and the `M-158` block (a hole is not addressed by labeling it). This is `R-10`'s second-largest measured card-content gap, and the omitted law is one this pass is explicitly bound by. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2569–2661.** *(Re-verified 2026-10-01 against the current `# Step` headings.)* *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2457–2551`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the ENTIRE `LAW 0-R` block (research-fully, no time limit, no search budget — a governing law, not a reminder) and the `M-158` block (a hole is not addressed by labeling it). This is `R-10`'s second-largest measured card-content gap, and the omitted law is one this pass is explicitly bound by. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -93,7 +93,7 @@ it.**
 **⭐ 3.7 Log every search in this location's own research log, as you run it.** *(Standing developer
 instruction, 2026-08-30, Zhongshan Run 3.)* **One dedicated file per location** — for cities,
 `Cities/Research_Logs/[Location]_Research_Log.md`; other location types keep theirs with their own material.
-**Full convention in that folder's `README.md` and in `../../Disciplines/Real-World_Basis_Extrapolation_Method.md` Step F.**
+**Full convention in that folder's `README.md`.**
 
 **Record the exact search strings verbatim**, the sources actually used, a fact-by-fact table of *what came
 back → which finding it became*, what was **withheld** versus **omitted**, the **divergences from source**, and
@@ -102,9 +102,7 @@ back → which finding it became*, what was **withheld** versus **omitted**, the
 **Why it is in the procedure and not in a style guide:** a finished pass publishes conclusions and buries
 evidence. Without the log, the next session cannot re-check a claim against its source, cannot distinguish a
 researched fact from an assumed one, re-runs searches already run — and **loses every deliberately-unpursued
-thread, which is routinely the best material the research produced.** *(Run 3 left seven, including an
-unread Antarctic Treaty management plan governing three stations sharing one site — very likely the highest-value
-unread source for that city's Phase 5 and Phase 7.)*
+thread, which is routinely the best material the research produced.** *(Run 3 left seven.)*
 
 **It also survives quarantine:** a research log holds *attributes*, not conclusions, so per `05` §6.1 it stays
 **admissible input even to a later cold run on the same location** — which the pass it fed does not.

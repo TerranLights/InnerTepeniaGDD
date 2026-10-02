@@ -317,7 +317,9 @@ Zodiac Lens's actual application, border-adjacency texture.
 > `Planetary_Symbols.md`, and `Robot_Elementals.md` are **not opened as datasheet input.** If a city's Element/
 > Planet surfaces incidentally inside another already-open source (e.g. `16_Per_City_Three_Tier_Run.md`'s own
 > Notes), transcribe it as a bare pre-existing fact **flagged PROVISIONAL, pending reconciliation against that
-> city's own Phase 1–9 findings** — never present it as settled. **The actual reconciliation happens at
+> city's own Phase 1–9 findings** — never present it as settled. ⛔ **Transcribe the Element/Planet value only:
+> those same `16` Notes also read real-world site namesakes as character** *(`AUDIT_AGENDA_2026-09-16_after-1500.md`
+> shape 3b)*, **and a namesake or the real site's history is never an input** *(`DR-28`)*. **The actual reconciliation happens at
 > Step 4, Phase 10 §B3** (`DR-8a`), not in a datasheet. Full statement: `00_RUNBOOK.md` §C.7.
 
 ---

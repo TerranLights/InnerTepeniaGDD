@@ -1,7 +1,7 @@
 # Gate 6 — Duplicate institutions
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 151–208.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `151–200`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 154–211.** *(Re-verified 2026-10-01 against the current gate headings.)* *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `151–200`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -33,23 +33,25 @@
 
 # THE INSTRUCTION
 
-**Gate 6 — Duplicate institutions.** ⭐ **IN-RUN: WITHIN THE LOCATION ONLY.** *Does this pass name two
+**Gate 6 — Duplicate institutions.** ⭐ **IN-RUN: within the location ONLY.** *Does this pass name two
 institutions that are the same institution twice?* — **that is a fact about this location and it is fully
-runnable.** ⏸️ **The against-siblings half is TERMINAL.** *Hand-synced from `04` Gate 6, 2026-09-06.*
-
-> ### ✅ RULED 2026-09-06 — **the against-siblings half leaves the per-location pass entirely**
-> ⛔ **Do not "check the most recently written sibling first." Do not state a contrast inline.** *(Both
-> instructions are REVOKED — they were the sharpest form of the thing the law forbids.)*
-> ✅ **In-run, run all four Part III.4 substitutes and say in the pass that you did.**
-> ⭐⭐ **Gate 6 was already the closest of the five comparison instruments to correct — it had deferred itself,
-> on its own reasoning, six days earlier.** *It was never wrong; it was early.*
-> ### ⚠ Gate 6 is UNRUNNABLE in a cold pass, by construction — a scheduling problem, not a failure
-> **Added 2026-08-30.** Gate 6 needs the siblings' completed material and the differentiation instrument. **In
-> a cold or anti-contamination pass that material is precisely what is withheld.** **The anti-convergence gate
-> and the circularity rule are in direct conflict, and one of them must lose.**
+runnable.** ⏸️ **The against-siblings half is TERMINAL.**
+> ### ✅ RULED 2026-09-06 — **the against-siblings half of Gate 6 leaves the per-location pass entirely**
+> > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer.)*
 >
-> **Resolution: Gate 6 runs LATE — at Step 7, when the withheld files are opened — not never.** Until then run
-> **all four** Part III.4 substitutes and say in the pass that you did.
+> ⭐⭐ **Gate 6 was already the closest of the five comparison instruments to correct — it had deferred itself,
+> on its own reasoning, six days earlier.** ⛔ **The ruling completes the move: it does not run at Step 7 of a
+> per-location pass either. It runs at the TERMINAL differentiation check, on the finished corpus.**
+> ⛔ **Do not "check the most recently written sibling first." Do not state a contrast inline.** *(Both
+> instructions are revoked; they were the sharpest form of the thing the law forbids.)*
+> ✅ **In-run, run all four Part III.4 substitutes and say in the pass that you did.**
+
+> ### ⚠ THE ORIGINAL 2026-08-30 REASONING, kept because it diagnosed the conflict correctly
+> **Gate 6 needs the siblings' completed material and the differentiation instrument. In a cold or
+> anti-contamination pass that material is precisely what is withheld.** **The anti-convergence gate
+> and the circularity rule are in direct conflict, and one of them must lose.**
+> ⭐ **2026-09-06 resolves which: the anti-convergence gate loses — and loses to a SCHEDULE, not to a
+> judgment.** *It was never wrong; it was early.*
 >
 > **And an encouraging result worth recording, from a real test case.** When Gate 6 finally ran on one cold
 > pass it found two collisions with the location's own existing canon — **and Gate 4's swap test had already

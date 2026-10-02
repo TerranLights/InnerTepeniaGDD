@@ -1,7 +1,7 @@
 # Step 8 — The Review Panel
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2919–2940.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2778–2799`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body —⛔⛔ **and the body below was consequently still stating the OLD, REVOKED `unmet` test** ("would satisfying this objection make the location more like its siblings?"), which `00_RUNBOOK.md` itself calls unrunnable in-run because it needs the sibling set. **This is `R-10`'s highest-severity measured instance: a session following this card as written would have applied a test the runbook no longer permits.** The current peer-free form was restated 2026-09-06 and never reached this card until now. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2961–2984.** *(Re-verified 2026-10-01 against the current `# Step` headings.)* *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2778–2799`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body —⛔⛔ **and the body below was consequently still stating the OLD, REVOKED `unmet` test** ("would satisfying this objection make the location more like its siblings?"), which `00_RUNBOOK.md` itself calls unrunnable in-run because it needs the sibling set. **This is `R-10`'s highest-severity measured instance: a session following this card as written would have applied a test the runbook no longer permits.** The current peer-free form was restated 2026-09-06 and never reached this card until now. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -36,7 +36,7 @@
 `../../Disciplines/00f_Review_Panel.md` *(the ULM copy)*, carried unchanged; only the casting changes. Six Flat Archetypes plus the mandatory
 **Passer-Through** and **Neighbor**; the **Lover faculty's question every time.**
 
-**Five dispositions:** accepted · noted · rejected · refereed · **unmet.**
+**Six dispositions:** accepted · noted · rejected · refereed · **unmet** · **declined.** *(Re-synced from `00_RUNBOOK.md` 2026-09-28 — the source read "Five" and was corrected the same day.)*
 
 **The test that keeps this from homogenizing a whole set** — ⭐ **restated 2026-09-06 in its peer-free form,
 because the old wording required reading a sibling:**

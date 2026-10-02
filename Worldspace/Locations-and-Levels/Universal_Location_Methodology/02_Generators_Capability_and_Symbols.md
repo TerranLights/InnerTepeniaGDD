@@ -113,13 +113,13 @@ something unintended · **Availability** — how often it actually exists.
 
 | # | Generator | Ext. | Abs. | Rel. | Surp. | Avail. |
 |---|---|---|---|---|---|---|
-| **G1** | **Assigned symbolic substrate** | high | *varies* | *varies* | high | low |
+| **G1** | **Assigned symbolic substrate** ⛔ *deferred at city scale — see §2's own `G1` entry below* | high | *varies* | *varies* | high | low |
 | **G2** | **Physical & environmental constraint** | **highest** | high | high | high | **near-universal** |
 | **G3** | **Function & purpose** | med | high | high | low | high |
 | **G4** | **Founding condition** | high | high | med | high | high |
 | **G5** | **Network position** | high | med | **highest** | med | high |
 | **G6** | **Defining event** | high | low | med | med | med |
-| **G7** | **Real-world inspiration** | **highest** | med | low | **highest** | med |
+| **G7** | **Real-world inspiration** *(researched picks and the physical site; a real station's operator/nation is a coordinate only, `DR-19`)* | **highest** | med | low | **highest** | med |
 | **G8** | **Demographic composition** | high | med | high | high | med |
 
 ## G1 — Assigned symbolic substrate
@@ -140,8 +140,8 @@ rich, weak when thin, and §6 exists to tell the difference before you rely on i
 > ✅ **WHERE — settled `DR-8a`, 2026-09-16: Step 4, Phase 10 §B3, not Step 5.** By the time Phase 10 is
 > written the full Phases 1–9 profile already exists, so nothing forces the call later; Step 5 stays the
 > backstop for a genuine contradiction, not the primary determination point.
-> ⚠ **Content note, updated 2026-09-21:** `Planetary_Symbols.md`'s 10 members (9 planets + the Asteroid
-> Belt) are all developer-authored and settled — no content work blocks §B3 there. `Robot_Elementals.md` is
+> ⚠ **Content note, updated 2026-09-21:** `Planetary_Symbols.md`'s 11 members (the Sun, 9 planets and the
+> Asteroid Belt) are all developer-authored and settled — no content work blocks §B3 there. `Robot_Elementals.md` is
 > composed on physical derivation for Earth, Air, Fire, Water, Wood, Metal and Magnetism, and Electricity is
 > unchanged and settled. ⏸️ **All seven non-Electricity one-word labels are flagged for developer review and
 > may still change** — check `Robot_Elementals.md` itself before citing one at §B3. See
@@ -211,9 +211,12 @@ Who founded it, why, under what constraint, with what, and **without what**. The
 the founding generation did not bring is very often a permanent hole, because nobody afterwards knew it was
 missing.
 
-Pairs directly with `Cultural_Synthesis_Techniques.md` §6, **Necessity Before Meaning** — a rule forced by a
-founding constraint and moralized afterward. **Run them together; the founding condition supplies the
-constraint and the technique supplies the moralization.**
+⛔ **For this project's cities, the founders come only from the Founding Register; the real station at the
+coordinates, its operator and its start year are never the answer to "who founded it" (`DR-19`).**
+
+Pairs directly with **Necessity Before Meaning** — a rule forced by a founding constraint and moralized
+afterward. **Run them together; the founding condition supplies the constraint, and the pass then asks what
+moral the residents later hung on it.**
 
 ## G5 — Network position
 
@@ -236,11 +239,17 @@ been forgotten while the practice persists.
 
 ## G7 — Real-world inspiration
 
-The actual station, its actual nation, its actual founding, its actual physical site. **Highest surprise value
+The location's researched real-world inspirations (its inspiration picks and real-world comparables) and the
+actual physical site at its coordinates: terrain, ice, climate, access, and any physical infrastructure, records,
+research, equipment and techniques the founders inherited (`DR-24`, `DR-25`, `DR-26`). **Highest surprise value
 on the stack** — this is what "do actual web research" produces, and LAW 0's one controlled comparison is
 direct evidence that picks four, five and six produce findings that picks one and two do not.
 
-Governed entirely by `Real-World_Basis_Extrapolation_Method.md` and by the **source-not-specification** rule:
+⛔ **Where the site carries a real installation, its name, operator, nation and start year are a coordinate and an
+infrastructure record only. They are never a cause of the location's founders, identity, culture, institutions
+or ties (`DR-19`). Founders come only from the Founding Register.**
+
+Governed by the ULM's own Step 3 research (`DR-14`, `DR-15`) and by the **source-not-specification** rule:
 the location is under no obligation to match its inspiration, and divergence stated is stronger than resemblance
 implied.
 
@@ -306,7 +315,7 @@ implied.
 
 
 Who is actually here, in what proportion, from where, and how they arrived. **Systematically under-used** —
-`00_RUNBOOK.md` Step 3.7 measures five of nine completed districts making no use of the composition file at all,
+the district runbook's Step 3.7 (`Concordia-City/Districts/Phase_Instructions/00_RUNBOOK.md`) measures five of nine completed districts making no use of the composition file at all,
 including one Stage-2-Override district whose file uses the word *refugee* zero times.
 
 Its two techniques are already written: **Borrowed Form** (who arrived carrying the form this place lacks) and
@@ -502,7 +511,7 @@ reach for the peer-required set only when canon actually supplies a named counte
 | **Diffuse** — nowhere in particular | No counterparty, no politics, **no grievance ever forms.** Produces drift. |
 | **In its own past** | The location **used to be able to do this and lost the capacity.** The remedy is historical, not geographical. Produces a characteristic nostalgia that is *factually correct*, which is rare and rich. **The district set could not generate this case** — thirteen districts of uniform age — but cities, polities and anything Declining produce it often. **See the evidence check below.** |
 | **In the parent** | The remedy exists only at a scale above this one, so reaching it means admitting the location cannot manage itself. **Produces under-reporting**, which is a shadow with no author. |
-| **In a neighbor's present** *(new, 2026-08-31)* | The comparison population — someone who has organically what this location was only allocated or lacks entirely — never departed. They are a living, permanent, physically co-located neighbor, not an absent authority or a departed witness. **Distinct from "in its own past":** the deficit is nameable and the comparison constantly available, but naming it means looking sideways at a peer rather than backward at history. **Likely the sharpest version of a historical deficit available**, since the unfavorable comparison is permanent and close rather than abstract. *(Worked instance archived: `Test_Runs/Worked_Examples_Archive/`.)* |
+| **In a neighbor's present** *(new, 2026-08-31)* | The comparison population — someone who has what this location lacks — never departed. They are a living, permanent, physically co-located neighbor, not an absent authority or a departed witness. **Distinct from "in its own past":** the deficit is nameable and the comparison constantly available, but naming it means looking sideways at a peer rather than backward at history. **Likely the sharpest version of a historical deficit available**, since the unfavorable comparison is permanent and close rather than abstract. *(Worked instance archived: `Test_Runs/Worked_Examples_Archive/`.)* |
 | **Nowhere at all** | Genuinely unremediable. **Rare, and must be earned** — most apparent cases are actually "in its own past" or "diffuse." |
 
 > #### ⚠ "In its own past" — check whether the EVIDENCE is also in the past
@@ -547,11 +556,12 @@ reach for the peer-required set only when canon actually supplies a named counte
 
 ## 4.2 The Unrecognized Instrument, run at the right moment
 
-`Cultural_Synthesis_Techniques.md`'s Unrecognized Instrument technique — the location is already doing the thing
-it cannot do, somewhere, for an unrelated reason, and has never noticed the method generalizes — **is run after
-the capability profile is complete and never before.**
+The Unrecognized Instrument — the location is already doing the thing it cannot do, somewhere, for an unrelated
+reason, and has never noticed the method generalizes — **is run after the capability profile is complete and
+never before.** *(It runs as this methodology's own Step 3.6; `DR-14` keeps the CST file itself out of a ULM
+pass.)*
 
-The reason is stated in the technique and worth repeating: **found first it softens the deficit; found second it
+The reason is worth stating: **found first it softens the deficit; found second it
 sharpens it.** A location holding its own answer and not recognizing it is more poignant than one that simply
 lacks the answer, and it is the best player-facing lever the method produces — the change a player can cause is
 not to bring the place something new but **to connect two things it already has.**
@@ -626,6 +636,15 @@ because it is the one thing a designer would never have invented.
 
 # 6. Symbol binding — the open protocol
 
+> ### ⛔⛔ TIMING, STATED HERE TOO SO IT IS NOT MISSED — see `G1`'s own entry in §2 for the full ruling
+> **Everything below (§6.0–§6.5) describes a UNIVERSAL, timeless technique — how to use ANY symbol system as a
+> generator, for any location class, in any project.** ***It is not, itself, a license to apply it now.*** For
+> THIS project's city-scale Planet + Element system specifically, `DR-8a` (2026-09-16) fixes WHEN: not at
+> Step −1, not during any of Phases 1–9, not as corroboration at any tier — **only at Step 4, Phase 10 §B3,
+> once that city's own profile already exists.** Read this section to know *how* the pairing-relation typology
+> works when its turn comes. Do not run it early because the technique itself is fully specified and available
+> to read.
+
 **The requirement:** the methodology cannot assume the zodiac, or the planets, or the elements, or any
 particular system, because it is not knowable in advance what symbol sets a future location or project will use.
 **So symbol systems are registered, not built in.**
@@ -684,15 +703,20 @@ there is nothing for the shape typology to read. **A thin system must be paired*
 or with a non-symbolic generator — and **the structure comes from the pairing, not from either half.**
 
 **PAIRED** — two systems bound simultaneously.
-→ **The relation between the two symbols is the shape.** See §6.3. This is the case for all 35 outer cities and
-it has never been written down.
+→ **The relation between the two symbols is the shape.** See §6.3. This is the case for 34 of the 35 outer cities
+(Abowasa has no assignment) and for Amundsen Station, and it has never been written down.
 
 **DEGENERATE** — one member, or a system where every location receives the same symbol.
 → Not a generator. It differentiates nothing. Use it as texture, not as spine.
 
 ## 6.3 The pairing-relation typology — new, and it makes the city system work
 
-**The outer-city Planet + Element system is thin on both sides**: ten planetary symbols each with a fixed set of
+> ⛔ **Reminder from §6's own banner above: for THIS project's cities, this is Phase 10 §B3 content, not a
+> Step 2 technique.** *It is described here, at full strength, because §6 documents the universal method — not
+> because Step 2 may reach for it.* **A pass that finds itself wanting a pairing read before Phase 10 should
+> treat that want as the signal, per `DR-8a`, that this is where it belongs — not as permission.**
+
+**The outer-city Planet + Element system is thin on both sides**: eleven planetary symbols each with a fixed set of
 fields, eight elements each with positive and negative readings, no absences anywhere, no documented
 cross-relations in either system. **Read as two separate generators it produces little structure.**
 

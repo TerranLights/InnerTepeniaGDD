@@ -195,7 +195,7 @@ These already exist, are already general, and are referenced rather than rebuilt
 
 | File | Why it is not duplicated here |
 |---|---|
-| `../Cultural_Synthesis_Techniques.md` | Already explicitly general-scope — it names districts, outer cities, DLC locations, *"or a location in any future project."* It supplies the **operations**; this folder supplies the **procedure**. Sixteen techniques, each with a divergence table. |
+| `../Cultural_Synthesis_Techniques.md` | Already explicitly general-scope — it names districts, outer cities, DLC locations, *"or a location in any future project."* It supplies the **operations**; this folder supplies the **procedure**. Eighteen techniques, each with a divergence table. |
 | `../Real-World_Basis_Extrapolation_Method.md` | The research method. Already cross-scale. |
 | The Review Panel *(`00f`; address in `00_RUNBOOK.md`)* | Explicitly stated to carry unchanged to *"a surface city, a nation, an orbital settlement, a station, or a ship — and in a novel or a film as readily as in a game."* Only the casting changes. |
 | `.../00d_Shadow_Proportion_Discipline.md` | Explicitly binding on any derived methodology. |
@@ -230,6 +230,11 @@ Carried unchanged from `../Cultural_Synthesis_Techniques.md`, because it is the 
 
 > **Never carry one location's answers into another. If two places produce similar-shaped answers to the same
 > technique, at least one of them is wrong.**
+
+And **the GPS law:** a location's real-world station is a coordinate only. Its operator or nation is never a cause of
+the location's founders, identity, culture, institutions or ties; inherited infrastructure, records, research,
+equipment and techniques are facts it may build on (`DR-19`, `DR-24`–`DR-26`). **Founders come only from
+`../Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md`.** Full statement: `00_RUNBOOK.md` §C.9b–§C.9c.
 
 And **LAW 0 — depth over speed** applies here exactly as it does in the district runbook, and is restated in
 full at the head of `00_RUNBOOK.md` rather than cross-referenced, because a procedure that cites its governing

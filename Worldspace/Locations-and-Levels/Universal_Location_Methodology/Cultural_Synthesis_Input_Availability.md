@@ -2,7 +2,8 @@
 
 **Checked 2026-09-05**, for the run starting 2026-09-06. **Companion to `ULM_Piece_Index.md`.**
 **Subject: `Worldspace/Locations-and-Levels/Cultural_Synthesis_Techniques.md`** — *17 techniques plus one
-extension.*
+extension when this was checked.* *(An 18th, §18 The Composition Merge, was added 2026-09-06 and is not
+covered below; its own input contract asks for an origin roster with shares.)*
 
 > ## ✅ NOTHING BLOCKS THE RUN. **One input is missing and it degrades gracefully.**
 

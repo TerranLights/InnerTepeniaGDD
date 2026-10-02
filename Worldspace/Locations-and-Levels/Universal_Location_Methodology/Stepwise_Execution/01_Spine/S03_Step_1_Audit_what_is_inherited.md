@@ -1,7 +1,7 @@
 # Step 1 — Audit what is inherited
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2480–2496.** *(Range refreshed 2026-09-14 — re-verified against the current file AND re-synced against it; was `2418–2427`, itself stale since a 2026-09-07 "refresh" that moved only the declared number. That refresh also predated this Step's `📂 REQUIRED READING` box, which never made it into this card until now — see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2523–2539.** *(Re-verified 2026-10-01 against the current `# Step` headings.)* *(Range refreshed 2026-09-14 — re-verified against the current file AND re-synced against it; was `2418–2427`, itself stale since a 2026-09-07 "refresh" that moved only the declared number. That refresh also predated this Step's `📂 REQUIRED READING` box, which never made it into this card until now — see `R-10`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time

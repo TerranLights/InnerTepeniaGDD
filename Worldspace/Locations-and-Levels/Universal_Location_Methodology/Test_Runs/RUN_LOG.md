@@ -18,7 +18,7 @@ is a to-do list and not a record.** They are moved here unchanged.
 
 | Run | Date | Subject | Type | Mode | Outcome |
 |---|---|---|---|---|---|
-| 1 | 2026-08-30 | Tri-Cities *(3 locations at once)* | Settlement | — | Partial — 3 phases, no gates. `Test_Runs/2026-08-30_Tri-Cities/` |
+| 1 | 2026-08-30 | Tri-Cities *(3 locations at once)* | Settlement | — | Partial — 3 phases, no gates. `Archive/ULM_Records/Test_Runs/2026-08-30_Tri-Cities/` |
 | 2 | 2026-08-30 | Tri-Cities, single-location | Settlement | — | Partial — phases, no gates/panel. `…_Run2_Single-Location/` |
 | **3** | 2026-08-30 | **Zhongshan** | Settlement | COLD | ✅ **First complete pass** — 11 phases, 16 gates, panel |
 | 4 | 2026-08-30 | Zhongshan, methodology-delta | Settlement | COLD | ✅ Re-run against changed rules. `…_Run4_Cold_Methodology-Delta/` |
@@ -31,6 +31,7 @@ is a to-do list and not a record.** They are moved here unchanged.
 | **11** | 2026-08-31 | **Sanay Maritime Shipping Port** | Installation | COLD | ✅ Complete — 7-sign convergence (M-86) |
 | **12** | 2026-09-02 | **Casey** | Settlement | COLD | ⛔ **BURNED before Phase 0** — 4 leak vectors. No output folder. M-87–M-97 |
 | **13** | 2026-09-02 | **Shirayuki** | Settlement | COLD | ⛔ **BURNED at Phase 0** — M-103. `…_Run13_Cold/` holds file 00 only |
+| **14** | 2026-09-03 | **Shirayuki** | Settlement | COLD | ⛔ **BURNED at Phase 0** — one `grep` of its own name; continued as map-builder. M-112–M-124. `…_Run14_Cold/` |
 
 > **Runs 12 and 13 produced no location content and a great deal of methodology** — findings **M-87 through
 > M-109**, the `Step −2` leak register, and `§C.4`/`§C.5`/`§C.6`. **Their write-ups live in
@@ -43,11 +44,10 @@ is a to-do list and not a record.** They are moved here unchanged.
 
 **The first time anything in this project has been through the complete Universal Location Methodology:
 all eleven phases, all sixteen gates (0–11 plus C/F/I/P/G), and the Review Panel.**
-Output: `Universal_Location_Methodology/Test_Runs/2026-08-30_Zhongshan_Run3_Cold/` (7 files).
+Output: `Archive/ULM_Records/Test_Runs/2026-08-30_Zhongshan_Run3_Cold/` (7 files).
 
 - **Passed `05` §6.1's falsifiable test** — **ten findings absent from the city's existing material**, including
-  one that reconciles two ranks of canon *(the 2564 exiles arrived at an inhabited place; every other Tepenian
-  city was founded on an empty one)*.
+  one that reconciles two ranks of canon *(the 2564 exiles arrived at an inhabited place)*.
 - **Five gates fired.** **Gate 11 caught its first plausibility failure in this project's history** — a
   factor-of-25 scale error, found by dividing population by area. **Gate 9's second pass and Gate I each
   produced a finding the pass would not otherwise contain.**
@@ -75,13 +75,11 @@ Output: `Universal_Location_Methodology/Test_Runs/2026-08-30_Zhongshan_Run3_Cold
 
 # ✅ RUN 5 COMPLETE — 2026-08-31. Sinheung, cold, all eleven phases / sixteen gates / Review Panel.
 
-**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Sinheung_Run5_Cold/` (15 files).
+**Output:** `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/` (15 files).
 
 - ⭐ **The strongest Gate 6 result this methodology has produced.** A cold pass built entirely from Tier-1
   attribute generators (physical constraint, function, founding condition, symbol pair) independently
-  reproduced the withheld culture sheet's own central finding — including its sharpest specific claim (the
-  Zhongshan-organic-vs-Sinheung-allocated distinction), stated almost word-for-word, before that file was ever
-  opened. Logged as M-35, implemented into `00_RUNBOOK.md`'s status note.
+  reproduced the withheld culture sheet's own central finding before that file was ever opened. Logged as M-35, implemented into `00_RUNBOOK.md`'s status note.
 - **Two genuine methodology additions**, both implemented into the rule files in the same session: a new
   deficit-address variant, *"in a neighbor's present"* (`02` §4.1, M-36), and a fourth reason a place might
   outsource its dead (`03` Phase 6 §C, M-37).
@@ -103,7 +101,7 @@ Output: `Universal_Location_Methodology/Test_Runs/2026-08-30_Zhongshan_Run3_Cold
 # ✅ THE ZODIAC LENS + EXTENSIONS — 2026-08-31, same session as Run 5. The developer-proposed methodology
 discussion (flagged above as pending) happened, and produced a genuine new instrument family, not just talk.
 
-**Full write-up:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`
+**Full write-up:** `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/16_Zodiac_Lens.md`
 and `17_Zodiac_Elemental_Planetary_CrossCheck.md`. Formalized into `Cultural_Synthesis_Techniques.md` as
 **Technique — The Zodiac Lens**, with two extensions, all implemented in the rule file, not just logged:
 
@@ -118,7 +116,7 @@ and `17_Zodiac_Elemental_Planetary_CrossCheck.md`. Formalized into `Cultural_Syn
 - **The Elemental/Planetary Cross-Check extension** (M-39, 216 prompts: all 12 signs × 8 Robot Elementals × 10
   Robot Planetary Symbols, individually) — 56 hits, **including one that closed a real, previously-open Review
   Panel gap** (a child-rearing support network, via Cancer × Wood). **Recommended execution pattern: 12
-  parallel subagents, one per sign**, plus a coordinating-session-only final cross-sign synthesis pass (M-40) —
+  parallel subagents, one per sign**, plus a coordinating-session-only final cross-sign synthesis pass (M-39) —
   which found a genuine city-wide structural pattern (institutional decentralization) invisible to any single
   sign's own results.
 - **The per-HIT contradiction check** (M-41): every kept result gets one deliberate opposite-register candidate
@@ -137,7 +135,7 @@ and `17_Zodiac_Elemental_Planetary_CrossCheck.md`. Formalized into `Cultural_Syn
 # ✅ RUN 6 COMPLETE — 2026-08-31. Highway 37 (the Mountain Cut Throughway), cold, all eleven phases / sixteen
 gates / Review Panel / base Zodiac Lens.
 
-**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Highway37_Run6_Cold/` (17 files).
+**Output:** `Archive/ULM_Records/Test_Runs/2026-08-31_Highway37_Run6_Cold/` (17 files).
 
 - **First Corridor-type location ever run under this methodology**, and the first genuinely thin location —
   no completed culture pass existed for it before this run, unlike Zhongshan and Sinheung, both of which turned
@@ -170,16 +168,17 @@ gates / Review Panel / base Zodiac Lens.
 
 # ✅ RUN 7 COMPLETE — 2026-08-31. Cape Adare, cold, all eleven phases / sixteen gates / Review Panel.
 
-**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` (15 files). **Zodiac Lens
+**Output:** `Archive/ULM_Records/Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` (15 files). **Zodiac Lens
 deliberately deferred to a future follow-up pass**, not run this session.
 
 - **Chosen per the developer's own constraint**: an under-developed city (highest TBD-density of all 35 outer
   cities, 11 in its own Specs file) with zero highway connection to Highway 37.
-- ⭐ **Spine finding: "precedence without a majority."** Cape Adare's founding logic (organized around
-  Borchgrevink's 1899 precedence, explicitly no dominant national community) and its own census data (a flat,
-  12-nation distribution with no majority bloc) converge independently on the same absence — and a real,
-  census-arithmetic-derived mismatch (Phase 2): the community carrying the city's founding memory (New Zealand,
-  the earliest arrival) is not the community holding its modern demographic weight (USA, China).
+- **Spine finding: "precedence without a majority."** Its "precedence" half rests on the real site's 1899
+  history and does not stand (`DR-28`). The census half does: Cape Adare's founding (explicitly no dominant
+  national community) and its own census data (a flat, 12-nation distribution with no majority bloc) converge
+  independently on the same absence — and a real, census-arithmetic-derived mismatch (Phase 2): the community
+  the census flags as the earliest founding wave (New Zealand) is not the community holding its modern
+  demographic weight (USA, China).
 - ⭐⭐ **Two real, self-caught contamination events, inside a file-type every prior run trusted by default.**
   `Specs/Cape_Adare.md` — the "safest" tier in this methodology's own reading order — turned out to contain a
   conclusion-bearing "Character & Culture" section and a Notable-Figures section citing withheld material
@@ -245,7 +244,7 @@ the highest-stakes item · DRQ-04 Hwy 37 hitchhiking status).
 # ✅ RUN 9 COMPLETE — 2026-08-31. Janbogo, cold and INSTRUMENTED, all eleven phases / sixteen gates /
 Zodiac Lens family / Review Panel / deferred Gate 6.
 
-**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_Janbogo_Run9_Cold/` (27 files).
+**Output:** `Archive/ULM_Records/Test_Runs/2026-08-31_Janbogo_Run9_Cold/` (27 files).
 
 - ⭐ **The instrumentation task's own four-row docket (`03` §0.4) tested clean across all four rows**, on the
   richest, most heavily-excluded-material location this methodology has run — the strongest evidence yet
@@ -269,10 +268,9 @@ Zodiac Lens family / Review Panel / deferred Gate 6.
   district Arcanet nexus placement contradicted this run's own Phase 1 claim; both-are-true tested, corrected
   in place (**M-70**) — then **triply confirmed correct** when Gate 6 finally opened the withheld culture
   file and found it, too, calls the arrangement genuinely unresolved in-world folklore.
-- **Gate 6 (deferred) passed in the strongest form available**: five genuinely new findings absent from the
+- **Gate 6 (deferred) passed in the strongest form available**: four genuinely new findings absent from the
   32-section withheld culture sheet (a total gap in mortuary content, filled; a quantified founding-footprint
-  mismatch from real research; a polynya-driven cuisine-timing advantage; a quantified Zukelli-dilution
-  comparison; a two-layer outdoor-labor culture), one honestly-recorded partial divergence (a membership-
+  mismatch from real research; a polynya-driven cuisine-timing advantage; a two-layer outdoor-labor culture), one honestly-recorded partial divergence (a membership-
   mechanism guess one layer beneath canon's own more specific answer), and zero outright kills. **Comparable
   in strength to Zhongshan Run 3's own ten-finding result** (**M-73**), despite this run's much harsher
   admissibility exclusions.
@@ -297,7 +295,7 @@ Zodiac Lens family / Review Panel / deferred Gate 6.
 # ✅ RUN 10 COMPLETE — 2026-08-31. Mountain Pass Airport, cold, all eleven phases / sixteen gates / full
 Zodiac Lens family (all twelve signs) / Review Panel. First Installation-type location run.
 
-**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` (15 files).
+**Output:** `Archive/ULM_Records/Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` (15 files).
 Chosen at the developer's own request for one of the type-diversity runs to be an airport — the joint
 Vostok-Kunlun chamber-manufacturing outpost on Hwy 37, picked over Belgrano Airfield and Machu Picchu
 Airport for having no prior Settlement identity to contaminate a clean Installation-type read.
@@ -342,7 +340,7 @@ the standing pacing instruction (one Type per run, one run per fresh session), t
 # ✅ RUN 11 COMPLETE — 2026-08-31. The Sanay Maritime Shipping Port, cold, all eleven phases / sixteen gates /
 base Zodiac Lens (all twelve signs) / Review Panel.
 
-**Output:** `Universal_Location_Methodology/Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/`
+**Output:** `Archive/ULM_Records/Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/`
 (15 files) plus a dedicated research log. **Taken at direct developer instruction** — the Sanay Shipyard prep
 option flagged after Run 10, scoped to "exactly the maritime shipping port," not the wider city or its
 adjacent Arcanet nexus/business district/residential areas. A second Installation-type data point (after
@@ -388,7 +386,7 @@ developer's own follow-up request, an exact line-ranged reading sequence**: 22 n
 verified `File :: Lines A–B` citation or an explicit stop-boundary, including a row-level cut where a single
 inadmissible line sits inside an otherwise-clean list.
 
-**Filed as `Universal_Location_Methodology/Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`.** Recorded
+**Filed as `Archive/ULM_Records/Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md`.** Recorded
 in the observations log as **M-81** — a genuinely new quarantine case: not a location with its own prior
 conclusions, but a *sub-location whose parent* (Sanay, a fully developed outer city) already reaches
 specific conclusions about it. The prep document's own line-ranging technique is flagged as worth

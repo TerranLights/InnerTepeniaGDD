@@ -68,11 +68,10 @@ dropped.***
 **C** *(canon, federated)* · **F** *(frame integrity)* · **I** *(inheritance classification)* ·
 **P** *(parent reconciliation)* · **G** *(generator honesty)*.
 
-> ### ⚠ TWO GATES ARE KNOWN TO BE UNRUNNABLE AS THINGS STAND — do not read a pass as failing them
-> - **`G07` (Gate 6, duplicates)** — ***structurally unrunnable in a cold pass by design.*** It needs the
->   siblings' completed material, which is exactly what the quarantine withholds. **`04` resolves this: it
->   runs LATE, at Step 7, when withheld files open. Until then run all four Part III.4 substitutes and SAY
->   SO.**
+> ### ⚠ TWO GATES CANNOT RUN IN FULL INSIDE A PASS AS THINGS STAND — do not read a pass as failing them
+> - **`G07` (Gate 6, duplicates)** — ***only its in-run half runs in a pass:*** **does this pass name the same
+>   institution twice, within this location only.** ⛔ **The against-siblings half is TERMINAL** *(ruled
+>   2026-09-06, `04` Gate 6)* — **it runs on the finished corpus, not at Step 7 of any per-location pass.**
 > - **`G16` (Gate P, parent reconciliation)** — **runs on a PARENT's pass, not a child's.** *(Traced
 >   2026-09-03: no subnet has been written as a location, so this has never been runnable for an outer city.
 >   That is a corpus state, not a pass failure.)*
@@ -112,7 +111,7 @@ dropped.***
 | **`../ULM_Input_Required_Reference.md`** | **THE BAR** — every input the method cannot produce, with an absolute address and a mechanical presence test. **Use it at `S01`** |
 | **`../ULM_Input_Available_Audit.md`** | **THE MEASUREMENT** — 37 cities against that bar. ⚠ **Read its scope-corrections box first** |
 | **`../Location_Data-Input_To-Do.md`** | **WHAT IS STILL MISSING**, ranked. ⚠ ***When the count and the tier disagree, the tier wins*** |
-| **`../Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`** | ⭐ **WHERE FINDINGS GO.** Continuous `M-` numbering, never restarted. **Currently at M-139** |
+| **`../Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`** | ⭐ **WHERE FINDINGS GO.** Continuous `M-` numbering, never restarted. **At M-248 as of 2026-10-01** |
 | **`../Pre-Contamination_Reviews/`** | Per-location quarantine state. ⚠ **Shirayuki's is `DRAFT`** |
 
 ---

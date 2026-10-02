@@ -53,9 +53,13 @@ individual piece, one individual bit, one at a time.***
 ---
 
 > # 📍 RESUME HERE
-> **CITY:** ⭐ **SHIRAYUKI** *(Mirny subnet — city 1 of 8 this week)*
-> **STEP:** ▶ **4 — Write the phases** *(`Step 0`–`Step 3` closed 2026-09-06)* · ⏭️ **NEXT PIECE: `Phase 3 — Surface & Texture`**
-> **PHASE / GATE:** **0 ✅** · **1 ✅** · **2 ✅** · **3 ✅** · **4 ✅** · **5 ✅** · **6 ✅** · **7 ✅** · **8 ✅** · **9 ✅** · **10 pending — the last phase.** ✅ **Gate 11 cleared inside `Step 2.6`.**
+> **CITY:** ⭐ **MIRNY** *(Mirny subnet)* · **STEP:** ⏭️ **`Step 4` — Write the phases** *(Steps −1 through 3 ✅, 2026-09-28 to 2026-09-30)*
+> **Authority for the live piece: `MASTER_Process_Tracker.md` `📍 RESUME HERE`.** *Mirny's files:
+> `…/City_Development_Passes/Mirny_Subnet/Mirny/`.*
+>
+> ---
+>
+> ## ✅ SHIRAYUKI'S RECORD — ULM complete 2026-09-06 *(kept below as written during the pass)*
 >
 > ### ⭐⭐⭐⭐⭐ THE LARGEST METHODOLOGY CHANGE OF THE RUN LANDED AT PHASE 9 — **read before any city work**
 > **1 · THE GPS LAW'S PURPOSE, written down at last:** ***"the law exists so a city is characterized by WHO
@@ -67,8 +71,8 @@ individual piece, one individual bit, one at a time.***
 > *~250 years (2564→2812). Québécois ≠ France; Australian ≠ England; Singaporean ≠ China.* **Operator inputs:
 > time · separation · local environmental setting · local struggles and hardships · local goals · local
 > sensibilities and habits.** ⛔ **Neither refusing ethnic material NOR transplanting it intact.**
-> **3 · ⛔⛔ THE CROSS-CITY VERSION OF THIS IS WITHDRAWN.** *This block used to name two Japan-founded cities
-> and set them against each other as a Gate 6 obligation.* ⭐ **`M-156` makes differentiation a TERMINAL check
+> **3 · ⛔⛔ THE CROSS-CITY VERSION OF THIS IS WITHDRAWN.** *This block used to name two cities and set them
+> against each other as a Gate 6 obligation.* ⭐ **`M-156` makes differentiation a TERMINAL check
 > on the finished corpus.** ✅ **Run the divergence operator on ONE city, with that city's own values for
 > separation, environment, struggles, goals and sensibilities** — *worked example: Shirayuki `04_Phase_09` §G.1.*
 > 📎 `00_RUNBOOK.md` **`§C.9b` · `§C.9c` · `§C.9d`** · `§C.8c` Phase 2 · `ULM_Piece_Index.md` §6 · `02` §G7.
@@ -187,7 +191,7 @@ individual piece, one individual bit, one at a time.***
 > for, and the natives built it. Causal order: assigned → born-to → built → chosen.**
 > **LAST TOUCHED:** **2026-09-06.** *Written: Steps `0`–`8` complete — `00_Frame` · `01_Inherited` · `02_Spine` · `03_Research` · Phases `02`–`10` · `04z` · `05_Reconciliation` · `06_Differentiation` · `07_QA_Gates` · `08_Review_Panel` · `09.5_Log` (420 entries) · `Research_Logs/…` Sessions 2–6.*
 > ⭐ **All thirteen written pieces RE-RUN against the rulings and CONSOLIDATED to authoritative form; pre-consolidation versions in `_Archive/`.** *Logged: `M-142`–`M-160`, `DRQ-10`–`DRQ-14`.*
-> ⏭️ **REMAINS: `Step 9` (record) · `Step 10` (readiness check) · then CST and RWBEM.**
+> ✅ **`Step 9` (record) and `Step 10` (readiness check) since written** — `09_Record.md` · `10_Readiness_Check.md`. *CST and RWBEM run corpus-wide after the ULM (breadth-first ruling, 2026-09-28).*
 >
 > ### ⭐⭐⭐ A GOVERNING LAW WAS ADDED THIS SESSION — **`LAW 0-R`, and it binds every pass from here**
 > **`A PICK IS NOT EXHAUSTED BECAUSE IT HAS BEEN SEARCHED.`** *Developer instruction, 2026-09-06.* **`LAW 0`
@@ -314,11 +318,13 @@ makes sense, and let the RESUME block say which one is live.*
 | | **Palmer** | Antarctic Peninsula & South Shetlands | 8 | 0 | 0 |
 | | **Halley** | Weddell Sea & Dronning Maud Land | 8 | 0 | 0 |
 | | **Mawson** | Enderby & Mac. Robertson Land | 3 | 0 | 0 |
-| ▶ | ⭐ **MIRNY** | **Prydz Bay → Wilkes Land** | **8** | **1** | **0** |
+| ▶ | ⭐ **MIRNY** | **Prydz Bay → Wilkes Land** | **8** | **5** | **4** |
 | | **Janbogo** | Ross Sea, Victoria Land & Dome C | 7 | 0 | 0 |
 | | **Byrd** | West Antarctic interior | 1 | 0 | 0 |
 | | **Amundsen** | ⭐ South Pole — *inter-subnet* | 1 | 0 | 0 |
-| | **TOTAL** | | **36** | **1** | **0** |
+| | **TOTAL** | | **36** | **5** | **4** |
+
+*"Started" counts every city with any step done, including the complete ones.*
 
 ⚠ **`Concordia` and `{{Bunger Hills City}}` are held out** by the 2026-09-06 ruling and are excluded above.
 
@@ -358,7 +364,7 @@ makes sense, and let the RESUME block say which one is live.*
 | **Mawson** | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | **Sayowa** | · | · | · | · | · | · | · | · | · | · | · | · | · |
 
-### ⭐▶ MIRNY — *Prydz Bay → Wilkes Land* · **ACTIVE** · **1 / 8 ULM COMPLETE**
+### ⭐▶ MIRNY — *Prydz Bay → Wilkes Land* · **ACTIVE** · **4 / 8 ULM COMPLETE** *(Mirny in progress)*
 
 | City | **−1** | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **9.5** | **10** |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -366,7 +372,7 @@ makes sense, and let the RESUME block say which one is live.*
 | **Casey** | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | ✅ **Davis** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** |
 | **Kunlun** | · | · | · | · | · | · | · | · | · | · | · | · | · |
-| **Mirny** | · | · | · | · | · | · | · | · | · | · | · | · | · |
+| ▶ **Mirny** | **✅** | **✅** | **✅** | **✅** | **✅** | · | · | · | · | · | · | · | · |
 | ✅ **Sinheung** | **n/a** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅**ʷ | **✅** | **✅** | **✅** | **✅** | **✅** |
 | **Vostok** | · | · | · | · | · | · | · | · | · | · | · | · | · |
 | ✅ **Zhongshan** *(Opus array)* ⭐ **OFFICIAL** / ⛔ **not canon** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** | **✅** |
@@ -418,7 +424,7 @@ makes sense, and let the RESUME block say which one is live.*
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Amundsen Station** | · | · | · | · | · | · | · | · | · | · | · | · | · |
 
-**Totals:** **1 / 38 cities started** · 0 / 38 complete.
+**Totals:** **5 / 38 cities started** · **4 / 38 complete** *(Shirayuki · Sinheung · Zhongshan · Davis)* · Mirny in progress.
 *(`Step −1` reads **n/a** rather than ✅ for Shirayuki: Tier 0 is ruled complete 38/38 corpus-wide, so the step is not re-run per city — §3 below. `9.5` reads **▶** because the recording law is standing, opened at `Step 0`, and appended after every piece.)*
 
 ---

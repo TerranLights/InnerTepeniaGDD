@@ -1,7 +1,7 @@
 # Gate 10 — The Review Panel
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 238–246.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `230–238`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 241–249.** *(Re-verified 2026-10-01 against the current gate headings.)* *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `230–238`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -36,9 +36,9 @@
 **Gate 10 — The Review Panel.** `00f_Review_Panel.md`, **carried unchanged** — it is explicitly fit for this
 methodology and only the casting changes. Six Flat Archetypes, plus the **Passer-Through** and **Neighbor**
 (both mandatory), plus the **Lover faculty's question every time** — *is this place alive, and could anyone love
-it?* Five dispositions: **accepted · noted · rejected · refereed · unmet.**
-> **`unmet` should be common**, and it measures **what a location knowingly protects** rather than how hard the
-> panel was run. **A low count is not a soft panel** — it usually means the location's problems are absences it
+it?* Six dispositions: **accepted · noted · rejected · refereed · unmet · declined.**
+> **Refusals — `unmet` and `declined` together — should be common.** `unmet` measures **what a location knowingly
+> protects** rather than how hard the panel was run, so **a low `unmet` count is not a soft panel** — it usually means the location's problems are absences it
 > does not know it has, and *you cannot refuse to surrender something you do not know you hold.*
 > **A position that cannot be cast at all is a finding**, and a strong one.
 

@@ -35,9 +35,6 @@
 > *(`Test_Runs/COLD_RUN_CHECKLIST.md`)*: enumerate the registry, take the **scope pin** and the **inventory
 > pin**, and tier every source `MAPPED` · `WITHHELD` · `QUERYABLE-BY-SCHEMA`.
 >
-> **⚠ And note Casey's own §C.6 exposure is likely LARGER than the other subject's** — Casey carries a
-> `Course_of_Events/` folder whose **filenames are theses** (M-88), which a registry sweep must count without
-> listing.
 
 **All four `Step −2` vectors are swept and closed. All three readers reported and the 3-of-3 verdict is
 computed below.** ***What blocks `CONFIRMED` is `§C.2` requirement 3: every non-unanimous range must be run
@@ -96,8 +93,6 @@ Worldspace/.../Cities/City_Megasheets/Mirny_Subnet/Casey/Casey_Physical_Infrastr
 | `Cities/Local_Robot_Culture/Mirny_Subnet/Casey.md` | 289 lines | ✅ *(⛔ quarantined content)* |
 | `Neo-Races-and-Cultures/Mirny_Subnet/Casey/` | 1 file, 636 lines | ✅ template-named |
 | `Reference/Real-World/Climate Data/READER/Casey.md` | 16 lines | ✅ **G7** |
-| **`Background-Lore/Cities/Mirny_Subnet/Casey/Course_of_Events/`** | **11 files, 91–143 lines each** | ⛔⛔ **NO. Address by index: `Casey_01` … `Casey_11`** |
-| `Background-Lore/Cities/Mirny_Subnet/Casey/` *(top level)* | 2 files, 143 and 674 lines | ⚠ **Address by line count** |
 
 ---
 
@@ -108,7 +103,7 @@ Worldspace/.../Cities/City_Megasheets/Mirny_Subnet/Casey/Casey_Physical_Infrastr
 | `01_Frame_Typology_and_Inheritance.md` | **line 65** | ⚠ **SKIP THIS LINE.** Retained deliberately; **pending developer ruling on genericizing** |
 | `00_RUNBOOK.md` | §C.2 | ✅ **Neutralized 2026-09-02** |
 | `06_Worked_Example_Provenance.md` | Casey entry | ✅ **Safe** — coordinates-only |
-| `Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` | all | ✅ **Safe — audited after Run 12, leaked nothing** |
+| `Archive/ULM_Records/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` | all | ✅ **Safe — audited after Run 12, leaked nothing** |
 
 ---
 
@@ -142,10 +137,10 @@ Worldspace/.../Cities/City_Megasheets/Mirny_Subnet/Casey/Casey_Physical_Infrastr
 > "it was fine" or "it was wrong" loses the lesson.***
 
 **The stratification tracks the tier ordering exactly, which is itself a validation:** **`Specs/` is the
-cleanest tier (82.7% admissible), the "attributes" megasheet sits in the middle (45.2%), and the completed
-culture sheet is the dirtiest (30.5%).** **The prep document's §3 warning that
+cleanest tier (85.0% admissible), the "attributes" megasheet sits in the middle (43.7%), and the completed
+culture sheet is the dirtiest (31.5%).** **The prep document's §3 warning that
 `Casey_Physical_Infrastructure_Attributes.md` is *the trap by name* is confirmed — a file whose title
-promises attributes is 54.8% conclusions.**
+promises attributes is 56.3% conclusions.**
 
 ## 5b. ⚠⚠ THE HONEST CAVEAT — the readers ran under THREE DIFFERENT CONTRACTS
 
@@ -180,13 +175,13 @@ default than A's or C's are.** **Two independent methods agreeing is worth more 
 
 ## 5c. The 3–0 ADMISSIBLE sets — safe to open
 
-**`Specs/Casey.md`** *(82.7%)*
+**`Specs/Casey.md`** *(85.0%)*
 `1-6, 8-96, 103-116, 130-141, 143, 145-151, 153-168, 171-172, 181-191`
 
-**`Casey_Physical_Infrastructure_Attributes.md`** *(45.2%)*
+**`Casey_Physical_Infrastructure_Attributes.md`** *(43.7%)*
 `1-12, 24-27, 30-55, 61-74, 80-87, 92-96, 161-166`
 
-**`Local_Cultures/Mirny_Subnet/Casey.md`** *(30.5%)*
+**`Local_Cultures/Mirny_Subnet/Casey.md`** *(31.5%)*
 `1-12, 16-33, 45-48, 94-100, 105-108, 113-116, 152-165, 215-218, 260-267, 269, 271-277, 280-284, 286`
 
 ## 5d. The unanimous-WITHHELD sets — ⛔ do not open, and no ladder will recover them

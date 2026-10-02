@@ -112,8 +112,9 @@ the Opus arm's gate results, its defect counts, and its Review Panel characteriz
 > **A divergence test measures what two arms reach INDEPENDENTLY. An arm that has read the other arm's findings
 > is no longer an arm.**
 
-✅ **DISPOSITION — the rule stands without the example.** **Parts V and V.2 are TRIALS, explicitly
-non-binding**, and `04` Part V's own guards already say `Zhongshan_Sonnet` must not run either trial.
+✅ **DISPOSITION — the rule stands without the example.** **Parts V and V.2 are mandatory on every pass
+(developer ruling 2026-09-11) but name `Zhongshan_Sonnet` as an exception**: `04` Part V's own guards say it
+must not run either instrument.
 ⛔ **A `Zhongshan_Sonnet` resumption must SKIP Parts V and V.2 entirely** — *they are appended after Part IV
 and are cleanly separable, which is the one piece of luck here.*
 ⏸️ **Whether that is sufficient, or whether the trials should be moved to a quarantined archive with bare
@@ -146,9 +147,9 @@ back into the rules — see its Step 9 note), but two items are genuine contamin
 
 | File | Section | What the example reveals about Zhongshan |
 |---|---|---|
-| `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-25** | The specific own-eras axis chosen for Run 4's Phase 5b ("what does 'the claim' mean, at founding vs. now") and its two-state result |
+| `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-25** | The specific own-eras axis chosen for Run 4's Phase 5b ("what does 'the claim' mean, at founding vs. now") and its two-state result. ⛔ *"The claim" there is a court's recognition of the station's infrastructure and habitation. Zhongshan's founding stands on its own geographic and time-zone access (`DR-21`), never on the station (`DR-19`), so the axis is a record of the run, never an input* |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-26** | Zhongshan's Census I→II figures and the correct Status reading (`Living`, not `Growing` or `Declining`) |
-| `Test_Runs/2026-08-30_Zhongshan_Run4_Cold_Methodology-Delta/` | **all of it** | Run 4's full Phase 1–7 content: the capability shape (STANDING COST populated by G2+G4, not `cost-absent`), the highway-tri-junction relational finding, the no-arrival-scene/no-Saint "untested legitimacy" Phase 6 finding, the water-basin shadow and its language-redirect Denying-Innocent-One verdict |
+| `Archive/ULM_Records/Test_Runs/2026-08-30_Zhongshan_Run4_Cold_Methodology-Delta/` | **all of it** | Run 4's full Phase 1–7 content: the capability shape (STANDING COST populated by G2+G4, not `cost-absent`), the highway-tri-junction relational finding, the no-arrival-scene/no-Saint "untested legitimacy" Phase 6 finding, the water-basin shadow and its language-redirect Denying-Innocent-One verdict |
 
 **If `01`, `04`, or `00f` are later edited to absorb Run 4's M-25/M-26 findings as worked examples** (per Step
 9.4's still-outstanding implementation task), **add the relevant section to the table above in the same
@@ -197,7 +198,7 @@ one entry surgically stripped of a leaked personality triple · **four entries b
 `project_refugee_affinity_verification_pass.md`, found and banded 2026-08-31 during Run 5's inbound check — see
 M-32)* · the rest verified attribute-only.
 
-## Sinheung — added 2026-08-31 from Run 5 *(cold, complete — all eleven phases, sixteen gates, Review Panel)*
+## Sinheung — added 2026-08-31 from Run 5 *(cold, complete — all eleven phases, seventeen gates, Review Panel)*
 
 **A future cold pass on Sinheung must skip the example content in every row below.** The rule in each case
 stands without it.
@@ -209,9 +210,9 @@ stands without it.
 | `03` | **Phase 9D**, the "not a target ratio" clarification | Not itself Sinheung-specific content, but adjacent to Phase 9's "made here/made elsewhere" robot finding and the output-proven cross-population axis — both quarantined for a Sinheung re-run |
 | `00_RUNBOOK` | Status note's Gate 6 convergence-mode addition | Sinheung's own central finding and its word-for-word match against the withheld culture sheet |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-35, M-36, M-37** | Sinheung's central finding, its Zhongshan-comparison reconciliation, and its Phase 6 death-outsourcing reasoning, all in full |
-| `Test_Runs/2026-08-31_Sinheung_Run5_Cold/` | **all of it** | Sinheung's complete Phase 0–10 content, all sixteen gates, and the full Review Panel run |
+| `Archive/ULM_Records/Test_Runs/2026-08-31_Sinheung_Run5_Cold/` | **all of it** | Sinheung's complete Phase 0–10 content, all seventeen gates, and the full Review Panel run |
 
-## Highway 37 — added 2026-08-31 from Run 6 *(cold, complete — all eleven phases, sixteen gates, Review Panel,
+## Highway 37 — added 2026-08-31 from Run 6 *(cold, complete — all eleven phases, seventeen gates, Review Panel,
 base Zodiac Lens; the Elemental/Planetary Cross-Check extension deliberately deferred)*
 
 **A future cold pass on Highway 37 must skip the example content in the row below.** The rule stands without
@@ -223,9 +224,9 @@ sessions — only this run's own output, listed here for the benefit of any *lat
 |---|---|---|
 | `01_Frame_Typology_and_Inheritance.md` | **§4.1**, "THE DEFAULT FRAME IS NEUTRAL" | Cites this run's own mid-pass correction (an early draft defaulted to the post-war frame unasked) as the rule's origin case, including the corrected Frame Declaration's own content |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-43 through M-49** | This run's inbound-check results, its shape/input-set boundary case, the frame correction, the axis-naming and asymmetry gate catches, the minigame-derivation move, and the empty-quarantine structural note |
-| `Test_Runs/2026-08-31_Highway37_Run6_Cold/` | **all of it** | Highway 37's complete Phase 0–10 content, all sixteen gates, the full Review Panel run, and the base Zodiac Lens |
+| `Archive/ULM_Records/Test_Runs/2026-08-31_Highway37_Run6_Cold/` | **all of it** | Highway 37's complete Phase 0–10 content, all seventeen gates, the full Review Panel run, and the base Zodiac Lens |
 
-## Cape Adare — added 2026-08-31 from Run 7 *(cold, complete — all eleven phases, sixteen gates, Review Panel;
+## Cape Adare — added 2026-08-31 from Run 7 *(cold, complete — all eleven phases, seventeen gates, Review Panel;
 the Zodiac Lens deliberately deferred to a future follow-up pass)*
 
 **A future cold pass on Cape Adare must skip the example content in the rows below.** The rules stand without
@@ -236,7 +237,7 @@ same-location re-run also needs the admissibility table in `00_Frame_and_PreFlig
 |---|---|---|
 | `05_The_Input_Contract.md` | **§6.1d**, "A `Specs/` file is not categorically safe either" | Cites this run's own self-caught contamination event in full — the Character & Culture section's own content, and the reasoning that corrected it |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-50 through M-54** | This run's quarantine-build catches, the near-miss on fabricated scan output, the neutral-frame stress test, and the input-scarcity-vs-methodology-failure diagnostic |
-| `Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` | **all of it** | Cape Adare's complete Phase 0–10 content, all sixteen gates, and the full Review Panel run |
+| `Archive/ULM_Records/Test_Runs/2026-08-31_CapeAdare_Run7_Cold/` | **all of it** | Cape Adare's complete Phase 0–10 content, all seventeen gates, and the full Review Panel run |
 | **`Worldspace/Canon_Gap_Resolution_Method/03_Deposit_Discipline.md`** | **§1's worked table — already fenced** | Cape Adare's own conclusion content (civic character, pace, instrumentation), used there to teach the attribute/conclusion classification. **Fenced with `<!-- CGRM:CONCLUSION-TIER -->` markers**, so it can be excluded mechanically rather than by noticing: `awk '/CGRM:CONCLUSION-TIER:START/{skip=1; next} /CGRM:CONCLUSION-TIER:END/{skip=0; next} !skip' <file>` |
 | `Worldspace/Canon_Gap_Resolution_Method/00_RUNBOOK.md` | **LAW B** | The Cape Adare deposit chain narrated in full, as the recorded failure grounding that law |
 | `Worldspace/Canon_Gap_Resolution_Method/Test_Runs/2026-08-31_Seed_CapeAdare_and_Highway37.md` | **all of it** | Cape Adare's and Highway 37's triaged gap lists — the *questions*, not answers, but a re-run should not be handed its predecessor's framing of what was missing |
@@ -249,7 +250,7 @@ same-location re-run also needs the admissibility table in `00_Frame_and_PreFlig
 > rather than after the fact**, and is registered here so a future cold pass finds it through the check it
 > already runs, rather than having to know that a second system exists.
 
-## Mountain Pass Airport — added 2026-08-31 from Run 10 *(cold, complete — all eleven phases, sixteen gates,
+## Mountain Pass Airport — added 2026-08-31 from Run 10 *(cold, complete — all eleven phases, seventeen gates,
 Review Panel; first Installation-type location run under this methodology)*
 
 **A future cold pass on Mountain Pass Airport must skip the example content in the rows below.** The rules
@@ -264,10 +265,10 @@ re-run.
 | `Cultural_Synthesis_Techniques.md` | The Zodiac Lens's own §4 stopping-criterion note ("Added 2026-08-31, Run 10... M-78") | Cancer's own selective-actualization finding, in full — its specific mythic-register hits and the domestic-register null |
 | `Cultural_Synthesis_Techniques.md` | The Elemental/Planetary Cross-Check's own agent-type caution note | The fork-cascade tooling incident's own specific detail, including the fabricated Libra finding and the real recovery method |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-74 through M-80** | This run's own neutral-frame catch, the chamber-departure and governance-vacuum convergences in full, the Gate I Independence Day catch, and the Type-fidelity result |
-| `Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` | **all of it** | Mountain Pass Airport's complete Phase 0-10 content, the full Zodiac Lens (all twelve signs), all sixteen gates, and the full Review Panel |
+| `Archive/ULM_Records/Test_Runs/2026-08-31_MountainPassAirport_Run10_Cold/` | **all of it** | Mountain Pass Airport's complete Phase 0-10 content, the full Zodiac Lens (all twelve signs), all seventeen gates, and the full Review Panel |
 
 ## Sanay (and the Sanay Maritime Shipping Port specifically) — added 2026-08-31 from Run 11 *(cold, complete —
-all eleven phases, sixteen gates, Review Panel, base Zodiac Lens; the first pass on a NAMED SUB-LOCATION whose
+all eleven phases, seventeen gates, Review Panel, base Zodiac Lens; the first pass on a NAMED SUB-LOCATION whose
 parent is a fully-developed Settlement)*
 
 **A future cold pass on Sanay, the Sanay Shipyard/Maritime Shipping Port, or any other named sub-location of
@@ -282,11 +283,11 @@ Sanay must skip the example content in the rows below.** The rules stand without
 
 | File | Section | What the example reveals about Sanay |
 |---|---|---|
-| `02_Generators_Capability_and_Symbols.md` | **§6.3**, the pairing-relation worked-examples table | Sanay's own symbol pair (Jupiter + Magnetism) and its derived rationale ("orthogonal to complementary... holds the Arcanet nexus, where the two registers meet exactly") — **pre-existing content, not added by Run 11; the manifest gap it exposed is what Run 11 found and fixed (M-82)** |
-| `05_The_Input_Contract.md` | **§6.1a**, the line/character-anchoring sub-rule (M-83) | Cites the exact line numbers of `02` §6.3's Sanay example (line 562 admissible, lines 563-564 inadmissible) as its own worked case |
+| `Test_Runs/Worked_Examples_Archive/Symbol_Pairings.md` *(`02` §6.3 now carries only a bare pointer to it)* | **the pairing-relation worked-examples table** | Sanay's own symbol pair (Jupiter + Magnetism) and its derived rationale ("orthogonal to complementary... holds the Arcanet nexus, where the two registers meet exactly") — **pre-existing content, not added by Run 11; the manifest gap it exposed is what Run 11 found and fixed (M-82)** |
+| `Test_Runs/Worked_Examples_Archive/Symbol_Pairings.md` | **the origin note for `05` §6.1a's line/character-anchoring sub-rule (M-83)** | The admissible/inadmissible line split of the Sanay example. *`05` §6.1a now states the rule with no line numbers and no location* |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-82 through M-86** | This run's two contamination events (the `02` §6.3 exposure; the prep document's own descriptive-section exposure), the line-anchoring mitigation technique, the Band-0-vs-presence self-correction, and the seven-sign Zodiac Lens convergence on the port's manual/workaround dual-authority mechanism, all in full |
-| `Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md` | **the descriptive "not a virgin location" section specifically** (NOT its own 22-step line-ranged reading sequence, which remains safe and is the intended path) | Quotes withheld-file conclusion fragments directly — "a Guangzhou-Canton-System bounded-contact zone," "'function over sentiment'... a defended civic value" — flagged as M-85; **a future session should follow this document's own numbered reading sequence, never its descriptive framing prose, if picking up Sanay again** |
-| `Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/` | **all of it** | The port's complete Phase 0-10 content, all sixteen gates, the full base Zodiac Lens (all twelve signs) with its cross-sign synthesis, and the full Review Panel |
+| `Archive/ULM_Records/Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md` | **the descriptive "not a virgin location" section specifically** (NOT its own 22-step line-ranged reading sequence, which remains safe and is the intended path) | Quotes withheld-file conclusion fragments directly — "a Guangzhou-Canton-System bounded-contact zone," "'function over sentiment'... a defended civic value" — flagged as M-85; **a future session should follow this document's own numbered reading sequence, never its descriptive framing prose, if picking up Sanay again** |
+| `Archive/ULM_Records/Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/` | **all of it** | The port's complete Phase 0-10 content, all seventeen gates, the full base Zodiac Lens (all twelve signs) with its cross-sign synthesis, and the full Review Panel |
 
 ## Casey — added 2026-09-02 from Run 12 *(cold run ABANDONED before Phase 0 — contaminated at the starting line; the session continued as a map-builder, not a deriver)*
 
@@ -308,11 +309,10 @@ Sanay must skip the example content in the rows below.** The rules stand without
 | `00_RUNBOOK.md` | **§C.2, return-contract table** | **Conclusion — a civic-character claim, in the form of an illustrative section title** | ✅ **NEUTRALIZED 2026-09-02** — replaced with a bracketed generic placeholder. **No longer a leak; row retained as the record** |
 | `01_Frame_Typology_and_Inheritance.md` | **§1, line 65** *(the Status-modifier table, `Resettled` row)* | **Frame-tier, with an evaluative gloss** — a Type modifier, plus a judgment about the corpus rather than about the city | ⚠ **RETAINED DELIBERATELY.** Genuinely useful methodology guidance, and a modifier a cold pass declares from `Specs/` at Step 0.1 anyway. **Skip line 65; do not delete** |
 | `00_RUNBOOK.md` | **§C.3** | **None** — names Casey only as the subject of the contamination anecdote | No action |
-| `Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` | **all of it** | **None — verified.** The prep document is coordinates and rules throughout and leaked nothing. **It was written against M-85 and it held** | **Safe. It remains the intended entry path** |
+| `Archive/ULM_Records/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` | **all of it** | **None — verified.** The prep document is coordinates and rules throughout and leaked nothing. **It was written against M-85 and it held** | **Safe. It remains the intended entry path** |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-87 – M-92** | **Names the vectors and the classes; states no Casey finding** | Safe |
 | **The auto-loaded memory directory** | `project_casey_recheck.md` · `project_casey_bug_check_resolved.md` · `project_pink_lucy_migration_resolved.md` | **Conclusion — civic character and named Tier-3 particulars** | ✅ **BANDED 2026-09-02** |
 | ⛔⛔⛔ **`…/Division_of_Industry/16_Per_City_Three_Tier_Run.md`** | **Casey's own determination section, in full** | ⛔⛔ **CONCLUSION-TIER, and the heaviest entry in this table.** **Carries the mandated sector AND its reasoning, the named signature establishment, the Enneagram read, and the founding creed** | ⛔⛔⛔ **SKIP THE WHOLE SECTION on any Casey pass.** ⚠ **See the ORCHESTRATOR note below — this vector has already fired once** |
-| **`Background-Lore/Cities/Mirny_Subnet/Casey/Course_of_Events/`** | **the FILENAMES, not the contents** | **Conclusion — eleven authored titles, each a thesis** | ⚠ **NEVER `ls` THIS FOLDER.** Address by index; **11 files, 91–143 lines each.** See M-88 |
 
 > ## ⛔⛔⛔ ORCHESTRATOR EXPOSURE — **added 2026-09-16 at Davis's Step 10, item 2**
 >
@@ -367,8 +367,8 @@ Sanay must skip the example content in the rows below.** The rules stand without
 > too"* problem dies with the example. **⛔ But vector 1 is NOT closed (M-125):** it sweeps `00`–`06` plus the
 > disciplines, and **215 location-naming lines remain outside the six audited files.** **Keep running it.**
 >
-> ⛔ **The retired ranges are also now WRONG:** `02` is 621 lines (was 613), `05` is 708 (was 703).
-> ***Do not apply them from memory.***
+> ⛔ **The retired ranges are also now WRONG:** `02` (613 lines when they were drawn) and `05` (703) have both
+> grown since. ***Do not apply them from memory; count the file at the time of use.***
 
 **Live coordinate maps and full status: `Pre-Contamination_Reviews/Shirayuki_Pre-Contamination_Review.md`
 — §6 (3 city files) and §9 (14 registry files), both 3-of-3, both pinned.**
@@ -416,7 +416,7 @@ which are not locations)*. ***The general form of every rule was retained; only 
 | `00_RUNBOOK.md` L1979 | Climate-data register row | ✅ **ATTRIBUTE** | None |
 | `00_RUNBOOK.md` L2575 | *"found six real conflicts, and CONCEDED one"* | ✅ **SHAPE** | None — process counts only |
 | ⛔ `00_RUNBOOK.md` **L515–519** | **The glitch-coolant finding, quoted entire and ruled admissible** *(`M-159`)* | ⛔ **CONTENT** | ⚠ **MANIFESTED, NOT REMOVED** — *`S12` rule 4 forbids Step 10 editing instruction text. **A future Shirayuki run must band these lines.*** |
-| ⛔⛔ `00_RUNBOOK.md` **L2126–2131** | **`Shirayuki` Japan `36.27%` / Jeju-do · `Sayowa` Japan `2.71%`, China `17.39%` — and an instruction to COMPARE them** | ⛔⛔ **CONTENT ×2 + A WITHDRAWN INSTRUMENT** | ⚠ **MANIFESTED.** ⭐ **Worst row in the file: two cities' figures AND a live copy of a rule the 2026-09-06 ruling withdrew** *(`M-161`)* |
+| `00_RUNBOOK.md` **§C.9d**, the anti-convergence worked case | **Names Founding Register stocks only (Argentina, Australia); no Shirayuki figure; its comparison check is TERMINAL** *(`M-161`)* | ✅ **CANON** | None |
 | ⛔ `00_RUNBOOK.md` **L2257–2262** | The Phase 3 climate→culture derivation **and its refutation** *(`M-151`)* | ⚠ **CONTENT — but a KILLED finding** | ⚠ **MANIFESTED.** *Teaches what not to conclude; lower harm than a live finding, not zero* |
 
 > ### ⭐⭐ AND THE LESSON THE PRE-RUN SECTION ALREADY PREDICTED, NOW MEASURED FROM THE OTHER SIDE

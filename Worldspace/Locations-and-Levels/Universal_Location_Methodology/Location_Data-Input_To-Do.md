@@ -53,19 +53,23 @@
 
 | # | Field | Cities missing | Tier | Tie-break / note |
 |--:|---|--:|---|---|
-| **1** | **EXTENT / AREA** | **37** | `T2-8` | tie at 37 — **first because it is the only blocker that disables an entire QA gate**, and because it is a `RESERVED` developer decision nothing else can route around |
+| ~~**1**~~ | ~~**EXTENT / AREA**~~ | ✅ **0** | `T2-8` | ✅ **CLOSED 2026-09-05 — 13 cities declared; the other 25 are closed by the coastline ruling, not pending** (`Extent_and_Density_Per_City.md` §10–§11). *Ranked first while open because it was the only blocker that disabled an entire QA gate* |
 | **2** | **Differentiation table column** | **37** | `04` Part III | tie at 37 — second because a pass can proceed without it; it degrades the anti-convergence guard rather than blocking a phase |
 | **3** | **Research log** | **33** | `Step 3.7` | **the loss is PERMANENT**: a log is the only input that stays admissible to a later cold run, so an un-logged search is provenance destroyed, not deferred |
 | ~~**4**~~ | ~~**Monthly climate table**~~ | ✅ **0** | `T1-G2` | ✅ **CLOSED 2026-09-04 — 37/37, plus 6 new complete climate classes** |
 | ~~5~~ | ~~Named in `Airports.md`~~ | ~~6~~ | `T1-G5` | ✅ **RESOLVED 2026-09-03 — all 37 now explicitly stated; file reconciles 11+3+23=37.** See §5 |
 | ~~6~~ | ~~Named in `Highways.md`~~ | ~~3~~ | `T1-G5` | ✅ **RESOLVED 2026-09-03 — developer-confirmed; was never a gap.** See §6 |
-| ~~**7**~~ | ~~**Founding population**~~ | ✅ **0** | `T1-G4` | ✅ **CLOSED 2026-09-04 — Denison.** *It was never a data gap: the content sat as prose in `Settled:` and read as missing to a mechanical sweep.* ⭐ **A `G4` SPINE input that was reported absent for want of a field name** |
-| **8** | DoI Half B row | **1** | `T1-G3` | — |
+| ~~**7**~~ | ~~**Founding population**~~ | ✅ **0** | `T1-G4` | ✅ **CLOSED 2026-09-04 — Denison.** *It was never a data gap: the content sat as prose in `Settled:` and read as missing to a mechanical sweep.* ⭐ **A `G4` SPINE input that was reported absent for want of a field name.** ⛔ *Founders themselves come only from `Founding_Register.md`; Denison's row there is ⏸️ — founding population: UNRULED (Founding Register)* |
+| ~~**8**~~ | ~~DoI Half B row~~ | ✅ **0** | `T1-G3` | ✅ **CLOSED 2026-09-04 — stale row.** *Abowasa is in Half B, keyed `{{Abowasa}}` with placeholder braces* |
 | **9** | Robot culture file | **1** | `T2-5` | ⏸️ **blocked, not open** — see §Blocked |
 
 ---
 
-# 1. EXTENT / AREA — **37 of 37**
+# 1. EXTENT / AREA — ✅ **CLOSED 2026-09-05**
+
+> ✅ **13 cities carry a declared extent; the other 25 are closed by the coastline ruling, not pending** —
+> `Extent_and_Density_Per_City.md` §10–§11. ⛔ **Do not open a "finish the rest" task.** *The section below is
+> the record of the gap as it stood on 2026-09-03/04.*
 
 > ### ⭐ APPROACH DOCUMENT — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Extent_and_Area_APPROACH.md`
 > **Written 2026-09-04.** Settlement-form typology · the anti-circularity rule · what constrains buildable area *(ice IS buildable — the limits are mass balance, ice dynamics and terrain)* · **extent needs a `Built mode` companion or the density check still cannot discriminate** · **bands, not point values** · and a §7 split of what is a developer RULING versus what is research.
@@ -81,7 +85,7 @@ division and calls it *"the cheapest plausibility check in the methodology."***
 
 **Six cities have an area figure and NONE of them is a city extent** — each measures the real-world *site*:
 Cape Adare (2.94 km² cape) · Denison (1.11 km² ASMA) · Davis (~400 km² oasis) · Lazar (~34 km² oasis) ·
-Sayowa (~4–5 km² island) · Sinheung (~34 km² hills). **They measure the real-world SITE, not the city.**
+Sayowa (~1.5 km² island) · Sinheung (~40 km² hills). **They measure the real-world SITE, not the city.**
 
 > # ⛔⛔ STANDING CORRECTION — **ICE-FREE AREA IS NOT A CONSTRAINT ON CITY EXTENT.**
 > **Developer correction, 2026-09-03, after this error recurred across sessions:**
@@ -107,8 +111,7 @@ Sayowa (~4–5 km² island) · Sinheung (~34 km² hills). **They measure the rea
 >
 > ### ⏸️ DENSITY AND EXTENT ARE DEFERRED — developer instruction, 2026-09-03
 > ***"The issue of density has to be addressed another time… we leave that for some other time later."***
-> **Do not derive, propose, or assume an extent figure in the meantime.** **This item stays ranked #1 and
-> stays OPEN.**
+> ✅ **Taken up 2026-09-05 and closed the same day** — see the box at the head of this section.
 
 **⚠ Already producing a live, unresolved implausibility:** **Sayowa's own spec has run the division and
 recorded *"225,376 people on ~4–5 km² is ~50,000/km² — the implausibility…"*** and **Cape Adare's spec says
@@ -130,11 +133,10 @@ outright *"the exact figure is a worldbuilding decision, not an arithmetic one."
 > | **A plausible DENSITY band** *(or a per-tier band)* | **extent, for all 37** — `extent = Census I ÷ density` |
 > | **EXTENT from real geography** *(ice-free bedrock available)* | **density, for all 37** — and it will be very high |
 >
-> ### ⚠ And the second option is partly forced already, which is what makes this urgent
-> **For several cities extent is NOT free — it is bounded above by real ice-free land:** **Denison 1.11 km²**
-> *(its own spec notes the true bedrock figure is LESS)* · **Cape Adare 2.94 km²** · **Sayowa ~4–5 km².**
-> **Against Census I populations in the hundreds of thousands, those bounds force extreme density whether
-> anyone rules on it or not.**
+> ### ⚠ And the second option is NOT forced by the site figures
+> **Denison 1.11 km² · Cape Adare 2.94 km² · Sayowa ~1.5 km² are real-world SITE figures and bound nothing**
+> *(the standing correction above: cities build on ice)*. **The only hard edge is water** — *which is why Gate
+> 11 has teeth only on the island cities (`Extent_and_Density_Per_City.md` §10).*
 >
 > ### ⭐ THE CORPUS MAY ALREADY CONTAIN THE ANSWER — and it points at "extreme density is correct"
 > ***`Inspirational-Influences.md` gives Denison a PRIMARY pick of **Kowloon Walled City** — annotated in the
@@ -147,7 +149,8 @@ outright *"the exact figure is a worldbuilding decision, not an arithmetic one."
 > > enclosed hostile-environment settlement on 1 km² of bedrock would have to be.**
 >
 > ### ⚠ Which means Sayowa's flagged "implausibility" may not be an error at all
-> **~50,000/km² is roughly Kowloon's real historical density.** ***If extreme density is the Tepenian norm,
+> **~50,000/km² is about Manila's density (46,178/km²) — and about a twenty-fifth of Kowloon Walled City's
+> historical peak (~1,255,000/km²).** ***If extreme density is the Tepenian norm,
 > Sayowa's number is not a bug to fix — it is a characterizing fact that has been sitting mislabeled as a
 > problem.*** **`05` §5 asks what changes if the answer comes back differently, and here the two answers are
 > opposite in kind:** *a density ruling either RETIRES that flag as correct-and-characterizing, or confirms it
@@ -193,11 +196,10 @@ Troll, Vostok, Zukelli
 > *(falls / lands / lost, and a WIND-vs-COLD statement per city)* · ⭐ **per-column provenance** ·
 > ⭐ **Access type**.
 >
-> **Still open, and NOT research tasks:** monthly `Rec High`/`Rec Low` at **25 complete / 9 partial /
-> 3 none**; `Prevailing winds` missing in 3; `Record extremes` header missing in 7.
-> ⛔ **Abowasa, Dome_Fuji, Princess_Elisabeth and Cape_Adare need PROXY RULINGS** — the nearest stations
-> are 240–430 km away, and the 2026-09-04 pass exhausted BAS READER, NOAA NCEI (68 stations), published
-> climate boxes in five languages and the national met services. **The data does not exist to be found.**
+> ✅ **Also closed 2026-09-04, at 37/37:** monthly `Rec High`/`Rec Low`, `Prevailing winds` and the
+> `Record extremes` header. *The last four came from on-site or near stations: Abowasa (IMAU `AWS05`, ~10 km),
+> Princess Elisabeth (IMAU `AWS16`, on site), Dome Fuji (GHCN-Daily `AYM00089734`, on site; extreme daily
+> MEANS, not true max/min) and Cape Adare (two GHCN-Daily proxies).*
 >
 > **Full detail:** `ULM_Input_Available_Audit.md` §1b · `Reference/Real-World/Climate Data/Climate_Data_Corpus_Audit_2026-09-04.md`
 >
@@ -228,15 +230,16 @@ Month/Temp/Precip/Daylight table is absent entirely. **`T1-G2`, the near-univers
 > | **Avg Daylight (hrs)** | ⭐ **DERIVABLE — astronomy, not measurement.** Computable from latitude, which the specs already carry in `**Based on:**` |
 > | Temp Range · Avg Precip · Precip Probability · Notes | ❌ **still requires research** |
 >
-> **⛔ DENISON HAS NO READER FILE, and no real-world climate source anywhere in the repo.** ***It is the only
-> one of the seven that is unsourced*** — and it is simultaneously the sole city missing **founding
-> population**, a Tier 1 spine generator. **Denison is the corpus's weakest-covered city on two axes at once.**
+> **⛔ DENISON HAD NO READER FILE, and no real-world climate source anywhere in the repo.** ***It was the only
+> one of the seven that was unsourced*** — and it was simultaneously the sole city missing the **founding
+> population** field, a Tier 1 spine generator. *(Both closed 2026-09-04: `READER/Denison.md` was created and the
+> field filled; Denison's founders are ⏸️ UNRULED in `Founding_Register.md`.)*
 
 **MISSING (7):** Denison, Juan Carlos, Port Lockroy, Scott, Shirayuki, Zhongshan, Zukelli
 
 # 5. ✅ RESOLVED — AIR ACCESS STATED FOR ALL 37 *(was 6 unstated)*
 
-> ### ✅ CLOSED 2026-09-03. **`Airports.md` now reconciles: 11 hosts + 3 served-not-host + 23 no-access = 37.**
+> ### ✅ CLOSED 2026-09-03. **`Airports.md` now reconciles: 11 host cities + 3 served-not-host + 23 no-access = 37.**
 > **Verified mechanically — every city in exactly one list, no overlaps, no strays.** **The `"…and others"`
 > catch-all is gone; the six previously-unstated cities are named.** **Three pieces of canon were established
 > in the process** *(Mawson subnet zero-airport · Palmer City's two-era air-disconnection · Signy reachable by
@@ -337,7 +340,10 @@ test looked in the wrong file — a scoping error in the instrument, not a gap i
 > authorization; the row now carries the correction note and the `Access type:` pointer.*** **Verified: the
 > corrected path resolves, and no stale reference remains outside the files documenting the defect.**
 
-# 7. FOUNDING POPULATION — **1 of 37** ⭐ **highest TIER on this list**
+# 7. ~~FOUNDING POPULATION — 1 of 37~~ — ✅ **CLOSED 2026-09-04** *(see row 7 above)*
+
+> ✅ **The field now exists for Denison.** ⛔ **Its founders are not ruled: founding population: UNRULED
+> (Founding Register).** *Record of the gap as it stood follows.*
 
 **`T1-G4` — a SPINE generator.** The `**Founding population:**` field is unfilled. **`02` G4: *the absences
 are the yield — what the founding generation did not bring is very often a permanent hole.*** **`05` §2.2
@@ -348,12 +354,10 @@ requires three independent Tier 1 generators or the capability profile cannot be
 
 **MISSING (1):** Denison
 
-# 8. DoI HALF B ROW — **1 of 37**
+# 8. ~~DoI HALF B ROW — 1 of 37~~ — ✅ **CLOSED 2026-09-04**
 
-**`T1-G3`, the strongest `G3` supply in the project.** **Absent from the 37-city run in
-`16_Per_City_Three_Tier_Run.md`.** *(Consistent with item 12 — the same city is paused.)*
-
-**MISSING (1):** Abowasa
+**`T1-G3`, the strongest `G3` supply in the project.** ✅ **Abowasa IS in `16_Per_City_Three_Tier_Run.md`'s
+Half B, keyed `{{Abowasa}}` with placeholder braces** — *the row was stale, not missing.*
 
 ---
 
@@ -453,7 +457,7 @@ fleets."* **Twelve of the fifteen "present" cities were false positives.**
 
 | Field | City | Blocked on |
 |---|---|---|
-| **Robot culture file** `T2-5` | **Abowasa** | **its founding-nation fix**, paused per standing project practice — the same pause that excludes it from the symbol assignments |
+| **Robot culture file** `T2-5` | **Abowasa** | **its revisit.** *Founders are ruled: Italy and the CIN (`Founding_Register.md`, `DR-22`). The spec's Finland/Sweden founding and the Aboa + Wasa name await rework (`R-16`).* The same pause excludes it from the symbol assignments |
 
 ---
 
@@ -465,16 +469,16 @@ fleets."* **Twelve of the fifteen "present" cities were false positives.**
 |---|---|---|
 | Symbol pair | **Concordia** | it uses the **zodiac district substrate**, not the Planet+Element city system *(word "capital" removed 2026-09-06 — developer ruling, `M-153`)* |
 | Local culture · Megasheet · Enneagram · Robot culture | **Concordia** | **301 district files** under `Concordia-City/Districts/` — the district methodology owns it |
-| Symbol pair | **Abowasa** | **deliberately paused** pending its founding-nation fix; stated in the file itself |
-| Symbol pair · Inspiration picks | **Amundsen Station** | **a research and relay outpost, not a residential city** — the census says so explicitly |
+| Symbol pair | **Abowasa** | **deliberately paused** pending its revisit *(founders ruled Italy + CIN, `DR-22`; name rework `R-16`)*; the pause is stated in the file itself |
 
 ---
 
 # ✅ COMPLETE — 37 of 37, nothing to do
 
 **Census I figures · National origin composition (`G8`) · Geographic basis · Settled date · Significance ·
-Economy & Industry section · Highway-access field · Based-on designation · Inspiration picks *(bar Amundsen)* ·
-Notable locations · Open questions · Relationship files · Master reference entry · City vision notes.**
+Economy & Industry section · Highway-access field · Based-on designation · Inspiration picks *(Amundsen's
+are filed under both its names, 2026-09-04)* · Notable locations · Open questions · Relationship files · Master
+reference entry.** *(`City_Vision_Notes/` exists for all 37 but is struck corpus-wide and is not an input.)*
 
 > ### ⚠ THE PATTERN WORTH READING OFF THIS LIST
 > **Every COMPLETE field has a single aggregate owner** — one file with a row per city. **Every field at or

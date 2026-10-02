@@ -1,7 +1,7 @@
 # Step 5 — Reconciliation *(and the CLOSE pass)*
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2710–2842.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2586–2708`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the `📂 Required Reading` box and the ENTIRE canon-tiers block (developer ruling 2026-09-06/07: canon is FOUR tiers and only ONE outranks a ULM finding — this is `DR-4`'s own methodological source, and the block records the live Shirayuki failure it exists to prevent). This is `R-10`'s fourth major measured card-content gap. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2752–2884.** *(Re-verified 2026-10-01 against the current `# Step` headings.)* *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2586–2708`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the `📂 Required Reading` box and the ENTIRE canon-tiers block (developer ruling 2026-09-06/07: canon is FOUR tiers and only ONE outranks a ULM finding — this is `DR-4`'s own methodological source, and the block records the live Shirayuki failure it exists to prevent). This is `R-10`'s fourth major measured card-content gap. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -60,7 +60,7 @@ both**, then check whether the two claims are about different objects.
 **Canon outranks a generator** (`05` §6.1, opened above). State the contradiction and the reconciliation in the
 text; do not silently pick one. **Where it genuinely cannot be reconciled, flag it open.**
 
-> # ⭐⭐⭐⭐⭐ ⚠ **BUT "CANON" IS TWO TIERS, AND ONLY ONE OF THEM OUTRANKS.** *(Developer ruling, 2026-09-06.)*
+> # ⭐⭐⭐⭐⭐ ⚠ **BUT "CANON" IS FOUR TIERS, AND ONLY ONE OF THEM OUTRANKS.** *(Developer ruling, 2026-09-06.)*
 > > ***"Anywhere that the ULM derived answers that are different from what's currently listed in the
 > > datasheets, it is entirely possible that the new results may be valid, and the older, previous results may
 > > be invalid. **That's a major reason why I created the ULM — to be able to produce accurate results.** So

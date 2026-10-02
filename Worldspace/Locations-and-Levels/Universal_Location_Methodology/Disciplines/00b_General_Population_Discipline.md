@@ -129,18 +129,18 @@ it. Existing material is very often written for a narrow original purpose (a rar
 specific ritual's specific participants, a specific job's specific uniform) — not as a deliberate statement
 about the general population. Reusing narrow material as if it were general is the actual mistake.
 
-**Confirmed real instances, not hypothetical** — *both copied to `../Test_Runs/Worked_Examples_Archive/`;
-the original file states them in full:*
+**Confirmed real instances, not hypothetical** — *the original file states all three in full:*
 - **A narrow transformational practice** used as a whole location's general fashion answer, when it is worn
   only by the minority currently undergoing it. **Developer's own correction: *"stop repurposing everything
   into new packages."***
 - **A profession's work garment** used as the general answer, in a location whose own population list includes
   elders, refugee families and non-practitioners who would never wear it.
+- **A performance trade's stage-visibility dressing** used as the general answer — directly contradicted by
+  that same location's own Ordinary Daily Life finding, which establishes most residents hold non-performing
+  support work.
 
-> ***Both are one move: the vivid uniform of a visible sub-population, promoted to "what people here wear."***
-- **Leo's Fashion** originally used performer stage-visibility dressing as the general answer — directly
-  contradicted by that same district's own Ordinary Daily Life finding, which establishes most residents hold
-  non-performing support work.
+> ***All three are one move: the vivid uniform of a visible sub-population, promoted to "what people here
+> wear."***
 
 All three were caught the same way: the narrow answer contradicted something else already established about
 who actually lives in the district.

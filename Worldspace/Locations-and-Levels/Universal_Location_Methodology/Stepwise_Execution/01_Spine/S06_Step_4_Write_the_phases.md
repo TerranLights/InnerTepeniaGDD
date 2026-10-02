@@ -1,7 +1,7 @@
 # Step 4 — Write the phases
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2621–2709.** *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2552–2585`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the ENTIRE `T1`–`T8` BINDING block (developer ruling 2026-09-11: T8 is mandatory on every step and phase, for every city — the single most operationally significant ruling in this file) and the `CLOSE-OUT CHECK` block (`M-208`, the generator-line audit). This is `R-10`'s third major measured card-content gap. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` — lines 2662–2751.** *(Re-verified 2026-10-01 against the current `# Step` headings.)* *(Range refreshed 2026-09-14 — fully re-extracted against the current file; was `2552–2585`. That 2026-09-07 "refresh" had moved only the declared number, never re-checked the body — the body below was consequently missing the ENTIRE `T1`–`T8` BINDING block (developer ruling 2026-09-11: T8 is mandatory on every step and phase, for every city — the single most operationally significant ruling in this file) and the `CLOSE-OUT CHECK` block (`M-208`, the generator-line audit). This is `R-10`'s third major measured card-content gap. Found and fixed 2026-09-14.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -81,6 +81,7 @@ Standing reminders, all of which have their own recorded failure behind them:
 > | **Part V** — `../../Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close |
 > | **Part V.2** — `../../Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration` |
 > | **`../../Tools/phase_discipline_check.py`** | `T3` ledger · `T4` shed marker · `T5` early Lover-faculty smoke test |
+> | ⭐ **The `T8` WRITE is a MERGE, not a pick** *(developer, 2026-09-28, `M-246`)* | **Contradiction → the most conservative current view, split named in the row** *(population-origin material → DEMOTED, never EXCLUDED — §C.9c, "a pass that refuses all ethnic material")*. **No contradiction → UNION: every single-reader find is written and credited to its finder.** Full statement: `../../PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 |
 >
 > ### ⚠ STILL MEASURED, NO LONGER OPTIONAL — the two are not the same thing
 > **The falsification conditions in `04` Parts V/V.2 and §N.5 REMAIN IN FORCE and must still be recorded.**

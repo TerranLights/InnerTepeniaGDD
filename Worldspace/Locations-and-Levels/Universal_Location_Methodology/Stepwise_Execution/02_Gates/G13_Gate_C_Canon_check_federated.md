@@ -1,7 +1,7 @@
 # Gate C — Canon check, federated
 
 > ## ⛔ THE RUNBOOK IS THE SOURCE OF TRUTH. **This file is an EXTRACT for step-wise execution.**
-> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 294–335.** *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `279–320`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
+> **Origin: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` — lines 297–338.** *(Re-verified 2026-10-01 against the current gate headings.)* *(Range refreshed 2026-09-07 — mechanically re-verified against the current file; was `279–320`.)* ***If this file and the source ever disagree, THE SOURCE WINS.***
 > **Do not edit the instruction text below. If it is wrong, fix it in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md` and re-extract.**
 
 ## ⛔ RULES FOR RUNNING THIS STEP — they are the same every time
@@ -37,7 +37,7 @@
 >
 > | Tier | Address |
 > |---|---|
-> | **1 · UNIVERSE REPO** — wins on **When · Where · Who** | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/` |
+> | **1 · UNIVERSE REPO** — wins on **When · Where · Who** *(chronology, geography, routes, character identity — `00_RUNBOOK.md` §A; a city's founders come only from `Founding_Register.md`, `DR-19`)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/` |
 > | **2 · THIS PROJECT** — everything the universe repo excludes | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/` |
 > | **3 · SIBLING PROJECTS** — not authoritative, but a consistency obligation | `/home/kuroskalacs/Documents/Doll-Fi/media/games/` |
 >
