@@ -4,6 +4,7 @@ Press-Outreach/
 to-be-integrated/treaties/
 Worldspace/Characters/Dolls/**/Reference_Images/*
 Reference/Materials/Videos/**/
+Reference/Audio/**/
 # Exception: keep the two z-template Reference_Images folders trackable via a .gitkeep placeholder.
 # Without this, these folders are always empty (templates have no actual images), and git never
 # tracks empty directories at all — so they vanish on any operation that resets the working tree
