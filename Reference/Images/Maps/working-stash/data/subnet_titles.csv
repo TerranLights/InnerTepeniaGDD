@@ -1,0 +1,7 @@
+subnet,lat,lon,text,size
+Palmer,-65.1,-84.6,"Palmer\n(""American"")\nSubnet",22
+Halley,-64.5,-30,"Halley\n(""Atlantic"")\nSubnet",24
+Mawson,-61.5,52,"Mawson\nSubnet",24
+Mirny,-73.1,90.7,"Mirny\n(""Australian"")\nSubnet",22
+Janbogo,-70.5,-160,"Janbogo\nSubnet",24
+Byrd,-80.5,-98,"Byrd\n(""Pacific"")\nSubnet",24

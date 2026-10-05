@@ -1,0 +1,39 @@
+id,name,subnet,lat,lon,subnet_hub,name_flag,spec_file,postwar_status
+palmer_city,Palmer City,Palmer,-64.7667,-64.05,1,,Palmer subnet/Palmer_City.md,Destroyed
+rothera,Rothera,Palmer,-67.5667,-68.1167,0,,Palmer subnet/Rothera.md,Damaged; partially operational
+esperanza,Esperanza,Palmer,-63.4,-56.9833,0,,Palmer subnet/Esperanza.md,Destroyed
+marambio,Marambio,Palmer,-64.2333,-56.6167,0,,Palmer subnet/Marambio.md,Destroyed
+contrapunto,Contrapunto,Palmer,-62.2167,-58.7833,0,,Palmer subnet/Contrapunto.md,Destroyed
+pergamino,Pergamino,Palmer,-62.65,-60.3833,0,,Palmer subnet/Pergamino.md,Destroyed
+signy,Signy,Palmer,-60.7167,-45.6,0,,Palmer subnet/Signy.md,Survived; fully operational
+puerto_abrigo,Puerto Abrigo,Palmer,-64.8167,-63.4833,0,,Palmer subnet/Puerto_Abrigo.md,Damaged; partially operational
+halley,Halley,Halley,-75.5833,-26.5667,1,,Halley subnet/Halley.md,Damaged; partially operational
+belgrano,Belgrano,Halley,-77.8667,-34.6333,0,,Halley subnet/Belgrano.md,Damaged; partially operational
+neumayer,Neumayer,Halley,-70.6833,-8.2667,0,,Halley subnet/Neumayer.md,Damaged; partially operational
+sanay,Sanay,Halley,-71.6667,-2.85,0,,Halley subnet/Sanay.md,Damaged; partially operational
+troll,Troll,Halley,-72.0167,2.5333,0,,Halley subnet/Troll.md,Damaged; partially operational
+santa_luce,Santa Luce,Halley,-73.05,-13.4167,0,,Halley subnet/Santa_Luce.md,Damaged; partially operational
+lazar,Lazar,Halley,-70.7667,11.7333,0,,Halley subnet/Lazar.md,Damaged; partially operational
+utstein,Utstein,Halley,-71.95,23.35,0,,Halley subnet/Utstein.md,Destroyed
+mawson,Mawson,Mawson,-67.6,62.8833,1,,Mawson subnet/Mawson.md,Damaged; partially operational
+temirotkel,Temirötkel,Mawson,-69.0,39.5833,0,,Mawson subnet/Temirotkel.md,Damaged; partially operational
+dome_fuji,Dome Fuji,Mawson,-77.3167,39.7,0,,Mawson subnet/Dome_Fuji.md,Survived; too high for humans
+mirny,Mirny,Mirny,-66.55,93.0167,1,,Mirny subnet/Mirny.md,Damaged; partially operational
+casey,Casey,Mirny,-66.2667,110.5333,0,,Mirny subnet/Casey.md,Destroyed
+davis,Davis,Mirny,-68.5833,77.9667,0,,Mirny subnet/Davis.md,Damaged; partially operational
+zhongshan,Zhongshan,Mirny,-69.3667,76.3667,0,,Mirny subnet/Zhongshan.md,Damaged; partially operational
+sinheung,Sinheung,Mirny,-69.3667,76.3667,0,,Mirny subnet/Sinheung.md,Damaged; partially operational
+shirayuki,Shirayuki,Mirny,-69.4,76.1833,0,,Mirny subnet/Shirayuki.md,Damaged; partially operational
+ariun_nuur,Ariun Nuur,Mirny,-78.4667,106.8667,0,,Mirny subnet/Ariun_Nuur.md,Survived; isolated
+kunlun,Kunlun,Mirny,-80.4167,77.1167,0,,Mirny subnet/Kunlun.md,Survived; too high for humans
+relung_panen,Relung Panen,Mirny,-66.25,100.75,0,,Mirny subnet/Relung_Panen.md,not yet assigned
+janbogo,Janbogo,Janbogo,-74.6167,164.2167,1,,Janbogo subnet/Janbogo.md,Damaged; partially operational
+zukelli,Zukelli,Janbogo,-74.6833,164.1167,0,,Janbogo subnet/Zukelli.md,Destroyed
+fort_mcmurdo,Fort McMurdo,Janbogo,-77.85,166.6667,0,,Janbogo subnet/Fort_McMurdo.md,Damaged; partially operational
+scott,Scott,Janbogo,-77.85,166.7667,0,,Janbogo subnet/Scott.md,Damaged; partially operational
+cape_adare,Cape Adare,Janbogo,-71.2833,170.2333,0,,Janbogo subnet/Cape_Adare.md,Destroyed
+concordia,Concordia,Janbogo,-75.1,123.3333,0,,Janbogo subnet/Concordia.md,Survived; last major city
+denison,Denison,Janbogo,-67.0,142.6667,0,,Janbogo subnet/Denison.md,Destroyed
+dumont_durville,Dumont d'Urville,Janbogo,-66.6667,140.0167,0,,Janbogo subnet/Dumont_dUrville.md,Damaged; partially operational
+byrd,Byrd,Byrd,-80.0167,-119.5167,1,,Byrd subnet/Byrd.md,Survived; struggling
+amundsen_station,Amundsen Station,Amundsen-Scott,-90.0,0.0,0,,Amundsen-Scott subnet/Amundsen_Station.md,Destroyed

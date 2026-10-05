@@ -1,0 +1,12 @@
+id,number,name,color,style,trace_id,main_stops,spurs,snap_start,snap_end,source_note
+hwy1,1,Rothera Highway ("Palmer Highway"),#6A5ACD,solid,hwy1,esperanza;marambio;byrd,rothera:hwy1:solid;puerto_abrigo:hwy1:solid;palmer_city:hwy1:boat,,,Highways.md L72; Palmer City reached by boat from a Hwy 1 ramp
+hwy2,2,"Dumont Coast Highway (""DCH"")",#D4B020,solid,hwy2,casey;dumont_durville,,hwy110,,Highways.md L87; west end is a junction with Hwy 110
+hwy4,4,Mawson-Sinheung Highway,#EE2A8A,solid,hwy4,temirotkel_junction;mawson;sinheung,,,,Highways.md L101
+hwy7,7,"Belgrano Highway (""Atlantic Highway"")",#C07828,solid,hwy7,belgrano;santa_luce;sanay;troll;lazar,neumayer:hwy7:solid;halley:hwy7:solid,,,Highways.md L113; Neumayer reached by the unnamed connector; Halley reached by a connecting road (developer 2026-10-03: the ice moves too much for the highway to pass through the city)
+hwy7ext,7,Belgrano Highway Extension (built 2611-2614),#FF6A2B,dashed,hwy7ext,lazar;utstein;temirotkel_junction,,,,Highways.md L125; the only dated highway
+hwy22,22,Transcontinental Highway,#A843E0,solid,hwy22,byrd;amundsen_station;zhongshan,,,,Highways.md L137; trace order follows the developer's sketch (59 ramp before the Hwy 37 crossing)
+hwy37,37,Mountain Cut Throughway,#6F6A1F,solid,hwy37,temirotkel_junction;dome_fuji;kunlun;ariun_nuur;concordia,,,,Highways.md L152; Mountain Pass Airport sits between Kunlun and Ariun Nuur
+hwy59,59,"Atlantic Throughway (""Arcanet Line"")",#28B8F0,solid,hwy59,,,hwy7,hwy22,Highways.md L181; connector; carries the Arcanet cable
+hwy110,110,Coastal Cut Highway,#18B018,solid,hwy110,zhongshan;davis;mirny;casey;concordia,relung_panen:@casey:solid,,,Highways.md L195; Relung Panen is a spur joining at Casey (spec L12)
+hwy175,175,Central Cut Throughway,#4FE0C0,solid,hwy175,,,hwy183,hwy22,Highways.md L209; connector
+hwy183,183,Janbogo Highway,#8A4B1C,solid,hwy183,concordia;denison;dumont_durville,janbogo:hwy183:solid;zukelli:hwy183:solid;cape_adare:hwy183:solid;fort_mcmurdo:hwy183:dashed;scott:@fort_mcmurdo:solid,,,Highways.md L222; Fort McMurdo/Scott spur crossing type is TBD (dashed)

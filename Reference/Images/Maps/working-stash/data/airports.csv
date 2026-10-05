@@ -1,0 +1,11 @@
+id,name,kind,lat,lon,serves,status,basis
+zukelli_janbogo,Zukelli/Janbogo Airport,domestic,@janbogo+zukelli,,janbogo;zukelli,operational,Airports.md row 1; shared by two cities ~8 km apart
+mirny,Mirny Airport,domestic,@mirny,,mirny,operational,Airports.md
+tri_cities,The Tri-Cities Airport,domestic,@zhongshan+sinheung+shirayuki,,zhongshan;sinheung;shirayuki,operational,Airports.md; one regional airport for the Larsemann Hills cluster
+troll,Troll Airport,domestic,@troll,,troll;santa_luce,operational,Airports.md; also the primary air point for Santa Luce (served-not-host)
+rothera,Rothera Airport,domestic,@rothera,,rothera,operational,Airports.md
+marambio,Marambio Airport,domestic,@marambio,,marambio,operational,Airports.md; domestic only
+machu_picchu,Machu Picchu Airport,international,-62.0917,-58.4733,contrapunto;pergamino,operational,Airports.md; Tepenia's only international airport; real Machu Picchu Station site on King George Island (62°05′S 58°28′W)
+mountain_pass,Mountain Pass Airport,outpost,@hwy37:kunlun-ariun_nuur,,,dark,Airports.md; on Hwy 37 between Kunlun and Ariun Nuur; historical (outpost dark since the Tower fell)
+belgrano,Belgrano Airfield,domestic,@belgrano,,belgrano;santa_luce,operational,Airports.md; Santa Luce's secondary air point
+byrd,Byrd Airport,domestic,@byrd,,byrd,grounded,Airports.md; fleet grounded post-war

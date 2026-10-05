@@ -1,0 +1,69 @@
+kind,tier,num,inv_id,name,lat,lon,status,stability,nearest_city,nearest_city_km
+station,A1,1,arturo-prat-antarctic-naval-base,Arturo Prat Antarctic Naval Base,-62.478717,-59.663603,year-round,rock,Pergamino,41.5
+station,A1,2,german-antarctic-receiving-station-gars,German Antarctic Receiving Station (GARS),-63.321092,-57.900940,year-round,unknown,Esperanza,46.6
+station,A1,3,o-higgins-base,O'Higgins Base,-63.320951,-57.899781,year-round,rock,Esperanza,46.5
+station,A1,4,orcadas,Orcadas,-60.737592,-44.737387,year-round,rock,Signy,47.0
+station,A1,5,petrel,Petrel,-63.478303,-56.230993,year-round,rock,Esperanza,38.4
+station,A1,6,qinling,QinLing,-74.934071,163.713006,year-round,unknown,Zukelli,30.3
+station,A1,7,san-martin,San Martin,-68.130300,-67.102931,year-round,rock,Rothera,75.7
+station,A1,8,vernadsky,Vernadsky,-65.245743,-64.257481,year-round,rock,Palmer City,54.2
+station,A2,9,decepcion,Decepcion,-62.976760,-60.700695,summer-only,rock,Pergamino,39.8
+station,A2,10,druzhnaya-iv,Druzhnaya IV,-69.747827,73.709214,summer-only,rock,Shirayuki,103.5
+station,A2,11,gabriel-de-castilla-station,Gabriel de Castilla Station,-62.977197,-60.675745,summer-only,rock,Pergamino,39.3
+station,A2,12,gabriel-gonzalez-videla,Gabriel Gonzalez Videla,-64.823862,-62.857499,summer-only,rock,Puerto Abrigo,29.6
+station,A2,13,halley-vi,Halley VI,-75.571111,-25.473889,summer-only,ice_shelf_or_glacier_or_sea_ice,Halley,30.3
+station,A2,14,jinnah-antarctic-station,Jinnah Antarctic Station,-70.400000,25.750000,summer-only,unknown,Utstein,192.6
+station,A2,15,johann-gregor-mendel-czech-antarctic-station,Johann Gregor Mendel Czech Antarctic Station,-63.800625,-57.882592,summer-only,rock,Esperanza,62.9
+station,A2,16,leningradskaya,Leningradskaya,-69.501496,159.391148,summer-only,rock,Cape Adare,449.6
+station,A2,17,matienzo,Matienzo,-64.975865,-60.070948,summer-only,rock,Puerto Abrigo,161.9
+station,A2,18,molodezhnaya,Molodezhnaya,-67.665443,45.842038,summer-only,rock,Temirötkel,296.5
+station,A2,19,mountain-evening,Mountain Evening,-67.658333,46.153333,summer-only,rock,Temirötkel,308.1
+station,A2,20,pedro-vicente-maldonado,Pedro Vicente Maldonado,-62.449329,-59.740969,summer-only,rock,Pergamino,39.8
+station,A2,21,primavera,Primavera,-64.155854,-60.954256,summer-only,rock,Puerto Abrigo,141.7
+station,A2,22,rada-covadonga,Rada Covadonga,-63.320658,-57.898224,summer-only,unknown,Esperanza,46.5
+station,A2,23,risopatron,Risopatron,-62.378533,-59.700724,summer-only,rock,Pergamino,46.2
+station,A2,24,russkaya,Russkaya,-74.765726,-136.800072,summer-only,rock,Byrd,712.9
+station,A2,25,shirreff-base,Shirreff Base,-62.470400,-60.770800,summer-only,unknown,Pergamino,28.2
+station,B1,26,brown,Brown,-64.895370,-62.870452,closed,rock,Puerto Abrigo,30.2
+station,B1,27,carvajal,Carvajal,-67.761322,-68.914815,closed,rock,Rothera,40.1
+station,B1,28,kohnen,Kohnen,-75.001909,0.066336,closed,ice_sheet_interior,Troll,340.9
+station,B1,29,melchior,Melchior,-64.325705,-62.976329,closed,ice_shelf_or_glacier_or_sea_ice,Puerto Abrigo,59.7
+station,B2,30,arturo-parodi-station,Arturo Parodi Station,-80.305556,-81.344167,closed,unknown,Byrd,713.0
+station,B2,31,sarie-marais,Sarie Marais,-72.030850,-2.807350,closed,unknown,Sanay,40.5
+station,B2,32,soyuz,Soyuz,-70.576577,68.794937,closed,unknown,Shirayuki,309.8
+aws,W,W1,am-01,AM 01,-69.441900,71.417200,closed,unknown,Shirayuki,186.3
+aws,W,W2,am-02,AM 02,-69.713300,72.640000,closed,unknown,Shirayuki,141.9
+aws,W,W3,ao-28,AO 28,-68.407800,112.217500,closed,unknown,Casey,248.8
+aws,W,W4,automated-weather-station-d-80,AWS D-80,-70.100000,134.883333,unknown,unknown,Dumont d'Urville,435.5
+aws,W,W5,balaena-islands,Balaena Islands,-66.016700,111.083300,closed,unknown,Casey,37.2
+aws,W,W6,cape-poinsett,Cape Poinsett,-65.844900,113.066700,unknown,unknown,Casey,123.6
+aws,W,W7,depot-peak,Depot Peak,-69.050000,64.600000,closed,unknown,Mawson,176.0
+aws,W,W8,eagle,Eagle,-76.417500,77.029700,unknown,unknown,Kunlun,444.7
+aws,W,W9,g3,G3,-70.891900,69.872500,unknown,unknown,Shirayuki,290.2
+aws,W,W10,gc-46,GC 46,-74.137500,109.839700,closed,unknown,Concordia,411.1
+aws,W,W11,gc41,GC41,-71.602800,111.262800,closed,unknown,Concordia,545.0
+aws,W,W12,gf-08,GF 08,-68.493300,102.175600,closed,unknown,Relung Panen,256.8
+aws,W,W13,halfway,Halfway,-66.660300,112.011900,closed,unknown,Casey,78.9
+aws,W,W14,haupt-nunatak,Haupt Nunatak,-66.581900,110.693900,closed,unknown,Casey,35.8
+aws,W,W15,knuckey-peaks,Knuckey Peaks,-67.800000,53.500000,closed,unknown,Mawson,396.2
+aws,W,W16,law-dome-drill-site,Law Dome Drill Site,-66.716900,112.933300,closed,unknown,Casey,117.6
+aws,W,W17,law-dome-east,Law Dome East,-66.733300,114.500000,closed,unknown,Casey,183.3
+aws,W,W18,law-dome-summit,Law Dome Summit,-66.733333,112.833333,closed,unknown,Casey,114.4
+aws,W,W19,lgb-00,LGB 00,-68.655300,61.112800,closed,unknown,Mawson,138.4
+aws,W,W20,lgb-10,LGB 10,-71.287500,59.210300,closed,unknown,Mawson,434.2
+aws,W,W21,lgb-20,LGB 20,-73.832800,55.671700,closed,unknown,Dome Fuji,584.7
+aws,W,W22,lgb-35,LGB 35,-76.043900,65.016900,closed,unknown,Kunlun,555.8
+aws,W,W23,lgb-46,LGB 46,-75.850000,71.483300,closed,unknown,Kunlun,523.3
+aws,W,W24,lgb-59,LGB 59,-73.450000,76.783300,closed,unknown,Shirayuki,450.8
+aws,W,W25,lgb-69,LGB 69,-70.835300,77.074700,closed,unknown,Shirayuki,163.1
+aws,W,W26,loewe-massif-automatic-weather-station,Loewe Massif AWS,-68.400000,112.166694,unknown,unknown,Casey,247.3
+aws,W,W27,moore-pyramid,Moore Pyramid,-70.300000,65.100000,closed,unknown,Mawson,313.0
+aws,W,W28,mount-brown,Mount Brown,-69.131300,85.999200,unknown,unknown,Davis,327.6
+aws,W,W29,mount-cresswell,Mount Cresswell,-72.733300,64.383300,closed,unknown,Shirayuki,562.8
+aws,W,W30,mount-king,Mount King,-67.100000,52.500000,closed,unknown,Mawson,447.5
+aws,W,W31,phillpot-automatic-weather-station,Phillpot AWS,-68.650000,60.550000,unknown,unknown,Mawson,151.6
+aws,W,W32,radok-automatic-weather-station,Radok AWS,-71.600000,111.250000,unknown,unknown,Concordia,545.5
+aws,W,W33,schwerdtfeger-automatic-weather-station,Schwerdtfeger AWS,-74.137500,109.839700,unknown,unknown,Concordia,411.1
+aws,W,W34,snyder-rocks,Snyder Rocks,-66.550000,107.750000,unknown,unknown,Casey,127.8
+aws,W,W35,stillwell-islands,Stillwell Islands,-66.958300,143.940000,closed,unknown,Denison,55.6
+aws,W,W36,taylor-rookery,Taylor Rookery,-67.450000,60.866700,closed,unknown,Mawson,87.3

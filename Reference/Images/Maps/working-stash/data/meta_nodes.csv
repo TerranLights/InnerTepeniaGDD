@@ -1,0 +1,19 @@
+id,name,lat,lon,status,note
+PEN,Peninsula meta-node region,-64.01,-60.26,proposed,"Developer-proposed. A tight subregion among Palmer City, Pergamino, Marambio, Esperanza and Puerto Abrigo (centroid shown). A Weddell-facing array on the southeast side (Rothera or Marambio) trims 80 to 220 km to the Weddell sector."
+UTS,Utstein,-71.95,23.35,proposed,Developer-proposed.
+MAW,Mawson,-67.6,62.8833,proposed,"Developer-proposed. Research: helpful, not required (Utstein to Casey, 3,198 km, works 22 to 24 h at 1 kW with +6 dBi)."
+CAS,Casey,-66.2667,110.5333,proposed,Developer-proposed.
+HAL,Halley,-75.5833,-26.5667,possible,"Weddell sector. A Weddell node is REQUIRED for simple antennas (the 3,288 km hop fails 3 to 21 h/day at 0 dBi), HELPFUL with 1 kW and +6 dBi. Hops 1,777 / 1,551 km. Halley is on a moving ice shelf (about 1,400 m/yr): site antennas on stable ground."
+BEL,Belgrano,-77.8667,-34.6333,possible,"Weddell sector alternative to Halley. Hops 1,766 / 1,713 km. Farther poleward (-70 deg geomagnetic)."
+NEU,Neumayer,-70.6833,-8.2667,possible,Weddell sector. Research: adds a failure point and no improvement once Belgrano or Halley is in.
+SLU,Santa Luce,-73.05,-13.4167,possible,"Weddell sector alternative (hops 2,079 / 1,216 km)."
+MIR,Mirny,-66.55,93.0167,possible,"Splits Mawson to Casey (1,297 / 778 km). Research: direct Mawson to Casey is already 24 h at 1 kW +6 dBi, so this only shortens hops."
+DAV,Davis / Larsemann Hills,-68.5833,77.9667,possible,"Prydz Bay site (Davis, Zhongshan, Sinheung and Shirayuki are within about 110 km: one shared node is enough)."
+SIG,Signy,-60.7167,-45.6,possible,"Regional hub for the Scotia Sea (838 km from the Peninsula). Not a link in the trunk: it is 1,811 to 1,987 km from the Weddell nodes."
+ROT,Rothera,-67.5667,-68.1167,possible,"Weddell-facing Peninsula antenna site and the best anchor for a Byrd link (one quiet end, -58 deg geomagnetic)."
+BYR,Byrd,-80.0167,-119.5167,possible,"Byrd to Rothera 1,990 km feasible at 1 kW with +6 dBi; Byrd to Belgrano 1,663 km weaker (polar night at solar minimum)."
+MAC,Macquarie Island,-54.5,158.94,possible,"Australian station (Tasmanian territory), 1,544 km from Hobart. Mid-latitude site (about -59 deg geomagnetic, sub-auroral). Would split Hobart to Dumont d'Urville (2,681 km direct) into 1,544 + 1,688 km and bring the Ross Sea cities to 1,944 (Cape Adare) to 2,614 km (Fort McMurdo); Casey 2,868 km. Radio model pending; not known to exist in canon."
+HOB,Hobart,-42.8821,147.3272,external,"Real-world gateway city shown for reference only (Antarctic gateway of the Australian program). Not a Tepenian city."
+DDU,Dumont d'Urville,-66.6667,140.0167,external,"City, shown as a link endpoint."
+CAD,Cape Adare,-71.2833,170.2333,external,"City, shown as a link endpoint."
+ZUK,Zukelli,-74.6833,164.1167,external,"City, shown as a link endpoint."

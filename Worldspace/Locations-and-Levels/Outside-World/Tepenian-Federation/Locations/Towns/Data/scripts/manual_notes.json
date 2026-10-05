@@ -1,0 +1,15 @@
+{
+ "_comment": "Analyst annotations of anomalies that the sources themselves show (never used to change a coordinate). key = primary row name (exact), value = note text appended to notes.",
+ "Dome C": "SOURCE ANOMALY: Wikipedia camps list gives longitude -124.166667 (W) for this US camp (1981-84); the Dome C area (Concordia, Little Dome C rows) lies at about 122-124 E, so the E/W sign in this source looks inverted. Source value kept.",
+ "Siple Dome Skiway": "SOURCE ANOMALY: Wikipedia airports list gives longitude +148.997391 (E); the Siple Dome camp rows give about -149.0 (W). E/W sign in this source looks inverted. Source value kept.",
+ "Belgrano II Skiway": "SOURCE ANOMALY: Wikipedia airports list coordinates (-64.975659, -60.071501) are identical to the Matienzo skiway entry; Belgrano II itself is at about -77.87, -34.63. Coordinates look mis-copied. Source value kept.",
+ "Boulder Clay Runway": "SOURCE ANOMALY: Wikidata item Q110221054 (labelled Boulder Clay runway in French) carries the Browning Pass skiway coordinates (-74.622, 163.916); the Wikipedia airports list gives -74.740059, 164.037335 for Boulder Clay Runway. Both kept in coords_by_source.",
+ "Zhongshan Station": "NOTE: this row is the entry literally titled 'Zhongshan Station' in the Wikipedia airports list (Larsemann Hills, ice surface). Its coordinates are about 22 km from COMNAP's 'Zhongshan Skiway' (sign-corrected) and next to the Progress/Zhongshan stations; the sources do not say which airfield it denotes.",
+ "Rifugio Cristo Redentor": "SOURCE ANOMALY: Wikidata (Q3935470) gives latitude -66.55; the Wikipedia camps list gives -63.55 for Cristo Redentor refuge (Duse Bay) at nearly the same longitude. Looks like a one-digit typo in one of them. Both kept in coords_by_source.",
+ "Criosfera 2": "SOURCE ANOMALY: COMNAP 2024 gives longitude +78.676667 (E) and latitude -79.696667; Wikidata (Q116776370) gives longitude -78.0 (W) and latitude -79.5. Longitude sign differs between the two sources. Primary kept as COMNAP (source of record).",
+ "Pole of Inaccessibility": "SOURCE ANOMALY: Wikipedia Historic Sites list (HSM 4, Lenin's bust) gives latitude -83.1; Wikidata and the Wikipedia station list give about -82.1.",
+ "Ruperto Elichiribehety": "SOURCE ANOMALY: COMNAP 2017 catalogue gives 63 24 14 S, 59 59 45 W; COMNAP 2024, Wikidata, Wikipedia and SCAR give about -63.40, -56.99. The 2017 longitude differs by about 3 degrees (probable typo in the 2017 PDF).",
+ "Gabriel de Castilla Station": "SOURCE ANOMALY: COMNAP 2017 catalogue gives longitude 60 00 30 W; COMNAP 2024, Wikidata, Wikipedia and SCAR give about -60.68 (Deception Island). The 2017 value is about 34 km off (probable typo in the 2017 PDF).",
+ "Henryk Arctowski": "SOURCE ANOMALY: COMNAP 2017 catalogue table of contents gives latitude 69 09 35 S (the station page itself gives 62 09 35 S, consistent with all other sources).",
+ "Robert Guillard": "SOURCE ANOMALY: SCAR gazetteer record 139141 places Station Robert-Guillard at -66.41, 139.54, about 34 km from the COMNAP position (-66.69, 139.91)."
+}
