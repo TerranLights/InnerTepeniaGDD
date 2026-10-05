@@ -8,7 +8,7 @@ retrospective (#12), a supply coalition (#13), a comparative civic theme (#14), 
 chosen, not the only candidate** — an eighteenth possibility, beyond this subnet's own already-complete set
 of ten. Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Rothera, Marambio, Esperanza, Port Lockroy, Signy) — a source, two
+**Uses 5 of Palmer subnet's 8 cities** (Rothera, Marambio, Esperanza, Puerto Abrigo, Signy) — a source, two
 transit/distribution points, an unwitting waypoint, and a desperate end customer.
 
 ---
@@ -20,7 +20,7 @@ transit/distribution points, an unwitting waypoint, and a desperate end customer
 - **Marambio's and Esperanza's own established shipping division of labor** — the subnet's actual
   distribution network, and therefore also its most obvious point of diversion for anything moving outside
   legitimate channels.
-- **Port Lockroy's own small, quiet civic character** — a place where an unusual shipment or transaction
+- **Puerto Abrigo's own small, quiet civic character** — a place where an unusual shipment or transaction
   could plausibly pass through with less scrutiny than a busier city would apply.
 - **Signy's own established resource desperation** (Candidate #1's own grounding) — a city with genuine,
   ongoing need and, plausibly, the least patience for waiting on slow, formal channels to meet it.
@@ -40,7 +40,7 @@ crime investigation, on its face.
 
 **BUT** — Tracing the network means following its own distribution web across multiple cities, each playing
 a different role: Rothera as a plausible source of diverted materials, Marambio and Esperanza as the
-shipping points where legitimate cargo could be quietly skimmed, Port Lockroy as an unwitting, low-scrutiny
+shipping points where legitimate cargo could be quietly skimmed, Puerto Abrigo as an unwitting, low-scrutiny
 waypoint, and Signy as the network's own desperate, genuinely needy customer.
 
 **THEREFORE** — The player has to investigate each city in turn, building a picture of the network city by

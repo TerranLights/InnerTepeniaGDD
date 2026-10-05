@@ -57,12 +57,12 @@ as final.
 
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
-**Terrain profile:** stable inland nunatak bedrock, same general character as Abowasa — exposed granite
+**Terrain profile:** stable inland nunatak bedrock, same general character as Santa Luce — exposed granite
 outcrop rising above the surrounding ice sheet, moderate-to-low precipitation.
 
 - **Germany (Primary):** Erzgebirge (Ore Mountains) or Harz Mountains — real populated granite/bedrock
   highland communities.
-- **UK (Significant):** Scottish Highlands — same bedrock-highland match as Abowasa's UK entry.
+- **UK (Significant):** Scottish Highlands — same bedrock-highland match as Santa Luce's UK entry.
 - **Brazil (Significant):** Brazilian Highlands (Planalto) — weakest match, much warmer/wetter than the
   target profile; flagged for Phase 2 review rather than forced.
 

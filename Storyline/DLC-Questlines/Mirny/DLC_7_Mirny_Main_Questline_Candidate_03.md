@@ -19,7 +19,7 @@ method calls for. Uses the Linear Escalation Chain schematic (`../But_Therefore_
 §5a).
 
 **Deliberately uses only 3 of Mirny subnet's 8 cities** (Davis, Casey, Mirny) — the established
-Australian-heritage cluster, distinct from both Candidate #1's cast (Vostok/Kunlun/Mirny) and Candidate
+Australian-heritage cluster, distinct from both Candidate #1's cast (Ariun Nuur/Kunlun/Mirny) and Candidate
 #2's cast (Zhongshan/Sinheung/Shirayuki).
 
 ---

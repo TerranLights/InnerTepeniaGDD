@@ -311,7 +311,7 @@ Brazil matches strongly against.
 **Concepts of:**
 - Self, time, past and future: industrial craft pride, converging directly with the dominant
   USA/Germany/Canada register rather than supplying a festive counterpoint — the same pattern already
-  seen at Abowasa (Alphaville) and Lazar (São Paulo): Brazil's narrative role depends entirely on which
+  seen at Santa Luce (Alphaville) and Lazar (São Paulo): Brazil's narrative role depends entirely on which
   specific real-world match applies, not on any fixed "festive counterpoint" role.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
@@ -421,7 +421,7 @@ match.
 **Concepts of:**
 - Self, time, past and future: industrial craft pride, converging with the dominant register —
   Mexico's second strongly-anchored city-type entry in this project after its weaker showings at
-  Marambio and Port Lockroy, confirming the same settlement-type-dependent pattern already established
+  Marambio and Puerto Abrigo, confirming the same settlement-type-dependent pattern already established
   for Brazil.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
@@ -506,7 +506,7 @@ hold rare double-strong matches (geography and City-Type together) despite mid-s
 population shares respectively — the recurring pattern continues.
 
 Brazil and Mexico both land strong matches here (Volta Redonda, Monterrey) after weaker showings
-elsewhere in the subnet (Marambio, Port Lockroy) — confirming, rather than contradicting, the
+elsewhere in the subnet (Marambio, Puerto Abrigo) — confirming, rather than contradicting, the
 settlement-type-dependent rule: both nations match strongly against large organic industrial cities and
 weakly against small purpose-built or thin-anchored ones, consistent case by case rather than
 nation-by-nation.

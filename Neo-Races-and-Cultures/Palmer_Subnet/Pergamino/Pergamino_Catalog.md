@@ -1,4 +1,6 @@
-# Juan Carlos — Neo-Race Cataloging (Phase 1)
+# Pergamino — Neo-Race Cataloging (Phase 1)
+
+> **⚠ RENAMED 2026-10-03 (`DR-41`): formerly *Juan Carlos*, after the real Spanish station and King Juan Carlos I; now **Pergamino**.** Any line below that still says "Juan Carlos" names the REAL station or King, or tells the story of the FORMER name (the king-namesake and its political weight, the *Transición* commemoration). The latter are revisit items. Pergamino is Spanish, "parchment", for the city's archive function; founders: Uruguay first (`DR-34`).
 
 **Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
 filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — second Palmer subnet city
@@ -11,9 +13,9 @@ developer-confirmed as final.
 
 - **Nations present, by tier:** Primary — USA. Significant — Germany, France, UK, Italy, Spain.
   Notable — Mexico, Brazil, Argentina (founding wave), Chile (founding wave). Exact per-nation share %
-  in `Specs/Juan_Carlos.md` and `Official_Population_Census.md`.
+  in `Specs/Pergamino.md` and `Official_Population_Census.md`.
 - **Geography:** Livingston Island, South Shetland Islands, southwest of King George Island — shares
-  Sejong's sub-Antarctic maritime character but with fewer competing settlements; more glaciated/rugged
+  Contrapunto's sub-Antarctic maritime character but with fewer competing settlements; more glaciated/rugged
   terrain than King George Island.
 - **Geological composition:** Glaciated island terrain — one of the first parts of Antarctica reached
   by 19th-century sealers/whalers, layered pre-exile history.
@@ -22,7 +24,7 @@ developer-confirmed as final.
 
 ## Population Weighting Reference (for future Phase 1c cultural weighting)
 
-*Source: `Specs/Juan_Carlos.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+*Source: `Specs/Pergamino.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
 
 | Tier | Nation | Share % |
 |------|--------|---------|
@@ -102,7 +104,7 @@ genuine historical customs-archive identity of its own).
 - **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** no strongly distinct local variant surfaced.
 - **Literature:** administrative/record-keeping culture, echoing New Bedford's own real historic
-  customs-archive identity — Juan Carlos's own established significance as "origin of Tepenia's first
+  customs-archive identity — Pergamino's own established significance as "origin of Tepenia's first
   bureaucratic archive."
 - **Language:** administrative/record-keeping vocabulary, echoing New Bedford's own real customs-archive
   identity.
@@ -146,7 +148,7 @@ genuine historical customs-archive identity of its own).
 ### Italy (Significant, 14.24%)
 
 **Real-world parallel community/communities identified:** no strong domestic match on either geography
-or City-Type — genuinely weak on both dimensions despite being essentially tied for Juan Carlos's
+or City-Type — genuinely weak on both dimensions despite being essentially tied for Pergamino's
 largest Significant-tier population.
 
 **Notable finding:** unlike Brazil's predictable weak-match pattern (tied to settlement *type*, small
@@ -214,8 +216,8 @@ direct **namesake connection** — the real Spanish Antarctic base is literally 
 after Spain's own King Juan Carlos, which this Tepenian city is itself named for. City-Type carried by
 Vigo, Spain's largest fishing port, an especially fitting match given that direct naming link.
 
-**Major missed detail, folded in 2026-07-16 from `City_Vision_Notes/Juan_Carlos.md`, name removed
-2026-07-22 per developer direction:** Juan Carlos's own defining civic institution is an unnamed hosted,
+**Major missed detail, folded in 2026-07-16 from `City_Vision_Notes/Pergamino.md`, name removed
+2026-07-22 per developer direction:** Pergamino's own defining civic institution is an unnamed hosted,
 guest-listed, argument-as-art-form gathering — already established as exported directly into Concordia
 (surviving today in the Leo, Taurus, and Pisces districts). This should have anchored Spain's own entry
 from the start; the earlier draft captured only the port/namesake angle and missed the city's single
@@ -448,19 +450,19 @@ match.
 **Working name: "Juan Carlan"** *(or possibly "Carlino" — genuinely uncertain which reads better;
 placeholder only, same status as every other city's working name so far).*
 
-**Identity correction, folded in 2026-07-16 from `City_Vision_Notes/Juan_Carlos.md`:** the city's own
+**Identity correction, folded in 2026-07-16 from `City_Vision_Notes/Pergamino.md`:** the city's own
 official identity, **"Room to Be Itself,"** frames Juan Carlos as Spanish identity given room to become
-genuinely coherent through relative isolation — the explicit, deliberate counterpoint to Sejong's own
-contrast-defined identity, paired together in a shared faction, "Coherence vs. Contrast." Where Sejong
+genuinely coherent through relative isolation — the explicit, deliberate counterpoint to Contrapunto's own
+contrast-defined identity, paired together in a shared faction, "Coherence vs. Contrast." Where Contrapunto
 (this project's other densely multinational Palmer subnet city, also retroactively audited) defines
-itself relationally, against its neighbors, Juan Carlos defines itself by having had the isolation to
+itself relationally, against its neighbors, Pergamino defines itself by having had the isolation to
 settle into one coherent identity undisturbed. Its own unnamed hosted, guest-listed,
 argument-as-art-form gathering tradition, already established as exported directly into Concordia's Leo,
 Taurus, and Pisces districts, is that coherent identity's single most concrete, already-developed
 expression, and belongs at the center of this city's neo-culture rather than as a minor Spain-specific
 detail.
 
-Juan Carlos reads as a genuine **fishing-port-plus-archive city**, with USA, Germany, France, and UK
+Pergamino reads as a genuine **fishing-port-plus-archive city**, with USA, Germany, France, and UK
 all converging on real maritime-labor and administrative-record traditions (New Bedford, Bremerhaven,
 Boulogne-sur-Mer, Grimsby), differentiated mainly by how strongly each leans administrative (USA,
 Germany) versus purely maritime-labor (UK, France). Spain holds a distinct, non-quantitative claim on

@@ -21,8 +21,8 @@ exiled to Antarctica instead. This directly explains the camera in her Visual De
 prop, but her actual working tool, from influencer content through to investigative documentation. **[Sourced,
 2026-08-15 seed]**
 **Primary Location(s):** **Rothera, Palmer subnet — confirmed 2026-08-15**, resolving the previous open
-question. She fled there when the Long Night War reached Port Lockroy (where she was living and shooting the
-stone-carving art at the time) and has remained ever since. Earlier Tepenia residences, in order: Sejong
+question. She fled there when the Long Night War reached Puerto Abrigo (where she was living and shooting the
+stone-carving art at the time) and has remained ever since. Earlier Tepenia residences, in order: Contrapunto
 (initial forced exile landing) → Palmer City (moved for the social connections and possibilities) → Port
 Lockroy (living/working there when the war hit) → Rothera (refuge, present day). **[Sourced]**
 **Affiliation(s):** TBD — no faction given in the seed; her Palmer-subnet history (see Design Notes) plausibly
@@ -157,7 +157,7 @@ it. An unknown person intervened in the decision process and had her sentence co
 instead — she does not know who did this or why, and neither does the developer yet; this is a deliberately
 open thread (see Design Notes).
 
-She landed first in Sejong, then relocated to Palmer City for its social connections and possibilities — a
+She landed first in Contrapunto, then relocated to Palmer City for its social connections and possibilities — a
 natural fit for someone who built her original following on genuine social warmth. She was living in Port
 Lockroy, photographing its stone-carving art, when the Long Night War reached her; she fled to Rothera and has
 remained there ever since.
@@ -213,7 +213,7 @@ See Design Notes for the specific canon connection this goal points at, and why 
 
 - **Structural placement — RESOLVED 2026-08-15:** re-designated as DLC 3 (Palmer)'s first companion, confirmed
   by the developer. Her companion mechanic (scoped to "the Palmer subnet DLC") and her entire personal
-  history — Sejong, Palmer City, Port Lockroy, Rothera, never touching Concordia — are now consistent with her
+  history — Contrapunto, Palmer City, Puerto Abrigo, Rothera, never touching Concordia — are now consistent with her
   formal status rather than in tension with it. `Companion_System.md`'s DLC companion list and main-game roster
   count have both been updated accordingly. Her location work above already covers what a main-game placement
   would have left open (present-day district, general vicinity) — what's still needed is DLC 3-specific

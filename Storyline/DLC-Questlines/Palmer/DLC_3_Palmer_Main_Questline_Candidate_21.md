@@ -6,7 +6,7 @@ running `../DLC_Main_Questline_Design_Method.md` against Palmer subnet, built ar
 only candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md`
 §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Signy, Rothera, Port Lockroy, Esperanza, Marambio).
+**Uses 5 of Palmer subnet's 8 cities** (Signy, Rothera, Puerto Abrigo, Esperanza, Marambio).
 
 ---
 
@@ -19,7 +19,7 @@ only candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_
   robot population now needs.
 - **Signy's own established siligel shortage** (Signy Mega-Init, "What It Feels Like"), used here as the
   genuine, ongoing humanitarian urgency driving the upgrade proposal.
-- **Rothera's, Port Lockroy's, Esperanza's, and Marambio's own established, functioning roles in the
+- **Rothera's, Puerto Abrigo's, Esperanza's, and Marambio's own established, functioning roles in the
   subnet's shipping and infrastructure network**, used here only for the general fact of their capacity to
   help extend physical relay infrastructure, not for any fossil-related or other struck material.
 - **Explicitly excluded:** any claim about Marambio's paleontological history — consistent with this
@@ -40,7 +40,7 @@ worth targeting. Extending real digital infrastructure means making Signy more v
 that could, in principle, undo the very obscurity that kept it safe.
 
 **THEREFORE** — The player has to consult Signy's own community about whether they actually want this
-trade-off, and travel to Rothera and Port Lockroy to help plan and build the actual relay infrastructure that
+trade-off, and travel to Rothera and Puerto Abrigo to help plan and build the actual relay infrastructure that
 would extend toward Signy.
 
 **BUT** — The reversal deepens once the current crisis is weighed directly: Signy's robots are already

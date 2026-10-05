@@ -16,15 +16,15 @@ this list means "not yet determined," never "this city confers no floor."
 
 | City | Baseline Stat Minimums |
 |---|---|
-| **Sayowa** | Might 8, Nerve 7, Engine 8 |
+| **Temirötkel** | Might 8, Nerve 7, Engine 8 |
 | **Palmer City** | Humanity 6 |
-| **Vostok** | Calculation 6, Investigation 6 |
+| **Ariun Nuur** | Calculation 6, Investigation 6 |
 | **Kunlun** | Calculation 6 |
 | **Belgrano** | Might 5, Agility 5, Nerve 5, Engine 6 |
 | **Sanay** | Might 4, Agility 4, Nerve 7, Engine 7 |
 | **Zukelli** | Humanity 8, Nerve 5, Engine 6 |
 | **Janbogo** | Humanity 8, Nerve 5, Engine 6 |
-| **Princess Elisabeth** | Agility 7, Calculation 5, Engine 6 |
+| **Utstein** | Agility 7, Calculation 5, Engine 6 |
 
 ---
 

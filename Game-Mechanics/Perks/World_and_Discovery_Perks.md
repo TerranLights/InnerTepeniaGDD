@@ -16,7 +16,7 @@ real-world station hands its 2564 founders its physical infrastructure, records,
 techniques — never personnel, a tradition or institutional continuity. Most stations were kept maintained
 across the gap, but some pre-exile structures did fall out of use (Byrd's whole station among them). Recognizing what one of these
 derelict pre-exile structures actually was, and successfully restoring it, is now a recurring founding-era
-plot mechanism across a dozen-plus cities (the runway at Marambio, the labs at Abowasa, the weather station
+plot mechanism across a dozen-plus cities (the runway at Marambio, the labs at Santa Luce, the weather station
 at Casey, among others).
 
 **Unlock condition:** find and successfully restore a genuinely derelict, pre-exile (real Upper-Earth-era)
@@ -36,7 +36,7 @@ skilled 2564 exiles who did this kind of reclamation first) — a player could p
 either alone.
 
 **Real production dependency, flagged 2026-07-25 — this perk is currently decorative, not functional.** The
-founding-era reclamations that motivated it (Marambio's runway, Abowasa's labs, Casey's weather station) are
+founding-era reclamations that motivated it (Marambio's runway, Santa Luce's labs, Casey's weather station) are
 all historical backstory, already resolved centuries before the game's present day — they establish that the
 mechanic exists in-world, but hand the player nothing to actually discover and restore themselves. For this
 perk to be earnable through real gameplay rather than existing only as a mechanical concept with no unlock

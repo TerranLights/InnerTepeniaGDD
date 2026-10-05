@@ -1,4 +1,6 @@
-# Abowasa — Neo-Race Cataloging (Phase 1)
+# Santa Luce — Neo-Race Cataloging (Phase 1)
+
+> **⚠ RENAMED 2026-10-03 (`DR-36`): formerly *Abowasa* (placeholder `{{ Abowasa }}`), the Aboa + Wasa fusion; now **Santa Luce**.** Any line below that still says "Abowasa", "Aboa" or "Wasa" describes the FORMER name and the Finnish-Swedish founding it was written around, superseded by `DR-22` (Italy and the CIN). Those lines are revisit items (`R-16`).
 
 **Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
 filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — second city finished,
@@ -12,7 +14,7 @@ below as a working first pass, not yet developer-confirmed as final.
 - **Nations present, by tier:** Primary — USA. Significant — Germany, France, UK, Russia, Brazil.
   Notable — Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway,
   Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia,
-  Estonia. Exact per-nation share % in `Specs/Abowasa.md` and `Official_Population_Census.md`.
+  Estonia. Exact per-nation share % in `Specs/Santa_Luce.md` and `Official_Population_Census.md`.
 - **Geography:** Basen nunatak, Kraul Mountains (Vestfjella), western Queen Maud Land — a rock outcrop
   roughly 130km inland from the coast, more interior/continental than the subnet's coastal cities.
   Founded from two real, distinct, ~200m-apart national stations (Finnish Aboa, Swedish Wasa) that grew
@@ -24,7 +26,7 @@ below as a working first pass, not yet developer-confirmed as final.
 
 ## Population Weighting Reference (for future Phase 1c cultural weighting)
 
-*Source: `Specs/Abowasa.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+*Source: `Specs/Santa_Luce.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
 
 | Tier | Nation | Share % |
 |------|--------|---------|
@@ -90,7 +92,7 @@ Scotland — Wikipedia](https://en.wikipedia.org/wiki/Geology_of_Scotland)
 scaled-down version of the twin-city-merger pattern (Budapest, Minneapolis–St. Paul, Kansas City),
 downsized to fit Abowasa's own small scale and genuinely dual founding (the real Finnish Aboa and
 Swedish Wasa stations, ~200m apart, that grew into one settlement). Rather than being a
-cultural/industrial center with incidental residents, Abowasa is a residential community with its own
+cultural/industrial center with incidental residents, Santa Luce is a residential community with its own
 local industry and culture, whose working population largely commutes to Sanay's port or Troll's
 airfield nearby.
 
@@ -112,12 +114,12 @@ airfield nearby.
 
 ## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-**No National Stereotypes compliance note:** every finding below is framed as arising from Abowasa's
+**No National Stereotypes compliance note:** every finding below is framed as arising from Santa Luce's
 own conditions (its residential/commuter civic role, the twin-settlement founding structure, the
 granite-highland terrain) that a given population's originating patterns fed into or reinforced —
 never as "this population does X because they're from nation Y."
 
-**A structural note before the per-nation entries:** Abowasa's own founding nations — Finland and
+**A structural note before the per-nation entries:** Santa Luce's own founding nations — Finland and
 Sweden — have drifted down to Notable tier (1.47% and 1.79%
 respectively) and sit outside this Phase 1c pass's Primary/Significant scope. The same "founding myth
 outlives founding population" pattern already seen at Sanay (South Africa) repeats here. The six
@@ -164,7 +166,7 @@ White Mountains, Adirondacks) and Texarkana (civic type — small-scale American
 
 **Concepts of:**
 - Self, time, past and future: self and time organized around *domestic* rhythm, not economic rhythm —
-  Abowasa's own days aren't structured by its own industry (there isn't much), but by when residents
+  Santa Luce's own days aren't structured by its own industry (there isn't much), but by when residents
   leave for and return from shifts at Sanay or Troll. Local identity concentrates in evenings, weekends,
   and household life rather than in a shared workplace.
 - Fairness and justice: no strongly distinct local variant surfaced.
@@ -176,7 +178,7 @@ White Mountains, Adirondacks) and Texarkana (civic type — small-scale American
   domestic-first framing above.
 - Cooperation vs. competition: cooperation over competition at low stakes — daily-life interdependence
   matters more than local status-seeking, since status and achievement are things that happen at Sanay
-  or Troll, not in Abowasa itself.
+  or Troll, not in Santa Luce itself.
 - Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
 **Approaches to:**
@@ -190,7 +192,7 @@ White Mountains, Adirondacks) and Texarkana (civic type — small-scale American
 
 **Real-world parallel community/communities identified:** Ural Mountains highland (geography) and
 Kopeysk (civic type) — Kopeysk is a real Russian satellite/commuter town feeding the larger industrial
-hub of Chelyabinsk, an unusually precise structural mirror of Abowasa's own role feeding Sanay and
+hub of Chelyabinsk, an unusually precise structural mirror of Santa Luce's own role feeding Sanay and
 Troll.
 
 #### Surface Culture findings
@@ -227,14 +229,14 @@ Troll.
 - Self, time, past and future: a strong, explicit "bedroom community" self-understanding — home as the
   *real* center of life, work as something that happens elsewhere and is left behind at the end of a
   shift. Of all six populations here, this is the one whose homeland precedent most directly reinforces
-  Abowasa's own established civic identity rather than merely coexisting with it.
+  Santa Luce's own established civic identity rather than merely coexisting with it.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
 - Rule expectations, work, authority: work and authority as external, workplace-bound categories —
-  Abowasa itself is governed more by household and neighborhood norms than by workplace-style
+  Santa Luce itself is governed more by household and neighborhood norms than by workplace-style
   hierarchy.
 - Cooperation vs. competition: no strongly distinct local variant surfaced beyond the domestic-first
   framing above.
@@ -256,7 +258,7 @@ commuters into a larger hub.
 **Notable divergence from Sanay's Brazil entry:** at Sanay, Brazil's best real-world match (Santos, a
 port) supplied a festive, emotionally expressive *counter-culture* to the dominant civic register. Here
 the dynamic is different — Alphaville's own real character (orderly, aspirational, planned) actually
-*reinforces* Abowasa's dominant residential-commuter identity rather than contrasting with it. Same
+*reinforces* Santa Luce's dominant residential-commuter identity rather than contrasting with it. Same
 nation, structurally opposite narrative role, depending entirely on which real-world match actually
 applies at a given city.
 
@@ -353,7 +355,7 @@ tartan/Highland romanticism the real population-distribution data doesn't actual
 
 **Concepts of:**
 - Self, time, past and future: a strong "us as a pair" self-conception — Motherwell and Wishaw's own
-  real paired-town identity maps unusually well onto Abowasa's own two-stations-become-one founding
+  real paired-town identity maps unusually well onto Santa Luce's own two-stations-become-one founding
   structure, giving this population a natural affinity for articulating and retelling that civic origin
   story.
 - Fairness and justice: no strongly distinct local variant surfaced.
@@ -411,7 +413,7 @@ administrative merger process for small settlements.
 **Concepts of:**
 - Self, time, past and future: the twin-settlement merger understood in explicitly
   administrative/procedural terms — France's own real *commune nouvelle* process is a deliberate legal
-  act, not an organic drift, and this population's presence lends Abowasa's civic memory a more formal,
+  act, not an organic drift, and this population's presence lends Santa Luce's civic memory a more formal,
   procedural flavor than the informal, organic-merger tone Germany's entry (below) carries.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
@@ -437,7 +439,7 @@ single most precise structural echo of a city's own founding story: two named, d
 becoming one.
 
 **Population-vs-narrative-weight note:** Germany is the *smallest* Significant-tier population at
-Abowasa (2.63%, smaller even than France) — yet it carries the *strongest* thematic resonance with the
+Santa Luce (2.63%, smaller even than France) — yet it carries the *strongest* thematic resonance with the
 city's own founding structure. Population share and narrative weight don't always move together; this
 is worth watching for at other cities too.
 
@@ -473,7 +475,7 @@ is worth watching for at other cities too.
 **Concepts of:**
 - Self, time, past and future: informal custodianship of the twin-settlement civic memory — despite the
   small population share, this population's homeland precedent (an organic, bottom-up merger, not an
-  administrative one like France's) gives it an outsized, if quiet, role in how Abowasa's own founding
+  administrative one like France's) gives it an outsized, if quiet, role in how Santa Luce's own founding
   story gets told and retold.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
@@ -494,9 +496,9 @@ is worth watching for at other cities too.
 
 **Working name: "Abowasan."** *(Placeholder, same status as Sanay's "Sanayan.")*
 
-**Philosophical core, folded in 2026-07-16 from `City_Vision_Notes/Abowasa.md`:** Abowasa shares
+**Philosophical core, folded in 2026-07-16 from `City_Vision_Notes/Santa_Luce.md`:** Santa Luce shares
 Sanay's own "Competence Without Commentary" faction, but holds a genuinely distinct position within
-it — where Sanay's angle is refusing exceptionalism about its own survival, Abowasa's is that
+it — where Sanay's angle is refusing exceptionalism about its own survival, Santa Luce's is that
 **"competence is intimacy management."** This is a precise, sharper crystallization of the
 domestic-first reading below: in a small town with "no anonymity to hide behind" (per the city's own
 established "Two Peoples, One Small Place" identity, negotiated household by household), being

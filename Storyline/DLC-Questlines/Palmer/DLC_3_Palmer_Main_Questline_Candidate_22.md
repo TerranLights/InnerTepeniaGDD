@@ -5,14 +5,14 @@ running `../DLC_Main_Questline_Design_Method.md` against Palmer subnet, built ar
 in the subnet's own logistics system left by a destroyed city. **Not canon, not chosen, not the only
 candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Rothera, Port Lockroy, Marambio, Esperanza, Signy).
+**Uses 5 of Palmer subnet's 8 cities** (Rothera, Puerto Abrigo, Marambio, Esperanza, Signy).
 
 ---
 
 ## Inputs actually used (Step 1 of the design method)
 
 - **Palmer Cross-City Patterns, Pattern 4** — the established, previously-unstated four-part logistics
-  division of labor across the subnet: Rothera moving materials, Port Lockroy moving words, Marambio moving
+  division of labor across the subnet: Rothera moving materials, Puerto Abrigo moving words, Marambio moving
   bulk volume, and Esperanza moving specific, individually-tracked shipments.
 - **Palmer Cross-City Patterns, Pattern 3** — Esperanza's own established destruction as a morale strike,
   used here to establish that its own logistics function is genuinely gone, not merely disrupted.
@@ -34,7 +34,7 @@ one whole function — individually-tracked, higher-value cargo now has no dedic
 unreliable, ad hoc workarounds. The player is asked to help figure out which city should formally absorb this
 lost function — a straightforward, if overdue, logistics-reorganization task.
 
-**BUT** — Rothera, Port Lockroy, and Marambio each already have their own well-established, distinct
+**BUT** — Rothera, Puerto Abrigo, and Marambio each already have their own well-established, distinct
 roles that don't naturally overlap with what Esperanza used to handle. Taking on this additional
 responsibility would mean any of the three genuinely diversifying beyond its own established specialty, a
 real operational shift, not simply picking up extra work.

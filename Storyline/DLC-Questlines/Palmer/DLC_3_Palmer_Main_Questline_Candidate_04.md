@@ -2,7 +2,7 @@
 
 **What this is:** a fourth prospective But/Therefore chain for DLC 3's main questline, produced by running
 `../DLC_Main_Questline_Design_Method.md` against Palmer subnet, built around Rothera's own established
-underground vault network — untouched material distinct from Signy's siligel crisis (Candidate #1), Sejong's
+underground vault network — untouched material distinct from Signy's siligel crisis (Candidate #1), Contrapunto's
 historical-interpretation dilemma (Candidate #2), and Esperanza's registry triage (Candidate #3). **Not
 canon, not chosen, not the only candidate** — the 4th of the "at least 10" the method calls for. Uses the
 Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).

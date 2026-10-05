@@ -2,9 +2,9 @@
 
 *(Filled 2026-08-15 from the Quick Capture seed batch.)*
 
-Imelda was living in Port Lockroy, photographing its stone-carving art, when the Long Night War reached her.
+Imelda was living in Puerto Abrigo, photographing its stone-carving art, when the Long Night War reached her.
 She fled to Rothera and has remained there ever since — the seed doesn't specify the details of the flight
-itself (route, danger encountered, what she left behind in Port Lockroy), which stays open for whenever her
+itself (route, danger encountered, what she left behind in Puerto Abrigo), which stays open for whenever her
 questline development reaches this period.
 
 **Possible connection, flagged in `README.md`'s Design Notes:** her Palmer City years, immediately preceding
@@ -16,6 +16,6 @@ self-defense Akina]/`). Whether Imelda has any direct memory of that period, rat
 investigative interest in it, is undecided and worth developing carefully alongside her own timeline.
 
 ## TODO
-- [ ] The flight from Port Lockroy to Rothera — route, danger, what was left behind.
+- [ ] The flight from Puerto Abrigo to Rothera — route, danger, what was left behind.
 - [ ] Whether she has any direct memory of the Long Night War's inciting incident, or only came to it as an
       investigator afterward.

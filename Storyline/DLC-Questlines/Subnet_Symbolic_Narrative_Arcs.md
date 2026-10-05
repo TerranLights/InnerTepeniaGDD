@@ -115,7 +115,7 @@ actually resolving anything.
 
 **Why these two resonate together:** Wood grows outward; Diligence is the sustained effort that makes
 outward growth possible in the first place. Together they match Mawson subnet's own established character
-almost exactly — Sayowa's "small vessel, outsized cargo," Mawson's cultivated hospitality, Dome Fuji's
+almost exactly — Temirötkel's "small vessel, outsized cargo," Mawson's cultivated hospitality, Dome Fuji's
 ongoing devotion. But Wood's shadow (overreach, an inability to ever be content, growth pursued at one's own
 expense) and Diligence's shadow (burnout, effort without direction) combine into real risk: a subnet that
 keeps reaching outward and working hard for everyone else, without ever pausing to ask what it needs for

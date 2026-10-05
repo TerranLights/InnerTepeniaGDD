@@ -25,11 +25,11 @@ of 2564. Those sections are omitted rather than left blank.
   - Esperanza is the city founded on the compact to care for the humans who accepted permanent exile on behalf
     of the robots, and above all for their children (`Specs/Esperanza.md`). Her work sits inside that charter.
   - **Gap: the event path between Esperanza and her next move is explicitly TBD in the seed.**
-- **Move 2 → Princess Elisabeth** *(Halley subnet)*. Reasons **TBD**. **[Sourced as open]**
+- **Move 2 → Utstein** *(Halley subnet)*. Reasons **TBD**. **[Sourced as open]**
   - Developer's floated options: a wish to be useful; a pull toward a clean/renewable-energy cause; some other
     undetermined motive.
-  - The clean-energy option is the best-supported — Princess Elisabeth is the Federation's zero-emissions
-    station (`Specs/Princess_Elisabeth.md`).
+  - The clean-energy option is the best-supported — Utstein is the Federation's zero-emissions
+    station (`Specs/Utstein.md`).
 - **Move 3 → Zukelli** *(Janbogo subnet)*. Drawn by the **Zukellian sense of community**. **[Sourced]** Possibly
   compounded by an additional motive, currently TBD.
   - Zukelli's civic life centered on communal meals and a food-and-music hospitality culture. By the seed's
@@ -48,7 +48,7 @@ rapid moves.
   fireplace. **[Sourced]**
 - Detail of the attack, her escape, and where she went immediately after: **TBD.** See `War_Experiences.md`.
 
-**Behind her, without her present for any of it:** Esperanza and Princess Elisabeth are also destroyed in the
+**Behind her, without her present for any of it:** Esperanza and Utstein are also destroyed in the
 war. **Signy survives** — too remote and too marginal to be worth striking (`Specs/Signy.md`).
 **[Sourced from city specs; the juxtaposition is Strong Inference]**
 
@@ -70,6 +70,6 @@ war. **Signy survives** — too remote and too marginal to be worth striking (`S
 
 - Activation year within the post-~2688 window.
 - Length of each of the four residencies.
-- How long between her leaving Esperanza and arriving at Princess Elisabeth (the seed marks this gap explicitly).
+- How long between her leaving Esperanza and arriving at Utstein (the seed marks this gap explicitly).
 - How long she had been in Zukelli when it was attacked — **materially affects how much she lost there.**
 - Where she went between escaping Zukelli and settling in Concordia, and how long that took.

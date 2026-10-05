@@ -5,7 +5,7 @@ running `../DLC_Main_Questline_Design_Method.md` against Halley subnet, built ar
 decision weighing stability against logistics position. **Not canon, not chosen, not the only candidate.**
 Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Halley subnet's 8 cities** (Halley, Sanay, Belgrano, Troll, Abowasa).
+**Uses 5 of Halley subnet's 8 cities** (Halley, Sanay, Belgrano, Troll, Santa Luce).
 
 ---
 
@@ -15,7 +15,7 @@ Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Metho
   mechanism: continuously relocating, ski-mounted modules built on a drifting ice shelf.
 - **Halley Cross-City Throughways, Throughway 1** — Halley's own total dependency on overland resupply
   through Belgrano and Sanay, and its own established relay-nexus infrastructure built at Sanay.
-- **Halley Cross-City Patterns, Pattern 3** — Abowasa's own established geological and structural-stability
+- **Halley Cross-City Patterns, Pattern 3** — Santa Luce's own established geological and structural-stability
   research expertise, used here to assess relocation-site viability.
 - **Explicitly excluded:** any specific claim about the exact cause or timeline of the current ice-shelf
   destabilization — this chain treats the relocation need itself as a given, established fact.
@@ -34,10 +34,10 @@ the overland routes Halley depends on and the relay-nexus infrastructure it buil
 Halley well-positioned relative to these critical connections, but sits on comparatively less stable ground.
 
 **THEREFORE** — The player has to consult Sanay, Belgrano, and Troll about which site would actually serve
-the subnet's own logistics best, and travel to Abowasa for an honest assessment of the real difference in
+the subnet's own logistics best, and travel to Santa Luce for an honest assessment of the real difference in
 risk between the two.
 
-**BUT** — The reversal lands once Abowasa's own assessment comes back: the "safer" site isn't permanently
+**BUT** — The reversal lands once Santa Luce's own assessment comes back: the "safer" site isn't permanently
 safe either — it simply buys more time before another relocation becomes necessary. The well-positioned
 site's own added risk isn't theoretical — it carries a genuinely higher probability of a more disruptive,
 less-controlled relocation being forced within a much shorter timeframe.

@@ -512,7 +512,7 @@ Hub-related quest/ending design.)*
 **Social cohesion spaces/mechanisms:**
 - **Private Opinion Nights** — trusted gatherings where Hub-born residents can voice their genuine hidden opinions about the districts they serve
 - **Bridge Memorial Silent Vigils** — residents gathering silently at the Memorial on certain days, no organized ceremony
-- **Sayowa-Style Crossroads Mentorship** — Sayowa-descended residents mentor newer overflow arrivals in embracing rootlessness
+- **Temirötkel-Style Crossroads Mentorship** — Temirötkel-descended residents mentor newer overflow arrivals in embracing rootlessness
 - **Grand Transit Exchange People-Watching Hours** — a well-known time when residents gather to watch the city's social ecosystem pass through
 - **The Ironic Awareness Circle** — gatherings exploring/joking about the Hub-born's own dual reading (neutrality vs. statelessness)
 - **Patch-Spotting Walks** — an informal game identifying and dating the district's different eras of war-damage patching

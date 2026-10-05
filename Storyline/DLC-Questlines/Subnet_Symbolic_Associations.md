@@ -109,7 +109,7 @@ the developer's own earlier framing)*.
 
 **The case for it:**
 - Halley subnet's own established Cross-City Patterns file names an entire "ground-stability triangle"
-  directly: Halley and Neumayer both live on unstable, drifting ice shelf, while Abowasa alone sits on
+  directly: Halley and Neumayer both live on unstable, drifting ice shelf, while Santa Luce alone sits on
   genuine mainland bedrock with real structural-stability research expertise. This is a subnet literally
   organized around the question of what stable ground even means.
 - The subnet's own defining civic trait — "does genuinely consequential work and receives none of the
@@ -117,7 +117,7 @@ the developer's own earlier framing)*.
   traditional virtue, *trustworthiness*, almost exactly: the element that quietly supports everything else
   without announcing itself.
 - Earth's traditional emotion, *worry/pensiveness*, tracks the subnet's own recurring anxiety about exactly
-  this kind of structural vulnerability — Princess Elisabeth's disconnected reserve, Troll's fractured
+  this kind of structural vulnerability — Utstein's disconnected reserve, Troll's fractured
   control, Lazar's own "first time it ever goes dark" crisis all turn on some version of "is the ground
   actually solid."
 - In the Wu Xing wheel, Earth sits at the *center*, mediating the other four elements rather than opposing
@@ -127,7 +127,7 @@ the developer's own earlier framing)*.
 
 **The case against it:**
 - Halley (the city) itself is *not* built on stable ground — it sits on the same continuously-drifting ice
-  shelf as Neumayer. The actual bedrock stability in this subnet belongs specifically to Abowasa. Assigning
+  shelf as Neumayer. The actual bedrock stability in this subnet belongs specifically to Santa Luce. Assigning
   Earth to the whole subnet risks papering over the fact that its own namesake city is, quite literally,
   ungrounded.
 - Earth's other traditional associations (harvest, nourishment, agricultural abundance) don't have an
@@ -160,7 +160,7 @@ the developer's own earlier framing)*.
 
 **The case against it:**
 - Fire's traditional emotion is *joy* — and Mirny subnet's own established tone reads as considerably more
-  solemn and function-first than joyful. Vostok's isolation, Kunlun's clinically curated population, and the
+  solemn and function-first than joyful. Ariun Nuur's isolation, Kunlun's clinically curated population, and the
   subnet's own "does the work, no credit" register (shared with Halley) all skew quiet and restrained, not
   passionate.
 - Fire's other traditional connotations (volatility, destruction, unpredictability) sit awkwardly against a
@@ -185,7 +185,7 @@ the developer's own earlier framing)*.
   breaking against it.
 - Water's traditional emotion, *fear*, matches the subnet's own real, ongoing vulnerability — Signy's
   siligel countdown chief among them — better than any other candidate emotion would.
-- Water's traditional virtue, *wisdom*, fits Juan Carlos's own established role as the seed of Tepenia's
+- Water's traditional virtue, *wisdom*, fits Pergamino's own established role as the seed of Tepenia's
   entire archival tradition, and the broader theme of accumulated memory running through the subnet's own
   candidate material.
 - Water's association with winter, depth, and stillness suits the subnet's own quiet, ongoing memory-keeping
@@ -200,7 +200,7 @@ the developer's own earlier framing)*.
   actually exceeds Janbogo/Ross's — grief and precision-cutting verdict aren't obviously less apt for Palmer
   than for the subnet that currently holds Metal.
 - Water's implied adaptability oversells how much genuine agency was involved in several of Palmer's own
-  survival stories — Port Lockroy's survival plausibly traces to a targeting *error*, and Signy's traces to
+  survival stories — Puerto Abrigo's survival plausibly traces to a targeting *error*, and Signy's traces to
   raw remoteness rather than any active choice. The "finding its own way around" reading fits Rothera's
   deliberate decentralization far better than it fits cities that simply weren't hit by chance.
 
@@ -219,7 +219,7 @@ the developer's own earlier framing)*.
 - A verdict is, quite literally, a "cutting-through" decision — and Metal's core association with the blade
   matches the subnet's own explicit defining thesis, "survival was a verdict," with unusual exactness.
 - Metal's traditional virtue, *righteousness*, tracks the subnet's own recurring moral-reckoning quality —
-  whether Renzo Adorni was right to shelter the defectors, whether Port Lockroy's survival was earned or a
+  whether Renzo Adorni was right to shelter the defectors, whether Puerto Abrigo's survival was earned or a
   mistake, whether Fort McMurdo's historical capital claim actually holds up.
 
 **The case against it:**
@@ -258,7 +258,7 @@ the developer's own earlier framing)*.
 - Dome Fuji actively resists the metaphor: total population *succession*, not organic growth from a
   continuous root, plus an explicitly Withdrawn temperament that's close to the opposite of Wood's outward
   reach.
-- Sayowa reads more like a passive conduit — a junction letting traffic pass through it — than a living,
+- Temirötkel reads more like a passive conduit — a junction letting traffic pass through it — than a living,
   growing thing extending its own branches.
 - The subnet's own material states directly that it "doesn't reduce to one collective personality even
   loosely." Wood implies one coherent life-force with a single root; the developer's own established note
@@ -409,7 +409,7 @@ anything, the single clearest throughline in this subnet's own material.
 
 **The case against it:** Not every city in Palmer subnet is generous by disposition. Signy's own defining
 crisis is scarcity, not giving — there's nothing to spare, which is close to Generosity's own opposite.
-Several of the subnet's survival stories (Port Lockroy's likely targeting error, Signy's raw remoteness) are
+Several of the subnet's survival stories (Puerto Abrigo's likely targeting error, Signy's raw remoteness) are
 closer to lucky accidents than acts of generosity, meaning the "Generosity" read fits some of Palmer
 subnet's cities far better than others.
 
@@ -445,15 +445,15 @@ McMurdo also reads as more anxious and status-conscious than patient.
 
 ### Mawson Subnet → Diligence (Virya)
 
-**The case for it:** Sayowa's own established "small vessel, outsized cargo" character is sustained,
+**The case for it:** Temirötkel's own established "small vessel, outsized cargo" character is sustained,
 uncomplaining effort in a nearly literal sense. Mawson city's decades-long, deliberately cultivated
 hospitality tradition and Dome Fuji's own ongoing devotional practice both describe genuinely effortful,
 sustained commitment rather than passive circumstance.
 
-**The case against it:** Diligence implies active, ongoing striving toward a goal, but Sayowa's own real
+**The case against it:** Diligence implies active, ongoing striving toward a goal, but Temirötkel's own real
 significance arguably comes from *where it happens to sit* (the closest inter-subnet proximity in the whole
 Federation) rather than from active effort — a passive geographic fact more than a diligently cultivated
-one. The fit is considerably stronger for Mawson city and Dome Fuji than for Sayowa specifically.
+one. The fit is considerably stronger for Mawson city and Dome Fuji than for Temirötkel specifically.
 
 ---
 

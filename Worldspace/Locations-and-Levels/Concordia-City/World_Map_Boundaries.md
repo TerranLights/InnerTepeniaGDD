@@ -76,7 +76,7 @@ same in both districts (frontier/military-adjacent in Sagittarius; industrial/pe
 holes in the same problem:**
 
 1. **NPC checkpoint on the road itself.** A guard or checkpoint officer stationed at each highway terminus
-   (Hwy 110, Hwy 37, Hwy 183) is the in-world reason travel toward Casey, Vostok/Mountain Pass Test
+   (Hwy 110, Hwy 37, Hwy 183) is the in-world reason travel toward Casey, Ariun Nuur/Mountain Pass Test
    Site/Kunlun, or Janbogo/the Hwy 175 junction toward the South Pole is currently closed. This is the
    quest-gate: the same checkpoint can simply wave the player through once the relevant DLC or story beat
    unlocks that route, with no separate mechanic needed for "the road is open now."
@@ -118,7 +118,7 @@ Layering them means the player always has legible information about where they s
   which reframes the terminus/watchtower structures as *checkpoints on a through-road* rather than the end of
   the road itself:
   - **Hwy 110** leads toward the city of **Casey**.
-  - **Hwy 37** leads through **Vostok**, the **Mountain Pass Test Site**, and on to **Kunlun**.
+  - **Hwy 37** leads through **Ariun Nuur**, the **Mountain Pass Test Site**, and on to **Kunlun**.
   - **Hwy 183** leads toward the city of **Janbogo**, and — before reaching it — links via a junction to
     **Hwy 175**, heading in the direction of the South Pole.
 - **Sagittarius: scattered homesteads thinning into true open ice** — the map shows small clusters of homes
@@ -146,12 +146,12 @@ Layering them means the player always has legible information about where they s
 - ~~Whether the highway network extending outward from Sagittarius... implies certain roads *do* continue
   past the boundary toward DLC subnet content~~ — **resolved 2026-07-27:** all three do, and each has a real,
   named destination rather than dead-ending — see the "Watchtowers and an Outer Highway Terminus" entry
-  above (Hwy 110 → Casey; Hwy 37 → Vostok, Mountain Pass Test Site, Kunlun; Hwy 183 → Janbogo, with a Hwy 175
+  above (Hwy 110 → Casey; Hwy 37 → Ariun Nuur, Mountain Pass Test Site, Kunlun; Hwy 183 → Janbogo, with a Hwy 175
   junction toward the South Pole). This reframes the terminus structures as manned checkpoints on a working
   through-road, not barriers at the end of a dead-end street — worth keeping in mind for whether travel past
   them is free-roam, on-rails, or quest-gated, which is still an open question in its own right (see below).
 - ~~Given the highways are confirmed through-roads rather than dead ends, is travel past Concordia's
-  checkpoints toward Casey/Vostok/Kunlun/Janbogo/the South Pole meant to be free-roam, on-rails, or
+  checkpoints toward Casey/Ariun Nuur/Kunlun/Janbogo/the South Pole meant to be free-roam, on-rails, or
   quest-gated?~~ — **resolved 2026-07-27:** quest-gated, via an NPC checkpoint stationed at each terminus that
   simply opens once the corresponding DLC/story beat unlocks that route. Until a route unlocks, that
   terminus behaves identically to the rest of the boundary (see the Layer 2 mechanism above).

@@ -6,7 +6,7 @@ logistics crisis rather than an archive/record-interpretation puzzle (the shape 
 #4). **Not canon, not chosen, not the only candidate** — the 5th of the "at least 10" the method calls for.
 Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 3 of Mirny subnet's 8 cities** (Vostok, Mirny, Zhongshan) — Kunlun stays present as backdrop/stated
+**Uses 3 of Mirny subnet's 8 cities** (Ariun Nuur, Mirny, Zhongshan) — Kunlun stays present as backdrop/stated
 destination but isn't a city the player actually reaches in this particular chain, which is itself the
 point of the first Complication.
 
@@ -14,11 +14,11 @@ point of the first Complication.
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Vostok's own Full Extrapolation, Section VII** — a concrete, established resource-sharing relationship
+- **Ariun Nuur's own Full Extrapolation, Section VII** — a concrete, established resource-sharing relationship
   with Kunlun beyond emotional companionship: Kunlun's relay periodically carries requests for specialized
   equipment, reagents, or components neither extreme-isolation outpost can produce alone.
-- **Vostok's own Full Extrapolation, Section VI** — the current population "largely... adopted" the Lake
-  Vostok mission because the work itself was worth doing, not out of inherited obligation — meaning a real
+- **Ariun Nuur's own Full Extrapolation, Section VI** — the current population "largely... adopted" the Lake
+  Ariun Nuur mission because the work itself was worth doing, not out of inherited obligation — meaning a real
   threat to the program's continuity is a threat to something this population genuinely chose, not merely
   inherited.
 - **Mirny's own Full Extrapolation, Section I** — Mirny's established economic identity: quarrying raw
@@ -41,7 +41,7 @@ point of the first Complication.
 
 ## The Chain
 
-**SETUP** — Critical equipment in Vostok's own subglacial drilling operation fails — a real, physical
+**SETUP** — Critical equipment in Ariun Nuur's own subglacial drilling operation fails — a real, physical
 threat to the Lake Vostok research program the current population genuinely chose to take up as their own.
 The standard fix is straightforward: request a replacement or repair component through Kunlun's own established
 resource-sharing channel, exactly the kind of exchange the two "loneliest outposts" already rely on.
@@ -56,7 +56,7 @@ natural logistics hub, and the only other city with real industrial capacity to 
 **BUT** — Mirny's own established economic identity is a genuine mismatch for what's actually needed.
 Quarrying, construction materials, and infrastructure-maintenance machinery are real, serious industrial
 capability — but not remotely the same thing as delicate, precision scientific instrumentation. Mirny can
-move things and coordinate, but can't actually make what Vostok needs.
+move things and coordinate, but can't actually make what Ariun Nuur needs.
 
 **THEREFORE** — The search continues on to Zhongshan, whose own established "Crossing Quarter" precision-craft
 tradition — woodworkers, ceramicists, metalworkers, "a tradition of precision applied to material culture" —
@@ -65,16 +65,16 @@ before, but the actual underlying skill — extreme precision work with difficul
 scrutiny — transfers.
 
 **BUT** — Zhongshan's own artisans have never worked to the exact specifications the drilling equipment
-actually requires. Fixing this for real means a genuine, real-time collaboration between Vostok's own
+actually requires. Fixing this for real means a genuine, real-time collaboration between Ariun Nuur's own
 scientists (who understand what's needed but can't build it) and Zhongshan's own craftspeople (who can
 build precisely but don't know what "right" looks like for this specific application) — working together
 under real time pressure, with real risk of the first attempt simply not working.
 
 **THEREFORE** — Consistent with this project's own No Good Endings law, the climax is a genuine, earned
 success — the equipment gets repaired, through a collaboration nobody in either city had previously thought
-to attempt — but it surfaces a harder truth underneath the relief: Vostok's dependence on a single supply
+to attempt — but it surfaces a harder truth underneath the relief: Ariun Nuur's dependence on a single supply
 line to Kunlun was more fragile than anyone had let themselves notice, since one blocked highway nearly cost
-the whole Lake Vostok mission. Some in Vostok are left quietly reconsidering whether relying on one
+the whole Lake Vostok mission. Some in Ariun Nuur are left quietly reconsidering whether relying on one
 relationship, however genuine, was ever actually sound — or simply the comfortable thing nobody had reason
 to question until it almost failed.
 
@@ -95,7 +95,7 @@ what the player is actually doing afterward, so none reads as a disguised And Th
 
 This candidate is deliberately shaped differently from Candidates #2 and #4 — no archive, no old record to
 interpret, a physical logistics-and-craft problem instead. Its strongest asset is the Zhongshan connection:
-the artisan quarter's precision-craft tradition and Vostok's drilling-equipment need were never connected
+the artisan quarter's precision-craft tradition and Ariun Nuur's drilling-equipment need were never connected
 anywhere in existing material, but both traced from real, independently-established facts about each city —
 this chain's only actual contribution is noticing the two could plausibly meet. Worth noting: Kunlun stays
 present only as backdrop (the blocked destination), never actually visited in this particular chain — a

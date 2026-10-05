@@ -7,7 +7,7 @@ integration traditions, rather than Candidate #11's strategic vulnerability asse
 chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Casey, Zhongshan, Kunlun, Vostok, Davis).
+**Uses 5 of Mirny subnet's 8 cities** (Casey, Zhongshan, Kunlun, Ariun Nuur, Davis).
 
 ---
 
@@ -16,7 +16,7 @@ chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
 - **Mirny Cross-City Patterns, Pattern 1** — the subnet's own near-complete taxonomy of demographic
   -formation mechanisms: Zhongshan's organic multi-generational immigration (a fully-formed founding culture
   later arrivals simply integrated into); Kunlun's deliberate, function-based curated draw (a re-resolved,
-  19-nation population selected for specific credentials); Vostok's unresolved demographic gap (a later,
+  19-nation population selected for specific credentials); Ariun Nuur's unresolved demographic gap (a later,
   unconnected population with zero ancestral claim to the founding legend, an ambient fact rather than a
   traceable event); and Davis's genuinely dispersed 13-nation Notable tier, with no single community
   concentrated enough to dominate.
@@ -38,7 +38,7 @@ straightforward, if significant, resettlement-policy task.
 **BUT** — The cities actually receiving these survivors have fundamentally different, historically-earned
 traditions for how someone becomes genuinely part of them. Zhongshan's own organic culture expects newcomers
 to integrate gradually into an already-formed identity, with no formal admission process. Kunlun's own
-curated-draw tradition expects newcomers to meet specific functional credentials to really belong. Vostok's
+curated-draw tradition expects newcomers to meet specific functional credentials to really belong. Ariun Nuur's
 own unresolved demographic gap means its current population simply *is*, ambiently, without an origin story
 to explain how it came to "belong," with no ancestral claim required at all. None of these traditions applies
 cleanly to displaced war survivors arriving with none of the qualifications each city's own history assumes.

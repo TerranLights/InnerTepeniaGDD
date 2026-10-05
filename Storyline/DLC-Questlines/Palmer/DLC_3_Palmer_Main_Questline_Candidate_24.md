@@ -6,7 +6,7 @@ witness to a destroyed city's history and the accuracy-versus-compassion dilemma
 not chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Palmer City, Rothera, Marambio, Sejong, Port Lockroy).
+**Uses 5 of Palmer subnet's 8 cities** (Palmer City, Rothera, Marambio, Contrapunto, Puerto Abrigo).
 
 ---
 
@@ -36,7 +36,7 @@ testimony may not be a simple, neutral record. It could be shaped by two and a h
 selective memory, or a specific personal narrative built to make an unbearable event survivable — valuable
 as living history, but not necessarily accurate the way an untouched document would be.
 
-**THEREFORE** — The player has to travel to Rothera, Marambio, Sejong, and Port Lockroy, cross-referencing
+**THEREFORE** — The player has to travel to Rothera, Marambio, Contrapunto, and Puerto Abrigo, cross-referencing
 whatever surviving documentary fragments exist against her own account, to see where memory and record might
 actually diverge.
 

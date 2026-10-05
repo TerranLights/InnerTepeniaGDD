@@ -1,8 +1,10 @@
-# Sayowa — Neo-Race Cataloging (Phase 1)
+# Temirötkel — Neo-Race Cataloging (Phase 1)
+
+> **⚠ RENAMED 2026-10-03 (`DR-37`): formerly *Sayowa* (placeholder `{{ Syowa/Showa }}`); now **Temirötkel** (темірөткел), "Iron Crossing".** Any line below that still says "Sayowa" describes the FORMER name: its Syowa/Shōwa-derived etymology and the Japanese founding it was written around. Those lines are revisit items (`DR-30`, `R-11`, `R-17`).
 
 **Status:** City Snapshot filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-17** —
 third and final Mawson subnet city; the subnet is now fully complete. Pre-drafted against
-`City_Enneagram_Personalities/Mawson_Subnet/Sayowa.md`, `City_Vision_Notes/Sayowa.md`, and
+`City_Enneagram_Personalities/Mawson_Subnet/Temirotkel.md`, `City_Vision_Notes/Temirotkel.md`, and
 `Sayowa_Mega_Init.md`'s Inspirational Influences research per the process requirement. Synthesis Notes
 (Phase 2) drafted below as a working first pass, not yet developer-confirmed as final.
 
@@ -13,7 +15,7 @@ third and final Mawson subnet city; the subnet is now fully complete. Pre-drafte
 - **Nations present, by tier:** Primary — China. Significant — Japan,
   Germany, France, UK, South Korea, Indonesia, Australia. Notable — Poland, Netherlands, Czech Republic,
   Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia,
-  Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in `Specs/Sayowa.md` and
+  Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in `Specs/Temirotkel.md` and
   `Official_Population_Census.md`.
 - **Geography:** East Ongul Island, off the Prince Harald Coast in Lützow-Holm Bay — separated from the
   mainland by the bay, giving it a maritime/island character distinct from the mainland coastal cities.
@@ -24,7 +26,7 @@ third and final Mawson subnet city; the subnet is now fully complete. Pre-drafte
 
 ## Population Weighting Reference (for future Phase 1c cultural weighting)
 
-*Source: `Specs/Sayowa.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+*Source: `Specs/Temirotkel.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
 
 | Tier | Nation | Share % |
 |------|--------|---------|
@@ -69,7 +71,7 @@ seasonal sea ice, not just any offshore island.
 - **Japan (Significant):** Hokkaido's Okhotsk coast, e.g. Monbetsu's offshore drift ice — real
   seasonal sea ice with a real coastal population.
 - **Germany (Significant):** Weak match — Baltic islands such as Rügen see occasional winter ice, but
-  nothing to the reliability of Sayowa's; flagged for Phase 2 review.
+  nothing to the reliability of Temirötkel's; flagged for Phase 2 review.
 - **France (Significant):** No domestic seasonal-sea-ice islands — flagged as weakest, likely needs a
   diaspora-community approach.
 - **UK (Significant):** No domestic seasonal-sea-ice islands — flagged as weakest.
@@ -98,10 +100,10 @@ most concretely civic of the three.
 than the flagged-weak generic reads below, UK and France both draw on specific, precisely-matched
 real-world precedents — **Felixstowe** (UK) — Britain's busiest container port, 48% of the UK's
 containerized trade, inside a small, modest town of only ~24,000 people, the tightest possible
-structural match for Sayowa's own established central tension: a small population carrying
+structural match for Temirötkel's own established central tension: a small population carrying
 disproportionate structural weight — and **Perpignan** (France) — a genuine cross-border freight-
 consolidation and trucking hub near the Spanish border, defined by function rather than fame, a fitting
-parallel to Sayowa's own genuinely liminal geography bridging the Mawson and Halley subnets.
+parallel to Temirötkel's own genuinely liminal geography bridging the Mawson and Halley subnets.
 
 - **France (Significant):** superseded by the Perpignan correction above.
 - **UK (Significant):** superseded by the Felixstowe correction above.
@@ -113,24 +115,24 @@ parallel to Sayowa's own genuinely liminal geography bridging the Mawson and Hal
 
 ## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-17)
 
-**No National Stereotypes compliance note:** every finding below is framed as arising from Sayowa's own
+**No National Stereotypes compliance note:** every finding below is framed as arising from Temirötkel's own
 conditions (its function-over-fame logistics/dispatch identity, its role as a liminal junction bridging
 the Mawson and Halley subnets, and its industrial/residential split civic layout) that a given
 population's originating patterns fed into or reinforced — never as "this population does X because
 they're from nation Y."
 
-**Pre-existing research folded in (per the process requirement):** Sayowa's Enneagram profile is
+**Pre-existing research folded in (per the process requirement):** Temirötkel's Enneagram profile is
 **Instinctive (Gut) / Compliant / Competency** — an almost entirely functional, physical identity: major
 fabrication industry, a huge trucking and dispatch operation, "things get made as well as routed here."
-Unlike Sinheung's forceful, identity-driven industrial pride, Sayowa's economy is fundamentally a
+Unlike Sinheung's forceful, identity-driven industrial pride, Temirötkel's economy is fundamentally a
 service role — moving goods for the wider highway network (Mawson, Sinheung, Shirayuki via Hwy 4, the
 Halley subnet via Hwy 7-ext) quietly and dutifully rather than for recognition. `Sayowa_Mega_Init.md`'s
 Inspirational Influences research grounds this directly in Felixstowe's own real precedent (Britain's
-busiest container port inside a small, modest town, the tightest possible structural match for Sayowa's
+busiest container port inside a small, modest town, the tightest possible structural match for Temirötkel's
 own central tension — a small population carrying disproportionate structural weight) and Djibouti
 City's own real precedent (under one million people, yet handling the vast majority of a whole nation's
 trade throughput purely through chokepoint geography — perhaps the single sharpest real-world parallel
-found in this entire research pass, though Djibouti holds no population presence at Sayowa itself).
+found in this entire research pass, though Djibouti holds no population presence at Temirötkel itself).
 Trois-Rivières and Perpignan reinforce the same function-over-fame framing from different national
 directions.
 
@@ -161,7 +163,7 @@ moderate, generic match).
 - Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
 - Personal space, touching, body language: no strongly distinct local variant surfaced.
 - Conversational patterns in different social situations: plain, practical, function-oriented
-  exchange, matching Sayowa's own established Instinctive/Compliant/Competency civic personality.
+  exchange, matching Temirötkel's own established Instinctive/Compliant/Competency civic personality.
 - Handling and displaying of emotion: no strongly distinct local variant surfaced.
 - Tone of voice: no strongly distinct local variant surfaced.
 
@@ -179,14 +181,14 @@ moderate, generic match).
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
 - Rule expectations, work, authority: a quiet, dutiful service role rather than assertive identity-
-  driven pride, matching Sayowa's own established Compliant register directly.
+  driven pride, matching Temirötkel's own established Compliant register directly.
 - Cooperation vs. competition: no strongly distinct local variant surfaced.
 - Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
 **Approaches to:**
 - Religion, courtship, marriage: no strongly distinct local variant surfaced.
 - Raising children, decision-making, problem solving: plain practicality rather than drama, matching
-  Sayowa's own established Competency register.
+  Temirötkel's own established Competency register.
 
 ---
 
@@ -217,7 +219,7 @@ ice of any kind, flagged weakest) — no standout domestic match (City-Type — 
 - Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
 - Personal space, touching, body language: no strongly distinct local variant surfaced.
 - Conversational patterns in different social situations: warm and relational as a general diaspora
-  baseline, though without a strong local anchor to give it Sayowa-specific texture.
+  baseline, though without a strong local anchor to give it Temirötkel-specific texture.
 - Handling and displaying of emotion: no strongly distinct local variant surfaced.
 - Tone of voice: no strongly distinct local variant surfaced.
 
@@ -299,7 +301,7 @@ City-Type — flagged as weakest.
 ### Germany (Significant, 8.22%)
 
 **Real-world parallel community/communities identified:** no strong domestic geography match (Baltic
-islands such as Rügen see occasional winter ice, but nothing to Sayowa's own reliability, weak) —
+islands such as Rügen see occasional winter ice, but nothing to Temirötkel's own reliability, weak) —
 Duisburg (civic type), a real major German inland transit/logistics junction city.
 
 #### Surface Culture findings
@@ -355,12 +357,12 @@ Duisburg (civic type), a real major German inland transit/logistics junction cit
 **Real-world parallel community/communities identified:** no domestic seasonal-sea-ice islands
 (geography — weak) — carried by **Felixstowe** (civic type), Britain's busiest container port, 48% of
 the UK's containerized trade, inside a small, modest town of only ~24,000 people — the tightest possible
-structural match for Sayowa's own established central tension: a small population carrying
+structural match for Temirötkel's own established central tension: a small population carrying
 disproportionate structural weight.
 
 **Standout entry:** UK holds one of the single most precise real-world matches found anywhere in this
 project — Felixstowe's own real "small population, outsized structural weight" identity is not merely
-thematically similar to Sayowa's own established tension, but mechanistically identical.
+thematically similar to Temirötkel's own established tension, but mechanistically identical.
 
 #### Surface Culture findings
 - **Food:** no strongly distinct local variant surfaced.
@@ -468,7 +470,7 @@ port match used at Janbogo.
 **Real-world parallel community/communities identified:** no domestic seasonal-sea-ice islands
 (geography — flagged weakest) — carried by **Perpignan** (civic type), a genuine cross-border freight-
 consolidation and trucking hub near the Spanish border, defined by function rather than fame — a
-fitting parallel to Sayowa's own genuinely liminal geography, bridging the Mawson and Halley subnets.
+fitting parallel to Temirötkel's own genuinely liminal geography, bridging the Mawson and Halley subnets.
 
 #### Surface Culture findings
 - **Food:** no strongly distinct local variant surfaced.
@@ -575,17 +577,17 @@ same maritime-trade-plus-logistics profile as noted for Toyama Bay elsewhere in 
 
 **Working name: "Sayowan"** *(placeholder; not yet developer-confirmed).*
 
-Sayowa's neo-culture centers on its own established function-over-fame identity — a service role
+Temirötkel's neo-culture centers on its own established function-over-fame identity — a service role
 moving goods for the wider highway network, done quietly and dutifully rather than for recognition. UK
 holds one of the single most precise real-world matches found anywhere in this project via Felixstowe's
 own real "small population, outsized structural weight" precedent, mechanistically identical to
-Sayowa's own established central tension. France's Perpignan match and Germany's Duisburg match both
+Temirötkel's own established central tension. France's Perpignan match and Germany's Duisburg match both
 reinforce the same function-over-fame framing from genuinely distinct real-world routes. Indonesia and Australia both read thin,
 consistent with weak matches on both dimensions rather than any settled predictive pattern.
 
 **Worth flagging as general civic-identity flavor, not nation-specific:** Djibouti City's own real
 precedent (a tiny population handling the vast majority of a whole nation's trade throughput purely
 through chokepoint geography) is perhaps the single sharpest real-world parallel found anywhere in this
-research pass for Sayowa's own established gap between modest size and outsized structural importance
+research pass for Temirötkel's own established gap between modest size and outsized structural importance
 — worth keeping as concrete flavor for future Course of Events work, despite Djibouti holding no
 population presence here.

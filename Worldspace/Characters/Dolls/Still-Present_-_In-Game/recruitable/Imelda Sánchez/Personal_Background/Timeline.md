@@ -17,11 +17,11 @@ the Falkland Treaty's own 2564 date.)*
   the Falkland Treaty's 2564 blanket exile provision is an open question, not necessarily the same mechanism.)**
 
 ## Falkland Treaty Era (2564 onward)
-* TBD: Lands in Sejong (Palmer subnet, King George Island) — her first Tepenia residence.
+* TBD: Lands in Contrapunto (Palmer subnet, King George Island) — her first Tepenia residence.
 * TBD: Relocates to Palmer City for its social connections and possibilities.
 
 ## Long Night / Midnight War (2812)
-* 2812 (approx.): Living in Port Lockroy, photographing its stone-carving art, when the war reaches her. Flees
+* 2812 (approx.): Living in Puerto Abrigo, photographing its stone-carving art, when the war reaches her. Flees
   to Rothera.
 
 ## Post-Exile / Tepenia Era (Current)

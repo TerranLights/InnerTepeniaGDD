@@ -8,7 +8,7 @@ the only candidate** — the 6th of the "at least 10" the method calls for. Uses
 schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
 **Uses 1 of Halley subnet's 8 cities (Troll alone)** — a solo candidate, matching the pattern already used
-for Princess Elisabeth (Candidate #3). Assumes Candidate #1's own faction conflict as background context
+for Utstein (Candidate #3). Assumes Candidate #1's own faction conflict as background context
 that may or may not be independently in progress or resolved; this chain's own stakes don't require it to
 have gone any particular way.
 

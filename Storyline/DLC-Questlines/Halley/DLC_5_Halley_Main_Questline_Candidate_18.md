@@ -9,8 +9,8 @@ trade-diplomacy negotiation, Candidate #16's mechanical-fraud investigation, or 
 -route crisis. **Not canon, not chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Halley subnet's 8 cities** (Princess Elisabeth, Neumayer, Abowasa, Halley, Lazar). **Distinct
-from Candidate #12,** where reconnecting Princess Elisabeth's reserve was one of two allocation options inside
+**Uses 5 of Halley subnet's 8 cities** (Utstein, Neumayer, Santa Luce, Halley, Lazar). **Distinct
+from Candidate #12,** where reconnecting Utstein's reserve was one of two allocation options inside
 a resource-triage decision already assumed to be technically possible; here, the entire chain is about
 whether reconnecting it is possible at all, and what reconnecting it would actually mean once done.
 
@@ -18,16 +18,16 @@ whether reconnecting it is possible at all, and what reconnecting it would actua
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Princess Elisabeth Full Extrapolation, Sections I and II** — the established buried energy reserve,
+- **Utstein Full Extrapolation, Sections I and II** — the established buried energy reserve,
   intact but cut off at its integration points rather than destroyed, and the established fact that access,
   not existence, was the actual failure.
-- **Princess Elisabeth Full Extrapolation, Section VIII** — Straggling Survivor Joos Kaminari, a former
+- **Utstein Full Extrapolation, Section VIII** — Straggling Survivor Joos Kaminari, a former
   underground maintenance crew member with firsthand knowledge of the reserve's own access points, proposed
   specifically as a natural questline source for reaching the buried systems.
 - **Halley Cross-City Throughways, Throughway 2** — Neumayer's own established position as the subnet's
   deepest engineering authority, spanning three separate historical eras of consequential, uncredited design
   work.
-- **Halley Cross-City Patterns, Pattern 3** — Abowasa's own established geological and structural-stability
+- **Halley Cross-City Patterns, Pattern 3** — Santa Luce's own established geological and structural-stability
   research expertise, used here to assess whether the reserve's own underground tunnels and conduits, likely
   unmaintained since the war, are even safe to re-enter.
 - **Explicitly excluded:** any specific claim about the reserve's total energy capacity or how large a benefit
@@ -38,15 +38,15 @@ whether reconnecting it is possible at all, and what reconnecting it would actua
 
 ## The Chain
 
-**SETUP** — With Princess Elisabeth's own buried energy reserve established as intact but disconnected, a
+**SETUP** — With Utstein's own buried energy reserve established as intact but disconnected, a
 push emerges to actually reconnect it — but nobody currently knows how. The specific engineering knowledge of
 how to safely restore the severed integration points died with the war. The player is asked to piece the lost
 technical picture back together from surviving experts and records scattered across the subnet — a
 straightforward, if demanding, retrospective-reconstruction task.
 
 **BUT** — The reconstruction genuinely requires all three: Joos Kaminari's own firsthand knowledge of the
-reserve's physical access points at Princess Elisabeth itself, Neumayer's own engineering authority to
-actually interpret and restore the severed control systems, and Abowasa's own structural-stability expertise
+reserve's physical access points at Utstein itself, Neumayer's own engineering authority to
+actually interpret and restore the severed control systems, and Santa Luce's own structural-stability expertise
 to determine whether the unmaintained underground tunnels are even safe to re-enter at all. No single city
 holds enough of the picture alone.
 
@@ -95,9 +95,9 @@ player is actually choosing at the end, so none reads as a disguised And Then.
 
 ## Worth Your Attention
 
-This candidate's core asset is that it takes Princess Elisabeth's own established "access, not existence,
+This candidate's core asset is that it takes Utstein's own established "access, not existence,
 was the failure" premise (Full Extrapolation, Section II) — already flagged in that file as a ready-made
 questline mechanic — and builds an entire five-city chain directly out of it, rather than treating the
 reserve as a simple prize to be unlocked. It also gives Joos Kaminari, a previously unused placeholder Notable
 Figure, an actual functional role in a main questline candidate for the first time in this project, and lets
-Neumayer's and Abowasa's own established expertises combine on a problem neither could solve alone.
+Neumayer's and Santa Luce's own established expertises combine on a problem neither could solve alone.

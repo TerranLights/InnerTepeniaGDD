@@ -45,8 +45,8 @@ plus the South Pole — nearly the whole nation touched her before she ever came
 | 2 | Spec & schematic design | Neumayer | Halley |
 | 3 | Engineering & programming | Kunlun | Mirny |
 | 4 | Full construction | Byrd | Byrd |
-| 5 | Stress-testing | Sejong | Palmer |
-| 6 | Shipped via | Port Lockroy | Palmer |
+| 5 | Stress-testing | Contrapunto | Palmer |
+| 6 | Shipped via | Puerto Abrigo | Palmer |
 | 7 | Shipping reroute ordered by (wartime pivot) | Fort McMurdo | Janbogo |
 | 8 | Forward-shipped via | Amundsen-Scott Station | — (South Pole) |
 | 9 | Arrival | Concordia | — |
@@ -69,17 +69,17 @@ the Mountain Pass chamber-manufacturing outpost (see "The Player's Own Chamber,"
 **4. Full construction — Byrd.** Built at Byrd, one of only two active Cradle chamber-manufacturing sites in
 the country.
 
-**5. Stress-testing — Sejong.** Chosen specifically for its dense, wide multinational population — genuine
+**5. Stress-testing — Contrapunto.** Chosen specifically for its dense, wide multinational population — genuine
 demographic cover against Upper Earth tampering during development.
 
-**6. Shipped via — Port Lockroy.** The "finished" version (or so everyone thought) shipped through Port
+**6. Shipped via — Puerto Abrigo.** The "finished" version (or so everyone thought) shipped through Port
 Lockroy's own courier-network node.
 
 **7. Shipping reroute ordered by Fort McMurdo — the pivot point of the entire chain.** It was at this exact
 moment that the Long Night War fully came underway.
-- **The original planned route** (had the war not intervened): Port Lockroy → up Hwy 1 to Marambio → either
+- **The original planned route** (had the war not intervened): Puerto Abrigo → up Hwy 1 to Marambio → either
   sea or air crossing to the Halley subnet (Belgrano/Sanay by ship, or Troll by air out of Marambio) → Hwy 7
-  to Lazar → Hwy 7-ext through Princess Elisabeth to the Sayowa Junction → Hwy 4 into Mawson, completing a
+  to Lazar → Hwy 7-ext through Utstein to the Temirötkel Junction → Hwy 4 into Mawson, completing a
   perfectly mundane delivery back to the city that requested her. She was one sea crossing and two highways
   away from a completely uneventful fate.
 - **What actually happened:** orders came directly from the Capitol — Fort McMurdo was, at this point, still
@@ -91,7 +91,7 @@ moment that the Long Night War fully came underway.
   deliberately overwritten. All subsequent transit happened under active wartime conditions.
 
 **8. Forward-shipped via Amundsen-Scott Station.** The reroute succeeded — she collected intelligence
-compromising Upper Earth here before being forwarded to Concordia. **The physical route:** Port Lockroy →
+compromising Upper Earth here before being forwarded to Concordia. **The physical route:** Puerto Abrigo →
 Byrd (Hwy 1) → Amundsen-Scott Station (Hwy 22) → junction with Hwy 175 → junction with Hwy 183 near Janbogo →
 Concordia (Hwy 183) — one continuous overland route, no transport-mode change, per the confirmed highway
 network. This routed her back through Byrd, the exact city where she was physically built, a second time —
@@ -115,7 +115,7 @@ these as genuinely distinct, not conflate them into a single "she's glitchy" fac
 
 **Not fully locked canon**, but built directly on already-confirmed facts and worth knowing alongside her own
 chain: the specific activation chamber that built the player character was manufactured at **Mountain Pass**,
-the joint Vostok-Kunlun outpost on Hwy 37 (confirmed in `TODO.md`, `Specs/Vostok.md`, `Specs/Kunlun.md`,
+the joint Ariun Nuur-Kunlun outpost on Hwy 37 (confirmed in `TODO.md`, `Specs/Ariun_Nuur.md`, `Specs/Kunlun.md`,
 `Robot_Physiology_and_Cultural_Practices.md`). Mountain Pass ran on residual overflow from the Tower's own
 regulated grid; the Tower's destruction ended its manufacturing capability permanently, though the facility
 itself still stands, simply dark. A draft chain proposes the chamber was installed at Calethina's own lab

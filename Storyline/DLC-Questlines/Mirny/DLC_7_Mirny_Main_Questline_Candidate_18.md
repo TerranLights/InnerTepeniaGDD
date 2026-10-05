@@ -9,7 +9,7 @@ credit-attribution/security campaign, Candidate #16's cultural-exchange dilemma,
 coalition-standardization dispute. **Not canon, not chosen, not the only candidate.** Uses the Linear
 Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Zhongshan, Kunlun, Vostok, Davis, Casey). **Distinct from Candidate
+**Uses 5 of Mirny subnet's 8 cities** (Zhongshan, Kunlun, Ariun Nuur, Davis, Casey). **Distinct from Candidate
 #12:** that chain designed a policy for integrating new, displaced arrivals into existing cities; this chain
 designs an ongoing structure for how existing communities get a permanent political voice in future
 subnet-wide decisions — a procedural question, not an integration policy.
@@ -20,7 +20,7 @@ subnet-wide decisions — a procedural question, not an integration policy.
 
 - **Mirny Cross-City Patterns, Pattern 1** — the subnet's own near-complete taxonomy of demographic
   -formation mechanisms: Zhongshan's organic multi-generational immigration, Kunlun's deliberate curated
-  draw, Vostok's unresolved demographic gap (a population with zero ancestral connection to the
+  draw, Ariun Nuur's unresolved demographic gap (a population with zero ancestral connection to the
   founding legend, ambient rather than traceable), Davis's genuinely dispersed structure with no dominant community, and Casey's own "wide,
   mixed early wave" hybrid case.
 - **This run's own accumulated precedent** — the fact that Candidates #11 through #17 each required some kind
@@ -42,7 +42,7 @@ representation structure — a straightforward, if consequential, governance-des
 **BUT** — The subnet's own genuinely different founding mechanisms make a single representation principle
 impossible to apply fairly. Zhongshan's organic community has real demographic weight to point to. Kunlun's
 curated, credentialed population has a claim to representation by expertise and contribution rather than raw
-numbers. Vostok's current population, having no ancestral connection to its own founding legend at all, has
+numbers. Ariun Nuur's current population, having no ancestral connection to its own founding legend at all, has
 a genuinely different relationship to speaking for the city's history than either of the other two. Davis has
 no dominant community structure at all from which to select a single representative in the first place.
 
@@ -62,7 +62,7 @@ about how a council gets seated.
 **BUT** — The reversal cuts against a clean answer either way. A representation model weighted toward
 population and scale gives the subnet's largest communities the strongest voice, reflecting who's actually
 most affected by most decisions — but risks permanently sidelining smaller, differently-structured cities like
-Davis, Vostok, and Kunlun, whose real, sometimes disproportionate contributions wouldn't be reflected in their
+Davis, Ariun Nuur, and Kunlun, whose real, sometimes disproportionate contributions wouldn't be reflected in their
 political weight. A model weighted toward contribution and expertise gives technically vital cities a voice
 proportional to what they actually provide — but risks concentrating real political power in a handful of
 small, specialized cities over a subnet whose larger population bears the practical consequences of council

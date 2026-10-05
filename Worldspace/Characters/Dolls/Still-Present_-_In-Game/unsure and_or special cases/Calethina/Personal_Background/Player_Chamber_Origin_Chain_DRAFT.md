@@ -22,15 +22,15 @@ stress-testing stage:
 | 2 | Spec & schematic design | Neumayer | Halley |
 | 3 | Engineering & programming | Kunlun | Mirny |
 | 4 | Full construction | Byrd | Byrd |
-| 5 | **Stress-testing** | **Sejong** | **Palmer** |
-| 6 | **Shipped via** | **Port Lockroy** | **Palmer** |
+| 5 | **Stress-testing** | **Contrapunto** | **Palmer** |
+| 6 | **Shipped via** | **Puerto Abrigo** | **Palmer** |
 | 7 | Shipping reroute ordered by (wartime pivot) | Fort McMurdo | Janbogo |
 | 8 | Forward-shipped via | Amundsen-Scott Station | — (South Pole) |
 | 9 | Arrival | Concordia | — |
 
-Stages 5 and 6 sit between construction and the wartime pivot: Sejong was chosen specifically for its
+Stages 5 and 6 sit between construction and the wartime pivot: Contrapunto was chosen specifically for its
 dense multinational population, which served as camouflage against Upper-Earth tampering during
-development; Port Lockroy was the courier-network node the "finished" unit shipped out through,
+development; Puerto Abrigo was the courier-network node the "finished" unit shipped out through,
 matching its own established role as a genuine logistics/communications waypoint (echoing the real Port
 Lockroy's history as the world's most remote post office).
 
@@ -47,8 +47,8 @@ Four separate facts already exist across the repo, and they chain together more 
 pass here used:
 
 1. **The specific chamber in Calethina's own lab in Concordia — the one that built the player character
-   — was manufactured at Mountain Pass**, the joint Vostok-Kunlun outpost at Mountain Pass Airport on
-   Hwy 37 (`TODO.md`, `Specs/Vostok.md`, `Specs/Kunlun.md`, `Robot_Physiology_and_Cultural_Practices.md`
+   — was manufactured at Mountain Pass**, the joint Ariun Nuur-Kunlun outpost at Mountain Pass Airport on
+   Hwy 37 (`TODO.md`, `Specs/Ariun_Nuur.md`, `Specs/Kunlun.md`, `Robot_Physiology_and_Cultural_Practices.md`
    — stated in four places, always with the same "quiet, non-quest-related discoverable detail" framing).
    Robots themselves were never made *at* the outpost — chambers were built there and shipped out; the
    outpost is confirmed as a small industrial site, not a city.
@@ -71,13 +71,13 @@ pass here used:
    describes a general Kunlun trait, not a one-off. Kunlun is *already* the established
    design-to-buildable-schematic engineering step for this kind of precision work, which is exactly why
    it's Mountain Pass's other co-founding city, not an incidental partner.
-5. **The exact highway route order is on record:** Hwy 37 (the Mountain Cut Throughway) runs Sayowa
-   Junction → Dome Fuji → Kunlun → Mountain Pass Airport → Vostok → Concordia (`Specs/Kunlun.md`). A
+5. **The exact highway route order is on record:** Hwy 37 (the Mountain Cut Throughway) runs Temirötkel
+   Junction → Dome Fuji → Kunlun → Mountain Pass Airport → Ariun Nuur → Concordia (`Specs/Kunlun.md`). A
    real, physical link survives all the way to Concordia even though the Arcanet/informational
    connection across those subnet boundaries does not.
 
-What's *not* yet established, and is genuinely open room: what Vostok's own half of the Mountain Pass
-partnership actually contributed beyond staffing. Vostok's entire civic identity is genetics research
+What's *not* yet established, and is genuinely open room: what Ariun Nuur's own half of the Mountain Pass
+partnership actually contributed beyond staffing. Ariun Nuur's entire civic identity is genetics research
 (Lake Vostok, "floor after floor of labs running experimentation on gene and allele combinations," an
 archive "so large and complex that no single individual... fully understands it") — a natural, unused
 thread for what a chamber actually needs beyond engineering: the biological/synthesis programming that
@@ -91,11 +91,11 @@ turns raw material into an actual body.
 |---|---|---|---|
 | 1 | Schematic design (Mark IV lineage) | Neumayer, Halley subnet | **Already canon** |
 | 2 | Schematic engineered into a buildable form for Mountain Pass specifically | Kunlun, Mirny subnet | *Proposed — but directly modeled on Kunlun's own confirmed general role* |
-| 3 | Genetic/synthesis programming (the biological templates the chamber actually builds from) | Vostok, Mirny subnet | *Proposed* |
-| 4 | Assembly & construction | Mountain Pass (Vostok/Kunlun joint outpost) | **Already canon** |
-| 5 | Calibration/final testing before shipment | Vostok or Kunlun (using either city's own precision-research infrastructure) | *Proposed* |
+| 3 | Genetic/synthesis programming (the biological templates the chamber actually builds from) | Ariun Nuur, Mirny subnet | *Proposed* |
+| 4 | Assembly & construction | Mountain Pass (Ariun Nuur/Kunlun joint outpost) | **Already canon** |
+| 5 | Calibration/final testing before shipment | Ariun Nuur or Kunlun (using either city's own precision-research infrastructure) | *Proposed* |
 | 6 | Final batch, made as the facility's power supply was failing | Mountain Pass | *Proposed, optional — see Open Questions* |
-| 7 | Shipped via Hwy 37: Mountain Pass → Vostok → Concordia | Hwy 37 | *Proposed — geographically free, exact route already canon* |
+| 7 | Shipped via Hwy 37: Mountain Pass → Ariun Nuur → Concordia | Hwy 37 | *Proposed — geographically free, exact route already canon* |
 | 8 | Installed at what becomes Calethina's Lab, pre-war | Cancer district, Concordia | *Proposed* |
 | 9 | Survives the Planetary Split Brain power shock that permanently corrupted Calethina | Concordia | *Proposed — the payoff* |
 
@@ -109,27 +109,27 @@ turning it into something physically buildable — for Calethina's own schematic
 to the general Mark IV chamber schematic, specifically the version Mountain Pass builds from, isn't an
 invented capability; it's the same established trait doing the same job twice, which is also a tidy
 explanation for *why* Kunlun (rather than some other city) ended up co-founding Mountain Pass with
-Vostok in the first place — it already had exactly the right kind of engineering capacity on hand.
+Ariun Nuur in the first place — it already had exactly the right kind of engineering capacity on hand.
 
-**3. Genetic/synthesis programming — Vostok (new).** This is the piece the existing lore gestures at but
+**3. Genetic/synthesis programming — Ariun Nuur (new).** This is the piece the existing lore gestures at but
 never states outright: a chamber that "creates robots" needs more than a physical construction schematic
 — it needs whatever biological/material synthesis process actually produces a body and (per established
-robot-creation lore) the underlying siligel/material basis. Vostok's entire civic identity is genetics
+robot-creation lore) the underlying siligel/material basis. Ariun Nuur's entire civic identity is genetics
 research at a scale "so large and complex that no single individual... fully understands it." Proposing
-that Vostok's own research fed the chamber's actual synthesis programming — not just staffing labor —
-gives Vostok's half of the Mountain Pass partnership a distinct, specific contribution instead of
-duplicating Kunlun's engineering role under a different city name. It also means Vostok and Kunlun each
+that Ariun Nuur's own research fed the chamber's actual synthesis programming — not just staffing labor —
+gives Ariun Nuur's half of the Mountain Pass partnership a distinct, specific contribution instead of
+duplicating Kunlun's engineering role under a different city name. It also means Ariun Nuur and Kunlun each
 contributed something the other genuinely couldn't have supplied alone, mirroring how Calethina's own
 chain never repeats a function across two cities.
 
 **4. Construction (already canon).**
 
-**5. Calibration/testing — Vostok or Kunlun (new).** Calethina's own chain had a dedicated
-stress-testing stage (Sejong) between construction and shipping. Mountain Pass itself is explicitly not
+**5. Calibration/testing — Ariun Nuur or Kunlun (new).** Calethina's own chain had a dedicated
+stress-testing stage (Contrapunto) between construction and shipping. Mountain Pass itself is explicitly not
 a city — a small industrial outpost, not equipped for its own dedicated testing/calibration function —
 so proposing that finished chambers were sent back up the road to one of its two founding cities for
 final verification before wider shipment gives this chain the same beat Calethina's own has, using
-infrastructure (Vostok's precision genetics labs, Kunlun's precision astronomical-instrument capacity)
+infrastructure (Ariun Nuur's precision genetics labs, Kunlun's precision astronomical-instrument capacity)
 that's already established rather than invented for the purpose.
 
 **6. Final batch, wartime urgency (new, optional).** Mountain Pass's power died permanently with the
@@ -140,7 +140,7 @@ into the war's chaos" texture as Calethina's own reroute. Flagged as optional be
 strictly need it.
 
 **7. Shipping route (new, but geographically free).** The exact route is already on record — Hwy 37 runs
-through Mountain Pass Airport directly to Vostok and on to Concordia. No invented waypoints, no new
+through Mountain Pass Airport directly to Ariun Nuur and on to Concordia. No invented waypoints, no new
 highway segments.
 
 **8. Installation, pre-war (new).** Placing the chamber at Calethina's own lab before the war positions
@@ -174,11 +174,11 @@ outcomes, sitting in the same room.
   manufacturing date reads better tonally — the wartime-urgency beat borrows Calethina's own dramatic
   shape, but the player's chamber doesn't strictly need the same treatment to make the stage-9 payoff
   land.
-- Whether stage 3's genetic/synthesis-programming role for Vostok should also be folded back into the
+- Whether stage 3's genetic/synthesis-programming role for Ariun Nuur should also be folded back into the
   *general* Cradle-chamber-creation pipeline (i.e., does every chamber, wherever it's made, need this
   same kind of biological-templating step from somewhere?) or whether it's specific to Mountain Pass's
   own two-city division of labor. The broader nationwide Cradle Network pass (see above) would be the
   natural place to settle this.
-- Whether stage 5 (calibration/testing) belongs at Vostok, Kunlun, or is unnecessary/redundant with
-  stage 3's Vostok role — as written, stages 3 and 5 both put work at Vostok, which may be worth
+- Whether stage 5 (calibration/testing) belongs at Ariun Nuur, Kunlun, or is unnecessary/redundant with
+  stage 3's Ariun Nuur role — as written, stages 3 and 5 both put work at Ariun Nuur, which may be worth
   consolidating into a single visit rather than two separate ones once this is refined further.

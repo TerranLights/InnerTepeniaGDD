@@ -116,7 +116,7 @@ This makes the earlier stat-interaction tension moot rather than solved — elig
 
 Her construction/shipping chain is designed as **fully unmarked lore, the same precedent as the Cradle network** ([[feedback_cradle_unmarked_lore]]): no quest markers, no logs, no quest tracking, no pointers, no XP. Discoverable only by a sufficiently diligent, patient, curious player piecing together records across up to seven locations spanning multiple subnets:
 
-Mawson (request) → Neumayer/Halley subnet (spec & schematic design) → Kunlun/Mirny subnet (engineering & programming) → Byrd (full construction) → Sejong/Palmer subnet (stress-testing) → Port Lockroy/Palmer subnet (shipped via) → Fort McMurdo/Janbogo subnet (ordered a shipping reroute) → forward-shipped via Amundsen-Scott Station.
+Mawson (request) → Neumayer/Halley subnet (spec & schematic design) → Kunlun/Mirny subnet (engineering & programming) → Byrd (full construction) → Contrapunto/Palmer subnet (stress-testing) → Puerto Abrigo/Palmer subnet (shipped via) → Fort McMurdo/Janbogo subnet (ordered a shipping reroute) → forward-shipped via Amundsen-Scott Station.
 
 Worth noting even before interpretation: Fort McMurdo — the historical national capital — personally ordering a reroute is not a small detail for one unit's shipment. Her final leg through Amundsen-Scott Station also puts her construction timeline in direct physical proximity to the site whose later destruction caused her defining trauma. Neither is explained yet; both are there for a sufficiently curious player to notice.
 

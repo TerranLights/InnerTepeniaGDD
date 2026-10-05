@@ -6,7 +6,7 @@ transfer attempt and the paradox of deliberately engineering an accidental resil
 chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Halley subnet's 8 cities** (Belgrano, Princess Elisabeth, Neumayer, Sanay, Halley).
+**Uses 5 of Halley subnet's 8 cities** (Belgrano, Utstein, Neumayer, Sanay, Halley).
 
 ---
 
@@ -17,8 +17,8 @@ chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
   recordkeeping habit — an ordinary institutional byproduct, never designed for resilience — happened to
   also be exactly the skill needed to process a fractured identity after the fact, an accidental rather than
   deliberate source of recovery.
-- **Princess Elisabeth Full Extrapolation, Section VIII** — the established Straggling Survivor Joos
-  Kaminari, formerly part of the underground maintenance crew, used here to represent Princess Elisabeth's
+- **Utstein Full Extrapolation, Section VIII** — the established Straggling Survivor Joos
+  Kaminari, formerly part of the underground maintenance crew, used here to represent Utstein's
   own pre-existing engineering/maintenance-crew culture as a potential parallel institutional habit.
 - **Halley Cross-City Patterns, Pattern 1** — Halley's own established "active, recency-favoring resilience"
   mechanism, distinct from Belgrano's, used here as a useful comparison case for what's genuinely
@@ -32,7 +32,7 @@ chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
 ## The Chain
 
 **SETUP** — With Belgrano's own community established as furthest along in processing its own loss, a
-proposal emerges to bring Belgrano's own methodology to Princess Elisabeth's much smaller, more struggling
+proposal emerges to bring Belgrano's own methodology to Utstein's much smaller, more struggling
 ruins-based community. The player is asked to help facilitate this exchange — a straightforward, if
 well-intentioned, support-program task.
 
@@ -41,12 +41,12 @@ accidental byproduct of a pre-existing recordkeeping habit that predates the war
 transferable method to teach — importing Belgrano's own success as a program risks manufacturing an
 artificial imitation of something that only worked because nobody ever designed it to.
 
-**THEREFORE** — The player has to consult both Belgrano's own community and Princess Elisabeth's survivors,
+**THEREFORE** — The player has to consult both Belgrano's own community and Utstein's survivors,
 including Joos Kaminari, and travel to Neumayer for engineering-culture context and Sanay for the logistics
-of actually reaching Princess Elisabeth at all, before determining whether anything here is genuinely
+of actually reaching Utstein at all, before determining whether anything here is genuinely
 transferable.
 
-**BUT** — The reversal lands once the investigation turns up Princess Elisabeth's own pre-existing
+**BUT** — The reversal lands once the investigation turns up Utstein's own pre-existing
 institutional habit: its former maintenance-crew culture, still present in survivors like Joos Kaminari,
 could plausibly serve the same accidental function Belgrano's recordkeeping did. But deliberately building a
 support program around it — consciously trying to leverage the habit for psychological benefit — risks
@@ -58,7 +58,7 @@ engineering a resilience mechanism can actually succeed, or whether trying inevi
 made it genuine.
 
 **BUT** — The reversal cuts against a clean answer either way. Deliberately organizing support around
-Princess Elisabeth's own maintenance-crew habit gives its struggling community a genuine, proactive
+Utstein's own maintenance-crew habit gives its struggling community a genuine, proactive
 intervention that could meaningfully help — but risks failing precisely because it would no longer be
 unselfconscious, undermining the very quality that made Belgrano's own case work at all. Leaving Princess
 Elisabeth's community to develop its own relationship to that habit without deliberate intervention respects
@@ -68,7 +68,7 @@ right now, still struggling, for the sake of a theory about what makes resilienc
 **THEREFORE** — Consistent with this project's own No Good Endings law, the resolution is the player's own
 role in whether a deliberate support program actually gets built: build it, offering real, immediate help at
 the risk of undermining its own chance of working; or leave it alone, respecting what made Belgrano's own
-recovery genuine at the cost of offering Princess Elisabeth no concrete intervention at all.
+recovery genuine at the cost of offering Utstein no concrete intervention at all.
 
 ---
 

@@ -8,8 +8,8 @@ civic theme (#14). **Not canon, not chosen, not the only candidate** — a fifte
 subnet's own already-complete set of ten. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Esperanza, Palmer City, Sejong — the three destroyed source cities
-whose own displaced children need placement; Rothera, Port Lockroy — the two surviving cities positioned to
+**Uses 5 of Palmer subnet's 8 cities** (Esperanza, Palmer City, Contrapunto — the three destroyed source cities
+whose own displaced children need placement; Rothera, Puerto Abrigo — the two surviving cities positioned to
 receive them).
 
 ---
@@ -20,13 +20,13 @@ receive them).
   children of people who sacrificed everything for exile deserved to be looked after, with robots as the
   primary at-home caregivers; "being from Hope" as a living identity now carried forward by Esperanza's own
   long-lived robot caregivers rather than human bloodlines (Full Extrapolation, Section IV).
-- **Palmer City's and Sejong's own established destruction and populations** — both fully destroyed, each
+- **Palmer City's and Contrapunto's own established destruction and populations** — both fully destroyed, each
   with their own scattered, real diaspora and, plausibly, displaced children among the survivors of each
   city's own fall.
 - **Rothera's own established civic character** — an industrial workshop city with a genuine, if
   function-first, community, its own underground vaults having sheltered people (human and robot) together
   through the war's worst strikes.
-- **Port Lockroy's own established civic character** — a small, intimate, historically-conscious town,
+- **Puerto Abrigo's own established civic character** — a small, intimate, historically-conscious town,
   Tepenia's second-smallest city, where "real intimacy comes from simply being one of Tepenia's smallest
   cities" (Local Cultures, Section 6e).
 - **Explicitly excluded:** any claim about Signy's own capacity to receive displaced children — Signy's
@@ -38,11 +38,11 @@ receive them).
 ## The Chain
 
 **SETUP** — In the aftermath of the war, displaced and orphaned children from three of the subnet's
-destroyed cities — Esperanza, Palmer City, and Sejong — need homes and real, ongoing care. Esperanza's own
+destroyed cities — Esperanza, Palmer City, and Contrapunto — need homes and real, ongoing care. Esperanza's own
 scattered diaspora, still carrying its founding values and its established expertise in robot-led caregiving,
 naturally steps forward to help coordinate placement, even though Esperanza itself no longer exists as a
 physical city. The player is asked to help place these children with willing, capable families and
-communities across the subnet's surviving cities — Rothera and Port Lockroy — a straightforward, if
+communities across the subnet's surviving cities — Rothera and Puerto Abrigo — a straightforward, if
 emotionally weighty, placement task.
 
 **BUT** — Neither surviving city is an obvious fit. Rothera's own civic character is function-first and
@@ -58,8 +58,8 @@ Lockroy based on genuine capacity and character, a real, careful process rather 
 **BUT** — A deeper controversy surfaces once placement actually begins: should these children be raised
 according to Esperanza's own specific caregiving philosophy and values — robots as primary caregivers, "being
 from Hope" as identity — even in cities that never shared that particular history or approach, or should
-Rothera and Port Lockroy each integrate the children fully according to their own local culture, letting
-whatever was distinctly Esperanza (or Palmer City, or Sejong) about these children's own origin simply
+Rothera and Puerto Abrigo each integrate the children fully according to their own local culture, letting
+whatever was distinctly Esperanza (or Palmer City, or Contrapunto) about these children's own origin simply
 become part of wherever they end up.
 
 **THEREFORE** — What began as finding homes for displaced children becomes a real question about whose
@@ -70,9 +70,9 @@ the only part of it still growing up.
 philosophy across all placements preserves something real and precious about a destroyed city's own values,
 carried forward through its most vulnerable survivors — but risks imposing a specific cultural framework on
 communities and children where it may not naturally fit, potentially leaving these children perpetually
-"not quite" local within whatever new community actually raises them. Letting Rothera and Port Lockroy
+"not quite" local within whatever new community actually raises them. Letting Rothera and Puerto Abrigo
 integrate the children fully into their own existing local culture gives them the best real chance at
-belonging and an ordinary childhood — but means whatever was distinctly Esperanza, or Palmer City, or Sejong,
+belonging and an ordinary childhood — but means whatever was distinctly Esperanza, or Palmer City, or Contrapunto,
 about where they came from simply dissolves, unremembered, within a single generation.
 
 **THEREFORE** — Consistent with this project's own No Good Endings law, the resolution is the player's own

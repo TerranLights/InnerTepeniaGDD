@@ -10,7 +10,7 @@ not the only candidate.** Uses the Linear Escalation Chain schematic
 
 **Uses 5 of Halley subnet's 8 cities** (Halley, Neumayer, Troll, Sanay, Belgrano — the five cities most
 directly implicated across this run's own contested decisions) — and, by its own nature, naturally extends to
-draw on Abowasa, Lazar, and Princess Elisabeth as well, since a subnet-wide archive has no honest reason to
+draw on Santa Luce, Lazar, and Utstein as well, since a subnet-wide archive has no honest reason to
 exclude any of them.
 
 **A deliberate closing note.** Like Palmer's own Candidate #20, this chain is built specifically to reflect

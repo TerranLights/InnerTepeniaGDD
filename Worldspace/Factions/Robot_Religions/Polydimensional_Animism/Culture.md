@@ -22,7 +22,7 @@ Quick-reference excerpt. See `README.md` in this same folder for the complete do
 - **The Already-Complete** → **Concordia's "Ossuary Quarter"** district — a Goth ossuary community, memorial
   gardens, contemplation halls already built around this denomination's territory. No second candidate
   proposed yet.
-- **The Cyclical** → **Signy**, **Princess Elisabeth** — plainest/quietest city in Tepenia; a waystation
+- **The Cyclical** → **Signy**, **Utstein** — plainest/quietest city in Tepenia; a waystation
   role sheltering pilgrims en route to the holy mount of Dome Fuji.
 
 ## Visual & Sonic Identity

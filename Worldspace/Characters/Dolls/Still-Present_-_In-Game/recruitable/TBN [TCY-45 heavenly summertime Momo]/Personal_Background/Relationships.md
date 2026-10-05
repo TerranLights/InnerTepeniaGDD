@@ -28,11 +28,11 @@ about her, which suits a character who cannot volunteer.
 
 | Who | Where | Status |
 |---|---|---|
-| **Found family / friends, plural, across her whole life** | Signy, Esperanza, Princess Elisabeth, Zukelli | **[Sourced]** Named individuals: none yet. Count: unknown. How many survive: unknown. |
+| **Found family / friends, plural, across her whole life** | Signy, Esperanza, Utstein, Zukelli | **[Sourced]** Named individuals: none yet. Count: unknown. How many survive: unknown. |
 | **The human families she cared for** | Esperanza | **[Sourced as role]** Unnamed. She worked inside Esperanza's founding compact, caring for the children of humans who accepted permanent exile. Their fate is open and is her most emotionally direct thread. |
 | **Whoever she knew in Zukelli** | Zukelli | Open, and the highest-stakes gap in her file — Zukelli is where her search for belonging substantially succeeded, and almost nobody survived. |
 | **Anyone connected to her escape** | Zukelli → ? | Whether she escaped alone, in a group, or because someone else acted for her, is unwritten. |
-| **Colleagues at Princess Elisabeth** | Princess Elisabeth | Depends on what her work there actually was, which is TBD. |
+| **Colleagues at Utstein** | Utstein | Depends on what her work there actually was, which is TBD. |
 | **Anyone from Signy** | Signy | **The only city of hers still standing** — so it is the only place where surviving contacts are *likely* rather than unlikely. Currently unexplored. |
 
 ---

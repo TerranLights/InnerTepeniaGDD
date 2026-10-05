@@ -57,7 +57,7 @@ the scene. **Unresolved and open:**
 
 Distinct from the above, and easy to conflate — worth keeping separate. **[Strong Inference]**
 
-Esperanza and Princess Elisabeth were also destroyed in the war, but she had **already left both of them,
+Esperanza and Utstein were also destroyed in the war, but she had **already left both of them,
 years or decades earlier, for her own unrelated peacetime reasons.** She did not lose those cities the way she
 lost Zukelli. She lost the standing possibility of ever going back — retroactively, at a distance, without
 witnessing any of it.

@@ -53,12 +53,12 @@ new historical material.
    acknowledges.
 
 2. **Feeder-city population culture → history.** `City_Refugee_District_Affinities.md`'s own per-city
-   reasoning for Port Lockroy — a genuine 1st-tier Taurus feeder city, no Stage 2 Override flag — describes
+   reasoning for Puerto Abrigo — a genuine 1st-tier Taurus feeder city, no Stage 2 Override flag — describes
    "a city that never demolishes its own history": a communal stone wall, physically added to by
-   generations who will never see it finished. None of Taurus' own documents mention Port Lockroy
+   generations who will never see it finished. None of Taurus' own documents mention Puerto Abrigo
    specifically, despite this being an almost literal real-world echo of Taurus' own heirloom culture (a
    grandparent's chair as non-negotiable furniture, genealogies spanning four generations). A chain about
-   Port Lockroy-descended residents contributing an actual generations-spanning collective-building
+   Puerto Abrigo-descended residents contributing an actual generations-spanning collective-building
    custom to Taurus — distinct from the district's own generic "old-timer" framing — would use this
    unused, thematically-resonant population match.
 

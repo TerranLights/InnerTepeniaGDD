@@ -19,7 +19,7 @@ as a working first pass, not yet developer-confirmed as final.
   three highest-elevation settlements in Tepenia; effective physiological altitude closer to 4,500m due
   to polar atmospheric compression.
 - **Geological composition:** East Antarctic Plateau ice-dome — extreme high-altitude polar desert,
-  nearly identical terrain type to Concordia and Vostok.
+  nearly identical terrain type to Concordia and Ariun Nuur.
 
 ---
 
@@ -135,10 +135,10 @@ parallel for this city; the research-town matches are secondary/supporting only.
 - **USA (Primary):** Los Alamos, New Mexico — same dedicated research-town match used at Neumayer.
 - **China (Primary):** Golmud or a Tibetan Plateau research outpost town — a real Chinese
   high-altitude scientific outpost, a strong thematic match.
-- **Japan (Significant):** Tsukuba Science City — same match used at Princess Elisabeth/Denison.
+- **Japan (Significant):** Tsukuba Science City — same match used at Utstein/Denison.
 - **Germany (Significant):** Garching bei München — same match used at Neumayer.
-- **UK (Significant):** Harwell, Oxfordshire — same match used at Neumayer/Princess Elisabeth.
-- **France (Significant):** Saclay — same match used at Neumayer/Princess Elisabeth.
+- **UK (Significant):** Harwell, Oxfordshire — same match used at Neumayer/Utstein.
+- **France (Significant):** Saclay — same match used at Neumayer/Utstein.
 - **South Korea (Significant):** Daedeok Innopolis — a real dedicated Korean science-research city.
 - **Russia (Significant):** Akademgorodok — a real dedicated Soviet/Russian science-research town, an
   excellent match.
@@ -154,7 +154,7 @@ parallel for this city; the research-town matches are secondary/supporting only.
 robots) — every finding below is framed as arising from Dome Fuji's own conditions (its foundational
 identity as an Ice-Cold Buddhist pilgrimage/devotional site, its extreme altitude, and its minimal
 secular economy) as inherited through robot-population heritage-tracking rather than lived human
-experience, the same framing established at Kunlun and Vostok. A given nation's inclusion reflects
+experience, the same framing established at Kunlun and Ariun Nuur. A given nation's inclusion reflects
 genuine real-world Buddhist-pilgrimage or research heritage (per the population's own tiered
 composition), not a literal resident population of that nationality.
 
@@ -427,7 +427,7 @@ City-Type — flagged as weakest.
 
 **Real-world parallel community/communities identified:** no true domestic geography match (the
 highest staffed French Alpine sites are not permanent civilian populations, weak) — carried by Saclay
-(civic type, the same research match used at Neumayer/Princess Elisabeth) — the secondary, distant-
+(civic type, the same research match used at Neumayer/Utstein) — the secondary, distant-
 second dimension.
 
 #### Surface Culture findings
@@ -712,7 +712,7 @@ excellent match, and Tsukuba Science City (civic type, secondary).
 ### UK (Significant, 2.49%)
 
 **Real-world parallel community/communities identified:** no domestic match (weak) — carried by
-Harwell, Oxfordshire (civic type, the same research match used at Neumayer/Princess Elisabeth) — the
+Harwell, Oxfordshire (civic type, the same research match used at Neumayer/Utstein) — the
 secondary, distant-second dimension.
 
 #### Surface Culture findings
@@ -829,9 +829,9 @@ excellent match — the secondary, distant-second dimension.
 homophone with China's actual Fujian province, worth flagging for the developer to consider a different
 term).*
 
-Dome Fuji is structurally similar to Kunlun and Vostok — zero human residents, every finding tracking
+Dome Fuji is structurally similar to Kunlun and Ariun Nuur — zero human residents, every finding tracking
 robot heritage-inheritance rather than lived human culture — but with a genuinely different center of
-gravity: where Kunlun and Vostok converge on a shared *scientific* ethos, Dome Fuji converges overwhelmingly
+gravity: where Kunlun and Ariun Nuur converge on a shared *scientific* ethos, Dome Fuji converges overwhelmingly
 on a shared *devotional* one. Every population here shares the same sparse-white-robes dress, the same
 "Deepest Cold" observance timed to polar night, and the same core theological stance (hardship reframed
 as the point, not endured) — Surface and Deep Culture findings read almost identically across all eleven

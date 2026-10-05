@@ -92,7 +92,7 @@ matches here are, if anything, weaker than Dome Fuji's.
 
 **City type:** scientific research (astronomy/ice-core science) + religious/pilgrimage center (the
 Kunlun Observatory is arguably *the* primary sacred site in all of Tepenia) + industrial (joint
-chamber-manufacturing outpost with Vostok). Same robot-only-population caveat noted in this city's
+chamber-manufacturing outpost with Ariun Nuur). Same robot-only-population caveat noted in this city's
 Real-World Parallel Locations section applies here too — the nation list tracks heritage, not a
 literal resident population.
 
@@ -752,7 +752,7 @@ adjacent credential) rather than a matched city or region.
 ## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
 
 **Working name: "Kunlunese"** *(placeholder, following the same real-world-demonym-reuse logic as
-Sejong's "Sejongite"; not yet developer-confirmed).*
+Contrapunto's "Sejongite"; not yet developer-confirmed).*
 
 Kunlun is structurally unique among every city cataloged so far: it has **no human population at all**,
 so every finding above tracks robot heritage-inheritance rather than lived human culture. This produces
@@ -769,7 +769,7 @@ high-altitude practical food tradition.
 **The shared civic ethos, not nation-by-nation variation, is Kunlun's actual defining cultural
 feature.** Every population here converges on the same Thinking/Withdrawn/Positive-Outlook register:
 work as identity rather than labor, a 24-hour leisure economy with no shared "evening," and genuine,
-sustained curiosity rather than endured obligation. This is closer in kind to Sejong's
+sustained curiosity rather than endured obligation. This is closer in kind to Contrapunto's
 negotiated-quarter structural pattern (one shared mechanism underlying every population's presence)
 than to a city where different nations bring genuinely different flavors — except that here, the
 shared mechanism is professional/vocational draw rather than negotiated coexistence.

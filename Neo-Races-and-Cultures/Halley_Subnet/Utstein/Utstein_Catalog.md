@@ -1,4 +1,6 @@
-# Princess Elisabeth — Neo-Race Cataloging (Phase 1)
+# Utstein — Neo-Race Cataloging (Phase 1)
+
+> **⚠ RENAMED 2026-10-03 (`DR-38`): formerly *Princess Elisabeth* (placeholder `{{ Princess Elisabeth }}`); now **Utstein** (native form Utsteinen), "the outer stone".** References to "Princess Elisabeth Antarctica", the station, or Princess Elisabeth of Belgium are the real-world station and namesake and are unchanged. Founders: the Scandinavian Trade Union nations (`DR-22`); text written around a Belgian founding is a revisit item (`R-17`).
 
 **Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
 filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — seventh city finished, last
@@ -13,7 +15,7 @@ yet developer-confirmed as final.
   Australia. Notable — Poland, Netherlands, Belgium, Argentina, Czech
   Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia,
   Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia. Exact per-nation share % in
-  `Specs/Princess_Elisabeth.md` and `Official_Population_Census.md`.
+  `Specs/Utstein.md` and `Official_Population_Census.md`.
 - **Geography:** Utsteinen nunatak, Sør Rondane Mountains, eastern Queen Maud Land — a rocky ridge
   exposed to gales up to 300 km/h, requiring active aerodynamic engineering to survive at all; nothing
   here is passively sheltered.
@@ -25,7 +27,7 @@ yet developer-confirmed as final.
 
 ## Population Weighting Reference (for future Phase 1c cultural weighting)
 
-*Source: `Specs/Princess_Elisabeth.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+*Source: `Specs/Utstein.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
 
 | Tier | Nation | Share % |
 |------|--------|---------|
@@ -87,7 +89,7 @@ highland character.
 ## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
 
 **City type:** scientific research center with a specific renewable-energy specialization — "genuine
-expertise in Antarctic energy systems that other cities traded for" defines Princess Elisabeth's
+expertise in Antarctic energy systems that other cities traded for" defines Utstein's
 economic role.
 
 - **USA (Primary):** Golden, Colorado — home to the National Renewable Energy Laboratory, a real
@@ -324,7 +326,7 @@ fusion project).
 **Concepts of:**
 - Self, time, past and future: energy research framed as a grand, collaborative, civilization-scale
   project — a genuinely distinct register from Japan/USA's personal-mastery-of-harsh-conditions framing,
-  and an especially fitting resonance given Princess Elisabeth's own genuinely multinational population.
+  and an especially fitting resonance given Utstein's own genuinely multinational population.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
 
@@ -455,7 +457,7 @@ pioneer city, nicknamed "Solar City").
 **Real-world parallel community/communities identified:** Cairngorms (geography — the highest recorded
 wind speeds in the UK) and Harwell, Oxfordshire (civic type — same real UK research-campus match used
 at Neumayer). Both strong despite the small population share — now a well-established recurring pattern
-(after Abowasa's Germany, Belgrano's UK, and to a lesser extent Lazar's France) rather than a novel
+(after Santa Luce's Germany, Belgrano's UK, and to a lesser extent Lazar's France) rather than a novel
 finding requiring fresh derivation each time.
 
 #### Surface Culture findings
@@ -513,13 +515,13 @@ finding requiring fresh derivation each time.
 developer — probably needs a different working name to avoid the real-world homophone; placeholder
 only, same status as the other six cities' working names.)*
 
-**Identity correction, folded in 2026-07-16 from `City_Vision_Notes/Princess_Elisabeth.md`:** the
+**Identity correction, folded in 2026-07-16 from `City_Vision_Notes/Utstein.md`:** the
 city's own official identity, **"Leaving No Mark, Meeting in the Middle,"** frames it as a literal
 demographic/geographic crossroads (the only Halley subnet city with two co-Primary founding
 populations, USA and Japan, reflecting genuine Atlantic *and* Indian Ocean immigration currents) that
 never resolved which larger cultural body it belongs to — *and never turned that ambiguity into a
-defended identity either*, unlike Sayowa's own version of the same situation. Princess Elisabeth
-shares a faction, "The Crossroads People," with Sayowa, Esperanza, Janbogo, and Casey — "the crossroads
+defended identity either*, unlike Temirötkel's own version of the same situation. Utstein
+shares a faction, "The Crossroads People," with Temirötkel, Esperanza, Janbogo, and Casey — "the crossroads
 nobody resolved." This sits *alongside*, not in contradiction with, the wind-mastery/energy-research
 convergence described below: the research culture is genuinely coherent and shared, but the city's
 national/cultural belonging remains deliberately, permanently unresolved rather than settling into one
@@ -535,7 +537,7 @@ happening in a mysterious underground "mini-infrastructure" beneath the city —
 gap to fill in casually, and possibly (not confirmed) connected to the already-flagged
 restore-the-zero-emissions-systems candidate questline. Left open here rather than invented.
 
-Princess Elisabeth's neo-culture is anchored unusually firmly by its two co-Primary populations, both
+Utstein's neo-culture is anchored unusually firmly by its two co-Primary populations, both
 of which are double-anchored (strong on geography *and* City-Type): Japan (wind-as-civic-mastery, via
 Wakkanai and Tsukuba) and USA (wind-as-scientific-frontier, via Mount Washington and Golden/NREL). These
 converge on the same underlying value — extreme conditions as something to be mastered and studied,

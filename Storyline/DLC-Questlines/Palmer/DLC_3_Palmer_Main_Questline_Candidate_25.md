@@ -6,40 +6,40 @@ interrupted coexistence experiment against genuinely conflicting standards of su
 chosen, not the only candidate.** Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Sejong, Juan Carlos, Port Lockroy, Rothera, Signy).
+**Uses 5 of Palmer subnet's 8 cities** (Contrapunto, Pergamino, Puerto Abrigo, Rothera, Signy).
 
 ---
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Palmer Cross-City Throughways, Throughway 2** — the established fact that Sejong's own dense, King
+- **Palmer Cross-City Throughways, Throughway 2** — the established fact that Contrapunto's own dense, King
   George Island coexistence among nearly a dozen national communities produced "constant, informal,
   many-sided diplomatic coordination — a coexistence experiment whose success the Long Night War never let
   anyone finish judging."
-- **Juan Carlos's own established comparison case** (same Throughway) — identical founding circumstances to
-  Sejong's own, but a genuinely different outcome (a singular, isolated institution rather than a
+- **Pergamino's own established comparison case** (same Throughway) — identical founding circumstances to
+  Contrapunto's own, but a genuinely different outcome (a singular, isolated institution rather than a
   coexistence experiment), used here strictly for contrast.
 - **Signy's own established isolation** (Cross-City Patterns, Pattern 5), used here as a useful baseline: a
-  city that never faced Sejong's own coexistence question at all.
-- Juan Carlos appears here only for its established isolation-versus-density comparison with Sejong — this
-  chain doesn't otherwise develop Juan Carlos's own social life.
+  city that never faced Contrapunto's own coexistence question at all.
+- Pergamino appears here only for its established isolation-versus-density comparison with Contrapunto — this
+  chain doesn't otherwise develop Pergamino's own social life.
 
 ---
 
 ## The Chain
 
-**SETUP** — With peacetime allowing genuine reflection, a push emerges to formally evaluate whether Sejong's
+**SETUP** — With peacetime allowing genuine reflection, a push emerges to formally evaluate whether Contrapunto's
 own pre-war coexistence experiment — a dozen distinct national communities sharing one island — actually
 succeeded, a question the war interrupted before anyone could judge it. The player is asked to help conduct
 this assessment — a straightforward, if ambitious, evaluative task.
 
-**BUT** — Genuinely evaluating "success" requires agreeing on what success would even mean, and Sejong's own
+**BUT** — Genuinely evaluating "success" requires agreeing on what success would even mean, and Contrapunto's own
 communities hold sincerely different standards — some judge it by whether real integration happened, others
 by whether each community's own distinct identity survived proximity intact, others simply by the absence of
 conflict. The evaluation itself surfaces disagreement about what the experiment was even trying to achieve.
 
-**THEREFORE** — The player has to consult multiple communities within Sejong directly, and travel to Juan
-Carlos, Port Lockroy, and Rothera for outside comparative context, to work out what a fair standard would
+**THEREFORE** — The player has to consult multiple communities within Contrapunto directly, and travel to Juan
+Carlos, Puerto Abrigo, and Rothera for outside comparative context, to work out what a fair standard would
 even look like.
 
 **BUT** — The reversal lands once real testimony is gathered: the honest picture is genuinely mixed. By some

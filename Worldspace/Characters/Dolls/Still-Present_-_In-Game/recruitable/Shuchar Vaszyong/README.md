@@ -21,7 +21,7 @@ toolkit** (`02_Information_Processing.md`) and **Stage 3's node set** (`03_Chara
 **Role / Archetype:** A quiet, self-sufficient maker of *"technological art"* — assembling ideas in interesting
 new ways — who wants a life in which nobody can ask her for anything. **[Sourced]**
 **Primary Location(s):** **Origin: Esperanza** *(Palmer subnet)* **[Sourced]**. **Destination, prospective:
-Kunlun** *(Mirny subnet)*. In-between, prospective: **Abowasa → Princess Elisabeth → Casey.**
+Kunlun** *(Mirny subnet)*. In-between, prospective: **Santa Luce → Utstein → Casey.**
 **Affiliation(s):** TBD — none given.
 **Companion Potential:** ✅ **Yes — confirmed recruitable** *(2026-07-20 roster expansion)*.
 **Romance Potential:** ✅ **Yes** — per the binding "all recruitable companions are romanceable" rule
@@ -41,7 +41,7 @@ Kunlun** *(Mirny subnet)*. In-between, prospective: **Abowasa → Princess Elisa
 | **Gen/Mark** | ⛔ **BLOCKED** — *not in the seed* |
 | **Age / activation** | ⭐ **Built during the later-first half of the Second Interwar Period** **[Sourced]** — *alive to the in-game present (~2822–2827), so she is **old**, deliberately* |
 | **City of origin** | ⭐ **ESPERANZA** *(Palmer subnet, Hope Bay)* **[Sourced]** — **load-bearing; see the Ghost** |
-| **Current residence** | ⏸️ **TBD** — *prospective destination Kunlun; prospective stops Abowasa → Princess Elisabeth → Casey* **[Sourced as prospective, not locked]** |
+| **Current residence** | ⏸️ **TBD** — *prospective destination Kunlun; prospective stops Santa Luce → Utstein → Casey* **[Sourced as prospective, not locked]** |
 | **Appearance / Reference Images** | ✅ **15 images on file** |
 | **Occupation** | ⏸️ **TBD [Sourced as TBD]** — *but the seed fixes its SHAPE:* ***"something that would essentially allow her to never actually interact with anyone."*** ⭐ **A constraint, not a blank** |
 
@@ -150,7 +150,7 @@ Caution, not through a confession.**
 | **Mentors** | ⛔ **TBD.** ⚠ *Ch.11's "never had" friction is a candidate, **not** asserted* |
 | **Siblings / generation-mates** | ⛔ **TBD** — blocked behind Gen/Mark |
 | **Rivals** | **None indicated** — ⭐ *characterful in itself: she competes with no one* |
-| ⭐⭐ **Friends** | ✅ **SOURCED — *"had friends in Juan Carlos."*** **The most important relationship fact in her seed; see Dominant Attitude, where it does its real work** |
+| ⭐⭐ **Friends** | ✅ **SOURCED — *"had friends in Pergamino."*** **The most important relationship fact in her seed; see Dominant Attitude, where it does its real work** |
 | **Romantic history** | **None on record** |
 
 ## Her position relative to the Long Night War
@@ -298,8 +298,8 @@ her sentences are never filler.***
 
 - **Dominant attitude:** ***"Doesn't particularly care about being understood so long as she's able to be left
   alone."*** **[Sourced]**
-- ## ⭐⭐⭐ **THE EXCEPTION, AND IT IS SOURCED: *"had friends in Juan Carlos."***
-  **`Specs/Juan_Carlos.md`: `Access type: NONE` — no road connection at all; the city sits on Livingston Island
+- ## ⭐⭐⭐ **THE EXCEPTION, AND IT IS SOURCED: *"had friends in Pergamino."***
+  **`Specs/Pergamino.md`: `Access type: NONE` — no road connection at all; the city sits on Livingston Island
   and is reachable by sea alone.**
   > ***Maintaining a friendship there costs a voyage.*** **That is not passive.**
   ⭐ **Exactly Swain's "one narrow, genuine exception surfacing only under a specific, plantable circumstance."**
@@ -424,7 +424,7 @@ nature and never narrates a division; the six subnets are simply present everywh
 - ⛔ **Weakness field** — *seed leaves it `TBD`.* ✅ **Derived above as the Lie/Flaw and the no-counterweight
   structural finding. Offered, not asserted.**
 - ⏸️ **War experiences** — genuinely unwritten.
-- ⏸️ **Her builder in Esperanza; the Juan Carlos friends** — identities and count TBD.
+- ⏸️ **Her builder in Esperanza; the Pergamino friends** — identities and count TBD.
 
 ## TODOs
 - [x] Enneagram — **5w4 Self-Pres 55% + 9w1 Self-Pres 45% [Sourced 2026-09-07].**
@@ -434,7 +434,7 @@ nature and never narrates a division; the six subnets are simply present everywh
 - [ ] **Occupation** — highest-value open field.
 - [ ] **Subnet-division date** — REQUESTED; blocks her Timeline.
 - [ ] Confirm or drop Kunlun and the three in-between cities.
-- [ ] Gen/Mark; her builder; the Juan Carlos friends; war experiences.
+- [ ] Gen/Mark; her builder; the Pergamino friends; war experiences.
 - [ ] MACHINE stats — deferred until occupation resolves.
 - [ ] ⏸️ **Stages 4–5 (story material, beats, questline, endings)** — *not started, by design, pending her
       background.*

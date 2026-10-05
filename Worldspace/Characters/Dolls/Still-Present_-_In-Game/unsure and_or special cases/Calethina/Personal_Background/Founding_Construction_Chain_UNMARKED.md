@@ -12,8 +12,8 @@ See `Questlines/Substrate_Transfer_and_Embodiment_Design.md` for how this fits i
 | Spec & schematic design | Neumayer | Halley |
 | Engineering & programming | Kunlun | Mirny |
 | Full construction | Byrd | Byrd |
-| Stress-testing | Sejong | Palmer |
-| Shipped via | Port Lockroy | Palmer |
+| Stress-testing | Contrapunto | Palmer |
+| Shipped via | Puerto Abrigo | Palmer |
 | Shipping reroute ordered by | Fort McMurdo | Janbogo |
 | Forward-shipped via | Amundsen-Scott Station | — |
 

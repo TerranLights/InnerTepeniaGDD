@@ -7,21 +7,21 @@ around the subnet's own core identity thesis directly, rather than any single ci
 canon, not chosen, not the only candidate** — the 10th of the "at least 10" the method calls for. Uses the
 Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses all 8 of Palmer subnet's cities** — the three survivors (Rothera, Port Lockroy, Signy) as living
-present-day parties to the decision; the five destroyed cities (Palmer City, Esperanza, Marambio, Sejong,
-Juan Carlos) referenced collectively, through their diaspora, as the weight bearing on it.
+**Uses all 8 of Palmer subnet's cities** — the three survivors (Rothera, Puerto Abrigo, Signy) as living
+present-day parties to the decision; the five destroyed cities (Palmer City, Esperanza, Marambio, Contrapunto,
+Pergamino) referenced collectively, through their diaspora, as the weight bearing on it.
 
 ---
 
 ## Inputs actually used (Step 1 of the design method)
 
 - **Palmer Subnet Full Extrapolation, Section II** — each city's own specific role within the subnet's
-  gateway identity: Palmer City the face, Esperanza the promise, Juan Carlos the memory, Marambio the
-  throughput, Port Lockroy the correspondence, Rothera the workshop, Sejong the experiment, Signy the edge.
+  gateway identity: Palmer City the face, Esperanza the promise, Pergamino the memory, Marambio the
+  throughput, Puerto Abrigo the correspondence, Rothera the workshop, Contrapunto the experiment, Signy the edge.
   The subnet's whole established identity is *being the gateway* — Tepenia's actual point of contact with
   Upper Earth.
 - **The subnet's own established casualty pattern** — five of eight Palmer subnet cities destroyed
-  (Palmer City, Esperanza, Marambio, Sejong, Juan Carlos), the highest concentration of destruction
+  (Palmer City, Esperanza, Marambio, Contrapunto, Pergamino), the highest concentration of destruction
   documented in any subnet covered by this project so far, plausibly not coincidental to the subnet's own
   gateway visibility and significance to Upper Earth.
 - **Signy's own Full Extrapolation, Section IV / Cross-City Throughway 4** — the subnet's own established
@@ -35,7 +35,7 @@ Juan Carlos) referenced collectively, through their diaspora, as the weight bear
 
 ## The Chain
 
-**SETUP** — Post-war, Palmer subnet's surviving institutions — Rothera, Port Lockroy, Signy, and
+**SETUP** — Post-war, Palmer subnet's surviving institutions — Rothera, Puerto Abrigo, Signy, and
 representatives of the scattered diaspora from the five destroyed cities — face a real decision about the
 subnet's own future: rebuild and recommit fully to Tepenia's gateway role (tourism, customs, trade, the
 whole established identity Section II lays out city by city), or deliberately recede from that exposed
@@ -66,7 +66,7 @@ subnet's own dead actually died for, and whether continuing their purpose honors
 the exact exposure that killed them.
 
 **BUT** — The reversal cuts against a clean answer either way. Rebuilding and recommitting fully to the
-gateway role honors what Palmer City, Esperanza, Marambio, Sejong, and Juan Carlos's own established
+gateway role honors what Palmer City, Esperanza, Marambio, Contrapunto, and Pergamino's own established
 purposes actually meant, giving their loss ongoing significance — but genuinely risks repeating the same
 catastrophic exposure, this time with a population that chose the risk with open eyes rather than simply
 inheriting it. Deliberately receding from the gateway role protects the surviving population from ever

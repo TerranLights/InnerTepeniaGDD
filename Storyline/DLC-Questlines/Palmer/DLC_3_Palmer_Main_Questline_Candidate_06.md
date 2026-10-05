@@ -1,32 +1,32 @@
 # DLC 3 (Palmer Subnet) — Main Questline Candidate #6: "Whoever Adds the Next Panel"
 
 **What this is:** a sixth prospective But/Therefore chain for DLC 3's main questline, produced by running
-`../DLC_Main_Questline_Design_Method.md` against Palmer subnet, built around Port Lockroy's own established
+`../DLC_Main_Questline_Design_Method.md` against Palmer subnet, built around Puerto Abrigo's own established
 stone wall and its explicitly-flagged, unresolved civic fault line. **Not canon, not chosen, not the only
 candidate** — the 6th of the "at least 10" the method calls for. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 1 of Palmer subnet's 8 cities (Port Lockroy alone)**.
+**Uses 1 of Palmer subnet's 8 cities (Puerto Abrigo alone)**.
 
 ---
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Port Lockroy's own Mega-Init, "What It Feels Like"** — Old Toby, a gruff founding-era figure, carves an
+- **Puerto Abrigo's own Mega-Init, "What It Feels Like"** — Old Toby, a gruff founding-era figure, carves an
   ongoing stone wall mural (boats arriving, a DNA helix in electrons and cosmic strings) he knows he'll
   never finish; over roughly 250 years, other residents add their own panels, until the wall physically
   *is* the city's whole palimpsest identity made visible — a genuine multi-generational communal artifact,
   not a static monument.
-- **Port Lockroy's own Local Cultures, Section 5b** — the city's established, explicitly unresolved fault
+- **Puerto Abrigo's own Local Cultures, Section 5b** — the city's established, explicitly unresolved fault
   line: treating its own layered history as living, accountable memory versus treating it as
   heritage-tourism spectacle, a tension inherited directly from its pre-exile identity as a museum.
-- **Port Lockroy's own Local Cultures, Section 5** — "A City That Remembers Being Something Else": every
+- **Puerto Abrigo's own Local Cultures, Section 5** — "A City That Remembers Being Something Else": every
   era (military installation, heritage museum, living exile city) layers rather than replaces the last,
   continuously visible at once.
-- **Port Lockroy's own Full Extrapolation, Section IV** — The Long Memory, the civic holiday formalizing
+- **Puerto Abrigo's own Full Extrapolation, Section IV** — The Long Memory, the civic holiday formalizing
   the wall's own communal panel-adding practice; and Section VII, confirming the postal-hub role continues
   post-war in a genuinely reduced but real capacity, a small, struggling economy.
-- **Explicitly excluded:** any claim about whether Port Lockroy's postal-corridor function should itself be
+- **Explicitly excluded:** any claim about whether Puerto Abrigo's postal-corridor function should itself be
   expanded or restored — this chain's economic stakes stay specifically about heritage tourism and the
   wall, not the city's separate postal role.
 
@@ -34,11 +34,11 @@ candidate** — the 6th of the "at least 10" the method calls for. Uses the Line
 
 ## The Chain
 
-**SETUP** — Port Lockroy's small, struggling economy could use real support, and a proposal surfaces to
+**SETUP** — Puerto Abrigo's small, struggling economy could use real support, and a proposal surfaces to
 lean into the city's own pre-exile identity: formally promote it as a heritage destination for visitors
 from elsewhere in Tepenia, centered on its genuinely layered history and, above all, the stone wall itself.
 The player is asked to help arrange the promotion — a straightforward economic-development task, drawing
-outside attention to something Port Lockroy has always quietly had.
+outside attention to something Puerto Abrigo has always quietly had.
 
 **BUT** — Doing this properly means putting the wall on public display, and the wall's real meaning has
 always come from being an ongoing, private, communal practice — residents adding panels as their own lives
@@ -73,11 +73,11 @@ in the first place, and reads, to visitors who came in good faith, as a rejectio
 promotion itself invited.
 
 **THEREFORE** — Consistent with this project's own No Good Endings law, the resolution is the player's own
-role in which way Port Lockroy decides: open the wall to any sincere contributor, honoring the palimpsest
+role in which way Puerto Abrigo decides: open the wall to any sincere contributor, honoring the palimpsest
 philosophy fully and securing the city's economic future, at the cost of a tradition whose meaning was
 always tied to actually belonging here; or keep it resident-only, protecting the wall's earned, generational
 meaning intact, at the cost of the resources the city needs and the goodwill of visitors turned away after
-being invited in. Either way, Port Lockroy's own long-unresolved fault line — living memory or performed
+being invited in. Either way, Puerto Abrigo's own long-unresolved fault line — living memory or performed
 heritage — finally gets a real, practical answer, not because the question was ever settled in the abstract,
 but because the wall itself forced a decision.
 
@@ -103,4 +103,4 @@ explicitly unresolved — living memory versus heritage-tourism spectacle — an
 physical object to fight over rather than leaving it an abstract civic mood. The stone wall is uniquely
 suited to this: it's the one artifact in Tepenia that is *literally* still being written, generation after
 generation, which means the question of who gets to add the next panel isn't a metaphor for who gets to
-shape Port Lockroy's memory — it is that question, made physical and immediate.
+shape Puerto Abrigo's memory — it is that question, made physical and immediate.

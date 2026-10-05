@@ -8,9 +8,9 @@ or an epidemiological trace (#16). **Not canon, not chosen, not the only candida
 possibility, beyond this subnet's own already-complete set of ten. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses at least 5 of Palmer subnet's 8 cities** (Rothera, Port Lockroy, Signy — the three surviving cities —
+**Uses at least 5 of Palmer subnet's 8 cities** (Rothera, Puerto Abrigo, Signy — the three surviving cities —
 plus Esperanza and Palmer City as the two destroyed cities whose scattered diaspora this chain centers on;
-the framework itself, once built, naturally extends to Marambio's, Sejong's, and Juan Carlos's own diaspora
+the framework itself, once built, naturally extends to Marambio's, Contrapunto's, and Pergamino's own diaspora
 as well).
 
 **Distinct from Candidate #10.** Candidate #10 asked a substantive policy question — should the subnet keep
@@ -22,8 +22,8 @@ exist.
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **The established fact that five of Palmer subnet's eight cities are destroyed** (Esperanza, Juan Carlos,
-  Marambio, Palmer City, Sejong), with only Rothera, Port Lockroy, and Signy surviving in any populated form.
+- **The established fact that five of Palmer subnet's eight cities are destroyed** (Esperanza, Pergamino,
+  Marambio, Palmer City, Contrapunto), with only Rothera, Puerto Abrigo, and Signy surviving in any populated form.
 - **Each destroyed city's own established diaspora facts** — Esperanza's diaspora carried forward primarily
   by long-lived robot caregivers (Full Extrapolation, Section IV); Palmer City's own diaspora unusually
   scarce, given the Peninsula's distance from Concordia (per Solenne Vaskarre's own established rarity as an
@@ -46,7 +46,7 @@ drawing in both the three surviving cities' current populations and the scattere
 are gone — a straightforward, if ambitious, governance-organizing task.
 
 **BUT** — There's no established precedent for weighting a currently-populated surviving city's own voice
-against a destroyed city's scattered, dispersed diaspora. Rothera, Port Lockroy, and Signy have real,
+against a destroyed city's scattered, dispersed diaspora. Rothera, Puerto Abrigo, and Signy have real,
 present populations living with the actual, ongoing consequences of whatever gets decided. Esperanza's and
 Palmer City's own diaspora communities have real, felt stakes in their former home's memory and future, but
 no longer live with the subnet's day-to-day reality at all.

@@ -17,7 +17,7 @@ Deep Dive or Megasheet files.
 dynamic — Zukelli hasn't been destroyed yet in Stage 1, so this content doesn't exist here by definition.
 Excluded. **Cross-pass note:** Janbogo (city), Gemini's own founding-basis feeder city, is already fully
 baked into the district's core identity per its own Mega_Init and isn't treated as "unused" texture here;
-Esperanza and Sejong (both ranking elsewhere for Gemini) were already used as Cancer's and Libra's own
+Esperanza and Contrapunto (both ranking elsewhere for Gemini) were already used as Cancer's and Libra's own
 feeder-city ideas and aren't reused.
 
 **Already covered (Stage 1):** Gemini was built in the late 2560s–2580s as the Arcanet's central routing
@@ -50,11 +50,11 @@ Capricorn's industrial soundscapes) while leaving several questions explicitly o
    hardware sourcing).
 
 2. **Feeder-city population culture → history.** `City_Refugee_District_Affinities.md`'s own per-city
-   reasoning for Sayowa — a genuine top-tier Gemini feeder city, no Stage 2 Override flag — describes
+   reasoning for Temirötkel — a genuine top-tier Gemini feeder city, no Stage 2 Override flag — describes
    "quiet functional service performed without any interest in credit... small vessel, outsized cargo."
    This is a direct values mismatch with Gemini's own established Speed Faction culture, where being
    first-in and fastest-transmission is the whole point. None of Gemini's own four documents mention
-   Sayowa. A chain about Sayowa-descended arrivals bringing this credit-indifferent service ethos into
+   Temirötkel. A chain about Temirötkel-descended arrivals bringing this credit-indifferent service ethos into
    Gemini's own founding-era information culture — friction, quiet correction, or a population that never
    fully adopted the district's speed-as-virtue norm — would use this unused population contrast.
 

@@ -53,20 +53,20 @@ Cradle chamber-manufacturing sites in the country.
 
 ---
 
-## 5. Stress-Testing — Sejong [Palmer subnet]
+## 5. Stress-Testing — Contrapunto [Palmer subnet]
 
-Sejong was chosen specifically for its wide variety of residential populations, which served as a
+Contrapunto was chosen specifically for its wide variety of residential populations, which served as a
 natural block against Upper-Earth tampering — the sheer demographic density and diversity gave the
-project room to be developed and fine-tuned without unwanted outside interference. Fits Sejong's own
+project room to be developed and fine-tuned without unwanted outside interference. Fits Contrapunto's own
 established King George Island multinational density.
 
 ---
 
-## 6. Shipped Via — Port Lockroy [Palmer subnet]
+## 6. Shipped Via — Puerto Abrigo [Palmer subnet]
 
-The "finished" version (or so everyone thought at the time) shipped out through Port Lockroy's own
-courier network-node. Fits Port Lockroy's established role as a genuine logistics/communications
-waypoint — echoing the real Port Lockroy's own history as the world's most remote post office.
+The "finished" version (or so everyone thought at the time) shipped out through Puerto Abrigo's own
+courier network-node. Fits Puerto Abrigo's established role as a genuine logistics/communications
+waypoint — echoing the real Puerto Abrigo's own history as the world's most remote post office.
 
 ---
 
@@ -77,12 +77,12 @@ came underway.
 
 **The original planned route, established 2026-07-17:** before the war intervened, Calethina's shipment
 was never meant to go anywhere near Amundsen-Scott Station or Concordia at all — it was heading back to
-Mawson, the city that originally requested her (Step 1). From Port Lockroy, the plan was up Hwy 1 to
+Mawson, the city that originally requested her (Step 1). From Puerto Abrigo, the plan was up Hwy 1 to
 Marambio, then either of two equally plausible ways across to the Halley subnet: by ship to somewhere on
 the coast — likely Belgrano or Sanay, both on Hwy 7 ("the Atlantic Highway") — or by air, out of
 Marambio's own airfield, direct to Troll (also on Hwy 7, between Sanay and Lazar). Either way, the route
 converges on the same overland tail from there: Hwy 7 onward to Lazar, Hwy 7-ext from Lazar through
-Princess Elisabeth to the Sayowa Junction, and finally Hwy 4 from the Sayowa Junction into Mawson itself.
+Utstein to the Temirötkel Junction, and finally Hwy 4 from the Temirötkel Junction into Mawson itself.
 A long, entirely ordinary logistics route, four subnets and one crossing by sea or air, ending exactly
 where the whole project began — and which specific crossing it would have been is genuinely irrelevant,
 since neither ever happened. The onset of the war is what forced Tepenia's hand into the reroute
@@ -118,7 +118,7 @@ The reroute succeeded — Calethina was routed through Amundsen-Scott Station, a
 collected information compromising Upper Earth, now carried alongside (or in place of) her original
 purpose-built knowledge base. From here, she was forwarded onward to Concordia.
 
-**The physical route, established 2026-07-17:** the reroute traveled Port Lockroy → Byrd via Hwy 1,
+**The physical route, established 2026-07-17:** the reroute traveled Puerto Abrigo → Byrd via Hwy 1,
 then Byrd → Amundsen-Scott Station via Hwy 22, then Amundsen-Scott Station → Concordia via Hwy 22 to
 its junction with Hwy 175, then Hwy 175 to its junction with Hwy 183 near Janbogo, then Hwy 183 into
 Concordia — the same highway network confirmed in `Locations/Infrastructure/Highways.md`. Hwy 1's

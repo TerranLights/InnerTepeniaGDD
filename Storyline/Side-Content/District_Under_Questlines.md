@@ -1420,7 +1420,7 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 ### 3. Failed Somewhere Else First
 **Starting point:** the Overflow Welcome Office, intake for the majority of Hub residents who arrive by elimination.
 **Chain:** a new arrival resents being told, gently, that "principled rootlessness" is the district's founding virtue — to them, it just sounds like a nicer word for having failed to belong anywhere else.
-**Fork:** help them find genuine pride in the identity over time, the way most Hub-arrived residents eventually do; validate their resentment, and help them find ways to stay connected to their origin district instead of assimilating fully; or connect them with a Sayowa-descended mentor, whose very different relationship to the same identity might reframe the whole question.
+**Fork:** help them find genuine pride in the identity over time, the way most Hub-arrived residents eventually do; validate their resentment, and help them find ways to stay connected to their origin district instead of assimilating fully; or connect them with a Temirötkel-descended mentor, whose very different relationship to the same identity might reframe the whole question.
 **Consequence-test:** can a virtue built out of other places' rejections ever feel like something chosen, rather than something settled for?
 **Source:** Full Extrapolation Section IV; Community Infrastructure & Social Life — The Overflow Welcome Office.
 
@@ -1502,11 +1502,11 @@ Each candidate's **consequence-test** applies the method's own default rule: whe
 **Source:** Community Infrastructure & Social Life — Bridge Memorial Silent Vigils; Full Extrapolation Section I.
 
 ### 15. The Mentor Who Wants to Belong
-**Starting point:** Sayowa-Style Crossroads Mentorship, where the senior Sayowa-descended council facilitator (Notable Figure) mentors newer overflow arrivals in embracing rootlessness.
+**Starting point:** Temirötkel-Style Crossroads Mentorship, where the senior Temirötkel-descended council facilitator (Notable Figure) mentors newer overflow arrivals in embracing rootlessness.
 **Chain:** one mentee, unlike every prior success story, doesn't want to embrace rootlessness at all — they want, more than anything, to belong fully to one single district identity, and the mentor's whole practiced wisdom has no answer for that.
 **Fork:** help the mentee find genuine belonging in a specific district despite their Hub-arrived status; help the mentor develop a real answer for mentees who don't want what the mentorship offers; or let the mismatch stand, with the mentee simply leaving the mentorship unresolved.
 **Consequence-test:** does a mentorship built on the crossroads' own confident philosophy have room for someone the philosophy genuinely doesn't fit?
-**Source:** Community Infrastructure & Social Life — Sayowa-Style Crossroads Mentorship; Full Extrapolation Section IV.
+**Source:** Community Infrastructure & Social Life — Temirötkel-Style Crossroads Mentorship; Full Extrapolation Section IV.
 
 ### 16. Dressed Like Nowhere, On Purpose
 **Starting point:** the Hub's own visual marker — mismatched, multi-district dress signaling belonging to no single place (Full Extrapolation Section II).

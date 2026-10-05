@@ -123,7 +123,7 @@ Additional recruitable companions to be designed.
 - **Imelda Sánchez (DLC 3: Palmer) — re-designated 2026-07-20 → 2026-08-15.** Originally added to the main-game
   44-companion roster in the 2026-07-20 expansion; moved here 2026-08-15 once her Quick Capture seed
   (`Worldspace/Characters/Dolls/Methodology/00e_Quick_Capture_Seed_Batch_Input_[rewritable].txt`) established a
-  personal history and companion mechanic entirely native to the Palmer subnet (Sejong → Palmer City → Port
+  personal history and companion mechanic entirely native to the Palmer subnet (Contrapunto → Palmer City → Port
   Lockroy → Rothera; her companion perk is explicitly scoped to "the Palmer subnet DLC"). She fills DLC 3's
   previously-open "no companion identity chosen yet" slot; 1-3 companion tier, additional DLC 3 companions TBD.
   See her own `README.md` for full detail.

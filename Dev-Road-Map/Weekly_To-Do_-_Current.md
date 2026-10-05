@@ -181,8 +181,8 @@ town (as I live in a city where there's constantly construction happening everyw
 | Healthcare *(incl. robot maintenance as a civic service)* | 29 *(a floor — a stricter match pushes this toward 35)* |
 | Education | 18 |
 
-**Thirteen cities are missing all six:** Amundsen Station, Byrd, Belgrano, Halley, Dome Fuji, Sayowa, Casey,
-Vostok, Juan Carlos, Marambio, Port Lockroy, Rothera, Signy.
+**Thirteen cities are missing all six:** Amundsen Station, Byrd, Belgrano, Halley, Dome Fuji, Temirötkel, Casey,
+Ariun Nuur, Pergamino, Marambio, Puerto Abrigo, Rothera, Signy.
 
 ## Why this is high priority and not housekeeping
 
@@ -214,7 +214,7 @@ composed**, and every missing industry is load-bearing *specifically* in an Anta
 
 **Two smaller items from the same sweep, tracked separately:** Scott's education sector is object-colonized
 (commemoration of St. Robert standing in for schools, in a city explicitly described as a good place to raise a
-family); Port Lockroy sits at 40% heritage-themed and needs a scale judgment rather than a bug fix.
+family); Puerto Abrigo sits at 40% heritage-themed and needs a scale judgment rather than a bug fix.
 
 ---
 
@@ -672,14 +672,14 @@ in this file, including the rest of "High Priority" below, until done or explici
   left the central location ambiguous) got Mawson-level depth; every other city got proportionate, moderate
   treatment reflecting its own existing depth, never a token pass. **Final totals — every city now has a
   `[City]_Physical_Infrastructure_Attributes.md` file combining both methodologies:**
-  - **Mawson subnet:** Dome Fuji 16 Findings, Mawson 13 (deepest), Sayowa 7
-  - **Mirny subnet:** Mirny 11 (deepest), Kunlun 8, Vostok 8, Casey/Davis/Shirayuki/Sinheung/Zhongshan 7 each
-  - **Halley subnet:** Neumayer 11, Sanay 10, Troll 9 (three deep-treatment cities), Halley/Abowasa/Belgrano/
-    Lazar/Princess Elisabeth 8 each
+  - **Mawson subnet:** Dome Fuji 16 Findings, Mawson 13 (deepest), Temirötkel 7
+  - **Mirny subnet:** Mirny 11 (deepest), Kunlun 8, Ariun Nuur 8, Casey/Davis/Shirayuki/Sinheung/Zhongshan 7 each
+  - **Halley subnet:** Neumayer 11, Sanay 10, Troll 9 (three deep-treatment cities), Halley/Santa Luce/Belgrano/
+    Lazar/Utstein 8 each
   - **Janbogo subnet:** Janbogo 10, Fort McMurdo 10 (two deep-treatment cities), Cape Adare/Denison/Dumont
     d'Urville/Scott 8 each, Zukelli 9
   - **Palmer subnet:** Palmer City 16 (deepest, single clean hub per `DLC_Overview.md`), Esperanza/Juan
-    Carlos/Port Lockroy/Rothera/Sejong/Signy 8 each, Marambio 7
+    Carlos/Puerto Abrigo/Rothera/Contrapunto/Signy 8 each, Marambio 7
 
   This entire high-priority item is now fully resolved — the natural next step, whenever picked up, is
   actually running `DLC_City_Under_Questline_Design_Method.md` against this material (Byrd is still the only
@@ -899,7 +899,7 @@ specs," which stays in `TODO.md` only for now.
   particular) and the `TepenianUniverseTimeline` seed-to-README process still don't cross-reference it.
   Deliberately deferred; low-risk, additive, easy to pick up whenever.
 
-**Housekeeping done alongside this list, 2026-07-23:** Juan Carlos's post-Long-Night-War status — already
+**Housekeeping done alongside this list, 2026-07-23:** Pergamino's post-Long-Night-War status — already
 resolved in-session (Destroyed, targeted for its archive/customs function) but still sitting as an open
 checkbox in `TODO.md` — has been moved to `DONE.md`.
 

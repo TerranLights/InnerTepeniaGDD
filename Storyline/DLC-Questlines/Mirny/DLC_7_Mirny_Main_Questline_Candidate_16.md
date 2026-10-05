@@ -8,7 +8,7 @@ resettlement-policy design, Candidate #13's unification-precedent evaluation, Ca
 crisis, or Candidate #15's credit-attribution/security campaign. **Not canon, not chosen, not the only
 candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Shirayuki, Davis, Mirny, Vostok, Kunlun).
+**Uses 5 of Mirny subnet's 8 cities** (Shirayuki, Davis, Mirny, Ariun Nuur, Kunlun).
 
 ---
 
@@ -21,7 +21,7 @@ candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest
   Shirayuki's own excellent schools, established in the same section.
 - **Mirny Cross-City Patterns, Pattern 2** — Davis's established feeder/enabler role and Mirny's own doubled
   hub function, used here to characterize what these cities' own practical, ongoing needs actually are.
-- **Mirny Cross-City Patterns, Pattern 6** — Vostok's and Kunlun's own established remoteness and mutual
+- **Mirny Cross-City Patterns, Pattern 6** — Ariun Nuur's and Kunlun's own established remoteness and mutual
   -support relationship, used here only to place them as sending cities with a genuine, practical stake in
   where their own most promising people end up.
 - **Explicitly excluded:** any claim about altitude, health, or population-composition changes at Kunlun —
@@ -33,13 +33,13 @@ candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest
 ## The Chain
 
 **SETUP** — A subnet-wide educational and artistic exchange program is proposed, sending promising young
-people from Davis, Mirny, Vostok, and Kunlun to study and train in Shirayuki, drawing on its own established
+people from Davis, Mirny, Ariun Nuur, and Kunlun to study and train in Shirayuki, drawing on its own established
 reputation as a place people already travel to for its culture, not its rankings. The player is asked to
 help organize the exchange — a straightforward, if ambitious, cultural-coordination task.
 
 **BUT** — The program's own genuine appeal creates a real risk: Shirayuki is, by its own established
 character, a place it's "genuinely, uncomplicatedly easy" to want to stay in. Talented young people sent from
-Davis's feeder economy, Mirny's industrial function, or remote Vostok and Kunlun may simply choose to remain
+Davis's feeder economy, Mirny's industrial function, or remote Ariun Nuur and Kunlun may simply choose to remain
 once the exchange ends, draining their home cities of exactly the people those cities most need to sustain
 themselves.
 
@@ -58,7 +58,7 @@ the sending cities' own practical future with binding commitments, or preserve t
 character that is Shirayuki's own defining civic virtue.
 
 **BUT** — The reversal cuts against a clean answer either way. Binding return or service commitments protect
-Davis's, Mirny's, Vostok's, and Kunlun's own long-term talent base — but undermine the freely-chosen,
+Davis's, Mirny's, Ariun Nuur's, and Kunlun's own long-term talent base — but undermine the freely-chosen,
 non-transactional spirit that makes Shirayuki's own culture genuinely what it is, turning a program meant to
 share that spirit into something that contradicts it. A fully voluntary exchange preserves that authentic
 spirit and gives every participant a genuine, uncoerced choice — but does nothing to prevent real brain drain
@@ -91,5 +91,5 @@ civic virtue, not a flaw or a villain — the very quality that makes the city w
 chosen belonging) is exactly what makes protecting the sending cities difficult, giving DLC 7 a dilemma with
 no external antagonist at all. It also gives Shirayuki its first appearance in this five-city run, using its
 own established arts-and-education identity as the actual mechanism rather than background color, and gives
-Davis, Vostok, and Kunlun a shared practical stake — talent retention — distinct from the roles each played
+Davis, Ariun Nuur, and Kunlun a shared practical stake — talent retention — distinct from the roles each played
 in Candidates #11 through #15.

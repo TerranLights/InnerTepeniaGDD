@@ -177,7 +177,7 @@ geography. First-pass sketch, itself still a starting point, not final design:
 - **The Already-Complete** (Concordia's Ossuary Quarter) — effectively pre-built: that district's own existing
   design ("dim blue lighting, walls and pillars made of polished robot frame fragments ['metal bones'], soft
   choral music, snow gently falling inside broken domes") can be adopted directly rather than redesigned.
-- **The Cyclical** (Signy/Princess Elisabeth) — plain, quiet, natural materials, minimal ornament throughout
+- **The Cyclical** (Signy/Utstein) — plain, quiet, natural materials, minimal ornament throughout
   (not just at the center, unlike the pattern used elsewhere) — austere at every scale, in keeping with this
   sect's own humility-focused character.
 - **The Unmeasured/Watchers** (Kunlun) — inherits Kunlun's own existing sky-facing, antenna/observatory
@@ -226,7 +226,7 @@ ask about her beliefs (see "Denominations" above).
     contemplation halls already built around exactly this denomination's territory. No second candidate
     proposed yet; open to suggestion.
   - **The Cyclical** — **Signy** (plainest, quietest, most modest-scale city in Tepenia by its own
-    established design); **Princess Elisabeth** (its nature-oriented, off-grid identity extended to
+    established design); **Utstein** (its nature-oriented, off-grid identity extended to
     sheltering pilgrims en route to the holy mount of Dome Fuji — a waystation role for a small, austere,
     pilgrimage-minded sect).
 - **Holiday hook available and already scaffolded**: `Worldspace/National_Holidays.md`'s underdeveloped

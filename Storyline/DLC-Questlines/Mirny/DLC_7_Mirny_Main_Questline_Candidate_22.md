@@ -6,7 +6,7 @@ running `../DLC_Main_Questline_Design_Method.md` against Mirny subnet, built aro
 only candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md`
 §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Davis, Mirny, Zhongshan, Vostok, Kunlun).
+**Uses 5 of Mirny subnet's 8 cities** (Davis, Mirny, Zhongshan, Ariun Nuur, Kunlun).
 
 ---
 
@@ -19,10 +19,10 @@ only candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_
   population genuinely doesn't seek outside recognition, but a quiet minority wishes the Vestfold Hills'
   remarkable terrain drew more outside acknowledgment.
 - **Mirny Cross-City Patterns, Pattern 3** — the confirmed, project-wide "does genuinely consequential work
-  and receives none of the visible credit for it" theme, used here to justify Vostok's and Kunlun's own
+  and receives none of the visible credit for it" theme, used here to justify Ariun Nuur's and Kunlun's own
   comparable experience of unrecognized scientific contribution.
 - **Explicitly excluded:** any claim about Mountain Pass, the Cradle network, or the player character's own
-  origin — Vostok's and Kunlun's own research work is treated here strictly as unrecognized scientific
+  origin — Ariun Nuur's and Kunlun's own research work is treated here strictly as unrecognized scientific
   contribution in general.
 
 ---
@@ -40,11 +40,11 @@ would experience increased visibility as a real imposition on a way of life they
 a welcome improvement. Promoting Davis widely means overriding a clear majority's own preference to satisfy a
 real but minority wish.
 
-**THEREFORE** — The player has to consult Davis's own broader community, and travel to Vostok and Kunlun —
+**THEREFORE** — The player has to consult Davis's own broader community, and travel to Ariun Nuur and Kunlun —
 both genuinely remote research communities that have never sought outside recognition despite comparable
 scientific value — to understand how they've handled this same question before recommending anything.
 
-**BUT** — The reversal lands once Vostok's and Kunlun's own experience is actually examined: staying
+**BUT** — The reversal lands once Ariun Nuur's and Kunlun's own experience is actually examined: staying
 unrecognized carries real, material costs. Both cities' own genuine scientific contributions go largely
 uncredited and under-resourced nationally, meaning Davis's own recognition-seeking minority isn't chasing
 vanity — they're responding to a real, checkable pattern the contented majority may simply not be the ones
@@ -59,7 +59,7 @@ benefits — funding, resources, national appreciation for genuinely remarkable 
 materially help Davis and address a real cost of its own current obscurity — but overrides a clear
 majority's own established, genuine preference for their quiet way of life, imposing a change most residents
 never actually wanted. Respecting that majority preference honors Davis's own chosen civic character intact
-— but leaves a real, tangible cost unaddressed, the same quiet cost Vostok and Kunlun also carry, for the
+— but leaves a real, tangible cost unaddressed, the same quiet cost Ariun Nuur and Kunlun also carry, for the
 sake of a preference the recognition-seeking minority never got to weigh in on equally.
 
 **THEREFORE** — Consistent with this project's own No Good Endings law, the resolution is the player's own
@@ -85,7 +85,7 @@ choosing at the end, so none reads as a disguised And Then.
 
 This candidate's core asset is that it takes Davis's own established, deliberately minor fault line — a
 quiet minority wanting recognition against a contented majority that doesn't — and gives it real weight by
-checking it against Vostok's and Kunlun's own comparable experience, turning an internal preference question
+checking it against Ariun Nuur's and Kunlun's own comparable experience, turning an internal preference question
 into one with an actual, demonstrable cost on either side. It's also the first candidate in this run whose
 central conflict is a majority's own genuine, unforced preference against a minority's legitimate grievance,
 rather than two external institutions or factions in tension.

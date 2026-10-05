@@ -1,9 +1,11 @@
-# Port Lockroy — Neo-Race Cataloging (Phase 1)
+# Puerto Abrigo — Neo-Race Cataloging (Phase 1)
+
+> **⚠ RENAMED 2026-10-03 (`DR-40`): formerly *Port Lockroy*, the real base's name; now **Puerto Abrigo**.** Any line below that still says "Port Lockroy" names the REAL site (the base, the harbor, Operation Tabarin) or tells the story of the FORMER name (the base was named for Édouard Lockroy). The latter are revisit items. Puerto Abrigo is Spanish, "sheltered harbor"; founders: Chile first (`DR-34`).
 
 **Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
 filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — fifth Palmer subnet city
-finished. Pre-drafted against `City_Enneagram_Personalities/Palmer_Subnet/Port_Lockroy.md`,
-`City_Vision_Notes/Port_Lockroy.md`, and `Port_Lockroy_Mega_Init.md`'s Inspirational Influences
+finished. Pre-drafted against `City_Enneagram_Personalities/Palmer_Subnet/Puerto_Abrigo.md`,
+`City_Vision_Notes/Puerto_Abrigo.md`, and `Port_Lockroy_Mega_Init.md`'s Inspirational Influences
 research per the process requirement. Synthesis Notes (Phase 2) drafted below as a working first pass,
 not yet developer-confirmed as final.
 
@@ -13,7 +15,7 @@ not yet developer-confirmed as final.
 
 - **Nations present, by tier:** Primary — USA. Significant — Germany, France, UK, Mexico, Brazil.
   Notable — Argentina (founding wave), Chile (founding wave). Exact per-nation share % in
-  `Specs/Port_Lockroy.md` and `Official_Population_Census.md`.
+  `Specs/Puerto_Abrigo.md` and `Official_Population_Census.md`.
 - **Geography:** Goudier Island, inside the natural harbor of Port Lockroy, western Antarctic Peninsula
   near Wiencke Island — exceptional natural shelter from open ocean swells. Built during WWII (Operation
   Tabarin, 1944) as a covert British intelligence base.
@@ -24,7 +26,7 @@ not yet developer-confirmed as final.
 
 ## Population Weighting Reference (for future Phase 1c cultural weighting)
 
-*Source: `Specs/Port_Lockroy.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+*Source: `Specs/Puerto_Abrigo.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
 
 | Tier | Nation | Share % |
 |------|--------|---------|
@@ -44,7 +46,7 @@ not yet developer-confirmed as final.
 ## Real-World Parallel Locations (Phase 1b — location identification only, no cultural findings yet)
 
 **Terrain profile:** small, exceptionally sheltered natural-harbor island — matches should favor real
-small harbor islands, ideally with their own wartime/military history given Port Lockroy's own WWII
+small harbor islands, ideally with their own wartime/military history given Puerto Abrigo's own WWII
 origin.
 
 - **USA (Primary):** Monhegan Island, Maine — a small, real sheltered-harbor American island
@@ -52,7 +54,7 @@ origin.
 - **Germany (Significant):** No strong domestic match — flagged as weak.
 - **France (Significant):** Île de Bréhat, Brittany — a real small sheltered French harbor island.
 - **UK (Significant):** Scapa Flow, Orkney — a genuine sheltered natural harbor with real wartime
-  military history, an excellent thematic match given Port Lockroy's own WWII origin (Operation
+  military history, an excellent thematic match given Puerto Abrigo's own WWII origin (Operation
   Tabarin).
 - **Mexico (Significant):** No domestic match — flagged as weakest.
 - **Brazil (Significant):** No domestic match — flagged as weak.
@@ -62,7 +64,7 @@ origin.
 ## City-Type Parallels (Phase 1b-ii — functional/civic identity, not geography)
 
 **City type:** maritime/heritage-tourism port, anchored around the post office — a real heritage
-courier institution central to the city's identity (the real Port Lockroy operates the world's
+courier institution central to the city's identity (the real Puerto Abrigo operates the world's
 southernmost active post office).
 
 - **USA (Primary):** Mystic Seaport, Connecticut — a real American maritime-heritage/tourism town
@@ -70,7 +72,7 @@ southernmost active post office).
 - **Germany (Significant):** No standout domestic match — flagged as weak.
 - **France (Significant):** Saint-Malo — a real French maritime-heritage port town.
 - **UK (Significant):** Whitby — a real UK maritime-heritage town with a strong preserved-history
-  tourism identity, an especially fitting match given Port Lockroy's own British WWII origin.
+  tourism identity, an especially fitting match given Puerto Abrigo's own British WWII origin.
 - **Mexico (Significant):** No standout domestic match — flagged as weak.
 - **Brazil (Significant):** No standout domestic match — flagged as weak.
 
@@ -81,20 +83,20 @@ southernmost active post office).
 **No National Stereotypes compliance note:** every finding below is framed as arising from Port
 Lockroy's own conditions (its layered, never-demolished history and its developing postal-corridor
 role) that a given population's originating patterns fed into or reinforced — never as "this
-population does X because they're from nation Y." Port Lockroy's own founding tension is explicitly
-**not** national (per `Port_Lockroy_Mega_Init.md`: "Port Lockroy's real founding tension was never
+population does X because they're from nation Y." Puerto Abrigo's own founding tension is explicitly
+**not** national (per `Port_Lockroy_Mega_Init.md`: "Puerto Abrigo's real founding tension was never
 national. It's temporal: living memory versus heritage spectacle") — a genuinely different structural
 shape from every other city cataloged so far.
 
-**Pre-existing research folded in (per the process requirement):** Port Lockroy's Enneagram profile is
+**Pre-existing research folded in (per the process requirement):** Puerto Abrigo's Enneagram profile is
 **Feeling (Heart) / Withdrawn / Positive Outlook** — a memory-keeping, legacy-and-meaning identity, but
 quiet and self-contained rather than reaching outward (contrast Palmer City's Feeling/*Assertive*
-profile). `City_Vision_Notes/Port_Lockroy.md` establishes a confirmed development arc: the post office
-is a genuine functioning institution, not a heritage artifact, and Port Lockroy is destined to grow
-into the Palmer subnet's postal-correspondence hub — "Rothera moves the materials; Port Lockroy moves
+profile). `City_Vision_Notes/Puerto_Abrigo.md` establishes a confirmed development arc: the post office
+is a genuine functioning institution, not a heritage artifact, and Puerto Abrigo is destined to grow
+into the Palmer subnet's postal-correspondence hub — "Rothera moves the materials; Puerto Abrigo moves
 the words." `Port_Lockroy_Mega_Init.md`'s Inspirational Influences research grounds this in two
 real-world precedents not tied to any specific nation here: the Roman Cursus Publicus (whose two-tier
-station structure — full waystations vs. quick relay — maps cleanly onto Port Lockroy's own harbor
+station structure — full waystations vs. quick relay — maps cleanly onto Puerto Abrigo's own harbor
 trade vs. postal specialization) and the Mongol Yam System (proof a small node can anchor a
 transformative network). A recurring civic value: memory and preference outlasting practicality — the
 old man's preferred Argentine tobacco stays the cultural favorite even once local hydroponic
@@ -130,7 +132,7 @@ American in origin, reinforcing this population's own thematic weight here.
 - Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
 - Personal space, touching, body language: no strongly distinct local variant surfaced.
 - Conversational patterns in different social situations: quiet, contented, unhurried exchange, matching
-  Port Lockroy's own Feeling/Withdrawn/Positive-Outlook civic personality.
+  Puerto Abrigo's own Feeling/Withdrawn/Positive-Outlook civic personality.
 - Handling and displaying of emotion: no strongly distinct local variant surfaced.
 - Tone of voice: no strongly distinct local variant surfaced.
 
@@ -142,7 +144,7 @@ American in origin, reinforcing this population's own thematic weight here.
 
 **Concepts of:**
 - Self, time, past and future: legacy and memory-keeping as a way of life, not a project — matching
-  Port Lockroy's own established Feeling/Withdrawn/Positive-Outlook civic personality closely: content
+  Puerto Abrigo's own established Feeling/Withdrawn/Positive-Outlook civic personality closely: content
   rather than strained, a gentle keeper of the past.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
@@ -163,7 +165,7 @@ American in origin, reinforcing this population's own thematic weight here.
 
 **Real-world parallel community/communities identified:** Île de Bréhat, Brittany (geography — a real
 small sheltered harbor island) and Saint-Malo (civic type) — a real walled historic corsair port city
-with deep, visibly layered history, an unusually apt structural match for Port Lockroy's own "never
+with deep, visibly layered history, an unusually apt structural match for Puerto Abrigo's own "never
 demolishes its own history, layers eras on top of each other" identity.
 
 #### Surface Culture findings
@@ -314,7 +316,7 @@ in kind to Argentina's connection to Esperanza.
 **Concepts of:**
 - Self, time, past and future: a literal, historical claim to the city's own founding — not just a
   thematic echo, a direct throughline from Operation Tabarin's real British origin to this population's
-  own presence and self-understanding at Port Lockroy today.
+  own presence and self-understanding at Puerto Abrigo today.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: a specific, literal claim on the city's own founding role,
   given Operation Tabarin's real British origin.
@@ -444,19 +446,19 @@ itemized per the full depth standard rather than condensed, but no invented text
 
 **Working name: "Lockroyan."** *(Placeholder, same status as every other city's working name so far.)*
 
-Port Lockroy is the first city cataloged whose founding tension is explicitly temporal rather than
+Puerto Abrigo is the first city cataloged whose founding tension is explicitly temporal rather than
 national — living memory versus heritage spectacle, not founder-nation versus present majority — and
 its neo-culture should be built around that axis rather than forced into the usual population-weighted
 framing. UK and France both carry outsized authenticity here for different reasons: UK through a literal
 historical tie (Operation Tabarin was a real British operation), France through an unusually precise
-structural echo (Saint-Malo's own layered-architecture character matching Port Lockroy's "never
+structural echo (Saint-Malo's own layered-architecture character matching Puerto Abrigo's "never
 demolishes its history" identity almost exactly). USA supplies the dominant Feeling/Withdrawn/
 Positive-Outlook civic register via Mystic Seaport. Germany, Brazil, and Mexico are all genuinely thin
 here — unlike Marambio, a check for a missed inter-city corridor connection found none; this reads as
 an honest three-way weak result rather than an under-researched one.
 
 **A structural detail worth carrying forward into future Course of Events work:** the confirmed
-postal-corridor destiny ("Rothera moves the materials; Port Lockroy moves the words") gives this quiet,
+postal-corridor destiny ("Rothera moves the materials; Puerto Abrigo moves the words") gives this quiet,
 Withdrawn-profile city a genuine, growing outward-facing function it doesn't yet fully inhabit — a
 believable seed for a slow civic-identity shift across the Second Interwar Period, matching the
-proposed development arc already sketched in `City_Vision_Notes/Port_Lockroy.md`.
+proposed development arc already sketched in `City_Vision_Notes/Puerto_Abrigo.md`.

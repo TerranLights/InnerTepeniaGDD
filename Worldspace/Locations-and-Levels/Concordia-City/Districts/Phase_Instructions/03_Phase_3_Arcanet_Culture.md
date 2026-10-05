@@ -41,7 +41,7 @@ Arcanet Culture something physical to attach to — network infrastructure has a
 2. **Sagittarius's own incidental mentions** (Mega_Init/README) — the second district with existing material,
    also needing promotion into a dedicated Finding.
 3. **`feedback_extreme_altitude_arcanet` memory / its underlying source** — established canon that
-   extreme-altitude outer locations (Dome Fuji, Kunlun, Vostok) have basically no Arcanet presence. Check
+   extreme-altitude outer locations (Dome Fuji, Kunlun, Ariun Nuur) have basically no Arcanet presence. Check
    whether an analogous "low-connectivity" district exists within Concordia (a plausible candidate: Virgo/the
    Undergrid, given its underground, isolated character per the Source Index's own findings) before assuming
    uniform high connectivity across all 13.

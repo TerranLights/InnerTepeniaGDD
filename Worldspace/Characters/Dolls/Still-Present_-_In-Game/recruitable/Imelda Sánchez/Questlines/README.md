@@ -24,5 +24,5 @@ categorical exclusion established first — TBD what that is, likely related to 
 structurally out of her reach.
 
 **Confirmed 2026-08-15:** she is DLC 3 (Palmer)'s first companion (see `README.md`). This questline's routing
-and location work should lean directly into Palmer subnet geography — Rothera, Palmer City, Port Lockroy —
+and location work should lean directly into Palmer subnet geography — Rothera, Palmer City, Puerto Abrigo —
 rather than Concordia.

@@ -5,7 +5,7 @@ running `../DLC_Main_Questline_Design_Method.md` against Mirny subnet, built aro
 investigation with a distributive-justice complication. **Not canon, not chosen, not the only candidate.**
 Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Davis, Mirny, Zhongshan, Vostok, Kunlun).
+**Uses 5 of Mirny subnet's 8 cities** (Davis, Mirny, Zhongshan, Ariun Nuur, Kunlun).
 
 ---
 
@@ -17,7 +17,7 @@ Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Metho
   diverted goods would plausibly move through.
 - **Zhongshan's own established organic, dense demographic character** (Pattern 1), used here to place it as
   a plausible high-demand destination able to pay more for extra supply.
-- **Vostok's and Kunlun's own established remoteness and outside-supply dependency** (Cross-City Throughways,
+- **Ariun Nuur's and Kunlun's own established remoteness and outside-supply dependency** (Cross-City Throughways,
   Throughway 4; Cross-City Patterns, Pattern 2), used here strictly for the general fact of their reliance on
   reliable outside supply, not for any connection to Mountain Pass or the Cradle network.
 - **Explicitly excluded:** any reference to the Cradle chamber network, Mountain Pass, or the player
@@ -40,7 +40,7 @@ real shape before deciding what to do about it.
 
 **BUT** — The reversal lands once the network's full effect on the wider subnet becomes clear: this isn't a
 victimless diversion. Every unit redirected toward Zhongshan's own paying population is a unit that never
-reaches the official, subnet-wide distribution the rest of the network depends on — leaving Vostok and Kunlun,
+reaches the official, subnet-wide distribution the rest of the network depends on — leaving Ariun Nuur and Kunlun,
 already established as genuinely dependent on reliable outside supply, receiving disproportionately less than
 their fair share of an already-scarce resource.
 
@@ -49,17 +49,17 @@ shutting the diversion down actually restores fairness, or simply relocates the 
 Zhongshan onto everyone else.
 
 **BUT** — The reversal cuts against a clean answer either way. Shutting down the diversion restores fairer,
-more equitable allocation across the whole subnet, protecting Vostok's and Kunlun's own genuine reliance on
+more equitable allocation across the whole subnet, protecting Ariun Nuur's and Kunlun's own genuine reliance on
 guaranteed outside supply — but Zhongshan's own dense population experiences a real, immediate cut to supply
 it has already grown to depend on, a real hardship imposed for the sake of more distant cities' own fairness.
 Tolerating the diversion keeps Zhongshan adequately supplied and avoids that immediate hardship — but leaves
-Vostok, Kunlun, and other harder-to-reach destinations receiving disproportionately less of an
+Ariun Nuur, Kunlun, and other harder-to-reach destinations receiving disproportionately less of an
 already-scarce resource, a real, ongoing inequity.
 
 **THEREFORE** — Consistent with this project's own No Good Endings law, the resolution is the player's own
 role in whether the diversion actually gets shut down or tolerated: shut it down, restoring fairness at the
 cost of a real, felt hardship for Zhongshan; or tolerate it, avoiding that hardship at the cost of leaving
-Vostok and Kunlun shortchanged.
+Ariun Nuur and Kunlun shortchanged.
 
 ---
 
@@ -69,7 +69,7 @@ Reading only the conjunctions: SETUP → BUT → THEREFORE → BUT → THEREFORE
 conjunction in a row. Each BUT changes the shape of the problem: the first BUT turns "find the source" into
 "the network spans three cities, not one culprit"; the second BUT turns "map the network" into "shutting it
 down doesn't obviously restore fairness, since fairness itself is now contested"; the third BUT turns "shut it
-down or don't" into "there is no option that doesn't cost either Zhongshan's own accustomed supply or Vostok's
+down or don't" into "there is no option that doesn't cost either Zhongshan's own accustomed supply or Ariun Nuur's
 and Kunlun's own fair share." Deleting any one Complication changes what the player is actually choosing at
 the end, so none reads as a disguised And Then.
 
@@ -79,6 +79,6 @@ the end, so none reads as a disguised And Then.
 
 This candidate's core asset is that its central complication is distributive, not moral — nobody in this
 chain is acting in bad faith, and the actual dilemma is about who a scarce resource should reach first, not
-whether diverting it was wrong. It also gives Vostok and Kunlun a straightforward material stake distinct
+whether diverting it was wrong. It also gives Ariun Nuur and Kunlun a straightforward material stake distinct
 from questions of infrastructure or safety — simply whether they get their fair share of something everyone
 else already has enough of.

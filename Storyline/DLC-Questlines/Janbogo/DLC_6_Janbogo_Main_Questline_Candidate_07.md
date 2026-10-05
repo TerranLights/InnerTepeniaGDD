@@ -7,7 +7,7 @@ Tepenia's three Korean-founded cities. **Not canon, not chosen, not the only can
 "at least 10" the method calls for. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 1 of Janbogo/Ross subnet's 7 cities (Janbogo) as host** — Sejong (Palmer subnet) and Sinheung (Mirny
+**Uses 1 of Janbogo/Ross subnet's 7 cities (Janbogo) as host** — Contrapunto (Palmer subnet) and Sinheung (Mirny
 subnet) appear as visiting delegations, referenced through facts already established in Janbogo's own Full
 Extrapolation rather than developed further here; this candidate doesn't add new material about either city
 beyond what that document already lays out.
@@ -17,21 +17,21 @@ beyond what that document already lays out.
 ## Inputs actually used (Step 1 of the design method)
 
 - **Janbogo's own Full Extrapolation, Section V** — Tepenia's three Korean-founded cities are "kin, not
-  siblings, and not all equally kin": Janbogo (Unified Korea) and Sejong (South Korea) share limited but
+  siblings, and not all equally kin": Janbogo (Unified Korea) and Contrapunto (South Korea) share limited but
   real ceremonial contact; Sinheung reached its Korean-founded status through an entirely different
   mechanism (the Jeju-do diplomatic partition), sits at a far greater geographic and historical remove from
   both, and essentially has no established pre-Split-Brain contact with either. The explicitly named irony:
   Sinheung is, by current population, the most heavily and unambiguously Korean city in Tepenia (34.62%
   Primary), more so than Janbogo, which built and kept the deepest *institutional* Korean legacy (the
   teahouse tradition) despite its own Korean population diluting to Significant tier, and far more so than
-  Sejong, where Korean identity survives only as founding-era naming heritage.
+  Contrapunto, where Korean identity survives only as founding-era naming heritage.
 - **The same section's own explicit invitation** — "if these three communities ever do make genuine contact
   in future DLC content, that contact would surface a real asymmetry" — this candidate is that contact.
 - **Janbogo's own Cross-Reference Synthesis, Finding 2** — Janbogo's real distinguishing civic trait isn't
   any single cultural content but a repeatable process of absorbing and re-originating whatever reaches it
   as simply "Janbogo's own" — a fact this chain treats as a genuine, live question about the teahouse
   tradition's own authenticity, not just a neutral civic compliment.
-- **Explicitly excluded:** any new material about Sejong's or Sinheung's own internal culture beyond what
+- **Explicitly excluded:** any new material about Contrapunto's or Sinheung's own internal culture beyond what
   Janbogo's own Full Extrapolation already states; this chain doesn't develop those two cities further, it
   only brings their already-established facts into direct, in-person contact with Janbogo's own.
 
@@ -39,7 +39,7 @@ beyond what that document already lays out.
 
 ## The Chain
 
-**SETUP** — A cultural exchange, unprecedented in living memory, brings small delegations from Sejong and
+**SETUP** — A cultural exchange, unprecedented in living memory, brings small delegations from Contrapunto and
 Sinheung to Janbogo specifically because of their shared Korean founding heritage — the first genuine,
 in-person contact between all three communities. Janbogo's own established hospitality-and-synthesis civic
 identity makes it a natural host. The player is asked to help organize and facilitate the visit — a
@@ -48,7 +48,7 @@ straightforward cultural-liaison task, expected to be a warm, kinship-affirming 
 **BUT** — Contact makes the established asymmetry immediately, uncomfortably visible in a way the abstract
 fact never was. Sinheung's delegation, by far the most Korean city in Tepenia by population, has the least
 developed institutional Korean culture to actually show for it — their civic identity centers on other
-things entirely. Sejong's own Korean identity amounts to little more than founding-era naming heritage.
+things entirely. Contrapunto's own Korean identity amounts to little more than founding-era naming heritage.
 Janbogo's own delegation carries the deepest lived Korean tradition of the three, the teahouse and
 everything built around it — despite being, by the numbers, the least Korean of the three going forward.
 Each delegation arrived expecting some form of kinship or validation and instead encounters a version of

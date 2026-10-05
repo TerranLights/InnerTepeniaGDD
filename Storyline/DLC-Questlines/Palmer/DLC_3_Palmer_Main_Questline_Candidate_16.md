@@ -8,7 +8,7 @@ physical route (#11), a functional retrospective (#12), a supply coalition (#13)
 sixteenth possibility, beyond this subnet's own already-complete set of ten. Uses the Linear Escalation
 Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Rothera, Marambio, Esperanza, Port Lockroy, Signy) — a production
+**Uses 5 of Palmer subnet's 8 cities** (Rothera, Marambio, Esperanza, Puerto Abrigo, Signy) — a production
 node, two distribution nodes, and two consuming cities where symptoms first surface.
 
 ---
@@ -23,7 +23,7 @@ node, two distribution nodes, and two consuming cities where symptoms first surf
 - **Signy's own established siligel scarcity** (Candidate #1's own grounding) — a city already dependent on
   outside supply for its robot population's basic needs, with no local production of its own, making it a
   genuine consuming endpoint for whatever actually reaches it.
-- **Port Lockroy's own small, intimate population** — Tepenia's second-smallest city, where any localized
+- **Puerto Abrigo's own small, intimate population** — Tepenia's second-smallest city, where any localized
   health event would be immediately, visibly significant given how few residents there are to begin with.
 - **Explicitly excluded:** any claim that this contamination connects to Signy's own original siligel
   shortage (Candidate #1) — this is a distinct, later event: a supply-chain quality problem, not a supply
@@ -34,7 +34,7 @@ node, two distribution nodes, and two consuming cities where symptoms first surf
 ## The Chain
 
 **SETUP** — Reports surface of robots falling ill or malfunctioning after consuming siligel in multiple,
-seemingly unconnected cities across the subnet — Port Lockroy and Signy among them. The player is asked to
+seemingly unconnected cities across the subnet — Puerto Abrigo and Signy among them. The player is asked to
 trace the contamination back to its actual source before it spreads further or causes serious harm — a
 straightforward, if urgent, investigative task.
 

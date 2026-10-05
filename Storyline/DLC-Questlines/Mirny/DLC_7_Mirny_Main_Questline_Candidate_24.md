@@ -5,7 +5,7 @@ running `../DLC_Main_Questline_Design_Method.md` against Mirny subnet, built aro
 response competing against an existing manufacturing commitment. **Not canon, not chosen, not the only
 candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Davis, Zhongshan, Mirny, Sinheung, Vostok).
+**Uses 5 of Mirny subnet's 8 cities** (Davis, Zhongshan, Mirny, Sinheung, Ariun Nuur).
 
 ---
 
@@ -21,7 +21,7 @@ candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest
   general logistics-coordination role.
 - **Sinheung's own established post-war reconstruction needs**, used here only as a general, ordinary
   rebuilding priority, not connected to its chamber-manufacturing role.
-- **Vostok's own established research legacy**, used here strictly for its general environmental-monitoring
+- **Ariun Nuur's own established research legacy**, used here strictly for its general environmental-monitoring
   and research-methodology experience, not for any connection to Mountain Pass or the Cradle network.
 - **Explicitly excluded:** any reference to the Cradle chamber network, Mountain Pass, or the player
   character's own origin.
@@ -39,7 +39,7 @@ urgent, environmental-crisis task.
 precision-manufacturing sector can build on short notice, delivered through Mirny's own logistics hub. But
 Zhongshan's manufacturing capacity is already fully committed to an existing, previously promised order.
 
-**THEREFORE** — The player has to travel to Zhongshan and consult Vostok's own research methodology to
+**THEREFORE** — The player has to travel to Zhongshan and consult Ariun Nuur's own research methodology to
 understand exactly what equipment is actually needed, then negotiate whether and how Zhongshan's existing
 commitment can be adjusted.
 

@@ -8,7 +8,7 @@
   pursuits and interests, creating 'technological art' — assembling ideas in interesting new ways"*** *[Sourced].*
   **Her yardstick is whether the thing she assembled is interesting — not anyone's opinion of it.**
 * ⭐ **To her own autonomy** — *explicitly:* ***"where she doesn't need to answer to anyone"*** *[Sourced].*
-* ⚠ **To the Juan Carlos friends — unstated, unadvertised, and real.** *See `Relationships.md`.*
+* ⚠ **To the Pergamino friends — unstated, unadvertised, and real.** *See `Relationships.md`.*
 
 ## ⭐⭐ The Public / Private Values Gap *(Stage 2)*
 

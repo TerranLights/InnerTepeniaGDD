@@ -20,8 +20,8 @@ Deep Dive and full pre-war Megasheet trio are exactly as dense as any other non-
 `Historical_Pressures.md`, `Historical_Inter-District_Effects.md`, `Regional-Characteristics/District_Prominent_Features.md`.
 **Staging check:** `Staging/10_Hub_Bridge_Memorial_Sayowa_Reading.md` concerns the Bridge Memorial itself,
 which is entirely war-caused and doesn't exist in this document at all (the Mega_Init's own explicit
-"genuine-reinvention" scope note) — Stage 2, excluded. The *relationship* underneath it (Hub/Sayowa) is
-Stage 1 and already substantially covered below. **Cross-pass note:** Sayowa (Hub's own top feeder city)
+"genuine-reinvention" scope note) — Stage 2, excluded. The *relationship* underneath it (Hub/Temirötkel) is
+Stage 1 and already substantially covered below. **Cross-pass note:** Temirötkel (Hub's own top feeder city)
 was already used as Gemini's own Lens 2 idea; Esperanza (3rd tier here) was already used for Cancer.
 Neither is reused.
 
@@ -36,9 +36,9 @@ underlying founding-era civic character. The Full_Extrapolation resolves a found
 marker (neutral, mixed-signifier dress, taking a generation or two to become legible), explicitly declines
 to answer the Bridge Memorial's own reading-table question since no memorial exists yet, resolves pace
 (a cultivated, professionally neutral evenness, needed from the district's very first mediating function),
-and extends the Sayowa-descended/Hub-arrived-by-elimination asymmetry across the full pre-war period rather
+and extends the Temirötkel-descended/Hub-arrived-by-elimination asymmetry across the full pre-war period rather
 than the post-war document's much shorter window. The Cross_Reference_Synthesis's Finding 1 establishes
-that the Hub/Sayowa relationship itself predates the Bridge Memorial by centuries — the landmark is
+that the Hub/Temirötkel relationship itself predates the Bridge Memorial by centuries — the landmark is
 war-caused, the relationship isn't. Finding 2 identifies the Hub as one of only two districts in the whole
 pre-war series with no "proof without payoff" instance to lose by moving pre-war, since its exemption
 follows from founding design rather than war circumstance — making it, uniquely among all thirteen
@@ -55,13 +55,13 @@ patchwork architecture) and was the final Vision Notes session of all thirteen, 
    traffic actually converged — would close a gap the source material itself flags as open.
 
 2. **Feeder-city population culture → history.** `City_Refugee_District_Affinities.md`'s own per-city
-   reasoning for Princess Elisabeth — a genuine top-tier Hub feeder city, no Stage 2 Override flag —
-   describes "a purer, more passive version of Sayowa's own crossroads pride": total, actively-maintained
+   reasoning for Utstein — a genuine top-tier Hub feeder city, no Stage 2 Override flag —
+   describes "a purer, more passive version of Temirötkel's own crossroads pride": total, actively-maintained
    dependency and a demographic crossroads that never became a defended identity. This is explicitly
-   differentiated from Sayowa in the source material itself, making it a distinct population match rather
-   than a duplicate. None of the Hub's own four documents mention Princess Elisabeth. A chain about
+   differentiated from Temirötkel in the source material itself, making it a distinct population match rather
+   than a duplicate. None of the Hub's own four documents mention Utstein. A chain about
    Princess-Elisabeth-descended arrivals bringing this passive, non-defended relationship to crossroads
-   identity into the Hub — distinct from Sayowa's own more actively-articulated theorizing role (Full
+   identity into the Hub — distinct from Temirötkel's own more actively-articulated theorizing role (Full
    Extrapolation §IV) — would use this unused, deliberately-differentiated population match.
 
 3. **Real-world historical precedent.** `District-Inspirational-Influences.md` lists Casablanca (WWII-era)

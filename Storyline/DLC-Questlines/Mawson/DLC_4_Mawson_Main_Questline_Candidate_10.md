@@ -8,7 +8,7 @@ rather than any single city's own material. **Not canon, not chosen, not the onl
 the "at least 10" the method calls for. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses all 3 of Mawson subnet's cities** (Mawson, Sayowa, Dome Fuji).
+**Uses all 3 of Mawson subnet's cities** (Mawson, Temirötkel, Dome Fuji).
 
 ---
 
@@ -16,7 +16,7 @@ the "at least 10" the method calls for. Uses the Linear Escalation Chain schemat
 
 - **Mawson Subnet Full Extrapolation, Section I** — the subnet's own dominant trait, named directly: "a
   subnet defined more by its outward connections than by any shared internal identity." Mawson carries the
-  hub's quiet acceptance, oriented toward the whole nation; Sayowa carries pure connective function, oriented
+  hub's quiet acceptance, oriented toward the whole nation; Temirötkel carries pure connective function, oriented
   toward Halley subnet and Concordia; Dome Fuji carries the subnet's one self-contained identity, oriented
   doctrinally toward Kunlun in an entirely different subnet.
 - **Mawson Subnet Cross-City Throughways, Throughways 1 and 3** — Dome Fuji's deepest relationships reach
@@ -42,7 +42,7 @@ what it connects to outside the subnet than by anything shared among themselves.
 facilitate the conversation — a straightforward "decide your own future together" planning task.
 
 **BUT** — The three cities genuinely don't share much to build a coordinated identity on. Mawson's whole
-character points toward the nation at large; Sayowa's real significance points toward Halley subnet and
+character points toward the nation at large; Temirötkel's real significance points toward Halley subnet and
 Concordia; Dome Fuji's deepest relationship points doctrinally toward Kunlun, in Mirny subnet, and its
 population holds almost no lived connection to the rest of Tepenia at all, let alone to its own nominal
 subnet-mates. Manufacturing a shared "Mawson subnet identity" from nothing would mean inventing something

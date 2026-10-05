@@ -17,7 +17,7 @@ deliberately: this story doesn't need a third city to be complete, and forcing o
   visible self-promotion is mildly distasteful here, consistent with the founding namesake's own
   unglamorous competence."
 - **Davis's own Full Extrapolation, Section I** — Davis's own genuinely distinct research niche: paleoclimate
-  reconstruction from layered lake-sediment cores, methodologically distinct from Vostok's and Kunlun's
+  reconstruction from layered lake-sediment cores, methodologically distinct from Ariun Nuur's and Kunlun's
   ice-core work.
 - **Davis's own Full Extrapolation, Section VII** — a real, established minority fault line: most residents
   genuinely don't want outside attention, but a minority quietly wish the Vestfold Hills' remarkable terrain

@@ -1,9 +1,11 @@
-# Vostok — Neo-Race Cataloging (Phase 1)
+# Ariun Nuur — Neo-Race Cataloging (Phase 1)
+
+> **⚠ RENAMED 2026-10-03 (`DR-42`): formerly *Vostok*, after the real Soviet and Russian station; now **Ariun Nuur**.** **The central scientific district keeps the name "Vostok"**, in honor of the scientists of the past. Any line below that still says "Vostok" names the REAL station or Lake Vostok, or tells the story of the FORMER name (the Russian and Soviet reputation, "Vostokan"/"Vostokian" demonyms). The latter are revisit items. Ariun Nuur is Mongolian (Ариун Нуур), "the pure lake"; founders: Künnarantaiga and Mongolia (`DR-35`).
 
 **Status:** City Snapshot filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** —
 sixth Mirny subnet city finished, drafted at full 12+17 depth from the start per the standing standard.
-Pre-drafted against `City_Enneagram_Personalities/Mirny_Subnet/Vostok.md`, `City_Vision_Notes/
-Vostok.md`, and `Vostok_Mega_Init.md`'s Inspirational Influences research per the process requirement.
+Pre-drafted against `City_Enneagram_Personalities/Mirny_Subnet/Ariun_Nuur.md`, `City_Vision_Notes/
+Ariun_Nuur.md`, and `Vostok_Mega_Init.md`'s Inspirational Influences research per the process requirement.
 Synthesis Notes (Phase 2) drafted below as a working first pass, not yet developer-confirmed as final.
 
 ---
@@ -11,7 +13,7 @@ Synthesis Notes (Phase 2) drafted below as a working first pass, not yet develop
 ## City Snapshot
 
 - **Nations present, by tier:** Primary — USA, Japan. Significant — South Korea, Canada, Indonesia,
-  Australia. Notable — New Zealand, Chile. Exact per-nation share % in `Specs/Vostok.md` and
+  Australia. Notable — New Zealand, Chile. Exact per-nation share % in `Specs/Ariun_Nuur.md` and
   `Official_Population_Census.md`. **Note:** current population composition is unconnected to the original
   founding Russian community — an ambient, unexplained gap, not a traceable historical event.
 - **Geography:** Near the Southern Pole of Inaccessibility, East Antarctic Plateau, 3,488m elevation —
@@ -24,7 +26,7 @@ Synthesis Notes (Phase 2) drafted below as a working first pass, not yet develop
 
 ## Population Weighting Reference (for future Phase 1c cultural weighting)
 
-*Source: `Specs/Vostok.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+*Source: `Specs/Ariun_Nuur.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
 
 | Tier | Nation | Share % |
 |------|--------|---------|
@@ -54,13 +56,13 @@ ground, and nothing outside the polar regions themselves truly matches it.
 - **Japan (Primary):** No domestic match — flagged as weak.
 - **South Korea (Significant):** No domestic match — flagged as weak.
 - **Canada (Significant):** Eureka, Nunavut — one of the coldest permanently-staffed settlements in
-  the Canadian Arctic; still far milder than Vostok's record cold, but the closest available
+  the Canadian Arctic; still far milder than Ariun Nuur's record cold, but the closest available
   real-world "extreme cold, extreme isolation" match found anywhere in this project.
 - **Indonesia (Significant):** No match — flagged as weakest.
 - **Australia (Significant):** No match — flagged as weakest.
 
 **Design note carried forward:** same category as Halley — worth deciding explicitly in Phase 2
-whether Vostok's synthesis should draw on "communities enduring extreme sustained cold" as a category
+whether Ariun Nuur's synthesis should draw on "communities enduring extreme sustained cold" as a category
 substitute rather than forcing a literal terrain match.
 
 ---
@@ -77,10 +79,10 @@ before being repurposed in 2012 into a precise, minimal gene-editing tool — a 
 Lake Vostok's own 15-25-million-year-sealed ecosystem, and a real-world shape for the resident
 geneticist's own breakthrough), **Materials Innovation Platforms** (an NSF research-infrastructure
 program built on the premise that some science is too complex for any single mind to hold, requiring
-genuine distributed, collective understanding — direct validation of Vostok's own confirmed
+genuine distributed, collective understanding — direct validation of Ariun Nuur's own confirmed
 too-vast-for-one-mind research archive), and **ChemMatCARS** (a shared national research facility many
 separate programs depend on rather than each building their own — a concrete, real-world-grounded shape
-for Vostok's own established "two loneliest outposts" relationship with Kunlun, suggesting genuine
+for Ariun Nuur's own established "two loneliest outposts" relationship with Kunlun, suggesting genuine
 shared infrastructure and mutual dependency rather than only emotional companionship).
 
 - **USA (Primary):** Cold Spring Harbor Laboratory, New York — a real, nationally significant US
@@ -96,16 +98,16 @@ shared infrastructure and mutual dependency rather than only emotional companion
 
 ## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-**No National Stereotypes compliance note:** every finding below is framed as arising from Vostok's own
+**No National Stereotypes compliance note:** every finding below is framed as arising from Ariun Nuur's own
 conditions (its extreme cold and isolation, its too-vast-for-one-mind genetics research archive, and
 its "not work, it's life" civic ethos) that a given population's originating patterns fed into or
-reinforced — never as "this population does X because they're from nation Y." Vostok's current
+reinforced — never as "this population does X because they're from nation Y." Ariun Nuur's current
 population composition is entirely unconnected to the original founding Russian community, an ambient,
 unexplained gap rather than a traceable historical event; the founding community's own fate is unaddressed
 in current canon — every finding below describes the present-day population, not an inherited Russian
 founding culture.
 
-**Pre-existing research folded in (per the process requirement):** Vostok's Enneagram profile is
+**Pre-existing research folded in (per the process requirement):** Ariun Nuur's Enneagram profile is
 **Thinking (Head) / Withdrawn / Positive Outlook** — the same triad as Kunlun, mirroring its "one
 enormous distributed instrument" identity but built around genetics rather than astronomy. Its research
 archive is confirmed so vast and complex that no single individual, human or robot, fully understands
@@ -116,7 +118,7 @@ lived rather than endured — the same "not work, it's life" ethos established a
 2012 breakthrough (an ancient, naturally-occurring mechanism repurposed through precision rather than
 brute force — a direct thematic echo of Lake Vostok's own long-sealed ecosystem) and in Materials
 Innovation Platforms' own real precedent for genuinely distributed, collective scientific
-understanding. ChemMatCARS grounds the established "two loneliest outposts" Vostok-Kunlun relationship
+understanding. ChemMatCARS grounds the established "two loneliest outposts" Ariun Nuur-Kunlun relationship
 in a concrete, real-world shape: shared infrastructure and mutual dependency between geographically
 isolated but functionally connected research sites, not just emotional companionship.
 
@@ -125,8 +127,8 @@ isolated but functionally connected research sites, not just emotional companion
 **Real-world parallel community/communities identified:** no domestic extreme-cold-isolation geography
 match (weak) — carried by Cold Spring Harbor Laboratory (civic type, a real, nationally significant
 genetics-research institution) and enriched by CRISPR, Materials Innovation Platforms, and ChemMatCARS
-— three additional, precisely-matched precedents grounding Vostok's own defining traits directly. The
-most richly, precisely anchored population at Vostok.
+— three additional, precisely-matched precedents grounding Ariun Nuur's own defining traits directly. The
+most richly, precisely anchored population at Ariun Nuur.
 
 #### Surface Culture findings
 - **Food:** no strongly distinct local variant surfaced.
@@ -171,7 +173,7 @@ most richly, precisely anchored population at Vostok.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
-- Rule expectations, work, authority: work treated as identity rather than labor, echoing Vostok's own
+- Rule expectations, work, authority: work treated as identity rather than labor, echoing Ariun Nuur's own
   "not work, it's life" ethos shared with Kunlun.
 - Cooperation vs. competition: genuinely collaborative, shared-infrastructure orientation — one node in
   a small, informal network of extreme-isolation research sites depending on mutual support rather than
@@ -182,7 +184,7 @@ most richly, precisely anchored population at Vostok.
 - Religion, courtship, marriage: no strongly distinct local variant surfaced.
 - Raising children, decision-making, problem solving: patient, incremental discovery of something
   ancient and long-sealed, echoing both CRISPR's own real millions-of-years-hidden origin and Lake
-  Vostok's own 15-25-million-year-sealed ecosystem.
+  Ariun Nuur's own 15-25-million-year-sealed ecosystem.
 
 ---
 
@@ -243,7 +245,7 @@ there.
 ### Canada (Significant, 13.90%)
 
 **Real-world parallel community/communities identified:** Eureka, Nunavut (geography — one of the
-coldest permanently-staffed settlements in the Canadian Arctic, still far milder than Vostok's own
+coldest permanently-staffed settlements in the Canadian Arctic, still far milder than Ariun Nuur's own
 record cold, but the closest available real-world "extreme cold, extreme isolation" match found
 anywhere in this project) — no single dedicated genetics-research-town match (City-Type — weak).
 
@@ -277,7 +279,7 @@ anywhere in this project) — no single dedicated genetics-research-town match (
 
 **Concepts of:**
 - Self, time, past and future: sustained extreme-cold endurance as a lived, first-hand-adjacent
-  identity — of every population at Vostok, this one's homeland precedent most directly matches the
+  identity — of every population at Ariun Nuur, this one's homeland precedent most directly matches the
   city's own actual physical conditions, despite the weak City-Type match.
 - Fairness and justice: no strongly distinct local variant surfaced.
 - Roles related to age, sex, class, family: no strongly distinct local variant surfaced.
@@ -322,7 +324,7 @@ single-mission City-Type categories, despite a substantial population share here
 - Facial expressions, gestures, eye contact: no strongly distinct local variant surfaced.
 - Personal space, touching, body language: no strongly distinct local variant surfaced.
 - Conversational patterns in different social situations: warm and relational as a general diaspora
-  baseline, though without a strong local anchor to give it Vostok-specific texture.
+  baseline, though without a strong local anchor to give it Ariun Nuur-specific texture.
 - Handling and displaying of emotion: no strongly distinct local variant surfaced.
 - Tone of voice: no strongly distinct local variant surfaced.
 
@@ -458,7 +460,7 @@ match (weak) — carried by Daedeok Innopolis (civic type, the same match used a
 
 **Working name: "Vostokian"** *(placeholder; not yet developer-confirmed).*
 
-Vostok mirrors Kunlun almost exactly in structure — no genuine real-world non-polar analog for its
+Ariun Nuur mirrors Kunlun almost exactly in structure — no genuine real-world non-polar analog for its
 extreme cold and isolation (the same category as Halley), a Thinking/Withdrawn/Positive-Outlook civic
 personality, and a "not work, it's life" ethos — but built around genetics rather than astronomy. USA
 carries disproportionate narrative weight, anchored by four distinct real-world precedents (Cold Spring
@@ -468,7 +470,7 @@ Kunlun in genuine documented parallels rather than invented assertions. Canada h
 available real-world geography match (Eureka, Nunavut) despite a weak City-Type anchor — the same
 population/narrative-weight decoupling pattern seen throughout this project. Indonesia and Australia
 both read thin, consistent with the established pattern for narrow, single-mission City-Type categories
-rather than any Vostok-specific weakness.
+rather than any Ariun Nuur-specific weakness.
 
 **Worth flagging, not resolved here:** the founding Russian community's fate is entirely unaddressed in
 current canon, and the current population's own language and daily-use culture carries a genuine
@@ -478,9 +480,9 @@ resolution to that gap. The resident geneticist, Charlene (XT-17), is a named in
 rather than a population-level cultural finding and belongs in future Course of Events or companion
 material, not this catalog.
 
-**Worth flagging for the eventual cross-city comparison:** Vostok and Kunlun share the exact same
+**Worth flagging for the eventual cross-city comparison:** Ariun Nuur and Kunlun share the exact same
 Enneagram triad and the same "not work, it's life" ethos, now grounded in a genuine, concrete shared-
 infrastructure relationship (per ChemMatCARS) rather than only emotional companionship — worth treating
-as a matched pair once any future Vostok-Kunlun relationship content is developed, given the real
+as a matched pair once any future Ariun Nuur-Kunlun relationship content is developed, given the real
 timeline constraint already identified in Kunlun's own Cross-Reference Synthesis (the relationship
 couldn't predate Kunlun's own orbital-era facility expansion).

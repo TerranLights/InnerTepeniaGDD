@@ -17,7 +17,7 @@ exactly how the unmarked design is supposed to work).
 
 **What this is:** a second prospective But/Therefore chain for DLC 7's main questline, produced by
 running `../DLC_Main_Questline_Design_Method.md` against Mirny subnet, deliberately using different
-source material from Candidate #1 (which centered on Vostok/Kunlun/Mirny). **Not canon, not chosen, not
+source material from Candidate #1 (which centered on Ariun Nuur/Kunlun/Mirny). **Not canon, not chosen, not
 the only candidate** — the 2nd of the "at least 10" the method calls for. Uses the Linear Escalation Chain
 schematic (`../But_Therefore_Quest_Design_Method.md` §5a), same shape as Candidate #1.
 
@@ -128,6 +128,6 @@ and Shirayuki's own fresh naming acts, and the tri-junction's shared wartime str
 sitting, separately, in established files — this chain's only real contribution is connecting them into
 one causal line and tying that line into the already-established Planetary Split Brain main-story premise,
 which no existing document currently does. Distinct from Candidate #1 in cast (Zhongshan/Sinheung/
-Shirayuki vs. Vostok/Kunlun/Mirny), in theme (collective identity vs. individual civic legitimacy), and in
+Shirayuki vs. Ariun Nuur/Kunlun/Mirny), in theme (collective identity vs. individual civic legitimacy), and in
 climax shape (a question about what a *cluster* is vs. a question about what a *hub* has earned) — worth
 keeping both live as genuinely different directions for DLC 7, not near-duplicates of the same idea.

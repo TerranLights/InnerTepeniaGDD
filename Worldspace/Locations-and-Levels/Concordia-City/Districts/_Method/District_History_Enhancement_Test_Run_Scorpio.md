@@ -16,7 +16,7 @@ Unburdening-booths and Leo/Scorpio-rivalry alternates that didn't make the final
 **Files read:** `Deep_Dives/04_Scorpio_Deep_Dive.md` (Stage 1 section), `District_Megasheets_PreWar/04_Scorpio/Scorpio_Mega_Init.md`,
 `..._Full_Extrapolation.md`, `..._Cross_Reference_Synthesis.md`, `District-Inspirational-Influences.md`
 (Scorpio's 8-entry list), `City_Refugee_District_Affinities.md` (Scorpio's row, reverse-index entry, and
-Marambio/Scott/Vostok's own per-city reasoning), `Historical_Pressures.md` and
+Marambio/Scott/Ariun Nuur's own per-city reasoning), `Historical_Pressures.md` and
 `Historical_Inter-District_Effects.md` (all Scorpio-tagged entries), `Regional-Characteristics/District_Prominent_Features.md`.
 **Staging check:** `Staging/11_Scorpio_Aries_Black_Silence_Connection.md` connects Scorpio's Forbidden
 Archive War to Aries' Black Silence — both are named Long Night War-era events, i.e. Stage 2 material
@@ -54,10 +54,10 @@ practitioners draw on Cradle-chamber-adjacent technology or expertise.
    shows Scorpio has *no* organic 1st-tier feeder city at all — its four best-known refugee populations
    (Belgrano, Palmer City, Zukelli, Casey) are explicitly flagged as a Stage 2 trauma-driven override, "not
    a cultural affinity in the same sense as the rest of this file." Its real, organic Stage-1 match is
-   Vostok (2nd tier): a population with "zero Russian representation inheriting a Russian scientific
+   Ariun Nuur (2nd tier): a population with "zero Russian representation inheriting a Russian scientific
    legend that isn't theirs — a legend living in someone else's house." None of Scorpio's own Stage 1
-   documents mention Vostok, despite that inherited-identity tension being close kin to Scorpio's own
-   founding specialty. A chain about specific Vostok-descended arrivals bringing this particular flavor of
+   documents mention Ariun Nuur, despite that inherited-identity tension being close kin to Scorpio's own
+   founding specialty. A chain about specific Ariun Nuur-descended arrivals bringing this particular flavor of
    identity dissonance to Scorpio's confrontation-based practice — distinct from the generic exile-trauma
    population the Mega_Init otherwise describes — would use this unused, genuinely organic (non-override)
    population match.
@@ -108,7 +108,7 @@ practitioners draw on Cradle-chamber-adjacent technology or expertise.
   Using them would have violated the pass's own Stage-1-only scope. **Recommend adding this as explicit
   guidance in the template:** before using a district's top-ranked feeder cities for this lens, check
   whether `City_Refugee_District_Affinities.md` flags them as a "Stage 2 Override" — if so, drop to the
-  next tier down for a genuinely organic match, the way this run used Vostok instead of Belgrano/Palmer
+  next tier down for a genuinely organic match, the way this run used Ariun Nuur instead of Belgrano/Palmer
   City/Zukelli/Casey.
 - **All five lenses still produced usable, well-differentiated ideas.** No lens came up empty, matching
   the Cancer run.

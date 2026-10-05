@@ -7,7 +7,7 @@ subnet's own Candidates #11–#20 were built under. **Not canon, not chosen, not
 Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
 **Uses 5 of Halley subnet's 8 cities** (Neumayer, Halley, Sanay, Troll, Belgrano), and naturally extends to a
-sixth (Abowasa), since the pattern this chain investigates is established as running through all six.
+sixth (Santa Luce), since the pattern this chain investigates is established as running through all six.
 
 ---
 

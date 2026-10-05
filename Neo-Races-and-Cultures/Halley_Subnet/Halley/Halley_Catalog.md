@@ -15,8 +15,8 @@ Synthesis Notes (Phase 2) drafted below as a working first pass, not yet develop
   bedrock, moving 400-700m/year toward the sea. The city itself has been rebuilt/relocated multiple
   times (ski-mounted modules) to keep pace with ice dynamics, inherited from the real Halley VI design.
 - **Geological composition:** Frozen ocean/compressed snow/accumulated ice — a moving, non-fixed
-  foundation, fundamentally different from the nunatak-bedrock cities in the same subnet (Abowasa,
-  Sanay, Troll, Princess Elisabeth).
+  foundation, fundamentally different from the nunatak-bedrock cities in the same subnet (Santa Luce,
+  Sanay, Troll, Utstein).
 
 ---
 

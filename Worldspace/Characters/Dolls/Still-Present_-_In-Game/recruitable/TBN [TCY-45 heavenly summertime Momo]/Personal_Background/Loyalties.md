@@ -10,7 +10,7 @@ give is enough to describe *how she holds loyalty*, which is more useful at this
 **To people, not institutions.** **[Strong Inference — from the sourced life record]**
 
 Her entire biography is a sequence of moves toward *communities and individuals*: human families in Esperanza, a
-possible cause at Princess Elisabeth, a communal culture in Zukelli. She never appears to have been loyal to a
+possible cause at Utstein, a communal culture in Zukelli. She never appears to have been loyal to a
 government, a faction, or an ideology. She was loyal to whoever was in front of her, and she relocated across
 three subnets to keep being so.
 

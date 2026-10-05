@@ -34,7 +34,7 @@ version of somewhere real.*
 ⭐ **Real cases: Québécois ≠ France · Canadian ≠ the Celtic lands · American ≠ Germany/Netherlands ·
 Australian ≠ England · Singaporean ≠ China.**
 ⭐⭐ **AN ANTI-CONVERGENCE ENGINE:** ***two same-stock cities MUST diverge, because the operator's inputs
-differ.*** *(Tepenia has two Japan-founded cities — Shirayuki at 36.27% and Sayowa diluted to 2.71%. Similar
+differ.*** *(Tepenia has two Japan-founded cities — Shirayuki at 36.27% and Temirötkel diluted to 2.71%. Similar
 answers for both would mean at least one is wrong.)*
 
 ### 4 · ⭐⭐⭐ THE GRAND-TIMELINE ACTS

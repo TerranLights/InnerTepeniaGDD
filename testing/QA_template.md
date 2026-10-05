@@ -145,7 +145,7 @@ instead of its own current, established facts.** Concrete pattern, found three t
   Distinct from the other four: not a wrong fact about the city itself, but an incomplete count of
   *related* cities, missed because one of them was created/resolved after the count was originally
   written. Found at Janbogo ("Tepenia's two Korean cities," omitting Sinheung), including inside a full proposed creative section
-  (`Janbogo_Full_Extrapolation.md`'s "Sejong Relationship" section, built entirely on a two-city
+  (`Janbogo_Full_Extrapolation.md`'s "Contrapunto Relationship" section, built entirely on a two-city
   premise). **When a city's file claims to be one of N sibling cities sharing some trait (same
   founding nation, same real-world basis, same structural role), verify N against a project-wide
   grep for that trait — don't trust the count as given, especially if any sibling was resolved or
@@ -189,7 +189,7 @@ city it originated in; it flows upward through every document that cites the lay
 settled fact rather than re-verifying the citation. See
 [[project_soyuz_recheck_ultra_megasheet_gap]].
 
-**A sibling lesson, found re-checking Juan Carlos 2026-07-13: negative claims need re-verifying
+**A sibling lesson, found re-checking Pergamino 2026-07-13: negative claims need re-verifying
 just as much as positive ones.** The first-pass resolution memory stated *"No README.md exists for
 this city's Megasheet (like Casey)"* — wrong. A `README.md` existed the whole time, created
 2026-07-08, sitting in the same folder as the three component files, entirely unfixed. The
@@ -257,8 +257,8 @@ it.
    re-check pass (2026-07-13), where a prior pass's own writeup claimed two identical exclusivity-bug
    instances in `Specs/Shirayuki.md` were both fixed, but only one actually was. A memory saying
    "fixed" is not evidence, whether the claim covers a whole file or one bullet point within it.
-   **Sharper corollary, confirmed at Sejong's fourth pass:** checking a file for one specific bug
-   pattern and finding it absent is not evidence the file is clean of every bug pattern. Sejong's
+   **Sharper corollary, confirmed at Contrapunto's fourth pass:** checking a file for one specific bug
+   pattern and finding it absent is not evidence the file is clean of every bug pattern. Contrapunto's
    third pass explicitly checked `Localization_Language_List.md` for stale China/co-Primary claims,
    found none, and declared the file "checked clean" — but a completely different bug (the Korean
    sibling-omission pattern) sat one line away, untouched. A "checked clean" note should specify *what
@@ -308,8 +308,8 @@ it.
     aren't "about" the city at all.
 13. **A "grep outside the Cities folder" pass has a structural blind spot: cross-reference files
     that live *inside* `Locations/Cities/` but aren't part of any single city's own dedicated file
-    set.** Confirmed at Sejong's fifth re-check pass (2026-07-13): `City_Relationship_Database.md`'s
-    own Sejong entry carried the same stale bug already fixed in a dev-facing doc outside the Cities
+    set.** Confirmed at Contrapunto's fifth re-check pass (2026-07-13): `City_Relationship_Database.md`'s
+    own Contrapunto entry carried the same stale bug already fixed in a dev-facing doc outside the Cities
     folder, untouched the whole time because a grep scoped to "outside Cities" never looked at it, and
     no single-city file-list ever included it either. Files like `City_Relationship_Database.md`,
     `Official_Population_Census.md`, `Upper_Earth_Immigration_Composition.md`,
@@ -337,7 +337,7 @@ it.
     the open-items list here doesn't know it" gaps. Fix these too when found, using the same
     propagate-to-every-layer discipline, rather than treating them as out of scope.** Confirmed across
     Kunlun (a genuinely superseded highway route surviving in the city's own files after being fixed
-    on a sibling city's side), Vostok (`City_Relationship_Database.md` contradicting itself between two
+    on a sibling city's side), Ariun Nuur (`City_Relationship_Database.md` contradicting itself between two
     adjacent lines), Signy (a status contradiction flagged twice, fixed by neither flag), and Marambio
     (a destruction-justification predating a later-added dual-identity detail, plus a census gap already
     closed elsewhere but still listed open locally). The line to hold: fix these opportunistically when
@@ -352,9 +352,9 @@ it.
     because README.md's filename never contains the city's own name. This isn't a rare miss — it
     silently failed on every single city checked this way, discovered only when a *content* grep (for
     an unrelated string) happened to surface a README.md that a *filename* grep never could. Confirmed
-    affected: Kunlun, Vostok, Signy, and Esperanza were all wrongly recorded as "no README exists for
+    affected: Kunlun, Ariun Nuur, Signy, and Esperanza were all wrongly recorded as "no README exists for
     this city" — Casey suffered the identical miss earlier the same day, caught by coincidence rather
-    than method. When Kunlun's, Vostok's, and Esperanza's READMEs were finally read, they turned out to
+    than method. When Kunlun's, Ariun Nuur's, and Esperanza's READMEs were finally read, they turned out to
     be clean (up-to-date concatenations of already-fixed source files) — but Signy's and Marambio's
     both still carried real, previously-unfixed staleness, in Marambio's case including a bug that had
     never been fixed *anywhere*, not even in its own source file. **Always verify a Megasheet folder's
@@ -405,7 +405,7 @@ it.
     entities' own files, not just the file the error was found in and the file most directly tied to
     the correct answer. See [[project_neumayer_bug_check]].
 21. **A founding tag in a copied tier-table row must be re-checked for the destination city.** When two
-    cities' tier tables share an identical or near-identical nation list (found at Sayowa and Mawson,
+    cities' tier tables share an identical or near-identical nation list (found at Temirötkel and Mawson,
     2026-07-14), don't assume each city's tag was independently verified — re-derive it from geography
     (`DR-19`) and the city's `Founding_Register.md` row.
 22. **Shared/aggregate files should be checked once as a batch angle covering every entity at once,
@@ -426,7 +426,7 @@ it.
     some passes explicitly eyeballed the tier table, most didn't think to. A ~40-line Python script
     parsing every city's own "Per-Nation Breakdown" table and checking the tier-boundary invariant
     found **6 previously-undetected instances in a single run** (Belgrano, Halley, Concordia, Dumont
-    d'Urville, Juan Carlos, Sinheung), on top of the 7 already known from scattered manual catches. A
+    d'Urville, Pergamino, Sinheung), on top of the 7 already known from scattered manual catches. A
     judgment call ("does this city's culture-writing correctly attribute a practice?") genuinely needs
     a human read; a mechanical invariant ("does every Significant-tier share exceed every Notable-tier
     share?") does not, and manual checking of mechanical invariants is exactly where inconsistent
@@ -539,7 +539,7 @@ at all by definition.
 
 When a city's current filename/placeholder name (e.g. "Sinheung") was never actually chosen by the
 population that lives there — verify this against the Founding Story before assuming it — refer to
-the city by a bracketed placeholder of its current name (e.g. `{{ Abowasa }}`) in conversation and in new
+the city by a bracketed placeholder of its current name (e.g. `{{ Name }}`) in conversation and in new
 prose. Never label a city by a nationality unless its `Founding_Register.md` row rules that nation its
 founder. Keep using the underlying filename for file
 paths and cross-references; only the *prose label* changes. This convention already existed in
@@ -558,7 +558,7 @@ by the original fix — see [[project_zhongshan_recheck_specs_gap]] for the full
 methodological lesson. Developer directive: *"checking, double-checking, triple-checking,
 quadruple-checking, quintuple-checking every single city... only the developer will clear a city
 back to `[x]`."* Cities with substantive work already done this session (Zhongshan re-fixed;
-Janbogo, Zukelli, Casey, Shirayuki, Sinheung, Juan Carlos, Sejong from
+Janbogo, Zukelli, Casey, Shirayuki, Sinheung, Pergamino, Contrapunto from
 earlier passes) remain at `[~]` regardless of how clean a re-check finds them — re-verifying a city
 and finding it fine does not itself restore `[x]`. Do not proceed to non-checklist work until every
 city is confirmed by the developer.

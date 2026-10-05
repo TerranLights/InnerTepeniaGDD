@@ -204,10 +204,10 @@ modest match) and Memphis, Tennessee (civic type — the same major air-cargo-hu
 ### Spain (Significant, 14.19%, largest Significant population)
 
 **Real-world parallel community/communities identified:** no strong match on either geography or
-City-Type — the second confirmed instance (after Italy at Juan Carlos) of a large population with no
+City-Type — the second confirmed instance (after Italy at Pergamino) of a large population with no
 strong anchor on any dimension. Marambio's actual port function is tied to the established South
 America shipping-partner corridor (see City-Type Parallels above), which Spain isn't part of — an
-earlier draft of this entry incorrectly borrowed Spain's Vigo match from Juan Carlos to paper over that
+earlier draft of this entry incorrectly borrowed Spain's Vigo match from Pergamino to paper over that
 gap; corrected back to honestly weak.
 
 #### Surface Culture findings
@@ -254,7 +254,7 @@ gap; corrected back to honestly weak.
 - Religion, courtship, marriage: no strongly distinct local variant surfaced.
 - Raising children, decision-making, problem solving: no strongly distinct local variant surfaced.
 
-*(Thin, honestly, consistent with Italy's treatment at Juan Carlos — now itemized per the full depth
+*(Thin, honestly, consistent with Italy's treatment at Pergamino — now itemized per the full depth
 standard rather than condensed, but no invented texture added.)*
 
 ---
@@ -588,7 +588,7 @@ version of Janbogo's signature "founding culture outlives its founders" phenomen
 own founding nation, has drifted to just **0.74%** of the present
 population — the single deepest founding-nation erosion documented anywhere in the Palmer subnet, per
 `Marambio_Cross_Reference_Synthesis.md`'s own Finding 3. This is the same structural pattern already
-seen at Sanay (South Africa) and Abowasa (Finland/Sweden) in the Halley subnet, now confirmed
+seen at Sanay (South Africa) and Santa Luce (Finland/Sweden) in the Halley subnet, now confirmed
 independently in a different subnet by the project's own existing research rather than freshly derived
 here — good cross-subnet validation that this is a real, general Tepenian pattern rather than a
 Halley-specific coincidence.

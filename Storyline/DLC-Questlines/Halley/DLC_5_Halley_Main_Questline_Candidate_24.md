@@ -5,13 +5,13 @@ running `../DLC_Main_Questline_Design_Method.md` against Halley subnet, built ar
 negotiation method up to megacity size. **Not canon, not chosen, not the only candidate.** Uses the Linear
 Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Halley subnet's 8 cities** (Abowasa, Lazar, Neumayer, Halley, Sanay).
+**Uses 5 of Halley subnet's 8 cities** (Santa Luce, Lazar, Neumayer, Halley, Sanay).
 
 ---
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Abowasa Mega-Init, One-Line Pitch** — the established civic character of Abowasa's own founding process,
+- **Santa Luce Mega-Init, One-Line Pitch** — the established civic character of Santa Luce's own founding process,
   plurality expressed as household-level negotiation at Tepenia's smallest, most intimate civic scale, used
   here strictly as a general negotiation methodology, not as a claim about either founding nation's own
   character.
@@ -31,17 +31,17 @@ Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 ## The Chain
 
 **SETUP** — With Lazar's own old core and commercial expansion increasingly at odds over reconstruction
-priorities, someone proposes adapting Abowasa's own established household-level negotiation model — normally
+priorities, someone proposes adapting Santa Luce's own established household-level negotiation model — normally
 suited to an intimate, small-scale city — to mediate the dispute. The player is asked to help facilitate this
 — a straightforward, if unusual, mediation-methodology task.
 
-**BUT** — Abowasa's own method depends specifically on its city's small, intimate scale, where direct,
+**BUT** — Santa Luce's own method depends specifically on its city's small, intimate scale, where direct,
 face-to-face negotiation is genuinely possible for most residents. Applying the same method to Lazar, a
 genuine megacity of nearly 1.8 million, means the method's own core mechanism simply can't function the same
 way — any adaptation requires real compromises, representative delegates instead of direct participation,
 formal structures instead of informal conversation.
 
-**THEREFORE** — The player has to consult Abowasa's own community about how their method actually works, and
+**THEREFORE** — The player has to consult Santa Luce's own community about how their method actually works, and
 travel to Lazar's own district representatives and Neumayer for outside structural input, before any adapted
 version can be designed.
 
@@ -54,7 +54,7 @@ opposed camps with structured leverage against each other.
 dispute fairly is worth the risk of manufacturing a permanent, formal rift that doesn't currently exist.
 
 **BUT** — The reversal cuts against a clean answer either way. Adopting the scaled-up mediation structure
-gives Lazar's reconstruction dispute a real, fair process, genuinely informed by Abowasa's own successful
+gives Lazar's reconstruction dispute a real, fair process, genuinely informed by Santa Luce's own successful
 principles — but risks turning Lazar's own easy dual character into something more formally divided and
 adversarial. Handling the dispute through Lazar's own existing, informal channels avoids hardening that
 divide and preserves the current coexistence intact — but leaves a real, pressing dispute to resolve without
@@ -82,7 +82,7 @@ reads as a disguised And Then.
 ## Worth Your Attention
 
 This candidate's core asset is that its central tension comes from a genuine structural mismatch of scale,
-not from any party acting in bad faith — Abowasa's method is sincerely offered and sincerely wanted, and the
+not from any party acting in bad faith — Santa Luce's method is sincerely offered and sincerely wanted, and the
 problem is simply that what works at household size doesn't automatically survive being stretched across
 nearly two million people. It's also the first candidate to treat Lazar's own established dual-personality
 divide as something a well-meaning intervention could make worse, rather than as a fixed, stable

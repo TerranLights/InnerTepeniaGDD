@@ -67,7 +67,7 @@ Sea.
 
 - **USA (Primary):** Woods Hole, Massachusetts — a real, nationally significant American marine
   biology research town, an excellent match.
-- **Germany (Significant):** Bremerhaven — same German fishing/maritime match used at Juan Carlos,
+- **Germany (Significant):** Bremerhaven — same German fishing/maritime match used at Pergamino,
   here also noted for its genuine marine-research institutions.
 - **France (Significant):** Roscoff, Brittany — a real French marine-biology research station town.
 - **UK (Significant):** Plymouth — a real UK marine-biology research city (home to the Marine
@@ -275,7 +275,7 @@ combination of deep fishing heritage with remote-renewable-energy potential.
 ### Germany (Significant, 7.81%)
 
 **Real-world parallel community/communities identified:** no domestic geography match (weak) — carried
-by Bremerhaven (civic type), the same German fishing/maritime match used at Juan Carlos, here also
+by Bremerhaven (civic type), the same German fishing/maritime match used at Pergamino, here also
 noted for genuine marine-research institutions.
 
 #### Surface Culture findings

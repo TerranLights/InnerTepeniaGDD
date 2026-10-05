@@ -9,7 +9,7 @@ crime investigation (#18). **Not canon, not chosen, not the only candidate** —
 beyond this subnet's own already-complete set of ten. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Rothera, Signy, Port Lockroy, Marambio, Esperanza).
+**Uses 5 of Palmer subnet's 8 cities** (Rothera, Signy, Puerto Abrigo, Marambio, Esperanza).
 
 ---
 
@@ -26,7 +26,7 @@ beyond this subnet's own already-complete set of ten. Uses the Linear Escalation
 - **Marambio's and Esperanza's own established shipping/trade roles** — the historical trade relationships
   and routing knowledge that any new regional standard would need to actually move goods through, even with
   both cities themselves destroyed.
-- **Port Lockroy's own small, modest economy** — Tepenia's second-smallest city, with the least leverage of
+- **Puerto Abrigo's own small, modest economy** — Tepenia's second-smallest city, with the least leverage of
   any surviving Palmer subnet city to shape a new standard in its own favor.
 - **Explicitly excluded:** any claim about how this regional standard relates to Concordia's own national
   currency policy — this chain stays at Palmer subnet's own regional scale, not the national one.
@@ -36,7 +36,7 @@ beyond this subnet's own already-complete set of ten. Uses the Linear Escalation
 ## The Chain
 
 **SETUP** — With the national currency fractured, Palmer subnet's own surviving economic
-centers — Rothera's industry, Signy's marine resources, Port Lockroy's modest trade, and whatever's left of
+centers — Rothera's industry, Signy's marine resources, Puerto Abrigo's modest trade, and whatever's left of
 Marambio's and Esperanza's own historical shipping relationships — need some kind of working regional
 trade-standard to actually exchange goods and value with each other again. The player is asked to help
 broker this system — a straightforward, if technical, economic-recovery task.
@@ -61,7 +61,7 @@ production gets to define value for the entire subnet going forward.
 **BUT** — The reversal cuts against a clean answer either way. Backing the standard on Rothera's own
 reliable manufacturing output creates a genuinely stable, workable system in a fragile post-war economy — but
 permanently cements Rothera's own outsized economic power over the whole subnet's future, at real cost to
-Signy's and Port Lockroy's own economic autonomy. Choosing a more distributed, multi-commodity standard that
+Signy's and Puerto Abrigo's own economic autonomy. Choosing a more distributed, multi-commodity standard that
 doesn't favor any single city is more equitable in principle — but is technically more complex, harder to
 maintain, and less immediately stable, a real risk in an economy already struggling with basic function.
 

@@ -1,14 +1,14 @@
 # DLC 5 (Halley Subnet) — Main Questline Candidate #3: "What Still Runs Underneath"
 
 **What this is:** a third prospective But/Therefore chain for DLC 5's main questline, produced by running
-`../DLC_Main_Questline_Design_Method.md` against Halley subnet, built around Princess Elisabeth's own
+`../DLC_Main_Questline_Design_Method.md` against Halley subnet, built around Utstein's own
 established ruin-and-reserve premise rather than Troll's contested control (Candidate #1) or Belgrano/
 Neumayer's civic-memory asymmetry (Candidate #2). **Not canon, not chosen, not the only candidate** — the
 3rd of the "at least 10" the method calls for. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 1 of Halley subnet's 8 cities (Princess Elisabeth alone)** — a solo candidate, the same pattern two
-Mirny subnet candidates used for Kunlun and Vostok. Outside interest in the reserve, once it surfaces, is
+**Uses 1 of Halley subnet's 8 cities (Utstein alone)** — a solo candidate, the same pattern two
+Mirny subnet candidates used for Kunlun and Ariun Nuur. Outside interest in the reserve, once it surfaces, is
 kept deliberately unnamed/abstracted (word reaching other struggling settlements generally) rather than
 pinned to a specific neighboring city not yet established as geographically adjacent.
 
@@ -16,20 +16,20 @@ pinned to a specific neighboring city not yet established as geographically adja
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Princess Elisabeth's own Full Extrapolation, Sections I & II** — the city's proposed buried energy
+- **Utstein's own Full Extrapolation, Sections I & II** — the city's proposed buried energy
   -storage reserve (flywheels, battery banks, thermal storage, built underground against katabatic exposure)
-  reconciled against `Specs/Princess_Elisabeth.md`'s already-finalized "no passive advantage at all": the
+  reconciled against `Specs/Utstein.md`'s already-finalized "no passive advantage at all": the
   reserve exists, but the war severed the access and control conduits linking it to the surface grid — a
   reserve that's intact and useless, not destroyed.
-- **Princess Elisabeth's own Full Extrapolation, Section III** — the destruction wasn't broad or
+- **Utstein's own Full Extrapolation, Section III** — the destruction wasn't broad or
   indiscriminate; it was a precision strike specifically against the integration points, distinct from
   Denison's environmental collapse or Zukelli's total-kill strike — an enemy that understood exactly what
   made the city work and severed exactly that.
-- **Princess Elisabeth's own Full Extrapolation, Section VII** — the Founders' Turbine holiday: public
+- **Utstein's own Full Extrapolation, Section VII** — the Founders' Turbine holiday: public
   maintenance and inspection of whatever zero-emissions infrastructure still functions among the ruins,
   observance treated as the act of upkeep itself, not a symbolic ceremony — genuine, felt civic pride in
   keeping the systems running.
-- **Princess Elisabeth's own Full Extrapolation, Section VIII** — Straggling Survivor Joos Kaminari, a
+- **Utstein's own Full Extrapolation, Section VIII** — Straggling Survivor Joos Kaminari, a
   placeholder figure from the former underground maintenance crew, already proposed as the natural
   questline source with firsthand knowledge of the reserve's access points; Chief Engineer Margrethe
   Ollivier-Tanaka, credited across generations with keeping the zero-emissions systems balanced, work
@@ -43,7 +43,7 @@ pinned to a specific neighboring city not yet established as geographically adja
 
 ## The Chain
 
-**SETUP** — Joos Kaminari, one of the last residents living among Princess Elisabeth's ruins, tells the
+**SETUP** — Joos Kaminari, one of the last residents living among Utstein's ruins, tells the
 player what the small surviving population has always suspected but never been able to prove: the
 underground reserve that used to back up the city's zero-emissions grid might still be down there, intact,
 just disconnected. Reconnecting it looks like a straightforward restoration job — find the severed conduits,
@@ -103,7 +103,7 @@ Then.
 ## Worth Your Attention
 
 This candidate's core asset is that it takes a proposal already flagged, in its own source document, as
-"a concrete, ready-made questline mechanic" (Princess Elisabeth's own Full Extrapolation, Worth Your
+"a concrete, ready-made questline mechanic" (Utstein's own Full Extrapolation, Worth Your
 Attention note) and carries it through to a genuine main-questline-scale ethical fork rather than stopping at
 the restoration itself. It's also the first Halley subnet candidate built around a city with almost no
 population left to speak for itself — raising the stakes of "who decides" in a way none of the subnet's

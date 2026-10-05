@@ -18,17 +18,17 @@
   > until the division is dated.** *(See her `README.md` → Design Notes.)*
 
 * ⏸️ **PROSPECTIVE, not locked — the developer marked these with `//prospectively`:**
-  **Abowasa** *(Halley)* → **Princess Elisabeth** *(Halley)* → **Casey** *(Mirny)*.
+  **Santa Luce** *(Halley)* → **Utstein** *(Halley)* → **Casey** *(Mirny)*.
   ⚠ *Order, dates and reasons are all open. Recorded so they are not lost, **not** treated as settled.*
 
-* ✅ **At some point she had friends in Juan Carlos** *(Palmer subnet, Livingston Island)*. **[Sourced]**
+* ✅ **At some point she had friends in Pergamino** *(Palmer subnet, Livingston Island)*. **[Sourced]**
   ⚠ *Undated. Whether this belongs to her Esperanza years or later is open.*
 
 ## Long Night War (2812)
 
 * ⛔ **UNWRITTEN.** *Nothing in the seed places her during the war.* **Not invented.**
   ⚠ **Note for whoever fills this in:** *she predates the war by roughly 150 years, so she has one — and
-  Esperanza and Princess Elisabeth, two cities in her own history, did not survive it.*
+  Esperanza and Utstein, two cities in her own history, did not survive it.*
 
 ## Present (~2822–2827)
 

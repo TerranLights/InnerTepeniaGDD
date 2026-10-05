@@ -258,7 +258,7 @@ Decrypting the Amundsen Station archive by force is meant to be an extreme skill
 
 **The trail:**
 
-1. **Juan Carlos's own original archive (Palmer subnet, DLC 3):** exploring Juan Carlos's badly-destroyed archive — ground floor, or possibly a basement office, personal effects still present (art on the walls, non-functional terminals) — the player finds a personal record: a handwritten note or audio log from the archivist himself, documenting (not personally performing) the fact that Tepenian truckers had just hauled out the last batch of encrypted datadrives, being consolidated into what would become Amundsen Station's unified archive (see `Specs/Juan_Carlos.md` and `project_juan_carlos_archive_origin` memory for the established lore this pays off). He notes the drives were "encrypted pretty well," that a colleague has a codekey, but that he keeps a backup one himself "just by the nightstand" at his wife's family home — and signs off mentioning a friend has a surprise gift waiting for him at a specific bar, back in Esperanza, "where all the other families are."
+1. **Pergamino's own original archive (Palmer subnet, DLC 3):** exploring Pergamino's badly-destroyed archive — ground floor, or possibly a basement office, personal effects still present (art on the walls, non-functional terminals) — the player finds a personal record: a handwritten note or audio log from the archivist himself, documenting (not personally performing) the fact that Tepenian truckers had just hauled out the last batch of encrypted datadrives, being consolidated into what would become Amundsen Station's unified archive (see `Specs/Pergamino.md` and `project_juan_carlos_archive_origin` memory for the established lore this pays off). He notes the drives were "encrypted pretty well," that a colleague has a codekey, but that he keeps a backup one himself "just by the nightstand" at his wife's family home — and signs off mentioning a friend has a surprise gift waiting for him at a specific bar, back in Esperanza, "where all the other families are."
 
 2. **Esperanza (Palmer subnet, DLC 3):** the player can find the ruins of that bar. A terminal note there references the friend's gift to the archivist (a small, personal detail — charming but not narratively significant on its own) and mentions his home being better for having received it.
 
@@ -273,7 +273,7 @@ Decrypting the Amundsen Station archive by force is meant to be an extreme skill
 
 5. **Back at Amundsen Station (DLC 1):** using the codekey decrypts the archive directly — no skill check required at all, regardless of build.
 
-**Cross-DLC geography note, resolved 2026-07-05:** the trail begins and runs mostly through DLC 3 (Juan Carlos, then Esperanza — both Palmer subnet), only crossing into DLC 5 (Sanay, Halley subnet) for the final key location, before paying off in DLC 1. Confirmed by the developer: this counts as **DLC 5 (Halley)'s** guaranteed gift toward Kendra's DLC specifically, since that's where the actual bypass item is physically located — DLC 3 (Palmer)'s own geography here is the discovery-trail setup for DLC 5's gift, not a separate contribution toward its own quota. DLC 3 still needs its own, separate gift designed later.
+**Cross-DLC geography note, resolved 2026-07-05:** the trail begins and runs mostly through DLC 3 (Pergamino, then Esperanza — both Palmer subnet), only crossing into DLC 5 (Sanay, Halley subnet) for the final key location, before paying off in DLC 1. Confirmed by the developer: this counts as **DLC 5 (Halley)'s** guaranteed gift toward Kendra's DLC specifically, since that's where the actual bypass item is physically located — DLC 3 (Palmer)'s own geography here is the discovery-trail setup for DLC 5's gift, not a separate contribution toward its own quota. DLC 3 still needs its own, separate gift designed later.
 
 ---
 
@@ -290,7 +290,7 @@ A related idea was raised and discussed but not yet written in as confirmed desi
 - [x] Where Kendra is — **confirmed: inside the actual Amundsen-Scott South Pole Station, locked from inside, 10–15 years stranded**
 - [x] Minimum ways into the building — **confirmed: 11 methods across environmental, brought, perk, and trait categories**
 - [ ] Specific enemy types and their designs — two new hazard/threat directions established 2026-07-05 (residual electromagnetic wreckage hazards, a dedicated archive-guardian system), a third (Upper Earth's own on-site personnel/assets) flagged but deferred pending logistics investigation — see above
-- [x] Archive decryption bypass — **confirmed 2026-07-05: "The Archivist's Trail," a cross-DLC breadcrumb chain (Juan Carlos → Esperanza → Sanay) yielding a physical codekey that skips the extreme decryption skill check entirely — see above**
+- [x] Archive decryption bypass — **confirmed 2026-07-05: "The Archivist's Trail," a cross-DLC breadcrumb chain (Pergamino → Esperanza → Sanay) yielding a physical codekey that skips the extreme decryption skill check entirely — see above**
 - [ ] Exact carry weight restriction number for DLC entry
 - [ ] Five minimum approaches to the central challenge — only Ji-Eun cloaking confirmed; 4+ TBD
 - [ ] Main storyline structure and beats

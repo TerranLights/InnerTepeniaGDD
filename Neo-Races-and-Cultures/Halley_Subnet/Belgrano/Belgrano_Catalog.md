@@ -2,7 +2,7 @@
 
 **Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
 filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — third city finished,
-following Sanay/Abowasa's method. Synthesis Notes (Phase 2) drafted below as a working first pass, not
+following Sanay/Santa Luce's method. Synthesis Notes (Phase 2) drafted below as a working first pass, not
 yet developer-confirmed as final.
 
 ---
@@ -337,7 +337,7 @@ civic type — the UK's "workshop of the world" industrial craft tradition, a st
 **Population-vs-narrative-weight note:** UK is Belgrano's smallest Significant-tier population, yet it
 holds the single *strongest* geography match of the whole set (explicitly called "genuinely extreme,
 windswept, storm-exposed" in Phase 1b) — the third time this project has found small population share
-and strong narrative resonance decoupling (after Abowasa's Germany, and to a lesser extent Sanay's own
+and strong narrative resonance decoupling (after Santa Luce's Germany, and to a lesser extent Sanay's own
 founding-vs-present-population gap).
 
 #### Surface Culture findings
@@ -394,7 +394,7 @@ founding-vs-present-population gap).
 
 ## Synthesis Notes (Phase 2 — draft, not yet developer-confirmed as final)
 
-**Working name: "Belgranan."** *(Placeholder, same status as Sanay's "Sanayan" and Abowasa's
+**Working name: "Belgranan."** *(Placeholder, same status as Sanay's "Sanayan" and Santa Luce's
 "Abowasan." Note the city's own official second-interwar identity, confirmed in
 `City_Vision_Notes/Belgrano.md`, is **"The Airbase That Never Stood Down"** — a "purposeful,
 frontier-proud, almost martial civic bearing; function before comfort as baseline, not aspiration."
@@ -410,7 +410,7 @@ significant but secondary strand, not the dominant one. This reinforces rather t
 **Founding-nation-drift echo, folded in 2026-07-16:** Argentina — Belgrano's founding
 nation, directly tied to the original Byrd Expedition discovery — sits at Notable tier (4.40%),
 diluted like every Halley subnet founding nation. Outside this pass's Primary/Significant scope, but
-the same pattern already confirmed at Sanay (South Africa) and Abowasa (Finland/Sweden): a founding
+the same pattern already confirmed at Sanay (South Africa) and Santa Luce (Finland/Sweden): a founding
 identity (here, the Rastra-inventing, frontier-martial founding heritage) surviving as civic mythology
 and craft-tradition long after the founding population itself became a small minority.
 
@@ -419,12 +419,12 @@ Germany, UK), each via a different real-world route (scrappy DIY improvisation, 
 craft, and skilled-trade industrial pride respectively), converge on the same core civic value: tangible
 competence, demonstrated through fixing, building, flying, or shipping something, is the primary source
 of local status. This is a genuinely different center of gravity from both Sanay's endurance-mythology
-and Abowasa's domestic-first quiet — Belgrano's dual function (aviation/port *plus* garage/industrial)
+and Santa Luce's domestic-first quiet — Belgrano's dual function (aviation/port *plus* garage/industrial)
 gives it a hands-on, workshop-and-hangar public identity none of the surrounding cities share.
 
 The city's harsh, storm-exposed southern-latitude geography is carried disproportionately by its
 *smallest* population (UK, 4.97%) — the same population/narrative-weight decoupling already seen at
-Abowasa (there, Germany), now appearing a second time with a different nation and a different city. This
+Santa Luce (there, Germany), now appearing a second time with a different nation and a different city. This
 looks like a real, recurring structural feature of how these neo-cultures form, not a one-off: a city's
 strongest geographic or civic-type match doesn't reliably belong to its largest population.
 

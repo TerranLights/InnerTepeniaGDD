@@ -50,10 +50,10 @@ component-lifting floor.
 **Marambio** — aviation/maritime dual hub. *Semi-rigid:* dockworker's cut-resistant gloves, ground-crew hi-vis
 padded jacket. *Rigid:* shipyard welding apron/faceshield.
 
-**Port Lockroy** — heritage/small maritime town. *Soft:* museum-keeper's layered wool. *Padded:* harbor-work
+**Puerto Abrigo** — heritage/small maritime town. *Soft:* museum-keeper's layered wool. *Padded:* harbor-work
 oilskin coat. Kept modest, matching the town's own small scale.
 
-**Sejong** — diplomatic/customs island. *Soft:* diplomatic formalwear layered for warmth. *Padded:*
+**Contrapunto** — diplomatic/customs island. *Soft:* diplomatic formalwear layered for warmth. *Padded:*
 customs-post duty coat. *Semi-rigid:* the same institutional gear the Small/Long Guns category already
 implies exists here (DLC-specific per that catalog's own availability note).
 
@@ -64,7 +64,7 @@ gloves and boots, built for cold-wet conditions specifically rather than dry col
 armor here — a city organized around family/guardianship should skew toward its softest end, deliberately.
 *Padded:* harbor trans-shipment work coat.
 
-**Juan Carlos** — fishing/hosted-gathering. *Padded:* fishing oilskins (same family as Signy). *Semi-rigid:*
+**Pergamino** — fishing/hosted-gathering. *Padded:* fishing oilskins (same family as Signy). *Semi-rigid:*
 net-handling gloves.
 
 ---
@@ -85,7 +85,7 @@ demolition-site hard hat and gloves.
 survey crew's field gear — this city's protective clothing skews toward precision-work protection (hands,
 eyes) over blunt-impact bulk.
 
-**Princess Elisabeth** — renewable energy, off-grid. *Semi-rigid:* turbine-maintenance harness gear,
+**Utstein** — renewable energy, off-grid. *Semi-rigid:* turbine-maintenance harness gear,
 insulated linesman's gloves.
 
 **Sanay** — port/shipyard, actual Arcanet nexus. *Rigid:* shipyard welding suit — same family as Marambio's,
@@ -95,7 +95,7 @@ Sanay's own version scaled to the subnet's real shipbuilding volume.
 can plausibly run harder than most cities', given the canon-established contested-territory framing already
 in place for this specific location.
 
-**Abowasa** — small joint founding. *Soft:* household-scale cold-weather layers only, matching the city's own
+**Santa Luce** — small joint founding. *Soft:* household-scale cold-weather layers only, matching the city's own
 modest established size — don't force a heavier tier onto a city this small.
 
 ---
@@ -105,7 +105,7 @@ modest established size — don't force a heavier tier onto a city this small.
 **Janbogo** — port/teahouse hospitality. *Soft:* teahouse-keeper's layered indoor wear. *Padded:* dockside
 cargo-work coat.
 
-**Cape Adare** — heritage gateway. *Soft:* preservation-worker's layered wool, matching Port Lockroy's family.
+**Cape Adare** — heritage gateway. *Soft:* preservation-worker's layered wool, matching Puerto Abrigo's family.
 
 **Denison** — windiest ground on Earth, sealed single structure. *Semi-rigid:* the city's entire built
 environment is one sealed structure against extreme wind — its own protective clothing should reflect that
@@ -145,7 +145,7 @@ field-research cold-weather gear for the lake-sampling side of the work.
 **Kunlun** — astronomy, extreme altitude. *Rigid:* altitude-survival suit — Dome A's ceiling-of-habitability
 conditions demand real, serious protective gear, not a soft layer.
 
-**Vostok** — coldest city on Earth, subglacial genetics research. *Rigid:* the single most extreme cold-weather
+**Ariun Nuur** — coldest city on Earth, subglacial genetics research. *Rigid:* the single most extreme cold-weather
 suit in the entire catalog, matching the city's own extreme-cold survival infrastructure being a genuine
 quarter of its whole economy. Deep-drilling crew gear sits alongside it.
 
@@ -185,7 +185,7 @@ identity.
 inherited from the original research population, now worn by devotees; worth writing this tension
 deliberately — serious survival equipment maintained by a population that arrived for faith, not science.
 
-**Sayowa** — fabrication/trucking triple-junction. *Semi-rigid:* fabrication-floor gear, trucking/dispatch
+**Temirötkel** — fabrication/trucking triple-junction. *Semi-rigid:* fabrication-floor gear, trucking/dispatch
 hi-vis padded coats.
 
 ---
@@ -193,7 +193,7 @@ hi-vis padded coats.
 ## Byrd Subnet
 
 **Byrd** — underground fabrication, grounded aviation salvage. *Rigid:* the reinforced chamber-manufacturing
-section's own protective suiting — the highest-stakes rigid gear in the catalog outside Kunlun/Vostok's
+section's own protective suiting — the highest-stakes rigid gear in the catalog outside Kunlun/Ariun Nuur's
 extreme-altitude/cold suits, since this is the section producing the actual apparatus that creates robots.
 *Semi-rigid:* general underground-plant coveralls and hard hats for the rest of the facility.
 

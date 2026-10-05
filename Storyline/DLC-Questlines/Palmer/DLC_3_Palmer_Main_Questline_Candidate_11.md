@@ -7,10 +7,10 @@ thematic or administrative grouping. **Not canon, not chosen, not the only candi
 possibility, beyond this subnet's own already-complete set of ten. Uses the Linear Escalation Chain
 schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Esperanza, Marambio, Palmer City, Port Lockroy, Rothera) — the five
+**Uses 5 of Palmer subnet's 8 cities** (Esperanza, Marambio, Palmer City, Puerto Abrigo, Rothera) — the five
 cities Hwy 1 itself physically connects, in the order the highway actually runs them: Esperanza (the true
-northern terminus) → Marambio (via the Picnic Passage causeway/bridge chain) → Palmer City → Port Lockroy →
-Rothera (the subnet's own link onward to Byrd). Sejong, Juan Carlos, and Signy are deliberately excluded —
+northern terminus) → Marambio (via the Picnic Passage causeway/bridge chain) → Palmer City → Puerto Abrigo →
+Rothera (the subnet's own link onward to Byrd). Contrapunto, Pergamino, and Signy are deliberately excluded —
 all three are established as island-isolated or otherwise disconnected from Hwy 1 entirely, so a genuinely
 road-bound chain has no honest way to reach them.
 
@@ -20,7 +20,7 @@ road-bound chain has no honest way to reach them.
 
 - **The established Hwy 1 route itself** — confirmed across Marambio's, Palmer City's, and Rothera's own
   Specs files: Esperanza (northern terminus) → Marambio (Picnic Passage causeway) → Palmer City → a ramp to
-  Port Lockroy → Rothera → terminating at Byrd.
+  Puerto Abrigo → Rothera → terminating at Byrd.
 - **Marambio's own Full Extrapolation, Section II** — the Picnic Passage causeway/bridge chain plausibly
   survived largely intact, but since Marambio itself is destroyed, it persists today as "a bridge to nowhere
   in the most literal sense, still standing, still crossable, connecting the rest of Hwy 1 to a destination
@@ -28,7 +28,7 @@ road-bound chain has no honest way to reach them.
 - **Palmer City's own Full Extrapolation, Section VI** — the ruins are genuinely accessible but uniquely
   hazardous: flooded lower levels, freeze-thaw structural decay, and fog hiding real structural danger,
   distinct from any other Tepenian ruin site's cold-preserved wreckage.
-- **Port Lockroy's own established civic fault line** (per Candidate #6's own grounding, `Local_Cultures`
+- **Puerto Abrigo's own established civic fault line** (per Candidate #6's own grounding, `Local_Cultures`
   Section 5b) — the unresolved tension between treating the city's layered history as living, accountable
   memory versus as heritage-tourism spectacle, a small, quiet town that has never had to face sustained
   outside traffic volume since the war.
@@ -51,7 +51,7 @@ asked to survey and help re-establish safe passage along the entire line, starti
 Esperanza's own terminus — a straightforward, if large-scale, "reopen the road" task.
 
 **BUT** — Doing this means physically traveling through the ruins of three destroyed cities in direct
-sequence — Esperanza, then Marambio, then Palmer City — before ever reaching Port Lockroy or Rothera at all.
+sequence — Esperanza, then Marambio, then Palmer City — before ever reaching Puerto Abrigo or Rothera at all.
 This isn't a simple engineering survey. The causeway at Marambio is now a bridge to a destination that no
 longer exists; Palmer City's own ruins are uniquely hazardous, actively decaying rather than cold-preserved;
 and each site carries real, established emotional weight — a birth registry's worth of unresolved grief at
@@ -62,13 +62,13 @@ intended it or not, a journey through the physical remains of the nation's worst
 real, still-living stakes each one still carries, before the actual engineering work of reopening a
 continuous route can even properly begin.
 
-**BUT** — Once the restored route finally reaches Port Lockroy, a genuine complication surfaces that has
-nothing to do with the ruins behind it. Reopening Hwy 1 as a real through-route means Port Lockroy — a
+**BUT** — Once the restored route finally reaches Puerto Abrigo, a genuine complication surfaces that has
+nothing to do with the ruins behind it. Reopening Hwy 1 as a real through-route means Puerto Abrigo — a
 small, quiet town that has never had to handle sustained outside traffic since the war — suddenly becomes a
 waypoint for a volume of travelers far beyond anything its own established character has ever managed.
 Reconnecting the subnet doesn't just help logistics; it forces exactly the kind of transformation Port
 Lockroy's own long-standing, unresolved fault line (living memory versus heritage-tourism spectacle) has
-never had to face at this scale, whether or not Port Lockroy itself ever agreed to it.
+never had to face at this scale, whether or not Puerto Abrigo itself ever agreed to it.
 
 **THEREFORE** — What began as "reopen a road" becomes a real decision about whether reconnecting the whole
 subnet's surviving population and its scattered diaspora is worth permanently changing the character of the
@@ -77,19 +77,19 @@ one intact small town sitting directly in the road's path.
 **BUT** — The reversal cuts against a clean answer either way. Reopening the full route all the way to
 Rothera delivers genuine, badly needed connectivity for the whole subnet's surviving population, and makes
 the three destroyed cities' own ruins accessible again — to diaspora, to researchers, to anyone wanting to
-visit rather than leaving them permanently sealed off behind an unusable road — but forces Port Lockroy to
+visit rather than leaving them permanently sealed off behind an unusable road — but forces Puerto Abrigo to
 absorb exactly the kind of outside-traffic transformation its own civic character has never resolved, decided
-now by subnet-wide necessity rather than Port Lockroy's own choice. Deliberately limiting the reopened route
-— controlled or restricted access rather than a genuine open highway — protects Port Lockroy's own quiet
+now by subnet-wide necessity rather than Puerto Abrigo's own choice. Deliberately limiting the reopened route
+— controlled or restricted access rather than a genuine open highway — protects Puerto Abrigo's own quiet
 autonomy and lets it choose its own relationship to the outside world, but leaves the wider subnet's own
 logistics need only partly met, and leaves Esperanza, Marambio, and Palmer City's own ruins that much harder
 for anyone to actually reach.
 
 **THEREFORE** — Consistent with this project's own No Good Endings law, the resolution is the player's own
 role in how far the reopened route actually goes: full, open reconnection all the way to Rothera and Byrd,
-restoring real access to the subnet's own dead and its own living alike, at the cost of Port Lockroy's own
+restoring real access to the subnet's own dead and its own living alike, at the cost of Puerto Abrigo's own
 character being reshaped by traffic it never chose; or a deliberately limited, controlled route, protecting
-Port Lockroy's own autonomy fully, at the cost of leaving both the subnet's surviving population and its own
+Puerto Abrigo's own autonomy fully, at the cost of leaving both the subnet's surviving population and its own
 destroyed cities' memory harder to reach than they'd otherwise be.
 
 ---
@@ -101,7 +101,7 @@ conjunction in a row. Each BUT changes the shape of the problem: the first BUT t
 "the road passes directly through three destroyed cities' own still-living weight"; the second BUT turns
 "finish the engineering" into "finishing it means changing the one intact town along the way, whether it
 agreed or not"; the third BUT turns "decide how far to open it" into "there is no version of the decision
-that doesn't cost either Port Lockroy's own autonomy or the wider subnet's own access to its living and its
+that doesn't cost either Puerto Abrigo's own autonomy or the wider subnet's own access to its living and its
 dead." Deleting any one Complication changes what the player is actually choosing at the end, so none reads
 as a disguised And Then.
 
@@ -115,5 +115,5 @@ road-trip structure through the subnet's own geography: three ruins in sequence,
 at the one town the road was never meant to change. It also lets three of this set's own earlier candidates
 (Esperanza's registry grief, Palmer City's founding-myth question, Rothera's own established role) register
 as felt backdrop along the journey without requiring their own separate climaxes to be re-resolved here,
-while introducing a genuinely new stake — Port Lockroy's own untested fault line — as the chain's actual
+while introducing a genuinely new stake — Puerto Abrigo's own untested fault line — as the chain's actual
 point of decision.

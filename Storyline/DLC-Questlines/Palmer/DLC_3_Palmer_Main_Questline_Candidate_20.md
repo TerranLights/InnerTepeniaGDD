@@ -7,10 +7,10 @@ of "at least 5 cities" candidates (#11 through #20) the way each subnet's own Ca
 original ten-candidate set. **Not canon, not chosen, not the only candidate.** Uses the Linear Escalation
 Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses at least 5 of Palmer subnet's 8 cities** (Esperanza, Palmer City, Sejong — three destroyed cities
+**Uses at least 5 of Palmer subnet's 8 cities** (Esperanza, Palmer City, Contrapunto — three destroyed cities
 whose own history is genuinely contested; Rothera, Signy — two surviving cities whose own recent choices are
 part of that same contested record) — and, by its own nature, naturally extends to draw on Marambio, Juan
-Carlos, and Port Lockroy as well, since a subnet-wide archive has no honest reason to exclude any of them.
+Carlos, and Puerto Abrigo as well, since a subnet-wide archive has no honest reason to exclude any of them.
 
 **A deliberate closing note.** This candidate is the only one in the "5-city" run built specifically to
 reflect on the other nine rather than introduce a wholly separate stake — it treats the actual, unresolved

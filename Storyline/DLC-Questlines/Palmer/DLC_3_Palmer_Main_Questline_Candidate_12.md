@@ -8,20 +8,20 @@ candidate** — a twelfth possibility, beyond this subnet's own already-complete
 Candidate #11's own physical-route chain). Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Juan Carlos, Marambio, Esperanza, Palmer City, Sejong) — the five
+**Uses 5 of Palmer subnet's 8 cities** (Pergamino, Marambio, Esperanza, Palmer City, Contrapunto) — the five
 destroyed cities whose own established functions, combined, formed the practical machinery of Tepenia's
-relationship to Upper Earth: customs and vetting (Juan Carlos), receiving and shipping (Marambio),
+relationship to Upper Earth: customs and vetting (Pergamino), receiving and shipping (Marambio),
 trans-shipment (Esperanza), tourism and entertainment (Palmer City), and the lived, ongoing demonstration of
-Tepenian multinational coexistence to any Upper Earth observer (Sejong). Only one city overlaps with
-Candidate #11's own cast (three of that chain's five: Esperanza, Marambio, Palmer City); Port Lockroy and
-Rothera are absent here, replaced by Juan Carlos and Sejong — a genuinely different combination built on
+Tepenian multinational coexistence to any Upper Earth observer (Contrapunto). Only one city overlaps with
+Candidate #11's own cast (three of that chain's five: Esperanza, Marambio, Palmer City); Puerto Abrigo and
+Rothera are absent here, replaced by Pergamino and Contrapunto — a genuinely different combination built on
 function, not physical route.
 
 ---
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Juan Carlos's own established function** — the origin site of Tepenia's first bureaucratic archive,
+- **Pergamino's own established function** — the origin site of Tepenia's first bureaucratic archive,
   directly linked to the Machu Picchu Border & Customs Authority, tracking and vetting arrivals (Local
   Cultures, Section 21; already used differently in Candidate #8).
 - **Marambio's own established function** — the confirmed receiving node for South American shipping,
@@ -32,11 +32,11 @@ function, not physical route.
 - **Palmer City's own established function** — the tourism mechanism, formalized (Full Extrapolation,
   Section I): the "open secret" economy receiving Upper Earth visitors seeking freedoms harder to access at
   home.
-- **Sejong's own established function** — a genuinely uncertain, ongoing experiment in whether nearly a
+- **Contrapunto's own established function** — a genuinely uncertain, ongoing experiment in whether nearly a
   dozen nations could share one small island in permanent working proximity, a living demonstration of
   Tepenian coexistence any Upper Earth observer could see directly (Subnet Full Extrapolation, Section I).
-- **Explicitly excluded:** any duplication of "The Archivist's Trail" (Juan Carlos's own personal-notes
-  survival, already DLC 1 content) or Sejong's own already-resolved interpretive dilemma (Candidate #2) — this
+- **Explicitly excluded:** any duplication of "The Archivist's Trail" (Pergamino's own personal-notes
+  survival, already DLC 1 content) or Contrapunto's own already-resolved interpretive dilemma (Candidate #2) — this
   chain treats each city's function at a structural level, not re-litigating either candidate's own specific
   climax.
 
@@ -47,14 +47,14 @@ function, not physical route.
 **SETUP** — A modern effort wants to properly document and understand Tepenia's own lost, pre-war apparatus
 for contact with Upper Earth — not necessarily to rebuild it, but because so much practical, institutional
 knowledge about how it actually worked died along with the five cities that each ran one piece of it. The
-player is sent to gather what remains at each site — customs records at Juan Carlos, shipping logs at
+player is sent to gather what remains at each site — customs records at Pergamino, shipping logs at
 Marambio, trans-shipment documentation at Esperanza, tourism-economy records at Palmer City, and the
-coexistence experiment's own working history at Sejong — a straightforward, if far-reaching, research task.
+coexistence experiment's own working history at Contrapunto — a straightforward, if far-reaching, research task.
 
-**BUT** — Each site's own loss is different in kind, and no single method works twice. Juan Carlos's
+**BUT** — Each site's own loss is different in kind, and no single method works twice. Pergamino's
 formal records are destroyed, its surviving trace off-network and personal. Marambio's own receiving
 infrastructure is gone, its causeway now a bridge to nowhere. Esperanza's records survive only in fragments.
-Palmer City's ruins are uniquely hazardous, actively decaying rather than preserved. Sejong's own experiment
+Palmer City's ruins are uniquely hazardous, actively decaying rather than preserved. Contrapunto's own experiment
 never actually concluded, its own success still genuinely contested. The player has to solve five entirely
 different problems, not one repeated task five times.
 

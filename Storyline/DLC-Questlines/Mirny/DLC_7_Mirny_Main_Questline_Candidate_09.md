@@ -1,30 +1,30 @@
 # DLC 7 (Mirny Subnet) — Main Questline Candidate #9: "Whose Meaning This Was"
 
 **What this is:** a ninth prospective But/Therefore chain for DLC 7's main questline, produced by running
-`../DLC_Main_Questline_Design_Method.md` against Mirny subnet, built entirely around Vostok's own internal
+`../DLC_Main_Questline_Design_Method.md` against Mirny subnet, built entirely around Ariun Nuur's own internal
 life — the second single-city candidate, after #8. **Not canon, not chosen, not the only candidate** — the
 9th of the "at least 10" the method calls for. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 1 of Mirny subnet's 8 cities (Vostok alone).**
+**Uses 1 of Mirny subnet's 8 cities (Ariun Nuur alone).**
 
 ---
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Vostok's own Local Cultures, §20 (Private Life & Minority Communities)** — a striking inversion,
+- **Ariun Nuur's own Local Cultures, §20 (Private Life & Minority Communities)** — a striking inversion,
   genuinely unused elsewhere: rather than a minority maintaining private identity beneath a dominant
-  culture, Vostok may have *no* community at all with a direct claim to its own founding story — "the
+  culture, Ariun Nuur may have *no* community at all with a direct claim to its own founding story — "the
   minority in the deepest sense may be whatever traces of the original Russian founding community, if any,
   remain."
-- **Vostok's own Full Extrapolation, Section VIII** — Archivist Yelena Voskresenskaya, the last known
+- **Ariun Nuur's own Full Extrapolation, Section VIII** — Archivist Yelena Voskresenskaya, the last known
   researcher of the original founding community, an already-proposed placeholder figure whose personal
   notes and idiosyncratic cataloging form one of the oldest, most difficult-to-interpret layers of the
   city's own established "incomprehensible archive."
-- **Vostok's own Full Extrapolation, Section IV** — the archive's own established nature: not one dataset
+- **Ariun Nuur's own Full Extrapolation, Section IV** — the archive's own established nature: not one dataset
   but "many overlapping partial pictures, compiled by people who never coordinated with each other across
   the centuries" — no single record fully aligns with any other.
-- **Vostok's own Full Extrapolation, Section VI** — the current population took up the Lake Vostok mission
+- **Ariun Nuur's own Full Extrapolation, Section VI** — the current population took up the Lake Vostok mission
   because the work itself was worth doing, not out of any inherited duty or ancestral obligation, since the
   legacy was never theirs to begin with.
 - **Explicitly excluded:** anything resolving what the archive's *scientific* content actually reveals about
@@ -36,7 +36,7 @@ life — the second single-city candidate, after #8. **Not canon, not chosen, no
 
 ## The Chain
 
-**SETUP** — Deep within Vostok's own incomprehensible archive, a researcher — plausibly the player
+**SETUP** — Deep within Ariun Nuur's own incomprehensible archive, a researcher — plausibly the player
 themselves — surfaces something genuinely different from the usual layered data: Archivist Yelena
 Voskresenskaya's own personal notes, the last direct voice of the original founding community, written in
 a register no purely scientific record carries. Not just what she found, but why the work mattered to her
@@ -95,7 +95,7 @@ actually doing afterward, so none reads as a disguised And Then.
 
 ## Worth Your Attention
 
-This candidate's core asset is that Vostok's own established facts already contain a real fault line nobody
+This candidate's core asset is that Ariun Nuur's own established facts already contain a real fault line nobody
 had previously connected: a population that genuinely, sincerely chose to take up work that was never
 theirs (Section VI) sitting on top of an archive so fragmented that nobody can actually verify what the
 original choosers truly meant (Section IV) — and a city where, per Section 20's own striking inversion,

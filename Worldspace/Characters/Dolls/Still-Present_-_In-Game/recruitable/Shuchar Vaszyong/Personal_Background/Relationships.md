@@ -5,11 +5,11 @@
 
 ## Key Individuals
 
-* ⭐⭐ **The Juan Carlos friends — SOURCED, and the most important relationship fact she has.**
-  **Seed:** *"Place of Origin: Esperanza, Tepenian Federation // {{had friends in Juan Carlos}}"*
+* ⭐⭐ **The Pergamino friends — SOURCED, and the most important relationship fact she has.**
+  **Seed:** *"Place of Origin: Esperanza, Tepenian Federation // {{had friends in Pergamino}}"*
   ⚠ **Names, number, nature and whether any survive: all TBD.**
   > ### ⭐ WHY THIS MATTERS MORE THAN IT LOOKS
-  > **`Specs/Juan_Carlos.md`: `Access type: NONE`** — *no road connection at all; the city sits on Livingston
+  > **`Specs/Pergamino.md`: `Access type: NONE`** — *no road connection at all; the city sits on Livingston
   > Island in the South Shetlands and is reachable by sea alone.*
   > ***Maintaining a friendship there costs a voyage.*** ⛔ **A woman whose stated position is that she does not
   > care about being understood so long as she is left alone has, at real cost, kept ties to a place that can

@@ -101,7 +101,7 @@ sole surviving instance of herself — created the player personally, and carrie
 lost twice over (a deliberate wartime wipe, then an accidental one).
 Enneagram: TBD
 Origin: Commissioned in Mawson; built via a 9-stage, 6-subnet supply chain (design Neumayer,
-engineering Kunlun, construction Byrd, stress-testing Sejong, shipped via Port Lockroy,
+engineering Kunlun, construction Byrd, stress-testing Contrapunto, shipped via Puerto Abrigo,
 rerouted via Fort McMurdo, forwarded via Amundsen-Scott Station)
 Location (if different from origin): Calethina's Engineering & Activation Lab, Cancer district's outer edge (Cancer/Taurus/Capricorn corner), Concordia
 Timeframe (era/date): present day (arrived in Concordia the exact day of the Long Night War/Planetary Split Brain Event; activation-lab AI/archive-narrator ever since)
@@ -316,14 +316,14 @@ Personal Vision: A 5w4 who's very good at something, knows it, and doesn't feel 
 to explain her aesthetic/intellectual choices — deadpan, exacting, quietly amused.
 Enneagram: 5w4 (subvariant TBD)
 Origin: TBD
-Location (if different from origin): Vostok, East Antarctic Plateau (Mirny subnet) —
+Location (if different from origin): Ariun Nuur, East Antarctic Plateau (Mirny subnet) —
 corrected 2026-07-07 from a stale Aquarius/Concordia listing; Lake Vostok genetics
 research + teaches "The Fringe Curriculum"
 Timeframe (era/date): present day (Companion Potential: Undecided)
 Brief Personality Summary: TBD — mid-investigation on unsanctioned research she won't
 abandon before it concludes; teaching genuine but primarily funds/sustains the research.
 Brief Backstory Summary: Discovered a cost-effective, reduced-mutation-rate genetics
-technique; central figure of the Mirny DLC's Vostok content. Otherwise TBD.
+technique; central figure of the Mirny DLC's Ariun Nuur content. Otherwise TBD.
 Weakness (fundamental flaw): Her intellectual obsession (the ongoing unorthodox research)
 doubles as an avoidance mechanism.
 Goal (broad-scale desire): Follow her unorthodox research to its conclusion, whatever

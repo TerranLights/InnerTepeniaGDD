@@ -222,7 +222,7 @@
 
 2. **The Names Wall.** An informal space (distinct from the Bridge Memorial) where Hub-born residents record their own chosen "belongs nowhere and everywhere" mottos — a lighter, personal counterpoint to the Memorial's heavy weight. *Trade-off: gives Hub-born identity a second, less politically charged expression alongside the Memorial; low complexity.*
 
-3. **The Sayowa Corner.** Given the already-established Sayowa-to-Hub demographic pattern, a specific area has organically become associated with Sayowa-descended crossroads philosophy — an informal cultural anchor point. *Trade-off: directly extends existing canon (the Sayowa/Hub connection); low risk, good texture.*
+3. **The Temirötkel Corner.** Given the already-established Temirötkel-to-Hub demographic pattern, a specific area has organically become associated with Temirötkel-descended crossroads philosophy — an informal cultural anchor point. *Trade-off: directly extends existing canon (the Temirötkel/Hub connection); low risk, good texture.*
 
 4. **The Layover Economy.** Small businesses specifically catering to short-term transit needs (not permanent residents) have their own distinct, respected commercial culture. *Trade-off: practical, grounded, easy to use for incidental world-building (shops, vendors).*
 

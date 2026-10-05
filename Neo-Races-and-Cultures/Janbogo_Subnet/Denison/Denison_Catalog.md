@@ -88,7 +88,7 @@ choice as one unified system rather than organically-connected buildings.
 - **USA (Primary):** Boulder, Colorado — home to real major wind-engineering and atmospheric research
   institutions (NCAR); a strong thematic match.
 - **Japan (Significant):** superseded by the Sanda, Hyōgo correction above (Tsukuba, the same real
-  dedicated engineering/science-research town used at Princess Elisabeth, remains a valid secondary
+  dedicated engineering/science-research town used at Utstein, remains a valid secondary
   match).
 - **South Korea (Significant):** No strong domestic match — flagged as weak.
 - **Indonesia (Significant):** No strong domestic match — flagged as weak.

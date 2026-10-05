@@ -52,10 +52,10 @@ note, and were excluded on that basis.
 2. **Feeder-city population culture → history.** `City_Refugee_District_Affinities.md`'s reverse index
    shows Scorpio has no organic 1st-tier feeder city — its four best-known refugee populations (Belgrano,
    Palmer City, Zukelli, Casey) are explicitly flagged as a Stage 2 Override, not real Stage 1 cultural
-   affinity. Its genuine organic match is Vostok (2nd tier): a population "inheriting a Russian scientific
+   affinity. Its genuine organic match is Ariun Nuur (2nd tier): a population "inheriting a Russian scientific
    legend that isn't theirs — a legend living in someone else's house." None of Scorpio's own documents
-   mention Vostok, despite that inherited-identity tension being close kin to Scorpio's own founding
-   specialty. A chain about specific Vostok-descended arrivals bringing this flavor of identity dissonance
+   mention Ariun Nuur, despite that inherited-identity tension being close kin to Scorpio's own founding
+   specialty. A chain about specific Ariun Nuur-descended arrivals bringing this flavor of identity dissonance
    to Scorpio's confrontation-based practice would use this unused, genuinely organic population match.
 
 3. **Real-world historical precedent.** `District-Inspirational-Influences.md` lists Cabaret Voltaire,

@@ -7,7 +7,7 @@ or a retrospective lost-function analysis (Candidate #12). **Not canon, not chos
 — a thirteenth possibility, beyond this subnet's own already-complete set of ten. Uses the Linear Escalation
 Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Palmer subnet's 8 cities** (Signy, Rothera, Marambio, Esperanza, Port Lockroy) — the one city
+**Uses 5 of Palmer subnet's 8 cities** (Signy, Rothera, Marambio, Esperanza, Puerto Abrigo) — the one city
 that needs sustained help reaching it (Signy) and the four surviving cities whose own established functions
 could actually form a real supply chain capable of reaching it. No city overlaps with Candidate #12's own
 cast; Rothera, Marambio, and Esperanza each reappear from earlier single- or dual-city candidates, but this
@@ -27,7 +27,7 @@ specific five-city combination, and the coalition-building mechanism itself, is 
 - **Marambio's and Esperanza's own established shipping division of labor** — Marambio handling bulk,
   high-volume cargo, Esperanza handling smaller-scale, specific, documented shipments, an arrangement
   established for their own Weddell Sea corridor's needs, not originally oriented toward Signy at all.
-- **Port Lockroy's own established postal/correspondence identity** — "moves words, not materials," the
+- **Puerto Abrigo's own established postal/correspondence identity** — "moves words, not materials," the
   established coordination and communication counterpart to Rothera's own materials-moving role.
 - **Explicitly excluded:** any re-litigation of Signy's own initial siligel crisis (Candidate #1's own
   climax) — this chain picks up afterward, addressing whether that crisis response becomes a genuine, lasting
@@ -42,13 +42,13 @@ durable than emergency aid: a real, lasting supply relationship that doesn't dep
 improvisation every time isolation and shortage collide again. Since Signy has no direct road, highway, or
 reliable Arcanet link to anywhere, building this means actually assembling formal cooperation across the
 entire chain that could realistically reach it — Rothera's production, Marambio's and Esperanza's own
-shipping capacity, and Port Lockroy's own coordination function tying the logistics together. The player is
+shipping capacity, and Puerto Abrigo's own coordination function tying the logistics together. The player is
 asked to help broker this multi-city arrangement — a straightforward "build lasting infrastructure" task.
 
 **BUT** — None of these four cities' own established priorities already point toward Signy. Rothera's
 production is already spoken for by its own post-war housing and industrial needs. Marambio's and Esperanza's
 shipping division of labor was built for their own corridor, not for a fifth city genuinely marginal to
-either. Port Lockroy's postal role has never had to coordinate logistics at this scale. Getting real,
+either. Puerto Abrigo's postal role has never had to coordinate logistics at this scale. Getting real,
 sustained commitment from all four means real, separately-won buy-in, not one shared moment of goodwill.
 
 **THEREFORE** — The player has to negotiate individually with each of the four contributing cities, building
@@ -57,7 +57,7 @@ the coalition piece by piece, since each has its own distinct reason to be reluc
 **BUT** — Once the coalition is actually built and running, a genuine complication surfaces: maintaining it
 means each of the four contributing cities now permanently carries a small, ongoing cost it didn't have
 before — a share of Rothera's production, a share of Marambio's and Esperanza's own shipping capacity, a
-share of Port Lockroy's coordination bandwidth — all in service of the subnet's single smallest, most
+share of Puerto Abrigo's coordination bandwidth — all in service of the subnet's single smallest, most
 isolated population. This raises a real, ongoing fairness question: should four more self-sufficient cities
 permanently subsidize the one city that will likely always be the hardest and most expensive to serve, or
 does Signy's own extreme vulnerability simply warrant that kind of permanent cross-subsidy regardless of the

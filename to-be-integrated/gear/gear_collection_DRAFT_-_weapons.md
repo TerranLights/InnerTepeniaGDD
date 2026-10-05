@@ -34,10 +34,10 @@ infrastructure parts between vault sections.
 **Marambio** — dual aviation/maritime hub. Aircraft tie-down chain and turnbuckle (flail-shaped by accident),
 shipyard dock cargo hooks, a pneumatic rivet gun.
 
-**Port Lockroy** — small, old, heritage-preservation town. A museum conservator's restoration scalpel/chisel
+**Puerto Abrigo** — small, old, heritage-preservation town. A museum conservator's restoration scalpel/chisel
 set; a harbor mooring gaff hook; a ship's-bell clapper as an improvised blunt object.
 
-**Sejong** — the most nationally-dense island in Tepenia, diplomatic/customs economy. A heavy customs
+**Contrapunto** — the most nationally-dense island in Tepenia, diplomatic/customs economy. A heavy customs
 stamp-press, a diplomatic courier's reinforced tamper-evident satchel strap, an island-crossing ice staff.
 
 **Signy** — isolated, no road in, biological research plus fishing. A marine sample-collection harpoon/corer
@@ -48,7 +48,7 @@ self-sufficiency multitool.
 guardian-charter ceremonial staff worth developing once the charter's own iconography exists, a heavy
 administrative birth-registry stamp.
 
-**Juan Carlos** — fishing/maritime economy, a genuine hosted-gathering civic tradition. Net-weight flails,
+**Pergamino** — fishing/maritime economy, a genuine hosted-gathering civic tradition. Net-weight flails,
 gaff hooks, and the hosting tradition's own carving knife/large ladle.
 
 ---
@@ -68,7 +68,7 @@ bars, trade-hub cargo hooks.
 **Neumayer** — precision instrumentation, Amundsen Tower engineering legacy. Surveying-tripod stakes
 (spear-shaped precision hardware) and structural-stress probe rods.
 
-**Princess Elisabeth** — renewable energy, zero-emission off-grid infrastructure. Wind-turbine blade
+**Utstein** — renewable energy, zero-emission off-grid infrastructure. Wind-turbine blade
 maintenance tools, solar-array cleaning poles, energy-diagnostic probes.
 
 **Sanay** — the subnet's actual Arcanet nexus, genuine port/shipyard city (Halley keeps the naming credit).
@@ -78,7 +78,7 @@ Shipyard welding rods, dockworker cargo hooks, crane cable.
 ground-crew marshalling wands, cargo pallet jacks. Worth noting: Troll is already canon-contested territory,
 so its gear-to-weapon translation can lean harder into "actually used this way" than most cities.
 
-**Abowasa** — small, joint Finnish/Swedish founding. Kept deliberately modest — small household-scale fishing
+**Santa Luce** — small, joint Finnish/Swedish founding. Kept deliberately modest — small household-scale fishing
 gear, nothing large-industrial, matching the city's own small established scale.
 
 ---
@@ -89,7 +89,7 @@ gear, nothing large-industrial, matching the city's own small established scale.
 tray, dockside cargo hooks, polynya fishing-net weights.
 
 **Cape Adare** — heritage site (the 1899 hut), marine/commercial gateway. Restoration tools (same family as
-Port Lockroy's), gateway customs hooks.
+Puerto Abrigo's), gateway customs hooks.
 
 **Denison** — the windiest ground on Earth, a single sealed interlinked structure. Wind-anchor turnbuckles,
 structural wind-brace struts, and — distinct from Mirny's Windbreak Turbine Fragment — a loose,
@@ -134,7 +134,7 @@ sample corer and a greenhouse glass-cutting tool.
 **Kunlun** — astronomy-dominant, extreme altitude, near-Earth-object observation. Telescope/observatory
 alignment poles, altitude-survival kit tools, oldest-ice-on-Earth core samplers.
 
-**Vostok** — the coldest city on Earth, Lake Vostok subglacial genetics research. A deep ice-core drill bit
+**Ariun Nuur** — the coldest city on Earth, Lake Vostok subglacial genetics research. A deep ice-core drill bit
 distinct from the ordinary household version by sheer depth and precision — the most extreme drilling
 operation in the country, sitting above 25 million sealed years. Genetics-lab extraction needles and an
 extreme-cold survival toolkit (a genuine quarter of this city's whole economy).
@@ -152,7 +152,7 @@ pilgrimage implement, written as an actual devotee's actual object rather than g
 archival ice-core sample tools; altitude-legacy medical equipment maintained for a human population that may
 no longer be present.
 
-**Sayowa** — industrial fabrication, trucking/dispatch, the one point where three regions physically meet.
+**Temirötkel** — industrial fabrication, trucking/dispatch, the one point where three regions physically meet.
 Fabrication-floor tools, tow chains/cargo ratchet straps, and a highway-junction signal flag.
 
 ---
@@ -182,8 +182,8 @@ from here should read as historical/salvaged, the same register as Zukelli's ent
 ## Recurring Motifs — Consolidation Candidates
 
 Carried over from `splatter_8`, not yet acted on: cargo/dock hooks (Marambio, Sanay, Janbogo, Zukelli, Casey,
-Byrd, Cape Adare, Esperanza, Juan Carlos), chains/cables/tow-lines (Marambio, Belgrano, Lazar, Sanay, Troll,
-Sayowa), and hospitality serving implements (Palmer City, Janbogo, Zukelli, Juan Carlos, Mawson) all repeat
+Byrd, Cape Adare, Esperanza, Pergamino), chains/cables/tow-lines (Marambio, Belgrano, Lazar, Sanay, Troll,
+Temirötkel), and hospitality serving implements (Palmer City, Janbogo, Zukelli, Pergamino, Mawson) all repeat
 often enough that they probably deserve one strong catalog entry each, flavored per-district, rather than
 being formalized as near-duplicate standalone items. Flagged for whoever does the final `Weapon_Item_Catalog.md`
 integration pass — not resolved here.

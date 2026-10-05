@@ -7,7 +7,7 @@ Candidates #11–#20 and Halley subnet's own Candidates #11–#20 were built und
 the only candidate.** Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Mirny, Zhongshan, Davis, Vostok, Kunlun), and naturally extends to
+**Uses 5 of Mirny subnet's 8 cities** (Mirny, Zhongshan, Davis, Ariun Nuur, Kunlun), and naturally extends to
 reference Sinheung and Shirayuki as well, since Zhongshan's own cluster damage is a shared, three-city fact.
 **Explicitly does not use or reference the Cradle chamber-manufacturing network, Mountain Pass, or the player
 character's own origin** — Throughway 1's own established material stays untouched here, consistent with this
@@ -21,12 +21,12 @@ project's standing rule that the Cradle/player-origin connection is never quest 
   Casey destroyed (dual highway chokepoint), the Zhongshan/Sinheung/Shirayuki cluster damaged (targeted
   strike on shared tri-junction manufacturing capacity), Mirny damaged but surviving (dispersed windbreak-ring
   architecture made it too costly to eliminate outright), Davis damaged but lower-priority (feeder role, no
-  final-stage capacity worth destroying), and Vostok/Kunlun surviving entirely undamaged (extreme remoteness
+  final-stage capacity worth destroying), and Ariun Nuur/Kunlun surviving entirely undamaged (extreme remoteness
   made reaching them not worth the cost).
 - **Mirny Cross-City Throughways, Throughway 4** — the explicit finding that every documented case of damage
   or destruction in this subnet traces to infrastructure value and reachability alone, a genuinely narrower
   and more consistent targeting logic than Janbogo/Ross subnet's own two-principle taxonomy.
-- **Mirny Cross-City Patterns, Pattern 6** — Vostok's and Kunlun's own established "two loneliest outposts"
+- **Mirny Cross-City Patterns, Pattern 6** — Ariun Nuur's and Kunlun's own established "two loneliest outposts"
   relationship, used here only for its general, established fact of mutual isolation and resource-sharing —
   not for its connection to Mountain Pass or the Tower, which this chain deliberately leaves untouched.
 - **Explicitly excluded:** Throughway 1 in its entirety (the Cradle chamber network and the player character's
@@ -52,7 +52,7 @@ against future risk means trading away the very centralization and efficiency th
 relay function, with the Zhongshan cluster over its own shared manufacturing node — about how much
 efficiency to sacrifice for reduced exposure.
 
-**BUT** — The reversal deepens once Vostok and Kunlun enter the assessment: both survived not because
+**BUT** — The reversal deepens once Ariun Nuur and Kunlun enter the assessment: both survived not because
 they're inherently safe, but because their extreme remoteness made reaching them not worth the cost. Any
 serious push to better integrate them into the subnet's own infrastructure network — for genuine efficiency
 and resource-sharing, consistent with their own established mutual-dependency relationship — would directly
@@ -66,7 +66,7 @@ cities whose safety has depended entirely on staying disconnected.
 infrastructure hardening makes the whole subnet more resilient and materially better-off day to day — but
 concentrates or connects more of its critical function into fewer, larger, more identifiable targets, exactly
 the profile Pattern 2 already shows gets struck. Preserving the current dispersed, disconnected
-arrangement — Vostok's and Kunlun's own genuine isolation included — keeps the subnet's real vulnerability
+arrangement — Ariun Nuur's and Kunlun's own genuine isolation included — keeps the subnet's real vulnerability
 as low as it has ever measured, but locks in real, ongoing inefficiency for cities that could plainly use the
 improvement.
 
@@ -83,7 +83,7 @@ continue to live with.
 Reading only the conjunctions: SETUP → BUT → THEREFORE → BUT → THEREFORE → BUT → THEREFORE. No repeated
 conjunction in a row. Each BUT changes the shape of the problem: the first BUT turns "assess vulnerability"
 into "the valuable qualities and the vulnerable qualities are the same qualities"; the second BUT turns
-"negotiate trade-offs" into "Vostok's and Kunlun's own safety depends on the isolation any real improvement
+"negotiate trade-offs" into "Ariun Nuur's and Kunlun's own safety depends on the isolation any real improvement
 would undo"; the third BUT turns "harden or preserve" into "there is no option that doesn't cost either
 recreating the war's own target-profile or real, ongoing inefficiency." Deleting any one Complication changes
 what the player is actually choosing at the end, so none reads as a disguised And Then.
@@ -95,6 +95,6 @@ what the player is actually choosing at the end, so none reads as a disguised An
 This candidate's core asset is that it takes Pattern 2's own single-principle war-damage logic — already
 flagged as this Ultra-Megasheet's second most significant finding — and turns it forward into a live,
 present-day policy question, rather than leaving it as a historical explanation. It's also the first Mirny
-subnet candidate to put Vostok's and Kunlun's own established isolation to direct dramatic use without
+subnet candidate to put Ariun Nuur's and Kunlun's own established isolation to direct dramatic use without
 touching Throughway 1's own off-limits Cradle material at all — their safety-through-remoteness becomes the
 actual stakes of a policy choice, not a stepping stone toward the player character's own backstory.

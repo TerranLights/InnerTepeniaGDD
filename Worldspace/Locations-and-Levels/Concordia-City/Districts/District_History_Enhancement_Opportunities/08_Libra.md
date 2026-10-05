@@ -49,12 +49,12 @@ conviction, Harmony Plaza's uncanny symmetry) while leaving several tensions exp
    use a figure and event the source material names as significant folklore but never actually shows.
 
 2. **Feeder-city population culture → history.** `City_Refugee_District_Affinities.md`'s own per-city
-   reasoning for Juan Carlos — a genuine top-tier Libra feeder city, no Stage 2 Override flag — describes
+   reasoning for Pergamino — a genuine top-tier Libra feeder city, no Stage 2 Override flag — describes
    the city's archive/records function as "quiet, ordinary administrative work that turned out to be the
    seed of Tepenia's entire institutional memory, and the specific reason Upper Earth destroyed it." None
-   of Libra's own four documents mention Juan Carlos, despite the district's own established Treaty Archive
+   of Libra's own four documents mention Pergamino, despite the district's own established Treaty Archive
    Vaults sharing this exact tension — record-keeping as simultaneously mundane and existentially
-   consequential. A chain about Juan Carlos-descended archivists shaping how founding-era Libra actually
+   consequential. A chain about Pergamino-descended archivists shaping how founding-era Libra actually
    built its own institutional memory would use this unused, sharply resonant population match.
 
 3. **Real-world historical precedent.** `District-Inspirational-Influences.md` lists Brussels (EU Quarter)

@@ -415,7 +415,7 @@ as a fixed rule.
 **Real-world parallel community/communities identified:** Chamonix, French Alps (geography — strong,
 glacier-fed, extreme mountain terrain) and Lyon (civic type — strong, France's own real
 gastronomic/cultural hub). Smallest population share at Lazar, yet dual-anchored — a milder echo of the
-small-population-strong-match pattern already seen at Abowasa (Germany) and Belgrano (UK).
+small-population-strong-match pattern already seen at Santa Luce (Germany) and Belgrano (UK).
 
 #### Surface Culture findings
 - **Food:** Lyon's own real gastronomic sophistication, a genuine culinary-culture contribution
@@ -476,7 +476,7 @@ small-population-strong-match pattern already seen at Abowasa (Germany) and Belg
 established faction, "Grown Together," names the city's *actual* fault line as old-coalesced-core
 (the original Novolazarevskaya settlement) versus newer-expansion (the absorbed Maitri site) — not
 founder-nation-versus-majority the way every other city cataloged so far works. This is closer in kind
-to Port Lockroy's temporal tension or Sejong's relational one than to Sanay's or Abowasa's national
+to Puerto Abrigo's temporal tension or Contrapunto's relational one than to Sanay's or Santa Luce's national
 founding-drift pattern: the live, low-grade tension here is between residents who remember what it took
 to grow two places into one, and residents for whom that memory is calcifying into gatekeeping. Worth
 treating as the primary internal fault line, with the national-population layering below sitting

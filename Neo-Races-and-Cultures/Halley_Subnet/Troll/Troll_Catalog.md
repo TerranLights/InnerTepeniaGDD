@@ -18,7 +18,7 @@ first pass, not yet developer-confirmed as final.
   shelf, part of a dramatic mountain landscape (Heimefrontfjella visible in the distance). Troll
   Airfield (~3,000m) made it the subnet's most significant aviation node.
 - **Geological composition:** Rocky nunatak outcrops projecting above the ice sheet — bedrock
-  foundation, inland/elevated character shared with Abowasa and Sanay.
+  foundation, inland/elevated character shared with Santa Luce and Sanay.
 
 ---
 
@@ -459,7 +459,7 @@ that this file's own freight-precision framing didn't previously connect to anyt
 Troll's logistics competence quite literally kept a sacred city supplied.
 
 **Philosophical core:** Troll shares the "Competence Without Commentary" faction with Sanay and
-Abowasa, but its own angle is sharper and more overtly political than either: **"competence is
+Santa Luce, but its own angle is sharper and more overtly political than either: **"competence is
 leverage, converted into control of the thing that matters."** This maps directly onto the airfield's
 own established contested-control stakes (the DLC 5 central-conflict candidate) — per the city's
 official identity, "Whoever Holds the Runway," there is explicitly *no neutral path* here; residents

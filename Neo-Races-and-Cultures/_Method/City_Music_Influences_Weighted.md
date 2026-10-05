@@ -16,7 +16,7 @@ local variant surfaced" are omitted since there's nothing to list.
 - Brazil (11.57%) — samba/forró-descended tradition
 - UK (7.18%) — British maritime folk/sea-shanty tradition
 
-### Abowasa
+### Santa Luce
 - USA (18.60%) — Appalachian folk/bluegrass, informal front-porch register
 - Russia (9.88%) — small-scale, home/neighbor-oriented (no named genre)
 - Brazil (9.76%) — domestically-scaled festive register (no named genre)
@@ -41,7 +41,7 @@ local variant surfaced" are omitted since there's nothing to list.
 - Brazil (4.60%) — Brazilian-diaspora baseline layered onto the Electronic/Metal/Digital-Industrial city
   sound
 
-### Princess Elisabeth
+### Utstein
 - Brazil (8.18%) — general Brazilian-diaspora baseline (no named genre)
 
 ### Troll
@@ -55,7 +55,7 @@ local variant surfaced" are omitted since there's nothing to list.
 - Brazil (18.92%) — communal warmth/festive-counterpoint register (samba-descended)
 - Mexico (17.45%) — *son jarocho* (Veracruz)
 
-### Juan Carlos
+### Pergamino
 *(No population's Music entry surfaced a distinct finding at this city.)*
 
 ### Marambio
@@ -71,7 +71,7 @@ local variant surfaced" are omitted since there's nothing to list.
 - Mexico (5.71%) — Mexico City urban density/diversity (no single named genre)
 - Canada (5.68%) — Montreal bilingual jazz-nightlife culture
 
-### Port Lockroy
+### Puerto Abrigo
 - Germany (14.83%) — general German baseline (no named genre)
 - Brazil (9.65%) — general Brazilian-diaspora baseline (no named genre)
 - Mexico (4.46%) — general Mexican baseline (no named genre)
@@ -80,7 +80,7 @@ local variant surfaced" are omitted since there's nothing to list.
 - Brazil (14.00%) — Volta Redonda industrial-city culture (no named genre)
 - Mexico (7.13%) — Monterrey industrial-city culture (no named genre)
 
-### Sejong
+### Contrapunto
 - Mexico (11.28%) — Mexican-inflected register within its own quarter (no named genre)
 - Brazil (6.69%) — communal-warmth register (samba-descended), expressed within its own quarter
 - Russia (6.12%) — Russian-inflected register within its own quarter (no named genre)

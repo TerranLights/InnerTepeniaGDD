@@ -7,7 +7,7 @@ rather than Candidate #11's credit-attribution campaign, Candidate #12's reconst
 Candidate #13's faction-mediation. **Not canon, not chosen, not the only candidate.** Uses the Linear
 Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Halley subnet's 8 cities** (Lazar, Abowasa, Halley, Neumayer, Belgrano).
+**Uses 5 of Halley subnet's 8 cities** (Lazar, Santa Luce, Halley, Neumayer, Belgrano).
 
 ---
 
@@ -16,7 +16,7 @@ Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 - **Halley Cross-City Patterns, Pattern 4** — the subnet's own two clearest examples of founding plurality,
   in opposite directions: Lazar, never founded by one nation at all, two separate settlements
   (Novolazarevskaya, the unoccupied Maitri site) coalescing into Tepenia's single largest city with no clean
-  founding-population story to dilute; and Abowasa, jointly founded by Finland and Sweden simultaneously at
+  founding-population story to dilute; and Santa Luce, jointly founded by Finland and Sweden simultaneously at
   the subnet's smallest, most intimate civic scale — plurality expressed as household-level negotiation, not
   demographic mathematics.
 - **The general pattern most other Halley subnet cities follow instead** (Cross-City Patterns, Pattern 4's own
@@ -36,7 +36,7 @@ Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 ## The Chain
 
 **SETUP** — With a round-number anniversary of the subnet's own founding era approaching, a push emerges to
-hold a formal, subnet-wide commemoration at Halley, centering Lazar's and Abowasa's own established founding
+hold a formal, subnet-wide commemoration at Halley, centering Lazar's and Santa Luce's own established founding
 plurality — the subnet's uniquely matched pair of maximum-scale and minimum-scale examples — as its
 celebratory throughline. The player is asked to help gather each city's own contribution and coordinate the
 event — a straightforward, if ambitious, ceremony-planning task.
@@ -48,7 +48,7 @@ identity is being smoothed into an "equal merger" narrative with the once-unoccu
 that doesn't match how unequal the two origins actually feel in lived memory.
 
 **THEREFORE** — The player has to actually investigate this tension directly, talking to different
-community factions within Lazar and cross-referencing against Abowasa's own genuinely equal, deliberately
+community factions within Lazar and cross-referencing against Santa Luce's own genuinely equal, deliberately
 joint founding as a contrast, to determine whether the subnet's celebratory "plural founding" framing is
 honest or quietly papering something over.
 

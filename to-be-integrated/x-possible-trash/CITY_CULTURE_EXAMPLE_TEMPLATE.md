@@ -105,7 +105,7 @@ People do not end up in Zhongshan by accident. It is not a transit hub; it is no
 
 - **The type this city repels:** People who need social feedback to feel present. People who process things by talking about them publicly. People who find quietness cold. People who read non-prying as indifference rather than respect.
 
-- **Ji-Eun Kim (case study):** Chose Zhongshan over Davis during the period between Sejong and Concordia. Davis, despite being a geographically closer and similarly composed East Asian city, has a strong Australian founding wave — warmer and more extroverted, more likely to ask where you're from and why you came. Zhongshan didn't ask. Ji-Eun's work in nanotech fit the city's craft ethic; her Korean identity fit quietly into the notable tier community structure; and her need for a city that wouldn't require her to explain herself was met exactly. She stayed long enough to move from visitor to something approaching resident.
+- **Ji-Eun Kim (case study):** Chose Zhongshan over Davis during the period between Contrapunto and Concordia. Davis, despite being a geographically closer and similarly composed East Asian city, has a strong Australian founding wave — warmer and more extroverted, more likely to ask where you're from and why you came. Zhongshan didn't ask. Ji-Eun's work in nanotech fit the city's craft ethic; her Korean identity fit quietly into the notable tier community structure; and her need for a city that wouldn't require her to explain herself was met exactly. She stayed long enough to move from visitor to something approaching resident.
 
 ---
 
@@ -364,7 +364,7 @@ Ji-Eun Kim arrived in Zhongshan as a visitor and reached something approaching r
 - **[Placeholder — Russian cultural figure]** — the Russian community figure most responsible for the tea-and-samovar synthesis becoming a shared tradition rather than two parallel ones
 - **[Placeholder — artisan tradition founder]** — the craftsperson whose work established the cross-cultural object trade as a recognized Zhongshan institution
 - **[Placeholder — literary figure]** — the writer considered to have most fully expressed the Zhongshan sensibility; possibly a robot
-- *Ji-Eun Kim* — nanotech engineer; temporarily resident in Zhongshan between Sejong and Concordia; chose Zhongshan specifically for its non-prying culture; her precision craft work (gold ocular implants for the Eyes of Gold) was consistent with Zhongshan's craft ethic and gave her standing in the city's technical community; reached something approaching residency before continuing to Concordia
+- *Ji-Eun Kim* — nanotech engineer; temporarily resident in Zhongshan between Contrapunto and Concordia; chose Zhongshan specifically for its non-prying culture; her precision craft work (gold ocular implants for the Eyes of Gold) was consistent with Zhongshan's craft ethic and gave her standing in the city's technical community; reached something approaching residency before continuing to Concordia
 
 ---
 

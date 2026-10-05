@@ -30,6 +30,6 @@ the Falkland Treaty's own established timeline.
 
 ## Landing and Settling
 
-She landed first in Sejong. She later relocated to Palmer City specifically for its social connections and
+She landed first in Contrapunto. She later relocated to Palmer City specifically for its social connections and
 possibilities — consistent with someone whose original identity was built on genuine social warmth, looking for
 a place that could actually offer some version of that back.

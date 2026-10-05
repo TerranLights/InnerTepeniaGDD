@@ -7,7 +7,7 @@ cities" candidates (#11 through #20) the same way Palmer subnet's own Candidate 
 Candidate #20 closed their matching runs. **Not canon, not chosen, not the only candidate.** Uses the Linear
 Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Mirny, Zhongshan, Davis, Vostok, Kunlun — the five cities most
+**Uses 5 of Mirny subnet's 8 cities** (Mirny, Zhongshan, Davis, Ariun Nuur, Kunlun — the five cities most
 directly implicated across this run's own contested decisions) — and, by its own nature, naturally extends to
 draw on Sinheung, Shirayuki, and Casey as well, since a subnet-wide archive has no honest reason to exclude
 any of them.

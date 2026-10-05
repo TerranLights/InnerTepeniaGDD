@@ -165,7 +165,7 @@ unaffected."*
 |---|--:|---|
 | **Kunlun** | 4,087 m | ⛔ **Forbidden — lethal** |
 | **Dome Fuji** | 3,810 m | ⛔ **Forbidden — lethal** |
-| **Vostok** | 3,488 m | present |
+| **Ariun Nuur** | 3,488 m | present |
 | ⭐ **Concordia** | **3,233 m** | ✅ **~309,000 — survivable, never comfortable** |
 
 ***The human survivability line sits between roughly 3,500 and 3,800 m, and Concordia sits just below it.***

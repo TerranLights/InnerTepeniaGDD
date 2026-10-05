@@ -74,7 +74,7 @@ why she eventually left. **The seed does not say she left unhappy, and this shou
 
 ---
 
-## Princess Elisabeth — the least-understood chapter
+## Utstein — the least-understood chapter
 
 She moved there for reasons the seed leaves **open**. **[Sourced as open]** Developer's floated candidates:
 
@@ -82,12 +82,12 @@ She moved there for reasons the seed leaves **open**. **[Sourced as open]** Deve
 2. A pull toward a clean/renewable-energy cause
 3. Some other, yet-undetermined motivation
 
-**[Strong Inference]** Option 2 has the strongest external support: Princess Elisabeth is the Federation's
+**[Strong Inference]** Option 2 has the strongest external support: Utstein is the Federation's
 **zero-emissions station**, the most recently built of the founding stations, and its ruined power systems are already flagged as a candidate questline
-(`Specs/Princess_Elisabeth.md`). A character motivated toward clean-energy work would fit the city precisely,
+(`Specs/Utstein.md`). A character motivated toward clean-energy work would fit the city precisely,
 and would hand that questline a personal connection it currently lacks.
 
-**Worth noting as a shape, not a conclusion:** Esperanza is care *for people*; Princess Elisabeth would be
+**Worth noting as a shape, not a conclusion:** Esperanza is care *for people*; Utstein would be
 contribution *to a cause*. If that is the actual sequence, it is a meaningful shift — someone who tried to solve
 loneliness through service to individuals, then tried solving it through service to something larger. And then
 left that too, for Zukelli, which is neither.

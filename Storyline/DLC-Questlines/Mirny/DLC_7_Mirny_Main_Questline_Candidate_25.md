@@ -5,7 +5,7 @@ running `../DLC_Main_Questline_Design_Method.md` against Mirny subnet, built aro
 dilemma over Mirny's own doubled hub function. **Not canon, not chosen, not the only candidate.** Uses the
 Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 5 of Mirny subnet's 8 cities** (Mirny, Zhongshan, Davis, Vostok, Kunlun), and naturally extends to
+**Uses 5 of Mirny subnet's 8 cities** (Mirny, Zhongshan, Davis, Ariun Nuur, Kunlun), and naturally extends to
 Sinheung and Shirayuki as well, since all six other subnet cities depend on Mirny's own relay function.
 
 ---
@@ -14,7 +14,7 @@ Sinheung and Shirayuki as well, since all six other subnet cities depend on Mirn
 
 - **Mirny Subnet Full Extrapolation, Section VI** — the established proposal of a Subnet Coordinator role
   responsible for balancing Mirny's own doubled hub function (Arcanet relay routing for Zhongshan, Sinheung,
-  Shirayuki, Davis, Vostok, and Kunlun, alongside the city's own construction-materials and
+  Shirayuki, Davis, Ariun Nuur, and Kunlun, alongside the city's own construction-materials and
   maintenance-machinery output), a role specifically created because the war damaged both systems at once.
 - **Mirny Cross-City Patterns, Pattern 3** — the established fact that Mirny's own doubled hub identity
   (communications and industrial function both, at equal weight) is a heavier load than any comparable single
@@ -39,29 +39,29 @@ once. Splitting the function risks each new office optimizing its own domain wit
 trade-offs the other is making.
 
 **THEREFORE** — The player has to consult the six cities that depend on Mirny's output — traveling to
-Zhongshan, Davis, Vostok, and Kunlun directly — about whether they'd prefer the function split or kept
+Zhongshan, Davis, Ariun Nuur, and Kunlun directly — about whether they'd prefer the function split or kept
 unified.
 
 **BUT** — The reversal lands once their actual preferences diverge: cities with more singular, high-volume
-needs, like Zhongshan, would benefit from focused, specialized service. But Vostok and Kunlun, whose own
+needs, like Zhongshan, would benefit from focused, specialized service. But Ariun Nuur and Kunlun, whose own
 comparatively unusual combination of occasional communications need and rare, critical material shipments
 depends on a single office's holistic judgment, would be worse served by two institutions that no longer
 automatically coordinate with each other.
 
 **THEREFORE** — What began as an efficiency question becomes a real choice between serving the subnet's
-higher-volume cities better and serving Vostok's and Kunlun's own more unusual, dual needs well.
+higher-volume cities better and serving Ariun Nuur's and Kunlun's own more unusual, dual needs well.
 
 **BUT** — The reversal cuts against a clean answer either way. Splitting Mirny's function into two
 specialized offices improves day-to-day efficiency and reduces strain, genuinely serving cities with more
-singular, high-volume needs — but leaves Vostok and Kunlun, whose own dual needs benefit from unified
+singular, high-volume needs — but leaves Ariun Nuur and Kunlun, whose own dual needs benefit from unified
 judgment, worse served by institutions that no longer talk to each other by default. Keeping the function
-unified preserves that holistic judgment for Vostok's and Kunlun's own benefit — but continues straining a
+unified preserves that holistic judgment for Ariun Nuur's and Kunlun's own benefit — but continues straining a
 single office trying to do two full-time jobs at once, raising the real risk of errors for everyone who
 depends on Mirny.
 
 **THEREFORE** — Consistent with this project's own No Good Endings law, the resolution is the player's own
 role in whether Mirny's own doubled function actually gets split or stays unified: split it, improving
-day-to-day efficiency at the cost of Vostok's and Kunlun's own comparatively unusual needs; or keep it
+day-to-day efficiency at the cost of Ariun Nuur's and Kunlun's own comparatively unusual needs; or keep it
 unified, protecting their needs at the cost of continued strain and real risk for everyone Mirny serves.
 
 ---
@@ -73,7 +73,7 @@ conjunction in a row. Each BUT changes the shape of the problem: the first BUT t
 "splitting it loses the holistic judgment the current arrangement actually provides"; the second BUT turns
 "ask the dependent cities" into "their own preferences genuinely diverge based on what kind of need they
 actually have"; the third BUT turns "split or unify" into "there is no option that doesn't cost either
-day-to-day efficiency or Vostok's and Kunlun's own comparatively unusual needs." Deleting any one Complication
+day-to-day efficiency or Ariun Nuur's and Kunlun's own comparatively unusual needs." Deleting any one Complication
 changes what the player is actually choosing at the end, so none reads as a disguised And Then.
 
 ---

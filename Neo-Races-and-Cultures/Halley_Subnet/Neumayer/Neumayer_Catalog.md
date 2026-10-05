@@ -401,7 +401,7 @@ share at Neumayer.
 weak specifically at cities whose defining category is a **small, purpose-built, single-mission
 settlement** (Belgrano's garage/industrial culture, Halley's pure-gateway-town, and now Neumayer's
 dedicated-research-town) — but strong at cities whose category is a **large, organic, multi-purpose
-city** (Sanay's Santos, Abowasa's Alphaville, Lazar's São Paulo). This tracks a genuine real-world
+city** (Sanay's Santos, Santa Luce's Alphaville, Lazar's São Paulo). This tracks a genuine real-world
 pattern: Brazil's own urban development historically concentrates in large multi-purpose cities rather
 than small purpose-built specialized towns, so this isn't a matching-method weakness — it's an accurate
 reflection of where Brazilian-diaspora precedents actually exist. Worth treating as a predictive rule

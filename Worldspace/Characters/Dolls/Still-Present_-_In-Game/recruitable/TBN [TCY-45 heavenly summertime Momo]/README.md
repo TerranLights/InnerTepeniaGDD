@@ -62,7 +62,7 @@ self-forgetting, merging with whoever is present, avoiding the friction of asser
 her central failure mode is not a 4's failure mode.
 
 **MACHINE Stat Profile — deliberately left blank.** No mechanical data in the seed, and enough of her history is
-open (her Signy occupation, her Princess Elisabeth work) that a stat profile now would be guesswork rather than
+open (her Signy occupation, her Utstein work) that a stat profile now would be guesswork rather than
 derivation.
 
 **Key Traits / Notable Perks:** TBD.
@@ -143,11 +143,11 @@ that, or simply followed the work and found herself somewhere that fit, is an op
 > caregiver to human families, working inside the compact. Worth cross-referencing when that question is taken
 > up properly.
 
-**Princess Elisabeth** *(Halley subnet)* — reasons undecided in the seed; the developer's leading hypothesis is
+**Utstein** *(Halley subnet)* — reasons undecided in the seed; the developer's leading hypothesis is
 a wish to be useful, possibly toward a clean-and-renewable-energy cause. **[Sourced as hypothesis]** **This
-lands on real canon [Strong Inference]:** Princess Elisabeth is the Federation's zero-emissions station, and its
+lands on real canon [Strong Inference]:** Utstein is the Federation's zero-emissions station, and its
 ruined power systems are already flagged as a candidate
-questline (`Specs/Princess_Elisabeth.md`). The clean-energy motive fits the city exactly and is the strongest of
+questline (`Specs/Utstein.md`). The clean-energy motive fits the city exactly and is the strongest of
 the seed's three floated options.
 
 **Zukelli** *(Janbogo subnet)* — drawn by Zukelli's widely-known sense of community. **[Sourced]** Zukelli's
@@ -165,8 +165,8 @@ Federation had to an answer — and, by the seed's account, she found it.
 **[Strong Inference]**
 
 - **Zukelli she lost to the war, present and first-hand.** That is the wound.
-- **Signy, Esperanza, and Princess Elisabeth she had already left, years or decades earlier, for her own
-  ordinary reasons — and then the war destroyed Esperanza and Princess Elisabeth behind her, long after she had
+- **Signy, Esperanza, and Utstein she had already left, years or decades earlier, for her own
+  ordinary reasons — and then the war destroyed Esperanza and Utstein behind her, long after she had
   gone.** She did not lose those cities. She lost the *possibility of return* to them, retroactively, without
   being there.
 
@@ -261,12 +261,12 @@ Two further notes, both usable:
 - **Cross-reference opportunity:** she answers `Specs/Esperanza.md:146` (robots' role in the care compact).
 - TODOs:
   - [x] Enneagram — **4w5 Self-Pres (55%) + 9w1 Undercurrent (45%); main-type subvariant resolved 2026-08-29.**
-  - [x] Backstory spine — **Signy → Esperanza → Princess Elisabeth → Zukelli → Concordia, resolved 2026-08-29.**
+  - [x] Backstory spine — **Signy → Esperanza → Utstein → Zukelli → Concordia, resolved 2026-08-29.**
   - [ ] **Official name.** "Momo" is a working placeholder only.
   - [ ] **Goal / broad-scale desire** — the one major field still empty.
   - [ ] Concordia district placement.
   - [ ] Undercurrent instinctual subvariant (Self-Pres vs. Sexual).
-  - [ ] Her original occupation in Signy; her actual work at Princess Elisabeth.
+  - [ ] Her original occupation in Signy; her actual work at Utstein.
   - [ ] The Zukelli item — what it specifically is.
   - [ ] Identities of the found families, and how many survive.
   - [ ] MACHINE stat baseline — deferred until the above resolve.

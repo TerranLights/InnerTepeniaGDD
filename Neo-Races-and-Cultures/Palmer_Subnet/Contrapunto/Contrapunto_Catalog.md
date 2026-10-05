@@ -1,9 +1,11 @@
-# Sejong — Neo-Race Cataloging (Phase 1)
+# Contrapunto — Neo-Race Cataloging (Phase 1)
+
+> **⚠ RENAMED 2026-10-03 (`DR-43`): formerly *Sejong*, after the real King Sejong Station and King Sejong the Great; now **Contrapunto**.** Any line below that still says "Sejong", "Hangul" or "Sejongite" names the REAL station, King or city, or tells the story of the FORMER name (the Korean-alphabet namesake, the Janbogo "shared Korean naming" comparison, the Hangul-literacy figures and "Hangul Day"). The latter are revisit items. Contrapunto is Spanish: counterpoint, and in Chile, Argentina and Uruguay a verse duel between two improvising poets; founders: Chile first (`DR-35`). The demonym "Sejongite" belonged to the former name and is open.
 
 **Status:** City Snapshot, Real-World Parallel Locations, City-Type Parallels, and Population Weighting
 filled 2026-07-16. **Per-Nation Entries (Phase 1c) complete 2026-07-16** — seventh Palmer subnet city
-finished. Pre-drafted against `City_Enneagram_Personalities/Palmer_Subnet/Sejong.md`,
-`City_Vision_Notes/Sejong.md`, and `Sejong_Mega_Init.md`'s Inspirational Influences research per the
+finished. Pre-drafted against `City_Enneagram_Personalities/Palmer_Subnet/Contrapunto.md`,
+`City_Vision_Notes/Contrapunto.md`, and `Sejong_Mega_Init.md`'s Inspirational Influences research per the
 process requirement — this substantially revised the original weak City-Type read below. Synthesis
 Notes (Phase 2) drafted as a working first pass, not yet developer-confirmed as final.
 
@@ -13,7 +15,7 @@ Notes (Phase 2) drafted as a working first pass, not yet developer-confirmed as 
 
 - **Nations present, by tier:** Primary — USA. Significant — France, UK, Mexico, Germany, Brazil,
   Italy, Russia, South Korea. Notable — Argentina (founding wave), Chile (founding wave), Uruguay. Exact
-  per-nation share % in `Specs/Sejong.md` and `Official_Population_Census.md`.
+  per-nation share % in `Specs/Contrapunto.md` and `Official_Population_Census.md`.
 - **Geography:** King George Island, South Shetland Islands, ~120km north of the Peninsula across the
   Bransfield Strait — the largest of the South Shetlands, historically hosting nearly a dozen national
   research programs simultaneously in close quarters.
@@ -25,7 +27,7 @@ Notes (Phase 2) drafted as a working first pass, not yet developer-confirmed as 
 
 ## Population Weighting Reference (for future Phase 1c cultural weighting)
 
-*Source: `Specs/Sejong.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
+*Source: `Specs/Contrapunto.md`, Per-Nation Breakdown table (all tiers, not just Primary/Significant). Recorded here so cultural findings for this city can later be weighted by actual population share rather than treated as if every listed nation contributed equally.*
 
 | Tier | Nation | Share % |
 |------|--------|---------|
@@ -100,7 +102,7 @@ Per-Nation Entries section is the corrected, authoritative version.
 
 ## Per-Nation Entries (Cultural Iceberg findings — Phase 1c, complete 2026-07-16)
 
-**No National Stereotypes compliance note:** every finding below is framed as arising from Sejong's own
+**No National Stereotypes compliance note:** every finding below is framed as arising from Contrapunto's own
 conditions (its "boundary zones" architecture of negotiated national quarters and its dense, vertical,
 bedrock-anchored mini-city form) that a given population's originating patterns fed into or
 reinforced — never as "this population does X because they're from nation Y."
@@ -108,13 +110,13 @@ reinforced — never as "this population does X because they're from nation Y."
 **Major correction from pre-existing research, folded in per the process requirement:** the original
 Phase 1b-ii pass searched for a generic "transit/trade hub" domestic equivalent per nation and came up
 weak for eight of nine populations. That was the wrong target. `Sejong_Mega_Init.md`'s own Inspirational
-Influences research already establishes Sejong's real City-Type precedent: **Izmir/historic Smyrna**
+Influences research already establishes Contrapunto's real City-Type precedent: **Izmir/historic Smyrna**
 (an Ottoman-era port where distinct communities coexisted as separately self-governed quarters) and
 **Keelung, Taiwan** (a small port that absorbed successive waves of foreign presence while maintaining
 29 clan associations and 34 province associations — organized, distinct communities that never fully
-merged). Sejong's own established "boundary zones" architecture — each national community's territory
+merged). Contrapunto's own established "boundary zones" architecture — each national community's territory
 a real, ongoing, negotiated distinction, not a blended melting pot — is this same pattern, fictionalized.
-The city's confirmed founding tension is explicitly relational, "Sejong-versus-neighbors," not
+The city's confirmed founding tension is explicitly relational, "Contrapunto-versus-neighbors," not
 founder-nation-versus-majority (echoed by a third precedent, Gibraltar, whose own identity was forged in
 contrast to a larger neighbor rather than through ancestry). This means the real City-Type match here
 isn't a single reused city name per nation — it's the *structural pattern itself*, shared by all nine
@@ -122,11 +124,11 @@ populations, each holding its own negotiated quarter within one dense, Taipei-sc
 (bedrock-anchored, high-rises clustered partly for genuine wind protection, seafood-based cuisine as a
 real confirmed economic pillar, not just a culinary detail).
 
-**Enneagram core folded in:** Sejong reads as **Thinking (Head) / Compliant / Competency** — a
+**Enneagram core folded in:** Contrapunto reads as **Thinking (Head) / Compliant / Competency** — a
 coordination-and-process civic identity, distinct from every other Palmer subnet city so far, arising
 from its physical proximity to Machu Picchu Airport/Border & Customs Authority (Upper Earth's actual
-arrival gateway, on the same island). Sejong facilitates and processes; it doesn't assert an outward
-identity (contrast Palmer City) or withdraw into self-containment (contrast Port Lockroy).
+arrival gateway, on the same island). Contrapunto facilitates and processes; it doesn't assert an outward
+identity (contrast Palmer City) or withdraw into self-containment (contrast Puerto Abrigo).
 
 ### USA (Primary, 21.65%)
 
@@ -145,9 +147,9 @@ its own negotiated quarter within the Izmir/Keelung "boundary zones" pattern (ci
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** no strongly distinct local variant surfaced.
-- **Literature:** administrative/coordination-facilitating culture, echoing Sejong's own Compliant
+- **Literature:** administrative/coordination-facilitating culture, echoing Contrapunto's own Compliant
   Enneagram register and its proximity to the Machu Picchu Border Authority.
-- **Language:** administrative/coordination-facilitating culture, echoing Sejong's own Compliant
+- **Language:** administrative/coordination-facilitating culture, echoing Contrapunto's own Compliant
   Enneagram register and its proximity to the Machu Picchu Border Authority.
 
 #### Deep Culture findings
@@ -157,7 +159,7 @@ its own negotiated quarter within the Izmir/Keelung "boundary zones" pattern (ci
 - Personal space, touching, body language: quarter boundaries respected as a matter of course,
   echoing the negotiated-coexistence structure citywide.
 - Conversational patterns in different social situations: coordination-facilitating exchange, echoing
-  Sejong's own Compliant Enneagram register.
+  Contrapunto's own Compliant Enneagram register.
 - Handling and displaying of emotion: no strongly distinct local variant surfaced.
 - Tone of voice: no strongly distinct local variant surfaced.
 
@@ -177,7 +179,7 @@ its own negotiated quarter within the Izmir/Keelung "boundary zones" pattern (ci
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
 - Rule expectations, work, authority: coordination and process competence treated as the primary marker
-  of standing, echoing Sejong's own Thinking/Compliant/Competency civic personality.
+  of standing, echoing Contrapunto's own Thinking/Compliant/Competency civic personality.
 - Cooperation vs. competition: negotiated coexistence over assimilation or isolation, citywide.
 - Relationships with animals, age, sin, death: no strongly distinct local variant surfaced.
 
@@ -301,13 +303,13 @@ negotiated quarter (civic type) within the shared Izmir/Keelung pattern.
 
 #### Surface Culture findings
 - **Food:** a distinct Mexican-inflected register within its own quarter, genuinely present here unlike
-  Sejong's earlier "weak" reading, which searched for the wrong kind of match.
+  Contrapunto's earlier "weak" reading, which searched for the wrong kind of match.
 - **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** no strongly distinct local variant surfaced.
 - **Holidays:** Tepenian Independence Day; no additional locally-distinct observance surfaced.
 - **Music:** a distinct Mexican-inflected register within its own quarter, genuinely present here
-  unlike Sejong's earlier "weak" reading, which searched for the wrong kind of match.
+  unlike Contrapunto's earlier "weak" reading, which searched for the wrong kind of match.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
@@ -569,7 +571,7 @@ genuine cold-maritime volcanic island match) and its own negotiated quarter (civ
 
 **Real-world parallel community/communities identified:** Jeju Island (geography — a strong match) and
 Korea's own real Sejong City (civic type) — this city's actual namesake, a purpose-built administrative
-city, giving this population a direct, literal naming claim on Sejong's own identity despite being the
+city, giving this population a direct, literal naming claim on Contrapunto's own identity despite being the
 smallest population share.
 
 #### Surface Culture findings
@@ -578,16 +580,16 @@ smallest population share.
 - **Flags:** *(deferred, per standing convention.)*
 - **Festivals:** no strongly distinct local variant surfaced.
 - **Fashion:** no strongly distinct local variant surfaced.
-- **Holidays:** Tepenian Independence Day, alongside informal observance connected to the real Sejong
+- **Holidays:** Tepenian Independence Day, alongside informal observance connected to the real Contrapunto
   City's own namesake anniversary, given this population's direct naming tie.
 - **Music:** no strongly distinct local variant surfaced.
 - **Performances:** no strongly distinct local variant surfaced.
 - **Dances:** no strongly distinct local variant surfaced.
 - **Games:** no strongly distinct local variant surfaced.
 - **Arts & Crafts:** no strongly distinct local variant surfaced.
-- **Literature:** administrative/planned-city culture, echoing both Sejong's own Enneagram
+- **Literature:** administrative/planned-city culture, echoing both Contrapunto's own Enneagram
   Thinking/Compliant register and the real Sejong City's own purpose-built administrative character.
-- **Language:** administrative/planned-city culture, echoing both Sejong's own Enneagram
+- **Language:** administrative/planned-city culture, echoing both Contrapunto's own Enneagram
   Thinking/Compliant register and the real Sejong City's own purpose-built administrative character.
 
 #### Deep Culture findings
@@ -609,11 +611,11 @@ smallest population share.
 
 **Concepts of:**
 - Self, time, past and future: a literal namesake claim on the city's own identity, comparable in kind
-  to Spain's claim at Juan Carlos — the smallest population here, but the one holding the deepest
+  to Spain's claim at Pergamino — the smallest population here, but the one holding the deepest
   naming/identity tie to what the city is actually called.
 - Fairness and justice: negotiated boundaries treated as the primary fairness standard, citywide.
 - Roles related to age, sex, class, family: a specific, literal claim on the city's own founding
-  identity, given the direct Sejong-City namesake tie.
+  identity, given the direct Contrapunto-City namesake tie.
 
 **Attitudes toward:**
 - Elders, adolescents, dependents: no strongly distinct local variant surfaced.
@@ -633,19 +635,19 @@ smallest population share.
 **Working name: "Sejongite"** *(the city's own already-established real-world demonym — reused here
 rather than inventing a new placeholder, since it already exists and fits).*
 
-Sejong is structurally unique among the Palmer subnet cities cataloged so far: rather than one or two
+Contrapunto is structurally unique among the Palmer subnet cities cataloged so far: rather than one or two
 populations dominating via strong matches while others go thin, **all nine populations share the exact
 same civic mechanism** — a negotiated, maintained, distinct quarter within one dense, Taipei-scale
 vertical city, per the Izmir/Smyrna and Keelung real-world precedents already established in existing
 research. No population here is "weak" in the sense used at other cities; the earlier draft's reading
 of eight populations as weak was simply searching for the wrong kind of match (a single reused
-transit-hub city name) instead of the right one (a shared structural pattern). This makes Sejong's
+transit-hub city name) instead of the right one (a shared structural pattern). This makes Contrapunto's
 neo-culture less about *which* value different populations converge on or diverge over, and more about
 *how* nine distinct communities maintain real, ongoing boundaries within one shared, cramped, vertical
 space without fully merging — closer to Gibraltar's relational identity-through-contrast than to any
 single-nation-dominant city cataloged so far.
 
-South Korea, the smallest population (5.79%), holds the deepest identity claim via the shared Sejong
+South Korea, the smallest population (5.79%), holds the deepest identity claim via the shared Contrapunto
 name. USA's Primary-tier size sets the
 administrative/coordination tone (Thinking/Compliant/Competency, driven by proximity to the Machu
 Picchu Border & Customs Authority) without dominating the *content* of any other population's own

@@ -68,7 +68,7 @@ Sources add the third and least flattering reading: **uninteresting.** Silva's o
 
 The sign has no natives — only cusp-dwellers. Silva gives Ophiuchus a range plus "three additional cusp dates on either side," inside another sign's territory, with no fixed possession of its own.
 
-[DERIVED] That is exactly the Hub's intake, and canon already describes it in the same shape: **Sayowa arrivals came from a crossroads and arrive already fluent; everyone else arrives as overflow — "having failed to be something else."** Absorption is by elimination, not by recruitment. There is an Overflow Welcome Office and a Detachment Academy; there is no Hub equivalent of a guild oath or a founding myth to be inducted into. You are not made a Hub person. You are what remains after the other twelve fits are exhausted.
+[DERIVED] That is exactly the Hub's intake, and canon already describes it in the same shape: **Temirötkel arrivals came from a crossroads and arrive already fluent; everyone else arrives as overflow — "having failed to be something else."** Absorption is by elimination, not by recruitment. There is an Overflow Welcome Office and a Detachment Academy; there is no Hub equivalent of a guild oath or a founding myth to be inducted into. You are not made a Hub person. You are what remains after the other twelve fits are exhausted.
 
 The complication canon already flags: Lazar supplies ~41% of the Hub's diaspora and arrives half-fluent in the Hub's own signature trait for reasons that have nothing to do with the Hub. [DERIVED] The district's proudest psychological achievement may be substantially pre-loaded.
 
@@ -181,5 +181,5 @@ Nothing else exists. No stone, no plant, no color, no metal, no body part, no se
 **Genuinely open:**
 - Whether the Hub's neutrality was ever formally chartered or is purely customary. Nothing in canon or sources settles it, and the answer changes hooks 1, 2, and 10 substantially.
 - Whether the Hub should get an in-fiction emblem at all, or whether its emblemlessness is more valuable than any emblem (hook 4 assumes the latter).
-- Whether Sayowa arrivals become the Hub's theorists or get absorbed — already an open canon question, and Ophiuchus supplies no answer.
+- Whether Temirötkel arrivals become the Hub's theorists or get absorbed — already an open canon question, and Ophiuchus supplies no answer.
 - Whether the Frostlands friction is currently *live* or dormant. Canon gives the Frostlands bitterness toward "central districts" generally; whether any of it is aimed at the Hub specifically, rather than at Libra and Capricorn, is unresolved.

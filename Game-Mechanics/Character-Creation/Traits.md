@@ -145,7 +145,7 @@ debuff's precise effect, and even the trait-vs-perk placement itself are all ope
 considered final.
 
 **Real production dependency, flagged 2026-07-25 — this trait's bonus is currently decorative, not
-functional.** The founding-era reclamations that motivated it (Marambio, Abowasa, Casey, etc.) are all
+functional.** The founding-era reclamations that motivated it (Marambio, Santa Luce, Casey, etc.) are all
 historical backstory, already resolved centuries before the game's present day — there's no *current*
 pre-exile derelict infrastructure in the game yet for this trait's Precision Maintenance & Repair bonus to
 actually apply to. See the matching flag in `Perks/World_and_Discovery_Perks.md`'s "Derelict's Eye" entry —

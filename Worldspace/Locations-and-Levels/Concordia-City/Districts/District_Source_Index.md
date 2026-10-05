@@ -99,7 +99,7 @@ material most worth knowing about before starting Phases 1-8.
 - **Doll homes (confirmed):** `Favi della Torre`, `TBN [IT-021 white shirt Fenny]`, `Trisha Miller` (non-recruitable), `Majyao Bisyugota` (non-recruitable)
 - **Doll home (undecided candidate):** `TBN [TCY-45 heavenly summertime Momo]` (Cancer/Leo/Taurus, undecided)
 - `Romance_Unlocked_Homes.md` — Favi's and Majyao's Taurus dome-cluster residences described
-- `Neo-Races-and-Cultures/Palmer_Subnet/Juan_Carlos/Juan_Carlos_Catalog.md` + `Background-Lore/Cities/Palmer_Subnet/Juan_Carlos/*` — Juan Carlos's hosted-gathering tradition exported into Taurus (also Leo, Pisces)
+- `Neo-Races-and-Cultures/Palmer_Subnet/Pergamino/Pergamino_Catalog.md` + `Background-Lore/Cities/Palmer_Subnet/Juan_Carlos/*` — Pergamino's hosted-gathering tradition exported into Taurus (also Leo, Pisces)
 - `Dev-Road-Map/Early_Access_vs_Launch_Content_Split.md` — Favi/Taurus is a Beat 2 critical-path companion
 - `TODO.md` — Taurus security-network official name still open; Favi's Libra-antagonism companion-quest route
 
@@ -138,7 +138,7 @@ material most worth knowing about before starting Phases 1-8.
 
 ### 07 — Aquarius
 - **Doll home (confirmed):** `Ji-Eun Kim` — hidden within the district, testing facility now ruins
-- **Resolved-negative:** `Still-Present_-_In-Game/recruitable/TBN [XT-17 unorthodox science teacher Charlene]/README.md` — explicitly corrected AWAY from Aquarius, now placed at Vostok
+- **Resolved-negative:** `Still-Present_-_In-Game/recruitable/TBN [XT-17 unorthodox science teacher Charlene]/README.md` — explicitly corrected AWAY from Aquarius, now placed at Ariun Nuur
 - `TODO.md` — Ji-Eun's Wild Child/Aquarius persuasion-leverage route; Aquarius's "Lattice Swap" signature effect
 - `Game-Mechanics/Character-Creation/Permanent_MACHINE_Stat_Increases.md` — Aquarius canonically has the city's highest rate of MACHINE stat implants
 
@@ -184,7 +184,7 @@ material most worth knowing about before starting Phases 1-8.
 - **Staging:** `10_Hub_Bridge_Memorial_Sayowa_Reading.md`
 - **Doll homes (confirmed):** `TBN [XT-21 cool citygirl Angelina]`, `TBN [TCY-20 unimpressed bartender Miranda]`
 - **Doll home (undecided candidate):** `TBN [FR-03 billiards Maria]` (Hub or Pisces, undecided)
-- `TODO.md` — Hub's official name confirmed "Axis Mundi"; the Hub's Princess Elisabeth finding resolves the Bridge Memorial ceremony problem; Miranda's Hub-bartender role
+- `TODO.md` — Hub's official name confirmed "Axis Mundi"; the Hub's Utstein finding resolves the Bridge Memorial ceremony problem; Miranda's Hub-bartender role
 - `District_Main_Questlines.md` — capstone quest "Without Inscription"; `District_Idolized_Endings.md` — "The True Nexus"
 - `World_Map_Boundaries.md`, `City_Logistics.md` — Concordia is a radial city centered on the Hub, other 12 districts ringing it
 - **False-positive warning:** the word "hub" appears constantly as a *generic* term (transit hub, Arcanet hub, Mawson's "The Hub That Chose Kindness," Lazar's "commercial hub") across `Background-Lore/` and `Neo-Races-and-Cultures/` — none of those are this district; already filtered out of this index

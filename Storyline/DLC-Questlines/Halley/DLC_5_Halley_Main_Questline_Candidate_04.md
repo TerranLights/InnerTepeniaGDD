@@ -1,13 +1,13 @@
 # DLC 5 (Halley Subnet) — Main Questline Candidate #4: "Whichever Ground Still Holds"
 
 **What this is:** a fourth prospective But/Therefore chain for DLC 5's main questline, produced by running
-`../DLC_Main_Questline_Design_Method.md` against Halley subnet, pairing Abowasa's established bedrock
+`../DLC_Main_Questline_Design_Method.md` against Halley subnet, pairing Santa Luce's established bedrock
 -stability expertise directly against Halley's own established relocation crisis — two facts already sitting
 in separate city files that had never been connected until this pass. **Not canon, not chosen, not the only
 candidate** — the 4th of the "at least 10" the method calls for. Uses the Linear Escalation Chain schematic
 (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 2 of Halley subnet's 8 cities** (Abowasa, Halley) — the first candidate to feature Abowasa at all, and
+**Uses 2 of Halley subnet's 8 cities** (Santa Luce, Halley) — the first candidate to feature Santa Luce at all, and
 Halley's first appearance in an engineering-triage role rather than the resupply-dependency role Candidate
 #1 gave it.
 
@@ -15,13 +15,13 @@ Halley's first appearance in an engineering-triage role rather than the resupply
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Halley Subnet Full Extrapolation, Section I** — Abowasa's own subnet-level identity: "carries the
+- **Halley Subnet Full Extrapolation, Section I** — Santa Luce's own subnet-level identity: "carries the
   answer — the bedrock stability its own neighbors' engineering has spent generations working around."
-- **Abowasa's own Full Extrapolation, Section IV** — Abowasa sits on solid mainland bedrock (Basen nunatak),
+- **Santa Luce's own Full Extrapolation, Section IV** — Santa Luce sits on solid mainland bedrock (Basen nunatak),
   a meaningfully different foundation than Halley's and Neumayer's floating ice-shelf positions, and has
   developed a concrete regional specialty in geological/structural-stability research — genuinely useful
   expertise for a subnet where multiple cities sit on ice shelves or nunataks of their own.
-- **Abowasa's own Full Extrapolation, Sections II & III** — the war targeted Abowasa's research and
+- **Santa Luce's own Full Extrapolation, Sections II & III** — the war targeted Santa Luce's research and
   technical infrastructure specifically (its largest sector, 25% of industry), leaving the household
   -and-neighborhood residential fabric comparatively intact: a small, warm, still-functioning community
   surrounding visibly ruined labs and instrument arrays. The technical heart was hit; the human one mostly
@@ -34,10 +34,10 @@ Halley's first appearance in an engineering-triage role rather than the resupply
   active management, the Brunt Ice Shelf's own calving process takes over and the city is eventually lost to
   the sea. This candidate doesn't trigger that citywide outcome directly, but builds a smaller, section
   -scale version of the same mechanism into its own climax.
-- **Abowasa's own Full Extrapolation, Section VI** — Elder Ingrid Lindqvist-Väisänen, a present-day
-  community figure, proposed as a natural point of contact for outsiders given Abowasa's own fast
+- **Santa Luce's own Full Extrapolation, Section VI** — Elder Ingrid Lindqvist-Väisänen, a present-day
+  community figure, proposed as a natural point of contact for outsiders given Santa Luce's own fast
   visitor-to-resident cultural transition.
-- **Explicitly excluded:** Abowasa's own Finnish/Swedish dual-founding cultural material (Section I) — rich,
+- **Explicitly excluded:** Santa Luce's own Finnish/Swedish dual-founding cultural material (Section I) — rich,
   but not load-bearing for this specific chain, which is about the city's technical capacity, not its
   civic identity.
 
@@ -47,18 +47,18 @@ Halley's first appearance in an engineering-triage role rather than the resupply
 
 **SETUP** — Halley's relocation program needs an urgent structural assessment: several of the city's oldest
 sections, the ones whose ski-mounted platforms took the worst war damage and haven't moved since, need to be
-evaluated before the next calving season to determine what, if anything, can still be saved. Abowasa is the
+evaluated before the next calving season to determine what, if anything, can still be saved. Santa Luce is the
 subnet's acknowledged expert in exactly this kind of stability engineering, and the player is sent to bring
 that expertise to Halley — a consulting job, in principle: get the right people and the right data to the
 right sections in time.
 
-**BUT** — Abowasa's own capacity to actually do this work isn't what it used to be. The war hit its research
+**BUT** — Santa Luce's own capacity to actually do this work isn't what it used to be. The war hit its research
 and technical infrastructure specifically, not its households (Sections II & III) — the community itself is
 intact and functioning, but the labs and instrument arrays that once supported this exact specialty are the
 visibly ruined part of the city. The expertise exists in the people; the tools needed to properly diagnose
 Halley's stuck sections don't, not anymore.
 
-**THEREFORE** — The player has to help restore or gather what Abowasa's own engineers actually need before
+**THEREFORE** — The player has to help restore or gather what Santa Luce's own engineers actually need before
 any real assessment of Halley can happen — recovering working instruments, salvaging usable data from the
 damaged arrays, whatever it takes to get Elder Lindqvist-Väisänen's own technical people equipped to do the
 job properly rather than guess at it.
@@ -71,7 +71,7 @@ time, and which can't, no matter what anyone does now.
 
 **THEREFORE** — What looked like a technical consulting job becomes a real triage decision, and it's
 Halley's own relocation program, not the player, that has to make it — but only the player's restored
-Abowasa expertise makes an honest triage even possible instead of everyone guessing blind until it's too
+Santa Luce expertise makes an honest triage even possible instead of everyone guessing blind until it's too
 late.
 
 **BUT** — The reversal that actually lands at the climax: triage isn't neutral. The sections judged
@@ -106,7 +106,7 @@ end, so none reads as a disguised And Then.
 ## Worth Your Attention
 
 This candidate's core asset is that it connects two facts that were sitting in separate city files with no
-prior link between them — Abowasa's own subnet-level role ("carries the answer," Subnet Full Extrapolation
+prior link between them — Santa Luce's own subnet-level role ("carries the answer," Subnet Full Extrapolation
 Section I) and Halley's own established damage state (older sections stuck and at risk, Full Extrapolation
 Section II) — and finds that the connection isn't a clean rescue, it's a diagnosis that makes an unavoidable
 loss legible instead of random. It's also the first candidate to give the subnet's flagged, DLC-ending-scale

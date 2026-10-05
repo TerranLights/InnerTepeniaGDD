@@ -11,13 +11,13 @@ there.
 
 ## Inputs actually used (Step 1 of the design method)
 
-- **Vostok's & Kunlun's Local Cultures §23** — both already state, near-verbatim, that "Charlene"
-  (XT-17), Vostok's resident geneticist, discovering something in Lake Vostok significant enough to
+- **Ariun Nuur's & Kunlun's Local Cultures §23** — both already state, near-verbatim, that "Charlene"
+  (XT-17), Ariun Nuur's resident geneticist, discovering something in Lake Vostok significant enough to
   require Kunlun's comms relay to transmit is "the primary, plot-critical reason the player makes this
   Hwy 37 journey." This chain starts here because the established material already hands it to us —
   not invented for this exercise.
 - **Mirny's Local Cultures §23 / Full Extrapolation §VIII** — confirms Mirny's own subnet-hub relay
-  routes *all six* other subnet cities' communications, Vostok and Kunlun included, and that this
+  routes *all six* other subnet cities' communications, Ariun Nuur and Kunlun included, and that this
   routing infrastructure runs at reduced, war-damaged capacity.
 - **Mirny Subnet Cross-Reference Synthesis, Finding 3 (4th-order effect) / Cross-City Patterns,
   Pattern 4** — naming as a chosen, meaningful, repeatable civic act, uniquely concentrated in this
@@ -32,7 +32,7 @@ there.
 - **Explicitly excluded:** the Cradle chamber-manufacturing network / Mountain Pass / player-origin
   thread (Mirny Subnet Ultra-Megasheet Throughway 1, Super-Ultra-Megasheet Throughway 1). That material
   is separately, bindingly forbidden from ever becoming quest content, marked or unmarked
-  (`Design_Principles.md` §IV, the Cradle Precedent). This chain deliberately routes through Vostok and
+  (`Design_Principles.md` §IV, the Cradle Precedent). This chain deliberately routes through Ariun Nuur and
   Kunlun's relationship *without* touching that thread — a different, non-forbidden discovery running
   through the same two cities.
 
@@ -40,9 +40,9 @@ there.
 
 ## The Chain
 
-**SETUP** — The player is directed to Vostok, the DLC's established launch point. Vostok's resident
+**SETUP** — The player is directed to Ariun Nuur, the DLC's established launch point. Ariun Nuur's resident
 geneticist, "Charlene" (XT-17), has identified something in Lake Vostok's ancient, ice-sealed ecosystem
-significant enough that it needs to reach comms authorities beyond her own city — but Vostok has no
+significant enough that it needs to reach comms authorities beyond her own city — but Ariun Nuur has no
 long-range transmission capacity of its own. The only way to send it anywhere is via Kunlun's comms
 relay, reached by the Hwy 37 crossing.
 
@@ -94,10 +94,10 @@ Complication changes what the player does afterward, so neither reads as a disgu
 
 ## Worth Your Attention
 
-This candidate is deliberately narrow — three cities carrying the spine (Vostok, Kunlun, Mirny), with
+This candidate is deliberately narrow — three cities carrying the spine (Ariun Nuur, Kunlun, Mirny), with
 Davis/Zhongshan/Sinheung/Shirayuki/Casey felt as consequence rather than forced into the plot directly,
 per the design method's own "don't force it" instruction. Its strongest asset is that almost nothing in
-it was invented: the Vostok→Kunlun trigger, the Mirny relay-routing bottleneck, and the rename tension
+it was invented: the Ariun Nuur→Kunlun trigger, the Mirny relay-routing bottleneck, and the rename tension
 were all already sitting, separately, in established files — this chain's only real contribution is the
 causal link connecting Charlene's discovery to Mirny's own civic-legitimacy question, which no existing
 document currently draws. Worth noting for whichever candidate is eventually chosen: this is one of ten

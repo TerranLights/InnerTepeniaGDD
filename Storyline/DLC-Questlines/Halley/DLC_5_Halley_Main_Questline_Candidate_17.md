@@ -8,7 +8,7 @@ faction-mediation, Candidate #14's commemorative-narrative reconciliation, Candi
 negotiation, or Candidate #16's mechanical-fraud investigation. **Not canon, not chosen, not the only
 candidate.** Uses the Linear Escalation Chain schematic (`../But_Therefore_Quest_Design_Method.md` §5a).
 
-**Uses 6 of Halley subnet's 8 cities** (Belgrano, Halley, Abowasa, Sanay, Troll, Lazar) — six of the seven
+**Uses 6 of Halley subnet's 8 cities** (Belgrano, Halley, Santa Luce, Sanay, Troll, Lazar) — six of the seven
 cities Hwy 7 itself physically strings together in a single continuous route, with Neumayer reached off it by
 a short connector rather than lying directly on the highway.
 
@@ -17,11 +17,11 @@ a short connector rather than lying directly on the highway.
 ## Inputs actually used (Step 1 of the design method)
 
 - **`Highways.md`, Hwy 7 (the "Atlantic Highway")** — the established, literal route: Belgrano → Halley →
-  Abowasa → (ramp to Neumayer, between Abowasa and Sanay) → Sanay → Troll → Lazar, the single physical spine
+  Santa Luce → (ramp to Neumayer, between Santa Luce and Sanay) → Sanay → Troll → Lazar, the single physical spine
   connecting six of the subnet's eight cities directly and a seventh (Neumayer) by a short connector.
 - **Halley Cross-City Patterns, Pattern 3** — the established ground-stability triangle: Halley and Neumayer
-  both living on unstable ice shelf, Abowasa alone holding genuine mainland bedrock and real geological/
-  structural-stability research expertise, used here to make Abowasa the natural authority on whether any
+  both living on unstable ice shelf, Santa Luce alone holding genuine mainland bedrock and real geological/
+  structural-stability research expertise, used here to make Santa Luce the natural authority on whether any
   alternate routing over uncertain ground is actually viable.
 - **Halley Cross-City Throughways, Throughway 1** — Halley's own total dependency on overland resupply
   through Belgrano and Sanay, used here to establish real, immediate stakes for how long the subnet actually
@@ -35,7 +35,7 @@ a short connector rather than lying directly on the highway.
 ## The Chain
 
 **SETUP** — A major structural failure severs Hwy 7 at a single stretch, cutting the subnet's own main
-physical artery — the highway stringing together Belgrano, Halley, Abowasa, Sanay, Troll, and Lazar in one
+physical artery — the highway stringing together Belgrano, Halley, Santa Luce, Sanay, Troll, and Lazar in one
 continuous route. The player is asked to travel the highway's own length, assess the damage, and help
 organize whatever gets the subnet's main artery moving again — a straightforward, if urgent, infrastructure
 -crisis task.
@@ -45,11 +45,11 @@ exists, but it runs across ground already established elsewhere as fundamentally
 unfixed ice-shelf terrain Halley and Neumayer already live with day to day. The fast option and the safe
 option aren't the same option.
 
-**THEREFORE** — The player has to travel to Abowasa specifically to consult its own established geological
+**THEREFORE** — The player has to travel to Santa Luce specifically to consult its own established geological
 and structural-stability expertise — the one city in the subnet with real authority to assess whether the
 detour is actually viable.
 
-**BUT** — The reversal lands once Abowasa's own experts render their honest assessment: they can't
+**BUT** — The reversal lands once Santa Luce's own experts render their honest assessment: they can't
 guarantee the detour's safety either way. It's a genuine, calculated risk, not a false alarm and not settled
 science — it might hold fine under heavy convoy traffic, or it might fail catastrophically once real use
 begins. Meanwhile, every day the subnet stays split, Halley's own total dependency on this exact route means
@@ -90,6 +90,6 @@ choosing at the end, so none reads as a disguised And Then.
 This candidate's core asset is that it's the only Halley subnet candidate built around a single, literal,
 already-mapped highway as its entire structural spine, rather than an abstract network or relationship — Hwy
 7 itself supplies the whole route the player physically travels, city by city, in the order the road actually
-runs. It also gives Abowasa a genuinely load-bearing role consistent with, but distinct from, its appearance
+runs. It also gives Santa Luce a genuinely load-bearing role consistent with, but distinct from, its appearance
 in Candidate #12 — there, its own rebuild was the stake; here, its own expertise is the tool the player needs
 to make the decision at all.

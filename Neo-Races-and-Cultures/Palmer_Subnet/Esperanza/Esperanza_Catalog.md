@@ -409,9 +409,9 @@ exile immigration, artificial womb technology as the normalized reproductive met
 human family lines) as Tepenia's actual continuous carriers of institutional memory. Esperanza is the
 origin point for this now project-wide canon, worth crediting explicitly.
 
-**Shared faction note:** Esperanza holds "The Crossroads People" faction alongside Sayowa, Janbogo,
-Casey, and Princess Elisabeth (Peninsula gateway, provisional intimacy) — the same faction already
-folded into Princess Elisabeth's own retroactive audit. Worth eventually cross-referencing all five
+**Shared faction note:** Esperanza holds "The Crossroads People" faction alongside Temirötkel, Janbogo,
+Casey, and Utstein (Peninsula gateway, provisional intimacy) — the same faction already
+folded into Utstein's own retroactive audit. Worth eventually cross-referencing all five
 cities' own distinct angles on it once time allows.
 
 Esperanza is the first city cataloged so far with a genuine **"family/genesis city"** identity,
