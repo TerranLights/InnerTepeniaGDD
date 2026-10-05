@@ -195,8 +195,8 @@ Filtered through the same pride-in-competence lens as everything else at Troll â
 
 ## 23. Relationship to Other Cities
 
-- **Halley:** Subnet hub, connected via Hwy 7's inland section.
-- **Lazar and Princess Elisabeth:** Connected via the Halley subnet coastal/interior highway network; Troll's airfield gives it outsized logistical importance to both.
+- **Halley:** Subnet hub, reached via Hwy 7 and then Halley's connecting road. *(revised 2026-10-03, developer ruling: Halley is reached by a connecting road off Hwy 7, not a main-line stop â€” the ice it sits on is constantly moving)*
+- **Lazar and Utstein:** Connected via the Halley subnet coastal/interior highway network; Troll's airfield gives it outsized logistical importance to both.
 - **Every other Halley subnet city:** Structurally dependent on whoever controls Troll Airfield for any real connection beyond the subnet itself.
 
 ---

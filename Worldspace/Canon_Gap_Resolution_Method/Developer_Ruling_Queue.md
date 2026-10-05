@@ -360,7 +360,7 @@ registry row, and log it.
 ## 🔵 DRQ-05 — {{Bunger Hills City}}: open questions left by the single-approach ruling
 
 **Raised 2026-09-01, at developer instruction ("mark it for future review"). Not urgent; batched.**
-**Context and full groundwork:** `Cities/Bunger_Hills_City/Development_Brief.md`.
+**Context and full groundwork:** `Cities/Relung_Panen/Development_Brief.md`.
 
 **Already ruled and closed** *(recorded here so the queue is not misread as open)*: the city exists · Mirny
 subnet · **single-approach from Casey** · **a named spur, not a numbered highway.**
@@ -383,7 +383,7 @@ they are not the same. **Not decided.**
 deviation it did not make. Alternatives: Hwy 2, or the Hwy 110 × Hwy 2 junction complex. **All three meet at
 Casey; the practical difference is small.**
 
-### 5c — The city's name
+### 5c — The city's name — ✅ **RULED 2026-10-03 (`DR-39`): Relung Panen.** *(The candidates below are historical.)*
 
 **Candidates from the real site:** `Dobrowolski` · `Oazis` · `Bunger` · `Figurnoye` · `Edgeworth David`.
 *Noting only that "Oazis" is the site's original station name and literally means oasis.* **The spur takes the

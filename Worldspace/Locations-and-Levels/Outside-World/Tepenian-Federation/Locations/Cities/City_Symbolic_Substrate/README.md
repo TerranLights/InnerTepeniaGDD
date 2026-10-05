@@ -15,7 +15,7 @@ means "confirmed working reference," not "frozen forever."
 - `Robot_Elementals.md` — eight elements: Earth, Air, Fire, Water, Wood, and Metal, plus two "robot elements"
   (Electricity, Magnetism). All eight are grounded in a real, verifiable physical fact about that specific
   element; none carries a Wu Xing or other traditional correspondence.
-- `City_Symbol_Assignments.md` — a Planet + Element pair for each of the 35 outer cities (34 assigned; Abowasa
+- `City_Symbol_Assignments.md` — a Planet + Element pair for each of the 35 outer cities (34 assigned; Santa Luce
   excluded pending its own founding-nation fix), each pairing derived from and justified against that city's
   own already-established personality — cross-checked specifically against the three-axis reads in the
   sibling `City_Enneagram_Personalities/` folder, not assigned arbitrarily.
@@ -52,5 +52,5 @@ paths.
 With only 11 planetary symbols and 8 elements across 34 assigned cities, some repetition is mathematically
 inevitable — see `City_Symbol_Assignments.md`'s own distribution notes for the exact counts. As with the
 Zodiac substrate's own overlap cases, a handful of repeats are flagged as deliberate echoes of already-
-established kinship rather than coincidence (Kunlun, Vostok, and Dome Fuji all sharing Pluto mirrors their
+established kinship rather than coincidence (Kunlun, Ariun Nuur, and Dome Fuji all sharing Pluto mirrors their
 already-established extreme-isolation kinship and Ice-Cold Buddhism connection).

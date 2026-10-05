@@ -1,0 +1,205 @@
+# Ariun Nuur
+
+> **⚠ RENAMED 2026-10-03 (`DR-42`): formerly *Vostok*, after the real Soviet and Russian station; now **Ariun Nuur**.** **The central scientific district keeps the name "Vostok"**, in honor of the scientists of the past. Any line below that still says "Vostok" names the REAL station or Lake Vostok, or tells the story of the FORMER name (the Russian and Soviet reputation, "Vostokan"/"Vostokian" demonyms). The latter are revisit items. Ariun Nuur is Mongolian (Ариун Нуур), "the pure lake"; founders: Künnarantaiga and Mongolia (`DR-35`).
+
+**Based on:** Vostok Station (USSR / Russia), East Antarctic Plateau (~78°28'S, 106°52'E)
+**Status:** Survived — extremely remote, though **corrected 2026-07-06:** less "effectively unreachable" than previously framed, now that Hwy 37 is confirmed to run directly through Ariun Nuur (see Highway access, below)
+**Arcanet Subnet:** Mirny ("Australian")
+**Access type:** ON
+**Highway access:** **Corrected 2026-07-06** — Ariun Nuur sits on **Hwy 37 (the Mountain Cut Throughway)**, between Kunlun and Concordia; the full route runs Dome Fuji → Kunlun → Ariun Nuur → Concordia. This had been missed in this file despite being established canon elsewhere (the same bug already found and fixed on Kunlun's own file). Ariun Nuur remains ~1,260km overland from Mirny, its own Arcanet subnet's nearest coastal city — Hwy 37 runs in a completely different direction and does not reach Mirny. See `Locations/Infrastructure/Highways.md`.
+**Significance:** **Renamed Ariun Nuur 2026-10-03 (`DR-42`)** (Mongolian Ариун Нуур, "the pure lake"); its central scientific district keeps the name "Vostok" in honor of the scientists of the past. Coldest city in Tepenia — holds the record for the lowest naturally occurring temperature ever recorded on Earth's surface (−89.2°C, July 21, 1983, pre-exile); sits above Lake Vostok, one of the largest subglacial lakes on Earth, buried under approximately 4km of ice; survived the Long Night War but is so isolated that survival is functionally indistinguishable from disappearance
+**DLC:** Mirny subnet — the most extreme inland destination in any potential Mirny subnet DLC; whether it is reachable at all in gameplay is a significant design question
+
+---
+
+## Population & Composition
+
+**Census I (Pre-Orbital Era):** 129,617 humans / 259,644 robots / **389,261** combined
+**Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
+
+| Tier | Nations |
+|------|---------|
+| Primary | USA, Japan |
+| Significant | South Korea, Canada, Indonesia, Australia |
+| Notable | New Zealand, Chile |
+
+*Source: `Official_Population_Census.md` Sections A–C.*
+
+### Per-Nation Breakdown — Robots and Humans, Census I and II
+
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+
+| Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
+|------|--------|---------|------------------|------------------|-------------------|-------------------|
+| Primary | USA | 28.36% | 73,631 | 36,757 | *(N/A)* | *(N/A)* |
+| Primary | Japan | 24.97% | 64,846 | 32,372 | *(N/A)* | *(N/A)* |
+| Significant | Canada | 13.90% | 36,093 | 18,018 | *(N/A)* | *(N/A)* |
+| Significant | Indonesia | 13.55% | 35,175 | 17,560 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 6.45% | 16,753 | 8,363 | *(N/A)* | *(N/A)* |
+| Significant | South Korea | 6.10% | 15,836 | 7,905 | *(N/A)* | *(N/A)* |
+| Notable | Chile | 4.96% | 12,873 | 6,426 | *(N/A)* | *(N/A)* |
+| Notable | New Zealand | 1.71% | 4,437 | 2,215 | *(N/A)* | *(N/A)* |
+
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+
+---
+
+## Geographic Basis
+
+Ariun Nuur sits near the Southern Pole of Inaccessibility — the point on the Antarctic continent furthest from any coast — on the East Antarctic Plateau at 3,488 meters elevation. It is approximately 1,260 kilometers from Mirny on the coast. There are no highways, no coastal access, no neighboring cities. The nearest anything is a very long way away.
+
+The East Antarctic Plateau at Ariun Nuur's location is flat, featureless, and among the most hostile environments on Earth's surface. The record low temperature of −89.2°C, recorded here on July 21, 1983, is the lowest air temperature ever measured at a surface station on the planet. That record was set before the exile era and remains unbroken. No city in Tepenia is colder.
+
+What makes Ariun Nuur more than simply the coldest and most isolated place in an already cold and isolated country is what is beneath it: **Lake Vostok**, a subglacial freshwater lake approximately 250 kilometers long and 50 kilometers wide, buried under roughly 4 kilometers of ice. The lake has been isolated from the surface for an estimated 15–25 million years. The ice above it acts as an insulating cap; the geothermal heat from below and the immense pressure of the ice sheet keep the water liquid despite surface temperatures that would freeze almost anything. In the 21st century, before the exile era, drilling projects reached the lake. What they found — and what has been learned in the centuries since — is part of Ariun Nuur's open questions.
+
+### Annual Climate
+
+**Climate data source:** Arctic and Antarctic Research Institute (AARI, Russia) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1958–2026)  _https://legacy.bas.ac.uk/met/READER/_
+
+*(Research note: Vostok Station has one of the longest and most complete climate records of any Antarctic inland station, operated by the Soviet Union and then Russia from 1957 onward. AARI maintains the historical record.)*
+
+**Climate type:** East Antarctic Plateau polar desert — the most extreme version of the continental polar type; the coldest mean annual temperature of any Tepenian city
+**Mean annual temperature:** -54.8°C  _(READER station: Ariun Nuur; 1991–2020 WMO standard normal)_
+**Temperature range:** coldest months (July/August) avg −66°C; warmest month (December/January) avg −28°C
+**Record extremes:** record high **−14.0 °C**; record low **−89.2 °C** — *the lowest reliably measured natural temperature on Earth* *(researched 2026-09-04)*
+**Prevailing winds:** average **~5 m/s**, rising to **27 m/s** in the strongest events — light by Antarctic coastal standards *(researched 2026-09-04)*
+**Annual precipitation:** **22 mm** water equivalent _(Ariun Nuur; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+
+#### ⭐ Precipitation regime — what falls vs what lands
+
+**Regime:** **PLATEAU** — *snow is a deposit, not weather*
+**Falls (reaches the surface):** ~25 mm/yr
+**Lands (accumulates and stays):** **~22 mm/yr** *(~90% retention)*
+**Lost to sublimation and wind transport:** ~2 mm/yr
+
+> ##### ⚠ WIND vs COLD — which hazard actually defines this city
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-54.8 °C** it is the **#2 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**mean wind 5.0 m/s**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+
+*Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
+**Polar night:** approximately Apr 24 → Aug 21 (~120 days)
+**Midnight sun:** approximately Oct 22 → Feb 21 (~123 days)
+**Winter solstice daylight minimum:** N/A — polar night in effect
+**Summer solstice daylight maximum:** N/A — midnight sun in effect
+
+#### Monthly Summary
+
+| Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
+|-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
+| Jan | −14 | −27 | -31.9 | −37.5 | −56.4 | 1 | ~4% | 24 | Midnight sun; "warmest" period |
+| Feb | −21 | −38.7 | -43.7 | −50 | −64 | 0.7 | ~3% | 24 | Rapid cooling |
+| Mar | −17.7 | −52.9 | -58.1 | −61.8 | −76.4 | 2 | ~8% | 14.2 | Autumn; polar night approaching |
+| Apr | −33 | −61.1 | -64.8 | −67.8 | −86 | 2.4 | ~9% | 5.6 | Polar night begins ~Apr 24 |
+| May | −38 | −62 | -65.6 | −69.1 | −81.2 | 2.8 | ~11% | 0 | Full polar night |
+| Jun | −33 | −60.6 | -65.5 | −68.9 | −83.8 | 2.5 | ~10% | 0 | Full polar night; winter solstice |
+| Jul | −34.1 | −62.4 | -65.9 | −70.4 | −89.2 | 2.2 | ~8% | 0 | Full polar night; coldest month |
+| Aug | −34.9 | −63.9 | -66.9 | −71.5 | −88.3 | 2.3 | ~9% | 0 | Polar night ends ~Aug 21 |
+| Sep | −34.3 | −61.6 | -65.7 | −70.2 | −85.9 | 2.4 | ~9% | 10.4 | Spring; marginally less extreme |
+| Oct | −30.8 | −51.5 | -56.4 | −63.1 | −79.4 | 1.9 | ~7% | 18.8 | Midnight sun approaching |
+| Nov | −24.3 | −37.2 | -41.4 | −49.8 | −63.9 | 1.1 | ~4% | 24 | Midnight sun approaching |
+| Dec | −14.1 | −27.1 | -31.3 | −38 | −50.1 | 0.7 | ~3% | 24 | Midnight sun; "warmest" period |
+
+***Monthly record extremes (Ariun Nuur, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+
+
+***Column provenance (Ariun Nuur, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — 26 measured snow-days/yr distributed across measured monthly precipitation. **Avg Daylight:* computed from this city's own latitude.*
+
+
+#### Notable Weather Phenomena
+
+- **The record cold:** −89.2°C is a number that has to be experienced to understand; at those temperatures, exhaled breath freezes before it disperses; exposed metal becomes brittle; lubricants fail; the human body's thermal regulation capacity is simply overwhelmed; even for robots, temperatures this extreme stress materials and fluid systems in ways that require specific engineering solutions
+- **Katabatic calm:** paradoxically, Ariun Nuur is much calmer in terms of wind than the coastal stations; the plateau interior lacks the slope-to-coast gradient that drives katabatic winds; the cold is worse, but the wind does not compound it the way it does at Mirny or Janbogo
+- **Diamond dust:** in the extreme cold and dry air, ice crystals are always present; the sky at Ariun Nuur has a permanent faint shimmer on clear days; solar halos and pillars are common; the visual quality of the air is distinctive
+- **Lake Vostok under the ice:** the lake itself is not a surface phenomenon, but the geothermal heat it contributes creates subtle anomalies in the ice dynamics above it; in certain conditions, instruments can detect the presence of the lake from the surface
+
+#### Gameplay Notes
+
+- **The coldest place in Tepenia:** Ariun Nuur requires protection equipment beyond anything needed in the main game or most DLC content; visiting Ariun Nuur is the extreme end of the cold survival mechanic
+- **Lake Vostok as a narrative resource:** 500+ years of post-exile scientific access to a 25-million-year-isolated subglacial lake; whatever has been learned and whatever has been found are enormous open questions; the lake is a major lore asset for any content set here
+- **Effective isolation, revised 2026-07-06:** reaching Ariun Nuur from Mirny (its own Arcanet subnet's coastal hub) still requires crossing 1,260km of featureless East Antarctic Plateau with no road — that route remains a major expedition. But Ariun Nuur is also a confirmed stop on Hwy 37, reachable via Kunlun/Concordia in one direction or Dome Fuji/Temirötkel in the other — a real, if still extreme, plateau highway route rather than trackless crossing. This gives Ariun Nuur two very different approach profiles depending on route.
+- **Hardcore Mode influences:**
+  - Most extreme cold in Tepenia; thermal protection requirements exceed every other location
+  - Severe supply isolation via the Mirny route specifically (no resupply possible on that crossing); the Hwy 37 approach is less absolute but still an extreme-altitude plateau highway with minimal services
+  - Lake Vostok access shaft: if the drilling infrastructure survived, the shaft to the lake represents a Hardcore Mode vertical environment with pressure and cold hazards distinct from surface conditions
+
+---
+
+## Founding
+
+**Settled:** Post-Falkland Treaty. Vostok Station had been in Soviet/Russian operation from 1957. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. "Inherited... its extraordinary scientific legacy" still overstates it — no living scientific legacy or institutional culture survived that chain of handoffs. Preserved journals, logs, and orientation manuals did survive, though, giving the exiles a real documentary starting point — learning from a written record isn't the same as being taught by a living institution.)* What actually made 2564 settlement possible was the genuinely maintained station and the extreme environment itself, which the founding community had to re-learn to survive in from scratch using those records as a foundation, independently building whatever scientific culture Vostok has today.
+
+**Founding population:** Primarily Russian exiles. The community that settled Ariun Nuur was necessarily small — the environment cannot sustain a large population — and necessarily specialized. You did not go to Ariun Nuur by accident.
+
+The name was kept.
+
+---
+
+## Character & Culture
+
+Ariun Nuur developed the culture of a city at the end of the world. Not metaphorically — the Pole of Inaccessibility is genuinely the furthest point from anywhere on the continent, and Ariun Nuur's location approaches it. The city was small, deliberately so. The people who lived there were people for whom the distance and the cold were acceptable conditions rather than hardships to be overcome. That self-selection shaped the community deeply.
+
+The Lake Vostok scientific program gave the city its purpose beyond survival — generations of researchers working on a subglacial lake that had been sealed for millions of years, studying what evolved in isolation beneath kilometers of ice. The scientific culture of Ariun Nuur was quiet, long-term, and intensely focused. Results came slowly, in years and decades rather than months.
+
+The relationship with the Mirny subnet — the 1,260km of plateau between Ariun Nuur and its nearest subnet city — was always more theoretical than practical. Ariun Nuur was in the Mirny subnet on paper. In reality, it was alone.
+
+**Nationally known for:** The cold record. Lake Vostok. The extreme isolation. Being the city at the end of everything.
+
+---
+
+## Economy & Industry
+
+Science, almost entirely. Ariun Nuur's economy was the Lake Vostok research program and whatever the extreme plateau environment could support in terms of self-sufficiency. It produced knowledge and exported almost nothing else. **Vision session, 2026-07-06:** the interior of the city reflects this directly — huge sections given over entirely to genetics research, floor after floor of labs running experimentation on gene and allele combinations, the same way Kunlun's interior is one enormous distributed astronomical instrument.
+
+**Confirmed 2026-07-07:** Ariun Nuur's scientists and engineers, together with Kunlun's, jointly established and staffed a fabrication-synthesis chamber manufacturing outpost at Mountain Pass Airport, the standalone waypoint on Hwy 37 between the two cities (see `Locations/Infrastructure/Airports.md`). Chambers — the individual apparatus at the heart of the nationwide Cradle infrastructure — were built there and shipped out to cities across the region; robots themselves were never made at the outpost itself. This was a concrete, physical expression of the already-established "two loneliest outposts" relationship between Ariun Nuur and Kunlun.
+
+**Historical, not current, per the same-day power-source correction:** the outpost was too remote to support its own dedicated power infrastructure, and ran instead on residual overflow from Amundsen Tower's continent-wide regulated grid (see `Energy_Grid_Failure_Rationale.md` #11). The Tower's destruction during the Long Night War ended that supply permanently, taking the outpost's manufacturing capability with it — no new chambers have been built there since. Chambers manufactured there before the war still function wherever they were shipped, including, per a quiet discoverable detail not tied to any quest, the specific chamber in Calethina's own lab in Concordia that a diligent, curious player can eventually trace back to this outpost.
+
+---
+
+## Notable Locations
+
+- **Lake Vostok access infrastructure** — the drilling apparatus and access shaft reaching the subglacial lake; 500+ years of post-exile scientific access has potentially extended and expanded this infrastructure considerably; the shaft and its associated research facilities are the most significant structures in Ariun Nuur
+- **The cold record marker** — some form of civic acknowledgment of the −89.2°C record; exact form TBD
+- **The Ariun Nuur research archive — confirmed 2026-07-06:** whatever scientific findings from Lake Vostok have been accumulated; confirmed to be so large and complex that no single individual — human or robot — fully understands it; understanding is distributed across the whole research population; potentially the most significant scientific dataset in the Mirny subnet
+- Additional locations: TBD
+
+---
+
+## Notable Figures
+
+- **"Charlene" (model designation XT-17)** *("Charlene" is a working/folder-reference name only — her actual personal name is still TBD)* — Robot; confirmed 2026-07-07 as this section's central figure. A resident geneticist who discovered a cost-effective method for working with genetics with significantly reduced mutation rates — a major breakthrough in the field. Her own character folder (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [XT-17 unorthodox science teacher Charlene]/`) confirms she lives and works at Ariun Nuur in the present day — a potentially-recruitable companion the player can meet here directly. Her work is almost certainly connected to Lake Vostok: a 25-million-year-isolated subglacial ecosystem is one of the most extraordinary genetic research opportunities in the known world. Full backstory and the specific nature of her Lake Vostok research still TBD. She is the primary reason to come to Ariun Nuur in the DLC beyond the city itself.
+
+---
+
+## Connection to Concordia
+
+*Corrected 2026-07-04: this section previously claimed Ariun Nuur "shares the Mirny subnet with Concordia" and could theoretically relay signals to Concordia through Mirny. Both claims are wrong — Concordia is a Janbogo subnet city, not Mirny subnet, and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception, Mirny's included. There is no informational relay path to Concordia through Mirny or otherwise.*
+
+*Further corrected 2026-07-06: the claim that Ariun Nuur's isolation from Concordia is "total" was wrong on the physical side. Ariun Nuur sits directly on **Hwy 37 (the Mountain Cut Throughway)**, which runs Dome Fuji → Kunlun → Ariun Nuur → Concordia — a real, physical highway link straight to Concordia, despite the two cities belonging to different Arcanet subnets. This is the same pattern already established for Kunlun's own Hwy 37 connection to Concordia, and for Sinheung's Hwy 110 connection (see `project_mirny_concordia_subnet_bug` precedent): the Arcanet link is severed, but the physical highway is not.*
+
+Ariun Nuur's connection to Concordia doesn't exist informationally — it never did, and the Split Brain only confirms what was already true. But Hwy 37 gives Ariun Nuur a genuine physical highway link straight to Concordia, running through Kunlun. Even setting that aside, the 1,260km of plateau between Ariun Nuur and Mirny (its actual, correct subnet's hub) makes even *intra*-subnet contact effectively unreachable in that direction — so isolation from Mirny specifically still holds, even though isolation from Concordia does not. Whatever Ariun Nuur knows, whatever it has found in Lake Vostok over the centuries, Concordia has no informational way to access it — but it's no longer safe to assume there's no physical route between them at all.
+
+---
+
+## Current Status
+
+Survived the Long Night War — but survival here is a technical category. Whether anyone is alive at Ariun Nuur, whether the settlement still functions, whether it has any ability to communicate with anyone else in Tepenia, is entirely unknown. The city is alive in the sense that it was not destroyed. Whether it is alive in any other sense is the question.
+
+The isolation that defined Ariun Nuur before the war has only deepened since, at least informationally — the Planetary Split Brain severed whatever Arcanet connection existed. **Corrected 2026-07-06:** the physical connection is a different story. Hwy 37 still exists and still runs directly through Ariun Nuur, whatever its post-war condition — Ariun Nuur's connection to the broader Federation is tenuous and probably badly degraded, but it was never a case of *no road existing at all*, and a physical route to Kunlun and Concordia in one direction, or Dome Fuji and Temirötkel in the other, remains a real possibility rather than a fiction.
+
+---
+
+## Legacy
+
+Ariun Nuur's legacy is the lake. Whatever lives in Lake Vostok — whatever evolved in 25 million years of isolation beneath four kilometers of ice — is the most scientifically significant unknown in Tepenia. The city that sits above it has been studying it for centuries. That knowledge, if it still exists and if it can ever be retrieved, is the most extraordinary scientific inheritance in the Mirny subnet.
+
+---
+
+## Open Questions
+
+- **Is anyone still alive at Ariun Nuur?** — the most basic and most unanswerable question; given the isolation and the post-war disruption, Concordia and Mirny have no way to know
+- **Lake Vostok — what has been found?** — 500+ years of post-exile scientific access to a 25-million-year-isolated subglacial lake; the discoveries are an enormous open lore question; this may be the most scientifically significant open question in the entire GDD; Charlene's reduced-mutation technique is almost certainly connected to Lake Vostok's unique biology — organisms isolated for 25 million years under extreme pressure and cold represent a genetic dataset found nowhere else on Earth
+- **Is the Ariun Nuur–Mirny overland cable intact?** — *(corrected 2026-07-04 — this previously continued "...and, through Mirny, with Concordia," which isn't possible; Mirny has no Arcanet path to Concordia either, since they're different subnets)* determines only whether Ariun Nuur can communicate intra-subnet with Mirny, Zhongshan, Casey, Davis, and Kunlun
+- **Can Ariun Nuur be reached in gameplay? — resolved 2026-07-06:** yes, reserved for the **Mirny DLC (DLC 7)**, reached via Hwy 37 rather than the trackless Mirny crossing. Ariun Nuur is also the launch point for the DLC's Kunlun content — see `Specs/Kunlun.md`'s Reachability entry for the full hook: Charlene (Ariun Nuur's geneticist) finds something in Lake Vostok significant enough to need Kunlun's comms relay to transmit, making the Ariun Nuur→Kunlun leg mandatory, with three optional secondary threads (the Ariun Nuur-Kunlun "two loneliest outposts" relationship, a possible Lake Vostok/Kunlun-observatory scientific echo, and Vosora Lashár Tanslock's undetermined Kunlun connection) available for the player to pursue alongside it.
+- **The Ariun Nuur research archive survival** — if someone eventually reaches Ariun Nuur, is the archive intact?
+- **Demonym** — TBD (Vostokans? something Russian-inflected?)
+- **Notable figures** — *(corrected 2026-07-17, this line was stale against the Notable Figures section above, which already names Charlene)* Charlene ("Charlene," model XT-17) is confirmed; her actual personal name remains TBD.

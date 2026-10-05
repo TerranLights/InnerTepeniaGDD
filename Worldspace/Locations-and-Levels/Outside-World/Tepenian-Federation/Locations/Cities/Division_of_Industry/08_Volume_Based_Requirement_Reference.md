@@ -19,7 +19,7 @@ cause without being asked about it:**
 **Both prior models started from labor and never recovered.** `01`'s share-first model distributed percentages
 by burden index — a quantity with no external referent, and therefore unfalsifiable. The requirement-first
 trial started from workers-per-1,000, which is one step better but still skips the physical layer: it can say
-Vostok needs 1 grower per 10.9 humans *(better than the national average)* while canon says Vostok plainly
+Ariun Nuur needs 1 grower per 10.9 humans *(better than the national average)* while canon says Ariun Nuur plainly
 cannot feed itself. **Nothing in a headcount model can see why.**
 
 > ## ⭐ **This method inserts the missing layer: VOLUME.**
@@ -152,7 +152,7 @@ mean 129 · Australia 191 · WHO basic-needs floor 50–100.**
 > *(~0.13 kWh/L, established earlier this pass)*. **A metered, energy-costed supply should sit far below
 > developed-world use — plausibly 100–150 L/person/day, nearer the WHO band than the American one.**
 > ⭐ **And that is itself a characterization: Tepenians would regard American water use as obscene.**
-> *(Exception: {{Bunger Hills City}}, which draws from Antarctica's largest freshwater lake and is the one
+> *(Exception: Relung Panen, which draws from Antarctica's largest freshwater lake and is the one
 > place the normal figure could apply — see its development brief.)*
 
 **Labor per volume** *(sourced)*: **EPA municipal wastewater staffing curves** — 1.0 MGD ≈ 3 staff · 9.5 MGD
@@ -501,8 +501,8 @@ data gap:
 | **Casey** | 733,795 | 1,495,731 | 101,704 | 183,526 | **285,230** | 1,128,834 | **25.3%** |
 | **Neumayer** | 613,735 | 1,252,080 | 85,064 | 153,630 | **238,694** | 945,213 | **25.3%** |
 | **Denison** | 522,975 | 1,066,143 | 72,484 | 130,816 | **203,300** | 804,656 | **25.3%** |
-| **{{Abowasa}}** | 504,237 | 1,034,241 | 69,887 | 126,901 | **196,788** | 782,123 | **25.2%** |
-| **Vostok** | 129,617 | 389,261 | 17,965 | 47,762 | **65,727** | 324,453 | **20.3%** |
+| **Santa Luce** | 504,237 | 1,034,241 | 69,887 | 126,901 | **196,788** | 782,123 | **25.2%** |
+| **Ariun Nuur** | 129,617 | 389,261 | 17,965 | 47,762 | **65,727** | 324,453 | **20.3%** |
 | **Kunlun** | 0 | 123,449 | 0 | 15,147 | **15,147** | 123,449 | **12.3%** |
 | **NATIONAL** | 15,623,523 | 32,026,600 | **2,165,420** | **3,929,664** | **6,095,084** | 24,214,839 | **25.2%** |
 
@@ -512,10 +512,10 @@ data gap:
 
 **Five of the seven cities land within 0.1 percentage points of each other.** Lazar (2.6 M, cramped oasis),
 Casey (mild, coastal, best-connected), Neumayer (floating ice shelf), Denison (windiest inhabited sea-level
-site on Earth) and {{Abowasa}} (rotational residence) **all compute to 25.3%.**
+site on Earth) and Santa Luce (rotational residence) **all compute to 25.3%.**
 
 > ## **On demand alone, the ONLY variable that separates Tepenian cities is their human fraction.**
-> Vostok differs (20.3%) because it is 67% robot. Kunlun differs (12.3%) because it has no humans. **Every
+> Ariun Nuur differs (20.3%) because it is 67% robot. Kunlun differs (12.3%) because it has no humans. **Every
 > city between 48% and 51% human — which is 33 of the 38 — produces an identical number.**
 
 **This is not a failure of the volume method. It is the volume method correctly reporting that *demand* is
@@ -570,7 +570,7 @@ keep multipliers inside 0.933–2.107, and reported zero clamp hits as a success
 > **But the declared range of 0.7–2.0 was invented by me. Nothing external ever supported it.**
 > **And the real world says Arctic construction runs 3×, Antarctic ice-shelf construction 10–20×.**
 >
-> ### **A difficulty multiplier of 7 for construction at Vostok may not have been a blowup. It may have been
+> ### **A difficulty multiplier of 7 for construction at Ariun Nuur may not have been a blowup. It may have been
 > approximately correct, rejected for violating a limit that had no authority behind it.**
 
 **⚠ The honest qualification, which matters:** these are **COST** multipliers; the model needs **LABOR**
@@ -602,7 +602,7 @@ bulk deliveries are supplied by Sealift, which services the North between late J
 remote northern communities sometimes only getting one delivery a year."*
 
 > **That is a measured `D` — an interruption horizon of up to 365 days at a real Arctic settlement**, against
-> the trial model's *assumed* 270 days for Vostok and 330 for Kunlun. **The assumptions were conservative,
+> the trial model's *assumed* 270 days for Ariun Nuur and 330 for Kunlun. **The assumptions were conservative,
 > and the real world is harsher.** The autonomy-reserve mechanism now has an empirical anchor.
 
 ## ⭐⭐ 6.4b — THE MCAA FACTOR TABLE, OBTAINED. The difficulty layer now has a sourced basis.
@@ -654,7 +654,7 @@ unrelated direction.
 | Ordinary coastal *(Cape Adare)* | weather 15 + site access 5 | 20% | **1.25×** |
 | Harsh / exposed *(Denison)* | weather avg 20 + site access severe 30 | 50% | **2.00×** |
 | Ice shelf *(Halley, Neumayer)* | weather 20 + access 30 + logistics avg 25 | 75%* | **~2.5–4×** |
-| Isolated plateau *(Vostok, Kunlun)* | weather severe 30 + logistics severe 50 | 80%* | **~2.5–5×** |
+| Isolated plateau *(Ariun Nuur, Kunlun)* | weather severe 30 + logistics severe 50 | 80%* | **~2.5–5×** |
 
 > **⭐ AND IT CONVERGES WITH THE COST LADDER FROM A COMPLETELY DIFFERENT SOURCE.** §6.1's real-world figures
 > gave **Nunavut 3×**, and §6.2's corrected Tepenian band — after the developer's point that Tepenian supply
@@ -669,7 +669,7 @@ unrelated direction.
 >
 > **⚠ And a scope caveat that matters:** MCAA factors measure **disruption to a project**, not **steady-state
 > operations in a permanently hostile place.** A Tepenian city does not run at 30% weather loss forever — it
-> adapts, encloses, and schedules around the weather. **"Severe" should not be the default even at Vostok.**
+> adapts, encloses, and schedules around the weather. **"Severe" should not be the default even at Ariun Nuur.**
 
 ---
 
@@ -712,8 +712,8 @@ it is −55 °C outside.
 |---|--:|--:|--:|--:|
 | **Neumayer** *(Ekström ice shelf)* | 2.5× | 25.3% | **42.6%** | **+17.3** |
 | **Denison** *(windiest inhabited sea-level site)* | 2.0× | 25.3% | **36.9%** | **+11.6** |
-| **Vostok** *(−54.8 °C, isolated plateau)* | 2.5× | 20.3% | **34.5%** | **+14.2** |
-| **{{Abowasa}}** *(inland nunatak)* | 1.54× | 25.2% | **31.4%** | +6.2 |
+| **Ariun Nuur** *(−54.8 °C, isolated plateau)* | 2.5× | 20.3% | **34.5%** | **+14.2** |
+| **Santa Luce** *(inland nunatak)* | 1.54× | 25.2% | **31.4%** | +6.2 |
 | **Lazar** *(coastal, connected, largest)* | 1.25× | 25.3% | **28.2%** | +2.9 |
 | **Casey** *(mild, best-connected)* | 1.11× | 25.3% | **26.5%** | +1.2 |
 | **Kunlun** *(harshest, zero humans)* | 2.7× | 12.3% | **22.7%** | +10.4 |
@@ -727,7 +727,7 @@ within 0.1 points of each other.**
   above cold, above wind, above isolation. **This reproduces `05` §2's finding that Halley's construction
   burden should exceed Denison's, arrived at from a completely different direction.**
 - **Denison outranks Lazar and Casey on wind alone**, which the share-first model could never make it do.
-- **Vostok is third, not first** — its isolation and cold are extreme, but **two-thirds of its population is
+- **Ariun Nuur is third, not first** — its isolation and cold are extreme, but **two-thirds of its population is
   robot**, so its human-keyed demand is small. **Difficulty and demography pull against each other**, and the
   result is a city that is expensive per unit of work but has less work to do.
 - **Kunlun stays low despite carrying the corpus's worst conditions** — 2.7× difficulty applied to a city

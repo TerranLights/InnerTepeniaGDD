@@ -12,7 +12,7 @@ each city's own defining established facts. Draws on the 8 Robot Elementals (`Ro
 Already cited as established reference material by multiple `Local_Robot_Culture/` city files before this
 promotion; confirmed working reference, still open to future revision the way any canon document is.
 
-**Abowasa is excluded** — paused pending its own founding-nation fix, per standing project practice.
+**Santa Luce is excluded** — paused pending its own founding-nation fix, per standing project practice.
 
 **Every entry describes the living, pre-war Second Interwar Period character of each city — not its post-war
 or present-day (ruins/DLC) status**, matching the same standing rule already used throughout this project's
@@ -52,7 +52,7 @@ from each city's actual pre-war-established character instead.
 
 **Overlap between cities is expected and, in places, deliberate** — with only 11 planets and 8 elements across
 35 entities, some repetition is mathematically inevitable, and a few repeats specifically echo already-
-established lore rather than being arbitrary: Kunlun, Vostok, and Dome Fuji all landing on **Pluto**
+established lore rather than being arbitrary: Kunlun, Ariun Nuur, and Dome Fuji all landing on **Pluto**
 (Isolation) mirrors their already-established extreme-isolation kinship and Ice Cold Buddhism connection, not
 coincidence.
 
@@ -87,7 +87,7 @@ coincidence.
 | Belgrano | Neptune | ⏸️ | **The Halley subnet's primary aviation hub** and one of its two coastal receiving ports — and, downstream of the airfield, the **Belgrano Institute of Medicine**, one of only three sources of trained medical personnel in the Federation, flagship in **Emergency and Trauma Response**. *Precision under pressure, triage, and the discipline of knowing what cannot be saved.* **Its effect is felt wherever its medics and freight go, not at Belgrano itself** *(re-derived 2026-09-04 — see note below)* |
 | Troll | Neptune | ⏸️ | The subnet's real freight-and-aviation distribution hub — genuine working-class logistics muscle, redistributing goods that arrive via Sanay and Belgrano onward by air |
 | Sanay | Jupiter | ⏸️ | Holds the literal Arcanet nexus — the invisible hub everything else connects through, weight self-evident without needing credit |
-| Princess Elisabeth | Uranus | ⏸️ | Self-generated power, a genuine technological outlier by design |
+| Utstein | Uranus | ⏸️ | Self-generated power, a genuine technological outlier by design |
 | Lazar | Jupiter | ⏸️ | By far Tepenia's single largest city — the second-largest isn't close. Built and continually reshaped by relentless waves of immigration, its own name phonetically shifted by sheer population mass, gathering whoever arrives and giving them somewhere to belong |
 
 ## Palmer Subnet
@@ -98,10 +98,10 @@ coincidence.
 | Esperanza | Mars | ⏸️ | Revived from centuries of drifting through other various conditions, back to being oriented around families — its original purpose |
 | Rothera | Asteroid Belt | ⏸️ | "Built to Last, By Never Being in One Place" — a decentralized industrial base spread deliberately across Adelaide Island, output reaching every other Palmer subnet city; the heavily decentralized nature is a direct, literal match for the Asteroid Belt symbol itself |
 | Marambio | Neptune | ⏸️ | A demanding dual hub (port + airport) handled with quiet, undramatized capability |
-| Port Lockroy | Neptune | ⏸️ | A courier settlement built on diligence directly — a relay point moving parcels and other transportable goods between the Peninsula and the mainland |
-| Sejong | Jupiter | ⏸️ | Diplomatic coordination as an art form — gathering many neighbors, giving each somewhere to belong |
+| Puerto Abrigo | Neptune | ⏸️ | A courier settlement built on diligence directly — a relay point moving parcels and other transportable goods between the Peninsula and the mainland |
+| Contrapunto | Jupiter | ⏸️ | Diplomatic coordination as an art form — gathering many neighbors, giving each somewhere to belong |
 | Signy | Mercury | ⏸️ | Small, isolated, careful self-sufficient planning at the margins |
-| Juan Carlos | Neptune | ⏸️ | An archive known through its records and effects, not direct presence |
+| Pergamino | Neptune | ⏸️ | An archive known through its records and effects, not direct presence |
 
 ## Mirny Subnet
 
@@ -111,9 +111,9 @@ coincidence.
 | Casey | Mars | ⏸️ | Revived from centuries of drifting through other various conditions, back to being oriented around culture |
 | Davis | — | — | ⏸️ **BLANK. Deliberately unset, developer ruling 2026-09-16** — *"for now, for the current time, we can just make that blank."* ⛔ **Do not fill from the breadbasket reading; Davis is also a port city, and the symbol is open** |
 | Kunlun | Pluto | ⏸️ | Among the most physically isolated places in Tepenia, built entirely around observation |
-| Vostok | Pluto | ⏸️ | Tepenia's other loneliest outpost, deep biological/genetic research |
+| Ariun Nuur | Pluto | ⏸️ | Tepenia's other loneliest outpost, deep biological/genetic research |
 | Zhongshan | Saturn | Metal | "The Quiet City" — self-sufficient, ordered complexity, content unexamined |
-| Sinheung | Uranus | Electricity | An outlier by its own outsized national pride, distinguishing itself forcefully from Tepenia's quieter post-national norm — unlike Sayowa's own quiet, uncredited service work, Sinheung wants to be noticed. Also the literal chamber-manufacturing city, animating inert matter into life |
+| Sinheung | Uranus | Electricity | An outlier by its own outsized national pride, distinguishing itself forcefully from Tepenia's quieter post-national norm — unlike Temirötkel's own quiet, uncredited service work, Sinheung wants to be noticed. Also the literal chamber-manufacturing city, animating inert matter into life |
 | Shirayuki | Uranus | Air | ⭐ **Re-derived 2026-09-27, ULM Phase 10 §B3 — Uranus confirmed, Element revised from Fire (never grounded).** Uranus: an identity built entirely after a defining event it never chose (the Jeju-do allocation), reoriented as the new baseline rather than damage to fix. Air: a persistent, unseen, directional wind is the one agent present in nearly every finding this pass produced — felt, never seen, no face or name, sheltering when still and stripping when not, exactly Air's own stated duality. Full derivation: `City_Development_Passes/Mirny_Subnet/Shirayuki/04_Phase_10_Catalog.md` §B3 |
 
 ## Janbogo Subnet
@@ -134,7 +134,7 @@ coincidence.
 |---|---|---|---|
 | Mawson | Earth | ⏸️ | A warm, generative "resort town" built around romance and new beginnings |
 | Dome Fuji | Pluto | ⏸️ | Extreme isolation embraced as devotion, dissolving the self/environment boundary |
-| Sayowa | Neptune | ⏸️ | The quiet dispatch hub keeping goods moving for everyone else, practical over glamorous |
+| Temirötkel | Neptune | ⏸️ | The quiet dispatch hub keeping goods moving for everyone else, practical over glamorous |
 
 ## Byrd
 
@@ -230,7 +230,7 @@ rather than an oversight… forcing a second use elsewhere would have been arbit
 
 | Rejected | Reason |
 |---|---|
-| ⛔ **Pluto** *(Isolation)* | **Would say Amundsen is isolated when it is the most CONNECTED place in Tepenia** — physically remote, but the opposite of cut off. Would also dilute the established Kunlun/Vostok/Dome Fuji trio, whose shared Pluto mirrors a real extreme-isolation and Ice Cold Buddhism kinship |
+| ⛔ **Pluto** *(Isolation)* | **Would say Amundsen is isolated when it is the most CONNECTED place in Tepenia** — physically remote, but the opposite of cut off. Would also dilute the established Kunlun/Ariun Nuur/Dome Fuji trio, whose shared Pluto mirrors a real extreme-isolation and Ice Cold Buddhism kinship |
 | ⛔ **Jupiter** *(Dominance)* | Implies weight, gravity and self-evident authority. ***Amundsen had no authority at all*** — disputes came *"not because it had formal authority… but because its neutrality was respected."* **Its power was entirely unofficial, which is the whole point** |
 | **Mercury** *(Resilience)* | Genuine near-miss: Mercury is the **smallest** planet and Amundsen the smallest entity, and *"a specific, oddly precise rhythm found nowhere else"* fits a pole with **one sunrise and one sunset a year**. But Mercury's core is *endurance at the edge*, and Amundsen's core is *service from the center* |
 | **Electricity** *(fallback element)* | Strong — `Robot_Elementals.md` names the Amundsen Tower in its own text, and *"the single current that runs through and unifies an entire system end to end"* fits the Tower's energy-regulation role. ⚠ **But the file's naming is about the Tower's FALL**, which is out of frame; and the developer's emphasis was **data** infrastructure, which is signal, not power |
@@ -308,12 +308,12 @@ Uranus 3, Mars 3, Saturn 3, Pluto 3, Mercury 3, Venus 1, Asteroid Belt 1 (Rother
 ⚠ **Neptune is now the most-used symbol at 8.** Amundsen was added on the strength of a near-literal match
 *(existence calculated before observed; known by effect rather than presence; intensity unrelated to
 proximity to the energy source)* rather than to balance the distribution — **but if Neptune is ever
-re-reviewed for over-use, this is the entry to weigh against Marambio and Port Lockroy first.** **Neptune reviewed 2026-08-05** — Sinheung moved to Uranus, since its Assertive/
+re-reviewed for over-use, this is the entry to weigh against Marambio and Puerto Abrigo first.** **Neptune reviewed 2026-08-05** — Sinheung moved to Uranus, since its Assertive/
 Reactive, outsized-national-pride profile sat awkwardly against Neptune's quiet, doesn't-announce-itself
-character, and directly undercut Sayowa's own established profile, which explicitly contrasts its quiet,
+character, and directly undercut Temirötkel's own established profile, which explicitly contrasts its quiet,
 uncredited service work against Sinheung's own need for recognition. The remaining seven Neptune cities
-(Neumayer, Belgrano, Troll, Marambio, Port Lockroy, Juan Carlos, Sayowa) were checked individually and held up
-— Neumayer, Port Lockroy, and Juan Carlos especially, each a close literal match for "diligence" or "known
+(Neumayer, Belgrano, Troll, Marambio, Puerto Abrigo, Pergamino, Temirötkel) were checked individually and held up
+— Neumayer, Puerto Abrigo, and Pergamino especially, each a close literal match for "diligence" or "known
 through effect/record rather than direct presence."
 
 **Element usage (35 entities):** Earth 6, Water 6, Fire 5, Metal 5, Wood 4, Electricity 4, Air 3,

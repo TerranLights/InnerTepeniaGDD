@@ -23,7 +23,7 @@
 | Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
 | Notable | Poland, Netherlands, Thailand, Czech Republic, Ukraine, Vietnam, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Lithuania, Slovenia, Latvia, Estonia |
 
-*Mawson breaks the pattern nearly every Atlantic- and Peninsula-facing Tepenian city follows. Where Halley, Palmer, and most of their subnet neighbors eventually became American-Primary regardless of founding nation, Mawson's Indian Ocean position — facing East Asia and Oceania rather than the Atlantic or South America — produced a China-Primary demographic long-run, with Japan, South Korea, and Indonesia all holding real Significant-tier weight alongside the usual European contributors. Australia holds the founding-wave flag at Significant tier — a strong retention (like Rothera's UK, Sejong's South Korea, Juan Carlos's Spain) rather than being diluted all the way to Notable.*
+*Mawson breaks the pattern nearly every Atlantic- and Peninsula-facing Tepenian city follows. Where Halley, Palmer, and most of their subnet neighbors eventually became American-Primary regardless of founding nation, Mawson's Indian Ocean position — facing East Asia and Oceania rather than the Atlantic or South America — produced a China-Primary demographic long-run, with Japan, South Korea, and Indonesia all holding real Significant-tier weight alongside the usual European contributors. Australia holds the founding-wave flag at Significant tier — a strong retention (like Rothera's UK, Contrapunto's South Korea, Pergamino's Spain) rather than being diluted all the way to Notable.*
 
 ---
 
@@ -205,10 +205,10 @@ Filtered through Mawson's own established role as subnet hub and honeymoon desti
 
 ## 23. Relationship to Other Cities
 
-- **Sinheung (east, Hwy 4):** Direct highway neighbor *(corrected 2026-07-14 — this entry previously named Shirayuki as the direct neighbor, contradicting `Locations/Infrastructure/Highways.md`'s authoritative route, Sayowa Junction → Mawson → Sinheung → Shirayuki, which places this city, not Shirayuki, immediately east of Mawson)*, though *(corrected 2026-07-05)* no longer a fellow Mawson subnet city — moved to Mirny subnet alongside Zhongshan; the highway connection persists regardless. See `TODO.md`.
+- **Sinheung (east, Hwy 4):** Direct highway neighbor *(corrected 2026-07-14 — this entry previously named Shirayuki as the direct neighbor, contradicting `Locations/Infrastructure/Highways.md`'s authoritative route, Temirötkel Junction → Mawson → Sinheung → Shirayuki, which places this city, not Shirayuki, immediately east of Mawson)*, though *(corrected 2026-07-05)* no longer a fellow Mawson subnet city — moved to Mirny subnet alongside Zhongshan; the highway connection persists regardless. See `TODO.md`.
 - **Shirayuki:** *(Corrected 2026-07-05)* No longer a fellow Mawson subnet city — moved to Mirny subnet, joining its immediate Larsemann Hills neighbors Zhongshan and Sinheung. *(Corrected 2026-07-14)* Connected via Hwy 4 through Sinheung — Shirayuki is Hwy 4's eastern endpoint, one stop beyond Mawson's own direct neighbor.
-- **Sayowa:** Fellow Mawson subnet city, sharing the Indian Ocean-facing immigration pattern.
-- **Every Mawson subnet city:** As the confirmed subnet hub, Mawson's Arcanet connectivity ties every other Mawson subnet city together — a genuinely load-bearing structural relationship distinct from mere geographic proximity. *(As of 2026-07-05, this subnet is down to Mawson, Sayowa, and Dome Fuji — Sinheung and Shirayuki moved to Mirny.)*
+- **Temirötkel:** Fellow Mawson subnet city, sharing the Indian Ocean-facing immigration pattern.
+- **Every Mawson subnet city:** As the confirmed subnet hub, Mawson's Arcanet connectivity ties every other Mawson subnet city together — a genuinely load-bearing structural relationship distinct from mere geographic proximity. *(As of 2026-07-05, this subnet is down to Mawson, Temirötkel, and Dome Fuji — Sinheung and Shirayuki moved to Mirny.)*
 
 ---
 
@@ -216,7 +216,7 @@ Filtered through Mawson's own established role as subnet hub and honeymoon desti
 
 The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was the primary Arcanet connection point for the entire subnet's communication with the rest of Tepenia, making Mawson's information infrastructure genuinely central to the whole region's civic life.
 
-**Confirmed 2026-07-07:** the Split Brain severed *inter-subnet* Arcanet links specifically, not intra-subnet ones — the same mechanism already established for Davis/Casey/Mirny's surviving Australian heritage within the Mirny subnet. Mawson's outward connection to the rest of Tepenia was a deliberate strategic target and took the brunt of the damage; its intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape or proved more repairable, since that was never the kind of link the Split Brain itself severed.
+**Confirmed 2026-07-07:** the Split Brain severed *inter-subnet* Arcanet links specifically, not intra-subnet ones — the same mechanism already established for Davis/Casey/Mirny's surviving Australian heritage within the Mirny subnet. Mawson's outward connection to the rest of Tepenia was a deliberate strategic target and took the brunt of the damage; its intra-subnet connections to Temirötkel and Dome Fuji plausibly survived in better shape or proved more repairable, since that was never the kind of link the Split Brain itself severed.
 
 ---
 
@@ -268,7 +268,7 @@ Becoming a local at Mawson means engaging with both halves of the city's identit
 
 ## 30. Significant Local Events
 
-- **The Long Night War damage** — Mawson was damaged but remains partially operational, consistent with its subnet-hub role and long institutional continuity. **Confirmed 2026-07-07:** the inter-subnet Arcanet link took the brunt of the damage; intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape. Exact remaining scope still a DLC 4 design question.
+- **The Long Night War damage** — Mawson was damaged but remains partially operational, consistent with its subnet-hub role and long institutional continuity. **Confirmed 2026-07-07:** the inter-subnet Arcanet link took the brunt of the damage; intra-subnet connections to Temirötkel and Dome Fuji plausibly survived in better shape. Exact remaining scope still a DLC 4 design question.
 
 ---
 

@@ -143,7 +143,7 @@ genuinely interesting, all of it inadmissible as *causal* material regardless of
 **What stays fully usable, unaffected by any of this:** pure physical/geographic facts about the LAND itself —
 terrain, climate, wind, ice, altitude, hydrology, biology, coordinates. These don't change no matter who built
 what, when. **When in doubt about whether a real-world thread is safely usable, the correct move is to OMIT it
-entirely, not to reframe it** — see `No_National_Stereotypes.md`'s own Juan Carlos case study.
+entirely, not to reframe it** — see `No_National_Stereotypes.md`'s own Pergamino case study.
 
 ---
 

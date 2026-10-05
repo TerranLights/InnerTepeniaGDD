@@ -5,7 +5,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 > ⛔ **The "Country" column is the station's builder: a coordinate and an infrastructure fact only (`DR-19`, `DR-24`).** It is never a reason for a city's founders, identity, culture or ties. **Founders come only from `Founding_Register.md`**, on geography and access.
 
 **Name conventions established so far:**
-- Direct carry-over (most common): Neumayer, Belgrano, Mirny, Vostok
+- Direct carry-over (most common): Neumayer, Belgrano, Mirny, Ariun Nuur
 - Phonetic adaptation: Jang Bogo → Janbogo
 - Modified with prefix/suffix: McMurdo → Fort McMurdo
 - Condensed: Mario Zucchelli → **Zukelli** ✓
@@ -33,10 +33,10 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Rothera Station | UK | **Rothera** ✓ | Damaged; partially operational | Major British station on Adelaide Island |
 | Esperanza Base | Argentina | **Esperanza** ✓ | Destroyed *(corrected 2026-07-03)* | Oldest continuously occupied station; historic families |
 | Marambio Base | Argentina | **Marambio** ✓ | Destroyed *(corrected 2026-07-03 — small, flat, single-point-of-failure airfield island)* | Has a runway — logistics/transport hub in-game |
-| King Sejong | Unified Korea | **Sejong** ✓ | Destroyed | Korean station |
-| Juan Carlos I | Spain | **Juan Carlos** ✓ | Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md`)* | Spanish station, Livingston Island |
+| King Sejong | Unified Korea | **Contrapunto** ✓ | Destroyed | Korean station |
+| Juan Carlos I | Spain | **Pergamino** ✓ | Destroyed *(resolved 2026-07-05 — see `Specs/Pergamino.md`)* | Spanish station, Livingston Island |
 | Signy Station | UK | **Signy** ✓ | Survived; fully operational *(upgraded 2026-07-03)* | South Orkney Islands; northernmost Tepenian outpost; peripheral — confirmed overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines |
-| Port Lockroy | UK | **Port Lockroy** ✓ | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Goudier Island; too strategically irrelevant to be a priority target, plausibly conflated with adjacent Palmer City's strike zone |
+| Puerto Abrigo | UK | **Puerto Abrigo** ✓ | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Goudier Island; too strategically irrelevant to be a priority target, plausibly conflated with adjacent Palmer City's strike zone |
 
 ---
 
@@ -57,9 +57,9 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Neumayer Station III | Germany | **Neumayer** ✓ | Damaged; partially operational | Off Hwy 7 main route — possibly harder to target |
 | Sanae IV Station | South Africa | Sanay | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | South African station |
 | Troll Base | Norway | Troll | Damaged; partially operational | Norwegian station; runway access — logistics value |
-| Aboa Station + Wasa Research Station | Finland + Sweden | Abowasa | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed"; renamed from "Aboa" 2026-07-05)* | Two genuinely separate stations ~200m apart; both built for year-round occupation but staffed seasonally only |
+| Aboa Station + Wasa Research Station | Finland + Sweden | Santa Luce | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed"; renamed from "Aboa" 2026-07-05)* | Two genuinely separate stations ~200m apart; both built for year-round occupation but staffed seasonally only |
 | Novolazarevskaya Station + Maitri Station site | Russia / non-Indian | **Lazar** | Damaged; partially operational | Name finalized 2026-07-03 — founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); eastern terminus of Hwy 7, origin of Belgrano Extension. See `Specs/Lazar.md`. |
-| Princess Elisabeth Station | Belgium | Princess Elisabeth | Destroyed *(corrected 2026-07-03 from "Damaged")* | Belgian station; zero-emission design in real life, but the real station is actually famous for extreme wind exposure (gales to 300 km/h), surviving only via deliberate engineering, not natural shelter; destroyed once that engineering failed — ruins with straggling survivors |
+| Princess Elisabeth Station | Belgium | Utstein | Destroyed *(corrected 2026-07-03 from "Damaged")* | Belgian station; zero-emission design in real life, but the real station is actually famous for extreme wind exposure (gales to 300 km/h), surviving only via deliberate engineering, not natural shelter; destroyed once that engineering failed — ruins with straggling survivors |
 
 ---
 
@@ -67,7 +67,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
-| Syowa Station | Japan | Sayowa | Damaged; partially operational | Major highway junction (Hwy 37 × Hwy 7-ext); critical infrastructure node; DLC 4 |
+| Syowa Station | Japan | Temirötkel | Damaged; partially operational | Major highway junction (Hwy 37 × Hwy 7-ext); critical infrastructure node; DLC 4 |
 | Progress Station | Russia | Sinheung | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — effectively co-located with Zhongshan, a few hundred meters apart in reality; differing outcomes made no physical sense)* | Russian station, East Antarctic coast |
 | Mawson's Huts / Mawson Station | Australia | Mawson | Damaged; partially operational | Confirmed Arcanet subnet hub; DLC 4 anchor |
 | Bharati Station | India (infrastructure only) / Japan (founding population) | **Shirayuki** | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08 |
@@ -113,7 +113,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Real Station | Country | Tepenian City Name | Altitude | Status | Notes |
 |---|---|---|---|---|---|
 | Concordia Station | France / Italy | **Concordia** ✓ | 3,233m | Survived — Last major city | Primary game setting |
-| Vostok Station | Russia | Vostok | 3,488m | Survived — isolated | Too far from self-support resources; small population or abandoned |
+| Vostok Station | Russia | Ariun Nuur | 3,488m | Survived — isolated | Too far from self-support resources; small population or abandoned |
 | Dome Fuji / Valkyrie Dome | Japan | Dome Fuji | ~3,810m | Survived — too high for humans | Altitude too extreme for human settlement; received a real robot population 2026-07-04 (55,072, nationally blended — "Ice Cold Buddhism" pilgrimage community) |
 | Kunlun Station / Dome Argus | Sinian Federation | Kunlun | 4,093m | Survived — too high for humans | Highest station in Antarctica; received a real robot population 2026-07-04 (123,449); re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population, no longer single-nation Chinese — *corrected from "unviable at scale," which is no longer accurate* |
 | Byrd Station | USA | Byrd | ~1,530m | Survived — struggling | West Antarctica; DLC 2 centerpiece; lowest-altitude inland station |
@@ -131,11 +131,11 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 ## Summary Statistics
 
 - **Total stations/sites on map:** ~40
-- **Confirmed destroyed (coastal, Long Night War):** Palmer City, Sejong, Casey, Denison, Cape Adare, Zukelli, Amundsen Station, Princess Elisabeth *(corrected 2026-07-03 — moved here from "damaged," ruins with straggling survivors)*, Esperanza, Marambio *(both corrected 2026-07-03 — moved here from "damaged"; Marambio's small, flat, single-point-of-failure airfield geography argues against survival)*
-- **Juan Carlos's status resolved 2026-07-05:** Destroyed — see `Specs/Juan_Carlos.md` for the reasoning (Upper Earth targeted its ongoing archive/customs administrative function)
-- **Damaged; partially operational (coastal):** Rothera, Port Lockroy *(corrected 2026-07-03 — moved here from "destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone)*, Belgrano, Halley, Neumayer, Troll, Abowasa, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Sayowa, Mawson, Zhongshan, Sinheung, Shirayuki *(formerly "Japanese Diplomatic Partition, cf. Bharati"; both corrected 2026-07-03 — moved here from "destroyed," effectively co-located with Zhongshan)*, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
+- **Confirmed destroyed (coastal, Long Night War):** Palmer City, Contrapunto, Casey, Denison, Cape Adare, Zukelli, Amundsen Station, Utstein *(corrected 2026-07-03 — moved here from "damaged," ruins with straggling survivors)*, Esperanza, Marambio *(both corrected 2026-07-03 — moved here from "damaged"; Marambio's small, flat, single-point-of-failure airfield geography argues against survival)*
+- **Pergamino's status resolved 2026-07-05:** Destroyed — see `Specs/Pergamino.md` for the reasoning (Upper Earth targeted its ongoing archive/customs administrative function)
+- **Damaged; partially operational (coastal):** Rothera, Puerto Abrigo *(corrected 2026-07-03 — moved here from "destroyed"; strategically irrelevant, plausibly conflated with adjacent Palmer City's strike zone)*, Belgrano, Halley, Neumayer, Troll, Santa Luce, Sanay *(both corrected 2026-07-03 — moved here from "destroyed")*, Lazar *(formerly "Maitri" placeholder)*, Temirötkel, Mawson, Zhongshan, Sinheung, Shirayuki *(formerly "Japanese Diplomatic Partition, cf. Bharati"; both corrected 2026-07-03 — moved here from "destroyed," effectively co-located with Zhongshan)*, Davis, Mirny, Dumont d'Urville, Janbogo, Fort McMurdo, Scott
 - **Survived; fully operational:** Signy *(upgraded 2026-07-03 from "damaged" — overlooked entirely by Upper Earth targeting; robot population faces a post-war siligel shortage from cut supply lines despite the city itself being untouched)*
-- **Confirmed survived (inland):** Concordia (game setting), Vostok (isolated), Dome Fuji (too high), Kunlun (too high), Byrd (struggling)
+- **Confirmed survived (inland):** Concordia (game setting), Ariun Nuur (isolated), Dome Fuji (too high), Kunlun (too high), Byrd (struggling)
 - **Confirmed Arcanet subnet hubs:** Palmer City, Halley, Mawson, Mirny, Janbogo, Byrd
 - **Primary refugee source for Concordia:** Dumont d'Urville Sea coast and Ross Sea/Pacific coast
 - **Rarest refugees in Concordia:** Antarctic Peninsula (Palmer City area), Atlantic coast (Belgrano, Neumayer, Halley)
@@ -151,6 +151,6 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - **Lazar** *(formerly "Maitri" placeholder, finalized 2026-07-03)* — founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); marks the eastern terminus of Hwy 7 proper and the origin point of the Belgrano Highway Extension (built 2611–2614). See `Specs/Lazar.md`.
 - **Shirayuki (Bharati Station location)** — founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08. Damaged but partially operational (corrected 2026-07-03 from "Destroyed").
 - **Zhongshan** — named after Sun Yat-sen; name retained under the Sinian Federation.
-- **Sayowa** — major highway junction (Hwy 37 × Hwy 7-ext); significant pre-war transfer point between the Atlantic coast highway system and the inland route to Concordia.
+- **Temirötkel** — major highway junction (Hwy 37 × Hwy 7-ext); significant pre-war transfer point between the Atlantic coast highway system and the inland route to Concordia.
 - **Signy** — northernmost Tepenian outpost; South Orkney Islands; maritime access only; peripheral Arcanet connectivity. Confirmed overlooked entirely by Upper Earth targeting due to its marginal status — the one Palmer subnet city that survived the Long Night War fully untouched, though its robot population now faces a real siligel shortage from cut supply lines.
 - **DLC coverage by subnet:** *(corrected 2026-07-04 — this line previously said "Mirny subnet covered by main game (Concordia)" and omitted DLC 7 entirely. Concordia is a Janbogo subnet city, not Mirny subnet; the main game covers Concordia itself, with the broader Janbogo subnet as DLC 6 and the separate Mirny subnet as its own DLC 7, same pattern as every other subnet.)* DLC 1 = South Pole (inter-subnet relay); DLC 2 = Byrd ("Pacific"); DLC 3 = Palmer ("American"); DLC 4 = Mawson; DLC 5 = Halley ("Atlantic"); DLC 6 = broader Janbogo subnet (Concordia itself covered by main game); DLC 7 = Mirny subnet.

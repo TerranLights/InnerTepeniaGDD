@@ -39,7 +39,7 @@ The name was kept, through all of it.
 
 ## 3. Climate Character
 
-Continental polar plateau, effectively identical in character to Concordia and Vostok — mean annual temperature approximately −54°C, dropping to average lows near −65°C in the depth of polar night, calm winds (4–6 m/s) typical of dome locations, minimal precipitation (~20–25mm water equivalent annually, true polar desert). What distinguishes Dome Fuji from its plateau neighbors is not the cold itself but the altitude stacked on top of it — the defining environmental fact of life here, for any human who ever lived here, was never really the temperature. It was the thin air.
+Continental polar plateau, effectively identical in character to Concordia and Ariun Nuur — mean annual temperature approximately −54°C, dropping to average lows near −65°C in the depth of polar night, calm winds (4–6 m/s) typical of dome locations, minimal precipitation (~20–25mm water equivalent annually, true polar desert). What distinguishes Dome Fuji from its plateau neighbors is not the cold itself but the altitude stacked on top of it — the defining environmental fact of life here, for any human who ever lived here, was never really the temperature. It was the thin air.
 
 For the current population, this is largely moot. Robots don't experience altitude sickness; what remains of the altitude's relevance is thermal and mechanical — cooling systems behave differently in thin air, and the extreme cold itself is, for this population specifically, not an obstacle to be managed but the entire point of being here.
 
@@ -47,7 +47,7 @@ For the current population, this is largely moot. Robots don't experience altitu
 
 ## 4. Seasonal Rhythms
 
-Polar night runs roughly May 3 to August 10 (~99 days); midnight sun roughly November 1 to February 11 (~102 days) — both slightly shorter than Concordia's or Vostok's, owing to Dome Fuji's marginally lower latitude. For a devotional population organized around cold as a spiritual state, the depth of polar night (average −65°C in June/July) likely functions as the liturgical high point of the year — the closest approach to the conditions the faith venerates, and probably the occasion for whatever the religion's most significant observances are. Midnight sun, comparatively warm and undeniably present, may carry the opposite charge: a season to be endured rather than sought, a temporary retreat of the very conditions that give the place its meaning.
+Polar night runs roughly May 3 to August 10 (~99 days); midnight sun roughly November 1 to February 11 (~102 days) — both slightly shorter than Concordia's or Ariun Nuur's, owing to Dome Fuji's marginally lower latitude. For a devotional population organized around cold as a spiritual state, the depth of polar night (average −65°C in June/July) likely functions as the liturgical high point of the year — the closest approach to the conditions the faith venerates, and probably the occasion for whatever the religion's most significant observances are. Midnight sun, comparatively warm and undeniably present, may carry the opposite charge: a season to be endured rather than sought, a temporary retreat of the very conditions that give the place its meaning.
 
 ---
 

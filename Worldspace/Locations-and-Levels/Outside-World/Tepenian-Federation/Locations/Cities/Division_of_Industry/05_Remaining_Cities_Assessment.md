@@ -1,10 +1,10 @@
 # The Remaining Cities — Situations and Concerns — 2026-09-01
 
-**Second Interwar Period throughout.** Instance data (LAW C). With **{{Bunger Hills City}}** added, the roster
+**Second Interwar Period throughout.** Instance data (LAW C). With **Relung Panen** added, the roster
 is **38**; **23 are set aside as providers**, leaving **15** assessed here.
 
-**The fifteen:** Lazar · Cape Adare · Halley · Zhongshan · Neumayer · Denison · {{Abowasa}} · Concordia ·
-Sejong · Dumont d'Urville · Vostok · Scott · Port Lockroy · Kunlun · Dome Fuji
+**The fifteen:** Lazar · Cape Adare · Halley · Zhongshan · Neumayer · Denison · Santa Luce · Concordia ·
+Contrapunto · Dumont d'Urville · Ariun Nuur · Scott · Puerto Abrigo · Kunlun · Dome Fuji
 
 ---
 
@@ -18,9 +18,9 @@ providers were listed out.**
 | Lazar | 1,287,003 |
 | Halley | 709,749 |
 | Neumayer | 613,735 |
-| Princess Elisabeth | 553,768 |
+| Utstein | 553,768 |
 | Belgrano | 531,925 |
-| {{Abowasa}} | 504,237 |
+| Santa Luce | 504,237 |
 | Troll | 475,721 |
 | Sanay | 231,576 |
 | **TOTAL** | **4,907,714** |
@@ -28,17 +28,17 @@ providers were listed out.**
 > ## **4,907,714 humans — 31.4% of the national human population — in a subnet with NO named food provider.**
 
 **And it is far from both established food centers.** Queen Maud Land and the Weddell Sea sit at roughly
-30°W–15°E. **Davis and {{Bunger}} are at 78–101°E. The Scotia Sea krill grounds are at 40–60°W.** The Halley
+30°W–15°E. **Davis and Relung Panen are at 78–101°E. The Scotia Sea krill grounds are at 40–60°W.** The Halley
 subnet is thousands of kilometers from each, on the opposite side of the continent from the first and across
 the Weddell Sea from the second.
 
 **The subnet's four providers are Belgrano (logistics, medicine), Troll (logistics), Sanay (logistics) and
-Princess Elisabeth (energy engineering). Every one of them is logistics or engineering. Not one is food.**
+Utstein (energy engineering). Every one of them is logistics or engineering. Not one is food.**
 
 ## The resolution: ⭐ the Weddell Sea is Tepenia's THIRD food center of gravity, and nobody has claimed it
 
 **The subnet is visibly already fishing** — Belgrano maritime 20%, Halley marine 20%, Lazar 15%, Princess
-Elisabeth 15%, Troll 15%, {{Abowasa}} 15%, Sanay port 30%. **The activity is in the corpus. The designation is
+Elisabeth 15%, Troll 15%, Santa Luce 15%, Sanay port 30%. **The activity is in the corpus. The designation is
 not.** So this is a naming and sizing gap, not a viability crisis — **but at 31.4% of the nation's humans it
 must be closed before any Halley-subnet city's §15 can be finalized.**
 
@@ -68,19 +68,19 @@ subnet — **but only by spending literally everything:**
 
 ### ✅ The developer's fix: commuter labor on the maritime food lines
 
-> *"When residents of {{Abowasa}} and Halley 'commute to/from work'… at least some of them, where they're
-> going is: **Halley ↔ Belgrano** and **{{Abowasa}} ↔ Sanay** — and to a fair extent, at least a modest
+> *"When residents of Santa Luce and Halley 'commute to/from work'… at least some of them, where they're
+> going is: **Halley ↔ Belgrano** and **Santa Luce ↔ Sanay** — and to a fair extent, at least a modest
 > percentage of them are working the maritime food lines."*
 
 **⭐ The pairings work geographically and on existing highway.** Halley ↔ Belgrano ≈ **330 km**;
-{{Abowasa}} ↔ Sanay ≈ **395 km** — both on **Hwy 7**, both squarely in **rotational-residence range** rather
-than daily-commute range, matching the {{Abowasa}} pattern already established in `01` §5.1.
+Santa Luce ↔ Sanay ≈ **395 km** — both on **Hwy 7**, both squarely in **rotational-residence range** rather
+than daily-commute range, matching the Santa Luce pattern already established in `01` §5.1.
 
 **And a modest flow closes the gap several times over:**
 
 | Assumption | Producers added | vs. the 10,035 deficit |
 |---|--:|--:|
-| **5%** of Halley + {{Abowasa}} workforce commuting, **20%** of them on food lines | **18,796** | **1.9×** |
+| **5%** of Halley + Santa Luce workforce commuting, **20%** of them on food lines | **18,796** | **1.9×** |
 | **10%** commuting, **30%** on food lines | **56,388** | **5.6×** |
 
 ### ⭐ Why this is structurally better than importing from Mawson
@@ -90,13 +90,13 @@ than daily-commute range, matching the {{Abowasa}} pattern already established i
    "less well-documented")*.
 2. **⭐ It preserves Belgrano's and Sanay's character budgets**, because the food work is done by *imported
    labor.* Their own spare capacity stays free. **That is the actual fix.**
-3. **It gives Halley and {{Abowasa}} an economic role beyond being residential** — and makes labor
+3. **It gives Halley and Santa Luce an economic role beyond being residential** — and makes labor
    externalization a **national pattern** rather than one city's quirk.
 4. **⭐ It changes what "provider city" means.** Belgrano and Sanay are not providers because their own people
    fish. **They are the PORTS where a regional labor pool works.** The subnet feeds itself *collectively.*
 
-**⚠ Consequences to carry into the city files:** Halley and {{Abowasa}} both need **labor-externalization
-lines** in their §15s *(and {{Abowasa}}'s destination is now known: Sanay)*. **And Halley — canon's "city that
+**⚠ Consequences to carry into the city files:** Halley and Santa Luce both need **labor-externalization
+lines** in their §15s *(and Santa Luce's destination is now known: Sanay)*. **And Halley — canon's "city that
 moves" — becomes a city whose people rotate out as well.** That is a great deal of motion for one place, and
 worth using.
 
@@ -114,7 +114,7 @@ receiving points")* and Sanay *(port/shipyard 30%, the subnet's maritime gateway
 breadbasket-style single source; they carry it jointly.**
 
 **⭐ This is the second coalition-shaped food answer in the corpus**, after the Scotia Sea. **Only the East
-Antarctic agricultural core resolves to single named cities (Davis, {{Bunger}}). Both maritime centers
+Antarctic agricultural core resolves to single named cities (Davis, Relung Panen). Both maritime centers
 resolve to coalitions** — which is the correct shape, since a fishery is a *sea* worked by several ports
 rather than a field owned by one city.
 
@@ -163,7 +163,7 @@ generations, and Halley VI was towed inland in 2017 ahead of a growing chasm.
 
 **Developer instruction:** try geographic expansion past the ice-free zones first; **only if that proves
 impossible or still yields unreasonable densities**, adjust census numbers by reallocating some to
-{{Bunger Hills City}}. **⚠ And explicitly — that fallback would be a numbers correction so the figures make
+Relung Panen. **⚠ And explicitly — that fallback would be a numbers correction so the figures make
 sense against real-world geography, NOT an in-fiction relocation of living citizens.** *(Not needed. Recorded
 so the option is not mistaken for a decision, and so nobody later reads a population change as a migration
 event.)*
@@ -177,7 +177,7 @@ occupies**, and Fort McMurdo's treats land area as **capping** population *("isl
 > ## ⭐ But that pattern is a SELECTION EFFECT, not a national rule — and this pass is where it breaks.
 >
 > **Those four cities are precisely the oasis cities.** Meanwhile **Concordia sits on ~3,200 m of ice at
-> Dome C, Vostok on ~3,500 m, and Halley and Neumayer on *floating shelves*.** Ice-free ground is **under 1%
+> Dome C, Ariun Nuur on ~3,500 m, and Halley and Neumayer on *floating shelves*.** Ice-free ground is **under 1%
 > of the continent.** **If "extent = ice-free terrain" were a national constraint, roughly 31 of 38 cities
 > would violate it.**
 >
@@ -238,7 +238,7 @@ Blizzard,"* mean annual winds around 22 m/s. **Denison's §15 already carries `S
 
 | City | Status |
 |---|---|
-| **Vostok** | ✅ **Survives.** 67% robot → 2.50 workers per dependent human vs. a 1.54 national norm. Labor-sufficient, **energy-insufficient**; a net food importer whose lifeline is Hwy 37 |
+| **Ariun Nuur** | ✅ **Survives.** 67% robot → 2.50 workers per dependent human vs. a 1.54 national norm. Labor-sufficient, **energy-insufficient**; a net food importer whose lifeline is Hwy 37 |
 | **Kunlun** | ✅ **Zero food and zero healthcare demand — 0 humans.** Its constraint is altitude and isolation, not sustenance |
 | **Dome Fuji** | ✅ Same — 0 humans, 55,072 robots |
 
@@ -253,13 +253,13 @@ Blizzard,"* mean annual winds around 22 m/s. **Denison's §15 already carries `S
   It was counted in `04` §4's food math (~93,889 producers) but omitted from the §3 provider table — a real
   inconsistency between those two sections. **Ross Sea fishery, large population, existing marine sector.
   Flagged for correction.**
-- **Scott** *(386,011)* — the corpus's clearest **labor-externalization** case after {{Abowasa}}: a bedroom
+- **Scott** *(386,011)* — the corpus's clearest **labor-externalization** case after Santa Luce: a bedroom
   city sharing a municipal border with Fort McMurdo. **Daily commute, not rotation.** Its LAW G weird-industry
   share should sit at the **0.5% floor**, deliberately.
-- **Port Lockroy** *(128,887)* — smallest human city; **heritage 25% + technical/maintenance 15% = 40%**, the
+- **Puerto Abrigo** *(128,887)* — smallest human city; **heritage 25% + technical/maintenance 15% = 40%**, the
   corpus's highest heritage concentration. **The 2026-08-31 sweep flagged this as a judgment call, not a bug**
   *(its real-world basis genuinely was a museum)*. **Still unresolved.**
-- **Sejong · Dumont d'Urville** — no distinctive concern surfaced. **Sejong sits near the Scotia Sea krill
+- **Contrapunto · Dumont d'Urville** — no distinctive concern surfaced. **Contrapunto sits near the Scotia Sea krill
   grounds** and may deserve a food role; **Dumont d'Urville shares Denison's wind regime** and should carry a
   raised wind multiplier for the same reason.
 
@@ -282,5 +282,5 @@ Blizzard,"* mean annual winds around 22 m/s. **Denison's §15 already carries `S
   consequential open ruling this pass has produced.**
 - Whether Lazar's and Halley's marine sectors are dockside or indirect.
 - Cape Adare's promotion to provider.
-- Port Lockroy's heritage concentration *(carried over from the 2026-08-31 sweep)*.
+- Puerto Abrigo's heritage concentration *(carried over from the 2026-08-31 sweep)*.
 - Whether Concordia is ever subject to this model at all.

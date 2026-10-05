@@ -10,9 +10,9 @@
 
 Recap of what was already established going in (see the two files above for full detail): Terra Nova Bay, Ross Sea coast (~74°37'S, 164°13'E). The Terra Nova Bay polynya stays open year-round, making Janbogo the only Ross Sea coastal city with true year-round maritime access. Zukelli's ruins are visible from Janbogo's waterfront, ~8km north. Founding: Unified Korea's primary Tepenian city, built on Jang Bogo Station infrastructure. Population: Census I 646,541H/663,970R (1,310,511 combined); Census II 490,564H/467,006R (957,570). Composition: China/USA co-Primary; Japan/Germany/Italy/South Korea/Canada/Indonesia/Australia all Significant. Status: Damaged, partially operational — the Tepenian Federation's most important surviving external link, the last coastal city still actively supplying Concordia via Hwy 183. Culture: renowned teahouse culture, embodied by Majyao Bisyugota (relocated to Concordia's Aquarius district). The Janbogo diaspora in Concordia's Gemini district physically hosts the Janbogo subnet's own Arcanet nexus hardware.
 
-**Faction:** "The Crossroads People" (shared with Sayowa, Esperanza, Casey, Princess Elisabeth) — Janbogo's specific angle is being the center everything converges on, not a hinge between things.
+**Faction:** "The Crossroads People" (shared with Temirötkel, Esperanza, Casey, Utstein) — Janbogo's specific angle is being the center everything converges on, not a hinge between things.
 
-**Flagged gaps going in:** who's actually running Janbogo now; what Majyao's original teahouse looks like today; other cultural landmarks/notable figures beyond Majyao; why the subnet nexus sits in Concordia rather than Janbogo itself; the Sejong relationship pre-Split-Brain *(note added 2026-07-13: a third Korean-founded city, Sinheung in the Mirny subnet, was identified after this session and belongs in this question too)*; whether Pink Lucy's migration route passed through here.
+**Flagged gaps going in:** who's actually running Janbogo now; what Majyao's original teahouse looks like today; other cultural landmarks/notable figures beyond Majyao; why the subnet nexus sits in Concordia rather than Janbogo itself; the Contrapunto relationship pre-Split-Brain *(note added 2026-07-13: a third Korean-founded city, Sinheung in the Mirny subnet, was identified after this session and belongs in this question too)*; whether Pink Lucy's migration route passed through here.
 
 ---
 
@@ -54,5 +54,5 @@ Written into `Specs/Zukelli.md` (Current Status and Legacy sections, plus the Op
 - What Majyao's original teahouse looks like today
 - Other cultural landmarks/notable figures beyond Majyao
 - Why the subnet nexus sits in Concordia's Gemini district rather than in Janbogo itself
-- The Sejong relationship pre-Split-Brain, and — *(added 2026-07-13)* — Sinheung's as well, Tepenia's third Korean-founded city, previously omitted from this question
+- The Contrapunto relationship pre-Split-Brain, and — *(added 2026-07-13)* — Sinheung's as well, Tepenia's third Korean-founded city, previously omitted from this question
 - Whether Pink Lucy's migration route passed through Janbogo

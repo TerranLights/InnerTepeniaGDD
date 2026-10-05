@@ -58,7 +58,7 @@ all.*
   "the single strongest real-world match found anywhere in this project" for this terrain type.
 - **Input E — Tepenia-Wide Robot Culture Canon:** all 5 applicable members checked. Robot Biology and Culture.
   Glitch-Coolant — **correction, 2026-08-10: this pass's original claim that Glitch-Coolant had no canon
-  placement anywhere in the repository was wrong** — a Sayowa-research pass located the actual canon entry
+  placement anywhere in the repository was wrong** — a Temirötkel-research pass located the actual canon entry
   (`Robot_Physiology_and_Cultural_Practices.md`, established 2026-07-04) this pass's own search missed. Checked
   directly against both confirmed categories, Dome Fuji fits neither — see §6 for the corrected reasoning.
   Robot Elementals — **Pluto + Water exists
@@ -85,7 +85,7 @@ all.*
   District Refugee Diaspora Composition not used — Dome Fuji is a standalone subnet city.
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs → a direct cross-check against
   Kunlun's own already-completed file, since the two cities' relationship is explicitly dramatized from both
-  sides in existing material. Sayowa (Dome Fuji's actual geographic neighbor, and the literal origin point of
+  sides in existing material. Temirötkel (Dome Fuji's actual geographic neighbor, and the literal origin point of
   the first rediscovery pilgrims) hasn't been run through this methodology yet — flagged in the Swap Test for a
   real future re-check rather than assumed.
 
@@ -179,7 +179,7 @@ localize per city.*
   observed arrival anniversary, partially re-enacted in robes.
 - **[Adapted, Deep] — a pre-existing but not-yet-canon proposal.** Pluto + Water is on record for Dome Fuji in
   draft form, explicitly grounded in "extreme isolation embraced as devotion, dissolving the self/environment
-  boundary" — and explicitly, deliberately not a coincidence that Kunlun, Vostok, and Dome Fuji all land on
+  boundary" — and explicitly, deliberately not a coincidence that Kunlun, Ariun Nuur, and Dome Fuji all land on
   Pluto together, per the source file's own note. Treated here as the strongest current lead for this city's
   Elemental identity, not settled canon.
 
@@ -188,7 +188,7 @@ localize per city.*
 - **[Directly-inherited, Deep]** §10c's existing material stands and is genuinely rich: siligel consumed at
   deliberately low temperatures as devotional discipline — "a direct, literal expression of the faith through
   the one consumption practice available to a robot population."
-- **[Adapted, Deep] — corrected 2026-08-10.** A Sayowa-research pass surfaced a real process gap in this file's
+- **[Adapted, Deep] — corrected 2026-08-10.** A Temirötkel-research pass surfaced a real process gap in this file's
   original claim that "no canon placement exists anywhere in the repository": Glitch-Coolant's two-category
   framework (bohemian/cosmopolitan-variety; working-class/potency) is established canon
   (`Robot_Physiology_and_Cultural_Practices.md`, 2026-07-04), simply missed by this pass's own search at the
@@ -219,10 +219,10 @@ localize per city.*
   built-from-scratch liturgical/ceremonial vocabulary layered over a practical pidgin — a genuinely unique
   source-type across this entire run (not heritage-fossil, craft-precision, road-jargon, terrain-idiom,
   subculture-naming, functional lingua franca, output-metaphor, or liturgical-fixed-identifiers-from-an-
-  existing-language, unlike Vostok's Russian). Robot angle: since the population is entirely robot and no
+  existing-language, unlike Ariun Nuur's Russian). Robot angle: since the population is entirely robot and no
   organic shared vernacular ever existed to seed it, robots built this vocabulary collectively from nothing,
   with a precision and internal consistency no human generational oral-transmission chain would guarantee —
-  structurally similar to how robots serve as Vostok's de facto standard-bearers of correct liturgical Russian,
+  structurally similar to how robots serve as Ariun Nuur's de facto standard-bearers of correct liturgical Russian,
   but here through original construction rather than preservation of a borrowed language.
 
 ### 9. Arcanet Etiquette — Local Network Behavior
@@ -248,9 +248,9 @@ localize per city.*
   civic statement.
 - **No music/sound-art finding proposed this pass** (Honesty Check): the deliberate, citywide absence of
   noise-generating infrastructure (#13) and the plateau's own extraordinary quiet are already treated as sacred
-  in their own right (§12, §14) — the third city in this run (after Kunlun and Vostok) where the honest answer
+  in their own right (§12, §14) — the third city in this run (after Kunlun and Ariun Nuur) where the honest answer
   is that a developed music culture would work against, not alongside, the city's own defining value. Each
-  case has its own distinct grounding (Kunlun: rarity of information/connection; Vostok: rarity of genuine
+  case has its own distinct grounding (Kunlun: rarity of information/connection; Ariun Nuur: rarity of genuine
   silence itself as a research-adjacent value; Dome Fuji: silence as the literal devotional object) — three
   separately-grounded nulls, not one repeated finding.
 
@@ -320,7 +320,7 @@ localize per city.*
      version (consistent with how this project has used non-canon-but-developed material elsewhere), but the
      inconsistency is worth folding back into `Local_Cultures` directly at some point.
   4. This file's own Glitch-Coolant reasoning (§6, Sources Consulted, Universal Triage Record) originally
-     claimed no canon placement existed anywhere in the repository. A subsequent research pass for Sayowa found
+     claimed no canon placement existed anywhere in the repository. A subsequent research pass for Temirötkel found
      this was a missed-search error, not a real gap — the canon entry has existed since 2026-07-04. All
      affected sections above have been corrected in place.
 - **New landmark/event/figure candidates surfaced but not resolved here:** none beyond the surviving-original-
@@ -332,7 +332,7 @@ localize per city.*
 
 **Swap Test result: Pass, with a real comparison gap honestly flagged.** Dome Fuji's own subnet hub, Mawson, is
 no meaningful comparison at all — a hospitality-economy resort city and an ascetic monastery share almost
-nothing structurally. Sayowa, Dome Fuji's actual geographic neighbor and the literal origin point of the first
+nothing structurally. Temirötkel, Dome Fuji's actual geographic neighbor and the literal origin point of the first
 rediscovery pilgrims (per "What the First Pilgrims Actually Found"), hasn't been run through this methodology
 yet — flagged here for a genuine future re-check, given the concrete historical link, rather than assumed safe
 in advance. The real, already-dramatized comparison point is Kunlun, the only other 100%-robot city in Tepenia:

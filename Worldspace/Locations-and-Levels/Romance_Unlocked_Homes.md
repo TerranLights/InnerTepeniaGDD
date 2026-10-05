@@ -301,7 +301,7 @@ No character identity chosen yet. Palmer subnet's own established texture (Palme
 
 ### DLC 4 Companion — Mawson Subnet *(reserved, not yet designed)*
 
-No character identity chosen yet. Mawson subnet's own established texture (Mawson's own hospitality/honeymoon-destination character, Sayowa's quiet junction-city identity, or Dome Fuji's Ice Cold Buddhism devotional culture) will inform both the companion and her home once development begins here.
+No character identity chosen yet. Mawson subnet's own established texture (Mawson's own hospitality/honeymoon-destination character, Temirötkel's quiet junction-city identity, or Dome Fuji's Ice Cold Buddhism devotional culture) will inform both the companion and her home once development begins here.
 
 **Acquisition:** TBD.
 
@@ -323,8 +323,8 @@ No character identity chosen yet. Janbogo subnet's own established texture (Janb
 
 ---
 
-### "Charlene" (XT-17) — DLC 7 / Vostok, Mirny Subnet *(reserved, not yet designed)*
+### "Charlene" (XT-17) — DLC 7 / Ariun Nuur, Mirny Subnet *(reserved, not yet designed)*
 
-Vostok's own resident geneticist (`Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [XT-17 unorthodox science teacher Charlene]/`), potentially recruitable at Vostok itself. Her own file currently lists Companion Potential as "Undecided" — romance status not yet confirmed. No home design exists yet; likely to draw on Vostok's own established genetics-archive-too-vast-for-one-mind character once picked up.
+Ariun Nuur's own resident geneticist (`Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [XT-17 unorthodox science teacher Charlene]/`), potentially recruitable at Ariun Nuur itself. Her own file currently lists Companion Potential as "Undecided" — romance status not yet confirmed. No home design exists yet; likely to draw on Ariun Nuur's own established genetics-archive-too-vast-for-one-mind character once picked up.
 
 **Acquisition:** TBD.

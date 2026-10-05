@@ -135,7 +135,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | Cape Town, South Africa | Queen Maud Land, Weddell Sea | South Africa, European Atlantic nations, Argentina/Brazil via South Atlantic |
 | Christchurch / Lyttelton (NZ) | Ross Sea | New Zealand, USA, Australia, East Asian Pacific route |
 | Hobart / Fremantle (Australia) | East Antarctic Indian Ocean coast | Australia, Japan, Indonesia/SE Asia, China, South Korea |
-| Cape Town → Novo airfield (Russia-operated) | QML interior (Troll, Abowasa, Princess Elisabeth, Lazar area) | South Africa, European nations by intercontinental air |
+| Cape Town → Novo airfield (Russia-operated) | QML interior (Troll, Santa Luce, Utstein, Lazar area) | South Africa, European nations by intercontinental air |
 | Punta Arenas → Union Glacier (Chile) | South Pole direct | Chile, Argentina, private air operators |
 
 ---
@@ -197,7 +197,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 ---
 
-### Juan Carlos *(Livingston Island, South Shetlands, ~62°39'S 60°23'W)*
+### Pergamino *(Livingston Island, South Shetlands, ~62°39'S 60°23'W)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -207,7 +207,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 ---
 
-### Port Lockroy *(Goudier Island, ~64°49'S 63°29'W)*
+### Puerto Abrigo *(Goudier Island, ~64°49'S 63°29'W)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -215,11 +215,11 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Mexico** (18M), **Brazil** (17M) | Mexico at 18M joins T2 alongside Brazil; small settlement overall |
 | 3 — Notable | **Argentina** (6M), **Chile** (2.3M) | Founding wave proximity nations |
 
-*Note: Port Lockroy is a small settlement; total founding population modest regardless of national composition.*
+*Note: Puerto Abrigo is a small settlement; total founding population modest regardless of national composition.*
 
 ---
 
-### Sejong *(King George Island, ~62°13'S 58°47'W)*
+### Contrapunto *(King George Island, ~62°13'S 58°47'W)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -285,15 +285,15 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 ---
 
-### Abowasa *(Vestfjella nunataks, ~73°03'S 13°25'W)*
+### Santa Luce *(Vestfjella nunataks, ~73°03'S 13°25'W)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **USA** | 155M Gini-adjusted effective |
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Russia** (25M), **Brazil** (17M) | Same Cape Town/Novo cluster as Troll |
-| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Abowasa's UTC-1); Finland and Sweden are founding nations at Abowasa — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
+| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Santa Luce's UTC-1); Finland and Sweden are founding nations at Santa Luce — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
 
-*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective but the Finnish-Swedish co-founding character of Abowasa is geographically supported. Their founding wave arrival via Novo set Abowasa's initial identity.*
+*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective but the Finnish-Swedish co-founding character of Santa Luce is geographically supported. Their founding wave arrival via Novo set Santa Luce's initial identity.*
 
 ---
 
@@ -309,7 +309,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 ---
 
-### Princess Elisabeth *(Sør Rondane Mountains, ~71°57'S 23°21'E)*
+### Utstein *(Sør Rondane Mountains, ~71°57'S 23°21'E)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
@@ -317,7 +317,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Brazil** (17M), **Australia** (13M) | European Cape Town corridor and Australia at 13M via Fremantle eastern approach; Australia appears at this specific city and not at more westerly QML stations |
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of PE's UTC+2); Belgium's founding character in GDD culturally embedded despite T3 Gini effective; South Africa to T3 |
 
-*Key note: Princess Elisabeth is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia). Belgian founding character is GDD-embedded despite T3 by Gini composite.*
+*Key note: Utstein is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia). Belgian founding character is GDD-embedded despite T3 by Gini composite.*
 
 ---
 
@@ -480,7 +480,7 @@ Same geographic position as Janbogo.
 
 **Corridor:** Hobart and Fremantle (Australia) → East Antarctic Indian Ocean coast. South Africa (Cape Town) is a secondary gateway for the westernmost Mawson cities.
 
-**Key Gini-adjustment finding:** China rises to T1 sole primary at every Mawson subnet city — its 210M Gini-adjusted effective at ~11,000km via Fremantle produces the largest national contribution everywhere. Japan consistently leads T2. Australia drops from T1 co-primary to T2 mid-tier. South Africa drops from T1 co-primary (at Mawson and Sayowa) to T3 across the entire subnet.
+**Key Gini-adjustment finding:** China rises to T1 sole primary at every Mawson subnet city — its 210M Gini-adjusted effective at ~11,000km via Fremantle produces the largest national contribution everywhere. Japan consistently leads T2. Australia drops from T1 co-primary to T2 mid-tier. South Africa drops from T1 co-primary (at Mawson and Temirötkel) to T3 across the entire subnet.
 
 ---
 
@@ -516,15 +516,15 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 
 ---
 
-### Sayowa *(Lützow-Holm Bay, East Ongul Island, ~69°00'S 39°35'E)*
+### Temirötkel *(Lützow-Holm Bay, East Ongul Island, ~69°00'S 39°35'E)*
 
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** | 210M Gini-adjusted effective; ~11,000km via Fremantle; sole T1 |
-| 2 — Significant | **Japan** (65M), **Germany** (46M), **France** (35M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Sayowa's ~39°E longitude: dual-gateway city where Cape Town (~5,000–5,500km) and Hobart/Fremantle (~5,000–5,500km) are equally competitive; European Cape Town nations and East Asian Fremantle nations appear together in T2 |
-| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of Sayowa's UTC+3); South Africa drops to T3 despite Cape Town gateway advantage |
+| 2 — Significant | **Japan** (65M), **Germany** (46M), **France** (35M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Temirötkel's ~39°E longitude: dual-gateway city where Cape Town (~5,000–5,500km) and Hobart/Fremantle (~5,000–5,500km) are equally competitive; European Cape Town nations and East Asian Fremantle nations appear together in T2 |
+| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of Temirötkel's UTC+3); South Africa drops to T3 despite Cape Town gateway advantage |
 
-*Key note: Sayowa is the only Mawson subnet city where Cape Town and Fremantle approaches are genuinely equally competitive. The T2 composition reflects this dual-gateway character: European (Germany, France, UK via Cape Town) alongside East Asian (Japan, South Korea, Indonesia via Fremantle).*
+*Key note: Temirötkel is the only Mawson subnet city where Cape Town and Fremantle approaches are genuinely equally competitive. The T2 composition reflects this dual-gateway character: European (Germany, France, UK via Cape Town) alongside East Asian (Japan, South Korea, Indonesia via Fremantle).*
 
 ---
 
@@ -576,7 +576,7 @@ Same geographic cluster as Davis.
 
 ---
 
-### {{Bunger Hills City}} *(Bunger Hills oasis, Queen Mary Coast, ~66°17'S 100°47'E — the 38th city, populated 2026-09-05)*
+### Relung Panen *(Bunger Hills oasis, Knox Coast, ~66°17'S 100°47'E — the 38th city, populated 2026-09-05)*
 
 ⚠ **Placeholder name.** ⭐⭐ **Computed PROXIMITY-FIRST at the developer's direction** — *"what we really care
 about the most is time-zone proximity"* — **so the ±3 window above is applied to EVERY tier here, not only to
@@ -587,7 +587,7 @@ Notable.** ⛔ *This is the only city in the corpus computed that way, and it is
 > coastal city can be reached directly by sea from any gateway. This one is sealed from open water by the
 > Shackleton Ice Shelf and reachable **only through Casey** — `[CGRM 2026-09-01 · Path 6 · developer ruling]`,
 > 300+ km overland, at the far end of the Australian corridor.* **Distant nations are not diluted here; they
-> are filtered, because there is exactly one door.** *(`Bunger_Hills_City/Development_Brief.md` §3.5.)*
+> are filtered, because there is exactly one door.** *(`Relung_Panen/Development_Brief.md` §3.5.)*
 
 **Solar UTC +7** *(100.78 ÷ 15 = 6.72)* — **the same as Casey.** **Window: UTC+4 … +10.**
 
@@ -670,7 +670,7 @@ The systematic finding: geographically close nations with small Gini-adjusted ef
 Germany's combination of 46M effective population and very low Gini coefficient makes it the leading European contributor at every city where European nations appear. Previously often listed after UK or France; Germany now leads every European cluster.
 
 **5. Brazil drops from Peninsula T1 to T2; South Korea drops at every city it appears.**
-Brazil's extreme Gini (0.53) reduces effective pool from ~60M raw to 17M. It falls from founding T1 primary at Peninsula cities to T2 secondary. South Korea drops to T2 secondary (Sejong) or T3 (Janbogo, McMurdo) at every city it appears.
+Brazil's extreme Gini (0.53) reduces effective pool from ~60M raw to 17M. It falls from founding T1 primary at Peninsula cities to T2 secondary. South Korea drops to T2 secondary (Contrapunto) or T3 (Janbogo, McMurdo) at every city it appears.
 
 ---
 
@@ -755,23 +755,23 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 
 | Rank | City | Subnet | Humans (est.) | Robots (est.) | **Total** |
 |------|------|--------|--------------|--------------|-----------|
-| 1 | **Sejong** | Palmer | 1,144,000 | 1,144,000 | **2,288,000** |
+| 1 | **Contrapunto** | Palmer | 1,144,000 | 1,144,000 | **2,288,000** |
 | 2 | **Fort McMurdo** | Janbogo | 1,071,000 | 1,071,000 | **2,141,000** |
 | 3 | **Janbogo** | Janbogo | 1,041,000 | 1,041,000 | **2,082,000** |
 | 4 | **Casey** | Mirny | 996,000 | 996,000 | **1,992,000** |
 | 5 | **Zukelli** *(destroyed)* | Janbogo | 987,000 | 987,000 | **1,975,000** |
 | 6 | **Mawson** | Mawson | 943,000 | 943,000 | **1,886,000** |
 | 7 | **Dumont d'Urville** | Janbogo | 913,000 | 913,000 | **1,826,000** |
-| 8 | **Sayowa** | Mawson | 906,000 | 906,000 | **1,812,000** |
+| 8 | **Temirötkel** | Mawson | 906,000 | 906,000 | **1,812,000** |
 | 9 | **Amundsen Station** | South Pole | 904,000 | 904,000 | **1,808,000** |
 | 10 | **Scott** | Janbogo | 894,000 | 894,000 | **1,788,000** |
-| 11 | **Princess Elisabeth** | Halley | 890,000 | 890,000 | **1,779,000** |
+| 11 | **Utstein** | Halley | 890,000 | 890,000 | **1,779,000** |
 | 12 | **Zhongshan** | Mirny | 881,000 | 881,000 | **1,762,000** |
 | 13 | **Cape Adare** | Janbogo | 861,000 | 861,000 | **1,722,000** |
-| 14 | **Juan Carlos** | Palmer | 848,000 | 848,000 | **1,695,000** |
+| 14 | **Pergamino** | Palmer | 848,000 | 848,000 | **1,695,000** |
 | 15 | **Shirayuki** | Mirny *(corrected 2026-07-05, moved from Mawson)* | 843,000 | 843,000 | **1,686,000** |
 | 16 | **Sinheung** *(this table's "destroyed" tag is stale — Sinheung was corrected 2026-07-03 to damaged/partially operational; see `Specs/Sinheung.md`)* | Mirny *(corrected 2026-07-05, moved from Mawson)* | 838,000 | 838,000 | **1,675,000** |
-| 17 | **Abowasa** | Halley | 809,000 | 809,000 | **1,617,000** |
+| 17 | **Santa Luce** | Halley | 809,000 | 809,000 | **1,617,000** |
 | 18 | **Davis** | Mirny | 805,000 | 805,000 | **1,611,000** |
 | 19 | **Mirny** | Mirny | 790,000 | 790,000 | **1,579,000** |
 | 20 | **Marambio** | Palmer | 751,000 | 751,000 | **1,502,000** |
@@ -782,7 +782,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 | 27 | **Palmer City** | Palmer | 513,000 | 513,000 | **1,026,000** |
 | 28 | **Rothera** | Palmer | 510,000 | 510,000 | **1,020,000** |
 | 29 | **Signy** | Palmer | 466,000 | 466,000 | **931,000** |
-| 30 | **Port Lockroy** | Palmer | 457,000 | 457,000 | **914,000** |
+| 30 | **Puerto Abrigo** | Palmer | 457,000 | 457,000 | **914,000** |
 | 31 | **Belgrano** *(ruins, DLC 5)* | Halley | 408,000 | 408,000 | **816,000** |
 | 32 | **Sanay** | Halley | 365,000 | 365,000 | **730,000** |
 | 33 | **Esperanza** | Palmer | 363,000 | 363,000 | **727,000** |
@@ -807,7 +807,7 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 
 ### Census design notes
 
-**Sejong (KGI) claim of "largest Tepenian city," flagged stale 2026-07-13, not fixed here.** This note previously credited Sejong's size to "China (210M) and USA (155M) at T1 co-primary" — wrong; China was removed from Sejong's population entirely as a methodology-violating entry (see the Sejong section above), leaving USA as sole Primary. Independent of that fix, this note's "largest Tepenian city" claim also now conflicts with established canon that **Lazar** is Tepenia's largest city (see `Cities/Official_Population_Census.md` and the developer's own Lazar population rebalancing work) — this note likely predates that rebalancing and was never swept afterward. Left as a flagged discovery rather than silently resolved; needs its own dedicated check against current census totals, not a same-pass fix bundled into the Sejong correction.
+**Contrapunto (KGI) claim of "largest Tepenian city," flagged stale 2026-07-13, not fixed here.** This note previously credited Contrapunto's size to "China (210M) and USA (155M) at T1 co-primary" — wrong; China was removed from Contrapunto's population entirely as a methodology-violating entry (see the Contrapunto section above), leaving USA as sole Primary. Independent of that fix, this note's "largest Tepenian city" claim also now conflicts with established canon that **Lazar** is Tepenia's largest city (see `Cities/Official_Population_Census.md` and the developer's own Lazar population rebalancing work) — this note likely predates that rebalancing and was never swept afterward. Left as a flagged discovery rather than silently resolved; needs its own dedicated check against current census totals, not a same-pass fix bundled into the Contrapunto correction.
 
 **The Ross Sea/Janbogo subnet is the most populous subnet overall** (~11.5M combined), driven by the China+USA T1 co-primary composition across six cities. The Mawson and Halley subnets are nearly equal in size despite very different compositions — Mawson's China-only T1 with large East Asian T2 cluster versus Halley's USA T1 with European T2 cluster.
 
@@ -824,27 +824,27 @@ Sorted by total population. Cities marked *(destroyed)* or *(ruins)* still had f
 The Gini-adjusted tier calculation distributes exiles mathematically without regard for the physical carrying capacity of the locations. Eleven cities are on islands — from the vast ice sheet of King George Island to the real-world 40m × 20m footprint of Goudier Island. The revised census below caps each island city at a semi-comfortable population for its actual land area (generous for sci-fi vertical construction, still constrained by ocean boundaries and harsh climate logistics), and routes the overflow to the nearest eligible mainland/ice-shelf coastal cities within ±3 solar time zones.
 
 **Overflow-allocation methodology:**
-- Overflow from each island city flows only to mainland coastal or ice-shelf cities (not to other islands, not to interior cities like Troll, Abowasa, Sanay, or the South Pole)
+- Overflow from each island city flows only to mainland coastal or ice-shelf cities (not to other islands, not to interior cities like Troll, Santa Luce, Sanay, or the South Pole)
 - Peninsula island overflow → **Esperanza** (50%, only mainland Peninsula coast), **Halley** (20%), **Belgrano** (15%), **Neumayer** (15%) — Rothera overflow excludes Neumayer (distance = 4 time zones)
 - Ross Island (McMurdo + Scott) overflow → **Janbogo** (40%), **Zukelli** (25%), **Cape Adare** (20%)
 - DdU overflow → **Casey** (30%), **Mirny** (25%), **Janbogo** (20%), **Zukelli** (10%), **Cape Adare** (10%)
-- Sayowa overflow → **Mawson** (25%), **Mirny** (20%), **Lazar** (15%), **Davis** (15%), **Zhongshan** (15%), **Shirayuki** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
+- Temirötkel overflow → **Mawson** (25%), **Mirny** (20%), **Lazar** (15%), **Davis** (15%), **Zhongshan** (15%), **Shirayuki** (10%) *(note: Davis and Zhongshan are Mirny subnet cities; overflow routing is by geographic proximity, not subnet membership)*
 
 ### Island caps
 
 | City | Island | Island size / notes | Raw calc. | **Cap** | Overflow |
 |------|--------|---------------------|-----------|---------|---------|
-| Port Lockroy | Goudier Island | ~40m × 20m real; GDD expands to surrounding waters but site is tiny; small settlement by design | 457K | **100K** | 357K |
+| Puerto Abrigo | Goudier Island | ~40m × 20m real; GDD expands to surrounding waters but site is tiny; small settlement by design | 457K | **100K** | 357K |
 | Signy | South Orkney Islands | Signy Island ~20 km²; isolated sub-Antarctic; hard supply chain | 466K | **150K** | 316K |
-| Sayowa | East Ongul Island | ~28 km² ice-free; very small; but dual-gateway role earns a slightly higher cap | 906K | **200K** | 706K |
+| Temirötkel | East Ongul Island | ~28 km² ice-free; very small; but dual-gateway role earns a slightly higher cap | 906K | **200K** | 706K |
 | Rothera | Adelaide Island | ~2,500 km² but ~95% glaciated; ice-free patches small | 510K | **250K** | 260K |
 | Palmer City | Anvers Island | ~2,432 km², heavily glaciated; limited buildable coastline | 513K | **280K** | 233K |
-| Juan Carlos | Livingston Island | ~1,200 km², heavily glaciated; South Shetlands | 848K | **300K** | 548K |
+| Pergamino | Livingston Island | ~1,200 km², heavily glaciated; South Shetlands | 848K | **300K** | 548K |
 | Scott | Ross Island (shared) | Shared with Fort McMurdo; combined Ross Island cap = 650K humans | 894K | **300K** | 594K |
 | Fort McMurdo | Ross Island (shared) | Largest ice-free zone on Ross Island; ~1/3 of 2,460 km² usable | 1,071K | **350K** | 721K |
 | Dumont d'Urville | Petrel Island | Small island in Géologie Archipelago; GDD city expands into surrounding Adélie coastline | 913K | **350K** | 563K |
 | Marambio | Seymour Island | ~1,200 km², ~70% permanently ice-free — the most buildable island in the entire Peninsula zone; air hub | 751K | **450K** | 301K |
-| Sejong | King George Island | Largest South Shetland (~1,200 km²); most ice-free patches of any S. Shetland; 11-nation founding character | 1,144K | **500K** | 644K |
+| Contrapunto | King George Island | Largest South Shetland (~1,200 km²); most ice-free patches of any S. Shetland; 11-nation founding character | 1,144K | **500K** | 644K |
 | **Total overflow** | | | | | **5,241K** |
 
 ### Final city populations (island-balanced)
@@ -859,31 +859,31 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 4 | **Cape Adare** | Janbogo | 861K | **1,180K** | **2,360K** | Mainland coast; receives Ross Is. + DdU overflow |
 | 5 | **Casey** | Mirny | 996K | **1,165K** | **2,330K** | Mainland coast; receives DdU overflow |
 | 6 | **Halley** | Halley | 557K | **1,123K** | **2,247K** | Ice shelf coast; absorbs Peninsula island overflow |
-| 7 | **Mawson** | Mawson | 943K | **1,119K** | **2,239K** | Mainland coast; receives Sayowa overflow |
-| 8 | **Mirny** | Mirny | 790K | **1,071K** | **2,143K** | Mainland coast; receives DdU + Sayowa overflow |
+| 7 | **Mawson** | Mawson | 943K | **1,119K** | **2,239K** | Mainland coast; receives Temirötkel overflow |
+| 8 | **Mirny** | Mirny | 790K | **1,071K** | **2,143K** | Mainland coast; receives DdU + Temirötkel overflow |
 | 9 | **Neumayer** | Halley | 639K | **999K** | **1,997K** | Ice shelf coast; absorbs Peninsula island overflow |
-| 10 | **Zhongshan** | Mirny | 881K | **987K** | **1,974K** | Mainland coast; receives Sayowa overflow |
-| 11 | **Shirayuki** | Mirny *(corrected 2026-07-05)* | 843K | **914K** | **1,828K** | Mainland coast; receives Sayowa overflow |
-| 12 | **Davis** | Mirny | 805K | **911K** | **1,823K** | Mainland coast; receives Sayowa overflow |
+| 10 | **Zhongshan** | Mirny | 881K | **987K** | **1,974K** | Mainland coast; receives Temirötkel overflow |
+| 11 | **Shirayuki** | Mirny *(corrected 2026-07-05)* | 843K | **914K** | **1,828K** | Mainland coast; receives Temirötkel overflow |
+| 12 | **Davis** | Mirny | 805K | **911K** | **1,823K** | Mainland coast; receives Temirötkel overflow |
 | 13 | Amundsen Station | Amundsen | 904K | 904K | 1,808K | South Pole; multi-corridor, no island cap |
-| 14 | Princess Elisabeth | Halley | 890K | 890K | 1,779K | Inland mountain range; no cap, no overflow received |
+| 14 | Utstein | Halley | 890K | 890K | 1,779K | Inland mountain range; no cap, no overflow received |
 | 15 | **Belgrano** *(ruins, DLC 5)* | Halley | 408K | **854K** | **1,708K** | Mainland coast; absorbs Peninsula island overflow |
 | 16 | Sinheung *(this table's "destroyed" tag is stale — see `Specs/Sinheung.md`)* | Mirny *(corrected 2026-07-05)* | 838K | 838K | 1,675K | Mainland coast; no change |
-| 17 | Abowasa | Halley | 809K | 809K | 1,618K | Inland; no change |
-| 18 | **Lazar** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Sayowa overflow |
+| 17 | Santa Luce | Halley | 809K | 809K | 1,618K | Inland; no change |
+| 18 | **Lazar** | Halley | 660K | **766K** | **1,533K** | Coastal-adjacent; receives Temirötkel overflow |
 | 19 | Troll | Halley | 750K | 750K | 1,501K | Inland; no change |
-| 22 | Sejong *(capped)* | Palmer | 1,144K | **500K** | **1,000K** | KGI; still a major international hub at 1M total |
+| 22 | Contrapunto *(capped)* | Palmer | 1,144K | **500K** | **1,000K** | KGI; still a major international hub at 1M total |
 | 23 | Marambio *(capped)* | Palmer | 751K | **450K** | **900K** | Seymour Island; largest island city by cap |
 | 24 | Sanay | Halley | 365K | 365K | 730K | Inland; no change |
 | 25 | Fort McMurdo *(capped)* | Janbogo | 1,071K | **350K** | **700K** | Ross Island; twin city with Scott |
 | 26 | Dumont d'Urville *(capped)* | Janbogo | 913K | **350K** | **700K** | Petrel Island |
 | 27 | Scott *(capped)* | Janbogo | 894K | **300K** | **600K** | Ross Island; twin city with Fort McMurdo |
-| 28 | Juan Carlos *(capped)* | Palmer | 848K | **300K** | **600K** | Livingston Island |
+| 28 | Pergamino *(capped)* | Palmer | 848K | **300K** | **600K** | Livingston Island |
 | 29 | Palmer City *(capped)* | Palmer | 513K | **280K** | **560K** | Anvers Island |
 | 30 | Rothera *(capped)* | Palmer | 510K | **250K** | **500K** | Adelaide Island |
-| 31 | Sayowa *(capped)* | Mawson | 906K | **200K** | **400K** | East Ongul Island |
+| 31 | Temirötkel *(capped)* | Mawson | 906K | **200K** | **400K** | East Ongul Island |
 | 32 | Signy *(capped)* | Palmer | 466K | **150K** | **300K** | South Orkney Islands |
-| 33 | Port Lockroy *(capped)* | Palmer | 457K | **100K** | **200K** | Goudier Island |
+| 33 | Puerto Abrigo *(capped)* | Palmer | 457K | **100K** | **200K** | Goudier Island |
 | — | **TOTAL** | — | **24,948K** | **24,948K** | **49,896K** | Total preserved; only reallocation |
 
 ### Subnet totals (island-balanced)
@@ -892,23 +892,23 @@ Ranked by final human population. Cities in **bold** gained population from over
 |--------|-------------|----------------|-----------------|
 | **Halley / Queen Maud Land** | **6,557K** | **13,113K** | ▲+1,478K (absorbs Peninsula island overflow) |
 | **Janbogo / Ross Sea** | **5,232K** | **10,463K** | ▼−535K (loses McMurdo/Scott/DdU to caps, gains as mainland destination) |
-| **Mawson / Indian Ocean** | **3,071K** | **6,142K** | ▼−459K (Sayowa capped; Mawson city and Shirayuki absorb partial offset; Davis and Zhongshan now counted under Mirny) |
+| **Mawson / Indian Ocean** | **3,071K** | **6,142K** | ▼−459K (Temirötkel capped; Mawson city and Shirayuki absorb partial offset; Davis and Zhongshan now counted under Mirny) |
 | **Palmer / Antarctic Peninsula** | **3,679K** | **7,357K** | ▼−1,372K (most Peninsula cities are islands; overflow leaves to QML) |
-| **Mirny / Wilkes Land + Prydz Bay** | **4,134K** | **8,270K** | ▲+662K (Casey and Mirny absorb DdU overflow; Davis and Zhongshan absorb Sayowa overflow) |
+| **Mirny / Wilkes Land + Prydz Bay** | **4,134K** | **8,270K** | ▲+662K (Casey and Mirny absorb DdU overflow; Davis and Zhongshan absorb Temirötkel overflow) |
 | **Byrd / Ross Ice Shelf** | **1,371K** | **2,742K** | ▲+225K (receives Ross Is. + DdU overflow) |
 | **Amundsen / South Pole** | **904K** | **1,808K** | unchanged |
 
 ### Island-balancing design notes
 
-**Esperanza becomes the dominant city of the Antarctic Peninsula** — not Sejong. As the only true mainland coast city in the Palmer subnet, it absorbs overflow from seven island cities and grows from a modest 727K total (raw) to ~3.3M total. Its Argentine founding wave character is massively amplified: Esperanza is the place Peninsula people go when the islands fill up, and the first city most Argentines build toward. GDD should treat Esperanza as the de facto capital of the Antarctic Peninsula zone.
+**Esperanza becomes the dominant city of the Antarctic Peninsula** — not Contrapunto. As the only true mainland coast city in the Palmer subnet, it absorbs overflow from seven island cities and grows from a modest 727K total (raw) to ~3.3M total. Its Argentine founding wave character is massively amplified: Esperanza is the place Peninsula people go when the islands fill up, and the first city most Argentines build toward. GDD should treat Esperanza as the de facto capital of the Antarctic Peninsula zone.
 
-**Janbogo overtakes Esperanza to become the single largest Tepenian city** (~3.36M total), displacing Sejong from the raw-calculation top slot. Terra Nova Bay mainland coast absorbs Ross Island + DdU overflow and becomes the commercial and strategic heart of the Ross Sea region. The Janbogo-Zukelli twin-city complex at Terra Nova Bay combined is ~6.1M total (before Zukelli's destruction).
+**Janbogo overtakes Esperanza to become the single largest Tepenian city** (~3.36M total), displacing Contrapunto from the raw-calculation top slot. Terra Nova Bay mainland coast absorbs Ross Island + DdU overflow and becomes the commercial and strategic heart of the Ross Sea region. The Janbogo-Zukelli twin-city complex at Terra Nova Bay combined is ~6.1M total (before Zukelli's destruction).
 
 **Zukelli's destruction becomes the single most devastating event of the Long Night War.** At ~2.74M total inhabitants, Zukelli would have been the third-largest city in all of Tepenia. Its loss is comparable to losing a mid-sized nation-state's entire population in one event.
 
 **The Halley subnet becomes the most populous subnet overall** (~13.1M combined, up from ~10.2M raw) once Peninsula island overflow is factored in. Halley, Neumayer, and Belgrano all grow substantially. **Belgrano in particular** — described in the GDD as DLC 5 ruins — reaches ~1.7M total before its fall. Ruins of a 1.7M-person city is a very different narrative weight than ruins of a small outpost.
 
-**Sayowa drops from a calculated 906K to a capped 200K** due to East Ongul Island's true size (~28 km² ice-free). Despite its small physical footprint, Sayowa retains enormous cultural significance as the gateway between the European Atlantic corridor and the East Asian Pacific corridor — the only dual-approach Mawson subnet city. Small population, outsized identity.
+**Temirötkel drops from a calculated 906K to a capped 200K** due to East Ongul Island's true size (~28 km² ice-free). Despite its small physical footprint, Temirötkel retains enormous cultural significance as the gateway between the European Atlantic corridor and the East Asian Pacific corridor — the only dual-approach Mawson subnet city. Small population, outsized identity.
 
 ---
 
@@ -982,24 +982,24 @@ Ranked by final human population. Cities in **bold** gained population from over
 | 11 | Zukelli | Janbogo | 611,905 | **1,247,316** | *(destroyed; revised 2026-07-03)* |
 | 12 | Shirayuki | Mirny *(corrected 2026-07-05)* | 578,925 | **1,183,333** | |
 | 13 | Davis | Mirny | 567,640 | **1,166,618** | |
-| 14 | Princess Elisabeth | Halley | 556,576 | **1,143,687** | |
+| 14 | Utstein | Halley | 556,576 | **1,143,687** | |
 | 15 | Belgrano | Halley | 536,403 | **1,080,914** | *(ruins, DLC 5)* |
 | 16 | Sinheung | Mirny *(corrected 2026-07-05)* | 521,255 | **1,073,601** | *(this table's "destroyed" tag is stale — see `Specs/Sinheung.md`)* |
 | 17 | Denison | Janbogo | 526,521 | **1,073,373** | |
-| 18 | Abowasa | Halley | 508,243 | **1,042,458** | |
+| 18 | Santa Luce | Halley | 508,243 | **1,042,458** | |
 | 19 | Troll | Halley | 478,489 | **960,002** | |
-| 22 | Sejong | Palmer | 318,175 | **647,855** | *(island cap)* |
+| 22 | Contrapunto | Palmer | 318,175 | **647,855** | *(island cap)* |
 | 23 | Marambio | Palmer | 284,047 | **571,487** | *(island cap)* |
 | 24 | Palmer City | Palmer | 238,279 | **477,970** | *(island cap; revised 2026-07-03 — see `Official_Population_Census.md`)* |
 | 25 | Sanay | Halley | 233,539 | **467,600** | |
 | 26 | Dumont d'Urville | Janbogo | 225,066 | **456,411** | *(island cap)* |
 | 27 | Fort McMurdo | Janbogo | 223,041 | **447,015** | *(island cap)* |
-| 28 | Juan Carlos | Palmer | 191,451 | **390,175** | *(island cap)* |
+| 28 | Pergamino | Palmer | 191,451 | **390,175** | *(island cap)* |
 | 29 | Scott | Janbogo | 190,964 | **388,343** | *(island cap)* |
 | 30 | Rothera | Palmer | 154,489 | **318,955** | *(island cap)* |
-| 31 | Sayowa | Mawson | 123,656 | **256,100** | *(island cap)* |
+| 31 | Temirötkel | Mawson | 123,656 | **256,100** | *(island cap)* |
 | 32 | Signy | Palmer | 93,951 | **190,349** | *(island cap)* |
-| 33 | Port Lockroy | Palmer | 63,856 | **129,942** | *(island cap)* |
+| 33 | Puerto Abrigo | Palmer | 63,856 | **129,942** | *(island cap)* |
 | 34 | **Amundsen Station** | Amundsen | 1,126 | **6,889** | *~84% robot; see note* |
 | — | **TOTAL** | — | **15,711,071** | **32,026,600** | *(increased 2026-07-03)* |
 
@@ -1122,27 +1122,27 @@ Two percent of the Gini-adjusted global effective pool produces approximately **
 
 ---
 
-### Island population balancing: why Sejong isn't the largest city
+### Island population balancing: why Contrapunto isn't the largest city
 
-The raw census calculation — pure math applied to the tier system with no geographic constraints — produced some physically absurd results. The most obvious was **Sejong**, on King George Island in the South Shetlands. Sejong occupies one of the most geographically diverse and internationally prominent sites in the early Antarctic settlement period (closest significant Antarctic base to South America; surrounded by multinational station infrastructure). The math put Sejong near the top of the city hierarchy.
+The raw census calculation — pure math applied to the tier system with no geographic constraints — produced some physically absurd results. The most obvious was **Contrapunto**, on King George Island in the South Shetlands. Contrapunto occupies one of the most geographically diverse and internationally prominent sites in the early Antarctic settlement period (closest significant Antarctic base to South America; surrounded by multinational station infrastructure). The math put Contrapunto near the top of the city hierarchy.
 
 The problem is that King George Island is approximately 1,300 km². Much of it is glaciated. The ice-free habitable area is a small fraction of that. Even with sci-fi vertical construction, multi-layer arcology design, and underground expansion, King George Island physically cannot support a million-person city. It would be overcrowded beyond any architectural justification.
 
 Eleven cities were identified as sitting on actual islands with binding physical capacity constraints. Each was assigned a realistic cap based on island size, ice coverage estimate, and a generous sci-fi multiplier for vertical and subsurface construction:
 
-- **Port Lockroy** (Goudier Island, ~0.016 km² ice-free): capped at 65,000 combined (~100,000 pre-×0.65 scaling)
+- **Puerto Abrigo** (Goudier Island, ~0.016 km² ice-free): capped at 65,000 combined (~100,000 pre-×0.65 scaling)
 - **Signy** (Signy Island, ~19 km² largely ice-free): capped at 195,000 combined
-- **Sayowa** (East Ongul Island, ~28 km²): capped at 260,000 combined
+- **Temirötkel** (East Ongul Island, ~28 km²): capped at 260,000 combined
 - **Rothera** (Adelaide Island, ~4,463 km² but mostly glaciated): capped at 325,000 combined
 - **Palmer City** (Anvers Island, largely glaciated): capped at 364,000 combined
-- **Juan Carlos** (Livingston Island): capped at 390,000 combined
+- **Pergamino** (Livingston Island): capped at 390,000 combined
 - **Scott** (Pram Point, Ross Island): capped at 390,000 combined
 - **Fort McMurdo** (Ross Island): capped at 455,000 combined
 - **Dumont d'Urville** (Île des Pétrels, ~0.3 km²): capped at 455,000 combined
 - **Marambio** (Seymour Island, ~133 km²): capped at 585,000 combined
-- **Sejong** (King George Island, ~1,300 km²): capped at 650,000 combined
+- **Contrapunto** (King George Island, ~1,300 km²): capped at 650,000 combined
 
-The overflow from these caps — roughly 5.24 million humans at the 3% rate — was routed to mainland coastal and ice-shelf cities within ±3 time zones. Interior cities (Troll, Abowasa, Sanay, Princess Elisabeth, Amundsen) were excluded as overflow-routing targets because inland infrastructure cannot absorb mass population without independent logistical support that isn't assumed in this model. Other islands also cannot receive overflow.
+The overflow from these caps — roughly 5.24 million humans at the 3% rate — was routed to mainland coastal and ice-shelf cities within ±3 time zones. Interior cities (Troll, Santa Luce, Sanay, Utstein, Amundsen) were excluded as overflow-routing targets because inland infrastructure cannot absorb mass population without independent logistical support that isn't assumed in this model. Other islands also cannot receive overflow.
 
 The practical effect of this overflow routing was dramatic. **Esperanza** — the only city on the actual Antarctic mainland Peninsula coast — absorbed 50% of all Peninsula island overflow and grew from a modest ~363,000 to over a million humans, becoming the dominant Peninsula city. **Janbogo**, on the Terra Nova Bay mainland coast, absorbed the combined overflow from the Ross Sea islands and from Dumont d'Urville, growing to become the single largest city in all of Tepenia.
 
@@ -1232,11 +1232,11 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 12 | Belgrano | Halley | 429,820 | **837,768** | *(ruined in Long Night War; DLC 5)* |
 | 13 | Neumayer | Halley | 385,071 | **830,747** | |
 | 14 | Davis | Mirny | 437,423 | **781,596** | |
-| 15 | Princess Elisabeth | Halley | 401,403 | **766,762** | |
+| 15 | Utstein | Halley | 401,403 | **766,762** | |
 | 16 | Shirayuki | Mirny *(corrected 2026-07-05)* | 336,124 | **728,324** | |
 | 17 | Troll | Halley | 323,650 | **671,832** | |
-| 18 | Abowasa | Halley | 310,791 | **607,441** | |
-| 21 | Sejong | Palmer | 234,304 | **514,070** | *(island cap)* |
+| 18 | Santa Luce | Halley | 310,791 | **607,441** | |
+| 21 | Contrapunto | Palmer | 234,304 | **514,070** | *(island cap)* |
 | 22 | Marambio | Palmer | 195,623 | **430,145** | *(island cap)* |
 | 23 | Fort McMurdo | Janbogo | 173,548 | **338,169** | *(island cap)* |
 | 24 | Palmer City | Palmer | 180,688 | **332,170** | *(island cap; revised 2026-07-03 — see `Official_Population_Census.md`)* |
@@ -1244,10 +1244,10 @@ This census captures the **snapshot immediately before the Long Night War**, aft
 | 26 | Dumont d'Urville | Janbogo | 134,634 | **312,006** | *(island cap; reordered 2026-07-03 — was previously listed out of sequence)* |
 | 27 | Sanay | Halley | 145,798 | **275,117** | |
 | 28 | Rothera | Palmer | 121,784 | **255,857** | *(island cap)* |
-| 29 | Juan Carlos | Palmer | 118,910 | **246,372** | *(island cap)* |
-| 30 | Sayowa | Mawson | 85,199 | **164,957** | *(island cap)* |
+| 29 | Pergamino | Palmer | 118,910 | **246,372** | *(island cap)* |
+| 30 | Temirötkel | Mawson | 85,199 | **164,957** | *(island cap)* |
 | 31 | Signy | Palmer | 53,928 | **133,755** | *(island cap)* |
-| 32 | Port Lockroy | Palmer | 53,703 | **95,906** | *(island cap)* |
+| 32 | Puerto Abrigo | Palmer | 53,703 | **95,906** | *(island cap)* |
 | 33 | Amundsen Station | Amundsen | 913 | **4,891** | *~81% robot; skeleton crew* |
 | — | **TOTAL (Antarctic)** | — | **10,395,526** | **21,713,524** | *(increased 2026-07-03, Palmer City expansion)* |
 

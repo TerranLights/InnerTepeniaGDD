@@ -200,7 +200,7 @@ localize per city.*
 ### 9. Arcanet Etiquette — Local Network Behavior
 
 - **[Directly-inherited, Deep]** §24 already establishes Mirny as the Mirny Subnet's literal intra-subnet
-  Arcanet routing hub (connecting Zhongshan, Casey, Davis, Vostok, and Kunlun to each other — not to
+  Arcanet routing hub (connecting Zhongshan, Casey, Davis, Ariun Nuur, and Kunlun to each other — not to
   Concordia, that link was severed subnet-wide by the Planetary Split Brain), carrying "the sober
   responsibility of being the single point of failure for the whole subnet's internal cohesion." This is a
   different *kind* of Arcanet relationship than Janbogo's usage-pattern finding — Mirny's distinctive fact is
@@ -288,7 +288,7 @@ localize per city.*
 - **Process correction, 2026-08-10:** this file's own Robot Elemental finding (§5) originally claimed no
   city-level assignment existed anywhere in canon and informally proposed Water (Metal secondary). Both were
   wrong — a pre-existing pick (Saturn + Earth) already existed in `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`,
-  missed by this pass's own search. Corrected in place; the stale cross-reference this created in Vostok's own
+  missed by this pass's own search. Corrected in place; the stale cross-reference this created in Ariun Nuur's own
   file (§5, comparing its Water pick against Mirny's since-withdrawn one) has also been corrected.
 
 ---

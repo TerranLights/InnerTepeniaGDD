@@ -48,7 +48,7 @@ arrivals and honeymooning strangers with the identical welcome.*
   the founders" theme.
 - **Input E — Tepenia-Wide Robot Culture Canon:** all 5 applicable members checked. Robot Biology and
   Culture, Glitch-Coolant (**correction, 2026-08-10: this pass's original claim that Glitch-Coolant was
-  entirely absent from canon was wrong** — a Sayowa-research pass located the actual canon entry
+  entirely absent from canon was wrong** — a Temirötkel-research pass located the actual canon entry
   (`Robot_Physiology_and_Cultural_Practices.md`, established 2026-07-04) that this pass's own search missed.
   Mawson isn't pre-named in either of the two confirmed categories, so this pass derives its placement — see
   §6). **Robot Elementals & Solar Symbols — terminology corrected 2026-08-10:** Mawson already has a
@@ -70,7 +70,7 @@ arrivals and honeymooning strangers with the identical welcome.*
   anywhere on disk for this city — worth checking whether that file was lost, never finished, or the flag
   itself is stale. District Refugee Diaspora Composition not used — Mawson is a standalone subnet city.
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs. Mawson's own subnet-mates
-  (Dome Fuji, Sayowa) haven't been run through this methodology yet, so Step 6 could only check against
+  (Dome Fuji, Temirötkel) haven't been run through this methodology yet, so Step 6 could only check against
   already-completed cities from other subnets.
 
 ---
@@ -82,7 +82,7 @@ arrivals and honeymooning strangers with the identical welcome.*
 | Kinship, Clan & Mentor/Mentee Institution | **Yes — led with shared experience, not mentoring, per the revised process** | The Long Table Hall/Nation Nights institution is an already-established, genuinely horizontal, cross-national shared-experience bond; a secondary, mentoring-*shaped* instance of the same underlying logic exists in the Guesthouse Quarter. See §1. |
 | Cooperation, Morality & Emergent Social Convention | **Yes** | The founding-era decision to reject minimizing the demographic story, and its confirmed continuation as periodic, deliberate honest retelling, gives a real, non-generic civic ethic; see §2. |
 | City/Locality as the Seat of Identity | **Yes** | Fluency in both "kinds of old" (ancient founding prestige and modern earned hospitality prestige) at once, plus a distinct comfort with strangers grown from childhood exposure to constant honeymoon traffic; see §3. |
-| Generational Identity (Gen/Mark) | **No (null)** | No chamber-manufacturing and no unusual recruitment-draw mechanism found in the gathered material. Legitimate Honesty Check outcome, consistent with Janbogo, Mirny, Vostok, and Zhongshan. |
+| Generational Identity (Gen/Mark) | **No (null)** | No chamber-manufacturing and no unusual recruitment-draw mechanism found in the gathered material. Legitimate Honesty Check outcome, consistent with Janbogo, Mirny, Ariun Nuur, and Zhongshan. |
 | Religion and Belief | **Yes — already richly established** | St. Douglas veneration is already "complete" in-canon; the Earth (Solar) + Fire (Element) pair already elegantly captures the city's dual civic character; see §5 and Cross-Reference Synthesis. |
 | Consumption and Vice Culture | **Yes; Glitch-Coolant placement corrected 2026-08-10** | §10c is thin; Glitch-Coolant IS established canon (missed by this pass's original search) — Mawson isn't pre-named in either category, so this pass derives its placement into bohemian/cosmopolitan-variety; see §6. |
 | Sexuality | **Yes** | A "staged for guests vs. genuinely ours" distinction, unique to a city whose whole economy is professionally facilitating strangers' romantic milestones; see §7. |
@@ -164,7 +164,7 @@ localize per city.*
   Hall: siligel presentation at Mawson reflects demographic plurality without a single dominant style —
   multiple national siligel traditions coexisting and available side by side, genuinely distinct from
   Zhongshan's single, exported, connoisseur-grade craft standard.
-- **[Adapted, Surface] — corrected 2026-08-10.** A Sayowa-research pass surfaced a real process gap in this
+- **[Adapted, Surface] — corrected 2026-08-10.** A Temirötkel-research pass surfaced a real process gap in this
   file's original claim that Glitch-Coolant had "no existing canon entry... confirmed absent": the substance
   and its two-category framework (bohemian/cosmopolitan-variety — Janbogo, Zhongshan, Shirayuki; working-class/
   potency — Byrd, Rothera, Troll) are established canon (`Robot_Physiology_and_Cultural_Practices.md`,
@@ -200,7 +200,7 @@ localize per city.*
 
 - **[Directly-inherited, Deep]** Already confirmed directly in §24 and Finding A: Mawson was the subnet's
   confirmed outward-facing Arcanet gateway before the war, and the Planetary Split Brain forced a genuine
-  functional reversal — the hub now serves inward, intra-subnet coordination (to Sayowa and Dome Fuji, which
+  functional reversal — the hub now serves inward, intra-subnet coordination (to Temirötkel and Dome Fuji, which
   plausibly survived in better shape) more capably than it reaches the rest of Tepenia, the literal opposite
   of its founding-era purpose. Nothing new to derive; recorded as confirmed, pre-existing canon.
 
@@ -256,7 +256,7 @@ localize per city.*
   `candidates.txt` reference — a developer question, not a culture finding.
 - **Process correction, 2026-08-10:** this file's own Glitch-Coolant reasoning (§6, Sources Consulted, and the
   Universal Triage Record) originally claimed the substance had no canon placement at all. A subsequent
-  research pass for Sayowa found this was a missed-search error, not a real gap — the canon entry has existed
+  research pass for Temirötkel found this was a missed-search error, not a real gap — the canon entry has existed
   since 2026-07-04. All affected sections above have been corrected in place; no other finding in this file
   depended on the mistaken premise.
 
@@ -265,11 +265,11 @@ localize per city.*
 ## Closing Check — The Swap Test (Step 6)
 
 **Swap Test result: Pass, with a genuine caveat about comparison depth.** Mawson's own subnet-mates (Dome
-Fuji, Sayowa) haven't been run through this methodology yet, so Step 6 couldn't check against a natural
+Fuji, Temirötkel) haven't been run through this methodology yet, so Step 6 couldn't check against a natural
 same-subnet sibling the way every prior city in this run could. Checked instead against the full set of
 already-completed cities from other subnets: none of them run a tourism/hospitality economy remotely like
 Mawson's, so this pass is a genuine first for that entire register — the honeymoon-economy findings (the
 staged-vs-genuine courtship distinction, the doubly-inclusive resident/visitor kinship logic, the Proposal
 Terrace avoidance custom) have no risk of reskinning anything already written, since nothing comparable exists
-yet to reskin. Worth an explicit re-check once Sayowa and Dome Fuji are actually run, given they're Mawson's
+yet to reskin. Worth an explicit re-check once Temirötkel and Dome Fuji are actually run, given they're Mawson's
 real subnet-mates and the closest genuine comparison points.

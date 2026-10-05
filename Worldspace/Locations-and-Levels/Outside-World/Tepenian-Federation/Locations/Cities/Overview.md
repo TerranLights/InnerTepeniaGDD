@@ -70,12 +70,12 @@ all**, so most cities have neither a core figure nor an outer boundary recorded.
 | City | Original Station | Country | Arcanet Subnet | Status |
 |---|---|---|---|---|
 | **Palmer City** *(subnet hub)* | Palmer Station | USA | Palmer ("American") | ✗ Destroyed |
-| Port Lockroy | Port Lockroy | UK | Palmer ("American") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
+| Puerto Abrigo | Puerto Abrigo | UK | Palmer ("American") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
 | Rothera | Rothera Station | UK | Palmer ("American") | ~ Damaged / Partially operational |
 | Esperanza | Esperanza Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 — already established as destroyed in `Specs/Esperanza.md` and its cultural sheet)* |
 | Marambio | Marambio Base | Argentina | Palmer ("American") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged" — see `Specs/Marambio.md`)* |
-| Sejong | King Sejong Station | Unified Korea | Palmer ("American") | ✗ Destroyed |
-| Juan Carlos | Juan Carlos I Station | Spain | Palmer ("American") | Destroyed *(resolved 2026-07-05 — see `Specs/Juan_Carlos.md`)* |
+| Contrapunto | King Sejong Station | Unified Korea | Palmer ("American") | ✗ Destroyed |
+| Pergamino | Juan Carlos I Station | Spain | Palmer ("American") | Destroyed *(resolved 2026-07-05 — see `Specs/Pergamino.md`)* |
 | Signy | Signy Station | UK | Palmer ("American") *(peripheral)* | ✓ Survived; fully operational *(upgraded 2026-07-03 from "Damaged" — see `Specs/Signy.md`)* |
 
 ---
@@ -98,9 +98,9 @@ all**, so most cities have neither a core figure nor an outer boundary recorded.
 | Neumayer | Neumayer Station III | Germany | Halley ("Atlantic") | ~ Damaged / Partially operational |
 | Sanay | Sanae IV Station | South Africa | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
 | Troll | Troll Base | Norway | Halley ("Atlantic") | ~ Damaged / Partially operational |
-| Abowasa | Aboa Station + Wasa Research Station | Finland + Sweden | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed"; renamed from "Aboa" 2026-07-05 — see `Specs/Abowasa.md`)* |
+| Santa Luce | Aboa Station + Wasa Research Station | Finland + Sweden | Halley ("Atlantic") | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed"; renamed from "Aboa" 2026-07-05 — see `Specs/Santa_Luce.md`)* |
 | Lazar *(formerly "Maitri" placeholder)* | Novolazarevskaya Station (Russia) + Maitri Station site | Russia / non-Indian | Halley ("Atlantic") | ~ Damaged / Partially operational |
-| Princess Elisabeth | Princess Elisabeth Station | Belgium | Halley ("Atlantic") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged/Partially operational")* |
+| Utstein | Princess Elisabeth Station | Belgium | Halley ("Atlantic") | ✗ Destroyed *(corrected 2026-07-03 from "Damaged/Partially operational")* |
 
 ---
 
@@ -109,7 +109,7 @@ all**, so most cities have neither a core figure nor an outer boundary recorded.
 
 | City | Original Station | Country | Arcanet Subnet | Status |
 |---|---|---|---|---|
-| Sayowa | Syowa Station | Japan | Mawson | ~ Damaged / Partially operational |
+| Temirötkel | Syowa Station | Japan | Mawson | ~ Damaged / Partially operational |
 | **Mawson** *(subnet hub)* | Mawson Station | Australia | Mawson | ~ Damaged / Partially operational |
 | **Shirayuki** *(named 2026-07-08)* | Bharati Station | Japan *(via Jeju-do allocation)* / India (infrastructure only) | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed")* |
 | Sinheung | Progress Station | Russia | Mirny *(corrected 2026-07-05, moved from Mawson)* | ~ Damaged / Partially operational *(corrected 2026-07-03 from "Destroyed" — see `Specs/Sinheung.md`)* |
@@ -163,7 +163,7 @@ all**, so most cities have neither a core figure nor an outer boundary recorded.
 | City | Original Station | Country | Arcanet Subnet | Status |
 |---|---|---|---|---|
 | **Concordia** *(last major city; primary game setting)* | Concordia Station (Dome C) | France / Italy | Janbogo | ✓ Survived |
-| Vostok | Vostok Station | Russia | Mirny ("Australian") | ✓ Survived — too isolated |
+| Ariun Nuur | Vostok Station | Russia | Mirny ("Australian") | ✓ Survived — too isolated |
 | Dome Fuji | Dome Fuji / Valkyrie Dome | Japan | Mawson | ↑ Survived — too high for humans, but received a real robot population 2026-07-04 (55,072, nationally blended) |
 | Kunlun | Kunlun Station / Dome Argus | Sinian Federation | Mirny ("Australian") | ↑ Survived — too high for humans, but received a real robot population 2026-07-04 (123,449; re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population, no longer single-nation Chinese) |
 | **Byrd** *(DLC 2 centerpiece)* | Byrd Station | USA | Byrd ("Pacific") | ~ Survived — struggling |

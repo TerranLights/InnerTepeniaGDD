@@ -1,7 +1,7 @@
 # Amundsen Station — Local Robot Culture Spec Sheet
 
 **Run #35 of the Local Robot Culture Methodology, 2026-08-11 — final entry of the entire 36-entry project.**
-Directly follows up on Juan Carlos's own forward-flagged Strong Historical tie. Applies the shared-experience-
+Directly follows up on Pergamino's own forward-flagged Strong Historical tie. Applies the shared-experience-
 first Kinship framing and the corrected two-slot Solar-symbol/Robo-Element check (adapted — see Input E below,
 this location isn't in that table at all).
 
@@ -48,7 +48,7 @@ Universals says it usually is.*
   is explicitly scoped to "all 35 outer cities" and doesn't include Amundsen Station at all — confirmed by
   direct search, not assumed. In their place, this location has one source no outer city has:
   `Storyline/DLC_01_Echoes_of_Amundsen.md`, DLC 1's own dedicated design document, consulted directly for its
-  Input-A-relevant material (the Archivist's Trail connection to Juan Carlos, Esperanza, and Sanay) while
+  Input-A-relevant material (the Archivist's Trail connection to Pergamino, Esperanza, and Sanay) while
   respecting its own explicit scope boundary around Kendra Heinrich's reserved personal story.
 - **Input A — National Culture Composition:** `Local_Cultures/Amundsen_Station/Amundsen_Station.md`, full read.
   §5 ("The Place That Belonged to Everyone" — no post-culture in the usual sense; whatever legacy exists lives
@@ -111,8 +111,8 @@ Universals says it usually is.*
   Actually Recorded," "The Object That Took Three Rotations to Arrive" (the Wall of Home's own founding
   incident), and "The Sunrise Crews Stopped What They Were Doing For" all fed specific findings below, flagged
   there as non-canon candidate material. `City_National_Connections.md` confirms a Strong Historical tie to
-  Juan Carlos (Palmer subnet, already completed — the direct institutional origin of the pre-Split-Brain
-  archive, per `DLC_PSB_Framework.md`'s own established chain), directly resolving Juan Carlos's own forward
+  Pergamino (Palmer subnet, already completed — the direct institutional origin of the pre-Split-Brain
+  archive, per `DLC_PSB_Framework.md`'s own established chain), directly resolving Pergamino's own forward
   flag. District Refugee Diaspora Composition not used — Amundsen Station belongs to no subnet or district.
 
 ---
@@ -246,7 +246,7 @@ present-tense methodology.*
   Amundsen Station plausibly belongs in the **bohemian/cosmopolitan-variety** category, but reaching that
   variety through a genuinely new mechanism distinct from every other bohemian-pole city examined in this
   project: not organic, generations-deep cross-pollination (Janbogo, Zhongshan) or a curated host's own
-  editorial choice (Juan Carlos), but a **temporary, rotating cross-section** — the specific glitch-coolant
+  editorial choice (Pergamino), but a **temporary, rotating cross-section** — the specific glitch-coolant
   varieties available at any given time depend entirely on which cities' own traditions the current rotation's
   crew happened to bring with them, a genuinely different mechanism turning over completely with every new
   rotation rather than settling into any stable local catalog.
@@ -332,17 +332,17 @@ present-tense methodology.*
   built to substitute for in her absence. Worth flagging directly: Amundsen Station's own "impermanence" is a
   genuinely human-scale fact about the place, not a universal one — for its robot majority specifically, it may
   have been considerably less impermanent than the institution's own self-image assumed.
-- **[Directly-inherited, Deep, directly resolving Juan Carlos's own forward flag]** — *Input categories
-  combined: `City_National_Connections.md`'s own Strong Historical tie to Juan Carlos + Juan Carlos's own
+- **[Directly-inherited, Deep, directly resolving Pergamino's own forward flag]** — *Input categories
+  combined: `City_National_Connections.md`'s own Strong Historical tie to Pergamino + Pergamino's own
   already-completed file + `DLC_01_Echoes_of_Amundsen.md`'s own established Archivist's Trail chain*
-  Checked directly rather than assumed: the tie is real and specific — Juan Carlos's own archive function
-  relocated to Amundsen Station before the war, per Juan Carlos's own already-completed file's Cross-Reference
+  Checked directly rather than assumed: the tie is real and specific — Pergamino's own archive function
+  relocated to Amundsen Station before the war, per Pergamino's own already-completed file's Cross-Reference
   Synthesis. `DLC_01_Echoes_of_Amundsen.md` independently confirms and extends this with a fully-designed
-  cross-DLC chain (Juan Carlos → Esperanza → Sanay → Amundsen Station) — the Archivist's Trail, a discoverable,
+  cross-DLC chain (Pergamino → Esperanza → Sanay → Amundsen Station) — the Archivist's Trail, a discoverable,
   optional bypass for decrypting the pre-Split-Brain archive. Per this pass's own scope discipline, this file
   doesn't build further content on the archivist's own personal story (already flagged as an open robot/human
-  question in Juan Carlos's own file) — but confirms the institutional connection is real, specific, and
-  already meaningfully developed elsewhere, resolving Juan Carlos's own forward flag with a genuine answer
+  question in Pergamino's own file) — but confirms the institutional connection is real, specific, and
+  already meaningfully developed elsewhere, resolving Pergamino's own forward flag with a genuine answer
   rather than a null.
 - **[Directly-inherited, Deep]** — *Input categories combined: `Robot_Physiology_and_Cultural_Practices.md`'s
   own Mountain Pass entry (a historical Cradle manufacturing site that ran on residual overflow from the
@@ -381,10 +381,10 @@ present-tense methodology.*
 siblings — the same situation Byrd's own file faced as Tepenia's only single-city subnet, resolved the same
 way: reaching outside the usual same-subnet comparison rather than treating the absence as a gap.**
 
-1. **Against Juan Carlos (Palmer subnet, already completed, resolving its own forward flag directly) —
+1. **Against Pergamino (Palmer subnet, already completed, resolving its own forward flag directly) —
    resolved as a genuine, confirmed institutional connection rather than a cultural resemblance:** see
    Cross-Reference Synthesis above. The archive-origin tie is real and specific; neither city's own robot-
-   culture findings (Juan Carlos's argument-as-currency social register; Amundsen Station's rotation-based
+   culture findings (Pergamino's argument-as-currency social register; Amundsen Station's rotation-based
    Kinship and axis-suspension findings) transplant onto the other.
 2. **Against Lazar (Halley subnet, already completed) — checked directly for a structural echo, resolved as a
    genuine but differently-caused parallel:** both locations produce an identity marker readable only "one
@@ -402,6 +402,6 @@ way: reaching outside the usual same-subnet comparison rather than treating the 
 No finding above reads as generic "remote facility" content — every finding depends on facts (the specific
 rotation structure, the Wall of Home's own established mechanic, robots' own confirmed multi-tour capacity,
 the direct axis-weighting test the location's own design structurally forces) that are concretely, specifically
-Amundsen Station's own. **This closes the entire 36-entry Local Robot Culture project's active run — Abowasa
+Amundsen Station's own. **This closes the entire 36-entry Local Robot Culture project's active run — Santa Luce
 remains the sole deliberately deferred entry, unrun pending its own founding-nation fix, per the standing
 instruction not to touch it.**

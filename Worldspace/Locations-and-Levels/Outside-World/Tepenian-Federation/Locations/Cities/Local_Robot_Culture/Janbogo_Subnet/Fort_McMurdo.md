@@ -81,7 +81,7 @@ has ever needed.*
   and `City_Relationship_Database.md` directly, given the real, near-total absence of ties to most of the
   subnet and the "effectively twin cities" Consistency Rule governing Scott specifically → `National_Capital_
   Candidates.md`, since the de facto capital claim needed its own full sourcing to distinguish it cleanly from
-  Janbogo's own already-confirmed relay-hub role → direct cross-checks against Janbogo's and Sayowa's own
+  Janbogo's own already-confirmed relay-hub role → direct cross-checks against Janbogo's and Temirötkel's own
   already-completed files.
 
 ---
@@ -146,9 +146,9 @@ localize per city.*
 - **[Emergent, robot-only, Deep]** A Fort McMurdo robot is recognizable by an unbothered, matter-of-fact
   awareness that her work genuinely ripples outward nationally, held without ever needing external validation
   or performance — directly grounded in §21's own "operational gravity, not political theater... it doesn't
-  perform importance, because it doesn't need to." Distinct in *kind* from Sayowa's own "disproportionate
+  perform importance, because it doesn't need to." Distinct in *kind* from Temirötkel's own "disproportionate
   structural responsibility held without drama" finding (per the Swap Test discipline, a superficially similar
-  "modest city secretly important" register needed a genuinely different root): Sayowa's is about a *small*
+  "modest city secretly important" register needed a genuinely different root): Temirötkel's is about a *small*
   population carrying *outsized junction significance*; Fort McMurdo's is about being the actual historical
   seat of national decision-making gravity itself — real governmental and operational-industrial centrality,
   not infrastructure passing through.
@@ -174,7 +174,7 @@ localize per city.*
   McMurdo, grounded directly in "dominance so obvious it needs no assertion, quietly load-bearing." Jupiter's
   own sheer scale without needing to prove it tracks §21's own civic register precisely. Earth here grounds
   distinctly from every other Earth-picked city in this run: not Davis's literal agriculture, not Byrd's
-  literal underground, not Mirny's structural windbreak, not Sayowa's quiet-dispatch practicality — Fort
+  literal underground, not Mirny's structural windbreak, not Temirötkel's quiet-dispatch practicality — Fort
   McMurdo's Earth is specifically about political and operational gravity, the literal ground a former seat of
   government stood on, made concrete in the Comms Coordination Stations as the physical site where that
   gravity is actually exercised.
@@ -192,7 +192,7 @@ localize per city.*
 
 ### 7. Sexuality & Courtship — Local Customs
 
-- **[Adapted, Deep]** Distinct from Sayowa's own duty-covering courtship signal (which is about absorbing
+- **[Adapted, Deep]** Distinct from Temirötkel's own duty-covering courtship signal (which is about absorbing
   someone else's burden): given §6b's own established hospitality logic — warmth expressed by being handed
   real responsibility quickly, "trust expressed as workload, not conversation" — a plausible local courtship
   signal runs the opposite direction: deliberately delegating a genuinely high-stakes task or responsibility to
@@ -306,8 +306,8 @@ McMurdo as "Zug/Geneva-inspired financial-corporate identity" and confirmed it s
 bohemian Glitch-Coolant status nor its hospitality-dominant economy — this pass's own findings (the crew-
 interdependence Kinship, the working-class Glitch-Coolant placement, the secular-reverence-at-the-comms-
 stations finding) confirm that characterization from the inside rather than contradicting it. Checked against
-Sayowa (already completed): both cities risk reading as a generic "modest city, secretly important" cliché,
-but the two "importance" mechanisms are genuinely different in kind (Sayowa: small population, outsized
+Temirötkel (already completed): both cities risk reading as a generic "modest city, secretly important" cliché,
+but the two "importance" mechanisms are genuinely different in kind (Temirötkel: small population, outsized
 junction significance; Fort McMurdo: actual historical seat of national decision-making gravity) and neither
 city's own central finding would transplant onto the other. **Resolved, 2026-08-10, via Scott's own completed
 run** — the flagged risk was real and the outcome is genuine complication, not simple confirmation: this

@@ -23,5 +23,5 @@ constraints as whatever dominant local culture and community they're drawn from,
 Arcanet access.
 
 See also: [[feedback_arcanet_solarnet_naming]] (always "the Arcanet"/"the Solarnet" standalone, no article as
-modifier) and [[feedback_extreme_altitude_arcanet]] (Dome Fuji/Kunlun/Vostok have basically no Arcanet access,
+modifier) and [[feedback_extreme_altitude_arcanet]] (Dome Fuji/Kunlun/Ariun Nuur have basically no Arcanet access,
 for reasons distinct from the network's own general character described here).

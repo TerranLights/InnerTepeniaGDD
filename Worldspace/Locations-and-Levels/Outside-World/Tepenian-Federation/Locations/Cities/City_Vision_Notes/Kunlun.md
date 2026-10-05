@@ -18,7 +18,7 @@ Recap of what was already established going in: Kunlun sits at or near Dome A (D
 
 **On Kunlun's population being 100% Chinese:** the developer flagged this as needing a fix before the vision session proper — given the project's broader move away from founding-nation identity as decoration, there was no real reason for Kunlun to be artificially collapsed into one nationality. This led to the population being re-derived around Kunlun's actual function (astronomy first, comms relay second) using a curated 19-nation list tiered by genuine real-world space/astronomy/comms heritage. See `Specs/Kunlun.md`'s Founding Population Resolution for the full math.
 
-**On reachability:** the developer confirmed Kunlun is playable, reserved for the Mirny DLC, and that the connection would "somehow be related to Vostok in some way" — details TBD. Four connection ideas were brainstormed together and all four were chosen: (1, mandatory) "Doll" — Vostok's geneticist, named "Charlene" the following day, 2026-07-07 — discovers something in Lake Vostok significant enough to need Kunlun's comms relay to transmit; (2, optional) a "two loneliest outposts" relationship between Vostok and Kunlun; (3, optional) a possible scientific echo between Lake Vostok's findings and Kunlun's own astronomical data; (4, optional) Vosora Lashár Tanslock's still-undetermined Kunlun connection, which may route through Vostok.
+**On reachability:** the developer confirmed Kunlun is playable, reserved for the Mirny DLC, and that the connection would "somehow be related to Ariun Nuur in some way" — details TBD. Four connection ideas were brainstormed together and all four were chosen: (1, mandatory) "Doll" — Ariun Nuur's geneticist, named "Charlene" the following day, 2026-07-07 — discovers something in Lake Vostok significant enough to need Kunlun's comms relay to transmit; (2, optional) a "two loneliest outposts" relationship between Ariun Nuur and Kunlun; (3, optional) a possible scientific echo between Lake Vostok's findings and Kunlun's own astronomical data; (4, optional) Vosora Lashár Tanslock's still-undetermined Kunlun connection, which may route through Ariun Nuur.
 
 ---
 
@@ -30,7 +30,7 @@ Recap of what was already established going in: Kunlun sits at or near Dome A (D
 
 - `Specs/Kunlun.md` and `Local_Cultures/Mirny_Subnet/Kunlun.md` — comprehensive rewrites: population re-derivation, Architecture (antenna/satellite array, instrument-packed interiors), Social Contract ("no civic clock," 24-hour leisure economy), Reachability resolution.
 - Cascading fixes across ~14 files referencing Kunlun's old "100% Chinese" status (census files, DLC overview, Zhongshan's and Dome Fuji's own files, the Kunlun/Dome Fuji faction tension in `City_Origin_Factions_Second_Interwar.md`).
-- Highway access corrected — Kunlun is a confirmed stop on Hwy 37 (Dome Fuji → Kunlun → Vostok → Concordia), including a real physical link to Concordia despite the severed Arcanet subnet boundary.
+- Highway access corrected — Kunlun is a confirmed stop on Hwy 37 (Dome Fuji → Kunlun → Ariun Nuur → Concordia), including a real physical link to Concordia despite the severed Arcanet subnet boundary.
 - Vosora Lashár Tanslock's undetermined Kunlun connection flagged in both her own file and Kunlun's Open Questions.
 
 ---
@@ -40,6 +40,6 @@ Recap of what was already established going in: Kunlun sits at or near Dome A (D
 - Demonym (Kunlunites? something else?)
 - Notable Figures — still TBD
 - The observatory archive — a required DLC story beat, not yet written
-- The cold record contest with Vostok
+- The cold record contest with Ariun Nuur
 - Scientists vs. devotees as a real internal cultural distinction — flagged as worth developing, not yet written out
 - Vosora's actual connection to Kunlun — deliberately left undetermined

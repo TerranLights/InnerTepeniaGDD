@@ -4,7 +4,7 @@
 **Status:** Damaged; partially operational
 **Arcanet Subnet:** Mawson (hub city)
 **Access type:** ON
-**Highway access:** **Corrected 2026-07-06** — Mawson is on **Hwy 4 (the Mawson-Sinheung Highway)**, between the Sayowa Junction and Sinheung: the Sayowa Junction → Mawson → Sinheung → (Shirayuki). *(Further corrected 2026-07-06, same day: the western terminus is the Sayowa Junction, near but not inside Sayowa itself — see `Specs/Sayowa.md`.)* See `Locations/Infrastructure/Highways.md`.
+**Highway access:** **Corrected 2026-07-06** — Mawson is on **Hwy 4 (the Mawson-Sinheung Highway)**, between the Temirötkel Junction and Sinheung: the Temirötkel Junction → Mawson → Sinheung → (Shirayuki). *(Further corrected 2026-07-06, same day: the western terminus is the Temirötkel Junction, near but not inside Temirötkel itself — see `Specs/Temirotkel.md`.)* See `Locations/Infrastructure/Highways.md`.
 **Significance:** Arcanet hub for the Mawson subnet; named after Sir Douglas Mawson — St. Douglas in the Tepenian Saints framework, the greatest Australian polar explorer; Mac.Robertson Land was named after Macpherson Robertson, the Australian confectioner who funded the 1929-31 BANZARE expedition; gateway to the western Mawson subnet
 **DLC:** Mawson subnet — DLC 4 (Mawson Region); damaged but partially operational as subnet hub
 
@@ -151,7 +151,7 @@ Subnet hub logistics, maritime trade (Holme Bay, Indian Ocean access), scientifi
 
 ## Notable Locations
 - **Holme Bay harbor** — the primary maritime entry; Mac.Robertson Land coast
-- **The subnet hub Arcanet installation** — the Mawson subnet's primary communications node. **Proposed 2026-07-07:** the Planetary Split Brain severed *inter-subnet* Arcanet links specifically, not intra-subnet ones — the same mechanism already established for Davis/Casey/Mirny's surviving Australian heritage within the Mirny subnet. Applied here, Mawson's outward connection to the rest of Tepenia was a deliberate strategic target and took the brunt of the damage (consistent with "damaged but partially operational"), while its intra-subnet connections to Sayowa and Dome Fuji plausibly survived in better shape or proved more repairable, since that was never the kind of link the Split Brain itself severed. Exact remaining scope still a DLC 4 design question.
+- **The subnet hub Arcanet installation** — the Mawson subnet's primary communications node. **Proposed 2026-07-07:** the Planetary Split Brain severed *inter-subnet* Arcanet links specifically, not intra-subnet ones — the same mechanism already established for Davis/Casey/Mirny's surviving Australian heritage within the Mirny subnet. Applied here, Mawson's outward connection to the rest of Tepenia was a deliberate strategic target and took the brunt of the damage (consistent with "damaged but partially operational"), while its intra-subnet connections to Temirötkel and Dome Fuji plausibly survived in better shape or proved more repairable, since that was never the kind of link the Split Brain itself severed. Exact remaining scope still a DLC 4 design question.
 - **Prince Charles Mountains approach** — the mountains to the south of the Mac.Robertson Land coast; visible from Mawson
 - **Public libraries — vision session, 2026-07-06:** a genuine civic institution, consistent with the city's culture and hospitality-forward character
 - Additional locations: TBD for DLC 4

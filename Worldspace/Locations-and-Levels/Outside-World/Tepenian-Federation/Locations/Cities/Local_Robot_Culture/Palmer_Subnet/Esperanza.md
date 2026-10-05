@@ -2,10 +2,10 @@
 
 **Run #27 of the Local Robot Culture Methodology, 2026-08-11 — first city of the Palmer Subnet.** Applies the
 shared-experience-first Kinship framing and the corrected two-slot Solar-symbol/Robo-Element check from the
-start. **Esperanza is Destroyed**, like Zukelli, Denison, and Princess Elisabeth before it — its
+start. **Esperanza is Destroyed**, like Zukelli, Denison, and Utstein before it — its
 `Local_Cultures` file is written present-tense per confirmed project methodology, describing the living pre-war
 culture, while its actual current status is ruins with no confirmed straggling survivor population at all
-(genuinely distinct even from Princess Elisabeth's own small remnant population — Esperanza's own gathered
+(genuinely distinct even from Utstein's own small remnant population — Esperanza's own gathered
 material describes only complete loss and a Concordia diaspora, nothing left on-site). This pass follows the
 same discipline already applied to the other destroyed cities: the aspect sections below describe the living,
 pre-war robot culture, with the present-day loss/diaspora reality concentrated in Cross-Reference Synthesis
@@ -55,7 +55,7 @@ the actual, literal shape of family life, not an unfortunate exception to it.*
   deliberately built a city around honoring that discovery rather than treating it as historical trivia.
   Genuinely multinational charter from day one — Argentine site heritage honored but explicitly not the
   city's actual cultural claim-holder. **Status: Destroyed**, per the Long Night War; no confirmed survivor
-  population anywhere in the gathered material, distinct from Princess Elisabeth's own confirmed straggling
+  population anywhere in the gathered material, distinct from Utstein's own confirmed straggling
   remnant.
 - **Input C — Local Infrastructure:** `Esperanza_Physical_Infrastructure_Attributes.md` (8 attributes, 5 new
   Cross-Referenced Findings plus 3 pre-existing = 8 total) and `Esperanza_Community_Infrastructure.md`. The
@@ -111,8 +111,8 @@ the actual, literal shape of family life, not an unfortunate exception to it.*
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs (`Esperanza_Full_
   Extrapolation.md`, `Esperanza_Mega_Init.md`) → `City_National_Connections.md` directly → a direct check of
   Belgrano's own already-completed file for its characterization of the Esperanza tie → a direct check of all
-  four already-completed cities sharing Esperanza's own "Crossroads People" faction membership (Sayowa, Dome
-  Fuji subnet aside — actually Janbogo, Casey, Princess Elisabeth, and Sayowa) for a genuine cross-faction Swap
+  four already-completed cities sharing Esperanza's own "Crossroads People" faction membership (Temirötkel, Dome
+  Fuji subnet aside — actually Janbogo, Casey, Utstein, and Temirötkel) for a genuine cross-faction Swap
   Test, since this is the first city of a brand-new subnet and no same-subnet sibling yet exists for comparison.
 
 ---
@@ -179,7 +179,7 @@ status.*
   established as "the primary instrument" of the founding compact (§16) rather than passive beneficiaries of
   it, a plausible sharpened local expression is that a robot's own civic standing in Esperanza runs directly
   through the demonstrated quality and consistency of her caregiving record, the same reliability-through-
-  record-keeping logic already found at other cities (Davis's discovery-credit, Sayowa's junction-duty log) but
+  record-keeping logic already found at other cities (Davis's discovery-credit, Temirötkel's junction-duty log) but
   applied here to the single highest-stakes possible domain: another family's actual children.
 - **[Adapted, Deep]** Course of Events #11 ("The Compact Underground") supplies a genuine, real complication
   worth surfacing rather than smoothing over: rotational-shift mining fathers are disproportionately exposed to
@@ -276,13 +276,13 @@ status.*
 - **[Directly-inherited, Surface]** §12's intergenerational musical culture (lullabies and children's songs
   taught deliberately adult-to-child) already establishes music as something taught, not merely performed.
   Given robots' concentration in teaching roles, robot caregivers are plausibly this tradition's most consistent
-  transmitters — the same role Sayowa's dispatchers play for junction jargon, applied here to a city's entire
+  transmitters — the same role Temirötkel's dispatchers play for junction jargon, applied here to a city's entire
   intergenerational musical inheritance rather than one professional vocabulary.
 - **[Emergent, robot-only, Surface]** §11's durable, generously-sized, passed-down children's clothing
   tradition extends naturally to a robot-specific marker: given robots concentrate in caregiving and teaching
   roles, a practical, easily-laundered caregiving uniform or gear-set — built for the same durability-over-
   decoration logic already established for children's clothing — plausibly functions as a recognizable civic
-  aesthetic for Caregiver-Teacher Hall staff specifically, function-driven in the same register as Sayowa's own
+  aesthetic for Caregiver-Teacher Hall staff specifically, function-driven in the same register as Temirötkel's own
   dispatch-coordination gear, though grounded in caregiving rather than junction logistics.
 
 ---
@@ -313,9 +313,9 @@ status.*
   activated specifically at the moment the written record fails and personal memory is what's left.
 - **[Directly-inherited, Deep, genuinely differentiated rather than assumed]** — *Input categories combined:
   `Esperanza_Catalog.md`'s own Synthesis Notes (Esperanza's shared "Crossroads People" faction membership with
-  Sayowa, Janbogo, Casey, and Princess Elisabeth) + all four sibling cities' own already-completed files*
+  Temirötkel, Janbogo, Casey, and Utstein) + all four sibling cities' own already-completed files*
   Checked directly rather than assumed: Esperanza's own faction membership turns out to be the thinnest and
-  most nominal of the five. Sayowa (a literal three-highway junction), Princess Elisabeth (a genuine
+  most nominal of the five. Temirötkel (a literal three-highway junction), Utstein (a genuine
   demographic and directional crossroads that "never calcified into a defended narrative"), Janbogo (the
   subnet's own literal Arcanet relay-nexus), and Casey (a transit city whose whole function is other people's
   journeys) each hold a real, structural crossroads identity their own Local Robot Culture files built directly
@@ -364,7 +364,7 @@ subnet, no Palmer-subnet sibling yet exists for direct comparison — the same h
 file faced opening the Halley subnet. Two real checks were available and both were run directly rather than
 skipped:
 
-1. **Against the shared "Crossroads People" faction siblings (Sayowa, Janbogo, Casey, Princess Elisabeth, all
+1. **Against the shared "Crossroads People" faction siblings (Temirötkel, Janbogo, Casey, Utstein, all
    already completed) — resolved as a genuine non-match, not assumed safe:** see Cross-Reference Synthesis
    above. None of these four cities' own crossroads-driven Kinship or Locality findings would transplant onto
    Esperanza, and Esperanza's own founding-compact-driven findings wouldn't transplant onto any of them either

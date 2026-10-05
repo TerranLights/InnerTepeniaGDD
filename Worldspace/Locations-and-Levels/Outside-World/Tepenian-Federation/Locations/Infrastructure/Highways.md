@@ -2,7 +2,7 @@
 
 **Purpose:** Dedicated reference for Tepenia's overland highway network — full routes, junctions, and endpoints. Built 2026-07-06 from the corrected Highway Quick Reference in `Cities/City_Relationship_Database.md` §1, which remains the source of truth for any future corrections; update both files together.
 
-**Status:** All highways are pre-Long Night War infrastructure. Post-war, coastal sections are partially or fully non-operational. Inland sections (particularly those connecting Concordia, Byrd, Vostok, and the South Pole ruins) may still be functional or partially maintained.
+**Status:** All highways are pre-Long Night War infrastructure. Post-war, coastal sections are partially or fully non-operational. Inland sections (particularly those connecting Concordia, Byrd, Ariun Nuur, and the South Pole ruins) may still be functional or partially maintained.
 
 **Visual reference:** `Tepenian airport and flight map - highway overlay.jpeg`, in this same folder, shows the full highway network with every confirmed airport (see `Airports.md`) plotted directly on top of it.
 
@@ -54,29 +54,30 @@ Every highway's two endpoints, for fast lookup. "Endpoint" means the physical en
 |---|---|---|
 | **1** | Esperanza | Byrd *(connects directly to Hwy 22's endpoint)* |
 | **2** | Junction with Hwy 110 | Dumont d'Urville *(connects directly to Hwy 183's endpoint)* |
-| **4** | The Sayowa Junction *(connects directly to Hwy 7-ext's endpoint; near, not in, Sayowa)* | Shirayuki *(tri-junction with Hwy 110 and Hwy 22 endpoints)* |
+| **4** | The Temirötkel Junction *(connects directly to Hwy 7-ext's endpoint; near, not in, Temirötkel)* | Shirayuki *(tri-junction with Hwy 110 and Hwy 22 endpoints)* |
 | **7** | Belgrano | Lazar |
-| **7-ext** | Lazar | The Sayowa Junction *(connects directly to Hwy 4's endpoint; near, not in, Sayowa)* |
+| **7-ext** | Lazar | The Temirötkel Junction *(connects directly to Hwy 4's endpoint; near, not in, Temirötkel)* |
 | **22** | Byrd *(connects directly to Hwy 1's endpoint)* | Zhongshan/Sinheung/Shirayuki tri-junction *(with Hwy 4 and Hwy 110 endpoints)* |
-| **37** | The Sayowa Junction *(same three-way convergence point as Hwy 4 and Hwy 7-ext)* | Concordia *(tri-junction with Hwy 110 and Hwy 183 endpoints, via the outer ring)* |
-| **59** | Ramp with Hwy 7, between Halley and Abowasa | Ramp with Hwy 22, farther from South Pole than Hwy 175's ramp |
+| **37** | The Temirötkel Junction *(same three-way convergence point as Hwy 4 and Hwy 7-ext)* | Concordia *(tri-junction with Hwy 110 and Hwy 183 endpoints, via the outer ring)* |
+| **59** | Ramp with Hwy 7, between Halley and Santa Luce | Ramp with Hwy 22, farther from South Pole than Hwy 175's ramp |
 | **110** | Zhongshan *(tri-junction with Hwy 4 and Hwy 22 endpoints)* | Concordia *(tri-junction with Hwy 37 and Hwy 183 endpoints, via the outer ring)* |
 | **175** | Ramp with Hwy 183, near Janbogo | Ramp with Hwy 22, closer to South Pole than Hwy 59's ramp |
 | **183** | Concordia *(tri-junction with Hwy 110 and Hwy 37 endpoints, via the outer ring)* | Dumont d'Urville *(connects directly to Hwy 2's endpoint)* |
-| **Neumayer connector** | Point on Hwy 7, between Abowasa and Sanay | Neumayer |
+| **Neumayer connector** | Point on Hwy 7, between Santa Luce and Sanay | Neumayer |
+| **Halley connecting road** *(added 2026-10-03)* | Point on Hwy 7, near Halley (between Belgrano and Hwy 59's ramp) | Halley |
 
-Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongshan/Sinheung/Shirayuki tri-junction. Three others — 37, 110, and 183 — share one physical endpoint at Concordia. **Corrected 2026-07-06:** a fourth shared point exists too — Hwy 4, Hwy 7-ext, and Hwy 37 all converge at **the Sayowa Junction**, a genuine three-way highway crossing located *near* Sayowa rather than physically inside the city itself. A large dedicated connecting road (the Sayowa Spur) links the city proper to this junction. Every other highway's two endpoints are unique to that highway.
+Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongshan/Sinheung/Shirayuki tri-junction. Three others — 37, 110, and 183 — share one physical endpoint at Concordia. **Corrected 2026-07-06:** a fourth shared point exists too — Hwy 4, Hwy 7-ext, and Hwy 37 all converge at **the Temirötkel Junction**, a genuine three-way highway crossing located *near* Temirötkel rather than physically inside the city itself. A large dedicated connecting road (the Temirötkel Spur) links the city proper to this junction. Every other highway's two endpoints are unique to that highway.
 
 ---
 
 ## Hwy 1 — Rothera Highway ("Palmer Highway")
 
-**Route:** Esperanza *(northern terminus)* → Marambio → *(ramp: road to Port Lockroy; boat to Palmer City)* → *(ramp: road to Rothera)* → Byrd *(western terminus)*
+**Route:** Esperanza *(northern terminus)* → Marambio → *(ramp: road to Puerto Abrigo; boat to Palmer City)* → *(ramp: road to Rothera)* → Byrd *(western terminus)*
 
 **Endpoints:** Esperanza (north) ↔ Byrd (west)
 
 - Northern terminus is **Esperanza**, not Marambio.
-- Port Lockroy, Palmer City, and Rothera are **not main-line stops** — all three are reached via connecting ramps. Palmer City specifically requires a **boat crossing** from its ramp, not a road.
+- Puerto Abrigo, Palmer City, and Rothera are **not main-line stops** — all three are reached via connecting ramps. Palmer City specifically requires a **boat crossing** from its ramp, not a road.
 - Marambio itself sits on the main line, reached via a causeway/bridge chain across the Seymour Island / Snow Hill Island / James Ross Island group and the Prince Gustav Channel.
 - Western terminus (Byrd) **connects directly to Hwy 22's endpoint** there.
 - The only land route connecting the Antarctic Peninsula to the rest of Tepenia.
@@ -100,11 +101,11 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 4 — Mawson-Sinheung Highway
 
-**Route:** The Sayowa Junction → Mawson → Sinheung → *(Shirayuki)*
+**Route:** The Temirötkel Junction → Mawson → Sinheung → *(Shirayuki)*
 
-**Endpoints:** The Sayowa Junction (west) ↔ Shirayuki (east)
+**Endpoints:** The Temirötkel Junction (west) ↔ Shirayuki (east)
 
-- **Corrected 2026-07-06:** the western terminus is **the Sayowa Junction**, a three-way highway crossing (with Hwy 7-ext and Hwy 37) located near Sayowa rather than inside the city itself. A large dedicated connecting road (the Sayowa Spur) links Sayowa proper to this junction.
+- **Corrected 2026-07-06:** the western terminus is **the Temirötkel Junction**, a three-way highway crossing (with Hwy 7-ext and Hwy 37) located near Temirötkel rather than inside the city itself. A large dedicated connecting road (the Temirötkel Spur) links Temirötkel proper to this junction.
 - Far end sits at a **tri-junction** connecting directly to both Hwy 110's and Hwy 22's endpoints.
 - Hitchhiking-valid.
 
@@ -112,11 +113,12 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 7 — Belgrano Highway ("Atlantic Highway")
 
-**Route:** Belgrano → Halley → Abowasa → *(ramp to Neumayer, between Abowasa and Sanay)* → Sanay → Troll → Lazar
+**Route:** Belgrano → *(passes near Halley; connecting road to the city)* → Santa Luce → *(ramp to Neumayer, between Santa Luce and Sanay)* → Sanay → Troll → Lazar
 
 **Endpoints:** Belgrano (west) ↔ Lazar (east)
 
-- Does **not** pass through Neumayer directly — Neumayer is reached via a separate unnamed connector road (ramp located between Abowasa and Sanay).
+- **Halley is NOT a main-line stop. Added 2026-10-03, `[developer ruling]`:** the highway **passes near Halley and reaches it by a connecting road** (see "Halley Connecting Road" below). It cannot run directly *through* the city, because Halley sits on a floating ice shelf whose ice is constantly moving. *(Revises the earlier route listing "Belgrano → Halley → Santa Luce"; the order of the other stops is unchanged.)*
+- Does **not** pass through Neumayer directly — Neumayer is reached via a separate unnamed connector road (ramp located between Santa Luce and Sanay).
 - Atlantic / Queen Maud Land coast spine.
 - Hitchhiking-valid.
 
@@ -124,11 +126,11 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 7-ext — Belgrano Highway Extension
 
-**Route:** Lazar → Princess Elisabeth → The Sayowa Junction
+**Route:** Lazar → Utstein → The Temirötkel Junction
 
-**Endpoints:** Lazar (west) ↔ The Sayowa Junction (east)
+**Endpoints:** Lazar (west) ↔ The Temirötkel Junction (east)
 
-- **Corrected 2026-07-06:** the eastern terminus is **the Sayowa Junction** itself, not Sayowa the city — this is where Hwy 7-ext, Hwy 4, and Hwy 37 all genuinely converge, a three-way crossing located near Sayowa rather than in it. The Sayowa Spur (a large connecting road) links the city proper to this junction.
+- **Corrected 2026-07-06:** the eastern terminus is **the Temirötkel Junction** itself, not Temirötkel the city — this is where Hwy 7-ext, Hwy 4, and Hwy 37 all genuinely converge, a three-way crossing located near Temirötkel rather than in it. The Temirötkel Spur (a large connecting road) links the city proper to this junction.
 - Built **2611–2614** — the only highway with confirmed in-world construction dates.
 - Extends Hwy 7 eastward from its terminus at Lazar.
 
@@ -144,28 +146,28 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 - Passes directly through the South Pole (Amundsen Station).
 - Junctions with Hwy 175 and, separately, a **bidirectional dual-junction with Hwy 37** along its interior stretch.
 - Eastern end is a genuine **tri-junction** connecting directly to both Hwy 4's and Hwy 110's endpoints.
-- Does **not** pass through Sayowa or Mawson directly.
+- Does **not** pass through Temirötkel or Mawson directly.
 - Cross-continent spine from West Antarctica to the East Antarctic coast.
 
 ---
 
 ## Hwy 37 — Mountain Cut Throughway
 
-**Route:** The Sayowa Junction → Dome Fuji → *(dual-junction with Hwy 22, bidirectional)* → Kunlun → **Mountain Pass Airport** → Vostok → Concordia
+**Route:** The Temirötkel Junction → Dome Fuji → *(dual-junction with Hwy 22, bidirectional)* → Kunlun → **Mountain Pass Airport** → Ariun Nuur → Concordia
 
-**Endpoints:** The Sayowa Junction (northeast) ↔ Concordia (southwest)
+**Endpoints:** The Temirötkel Junction (northeast) ↔ Concordia (southwest)
 
-- **Corrected 2026-07-06:** the northeastern terminus is **the Sayowa Junction**, the same three-way crossing point where Hwy 4 and Hwy 7-ext also converge — located near Sayowa, not physically in the city. The Sayowa Spur connects the city itself to this junction.
+- **Corrected 2026-07-06:** the northeastern terminus is **the Temirötkel Junction**, the same three-way crossing point where Hwy 4 and Hwy 7-ext also converge — located near Temirötkel, not physically in the city. The Temirötkel Spur connects the city itself to this junction.
 - **Dome Fuji is a confirmed stop** on this highway *(Dome Fuji's own file previously said "no highway access" — that claim is stale and needs a corresponding fix)*.
-- Kunlun comes before Vostok along this route (order reversed from an earlier, incorrect listing).
-- **Added 2026-07-06 — Mountain Pass Airport:** a waypoint between Kunlun and Vostok, not a city of its own. Confirmed via the developer's own "Tepenian Airport Map" reference image as one of Tepenia's genuine functional airstrips. Positioned to be reasonably accessible to Kunlun, Dome Fuji, Amundsen Station (via the nearby Hwy 22 dual-junction), and Concordia to an extent — a shared regional airfield for the whole Hwy 37 interior corridor. See `Reference/Real-World/Stations/Antarctic_Stations_With_Airstrips.md` for the real-world airstrip research this cross-references against. **Confirmed 2026-07-07:** the outpost here was a joint Vostok-Kunlun venture, manufacturing fabrication-synthesis chambers (part of the nationwide Cradle infrastructure) shipped out via this same highway/airport network — see `Locations/Infrastructure/Airports.md`, `Specs/Vostok.md`, and `Specs/Kunlun.md`. **Historical, not current** — the outpost ran on residual overflow from Amundsen Tower's continent-wide regulated grid, too remote to have its own dedicated power infrastructure; the Tower's destruction ended that supply and the outpost's manufacturing capability permanently, though it's still standing, simply dark rather than destroyed.
+- Kunlun comes before Ariun Nuur along this route (order reversed from an earlier, incorrect listing).
+- **Added 2026-07-06 — Mountain Pass Airport:** a waypoint between Kunlun and Ariun Nuur, not a city of its own. Confirmed via the developer's own "Tepenian Airport Map" reference image as one of Tepenia's genuine functional airstrips. Positioned to be reasonably accessible to Kunlun, Dome Fuji, Amundsen Station (via the nearby Hwy 22 dual-junction), and Concordia to an extent — a shared regional airfield for the whole Hwy 37 interior corridor. See `Reference/Real-World/Stations/Antarctic_Stations_With_Airstrips.md` for the real-world airstrip research this cross-references against. **Confirmed 2026-07-07:** the outpost here was a joint Ariun Nuur-Kunlun venture, manufacturing fabrication-synthesis chambers (part of the nationwide Cradle infrastructure) shipped out via this same highway/airport network — see `Locations/Infrastructure/Airports.md`, `Specs/Ariun_Nuur.md`, and `Specs/Kunlun.md`. **Historical, not current** — the outpost ran on residual overflow from Amundsen Tower's continent-wide regulated grid, too remote to have its own dedicated power infrastructure; the Tower's destruction ended that supply and the outpost's manufacturing capability permanently, though it's still standing, simply dark rather than destroyed.
 - Concordia end **connects directly to both Hwy 110's and Hwy 183's endpoints**, via the outer ring linking Concordia's Capricorn and Sagittarius districts.
 - East Antarctic **plateau** traverse — not through the Transantarctic Mountains.
-- Connects the Indian Ocean coast (via the Sayowa Junction) to the inland stations and Concordia.
+- Connects the Indian Ocean coast (via the Temirötkel Junction) to the inland stations and Concordia.
 - **Hitchhiking: PARTIAL — and in practice this means one place.** `[CGRM 2026-08-31 · Path 6 · developer ruling]`
   Per the node-based rule (see "How hitchhiking actually works in Tepenia," above), a route is hitchhikeable
   only where it has stopping places. **Hwy 37's entire interior length has exactly one: Mountain Pass Airport.**
-  Dome Fuji, Kunlun, and Vostok are cities on the route rather than roadside nodes, and the Hwy 22 dual-junction
+  Dome Fuji, Kunlun, and Ariun Nuur are cities on the route rather than roadside nodes, and the Hwy 22 dual-junction
   is a bare crossing with nothing at it. **So hitchhiking on Hwy 37 is not forbidden, and not roadside-viable
   either — it is a single-point proposition**: you wait at Mountain Pass and you take what stops there.
   Combined with the corridor's own conditions — no resident population along its length, an elevation profile
@@ -180,12 +182,12 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Hwy 59 — Atlantic Throughway ("Arcanet Line")
 
-**Route:** *(ramp with Hwy 7, between Halley and Abowasa)* → *(ramp with Hwy 22, farther from the South Pole than Hwy 175's ramp)*
+**Route:** *(ramp with Hwy 7, between Halley and Santa Luce)* → *(ramp with Hwy 22, farther from the South Pole than Hwy 175's ramp)*
 
-**Endpoints:** Ramp with Hwy 7, between Halley and Abowasa ↔ Ramp with Hwy 22, farther from South Pole than Hwy 175's ramp
+**Endpoints:** Ramp with Hwy 7, between Halley and Santa Luce ↔ Ramp with Hwy 22, farther from South Pole than Hwy 175's ramp
 
 - **Connector highway, not a city-to-city road.**
-- Hwy 7 ramp sits specifically between Halley and Abowasa.
+- Hwy 7 ramp sits specifically between Halley and Santa Luce.
 - Its Hwy 22 ramp is farther from the South Pole than Hwy 175's own ramp with Hwy 22.
 - Also carries the Arcanet cable along its full length.
 - Does not reach the South Pole or Concordia directly.
@@ -235,21 +237,34 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 
 ## Neumayer Connector *(unnamed)*
 
-**Route:** Nearest safe point on Hwy 7, between Abowasa and Sanay → Neumayer
+**Route:** Nearest safe point on Hwy 7, between Santa Luce and Sanay → Neumayer
 
-**Endpoints:** Point on Hwy 7, between Abowasa and Sanay ↔ Neumayer
+**Endpoints:** Point on Hwy 7, between Santa Luce and Sanay ↔ Neumayer
 
 Small connector road; exact organization TBD.
 
 ---
 
-## The Sayowa Spur *(added 2026-07-06)*
+## Halley Connecting Road *(added 2026-10-03)*
 
-**Route:** The Sayowa Junction → Sayowa
+**Route:** Point on Hwy 7, near Halley → Halley
 
-**Endpoints:** The Sayowa Junction ↔ Sayowa
+**Endpoints:** Point on Hwy 7, near Halley ↔ Halley
 
-A large, dedicated connecting road — not a minor ramp like the Neumayer connector — linking Sayowa proper to the Sayowa Junction, the genuine three-way convergence point of Hwy 4, Hwy 7-ext, and Hwy 37. Added once Sayowa's own City Vision Notes session established the city as a real, physically developed industrial/residential city in its own right, rather than a place where the highway junction sits directly downtown. Given the scale of traffic feeding Sayowa's fabrication and trucking/dispatch industries (see `Local_Cultures/Mawson_Subnet/Sayowa.md`), this spur is itself a substantial piece of infrastructure, not an afterthought connector.
+`[developer ruling 2026-10-03]` **Hwy 7 passes near Halley and has a connecting road to it; the highway itself does not go through the city.** The reason is physical: Halley is built on a floating ice shelf whose ice is constantly moving, so a fixed highway cannot run directly through it. The connecting road is the city's only road link, and the same ground movement that kept the highway out applies to the road. *(Consistent with `Ports.md` §5.2, where the same moving ice is the stated reason Halley has no fixed harbor or airstrip.)*
+
+- Hwy 59's ramp with Hwy 7 stays **between Halley and Santa Luce** *(Halley's road leaves Hwy 7 on the Belgrano side of that ramp, or at it; the exact order of the two junctions is not set)*.
+- Exact length, surface and maintenance arrangement are TBD.
+
+---
+
+## The Temirötkel Spur *(added 2026-07-06)*
+
+**Route:** The Temirötkel Junction → Temirötkel
+
+**Endpoints:** The Temirötkel Junction ↔ Temirötkel
+
+A large, dedicated connecting road — not a minor ramp like the Neumayer connector — linking Temirötkel proper to the Temirötkel Junction, the genuine three-way convergence point of Hwy 4, Hwy 7-ext, and Hwy 37. Added once Temirötkel's own City Vision Notes session established the city as a real, physically developed industrial/residential city in its own right, rather than a place where the highway junction sits directly downtown. Given the scale of traffic feeding Temirötkel's fabrication and trucking/dispatch industries (see `Local_Cultures/Mawson_Subnet/Temirotkel.md`), this spur is itself a substantial piece of infrastructure, not an afterthought connector.
 
 ---
 
@@ -258,15 +273,16 @@ A large, dedicated connecting road — not a minor ramp like the Neumayer connec
 | Location | Highways meeting | Notes |
 |---|---|---|
 | Byrd | Hwy 1, Hwy 22 | Both highways' endpoints meet directly |
-| The Sayowa Junction | Hwy 4, Hwy 7-ext, Hwy 37 | **Corrected 2026-07-06:** genuine three-way crossing, located near Sayowa rather than in it; the Sayowa Spur (a large connecting road) links the city itself to this junction |
+| The Temirötkel Junction | Hwy 4, Hwy 7-ext, Hwy 37 | **Corrected 2026-07-06:** genuine three-way crossing, located near Temirötkel rather than in it; the Temirötkel Spur (a large connecting road) links the city itself to this junction |
 | Zhongshan / Sinheung / Shirayuki | Hwy 4, Hwy 22, Hwy 110 | Tri-junction — all three endpoints converge here |
 | Concordia | Hwy 37, Hwy 110, Hwy 183 | Tri-junction via the outer ring linking Concordia's Capricorn and Sagittarius districts |
 | Dumont d'Urville | Hwy 2, Hwy 183 | Both highways' endpoints meet directly |
 | Near Janbogo | Hwy 175, Hwy 183 | Hwy 175's ramp with Hwy 183 sits here, far from Concordia despite Hwy 183 originating there |
 | Interior (between Dome Fuji and Kunlun) | Hwy 22, Hwy 37 | Bidirectional dual-junction |
 | Near South Pole | Hwy 22, Hwy 59, Hwy 175 | Hwy 175's ramp sits closer to the Pole than Hwy 59's |
-| Between Halley and Abowasa | Hwy 7, Hwy 59 | — |
-| Between Abowasa and Sanay | Hwy 7, Neumayer connector | — |
+| Near Halley | Hwy 7, Halley connecting road | **Added 2026-10-03:** Halley is reached by a connecting road off Hwy 7, not a main-line stop (moving ice) |
+| Between Halley and Santa Luce | Hwy 7, Hwy 59 | — |
+| Between Santa Luce and Sanay | Hwy 7, Neumayer connector | — |
 
 ---
 
@@ -284,7 +300,7 @@ Hwy 183 → junction with Hwy 175 (near Janbogo) → Hwy 175 → junction with H
 > **Mirrors what `Airports.md` did on 2026-09-03** *(its "Everything Else Has No Air Access — all 23, named"
 > section, written for exactly this reason)*.
 
-**Juan Carlos · Sejong · Signy** — **and these are exactly and only the three cities whose `Specs/` file
+**Pergamino · Contrapunto · Signy** — **and these are exactly and only the three cities whose `Specs/` file
 carries `**Access type:** NONE`.**
 
 **All three are islands, and in every case the absence was VERIFIED rather than assumed** *(confirmed
@@ -292,8 +308,8 @@ carries `**Access type:** NONE`.**
 
 | City | Island | Why no road is plausible |
 |---|---|---|
-| **Juan Carlos** | Livingston Island, South Shetlands | **110 km** across the Bransfield Strait to the mainland Peninsula; **95.4 km** to Sejong, its nearest Tepenian neighbor. ⛔ **No intermediate island-hopping chain exists**, unlike Marambio's situation |
-| **Sejong** | King George Island, South Shetlands | **160–177 km** from the mainland Peninsula and from Marambio's own causeway landing point |
+| **Pergamino** | Livingston Island, South Shetlands | **110 km** across the Bransfield Strait to the mainland Peninsula; **95.4 km** to Contrapunto, its nearest Tepenian neighbor. ⛔ **No intermediate island-hopping chain exists**, unlike Marambio's situation |
+| **Contrapunto** | King George Island, South Shetlands | **160–177 km** from the mainland Peninsula and from Marambio's own causeway landing point |
 | **Signy** | Signy Island, South Orkneys | ⛔ **The South Orkneys have no overland connection to anything.** A significant sea voyage even from the nearest other Palmer-subnet city |
 
 > ### ⭐ FOR SCALE — **this is not an engineering shortfall**
@@ -304,7 +320,7 @@ carries `**Access type:** NONE`.**
 
 ### ⭐ Two of the three still have air access. **One has neither.**
 
-- **Juan Carlos and Sejong are served by Machu Picchu Airport** — *neither hosts it; both are served by it*
+- **Pergamino and Contrapunto are served by Machu Picchu Airport** — *neither hosts it; both are served by it*
   *(`Airports.md`, "Served, Not Host")*. **No road, but not cut off.**
 - ⛔⛔ **SIGNY HAS NEITHER.** **It appears in neither this file nor in `Airports.md`'s host list or its
   served-via list.** ***It is the only Tepenian city reachable by sea alone.***

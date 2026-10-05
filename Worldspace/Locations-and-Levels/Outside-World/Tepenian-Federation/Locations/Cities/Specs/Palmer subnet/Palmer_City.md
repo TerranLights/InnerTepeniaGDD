@@ -4,7 +4,7 @@
 **Status:** Destroyed (Long Night War) — off-map; referenced in lore throughout Concordia; DLC 3 setting (ruins)
 **Arcanet Subnet:** Palmer ("American") — subnet hub
 **Access type:** SEA-LINK
-**Highway access:** **Corrected 2026-07-06** — Palmer City is not a direct highway stop and never was Hwy 1's terminus (that was always inaccurate — the termini are Esperanza and Byrd). Palmer City sits on Anvers Island, reached via a **boat crossing** from a ramp junction on the Hwy 1 mainline, between Marambio and the Rothera ramp — a road ramp from the same junction reaches Port Lockroy instead. This is consistent with Palmer City's own island geography. See `Locations/Infrastructure/Highways.md`.
+**Highway access:** **Corrected 2026-07-06** — Palmer City is not a direct highway stop and never was Hwy 1's terminus (that was always inaccurate — the termini are Esperanza and Byrd). Palmer City sits on Anvers Island, reached via a **boat crossing** from a ramp junction on the Hwy 1 mainline, between Marambio and the Rothera ramp — a road ramp from the same junction reaches Puerto Abrigo instead. This is consistent with Palmer City's own island geography. See `Locations/Infrastructure/Highways.md`.
 **Significance:** First settled location in the Tepenian Federation; cultural and entertainment capital of pre-war Tepenia
 
 ---
@@ -17,7 +17,7 @@
 > ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **and the terrain finding matters more than the number.**
 > **`**Extent band:** ~40 km².`** **332,808 ÷ 40 km² = 8,320/km²** — *inside the band. Was 137/km² against Anvers Island entire.*
 >
-> ⭐ *Chosen as the center of the 7,000–10,000/km² band that Signy, Marambio, Dumont d'Urville and Sayowa
+> ⭐ *Chosen as the center of the 7,000–10,000/km² band that Signy, Marambio, Dumont d'Urville and Temirötkel
 > reached independently from measured areas.* ⚠ **Stated plainly: 40 km² is derived from the band, NOT from
 > this site.** *Anything in **33–48 km²** is equally defensible; no published ice-free area in km² could be
 > found for this site.*
@@ -54,7 +54,7 @@
 > **364,000 combined — the ONLY documented cap in the corpus.** *Current 332,808 sits **31,192 under** it.*
 > ⭐ **And it is compatible with the extent: at 40 km² the full cap would be 9,100/km², still inside the
 > band.** ***So the ceiling never becomes a physical limit — it stays a DESIGN limit, which is the version
-> worth keeping.*** ⚠ *Unlike Dumont d'Urville's and Sayowa's labels, which were removed because those cities
+> worth keeping.*** ⚠ *Unlike Dumont d'Urville's and Temirötkel's labels, which were removed because those cities
 > turned out never to have been island-confined, this one is kept deliberately.*
 
 | Tier | Nations |

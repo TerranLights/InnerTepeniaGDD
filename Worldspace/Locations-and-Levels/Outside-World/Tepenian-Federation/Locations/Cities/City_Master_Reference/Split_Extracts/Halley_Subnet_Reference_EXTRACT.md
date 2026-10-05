@@ -30,12 +30,12 @@
 > ⋯ lines 16–17 withheld ⋯
 
 - **Two coastal receiving ports for South African freighter shipments:** **Belgrano and Sanay**, interchangeable depending on which passage is open — not a fixed hierarchy. Goods bound for Halley (no docks of its own) are trucked via Hwy 7.
-- **Geological split (3–3, confirmed once all 6 non-Abowasa cities were run):** Ice-shelf, no bedrock — **Halley, Neumayer, Belgrano**. Bedrock-founded — **Sanay, Troll, Lazar**. *(Princess Elisabeth is also bedrock/nunatak but with zero passive wind shelter — a distinct third case.)*
-- **Highway spine:** Hwy 7 runs the Queen Maud Land coast (Belgrano ↔ Sanay ↔ Abowasa ↔ Troll ↔ Lazar), continuing as **Hwy 7-ext (the Belgrano Highway Extension, built 2611–2614)** from Lazar onward through Princess Elisabeth toward Sayowa (Mawson subnet). **Hwy 59** runs south from Halley to Amundsen Station, doubling as the Arcanet cable corridor to the (former) South Pole relay.
+- **Geological split (3–3, confirmed once all 6 non-Santa Luce cities were run):** Ice-shelf, no bedrock — **Halley, Neumayer, Belgrano**. Bedrock-founded — **Sanay, Troll, Lazar**. *(Utstein is also bedrock/nunatak but with zero passive wind shelter — a distinct third case.)*
+- **Highway spine:** Hwy 7 runs the Queen Maud Land coast (Belgrano ↔ Sanay ↔ Santa Luce ↔ Troll ↔ Lazar), continuing as **Hwy 7-ext (the Belgrano Highway Extension, built 2611–2614)** from Lazar onward through Utstein toward Temirötkel (Mawson subnet). **Hwy 59** runs south from Halley to Amundsen Station, doubling as the Arcanet cable corridor to the (former) South Pole relay.
 
 > ⋯ lines 21–22 withheld ⋯
 
-- **⚠ Database gap pattern (3 instances found):** `City_National_Connections.md` omits Neumayer↔Sanay, Neumayer↔Troll, Neumayer↔Belgrano, Troll↔Lazar, and Lazar↔Princess Elisabeth in one direction or entirely, despite the Specs/Local_Cultures files on both sides independently asserting the relationship (usually via shared highway). Flagged in the Robot Culture files as **a database omission, not an absent relationship** — worth a consolidated fix.
+- **⚠ Database gap pattern (3 instances found):** `City_National_Connections.md` omits Neumayer↔Sanay, Neumayer↔Troll, Neumayer↔Belgrano, Troll↔Lazar, and Lazar↔Utstein in one direction or entirely, despite the Specs/Local_Cultures files on both sides independently asserting the relationship (usually via shared highway). Flagged in the Robot Culture files as **a database omission, not an absent relationship** — worth a consolidated fix.
 
 > ⋯ lines 24–29 withheld ⋯
 
@@ -89,7 +89,7 @@
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Neumayer entry elsewhere in the file).
-- **Highways.md L66, L119, L238, L240** — the **Neumayer Connector**, an unnamed dedicated road off Hwy 7, between Abowasa and Sanay. Not on the Hwy 7 main line.
+- **Highways.md L66, L119, L238, L240** — the **Neumayer Connector**, an unnamed dedicated road off Hwy 7, between Santa Luce and Sanay. Not on the Hwy 7 main line.
 
 > ⋯ lines 76–78 withheld ⋯
 
@@ -138,12 +138,12 @@
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. **No docks/airstrip is a deliberate design choice per this file's own canon facts** (ice-shelf relocation risk) — consistent with the source list.
-- **Highways.md L115** — on the **Hwy 7 (Belgrano Highway)** main line, **between Belgrano and {{Abowasa}}** — the first stop east of Hwy 7's western terminus.
-- **Highways.md L20, L62, L181–191** — **⭐ HWY 59's NORTHERN RAMP sits between Halley and {{Abowasa}}**, and Hwy 59 *"also carries the Arcanet cable along its full length"* south to Amundsen Station. Halley is the populated city at the northern end of that corridor.
+- **Highways.md L115** — on the **Hwy 7 (Belgrano Highway)** main line, **between Belgrano and Santa Luce** — the first stop east of Hwy 7's western terminus.
+- **Highways.md L20, L62, L181–191** — **⭐ HWY 59's NORTHERN RAMP sits between Halley and Santa Luce**, and Hwy 59 *"also carries the Arcanet cable along its full length"* south to Amundsen Station. Halley is the populated city at the northern end of that corridor.
 
 > ⋯ lines 124–126 withheld ⋯
 
-## {{Abowasa}}
+## Santa Luce
 
 > ⋯ lines 128–128 withheld ⋯
 
@@ -156,11 +156,11 @@
 
 > ⋯ lines 133–133 withheld ⋯
 
-| Specs | `Specs/Abowasa.md` | ✅ |
-| Local Culture | `Local_Cultures/Halley_Subnet/Abowasa.md` | ✅ |
+| Specs | `Specs/Santa_Luce.md` | ✅ |
+| Local Culture | `Local_Cultures/Halley_Subnet/Santa_Luce.md` | ✅ |
 | Robot Culture | **none** — deliberately deferred | ⏸️ |
-| Vision Notes | `City_Vision_Notes/Abowasa.md` | ⚠ |
-| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Abowasa.md` | 🛠 |
+| Vision Notes | `City_Vision_Notes/Santa_Luce.md` | ⚠ |
+| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Santa_Luce.md` | 🛠 |
 | Megasheet | `City_Megasheets/Halley_Subnet/Abowasa/` (5 files) | 🔴 |
 
 > ⋯ lines 140–140 withheld ⋯
@@ -168,7 +168,7 @@
 ### ✅ Canon facts
 - **Only jointly-founded city in Tepenia** — Finland and Sweden, across two genuinely separate ~200m-apart stations, absorbed together by the exile community rather than merged pre-war.
 - **Bedrock (nunatak), mainland — not an island.** ~130 km inland, more interior/continental than Neumayer or Sanay. One of the driest Halley-subnet cities.
-- Renamed from "Aboa" to "Abowasa" 2026-07-05, folding both station names in. Demonym: **Abowasian.**
+- Renamed from "Aboa" to "Santa Luce" 2026-07-05, folding both station names in. Demonym: **Abowasian.**
 - §15: Technical/scientific 25%, Marine 15%, Commercial 15%, Industrial 15%, Education 15%, Other 15% — genuinely modest, no dominant sector (small-scale economy explicitly noted).
 
 > ⋯ lines 146–146 withheld ⋯
@@ -178,14 +178,14 @@
 > ⋯ lines 148–151 withheld ⋯
 
 ### Open threads
-- Whether the Finnish-Swedish dynamic merged, stayed distinct, or hybridized; why Abowasa survived partially rather than fully; economy detail; two placeholder holidays.
-- **⭐ Division-of-Industry note:** ruled 2026-09-02 as a commuter-labor exporter (10%, {{Abowasa}} named in the same breath as Halley's own 5–10% commuter range in `05`), estimate not canon-sourced.
+- Whether the Finnish-Swedish dynamic merged, stayed distinct, or hybridized; why Santa Luce survived partially rather than fully; economy detail; two placeholder holidays.
+- **⭐ Division-of-Industry note:** ruled 2026-09-02 as a commuter-labor exporter (10%, Santa Luce named in the same breath as Halley's own 5–10% commuter range in `05`), estimate not canon-sourced.
 
 > ⋯ lines 155–155 withheld ⋯
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md** — not named directly; not covered by the L25 highway-only list either (falls under "and others"). No airport recorded either way.
-- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Halley and Sanay. **L62, L188 — Hwy 59's southern ramp sits between Halley and Abowasa**, just west of the city. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Abowasa and Sanay**, just past Abowasa.
+- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Halley and Sanay. **L62, L188 — Hwy 59's southern ramp sits between Halley and Santa Luce**, just west of the city. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Santa Luce and Sanay**, just past Santa Luce.
 
 > ⋯ lines 159–161 withheld ⋯
 
@@ -280,7 +280,7 @@
 
 > ⋯ lines 247–247 withheld ⋯
 
-- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Abowasa and Troll. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Abowasa and Sanay**, just before the city.
+- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Santa Luce and Troll. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Santa Luce and Sanay**, just before the city.
 
 > ⋯ lines 249–251 withheld ⋯
 
@@ -330,7 +330,7 @@
 
 > ⋯ lines 295–297 withheld ⋯
 
-## Princess Elisabeth
+## Utstein
 
 > ⋯ lines 299–299 withheld ⋯
 
@@ -343,11 +343,11 @@
 
 > ⋯ lines 304–304 withheld ⋯
 
-| Specs | `Specs/Princess_Elisabeth.md` | ✅ |
-| Local Culture | `Local_Cultures/Halley_Subnet/Princess_Elisabeth.md` — present-tense pre-war culture per standard methodology | ✅ |
-| Robot Culture | `Local_Robot_Culture/Halley_Subnet/Princess_Elisabeth.md` | ✅ (provisional) |
-| Vision Notes | `City_Vision_Notes/Princess_Elisabeth.md` | ⚠ |
-| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Princess_Elisabeth.md` | 🛠 |
+| Specs | `Specs/Utstein.md` | ✅ |
+| Local Culture | `Local_Cultures/Halley_Subnet/Utstein.md` — present-tense pre-war culture per standard methodology | ✅ |
+| Robot Culture | `Local_Robot_Culture/Halley_Subnet/Utstein.md` | ✅ (provisional) |
+| Vision Notes | `City_Vision_Notes/Utstein.md` | ⚠ |
+| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Utstein.md` | 🛠 |
 | Megasheet | `City_Megasheets/Halley_Subnet/Princess_Elisabeth/` (5 files) | 🔴 |
 
 > ⋯ lines 311–311 withheld ⋯
@@ -373,8 +373,8 @@
 > ⋯ lines 335–335 withheld ⋯
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Princess Elisabeth entry elsewhere in the file).
-- **Highways.md L127** — on the **Hwy 7-ext (Belgrano Highway Extension)** route, between Lazar and the Sayowa Junction. Built 2611–2614 — the only highway with confirmed in-world construction dates.
+- **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Utstein entry elsewhere in the file).
+- **Highways.md L127** — on the **Hwy 7-ext (Belgrano Highway Extension)** route, between Lazar and the Temirötkel Junction. Built 2611–2614 — the only highway with confirmed in-world construction dates.
 
 > ⋯ lines 339–341 withheld ⋯
 

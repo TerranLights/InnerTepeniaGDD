@@ -68,9 +68,9 @@ account for.*
   strong local texture (genuine personal familiarity, not just role-based egalitarianism). The Fragmentation
   Matrix checked and found not to apply.
 - **Additional candidate inputs used:** Community Infrastructure (above). City Enneagram Personality (Feeling/
-  Withdrawn/Positive Outlook — shared with **Port Lockroy** per the Mega-Init's own cross-reference, "present-
-  tense domestic life" vs. Port Lockroy's "past-tense heritage warmth," flagged forward for a real Swap Test
-  check once Port Lockroy is run). City Vision Notes (2026-07-05 session) confirmed the residential-first
+  Withdrawn/Positive Outlook — shared with **Puerto Abrigo** per the Mega-Init's own cross-reference, "present-
+  tense domestic life" vs. Puerto Abrigo's "past-tense heritage warmth," flagged forward for a real Swap Test
+  check once Puerto Abrigo is run). City Vision Notes (2026-07-05 session) confirmed the residential-first
   footprint directly. Historical Vignettes & Course of Events did substantial work — "The Vote Māui Won by
   Staying Modest" (the founding choice to stay small was genuinely *contested*, not a passive default, won by
   a real but not overwhelming margin), "The Instrument Fort McMurdo Couldn't Calibrate Itself" (the origin of
@@ -297,7 +297,7 @@ depend on or reduce to Fort McMurdo's internal crew-trust ethic at all — the t
 mechanisms are genuinely different in kind, not scaled versions of the same thing. Checked against Janbogo
 (already completed, same subnet): Janbogo's hospitality-and-teahouse economy shares nothing structurally with
 Scott's small-town personal-familiarity register, and neither city's findings would transplant onto the
-other. **Flagged forward, not resolved here:** Port Lockroy (an independently-flagged shared Enneagram profile,
+other. **Flagged forward, not resolved here:** Puerto Abrigo (an independently-flagged shared Enneagram profile,
 "present-tense domestic life" vs. "past-tense heritage warmth," unrun) and Signy (a genuine, slow-built
 relationship this file itself surfaced, unrun) — both genuine future re-checks once actually run, not assumed
 safe in advance.

@@ -41,7 +41,7 @@ faction aside long enough to do the job in front of her.*
   culture but applied to flight operations rather than research"), §18 (St. Roald veneration plus a shared
   secular competence-as-pride ethic), §19 (whichever faction doesn't currently hold the airfield functions as
   Troll's own organized counterculture), §21 (tense, consequential politics — real stakes for the whole
-  subnet, not just Troll), §23 (Halley as subnet hub via Hwy 7; Lazar and Princess Elisabeth connected via the
+  subnet, not just Troll), §23 (Halley as subnet hub via Hwy 7; Lazar and Utstein connected via the
   subnet's coastal/interior highway network, with Troll's airfield giving it "outsized logistical importance
   to both" — flagged forward, see Swap Test; every other Halley subnet city structurally dependent on whoever
   controls Troll Airfield), §24 (heavily practical Arcanet use, increasingly dominated by the airfield dispute
@@ -119,8 +119,8 @@ faction aside long enough to do the job in front of her.*
   direct re-reads of Sanay's, Neumayer's, and Belgrano's own already-completed files, since all three
   explicitly flagged Troll forward as a real, unresolved risk. `Robot_Physiology_and_Cultural_Practices.md`
   read in full, not just for Glitch-Coolant — its own Cradle section is where Troll's absence from every
-  manufacturing tier is actually confirmed. The remaining Halley-subnet cities (Lazar, Princess Elisabeth, and
-  the deferred Abowasa) haven't been run yet — several findings below are flagged forward, especially given
+  manufacturing tier is actually confirmed. The remaining Halley-subnet cities (Lazar, Utstein, and
+  the deferred Santa Luce) haven't been run yet — several findings below are flagged forward, especially given
   §23's own claim that Troll's airfield gives it "outsized logistical importance" to both Lazar and Princess
   Elisabeth, a tie neither file has yet confirmed from its own side.
 
@@ -186,7 +186,7 @@ localize per city.*
 
 - **[Directly-inherited, Deep]** "Competence is leverage, converted into control of the thing that matters"
   (Catalog Synthesis Notes) is already established as Troll's own sharper, more overtly political variant of
-  the "Competence Without Commentary" faction it shares with Sanay and Abowasa. Per the city's own established
+  the "Competence Without Commentary" faction it shares with Sanay and Santa Luce. Per the city's own established
   identity, there is explicitly no neutral path here — residents eventually take a position on who controls
   the airfield (§28, "there's no neutral, uninvolved way to actually live here long-term").
 - **[Directly-inherited, Deep]** A genuinely unusual civic-governance structure, distinct from every other
@@ -478,7 +478,7 @@ resolved through real temperament and structural contrast rather than assumed sa
    together, and here they don't.
 
 **Genuinely unresolved risk still ahead, not assumed safe:** Troll's own §23 explicitly names Lazar and
-Princess Elisabeth as connected via the subnet's coastal/interior highway network, with Troll's airfield
+Utstein as connected via the subnet's coastal/interior highway network, with Troll's airfield
 giving it "outsized logistical importance to both" — a real, established tie neither file has yet confirmed
-from its own side. Both remain untouched and unassumed either way; the still-deferred Abowasa remains paused
+from its own side. Both remain untouched and unassumed either way; the still-deferred Santa Luce remains paused
 pending its own founding-nation fix.

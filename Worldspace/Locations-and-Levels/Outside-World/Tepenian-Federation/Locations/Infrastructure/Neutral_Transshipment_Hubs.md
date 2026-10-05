@@ -11,8 +11,8 @@
 > ***"The closest land connections would be: French Southern and Antarctic Lands, and Heard Island and
 > McDonald Islands. Both of those would serve as viable politically-neutral shipping hubs that Tepenia could
 > work out arrangements with in order to (indirectly) trade with both Australia and South Africa. The city of
-> Sayowa is also geographically near enough (along with Mawson, even though that's a resort town with more
-> fishing), which means that Sayowa, Davis, and the Tri-Cities could all equally benefit from the French
+> Temirötkel is also geographically near enough (along with Mawson, even though that's a resort town with more
+> fishing), which means that Temirötkel, Davis, and the Tri-Cities could all equally benefit from the French
 > Southern and Antarctic Lands and Heard Island and McDonald Islands."***
 
 **Developer-supplied references:**
@@ -55,7 +55,7 @@ feedstock and metal are the obvious candidates from the constraint list, but the
 
 | City | Note |
 |---|---|
-| **Sayowa** | *"Geographically near enough"* |
+| **Temirötkel** | *"Geographically near enough"* |
 | **Davis** | ⭐ **The question that raised the ruling** |
 | **The Tri-Cities** | *(shared port at Nella Fjord, primary dominion Sinheung — per `Ports.md`)* |
 | ⚠ **Mawson** | **Named, with a qualifier: *"even though that's a resort town with more fishing."*** ⚠ **Its participation is therefore DIFFERENT IN KIND, not merely smaller** |

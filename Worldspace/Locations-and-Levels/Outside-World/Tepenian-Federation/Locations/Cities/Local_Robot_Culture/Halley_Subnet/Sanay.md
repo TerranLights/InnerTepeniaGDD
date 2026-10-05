@@ -36,7 +36,7 @@ was built to prove: that taking real damage and staying functional are not the s
   "similar in spirit to Neumayer's engineering-competence culture but applied to recovery rather than
   research"), §18 (Religious/Philosophical — no dominant formal religion; the closest shared value is a quiet,
   practical philosophy of endurance; a specific, understated pride in the bedrock foundation as evidence the
-  city's continued existence was earned through structural fact, not luck), §23/§25 (Relationships — Abowasa
+  city's continued existence was earned through structural fact, not luck), §23/§25 (Relationships — Santa Luce
   and Troll as direct Hwy 7 neighbors; Neumayer as the likely, non-adjacent source of the German demographic
   wave; Troll specifically tied to Sanay's own material stake in the airfield contest), §24 (Arcanet Culture —
   modest and practical day-to-day, "the one major exception is the subnet's actual technical relay nexus
@@ -93,7 +93,7 @@ was built to prove: that taking real damage and staying functional are not the s
   'slightly-better-for-robots' baseline the docks still run on generations later, later generalized
   project-wide") fed specific findings below, all flagged as non-canon candidate material. `City_National_
   Connections.md` confirms Strong ties to Halley (Infrastructure/Political), Belgrano (Logistics), and Troll
-  (Logistics), plus a Medium/Infrastructure tie to Abowasa; Neumayer isn't a direct highway neighbor but is the
+  (Logistics), plus a Medium/Infrastructure tie to Santa Luce; Neumayer isn't a direct highway neighbor but is the
   likely, independently-confirmed source of Sanay's own demographic-outlier German Primary tier. District
   Refugee Diaspora Composition not used — Sanay is a standalone subnet city.
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs (`Sanay_Full_Extrapolation.md`,
@@ -102,7 +102,7 @@ was built to prove: that taking real damage and staying functional are not the s
   repo-wide grep for "Sanay" → a full, direct re-read of Halley's own already-completed file, since Halley's own
   material repeatedly names and depends on Sanay specifically, and Halley's own checklist entry explicitly
   flagged Sanay for real re-checks once run. The remaining Halley-subnet cities (Belgrano, Neumayer, Princess
-  Elisabeth, Troll, Lazar, and the deferred Abowasa) haven't been run yet — several findings below are flagged
+  Elisabeth, Troll, Lazar, and the deferred Santa Luce) haven't been run yet — several findings below are flagged
   forward, especially Neumayer and Troll given how load-bearing both already are to Sanay's own material.
 
 ---
@@ -233,7 +233,7 @@ localize per city.*
 
 ### 7. Sexuality & Courtship — Local Customs
 
-- **[Adapted, Deep]** Distinct from Vostok's own Window Courtesy-based courtship signal (which costs task
+- **[Adapted, Deep]** Distinct from Ariun Nuur's own Window Courtesy-based courtship signal (which costs task
   efficiency): given Sanay's own reliability-earns-trust civic logic (§Catalog Deep Culture, "Friendship,
   leadership: earned through demonstrated reliability across freighter cycles"), a plausible local courtship
   signal is covering someone else's rotation slot without being asked — a direct, tangible sacrifice of one's
@@ -383,4 +383,4 @@ Cradle's current fabrication-chamber schematic; a real, load-bearing, still-uncr
 potency register that needs checking against Troll's own once run), and Belgrano (Strong Logistics tie, the
 subnet's other receiving port — worth checking for shift-rhythm and Glitch-Coolant parity or contrast) are all
 flagged directly for real re-checks once run, the same discipline Halley's own file applied to Sanay. Princess
-Elisabeth, Lazar, and the still-deferred Abowasa remain untouched and unassumed either way.
+Elisabeth, Lazar, and the still-deferred Santa Luce remain untouched and unassumed either way.

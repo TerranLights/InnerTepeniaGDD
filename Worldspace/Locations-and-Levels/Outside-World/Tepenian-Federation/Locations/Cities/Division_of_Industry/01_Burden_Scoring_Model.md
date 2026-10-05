@@ -41,7 +41,7 @@ built thirty-six identical economies.**
 
 **Necessary industries do not differentiate cities by their presence. They differentiate by their difficulty.**
 
-Every city needs water. What differs is **what water costs *this* city.** At Vostok — −55 °C annual mean,
+Every city needs water. What differs is **what water costs *this* city.** At Ariun Nuur — −55 °C annual mean,
 3,488 m, deep interior — water is a completely different industry from the one Cape Adare runs at sea level on
 an open coast. Same necessity; different economy, different prestige structure, different way to die.
 
@@ -165,9 +165,9 @@ uncapped but must be earned"). **Weirdness is not chosen here; it is what is lef
 | City | Externalization | Why |
 |---|---|---|
 | **Scott** | moderate | Adjacent to Fort McMurdo, shares a municipal border — **daily commute**, residents sleep at home |
-| **`{{Abowasa}}`** | **high** | Halley and Neumayer both far in either direction — **forces multi-day rotation**, 1–3 weeks away, 1–2 weeks home |
+| **`Santa Luce`** | **high** | Halley and Neumayer both far in either direction — **forces multi-day rotation**, 1–3 weeks away, 1–2 weeks home |
 
-> **⭐ Already visible in the corpus, un-noticed.** The sweep's matrix records `{{Abowasa}}` as
+> **⭐ Already visible in the corpus, un-noticed.** The sweep's matrix records `Santa Luce` as
 > **`Health . · Constr . · Food . · Educ Y · Admin . · Utils .`** — **five of six absent, and the one present
 > is the school.** That is exactly the predicted signature of a rotational-residence city, sitting in canon
 > before anyone proposed the mechanism. **Children do not rotate**, so education's share of *in-city* labor is
@@ -187,18 +187,18 @@ format decision, not settled by this model.**
 ## The predicted envelope
 
 > ### **BaselineLoad ranges ~40% → ~75%.**
-> **~40–45%** — mild, coastal, connected, mature, intact. *(Cape Adare, Esperanza, Port Lockroy.)*
+> **~40–45%** — mild, coastal, connected, mature, intact. *(Cape Adare, Esperanza, Puerto Abrigo.)*
 > **~55–65%** — the fat middle where most of the 36 live.
-> **~70–75%** — extreme, isolated, high-altitude, sealed. *(Vostok, Kunlun, Dome Fuji.)*
+> **~70–75%** — extreme, isolated, high-altitude, sealed. *(Ariun Nuur, Kunlun, Dome Fuji.)*
 
-**That single number is itself the differentiator.** "Vostok 73% / Cape Adare 42%" tells a reader everything
+**That single number is itself the differentiator.** "Ariun Nuur 73% / Cape Adare 42%" tells a reader everything
 about both cities before reading a word of prose — **the cost of existing there, stated as a number.**
 
 ---
 
-# 6. Worked example — Vostok, and why this fixes the sweep's §3 for free
+# 6. Worked example — Ariun Nuur, and why this fixes the sweep's §3 for free
 
-**Vostok's drivers:** isolation ~1.9 · cold 2.0 (−55 °C, the harshest in the corpus) · altitude 1.5 (3,488 m) ·
+**Ariun Nuur's drivers:** isolation ~1.9 · cold 2.0 (−55 °C, the harshest in the corpus) · altitude 1.5 (3,488 m) ·
 interior 1.3 · enclosure 1.4 · polar night 1.3 · wind ~1.1 *(plateau interior, not katabatic-coastal)*.
 **Near the ceiling on nearly every axis. BaselineLoad ≈ 72–75%.**
 
@@ -208,23 +208,23 @@ interior 1.3 · enclosure 1.4 · polar night 1.3 · wind ~1.1 *(plateau interior
 | Self-sufficiency / survival | 25% *(un-itemized)* | **→ becomes the 72–75% baseline, itemized** |
 | Other | 10% | folded |
 
-**Sanity check against the anchor:** McMurdo — coastal, sea level, −17 °C — really runs ~34% mission. **Vostok
+**Sanity check against the anchor:** McMurdo — coastal, sea level, −17 °C — really runs ~34% mission. **Ariun Nuur
 is far harsher than McMurdo on every axis.** A *lower* mission share than McMurdo's is therefore exactly the
 expected result, not a diminishment.
 
 > ## ⭐ This dissolves the sweep's §3 without a separate pass.
 >
-> The sweep flagged four "purpose-dominant" cities (Vostok 65% science, Kunlun 60% astronomy, Dome Fuji 75% in
+> The sweep flagged four "purpose-dominant" cities (Ariun Nuur 65% science, Kunlun 60% astronomy, Dome Fuji 75% in
 > two sectors, Scott) as *"plausible, but leaves almost nothing for ordinary life,"* and treated it as a
-> distinct problem from §4's missing sectors. **They are the same problem.** Vostok cannot be 65% science
+> distinct problem from §4's missing sectors. **They are the same problem.** Ariun Nuur cannot be 65% science
 > *precisely because* an isolated −55 °C plateau outpost spends three-quarters of its labor on continuing to
 > exist. **The missing necessary sectors are exactly what the thematic sectors crowded out.** Compute burden
 > honestly and §3 resolves itself.
 >
-> **And Vostok's identity survives intact**: at ~24% science is still, overwhelmingly, its dominant distinctive
+> **And Ariun Nuur's identity survives intact**: at ~24% science is still, overwhelmingly, its dominant distinctive
 > sector. **It stops being the whole city and becomes the point of it.**
 
-**Vostok's §15 already contains the seed of all of this** — `Self-sufficiency / survival infrastructure: 25%`.
+**Ariun Nuur's §15 already contains the seed of all of this** — `Self-sufficiency / survival infrastructure: 25%`.
 **One city already invented this concept; the model generalizes and itemizes it.** This is derivation from
 existing canon, not imposition on it.
 
@@ -235,7 +235,7 @@ existing canon, not imposition on it.
 ```markdown
 ## 15. Division of Industry
 
-**Baseline civic load: 73%** — what Vostok spends simply remaining habitable
+**Baseline civic load: 73%** — what Ariun Nuur spends simply remaining habitable
  - Thermal & power: 19%
  - Water & sanitation (ice-melt, closed-loop): 11%
  - Enclosure & atmosphere integrity: 9%
@@ -281,7 +281,7 @@ city's established identity is not rewritten — it is given an honest denominat
 
 | City | Stresses |
 |---|---|
-| **Vostok** | the burden ceiling |
+| **Ariun Nuur** | the burden ceiling |
 | **Kunlun** | the necessity function — 0 humans should produce a structurally different row set, not a smaller one |
 | **Cape Adare** *(or Esperanza)* | the burden floor; already best-covered at 2/6 |
 | **Casey** *(or Neumayer)* | **the ordinary middle — not optional** |
@@ -303,8 +303,8 @@ wrong across the fat middle where 30 of the 36 actually live.
 # 9. Honest status
 
 **Unexercised.** No city has been run through this. The weights in §3 are reasoned from the register and
-anchored in §5's research, **but not one of them has been checked against a real city's data.** The Vostok
-figures in §6 are a hand-worked illustration of the method, **not a proposed edit to Vostok's file.**
+anchored in §5's research, **but not one of them has been checked against a real city's data.** The Ariun Nuur
+figures in §6 are a hand-worked illustration of the method, **not a proposed edit to Ariun Nuur's file.**
 
 **Nothing in this model may be deposited into any city file until the pilot has passed its own falsification
 test.**

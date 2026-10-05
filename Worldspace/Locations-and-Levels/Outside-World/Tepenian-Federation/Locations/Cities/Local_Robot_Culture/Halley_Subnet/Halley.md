@@ -2,7 +2,7 @@
 
 **Run #20 of the Local Robot Culture Methodology, 2026-08-10 — first city of the Halley Subnet.** Applies the
 shared-experience-first Kinship framing and the corrected two-slot Solar-symbol/Robo-Element check from the
-start. Abowasa deliberately deferred within this subnet, pending its own developer-flagged founding-nation
+start. Santa Luce deliberately deferred within this subnet, pending its own developer-flagged founding-nation
 consistency fix (see Reference Note). Provisional — findings are proposals for developer review, not asserted
 canon.
 
@@ -86,7 +86,7 @@ more than the right to keep its own name on the map.*
   directly, given the load-bearing Sanay relationship and Strong ties to Neumayer and Amundsen Station → a
   light cross-check against Mirny's own already-completed file, the closest already-run comparison for an
   engineering-driven, collective-decision-making civic register. The other 7 Halley-subnet cities (Belgrano,
-  Neumayer, Princess Elisabeth, Sanay, Troll, Lazar, and the deferred Abowasa) haven't been run yet — several
+  Neumayer, Utstein, Sanay, Troll, Lazar, and the deferred Santa Luce) haven't been run yet — several
   findings below are flagged forward for real re-checks once they are, especially Sanay and Neumayer given how
   load-bearing both already are to this file's own material.
 
@@ -263,14 +263,14 @@ localize per city.*
 - **Existing figures whose robot/human status this pass had to leave open:** none proposed — no named figures
   native to Halley itself exist anywhere in the gathered material (only Salagéa Aparast, a Belgrano native who
   visits as one port among several), and inventing placeholder figures isn't this methodology's job.
-- **Developer-facing data-integrity note, not a culture finding:** Abowasa was deliberately excluded from this
-  subnet's sequence, not overlooked. `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` itself already excludes Abowasa
+- **Developer-facing data-integrity note, not a culture finding:** Santa Luce was deliberately excluded from this
+  subnet's sequence, not overlooked. `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md` itself already excludes Santa Luce
   "pending its own founding-nation fix" — confirmed via direct research as a real, developer-flagged
-  consistency debt (the same bug class as Sejong's Hangul-continuity issue): Abowasa's entire premise rests on
+  consistency debt (the same bug class as Contrapunto's Hangul-continuity issue): Santa Luce's entire premise rests on
   a "Finnish and Swedish exiles, jointly" founding population that the project's own established First
   Interwar Period turnover history doesn't actually support surviving intact to Tepenian founding. The fix's
   scope touches the city's name, demonym, headline "dual-national character" trait, and its Turku Remembrance
-  holiday — not a small patch. Running this methodology on Abowasa now would very plausibly need a full redo
+  holiday — not a small patch. Running this methodology on Santa Luce now would very plausibly need a full redo
   once that fix lands; deferring it later in this subnet's sequence, or until the fix is actioned, is the
   safer order.
 - **New landmark/event/figure candidates surfaced but not resolved here:** none beyond what's noted above.

@@ -36,7 +36,7 @@ risk smaller.
 > ⭐ **Filled because `00_RUNBOOK.md` §C.6 requires it:** *"a location pass touching industry must check whether
 > this table has been filled for its subject, and fill it if not."*
 
-**Pilot set:** Vostok · Kunlun · Cape Adare *(or Esperanza)* · Casey *(or Neumayer)*.
+**Pilot set:** Ariun Nuur · Kunlun · Cape Adare *(or Esperanza)* · Casey *(or Neumayer)*.
 **Falsification test, declared in advance:** *if the pilot's four columns read alike, the instrument is broken
 and the run stops.* See `01_Burden_Scoring_Model.md` §8.
 
@@ -47,7 +47,7 @@ and the run stops.* See `01_Burden_Scoring_Model.md` §8.
 **One row per LINE industry from `00_Necessary_Industries_Register.md`, plus the LAW G row.** Folded industries
 get a row only where a city surfaces them.
 
-| Industry | Vostok | Kunlun | Cape Adare | Casey | ⭐ **Sinheung** | ⭐ **Shirayuki** | *(…30 more)* |
+| Industry | Ariun Nuur | Kunlun | Cape Adare | Casey | ⭐ **Sinheung** | ⭐ **Shirayuki** | *(…30 more)* |
 |---|---|---|---|---|---|---|---|
 | **A1 Thermal & power** | | | | | grid-fed; no local anomaly | |grid-fed; no local anomaly | |
 | **A2 Water & sanitation** | | | | | **meltwater**, not ice-melt — two months of running surface, ten dry | |oasis meltwater, shared with the cluster | |

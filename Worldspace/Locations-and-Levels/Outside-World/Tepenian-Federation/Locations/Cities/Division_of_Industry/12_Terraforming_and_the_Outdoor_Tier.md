@@ -254,9 +254,9 @@ low altitudes near the coast, especially along the Peninsula"*:
 
 | Region | Ice-free area | Belt allocation | Serves |
 |---|--:|--:|---|
-| **Antarctic Peninsula + offshore islands** | **8,000 km²** *(14% of national ice-free)* | **~700 km²** | Palmer subnet — Esperanza, Palmer City, Rothera, Juan Carlos, Sejong, Signy, Port Lockroy, Marambio |
+| **Antarctic Peninsula + offshore islands** | **8,000 km²** *(14% of national ice-free)* | **~700 km²** | Palmer subnet — Esperanza, Palmer City, Rothera, Pergamino, Contrapunto, Signy, Puerto Abrigo, Marambio |
 | **East Antarctic coastal oases** — Vestfold **400 km²**, Larsemann **~40 km²**, Schirmacher **34 km²** | part of East Antarctica's **30,400 km²** *(55%)* | **~400 km²** | Mirny subnet — Davis, the Tri-Cities; and Lazar |
-| **Bunger Hills** *(the largest single oasis)* | **450–942 km²** | **~400 km²** | {{Bunger Hills City}}, Mirny, Casey |
+| **Bunger Hills** *(the largest single oasis)* | **450–942 km²** | **~400 km²** | Relung Panen, Mirny, Casey |
 
 > ### ⭐ **Distributing it is not a convenience — it is the reason 1,500 km² is safe.**
 > **A single Peninsula belt fails as one unit: one bad summer, one weather system, one famine.** Three regions

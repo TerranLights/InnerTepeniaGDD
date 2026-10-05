@@ -13,7 +13,7 @@
 **Two established facts collide, and the institutes are what falls out of the collision:**
 
 1. **Care delivery cannot be centralized.** Tepenian cities sit 1,000+ km apart across lethal terrain. Nobody
-   treats a Vostok patient from Concordia. **Every city staffs its own clinicians, always.**
+   treats a Ariun Nuur patient from Concordia. **Every city staffs its own clinicians, always.**
 2. **Tepenia cannot evacuate a patient off-continent — so it cannot import a trained clinician either.**
    There is no foreign residency to send someone to and no outside profession to recruit from.
 
@@ -95,8 +95,8 @@ of them.** Three steps, and the last one is not mechanical.
 `[CGRM 2026-09-01 · Path 6 · developer ruling]`
 
 **The Mountain Pass outpost** — the historical third chamber-manufacturing site, on Hwy 37 midway between
-Vostok and Kunlun — **began as an act of solidarity from the Tri-Cities, pushed for by this Institute.**
-*(Sinheung pushed and supplied the means; Vostok and Kunlun established and staffed it. See
+Ariun Nuur and Kunlun — **began as an act of solidarity from the Tri-Cities, pushed for by this Institute.**
+*(Sinheung pushed and supplied the means; Ariun Nuur and Kunlun established and staffed it. See
 `Locations/Infrastructure/Airports.md`.)*
 
 **⭐ And the census explains why it was Sinheung that pushed, rather than either neighbor:**
@@ -104,9 +104,9 @@ Vostok and Kunlun — **began as an act of solidarity from the Tri-Cities, pushe
 | | Chinese | Japanese | Korean |
 |---|---|---|---|
 | **Kunlun** | **Primary** | Significant | Significant |
-| **Vostok** | — | **Primary** | Significant |
+| **Ariun Nuur** | — | **Primary** | Significant |
 
-**Zhongshan (China) ties to Kunlun. Shirayuki (Japan) ties to Vostok. Sinheung (Korea) ties to BOTH** — and
+**Zhongshan (China) ties to Kunlun. Shirayuki (Japan) ties to Ariun Nuur. Sinheung (Korea) ties to BOTH** — and
 **Sinheung alone had the industrial means, being one of only two cities that manufacture chambers at all.**
 **Kinship with both, capability to act, and neighbors who were not equally invested.**
 
@@ -228,7 +228,7 @@ later pass will need to answer:
 - **⚠ Does a satellite dilute the bond?** If foundational training happens locally, the cohort-forged identity
   described above weakens. **The resilience argument and the identity argument pull against each other**, and
   the siting decision is where that trade-off gets made.
-- **The plateau problem.** Vostok, Kunlun and Dome Fuji are the cities least able to send students and least
+- **The plateau problem.** Ariun Nuur, Kunlun and Dome Fuji are the cities least able to send students and least
   able to host a campus. **They may simply be permanently dependent — which is a fact worth using rather than
   solving.**
 

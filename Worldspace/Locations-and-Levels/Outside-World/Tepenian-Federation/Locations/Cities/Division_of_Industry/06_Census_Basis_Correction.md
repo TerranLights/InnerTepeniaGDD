@@ -130,10 +130,10 @@ before the war does anything at all.
 
 **Census II has 33 city rows. Census I has 37. Four cities have no Orbital Era figures at all:**
 
-> ## **Byrd · Vostok · Kunlun · Dome Fuji**
+> ## **Byrd · Ariun Nuur · Kunlun · Dome Fuji**
 
 *(Kunlun and Dome Fuji were added to Census I on 2026-07-04 and evidently never propagated; Byrd's and
-Vostok's absence is unexplained.)*
+Ariun Nuur's absence is unexplained.)*
 
 **This does not affect the Division of Industry pass**, which now uses Census I throughout. **But it is a
 genuine hole in the census** and it will bite anything that reads Census II — including the already-deposited
@@ -141,7 +141,7 @@ Cape Adare extent work, which compares against a set missing four cities.
 
 **A canon-sanctioned fix already exists:** Concordia had this exact problem on 2026-07-04 and it was solved by
 applying the **aggregate Census I→II retention rates — `61.23% human, 63.82% robot`.** Applying the same
-method gives **Byrd 235,708 · Vostok 245,068 · Kunlun 78,785 · Dome Fuji 35,147.**
+method gives **Byrd 235,708 · Ariun Nuur 245,068 · Kunlun 78,785 · Dome Fuji 35,147.**
 
 > **⚠ Open question worth a ruling before anyone uses those:** would **Kunlun and Dome Fuji** — robot-only,
 > extreme-altitude, astronomically-purposed — have participated in orbital migration at the national average

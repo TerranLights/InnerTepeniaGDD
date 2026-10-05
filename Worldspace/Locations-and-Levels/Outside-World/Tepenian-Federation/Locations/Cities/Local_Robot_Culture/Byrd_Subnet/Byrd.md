@@ -37,7 +37,7 @@ it is for everyone who inherited the story secondhand.*
   such file in the entire project (80 attributes, 57 Findings). The Five Guildhalls (#63), the vertical
   human/robot residential split (#19–20), St. Richard's Marker (already a fully-established cross-guild ritual
   site per Finding 13), and The Lake (#73–80, added later — Byrd's real emotional landmark per Finding 56,
-  directly cross-referencing Vostok's own genetics program via Charlene) did the most load-bearing work.
+  directly cross-referencing Ariun Nuur's own genetics program via Charlene) did the most load-bearing work.
 - **Input D — Source Inspirations:** `Inspirational-Influences.md` (Red Deer AB, Derinkuyu Turkey, Ruhr
   Valley Germany [all PRIMARY]; Coober Pedy Australia, Shenzhen, Jamshedpur, Chelyabinsk [SECONDARY]; Regina,
   Norilsk, Kiruna [SUPPORTING]) and `Byrd_Catalog.md`'s per-nation material. Derinkuyu (an actual 18-level,

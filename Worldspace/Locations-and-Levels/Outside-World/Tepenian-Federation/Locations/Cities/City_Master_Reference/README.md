@@ -64,13 +64,13 @@ scope for this index by the developer.)*
 
 | Folder | Contents | Use |
 |---|---|---|
-| ⭐⭐ **`Climate Data/Precipitation_Falls_vs_Lands.md`** | **THE precipitation reference.** Four distinct quantities — *falls aloft · reaches the surface · accumulates · gauge-caught* — differing by **more than an order of magnitude**, with the mechanism, the published coefficients, and a falls-vs-lands figure for **all 37 cities** | **Phases 1 and 3; any weather, construction, agriculture or daily-life writing.** ⛔ **READ THIS BEFORE USING ANY PRECIPITATION NUMBER.** *Amundsen Station's gauge reads 2.1 mm against ~70–80 mm of actual accumulation — the gauge catches ~3%.* ⭐ **The controlling variable is WIND, not cold: Vostok and Denison are equally cold and are opposite weather experiences** |
+| ⭐⭐ **`Climate Data/Precipitation_Falls_vs_Lands.md`** | **THE precipitation reference.** Four distinct quantities — *falls aloft · reaches the surface · accumulates · gauge-caught* — differing by **more than an order of magnitude**, with the mechanism, the published coefficients, and a falls-vs-lands figure for **all 37 cities** | **Phases 1 and 3; any weather, construction, agriculture or daily-life writing.** ⛔ **READ THIS BEFORE USING ANY PRECIPITATION NUMBER.** *Amundsen Station's gauge reads 2.1 mm against ~70–80 mm of actual accumulation — the gauge catches ~3%.* ⭐ **The controlling variable is WIND, not cold: Ariun Nuur and Denison are equally cold and are opposite weather experiences** |
 | ⭐ **`Climate Data/Climate_Data_Corpus_Audit_2026-09-04.md`** | The 37-city audit: what was wrong, what was corrected, and per-column provenance policy | Read before trusting any pre-2026-09-04 climate figure |
 | ⭐ **`…/Cities/Research_Logs/Climate_Data_Research_Log.md`** | Every verbatim search string, every source accepted and rejected, every snag, across eight sessions | ⛔ **Check the rejected list before researching climate** — it records which sources are dead ends and why |
 | **`to-be-integrated/climate data CURL/ncei/`** | Raw NCEI GSOM + GHCN-Daily archive data as downloaded | For re-deriving any figure. ⚠ **tenths of a degree; apply the gap rule for outliers** |
 | ⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md`** | What cold costs a robot — recharge, capacity, embrittlement | Phases 3–4, and any Frostlands or high-latitude survival writing |
 | ⭐ **`…/Concordia-City/Concordia_Altitude_and_Atmosphere.md`** | What altitude costs a human at Concordia — no acclimatization; heated, not pressurized | Phases 1, 4, 9; any Concordia human-population writing |
-| ⭐ **`Climate Data/READER/`** *(38 files)* | Per-city monthly mean temperatures — **BAS READER, WMO 1991–2020 standard normals**, each with its climate authority, data period and citation | **`G2`, Phases 1 and 3.** ⛔⛔ **MOST FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE TEPENIAN CITY** — `Aboa.md` *(Abowasa)*, `Princess_Elizabeth.md` *(note the `z`)*, `Sejong.md` *(King Sejong)*. ***A search by city name can return a confident false negative; use the ALIAS SET.*** *(`Bharati_TBD.md` was renamed to `Shirayuki.md` 2026-09-04 — that particular trap is closed.)* ⚠ **Temperature ONLY in most files — no precipitation, no daylight** *(checked 2026-09-03)*; **the four written or rewritten 2026-09-04** — `Denison` *(created)*, `Shirayuki`, `Port_Lockroy`, `Juan_Carlos` — **also carry precipitation, daylight and proxy provenance.** **Denison's gap is closed.** |
+| ⭐ **`Climate Data/READER/`** *(38 files)* | Per-city monthly mean temperatures — **BAS READER, WMO 1991–2020 standard normals**, each with its climate authority, data period and citation | **`G2`, Phases 1 and 3.** ⛔⛔ **MOST FILES ARE NAMED FOR THE REAL-WORLD STATION, NOT THE TEPENIAN CITY** — `Aboa.md` *(Santa Luce)*, `Princess_Elizabeth.md` *(note the `z`)*, `Contrapunto.md` *(King Sejong)*. ***A search by city name can return a confident false negative; use the ALIAS SET.*** *(`Bharati_TBD.md` was renamed to `Shirayuki.md` 2026-09-04 — that particular trap is closed.)* ⚠ **Temperature ONLY in most files — no precipitation, no daylight** *(checked 2026-09-03)*; **the four written or rewritten 2026-09-04** — `Denison` *(created)*, `Shirayuki`, `Port_Lockroy`, `Juan_Carlos` — **also carry precipitation, daylight and proxy provenance.** **Denison's gap is closed.** |
 | **`Industry_Staffing_and_Productivity/`** | MCAA Labor Productivity Factors (Ibbs & Sun, ASCE 2016) — the sourced basis for the whole difficulty layer; its in-depth companion critique; a wastewater-plant staffing guide (image-only PDF, not yet OCR'd) | Already consumed by `Division_of_Industry/08` §4.1, §6.4b. **The README inside names unobtained sources worth a future session** — RSMeans location factors, AWWA staffing benchmarks, CRREL cold-regions studies, McMurdo's functional staff breakdown |
 | **`jobs_professions_and_fields/`** | The full SOC 2018 manual (23 major → 98 minor groups) plus derived cross-category and district-matching notes | The source behind the SOC cross-check that found four missing industries in the 22-industry register (`00_Necessary_Industries_Register.md`) |
 | **`Stations/`** | `Antarctic_Stations_With_Airstrips.md`, the COMNAP Antarctic Station Catalog (PDF) | The founding/real-world-basis reference for any city — **note `Locations/Infrastructure/Airports.md`'s own caveat: this list is background reference only, not a predictor of Tepenia's own airport network**, which was confirmed separately from the developer's own map |
@@ -94,7 +94,7 @@ REQUIRED, and which cities do not have it."*** **Read them together; neither hal
 > ***No city has a declared EXTENT — 0 of 37.*** **`01` §2 requires both a population band and an extent
 > band; `00_RUNBOOK.md` Step 2 orders the division; `04` Gate 11's only recorded catch came from it.**
 > **Six cities carry an area figure and NONE is a city extent** — each measures the real-world *site*.
-> ⚠ **Sayowa's own spec has already run the division and recorded `~50,000/km² — the implausibility`.**
+> ⚠ **Temirötkel's own spec has already run the division and recorded `~50,000/km² — the implausibility`.**
 > **`density = Census I ÷ extent`, and Census I is complete for all 37 — so fixing either variable derives
 > the other for the whole corpus. It is one ruling, not thirty-seven.**
 
@@ -137,13 +137,13 @@ are proposals for developer review, not asserted canon"* in its own header.**
 | `Specs/` | 38 | ✅ | Read in full, all 37 |
 | `City_Enneagram_Personalities/` | 38 | 🛠 | Read directly for the richer entries; cross-reference-table pulls elsewhere |
 | `City_Vision_Notes/` | 37 | ⚠ | Read in full, all 37 |
-| `Local_Robot_Culture/` | 35 | 🔴 *(corrected — see above)* | Read in full or selectively per subnet; {{Abowasa}} has none |
+| `Local_Robot_Culture/` | 35 | 🔴 *(corrected — see above)* | Read in full or selectively per subnet; Santa Luce has none |
 | `Division_of_Industry/` | 18 | ✅ *(ruled figures)* | Cross-referenced throughout — this is the compile's other input |
 | `Research_Logs/` | 5 | 📋 process log | Not deep-read; exists for future research passes |
 | `City_Symbolic_Substrate/` | 4 | 🛠 | Read once per subnet, entries extracted |
 | `Local_Robot_Culture_Methodology/` | 4 | 📋 methodology | Not deep-read |
 | `City_Concept-Art/` | 1 | — visual assets | Not relevant to this compile |
-| **Top-level loose files** | 16 | mostly ✅ | `Official_Population_Census.md`, `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md`, `City_National_Connections.md`, `City_Refugee_District_Affinities.md`, `Station_to_City_Map.md`, `National_Capital_Candidates.md`, `National_Medical_and_Care_Institutes.md`, `Upper_Earth_Immigration_Composition.md`, `Bunger_Hills_City/Development_Brief.md`, plus process/audit files *(`Full_City_Integrity_Check.md`, `Founding_Nation_Bug_Investigation_Methodology.md`, `Division_of_Industry_Sweep_2026-08-31.md`, `Investigation_Loop_Round2_Tracker.md`, `Inspirational-Influences.md`, `Overview.md`)* |
+| **Top-level loose files** | 16 | mostly ✅ | `Official_Population_Census.md`, `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md`, `City_National_Connections.md`, `City_Refugee_District_Affinities.md`, `Station_to_City_Map.md`, `National_Capital_Candidates.md`, `National_Medical_and_Care_Institutes.md`, `Upper_Earth_Immigration_Composition.md`, `Relung_Panen/Development_Brief.md`, plus process/audit files *(`Full_City_Integrity_Check.md`, `Founding_Nation_Bug_Investigation_Methodology.md`, `Division_of_Industry_Sweep_2026-08-31.md`, `Investigation_Loop_Round2_Tracker.md`, `Inspirational-Influences.md`, `Overview.md`)* |
 
 **Megasheet component breakdown** *(each city folder holds up to 6 files)*:
 
@@ -165,13 +165,13 @@ its content is non-canon regardless.
 
 | File | Subnet | Cities/entities | Lines |
 |---|---|--:|--:|
-| [`Halley_Subnet_Reference.md`](./Halley_Subnet_Reference.md) | Halley | Neumayer, Halley, {{Abowasa}}, Troll, Sanay, Belgrano, Princess Elisabeth, Lazar | 354 |
+| [`Halley_Subnet_Reference.md`](./Halley_Subnet_Reference.md) | Halley | Neumayer, Halley, Santa Luce, Troll, Sanay, Belgrano, Utstein, Lazar | 354 |
 | [`Janbogo_Subnet_Reference.md`](./Janbogo_Subnet_Reference.md) | Janbogo | Denison, Concordia, Dumont d'Urville, Cape Adare, Zukelli, Fort McMurdo, Janbogo, Scott | 350 |
-| [`Mirny_Subnet_Reference.md`](./Mirny_Subnet_Reference.md) | Mirny | Vostok, Mirny, Zhongshan, Shirayuki, Davis, Sinheung, Casey, Kunlun | 307 |
-| [`Palmer_Subnet_Reference.md`](./Palmer_Subnet_Reference.md) | Palmer | Marambio, Signy, Esperanza, Sejong, Juan Carlos, Palmer City, Rothera, Port Lockroy | 373 |
-| [`Mawson_Byrd_Amundsen_Reference.md`](./Mawson_Byrd_Amundsen_Reference.md) | Mawson · Byrd · Amundsen | Mawson, Sayowa, Dome Fuji, Byrd, Amundsen Station | 262 |
+| [`Mirny_Subnet_Reference.md`](./Mirny_Subnet_Reference.md) | Mirny | Ariun Nuur, Mirny, Zhongshan, Shirayuki, Davis, Sinheung, Casey, Kunlun | 307 |
+| [`Palmer_Subnet_Reference.md`](./Palmer_Subnet_Reference.md) | Palmer | Marambio, Signy, Esperanza, Contrapunto, Pergamino, Palmer City, Rothera, Puerto Abrigo | 373 |
+| [`Mawson_Byrd_Amundsen_Reference.md`](./Mawson_Byrd_Amundsen_Reference.md) | Mawson · Byrd · Amundsen | Mawson, Temirötkel, Dome Fuji, Byrd, Amundsen Station | 262 |
 
-**37 cities/entities. {{Bunger Hills City}} deliberately excluded — deferred on purpose,
+**37 cities/entities. Relung Panen deliberately excluded — deferred on purpose,
 per `Division_of_Industry/15_Open_Items_and_Three_Resolutions.md` List A item 2.**
 
 ---
@@ -188,13 +188,13 @@ per `Division_of_Industry/15_Open_Items_and_Three_Resolutions.md` List A item 2.
    - **Concordia** has no `Local_Cultures`, `Enneagram`, `Local_Robot_Culture`, or
      `Megasheet` entry at all — special-cased as the present-tense, ongoing primary
      setting rather than a "died in the war" pipeline city.
-   - **{{Abowasa}}** has no `Local_Robot_Culture` pass, pending a known founding-nation
+   - **Santa Luce** has no `Local_Robot_Culture` pass, pending a known founding-nation
      consistency fix.
    - **Byrd's and Amundsen Station's** megasheet folders both lack a `README.md` — every
      other city folder has one.
 
 3. **⚠ Live, unresolved bug, flagged not fixed** *(out of this compile's scope)*:
-   **Sejong's** 2026-08-02 Hangul-founding-population fix was applied to some files but
+   **Contrapunto's** 2026-08-02 Hangul-founding-population fix was applied to some files but
    not all — `Sejong_Community_Infrastructure.md` and two Background-Lore files still
    carry the invalidated premise.
 
@@ -220,9 +220,9 @@ per `Division_of_Industry/15_Open_Items_and_Three_Resolutions.md` List A item 2.
      own note that 10% is probably closer.
    - **⚠ Zhongshan** — the maritime-port 20% is confirmed as my own Half A estimate, not
      canon, but the compile notes it *"has a real candidate answer,"* unlike Lazar.
-   - **⏸️ Sejong / Juan Carlos** — whether Juan Carlos shares Sejong's Machu Picchu
+   - **⏸️ Contrapunto / Pergamino** — whether Pergamino shares Contrapunto's Machu Picchu
      Airport border-gateway role is still open, pending developer ruling
-     (`16`, Sejong/Marambio ruling section).
+     (`16`, Contrapunto/Marambio ruling section).
 
 6. **⭐ Byrd's geological reclassification, restated for visibility.** Ice-sheet, not
    rock-founded — 2,164 m of ice to bedrock, a real-world fact caught this session

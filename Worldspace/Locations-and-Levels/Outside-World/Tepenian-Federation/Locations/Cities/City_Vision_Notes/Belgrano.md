@@ -32,7 +32,7 @@ Coats Land coast, Weddell Sea, Queen Maud Land. Halley subnet, southernmost majo
 
 ## The developer's vision
 
-**A street-level snapshot of one specific area** of the living, second interwar city — the developer's own creative process works by placing their attention at one particular spot and describing what's visible there (the same pattern as Princess Elisabeth's session). This shows: warehouse fleets with coastline/shipping-dock access, industrial yards, and an active downtown — bars, music venues, places of business. Large parts of the waterside infrastructure are rusted but not structurally compromised (wear from Belgrano's harsh Weddell Sea climate, not decline). Humans walk the streets with their robot wives/girlfriends.
+**A street-level snapshot of one specific area** of the living, second interwar city — the developer's own creative process works by placing their attention at one particular spot and describing what's visible there (the same pattern as Utstein's session). This shows: warehouse fleets with coastline/shipping-dock access, industrial yards, and an active downtown — bars, music venues, places of business. Large parts of the waterside infrastructure are rusted but not structurally compromised (wear from Belgrano's harsh Weddell Sea climate, not decline). Humans walk the streets with their robot wives/girlfriends.
 
 **Resolves the thin "Music" section:** Garage Rock is the dominant genre heard from open windows and doors of restaurants and other social venues, among others — raw, DIY, unpolished, a natural fit for a hard-working, function-first city.
 

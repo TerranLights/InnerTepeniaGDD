@@ -1,9 +1,9 @@
 # Rothera — Local Robot Culture Spec Sheet
 
 **Run #32 of the Local Robot Culture Methodology, 2026-08-11 — sixth city of the Palmer Subnet.** Directly
-follows up on forward flags from Denison's (Janbogo subnet) and Port Lockroy's own completed files. Applies
+follows up on forward flags from Denison's (Janbogo subnet) and Puerto Abrigo's own completed files. Applies
 the shared-experience-first Kinship framing and the corrected two-slot Solar-symbol/Robo-Element check from
-the start. **Rothera is Damaged but partially operational** — like Port Lockroy, a genuinely living,
+the start. **Rothera is Damaged but partially operational** — like Puerto Abrigo, a genuinely living,
 present-day city rather than ruins described in present-tense retrospect, and one of only two Palmer-subnet
 cities (with Signy) that survived the Long Night War at meaningfully better-than-neighboring scale. No
 destroyed-city framing discipline is needed here; the aspect sections below describe Rothera's actual current
@@ -33,12 +33,12 @@ spent generations actively protecting one shared, unglamorous hour at the end of
   §15 (Industrial/manufacturing 40%, the clearly defining sector), §16 (robots slightly outnumber humans,
   human-robot relations shaped by close, practical coordination keeping a decentralized base functioning under
   real war damage), §17 (Robot-Specific Culture — industrial/technical expertise, "a genuine parallel to
-  Princess Elisabeth's engineering-dependency culture, though Rothera's decentralization gave it more
+  Utstein's engineering-dependency culture, though Rothera's decentralization gave it more
   resilience than that city's more concentrated, singular systems ever had" — the richest pre-existing
   robot-culture seam of any Palmer-subnet city examined so far), §18 (no dominant formal religion; a practical
   usefulness ethic; "a specific, quiet pride in having survived the war through decentralization rather than
   luck, terrain, or bedrock"), §19 (minimal counterculture — friction discussed openly rather than organized
-  against), §23 (Palmer City, Port Lockroy, Belgrano, Byrd), §25 (Export Culture — "a specific *type* of
+  against), §23 (Palmer City, Puerto Abrigo, Belgrano, Byrd), §25 (Export Culture — "a specific *type* of
   person... recognizable by an ease with industrial work"), §26 (Founders' Airstrip, The Standing Works).
 - **Input B — Geography & Geology:** `Specs/Rothera.md`. Rothera Point, Adelaide Island, western Antarctic
   Peninsula — by far the largest, most mountainous landmass in the subnet (~120km, peaks over 2,500m), the
@@ -110,7 +110,7 @@ spent generations actively protecting one shared, unglamorous hour at the end of
   direct checks of Mirny's, Byrd's, Denison's, and Lazar's own already-completed files → `Worldspace/Factions/
   City_Origin_Factions_Second_Interwar.md` directly, given the Methodologists faction's own unexplored
   robot-culture angle → the four already-completed Palmer-subnet cities' own files, specifically to check
-  whether the robot-non-aging-physiology pattern named at Port Lockroy recurs a fifth time or genuinely breaks.
+  whether the robot-non-aging-physiology pattern named at Puerto Abrigo recurs a fifth time or genuinely breaks.
 
 ---
 
@@ -127,7 +127,7 @@ spent generations actively protecting one shared, unglamorous hour at the end of
 | Sexuality | **Yes** | The mismatched two-tier shift structure gives a direct, well-grounded, Rothera-specific courtship mechanism; see §7. |
 | Vernacular Language *(Part IV worked example)* | **Yes** | §8c's own established site/facility-specific shorthand is already established; see §8. |
 | Arcanet Etiquette *(Part IV worked example)* | **Yes** | §24's decentralized-coordination focus gives a direct robot-specific extension; see §9. |
-| Robot Biology and Culture | **Yes, with a genuine, honestly-checked non-recurrence of the subnet's own signature pattern** | See Cross-Reference Synthesis for the direct check against Esperanza, Marambio, Palmer City, and Port Lockroy's own robot-longevity findings. |
+| Robot Biology and Culture | **Yes, with a genuine, honestly-checked non-recurrence of the subnet's own signature pattern** | See Cross-Reference Synthesis for the direct check against Esperanza, Marambio, Palmer City, and Puerto Abrigo's own robot-longevity findings. |
 | Glitch-Coolant | **Yes — already established canon, not a derived slot** | Rothera is the flagship working-class/potency example in the original 2026-07-04 canon text itself; see §6. |
 | Robot Elementals & Solar Symbols | **Yes — already established** | Solar symbol Asteroid Belt + Robo-Element Earth already on file — the only Asteroid Belt assignment in Tepenia. |
 | Human-Robot Relations Baseline | **Yes, an ordinary, ground-level confirmation** | §16 and the Two Shifts, One City custom give a direct, lived instance. |
@@ -174,7 +174,7 @@ localize per city.*
   at one fabrication site stayed contained to that site alone, proving Ashgrove-Pryce's original efficiency-
   driven layout choice sound as a resilience strategy purely by accident of consequence, "decades after he
   first made it." For robots specifically — already established elsewhere in this project as reliable,
-  unembellishing record-keepers (Port Lockroy, Zhongshan) — this incident plausibly functions as the concrete,
+  unembellishing record-keepers (Puerto Abrigo, Zhongshan) — this incident plausibly functions as the concrete,
   legible proof-point behind an otherwise abstract civic value: quiet vindication earned by outcome, not
   declared in advance as virtue.
 
@@ -223,7 +223,7 @@ localize per city.*
 - **[Directly-inherited, Surface]** §10c's existing material stands and is confirmed: "substantial, scaled to a
   genuine working industrial population."
 - **[Directly-inherited, Surface, genuinely distinct from every prior Palmer-subnet city's pass]** Unlike
-  Esperanza, Marambio, Palmer City, and Port Lockroy — all four of which had to derive a Glitch-Coolant category
+  Esperanza, Marambio, Palmer City, and Puerto Abrigo — all four of which had to derive a Glitch-Coolant category
   from a genuine open slot — Rothera is already the *original, flagship example* of the working-class/potency
   category in the Tepenia-wide canon text itself, established directly during Rothera's own 2026-07-04
   developer-vision session: "fewer choices, more potency — a direct, unpretentious blue-collar drinking
@@ -299,7 +299,7 @@ localize per city.*
   describes at a different scale and for a different reason.
 - **[Emergent, robot-only, Deep, flagged directly to the developer]** — *Input categories combined: Historical
   Vignettes ("The Plan Ashgrove-Pryce Drew," "The Chambers Dug Before Anyone Knew Why," "Testing the Design")
-  + Robot Biology (non-aging physiology) + Esperanza's, Marambio's, Palmer City's, and Port Lockroy's own
+  + Robot Biology (non-aging physiology) + Esperanza's, Marambio's, Palmer City's, and Puerto Abrigo's own
   already-completed files (the Palmer-subnet robot-longevity pattern)*
   Checked directly, per the developer's own instruction to genuinely verify rather than force this pattern a
   fifth time: it recurs, but through a distinct application from any of the prior four. Chief Engineer
@@ -416,4 +416,4 @@ concretely, specifically Rothera's own. **Signy (Medium Infrastructure tie, "the
 that survived the Long Night War intact/functional," directly established in Rothera's own Historical
 Vignette material as an already-conducted comparative study) is flagged forward for a real check once run —
 the strongest, most load-bearing forward flag issued in the Palmer subnet so far, given how much of Rothera's
-own material already anticipates it directly. Sejong is flagged forward generally, unassumed.**
+own material already anticipates it directly. Contrapunto is flagged forward generally, unassumed.**

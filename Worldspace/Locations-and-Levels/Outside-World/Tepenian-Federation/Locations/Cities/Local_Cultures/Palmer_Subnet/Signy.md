@@ -29,7 +29,7 @@
 
 ## 2. Founding Story
 
-The British Antarctic Survey had operated seasonally at Signy since 1947, running a long-term biological research program studying the South Orkney Islands' marine ecology and terrestrial biology. British exiles inherited the station's physical infrastructure and converted it to year-round habitation, and the islands' own biological richness gave the founding community its purpose and methodology — Signy's founding character was scientific from the very beginning, distinct from Rothera's operational character or Port Lockroy's historical one, each city having developed its own distinct institutional identity independently.
+The British Antarctic Survey had operated seasonally at Signy since 1947, running a long-term biological research program studying the South Orkney Islands' marine ecology and terrestrial biology. British exiles inherited the station's physical infrastructure and converted it to year-round habitation, and the islands' own biological richness gave the founding community its purpose and methodology — Signy's founding character was scientific from the very beginning, distinct from Rothera's operational character or Puerto Abrigo's historical one, each city having developed its own distinct institutional identity independently.
 
 A South African founding wave arrived alongside the British population, likely via the South Atlantic route rather than the Drake Passage corridor most Peninsula cities used — the same geographic logic that made South Africa a founding presence at Halley subnet cities extended, in smaller form, to Signy's more easterly position.
 
@@ -199,7 +199,7 @@ Filtered through the city's long scientific tradition and Signy's own extreme is
 ## 23. Relationship to Other Cities
 
 - **Palmer City (subnet hub):** The Arcanet link exists but is weak — hundreds of kilometers of open ocean signal, real and functional but the most vulnerable intra-subnet connection in Tepenia.
-- **Rothera and Port Lockroy:** Fellow British-founded Palmer subnet cities, despite Signy's much greater physical isolation from either.
+- **Rothera and Puerto Abrigo:** Fellow British-founded Palmer subnet cities, despite Signy's much greater physical isolation from either.
 - **Every other Tepenian city:** Genuinely distant — Signy is closer to the South Atlantic than to any Tepenian settlement, a geographic fact that shapes every one of its external relationships.
 
 ---
@@ -213,7 +213,7 @@ The weakest Arcanet link of any Palmer subnet city — information arrives late 
 ## 25. Export Culture
 
 - Biological and ecological research findings — Signy's genuine scientific contribution to Tepenia's understanding of Scotia Sea marine ecology
-- A specific *type of person* — comfortable with absolute isolation and genuine self-sufficiency, recognizable by an ease with remoteness that no other Tepenian city's residents share, not even Rothera's or Port Lockroy's
+- A specific *type of person* — comfortable with absolute isolation and genuine self-sufficiency, recognizable by an ease with remoteness that no other Tepenian city's residents share, not even Rothera's or Puerto Abrigo's
 
 ---
 
@@ -254,7 +254,7 @@ Given the city's absolute isolation and tiny population, becoming a local at Sig
 
 ## 30. Significant Local Events
 
-- **The Long Night War** — Signy took no direct damage at all, overlooked entirely by Upper Earth's targeting due to sheer remoteness and peripheral status — a genuinely different survival mechanism from Rothera's decentralization, Port Lockroy's misidentification, or Abowasa's strategic irrelevance: simply too far away and too marginal to be worth the trip in the first place, not merely deprioritized.
+- **The Long Night War** — Signy took no direct damage at all, overlooked entirely by Upper Earth's targeting due to sheer remoteness and peripheral status — a genuinely different survival mechanism from Rothera's decentralization, Puerto Abrigo's misidentification, or Santa Luce's strategic irrelevance: simply too far away and too marginal to be worth the trip in the first place, not merely deprioritized.
 - **The post-war siligel shortage** — the one real consequence the war still produced: with subnet supply lines cut, Signy's robot population has no local siligel source, even as its human population sustains itself indefinitely on the Scotia Sea's marine resources. A strong candidate DLC 3 questline hook — not yet designed further.
 
 ---

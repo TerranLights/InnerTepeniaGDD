@@ -190,7 +190,7 @@ localize per city.*
 
 ### 7. Sexuality & Courtship — Local Customs
 
-- **[Adapted, Deep]** Distinct from Sayowa's own duty-covering courtship signal (per the Swap Test discipline,
+- **[Adapted, Deep]** Distinct from Temirötkel's own duty-covering courtship signal (per the Swap Test discipline,
   a superficially similar "taking on risk for someone" city needed a genuinely different mechanism): given the
   wind-statistics-recitation tradition is Denison's established *public* pride ritual, a plausible private
   courtship variant is sharing a personal, specific close-call number or story that never enters the standard

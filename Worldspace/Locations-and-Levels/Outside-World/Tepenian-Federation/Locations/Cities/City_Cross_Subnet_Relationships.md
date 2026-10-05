@@ -42,12 +42,12 @@ itself is organized by highway number, not by what it connects).
 - **Mirny ↔ Janbogo, direct.** Hwy 2 runs Casey (Mirny) → Dumont d'Urville (Janbogo) with no
   intermediate subnet. A short, direct coastal link between two subnets that otherwise read as fairly
   distant from each other.
-- **Halley ↔ Mawson ↔ Mirny ↔ Concordia, via the Sayowa Junction.** Hwy 7/7-ext (all of Halley subnet's
-  own spine) terminates at the Sayowa Junction, which is also where Hwy 4 (→ Mawson → Sinheung, Mirny)
-  and Hwy 37 (→ Dome Fuji, Mawson → Kunlun/Vostok, Mirny → Concordia) converge. **Every one of Halley
+- **Halley ↔ Mawson ↔ Mirny ↔ Concordia, via the Temirötkel Junction.** Hwy 7/7-ext (all of Halley subnet's
+  own spine) terminates at the Temirötkel Junction, which is also where Hwy 4 (→ Mawson → Sinheung, Mirny)
+  and Hwy 37 (→ Dome Fuji, Mawson → Kunlun/Ariun Nuur, Mirny → Concordia) converge. **Every one of Halley
   subnet's 8 cities is, by road, one single junction away from Mawson, Mirny, and Concordia.** Mawson
   subnet — only 3 cities, the smallest subnet — sits structurally as the connective tissue joining
-  Halley, Mirny, and Concordia together, matching Sayowa's own established "Point Where Three Roads
+  Halley, Mirny, and Concordia together, matching Temirötkel's own established "Point Where Three Roads
   Meet" civic identity almost exactly. Worth treating deliberately: Mawson's national importance is
   disproportionate to its population, purely as connective infrastructure.
 - **Mirny ↔ Concordia, direct.** Hwy 110 runs the length of Mirny subnet (Zhongshan → Davis → Mirny →
@@ -59,7 +59,7 @@ itself is organized by highway number, not by what it connects).
   thread tying Janbogo into the Byrd/Palmer/Mirny corridor beyond just its Mirny link via Hwy 2.
 - **Halley ↔ Byrd/South Pole corridor — and specifically the Arcanet.** Hwy 59, explicitly named "the
   Atlantic Throughway ('Arcanet Line')" in its own header, connects a ramp on Hwy 7 (between Halley and
-  Abowasa) to a ramp on Hwy 22 near the South Pole, and **carries the Arcanet cable along its full
+  Santa Luce) to a ramp on Hwy 22 near the South Pole, and **carries the Arcanet cable along its full
   length.** This is worth real attention: a physical, named trunk cable connecting Halley subnet directly
   to the Byrd/South Pole corridor is exactly the kind of infrastructure whose severance the Planetary
   Split Brain would plausibly have involved, or whose survival/partial-survival could be a genuine
@@ -75,7 +75,7 @@ cross-subnet aviation network layered on top of the highway one:
 - **Dome Fuji (Mawson) is the country's real aviation convergence point, despite having no airport of
   its own.** It's supplied by air from **three separate directions**: Troll Airport (Halley subnet), the
   Tri-Cities Airport (Zhongshan/Sinheung/Shirayuki, Mirny subnet), and Mountain Pass Airport (between
-  Kunlun and Vostok, Mirny subnet, also "reasonably accessible" to Dome Fuji per its own entry) — with
+  Kunlun and Ariun Nuur, Mirny subnet, also "reasonably accessible" to Dome Fuji per its own entry) — with
   cargo forwarded the final stretch via Hwy 37/Hwy 4. **A real, worth-dramatizing tension**: Tepenia's
   most remote, most nearly-Arcanet-less city is simultaneously the logistics focal point three separate
   regional aviation routes converge on. Isolation and centrality coexisting in the same city is a genuine
@@ -83,7 +83,7 @@ cross-subnet aviation network layered on top of the highway one:
 - **Marambio Airport (Palmer) is explicitly domestic**, "links Marambio to other Tepenian cities via the
   highway/aviation network" — plausibly a secondary/backup link into the Byrd corridor alongside Hwy 1,
   not yet confirmed either way.
-- The **Machu Picchu Airport** (Sejong/Juan Carlos) is international (Upper Earth-facing via Ushuaia),
+- The **Machu Picchu Airport** (Contrapunto/Pergamino) is international (Upper Earth-facing via Ushuaia),
   not a domestic cross-subnet link — noted for completeness, not part of this file's actual scope.
 
 ### Direct city-to-city highway links across a subnet boundary (no intermediate stop)
@@ -92,10 +92,10 @@ cross-subnet aviation network layered on top of the highway one:
 |---|---|---|---|---|
 | Marambio (and the Peninsula cities behind it) | Palmer | Byrd | Byrd | Hwy 1 → Hwy 22 |
 | Casey | Mirny | Dumont d'Urville | Janbogo | Hwy 2 |
-| Sayowa (via the Spur/Junction) | Mawson | Lazar / Princess Elisabeth | Halley | Hwy 7-ext |
-| Sayowa (via the Spur/Junction) | Mawson | Sinheung / Shirayuki | Mirny | Hwy 4 |
-| Dome Fuji | Mawson | Kunlun / Vostok | Mirny | Hwy 37 |
-| Vostok | Mirny | Concordia | — | Hwy 37 |
+| Temirötkel (via the Spur/Junction) | Mawson | Lazar / Utstein | Halley | Hwy 7-ext |
+| Temirötkel (via the Spur/Junction) | Mawson | Sinheung / Shirayuki | Mirny | Hwy 4 |
+| Dome Fuji | Mawson | Kunlun / Ariun Nuur | Mirny | Hwy 37 |
+| Ariun Nuur | Mirny | Concordia | — | Hwy 37 |
 | Casey | Mirny | Concordia | — | Hwy 110 |
 | Denison / (Janbogo region) | Janbogo | Concordia | — | Hwy 183 |
 
@@ -173,11 +173,11 @@ subnet's regional pattern, each a real, non-obvious thread:
   overland via Palmer at all — meaning Byrd's genuine population kinship is with **Janbogo**, while its
   physical, structural dependency is on **Palmer**. A real, dramatizable tension: two entirely different
   kinds of connection pointing at two different subnets.
-- **Vostok and Byrd share a Primary-nation pairing (USA + Japan) that no other city in Tepenia has.**
+- **Ariun Nuur and Byrd share a Primary-nation pairing (USA + Japan) that no other city in Tepenia has.**
   Every other city is either single-Primary or has a different Primary combination. Worth investigating
   directly — whether this is coincidence or points at a real shared migration-era event or population
   movement between these two specific cities, neither of which has any other established connection to
-  the other (Vostok's own established partnership is with Kunlun, not Byrd).
+  the other (Ariun Nuur's own established partnership is with Kunlun, not Byrd).
 - **Fort McMurdo's Significant tier doesn't match its own Janbogo-subnet siblings.** Every other Janbogo
   city (Janbogo, Zukelli, Cape Adare, Dumont d'Urville, Scott, Denison) shares the same Pacific-facing
   Significant-tier shape (Japan, South Korea, Canada/Indonesia, Australia). Fort McMurdo's is instead
@@ -199,9 +199,9 @@ cities appears above); Byrd (the only city in its subnet) is covered. The remain
 cross-subnet connection identified yet** — the real priority list for continuing this thread:
 
 - **Palmer (7 of 8 still isolated — only Marambio has a connection so far, via the Byrd corridor):**
-  Esperanza, Juan Carlos, Palmer City, Port Lockroy, Rothera, Sejong, Signy.
-- **Halley (4 of 8 still isolated — Belgrano, Lazar, Princess Elisabeth, and Troll are covered):**
-  Halley (the city), Abowasa, Neumayer, Sanay.
+  Esperanza, Pergamino, Palmer City, Puerto Abrigo, Rothera, Contrapunto, Signy.
+- **Halley (4 of 8 still isolated — Belgrano, Lazar, Utstein, and Troll are covered):**
+  Halley (the city), Santa Luce, Neumayer, Sanay.
 - **Janbogo (4 of 7 still isolated — Dumont d'Urville, Denison, and Fort McMurdo are covered):**
   Cape Adare, Janbogo (the city), Scott, Zukelli.
 
@@ -224,7 +224,7 @@ step for whichever connections the developer wants to prioritize — this file's
 next step has real material to work from, not guesswork.
 
 **Still open:**
-1. Byrd's population-vs-geography tension and the Vostok/Byrd shared Primary-nation pairing (Part 4) —
+1. Byrd's population-vs-geography tension and the Ariun Nuur/Byrd shared Primary-nation pairing (Part 4) —
    both genuinely surprising, neither yet explained anywhere in existing lore.
 2. **Hwy 59's Arcanet Line** (Part 1) — open in canon; the Course of Events and Historical Vignettes material
    written on it is not canon.

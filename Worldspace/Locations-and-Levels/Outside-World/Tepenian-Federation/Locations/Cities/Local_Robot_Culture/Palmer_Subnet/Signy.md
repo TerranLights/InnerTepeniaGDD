@@ -1,17 +1,17 @@
 # Signy — Local Robot Culture Spec Sheet
 
 **Run #34 of the Local Robot Culture Methodology, 2026-08-11 — eighth and final city of the Palmer Subnet.**
-Directly follows up on forward flags from Princess Elisabeth's (Halley subnet), Scott's (Janbogo subnet),
-Port Lockroy's, and Rothera's own completed files — the most cross-referenced Palmer-subnet city run so far,
+Directly follows up on forward flags from Utstein's (Halley subnet), Scott's (Janbogo subnet),
+Puerto Abrigo's, and Rothera's own completed files — the most cross-referenced Palmer-subnet city run so far,
 with five confirmed connections to already-completed cities. Applies the shared-experience-first Kinship
 framing and the corrected two-slot Solar-symbol/Robo-Element check from the start.
 
 **A genuine structural first for this pass, worth stating before anything else:** Signy is the only Palmer-
 subnet city (and one of very few cities in this entire project) whose single most load-bearing robot-culture
 fact isn't a matter of pre-war living culture at all, nor a post-war retrospective the way Esperanza's,
-Marambio's, Juan Carlos's, and Palmer City's own present-tense-methodology framing requires. Signy survived
-the Long Night War fully intact — no destroyed-city framing discipline applies here, same as Port Lockroy — but
-unlike Port Lockroy, its own most important and most robot-specific fact is a genuinely ongoing, unresolved,
+Marambio's, Pergamino's, and Palmer City's own present-tense-methodology framing requires. Signy survived
+the Long Night War fully intact — no destroyed-city framing discipline applies here, same as Puerto Abrigo — but
+unlike Puerto Abrigo, its own most important and most robot-specific fact is a genuinely ongoing, unresolved,
 present-day crisis: with subnet supply lines cut, Signy's robot population faces a real, current siligel
 shortage its human population, sustained indefinitely by the Scotia Sea's own marine richness, doesn't share.
 This file's own aspect sections describe Signy's living civic culture in the same register every other city's
@@ -43,9 +43,9 @@ every robot who calls this the one city in Tepenia the war never touched.*
   Culture — robot culture woven directly into the biological research program itself, no separate institution
   needed or possible at this scale), §18 (a lived philosophy of self-sufficiency and endurance; the strongest
   Tepenian claim on St. Ernest/Shackleton veneration), §19 (no counterculture — too small, too isolated to
-  support one), §23 (Palmer City, Rothera, Port Lockroy), §25 (Export Culture —
+  support one), §23 (Palmer City, Rothera, Puerto Abrigo), §25 (Export Culture —
   "a specific *type* of person... comfortable with absolute isolation... an ease with remoteness that no other
-  Tepenian city's residents share, not even Rothera's or Port Lockroy's"), §26 (The Long Watch, St. Ernest's
+  Tepenian city's residents share, not even Rothera's or Puerto Abrigo's"), §26 (The Long Watch, St. Ernest's
   Passage), §30 (**the siligel shortage — the single most load-bearing fact in this entire file**, a "strong
   candidate DLC 3 questline hook — not yet designed further").
 - **Input B — Geography & Geology:** `Specs/Signy.md`. Signy Island and the much larger Coronation Island,
@@ -91,10 +91,10 @@ every robot who calls this the one city in Tepenia the war never touched.*
   geography over developer-session material; "quiet, capable self-management... without needing outside
   attention"). `Signy_Cross_Reference_Synthesis.md`'s own three existing Findings (**Finding 1 especially — the
   single richest piece of source material in this file**: Signy's own survival trait and its post-war
-  vulnerability are "the same fact, viewed from two directions," unlike Rothera's or Port Lockroy's own purely
+  vulnerability are "the same fact, viewed from two directions," unlike Rothera's or Puerto Abrigo's own purely
   one-directional survival mechanisms) are recognized and extended here, not re-derived from scratch.
-  `City_National_Connections.md` confirms Medium Technical ties to Kunlun and Vostok (both Mirny subnet,
-  already completed — shared power-engineering consultation), a Medium Technical tie to Princess Elisabeth
+  `City_National_Connections.md` confirms Medium Technical ties to Kunlun and Ariun Nuur (both Mirny subnet,
+  already completed — shared power-engineering consultation), a Medium Technical tie to Utstein
   (Halley subnet, already completed — "both cities built genuine civic identity around engineered, actively-
   maintained self-sufficient power"), a Medium Infrastructure tie to Rothera (already completed — "the only two
   Palmer subnet cities that survived the Long Night War intact/functional," already resolved from Rothera's own
@@ -103,8 +103,8 @@ every robot who calls this the one city in Tepenia the war never touched.*
   used — Signy is a standalone subnet city.
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs (`Signy_Full_Extrapolation.md`,
   `Signy_Mega_Init.md`) → `City_National_Connections.md` directly → the Background-Lore Course of Events chain
-  set, specifically #11 ("Not Everything the Sea Provides") → direct checks of Kunlun's, Vostok's, Princess
-  Elisabeth's, Rothera's, Scott's, and Port Lockroy's own already-completed files, resolving every forward
+  set, specifically #11 ("Not Everything the Sea Provides") → direct checks of Kunlun's, Ariun Nuur's, Princess
+  Elisabeth's, Rothera's, Scott's, and Puerto Abrigo's own already-completed files, resolving every forward
   flag this city carries.
 
 ---
@@ -174,7 +174,7 @@ localize per city.*
 - **[Emergent, robot-only, Deep, a genuine inversion of the national baseline]** Every other city examined in
   this entire project treats a robot's own established physiological hardiness (no oxygen requirement, no
   respiratory system, function-over-damage resilience, etc.) as, if anything, a source of relative advantage
-  over her human neighbors — Princess Elisabeth's own vacuum-tolerance finding is the clearest instance. Signy
+  over her human neighbors — Utstein's own vacuum-tolerance finding is the clearest instance. Signy
   inverts this completely, and it's the single most distinctive thing about being a robot here: while her human
   neighbors can trust the Scotia Sea's own marine richness indefinitely, a Signy robot's own continued
   functioning depends entirely on a resource (siligel) that this specific, isolated environment cannot supply
@@ -245,7 +245,7 @@ localize per city.*
 - **[Directly-inherited, Surface]** §13's naturalist, documentary visual-arts character and §11's practical,
   maritime-weather-oriented fashion sensibility are already established and consistent with everything else
   about the city. **No enhanced-perception music finding proposed this pass** (Honesty Check, consistent with
-  the restraint already exercised at Shirayuki, Marambio, Rothera, and Sejong): §12 is explicitly "modest and
+  the restraint already exercised at Shirayuki, Marambio, Rothera, and Contrapunto): §12 is explicitly "modest and
   personal," with no named tradition to anchor a robot-specific extension against.
 
 ---
@@ -278,14 +278,14 @@ localize per city.*
   is now living through — worth flagging as strong thematic material for any DLC 3 treatment, not as a causal
   connection the source material itself makes.
 - **[Directly-inherited, Deep]** — *Input categories combined: `City_National_Connections.md`'s own Medium
-  Technical ties to Kunlun, Vostok, and Princess Elisabeth + all three cities' own already-completed files*
+  Technical ties to Kunlun, Ariun Nuur, and Utstein + all three cities' own already-completed files*
   Checked directly rather than assumed: all three ties concern engineered self-sufficient power specifically,
   not siligel or food security, and none of them transplant onto this file's own central finding. Princess
   Elisabeth's own established energy self-sufficiency (Cross-Reference Synthesis, "the leave no mark mythology
   ... was never self-sufficient in food or raw materials — only in energy") is the most instructive direct
-  comparison: Signy is actually broader in its self-sufficiency than Princess Elisabeth (power *and* food, for
+  comparison: Signy is actually broader in its self-sufficiency than Utstein (power *and* food, for
   humans), yet critically narrower in one specific place robots most need — siligel specifically. A clean,
-  confirmed non-match that sharpens rather than duplicates Princess Elisabeth's own honest complication.
+  confirmed non-match that sharpens rather than duplicates Utstein's own honest complication.
 - **[Directly-inherited, Deep]** — *Input categories combined: `City_National_Connections.md`'s own Medium
   Cultural tie to Scott + Scott's own already-completed file*
   Checked directly: the "smaller, quieter city next to a louder neighbor" resemblance is real at the level of
@@ -301,13 +301,13 @@ localize per city.*
   fragmentation, the Two Shifts custom) depend on facts specific to its own deliberate industrial design that
   have no equivalent at Signy, whose own defining structure is total isolation, not internal fragmentation. No
   finding transplants either direction.
-- **[Directly-inherited, Deep, directly resolving Port Lockroy's own forward flag]** — *Input categories
-  combined: Port Lockroy's own §23 sibling-city flag + Port Lockroy's own already-completed file*
-  Checked directly: both cities share a British founding population, but Port Lockroy's
+- **[Directly-inherited, Deep, directly resolving Puerto Abrigo's own forward flag]** — *Input categories
+  combined: Puerto Abrigo's own §23 sibling-city flag + Puerto Abrigo's own already-completed file*
+  Checked directly: both cities share a British founding population, but Puerto Abrigo's
   own central finding (a robot's own non-aging physiology as literal, personal continuity across the Communal
   Stone Wall's multi-generational construction) has no equivalent at Signy, whose own founding character was
   explicitly scientific rather than historical/memorial (per `Specs/Signy.md`'s own direct three-way
-  distinction: Rothera operational, Port Lockroy historical, Signy scientific). A confirmed non-match, the
+  distinction: Rothera operational, Puerto Abrigo historical, Signy scientific). A confirmed non-match, the
   cleanest of the three British-founded siblings' own comparisons — each city genuinely differentiated a shared
   founding nationality into a wholly different civic character.
 
@@ -338,18 +338,18 @@ localize per city.*
 most thorough Swap Test run anywhere in the Palmer subnet, matching the number of confirmed connections this
 city carries.**
 
-1. **Against Princess Elisabeth (already completed, a confirmed Medium Technical tie) — resolved as a clean,
+1. **Against Utstein (already completed, a confirmed Medium Technical tie) — resolved as a clean,
    sharpening non-match:** see Cross-Reference Synthesis above. Both cities built civic identity around
    engineered self-sufficient power, but Signy's own robot-specific vulnerability (siligel) has no equivalent
-   in Princess Elisabeth's own energy-only self-sufficiency gap.
-2. **Against Kunlun and Vostok (both already completed, confirmed Medium Technical ties) — resolved as clean
+   in Utstein's own energy-only self-sufficiency gap.
+2. **Against Kunlun and Ariun Nuur (both already completed, confirmed Medium Technical ties) — resolved as clean
    non-matches:** both ties concern power-engineering consultation specifically, not robot-culture content;
    neither city's own central findings transplant onto Signy.
 3. **Against Rothera (already completed, a confirmed Medium Infrastructure tie, already resolved from
    Rothera's own side) — confirmed directly, not merely inherited:** see Cross-Reference Synthesis above.
 4. **Against Scott (already completed, a confirmed Medium Cultural tie) — resolved as a clean non-match beneath
    a real subnet-position resemblance:** see Cross-Reference Synthesis above.
-5. **Against Port Lockroy (already completed, a confirmed British-founded sibling city, directly resolving its
+5. **Against Puerto Abrigo (already completed, a confirmed British-founded sibling city, directly resolving its
    own forward flag) — resolved as the cleanest non-match of the three British-founded siblings:** see
    Cross-Reference Synthesis above.
 

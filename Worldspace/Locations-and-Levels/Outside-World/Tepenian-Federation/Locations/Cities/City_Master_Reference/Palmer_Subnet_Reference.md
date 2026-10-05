@@ -1,6 +1,6 @@
 # Palmer Subnet — Master City Reference
 
-**Compiled 2026-09-02.** Search scope: `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/` only, per the developer's explicit instruction. 8 cities: Marambio, Signy, Esperanza, Sejong, Juan Carlos, Palmer City, Rothera, Port Lockroy.
+**Compiled 2026-09-02.** Search scope: `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/` only, per the developer's explicit instruction. 8 cities: Marambio, Signy, Esperanza, Contrapunto, Pergamino, Palmer City, Rothera, Puerto Abrigo.
 
 **Purpose:** feed the ongoing per-city division-of-industry three-tier assessments (`Division_of_Industry/16_Per_City_Three_Tier_Run.md`) and serve as a general reference. Economic/identity facts are prioritized; full narrative culture text is compressed rather than reproduced verbatim.
 
@@ -39,7 +39,7 @@
 - **Founding:** exiles inherited a structurally sound but operationally *dormant* airfield and rebuilt genuine operational discipline themselves (documentary record, not living institutional teaching).
 - **Economy §15:** Aviation/logistics 30% + Maritime/port operations 30% (equally central, established 2026-07-04/16) + Commercial/trade 15% + Technical/maintenance 20% + Other 5%.
 - **⭐ National role:** the Palmer subnet's confirmed South America shipping-receiving node (Upper Earth trade partner, parallel to South Africa/Halley, NZ/Ross, Australia/Dumont d'Urville). The airfield is **internal-Tepenia-only**; the port serves both worlds. Complementary, not competing, with Esperanza's own trans-shipment role.
-- **DoI status:** Listed as a LOGISTICS provider (aviation 30% + maritime 30% = 60%) in `04_Providers_and_National_Balance.md` §3. **⭐ Developer ruling 2026-09-02 (`16`):** Marambio's shipping connects South America + the Weddell Sea; its airport is domestic-only, connecting Marambio to the rest of Tepenia — this is what distinguishes it from Sejong's international-gateway role.
+- **DoI status:** Listed as a LOGISTICS provider (aviation 30% + maritime 30% = 60%) in `04_Providers_and_National_Balance.md` §3. **⭐ Developer ruling 2026-09-02 (`16`):** Marambio's shipping connects South America + the Weddell Sea; its airport is domestic-only, connecting Marambio to the rest of Tepenia — this is what distinguishes it from Contrapunto's international-gateway role.
 - **Notable locations:** the airfield (ruins); the shipyards (ruins); the Picnic Passage causeway.
 - Demonym: **Marambian**.
 
@@ -62,7 +62,7 @@ The richest/most emotionally weighted finding in this file: a robot dockworker i
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L16 — Marambio Airport, confirmed, Domestic.** *"Links Marambio to other Tepenian cities via the highway/aviation network"* — distinct from the international airport nearby (L17), per the developer's own highway-overlay map.
 - **Airports.md L19** — cited as the comparison point for Belgrano Airfield: *"paralleling Marambio's role in the Palmer subnet."*
-- **Highways.md L55, L74, L78, L80** — **Hwy 1's ONLY inland main-line stop on the Peninsula**, reached via the causeway/bridge chain across Seymour/Snow Hill/James Ross Islands and the Prince Gustav Channel. Port Lockroy, Palmer City and Rothera are all reached from ramps further along, not from Marambio directly.
+- **Highways.md L55, L74, L78, L80** — **Hwy 1's ONLY inland main-line stop on the Peninsula**, reached via the causeway/bridge chain across Seymour/Snow Hill/James Ross Islands and the Prince Gustav Channel. Puerto Abrigo, Palmer City and Rothera are all reached from ramps further along, not from Marambio directly.
 - **⭐ Developer clarification, 2026-09-02: Machu Picchu Airport (L17) is the ONE international airport in Tepenia — it alone connects outward, to South America. Every other confirmed airport in the national list (Zukelli/Janbogo, Mirny, the Tri-Cities, Troll, Rothera, Marambio, Belgrano) is Domestic — they connect to each other, not off-continent.** Applies to every airport citation in this reference; noted here since Marambio's own entry is where the Domestic/International contrast first appears in `Airports.md`.
 
 ---
@@ -131,7 +131,7 @@ The single most nationally significant finding flagged in the whole Palmer-subne
 - **Economy §15:** Education/childcare/family services ~25% (unusually large formal sector) + Maritime/harbor trade ~20% + Commercial ~15% + Technical/scientific ~15% + Agricultural/food production ~15% + Other/admin ~10%.
 - **⭐⭐ National role — the Esperanza Institute of Medicine** (`[CGRM 2026-09-01 · Path 6]`): one of only THREE national sources of trained medical/care personnel in the Federation; source of the nation's *settled* medicine (GPs, obstetricians/midwives, nurses, chronic-care/geriatric specialists). Flagship: Department of Pediatrics, grown directly from the founding charter + birth registry. Tepenia cannot evacuate patients off-continent, so cannot import clinicians either — every settled-medicine practitioner was made here.
 - **⭐ Trans-shipment role:** Weddell Sea-facing, mainland (non-island) status makes it a natural trans-shipment point between the Halley and Palmer subnets (e.g., Belgrano-crafted goods → Esperanza → Palmer City, documented via Griselda Alejandra Chávez's piano trade).
-- **⚠⚠ Botany finding, 2026-09-02 (`13`):** despite being the mildest inhabited Peninsula site, Hope Bay has the **lowest moss/lichen diversity of the maritime Antarctic sites studied** — below the South Shetlands. The best outdoor-growing/terraformed-belt ground in the Peninsula subnet is at **Juan Carlos (Livingston I.) and Sejong (King George I.)**, not Esperanza. Esperanza's role is reframed as "mild, cramped, and surrounded by better ground it doesn't sit on" — the city that feeds the Peninsula does so from elsewhere, echoing the Sanay/Port-of-Sanay split in a different key.
+- **⚠⚠ Botany finding, 2026-09-02 (`13`):** despite being the mildest inhabited Peninsula site, Hope Bay has the **lowest moss/lichen diversity of the maritime Antarctic sites studied** — below the South Shetlands. The best outdoor-growing/terraformed-belt ground in the Peninsula subnet is at **Pergamino (Livingston I.) and Contrapunto (King George I.)**, not Esperanza. Esperanza's role is reframed as "mild, cramped, and surrounded by better ground it doesn't sit on" — the city that feeds the Peninsula does so from elsewhere, echoing the Sanay/Port-of-Sanay split in a different key.
 - Notable locations: the birth registry (survival status TBD); Hope Bay harbor; the Esperanza Institute of Medicine.
 - Demonym: **Esperanzan**.
 
@@ -157,35 +157,35 @@ Because robots don't age, a single Caregiver-Teacher can remain a living verific
 
 ---
 
-## Sejong
+## Contrapunto
 
 **Status (✅):** Destroyed · **Population (Census I, ✅):** 316,691 humans / 328,142 robots / 644,833 combined · **Real-world basis:** King Sejong Station (South Korea/KOPRI), King George Island, South Shetlands, 62°13'S · **Subnet:** Palmer
 
 ### Files found
 | Category | Path | Tier |
 |---|---|---|
-| Specs | `Specs/Sejong.md` | ✅ |
-| Local Culture | `Local_Cultures/Palmer_Subnet/Sejong.md` | ✅ |
-| Robot Culture | `Local_Robot_Culture/Palmer_Subnet/Sejong.md` | 🔴 — ⚠ **carries a live, only-partially-fixed canon bug, see below** |
-| Vision Notes | `City_Vision_Notes/Sejong.md` (2026-07-04) | ⚠ |
-| Enneagram | `City_Enneagram_Personalities/Palmer_Subnet/Sejong.md` | 🛠 |
+| Specs | `Specs/Contrapunto.md` | ✅ |
+| Local Culture | `Local_Cultures/Palmer_Subnet/Contrapunto.md` | ✅ |
+| Robot Culture | `Local_Robot_Culture/Palmer_Subnet/Contrapunto.md` | 🔴 — ⚠ **carries a live, only-partially-fixed canon bug, see below** |
+| Vision Notes | `City_Vision_Notes/Contrapunto.md` (2026-07-04) | ⚠ |
+| Enneagram | `City_Enneagram_Personalities/Palmer_Subnet/Contrapunto.md` | 🛠 |
 | Capital Candidates | `National_Capital_Candidates.md` #6 | ✅ (rejected — see below) |
 | Megasheet | `City_Megasheets/Palmer_Subnet/Sejong/*` | 🔴 (unread in depth) |
 | DoI | `13`/`14`/`16` — international gateway ruling | ✅ |
 
 ### Canon facts (✅)
 - **No highway** — King George Island sits 160–177 km from the mainland, too wide for any bridge; maritime/aviation-only.
-- **Founding:** a primarily Anglo-Latin society of immigrants from North, Central and South America (`DR-20`); who first established it is open (`DR-20a`). **South Korea retained Significant tier (5.79%)** rather than diluting to Notable — one of the stronger founder-nation retentions, though still Sejong's smallest Significant nation.
+- **Founding:** a primarily Anglo-Latin society of immigrants from North, Central and South America (`DR-20`); who first established it is open (`DR-20a`). **South Korea retained Significant tier (5.79%)** rather than diluting to Notable — one of the stronger founder-nation retentions, though still Contrapunto's smallest Significant nation.
 - USA is sole Primary (21.65%). Janbogo and Sinheung are the living Korean demographic centers.
 - **Economy §15:** Commercial/trade 25% + Technical/scientific 20% + Diplomatic/inter-community coordination 15% + Marine/resource extraction 15% + Education 15% + Other 10%.
-- **⭐⭐ National role, ruled 2026-09-02 (`16`):** Sejong hosts **Machu Picchu Airport — the international arrival gateway**, connecting to Ushuaia and the Machu Picchu Border & Customs Authority. Distinguished from Marambio's domestic-only airport by mode+direction, not territory: "Sejong is where people and goods enter Tepenia at all." Reframed as **mandated national border/customs work** given Tepenia's existential phosphate-import dependency (`14`) — 25% mandate ruling upgraded from "weakest of the eight estimates" to solid.
-- **⚠ Open per that same ruling:** does Juan Carlos share the border function (its own §5 record notes the airport marker sits "close enough to Juan Carlos" per the map), or does Sejong hold it exclusively? Juan Carlos already carries fishing 30% — a shared border role would make it a two-role city.
-- **⭐ Botany/food:** per `13` §12, Sejong (King George I., ~130 km² ice-free) is one of the two best outdoor-terraformed-belt candidates in the Palmer subnet, alongside Juan Carlos — better than Esperanza.
+- **⭐⭐ National role, ruled 2026-09-02 (`16`):** Contrapunto hosts **Machu Picchu Airport — the international arrival gateway**, connecting to Ushuaia and the Machu Picchu Border & Customs Authority. Distinguished from Marambio's domestic-only airport by mode+direction, not territory: "Contrapunto is where people and goods enter Tepenia at all." Reframed as **mandated national border/customs work** given Tepenia's existential phosphate-import dependency (`14`) — 25% mandate ruling upgraded from "weakest of the eight estimates" to solid.
+- **⚠ Open per that same ruling:** does Pergamino share the border function (its own §5 record notes the airport marker sits "close enough to Pergamino" per the map), or does Contrapunto hold it exclusively? Pergamino already carries fishing 30% — a shared border role would make it a two-role city.
+- **⭐ Botany/food:** per `13` §12, Contrapunto (King George I., ~130 km² ice-free) is one of the two best outdoor-terraformed-belt candidates in the Palmer subnet, alongside Pergamino — better than Esperanza.
 - **National Capital Candidate #6, REJECTED:** naming carries strong symbolic freight (King Sejong = democratic reformer, Hangul literacy). Complications: Palmer subnet is Western-facing/4th-largest; island population cap limits growth; small Korean demographic contribution. **Fort McMurdo won**, confirmed 2026-07-07.
 - Demonym: **Sejongite**.
 
 ### 🔴 Robot Culture draft — DATA-INTEGRITY WARNING
-This file's own header flags a **live, incompletely-fixed canon bug**: an invalidated premise (that Sejong's small Korean population represents *dilution* of a once-larger continuous Korean community) was corrected 2026-08-02 in some files but **not all**. Still-stale, still-live at time of this compile: `Sejong_Community_Infrastructure.md` (still lists "Hangul Instruction Halls"/"Hangul literacy instruction"), `Background-Lore/Cities/Palmer_Subnet/Sejong/Course_of_Events/Sejong_07_Hangul_Kept_Alive.md` (entire chain built on the invalidated premise, unflagged), `Sejong_Course_of_Events_Suggestions.md` §7. **Flag for cleanup — not resolved by this compile.**
+This file's own header flags a **live, incompletely-fixed canon bug**: an invalidated premise (that Contrapunto's small Korean population represents *dilution* of a once-larger continuous Korean community) was corrected 2026-08-02 in some files but **not all**. Still-stale, still-live at time of this compile: `Sejong_Community_Infrastructure.md` (still lists "Hangul Instruction Halls"/"Hangul literacy instruction"), `Background-Lore/Cities/Palmer_Subnet/Sejong/Course_of_Events/Sejong_07_Hangul_Kept_Alive.md` (entire chain built on the invalidated premise, unflagged), `Sejong_Course_of_Events_Suggestions.md` §7. **Flag for cleanup — not resolved by this compile.**
 
 ### 🛠 Design-tool readings
 - **Enneagram:** Thinking / Compliant / Competency — corrected 2026-07-17 from an airport-proximity read to the density-diplomacy identity.
@@ -196,33 +196,33 @@ This file's own header flags a **live, incompletely-fixed canon bug**: an invali
 - Notable figures: two unlocked placeholders (one, "Educator Yoon Seo-yeon," replaced a name that violated the No-Subcontinentals rule). Fate of the island's other national communities. Whether the coexistence experiment "worked."
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L17 — Machu Picchu Airport, closest to Sejong.** International — *"connects directly to Ushuaia and the… Machu Picchu Border & Customs Authority."* **Directly relevant to the open border-sharing question with Juan Carlos noted above** — the developer's own map places the marker "right at Juan Carlos's label," same airport not a separate one.
+- **Airports.md L17 — Machu Picchu Airport, closest to Contrapunto.** International — *"connects directly to Ushuaia and the… Machu Picchu Border & Customs Authority."* **Directly relevant to the open border-sharing question with Pergamino noted above** — the developer's own map places the marker "right at Pergamino's label," same airport not a separate one.
 
 ---
 
-## Juan Carlos
+## Pergamino
 
 **Status (✅):** Destroyed — **deliberately targeted** by Upper Earth for its archive/intelligence function (tracking former Upper Earth officials among exiles; same logic as Zukelli's destruction) · **Population (Census I, ✅):** 189,742 humans / 196,950 robots / 386,692 combined · **Real-world basis:** Juan Carlos I Station (Spain), Livingston Island, South Shetlands, 62°39'S · **Subnet:** Palmer
 
 ### Files found
 | Category | Path | Tier |
 |---|---|---|
-| Specs | `Specs/Juan_Carlos.md` | ✅ |
-| Local Culture | `Local_Cultures/Palmer_Subnet/Juan_Carlos.md` | ✅ |
-| Robot Culture | `Local_Robot_Culture/Palmer_Subnet/Juan_Carlos.md` | 🔴 |
-| Vision Notes | `City_Vision_Notes/Juan_Carlos.md` — **deferred, no developer vision recorded** | ⚠ (thin) |
-| Enneagram | `City_Enneagram_Personalities/Palmer_Subnet/Juan_Carlos.md` | 🛠 |
+| Specs | `Specs/Pergamino.md` | ✅ |
+| Local Culture | `Local_Cultures/Palmer_Subnet/Pergamino.md` | ✅ |
+| Robot Culture | `Local_Robot_Culture/Palmer_Subnet/Pergamino.md` | 🔴 |
+| Vision Notes | `City_Vision_Notes/Pergamino.md` — **deferred, no developer vision recorded** | ⚠ (thin) |
+| Enneagram | `City_Enneagram_Personalities/Palmer_Subnet/Pergamino.md` | 🛠 |
 | Megasheet | `City_Megasheets/Palmer_Subnet/Juan_Carlos/*` | 🔴 (unread in depth) |
 | DoI | `04` §3 (FOOD·fish provider, 30%); `13` §10 | ✅ |
 
 ### Canon facts (✅)
-- **No highway** — Livingston I. sits 110 km from mainland, 95.4 km from Sejong; both far too wide for any bridge.
-- **Founding:** like Sejong, a primarily Anglo-Latin society of immigrants from the Americas (`DR-20`); who first established it is open (`DR-20a`). Spain sits at Significant tier.
-- **⭐ National role — Tepenia's first bureaucratic archive** (established 2026-07-05): the original home of Federation immigration/customs records, directly tied to the Machu Picchu Border & Customs Authority. Non-immigrant visitors routed to a separate corridor/sealiner to Palmer City. **This archive later relocated and consolidated into Amundsen Station's own pre-Split-Brain unified archive** — Juan Carlos is the direct historical origin point of the same archive DLC 1 ("Echoes of Amundsen") centers on. This function is *why* Upper Earth targeted it specifically, even after the bulk archive had moved.
+- **No highway** — Livingston I. sits 110 km from mainland, 95.4 km from Contrapunto; both far too wide for any bridge.
+- **Founding:** like Contrapunto, a primarily Anglo-Latin society of immigrants from the Americas (`DR-20`); who first established it is open (`DR-20a`). Spain sits at Significant tier.
+- **⭐ National role — Tepenia's first bureaucratic archive** (established 2026-07-05): the original home of Federation immigration/customs records, directly tied to the Machu Picchu Border & Customs Authority. Non-immigrant visitors routed to a separate corridor/sealiner to Palmer City. **This archive later relocated and consolidated into Amundsen Station's own pre-Split-Brain unified archive** — Pergamino is the direct historical origin point of the same archive DLC 1 ("Echoes of Amundsen") centers on. This function is *why* Upper Earth targeted it specifically, even after the bulk archive had moved.
 - **Economy §15:** Maritime/fishing 30% + Commercial/trade 20% + Technical/scientific 20% + Cultural/social institutions 15% + Other 15%.
 - **Defining social institution:** a hosted, argument-driven gathering tradition, **deliberately never given a formal name** (removed by developer direction 2026-07-22 — "nobody in-world calls it anything either"). Exported into Concordia (Leo, Taurus, Pisces districts).
-- **⭐ Botany/food:** per `13` §12, Juan Carlos (Livingston I.) is one of the two best outdoor-terraformed-belt candidates in the Palmer subnet, alongside Sejong.
-- **⚠ Open (see Sejong entry above):** does Juan Carlos share Machu Picchu Airport's border function with Sejong?
+- **⭐ Botany/food:** per `13` §12, Pergamino (Livingston I.) is one of the two best outdoor-terraformed-belt candidates in the Palmer subnet, alongside Contrapunto.
+- **⚠ Open (see Contrapunto entry above):** does Pergamino share Machu Picchu Airport's border function with Contrapunto?
 - Demonym: TBD.
 
 ### 🔴 Robot Culture draft
@@ -237,7 +237,7 @@ One-liner: robot standing measured by argumentative skill in the unnamed gatheri
 - Notable figures: TBD. Demonym: TBD. Whether Arcanet infrastructure survived the strike (ties to "The Archivist's Trail" cross-DLC questline).
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L17 — Machu Picchu Airport, sits close enough to Juan Carlos that the developer's own map marks it at Juan Carlos's label.** *"Same airport, not a separate one"* from Sejong's. **Directly relevant to the open border-sharing question** noted in Sejong's entry above — whether Juan Carlos holds a share of the international-gateway mandate.
+- **Airports.md L17 — Machu Picchu Airport, sits close enough to Pergamino that the developer's own map marks it at Pergamino's label.** *"Same airport, not a separate one"* from Contrapunto's. **Directly relevant to the open border-sharing question** noted in Contrapunto's entry above — whether Pergamino holds a share of the international-gateway mandate.
 
 ---
 
@@ -259,7 +259,7 @@ One-liner: robot standing measured by argumentative skill in the unnamed gatheri
 
 ### Canon facts (✅)
 - Settled **June 21, 2564** — the day the Falkland Treaty was signed; first Tepenian city. Founded by three groups united by relationship to robots (exiled robots, human partners, human ideological supporters), **not by nationality** — the only Tepenian city with no founding-nation-vs-majority tension.
-- **The only city with all 43 master-list nations present** (deliberate 2026-07-03 expansion) — Tepenia's genuine most-diverse city (distinct from Sejong's dense-but-narrower diversity).
+- **The only city with all 43 master-list nations present** (deliberate 2026-07-03 expansion) — Tepenia's genuine most-diverse city (distinct from Contrapunto's dense-but-narrower diversity).
 - **100 Miles Davis Boulevard** — the first official address in Tepenia (the original customs shack). The Antarctica flag (real pre-war flag, found tattered, kept) and the jazz record collection are the founding artifacts.
 - **Economy §15 (marked "reasonable working estimate, not confirmed canon" in the source file itself):** Entertainment/hospitality 35% + Commercial/trade 20% + Cultural institutions/arts 15% + Technical/scientific 10% + Marine/resource extraction 10% + Other 10%.
 - **⭐ Cultural capital, NOT the governmental capital** — that's Fort McMurdo (resolved 2026-07-07, two independent passes converged). Palmer City, Concordia, and Lazar are explicitly excluded from capital candidacy.
@@ -271,7 +271,7 @@ Previously undefined anywhere in the project. **Confirmed, locked-in canon:**
 - **Dueling narratives are canon:** Upper Earth's official story centers his death, not what provoked it; Tepenia's story is unambiguous — she is understood as a person who defended herself.
 - **She will have a name and be a household figure in Tepenian cultural memory** — very likely the answer to Palmer City's long-open "Notable Figures" gap. **Not yet named.**
 - Her fate, the diplomat's name/nationality: genuinely open, flagged for future design, not decided.
-- **Economic model resolved:** Palmer City runs substantially on Upper Earth tourism (casinos, nightlife) — public disdain, private indulgence. This is a genuine partial answer to the (at-that-time-open) Upper Earth trade justification question. Arrival gateway: Machu Picchu Base on King George Island (customs/immigration point, distinct from the city of Sejong).
+- **Economic model resolved:** Palmer City runs substantially on Upper Earth tourism (casinos, nightlife) — public disdain, private indulgence. This is a genuine partial answer to the (at-that-time-open) Upper Earth trade justification question. Arrival gateway: Machu Picchu Base on King George Island (customs/immigration point, distinct from the city of Contrapunto).
 - Sensory detail: dance halls (jazz, rockabilly, electroswing), casinos, rain-soaked streets.
 
 ### 🔴 Robot Culture draft — sensitive content flag
@@ -286,14 +286,14 @@ This file's own header states it deliberately **does not** build culture content
 - The gynoid's name/identity and fate (developer-paused, high sensitivity). The diplomat's name/nationality. The Antarctica flag's ultimate fate. No confirmed pre-Long-Night-War historical beats beyond the founding + inciting incident.
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L25** — listed highway-only, no airport. Consistent — arrival for the tourism economy was via Machu Picchu Base (Sejong-area, a separate customs/immigration point) rather than a Palmer City airfield.
+- **Airports.md L25** — listed highway-only, no airport. Consistent — arrival for the tourism economy was via Machu Picchu Base (Contrapunto-area, a separate customs/immigration point) rather than a Palmer City airfield.
 - **Highways.md L74, L79** — reached via a **RAMP off Hwy 1, requiring a BOAT CROSSING** (not a road) — the only Hwy 1-adjacent city not reachable by road alone.
 
 ---
 
 ## Rothera
 
-**Status (✅):** Damaged, partially operational — survived via decentralization across Adelaide Island, unlike smaller-but-destroyed Palmer City/Sejong · **Population (Census I, ✅):** 153,760 humans / 163,689 robots / 317,449 combined · **Real-world basis:** Rothera Research Station (UK/BAS), Adelaide Island, Marguerite Bay, 67°34'S · **Subnet:** Palmer — **the Palmer subnet's industrial center**
+**Status (✅):** Damaged, partially operational — survived via decentralization across Adelaide Island, unlike smaller-but-destroyed Palmer City/Contrapunto · **Population (Census I, ✅):** 153,760 humans / 163,689 robots / 317,449 combined · **Real-world basis:** Rothera Research Station (UK/BAS), Adelaide Island, Marguerite Bay, 67°34'S · **Subnet:** Palmer — **the Palmer subnet's industrial center**
 
 ### Files found
 | Category | Path | Tier |
@@ -307,7 +307,7 @@ This file's own header states it deliberately **does not** build culture content
 | DoI | `04` §3 (FABRICATION provider, 40%); `12`/`13`/`14` livestock/food-basis work | ✅ |
 
 ### Canon facts (✅)
-- **Why it survived (established 2026-07-03):** Adelaide Island is by far the largest, most mountainous Palmer subnet landmass (~120 km, peaks >2,500 m) — the industrial base is genuinely decentralized across it rather than concentrated, so no single strike could erase it, unlike Palmer City/Sejong's concentrated small islands. **Also has genuine large-scale underground vault sections**, a compounding third layer of resilience.
+- **Why it survived (established 2026-07-03):** Adelaide Island is by far the largest, most mountainous Palmer subnet landmass (~120 km, peaks >2,500 m) — the industrial base is genuinely decentralized across it rather than concentrated, so no single strike could erase it, unlike Palmer City/Contrapunto's concentrated small islands. **Also has genuine large-scale underground vault sections**, a compounding third layer of resilience.
 - **Founding:** inherited the rare paved Bonner airstrip (900 m).
 - **Economy §15:** Industrial/manufacturing 40% (defining) + Marine/resource extraction 20% + Aviation/logistics 15% + Technical/scientific 10% + Commercial/trade 10% + Other 5%.
 - **⭐ National role:** the Palmer subnet's industrial center — raw materials → finished infrastructure components used across the whole subnet, plausibly reaching every subnet city including Palmer City. Listed FABRICATION provider at "industrial 40%" in `04` §3.
@@ -332,18 +332,18 @@ One-liner: a Rothera robot's real "home" is her specific work site on Adelaide I
 
 ---
 
-## Port Lockroy
+## Puerto Abrigo
 
-**Status (✅):** Damaged, partially operational — spared by strategic irrelevance + probable conflation with Palmer City's strike zone · **Population (Census I, ✅):** 63,338 humans / 65,549 robots / 128,887 combined (Tepenia's 2nd-smallest city) · **Real-world basis:** Port Lockroy (UK, Operation Tabarin 1944), Goudier Island, Wiencke Island, 64°49'S · **Subnet:** Palmer
+**Status (✅):** Damaged, partially operational — spared by strategic irrelevance + probable conflation with Palmer City's strike zone · **Population (Census I, ✅):** 63,338 humans / 65,549 robots / 128,887 combined (Tepenia's 2nd-smallest city) · **Real-world basis:** Puerto Abrigo (UK, Operation Tabarin 1944), Goudier Island, Wiencke Island, 64°49'S · **Subnet:** Palmer
 
 ### Files found
 | Category | Path | Tier |
 |---|---|---|
-| Specs | `Specs/Port_Lockroy.md` | ✅ |
-| Local Culture | `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` | ✅ |
-| Robot Culture | `Local_Robot_Culture/Palmer_Subnet/Port_Lockroy.md` | 🔴 |
-| Vision Notes | `City_Vision_Notes/Port_Lockroy.md` (2026-07-04) — **full 250-year development arc, developer-approved** | ⚠ |
-| Enneagram | `City_Enneagram_Personalities/Palmer_Subnet/Port_Lockroy.md` | 🛠 |
+| Specs | `Specs/Puerto_Abrigo.md` | ✅ |
+| Local Culture | `Local_Cultures/Palmer_Subnet/Puerto_Abrigo.md` | ✅ |
+| Robot Culture | `Local_Robot_Culture/Palmer_Subnet/Puerto_Abrigo.md` | 🔴 |
+| Vision Notes | `City_Vision_Notes/Puerto_Abrigo.md` (2026-07-04) — **full 250-year development arc, developer-approved** | ⚠ |
+| Enneagram | `City_Enneagram_Personalities/Palmer_Subnet/Puerto_Abrigo.md` | 🛠 |
 | Megasheet | `City_Megasheets/Palmer_Subnet/Port_Lockroy/*` | 🔴 (unread in depth) |
 | DoI | `13` §10 (as an importer/small-city assessment context) | ✅ |
 
@@ -355,12 +355,12 @@ One-liner: a Rothera robot's real "home" is her specific work site on Adelaide I
 
 ### ⚠ Vision Notes — a full developer-approved 250-year arc, uniquely detailed for this city
 1. **Early Second Interwar (~2564–2650s):** founding generation adapts the 1944 buildings; small-scale subsistence (goats); relies on Upper Earth imports (tobacco) since hydroponics is still rudimentary. A named-but-unconfirmed old man (goat-tender/postal contact/stonemason) is the strongest candidate for the city's long-empty Notable Figures slot — carving a stone wall (ships arriving, a DNA helix) as a personal project.
-2. **Mid Second Interwar (~2650s–2750s):** hydroponics matures; Amundsen Tower opens (~2688). Port Lockroy's postal function specializes: **Rothera moves the materials; Port Lockroy moves the words** — correspondence, small parcels, and historical archive shipments along the Peninsula corridor. **The stone wall becomes a multi-generational communal artifact** (other residents add panels over time) — a Notable Local Landmark by the time of the Long Night War.
+2. **Mid Second Interwar (~2650s–2750s):** hydroponics matures; Amundsen Tower opens (~2688). Puerto Abrigo's postal function specializes: **Rothera moves the materials; Puerto Abrigo moves the words** — correspondence, small parcels, and historical archive shipments along the Peninsula corridor. **The stone wall becomes a multi-generational communal artifact** (other residents add panels over time) — a Notable Local Landmark by the time of the Long Night War.
 3. **Late Second Interwar (approaching 2812):** the postal-hub role is fully functioning. Argentine tobacco stays the preferred import even after local alternatives exist (taste over necessity).
 4. **The war:** the postal-hub future took real damage but wasn't erased — consistent with "damaged; partially operational."
 
 ### 🔴 Robot Culture draft
-One-liner: a Port Lockroy robot may be the only resident present for the entire ~200-year growth of the Communal Stone Wall, simply by never having a reason to stop being present for it.
+One-liner: a Puerto Abrigo robot may be the only resident present for the entire ~200-year growth of the Communal Stone Wall, simply by never having a reason to stop being present for it.
 
 ### 🛠 Design-tool readings
 - **Enneagram:** not independently read this pass (flagged for follow-up).
@@ -385,17 +385,17 @@ One-liner: a Port Lockroy robot may be the only resident present for the entire 
 - **Marambio ↔ Byrd:** Medium Infrastructure tie (secondary logistics link).
 - **Esperanza ↔ Belgrano:** Medium Cultural/Demographic tie, explicitly characterized as "thin, logistics-only."
 - **Esperanza ↔ Janbogo:** Medium Demographic tie (shared emigration drain toward Lazar, alongside Zukelli).
-- **Signy ↔ Kunlun, Vostok** (Mirny subnet): Medium Technical ties (power-engineering consultation).
-- **Signy ↔ Princess Elisabeth** (Halley subnet): Medium Technical tie ("both cities built genuine civic identity around engineered, actively-maintained self-sufficient power").
+- **Signy ↔ Kunlun, Ariun Nuur** (Mirny subnet): Medium Technical ties (power-engineering consultation).
+- **Signy ↔ Utstein** (Halley subnet): Medium Technical tie ("both cities built genuine civic identity around engineered, actively-maintained self-sufficient power").
 - **Signy ↔ Rothera:** Medium Infrastructure tie — "the only two Palmer subnet cities that survived the Long Night War intact/functional."
 - **Signy ↔ Scott** (Janbogo subnet): Medium Cultural tie ("both are the smaller, quieter city in a subnet otherwise defined by a larger, louder neighbor").
-- **Rothera/Port Lockroy/Signy:** each independently developed a genuinely distinct civic character (operational / historical / scientific respectively — per `Specs/Signy.md`'s own three-way distinction).
+- **Rothera/Puerto Abrigo/Signy:** each independently developed a genuinely distinct civic character (operational / historical / scientific respectively — per `Specs/Signy.md`'s own three-way distinction).
 - **Byrd Expedition founding-era link** (established 2026-07-03): Palmer City AND Rothera both shipped historical accounts/maps to help sharpen the Byrd Expedition's heading toward the lost Byrd Station site — a real founding-era connection spanning three DLCs (Palmer City here, Belgrano in DLC 5, Byrd in DLC 2).
 
 ---
 
 ## Report on completeness (see fork summary for the short version)
 
-**Deep-read (full text):** all 8 Specs, all 8 Local_Cultures, all 8 City_Vision_Notes, 3 of 8 Local_Robot_Culture in full (Marambio, Signy, Esperanza) + headers/one-liners for the remaining 5, 2 of 8 Enneagram in full (Rothera, Sejong) + district-correlate table rows for all 8.
+**Deep-read (full text):** all 8 Specs, all 8 Local_Cultures, all 8 City_Vision_Notes, 3 of 8 Local_Robot_Culture in full (Marambio, Signy, Esperanza) + headers/one-liners for the remaining 5, 2 of 8 Enneagram in full (Rothera, Contrapunto) + district-correlate table rows for all 8.
 
 **Not deep-read, existence/topic noted only:** Megasheet `Full_Extrapolation.md` / `Cross_Reference_Synthesis.md` / `Community_Infrastructure.md` / `Physical_Infrastructure_Attributes.md` files (48 files across the 8 cities) — these are explicitly the pipeline's "invention pass" and "implication-hunting pass" (🔴 tier), lower priority given their draft status and the volume (each city has 5–7 files). Background-Lore Course of Events / historical vignette chains were **not searched** — out of the developer-specified scope (`Worldspace/.../Cities/` tree only) and separately, per the developer's explicit instruction this session, **vignettes are not canon** regardless.

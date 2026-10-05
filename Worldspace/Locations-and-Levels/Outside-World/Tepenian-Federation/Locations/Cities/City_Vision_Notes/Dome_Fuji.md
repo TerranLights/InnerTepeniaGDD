@@ -4,7 +4,7 @@
 
 **Session date:** 2026-07-06
 
-*(Closes out the Mawson subnet — the third and final city, following Mawson and Sayowa the same day.)*
+*(Closes out the Mawson subnet — the third and final city, following Mawson and Temirötkel the same day.)*
 
 ---
 

@@ -14,13 +14,13 @@
 1. **✅ THE RECIPROCAL-OBLIGATION GAP — RESOLVED.** *(Resolution 4 below.)* The fix was
    a **three-way split** — baseline / mandated distinctive / free distinctive — not a
    charge on importers. **National character budget falls from 59.4% to 46.5%.** The
-   210,467-worker-year hole at Halley, Neumayer and Vostok was closed the same day by
-   developer ruling: **research at Neumayer and Vostok, general commuter labor at
+   210,467-worker-year hole at Halley, Neumayer and Ariun Nuur was closed the same day by
+   developer ruling: **research at Neumayer and Ariun Nuur, general commuter labor at
    Halley.**
-2. **✅ {{Bunger Hills City}} — DELIBERATELY DEFERRED, and the reasoning inverts what
+2. **✅ Relung Panen — DELIBERATELY DEFERRED, and the reasoning inverts what
    this file first said.** *(Developer, 2026-09-02.)*
 
-   > *"let's hold off on {{Bunger Hills City}}, and we can figure out what the baselines
+   > *"let's hold off on Relung Panen, and we can figure out what the baselines
    > for everything are according to what makes sense with the rest of the country so
    > that it's #1.) internally consistent with the national character, and #2.) distinct
    > from other cities as its own community with its own unique identity. Both will be
@@ -61,7 +61,7 @@
 | 4 | **The 80× efficiency gap has no name** | EDEN ISS's measured **256 kWh/kg** vs a mature **10**. **The most important technology in the setting**, with no name, history or inventor |
 | 5 | **Post-war feed supply** | Concordia's Frostlands needs **40,946 t/yr**, canon says imported, and **Casey — the Hwy 110 junction — is destroyed.** Who supplies it, on which road? |
 | 6 | **Denison's grow-status** | The wind-as-power inversion. **Worth 75,748 producers** |
-| 7 | **Concordia's difficulty value** | Set at **1.67** against Vostok's **2.50**, at 3,233 m and 1,100 km inland. Moves its own food burden 13.0% → 19.4% |
+| 7 | **Concordia's difficulty value** | Set at **1.67** against Ariun Nuur's **2.50**, at 3,233 m and 1,100 km inland. Moves its own food burden 13.0% → 19.4% |
 | 8 | **Water recycling rate** | **Not a footnote:** melting ice costs **128 kWh/t**; crop water alone is **4.4 GW against a staple lighting load of 11.8 GW** |
 | 9 | **Disease in sealed monocultures** | The counterpart to *"the animals take years to replace"* |
 | 10 | **What anyone eats in 2822** | Depends on post-war demographics — **parked behind the war-damage question the developer deliberately left low-priority** |
@@ -172,7 +172,7 @@ shipping · marine science · **strategic mineral city with a decision to make.*
 |---|--:|
 | **Kunlun** *(Dome A, ~4,090 m)* | coldest in the roster |
 | **Dome Fuji** *(~3,810 m)* | ~−54 °C |
-| Vostok | ~−55 °C |
+| Ariun Nuur | ~−55 °C |
 | Concordia *(Dome C)* | **−52.7 °C** *(canon)* |
 
 > ## ⭐⭐ **On the Tepenian plateau, keeping seeds cold costs NOTHING. The energy is spent
@@ -224,7 +224,7 @@ site is both.**
 > logistical irony, that *"the deepest guarantee of human food in Tepenia is held by a city with no humans in
 > it."* **It is not an irony. It is the point.**
 >
-> **⚠ Esperanza's WORKING COLLECTION is unaffected** *(§2 below)*, and **{{Bunger Hills City}} remains
+> **⚠ Esperanza's WORKING COLLECTION is unaffected** *(§2 below)*, and **Relung Panen remains
 > deferred** *(§3)*. **The change is that the deep archive is now DOUBLED, not relocated.**
 >
 > **⚠ Division-of-industry determinations are UNAFFECTED.** Dome Fuji's vault sits inside its
@@ -245,7 +245,7 @@ site on the continent — and Dome Fuji was originally chosen for marginally bet
 - **⚠ Requires active refrigeration** at +1.5 °C January mean. **That is the cost of
   accessibility, and it is the correct place to pay it.**
 
-### ⏸️ 3. A third, once founded — **{{Bunger Hills City}}**
+### ⏸️ 3. A third, once founded — **Relung Panen**
 
 **The second agricultural region should hold a copy of what it grows.** Deferred until
 the city exists.
@@ -304,8 +304,8 @@ free tier. **A stevedore is conscripted; a musician is not.**
 | **Fort McMurdo** | **23.4%** | | Dome Fuji | 72.7% |
 | **Marambio** | **23.5%** | | Kunlun | 71.4% |
 | **Belgrano** | **25.1%** | | Palmer City | 60.9% |
-| **Sayowa** | **27.3%** | | Sejong | 60.6% |
-| **Sanay · Janbogo** | **27.8 · 29.4%** | | Lazar · Scott · Port Lockroy | 59.0% |
+| **Temirötkel** | **27.3%** | | Contrapunto | 60.6% |
+| **Sanay · Janbogo** | **27.8 · 29.4%** | | Lazar · Scott · Puerto Abrigo | 59.0% |
 
 > ### ⭐ **The least free cities in Tepenia are its LOGISTICS AND FABRICATION cities —
 > the ports, the airfields, the factories.** **Not the coldest places, not the hardest
@@ -324,7 +324,7 @@ whatsoever:**
 |---|--:|--:|---|--:|
 | **Halley** | 709,749 | **102,800** | **— none —** | 102,800 |
 | **Neumayer** | 613,735 | **88,893** | **— none —** | 88,893 |
-| **Vostok** | 129,617 | **18,774** | **— none —** | 18,774 |
+| **Ariun Nuur** | 129,617 | **18,774** | **— none —** | 18,774 |
 | | **1,453,101** | | | **⛔ 210,467** |
 
 > ## **1.45 million people — 9.3% of the national human population — consume nationally
@@ -335,7 +335,7 @@ fabrication + dispatch, and relay + Tower ops.)*
 
 ---
 
-## ✅ MOSTLY CLOSED, SAME DAY — **"Neumayer and Vostok both export SCIENTIFIC RESEARCH"**
+## ✅ MOSTLY CLOSED, SAME DAY — **"Neumayer and Ariun Nuur both export SCIENTIFIC RESEARCH"**
 
 `[CGRM 2026-09-02 · Path 6 · developer ruling]`
 
@@ -344,7 +344,7 @@ fabrication + dispatch, and relay + Tower ops.)*
 | City | Distinctive tier | Owes | **Minimum research sector** |
 |---|--:|--:|--:|
 | **Neumayer** | 532,089 | 88,893 | **16.7% of distinctive** *(9.4% of workforce)* |
-| **Vostok** | 203,100 | 18,774 | **9.2% of distinctive** *(5.8% of workforce)* |
+| **Ariun Nuur** | 203,100 | 18,774 | **9.2% of distinctive** *(5.8% of workforce)* |
 | ⏸️ Halley | 618,519 | 102,800 | *16.6% — see below* |
 
 **Both are plausible sizes for a research city, and both are FLOORS, not estimates.**
@@ -372,7 +372,7 @@ ISS's measured 256 kWh/kg — **944 GW, 2.9× the whole Amundsen Tower.** **Neum
 research is not a courtesy export. It is the difference between a country that eats and
 one that cannot afford to.**
 
-### Vostok's subject is already canon
+### Ariun Nuur's subject is already canon
 
 **Bioinformatics and DNA computing — the basis of the Cryptograph Helix.** Its research
 export was established; only its economic role was missing.
@@ -389,7 +389,7 @@ mechanism canon had already modeled.**
 | **→ commuters required** | **9.4% of its workforce** |
 
 > ## ⭐ **`05_Remaining_Cities_Assessment` already ran commuter scenarios at "5% of
-> Halley + {{Abowasa}} workforce commuting" and "10% commuting." The debt requires
+> Halley + Santa Luce workforce commuting" and "10% commuting." The debt requires
 > 9.4% — INSIDE canon's own range, at its top end.**
 >
 > **The mechanism that was invented to close the Halley subnet's food gap turns out to
@@ -439,9 +439,9 @@ Halley export; the food debt no longer requires it.**
 
 **Thirteen cities show 0% mandated because their §15 sectors have never been
 classified** *(`04` §3 set 22 providers aside and left *"15 cities remain to be
-needs-assessed"*)*: Denison · Concordia · Dumont d'Urville · {{Abowasa}} · Princess
+needs-assessed"*)*: Denison · Concordia · Dumont d'Urville · Santa Luce · Princess
 Elisabeth *(listed as an energy-engineering provider with no percentage)* · Cape Adare ·
-Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji.
+Zhongshan · Lazar · Scott · Puerto Abrigo · Contrapunto · Kunlun · Dome Fuji.
 
 > ## ✅ **STATUS: LIST A ITEM 1 IS RESOLVED AS A METHOD. The term is defined and
 > computable, and the national and per-city figures above are real.**
@@ -456,7 +456,7 @@ Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji.
 **the reciprocal-obligation term.**
 
 **⛔ Blocking the per-city pass — now TWO, not three:**
-1. **{{Bunger Hills City}}** — a founding decision.
+1. **Relung Panen** — a founding decision.
 2. **The empty differentiation table** — mechanical, but `CLAUDE.md` binds it per-city.
 
 **✅ AND THE 210,467-WORKER-YEAR HOLE IS CLOSED — same day, by developer ruling:**
@@ -465,7 +465,7 @@ Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji.
 |---|--:|---|--:|
 | **Neumayer** | 88,893 | **scientific research** — and its subject is **EDEN ISS**, i.e. the growing technology the whole nation runs on | **16.7% of distinctive** |
 | **Halley** | 102,800 | **general commuter labor** — mines, rigs, ports, yards, and krilling among them | **9.4% of workforce** |
-| **Vostok** | 18,774 | **scientific research** — bioinformatics / DNA computing, already canon | **9.2% of distinctive** |
+| **Ariun Nuur** | 18,774 | **scientific research** — bioinformatics / DNA computing, already canon | **9.2% of distinctive** |
 
 **All three are floors derived from the debt, not invented figures — and all three sit
 comfortably inside what canon already said about these cities.**
@@ -484,10 +484,10 @@ comfortably inside what canon already said about these cities.**
 **Those cities currently show 0% mandated purely because nobody has looked, not because
 they do nothing:**
 
-**Denison · Concordia · Dumont d'Urville · {{Abowasa}} · Princess Elisabeth · Cape Adare ·
-Zhongshan · Lazar · Scott · Port Lockroy · Sejong · Kunlun · Dome Fuji**
+**Denison · Concordia · Dumont d'Urville · Santa Luce · Utstein · Cape Adare ·
+Zhongshan · Lazar · Scott · Puerto Abrigo · Contrapunto · Kunlun · Dome Fuji**
 
-**The question for each is the one just answered for Halley, Neumayer and Vostok:
+**The question for each is the one just answered for Halley, Neumayer and Ariun Nuur:
 what does it give the Federation that the Federation would miss?** ⚠ **Some may
 legitimately answer "nothing national" — a city that is purely itself is a valid and
 interesting result, not a failure.** *(Kunlun and Dome Fuji, with zero humans, are the
@@ -505,7 +505,7 @@ not from invention.**
 
 1. **Baseline** — `Humans×(120.7·D + 85.6)/1000 + Residents×(64·D + 113.2)/1000`, with
    the food term at **10%** for the geologically-forced importers *(Halley, Neumayer,
-   Vostok, Byrd, Amundsen Station, Kunlun, Dome Fuji)* and **100%** for everyone else.
+   Ariun Nuur, Byrd, Amundsen Station, Kunlun, Dome Fuji)* and **100%** for everyone else.
 2. **Mandated distinctive** — the city's national provider sectors, from `04` §3 or from
    Half A. **Mandated/discretionary test: would the nation suffer materially without
    it?** *(Sanay's docks yes; Shirayuki's arts no.)*
@@ -522,7 +522,7 @@ not from invention.**
   producers in four days on judgment calls *(`13` §15)*. **The durable outputs are the
   tier table and the 7.4% specialization slack.**
 - **Verify units.** Four 1,000×/digit errors occurred and were self-caught in this work.
-- **{{Bunger Hills City}} is deferred on purpose** — see List A item 2.
+- **Relung Panen is deferred on purpose** — see List A item 2.
 - **⭐ The free tier is where LAW G weird industries, Local Texture and discretionary
   exports live — and it is 13 points smaller than the model said a week ago.** Budget
   accordingly.

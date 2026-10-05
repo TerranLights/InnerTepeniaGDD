@@ -202,7 +202,7 @@ Filtered through the city's own two-origin, large-scale character rather than an
 ## 23. Relationship to Other Cities
 
 - **Troll (west, Hwy 7):** Direct highway neighbor; Lazar is the eastern terminus of Hwy 7 proper.
-- **Princess Elisabeth (east, Hwy 7-ext):** Direct neighbor via the Belgrano Highway Extension, which originates at Lazar.
+- **Utstein (east, Hwy 7-ext):** Direct neighbor via the Belgrano Highway Extension, which originates at Lazar.
 - **The rest of the Halley subnet:** As Tepenia's largest surviving population center overall (not just the subnet's), Lazar likely plays an outsized role in post-war subnet logistics and recovery, though the exact shape of that role is TBD for DLC 5.
 
 ---

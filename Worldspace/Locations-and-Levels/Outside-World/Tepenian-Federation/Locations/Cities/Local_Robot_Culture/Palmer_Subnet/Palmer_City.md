@@ -2,7 +2,7 @@
 
 **Run #30 of the Local Robot Culture Methodology, 2026-08-11 — fourth city of the Palmer Subnet, run at the
 deepest tier used anywhere in the subnet, matching the depth already given to its Physical Infrastructure and
-Cross-Reference Synthesis files.** Directly follows up on forward flags from Juan Carlos's and Marambio's own
+Cross-Reference Synthesis files.** Directly follows up on forward flags from Pergamino's and Marambio's own
 completed files. Applies the shared-experience-first Kinship framing and the corrected two-slot Solar-symbol/
 Robo-Element check from the start. **Palmer City is Destroyed**, like every Palmer-subnet city run so far —
 its `Local_Cultures` file is written present-tense per confirmed project methodology, describing the living
@@ -40,7 +40,7 @@ performance, because for the robots actually living it, it was plausibly always 
   (Robot-Specific Culture — "inseparable from the city's founding mythology"; the Bonded Lattice faction's
   philosophical roots trace directly here, making Palmer City "the spiritual home of that entire ideological
   tradition"), §18 (exile as a chosen act, partnership between humans and robots as something worth choosing
-  exile for, as the closest thing to a shared civic philosophy), §23 (Sejong, Juan Carlos, Mawson, Byrd, Lazar),
+  exile for, as the closest thing to a shared civic philosophy), §23 (Contrapunto, Pergamino, Mawson, Byrd, Lazar),
   §25 (jazz, the founding story, the Bonded Lattice tradition, and "a specific type of person... comfortable
   with spectacle" as the city's exports), §32 (diaspora — rare given Peninsula distance; jazz, the founding
   image, and the Bonded Lattice as what actually survived, carried by people rather than infrastructure).
@@ -91,8 +91,8 @@ performance, because for the robots actually living it, it was plausibly always 
   ("An Agreement Neither Side Announces" — the quiet Machu Picchu visa/tracking arrangement) fed the central
   finding below directly; both flagged there as non-canon candidate material, though Community Infrastructure's
   own Living Exhibition Halls addition already treats the underlying "cohabitation as tourism product" fact as
-  established. `City_National_Connections.md` confirms Strong Political/Economic ties to Sejong (not yet run)
-  and Juan Carlos (already completed — the shared Machu Picchu gateway corridor), a Strong Infrastructure tie to
+  established. `City_National_Connections.md` confirms Strong Political/Economic ties to Contrapunto (not yet run)
+  and Pergamino (already completed — the shared Machu Picchu gateway corridor), a Strong Infrastructure tie to
   Byrd (already completed — sustained labor migration), a Medium Economic/Cultural tie to Mawson (already
   completed — Tepenia's two deliberately-cultivated hospitality economies), and a Medium Cultural tie to Lazar
   (Halley subnet, already completed — the two genuine big-city megacenters). District Refugee Diaspora
@@ -100,7 +100,7 @@ performance, because for the robots actually living it, it was plausibly always 
   diaspora mechanism.
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs (`Palmer_City_Full_
   Extrapolation.md`, `Palmer_City_Mega_Init.md`) → `City_National_Connections.md` directly → direct checks of
-  Juan Carlos's, Marambio's, Byrd's, Mawson's, and Lazar's own already-completed files for their respective
+  Pergamino's, Marambio's, Byrd's, Mawson's, and Lazar's own already-completed files for their respective
   confirmed ties → a direct check of the companion-character folder tied to the inciting incident, specifically
   to confirm scope boundaries rather than to draw content from it (see header note).
 
@@ -212,7 +212,7 @@ status.*
   the Petrograd Room's own curated presentation and the Late Registry's after-hours specialty scene, without
   needing much translation at all. Distinct mechanism from every other bohemian-pole city so far: variety here
   is deliberately staged and marketed as part of the entertainment economy itself, not incidental to
-  demographic mix (Janbogo) or shared-table cross-pollination (Zukelli) or host curation (Juan Carlos) — Palmer
+  demographic mix (Janbogo) or shared-table cross-pollination (Zukelli) or host curation (Pergamino) — Palmer
   City's version is produced and sold as spectacle, consistent with everything else about the city's civic
   character.
 
@@ -230,7 +230,7 @@ status.*
 ### 8. Vernacular Language — Robot-Specific Speech Markers
 
 - **[Emergent, robot-only, Surface]** §8's cross-language code-switching and jazz-borrowed civic vocabulary are
-  already established. A genuinely new angle, distinct from Princess Elisabeth's own bilingual-fluency finding:
+  already established. A genuinely new angle, distinct from Utstein's own bilingual-fluency finding:
   given the city's full 43-nation composition and its founding population's own organizing principle
   (relationship to robots, not nationality), a Palmer City robot plausibly speaks with the least nationally-
   marked voice of any robot population examined in this project — not bilingual between two specific languages,
@@ -341,8 +341,8 @@ status.*
 thorough Swap Test run in the Palmer subnet so far, matching the depth this city's own source material
 warranted.**
 
-1. **Against Juan Carlos (already completed, a confirmed Strong Political/Economic tie) — resolved as a clean
-   non-match:** Juan Carlos's own argument-as-currency social register and Palmer City's own spectacle-and-
+1. **Against Pergamino (already completed, a confirmed Strong Political/Economic tie) — resolved as a clean
+   non-match:** Pergamino's own argument-as-currency social register and Palmer City's own spectacle-and-
    welcome register share only the Machu Picchu gateway function, not a cultural resemblance; neither city's
    own robot-culture findings transplant onto the other.
 2. **Against Marambio (already completed) — resolved as a genuine, additive connection, not a repeat:** see
@@ -361,5 +361,5 @@ warranted.**
 No finding above reads as generic "entertainment capital" content that happened to get filed under Palmer
 City's name — every finding depends on facts (the Living Exhibition Halls' own specific established mechanics,
 the Bonded Lattice's literal institutional origin here, the New Arrivals Toast) that are concretely,
-specifically Palmer City's own. **Sejong (a confirmed Strong Political/Economic tie, not yet run) is flagged
+specifically Palmer City's own. **Contrapunto (a confirmed Strong Political/Economic tie, not yet run) is flagged
 forward for a real re-check once run, and the remaining Palmer-subnet cities are flagged forward generally.**

@@ -197,9 +197,9 @@ Filtered through Halley's own layered history rather than any single register �
 
 ## 23. Relationship to Other Cities
 
-- **Belgrano:** Direct Hwy 7 neighbor to the southwest; both Halley subnet cities, though Belgrano's own trajectory (survived the war, declined after) diverges sharply from Halley's continuous operation.
+- **Belgrano:** Southwest along Hwy 7, then Halley's connecting road *(revised 2026-10-03, developer ruling: Halley is reached by a connecting road off Hwy 7, not a main-line stop — its ice is constantly moving)*; both Halley subnet cities, though Belgrano's own trajectory (survived the war, declined after) diverges sharply from Halley's continuous operation.
 - **Amundsen Station:** Connected via Hwy 59, which also carries the Arcanet cable — the single most strategically critical corridor in the subnet, linking Halley to the South Pole relay before the Split Brain severed it.
-- **The rest of the Halley subnet coast:** Hub relationship to Neumayer, Troll, Abowasa, Sanay, Princess Elisabeth, and Lazar via Hwy 7's coastal run *(corrected 2026-07-13 — this line still said "Maitri," the pre-rename placeholder name; the city has been called Lazar since the population rebalancing work)*.
+- **The rest of the Halley subnet coast:** Hub relationship to Neumayer, Troll, Santa Luce, Sanay, Utstein, and Lazar via Hwy 7's coastal run, joined by Halley's connecting road *(revised 2026-10-03, developer ruling: Halley is reached by a connecting road off Hwy 7, not a main-line stop — its ice is constantly moving)* *(corrected 2026-07-13 — this line still said "Maitri," the pre-rename placeholder name; the city has been called Lazar since the population rebalancing work)*.
 
 ---
 

@@ -74,7 +74,7 @@ and never once cared whose city this was supposed to be.*
   entire batch of vignettes built around contrasting Zukelli's instant-subnet-line warmth against every other
   city's slower correspondence — all flagged there as non-canon candidate material. `City_Relationship_
   Database.md` independently records Cape Adare↔Zukelli as "Medium, Cultural — a natural regional kinship,"
-  and Cape Adare↔Dumont d'Urville and Cape Adare↔Port Lockroy ties, both weighted "Medium." District Refugee
+  and Cape Adare↔Dumont d'Urville and Cape Adare↔Puerto Abrigo ties, both weighted "Medium." District Refugee
   Diaspora Composition not used — Cape Adare is a standalone subnet city.
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs → a direct cross-check
   against Janbogo's own already-completed file (subnet-mate, shares Highway 183 and relay-hub material) and
@@ -227,7 +227,7 @@ localize per city.*
   `City_Relationship_Database.md` ("Medium, Cultural — a natural regional kinship") + E (the identical Earth +
   Wood symbol pair)*
   Cape Adare's own civic warmth genuinely extends to every city it corresponds with, but its most immediate,
-  easy expression stays closest to home — a running familiarity with Zukelli that Port Lockroy and Amundsen
+  easy expression stays closest to home — a running familiarity with Zukelli that Puerto Abrigo and Amundsen
   Station experience instead as considerate but inevitably more distant correspondence, since "warmth traveled
   exactly as fast as the line carrying it." Worth flagging directly: this is real, already-dramatized
   inter-city relationship material, not itself Cape Adare's internal Kinship structure (which remains §1's

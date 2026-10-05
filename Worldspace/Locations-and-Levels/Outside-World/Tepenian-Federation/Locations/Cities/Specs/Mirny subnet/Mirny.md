@@ -181,7 +181,7 @@ Mirny's economy was built around its coastal position, its role as the Mirny sub
 
 - **The Antarctic Circle marker** — some form of civic marker at or near 66°33'S acknowledging the city's position on the line; exact form TBD
 - **The solstice observation site** — the location where residents gather to watch the winter and summer solstice sun-grazing events; TBD
-- **The Mirny subnet relay hardware** — the physical Arcanet infrastructure that makes Mirny the hub of the "Australian" subnet, routing Zhongshan, Casey, Davis, Vostok, and Kunlun to each other; *(corrected 2026-07-04 — this bullet previously claimed a unique relationship with Concordia, which doesn't exist; Mirny and Concordia are different subnets, and the Split Brain severed that connection like every other inter-subnet one)* the hardware's significance is purely intra-subnet — if it fails, the whole Mirny subnet loses contact with itself, not with Concordia
+- **The Mirny subnet relay hardware** — the physical Arcanet infrastructure that makes Mirny the hub of the "Australian" subnet, routing Zhongshan, Casey, Davis, Ariun Nuur, and Kunlun to each other; *(corrected 2026-07-04 — this bullet previously claimed a unique relationship with Concordia, which doesn't exist; Mirny and Concordia are different subnets, and the Split Brain severed that connection like every other inter-subnet one)* the hardware's significance is purely intra-subnet — if it fails, the whole Mirny subnet loses contact with itself, not with Concordia
 - Additional locations: TBD
 
 ---

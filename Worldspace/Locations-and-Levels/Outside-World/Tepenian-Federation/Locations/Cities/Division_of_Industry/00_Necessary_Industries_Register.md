@@ -61,7 +61,7 @@ rather than itemized.
 
 > **⚠ Why the LINE/FOLD split exists.** Eighteen bullet points in every city's §15 would collapse the format
 > and guarantee thirty-six identical-looking lists. **Roughly 6–9 should surface per city — and *which* ones
-> surface is itself differentiating.** Cape Adare surfaces marine extraction; Vostok surfaces thermal and
+> surface is itself differentiating.** Cape Adare surfaces marine extraction; Ariun Nuur surfaces thermal and
 > enclosure. **A city's §15 should be legible at a glance as *that city's*, which a fixed 18-row template can
 > never be.**
 

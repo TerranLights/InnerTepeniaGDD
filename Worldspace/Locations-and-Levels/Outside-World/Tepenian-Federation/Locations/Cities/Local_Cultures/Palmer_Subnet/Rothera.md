@@ -3,7 +3,7 @@
 ---
 
 **Subnet:** Palmer ("American")
-**Status:** Damaged; partially operational — the Palmer subnet's industrial center, decentralized across Adelaide Island, survived the Long Night War despite having a smaller population than either Palmer City or Sejong, both of which were destroyed
+**Status:** Damaged; partially operational — the Palmer subnet's industrial center, decentralized across Adelaide Island, survived the Long Night War despite having a smaller population than either Palmer City or Contrapunto, both of which were destroyed
 **Census Population:** 153,760 humans / 163,689 robots / 317,449 combined (Census I, rank 31st, *corrected 2026-07-03, again 2026-07-05*); 121,784 humans / 134,073 robots / 255,857 combined (Census II, rank 28th, *corrected 2026-07-17 — was "27th," stale against the current `Official_Population_Census.md` Census II ranking table*)
 **Location:** Adelaide Island, Antarctic Peninsula (~67°34'S, 68°07'W)
 
@@ -33,7 +33,7 @@ The British Antarctic Survey had operated at Rothera since 1975, and the exile s
 
 Argentina and Chile's exile communities arrived first by simple geographic proximity — the short Drake Passage crossing from Ushuaia and Punta Arenas — ahead of the British founding population and, later, the larger American demographic wave that arrived in volume. Population balance shifted considerably over the generations that followed, but that arrival order remains part of the city's own founding record.
 
-What distinguished Rothera from its Peninsula neighbors almost immediately was Adelaide Island itself — by far the largest landmass in the subnet, mountainous, with far more room to grow than the smaller islands hosting Palmer City or Sejong. Where those cities grew as compact, concentrated settlements, Rothera's development spread outward across the island's scale, laying the groundwork for what would become, generations later, the subnet's industrial backbone.
+What distinguished Rothera from its Peninsula neighbors almost immediately was Adelaide Island itself — by far the largest landmass in the subnet, mountainous, with far more room to grow than the smaller islands hosting Palmer City or Contrapunto. Where those cities grew as compact, concentrated settlements, Rothera's development spread outward across the island's scale, laying the groundwork for what would become, generations later, the subnet's industrial backbone.
 
 ---
 
@@ -156,7 +156,7 @@ With robots slightly outnumbering humans (163,689 to 153,760 Census I), human-ro
 
 ## 17. Robot-Specific Culture
 
-Robot culture here centers on industrial and technical expertise — the practical skill of keeping decentralized processing facilities running across Adelaide Island's scale, especially valuable given the post-war damage. A genuine parallel to Princess Elisabeth's engineering-dependency culture, though Rothera's decentralization gave it more resilience than that city's more concentrated, singular systems ever had.
+Robot culture here centers on industrial and technical expertise — the practical skill of keeping decentralized processing facilities running across Adelaide Island's scale, especially valuable given the post-war damage. A genuine parallel to Utstein's engineering-dependency culture, though Rothera's decentralization gave it more resilience than that city's more concentrated, singular systems ever had.
 
 ---
 
@@ -197,7 +197,7 @@ Filtered primarily through the British founding population's own history, layere
 
 ## 23. Relationship to Other Cities
 
-- **Palmer City (north, Hwy 1) and Port Lockroy:** Direct highway neighbors along the Peninsula's western coast.
+- **Palmer City (north, Hwy 1) and Puerto Abrigo:** Direct highway neighbors along the Peninsula's western coast.
 - **Every Palmer subnet city, indirectly:** as the subnet's industrial center, Rothera's finished infrastructure components plausibly reach every other city in the subnet, including Palmer City itself — a genuine, load-bearing economic relationship distinct from mere geographic proximity.
 - **Belgrano and Byrd (founding-era link, established 2026-07-03):** Rothera shipped historical accounts, transport manifests, and maps to help sharpen the Byrd Expedition's heading, alongside Palmer City's parallel contribution.
 
@@ -256,7 +256,7 @@ Becoming a local at Rothera means demonstrating practical usefulness to the city
 
 ## 30. Significant Local Events
 
-- **The Long Night War damage** — Rothera was hit hard like the rest of the Peninsula, but its decentralized industrial footprint across Adelaide Island meant the war couldn't erase it in a single strike, unlike Palmer City or Sejong. Exact extent of the damage and current production output are TBD for DLC 3 design.
+- **The Long Night War damage** — Rothera was hit hard like the rest of the Peninsula, but its decentralized industrial footprint across Adelaide Island meant the war couldn't erase it in a single strike, unlike Palmer City or Contrapunto. Exact extent of the damage and current production output are TBD for DLC 3 design.
 
 ---
 

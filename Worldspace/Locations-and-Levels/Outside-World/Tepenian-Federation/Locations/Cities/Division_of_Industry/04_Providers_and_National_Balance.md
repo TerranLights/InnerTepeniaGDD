@@ -23,12 +23,12 @@ whether the extreme cities are viable, and the pilot missed it.**
 
 | City | Humans | Robots | **Workforce** | Workforce ÷ humans |
 |---|--:|--:|--:|--:|
-| Vostok | 129,617 | 259,644 | **324,453** | **2.50** |
+| Ariun Nuur | 129,617 | 259,644 | **324,453** | **2.50** |
 | Casey | 733,795 | 761,936 | 1,128,834 | 1.54 |
 | Neumayer | 613,735 | 638,345 | 945,213 | 1.54 |
 | Kunlun | **0** | 123,449 | 123,449 | **∞** |
 
-**Vostok has 2.5 workers for every human needing care, food and schooling — against a national norm of ~1.54.**
+**Ariun Nuur has 2.5 workers for every human needing care, food and schooling — against a national norm of ~1.54.**
 
 ---
 
@@ -58,17 +58,17 @@ supplier.** Multiple industries per city where warranted.
 | City | Pop | Provider industries | Evidence |
 |---|--:|---|---|
 | **Davis** | 1,158,314 | **FOOD** | agriculture 35% — "the breadbasket," explicitly national |
-| **{{Bunger Hills City}}** | *(TBD)* | **FOOD** | ⭐ **Added 2026-09-01.** Second agricultural region: largest ice-free area in East Antarctica (450–942 km²) + **Lake Figurnoye, Antarctica's largest freshwater lake.** Population, subdivision and all internal detail **deliberately blank** — see `../Bunger_Hills_City/Development_Brief.md` |
+| **Relung Panen** | *(TBD)* | **FOOD** | ⭐ **Added 2026-09-01.** Second agricultural region: largest ice-free area in East Antarctica (450–942 km²) + **Lake Figurnoye, Antarctica's largest freshwater lake.** Population, subdivision and all internal detail **deliberately blank** — see `../Relung_Panen/Development_Brief.md` |
 | **Esperanza** | 1,878,287 | **FOOD · EDUCATION/CHILDCARE · ⭐ MEDICINE** | agri 15% + educ/childcare 25%, rank 2 population, founding charter. **Medicine added 2026-09-01: the Esperanza Institute of Medicine — settled medicine, flagship Dept. of Pediatrics** |
 | **Signy** | 188,694 | **FOOD (fish)** | fishing 30% of a small city working "the Scotia Sea's genuine productivity" |
-| **Juan Carlos** | 386,692 | **FOOD (fish)** | maritime/fishing 30% |
+| **Pergamino** | 386,692 | **FOOD (fish)** | maritime/fishing 30% |
 | **Janbogo** | 1,310,511 | **FOOD (fish) · LOGISTICS** | marine 20% w/ **year-round polynya access**; commercial/logistics 30% |
 | **Zukelli** | 1,258,651 | **FOOD (prepared)** | commercial 25% = "food and hospitality industries, **the city's signature export**" |
 | **Sinheung** | 1,069,350 | **FABRICATION · ⭐ MEDICINE (robotic)** | industrial fabrication **45%** — highest in corpus; builds Cradle chambers shipped nationwide. **Medicine added 2026-09-01: the Sinheung Institute of Cybernetics and Robotic Care — physical AND emotional care of and for robots; the mental-health system of the ~51% robot majority** |
 | **Rothera** | 317,449 | **FABRICATION** | industrial 40% |
 | **Fort McMurdo** | 445,310 | **FABRICATION · EXTRACTION** | industrial 35% + marine extraction 25% |
 | **Byrd** | 376,890 | **FABRICATION · DISPATCH** | mechanized fabrication 30% ("huge underground plants") + dispatch 25% |
-| **Sayowa** | 225,376 | **FABRICATION · TRUCKING** | industrial fab 30% ("things genuinely get *made* here") + trucking 25% |
+| **Temirötkel** | 225,376 | **FABRICATION · TRUCKING** | industrial fab 30% ("things genuinely get *made* here") + trucking 25% |
 | **Marambio** | 570,269 | **LOGISTICS (air+sea)** | aviation 30% + maritime 30% = **60%** |
 | **Sanay** | 463,669 | **LOGISTICS (port)** | port/shipyard 30% + trucking 20% = **50%** |
 | **Casey** | 1,495,731 | **LOGISTICS** | transit/logistics 30%, Hwy 110 × Hwy 2 junction |
@@ -79,7 +79,7 @@ supplier.** Multiple industries per city where warranted.
 | **Amundsen Station** | 6,857 | **ARCANET · TOWER** | relay ops 60% + Tower ops 30% *(not a city; special case)* |
 | **Shirayuki** | 1,178,313 | **ARTS · EDUCATION** | arts/music/fashion 25% (only city with arts as a major economic sector) + educ 20% |
 | **Palmer City** | 332,808 | **HOSPITALITY** | entertainment/hospitality 35% |
-| **Princess Elisabeth** | 1,137,917 | **ENERGY ENGINEERING** | "renewable energy systems, zero-emissions design expertise" |
+| **Utstein** | 1,137,917 | **ENERGY ENGINEERING** | "renewable energy systems, zero-emissions design expertise" |
 
 **22 providers set aside. 15 cities remain to be needs-assessed.**
 
@@ -98,7 +98,7 @@ provider at all.**
 
 | | |
 |---|---|
-| **Care DELIVERY** | **NON-outsourceable.** Cities sit 1,000+ km apart; nobody treats a Vostok patient from Concordia. **Every city staffs its own clinicians regardless of who else exists.** |
+| **Care DELIVERY** | **NON-outsourceable.** Cities sit 1,000+ km apart; nobody treats a Ariun Nuur patient from Concordia. **Every city staffs its own clinicians regardless of who else exists.** |
 | **Care TRAINING** | **OUTSOURCEABLE — and it is the only part that concentrates.** A handful of schools supplying a continent is exactly how real nations work. |
 
 **So the provider role is not *"we treat your sick."* It is *"we make your doctors."*** And it compounds with
@@ -156,7 +156,7 @@ discounted where they include port operations and non-food extraction)*:
 | Davis | 876,515 | agriculture 35% | **306,780** |
 | Esperanza | 1,400,619 | agriculture 15% | **210,093** |
 | Janbogo | 987,241 | marine 20%, ~⅓ food | **65,816** |
-| Juan Carlos | 291,821 | fishing 30% | **87,546** |
+| Pergamino | 291,821 | fishing 30% | **87,546** |
 | Signy | 142,127 | fishing 30% | **42,638** |
 | Cape Adare | 1,126,671 | marine 25%, ~⅓ food | **93,889** |
 | Dumont d'Urville | 341,560 | marine 25%, ~⅓ food | **28,463** |
@@ -176,7 +176,7 @@ oasis of rock and hypersaline lakes, under 66 days of polar night. **Not credibl
 > **"The breadbasket of Tepenia" is a title, not a supply chain.** Davis is the largest single producer and
 > the only one whose identity is *agricultural*, but it supplies roughly **37% of national food labor**. The
 > other ~63% comes from Esperanza's farms and, above all, **from the sea** — Janbogo's year-round polynya,
-> the Scotia Sea at Signy, Livingston Island at Juan Carlos, the Ross Sea at Cape Adare.
+> the Scotia Sea at Signy, Livingston Island at Pergamino, the Ross Sea at Cape Adare.
 >
 > **Tepenia is fed by fishing fleets at least as much as by farms**, and no city's §15 currently says so.
 
@@ -186,7 +186,7 @@ oasis of rock and hypersaline lakes, under 66 days of polar night. **Not credibl
    in the city must be produced in the city or brought in at significant cost and risk"* — as baseline
    hydroponics covering a substantial fraction of local need.
 2. **Providers cover the national deficit, the variety, and FULL supply to the cities that structurally
-   cannot grow** — the plateau: Vostok, and formerly the Mountain Pass corridor.
+   cannot grow** — the plateau: Ariun Nuur, and formerly the Mountain Pass corridor.
 
 ---
 
@@ -200,27 +200,27 @@ oasis of rock and hypersaline lakes, under 66 days of polar night. **Not credibl
 
 | City | Workforce | Non-outsourceable floor | Healthcare floor | Pilot's healthcare | Verdict |
 |---|--:|--:|--:|--:|---|
-| **Vostok** | 324,453 | **~5.0%** | **1.00%** | 1.6% | ✅ **PASSES** |
+| **Ariun Nuur** | 324,453 | **~5.0%** | **1.00%** | 1.6% | ✅ **PASSES** |
 | **Casey** | 1,128,834 | ~6.4% | **1.63%** | 1.6% | ⚠ **MARGINAL** |
 | **Cape Adare** | 1,126,671 | ~6.4% | 1.66% | 1.8% | ✅ passes |
-| **{{Abowasa}}** | 782,123 | ~6.4% | 1.61% | 1.8% | ✅ passes |
+| **Santa Luce** | 782,123 | ~6.4% | 1.61% | 1.8% | ✅ passes |
 | **Kunlun** | 123,449 | ~3.1% | **0%** | — | ✅ n/a — no humans |
 
-> ## ⭐ **Vostok does not die — and the reason is its robots.**
+> ## ⭐ **Ariun Nuur does not die — and the reason is its robots.**
 >
-> **At 67% robot against a ~51% national average, Vostok has 2.50 workers per dependent human** where the
+> **At 67% robot against a ~51% national average, Ariun Nuur has 2.50 workers per dependent human** where the
 > national norm is 1.54. **Its enormous machine workforce carries a small human population**, so the absolute
 > need is met at a low percentage of the economy. **The pilot's alarming 1.6% healthcare and 2.0% food are
-> survivable precisely because two-thirds of Vostok's workforce never needs a doctor, a school, or a meal.**
+> survivable precisely because two-thirds of Ariun Nuur's workforce never needs a doctor, a school, or a meal.**
 
-**This is a genuine characterization, not a reprieve on a technicality:** Vostok is a city where machines keep
+**This is a genuine characterization, not a reprieve on a technicality:** Ariun Nuur is a city where machines keep
 a small, precious human population alive at the coldest inhabited place on Earth. **The demographic skew that
 looked like a curiosity in the census is the thing that makes the city possible.**
 
-### The real constraint at Vostok is energy, not headcount
+### The real constraint at Ariun Nuur is energy, not headcount
 
-Vostok's ~6,500 growers work out to **1 per 20 humans — better than the national average of 1 per 19.** But at
-−54.8 °C, 3,488 m, under 121 days of polar night, **each grower's yield is a fraction of Davis's.** So Vostok
+Ariun Nuur's ~6,500 growers work out to **1 per 20 humans — better than the national average of 1 per 19.** But at
+−54.8 °C, 3,488 m, under 121 days of polar night, **each grower's yield is a fraction of Davis's.** So Ariun Nuur
 is labor-sufficient and **energy-insufficient**, which is the correct shape for it: not "too few farmers" but
 "food here costs power the city does not have." **It remains a net importer — and its lifeline is Hwy 37.**
 
@@ -237,7 +237,7 @@ matters most, and correcting it moves the answer's center of gravity.**
 
 ## 6.1 Krill — and Tepenia's food problem is not what §4 said it was
 
-**Signy is the South Orkney Islands. Juan Carlos is Livingston Island, South Shetlands. Both sit directly on
+**Signy is the South Orkney Islands. Pergamino is Livingston Island, South Shetlands. Both sit directly on
 the largest concentrated protein resource on Earth.**
 
 | Real-world figure | Value |
@@ -271,7 +271,7 @@ something stronger and stranger:**
 > important food resource the Federation has. **Its size is not a limitation; krill fishing is capital-
 > intensive, not labor-intensive.** A fleet does not need a million people.
 
-**And it recasts the Peninsula.** Esperanza, Juan Carlos, Palmer City, Rothera, Signy, Port Lockroy, Sejong
+**And it recasts the Peninsula.** Esperanza, Pergamino, Palmer City, Rothera, Signy, Puerto Abrigo, Contrapunto
 and Marambio are not merely the mild, pleasant cities — **they are where the food is.** That is a strategic
 fact with obvious consequences the moment anyone contests it.
 
@@ -304,7 +304,7 @@ fact with obvious consequences the moment anyone contests it.
    developer has since taken this up as a candidate city site, and the geology is stronger than this entry
    assumed.**
 
-## 6.4 ⭐ THE BUNGER HILLS CITY — candidate site, developer-initiated 2026-09-01
+## 6.4 ⭐ THE RELUNG PANEN — candidate site, developer-initiated 2026-09-01
 
 > *"There could easily be a city built at Bunger Hills (no idea yet what it could be called)."*
 
@@ -388,7 +388,7 @@ plain, concrete, and immediately understood by someone who has never been on a b
 register of the word it pairs with, which is the whole job.**
 
 **⚠ Still open: WHO holds the title.** §4 established that Tepenia's food supply is a coalition, not one
-place — Signy (South Orkneys) and Juan Carlos (South Shetlands) sit on the krill grounds, Janbogo works a
+place — Signy (South Orkneys) and Pergamino (South Shetlands) sit on the krill grounds, Janbogo works a
 year-round polynya, Cape Adare the Ross Sea. **The developer has floated the Palmer subnet collectively, a
 single city, or a formal coalition of cities.** Undecided.
 

@@ -218,7 +218,7 @@ Filtered primarily through the Argentine founding population's own history, laye
 
 ## 23. Relationship to Other Cities
 
-- **Esperanza, Sejong, Juan Carlos:** Nearby northern Peninsula neighbors, all connected via Hwy 1.
+- **Esperanza, Contrapunto, Pergamino:** Nearby northern Peninsula neighbors, all connected via Hwy 1.
 - **Palmer City (south via Hwy 1):** The subnet hub, connected to Marambio's aviation network.
 - **Rothera:** A genuine structural contrast — Marambio's primary aviation hub role versus Rothera's secondary aviation role and defining industrial identity; the subnet's two most infrastructure-significant cities, serving completely different functions.
 
@@ -269,7 +269,7 @@ There was little true "transition" at Marambio — the city was built for motion
 
 - **The Marambio airfield** — the Palmer subnet's primary aviation hub, the most developed airstrip infrastructure of any Peninsula city
 - **The Marambio shipyards** *(added 2026-07-16, from the 2026-07-04 Vision Notes session)* — spanning the island's inner side facing the mainland, the confirmed receiving port for the South America shipping corridor, equally central to the city's identity as the airfield
-- **The Picnic Passage causeway/bridge chain** — Marambio's confirmed Hwy 1 crossing, spanning Picnic Passage (the real-world ~1km strait to Snow Hill Island), then James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland — Hwy 1's northern terminus, continuing south to Palmer City, Port Lockroy, Rothera, and ultimately Byrd
+- **The Picnic Passage causeway/bridge chain** — Marambio's confirmed Hwy 1 crossing, spanning Picnic Passage (the real-world ~1km strait to Snow Hill Island), then James Ross Island, then the Prince Gustav Channel to the Trinity Peninsula mainland — Hwy 1's northern terminus, continuing south to Palmer City, Puerto Abrigo, Rothera, and ultimately Byrd
 
 ---
 

@@ -124,7 +124,7 @@ and Local Texture.
 
 ## 3. Absolute headcounts unlock the downstream work
 
-*"Vostok has ~3,240 healthcare workers"* is usable where a percentage never was: **faction and guild sizing,
+*"Ariun Nuur has ~3,240 healthcare workers"* is usable where a percentage never was: **faction and guild sizing,
 institution scale, NPC populations, and level design** — what buildings exist in a city and who is inside
 them. *(The requirement-first trial's author identified this as the architecture's real advantage; it is now
 realized.)*
@@ -152,11 +152,11 @@ but none of them were sized.
 
 | Flow | Source → destination |
 |---|---|
-| **Food** | **Davis** feeds ~⅓ of the country · the **Scotia Sea** feeds the Peninsula · the **polynya** fed Janbogo · **Belgrano + Sanay** feed the Halley subnet, worked by commuters from Halley and {{Abowasa}} |
+| **Food** | **Davis** feeds ~⅓ of the country · the **Scotia Sea** feeds the Peninsula · the **polynya** fed Janbogo · **Belgrano + Sanay** feed the Halley subnet, worked by commuters from Halley and Santa Luce |
 | **Education** | **Esperanza** and **Shirayuki** export tertiary training; **~21,000 medics + ~3,400 robot-care technicians per year** move outward from three institutes |
 | **Chambers** | **Sinheung** and **Byrd** supply the nation. **Mountain Pass** used to |
 | **Logistics** | **Casey** *(Hwy 110 × Hwy 2)* · **Marambio** · **Sanay** · **Belgrano** · **Troll** · **Mawson** |
-| **Fabrication** | **Sinheung** *(45%, highest in corpus)* · **Rothera** · **Fort McMurdo** · **Byrd** · **Sayowa** |
+| **Fabrication** | **Sinheung** *(45%, highest in corpus)* · **Rothera** · **Fort McMurdo** · **Byrd** · **Temirötkel** |
 
 **⭐ It is drawable, and it is the prerequisite for anything about disruption** — severing a line only matters
 if you know what was flowing along it and how much.
@@ -194,7 +194,7 @@ anywhere in the project**, and this would be the route to its economic half.
 - **⛔ The Halley subnet is the tightest margin in the country.** 4,907,714 humans need **258,301** food
   producers; Belgrano and Sanay have **248,266** free *after* their existing aviation and port roles.
   **96% self-sufficient, short by ~4%.** **The most food-precarious region in Tepenia is the one holding 31%
-  of its people.** ⚠ **The missing 4% turns on whether Lazar's, Troll's and Princess Elisabeth's 15% marine
+  of its people.** ⚠ **The missing 4% turns on whether Lazar's, Troll's and Utstein's 15% marine
   sectors are genuine dockside work or indirect** — Halley's is explicitly indirect and Lazar is inland.
 
 ---
@@ -214,7 +214,7 @@ anywhere in the project**, and this would be the route to its economic half.
    **Cape Adare is NOT a food provider.** Read as fishing crews its 177,732-worker marine sector would land
    13.7× the entire national sustainable catch. **It is a port, shipping and marine-science sector.**
 2. **⚠ CONCORDIA'S DIFFICULTY VALUE — flagged 2026-09-01, at the developer's direction. NOT yet corrected.**
-   **Concordia is set at `D = 1.67`; Vostok is `2.50`.** But Dome C is **3,233 m, −52.7 °C annual mean, and
+   **Concordia is set at `D = 1.67`; Ariun Nuur is `2.50`.** But Dome C is **3,233 m, −52.7 °C annual mean, and
    1,100 km from the coast** — as remote and high as any inhabited site in the country.
    **⭐ The offsetting factor is real and must be weighed, not dismissed:** `Specs/Concordia.md` records Dome C
    as unusually **calm** *(3–5 m/s — "dome sites are calmer than slope or coastal stations")*, so the WEATHER

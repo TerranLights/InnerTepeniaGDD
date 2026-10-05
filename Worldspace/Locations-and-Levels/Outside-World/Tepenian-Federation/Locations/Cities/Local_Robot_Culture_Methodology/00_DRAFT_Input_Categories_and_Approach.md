@@ -138,7 +138,7 @@ Confirmed existing members of this tier:
 - **Robot Elementals & Solar Symbols — corrected and expanded 2026-08-10.** This is genuinely **two
   independent per-city symbol slots, not one system**, both drawn from `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`
   (self-marked "not canon, not binding, exploratory first pass," but real and populated for all 35 outer
-  cities except Abowasa, paused pending its own founding-nation fix):
+  cities except Santa Luce, paused pending its own founding-nation fix):
   - **The 8 Robo-Elements** (Earth, Air, Fire, Water, Wood, Metal, Electricity, Magnetism) — `project_robot_elementals_and_platonic_solids` memory.
   - **10 Solar Symbols** — the 9 planets plus the Asteroid Belt (Decentralization), sourced from
     `planetary-symbols.md` / `planetary-appended-symbols.md`.

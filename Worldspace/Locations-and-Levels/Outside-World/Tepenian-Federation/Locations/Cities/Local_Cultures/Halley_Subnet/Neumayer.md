@@ -199,7 +199,7 @@ Complicated by the specific grief of having engineered something that mattered �
 
 ## 23. Relationship to Other Cities
 
-- **Halley:** Subnet hub, connected via Hwy 7; both cities share the identical physical circumstance (built on floating ice shelves) but responded to it in opposite cultural registers — Halley through collective civic decision-making, Neumayer through instrumented engineering rigor.
+- **Halley:** Subnet hub, reached via Hwy 7 and then Halley's connecting road *(revised 2026-10-03, developer ruling: Halley is reached by a connecting road off Hwy 7, not a main-line stop — the ice it sits on is constantly moving)*; both cities share the identical physical circumstance (built on floating ice shelves) but responded to it in opposite cultural registers — Halley through collective civic decision-making, Neumayer through instrumented engineering rigor.
 - **Amundsen Station (destroyed):** No direct highway connection, but the deepest thematic tie in the subnet — Neumayer engineered the Tower that stood there, a connection now mostly invisible to anyone visiting the ruins.
 - **Vosora Lashár Tanslock:** Not a Neumayer native, but her pre-war work organizing Amundsen Tower's construction logistics and command structures is the direct operational complement to Neumayer's design/engineering contribution — two different pieces of the same national project.
 

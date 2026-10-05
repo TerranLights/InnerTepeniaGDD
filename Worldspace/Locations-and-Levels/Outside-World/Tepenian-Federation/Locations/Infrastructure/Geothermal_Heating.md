@@ -5,7 +5,7 @@ which depends on this file for Janbogo.**
 
 > ## ✅ DEVELOPER RULING, 2026-09-05 — verbatim
 > ***"the sort of geothermal heating that they use in Iceland (by exploiting the fact that they're sitting
-> almost directly on top of volcanic activity), that same technique gets used to heat Juan Carlos and Sejong,
+> almost directly on top of volcanic activity), that same technique gets used to heat Pergamino and Contrapunto,
 > Scott and Fort McMurdo, and Janbogo and Zukelli."***
 
 **Six cities. Not a proposal — the assignment is canon.** *What follows is the mechanism, the structure it
@@ -19,7 +19,7 @@ produces, and what it costs.*
 
 | Pair | Heat source | 🔬 What it is |
 |---|---|---|
-| **Juan Carlos + Sejong** | **Deception Island**, South Shetlands | **an active volcano whose caldera collapsed and flooded** |
+| **Pergamino + Contrapunto** | **Deception Island**, South Shetlands | **an active volcano whose caldera collapsed and flooded** |
 | **Scott + Fort McMurdo** | **Mount Erebus**, Ross Island | **the southernmost active volcano on Earth; a permanent lava lake** |
 | **Janbogo + Zukelli** | **Mount Melbourne**, Terra Nova Bay | **the only active volcano on the Antarctic mainland** |
 
@@ -29,7 +29,7 @@ produces, and what it costs.*
 > |---|---|
 > | **Janbogo + Zukelli** | **~8 km apart and they SHARE ONE AIRPORT** *(`Airports.md`)* |
 > | **Scott + Fort McMurdo** | *"Fort McMurdo's immediate neighbor and longtime partner"* — `Specs/Scott.md` |
-> | **Juan Carlos + Sejong** | **both South Shetlands, both `Access type: NONE`, both Destroyed in the war** |
+> | **Pergamino + Contrapunto** | **both South Shetlands, both `Access type: NONE`, both Destroyed in the war** |
 >
 > ⭐ **Now they share boreholes as well.** ***And two cities joined at a heat source is a different kind of
 > bond from any other pairing in the corpus: you cannot divide it, sell it, or route around it.***
@@ -150,7 +150,7 @@ assert an eruption event as canon until it is checked.**
    >
    > | Status | Cities |
    > |---|---|
-   > | **Destroyed** | **Juan Carlos · Sejong · Zukelli** |
+   > | **Destroyed** | **Pergamino · Contrapunto · Zukelli** |
    > | ⭐ **Damaged; partially operational** | **Scott · Fort McMurdo · Janbogo** |
    >
    > ⭐⭐ ***"Partially operational" is exactly what a city that kept its HEAT looks like.*** **A damaged
@@ -185,7 +185,7 @@ assert an eruption event as canon until it is checked.**
 
 ### Canon
 **Developer ruling, 2026-09-05** *(§0, verbatim)* · `Specs/Scott.md` · `Specs/Janbogo.md` ·
-`Specs/Juan_Carlos.md` · `Specs/Sejong.md` · `Locations/Infrastructure/Airports.md` *(the shared
+`Specs/Pergamino.md` · `Specs/Contrapunto.md` · `Locations/Infrastructure/Airports.md` *(the shared
 Zukelli/Janbogo airport)* · `Locations/Infrastructure/Amundsen_Power_Supply.md` · `Ports.md`
 
 ### 🔬 Research — 2026-09-05

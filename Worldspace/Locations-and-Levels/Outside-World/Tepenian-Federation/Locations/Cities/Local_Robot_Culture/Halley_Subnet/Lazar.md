@@ -1,7 +1,7 @@
 # Lazar — Local Robot Culture Spec Sheet
 
 **Run #25 of the Local Robot Culture Methodology, 2026-08-11 — sixth city of the Halley Subnet.** Directly
-follows up on Troll's own forward flag (Lazar and Princess Elisabeth both connected via the subnet's coastal/
+follows up on Troll's own forward flag (Lazar and Utstein both connected via the subnet's coastal/
 interior highway network, with Troll's airfield giving it "outsized logistical importance" to both, per
 Troll's own §23 — not yet confirmed from either city's own side) and closes out the generic "untouched and
 unassumed" flag every one of Halley, Sanay, Neumayer, and Belgrano's own files left open for Lazar. Applies
@@ -39,7 +39,7 @@ market's name than the city's.*
   own load-bearing seam, built on directly below), §18 (no dominant formal religion; a practical ethic of
   integration; specific pride in a city that has never fully gone dark), §21 (the most substantial
   political weight in Tepenia by sheer population), §23 (Troll west via Hwy 7 — Lazar as its eastern terminus;
-  Princess Elisabeth east via the Belgrano Highway Extension, which originates at Lazar — both flagged forward,
+  Utstein east via the Belgrano Highway Extension, which originates at Lazar — both flagged forward,
   see Swap Test), §25 (export culture — genuine urban-scale expertise,
   "a specific type of person... recognizable by an ease with complexity that smaller Halley subnet cities'
   residents don't share"), §26 (the two holidays), §32 (diaspora — comfort with scale, plurality, and
@@ -88,9 +88,9 @@ market's name than the city's.*
   these tiers**, but see §4 for why the null still localizes here in a genuine, if indirect, way given the
   city's own established heavy in-migration. The Fragmentation Matrix checked and found not to apply.
 - **Additional candidate inputs used:** Community Infrastructure (above). City Enneagram Personality
-  (Instinctive/Compliant/Competency — shares this exact profile with Sayowa, a completed Mawson-subnet city,
+  (Instinctive/Compliant/Competency — shares this exact profile with Temirötkel, a completed Mawson-subnet city,
   per `Distinguishing_Overlapping_Profiles.md`'s own Group 6 entry, distinguished there as "origin point at
-  megacity scale" versus Sayowa's own "mid-sized service/dispatch node" — a source-material-native cross-subnet
+  megacity scale" versus Temirötkel's own "mid-sized service/dispatch node" — a source-material-native cross-subnet
   comparison, checked directly in the Swap Test). City Vision Notes (2026-07-05 session) — confirmed the
   maglev/elevated transit detail and flagged the city's own economic engine as a genuinely open question, not
   resolved by this pass (culture-content only). Historical Vignettes & Course of Events did substantial work
@@ -98,8 +98,8 @@ market's name than the city's.*
   Settlements, One City," "Never Gone Dark," "The Name Worn Down," "Too Big to Stop," and especially "Biggest,
   Not in Charge" — all flagged as non-canon candidate material, all fed specific findings below.
   `City_National_Connections.md` confirms Medium ties to Fort McMurdo (Political/Economic, cross-subnet),
-  Palmer City (Cultural, cross-subnet), Sejong (Cultural, cross-subnet), Abowasa (Cultural), Neumayer
-  (Historical — mutually confirmed, Neumayer's own file lists Lazar at Medium tier too), and Sayowa
+  Palmer City (Cultural, cross-subnet), Contrapunto (Cultural, cross-subnet), Santa Luce (Cultural), Neumayer
+  (Historical — mutually confirmed, Neumayer's own file lists Lazar at Medium tier too), and Temirötkel
   (Infrastructure, cross-subnet) — **and confirms, checked directly in both directions, that no Troll entry
   exists anywhere in either city's own connections list, despite both cities' own Local_Cultures §23 and Specs
   Highway-access sections independently asserting a direct Hwy 7 relationship** — a genuine data-integrity
@@ -113,10 +113,10 @@ market's name than the city's.*
   `City_Relationship_Database.md` directly, given the flagged-but-unconfirmed Troll question and the
   already-positive, mutually-confirmed Neumayer relationship → a repo-wide grep for "Lazar" → full, direct
   re-reads of Troll's own already-completed file (its own explicit forward flag) and a check of
-  `Distinguishing_Overlapping_Profiles.md` for the Sayowa cross-subnet comparison. `Robot_Physiology_and_
+  `Distinguishing_Overlapping_Profiles.md` for the Temirötkel cross-subnet comparison. `Robot_Physiology_and_
   Cultural_Practices.md` read in full, not just for Glitch-Coolant — its own Cradle section is where Lazar's
   absence from every manufacturing tier is actually confirmed. The remaining Halley-subnet city (Princess
-  Elisabeth, plus the deferred Abowasa) hasn't been run yet — findings below are flagged forward accordingly.
+  Elisabeth, plus the deferred Santa Luce) hasn't been run yet — findings below are flagged forward accordingly.
 
 ---
 
@@ -421,16 +421,16 @@ forward flag resolved directly and every other comparison checked rather than as
    resolves into one clean, city-wide value ("permanence is not a virtue"), Lazar's central, defining fact is
    precisely that it has no single resolved civic value at all — a structural opposite dressed in superficially
    similar "subnet-defining city" clothing.
-6. **A light, source-material-native cross-subnet check against Sayowa (Mawson subnet, already completed),
+6. **A light, source-material-native cross-subnet check against Temirötkel (Mawson subnet, already completed),
    since `Distinguishing_Overlapping_Profiles.md` places the two in the same Enneagram group by name:**
    confirmed as a real but narrow shared axis (Instinctive/Compliant/Competency, "physically functional,
    service-oriented" at both cities) that the source file itself already differentiates by scale and role —
-   "origin point at megacity scale" (Lazar) versus "mid-sized service/dispatch node" (Sayowa). No finding
-   above would transplant onto Sayowa, or the reverse; the shared Enneagram cell tracks temperament, not
+   "origin point at megacity scale" (Lazar) versus "mid-sized service/dispatch node" (Temirötkel). No finding
+   above would transplant onto Temirötkel, or the reverse; the shared Enneagram cell tracks temperament, not
    content.
 
-**Genuinely unresolved risk still ahead, not assumed safe:** Princess Elisabeth remains untouched and
+**Genuinely unresolved risk still ahead, not assumed safe:** Utstein remains untouched and
 unassumed, flagged forward specifically per Troll's own §23 claim of a direct Belgrano Highway Extension
 relationship originating at Lazar — a real, established highway fact worth checking directly from Princess
 Elisabeth's own side once run, the same discipline that resolved the Troll question above. The still-deferred
-Abowasa remains paused pending its own founding-nation fix.
+Santa Luce remains paused pending its own founding-nation fix.

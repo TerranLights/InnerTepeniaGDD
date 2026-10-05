@@ -8,7 +8,7 @@
 > - **🔴 DRAFT / UNREVIEWED — NOT CANON** — `City_Megasheets/**/*_Full_Extrapolation.md`, `*_Cross_Reference_Synthesis.md`, Historical Vignettes, Course of Events candidates. **The user has explicitly confirmed vignettes are not canon; the same flag applies to all Course of Events and Full Extrapolation material.** `Mega_Init.md` is a closer restatement of established material — higher confidence than Full Extrapolation, but still pipeline synthesis, not primary canon.
 > - **🛠 DESIGN TOOL, not narrative fact** — `City_Enneagram_Personalities/*.md`, `City_Symbolic_Substrate/*.md`.
 >
-> **8 cities.** {{Abowasa}} deliberately excluded from `Local_Robot_Culture` — flagged by the project itself as pending a founding-nation consistency fix (its "Finnish and Swedish exiles, jointly" founding population doesn't cleanly survive the established First Interwar operator-turnover history). **Not resolved here.**
+> **8 cities.** Santa Luce deliberately excluded from `Local_Robot_Culture` — flagged by the project itself as pending a founding-nation consistency fix (its "Finnish and Swedish exiles, jointly" founding population doesn't cleanly survive the established First Interwar operator-turnover history). **Not resolved here.**
 
 ---
 
@@ -16,12 +16,12 @@
 
 - **Subnet name ≠ technical nexus.** Halley gives the subnet its name but is **not** the Arcanet relay nexus — that sits at **Sanay**, on Vesleskarvet's stable bedrock, because Halley risks eventual calving. Built by **Halley's own residents' hands-on labor**, while Sanay's residents ran the ports. Naming honor and technical control deliberately live in two different cities.
 - **Two coastal receiving ports for South African freighter shipments:** **Belgrano and Sanay**, interchangeable depending on which passage is open — not a fixed hierarchy. Goods bound for Halley (no docks of its own) are trucked via Hwy 7.
-- **Geological split (3–3, confirmed once all 6 non-Abowasa cities were run):** Ice-shelf, no bedrock — **Halley, Neumayer, Belgrano**. Bedrock-founded — **Sanay, Troll, Lazar**. *(Princess Elisabeth is also bedrock/nunatak but with zero passive wind shelter — a distinct third case.)*
-- **Highway spine:** Hwy 7 runs the Queen Maud Land coast (Belgrano ↔ Sanay ↔ Abowasa ↔ Troll ↔ Lazar), continuing as **Hwy 7-ext (the Belgrano Highway Extension, built 2611–2614)** from Lazar onward through Princess Elisabeth toward Sayowa (Mawson subnet). **Hwy 59** runs south from Halley to Amundsen Station, doubling as the Arcanet cable corridor to the (former) South Pole relay.
-- **Faction:** most Halley-subnet cities carry a Second-Interwar-era faction called **"The Methodologists"** or its sharper Halley-subnet variant **"Competence Without Commentary"** — rigor/competence as the shared civic currency, expressed differently per city (Neumayer: measurement; Sanay: refusing to narrativize endurance; Troll: competence converted to leverage; Abowasa: competence as intimacy management).
+- **Geological split (3–3, confirmed once all 6 non-Santa Luce cities were run):** Ice-shelf, no bedrock — **Halley, Neumayer, Belgrano**. Bedrock-founded — **Sanay, Troll, Lazar**. *(Utstein is also bedrock/nunatak but with zero passive wind shelter — a distinct third case.)*
+- **Highway spine:** Hwy 7 runs the Queen Maud Land coast (Belgrano ↔ Sanay ↔ Santa Luce ↔ Troll ↔ Lazar), continuing as **Hwy 7-ext (the Belgrano Highway Extension, built 2611–2614)** from Lazar onward through Utstein toward Temirötkel (Mawson subnet). **Hwy 59** runs south from Halley to Amundsen Station, doubling as the Arcanet cable corridor to the (former) South Pole relay.
+- **Faction:** most Halley-subnet cities carry a Second-Interwar-era faction called **"The Methodologists"** or its sharper Halley-subnet variant **"Competence Without Commentary"** — rigor/competence as the shared civic currency, expressed differently per city (Neumayer: measurement; Sanay: refusing to narrativize endurance; Troll: competence converted to leverage; Santa Luce: competence as intimacy management).
 - **⚠ Recurring uncredited-labor pattern**, independently found at Neumayer (Tower + Cradle schematic design), Sanay (nexus + a dockside incident), Belgrano (Byrd Expedition credit), and Troll (chamber freight passing through unrecognized) — flagged across `Local_Robot_Culture` files as the subnet's own thematic throughline: **"does the work, someone else gets the name,"** recurring at national, two-city, and single-incident scale.
-- **⚠ Database gap pattern (3 instances found):** `City_National_Connections.md` omits Neumayer↔Sanay, Neumayer↔Troll, Neumayer↔Belgrano, Troll↔Lazar, and Lazar↔Princess Elisabeth in one direction or entirely, despite the Specs/Local_Cultures files on both sides independently asserting the relationship (usually via shared highway). Flagged in the Robot Culture files as **a database omission, not an absent relationship** — worth a consolidated fix.
-- **Robot Elementals & Solar Symbols (🛠, from `City_Symbolic_Substrate/City_Symbol_Assignments.md`):** Neptune appears 3× in this subnet (Neumayer+Metal, Belgrano+Metal — an exact duplicate pair, resolved as "invents vs. rescues" — and Troll+Electricity). Jupiter appears 2× (Sanay+Magnetism, Lazar+Wood — resolved as "functional/population-independent centrality" vs. "literal population mass"). Halley = Mercury+Water. Princess Elisabeth = Uranus+Electricity (no duplicate risk).
+- **⚠ Database gap pattern (3 instances found):** `City_National_Connections.md` omits Neumayer↔Sanay, Neumayer↔Troll, Neumayer↔Belgrano, Troll↔Lazar, and Lazar↔Utstein in one direction or entirely, despite the Specs/Local_Cultures files on both sides independently asserting the relationship (usually via shared highway). Flagged in the Robot Culture files as **a database omission, not an absent relationship** — worth a consolidated fix.
+- **Robot Elementals & Solar Symbols (🛠, from `City_Symbolic_Substrate/City_Symbol_Assignments.md`):** Neptune appears 3× in this subnet (Neumayer+Metal, Belgrano+Metal — an exact duplicate pair, resolved as "invents vs. rescues" — and Troll+Electricity). Jupiter appears 2× (Sanay+Magnetism, Lazar+Wood — resolved as "functional/population-independent centrality" vs. "literal population mass"). Halley = Mercury+Water. Utstein = Uranus+Electricity (no duplicate risk).
 - **Human-Robot Relations Baseline — ⭐ originates here.** `Robot_Physiology_and_Cultural_Practices.md`'s project-wide "egalitarian, skewed in favor of robots" baseline was **generalized from a Sanay developer-vision session** (2026-07-04/05). Sanay is the literal origin case, not just a local instance.
 - **Cradle/Gen-Mark status across the subnet:** current manufacturing — none in this subnet (Sinheung, Byrd elsewhere). Historical — none. **Paused-candidate — Belgrano** (named alongside Concordia in national canon, no stated reasoning; Robot Culture pass reads Belgrano's fabrication/salvage competence as the plausible reason). Neumayer **designs** the current Mark IV schematic but has no manufacturing site of its own.
 
@@ -72,7 +72,7 @@
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Neumayer entry elsewhere in the file).
-- **Highways.md L66, L119, L238, L240** — the **Neumayer Connector**, an unnamed dedicated road off Hwy 7, between Abowasa and Sanay. Not on the Hwy 7 main line.
+- **Highways.md L66, L119, L238, L240** — the **Neumayer Connector**, an unnamed dedicated road off Hwy 7, between Santa Luce and Sanay. Not on the Hwy 7 main line.
 
 ---
 
@@ -119,43 +119,43 @@
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. **No docks/airstrip is a deliberate design choice per this file's own canon facts** (ice-shelf relocation risk) — consistent with the source list.
-- **Highways.md L115** — on the **Hwy 7 (Belgrano Highway)** main line, **between Belgrano and {{Abowasa}}** — the first stop east of Hwy 7's western terminus.
-- **Highways.md L20, L62, L181–191** — **⭐ HWY 59's NORTHERN RAMP sits between Halley and {{Abowasa}}**, and Hwy 59 *"also carries the Arcanet cable along its full length"* south to Amundsen Station. Halley is the populated city at the northern end of that corridor.
+- **Highways.md L115** — on the **Hwy 7 (Belgrano Highway)** main line, **between Belgrano and Santa Luce** — the first stop east of Hwy 7's western terminus.
+- **Highways.md L20, L62, L181–191** — **⭐ HWY 59's NORTHERN RAMP sits between Halley and Santa Luce**, and Hwy 59 *"also carries the Arcanet cable along its full length"* south to Amundsen Station. Halley is the populated city at the northern end of that corridor.
 
 ---
 
-## {{Abowasa}}
+## Santa Luce
 
 **Status:** Damaged; partially operational | **Census I:** 504,237H / 530,004R / 1,034,241 | **Census II:** 310,791H / 296,650R / 607,441 (rank 20th of ~32) | **Location:** Basen nunatak, Vestfjella/Kraul Mountains (~73°03'S, 13°25'W) | **Based on:** Aboa (Finland, 1988) + Wasa (Sweden, 1989) — two genuinely separate stations ~200m apart
 
 ### Files found
 | Category | Path | Tier |
 |---|---|---|
-| Specs | `Specs/Abowasa.md` | ✅ |
-| Local Culture | `Local_Cultures/Halley_Subnet/Abowasa.md` | ✅ |
+| Specs | `Specs/Santa_Luce.md` | ✅ |
+| Local Culture | `Local_Cultures/Halley_Subnet/Santa_Luce.md` | ✅ |
 | Robot Culture | **none** — deliberately deferred | ⏸️ |
-| Vision Notes | `City_Vision_Notes/Abowasa.md` | ⚠ |
-| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Abowasa.md` | 🛠 |
+| Vision Notes | `City_Vision_Notes/Santa_Luce.md` | ⚠ |
+| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Santa_Luce.md` | 🛠 |
 | Megasheet | `City_Megasheets/Halley_Subnet/Abowasa/` (5 files) | 🔴 |
 
 ### ✅ Canon facts
 - **Only jointly-founded city in Tepenia** — Finland and Sweden, across two genuinely separate ~200m-apart stations, absorbed together by the exile community rather than merged pre-war.
 - **Bedrock (nunatak), mainland — not an island.** ~130 km inland, more interior/continental than Neumayer or Sanay. One of the driest Halley-subnet cities.
-- Renamed from "Aboa" to "Abowasa" 2026-07-05, folding both station names in. Demonym: **Abowasian.**
+- Renamed from "Aboa" to "Santa Luce" 2026-07-05, folding both station names in. Demonym: **Abowasian.**
 - §15: Technical/scientific 25%, Marine 15%, Commercial 15%, Industrial 15%, Education 15%, Other 15% — genuinely modest, no dominant sector (small-scale economy explicitly noted).
-- **Identity: "Two Peoples, One Small Place."** The founding-nation-vs-majority tension every other city faces once, Abowasa faces doubled, negotiated household-by-household.
+- **Identity: "Two Peoples, One Small Place."** The founding-nation-vs-majority tension every other city faces once, Santa Luce faces doubled, negotiated household-by-household.
 - Both real stations built for year-round occupation but staffed only seasonally by choice (Nov–Feb field-research season) — infrastructure was never the limit, only the funding decision, which stopped applying at exile.
 
 ### 🔴 Draft-tier
 - No Robot Culture pass exists. **⚠ Project's own flag:** the "Finnish and Swedish exiles, jointly" founding premise may not cleanly survive the established First Interwar operator-turnover history — a real, developer-flagged consistency debt touching the city's name, demonym, headline trait, and its "Turku Remembrance" holiday. **Not resolved anywhere in the gathered material.**
 
 ### Open threads
-- Whether the Finnish-Swedish dynamic merged, stayed distinct, or hybridized; why Abowasa survived partially rather than fully; economy detail; two placeholder holidays.
-- **⭐ Division-of-Industry note:** ruled 2026-09-02 as a commuter-labor exporter (10%, {{Abowasa}} named in the same breath as Halley's own 5–10% commuter range in `05`), estimate not canon-sourced.
+- Whether the Finnish-Swedish dynamic merged, stayed distinct, or hybridized; why Santa Luce survived partially rather than fully; economy detail; two placeholder holidays.
+- **⭐ Division-of-Industry note:** ruled 2026-09-02 as a commuter-labor exporter (10%, Santa Luce named in the same breath as Halley's own 5–10% commuter range in `05`), estimate not canon-sourced.
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md** — not named directly; not covered by the L25 highway-only list either (falls under "and others"). No airport recorded either way.
-- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Halley and Sanay. **L62, L188 — Hwy 59's southern ramp sits between Halley and Abowasa**, just west of the city. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Abowasa and Sanay**, just past Abowasa.
+- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Halley and Sanay. **L62, L188 — Hwy 59's southern ramp sits between Halley and Santa Luce**, just west of the city. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Santa Luce and Sanay**, just past Santa Luce.
 
 ---
 
@@ -245,7 +245,7 @@
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. Consistent with Sanay's port/trucking identity (Port of Sanay is coastal shipping, not aviation).
-- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Abowasa and Troll. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Abowasa and Sanay**, just before the city.
+- **Highways.md L66, L115, L119** — on the **Hwy 7 (Belgrano Highway)** main line, between Santa Luce and Troll. **L238, L240 — the Neumayer Connector's western end sits on Hwy 7 between Santa Luce and Sanay**, just before the city.
 
 ---
 
@@ -295,18 +295,18 @@
 
 ---
 
-## Princess Elisabeth
+## Utstein
 
 **Status:** Destroyed — ruins with straggling survivors | **Census I:** 553,768H / 584,149R / 1,137,917 | **Census II:** 401,403H / 365,359R / 766,762 (rank 15th of ~32) | **Location:** Utsteinen nunatak, Sør Rondane Mountains (~71°57'S, 23°21'E) | **Based on:** Princess Elisabeth Antarctica (Belgium)
 
 ### Files found
 | Category | Path | Tier |
 |---|---|---|
-| Specs | `Specs/Princess_Elisabeth.md` | ✅ |
-| Local Culture | `Local_Cultures/Halley_Subnet/Princess_Elisabeth.md` — present-tense pre-war culture per standard methodology | ✅ |
-| Robot Culture | `Local_Robot_Culture/Halley_Subnet/Princess_Elisabeth.md` | ✅ (provisional) |
-| Vision Notes | `City_Vision_Notes/Princess_Elisabeth.md` | ⚠ |
-| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Princess_Elisabeth.md` | 🛠 |
+| Specs | `Specs/Utstein.md` | ✅ |
+| Local Culture | `Local_Cultures/Halley_Subnet/Utstein.md` — present-tense pre-war culture per standard methodology | ✅ |
+| Robot Culture | `Local_Robot_Culture/Halley_Subnet/Utstein.md` | ✅ (provisional) |
+| Vision Notes | `City_Vision_Notes/Utstein.md` | ⚠ |
+| Enneagram | `City_Enneagram_Personalities/Halley_Subnet/Utstein.md` | 🛠 |
 | Megasheet | `City_Megasheets/Halley_Subnet/Princess_Elisabeth/` (5 files) | 🔴 |
 
 ### ✅ Canon facts
@@ -324,7 +324,7 @@
 - **Glitch-Coolant: derived — a genuinely new category, "closed-loop/zero-discharge"** — about whether the substance leaves anything behind, not variety or potency.
 - Solar symbol Uranus + Robo-Element Electricity (no duplicate-pair risk).
 - Generational Identity: confirmed NULL.
-- Confirmed cross-subnet ties: **Strong to Sayowa** (Mawson, generations-deep Japanese-heritage family correspondence, predates the highway link) and **Medium to Dome Fuji, Shirayuki, Sinheung, Signy**.
+- Confirmed cross-subnet ties: **Strong to Temirötkel** (Mawson, generations-deep Japanese-heritage family correspondence, predates the highway link) and **Medium to Dome Fuji, Shirayuki, Sinheung, Signy**.
 
 ### 🔴 Draft-tier
 - Vignettes/Course of Events: "Leave No Mark," "What's Underneath" (the mysterious underground "mini-infrastructure," deliberately left unresolved even in the developer's own vision session), "The Turbine and the Crossing," "Margrethe's Balance," "Nothing to Fall Back On," "What the Wind Can't Grow" (honest complication: the city was never self-sufficient in food/materials, only energy).
@@ -334,8 +334,8 @@
 - Exact circumstances of destruction; the underground mystery-infrastructure; Ice Cold Buddhism/Dome Fuji pilgrimage connection; whether the underground reserve/candidate questline (restoring zero-emissions systems) gets designed.
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Princess Elisabeth entry elsewhere in the file).
-- **Highways.md L127** — on the **Hwy 7-ext (Belgrano Highway Extension)** route, between Lazar and the Sayowa Junction. Built 2611–2614 — the only highway with confirmed in-world construction dates.
+- **Airports.md L25** — listed highway-only, no airport. Consistent (no dedicated Utstein entry elsewhere in the file).
+- **Highways.md L127** — on the **Hwy 7-ext (Belgrano Highway Extension)** route, between Lazar and the Temirötkel Junction. Built 2611–2614 — the only highway with confirmed in-world construction dates.
 
 ---
 
@@ -372,7 +372,7 @@
 - Solar symbol Jupiter + Robo-Element Wood (shares Jupiter with Sanay, resolved as population-mass vs. functional centrality).
 - **Generational Identity: confirmed NULL for manufacturing, but the heavy Janbogo/Zukelli/Esperanza in-migration means a substantial share of the robot population carries a DIFFERENT origin city's Gen/Mark culture, permanently settled here** — richer than Casey's transit-comparison finding.
 - **⭐ Flagged, unresolved political hook:** robots hold a real numeric majority in Tepenia's largest and most economically central city, which is *itself* "biggest, not in charge" (structurally excluded from proportionate formal political authority) — a real, undeveloped Federation-politics angle.
-- Confirmed relationships: **positive/mutual with Neumayer** (Neumayer Trade Exchange — complementary technical specialties); **Troll and Princess Elisabeth ties are real but database-omitted**, not absent.
+- Confirmed relationships: **positive/mutual with Neumayer** (Neumayer Trade Exchange — complementary technical specialties); **Troll and Utstein ties are real but database-omitted**, not absent.
 
 ### 🔴 Draft-tier
 - Vignettes/Course of Events: "Two Settlements, One City," "Never Gone Dark," "The Name Worn Down" (the accidental "Lazarus" name-echo — the city saved itself, nothing external), "Too Big to Stop," "Biggest, Not in Charge."

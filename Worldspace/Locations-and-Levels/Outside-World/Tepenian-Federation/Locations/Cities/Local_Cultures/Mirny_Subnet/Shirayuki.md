@@ -33,7 +33,7 @@
 
 The real Bharati Station — India's second Antarctic installation, the newest infrastructure in the Larsemann Hills cluster — sat unoccupied when the exile era began, since no Indian or South Asian population ever came to Tepenia. But its fate wasn't decided by the exile community that eventually settled it. It was decided before the exile era began at all, by the International Court of Diplomacy at Jeju-do — an Upper Earth institution, not a Tepenian one, through which Japan, Korea, and the Sinian Federation (China) coordinated as peers.
 
-At the time, Korea already held claim to what would become multiple Tepenian footholds (Janbogo, Sejong), and China's presence was already extensive, immediately adjacent at Zhongshan itself. Rather than let proximity default into a third Chinese claim, the Jeju-do court allocated the unoccupied site to Japan instead — a genuine act of diplomatic balance, settled among the three powers before the Falkland Treaty or the exile ever happened. When Japanese exiles arrived in 2564, they inherited a claim that had already been resolved, rather than working one out among themselves or against their neighbors.
+At the time, Korea already held claim to what would become multiple Tepenian footholds (Janbogo, Contrapunto), and China's presence was already extensive, immediately adjacent at Zhongshan itself. Rather than let proximity default into a third Chinese claim, the Jeju-do court allocated the unoccupied site to Japan instead — a genuine act of diplomatic balance, settled among the three powers before the Falkland Treaty or the exile ever happened. When Japanese exiles arrived in 2564, they inherited a claim that had already been resolved, rather than working one out among themselves or against their neighbors.
 
 ---
 
@@ -209,8 +209,8 @@ Its very existence traces directly to an Upper Earth diplomatic decision (the Je
 
 ## 23. Relationship to Other Cities
 
-- **Sinheung and Zhongshan (Larsemann Hills cluster):** Close cluster neighbors, now consistently resolved as damaged-but-functional alongside this city — genuine daily cross-community contact, similar in spirit to Sejong's own King George Island density.
-- **Sayowa:** The other Japanese-founded Tepenian city — and, since this city's move to the Mirny subnet 2026-07-05, now in a different subnet, a new wrinkle in the relationship that wasn't there before.
+- **Sinheung and Zhongshan (Larsemann Hills cluster):** Close cluster neighbors, now consistently resolved as damaged-but-functional alongside this city — genuine daily cross-community contact, similar in spirit to Contrapunto's own King George Island density.
+- **Temirötkel:** The other Japanese-founded Tepenian city — and, since this city's move to the Mirny subnet 2026-07-05, now in a different subnet, a new wrinkle in the relationship that wasn't there before.
 - **Mawson (the city):** Connected via Hwy 4 through Sinheung — a physical highway link that persists even though this city and Mawson are no longer the same Arcanet subnet, following the 2026-07-05 reassignment.
 
 ---

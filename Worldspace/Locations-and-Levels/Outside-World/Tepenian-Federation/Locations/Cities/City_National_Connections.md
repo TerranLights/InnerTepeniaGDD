@@ -6,7 +6,7 @@ scientific, infrastructural, or historical — once the Amundsen Tower's complet
 through a single relay for the first time. **Time frame: the living Second Interwar Period after the Tower's
 completion, before the Long Night War and the Planetary Split Brain** — the same setting this project's
 Historical Vignettes batch 2 pass (`Historical_Vignettes_Progress_Tracker.md`) was written in. Destroyed-in-
-the-war cities (Zukelli, Princess Elisabeth, Denison) are included as they stood during this living period, not
+the-war cities (Zukelli, Utstein, Denison) are included as they stood during this living period, not
 as their later ruined state.
 
 > ⛔ **Not canon as a source: the Historical Vignettes and Course of Events files** (developer ruling). A connection
@@ -85,7 +85,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   cross-subnet material thread.
 - **Halley** (Halley) — Medium, Logistics. Belgrano is one of Halley's own two possible receiving ports,
   downstream via the Hwy 7 connector.
-- **Abowasa** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor Belgrano feeds.
+- **Santa Luce** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor Belgrano feeds.
 
 ### Troll
 - **Sanay** (Halley) — Strong, Logistics. Receives what Sanay brings in overland via Hwy 7 and flies it
@@ -103,21 +103,21 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   self-image even without direct physical infrastructure linking them.
 - **Halley** (Halley) — Medium, Logistics. The final leg of Halley's own overland resupply chain runs through
   Troll's own aviation distribution.
-- **Abowasa** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor Troll anchors.
+- **Santa Luce** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor Troll anchors.
 
-### Abowasa
-- **Sejong** (Palmer) — Medium, Cultural. Both cities solved a genuine multinational-coexistence problem at
-  founding (Finnish-Swedish at Abowasa, a dozen communities at Sejong) — a natural point of practical
+### Santa Luce
+- **Contrapunto** (Palmer) — Medium, Cultural. Both cities solved a genuine multinational-coexistence problem at
+  founding (Finnish-Swedish at Santa Luce, a dozen communities at Contrapunto) — a natural point of practical
   governance comparison once full connectivity exists, though at very different scales.
-- **Sanay** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor; Abowasa's own
+- **Sanay** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor; Santa Luce's own
   small-scale internal Halley subnet trade runs through Sanay's own shipping and distribution role.
 - **Troll** (Halley) — Medium, Infrastructure. Same corridor, the onward aviation leg.
 - **Belgrano** (Halley) — Medium, Infrastructure. Same corridor, the other receiving-port option.
 - **Mirny** (Mirny) — Medium, Cultural. Mirny's own Dual-Kitchen Halls institutionalized Russian-Chinese
-  coexistence at civic scale the same deliberate way Abowasa's founding generation institutionalized
+  coexistence at civic scale the same deliberate way Santa Luce's founding generation institutionalized
   Finnish-Swedish coexistence — a resonant, if never directly exchanged, parallel.
 - **Lazar** (Halley) — Medium, Cultural. Lazar's own coalescence from two separate founding settlements
-  parallels the multinational-coexistence-by-necessity pattern at Abowasa, though Lazar's merger was
+  parallels the multinational-coexistence-by-necessity pattern at Santa Luce, though Lazar's merger was
   demographic rather than a live day-to-day negotiation.
 
 ### Sanay
@@ -128,21 +128,21 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Troll** (Halley) — Strong, Logistics. Sanay's own received freight is what Troll flies onward.
 - **Amundsen Station** — Medium, Infrastructure. Home to the Halley subnet's own actual Arcanet nexus, making
   Sanay a genuine technical correspondent of the Pole's own relay function.
-- **Abowasa** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor.
+- **Santa Luce** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor.
 
-### Princess Elisabeth
-- **Sayowa** (Mawson) — Strong, Social/Cultural. Tepenia's single most geographically adjacent inter-subnet
+### Utstein
+- **Temirötkel** (Mawson) — Strong, Social/Cultural. Tepenia's single most geographically adjacent inter-subnet
   proximity; a sustained, generations-deep family correspondence connects the two cities,
   predating and outlasting the formal Hwy 7-ext highway link.
 - **Dome Fuji** (Mawson) — Medium, Geographic/Cultural. The closest Halley subnet city to Dome Fuji by
   longitude, though the exact highway link is unconfirmed; a plausible minor pilgrimage-adjacent connection
   given the proximity.
-- **Shirayuki** (Mirny) — Medium, Demographic. Princess Elisabeth is the only Halley subnet city with genuine
+- **Shirayuki** (Mirny) — Medium, Demographic. Utstein is the only Halley subnet city with genuine
   Japanese demographic presence (co-Primary with the USA); a real, if never dramatized, demographic kinship
   with Tepenia's other Japanese-heritage cities once full connectivity exists.
 - **Sinheung** (Mirny) — Medium, Demographic. The same Japanese-heritage demographic kinship.
 - **Signy** (Palmer) — Medium, Technical. Both cities built genuine civic identity around engineered,
-  actively-maintained self-sufficient power (zero-emissions systems at Princess Elisabeth, wind-and-hydro at
+  actively-maintained self-sufficient power (zero-emissions systems at Utstein, wind-and-hydro at
   Signy) — a natural engineering-correspondence pairing.
 
 ### Lazar
@@ -152,14 +152,14 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Palmer City** (Palmer) — Medium, Cultural. The two cities that read as genuine big-city megacenters —
   Lazar's maglev/holographic commercial density, Palmer City's entertainment-and-casino economy — share a
   scale and civic energy no other Tepenian city matches.
-- **Sejong** (Palmer) — Medium, Cultural. Lazar's own coalescence from two separate founding settlements
-  (Novolazarevskaya and the unoccupied Maitri site) parallels Sejong's own multinational-coexistence-by-
+- **Contrapunto** (Palmer) — Medium, Cultural. Lazar's own coalescence from two separate founding settlements
+  (Novolazarevskaya and the unoccupied Maitri site) parallels Contrapunto's own multinational-coexistence-by-
   necessity founding, though Lazar's merger was demographic rather than a live negotiation.
-- **Abowasa** (Halley) — Medium, Cultural. The same coalescence-versus-coexistence parallel.
+- **Santa Luce** (Halley) — Medium, Cultural. The same coalescence-versus-coexistence parallel.
 - **Neumayer** (Halley) — Medium, Historical. The nearest confirmed Halley subnet neighbor, a proximity that
   plausibly gave founding-era Lazar and Neumayer a working logistics relationship neither city's own file has
   fully developed yet.
-- **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 7-ext runs from the Sayowa Junction directly to Lazar,
+- **Temirötkel** (Mawson) — Medium, Infrastructure. Hwy 7-ext runs from the Temirötkel Junction directly to Lazar,
   giving the Mawson subnet's own connective hub a direct physical link to Tepenia's single largest city.
 
 ---
@@ -167,9 +167,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ## Palmer Subnet
 
 ### Palmer City
-- **Sejong** (Palmer) — Strong, Political/Economic. The Machu Picchu Border & Customs Authority and Machu
-  Picchu Airport, near Sejong, are Palmer City's own confirmed Upper Earth tourism gateway.
-- **Juan Carlos** (Palmer) — Strong, Political/Economic. The same gateway corridor — Juan Carlos's own
+- **Contrapunto** (Palmer) — Strong, Political/Economic. The Machu Picchu Border & Customs Authority and Machu
+  Picchu Airport, near Contrapunto, are Palmer City's own confirmed Upper Earth tourism gateway.
+- **Pergamino** (Palmer) — Strong, Political/Economic. The same gateway corridor — Pergamino's own
   immigration processing routes non-immigrant visitors through toward Palmer City's own tourism economy.
 - **Mawson** (Mawson) — Medium, Economic/Cultural. Tepenia's two deliberately-cultivated hospitality economies
   — entertainment/casino tourism at Palmer City, honeymoon-destination tourism at Mawson — a natural
@@ -212,27 +212,27 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Byrd** (Byrd) — Medium, Infrastructure. A secondary/backup logistics link into the Palmer-Byrd-Mirny
   overland corridor alongside Hwy 1.
 
-### Port Lockroy
-- **Juan Carlos** (Palmer) — Medium, Cultural. Two cities whose entire civic identity is about moving
-  information rather than goods — Port Lockroy's postal-correspondence network, Juan Carlos's own "Federation's
+### Puerto Abrigo
+- **Pergamino** (Palmer) — Medium, Cultural. Two cities whose entire civic identity is about moving
+  information rather than goods — Puerto Abrigo's postal-correspondence network, Pergamino's own "Federation's
   memory" archive-keeping — a natural, if quiet, professional kinship.
 - **Zhongshan** (Mirny) — Medium, Cultural. The Long Record (Zhongshan's own archive, the most complete
-  pre-Split-Brain history in the Mirny subnet) and Port Lockroy's own accounted-for-history civic instinct
+  pre-Split-Brain history in the Mirny subnet) and Puerto Abrigo's own accounted-for-history civic instinct
   ("account for the past rather than paper over it") share the same underlying value.
 - **Cape Adare** (Janbogo) — Medium, Cultural. Both cities built their whole civic identity around
-  preservation-as-practice — Port Lockroy's Communal Stone Wall, Cape Adare's heritage-documentation archive.
+  preservation-as-practice — Puerto Abrigo's Communal Stone Wall, Cape Adare's heritage-documentation archive.
 
-### Sejong
+### Contrapunto
 - **Palmer City** (Palmer) — Strong, Political/Economic. The Machu Picchu gateway corridor Palmer City's own
   tourism economy depends on.
-- **Juan Carlos** (Palmer) — Strong, Political/Economic. The same shared gateway.
-- **Janbogo** (Janbogo) — Medium, Demographic. Janbogo's Korean founding and Sejong's own Korean community
+- **Pergamino** (Palmer) — Strong, Political/Economic. The same shared gateway.
+- **Janbogo** (Janbogo) — Medium, Demographic. Janbogo's Korean founding and Contrapunto's own Korean community
   (Significant tier) — genuine but limited, ceremonial kinship rather than close operational ties, per the established "kin, not siblings"
   framing.
-- **Sinheung** (Mirny) — Medium, Demographic. Sinheung's Korean founding and Sejong's own Korean community (Significant tier).
-- **Abowasa** (Halley) — Medium, Cultural. Both cities solved a genuine multinational-coexistence problem at
+- **Sinheung** (Mirny) — Medium, Demographic. Sinheung's Korean founding and Contrapunto's own Korean community (Significant tier).
+- **Santa Luce** (Halley) — Medium, Cultural. Both cities solved a genuine multinational-coexistence problem at
   founding.
-- **Lazar** (Halley) — Medium, Cultural. Lazar's own coalescence from two settlements parallels Sejong's own
+- **Lazar** (Halley) — Medium, Cultural. Lazar's own coalescence from two settlements parallels Contrapunto's own
   multinational-coexistence founding.
 
 ### Signy
@@ -240,8 +240,8 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   direct engineering consultation from Tower-era energy-regulation planners; the same reliability-over-peak-
   output discipline is exactly what Kunlun's own extreme-condition engineering culture would recognize
   immediately.
-- **Vostok** (Mirny) — Medium, Technical. The same energy-engineering consultation relationship.
-- **Princess Elisabeth** (Halley) — Medium, Technical. Both cities built genuine civic identity around
+- **Ariun Nuur** (Mirny) — Medium, Technical. The same energy-engineering consultation relationship.
+- **Utstein** (Halley) — Medium, Technical. Both cities built genuine civic identity around
   engineered, actively-maintained self-sufficient power.
 - **Rothera** (Palmer) — Medium, Infrastructure. The only two Palmer subnet cities that survived the Long
   Night War intact/functional at meaningfully different scale than their neighbors.
@@ -249,17 +249,17 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   larger, louder neighbor (Fort McMurdo; the rest of the Palmer subnet) — a resonant, if never directly
   exchanged, civic-temperament parallel.
 
-### Juan Carlos
-- **Amundsen Station** — Strong, Historical. Juan Carlos's own formal Federation archive gradually relocated
+### Pergamino
+- **Amundsen Station** — Strong, Historical. Pergamino's own formal Federation archive gradually relocated
   into Amundsen Station's unified national archive across the Second Interwar Period — the single most direct
   institutional link between any outer city and the Pole's own archive function.
 - **Palmer City** (Palmer) — Strong, Political/Economic. The shared Machu Picchu gateway corridor.
-- **Sejong** (Palmer) — Strong, Political/Economic. The same shared gateway.
+- **Contrapunto** (Palmer) — Strong, Political/Economic. The same shared gateway.
 - **Zhongshan** (Mirny) — Medium, Cultural. Two cities whose civic self-image is built entirely around being
   quiet custodians of history — the Long Record and the "Federation's memory" nickname are close enough in
   spirit to be genuine professional peers.
-- **Port Lockroy** (Palmer) — Medium, Cultural. Two civic identities built around moving information — postal
-  correspondence at Port Lockroy, formal archive-keeping at Juan Carlos.
+- **Puerto Abrigo** (Palmer) — Medium, Cultural. Two civic identities built around moving information — postal
+  correspondence at Puerto Abrigo, formal archive-keeping at Pergamino.
 
 ---
 
@@ -278,10 +278,10 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   connection.
 - **Zhongshan** (Mirny) — Strong, Infrastructure. Connected through Mirny's own Relay Hardware Vaults, the
   intra-subnet Arcanet hub whose failure would cut Arcanet contact across the whole cluster at once.
-- **Vostok** (Mirny) — Strong, Infrastructure. The same Relay Vaults connection.
+- **Ariun Nuur** (Mirny) — Strong, Infrastructure. The same Relay Vaults connection.
 - **Kunlun** (Mirny) — Strong, Infrastructure. The same Relay Vaults connection.
-- **Abowasa** (Halley) — Medium, Cultural. Mirny's own Dual-Kitchen Halls institutionalized Russian-Chinese
-  coexistence at civic scale the same deliberate way Abowasa's founding generation institutionalized
+- **Santa Luce** (Halley) — Medium, Cultural. Mirny's own Dual-Kitchen Halls institutionalized Russian-Chinese
+  coexistence at civic scale the same deliberate way Santa Luce's founding generation institutionalized
   Finnish-Swedish coexistence.
 - **Denison** (Janbogo) — Medium, Engineering. Mirny's own windbreak-ring architecture and Denison's own
   fully-interlinked structural design are Tepenia's two most developed answers to the same extreme-katabatic-
@@ -317,7 +317,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Dome Fuji** (Mawson) — Strong, Religious/Infrastructure. The two poles of Ice Cold Buddhism — Kunlun the
   holiest site, Dome Fuji its major pilgrimage destination — directly linked by Hwy 37, with devotees making
   the journey between both over a long devotional life.
-- **Vostok** (Mirny) — Strong, Scientific/Social. Tepenia's two loneliest extreme-isolation outposts, genuine
+- **Ariun Nuur** (Mirny) — Strong, Scientific/Social. Tepenia's two loneliest extreme-isolation outposts, genuine
   working infrastructure-sharing partners (equipment/reagent requests, cold-adaptation modeling) as well as an
   emotional kinship.
 - **Mirny** (Mirny) — Strong, Infrastructure. Connected through Mirny's own Relay Hardware Vaults.
@@ -329,17 +329,17 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   engineering consultation from Tower-era planners, the same reliability discipline Kunlun's own engineering
   culture would recognize immediately.
 
-### Vostok
+### Ariun Nuur
 - **Kunlun** (Mirny) — Strong, Scientific/Social. Tepenia's two loneliest extreme-isolation outposts, genuine
   working infrastructure-sharing partners as well as an emotional kinship.
 - **Mirny** (Mirny) — Strong, Infrastructure. Connected through Mirny's own Relay Hardware Vaults.
-- **Byrd** (Byrd) — Medium, Scientific/Cultural. Vostok's own genetics program transplanted and cultivated the
+- **Byrd** (Byrd) — Medium, Scientific/Cultural. Ariun Nuur's own genetics program transplanted and cultivated the
   bioluminescent ecosystem in Byrd's own subglacial lake — a rare, genuine scientific-collaboration export
-  outside Vostok's otherwise near-total "exported almost nothing else" economic profile.
-- **Signy** (Palmer) — Medium, Technical. Vostok's own cold-tolerant biological research reaches beyond Kunlun
+  outside Ariun Nuur's otherwise near-total "exported almost nothing else" economic profile.
+- **Signy** (Palmer) — Medium, Technical. Ariun Nuur's own cold-tolerant biological research reaches beyond Kunlun
   to other extreme-engineering consultations, including Signy's own power system.
 - **Dome Fuji** (Mawson) — Strong, Infrastructure/Aviation. One of Dome Fuji's three confirmed aviation supply
-  routes runs via Mountain Pass Airport, sitting between Kunlun and Vostok — Vostok's own overland link
+  routes runs via Mountain Pass Airport, sitting between Kunlun and Ariun Nuur — Ariun Nuur's own overland link
   (Hwy 37) feeds this route alongside Kunlun's.
 
 ### Zhongshan
@@ -348,9 +348,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   as literal next-door neighbors.
 - **Shirayuki** (Mirny) — Strong, Cultural/Political. The same Tri-Cities cluster.
 - **Mirny** (Mirny) — Strong, Infrastructure. Connected through Mirny's own Relay Hardware Vaults.
-- **Juan Carlos** (Palmer) — Medium, Cultural. Two cities whose civic self-image is built around being quiet
+- **Pergamino** (Palmer) — Medium, Cultural. Two cities whose civic self-image is built around being quiet
   custodians of history.
-- **Port Lockroy** (Palmer) — Medium, Cultural. The Long Record and Port Lockroy's own accounted-for-history
+- **Puerto Abrigo** (Palmer) — Medium, Cultural. The Long Record and Puerto Abrigo's own accounted-for-history
   civic instinct share the same underlying value.
 - **Amundsen Station** — Medium, Historical. The Long Record's own status as custodian of the most complete
   pre-Split-Brain history in the Mirny subnet makes it a natural correspondent of the Pole's own national
@@ -375,21 +375,21 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   physical logistics link independent of Arcanet subnet boundaries.
 - **Belgrano** (Halley) — Medium, Economic/Gameplay. A specific aircraft part recoverable from Belgrano's own
   ruins-era garage bypasses a stat-gate on Sinheung's own plane-repair sidequest.
-- **Princess Elisabeth** (Halley) — Medium, Demographic. Both share genuine Japanese-heritage demographic
+- **Utstein** (Halley) — Medium, Demographic. Both share genuine Japanese-heritage demographic
   presence — a real, if never dramatized, kinship once full connectivity exists.
-- **Sejong** (Palmer) — Medium, Demographic. Sejong's Korean community (Significant tier) — genuine but
+- **Contrapunto** (Palmer) — Medium, Demographic. Contrapunto's Korean community (Significant tier) — genuine but
   limited, ceremonial kinship.
 - **Janbogo** (Janbogo) — Medium, Demographic. Both Korean-founded cities.
-- **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Sinheung,
+- **Temirötkel** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Temirötkel Junction directly to Sinheung,
   the same Spur/Junction link that reaches Shirayuki alongside it — distinct from the general Mawson-city
-  import route above, this is the specific Sayowa-anchored physical connection.
+  import route above, this is the specific Temirötkel-anchored physical connection.
 
 ### Shirayuki
 - **Zhongshan** (Mirny) — Strong, Cultural/Political. Part of the Larsemann Hills Tri-Cities cluster.
 - **Sinheung** (Mirny) — Strong, Cultural/Political. The same Tri-Cities cluster.
-- **Princess Elisabeth** (Halley) — Medium, Demographic. Both share genuine Japanese-heritage demographic
+- **Utstein** (Halley) — Medium, Demographic. Both share genuine Japanese-heritage demographic
   presence.
-- **Sayowa** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction to Shirayuki, the same
+- **Temirötkel** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Temirötkel Junction to Shirayuki, the same
   Spur/Junction link that reaches Sinheung alongside it.
 
 ---
@@ -399,7 +399,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ### Janbogo
 - **Zukelli** (Janbogo) — Strong, Social. The pre-war "Crossing" tradition — informal visits blurring who was
   hosting whom — reflected genuine, deep closeness between the two neighboring cities.
-- **Sejong** (Palmer) — Medium, Demographic. Sejong's Korean community (Significant tier) — genuine but
+- **Contrapunto** (Palmer) — Medium, Demographic. Contrapunto's Korean community (Significant tier) — genuine but
   limited, ceremonial kinship rather than close operational ties.
 - **Sinheung** (Mirny) — Medium, Demographic. Both Korean-founded cities.
 - **Mawson** (Mawson) — Medium, Cultural. Tepenia's other deliberately hospitality-forward civic identity,
@@ -443,7 +443,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   restaurant-performance tradition.
 
 ### Cape Adare
-- **Port Lockroy** (Palmer) — Medium, Cultural. Both cities built their whole civic identity around
+- **Puerto Abrigo** (Palmer) — Medium, Cultural. Both cities built their whole civic identity around
   preservation-as-practice.
 - **Amundsen Station** — Medium, Technical. Cape Adare's own precise, unhurried heritage-documentation
   methodology (the Borchgrevink's Hut archive) was consulted directly for how to properly document the Tower's
@@ -483,8 +483,8 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ## Mawson Subnet
 
 ### Mawson
-- **Sayowa** (Mawson) — Strong, Infrastructure. Mawson's own hub function was built, from founding, to serve
-  intra-subnet coordination with Sayowa and Dome Fuji first, outward national connectivity second.
+- **Temirötkel** (Mawson) — Strong, Infrastructure. Mawson's own hub function was built, from founding, to serve
+  intra-subnet coordination with Temirötkel and Dome Fuji first, outward national connectivity second.
 - **Dome Fuji** (Mawson) — Strong, Infrastructure. The same founding-era hub-coordination priority.
 - **Neumayer** (Halley) — Medium, Technical/Cultural. Neumayer drafted the spec and schematic for Calethina,
   commissioned out of Mawson.
@@ -504,37 +504,37 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
   routes, direct by air.
 - **Sinheung** (Mirny) — Strong, Infrastructure. The second independent aviation route (via Mawson) that kept
   Dome Fuji supplied for a substantial stretch of Tepenian history.
-- **Vostok** (Mirny) — Strong, Infrastructure/Aviation. The third of Dome Fuji's three confirmed aviation
-  supply routes, via Mountain Pass Airport (sitting between Kunlun and Vostok) and the connecting overland
+- **Ariun Nuur** (Mirny) — Strong, Infrastructure/Aviation. The third of Dome Fuji's three confirmed aviation
+  supply routes, via Mountain Pass Airport (sitting between Kunlun and Ariun Nuur) and the connecting overland
   link (Hwy 37/Hwy 4) — completing the three-direction resupply picture alongside Troll and Sinheung.
 - **Mawson** (Mawson) — Strong, Infrastructure. Founding-era hub-coordination priority.
-- **Sayowa** (Mawson) — Strong, Infrastructure. Sayowa is Dome Fuji's own overland supply-chain gateway and
+- **Temirötkel** (Mawson) — Strong, Infrastructure. Temirötkel is Dome Fuji's own overland supply-chain gateway and
   the origin point of its aviation route — the closest, most load-bearing single relationship the isolated
   station has. *(Note: Dome Fuji's own extreme-altitude Arcanet limitation means its digital connectivity,
   even post-Tower, remains genuinely thin — see `feedback_extreme_altitude_arcanet` — most of its outside
-  contact still physically routes through Sayowa regardless of what the national relay technically permits.)*
+  contact still physically routes through Temirötkel regardless of what the national relay technically permits.)*
 - **Kunlun** (Mirny) — Strong, Religious (later period). Once Ice Cold Buddhism's rediscovery reaches Dome
   Fuji, this becomes the single strongest connection either city has — the faith's two primary sites.
-- **Princess Elisabeth** (Halley) — Medium, Geographic/Cultural. The closest Halley subnet city to Dome Fuji
+- **Utstein** (Halley) — Medium, Geographic/Cultural. The closest Halley subnet city to Dome Fuji
   by longitude, though the exact highway link is unconfirmed.
 - **Davis** (Mirny) — Medium, Scientific. Independently developed long-term climate-record traditions worth a
   first-time cross-reference.
 
-### Sayowa
+### Temirötkel
 - **Mawson** (Mawson) — Strong, Infrastructure. Founding-era hub-coordination priority.
-- **Dome Fuji** (Mawson) — Strong, Infrastructure. Sayowa is Dome Fuji's own overland supply-chain gateway and
+- **Dome Fuji** (Mawson) — Strong, Infrastructure. Temirötkel is Dome Fuji's own overland supply-chain gateway and
   aviation-route origin point.
-- **Princess Elisabeth** (Halley) — Strong, Social/Cultural. Tepenia's single most geographically adjacent
+- **Utstein** (Halley) — Strong, Social/Cultural. Tepenia's single most geographically adjacent
   inter-subnet proximity, sustained by a generations-deep family correspondence.
-- **Lazar** (Halley) — Medium, Infrastructure. Hwy 7-ext runs from the Sayowa Junction directly to Lazar,
+- **Lazar** (Halley) — Medium, Infrastructure. Hwy 7-ext runs from the Temirötkel Junction directly to Lazar,
   giving Tepenia's single largest city a direct physical link to the Mawson subnet's own connective hub.
-- **Sinheung** (Mirny) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Sinheung, the
+- **Sinheung** (Mirny) — Medium, Infrastructure. Hwy 4 runs from the Temirötkel Junction directly to Sinheung, the
   same Spur/Junction link that reaches Shirayuki alongside it.
-- **Shirayuki** (Mirny) — Medium, Infrastructure. Hwy 4 runs from the Sayowa Junction directly to Shirayuki,
+- **Shirayuki** (Mirny) — Medium, Infrastructure. Hwy 4 runs from the Temirötkel Junction directly to Shirayuki,
   alongside the same Spur/Junction link to Sinheung.
-- **Halley subnet cities generally** — Medium, Infrastructure. The Sayowa Junction is the confirmed
-  convergence point for Halley subnet's own Hwy 7/7-ext spine, giving Sayowa indirect logistics relevance to
-  every Halley subnet city, not only Princess Elisabeth and Lazar.
+- **Halley subnet cities generally** — Medium, Infrastructure. The Temirötkel Junction is the confirmed
+  convergence point for Halley subnet's own Hwy 7/7-ext spine, giving Temirötkel indirect logistics relevance to
+  every Halley subnet city, not only Utstein and Lazar.
 
 ---
 
@@ -556,13 +556,13 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
   larger labor migration waves reaching Byrd from Janbogo and Mirny (and, to a lesser extent, Mawson)
   alongside continued Palmer and Halley arrivals; Byrd's road (Palmer subnet) and Byrd's people (increasingly
   Pacific-facing) simply reflect two different chapters of the same city's growth.
-- **Vostok** (Mirny) — Medium, Scientific/Cultural. Vostok's own genetics program transplanted and cultivated
+- **Ariun Nuur** (Mirny) — Medium, Scientific/Cultural. Ariun Nuur's own genetics program transplanted and cultivated
   the bioluminescent ecosystem in Byrd's own subglacial lake.
 - **Rothera** (Palmer) — Medium, Industrial. Rothera's own decentralized industrial model plausibly influenced
   Byrd's own early industrial planning.
 - **Denison** (Janbogo) — Medium, Industrial/Historical. The same Cradle-network peer relationship, now with
   Denison as the historical third manufacturer.
-- **Vostok's shared USA+Japan Primary-nation pairing** with Byrd is confirmed coincidence, developer-decided
+- **Ariun Nuur's shared USA+Japan Primary-nation pairing** with Byrd is confirmed coincidence, developer-decided
   2026-08-06 — no fundamental or inherently special connection between the two cities. Not a thread for
   further development.
 
@@ -573,7 +573,7 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
 Carried forward from `City_Cross_Subnet_Relationships.md`, still unresolved and still relevant to this fuller
 map:
 
-1. **Byrd's population-vs-geography tension and the Vostok/Byrd shared Primary-nation pairing** — both
+1. **Byrd's population-vs-geography tension and the Ariun Nuur/Byrd shared Primary-nation pairing** — both
    genuinely surprising, neither yet explained anywhere in existing lore.
 2. **Fort McMurdo's Euro-heavy demographic anomaly** within an otherwise Pacific-facing subnet — a plausible,
    thematically apt consequence of being the national capital, worth developing into an actual migration
@@ -591,7 +591,7 @@ All 35 outer cities now have at least one identified connection above (compare a
 `City_Cross_Subnet_Relationships.md` Part 5's own count of 20/35 before this pass), and every connection is
 written out in full at both cities' own entries — no cross-referencing required. Connection strength and
 specificity vary — some (Kunlun↔Dome Fuji, Sinheung↔Byrd, Belgrano↔Byrd) rest on deep, already-dramatized
-lore; others (Abowasa↔Sejong, Scott↔Signy) are reasoned parallels worth developing further, not yet written
+lore; others (Santa Luce↔Contrapunto, Scott↔Signy) are reasoned parallels worth developing further, not yet written
 into any dedicated content. Treat this file the same way its predecessor treats itself: a first-pass map
 identifying *where* real connections exist or plausibly exist, not finished lore — turning any thread above
 into an actual dramatized Course of Events chain, Megasheet cross-reference, or questline beat is a separate,

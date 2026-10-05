@@ -5,7 +5,7 @@
 **Status:** Damaged; partially operational *(finalized 2026-07-03: Lazar sits directly on, or extremely near, the coastline, making it a plausible priority target for Upper Earth's forces — and its unusual scale, a genuine composite "megacity" by Antarctican standards formed from two coalesced settlements, meant it took heavy damage without being wiped out outright. Badly bombed, not destroyed; its sheer size gave it a resilience smaller cities didn't have.)*
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
-**Highway access:** Eastern terminus of Hwy 7 proper; origin point of the Belgrano Highway Extension (Hwy 7-ext, built 2611–2614) toward Princess Elisabeth and Sayowa
+**Highway access:** Eastern terminus of Hwy 7 proper; origin point of the Belgrano Highway Extension (Hwy 7-ext, built 2611–2614) toward Utstein and Temirötkel
 **Significance:** The only Halley subnet city formed from the coalescence of two originally separate settlements; resolves the India-founding-population canon gap (see canon note) by having the adjacent Russian-founded settlement expand into the unoccupied Maitri site rather than inventing a founding nation from nothing. **Tepenia's single largest city by population, both pre- and post-war** (see Population Note below).
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational — Tepenia's largest city overall, badly hit but not destroyed
 
@@ -33,8 +33,8 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 1,158,303 humans / 1,199,984 robots / **2,358,287** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 1,287,003 / 1,333,316 / **2,620,319***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
-**Census II (Orbital Era):** 775,085 humans / 848,494 robots / **1,623,579** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 861,206 / 942,771 / **1,803,977***. ⛔ **Released to {{Bunger Hills City}}, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and {{Bunger Hills City}} inherits **no** population, composition or memory from here.*
+**Census I (Pre-Orbital Era):** 1,158,303 humans / 1,199,984 robots / **2,358,287** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 1,287,003 / 1,333,316 / **2,620,319***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 775,085 humans / 848,494 robots / **1,623,579** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 861,206 / 942,771 / **1,803,977***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|

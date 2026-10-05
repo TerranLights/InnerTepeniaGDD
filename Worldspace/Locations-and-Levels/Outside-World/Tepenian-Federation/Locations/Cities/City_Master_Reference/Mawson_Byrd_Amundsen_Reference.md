@@ -1,6 +1,6 @@
 # Reference: Mawson Subnet · Byrd Subnet · Amundsen Station
 
-> **Compiled 2026-09-02.** Scope: `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/` only, per the developer's explicit instruction. Five entities: **Mawson, Sayowa, Dome Fuji** (Mawson subnet); **Byrd** (Byrd subnet, sole city); **Amundsen Station** (not a city — inter-subnet relay, "not applicable" per its own Division-of-Industry section).
+> **Compiled 2026-09-02.** Scope: `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/` only, per the developer's explicit instruction. Five entities: **Mawson, Temirötkel, Dome Fuji** (Mawson subnet); **Byrd** (Byrd subnet, sole city); **Amundsen Station** (not a city — inter-subnet relay, "not applicable" per its own Division-of-Industry section).
 
 ## ⚠ CANON TIER LEGEND — applied to every fact below
 
@@ -40,9 +40,9 @@
 - **Demographics:** China Primary (17.02%), Australia (the actual founder) Significant (8.29%) — "The Name That Outlasted the Founders." Confirmed as a **structural pattern recurring at three scales**: founding identity, demographics, and infrastructure function (hub role outlasted which specific links it coordinates).
 - **Economy §15 (canon, `Local_Cultures` §15):** Subnet-hub logistics/Arcanet coordination 25% · Maritime trade 20% · Technical/scientific 20% · Commercial/trade 15% · **Hospitality/honeymoon tourism 10%** · Other 10%.
 - **⭐ Distinctive economic identity:** Tepenia's go-to honeymoon destination for newly-married human-robot couples — a *deliberately cultivated*, decades-earned reputation, not incidental. Typical stay ~1-2 weeks. Public libraries confirmed as a genuine civic institution.
-- **Notable locations:** Holme Bay harbor; the subnet-hub Arcanet installation (took the brunt of Long Night War damage — inter-subnet links were the deliberate target per the Split Brain mechanism; intra-subnet links to Sayowa/Dome Fuji plausibly survived better); Prince Charles Mountains approach.
+- **Notable locations:** Holme Bay harbor; the subnet-hub Arcanet installation (took the brunt of Long Night War damage — inter-subnet links were the deliberate target per the Split Brain mechanism; intra-subnet links to Temirötkel/Dome Fuji plausibly survived better); Prince Charles Mountains approach.
 - **Demonym:** Mawsonite.
-- **Highway:** Hwy 4, between the Sayowa Junction and Sinheung (western terminus at the Sayowa Junction, not inside Sayowa).
+- **Highway:** Hwy 4, between the Temirötkel Junction and Sinheung (western terminus at the Temirötkel Junction, not inside Temirötkel).
 
 ### Robot culture
 
@@ -63,13 +63,13 @@ Mega_Init's real-world inspirations (Odessa, Varna, Trogir, Jeju City) are resea
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L25** — listed highway-only, no airport. Consistent with Mawson's identity as a subnet-hub reached by highway (Hwy 4).
-- **Highways.md L101, L103** — on the **Hwy 4 (Mawson-Sinheung Highway)** main line, between the Sayowa Junction and Sinheung.
+- **Highways.md L101, L103** — on the **Hwy 4 (Mawson-Sinheung Highway)** main line, between the Temirötkel Junction and Sinheung.
 
 ---
 
 ---
 
-## Sayowa
+## Temirötkel
 
 **Status:** Damaged; partially operational — critical junction | **Population (Census I):** 93,356 humans / 132,020 robots / 225,376 residents *(island cap)* | **Real-world basis:** Syowa Station (Japan/JARE, operating since 1957), East Ongul Island, Lützow-Holm Bay, Prince Harald Coast, ~69°00'S 39°35'E | **D:** 1.43
 
@@ -77,21 +77,21 @@ Mega_Init's real-world inspirations (Odessa, Varna, Trogir, Jeju City) are resea
 
 | Category | Path | Tier |
 |---|---|---|
-| Specs | `Specs/Sayowa.md` | ✅ |
-| Local_Cultures | `Local_Cultures/Mawson_Subnet/Sayowa.md` | ✅ |
-| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Sayowa.md` | ✅ (cataloged only) |
-| City_Vision_Notes | `City_Vision_Notes/Sayowa.md` | ⚠ (folded in) |
-| Enneagram | `City_Enneagram_Personalities/Mawson_Subnet/Sayowa.md` | 🛠 |
+| Specs | `Specs/Temirotkel.md` | ✅ |
+| Local_Cultures | `Local_Cultures/Mawson_Subnet/Temirotkel.md` | ✅ |
+| Local_Robot_Culture | `Local_Robot_Culture/Mawson_Subnet/Temirotkel.md` | ✅ (cataloged only) |
+| City_Vision_Notes | `City_Vision_Notes/Temirotkel.md` | ⚠ (folded in) |
+| Enneagram | `City_Enneagram_Personalities/Mawson_Subnet/Temirotkel.md` | 🛠 |
 | Symbolic Substrate | Neptune/Earth | 🛠 |
 | Megasheets | `City_Megasheets/Mawson_Subnet/Sayowa/` — 5 files + README, Mega_Init read | Mega_Init: synthesis; rest: 🔴 |
 
 ### Canon facts
 
-- **⭐⭐ Geography — ESTABLISHED 2026-09-02 `[CGRM · Path 6]`: THE CITY IS ON THE MAINLAND Sôya Coast; EAST ONGUL ISLAND IS ITS PORT** — *"a very, very sparsely-populated, very, very extremely heavily-industrialized shipping port."* East Ongul is **~2 km long (~4–5 km²), ~4 km offshore across Ongul Strait**; the mainland shore carries **Langhovde (50 km², ~30 km south)** and **Skarvsnes (the largest ice-free area in the Lützow-Holm Bay region)**. **Population cap KEPT** — Sayowa is a small population running an enormous industrial port, not a large city with a port. Westernmost Mawson-subnet city, closest inter-subnet proximity in all of Tepenia (to Princess Elisabeth, Halley subnet, via Hwy 7-ext).
-- **⭐⭐ What Sayowa makes — answered 2026-09-02:** it was **the INTAKE SOURCE that supplied much of the raw construction material that built MAWSON**, and later **Shirayuki, Sinheung and Zhongshan.** Material lands at the island port, is fabricated on the industrial half, and leaves by highway. ⏸️ Connected **initially to two highways, later three** *(sequence not developer-stated)*.
-- **Demographics:** China Primary (17.39%); **Japan diluted to just 2.71%, Significant tier; Sayowa's founder is open (`DR-20a`).** Shirayuki (not Sayowa) is now Tepenia's genuine Japan-Primary city (36.27%), plausibly a deliberate diplomatic hedge by Japan anticipating Sayowa's dilution.
+- **⭐⭐ Geography — ESTABLISHED 2026-09-02 `[CGRM · Path 6]`: THE CITY IS ON THE MAINLAND Sôya Coast; EAST ONGUL ISLAND IS ITS PORT** — *"a very, very sparsely-populated, very, very extremely heavily-industrialized shipping port."* East Ongul is **~2 km long (~4–5 km²), ~4 km offshore across Ongul Strait**; the mainland shore carries **Langhovde (50 km², ~30 km south)** and **Skarvsnes (the largest ice-free area in the Lützow-Holm Bay region)**. **Population cap KEPT** — Temirötkel is a small population running an enormous industrial port, not a large city with a port. Westernmost Mawson-subnet city, closest inter-subnet proximity in all of Tepenia (to Utstein, Halley subnet, via Hwy 7-ext).
+- **⭐⭐ What Temirötkel makes — answered 2026-09-02:** it was **the INTAKE SOURCE that supplied much of the raw construction material that built MAWSON**, and later **Shirayuki, Sinheung and Zhongshan.** Material lands at the island port, is fabricated on the industrial half, and leaves by highway. ⏸️ Connected **initially to two highways, later three** *(sequence not developer-stated)*.
+- **Demographics:** China Primary (17.39%); **Japan diluted to just 2.71%, Significant tier; Temirötkel's founder is open (`DR-20a`).** Shirayuki (not Temirötkel) is now Tepenia's genuine Japan-Primary city (36.27%), plausibly a deliberate diplomatic hedge by Japan anticipating Temirötkel's dilution.
 - **Economy §15 (canon):** **Industrial fabrication 30%** · **Trucking & dispatch 25%** · Scientific research 20% · Maritime trade 15% · Leisure/commercial 5% *(explicitly secondary)* · Other 5%.
-- **⭐ The Sayowa Junction** — a genuine three-way highway crossing (Hwy 4 · Hwy 7-ext · Hwy 37), located *near* the city (not inside it), linked by **the Sayowa Spur**. Connects the Mawson subnet, the inland Concordia route, and the Halley subnet — "the whole continent's connectivity plausibly depends on it."
+- **⭐ The Temirötkel Junction** — a genuine three-way highway crossing (Hwy 4 · Hwy 7-ext · Hwy 37), located *near* the city (not inside it), linked by **the Temirötkel Spur**. Connects the Mawson subnet, the inland Concordia route, and the Halley subnet — "the whole continent's connectivity plausibly depends on it."
 - Architecture reads as two physical halves: industrial (fabrication/dispatch) and residential.
 - **Demonym:** Sayowan.
 
@@ -105,15 +105,15 @@ Robots outnumber humans (132,020 to 93,356); culture centers on junction-mainten
 
 ### 🔴 DRAFT / NOT CANON
 
-Real-world inspirations (Felixstowe, Trois-Rivières, Kryvyi Rih, Perpignan, Djibouti City) are research grounding only. "Resolved 2026-07-17" Course of Events content (name meanings, Princess Elisabeth kinship, ice-road causeway question, notable figures Haruto and Wei-Lin) is **vignette — not canon.**
+Real-world inspirations (Felixstowe, Trois-Rivières, Kryvyi Rih, Perpignan, Djibouti City) are research grounding only. "Resolved 2026-07-17" Course of Events content (name meanings, Utstein kinship, ice-road causeway question, notable figures Haruto and Wei-Lin) is **vignette — not canon.**
 
 ### Open threads
 
-- Who controls/maintains the Sayowa Junction post-war (potential DLC 4/5 contested-infrastructure link, echoing Troll Airfield)
+- Who controls/maintains the Temirötkel Junction post-war (potential DLC 4/5 contested-infrastructure link, echoing Troll Airfield)
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L25** — listed highway-only, no airport. Consistent — Sayowa's defining infrastructure is the highway junction (Hwy 4 · 7-ext · 37) and its Spur, not aviation.
-- **Highways.md L57, L59, L61, L68, L103, L107, L127, L131, L154, L158, L246–252, L261** — **THE SAYOWA JUNCTION**, a genuine three-way crossing of Hwy 4/7-ext/37 sitting NEAR (not in) the city, linked by the dedicated **Sayowa Spur** (its own section, L246–252). *"The whole continent's connectivity plausibly depends on it"* per L89's own bullet.
+- **Airports.md L25** — listed highway-only, no airport. Consistent — Temirötkel's defining infrastructure is the highway junction (Hwy 4 · 7-ext · 37) and its Spur, not aviation.
+- **Highways.md L57, L59, L61, L68, L103, L107, L127, L131, L154, L158, L246–252, L261** — **THE TEMIRÖTKEL JUNCTION**, a genuine three-way crossing of Hwy 4/7-ext/37 sitting NEAR (not in) the city, linked by the dedicated **Temirötkel Spur** (its own section, L246–252). *"The whole continent's connectivity plausibly depends on it"* per L89's own bullet.
 
 ---
 
@@ -163,7 +163,7 @@ Real-world inspirations (Paro Taktsang, Potala Palace, Angkor Wat) are research 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L18** — named in the Mountain Pass Airport entry as one of the sites the outpost was *"reasonably accessible to"* (via the nearby Hwy 22 dual-junction). Not an airport in Dome Fuji itself — the historical two-route aviation supply lifeline (Troll + a Sinheung-area airstrip) is the city's own real aviation history, separately established.
 - **Airports.md L25** — Dome Fuji is also listed highway-only; consistent, it has no airport of its own.
-- **Highways.md L154, L159** — **CONFIRMED STOP** on the **Hwy 37 (Mountain Cut Throughway)** main line, between the Sayowa Junction and the Hwy 22 dual-junction. **⚠ Dome Fuji's own Specs file previously said "no highway access" — flagged in this same line as stale, needing a corresponding fix.**
+- **Highways.md L154, L159** — **CONFIRMED STOP** on the **Hwy 37 (Mountain Cut Throughway)** main line, between the Temirötkel Junction and the Hwy 22 dual-junction. **⚠ Dome Fuji's own Specs file previously said "no highway access" — flagged in this same line as stale, needing a corresponding fix.**
 
 ---
 
@@ -289,7 +289,7 @@ Seven real-world inspirations (IceCube surface facility, ISS interior, Antarctic
 
 ## Report summary
 
-**File written; entity count confirmed at 5 (Mawson, Sayowa, Dome Fuji, Byrd, Amundsen Station).**
+**File written; entity count confirmed at 5 (Mawson, Temirötkel, Dome Fuji, Byrd, Amundsen Station).**
 
 **Missing files:** none among the primary categories searched (Specs/Local_Cultures/Local_Robot_Culture/City_Vision_Notes/Enneagram/Megasheets all present for all 5). Two structural gaps found and noted: **Byrd's and Amundsen Station's megasheet folders lack a `README.md`** (every other city folder has one — the "concatenation of all three synthesis steps"), and **Amundsen Station has no `City_Symbol_Assignments.md` entry** (consistent with it not being a city).
 

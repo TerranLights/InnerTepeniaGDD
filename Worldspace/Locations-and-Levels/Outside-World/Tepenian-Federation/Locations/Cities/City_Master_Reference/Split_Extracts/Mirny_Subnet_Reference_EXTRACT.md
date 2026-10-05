@@ -22,7 +22,7 @@
 
 # Mirny Subnet — Master City Reference
 
-## Vostok
+## Ariun Nuur
 
 **Status:** Survived, extremely remote · **Census I:** 129,617 humans / 259,644 robots / 389,261 residents · **Real-world basis:** Vostok Station (USSR/Russia), Pole of Inaccessibility, 3,488m · **D (difficulty):** 2.50 (tied-highest in the roster) · **Geology:** ICE-SHEET (bedrock ~4km down under Lake Vostok) — geologically forced importer
 
@@ -36,7 +36,7 @@
 ### Canon facts
 - Holds the coldest naturally-recorded surface temperature on Earth (−89.2°C, 1983); sits above Lake Vostok, sealed 15–25 million years, 4km down.
 
-- Reachable via Hwy 37 (Dome Fuji → Kunlun → Vostok → Concordia), not just the 1,260km trackless Mirny crossing.
+- Reachable via Hwy 37 (Dome Fuji → Kunlun → Ariun Nuur → Concordia), not just the 1,260km trackless Mirny crossing.
 
 - Division of Industry (Local_Cultures §15, pre-rebuild): Science 65% / self-sufficiency 25% / other 10%.
 
@@ -44,12 +44,12 @@
 **Geologically-forced importer** (ice-sheet). Workforce 324,452. Owes 18,774 food-worker-years; **ruled export: scientific research (bioinformatics — the Cryptograph Helix basis)**, minimum 9.2% of distinctive tier. National balance: baseline ~37.4%, mandated (research) 5.8%, **free 56.8%**.
 
 ### Open threads
-Founding-legend gap (what happened to the original Russian population) genuinely unresolved. Whether the Vostok–Mirny cable is intact. Charlene's full backstory TBD.
+Founding-legend gap (what happened to the original Russian population) genuinely unresolved. Whether the Ariun Nuur–Mirny cable is intact. Charlene's full backstory TBD.
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L18** — the Mountain Pass Airport entry: *"On Hwy 37, between Kunlun and Vostok."* The outpost was *"a joint Vostok-Kunlun venture"* — historical, dark since the Tower fell; Mountain Pass is a separate site, not a Vostok airport.
-- **Airports.md L25** — Vostok itself is listed highway-only. Consistent — no airport of its own.
-- **Highways.md L154, L161** — on the **Hwy 37 (Mountain Cut Throughway)** main line, between Mountain Pass Airport and Concordia. The single hardest route in Tepenia to hitchhike (L165–177), and Vostok itself is not a roadside node on it — the highway's only stopping place is Mountain Pass.
+- **Airports.md L18** — the Mountain Pass Airport entry: *"On Hwy 37, between Kunlun and Ariun Nuur."* The outpost was *"a joint Ariun Nuur-Kunlun venture"* — historical, dark since the Tower fell; Mountain Pass is a separate site, not a Ariun Nuur airport.
+- **Airports.md L25** — Ariun Nuur itself is listed highway-only. Consistent — no airport of its own.
+- **Highways.md L154, L161** — on the **Hwy 37 (Mountain Cut Throughway)** main line, between Mountain Pass Airport and Concordia. The single hardest route in Tepenia to hitchhike (L165–177), and Ariun Nuur itself is not a roadside node on it — the highway's only stopping place is Mountain Pass.
 
 ## Mirny (the city)
 
@@ -66,7 +66,7 @@ Founding-legend gap (what happened to the original Russian population) genuinely
 - **⚠ Flagged for an eventual rename** — its national composition (China Primary, 24.24%; Russia only Significant, 7.22%) no longer matches the Russian ship/station the name and founding legend are built around. Not resolved.
 
 - Among the windiest coastal stations in Antarctica (sustained events >40 m/s); the city is architecturally built as its own windbreak — concentric rings, dense, residential woven into the industrial core rather than separated.
-- **Subnet hub:** routes Zhongshan, Casey, Davis, Vostok, Kunlun to each other on the Arcanet (NOT to Concordia — different subnet, Split Brain severed that).
+- **Subnet hub:** routes Zhongshan, Casey, Davis, Ariun Nuur, Kunlun to each other on the Arcanet (NOT to Concordia — different subnet, Split Brain severed that).
 - **Economy — reassigned 2026-07-16:** the near-exclusive top-tier quarrying/industrial hub feeding raw materials to the Tri-Cities, specifically Sinheung's chamber fabrication. (Originally misattributed to Davis; corrected when Davis was resolved as agricultural.) Also supplies eastern-highway construction materials.
 - Division of Industry (Local_Cultures §15, pre-rebuild): Communications/Arcanet ~20% / Technical-scientific ~20% / Industrial ~20% / Maritime ~15% / Commercial ~15% / Other ~10%.
 
@@ -121,7 +121,7 @@ Specs, Local_Cultures, Local_Robot_Culture, Enneagram all read in full. City_Sym
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L13 — The Tri-Cities Airport, shared with Zhongshan and Sinheung.**
-- **Airports.md L18** — also named in the Mountain Pass origin story: *"Shirayuki's [tie runs] to Vostok"* (Japan-Primary census kinship). Not an airport in Shirayuki itself.
+- **Airports.md L18** — also named in the Mountain Pass origin story: *"Shirayuki's [tie runs] to Ariun Nuur"* (Japan-Primary census kinship). Not an airport in Shirayuki itself.
 - **Highways.md L57, L60, L63, L101, L103, L105, L108, L139, L141, L146** — the **Zhongshan/Sinheung/Shirayuki tri-junction**, and Shirayuki is specifically **Hwy 4's own eastern terminus.**
 
 ## Davis
@@ -167,7 +167,7 @@ Specs, Local_Cultures, Local_Robot_Culture, Enneagram all read in full. City_Sym
 
 ### ✈️🛣️ Infrastructure cross-references
 - **Airports.md L13 — The Tri-Cities Airport, shared with Zhongshan and Shirayuki.**
-- **Airports.md L18 — Sinheung is the origin of the Mountain Pass Airport entry itself.** *"The outpost began as an act of solidarity from the Tri-Cities, pushed for by the Sinheung Institute of Cybernetics and Robotic Care"* — Sinheung's census ties run to BOTH Kunlun and Vostok, the only Tri-City with kinship to both plateau cities and the industrial means to act on it.
+- **Airports.md L18 — Sinheung is the origin of the Mountain Pass Airport entry itself.** *"The outpost began as an act of solidarity from the Tri-Cities, pushed for by the Sinheung Institute of Cybernetics and Robotic Care"* — Sinheung's census ties run to BOTH Kunlun and Ariun Nuur, the only Tri-City with kinship to both plateau cities and the industrial means to act on it.
 - **Highways.md L57, L60, L63, L101, L103, L108, L139, L141, L146** — the **Zhongshan/Sinheung/Shirayuki tri-junction**, and Sinheung sits directly on the **Hwy 4** main line between Mawson and Shirayuki.
 
 ## Casey
@@ -205,7 +205,7 @@ Specs, Local_Cultures, Local_Robot_Culture, Enneagram all read in full. City_Sym
 - **Human presence is outright FORBIDDEN by settled protective policy** (not attrition) — altitude+cold would be fatal to humans, harmless to robots. Ruled 2026-07-05.
 - **Re-resolved 2026-07-06:** population is NOT single-nation Chinese. It's a **deliberately curated, 19-nation astronomy/comms-heritage population**, tiered by real-world space-program credentials (USA/Russia/China Primary as the only full independent crewed-spaceflight nations).
 
-- **Historical, now-defunct:** jointly ran the Mountain Pass Airport chamber-manufacturing outpost with Vostok, on residual Amundsen Tower grid power — died with the Tower.
+- **Historical, now-defunct:** jointly ran the Mountain Pass Airport chamber-manufacturing outpost with Ariun Nuur, on residual Amundsen Tower grid power — died with the Tower.
 - Division of Industry (pre-rebuild): Astronomy **60%** / Ice core science 15% / Religious/pilgrimage infrastructure 15% / Altitude-medical infrastructure 10%.
 
 ### Division-of-Industry status
@@ -214,6 +214,6 @@ Specs, Local_Cultures, Local_Robot_Culture, Enneagram all read in full. City_Sym
 Whether the founding human population's fate is ever addressed. The observatory's five centuries of findings — flagged as a *required* DLC story deliverable, not yet designed. Vosora Lashár Tanslock's undetermined Kunlun connection.
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L18 — Kunlun is a primary subject of the Mountain Pass Airport entry.** *"A joint Vostok-Kunlun venture"* — the outpost that once manufactured chambers on residual Tower power, now dark. *"Kunlun's tiers carry China (Primary), Japan and South Korea (Significant)."*
+- **Airports.md L18 — Kunlun is a primary subject of the Mountain Pass Airport entry.** *"A joint Ariun Nuur-Kunlun venture"* — the outpost that once manufactured chambers on residual Tower power, now dark. *"Kunlun's tiers carry China (Primary), Japan and South Korea (Significant)."*
 - **Airports.md L25** — Kunlun itself is also listed highway-only; Mountain Pass is a separate site on Hwy 37, not an airport in Kunlun.
-- **Highways.md L154, L160, L161, L165–177** — on the **Hwy 37 (Mountain Cut Throughway)** main line, between the Hwy 22 dual-junction and Mountain Pass Airport. Comes before Vostok along this route.
+- **Highways.md L154, L160, L161, L165–177** — on the **Hwy 37 (Mountain Cut Throughway)** main line, between the Hwy 22 dual-junction and Mountain Pass Airport. Comes before Ariun Nuur along this route.

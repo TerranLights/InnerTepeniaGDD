@@ -89,7 +89,7 @@
 - San Luis Potosí [SECONDARY] ⚠ *(Mexico — the state and its capital city; no country given in the original entry)*
 - Guatapé, Colombia [SECONDARY]
 
-##### Vostok
+##### Ariun Nuur
 - CRISPR [PRIMARY] // (under authority of the NSF)
 - Materials Innovation Platforms (MIP) [SECONDARY] // (under authority of the NSF)
 - ChemMatCARS [SECONDARY] // (under authority of the NSF)
@@ -124,7 +124,7 @@
 - Trogir, Croatia [SECONDARY]
 - Jeju City, Korea [SECONDARY]
 
-##### Sayowa
+##### Temirötkel
 - Felixstowe, UK [PRIMARY] // Britain's busiest container port (48% of the UK's containerized trade, ~4M TEUs/year) inside a small, modest town of only ~24,000 — outsized functional importance carried in a genuinely unglamorous footprint
 - Trois-Rivières, Quebec, Canada [PRIMARY] // a quieter industrial/logistics junction city sitting between Montreal and Quebec City, built around freight and processing rather than its own cultural spectacle
 - Kryvyi Rih, Ukraine [SECONDARY]
@@ -155,7 +155,7 @@
 - Fairbourne, Wales [SUPPORTING] // officially designated by the UK government for eventual "decommissioning" due to sea-level rise, rather than active relocation — the closest match to a place simply left to be lost once nobody keeps defending it
 - Venice, Italy (MOSE flood barriers) [SUPPORTING] // a city whose civic culture organizes around continuous engineering adaptation to unstable ground/water, rather than relocation itself
 
-##### Abowasa
+##### Santa Luce
 - Baarle-Hertog / Baarle-Nassau [PRIMARY] // an actual town split between Belgian and Dutch administration, the international border running through streets and even individual houses
 - Sark, Channel Islands [PRIMARY] // a genuinely tiny self-governing community where governance operates at a near-household scale
 - Whittier, Alaska [SECONDARY] // nearly the entire town's population lives inside a single building, an extreme real-world case of "everyone knows everyone" as the organizing fact of civic life
@@ -191,7 +191,7 @@
 - Shenzhen, China [SECONDARY] // explosive megacity growth from a modest base into one of the world's largest metro areas within just a few decades
 - The London Blitz [SUPPORTING] // a real precedent for "too big and too redundant to be erased by bombing" — London absorbed massive sustained WWII bombardment and kept functioning specifically because of its scale
 
-##### Princess Elisabeth
+##### Utstein
 - Masdar City, UAE [PRIMARY] // a planned zero-carbon, zero-waste city built on renewable energy from inception, zero-emissions as the actual design premise rather than an add-on policy
 - Tokelau [PRIMARY] // the first nation to run entirely on solar power (100% renewable electricity since 2012), a small population with zero fossil-fuel fallback
 - The International Space Station [SECONDARY] // a human habitat that exists entirely through continuous engineered life support with zero passive refuge
@@ -214,7 +214,7 @@
 - Vestmannaeyjar (Westman Islands), Iceland [SUPPORTING] // Iceland's most productive fishing center, on a volcanic archipelago that geothermally heats its own district heating and pools from a 1973 eruption that nearly destroyed the town
 - Faroe Islands [SUPPORTING] // fishing and aquaculture make up over 90% of exports, historically the entire basis of a genuinely self-reliant island society, now also targeting 100% renewable electricity by 2030
 
-##### Sejong
+##### Contrapunto
 - Keelung, Taiwan [PRIMARY]
 - Izmir (historic Smyrna), Turkey [PRIMARY] // the Ottoman Empire's cosmopolitan port par excellence — Greeks, Muslims, Armenians, Jews, and European merchant colonies coexisting as separately self-governed communities, physically divided into distinct quarters within one city
 - Vladivostok, Russia [SECONDARY]
@@ -234,7 +234,7 @@
 - Gander, Newfoundland [SECONDARY] // earned the nickname "the Crossroads of the World" when virtually every transatlantic flight needed a refueling stop there (13,000 aircraft, a quarter-million passengers a year at its peak) — a real precedent for a technological-chokepoint identity that vanished once jets could fly the Atlantic non-stop
 *(Drumheller, Alberta previously listed here as a third pick, grounding a fossil-record civic identity — struck per the developer's own correction that Seymour Island's paleontology is a real-world geological fact, not a driver of Marambio's culture.)*
 
-##### Juan Carlos
+##### Pergamino
 - St. Gallen, Switzerland [PRIMARY]
 - Hay-on-Wye, Wales [SECONDARY]
 - Wolfenbüttel, Germany [SECONDARY]
@@ -246,11 +246,11 @@
 - Montreal [SECONDARY]
 - St. Petersburg [SECONDARY]
 
-##### Port Lockroy
+##### Puerto Abrigo
 - The Roman Cursus Publicus [PRIMARY] // the Empire's state courier network, built on mansiones (full waystations, ~37-44km apart) and mutationes (horse-change-only stations, ~8-10km apart) — routine dispatches moved 50 miles a day, urgent imperial messages up to 160
 - x [SECONDARY]
 - The Mongol Yam system [SECONDARY] // relay stations spaced 20-40 miles apart across the largest contiguous land empire in history; by the late 13th century, over 300,000 horses and 10,000 post offices kept the network running
-- Kyoto's WWII sparing [SUPPORTING] // in July 1945, Secretary of War Henry Stimson had Kyoto struck from the atomic bomb target list specifically for its historical/cultural significance — spared by mattering too much to destroy, the inverse of Port Lockroy's own "spared by mattering too little"
+- Kyoto's WWII sparing [SUPPORTING] // in July 1945, Secretary of War Henry Stimson had Kyoto struck from the atomic bomb target list specifically for its historical/cultural significance — spared by mattering too much to destroy, the inverse of Puerto Abrigo's own "spared by mattering too little"
 - Louisville, Kentucky (UPS Worldport) [SUPPORTING] // a present-day city whose economy reshaped entirely around being UPS's global air-sorting hub — 2 million+ packages a day across 155 miles of conveyor belts, now the 4th-busiest cargo airport on Earth
 
 ##### Rothera

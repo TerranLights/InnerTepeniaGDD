@@ -182,7 +182,7 @@ caught.**
 
 ## ⚠ Live implausibilities already recorded, waiting on this
 
-- **`Specs/Sayowa.md`** has already run the division: ***"225,376 people on ~4–5 km² is ~50,000/km² — the
+- **`Specs/Temirotkel.md`** has already run the division: ***"225,376 people on ~4–5 km² is ~50,000/km² — the
   implausibility…"*** ✅ *Resolved 2026-09-05: East Ongul is ~1.5 km², and the declared extent is ~31.5 km²
   at 7,155/km² (`Extent_and_Density_Per_City.md` §6).*
 - **`Specs/Cape_Adare.md`** says outright: ***"the exact figure is a worldbuilding decision, not an

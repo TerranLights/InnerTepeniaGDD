@@ -31,7 +31,7 @@
 **Status:** Survived — altitude-compromised; functioning at reduced capacity
 **Arcanet Subnet:** Mawson *(corrected 2026-07-03 — this file previously said "Halley," conflicting with `City_Relationship_Database.md` and `Overview.md`, both of which agree on Mawson — connected via Arcanet cable, not road, despite the geographic distance from the Mawson subnet's coastal cities; subnets were organized by cable routing, not strict geographic proximity)*
 **Access type:** ON
-**Highway access:** **Corrected 2026-07-06** — Dome Fuji is a confirmed stop on **Hwy 37 (the Mountain Cut Throughway)**, sitting between the highway's junction with Hwy 7-ext (just before Sayowa) and its dual-junction with Hwy 22, before the road continues on to Kunlun, Vostok, and Concordia. See `Locations/Infrastructure/Highways.md`. This had been missed in this file — Kunlun's own equivalent "no highway access" claim was already corrected 2026-07-06 for the same reason.
+**Highway access:** **Corrected 2026-07-06** — Dome Fuji is a confirmed stop on **Hwy 37 (the Mountain Cut Throughway)**, sitting between the highway's junction with Hwy 7-ext (just before Temirötkel) and its dual-junction with Hwy 22, before the road continues on to Kunlun, Ariun Nuur, and Concordia. See `Locations/Infrastructure/Highways.md`. This had been missed in this file — Kunlun's own equivalent "no highway access" claim was already corrected 2026-07-06 for the same reason.
 **Significance:** Tepenian city on the East Antarctic Plateau; among the highest-elevation cities in Tepenia at approximately 3,810 meters — higher than Concordia (3,233m); the altitude causes physiological impairment for any humans in the founding population and limits the city's human-habitable capacity; survived the Long Night War but functions at reduced capacity due to altitude effects
 **Population:** 0 humans / 55,072 robots (Census I) — resolved 2026-07-04, Dome Fuji's first population figures; see Founding Population Resolution, below
 **DLC:** Mawson subnet *(corrected 2026-07-03, see above)*; interior plateau location; whether reachable in gameplay is TBD
@@ -120,11 +120,11 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 
 *(Research note: verify against Dome Fuji Station climate records — NIPR (National Institute of Polar Research, Japan) maintains historical data.)*
 
-**Climate type:** East Antarctic Plateau polar desert — nearly identical to Concordia and Vostok; high elevation, extreme cold, minimal precipitation, calm winds
-**Mean annual temperature:** approximately −54°C (−65°F) — comparable to Concordia's mean; the slightly lower latitude than Vostok partially offsets the higher elevation
+**Climate type:** East Antarctic Plateau polar desert — nearly identical to Concordia and Ariun Nuur; high elevation, extreme cold, minimal precipitation, calm winds
+**Mean annual temperature:** approximately −54°C (−65°F) — comparable to Concordia's mean; the slightly lower latitude than Ariun Nuur partially offsets the higher elevation
 **Temperature range:** coldest months (July/August) avg −65°C; warmest month (December/January) avg −27°C
 **Record extremes:** ⚠ **extreme daily MEANS, not true max/min** — warmest **-16.9 °C**, coldest **-79.1 °C** _(NOAA NCEI GHCN-Daily station `AYM00089734` DOME FUJI, on site; daily 1997-2021. **This station reports `TAVG` only — no daily max/min exists.**)_ *The coldest figure is consistent with Dome Fuji's separately published record near −79.7 °C.* *(researched 2026-09-04)*
-**Prevailing winds:** calm plateau interior; average 4–6 m/s; same pattern as Concordia and Vostok — the plateau dome location dampens wind
+**Prevailing winds:** calm plateau interior; average 4–6 m/s; same pattern as Concordia and Ariun Nuur — the plateau dome location dampens wind
 **Annual precipitation:** **~25 mm** water equivalent annually — **falling entirely as ice crystals**, not snowfall *(researched 2026-09-04; monthly distribution below remains derived)*
 
 #### ⭐ Precipitation regime — what falls vs what lands
@@ -138,7 +138,7 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 > ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-54.0 °C** it is the **#3 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
-**Polar night:** approximately Apr 27 → Aug 17 (~113 days — shorter than Vostok and Concordia due to slightly lower latitude)
+**Polar night:** approximately Apr 27 → Aug 17 (~113 days — shorter than Ariun Nuur and Concordia due to slightly lower latitude)
 **Midnight sun:** approximately Oct 26 → Feb 18 (~116 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
@@ -169,16 +169,16 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 #### Notable Weather Phenomena
 
 - **Physiological altitude effects:** the defining feature of Dome Fuji as a human environment is not cold (which it shares with other plateau cities) but altitude; at effective physiological altitude of ~4,500m, chronic mountain sickness, impaired cognition, and reduced endurance are ongoing concerns for any human residents
-- **Polar plateau calm:** like Concordia and Vostok, Dome Fuji's dome location means wind is not the primary hazard; the cold is the defining environmental challenge
+- **Polar plateau calm:** like Concordia and Ariun Nuur, Dome Fuji's dome location means wind is not the primary hazard; the cold is the defining environmental challenge
 - **Diamond dust and optical phenomena:** same as other plateau locations; ice crystal optics are a constant visual feature
 
 #### Gameplay Notes
 
-- **Altitude as a status effect:** unlike the main game (Concordia at 3,233m, acclimatizable) and Vostok (same altitude category), Dome Fuji's effective ~4,500m altitude would impose a persistent altitude sickness debuff on any human characters; robot characters would not be affected respiratorily but may have system stress from thin-air cooling conditions
+- **Altitude as a status effect:** unlike the main game (Concordia at 3,233m, acclimatizable) and Ariun Nuur (same altitude category), Dome Fuji's effective ~4,500m altitude would impose a persistent altitude sickness debuff on any human characters; robot characters would not be affected respiratorily but may have system stress from thin-air cooling conditions
 - **Reduced-capacity surviving city:** Dome Fuji is alive but not at full function; this creates a specific kind of location — not ruins, not thriving, but something in between; a city where some things still work and others don't
 - **Hardcore Mode influences:**
   - Altitude sickness as a persistent condition requiring management — acclimatization time, medication, or acceptance of impaired stats
-  - Severe supply isolation, comparable to Vostok — **note 2026-07-06:** Hwy 37 does technically run through Dome Fuji now (see Highway access, above), but an interior plateau highway crossing this distance doesn't make overland resupply practical; the established aviation lifeline (see Founding, below) remains the real explanation for how Dome Fuji stayed supplied
+  - Severe supply isolation, comparable to Ariun Nuur — **note 2026-07-06:** Hwy 37 does technically run through Dome Fuji now (see Highway access, above), but an interior plateau highway crossing this distance doesn't make overland resupply practical; the established aviation lifeline (see Founding, below) remains the real explanation for how Dome Fuji stayed supplied
 
 ---
 

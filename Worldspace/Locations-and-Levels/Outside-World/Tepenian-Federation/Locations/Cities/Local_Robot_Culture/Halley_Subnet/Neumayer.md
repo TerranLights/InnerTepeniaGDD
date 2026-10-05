@@ -39,7 +39,7 @@ online.*
 - **Input B — Geography & Geology:** `Specs/Neumayer.md`. Ekström Ice Shelf, floating rather than bedrock,
   hydraulic-leg architecture extending the real Neumayer III's own snow-accumulation design into full civic
   architecture. Founding: post-Falkland Treaty exiles. **Confirmed: Neumayer is not on
-  Hwy 7 directly** — reached via a small, unnamed connector road branching off between Abowasa and Sanay, and
+  Hwy 7 directly** — reached via a small, unnamed connector road branching off between Santa Luce and Sanay, and
   is explicitly **not** one of the subnet's two coastal receiving ports (that's Belgrano and Sanay) — a
   genuinely more physically set-apart position than either subnet-mate processed so far.
 - **Input C — Local Infrastructure:** `Neumayer_Physical_Infrastructure_Attributes.md` (11 attributes, 8
@@ -96,7 +96,7 @@ online.*
   checklist entries explicitly flagged Neumayer for a real re-check once run. `Robot_Physiology_and_Cultural_
   Practices.md` read in full, not just for Glitch-Coolant — its own Cradle/Gen-Mark section is where Neumayer's
   chamber-schematic role and the still-open "trace your own origin" questline hook both actually live. The
-  remaining Halley-subnet cities (Belgrano, Princess Elisabeth, Troll, Lazar, and the deferred Abowasa) haven't
+  remaining Halley-subnet cities (Belgrano, Utstein, Troll, Lazar, and the deferred Santa Luce) haven't
   been run yet — several findings below are flagged forward, especially Troll and Belgrano given their own
   Hwy 7 logistics proximity.
 
@@ -375,5 +375,5 @@ directly rather than assumed safe, and the subnet's remaining cities still flagg
 Hwy 7 corridor, and Sanay's own flagged Glitch-Coolant register comparison — though Neumayer's own precisely-
 calibrated category is already structurally distinct from both poles Troll would plausibly sit within,
 worth confirming rather than assuming once Troll is run) and Belgrano (Medium ties via the same logistics
-chain) are flagged directly for real re-checks once run. Princess Elisabeth, Lazar, and the still-deferred
-Abowasa remain untouched and unassumed either way.
+chain) are flagged directly for real re-checks once run. Utstein, Lazar, and the still-deferred
+Santa Luce remain untouched and unassumed either way.

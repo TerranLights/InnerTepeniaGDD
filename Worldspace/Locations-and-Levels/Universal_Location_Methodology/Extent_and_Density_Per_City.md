@@ -683,7 +683,7 @@ started, because population was only ever moved between rows on a page.* **Every
 > ⛔ **Never write a Lazar-descended or Larsemann-descended anything there, and never write these reductions
 > as migration.** *The census is a RECORD, and its editing history is not events.*
 
-📎 **`Cities/Bunger_Hills_City/`** — *folder opened the same day;* `README.md` *carries the full state-of-play,
+📎 **`Cities/Relung_Panen/`** — *folder opened the same day;* `README.md` *carries the full state-of-play,
 the open national-origin method (`Upper_Earth_Immigration_Composition.md` — proximity × population × GDP/Gini),
 and the five ripples not yet done.*
 

@@ -4,7 +4,7 @@
 **Status:** Survived — last major city; primary game setting
 **Arcanet Subnet:** Janbogo *(corrected 2026-07-03 — this file previously said "Mirny," conflicting with `City_Relationship_Database.md` and `Official_Population_Census.md`, both of which agree on Janbogo)*
 **Access type:** ON
-**Highway access:** **Corrected 2026-07-06** — a genuine tri-junction, all three connecting directly here via the outer ring linking Concordia's Capricorn and Sagittarius districts: **Hwy 110** (NE → Casey → Mirny → Davis → Zhongshan coast), **Hwy 37** (NW → Vostok → Kunlun → Dome Fuji → toward Sayowa), **Hwy 183** (N → Denison, near-Cape Adare, near-Janbogo/Zukelli via connecting roads → Dumont d'Urville; Hwy 175's junction sits along this route near Janbogo, not at Concordia's own end). See `Locations/Infrastructure/Highways.md`.
+**Highway access:** **Corrected 2026-07-06** — a genuine tri-junction, all three connecting directly here via the outer ring linking Concordia's Capricorn and Sagittarius districts: **Hwy 110** (NE → Casey → Mirny → Davis → Zhongshan coast), **Hwy 37** (NW → Ariun Nuur → Kunlun → Dome Fuji → toward Temirötkel), **Hwy 183** (N → Denison, near-Cape Adare, near-Janbogo/Zukelli via connecting roads → Dumont d'Urville; Hwy 175's junction sits along this route near Janbogo, not at Concordia's own end). See `Locations/Infrastructure/Highways.md`.
 **Significance:** The last functioning major city in the Tepenian Federation; the only place in Tepenia where survivors from all six subnets coexist
 
 ---
@@ -77,7 +77,7 @@ Concordia sits on the East Antarctic plateau at Dome C — 3,233 meters above se
 
 Its survival was not luck. The Long Night War targeted coastal cities — the ones accessible from Upper Earth by sea or manageable overland routes. Concordia was too far inland, too high, too costly to assault. The city endured because destroying it would have required more logistical investment than Upper Earth was willing to commit.
 
-Three highway exits connect Concordia to the rest of Tepenia: northeast to Casey and the Mirny subnet coast (Hwy 110), northwest across the plateau to Sayowa and ultimately the Atlantic coast highway system (Hwy 37), and north to the Ross Sea cities (Hwy 183). The primary mode of surface travel between Concordia and outside points is the Rastra — the nationwide heavy tracked vehicle lineage descended from real Soviet-era Kharkovchanka designs, adapted for the Antarctic plateau.
+Three highway exits connect Concordia to the rest of Tepenia: northeast to Casey and the Mirny subnet coast (Hwy 110), northwest across the plateau to Temirötkel and ultimately the Atlantic coast highway system (Hwy 37), and north to the Ross Sea cities (Hwy 183). The primary mode of surface travel between Concordia and outside points is the Rastra — the nationwide heavy tracked vehicle lineage descended from real Soviet-era Kharkovchanka designs, adapted for the Antarctic plateau.
 
 At temperatures averaging −54°C annually — reaching −65°C in a typical winter and approaching −84°C at the coldest extremes — open-air habitation is not a viable baseline. It is an exception and a hardship. The vast majority of Concordia is enclosed: insulated dome structures connected by pressurized corridors, heated underground passages, and enclosed transit links that allow residents to live, work, and move between districts without sustained outdoor exposure. The dome-and-corridor architecture is not an amenity of Tepenian city design; it is the survival precondition that makes inhabiting Dome C possible at all.
 

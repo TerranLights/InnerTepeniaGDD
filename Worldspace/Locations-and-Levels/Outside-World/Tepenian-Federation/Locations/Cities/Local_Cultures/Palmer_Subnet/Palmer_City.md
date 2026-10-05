@@ -199,7 +199,7 @@ The most direct of any Tepenian city — the actual arrival point, the place whe
 
 ## 23. Relationship to Other Cities
 
-- **Esperanza (north, Hwy 1) and Port Lockroy (south, Hwy 1):** Direct highway neighbors *(corrected 2026-07-03 — Palmer City is a key waypoint on Hwy 1, not its terminus; Marambio is the northern terminus, Byrd the western terminus, with Esperanza added as a waypoint between them)*; Palmer City remains the Palmer subnet hub regardless.
+- **Esperanza (north, Hwy 1) and Puerto Abrigo (south, Hwy 1):** Direct highway neighbors *(corrected 2026-07-03 — Palmer City is a key waypoint on Hwy 1, not its terminus; Marambio is the northern terminus, Byrd the western terminus, with Esperanza added as a waypoint between them)*; Palmer City remains the Palmer subnet hub regardless.
 - **Belgrano and Byrd (founding-era link, established 2026-07-03):** Palmer City shipped historical accounts, transport manifests, and maps to help sharpen the Byrd Expedition's heading, alongside a parallel contribution from Rothera — a real founding-era connection spanning three different DLCs (Palmer City here, Belgrano in DLC 5, Byrd in DLC 2).
 - **Every other Tepenian city, indirectly:** as the arrival point for the entire exodus, Palmer City's founding touches every later-settled city's own history.
 

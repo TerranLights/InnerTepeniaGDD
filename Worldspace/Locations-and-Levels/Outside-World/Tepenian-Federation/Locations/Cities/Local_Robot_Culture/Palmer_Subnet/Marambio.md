@@ -3,7 +3,7 @@
 **Run #29 of the Local Robot Culture Methodology, 2026-08-11 — third city of the Palmer Subnet.** Directly
 follows up on Esperanza's own forward flag (a confirmed Strong Economic tie). Applies the shared-experience-
 first Kinship framing and the corrected two-slot Solar-symbol/Robo-Element check from the start. **Marambio is
-Destroyed**, like Esperanza and Juan Carlos before it — its `Local_Cultures` file is written present-tense per
+Destroyed**, like Esperanza and Pergamino before it — its `Local_Cultures` file is written present-tense per
 confirmed project methodology, describing the living pre-war culture, while its actual current status is
 ruins, taken out in a single strike that eliminated both the airfield and shipyards together, with no confirmed
 survivor population anywhere in the gathered material. This pass follows the same discipline already applied
@@ -55,7 +55,7 @@ outliving him.*
   work for §1–2 and Cross-Reference Synthesis below; the Picnic Passage Causeway's own "bridge to nowhere"
   quality is noted but belongs to the city's ruins character generally, not a robot-specific culture finding.
 - **Input D — Source Inspirations:** no dedicated `Inspirational-Influences.md` entry found for Marambio in the
-  file's own structure (the section lists Esperanza, Marambio, Juan Carlos, and Palmer City together, but
+  file's own structure (the section lists Esperanza, Marambio, Pergamino, and Palmer City together, but
   Marambio's own specific parallels weren't separately itemized in the portion consulted) — this pass relies
   primarily on Marambio's own Cross-Reference Synthesis and City Vision Notes material instead, consistent with
   the methodology's own allowance that not every input category contributes equally to every city.
@@ -66,10 +66,10 @@ outliving him.*
   named in neither, a genuine open slot this pass derives, see §6. Robot Elementals & Solar Symbols — confirmed
   directly: **Solar symbol Neptune + Robo-Element Electricity** (`Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/City_Symbol_Assignments.md`: "a
   demanding dual hub (port + airport) handled with quiet, undramatized capability"). **A third Neptune-paired
-  city within the Palmer subnet alone** (after Juan Carlos's Neptune+Metal; Port Lockroy, not yet run, also
+  city within the Palmer subnet alone** (after Pergamino's Neptune+Metal; Puerto Abrigo, not yet run, also
   holds Neptune per the same table) — resolved the same way the Halley subnet's own three-Neptune repeat was
   resolved (Neumayer/Belgrano/Troll): a genuine, ordinary single-slot repeat, not a full pair duplicate, since
-  Marambio's Electricity pairing and Juan Carlos's Metal pairing ground in genuinely different qualities (raw
+  Marambio's Electricity pairing and Pergamino's Metal pairing ground in genuinely different qualities (raw
   operational capacity vs. quiet archival permanence). Human-Robot Relations Baseline — an unusually
   concentrated, already-dramatized local instance (§16's own Bonded Lattice material), not the baseline's own
   origin point (that's Sanay, already established). The Fragmentation Matrix checked and found not to apply.
@@ -216,7 +216,7 @@ status.*
   #5's own established dual-mode coordination infrastructure, robots working across both systems (or serving as
   the coordination link between them) are plausibly the population most fluently bilingual in both
   vocabularies at once — functioning, in effect, as everyday translators between the airfield's and the
-  shipyard's own separate working languages, the same structural role Sayowa's dispatchers play for junction
+  shipyard's own separate working languages, the same structural role Temirötkel's dispatchers play for junction
   jargon, applied here across two genuinely separate professional registers rather than one shared vocabulary.
 
 ### 9. Arcanet Etiquette — Local Network Behavior
@@ -234,11 +234,11 @@ status.*
   marker: given robots' own established dual-competency identity (§3), a practical, cross-rated work uniform or
   gear-set — legibly marking someone trained and trusted across both the airfield and the shipyards, rather than
   one — plausibly functions as Marambio's own recognizable civic aesthetic, function-driven in the same register
-  as Sayowa's dispatch-coordination gear.
+  as Temirötkel's dispatch-coordination gear.
 - **No music or visual-arts finding proposed this pass** (Honesty Check): §12 and §13 are both explicitly
   "modest, background rather than central" with no named tradition or incident to anchor a robot-specific
   extension against — inventing one without a real local hook would risk exactly the generic-reskin failure
-  mode the Swap Test exists to catch, the same restraint already exercised at Sayowa.
+  mode the Swap Test exists to catch, the same restraint already exercised at Temirötkel.
 
 ---
 

@@ -36,7 +36,7 @@ The convergence itself is worth noting directly: two passes run at different tim
 
 **10. Marambio** — *For:* dual sea-and-air logistics powerhouse, genuine connective muscle. *Against:* almost entirely functional/industrial character, no established civic or ceremonial identity.
 
-**Explicitly ruled out:** Halley (genuine risk of calving into the sea — disqualifying on its face), Kunlun/Vostok/Dome Fuji (extraordinarily specialized single-purpose populations, not general civic life), Zukelli/Juan Carlos (destroyed).
+**Explicitly ruled out:** Halley (genuine risk of calving into the sea — disqualifying on its face), Kunlun/Ariun Nuur/Dome Fuji (extraordinarily specialized single-purpose populations, not general civic life), Zukelli/Pergamino (destroyed).
 
 ---
 
@@ -44,7 +44,7 @@ The convergence itself is worth noting directly: two passes run at different tim
 
 **Purpose:** A ranked analysis of the 10 most plausible candidate cities for the seat of the Tepenian federal government, with reasoning for each. Population alone is not the determining factor *(corrected 2026-07-04 — this used to cite Janbogo as the largest city; Lazar took that title in an earlier population rebalancing pass, and the user has explicitly excluded Lazar from capital consideration despite its size, which makes the same point even more directly)* — Lazar is the largest city, but that does not make it the obvious capital, any more than the largest city is the capital in most real-world federations (see Canberra, Ottawa, Brasília, Ankara, Washington D.C.). This document is a design deliberation tool, not a decision. The capital is TBD.
 
-**Excluded from consideration:** Amundsen Station (South Pole — destroyed in Long Night War, never a residential city), Zukelli (destroyed), Belgrano (ruins, DLC 5 setting), Palmer City (ruins). *(Corrected 2026-07-05 — Sinheung was previously excluded here alongside Zukelli as "destroyed"; that was stale even before today, predating Sinheung's 2026-07-03 correction to damaged/partially operational. Sinheung was never actually destroyed and isn't automatically disqualified the way genuinely destroyed/ruined cities are — several other damaged-but-functional cities, like Neumayer, Troll, Princess Elisabeth, Abowasa, and Sanay, are already active candidates below despite carrying the same "damaged" status. Sinheung simply isn't currently among the Top 9 — its removal from this exclusion list doesn't imply it should be added as a new candidate, just that it was wrongly disqualified for a status it never actually had.)* **Also confirmed excluded 2026-07-04** (during a Palmer City developer-vision session — see `Cities/City_Vision_Notes/Palmer_City.md`): **Concordia** and **Lazar** — the user has explicitly ruled out both, deliberately without naming a replacement yet. The actual capital is deferred until the cities are much more fully developed; revisit this file then.
+**Excluded from consideration:** Amundsen Station (South Pole — destroyed in Long Night War, never a residential city), Zukelli (destroyed), Belgrano (ruins, DLC 5 setting), Palmer City (ruins). *(Corrected 2026-07-05 — Sinheung was previously excluded here alongside Zukelli as "destroyed"; that was stale even before today, predating Sinheung's 2026-07-03 correction to damaged/partially operational. Sinheung was never actually destroyed and isn't automatically disqualified the way genuinely destroyed/ruined cities are — several other damaged-but-functional cities, like Neumayer, Troll, Utstein, Santa Luce, and Sanay, are already active candidates below despite carrying the same "damaged" status. Sinheung simply isn't currently among the Top 9 — its removal from this exclusion list doesn't imply it should be added as a new candidate, just that it was wrongly disqualified for a status it never actually had.)* **Also confirmed excluded 2026-07-04** (during a Palmer City developer-vision session — see `Cities/City_Vision_Notes/Palmer_City.md`): **Concordia** and **Lazar** — the user has explicitly ruled out both, deliberately without naming a replacement yet. The actual capital is deferred until the cities are much more fully developed; revisit this file then.
 
 ---
 
@@ -93,11 +93,11 @@ Troll is also small — rank 18 in the Before census. A capital at Troll is unam
 
 ---
 
-### #3 — Princess Elisabeth *(Halley/QML subnet, Belgian-founded)*
+### #3 — Utstein *(Halley/QML subnet, Belgian-founded)*
 
 **The case:** Belgium is, in real-world politics, the country whose city hosts the European Union capital (Brussels) specifically because Belgium is a secondary power with no hegemonic ambitions over its neighbors. The same logic applies with striking directness to Tepenia: among all the nations that contributed significantly to Tepenian settlement, Belgium is uniquely positioned as a nation with no realistic bid for continental dominance. Its exile contribution (~124,000) is mid-sized and culturally distinct without being threatening to the major blocs.
 
-Princess Elisabeth is in the QML arc (subnet legitimacy), carries a regal name appropriate for a governmental center, and is mid-sized (rank 13 in the Before census). The name itself — Princess Elisabeth — evokes a formality and institutional weight that fits a capital setting.
+Utstein is in the QML arc (subnet legitimacy), carries a regal name appropriate for a governmental center, and is mid-sized (rank 13 in the Before census). The name itself — Utstein — evokes a formality and institutional weight that fits a capital setting.
 
 There is also a pure design argument: a city whose in-game character is coded as Belgian-Flemish/Walloon, with the particular cultural tension of a bilingual identity, is a rich setting for the kinds of political negotiation that happen in a capital.
 
@@ -135,27 +135,27 @@ The city is mid-sized (rank 23-25 After) — large enough to have functional inf
 
 ---
 
-### #6 — Sejong *(Palmer/Peninsula subnet, Korean-founded, King George Island)*
+### #6 — Contrapunto *(Palmer/Peninsula subnet, Korean-founded, King George Island)*
 
 **The case:** Sejong the Great — the 15th-century Korean king after whom the city is named — created Hangul, the Korean writing system, specifically to make literacy accessible to common people rather than only the scholarly elite. He is one of history's great democratic reformers. Naming a city after him carries very specific symbolic freight: this is a city whose name implies access, inclusion, and governance in service of the people. For a national capital, there is no better namesake in the entire Tepenian city roster.
 
 The real-world South Korean government literally built Sejong City as a new administrative capital precisely because it wanted a purpose-built governmental center separate from Seoul's economic dominance. The parallel to Antarctica is direct and clearly intentional in the city's naming.
 
-**The complication:** Sejong is in the Palmer/Peninsula subnet, which is the fourth-largest and Western-facing. It is also an island city with a population cap, meaning it cannot grow beyond its physical limits. A capped-population capital is structurally unusual. The Korean-founding character, while symbolically rich, represents a relatively small demographic contributor (~507,000 exiles).
+**The complication:** Contrapunto is in the Palmer/Peninsula subnet, which is the fourth-largest and Western-facing. It is also an island city with a population cap, meaning it cannot grow beyond its physical limits. A capped-population capital is structurally unusual. The Korean-founding character, while symbolically rich, represents a relatively small demographic contributor (~507,000 exiles).
 
 **Real-world analog:** Sejong City, South Korea (a purpose-built administrative capital separated from the dominant economic city).
 
 ---
 
-### #7 — Abowasa *(Halley/QML subnet, Finnish-founded)*
+### #7 — Santa Luce *(Halley/QML subnet, Finnish-founded)*
 
 **The case:** Finland occupies a unique position in Tepenian demographics: a small nation (~3.3M effective), but with one of the highest per-capita robot-access rates of any nation in the census. This means the Finnish exiles are among the most uniformly robot-committed fraction of any nation's contribution — they are, disproportionately, people who chose exile because they truly would not leave without their robots. Finnish culture in Tepenia represents a particularly concentrated expression of the founding ethos.
 
 Finland also has a real-world tradition of political neutrality — geographically and diplomatically positioned between Eastern and Western blocs during the Cold War, Finland maintained a distinct independent character. That tradition of "neither side" maps directly onto Tepenian inter-subnet politics.
 
-Abowasa is a small city (rank 17 Before, 17 After) that could function as a pure administrative capital on the Canberra model — a city that exists to govern rather than to economically dominate.
+Santa Luce is a small city (rank 17 Before, 17 After) that could function as a pure administrative capital on the Canberra model — a city that exists to govern rather than to economically dominate.
 
-**The complication:** Abowasa is small and Finnish-founded, with very limited demographic weight as a primary cultural anchor. Its smallness is an advantage in the Canberra model but a practical challenge for a capital that needs to house federal institutions, diplomatic missions from Upper Earth, and the full apparatus of national government. The QML placement, while giving it subnet legitimacy, again raises the QML-bias question.
+**The complication:** Santa Luce is small and Finnish-founded, with very limited demographic weight as a primary cultural anchor. Its smallness is an advantage in the Canberra model but a practical challenge for a capital that needs to house federal institutions, diplomatic missions from Upper Earth, and the full apparatus of national government. The QML placement, while giving it subnet legitimacy, again raises the QML-bias question.
 
 **Real-world analog:** Canberra (relatively small city chosen partly because it was not associated with either of the competing dominant cities).
 
@@ -193,11 +193,11 @@ The Canberra argument is strongest here: Canberra existed as a semi-rural territ
 |------|------|--------|-------|-------------|----------|
 | 1 | **Neumayer** | Halley/QML | Brussels/Bonn | Largest-subnet legitimacy; European neutrality between superpowers | Still reads as QML/Atlantic bias |
 | 2 | **Troll** | Halley/QML | Canberra | Saint Roald connection; UTC+0 symbolic centrality; small/purpose-appropriate | Very small; Norwegian demographic contribution is tiny |
-| 3 | **Princess Elisabeth** | Halley/QML | Brussels | Belgian neutrality precedent; regal name; QML legitimacy | Same QML-bias risk as Neumayer |
+| 3 | **Utstein** | Halley/QML | Brussels | Belgian neutrality precedent; regal name; QML legitimacy | Same QML-bias risk as Neumayer |
 | 4 | **Mawson** | Mawson | Washington D.C. | Saint-named; Indian Ocean balance; endurance mythology | China-primary long-run demographic; distant from QML and Peninsula |
 | 5 | **Fort McMurdo** | Janbogo | Washington D.C. | De facto capital grown from its nationwide supply-coordination role; proximate-not-identical to Janbogo | Janbogo subnet bias; USA-primary character |
-| 6 | **Sejong** | Palmer | Sejong City, ROK | Named after the democratic reformer-king; Korean purpose-built capital precedent | Island cap limits growth; Peninsula subnet bias; Korean demographic is small |
-| 7 | **Abowasa** | Halley/QML | Canberra | Finnish neutrality tradition; concentrated founding-ethos demographic; small/purpose-appropriate | Very small; practical infrastructure concerns |
+| 6 | **Contrapunto** | Palmer | Sejong City, ROK | Named after the democratic reformer-king; Korean purpose-built capital precedent | Island cap limits growth; Peninsula subnet bias; Korean demographic is small |
+| 7 | **Santa Luce** | Halley/QML | Canberra | Finnish neutrality tradition; concentrated founding-ethos demographic; small/purpose-appropriate | Very small; practical infrastructure concerns |
 | 8 | **Cape Adare** | Janbogo | Philadelphia | First permanent Antarctic habitation site; founding resonance; substantial city | Janbogo subnet bias; historical weight may not outweigh political optics |
 | 9 | **Sanay** | Halley/QML | Canberra (purest) | Smallest existing political footprint; no bloc dominates it; most like a purpose-designed admin city | Too small; interior access challenges; almost no existing cultural identity to build from |
 
@@ -205,7 +205,7 @@ The Canberra argument is strongest here: Canberra existed as a semi-rural territ
 
 ## Design notes
 
-**The QML clustering problem:** Five of the top 9 candidates are in the Halley/QML subnet (Neumayer, Troll, Princess Elisabeth, Abowasa, Sanay). This is not a coincidence — it reflects QML's genuine demographic weight as the most populous subnet, and the genuine political advantage of European-character cities as neutral ground between the China and USA blocs. But any designer who wants the capital outside the QML arc will need to build an explicit argument for why geographic balance outweighs democratic-weight legitimacy.
+**The QML clustering problem:** Five of the top 9 candidates are in the Halley/QML subnet (Neumayer, Troll, Utstein, Santa Luce, Sanay). This is not a coincidence — it reflects QML's genuine demographic weight as the most populous subnet, and the genuine political advantage of European-character cities as neutral ground between the China and USA blocs. But any designer who wants the capital outside the QML arc will need to build an explicit argument for why geographic balance outweighs democratic-weight legitimacy.
 
 **The Norway thread:** One of the top 3 candidates, Troll, is Norwegian-founded. Saint Roald's shadow over Tepenian civic culture is still extensive via Troll. A capital decision that leans into the Norwegian founding mythology rather than away from it might still be narratively richer than trying to find a politically neutral location with no mythology at all.
 

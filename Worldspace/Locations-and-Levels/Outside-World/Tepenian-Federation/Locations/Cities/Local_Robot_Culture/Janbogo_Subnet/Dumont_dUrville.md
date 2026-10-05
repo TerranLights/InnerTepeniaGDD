@@ -35,7 +35,7 @@ actually stops.*
 - **Input B — Geography & Geology:** `Specs/Dumont_dUrville.md`. Petrel Island, Géologie Archipelago, ~5km off
   the Adélie Land coast — a wind regime "in a class above most other coastal stations," genuinely more severe
   than Mirny's and even Denison's storied katabatic legacy. Founding: post-Falkland Treaty, French exiles —
-  like Denison and Sayowa, a rotating succession of national operators during the First Interwar Period left
+  like Denison and Temirötkel, a rotating succession of national operators during the First Interwar Period left
   only documentary, not living, institutional inheritance. Kept the name and St. Jules honorific.
 - **Input C — Local Infrastructure:** Physical Infrastructure Attributes (12 attributes, 5 Cross-Referenced
   Findings) and Community Infrastructure. The Naturalist Observation Blinds and the Downtown Eateries-with-

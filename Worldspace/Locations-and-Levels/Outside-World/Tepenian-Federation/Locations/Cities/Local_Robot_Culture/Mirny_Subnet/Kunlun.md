@@ -31,7 +31,7 @@ one point on the ice sheet quiet and clear enough for that access to actually me
   Arcanet connectivity — more thoroughly disconnected than even Dome Fuji).
 - **Input B — Geography & Geology:** `Specs/Kunlun.md`. Geographic Basis (Dome A, ~4,093m, the highest point
   on the East Antarctic Ice Sheet; the human-exclusion policy itself is resolved here — quoted in full below),
-  Annual Climate (colder than both Vostok and Dome Fuji; calmest winds in Antarctica; driest location in
+  Annual Climate (colder than both Ariun Nuur and Dome Fuji; calmest winds in Antarctica; driest location in
   Tepenia; "exceptional atmospheric stability" producing extraordinary astronomical seeing).
 - **Input C — Local Infrastructure:** `Kunlun_Physical_Infrastructure_Attributes.md` (14 attributes, 5
   cross-referenced Findings A–E) and `Kunlun_Community_Infrastructure.md`. The Observatory Deck, the Stillness
@@ -54,7 +54,7 @@ one point on the ice sheet quiet and clear enough for that access to actually me
   work, it's life") and the deliberate, still-open scientist-vs-devotee tension. Historical Vignettes & Course
   of Events did substantial work — six named founding-era and post-settlement incidents (the phase-out
   decision, Okonkwo-Sato's comms-relay expansion fight, Ilkay's stillness practice becoming formal ritual, the
-  unresolved cold-record dispute with Vostok, the multinational calibration-standard conflict, and a specific
+  unresolved cold-record dispute with Ariun Nuur, the multinational calibration-standard conflict, and a specific
   shared-shift scene) fed findings below, all flagged there as non-canon candidate material. District Refugee
   Diaspora Composition not used — Kunlun is a standalone subnet city.
 - **Concentric rings actually widened to:** own file set → adjacent-cluster docs (City Enneagram Personality,
@@ -267,7 +267,7 @@ Fuji's resident objects to being treated as a data point"). This pass's stronges
 Dome Fuji doesn't share: the *holiest-site* status specifically (Dome Fuji is explicitly secondary), the
 astronomy/comms specialization, the named founding-era incidents (Okonkwo-Sato, Ilkay, the cold-record
 dispute), and the more severe total-isolation profile ("even more thoroughly off the Arcanet than Dome Fuji").
-Also checked against Vostok (same subnet, extreme cold, genuine ongoing cold-record rivalry with Kunlun) — a
-real relationship exists between the two cities, but Vostok's own specialization (genetics research, not
+Also checked against Ariun Nuur (same subnet, extreme cold, genuine ongoing cold-record rivalry with Kunlun) — a
+real relationship exists between the two cities, but Ariun Nuur's own specialization (genetics research, not
 astronomy) and its retained human population keep every finding here from transplanting. No finding above
 reads as generic "extreme isolated research outpost" content that happened to get filed under Kunlun's name.

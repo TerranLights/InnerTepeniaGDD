@@ -49,7 +49,7 @@ For whatever rotating staff experienced this firsthand, the climate wasn't a bac
 
 ## 4. Seasonal Rhythms
 
-Six months of darkness, six months of light, split cleanly at the equinoxes — the most extreme seasonal structure in Tepenia. For a permanent city, this would shape generations of psychology and culture (as it likely does at Concordia or Vostok). For Amundsen Station's rotating staff, it more likely shaped rotation scheduling directly — crews plausibly timed their tours to avoid, or specifically to experience, one extreme or the other, but no one lived through enough consecutive cycles here to develop the kind of deep seasonal culture a permanent population would.
+Six months of darkness, six months of light, split cleanly at the equinoxes — the most extreme seasonal structure in Tepenia. For a permanent city, this would shape generations of psychology and culture (as it likely does at Concordia or Ariun Nuur). For Amundsen Station's rotating staff, it more likely shaped rotation scheduling directly — crews plausibly timed their tours to avoid, or specifically to experience, one extreme or the other, but no one lived through enough consecutive cycles here to develop the kind of deep seasonal culture a permanent population would.
 
 ---
 

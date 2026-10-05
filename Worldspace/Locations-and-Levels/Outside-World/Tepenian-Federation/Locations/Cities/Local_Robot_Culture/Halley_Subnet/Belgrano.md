@@ -99,7 +99,7 @@ anyone to measure anything: is the thing in front of her still airworthy, and di
   carry grief for something lost") and folded into Cross-Reference Synthesis, not treated as out of scope: unlike
   Zukelli or Denison, Belgrano wasn't destroyed, it declined, and its robot population plausibly spans both eras
   directly. `City_National_Connections.md` confirms Strong ties to Byrd, Sanay, and Troll, Medium ties to
-  Esperanza, Marambio, Halley, Abowasa, and Sinheung — **and confirms, checked directly in both directions, that
+  Esperanza, Marambio, Halley, Santa Luce, and Sinheung — **and confirms, checked directly in both directions, that
   no Neumayer entry exists anywhere in either city's own connections list**, resolving Neumayer's own forward
   flag (see Cross-Reference Synthesis and Swap Test). District Refugee Diaspora Composition not used — Belgrano
   is a standalone subnet city, not a Concordia district.
@@ -112,7 +112,7 @@ anyone to measure anything: is the thing in front of her still airworthy, and di
   completed files, since all three repeatedly name Belgrano and all three files' own checklist entries
   explicitly flagged it for a real re-check once run. `Robot_Physiology_and_Cultural_Practices.md` read in full,
   not just for Glitch-Coolant — its own Cradle section is where Belgrano's paused-candidate manufacturing status
-  actually lives. The remaining Halley-subnet cities (Lazar, Princess Elisabeth, Troll, and the deferred Abowasa)
+  actually lives. The remaining Halley-subnet cities (Lazar, Utstein, Troll, and the deferred Santa Luce)
   haven't been run yet — several findings below are flagged forward, especially Troll given its own Strong,
   reciprocal Logistics tie.
 
@@ -450,5 +450,5 @@ genuine geological/civic contrast rather than assumed safe.**
 
 **Genuinely unresolved risk still ahead, not assumed safe:** Troll (Strong, reciprocal Logistics tie per
 `City_National_Connections.md`, and both Sanay's and Neumayer's own files already flagged it forward) is now the
-subnet's single most load-bearing remaining city to run. Lazar and Princess Elisabeth remain untouched and
-unassumed either way; the still-deferred Abowasa remains paused pending its own founding-nation fix.
+subnet's single most load-bearing remaining city to run. Lazar and Utstein remain untouched and
+unassumed either way; the still-deferred Santa Luce remains paused pending its own founding-nation fix.

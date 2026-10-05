@@ -751,7 +751,324 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 |---|---|
 | **Namesakes** | A city's namesake (a person the real station or the city is named for) is **flavor only**: a neat in-world detail, never an input, a tie, a reason or data. Applies to the Davis↔Mawson connection: the Aurora relief voyage may appear as an in-world detail but grounds no tie. The two cities' tie, if any, stands on the Register and the map |
 | **Sayowa** | **Will be renamed** (new name not yet chosen; add to the rename list `R-17`). `{{ Syowa/Showa }}` stays a placeholder until then |
-| **Mawson** | **An option noted, not a ruling.** Mawson stays Australia in the Register (`DR-19`). Kazakhstan (≈ +3…+6; Mawson ≈ +4) is a possible founding nation for the revisit. Mongolia was a mis-sighting on the map |
+| **Mawson** | **~~An option noted, not a ruling.~~ ✅ RULED in `DR-33`, 2026-10-03: Australia and Kazakhstan are co-founders.** Kazakhstan (≈ +3…+6; Mawson ≈ +4). Mongolia was a mis-sighting on the map |
+
+---
+
+## `DR-33` · ✅ **MAWSON: CO-FOUNDED BY AUSTRALIA AND KAZAKHSTAN · SIGNY'S SOUTH AFRICAN ROLE CONFIRMED · FOUNDING-NATION AUDIT AND PROPOSALS ARE ANY-HOUR WORK**
+
+**Developer, verbatim (2026-10-03):** on Signy: *"it is perfectly geographically feasible for it to have been established partially in part by South Africa."* · on Mawson: *"let's write Mawson as having co-founder nations between Australia and Kazakhstan."* · on hours: *"this task can run outside of designated hours, because it's really me who's doing the majority of the thinking."*
+
+| | |
+|---|---|
+| **Mawson** | **Founders: Australia and Kazakhstan, jointly.** Australia stands on `DR-19` (geography and access; its nearest zone is +8 against Mawson's +4, a gap of 4, a ruled exception to the "two, maybe three" test); Kazakhstan stands on geography (Mawson lies directly south of it; zone gap 0). Closes `R-23`. **Supersedes** the *"option noted, not a ruling"* row of `DR-32` |
+| **Signy** | South Africa's **partial** founding is **confirmed** as geographically feasible (gap 4 on the zone test; the Cape Town–South Orkney crossing). The co-founder(s) remain open |
+| **Hours** | The **Founding Register audit and proposals** are not restricted to the 05:00–14:59 window (the developer makes the decisions; the session does the arithmetic and assembly). **Scope: this task only.** Proposals are candidates the developer rules, never canon |
+| **Follow-on** | `Mawson.md`'s `Founding population` line is a spec revisit item (it names Australia alone): add to the revisit queue; **no spec edited now**. `Sayowa` (`DR-30`) already names Kazakhstan as an industrializer; the two rulings are independent and neither is justified by the other |
+
+---
+
+## `DR-34` · ✅ **SIX FOUNDING ROWS RULED FROM THE PROPOSALS · SEJONG, NEUMAYER, VOSTOK DIRECTION · "RUSSIA" IS THE CORE STATE**
+
+**Developer, verbatim (2026-10-03):** *"cities that I actually really, really like your 'proposed founder(s)' suggestions for: Port Lockroy, Juan Carlos, Lazar, Kunlun, `{{ Bunger Hills City }}` (yet-to-be-named), and Scott. We can confirm those on the founding roster file as canon."*
+
+| | |
+|---|---|
+| **Port Lockroy** | **Chile** |
+| **Juan Carlos** | A primarily Anglo-Latin society of immigrants from the Americas (`DR-20`); **first founders: Uruguay** |
+| **Lazar** | **Russia (the core state) and the CIN, as two communities that coalesced**; the spec's Indian half is replaced (no South Asian population, `NNS` L44) |
+| **Kunlun** | **The founding stock of Vostok (the launching community, via Highway 37), plus the Sinian Federation (China)**; a robot-only city, so *founding nation* is the robots' learned origin (`DR-11`). **Depends on Vostok's final ruling** |
+| **{{Bunger Hills City}}** | **Indonesia and Malaysia, jointly**. The city is yet to be named |
+| **Scott** | **New Zealand** |
+
+**Direction given, then ruled in `DR-35`** (same day):
+- **Sejong:** *"Chile first, then English-speaking arrivals"*, **then** they *"would invite people first from Palmer City (which has representation from every country) and then later from Korea, to help translate the records, logs, manifests"* of the inherited setting.
+- **Neumayer:** *"the Netherlands and Austro-Bavaria (since they'd be able to make the quickest re-upstart of the setting)."*
+- **Vostok:** *"Mongolia definitely"*, but **not Russia**: *"it would be one of the resulting countries, in all likelihood probably either Siberia or Kunnarantaiga"* (the Russia map series, `/media/y-files/Map Files/Russia/`).
+
+**⭐ "Russia" is the core state, not the old whole.** In the authoritative series (`02 reorganization/09 follow-up`) **Russia** is the Moscow-area core (zones +2…+3); Buryatia, Irkutsk and Chita belong to **Künnarantaiga**; **Siberia** is the west-Siberian band (Novosibirsk, Omsk, Tomsk, Tyumen, Krasnoyarsk). Wherever a pool or a founder says "Russia", read the **core state** unless a successor is named. **Consequence for later:** `DR-9` names *Russia* for Mirny in pre-war terms; the CST recast will need a successor state (Mirny's zone is +6).
+
+| | |
+|---|---|
+| **Follow-on** | The six specs' `Founding population` lines contradict their rows until revisited (a post-ULM revisit item; **no spec edited now**). Gateway statements in the rows are **general knowledge, not researched** (`LAW 0-R`) |
+| **Hours** | Founding-Register work stays any-hour (`DR-33`) |
+
+---
+
+## `DR-35` · ✅ **VOSTOK, SEJONG AND NEUMAYER RULED**
+
+**Developer, verbatim (2026-10-03):** *"Go with Künnarantaiga for Vostok (as a joint-establishment with Mongolia), confirm Sejong (with Palmer City, then Korea, etc), and confirm Neumayer (with The Netherlands and Austro-Bavaria)."*
+
+| City | Ruling |
+|---|---|
+| **Vostok** | **Künnarantaiga and Mongolia, jointly.** Künnarantaiga is a successor of the old Russia in the developer's maps; **not Russia itself** (Siberia and Tuva were the other zone-aligned successors and are not chosen) |
+| **Sejong** | A primarily Anglo-Latin society of immigrants from the Americas: **first founders Chile; then English-speaking arrivals; then people invited from Palmer City** (canon: representation from every country) **and later from Korea**, to translate the inherited records, logs and manifests. Korea's later role is as translators, not founders |
+| **Neumayer** | **The Netherlands and Austro-Bavaria, jointly** |
+| **Kunlun (follow-on)** | Its stock follows Vostok: **Künnarantaiga and Mongolia, plus the Sinian Federation** (`DR-34`) |
+| **Closes** | `DR-20a` (who first established Sejong and Juan Carlos): Sejong **Chile**, Juan Carlos **Uruguay** (`DR-34`). The *"Direction given, not yet ruled"* paragraph of `DR-34` is now ruled |
+
+---
+
+## `DR-36` · ✅ **`{{ Abowasa }}` IS RENAMED SANTA LUCE**
+
+**Developer, verbatim (2026-10-03):** *"just from the possibilities alone, I can already confirm that `{{ Abowasa }}` officially gets renamed to Santa Luce, and this is for a few reasons. Not only due to the similarity to "Santa Maria", but also, "Luce" meaning "light" (and therefore, not committing an act of blasphemy), plus, to native Polish-speakers, the pronunciation of the word "Luce" would be identical across both Intermarians and Italians"*
+
+| | |
+|---|---|
+| **Ruling** | The city formerly `{{ Abowasa }}` is named **Santa Luce**. Italian *santa* "saint" + *luce* "light". Closes `R-16`. Chosen from the candidate set in `Cities/City_Renaming_Candidates_2026-10-03.md` (§2) |
+| **Developer's stated reasons** | (1) it follows the "Santa Maria" line (`R-16`); (2) *luce* is "light", so no blasphemy; (3) the developer's belief that the pronunciation is the same for Italians and Intermarians (see the correction below) |
+| **Founders unchanged** | Italy and the CIN, jointly (`DR-22`). The new name is *not* a reason for any founding fact (`DR-32`: names are flavor, never data) |
+| **Real-world note** | Santa Luce is also a real Tuscan comune (pop. ~1,600, Pisa province), an altered form of Santa Lucia. A coincidence of name, not an input |
+| **⚠ Pronunciation: a correction to reason (3), recorded, not ruled** | In Italian *luce* is /ˈlu.tʃe/ ("LOO-cheh"). Polish, Czech, Slovak, Hungarian, Slovene and Serbo-Croatian write the sound /ts/ as ⟨c⟩, so a speaker reading the spelling *Luce* says "LOO-tseh", **not** the Italian sound. Romanian and Moldovan read ⟨ce⟩ as /tʃe/, the same as Italian. So the shared-pronunciation premise holds for the Romanian-speaking Intermarians only. **Awaiting the developer:** the divergence can stand as in-world texture (two spoken forms of one written name), and Phase 8 could use it; or the premise is dropped. Neither is written into canon yet |
+| **Still to do** | The rename sweep (about 179 files plus 29 Background-Lore files that are **never** edited): needs the developer's OK on the plan. Until then the old text still reads *Abowasa* and `{{ Abowasa }}` stays the working designation in files; the **Tepenia maps already use Santa Luce** |
+
+---
+
+## `DR-37` · ✅ **`{{ Sayowa }}` IS RENAMED TEMIRÖTKEL (темірөткел)**
+
+**Developer, verbatim (2026-10-03):** *"for `{{ Sayowa }}`, how about "темірөткел" ("Iron Crossing/Passage")?"* → *"Excellent. Temirotkel (темірөткел) is confirmed as official for `{{ Sayowa }}`"*
+
+**Developer, verbatim (2026-10-03), romanization:** *"and the romanization would be "Temirötkel" for темірөткел"*
+
+| | |
+|---|---|
+| **Ruling** | The city formerly `{{ Syowa/Showa }}` / `Sayowa` is named **Temirötkel** (Kazakh **темірөткел**). **The official romanization is `Temirötkel`, with the ö, by developer ruling.** *(Wiktionary's Latin for the parts is* temır *and* ötkel*; the developer's form uses a plain* i*. A diacritic-free variant "Temirotkel" is not ruled either way.)* Kazakh *темір* "iron" + *өткел* "crossing, passage; ford": "Iron Crossing". Closes the Sayowa half of `R-17` and `DR-32`'s "Sayowa will be renamed" |
+| **Research basis** | *өткел* verified in two sources (Wiktionary; Kazakh Wikipedia, which uses it for a ford, a pedestrian or military crossing, a mountain pass and the Northwest Passage). *темір* verified in Wiktionary. **The compound is a coinage**: zero hits for "Темірөткел" or "темір өткел" on Kazakh Wikipedia, built on the real one-word pattern of *теміржол* and *Темиртау*. Search was unavailable (budget spent); a second dictionary for *темір* is still owed |
+| **Founders unchanged** | First established by the CIN **or** Kazakhstan (still open), then industrialized primarily by Kazakh industrialists (`DR-30`). The name does **not** decide the first establisher; it reads naturally as the industrialists' name for the city. The name is flavor, not data (`DR-32`) |
+| **Open, not ruled** | (a) which of the CIN or Kazakhstan first established it; (b) the in-game pronunciation and stress (Kazakh stress falls on the last syllable: "teh-meer-ot-KEL"); (c) whether the English gloss "Iron Crossing" is shown anywhere (it echoes "Iron Cross") |
+| **Still to do** | The single rename sweep, **held by the developer until all four names are settled**. Until then the old name stays as the working designation in files |
+
+---
+
+## `DR-38` · ✅ **`{{ Princess Elisabeth }}` IS RENAMED UTSTEIN (native form UTSTEINEN)**
+
+**Developer, verbatim (2026-10-03):** *"For `{{ Princess Elisabeth }}`, yeah, I would say that "Utstein" ("Utsteinen") works the best."* · on which form is the city's name: *"Utstein is the English (national) name, and Utsteinen is the "native" name (similar to the way that Göteborg is noted as "Gothenburg" in English/International"*
+
+| | |
+|---|---|
+| **Ruling** | The city formerly `{{ Princess Elisabeth }}` is named **Utstein** (the English / national form) and **Utsteinen** (the native Norwegian form). Same pattern as Göteborg / Gothenburg: one place, a native name and an English one. Closes the Princess Elisabeth half of `R-17`. Chosen from the candidate set in `Cities/City_Renaming_Candidates_2026-10-03.md` (§4, candidate 1) |
+| **Meaning** | Norwegian *ut* "out" + *stein* "stone": **"the outer stone"** (*Utsteinen* with the definite ending: "the Outer Stone"). The Norwegian Polar Institute place-name API records it as the real nunatak's own name (origin: Norwegian, proposed by "Sør-Rondane 1957"), named for its position north of the Viking Heights. The city takes its mountain's name; the princess and the station are not in it |
+| **Founders unchanged** | The Scandinavian Trade Union nations, jointly (`DR-22`). The name is flavor, never data (`DR-32`) |
+| **Which form where** | Per the developer: **Utstein** in English / national text; **Utsteinen** as the native form. Exactly which in-game contexts use which is not ruled (a Phase 8 / catalog question) |
+| **Real-world note** | Utstein Abbey and Utstein Church (near Stavanger), the "Utstein Style" cardiac-arrest guidelines and a submarine class share the root. A coincidence of name, not an input. The pronunciation guide "OOT-stine" is the researcher's approximation and is UNVERIFIED |
+| **Still to do** | The single rename sweep, **held by the developer until all four names are settled** (three are now ruled; Bunger Hills City remains). Until then the old name stays the working designation in files |
+
+---
+
+## `DR-39` · ✅ **`{{ Bunger Hills City }}` IS RENAMED RELUNG PANEN**
+
+**Developer, verbatim (2026-10-03):** *"I think we can go with "Relung Panen""* · after the question *"would it make grammatical sense to call a place "Relung Panen"?"*
+
+| | |
+|---|---|
+| **Ruling** | The city formerly `{{ Bunger Hills City }}` is named **Relung Panen**. Indonesian *relung* + *panen*. Closes the last open name of the four (`DR-36` Santa Luce, `DR-37` Temirötkel, `DR-38` Utstein, `DR-39` Relung Panen) and `DRQ-05c` (the name). The Casey spur is now "the Relung Panen Spur" |
+| **Meaning** | *Relung* (KBBI, noun): "a hollow or depression in earth or mountainside; a niche in a temple or building for placing statues". *Panen* (KBBI, noun): "harvesting crops from fields or gardens". Head noun first, modifier second: "the harvest hollow / the hollow of the harvest" (compare *relung hati*, *relung ekologi*). **The oasis is a hollow walled in by ice and its job is the harvest**: the name states both |
+| **Founders unchanged** | Indonesia and Malaysia, jointly (`DR-34`). The name is flavor, never data (`DR-32`) |
+| **Research basis** | Both words verified in KBBI (`kbbi.kemendikdasmen.go.id`); the phrase "relung panen" has **zero hits** on Indonesian Wikipedia: **a coinage** on a standard construction. Web search was unavailable (budget spent) |
+| **Open, not ruled** | (a) Kamus Dewan labels *panen* **Javanese** (Malaysians would say *tuaian*), so a Malay-natural form "Relung Tuaian" exists and was not verified; (b) pronunciation ("ruh-LUNG PAH-nen" is the researchers' respelling, unverified); (c) whether it is ever shortened to "Relung" |
+| **Still to do** | The single rename sweep the developer ordered: *"Wait until all four names are settled, then just do one single sweep."* All four are now settled |
+
+---
+
+## `DR-40` · ✅ **PORT LOCKROY IS RENAMED PUERTO ABRIGO**
+**Developer, verbatim (2026-10-03):** *"Port Lockroy --> Puerto Abrigo [conclusive]"*
+
+| | |
+|---|---|
+| **Ruling** | Port Lockroy is named **Puerto Abrigo**. Spanish *puerto* "port" + *abrigo* "a coastal spot where ships shelter from wind, waves and currents" (nautical sense; also "overcoat", "protection"). Chosen from `City_Renaming_Candidates_Batch2_2026-10-03.md` §1. Founders unchanged: Chile (`DR-34`) |
+| **Basis** | The harbor's defining fact is its natural shelter behind Goudier Island. Verified on es.wiktionary, en.wiktionary and WordReference's DLE text; the RAE itself was unreachable (403). No town or port of this exact name was found; the idiom *de abrigo* ("troublesome") exists only inside that phrase |
+| **Still to do** | The batch-2 sweep, **held until all four batch-2 names are settled** (Sejong is still open), and the Mirny-pass inputs held as before |
+
+## `DR-41` · ✅ **JUAN CARLOS IS RENAMED PERGAMINO**
+**Developer, verbatim (2026-10-03):** *"Juan Carlos --> Pergamino // (as it means "Parchment") [conclusive]"*
+
+| | |
+|---|---|
+| **Ruling** | Juan Carlos is named **Pergamino**. Spanish *pergamino* "parchment": animal skin prepared for writing, hence a written title or document (es.wiktionary; from Greek *pergamēnḗ*, "of Pérgamo"). It fits the city's canonical function (Tepenia's first bureaucratic archive). Founders unchanged: Uruguay first (`DR-34`) |
+| **⚠ Collision, recorded for the developer** | **Pergamino is also a real city in Buenos Aires Province, Argentina** (the seat of the Pergamino partido; es.wikipedia disambiguation), on the Río de la Plata side of the Uruguay-first founders' own region. A coincidence of name, not an input (`DR-32`); not a reason to change the ruling |
+| **Not checked** | Rioplatense and Chilean slang (no regional label on es.wiktionary; no lunfardo source reachable) |
+| **Still to do** | The batch-2 sweep, held as above |
+
+## `DR-42` · ✅ **VOSTOK IS RENAMED ARIUN NUUR (Ариун Нуур); THE CENTRAL SCIENTIFIC DISTRICT KEEPS "VOSTOK"**
+**Developer, verbatim (2026-10-03):** *"Vostok --> Ariun Nuur (Ариун Нуур) [conclusive]"* · earlier the same day: *"…with the central scientific district still being called "Vostok" out of a sense of honoring and respect for history and the past scientists who dedicated (and possibly even sacrificed) their lives so that Tepenians could have a city of scientific research"*
+
+| | |
+|---|---|
+| **Ruling** | The city is named **Ariun Nuur** (Mongolian **Ариун Нуур**). *Ариун* "pure, clear, clean; holy" (en.wiktionary; ru.wiktionary gives "sacred") + *нуур* "lake": "the pure lake", for the subglacial Lake Vostok beneath it. **The central scientific district keeps the name "Vostok"**, as a deliberate honor to the past scientists. Founders unchanged: Künnarantaiga and Mongolia (`DR-35`) |
+| **Basis** | Mongolian words, verified once or twice on Wiktionary (*ариун* PARTLY: the two Wiktionaries differ on "pure" vs "sacred"); *нуур* confirmed. The two-word phrase "Ариун Нуур" returned no Wikipedia hit, so it is a plain adjective-plus-noun phrase, not an attested place name |
+| **Open** | the district's boundaries and exactly what "Vostok" names inside Ariun Nuur are not set; whether the name is written "Ariun Nuur" or "Ariun-Nuur" in Tepenian text |
+| **Still to do** | The batch-2 sweep, held as above |
+
+---
+
+## `DR-43` · ✅ **SEJONG IS RENAMED CONTRAPUNTO — ALL FOUR BATCH-2 NAMES SETTLED**
+**Developer, verbatim (2026-10-03):** *"I'm especially liking "Contrapunto""* → *confirmed as final* (answer to "Is Contrapunto your final pick for Sejong?": **"Final: record it as DR-43"**)
+
+| | |
+|---|---|
+| **Ruling** | Sejong is named **Contrapunto**. Spanish *contrapunto*: the technique of independent melodies heard together; **in Chile, Argentina and Uruguay also a verse duel between two improvising poets, each answering the other** (es.wiktionary; DAMER). The name from the Chilean first founders, in Spanish (developer's earlier answer). Founders unchanged: Chile first, then English-speaking arrivals, then Palmer City, then Korea as translators (`DR-35`) |
+| **Chosen from** | `City_Renaming_Candidates_Batch2_2026-10-03.md` §3c (the "meeting place / melting pot" round) |
+| **Known costs** | four syllables; Aldous Huxley's *Point Counter Point* appeared in Spanish as *Contrapunto*; a Caracas news portal and a Peruvian TV show; no Chilean or Argentine place found. Chilean slang could not be checked (no corpus reachable), so a Chilean reader should confirm |
+| **Batch 2 is now complete** | Port Lockroy → **Puerto Abrigo** (`DR-40`) · Juan Carlos → **Pergamino** (`DR-41`) · Sejong → **Contrapunto** (`DR-43`) · Vostok → **Ariun Nuur** (`DR-42`; the central scientific district keeps "Vostok"). Mirny remains "eventually" |
+| **Sweep ruling (developer, same day)** | **Sweep the non-held files now; the 6 held Mirny-pass inputs later** (after the Mirny pass finishes), when the held-file tool will cover both batches |
+
+---
+
+## `DR-44` · ✅ **THE REMAINING FOUNDING ROWS RULED: ALL 38 CITIES NOW HAVE A RULED FOUNDING (HALLEY'S "CENTRAL ROLE" AND TEMIRÖTKEL'S FIRST ESTABLISHER STAY PARTIAL)**
+
+**Developer, verbatim (2026-10-03):** *"At the moment, Australia is rather heavily overrepresented in founding nations. I'm not saying that Zukelli shouldn't be Australian-founded. Just that maybe one of the other Australian-founded cities can be founded by someone else. Not a requirement; just a thought for consideration."* · *"Dumont d'Urville can definitely have been founded by Japan. That makes excellent sense."* · *"Byrd was rather less founded by any Upper-Earth country, and more by a joint team of first-wave Tepenians from the Peninsula and the Halley coast."* · *"For Signy, yeah, that works."* · *"Everything else looks fine."* · *"for Shirayuki and Sinheung … I would change that to geography being an additional factor, on top of the agreement at the Court of Jeju-Do"* · *"all of the 'Ruled founders' listings are right"* (for Rothera, Santa Luce, Utstein, Dome Fuji, Fort McMurdo)
+
+| Row | Ruling |
+|---|---|
+| **Dumont d'Urville** | **Japan** (zone gap 0; Adélie Land at 140°01′E lies on almost the same meridian as Tokyo). Not France |
+| **Byrd** | **A joint team of first-wave Tepenians from the Peninsula (the Palmer subnet) and the Halley coast (the Halley subnet).** Not founded by any Upper-Earth country; the zone test does not apply. Supersedes the spec's "American exiles" |
+| **Signy** | **South Africa (partly) and Brazil.** Brazil: zone gap 0 |
+| **Zukelli** | **Australia** (zone gap 1), from the developer's shortlist. Not Italy |
+| **Denison** | **Australia** (zone gap 0; Commonwealth Bay is almost due south of Tasmania) |
+| **Cape Adare** | **Mixed; no single dominant national community**: an empty slot by ruling (the empty-slot law), not a gap |
+| **Palmer City · Amundsen Station · Concordia** | **Not nation-based.** Palmer City: three groups united by their relationship to robots (`DR-16`). Amundsen Station: rotating multi-subnet technical crews. Concordia: robots and human partners who went inland, then waves of coastal refugees; the French/Italian station is not a reason (`DR-19`) |
+| **Shirayuki · Sinheung** | Japan and Korea stay, **by the Jeju-do court's diplomatic allocation, with geography (zone gap 3 to the Prydz Bay coast) as an ADDITIONAL factor** on top of it. Not a rewrite of the basis. Closes `FQ-13c` |
+| **Rothera · Santa Luce · Utstein · Dome Fuji · Fort McMurdo** | Re-statused ⛔ → ✅: the register's founders were right, the **specs** still contradict them (revisit items). **Consequence for Rothera:** Argentina stays a founder alongside North America, so `DR-22`'s "only Belgrano, Marambio and Esperanza" described the specs as they then stood; Argentina founds **four** cities. Closes `FQ-13b` *(inferred from "all the ruled founders listings are right"; confirm if wrong)* |
+
+**Open thought (not a requirement), `FQ-20`:** Australia was a founder of six cities (Mawson with Kazakhstan, Mirny, Casey, Davis, Denison, Zukelli; Mawson was then removed, `DR-45`). The developer asks whether **one of the other Australian-founded cities** could be founded by someone else, while stressing that Zukelli itself may well stay Australian-founded. **No row changed.** The register's own measured pools: Denison could be Papua New Guinea or Künnarantaiga (zone gap 0), New Zealand, Korea or Indonesia (gap 1), or a joint founding; Casey and Davis (`DR-19`) are already ruled.
+
+**Still not researched:** the gateway statements (`FQ-15`). **Still to do:** the spec revisits for every row whose spec contradicts the register (the check script lists them).
+
+---
+
+## `DR-45` · ✅ **MAWSON: AUSTRALIA REMOVED AS A FOUNDER; KAZAKHSTAN STAYS, JOINTLY WITH A CO-FOUNDER TO BE CHOSEN**
+
+> ⚠ **REVERSED 2026-10-04 by `DR-53`: Australia is restored as a Mawson founder** (alongside Kazakhstan and Russia). The record below stands as history.
+
+**Developer, verbatim (2026-10-03):** *"in that case, we can remove Australia from the founding of Mawson, though Kazakhstan would still jointly establish the city with somebody else"* (answering the list of six Australian-founded cities: Mawson, Mirny, Casey, Davis, Denison, Zukelli)
+
+| | |
+|---|---|
+| **Ruling** | Mawson is **no longer** founded by Australia (`DR-33` amended). **Kazakhstan** remains a founder (zone gap 0: Mawson lies directly south of it), **jointly with a second founder not yet chosen** (`FQ-21`) |
+| **Why** | `FQ-20`: Australia was a founder of six cities. It is now five (Mirny as one of three exile groups; Casey, Davis, Denison, Zukelli) |
+| **Spec revisit** | `Specs/Mawson subnet/Mawson.md`'s `Founding population:` line says *"Australian exiles"* and must be rewritten once the co-founder is chosen |
+
+---
+
+## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**
+
+**Developer, verbatim (2026-10-03):** *"so far as Mawson's co-founder, I think a good option is Russia, and for Mirny, instead of being founded by Russia, it's Idelsk-Uralia (since they're slightly more closely timezone-aligned, and they'd have a reasonably strong-enough economy to support doing so), though Russia is still present along with Australia and the Sinian Federation as exile groups"*
+
+| City | Ruling |
+|---|---|
+| **Mawson** | **Kazakhstan and Russia (the core state), jointly.** Closes `FQ-21`. Russia's core (+2…+3) is zone gap 1 to Mawson's +4 |
+| **Mirny** | **Founded by Idelsk-Uralia**, which takes the founding-nation role Russia held; **Russia, Australia and the Sinian Federation are present as exile groups.** Idelsk-Uralia (+2…+5) is zone gap 1 to Mirny's +6, Russia's core gap 3. **Amends `DR-9`** (*"exiles from Russia, China and Australia"*): the three exile groups stand; what is new is the founding nation |
+| **Australia's share** | five cities: Mirny (as an exile group), Casey, Davis, Denison, Zukelli |
+
+⚠ **Mirny's ULM pass is live (Phase 5 is next).** Its frame, spine and Phases 2–4 were written on `DR-9`'s wording. **No pass file was touched** (frozen records and inputs). The founders line in `Specs/Mirny subnet/Mirny.md` (*"Primarily Russian exiles"*) and the pass's treatment of Russia need a deliberate in-window read when the pass reaches a step that uses the founders; whether Idelsk-Uralia is **also** one of the exile groups, or only the sponsoring founding nation, is read here as the latter (*confirm if wrong*).
+
+**Spec revisits:** `Specs/Mawson subnet/Mawson.md` (*"Australian exiles"*) and `Specs/Mirny subnet/Mirny.md`.
+
+---
+
+## `DR-47` · ✅ **THE MIRNY SUBNET'S COLLOQUIAL NAME "THE AUSTRALIAN SUBNET" HAS AN IN-WORLD BASIS**
+
+**Developer, verbatim (2026-10-03):** *"there is now a sufficiently solid case for the common people colloquially referring to that particular subnet as 'the Australian subnet', since Australia dominates the founding of the entire area"*
+
+| | |
+|---|---|
+| **Ruling** | The nickname **"Australian"** (already in the specs: `Mirny ("Australian")`) is grounded in who founded the subnet: **common people call the Mirny subnet "the Australian subnet" because Australia is its leading founder** |
+| **Register count (for the record)** | Australia founds **three of the subnet's nine cities**: **Casey** and **Davis** (sole founder) and **Mirny** (one of the exile groups, `DR-46`). The other six: Zhongshan (China), Shirayuki (Japan), Sinheung (Korea), Ariun Nuur (Künnarantaiga and Mongolia), Kunlun (that stock plus the Sinian Federation), Relung Panen (Indonesia and Malaysia). A plurality, not a majority; the colloquial name is the developer's call and stands |
+| **Changed** | Nothing in canon files (the nickname is already used everywhere). Mawson and Janbogo still have no nickname (`project_subnet_nicknames`) |
+
+---
+
+## `DR-48` · ✅ **PRIMARY PORTS: USHUAIA (PENINSULA AND SCOTIA SEA SITES) AND HOBART (ADÉLIE, COMMONWEALTH BAY AND BUNGER HILLS SITES)**
+
+**Developer, verbatim (2026-10-03):** *"So far as the 'Peninsula and Scotia Sea' sites, write all of those possibilities to file (so that we can refer to them in the future if we need to), and set Ushuaia as the main/primary port. For the 'Adélie and Queen Mary Land' sites, write all of those possibilities to file … and set Hobart as the main/primary port. So far as your combined results, from among your 'Proposed wording' prospects, write all of those possibilities to file … We'll take a look later and see which results are the best ones."*
+
+| | |
+|---|---|
+| **Ushuaia** | **Primary port** for Pergamino, Puerto Abrigo, Contrapunto and Signy. Every other candidate is a recorded possibility: `Gateway_Ports_Peninsula_and_Scotia_Sea_2026-10-03.md` |
+| **Hobart** | **Primary port** for Dumont d'Urville, Denison and Relung Panen. Every other candidate is a recorded possibility: `Gateway_Ports_Adelie_and_Queen_Mary_Land_2026-10-03.md` |
+| **Basis wordings** | **Not chosen.** All options are recorded, several per row: `Founding_Basis_Wording_Options_2026-10-03.md`. The Register's Basis column is unchanged |
+| **Not done** | `Locations/Infrastructure/Ports.md` (existing canon) is **not** updated; it names neither port. The post-war nation holding Ushuaia is unchecked (`DR-23`). A port does not change any founder |
+| **Evidence** | First pass: `Research_Logs/Founding_Gateway_Research_A_…`, `B_…`, `C_…` (zero web searches possible). **RERUN the same day with working search** (the developer raised the limit): `…A2_…`, `…B2_…`, `…C2_…` (about 250 searches). The two ports files were corrected to the RERUN's figures and Round 2 wordings were appended to the wording-options file (developer: *"do all three"*); **`Bunger Hills` is on the Knox Coast of Wilkes Land**, corrected in the Relung Panen spec, dossier, composition file and input-status file |
+
+---
+
+## `DR-49` · ✅ **THE THREE MAINLAND AUSTRALIAN TERMINALS CARRY THE BULK FREIGHT; HOBART IS THE PRIMARY GATEWAY**
+
+**Developer, verbatim (2026-10-03):** *"the three carry the bulk freight. Do some additional research to see if you can identify any particular applications of the port at Hobart, since it's on an island, rather than on the mainland"* (answering `FQ-23`)
+
+| | |
+|---|---|
+| **Ruling** | The three new mainland terminals (**Bunbury** for Perth, **Outer Harbor** for Adelaide, **Jan Juc / Torquay / Flinders** for Melbourne, established 2026-09-26 in the CurrentNovelDocs repo; about 10 to 11 days each way) **carry the bulk freight** (iron ore, bulk building materials, surplus food). **Hobart** remains the primary port (`DR-48`) and the Antarctic gateway |
+| **Follow-up requested** | Research **particular applications of the port at Hobart, because Tasmania is an island** rather than mainland. Results: `Research_Logs/Hobart_Island_Port_Research_*_2026-10-03.md` and `Ports.md` §3c |
+| **Closes** | `FQ-23` (Hobart's relation to the three terminals). Fremantle's place next to Bunbury remains open |
+
+---
+
+## `DR-50` · ✅ **HOBART AND USHUAIA ARE THE PORTS OF TRANSFER FOR PEOPLE LEAVING UPPER EARTH**
+
+**Developer, verbatim (2026-10-03):** *"the way it sounds to me: Hobart would be the actual port-of-transfer for people (both humans and robots) coming from the Asian span of the Eastern Hemisphere who are making their way out of Upper Earth on route to Antarctica, similar to Ushuaia serving as a port-of-transfer for people on their way to what eventually becomes Palmer City (and surrounding cities)."*
+
+| | |
+|---|---|
+| **Reading recorded** | **Hobart**: the port of transfer for people (humans and robots) from the Asian span of the Eastern Hemisphere on their way to Antarctica. **Ushuaia**: the same role for people bound for Palmer City and the surrounding cities. **The three mainland terminals** still carry the bulk freight (`DR-49`) |
+| **Matches** | `Upper_Earth_Immigration_Composition.md` "Real-world Antarctic access gateways" (Ushuaia/Punta Arenas → the Peninsula; Hobart/Fremantle → the East Antarctic coast, for Australia, Japan, Indonesia/SE Asia, China, South Korea) and `Airports.md` (Machu Picchu Airport, the only international airport, connects to Ushuaia; Palmer City reached by water only) |
+| **Early stage (developer, same day)** | ***"In the early stages, it's kind of moot, because at the time of the signing of the Falkland Treaty, none of those airports have been built yet."*** At the Falkland Treaty (2564-06-21) there is no Machu Picchu Airport and no Tepenian airstrip, so **every early arrival comes by sea**; the processing question applies to **later eras** only |
+| **Open** | (Later eras) where Hobart arrivals are formally processed once Machu Picchu exists as the only international airport; which Tepenian ports receive people from Hobart; whether robots are handled differently; whether the role continues in the Second Interwar Period; when the airports were built. See `Ports.md` §3d |
+
+---
+
+## `DR-51` · ⏸️ **THREE INTERNATIONAL AIRPORTS, NOT ONE: RECORDED AND DEFERRED**
+
+**Developer, verbatim (2026-10-03):** *"this actually implies that there really need to be three international airports, and not just one. In the beginning, there would only be Marambio Airport and that's it. Later, there may be people immigrating, who are not coming from the Americas / Western Hemisphere. This is something to sort out later, once the country and the worldbuilding has been better-determined"*
+
+| | |
+|---|---|
+| **Recorded** | Tepenia needs **three** international airports, not one; **early on, Marambio Airport is the only airport**; later immigration from outside the Americas / Western Hemisphere is what requires the others |
+| **Status** | ⏸️ **DEFERRED ON PURPOSE.** *"Sort out later, once the country and the worldbuilding has been better-determined."* **Do not close it quietly** |
+| **Not decided** | which three; where the other two stand; when each was built; whether the early-era airport is Marambio (`Airports.md` lists **Marambio Airport as domestic** and **Machu Picchu as the only international airport**; both statements describe one era each) |
+| **Changed** | **nothing.** `Airports.md` is untouched; the conflict is recorded in `Ports.md` §3d and `follow-up_questions.md` (`FQ-24`) |
+
+---
+
+## `DR-52` · 💡 **THE TOWNS IDEA: REAL STATIONS ON STABLE GROUND, NOT ALREADY CITIES, BECOME TEPENIAN TOWNS** *(recorded 2026-10-03; idea, not yet a method)*
+
+**Developer, verbatim (2026-10-03):** *"Now, something that I've come up with an idea for: once the cities themselves are complete, go through real-world data and look for actual Antarctican Stations that exist in steady, non-shifting locations, and whatever hasn't already been listed as currently-declared cities, those become towns. This way, we accomplish a few objectives: the country is essentially fully populated · in the DLCs, there are places to meet people and explore the in-world story and environment between major cities · in the WebTV show ("Southern Lights"), the in-world country feels that much more full. This is especially useful in regards to making the trek from the coast to either Ariun Nuur (Vostok), Kunlun, and/or Dome Fuji (which will get another name), since there should be some sort of a path that naturally guides the player to {{ Dome Fuji }} (even if it is very much side-content). This is actually something we can do in parallel to the ULM, since: the nature and character of their existence is independent of the cities · it doesn't actually matter what country established them, though we can realistically keep some of their names · whatever it is that each "town" (i.e., not-yet-established station) is dedicated to, that can be part of the basis of what the Tepenian town is oriented around · because they're towns, and not full-sized cities, they don't really need to be all that particularly developed"*
+
+| | |
+|---|---|
+| **The idea** | After the 38 cities, take **real Antarctic stations at stable, non-shifting locations** that are **not already a declared city**; each becomes a **town** |
+| **Purposes** | (1) the country is essentially fully populated; (2) **DLC** places to meet people and explore story and environment **between** major cities; (3) the WebTV show *Southern Lights* feels fuller; and especially (4) **a natural path from the coast to Ariun Nuur, Kunlun and Dome Fuji** (Hwy 37, the Mountain Cut Throughway: Dome Fuji → Kunlun → Ariun Nuur → Concordia), guiding the player to Dome Fuji even as side-content |
+| **Developer's terms** | **Parallel to the ULM** (the towns' character is independent of the cities); **the establishing country does not matter**, though **some real names may be kept**; **what each station is dedicated to may be part of the basis of its town's orientation**; **towns are lightly developed**, not full cities |
+| **Status** | 💡 **Idea recorded.** Not started. No inventory, no criteria, no list yet |
+
+### ⚠ Open (flagged, none decided)
+
+1. ✅ **RESOLVED (developer, 2026-10-03): the station-history law is NOT in tension; no exception is needed.** **Developer, verbatim:** *"remember that it is possible for newcoming Tepenians to inherit research notes, records, audio logs, maps, etc etc, and are able to incorporate them into how they develop their city. There are already precedents for this: Belgrano, Neumayer, Kunlun, Vostok, etc"* **This is the inheritance regime already ruled:** `DR-24` (infrastructure outlasts founders), `DR-25` (a station hands down **records**, not a tradition), `DR-26` (newcomers inherit **research, equipment, techniques and results**), `DR-28` D4/D8 (*"inherited records, research and equipment stay admissible as such"*). **So a town may take up what its station was dedicated to the same way a city does: as research, equipment and records it inherited and carried on, never as a continuous "heritage" or tradition, and never as the operator or nation being a reason for the town's founders, identity, culture or ties** (`DR-19`). *Precedents in the specs: Belgrano (recovered maps); Neumayer (the elevated-on-legs design inherited and extended into a city); Kunlun (the deep seed archive and scientific cataloging); Ariun Nuur (the accumulated research archive).* **Wording rule for towns:** *"took up the station's research, equipment and records"*, not *"the research heritage continues"* (`DR-26`).
+2. ✅ **RESOLVED (developer, 2026-10-03): hours.** ***"Establishing each town's personality, character, etc, that's something to do during the productive hours. Collecting data that's relevant to those towns can be done any time."*** **So: DATA COLLECTION any hour; TOWN CHARACTER (personality, orientation, culture) only 05:00 to 14:59.**
+3. ⏸️ **The census:** *"we'll figure that out later."* Census II's total is fixed and hands-off until all 38 cities finish the ULM (`DR-23`); where town populations come from is **deferred on purpose**.
+4. ✅ **RESOLVED (developer, 2026-10-03): what counts as "steady".** ***"Basically, ice that's not moving at a speed to the point where the city itself needs to be moved. Ideally having bedrock at some distance below the ice."*** **Criterion:** the site's ice must move **slowly enough that the settlement never has to be relocated** (Halley's 400 to 700 m a year is the counter-example), **ideally with bedrock some distance below the ice.** *Bare rock sites qualify by definition.*
+5. ✅ **RESOLVED (developer, 2026-10-03): scope for the data pass.** ***"For now, don't know. Just collect every usable station location, and we'll figure out the rest as we go."*** **Collect EVERY usable station location (all types and statuses, tagged); decide scale, names and which to keep later.** **Data lives in** `Locations/Towns/`.
+6. **Which cities each town hangs off** (the coast-to-Dome-Fuji path, the Weddell and Ross coasts).
+
+---
+
+## `DR-53` · ✅ **MAWSON: AUSTRALIA RESTORED AS A FOUNDER (REVERSES `DR-45`); FOUNDERS ARE KAZAKHSTAN, RUSSIA AND AUSTRALIA, JOINTLY**
+
+**Developer, verbatim (2026-10-04):** *"actually, go ahead and re-add Australia to Mawson, since 1.) they would have a vested interest in reopening/reusing an older location 2.) it would justify the city continuing to be called Mawson, which, itself, would also: 3.) justify the subnet being called Mawson, 4.) further establish Australian culture as a presence in the Mirny subnet"*
+
+*Context of the ruling:* it followed a discussion of the national radio-comms network (`Locations/Towns/Open_Research_Topics.md` §1, `Towns_Data_Pass_Findings_and_Handoff_2026-10-04.md` §9), in which the developer holds that the people running East Antarctica's comms posts would largely be Australian-stock and would carry Australian practice. That discussion is **not** a stated reason in the ruling and grounds nothing here.
+
+| | |
+|---|---|
+| **Ruling** | Mawson is founded by **Kazakhstan, Russia (the core state) and Australia, jointly.** `DR-45` (Australia removed) is **reversed**; `DR-46` (Kazakhstan and Russia) **stands**. *Read as adding Australia to the `DR-46` pair, not as replacing Russia (`DR-33`'s original pair was Australia and Kazakhstan); confirm if wrong.* |
+| **Legal basis (what the Register's Basis cell cites)** | **`DR-19`, geography and access only.** `DR-19` already names Australia → Mawson in the developer's own words (2026-09-30: *"Australia playing a central role in the establishment of the cities of Casey, Davis, and Mawson, since (in geographical terms) Australia is extremely close to those locations and has (comparatively) easy access"*); `DR-33` ruled it with Australia's nearest zone +8 against Mawson's +4, **a gap of 4, a ruled exception** to the "two, maybe three" test |
+| **Reason 1 ("vested interest in reopening/reusing an older location")** | Recorded as the developer's reason. ⚠ **It is not, and cannot be written as, the BASIS for the founders:** a real station's operator or history is never a reason for founders, identity, culture or ties (`DR-19`, `DR-24`, `DR-25`). It stays admissible as what `DR-24` already allows: a statement about the physical infrastructure (and `DR-26`'s inherited records and equipment) that a later community took up |
+| **Reasons 2 and 3 (the name "Mawson" for the city and the subnet)** | Recorded as the developer's reasons: the name now follows from a founder nation, in-world. ⚠ The real namesake himself stays **flavor only, never data or a tie** (`DR-32`). The subnet was already named Mawson; nothing renamed |
+| **Reason 4 (Australian culture in "the Mirny subnet")** | ⚠ **The Register places the city Mawson in the MAWSON subnet, not the Mirny subnet** (Mawson, Temirötkel, Dome Fuji). Australian presence in the Mirny subnet already stands (Casey and Davis as sole founder, Mirny as an exile group; `DR-47`). **What this ruling adds is Australian presence in the Mawson subnet.** *If the developer meant something about the Mirny subnet specifically, say so.* |
+| **Australia's share (`FQ-20`)** | Back to **six cities**: Mawson, Mirny (exile group), Casey, Davis, Denison, Zukelli. `DR-45`'s stated reason (*"to ease Australia's share"*) is superseded by this ruling. `FQ-20` stays optional; **default: no further change** |
+| **Changed** | `Founding_Register.md` (Mawson row, change log); `FQ-20`; `MASTER_Process_Tracker.md` `R-23`; `DR-45` carries a reversal mark |
+| **Not changed (flagged)** | `Specs/Mawson subnet/Mawson.md`'s `Founding population:` line (*"Australian exiles"*) and every file that restated `DR-45`/`DR-46`'s two-nation wording: **spec revisit** to the three-founder row, in-window, no spec edited now. The Mawson subnet still has no colloquial nickname (`DR-47` concerns the Mirny subnet only) |
+| **Hours** | Recording a developer's founding ruling is not restricted to 05:00–14:59 (same reasoning as `DR-33`: the developer makes the decision; this is assembly) |
 
 ---
 
@@ -766,7 +1083,7 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **`DR-11a`** | `00_RUNBOOK.md` §C.9b constraint 2 (L2119–2121) still calls robot national origin "an open reserved question" — amend in place. And is this a universe-level **Who** fact that belongs upstream in `TepenianUniverseTimeline/Reference/Robot_Universals/` (`00_RUNBOOK.md` §A; §E question 3)? | ⏸️ **awaits OK** — a change to existing files |
 | **`DR-15a`** | `01_Frame_Typology_and_Inheritance.md` L500 routes substitute (3) *"via `Real-World_Basis_Extrapolation_Method.md`"*; under `DR-15` it runs via the ULM's own Step 3 research. `Run_Modes_Warm_and_Cold.md` L124–126 also still says to run all **four** substitutes, including (2), which `00_RUNBOOK.md` L445 excludes | ✅ **Done 2026-10-01** (audit fixes): `01` routes substitute (3) through the ULM's own Step 3 research; `Run_Modes` now runs only the peer-free substitutes |
 | **`DR-17a`** | Where to register a city pass's provisional assumptions about its unwritten parent subnet (`01` L440–441) | ⏸️ **developer + assistant, together** |
-| **`DR-20a`** | Who first established Sejong and Juan Carlos (within the Americas-wide Anglo-Latin founding). *(Sayowa ruled `DR-30`, apart from CIN-or-Kazakhstan as its first establisher; Princess Elisabeth ruled `DR-22`, the STU)* | ⏸️ **developer + assistant, together** — a detailed look, in the operating window |
+| **`DR-20a`** | Who first established Sejong and Juan Carlos | ✅ **RULED 2026-10-03** (`DR-34`, `DR-35`): Sejong **Chile** first; Juan Carlos **Uruguay** first |
 
 > ✅ `DR-8a` — **SETTLED, 2026-09-16.** Step 4, Phase 10. Folded into `DR-8` above; no longer open.
 

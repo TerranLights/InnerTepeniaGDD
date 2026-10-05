@@ -114,7 +114,7 @@ Post-war refugee faction not obligatory but flagged as helpful; demonym TBD; exa
 
 ### Canon facts
 - Dome C, 3,233 m, mean annual −52.7 °C, record −84 °C. **Calm by Antarctic standards** (winds 3–5 m/s — dome sites are calmer than slope/coastal). Survived the war because it was too far inland/high/costly to assault.
-- **Genuine tri-junction**: Hwy 110 (→Casey→Mirny coast), Hwy 37 (→Vostok→Kunlun→Dome Fuji), Hwy 183 (→Denison→Janbogo/Zukelli→Dumont d'Urville).
+- **Genuine tri-junction**: Hwy 110 (→Casey→Mirny coast), Hwy 37 (→Ariun Nuur→Kunlun→Dome Fuji), Hwy 183 (→Denison→Janbogo/Zukelli→Dumont d'Urville).
 - Twelve zodiac districts; dome-and-corridor architecture is survival infrastructure, not amenity. Two outdoor districts: **Sagittarius (Frostlands)** — agricultural/pastoral, heated livestock barns, grid-dependent, "the animals take years to replace" if power fails — and **Capricorn (industrial yards)** — mining/processing/heavy manufacturing.
 - Heavy dependence on Janbogo via Hwy 183 for goods it can't produce internally. Energy grid failing (`Energy_Grid_Failure_Rationale.md`).
 - Founding: not first-wave (Palmer City was); grew as coastal cities fell and sent refugees.
@@ -131,7 +131,7 @@ Post-war refugee faction not obligatory but flagged as helpful; demonym TBD; exa
 D=1.67 · workforce 763,548 · three-tier: baseline 48.3% / **mandated 7.8% (H-tag, my estimate — "the national
 crossroads," not canon)** / free 44.0%. `13` §8 gives Concordia the deepest treatment of any city: fat-required
 12,284 t/yr → 136,486 animals/yr → 40,946 t/yr imported feed; power for staples ~234 MW; food workers to feed
-itself 13.0% of workforce at D=1.67 (flagged as possibly too low — **D=1.67 vs Vostok's 2.50 is an open
+itself 13.0% of workforce at D=1.67 (flagged as possibly too low — **D=1.67 vs Ariun Nuur's 2.50 is an open
 question**, `15` item 7, moving Concordia's food burden to 19.4% if corrected). Post-war feed supply is open
 (`15` item 5) since Casey, the Hwy 110 junction, is destroyed.
 

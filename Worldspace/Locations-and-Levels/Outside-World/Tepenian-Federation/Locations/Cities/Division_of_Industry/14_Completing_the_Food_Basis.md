@@ -8,7 +8,7 @@
 >
 > `[CGRM 2026-09-02 · Path 4 · research]`
 
-**Also settled here: {{Bunger Hills City}} IS being founded** — developer ruling, *"I can't think of any
+**Also settled here: Relung Panen IS being founded** — developer ruling, *"I can't think of any
 argument against doing so."* It is no longer load-bearing for survival *(`13` §15)*, but it stands as the
 second, uncorrelated agricultural region.
 

@@ -49,4 +49,4 @@ Concordia is not yet included — its own post-war vision session is still in pr
 
 ## When Cities Score Identically
 
-With only 27 possible three-axis combinations across 36 profiled locations, overlap is inevitable — 34 of the 36 fall into one of 11 shared-result groups (only Dome Fuji and Abowasa are unique). See **`Distinguishing_Overlapping_Profiles.md`** for what actually tells each overlapping group apart — the specific detail, medium, or scale each city expresses its shared triple through.
+With only 27 possible three-axis combinations across 36 profiled locations, overlap is inevitable — 34 of the 36 fall into one of 11 shared-result groups (only Dome Fuji and Santa Luce are unique). See **`Distinguishing_Overlapping_Profiles.md`** for what actually tells each overlapping group apart — the specific detail, medium, or scale each city expresses its shared triple through.
