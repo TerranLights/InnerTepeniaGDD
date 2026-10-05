@@ -21,6 +21,10 @@ material that was already extracted and concluded it was missing. **Check this i
 > said 2,310 on 2026-08-29). **Roughly 55 to 60 books (about 2.5%) have been worked at some depth**: about 29
 > with a full standalone or consolidated extraction, plus about 28 more at chapter or targeted depth inside the
 > five research folders (counts approximate; some books appear in two places).
+>
+> **Updated 2026-10-05:** the **Jung and Enneagram source books** are now extracted (**37 files, about 580,000 words**, Section 4c)
+> and the **Zodiac Personality Substrate** (eight astrology books, mined 2026-08-29 and missing from this index until now)
+> is recorded in Section 4d. That brings the total to **roughly 80 to 85 books (about 3.5%)** worked at some depth.
 
 ---
 
@@ -121,7 +125,7 @@ from line 2088:
 | `Neo-Races-and-Cultures/_Method/Human_Universals_Extraction.md` | Donald E. Brown, *Human Universals* | Feeds the Neo-Races/Cultures framework |
 | `Reference/Real-World/The_True_Believer_Extraction.md` | Eric Hoffer, *The True Believer* (1951) | **Complete** — full text, all 4 Parts, 18 chapters, 125 numbered sections. First book of the 2026-08-29 worldbuilding-extraction pass. Endnote apparatus (~185pp of citations) not mined — bibliographic only |
 | `Reference/Real-World/The_Meme_Machine_Extraction.md` | Susan Blackmore, *The Meme Machine* (1999) | **Complete** — full substantive arc, all 18 chapters through the book's own closing synthesis. Weighted deliberately: religion/transmission/internet/self chapters extracted in full depth, sex/mate-choice chapters (9-10) compressed as lower-yield for this project's purposes |
-| `Reference/Real-World/Man_and_His_Symbols_Extraction.md` | Jung et al., *Man and His Symbols* (1964) | **⚠ PARTIAL, 2 of 5 sections — resume at p. 158.** Jung's own chapter (pp. 18-103) and Henderson's "Ancient Myths and Modern Man" (pp. 104-158) read in full and extracted. Von Franz's "The Process of Individuation" (flagged by the book's own intro as possibly the crux of the volume), Jaffé's visual-arts chapter, and Jacobi's case study **not yet read** |
+| `Reference/Real-World/Man_and_His_Symbols_Extraction.md` | Jung et al., *Man and His Symbols* (1964) | **✅ COMPLETED 2026-10-05, in two places.** THIS file holds pp. 18-158 only: Jung's own chapter (pp. 18-103) and Henderson's "Ancient Myths and Modern Man" (pp. 104-158), read in full. **The rest is in `Reference/Real-World/Jung_Extractions/man_and_his_symbols_Extraction_Part01_of_02.md` (von Franz's "The Process of Individuation", the chapter the book's intro flags as possibly the crux, plus all nine dream cases) and `…_Part02_of_02.md` (Jaffé's visual-arts chapter, von Franz's "Science and the Unconscious" conclusion, and Jacobi's case, titled "Symbols in an individual analysis" in the book).** See Section 4c |
 | `Reference/Real-World/Buddhism_and_Intelligent_Technology_Extraction.md` | Peter D. Hershock, *Buddhism and Intelligent Technology: Toward a More Humane Future* (2021) | **Complete** — full text, Introduction + all 9 chapters, through the book's own closing section. Notes chapter also mined for substantive content beyond citation. Chapter 2 ("Artificial Intelligence: A Brief History") deliberately compressed — conventional AI/computing-history recap with minimal Buddhist content. Direct fuel for Ice-Cold Buddhism (karma-as-algorithm, "digital karma"/"karmic cloning" vocabulary, the six pāramitās) and robot consciousness (relational, non-brain-bound model of consciousness; explicit treatment of present-tense "minimally conscious" machines and future machine rights) |
 | `Reference/Real-World/Groundwater_Geophysics_Extraction.md` | Reinhard Kirsch (ed.), *Groundwater Geophysics: A Tool for Hydrogeology* (Springer, 2006) | **Targeted, MODERATE-HIGH yield** *(500 pp.; extracted 2026-09-15 during Davis ULM Step 3)*. Hard-rock groundwater lives in joints and fissures while the rock body is nearly impermeable; coastal fresh water sits as a density lens on salt. ⛔ **Zero permafrost coverage.** Research, not canon. *(Added to this index 2026-10-04.)* |
 | `Reference/Real-World/Environmental_Science_Demystified_Extraction.md` | Linda D. Williams, *Environmental Science Demystified* (McGraw-Hill, 2005) | **HIGH yield, from the title its own checklist rated lowest** *(431 pp.; 2026-09-15, Davis Step 3)*. The only one of the five geoscience volumes that covers frozen ground (permafrost, frost, periglacial; the Trans-Alaska refrigeration case; frost wedging in rock joints). **The file's headline is that the checklist's title-based rating was wrong.** Research, not canon. *(Added 2026-10-04.)* |
@@ -141,6 +145,63 @@ and what is open**. All of it is research, **not canon**, until worked into a ci
 | `Pisces_Flood_Mechanism_Research/` *(files 01 to 07 + checklist)* | The Flood (Pisces district): a plausible, constraint-checked mechanism | From `Math_and_Computation/`, `Linux/`, `Cpp/`: Thurner et al. *Introduction to the Theory of Complex Systems* · Gao et al. *Introduction to Network of Networks* · *Distributed Control of Robotic Networks* · *Pattern Theory* · *Superminds* · Ghosh *Distributed Systems* · *The Linux Memory Manager* · *System Programming in Linux* · *Asynchronous Programming with C++* · *Hands-On Network Programming with C* (about 10 titles) | 🟡 **Partial: 23 rows done, 17 open** (e.g. *Network of Networks* Ch. 5 §5.3 onward and Ch. 6; several *Math_and_Computation* titles at TOC or skim level only). ⚠ **This means `Math_and_Computation/` is NOT unmined**, whatever the "deferred" note in Section 6 implies |
 | `PTSD_Military_Trauma_Research/` *(files 01 to 10 + checklist)* | The unnamed Cancer-district ex-military defector (and, secondarily, Outer Tepenia) | **Source folder is `to-be-integrated/books/PTSD/` (10 books), not `Reference/Materials/books/`:** Rhodes *Military Ethics* · McDermott *Understanding Combat Related PTSD* · Paulson & Krippner *Haunted by Combat* · Driscoll *Hidden Battles on Unseen Fronts* · Vasterling & Brewin *Neuropsychology of PTSD* · RAND *Invisible Wounds of War* · Moore & Penk *Treating PTSD in Military Personnel* · Freeman, Moore et al. *Living and Surviving in Harms Way* · Adler et al. *Military Life* (TOC-triaged) · plus a synthesis (`10`) | ✅ **Complete for this pass.** Gaps: `07` is missing about 30% of the 2nd edition; the 1st-edition spot-check was never started; the **dark-humor source search** (gallows-humor material; none of the 10 books covers it) is a separate task, not started |
 | `Vostok_Genetics_Research/` *(files 01, 02 + checklist)* | The genetics hub **Vostok (now renamed Ariun Nuur, `DR-43`; the folder name was not changed)** | `Reference/Materials/books/STEM/Biology/bioinformatics/`: Brazma et al. *Living Computers, Replicators, Information Processing* (several chapters) | 🟡 **Partial: 3 rows done, 5 open** (e.g. Ch. VII "Evolution as a Ratchet of Information"; Ch. III; *Biocalculus* not yet opened) |
+
+---
+
+## 4c. Jung and Enneagram source-book extractions *(2026-10-05)* ⭐
+
+**Developer directive, 2026-10-04:** extract everything remaining for **Carl Jung** (wanted across many projects, settings and
+media, not only Inner Tepenia) and **the Enneagram**. Done as **38 units** (agents of at most about 50,000 words each, five at a
+time), from page-marked text copies of the sources. Plan, tooling and resume notes: `Reference/Real-World/Jung_Extractions/EXTRACTION_PLAN_2026-10-04.md`;
+agent rules: `…/_AGENT_INSTRUCTIONS.md`. **Every file is a research extraction, NOT canon**: own-words distillation with page
+citations (`[p.N]` PDF page, `[s.K]` EPUB section), short quotations only, American spelling, a "Gaps and cautions" section.
+**General reuse, not tailored to one setting.** Agent-reported word counts ran low; the counts below are `wc -w` of the files.
+
+### Jung: `Reference/Real-World/Jung_Extractions/` (20 files, about 310,000 words)
+
+| Book | File(s) | Words | Notes and limits |
+|---|---|---:|---|
+| *Aion: Researches into the Phenomenology of the Self* (CW 9 pt. ii) | `aion_Extraction_Part01…03_of_03.md` | ~45,800 | Cites CW paragraph numbers, but **about half are OCR-damaged and inferred from sequence** (part 1 cross-checked against the EPUB); planet glyphs and the plates are lost; bibliography and index only sampled |
+| *Modern Man in Search of a Soul* (1933) | `modern_man_Extraction_Part01…02_of_02.md` | ~25,200 | A set of separate essays, one section each; the EPUB has no page numbers (cites `[s.2]` plus essay and heading); one garbled sentence in "Freud and Jung: Contrasts" |
+| *Symbols of Transformation* (CW 5) | `symbols_of_transformation_Extraction_Part01…05_of_05.md` | ~69,800 | **The PDF has no footnotes at page bottoms: the whole volume's ENDNOTES are in the back matter and are extracted in Part 5** (note-to-chapter assignments inferred from numbering restarts); pp. 373-447 are plate captions; the index and the Collected Works list are summarized only; Greek and Sanskrit strings garbled |
+| *The Undiscovered Self* with *Symbols and the Interpretation of Dreams* | `undiscovered_self_Extraction_Part01_of_01.md` | ~22,000 | Cites Jung's own paragraph numbers (§488-588, §416-607); two small source gaps marked |
+| **"Synchronicity: Nature and Psyche in an Interconnected Universe" (⚠ NOT BY JUNG)** | `Cambray_Synchronicity_Study_Extraction.md` | ~9,400 | **The library file is MISLABELED** (its filename says Carl Gustav Jung): it is **Joseph Cambray's 2009 study** (Texas A&M University Press), a secondary work on Jung's concept. Jung's own monograph is **absent** (CW 8; see `Books_Shopping_List.md`) |
+| *Man and His Symbols*: the REMAINING sections | `man_and_his_symbols_Extraction_Part01…02_of_02.md` | ~36,800 | From a clean OCR of PDF pp. 156-319, because the PDF's text layer is letter-spaced and column-interleaved; printed page numbers run about 3 above PDF pages; the earlier file covers pp. 18-158 (Section 4) |
+| *The Red Book: Liber Novus* (Philemon Foundation / Norton, 2009; ed. Shamdasani) | `redbook_Extraction_Part01…05_of_05.md` (part 5 is `Part05a` and `Part05b`) | ~103,200 | **English text only (PDF pp. 224-402).** The facsimile of Jung's calligraphic manuscript (pp. 14-223) has no extractable text, and OCR of it is garbage; its content is translated in the typeset section. **The PDF is TRUNCATED at p. 402, mid-sentence in Appendix C** (no bibliography or index). Two-column text interleaved, reordered by sense (small slips possible, notably pp. 308, 311-312; check the three-column poem on p. 340 against the page); the Introduction and the Editorial Note disagree on when the *Scrutinies* begin (April 1913 vs 1914), flagged as a probable printing error; part 5 was split in two after an API content-filter failure and graphic passages are summarized in restrained terms |
+
+**Still absent from the library (shopping list, not extractable):** the *Collected Works* "Complete Digital Edition" (two 9-byte
+placeholders) and the key volumes 9i, 6, 7, 8, 12, 14, 11, 13; Jung's own *Synchronicity* monograph; *Memories, Dreams, Reflections*; the *Black Books*.
+
+### Enneagram: `Worldspace/Enneagram/Source_Book_Extractions/` (17 files, about 272,000 words)
+
+**The whole of `to-be-integrated/books/Enneagram materials/` (10 books) is now covered.** Older mining (kept in `Worldspace/Enneagram/`):
+*The Wisdom of the Enneagram* Parts I-II and Chestnut chapters 3-11. **Pending suggestion (needs the developer's OK):** add a
+`Source_Book_Extractions/` row to `Worldspace/Enneagram/README.md`; it was NOT edited.
+
+| Book | File(s) | Words | Notes and limits |
+|---|---|---:|---|
+| Rohr and Ebert, *The Enneagram: A Christian Perspective* (2016) | `rohr_ebert_Extraction_Part01…03_of_03.md` | ~45,800 | Every entry tagged **SYSTEM** or **CHRISTIAN** so the theology can be set aside; figures and summary tables read from the PDF; one apparent slip in the source (p. 125, "Redeemed FIVEs" inside the NINE chapter) |
+| Stabile, *The Path Between Us* | `stabile_Extraction_Part01_of_01.md` | ~21,800 | Nine per-type pairing tables and advice lists, plus a compiled pair index (marked as a compilation); the book is inconsistent on triad names (Fear Triad vs Head Triad) |
+| Palmer, *The Enneagram in Love and Work* | `palmer_Extraction_Part01…03_of_03.md` | ~57,000 | Types in love and at work, plus the book's "Directory" of pairings; three diagrams (PDF pp. 27, 43, 45) not checked visually |
+| Blair, *The Enneagram for Relationships* | `blair_Extraction_Part01_of_01.md` | ~11,900 | Popular-level; pairing chapters dense |
+| Whitmoyer-Ober, *The Enneagram for Relationships* | `whitmoyer_ober_Extraction_Part01_of_01.md` | ~12,300 | **No type-by-type compatibility chart in the book**; the table in the file is compiled from its anecdotes and labeled as such |
+| Hall, *The Enneagram in Love* | `hall_Extraction_Part01_of_01.md` | ~15,100 | All nine types and all 45 pairings; no subtypes or arrows in the book |
+| Gomez, *The Enneagram: Understand Your Personality Type and How It Can Transform Your Relationships* | `gomez_Extraction_Part01_of_01.md` | ~24,000 | 135 pairing entries (45 pairs × home, romantic, work); **source error: the Type Four wing lists are word-for-word copies of Type Three's**; no subtypes, levels, passions or tritype in the book |
+| Riso and Hudson, *Personality Types* | `personality_types_Extraction_Part01…04_of_04.md` | ~62,900 | **The whole book**: foundations, all nine type chapters with their nine Levels, wings, arrows, Part III, appendices. **The Core Dynamics term tables and Table 14.4 are missing from the EPUB text** (the parental-orientation grid was rebuilt from the surrounding text and marked); index page references unresolved |
+| Riso and Hudson, *The Wisdom of the Enneagram*, **Part III** | `wisdom_part3_Extraction_Part01_of_01.md` | ~11,200 | Chapters 16-17 (the spiritual-practice tools) plus the bibliography; the book has no appendices, glossary or endnotes in that range |
+| Chestnut, *The Complete Enneagram* | `chestnut_front_Extraction_Part01_of_02.md`, `chestnut_back_Extraction_Part02_of_02.md` | ~20,900 | Front matter and Chapters 1-2, and the Appendix (all 36 type-pair distinctions), Notes and References; Chapters 3-11 were mined earlier |
+
+---
+
+## 4d. Zodiac Personality Substrate *(8 astrology books; mined 2026-08-29; added to this index 2026-10-05)*
+
+**Location:** `Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` (22 files: `00_Method_and_Sources.md`, twelve
+sign files, `13_Ophiuchus_Hub.md`, seven thematic slices `A` to `G`, and `99_Application_to_Districts.md`). **Sources (all in
+`to-be-integrated/books/Zodiac/`, about 776,000 words):** Silva, *Zodiac Signs: The Ultimate Guide*; Silva, *Sun and Moon Signs*;
+Snodgrass, *Signs of the Zodiac*; Martin, *Mapping the Psyche* Vols. 1-3; Tierney, *All Around the Zodiac* (an OCR'd scan: check
+quotations); Emerson, *Behavioral Astrology*. **Binding constraints, from the folder's own method file:** the zodiac is **not in-fiction**,
+so everything there is design input, not lore; its four classical elements are a different system from Tepenia's eight robot elementals
+and must never be conflated. Ophiuchus is genuinely thin (about 2,000 words corpus-wide).
 
 ---
 
@@ -190,6 +251,8 @@ repeat the mistake this index was written to prevent:
 - *The Routledge International Handbook of Dialectical Thinking*
 - `Math_and_Computation/` (161 files) — **deliberately deferred for TOC cataloging by the developer, 2026-07-23** *(its status in `Book_TOC_Master_Reference.md` is still ⬜; but see Section 4b: the Pisces research opened about ten titles in it, so "not yet mined" is not accurate)*
 - `Cpp/` and the other top-level singles — ⬜ not yet cataloged in `Book_TOC_Master_Reference.md`
+- **From the survey of `to-be-integrated/books/` (2026-10-05):** Warner, *Building Character Arcs* (in `x-trash/`; no trace in the repo, so not extracted) · Lauther, *Creating Characters: A Writer's Reference to the Personality Traits…* (cited inside the two DRAFT files, for example its "Moral Stance chart", but it has **no row in Section 2: extraction depth unknown**) · Wright, *Sixguns and Society* and Morgan, *The Biology of Horror* (named only on the Weekly To-Do) · the 12 programming-design books are not extraction targets.
+- **Jung, beyond what is in the library:** see `Books_Shopping_List.md` (Collected Works volumes 9i, 6, 7, 8, 12, 14, 11, 13 and Jung's own *Synchronicity* monograph are absent).
 
 ---
 
@@ -203,7 +266,7 @@ folders missing) and had to be rebuilt from the repo. **A new `*_Extraction.md` 
 
 ---
 
-## 8. ⭐ Where to pick up *(as of 2026-10-04)*
+## 8. ⭐ Where to pick up *(as of 2026-10-05)*
 
 **In priority order. Nothing below has been started except where stated.** *Hours:* book extraction is bounded
 source-preparation, and these files declare themselves NOT canon, so it is read as **any-hour work**
@@ -223,8 +286,12 @@ pass first (2026-10-05).
    now readable, so the stale "unreadable" note should be fixed when the checklist is next touched) ·
    **Vostok/Ariun Nuur genetics** (5 open) · **PTSD** (`07`'s missing 30%; the separate dark-humor source
    search).
-3. **`Man and His Symbols`: resume at p. 158** (von Franz's *The Process of Individuation*, flagged by the
-   book's own intro as possibly the crux; then Jaffé and Jacobi).
+3. ✅ **DONE 2026-10-05: `Man and His Symbols` (von Franz, Jaffé, Jacobi) and all remaining Jung and Enneagram books**
+   (Sections 4c and 4d). **Next for these:** (a) **acquire** the missing Jung *Collected Works* volumes, 9i, 6, 7 and 8 first, and a
+   complete copy of the Red Book tail (`Books_Shopping_List.md`), then extract them the same way; (b) **suggested, needs the developer's OK:**
+   a `Source_Book_Extractions/` pointer in `Worldspace/Enneagram/README.md`; (c) **suggested:** a cross-book Jung reconciliation (Aion,
+   Symbols of Transformation, Modern Man, the Red Book, *Man and His Symbols*), in the spirit of the character-craft DRAFT files; (d) the
+   Enneagram books now offer several overlapping type descriptions, so a short "where the sources disagree" note would be useful.
 4. **Close the TOC-catalog gaps** (`Book_TOC_Master_Reference.md`): `Math_and_Computation/` (161 files; the
    developer deferred it), `Cpp/`, the top-level singles, and the five titles listed in Section 6.
 5. **Likely-Mirny geoscience titles** flagged during the Davis pass (Section 4b) are unread: if Mirny's own
