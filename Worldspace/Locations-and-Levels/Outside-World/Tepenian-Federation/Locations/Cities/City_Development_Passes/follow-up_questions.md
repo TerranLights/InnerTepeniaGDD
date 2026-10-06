@@ -6,14 +6,18 @@ the run continues on the stated default until you do. Newest section first.
 
 ---
 
-## At a glance — 14 open items *(updated 2026-10-03, evening)*
+## At a glance — 53 open items *(updated 2026-10-06)*
 
 | # | Item | Where it bites | Default while open |
 |--:|---|---|---|
+| FQ-56–FQ-64 | **Mirny Phase 8 (Making), 9 questions** (Q-74…Q-82): the Borrowed Form at Phase 8 and whether a sky-name for a wind is an instrument · do the two bodies dress alike · siligel's lethality to humans · the record's language · siligel at Mirny's cold · the glitch-coolant placement · any food tier at Mirny · how a human child acquires speech · the catalog's windbreak premise (docket) | Phases 9–10; Step 5 | the stated defaults (PA-48…PA-56) |
+| FQ-45–FQ-55 | **Mirny Phase 7 (Order), 11 questions** (Q-63…Q-73): what "mandated" means in-world · which figure governs, §20's 23.6 % or Half B's 11.8 % (docket) · the Industrial mandate's basis · a chamber at Mirny · whether the harbor watch's call is public and binding · which sector carries the watch and the extraction crews · Law 1 and handing off a post · the quarry's one fraction or two · the Register's justice line against `H42` · the superseded `01` on the MUST-OPEN list · the nineteenth slot | Phases 8–10; Step 5 | the stated defaults (PA-38…PA-47) |
+| FQ-38–FQ-44 | **Mirny Phase 6 (Meaning), 7 questions** (Q-56…Q-62): the `National_Holidays` Mirny entry and `DS6`/`INH` docket · any faith meant at Mirny · whether the record is written in · Independence Day with a sunrise · robot death where no faith is sited (reserved) · who calls the open water · the Borrowed Form's trigger. Full text in the section below | Phases 7–10; Step 5 | stated defaults below; none blocks Phase 7 |
+| FQ-26–FQ-37 | **Mirny Phase 5 (Relation & Geometry), 12 questions** (Q-44…Q-55): Idelsk-Uralia's founding role and the "stock" wording · who restores the relay · the port's tier · the inland spur · routing vs access · `RV-1` and the subnet's name · `CRD` L55 · 5b deferral · the radio-standard view · the L184 re-map docket. Full text in the section below | Phases 6–10, the Frame's wording | stated defaults below; none blocks Phase 6 |
 | FQ-19 | **Batch 2 renames** (developer, 2026-10-03): ✅ Port Lockroy → **Puerto Abrigo** (`DR-40`) · ✅ Juan Carlos → **Pergamino** (`DR-41`) · ✅ Vostok → **Ariun Nuur** (`DR-42`, district keeps "Vostok") · ✅ Sejong → **Contrapunto** (`DR-43`). Mirny is "eventually". **Non-held files swept 2026-10-03** (alias table §7); open: demonyms, native-speaker slang checks (Chilean/Rioplatense), hyphenation and district boundaries for Ariun Nuur | the 6 held files get both batches after the Mirny pass (`Tools/rename_sweep_held_files.py`) | old names stay in the 6 held files until then |
 | FQ-18 | **Rename follow-ups** (all four names ruled and swept 2026-10-03, `DR-36`–`DR-39`): demonyms for the four new names · Utstein vs Utsteinen in-game · ✅ the 6 held files (ruled: sweep after the Mirny pass) · Sayowa's first establisher · Santa Luce's two pronunciations · Relung Panen's Malay form | nothing blocks the Mirny run | old names kept in held files and records; `City_Renames_Alias_Table_2026-10-03.md` |
 | FQ-5 | Finish the founding-nations sheet (`Founding_Register.md`): is it the right sheet; when; in what order. **You asked for this "sooner rather than later."** | every pass that needs founders (18 rows open or overturned) | Register untouched |
-| FQ-12 | 47.1 % freedom margin: share of people or of a working life; the parked 11.8 % | Phases 4, 6, 7 | stated as printed, an upper bound |
+| FQ-12 | 47.1 % freedom margin: share of people or of a working life; the parked 11.8 % (**Phase 7 answered the 11.8 % half**, P7-2; the people-or-a-life half stays open and now attaches to 35.3 %) | Phases 4, 6, 7 | stated as printed, an upper bound |
 | FQ-11 | Any public wind call at Mirny? | Phases 4–7 | none assumed; written as a fork |
 | FQ-10 | What keeps the shared night where there is none (~29 days)? | Phases 4–7 | "whatever keeps time"; no hour claimed |
 | FQ-6 | What is the ring (solid, porous, earthwork; closed; roofed)? | Phases 3, 5, 10 | unspecified wind-fortified perimeter |
@@ -26,6 +30,90 @@ the run continues on the stated default until you do. Newest section first.
 | FQ-4 | OK to stop the pass files saying "unratified"? | wording only | "draft, not locked" in new files |
 
 *Datasheet docket (needs your OK, never applied): `Datasheets/Phase_4.md`'s header wording ("of the DISTINCTIVE tier") and its cold-file label ("the governing mechanic").*
+
+---
+
+## Mirny · Step 4 · Phase 8 (Making), written 2026-10-06
+
+*Source: `Mirny_Subnet/Mirny/04_Phase_08_Making.md` (questions Q-74…Q-82). None of these blocks any phase.*
+
+- **FQ-56 · The Borrowed Form at Phase 8, and whether a name is an instrument (Q-74).** Phase 8 fired the trigger at form level for the record (the amended copy) and for naming the winds. Confirm, or hold it for Step 5 (with FQ-44). Inside it: does a spoken name for a wind told by its sky count as an instrument that changes the compact? The three readers split three ways. **Default:** held as a test; no wind name written.
+- **FQ-57 · Do robots and humans dress alike (Q-75)?** `D08` asks it nationally. At Mirny they are alike outdoors by function. Is a city meant to inflect it, and is indoor dress meant to differ? **Default:** alike outdoors by function; the rest open (PA-48).
+- **FQ-58 · Is siligel lethal to humans as canon (Q-76)?** The brief says one dose "would absolutely kill a human", apart from the chemistry proposal. And does a robot take anything at all from human food? **Default:** developer-stated, not ruled; nothing crosses (PA-51).
+- **FQ-59 · The record's language (Q-77).** It cannot be inferred from the station. Rule it, or leave it a mystery of the record? **Default:** open.
+- **FQ-60 · Siligel at Mirny's ordinary cold (Q-78).** Does it keep its form below freezing, and can it be carried and eaten outdoors? **Default:** indoor replenishment only; no outdoor robot meal.
+- **FQ-61 · Mirny on the glitch-coolant axis (Q-79).** A developer placement, or open until Step 5 / Phase 9? **Default:** not placed.
+- **FQ-62 · Any food tier at Mirny (Q-80)?** Especially the summer outdoor tier on the coast. **Default:** none sited (PA-49).
+- **FQ-63 · How a human born here comes to speak (Q-81).** By the robot Language Module's rule, or per city? **Default:** null for humans (PA-53).
+- **FQ-64 · The catalog's Mirny premise (Q-82) — a docket.** `WIC`'s two Mirny items cite a windbreak/turbine city; the admitted lines give only an outer wind-fortified ring. Review when the catalog opens after the corpus. **Default:** nothing proposed.
+
+---
+
+## Mirny · Step 4 · Phase 7 (Order), written 2026-10-06
+
+*Source: `Mirny_Subnet/Mirny/04_Phase_07_Order.md` (questions Q-63…Q-73). None of these blocks any phase.*
+
+- **FQ-45 · What does "mandated" mean in-world? (Q-63).** In the Division of Industry the mandated tier is "would the nation suffer materially without it?" Is that only a classification of national need, or does any obligation attach to a person — may a refusal carry a consequence? This moves:
+  - whether any sanction can exist for refusing mandated work (it would sit against Law 1);
+  - who arbitrates a shortage at the quarry;
+  - how a person moves between tiers.
+
+  **Default:** a need-test only; no compulsion and no holder (PA-39).
+- **FQ-46 · Which Mirny figure governs? (Q-64) — a docket, never applied.** `16` §20 (23.6 % mandated, 35.3 % free) was written after Half B's row (11.8 % / 47.1 %) and names the omission. **Default:** §20 governs (PA-38); nothing edited. Needs your OK to (a) annotate `16` L275 when the six held files are swept after the Mirny pass and (b) correct the earlier Mirny text listed in the 27-row table in the Phase 7 file after Phase 10.
+- **FQ-47 · The Industrial mandate's basis (Q-65).** §20 grounds it on "developer ruling C" and on a developer-vision note that `DR-10` bars as an input. Is the ruling to stand without the note, or does its conclusion need a home in an admitted file? **Default:** the ruling stands; chain 1 rests on the spec, chain 2's national character on the ruling alone.
+- **FQ-48 · A chamber at Mirny (Q-66).** The files say "almost every city" has an installed chamber and name one exception (not Mirny). Is Mirny meant to have one by default? This moves who is built here (Phases 4, 8, 9) and the build-initiation question. **Default:** a chamber by default, undated (PA-40).
+- **FQ-49 · The harbor watch's call (Q-67).** Is the live call on wind and ice public, answered for, and binding on any ship or person — and who pays for harbor readiness? Pairs with FQ-11, FQ-33 and FQ-43. **Default:** a call by practice with no written authority; payer unstated.
+- **FQ-50 · Where the harbor watch and the extraction crews are booked (Q-68).** Maritime (free) or baseline logistics; extraction under Industrial or Other; does the Maritime sector include ice-edge and fast-ice work; should the sector that carries the one inward lifeline be classed free? **Default:** the harbor watch unplaced; Maritime's breadth includes ice-edge work (PA-44).
+- **FQ-51 · Law 1 and handing off a post (Q-69).** Does a robot's capacity to decide mean she may hand off any post, and does equality before the law give a human the same? **Default:** no admitted line compels anyone into a storm; a post may be handed off (PA-42).
+- **FQ-52 · The quarry's two claims (Q-70).** Do the eastern-highway materials and the chamber raw material draw on one fraction of the output or separable ones? If separable, the conflict may not exist. **Default:** both carried; no arbiter in any admitted file.
+- **FQ-53 · Justice (Q-71) — a docket.** The Division of Industry Register's C6 row says "Canon establishes a three-tier criminal justice system" and the Pre-Trip lists "Factions + criminal justice"; `H42` (2026-09-16) says per-area justice is undeveloped. **Default:** `H42` governs; nothing derived.
+- **FQ-54 · The superseded `01` (Q-72) — a docket.** The spine's MUST-OPEN list and the Pre-Trip name `01_Burden_Scoring_Model.md`, which the Division of Industry README stamps superseded. Remove or annotate? **Default:** opened, no figure used.
+- **FQ-55 · The nineteenth industry slot (Q-73).** The Register reserves each city a slot "the one that sounds insane until context makes it inevitable". Considered for Mirny inside the ULM at all, or only after the corpus? **Default:** an empty slot is a result; left open.
+
+*Datasheet docket (needs your OK, never applied): `Datasheets/Phase_7.md`'s line anchors into `16` (it cites L2077–2128; Mirny's §20 is at L2105–2173), its "canon's own words" row that reproduces a developer-vision note, and its Sweep line (a text-coverage gap, not a fact about Mirny).*
+
+---
+
+## Mirny · Step 4 · Phase 6 (Meaning), written 2026-10-05
+
+*Source: `Mirny_Subnet/Mirny/04_Phase_06_Meaning.md` (questions Q-56…Q-62). None of these blocks any phase.*
+
+- **FQ-38 · Docket (Q-56; needs your OK, never applied).** `National_Holidays.md` L109–115, "Two Days a Year (Mirny)", has three problems:
+  - its source is a Background-Lore vignette;
+  - it calls itself "war-proof", which is post-war framing;
+  - it uses the retracted symmetric light model.
+
+  Related: `Datasheets/Phase_6.md` calls the entry "canon to build FROM" and mis-anchors it, and `01_Inherited.md` #1 quotes `SPEC` L150 from its EXCLUDED 613–701 span. **Options:** (a) correct; (b) withdraw; (c) leave for the post-ULM rewrite. **Default:** nothing edited; the entry is not an input.
+- **FQ-39 · Any faith at Mirny? (Q-57).** On the opened roster no faith is sited at Mirny and none naturally fits; four roster folders are empty. Is "no faith sited" the intended state? **Default:** slot open; residents may hold national faiths as individuals.
+- **FQ-40 · The record (Q-58).** Do Mirny's residents write in the inherited record (amend it, verify it, enter a loss in it), and did the founders keep a record of the founding? This moves:
+  - the founding finding;
+  - the "amended copy as the compact's dissent";
+  - a yearly open-water record.
+
+  **Default:** neither assumed.
+- **FQ-41 · Independence Day with a sunrise (Q-59).** At Mirny the sun clears the horizon on June 21. Is the national "darkest day" reading meant to reach Mirny inflected? **Default:** relation only; whether residents mark the noon sun is reserved (RF-12).
+- **FQ-42 · Reserved docket (Q-60).** When the mortuary question opens: `Robot_Physiology` L174 says robot death is handled by "religion and community"; at a city with no sited faith, does that leave community? **Default:** nothing written (`RV-4`).
+- **FQ-43 · The called water (Q-61).** Does the harbor watch publicly call the year's first open water? Pairs with FQ-11 (public wind call) and FQ-33 (the harbor). **Default:** a candidate observance, called on the day.
+- **FQ-44 · The Borrowed Form's trigger (Q-62).** Does an empty observance category fire the Borrowed Form, or is the trigger reserved for Phase 8? **Default:** fired narrowly — at §D as [D] (the amended record as the compact's dissent, not adopted) and as resemblance only in §E.
+
+---
+
+## Mirny · Step 4 · Phase 5 (Relation & Geometry), written 2026-10-05
+
+*Source: `Mirny_Subnet/Mirny/04_Phase_05_Relation_and_Geometry.md` (questions Q-44…Q-55). None of these blocks any phase; each names the default the run uses meanwhile.*
+
+- **FQ-26 · Idelsk-Uralia's role (Q-44).** Is Idelsk-Uralia only Mirny's sponsoring founding nation, or also one of its exile groups — and what, in-world, did its founding consist of (conveyance, materials, administration, people)? **Default:** sponsoring founding nation only (`DR-46`'s own reading), role unstated; "founding without residence" written as conditional.
+- **FQ-27 · Did the founder choose the site? (Q-45).** **Moves** Phase 2's P2-1, *"Nobody chose Mirny."* **Default:** no resident chose it; whether the founding nation chose the site is not stated.
+- **FQ-28 · Which names the "stock"? (Q-46).** `No_National_Stereotypes`' form (*"Stock: Japanese. People: Tepenian."*) assumes the founding nation and the stock coincide; at Mirny they may not. **Options:** (a) the three exile groups · (b) Idelsk-Uralia · (c) both, in different senses. **Default:** the three exile groups as the stock; the Frame's A.5 wording not edited.
+- **FQ-29 · Relay failure (Q-47).** Who restores Mirny's relay (a Mirny body, a subnet body or a national one), and is there any fallback channel? Does Shape D's Belgrano–Casey radio chain serve Mirny and persist beside the Arcanet relay? **Default:** restoration by whoever is at the hardware; no second path; Shape D not equated with the relay.
+- **FQ-30 · Routing vs access (Q-48).** `Arcanet.md` says Kunlun and Ariun Nuur have *"basically no Arcanet access"*; the spec routes them through Mirny's relay. Routing versus residents' access, or a contradiction? **Default:** both recorded, neither adjudicated.
+- **FQ-31 · The inland spur (Q-49).** Does Mirny have an inland spur road (spec L140), or is the phrase residue from before the 2026-07-06 correction (`Highways.md` L204)? **Default:** recorded as a strain; no place is named after it.
+- **FQ-32 · `RV-1` and the subnet's name (Q-50).** The subnet's official name is the hub city's name (`City_Relationship_Database.md` L42/L511), so Mirny's reserved official name also names the whole subnet. Decide `RV-1` with that in view? **Default:** no name proposed.
+- **FQ-33 · Mirny's harbor (Q-51).** Does any rock shelter a berth (GEOLOGICAL, seasonal), or is it a seasonal offload (CONSTRUCTED)? Is Mirny the subnet's port of record for Australian freight (`CRD` L330 says "likely"), and does it receive people from Hobart? **Default:** tier not established; the CONSTRUCTED-seasonal lean recorded as a derivation.
+- **FQ-34 · `CRD` L55 (Q-52).** Does the line saying Mirny's residents *"may find"* the "Australian" nickname inaccurate still stand after `DR-46` and `DR-47`? Its premise looks like the real station's nationality (GPS). **Default:** not an input; a null.
+- **FQ-35 · 5b's own-eras set (Q-53).** Confirm the deferral with histories (`DR-16`, as the Frame applied it), or ask for an in-frame-only set. **Default:** deferred; three attempts recorded, not adopted.
+- **FQ-36 · The radio-standard view (Q-54).** Your 2026-10-04 view (East Antarctica's comms posts largely staffed by Australian-stock people; their practice the standard) was **not used as an input**; the Timeline says the question *"rests on the in-world founders"*. Should it bind Mirny's relay? **Default:** written open.
+- **FQ-37 · Docket (Q-55; needs your OK, never applied).** (a) Re-map the contract's §B row for spec L184 (the 2026-10-03 Ariun Nuur rename moved it +4 characters; found by all three readers). (b) Amend the Frame's D-1 "as of when" to: undated; after the subnet's connection; no later than ~2688 (its ~2614 start rests on a withheld source and a superseded B-Story reading).
 
 ---
 
@@ -56,7 +144,7 @@ the run continues on the stated default until you do. Newest section first.
 - **FQ-15 · Gateway research:** **RUN TWICE 2026-10-03: first pass (zero searches) and a RERUN with working search (~250 searches).** Logs: `Research_Logs/Founding_Gateway_Research_{A,B,C}_…` and `{A2,B2,C2}_…RERUN_…`. Primary ports ruled (`DR-48`). Ports files corrected; Round 2 wording options appended (none chosen). Bunger Hills corrected to the Knox Coast. **Open:** choose the Basis wordings (`Founding_Basis_Wording_Options_2026-10-03.md`); update `Ports.md` with Ushuaia and Hobart (needs go-ahead); post-war nation of Ushuaia; the RERUN logs' remaining gaps.
 - **FQ-20 · Australia's share of the founders** (developer's thought, `DR-44`): six cities had Australian founders. Mawson's removed (`DR-45`); **five remain** (Mirny as an exile group, Casey, Davis, Denison, Zukelli). Any further change is optional. **Default:** no further change. **⚠ UPDATE 2026-10-04 (`DR-53`): Australia was RESTORED as a Mawson founder, so the count is back to SIX** (Mawson, Mirny as an exile group, Casey, Davis, Denison, Zukelli). Still optional; default unchanged. *Note for any future re-founding: the comms-posts idea (handoff §9) leans on Casey's 10 posts, so re-founding Casey would undercut it; Davis, Denison and Zukelli would not.*
 - ~~**FQ-21 · Mawson's co-founder**~~ **RULED 2026-10-03 (`DR-46`): Russia (core state).** Closed.
-- **FQ-22 · Mirny's live pass and `DR-46`.** The pass (Phases 2–4 done) was written on `DR-9` (exile groups Russia, China, Australia). `DR-46` adds Idelsk-Uralia as the founding nation and keeps those three as exile groups. Read the pass's founders usage and `Mirny.md`'s *"Primarily Russian exiles"* line in-window before a step that uses them; nothing in the pass was edited.
+- **FQ-22 · Mirny's live pass and `DR-46`.** The pass (Phases 2–4 done) was written on `DR-9` (exile groups Russia, China, Australia). `DR-46` adds Idelsk-Uralia as the founding nation and keeps those three as exile groups. Read the pass's founders usage and `Mirny.md`'s *"Primarily Russian exiles"* line in-window before a step that uses them; nothing in the pass was edited. ✅ **Founders read in-window at Phase 5 (2026-10-05):** the founders table and P5-10 of `04_Phase_05_Relation_and_Geometry.md` (the spec's founders line, L152, now cites the Register and is not used — FQ-9). **Open: FQ-26, FQ-27, FQ-28.**
 - ~~**FQ-23 · The three Australian freighter terminals vs Hobart**~~ **RULED 2026-10-03 (`DR-49`):** the three carry the bulk freight; Hobart is the primary gateway. **Open:** Hobart's island-specific applications (research running); Fremantle next to Bunbury; iron-ore origin; site feasibility; east-coast sites.
 - **FQ-24 · ⏸️ Three international airports (DEFERRED, `DR-51`).** The developer: Tepenia needs three, not one; early on only Marambio Airport exists; later non-Western-Hemisphere immigration needs the others. **Open:** which three; where; when; reconcile `Airports.md` (Marambio domestic, Machu Picchu the only international). **Wait for the country and the worldbuilding to be better-determined; do not close early.** Related: `Ports.md` §3d (Hobart and Ushuaia as people ports of transfer).
 - **FQ-25 · 💡 THE TOWNS IDEA** (`DR-52`, 2026-10-03). Real Antarctic stations on stable ground that are not already cities become Tepenian **towns** (fuller country; DLC places between cities; *Southern Lights*; a natural path from the coast to Ariun Nuur, Kunlun and Dome Fuji). **Idea recorded only; nothing started.** **Open:** (1) is *"what each station is dedicated to can be part of the basis"* a TOWNS-ONLY exception to the station-history law?; (2) hours (05:00 to 14:59 for design); (3) where town populations come from (census hands-off, `DR-23`); (4) criteria for "steady" and which stations (year-round only? closed historical ones?); (5) scale, names, ports/airstrips/highway stops; (6) the Hwy 37 path. ✅ **(1) RESOLVED 2026-10-03:** the "dedication as basis" rule is the inheritance regime (`DR-24` to `DR-26`), not an exception. ✅ **2026-10-03 rulings:** hours = **data any time, town character only 05:00 to 14:59**; census **deferred**; "steady" = **ice not moving fast enough to force relocation, ideally bedrock some distance below**; scope = **collect every usable station location, decide the rest as we go**. **Data pass started; files in `Locations/Towns/`.**
@@ -202,5 +290,5 @@ the run continues on the stated default until you do. Newest section first.
 | Q-33 | Where should the provisional assumptions (PA-1…PA-14) be registered so the Mirny subnet's eventual pass sees them? | Kept in the phase files | `00_Frame.md` |
 | Q-34 | May the listed existing files be corrected (each one is a change, so each needs your OK)? | Nothing edited | `00_Frame.md` |
 
-*Also parked, not blocking:* the **11.8 % vs 23.6 %** workforce-mandate question (a later item, Phase 7); the **17 open questions** in
+*Also parked, not blocking:* the **11.8 % vs 23.6 %** workforce-mandate question (**answered in Phase 7, P7-2: §20's 23.6 % governs; docket FQ-46**); the **17 open questions** in
 `Cities/ULM_Files_Mistake_Audit.md` Part E.

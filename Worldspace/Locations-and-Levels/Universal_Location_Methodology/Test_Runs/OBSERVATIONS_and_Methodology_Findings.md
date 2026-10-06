@@ -8373,3 +8373,140 @@ late. **`T8` value, measured:** Round 3 moved every reader; four catches came fr
 
 **Status:** ✅ Mirny's Pre-Trip corrected; ✅ reading lists corrected. ⏸️ Recipe template (`M-247`) and `DR-15a` —
 **await developer OK.**
+
+---
+
+# `M-249` — ⚠ **A `T8` PROOF BLOCK THAT A SCRIPT EXTRACTS NO LONGER PROVES READING**
+
+**Found on:** Mirny, Step 4 Phase 7, 2026-10-06.
+
+**What happened:** one of three readers read every admitted file with the Read tool and then produced the PROOF lines
+(first, middle and last admitted line; the admitted count) with a read-only script "for exactness". Round 2 passed all
+three readers 174/174 and could not have told the difference. The reader said so in its own snag list; the other two
+copied by hand.
+
+**The shape:** a proof of reading checks a *product*, and a product can be made without the process. The line-wrap rules
+(measured 2026-09-14) make hand-copying error-prone, which is exactly the pressure that makes a script attractive.
+
+**Status:** ⏸️ **RAISED, NOT FIXED** — the reader-brief template should say *PROOF fields are copied from your own
+reading; never generate them by script.* **Awaits developer OK.**
+
+---
+
+# `M-250` — ⭐ **A FIGURE A READER COMPUTES FROM A COEFFICIENT TABLE IS THE CLAIM ROUND 3 MOST NEEDS TO RECOMPUTE**
+
+**Found on:** Mirny, Step 4 Phase 7, 2026-10-06.
+
+**What happened:** two of three readers listed construction and emergency staffing at the raw national coefficient. The
+third applied Mirny's difficulty factor to the weather-, logistics- or access-touched industries and showed that
+`16`'s formula reproduces the baseline (157,468.9 + 261,096.3 = 418,565.2) from it. All three, rechecking at
+`08` §7.1, agreed the third was right. Nothing in Round 2 can catch this: the proofs prove reading, not arithmetic.
+
+**The shape:** `M-137` (a figure that looks inconsistent with the model's own convention) arriving through a reader's
+own arithmetic.
+
+**Status:** ✅ handled in the merge (both bases shown, with their basis). ⏸️ Round 3's question list should add:
+*"recompute any figure a reader derived from a rate table, and state the basis (raw coefficient or adjusted)."*
+
+---
+
+# `M-251` — ⚠ **A DATASHEET'S ANCHORS INTO A HELD FILE DRIFTED, AND ONE ROW QUOTED A VISION NOTE AS "CANON'S OWN WORDS"**
+
+**Found on:** Mirny, Step 4 Phase 7, 2026-10-06.
+
+**What happened:** `Datasheets/Phase_7.md` cites `16` L2077–2128 for Mirny's §20, which sits at L2105–2173 (an offset of
+28 lines), and one row presents the §20 quotation of a developer-vision note under the heading "The mandate, in canon's
+own words" — an input class `DR-10` bars at every step. Phase 6's datasheet had the same shape (an entry citing a
+Background-Lore vignette as "existing canon to build FROM").
+
+**The shape:** a Tier C datasheet is citation-only extraction, but its anchors are not re-verified when the source file
+moves, and its rows do not get the screen the phase itself gets.
+
+**Status:** ⏸️ **DOCKETED** (`follow-up_questions.md`, datasheet docket); nothing edited. Candidate fix: a datasheet
+anchor-resolution script and a `DR-10` screen at datasheet time.
+
+---
+
+# `M-252` — ⚠ **THE SPINE'S MUST-OPEN LIST NAMES A FILE THE FOLDER'S OWN README STAMPS SUPERSEDED**
+
+**Found on:** Mirny, Step 4 Phase 7, 2026-10-06.
+
+**What happened:** `03_The_Phase_Spine.md` (Phase 7's MUST-OPEN block) and the Pre-Trip's Phase 7 row both name
+`Division_of_Industry/01_Burden_Scoring_Model.md`; the folder's README (L49) and `16`'s source register (L68–70) stamp it
+SUPERSEDED, "do not use their figures". The file's own admitted lines carry no stamp, so a reader who opens only the
+file would not know. All three readers opened it, used no figure and recorded the conflict.
+
+**The shape:** `M-121` / `M-247` — *registered globally is not registered at the point of use*, here in the reverse
+direction: an input list that outlived a supersession.
+
+**Status:** ⏸️ **RAISED, NOT FIXED** — remove it from the MUST-OPEN list or annotate it (`FQ-54`). **Awaits developer OK.**
+
+---
+
+# `M-253` — ⚠ **A READER DISPATCH REFUSED BY AN API SAFEGUARD FLAG, BEFORE ANY READING**
+
+**Found on:** Mirny, Step 4 Phase 8, 2026-10-06.
+
+**What happened:** at ~09:10 six reader starts (three on Opus 5.5, then three retries on Sonnet 5.5) were each
+terminated on their first request with "safeguards flagged this message", before reading anything. The brief and the
+required list were frozen and left untouched. At ~09:22 a new session re-dispatched all three slots on the identical
+brief, and the dispatch went through. No cause was identified.
+
+**The shape:** a refusal at dispatch looks like a brief defect and invites amending a frozen brief (`M-93`). It may
+not be one.
+
+**Status:** ✅ handled — re-dispatched unchanged. **Lesson:** re-dispatch unchanged first; amend a frozen brief only
+after a repeat refusal, and only with developer OK. Log both attempts.
+
+---
+
+# `M-254` — ⚠ **PLAN-MODE STAGING CAN FAIL ROUND 2 FALSELY**
+
+**Found on:** Mirny, Step 4 Phase 8, 2026-10-06.
+
+**What happened:** plan mode came on mid-reading, and all three readers staged their output in their plan files. One
+reader left working notes after its "STAGED OUTPUT ENDS" marker. `triple_read_verify.py`'s continuation rule absorbs
+trailing non-blank text into the last QUOTE, and it reported that QUOTE "not found anywhere in this file —
+fabricated". On the extracted staged block, the same reader passed 38/38.
+
+**The shape:** the 2026-09-14 continuation-terminator fix (blank line or structural marker) does not cover a staging
+marker, because a marker line is neither.
+
+**Status:** ✅ handled in-round (the extracted block is verified, and it is the text archived as the reader file).
+⏸️ Proposed for the brief template: *"if you stage in a plan file, write nothing after the staged block"*. **Awaits
+developer OK.**
+
+---
+
+# `M-255` — ⭐ **ROUND 2 STOPPED A SLOT ON THE READER'S OWN ERROR**
+
+**Found on:** Mirny, Step 4 Phase 8, 2026-10-06.
+
+**What happened:** reader C's PROOF blocks failed three LMID fields: `03_The_Phase_Spine.md` (L213 claimed for L212),
+`03_Research.md` (L73 for L72) and `Weapon_Item_Catalog.md` (a garbled L154 with two words dropped). Every other field
+in 38 files matched. Per §N.1 this is a hard stop; the slot was re-dispatched fresh as C2 on the unchanged brief, and C2
+passed. C2 made the same `SPN3` L212/L213 slip in its notes and caught it before writing PROOF.
+
+**The shape:** §N.5's falsification condition — *"Round 2 and Round 3 always pass trivially"* — is now answered with a
+real catch by the mechanical round itself, not by an orchestrator edit (contrast Phase 4's file-21 case).
+
+**Status:** ✅ recorded. No change to the instrument.
+
+---
+
+# `M-256` — ⭐ **READERS' ROUND 3 AXIS VOTES CAN CROSS, AND THE AUTHOR OF THE MAJORITY CHOICE CAN WITHDRAW IT**
+
+**Found on:** Mirny, Step 4 Phase 8, 2026-10-06.
+
+**What happened:** each reader proposed one axis in Round 1. In Round 3, two readers chose reader B's ("Native at the
+door"); reader B withdrew it in favor of reader A's ("Prepared, not predicted"), stating its own overclaim (it called the
+unknown interior *national*). The merge decided on content under the conservative rule: which axis claims least and fits
+the union's findings (the indoor candidates are preparation, not making at the door). It did not decide by count. The
+other two readings were kept as sub-axes.
+
+**The shape:** a vote count is not the merge rule (`M-246`); a reader's withdrawal of its own claim is evidence, not a
+tie-breaker.
+
+**Status:** ✅ recorded; the decision is flagged to the developer in the phase file's Merge provenance and in Snag 12.
+
+---
