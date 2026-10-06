@@ -273,7 +273,7 @@ source-preparation, and these files declare themselves NOT canon, so it is read 
 (`project_ebook_prestaging_and_pace_standard`; stated, not assumed). The developer is finishing the Mirny ULM
 pass first (2026-10-05).
 
-1. **The all-cities book tally (queued 2026-09-15, NOT started; no tally or book-to-city map exists).** Tally
+1. **The all-cities book tally (queued 2026-09-15, NOT started; no tally or book-to-city map exists). ⏸️ DEFERRED by the developer, 2026-10-05: do it AFTER 17:00 on 2026-10-05, not before.** Tally
    `Reference/Materials/books/` (2,308 files) and map books to **all 38 cities up front**, so a city's Step 3
    finds its sources already mined instead of spending the 05:00-14:59 window on book mining (Davis's Step 3
    did). ⛔ **Check contents, not titles**: `City_and_District_Research_Topics.md` is title-matched and
