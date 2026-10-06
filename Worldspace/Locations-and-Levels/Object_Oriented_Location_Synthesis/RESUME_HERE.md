@@ -12,7 +12,7 @@ Developer-confirmed model: Classes, Instances, Late Binding. Read `README.md`, t
 |---|---|
 | ✅ | `README.md`, `01_Inventory_Universal_vs_Antarctic.md`, `02_Design_Brief.md`, `03_Pointer_Manifest.md`, `04_Handwave_Register.md` |
 | ✅ | `research/_BRIEF.md` (the shared research brief; **final, never amended**) |
-| ⏳ | Three research files, written by background agents. See below. |
+| ✅ | Three research files, written by background agents. **All three complete 2026-10-06.** Orchestrator review is the next step. See below. |
 | ⏸️ | The developer is downloading Isaac Arthur subtitle files into `research/_inputs/` (empty at 14:09). |
 
 **Research agents (dispatched ~13:55 on 2026-10-06, same brief, one file each).** Each wrote its file first and appends
@@ -22,7 +22,7 @@ as it goes, so a stopped agent leaves usable material. At 14:09 the files held 9
 |---|---|---|
 | `research/leo_and_orbital_habitats.md` | LEO, rotating habitats, microgravity, electronics and machines in vacuum | `a1df57f8b7829bfe9`: **✅ COMPLETE 2026-10-06 ~14:25** (452 lines, 51 searches, 10 dead ends). **Review first:** the 1974 O'Neill article's text (2-minute period at 3,200 m radius, 0.895 g) contradicts its own Table 1 (114 s, 0.99 g). Not opened: Pearson 1975, the Lofstrom paper, the 1952 von Braun article, the Lackner/DiZio review, six SP-413 appendices. Gaps: current nanotube-fiber strength; humanoid thermal data. Not yet reviewed by the orchestrator. |
 | `research/mars_venus_and_transfer.md` | Mars, Venus, Earth–Mars and Earth–Venus transfer | `a5936119cee82df3e`: **✅ COMPLETE 2026-10-06 ~14:15** (456 lines, 111 logged rows, 19 dead ends, 22 conflicts). Its gaps: Venera 13 survival time (no primary), Mars temperature by latitude, and the Venus terraforming figures (known only through a preprint). Not yet reviewed by the orchestrator. |
-| `research/belt_jupiter_saturn_and_deep_transit.md` | Belt, Jupiter, Saturn, propulsion, power | `aefab0ec44b5074a5` |
+| `research/belt_jupiter_saturn_and_deep_transit.md` | Belt, Jupiter, Saturn, propulsion, power | `aefab0ec44b5074a5`: **✅ COMPLETE 2026-10-06 ~14:30** (553 lines, 110 logged rows, 14 dead ends). **Weakest figures:** the Europa 5.4 Sv/day and Callisto 0.01 rem/day doses rest on secondary summaries only. **Source errors the agent found:** a fact-sheet summary gave Enceladus gravity as 0.027 m/s² (correct is about 0.11); published belt-spacing figures do not reproduce from their own counts. Unopened: Wiley/Springer papers (Paranicas 2007 and 2009, Becker 2017, Bagenal and Dols 2020), the Europa Lander report, the Daedalus report, the NTRS HOPE PDF (read via a mirror). Not yet reviewed by the orchestrator. |
 
 **On resume, for each file:**
 1. Count what it holds against the brief's nine sections (Scope · SEARCH LOG · Findings · Conflicts · Derived · Constraints ·
