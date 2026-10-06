@@ -14,6 +14,7 @@ Developer-confirmed model: Classes, Instances, Late Binding. Read `README.md`, t
 | ✅ | `research/_BRIEF.md` (the shared research brief; **final, never amended**) |
 | ✅ | Three research files, written by background agents. **All three complete 2026-10-06.** Orchestrator review is the next step. See below. |
 | ⏸️ | The developer is downloading Isaac Arthur subtitle files into `research/_inputs/` (empty at 14:09). |
+| ⏸️ | **`research/SHOPPING_LIST.md`** (2026-10-06): 33 items the developer may try to obtain, plus 14 public documents the orchestrator can retry (Part B). On resume, check `research/_inputs/` for anything new and read it with the checking rule: secondary sources are leads only. |
 
 **Research agents (dispatched ~13:55 on 2026-10-06, same brief, one file each).** Each wrote its file first and appends
 as it goes, so a stopped agent leaves usable material. At 14:09 the files held 99, 308 and 107 lines.
