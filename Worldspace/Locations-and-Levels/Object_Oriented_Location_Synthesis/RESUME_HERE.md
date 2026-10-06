@@ -21,7 +21,7 @@ as it goes, so a stopped agent leaves usable material. At 14:09 the files held 9
 | File | Topic | Agent ID |
 |---|---|---|
 | `research/leo_and_orbital_habitats.md` | LEO, rotating habitats, microgravity, electronics and machines in vacuum | `a1df57f8b7829bfe9` |
-| `research/mars_venus_and_transfer.md` | Mars, Venus, Earth–Mars and Earth–Venus transfer | `a5936119cee82df3e` |
+| `research/mars_venus_and_transfer.md` | Mars, Venus, Earth–Mars and Earth–Venus transfer | `a5936119cee82df3e`: **✅ COMPLETE 2026-10-06 ~14:15** (456 lines, 111 logged rows, 19 dead ends, 22 conflicts). Its gaps: Venera 13 survival time (no primary), Mars temperature by latitude, and the Venus terraforming figures (known only through a preprint). Not yet reviewed by the orchestrator. |
 | `research/belt_jupiter_saturn_and_deep_transit.md` | Belt, Jupiter, Saturn, propulsion, power | `aefab0ec44b5074a5` |
 
 **On resume, for each file:**
