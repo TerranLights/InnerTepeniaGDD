@@ -46,6 +46,13 @@ Agent `a9433a90b61d16123` → `research/waste_heat_utilization.md`. **✅ COMPLE
 `research/DEFERRED_RESEARCH.md` as the next batch, enter its candidate handwaves in the register, and check it against the radiator
 findings that C-1 and C-25 rest on. (Origin: the developer's Grok question, whose paste I could not find; see the deferred list, P1.)
 
+## Plan for 2026-10-12 (developer)
+
+- **Morning: continue the ULM on Mirny.** Say *"Continue the city run."* Phase 9 (Populations) is next; ULM is restricted to 05:00–14:59.
+- **Evening: more OOLSD research.** The L4/L5 and heat-battery work below. The OOLSD folder is logistics, so the hours law does not bind it.
+- **Pending your rulings** (none blocks either): the 41 candidate handwaves (C-1…C-41) in `04_Handwave_Register.md`; class 01's open
+  confirmations (type Installation + Settlement, what the station stages, orbit, robot count, dose budget); the Mirny Phase 8 axis choice.
+
 ## For tomorrow (2026-10-12), per the developer
 
 **L4/L5 and heat batteries.** `research/waste_heat_utilization.md` §10.2–10.3 frame the work. `DEFERRED_RESEARCH.md` P2 and P3 list it. Start
