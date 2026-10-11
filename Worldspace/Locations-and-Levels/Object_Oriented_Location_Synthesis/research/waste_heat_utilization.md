@@ -438,3 +438,73 @@ What I could not find, and what I would search next.
 | Search-summary numbers not traced to an opened page: membrane distillation 80 to 274 kWh/m3; ice-mining 800 kW and 2.4 kW; LiBr single-effect COP 0.65 to 0.75 and 80 to 120 C; copper-chlorine 530 C; steam-reforming 700 to 1,000 C (kept only as a flagged temperature lead); 85 to 95 percent Li-ion round-trip trade figures; carrier 400,000 gallons/day | Not used as findings |
 | Graphify and repository search | The brief forbids it; a hook notice urging graphify queries appeared on tool calls and was ignored |
 
+---
+
+# 10. Orchestrator synthesis: the possibilities in one place (added 2026-10-11 at the developer's direction)
+
+**Everything above this line is the research agent's sourced text and is unchanged.** This section collects its findings into one list of
+*what can be done with heat exhaust* and adds the developer's two follow-up points. **No new figure is introduced here:** every number is
+carried from §3–§8 above and is tagged with its section. All numbers inherit the file's confidence ratings and remain unreviewed.
+
+## 10.1 What can be done with heat exhaust: every possibility the research found
+
+| # | Possibility | Verdict | Condition and cost | From |
+|--:|---|---|---|---|
+| 1 | **Distillation, evaporation, drying, ice melting, water recycling** | **works on low-grade heat** | Heat is not the scarce input. The ISS vapor-compression distiller recycles latent heat (COP about 4); compressor power and bowl heaters (40–50 % of its power) dominate. | §3D, §6 |
+| 2 | **Heat pump to raise radiator temperature and shrink radiator area** | **works, with a trade** | Radiator area ratio 0.4–0.9 for 0.5–1.2 kW extra power per kW lifted. A lab unit with a 70 K lift gave a COP of 0.1–0.6. The benefit is larger against a hot lunar sink, where the baseline radiator cannot work. | §3B, §6 |
+| 3 | **Heat storage for eclipse, shade and night ("heat batteries")** | **works; the mass is the cost** | One kilowatt through a 354 h lunar night is 354 kWh of heat: about 26 t as paraffin at system level (48.8 kJ/kg), about 1.6 t as a lithium-chloride absorber (concept), about 3.8 t as melting ice. A south-pole habitat concept plans for eclipses up to 100 hours. | §3E, §6 |
+| 4 | **Collecting a robot body's or battery pack's heat by cold plate** | **works, small** | Tens to hundreds of watts per body, below about 90 °C and mostly below 60 °C. Useful only for the low-grade uses in rows 1 and 9. | §3G, §6 |
+| 5 | **A thermal bus that moves heat from where it is made to where it is needed** | **works; demonstrated** | The ISS runs 1.8 kW of electric heaters on a loop that rejects up to 70 kW. That is a timing and location mismatch, not a contradiction: heat is too little at the moment of need and too much at the radiator. | §4, §6 |
+| 6 | **Electricity from waste heat at loop temperatures** | **poor** | Carnot factor 5–25 % against realistic radiators; real devices convert about 1–12 %; ideal conversion of 300 K heat costs 2.6 times the radiator area of simply radiating it. | §3A, §3C, §6, §7 (claim 1) |
+| 7 | **Electricity from a hot source (reactor, concentrated solar)** | **works** | Stirling reached about 50 % of Carnot at 800 °C core (80 W scale) and Brayton 32–35 % (12 kWe). The cold side is a radiator. The area-optimal cold side is 0.75 of the source temperature (derived, not sourced). | §3C, §4, §6 |
+| 8 | **Endothermic chemistry (oxygen, hydrogen, metals)** | **needs hot heat** | 800 C (MOXIE), 850–950 C (sulfur-iodine), 900 C (ilmenite), 1,600 C (molten regolith), 1,900 C (carbothermal). At most 4 % of an ilmenite plant's energy could come from a source below 100 C. | §3D, §6, §7 (claims 3–4) |
+| 9 | **Thermal-swing CO2 removal beds** | **needs about 204 C** | Vacuum-swing beds avoid the heat entirely where vacuum is free. | §3D, §6 |
+| 10 | **Endothermic processes as a "heat sink" for the station** | **only with export** | Absorbed heat leaves the radiator budget only with the product. Otherwise the heat returns when the product is used. | §3A, §6, §7 (claim 2) |
+| 11 | **Absorption refrigeration; membrane distillation on 40–60 C heat** | **unverified** | No opened primary source. | §7 (claim 8), §8 |
+
+**What is forbidden or does not pay:** running a station's machines on its own loop waste heat (row 6); thermochemical splitting,
+solid-oxide electrolysis or regolith processing on loop waste heat (row 8); venting hot gas to dump process heat (it loses closed-loop mass); a
+heat pump "removing the radiator problem" (row 2). **The radiator stays.** A station's waste-heat reuse does not remove it.
+
+## 10.2 Developer point: heat batteries for stations in orbit (2026-10-11)
+
+The developer notes that **heat batteries (thermal energy storage) are a strong resource for stations in orbit** around the Sun, the Moon,
+Mars, Jupiter or Saturn.
+
+**What the research supports:** row 3 above. Heat storage is physically sound where the thermal environment is *periodic*: an eclipse, a
+planetary shadow or a long night. The cost is mass, and §3E gives three storage approaches (paraffin phase change, a lithium-chloride
+absorber concept, melting ice) with their system-level masses per kilowatt. **What the research does not give:**
+- the actual eclipse length and frequency for each body's orbits (the LEO file has only the ISS case: about 36 min of darkness in about 93 min at 400 km);
+- storage figures for the Sun-orbiting, Jovian and Saturnian cases (the file's cases are lunar night and ISS-class eclipse);
+- a comparison of heat batteries against simply oversizing batteries or radiators for each case.
+
+**Caveat on "orbit around the Sun":** a station in a heliocentric orbit has **no planetary eclipse**. For it a heat battery has no periodic
+dark interval to carry the station through, unless the station spins, shades itself or changes distance from the Sun. That case needs its own
+analysis.
+
+## 10.3 Developer point: stations "grav-locked" at Lagrange points L4/L5 (for tomorrow, 2026-10-12)
+
+The developer notes that stations at **L4/L5 will need other uses of heat**, and that this needs further research and/or calculation,
+probably on 2026-10-12. **My framing of the question, not findings:**
+
+1. **A heat battery earns its mass by carrying a station through an interval with no sunlight.** If a station at L4/L5 has few or no such
+   intervals, the storage argument weakens, and heat has to be used (rather than stored) or rejected continuously. *To compute:* the fraction
+   of the time a station at Earth-Moon L4/L5 (and at Sun-Earth L4/L5) is in the Earth's or the Moon's shadow. The LEO file's Lagrange-point
+   section and the Moon/Lagrange file cover the positions and stability but I did not find an eclipse statistic there. *To verify before use.*
+2. **The thermal cycle that does exist may be set by the Sun's apparent direction**, which changes over the synodic period for an
+   Earth-Moon point. My understanding is that this is a monthly rather than a per-orbit cycle. *Unverified: confirm by calculation before relying
+   on it.* If so, the relevant storage timescale would be days to weeks, not minutes, and the 354 h lunar-night figures above are the right
+   order of magnitude to compare.
+3. **Steady sunlight changes the problem into continuous rejection.** Every watt consumed is a watt to radiate (§6). *To compute:* the
+   equilibrium temperature and the radiator area for a station of a given power at L4/L5, using the Stefan-Boltzmann arithmetic already in the LEO
+   file (§5).
+4. **Uses that need no cycle:** rows 1, 4 and 5 above (low-grade water and drying, collection of robot heat, a thermal bus), plus a heat pump
+   (row 2). With a hot source such as a reactor or concentrated solar, rows 7–9 apply.
+5. **No in-situ chemistry on loop heat:** the temperature requirements in row 8 do not change with location.
+
+**Proposed work for tomorrow:** (a) compute the eclipse and Sun-angle statistics for Earth-Moon and Sun-Earth L4/L5 from orbital mechanics,
+with the arithmetic shown; (b) size a radiator and a heat-pump case for a stated power at that thermal environment; (c) compare heat-battery,
+oversized-battery and oversized-radiator options at the cycle length found in (a); (d) a short sourced search for how real L-point missions
+(JWST at Sun-Earth L2 is a flown comparison; no mission has flown at L4/L5) manage their thermal environment. **The L4/L5 results
+belong in the class library as parameters of the "Orbital habitat at a Lagrange point" class, which does not exist yet.**
+

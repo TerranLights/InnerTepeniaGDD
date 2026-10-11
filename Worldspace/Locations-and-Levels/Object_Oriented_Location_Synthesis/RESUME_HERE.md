@@ -46,6 +46,12 @@ Agent `a9433a90b61d16123` → `research/waste_heat_utilization.md`. **✅ COMPLE
 `research/DEFERRED_RESEARCH.md` as the next batch, enter its candidate handwaves in the register, and check it against the radiator
 findings that C-1 and C-25 rest on. (Origin: the developer's Grok question, whose paste I could not find; see the deferred list, P1.)
 
+## For tomorrow (2026-10-12), per the developer
+
+**L4/L5 and heat batteries.** `research/waste_heat_utilization.md` §10.2–10.3 frame the work. `DEFERRED_RESEARCH.md` P2 and P3 list it. Start
+with the **calculation** (eclipse and Sun-angle statistics at Earth-Moon and Sun-Earth L4/L5, arithmetic shown), then size a radiator and
+heat-pump case, then compare heat-battery options at the cycle length found.
+
 ## Corrections to apply at review (found by the second tranche)
 
 The retry agents read primary sources the first tranche could not, and they found these errors. **The first-tranche files
