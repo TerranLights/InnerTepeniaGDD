@@ -9,8 +9,8 @@ research file it came from. **Do not delete an item until it is resolved, and sa
 sooner. Use the "search next" leads as written. A route that failed once may still work through a different mirror,
 the author's page, an agency NTRS record, or arXiv. Log each route (`_BRIEF.md`).
 
-**Still to add when each agent finishes:** the open threads of `gap_retry_mars_venus_jupiter.md`,
-`life_support_lowg_power_structures.md` and `moon_lagrange_and_comparables.md`. (Batches 1 and 2 are in.)
+**Still to add when each agent finishes:** the open threads of `gap_retry_mars_venus_jupiter.md` and
+`life_support_lowg_power_structures.md`. (Batches 1–3 are in.)
 
 ---
 
@@ -98,6 +98,50 @@ not read) · NASA CR-1787 sections beyond those cited.
 
 ---
 
-## Batch 3 onward
+## Batch 3: from `moon_lagrange_and_comparables.md` (443 lines; ~64 searches; ~75 pages opened; 10 dead ends, 7 at the sources)
 
-*(appended as each remaining agent reports: `gap_retry_mars_venus_jupiter.md`, `life_support_lowg_power_structures.md`, `moon_lagrange_and_comparables.md`)*
+### Routes that failed
+
+DTIC (403; reports AD0609888, AD0488532, AD0678427, ADA389253) · bas.ac.uk pages (Halley closure) · the ASCE Mir-repair paper ·
+Carrer 2024 full text (abstract only) · the Lunar Sourcebook (not open online).
+
+### Part 1 (physics): not found
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Peak-illumination polar sites and "eternal light" figures** (not searched) | LRO LOLA/LROC illumination maps (Mazarico et al. 2011; Speyerer and Robinson 2013) |
+| 2 | **Paige et al. 2010 (Diviner polar temperatures)** and **Williams et al. 2017** (only quoted through reviews) | the papers themselves |
+| 3 | **Colaprete et al. 2010; Strycker et al. 2013; Spudis et al. 2010 and 2013; Mini-SAR; Lunar Prospector neutron and H data** (abstracts and reviews used) | full texts |
+| 4 | **Apollo Lunar Sourcebook** (Heiken, Vaniman, French 1991): bulk soil oxide table (so oxygen wt% is quoted, not derived), respirable dust size, electrostatic charging, radiation chapter | a library copy; this is also a shopping-list candidate |
+| 5 | **Dust toxicology primaries** (only the Gaier "under 5 microns" quote) | Wallace / Linnarsson / Park papers |
+| 6 | **Lunar seismicity and meteoroid flux at the Moon** (not researched) | bears on lava-tube and surface design |
+| 7 | **Lava tubes**: Sauro et al. 2020 (Earth-Science Reviews); Carrer et al. 2024; Chappaz et al. 2017 (GRAIL). Sizes beyond abstracts not found. | overlaps the Mars lava-tube retry |
+| 8 | **Lunar mass driver**: no primary report of Mass Driver One or Two results; O'Neill's *The High Frontier* and SP-428; Kolm / Snow papers; SP-413 Appendices 5G, 5H and L | |
+| 9 | **Economics**: Jones et al. (2018?), Charania and DePascuale, Bennett et al., Kornuta et al. 2019 (REACH); a dated 2024–2026 launch cost table | |
+| 10 | **Lagrange points**: Earth-Moon L4/L5 as mission orbits (none flown); Kordylewski clouds; a primary on Earth-Moon L1/L2 halo thermal and radiation; Queqiao orbit parameters; ARTEMIS stationkeeping (Folta et al.); Gaia and JWST actuals; SOHO annual propellant; Sun-Earth L4/L5 (STEREO) environment; dose equivalent at L2 | |
+| 11 | **Cislunar radiation** (Orion / Artemis I dosimetry) | NASA primaries |
+| 12 | **Artemis II** (a flight on 1–11 April 2026 is reported in secondary pages; no NASA primary opened; no figures used); **Gateway status** (contested in 2025–2026 news; orbit physics stands regardless) | NASA primaries |
+| 13 | **DRO station-keeping** (only "0 m/s" in Whitley and Martinez 2016, a qualitative table entry) | DRO long-term stability studies |
+
+### Part 2 (mechanism comparables): not found
+
+| # | Item | Search next |
+|--:|---|---|
+| 14 | **Antarctic**: COMNAP Antarctic Station Catalog (PDF not opened); Concordia / Dome C winter-over logistics (IPEV/PNRA/ESA); the NSF 2016 evacuation release; the Vostok 1982 fire in a primary; Stonehouse 1953 "Fire precautions at Antarctic Stations" (*Polar Record*); NSF/USAP incident statistics; McMurdo and Pole winter populations by year; per-person mass flows (the Panel's Figure 1 is a graph) | |
+| 15 | **Submarines**: atmospheric-equipment redundancy (SUBSAFE is hull integrity); NRL submarine atmosphere papers; the NRC 1988 report cited by NRC 2007; oxygen consumption per person; emergency backup (oxygen candles, LiOH) in a primary; a primary for "food is the limit" | |
+| 16 | **ISS**: ORU counts and failure rates from the NASA Logistics and Maintenance database; actual annual cargo up-mass. **The OIG crew-time shares (13% maintenance) conflict with delivered research hours**: that 13% is a planning share, not a measured fraction. | NASA ECTM validation (NTRS 20220013436, 20150009469); later OIG reports (2017–2018) |
+| 17 | **Mir**: the claim that repair reached 50% of cosmonaut work | the blocked ASCE paper |
+| 18 | **Biosphere 2**: Silverstone and Nelson 1996 full text | |
+| 19 | **Analog habitats** (HI-SEAS, Mars-500, MDRS): no maintenance-time data searched | |
+
+### Found and not read
+
+NTRS 20220011365 · NTRS 20220019129 · NTRS 20230010822 and 20230010792 · ISSFD 2024 paper 20-13 · the Polito DRO thesis ·
+NTRS 20210026714 (Deitrick, regolith size) · arXiv 2408.05823 (review of lunar construction) · arXiv 2602.03829 (open database
+of regolith properties).
+
+---
+
+## Batch 4 onward
+
+*(appended as each remaining agent reports: `gap_retry_mars_venus_jupiter.md`, `life_support_lowg_power_structures.md`)*

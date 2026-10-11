@@ -24,6 +24,19 @@ mechanism, mass, power or duty cycle must be accepted and shown). Source: `resea
 | C-7 | **Charging a Li-ion pack outdoors in the cold** | cost | Charging below about -10 °C damages cells. Outdoor charging at Antarctic temperatures needs a warmed pack or another chemistry; none is flight-proven in the sources found. |
 | C-8 | **Clothing that is cloth-like in air and insulating in vacuum** | cost | Cosmetic clothing gives no insulation in vacuum. Insulating clothing must be vacuum-grade multilayer insulation, which behaves like a stagnant gas pocket in air. |
 
+**From `research/moon_lagrange_and_comparables.md` §7 (2026-10-11).** Proposals only; none accepted. The agent notes most of these
+are engineering extrapolations, not violations of physics.
+
+| # | Candidate | Tag | What the fiction would have to settle |
+|--:|---|---|---|
+| C-9 | **A permanently inhabited lunar or Lagrange-point structure with no resupply** | cost (exceeds every observed record) | Every closed-habitat comparable has resupply, make-up gas or spares. The ISS spares-to-system-mass ratio is 7.1 for one subsystem over 1,200 days. A habitat needing no spares for years needs reliability far beyond any record. |
+| C-10 | **A mass driver feeding an L5 habitat as a normal industry** | cost (undemonstrated) | No mass driver beyond a table-top prototype exists. SP-413's catcher, track tolerance and launch accuracy are paper values. A nearside driver's payloads do not arrive at L2 at near-zero velocity, so a catcher must absorb momentum. |
+| C-11 | **Regolith as a free building material and oxygen source** | bend if "free" | Oxygen is 30–45 wt% of minerals but costs 63–126 MJ/kg and 38 t of ilmenite soil per metric ton. Needs the energy-and-mass budget. |
+| C-12 | **Helium-3 as an economic export** | bend | At 4–20 ppb, and with fusion not demonstrated, Crawford finds the claims exaggerated. |
+| C-13 | **Large lunar volumes at comfort without shielding mass** | cost | Measured dose behind 1 g/cm² is 2.6 times the ISS. Kilometer-scale lava-tube settlement is plausible only if tube shielding is verified, and the evidence is thin. |
+| C-14 | **A propellant-free "parking spot" at L1, L2 or L3** | bend | Those points are unstable; only L4/L5 are stable, and only in particular orbits. |
+| C-15 | **Lunar-night energy at the equator without nuclear or stored energy** | cost | About 355 hours of darkness. Polar near-continuous-light cases were not researched. |
+
 **Note.** C-3, C-7 and C-8 bear directly on canon you have already ruled: robots wear clothing and coats and gloves, and have
 realistic skin where interaction happens. They do not contradict it. They say the fiction must pick a mechanism, such as
 a warmed pack or space-grade skin, for the clothed robot to be physical.

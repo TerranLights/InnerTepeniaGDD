@@ -35,7 +35,7 @@ Each prompt also let the agent read, read-only, the relevant sections of the fir
 | `research/gap_retry_mars_venus_jupiter.md` | retry: Mars climate/lava tubes/perchlorate/ice/windows/dose; Venus tables, Venera 13, cloud radiation; Jovian, Saturnian dose primaries | `a41a46fa84ff25729` | ⏳ |
 | `research/robot_body_in_space.md` | new: humanoid machine thermal, radiation, vacuum tribology, power, cold, reliability | `a29fe6df604e01b3f` | **✅ COMPLETE** (751 lines, 109 log rows, 17 dead or partly dead). Eight candidate handwaves C-1…C-8 are entered in `04_Handwave_Register.md` as proposals; **they await developer rulings**. Open threads are in `research/DEFERRED_RESEARCH.md` Batch 2. Not yet reviewed. |
 | `research/life_support_lowg_power_structures.md` | new: closed-loop life support, low-g biology, power and thermal at scale, structures, debris shielding, regolith | `af602675dcc830250` | ⏳ |
-| `research/moon_lagrange_and_comparables.md` | new: the Moon, mass drivers, Lagrange points, cislunar orbits; `[RW]` mechanism-only habitat comparables | `a81561c911f1e71b7` | ⏳ |
+| `research/moon_lagrange_and_comparables.md` | new: the Moon, mass drivers, Lagrange points, cislunar orbits; `[RW]` mechanism-only habitat comparables | `a81561c911f1e71b7` | **✅ COMPLETE** (443 lines, ~64 searches, 10 dead ends). Seven candidate handwaves C-9…C-15 entered in the register as proposals. Flagged conflict: the OIG ISS crew-time share (13% maintenance) is a planning share, not a measured fraction. Open threads are in `research/DEFERRED_RESEARCH.md` Batch 3. Not yet reviewed. |
 
 **Still deferred:** group 3, the Cryptograph Helix timeline file (`03_Pointer_Manifest.md` §B).
 
