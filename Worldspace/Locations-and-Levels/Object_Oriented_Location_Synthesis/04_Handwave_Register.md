@@ -7,6 +7,12 @@ only. Anything not on this list obeys known physics.
 |--:|---|---|---|---|
 | H-1 | **Nanotech gel brains** | How a malleable gel brain gives a robot full, complete consciousness and sentience | The body. A robot is human-shaped and has mass, heat, charge, joints and a radiation tolerance. She cannot fly, survive vacuum without preparation beyond what canon grants, or ignore thermal balance. | Developer, 2026-10-06. Canon: `Robot_Physiology_and_Cultural_Practices.md` ("a malleable, ever-changing gel brain"). |
 
+## Developer rulings that shape the physics (not handwaves)
+
+| # | Ruling | Date | Effect |
+|--:|---|---|---|
+| RL-1 | **Robots are radiation-vulnerable, equivalently to humans for shielding purposes, "for different reasons".** A robot doing an EVA would still wear a suit, **for radiation protection, not for oxygen**. Even the earliest robot-only station must therefore be **radiation-shielded to the degree a human requires.** Developer's words: "probably safe to say"; recorded as a ruling unless corrected. | 2026-10-11 | Answers C-32 (a robot is **not** radiation-immune). Largely answers C-5: the body's electronics sit inside the same shielding. **Its basis is the gel brain**, whose tolerance is unspecified in canon: electronics alone would tolerate much more than a human (see `classes/01_Robot-Only_Staging_Station.md` §4). It sets the dose budget for every class with robot residents. **Open:** the numeric dose budget (what "the degree a human requires" is, per orbit and dwell time), and how much radiation protection a suit actually gives (not yet researched). |
+
 **Candidate handwaves** (proposed by a class or a research file, not yet accepted). Each needs a developer ruling.
 
 Each is tagged **bend** (physics would have to give if the scene is shown as imagined) or **cost** (physics holds, but a

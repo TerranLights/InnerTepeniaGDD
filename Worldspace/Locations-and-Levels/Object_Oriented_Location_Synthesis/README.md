@@ -105,6 +105,7 @@ copied in, so the receiving repo is self-contained. The manifest is the copy lis
 | `02_Design_Brief.md` | the class declaration template, the slot taxonomy, the starting class list (non-exhaustive), the binding rules and the open questions |
 | `03_Pointer_Manifest.md` | every pointer, verified or not, and the copy list for handoff |
 | `04_Handwave_Register.md` | the enumerated handwaves (nanotech gel-brain consciousness is H-1). Anything not on it obeys known physics. |
+| `classes/` | class declarations, one file per class, drafted from the template in `02_Design_Brief.md` §1. `01_Robot-Only_Staging_Station.md` is the first (a test of the template). |
 | `research/` | the sourced physics data per body group, with search logs. `_BRIEF.md` is the shared research brief; `_inputs/` holds downloaded transcripts and other source material. |
 | `research/DEFERRED_RESEARCH.md` | searches to run again later, with what to try next. Separate from the shopping list. |
 | `research/SHOPPING_LIST.md` | sources the research agents could not open, grouped by who can get them. Anything obtained goes in `research/_inputs/`. |

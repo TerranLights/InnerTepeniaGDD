@@ -83,6 +83,14 @@ still carry the old values. Fix them at review, and cite the retry file.**
    - then, and only then, start filling class **invariants** in `02_Design_Brief.md` §1 (fields 4–7). **No figure enters a
      class that is not in a reviewed research file.**
 
+## Class drafting
+
+- **`classes/01_Robot-Only_Staging_Station.md`**: drafted 2026-10-11 as the first class (the developer chose it over the O'Neill Cylinder). **Figures are
+  carried from the research files and unreviewed.** It records the developer ruling **RL-1** (robots are radiation-vulnerable equivalently to
+  humans; a robot EVA suit is for radiation; stations are shielded to a human requirement) in `04_Handwave_Register.md`. §12 lists what it
+  taught about the template: add a "parameters" row for slots such as orbit, and `01`'s "Enclosed" does not fit an unpressurized shielded volume.
+- **Next class suggestions:** O'Neill Cylinder (stage 2), Von Braun Wheel (stage 3), Orbital transit route (Interstitial by era).
+
 ## What to do next, in order, once research is complete
 
 1. Review the three research files (above).
