@@ -217,3 +217,11 @@ UVIS plume paper (*Icarus* 2020).
 ## Status of the second tranche
 
 All five agents have reported; Batches 1–5 are in. New searches belong in a Batch 6 and later.
+
+---
+
+## Proposed research topics (not yet dispatched)
+
+| # | Topic | Raised | Notes |
+|--:|---|---|---|
+| P1 | **Waste-heat utilization in a vacuum habitat.** Can a station use the heat it must reject to drive other processes (heat pumps to raise radiator temperature, thermoelectric and organic Rankine conversion, endothermic chemistry, distillation and drying, thermochemical processes)? What the second law and real systems allow at low temperatures. | developer, 2026-10-11 | The developer asked Grok about this "several months ago" and believes the answer was pasted into a file. **Searched on 2026-10-11 and not found:** the only Grok conversation on orbital infrastructure (`to-be-integrated/Conversation with Grok - theoretical logistics for orbital infrastructure.rtf`; an identical copy is in CurrentNovelDocs) is the mass-budget discussion and has no heat content. Treat any Grok answer as an unverified lead; re-source from primary literature. Ask the developer to point to the file or re-paste it. |
