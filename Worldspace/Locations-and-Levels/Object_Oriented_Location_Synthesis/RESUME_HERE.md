@@ -39,6 +39,8 @@ Each prompt also let the agent read, read-only, the relevant sections of the fir
 
 **Still deferred:** group 3, the Cryptograph Helix timeline file (`03_Pointer_Manifest.md` §B).
 
+**Deferred research (developer, 2026-10-11):** `research/DEFERRED_RESEARCH.md` lists the searches to run again later, with "search next" leads. Batch 1 (the LEO gap-retry file) is entered. **When each of the other four agents reports, append its open threads there as the next batch.**
+
 **On resume, for each file:**
 1. Count what it holds against the brief's nine sections (Scope · SEARCH LOG · Findings · Conflicts · Derived · Constraints ·
    Candidate handwaves · Open threads · Rejected sources). A file with all nine and a closing line is **complete**.
