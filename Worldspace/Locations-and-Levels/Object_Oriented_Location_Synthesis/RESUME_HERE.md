@@ -25,6 +25,20 @@ as it goes, so a stopped agent leaves usable material. At 14:09 the files held 9
 | `research/mars_venus_and_transfer.md` | Mars, Venus, Earth–Mars and Earth–Venus transfer | `a5936119cee82df3e`: **✅ COMPLETE 2026-10-06 ~14:15** (456 lines, 111 logged rows, 19 dead ends, 22 conflicts). Its gaps: Venera 13 survival time (no primary), Mars temperature by latitude, and the Venus terraforming figures (known only through a preprint). Not yet reviewed by the orchestrator. |
 | `research/belt_jupiter_saturn_and_deep_transit.md` | Belt, Jupiter, Saturn, propulsion, power | `aefab0ec44b5074a5`: **✅ COMPLETE 2026-10-06 ~14:30** (553 lines, 110 logged rows, 14 dead ends). **Weakest figures:** the Europa 5.4 Sv/day and Callisto 0.01 rem/day doses rest on secondary summaries only. **Source errors the agent found:** a fact-sheet summary gave Enceladus gravity as 0.027 m/s² (correct is about 0.11); published belt-spacing figures do not reproduce from their own counts. Unopened: Wiley/Springer papers (Paranicas 2007 and 2009, Becker 2017, Bagenal and Dols 2020), the Europa Lander report, the Daedalus report, the NTRS HOPE PDF (read via a mirror). Not yet reviewed by the orchestrator. |
 
+**Second research tranche (dispatched 2026-10-10 ~23:35, same `_BRIEF.md`).** Developer: do the logged gaps (group 1) and
+the uncovered topics (group 2) now. The Cryptograph Helix timeline file (group 3) comes **later**. Same resume rules as below.
+Each prompt also let the agent read, read-only, the relevant sections of the first-tranche files.
+
+| File | Topic | Agent ID | State |
+|---|---|---|---|
+| `research/gap_retry_leo_human_machines_power.md` | retry: ISS data, radiation, debris, electronics, human health, launch cost, propulsion/power refs, Folta/Bailey | `aea64c079eb917f12` | ⏳ |
+| `research/gap_retry_mars_venus_jupiter.md` | retry: Mars climate/lava tubes/perchlorate/ice/windows/dose; Venus tables, Venera 13, cloud radiation; Jovian, Saturnian dose primaries | `a41a46fa84ff25729` | ⏳ |
+| `research/robot_body_in_space.md` | new: humanoid machine thermal, radiation, vacuum tribology, power, cold, reliability | `a29fe6df604e01b3f` | ⏳ |
+| `research/life_support_lowg_power_structures.md` | new: closed-loop life support, low-g biology, power and thermal at scale, structures, debris shielding, regolith | `af602675dcc830250` | ⏳ |
+| `research/moon_lagrange_and_comparables.md` | new: the Moon, mass drivers, Lagrange points, cislunar orbits; `[RW]` mechanism-only habitat comparables | `a81561c911f1e71b7` | ⏳ |
+
+**Still deferred:** group 3, the Cryptograph Helix timeline file (`03_Pointer_Manifest.md` §B).
+
 **On resume, for each file:**
 1. Count what it holds against the brief's nine sections (Scope · SEARCH LOG · Findings · Conflicts · Derived · Constraints ·
    Candidate handwaves · Open threads · Rejected sources). A file with all nine and a closing line is **complete**.
