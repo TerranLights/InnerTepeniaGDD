@@ -70,6 +70,25 @@ are engineering extrapolations, not violations of physics.
 | C-31 | **Mars gravity as good as Earth's for a lifetime** | unknown | No human or large-animal data at 0.38 g exist. |
 | C-32 | **A robot body immune to radiation** | bend | Electronics fail in total-dose terms (50–300 krad(Si) design values), well below the Europa lander's unshielded 1.7 Mrad(Si). Same limit as C-5. |
 
+**From `research/waste_heat_utilization.md` §7 (2026-10-11).** These are **claims a fiction might make about reusing heat, which the research does
+not support as stated.** None is accepted. Each says what would have to be true. (Origin: the developer's question of whether a station could reuse
+the heat it must reject.)
+
+| # | Claim | Tag | What the research says |
+|--:|---|---|---|
+| C-33 | **A station runs its machines on its own waste heat** | bend | Room-temperature heat has a Carnot factor of only 5–25 % against realistic radiators; real devices convert about 1–12 %; the engine's own radiator is more than twice the area of simply radiating the heat. Needs a hot source (reactor, concentrated solar) or an accepted loss. |
+| C-34 | **Endothermic chemistry cools the station** | cost | Only if the product is exported or stored out of the station; otherwise the heat returns when the product is used. The ISS electrolyzer releases about 66 % of its input as heat. |
+| C-35 | **Thermochemical splitting or solid-oxide electrolysis on loop waste heat** | bend (forbidden by temperature) | Needs 800–950 °C. |
+| C-36 | **Regolith ISRU on waste heat** | bend | The reactions run at 900–1,900 °C; at most about 4 % of an ilmenite plant's energy could come from a source below 100 °C. |
+| C-37 | **A heat pump removes the radiator problem** | bend | It cuts the radiator by a factor of at most 0.4–0.9 for the temperatures studied, adds up to 1.2 kW of heat per kW lifted; a lab heat pump with a 70 K lift gave a COP of 0.1–0.6. |
+| C-38 | **Phase-change walls or tanks store a lunar night cheaply** | cost | At system-level 48.8 kJ/kg the mass is about 26 t per kW over 354 h. |
+| C-39 | **Robots shed their heat into the station loop for reuse** | cost | The heat can be collected by cold plates, but it is below about 90 °C, mostly below 60 °C, tens to hundreds of watts per body; useful only for the low-grade uses (distillation, drying, melting ice). |
+| C-40 | **Absorption refrigeration or membrane distillation on 40–60 °C heat** | unverified | No opened primary source. |
+| C-41 | **Venting hot gas to dump process heat** | bend | Venting mass loses the closed-loop inventory; radiation is the only heat exit that keeps mass. |
+
+**Cross-reference.** C-1 and C-25 (shedding heat in vacuum) stand: the research confirms that every watt a settlement uses becomes a watt it must radiate,
+and that waste-heat reuse **does not remove the radiator**.
+
 **Note.** C-3, C-7 and C-8 bear directly on canon you have already ruled: robots wear clothing and coats and gloves, and have
 realistic skin where interaction happens. They do not contradict it. They say the fiction must pick a mechanism, such as
 a warmed pack or space-grade skin, for the clothed robot to be physical.

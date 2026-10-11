@@ -218,10 +218,36 @@ UVIS plume paper (*Icarus* 2020).
 
 All five agents have reported; Batches 1–5 are in. New searches belong in a Batch 6 and later.
 
+
 ---
 
-## Proposed research topics (not yet dispatched)
+## Batch 6: from `waste_heat_utilization.md` (441 lines; 52 searches; 11 dead ends)
+
+**Routes that failed:** NSF 1992 power-upgrade page (404) · NREL and Antarctic Sun (host not resolved) · PNAS site (403; PMC copy used) ·
+KIST (firewall) · maritime.edu (403) · ADS Ewert 1989 (405).
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Absorption chillers and membrane distillation on low-grade (40–60 °C) heat.** No primary opened; the one absorption concept read regenerates at up to 120 °C. | ASHRAE or DOE/ORNL absorption chiller fact sheets; membrane-distillation reviews; Ewert 1989, *J. Spacecraft and Rockets* 26:303 (title seen in a snippet only) |
+| 2 | **Kerrebrock's three-quarters rule** (derived, not sourced) | a space-power textbook (Angelo and Buden); Ewert 1989 |
+| 3 | **Polar-station heat recovery and ship / submarine heat reuse**, from primaries | NSF Office of Polar Programs environmental assessments for South Pole; Naval Ships' Technical Manual chapters on distilling plants |
+| 4 | **Fission surface power / Kilopower waste-heat reuse** for water or habitat heat | NASA FSP user interface requirements; Artemis base architecture papers; 1-ACT / NASA papers on Kilopower heat pipes and high-temperature water heat pipes |
+| 5 | **Energy per kg for molten regolith electrolysis**; carbothermal in flight-like form | Sibille et al. 2024 TFAWS; NTRS 20110008524; NTRS 20205007780 |
+| 6 | **Regolith ice-mining thermal energy** (NIAC Aqua Factorem; the search-summary numbers 800 kW and 2.4 kW are not used) | the opsjournal paper; NIAC pages |
+| 7 | **Heat of reaction of ilmenite hydrogen reduction** (only 294,000 J/kg, from an unopened reference) | compute from formation enthalpies of FeTiO₃ and TiO₂ |
+| 8 | **ASRG hot-end and cold-end temperatures** (only system efficiencies read) | |
+| 9 | **ISS cabin-level heat flows** (kW for the cabin air condensing heat exchanger; total internal heat collected); **measured ISS radiator temperatures and rejection** (not design capacity) | NTRS 20130000766; ICES 2024 ISS ECLSS presentation |
+| 10 | **Commercial humanoid thermal designs** (Digit, Optimus, Figure, Atlas electric) | patents; IEEE thermal papers on humanoid actuator cooling; the KIST cold-plate paper (firewalled) |
+| 11 | **Orbital-habitat reactor waste heat** (no orbital study found; the sibling file also found none) | |
+| 12 | **Mars heat-pump studies; 2020s Artemis heat-pump hardware** (only 1990s–2010s items) | |
+
+**Found and not read:** IAPWS-95 · Mainstream Engineering heat pump SBIR news · NTRS 20110008524 and 20130012503 · TFAWS 2024 ID-04 ·
+NTRS 20210026557 · Meier APM details · EPFL graph pages on thermochemical cycles · JAXA repository thermal control hits.
+
+---
+
+## Proposed research topics
 
 | # | Topic | Raised | Notes |
 |--:|---|---|---|
-| P1 | **DISPATCHED 2026-10-11** (agent `a9433a90b61d16123`, `research/waste_heat_utilization.md`). **Waste-heat utilization in a vacuum habitat.** Can a station use the heat it must reject to drive other processes (heat pumps to raise radiator temperature, thermoelectric and organic Rankine conversion, endothermic chemistry, distillation and drying, thermochemical processes)? What the second law and real systems allow at low temperatures. | developer, 2026-10-11 | The developer asked Grok about this "several months ago" and believes the answer was pasted into a file. **Searched on 2026-10-11 and not found:** the only Grok conversation on orbital infrastructure (`to-be-integrated/Conversation with Grok - theoretical logistics for orbital infrastructure.rtf`; an identical copy is in CurrentNovelDocs) is the mass-budget discussion and has no heat content. Treat any Grok answer as an unverified lead; re-source from primary literature. Ask the developer to point to the file or re-paste it. |
+| P1 | **DONE 2026-10-11** (`research/waste_heat_utilization.md`; open threads in Batch 6). **Waste-heat utilization in a vacuum habitat.** Can a station use the heat it must reject to drive other processes (heat pumps to raise radiator temperature, thermoelectric and organic Rankine conversion, endothermic chemistry, distillation and drying, thermochemical processes)? What the second law and real systems allow at low temperatures. | developer, 2026-10-11 | The developer asked Grok about this "several months ago" and believes the answer was pasted into a file. **Searched on 2026-10-11 and not found:** the only Grok conversation on orbital infrastructure (`to-be-integrated/Conversation with Grok - theoretical logistics for orbital infrastructure.rtf`; an identical copy is in CurrentNovelDocs) is the mass-budget discussion and has no heat content. Treat any Grok answer as an unverified lead; re-source from primary literature. Ask the developer to point to the file or re-paste it. |

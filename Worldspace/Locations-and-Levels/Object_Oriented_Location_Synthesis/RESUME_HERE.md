@@ -42,7 +42,7 @@ Each prompt also let the agent read, read-only, the relevant sections of the fir
 ## Third research dispatch
 
 **Waste-heat utilization** (developer, 2026-10-11: "see if there's anything that can be done by reusing heat exhaust"). Same `_BRIEF.md`.
-Agent `a9433a90b61d16123` → `research/waste_heat_utilization.md`. ⏳ Resume rules as above. When complete, enter its open threads in
+Agent `a9433a90b61d16123` → `research/waste_heat_utilization.md`. **✅ COMPLETE** (441 lines, 52 searches, 11 dead ends). Nine claims C-33…C-41 entered in the register; open threads are Batch 6 in the deferred list. Not yet reviewed. When complete, enter its open threads in
 `research/DEFERRED_RESEARCH.md` as the next batch, enter its candidate handwaves in the register, and check it against the radiator
 findings that C-1 and C-25 rest on. (Origin: the developer's Grok question, whose paste I could not find; see the deferred list, P1.)
 
