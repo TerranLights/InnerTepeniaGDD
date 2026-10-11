@@ -1,22 +1,27 @@
 # Robot body in space and other extreme environments: research file
 
-Created 2026-10-10. Real physics and engineering data only. No figure is from memory; every number below comes from a
-page opened in this session (see SEARCH LOG).
+Created 2026-10-10; completed 2026-10-11. Real physics and engineering data only. No figure is from memory; every number in
+the tables comes from a page opened in this session (see SEARCH LOG). Numbers I saw only in search summaries are not used; they
+are listed as leads under Open threads.
 
 ## 1. Scope
 
-The physical body of a human-shaped, human-sized machine (skin, clothing, gloves, gel brain waved per H-1 and not
+The physical body of a human-shaped, human-sized machine (skin, clothing, gloves; the gel brain is waved per H-1 and not
 covered here) in vacuum, in thermal extremes, under radiation, in dust, on low-gravity surfaces and over years of
 service. Covers thermal, radiation, vacuum materials, power, mechanics, cold, and reliability. Does not consider
 flight or any bending of physics.
+
+Environments the data speak to: low Earth orbit (ISS), Earth's trapped-radiation belts, the lunar surface and lunar night, the
+Mars surface, and the Antarctic plateau. Machines used as evidence: Valkyrie, Atlas, Robonaut and Robonaut 2, Canadarm2, the Mars
+Exploration Rovers, Curiosity, JPL's COLDArm, and Dartmouth's Cool Robot. Humanoid body masses in the sources run 90 to 136 kg.
 
 ## 2. SEARCH LOG
 
 (Appended as the work proceeds. Date of all entries: 2026-10-10 unless noted.)
 
 Method note: WebSearch returns summaries only. To get numbers I downloaded the PDF or page itself with curl, converted it
-to text with pdftotext, and read the passage. A number taken only from a search summary is marked "search summary only"
-and is never given high confidence. Marks: useful / thin / dead (died at query = the query could not find it; died at
+to text with pdftotext, and read the passage. A number seen only in a search summary is not used in the findings; it is listed
+as a lead under Open threads. Marks: useful / thin / dead (died at query = the query could not find it; died at
 sources = it was found but no primary source opened or the source was blocked).
 
 | # | Search string or page (verbatim) | Result | Mark |
@@ -72,7 +77,7 @@ sources = it was found but no primary source opened or the source was blocked).
 | 49 | `lunar dust abrasion seals joints Apollo lessons learned Gaier NASA TM-2005-213610 electrostatic adhesion` | Led to Gaier 2005 and Proctor and Dempsey | useful |
 | 50 | Page: Gaier, NASA/TM-2005-213610 "The Effects of Lunar Dust on EVA Systems During the Apollo Missions" | Apollo abrasion, seal and radiator dust effects | useful |
 | 51 | Page: Proctor and Dempsey, "Survey of Dust Issues for Lunar Seals and the RESOLVE Project" (NTRS 20080003835) | Downloaded; read below only if cited | see rows later |
-| 52 | `lunar night survival temperature -170 C radioisotope heater unit Chang'e Yutu rover thermal design survive lunar night paper` | News and ESA pages; no engineering paper | thin |
+| 52 | `lunar night survival temperature -170 C radioisotope heater unit Chang'e Yutu rover thermal design survive lunar night paper`; page ESA, "Surviving the long dark night of the Moon" (23 Mar 2017) | News pages and no engineering paper; the ESA page states lunar night temperatures "dip below -170 C" | thin (search) / useful (ESA page) |
 | 53 | `Mars Exploration Rover thermal design warm electronics box RHU heaters operating temperature -40 C Spirit Opportunity winter survival` | Led to SAE papers (paywalled) and TFAWS05 Tsuyuki (EDL only) | thin |
 | 54 | `lithium-ion battery low temperature performance NASA capacity at -20 C -40 C percent of room temperature discharge study` | Led to JPL poster R20129p and NTRS 20000056605 | useful |
 | 55 | Pages: JPL R&TD poster R20129p (Smart et al., FY21); NTRS 20000056605 (Huang et al., JPL, Li-ion low-temperature cells) | Cell specific energy at -40 C; cathode capacity vs temperature | useful |
@@ -131,9 +136,8 @@ sources = it was found but no primary source opened or the source was blocked).
 | 108 | `Agility Robotics Digit V4 specifications sheet ...` | Secondary only (automate.org: Digit 5 90 min, 9 min recharge) | thin (secondary; lead) |
 | 109 | `NASA Mars fact sheet ...`, Mars TSI search, and Opportunity dust-storm NTRS 20190028687 | The NTRS paper is about dust abrasion on solar cells, not the storm; storm power figures remain press-only | thin / dead (sources) |
 
-Count at the time of writing: 109 numbered log rows (searches and page openings, some rows combine a search with the page it led to). Dead ends:
-rows 1, 3, 14 (partly), 28 (partly), 30, 33, 38, 45, 46, 47, 72, 74 (DTIC part), 90, 92, 94, 104, 109 (partly) = 16 dead
-or partly dead rows.
+Count at the time of writing: 109 numbered log rows (searches and page openings, some rows combine a search with the page it led to). Dead or partly dead rows (17): 1, 3, 14, 28, 30, 33, 38, 45, 46, 47, 72, 74, 90, 92, 94, 104, 109. Thin rows (found
+something weak or secondary only) are marked in the log and are not counted as dead.
 
 ## 3. Findings
 
@@ -231,9 +235,9 @@ convert between them.
 |---|---|---|---|---|---|
 | Stefan-Boltzmann constant | 5.670 374 419 x 10^-8 W m^-2 K^-4 | S17 | Primary | search summaries of CODATA 2018/2022 agree | High |
 | Solar irradiance at 1 AU | nominal TSI 1361 W m^-2 | S18; S19 and S20 list 1361.0 | Primary | S19, S20 | High |
-| Mars solar irradiance (top of atmosphere, mean) | 586.2 W m^-2 | S19 | Primary | none found for surface irradiance | High for the top-of-atmosphere value; surface value not found |
+| Mars solar irradiance | 586.2 W m^-2 (the fact sheet's "solar irradiance" entry, taken to be at the planet's mean orbital distance and above the atmosphere) | S19 | Primary | none found for surface irradiance | High for the entry as printed; surface value not found |
 | Mars surface pressure; diurnal temperature | 6.36 mb at mean radius (varies 4.0 to 8.7 mb); Viking 1 site 184 K to 242 K (-89 to -31 C) | S19 | Primary | none found | High |
-| Moon equatorial diurnal temperature; sidereal rotation; synodic period | 95 K to 390 K; 655.72 h; 29.53 d | S20 | Primary | S26 and ESA page give "-170 C" lunar night | High |
+| Moon equatorial diurnal temperature; sidereal rotation; synodic period | 95 K to 390 K; 655.72 h; 29.53 d | S20 | Primary | S56 gives "below -170 C" for lunar night | High |
 | Lunar surface pressure at night | 3 x 10^-15 bar | S20 | Primary | none found | High |
 | White paint Z93 | solar absorptance 0.16, normal emittance 0.92 | S14 (Table 4.2) | Primary | derived use below | High |
 | Black paint Z306 | 0.96 / 0.91 | S14 (Table 4.1) | Primary | none found | High |
@@ -367,17 +371,17 @@ confidence high that the numbers are as printed, medium that they transfer to a 
 |---|---|---|---|---|---|
 | Motor torque density (rotor-stator, no gearbox) | custom MIT Cheetah motor saturation torque density about 27 N m/kg versus 9 N m/kg for a catalog frameless motor (Emoteq HT-5001); catalog torque density scales roughly as gap radius^0.8 | S28 | Primary | | High |
 | Gear efficiency, new | harmonic drive 80 to 90 percent in vacuum at +90 C; 100:1 planetary 90 percent | S21; S29 | Primary | | High |
-| Walk-run transition | in normal and reduced gravity humans switch gait at a Froude number (v^2/(g L)) of about 0.5; suited Apollo lunar gait events gave Fr* = 0.358 +/- 0.057 (Apollo number Ap* = 0.684 +/- 0.102); unsuited transition expected near 0.9 in lunar gravity | S44; S43 | Primary | | Medium (human data; a machine's gait is not bound by it, but dynamic similarity is) |
+| Walk-run transition | humans switch gait at a Froude number (v^2/(g L)) of about 0.5 (S44 says this holds in reduced gravity; S43 expects about 0.9 for unsuited walkers in lunar gravity, see Conflicts 9); suited Apollo lunar gait events gave Fr* = 0.358 +/- 0.057 (Apollo number Ap* = 0.684 +/- 0.102) | S44; S43 | Primary | | Medium (human data; a machine's gait is not bound by it, but dynamic similarity is) |
 | Surface gravity | Moon 1.62 m/s2; Mars 3.73 m/s2 (mean) | S20; S19 | Primary | | High |
 | Microgravity translation | R2 translates on IVA handrails and seat tracks, which "have load and moment limits that R2 must remain below"; the climbing legs have no electromagnetic brakes, so joint motors hold position | S5 | Primary | | High |
-| EVA suit mass | Enhanced suit assembly with two arms and two gloves 143.73 lb (65.2 kg, conv.); life-support subsystem 196.7 lb (89.2 kg, conv.), with PLSS 101.4 lb; operating 4.3 psid | S42 (Sec. 1.5.3, Fig. 1.10) | Primary | | High |
-| Pressurized glove strength | Phase VI glove at 4.3 psi, 8 subjects: grip 58 percent of bare-hand without the thermal micrometeoroid garment, 46 percent with it (66 and 55 percent unpressurized); lateral pinch 83 to 86 percent; the garment adds stiffness | S41 | Primary | S45 (gloves reduce tactility even unpressurized) | High (small sample) |
+| EVA suit mass | Enhanced suit assembly with two arms and two gloves 143.73 lb (65.2 kg, conv.); life-support subsystem 196.7 lb (89.2 kg, conv.), of which the primary life-support pack (PLSS) is 101.4 lb; operating 4.3 psid | S42 (Sec. 1.5.3, Fig. 1.10) | Primary | | High |
+| Pressurized glove strength | Phase VI glove at 4.3 psi, 8 subjects: grip 58 percent of bare-hand without the thermal micrometeoroid garment, 46 percent with it (66 and 55 percent unpressurized); lateral pinch 83 to 86 percent | S41 | Primary | S45 (gloves reduce tactility even unpressurized) | High (small sample) |
 
 ### 3.F Cold (additional rows; see also 3.A4)
 
 | Quantity | Value and units | Source | Primary or secondary | Cross-check | Confidence |
 |---|---|---|---|---|---|
-| Lunar night | temperatures "dip below -170 C"; the equatorial range is 95 K to 390 K | S56; S20 | Primary | S26 | High |
+| Lunar night | temperatures "dip below -170 C"; the equatorial range is 95 K to 390 K | S56; S20 | Primary | each other | High |
 | Mars rover thermal design | The rovers' Warm Electronics Box (batteries, computer) must stay within -40 to +40 C; gold-painted insulated walls, silica aerogel, thermostat and heaters, and a heat-rejection system protect it from a daily temperature swing of 113 C | S29 (description of the Mars rovers) | Primary (secondary description of MER) | S19 (diurnal range) | Medium |
 | Spirit, loss of survival heat | "With inadequate energy to run its survival heaters, the rover likely experienced colder internal temperatures last year than in any of its prior six years on Mars. Many critical components and connections would have been susceptible to damage from the cold." Reported internal temperature likely about -67 F | S46 (quote); S47 (the -67 F figure) | Primary / secondary | | High for the loss mechanism; medium for the number |
 | Antarctic design point | A 90 kg robot designed for -40 C ambient (South Pole summer average -20 to -40 C), with an insulated cold-room test of the drive train | S29 | Primary | S31 | Medium |
@@ -394,3 +398,353 @@ confidence high that the numbers are as printed, medium that they transfer to a 
 | Robonaut 2 | On ISS from 2011; returned Feb 2018; cause of the failure was a missing return wire for the computer-chassis power, so current used an undersized path and a backpack connector overheated and opened; the fault was in the original design and only appeared when higher-power processors were added; six crew members, 10 sessions of troubleshooting; "very difficult to repair on-orbit" | S50 | Primary | | High |
 | Dextre | design life and service history | not obtained from a primary source | n/a | | n/a (see Open threads) |
 | Fluid-lubricated gear life | about 75,000 output revolutions in vacuum at 10 percent of rated torque before efficiency fell to 40 percent | S21 | Primary | | High for the test |
+
+## 4. Conflicts
+
+1. **Valkyrie mass and battery energy.** S1 (NASA JSC slides, Feb 2014): 125 kg and "2 KWhr" battery. S2 (NASA R5 page, 2023
+   fact sheet era): 300 lb (136 kg) and 1.8 kWh. Likely cause: S1 describes the first-generation robot built for the 2013
+   robotics challenge; S2 describes the later R5 configuration. I use S2 for derived figures and show S1 in the tables.
+2. **Silicone thermal conductivity.** S51 (data sheet I opened) prints 0.2 W/m K for Sylgard 184. Search summaries quoted 0.27
+   W/m K from other documents I did not open. Likely cause: different data-sheet revisions or measurement methods. I use 0.2
+   (opened). The skin-resistance result below changes by less than 2 percentage points between the two.
+3. **How much capacity a Li-ion cell keeps in the cold.** S38 (cathode half cell, about 2000): 70 percent at -20 C, 46 percent
+   at -40 C. S34 (commercial 18650 full cell, below 0.1 C): 66 percent at -20 C, 5 percent at -40 C. S30 (flight large-format
+   cell at C/5): 105 Wh/kg at -40 C, against 180 to 230 Wh/kg ambient for small-format cells. These do not contradict: they
+   measure a half cell vs a full cell, different electrolytes, and different rates. For a humanoid pack, the full-cell,
+   commercial-cell figure (S34) is the relevant one unless a cold electrolyte is specified.
+4. **Cold-survival of COTS electronics.** S7 says "most" commercial parts tolerate 5 krad but also that under 30 krad commercial
+   parts can "probably" be used. These are consistent only because tolerance is lot-dependent (S7 says so). I treat 5 krad as the
+   untested floor and 20 to 30 krad as the best case for a tested lot.
+5. **Lunar night temperature.** S56 says "below -170 C"; S20 says the equatorial minimum is 95 K (-178 C). Likely cause: S56 is
+   a round figure for typical night; S20 is the equatorial extreme. Permanently shadowed craters are colder and I did not
+   find a figure.
+6. **Dose units.** S10 uses rads(C) (dose to carbon), S7 and S8 use krad(Si) (dose to silicon), S9 uses kGy (1 Gy = 100 rad). I
+   did not convert between krad(Si) and rads(C). The conversion between rad and Gy is exact; the Si/C difference is a few
+   percent for photons but I did not verify it for belt electrons, so polymer thresholds (S10) and electronics thresholds (S7,
+   S8) are compared only to an order of magnitude.
+7. **Robonaut 2 battery arithmetic.** S5 states about 5.79 kWh for 300 cells; 300 cells x 3.6 V x 5.3 Ah (the "5300" in the cell
+   name, an assumed nominal rating) gives 5.72 kWh. The 1.2 percent difference is within the uncertainty of the assumed
+   nominal voltage. I quote S5.
+8. **Spirit's final temperature.** S46 (JPL) gives no number, only "colder than any of the prior six years". S47 (a news
+   report of NASA's statement) gives -67 F. I mark that figure secondary.
+9. **Walk-run Froude number in reduced gravity.** S44 states the transition occurs at a Froude number of about 0.5 "even in reduced
+   gravity environments". S43 hypothesizes that for unsuited walkers the value rises to about 0.9 in lunar gravity, and measures 0.358 +/- 0.057
+   for suited Apollo astronauts. Likely cause: different methods of simulating reduced gravity (harness unloading vs. other apparatus) and
+   a suit effect. I carry 0.5, 0.9 and 0.358 as a range in D12.
+
+## 5. Derived figures
+
+All arithmetic below uses figures from section 3 and the stated assumptions. Assumptions are my own choices and are marked
+"(assumed)". Results are bounds or order-of-magnitude checks, not predictions.
+
+**D1. Radiated flux of a gray surface to cold space (no environment).** q = epsilon x sigma x T^4, sigma = 5.670374419e-8 W
+m^-2 K^-4 (S17).
+- T = 300 K: sigma T^4 = 5.670374419e-8 x 8.1e9 = 459.3 W/m2. With epsilon = 0.9: 413 W/m2.
+- T = 320 K: 0.9 x 5.670374419e-8 x (320^4 = 1.0486e10) = 535 W/m2. T = 340 K: 682 W/m2. T = 360 K: 857 W/m2.
+- A low-emittance surface (epsilon 0.05) at 300 K radiates 23 W/m2; at 0.02, 9.2 W/m2.
+- Basis: the surface sees only cold space; real surfaces also absorb sunlight, planetary infrared and each other.
+
+**D2. Ceiling on heat a human-sized skin can reject.** Body surface area by the DuBois formula in S45: 71.84 x W^0.423 x H^0.723.
+- Valkyrie size (136.08 kg, 188 cm): 71.84 x 136.08^0.423 x 188^0.723 = 25,303 cm2 = 2.53 m2.
+- Atlas size (90 kg, 190 cm; S4): 2.14 m2.
+- Ceiling with every square meter seeing cold space (a view factor of 1, not possible for a body whose limbs see each other and
+  the torso) and epsilon 0.9: Valkyrie size 1,046 W at 300 K and 1,354 W at 320 K; Atlas size 885 W and 1,146 W.
+- Compare: S2 says a 1.8 kWh pack runs Valkyrie for "about an hour", an implied average of up to 1.8 kW if the pack is fully
+  used in that hour (basis: the run condition is not stated). That would exceed the Valkyrie-size ceiling at 320 K skin
+  temperature.
+- Compare: S42 designs a suited human for 293 W average and 586 W peak, and uses a water sublimator to reject it.
+
+**D3. Equilibrium temperature of a sunlit, unpowered standing cylinder.** T = (alpha x S / (pi x epsilon x sigma))^(1/4), S = 1361
+W/m2 (S18). Assumptions: a cylinder whose total lateral area is pi times its projected area, uniform temperature, no
+planetary infrared, albedo or ground (so this is open space or a lunar surface with the body held clear of the ground).
+| alpha / epsilon (source) | Equilibrium temperature |
+|---|---|
+| 0.16 / 0.92, white paint Z93 (S14) | 191 K (-82 C) |
+| 0.18 / 0.84 (S15 optical ratio 1) | 201 K (-72 C) |
+| 0.66 / 0.74 (S15 optical ratio 2) | 287 K (+14 C) |
+| 0.96 / 0.91, black paint Z306 (S14) | 300 K (+26 C) |
+| 0.9 / 0.9 (a dark surface, assumed) | 296 K (+22 C) |
+| 0.45 / 0.12 (S15 optical ratio 3) | 411 K (+138 C) |
+- Cross-check: S15's passive cube in low Earth orbit, ratio 1, orbit-average -31 to +7 C is warmer than 201 K because low Earth
+  orbit adds planetary infrared (241 W/m2, conv., S15) and albedo; the direction is right. Lunar noon blackbody:
+  (1361 / 5.670374419e-8)^(1/4) = 394 K, against 390 K in S20.
+- Meaning: a dark-clothed human-shaped body in full sun at 1 AU, with no internal power, already sits near room temperature.
+  Every watt the body itself dissipates raises it above that.
+
+**D4. Sunlight absorbed.** With a projected area of 0.54 m2 (assumed: 0.3 m wide x 1.8 m tall): 0.16 x 1361 x 0.54 = 118 W; 0.3 x
+1361 x 0.54 = 220 W; 0.9 x 1361 x 0.54 = 661 W.
+
+**D5. Heat loss in the dark (lunar night), and the energy it costs.** Lateral area of the cylinder = pi x 0.3 m x 1.8 m = 1.70 m2
+(assumed dimensions), body at 300 K, sink near 0 K (the 95 K ground adds less than 1 percent: 696 W vs 703 W).
+- Bare surface, epsilon 0.9: 413 W/m2 x 1.70 = 703 W.
+- Effective emittance implied by S54's blankets: epsilon_eff = q / (sigma x (293^4 - 78^4)) with q = 0.294 to 0.411 W/m2 (best
+  listed entries) gives 7.1e-4 to 9.9e-4; the poorest entries, q = 2.681 and 5.813 W/m2, give 6.4e-3 and 1.4e-2. Applied to
+  the same 1.70 m2 at 300 K: 0.55 W to 0.77 W (best), 5.0 W and 10.9 W (poorest entries). These are laboratory-style blankets in vacuum
+  at 2e-6 Torr with no joints or seams; a body that must bend has joints.
+- Energy over one lunar night. Night length is taken as half the synodic period: 29.53 d / 2 x 24 h = 354.4 h (S20; an
+  equatorial approximation). A bare body: 703 W x 354.4 h = 249 kWh. A body at an assumed 15 W (a number I chose to show the
+  scale; it lies between the best and poorest S54-derived values and a seam-affected blanket): 15 W x 354.4 h = 5.3 kWh.
+  The S54 poorest entry, 10.9 W: 3.9 kWh.
+- Compare: Valkyrie's pack 1.8 kWh lasts 1,800 Wh / 703 W = 2.6 h bare; the Robonaut 2 Batpack, 5.79 kWh, lasts 8.2 h bare.
+
+**D6. Radiator area and mass from ISS flight hardware.** The Photovoltaic Radiator rejects 14 kW (S16). Emitting area, assuming both
+faces of 7 panels count: 2 x 3.12 m x 13.6 m = 84.9 m2 (the two-face assumption is mine; the source gives the folded
+dimensions).
+- 14,000 W / 84.9 m2 = 165 W per m2 of emitting surface. Mass 740.7 kg / 84.9 m2 = 8.7 kg/m2, or 52.9 kg per kW rejected.
+- Cross-check: epsilon 0.9 at 270 K gives 271 W/m2 before absorbed environment; 165 W/m2 net is consistent.
+- Applied to loads, at ISS-radiator performance and mass: 293 W (S42 average): 1.8 m2 and 15.5 kg. 586 W (S42 peak): 3.6 m2 and 31 kg.
+  1,000 W: 6.1 m2 and 53 kg. 1,800 W: 10.9 m2 and 95 kg.
+- Meaning: at ISS radiator performance, a 1.8 kW load needs 4.3 times the entire skin area of a Valkyrie-size body.
+
+**D7. Solar charging area.** A = P / (eta x flux), then divided by an assumed 0.85 packing factor.
+| Case (500 W continuous electrical charge) | Cell efficiency | Area, no packing | Area with 0.85 packing |
+|---|---|---|---|
+| 1 AU, 1361 W/m2 (S18); triple-junction (S33, "over 32 percent") | 0.32 | 1.15 m2 | 1.35 m2 |
+| 1 AU; 20 percent silicon (S33, S29) | 0.20 | 1.84 m2 | 2.16 m2 |
+| Mars top of atmosphere, 586.2 W/m2 (S19) | 0.32 | 2.67 m2 | 3.14 m2 |
+| Mars top of atmosphere | 0.20 | 4.26 m2 | 5.02 m2 |
+| Antarctic vertical panel, 1000 W/m2 (S29) | 0.32 | 1.56 m2 | 1.84 m2 |
+| Antarctic vertical panel | 0.20 | 2.50 m2 | 2.94 m2 |
+- A body covered in cells over its whole projected area (0.54 m2, assumed) and facing the Sun makes at most 0.54 x 0.32 x 1361 =
+  235 W at 1 AU, 101 W at Mars top-of-atmosphere flux, and 173 W with a 1000 W/m2 Antarctic panel (0.32 efficient) or 108 W at 0.20.
+  To recharge 1.8 kWh at 235 W takes 7.7 h of full sun. The Mars figures are top-of-atmosphere flux, so surface values are lower;
+  I found no surface irradiance source (see Open threads).
+- Cells convert about 32 percent; the other 68 percent is heat that the body must also reject.
+
+**D8. Joint revolution budget (fluid-lubricated harmonic drive, S21).** The test stopped near 12 x 10^6 input revolutions at 160:1: 12e6 /
+160 = 75,000 output revolutions (efficiency 40 percent). The high-efficiency period (80 to 90 percent) was the first 5e6 input
+revolutions: 5e6 / 160 = 31,250 output revolutions.
+- Duty assumed: a knee-like joint that moves 60 degrees each way once per second: 120 degrees = 0.333 revolutions per second
+  of walking, or 1,200 revolutions per hour of walking.
+- 31,250 / 1,200 = 26 h and 75,000 / 1,200 = 62.5 h of continuous walking.
+- Basis and limits: the test ran at 4 N m, 10 percent of the 40 N m rating, at +90 C, high vacuum; heavier load or a
+  different gear type changes the result. The 40 percent efficiency failure criterion is the authors' choice; a body that
+  needs backdrivability or positioning accuracy may fail earlier.
+
+**D9. Shield mass for belt crossings (S8 tables; areal density = g/cm2 in the table x 10 = kg/m2).**
+- For the 10-month spiral to stay below about 20 krad (the best-case COTS tolerance in S7), 250 mil of aluminum is needed (12.4 krad):
+  1.714 g/cm2 = 17.1 kg/m2. For 5 krad (the S7 "most parts" figure), 300 mil (5.34 krad, 2.06 g/cm2 = 20.6 kg/m2) is about right.
+- Applied to a 0.2 m cube of electronics (0.24 m2 surface, assumed): 4.1 kg at 250 mil, 4.9 kg at 300 mil. Applied to the whole
+  1.70 m2 body surface: 29 kg and 35 kg.
+- For distributed electronics: 44 controllers (S1), each assumed 0.1 m on a side (0.06 m2): 1.03 kg of aluminum each, 45 kg in
+  total at 250 mil, before computers.
+- For a direct Earth-to-Moon transfer (3 to 6 days, S8) 5 krad lies between 25 mil (0.63 mm, 5.76 krad) and 50 mil (1.27 mm, 2.29 krad) of
+  aluminum: at 50 mil that is 3.4 kg/m2, or 0.8 kg for the 0.24 m2 box.
+- Per crossing: GTO phase 1 behind 100 mil gives 1.04 krad per revolution (about 5 revolutions to 5 krad); behind 200 mil, 0.0739 krad per
+  revolution (68 revolutions to 5 krad, 271 to 20 krad); phase 3 behind 100 mil gives 0.391 krad per revolution (13 to 5 krad).
+- Basis: S8 uses a solid sphere around the target; a box or a distributed set of boards differs, and S7 warns of diminishing return
+  above about 5 mm.
+
+**D10. Wireless power at a distance.**
+- Magnetic resonance (S39): useful range up to 8 coil radii. For a body-sized coil of radius 0.2 m (assumed) that is 1.6 m; at 40 percent
+  efficiency, delivering 60 W requires 60 / 0.4 = 150 W drawn, so 90 W is dissipated in the transmitter and receiver.
+- Microwave (S40): tau = sqrt(A_t x A_r) / (lambda x R). With the SPS design value tau = 1.734 and the 2.45 GHz wavelength S40 used
+  (12.236 cm), A_t x A_r = (1.734 x 0.12236 x R)^2. For a body-mounted receiving area A_r = 0.3 m2 (assumed): R = 3 m needs A_t = 1.35 m2;
+  R = 10 m needs 15 m2; R = 30 m needs 135 m2. At 5.8 GHz (lambda 5.17 cm; a frequency I chose, not from S40) the same
+  tau needs 0.24, 2.7 and 24 m2.
+- Every watt received and not converted is also body heat: rectification is not 100 percent efficient (no figure found).
+
+**D11. Walking power from cost of transport (S55 simulated values; joint power only).** P = COT x m x g x v.
+- 90 kg (Atlas mass) at 1.4 m/s: COT 0.718 gives 887 W, 0.762 gives 942 W. 136 kg (Valkyrie mass) at 1.4 m/s: 1,341 W and 1,423 W.
+- At 1.0 m/s: 634 W to 673 W (90 kg) and 958 W to 1,017 W (136 kg).
+- g = 9.81 m/s2 (S19 prints 9.82 and S20 prints 9.80 for Earth; the difference is under 0.3 percent).
+- Basis: S55's values are for 31 kg and 47 kg robots in simulation; they exclude compute, sensors and standing losses. They are an order-of-
+  magnitude check and not a measured humanoid figure.
+- Energy conservation (basis, not a number from a source): in level steady walking the net mechanical work per stride is near zero, so
+  nearly all electrical energy consumed becomes heat unless a regenerative path stores it; S3 shows this for standing balance, where
+  there is no external work but actuators still heat.
+
+**D12. Gait transition speed with gravity.** v = sqrt(Fr x g x L) with leg length L = 0.9 m (assumed). Fr = 0.5 (S44): Earth 2.10 m/s,
+Mars 1.30 m/s, Moon 0.85 m/s. Fr = 0.358 (suited Apollo gait, S43): Earth 1.78 m/s, Mars 1.10 m/s, Moon 0.72 m/s. Fr = 0.9 (S43's expected unsuited value in lunar gravity): Moon 1.15 m/s. Gravity ratios from S19
+and S20: Moon 0.165, Mars 0.380 of Earth.
+
+**D13. Skin versus radiation film.** 3 mm silicone (assumed), k = 0.2 W/m K (S51): R_skin = 0.003 / 0.2 = 0.015 m2 K/W. Radiative film
+coefficient at 300 K, epsilon 0.9: h_r = 4 x 0.9 x sigma x T^3 = 5.51 W/m2 K, R_rad = 0.181 m2 K/W. The skin is 7.6 percent of
+the series resistance at 300 K (5.9 percent at 273 K, 9.1 percent at 320 K). With k = 0.27, R_skin = 0.011 and the share is 5.8 percent. The
+limit is the emitting surface, not the skin thickness.
+
+**D14. Water at the Mars surface.** Mars mean pressure 6.36 mb = 636 Pa (S19). Triple-point pressure of water 611.657 Pa (S52).
+Ratio 1.04. Over the seasonal range 4.0 to 8.7 mb (400 to 870 Pa) the ratio is 0.65 to 1.42.
+
+**D15. EMU mass.** Enhanced suit assembly with two arms and two gloves 143.73 lb + life-support subsystem with a METOX CO2 canister and a
+2000-series battery 196.7 lb = 340.4 lb = 154 kg (S42, Fig. 1.10). This is one configuration; the figure lists the service-and-cooling
+umbilical (15.7 lb) and the airlock adapter plate (20.5 lb) separately and they are not in the sum.
+
+## 6. Constraints for any inhabitant
+
+Every item below is a bound a designer cannot cross, tied to a finding. Items marked "(inference)" combine two findings; the
+rest restate one.
+
+**Thermal**
+- Vacuum rejects heat only by radiation (physics; D1). A surface at 300 K with epsilon 0.9 sheds 413 W/m2 at most; a Valkyrie-size body
+  (2.53 m2) sheds no more than 1,046 W at 300 K or 1,354 W at 320 K (D1, D2; S17, S45). A heat load above that raises the temperature until a
+  limit trips.
+- The best-known actuator thermal behavior is that a balancing humanoid heats its leg actuators past a 75 C warning limit in under two minutes
+  and must then rest about a minute, in air at 25 C (S3). In vacuum there is no air cooling; the body must also reject through
+  radiation (inference from S3 and D1).
+- A sunlit unpowered cylinder-shaped body at 1 AU settles at 191 K to 300 K (white to black surface), and higher with a low-emittance coating
+  (D3; S14, S15, S18). Skin and clothing optical properties set the body's temperature as much as its own power does.
+- Working humanoid temperature limits that are published: Valkyrie actuators 90 C maximum (S3); Atlas -20 to +40 C operating (S4); typical
+  ISS spares lower limit -40 C (S15); Li-ion cells -20 to +60 C operating, +20 to +40 C optimum (S33, S36). These do not cover lunar night
+  (-170 C, S56), Mars night (-89 C, S19) or low Earth orbit shade without added heat or insulation.
+- A silicone-class skin is rated -45 to +200 C and has a large expansion coefficient, 310 ppm/C (S51). Below about -45 C it is outside its stated
+  service range.
+- Insulation of the vacuum-MLI kind works only in vacuum; in air it behaves as a stagnant gas pocket and its published performance does not hold
+  (S54). A body that lives in air and in vacuum cannot rely on one insulation layer for both (inference).
+- Surviving a lunar night with a body at room temperature costs energy: a bare body loses 703 W (D5), which exhausts a 1.8 kWh pack in 2.6 h;
+  with a blanket-grade insulating layer the loss is 0.6 W to 11 W (laboratory-derived from S54), which is 0.2 to 3.9 kWh over a night
+  (D5). No source gives the performance of such insulation on a flexing body.
+- Sunlight absorbed by a body is large against its own electrical power: 118 to 661 W for 0.54 m2 (D4; S14, S18).
+
+**Radiation**
+- Untested commercial electronics fail somewhere between under 1 krad and 20 krad or more; lots vary (S7). A tested lot is plausibly good to 20 to 30
+  krad (S7). Hardened parts are rated 100 krad to above 1 Mrad (S7); NASA's next flight computer is specified at 200 krad (S11).
+- Hardened processors are far slower and more expensive than commercial ones; the RAD750 is 133 to 166 MHz, about 300 MIPS, and over $200,000 (S12).
+  Commercial parts used in a robot of Valkyrie's class run 3 Core i7 computers (S1). The two cannot be swapped without a large performance loss
+  (inference).
+- Crossing the Earth's trapped-radiation belts costs between about 0.0006 krad (900 mil of aluminum) and 128 krad (1 mil) for a one-way direct
+  transfer; a long belt spiral costs 5.34 krad at 300 mil and 545 krad at 100 mil (S8). Repeated crossings add: a body that crosses an elliptical
+  belt orbit 270 times behind 200 mil absorbs 20 krad (D9).
+- Shielding returns diminish beyond about 5 mm of aluminum (S7) and cost 17 to 21 kg/m2 at the thicknesses that matter (D9). A body whose
+  electronics are spread through its limbs (44 controllers, S1) cannot be protected by one central shield (inference from S1, S7, D9).
+- Soft skin outlasts the electronics: silicone rubber insulation shows no noticeable change at 8.8 x 10^5 rads (880 krad) and serious damage at
+  8.8 x 10^7 rads (S10). Against the 5 to 30 krad commercial-electronics figures in S7 that is 29 to 176 times the no-change dose and
+  2,900 to 17,600 times the serious-damage dose. PTFE is much weaker: damage starts near 1.7 x 10^4
+  rads (S10). PFPE lubricants degrade under X-rays (S13).
+- Li-ion cells do not set the radiation limit: lithium-metal cells given 20 kGy kept 57.7 to 70.3 percent of capacity after 350 cycles against 76.6 to
+  94.2 percent for controls (S9), with the electrolyte the weak point.
+
+**Vacuum and materials**
+- Every non-metal inside a habitat or flown outside is screened for outgassing (at most 1.0 percent mass loss, 0.10 percent condensable at 125 C, 24 h,
+  S24) and flammability (S5). Silicones of space grade pass (S25); an arbitrary skin or fabric is not guaranteed to.
+- Clean metal surfaces cold-weld: a clean surface recontaminates in seconds at 10^-6 torr and under 10^-8 s at one atmosphere (S23). Bare same-metal
+  sliding joints in vacuum are a design hazard (inference from S23).
+- Fluid-lubricated precision gears in vacuum last on the order of 31,000 to 75,000 output revolutions before efficiency drops (S21), which at one
+  knee-like cycle per second is 26 to 62 hours of walking (D8). PFPE lubricants in steel contacts can fail abruptly (S22).
+- Dry lubricant (MoS2) works well in vacuum and poorly in humid air (S22). A body that goes between humid habitat air and vacuum meets both.
+- Dust: lunar dust wore an Apollo suit through its outer layer in 8 hours of use, seals leaked at 0.15 to 0.25 psi/min against a 0.30 psi/min limit,
+  and a 10 psi nitrogen jet removed almost none of the fine dust (S26). Dust on radiating surfaces doubled absorptance at 11 percent coverage (S26).
+- Water-bearing layers: the vapor pressure of water at 273.16 K is 611.657 Pa (S52). That is about Mars's mean surface pressure (636 Pa, range 400
+  to 870 Pa, S19) and far above the Moon's (3 x 10^-15 bar, S20); liquid water in an exposed layer evaporates or freezes unless contained
+  (inference from S52, S19, S20).
+
+**Power**
+- Cell-level specific energy is 182 to 264 Wh/kg for Li-ion (S33). A 1.8 kWh pack needs at least 6.8 kg of cells at 264 Wh/kg (1,800 / 264) and 7.4
+  kg at 243 Wh/kg, before packaging.
+- Li-ion cells lose most of their energy in the cold (5 percent left at -40 C at a slow rate for a commercial 18650, S34), plate lithium irreversibly
+  when cycled at -20 C (S35), and are qualified for charging only above -10 C on Mars missions (S36).
+- Body-mounted solar cells at 1 AU yield at most about 235 W on 0.54 m2 (D7). Recharging a pack from the body alone takes hours and is useless in
+  shade; on Mars top-of-atmosphere flux the same area yields about 101 W.
+- Wireless charging by magnetic coupling reaches only a few coil radii (S39), and by microwave needs transmitting aperture on the order of square
+  meters at tens of meters (D10; S40). Neither is free of heating (D10).
+
+**Mechanical and surface**
+- Torque density of the best published frameless motor is about 27 N m/kg (S28); catalog motors are about 9 N m/kg. Gear efficiency starts at 80 to 90
+  percent (S21), so a standing, balancing body dissipates the rest as heat (S3).
+- Walk-run transition speed scales with the square root of gravity (S43, S44): a 0.9 m leg gives 0.85 m/s on the Moon and 1.30 m/s on Mars (D12).
+- A pressurized suit glove leaves 46 to 58 percent of bare-hand grip (S41); an EMU weighs about 154 kg in one configuration (S42). A robot that
+  wears a pressure garment inherits these costs; a robot that does not must put every part of itself through vacuum (inference).
+- In microgravity translation is by handrails whose load and moment limits cap the force a body may apply (S5).
+
+**Lifetime**
+- Long-duration machines fail mostly at wheels, joints, motors and power distribution, and are fixed by replacement or by changing how they are used:
+  Opportunity's right-front wheel was driven backward to extend its life (S46); Curiosity's 0.75 mm wheel skin was damaged faster than expected (S48);
+  Canadarm2 needed a wrist joint swapped after 25 years (S49); Robonaut 2's anomaly was a power-return wiring fault that overheated a connector and
+  could not be fixed on orbit (S50).
+- Cold survival depends on power: Spirit lost its survival heaters and did not wake (S46).
+
+## 7. Candidate handwaves
+
+Nothing here is accepted. The developer decides. Each is a place where a design that matches the fiction's look (realistic skin,
+clothing and gloves; human size; vacuum-capable) meets a bound above. Each item is tagged **bend** (physics would have to give if the
+scene is shown as imagined) or **cost** (physics holds, but a mechanism, mass, power or duty cycle must be accepted and shown).
+
+1. **[bend if shown as imagined; cost if a mechanism is added] Rejecting a full day's body heat through human-sized skin in vacuum at a body temperature that skin and clothing survive.**
+   D2 shows a ceiling of about 1.0 to 1.35 kW for a Valkyrie-size body even with ideal view factors; real bodies have limb-to-limb view factors,
+   absorbed sunlight (118 to 661 W, D4) and planetary infrared. A machine that does heavy work for hours in sun would need a heat-rejection
+   mechanism beyond radiation from its skin (an expendable-fluid sublimator like the EMU, S42, or a deployable radiator like the ISS's, S16) or a
+   duty cycle that rests it in shade. A "walks in vacuum all day in sunlight" scene needs an explicit mechanism.
+2. **[cost] Survival through a lunar night or Mars night without a heat source.** The numbers in D5 show a bare body cannot do it on a battery; a
+   blanket-grade insulating layer under realistic clothing, or a radioisotope or reactor heat source, is required. Realistic skin rated only to -45
+   C (S51) is outside its range for the night.
+3. **[cost] Realistic polymer skin and fabric that is also vacuum-safe.** Ordinary skin-grade silicone and clothing fabric are not shown to meet outgassing and
+   flammability screening without selection (S5, S24, S25), and trapped gas or water in a soft layer reacts to vacuum. Not a physics bend; a materials
+   choice that the fiction must make (for example, space-grade silicone skin; fabrics like Nomex).
+4. **[bend] A body that works for years without servicing joints.** S21 shows fluid-lubricated precision gears wearing out in tens of hours of walking duty
+   under assumed conditions, and S49 and S50 show that even long-lived space robots are repaired by swapping parts. A fiction where a robot walks for
+   years in dust and vacuum without a rebuild would bend D8 and S26; a fiction where such bodies have routine part replacement does not.
+5. **[bend] Radiation-hard brain-and-body control electronics at human body scale with commercial-grade performance.** The fiction waves the gel brain (H-1)
+   only. The body's motor control, sensors and power conditioning are electronics and fall under S7, S8, S11 and S12. Surviving repeated trapped-belt
+   crossings without a heavy shield and without rad-hard performance penalties would bend D9 (shielding mass) or S12 (hardened-part speed).
+6. **[bend] Recharging from a distance without large apertures or heating.** D10 shows that wireless power at meter range needs coils of body size and
+   dissipates most of the energy as heat, and that microwave power at tens of meters needs square-meter-scale apertures. A robot that "plugs into the air"
+   at long distance would bend S39 and S40.
+7. **[cost] Charging a Li-ion pack outdoors in the cold.** S35 and S36 show charging below about -10 C damages cells. A fiction in which robots recharge
+   outdoors at Antarctic temperatures needs a warmed pack or a different cell chemistry; none is flight-proven in the sources found (S34 is lab-scale).
+8. **[cost] Clothing that is both cloth-like in air and insulating in vacuum.** If clothing is only cosmetic, the body has no insulation in vacuum (D5: 703 W lost when bare). If clothing
+   is to act as insulation it must be vacuum-grade multilayer insulation, which behaves like a stagnant gas pocket in air (S54), so insulation in
+   vacuum is not a free property of cloth.
+
+## 8. Open threads
+
+**Checklist items not satisfied from a primary source, with the reason.**
+- **Digit, Optimus and Figure power and heat figures (checklist A and D).** Agility's and Figure's sites publish no specifications; Tesla's AI Day 2022
+  figures reached me only through press (search summaries quoted 2.3 kWh, about 100 W sitting and about 500 W brisk walking; Digit about 1 kWh,
+  Digit 5 about 90 min run and 9 min recharge). None opened at a primary. Next: the Tesla AI Day 2022 transcript or video; Agility's 2025-2026
+  datasheet; independent teardown or paper with measured watts.
+- **Valkyrie continuous power draw in watts.** Not published in anything I reached. Next: Radford et al., J. Field Robotics 2015; IHMC
+  papers on Valkyrie (energy per step); NASA ER4 technical memoranda.
+- **Thermal vacuum test data for Robonaut 2.** I found only qualitative statements (S5, S6). A search summary quoted "-25 C to 105 C" for two
+  R2/Robonaut arm joint actuators in the JSC chamber with new lubricants; not verified. Next: NTRS search for Ambrose and Berka, "Thermal
+  Management in Hyper-Redundant Space Manipulators" (SPIE 1993), and R2 joint qualification reports.
+- **Humanoid heat fraction.** No source gives the share of electrical power that becomes heat in a humanoid. I used energy conservation (D11).
+  Next: a measured power-balance paper on a humanoid (Valkyrie, TALOS, Atlas, Digit).
+- **Li-ion and solid-state cell behavior in vacuum.** I found only qualification requirements (S36, S37), not data on cell swelling, venting, or
+  electrolyte loss during use in vacuum. Next: NASA battery workshop papers on pouch cells in thermal vacuum (NTRS 20060020764 was a stub).
+- **Hardened-processor datasheets.** BAE's RAD750 datasheet returned HTTP 403 (curl and WebFetch). A search summary quoted 200 krad (rad-tolerant)
+  and 1 Mrad (rad-hard) and a latch-up-immune single-event rate below 1.6e-10 errors/bit-day; unverified.
+- **NASA per-material outgassing values.** The NASA database (outgassing.nasa.gov) is dynamic and I could not query it; NASA RP-1124 Rev 4 was an
+  unreadable scan. I have no TML/CVCM for ordinary skin silicone, PVC, polyurethane foam or fabrics. Next: JAXA matdb.jaxa.jp data lists, or a
+  library scan of RP-1124.
+- **Textile and skin optical and thermal properties.** I found no solar absorptance and emittance for ordinary clothing fabric or skin-colored
+  silicone. Kauder (S14) lists coatings and Beta cloth only. Next: ECSS or NASA tables for Nomex, Kevlar and silicone elastomers.
+- **Mars surface solar irradiance and dust loss.** S19 gives top-of-atmosphere flux only. Press reports quoted Opportunity falling from about 700 Wh
+  per sol to 22 Wh per sol in the 2018 storm (optical depth 10.8); unverified. Next: Lorenz et al. or JPL MER power reports.
+- **Permeation and blistering of soft skins in vacuum.** A search summary quoted PDMS oxygen permeability of 800 Barrer (Merkel et al., 2000);
+  unverified, not used. Next: Merkel et al., J. Polym. Sci. B 38:415-434.
+- **PFPE radiation dose threshold.** S13 gives mechanism only. Next: the ESTL or Krytox radiation stability data (a vendor page exists; not opened).
+- **Convective cooling in the Mars atmosphere** (6.36 mb of CO2) for a warm body; not searched.
+- **Dextre service history and design life.** Only Wikipedia and news reached me (15-year design life, tool-change and camera swap history); not tabulated.
+- **Perseverance, ISS CMG or other long-duration machine reliability data**; not searched beyond the machines above.
+- **Cold-weld experiments beyond the NASA patent**, and ESA tribology handbook values; not opened.
+- **Lunar and Mars regolith wear rates on robot joints and seals in controlled tests** (beyond Apollo reports); S27 reviews seals but I did not extract its test data.
+- **Antarctic humanoid or legged-robot trials.** Press mentions a Chinese hexapod run at -40 C with an insulated battery for two hours and an Arctic
+  quadruped traverse; no paper opened. Next: Zhongshan trial papers; Arctic/Antarctic legged robot field reports.
+
+**Sources found but not read (or only skimmed).**
+- NTRS 20200000214 (Opportunity End of Mission Report): abstract only; no downloadable PDF.
+- NTRS 20100009705 (JPL, safe charge rates and lithium plating): abstract page only.
+- JPL FY21 R&TD poster R22020p; NASA Glenn "SiGe" low-temperature electronics pages; NASA NEPP "Careful COTS" guidance.
+- Merstallinger et al. (RADHARD 2024) tribology and radiation abstract (page returned 404).
+- NASA TM-2009-215751 (read for qualification tables and vacuum text only, not the whole report).
+- S27 (Proctor and Dempsey): read for seal slides only.
+- Caltech SSPD-1 / MAPLE papers; JAXA microwave transmission papers.
+- Daryabeigi et al. NTRS 20060019134 (high-temperature MLI), downloaded, not read.
+- The 1971 handbook NASA CR-1787 Sections beyond the polymers cited; DTIC radiation handbooks (maintenance page).
+
+## 9. Rejected sources
+
+- **Wikipedia and Wikipedia mirrors** (Robonaut, Dextre, Valkyrie, Opportunity, Canadarm2): used only for leads; no number taken.
+- **Press and marketing pages for Tesla Optimus, Digit, Figure, Atlas specs aggregators** (benzinga, tomsguide, siliconcanals, qviro,
+  aiwiki, robotsguide, humanoid.press, robozaps): secondary and inconsistent; kept as leads only.
+- **Vendor pages on energy-per-kilogram and torque-density claims** (firgelli, patsnap, thehumanoid.ai, longsingtech): blog-grade figures with no
+  measurement method; replaced by S28 and S33.
+- **A search summary quoting 15 kW for the hydraulic Atlas**: no primary behind it; not used.
+- **Search-summary-only figures** for Juno's 1 cm titanium vault (a factor of 800), JAXA 1.8 kW at 55 m, PDMS permeability, RAD750 datasheet values, and
+  the R2 "-25 to 105 C" claim: listed under Open threads, not used in tables or derivations.
+- **The clo unit (0.155 m2 K/W)**: seen only in search summaries and encyclopedic pages; not needed after D13.
+- **Patterson et al. (S53) Table 1 temperatures**: the minus signs are missing from the PDF text layer, so every temperature in that table reads as
+  positive; I used only its qualitative statements.
+- **Wow Orin arXiv preprint (S55)** is kept in the tables as secondary, simulation-only, and not used as a bound, only as an order-of-magnitude check
+  in D11.
+- **The NASA RP-1124 scan (NTRS 19970027853) and DTIC ADA303760**: unreadable or unavailable.

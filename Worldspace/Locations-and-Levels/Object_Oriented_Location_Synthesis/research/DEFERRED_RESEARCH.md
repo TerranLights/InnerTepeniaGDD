@@ -9,8 +9,8 @@ research file it came from. **Do not delete an item until it is resolved, and sa
 sooner. Use the "search next" leads as written. A route that failed once may still work through a different mirror,
 the author's page, an agency NTRS record, or arXiv. Log each route (`_BRIEF.md`).
 
-**Still to add when each agent finishes:** the open threads of `gap_retry_mars_venus_jupiter.md`, `robot_body_in_space.md`,
-`life_support_lowg_power_structures.md` and `moon_lagrange_and_comparables.md`.
+**Still to add when each agent finishes:** the open threads of `gap_retry_mars_venus_jupiter.md`,
+`life_support_lowg_power_structures.md` and `moon_lagrange_and_comparables.md`. (Batches 1 and 2 are in.)
 
 ---
 
@@ -59,6 +59,45 @@ arXiv 2609.24534 (FACSAT-2 re-entry, solar cycle 25) · Frontiers `fspas.2026.17
 
 ---
 
-## Batch 2 onward
+## Batch 2: from `robot_body_in_space.md` (751 lines; ~80 search strings; 109 log rows; 17 dead or partly dead)
 
-*(appended as each remaining agent reports)*
+### Not opened at a primary source
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Digit, Optimus and Figure power and heat figures.** Agility and Figure publish no specifications. Tesla's AI Day 2022 figures reached the agent only through press (2.3 kWh, ~100 W sitting, ~500 W brisk walking; Digit ~1 kWh; Digit 5 ~90 min run and 9 min recharge). Unverified. | Tesla AI Day 2022 transcript or video; Agility's 2025–2026 datasheet; an independent teardown with measured watts |
+| 2 | **Valkyrie continuous power draw in watts** | Radford et al., J. Field Robotics 2015; IHMC Valkyrie papers (energy per step); NASA ER4 technical memoranda |
+| 3 | **Robonaut 2 thermal-vacuum test data** (only qualitative statements; a summary quoted "-25 °C to 105 °C" for two joint actuators; unverified) | NTRS: Ambrose and Berka, "Thermal Management in Hyper-Redundant Space Manipulators" (SPIE 1993); R2 joint qualification reports |
+| 4 | **Humanoid heat fraction** (share of electrical power that becomes heat; energy conservation was used instead) | a measured power-balance paper on Valkyrie, TALOS, Atlas or Digit |
+| 5 | **Li-ion and solid-state cell behavior in vacuum** (swelling, venting, electrolyte loss; only qualification requirements found; NTRS 20060020764 was a stub) | NASA battery workshop papers on pouch cells in thermal vacuum |
+| 6 | **Hardened-processor datasheets.** BAE RAD750 datasheet: HTTP 403 (curl and WebFetch). A summary quoted 200 krad (rad-tolerant), 1 Mrad (rad-hard), latch-up-immune SEU rate below 1.6e-10 errors/bit-day; unverified. | vendor datasheet through a mirror; NASA NEPP compendia |
+| 7 | **NASA per-material outgassing values** (outgassing.nasa.gov is dynamic; NASA RP-1124 Rev 4 was an unreadable scan). No TML/CVCM for skin silicone, PVC, polyurethane foam or fabrics. | JAXA matdb.jaxa.jp data lists; a library scan of RP-1124 |
+| 8 | **Textile and skin solar absorptance and emittance** (Kauder lists coatings and Beta cloth only) | ECSS or NASA tables for Nomex, Kevlar and silicone elastomers |
+| 9 | **Mars surface solar irradiance and dust loss** (press: Opportunity fell from ~700 Wh/sol to 22 Wh/sol in the 2018 storm at optical depth 10.8; unverified). Overlaps Batch 3's Mars retry. | Lorenz et al.; JPL MER power reports |
+| 10 | **Soft-skin permeation and blistering in vacuum** (a summary quoted PDMS O₂ permeability of 800 Barrer; unverified, not used) | Merkel et al., J. Polym. Sci. B 38:415–434 |
+| 11 | **PFPE lubricant radiation threshold** (mechanism only) | ESTL or Krytox radiation-stability data |
+| 12 | **Convective cooling in the Mars atmosphere** (6.36 mb CO₂) for a warm body | not searched |
+| 13 | **Dextre service history and design life** (Wikipedia and news only: 15-year design life) | CSA / NASA primaries; tabulate |
+| 14 | **Perseverance, ISS CMG and other long-duration machine reliability data** | not searched beyond the machines covered |
+| 15 | **Cold-weld experiments beyond the NASA patent; ESA tribology handbook values** | ESA tribology handbook |
+| 16 | **Lunar and Mars regolith wear rates on robot joints and seals** in controlled tests (S27 reviews seals; its test data not extracted) | Proctor and Dempsey, re-read for the test tables |
+| 17 | **Antarctic humanoid or legged-robot trials** (press: a Chinese hexapod run at -40 °C with an insulated battery for two hours; an Arctic quadruped traverse; no paper opened) | trial papers; Arctic/Antarctic legged-robot field reports |
+
+### Routes that failed
+
+BAE RAD750 datasheet (403) · NASA outgassing database (dynamic) · NASA RP-1124 Rev 4 (unreadable scan) · Merstallinger et al.
+(RADHARD 2024; 404) · DTIC radiation handbooks (maintenance page) · NTRS 20060020764 (a stub).
+
+### Found and not read (or only skimmed)
+
+NTRS 20200000214 (Opportunity End of Mission Report; abstract only, no PDF) · NTRS 20100009705 (JPL safe charge rates and
+lithium plating; abstract only) · JPL FY21 R&TD poster R22020p · NASA Glenn "SiGe" low-temperature electronics pages · NASA
+NEPP "Careful COTS" guidance · NASA TM-2009-215751 (read for qualification tables and vacuum text only) · Caltech SSPD-1 /
+MAPLE papers · JAXA microwave transmission papers · Daryabeigi et al., NTRS 20060019134 (high-temperature MLI; downloaded,
+not read) · NASA CR-1787 sections beyond those cited.
+
+---
+
+## Batch 3 onward
+
+*(appended as each remaining agent reports: `gap_retry_mars_venus_jupiter.md`, `life_support_lowg_power_structures.md`, `moon_lagrange_and_comparables.md`)*
