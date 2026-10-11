@@ -9,7 +9,7 @@ research file it came from. **Do not delete an item until it is resolved, and sa
 sooner. Use the "search next" leads as written. A route that failed once may still work through a different mirror,
 the author's page, an agency NTRS record, or arXiv. Log each route (`_BRIEF.md`).
 
-**Still to add when the last agent finishes:** the open threads of `gap_retry_mars_venus_jupiter.md`. (Batches 1–4 are in.)
+**All five second-tranche agents have reported; Batches 1–5 are entered.** Later searches go in Batch 6 onward.
 
 ---
 
@@ -177,6 +177,43 @@ Jensen arXiv:2408.00155 (abstract only) · NTRS 20170005618, 20160009739, 202000
 
 ---
 
-## Batch 5 onward
+## Batch 5: from `gap_retry_mars_venus_jupiter.md` (516 lines; 101 numbered log rows; 18 dead at the sources, 1 at the query)
 
-*(appended when `gap_retry_mars_venus_jupiter.md` reports)*
+### Routes that failed
+
+Springer bot wall (Martinez 2017; the 2025 Space Science Reviews cave review) · Crossref (no abstract) · CDC / ATSDR (403 on both
+hosts) · OU and UCL repositories (403) for Dartnell · eight routes for Seiff 1985 · NSSDC IDs for Venera 13 (guessed; errors) ·
+JPL Magellan conjunction pages (403) · NTRS 20210007725, 20220000754 and 20210002012 (records with no file).
+
+### Not closed
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Measured Mars temperature by latitude and season** (Martinez 2017; Viking IRTM, Kieffer 1977; Pathfinder, REMS, TWINS, MEDA). Mars Climate Database v6.2 **model output** was substituted and is labeled as a model. | Europe PMC for open-access REMS and MEDA papers; the PDS atmospheres node for REMS reduced data |
+| 2 | **Mars solar irradiance under dust beyond the Viking sites** (the tables are for VL1 and VL2 only) | |
+| 3 | **Lava tubes**: measured roof thickness (none exists); Cushing 2012 and 2015; the 2025 cave review; Rostel et al. 2020 numbers | a third route for each |
+| 4 | **Perchlorate**: the ATSDR toxicological profile; NRC 2005; inhalation toxicity of perchlorate dust (EPA: no value); lunar and Martian dust inhalation studies (not searched) | |
+| 5 | **Dundas et al. 2018 full text** and the eight sites' latitudes; the SWIM maps (data products) | |
+| 6 | **Dust storms**: SL19's table S1 (properties of each global storm); Montabone and Forget 2018; **a count after 2018** (no later event documented in anything opened; no claim made about 2019–2026) | |
+| 7 | **Launch windows for crewed or cargo missions** (the BURKE dates are 2010 mission-design minima, not NASA announcements) | mission-specific plans |
+| 8 | **MARIE dose equivalent in mSv/day** (Zeitlin; Cleghorn); Mars-orbit habitat dose at a specific shielding mass in g/cm²; Zeitlin 2013 and Hassler 2014 supplement | |
+| 9 | **Partial gravity**: human bed-rest or centrifuge studies at 0.38 g (none found); bone results of the MARS mouse missions | |
+| 10 | **Venus VIRA tables** (Seiff 1985): no web table found | NASA PDS archives for the Pioneer Venus probes; the NSSDC "Venus Atmosphere" listing; a library request for *Advances in Space Research* vol. 5 no. 11; Venus-GRAM outputs |
+| 11 | **Venera 13 from a Soviet or NASA SP primary** (Ksanfomaliti et al. 1983) | |
+| 12 | **Dartnell et al. 2015 full paper**; Nordheim et al. 2015 (ionization of Venus) | |
+| 13 | **Birch 1991 (JBIS 44:157)**: obtained from no route (Fogg 1995 and Wikipedia are secondary) | |
+| 14 | **Europa surface dose** in absorbed-dose units: Paranicas 2002 / 2007 / 2009; Nordheim 2016 / 2017 (*Nature Astronomy*); Europa Clipper radiation requirements | |
+| 15 | **Callisto and Ganymede human-unit dose** (Cooper 2001 full text); **Juno measured radiation** (Becker et al.); **Galileo** (Fieseler 2002 full text) | |
+| 16 | **Saturn versus Jupiter in common units** (numeric); Cassini MIMI datasets (PDS); Titan surface dose | |
+| 17 | **Enceladus**: Hansen et al. 2020 full text. **Io**: Veeder et al. 2012 and 2004; Davies et al. final version | |
+
+### Found and not read
+
+Limaye et al. 2018 (*Space Sci. Rev.* 214) · arXiv:2603.22602 · arXiv:2605.09052 · Putzig et al. handbook chapter · Hansen et al.
+UVIS plume paper (*Icarus* 2020).
+
+---
+
+## Status of the second tranche
+
+All five agents have reported; Batches 1–5 are in. New searches belong in a Batch 6 and later.

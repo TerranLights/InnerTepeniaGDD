@@ -32,12 +32,32 @@ Each prompt also let the agent read, read-only, the relevant sections of the fir
 | File | Topic | Agent ID | State |
 |---|---|---|---|
 | `research/gap_retry_leo_human_machines_power.md` | retry: ISS data, radiation, debris, electronics, human health, launch cost, propulsion/power refs, Folta/Bailey | `aea64c079eb917f12` | **✅ COMPLETE** (418 lines, ~45 searches, ~14 dead routes). Still open: ISS reboost propellant and monthly decay from a NASA/ESA primary; ISS eclipses per year; dose at 600 km; ORDEM 3.0 numeric fluxes and ballistic-limit tables; lifetime of very large structures. NASA's own crew-dose figures are 40–90 mSv and 72 mSv per six months, so the "80/160 mSv" claim stays unverified. Not yet reviewed. |
-| `research/gap_retry_mars_venus_jupiter.md` | retry: Mars climate/lava tubes/perchlorate/ice/windows/dose; Venus tables, Venera 13, cloud radiation; Jovian, Saturnian dose primaries | `a41a46fa84ff25729` | ⏳ |
+| `research/gap_retry_mars_venus_jupiter.md` | retry: Mars climate/lava tubes/perchlorate/ice/windows/dose; Venus tables, Venera 13, cloud radiation; Jovian, Saturnian dose primaries | `a41a46fa84ff25729` | **✅ COMPLETE** (516 lines, 101 log rows). Six candidate handwaves C-27…C-32 entered as proposals. **It corrects errors in the first-tranche files: see "Corrections to apply at review" below.** Open threads in `research/DEFERRED_RESEARCH.md` Batch 5. |
 | `research/robot_body_in_space.md` | new: humanoid machine thermal, radiation, vacuum tribology, power, cold, reliability | `a29fe6df604e01b3f` | **✅ COMPLETE** (751 lines, 109 log rows, 17 dead or partly dead). Eight candidate handwaves C-1…C-8 are entered in `04_Handwave_Register.md` as proposals; **they await developer rulings**. Open threads are in `research/DEFERRED_RESEARCH.md` Batch 2. Not yet reviewed. |
 | `research/life_support_lowg_power_structures.md` | new: closed-loop life support, low-g biology, power and thermal at scale, structures, debris shielding, regolith | `af602675dcc830250` | **✅ COMPLETE** (591 lines, 45 searches). Eleven candidate handwaves C-16…C-26 entered in the register as proposals. Open threads in `research/DEFERRED_RESEARCH.md` Batch 4. Not yet reviewed. |
 | `research/moon_lagrange_and_comparables.md` | new: the Moon, mass drivers, Lagrange points, cislunar orbits; `[RW]` mechanism-only habitat comparables | `a81561c911f1e71b7` | **✅ COMPLETE** (443 lines, ~64 searches, 10 dead ends). Seven candidate handwaves C-9…C-15 entered in the register as proposals. Flagged conflict: the OIG ISS crew-time share (13% maintenance) is a planning share, not a measured fraction. Open threads are in `research/DEFERRED_RESEARCH.md` Batch 3. Not yet reviewed. |
 
 **Still deferred:** group 3, the Cryptograph Helix timeline file (`03_Pointer_Manifest.md` §B).
+
+## Corrections to apply at review (found by the second tranche)
+
+The retry agents read primary sources the first tranche could not, and they found these errors. **The first-tranche files
+still carry the old values. Fix them at review, and cite the retry file.**
+
+| # | Where the error stands | Correction | From |
+|--:|---|---|---|
+| 1 | `belt_jupiter_saturn…` and `mars_venus…`: Io **heat flow** attributed to Park et al. 2024 | Park et al. 2024 measures the tidal **Love number**, not heat flow. The heat flow (about 106 TW; about 2.5 W/m² derived) comes from Veeder et al. Values agree. | `gap_retry_mars_venus_jupiter` Conflict 13 |
+| 2 | `mars_venus…`: Bullock and Grinspoon's Venus end state "**43 bar, 400 K**" | **Not in the paper** (it has a "3 bar regime"). Rejected. | Conflict 14 |
+| 3 | `belt_jupiter…`: Europa "**5.4 Sv/day**" and "6–7 rad/s" | Appear in nothing opened. The SDT report's own numbers are mission-integrated: about 1.7 Mrad(Si) behind 100 mil Al. Both stay flagged. | Conflict 11 |
+| 4 | `mars_venus…`: Venus **1-bar altitude** (about 50 km vs Landis's "slightly over 54 km") | Radio occultation and HAVOC put 1 bar near 50–51 km (about 343 K). Landis's 54 km is the outlier. | Conflict 8 |
+| 5 | `mars_venus…`: Mars **global dust storm frequency** (one in three Mars years, Zurek and Martin 1993) | The post-2001 record gives about **0.2 per Mars year**. Trust that. | Conflict 3 |
+| 6 | Mars **surface GCR dose** (design-study 0.22–0.38 mSv/day vs older 119 mSv/yr) | Trust the **RAD-anchored 0.64 mSv/day at solar maximum** and **232 mSv/yr**. | Conflicts 1–2 |
+| 7 | Mars top-of-atmosphere irradiance (590 vs 586.2 W/m²) | **586.2**; scale the 1990 tables by 0.9936. | Conflict 4 |
+| 8 | Venera 13 survival (157 vs 127 min) | Trust **127 minutes** (NASA Glenn papers). Still no Soviet primary. | Conflict 7 |
+| 9 | GCR dose at Venus 62 km (Dartnell 9.5e-4 vs Herbst 2.49e-3 mGy/h) | Use the **Herbst (higher)** value for design. | Conflict 9 |
+| 10 | Enceladus plume rate (200 vs 300 kg/s); ocean thickness (26–31 km vs about 45 km) | Use **200–300 kg/s**; ocean 26–48 km depending on the core model. | Conflicts 12, 15 |
+| 11 | Perchlorate "9.8 mg of dust per day" | An **ingestion** yardstick (EPA gave no inhalation value), not an inhalation limit. | Conflict 16 |
+| 12 | First-tranche (already known) | Enceladus gravity is about 0.11 m/s², not 0.027; the Belt spacing figures do not reproduce from their own counts; "80 / 160 mSv" per six months is unverified (NASA's own: 40–90 and 72 mSv); the 1974 O'Neill text and Table 1 disagree (0.895 g vs 0.99 g). | earlier notes |
 
 **Deferred research (developer, 2026-10-11):** `research/DEFERRED_RESEARCH.md` lists the searches to run again later, with "search next" leads. Batch 1 (the LEO gap-retry file) is entered. **When each of the other four agents reports, append its open threads there as the next batch.**
 

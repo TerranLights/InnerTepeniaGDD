@@ -53,6 +53,17 @@ are engineering extrapolations, not violations of physics.
 | C-25 | **A radiator-free or low-temperature heat sink** | bend (Stefan-Boltzmann) | A 300 K surface radiates at most 459 W/m² per face. Moving tens of kilowatts per person without large or hot radiators breaks the law. |
 | C-26 | **Zero-reaction-mass spin-up or despin** | bend | Angular momentum must go somewhere: reaction mass, a counter-rotating mass, a tether exchange or the planet's magnetic field. |
 
+**From `research/gap_retry_mars_venus_jupiter.md` §7 (2026-10-11).** Proposals only; none accepted.
+
+| # | Candidate | Tag | What the fiction would have to settle |
+|--:|---|---|---|
+| C-27 | **Intact, large, safe Martian lava tubes** | assumption | No tube has been seen from inside, no roof thickness is measured, and SHARAD has not detected one. A tube settlement needs the tubes to exist at the assumed width, to stay up under unmeasured stresses, and to be reachable. |
+| C-28 | **A 1 atm, 20 °C floating habitat on Venus** | bend | The two numbers sit at different altitudes: 1 bar at about 50 km is about 70 °C; 20 °C at about 56 km is about 0.5 bar. A habitat at either needs a pressure or temperature difference. Landis's large-envelope lift tonnages are unverified. |
+| C-29 | **Terraforming Venus or Mars in a plausible time** | bend | Venus needs about 2.5×10²⁸ J (Landis 2011). Mars lacks the CO₂ inventory (Jakosky and Edwards). A terraformed planet needs an energy source or inventory physics does not provide. |
+| C-30 | **Rapid unshielded travel to Jupiter's moons** | bend | The dose numbers require mass shielding in g/cm² that scales with stay length. Stays near Europa are dose-limited; Callisto's orbit lies outside the main belts. |
+| C-31 | **Mars gravity as good as Earth's for a lifetime** | unknown | No human or large-animal data at 0.38 g exist. |
+| C-32 | **A robot body immune to radiation** | bend | Electronics fail in total-dose terms (50–300 krad(Si) design values), well below the Europa lander's unshielded 1.7 Mrad(Si). Same limit as C-5. |
+
 **Note.** C-3, C-7 and C-8 bear directly on canon you have already ruled: robots wear clothing and coats and gloves, and have
 realistic skin where interaction happens. They do not contradict it. They say the fiction must pick a mechanism, such as
 a warmed pack or space-grade skin, for the clothed robot to be physical.
