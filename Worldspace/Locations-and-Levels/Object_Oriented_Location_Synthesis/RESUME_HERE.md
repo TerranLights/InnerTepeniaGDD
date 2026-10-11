@@ -39,6 +39,13 @@ Each prompt also let the agent read, read-only, the relevant sections of the fir
 
 **Still deferred:** group 3, the Cryptograph Helix timeline file (`03_Pointer_Manifest.md` §B).
 
+## Third research dispatch
+
+**Waste-heat utilization** (developer, 2026-10-11: "see if there's anything that can be done by reusing heat exhaust"). Same `_BRIEF.md`.
+Agent `a9433a90b61d16123` → `research/waste_heat_utilization.md`. ⏳ Resume rules as above. When complete, enter its open threads in
+`research/DEFERRED_RESEARCH.md` as the next batch, enter its candidate handwaves in the register, and check it against the radiator
+findings that C-1 and C-25 rest on. (Origin: the developer's Grok question, whose paste I could not find; see the deferred list, P1.)
+
 ## Corrections to apply at review (found by the second tranche)
 
 The retry agents read primary sources the first tranche could not, and they found these errors. **The first-tranche files
