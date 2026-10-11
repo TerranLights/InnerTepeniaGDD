@@ -31,7 +31,7 @@ Each prompt also let the agent read, read-only, the relevant sections of the fir
 
 | File | Topic | Agent ID | State |
 |---|---|---|---|
-| `research/gap_retry_leo_human_machines_power.md` | retry: ISS data, radiation, debris, electronics, human health, launch cost, propulsion/power refs, Folta/Bailey | `aea64c079eb917f12` | ⏳ |
+| `research/gap_retry_leo_human_machines_power.md` | retry: ISS data, radiation, debris, electronics, human health, launch cost, propulsion/power refs, Folta/Bailey | `aea64c079eb917f12` | **✅ COMPLETE** (418 lines, ~45 searches, ~14 dead routes). Still open: ISS reboost propellant and monthly decay from a NASA/ESA primary; ISS eclipses per year; dose at 600 km; ORDEM 3.0 numeric fluxes and ballistic-limit tables; lifetime of very large structures. NASA's own crew-dose figures are 40–90 mSv and 72 mSv per six months, so the "80/160 mSv" claim stays unverified. Not yet reviewed. |
 | `research/gap_retry_mars_venus_jupiter.md` | retry: Mars climate/lava tubes/perchlorate/ice/windows/dose; Venus tables, Venera 13, cloud radiation; Jovian, Saturnian dose primaries | `a41a46fa84ff25729` | ⏳ |
 | `research/robot_body_in_space.md` | new: humanoid machine thermal, radiation, vacuum tribology, power, cold, reliability | `a29fe6df604e01b3f` | ⏳ |
 | `research/life_support_lowg_power_structures.md` | new: closed-loop life support, low-g biology, power and thermal at scale, structures, debris shielding, regolith | `af602675dcc830250` | ⏳ |
