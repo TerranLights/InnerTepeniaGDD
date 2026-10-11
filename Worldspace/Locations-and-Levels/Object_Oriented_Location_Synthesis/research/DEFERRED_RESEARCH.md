@@ -9,8 +9,7 @@ research file it came from. **Do not delete an item until it is resolved, and sa
 sooner. Use the "search next" leads as written. A route that failed once may still work through a different mirror,
 the author's page, an agency NTRS record, or arXiv. Log each route (`_BRIEF.md`).
 
-**Still to add when each agent finishes:** the open threads of `gap_retry_mars_venus_jupiter.md` and
-`life_support_lowg_power_structures.md`. (Batches 1–3 are in.)
+**Still to add when the last agent finishes:** the open threads of `gap_retry_mars_venus_jupiter.md`. (Batches 1–4 are in.)
 
 ---
 
@@ -142,6 +141,42 @@ of regolith properties).
 
 ---
 
-## Batch 4 onward
+## Batch 4: from `life_support_lowg_power_structures.md` (591 lines; 45 searches; ~50 document groups opened; 2 searches wholly dead, 6 more dead on the figure sought; 6 page-level dead ends)
 
-*(appended as each remaining agent reports: `gap_retry_mars_venus_jupiter.md`, `life_support_lowg_power_structures.md`)*
+### Not opened
+
+BVAD Revision 2 (only Rev 1 found) · the Lunar Sourcebook · MMPDS and CMH-17 · NCRP and ICRP fetal-dose figures (search-summary
+numbers only; not used) · the ESA 3D-printing study PDF (the nebula.esa.int URL returned HTML) · the BIS paper "Docking with
+Rotating Space Systems".
+
+### Not found
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **BVAD Revision 2**, and **NASA-STD-3001 Vol. 1–2** (CO₂ and O₂ limits). Table 4-99 (growing area by diet) has misaligned columns; per-crop yields not used. | NTRS "Baseline Values and Assumptions Document Rev 2"; Wheeler / Hall / Ruminsky diet studies |
+| 2 | **Closed-ecology full texts**: Lunar Palace 365 (peer-reviewed; only the bioRxiv preprint read); Salisbury, Gitelson and Lisovsky 1997 (*BioScience* 47(9):575); Gitelson, Lisovsky and MacElroy 2003; Lunar Palace 1 (105-day); MELiSSA whole-loop numbers; Severinghaus et al. 1994 (Biosphere 2) | |
+| 3 | **Modern LED efficacy and crop yield per kWh** (BVAD's 1.6–10 g/kWh predates LEDs) | |
+| 4 | **ISS ECLSS**: oxygen generation power and mass; a primary table of total ECLSS power and mass per crew member | |
+| 5 | **Low-pressure (<57 kPa) human tolerance**, the original Norcross 2013 report; **fire in partial gravity** (only the 1 g Test 1 method paper read) | |
+| 6 | **Fetal dose limits**: NCRP / ICRP figures (summaries quoted 5 mSv per pregnancy and 0.5 mSv per month; unverified); ICRP Publication 84 | |
+| 7 | **Reproductive hazards in space**: Mishra and Luderer 2019 (*Nat Rev Endocrinol*); the 2020 Chinese mouse-embryo space experiment (Lei et al., *Natl Sci Rev*); Ronca and Alberts 2000 | |
+| 8 | **NASA HRP evidence reports** (SANS, muscle, bone, cardiovascular); countermeasures (lower-body negative pressure, fluid loading) | overlaps Batch 1 item 16 |
+| 9 | **Rotational gravity in humans since 1994?**; short-radius centrifuge studies in orbit; **partial-gravity primate or large-mammal data** (none found); plants at Mars gravity (abstract only); animal and plant fertility at partial gravity | |
+| 10 | **Radiator areal mass** (kg/m²) and measured heat rejection per m² (summaries quoted 1.5–3.6 kg/m²; not used) | SAE and NASA primaries |
+| 11 | **Kilopower** (KRUSTY) reports; orbital-habitat nuclear studies; Brayton vs Stirling at 100 kWe–MWe; reactor shielding for a habitat | |
+| 12 | **Solar**: iROSA dimensions; decades-long array degradation at 1 AU; battery or regenerative fuel cell mass for eclipses. **SP-413's radiator area (4.9×10⁵ m²)** could not be reconciled with a blackbody calculation (K9). | |
+| 13 | **Structures**: MMPDS / CMH-17 allowables (composites here are manufacturer typical values); NASA SP-8007 shell buckling; fatigue of pressure-cycled and spinning shells; TransHab burst factor and Kevlar / Vectran allowables; BEAM leak rate and pressure; Bigelow B330 numbers | |
+| 14 | **MMOD**: ORDEM 3.0 numeric fluxes vs size at 400 km and beyond LEO; Grün 1985 flux; SSP-30425; Christiansen's Whipple rear-wall equations (OCR-damaged) | overlaps Batch 1 items 9–10 |
+| 15 | **Docking to a rotating hub**: Hall's AIAA 99-4524; SP-413 appendices A, F, G, I, K, M; NASA SP-8024; any rotating-station momentum budget; artificial-gravity.com PDFs AIAA-2015-4613 and AIAA-2017-5140 | |
+| 16 | **Regolith and ISRU**: the Lunar Sourcebook (density, composition, specific heat at high temperature; the sintering heat floor was not computed); Cesaretti 2014; strength of full-scale printed structures; thermal cycling of sintered regolith; peer-reviewed confirmation of the 2024 molten-regolith electrolysis run and the 311 kW figure; MMPACT reports; Mars regolith processing (perchlorate removal) and sulfur concrete | overlaps Batch 3 item 4 |
+
+### Found and not read
+
+Jensen arXiv:2408.00155 (abstract only) · NTRS 20170005618, 20160009739, 20200003267 (headers only) · NTRS 20240011694
+(skimmed) · NASA TN D-5772 (header) · Frontiers in Physiology AGBRESA protocol (PMC9492851; abstract only).
+
+---
+
+## Batch 5 onward
+
+*(appended when `gap_retry_mars_venus_jupiter.md` reports)*

@@ -37,6 +37,22 @@ are engineering extrapolations, not violations of physics.
 | C-14 | **A propellant-free "parking spot" at L1, L2 or L3** | bend | Those points are unstable; only L4/L5 are stable, and only in particular orbits. |
 | C-15 | **Lunar-night energy at the equator without nuclear or stored energy** | cost | About 355 hours of darkness. Polar near-continuous-light cases were not researched. |
 
+**From `research/life_support_lowg_power_structures.md` §7 (2026-10-11).** Proposals only; none accepted.
+
+| # | Candidate | Tag | What the fiction would have to settle |
+|--:|---|---|---|
+| C-16 | **Closed ecology at a few square meters of crops per person** | bend | Theoretical minimum 3–5 m² per person needs 1,000 µmol/m²/s, perfect absorption and 3.6 kW of electricity per person. The best measured wheat yield needed 30 m² and 15 kW per person. Lunar Palace needed 30 m² for 73% of food mass; Biosphere 2 needed 250 m². |
+| C-17 | **Loops closed to 100% for years** | bend | The ISS recovers 98% of water (with a repeatedly repaired demonstration unit) and 50% of oxygen from CO₂. Lunar Palace reached 98.2% material closure for 370 days with solids only 67% closed. Design leakage is 0.05–0.14% of the atmosphere per day. |
+| C-18 | **Children gestated, born and raised in low gravity or spin** | bend (untested) | Never tested in any mammal for a full gestation, never in a human. Normal development is an assumption. **Check against canon on artificial wombs (see the Demographics memory entry); I have not read that file, so the interaction is unverified.** |
+| C-19 | **Partial gravity as a cure-all** | bend | The only orbital partial-g evidence is 35-day mouse studies at 1/6 g and 1 g, where 1/6 g kept muscle mass but not fiber type. A settlement at 0.1–0.4 g that needs no exercise is unsupported. |
+| C-20 | **Spin radii of kilometers with ordinary shell materials** | cost | A 3.2 km, 1 g cylinder with 4.5 t/m² contents needs about 5.6 t/m² of 4340-class steel. A 16 km cylinder passes the stress check only with a rotating shell on near-frictionless bearings against a fixed structure, which no source shows. |
+| C-21 | **Free electrical power per person at O'Neill's 120 kW** | cost | At ISS array performance (64 W/m²) that is about 1,900 m² of collector per person, plus the same heat to radiate. Real habitats read use 5–15 kW per person. |
+| C-22 | **Printed or sintered regolith as the pressure shell** | bend | Measured strengths are 5–22 MPa for small pieces. A pressurized shell needs a continuous membrane in tension. The ESA design uses an inflatable inside the printed shell. |
+| C-23 | **Regolith shielding that is cheap** | cost | Moving and holding hundreds to thousands of kg/m² needs machines, power and time. No source gives a placement rate. |
+| C-24 | **Dust-free interiors** | bend | Apollo dust disabled suit bearings in three days and entered the cabin. Layered defenses reduce it and are not shown to eliminate it. |
+| C-25 | **A radiator-free or low-temperature heat sink** | bend (Stefan-Boltzmann) | A 300 K surface radiates at most 459 W/m² per face. Moving tens of kilowatts per person without large or hot radiators breaks the law. |
+| C-26 | **Zero-reaction-mass spin-up or despin** | bend | Angular momentum must go somewhere: reaction mass, a counter-rotating mass, a tether exchange or the planet's magnetic field. |
+
 **Note.** C-3, C-7 and C-8 bear directly on canon you have already ruled: robots wear clothing and coats and gloves, and have
 realistic skin where interaction happens. They do not contradict it. They say the fiction must pick a mechanism, such as
 a warmed pack or space-grade skin, for the clothed robot to be physical.
