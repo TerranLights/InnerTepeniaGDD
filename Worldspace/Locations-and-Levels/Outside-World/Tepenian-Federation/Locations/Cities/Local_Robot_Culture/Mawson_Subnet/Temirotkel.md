@@ -1,4 +1,4 @@
-# Temirötkel — Local Robot Culture Spec Sheet
+# Temirötkel — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-37`): formerly *Sayowa* (placeholder `{{ Syowa/Showa }}`); now **Temirötkel** (темірөткел), "Iron Crossing".** Any line below that still says "Sayowa" describes the FORMER name: its Syowa/Shōwa-derived etymology and the Japanese founding it was written around. Those lines are revisit items (`DR-30`, `R-11`, `R-17`).
 
@@ -303,3 +303,5 @@ happened to get filed under Temirötkel's name — each depends on facts (the Ju
 history, the population's genuine census-to-census demographic swing, the founding's documentary-not-living
 inheritance) that are concretely, specifically Temirötkel's own. **This closes out the Mawson Subnet — all three
 cities (Mawson, Dome Fuji, Temirötkel) now in Draft status, awaiting developer review.**
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: first established by the CIN or by Kazakhstan (open), then industrialized primarily by Kazakh industrialists (`DR-30`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

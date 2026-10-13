@@ -405,7 +405,7 @@ systems, industries, holidays.** **So the question is never *"does one of the ex
 1. **Say so plainly.** *"No faith is sited here." "No faction claims it." "No symbol member fits."*
 2. ⭐⭐ **LEAVE THE SLOT EXPLICITLY OPEN.** ***A later reader must not be able to mistake "none is sited here"
    for "none is possible here."*** **Write the second sentence.**
-3. **Write what the place DOES have, as what it is** — a **stake**, a **compact**, a **debt**, a **standard of
+3. **Write what the place DOES have, as what it is** — a **stake**, a **social contract**, a **debt**, a **standard of
    worth**, a **habit nobody has named**. ⛔ **Do not promote it into the category that was empty.**
    *A shared proposition is not a creed, and promoting one into the other is this same forcing error wearing a
    third costume.*

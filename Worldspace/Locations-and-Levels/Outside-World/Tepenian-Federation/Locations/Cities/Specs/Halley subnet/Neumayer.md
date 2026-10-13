@@ -130,7 +130,7 @@ Named for Georg von Neumayer — not an Antarctic explorer himself, but the man 
 
 What the founding exile community inherited was an entire settlement's worth of science, engineering, and research equipment — worn, mostly defunct, but salvageable. Rather than discarding it, the founding community treated the equipment as the seed of a broader engineering mission. Neumayer became not only a science-and-engineering-oriented city but eventually the site of one of Tepenia's most significant engineering projects: the schematic drafting, design, and engineering of what would become Amundsen Tower. The full facility infrastructure — the precision instruments, the structural analysis tools — made Neumayer the most capable engineering city in the Halley subnet, and the natural home for work of that scale and precision.
 
-**Founding population:** Primarily exiles who settled and inherited the station's physical infrastructure.
+**Founding population:** The Netherlands and Austro-Bavaria, jointly (`DR-35`), who settled and inherited the station's physical infrastructure. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 Named for Georg von Neumayer (1826–1909) — maintaining the historical name across the transition from research station to city.
 

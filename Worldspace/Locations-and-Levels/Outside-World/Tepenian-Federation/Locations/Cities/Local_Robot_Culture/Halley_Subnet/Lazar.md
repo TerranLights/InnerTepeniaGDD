@@ -1,4 +1,4 @@
-# Lazar — Local Robot Culture Spec Sheet
+# Lazar — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #25 of the Local Robot Culture Methodology, 2026-08-11 — sixth city of the Halley Subnet.** Directly
 follows up on Troll's own forward flag (Lazar and Utstein both connected via the subnet's coastal/
@@ -434,3 +434,5 @@ unassumed, flagged forward specifically per Troll's own §23 claim of a direct B
 relationship originating at Lazar — a real, established highway fact worth checking directly from Princess
 Elisabeth's own side once run, the same discipline that resolved the Troll question above. The still-deferred
 Santa Luce remains paused pending its own founding-nation fix.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Russia (the core state) and the CIN, as two communities that coalesced (`DR-34`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

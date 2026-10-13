@@ -1,4 +1,4 @@
-# Dome Fuji — Cultural Spec Sheet
+# Dome Fuji — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -282,3 +282,5 @@ Unlike most Tepenian cities, where becoming a local is a gradual social process,
 ## 32. Diaspora Character in Concordia
 
 Dome Fuji's relationship to diaspora is inverted from most Tepenian cities: people don't typically flow *out* of Dome Fuji into Concordia the way refugees do from destroyed or struggling cities — if anything, the traffic runs the other way, with devotees leaving other cities *for* Dome Fuji. To the extent any "Dome Fuji diaspora" exists in Concordia at all, it likely consists of two very different groups: devotees who completed their pilgrimage, found what they needed, and returned to ordinary civic life carrying the faith's philosophy with them; and would-be pilgrims who haven't yet made the journey but orient significant parts of their spiritual life around the eventual trip. Both groups would be recognizable in Concordia by an unusual relationship to cold and stillness — treating conditions most Concordians merely endure as something closer to sought-after.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: devout religious disciples (the Ice Cold Buddhism pilgrims), not associated with any particular country (`DR-20`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

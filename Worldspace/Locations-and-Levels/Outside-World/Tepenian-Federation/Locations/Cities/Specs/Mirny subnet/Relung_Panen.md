@@ -6,7 +6,7 @@
 > The oasis itself is still "the Bunger Hills oasis". Text below that says "placeholder" or "name unresolved" predates the ruling.
 
 **Based on:** Bunger Hills oasis, Knox Coast, Wilkes Land, East Antarctica (~66°15'S, 100°45'E) *(corrected 2026-10-03: the Australian Antarctic Data Centre gazetteer places the oasis "at the western end of Knox Coast in Wilkes Land"; "Queen Mary" belongs only to the Shackleton Ice Shelf in front of it)*
-**Status:** ⏸️ **UNDETERMINED — this city has no war outcome because its founding is not yet ruled.** ⛔ *`NOT-AN-INPUT` for a Second Interwar pass, as at every other city*
+**Status:** ⏸️ **UNDETERMINED — this city has no war outcome because only the founding nations are ruled (Indonesia and Malaysia, jointly, `DR-34`); the rest of the founding is open.** ⛔ *`NOT-AN-INPUT` for a Second Interwar pass, as at every other city*
 **Arcanet Subnet:** Mirny ("Australian")
 **Access type:** SPUR
 **Highway access:** ⭐ **Single-approach — a dedicated spur reaching east to Casey, joining Hwy 110 there** `[CGRM 2026-09-01 · Path 6 · developer ruling]`. ⛔ **The Denman crossing is NOT built; there is no western link to Mirny.** *Hwy 110 itself runs Zhongshan → Davis → Mirny → Casey → Concordia; this city is a spur off it, not a stop on it.* ⚠ **`Division_of_Industry/04`'s description of the site as "sitting naturally on Hwy 110" predates that ruling.**
@@ -193,8 +193,8 @@ than dry cold**, saturation and freeze–thaw rather than exposure and scour.*
 
 ## Founding
 
-**Settled:** ⏸️ **NOT YET RULED — developer decision.**
-**Founding population:** ⏸️ **NOT YET RULED — developer decision.**
+**Settled:** ⏸️ **Nations ruled (Indonesia and Malaysia, jointly, `DR-34`); when, how and on what the settlement began remain open — developer decision.**
+**Founding population:** Indonesia and Malaysia, jointly (`DR-34`). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 > ⛔⛔ **TWO CONSTRAINTS BIND WHOEVER WRITES THIS, AND BOTH ARE STANDING:**
 > **1 · Nothing descends from the seven source rows** *(see Population & Composition above)* — **the pool was
@@ -269,7 +269,7 @@ ruling")*, **so its three-tier split is unwritten.** ⏸️ *Un-deferring it is 
 
 ## Current Status / Destruction
 
-⏸️ **UNDETERMINED — the city's founding is not ruled, so it has no war outcome.**
+⏸️ **UNDETERMINED — only the founding nations are ruled, so it has no war outcome.**
 ⛔ *`NOT-AN-INPUT` for a Second Interwar pass.*
 
 ---
@@ -283,7 +283,7 @@ ruling")*, **so its three-tier split is unwritten.** ⏸️ *Un-deferring it is 
 ## Open Questions
 
 - ✅ **THE NAME** — *ruled 2026-10-03, `DR-39`: Relung Panen*
-- ⛔ **The founding** — *who, when, why, with what and without what*
+- ⛔ **The founding** — *when, why, with what and without what* (the nations are ruled: Indonesia and Malaysia, jointly, `DR-34`)
 - ⛔ **The port** — *is the subglacial Transkriptsii approach canon? It would be a **fifth port tier***
 - ⛔ **Power** — *the binding constraint on the agricultural role, and unanswered*
 - ⏸️ **Un-defer the `Division_of_Industry/16` three-tier split**

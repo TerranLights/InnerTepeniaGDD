@@ -1,4 +1,4 @@
-# Mawson — Cultural Spec Sheet
+# Mawson — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -282,3 +282,5 @@ Becoming a local at Mawson means engaging with both halves of the city's identit
 ## 32. Diaspora Character in Concordia
 
 As the Mawson subnet's hub, Mawson's name and St. Douglas's legacy are known throughout Tepenia even where its specific demographic reality is not — Concordia knows Mawson as the face of its subnet. Diaspora character would likely reflect the city's genuine plurality: Chinese, Japanese, Korean, Indonesian, and Australian threads all present, alongside an institutional, hub-city competence distinct from more singularly-founded Tepenian cities' refugee communities.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Kazakhstan, Russia (the core state) and Australia, jointly (`DR-33`, `DR-46`, `DR-53`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

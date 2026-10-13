@@ -6,10 +6,18 @@ the run continues on the stated default until you do. Newest section first.
 
 ---
 
-## At a glance — 53 open items *(updated 2026-10-06)*
+## At a glance — 120 open items *(updated 2026-10-12)*
 
 | # | Item | Where it bites | Default while open |
 |--:|---|---|---|
+| FQ-127–FQ-131 | **Mirny Step 10 (readiness check), 5 questions** (Q-145…Q-149): does index L124 mean the city or the district · sweep the old city name in the index now or with the held rename sweep · does the header default-deny count as the item-1 banner · which city runs next · is L113 census composition only | Step 10 review; the next city's run | the stated defaults; **none blocks** |
+| FQ-119–FQ-126 | **Mirny Step 9 (Record, 9.5), 8 questions** (Q-137…Q-144): the one ground for disregarding the graphify hook in a warm pass · do PROOF positional copies count under the name guard · is a raw-output block with labeled cuts compliant if headed as excerpted · may a merge begun before 13:59 finish after it · should the tracker mark PROPOSED instead of ✅ · should `handoff_audit.py` stay in the post-write checks · update the Position-Coverage ledger now · is the matched handoff row an acceptable T5 late marker | Step 10 onward; methodology review | the stated defaults; **none blocks Step 10** |
+| FQ-111–FQ-118 | **Mirny Step 8 (Review Panel), 8 questions** (Q-129…Q-136): whose call when one person reads the wind for another · is a child's crossing hers, the household's or an operation's · did the founders write in the record · should the quarry's candidate seats include the city's own allocation · does Mirny tell its members anything after an outage · are the founding robots unasked living teachers · does teaching the picture of the wind change the Social Contract · is a refusal on national canon `unmet` or `declined` | the Social Contract's scope; Phase 7's wording | the stated defaults; **none blocks Step 9** |
+| FQ-104–FQ-110 | **Mirny Step 7 (QA), 7 questions** (Q-122…Q-128): did Mirny post any wind condition in-frame · is Q-20 closed · does the no-food-figure rule cover demand arithmetic · all four substitutes or only the peer-free ones · does the Social Contract rest on wind and hub with the record as national ground · is the Tri-Cities name in-frame · could a resident leave for another city | Step 8 onward; the strongest finding's leg 4 | the stated defaults; **none blocks Step 8** |
+| FQ-93–FQ-103 | **Mirny Step 6 (Differentiate), 11 questions** (Q-111…Q-121): a Catalog section and axis columns for Meaning/Order/Making in the table · what the Pass column holds · a pointer-only symbol column or the registry read beside the table · whether a Tier 3 face may sit in a cell · whether the word guard reaches table cells · which wording the Transmission cell carries · a recurring crisis state as substitute 1's stand-in · whether a row that is one property seen nine ways is a strength or a flag · a tense column · the Death cell's wording | the terminal check; the table's structure | the stated defaults; **none blocks Step 7** |
+| FQ-82–FQ-92 | **Mirny Step 5 (Reconciliation), 11 questions** (Q-100…Q-110): do the relay vigils belong to the pre-war city, and does anything follow an outage · is the culture files' wind-named role a maker or a reader · test rebuilt Earth before the Element is confirmed · are the sector shares ratified canon or the culture sheet's own · does the city-on-the-line epithet survive the light correction · may the vision-dated material be read before the annotation stage · is the cost of competence-over-romance meant · was the outer ring founder-built · rewrite the solstice observances to the corrected light · is the founding layering Act 1 only · apply the 23-row docket before, with or after the post-ULM rewrite | Step 6 onward; the datasheets; Phase 9 amendments | the stated defaults below; **none blocks Step 6** |
+| FQ-71–FQ-81 | **Mirny Phase 10 (Catalog), 11 questions** (Q-89…Q-99): the axis label · whether Phase 10 stays name-free or offers English authoring designations (one held: a name for the fast-ice plain) · confirm Saturn and accept Air as the Element, or hold the slot · is the absence of a posted weather condition intended · fixed lines between entries and a call-in practice · does "Coastal Cut" stand as the catalog's name for Hwy 110 · the companion README's TBD tie to the Russian-descended community · visible marks of the handover on the station's fabric · how the harbor call is carried · a docket (stale datasheet rows; the Elementals' "six/seven") · whether an unnamed founding robot counts as a notable-figure placeholder | Step 5 | the stated defaults (PA-64…PA-68) |
+| FQ-65–FQ-70 | **Mirny Phase 9 (Populations), 6 questions** (Q-83…Q-88): the axis label and whether the two lines (wind, memory) ever get an in-world name · fully specified founding robots · whether a human child's tongue follows the community (`RU20` L16) · whether later human immigration reached Mirny (`DR-51`) · whether a founding robot's origin stays biography in Act 2 · whether "built here" is "from here" in the way "born here" is | Phase 10; Step 5 | the stated defaults (PA-57…PA-63) |
 | FQ-56–FQ-64 | **Mirny Phase 8 (Making), 9 questions** (Q-74…Q-82): the Borrowed Form at Phase 8 and whether a sky-name for a wind is an instrument · do the two bodies dress alike · siligel's lethality to humans · the record's language · siligel at Mirny's cold · the glitch-coolant placement · any food tier at Mirny · how a human child acquires speech · the catalog's windbreak premise (docket) | Phases 9–10; Step 5 | the stated defaults (PA-48…PA-56) |
 | FQ-45–FQ-55 | **Mirny Phase 7 (Order), 11 questions** (Q-63…Q-73): what "mandated" means in-world · which figure governs, §20's 23.6 % or Half B's 11.8 % (docket) · the Industrial mandate's basis · a chamber at Mirny · whether the harbor watch's call is public and binding · which sector carries the watch and the extraction crews · Law 1 and handing off a post · the quarry's one fraction or two · the Register's justice line against `H42` · the superseded `01` on the MUST-OPEN list · the nineteenth slot | Phases 8–10; Step 5 | the stated defaults (PA-38…PA-47) |
 | FQ-38–FQ-44 | **Mirny Phase 6 (Meaning), 7 questions** (Q-56…Q-62): the `National_Holidays` Mirny entry and `DS6`/`INH` docket · any faith meant at Mirny · whether the record is written in · Independence Day with a sunrise · robot death where no faith is sited (reserved) · who calls the open water · the Borrowed Form's trigger. Full text in the section below | Phases 7–10; Step 5 | stated defaults below; none blocks Phase 7 |
@@ -33,11 +41,130 @@ the run continues on the stated default until you do. Newest section first.
 
 ---
 
+## Mirny · Step 10 (the readiness check), written 2026-10-13
+
+*Source: `Mirny_Subnet/Mirny/10_Readiness_Check.md` (questions Q-145…Q-149). Nothing was applied to any file; the fixes for items 1, 1a, 7, 8 and 10 are requests R-180…R-185.*
+
+- **FQ-127 · Is index L124's Vostok the city (now Ariun Nuur) or the district that keeps the name (Q-145)?** **Default:** treated as the city; the line needs a fix or a band either way.
+- **FQ-128 · Sweep the index's old city name (L121, L122, L124) now, or with the held rename sweep after the Mirny pass (Q-146)?** **Default:** with the held sweep.
+- **FQ-129 · Does the cold-run header's `project_*` default-deny count as the contamination banner item 1 requires (Q-147)?** **Default:** no; the index text is not covered by either instrument.
+- **FQ-130 · Which city runs next (Q-148)?** **Default:** none named; items 1, 1a and 7 were run for Casey, Kunlun and Vostok.
+- **FQ-131 · Index L113 ("Kunlun 19-nation") is census composition only, not a founding claim (Q-149).** **Default:** yes.
+
+---
+
+## Mirny · Step 9 (Record and Recording Law), written 2026-10-12
+
+*Source: `Mirny_Subnet/Mirny/09.5_Log.md` (questions Q-137…Q-144). Nothing was applied to any pass file or methodology file; the proposed observation entries M-283…M-298 are in the observations log. None of these blocks Step 10.*
+
+- **FQ-119 · Which ground for disregarding the graphify hook in a warm pass (Q-137)?** `DR-6`, or also the cold-run exception? **Default:** `DR-6`; one ground stated in every brief (M-293).
+- **FQ-120 · Do PROOF positional copies count as "any line" under the name guard (Q-138)?** **Default:** exempt; copied exactly (PA-92; M-295).
+- **FQ-121 · A raw-output block with labeled cuts, headed as excerpted (Q-139).** Compliant with "never summarize"? **Default:** yes if the heading says excerpted and the full output is saved (M-285).
+- **FQ-122 · A merge begun before 13:59 and finished after it (Q-140).** **Default:** allowed once started, as every record since Phase 4 has assumed.
+- **FQ-123 · Mark steps awaiting review PROPOSED instead of ✅ in the tracker (Q-141)?** **Default:** unchanged (✅ with the "awaiting developer review" note) until you rule (M-287).
+- **FQ-124 · Keep `handoff_audit.py` in the post-write checks while it cannot validate (Q-142)?** **Default:** keep, pasted as excerpt; raise a repair request (R-170; M-284).
+- **FQ-125 · Update the Position-Coverage ledger now (Q-143)?** It went into the panel mostly blank. **Default:** not touched; your confirmation is needed.
+- **FQ-126 · Is the matched handoff row (H-1) an acceptable T5 late marker (Q-144)?** **Default:** no; the comparison is unrecorded (M-286; S9-RF-1).
+
+---
+
+## Mirny · Step 8 (Review Panel), written 2026-10-12
+
+*Source: `Mirny_Subnet/Mirny/08_Review_Panel.md` (questions Q-129…Q-136). Nothing was applied to any pass file. None of these blocks Step 9.*
+
+- **FQ-111 · Whose call inside a household (Q-129)?** When one person reads the wind for another and the other is hurt. Did you mean the Social Contract to reach inside a household? **Default:** read as stated for one person on her own reading (PA-90).
+- **FQ-112 · A child's crossing (Q-130).** The child's own, the household's, or an operation's — and is the point ever marked? **Default:** unmarked; a hinge for a story, not a rule.
+- **FQ-113 · Did the founders write in the record (Q-131)?** **Default:** unknown; `P3` S2 and `P6` P6-17 both conditional on Q-58.
+- **FQ-114 · The city's own allocation as a candidate seat (Q-132).** **Default:** added as a fifth candidate (e) to `P7` P7-16 as a proposal; the Phase 7 axis unreworded.
+- **FQ-115 · Does Mirny tell its members anything after an outage (Q-133)?** **Default:** the ledger is hub-side; no account reaches the members (PA-91).
+- **FQ-116 · Are the founding robots unasked living teachers (Q-134)?** **Default:** unasked; the spine's no living teacher stays an Act 1 reading.
+- **FQ-117 · Does teaching the picture of the wind change the Social Contract (Q-135)?** **Default:** held as a question; no edit to `P6` P6-18.
+- **FQ-118 · A refusal on national canon: `unmet` or `declined` (Q-136)?** **Default:** `declined`; the panel's one `unmet` is the keepers' debt.
+
+---
+
+## Mirny · Step 7 (QA, 17 gates), written 2026-10-12
+
+*Source: `Mirny_Subnet/Mirny/07_QA_Gates.md` (questions Q-122…Q-128). Nothing was applied to any pass file; six errata (E1–E6) go into Step 8's brief. None of these blocks Step 8.*
+
+- **FQ-104 · Did Mirny post any wind condition in-frame (Q-122)?** For operations, for residents, or not at all? If not at all, is that a choice of the place or simply unwritten, for a city of 1.35 million with an administration? **Default:** leg 4 stands only as *no rite, call or record entry in any admitted file* (PA-84); the reconciling form is no rule over a person's own crossing, whatever operations post.
+- **FQ-105 · Is Q-20 closed (Q-123)?** Installation NOT ASSIGNED (`DR-28`)? **Default:** yes in substance; wording to be retired at Record.
+- **FQ-106 · Does the no-food-figure rule cover demand arithmetic on the national setting (Q-124)?** **Default:** the Phase 4 figures are struck or void-tagged at Record.
+- **FQ-107 · All four III.4 substitutes, or only the peer-free ones (Q-125)?** Step 6 ran a re-scoped substitute 2 on Mirny's own parts. **Default:** accepted, recorded as a departure from `FRM` A.8.
+- **FQ-108 · Is the Social Contract's record leg the national ground (Q-126)?** **Default:** yes; Mirny's Social Contract rests on its wind and its hub (E5).
+- **FQ-109 · Is the Tri-Cities an in-frame collective name (Q-127)?** **Default:** undated; not used.
+- **FQ-110 · Could a resident leave Mirny for another city in-frame (Q-128)?** **Default:** unwritten; not assumed.
+
+---
+
+## Mirny · Step 6 (Differentiate — write-only), written 2026-10-12
+
+*Source: `Mirny_Subnet/Mirny/06_Differentiation.md` (questions Q-111…Q-121). Mirny's nine-section row was written to `Cross_City_Culture_Differentiation_Table.md`; the table's structure was not changed. None of these blocks Step 7.*
+
+- **FQ-93 · A Catalog section (Q-111).** The table has none, so Phase 10's axis has no destination. Add a *Phase 10 — Catalog* section (carrying Step 5's ring caveat)? **Default:** propagation only; nothing added.
+- **FQ-94 · An axis column for Meaning, Order and Making (Q-112).** Sections 2–4 and 8–9 effectively have one. **Default:** the phase labels cited by pointer under each caption.
+- **FQ-95 · What does the Pass column hold? (Q-113).** **Default:** provenance (the run, mode, span and standing).
+- **FQ-96 · The symbol layer and the table (Q-114).** The measured case behind the instrument was a symbol collision. A pointer-only column, or the registry read beside the table at the terminal check? **Default:** the registry read beside the table; no symbol word in any cell.
+- **FQ-97 · May a Tier 3 culture-file phrase sit inside a cell (Q-115)?** **Default:** no; the surface/mechanism pair stands beside the Meaning cell by pointer.
+- **FQ-98 · Does the word guard reach table cells (Q-116)?** **Default:** yes; the word is kept out of every cell.
+- **FQ-99 · Which wording for Transmission (Q-117)?** Step 5's *trusted to the book* sits against `P7` P7-27 and P7-28. **Default:** the pass's wording (the outcome is the examiner).
+- **FQ-100 · May a recurring crisis state stand in for an absent crisis era (Q-118)?** **Default:** yes, labeled as a state.
+- **FQ-101 · Is a row that is one property seen many ways a strength or a flag (Q-119)?** **Default:** a flag for the terminal check, asked of every row.
+- **FQ-102 · A tense column in the table (Q-120)?** **Default:** not added.
+- **FQ-103 · The Death cell's wording and the record-side finding (Q-121).** **Default:** NULL, reserved by ruling; the record-side finding kept out.
+
+---
+
+## Mirny · Step 5 (Reconciliation and the CLOSE pass), written 2026-10-12
+
+*Source: `Mirny_Subnet/Mirny/05_Reconciliation.md` (questions Q-100…Q-110). The datasheets belong to you: nothing in the 23-row docket (D-1…D-23) was applied, and Phase 9's own file was not edited. None of these blocks Step 6.*
+
+- **FQ-82 · The relay vigils (Q-100).** The robot-culture draft describes quiet cross-rank gatherings when the subnet's connection is at risk (a withheld source, no date). Do they belong to the pre-war city or to the damaged post-war relay, and does any gathering or rite follow an outage, not only its risk? **Default:** held as a tier-3 seed; read as company without a second answerer; the Social Contract's falsifier is touched, not fired (BT-8; S5-RF-3).
+- **FQ-83 · The wind-named role (Q-101).** The culture files name roles for wind *engineering*; Phase 10's P10-6 says no role is named for *reading* the wind. Is the intended role a maker against the wind or a reader of it? **Default:** a maker; P10-6 stands, refined; no Phase 9 amendment from it.
+- **FQ-84 · The Element (Q-102, with FQ-73).** The robot-culture draft transcribed Earth on 2026-08-10; Phase 10 read the registry as pending and determined Air provisionally, but never tested the rebuilt Earth. Test rebuilt Earth before confirming? **Default:** the Element is left open; Saturn confirmed provisionally; Air stands unrevised and unconfirmed (R-132).
+- **FQ-85 · The sector shares (Q-103).** Are the six shares the pass took from `D16`'s canon §15 ratified canon, or the Cultural Spec Sheet's own figures? **Default:** the figures stay at full strength but are tagged corroboration-class with provenance named (D-13; R-139).
+- **FQ-86 · The city-on-the-line epithet (Q-104).** Should it survive the 2026-09-04 light correction as Mirny's self-image, and may it rest on the spec sentence the contract excluded as a conclusion? **Default:** a seed (S5-RF-9); never a place name or demonym (R-131).
+- **FQ-87 · Vision-dated material (Q-105).** May the vision-dated lines (the rough-bars line and the two vision paragraphs) and the whole personality read be read before the post-ULM annotation stage (`DR-10a`)? **Default:** out of frame; tagged, not reconciled (D-21).
+- **FQ-88 · The cost of competence (Q-106).** The existing material calls the ethic competence over romance; the pass finds the same arrangement's cost (blame; a record that never learns). Is the cost meant? **Default:** the pass's finding stands; the file's line is read as the Social Contract's public face (BT-1).
+- **FQ-89 · The outer ring (Q-107).** Phase 10's axis says the lasting landmarks were made by nobody living at Mirny; was the ring founder-built? **Default:** unestablished; recorded as a strain on Phase 10's no-exception claim (S5-RF-1), not a withdrawal.
+- **FQ-90 · The solstice observances (Q-108).** Rewrite the Cultural Spec Sheet's two observances to the corrected light, and on which days? **Default:** the winter one is a seed on the low noon sun (national day); the summer one is struck (D-4; R-133).
+- **FQ-91 · The founding layering (Q-109).** Is the sheet's founding-and-later layering meant for Act 1 only, with the founding memory carried by persons in Act 2? **Default:** yes, scoped to Act 1 (D-1; S5-RF-7).
+- **FQ-92 · The docket (Q-110).** Apply D-1…D-23 before the post-ULM rewrite, with it, or leave? **Default:** nothing applied.
+
+---
+
+## Mirny · Step 4 · Phase 10 (Catalog), written 2026-10-11
+
+*Source: `Mirny_Subnet/Mirny/04_Phase_10_Catalog.md` (questions Q-89…Q-99). None of these blocks any phase; Step 4 is closed.*
+
+- **FQ-71 · The axis label (Q-89).** Phase 10 sorts the city's contents by whether a thing outlasts the next storm. Readers A and C wrote "What stays, what refills"; reader B wrote "Kept unseen, surfaces refill", which adds that the lasting things are noticed only at failure. Which label sits with your view of Mirny? **Default:** A's and C's wording, with B's as the third order (P10-1).
+- **FQ-72 · Name-free, or English authoring designations (Q-90)?** No in-world tongue is named and no landmark has an admitted form, so Phase 10 offered no name. One candidate was withheld: a designation for the fast-ice plain (the only feature with a physical basis, since the spec admits that the sea freezes seasonally), which rests on a "winter" word the contested sea calendar (Q-40) could overturn. Should authoring designations be offered at all? **Default:** none (PA-65); the designation is reserved (RF-13).
+- **FQ-73 · Planet Saturn and Element Air (Q-91).** Saturn is confirmed provisionally (its negative term, "held together only loosely", lands on the subnet's single relay path, not on Mirny itself); Air is determined provisionally on the general resident's day. Confirm, revise, or hold the Element slot? **Default:** Saturn + Air, labels provisional (PA-66); Neptune, the Sun, Electricity, Metal and Wood are reserved (RF-1, RF-2).
+- **FQ-74 · Is the absence of a posted weather condition intended (Q-92)?** A real public weather call posts the present, so it needs no lead time; what stays unadministrable is who answers. Reader B reads the absence at Mirny as a cultural choice, not a physical limit, and offers it as a refinement of `P7` P7-15. **Default:** absent, read as a choice (P10-8); not adopted as an instrument (RF-16).
+- **FQ-75 · Do residents keep fixed lines between entries, and a call on leaving and arriving (Q-93)?** The line alone does not change the Social Contract; a call-in gives a crossing a witness. **Default:** the line is a candidate (C2-16), the call-in reserved (RF-3).
+- **FQ-76 · Does "Coastal Cut" stand as the catalog's name for Hwy 110 at Mirny (Q-94)?** It is the spec's own road name, kept as an existing canon name, not a designation of this pass. **Default:** yes.
+- **FQ-77 · The companion README's TBD tie to "Mirny's own Russian-descended community" (Q-95).** Worded before `DR-46`. Is it a relation to a stock community only, or ever a residence? **Default:** relation only; nothing placed (RF-9).
+- **FQ-78 · Does the station's oldest fabric show visible marks of the handover (Q-96; `P3` seam S1)?** **Default:** unwritten.
+- **FQ-79 · How is the harbor's call carried across a 13–16 km city (Q-97)?** Sound, a signal, or people? **Default:** a candidate, not a fact of sound (C4-14).
+- **FQ-80 · Docket (Q-98).** `DS10` cites a Zodiac quick-reference sheet and two placeholder role-titles from excluded spec lines — retire those rows? `ELE` L16 says six labels are under review while seven members carry the mark (`DR-1` says seven) — correct the word? **Default:** nothing used, nothing edited.
+- **FQ-81 · Does an unnamed founding-cohort robot count as a "notable figure" placeholder under `RV-3` (Q-99)?** **Default:** treated as a role (C3-8).
+
+## Mirny · Step 4 · Phase 9 (Populations), written 2026-10-11
+
+*Source: `Mirny_Subnet/Mirny/04_Phase_09_Populations.md` (questions Q-83…Q-88). None of these blocks any phase.*
+
+- **FQ-65 · The axis label, and whether the two lines ever get an in-world name (Q-83).** Phase 9 reads Mirny's working distinction as formation and exposure rather than body or stock: a wind line anyone can cross by exposure, and a memory line only arrivals have. The three readers named it "Formed here, or arrived", "Exposure, not kind" and "First sky, not body". Which label, if any, sits with your view of Mirny; and should the lines have an in-world name at Step 5 (never a demonym)? **Default:** "Formed here, or arrived"; derived structure only (PA-61).
+- **FQ-66 · Were any founding robots fully specified by a human on Upper Earth (Q-84)?** `RU5` L35–46 says the First Interwar made it possible. Should it matter in-world? **Default:** a reserved finding only (RF-1).
+- **FQ-67 · Does a human child's native language follow the surrounding community (Q-85)?** `RU20` L16 says the condition that sets a robot's vernacular is "the same condition that would shape a human child's own native language". Is that canon for humans (`P8` R-105)? **Default:** not adopted (RF-3); the tongue stays unnamed.
+- **FQ-68 · Is Mirny's Act 2 human half wholly Tepenian-born (Q-86)?** The treaty text gives humans no admission channel after June 21, 2564; `DR-51` notes later immigration may occur. **Default:** neither assumed nor denied (PA-59).
+- **FQ-69 · Does the Act 2 rule "origin is ancestry, not identity" apply to an individual founding robot still alive in Act 2 (Q-87)?** Or does her origin stay biography while her identity becomes Tepenian? **Default:** biography (P9-3).
+- **FQ-70 · Is a robot built at Mirny "from Mirny" in the same sense as a human born there (Q-88)?** Does being born or being built carry a distinction (`RP` L436), and do robots built here form build-date cohorts in-world (`RP` L215)? **Default:** structural sameness on the formation line only; cohorts [PA-62].
+
 ## Mirny · Step 4 · Phase 8 (Making), written 2026-10-06
 
 *Source: `Mirny_Subnet/Mirny/04_Phase_08_Making.md` (questions Q-74…Q-82). None of these blocks any phase.*
 
-- **FQ-56 · The Borrowed Form at Phase 8, and whether a name is an instrument (Q-74).** Phase 8 fired the trigger at form level for the record (the amended copy) and for naming the winds. Confirm, or hold it for Step 5 (with FQ-44). Inside it: does a spoken name for a wind told by its sky count as an instrument that changes the compact? The three readers split three ways. **Default:** held as a test; no wind name written.
+- **FQ-56 · The Borrowed Form at Phase 8, and whether a name is an instrument (Q-74).** Phase 8 fired the trigger at form level for the record (the amended copy) and for naming the winds. Confirm, or hold it for Step 5 (with FQ-44). Inside it: does a spoken name for a wind told by its sky count as an instrument that changes the Social Contract? The three readers split three ways. **Default:** held as a test; no wind name written.
 - **FQ-57 · Do robots and humans dress alike (Q-75)?** `D08` asks it nationally. At Mirny they are alike outdoors by function. Is a city meant to inflect it, and is indoor dress meant to differ? **Default:** alike outdoors by function; the rest open (PA-48).
 - **FQ-58 · Is siligel lethal to humans as canon (Q-76)?** The brief says one dose "would absolutely kill a human", apart from the chemistry proposal. And does a robot take anything at all from human food? **Default:** developer-stated, not ruled; nothing crosses (PA-51).
 - **FQ-59 · The record's language (Q-77).** It cannot be inferred from the station. Rule it, or leave it a mystery of the record? **Default:** open.
@@ -87,14 +214,14 @@ the run continues on the stated default until you do. Newest section first.
 - **FQ-39 · Any faith at Mirny? (Q-57).** On the opened roster no faith is sited at Mirny and none naturally fits; four roster folders are empty. Is "no faith sited" the intended state? **Default:** slot open; residents may hold national faiths as individuals.
 - **FQ-40 · The record (Q-58).** Do Mirny's residents write in the inherited record (amend it, verify it, enter a loss in it), and did the founders keep a record of the founding? This moves:
   - the founding finding;
-  - the "amended copy as the compact's dissent";
+  - the "amended copy as the Social Contract's dissent";
   - a yearly open-water record.
 
   **Default:** neither assumed.
 - **FQ-41 · Independence Day with a sunrise (Q-59).** At Mirny the sun clears the horizon on June 21. Is the national "darkest day" reading meant to reach Mirny inflected? **Default:** relation only; whether residents mark the noon sun is reserved (RF-12).
 - **FQ-42 · Reserved docket (Q-60).** When the mortuary question opens: `Robot_Physiology` L174 says robot death is handled by "religion and community"; at a city with no sited faith, does that leave community? **Default:** nothing written (`RV-4`).
 - **FQ-43 · The called water (Q-61).** Does the harbor watch publicly call the year's first open water? Pairs with FQ-11 (public wind call) and FQ-33 (the harbor). **Default:** a candidate observance, called on the day.
-- **FQ-44 · The Borrowed Form's trigger (Q-62).** Does an empty observance category fire the Borrowed Form, or is the trigger reserved for Phase 8? **Default:** fired narrowly — at §D as [D] (the amended record as the compact's dissent, not adopted) and as resemblance only in §E.
+- **FQ-44 · The Borrowed Form's trigger (Q-62).** Does an empty observance category fire the Borrowed Form, or is the trigger reserved for Phase 8? **Default:** fired narrowly — at §D as [D] (the amended record as the Social Contract's dissent, not adopted) and as resemblance only in §E.
 
 ---
 

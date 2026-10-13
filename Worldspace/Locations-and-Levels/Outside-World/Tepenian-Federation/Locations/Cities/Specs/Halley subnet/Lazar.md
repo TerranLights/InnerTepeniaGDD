@@ -6,7 +6,7 @@
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
 **Highway access:** Eastern terminus of Hwy 7 proper; origin point of the Belgrano Highway Extension (Hwy 7-ext, built 2611–2614) toward Utstein and Temirötkel
-**Significance:** The only Halley subnet city formed from the coalescence of two originally separate settlements; resolves the India-founding-population canon gap (see canon note) by having the adjacent Russian-founded settlement expand into the unoccupied Maitri site rather than inventing a founding nation from nothing. **Tepenia's single largest city by population, both pre- and post-war** (see Population Note below).
+**Significance:** The only Halley subnet city formed from the coalescence of two originally separate settlements; resolves the India-founding-population canon gap (see canon note): the second of the two communities is the CIN (`DR-34`), not an Indian population. **Tepenia's single largest city by population, both pre- and post-war** (see Population Note below).
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational — Tepenia's largest city overall, badly hit but not destroyed
 
 ---
@@ -25,7 +25,7 @@ The in-fiction justification for Lazar's outsized scale: near-coastal position (
 
 No Indians or people from the South Asian subcontinent (including Pakistan, Bangladesh, or related nations) ever came to Antarctica or settled in Tepenia. This is established world canon. The real Maitri Station (India) was therefore **completely unoccupied** when the exile era began — its infrastructure present but unclaimed by any Indian population. The real-world station name "Maitri" (Sanskrit: friendship) does not carry forward into Tepenia in any form.
 
-What resolves the gap: the real Novolazarevskaya Station (Russia) sits in the same Schirmacher Oasis, essentially adjacent to Maitri. Rather than invent a founding population for the Maitri site from nothing, Tepenia's founding history has the nearby, already-established Russian settlement expand into and eventually absorb the unoccupied site — see Founding, below.
+What resolves the gap: the real Novolazarevskaya Station (Russia) sits in the same Schirmacher Oasis, essentially adjacent to Maitri. As ruled in `DR-34`, the unclaimed Maitri site was settled by the CIN community, the second of two communities that coalesced with the nearby Russian settlement — see Founding, below.
 
 See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson) for the same India-exclusion situation at the other Indian Antarctic station — resolved differently there (Japanese diplomatic allocation, not adjacent-station coalescence).
 
@@ -154,11 +154,11 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 
 **Settled:** Post-Falkland Treaty, in three stages:
 
-1. **Two smaller settlements.** Russian exiles settled the Novolazarevskaya Station infrastructure, and it became the area's first, larger, more established Tepenian settlement. The nearby Maitri site, unoccupied since no Indian exile population ever arrived, became a second, smaller settlement, populated not independently but as an outgrowth of Novolazarevskaya itself — overflow population expanding into ready-built, unclaimed infrastructure a short distance away.
-2. **Coalescence.** As both settlements grew, the physical and social distance between them collapsed — what began as two related but separate communities became, over time, one continuous urban area. The city that resulted was a genuine composite: Novolazarevskaya's institutional core and Maitri's physical expansion, functioning as a single settlement in every practical sense.
+1. **Two smaller settlements.** Russian exiles settled the Novolazarevskaya Station infrastructure, and it became the area's first, larger, more established Tepenian settlement. The nearby Maitri site, unoccupied since no Indian exile population ever arrived, became a second, smaller settlement founded by the CIN community (`DR-34`) on the ready-built, unclaimed infrastructure a short distance away.
+2. **Coalescence.** As both settlements grew, the physical and social distance between them collapsed — what began as two related but separate communities became, over time, one continuous urban area. The city that resulted was a genuine composite of two communities, Russian and CIN, whose settlements functioned as a single city in every practical sense.
 3. **The rename.** The merged city was first known simply as Novolazarevskaya, matching its dominant founding population. But over succeeding generations, American, German, French, and Brazilian immigration reshaped the city's demographics until the Russian founding population was outpaced by all of them combined — the same dilution pattern every Halley subnet founding nation experiences, just with an unusually strong secondary hold given Novolazarevskaya's real infrastructure advantage. As the city's day-to-day linguistic and cultural center of gravity shifted, the long, specifically Russian name became a burden the new demographic majority had no attachment to — and it was phonetically truncated down to "Lazar," keeping a recognizable fragment of the original name (and, fittingly, a fragment that reads as a legitimate personal name in its own right) while shedding the rest.
 
-**Founding population:** Russian exiles, later demographically overtaken by USA (Primary), and Germany, France, UK, and Brazil (Significant tier) — see full composition in `Official_Population_Census.md`.
+**Founding population:** Russia (the core state) and the CIN, as two communities that coalesced (`DR-34`); later demographically overtaken by USA (Primary), and Germany, France, UK, and Brazil (Significant tier) — see full composition in `Official_Population_Census.md`. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 ---
 

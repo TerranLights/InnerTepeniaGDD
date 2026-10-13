@@ -1,4 +1,4 @@
-# Utstein — Local Robot Culture Spec Sheet
+# Utstein — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-38`): formerly *Princess Elisabeth* (placeholder `{{ Princess Elisabeth }}`); now **Utstein** (native form Utsteinen), "the outer stone".** References to "Princess Elisabeth Antarctica", the station, or Princess Elisabeth of Belgium are the real-world station and namesake and are unchanged. Founders: the Scandinavian Trade Union nations (`DR-22`); text written around a Belgian founding is a revisit item (`R-17`).
 
@@ -435,3 +435,5 @@ maintained self-sufficient power (Utstein's zero-emissions systems, Signy's wind
 a real check once Palmer Subnet's own run reaches Signy. The still-deferred Santa Luce remains paused pending its
 own founding-nation fix — with this run, **every other Halley-subnet city is now drafted**, closing out the
 subnet except for that one deliberate exception.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: the Scandinavian Trade Union nations, jointly (`DR-22`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

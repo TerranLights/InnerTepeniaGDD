@@ -1,4 +1,4 @@
-# Lazar — Cultural Spec Sheet
+# Lazar — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -270,3 +270,5 @@ Becoming a local at Lazar is more gradual and anonymous than in the subnet's sma
 ## 32. Diaspora Character in Concordia
 
 Lazar refugees in Concordia are recognizable by a genuine comfort with scale, plurality, and integration — people shaped by a city that was never built around one clean identity, and that grew from two separate beginnings into something coherent. Distinct from refugees of the subnet's smaller, more singular cities, Lazar's diaspora carries an instinct for finding common ground across difference rather than defending one dominant cultural default.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Russia (the core state) and the CIN, as two communities that coalesced (`DR-34`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

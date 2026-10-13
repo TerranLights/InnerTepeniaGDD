@@ -1,4 +1,4 @@
-# Santa Luce — Cultural Spec Sheet
+# Santa Luce — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-36`): formerly *Abowasa* (placeholder `{{ Abowasa }}`), the Aboa + Wasa fusion; now **Santa Luce**.** Any line below that still says "Abowasa", "Aboa" or "Wasa" describes the FORMER name and the Finnish-Swedish founding it was written around, superseded by `DR-22` (Italy and the CIN). Those lines are revisit items (`R-16`).
 
@@ -270,3 +270,5 @@ Becoming a local at Santa Luce happens fast, almost inevitably, given the scale 
 ## 32. Diaspora Character in Concordia
 
 Santa Luce refugees in Concordia are rare, given the city's own small population, and where identifiable carry a specific, genuine comfort with close-quarters coexistence between different backgrounds — an instinct toward intimacy and being known rather than anonymity, distinct from refugees of Tepenia's larger, more impersonal cities.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Italy and the Confederacy of Intermarium Nations (CIN), jointly (`DR-22`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

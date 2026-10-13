@@ -1,4 +1,4 @@
-# Kunlun — Local Robot Culture Spec Sheet
+# Kunlun — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #5 of the Local Robot Culture Methodology, 2026-08-10.** A structurally different case from every prior
 city: Kunlun's population is 100% robot, by settled, deliberate, named safety policy (not attrition) — one of
@@ -271,3 +271,5 @@ Also checked against Ariun Nuur (same subnet, extreme cold, genuine ongoing cold
 real relationship exists between the two cities, but Ariun Nuur's own specialization (genetics research, not
 astronomy) and its retained human population keep every finding here from transplanting. No finding above
 reads as generic "extreme isolated research outpost" content that happened to get filed under Kunlun's name.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Ariun Nuur's founding stock (Künnarantaiga and Mongolia) plus the Sinian Federation (China) (`DR-34`, `DR-35`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

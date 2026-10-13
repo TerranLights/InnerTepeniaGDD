@@ -25,7 +25,7 @@
   - `Division_of_Industry` `00`, `08`, `09`, `10`, `16` at ranges (Mirny's §20 is `16` L2105–2173).
 - **Trimmed:** SOC to its table of contents; `Airports.md` dropped (no Phase 7 handoff touches it); the merge-provenance sections of Phases 2, 4, 5, 6 dropped (process records, not findings). The first draft of the list was 1,001 KB; the admitted list is 932 KB, about 30 % above Phase 6's 708 KB.
 - **Orchestrator-verified results (recorded, not dispatched):** the four `Factions/` files naming Mirny (found by `grep -l`; closed by the law of one location and the frame; contents read by no one); the PDFs (not T8-verifiable); SOC; `Airports.md`; `Megacorps/`.
-- **The brief named fourteen traps**, including: the Half B / §20 figures (R-24); the §20 Notes; the Technical/scientific cause; the superseded `01`; `DS7`'s stale anchors; the citation gate; currency; the compact; invented practices; reserved items; the treaty's status stamps; `City_Logistics`' scope; no T5 line.
+- **The brief named fourteen traps**, including: the Half B / §20 figures (R-24); the §20 Notes; the Technical/scientific cause; the superseded `01`; `DS7`'s stale anchors; the citation gate; currency; the Social Contract; invented practices; reserved items; the treaty's status stamps; `City_Logistics`' scope; no T5 line.
 - **No reader failed or was re-dispatched.** All three finished inside 38 minutes.
 
 ## Round 1 — what each reader wrote
@@ -276,7 +276,7 @@ NOT FOUND in corpus: 311
   [04_Phase_06_Meaning.md:45]  [CELL]  the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:57]           the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:57]           ( spn l103 corr ). the person answers for crossings decided on cues that are honest and unread ( res l30 corr ), so a loss is
-  [04_Phase_06_Meaning.md:58]           a; it names the compact's blind side, kept as p6-4
+  [04_Phase_06_Meaning.md:58]           a; it names the Social Contract's blind side, kept as p6-4
   [04_Phase_06_Meaning.md:65]           admitted-demoted; dr-28 : no meaning may be built on it ) l176 owed (an edit-history note, demoted) l142 must (inside the excluded
   [04_Phase_06_Meaning.md:69]           the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:69]           so mirny trusts what is written and what is relayed
@@ -302,7 +302,7 @@ NOT FOUND in corpus: 311
   [04_Phase_06_Meaning.md:104]           but a long-lived robot is a person to ask, not an archive
   [04_Phase_06_Meaning.md:106]           nobody who lives at mirny chose it; the one party the files name as founding it stands outside the country
   [04_Phase_06_Meaning.md:106]           ( p2 l258). the reading of the wind is one thing at mirny that nobody handed anyone
-  [04_Phase_06_Meaning.md:106]           ( p4 l174) - and the compact's private clause protects it (b
+  [04_Phase_06_Meaning.md:106]           ( p4 l174) - and the Social Contract's private clause protects it (b
   [04_Phase_06_Meaning.md:106]           in round 3). act 1: living human founders and founding robots are both witnesses; act 2: the first-person founding is a robot's
   [04_Phase_06_Meaning.md:110]           mirny is the one place in the subnet that knows what has happened, and it cannot tell anyone
   [04_Phase_06_Meaning.md:114]           the chambers made at sinheung are built from material mirny near-exclusively supplies
@@ -361,7 +361,7 @@ NOT FOUND in corpus: 311
   [04_Phase_07_Order.md:317]           is the one place in the subnet that knows what has happened, and it cannot tell anyone
   [04_Phase_07_Order.md:317]           falls to people at mirny, of whatever institution
   [04_Phase_07_Order.md:317]           the storm that breaks the relay also stops people walking
-  [04_Phase_07_Order.md:319]           ( cp l37; p4 p4-7) - volunteering prices differently by body. the compact meets its failure here: a culture that will not ritualiz
+  [04_Phase_07_Order.md:319]           ( cp l37; p4 p4-7) - volunteering prices differently by body. the Social Contract meets its failure here: a culture that will not ritualiz
   [04_Phase_07_Order.md:319]           also loses its channel ( p5 p5-5: the parent
   [04_Phase_07_Order.md:323]           the one role that already makes live calls on wind
   [04_Phase_07_Order.md:334]  [CELL]  a misjudged crossing is carried as the person's own
@@ -383,7 +383,7 @@ NOT FOUND in corpus: 311
   [04_Phase_07_Order.md:438]  [CELL]  has a written half (the record, the relay that
   [04_Phase_07_Order.md:450]           tendency - those who treat the record's thresholds as the only authority and are insulated from blame because
   [04_Phase_07_Order.md:453]           ( spn l143) - and the address of the big one is
-  [04_Phase_07_Order.md:455]           ( spn l68) - is a leverage the compact's own grammar is against using (
+  [04_Phase_07_Order.md:455]           ( spn l68) - is a leverage the Social Contract's own grammar is against using (
   [04_Phase_07_Order.md:458]           the struggle is not fear of the wind but the privacy of the loss
   [04_Phase_07_Order.md:472]           ( spec l131); for a robot, charging below freezing is one of
   [04_Phase_07_Order.md:472]           ( cp l30-37) - spend reserve to warm the cells, charge 10-20 times slower and exposed throughout, or take

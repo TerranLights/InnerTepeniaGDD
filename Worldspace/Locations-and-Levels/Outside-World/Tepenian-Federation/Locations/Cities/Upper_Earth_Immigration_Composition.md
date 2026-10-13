@@ -293,7 +293,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Russia** (25M), **Brazil** (17M) | Same Cape Town/Novo cluster as Troll |
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Santa Luce's UTC-1); Finland and Sweden are founding nations at Santa Luce — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
 
-*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective but the Finnish-Swedish co-founding character of Santa Luce is geographically supported. Their founding wave arrival via Novo set Santa Luce's initial identity.*
+*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective. Santa Luce's founders are Italy and the CIN (Founding Register, `DR-22`); the earlier Finnish-Swedish co-founding note is superseded.*
 
 ---
 
@@ -317,7 +317,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Brazil** (17M), **Australia** (13M) | European Cape Town corridor and Australia at 13M via Fremantle eastern approach; Australia appears at this specific city and not at more westerly QML stations |
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of PE's UTC+2); Belgium's founding character in GDD culturally embedded despite T3 Gini effective; South Africa to T3 |
 
-*Key note: Utstein is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia). Belgian founding character is GDD-embedded despite T3 by Gini composite.*
+*Key note: Utstein is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia). Utstein's founders are the Scandinavian Trade Union nations (Founding Register, `DR-22`); the earlier Belgian-founding note is superseded, and Belgium's composition tier is unchanged.*
 
 ---
 
@@ -436,7 +436,7 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **France** (35M), **UK** (32M), **Italy** (27M) | Pacific and Atlantic corridor large nations; 27–65M effective cluster |
 | 3 — Notable | **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Ordinary T3 pool by Gini composite; Australia and NZ set the founding wave character; Philippines and Malaysia via Pacific (UTC+8, distance=3 from McMurdo's UTC+11) |
 
-*Key note: The American founding character of Fort McMurdo in the GDD reflects effective population reality. Australia and NZ are the founding wave nations; USA and China dominate long-run composition.*
+*Key note: Fort McMurdo is not founded by a single nation (Founding Register, `DR-20`, `DR-21`): miners and administrators from all over Tepenia; the earlier American-founding note is superseded. Australia and NZ are the founding wave nations; USA and China dominate long-run composition.*
 
 ---
 

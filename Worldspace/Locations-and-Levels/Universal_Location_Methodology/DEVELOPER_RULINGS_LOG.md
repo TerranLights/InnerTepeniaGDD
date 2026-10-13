@@ -1072,6 +1072,91 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 
 ---
 
+## `DR-54` · ✅ **MIRNY: IDELSK-URALIA IS THE OFFICIAL ESTABLISHING COUNTRY** *(confirms `DR-46`; recorded 2026-10-12)*
+
+**Developer, verbatim (2026-10-12, while reviewing the Step 5 results of the Mirny ULM pass):** *"I would say we can go ahead and assign Idelsk-Uralia as the official establishing country of the city"* — said in reply to the Step 5 contradiction C-1 (the older culture sheets name Russia as the founder).
+
+| | |
+|---|---|
+| **Ruling** | **Idelsk-Uralia is Mirny's official establishing country.** This confirms the existing Register row (`Founded by Idelsk-Uralia`, status ✅, `DR-9`, `DR-46`); nothing in the Register changes. |
+| **Unchanged** | The exile groups stay **Russia, Australia and the Sinian Federation** (`DR-46`). The legal basis stays **geography and access** (`DR-19`); the real station, its operator and the namesake remain infrastructure facts and flavor only (`DR-24`, `DR-28`, `DR-32`). |
+| **What it settles** | The ground of the Step 5 contradiction **C-1** and docket rows **D-1** and **D-3** (`05_Reconciliation.md`): the culture sheets' single-stock Russian founding is wrong against a developer-confirmed Tier 1 row, not only against the Register's text. The docket rows stay **proposals**; no culture sheet was edited. |
+| **What it does NOT settle** | Whether the establishing country contributes any people or stock to the population (`PA-21`, `PA-55`, `Q-44` in the Mirny pass): the ruling names a country, not a population, and nothing was inferred. Those stay open. |
+| **Assumption** | "the city" is Mirny (the city under review when the ruling was given). |
+| **Changed** | This log only. `Founding_Register.md` already held the row; no pass file, spec, census or culture sheet was edited. |
+| **Not changed (flagged)** | The Mirny spec's `Founding population:` line and the culture sheets' Russia-as-founder wording: revisit in-window, as with `DR-53` (not now). |
+| **Hours** | Recording a developer's founding ruling is not restricted to 05:00–14:59 (same reasoning as `DR-33` and `DR-53`: the developer decides; this is assembly). |
+
+---
+
+## `DR-55` · ✅ **MIRNY PHASE 7 AND 8 CLARIFICATIONS (Q-63, Q-66, Q-77), PLUS THREE DEFERRALS** *(recorded 2026-10-12)*
+
+**Context:** the developer went through the open questions of Mirny's Phases 7 and 8 while reviewing the unattended run's results. Only what they ruled is recorded; nothing was inferred, and no pass file was edited.
+
+| Item | Developer, verbatim | What it settles |
+|---|---|---|
+| **Q-63** (Phase 7: what *mandated* means for a person) | *"There would always be some sort of consequences somehow. Not necessarily negative. People won't be punished for 'not pursuing' particular jobs. Simply that every choice has outcomes."* | Declining a mandated line of work carries no punishment, but every choice has outcomes (not necessarily negative). Bears on P7-10, RF-2, PA-39. |
+| **Q-66** (Phase 7: does Mirny hold a fabrication chamber?) | *"Every city has an entire array of fabrication chambers (not just one), since it's possible for robots to be from every city. The one-and-only exception to this is Dome Fuji ... since nobody is actually from that city."* | Mirny has an array of fabrication chambers, not one; Dome Fuji is the only city without any. Bears on P7-6, RF-4, PA-40 (the pass assumed a chamber by default). |
+| **Q-77** (Phase 8: the language of the inherited records) | *"they would be in the language of whoever owned the station at the time of the Falkland Treaty (which is not necessarily the same as the country that runs the station in our own timeline)"* | The record's language follows the station's in-world owner at the Treaty. **That owner has not been identified for Mirny**, and it is not assumed to be the real station's operator; the language stays undetermined until it is. Nothing inferred (`DR-19`, `DR-24`: the real operator is never a cause). |
+| **Q-71, Q-72, Q-73** (Phase 7: criminal-justice registry conflicts; the nineteenth industry slot) | *"That will need to wait until we can gather research on cultures in the countries/societies where the establishing peoples of Mirny come from. Whatever they would understand as 'normal', 'to-be-expected' punishment for criminal activities, that would contribute towards determining what kind of criminal justice system a city has"* | **Deferred** to research on the establishing societies. Principle recorded: a city's criminal-justice system is informed by what its establishing peoples would take as normal punishment. |
+| **Q-82** (Phase 8: windbreak/turbine architecture cited by the catalog) | *"that needs to be researched, when the time comes"* | **Deferred** to research. |
+| **Dome Fuji** | *"which I'm considering renaming to some sort of actual proper name, and would be colloquially known as 'The Temple'"* | **Not a ruling:** a rename under consideration. No rename sweep, no alias-table entry. |
+
+**Not yet answered** (explained to the developer 2026-10-12, answers pending): Q-64, Q-65, Q-67, Q-68, Q-69, Q-70 (Phase 7); Q-74, Q-75, Q-76, Q-78, Q-79, Q-80, Q-81 (Phase 8); E3 and Q-122 (Step 7).
+**Finding while explaining Q-80:** the Phase 8 reading list did not include `Division_of_Industry/12_Terraforming_and_the_Outdoor_Tier.md`, whose SITING table lists a Bunger Hills outdoor-food belt of about 400 km² serving Mirny among other cities. Q-80 is partly a missing-input question, not only a developer question. Not yet applied to Phase 8.
+**Changed:** this log only. **Hours:** recording a developer's ruling is not restricted to 05:00-14:59 (same reasoning as `DR-33`, `DR-53`, `DR-54`).
+
+---
+
+## `DR-56` · ✅ **MIRNY: THE WORD "COMPACT" BECOMES "SOCIAL CONTRACT"; THE WIND IS LEARNED ONCE, THEN TAUGHT; DUTY WITHOUT COMPULSION** *(recorded 2026-10-12; edits to the pass files are scheduled for 2026-10-13, in hours)*
+
+**Developer, verbatim (2026-10-12, reviewing Steps 5-9):**
+1. *"wherever there's a mention of 'Compact', replace that with 'Social Contract', because otherwise, I won't know what it means. Who even calls it a 'Compact'? That's not a valid term I've ever heard anywhere"*
+2. *"in Mirny's case specifically, the issue of 're-learning the wind' is technically true, but very ambiguously worded, and can cause problems later. What it should say is that, upon arrival/colonization/settlement, nobody knew about the wind, and had to learn on their own, but once they knew, then they were able to teach each other. The way it's worded now makes it sound as though each person throughout all 250-ish years of Tepenia's existence had to learn about the wind on her/his own. In the first generation or so of settlement, they're still learning how to deal with the wind. Once they have it figured out, they teach each other, set up signifiers with a weather report/relay system, and the people learned how to live and to communicate dangers to each other"*
+3. On Q-69: *"nobody is officially required to hand off posts, go outside to restore the relay, etc; that is true. However, there's a strong sense of community and tribe among Tepenians, to where people (both robots and humans) feel a sense of duty and obligation to where, if a person (either human or robot) is at a foremost position to contribute towards the society, not going out to restore the relay is a cause for deep and immense personal guilt. So, it's something people would do simply because it's the right thing to do, and not as a result of any sort of 'legal obligation'."*
+4. On Q-76: *"no, that's part of the chemistry. Any sort of material, compound, etc, that would supply a metal/cybernetic/electronic organism with energy would surely be lethal to Carbon-based cellular biological life. It's not about being a 'two-tier food system' or anything. Humans don't eat siligel for the same reason that humans nowadays don't drink battery juice. It's deadly and is only fit as food for specific types of entities."*
+5. On Q-81: *"of course. A human child would learn the dominant language of the society he/she grows up in. The difference is that, if the child's parent(s) speak(s) a different language, then the child would learn both. This is the same way it works anywhere."*
+6. On Q-70: *"that's something that we can figure out later"*. And: *"any questions that you already have suggestions for, go with those suggestions. All the rest, just leave as open questions for later."*
+
+| | |
+|---|---|
+| **Term** | **Correction recorded 2026-10-13:** my first note said "Compact" was my own coinage and used nowhere else. That was wrong. The word appears as a generic category in the **no-forced-fit law** (`CLAUDE.md`: "a stake, a compact, a debt, a standard of worth"), in `03_The_Phase_Spine.md` L791 and L809 ("a compact (what it agreed to and never wrote down)") and once in `00_RUNBOOK.md`; Mirny's Phase 6 applied that category to its strongest finding and named it "the Compact". **Replace it with "Social Contract" in the Mirny pass**, as the developer asked. **The methodology files and `CLAUDE.md` were NOT changed**; whether the generic category word should also change there is open (see the handoff). Heads-up: the phrase "social contract" already appears, with meanings not checked here, in `TODO.md`, the Concordia Second-Interwar sheet and several Background-Lore (not canon) files for other cities; none was read (law of one location). |
+| **The wind** | Learned once, then taught: in the first generation or so the settlers had to learn the wind on their own; once they had it figured out they taught each other, set up signifiers with a weather report/relay system, and the people learned to live and communicate dangers. This **settles `RC-1`/`PF-4`/`E4` for the developer's side (tacit judgment does pass person to person)**, answers **`Q-134`** in part (the founding cohort and their successors teach), and **answers `E3`/`Q-122`**: a weather report/relay signal system exists, so the strong form of leg 4 (nothing ever posted) does not hold. |
+| **Consequence to carry (flagged, not yet applied)** | This is more than a rewording. Parts of the pass's strongest finding rested on *no living teacher, nothing posted, nothing taught* as a standing condition (`P6` P6-3, P6-13, P6-17, P6-18; `P7` P7-18, P7-27; `P9` P9-5; `P10` P10-8; `SPN` G4 as applied past the first generation; Step 5 leg 4; Step 6 §3.1 and S6-RF-1 to RF-3; Step 7 E3/E4; Step 8 PF-4, PF-9, PF-11). Those need an amendment register and a re-derivation of what remains distinctive, scheduled for 2026-10-13 in hours. The Act 1 condition (nobody knew the wind; a record and no teacher) stays true for the first generation. |
+| **Interpretation to confirm** | "a weather report/relay system" is read as a communication system for warnings that rides the relay or the subnet network. Its form, who runs it, and whether it is public are **not** specified and nothing was assumed. |
+| **Duty without compulsion** | Q-69 answered: no one is legally required to hand off a post or go out to restore the relay; people of both bodies do it from a strong community duty, and not doing so when one is best placed brings deep personal guilt. Bears on `P7` P7-17, CAND-1, `PA-42`, and the keepers' debt (`P6` P6-6). |
+| **Chemistry** | Q-76 answered: siligel, and any compound that energizes a metal/cybernetic/electronic organism, is lethal to carbon-based life. Part of the chemistry, not a food-tier rule. Bears on `P8` P8-4, RF-4, `PA-51`. |
+| **Language** | Q-81 answered: a human child learns the dominant language of the society they grow up in, and both languages if the parents speak another. Bears on `P8` P8-24, RF-14, R-105. |
+| **Suggestions adopted** (per the developer's instruction) | **Q-64:** confirm 23.6 % for Mirny; annotate `D16` L275 later. **Q-65:** ruling C stands as the developer's ruling, with the spec's economy text (`SPEC` L174, L176) as its admitted ground. **Q-67:** the harbor watch's call is public and binding on ships and offload by practice, with no legal compulsion over a person. **Q-80:** add `Division_of_Industry/12` (the outdoor-food siting table) to Phase 8's revisit list. |
+| **Superseded** | **Q-74** and `Q-135` (is a word or a taught picture an instrument that changes the contract?): the developer's account has signifiers and a weather system as part of life, so the question as asked no longer applies. **E3/Q-122** answered above. |
+| **Left open** | Q-68, Q-70, Q-75, Q-78, Q-79 and the deferred Q-71 to Q-73 and Q-82 (`DR-55`). |
+| **Changed** | This log only. **Hours:** recording is unrestricted (`DR-33`, `DR-53` to `DR-55`); applying the term change and the rewording to the pass files is an edit to worldbuilding synthesis and waits for 05:00-14:59. |
+
+---
+
+## `DR-57` · ✅ **MIRNY: THE WEATHER PROTOCOL AND ITS ORGANIZATION; ELEMENT AIR; THE SOCIAL CONTRACT RENAME EVERYWHERE; CASEY IS NEXT, IN NOVEMBER** *(recorded 2026-10-13)*
+
+**Developer, verbatim (2026-10-13):**
+1. On the weather system: *"even though I'd never written any 'Keepers' organization (you came up with that), I think that the basic, fundamental principle behind something like 'The Keepers' is the right one"* · *"There's some sort of an organization of people (both robots and humans) who manage and curate the protocol for the weather"* · *"that system is public knowledge that can be learned by anyone who wants to"* · on whether it rides the relay: *"that, I'm not sure yet"*.
+2. Symbols: Element, *"Sure, Air is fine"*; Planet, *"we might need to hold off on this for later"*.
+3. Wording: *"definitely 'nobody ever taught anyone about the wind' and 'nothing is ever posted' need to be reworded, because right now, it makes it sound as though everybody's just dumb and blind. It was actually the first generation of incomers that had to learn the setting from scratch, and then re-developed the knowledge system that everyone after them learned and used"*.
+4. Naming: *"now, the word 'Vostok' refers to the district, and the name of the full city is Ariun Nuur"*.
+5. The word: *"Yes. It's 'the Social Contract'. Otherwise, I won't have any idea what you're referring to. The word 'Compact' is not a thing and doesn't exist anywhere on Earth."*
+6. Sequencing: *"Technically, the next city that runs is Casey. However, that will need to wait until November, once I've paid for the Max20x plan, because even with Max5x, I keep burning my entire weekly model allotment by Tuesday afternoon (along with burning every 5-hour window within the first 1-to-2 hours), and this is completely unsustainable"*.
+7. *"All the default stuff can stay default"*; the lessons-into-rules question: *"that's something we need to review"*; the 19 methodology proposals and the pre-seeded folders: no decision yet.
+
+| | |
+|---|---|
+| **Weather protocol** | An organization of people of both bodies manages and curates the weather protocol for Mirny; the protocol is public knowledge any resident may learn. Whether it rides the relay is **undecided**. The pass's name *keepers* (the people who keep the relay up) was **the pass author's coinage**, not canon; the principle behind it is endorsed, the label and its duties are not. Any place the pass leans on *the keepers' debt* is to be re-read in that light. |
+| **Element** | **Air accepted** for Mirny. The registry row (`City_Symbol_Assignments.md`) was **not edited** (not opened; it carries other cities). |
+| **Planet** | **Held for later**; Saturn stays provisional, Neptune contested. |
+| **Wording** | Applied 2026-10-13: an amendment notice at the top of Phases 2-10 and Steps 5-8; in-place corrections of the clearest statements (`P6` L57, L88, P6-2(c), P6 L162, `P7` P7-26 row and P7-27 3rd order, `P9` P9-5 3rd order, `P5`-leg-4, Step 6 §3.1 and others); headings of the dependent findings tagged **[SUPERSEDED IN PART]** with re-derivation pending. The derivations that rested on the old premise were **not** rewritten. |
+| **Naming** | `Q-145` answered: **Vostok is the district; the city is Ariun Nuur.** The index lines that say Vostok for the city predate this. |
+| **Rename of the generic word** | Done 2026-10-13 in `CLAUDE.md`, `03_The_Phase_Spine.md`, `00_RUNBOOK.md`, `ULM_Piece_Index.md`, `ULM_At_A_Glance.md`: *compact* becomes *social contract* in the category list (lower case, generic). The Mirny finding is the **Social Contract**. Unchanged: the district methodology's own uses (not reviewed), other cities' files, and adjective uses (e.g. "compact vs extensive"). |
+| **Next city** | **Casey**, not before **November**, after the Max20x plan is in place. No other city's ULM until then. |
+
+---
+
 # OPEN, ARISING FROM THESE RULINGS
 
 | | Question | Owner |

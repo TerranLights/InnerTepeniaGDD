@@ -138,9 +138,9 @@ The station was designed by the International Polar Foundation as the first zero
 
 **Settled:** Post-Falkland Treaty, on Princess Elisabeth Antarctica station infrastructure. The International Polar Foundation's station opened in 2009 — the most recently built of the founding-era stations. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. The IPF's own institutional presence did not survive that chain of handoffs, but preserved journals, logs, and design/maintenance manuals did, giving the exiles a real documentary starting point for the zero-emissions systems, distinct from a living institution teaching them directly.)* The exile community inherited the zero-emissions physical infrastructure and, working from those surviving records, independently re-derived and maintained the engineering logic behind it themselves.
 
-**Founding population:** Belgian exiles. The Belgian exile community was concentrated here.
+**Founding population:** The Scandinavian Trade Union nations, jointly (`DR-22`). The earlier Belgian founding is superseded. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
-Named after Princess Elisabeth of Belgium (born 2001, daughter of King Philippe). The name carried across the transition from research station to exile city, and outlasted the city's destruction as the name of its ruins.
+Formerly named after Princess Elisabeth of Belgium (born 2001, daughter of King Philippe), the real station's namesake; flavor only (`DR-32`). The former name outlasted the city's destruction as the name of its ruins.
 
 ---
 
@@ -152,7 +152,7 @@ Utstein had the character of a city that took its design principles seriously be
 
 That design principle, extended across generations into a full community, produced a particular relationship to resource use and environmental accountability — not moralistic, but practical: the systems that kept the city alive were visible, understandable, and demanded active maintenance every single day. When the war came and those systems failed or were destroyed, the city had nothing else to protect it.
 
-Utstein's identity was never really about which nation's population dominated its streets — Belgium's founding community remained a small, specific presence alongside the larger currents that arrived later — but about the design logic every resident had to independently re-learn and then actively maintain just to keep living there *(corrected 2026-07-24, GPS-purposes-only pass — a demand the physical systems themselves imposed on the exiles, not a philosophy handed down to them)*.
+Utstein's identity was never really about which nation's population dominated its streets — the founders (the Scandinavian Trade Union nations, `DR-22`) were a specific presence alongside the larger currents that arrived later — but about the design logic every resident had to independently re-learn and then actively maintain just to keep living there *(corrected 2026-07-24, GPS-purposes-only pass — a demand the physical systems themselves imposed on the exiles, not a philosophy handed down to them)*.
 
 **Nationally known for:** The zero-emissions design — a city that could only exist through continuous engineering, on one of the most exposed sites in the subnet. The Sør Rondane mountain position. Being the Halley subnet city that had nothing to fall back on when its systems finally failed.
 
@@ -199,7 +199,7 @@ Utstein's legacy is a harder, more sobering one than its founders ever anticipat
 - **Who remains among the ruins** — how many straggling survivors, what condition are they in, and what questline hooks do they offer?
 - **The zero-emissions systems' failure** — did they fail gradually, catastrophically, or get deliberately targeted? Environmental storytelling should reflect whichever answer is chosen
 - **Ice Cold Buddhism connection** — the eastern position near Dome Fuji: did Utstein have any relationship to Ice Cold Buddhism pilgrimage before its destruction?
-- **Princess Elisabeth of Belgium** — by the game era (~230+ years after founding), how much did the city's residents still connect the name to the actual Belgian princess it honored?
-- **Belgian diaspora in Concordia** — TBD
+- *(Removed 2026-10-13: a former-name question; the namesake is flavor only, `DR-32`.)*
+- **Utstein diaspora in Concordia** — TBD
 - **Demonym** — TBD
 - **Notable figures** — TBD

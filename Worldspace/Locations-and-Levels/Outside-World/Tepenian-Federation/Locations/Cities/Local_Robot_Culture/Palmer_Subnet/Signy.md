@@ -1,4 +1,4 @@
-# Signy — Local Robot Culture Spec Sheet
+# Signy — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #34 of the Local Robot Culture Methodology, 2026-08-11 — eighth and final city of the Palmer Subnet.**
 Directly follows up on forward flags from Utstein's (Halley subnet), Scott's (Janbogo subnet),
@@ -358,3 +358,5 @@ name — every finding depends on facts (the specific siligel shortage, the two-
 particular character of this city's own scientific founding focus) that are concretely, specifically Signy's
 own. **This closes out the Palmer Subnet — 8 of 8 cities now Draft. Amundsen Station remains the sole
 remaining entry in the entire 36-city project.**
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: South Africa and Brazil, jointly (`DR-22`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

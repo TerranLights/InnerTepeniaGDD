@@ -1,4 +1,4 @@
-# Pergamino — Local Robot Culture Spec Sheet
+# Pergamino — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-41`): formerly *Juan Carlos*, after the real Spanish station and King Juan Carlos I; now **Pergamino**.** Any line below that still says "Juan Carlos" names the REAL station or King, or tells the story of the FORMER name (the king-namesake and its political weight, the *Transición* commemoration). The latter are revisit items. Pergamino is Spanish, "parchment", for the city's archive function; founders: Uruguay first (`DR-34`).
 
@@ -354,3 +354,5 @@ Pergamino's own. **Contrapunto (shared "Coherence vs. Contrast" faction, and a c
 gateway tie) and Palmer City (also a confirmed Strong tie) are flagged forward for real re-checks once run, and
 Amundsen Station (a confirmed Strong Historical tie, not yet run) is flagged forward for the same** — the same
 honest-forward-flagging discipline every prior city in this project has applied to its own unrun connections.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: first founders Uruguay, within a primarily Anglo-Latin society of immigrants from the Americas (`DR-20`, `DR-34`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

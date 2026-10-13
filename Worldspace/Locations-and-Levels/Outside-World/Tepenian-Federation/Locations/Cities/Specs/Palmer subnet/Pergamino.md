@@ -149,9 +149,9 @@ Open Questions)*.*
 
 **Settled:** Post-Falkland Treaty, on Juan Carlos I Station infrastructure. The Spanish Antarctic program had operated here seasonally from 1988. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. Preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point, distinct from being taught by any living institution.)* The exile community settled into the genuinely functional site and converted it to year-round habitation themselves.
 
-**Founding population:** Primarily Spanish exiles. The Iberian cultural community in Tepenia was split between Juan Carlos (Palmer subnet) and whatever presence existed elsewhere; Juan Carlos was the primary city of that founding community.
+**Founding population:** A primarily Anglo-Latin society of immigrants from the Americas (`DR-20`); first founders: Uruguay, with the later Anglo and Latin additions of that ruling (`DR-20`, `DR-34`). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
-Named after King Juan Carlos I, who reigned during Spain's transition from dictatorship to democracy (1975–2014). The name carries the political history of that transition — an exile community choosing to name their Antarctic city after the king who presided over Spain's democratization.
+Formerly named after King Juan Carlos I, the real station's namesake; a namesake is flavor only (`DR-32`), and the earlier claim that an exile community chose the name for the politics of Spain's transition is withdrawn.
 
 ---
 

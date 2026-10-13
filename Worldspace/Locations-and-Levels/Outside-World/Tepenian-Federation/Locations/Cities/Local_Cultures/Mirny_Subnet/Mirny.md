@@ -1,4 +1,4 @@
-# Mirny — Cultural Spec Sheet
+# Mirny — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 *(Flagged 2026-07-08 for an eventual rename — see `TODO.md`'s "Mirny Rename" entry. The city's actual national composition no longer resembles the Russian station/ship the name is built around; the founding-tension identity below (Sections 2 and 5 especially) would need to either survive under a new name or be replaced entirely once this is picked up. Not resolved now.)*
 
@@ -299,3 +299,5 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 ## 32. Diaspora Character in Concordia
 
 Mirny-descended people in Concordia carry a specific, quiet awareness of connection that other diaspora communities don't quite share — the intra-subnet Arcanet link, whether or not it's actually functioning, means Mirny occupies a different emotional position than fully severed cities. They're recognizable by a steady, undemonstrative competence, a comfort with holding two things at once — the city's founding-era roots and its much larger, later-arriving population — without needing to resolve which one is "really" theirs, and — among those old enough to remember — a particular, quiet pride in the *Mirny*'s name and what it meant to have been founded by the ship that first saw the whole continent.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Idelsk-Uralia as the establishing country, with Russia, Australia and the Sinian Federation (China) present as exile groups (`DR-46`, `DR-54`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

@@ -1,4 +1,4 @@
-# Zukelli — Cultural Spec Sheet
+# Zukelli — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -273,3 +273,5 @@ Becoming a local meant being folded into the city's hospitality culture and, imp
 ## 32. Diaspora Character in Concordia
 
 Zukelli-descended Concordians are folded into or sit alongside the larger Janbogo diaspora rather than forming a fully distinct community of their own, since their refugee route ran through Janbogo first. Where identifiable, they carry the food-and-hospitality civic instinct — an inherited warmth expressed specifically through cooking and hosting — alongside something the Janbogo community itself doesn't carry in the same way: a direct, personal relationship to watching a city die from a neighboring window, which shapes how they talk about the war differently from refugees of more remote destroyed cities.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Australia (`DR-20`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

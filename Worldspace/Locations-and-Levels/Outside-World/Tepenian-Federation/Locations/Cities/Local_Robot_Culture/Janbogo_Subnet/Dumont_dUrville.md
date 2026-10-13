@@ -1,4 +1,4 @@
-# Dumont d'Urville — Local Robot Culture Spec Sheet
+# Dumont d'Urville — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #16 of the Local Robot Culture Methodology, 2026-08-10.** Applies the shared-experience-first Kinship
 framing and the corrected two-slot Solar-symbol/Robo-Element check from the start. Provisional — findings are
@@ -295,3 +295,5 @@ transplant onto the other. **Flagged forward, not resolved here:** Zukelli (an i
 Cultural" tie via shared organic-venue-culture, unrun) — a genuine future re-check once it's actually run,
 given how much of this city's own Glitch-Coolant and Surface Culture material leans on its small-venue music
 scene specifically.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Japan (`DR-20`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

@@ -52,7 +52,7 @@
 ## Round 1 — what each reader wrote
 | Reader | Axis | Distinctive contributions |
 |---|---|---|
-| A (929 lines) | "Prepared, not predicted" | the cook who does not eat; the sea as the only possible season; upkeep leaves nothing to show; the predictable played with, the unpredictable prepared for; the tense table (none *soon*); naming the winds as the compact's test; CAND-L3 |
+| A (929 lines) | "Prepared, not predicted" | the cook who does not eat; the sea as the only possible season; upkeep leaves nothing to show; the predictable played with, the unpredictable prepared for; the tense table (none *soon*); naming the winds as the Social Contract's test; CAND-L3 |
 | B (799 lines) | "Native at the door" | the ×1.17–×1.60 charge arithmetic; the outdoor robot meal null; the craft that cannot be shown; the copied reading; the face covering as the visible reading; *weather* widened |
 | C (785 lines) — **failed Round 2** | "Equipped for a private call" | not merged; on record |
 | C2 (853 lines) | "What can be handed on" | carried in persons, bent by the place; two-substance hospitality; the storm-bound stretch as an occasion; the unread wind-record; standing follows what can be handed on; the human language mechanism absent; time in two registers |
@@ -117,7 +117,7 @@ EXIT=0
 
 **Triage (by hand, as each tool asks):**
 - **Quotation audit.** It audits the whole pass folder with the pass's own files excluded from its corpus, so quotations of the pass's own earlier files, and connective prose captured between two adjacent quotations, show as misses by design. Of the 51 lines it lists for `04_Phase_08_Making.md`:
-  - (a) phrases quoted from the pass's own files (`P2`–`P7`, `RES`, `SPN`) — e.g. the `RES` lines on the storm and the drift, and the `P3`, `P4`, `P6` and `P7` lines on the crossing, the threshold, the compact and standing;
+  - (a) phrases quoted from the pass's own files (`P2`–`P7`, `RES`, `SPN`) — e.g. the `RES` lines on the storm and the drift, and the `P3`, `P4`, `P6` and `P7` lines on the crossing, the threshold, the Social Contract and standing;
   - (b) connective prose captured between adjacent quotations (receipt, cuisine and dress rows);
   - (c) the struck phrases recorded in Snag 8 and RF-23, and `P7` L4's status line.
 
@@ -307,7 +307,7 @@ NOT FOUND in corpus: 365
   [04_Phase_06_Meaning.md:45]  [CELL]  the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:57]           the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:57]           ( spn l103 corr ). the person answers for crossings decided on cues that are honest and unread ( res l30 corr ), so a loss is
-  [04_Phase_06_Meaning.md:58]           a; it names the compact's blind side, kept as p6-4
+  [04_Phase_06_Meaning.md:58]           a; it names the Social Contract's blind side, kept as p6-4
   [04_Phase_06_Meaning.md:65]           admitted-demoted; dr-28 : no meaning may be built on it ) l176 owed (an edit-history note, demoted) l142 must (inside the excluded
   [04_Phase_06_Meaning.md:69]           the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:69]           so mirny trusts what is written and what is relayed
@@ -333,7 +333,7 @@ NOT FOUND in corpus: 365
   [04_Phase_06_Meaning.md:104]           but a long-lived robot is a person to ask, not an archive
   [04_Phase_06_Meaning.md:106]           nobody who lives at mirny chose it; the one party the files name as founding it stands outside the country
   [04_Phase_06_Meaning.md:106]           ( p2 l258). the reading of the wind is one thing at mirny that nobody handed anyone
-  [04_Phase_06_Meaning.md:106]           ( p4 l174) - and the compact's private clause protects it (b
+  [04_Phase_06_Meaning.md:106]           ( p4 l174) - and the Social Contract's private clause protects it (b
   [04_Phase_06_Meaning.md:106]           in round 3). act 1: living human founders and founding robots are both witnesses; act 2: the first-person founding is a robot's
   [04_Phase_06_Meaning.md:110]           mirny is the one place in the subnet that knows what has happened, and it cannot tell anyone
   [04_Phase_06_Meaning.md:114]           the chambers made at sinheung are built from material mirny near-exclusively supplies
@@ -392,7 +392,7 @@ NOT FOUND in corpus: 365
   [04_Phase_07_Order.md:317]           is the one place in the subnet that knows what has happened, and it cannot tell anyone
   [04_Phase_07_Order.md:317]           falls to people at mirny, of whatever institution
   [04_Phase_07_Order.md:317]           the storm that breaks the relay also stops people walking
-  [04_Phase_07_Order.md:319]           ( cp l37; p4 p4-7) - volunteering prices differently by body. the compact meets its failure here: a culture that will not ritualiz
+  [04_Phase_07_Order.md:319]           ( cp l37; p4 p4-7) - volunteering prices differently by body. the Social Contract meets its failure here: a culture that will not ritualiz
   [04_Phase_07_Order.md:319]           also loses its channel ( p5 p5-5: the parent
   [04_Phase_07_Order.md:323]           the one role that already makes live calls on wind
   [04_Phase_07_Order.md:334]  [CELL]  a misjudged crossing is carried as the person's own
@@ -414,7 +414,7 @@ NOT FOUND in corpus: 365
   [04_Phase_07_Order.md:438]  [CELL]  has a written half (the record, the relay that
   [04_Phase_07_Order.md:450]           tendency - those who treat the record's thresholds as the only authority and are insulated from blame because
   [04_Phase_07_Order.md:453]           ( spn l143) - and the address of the big one is
-  [04_Phase_07_Order.md:455]           ( spn l68) - is a leverage the compact's own grammar is against using (
+  [04_Phase_07_Order.md:455]           ( spn l68) - is a leverage the Social Contract's own grammar is against using (
   [04_Phase_07_Order.md:458]           the struggle is not fear of the wind but the privacy of the loss
   [04_Phase_07_Order.md:472]           ( spec l131); for a robot, charging below freezing is one of
   [04_Phase_07_Order.md:472]           ( cp l30-37) - spend reserve to warm the cells, charge 10-20 times slower and exposed throughout, or take
@@ -449,7 +449,7 @@ NOT FOUND in corpus: 365
   [04_Phase_08_Making.md:102]           ), its 5 class-cuisine idea, and its slate-colored imagery: proposal, not canon ( sil l7-14
   [04_Phase_08_Making.md:156]  [CELL]  awaiting developer clarification before it feeds phase 8
   [04_Phase_08_Making.md:180]           a report from inside the storm (how far one can see out there, now), not an early warning
-  [04_Phase_08_Making.md:181]           give a loss a second answerer - and change the compact
+  [04_Phase_08_Making.md:181]           give a loss a second answerer - and change the Social Contract
   [04_Phase_08_Making.md:214]           ( d13 l670). which tiers reach mirny, and what arrives for it by sea, are in no admitted file ( p4 r-43; p5 r-52
   [04_Phase_08_Making.md:216]           ( rp l246) - and repair second. its ruled form
   [04_Phase_08_Making.md:222]           ( d08 l298). the developer's own statement in the siligel brief is that a dose
@@ -471,8 +471,8 @@ NOT FOUND in corpus: 365
   [04_Phase_08_Making.md:397]           it is the half of the wind that can be written down
   [04_Phase_08_Making.md:407]           a reader's judgment published as a marker, reset daily
   [04_Phase_08_Making.md:409]           a written record can be amended by a human or a robot equally
-  [04_Phase_08_Making.md:410]           would each give a loss a second answerer - and change the compact
-  [04_Phase_08_Making.md:410]           the only person entitled to say the book was wrong is the one the compact blames
+  [04_Phase_08_Making.md:410]           would each give a loss a second answerer - and change the Social Contract
+  [04_Phase_08_Making.md:410]           the only person entitled to say the book was wrong is the one the Social Contract blames
   [04_Phase_08_Making.md:437]           corrected in round 3). the outdoor part of the general day is the crossing
   [04_Phase_08_Making.md:442]  [CELL]  ( p3 l176); on an ordinary day moving snow
   [04_Phase_08_Making.md:443]  [CELL]  the first sign of the dangerous wind can read as an improvement
@@ -481,7 +481,7 @@ NOT FOUND in corpus: 365
   [04_Phase_08_Making.md:479]           of a robot's identity weight ( ru13 l30). at mirny no dominant build lean is derivable ( p7 p7-6 corr ). stock is ancestry in act 
   [04_Phase_08_Making.md:498]           the only things in the year that can be known in advance to the day are light-dated
   [04_Phase_08_Making.md:505]           ( p4 l149 corr ). the only lit-weeks occasion in the files is the first sunset, at their end
-  [04_Phase_08_Making.md:509]           ( p4 l144 corr ). so a joke about misreading the wind lands on someone the compact already blames - blame in another register. an 
+  [04_Phase_08_Making.md:509]           ( p4 l144 corr ). so a joke about misreading the wind lands on someone the Social Contract already blames - blame in another register. an 
   [04_Phase_08_Making.md:549]           the outsider mirny is built to notice is the one who misreads the wind, not the one from elsewhere
   [04_Phase_08_Making.md:552]           a person who names the date by the length of the day
   [04_Phase_08_Making.md:553]           no one holds a reading the newcomer still lacks by inheritance

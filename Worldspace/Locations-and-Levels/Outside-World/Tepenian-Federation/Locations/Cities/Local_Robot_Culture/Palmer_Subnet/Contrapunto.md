@@ -1,4 +1,4 @@
-# Contrapunto — Local Robot Culture Spec Sheet
+# Contrapunto — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-43`): formerly *Sejong*, after the real King Sejong Station and King Sejong the Great; now **Contrapunto**.** Any line below that still says "Sejong", "Hangul" or "Sejongite" names the REAL station, King or city, or tells the story of the FORMER name (the Korean-alphabet namesake, the Janbogo "shared Korean naming" comparison, the Hangul-literacy figures and "Hangul Day"). The latter are revisit items. Contrapunto is Spanish: counterpoint, and in Chile, Argentina and Uruguay a verse duel between two improvising poets; founders: Chile first (`DR-35`). The demonym "Sejongite" belonged to the former name and is open.
 
@@ -394,3 +394,5 @@ Contrapunto's name — every finding depends on facts (the specific boundary-zon
 two-basis robot kinship model's own structural match to this city's civic project, the aggregate-Spanish
 linguistic finding) that are concretely, specifically Contrapunto's own. **Signy is flagged forward generally,
 unassumed — no specific connection-file tie was found requiring a targeted re-check.**
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: first founders Chile, within a primarily Anglo-Latin society of immigrants from the Americas (`DR-20`, `DR-35`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

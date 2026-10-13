@@ -7,7 +7,7 @@
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
 **Highway access:** Hwy 7 (Queen Maud Land coastal highway — Halley subnet; Santa Luce on the western coastal section; Vestfjella/Kraul Mountains nunatak position)
-**Significance:** The only joint-national founding in Tepenia among non-unified nations — Finnish and Swedish exiles founded it together; **renamed from "Aboa" to "Abowasa" 2026-07-05, then renamed Santa Luce 2026-10-03 (`DR-36`)** (see Founding below for the reasoning); located in the Kraul Mountains/Vestfjella in the western sector of Queen Maud Land, further from the coast than Neumayer; one of the smaller Halley subnet cities and the only dual-national city to remain even partially inhabited after the war
+**Significance:** Founded jointly by Italy and the CIN (Founding Register, `DR-22`; the earlier Finnish-Swedish founding is superseded); **renamed from "Aboa" to "Abowasa" 2026-07-05, then renamed Santa Luce 2026-10-03 (`DR-36`)** (see Founding below for the reasoning); located in the Kraul Mountains/Vestfjella in the western sector of Queen Maud Land, further from the coast than Neumayer; one of the smaller Halley subnet cities and the only dual-national city to remain even partially inhabited after the war
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); damaged but partially operational
 
 ---
@@ -70,7 +70,7 @@ Santa Luce sits on Basen nunatak in the Kraul Mountains (Vestfjella) — a range
 
 **Also established 2026-07-05 — built for winter, used only in summer.** Both real stations were designed and built with the physical capability for year-round occupation (Aboa specifically, by Finland's VTT Technical Research Center), but neither nation ever chose to staff them through the winter — a deliberate operational/budgetary decision, not a structural limitation. Antarctic summer (Nov-Feb) is when field research is actually viable; maintaining a staffed winter presence was never worth the cost for a seasonal research program. This matters for Abowasa's founding: the infrastructure itself was never what limited habitation, only the funding decision — which simply stopped applying once Finnish and Swedish exiles needed a genuine permanent home rather than a seasonal outpost.
 
-The choice to name the city after Turku (Aboa is Latin for Turku) — Finland's oldest city and historical capital — was an act of cultural memory, later folded into "Abowasa" alongside the Swedish station's own name.
+Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a namesake is flavor only (`DR-32`), and the earlier claim that a Finnish community chose the Turku reference is withdrawn.
 
 ### Annual Climate
 
@@ -124,27 +124,27 @@ The choice to name the city after Turku (Aboa is Latin for Turku) — Finland's 
 
 #### Gameplay Notes
 - **Small but holding on:** Santa Luce's small size and its damaged-but-functional status in DLC 5 makes it a particular kind of location — not strategically important enough to have been a priority target, hit but not erased, still running with a tight, diminished community
-- **Dual-national character:** the Finnish-Swedish coexistence is a social texture visible in the architecture, cultural institutions, and interpersonal dynamics of a small city where two national identities share close quarters
+- **Two-community character:** the Italian–CIN coexistence is a social texture of a small city where two founding communities share close quarters *(not yet derived; the earlier Finnish-Swedish version is superseded)*
 
 ---
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on the combined Aboa and Wasa station infrastructure. Finnish and Swedish exiles both contributed founding populations; both national cultures are present in the city from the beginning.
+**Settled:** Post-Falkland Treaty, on the combined Aboa and Wasa station infrastructure. Italy and the Confederacy of Intermarium Nations (CIN) founded it jointly (Founding Register, `DR-22`); the earlier Finnish and Swedish founding is superseded.
 
-**Founding population:** Finnish and Swedish exiles, jointly. The two Scandinavian communities share the city as a matter of founding principle. The coexistence is not an accident — it was built in, quite literally, by the ~200m distance between the two stations they inherited.
+**Founding population:** Italy and the Confederacy of Intermarium Nations (CIN), jointly (`DR-22`). The earlier Finnish and Swedish founding and its two-stations-200-m-apart reasoning are superseded. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
-Named for both stations: "Abowasa" combines Aboa (Latin for Turku, Finland's oldest city) and Wasa. The Finnish community chose the Turku reference originally; the rename folds in the Swedish station's own name alongside it, reflecting the two-separate-but-adjacent-communities origin more precisely than the earlier lore's loose "joint station" framing.
+Formerly named "Abowasa" for the two real stations: Aboa (Latin for Turku, Finland's oldest city) and Wasa. A namesake is flavor only (`DR-32`); the earlier claim that a Finnish community chose the Turku reference is withdrawn.
 
 ---
 
 ## Character & Culture
 
-Santa Luce had the character of a small city that worked because it had to. The joint Finnish-Swedish community was small enough that the two founding populations couldn't avoid each other, which produced either community resilience or community friction — probably both, at different times and in different ways. The sheer physical closeness the two communities inherited (~200m apart from the start) forced early cooperation; the fact that they'd begun as two separate, distinct settlements rather than one meant old habits of separateness persisted alongside it.
+Santa Luce had the character of a small city that worked because it had to. The joint Italian–CIN community was small enough that the two founding populations couldn't avoid each other, which produced either community resilience or community friction — probably both, at different times and in different ways. The sheer physical closeness the two communities inherited (~200m apart from the start) forced early cooperation; the fact that they'd begun as two separate, distinct settlements rather than one meant old habits of separateness persisted alongside it.
 
 The city's small size meant everyone knew everyone. The cultural negotiation that Contrapunto had to do at the city-wide level, Santa Luce did at the level of individual households and neighborhoods.
 
-**Nationally known for:** The dual founding. The Turku connection. Being small and still standing, even damaged.
+**Nationally known for:** The joint Italian–CIN founding. Being small and still standing, even damaged.
 
 **Demonym, established 2026-07-05:** Abowasian.
 
@@ -156,7 +156,7 @@ Scientific research, whatever the Vestfjella/Kraul Mountains nunatak position of
 ---
 
 ## Notable Locations
-- **The joint Finnish-Swedish founding infrastructure** — the blended architecture of the two national programs at close quarters, originally two separate stations ~200m apart
+- **The two inherited stations** — separate national research stations about 200m apart, kept as infrastructure only
 - **Basen nunatak terrain** — the Kraul Mountains/Vestfjella landscape
 - Additional locations: TBD for DLC 5
 
@@ -168,7 +168,7 @@ Scientific research, whatever the Vestfjella/Kraul Mountains nunatak position of
 ---
 
 ## Connection to Concordia
-Halley subnet. Small, damaged but still standing, not a major Concordia connection point. Whatever cultural ties exist are through the Finnish and Swedish exile diaspora rather than institutional significance.
+Halley subnet. Small, damaged but still standing, not a major Concordia connection point. Whatever cultural ties exist are through the Italian and CIN exile diaspora rather than institutional significance.
 
 ---
 
@@ -186,6 +186,6 @@ Santa Luce's legacy is the proof that two national communities can share a small
 ---
 
 ## Open Questions
-- **The Finnish-Swedish cultural dynamic** — over generations in a small city, how did the two identities evolve? Did they merge, maintain distinction, or develop a third hybrid identity?
+- **The Italian–CIN cultural dynamic** — over generations in a small city, how did the two identities evolve? Did they merge, maintain distinction, or develop a third hybrid identity?
 - **Why Santa Luce wasn't fully destroyed** — strategic irrelevance? The Vestfjella/Kraul Mountains position? The small size? The joint-national character? And relatedly, what specifically *was* damaged, if not the whole city?
 - **Notable figures** — TBD

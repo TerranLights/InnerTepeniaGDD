@@ -1,4 +1,4 @@
-# Utstein — Cultural Spec Sheet
+# Utstein — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-38`): formerly *Princess Elisabeth* (placeholder `{{ Princess Elisabeth }}`); now **Utstein** (native form Utsteinen), "the outer stone".** References to "Princess Elisabeth Antarctica", the station, or Princess Elisabeth of Belgium are the real-world station and namesake and are unchanged. Founders: the Scandinavian Trade Union nations (`DR-22`); text written around a Belgian founding is a revisit item (`R-17`).
 
@@ -265,3 +265,5 @@ Becoming a local at Utstein means genuinely embracing the city's crossroads char
 ## 32. Diaspora Character in Concordia
 
 Utstein refugees in Concordia are recognizable by a specific comfort with dual cultural identity and a genuine, practiced environmental consciousness — people shaped by a city that never had the luxury (or need) of a single clean cultural default, and that took minimal-footprint living seriously as everyday practice rather than abstract virtue. Unlike diaspora from cities that merely declined or were damaged, Utstein's refugees carry the specific weight of having lost everything when the systems that made their home possible finally failed — a sharper, more total loss than "damaged but functional" cities' communities carry.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: the Scandinavian Trade Union nations, jointly (`DR-22`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

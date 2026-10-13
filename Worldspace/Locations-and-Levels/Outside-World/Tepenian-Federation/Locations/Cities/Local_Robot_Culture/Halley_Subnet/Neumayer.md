@@ -1,4 +1,4 @@
-# Neumayer — Local Robot Culture Spec Sheet
+# Neumayer — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #22 of the Local Robot Culture Methodology, 2026-08-11 — third city of the Halley Subnet.** Directly
 follows up on both Halley's and Sanay's own forward flags: Halley's "structural opposites facing the same
@@ -377,3 +377,5 @@ calibrated category is already structurally distinct from both poles Troll would
 worth confirming rather than assuming once Troll is run) and Belgrano (Medium ties via the same logistics
 chain) are flagged directly for real re-checks once run. Utstein, Lazar, and the still-deferred
 Santa Luce remain untouched and unassumed either way.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: the Netherlands and Austro-Bavaria, jointly (`DR-35`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

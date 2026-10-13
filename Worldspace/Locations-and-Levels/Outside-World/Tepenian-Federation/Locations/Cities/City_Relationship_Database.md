@@ -360,7 +360,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Palmer ("American")
 - **Highways:** Hwy 1 — passes through
 - **Direct highway neighbors:** Palmer City (north), Rothera (south)
-- **Notes:** Founded on UK historical expedition base; on Hwy 1 between Palmer City and Rothera; damaged, not destroyed, in the Long Night War *(corrected 2026-07-13 — this field still said "destroyed," directly contradicting the Status line above, corrected to "Damaged; partially operational" back on 2026-07-03 but never propagated to this Notes field in the same entry)*
+- **Notes:** Founding per the Founding Register (industrial workers from North America and Argentina); on Hwy 1 between Palmer City and Rothera; damaged, not destroyed, in the Long Night War *(corrected 2026-07-13 — this field still said "destroyed," directly contradicting the Status line above, corrected to "Damaged; partially operational" back on 2026-07-03 but never propagated to this Notes field in the same entry)*
 
 ---
 

@@ -1,0 +1,3 @@
+Registered Planet + Element pair for Mirny (City_Symbol_Assignments.md L110, cells 1-3 only; the rationale cell is NOT admitted and is not reproduced):
+Planet: Saturn
+Element: ⏸️ (PENDING BY RULE, with a named filler; the legend is City_Symbol_Assignments.md L61-83, which is entry 32 of the list)

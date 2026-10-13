@@ -1,4 +1,4 @@
-# Zukelli — Local Robot Culture Spec Sheet
+# Zukelli — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #19 of the Local Robot Culture Methodology, 2026-08-10 — final city of the Janbogo Subnet.** Directly
 follows up on forward flags from Cape Adare, Denison, and Dumont d'Urville's own completed files, and
@@ -319,3 +319,5 @@ one shared table — neither city's specific grounding would transplant onto the
 as generic "food-and-music city" content that happened to get filed under Zukelli's name. **This closes out
 the Janbogo Subnet — all 7 cities (Janbogo, Cape Adare, Denison, Dumont d'Urville, Fort McMurdo, Scott,
 Zukelli) now in Draft status, awaiting developer review.**
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Australia (`DR-20`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

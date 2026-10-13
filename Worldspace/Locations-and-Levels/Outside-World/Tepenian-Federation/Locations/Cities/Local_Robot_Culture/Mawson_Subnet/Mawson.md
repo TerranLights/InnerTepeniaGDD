@@ -1,4 +1,4 @@
-# Mawson — Local Robot Culture Spec Sheet
+# Mawson — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #11 of the Local Robot Culture Methodology, 2026-08-10 — first city of Mawson Subnet, and the first run
 under the revised Kinship-first-principle** (shared experience/shared goals as the primary driver, mentoring as
@@ -273,3 +273,5 @@ staged-vs-genuine courtship distinction, the doubly-inclusive resident/visitor k
 Terrace avoidance custom) have no risk of reskinning anything already written, since nothing comparable exists
 yet to reskin. Worth an explicit re-check once Temirötkel and Dome Fuji are actually run, given they're Mawson's
 real subnet-mates and the closest genuine comparison points.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Kazakhstan, Russia (the core state) and Australia, jointly (`DR-33`, `DR-46`, `DR-53`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

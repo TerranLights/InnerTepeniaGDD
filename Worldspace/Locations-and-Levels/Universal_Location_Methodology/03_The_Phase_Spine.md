@@ -788,7 +788,7 @@ death?*
   empty do you generate from scratch.**
   > **The technique's real object is the location's *unnamed load-bearing thing*, and a belief system is only
   > its commonest form.** Where the place already has a named faith, expect instead a **stake** (what is at risk
-  > here that is at risk nowhere else), a **compact** (what it agreed to and never wrote down), or a **debt**
+  > here that is at risk nowhere else), a **social contract** (what it agreed to and never wrote down), or a **debt**
   > (what it owes and does not discuss). **Do not invent a second religion to fill a slot already occupied.**
   > **Counter-check: the name must not be portable.** If it would work equally well anywhere else, it has been
   > written too abstractly.
@@ -806,7 +806,7 @@ death?*
   >
   > ⭐ **"No faith is sited here" is a legitimate, complete answer** — and it must be written so that a later
   > reader cannot mistake it for **"no faith is possible here."** ***Leave the slot open explicitly.***
-  > ⚠ **And where the phase instead finds a STAKE, a COMPACT, a DEBT or a bare STANDARD OF WORTH, write it as
+  > ⚠ **And where the phase instead finds a STAKE, a SOCIAL CONTRACT, a DEBT or a bare STANDARD OF WORTH, write it as
   > what it is.** **A shared proposition is not a creed, and promoting one into the other is the same forcing
   > error wearing a third costume.** *(A location's non-devotional standard may later become the seed of a
   > faith, or may stay secular indefinitely; both are legitimate and the pass should not decide it.)*

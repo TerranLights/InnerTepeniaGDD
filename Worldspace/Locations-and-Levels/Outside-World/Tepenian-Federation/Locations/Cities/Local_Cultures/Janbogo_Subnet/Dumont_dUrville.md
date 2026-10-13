@@ -1,4 +1,4 @@
-# Dumont d'Urville — Cultural Spec Sheet
+# Dumont d'Urville — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -272,3 +272,5 @@ Becoming a local here means internalizing the negotiation ethic — stopping try
 ## 32. Diaspora Character in Concordia
 
 Dumont d'Urville-descended Concordians are rare enough, given the city's small population, to be individually distinctive rather than forming any recognizable enclave — Pink Lucy herself is the clearest known example. What marks them, when they do appear, is exactly the negotiated-coexistence temperament the city cultivates: an unusual, almost unshakeable calm in genuinely difficult conditions, a practical rather than combative relationship to hardship, and — if the naturalist tradition holds — a tendency to notice and track environmental detail that other Concordians walk past without registering.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Japan (`DR-20`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

@@ -1,4 +1,4 @@
-# Fort McMurdo — Cultural Spec Sheet
+# Fort McMurdo — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -276,3 +276,5 @@ There's no ceremony. You become a local once your work output has been reliable 
 ## 32. Diaspora Character in Concordia
 
 Fort McMurdo refugees in Concordia disperse rather than cluster — the city's own working-class, output-focused culture doesn't produce the kind of concentrated cultural enclave that Janbogo's community formed in Gemini. Instead, Fort McMurdo-descended Concordians tend to gravitate toward wherever the skilled, structured work is — most visibly Capricorn, whose own established culture of strict apprenticeship systems and merit-based advancement is close enough to Fort McMurdo's founding ideology that the fit reads as natural rather than assimilated. They're recognizable by their discomfort with idle time, their tendency to judge new acquaintances by demonstrated competence rather than conversation, and an odd, quiet fondness for describing bad moods in volcanic terms.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: miners from all over Tepenia, then clerics, bureaucrats and logistics coordinators from all over Tepenia; not a single nation (`DR-20`, `DR-21`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

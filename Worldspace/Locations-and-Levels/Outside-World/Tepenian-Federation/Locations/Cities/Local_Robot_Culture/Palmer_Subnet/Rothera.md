@@ -1,4 +1,4 @@
-# Rothera — Local Robot Culture Spec Sheet
+# Rothera — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #32 of the Local Robot Culture Methodology, 2026-08-11 — sixth city of the Palmer Subnet.** Directly
 follows up on forward flags from Denison's (Janbogo subnet) and Puerto Abrigo's own completed files. Applies
@@ -417,3 +417,5 @@ that survived the Long Night War intact/functional," directly established in Rot
 Vignette material as an already-conducted comparative study) is flagged forward for a real check once run —
 the strongest, most load-bearing forward flag issued in the Palmer subnet so far, given how much of Rothera's
 own material already anticipates it directly. Contrapunto is flagged forward generally, unassumed.**
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: industrial workers from North America and Argentina, with other nations represented (`DR-20`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

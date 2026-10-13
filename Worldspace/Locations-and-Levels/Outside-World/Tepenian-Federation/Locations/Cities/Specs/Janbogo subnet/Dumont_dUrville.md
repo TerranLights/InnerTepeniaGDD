@@ -159,11 +159,11 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty. French exiles built on the Dumont d'Urville Station infrastructure, inheriting the facility itself. The French Antarctic presence had been continuous at this site from 1956 (the station was briefly replaced by a successor, then rebuilt at the same location). *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. No living institution or personnel survived that chain of handoffs to personally teach the exiles anything — but preserved journals, audio logs, and orientation manuals, left behind across the centuries by whichever operators passed through, gave the exile community a real documentary starting point for learning the island's peculiar geography. Learning from a centuries-old written record is not the same as being taught by a living French institution, and the exiles' own practical mastery of Petrel Island was still built through their own generations of lived experience, not inherited wholesale.)*
+**Settled:** Post-Falkland Treaty. Japanese exiles (per the Founding Register) built on the inherited Dumont d'Urville Station infrastructure, inheriting the facility itself. The French Antarctic presence had been continuous at this site from 1956 (an infrastructure fact only, `DR-24`) (the station was briefly replaced by a successor, then rebuilt at the same location). *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. No living institution or personnel survived that chain of handoffs to personally teach the exiles anything — but preserved journals, audio logs, and orientation manuals, left behind across the centuries by whichever operators passed through, gave the exile community a real documentary starting point for learning the island's peculiar geography. Learning from a centuries-old written record is not the same as being taught by a living French institution, and the exiles' own practical mastery of Petrel Island was still built through their own generations of lived experience, not inherited wholesale.)*
 
-**Founding population:** Primarily French exiles alongside other francophone communities and whoever else arrived on the Adélie coast.
+**Founding population:** Japan (`DR-20`, `DR-44`), alongside other communities and whoever else arrived on the Adélie coast. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
-The name was kept, and with it the inheritance of **St. Jules** — Jules Dumont d'Urville, the explorer who first set foot on this coast on January 21, 1840, who named the land for his wife and gave the local penguins her name as well. His arrival is the founding moment of the human relationship with Adélie Land, and the city that eventually grew here knew it.
+The name was kept for now *(2026-10-13: the developer ruled that a city not settled by the French would have a different name; the new name is to be set in line with its founders, and is not yet chosen)*. **St. Jules** is Jules Dumont d'Urville, the explorer who first set foot on this coast on January 21, 1840, who named the land for his wife and gave the local penguins her name as well. His arrival is the first human contact with Adélie Land; whether, and how, the city that grew here took up his memory is a matter for its own culture.
 
 ---
 
@@ -173,7 +173,7 @@ Dumont d'Urville had the character of a city that knew it was beautiful and diff
 
 The wind shaped everything else. Architecture at Dumont d'Urville was built low, anchored, oriented. The cultural relationship with wind was not Mirny's pragmatic stoicism; it was something closer to negotiation — living with a condition that could not be fought, only accommodated. The island position reinforced this: the city could not expand beyond its natural borders, and the sea reminded residents on all sides that they were somewhere particular.
 
-The city's food culture, language, and aesthetic sensibility grew out of its own tight, island-bound circumstances and the wind-negotiation instinct described above, developed independently rather than transplanted wholesale — though French remained the civic-default language. It became the most distinctively francophone-speaking city in Tepenia — a small city, but one with a specific character.
+The city's food culture, language, and aesthetic sensibility grew out of its own tight, island-bound circumstances and the wind-negotiation instinct described above, developed independently rather than transplanted wholesale. It was a small city, but one with a specific character.
 
 **Nationally known for:** The penguin colonies. The wind. St. Jules. The island position. Being where Adélie Land begins.
 
@@ -240,7 +240,7 @@ The specific extent of the damage — which sections survived intact, what infra
 
 Dumont d'Urville's presence in Concordia is carried primarily by Pink Lucy — not as its last survivor, but as someone who left a damaged, still-standing city. The city itself is small enough that it hasn't sustained a large diaspora community in Concordia; what's known of it there is mostly known through her.
 
-In broader Tepenian culture, Dumont d'Urville is the francophone city of Adélie Land — the place that has kept its own negotiated, wind-and-penguin civic identity alive from the exile era onward, St. Jules included, damaged by the war but still there.
+In broader Tepenian culture, Dumont d'Urville is the island city of Adélie Land — the place that has kept its own negotiated, wind-and-penguin civic identity alive from the exile era onward, St. Jules included, damaged by the war but still there.
 
 ---
 
@@ -252,4 +252,4 @@ In broader Tepenian culture, Dumont d'Urville is the francophone city of Adélie
 - **Permanent bridge vs. seasonal crossing** — established 2026-07-05, explicitly NOT yet resolved; see the full engineering brainstorm under Notable Locations above (aerodynamic flutter risk, pack ice pier loads, maintenance access, and candidate solutions for each) — to be revisited once the developer decides whether a permanent bridge is realistically justifiable for this setting
 - **St. Jules observance** — January 21 (the date of d'Urville's 1840 landing) would be a natural civic observance date; what form did Dumont d'Urville's commemoration of St. Jules take?
 - **The penguin colony in gameplay** — how the Adélie penguin presence in the ruins is handled mechanically and narratively; they are a distinctive environmental feature worth designing around
-- **Demonym** — TBD (Dumonters? d'Urvillians? something in French?)
+- **Demonym** — TBD (Dumonters? d'Urvillians?); depends on the city's new name

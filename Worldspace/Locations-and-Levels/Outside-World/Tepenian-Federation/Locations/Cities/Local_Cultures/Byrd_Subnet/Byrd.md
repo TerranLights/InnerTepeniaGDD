@@ -1,4 +1,4 @@
-# Byrd — Cultural Spec Sheet
+# Byrd — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -276,3 +276,5 @@ Becoming a local at Byrd means genuinely internalizing self-sufficiency as ident
 ## 32. Diaspora Character in Concordia
 
 Byrd refugees in Concordia are a closed population — no one has joined them since the aircraft stopped flying, and no one has left since either. They carry Byrd's own defining character (self-sufficiency, expedition-mindedness, comfort with genuine isolation) along with the last confirmed knowledge of Byrd's state, now years or decades out of date. They cannot say what has happened to Byrd since the aviation route closed.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: a joint team of first-wave Tepenians from the Peninsula (the Palmer subnet) and the Halley coast (the Halley subnet); not founded by any Upper-Earth country (`DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

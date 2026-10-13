@@ -158,7 +158,7 @@ Step 3 · `Cities/Research_Logs/README.md`.*
   fill a blank. **Rosters — religions, factions, symbol members, sector labels — are OPEN and expected to grow,
   so a roster's SIZE is never the test.** When nothing fits, **say so and leave the slot explicitly open**:
   *"none is sited here"* must never read as *"none is possible here."* **Write what the place actually has — a
-  stake, a compact, a debt, a standard of worth — as what it is, without promoting it into the empty category.**
+  stake, a social contract, a debt, a standard of worth — as what it is, without promoting it into the empty category.**
   *Full statement: `Universal_Location_Methodology/00_RUNBOOK.md`.*
 
 ### If the work is a methodology change rather than a district pass

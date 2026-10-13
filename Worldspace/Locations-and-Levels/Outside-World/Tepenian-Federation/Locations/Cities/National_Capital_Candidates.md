@@ -93,7 +93,7 @@ Troll is also small — rank 18 in the Before census. A capital at Troll is unam
 
 ---
 
-### #3 — Utstein *(Halley/QML subnet, Belgian-founded)*
+### #3 — Utstein *(Halley/QML subnet, founded by the Scandinavian Trade Union nations; the earlier Belgian-founding wording is superseded, `DR-22`)*
 
 **The case:** Belgium is, in real-world politics, the country whose city hosts the European Union capital (Brussels) specifically because Belgium is a secondary power with no hegemonic ambitions over its neighbors. The same logic applies with striking directness to Tepenia: among all the nations that contributed significantly to Tepenian settlement, Belgium is uniquely positioned as a nation with no realistic bid for continental dominance. Its exile contribution (~124,000) is mid-sized and culturally distinct without being threatening to the major blocs.
 
@@ -147,7 +147,7 @@ The real-world South Korean government literally built Sejong City as a new admi
 
 ---
 
-### #7 — Santa Luce *(Halley/QML subnet, Finnish-founded)*
+### #7 — Santa Luce *(Halley/QML subnet, founded by Italy and the CIN; the earlier Finnish-founding wording is superseded, `DR-22`)*
 
 **The case:** Finland occupies a unique position in Tepenian demographics: a small nation (~3.3M effective), but with one of the highest per-capita robot-access rates of any nation in the census. This means the Finnish exiles are among the most uniformly robot-committed fraction of any nation's contribution — they are, disproportionately, people who chose exile because they truly would not leave without their robots. Finnish culture in Tepenia represents a particularly concentrated expression of the founding ethos.
 
@@ -155,7 +155,7 @@ Finland also has a real-world tradition of political neutrality — geographical
 
 Santa Luce is a small city (rank 17 Before, 17 After) that could function as a pure administrative capital on the Canberra model — a city that exists to govern rather than to economically dominate.
 
-**The complication:** Santa Luce is small and Finnish-founded, with very limited demographic weight as a primary cultural anchor. Its smallness is an advantage in the Canberra model but a practical challenge for a capital that needs to house federal institutions, diplomatic missions from Upper Earth, and the full apparatus of national government. The QML placement, while giving it subnet legitimacy, again raises the QML-bias question.
+**The complication:** Santa Luce is small and founded by Italy and the CIN (the earlier Finnish-founding premise is superseded, `DR-22`), with very limited demographic weight as a primary cultural anchor. Its smallness is an advantage in the Canberra model but a practical challenge for a capital that needs to house federal institutions, diplomatic missions from Upper Earth, and the full apparatus of national government. The QML placement, while giving it subnet legitimacy, again raises the QML-bias question.
 
 **Real-world analog:** Canberra (relatively small city chosen partly because it was not associated with either of the competing dominant cities).
 
@@ -197,7 +197,7 @@ The Canberra argument is strongest here: Canberra existed as a semi-rural territ
 | 4 | **Mawson** | Mawson | Washington D.C. | Saint-named; Indian Ocean balance; endurance mythology | China-primary long-run demographic; distant from QML and Peninsula |
 | 5 | **Fort McMurdo** | Janbogo | Washington D.C. | De facto capital grown from its nationwide supply-coordination role; proximate-not-identical to Janbogo | Janbogo subnet bias; USA-primary character |
 | 6 | **Contrapunto** | Palmer | Sejong City, ROK | Named after the democratic reformer-king; Korean purpose-built capital precedent | Island cap limits growth; Peninsula subnet bias; Korean demographic is small |
-| 7 | **Santa Luce** | Halley/QML | Canberra | Finnish neutrality tradition; concentrated founding-ethos demographic; small/purpose-appropriate | Very small; practical infrastructure concerns |
+| 7 | **Santa Luce** | Halley/QML | Canberra | ~~Finnish neutrality tradition~~ (superseded: founded by Italy and the CIN); concentrated founding-ethos demographic; small/purpose-appropriate | Very small; practical infrastructure concerns |
 | 8 | **Cape Adare** | Janbogo | Philadelphia | First permanent Antarctic habitation site; founding resonance; substantial city | Janbogo subnet bias; historical weight may not outweigh political optics |
 | 9 | **Sanay** | Halley/QML | Canberra (purest) | Smallest existing political footprint; no bloc dominates it; most like a purpose-designed admin city | Too small; interior access challenges; almost no existing cultural identity to build from |
 

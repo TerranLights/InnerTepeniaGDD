@@ -7,7 +7,7 @@
 **Arcanet Subnet:** Palmer ("American")
 **Access type:** SPUR
 **Highway access:** **Corrected 2026-07-06** — Puerto Abrigo is reached via a **road ramp** off the Hwy 1 mainline, between Marambio and the Rothera ramp (the same junction's other ramp reaches Palmer City, but by boat instead — Palmer City's Anvers Island geography requires a sea crossing where Puerto Abrigo's connection to the mainland via Wiencke Island apparently does not). See `Locations/Infrastructure/Highways.md`.
-**Significance:** The oldest British Antarctic base — established during Operation Tabarin in 1944, predating most other Tepenian city foundations; originally a wartime intelligence installation monitoring German naval activity in the South Atlantic; **renamed Puerto Abrigo 2026-10-03 (`DR-40`)**, Spanish "sheltered harbor", from "Port Lockroy" (the real base was named for Édouard Lockroy, French politician who championed the first IGY, 1882); one of the most historically layered locations in Tepenia; in the DLC era, one of the few partially surviving cities in the Palmer subnet
+**Significance:** A small harbor city on Goudier Island, settled by Chile (Founding Register, `DR-34`) on the inherited buildings of the former Port Lockroy base (real history, kept as background: a 1944 wartime intelligence installation, an infrastructure fact only, `DR-24`); **renamed Puerto Abrigo 2026-10-03 (`DR-40`)**, Spanish "sheltered harbor", from "Port Lockroy" (the real base was named for Édouard Lockroy, French politician who championed the first IGY, 1882); one of the physically layered locations in Tepenia (older structures kept and built around); in the DLC era, one of the few partially surviving cities in the Palmer subnet
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); damaged rather than destroyed; one of the inhabited nodes in DLC 3
 
 ---
@@ -16,7 +16,7 @@
 
 Puerto Abrigo is Tepenia's second-smallest city by population (rank 34th of ~35, *corrected 2026-07-03*, smaller than Marambio and Rothera both) on a genuinely tiny island (Goudier Island, inside a small natural harbor) — smaller than Marambio's Seymour Island, with no mountainous terrain, no room to decentralize, and no realistic underground vault potential. On pure physical-resilience grounds, this argues against survival even more strongly than Marambio's case did.
 
-What resolves it instead is strategic irrelevance, not physical resilience — the same mechanism that saved Santa Luce earlier this session. Port Lockroy's actual character was never military or industrial: a heritage/museum city with a small maritime-trade niche, nothing resembling Marambio's high-value airfield or Rothera's industrial base. There was no strategic reason to target it. Compounding this, Port Lockroy sits immediately adjacent to Palmer City on the highway network (its direct northern neighbor) — a real, plausible possibility that Upper Earth's targeting or reconnaissance conflated the two, assuming Port Lockroy's tiny footprint was simply part of Palmer City's strike zone rather than a distinct target requiring its own attention. Missed by insignificance and by proximity-driven misidentification, rather than surviving by resilience.
+What resolves it instead is strategic irrelevance, not physical resilience — the same mechanism that saved Santa Luce earlier this session. Port Lockroy's actual character was never military or industrial: a small harbor city with a maritime-trade niche, built around older structures it kept, nothing resembling Marambio's high-value airfield or Rothera's industrial base. There was no strategic reason to target it. Compounding this, Port Lockroy sits immediately adjacent to Palmer City on the highway network (its direct northern neighbor) — a real, plausible possibility that Upper Earth's targeting or reconnaissance conflated the two, assuming Port Lockroy's tiny footprint was simply part of Palmer City's strike zone rather than a distinct target requiring its own attention. Missed by insignificance and by proximity-driven misidentification, rather than surviving by resilience.
 
 ---
 
@@ -91,7 +91,7 @@ Puerto Abrigo sits on Goudier Island — a small island inside the natural harbo
 
 The harbor was used by sealers and whalers from the early 19th century before any formal scientific presence. Port Lockroy was built during World War II — Operation Tabarin, 1944 — as a British intelligence base monitoring German naval movements in the South Atlantic. The wartime origin gives it a founding character unlike any other Tepenian city: not a research station, not an exploration post, but a covert military installation built during a war that had nothing to do with Antarctica at all. The Cold War, the Southern Ocean, and Antarctic sovereignty all collided here before the exile era even began.
 
-In the pre-exile era, Port Lockroy was maintained as a heritage museum — possibly the most famous of the historical Antarctic sites open to visitors. In Tepenia, what was a heritage site became a living city, while retaining a sense of itself as a place layered with history. A city that knew it was old.
+In the pre-exile era, Port Lockroy was maintained as a heritage museum — possibly the most famous of the historical Antarctic sites open to visitors. In Tepenia, the former base's buildings were kept and a living city grew around them.
 
 ### Annual Climate
 
@@ -186,23 +186,23 @@ design-grade estimates; the annual precipitation total is Palmer Station's sourc
 
 ## Founding
 
-**Settled:** The original 1944 installation was the seed. Unlike other Tepenian cities that built on pre-exile research stations, Port Lockroy built on a wartime intelligence post — then a heritage museum — then a living city. The founding progression is unique: military → memorial → community.
+**Settled:** Post-Falkland Treaty, by Chile (Founding Register, `DR-34`), on the inherited buildings and harbor of the former base (infrastructure only, `DR-24`). The earlier reading of the founding as a military → memorial → community progression is superseded: the site's real history is background, not the city's origin.
 
-The original founding principle of Operation Tabarin — that Britain should have a physical presence in Antarctica to support its territorial claim — is a fact of the site's 1944 origin, not a mission the exile city carried forward. What persisted through exile instead was the site's own layered-history instinct: Port Lockroy became proof of concept that a place could keep every era of its own past physically present rather than starting fresh, the same palimpsest character that came to define it long after any wartime purpose had become just one more layer among many.
+The 1944 origin of the site (Britain's territorial-claim mission) is a fact about the former base, not a mission or a founding principle of the Chilean-founded city. *(Earlier text here described the site's layered-history instinct as the city's founding character; superseded 2026-10-13 per the developer, `Founding_Register.md` and `DR-28`.)*
 
-**Founding population:** British exiles. The British exile community in the Palmer subnet spans Puerto Abrigo, Rothera, and Signy.
+**Founding population:** Chile (`DR-34`). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 ---
 
 ## Character & Culture
 
-Puerto Abrigo had the character of a city that couldn't forget its own history because the history was physically present. The 1944 buildings, the wartime equipment, the evidence of what the site had been — all of it was incorporated into the exile city rather than demolished. Puerto Abrigo was comfortable with being old.
+Puerto Abrigo grew around structures it kept: the 1944 buildings and the wartime equipment were incorporated into the city rather than demolished. *(Earlier text here described the city as a heritage/museum city that was comfortable with being old; that character is a revisit item for its own pass, `DR-28`.)*
 
-The heritage character — museum-city — meant Port Lockroy developed a specific relationship to the past. Not nostalgia exactly, but a kind of continuous accountability to it. People here knew what the place had been, and that knowledge shaped how they lived in it. The city was a palimpsest: every generation wrote over the previous one without quite erasing it.
+*(Earlier text here described a museum-city relationship to the past, a palimpsest where every generation wrote over the previous one; superseded as a founding or identity claim 2026-10-13, and left to the city's own pass.)*
 
 The harbor's natural shelter made Puerto Abrigo one of the more hospitable environments for small-craft maritime activity in the Peninsula, which gave it an economic niche in trade and passage.
 
-**Nationally known for:** Being old — the oldest continuously-occupied site in Tepenia. The harbor. The wartime founding. The heritage character.
+**Nationally known for:** The harbor; a city grown around older structures it kept. *(The earlier claim of being the oldest continuously-occupied site in Tepenia is a site-history claim and is withdrawn, `DR-28`.)*
 
 ---
 
@@ -227,12 +227,12 @@ Maritime trade using the natural harbor's shelter, heritage/cultural significanc
 ---
 
 ## Connection to Concordia
-Palmer subnet. Puerto Abrigo's history reaches back to its 1944 buildings — the oldest continuously-occupied site in Tepenia. That history is its signal in the Concordia consciousness, insofar as anyone in Concordia still knows it.
+Palmer subnet. Puerto Abrigo is a small harbor city built around older structures it kept; little of it is known in Concordia, insofar as anyone there still knows it. *(Earlier text claimed the oldest continuously-occupied site in Tepenia; withdrawn, `DR-28`.)*
 
 ---
 
 ## Legacy
-Puerto Abrigo's legacy is the continuous thread — from 1944 wartime intelligence to exile city to Long Night War survivor. No other Tepenian city has that kind of documented, unbroken occupation record stretching back to its own founding moment. It is, in some sense, the oldest continuously-inhabited thing in Tepenia — a distinction of age and continuity, not of any one nation's ongoing claim on it.
+Puerto Abrigo's legacy is a small harbor city that grew around structures it kept, through exile, the Long Night War and its survival. *(Earlier text here claimed an unbroken occupation record from 1944 and called it the oldest continuously-inhabited thing in Tepenia; a site-history claim, withdrawn 2026-10-13, `DR-28`.)*
 
 ---
 

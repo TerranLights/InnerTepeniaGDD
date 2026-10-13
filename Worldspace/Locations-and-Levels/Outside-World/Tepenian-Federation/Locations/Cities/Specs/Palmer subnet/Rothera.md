@@ -165,7 +165,7 @@ Rothera was one of the few Antarctic stations with a paved runway. The Bonner La
 
 **Settled:** Post-Falkland Treaty, on the Rothera Research Station infrastructure. The BAS had operated at Rothera since 1975. The exile settlement inherited one of the most developed and well-maintained station sites on the Peninsula.
 
-**Founding population:** Primarily British exiles. Both Rothera and Halley were founded by British exiles, giving the British exile community a presence on two coasts — the Peninsula's west side and the Atlantic's Queen Maud Land coast. The cultural connection between Rothera and Halley, despite their geographic distance, would have been real.
+**Founding population:** Primarily, and most notably, industrial workers from North America and Argentina, though with other nations represented (`DR-20`, `DR-44`). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 The paved runway — inherited from the BAS era — gave Rothera a practical distinction from other Peninsula cities. Aviation infrastructure in Tepenia is rare; Rothera had it from the beginning.
 
@@ -175,7 +175,7 @@ The paved runway — inherited from the BAS era — gave Rothera a practical dis
 
 ## Character & Culture
 
-Rothera had the character of a city that knew it was well-positioned. The maritime climate — mild, variable, demanding but not extreme — meant that daily life here was less relentlessly hostile than in the interior cities or even many coastal cities further south. Six centuries of continuous, hands-on operation of the same station — first as a working research base, then as an exile settlement — gave Rothera a specific pragmatic competence: decades upon decades of accumulated knowledge about how to operate in this environment, how to maintain infrastructure in changeable maritime conditions, how to keep a paved runway functional in Antarctic weather — competence that, after the war, extended directly into keeping the subnet's industrial base running under real damage.
+Rothera had the character of a city that knew it was well-positioned. The maritime climate — mild, variable, demanding but not extreme — meant that daily life here was less relentlessly hostile than in the interior cities or even many coastal cities further south. The exile settlers — industrial workers from North America and Argentina, with other nations represented — arrived at a mature, well-maintained station site and built up their own pragmatic competence over the generations that followed: accumulated knowledge about how to operate in this environment, how to maintain infrastructure in changeable maritime conditions, how to keep a paved runway functional in Antarctic weather — competence that, after the war, extended directly into keeping the subnet's industrial base running under real damage.
 
 The aviation infrastructure gave Rothera a connectivity that most Peninsula cities lacked. People and goods could move through Rothera in ways that reinforced its role as a node in the Peninsula network — but the runway was always secondary to what actually defined the city: Adelaide Island's spread-out industrial capacity, processing raw materials into the finished components the rest of the Palmer subnet, including Palmer City itself, needed to actually build anything.
 
@@ -238,7 +238,7 @@ Rothera's legacy is its infrastructure and its continued function — the runway
 - **The underground vault sections** — how extensive are they, when were they built, are they still inhabited/functional today, and did they play a role in the population sheltering during the actual war? TBD for DLC 3 design
 - **Aviation during the exile era** — what role did Rothera's runway play in Palmer subnet operations before the war? Was it used for Peninsula-internal flights only, or was there trans-Drake Passage aviation connecting to South America?
 - **The Lemaire Channel in the DLC** — the channel approach to Adelaide Island from the north is one of the most visually dramatic maritime passages in Antarctica; whether this features as a DLC entry sequence or navigation element is TBD
-- **British community in Concordia** — any Rothera diaspora alongside the Halley diaspora? TBD
+- **Rothera diaspora in Concordia** — any, alongside the Halley diaspora? TBD
 - **St. Ernest (Shackleton) connection** — Shackleton's association with the Peninsula region (Endurance expedition departure, Elephant Island rescue) makes him the most relevant Tepenian Saint for the Palmer subnet broadly; whether Rothera specifically claimed him, or whether another Peninsula city does, is TBD
 - **Demonym** — **Rotheran** *(established 2026-07-04)*
 - **Notable figures originally from Rothera** — TBD

@@ -1,4 +1,4 @@
-# Ariun Nuur — Local Robot Culture Spec Sheet
+# Ariun Nuur — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-42`): formerly *Vostok*, after the real Soviet and Russian station; now **Ariun Nuur**.** **The central scientific district keeps the name "Vostok"**, in honor of the scientists of the past. Any line below that still says "Vostok" names the REAL station or Lake Vostok, or tells the story of the FORMER name (the Russian and Soviet reputation, "Vostokan"/"Vostokian" demonyms). The latter are revisit items. Ariun Nuur is Mongolian (Ариун Нуур), "the pure lake"; founders: Künnarantaiga and Mongolia (`DR-35`).
 
@@ -275,3 +275,5 @@ Kunlun's side of the historical record — Ariun Nuur's own files never mention 
 everything else this pass found about Ariun Nuur's temperament: it holds the actual confirmed record and doesn't
 need to keep proving it, while Kunlun, without the record, is the one left caring more. A quiet, well-grounded
 characterization difference between the two, not a gap in the research.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Künnarantaiga and Mongolia, jointly (`DR-35`); not Russia itself. Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

@@ -1,4 +1,4 @@
-# Signy — Cultural Spec Sheet
+# Signy — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -268,3 +268,5 @@ Given the city's absolute isolation and tiny population, becoming a local at Sig
 ## 32. Diaspora Character in Concordia
 
 No meaningful Signy diaspora exists in Concordia — the weakest Arcanet link of any Tepenian city with records means Concordia's knowledge of Signy is the thinnest of any city, further diminished by distance, pre-war signal weakness, and Long Night War disruption. What little is known survives more as rumor and record than lived community connection.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: South Africa and Brazil, jointly (`DR-22`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

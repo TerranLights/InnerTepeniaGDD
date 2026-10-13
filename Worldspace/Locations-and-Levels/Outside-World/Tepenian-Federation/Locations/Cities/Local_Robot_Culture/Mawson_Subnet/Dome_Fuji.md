@@ -1,4 +1,4 @@
-# Dome Fuji — Local Robot Culture Spec Sheet
+# Dome Fuji — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #12 of the Local Robot Culture Methodology, 2026-08-10 — second city of Mawson Subnet.** Applies the
 shared-experience-first Kinship framing from the start (see the Kinship re-scan applied to the first 9 cities,
@@ -344,3 +344,5 @@ pass's strongest findings — the total absence of local fabrication (a fact Kun
 specialist population doesn't share in the same way), the dual-tier devotional architecture, the robes-as-
 devotion practice, and the built-from-scratch liturgical vocabulary — all depend on facts specific to Dome
 Fuji's own voluntary-pilgrimage population, not transplantable from Kunlun's professional-recruitment one.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: devout religious disciples (the Ice Cold Buddhism pilgrims), not associated with any particular country (`DR-20`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

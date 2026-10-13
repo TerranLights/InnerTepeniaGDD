@@ -51,6 +51,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 | **Sinheung** | Mirny | **COST-DOMINANT** — *imposed, not voluntary* | ⭐ **SINGLE ADDRESS for structural authority — a named neighbor.** *The one structural problem it cannot send away is the one it quietly invented an answer to* | ✅ **2026-09-07** |
 | **Shirayuki** | Mirny | ⚠ **Read twice** — `COST-ABSENT`-leaning quarantined / `COST-DOMINANT` admitted | ⭐ **FOUR deficits, FOUR different addresses — no two share a remedy or a counterparty** | `City_Development_Passes/Mirny_Subnet/Shirayuki/` |
 | **Zhongshan** | Mirny | **BALANCED, with a DOUBLED deficit** | **Nowhere at all ×2** *(can't retain precipitation; can't land small boats — both physical, unremediable)* · **In its own past ×1** *(the court sat once, before arrival)* · **Diffuse ×2** | `City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/` |
+| **Mirny** | Mirny subnet | balanced in both readings; what the balance costs, and who pays (`SPN` §5) | diffuse at the defining deficit; no one to petition (`SPN` §6) | ULM WARM pre-war; Steps −1 to 5 PROPOSED |
 
 # 2. PHASE 2 — COMPOSITION & ARRIVAL
 
@@ -62,6 +63,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 | **Sinheung** | **Allocated by treaty before the exile era; settled on inherited working infrastructure** | ⭐ **TITLE GRANTED, NOT WON** |
 | **Shirayuki** | Assigned at founding; no self-selected layer at all; *chose it* fills only in Act 2, and only through an institution | ⭐⭐ **ASSIGNED FIRST, CHOSEN LATER** — *when did anybody's own choice to be here first become part of their story?* |
 | **Zhongshan** | **Five modes, and one conspicuous null** — inherited it · sentenced to it *(no charge)* · chose it irreversibly · chose it ordinarily · born here. ⛔ **STOPPED WHILE PASSING is null**, and the null is explained | **`PRIORITY OF PRESENCE`** — *not origin, not proportion: who was already standing here* |
+| **Mirny** | placed by tie or class, never by the site; natives only later (`P2` B.4) | assigned exiles, natives later (`P2` L76) |
 
 # 3. PHASE 3 — SURFACE & TEXTURE
 
@@ -73,6 +75,7 @@ generator-conflict method** — **and say in the pass that you did.** Then add y
 | **Sinheung** | ⭐ **IMPERMANENT GROUND** — *the ground itself is the thing that will not hold still* | **The melt — daily freeze-thaw on meltwater, in the two driest months** |
 | **Shirayuki** | ⭐⭐ **ABRASION** — *what the air does to every exposed surface, continuously* | **Deep winter: darkest, coldest AND windiest — the damage accrues unobserved** |
 | **Zhongshan** | **`LEGIBILITY AT SCALE`** — *not order vs. chaos, but at what scale each reading is true* | **The far end of the polar night** — the winter tank at its smallest with the sea shut longest |
+| **Mirny** | wind-made, light-dated (`P3` L84) | no single worst; a dark plateau and a lit thaw season (`P3` P3-8, P3-5) |
 
 # 4. PHASE 4 — ORDINARY LIFE
 
@@ -85,6 +88,7 @@ nothing at all.
 | **Sinheung** | ⭐ **THE SHARED NIGHT AND THE MELT** — *a universal daily stop; a two-month annual change of what the ground IS* | |
 | **Shirayuki** | ⭐⭐ **THE WINDOW** — *what can be deferred and what cannot* | |
 | **Zhongshan** | **`THE PRICE OF THE HOUR`** — *what the day is organized around* | Wind peaks at midnight → generation peaks → price troughs → **the city is already at rest.** The cheap window is contested and unpetitionable |
+| **Mirny** | the stop and the crossings; a stop no sky keeps, crossings on an untaught cue (`P4` L71) |  |
 
 # 5. PHASE 6 — MEANING
 
@@ -97,6 +101,7 @@ traditions in one shared environment," and against giving every location a bespo
 | **Sinheung** | ⭐⭐ **THE ARCHIVE** — *record-keeping as the answer to an impossibility* | **THE ONE UNAMBIGUOUS COMPLETION** *(a season that visibly ends, in a place with no closure)* | ⏸️ **RESERVED — mortuary question not answered** |
 | **Shirayuki** | ⭐⭐⭐ **Standing is earned by ATTENTION, not DURATION** | ⭐⭐ **AUDIT** — *an annual public reckoning on a voluntary obligation* | ⛔ **DEFERRED corpus-wide** |
 | **Zhongshan** | **"A thing that works does not need someone's name on it"** | **A shared DATE, not a shared origin** *(Midwinter-shaped)* — plus an unserious midday that cannot be scheduled | **The dead are handled** *(mixed ossuary; metal half stays legible, calcium half does not)*. ⛔ **What has NO form is two populations gone and not dead** — the `22.10%` who went up, and `DRQ-18`'s resident branch |
+| **Mirny** | a Social Contract on where failure may live; booked to the person, weather or silence, never to what was handed down (`P6` P6-1, P6-17) | dated by light or called on the day; no day for a failure [CAND] (`P6` §E) | NULL, reserved by ruling (`RV-4`) |
 
 # 6. PHASE 7 — ORDER
 
@@ -106,6 +111,7 @@ traditions in one shared environment," and against giving every location a bespo
 | **Sinheung** | ⭐⭐⭐ **ITS OWN LOAD-BEARING WORK** — *quality, the seasonal command, and the accumulated method* | **SELF-JUDGMENT WITH NO CREDENTIAL** — *you are trained toward a verdict nobody will ever deliver* | ⭐⭐ **WITHDRAWAL, NOT OPPOSITION** — *possible only because the measure has no office to compel* |
 | **Shirayuki** | ⭐⭐ **ALLOCATION** — *three consequential facts, and none of them is decided here* | ⭐⭐ **DEMONSTRATED, not certified** | ⛔ **NONE — the contradiction is intrapersonal, so there is nobody to organize** |
 | **Zhongshan** | **`ALLOCATION WITHOUT A DEFENDANT`** — *seven unadministrable things, one shape: wind, season, lake, rock, meter, the treaty's silence, and a daily cross-boundary workforce no instrument records* | **A mandated export of qualified people** *(`15.4%` of the workforce)* — **and the failure mode is not being poor, it is STAYING** | **`PERFORM WHAT THE PLACE CANNOT`** — *the artisan signs the work, and the city LICENSED the exception* |
+| **Mirny** | answering for the wind's moment; a call whose clock outruns any authority (`P7` P7-14) | checkable by outcome or only witnessed; the outcome is the examiner (`P7` P7-27, P7-28) | dissent inside each person; its faithful form asks for an instrument (`P7` P7-34, P7-35) |
 
 # 7. PHASE 8 — MAKING
 
@@ -117,6 +123,7 @@ traditions in one shared environment," and against giving every location a bespo
 | **Sinheung** | ⭐⭐⭐ **VERDICT** — *the only thing here that returns one* | ⭐⭐ **THE THRESHOLD CHANGE** — *a public outer layer and a private working one* | ⭐⭐ **GRADING VOCABULARY APPLIED TO NON-MATERIALS** — *and the tell is precision, not vocabulary* |
 | **Shirayuki** | ⭐⭐ **DEFERRAL** — *what could wait, and what survived somebody else's handling* | ⭐⭐ **WEAR, not CUT** | ⭐⭐ **Degrees of KEPTNESS** — *an occupational register carried as vernacular* |
 | **Zhongshan** | **`NO CALENDAR EXCEPT THE SEA`** — *lit vaults do not know the date, so Prydz Bay supplies the year* | **`THE TWO-GLOVE PROBLEM`** — *insulation against dexterity; the same people need both on the same day, on a walk under a kilometre* | **`TWO CLOCKS, STILL AUDIBLE`** — *two branches of one stock, ~481 years apart, met here; the source is permanently unavailable to correct either* |
+| **Mirny** | when food comes and how long it keeps, never what it is (`P8` P8-2, P8-6) | the door; the garment as the visible sign of a private reading (`P8` P8-18) | tense, not accent; a register of now (`P8` P8-26, P8-27) |
 
 # 8. PHASE 5 — RELATION & GEOMETRY
 
@@ -126,6 +133,7 @@ traditions in one shared environment," and against giving every location a bespo
 | **Sinheung** | ⭐⭐ **DOMINION OVER A THING THAT DOES NOT EXIST UNLESS REMADE ANNUALLY** | **Independent sea access** *(the geology forbids it)* **and structural authority** *(sent to a neighbor)* |
 | **Shirayuki** | ⭐⭐ **PRESENCE** — *it shares everything and is present at nothing* | ⛔ **It does not refuse — it CANNOT.** *Ground on the water, supplied by the two that have shore* |
 | **Zhongshan** | **`SOLE CONTROL OF AN ENTRANCE`** — *not connectedness, and not isolation* | **Primary dominion of the shared port** — conceded by `450 m` to the opposite shore; and **robot-care training**, which is a walk away rather than a thing it built |
+| **Mirny** | owed constantly, supplied seasonally (`P5` L86) | does not finish its product (a fellow member does); no backup of its own (`P5` P5-29, P5-5) |
 
 # 9. PHASE 9 — POPULATIONS
 
@@ -138,6 +146,7 @@ built environment, a shared constraint, a shared exclusion.
 | **Sinheung** | ⭐⭐ **A SHARED CONSTRAINT** — *not origin, not function* | ✅ **YES — *whether your work returns a verdict*.** *It cuts straight across kind* |
 | **Shirayuki** | ⭐⭐ **The built environment, chosen from a shared exclusion** | ✅ **YES — how well you keep things.** *Kind-blind, because the grading lives in a language rather than an institution* |
 | **Zhongshan** | **`CITY/LOCALITY` — and specifically THE GROUND**, chosen because the majority inverts inside the frame and the ground does not | ⭐ **YES — the address.** Rock vs. re-levelled apron, and it presses harder on robots, who hold two identity bases where humans hold three |
+| **Mirny** | per population; the floor is one constraint in one locality (`P9` L149) | yes: formation — a wind line, a memory line, no rank (`P9` P9-14) |
 
 ---
 

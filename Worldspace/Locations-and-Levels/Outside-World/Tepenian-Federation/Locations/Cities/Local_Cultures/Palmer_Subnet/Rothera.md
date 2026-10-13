@@ -1,4 +1,4 @@
-# Rothera — Cultural Spec Sheet
+# Rothera — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -269,3 +269,5 @@ Becoming a local at Rothera means demonstrating practical usefulness to the city
 ## 32. Diaspora Character in Concordia
 
 No substantial Rothera diaspora community is established in Concordia — the Palmer subnet cities are geographically distant and the Long Night War hit the Peninsula hard and early. What Concordia knows of Rothera, it knows mostly from before the war, rather than through any direct community connection.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: industrial workers from North America and Argentina, with other nations represented (`DR-20`, `DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

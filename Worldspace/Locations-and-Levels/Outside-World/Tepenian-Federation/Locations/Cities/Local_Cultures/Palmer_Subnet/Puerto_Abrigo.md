@@ -1,4 +1,4 @@
-# Puerto Abrigo — Cultural Spec Sheet
+# Puerto Abrigo — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-40`): formerly *Port Lockroy*, the real base's name; now **Puerto Abrigo**.** Any line below that still says "Port Lockroy" names the REAL site (the base, the harbor, Operation Tabarin) or tells the story of the FORMER name (the base was named for Édouard Lockroy). The latter are revisit items. Puerto Abrigo is Spanish, "sheltered harbor"; founders: Chile first (`DR-34`).
 
@@ -266,3 +266,5 @@ Given the city's genuinely tiny scale, becoming a local at Puerto Abrigo happens
 ## 32. Diaspora Character in Concordia
 
 Puerto Abrigo's history extends back to 1944 — the deepest continuously-documented occupation record of any Tepenian site, predating every other city's founding by decades. No substantial diaspora community is established in Concordia given the Palmer subnet's geographic distance and the severity of the Long Night War there; what Concordia knows of Puerto Abrigo, it knows mostly as history rather than through any living community connection.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Chile (`DR-34`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

@@ -107,7 +107,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 
 ### Santa Luce
 - **Contrapunto** (Palmer) — Medium, Cultural. Both cities solved a genuine multinational-coexistence problem at
-  founding (Finnish-Swedish at Santa Luce, a dozen communities at Contrapunto) — a natural point of practical
+  founding (Italy and the CIN jointly at Santa Luce [founding wording updated 2026-10-13; the tie's rationale is a revisit item], a dozen communities at Contrapunto) — a natural point of practical
   governance comparison once full connectivity exists, though at very different scales.
 - **Sanay** (Halley) — Medium, Infrastructure. Downstream of the same Hwy 7 supply corridor; Santa Luce's own
   small-scale internal Halley subnet trade runs through Sanay's own shipping and distribution role.

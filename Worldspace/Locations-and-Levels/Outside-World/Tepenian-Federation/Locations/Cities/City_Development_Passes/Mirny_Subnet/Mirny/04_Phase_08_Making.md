@@ -1,5 +1,7 @@
 # Mirny — Step 4 · Phase 8 · Making
 
+> **⚠ AMENDMENT NOTICE (2026-10-13; `DR-56`, `DR-57`).** The developer corrected a premise this file uses. **The first generation of settlers had to learn the wind and the setting from scratch. They then developed the shared knowledge system (signifiers and a public weather protocol, managed and curated by an organization of people of both bodies, and open to anyone who wants to learn it) that every later generation learned and used.** Wherever this file says the wind has *no teacher*, *no instrument*, *nothing posted*, *untaught* or *unread* cues, or that each resident *re-learns* the wind, or that the record *never learns*, read it as true of the **first generation only**. Passages marked **[AMENDED]**, **[REVERSED]** or **[SUPERSEDED]** were corrected or flagged in place; the rest is covered by this notice. Whether the protocol rides the relay is undecided. Details: `DR-56_Amendment_Register_2026-10-13.md`. The name of the unwritten understanding is *Social Contract*.
+
 **Pass:** Mirny (Mirny subnet) · ULM · Step 4, Phase 8 (`03_The_Phase_Spine.md` L952–1022; mechanics L82–272) · **Run mode: WARM** · 2026-10-06.
 **Status:** *Proposed.* Displayed and written; awaiting developer clarification before it feeds Phase 9.
 **T8:** Round 1 readers A, B and C2. Reader C failed Round 2 on three PROOF fields; the slot was re-dispatched fresh as C2 on the unchanged brief, and C's attempt is kept on record. Round 2: **UNANIMOUS** (38 / 38 files; 114 / 114 PROOF field sets). Round 3: **6 / 6 CONSISTENT**. The round is cleared to write. The record, with the raw Round 2 output, is in `04b_T8_Rounds_Phase_8.md`.
@@ -148,8 +150,8 @@
 | 17 | `P4` L341 (R-45) | Drink pole, vapor, coffee, courtship, human leisure, gatherings | **Null with reasons.** The pole is not derivable, and placing it would be a forced fit | P8-5, P8-20; R-102 |
 | 18 | `P5` L429 (Feeds) | What leaves and arrives; the vocabulary of the edge; language open | **Discharged** | P8-2, P8-10, P8-27 |
 | 19 | `P5` L486 (R-52) | What arrives at Mirny by sea, by kind | **Carried.** P8-2 is conditional on it | P8-2 |
-| 20 | `P6` L145 (S4) | A practice of reading the ground | **Reserved.** It fails fit-test (e) and would change the compact | RF-18 |
-| 21 | `P6` L147 (S6) | The amended copy | **Discharged at form level.** It changes the compact; not adopted | P8-14 |
+| 20 | `P6` L145 (S4) | A practice of reading the ground | **Reserved.** It fails fit-test (e) and would change the Social Contract | RF-18 |
+| 21 | `P6` L147 (S6) | The amended copy | **Discharged at form level.** It changes the Social Contract; not adopted | P8-14 |
 | 22 | `P6` L261 (Feeds) | The reading, the call, *weather*, the first sunset, the record, a verified entry; what residents say after an injury (R-67); language | **Discharged** as referents. Injury speech kept to a derived shape only | P8-27, P8-30 |
 | 23 | `P6` L306–307 (R-67, R-68) | In-world speech; the record | **Carried** | nulls |
 | 24 | `P6` L326 (Q-62) | Is the Borrowed Form's trigger reserved for Phase 8? | **Used at form level** here. The question stands | Q-74 |
@@ -178,13 +180,13 @@ Contract rows: `CON` L384–391.
 **Peer-free test: "could this be true anywhere?"** Half of it could, since every cold place prepares for its weather. What passes is the pairing at Mirny's own values:
 - Canon makes exposure *"exposure as PREPARATION, the same category it is for a human"* (`RP` L50), for both bodies.
 - At Mirny, prediction is not merely hard but unavailable. *"The cues are honest; they are unread"* (`RES` L30). The research found *"a report from inside the storm (how far one can see out there, now), not an early warning"* (`RES` L123). The one thing a caller could offer is *"a *now*, not a *soon*"* (`P7` L306).
-- The instruments that would let anyone predict would each *"give a loss a second answerer — and change the compact."* (`P6` L188).
+- The instruments that would let anyone predict would each *"give a loss a second answerer — and change the Social Contract."* (`P6` L188).
 
 So what Mirny makes for itself — what it wears, keeps, maintains and says — is made to hold whatever the wind does, not to know what it will do.
 
-Delete every other place's name from this sentence: *a city whose people cannot forecast their wind, and whose compact declines the instruments that would let them, makes clothes, stores, upkeep and words that prepare for any wind rather than read this one*. The claim survives, so it was never relational. **Not checked against any sibling** (terminal check).
+Delete every other place's name from this sentence: *a city whose people cannot forecast their wind, and whose Social Contract declines the instruments that would let them, makes clothes, stores, upkeep and words that prepare for any wind rather than read this one*. The claim survives, so it was never relational. **Not checked against any sibling** (terminal check).
 
-**What question it answers that no earlier Mirny phase answered.** `P2` asked who arrived; `P3`, what the place feels like; `P4`, what a day is made of; `P5`, what is owed and received; `P6`, who answers for a loss; `P7`, who decides between claims. **`P8` asks what the place makes for itself, and for what.** The files' answer: things that let a person cross without reading the wind. The one thing Mirny could make out of the reading itself — a written entry, a public call — is the thing its compact refuses.
+**What question it answers that no earlier Mirny phase answered.** `P2` asked who arrived; `P3`, what the place feels like; `P4`, what a day is made of; `P5`, what is owed and received; `P6`, who answers for a loss; `P7`, who decides between claims. **`P8` asks what the place makes for itself, and for what.** The files' answer: things that let a person cross without reading the wind. The one thing Mirny could make out of the reading itself — a written entry, a public call — is the thing its Social Contract refuses.
 
 **Two sub-axes, both kept (merge).**
 - **Where it shows: native at the door** (reader B).
@@ -397,9 +399,9 @@ Delete every other place's name from this sentence: *a city whose people cannot 
 - *Canon.* Drift geometry is fixed by height and wind direction: *"it is the half of the wind that can be written down."* (`RES` L20 [CORR]). Ridges record the wind's direction, and *"The instrument exists; its reader does not."* (`RES` L125 [CORR]).
 - *1st.* Whatever Mirny's built form looks like (`DR-10`), it makes drift on every face, and the drift records the wind.
 - *2nd.* That record is the writable half, yet **no admitted craft reads it** (`P6` S4; `P7` CAND-7, not adopted).
-- *3rd [D].* **Mirny's largest made thing is also its fullest account of its wind, and the culture that made it has no form for reading it.** A taught craft of reading the drift would give the deficit an address and change the compact (`P6` P6-18): **RF-18**, not adopted. It also fails fit-test (e), since there is no reader to teach it.
+- *3rd [D].* **Mirny's largest made thing is also its fullest account of its wind, and the culture that made it has no form for reading it.** A taught craft of reading the drift would give the deficit an address and change the Social Contract (`P6` P6-18): **RF-18**, not adopted. It also fails fit-test (e), since there is no reader to teach it.
 
-### P8-14 · The amended copy: the one object the reading could make — and the compact refuses it *[CORR + RW + D]* · **the Borrowed Form, fired at form level for the record; not adopted** · both bodies · Act-sensitive
+### P8-14 · The amended copy: the one object the reading could make — and the Social Contract refuses it *[CORR + RW + D]* · **the Borrowed Form, fired at form level for the record; not adopted** · both bodies · Act-sensitive **[SUPERSEDED IN PART by `DR-56`/`DR-57`: re-derivation pending; see the amendment register]**
 - *The trigger* (`P2` §D) fires: material culture's native layer is empty in the admitted files, and the spine predicted the gap (`SPN` §6 #7, no living teacher).
 - *The forms* (`RES` §6 [CORR]; forms in an ancestral repertoire, **never traits of a people, and not established as carried by Mirny's founders**, `P2` §D caution 1):
   - a family book of the coast amended by each generation;
@@ -407,8 +409,8 @@ Delete every other place's name from this sentence: *a city whose people cannot 
   - *"a reader's judgment published as a marker, reset daily"* (`RES` L111).
 
   What transfers is *"the amended copy"* (`RES` L114). *"A written record can be amended by a human or a robot equally"* (`P2` L317 [CORR]). A discipline *"can be rediscovered by other people"* (`DRL` L650).
-- *The price.* An amended record, a verified entry or a public call *"would each give a loss a second answerer — and change the compact."* (`P6` L188 [CORR]). *"the only person entitled to say the book was wrong is the one the compact blames"* (`P7` L328 [CORR]).
-- **Result [D]: the one craft-product the reading could have is exactly the one the compact refuses.** As a craft it would be the compact's dissent (`P6` S6; `P7` CAND-3). Whether anyone writes in the record is R-68, R-82 and FQ-40.
+- *The price.* An amended record, a verified entry or a public call *"would each give a loss a second answerer — and change the Social Contract."* (`P6` L188 [CORR]). *"the only person entitled to say the book was wrong is the one the Social Contract blames"* (`P7` L328 [CORR]).
+- **Result [D]: the one craft-product the reading could have is exactly the one the Social Contract refuses.** As a craft it would be the Social Contract's dissent (`P6` S6; `P7` CAND-3). Whether anyone writes in the record is R-68, R-82 and FQ-40.
 - *Said plainly:* the three forms belong to the three researched stocks' repertoires only. The eleven other stocks were not researched, and nothing is written for them (R-96).
 
 **Transplanted layer.** Stock crafts are not admitted (R-96). The only stock forms admitted are the record forms above. **Reserved:** care across bodies as a founding-household craft (RF-24 — `WTP`'s coolant-tending lines are guidance for the show, not evidence of a household practice) · exile-era heirlooms (`WIC` L282, *"many families would still own"*; national, ONGOING, gated; RF-9).
@@ -454,8 +456,8 @@ The general resident is neither founder nor wind-worker (`P2` L432). Half of nec
 
 ### P8-18 · Dressing at the door is the reading made visible — the only outward sign of a private call *[CORR + D]* · both bodies
 - *1st.* A garment choice keyed to the thermometer misreads exactly the moment that matters (`P3` P3-2 [CORR]). So **dressing at the door is the act in which a resident's private reading of the wind becomes concrete.**
-- *2nd.* Under the compact, *"the wind is yours to read"* (`P6` L84 [CORR]), and no public wind call exists (`P7` P7-15 [CORR]). So **what each person wears out the door is the only outward sign of anyone's reading of the day** — visible, unpublished, and answered for by no one [D].
-- *3rd [D].* A visible reading can be copied. Copying a neighbor's preparation is reading the wind second-hand, and under the compact the outcome is still booked to the copier. **The door shows everyone's call and protects no one from their own.**
+- *2nd.* Under the Social Contract, *"the wind is yours to read"* (`P6` L84 [CORR]), and, as Phase 7 wrote it (superseded by `DR-56`, which gives Mirny a public weather protocol), no public wind call exists (`P7` P7-15 [CORR]). So **what each person wears out the door is the only outward sign of anyone's reading of the day** — visible, unpublished, and answered for by no one [D].
+- *3rd [D].* A visible reading can be copied. Copying a neighbor's preparation is reading the wind second-hand, and under the Social Contract the outcome is still booked to the copier. **The door shows everyone's call and protects no one from their own.**
 - *Struck in Round 3 (RF-23):* that preparation decides *which slot* a loss is booked into. `P6` L181 books *"a crossing gone wrong to the person slot"*, prepared or not. Nothing makes the coat a defense.
 
 **[CAND-D1] · The clear-day coat, and the face covering as the visible reading** (readers A, C2 and B, merged).
@@ -506,7 +508,7 @@ Body type *"is a statistical consequence of local economic character, not an ide
 
 ### P8-23 · Humor: one candidate locus, one limit *[CORR + D]* · both bodies
 - *The one admitted comic locus is a Phase 6 candidate:* the first sunset, *"gently comic"*. **It stays a candidate.**
-- *The limit [D].* Under the compact a misjudged crossing is *"carried as the person's own"* (`P4` L144 [CORR]). So a joke about misreading the wind lands on someone the compact already blames — blame in another register. An individual's sharp word *"scales to a smaller room and a shorter hearing"* (`P7` L485 [CORR]), never to a custom. **Mirny's humor, where it exists, must never turn on the injured.** Recorded as a structural limit, not a practice (RF-20).
+- *The limit [D].* Under the Social Contract a misjudged crossing is *"carried as the person's own"* (`P4` L144 [CORR]). So a joke about misreading the wind lands on someone the Social Contract already blames — blame in another register. An individual's sharp word *"scales to a smaller room and a shorter hearing"* (`P7` L485 [CORR]), never to a custom. **Mirny's humor, where it exists, must never turn on the injured.** Recorded as a structural limit, not a practice (RF-20).
 - *Reserved:* the comic image of the resident overdressed on a bright day, who is right (reader C2's CAND-H1, withdrawn by C2 in Round 3; RF-25).
 - **Otherwise null — absent from the admitted set.** No joke, comic form or butt of humor is written. The dark-humor research is not a ULM input.
 
@@ -562,10 +564,10 @@ Body type *"is a statistical consequence of local economic character, not an ide
 | the ridge | a hard drift ridge along the prevailing wind (`RES` L86–87, L125) | past (a record on the ground) |
 | the lull · the build | calm or weak wind, about 3 %; the katabatic's evening rise in summer and the transition seasons (`P3` P3-1; `RES` L37–38) | now |
 | snow by its height on the body | ankle · knee · face (`P3` L176; `RES` L25) | now |
-| three winds, told apart by their sky | *"Mirny has at least three kinds of wind — clear katabatic, cloudy cyclonic, and the worst, the two combined."* (`RES` L89) — **held as the compact's test, P8-28** | — |
+| three winds, told apart by their sky | *"Mirny has at least three kinds of wind — clear katabatic, cloudy cyclonic, and the worst, the two combined."* (`RES` L89) — **held as the Social Contract's test, P8-28** | — |
 | the reading · the call · the report (versus the order) | a person's own judgment (`P6` P6-1); the harbor watch's live call, revocable (`RES` L124; `P6` CAND-OBS-2); a *now* given to another, not a command (`P7` P7-15) | now |
-| the record · a verified entry | the inherited journals, logs and manuals (`CON` C-4); the route-book marker (`RES` L109) — it would change the compact | past · — |
-| *weather* | the slot the compact books the medium's failures into (`P6` P6-17) | after |
+| the record · a verified entry | the inherited journals, logs and manuals (`CON` C-4); the route-book marker (`RES` L109) — it would change the Social Contract | past · — |
+| *weather* | the slot the Social Contract books the medium's failures into (`P6` P6-17) | after |
 | the post · the handoff · the claim · the shortage | a function held in turns and its passing; the quarry's two claims; a shortfall nobody traced (`P4` P4-4; `P7` P7-16, P7-17) | now · after |
 | the window · the refreeze · the wind's offshore edge | the open-water season and its closing; where the katabatic dies, 8–15 km out (`RES` L60–67, L65; `P5` P5-20) | undatable · a place, not a name |
 | the through-road · the hub · the silence | Hwy 110; the relay; the subnet-wide outage (`P5` P5-18 b, P5-14; [ADM L184]) | a place · now |
@@ -586,9 +588,9 @@ Body type *"is a statistical consequence of local economic character, not an ide
   - **(d)** Usable all year.
   - **(e)** Nobody taught it: the body is the gauge both bodies share.
   - **(f)** The same human-looking shape, so the same report means the same thing from either body.
-- *Inside the compact:* a report carries the picture; the crossing stays the hearer's own. **Published and answered for, it would become `P7`'s CAND-2 and change the compact.** **Not adopted.**
+- *Inside the Social Contract:* a report carries the picture; the crossing stays the hearer's own. **Published and answered for, it would become `P7`'s CAND-2 and change the Social Contract.** **Not adopted.**
 
-**[CAND-L2] · *Weather*, widened: the compact's word for the medium's failures** (reader B).
+**[CAND-L2] · *Weather*, widened: the Social Contract's word for the medium's failures** (reader B).
 - `P6` P6-17 [CORR]: an outage goes to the weather slot (*the line did not fail; the weather did*), and *"a revoked call is weather"* (`P6` L209). At Mirny the ordinary word for weather would carry a second sense: what failed with no one to answer for it — a relay outage, a revoked call.
 - *A shortage nobody decided goes to weather **or silence*** (`P7` P7-16, corrected in Round 3).
 - *Fit-test:* **(a)–(d)** a word: untimed, no hands, no charge, unchanged in the lit weeks; **(e)** taught by use; **(f)** both bodies.
@@ -601,9 +603,9 @@ Body type *"is a statistical consequence of local economic character, not an ide
   - **(b)** Spoken.
   - **(c)** The same places cost a robot charge and a priced stillness.
   - **(d)** Every season.
-  - **(e)** Nobody taught it: it accumulates from crossings that went wrong, which the compact books to persons, so it forms only as each person's own learning passed on by speech.
+  - **(e)** Nobody taught it: it accumulates from crossings that went wrong, which the Social Contract books to persons, so it forms only as each person's own learning passed on by speech.
   - **(f)** Both bodies.
-- *Caution:* written into the record, it would become an amended record and change the compact. **Not adopted.**
+- *Caution:* written into the record, it would become an amended record and change the Social Contract. **Not adopted.**
 
 **[CAND-L4] · Time in two registers — the date said in light all year; the part of the day in the wind's phase in the lit weeks** (reader C2).
 - *Ground:* *"Day length is the one honest cue."* (`SPN` L106 [CORR]). In summer the wind *"peaks about 05–08 local and eases by 15–18"* (`RES` L38 [CORR]), in local time of the source; no in-world clock is set (`FRM` PA-8).
@@ -617,13 +619,13 @@ Body type *"is a statistical consequence of local economic character, not an ide
   - **(f)** Both bodies hear the build; whether one hears it sooner is not claimed.
 - **Not adopted.**
 
-### P8-28 · Naming the winds by their sky — held as the compact's vocabulary test, not offered as speech *[CORR + RW + D]* · **a split, named; developer question** · Act-sensitive
+### P8-28 · Naming the winds by their sky — held as the Social Contract's vocabulary test, not offered as speech *[CORR + RW + D]* · **a split, named; developer question** · Act-sensitive **[SUPERSEDED IN PART by `DR-56`/`DR-57`: re-derivation pending; see the amendment register]**
 - *Ground:* *"Mirny has at least three kinds of wind — clear katabatic, cloudy cyclonic, and the worst, the two combined."* (`RES` L89 [CORR]). The sky *"tells the truth in a language nobody at the founding had learned"* (`RES` L33 [CORR]). *[RW, mechanism only]:* in the stock forms, wind names traveled with their speakers and were re-attached to whatever local wind filled the same role — *"re-attachment, not transplant, is the form the operator takes here"* (`P2` L290 [CORR]).
 - *The trigger.* The category comes up empty — no wind names in any admitted file — and the capability reading predicted the gap (`SPN` §6 #5). **The Borrowed Form fires here at form level, [D].**
 - **The split (Round 3), kept on record:**
   - *Reader A:* telling a clear katabatic from a cyclonic wind in words means telling them by their sky, and the sky clearing is the sign the katabatic is coming. A sky-name is a reading made sayable — a step from *now* to *soon*. **Whether Mirny's speech names its winds by their sky is the vocabulary test of whether the cue is still unread.**
   - *Reader B:* a vocabulary that names the honest cues would let a reading be checked — **a small instrument.**
-  - *Reader C2:* `P6` P6-18's three instruments do not include a word; a name decides nothing, and the compact is untouched.
+  - *Reader C2:* `P6` P6-18's three instruments do not include a word; a name decides nothing, and the Social Contract is untouched.
 - **Merge (most conservative):** it is held as the **test**, not offered as speech or as a [CAND]. It fails fit-test (e) as an existing practice, since nobody taught the sky. **No wind name is written** (R-104; RF-19; Q-74).
 
 ### P8-29 · Sumerian: a vocational register, not sited at Mirny *[IND]* · robot body
@@ -685,7 +687,7 @@ Body type *"is a statistical consequence of local economic character, not an ide
 | `RU21` | the engine of variation, method | Mirny's placement |
 | `WTP`, `WIC` | national tool categories; an ONGOING item list | any Mirny item |
 | `RES` §6 | three researched stock repertoires, real-world | any Mirny founder's practice; the eleven other stocks |
-| `P3`–`P7` | their own populations (people outdoors; the compact's crossers; workforce units) | anyone beyond them |
+| `P3`–`P7` | their own populations (people outdoors; the Social Contract's crossers; workforce units) | anyone beyond them |
 
 | Finding | Population it describes | What the rest does or is |
 |---|---|---|
@@ -710,7 +712,7 @@ Body type *"is a statistical consequence of local economic character, not an ide
 2. **Standing follows the object, so the best reader holds none.** No one judges her down; her skill simply makes nothing. It surfaces when someone asks who is best at the wind and finds no title (P8-12; readers B and C2).
 3. **Upkeep leaves nothing to show.** It is a making whose product is the absence of failure (P8-11; reader A).
 4. **The coat marks the newcomer before anything happens.** Prudence made visible also identifies, in advance, the person who would be blamed if hurt (`P4` P4-7). It reads as good sense and is discoverable only by watching who is hurt (CAND-D1; reader C2).
-5. **The vocabulary that would check the reading.** A word for what one read is a small instrument the compact has no place for (P8-27, P8-28; reader B).
+5. **The vocabulary that would check the reading.** A word for what one read is a small instrument the Social Contract has no place for (P8-27, P8-28; reader B).
 6. **A carried culture that teaches nothing about the wind.** Whatever forms arrived in persons, none was a teacher of the one thing the site demands. Residents see their own culture, not a gap; the gap surfaces only when someone asks who teaches the wind (P8-12; reader C2). *Softened in Round 3: the repertoires' content is not admitted.*
 
 *Proportion:* each sits at the edge of a working place, and the general resident meets none of them on an ordinary day. In `00d`'s words: *"and this follows from that, though nobody meant it to"* (`00d` L135). **No villains:** nobody dresses, stores or speaks *against* anyone.
@@ -732,7 +734,7 @@ Body type *"is a statistical consequence of local economic character, not an ide
 | [CAND-F1], [CAND-F2] | a household that does not go out for food in a storm; a weather-held guest given food if human, a warm place to charge if robot | **done / entered** |
 | P8-7, [CAND-S1] | no silence outdoors to sing into; a lull heard as an event; sound made in the room while the wind and the signal are both shut | **heard** |
 | P8-9 | a glove off for a task at the threshold and back on; fine work done inside; coarse gloved work at an entry | **handled / seen** |
-| P8-10, P8-14 | loads leaving east and to the chamber maker; a record nobody here made, and the chance to write the first entry *(hook proposal; it would change the compact)* | **seen / handled / hooked** |
+| P8-10, P8-14 | loads leaving east and to the chamber maker; a record nobody here made, and the chance to write the first entry *(hook proposal; it would change the Social Contract)* | **seen / handled / hooked** |
 | P8-11 | a cleared entry buried again after the next storm, and cleared again | **seen / done** |
 | P8-12 | the best judge of the wind holds no title; the qualified trades do | **spoken / hooked** |
 | P8-13 | drift on every face of every structure, which nobody reads | **seen** |
@@ -826,7 +828,7 @@ Body type *"is a statistical consequence of local economic character, not an ide
 - **RF-15 · Children's outdoor play as the childhood channel to the wind** (`P2` P2-3). *Not adopted:* `P4` R-47.
 - **RF-16 · The mixed household as the one place the tacit reading crosses between bodies** (`P7` P7-36). *Not adopted:* no file says it does.
 - **RF-17 · The window's first food as an observance** (extending `P6` CAND-OBS-2). *Not adopted:* R-52, and it would mark the window for one body only.
-- **RF-18 · A taught craft of reading drift and ridges** (`P6` S4; `P7` CAND-7). *Not adopted:* it fails fit-test (e), and it would change the compact (`P6` P6-18).
+- **RF-18 · A taught craft of reading drift and ridges** (`P6` S4; `P7` CAND-7). *Not adopted:* it fails fit-test (e), and it would change the Social Contract (`P6` P6-18).
 - **RF-19 · Wind names already in use at Mirny.** *Not adopted:* no speech is admitted; held as P8-28's test.
 - **RF-20 · Humor at misreading the wind or at newcomers.** *Not adopted — refused:* it would be the blame reflex in comic form.
 - **RF-21 · Residents using the parent's colloquial name** (carried from `P5` RF-13). *Not adopted:* `DR-47` does not place its speakers.
@@ -960,7 +962,7 @@ Body type *"is a statistical consequence of local economic character, not an ide
 - tools first, and the bare hand an indoor hand;
 - made for others, kept but not made;
 - the reading makes no object;
-- the amended copy changes the compact;
+- the amended copy changes the Social Contract;
 - one outer register for both bodies by function, with the idiom open;
 - dressing at the door as the visible reading;
 - build is not identity;

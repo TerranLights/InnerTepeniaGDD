@@ -1,4 +1,4 @@
-# Mirny — Local Robot Culture Spec Sheet
+# Mirny — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #2 of the Local Robot Culture Methodology, 2026-08-10.** First city run under the revised (four-outcome
 triage, restructured Part III) process. Provisional — findings are proposals for developer review, not
@@ -307,3 +307,5 @@ established as sharing. Passes on that basis. Flagged rather than asserted with 
 explicit re-check once Casey's own pass is complete, specifically on whether any Casey-side finding ends up
 close enough to Mirny's general-competence-culture material to warrant revisiting either city's Cooperation/
 Morality (§2) finding.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Idelsk-Uralia as the establishing country, with Russia, Australia and the Sinian Federation (China) present as exile groups (`DR-46`, `DR-54`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

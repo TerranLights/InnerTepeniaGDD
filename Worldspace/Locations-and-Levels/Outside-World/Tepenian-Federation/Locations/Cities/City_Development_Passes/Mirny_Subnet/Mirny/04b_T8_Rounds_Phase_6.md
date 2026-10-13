@@ -55,7 +55,7 @@ EXIT=0
 - **The calm:** reserved, RF-15.
 - **The treaty day:** relation plus RF-12 (crossed concessions, so the conservative reading).
 - **Not mourned properly:** a null; C's cases go to RF-11.
-- **Borrowed Form:** fires at §D as the compact's dissent, as [D] not adopted; in §E it is resemblance only.
+- **Borrowed Form:** fires at §D as the Social Contract's dissent, as [D] not adopted; in §E it is resemblance only.
 - **The refusal:** a union of all three readers' mechanisms.
 - **L150:** narrowed to `CON` L387 and `NNS` L21.
 
@@ -258,7 +258,7 @@ NOT FOUND in corpus: 228
   [04_Phase_06_Meaning.md:45]  [CELL]  the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:57]           the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:57]           ( spn l103 corr ). the person answers for crossings decided on cues that are honest and unread ( res l30 corr ), so a loss is
-  [04_Phase_06_Meaning.md:58]           a; it names the compact's blind side, kept as p6-4
+  [04_Phase_06_Meaning.md:58]           a; it names the Social Contract's blind side, kept as p6-4
   [04_Phase_06_Meaning.md:65]           admitted-demoted; dr-28 : no meaning may be built on it ) l176 owed (an edit-history note, demoted) l142 must (inside the excluded
   [04_Phase_06_Meaning.md:69]           the record is the only witness, and it can't name what it left out
   [04_Phase_06_Meaning.md:69]           so mirny trusts what is written and what is relayed
@@ -284,7 +284,7 @@ NOT FOUND in corpus: 228
   [04_Phase_06_Meaning.md:104]           but a long-lived robot is a person to ask, not an archive
   [04_Phase_06_Meaning.md:106]           nobody who lives at mirny chose it; the one party the files name as founding it stands outside the country
   [04_Phase_06_Meaning.md:106]           ( p2 l258). the reading of the wind is one thing at mirny that nobody handed anyone
-  [04_Phase_06_Meaning.md:106]           ( p4 l174) - and the compact's private clause protects it (b
+  [04_Phase_06_Meaning.md:106]           ( p4 l174) - and the Social Contract's private clause protects it (b
   [04_Phase_06_Meaning.md:106]           in round 3). act 1: living human founders and founding robots are both witnesses; act 2: the first-person founding is a robot's
   [04_Phase_06_Meaning.md:110]           mirny is the one place in the subnet that knows what has happened, and it cannot tell anyone
   [04_Phase_06_Meaning.md:114]           the chambers made at sinheung are built from material mirny near-exclusively supplies

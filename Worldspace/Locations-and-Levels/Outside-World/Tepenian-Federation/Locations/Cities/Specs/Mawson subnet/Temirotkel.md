@@ -150,7 +150,7 @@ Temirötkel sits on the mainland Sôya Coast of Lützow-Holm Bay, with **East On
 
 At longitude 39°35'E, Temirötkel is the westernmost city in the Mawson subnet, positioned close to the geographic boundary with the Halley subnet cities in eastern Queen Maud Land. The connection between Temirötkel and the nearest Halley subnet city (Utstein, at 23°21'E — corrected 2026-07-03 from "Princess Elizabeth," matching the established Belgian spelling used throughout the rest of the repo) is the most geographic-adjacent inter-subnet proximity in Tepenia, formalized as the Hwy 7-ext connection.
 
-The "Sayowa" name evolved from the original Japanese station name Syowa (romanization of 昭和, Shōwa) — the Japanese imperial era spanning 1926–1989, a period of extraordinary transformation in Japanese history. In exile, the name carries that history forward in a Tepenian phonetic form.
+The former name "Sayowa" came from the real station's name Syowa (昭和, Shōwa); that derivation no longer applies (`DR-30`, `DR-37`). The city's name is now Temirötkel, "Iron Crossing", in Kazakh.
 
 ### Annual Climate
 
@@ -208,9 +208,9 @@ The "Sayowa" name evolved from the original Japanese station name Syowa (romaniz
 
 **Settled:** Post-Falkland Treaty, on Syowa Station infrastructure. JARE operated at this location from 1957. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. JARE's own scientific programs, and any institutional memory of them, did not survive that chain of handoffs — but preserved journals, logs, and orientation manuals did, giving the exiles a real documentary starting point. Learning from a written record isn't the same as being taught by a living institution.)* The exile community inherited the extensive, genuinely functional physical infrastructure left behind, and built their own research culture on it independently.
 
-**Founding population:** Japanese exiles. **Corrected 2026-07-06:** this file previously claimed Temirötkel is "the primary Japanese Tepenian presence" — that's no longer accurate (and may never have been, once the numbers were actually run). Temirötkel's population re-derivation this session confirmed Japan diluted to just 2.71%, buried near the bottom of Significant tier, well behind China's 17.39% Primary. Shirayuki — not Temirötkel — is Tepenia's genuine Japan-Primary city (36.27%, see `Specs/Shirayuki.md`), the direct result of its diplomatically-protected Jeju-do allocation. **Surfaced the same session:** this contrast is plausibly not a coincidence — Japan's diplomats at Jeju-do may well have anticipated exactly this outcome for Temirötkel (subject to the same regional Chinese demographic pressure visible everywhere else in the area) and pushed for Shirayuki specifically as a protected backstop. If so, the bet paid off: Temirötkel diluted as feared, Shirayuki held as intended.
+**Founding population:** First established by the CIN or by Kazakhstan (which of the two is open), then industrialized primarily by Kazakh industrialists (`DR-30`). The earlier Japanese-founding claim, and the 2026-07-06 note built on it, are superseded; the census figures cited there (Japan 2.71 %, China 17.39 %) are composition, not founding, and are unchanged. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
-The Sayowa name evolved phonetically from the station's Shōwa designation — the imperial era name the Japanese Antarctic program had used since 1957, now settled into a proper Tepenian noun.
+The former name Sayowa evolved from the station's Shōwa designation; that derivation no longer applies (`DR-30`, `DR-37`). The city's name is Temirötkel, "Iron Crossing".
 
 ---
 
@@ -238,13 +238,13 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ---
 
 ## Notable Figures
-- **Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, proposed `Sayowa_Full_Extrapolation.md` Section V)* — a present-day keeper of Sayowa's Shōwa-era naming history and the city's own research tradition.
+- **Institutional Historian Haruto Kowalczyk-Nakamura** *(placeholder, proposed `Sayowa_Full_Extrapolation.md` Section V)* — a present-day keeper of Sayowa's Shōwa-era naming history and the city's own research tradition. *(Flag 2026-10-13: tied to the former name; withdrawn as written, revisit item.)*
 - **Junction Coordinator Wei-Lin Andersen** *(placeholder, same section)* — a present-day figure overseeing the practical work of keeping the Temirötkel Junction functional across multiple parties' overlapping dependency on it.
 
 ---
 
 ## Connection to Concordia
-Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (36.27% Japan-Primary), not Temirötkel's (Japan diluted to 2.71%). Temirötkel retains its own genuine Japanese founding heritage, but any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Temirötkel's proximity to Hwy 37's junction (just off Hwy 7-ext) gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Ariun Nuur — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
+Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (36.27% Japan-Primary), not Temirötkel's (Japan diluted to 2.71%). Any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Temirötkel's proximity to Hwy 37's junction (just off Hwy 7-ext) gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Ariun Nuur — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
 
 ---
 
@@ -262,9 +262,9 @@ Temirötkel's legacy is dual: its own methodical, persistent scientific culture 
 ---
 
 ## Open Questions
-- **The Temirötkel name's meaning in exile** — generations removed from the specific Japanese imperial era the name references, what does "Temirötkel" mean to current residents?
+- **The Temirötkel name's meaning to residents** — what does "Iron Crossing" mean to current residents?
 - **The inter-subnet proximity** — Temirötkel's geographic closeness to the Halley subnet's eastern cities; was there any pre-war relationship between Temirötkel and Utstein or similar?
 - **The junction's post-war control** — who controls or maintains the Hwy 37/Hwy 7-ext junction today, and does this connect to any larger DLC 4 or DLC 5 contested-infrastructure storyline?
 - **Island connection to mainland** — causeway, bridge, or maritime only?
-- **Demonym** — **Sayowan** *(established 2026-07-04)*
+- **Demonym** — TBD *("Sayowan", established 2026-07-04, belonged to the former name)*
 - **Notable figures** — TBD

@@ -994,3 +994,201 @@ S71 `obliquity of the ecliptic rate of decrease arcseconds per century current v
   have — Mirny's winter daily cycle is **unknown**.
 - **Reader A's "open water about a month"** and **"1–3 minutes of warning per km"** were withdrawn by reader A.
 - **Reader B's note that the sandbox blocks network access** was wrong: curl works; the AARI site timed out.
+
+
+---
+
+# Phase 10 (Catalog) — appended 2026-10-11, from the T8 Round 1 readers (verbatim, append-only; entries above left as written)
+
+*Three readers ran web research inside Phase 10. Each log is transcribed exactly as the reader wrote it, from the archived reader files `City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase10_reader{A,B,C}.md`. Search numbers (S, F, W) are each reader's own; the phase file cites them as `RA`/`RB`/`RC` + number.*
+
+## Reader A (Phase 10)
+
+
+*Format per `Cities/Research_Logs/README.md`: exact strings verbatim; outcome; where a dead end died. Session cap: logged in `RL` as reached for an earlier session; this session's tools answered (no refusal at S1), so research proceeded.*
+
+### Searches and fetches (in order run)
+
+| # | Exact string / URL | Pick (tier) | Outcome |
+|---|---|---|---|
+| S1 | `charnockite gneiss crushed aggregate road base quality frost resistance` | OT-12 (A) stone economy — unspent | Returns: IDEAS/RePEc abstract (Nigeria, eight basement rocks), Earthlearningidea roadstones, AGH/EGU papers. Summary line attributed AIV 17.3 / ACV 25.2 to charnockite specifically — NOT verified (see F1). |
+| F1 | https://ideas.repec.org/a/aoj/areaes/v6y2019i1p28-37id1034.html | same | Abstract: eight rocks incl. charnockite, granite gneiss, migmatite, quartz schist; AIV 11.2–17.3 %, ACV 18.4–25.2 %, water absorption 0.27–0.82 %, porosity 0.18–0.46 %; "categorized as strong aggregate in terms of quality for road pavement". **The range is for the set, not per rock — the search summary's per-rock attribution is a divergence from source and is discarded.** |
+| S2 | `rime ice accretion radio mast antenna Antarctic coastal station guy wires failure` | RL B open thread 7 (rime icing on masts) — unspent | Returns: Pinetree Line (Resolution Island) weather-damage page; Campbell Sci FAQ (re-tension guys twice per ice season); TV Technology ice loading; no Antarctic-specific failure record (died at the sources for "Antarctic"). |
+| F2 | https://candemuseum.org/sites/default/files/archives/Pinetreeline/misc/weather/mn8.html | same | Verbatim: "both doublet antennas were broken due to high winds and icing conditions"; "one of the two obsolete 300-foot antenna towers collapsed because of ice"; "a severe ice and wind storm disabled ... all guy wires for VHF and UHF antennae"; "Rigger assistance was requested to repair this damage."; "riggers arrived from the Marconi depot to repair antennas damaged due to ice and high winds." → mechanism: exposed radio plant on a cold windy coast fails in the combined ice-and-wind event, and repair is a climbing trade that an isolated site may have to request from elsewhere. |
+| S3 | `fast ice cargo unloading Antarctic station sledge convoy ice thickness criteria suspended katabatic` | RL B open thread 9 (ice-edge unloading suspension criteria) — unspent | Returns: Wikipedia "Ice pier"; AAD station news and voyage updates; DTIC report. **Suspension criteria not found — died at the sources** (no return states a wind or ice threshold for stopping work). Note: the real station named in these returns is a GPS-only real-world comparable for mechanism; it is not the in-world city of the same name and nothing is read of that city. |
+| F3 | https://www.antarctica.gov.au/news/2025/voyage-1-update-resupplying-davis/ | same | Verbatim: ice "up to 1.6 m thick"; "A road and a pedestrian walkway were marked in the ice and we began resupply."; trucks from crane to station; workers "walk the fuel line, in shifts". Cargo tonnages and food counts present — **withheld (food figure reserved; quantities not mechanism)**. No weather stop recorded in this report. |
+| S4 | `midnight sun sleep problems residents blackout curtains Arctic town summer insomnia study` | RL B open thread 12 / Step 3 OT (human effects of nightless weeks) — tool-dead last session, re-run | Returns: Arctic Today (paywalled), mattress-retailer surveys (Bensons, Saatva, Sleepopolis — **rejected: commercial surveys, no method**), ADN tips, a Polar Record open-access listing. |
+| F4 | https://www.arctictoday.com/?p=21040 | same | **Dead end — died at the source: paywall** ("available to Passport holders only"). Nothing taken. |
+| S5 | `qualitative study Arctic residents summer constant daylight "wired" sleep Tromsø OR Svalbard OR Alaska` | same, second angle | Returns: Polar Record qualitative study (28 adults; summer "shallow, fractured sleep" and "wired" restlessness — summary only, not fetched); ScienceNorway HUNT report; PMC Svalbard/shift-work papers; DTIC Alaska camps. |
+| F5 | https://sciencenorway.no/forskningno-norway-sleep/sleeping-as-well-in-the-summer-as-the-winter/1389081 | same | Verbatim: "Nearly 50,000 persons who live in Nord-Trøndelag County"; "Researchers found no monthly variations in reported insomnia or in the amount of time people spent in bed."; "we use curtains and blinds to shut out some of the daylight during the summer." → mechanism: a lit season leaves the population's rest intact where households make their own dark; the dark is a household provision, not the sky's. |
+| S6 | `blizzard hand line rope between huts Antarctic station whiteout walking practice guide line` | new angle on RL B's Punta Arenas ropes (OT-19 A) — "go back to picks logged as covered" | Returns: AAD station weekly news (two real stations whose names are also in-world cities — GPS-only comparables, mechanism only, no in-world city read), Salon, blogs. |
+| F6 | https://www.antarctica.gov.au/news/stations/mawson/2012/this-week-at-mawson-23-march-2012/ | same | Verbatim: "ropes under tension at about waist height ("blizz lines") are put up along the usual travel paths"; "fixed at each end to buildings, or to used 200 litre fuel drums, filled with either concrete or very heavy rocks"; "before winter starts in earnest, all these lines need to be inspected for wear, tensioned, and some ropes replaced and reconfigured."; "Some ropes need to allow vehicle passage and are made quickly detachable"; "Each traveler calls in by radio on leaving one building and on arriving at the destination". A named individual in the report is **not carried** (RV-3 spirit; not a Mirny person). |
+| S7 | `piteraq warning Tasiilaq how much warning hours residents secure houses signs before storm` | RL A 10.10 unspent pick "piteraq (lead time, alarm rules)" | Returns: Wikipedia, ESKP, LEO Network, High North News (evacuation), Copernicus slides. Summary: DMI special warnings since 1970; alarm → seek shelter, stay home several days. |
+| F7 | https://www.eskp.de/en/natural-hazards/piteraqs-downslope-wind-storms-in-southeast-greenland/ | same | Verbatim: "when the alarm rings in Tasiilaq ... its approx. 2,100 inhabitants know, that they better seek shelter quickly"; "prepared to stay home for several days"; "everything unlashed is prone to fly around". **Lead time: not stated — died at the source.** |
+| F8 | https://en.wikipedia.org/wiki/Piteraq | same, second source | Verbatim: "Since the beginning of 1970, special piteraq warnings have been issued by the Danish Meteorological Institute."; damage "broken windows and removed shingles and siding". **Lead time: not stated — died at the source (second source).** The pick remains open on lead time after two angles and three sources. |
+| S9 | `поморы названия ветров по направлениям обедник шелоник побережник` | RL A OT-7 (Pomor wind-calling) — unspent | Returns: Wikisource (Dahl's dictionary, "Ветер"), Kunstkamera PDF, proza.ru essays (rejected: unsourced essays), Baikal winds. |
+| F9 | https://ru.wikisource.org/wiki/%D0%A2%D0%A1%D0%942/%D0%92%D0%B5%D1%82%D0%B5%D1%80 | same | Verbatim (Dahl): "полу́ночник, заморо́зник или рекостав, СВ; обе́дник, ЮВ; глубни́к, голоме́нник, в Коле побере́жник. СЗ; шало́ник в Мезени па́ужник, ЮЗ." → mechanism: one quarter of the compass carries several names, and the name in use **differs by locality on the same sea** (Kola vs Mezen). Etymological glosses of these words are **not** taken (not stated by the source; would be recall). |
+| S10 | `aggregate crushing plant winter operation frozen stockpiles cold climate quarry seasonal shutdown Arctic` | OT-12 (A) stone economy, second angle; RL C OT-7 adjacent | Returns: Rock to Road, Rubble Master, Designing Buildings, E&MJ (Metso freeze-proofed plants delivered to Antarctica, −40 °C — summary only, not fetched, not taken). |
+| F10 | https://www.rubblemaster.com/en/blog/winter-crushing-is-no-joke | same | Verbatim: "Wet, sticky material freezes overnight, causing start-up problems."; "Fines in the pre-screen can turn into solid ice blocks"; "Let your machine idle so fluids reach operating temperature."; "many businesses no longer shut down for winter—they keep producing material for projects or stockpiling for spring". Vendor blog: **mechanism only**. |
+| S11 | `Arctic sea smoke offshore wind over open water polynya visible from shore frost smoke conditions` | RL C OT-12 (sea smoke at the window) — unspent | Returns: Wikipedia, maritimepage (rejected for the 5–15 kn / 20 kn thresholds: unsourced), Maine Sea Grant, NASA Earth Observatory. |
+| F11 | https://en.wikipedia.org/wiki/Sea_smoke | same | Verbatim: "It forms when a light wind of very cold air mixes with a shallow layer of saturated warm air immediately above the warmer water."; "common in the Arctic and Antarctic"; "lookouts on ships can usually see over it". |
+| S12 | `Inuit uqalurait sastrugi wayfinding taught to young hunters Igloolik snowdrift navigation prevailing wind` | RL A OT-8 (Igloolik) — unspent | Returns: terrain.org, Current Anthropology TOC, Isuma, NAC Anijaarniq, 49th Shelf. Summary: years of tutoring; passed on orally. **Teaching claims not taken** (summary only; fetch of terrain.org failed). |
+| F12a | https://www.terrain.org/2019/nonfiction/arctic-wayfinders/ | same | **Dead end — died at the source: HTTP 403.** |
+| F12 | https://they-have-to-hear-us.isuma.tv/inuit-knowledge-and-climate-change/uqalurait-snow-speaking | same | Verbatim: "the tip of the uqalurait have pointed northwards, and acted almost like a compass needle"; "the direction of uqalurait has shifted, and are now being formed by the south wind"; travelers now approach them "at different angles" (fetch-tool wording, not a verbatim quote). |
+| S13 | `Высокогорский рудник Нижний Тагил история гора Высокая карьер город вокруг рудника` | RL C OT-7 (Nizhny Tagil, Vysokaya Gora) — unspent | Returns: teletype blog, ruwiki plant pages, tourist pages, Kommersant. Summary claimed a mine within the town, worked for ~3 centuries and exhausted — **unverified**. |
+| F13 | https://www.kommersant.ru/doc/1946255 | same | **Dead end — died at the source:** the page names the mining combine only as an enterprise. **Killed finding:** nothing taken. |
+
+### Sources used and rejected
+- **Used (mechanism only):** RePEc/IDEAS abstract (F1) · Pinetree Line archive (F2) · AAD voyage report (F3) · ScienceNorway/HUNT (F5) · AAD station news (F6) · ESKP, Wikipedia Piteraq (F7–F8) · Wikisource Dahl (F9) · Rubble Master (F10) · Wikipedia Sea smoke (F11) · Isuma (F12).
+- **Rejected:** mattress-retailer sleep surveys (no method) · maritimepage wind thresholds (unsourced) · proza.ru essays (unsourced) · the E&MJ/Metso summary (not fetched) · the search-summary per-rock values (S1) · the Nizhny Tagil summary (S13, unverified).
+
+### Fact → finding
+See body §11: twelve rows, including one ornament (F7–F8), one confirmation (F9) and one killed finding (F13).
+
+### Withheld versus omitted
+- **Withheld (true, possibly useful later, not used now):** cargo tonnages and food counts (F3; food figure reserved) · the Metso Antarctic crushing-plant summary (S10; unverified) · the "wired" summer-sleep qualitative study (S5; summary only) · the lashing implication of F7.
+- **Omitted (not relevant):** Baikal winds, mattress tips, Nizhny Tagil's later industrial history.
+
+### Divergences from source
+Every [RW] item is a real place's practice used for its mechanism. None is asserted of Mirny. Where this phase
+writes a Mirny consequence (C2-13, C2-15, C3-5), the consequence is tagged [D] and comes from Mirny's own files.
+
+### Open threads (unspent picks, for the next session)
+OT-1 AARI station description · OT-5 hourly wind · OT-6 Norilsk aktirovka chart / Storm HQ protocols · genglubu
+teaching pedagogy · SLSA flag-setting training · OT-14 / B-17 the eleven unresearched stocks · piteraq lead time
+(two sources silent; try DMI) · ice-work suspension criteria (try AAD shipping operations manuals) · Igloolik
+teaching (Current Anthropology 2005, not fetched) · the Polar Record qualitative sleep study (open access, not
+fetched) · Vysokaya Gora (try ruwiki) · Yakutsk residents · Chongqing river port · DEM horizon south · Haswell
+bearings · katabatic onset lead time · snow-age versus visibility · glacier velocity · deficit-9 grid.
+
+## Reader B (Phase 10)
+
+
+*Format per `Cities/Research_Logs/README.md`. Phase 10, reader B, 2026-10-11. The search tool did not refuse (Step 3's session cap did not recur). Search strings verbatim.*
+
+**Searches and fetches**
+| # | Exact string / URL | Returned | Used? |
+|---|---|---|---|
+| S1 | `fast ice edge cargo offloading Antarctic station suspended wind ice thickness criteria sledge convoy` | AAD voyage reports; an ice-pier page; a 1975 report | → W1 |
+| W1 | https://www.antarctica.gov.au/antarctic-operations/travel-and-logistics/shipping-and-air-schedules/1920/vmi/20352/ | Casey, 7 Dec 2019: ice tested, approach paths and work surfaces flagged; tracked vehicles and sleds | **F1** |
+| S2 | `resupply sitrep "cargo operations" suspended winds knots Davis OR Mawson OR Casey station barge` | ten AAD voyage reports | → W2 |
+| W2 | https://www.antarctica.gov.au/antarctic-operations/travel-and-logistics/shipping-and-air-schedules/1213/v3/19167/ | Mawson, 10 Feb 2013: katabatic morning delay, expected to abate late morning | **F2** |
+| S3 | `Antarctic station blizzard hand lines ropes between buildings whiteout "blizzard line" Mawson OR Dumont` | AAD station news; a blog | → W3 |
+| W3 | https://www.antarctica.gov.au/news/stations/mawson/2012/this-week-at-mawson-23-march-2012/ | waist-height hawser lines; anchors; detachable sections; radio check-in | **F3** |
+| S4 | `McMurdo "Condition 1" "Condition 2" "Condition 3" weather wind visibility travel restrictions definitions` | blogs and a university page | → W4 |
+| W4 | https://ptolemy.phas.ubc.ca/ice/weather.html | three-level posted condition; thresholds; how posted | **F4** (secondary, undated) |
+| S5 | `поморская рукописная лоция хранилась в семье переписывали дополняли кормщик` | Cyclowiki; travel and library pages | → W5 |
+| W5 | https://cyclowiki.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%BE%D1%86%D0%B8%D0%B8 | notebooks of 20–60 leaves; contents | **F5** (tertiary) |
+| S6 | `Высокогорский карьер Нижний Тагил смотровая площадка жители город рядом с карьером взрывы расписание` | tourism and industry pages | **dead end — died at the sources** |
+| S7 | `midnight sun summer Antarctic station personnel sleep quality melatonin study continuous daylight` | PMC article; press summaries | → W6 |
+| W6 | https://sleepreviewmag.com/curated/synched-work-schedules-during-antarctic-summer-may-affect-release-patterns-of-sleep-and-wake-hormones/ | melatonin delayed; cortisol held by common schedule | **F7** (secondary) |
+| S8 | `rime ice accretion antenna mast Antarctic coastal station damage de-icing maintenance summer` | patents; AAD station news; a blog | → W7–W9 |
+| W7 | https://www.antarctica.gov.au/news/stations/davis/2024/30-august/ | no rime material | **rejected (empty for the question)** |
+| W8 | https://www.antarctica.gov.au/news/stations/casey/2018/this-week-at-casey-23-february-2018 | mast removals; no rime | **rejected (empty for the question)** |
+| W9 | https://www.randominformation.co.uk/writings/?p=67 | rime in June; collapse in extreme cases | **F8** (low tier) |
+| S9 | `surf lifesaving patrol flags how lifeguards decide where to place red and yellow flags each day rip assessment training` | a hazards paper (another flag system); the agency site | → W10 |
+| W10 | https://beachsafe.org.au/surf-safety/flags-and-signs | an empty app shell | **dead end — died at the source** |
+
+**Sources used:** the AAD voyage reports and station news (agency primary) · the university page (secondary; used for a mechanism only) · Cyclowiki (tertiary; became nothing) · the Sleep Review summary (secondary) · the blog (low tier; recorded as a divergence only).
+**Sources rejected:** every search-engine summary as a source (used only to find pages; its unverified knot thresholds are not used) · the hazards paper (a different flag system) · W7, W8 (nothing on the question).
+**Fact → finding:** the table in "Research findings" above (F1–F9), including the facts that became nothing (F5, F6, F9).
+**Withheld versus omitted:** *Withheld* — the Mawson wind turbines *"thriving"* on katabatics (W2): true of a real station, and a turbine at Mirny would be invented infrastructure before any admitted power supplier · the radio check-in (W3; RF-3). *Omitted* — the posted condition's wind-chill thresholds (irrelevant to a wind-defined coast) · the Pomor contents list beyond its form.
+**Divergences from source:** F8 — the source places rime in winter, while `P3` P3-5 (via `RES` §4) placed it in the warm months; both may hold; nothing rests on either. F4 — a real public call works on the present, which refines `P7` P7-15's ground.
+**Open threads (unspent picks, carried):** the primary text of the posted-condition rules (the program's own field manual) · the 2017 study's primary paper · the agency's own patrol-flag training manual · offload suspension thresholds at a source · Norilsk's storm-headquarters protocols (`LOG` OT-6) · the Hainan route-book pedagogy · Igloolik (OT-8) · Wolfsburg shift rhythm · Yakutsk daily life · the eleven unresearched stocks (R-96) · the AARI station description · hourly wind by month · katabatic onset speed · inland rock south of the coast · the offshore colony's persistence.
+
+---
+
+## Reader C (Phase 10)
+
+
+*(Format per `Cities/Research_Logs/README.md`: session header · search strings verbatim · fetches · sources used/rejected · fact → finding · withheld vs omitted · divergences · dead ends · open threads. Logged AS RUN.)*
+
+### R.1 Session header
+- **Date / pass:** 2026-10-11 · Mirny · ULM Step 4, Phase 10 (Catalog) · warm · T8 Round 1 reader C.
+- **Point in procedure:** after reading all 33 list entries; before writing the body.
+- **Targets (lower tiers first, from the log's unspent picks and open threads — entry 13 L286-291, L676-709):** (1) steam fog / sea smoke when the katabatic crosses open water in the window (Step 3 reader C OT-12, unsearched); (2) operators' ice-edge offload suspension criteria (reader B 8.10 #9); (3) Nizhny Tagil's Vysokaya Gora, an ore mountain mined into a pit inside a city (reader C OT-7, unsearched); (4) guide lines between buildings in blizzards at polar stations — a pick logged as covered (Punta Arenas/Trieste), re-entered from a new angle (LAW 0-R); (5) elevated vantage and visibility in blowing snow (reader B 8.10 #16); (6) midnight-sun human effects (reader B 8.10 #12, tool-dead in Step 3); (7) charnockite/gneiss as dimension stone or aggregate (reader A OT-12).
+- **Rule:** mechanism only, tagged [RW] (DR-15); a real fact is a source, never a Mirny fact; no real-station history at Mirny's coordinates (DR-28 D3; GPS law).
+
+### R.2 Search strings, verbatim, in order (outcome logged with each)
+| # | String (verbatim) | Pick / angle | Outcome |
+|--:|---|---|---|
+| S1 | `sea smoke steam fog offshore katabatic wind over open water polynya Antarctic coast visibility` | pick 1 (Step 3 C OT-12), mechanism | **USED.** Summary-level: polynyas on katabatic coasts are maintained by the offshore wind (Coats Land, Ellsworth Land studies, not this coast); "sea smoke" = fog when very cold air moves over warmer water; common in Arctic/Antarctic. Led to F1. Polynya studies of other coasts: mechanism only |
+
+| # | Fetch | Outcome |
+|--:|---|---|
+| F1 | https://en.wikipedia.org/wiki/Sea_smoke | **OK.** Verbatim: *"It forms when a light wind of very cold air mixes with a shallow layer of saturated warm air immediately above the warmer water."* · *"It is usually not very high and lookouts on ships can usually see over it (but small boats may have very poor visibility) because the fog is confined to the layer of warm air above the sea."* · *"However, sea smoke columns 20–30 m (70–100 ft) high have been observed."* · *"it is uncommon in temperate climates, but is common in the Arctic and Antarctic."* → **CHANGED a finding:** a fourth visibility condition at the harbor, and the one that needs a *lull* (light wind) over open water — so the harbor's rare calm is not automatically its clear day; a vantage above the layer sees over it. Conditional: whether open water at Mirny meets a light cold wind is not shown (R-31's winter cycle unknown; window Feb–Apr) |
+| S2 | `ship cargo offload onto fast ice edge Antarctic resupply suspended high wind sledge convoy across sea ice to station operating limits` | pick 2 (B 8.10 #9), general polar practice (DR-28 D3: practice anywhere is an ordinary comparable; this coast's own ops history is NOT an input) | **USED, summary-level.** A floating causeway or an ice pier as the offload surface at a US station; "strong winds prevented cargo operations"; weather deteriorating late in the season. No numeric suspension criterion returned (dead at the query for a *threshold*) → F2 |
+| F2 | https://www.antarctica.gov.au/antarctic-operations/travel-and-logistics/shipping-and-air-schedules/1718/V3/20125 (an Australian Antarctic Division voyage update, 2017-18) | **OK.** Verbatim: *"The higher winds had cleared the remaining ice floes and 'brash ice' from the area"* · *"Less than 10 minutes after the IRBs had departed the ship, the wind spiked rapidly from the 3 knot average towards 28 knots"* · *"Each evening, the crew aboard the Aurora will spend between 45 minutes to an hour using the forward and aft cranes to lift and secure the watercraft"* · *"...we wait out much stronger wind conditions which will arrive early morning and remain over the station throughout the day, precluding any further cargo operations"*. → **CHANGED a finding [RW, mechanism only]:** offload by small watercraft is a *daily setting-out and taking-in* of boats, and a calm can turn to a gale inside ten minutes, so the offload's working unit is the hour, not the day; and the same wind that shuts the work also clears the floes that would block it. The report concerns another real coast; nothing here is a Mirny fact or a Mirny station history |
+| S3 | `Vysokaya Gora Nizhny Tagil open pit inside city history residents quarry edge neighborhood` | pick 3 (C OT-7), English angle (not a near-duplicate of A's S52/S53, which asked about blasting schedules) | **DIED AT THE SOURCES.** Only founding history (iron-ore quarry 1696; the works at the mountain's foot); nothing on how residents live beside the pit. Ornament; not used |
+| S4 | `Высокогорский карьер Нижний Тагил смотровая площадка провал жилые дома рядом с карьером` | pick 3, Russian angle (an observation platform; houses beside the pit) | **DIED AT THE QUERY.** The engine returned an unrelated residential gas-explosion story and a company profile. Not used. Pick 3 stays **unspent** (open thread) |
+| S5 | `blizzard hand line guide rope strung between buildings polar station whiteout walk holding rope base rules` | pick 4 — a pick logged as covered (Punta Arenas ropes, B #57; Trieste ropes, C S42), re-entered from a new angle: ropes at **polar stations**, as a physical thing and its rules | **USED.** Summary: "blizz lines" = ropes between buildings, used walking in blizzards; a blizzard defined by wind ≥34 kn, below zero, visibility <100 m, ≥1 h (summary-level; source not fetched for that line) → F3 |
+| F3 | https://www.antarctica.gov.au/news/stations/mawson/2012/this-week-at-mawson-23-march-2012/ (an Australian Antarctic Division station newsletter) | **OK.** Verbatim: *"ropes under tension at about waist height ("blizz lines") are put up along the usual travel paths"* · *"We use stiff hawser-type ropes which give excellent hand grip, not the smooth stretchy variety used in climbing."* · *"They are fixed at each end to buildings, or to used 200 litre fuel drums, filled with either concrete or very heavy rocks."* · *"Some ropes need to allow vehicle passage and are made quickly detachable with carabiners or quick links, so they can be easily dropped to the ground then reconnected."* · *"Each traveler calls in by radio on leaving one building and on arriving at the destination, as well as giving a likely time they will be there."* → **CHANGED a finding [RW, mechanism only]:** the one in-storm channel that does not need eyes is **touch** — a line between doors — and the practice that goes with it is a **call on leaving and on arriving**, i.e., a witness to a crossing. At Mirny neither exists in any admitted file; both would give a crossing a second party, which `P6` P6-18 says changes the Social Contract. **Not a Mirny fact; offered only as a candidate thing (CAND-T2) and a reserved finding.** Divergence: there, a small station's handful of paths; at Mirny a 13–16 km-wide city (`P4` §D) where "the usual travel paths" are unwritten (`DR-10`) |
+
+
+| S6 | `ground blizzard drifting snow driver seated higher sees over snow layer visibility eye height vehicle cab height blowing snow study` | pick 5 (B 8.10 #16, elevated vantage) — a new angle (field studies on roads, not Tabler's figure) | **USED, summary-level** (fetch below): visibility improves with height in blowing snow; a summary attributes "at 10 m wind 12–14 m/s, visibility at 2.4 m >300 m but at 1.2 m <300 m" to research on roads (Japanese road-weather literature) |
+| F4 | https://link.springer.com/article/10.1007/s13177-022-00338-w | **TOOL-DEATH** (303 to an authorization page). Not used |
+| F5 | https://sirwec.org/wp-content/uploads/2022/04/Bingen-D-05.pdf — Matsuzawa & Kajiya, *Height-Dependent Difference in Visibility on Roads* (Civil Engineering Research Institute of Hokkaido) | Fetch returned binary; **extracted locally with pdftotext to stdout (no file written)**; read verbatim. Verbatim: *"when the wind velocity at a height of 10 m is 12 to 14 m/s, the visibility at a height of 2.4 m is greater than 300 m but at a height of 1.2 it is less than 300 m"* (the paper reporting Sato et al. 2002, a **calculation at a snowfield**) · *"The heights of 1.2 m and 2.4 m correspond to the respective eye levels of a small-vehicle driver and a large-vehicle driver."* · *"The effect can be particularly adverse if there is a high snowbank at the roadside, in which case snow blowing from the top of the snowbank passes at the driver's eye level."* · *"Visibility at a height of 1.2 m above the road depends most strongly on air temperature, correlating positively."* · *"It depends the next most strongly on snowbank height and then wind velocity, correlating negatively with both."* → **CHANGED a finding [RW, mechanism only; Hokkaido roads, not a polar coast]:** (a) at Mirny's ordinary mean wind (12.0 m/s, `SPEC` L82) the eye height is the difference between seeing past 300 m and not — so a standing human-shaped body (both bodies, `RP` L18–57) sees less than anyone raised above it; (b) **a cleared bank beside a route lifts the blowing snow to eye level** — so the clearing that keeps an approach open builds the bank that blinds the crossing (third order of `RES` L18's "a cleared drift refills"). Divergence: a road with roadside banks there; at Mirny the routes, entries and clearing pattern are unwritten (`DR-10`; R-95) — the mechanism attaches only to "an approach that is cleared", never to a located street |
+| S7 | `continuous summer daylight polar sleep timing later bedtime circadian Antarctic station winter-over crews summer light melatonin study` | pick 6 (B 8.10 #12, tool-dead in Step 3: B #71–72 were refused by the cap — this is a different string) | **USED, summary-level** → F6, F7. Summaries: continuous summer light delays melatonin; in one study sleep stayed at the same clock times while temperature/activity/heart-rate rhythms delayed ~2 h (unverified at the source — F6 died) |
+| F6 | https://pmc.ncbi.nlm.nih.gov/articles/PMC3793275 | **TOOL-DEATH** (reCAPTCHA page). Not used |
+| F7 | https://therapytoronto.ca/news/?p=19646 (a news summary of Pattyn et al., *Journal of Applied Physiology*, as the page names it) | **OK, secondary.** Verbatim: *"Melatonin secretion — a process that helps you fall asleep — was delayed by several hours."* · *"The common schedule of the expedition members — who worked and slept at the same time — kept the cortisol from delaying its release."* · *"Cortisol secretion remained normal, with the highest levels secreted in the morning."* → **CHANGED a finding [RW, human body only, mechanism; secondary source, primary not reached]:** under continuous light a shared schedule held part of the human clock (the morning hormone) in place while the sleep signal drifted later. At Mirny, in the lit days the shared stop is the only thing that could do that work (`P4` P4-1: "no sky keeps it"), so **the stop keeps the hour, not necessarily the sleep** — the human half may lie down on time and fall asleep late. Robots: no admitted effect of light on recharge (`P3` §E) — nothing claimed. Bears on `P4` R-40 (human effects of the nightless weeks), now **partly** answered at mechanism level only; no Mirny fact |
+| S8 | `charnockite crushed stone aggregate properties dimension stone use hardness polishing quarried charnockite gneiss construction` | pick 7 (A OT-12) | **Summary-level:** charnockite/charnockitic gneiss tested as road aggregate (impact, crushing and abrasion values within construction standards in a Nigerian and a Sri Lankan study); charnockite named a promising dimension stone in West Greenland (a Danish geological-survey report). → F8 |
+| F8 | https://engineer.sljol.info/articles/7089 — Jayawardena (2008), *A Study on The Relationship between Aggregate Impact Values (AIV) and Los Angeles Abrasion Values (LAAV) of Charnockites/Charnockitic Gneisses in Sri Lanka* | **OK, abstract-level.** Verbatim: *"Aggregate Impact Values and Los Angeles Abrasion Values are the most important engineering properties of rock materials for road constructions"*. The suitability sentence in S8's summary was **not** found on this page (snippet-level only). → **ORNAMENT, not a finding:** the rock family Step 3 found on this coast is the kind tested as road aggregate — consistent with `SPEC` L174's "construction materials for the eastern highways", **but it decides nothing**: what Mirny's quarries yield stays R-78/Q-70, Step 3 found no rock to the south (`RES` §8), and a real coast's geology is a source, never a Mirny fact |
+| S9 | `Haswell Islands archipelago Davis Sea island heights bearing from coast Haswell Island 93 m Fulmar Island Buromskiy Island` | B 8.10 #3 (heights and bearings of the islands to the north — where the midwinter sun is visible) | **Summary-level, ORNAMENT.** The group is *"a group of rocky islands and rocks lying off the coast … extending 4 km out to sea"*; the main island ~1 km across, knolls to 93 m (both already in `RES` §2 / B's log). **No bearings returned → died at the sources for the bearing half.** The expedition naming history in the results is **site/naming history — GPS-excluded, not used**. Physical facts only: the northern skyline is broken by rock reaching ~4 km offshore — consistent with `RES` §2's `[V]` that the June noon sun's visibility depends on an open northern skyline; **nothing here locates any part of the city**, so no setting is sited by it |
+| S10 | `поморы обычай закликать ветер приговор поветерью ждать попутного ветра становище обряд` | going back to a pick logged as covered (Pomor forms; A OT-7, the wind-calling page that died at A's F35) — Russian angle on waiting for and "calling" a wind | **DIED AT THE SOURCES** after the tool ran about five internal re-searches (strings not shown). Returned only general Pomor settlement history and one secondhand claim about calling sorcerers of another people to read spells "on the winds" — **OMITTED**: not a mechanism this phase needs, and promoting another people's magic practice into a stock trait is the stereotype `NNS` forbids. Pick stays unspent |
+
+### R.3 Picks NOT spent, and why the search phase stopped where it did
+Ten searches and eight fetches were run; no tool refused for a cap this session. The search phase was stopped **by judgment, not by a cap**, because the catalog's admissible output is bounded by forms the files give (trap 9): further mechanism would have produced more reserved findings, not more catalog entries. **Unspent, each with a named target:** Nizhny Tagil's pit-edge life (OT-7; both angles died) · piteraq alarm rules and lead time (A 10.10) · Norilsk Storm HQ protocols (A 10.10) · what surf-flag training teaches (A 10.10) · route-book teaching pedagogy (A 10.10) · Aporta & Higgs on relay-trust erosion (A OT-8) · the AARI station description over plain HTTP (A OT-1, B #1 — not retried: the tool forces HTTPS, the documented death) · midnight-sun effects on the primary paper (F6 died at reCAPTCHA) · the eleven unresearched stocks' forms (A OT-14, B #17 — blocked on admitted content) · Arctic sea smoke at a *katabatic* harbor specifically (F1 is general) · the vantage figure's primary (Sato et al. 2002, cited inside F5, not reached).
+
+### R.4 Sources actually used
+Wikipedia, *Sea smoke* (F1) · Australian Antarctic Division voyage update 2017-18 V3 (F2) · Australian Antarctic Division station newsletter, 23 March 2012 (F3) · Matsuzawa & Kajiya, *Height-Dependent Difference in Visibility on Roads*, SIRWEC (F5) · therapytoronto.ca news summary of Pattyn et al., *Journal of Applied Physiology* (F7, secondary) · Jayawardena (2008), *Engineer* (Sri Lanka) abstract (F8). Search-summary-only facts are marked "summary-level" where used. **Rejected:** the AMS glossary entry for sea smoke (not fetched; Wikipedia's verbatim used instead) · the polynya studies of other coasts (mechanism context only) · every station-history item in S2/S5's results (another station's operations recorded only as practice-anywhere mechanism, `DR-28` D3) · the Nizhny Tagil company and incident pages (S4) · the Pomor sorcery claim (S10).
+
+### R.5 Fact → finding (including facts that became nothing)
+| Fact | Source | Became | Changed or ornament |
+|---|---|---|---|
+| Sea smoke needs a light, very cold wind over warmer water; low layer; ships' lookouts see over it | F1 | C4-12; RF-5; R-123 | **CHANGED** |
+| Sea smoke columns 20–30 m observed | F1 | nothing | ornament |
+| Polynyas on katabatic coasts maintained by offshore wind | S1 (summary) | nothing new (already `RES` §3's offshore mechanism) | ornament |
+| Small craft set out and lifted aboard each day; wind 3 → 28 kn inside ten minutes; strong winds preclude cargo operations; wind clears floes | F2 | C4-11; RF-6; R-122 | **CHANGED** |
+| A floating causeway or an ice pier as the offload surface | S2 (summary) | R-122 (options listed) | ornament |
+| Blizz lines at waist height along usual paths; anchored to buildings or weighted drums; detachable for vehicles; call on leaving and arriving | F3 | RF-3; R-120; Q-91 | **CHANGED** |
+| A blizzard defined as ≥34 kn, below zero, <100 m visibility, ≥1 h | S5 (summary, not fetched) | nothing | not used (unverified at source) |
+| Visibility at 2.4 m >300 m vs <300 m at 1.2 m at 12–14 m/s (a calculation at a snowfield) | F5 | P10-2; C4-3's height reading | **CHANGED** |
+| A roadside snowbank lifts blowing snow to eye level | F5 | P10-2; RF-4; R-121 | **CHANGED** |
+| Visibility depends most on air temperature, then snowbank height, then wind | F5 | nothing beyond P10-2 | ornament |
+| Melatonin delayed by several hours under continuous light; a shared schedule kept cortisol on time | F7 | C4-7; RF-7 | **CHANGED** (human half) |
+| Sleep at the same clock times while temperature/activity rhythms delayed ~2 h | S7 (summary) | nothing | not used (primary died, F6) |
+| Charnockite tested as road aggregate | F8; S8 | nothing | ornament |
+| The offshore island group reaches ~4 km out; knolls to 93 m | S9 | C1-13; C4-15 | ornament (physical only) |
+
+### R.6 Withheld versus omitted
+- **Withheld (real, usable, held for later):** the blizz-line practice and the call-in (for Step 5 / a developer ruling — it would change the Social Contract) · the offload's hourly unit (for the harbor's form, R-122) · the human sleep mechanism (for R-40).
+- **Omitted (did not fit):** the Pomor sorcery claim (a stock trait, refused) · Nizhny Tagil's founding history (not the pick's question) · polynya studies of other coasts (no new mechanism) · the blizzard definition (unverified) · every item of another station's operational history beyond its mechanism.
+- **Not inputs:** any history of the real station at Mirny's coordinates; any real geographic or expedition name as an in-fiction name.
+
+### R.7 Divergences from source (stated, not implied)
+- **F1:** a ship's lookout at sea; at Mirny the vantage is a shore and a harbor of unknown form — the mechanism says only that height clears the layer.
+- **F2:** another coast's resupply by a national program's vessel; at Mirny the counterparty is the direct sea partner and the harbor's form is unknown — only the hourly unit and the fast turn of the wind transfer.
+- **F3:** a small station's few paths; at Mirny a city 13–16 km across with unwritten routes — only the mechanism (touch; a witness to a crossing) transfers, and at Mirny it would change the Social Contract.
+- **F5:** Hokkaido roadways and vehicle eye heights; at Mirny bodies on foot at human eye height in both bodies — the bank mechanism transfers, the road does not.
+- **F7:** a small expedition crew on one schedule; at Mirny a Band 5 city whose shared stop is national canon and whose human half's sleep is unread — the mechanism is offered for the human half only.
+
+### R.8 Dead ends, with where each died
+| Dead end | Died at | Recoverable? |
+|---|---|---|
+| Life at the edge of a pit inside a city (S3, S4) | **SOURCES** (S3); **QUERY** (S4) | perhaps, via a regional-history source |
+| A numeric offload-suspension threshold (S2) | **QUERY** | perhaps, via an operator's published procedures |
+| The vantage figure's journal article (F4) | **TOOL** (authorization redirect) | yes, via an open mirror |
+| The polar-sleep primary paper (F6) | **TOOL** (reCAPTCHA) | yes, in another session |
+| Bearings of the offshore islands (S9) | **SOURCES** | yes, via a gazetteer or chart |
+| Pomor wind-calling (S10) | **SOURCES**, after ~5 internal re-searches | doubtful |
+
+### R.9 Open threads (what each might yield)
+1. **An operator's ice-edge and small-craft procedures** — whether offload stops at a stated wind and visibility (R-122).
+2. **Sea smoke at a katabatic harbor specifically** — whether the offshore wind's strength suppresses it (F1's "light wind").
+3. **The primary polar-sleep paper** — the size of the delay and whether a shared schedule holds sleep or only the morning hormone (R-40).
+4. **Sato et al. 2002 and snowfield (not road) vantage figures** — the shape of visibility against height on open snow (P10-2).
+5. **The offshore islands' bearings** — where in any future layout the June noon sun is visible (C4-15).
+6. Carried from Step 3, still unspent: the AARI station description; the eleven stocks' forms; piteraq alarm rules; Norilsk Storm HQ protocols; surf-flag training; route-book teaching.
+
+---
+

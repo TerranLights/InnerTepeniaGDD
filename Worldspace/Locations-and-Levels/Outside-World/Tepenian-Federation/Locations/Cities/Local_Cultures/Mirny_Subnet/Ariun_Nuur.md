@@ -1,4 +1,4 @@
-# Ariun Nuur — Cultural Spec Sheet
+# Ariun Nuur — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-42`): formerly *Vostok*, after the real Soviet and Russian station; now **Ariun Nuur**.** **The central scientific district keeps the name "Vostok"**, in honor of the scientists of the past. Any line below that still says "Vostok" names the REAL station or Lake Vostok, or tells the story of the FORMER name (the Russian and Soviet reputation, "Vostokan"/"Vostokian" demonyms). The latter are revisit items. Ariun Nuur is Mongolian (Ариун Нуур), "the pure lake"; founders: Künnarantaiga and Mongolia (`DR-35`).
 
@@ -274,3 +274,5 @@ TBD — genuinely underdeveloped, though the city's core tension (a population l
 ## 32. Diaspora Character in Concordia
 
 Given Ariun Nuur's own founding-legend mismatch (current residents inherited the city rather than building its legend), any Ariun Nuur diaspora in Concordia would carry a genuinely unusual double consciousness: whatever personal/national identity they actually hold (Pacific-corridor derived, per Section 1) alongside the weight of coming from "the city with the cold record and Lake Vostok" — a reputation that isn't really *theirs* in any direct ancestral sense, inherited instead of earned. This might make Ariun Nuur's diaspora recognizable by a kind of borrowed gravity: carrying one of Tepenia's most famous city names without necessarily having any personal connection to the legend that made it famous.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Künnarantaiga and Mongolia, jointly (`DR-35`); not Russia itself. Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

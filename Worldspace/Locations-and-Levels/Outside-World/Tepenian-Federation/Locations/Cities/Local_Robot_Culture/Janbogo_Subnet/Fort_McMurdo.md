@@ -1,4 +1,4 @@
-# Fort McMurdo — Local Robot Culture Spec Sheet
+# Fort McMurdo — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #17 of the Local Robot Culture Methodology, 2026-08-10.** Applies the shared-experience-first Kinship
 framing and the corrected two-slot Solar-symbol/Robo-Element check from the start. Provisional — findings are
@@ -315,3 +315,5 @@ file's own §1 Kinship finding (crew-interdependence, symmetric, origin-blind, v
 completion output) remains valid as a description of Fort McMurdo's *own internal* culture, but does **not**
 extend outward to the Fort McMurdo/Scott relationship the way this file's own Cross-Reference Synthesis had
 proposed — see the correction note in Part III above and Scott's own file for the full account.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: miners from all over Tepenia, then clerics, bureaucrats and logistics coordinators from all over Tepenia; not a single nation (`DR-20`, `DR-21`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

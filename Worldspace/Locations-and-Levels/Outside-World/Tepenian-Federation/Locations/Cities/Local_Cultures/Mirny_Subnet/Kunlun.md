@@ -1,4 +1,4 @@
-# Kunlun — Cultural Spec Sheet
+# Kunlun — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -279,3 +279,5 @@ Among the most demanding arrivals in Tepenia, whichever way you come. **Correcte
 ## 32. Diaspora Character in Concordia
 
 **Re-resolved 2026-07-06:** with Kunlun's population now genuinely multinational rather than exclusively Chinese, its diaspora character in Concordia is closer to Dome Fuji's own — carried by whoever has a genuine connection to the astronomy/comms mission or the devotional faith, from any of the 19 represented nations, rather than a uniquely Sinian-exile relationship. Whether a distinct Kunlun diaspora community exists in Concordia at all remains open.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Ariun Nuur's founding stock (Künnarantaiga and Mongolia) plus the Sinian Federation (China) (`DR-34`, `DR-35`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

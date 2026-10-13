@@ -1,4 +1,4 @@
-# Neumayer — Cultural Spec Sheet
+# Neumayer — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 ---
 
@@ -270,3 +270,5 @@ Becoming a local means genuinely adopting the city's rigor as a personal standar
 ## 32. Diaspora Character in Concordia
 
 Neumayer refugees in Concordia are recognizable by the same rigor that defines the city itself — precise, methodical, uncomfortable with imprecision, drawn toward whichever district rewards demonstrated technical competence over social performance. Given the established fit, Aries or Sagittarius-adjacent technical roles would be the natural landing point, though exact district affinity is TBD.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: the Netherlands and Austro-Bavaria, jointly (`DR-35`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

@@ -1,4 +1,4 @@
-# Temirötkel — Cultural Spec Sheet
+# Temirötkel — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-37`): formerly *Sayowa* (placeholder `{{ Syowa/Showa }}`); now **Temirötkel** (темірөткел), "Iron Crossing".** Any line below that still says "Sayowa" describes the FORMER name: its Syowa/Shōwa-derived etymology and the Japanese founding it was written around. Those lines are revisit items (`DR-30`, `R-11`, `R-17`).
 
@@ -273,3 +273,5 @@ Becoming a local at Temirötkel means genuinely internalizing the city's disprop
 ## 32. Diaspora Character in Concordia
 
 **Corrected 2026-07-06:** no longer framed as the most concentrated Japanese diaspora identity — Shirayuki refugees carry that distinction now. Sayowa refugees in Concordia would still carry a genuine sense of institutional history — the Shōwa-era name's specific historical weight and a genuine, practiced comfort with disproportionate responsibility earned from maintaining critical junction infrastructure that mattered far beyond their own small city — just not a demographically-concentrated Japanese identity.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: first established by the CIN or by Kazakhstan (open), then industrialized primarily by Kazakh industrialists (`DR-30`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

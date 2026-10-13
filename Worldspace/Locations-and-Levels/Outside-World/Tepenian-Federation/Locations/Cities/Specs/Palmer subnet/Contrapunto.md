@@ -70,9 +70,9 @@ King George Island is the largest of the South Shetland Islands, lying approxima
 
 What made King George Island distinctive in the pre-exile era was concentration: nearly a dozen national research programs operated here simultaneously, on an island roughly 80km long. In the exile era, that dense cluster of station infrastructure became the seeds of multiple small communities — many nationalities found themselves on the same island, sharing infrastructure, sharing weather, and learning to coexist in close quarters. King George Island became one of the most multinational places in Tepenia *(corrected — Palmer City, deliberately expanded to cover all 43 master-list nations, holds Tepenia's actual "most diverse city" title; see `Specs/Palmer_City.md`)* — a genuinely dense, close-quarters multinational mix in its own right, distinct in character from Palmer City's own broader, more diffuse diversity.
 
-Sejong, as the Korean settlement, was named after the king who gave Korea its alphabet — an act of cultural self-definition by a monarch who believed his people deserved a writing system of their own. The choice of name carries quiet weight: an exile community naming their Antarctic city after the person who gave their ancestors the tools to record their own language and history.
+Formerly named Sejong, after King Sejong the Great, creator of Hangul and the real station's namesake; a namesake is flavor only (`DR-32`). The earlier story of a Korean exile community naming its city after him is withdrawn. The Korean connection that remains is the Register's: people were later invited from Korea to translate the inherited station's Korean-language records, logs and manifests (`DR-35`).
 
-The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both founded by Korean exiles and named after Korean historical figures, but Sejong's own Korean population diluted over roughly two and a half centuries of King George Island's extreme multinational immigration down to just 5.79%, the smallest of its eight Significant-tier nations, well behind the USA's sole-Primary 21.65% and France's 11.62%. Tepenia's living Korean population centers today are Janbogo and Sinheung (Mirny subnet, singularly Korean-founded via the Jeju-do partition, still Korean-Primary at 34.62%) — Sejong shares a founding-era naming heritage with Janbogo, not an ongoing demographic one. This is the same pattern already resolved at Temirötkel (Japan-founded, diluted, superseded as "the" Japanese city by Shirayuki): a shared founding-era naming choice surviving after the living identity moved elsewhere.
+The Janbogo connection is withdrawn: Contrapunto was settled first by Chile (`DR-35`), and the comparison with Temirötkel no longer holds. The composition figures stand: South Korea is 5.79% of Contrapunto, the smallest of its eight Significant-tier nations, well behind the USA's sole-Primary 21.65% and France's 11.62%; Tepenia's living Korean population centers today are Janbogo and Sinheung (Mirny subnet, still Korean-Primary at 34.62%).
 
 ### Annual Climate
 
@@ -134,11 +134,11 @@ The Janbogo connection, corrected 2026-07-13: Sejong and Janbogo were both found
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, with the unusual founding condition of multiple exile communities already present on the island. The national groups that had operated research stations here — Korean, Argentine, Brazilian, Chilean, Sinian, Polish, Russian, Czech, Uruguayan — each had a pre-existing foothold. Contrapunto was the Korean settlement; it was surrounded by its neighbors from day one.
+**Settled:** Post-Falkland Treaty, with the unusual founding condition of multiple exile communities already present on the island. The national groups that had operated research stations here — Korean, Argentine, Brazilian, Chilean, Sinian, Polish, Russian, Czech, Uruguayan — each had a pre-existing foothold. Contrapunto was settled first by Chile (Founding Register, `DR-35`); people invited from Palmer City, and later from Korea, translated the inherited station's Korean-language records. It was surrounded by its neighbors from day one.
 
-**Founding population:** South Korean exiles. The city shares the island with communities that eventually became separate settlements or merged into Contrapunto's orbit depending on their size — details TBD.
+**Founding population:** A primarily Anglo-Latin society of immigrants from the Americas (`DR-20`). First founders: Chile; then English-speaking arrivals; then people invited from Palmer City, and later from Korea, to translate the inherited station's records, logs and manifests, which were written in Korean (`DR-20`, `DR-35`). The city shares the island with communities that eventually became separate settlements or merged into Contrapunto's orbit depending on their size — details TBD. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
-The name honors King Sejong the Great (1397–1450), who commissioned the creation of Hangul and transformed Korean cultural and intellectual life. An exile community honoring the king who gave their ancestors the means to record themselves.
+Formerly named for King Sejong the Great (1397–1450), who commissioned the creation of Hangul: the real station's namesake, flavor only (`DR-32`).
 
 ---
 
@@ -148,7 +148,7 @@ Contrapunto's character was shaped by proximity to everyone else. No other Tepen
 
 The mild climate made King George Island the most physically comfortable location in the Palmer subnet, which paradoxically made it more competitive: multiple communities vying for the same favorable ground. The social dynamics of King George Island, with its dense concentration of distinct national communities, would have produced a unique kind of inter-community politics with no equivalent elsewhere in Tepenia.
 
-**Nationally known for:** King George Island's multinational character. The mildest Palmer subnet climate. Sharing a founding-era naming heritage with Janbogo. *(Corrected 2026-07-13: no longer counted among Tepenia's living Korean population centers, which today are Janbogo and Sinheung — Contrapunto's own Korean population has diluted to its smallest Significant-tier nation.)*
+**Nationally known for:** King George Island's multinational character. The mildest Palmer subnet climate.  *(Corrected 2026-07-13: no longer counted among Tepenia's living Korean population centers, which today are Janbogo and Sinheung — Contrapunto's own Korean population has diluted to its smallest Significant-tier nation.)*
 
 ---
 
@@ -167,8 +167,8 @@ King George Island's favorable position (most accessible part of Antarctica, clo
 ---
 
 ## Notable Figures
-- **Coordinator Han Ji-woo** *(placeholder, proposed `Sejong_Full_Extrapolation.md` Section VI)* — the founding-era figure credited with personally negotiating Contrapunto's original boundary-zone agreements with each of its island neighbors; developed into a full Course of Events stage (`Sejong_06_What_Han_Jiwoo_Negotiated.md`). Placeholder name, not finalized.
-- **Educator Yoon Seo-yeon** *(placeholder, proposed `Sejong_Full_Extrapolation.md` Section VI; corrected 2026-07-17 from "Priya Suh-Bhattacharya," which violated the project's No Subcontinentals canon)* — a Hangul-literacy figure credited with maintaining Hangul instruction as the founding Korean population diluted. Placeholder name, not yet developed into a Course of Events stage.
+- **Coordinator Han Ji-woo** *(placeholder, proposed `Sejong_Full_Extrapolation.md` Section VI)* — the founding-era figure credited with personally negotiating Contrapunto's original boundary-zone agreements with each of its island neighbors; developed into a full Course of Events stage (`Sejong_06_What_Han_Jiwoo_Negotiated.md`). Placeholder name, not finalized. *(Flag 2026-10-13: the figure's nationality is unfixed; the city's first founders are Chilean, `DR-35`.)*
+- **Educator Yoon Seo-yeon** *(placeholder, proposed `Sejong_Full_Extrapolation.md` Section VI; corrected 2026-07-17 from "Priya Suh-Bhattacharya," which violated the project's No Subcontinentals canon)* — a Hangul-literacy figure credited with maintaining Hangul instruction as the founding Korean population diluted. Placeholder name, not yet developed into a Course of Events stage. *(Flag 2026-10-13: withdrawn as written; it assumed a Korean founding population that dilutes, and the founders are Chilean-first, `DR-35`. Revisit item.)*
 
 ---
 
@@ -184,6 +184,6 @@ Contrapunto's legacy is the coexistence experiment — the proof that a dozen na
 
 ## Open Questions
 - **The other King George Island settlements** — what became of the non-Korean communities on the island? Do they have their own city entries, or are they folded into Contrapunto's story?
-- **The Contrapunto–Janbogo relationship** — *(reframed 2026-07-13: not two Korean cities in ongoing parity — Janbogo remains a genuine Korean demographic center (alongside Sinheung); Contrapunto's Korean founding is now a shared naming heritage, not a living connection)* did the two cities maintain any relationship at all, given how little they actually have in common today?
+- **The Contrapunto–Janbogo relationship** — *(reframed 2026-07-13: Janbogo remains a genuine Korean demographic center, alongside Sinheung)* did the two cities maintain any relationship at all, given how little they actually have in common today?
 - **Demonym** — **Sejongite** *(established 2026-07-04)*
 - **Notable figures** — two placeholders exist (Coordinator Han Ji-woo, Educator Yoon Seo-yeon, both `Sejong_Full_Extrapolation.md` Section VI); neither is a finalized name

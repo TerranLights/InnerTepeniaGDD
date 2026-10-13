@@ -1,5 +1,7 @@
 # Mirny — Step 4 · Phase 2 · Composition & Arrival
 
+> **⚠ AMENDMENT NOTICE (2026-10-13; `DR-56`, `DR-57`).** The developer corrected a premise this file uses. **The first generation of settlers had to learn the wind and the setting from scratch. They then developed the shared knowledge system (signifiers and a public weather protocol, managed and curated by an organization of people of both bodies, and open to anyone who wants to learn it) that every later generation learned and used.** Wherever this file says the wind has *no teacher*, *no instrument*, *nothing posted*, *untaught* or *unread* cues, or that each resident *re-learns* the wind, or that the record *never learns*, read it as true of the **first generation only**. Passages marked **[AMENDED]**, **[REVERSED]** or **[SUPERSEDED]** were corrected or flagged in place; the rest is covered by this notice. Whether the protocol rides the relay is undecided. Details: `DR-56_Amendment_Register_2026-10-13.md`. The name of the unwritten understanding is *Social Contract*.
+
 **Pass:** Mirny (Mirny subnet) · ULM · Step 4, Phase 2 (`03_The_Phase_Spine.md` L401–470) · **Run mode: WARM** · 2026-10-03
 **T8:** Round 2 **UNANIMOUS** (15 / 15 files, three readers) · Round 3 **6 / 6 CONSISTENT** → cleared to write. Record:
 `04b_T8_Rounds_Phase_2.md`. **Written content is a MERGE** (`M-246`): contradictions take the most conservative current

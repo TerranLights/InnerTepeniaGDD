@@ -1,4 +1,4 @@
-# Puerto Abrigo — Local Robot Culture Spec Sheet
+# Puerto Abrigo — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 > **⚠ RENAMED 2026-10-03 (`DR-40`): formerly *Port Lockroy*, the real base's name; now **Puerto Abrigo**.** Any line below that still says "Port Lockroy" names the REAL site (the base, the harbor, Operation Tabarin) or tells the story of the FORMER name (the base was named for Édouard Lockroy). The latter are revisit items. Puerto Abrigo is Spanish, "sheltered harbor"; founders: Chile first (`DR-34`).
 
@@ -306,3 +306,5 @@ Lockroy's name — every finding depends on facts (the Communal Stone Wall's own
 design, Old Toby's already-established mathematically-doomed prophecy, the already-canon robot courier detail)
 that are concretely, specifically Puerto Abrigo's own. **Rothera and Signy (both confirmed sibling
 cities, per §23) and the remaining Palmer-subnet cities are flagged forward for real re-checks once run.**
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Chile (`DR-34`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

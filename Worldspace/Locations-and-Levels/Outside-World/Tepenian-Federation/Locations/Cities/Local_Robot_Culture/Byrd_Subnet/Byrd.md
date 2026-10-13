@@ -1,4 +1,4 @@
-# Byrd — Local Robot Culture Spec Sheet
+# Byrd — Local Robot Culture Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
 **Run #10 of the Local Robot Culture Methodology, 2026-08-10 — first city of Byrd Subnet, and the only one it
 has.** Provisional — findings are proposals for developer review, not asserted canon. Several findings below
@@ -285,3 +285,5 @@ only afterward. No finding above reads as generic "isolated extreme-environment 
 get filed under Byrd's name — each depends on facts (the all-robot founding crew with no human witness, the
 Five Guildhalls, the vertical depth-based population split, the zero-pre-Tower-contact isolation profile) that
 are concretely, specifically Byrd's own.
+
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: a joint team of first-wave Tepenians from the Peninsula (the Palmer subnet) and the Halley coast (the Halley subnet); not founded by any Upper-Earth country (`DR-44`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*
