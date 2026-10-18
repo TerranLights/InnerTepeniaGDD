@@ -46,15 +46,14 @@ re-dispatch before then, it will just fail again immediately.
 | `04_Hidden_Battles_TBI_and_PTSD.md` | *Hidden Battles on Unseen Fronts* (Driscoll) — epub | ~10,528 lines plaintext | `[x]` **Done.** 264 lines |
 | `05_Neuropsychology_of_PTSD.md` | *Neuropsychology of PTSD* (Vasterling & Brewin) | 352 | `[x]` **Done.** All 13 chapters read in full; Ch. 1-6/8/10/12 at full depth, Ch. 7/9/11/13 condensed with reasons stated. Includes a flagged, clearly-marked-speculative robot-cognition cross-application section |
 | `06_Invisible_Wounds_of_War.md` | *Invisible Wounds of War* (RAND/Tanielian) | 499 | `[x]` **Done.** |
-| `07_Treating_PTSD_Clinical_Handbook.md` | *Treating PTSD in Military Personnel* (Moore & Penk) — **two editions found**: 2011 1st ed. (401p) and 2019 2nd ed. (482p) | 482 (+401 spot-check) | `[x]` **~75% done, updated 2026-08-30.** 2nd ed. lines 1-14,950 of 21,422 now covered (front matter + Ch.1 in full, through Ch.18 opening). **1st-edition spot-check now complete** — 3 genuinely dropped chapters/appendices (VRET, Anger/Aggression/Violence, Appendices A-C) read in full and merged in. **Still not done:** 2nd-ed. Ch.18 continuation through Ch.23 (lines ~14,950-21,422 — sleep disorders, suicidal ideation, moral injury, complex trauma, posttraumatic growth). Moral injury (Ch.21) and posttraumatic growth (Ch.23) flagged as the two highest-priority chapters for any future pass. A second dispatch aimed at this range did not return usable results — resume at line ~14,950 if this thread continues |
+| `07_Treating_PTSD_Clinical_Handbook.md` | *Treating PTSD in Military Personnel* (Moore & Penk) — **two editions found**: 2011 1st ed. (401p) and 2019 2nd ed. (482p) | 482 (+401 spot-check) | `[x]` **Done, 2026-10-05 (was ~75%, updated 2026-08-30).** 2nd ed. now covered **through the end of its prose (lines 1-19,226 of 21,422)**; lines ~19,229 onward are reference lists and the Author/Subject Indexes, deliberately not extracted. 2026-10-05 pass added **§6b, Findings 129-266**: Ch.18 rest (MST), Ch.19 sleep, Ch.20 suicidal ideation, **Ch.21 moral injury**, Ch.22 complex trauma, **Ch.23 posttraumatic growth**. Five parallel readers (one chapter group each), every prose line read; key figures of Ch.21 and Ch.23 spot-checked against the plaintext. **Limits of the source, not of the extraction:** none of Ch.18(rest)-23 has a case vignette; Ch.23 has no PTGI item wording and says nothing on moral injury, defection or desertion; Ch.20 has no interpersonal-theory constructs, instruments or safety-plan steps. **1st-edition spot-check complete** (2026-08-30): 3 genuinely dropped chapters/appendices (VRET, Anger/Aggression/Violence, Appendices A-C) read in full and merged in. Nothing further outstanding for this book |
 | `08_Living_and_Surviving_in_Harms_Way.md` | *Living and Surviving in Harms Way* (Freeman, Moore, et al.) | 546 | `[x]` **Done.** 988 lines, full front-to-back pass, all 23 chapters. Low-yield chapters (Women in the Military, assessment instruments, pharmacotherapy dosing, military children, a veteran-support-website directory) explicitly compressed with reasons stated at each heading |
 | `09_Military_Life_Four_Volumes.md` | *Military Life: The Psychology of Serving in Peace and Combat* (Adler, Castro, Britt, et al.) — TOC-triaged given size, not read at uniform depth throughout | 1072 | `[x]` **Done.** 1,248 lines, 87 findings. Full TOC (4 volumes/44 chapters) recovered and recorded since it exists nowhere else in this repo. Full depth on combat-stress/cohesion/leadership/captivity/indoctrination/courage/values chapters; lighter triage (reasons given) on the four synthesis chapters, Reserve-Component logistics, and Women-in-the-Military/Sexual-Orientation chapters (out of scope per `project_sexuality_rules` canon) |
 | `10_Synthesis_Character_Application.md` | Cross-book synthesis — candidate backstory/injury/voice/questline material for the Cancer defector, plus a separate cross-series flag list | — | `[x]` **Done.** Identifies convergent threads across multiple independent source books (strongest: the defining wartime action, gradual erosion via a broken leadership promise, the polytrauma triad, isolation-from-tribe, and the romance-arc mechanics) rather than re-listing individual findings |
 
-**All extraction and synthesis work in this folder is now complete.** Only remaining gaps: `07`'s missing
-~30% (see its own row) and the never-started 1st-edition spot-check for that same book — both low-priority
-follow-ups, not blockers — plus the separately-tracked dark-humor sourcing task (see "Developer insights"
-below), which is deliberately out of scope for this pass.
+**All extraction and synthesis work in this folder is now complete.** *(2026-10-05: `07`'s last missing range, Ch.18 rest through Ch.23, was extracted;
+the same day, a stale line that still listed `07`'s 1st-edition spot-check as undone was removed. That spot-check had been completed on 2026-08-30.)*
+The only open item is the separately tracked **dark-humor sourcing task** (see "Developer insights" below), which is deliberately out of scope for this extraction pass.
 
 ---
 
@@ -74,7 +73,10 @@ above.
   of the 10 books currently in `to-be-integrated/books/PTSD/` are dedicated to humor specifically — this needs
   a separate source search, not just a deeper read of what's already in hand) — and the developer noted this
   may also mean **seeking out people with former-military backgrounds directly** for help getting the voice
-  right, not just reading about it. Not started. Do not synthesize this into his voice/dialogue until real
+  right, not just reading about it. **Lead-finding pass DONE 2026-10-05:** see `11_Dark_Humor_Source_Leads.md` (synthesis,
+  read-first list, ethical routes to real veterans, gaps) and its four detail files `11a`-`11d`; **extraction of the
+  sources themselves NOT started** (next steps in `11` §6, awaiting the developer's approval). Do not synthesize this
+  into his voice/dialogue until real
   source material (or direct input) is actually in hand — a guessed-at "dark humor" voice risks landing as
   generic edgy quipping rather than the real thing.
 
