@@ -246,10 +246,440 @@ NTRS 20210026557 · Meier APM details · EPFL graph pages on thermochemical cycl
 
 ---
 
+## Batch 7: from `lagrange_thermal_environment.md` (292 lines; 46 searches; 61 page opens; 13 dead ends: 3 at the query, 10 at the sources)
+
+*(Entered 2026-10-11 by the orchestrator from the agent's section 8; the agent's wording is condensed.)*
+
+| Open thread | Why it matters | Search next |
+|---|---|---|
+| Numerical eclipse statistics for Earth-Moon L4/L5 libration orbits | settles the conflict with the "once or very few times per month" remark (`lagrange_eclipse_calculation.md` §5.9-5.10) | He et al. 2026 (Springer, paywalled); the 2024 Acta Astronautica paper on 3:1 resonant axial orbits (HTTP 403); author preprints, CNKI or a library copy |
+| Earth-Moon L4/L5 station-keeping delta-v per year | the cost of the unstable point (e-folding 318 days) or of a large orbit | Salnikova, Stepanov and Shuvalova 2018; Schutz and Tapley (1970s); Farquhar's thesis (NASA TR R-346) |
+| Kordylewski cloud number density; Igenbergs et al. 2012 (Hiten Munich Dust Counter); the Wang et al. 2021 review PDF | hazard to a station near the points | the Igenbergs chapter; the review PDF via another route |
+| Queqiao orbit (13,000 km Z-amplitude, 14-day period) and any eclipse history | a flown Earth-Moon halo orbit's eclipse record | Zhang Lihua 2021 via another mirror; Chinese Journal of Space Science |
+| JWST orbit page text (STScI user docs) and the L2 umbra radius | thermal comparison | the STScI pages; the gaia.ac.uk PDF returned 403 |
+| Sun-Earth L4/L5 radiation dose | a station there | ESA Vigil requirements (the radiation analysis returned 404); STEREO HET/LET publications |
+| STEREO L4/L5 results (Trojan search outcome, dust counts) | dust at Sun-Earth L4/L5 | not found |
+| Lucy thermal design (radiator, louvers, cold-case temperatures at 5.7 AU) | an L4/L5-class thermal case far from the Sun | an ICES or TFAWS paper on Lucy thermal design |
+| Flown radiator areal mass other than ISS (Shuttle panel mass) | radiator mass per kW | NASA Shuttle thermal reports |
+| End-of-life absorptance specific to a free-space orbit at 1 AU | radiator sizing at end of life | NASA radiator degradation studies; the handbook says interplanetary rates differ only in intensity |
+| MER radioisotope heater count and survival-heater energy | night survival heritage | a MER thermal design paper (the search summary's 8 x 1 W and 100 Wh were not confirmed on an opened page) |
+| Flown lunar-night storage other than RHUs | heat battery heritage | none found beyond concepts |
+
+**Sources found and not read:** the Gaia "IN_L2_orbit" note (403); the Wang et al. 2021 full text; Igenbergs et al. 2012; the ESA Vigil objectives document; the Planetary Society Queqiao explainer (secondary).
+
+---
+
+## Batch 8: from `starlifting_physics_and_minimum_infrastructure.md` (580 lines; 16 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Criswell (1985), the origin of starlifting:** book chapter in *Interstellar Migration and the Human Experience*; no open text; Internet Archive copies are lending-restricted (rows 7, 8). | a library or interlibrary loan. |
+| 2 | **Beech (2008), *Rejuvenating the Sun and Avoiding Other Global Catastrophes*** (Springer): chapter list only (row 11). Known here only through [CA10]. | (none stated in the source) |
+| 3 | **Matloff (2017), JBIS 70:458:** abstract only; paywalled (rows 5, 6). Its per-kg energy and scenarios are known only as quoted by [SK23]. | (none stated in the source) |
+| 4 | **Caplan (2019) and Svoronos (2020, 2021) stellar-engine papers:** abstracts only; ScienceDirect 403 (rows 16-18). | (none stated in the source) |
+| 5 | **Criswell's "ring current" and "huff-n-puff" mechanisms:** no primary description online (row 12). | (none stated in the source) |
+| 6 | **Absolute FIP enrichment of Fe relative to H in the solar wind:** [PI15] gives only ratios to Mg and the fFIP bias; arXiv 2411.18984 was surfaced but not read. Needed to turn "1 t of wind" into kg of each metal precisely. (He/H was resolved in the second run from Alterman and Kasper 2019, row 87; Kasper et al. 2007 itself was still not opened.) | (none stated in the source) |
+| 7 | **Nittler et al. 2011 (Mercury surface XRS) numbers:** abstract-level only (row 78). | (none stated in the source) |
+| 8 | **Hauck et al. 2013 direct:** escholarship 403 (row 72); values used come via [WH17]. | (none stated in the source) |
+| 9 | **Galileo probe helium mass fraction (Y = 0.238 per a search summary):** not confirmed in an opened page (row 74). | von Zahn et al. 1998 (JGR) or Niemann et al. 1998. |
+| 10 | **Palaszewski's Table I (He-3 fractions in Uranus and Neptune)** is an image in the PDF; only the 1.52 x 10^-5 case in the text was read. | (none stated in the source) |
+| 11 | **Total mass of near-Earth asteroids:** not found in any source (row 84). | Granvik et al. 2018 (Icarus) size distribution integrated with assumed densities. |
+| 12 | **Fox et al. 2016 (Parker mission overview, Space Sci. Rev.):** CC-BY but blocked to the tools (row 41). Would give the flown TPS and cooling specifics. | (none stated in the source) |
+| 13 | **Solar Probe 2005 report (NASA/TM-2005-212786)** for the 4 R_sun design (row 49): not opened. | (none stated in the source) |
+| 14 | **Parker FIELDS antenna material** (refractory metal) and Parker's measured shield temperature: not found in a primary source this session. | (none stated in the source) |
+| 15 | **Huss et al. 2019** was read only to character 100,000 of 155,196 (row 57); the remainder may give helium or metallicity results. | (none stated in the source) |
+| 16 | **Sources found but not read:** arXiv 2411.18984 (slow-to-fast wind composition); arXiv 1504.08325 (FIP review); NTRS 20150020912 and 20230001527 (NEO/space-resources); Granvik et al. 2018 PDF; Taylor 2018 (Acta Astronautica, planet4589.org); arXiv 2510.21743 ("Propellantless space exploration"); arXiv 2305.04212 (rotating magnetic sail). | (none stated in the source) |
+
+---
+
+## Batch 9: from `space_trucking_and_transport_infrastructure.md` (565 lines; 18 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Near-Sun cargo transport study.** No paper found that sizes transport of material from 0.1 to 0.5 AU to Earth or Mars orbit. | search for solar-sail cargo from inner orbits (sail thrust scales as 1/r², a physics relation not sourced here), "sundiver" or "solar photon thruster" cargo, and the starlifting sibling file's sources. |
+| 2 | **Flyby-assisted cargo routes from Mercury or near-Sun orbits.** Only spacecraft (MESSENGER, BepiColombo) found. | Langevin and Yen (cited by Jehn 2014) for systematic Mercury return trajectories. |
+| 3 | **Mercurian mass driver.** Not found (rows 132, 133). | read the rest of the science.gov topic page (714,658 characters unread), the SSI Space Manufacturing proceedings index, and Mercury-industrialization papers. |
+| 4 | **In-orbit cryogenic boil-off rates** (liquid hydrogen, oxygen, methane): no primary in-orbit figure found (rows 127 to 129). | NASA CFM Technology Roadmap, Centaur extended-coast data, COLD-SAT / CPST reports on NTRS. |
+| 5 | **Starship payload and cost from SpaceX directly.** SpaceX pages not readable by the tools (rows 41, 113). NASA OTPS assumptions (100 t, $50 to 100 M) are used instead and labeled as assumptions. | (none stated in the source) |
+| 6 | **Starship vehicle-to-vehicle propellant transfer outcome in 2026.** OIG (March 2026) says planned for 2026; a secondary source says not attempted as of 24 Jul 2026. | NASA HLS updates, McDowell's monthly reports. |
+| 7 | **Post-2016 aerocapture flights.** Not checked. | NASA aerocapture technology pages (2023 "ready for future mission use" story, found but not opened) and planetary mission lists. |
+| 8 | **MW-class NEP studies** NTRS 20220017245 and 20220002034 (power conversion mass modeling) found but not opened; the "2.5 MWe at 20 kg/kWe" and "15 MWe at ~1 kg/kWe" figures came only from a search summary and are not used. | (none stated in the source) |
+| 9 | **Kornuta et al. 2019 (ULA "Commercial lunar propellant architecture", REACH)** not opened; numbers known only via Metzger 2023. | (none stated in the source) |
+| 10 | **KISS 2012 asteroid retrieval full report** unobtainable (certificate error, 404, 403; rows 68, 114); only the abstract used. | (none stated in the source) |
+| 11 | **Jedicke et al. 2018 (Planet. Space Sci.) water-delivery delta-v** paywalled (rows 4, 7). | (none stated in the source) |
+| 12 | **Psyche SPT-140 thrust and Isp in flight** not obtained from a primary source (rows 28 to 30, 95). | (none stated in the source) |
+| 13 | **Starlink argon thruster Isp and power** (2,500 s, 4.2 kW were in a search lead only); 170 mN only from trade press. | (none stated in the source) |
+| 14 | **YES2 31.7 km tether (2007)** not confirmed from a primary source (row 54). | (none stated in the source) |
+| 15 | **Ideal solar radiation pressure at 1 AU (about 9 µN/m² for a perfect reflector)** used only as a comparison in F2; not sourced this session. | (none stated in the source) |
+| 16 | **Deep Space Network capacity** (how many links a fleet of thousands of tugs would need) not researched. | (none stated in the source) |
+| 17 | **Tug degradation and lifetime at scale** (AEPS 23 to 50 kh life is per thruster) not translated into replacement rates. | (none stated in the source) |
+| 18 | **Sources found but not read:** Bao et al. 2015 (lunar/Earth gravity-assist capture of NEOs, cited in Jedicke 2019); Elvis et al. 2011 (ultra-low delta-v objects, arXiv:1105.4152); "How Many Ore-Bearing Asteroids?" (arXiv:1312.4450); Sonter 1997 MSc thesis (NSS-hosted); SP-413 Appendices K ("Lunar Gas Gun Mass Driver") and L ("Passive Catchers"). | (none stated in the source) |
+
+---
+
+## Batch 10: from `space_processing_and_fabrication.md` (491 lines; 17 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Whole-humanoid bill of materials by mass and element**: not found (rows 86-88). | teardown reports with primary data, IEEE/IFR robot material inventories, Boston Dynamics or Agility documentation, a peer-reviewed LCA of a legged robot. |
+| 2 | **Magnet-free actuators** (induction, switched reluctance, ferrite) torque density versus NdFeB, as a route around the rare-earth bottleneck: not searched. | (none stated in the source) |
+| 3 | **Primary text of Guerrero-Gonzalez and Zabel** (MRE, ilmenite-carbonyl and FFC plant models; duty cycle behind the 311 kW): seen only through [AZ24]. | (none stated in the source) |
+| 4 | **Lomax et al. 2020 full paper** (FFC energy per kg, current efficiency): accepted-version download returned HTML (row 21). | (none stated in the source) |
+| 5 | **Schlüter and Cowley review** of oxygen-extraction techniques with energy table: paywalled (row 16). | (none stated in the source) |
+| 6 | **Carbonyl (Mond) process operating conditions** from a primary (temperatures and pressures for Fe and Ni carbonyl formation and decomposition): only tertiary sources surfaced (row 34); Vale's page gives no conditions. | (none stated in the source) |
+| 7 | **Vapor refining / vacuum pyrolysis** of asteroid metal and of regolith (energy, yields): no primary found. | (none stated in the source) |
+| 8 | **Measured energy per kg of water from carbonaceous asteroid material**: no primary (rows 30, 122-124); the 2025 Acta Astronautica optical-mining paper (ScienceDirect S0094576525002334) not opened. | (none stated in the source) |
+| 9 | **ESA metal-printer sample analysis** (strength, porosity versus ground): ESA said "in the coming weeks" as of 21 Jul 2026; ESA image page of 1 Oct 2026 (row 39) was not re-opened in the resumed session. | (none stated in the source) |
+| 10 | **Wake Shield film-quality numbers** (mobility, defect density, measured wake vacuum): ADS and ScienceDirect blocked (row 56). | (none stated in the source) |
+| 11 | **ZBLAN fiber quality after return** (Flawless Photonics): not published in what was read. | (none stated in the source) |
+| 12 | **AMF build volume and largest polymer part printed in orbit**: user guide behind a login (row 42). | (none stated in the source) |
+| 13 | **China's 2020 in-orbit continuous-fiber composite printing**: press only (row 44); a CAST primary would settle part size. | (none stated in the source) |
+| 14 | **Pressure needed to solidify helium**: Swenson abstract gives no number; a handbook value was not opened. | (none stated in the source) |
+| 15 | **Lunar copper and rare-earth abundances by site** (beyond urKREEP): not searched beyond Crawford. | (none stated in the source) |
+| 16 | **Clean-room and ultrapure-water requirements of a semiconductor fab** (mass and power per wafer start): not searched. | (none stated in the source) |
+| 17 | **Freitas and Merkle KSRM Table/Appendix A** (all 9 artificial replicator data points): only section 5.2 text read. | (none stated in the source) |
+
+---
+
+## Batch 11: from `industrial_ramp_timelines.md` (480 lines; 16 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Lackner and Wendt (1995)** "Exponential growth of large self-reproducing machine systems" was not reachable; the auxon doubling time stays secondary (via Freitas and Merkle). | journal site or an institutional repository. |
+| 2 | **Chirikjian NIAC final report** (2004) not opened; only the KSRM summary was read. | (none stated in the source) |
+| 3 | **Freitas and Gilbreath, CP-2255 appendix 5I and the full NTRS copy (19830007081)**: the NSS scan was used; the NTRS original was not opened for an OCR cross-check of Table 5.2. | (none stated in the source) |
+| 4 | **Robot learning rate:** no primary Wright's-law estimate for industrial robots was found; the IFR price index stops in 2005. | combine the IFR index (1990 to 2005) with IFR cumulative installations to compute one (not done here because the installations series was not opened), or search the Santa Fe Institute performance-curve database. |
+| 5 | **Container shipping 1956 to 1980:** first-unit (Ideal X, 1956) to 10x and 100x could not be measured because the opened series starts in 1980. | Levinson, *The Box*, or UNCTAD Review of Maritime Transport back issues (the 2003 edition returned HTTP 403). |
+| 6 | **Internet backbone before 1990** and **submarine cable lit capacity by year** (TeleGeography historical series) not found as a primary year-by-year table. | (none stated in the source) |
+| 7 | **Tiangong** dates are from secondary sources only; | CMSA (cmse.gov.cn) English releases. |
+| 8 | **ISS EVA totals** (159 EVAs, 1,000 hours at assembly completion) are secondary; NASA confirms 157 by 22 May 2011. | (none stated in the source) |
+| 9 | **NREL transformer report** (McKenna, Abraham, Wang 2024) was unreachable (DNS failure for nrel.gov from this machine). | (none stated in the source) |
+| 10 | **NASA OIG IG-24-016** full PDF not opened; ML-2 figures are at search-summary level. | (none stated in the source) |
+| 11 | **World Nuclear Association** "121 months for 2023 connections" not opened (IAEA table used instead). | (none stated in the source) |
+| 12 | **Mars settlement studies** beyond Musk (2017) and Salotti (2020): no NASA or academic analysis of time and cargo to a stated Mars population was opened (for example the Mars Society city-state contest entries, or Do et al. 2016 on the Mars One plan). | "Do Owens Ho Schreiner de Weck 2016 Acta Astronautica Mars One spares launches". |
+| 13 | **Modern space-solar-power schedules** beyond NASA OTPS and Frazer-Nash: ESA SOLARIS and Caltech SSPD-1 were not covered. | (none stated in the source) |
+| 14 | **Jamestown tobacco exports** (50,000 lb by 1617) seen only in a search summary; NPS plantation-system article not opened. | (none stated in the source) |
+| 15 | **Terzi and Nicoli (2026)**: the last 31,000 characters of the article (methods and supplementary) were not read. | (none stated in the source) |
+| 16 | **Industrial "ramp to 10x and 100x" for semiconductor fabs** (as opposed to build time) not found. | (none stated in the source) |
+
+---
+
+## Batch 12: from `cyclers_and_large_slow_vehicles.md` (308 lines; 13 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Primary cycler papers not obtained:** Byrnes, Longuski, Aldrin 1993 (JSR 30(3)); McConaghy et al. 2002 (AIAA 2002-4420) and 2004 (JSR 41(4)) full texts; Russell and Ocampo 2004/2005; Chen, Landau, Longuski 2006 (low-thrust Aldrin cycler); Landau, Longuski, Aldrin 2007 (JBIS) full text; Landau and Longuski 2005 semi-cyclers. Purdue faculty-page PDFs returned a JavaScript gate (rows 5, 11); AIAA returned 403. | interlibrary or the Purdue e-Pubs dissertation PDFs of McConaghy (2004) and Landau (2007). |
+| 2 | **Earth-Venus and Mars-belt cyclers:** only Hollister and Menning citations and the Jones et al. 2017 abstract (triple cyclers, average transit-leg excess speed below 5 km/s). No Mars-belt, Mars-Jupiter or Earth-Ceres cycler study was found (dead at the sources, row 78). Russell and Strange 2009 (moon cyclers) not opened (JPL repository handle dead, rows 76-77). | (none stated in the source) |
+| 3 | **Leads found late, not opened:** IAC-16 "Mission analysis of potential Earth-Mars cycler" (iafastro.directory, IAC-16/A5/2/34350); "Two classes of cycler trajectories in the Earth-Moon system" (UAB portal); Rogers 2014 Purdue dissertation (AAI3636504). | (none stated in the source) |
+| 4 | **A mass budget comparing a cycler to direct conjunction transfer on equal assumptions:** Landau dissertation (2007) and Landau and Longuski "Part 2" are the likely sources; not opened. | (none stated in the source) |
+| 5 | **A quantitative study of a habitat larger than about 200 t that thrusts while spinning:** none found. | Borowski et al., "Conventional and Bimodal NTR Artificial Gravity Mars Transfer Vehicle Concepts" (NTRS 20140017461, found, not read); NTRS 19800022950 full text (found, not read); Coyner 1982 and Weddell 1978 full texts. |
+| 6 | **Hoffman and Kaplan, "Human Exploration of Mars: The Reference Mission," NASA SP-6107 (1997)**: not opened; DRA 5.0 used instead. | (none stated in the source) |
+| 7 | **NCOS (1986) "Pioneering the Space Frontier" 460-t cycler mass breakdown**: cited by Nock; not opened. | (none stated in the source) |
+| 8 | **Navigation accuracy for hyperbolic rendezvous** (position and velocity error budgets, tracking support): no figures found; Landau's dissertation chapter on flyby guidance is the next source. | (none stated in the source) |
+| 9 | **Solar sail cargo (Frisbee 2002)**: numbers only from a search summary; the AIP paper not opened. | (none stated in the source) |
+| 10 | **Hoyt and Uphoff, "Cislunar Tether Transport System," JSR 37(2), 2000**: not opened (citeseerx returned HTML); NIAC appendices (C, E, K, P, R) not read; PHLOTE (NTRS 20190000916) not read. | (none stated in the source) |
+| 11 | **SP-428 papers III-1, III-2, II-1, IV-1, IV-3**: fetched, not read. | (none stated in the source) |
+| 12 | **Rolffs 2025 "Rotation of Space Habitats" PDF**: not opened. | (none stated in the source) |
+| 13 | **Morrison 2018 thesis** (halo-orbit insertion of cyclers): PDF bot-gated (row 79). | (none stated in the source) |
+
+---
+
+## Batch 13: from `mercury_as_industrial_site.md` (582 lines; 11 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Free-metal content of the regolith.** Not measured; BepiColombo MIXS and a landed XRD (>1 wt% detection) are the routes. | McCubbin et al. 2017 (JGR) on Si-rich metal; BepiColombo MIXS first results. |
+| 2 | **Regolith bulk density, grain size, strength, thermal inertia.** Mitchell and de Pater 1994 (Icarus 110:2-32) and Vasavada et al. 1999 (Icarus 141:179) could not be opened (403/404). | BepiColombo MERTIS first results; Bauch et al. 2021 (Icarus, surface temperatures for MERTIS). |
+| 3 | **North-pole maximum illumination fraction.** Not found; Hamill et al. 2020 (PSJ 1:57) located but the PDF was dead. | (none stated in the source) |
+| 4 | **Radiation dose at Mercury and on its surface.** No dose rate found. BERM (Pinto et al. 2022, Space Sci. Rev.) located but no dose number seen; MESSENGER design dose requirement not found. | (none stated in the source) |
+| 5 | **BepiColombo MPO array design limits** (nominal and survival cell temperatures, power, test degradation): seen only in a search summary of E3S/DOAJ pages that returned 403. | ESA ESPC proceedings mirror, or Airbus papers. |
+| 6 | **Processing of high-sulfur, high-alkali regolith.** No study found. | molten oxide electrolysis and sulfur; vacuum pyrolysis volatility series for Na and K; McCubbin 2017 smelting hypothesis. |
+| 7 | **Electrolytic magnesium from silicate feed, energy per kg.** Only a terrestrial silicothermic figure in coal equivalent was found. | (none stated in the source) |
+| 8 | **Mercury mass driver / launch loop / Mercury industrialization studies.** None found in three extended searches here and in the sibling. | Criswell 1986 (planet deconstruction), Ehricke's Mercury studies (AIAA 67-28, cited by [PAL17]), JBIS archives. |
+| 9 | **Low circular orbit lifetime at Mercury.** Only MESSENGER's eccentric-orbit decay found. | frozen-orbit studies for BepiColombo MPO (480 x 1,500 km) such as the Zaragoza averaged-model paper (located, not read). |
+| 10 | **Exact conjunction durations** with Mercury's real orbit (eccentricity and inclination); D10 is a circular model. | (none stated in the source) |
+| 11 | **Sources found but not read:** Peplowski et al. 2016 (Nature Geoscience, carbon) full text; Lawrence et al. 2013 (Science, ice) full text; Chabot et al. 2018 polar deposits chapter; BERM paper; Hamill 2020; Zaragoza Mercury orbit paper (zaguan.unizar.es record 130420); NTRS 20120010094 (polar, not opened). | (none stated in the source) |
+
+---
+
+## Batch 14: from `venus_as_extraction_site.md` (437 lines; 14 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section, which is headed "Not found, or not confirmed:"; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | A real (not ideal) energy figure for nitrogen separation from a CO2-N2 mixture (membrane, adsorption or cryogenic); only the thermodynamic floor is here (D5). | (none stated in the source) |
+| 2 | Any plant-scale study of sulfuric acid droplet collection, or of acid cracking for hydrogen on Venus; the liquid-phase enthalpy of formation and vaporization enthalpy of H2SO4 were not sourced (the NIST page gave the gas only). | (none stated in the source) |
+| 3 | A clean (not OCR-degraded) density table for 75 to 92 wt% sulfuric acid. | (none stated in the source) |
+| 4 | Gamma-ray K, U and Th abundances from Venera 8, 9, 10 and Vega 1, 2 (named in Klingelhoefer and Fegley 2000; not extracted). | (none stated in the source) |
+| 5 | Any study of electromagnetic launch, rotating tethers, or beamed propulsion for Venus ascent. | AIAA and JBIS for "Venus" with "tether" and "launch", and NIAC final reports. |
+| 6 | Venus surface mining or ore-lifting engineering (none exists in what was found). | (none stated in the source) |
+| 7 | Lorenz 2018 lightning review (Springer login loop); Gilmore et al. 2017 surface composition review (same); Marcq et al. 2018 composition review (HAL, ANU, ORFEO all failed); Fedorova et al. 2008 (HAL failed); Hecht et al. 2021 MOXIE instrument paper (MIT DSpace 405) for MOXIE's power breakdown; Treiman 2007 (Wiley). | (none stated in the source) |
+| 8 | Kerzhanovich et al. 2005 dual-balloon full text (lift numbers); TOBIAS tether length and towbody mass. | (none stated in the source) |
+| 9 | Total near-Earth-object mass and measured volatile contents of returned C-type samples (Ryugu, Bennu) for a better comparison than CI chondrites (not searched; would be the next angle on checklist 2). | (none stated in the source) |
+| 10 | Newer lunar polar water totals (LRO, Mini-RF, later analyses) to replace the 2.9 x 10^12 kg upper scenario. | (none stated in the source) |
+| 11 | Primary VEGA balloon paper (Sagdeev et al., Science 1986) for envelope mass; only Dorrington's account was read. | (none stated in the source) |
+| 12 | The VIRA tables (Seiff et al. 1985), still missing (GRV), which would settle Conflicts 4. | (none stated in the source) |
+| 13 | Post-2016 status of aerocapture readiness at Venus. | (none stated in the source) |
+| 14 | **Found but not read:** Lorenz 2018 (Prog. Earth Planet. Sci., doi:10.1186/s40645-018-0181-x); arXiv:2208.05582 (aerial platform mission architecture); arXiv:2412.06830 ("A New Strategy for the Exploration of Venus"); NTRS 20205007668 (deep space habitat with a Venus flyby); Dorrington, "Venus atmospheric platform options revisited", Adv. Space Res. (2010, ScienceDirect); the 2026 mass-inventory compilation arXiv:2603.17561; ResearchGate "Evaluation of materials for Venus aerobot applications". | (none stated in the source) |
+
+---
+
+## Batch 15: from `inner_system_logistics_network.md` (849 lines; 12 open threads)
+
+*(Entered 2026-10-11 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Mercury-to-Earth and Mercury-to-Venus cargo trajectories with flybys:** no study found; only outbound (Earth-to-Mercury) designs (rows 4-6, 12, 22, 50). | Langevin, Acta Astronautica 47 (2000) 443-452 (paywalled); C. W. Yen, "Ballistic Mercury orbiter mission via Venus and Mercury gravity assists", J. Astronautical Sciences 37 (1989) (not located); NTRS 19740013378 (found, not opened); the ScienceDirect paper "Solar sail missions to Mercury with Venus gravity assist" (found, not opened). |
+| 2 | **Earth-Venus cycler numbers:** Hollister and Menning's own papers and the Jones-Hernandez-Jesick triple-cycler full text (ResearchGate, not readable by the tools) were not obtained; only abstracts (rows 13-21, 109). | (none stated in the source) |
+| 3 | **BepiColombo transfer-module array power versus Sun distance:** Steiger et al. Fig. 14 is a plot (not extracted as numbers); the ESPC 2017 array papers returned HTTP 403 (row 34); the "about 13 kW peak" figure came only from a search summary. | ESA BepiColombo Red Book, the 2011 ESPC paper via another host. |
+| 4 | **Sail lifetime and degradation near the Sun**, and optimal-control sail transfer times above about 0.5 mm/s^2 (D6's simple law fails there). | McInnes, *Solar Sailing* (1999); Dachwald's slides (found, not opened); NASA sail degradation studies. |
+| 5 | **High-Isp electric propulsion on water** (performance of AQUAHET or ion thrusters on water): no figures found (rows 94-96). | (none stated in the source) |
+| 6 | **Release accuracy of a mass driver for an interplanetary throw**, and catcher dynamics at Sun-Mercury L1/L2 (Mercury's Hill radius about 221,000 km): no source. | (none stated in the source) |
+| 7 | **A sized destination processing node** for bulk inner-system cargo: none found. | (none stated in the source) |
+| 8 | **Relay constellations for conjunctions** (count, orbit, power): only the qualitative recommendation of Morabito and Hastrup (row 77). | (none stated in the source) |
+| 9 | **Radiation dose to electronics at 0.3 to 0.5 AU** (MESSENGER and BepiColombo radiation-monitor data), and solar-wind and dust environment at Mercury orbit: not searched in depth. | (none stated in the source) |
+| 10 | **Venus cloud-level composition** (the NSSDC mixing ratios are near-surface): not searched. | (none stated in the source) |
+| 11 | **Space solar power exported from Mercury or another inner site:** no published engineering concept found (row 87). | (none stated in the source) |
+| 12 | **Sources found but not read:** arXiv 1706.05443 (SEP radial dependence model); arXiv 0809.3535 (beryllium hollow-body sail; likely source of the killed 1,000 K claim, row 63); Kim, Hu, Cucinotta (AIAA 2005) on acute exposure; Posner, Space Weather (2007) paper itself; NASA STRG page on an Earth smallsat aerocapture test; Georgia Tech aerocapture theses; Hughes, Macdonald et al., "Terrestrial planet sample return missions using solar sail propulsion" (Strathprints 6245). | (none stated in the source) |
+
+---
+
+## Batch 16: from `planet_deconstruction_literature_and_engineering.md` (353 lines; 12 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Dyson 1966** ("The search for extraterrestrial technology"): text not found online; it would give Dyson's own disassembly mechanism and numbers. | a library copy of *Perspectives in Modern Physics* (1966), or Dyson's *Selected Papers* (1996). |
+| 2 | **Criswell 1985** chapter (pp. 50-87): lending-restricted on the Internet Archive | a library loan. Wright cites it as the reference for deconstructing planets. |
+| 3 | **Published A&S** (*Acta Astronautica* 89, 2013): closed access; check whether sec. 4.2 and its numbers survived publication. | (none stated in the source) |
+| 4 | **Benz et al. 2007** ("The Origin of Mercury", *Space Sci. Rev.* 132): blocked by the publisher's cookie redirect; Asphaug and Reufer 2014 (*Nature Geoscience*) not opened. | (none stated in the source) |
+| 5 | Kolm et al. 1980 MIT report on electromagnetic guns (A&S ref. 37) and the coilgun-efficiency claims behind A&S sec. 4.3: not opened. | (none stated in the source) |
+| 6 | No peer-reviewed critique of A&S's disassembly section was found; only forum discussion (rejected). Searching citing papers of A&S (96 citations per OpenAlex) for "Mercury" would be the next step. | (none stated in the source) |
+| 7 | Slingatron throughput and status (Tidman's NSS papers surfaced, not read). No source at all was found for electromagnetic acceleration of loose, uncontained material (as opposed to payload packages); every launcher design read throws discrete payloads. | (none stated in the source) |
+| 8 | A second, independent source for Lacki's collision-time ratio at Mercury's distance (only his 1 AU and 0.32 AU rows were used). | (none stated in the source) |
+| 9 | Catching and orbital processing at planetary rates: no source found that sizes the orbital factories or a placement rate. | (none stated in the source) |
+| 10 | Hephaistos contamination and radio follow-up papers (arXiv:2405.14921, 2501.05152) surfaced by title only. | (none stated in the source) |
+| 11 | The thermodynamic concentration limit in suns (Gleckman et al. 1989 PDF) not read; the étendue point here rests on the photosphere-flux arithmetic and the paper's abstract. | (none stated in the source) |
+| 12 | The Galaxies 2022 Kardashev-timeline paper and Hanson's "Burning the cosmic commons" surfaced and were not read (forecasts and economics, not engineering). | (none stated in the source) |
+
+---
+
+## Batch 17: from `mercury_whole_planet_inventory_and_extraction.md` (392 lines; 12 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Measured bulk composition:** none exists; BepiColombo enters Mercury orbit in November 2026 (row 59) and may tighten C/MR^2, the core radius and the inner core. Re-search after its first interior results. | (none stated in the source) |
+| 2 | **Morgan and Anders 1980 table:** could not be opened (rows 3-4); [ES17] states its assumptions are invalidated, so it was not pursued further. | (none stated in the source) |
+| 3 | **Hauck et al. 2013 (JGR Planets), Namur et al. 2016a/b, Knibbe and van Westrenen 2015/2018, Brown and Elkins-Tanton 2009:** cited inside the reviews read; full texts not opened. | arXiv or institutional repositories. |
+| 4 | **Present-day surface heat flux:** only derived here (13.8-16.7 mW/m^2); [KNI25] Fig. 2c plots it but was not read off. | Tosi 2013 full text; Peterson 2021. |
+| 5 | **Temperature profile with depth:** only boundary values found; the linear interpolation in D3 is a stand-in. | PRMM temperature table, Tosi 2015 3-D models. |
+| 6 | **Melt fraction on unloading:** needs a thermodynamic melting model (pMELTS-type) for Mercury mantle compositions under instant unloading; none found. | (none stated in the source) |
+| 7 | **Low-pressure liquidus of Fe-Si-S alloys and their vapor pressures (Si, S):** not searched beyond pure Fe (time spent on the bulk models instead). | Fe-Si phase-diagram handbooks. |
+| 8 | **Nitrogen and noble gases on Mercury:** no measurement found (row 45). | (none stated in the source) |
+| 9 | **Total rock moved on Earth per year including waste rock:** not found; only recoverable content, all materials and tailings. | (none stated in the source) |
+| 10 | **Primary source for Bagger 293 capacity** (TAKRAF document) and for the Kola borehole: only secondary pages. | (none stated in the source) |
+| 11 | **Any engineering study of planetary-scale excavation, liquid-metal handling, or tailings disposal:** none found (rows 38-39). | (none stated in the source) |
+| 12 | **Sources found but not read:** Schandl et al. 2024 (J. Ind. Ecol., 403); UNEP GRO 2024 full report (403); Global Tailings Review ch. VII (HTML shell); Maclennan 2002 (HTML shell); Tosi et al. 2013 full text. | (none stated in the source) |
+
+---
+
+## Batch 18: from `venus_whole_planet_inventory_and_stripping.md` (395 lines; 10 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Fogg 1987 (JBIS 40, 551-564), Adelman 1982 (JBIS 35, 3-8), Smith 1989 (JBIS 42, 571-576), Birch 1993 (JBIS 46, 311-313, abstract only), Birch 1991 "Supramundane Planets" (JBIS 44, 169-182):** not open; the BIS shop sells them. The hydrogen figure and the Mercury Ca/Mg import (0.5% of Mercury's mass) trace to one of these. | (none stated in the source) |
+| 2 | **Zubrin and McKay as named in the brief:** the 1993 Zubrin and McKay paper is a Mars paper (MVT 3.11); no Venus atmosphere removal study by them was found; Zubrin 1990 (NIMF propellants) is used here instead. A further search would target Zubrin's books (not primary). | (none stated in the source) |
+| 3 | **Gladman et al. 1996 (Science 271, 1387):** the Venus ejecta fractions; not open. Would replace the Mercury analog in 3.5. | (none stated in the source) |
+| 4 | **Correia and Laskar 2001/2003 and Ingersoll and Dobrovolskis 1978:** for a proper despinning timescale without thermal tides (the 18 Myr in D5 is a crude scaling). | (none stated in the source) |
+| 5 | **Konopliv and Yoder 1996** (k2) and **Amorim and Gudkova 2023** (PREM-based structure): read only via citing papers. | (none stated in the source) |
+| 6 | **Venus basalt thermal properties at 300 to 750 K** and a bare-surface albedo: no Venus measurement exists; D8 uses terrestrial values and a lunar albedo. | (none stated in the source) |
+| 7 | **Whether carbonates exist on Venus** (Fegley 2004 lists arguments for and against): decides whether removal of the air would be followed by outgassing from the surface. | (none stated in the source) |
+| 8 | **Decompression or unloading effects on volcanism** when 9.2 MPa is removed: no study found. | (none stated in the source) |
+| 9 | **World mining throughput** as an anchor for the excavation rates in D4: not searched here (the Mercury inventory agent's checklist covers it; not read, per the rules). | (none stated in the source) |
+| 10 | **Venus Express absolute ion escape rates** were read only through Gillmann 2022 (Barabash 2007 full text not open). | (none stated in the source) |
+
+---
+
+## Batch 19: from `planetary_scale_power_and_heat.md` (650 lines; 10 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Launcher pulsed-power efficiency, end to end** (bus to coils, including switching and storage): not found (row 78). | DTIC ADA192102 and ADA143778 (surfaced, not opened); UT-CEM compulsator reports; the papers Armstrong and Sandberg cite for coilgun and quenchgun efficiency (their refs 38-40). |
+| 2 | **Planet-side heat removal by any means other than surface radiation:** hot-payload export (D8 suggests it closes only for very efficient launchers), heat carried away by launched coolant, or launchers in orbit around the planet fed by tether or skyhook. No source found; this is the first thing to search next. | (none stated in the source) |
+| 3 | **Sink temperature inside a dense swarm:** Wright 2023's optical-depth treatment is for the whole swarm; the radiator sink for elements inside a swarm of optical depth near 1 was not computed or found. | (none stated in the source) |
+| 4 | **Degradation rates near the Sun:** MESSENGER and BepiColombo array degradation per year in flight (only the BepiColombo test figure in [ME] and the Helios qualitative account were found); the ICES paper "Parker Solar Probe Solar Array Cooling System In-Orbit Performance Review" (TTU repository, 403 both ways). | (none stated in the source) |
+| 5 | **Hot-cell efficiency data:** Landis 2023 chapter (NTRS 20230002489, abstract only); INTA HTHI temperature coefficients (restricted); arXiv 2608.11113 (high-temperature PV for solar-electric Oberth maneuvers, surfaced, not opened). | (none stated in the source) |
+| 6 | **Primaries not opened:** Dyson 1960 (Science) and 1966; Badescu 1995 (Acta Astronautica 36:135); Criswell 1986 (left to section 1); the full HTS cable paper (Sadeghi et al. 2024, open access); Ignatiev IAC-05 crawler paper (a ~200 kg crawler and "1 MW in several years" in a search summary). | (none stated in the source) |
+| 7 | **Mercury trace elements for cells:** Ga, In, As, Ge, P, B abundances at Mercury's surface (not found; only CI-chondrite values in [PR]). | (none stated in the source) |
+| 8 | **Venus's infrared absorptivity** if lit by a hot swarm instead of sunlight (D10 assumes ~1). | (none stated in the source) |
+| 9 | **Heat capacity of silicate rock above 350 K** (D8 uses the 350 K Apollo value as a lower bound; real hot rock carries more). | (none stated in the source) |
+| 10 | **Large-array specific power with flight mass:** iROSA wing mass (not published in what surfaced); the NASA SoA 2024 power chapter table (PDF not surfaced). | (none stated in the source) |
+
+---
+
+## Batch 20: from `orbital_dynamics_of_planetary_harvesting.md` (420 lines; 9 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **No N-body study of removing or reducing Venus or Mercury exists in what surfaced** (S3r, S7). | run a REBOUND or Mercury6 ensemble (with GR) with Venus's mass ramped down over 10^3 to 10^7 yr, measuring Mercury's e and Earth's eccentricity spectrum; search terms "planet mass removal secular resonance sweeping terrestrial", "Venus mass Milankovitch", and the Kane / Horner / Vervoort group's other papers (refs 28, 38, 74 in F8 not opened). |
+| 2 | Second-order secular theory or a published secular code would place g5 correctly; my estimates bracket the error instead. | (none stated in the source) |
+| 3 | Gladman et al. 1996 Science 271:1387 (paywalled) and Melosh & Tonks 1993 not opened; the 30% Venus-to-Earth figure is second-hand. | (none stated in the source) |
+| 4 | Stenborg & Howard 2018 and Jones et al. 2013/2017 not opened directly (numbers via NASA news). | (none stated in the source) |
+| 5 | Station-keeping cost at Sun-Mercury and Sun-Venus L1/L2 with solar radiation pressure: no study found | "libration point orbit Mercury Sun L1 BepiColombo station keeping" and "solar sail displaced L1 Mercury". |
+| 6 | Correia & Laskar 2001 and 2004 (Nature) read only at abstract level; Margot et al. 2012 C/MR^2 and Genova et al. 2019 only via summary. | (none stated in the source) |
+| 7 | No study of launch torque on a planet's spin, of mass-driver recoil on a planet's orbit, or of tidal stress during planetary unloading was found. | "mass driver torque planet rotation", "asteroid spin change mass driver ejecta" (asteroid-deflection literature is the nearest analog), "global unloading decompression melting planet". |
+| 8 | The heliocentric dust-input rate of the natural cloud (600 to 10,000 kg/s in summaries) was not confirmed on a page. | (none stated in the source) |
+| 9 | Not covered: Yarkovsky drift of meter-to-kilometer cargo near Mercury (Xu et al. 2022 and Lacki 2025 point to it); the effect of a large co-orbital swarm's own mass on Mercury (negligible unless the swarm approaches a planetary mass). | (none stated in the source) |
+
+---
+
+## Batch 21: from `oxygen_and_hydrogen_supply_for_mars_water.md` (432 lines; 13 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Comet and Kuiper-belt water inventories**: the Choukroun et al. 2020 review (Space Sci. Rev. 216) could not be read (bot walls at HAL and BORIS; DLR abstract has no numbers). | arXiv copy of the review; Rosetta 67P mass and porosity papers. |
+| 2 | **Phobos and Deimos water and oxygen content**: unmeasured; MMX returns samples in 2031. | Murchie or Fraeman spectral papers on 2.7 um band depths. |
+| 3 | **Any oxygen process on a high-sulfur, high-alkali feed (Mercury)**: none found twice (rows 62-63; sibling F10). | (none stated in the source) |
+| 4 | **Non-rocket export from Venus**: none found twice (row 61; sibling row 76). | (none stated in the source) |
+| 5 | **A capture-and-store solar-wind collector**: none found (rows 29-31). The SWIFT papers (IAC-14, IAC-15) were read as abstracts only; their full texts might give inlet mass per area. | (none stated in the source) |
+| 6 | **In-orbit LH2 boil-off measured on a flight tank**: not found; only models and ground tests (rows 47-51). | CRYOTE and Starship propellant-transfer flight data when published. |
+| 7 | **Hydrogen and oxygen flammability and detonation limits** (for the safety row in F8): not sourced this session. | (none stated in the source) |
+| 8 | **Water fusion and sublimation enthalpies** (for ice-melting energy): the NIST phase-change page did not return values (row 58). | (none stated in the source) |
+| 9 | **Clathrate hydrate and hydrazine handling data**, and metal-hydride release temperatures: not sourced. | (none stated in the source) |
+| 10 | **Iron(III) oxide reduction enthalpies**: NIST pages without values (row 54). | (none stated in the source) |
+| 11 | **Mars mid-latitude ice volume**: only qualitative here ("100s of meters"); SHARAD volume papers not opened. | (none stated in the source) |
+| 12 | **A low-thrust Mercury-to-Mars trajectory study**: none; D7's 30 km/s is an Edelbaum-style estimate. | (none stated in the source) |
+| 13 | Found and not read: arXiv 1407.4258 (CME review), arXiv 1204.2776 (slow-wind helium), arXiv 2306.03164 (Metzger thermal extraction model), NTRS 20160013682 (M-WIP NTRS copy), NASA Mars ice drilling assessment, NTRS 20070014073 (lunar solar-wind volatile loss). | (none stated in the source) |
+
+---
+
+## Batch 22: from `mars_water_budget_and_retention.md` (415 lines; 8 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | Papers seen only as abstracts or press releases: Stone et al. 2020 (Science 370:824; LPL copy 404); Chaffin et al. 2021 full text (INAF copy no connection, OU 403); Gunell et al. 2018 (A&A 403); Haberle et al. 2001 JGR (only a search summary; the NTRS hit was a different paper); Nerozzi and Holt 2019 GRL; Levy et al. 2014 JGR; Putzig et al. 2009 Icarus (Smithsonian copy 403; dust fraction of the NPLD not found); Wernicke and Jakosky 2021 (hydrated minerals; DOI unknown); Stuurman et al. 2016 GRL; Orosei et al. 2018 (LPL copy returned HTML); Melosh and Vickery 1989; McKay et al. 1991 (Nature); Villanueva 2015 full paper; Lasue et al. 2013 (HAL bot wall). | (none stated in the source) |
+| 2 | **Energy-limited cap on hydrogen escape** if delivered water raised the upper-atmosphere hydrogen far above today's: needs the XUV flux at Mars and an efficiency (Ramstad 2017's F_XUV scaling is a lead). | "energy-limited escape Mars hydrogen XUV flux MAVEN EUVM". |
+| 3 | **How a deliberately thickened, warmed atmosphere changes the cold trap**: a GCM study of water transport to the homopause under 10 to 1,000 mbar (Green 2017 planned such runs; none published found). The closest analog found is the high-obliquity model (Gilli 2025, 18.5 x more H loss in a wetter atmosphere). | "Mars GCM thicker atmosphere water vapor homopause hydrogen escape terraformed". |
+| 4 | **Emirates Mars Mission hydrogen escape 2021 to 2023** (Chaffin et al., EGUsphere 2023): abstract read (seasonal factor >10); absolute rates and the full paper not opened. Space Science Reviews 2024 review "Mars' water cycle and escape" behind a login. | (none stated in the source) |
+| 5 | **Rock oxygen inventory of Mars** (for combining imported hydrogen with local oxygen): not quantified here; sibling section 6 (`oxygen_and_hydrogen_supply_for_mars_water.md`) is the place; I did not read it (not in my read list). | (none stated in the source) |
+| 6 | **The solar wind's own hydrogen mass fraction** was not sourced; D6 uses the photosphere value (0.7438) as a stand-in. | (none stated in the source) |
+| 7 | **Infiltration rate** of delivered liquid water into Martian regolith and megaregolith: no number found. | (none stated in the source) |
+| 8 | **Nitrate inventory**: only "about 300 ppmw" in sands (Ansari, citing Stern 2015); a global inventory was not found. | (none stated in the source) |
+
+---
+
+## Batch 23: from `benefits_of_mining_mercury.md` (454 lines; 9 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **No Mercury process study** (regolith to oxygen, Mg, Al, Si) and no Mercury regolith density, strength or free-metal content ([ME] Open threads). | BepiColombo MIXS/MERTIS results; McCubbin et al. 2017 on Si-rich metal. |
+| 2 | **Aluminum and magnesium energy, second primary source.** IAI statistics pages render by script (rows 5, 9) and the BlueGreen benchmark is a chart only (row 65). | IAI annual statistical PDFs; IEA Aluminum tracking report; a peer-reviewed magnesium life-cycle study that states whole-plant electricity (none was opened this session). |
+| 3 | **Silicon metal energy, second source.** Schei, Tuset, Tveit, *Production of High Silicon Alloys* (1998), cited by [KSI16], not opened; NREL fy25osti/89464 not reachable (row 22). | (none stated in the source) |
+| 4 | **Low-iron glass specification** (Fe2O3 limit and transmittance) from a standard or peer-reviewed source (rows 59-60). | (none stated in the source) |
+| 5 | **Heat-engine power between sunlit rims and cold traps at Mercury**: no concept found (row 35). | lunar thermal-wadi and regolith thermal-storage papers (HAL 02887846 located, not opened) adapted to Mercury's 88-day night. |
+| 6 | **Mercury-sourced sunshades or collectors** for Venus or Earth: none found (rows 42-47). Venus-sunshade masses in terraforming reviews were seen only in summaries (row 45). | (none stated in the source) |
+| 7 | **Near-Sun missions using Mercury or Mercury flybys** to reach low perihelia: none found; the D2 arithmetic is impulsive and coplanar and ignores flybys of Venus or Mercury that a real trajectory would use. | (none stated in the source) |
+| 8 | **Dose at Mercury for electronics** (needed for F6): still no number ([ME] Open threads). | (none stated in the source) |
+| 9 | **Sources found but not read**: Harrop and Schulze-Makuch 2010 (IJAsB 9:89, solar-wind power satellite); Google's Suncatcher preprint; Hamill 2020 polar illumination; HAL 02887846 (lunar thermal storage). | (none stated in the source) |
+
+---
+
+## Batch 24: from `benefits_of_mining_venus.md` (416 lines; 13 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **A real separation energy for N2 from a CO2-N2 mixture** (membrane, adsorption, cryogenic); only the floor is known ([VE] D5). | (none stated in the source) |
+| 2 | **Crop nitrogen inventory per person in a closed habitat** (biomass plus soil); SP-413 lists masses but not nitrogen content. | (none stated in the source) |
+| 3 | **Bulk nitrogen of Ryugu and Ceres**, and the confirmed comet values (Fray et al. 2017, Bardyn et al. 2017, MNRAS; both blocked by Cloudflare at OUP and Anubis at HAL) | ADS full text, Rosetta archive summaries. |
+| 4 | **The nitrogen release temperature and yield from carbonaceous material** (only water release was found, via [SYN]). | (none stated in the source) |
+| 5 | **A delta-v figure for the Venus-swing-by saving on crewed Mars missions** (NTRS abstracts give none | the Drake 2013 slides and Wooster et al. 2007, "Mission design options for human Mars missions"). |
+| 6 | **Titan as a nitrogen source** (lecture-slide lead: about 9 x 10^18 kg of N2) | NSSDC Saturnian satellite fact sheet and Huygens surface pressure, to derive it. |
+| 7 | **A molten-carbonate electrolysis plant energy figure at scale** from a peer-reviewed source (the Tampere/Elsevier paper returned HTML; the Licht figure is from a competition submission). | (none stated in the source) |
+| 8 | **The Acta Astronautica papers** "Feasibility of power beaming through the Venus atmosphere" (2023) and "Venus Aerial Platforms: Long-Lived Balloons with ISRU for Buoyant Gas Replacement" (2026): found, paywalled, not read. | (none stated in the source) |
+| 9 | **A shielding comparison with numbers** (dose per g/cm^2 for carbon, CO2 ice or basalt against polyethylene). | (none stated in the source) |
+| 10 | **Plant nitrogen minimum** (the "10 mbar" attributed to McKay et al. 1991): needs the Nature paper or McKay and Marinova 2001. | (none stated in the source) |
+| 11 | **Basalt-fiber properties and composition limits** from a peer-reviewed review (MDPI blocked). | (none stated in the source) |
+| 12 | **Phosphorus in the lower cloud** (Vega, [VE] 3.1): no abundance found; phosphorus is a fertilizer input Venus may or may not supply. | (none stated in the source) |
+| 13 | Found but not read: Penn State pure.psu.edu records on lithium-combustion power (2018 to 2020); the Southampton Hall-thruster propellant review; Wikipedia's Parker Solar Probe page (not needed). | (none stated in the source) |
+
+---
+
+## Batch 25: from `benefits_of_mining_the_sun.md` (440 lines; 11 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Gloeckler and Geiss (1998), Space Sci. Rev. 84:275** (Ulysses SWICS 3He/4He in slow vs fast wind): record found, every copy blocked (rows 22, 23). | an ADS full-text scan or a library copy. |
+| 2 | **Bochsler (2007), "Minor ions in the solar wind"** (A&A Rev.): both copies dead (first-run rows 15, 16). Would give a second compilation of wind abundances by regime. | (none stated in the source) |
+| 3 | **Genesis Mg and Fe fluences (Jurewicz et al. 2019; Burnett et al. 2017):** appear only in a search summary (row 19); the 2020 Jurewicz paper read (row 69) gives isotopes only. They would fix the absolute metal yield without the H normalization. | (none stated in the source) |
+| 4 | **The APL Interstellar Probe study report and the full McNutt et al. 2022 paper:** the SOM verdict is read only through Centauri Dreams (rows 44 to 47). | the report on the APL Interstellar Probe site. |
+| 5 | **Solar-thermal propulsion flight Isp with hydrogen**; the "760 s demonstrated" claim is only in a search summary (row 63). | AIAA papers on the Solar Thermal Upper Stage; McNutt AIAA-2001-3377 (dead copy, row 43). |
+| 6 | **Sail degradation near the Sun** (polyimide limit 520 K, [NW]) | McInnes, *Solar Sailing* (1999), and the Solar Cruiser materials data. |
+| 7 | **A measured escaping-positron flux in the corona or solar wind**: none found (rows 58, 59). | PSP or Solar Orbiter energetic-particle instrument papers on positrons. |
+| 8 | **Caplan (2019) and Svoronos (2020) full texts**: abstracts only. | (none stated in the source) |
+| 9 | **NASA OTPS appendix tables** (mass by subsystem) were not read line by line; they would resolve Conflict 6. | (none stated in the source) |
+| 10 | **Sources found but not read:** arXiv 2307.12411 ("Chasing Nomadic Worlds"); Energy Institute 2026 Review PDF (blocked); journaldephysique jp4:1999309 (blocked); Fleishman et al. (flare positrons, microwave detection). | (none stated in the source) |
+| 11 | **Not searched:** UV dose for sterilization near the Sun (dry heat suffices, F6); the economics of any solar product (sibling `value_and_markets_of_inner_system_materials.md` covers markets). | (none stated in the source) |
+
+---
+
+## Batch 26: from `value_and_markets_of_inner_system_materials.md` (507 lines; 12 open threads)
+
+*(Entered 2026-10-12 from the source file's "Open threads" section; the source's wording is kept. "Next:" is the source's own suggestion; where the source gave none, the cell says so.)*
+
+| # | Item | Search next |
+|--:|---|---|
+| 1 | **Xenon, krypton and argon prices.** USGS publishes none; NASA's 2015 paper shows the history only in a figure. | the original Betzendahl or Linde market reports, or Lindner 2023's price slide ([TR] source), read directly. |
+| 2 | **Current helium-3 price.** Only the 2011 CRS figure is primary. | the DOE Isotope Program (isotopes.gov) price list or a NIDC auction notice. |
+| 3 | **Current vendor launch prices.** SpaceX's capabilities and rideshare pages are script-rendered and returned no text (rows 15, 17). | an archived copy (Internet Archive) or a GAO or NASA OIG report quoting the contract price. |
+| 4 | **Space solar-array cost per watt.** No primary source found (rows 50, 51). | AFRL ROSA program reports, or NASA OTPS 2024 Appendix B (its manufacturing cost inputs), which I did not read. |
+| 5 | **Mass-produced spacecraft cost per kg** (Starlink, OneWeb): no primary source found; Hein's $10,000/kg rests on it. | (none stated in the source) |
+| 6 | **Studies cited only through Metzger:** Kornuta et al. 2019 (paywalled, row 61), Jones et al. SciTech 2019, Charania and DePasquale 2007, Bennett et al., Shisko's review, Ross et al. 2009 and Andrews and Andrews (elasticity). Not opened. | (none stated in the source) |
+| 7 | **Earth-return mass fraction for valuable cargo** (capsule mass per kg returned): only secondary figures found (row 60). | (none stated in the source) |
+| 8 | **A historical analog of a supply flood** (for example aluminum's price after electrolytic production, USGS Data Series 140 historical statistics): not searched; it would test Nachtrieb and Smith's 5.5-fold collapse against history. | (none stated in the source) |
+| 9 | **World electricity 2025** read only from a search summary (row 58); IEA *Electricity 2026* not opened. | (none stated in the source) |
+| 10 | **No study prices any material from Mercury, Venus or the solar wind**, and none sizes a receiving and processing node ([NW] F5). Every Mercury, Venus and solar-wind figure in F and G is this file's derivation. | (none stated in the source) |
+| 11 | **NASA OTPS LCOE method** (C6): the discounting and availability assumptions behind $0.61/kWh not read in full. | (none stated in the source) |
+| 12 | **Mars-surface delivered price**: no observed price exists (no commercial Mars delivery); the floor in D6 is propellant-only. | (none stated in the source) |
+
+---
+
 ## Proposed research topics
 
 | # | Topic | Raised | Notes |
 |--:|---|---|---|
 | P1 | **DONE 2026-10-11** (`research/waste_heat_utilization.md`; open threads in Batch 6). **Waste-heat utilization in a vacuum habitat.** Can a station use the heat it must reject to drive other processes (heat pumps to raise radiator temperature, thermoelectric and organic Rankine conversion, endothermic chemistry, distillation and drying, thermochemical processes)? What the second law and real systems allow at low temperatures. | developer, 2026-10-11 | The developer asked Grok about this "several months ago" and believes the answer was pasted into a file. **Searched on 2026-10-11 and not found:** the only Grok conversation on orbital infrastructure (`to-be-integrated/Conversation with Grok - theoretical logistics for orbital infrastructure.rtf`; an identical copy is in CurrentNovelDocs) is the mass-budget discussion and has no heat content. Treat any Grok answer as an unverified lead; re-source from primary literature. Ask the developer to point to the file or re-paste it. |
-| P2 | **Heat batteries (thermal energy storage) for stations in orbit** around the Sun, Moon, Mars, Jupiter and Saturn: eclipse and shade statistics per body, storage figures for the Jovian and Saturnian cases, comparison with oversizing batteries or radiators; the heliocentric case (no planetary eclipse). | developer, 2026-10-11 | Synthesis in `waste_heat_utilization.md` §10.2. The file's storage cases are lunar night and ISS-class eclipse only. |
-| P3 | **Thermal environment and heat use at Earth-Moon and Sun-Earth L4/L5 ("grav-locked" stations):** eclipse and Sun-angle statistics from orbital mechanics (calculate, arithmetic shown); radiator and heat-pump sizing for a stated power; which heat uses apply when there is little or no eclipse; what JWST at L2 shows. | developer, 2026-10-11; **for 2026-10-12** | §10.3 of the waste-heat file frames the questions. Results become parameters of an "Orbital habitat at a Lagrange point" class (not yet written). |
+| P2 | **PARTLY DONE 2026-10-11: eclipse and shade statistics, sunlight and the heliocentric case are calculated in `body_orbit_eclipse_calculation.md` (Moon, Mars, Jupiter, Saturn; validated on Earth GEO). Still open: heat-storage figures for the Jovian and Saturnian cases beyond the per-kW table there, the battery-cycle-life and PCM-cycling evidence (companion file `lagrange_thermal_environment.md`), orbits about the outer moons, Saturn's rings.** **Heat batteries (thermal energy storage) for stations in orbit** around the Sun, Moon, Mars, Jupiter and Saturn: eclipse and shade statistics per body, storage figures for the Jovian and Saturnian cases, comparison with oversizing batteries or radiators; the heliocentric case (no planetary eclipse). | developer, 2026-10-11 | Synthesis in `waste_heat_utilization.md` §10.2. The file's storage cases are lunar night and ISS-class eclipse only. |
+| P3 | **CALCULATED 2026-10-11 in `lagrange_eclipse_calculation.md` (circular model, validated on lunar eclipses; cross-checked with JPL Horizons DE441); sourced mission and heritage evidence in `lagrange_thermal_environment.md` (agent, complete). Results: the Earth-Moon points themselves are unstable (e-folding 318 days) and a station sits on a large one-month orbit; along it about 1 to 1.5 total eclipses a year (at most about 182 min) and 2.4 to 3.2 dimming events a year (at most about 352 min); Sun-Earth L4/L5 have none; a heat battery does not pay at either; a heat pump does not pay in area against the cold sink.** **Thermal environment and heat use at Earth-Moon and Sun-Earth L4/L5 ("grav-locked" stations):** eclipse and Sun-angle statistics from orbital mechanics (calculate, arithmetic shown); radiator and heat-pump sizing for a stated power; which heat uses apply when there is little or no eclipse; what JWST at L2 shows. | developer, 2026-10-11; **for 2026-10-12** | §10.3 of the waste-heat file frames the questions. Results become parameters of an "Orbital habitat at a Lagrange point" class (not yet written). |

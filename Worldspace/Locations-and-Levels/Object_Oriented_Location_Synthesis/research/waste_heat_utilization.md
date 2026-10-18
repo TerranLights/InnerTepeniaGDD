@@ -508,3 +508,10 @@ oversized-battery and oversized-radiator options at the cycle length found in (a
 (JWST at Sun-Earth L2 is a flown comparison; no mission has flown at L4/L5) manage their thermal environment. **The L4/L5 results
 belong in the class library as parameters of the "Orbital habitat at a Lagrange point" class, which does not exist yet.**
 
+
+## 10.4 Follow-up, 2026-10-11 evening (appended; nothing above was changed)
+
+Developer points §10.2 and §10.3 are worked in two calculation files written by the orchestrator, each with scripts and raw output in `research/_calc/`:
+- `lagrange_eclipse_calculation.md`: eclipse and Sun-angle statistics for Earth-Moon and Sun-Earth L4/L5 (circular model validated on NASA's lunar-eclipse counts and cross-checked against JPL Horizons DE441), radiator, heat-pump and storage sizing. Short answer: Earth-Moon L4/L5 have about 1.1 total eclipses a year of at most about 170 minutes; Sun-Earth L4/L5 have none; a heat battery has no cycle to carry the station through at either; a heat pump does not pay in area against the cold sink.
+- `body_orbit_eclipse_calculation.md`: eclipse and sunlight statistics for circular orbits about the Moon, Mars, Jupiter and Saturn (validated on Earth GEO against NOAA's 72-minute figure) and the heliocentric case (no eclipse).
+Sourced mission and heritage evidence: `lagrange_thermal_environment.md` (research agent).
