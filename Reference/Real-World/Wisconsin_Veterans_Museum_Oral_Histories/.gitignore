@@ -1,0 +1,5 @@
+# Third-party transcripts (Wisconsin Veterans Museum): retained locally for research, NOT redistributable.
+# The museum's terms: research use permitted; copying without permission is not. Same convention as Reference/Materials/books/.
+transcripts_pdf/*
+transcripts_txt/*
+_all_interview_stems.txt
