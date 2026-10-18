@@ -23,7 +23,9 @@
 > like the bite)*. **It wants a deliberate pass.**
 
 
-## Uncommitted work held back from the 2026-10-13 commit — decide commit/push, item by item — listed 2026-10-18
+## ✅ RESOLVED 2026-10-18 — Uncommitted work held back from the 2026-10-13 commit (all committed and pushed, `7fce95fd`…`ee302592`)
+
+**Resolved:** the developer had everything committed in separate commits by type and pushed. **Still open:** confirm the GitHub repo is private; the branch is not merged to `main`. The list below is kept as the record of what was held back.
 
 On 2026-10-13 the Mirny/founders/Modern Hawaiian work was committed and pushed (commit `1a48edbc`, branch
 `run15-output-contract-and-destructive-guard`). The items below were **left in the working tree on purpose** because

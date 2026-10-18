@@ -8,14 +8,14 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
-## Held-back uncommitted work — decide commit/push, one item at a time *(added 2026-10-18)*
+## Held-back uncommitted work *(added 2026-10-18; ✅ committed and pushed the same day)*
 Detail and file counts: `TODO.md`, section "Uncommitted work held back from the 2026-10-13 commit".
-- [ ] OOLSD library (4 modified, ~74 new files) — commit or leave local → `Object_Oriented_Location_Synthesis/RESUME_HERE.md`
-- [ ] PTSD research edits + `11_Dark_Humor_Source_Leads` and `11a`–`11d` — commit or leave local
-- [ ] Dark Humor Research folder (65 new files) — commit or leave local
-- [ ] Wisconsin oral histories: only the README and `.gitignore` untracked (transcripts already ignored) — commit them
-- [ ] Concept art: 3 Gemini images, District 09 — commit or leave local
-- [ ] Map working stash: 187 new files (render archives, `.bak` copies, raw shapefiles) — decide what to keep
+- [x] OOLSD library (4 modified, ~74 new files) — commit or leave local → `Object_Oriented_Location_Synthesis/RESUME_HERE.md`
+- [x] PTSD research edits + `11_Dark_Humor_Source_Leads` and `11a`–`11d` — commit or leave local
+- [x] Dark Humor Research folder (65 new files) — commit or leave local
+- [x] Wisconsin oral histories: only the README and `.gitignore` untracked (transcripts already ignored) — commit them
+- [x] Concept art: 3 Gemini images, District 09 — commit or leave local
+- [x] Map working stash: 187 new files (render archives, `.bak` copies, raw shapefiles) — decide what to keep
 - [ ] Confirm the GitHub repo is private (`gh` is not installed here); branch `run15-…` not yet merged to `main`
 
 ---
