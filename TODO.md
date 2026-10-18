@@ -23,6 +23,34 @@
 > like the bite)*. **It wants a deliberate pass.**
 
 
+## Uncommitted work held back from the 2026-10-13 commit — decide commit/push, item by item — listed 2026-10-18
+
+On 2026-10-13 the Mirny/founders/Modern Hawaiian work was committed and pushed (commit `1a48edbc`, branch
+`run15-output-contract-and-destructive-guard`). The items below were **left in the working tree on purpose** because
+they belong to other work streams. **Nothing here is lost; none of it is committed or pushed.** For each: decide
+commit now, commit later, or leave local. The branch has also not been merged to `main`.
+
+- **OOLSD library** (`Worldspace/Locations-and-Levels/Object_Oriented_Location_Synthesis/`): 4 modified files
+  (`04_Handwave_Register.md`, `RESUME_HERE.md`, `research/DEFERRED_RESEARCH.md`, `research/waste_heat_utilization.md`)
+  and about 74 new files (the starlifting/inner-system research tranches, dispatch prompts, canon-vs-physics
+  comparison files, `_calc/`). In-flight work from other sessions. **Resume point:** its `RESUME_HERE.md`.
+- **PTSD research** (`Reference/Real-World/PTSD_Military_Trauma_Research/`): 2 modified files
+  (`00_Extraction_Checklist.md`, `07_Treating_PTSD_Clinical_Handbook.md`), plus `Reference/Real-World/Book_Extraction_Index.md`
+  (modified), and 5 new files (`11_Dark_Humor_Source_Leads.md`, `11a`–`11d`).
+- **Dark Humor Research** (`Reference/Real-World/Dark_Humor_Research/`): 65 new files (40 extractions, the pattern
+  synthesis, search logs, Tier C shopping list). The folder has its own `.gitignore`. Pending work is recorded in
+  memory (Tier C and an Opus retry; no voice yet).
+- **Wisconsin Veterans Museum oral histories** (`Reference/Real-World/Wisconsin_Veterans_Museum_Oral_Histories/`):
+  only 2 small files untracked (`README.md`, `.gitignore`). The ~957 transcripts are **already git-ignored** and stay
+  local; the full scan for non-humor uses is deferred.
+- **Concept art** (`Reference/Images/Concept-Art/District 09 - The Circuit (Gemini)/`): 3 new `.jpeg` images.
+- **Map working stash** (`Reference/Images/Maps/working-stash/`): 187 new files: dated render archives
+  (`archive/2026-10-03_*`, `2026-10-04_*`), `.bak-2026-10-04` copies of the data and one script, and the raw
+  Natural Earth shapefiles (`data/ne_raw/`). Decide what to keep: probably the archives and `.bak` copies are not
+  worth committing, the shapefiles may be.
+- **Also unconfirmed:** whether `TerranLights/InnerTepeniaGDD` on GitHub is private (the `gh` CLI is not installed
+  here, so it could not be checked). Worth confirming before pushing anything large.
+
 ## South Pole power complex: many reactors, an underground network, two danger layers — noted 2026-10-01, not started
 
 **Developer, verbatim:** *"the South Pole might not be home to just one-and-only-one nuclear reactor (because the Tower
