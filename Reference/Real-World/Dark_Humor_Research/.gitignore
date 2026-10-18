@@ -1,0 +1,9 @@
+# Third-party source material: retained locally for research, NOT redistributable (same convention as
+# Reference/Materials/books/ and to-be-integrated/books/ in the repo root .gitignore).
+# Public-domain and CC-licensed items are listed in source_manifest.csv with their license class;
+# the text copies themselves are still kept out of git so one rule covers everything.
+source_texts/*
+!source_texts/.gitkeep
+Tier_C_Dropbox/*
+!Tier_C_Dropbox/.gitkeep
+!Tier_C_Dropbox/README.md
