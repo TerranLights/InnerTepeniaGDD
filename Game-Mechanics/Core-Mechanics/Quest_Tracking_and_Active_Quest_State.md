@@ -1,6 +1,6 @@
 # Quest Tracking and Active Quest State
 
-**What this is:** a design draft, not a locked decision — written 2026-07-25 to formalize a question the
+**What this is:** a design draft written 2026-07-25 (**decisions recorded 2026-10-18; see "Decisions" below**) to formalize a question the
 developer raised directly: the player must be able to have **no quest tracked at all**, as a real, explicit
 state, not just an absence. Consolidates the existing (but scattered) quest-marker discussion from `TODO.md`'s
 "Quest Marker Design" entry (flagged 2026-07-07, deliberately deferred) into one place, and adds the
@@ -107,15 +107,16 @@ series and for the quest log's own UI clarity.
 
 ---
 
+## Decisions, 2026-10-18
+
+- **The fix for the interruption problem is the split (Option 1).** The **tracked quest** (a specific quest, or deliberately nothing) changes **only by the player's own action.** A separate, temporary **objective prompt** handles time-sensitive events and never touches the tracked quest. The return-address stack stays on file only as a fallback if the prompt proves too cramped.
+- **A new quest never claims the tracker.** Whatever new quest comes up is added to the quest log and **remains untracked.**
+- **Dialogue acceptance is a player action, everywhere.** When a quest is offered in dialogue, agreeing to it tracks it; a non-committal answer ("maybe, if there's time") adds it to the log **untracked.** Quests that start without dialogue (a phone call, entering a region) always arrive untracked.
+- **The opening quest** follows the same rule: when the player leaves Calethina's lab, Calethina asks the player to fetch something (tentatively a data drive; this may change once the questline is worked out). Fallout: New Vegas sends the player to Sunny Smiles with no choice about tracking; Inner Tepenia lets the dialogue answer decide it.
+- **Default when nothing is tracked: nothing, plus a suggestion.** The tracker stays empty; the quest log shows a small marker on the **most recently updated** quest. It suggests; it never selects.
+
 ## Open Questions
 
-- Whether "no quest tracked" should be the actual default state on first entering a new area/session, or
-  whether the game should auto-suggest (without forcing) the most recently advanced quest — auto-*suggesting*
-  without auto-*selecting* may thread the needle here, but this isn't decided.
-- Exact UI treatment of the "Track Nothing" option — a persistent list entry, a keyboard shortcut, both.
-- How this state model carries forward into Outer Tepenia's own real-time HUD design — flagged as the more
-  urgent version of this problem, not designed here.
-- **Which of the two anti-pattern fixes above is the actual commitment** — the separate Objective
-  Prompt/Tracked Quest split (preferred, structurally immune to the bug) or the return-address stack
-  (fallback, needed only if the UI genuinely can't support a transient prompt). Leaning toward the former;
-  not finalized.
+- Exact UI treatment of the "Track Nothing" option — a persistent list entry, a keyboard shortcut, both — and of the log marker.
+- How this state model carries forward into Outer Tepenia's own real-time HUD design — flagged as the more urgent version of this problem, not designed here.
+- The separate, still-undecided quest marker question (`TODO.md`, "Quest Marker Design").

@@ -1,5 +1,8 @@
 # Neural Overclock System
 
+> **Naming note (2026-10-18):** the third mode, formerly also called "Overclock," is now **Hyperthread**, so it no longer shares a name with the whole system ("Neural Overclock"). The name is provisional and will be revisited. This system is also written up in `Core-Mechanics/Neural_Overclock.md`, `Character-Creation/Cyberpunk-2077-Style_Functionalities_Summary.md` and `Combat/Signature_Abilities.md`; those three disagree (durations, the 8-point stat gate) and need consolidating into one document.
+
+
 A top-down, turn-based adaptation of Cyberpunk 2077's Berserk / Sandevistan / Overclock ability framework. Three distinct modes, one unified cyberware system. Designed to enhance — not conflict with — the Minmax build questlines and unique interactions.
 
 The system is stat-dependent and drawback-required by design. Base version is accessible to any build; true power comes from minmax investment while the built-in costs and narrative consequences keep high-power use balanced and meaningful.
@@ -32,7 +35,7 @@ The system is stat-dependent and drawback-required by design. Base version is ac
 | Calculation | Overclock optimization — bonus actions, reduced ability costs |
 | Nerve | Resilience — less health/Strain drain, better control during mode |
 | Humanity | Narrative effects — low Humanity triggers "cyberpsychosis" events or unique quest hooks on heavy use |
-| Investigation | Secondary effects — synergizes with hacking-style builds in Overclock mode |
+| Investigation | Secondary effects — synergizes with hacking-style builds in Hyperthread mode |
 
 ---
 
@@ -82,7 +85,7 @@ The system is stat-dependent and drawback-required by design. Base version is ac
 
 ---
 
-### Mode 3 — Overclock (Ability/Hack Spam)
+### Mode 3 — Hyperthread (Ability/Hack Spam)
 
 **Stat focus:** Calculation
 
@@ -100,7 +103,7 @@ The system is stat-dependent and drawback-required by design. Base version is ac
 
 **Best for:** High Calculation + Investigation Minmax builds. Ability/tech-focused play styles.
 
-**Minmax hook:** Ties directly into existing hacking/complex action cost systems; Calethina may comment on or react to heavy Overclock use.
+**Minmax hook:** Ties directly into existing hacking/complex action cost systems; Calethina may comment on or react to heavy Hyperthread use.
 
 ---
 

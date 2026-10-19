@@ -8,6 +8,12 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+## Core systems follow-ups *(added 2026-10-18)*
+Detail: `TODO.md`, "Core systems — follow-ups from the 2026-10-18 cleanup". Decisions: `Game-Mechanics/Core-Mechanics/Core_Systems_Cleanup_Decisions_2026-10-18.md`.
+- [ ] Consolidate the three Neural Overclock documents into one; revisit the name "Hyperthread"
+- [ ] Write the full entry for the new Nerve movement perk; decide the separate movement pool; perk/trait/skill rename pass
+- [ ] Reputation system design (scope, earning and losing, thresholds, terminology)
+
 ## Held-back uncommitted work *(added 2026-10-18; ✅ committed and pushed the same day)*
 Detail and file counts: `TODO.md`, section "Uncommitted work held back from the 2026-10-13 commit".
 - [x] OOLSD library (4 modified, ~74 new files) — commit or leave local → `Object_Oriented_Location_Synthesis/RESUME_HERE.md`

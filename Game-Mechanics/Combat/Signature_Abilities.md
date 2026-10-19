@@ -1,5 +1,8 @@
 ### Signature Abilities – Inner Tepenia Implementation
 
+> **Naming note (2026-10-18):** the third mode, formerly also called "Overclock," is now **Hyperthread**, so it no longer shares a name with the whole system ("Neural Overclock"). The name is provisional and will be revisited. This system is also written up in `Core-Mechanics/Neural_Overclock.md`, `Character-Creation/Cyberpunk-2077-Style_Functionalities_Summary.md` and `Combat/Signature_Abilities.md`; those three disagree (durations, the 8-point stat gate) and need consolidating into one document.
+
+
 These are the turn-based isometric equivalents of Cyberpunk 2077’s Berserk, Sandevistan, and Overclock. They are designed to feel powerful, thematic, and consistent with the real-time versions planned for the *Outer Tepenia* series.
 
 #### Tepenian Names
@@ -8,7 +11,7 @@ These are the turn-based isometric equivalents of Cyberpunk 2077’s Berserk, Sa
 |----------------|------------------------|-----------------------|-----------------------------|
 | **Berserk**    | **Rage**      | Might                 | Aggressive combat surge     |
 | **Sandevistan**| **Framejacking**       | Agility               | Hacking your own movement systems |
-| **Overclock**  | **Overclock**   | Calculation           | Computational / efficiency surge |
+| **Overclock**  | **Hyperthread**   | Calculation           | Computational / efficiency surge |
 
 ---
 
@@ -72,7 +75,7 @@ These abilities function as **temporary multi-turn power states** rather than re
 * In Hardcore Mode: Low Humanity versions could add "loss of control" mechanics (random targeting or forced aggressive actions)
 
 
-##### 3. Overclock (Calculation-based)
+##### 3. Hyperthread (Calculation-based)
 
 **Concept**: You push your computational systems far beyond normal limits for massive efficiency and precision.
 
@@ -104,7 +107,7 @@ These abilities function as **temporary multi-turn power states** rather than re
 |--------------------|---------------|--------------|--------------------------------------------|----------------------------------|---------------------------------|
 | **Framejacking**   | Agility       | 3–5 turns    | Massive movement + cheaper/faster actions | Movement penalty                 | Mobile, kiting, hit-and-run     |
 | **Rage**  | Might         | 3–4 turns    | High damage + cheaper attacks              | Increased damage taken           | Aggressive melee / burst damage |
-| **Overclock** | Calculation | 3–4 turns    | Much cheaper complex actions + precision   | Increased AP costs / strain      | Tactical, support, ability spam |
+| **Hyperthread** | Calculation | 3–4 turns    | Much cheaper complex actions + precision   | Increased AP costs / strain      | Tactical, support, ability spam |
 
 ---
 
@@ -142,7 +145,7 @@ This creates meaningful roleplaying and build choices. A high-Humanity character
   *Prerequisite*: Low Humanity builds encouraged
 
 * **Precision Overclock**  
-  When using **Overclock**, gain additional bonuses to critical hits and complex actions.  
+  When using **Hyperthread**, gain additional bonuses to critical hits and complex actions.  
   *Prerequisite*: Calculation 8+
 
 * **Fury Amplifier**  

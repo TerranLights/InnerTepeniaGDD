@@ -1,4 +1,7 @@
-# Neural Overclock System (Framejack / Berserk / Overclock)
+# Neural Overclock System (Framejack / Berserk / Hyperthread)
+
+> **Naming note (2026-10-18):** the third mode, formerly also called "Overclock," is now **Hyperthread**, so it no longer shares a name with the whole system ("Neural Overclock"). The name is provisional and will be revisited. This system is also written up in `Core-Mechanics/Neural_Overclock.md`, `Character-Creation/Cyberpunk-2077-Style_Functionalities_Summary.md` and `Combat/Signature_Abilities.md`; those three disagree (durations, the 8-point stat gate) and need consolidating into one document.
+
 
 **Status**: Proposed Design  
 **Author**: Grok + TerranLights Collaboration  
@@ -34,7 +37,7 @@ To access any Neural Overclock mode, the player **must have at least 8 points** 
 **Specific Requirements**:
 - **Framejack Mode**: Agility 8+
 - **Berserk Mode**: Might 8+
-- **Overclock Mode**: Calculation 8+
+- **Hyperthread Mode**: Calculation 8+
 
 At exactly 8 the mode is functional and strong. Bonuses scale further at 9–10, rewarding full minmax commitment.
 
@@ -86,7 +89,7 @@ At exactly 8 the mode is functional and strong. Bonuses scale further at 9–10,
 - **Best For**: High Might melee/tank builds.
 - **Minmax Hook**: Synergizes with existing combat perks; unique Berserk narrative branches and endings.
 
-### 3. Overclock Mode (Ability / Hack Spam)
+### 3. Hyperthread Mode (Ability / Hack Spam)
 **Primary Stat Gate**: Calculation 8+  
 
 - **Effects**:

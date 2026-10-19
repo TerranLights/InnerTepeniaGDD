@@ -23,6 +23,17 @@
 > like the bite)*. **It wants a deliberate pass.**
 
 
+## Core systems — follow-ups from the 2026-10-18 cleanup — not started
+
+Decisions and reasoning: `Game-Mechanics/Core-Mechanics/Core_Systems_Cleanup_Decisions_2026-10-18.md`.
+
+- **Consolidate the three Neural Overclock documents into one** (`Core-Mechanics/Neural_Overclock.md`, `Character-Creation/Cyberpunk-2077-Style_Functionalities_Summary.md`, `Combat/Signature_Abilities.md`): durations disagree (1–3 versus 3–5 turns) and only one has the 8-point stat gate.
+- **Revisit the name "Hyperthread"** (the renamed Calculation mode; provisional).
+- **Write the full entry for the new Nerve movement perk** (name, number of ranks, Nerve minimum) and add it to the perk list.
+- **Decide the "separate movement pool" option** (`Action_Points_Perks_and_Traits.md`, optional rule 6): it conflicts with the single Agility-based AP pool.
+- **Rename pass for perks, traits and skills** (including the skill "Tactical Grid Combat" and the perks and traits named "Overclock…"); the eight proposed perks in the AP perks file also need proper requirements before joining the perk list.
+- **Reputation system:** scope (district, faction or both), how points are earned and lost, thresholds between ranges, terminology. Many other systems lean on this.
+
 ## ✅ RESOLVED 2026-10-18 — Uncommitted work held back from the 2026-10-13 commit (all committed and pushed, `7fce95fd`…`ee302592`)
 
 **Resolved:** the developer had everything committed in separate commits by type and pushed. **Still open:** confirm the GitHub repo is private; the branch is not merged to `main`. The list below is kept as the record of what was held back.

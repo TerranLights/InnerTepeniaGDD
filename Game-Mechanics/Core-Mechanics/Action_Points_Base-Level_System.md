@@ -20,6 +20,8 @@ Every character receives a new pool of Action Points at the start of their turn.
 - Agility 8 → 10 AP
 - Agility 10 → 11 AP
 
+**Movement uses the same pool.** Each tile costs 1 AP (as in Fallout 1 and 2), so Agility sets the number of tiles a character can move in a turn by way of the AP pool. Engine adds to that number (see below); it does not replace it. *(Decided 2026-10-18; see `Core_Systems_Cleanup_Decisions_2026-10-18.md`.)*
+
 ---
 
 #### Nerve Modifier (Reliability & Bonus AP)
@@ -34,7 +36,9 @@ Every character receives a new pool of Action Points at the start of their turn.
 - Nerve 5 → 0 (neutral)
 - Nerve 7 → +1 AP
 - Nerve 9 → +2 AP
-- Nerve 10 → +2 or +3 AP
+- Nerve 10 → +2 AP
+
+The formula rounds down, so the modifier changes every two points: Nerve 1–2 = −2, 3–4 = −1, 5–6 = 0, 7–8 = +1, 9–10 = +2. *(Corrected 2026-10-18: the earlier "+2 or +3" at Nerve 10 was a mistake; the formula gives +2.)*
 
 **Final AP at start of turn = Base AP + Nerve Modifier**
 
@@ -45,15 +49,17 @@ Every character receives a new pool of Action Points at the start of their turn.
 Since there is no regeneration during a turn, **Engine** governs how *efficiently* you spend your AP.
 
 **Primary Role:**
-- Reduces the cost of **movement** and certain repeated actions.
+- Gives **free movement tiles** and slightly reduces the cost of certain repeated actions.
 
-**Recommended Mechanics:**
-- Base movement cost = **1 AP per tile**
-- Every 2 points of Engine above 5 grants **1 free movement point** per turn (or reduces movement cost).
+**Mechanics:**
+- Base movement cost = **1 AP per tile**.
+- **Free movement tiles per turn = floor((Engine − 5) ÷ 2)**: none at Engine 5–6, 1 at Engine 7–8, 2 at Engine 9–10. These add to the tiles Agility's AP pool already pays for.
 - High Engine also slightly reduces the AP cost of reloading, using items, and some abilities.
 
 **Example:**
-- Engine 8 → You may get 2–3 “free” movement tiles per turn, or movement costs 1 AP for every 1.5 tiles (rounded appropriately).
+- Engine 8 → 1 free movement tile per turn. Engine 10 → 2 free tiles.
+
+*(Corrected 2026-10-18: the earlier "1 AP per 1.5 tiles" alternative is dropped, and the example no longer says 2–3 free tiles at Engine 8. More movement comes from a Nerve-based perk; see `Action_Points_Perks_and_Traits.md`.)*
 
 ---
 
@@ -67,7 +73,7 @@ Since there is no regeneration during a turn, **Engine** governs how *efficientl
 | Reload Weapon                 | 2–4 AP             | Can be reduced by Engine/perks |
 | Use Item from Inventory       | 2–4 AP             | Varies by item |
 | Hacking / Complex Interaction | 6–10 AP            | High-investment actions |
-| Powerful Ability / Overclock  | 8–15 AP            | Big payoff, expensive |
+| Powerful Ability (e.g., a Neural Overclock mode) | 8–15 AP            | Big payoff, expensive |
 | Stand Up / Minor Action       | 2–3 AP             | Recovery actions |
 
 Unused AP at the end of your turn are **discarded**. Use them or lose them.
