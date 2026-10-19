@@ -63,9 +63,28 @@ unfavorable tiers grant no discount** — only the five named 🟢 favorable tie
 
 ---
 
-## Open Design Questions
+## Design Decisions, 2026-10-18
 
-- **Terminology:** whether Inner Tepenia keeps these exact tier names, or reskins them to fit Tepenia's own voice (robot/human coexistence framing rather than a wasteland-frontier one). Not yet decided.
-- **Scope:** whether this tracks per-district, per-faction, or both, given districts and factions are established as related but genuinely separate axes elsewhere in this project (`Companion_System.md`'s "Companion distribution across districts" section).
-- **Mechanical thresholds:** exact point values or actions required to move between Range 0-3 on each axis are not yet designed.
-- **Full system design** (how reputation is earned/lost, UI presentation, whether it's visible to the player as raw numbers or only through tier names and NPC reactions) is not yet started — this file only formalizes the reference chart itself.
+Decided with the developer, one question at a time; the full reasoning is in `Reputation_System_Decisions_2026-10-18.md`.
+
+- **Scope.** Every Concordia district (and each DLC city or region) has its own Fame and Infamy. A **cross-district group** also gets its own track, but only once it is a **confirmed faction with real quests and real choices attached**. The list of groups is deliberately left open: factions are created after the ULM/CST/RWBEM process is finished (see the decisions log). Rejected: districts only, and per-faction for everything (a Fallout: New Vegas copy that would disrupt the world's internal consistency).
+- **Earning and losing.**
+  - Deeds come in **five size tiers** (very minor, minor, average, major, very major, as in Fallout: New Vegas); the point value per tier depends on context and may differ.
+  - Each quest outcome or deed **names the districts and groups it affects, with a size for each**; points are not only credited where the deed happened.
+  - **Witness rule:** crimes and hacks add Infamy only when someone sees them or they are traced (see `Hacking_and_Traceability_System.md`); unseen acts add no Infamy.
+  - One action can raise **both counters at once**, in one district or across two.
+  - Percentage modifiers from skills, traits and perks are wanted but **deferred**.
+- **Thresholds.** Each range threshold is a **share of what that district (or group) can actually give** (about 15%, 45% and 80% for Ranges 1, 2 and 3 as a starting guess), filled in once its content is written. Range 0 means "below the first threshold," so the first Infamy threshold is the district's **tolerance** for misbehavior before Idolized is lost.
+- **Spread.** No automatic spread. A deed can be tagged **"word travels,"** reaching named districts at reduced value; in the story, Leyline chatter carries the news.
+- **Removal.** Reputation does not decay and cannot be bought off. A few **rare, designed, costly, story-gated acts of atonement** (for example one per district, tied to its questline) can drop the Infamy range by one step and leave a visible mark. This is a large piece of future design.
+- **Presentation.** The player sees **tier names per district and group**, never raw points; dialogue, prices and attitudes carry the rest. The Fallout: New Vegas tier names stay for now and will be gone over again in the rename pass.
+
+## Still Open
+
+- Whether Fame and Infamy thresholds may differ within one district.
+- The percentage modifiers from skills, traits and perks (how they would be implemented).
+- The actual point values per size tier in each context.
+- The atonement acts themselves (one per district, with a visible mark).
+- The cross-district group list (waits for faction creation).
+- Exact UI, including whether the player sees any "how close" hint.
+- Whether the tier names are reskinned to Tepenia's voice.

@@ -31,8 +31,8 @@ Decisions and reasoning: `Game-Mechanics/Core-Mechanics/Core_Systems_Cleanup_Dec
 - **Revisit the name "Hyperthread"** (the renamed Calculation mode; provisional).
 - **Write the full entry for the new Nerve movement perk** (name, number of ranks, Nerve minimum) and add it to the perk list.
 - **Decide the "separate movement pool" option** (`Action_Points_Perks_and_Traits.md`, optional rule 6): it conflicts with the single Agility-based AP pool.
-- **Rename pass for perks, traits and skills** (including the skill "Tactical Grid Combat" and the perks and traits named "Overclock…"); the eight proposed perks in the AP perks file also need proper requirements before joining the perk list.
-- **Reputation system:** scope (district, faction or both), how points are earned and lost, thresholds between ranges, terminology. Many other systems lean on this.
+- **Rename pass for perks, traits and skills** (including the skill "Tactical Grid Combat", the perks and traits named "Overclock…", and the reputation tier names); the eight proposed perks in the AP perks file also need proper requirements before joining the perk list.
+- **Reputation system:** being decided one question at a time (log: `Game-Mechanics/Core-Mechanics/Reputation_System_Decisions_2026-10-18.md`). Large follow-up work it creates: a designed **atonement act per district** (costly, story-gated, leaves a visible mark) written with each district's content; per-deed point values and affected-district tags in every quest; a "word travels" tag with Leyline as the in-story carrier; the cross-district group list, deferred until factions are created after the ULM/CST/RWBEM process.
 
 ## ✅ RESOLVED 2026-10-18 — Uncommitted work held back from the 2026-10-13 commit (all committed and pushed, `7fce95fd`…`ee302592`)
 
