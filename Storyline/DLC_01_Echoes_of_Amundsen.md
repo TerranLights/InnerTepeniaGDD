@@ -294,6 +294,6 @@ A related idea was raised and discussed but not yet written in as confirmed desi
 - [ ] Exact carry weight restriction number for DLC entry
 - [ ] Five minimum approaches to the central challenge — only Ji-Eun cloaking confirmed; 4+ TBD
 - [ ] Main storyline structure and beats
-- [ ] South Pole side content
+- [ ] South Pole side content — suggestions collected 2026-10-18 in `DLC_01_South_Pole_Side_Content_Suggestions.md` (includes the developer's two-pathway town idea)
 - [ ] Kendra romance mini-quest beats (Phase 7)
 - [ ] Connection between DLC events and The Vigil [NAME TBD] faction in Concordia
