@@ -21,7 +21,9 @@ WHAT IT DOES (all of it mechanical; none of it interpretation)
      with the anchor kept as a comment: the reader locates the named section itself (triple_read_verify.py's AUTO).
   2. For a phase, also extracts the absolute addresses in the Pre-Trip's per-phase table rows for that phase, and
      those in the Phase Spine's MUST OPEN block for that phase (03_The_Phase_Spine.md).
-  3. Adds the city's own datasheet for the target (Datasheets/Step_N.md or Phase_N.md) when it exists.
+  3. Adds the STANDARD entries (the same for every city) from ../T8_Standard_Entries.json, re-locating each stored
+     line range in today's file by the text of its first and last line and flagging any span it cannot verify; then
+     adds the city's own datasheet for the target (Datasheets/Step_N.md or Phase_N.md) when it exists.
   4. Checks that every path exists. A missing path is written as a comment and makes the exit status 1.
   5. Lists, as comments, the pass's own earlier output files that exist, in order, so the orchestrator can add the
      ones the step's rules admit.
@@ -36,6 +38,7 @@ WHAT IT DOES NOT DO (so nobody mistakes the draft for a finished list)
     replace it with checked ranges where the step needs them.
   * It never reads the content of any listed file (it only tests that the path exists). It reads only the Pre-Trip.
 """
+import json
 import os
 import re
 import sys
@@ -111,6 +114,71 @@ def phase_rows(lines, n):
     return rows
 
 
+STANDARD = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "T8_Standard_Entries.json")
+REPO = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..", ".."))
+
+
+def _nearest(idxs, want):
+    return min(idxs, key=lambda i: abs(i - want)) if idxs else None
+
+
+def resolve_piece(lines, piece):
+    """Re-find a range piece by the text of its first and last line. Returns (a, b, status)."""
+    a0, b0, first, last = piece["a"], piece["b"], piece["first"], piece["last"]
+    span = b0 - a0
+    f_idx = [i + 1 for i, l in enumerate(lines) if l.strip() == first] if len(first) >= 12 else []
+    l_idx = [i + 1 for i, l in enumerate(lines) if l.strip() == last] if len(last) >= 12 else []
+    if f_idx and l_idx:
+        a = _nearest(f_idx, a0)
+        cands = [i for i in l_idx if i >= a]
+        b = _nearest(cands, a + span) if cands else None
+        if b is not None and abs((b - a) - span) <= max(3, span // 20):
+            return a, b, "moved" if (a, b) != (a0, b0) else "same"
+    if f_idx and not l_idx:
+        a = _nearest(f_idx, a0)
+        if a + span <= len(lines):
+            return a, a + span, "first-line-only"
+    if l_idx and not f_idx:
+        b = _nearest(l_idx, b0)
+        if b - span >= 1:
+            return b - span, b, "last-line-only"
+    return a0, b0, "UNVERIFIED"
+
+
+def standard_entries(target):
+    """Entries that are the same for every city (T8_Standard_Entries.json), with ranges re-located in today's files."""
+    if not os.path.exists(STANDARD):
+        return [], []
+    data = json.load(open(STANDARD, encoding="utf-8"))["entries"].get(target, [])
+    out, warns = [], []
+    for e in data:
+        path = os.path.join(REPO, e["path"])
+        if not os.path.exists(path):
+            out.append("# MISSING STANDARD ENTRY: %s" % path)
+            warns.append(path)
+            continue
+        if e.get("whole"):
+            out.append(path)
+        elif e.get("auto") or not e.get("pieces"):
+            out.append("%s :: AUTO" % path)
+            out.append("#   ^ standard entry with no stored range; line-check it")
+        else:
+            lines = open(path, encoding="utf-8", errors="replace").read().split("\n")
+            parts, status = [], []
+            for pc in e["pieces"]:
+                a, b, s = resolve_piece(lines, pc)
+                parts.append("%d-%d" % (a, b) if a != b else "%d" % a)
+                status.append(s)
+            out.append("%s :: %s" % (path, ",".join(parts)))
+            moved = [s for s in status if s != "same"]
+            if moved:
+                out.append("#   ^ re-located in today's file (%s); %s" % (", ".join(sorted(set(moved))),
+                           "LINE-CHECK: some spans could not be verified" if any(s in ("UNVERIFIED", "first-line-only", "last-line-only") for s in status) else "fingerprints matched"))
+                if any(s == "UNVERIFIED" for s in status):
+                    warns.append(path)
+    return out, warns
+
+
 SPINE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "03_The_Phase_Spine.md")
 
 
@@ -174,6 +242,26 @@ def main():
             out.append("#   ^ anchor %s  (AUTO: the readers locate it; replace with a line-checked range where the step needs one)" % anchor)
         else:
             out.append(p)
+    std_lines, std_warns = standard_entries(target)
+    for l in std_lines:
+        pth = l.split(" :: ")[0]
+        if l.startswith("#"):
+            out.append(l)
+        elif pth in seen:
+            # the Pre-Trip already named this path; keep the standard entry only if it carries ranges
+            if " :: " in l and not l.endswith(":: AUTO"):
+                out[:] = [x for x in out if x != pth and not x.startswith(pth + " :: AUTO")]
+                out.append(l)
+        else:
+            seen.add(pth)
+            out.append(l)
+    # drop an anchor comment whose AUTO entry the standard entry replaced
+    cleaned = []
+    for l in out:
+        if l.startswith("#   ^ anchor") and not (cleaned and cleaned[-1].endswith(":: AUTO")):
+            continue
+        cleaned.append(l)
+    out[:] = cleaned
     ds = os.path.join(pass_dir, "Datasheets", datasheet_name(target))
     if os.path.exists(ds) and ds not in seen:
         out.append(ds)

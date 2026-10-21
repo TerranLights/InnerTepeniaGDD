@@ -1,0 +1,1473 @@
+{
+ "built_from": "Mirny",
+ "git_ref": "1a48edbc",
+ "entries": {
+  "phase:10": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 1098,
+      "b": 1184,
+      "first": "# PHASE 10 — CATALOG",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/01_Frame_Typology_and_Inheritance.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 180,
+      "b": 230,
+      "first": "| **4 — Urban** | ~50,000–1M | Institutions **plus mandatory internal differentiation** | Hold, but incomplete |",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 20,
+      "b": 147,
+      "first": "# 2026-09-13",
+      "last": ""
+     },
+     {
+      "a": 170,
+      "b": 254,
+      "first": "## `DR-3` · ⏸️ **SUBNET-LOCAL CURRENCIES, THEN HARMONIZATION — FUTURE WORK, HARD-GATED**",
+      "last": ""
+     },
+     {
+      "a": 384,
+      "b": 419,
+      "first": "# 2026-09-16",
+      "last": ""
+     },
+     {
+      "a": 422,
+      "b": 554,
+      "first": "## `DR-9` · ✅ **MIRNY'S FOUNDERS: EXILES FROM RUSSIA, CHINA AND AUSTRALIA**",
+      "last": ""
+     },
+     {
+      "a": 623,
+      "b": 665,
+      "first": "## `DR-24` · ✅ **INFRASTRUCTURE CAN OUTLAST THE STATION'S FOUNDERS — `Settled:` LINES MAY NAME THE OPERATOR**",
+      "last": ""
+     },
+     {
+      "a": 678,
+      "b": 690,
+      "first": "## `DR-28` · ✅ **AUDIT RECOMMENDATIONS ADOPTED (D2–D4, D6–D8)**",
+      "last": ""
+     },
+     {
+      "a": 725,
+      "b": 757,
+      "first": "## `DR-31` · ✅ **THE LAW FILE, `CLAUDE.md` AND THE HOOK — APPROVED CHANGES; THE ACTS ARE A HAZY RANGE**",
+      "last": ""
+     },
+     {
+      "a": 953,
+      "b": 1031,
+      "first": "## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**",
+      "last": "---"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Characters/Enneagram_Character_Index.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Zodiac_Signs_Full_Attributes.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/README.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Planetary_Symbols.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Symbolic_Substrate/Robot_Elementals.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:2": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 401,
+      "b": 470,
+      "first": "# PHASE 2 — COMPOSITION & ARRIVAL",
+      "last": "---"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:3": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 472,
+      "b": 531,
+      "first": "# PHASE 3 — SURFACE & TEXTURE",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Reference/Real-World/Climate Data/READER/Mirny.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:4": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 534,
+      "b": 611,
+      "first": "# PHASE 4 — ORDINARY LIFE",
+      "last": "> sentence anyway; the check was right, the status line was wrong.)*"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/10_Validation_Findings_2026-09-01.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/National_Economy_and_Currency.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:5": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 615,
+      "b": 751,
+      "first": "# PHASE 5 — RELATION & GEOMETRY *(the restored phase)*",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/01_Frame_Typology_and_Inheritance.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 423,
+      "b": 509,
+      "first": "## 5.2 The ordering problem — writing a child before its parent",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 422,
+      "b": 436,
+      "first": "## `DR-9` · ✅ **MIRNY'S FOUNDERS: EXILES FROM RUSSIA, CHINA AND AUSTRALIA**",
+      "last": ""
+     },
+     {
+      "a": 477,
+      "b": 485,
+      "first": "## `DR-13` · ✅ **\"AUSTRALIAN\" (THE MIRNY SUBNET'S NICKNAME) IS GEOGRAPHIC ONLY**",
+      "last": ""
+     },
+     {
+      "a": 510,
+      "b": 554,
+      "first": "## `DR-16` · ⏸️ **HISTORIES COME AFTER THE ULM — THE ULM WORKS AT FULL CENSUS I**",
+      "last": ""
+     },
+     {
+      "a": 575,
+      "b": 587,
+      "first": "## `DR-21` · ✅ **FORT McMURDO'S CAPITAL STATUS AND ZHONGSHAN'S CHINESE FOUNDING, CONFIRMED**",
+      "last": ""
+     },
+     {
+      "a": 609,
+      "b": 633,
+      "first": "## `DR-23` · ⏸️ **PRE-WAR NATIONS STAY IN THE CENSUS FOR NOW — POST-WAR FOUNDERS ARE A CST TASK**",
+      "last": ""
+     },
+     {
+      "a": 953,
+      "b": 1031,
+      "first": "## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**",
+      "last": "---"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Airports.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Arcanet.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Geothermal_Heating.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:6": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 752,
+      "b": 837,
+      "first": "# PHASE 6 — MEANING",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 386,
+      "b": 421,
+      "first": "## `DR-8` · ⛔⛔ **SYMBOL APPLICATION FOR CITIES IS DEFERRED — apply once the place is known, not before**",
+      "last": ""
+     },
+     {
+      "a": 634,
+      "b": 665,
+      "first": "## `DR-25` · ✅ **A STATION CAN'T HAND DOWN A TRADITION — ONLY RECORDS**",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Factions/Robot_Religions/Polydimensional_Animism/README.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Factions/Robot_Religions/Polydimensional_Animism/Beliefs.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Factions/Robot_Religions/Polydimensional_Animism/Culture.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Factions/Robot_Religions/Polydimensional_Animism/Rituals.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Factions/Robot_Religions/Polydimensional_Animism/Open_Questions.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Factions/Robot_Religions/Cymatics_reverence/Cymatics_reverence.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/National_Holidays.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Ice-Cold_Buddhism_Research/00_Extraction_Checklist.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Ice-Cold_Buddhism_Research/01_Metaphysics_of_Matter.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Ice-Cold_Buddhism_Research/03_Systems_Thinking_and_Interdependence.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Ice-Cold_Buddhism_Research/04_Technology_and_Machine_Ethics.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Ice-Cold_Buddhism_Research/07_Zen_Aesthetics_and_Philosophy.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Ice-Cold_Buddhism_Research/08_Synthesis_Doctrine_Notes.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Ice-Cold_Buddhism_Research/09_Vocabulary_Sheet.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/The_True_Believer_Extraction.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/The_Meme_Machine_Extraction.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:7": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 838,
+      "b": 951,
+      "first": "# PHASE 7 — ORDER",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/01_Frame_Typology_and_Inheritance.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 180,
+      "b": 230,
+      "first": "| **4 — Urban** | ~50,000–1M | Institutions **plus mandatory internal differentiation** | Hold, but incomplete |",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 170,
+      "b": 254,
+      "first": "## `DR-3` · ⏸️ **SUBNET-LOCAL CURRENCIES, THEN HARMONIZATION — FUTURE WORK, HARD-GATED**",
+      "last": ""
+     },
+     {
+      "a": 422,
+      "b": 554,
+      "first": "## `DR-9` · ✅ **MIRNY'S FOUNDERS: EXILES FROM RUSSIA, CHINA AND AUSTRALIA**",
+      "last": ""
+     },
+     {
+      "a": 623,
+      "b": 665,
+      "first": "## `DR-24` · ✅ **INFRASTRUCTURE CAN OUTLAST THE STATION'S FOUNDERS — `Settled:` LINES MAY NAME THE OPERATOR**",
+      "last": ""
+     },
+     {
+      "a": 678,
+      "b": 690,
+      "first": "## `DR-28` · ✅ **AUDIT RECOMMENDATIONS ADOPTED (D2–D4, D6–D8)**",
+      "last": ""
+     },
+     {
+      "a": 725,
+      "b": 757,
+      "first": "## `DR-31` · ✅ **THE LAW FILE, `CLAUDE.md` AND THE HOOK — APPROVED CHANGES; THE ACTS ARE A HAZY RANGE**",
+      "last": ""
+     },
+     {
+      "a": 953,
+      "b": 980,
+      "first": "## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Infrastructure/Arcanet.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Theoretical-Calculations/Design_Efficiency_Comparison.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Theoretical-Calculations/Orbital_Infrastructure_Mass_Budget.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Theoretical-Calculations/Von_Braun_Wheel_Mass_Budget.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/00_Necessary_Industries_Register.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/Industry_Staffing_and_Productivity/README.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Reference/Real-World/jobs_professions_and_fields/SOC_Table_of_Contents.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/National_Economy_and_Currency.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:8": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 952,
+      "b": 1022,
+      "first": "# PHASE 8 — MAKING",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/01_Frame_Typology_and_Inheritance.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 180,
+      "b": 230,
+      "first": "| **4 — Urban** | ~50,000–1M | Institutions **plus mandatory internal differentiation** | Hold, but incomplete |",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 170,
+      "b": 254,
+      "first": "## `DR-3` · ⏸️ **SUBNET-LOCAL CURRENCIES, THEN HARMONIZATION — FUTURE WORK, HARD-GATED**",
+      "last": ""
+     },
+     {
+      "a": 422,
+      "b": 554,
+      "first": "## `DR-9` · ✅ **MIRNY'S FOUNDERS: EXILES FROM RUSSIA, CHINA AND AUSTRALIA**",
+      "last": ""
+     },
+     {
+      "a": 623,
+      "b": 665,
+      "first": "## `DR-24` · ✅ **INFRASTRUCTURE CAN OUTLAST THE STATION'S FOUNDERS — `Settled:` LINES MAY NAME THE OPERATOR**",
+      "last": ""
+     },
+     {
+      "a": 678,
+      "b": 690,
+      "first": "## `DR-28` · ✅ **AUDIT RECOMMENDATIONS ADOPTED (D2–D4, D6–D8)**",
+      "last": ""
+     },
+     {
+      "a": 725,
+      "b": 757,
+      "first": "## `DR-31` · ✅ **THE LAW FILE, `CLAUDE.md` AND THE HOOK — APPROVED CHANGES; THE ACTS ARE A HAZY RANGE**",
+      "last": ""
+     },
+     {
+      "a": 953,
+      "b": 980,
+      "first": "## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Siligel_Composition_Research.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Sumerian_Language_in_Robot_Culture.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Weapons_and_Tools_Philosophy.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Weapon_Item_Catalog.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "phase:9": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 82,
+      "b": 272,
+      "first": "# 0. Why eleven, and why these",
+      "last": "---"
+     },
+     {
+      "a": 1023,
+      "b": 1097,
+      "first": "# PHASE 9 — POPULATIONS",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/01_Frame_Typology_and_Inheritance.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 180,
+      "b": 230,
+      "first": "| **4 — Urban** | ~50,000–1M | Institutions **plus mandatory internal differentiation** | Hold, but incomplete |",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 170,
+      "b": 254,
+      "first": "## `DR-3` · ⏸️ **SUBNET-LOCAL CURRENCIES, THEN HARMONIZATION — FUTURE WORK, HARD-GATED**",
+      "last": ""
+     },
+     {
+      "a": 422,
+      "b": 554,
+      "first": "## `DR-9` · ✅ **MIRNY'S FOUNDERS: EXILES FROM RUSSIA, CHINA AND AUSTRALIA**",
+      "last": ""
+     },
+     {
+      "a": 623,
+      "b": 665,
+      "first": "## `DR-24` · ✅ **INFRASTRUCTURE CAN OUTLAST THE STATION'S FOUNDERS — `Settled:` LINES MAY NAME THE OPERATOR**",
+      "last": ""
+     },
+     {
+      "a": 678,
+      "b": 690,
+      "first": "## `DR-28` · ✅ **AUDIT RECOMMENDATIONS ADOPTED (D2–D4, D6–D8)**",
+      "last": ""
+     },
+     {
+      "a": 725,
+      "b": 757,
+      "first": "## `DR-31` · ✅ **THE LAW FILE, `CLAUDE.md` AND THE HOOK — APPROVED CHANGES; THE ACTS ARE A HAZY RANGE**",
+      "last": ""
+     },
+     {
+      "a": 953,
+      "b": 1031,
+      "first": "## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**",
+      "last": "---"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Sumerian_Language_in_Robot_Culture.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/00_Necessary_Industries_Register.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/National_Medical_and_Care_Institutes.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "step:5": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 309,
+      "b": 372,
+      "first": "# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.",
+      "last": "> expected state, not a problem to paper over."
+     },
+     {
+      "a": 378,
+      "b": 426,
+      "first": "# ⛔⛔⛔ THE LAW OF NO FORCED FIT — **AN EMPTY SLOT IS A RESULT, NOT A GAP.**",
+      "last": "belief, and `03` §Phase 6 B carries the operational form.**"
+     },
+     {
+      "a": 430,
+      "b": 540,
+      "first": "# ⛔⛔⛔ THE LAW OF ONE LOCATION, ON ITS OWN TERMS — **NO CITY IS EVER COMPARED TO ANY OTHER CITY**",
+      "last": ""
+     },
+     {
+      "a": 2090,
+      "b": 2316,
+      "first": "## C.9b ⭐⭐⭐ **COMPOSITION FIRST, THEN CULTURE — the sequencing ruling.** *(Developer, 2026-09-06.)*",
+      "last": "✅ ⭐ **\"A Japan-FOUNDED TEPENIAN city.\"** ***Stock: Japanese. People: Tepenian. Local culture: its own.***"
+     },
+     {
+      "a": 2724,
+      "b": 2883,
+      "first": "> ## ⛔⛔⛔ CLOSE-OUT CHECK — **RUN BEFORE STEP 4 IS DECLARED DONE. `§C.8c-i`, `M-208`.**",
+      "last": "citations only. **Sweep with word boundaries on every alternative and inspect every hit.**"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/01_Frame_Typology_and_Inheritance.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 423,
+      "b": 448,
+      "first": "## 5.2 The ordering problem — writing a child before its parent",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/02_Generators_Capability_and_Symbols.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 600,
+      "b": 633,
+      "first": "## 5.2 Reading the table",
+      "last": "> (public/private, mainstream/counterculture, generational, legal-vs-narrative)."
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 232,
+      "b": 270,
+      "first": "## 0.4 ⚠ DRAFT ORDER IS NOT CLOSE ORDER",
+      "last": "\"pending Phase Y\" about a later phase, that is this bug — check this docket before believing it.**"
+     },
+     {
+      "a": 1098,
+      "b": 1184,
+      "first": "# PHASE 10 — CATALOG",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 154,
+      "b": 206,
+      "first": "**Gate 6 — Duplicate institutions.** ⭐ **IN-RUN: within the location ONLY.** *Does this pass name two",
+      "last": "> version)."
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/05_The_Input_Contract.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 468,
+      "b": 742,
+      "first": "## 6.1 The circularity rule",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Run_Modes_Warm_and_Cold.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 64,
+      "b": 96,
+      "first": "# 2. ⛔⛔ THE ONE RULE THAT DOES NOT RELAX",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 20,
+      "b": 147,
+      "first": "# 2026-09-13",
+      "last": ""
+     },
+     {
+      "a": 170,
+      "b": 254,
+      "first": "## `DR-3` · ⏸️ **SUBNET-LOCAL CURRENCIES, THEN HARMONIZATION — FUTURE WORK, HARD-GATED**",
+      "last": ""
+     },
+     {
+      "a": 384,
+      "b": 419,
+      "first": "# 2026-09-16",
+      "last": ""
+     },
+     {
+      "a": 422,
+      "b": 554,
+      "first": "## `DR-9` · ✅ **MIRNY'S FOUNDERS: EXILES FROM RUSSIA, CHINA AND AUSTRALIA**",
+      "last": ""
+     },
+     {
+      "a": 623,
+      "b": 665,
+      "first": "## `DR-24` · ✅ **INFRASTRUCTURE CAN OUTLAST THE STATION'S FOUNDERS — `Settled:` LINES MAY NAME THE OPERATOR**",
+      "last": ""
+     },
+     {
+      "a": 678,
+      "b": 690,
+      "first": "## `DR-28` · ✅ **AUDIT RECOMMENDATIONS ADOPTED (D2–D4, D6–D8)**",
+      "last": ""
+     },
+     {
+      "a": 725,
+      "b": 757,
+      "first": "## `DR-31` · ✅ **THE LAW FILE, `CLAUDE.md` AND THE HOOK — APPROVED CHANGES; THE ACTS ARE A HAZY RANGE**",
+      "last": ""
+     },
+     {
+      "a": 953,
+      "b": 1031,
+      "first": "## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**",
+      "last": "---"
+     },
+     {
+      "a": 1076,
+      "b": 1088,
+      "first": "",
+      "last": "| **Hours** | Recording a developer's founding ruling is not restricted to 05:00–14:59 (same reasoning as `DR-33` and `DR-53`: the developer decides; this is assembly). |"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Enneagram_Personalities/Mirny_Subnet/Mirny.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "step:6": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 309,
+      "b": 372,
+      "first": "# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.",
+      "last": "> expected state, not a problem to paper over."
+     },
+     {
+      "a": 378,
+      "b": 426,
+      "first": "# ⛔⛔⛔ THE LAW OF NO FORCED FIT — **AN EMPTY SLOT IS A RESULT, NOT A GAP.**",
+      "last": "belief, and `03` §Phase 6 B carries the operational form.**"
+     },
+     {
+      "a": 430,
+      "b": 540,
+      "first": "# ⛔⛔⛔ THE LAW OF ONE LOCATION, ON ITS OWN TERMS — **NO CITY IS EVER COMPARED TO ANY OTHER CITY**",
+      "last": ""
+     },
+     {
+      "a": 2885,
+      "b": 2919,
+      "first": "# Step 6 — Differentiate — ⭐ **WRITE-ONLY, as of 2026-09-06**",
+      "last": "> not a gap*** — it contributes nothing to the first city and everything to the thirty-seventh."
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 420,
+      "b": 525,
+      "first": "# Part III — The differentiation instrument",
+      "last": "---"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "step:7": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 309,
+      "b": 372,
+      "first": "# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.",
+      "last": "> expected state, not a problem to paper over."
+     },
+     {
+      "a": 378,
+      "b": 426,
+      "first": "# ⛔⛔⛔ THE LAW OF NO FORCED FIT — **AN EMPTY SLOT IS A RESULT, NOT A GAP.**",
+      "last": "belief, and `03` §Phase 6 B carries the operational form.**"
+     },
+     {
+      "a": 430,
+      "b": 540,
+      "first": "# ⛔⛔⛔ THE LAW OF ONE LOCATION, ON ITS OWN TERMS — **NO CITY IS EVER COMPARED TO ANY OTHER CITY**",
+      "last": ""
+     },
+     {
+      "a": 2921,
+      "b": 2959,
+      "first": "# Step 7 — QA",
+      "last": "> writing the second is the work.**"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/04_QA_Gates_and_Differentiation.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 1,
+      "b": 419,
+      "first": "# QA Gates and the Differentiation Instrument",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/QA_Gates_Full_Text_Quick_Reference.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/MASTER_Process_Tracker.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 359,
+      "b": 361,
+      "first": "> # 📍 RESUME HERE",
+      "last": "> **LAST TOUCHED:** **2026-10-13.** *Step 10 run (not complete; awaiting developer review) — `…/Mirny_Subnet/Mirny/10_Readiness_Check.md` + `10b_T8_Rounds_Step_10.md`; five of fourteen checks fired (1, 1a, 7, 8, 10); FQ-127…131; Symbol review `Symbol_Review_2026-10-13.md` (Element Air confirmed provisionally; Planet open). `DR-54`, `DR-55`, `DR-56` recorded (term Social Contract → Social Contract; the wind learned then taught): pass files not yet amended.* · *2026-10-12.* *Step 9 ✅ — `…/Mirny_Subnet/Mirny/09_Record.md` + `09.5_Log.md` + `09b_T8_Rounds_Step_9.md` (Record and the Recording Law; **awaiting developer review**; T8: Round 2 UNANIMOUS 30/30 (90/90), Round 3 6/6 CONSISTENT; findings in the observations log `M-283`…`M-298`, methodology proposals MP-1…19 PROPOSED, none applied; FQ-119…126).* · *Step 8 ✅ — `…/Mirny_Subnet/Mirny/08_Review_Panel.md` + `08b_T8_Rounds_Step_8.md` (the Review Panel, Gate 10; **awaiting developer review**; the `00f` pin re-verified (sha256[:16] 33d660ebfbbca9e9, 737 lines); T8: Round 2 UNANIMOUS 20/20 (60/60 fields), Round 3 6/6 CONSISTENT; six Flat Archetypes + Passer-Through (PASS) + Neighbor (relation-only; castable for the signal only); 14 panel-derived findings PF-1…14 (the person slot has a household around it; no priority rule, not no arbiter; the record's founding marks unknown; the tacit channel unread; carrying the unlearned keeps them unlearned; the wind's examiner issues only failures; the ledger is hub-side), **one `unmet`** (the hub does not ask for a second path — the keepers' debt, the one thing the pass shows Mirny knowingly holding), declines for play space, courtship venue, landmark, festival; five refereed conflicts; standout P6-17 kept with a hub-side scope note; the Lover's question: alive in conditions and households, not yet lovable for what its people do with their own hours; S8-RF-1…10, requests R-162…R-168, questions Q-129…Q-136 written as FQ-111…FQ-118, PA-89…PA-91; process lessons `M-280`…`M-282`).* · *Step 7 ✅ — `…/Mirny_Subnet/Mirny/07_QA_Gates.md` + `07b_T8_Rounds_Step_7.md` (QA; **awaiting developer review**; T8: Round 2 UNANIMOUS 30/30 (90/90 fields), Round 3 6/6 CONSISTENT, after a usage-limit cutoff and resume; 16 gates run, Gate 10 carried to Step 8, Gate P does not apply as a run; failed in part: Gate 0, Gate 3, Gate C; holes found at Gate 1: the city's water supply and the yards' emissions; the standout is P6-17's three-slot ledger; highest flag: the strong form of the strongest finding's leg 4 is implausible as a world-fact; no flag blocks Step 8 — six errata E1–E6 go into its brief; closing test: structurally yes, as a lived life not yet; 26 flags with proposed fixes (none applied); S7-RF-1…8, requests R-151…R-161, questions Q-122…Q-128 written as FQ-104…FQ-110, PA-83…PA-88; process lessons `M-276`…`M-279`).* · *Step 6 ✅ — `…/Mirny_Subnet/Mirny/06_Differentiation.md` + `06b_T8_Rounds_Step_6.md` (write-only; **unattended, awaiting developer review**; T8: Round 2 UNANIMOUS 17/17 (51/51 fields), Round 3 6/6 CONSISTENT; all four III.4 substitutes run — own earlier states (a two-state comparison plus a recurring crisis state; the tense axis shows the same kind of loss in a different tense), the sub-units and parent, twelve real-world comparables with divergence, the generator conflicts; the no-sibling risk stated, the strongest being that every cell descends from one property (what cannot be handed on, in a place that hands on everything else); Mirny's nine-section row (21 cells, one NULL for Death under `RV-4`) **written to `Cross_City_Culture_Differentiation_Table.md` as nine inserted lines, no other row read**; propagation: the table has no Catalog section and no axis column for Meaning, Order and Making; reserved findings S6-RF-1…9, requests R-142…R-150, questions Q-111…Q-121 written as FQ-93…FQ-103, provisional assumptions PA-75…PA-82; process lessons `M-272`…`M-275`).* · *Step 5 ✅ — `…/Mirny_Subnet/Mirny/05_Reconciliation.md` + `05b_T8_Rounds_Step_5.md` (Reconciliation and the CLOSE pass; **written unattended and awaiting developer review**; T8: Round 2 UNANIMOUS 48/48 (144/144 fields, first run); Round 3 6/6 CONSISTENT; merge per `M-246` as ten part files assembled by `assemble_merge5.py`; the three culture files are all Tier 3 and none outranks a pass finding; **strongest finding = the Social Contract (P6-1, P6-17), not contradicted — its fourth leg, the reading of absence, was the testable one and held**; 124 reconciliation rows; 6 real contradictions, all with Tier 1 or the ratified spec (founders per `DR-46`; the corrected light; five against nine members; visible robot plating; the namesake and station history; the Element left OPEN) and 14 both-true readings; **no pass finding withdrawn, no candidate falsified, nothing adopted**; 23-row proposed-correction docket (never applied); Zodiac amendments to Phase 9 written as amendments (three firm, two conditional, two seeds; P10-6 does not fire; Phase 9's own file untouched); B3: Planet Saturn confirmed provisionally, Element left open with Air standing; vignette-grounded robot-culture rows and the whole personality read OUT OF FRAME; new reserved findings S5-RF-1…9, requests R-131…R-141, questions Q-100…Q-110 written to `follow-up_questions.md` as FQ-82…FQ-92, none blocking, provisional assumptions PA-69…PA-74; process lessons `M-266`…`M-271`; the Position-Coverage ledger is NOT touched — developer confirmation only).* · *2026-10-11. Step 4, Phase 10 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_10_Catalog.md` (**Step 4 is complete**; axis: \"What stays, what refills\", reached independently by readers A and C, with reader B's \"Kept unseen, surfaces refill\" carried as its third order; T8: Round 2 first run FAILED (10 line-count and middle/last-line fields across 6 of 99 field sets) and was repaired by the **same readers re-checking** — a developer-approved deviation from the fresh re-dispatch precedent — then UNANIMOUS 33/33 (99/99 fields); Round 3 6/6 CONSISTENT; web research ran inside the round (LAW 0-R) and all three research logs are appended verbatim to `Mirny_Research_Log.md`; slot A was cut off once and slot B twice by the API safeguard flag and resumed from their reading logs; round record `04b_T8_Rounds_Phase_10.md`; merge per `M-246`; **no place is named** — the files give specific referents and no forms, and the two offered designations were withdrawn or held as a question; Hwy 110 keeps its canon name; the landmarks that stay were made by no one who lives there and the things that refill are the residents' own making; B3: Planet Saturn confirmed provisionally (its negative term lands on the subnet's single path, not on Mirny) and Element Air determined provisionally, with Neptune/Sun, Electricity, Metal and Wood reserved; the blizz line is a candidate and the radio check-in reserved; the cleared bank that blinds the approach; the missing posted wind call as a choice, not a limit; 8 findings, 17 reserved findings; handoff sweep 33 rows; new requests R-118…R-130; developer questions Q-89…Q-99 written to `follow-up_questions.md` as FQ-71…FQ-81, none blocking; process lessons `M-260`…`M-265`).* · *Step 4, Phase 9 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_09_Populations.md` (axis: \"Formed here, or arrived\", two lines — a wind line anyone can cross by exposure and a memory line only arrivals have — holding the three readers' axes \"Exposure, not kind\", \"First sky, not body\" and C's own; T8: Round 2 UNANIMOUS 68/68 (204/204 fields) after two slot restarts — readers A and C were each cut off by the API safeguard flag and resumed from their reading logs; Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_9.md`; merge per `M-246`; the line crosses both bodies and carries no rank; in Act 2 the remembering side is robots; the founding is held first-hand only by the founding-cohort robots and the record cannot vouch for it; `DR-51` (later human immigration) kept open; built-here robots written as the PA-40 default with the `M-169` check made; work groups are roles, not peoples; no population of dissent, no faith population, no Doll Category 2–4; the national baseline is the floor, not a finding; 19 findings, 13 reserved findings, nothing sized; handoff sweep 28 rows discharged; new requests R-107…R-117; developer questions Q-83…Q-88 written to `follow-up_questions.md` as FQ-65…FQ-70, none blocking; process lessons `M-257`…`M-259`).* · *Step 4, Phase 8 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_08_Making.md` (axis: \"Prepared, not predicted\", with native-at-the-door and what-can-be-handed-on as sub-axes; T8: Round 2 UNANIMOUS 38/38 (114/114 fields) after one slot retry — reader C failed three LMID fields and was re-dispatched as C2; Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_8.md`; merge per `M-246`; the first dispatch was blocked by an API safeguard flag and an identical re-dispatch went through; the table is national and no dish crosses the bodies; the plate has no plannable season; the robot's food is the crossing's budget; music, games, dishes and fashion are nulls with reasons; making for itself is upkeep; the reading makes no object and the one object it could make (the amended copy) changes the Social Contract; dressing at the door is the only outward sign of a private reading; the tongue is unnamed and only the robot half has an admitted language mechanism; a referent register with no word for \"soon\"; seven candidates pending Step 5; handoff sweep 27 rows discharged; new requests R-96…R-106; developer questions Q-74…Q-82 written to `follow-up_questions.md` as FQ-56…FQ-64, none blocking; process lessons `M-253`…`M-256`).* · *Step 4, Phase 7 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_07_Order.md` (axis: \"Claims without an arbiter\", with calls by position as the fast-call sub-axis; T8: Round 2 UNANIMOUS 58/58 (174/174 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_7.md`; merge per `M-246`; **R-24 resolved: `16` §20's 23.6 % mandated / 35.3 % free governs and Half B's 11.8 % was the Arcanet sector alone** (27-row downstream-effects table; no earlier file edited); R-12 not chosen; a chamber is the national default (PA-40); the quarry's two claims have no admitted arbiter; the wind call is unadministrable and every instrument gives a loss a second answerer and changes the Social Contract; no Mirny-local prohibition has an author; criminal justice TBD (`H42`); the dissent sits inside each person; handoff sweep 38 rows discharged; new requests R-78…R-95; developer questions Q-63…Q-73 written to `follow-up_questions.md` as FQ-45…FQ-55, none blocking; process lessons `M-249`…`M-252`).* · *2026-10-05: Step 4, Phase 6 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_06_Meaning.md` (axis: \"The medium holds; the person answers\"; T8: Round 2 UNANIMOUS 34/34 (102/102 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_6.md`; merge per `M-246`; the Name is a Social Contract — the record and relay hold, the reading of the wind is each person's own; no faith sited, slot open; the mortuary question untouched (`RV-4`); the core value's failure refused, not ritualized; two candidate observances (the first sunset; the called water) pending Step 5; `National_Holidays.md`'s Mirny entry refused-in-file (vignette source); new requests R-67…R-77; developer questions Q-56…Q-62 written to `follow-up_questions.md` as FQ-38…FQ-44, none blocking; T5 early marker written).* · *Step 4, Phase 5 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_05_Relation_and_Geometry.md` (axis: \"Owed constantly, supplied seasonally\"; T8: Round 2 UNANIMOUS 31/31 (93/93 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_5.md`; merge per `M-246`; handoff sweep 26 rows discharged; the FQ-22 founders read done in-window under `DR-46` (Idelsk-Uralia founding nation; Russia, Australia, the Sinian Federation as exile groups); new requests R-48…R-66; developer questions Q-44…Q-55 written to `follow-up_questions.md` as FQ-26…FQ-37, none blocking; process lesson: the developer uses plan mode as \"read freely, approve edits\" — readers staged outputs in plan files, the verifier ran read-only, and the merge was approved in full before any project file was written).* · *2026-10-03: Step 4, Phase 4 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_04_Ordinary_Life.md` (axis: \"The stop and the crossings\"; T8: Round 2 UNANIMOUS 22/22 (66/66 fields), Round 3 6/6 CONSISTENT after one slot retry — reader C's first attempt was INCONSISTENT, slot re-dispatched as C2; round record `04b_T8_Rounds_Phase_4.md`; merge per `M-246`; handoff sweep 21 rows discharged; new requests R-36…R-47; developer questions Q-41…Q-43 written to `follow-up_questions.md` as FQ-10…FQ-12, none blocking; process lesson: input files are frozen for a round — Phase 3 was edited mid-round and the verifier caught it).* · *Step 4, Phase 3 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_03_Surface_and_Texture.md` (axis: \"Wind-made, light-dated\"; T8: Round 2 UNANIMOUS 14/14 (42/42 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_3.md`; merge per `M-246`; handoff sweep 18 rows discharged; new requests R-25…R-35; developer questions Q-38…Q-40 and docket item FQ-9 (the contract's map of the Mirny spec no longer aligns on five lines edited 2026-10-01) written to `follow-up_questions.md`, none blocking).* · *Step 4, Phase 2 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_02_Composition_and_Arrival.md` (axis: \"Assigned exiles, natives later\"; T8: Round 2 UNANIMOUS 15/15, Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_2.md`; merge per `M-246`; handoff sweep 11 rows discharged; new requests R-14…R-24; developer questions Q-36, Q-37 and the standing Q-35 written to `follow-up_questions.md`, none blocking).* · *2026-09-30:* *Step 3 ✅ — `…/Mirny_Subnet/Mirny/03_Research.md` + `Research_Logs/Mirny_Research_Log.md` (T8: Round 2 UNANIMOUS 3/3, Round 3 6/6 CONSISTENT; round record `03b_T8_Rounds_Step_3.md`; web-search session cap reached — unspent picks logged).* · *Step 2 ✅ — `…/Mirny_Subnet/Mirny/02_Spine.md` (T8: Round 2 UNANIMOUS 6/6, Round 3 6/6 CONSISTENT; round record `02b_T8_Rounds_Step_2.md`).* · *Step 1 ✅ — `…/Mirny_Subnet/Mirny/01_Inherited.md` (T8: Round 2 UNANIMOUS 3/3, Round 3 6/6 CONSISTENT; round record `01b_T8_Rounds_Step_1.md`).* · *2026-09-29: Step 0 ✅ — `…/Mirny_Subnet/Mirny/00_Frame.md` (T8: Round 2 UNANIMOUS 18/18, Round 3 6/6 CONSISTENT; round record `00b_T8_Rounds_Step_0.md`). Developer rulings given at its close: `DR-14`–`DR-18` (⛔ **CST and RWBEM are not ULM inputs**; real-world comparables stay in via Step 3; the ULM works at full Census I; founding dates after the ULM). Still open from the frame: **Q-20** (Installation half of the Type, held) and Q-33 (registration, to discuss together).* · *2026-09-28: Step −1 ✅ — `…/Mirny_Subnet/Mirny/00.1_Step_MINUS-1_Input_Contract.md` (T8: Round 2 UNANIMOUS 15/15, Round 3 6/6 CONSISTENT; round record `00.1b_…`). Developer rulings given at its close: `DEVELOPER_RULINGS_LOG.md` `DR-9`–`DR-13` (open follow-ons `DR-10a`, `DR-11a`).*"
+     },
+     {
+      "a": 533,
+      "b": 533,
+      "first": "| ▶ **Mirny** | ▶ **Step −1 ✅** *(2026-09-28, `00.1_Step_MINUS-1_Input_Contract.md`; T8 UNANIMOUS + 6/6 CONSISTENT)* · **Step 0 ✅** *(2026-09-29, `00_Frame.md`; T8 UNANIMOUS 18/18 + 6/6 CONSISTENT)* · **Step 1 ✅** *(2026-09-30, `01_Inherited.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 2 ✅** *(2026-09-30, `02_Spine.md`; T8 UNANIMOUS 6/6 + 6/6 CONSISTENT)* · **Step 3 ✅** *(2026-09-30, `03_Research.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 4: Phase 2 ✅** *(2026-10-03, `04_Phase_02_Composition_and_Arrival.md`; T8 UNANIMOUS 15/15 + 6/6 CONSISTENT)* · **Phase 3 ✅** *(2026-10-03, `04_Phase_03_Surface_and_Texture.md`; T8 UNANIMOUS 14/14 + 6/6 CONSISTENT)* · **Phase 4 ✅** *(2026-10-03, `04_Phase_04_Ordinary_Life.md`; T8 UNANIMOUS 22/22 + 6/6 CONSISTENT after one slot retry)* · **Phase 5 ✅** *(2026-10-05, `04_Phase_05_Relation_and_Geometry.md`; T8 UNANIMOUS 31/31 + 6/6 CONSISTENT)* · **Phase 6 ✅** *(2026-10-05, `04_Phase_06_Meaning.md`; T8 UNANIMOUS 34/34 + 6/6 CONSISTENT)* · **Phase 7 ✅** *(2026-10-06, `04_Phase_07_Order.md`; T8 UNANIMOUS 58/58 + 6/6 CONSISTENT)* · **Phase 8 ✅** *(2026-10-06, `04_Phase_08_Making.md`; T8 UNANIMOUS 38/38 + 6/6 CONSISTENT after one slot retry)* · **Phase 9 ✅** *(2026-10-11, `04_Phase_09_Populations.md`; T8 UNANIMOUS 68/68 + 6/6 CONSISTENT after two slot restarts)* · **Phase 10 ✅** *(2026-10-11, `04_Phase_10_Catalog.md`; T8 UNANIMOUS 33/33 after a same-reader Round 2 repair + 6/6 CONSISTENT)* · **Step 4 ✅** · **Step 5 ✅** *(2026-10-12, `05_Reconciliation.md`; T8 UNANIMOUS 48/48 + 6/6 CONSISTENT; written unattended, awaiting developer review)* · **Step 6 ✅** *(2026-10-12, `06_Differentiation.md`; T8 UNANIMOUS 17/17 + 6/6 CONSISTENT; row written to the table; unattended, awaiting developer review)* · **Step 7 ✅** *(2026-10-12, `07_QA_Gates.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 8 ✅** *(2026-10-12, `08_Review_Panel.md`; T8 UNANIMOUS 20/20 + 6/6 CONSISTENT; awaiting developer review)* · **Step 9 ✅** *(2026-10-12, `09_Record.md`, `09.5_Log.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 10 run** *(2026-10-13, `10_Readiness_Check.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT; awaiting developer review; not complete)* · **`DR-56` amendment next** | · | · | ✅ |",
+      "last": "| ▶ **Mirny** | ▶ **Step −1 ✅** *(2026-09-28, `00.1_Step_MINUS-1_Input_Contract.md`; T8 UNANIMOUS + 6/6 CONSISTENT)* · **Step 0 ✅** *(2026-09-29, `00_Frame.md`; T8 UNANIMOUS 18/18 + 6/6 CONSISTENT)* · **Step 1 ✅** *(2026-09-30, `01_Inherited.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 2 ✅** *(2026-09-30, `02_Spine.md`; T8 UNANIMOUS 6/6 + 6/6 CONSISTENT)* · **Step 3 ✅** *(2026-09-30, `03_Research.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 4: Phase 2 ✅** *(2026-10-03, `04_Phase_02_Composition_and_Arrival.md`; T8 UNANIMOUS 15/15 + 6/6 CONSISTENT)* · **Phase 3 ✅** *(2026-10-03, `04_Phase_03_Surface_and_Texture.md`; T8 UNANIMOUS 14/14 + 6/6 CONSISTENT)* · **Phase 4 ✅** *(2026-10-03, `04_Phase_04_Ordinary_Life.md`; T8 UNANIMOUS 22/22 + 6/6 CONSISTENT after one slot retry)* · **Phase 5 ✅** *(2026-10-05, `04_Phase_05_Relation_and_Geometry.md`; T8 UNANIMOUS 31/31 + 6/6 CONSISTENT)* · **Phase 6 ✅** *(2026-10-05, `04_Phase_06_Meaning.md`; T8 UNANIMOUS 34/34 + 6/6 CONSISTENT)* · **Phase 7 ✅** *(2026-10-06, `04_Phase_07_Order.md`; T8 UNANIMOUS 58/58 + 6/6 CONSISTENT)* · **Phase 8 ✅** *(2026-10-06, `04_Phase_08_Making.md`; T8 UNANIMOUS 38/38 + 6/6 CONSISTENT after one slot retry)* · **Phase 9 ✅** *(2026-10-11, `04_Phase_09_Populations.md`; T8 UNANIMOUS 68/68 + 6/6 CONSISTENT after two slot restarts)* · **Phase 10 ✅** *(2026-10-11, `04_Phase_10_Catalog.md`; T8 UNANIMOUS 33/33 after a same-reader Round 2 repair + 6/6 CONSISTENT)* · **Step 4 ✅** · **Step 5 ✅** *(2026-10-12, `05_Reconciliation.md`; T8 UNANIMOUS 48/48 + 6/6 CONSISTENT; written unattended, awaiting developer review)* · **Step 6 ✅** *(2026-10-12, `06_Differentiation.md`; T8 UNANIMOUS 17/17 + 6/6 CONSISTENT; row written to the table; unattended, awaiting developer review)* · **Step 7 ✅** *(2026-10-12, `07_QA_Gates.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 8 ✅** *(2026-10-12, `08_Review_Panel.md`; T8 UNANIMOUS 20/20 + 6/6 CONSISTENT; awaiting developer review)* · **Step 9 ✅** *(2026-10-12, `09_Record.md`, `09.5_Log.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 10 run** *(2026-10-13, `10_Readiness_Check.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT; awaiting developer review; not complete)* · **`DR-56` amendment next** | · | · | ✅ |"
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 20,
+      "b": 147,
+      "first": "# 2026-09-13",
+      "last": ""
+     },
+     {
+      "a": 170,
+      "b": 254,
+      "first": "## `DR-3` · ⏸️ **SUBNET-LOCAL CURRENCIES, THEN HARMONIZATION — FUTURE WORK, HARD-GATED**",
+      "last": ""
+     },
+     {
+      "a": 384,
+      "b": 419,
+      "first": "# 2026-09-16",
+      "last": ""
+     },
+     {
+      "a": 422,
+      "b": 554,
+      "first": "## `DR-9` · ✅ **MIRNY'S FOUNDERS: EXILES FROM RUSSIA, CHINA AND AUSTRALIA**",
+      "last": ""
+     },
+     {
+      "a": 623,
+      "b": 665,
+      "first": "## `DR-24` · ✅ **INFRASTRUCTURE CAN OUTLAST THE STATION'S FOUNDERS — `Settled:` LINES MAY NAME THE OPERATOR**",
+      "last": ""
+     },
+     {
+      "a": 678,
+      "b": 690,
+      "first": "## `DR-28` · ✅ **AUDIT RECOMMENDATIONS ADOPTED (D2–D4, D6–D8)**",
+      "last": ""
+     },
+     {
+      "a": 725,
+      "b": 757,
+      "first": "## `DR-31` · ✅ **THE LAW FILE, `CLAUDE.md` AND THE HOOK — APPROVED CHANGES; THE ACTS ARE A HAZY RANGE**",
+      "last": ""
+     },
+     {
+      "a": 953,
+      "b": 1031,
+      "first": "## `DR-46` · ✅ **MAWSON: KAZAKHSTAN AND RUSSIA · MIRNY: FOUNDED BY IDELSK-URALIA, WITH RUSSIA, AUSTRALIA AND THE SINIAN FEDERATION AS EXILE GROUPS**",
+      "last": "---"
+     },
+     {
+      "a": 1076,
+      "b": 1088,
+      "first": "",
+      "last": "| **Hours** | Recording a developer's founding ruling is not restricted to 05:00–14:59 (same reasoning as `DR-33` and `DR-53`: the developer decides; this is assembly). |"
+     }
+    ]
+   }
+  ],
+  "step:8": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00f_Review_Panel.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 309,
+      "b": 372,
+      "first": "# LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.",
+      "last": "> expected state, not a problem to paper over."
+     },
+     {
+      "a": 378,
+      "b": 426,
+      "first": "# ⛔⛔⛔ THE LAW OF NO FORCED FIT — **AN EMPTY SLOT IS A RESULT, NOT A GAP.**",
+      "last": "belief, and `03` §Phase 6 B carries the operational form.**"
+     },
+     {
+      "a": 430,
+      "b": 540,
+      "first": "# ⛔⛔⛔ THE LAW OF ONE LOCATION, ON ITS OWN TERMS — **NO CITY IS EVER COMPARED TO ANY OTHER CITY**",
+      "last": ""
+     },
+     {
+      "a": 2961,
+      "b": 2984,
+      "first": "# Step 8 — The Review Panel",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ],
+  "step:9": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 2985,
+      "b": 3044,
+      "first": "# Step 9 — Record",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 8520,
+      "b": 8556,
+      "first": "- **M-260 · A Round 2 failure on line counts was repaired by the same readers re-checking, not by a fresh re-dispatch** (Mirny Phase 10, 2026-10-11). The first run of `triple_read_verify.py` failed on 10 fields across 6 of 99 field sets (A 6, B 1, C 3): line counts one too high (claimed 175, 185, 36, 268 against 174, 184, 35, 267) and middle or last lines taken from the wrong position. Phases 4 and 8 re-dispatched the failed slot fresh. Here the orchestrator asked the developer, who chose \"Same readers re-check\": each reader re-read the failed lines by hand and returned corrected blocks, the orchestrator supplied no value, the blocks were patched in verbatim, and the second run was UNANIMOUS 33/33 (99/99). **Why it was acceptable:** the failure was in PROOF fields, not in the reading logs or the body; a fresh slot would have re-read 9,264 lines to fix a count. **What stays open:** whether this is a valid precedent when the readers can see which fields failed (they could); the probable cause (the Read tool's phantom last line) is described in the readers' own snags and is not proved. Recorded in `04b` and the phase file's header.",
+      "last": "**Status:** ✅ recorded 2026-10-12; applied in `08_Review_Panel.md` and `08b_T8_Rounds_Step_8.md`."
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/MASTER_Process_Tracker.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 359,
+      "b": 361,
+      "first": "> # 📍 RESUME HERE",
+      "last": "> **LAST TOUCHED:** **2026-10-13.** *Step 10 run (not complete; awaiting developer review) — `…/Mirny_Subnet/Mirny/10_Readiness_Check.md` + `10b_T8_Rounds_Step_10.md`; five of fourteen checks fired (1, 1a, 7, 8, 10); FQ-127…131; Symbol review `Symbol_Review_2026-10-13.md` (Element Air confirmed provisionally; Planet open). `DR-54`, `DR-55`, `DR-56` recorded (term Social Contract → Social Contract; the wind learned then taught): pass files not yet amended.* · *2026-10-12.* *Step 9 ✅ — `…/Mirny_Subnet/Mirny/09_Record.md` + `09.5_Log.md` + `09b_T8_Rounds_Step_9.md` (Record and the Recording Law; **awaiting developer review**; T8: Round 2 UNANIMOUS 30/30 (90/90), Round 3 6/6 CONSISTENT; findings in the observations log `M-283`…`M-298`, methodology proposals MP-1…19 PROPOSED, none applied; FQ-119…126).* · *Step 8 ✅ — `…/Mirny_Subnet/Mirny/08_Review_Panel.md` + `08b_T8_Rounds_Step_8.md` (the Review Panel, Gate 10; **awaiting developer review**; the `00f` pin re-verified (sha256[:16] 33d660ebfbbca9e9, 737 lines); T8: Round 2 UNANIMOUS 20/20 (60/60 fields), Round 3 6/6 CONSISTENT; six Flat Archetypes + Passer-Through (PASS) + Neighbor (relation-only; castable for the signal only); 14 panel-derived findings PF-1…14 (the person slot has a household around it; no priority rule, not no arbiter; the record's founding marks unknown; the tacit channel unread; carrying the unlearned keeps them unlearned; the wind's examiner issues only failures; the ledger is hub-side), **one `unmet`** (the hub does not ask for a second path — the keepers' debt, the one thing the pass shows Mirny knowingly holding), declines for play space, courtship venue, landmark, festival; five refereed conflicts; standout P6-17 kept with a hub-side scope note; the Lover's question: alive in conditions and households, not yet lovable for what its people do with their own hours; S8-RF-1…10, requests R-162…R-168, questions Q-129…Q-136 written as FQ-111…FQ-118, PA-89…PA-91; process lessons `M-280`…`M-282`).* · *Step 7 ✅ — `…/Mirny_Subnet/Mirny/07_QA_Gates.md` + `07b_T8_Rounds_Step_7.md` (QA; **awaiting developer review**; T8: Round 2 UNANIMOUS 30/30 (90/90 fields), Round 3 6/6 CONSISTENT, after a usage-limit cutoff and resume; 16 gates run, Gate 10 carried to Step 8, Gate P does not apply as a run; failed in part: Gate 0, Gate 3, Gate C; holes found at Gate 1: the city's water supply and the yards' emissions; the standout is P6-17's three-slot ledger; highest flag: the strong form of the strongest finding's leg 4 is implausible as a world-fact; no flag blocks Step 8 — six errata E1–E6 go into its brief; closing test: structurally yes, as a lived life not yet; 26 flags with proposed fixes (none applied); S7-RF-1…8, requests R-151…R-161, questions Q-122…Q-128 written as FQ-104…FQ-110, PA-83…PA-88; process lessons `M-276`…`M-279`).* · *Step 6 ✅ — `…/Mirny_Subnet/Mirny/06_Differentiation.md` + `06b_T8_Rounds_Step_6.md` (write-only; **unattended, awaiting developer review**; T8: Round 2 UNANIMOUS 17/17 (51/51 fields), Round 3 6/6 CONSISTENT; all four III.4 substitutes run — own earlier states (a two-state comparison plus a recurring crisis state; the tense axis shows the same kind of loss in a different tense), the sub-units and parent, twelve real-world comparables with divergence, the generator conflicts; the no-sibling risk stated, the strongest being that every cell descends from one property (what cannot be handed on, in a place that hands on everything else); Mirny's nine-section row (21 cells, one NULL for Death under `RV-4`) **written to `Cross_City_Culture_Differentiation_Table.md` as nine inserted lines, no other row read**; propagation: the table has no Catalog section and no axis column for Meaning, Order and Making; reserved findings S6-RF-1…9, requests R-142…R-150, questions Q-111…Q-121 written as FQ-93…FQ-103, provisional assumptions PA-75…PA-82; process lessons `M-272`…`M-275`).* · *Step 5 ✅ — `…/Mirny_Subnet/Mirny/05_Reconciliation.md` + `05b_T8_Rounds_Step_5.md` (Reconciliation and the CLOSE pass; **written unattended and awaiting developer review**; T8: Round 2 UNANIMOUS 48/48 (144/144 fields, first run); Round 3 6/6 CONSISTENT; merge per `M-246` as ten part files assembled by `assemble_merge5.py`; the three culture files are all Tier 3 and none outranks a pass finding; **strongest finding = the Social Contract (P6-1, P6-17), not contradicted — its fourth leg, the reading of absence, was the testable one and held**; 124 reconciliation rows; 6 real contradictions, all with Tier 1 or the ratified spec (founders per `DR-46`; the corrected light; five against nine members; visible robot plating; the namesake and station history; the Element left OPEN) and 14 both-true readings; **no pass finding withdrawn, no candidate falsified, nothing adopted**; 23-row proposed-correction docket (never applied); Zodiac amendments to Phase 9 written as amendments (three firm, two conditional, two seeds; P10-6 does not fire; Phase 9's own file untouched); B3: Planet Saturn confirmed provisionally, Element left open with Air standing; vignette-grounded robot-culture rows and the whole personality read OUT OF FRAME; new reserved findings S5-RF-1…9, requests R-131…R-141, questions Q-100…Q-110 written to `follow-up_questions.md` as FQ-82…FQ-92, none blocking, provisional assumptions PA-69…PA-74; process lessons `M-266`…`M-271`; the Position-Coverage ledger is NOT touched — developer confirmation only).* · *2026-10-11. Step 4, Phase 10 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_10_Catalog.md` (**Step 4 is complete**; axis: \"What stays, what refills\", reached independently by readers A and C, with reader B's \"Kept unseen, surfaces refill\" carried as its third order; T8: Round 2 first run FAILED (10 line-count and middle/last-line fields across 6 of 99 field sets) and was repaired by the **same readers re-checking** — a developer-approved deviation from the fresh re-dispatch precedent — then UNANIMOUS 33/33 (99/99 fields); Round 3 6/6 CONSISTENT; web research ran inside the round (LAW 0-R) and all three research logs are appended verbatim to `Mirny_Research_Log.md`; slot A was cut off once and slot B twice by the API safeguard flag and resumed from their reading logs; round record `04b_T8_Rounds_Phase_10.md`; merge per `M-246`; **no place is named** — the files give specific referents and no forms, and the two offered designations were withdrawn or held as a question; Hwy 110 keeps its canon name; the landmarks that stay were made by no one who lives there and the things that refill are the residents' own making; B3: Planet Saturn confirmed provisionally (its negative term lands on the subnet's single path, not on Mirny) and Element Air determined provisionally, with Neptune/Sun, Electricity, Metal and Wood reserved; the blizz line is a candidate and the radio check-in reserved; the cleared bank that blinds the approach; the missing posted wind call as a choice, not a limit; 8 findings, 17 reserved findings; handoff sweep 33 rows; new requests R-118…R-130; developer questions Q-89…Q-99 written to `follow-up_questions.md` as FQ-71…FQ-81, none blocking; process lessons `M-260`…`M-265`).* · *Step 4, Phase 9 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_09_Populations.md` (axis: \"Formed here, or arrived\", two lines — a wind line anyone can cross by exposure and a memory line only arrivals have — holding the three readers' axes \"Exposure, not kind\", \"First sky, not body\" and C's own; T8: Round 2 UNANIMOUS 68/68 (204/204 fields) after two slot restarts — readers A and C were each cut off by the API safeguard flag and resumed from their reading logs; Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_9.md`; merge per `M-246`; the line crosses both bodies and carries no rank; in Act 2 the remembering side is robots; the founding is held first-hand only by the founding-cohort robots and the record cannot vouch for it; `DR-51` (later human immigration) kept open; built-here robots written as the PA-40 default with the `M-169` check made; work groups are roles, not peoples; no population of dissent, no faith population, no Doll Category 2–4; the national baseline is the floor, not a finding; 19 findings, 13 reserved findings, nothing sized; handoff sweep 28 rows discharged; new requests R-107…R-117; developer questions Q-83…Q-88 written to `follow-up_questions.md` as FQ-65…FQ-70, none blocking; process lessons `M-257`…`M-259`).* · *Step 4, Phase 8 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_08_Making.md` (axis: \"Prepared, not predicted\", with native-at-the-door and what-can-be-handed-on as sub-axes; T8: Round 2 UNANIMOUS 38/38 (114/114 fields) after one slot retry — reader C failed three LMID fields and was re-dispatched as C2; Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_8.md`; merge per `M-246`; the first dispatch was blocked by an API safeguard flag and an identical re-dispatch went through; the table is national and no dish crosses the bodies; the plate has no plannable season; the robot's food is the crossing's budget; music, games, dishes and fashion are nulls with reasons; making for itself is upkeep; the reading makes no object and the one object it could make (the amended copy) changes the Social Contract; dressing at the door is the only outward sign of a private reading; the tongue is unnamed and only the robot half has an admitted language mechanism; a referent register with no word for \"soon\"; seven candidates pending Step 5; handoff sweep 27 rows discharged; new requests R-96…R-106; developer questions Q-74…Q-82 written to `follow-up_questions.md` as FQ-56…FQ-64, none blocking; process lessons `M-253`…`M-256`).* · *Step 4, Phase 7 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_07_Order.md` (axis: \"Claims without an arbiter\", with calls by position as the fast-call sub-axis; T8: Round 2 UNANIMOUS 58/58 (174/174 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_7.md`; merge per `M-246`; **R-24 resolved: `16` §20's 23.6 % mandated / 35.3 % free governs and Half B's 11.8 % was the Arcanet sector alone** (27-row downstream-effects table; no earlier file edited); R-12 not chosen; a chamber is the national default (PA-40); the quarry's two claims have no admitted arbiter; the wind call is unadministrable and every instrument gives a loss a second answerer and changes the Social Contract; no Mirny-local prohibition has an author; criminal justice TBD (`H42`); the dissent sits inside each person; handoff sweep 38 rows discharged; new requests R-78…R-95; developer questions Q-63…Q-73 written to `follow-up_questions.md` as FQ-45…FQ-55, none blocking; process lessons `M-249`…`M-252`).* · *2026-10-05: Step 4, Phase 6 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_06_Meaning.md` (axis: \"The medium holds; the person answers\"; T8: Round 2 UNANIMOUS 34/34 (102/102 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_6.md`; merge per `M-246`; the Name is a Social Contract — the record and relay hold, the reading of the wind is each person's own; no faith sited, slot open; the mortuary question untouched (`RV-4`); the core value's failure refused, not ritualized; two candidate observances (the first sunset; the called water) pending Step 5; `National_Holidays.md`'s Mirny entry refused-in-file (vignette source); new requests R-67…R-77; developer questions Q-56…Q-62 written to `follow-up_questions.md` as FQ-38…FQ-44, none blocking; T5 early marker written).* · *Step 4, Phase 5 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_05_Relation_and_Geometry.md` (axis: \"Owed constantly, supplied seasonally\"; T8: Round 2 UNANIMOUS 31/31 (93/93 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_5.md`; merge per `M-246`; handoff sweep 26 rows discharged; the FQ-22 founders read done in-window under `DR-46` (Idelsk-Uralia founding nation; Russia, Australia, the Sinian Federation as exile groups); new requests R-48…R-66; developer questions Q-44…Q-55 written to `follow-up_questions.md` as FQ-26…FQ-37, none blocking; process lesson: the developer uses plan mode as \"read freely, approve edits\" — readers staged outputs in plan files, the verifier ran read-only, and the merge was approved in full before any project file was written).* · *2026-10-03: Step 4, Phase 4 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_04_Ordinary_Life.md` (axis: \"The stop and the crossings\"; T8: Round 2 UNANIMOUS 22/22 (66/66 fields), Round 3 6/6 CONSISTENT after one slot retry — reader C's first attempt was INCONSISTENT, slot re-dispatched as C2; round record `04b_T8_Rounds_Phase_4.md`; merge per `M-246`; handoff sweep 21 rows discharged; new requests R-36…R-47; developer questions Q-41…Q-43 written to `follow-up_questions.md` as FQ-10…FQ-12, none blocking; process lesson: input files are frozen for a round — Phase 3 was edited mid-round and the verifier caught it).* · *Step 4, Phase 3 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_03_Surface_and_Texture.md` (axis: \"Wind-made, light-dated\"; T8: Round 2 UNANIMOUS 14/14 (42/42 fields), Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_3.md`; merge per `M-246`; handoff sweep 18 rows discharged; new requests R-25…R-35; developer questions Q-38…Q-40 and docket item FQ-9 (the contract's map of the Mirny spec no longer aligns on five lines edited 2026-10-01) written to `follow-up_questions.md`, none blocking).* · *Step 4, Phase 2 ✅ — `…/Mirny_Subnet/Mirny/04_Phase_02_Composition_and_Arrival.md` (axis: \"Assigned exiles, natives later\"; T8: Round 2 UNANIMOUS 15/15, Round 3 6/6 CONSISTENT; round record `04b_T8_Rounds_Phase_2.md`; merge per `M-246`; handoff sweep 11 rows discharged; new requests R-14…R-24; developer questions Q-36, Q-37 and the standing Q-35 written to `follow-up_questions.md`, none blocking).* · *2026-09-30:* *Step 3 ✅ — `…/Mirny_Subnet/Mirny/03_Research.md` + `Research_Logs/Mirny_Research_Log.md` (T8: Round 2 UNANIMOUS 3/3, Round 3 6/6 CONSISTENT; round record `03b_T8_Rounds_Step_3.md`; web-search session cap reached — unspent picks logged).* · *Step 2 ✅ — `…/Mirny_Subnet/Mirny/02_Spine.md` (T8: Round 2 UNANIMOUS 6/6, Round 3 6/6 CONSISTENT; round record `02b_T8_Rounds_Step_2.md`).* · *Step 1 ✅ — `…/Mirny_Subnet/Mirny/01_Inherited.md` (T8: Round 2 UNANIMOUS 3/3, Round 3 6/6 CONSISTENT; round record `01b_T8_Rounds_Step_1.md`).* · *2026-09-29: Step 0 ✅ — `…/Mirny_Subnet/Mirny/00_Frame.md` (T8: Round 2 UNANIMOUS 18/18, Round 3 6/6 CONSISTENT; round record `00b_T8_Rounds_Step_0.md`). Developer rulings given at its close: `DR-14`–`DR-18` (⛔ **CST and RWBEM are not ULM inputs**; real-world comparables stay in via Step 3; the ULM works at full Census I; founding dates after the ULM). Still open from the frame: **Q-20** (Installation half of the Type, held) and Q-33 (registration, to discuss together).* · *2026-09-28: Step −1 ✅ — `…/Mirny_Subnet/Mirny/00.1_Step_MINUS-1_Input_Contract.md` (T8: Round 2 UNANIMOUS 15/15, Round 3 6/6 CONSISTENT; round record `00.1b_…`). Developer rulings given at its close: `DEVELOPER_RULINGS_LOG.md` `DR-9`–`DR-13` (open follow-ons `DR-10a`, `DR-11a`).*"
+     },
+     {
+      "a": 533,
+      "b": 533,
+      "first": "| ▶ **Mirny** | ▶ **Step −1 ✅** *(2026-09-28, `00.1_Step_MINUS-1_Input_Contract.md`; T8 UNANIMOUS + 6/6 CONSISTENT)* · **Step 0 ✅** *(2026-09-29, `00_Frame.md`; T8 UNANIMOUS 18/18 + 6/6 CONSISTENT)* · **Step 1 ✅** *(2026-09-30, `01_Inherited.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 2 ✅** *(2026-09-30, `02_Spine.md`; T8 UNANIMOUS 6/6 + 6/6 CONSISTENT)* · **Step 3 ✅** *(2026-09-30, `03_Research.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 4: Phase 2 ✅** *(2026-10-03, `04_Phase_02_Composition_and_Arrival.md`; T8 UNANIMOUS 15/15 + 6/6 CONSISTENT)* · **Phase 3 ✅** *(2026-10-03, `04_Phase_03_Surface_and_Texture.md`; T8 UNANIMOUS 14/14 + 6/6 CONSISTENT)* · **Phase 4 ✅** *(2026-10-03, `04_Phase_04_Ordinary_Life.md`; T8 UNANIMOUS 22/22 + 6/6 CONSISTENT after one slot retry)* · **Phase 5 ✅** *(2026-10-05, `04_Phase_05_Relation_and_Geometry.md`; T8 UNANIMOUS 31/31 + 6/6 CONSISTENT)* · **Phase 6 ✅** *(2026-10-05, `04_Phase_06_Meaning.md`; T8 UNANIMOUS 34/34 + 6/6 CONSISTENT)* · **Phase 7 ✅** *(2026-10-06, `04_Phase_07_Order.md`; T8 UNANIMOUS 58/58 + 6/6 CONSISTENT)* · **Phase 8 ✅** *(2026-10-06, `04_Phase_08_Making.md`; T8 UNANIMOUS 38/38 + 6/6 CONSISTENT after one slot retry)* · **Phase 9 ✅** *(2026-10-11, `04_Phase_09_Populations.md`; T8 UNANIMOUS 68/68 + 6/6 CONSISTENT after two slot restarts)* · **Phase 10 ✅** *(2026-10-11, `04_Phase_10_Catalog.md`; T8 UNANIMOUS 33/33 after a same-reader Round 2 repair + 6/6 CONSISTENT)* · **Step 4 ✅** · **Step 5 ✅** *(2026-10-12, `05_Reconciliation.md`; T8 UNANIMOUS 48/48 + 6/6 CONSISTENT; written unattended, awaiting developer review)* · **Step 6 ✅** *(2026-10-12, `06_Differentiation.md`; T8 UNANIMOUS 17/17 + 6/6 CONSISTENT; row written to the table; unattended, awaiting developer review)* · **Step 7 ✅** *(2026-10-12, `07_QA_Gates.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 8 ✅** *(2026-10-12, `08_Review_Panel.md`; T8 UNANIMOUS 20/20 + 6/6 CONSISTENT; awaiting developer review)* · **Step 9 ✅** *(2026-10-12, `09_Record.md`, `09.5_Log.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 10 run** *(2026-10-13, `10_Readiness_Check.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT; awaiting developer review; not complete)* · **`DR-56` amendment next** | · | · | ✅ |",
+      "last": "| ▶ **Mirny** | ▶ **Step −1 ✅** *(2026-09-28, `00.1_Step_MINUS-1_Input_Contract.md`; T8 UNANIMOUS + 6/6 CONSISTENT)* · **Step 0 ✅** *(2026-09-29, `00_Frame.md`; T8 UNANIMOUS 18/18 + 6/6 CONSISTENT)* · **Step 1 ✅** *(2026-09-30, `01_Inherited.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 2 ✅** *(2026-09-30, `02_Spine.md`; T8 UNANIMOUS 6/6 + 6/6 CONSISTENT)* · **Step 3 ✅** *(2026-09-30, `03_Research.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT)* · **Step 4: Phase 2 ✅** *(2026-10-03, `04_Phase_02_Composition_and_Arrival.md`; T8 UNANIMOUS 15/15 + 6/6 CONSISTENT)* · **Phase 3 ✅** *(2026-10-03, `04_Phase_03_Surface_and_Texture.md`; T8 UNANIMOUS 14/14 + 6/6 CONSISTENT)* · **Phase 4 ✅** *(2026-10-03, `04_Phase_04_Ordinary_Life.md`; T8 UNANIMOUS 22/22 + 6/6 CONSISTENT after one slot retry)* · **Phase 5 ✅** *(2026-10-05, `04_Phase_05_Relation_and_Geometry.md`; T8 UNANIMOUS 31/31 + 6/6 CONSISTENT)* · **Phase 6 ✅** *(2026-10-05, `04_Phase_06_Meaning.md`; T8 UNANIMOUS 34/34 + 6/6 CONSISTENT)* · **Phase 7 ✅** *(2026-10-06, `04_Phase_07_Order.md`; T8 UNANIMOUS 58/58 + 6/6 CONSISTENT)* · **Phase 8 ✅** *(2026-10-06, `04_Phase_08_Making.md`; T8 UNANIMOUS 38/38 + 6/6 CONSISTENT after one slot retry)* · **Phase 9 ✅** *(2026-10-11, `04_Phase_09_Populations.md`; T8 UNANIMOUS 68/68 + 6/6 CONSISTENT after two slot restarts)* · **Phase 10 ✅** *(2026-10-11, `04_Phase_10_Catalog.md`; T8 UNANIMOUS 33/33 after a same-reader Round 2 repair + 6/6 CONSISTENT)* · **Step 4 ✅** · **Step 5 ✅** *(2026-10-12, `05_Reconciliation.md`; T8 UNANIMOUS 48/48 + 6/6 CONSISTENT; written unattended, awaiting developer review)* · **Step 6 ✅** *(2026-10-12, `06_Differentiation.md`; T8 UNANIMOUS 17/17 + 6/6 CONSISTENT; row written to the table; unattended, awaiting developer review)* · **Step 7 ✅** *(2026-10-12, `07_QA_Gates.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 8 ✅** *(2026-10-12, `08_Review_Panel.md`; T8 UNANIMOUS 20/20 + 6/6 CONSISTENT; awaiting developer review)* · **Step 9 ✅** *(2026-10-12, `09_Record.md`, `09.5_Log.md`; T8 UNANIMOUS 30/30 + 6/6 CONSISTENT; awaiting developer review)* · **Step 10 run** *(2026-10-13, `10_Readiness_Check.md`; T8 UNANIMOUS 3/3 + 6/6 CONSISTENT; awaiting developer review; not complete)* · **`DR-56` amendment next** | · | · | ✅ |"
+     }
+    ]
+   }
+  ],
+  "step:10": [
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md",
+    "whole": false,
+    "auto": false,
+    "pieces": [
+     {
+      "a": 3045,
+      "b": 3133,
+      "first": "# Step 10 — THE READINESS CHECK",
+      "last": ""
+     }
+    ]
+   },
+   {
+    "path": "Worldspace/Locations-and-Levels/Universal_Location_Methodology/06_Worked_Example_Provenance.md",
+    "whole": true,
+    "auto": false,
+    "pieces": []
+   }
+  ]
+ }
+}
