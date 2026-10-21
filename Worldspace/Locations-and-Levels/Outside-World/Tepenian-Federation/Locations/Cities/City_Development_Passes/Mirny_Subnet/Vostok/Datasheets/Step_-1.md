@@ -7,9 +7,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Specs file | `Specs/Vostok.md`, 203 lines | Read in full |
-| Real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, Southern Pole of Inaccessibility | `Specs/Vostok.md` L3 |
-| Coordinates | ~78°28′S, 106°52′E | `Specs/Vostok.md` L3 |
+| Specs file | `Specs/Mirny subnet/Ariun_Nuur.md`, 203 lines | Read in full |
+| Real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, Southern Pole of Inaccessibility | `Specs/Mirny subnet/Ariun_Nuur.md` L5 |
+| Coordinates | ~78°28′S, 106°52′E | `Specs/Mirny subnet/Ariun_Nuur.md` L5 |
 | Admitted range | Not pre-staged — Step −1's own ruling. The exclusions below are the standing default-scope fields only. Spec founding line (now `Ariun_Nuur.md` L130, rewritten 2026-10-13): founders are ruled in the Founding Register, Künnarantaiga and Mongolia jointly (`DR-35`). (Refreshed 2026-10-21 against the corrected spec and the Founding Register.) | This datasheet set; `Founding_Register.md` |
 
 ## ⛔ EXCLUDED SECTIONS — four spec fields, excluded wholesale by field-name convention
@@ -20,20 +20,20 @@ are the corpus's standing default-scope markers.
 
 | Field | Citation | Handling |
 |---|---|---|
-| `**Status:**` header | `Specs/Vostok.md` L4 | States a later-era condition; excluded per the standing default-scope rule |
-| `## Current Status` | `Specs/Vostok.md` L181–185 | States a later-era condition; excluded per the standing default-scope rule |
-| `## Legacy` | `Specs/Vostok.md` L189–191 | States a later-era condition; excluded per the standing default-scope rule |
-| `## Connection to Concordia` | `Specs/Vostok.md` L171–177 | States a later-era condition; excluded per the standing default-scope rule |
+| `**Status:**` header | `Specs/Mirny subnet/Ariun_Nuur.md` L6 | States a later-era condition; excluded per the standing default-scope rule |
+| `## Current Status` | `Specs/Mirny subnet/Ariun_Nuur.md` L183–187 | States a later-era condition; excluded per the standing default-scope rule |
+| `## Legacy` | `Specs/Mirny subnet/Ariun_Nuur.md` L191–193 | States a later-era condition; excluded per the standing default-scope rule |
+| `## Connection to Concordia` | `Specs/Mirny subnet/Ariun_Nuur.md` L173–179 | States a later-era condition; excluded per the standing default-scope rule |
 
 ## ⛔ EXCLUDED CLAUSES — sentences within otherwise-admissible fields
 
 | Field | Citation | Handling |
 |---|---|---|
-| `**Significance:**`, final clause | `Specs/Vostok.md` L8 | States a later-era condition; excluded per the standing default-scope rule. Earlier portion of the same field is admissible — see `Step_0.md` |
-| `## Economy & Industry`, 3rd paragraph | `Specs/Vostok.md` L152 | States a later-era condition; excluded per the standing default-scope rule, in full |
-| `## Open Questions`, bullet 1 | `Specs/Vostok.md` L197 | States a later-era condition; excluded per the standing default-scope rule |
-| `#### Gameplay Notes` (all of it) | `Specs/Vostok.md` L112–120 | Game-mechanics/narrative-design commentary, not a location fact — out of ULM scope regardless of era |
-| `**DLC:**` header | `Specs/Vostok.md` L9 | DLC-scoping content, not a location fact — out of ULM scope |
+| `**Significance:**`, final clause | `Specs/Mirny subnet/Ariun_Nuur.md` L10 | States a later-era condition; excluded per the standing default-scope rule. Earlier portion of the same field is admissible — see `Step_0.md` |
+| `## Economy & Industry`, 3rd paragraph | `Specs/Mirny subnet/Ariun_Nuur.md` L154 | States a later-era condition; excluded per the standing default-scope rule, in full |
+| `## Open Questions`, bullet 1 | `Specs/Mirny subnet/Ariun_Nuur.md` L199 | States a later-era condition; excluded per the standing default-scope rule |
+| `#### Gameplay Notes` (all of it) | `Specs/Mirny subnet/Ariun_Nuur.md` L114–122 | Game-mechanics/narrative-design commentary, not a location fact — out of ULM scope regardless of era |
+| `**DLC:**` header | `Specs/Mirny subnet/Ariun_Nuur.md` L11 | DLC-scoping content, not a location fact — out of ULM scope |
 
 ## ⛔ CROSS-CITY CONTENT — flagged separately, see each phase's own FLAGGED table
 
