@@ -7,9 +7,11 @@ etc.) when its turn comes, not as shipped canon yet.
 
 **One item below is under active priority** — see Idea 2.
 
+**Update 2026-10-21:** several ideas below were worked through with the developer and decided, some in changed form; the headings note which. Record: `Fragmentation_Decisions_2026-10-18.md`.
+
 ---
 
-## ⭐⭐⭐ IDEA 2 — RETROACTIVE DISCOVERY: A COMPANION CAN LEARN WHO YOU USED TO BE EVEN IF THEY NEVER MET THEM
+## ⭐⭐⭐ IDEA 2 — RETROACTIVE DISCOVERY: A COMPANION CAN LEARN WHO YOU USED TO BE EVEN IF THEY NEVER MET THEM — **DECIDED 2026-10-21** (reduced seeding rate, no ceiling; volunteer, stay silent or deny; generic footprints plus authored threads; personalized footprints; The Long Vigil reachable through discovery)
 
 **IMMEDIATE PRIORITY, set by the developer 2026-09-14.**
 
@@ -114,7 +116,7 @@ structural claim about late-recruited companions.
 
 ---
 
-## IDEA 1 — A Grief Ledger, Not a Single Grief Value
+## IDEA 1 — A Grief Ledger, Not a Single Grief Value — **DECIDED 2026-10-21: a ledger** (the visible-tier rule is still open)
 
 Currently Grief is seeded once, "over a specific earlier configuration this entity actually knew," and doesn't
 shrink as Bond grows. But nothing in the current design addresses what happens across **multiple** re-specs.
@@ -137,7 +139,7 @@ entry, so the existing 16-cell grid doesn't need to grow — but the underlying 
 
 ---
 
-## IDEA 3 — A "Grief Confrontation" Beat at First Crossing Into Range 2/3
+## IDEA 3 — A "Grief Confrontation" Beat at First Crossing Into Range 2/3 — **DECIDED IN A CHANGED FORM 2026-10-21:** the confrontation raises Bond; it does not reduce Grief; deflecting does nothing now but is remembered
 
 A one-time scripted beat, similar in shape to a personal-questline trigger, that fires the first time a
 companion's Grief crosses into Range 2 or Range 3. Gives the player a binary choice: **sit with it** (acknowledge
@@ -151,7 +153,7 @@ than a flat mechanical wall the player has no say over.
 
 ---
 
-## IDEA 4 — Derive the Personality Grief-Multiplier Formulaically From Enneagram Type + Wing + Instinct
+## IDEA 4 — Derive the Personality Grief-Multiplier Formulaically From Enneagram Type + Wing + Instinct — **DEFERRED 2026-10-21**
 
 The four companions already calibrated in the main file (Ayako, Seica, Kendra, Calethina) all read as
 Enneagram-driven in how their multiplier was derived — SP4w5's grief-into-action pattern, 8w7's present-focus,

@@ -18,7 +18,9 @@ Re-speccing is never a menu option. It is a life-altering decision with irrevers
 
 **Traits — cannot be re-specced.** Traits represent fundamental orientation — the deepest layer of who the protagonist is. No method changes a trait. The closest thing is the Scorpio Rebirth Ritual, which installs a competing signal that fights with the existing trait rather than replacing it. The trait remains. It now loses arguments from the inside. This is the mechanism behind echo states.
 
-**Perks — unaffected by re-spec.** Perks are accumulated through play and remain regardless of stat changes, though some may function differently under a new stat configuration.
+**Perks — can be re-chosen as part of a re-spec, and are not guaranteed to stay** *(corrected 2026-10-21; earlier text said perks were unaffected).* Many perks require a minimum in one or more MACHINE stats, so a re-spec can leave the character unqualified for a perk. A perk the character currently holds always meets its requirement and works normally. A perk the character **had before and no longer has** (removed because the requirement is unmet, or swapped out in the re-spec) becomes a **past perk and glitches**: if the player now meets its requirement again but lacks the perk, it glitches less and to a lesser degree; if the player no longer meets the requirement, it glitches harder and more often. Glitches can fire with degraded numbers, on a different stat, or in ways opposite to the perk's old effect, and can spill onto the people around the player, for or against the player's favor, in the spirit of Fallout 1's Jinxed trait. Re-taking the perk ends its glitching. Details still being worked out; see `Fragmentation_Decisions_2026-10-18.md`.
+
+**In short: traits are permanent; everything else can be re-specced at a cost.**
 
 The romance system's double gate (questline + MACHINE stats/traits) depends on this distinction. Stat-gated romances are reachable through re-spec, at a cost. Trait-gated romances are permanently inaccessible for certain character builds — the rejection line is honest about this, and there is no path in.
 
@@ -86,7 +88,7 @@ The person most capable of helping the protagonist stop being themselves kept do
 **Formalized 2026-07-23:** this arc is now the mechanical Fragmentation Matrix (`Fragmentation_Matrix.md`) in prose form — Calethina carries the highest confirmed Personality Grief-Multiplier of any character, seeded partly through a marker unique to her (Direct Participation Count: she personally performs the player's re-specs, not just witnesses their aftermath). The Fragmenting/Unstable/Critical escalation above maps directly onto her own climb up the Grief axis toward The Long Vigil.
 
 **"Clean Slate" package (Calethina's Lab):**
-- Lose 2–3 major perks connected to the changed stats (perks remain, but their effectiveness degrades)
+- Perks connected to the changed stats may be lost; perks the character no longer has or no longer qualifies for become past perks that glitch (see "What Can and Cannot Be Re-Specced" above)
 - Temporary adjustment period with minor stat instability, then normalizes
 - Permanent minor social debuff with NPCs who knew the protagonist well before
 - Calethina grows more distant with each use

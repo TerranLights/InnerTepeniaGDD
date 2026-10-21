@@ -33,19 +33,8 @@ The tier an entity actually holds is the *combination* of both axes, exactly lik
 average, not a single blended number. An entity can be simultaneously maxed on both at once (**The Long
 Vigil**, bottom-right cell) — a real, distinct, permanent state, not a contradiction the system resolves.
 
-**A clean structural property this produces for free — ⛔ PARTIALLY SUPERSEDED 2026-09-14, see below:** a
-companion recruited *after* the player's last re-spec never knew the earlier self, so their Grief axis is
-structurally locked at 0 — they can only ever occupy the top row of the grid. Nothing needs to be written to
-enforce this; it falls straight out of the axis definition.
-
-> ⛔⛔ **This "structural lock" is a default now, not a law.** Developer ruling, 2026-09-14, reversing an
-> earlier one of their own: a companion who never personally knew a past configuration can still discover
-> it existed — the same way *Fallout: New Vegas*'s Randall Clarke is pieced together entirely from evidence,
-> never witnessed firsthand — and accumulate **secondhand Grief** through that discovery. A late-recruited
-> companion who finds nothing stays at Grief 0 as before; the floor is no longer unbreakable. **Full design
-> (candidate footprint sources, proposed seeding shape, open questions) lives in the priority item of
-> `Fragmentation_Matrix_Expansion_Ideas.md` — not yet formalized into this file's grid, formula, or Long
-> Vigil eligibility rules.**
+**Late-recruited companions and secondhand discovery (decided 2026-10-21; replaces the earlier "structural lock at 0").**
+A companion recruited after the player's last re-spec starts at Grief 0, but it is a default, not a law. They can **discover** that an earlier configuration existed, through evidence in the world (items and records, NPC testimony, district records, Leyline chatter, other companions), and accumulate **secondhand Grief**, seeded at a **reduced rate with no ceiling**, so The Long Vigil is reachable through discovery (possibly with its own named cell or a footnote). A companion who finds nothing stays at Grief 0. Full reasoning in `Fragmentation_Decisions_2026-10-18.md`.
 
 ---
 
@@ -186,13 +175,25 @@ extreme state, dual-purpose depending on who holds it:
 
 ---
 
+## Decisions, 2026-10-21
+
+Reasoning and the full record: `Fragmentation_Decisions_2026-10-18.md`. Summary:
+
+- **Grief is a ledger, not a single value.** One entry per past configuration the companion actually knew, each seeded at its re-spec (relationship depth × personality multiplier). Entries are **never reduced.** The ledger stays hidden: it shows only through dialogue, behavior and the named states, never as numbers or a list of grievances; dialogue surfaces one or two entries at a time; the tone is tenderness, not shaming. **The rule for turning the ledger into the one Grief range the grid uses (the "visible tier") is undecided.**
+- **An honest confrontation scene raises Bond; it does not reduce Grief.** It fires the first time an entry crosses into Range 2 or 3. **Deflecting does nothing now, but the companion remembers**, and the scene can return, harder to open. Grief and Bond are independent: progress is made on the Bond axis.
+- **Bond drops only through specific events** (for example betraying a confidence, acting against the self they bonded with, abandoning them at a critical moment), never through time or neglect alone. A drop moves the companion toward the cells where Grief outweighs Bond.
+- **Thresholds** between ranges are shares of what can be earned: Bond as a share of what a companion or district can earn through their own content, Grief as a share of the maximum seedable (multiplier × full relationship depth). Numbers are filled in once content exists.
+- **Secondhand discovery:** reduced seeding rate, no ceiling. The player can **volunteer** the truth (a firm entry at once, weighted between discovered and firsthand; works like an honest conversation, so it can raise Bond), **stay silent** (the companion discovers at the pace of the world), or **deny** (a lie; discovered later, it is an event that drops Bond).
+- **The investigation:** a generic footprint system for every companion plus authored investigation threads for companions whose personal questlines can support them. Footprints are **personalized**: they derive from what each past configuration actually did (its stored snapshot and biggest accomplishments).
+- **Perks and re-spec** (see `Player_Re-Spec_-_Complete_Design.md`): perks the player had before a re-spec and no longer has **glitch**, less if the player meets the requirement again, harder and more often if not. Details are being worked out.
+
 ## Implementation Notes
 
 - **Per-cell dialogue is required, not optional** — same standing law already governing the Rebuilt Marker
   and romance-variant dialogue ("no generic reaction," `Player_Re-Spec_-_Complete_Design.md`). Every
   companion needs a written response for whichever of the 16 cells they can actually reach. Not all 16 are
-  reachable by every companion — one recruited after the player's last re-spec can only ever occupy the top
-  row (Grief locked at 0).
+  reachable by every companion — one recruited after the player's last re-spec starts in the top row (Grief 0)
+  and can leave it only through secondhand discovery (see Decisions, 2026-10-21, below).
 - **Districts carry four numbers, not two** — Bond/Grief layers on top of the existing Fame/Infamy tracking,
   it doesn't replace it.
 - **Mechanical thresholds** (exact point values, decay/growth rates for Bond, whether Grief can ever be
@@ -205,15 +206,9 @@ extreme state, dual-purpose depending on who holds it:
 
 ## Open Design Questions
 
-- Exact numeric thresholds for Range 0-3 on both axes.
-- Whether Grief can ever be narratively resolved down a tier (a "Reconciled"-triggering scene, for instance)
-  or whether it is genuinely permanent once seeded, mirroring the IF meter's own "cannot be reduced" rule.
-- Full Personality/Institutional Grief-Multiplier values for the remaining companions and the 11 districts
-  not yet explicitly calibrated above.
-- Whether Bond can decay from neglect, or only grows — not yet decided.
-- **Flagged 2026-07-23, deliberately deferred, not urgent:** a dedicated design pass for "Long Vigil companion
-  ending perks" generally — once more companions have their own Long-Vigil-only pathlines (Ayako's "The
-  Second Garment" is the first, see her `Questlines/Personal_Questline_Summary.md`), go through and formally
-  design each one's actual mechanical perk rather than leaving them as narrative sketches. Not something to
-  start now — flagged for whenever the broader companion Long Vigil pathline set exists to draw a real
-  pattern from.
+- The rule that turns a companion's ledger into the single Grief range the grid uses (the visible tier): highest entry only, highest plus a small shrinking bump per extra unresolved entry (recommended), or a capped sum.
+- The size of the Bond gain from a confrontation scene, and whether a confronted entry counts differently toward the visible tier.
+- Exact numeric thresholds for Range 0-3 on both axes (set as shares of what can be earned, once content exists).
+- Full Personality/Institutional Grief-Multiplier values for the remaining companions and the 11 districts not yet explicitly calibrated above, and whether an Enneagram-based formula can produce defaults (deferred, 2026-10-21).
+- The companion Long Vigil perks (deferred, 2026-10-21). *Original flag 2026-07-23:* once more companions have their own Long-Vigil-only pathlines (Ayako's "The Second Garment" is the first, see her `Questlines/Personal_Questline_Summary.md`), design each one's actual mechanical perk rather than leaving them as narrative sketches.
+- The glitching past perks in detail: trigger and frequency, what a glitch can do, readability in a turn-based game, how it can be fixed or purged, the tie to the Identity Fragmentation states and echo events; and how a current perk and a past perk that conflict can produce novel positive or negative results.
