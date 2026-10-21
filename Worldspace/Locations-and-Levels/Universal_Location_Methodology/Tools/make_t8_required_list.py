@@ -80,6 +80,43 @@ def find_block(lines, target):
     return None
 
 
+def find_step_reads(lines, target):
+    """Newer Pre-Trip format: a `### Step N — name` section holding a `**`T8` reads:**` bullet list whose nested
+    bullets give a path and, usually, `lines a-b` or `in full`. Returns (path, range_spec, anchor) tuples, or None."""
+    kind, n = target.split(":")
+    if kind != "step":
+        return None
+    num = "[−-]1" if n == "-1" else re.escape(n)
+    head = re.compile(r"^###\s+Step\s+%s(?![0-9])" % num)
+    start = next((i for i, l in enumerate(lines) if head.match(l)), None)
+    if start is None:
+        return None
+    end = next((i for i in range(start + 1, len(lines)) if lines[i].startswith("### ") or lines[i].startswith("## ")), len(lines))
+    sec = lines[start:end]
+    r0 = next((i for i, l in enumerate(sec) if "T8" in l and "reads" in l), None)
+    if r0 is None:
+        return None
+    out = []
+    for l in sec[r0 + 1:]:
+        if re.match(r"^- ", l) or (l.strip() and not l.startswith("  ")):
+            break
+        pm = re.search(r"`(/[^`]+)`", l)
+        if not pm:
+            continue
+        path = pm.group(1).strip()
+        rest = l[pm.end():]
+        spans = re.findall(r"lines?\s+(\d+)\s*[–-]\s*(\d+)", rest)
+        anchor = None
+        spec = None
+        if "§" in rest and not spans:
+            anchor = "§" + rest.split("§", 1)[1].strip()
+        elif spans:
+            # the first stated span is the step's own governing text; later spans in a note are not entries
+            spec = ",".join("%s-%s" % (a, b) for a, b in spans[:1])
+        out.append((path, spec, anchor))
+    return out
+
+
 def extract_entries(block_lines):
     """Backticked absolute paths, each with the text that follows it up to the next backtick (an anchor, if any)."""
     entries = []
@@ -214,11 +251,15 @@ def main():
         return 2
     lines = open(pre, encoding="utf-8").read().split("\n")
     block = find_block(lines, target)
-    if block is None:
+    reads = find_step_reads(lines, target) if block is None else None
+    if block is None and reads is None:
         print("no T8 block found for %s in the Pre-Trip sheet" % target)
         return 2
 
-    ents = [(p, a, "") for p, a in extract_entries(block)]
+    if reads is not None:
+        ents = [(p, (("RANGE:" + spec) if spec else a), "") for p, spec, a in reads]
+    else:
+        ents = [(p, a, "") for p, a in extract_entries(block)]
     if target.startswith("phase:"):
         ents += phase_rows(lines, target.split(":")[1])
         ents += spine_must_open(target.split(":")[1])
@@ -236,6 +277,8 @@ def main():
         elif not os.path.exists(p):
             missing.append(p)
             out.append("# MISSING PATH (not written as an entry): %s" % p)
+        elif anchor and anchor.startswith("RANGE:"):
+            out.append("%s :: %s" % (p, anchor[6:]))
         elif anchor:
             unresolved.append((p, anchor))
             out.append("%s :: AUTO" % p)

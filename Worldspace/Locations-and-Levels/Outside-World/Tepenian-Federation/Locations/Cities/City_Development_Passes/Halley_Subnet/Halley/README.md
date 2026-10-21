@@ -17,7 +17,7 @@ run — never pre-created.*
 | `03_Research.md` | ULM Step 3 — targeted at what Step 2 named ⚠ *search strings go in the city's Research Log* |
 | `04_Phase_00…10_*.md` | ULM Step 4 — **one file per phase**, eleven of them |
 | `05_Reconciliation.md` | ULM Step 5 — and the CLOSE pass |
-| `06_Differentiation.md` | ULM Step 6 — ⛔ *the differentiation-table column goes in the SAME commit* |
+| `06_Differentiation.md` | ULM Step 6 — ⛔ *the differentiation-table row goes in the SAME commit* |
 | `07_Gate_*.md` | ULM Step 7 — **one file per gate**, C·F·I·P·G then 0–11 |
 | `08_Review_Panel.md` | ULM Step 8 — six dispositions |
 | `09_Record.md` · `09.5_Log.md` | ULM Step 9 — and ⚠ **the recording law: snags, dead ends, killed findings, self-corrections** |
