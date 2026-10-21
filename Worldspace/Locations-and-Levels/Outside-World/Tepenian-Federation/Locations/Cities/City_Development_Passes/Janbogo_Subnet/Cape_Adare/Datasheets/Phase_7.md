@@ -19,7 +19,7 @@
 > directly, not re-derived. ⛔⛔ No later-era content appears below — §26's sentence about the hut's later fate
 > (L2728–2729) and `16` L2798 are later-era and **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
-> 📂 **Spine MUST OPEN coverage: 13 of 13** — DoI (via its Tier U carve-out sheet) · `16` Half B · Sweep §4.4 · `01` · `08` · medical institutes · Theoretical-Calculations · Industry Staffing · SOC · national economy · City Logistics · Factions · Megacorps (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L846–870).
+> 📂 **Spine MUST OPEN coverage: 13 of 13** — DoI (via its Tier U carve-out sheet) · `16` Half B · Sweep §4.4 · `01` · `08` · medical institutes · Theoretical-Calculations · Industry Staffing · SOC · national economy · City Logistics · Factions · Megacorps (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L849–873).
 
 | Category | Value | Citation |
 |---|---|---|

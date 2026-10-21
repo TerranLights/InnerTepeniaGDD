@@ -12,8 +12,8 @@
 | Location descriptor | Vestfold Hills, Ingrid Christensen Coast, Prydz Bay | `Specs/Davis.md` L3, L60 (via `00.1` §2) |
 | Parent | Mirny Arcanet subnet, Tepenian Federation | `Specs/Davis.md` L5 + census L496/L613 (via `00.1` §2) |
 | Population magnitude → band | 1,158,314 → Band 5 (Regional) | `Specs/Davis.md` L15; census L496 (via `00.1` §2) |
-| Census I (governs, `DR-4`) | 563,599 H / 594,715 R / 1,158,314 | `Official_Population_Census.md` L496 (via `00.1` §2.1) |
-| Census II | 437,423 H / 344,173 R / 781,596 | `Official_Population_Census.md` L613 (via `00.1` §2.1) |
+| Census I (governs, `DR-4`) | 563,599 H / 594,715 R / 1,158,314 | `Official_Population_Census.md` L494 (via `00.1` §2.1) |
+| Census II | 437,423 H / 344,173 R / 781,596 | `Official_Population_Census.md` L611 (via `00.1` §2.1) |
 | Specs `Status:` field | States a later-era condition, not an in-frame input | `Specs/Davis.md` L4 (via `00.1` §2.3) |
 | Admitted read spec (numeric, paste into `sed`/`awk`) | `1-3,5-8,10-87,90-120,122-134,143,148,153-155,176,178-179` = 137 lines | `00.1` §4.1 |
 | Excluded entirely | `Local_Cultures/`, `Local_Robot_Culture/` (read-last), `City_Megasheets/` (withheld), `Test_Runs/` (zero intake), `City_Vision_Notes/` (struck corpus-wide), `Specs/Davis.md` L135–142/144–147/149–152/157–175/180–181 | `00.1` §4.3 |

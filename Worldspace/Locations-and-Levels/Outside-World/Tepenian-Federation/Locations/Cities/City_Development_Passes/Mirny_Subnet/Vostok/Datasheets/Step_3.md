@@ -7,7 +7,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `Inspirational-Influences.md` — Vostok's own row | CRISPR [PRIMARY] · Materials Innovation Platforms (MIP) [SECONDARY] · ChemMatCARS [SECONDARY] — all under NSF authority | `Inspirational-Influences.md` L86–89 (the Vostok heading is L86) |
+| `Inspirational-Influences.md` — Vostok's own row | CRISPR [PRIMARY] · Materials Innovation Platforms (MIP) [SECONDARY] · ChemMatCARS [SECONDARY] — all under NSF authority | `Inspirational-Influences.md` L92–95 (the Vostok heading is L86) |
 | `Research_Logs/` | Checked, **no Vostok-named file exists yet** — Step 3 hasn't run, matching every other unstarted city | Re-verified this turn |
 | Per-city dedicated research folder | **EXISTS** — `Reference/Real-World/Vostok_Genetics_Research/` (3 files: `00_Extraction_Checklist.md`, `01_Life_as_Information_Processing.md`, `02_DNA_Computing.md`). The runbook's §C.9 registry tags it **Phase 7**, Vostok-specific — book-based research, not the real station's program; ⛔ its checklist leans on a Course of Events suggestion, which is not canon and never an input. Whether Phase 7 opens it is an open developer question (Pre-Trip §J) | `00_RUNBOOK.md` §C.9 registry (L2074); directory listed 2026-10-01 |
 | Concept-art directory | **Exists, empty** (`.gitkeep` only) — `City_Concept-Art/Mirny_Subnet/Vostok/`. Opened-and-empty is a result | Directory listed 2026-10-01 |

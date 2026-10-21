@@ -12,7 +12,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Highway designation | Hwy 37 (the Mountain Cut Throughway) | `Specs/Mirny subnet/Ariun_Nuur.md` L9 |
-| Port status | **LANDLOCKED** | `Infrastructure/Ports.md` L318, L576 |
+| Port status | **LANDLOCKED** | `Infrastructure/Ports.md` L459, L717 |
 | Distance from its own Arcanet subnet's coastal hub | ~1,260 km overland | `Specs/Mirny subnet/Ariun_Nuur.md` L49 |
 | Region | East Antarctic Plateau, inland — near the Southern Pole of Inaccessibility | `Specs/Mirny subnet/Ariun_Nuur.md` L49; `City_Relationship_Database.md` — Vostok's own header |
 | Altitude | 3,488 m | `Specs/Mirny subnet/Ariun_Nuur.md` L49; `City_Relationship_Database.md` — Vostok's own header |

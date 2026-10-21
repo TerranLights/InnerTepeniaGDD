@@ -3,7 +3,7 @@
 > ⚠ **DRAFT — Tier C + Tier U.**
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
-> 📂 **Spine MUST OPEN coverage: 2 of 2 items addressed** — Robot_Biology mandatory facts ✅ · weapons philosophy ✅ and gear catalog ✅ — ⚠ **the item's "slang" names no file**: none exists in either repo — **UNRESOLVED, not guessed** (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L960–962).
+> 📂 **Spine MUST OPEN coverage: 2 of 2 items addressed** — Robot_Biology mandatory facts ✅ · weapons philosophy ✅ and gear catalog ✅ — ⚠ **the item's "slang" names no file**: none exists in either repo — **UNRESOLVED, not guessed** (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L963–965).
 
 | Category | Value | Citation |
 |---|---|---|

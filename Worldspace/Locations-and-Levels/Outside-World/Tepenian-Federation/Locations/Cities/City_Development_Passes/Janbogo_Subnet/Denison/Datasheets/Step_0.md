@@ -4,8 +4,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 444,529 H / 461,693 R / **906,222** | `Official_Population_Census.md` L500 — cross-verified against `Specs/Denison.md`, exact match |
-| Census II | 285,085 H / 338,392 R / **623,477** | `Official_Population_Census.md` L615 — cross-verified against `Specs/Denison.md`, exact match |
+| Census I | 444,529 H / 461,693 R / **906,222** | `Official_Population_Census.md` L498 — cross-verified against `Specs/Denison.md`, exact match |
+| Census II | 285,085 H / 338,392 R / **623,477** | `Official_Population_Census.md` L613 — cross-verified against `Specs/Denison.md`, exact match |
 | Retention (computed; formula = retained ÷ Census-I count) | combined 68.80% · human 64.13% · robot 73.29% · spread **9.16 pp toward robots** | Computed from the two rows above: 623,477÷906,222 = 68.7996%; 285,085÷444,529 = 64.1257%; 338,392÷461,693 = 73.2887% |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location. Corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s/early 2700s, onward (most of the period) — properly Tepenian, origin is ancestry not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The Act structure" |

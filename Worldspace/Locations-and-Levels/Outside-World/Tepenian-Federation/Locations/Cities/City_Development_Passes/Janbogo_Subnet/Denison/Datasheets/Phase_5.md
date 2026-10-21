@@ -9,9 +9,9 @@
 | Category | Value | Citation |
 |---|---|---|
 | Own highway route | Hwy 183 (the Janbogo Highway) | `Specs/Denison.md` L7 |
-| Own port/harbor, verbatim | *"At the seaward end of the largest valley is Boat Harbor, a 400 m long indent in the coast."* Denison has a harbor | `Ports.md` L398 |
-| Port usability, verbatim | *"the site is the windiest place on Earth, and the wind 'whips the sea into a chop, topped with fierce spume only meters from the shore.' Summer brings periods of relative calm; winter storms start and end without warning."* Classed as **GEOLOGICAL but WIND-DENIED** | `Ports.md` L398 |
-| Port disposition, verbatim | *"a city built in a katabatic channel, spanning valleys — its harbor is 400 m of coast that the wind reaches before any ship does. Denison's port is a fair-weather port, and at Cape Denison fair weather is a window, not a season."* | `Ports.md` L555–557 |
+| Own port/harbor, verbatim | *"At the seaward end of the largest valley is Boat Harbor, a 400 m long indent in the coast."* Denison has a harbor | `Ports.md` L539 |
+| Port usability, verbatim | *"the site is the windiest place on Earth, and the wind 'whips the sea into a chop, topped with fierce spume only meters from the shore.' Summer brings periods of relative calm; winter storms start and end without warning."* Classed as **GEOLOGICAL but WIND-DENIED** | `Ports.md` L539 |
+| Port disposition, verbatim | *"a city built in a katabatic channel, spanning valleys — its harbor is 400 m of coast that the wind reaches before any ship does. Denison's port is a fair-weather port, and at Cape Denison fair weather is a window, not a season."* | `Ports.md` L696–698 |
 | `Access type:` token | `ON` | `Specs/Denison.md` L6 |
 | Airports.md | Denison is listed among the cities addressed by this file; the file's own stated per-city facts were not extracted here — that is Phase 5's own derivation | `Airports.md` L41, L47 |
 

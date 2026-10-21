@@ -75,12 +75,18 @@ def line_map(ref, path):
         return None
     new = open(path, encoding="utf-8", errors="replace").read().split("\n")
     sm = difflib.SequenceMatcher(None, [l.strip() for l in old], [l.strip() for l in new], autojunk=False)
-    mp = {}
+    mp, edited = {}, set()
     for tag, i1, i2, j1, j2 in sm.get_opcodes():
-        if tag == "equal" or (tag == "replace" and (i2 - i1) == (j2 - j1) and False):
+        if tag == "equal":
             for k in range(i2 - i1):
                 mp[i1 + k + 1] = j1 + k + 1
-    _map_cache[path] = (mp, len(old), len(new))
+        elif tag == "replace" and (i2 - i1) == (j2 - j1):
+            # a block of lines edited IN PLACE keeps its position: the citation follows the line, and the line
+            # is listed so a human re-reads what it says now
+            for k in range(i2 - i1):
+                mp[i1 + k + 1] = j1 + k + 1
+                edited.add(i1 + k + 1)
+    _map_cache[path] = (mp, len(old), len(new), edited)
     return _map_cache[path]
 
 
@@ -117,7 +123,7 @@ def main():
     apply = "--apply" in sys.argv
     idx = build_index()
     total_moved = total_cites = 0
-    unmatched, skipped = [], collections.Counter()
+    unmatched, reread, skipped = [], [], collections.Counter()
     per_file = collections.OrderedDict()
     for fpath in files:
         text = open(fpath, encoding="utf-8").read()
@@ -134,7 +140,7 @@ def main():
             if lm is None:
                 skipped["%s: not at %s under that path" % (os.path.basename(name), base)] += 1
                 return m.group(0)
-            mp, nold, nnew = lm
+            mp, nold, nnew, edited = lm
             total_cites += 1
 
             def one(n):
@@ -145,6 +151,8 @@ def main():
                 if na is None or (b and nb is None):
                     unmatched.append((os.path.relpath(fpath, REPO), os.path.basename(name), n.group(0)))
                     return n.group(0)
+                if a in edited or (b and b in edited):
+                    reread.append((os.path.relpath(fpath, REPO), os.path.basename(name), n.group(0), na, nb))
                 if na != a or (b and nb != b):
                     moved_here[0] += 1
                 return "%s%d%s" % (n.group(1), na, ("%s%d" % (n.group(3), nb)) if b else "")
@@ -159,6 +167,10 @@ def main():
     print("citations checked: %d   line numbers moved: %d   in %d file(s)" % (total_cites, total_moved, len(per_file)))
     for f, n in per_file.items():
         print("  %4d  %s" % (n, f))
+    if reread:
+        print("\nFOLLOWED THE LINE, WHICH WAS EDITED IN PLACE (the number is right; re-read what the line says now): %d" % len(reread))
+        for f, n, c, na, nb in reread[:80]:
+            print("  %s: %s %s -> %s" % (f, n, c, "%d%s" % (na, ("-%d" % nb) if nb else "")))
     if unmatched:
         print("\nLEFT AS WRITTEN: the cited line's text no longer exists (the line itself was edited); read each: %d" % len(unmatched))
         for f, n, c in unmatched[:60]:

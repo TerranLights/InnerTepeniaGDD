@@ -62,7 +62,7 @@ L615: | 16 | Denison | Janbogo | 285,085 | 338,392 | 623,477 |
 | Denison | II | 50,309 | 59,716 | 110,025 | scaled at −15%, retention preserved | ⏸️ HELD —
 unassigned
 ```
-— `Official_Population_Census.md` L705–706. **Denison's own figures only — nothing else from that
+— `Official_Population_Census.md` L703–704. **Denison's own figures only — nothing else from that
 table is reproduced here.**
 
 ## ⛔⛔ WAR-CONTENT SECTIONS SEEN AND EXCLUDED — per `M-171`, never quoted beyond naming the section

@@ -11,7 +11,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Highway routing | Hwy 2 (Dumont Coast Highway, "DCH"): junction with Hwy 110 → Casey → Dumont d'Urville (eastern terminus). Hwy 183 (Janbogo Highway): Concordia → ... → Denison → Dumont d'Urville (northern terminus). **Both highways' endpoints connect directly to each other here** — a genuine two-highway junction | `Infrastructure/Highways.md` L56, 65, 87–96, 224–231, 264 |
+| Highway routing | Hwy 2 (Dumont Coast Highway, "DCH"): junction with Hwy 110 → Casey → Dumont d'Urville (eastern terminus). Hwy 183 (Janbogo Highway): Concordia → ... → Denison → Dumont d'Urville (northern terminus). **Both highways' endpoints connect directly to each other here** — a genuine two-highway junction | `Infrastructure/Highways.md` L56, 65, 88–97, 226–233, 279 |
 | `City_Cross_Subnet_Relationships.md` — direct cross-subnet link | *"Mirny ↔ Janbogo, direct. Hwy 2 runs Casey (Mirny) → Dumont d'Urville (Janbogo) with no intermediate subnet. A short, direct coastal link between two subnets that otherwise read as fairly distant from each other."* | `City_Cross_Subnet_Relationships.md` L42–43 |
 | `City_Cross_Subnet_Relationships.md` — second cross-subnet link | *"Janbogo ↔ Concordia, direct. Hwy 183 runs Concordia to Dumont d'Urville, passing the Janbogo region (via connecting roads to Janbogo, Zukelli, Cape Adare) and Denison directly."* | `City_Cross_Subnet_Relationships.md` L55 |
 | `City_Cross_Subnet_Relationships.md` — cross-subnet table row | `Casey (Mirny) → Dumont d'Urville (Janbogo), via Hwy 2` | `City_Cross_Subnet_Relationships.md` L94 |
@@ -20,7 +20,7 @@
 | `City_Relationship_Database.md` — Notes field, admissible portion only | *"Dumont d'Urville Sea named after this location/explorer; French station"* and *"Primary Dumont d'Urville Sea port for Australian freighter shipments (raw materials, staged via Hobart)."* ⛔ The field's further gloss on the real station's own resupply chain is that site's history — not an input (`DR-28`) | `City_Relationship_Database.md` L204 |
 | ⛔ Excluded portion of the same Notes field | A clause in the same field states a later-era condition — **excluded per the standing default-scope rule, not quoted or described** | `City_Relationship_Database.md` L204 |
 | Airport | **None.** This city is on the corpus's own real-world-station-had-an-airstrip list, but the file's own 1:1 reconciliation with the developer's map images states directly: *"none of them has one in Tepenia... Access is via the highway network only"* | `Infrastructure/Airports.md` L44–54 |
-| Port | Australia-partner receiving node, in a three-node group (alongside Mirny and Mawson); **tier not established** | `Infrastructure/Ports.md` L129, L222, L573, L629 |
+| Port | Australia-partner receiving node, in a three-node group (alongside Mirny and Mawson); **tier not established** | `Infrastructure/Ports.md` L129, L363, L714, L770 |
 
 ## ⛔⛔ FLAGGED — found, NOT extracted, do not treat as clean fact
 
