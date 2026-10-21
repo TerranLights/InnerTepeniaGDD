@@ -4,9 +4,22 @@ QUOTATION AUDIT  —  ULM instrument, ON TRIAL (see 04_QA_Gates_and_Differentiat
 
 Checks every quoted string in a location pass against the canon corpus it claims to quote.
 
-  usage:  python3 quotation_audit.py <pass_folder> [--canon-only]
+  usage:  python3 quotation_audit.py <pass_folder> (--step N | --phase N | --files GLOB ... | --all)
+                                      [--own-pass] [--canon-only]
 
   <pass_folder>   the location pass to audit, e.g.  .../Mirny_Subnet/Zhongshan_Opus
+
+  WHICH FILES ARE AUDITED (CHANGED 2026-10-21, Mirny handoff decision 13, group A; M-289). The audit now
+  checks ONLY the step's own files, never the whole folder, so earlier steps' by-design misses stop piling
+  up (163 -> 477 NOT FOUND on Mirny). One selector is REQUIRED; with none, the tool stops and says so:
+    --step N        the step file(s) NN_*.md, e.g. --step 5 (05_Reconciliation.md), --step 9.5 (09.5_*.md)
+    --phase N       the Step 4 phase file 04_Phase_NN_*.md, e.g. --phase 7
+    --files GLOB    one or more patterns relative to the pass folder
+    --all           every *.md in the folder (the old behavior; keeps old numbers comparable)
+
+  --own-pass      ALSO validate against the pass's OWN other files (never the file being audited), so a quotation
+                  of an earlier step of the same pass is found, while a file quoting itself still is not. By
+                  default the pass's own folder is excluded from the corpus (property 2 below).
   --canon-only    exclude ALL city passes from the corpus, not just this one, so a
                   quotation must validate against canon rather than against a sibling
                   pass. Stricter. NOT the mode the Zhongshan_Opus baseline was run in —
@@ -100,22 +113,76 @@ CONTROLS = [
 NEGATIVE = "the quiet city runs entirely on geothermal steam from mount erebus"
 
 
+def parse(argv):
+    """Returns (pass_folder, patterns, flags). patterns None = no selector given."""
+    pos, patterns, flags = [], None, {"canon_only": False, "own_pass": False, "all": False}
+    i = 0
+    while i < len(argv):
+        a = argv[i]
+        if a == "--canon-only":
+            flags["canon_only"] = True
+        elif a == "--own-pass":
+            flags["own_pass"] = True
+        elif a == "--all":
+            flags["all"] = True
+            patterns = ["*.md"]
+        elif a == "--step" and i + 1 < len(argv):
+            i += 1
+            s = argv[i]
+            patterns = (patterns or []) + ["%s_*.md" % (s.zfill(2) if re.fullmatch(r"\d", s) else s)]
+        elif a == "--phase" and i + 1 < len(argv):
+            i += 1
+            patterns = (patterns or []) + ["04_Phase_%s_*.md" % argv[i].zfill(2)]
+        elif a == "--files":
+            i += 1
+            while i < len(argv) and not argv[i].startswith("--"):
+                patterns = (patterns or []) + [argv[i]]
+                i += 1
+            continue
+        elif not a.startswith("--"):
+            pos.append(a)
+        i += 1
+    return (pos[0] if pos else None), patterns, flags
+
+
 def main():
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    canon_only = "--canon-only" in sys.argv
-    if not args:
+    pass_arg, patterns, flags = parse(sys.argv[1:])
+    canon_only = flags["canon_only"]
+    if not pass_arg:
         print(__doc__)
         return 2
-    pass_dir = os.path.realpath(args[0])
+    pass_dir = os.path.realpath(pass_arg)
     if not os.path.isdir(pass_dir):
         print("not a directory: %s" % pass_dir)
         return 2
+    if not patterns:
+        print("STOP: no selector given. Choose --step N, --phase N, --files GLOB or --all (see the usage above).")
+        print("      The audit no longer defaults to every file in the folder (M-289).")
+        return 2
+    targets = []
+    for pat in patterns:
+        targets += glob.glob(os.path.join(pass_dir, pat))
+    targets = sorted(set(targets))
+    if not targets:
+        print("STOP: the selector matched no files in %s" % pass_dir)
+        return 2
+    own_chunks = {}
+    if flags["own_pass"]:
+        for f in glob.glob(os.path.join(pass_dir, "*.md")):
+            try:
+                with open(f, encoding="utf-8", errors="ignore") as fh:
+                    own_chunks[f] = norm(fh.read())
+            except OSError:
+                pass
 
     nfiles, corpus = build_corpus(pass_dir, canon_only)
     print("pass audited : %s" % os.path.basename(pass_dir))
     print("corpus mode  : %s" % ("CANON ONLY (no city passes)" if canon_only
                                  else "default (own pass excluded)"))
     print("corpus files : %d   chars: %s" % (nfiles, format(len(corpus), ",")))
+    print("files audited: %s" % ", ".join(os.path.basename(f) for f in targets))
+    if flags["own_pass"]:
+        print("own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)")
     print("")
 
     print("=== POSITIVE CONTROLS ===")
@@ -134,7 +201,7 @@ def main():
         print("  >> STOP. The instrument did not validate. Any zero below is meaningless.")
 
     miss, tot = [], 0
-    for f in sorted(glob.glob(os.path.join(pass_dir, "*.md"))):
+    for f in targets:
         with open(f, encoding="utf-8") as fh:
             raw = fh.read()
         for lineno, line in enumerate(raw.split("\n"), 1):
@@ -146,6 +213,8 @@ def main():
                         continue
                     tot += 1
                     if frag not in corpus:
+                        if flags["own_pass"] and any(frag in txt for fp, txt in own_chunks.items() if fp != f):
+                            continue
                         miss.append((os.path.basename(f), lineno, in_cell, frag))
 
     cells = sum(1 for m in miss if m[2])

@@ -1,6 +1,6 @@
 # Datasheet & Pre-Trip Tracker — by subnet
 
-**DRAFT. Created 2026-09-30.** Bookkeeping only: it records **which cities have which instruction artifacts**. It
+**DRAFT. Created 2026-09-30; recounted 2026-10-21.** Bookkeeping only: it records **which cities have which instruction artifacts**. It
 holds no findings and no content from any source. Counts below were taken from the live folders on the date above;
 re-count before relying on a row.
 
@@ -30,7 +30,7 @@ re-count before relying on a row.
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| Amundsen Station | ⬜ 0/19 | ⬜ | ⬜ | 0 | A research and relay outpost, not a residential city, per the census; counted among the 38 and has its own pass folder |
+| Amundsen Station | ⬜ 0/19 | ⬜ | ⬜ | 0 | *(2026-10-21: its pass folder is empty, no `README.md` yet)* A research and relay outpost, not a residential city, per the census; counted among the 38 and has its own pass folder |
 
 ## Byrd subnet
 
@@ -58,11 +58,11 @@ re-count before relying on a row.
 | Cape Adare | ✅ 19/19 *(DRAFT)* | ⬜ | ⬜ | 0 | Built 2026-09-30 from primary sources, not T8-verified · absolute paths · README row ⏸️ pending approval |
 | Concordia | ⬜ 0/19 | ⬜ | ⬜ | 0 | Hub city; its 13 districts use the **district** methodology, not this one |
 | Denison | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ |
-| Dumont d'Urville | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ · ⚠ **City flagged for revisit** (developer, 2026-09-30): not founded by France; datasheets will need rebuilding after the revisit |
+| Dumont d'Urville | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ · ⚠ **City flagged for revisit** (developer, 2026-09-30): not founded by France; datasheets will need rebuilding after the revisit. *(2026-10-21: the developer ruled it will get a new name in line with its Japanese founders; name not chosen; the spec's founders passages were corrected 2026-10-13.)* |
 | Fort McMurdo | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
 | Janbogo | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
 | Scott | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Zukelli | ✅ 19/19 *(DRAFT)* | ⬜ | ⬜ | 0 | Built 2026-09-30 from primary sources, not T8-verified · absolute paths · ⚠ Italy flagged for eventual census review · README row ⏸️ pending approval |
+| Zukelli | ✅ 19/19 *(DRAFT)* | ⬜ | ⬜ | 0 | Built 2026-09-30 from primary sources, not T8-verified · absolute paths · ⚠ Italy flagged for eventual census review · README row ⏸️ pending approval. *(2026-10-21: the developer ruled it will get a new name in line with its Australian founders; name not chosen; the spec's founders passages were corrected 2026-10-13, so these datasheets need a re-check.)* |
 
 ## Mawson subnet
 
@@ -80,7 +80,7 @@ re-count before relying on a row.
 | Casey | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ |
 | Davis | ✅ 19/19 | ✅ | ⬜ | 19 | ULM complete; its ledger lives elsewhere or was never split out |
 | Kunlun | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ |
-| Mirny | ✅ 19/19 | ✅ | ✅ | 4 | ULM Steps −1 through 3 done; **Step 4 (phases) is next** |
+| Mirny | ✅ 19/19 | ✅ | ✅ | 21 | *(recounted 2026-10-21: was 4)* ULM Steps −1 through 10 have been run; Step 10 recorded as "run, awaiting developer review"; Mirny is **not** declared complete. The folder holds 45 files in all, including the T8 round records and the Social Contract amendment register. |
 | Shirayuki | ⬜ 0/19 | ⬜ | ⬜ | 19 | Tri-Cities; ULM already done without these artifacts |
 | Sinheung | ⬜ 0/19 | ⬜ | ⬜ | 18 | Tri-Cities; ULM already done without these artifacts |
 | Vostok | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ |
@@ -111,6 +111,7 @@ re-count before relying on a row.
 
 | Date | Event |
 |---|---|
+| 2026-10-21 | Recounted from the live folders (the first item of `Dev-Road-Map/November_To-Do.md`). Totals unchanged: **9 cities with a full 19-file datasheet set; 8 cities (9 folders) with a Pre-Trip sheet; 6 cities with a ledger** (Casey, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok). Mirny's row updated; Amundsen Station, Dumont d'Urville and Zukelli notes added. The 38th-city placeholder folder is `Bunger_Hills_City`; Relung Panen has a dossier but no folder in `City_Development_Passes`. |
 | 2026-09-30 | Tracker drafted from live folder counts. |
 | 2026-09-30 | Cape Adare: 19 datasheets built (DRAFT), per `Mechanical_Extraction_Field_Guide.md`. |
 | 2026-09-30 | Zukelli: 19 datasheets built (DRAFT). ±3 window ruled Notable-only, as written (developer; `DR-19`). |

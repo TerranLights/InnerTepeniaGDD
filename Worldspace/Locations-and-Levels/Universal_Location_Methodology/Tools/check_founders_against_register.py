@@ -9,8 +9,16 @@ THIS IS A LIST OF PLACES TO READ, NOT A VERIFICATION. A search only finds the wo
 slip past it. Every hit must be read in context, and a city counts as clean only once its files have been read
 in full (developer, 2026-10-01: "Information is in files... I want you to read the files.").
 
-Usage:  python3 check_founders_against_register.py [--city NAME] [--include-passes]
+Usage:  python3 check_founders_against_register.py [--city NAME] [--include-passes] [--include-withheld]
 Run from anywhere; paths are resolved from this file's location. Read-only: it never edits a file.
+
+SCOPING (2026-10-21, developer-approved; the law of one location):
+  * WITHOUT --city: repo-wide, exactly as before (for the developer's own checks and for preparation work).
+  * WITH --city NAME: ONLY that city's own files and the shared files that belong to no single city are read.
+    Another city's files are skipped and only COUNTED (no names, no lines are printed). In shared files, the
+    station-heritage section prints only lines that name the chosen city. A pass-safe run also skips the withheld
+    material (City_Megasheets, Local_Cultures, Local_Robot_Culture, Super_Ultra_Megasheet); pass
+    --include-withheld during PREPARATION (never during a pass) to scan the chosen city's own withheld files too.
 """
 import argparse
 import os
@@ -67,6 +75,35 @@ def city_tokens(name):
     return {t for t in toks if t}
 
 
+def name_regex(tokens):
+    """Word-bounded match of a city's name forms; a subnet name such as 'Mirny subnet' is not the city."""
+    alts = "|".join(re.escape(tk) for tk in sorted(tokens, key=len, reverse=True))
+    return re.compile(rf"(?<![A-Za-z])(?:{alts})(?![A-Za-z])(?![ _-]?[Ss]ubnet)")
+
+
+WITHHELD = ("City_Megasheets", "Local_Cultures", "Local_Robot_Culture", "Super_Ultra_Megasheet")
+
+
+def owners(path, rows):
+    """Register cities whose own file or folder this path is (by an exact path-component match), so a subnet
+    folder like Mirny_Subnet or a shared file is never mistaken for one city's. Empty set = a shared file."""
+    found = set()
+    parts = os.path.relpath(path, REPO).split(os.sep)
+    comps = []
+    for c in parts:
+        stem = os.path.splitext(c)[0]
+        low = stem.lower()
+        if low.endswith("_subnet") or low.endswith(" subnet") or low in ("amundsen-scott subnet",):
+            continue
+        comps.append(stem)
+    for r in rows:
+        for t in r["tokens"]:
+            for c in comps:
+                if c == t or c.startswith(t + "_") or c.startswith(t + " ") or c.startswith(t + "-"):
+                    found.add(r["city"])
+    return found
+
+
 def read_register():
     rows = []
     with open(REGISTER, encoding="utf-8") as fh:
@@ -98,12 +135,37 @@ def main():
     ap.add_argument("--city", help="only this Register city")
     ap.add_argument("--include-passes", action="store_true",
                     help="also scan City_Development_Passes run records (datasheets are always scanned)")
+    ap.add_argument("--include-withheld", action="store_true",
+                    help="with --city: also scan the chosen city's own withheld files (PREPARATION ONLY, never during a pass)")
     args = ap.parse_args()
 
-    rows = read_register()
+    all_rows = read_register()
+    rows = all_rows
+    scoped = bool(args.city)
+    target = set()
+    skipped_other = skipped_withheld = 0
     if args.city:
-        rows = [r for r in rows if args.city.lower() in r["city"].lower()]
-    files = list(md_files(args.include_passes))
+        rows = [r for r in all_rows if args.city.lower() in r["city"].lower()]
+        target = {r["city"] for r in rows}
+    other_names = None
+    skipped_lines = 0
+    if scoped:
+        others = set()
+        for r in all_rows:
+            if r["city"] not in target:
+                others |= {tk for tk in r["tokens"] if len(tk) > 3}
+        other_names = name_regex(others) if others else None
+    files = []
+    for fpath in md_files(args.include_passes):
+        if scoped:
+            if not args.include_withheld and any(w in fpath for w in WITHHELD):
+                skipped_withheld += 1
+                continue
+            ow = owners(fpath, all_rows)
+            if ow and not (ow & target):
+                skipped_other += 1
+                continue
+        files.append(fpath)
     texts = {}
     for p in files:
         try:
@@ -141,7 +203,11 @@ def main():
                             break
                 if m:
                     s = max(0, m.start() - 70)
-                    hits.append((os.path.relpath(p, REPO), i, line[s:m.end() + 60].strip()))
+                    snippet = line[s:m.end() + 60].strip()
+                    if scoped and not in_city_file and other_names and other_names.search(snippet):
+                        skipped_lines += 1
+                        continue
+                    hits.append((os.path.relpath(p, REPO), i, snippet))
         if hits:
             print(f"\n## {r['city']}  [{r['status']}]  ruled out: {', '.join(r['not'])}  — {len(hits)} place(s)")
             for p, i, snip in hits:
@@ -152,9 +218,18 @@ def main():
     print("STATION-HERITAGE WORDING (DR-19) — places to READ")
     print("=" * 100)
     hcount = 0
+    scoped_names = None
+    if scoped:
+        scoped_names = name_regex({tk for r in rows for tk in r["tokens"]})
     for p, lines in texts.items():
+        shared = scoped and not (owners(p, all_rows) & target)
         for i, line in enumerate(lines, 1):
+            if shared and not scoped_names.search(line):
+                continue
             m = HERITAGE.search(line)
+            if m and shared and other_names and other_names.search(line):
+                skipped_lines += 1
+                continue
             if m:
                 s = max(0, m.start() - 70)
                 print(f"  {os.path.relpath(p, REPO)}:{i}: …{line[s:m.end() + 50].strip()}…")
@@ -162,6 +237,10 @@ def main():
 
     print("\n" + "-" * 100)
     print(f"Founder disagreements: {total} · heritage wording: {hcount} · files scanned: {len(texts)}")
+    if scoped:
+        print(f"Scoped to: {', '.join(sorted(target)) or '(no Register city matched)'} · other cities' files skipped: {skipped_other} "
+              f"(names and lines deliberately not shown) · withheld files skipped: {skipped_withheld}")
+        print(f"Lines in shared files skipped because they also name another city: {skipped_lines} (not shown; read them in the preparation phase, not during a pass)")
     print("Excluded: Background-Lore (locked), graphify-out, Archive/ (DR-27), pass run records (use --include-passes),")
     print("and the rule/tracking files themselves. Hits are where to READ; a clean result is not proof.")
     return 0

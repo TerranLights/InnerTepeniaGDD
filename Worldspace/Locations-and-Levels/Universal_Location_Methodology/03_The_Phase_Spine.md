@@ -763,6 +763,9 @@ death?*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Holidays.md`
 > - ⭐ **`Ice-Cold_Buddhism_Research/`** *(7 files)* ⚠ *the faith's name is a placeholder*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Ice-Cold_Buddhism_Research/`
+> - `The_True_Believer_Extraction.md` · `The_Meme_Machine_Extraction.md` *(belief transmission; mass movements; useful for counterculture derivation; added 2026-10-21 to match the runbook's `§C.8c` row 6, which already listed them — Mirny handoff decision 13, group C)*
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/The_True_Believer_Extraction.md`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/The_Meme_Machine_Extraction.md`
 > - ⛔ **the deferred MORTUARY question — RESERVED, do not answer it**
 > 
 > ⛔ **Not optional.** ***`M-169`: a phase that skipped these produced a confident FALSE headline finding that passed every other check — spelling, tables, contradiction gate, quotation audit AND the swap test.*** ⭐ **Opened-and-empty is a RESULT; unopened is a HOLE.**

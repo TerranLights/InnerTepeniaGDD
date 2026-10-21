@@ -36,8 +36,13 @@ cannot drift apart the way 00f's operational list and its output template did
                      stripping) "T4 - SHED:" or "T4 SHED:" (case-insensitive).
   T5 early marker : a line in the Phase 6 file starting with "T5 - EARLY LOVER
                      FACULTY:" (case-insensitive), verdict is the rest of the line.
-  T5 late marker  : in 08_Review_Panel.md, the Lover faculty line inside the panel
-                     output block (00f's own template names it "Lover faculty").
+  T5 late marker  : a line in 08_Review_Panel.md starting with (after markdown
+                     stripping) "T5 - LATE LOVER FACULTY:", verdict is the rest of the line.
+                     CHANGED 2026-10-21 (Mirny handoff decision 13, group A; M-286): the late
+                     marker used to be ANY line mentioning "Lover faculty", and at Step 8 it
+                     matched a row of the handoff table and declared both markers present. It
+                     now has a dedicated string, like the early marker. Lines that merely
+                     mention the Lover faculty are COUNTED but never treated as the marker.
 """
 
 import os
@@ -52,6 +57,7 @@ POSITIONS = [
 
 T4_PAT = re.compile(r"T4\s*[-–]\s*SHED\s*:\s*(.*)", re.I)
 T5_EARLY_PAT = re.compile(r"T5\s*[-–]\s*EARLY\s+LOVER\s+FACULTY\s*:\s*(.*)", re.I)
+T5_LATE_PAT = re.compile(r"T5\s*[-–]\s*LATE\s+LOVER\s+FACULTY\s*:\s*(.*)", re.I)
 LOVER_FACULTY_PAT = re.compile(r"lover\s+faculty", re.I)
 
 CELL_STRIP = re.compile(r"[*`_\[\]>#]")
@@ -149,20 +155,25 @@ def check_t5(pass_dir):
 
     panel = os.path.join(pass_dir, "08_Review_Panel.md")
     late = None
+    mentions = 0
     if os.path.exists(panel):
         text = open(panel, encoding="utf-8").read()
         for line in text.split("\n"):
-            if LOVER_FACULTY_PAT.search(line):
-                late = strip_md(line)[:140]
-                break
+            m = T5_LATE_PAT.search(strip_md(line))
+            if m and late is None:
+                late = m.group(1).strip()
+            elif LOVER_FACULTY_PAT.search(line):
+                mentions += 1
     if late is not None:
-        print("  LATE (Step 8) mention   : %s" % late)
+        print("  LATE (Step 8) verdict   : %s" % late)
     else:
-        print("  LATE marker absent (08_Review_Panel.md missing or has no Lover-faculty line yet)")
+        print("  LATE marker absent (08_Review_Panel.md missing or has no 'T5 - LATE LOVER FACULTY:' line yet)")
+    if mentions:
+        print("  (%d other line(s) in 08_Review_Panel.md merely mention the Lover faculty; they are NOT the marker.)" % mentions)
 
     print("")
     if early is not None and late is not None:
-        print("  Both present. COMPARE BY HAND: if the early verdict changed what any")
+        print("  Both dedicated markers present. COMPARE BY HAND: if the early verdict changed what any")
         print("  phase between 6 and 8 wrote, T5 is FALSIFIED per its own stated")
         print("  condition and must be withdrawn, not quietly kept.")
     else:

@@ -2706,7 +2706,8 @@ Standing reminders, all of which have their own recorded failure behind them:
 > | | |
 > |---|---|
 > | ⭐⭐ **`T8` — three-subagent read consensus** | **`Tools/triple_read_verify.py`.** *Three independent readers per step/phase, each emitting a `PROOF:` block; mechanical ground-truth check; then agent-to-agent cross-check. **Write only on UNANIMOUS.*** **23 commands are written into the template — 12 steps, 11 phases** *(Step 4 routes to its phases rather than dispatching)* |
-> | **Part V** — `Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close |
+> | ⭐ **`T8_Standing_Brief_Lines.md`** *(2026-10-21)* | **The nine lines every three-reader brief and its record must carry** (PROOF fields by hand, admitted spans, the one graphify ground, source pointers, forbidden names in positional lines, excerpted-output labels, generated entry ranges, DOUBLE-CHECK last, saved Round 3 replies), plus the post-write check commands as the tools now work |
+| **Part V** — `Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close. ⭐ *(2026-10-21: `--step N` / `--phase N` / `--files` / `--all` required; `--own-pass` optional.)* |
 > | **Part V.2** — `Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration` |
 > | **`Tools/phase_discipline_check.py`** | `T3` ledger · `T4` shed marker · `T5` early Lover-faculty smoke test |
 > | ⭐ **The `T8` WRITE is a MERGE, not a pick** *(developer, 2026-09-28, `M-246`)* | **Contradiction → the most conservative current view, split named in the row** *(population-origin material → DEMOTED, never EXCLUDED — §C.9c, "a pass that refuses all ethnic material")*. **No contradiction → UNION: every single-reader find is written and credited to its finder.** Full statement: `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 |
@@ -2985,14 +2986,18 @@ because the old wording required reading a sibling:**
 # Step 9 — Record
 
 1. Append the **QA block** and the **Review Panel block**.
-2. Add the location's **row to its differentiation set, in the same commit.**
-   ⭐ **Cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md`** *(full path in Step 6)*. **Districts
-   → `Cross_District_Differentiation_Table.md`.** ***One AXIS per cell, never the content.***
+2. **Confirm the location's own COLUMN in its differentiation set is written and in the same commit.**
+   ⭐ *(Reconciled 2026-10-21, Mirny handoff decision 13, group C; `M-298`.)* **The column is WRITTEN at Step 6, on
+   the UNANIMOUS verdict, as the Pre-Trip's Step 6 row says; Step 9 CONFIRMS it is present and commits it in the
+   same commit as the Step 9 record.** *Call it a column, never a row: a city pass adds its own column and never
+   reads another's.* **Cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md`** *(full path in Step 6)*.
+   **Districts → `Cross_District_Differentiation_Table.md`.** ***One AXIS per cell, never the content.***
    ⚠ **And if this pass noticed anything about ANOTHER city, record that here too** — `04` III.0:
    ***propagation is part of the finding, not a follow-up.*** *(A symbol collision was once noticed correctly,
    filed in one city's own culture file, and never reached the guide whose entire job was catching it.)*
 3. Update whatever tracker claims completion — **per Gate 0, list what the file actually contains, not a summary
-   claim.**
+   claim.** ⭐ *(Added 2026-10-21, `M-287`.)* **A city's tracker row carries each phase's status, PROPOSED or
+   confirmed, in the same one line, so an overclaim cannot hide behind "Step 4 done."**
    > ### ⛔ **BUT PUT THE FINDING IN THE OBSERVATIONS LOG, NOT IN THE TRACKER.** *(M-109.)*
    > **Gate 0's concern is OVERCLAIMING COMPLETION. It is not a license to write substance into a queue.**
    > ***A tracker entry is: what remains to be done, one line, plus a pointer to where the detail lives.***
@@ -3001,6 +3006,11 @@ because the old wording required reading a sibling:**
 4. **If this pass changed the methodology, update these files in the same commit**, and record **what was
    learned and on which location.** A methodology change that does not update the runbook has not been made —
    the next pass will follow the runbook, not the commit message.
+5. ⭐ **Discharge every deferral to "the pass's close."** *(Added 2026-10-21, `M-291`; Mirny's Phase 2 snag 1 and
+   Phase 3 snag 12 deferred a sweep of line-anchored citations to the close, and no step listed it.)* **Run the
+   stale-anchor and span sweep over the pass's own files: every citation by line number or span is re-checked
+   against the file as it now stands, because edits shift lines.** Record what moved. This step discharges any
+   phase's "sweep at the close" deferral; a deferral that no step names is a hole.
 
 ## 9.5 — THE RECORDING LAW: log everything that happened, not everything that worked
 

@@ -32,7 +32,7 @@
 
 *Items marked ⭐ are the most valuable per unit of effort.*
 
-- [ ] **N-1 ⭐ · Recount the Datasheet and Pre-Trip Tracker.** It was last counted on 2026-09-30; re-count from the live folders and fix the rows. *(Cheap, no research.)*
+- [x] **N-1 ⭐ · Recount the Datasheet and Pre-Trip Tracker.** *(Done 2026-10-21: totals unchanged; Mirny's row and three notes updated.)* It was last counted on 2026-09-30; re-count from the live folders and fix the rows. *(Cheap, no research.)*
 - [ ] **N-2 ⭐ · Check which existing datasheets the founders cleanup made stale.** The founders cleanup rewrote founding lines in 20 specs and corrected culture sheets; datasheets quoting the old founding lines (Cape Adare, Zukelli, Dumont d'Urville, Denison, Casey, Kunlun, Vostok, Mirny, Davis) must be re-checked. Spec line numbers did not move, so citations still resolve; the values may not match. Use `Tools/check_founders_against_register.py` plus a manual look.
 - [ ] **N-3 ⭐ · Build the reader-list generator.** Generate the `.t8_required_<step or phase>.txt` lists by copying each city's Pre-Trip rows verbatim, so Round 0 of every step stops being hand-built. *(Identified as the cheapest win on 2026-09-15.)*
 - [ ] **N-4 · Build the Pre-Trip sheets and position-coverage ledgers for every city that lacks them.** Recipe: `PRE-TRIP_INSPECTION_RECIPE.md`. Have them: Casey, Davis, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok, Zhongshan (both trial folders). **Missing** (see list in section 4): Cape Adare and Zukelli need Pre-Trip sheets; the other cities need everything.
@@ -40,7 +40,7 @@
 - [ ] **N-6 · Finish the eBook-to-city mapping,** checked by contents, not titles (the old title-based mapping was measured wrong three times). Queued 2026-09-15; the completed tally was not found. Check `Book_Extraction_Index.md` and `Book_TOC_Master_Reference.md` first so nothing already mined is mined twice. Output: which book serves which city's research step.
 - [ ] **N-7 · Casey: stage a fresh warm run.** Casey is the next city. The earlier cold run was a test; production is warm. Verify its datasheets and Pre-Trip sheet are current after the founders cleanup, and that its folder and `README.md` are ready.
 - [ ] **N-8 · Estimate the cost per city and set the standard reader setup.** Mirny's Steps 5 to 10 hit the five-hour limit on Max 5x. Estimate cost per step on Max 20x and decide the standard number of readers, rounds and list sizes, so one month fits. *(Needs the developer's decision, see section 2.)*
-- [ ] **N-9 · Review Mirny's lessons and fold the accepted ones into the runbook.** The pass recorded 16 new observations and 19 methodology proposals; none is applied. The developer reviews which become rules; accepted ones go into `00_RUNBOOK.md` and the Spine in the same commit.
+- [x] **N-9 · Review Mirny's lessons and fold the accepted ones into the runbook.** *(Done 2026-10-21 for the 19 proposals: groups A to C approved and implemented, the per-line hash and the cross-reference item set aside. The remaining Mirny handoff decisions are still being taken; see D-1.)* The pass recorded 16 new observations and 19 methodology proposals; none is applied. The developer reviews which become rules; accepted ones go into `00_RUNBOOK.md` and the Spine in the same commit.
 - [ ] **N-10 · Add any new corpus-wide reference sheets that November will need.** Candidates (propose, then build only those the developer approves): founders and rename quick reference; the social-contract and symbol-layer terms; the Modern Hawaiian language canon note; the fixed rosters not yet in `Corpus_Reference_Sheets/`. Check the Field Guide's Tier U list against what exists.
 - [ ] **N-11 · Mirny leftovers to schedule, not do.** The amendment re-derivation after the Social Contract rulings; the Planet symbol assignment; the cap-starved research on the unresearched stock repertoires (queued for Max 20x). Record them in the November run order so they are not lost.
 - [ ] **N-12 · Update `MASTER_Process_Tracker.md`** so its `RESUME HERE` block names the first November city and the first piece, and its SESSION BOOT is current.
@@ -51,7 +51,7 @@
 
 | # | Decision | Needed by | Notes |
 |---|---|---|---|
-| D-1 | Which of Mirny's 19 methodology proposals become rules | before N-9 | The biggest decision; blocks the runbook update |
+| D-1 | ~~Which of Mirny's 19 methodology proposals become rules~~ **Decided 2026-10-21** | | Groups A to C approved; two set aside. Remaining Mirny handoff decisions (ledger, Phase 9 amendments, the 23-row docket and so on) continue. |
 | D-2 | New names for **Dumont d'Urville** and **Zukelli**, in line with their founders; whether to audit other foreign-named cities (Mawson, Neumayer, Rothera, Signy, Scott and others) | before their runs, ideally before datasheets are built | Dome Fuji stays "The Temple" until the language exists. Byrd keeps its name. The rename sweep for the held files runs after the Mirny pass. |
 | D-3 | Founders for **Sejong, Juan Carlos, Sayowa** (still TBD in the register) | before those cities' datasheets | |
 | D-4 | The standard reader setup and budget per city | before N-8 | |
@@ -98,3 +98,6 @@
 | Date | Event |
 |---|---|
 | 2026-10-21 | File created from the survey of existing artifacts; plan and decisions listed. |
+| 2026-10-21 | N-1 done: the Datasheet and Pre-Trip Tracker recounted. |
+| 2026-10-21 | Mirny handoff decision 13 done: groups A to C of the 19 proposals implemented. Tools repaired (`handoff_audit.py`, `phase_discipline_check.py`, `quotation_audit.py`); new file `Universal_Location_Methodology/T8_Standing_Brief_Lines.md`; runbook Step 9 items 2, 3, 5 and the T8 table rows; spine Phase 6 must-open list; Field Guide Step 9 note. |
+| 2026-10-21 | Mirny handoff decision 8 done: `Tools/check_founders_against_register.py` now honors `--city` (own files plus shared files only; other cities' files and withheld material skipped and counted; developer approved). Developer's reminder: scanning and reading every city-related file in the whole repo belongs in the preparation phase, so a pass can read the reference files directly. |
