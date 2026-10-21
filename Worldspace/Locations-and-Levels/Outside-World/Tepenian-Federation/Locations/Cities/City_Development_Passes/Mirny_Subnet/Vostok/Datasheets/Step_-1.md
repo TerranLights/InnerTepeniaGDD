@@ -10,7 +10,7 @@
 | Specs file | `Specs/Vostok.md`, 203 lines | Read in full |
 | Real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, Southern Pole of Inaccessibility | `Specs/Vostok.md` L3 |
 | Coordinates | ~78°28′S, 106°52′E | `Specs/Vostok.md` L3 |
-| Admitted range | Not pre-staged — Step −1's own ruling. The exclusions below are the standing default-scope fields only. ⛔ Spec L128 (founding population) is a `DR-19` strike candidate: Vostok's founders are UNRULED (Founding Register) | This datasheet set; `Founding_Register.md` |
+| Admitted range | Not pre-staged — Step −1's own ruling. The exclusions below are the standing default-scope fields only. Spec founding line (now `Ariun_Nuur.md` L130, rewritten 2026-10-13): founders are ruled in the Founding Register, Künnarantaiga and Mongolia jointly (`DR-35`). (Refreshed 2026-10-21 against the corrected spec and the Founding Register.) | This datasheet set; `Founding_Register.md` |
 
 ## ⛔ EXCLUDED SECTIONS — four spec fields, excluded wholesale by field-name convention
 

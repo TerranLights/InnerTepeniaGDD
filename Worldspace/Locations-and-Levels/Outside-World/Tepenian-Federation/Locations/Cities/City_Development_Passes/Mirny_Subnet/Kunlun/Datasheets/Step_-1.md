@@ -21,8 +21,8 @@
 > | `## Economy & Industry`, 3rd paragraph (L194) — the first two paragraphs are admissible |
 >
 > **Admissibility of the remaining sections is Step −1's own ruling.** ⛔ `## Founding Population Resolution`
-> (L160–170) makes the station operator's nation the founders (L168: *"Chinese exiles founded the city"*) — a
-> `DR-19` strike; Kunlun's founding population is UNRULED (Founding Register). `## Founding` (L156–158) states
+> (L160–170) made the station operator's nation the founders (L168: *"Chinese exiles founded the city"*) — a
+> `DR-19` strike, since corrected: L168 was rewritten 2026-10-13 to the Register's ruling (Ariun Nuur's founding stock plus the Sinian Federation; `DR-34`, `DR-35`). *(Refreshed 2026-10-21 against the corrected spec and the Founding Register.)* `## Founding` (L156–158) states
 > the inherited station infrastructure only (`DR-24`).
 
 | Category | Value | Citation |

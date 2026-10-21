@@ -111,6 +111,7 @@ re-count before relying on a row.
 
 | Date | Event |
 |---|---|
+| 2026-10-21 | Founders lines refreshed in the datasheets of Zukelli, Dumont d'Urville, Denison, Kunlun, Vostok and Mirny (16 files plus one line), against the corrected specs and the Founding Register; Casey, Davis and Cape Adare were already correct. **Vostok's set still cites the renamed spec `Specs/Vostok.md` about 53 times (now `Ariun_Nuur.md`, lines shifted by two)**; fix with the rename sweep. Dumont d'Urville's and Zukelli's sets will need rebuilding when their new names are chosen. |
 | 2026-10-21 | Recounted from the live folders (the first item of `Dev-Road-Map/November_To-Do.md`). Totals unchanged: **9 cities with a full 19-file datasheet set; 8 cities (9 folders) with a Pre-Trip sheet; 6 cities with a ledger** (Casey, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok). Mirny's row updated; Amundsen Station, Dumont d'Urville and Zukelli notes added. The 38th-city placeholder folder is `Bunger_Hills_City`; Relung Panen has a dossier but no folder in `City_Development_Passes`. |
 | 2026-09-30 | Tracker drafted from live folder counts. |
 | 2026-09-30 | Cape Adare: 19 datasheets built (DRAFT), per `Mechanical_Extraction_Field_Guide.md`. |
