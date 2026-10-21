@@ -8,6 +8,10 @@ file and start a fresh one for the next stretch of work).
 
 ---
 
+## ⭐ November push: prepare the guiding documents before Oct 29 *(added 2026-10-21)*
+Tracking file and guide: `Dev-Road-Map/November_To-Do.md` (checklist, decisions needed, run plan).
+- [ ] Work through the preparation checklist (N-1 to N-12) and take the developer's decisions (D-1 to D-8)
+
 ## Core systems follow-ups *(added 2026-10-18)*
 Detail: `TODO.md`, "Core systems — follow-ups from the 2026-10-18 cleanup". Decisions: `Game-Mechanics/Core-Mechanics/Core_Systems_Cleanup_Decisions_2026-10-18.md`.
 - [ ] Consolidate the three Neural Overclock documents into one; revisit the name "Hyperthread"

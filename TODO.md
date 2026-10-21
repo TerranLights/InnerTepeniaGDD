@@ -23,6 +23,10 @@
 > like the bite)*. **It wants a deliberate pass.**
 
 
+## ⭐ NOVEMBER PUSH — all the cities in one go — preparation window Oct 21–28, Max 20x on Oct 29 *(added 2026-10-21)*
+
+**The tracking file and guide is `Dev-Road-Map/November_To-Do.md`** (the checklist of guiding documents to build before October 29, the decisions needed from the developer, and the November run plan).
+
 ## Core systems — follow-ups from the 2026-10-18 cleanup — not started
 
 Decisions and reasoning: `Game-Mechanics/Core-Mechanics/Core_Systems_Cleanup_Decisions_2026-10-18.md`.
@@ -38,7 +42,7 @@ Decisions and reasoning: `Game-Mechanics/Core-Mechanics/Core_Systems_Cleanup_Dec
 - **Revisit the DLC XP tallies after side content is designed** (developer, 2026-10-18; ideas for the South Pole are in `Storyline/DLC_01_South_Pole_Side_Content_Suggestions.md`).
 - **Experience (XP):** skill-use XP amounts and whether repeats taper; how MACHINE stats, perks and traits modify XP; XP values for DLC side content (companions, under-questlines, side quests, activities; only each DLC's main questline is valued so far); per-companion XP values; finalizing the 40 repeatable-quest concepts and whether the repeat cap varies by type. (`XP_System_Design_Reference.md`)
 - **Accomplishment Weight:** the 25/50/75 reactivity checkpoints; whether it shares one History Points accumulator with the Fragmentation Matrix; the roster review of ambient-reactivity exceptions.
-- **Fragmentation (decided 2026-10-21; still open):** the visible-tier rule for the ledger; the Bond gain size from a confrontation; the glitching past perks in detail (trigger and frequency, outcomes, readability, purge or fix, tie to IF states and echo events) and how current and past perks conflict; the personality multiplier values for remaining companions and districts (and an Enneagram-based formula); the companion Long Vigil perks. Record: `Game-Mechanics/Core-Mechanics/Fragmentation_Decisions_2026-10-18.md`.
+- **Fragmentation (decided 2026-10-21; still open):** the visible-tier rule for the ledger; the Bond gain size from a confrontation; the glitching past perks in detail (trigger and frequency, outcomes, readability, purge or fix, tie to IF states and echo events) and how current and past perks conflict (**waits until the perks themselves are defined**); the personality multiplier values for remaining companions and districts (and an Enneagram-based formula); the companion Long Vigil perks. Record: `Game-Mechanics/Core-Mechanics/Fragmentation_Decisions_2026-10-18.md`.
 - **Hardcore Mode rework queue:** re-derive Power Consumption (currently fails the standard: "equivalent to hunger/thirst"); rework Thermal exposure (candidate on file: in cold, resting is more dangerous than moving), Coldshock stages 3–5 and Blizzard events; then the siligel class count and per-class weights and the other items listed in `Hardcore_Mode.md`.
 - **Re-spec:** risk levels and Identity Fragmentation costs for the district methods still marked TBD; whether a story-triggered crisis/environmental event category exists.
 - **Companion system:** many romance thresholds still TBD; 19 undecided characters in the roster; the forbidden-traits work for remaining companions.
