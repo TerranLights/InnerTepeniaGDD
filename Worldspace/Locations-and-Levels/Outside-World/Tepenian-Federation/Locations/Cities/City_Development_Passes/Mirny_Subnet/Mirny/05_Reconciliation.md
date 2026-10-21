@@ -510,6 +510,8 @@ The robot-culture file's **verification ethic and creed** (`LRC:14`, `LRC:119–
 
 **`P10` P10-6** (person-shaped, conditional on this check): the culture files name roles for wind **engineering** (`LC:184`, `LC:242`; a placeholder title at `LC:294`; a guild at `LRC:106–115`), none for **reading** the wind. P10-6's condition is not met, so **no amendment to Phase 9 comes from it** (`BT-5`; `Q-101` asks what is intended). The engineering craft is recorded as `S5-RF-2`. `[A,B,C]`
 
+**RATIFIED 2026-10-21 (developer): the three firm amendments (Aries, Virgo, Capricorn) take effect on Phase 9; the conditional and seed rows stay as written.** *(A ratification notice sits at the top of `04_Phase_09_Populations.md`; that file's own text is not edited.)*
+
 **The culture check on the amendments:** the relay technicians' quiet standing (`LRC-17`) is consistent with the keeper role-shapes (`BT-7`); nothing in entries 46–48 contradicts any firm amendment. **None is upgraded; none is applied.**
 
 ---

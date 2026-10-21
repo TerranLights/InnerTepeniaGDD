@@ -99,5 +99,6 @@
 |---|---|
 | 2026-10-21 | File created from the survey of existing artifacts; plan and decisions listed. |
 | 2026-10-21 | N-1 done: the Datasheet and Pre-Trip Tracker recounted. |
+| 2026-10-21 | Mirny handoff decisions 1 and 2 done: the Position-Coverage ledger marked for Phases 8 to 10 (developer confirmed); the three firm Phase 9 amendments ratified (notice added to Phase 9). Rulings recorded as `DR-58`. |
 | 2026-10-21 | Mirny handoff decision 13 done: groups A to C of the 19 proposals implemented. Tools repaired (`handoff_audit.py`, `phase_discipline_check.py`, `quotation_audit.py`); new file `Universal_Location_Methodology/T8_Standing_Brief_Lines.md`; runbook Step 9 items 2, 3, 5 and the T8 table rows; spine Phase 6 must-open list; Field Guide Step 9 note. |
 | 2026-10-21 | Mirny handoff decision 8 done: `Tools/check_founders_against_register.py` now honors `--city` (own files plus shared files only; other cities' files and withheld material skipped and counted; developer approved). Developer's reminder: scanning and reading every city-related file in the whole repo belongs in the preparation phase, so a pass can read the reference files directly. |

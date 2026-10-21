@@ -1157,6 +1157,19 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 
 ---
 
+## `DR-58` · ✅ **THE FOUNDERS CLEANUP, THE NAMES, FACTIONS DEFERRED, AND THE MIRNY HANDOFF DECISIONS** *(2026-10-18 to 2026-10-21)*
+
+| | |
+|---|---|
+| **Founders cleanup** | Done 2026-10-13/18: 20 specs' founding lines and their affected narrative passages were brought into line with `Founding_Register.md`; culture sheets carry a correction note; the reference-data files were updated. The megasheets were not touched (they will be rebuilt and the originals archived). |
+| **Names** | **Dumont d'Urville** and **Zukelli** will each get a new name in line with their founders (Japan and Australia); names not chosen; no sweep unprompted. **Byrd keeps its name** (the settlers learned of it from records under that name). **Dome Fuji** is called "The Temple" until Modern Hawaiian is synthesized (its proper name will be a Modern Hawaiian vocabulary term). |
+| **Factions** | Creating or finalizing factions waits until the whole ULM/CST/RWBEM process is finished for the country and then for all Concordia districts; then factions are created together from the data. |
+| **Amundsen Station** | The official census governs its population. |
+| **Plan and schedule** | Max 20x from 2026-10-29; the November run is prepared through `Dev-Road-Map/November_To-Do.md`; scanning and reading every city-related file in the repo belongs in the preparation phase so a pass can read the reference files directly. |
+| **Mirny handoff decisions** | **8:** the founders-check script reads only a chosen city's own files and shared files. **13:** groups A to C of the 19 methodology proposals approved and implemented (tools repaired, `T8_Standing_Brief_Lines.md`, runbook Step 9 items 2, 3 and 5, spine Phase 6 must-open list); the per-line hash and the cross-reference item set aside. **2:** the three firm Phase 9 amendments ratified (Aries, Virgo, Capricorn). **1:** the ledger; the developer confirmed the marks for Phases 8 to 10 (entered in `00.2`; the Lover faculty row stays blank). |
+
+---
+
 # OPEN, ARISING FROM THESE RULINGS
 
 | | Question | Owner |

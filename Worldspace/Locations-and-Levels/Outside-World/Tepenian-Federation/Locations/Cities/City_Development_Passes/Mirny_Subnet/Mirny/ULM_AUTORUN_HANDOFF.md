@@ -69,8 +69,8 @@
 7. Correction (2026-10-12 evening, after the developer asked whether the cut-off readers were followed up): Step 9 and the tracker said the safeguard-flag probe had not been run. It was run on 2026-10-11 after Phase 10 (nine one-shot agents, all passed, nothing reproduced the flag; `_safeguard_probe/README.md`). The accumulation-shape follow-up (many reads, repeated log appends) has not been run (R-177). Fixed in `09.5_Log.md`, `09_Record.md` and the tracker's L360; `M-262` is left as written (true when written).
 
 ## Decisions for you (none blocks; each has a recommendation)
-1. **Position-Coverage ledger (`00.2`).** Not touched. *Recommendation:* leave blank until you review Step 5, then confirm.
-2. **Phase 9 amendments (`05` §9).** *Recommendation:* ratify the three firm ones; leave the conditional and seed ones as they are.
+1. **Position-Coverage ledger (`00.2`).** Not touched. *Recommendation:* leave blank until you review Step 5, then confirm. **DECIDED 2026-10-21: the developer confirmed the proposed marks for Phases 8 to 10 and they were entered in `00.2` (the Lover faculty row stays blank).**
+2. **Phase 9 amendments (`05` §9).** *Recommendation:* ratify the three firm ones; leave the conditional and seed ones as they are. **DECIDED 2026-10-21: ratified (Aries, Virgo, Capricorn); a ratification notice was added to Phase 9; the conditional and seed rows are unchanged.**
 3. **The Element (FQ-84 / `R-132`).** *Recommendation:* test rebuilt Earth against Phases 2–10 before confirming anything; until then Air stands provisionally.
 4. **The 23-row docket (FQ-92).** *Recommendation:* apply nothing now; fold the high-confidence rows (founders, namesake, light, members, plating) into the post-ULM rewrite of the culture sheets.
 5. **Vision-dated material and the personality read (FQ-87 / `DR-10a`).** *Recommendation:* keep them out of frame until the annotation stage.
