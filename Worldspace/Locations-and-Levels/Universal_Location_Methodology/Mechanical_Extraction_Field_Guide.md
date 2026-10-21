@@ -383,7 +383,7 @@ checklist reused, unchanged, by every city's Step 7 forever.
 **Step 8 (Review Panel).** *Tier U:* `Disciplines/00f_Review_Panel.md`'s panel-position roster + the six
 disposition definitions (accepted/noted/rejected/refereed/unmet/declined).
 
-**Step 9 (Record).** *Tier U:* `00_RUNBOOK.md` §Step 9/§9.5's fixed procedure text. ⭐ *(Updated 2026-10-21, Mirny handoff decision 13, group C: the differentiation entry is the city's own **column**, written at Step 6 on UNANIMOUS and confirmed at Step 9, never a "row"; and a Step 9 datasheet should list, as a pure lookup, the deferrals that earlier phases pushed to "the pass's close", which Step 9 item 5 now discharges. Existing Step 9 datasheets built before this date should be refreshed when the per-city datasheets are rebuilt.)* ⚠ The "next `M-` number"
+**Step 9 (Record).** *Tier U:* `00_RUNBOOK.md` §Step 9/§9.5's fixed procedure text. ⭐ *(Updated 2026-10-21, Mirny handoff decision 13, group C: the differentiation entry is the city's own **row** in the city table (a district has a column in the district table), written at Step 6 on UNANIMOUS and confirmed at Step 9; and a Step 9 datasheet should list, as a pure lookup, the deferrals that earlier phases pushed to "the pass's close", which Step 9 item 5 now discharges. Existing Step 9 datasheets built before this date should be refreshed when the per-city datasheets are rebuilt.)* ⚠ The "next `M-` number"
 lookup is mechanical but not stable enough for a static datasheet — recommend a single live-maintained counter
 file instead of a per-city artifact.
 

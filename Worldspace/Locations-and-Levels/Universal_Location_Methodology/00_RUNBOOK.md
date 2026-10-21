@@ -2986,11 +2986,13 @@ because the old wording required reading a sibling:**
 # Step 9 — Record
 
 1. Append the **QA block** and the **Review Panel block**.
-2. **Confirm the location's own COLUMN in its differentiation set is written and in the same commit.**
-   ⭐ *(Reconciled 2026-10-21, Mirny handoff decision 13, group C; `M-298`.)* **The column is WRITTEN at Step 6, on
+2. **Confirm the location's own ENTRY in its differentiation set is written and in the same commit.**
+   ⭐ *(Reconciled 2026-10-21, Mirny handoff decision 13, group C; `M-298`.)* **The entry is WRITTEN at Step 6, on
    the UNANIMOUS verdict, as the Pre-Trip's Step 6 row says; Step 9 CONFIRMS it is present and commits it in the
-   same commit as the Step 9 record.** *Call it a column, never a row: a city pass adds its own column and never
-   reads another's.* **Cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md`** *(full path in Step 6)*.
+   same commit as the Step 9 record.** *Name it by the table's own shape: the CITY table holds one ROW per city
+   (`Cross_City_Culture_Differentiation_Table.md`); the DISTRICT table holds one COLUMN per district. Never mix the
+   two words inside one table. A city pass writes only its own row and never reads another's.* *(Correction, same
+   day: the first wording of this item called the city's entry a "column"; the city table's rows are cities.)* **Cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md`** *(full path in Step 6)*.
    **Districts → `Cross_District_Differentiation_Table.md`.** ***One AXIS per cell, never the content.***
    ⚠ **And if this pass noticed anything about ANOTHER city, record that here too** — `04` III.0:
    ***propagation is part of the finding, not a follow-up.*** *(A symbol collision was once noticed correctly,

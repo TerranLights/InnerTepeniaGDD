@@ -99,6 +99,7 @@
 |---|---|
 | 2026-10-21 | File created from the survey of existing artifacts; plan and decisions listed. |
 | 2026-10-21 | N-1 done: the Datasheet and Pre-Trip Tracker recounted. |
+| 2026-10-21 | Mirny handoff decisions 9 to 11 done: the city differentiation table gained a Phase 10 section and a Phase-axis column; all defaults accepted. **Correction:** my first wording of Step 9 item 2 called the city's entry a "column"; the city table holds one ROW per city (the district table one column per district), so the runbook and Field Guide were corrected the same day. |
 | 2026-10-21 | Mirny handoff decisions 4 to 7 done (agreed): culture-sheet corrections wait for the post-ULM rewrite; vision material stays out of frame; vignette-grounded robot findings withdrawn or re-grounded at the rewrite; the sector shares retagged on Phase 7. |
 | 2026-10-21 | Mirny handoff decisions 1 and 2 done: the Position-Coverage ledger marked for Phases 8 to 10 (developer confirmed); the three firm Phase 9 amendments ratified (notice added to Phase 9). Rulings recorded as `DR-58`. |
 | 2026-10-21 | Mirny handoff decision 13 done: groups A to C of the 19 proposals implemented. Tools repaired (`handoff_audit.py`, `phase_discipline_check.py`, `quotation_audit.py`); new file `Universal_Location_Methodology/T8_Standing_Brief_Lines.md`; runbook Step 9 items 2, 3, 5 and the T8 table rows; spine Phase 6 must-open list; Field Guide Step 9 note. |
