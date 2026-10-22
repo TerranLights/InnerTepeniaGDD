@@ -52,3 +52,16 @@ Several sources that failed through the WebFetch tool **do work from the shell w
 - **What was downloaded.** Stander (2008), *Technical and economic evaluation of the utilisation of wind energy at the SANAE IV base in Antarctica*, Stellenbosch University MSc thesis, 332 pages, handle 10019.1/53081 (kept in the session scratchpad, not in the repository: 75 MB).
 - **What it holds on temperature.** Nothing monthly. It **assumes an average air temperature of about −20 °C** at SANAE IV to compute air density (§7), and quotes extremes near −50 °C; its monthly tables (appendix B) are wind. So it neither supports nor contradicts the Sanay spec's `Mean` column; **a dead end for monthly values, at the SOURCE (the document does not contain them).**
 - **Still open for Sanay:** the SANAP 2007 micro-climate paper (Stander et al., handle 123456789/28570: unreachable) and the 2016 *Renewable and Sustainable Energy Reviews* article (56:226-234, paywalled). A SAWS or SANAP climatology would be the direct source.
+
+## Fourth pass, 2026-10-21 night: the repo's own all-stations file
+**Found at `Reference/Real-World/Stations/COMNAP_Antarctic_Station_Catalogue.pdf`** (86 pages; one entry per station, most with three climate anchors: **mean annual temperature, mean February, mean July**). It had been in the repo the whole time; the 09-04 log never used it for monthly checks. A second all-stations file is `Towns/Data/Real_Station_Inventory_Crossmatched.csv` (524 stations: coordinates, elevation, type, status; **no climate columns**).
+**Extraction caution (a self-correction).** My first pass matched a station name to the first climate block that followed it in the text and **took the wrong block** for SANAE IV (it read −12.9 from the index region). Redone page by page (each value from the page that carries the station's own entry): **SANAE IV (p. 72): annual −16.5 · Feb −10.8 · Jul −23.1.** Entries that share a page with a neighbor were not used.
+| Station (catalogue page) | annual | Feb | Jul | Compared with |
+|---|---:|---:|---:|---|
+| SANAE IV (72) | −16.5 | −10.8 | −23.1 | Sanay spec: annual −18.7, Feb −11.0, **Jul −30.0** (7 °C too cold) |
+| Princess Elisabeth (26) | −18 | −12.3 | −24.9 | Utstein spec: −18.9 / −12.0 / **−30.0** (July 5 °C too cold) |
+| Aboa (44) | −15.3 | −5.2 | −21.9 | the 2004 paper: −15 / Jan −5.2 / Jul −21.5 ✅ consistent (independent confirmation of the OCR) |
+| Troll (56) | −18 | −10.9 | −24.8 | the corrected Troll column: −17.2 / Feb −10.3 / Jul −25.2 ✅ consistent |
+| Maitri (50) | −10.2 | −4.6 | −17.6 | the corrected Lazar column: −10.1 / Feb −3.2 / Jul −17.0 ✅ consistent |
+| Halley VI (78) | −20 | −13 | −31 | READER normal: −19.2 / −10.4 / −29.0 (broadly consistent; BAS rounded figures) |
+**Pattern.** The three unsourced cities' specs agree with the catalogue on the annual mean and February but run 5-7 °C too cold in July: the same winter over-statement the corrected cities had. **Not corrected:** three anchors cannot rebuild twelve months without inventing the curve; a flag in the provenance line is the honest option, or a monthly source. Cape Adare has no entry (no station).
