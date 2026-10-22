@@ -1,0 +1,33 @@
+# Utstein — Datasheet · Step 1, Step 2 & Phase 1 (Constraint & Capability) — MERGED
+
+> ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Utstein's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
+
+
+| Category | Value | Citation |
+|---|---|---|
+| `Access type:` | ON | `Specs/Utstein.md` L8 |
+| Spec climate — climate data source | International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record | `Specs/Utstein.md` L82 |
+| Spec climate — climate type | Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; severe katabatic wind exposure (real station: gales to 300 km/h) | `Specs/Utstein.md` L84 |
+| Spec climate — mean annual temperature | approximately −18°C | `Specs/Utstein.md` L85 |
+| Spec climate — record extremes | record high **+4.2 °C** (Dec); record low **-38.5 °C** (Aug) _(IMAU **AWS16**, *Utstein station* — ⭐ **0 km — this IS the station's own AWS**; **92,670 hourly observations**, 2009-02-02 to 2020-07-03. PANGAEA `10.1594/PANGAEA.974126`)_ *(researched 2026-09-04)* | `Specs/Utstein.md` L86 |
+| Spec climate — prevailing winds | ⭐ **sheltered, and unusually so for its latitude.** The **Sør Rondane Mountains shield the Utsteinen ridge from the high-speed katabatic flow**; **mean wind 6 m/s — half that measured at the less-protected Asuka site nearby.** *(The ridge itself is still exposed to gales in extreme events.)* *(researched 2026-09-04)* | `Specs/Utstein.md` L87 |
+| Spec climate — temperature range | coldest months avg −30°C; warmest month avg −5°C | `Specs/Utstein.md` L88 |
+| Spec climate — polar night | approximately May 16 → Jul 29 (~75 days) | `Specs/Utstein.md` L89 |
+| Spec climate — midnight sun | approximately Nov 11 → Feb 1 (~83 days) | `Specs/Utstein.md` L90 |
+| Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Utstein.md` L91 |
+| Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Utstein.md` L92 |
+| Spec climate — annual precipitation | approximately 100–200mm; dry continental | `Specs/Utstein.md` L93 |
+| Spec climate — regime | **INTERIOR** — *low fall, moderate redistribution* | `Specs/Utstein.md` L97 |
+| Spec climate — falls (reaches the surface) | ~200 mm/yr | `Specs/Utstein.md` L98 |
+| Spec climate — lands (accumulates and stays) | **~140 mm/yr** *(~70% retention)* | `Specs/Utstein.md` L99 |
+| Spec climate — lost to sublimation and wind transport | ~60 mm/yr | `Specs/Utstein.md` L100 |
+| Climate READER file (`Princess_Elizabeth.md`) | **An 8-line status stub, not a dataset — no monthly table.** What the file itself says: **READER status:** Not in BAS READER surface station database **Climate authority:** International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record **Action required:** Obtain monthly mean temperature normals directly from the listed authority. | `READER/Princess_Elizabeth.md` L1–8 |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Princess Elisabeth · Subnet: Halley · D: 1.43 · Workforce: 861,033 · base%: 43.7% · MAND%: 14.1% · FREE%: 42.3% · src: H | `16_Per_City_Three_Tier_Run.md` L247, L264 (header L247, row L264) |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Utstein`, `Princess Elisabeth`, `Utsteinen`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| Founding Register — the city's row (founders are decided only here, `DR-19`) | **Palmer City:** Utstein · **Palmer:** Halley · **−4:** +2 · **✅:** ✅ · **Three groups united by relationship to robots: exiled robots, human partners, human ideological supporters — **not by nationality:** The Scandinavian Trade Union nations, jointly · **Founding of the Federation itself; settled 2564-06-21 (`DR-16`):** Time-zone proximity; Belgium did not exist in 2564 · **`Specs/Palmer subnet/Palmer_City.md` L218; `DR-16`, `DR-44`:** `DR-22` · **—:** Belgian | `Founding_Register.md` L51 |
+| Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Utstein.md` L139 |
+| Spec — `Founding population:` (as stated; the Founding Register governs) | The Scandinavian Trade Union nations, jointly (`DR-22`). The earlier Belgian founding is superseded. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Utstein.md` L141 |
+| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: USA, Japan · Significant: Germany, France, UK, Brazil, Australia · Notable: Poland, Netherlands, Belgium, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia | `Specs/Utstein.md` L28–30 |
+| Spec — Economy & Industry section | Present at L161–L165; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Utstein.md` L161 |
+
+**Not mechanical / not included here:** the Gate 9 asymmetry audit, the inheritance classification, the shape reading, generator selection, the spine sentence, the three-generator four-quadrant capability profile — none of this exists until Utstein's own pass runs.

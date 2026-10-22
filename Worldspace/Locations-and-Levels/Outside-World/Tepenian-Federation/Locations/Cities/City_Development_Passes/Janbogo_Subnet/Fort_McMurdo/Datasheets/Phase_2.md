@@ -1,0 +1,26 @@
+# Fort McMurdo — Datasheet · Phase 2 (Composition & Arrival)
+
+> ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown.
+
+
+| Category | Value | Citation |
+|---|---|---|
+| Composition tier table (spec) | **Primary:** China, USA · **Significant:** Japan, Germany, France, UK, Italy · **Notable:** South Korea, Canada, Indonesia, Australia *(founding wave)*, Philippines, Malaysia, New Zealand *(founding wave)*, Chile | `Specs/Fort_McMurdo.md` L42–44 |
+| Composition tier table (census Section A entry) | **Primary:** China, USA · **Significant:** Japan, Germany, France, UK, Italy · **Notable:** South Korea, Canada, Indonesia, Australia *(founding wave)*, Philippines, Malaysia, New Zealand *(founding wave)*, Chile | `Official_Population_Census.md` L274–276 |
+| Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
+| Annotation in the spec tier table | `(founding wave)` — **no date** | `Specs/Fort_McMurdo.md` L44 |
+| Annotation in the spec tier table | `(founding wave)` — **no date** | `Specs/Fort_McMurdo.md` L44 |
+| Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L276 |
+| Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L276 |
+| Per-nation breakdown (spec) | Present at L48–L73 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Fort_McMurdo.md` L48 |
+| Census I | 222,190 H / 223,120 R / **445,310** combined | `Official_Population_Census.md` L507 |
+| Census II | 173,548 H / 164,621 R / **338,169** combined | `Official_Population_Census.md` L621 |
+| Retention (computed; cross-ref `Step_0.md`) | combined 75.94% · human 78.11% · robot 73.78% | Computed from the two rows above |
+| Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
+| Falkland Treaty — station assignment is not nationality-based, in the treaty's own words | Art. II.3.3: *"Nothing in this Article requires that a population assigned to a given station share the national origin of the Power that formerly maintained it"* | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
+| Falkland Treaty — the allocation was staged, not instant | Art. II.3.2: populations assigned to stations "in the years following this Treaty's signing" | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
+| GPS law — the operative distinction | The station-builder nation (real-world) is a GPS coordinate only; the population's own origin (canon: this city's census/tier table) is admissible once composition is established | `Corpus_Reference_Sheets/No_National_Stereotypes_Quick_Reference.md` |
+| Founding Register — the city's row | **Palmer City:** Fort McMurdo · **Palmer:** Janbogo · **−4:** +11 · **✅:** ✅ · **Three groups united by relationship to robots: exiled robots, human partners, human ideological supporters — **not by nationality:** Miners from all over Tepenia (Mt. Erebus raw materials), then clerics, bureaucrats and logistics coordinators from all over Tepenia; became the de facto capital · **Founding of the Federation itself; settled 2564-06-21 (`DR-16`):** Developer ruling · **`Specs/Palmer subnet/Palmer_City.md` L218; `DR-16`, `DR-44`:** `DR-20`, `DR-21` · **—:** American | `Founding_Register.md` L69 |
+| Diaspora / affinity files | `City_Refugee_District_Affinities.md` **resolves to nothing admissible** for a city pass (maps cities to Concordia districts; Law of One Location, `§C.8d`) | `00_RUNBOOK.md` Phase 2 row |
+
+**Not mechanical / not included here:** the seven-mode arrival taxonomy, attract/repel, native/transplanted separation, who-is-not-here, the differentiation axis name — none of this exists until Fort McMurdo's own pass runs.

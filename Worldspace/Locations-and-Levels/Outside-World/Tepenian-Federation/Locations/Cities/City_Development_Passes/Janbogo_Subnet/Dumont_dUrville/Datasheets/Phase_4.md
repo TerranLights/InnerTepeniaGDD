@@ -13,7 +13,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — this city's own row | Rank 7 of 38 · Difficulty 1.67 · Humans 223,549 · Residents 453,334 · Required workforce 138,692 · Workforce 341,560 · **% of workforce required: 40.6%** | `09_Per_City_Baseline_Run.md` L60 |
+| `09_Per_City_Baseline_Run.md` §2 — this city's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.67 · Humans 223,549 · Residents 453,334 · Required workforce 138,692 · Workforce 341,560 · **% of workforce required: 40.6%** | `09_Per_City_Baseline_Run.md` L60 |
 | ⚠ Stale-figure conflict, flagged not resolved | The Humans/Residents figures in the row above (223,549 / 453,334) are the **pre-trim** population, unchanged since before the 2026-09-05 10% developer-ruled trim; the current census figures are 201,194 H / 408,001 total (Census I). `09` has not been updated to match. This datasheet records the conflict, does not resolve it | `09_Per_City_Baseline_Run.md` L60 vs. `Official_Population_Census.md` L506 |
 | Cross-check against `16`'s own row (cross-ref `Step_1_and_2.md`) | Workforce figure matches exactly (341,560 / 341,560) — no discrepancy on this specific figure between the two sources | `16_Per_City_Three_Tier_Run.md` L278 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — per-city row | Checked, **zero hits for Dumont d'Urville** by name — this city has no per-city-keyed entry; only a subnet-level Janbogo figure exists (124,985 / 31.2 Mt / 9.6×), which is out of Tier-C scope | Re-verified this turn; subnet figure at `11_Caloric_Rebuild_and_Livestock_Tier.md` L98 |

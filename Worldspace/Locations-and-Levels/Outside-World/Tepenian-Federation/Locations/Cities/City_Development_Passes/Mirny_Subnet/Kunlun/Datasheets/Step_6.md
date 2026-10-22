@@ -6,10 +6,10 @@
 > ✅ **In-run: III.4's four substitutes are the ordinary path.** III.2 steps 1–2 (read-a-sibling's-row) are
 > revoked in-run. **Cells hold the AXIS, never the content.**
 
-> ### ⭐⭐ THE TABLE HAS NINE SECTIONS, NOT ONE — copy-pasted from the destination file's own headers
+> ### ⭐⭐ THE TABLE HAS TEN SECTIONS, NOT ONE — copy-pasted from the destination file's own headers
 > Full statement of why this note exists: `Mechanical_Extraction_Field_Guide.md`, Step 6 entry.
 >
-> `Cross_City_Culture_Differentiation_Table.md`'s nine section headers, in file order:
+> `Cross_City_Culture_Differentiation_Table.md`'s ten section headers (a tenth, Phase 10 — Catalog, and a Phase-axis column in sections 5–7 were added 2026-10-21), in file order:
 >
 > | § | Section | Columns beyond `City` |
 > |--:|---|---|
@@ -17,13 +17,14 @@
 > | 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis |
 > | 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point |
 > | 4 | Phase 4 — Ordinary Life | Axis |
-> | 5 | Phase 6 — Meaning | The unnamed load-bearing thing · Observance axis · Death & the dead |
-> | 6 | Phase 7 — Order | Governance: what is UNADMINISTRABLE · Transmission: how skill passes · Counterculture axis |
-> | 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker |
+> | 5 | Phase 6 — Meaning | The unnamed load-bearing thing · Observance axis · Death & the dead · Phase axis |
+> | 6 | Phase 7 — Order | Governance: what is UNADMINISTRABLE · Transmission: how skill passes · Counterculture axis · Phase axis |
+> | 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker · Phase axis |
 > | 8 | Phase 5 — Relation & Geometry | Named relational axis · What it refuses to develop, and who supplies it |
 > | 9 | Phase 9 — Populations | Lens · Is there a category here that matters MORE than kind? |
+> | 10 | Phase 10 — Catalog | Catalog axis · Pass |
 >
-> ⛔ **A completed Step 6 must add a row to ALL NINE, in the same commit.** Fewer than nine is an under-fill,
+> ⛔ **A completed Step 6 must add a row to ALL TEN, in the same commit.** Fewer than ten is an under-fill,
 > not a smaller city's exemption.
 
 **Not mechanical / not included here:** the actual differentiation axis for Kunlun itself — that's this city's

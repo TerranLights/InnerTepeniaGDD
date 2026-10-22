@@ -105,14 +105,25 @@ def find_step_reads(lines, target):
             continue
         path = pm.group(1).strip()
         rest = l[pm.end():]
-        spans = re.findall(r"lines?\s+(\d+)\s*[–-]\s*(\d+)", rest)
+        lm = re.search(r"lines?\s+(.*)", rest)
+        pieces = []
+        if lm:
+            # the first stated span is the step's own governing text (plain or bold); later plain spans in a note are not
+            # entries, but later BOLD numbers are (the census and extent bullets list their rows that way: `**262–266**`)
+            for k, tm in enumerate(re.finditer(r"(\*\*)?(\d+)(?:\s*[–-]\s*(\d+))?(\*\*)?", lm.group(1))):
+                bold = bool(tm.group(1) and tm.group(4))
+                if k == 0 or bold:
+                    a, b = int(tm.group(2)), int(tm.group(3) or tm.group(2))
+                    if k == 0 and not tm.group(3) and not bold:
+                        continue                # a lone plain number first (e.g. a line in a note) is not a span
+                    pieces.append((a, b))
+        spans = pieces
         anchor = None
         spec = None
         if "§" in rest and not spans:
             anchor = "§" + rest.split("§", 1)[1].strip()
         elif spans:
-            # the first stated span is the step's own governing text; later spans in a note are not entries
-            spec = ",".join("%s-%s" % (a, b) for a, b in spans[:1])
+            spec = ",".join(("%d-%d" % (a, b)) if a != b else ("%d" % a) for a, b in sorted(set(spans)))
         out.append((path, spec, anchor))
     return out
 

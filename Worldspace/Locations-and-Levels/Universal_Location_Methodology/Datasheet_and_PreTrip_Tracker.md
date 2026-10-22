@@ -22,61 +22,62 @@ re-count before relying on a row.
 
 | | Count |
 |---|---:|
-| Cities with a full 19-file datasheet set | **9** — Cape Adare, Casey, Davis, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok, Zukelli |
-| Cities with a Pre-Trip sheet | **8 cities (9 folders)** — seven of the nine datasheet cities (all except Cape Adare and Zukelli), plus Zhongshan (both its Opus and Sonnet folders hold one) |
-| Cities with neither artifact | **28** |
+| Cities with a full 19-file datasheet set | **33** — the 9 hand-built ones (Cape Adare, Casey, Davis, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok, Zukelli) plus **24 generated 2026-10-21** (N-5, DRAFT) |
+| Cities with a Pre-Trip sheet | **34 cities (35 folders)** — the 8 hand-built ones (Casey, Davis, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok, Zhongshan with both trial folders) plus **26 generated 2026-10-21** (N-4) |
+| Cities with neither artifact | **4** — Concordia (district method), Relung Panen (name confirmed; its specs and culture sheets are still to be synthesized), Shirayuki and Sinheung (ULM already done) |
+| Cities with a Pre-Trip sheet but no datasheets yet | **0** (Zhongshan's two trial folders and the finished Tri-Cities hold none, by design) |
 
 ## Amundsen Station
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| Amundsen Station | ⬜ 0/19 | ⬜ | ⬜ | 0 | *(2026-10-21: its pass folder is empty, no `README.md` yet)* A research and relay outpost, not a residential city, per the census; counted among the 38 and has its own pass folder |
+| Amundsen Station | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | *(2026-10-21: its pass folder is empty, no `README.md` yet)* A research and relay outpost, not a residential city, per the census; counted among the 38 and has its own pass folder · Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
 
 ## Byrd subnet
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| Byrd | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
+| Byrd | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
 
 ## Halley subnet
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| Abowasa | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Belgrano | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Halley | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Lazar | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Neumayer | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Princess Elisabeth | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Sanay | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Troll | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
+| Abowasa | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | **now **Santa Luce****; pass folder keeps the old name; Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Belgrano | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Halley | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Lazar | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Neumayer | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Princess Elisabeth | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | **now **Utstein****; pass folder keeps the old name; Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Sanay | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Troll | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
 
 ## Janbogo subnet
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| Cape Adare | ✅ 19/19 *(DRAFT)* | ⬜ | ⬜ | 0 | Built 2026-09-30 from primary sources, not T8-verified · absolute paths · README row ⏸️ pending approval |
+| Cape Adare | ✅ 19/19 *(DRAFT)* | ✅ | ✅ | 0 | Built 2026-09-30 from primary sources, not T8-verified · absolute paths · README row ⏸️ pending approval · Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) |
 | Concordia | ⬜ 0/19 | ⬜ | ⬜ | 0 | Hub city; its 13 districts use the **district** methodology, not this one |
 | Denison | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ |
 | Dumont d'Urville | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ · ⚠ **City flagged for revisit** (developer, 2026-09-30): not founded by France; datasheets will need rebuilding after the revisit. *(2026-10-21: the developer ruled it will get a new name in line with its Japanese founders; name not chosen; the spec's founders passages were corrected 2026-10-13.)* |
-| Fort McMurdo | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Janbogo | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Scott | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Zukelli | ✅ 19/19 *(DRAFT)* | ⬜ | ⬜ | 0 | Built 2026-09-30 from primary sources, not T8-verified · absolute paths · ⚠ Italy flagged for eventual census review · README row ⏸️ pending approval. *(2026-10-21: the developer ruled it will get a new name in line with its Australian founders; name not chosen; the spec's founders passages were corrected 2026-10-13, so these datasheets need a re-check.)* |
+| Fort McMurdo | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Janbogo | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Scott | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Zukelli | ✅ 19/19 *(DRAFT)* | ✅ | ✅ | 0 | Built 2026-09-30 from primary sources, not T8-verified · absolute paths · ⚠ Italy flagged for eventual census review · README row ⏸️ pending approval. *(2026-10-21: the developer ruled it will get a new name in line with its Australian founders; name not chosen; the spec's founders passages were corrected 2026-10-13, so these datasheets need a re-check.)* · Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) |
 
 ## Mawson subnet
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| Dome Fuji | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Mawson | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Sayowa | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
+| Dome Fuji | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Mawson | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Sayowa | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | **now **Temirotkel****; pass folder keeps the old name; Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
 
 ## Mirny subnet
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| {{Bunger Hills City}} | ⬜ 0/19 | ⬜ | ⬜ | 0 | 38th city; read its `ULM_Input_Status.md` before a Pre-Trip sheet |
+| Relung Panen | ⬜ 0/19 | ⬜ | ⬜ | 0 | **38th city; official name confirmed by the developer 2026-10-21** (formerly the placeholder `{{Bunger Hills City}}`). Its pass folder was renamed from `Bunger_Hills_City/` to `Relung_Panen/` on 2026-10-21. Its own specs, details and culture sheets are still to be synthesized; Pre-Trip, ledger and datasheets wait for that. |
 | Casey | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ |
 | Davis | ✅ 19/19 | ✅ | ⬜ | 19 | ULM complete; its ledger lives elsewhere or was never split out |
 | Kunlun | ✅ 19/19 | ✅ | ✅ | 0 | README row ✅ |
@@ -91,14 +92,14 @@ re-count before relying on a row.
 
 | City | Datasheets | Pre-Trip | Ledger | Pass files | Notes |
 |---|:-:|:-:|:-:|:-:|---|
-| Esperanza | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Juan Carlos | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Marambio | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Palmer City | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Port Lockroy | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Rothera | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Sejong | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
-| Signy | ⬜ 0/19 | ⬜ | ⬜ | 0 | |
+| Esperanza | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Juan Carlos | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | **now **Pergamino****; pass folder keeps the old name; Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Marambio | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Palmer City | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Port Lockroy | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | **now **Puerto Abrigo****; pass folder keeps the old name; Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Rothera | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Sejong | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | **now **Contrapunto****; pass folder keeps the old name; Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
+| Signy | ✅ 19/19 *(DRAFT, generated 2026-10-21)* | ✅ | ✅ | 0 | Pre-Trip + ledger generated 2026-10-21 (`Tools/build_pretrip.py`; alias set is a mechanical draft) · datasheets generated 2026-10-21 by `Tools/build_datasheets.py`; README row ✅ |
 
 ## Rules this tracker follows
 
@@ -111,6 +112,9 @@ re-count before relying on a row.
 
 | Date | Event |
 |---|---|
+| 2026-10-21 | **N-5:** 19-file datasheet sets generated for the 24 cities that lacked them (`Tools/build_datasheets.py`; 456 files, DRAFT) and wired into each city's README (Amundsen Station's README was created; Cape Adare's and Zukelli's rows were added too). 33 cities now have a full set. |
+| 2026-10-21 | Developer confirmed **Relung Panen** as the official name of the 38th city (the placeholder `{{Bunger Hills City}}` is retired); the row above now carries it. |
+| 2026-10-21 | **N-4:** Pre-Trip sheet + ledger generated for 26 cities by the new `Tools/build_pretrip.py` (Casey's sheet as the template; every city row recomputed; runbook/spine line numbers re-located). Totals now **34 cities (35 folders) with a Pre-Trip sheet; 32 cities with a ledger; 9 with datasheets**. Skipped on purpose: Concordia (district method), Relung Panen (its specs and culture sheets are still to be synthesized), Shirayuki and Sinheung (ULM done). The 8 hand-built sheets are unchanged and carry stale line numbers (see the November To-Do, item N-4a). |
 | 2026-10-21 | Founders lines refreshed in the datasheets of Zukelli, Dumont d'Urville, Denison, Kunlun, Vostok and Mirny (16 files plus one line), against the corrected specs and the Founding Register; Casey, Davis and Cape Adare were already correct. **Vostok's set still cites the renamed spec `Specs/Vostok.md` about 53 times (now `Ariun_Nuur.md`, lines shifted by two)**; fix with the rename sweep. Dumont d'Urville's and Zukelli's sets will need rebuilding when their new names are chosen. |
 | 2026-10-21 | Recounted from the live folders (the first item of `Dev-Road-Map/November_To-Do.md`). Totals unchanged: **9 cities with a full 19-file datasheet set; 8 cities (9 folders) with a Pre-Trip sheet; 6 cities with a ledger** (Casey, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok). Mirny's row updated; Amundsen Station, Dumont d'Urville and Zukelli notes added. The 38th-city placeholder folder is `Bunger_Hills_City`; Relung Panen has a dossier but no folder in `City_Development_Passes`. |
 | 2026-09-30 | Tracker drafted from live folder counts. |

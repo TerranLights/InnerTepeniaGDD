@@ -1,0 +1,38 @@
+# Contrapunto — Datasheet · Step 1, Step 2 & Phase 1 (Constraint & Capability) — MERGED
+
+> ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Contrapunto's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
+
+
+| Category | Value | Citation |
+|---|---|---|
+| `Access type:` | NONE | `Specs/Contrapunto.md` L8 |
+| Spec climate — climate data source | Korea Polar Research Institute (KOPRI) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1988–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Contrapunto.md` L79 |
+| Spec climate — climate type | Maritime sub-Antarctic — the mildest Tepenian climate; strong maritime influence; above-freezing temperatures common in summer; significant cloud cover and precipitation | `Specs/Contrapunto.md` L81 |
+| Spec climate — mean annual temperature | -1.7°C  _(READER station: King_Sejong; 1991–2020 WMO standard normal)_ | `Specs/Contrapunto.md` L82 |
+| Spec climate — prevailing winds | sub-Antarctic maritime — **strong, highly variable, and directionally mixed**; the four dominant directions over King George Island are **NW, W, N and SE**, varying by peninsula. **Mean monthly wind 4.6–6.7 m/s** *(Arctowski, same island)*, with **gale events exceeding 22 m/s 10-minute average** *(recorded at King Sejong, 7 January 2013)*. ⭐ *No katabatic regime — these are cyclonic winds off the Drake Passage, which is why they shift direction rather than always draining one way* *(researched 2026-09-04)* | `Specs/Contrapunto.md` L83 |
+| Spec climate — record extremes | record high **+11.3 °C** (Mar); record low **-24.2 °C** (Jul) _(NOAA NCEI GHCN-Daily station `AYM00089251` — direct, ~2 km; daily observations 1991-2026)_ *(researched 2026-09-04)* | `Specs/Contrapunto.md` L84 |
+| Spec climate — temperature range | coldest months avg −8°C; warmest month avg +3°C; above-freezing temperatures frequent in summer | `Specs/Contrapunto.md` L85 |
+| Spec climate — polar night | ⛔ **none** — at 62°13'S the city lies roughly ~475 km north of the Antarctic Circle; the sun rises every day of the year | `Specs/Contrapunto.md` L87 |
+| Spec climate — midnight sun | ⛔ **none** — the sun sets every night of the year | `Specs/Contrapunto.md` L88 |
+| Spec climate — winter solstice daylight minimum | approximately 5.0 hours | `Specs/Contrapunto.md` L89 |
+| Spec climate — summer solstice daylight maximum | approximately 19.9 hours | `Specs/Contrapunto.md` L90 |
+| Spec climate — annual precipitation | **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~25 km); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)* | `Specs/Contrapunto.md` L91 |
+| Spec climate — regime | **MARITIME** — *genuinely wet; precipitation behaves temperately* | `Specs/Contrapunto.md` L95 |
+| Spec climate — falls (reaches the surface) | ~702 mm/yr | `Specs/Contrapunto.md` L96 |
+| Spec climate — lands (accumulates and stays) | **~562 mm/yr** *(~80% retention)* | `Specs/Contrapunto.md` L97 |
+| Spec climate — lost to sublimation and wind transport | ~140 mm/yr | `Specs/Contrapunto.md` L98 |
+| READER — climate authority | Korea Polar Research Institute (KOPRI) | `READER/Sejong.md` L4 |
+| READER — station notes | King Sejong Station, King George Island | `READER/Sejong.md` L5 |
+| READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Sejong.md` L6 |
+| READER — full data range | 1988–2026 | `READER/Sejong.md` L7 |
+| READER — annual mean temperature | -1.7°C | `READER/Sejong.md` L8 |
+| READER — monthly table, row 1 | Jan +1.9 · Feb +1.7 · Mar +0.8 · Apr -1.2 · May -2.7 · Jun -4.9 · Jul -5.5 · Aug -5.3 · Sep -3.9 · Oct -2.1 · Nov -0.4 · Dec +0.8 · Annual -1.7 | `READER/Sejong.md` L12, L14 |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Sejong · Subnet: Palmer · D: 1.15 · Workforce: 486,488 · base%: 39.4% · MAND%: 15.2% · FREE%: 45.5% · src: H | `16_Per_City_Three_Tier_Run.md` L247, L271 (header L247, row L271) |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Contrapunto`, `Sejong`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| Founding Register — the city's row (founders are decided only here, `DR-19`) | **Palmer City:** Contrapunto · **Palmer:** Palmer · **−4:** −4 · **✅:** ✅ · **Three groups united by relationship to robots: exiled robots, human partners, human ideological supporters — **not by nationality:** A primarily Anglo-Latin society of immigrants from the Americas (`DR-20`). First founders: Chile; then English-speaking arrivals; then people invited from Palmer City (canon: it has representation from every country), and later from Korea, to translate the inherited station's records, logs and manifests (written in Korean).** Developer: *"roughly, approximately akin to the Dutch foundings of New Amsterdam eventually producing New York City (although on a much… smaller scale)" · **Founding of the Federation itself; settled 2564-06-21 (`DR-16`):** Geography/access: zone gap 0 (Chile); the translators are later waves, not founders. *(Gateway claim not yet researched.) · **`Specs/Palmer subnet/Palmer_City.md` L218; `DR-16`, `DR-44`:** `DR-20`, `DR-35` · **—:** South Korean (as founders) | `Founding_Register.md` L44 |
+| Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | Post-Falkland Treaty, with the unusual founding condition of multiple exile communities already present on the island. The national groups that had operated research stations here — Korean, Argentine, Brazilian, Chilean, Sinian, Polish, Russian, Czech, Uruguayan — each had a pre-existing foothold. Contrapunto was settled first by Chile (Founding Register, `DR-35`); people invited from Palmer City, and later from Korea, translated the inherited station's Korean-language records. It was surrounded by its neighbors from day one. | `Specs/Contrapunto.md` L137 |
+| Spec — `Founding population:` (as stated; the Founding Register governs) | A primarily Anglo-Latin society of immigrants from the Americas (`DR-20`). First founders: Chile; then English-speaking arrivals; then people invited from Palmer City, and later from Korea, to translate the inherited station's records, logs and manifests, which were written in Korean (`DR-20`, `DR-35`). The city shares the island with communities that eventually became separate settlements or merged into Contrapunto's orbit depending on their size — details TBD. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Contrapunto.md` L139 |
+| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: USA · Significant: France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea · Notable: Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay | `Specs/Contrapunto.md` L38–40 |
+| Spec — Economy & Industry section | Present at L155–L161; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Contrapunto.md` L155 |
+
+**Not mechanical / not included here:** the Gate 9 asymmetry audit, the inheritance classification, the shape reading, generator selection, the spine sentence, the three-generator four-quadrant capability profile — none of this exists until Contrapunto's own pass runs.

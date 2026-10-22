@@ -1,0 +1,34 @@
+# Lazar — Datasheet · Phase 5 (Relation & Geometry)
+
+> ⚠ **DRAFT — Tier C.** Sourced to the city's own entries and outward role.
+
+> ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
+
+
+| Category | Value | Citation |
+|---|---|---|
+| `Highways.md` — lines naming the city | \| **7** \| Belgrano \| Lazar \| | `Highways.md` L58 |
+| ↳ `Highways.md` — lines naming the city | \| **7-ext** \| Lazar \| The Temirötkel Junction *(connects directly to Hwy 4's endpoint; near, not in, Temirötkel)* \| | `Highways.md` L59 |
+| ↳ `Highways.md` — lines naming the city | **Route:** Belgrano → *(passes near Halley; connecting road to the city)* → Santa Luce → *(ramp to Neumayer, between Santa Luce and Sanay)* → Sanay → Troll → Lazar | `Highways.md` L116 |
+| ↳ `Highways.md` — lines naming the city | **Endpoints:** Belgrano (west) ↔ Lazar (east) | `Highways.md` L118 |
+| ↳ `Highways.md` — lines naming the city | **Route:** Lazar → Utstein → The Temirötkel Junction | `Highways.md` L129 |
+| ↳ `Highways.md` — lines naming the city | **Endpoints:** Lazar (west) ↔ The Temirötkel Junction (east) | `Highways.md` L131 |
+| ↳ `Highways.md` — lines naming the city | - Extends Hwy 7 eastward from its terminus at Lazar. | `Highways.md` L135 |
+| `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L48 |
+| ↳ `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L52 |
+| `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L460 |
+| ↳ `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L717 |
+| `Geothermal_Heating.md` — lines naming the city | Checked by name (`Lazar`, `Novolazarevskaya`): **zero hits** in a 199-line file | `Geothermal_Heating.md` |
+| `Arcanet.md` — lines naming the city | Checked by name (`Lazar`, `Novolazarevskaya`): **zero hits** in a 28-line file | `Arcanet.md` |
+| `City_Relationship_Database.md` — the city's own entry | Entry at L279–L289 (`Lazar *(location: Novolazarevskaya Station / Maitri Station site)*`); lines below are copied as written, relation-legal | `City_Relationship_Database.md` L279 |
+| ↳ entry line | *[source line compares the city with other places; not copied, line number recorded only]* | `City_Relationship_Database.md` L280 |
+| ↳ entry line | - **Region:** Queen Maud Land / King Haakon VII Sea (Atlantic coast) | `City_Relationship_Database.md` L281 |
+| ↳ entry line | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `City_Relationship_Database.md` L282 |
+| ↳ entry line | - **Arcanet subnet:** Halley ("Atlantic") | `City_Relationship_Database.md` L283 |
+| ↳ entry line | - **Highways:** Hwy 7 (eastern terminus), Hwy 7-ext (origin point → Utstein → Temirötkel) | `City_Relationship_Database.md` L284 |
+| ↳ entry line | - **Direct highway neighbors:** Troll (west, Hwy 7), Utstein (east, Hwy 7-ext) | `City_Relationship_Database.md` L285 |
+| ↳ entry line | - **Notes:** Eastern terminus of Hwy 7 proper; origin of the Belgrano Highway Extension (built 2611–2614). Name finalized 2026-07-03: founded as two settlements (Russian-run Novolazarevskaya and the non-Indian-repopulated Maitri site) that coalesced into one city, originally called Novolazarevskaya, later phonetically shortened to "Lazar" as USA/Germany/France/Brazil immigration overtook the Russian founding population. See `Specs/Lazar.md`. | `City_Relationship_Database.md` L286 |
+| `City_Cross_Subnet_Relationships.md` — lines naming the city | 2 line(s): L95, L203 *(line numbers only)* | `City_Cross_Subnet_Relationships.md` L95, L203 |
+| `City_National_Connections.md` — lines naming the city | 22 line(s): L68–69, L119–120, L148, L153, L155–157, L160, L162, L180–181, L190, L235, L407, L409, L424, L439, L459, L529, L537 *(line numbers only)* | `City_National_Connections.md` L68–69, L119–120, L148, L153, L155–157, L160, L162, L180–181, L190, L235, L407, L409, L424, L439, L459, L529, L537 |
+
+**Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis — none of this exists until Lazar's own pass runs.

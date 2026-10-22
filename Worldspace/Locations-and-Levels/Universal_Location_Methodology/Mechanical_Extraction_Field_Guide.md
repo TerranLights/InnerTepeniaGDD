@@ -246,7 +246,7 @@ four-quadrant capability profile and everything downstream of it — this IS the
 **Phase 2 — Composition & Arrival.** *Tier C:* the census composition tier table (Primary/Significant/Notable,
 full nation lists, any inline annotation **and whether it carries a date** — the date is the discriminator
 between authoring-note and in-world content) · Census I/II rows (cross-ref Phase 0's) · computed retention %
-(formula fixed, cite the two inputs). *Tier U:* ⭐⭐⭐ **both fully extracted, read firsthand in full — cite
+(formula fixed, cite the two inputs). *(2026-10-21: founders rules and the eight renames are also gathered in `Corpus_Reference_Sheets/Founders_and_Renames_Quick_Reference.md`; a city's own founders are its Register row, never copied into a shared sheet.)* *Tier U:* ⭐⭐⭐ **both fully extracted, read firsthand in full — cite
 directly, do not re-open the primary sources per city:** `Corpus_Reference_Sheets/Falkland_Treaty_Quick_
 Reference.md` (all seven Titles, condensed article-by-article, plus a "what this settles" summary) ·
 `Corpus_Reference_Sheets/No_National_Stereotypes_Quick_Reference.md` (the GPS rule, the station-builder/
@@ -278,7 +278,7 @@ neighbors along it) · airport/port existence and directly-stated facts · this 
 the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration + visitor-to-member
 mechanism, the dependency/who-knows-it analysis.
 
-**Phase 6 — Meaning.** *Tier C:* does any named religion's own file cite this city specifically · does
+**Phase 6 — Meaning.** *(2026-10-21: the generic term "social contract" has its own sheet: `Corpus_Reference_Sheets/Social_Contract_Term_Quick_Reference.md`.)* *Tier C:* does any named religion's own file cite this city specifically · does
 `National_Holidays.md` carry a local entry for this city. *Tier U:* ⭐ **fully extracted, cite directly:**
 `Corpus_Reference_Sheets/Robot_Religions_Roster_Quick_Reference.md`. ⛔⛔ **A `find`/`grep` that returns 0 must
 actually have enumerated the directory — a claim of "the roster is empty" without doing so is a documented
@@ -291,7 +291,7 @@ fix, anything that reads like the object-colonization trap) · `Division_of_Indu
 entry for this city, if any · `Theoretical-Calculations/`'s entry for this city, if any · does this city appear
 by name in `Factions/` · which single city `City_Logistics.md` is scoped to. *Tier U:* `01_Burden_Scoring_
 Model.md`, `08_Volume_Based_Requirement_Reference.md`, `Industry_Staffing_and_Productivity/`, `Megacorps/`
-roster. **Not mechanical:** governance/succession analysis, knowledge-transmission analysis, counterculture
+roster. *(2026-10-21: a preliminary index sheet now exists: `Corpus_Reference_Sheets/Phase_7_Roster_and_Model_Files_Quick_Reference.md`; the corporation roster is only two named entries and a `[TBD]` slot so far.)* **Not mechanical:** governance/succession analysis, knowledge-transmission analysis, counterculture
 derivation, sanction-proportionality pricing.
 
 **Phase 8 — Making.** *Tier C:* minimal — does `Weapons_and_Tools_Philosophy.md` or a gear catalog name this
@@ -301,8 +301,7 @@ Phase 6.**
 **Phase 9 — Populations.** *Tier C:* near-none — does this city have any existing citation in
 `Robot_Universals/` or elsewhere. *Tier U:* ⭐ **fully extracted, all four sources read firsthand, cite
 directly:** `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` (Laws of Robotics, `Robot_Universals`
-Ch. 13's city-locality identity lens, Ch. 14's Gen/Mark). `Doll_Representation_Categories.md`'s content is not
-yet its own Tier U sheet — read directly, 35 lines, short. **Not mechanical:** the lens decision,
+Ch. 13's city-locality identity lens, Ch. 14's Gen/Mark). `Doll_Representation_Categories.md` is now its own Tier U sheet (added 2026-10-21): `Corpus_Reference_Sheets/Doll_Representation_Categories_Quick_Reference.md`. **Not mechanical:** the lens decision,
 per-population culture synthesis, inter-population relations, dual-tagging, swap test.
 
 **Phase 10 — Catalog.** *Tier C:* full list of any character already tagged to this city, from Characters canon
@@ -348,7 +347,7 @@ the sheet's own text states the table is *"FILLED DURING synthesis, not before i
 this depends on Step 9 propagated into two city datasheets before being caught 2026-09-15** — never state a
 dependency in a datasheet without checking it against the runbook first.
 
-> ### ⛔⛔⛔ EVERY `Step_6.md` DATASHEET MUST CARRY THE TABLE'S NINE-SECTION INVENTORY — added 2026-09-21
+> ### ⛔⛔⛔ EVERY `Step_6.md` DATASHEET MUST CARRY THE TABLE'S SECTION INVENTORY *(nine when written; ten since 2026-10-21)* — added 2026-09-21
 > **Measured on Davis, 2026-09-16→21: a completed Step 6 wrote 2 of the table's 9 sections and declared the
 > column added, in good faith.** The anti-contamination read protocol (`05` §6.1a — approach the table
 > column-anchored, read header rows only) surfaced only the first two section headers and gave no signal that
@@ -371,8 +370,11 @@ dependency in a datasheet without checking it against the runbook first.
 > | 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker |
 > | 8 | Phase 5 — Relation & Geometry | Named relational axis · What it refuses to develop, and who supplies it |
 > | 9 | Phase 9 — Populations | Lens · Is there a category here that matters MORE than kind? |
+> | 10 | Phase 10 — Catalog | Catalog axis · Pass *(section added 2026-10-21, Mirny handoff decision 9)* |
 >
-> ⛔ **A completed Step 6 must add a row to ALL NINE, in the same commit.** Fewer than nine is an under-fill,
+> ⭐ **Updated 2026-10-21: the table now has TEN sections** (Phase 10 — Catalog was added) **and sections 5–7 carry a "Phase axis" column.** Datasheet sets generated by `Tools/build_datasheets.py` read the live section headers, so they list ten; the nine `Step_6.md` datasheets built earlier (Cape Adare, Casey, Davis, Denison, Dumont d'Urville, Kunlun, Mirny, Vostok, Zukelli) still list nine and need the tenth row.
+>
+> ⛔ **A completed Step 6 must add a row to ALL of the table's sections (ten as of 2026-10-21; nine when this rule was written), in the same commit.** Fewer than nine is an under-fill,
 > not a smaller city's exemption. **Retrofitted 2026-09-21 into all 5 then-existing Step 6 datasheets** (Casey,
 > Kunlun, Mirny, Vostok, Dumont d'Urville) **and into Davis's own ratified `06_Differentiate.md`**, whose table
 > write was backfilled from 2 rows to 9 the same day.

@@ -1,0 +1,23 @@
+# Janbogo — Datasheet · Step −1 (Input Contract)
+
+> ⚠⚠ **DRAFT — Tier C. READ THIS BOX BEFORE USING THE FILE.** Janbogo's own pass has **not** started: no Step −1 has run and no admissibility ruling exists. ⛔ **This file CANNOT pre-stage an admitted read-range** — deciding which lines of the Specs file are admissible is Step −1's own derivation work (Field Guide, Step −1 entry). **It gives bibliographic facts and the spec's own structured fields only.**
+> ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Janbogo subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
+
+
+| Category | Value | Citation |
+|---|---|---|
+| Specs file location | `Cities/Specs/Janbogo subnet/Janbogo.md` — confirmed on disk | Checked 2026-10-21 |
+| Specs file length | 220 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Identity / designation | Janbogo | `Specs/Janbogo.md` L1 |
+| Real-world basis | Jang Bogo Station (Unified Korea), Terra Nova Bay, Ross Sea (~74°37'S, 164°13'E) | `Specs/Janbogo.md` L3 |
+| Arcanet Subnet | Janbogo — subnet hub | `Specs/Janbogo.md` L5 |
+| Access type | SPUR | `Specs/Janbogo.md` L6 |
+| Highway access | **Corrected 2026-07-06** — Janbogo is reached via a **connecting road off Hwy 183** (the Janbogo Highway), not a direct main-line stop, grouped with neighboring Zukelli. Hwy 183's actual junction with Hwy 175 sits nearby, near Janbogo specifically — still a genuine highway-network node despite not being a main-line stop itself. Fort McMurdo and Scott remain reached via their own separate spur road, unaffected by this correction. See `Locations/Infrastructure/Highways.md`. | `Specs/Janbogo.md` L7 |
+| Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Janbogo.md` L8 |
+| Coordinates (as written in the same field) | ~74°37'S, 164°13'E | `Specs/Janbogo.md` L3 |
+| Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Janbogo.md` L4 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L182, L195, L203 — not copied, not described | `Specs/Janbogo.md` L182, L195, L203 |
+| Census I (spec's own line) | 646,541 humans / 663,970 robots / **1,310,511** combined | `Specs/Janbogo.md` L15 |
+| Census II (spec's own line) | 490,564 humans / 467,006 robots / **957,570** combined | `Specs/Janbogo.md` L16 |
+
+**Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Janbogo's own pass runs.

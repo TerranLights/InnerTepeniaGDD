@@ -14,7 +14,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — Kunlun's own row | Rank 36 of 38 · Difficulty 2.70 · Humans 0 · Residents 123,449 · Required workforce 35,306 · Workforce 123,449 · **% of workforce required: 28.6%** | `09_Per_City_Baseline_Run.md` L89 |
+| `09_Per_City_Baseline_Run.md` §2 — Kunlun's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 2.70 · Humans 0 · Residents 123,449 · Required workforce 35,306 · Workforce 123,449 · **% of workforce required: 28.6%** | `09_Per_City_Baseline_Run.md` L89 |
 | Cross-check against `16`'s own row | Baseline 28.6% matches exactly between the two sources — no discrepancy | `16_Per_City_Three_Tier_Run.md` §22 vs `09_Per_City_Baseline_Run.md` L89 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — Kunlun's own row | D 2.70 · OLD 28.6% · **NEW 28.6% — unchanged.** Mechanism: Kunlun has zero humans, and robots do not eat | `11_Caloric_Rebuild_and_Livestock_Tier.md` L334, L339 |
 | `National_Medical_and_Care_Institutes.md` — does Kunlun appear | **Yes.** Kunlun holds NONE of the three national institutes (checked, zero). Additional content found names Kunlun alongside other cities and is FLAGGED, not extracted — see the row below | Re-verified this turn |

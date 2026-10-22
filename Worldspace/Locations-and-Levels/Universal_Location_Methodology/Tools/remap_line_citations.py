@@ -21,6 +21,8 @@ HOW IT WORKS (mechanical; it never interprets)
 
 ⚠ NOT IDEMPOTENT: it moves numbers from the state at <ref> to the state today. Run it ONCE per file per <ref>; running it again on an already-remapped file moves the numbers a second time. (Check `git diff` first, or restore the file from the commit, before rerunning.)
 
+KNOWN LIMIT (found 2026-10-21): it does NOT read numbers wrapped in bold (`lines **382–391**`, `**487**`), so Pre-Trip census/extent bullets were never moved by it. For Pre-Trip sheets use `Tools/build_pretrip.py` (it recomputes those rows). Also choose `--base` carefully: a commit is only right if the files were in that state when the citations were written (the runbook moved on 2026-10-01 after the first sheets were verified).
+
 WHAT IT DOES NOT DO: it does not check that a citation was right in the first place, only that it still points where
 it did. Citations written AFTER <ref> (for example the founders rows refreshed 2026-10-21) are already current; pass a
 <ref> that predates the datasheet, and expect no change for lines in files that did not shift.

@@ -22,7 +22,7 @@
 | Arcanet Subnet | Janbogo | `Specs/Dumont_dUrville.md` L5 |
 | Access type | `ON` | `Specs/Dumont_dUrville.md` L6 |
 | Highway access | "a genuine two-highway junction: Hwy 2's eastern terminus (Dumont Coast Highway, 'DCH,' from Casey) and Hwy 183's northern terminus (Janbogo Highway, from Concordia via Denison), which connect directly to each other here" *(corrected 2026-07-06)* | `Specs/Dumont_dUrville.md` L7 |
-| Significance field | "Tepenian city in Adélie Land; among the windiest locations in Tepenia; Pink Lucy's origin city; namesake of St. Jules (Jules Dumont d'Urville); island-positioned city — built on Petrel Island in the Géologie Archipelago, approximately 5km off the continental coast" — St. Jules is a Federation-wide veneration and a naming fact only, never this city's identity (`DR-28`) | `Specs/Dumont_dUrville.md` L8 |
+| Significance field | "Tepenian city in Adélie Land; Pink Lucy's origin city; namesake of St. Jules (Jules Dumont d'Urville); island-positioned city — built on Petrel Island in the Géologie Archipelago, approximately 5km off the continental coast" — St. Jules is a Federation-wide veneration and a naming fact only, never this city's identity (`DR-28`) | `Specs/Dumont_dUrville.md` L8 |
 | DLC field | "Janbogo subnet — DLC 6 (Janbogo Region)" — the remainder of this field states a later-era condition and is **excluded, not quoted**, per the standing default-scope rule | `Specs/Dumont_dUrville.md` L9 |
 | Extent band | ~47 km² — 45 km² of mainland at the ice-sheet edge, plus the ~2 km² Géologie Archipelago *(declared 2026-09-05)* | `Specs/Dumont_dUrville.md` L19 |
 | Density (as stated) | 8,681/km² | `Specs/Dumont_dUrville.md` L20 |
