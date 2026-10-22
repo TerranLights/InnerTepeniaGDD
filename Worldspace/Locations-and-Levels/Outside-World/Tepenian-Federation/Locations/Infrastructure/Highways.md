@@ -204,6 +204,7 @@ Three highways — 4, 22, and 110 — share one physical endpoint at the Zhongsh
 - Concordia is a genuine full terminus of this route — **not** an inland spur off Casey.
 - Concordia end connects directly to Hwy 37's and Hwy 183's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts.
 - Main East Antarctic coastal route.
+- **A dedicated spur from Relung Panen joins this highway at Casey** *(added 2026-10-21; see the Relung Panen Spur below)*. Relung Panen is a spur off Hwy 110, not a stop on it.
 - Hitchhiking-valid.
 
 ---
@@ -268,12 +269,26 @@ A large, dedicated connecting road — not a minor ramp like the Neumayer connec
 
 ---
 
+## Relung Panen Spur *(added 2026-10-21)*
+
+**Route:** Relung Panen → Casey (joining Hwy 110 at Casey)
+
+**Endpoints:** Relung Panen ↔ Casey (junction with Hwy 110)
+
+`[CGRM 2026-09-01 · Path 6 · developer ruling]` A dedicated spur is the city's **only overland link**. It reaches east from Relung Panen to Casey and joins Hwy 110 there. **The Denman Glacier crossing is not built; there is no western link to Mirny.** Hwy 110 itself runs Zhongshan → Davis → Mirny → Casey → Concordia; Relung Panen is a spur off it, not a stop on it. The city has no port of its own as built (`Ports.md`).
+
+- Exact length, surface and maintenance arrangement are TBD.
+- Source: the `Highway access:` field of `Specs/Mirny subnet/Relung_Panen.md`, which quotes the ruling.
+
+---
+
 ## Major Junctions Index
 
 | Location | Highways meeting | Notes |
 |---|---|---|
 | Byrd | Hwy 1, Hwy 22 | Both highways' endpoints meet directly |
 | The Temirötkel Junction | Hwy 4, Hwy 7-ext, Hwy 37 | **Corrected 2026-07-06:** genuine three-way crossing, located near Temirötkel rather than in it; the Temirötkel Spur (a large connecting road) links the city itself to this junction |
+| Casey | Hwy 110, Relung Panen Spur | **Added 2026-10-21:** the spur from Relung Panen joins Hwy 110 here |
 | Zhongshan / Sinheung / Shirayuki | Hwy 4, Hwy 22, Hwy 110 | Tri-junction — all three endpoints converge here |
 | Concordia | Hwy 37, Hwy 110, Hwy 183 | Tri-junction via the outer ring linking Concordia's Capricorn and Sagittarius districts |
 | Dumont d'Urville | Hwy 2, Hwy 183 | Both highways' endpoints meet directly |

@@ -125,6 +125,7 @@ all**, so most cities have neither a core figure nor an outer boundary recorded.
 |---|---|---|---|---|
 | **Mirny** *(subnet hub)* | Mirny Station | Russia | Mirny ("Australian") | ~ Damaged / Partially operational |
 | Casey | Casey Station | Australia | Mirny ("Australian") | ✗ Destroyed |
+| Relung Panen *(the 38th city, added 2026-10-21)* | *(none — the Bunger Hills oasis is a coordinate only)* | — | Mirny ("Australian") | ? TBD — no war outcome ruled |
 | Dumont d'Urville | Dumont d'Urville Station | France | Janbogo | ~ Damaged / Partially operational |
 | Denison | Cape Denison | Australia | Janbogo | ✗ Destroyed |
 
@@ -179,4 +180,5 @@ all**, so most cities have neither a core figure nor an outer boundary recorded.
 - **Signy** (South Orkney Islands) has weak/intermittent Arcanet connectivity — dashed border on the subnet map. Maritime access only; no road connection possible. **Confirmed 2026-07-03: overlooked entirely by Upper Earth targeting** due to its peripheral status — fully survived, untouched by direct war damage, but its robot population faces a real post-war siligel shortage given cut supply lines (humans can sustain themselves on the Scotia Sea's marine resources instead).
 - **Lazar (Maitri/Novolazarevskaya location)** — name finalized 2026-07-03; see `Cities/Specs/Lazar.md`. **Shirayuki (Bharati Station location)** — founding population and founding story resolved 2026-07-03 (Japanese, via a pre-exile Jeju-do court allocation); named 2026-07-08; see `Cities/Specs/Shirayuki.md`.
 - **Zukelli** is the confirmed Tepenian city name for Mario Zucchelli Station.
+- **Relung Panen** (added 2026-10-21) is the one city that did not grow from a research station; it sits on the Bunger Hills oasis coordinate and was founded as the census's redistribution pool. See `Specs/Mirny subnet/Relung_Panen.md`.
 - **Governmental capital of Tepenia:** **Fort McMurdo**, confirmed 2026-07-07 (see `National_Capital_Candidates.md`) — Palmer City was the cultural capital, not the governmental one.

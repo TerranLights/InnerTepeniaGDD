@@ -111,6 +111,11 @@ CITY = {
     "Sejong": C("Palmer_Subnet", "Contrapunto", former=["Sejong"], reader="Sejong", mega="Sejong", concept="Sejong",
                 renamed="`DR-43`: formerly Sejong"),
     "Signy": C("Palmer_Subnet", "Signy", reader="Signy"),
+    # Mirny subnet, the 38th city (added 2026-10-21; official name confirmed the same day; its pass is not in the November run)
+    "Relung_Panen": C("Mirny_Subnet", "Relung Panen", former=["Bunger Hills City", "Bunger Hills"], extra=["Bunger Hills oasis", "Knox Coast"],
+                      reader="Relung_Panen", mega="Relung_Panen", concept="Relung_Panen",
+                      reader_path=os.path.join(CITIES, "Relung_Panen", "Climate.md"),
+                      renamed="`DR-39`: formerly the placeholder Bunger Hills City"),
     # ---- cities that already HAVE a hand-built sheet: listed so a side-by-side refresh can be generated into a scratch
     #      folder (`--out DIR`) and compared. `--all` skips them; `--write` refuses them.
     "Casey": C("Mirny_Subnet", "Casey", reader="Casey", existing=True),
@@ -136,7 +141,6 @@ for _k, _v in CITY.items():
 
 SKIP_NOTE = {
     "Concordia": "hub city; its 13 districts use the district methodology, not this one",
-    "Relung_Panen": "the 38th city, official name confirmed 2026-10-21: its specs and culture sheets are still to be synthesized, so its sheet waits",
     "Shirayuki": "its ULM pass is complete (Tri-Cities)", "Sinheung": "its ULM pass is complete (Tri-Cities)",
 }
 
@@ -189,7 +193,7 @@ class Ctx:
         self.neo = os.path.join(REPO, "Neo-Races-and-Cultures", self.sub, self.stem, self.stem + "_Catalog.md")
         self.neo_readme = os.path.join(REPO, "Neo-Races-and-Cultures", "README.md")
         self.rlog = os.path.join(CITIES, "Research_Logs", self.stem + "_Research_Log.md")
-        self.reader = os.path.join(REPO, "Reference", "Real-World", "Climate Data", "READER", c["reader"] + ".md")
+        self.reader = c.get("reader_path") or os.path.join(REPO, "Reference", "Real-World", "Climate Data", "READER", c["reader"] + ".md")
         self.names = [self.name] + self.former + self.extra
         self.rx = self._compile()
         self.claims = []          # (file, [line numbers], note) — re-read in the verification block
@@ -933,7 +937,7 @@ def verify_block(ctx, text):
                 fut += 1
         elif ex(p):
             res += 1
-        elif any(m_ in sp for m_ in ("/Local_Cultures/", "/Local_Robot_Culture/", "/City_Enneagram_Personalities/", "/City_Vision_Notes/", "/Neo-Races-and-Cultures/")):
+        elif any(m_ in sp for m_ in ("/Local_Cultures/", "/Local_Robot_Culture/", "/City_Enneagram_Personalities/", "/City_Vision_Notes/", "/Neo-Races-and-Cultures/", "/City_Megasheets/")):
             late.append(sp)
         else:
             missing.append(sp)

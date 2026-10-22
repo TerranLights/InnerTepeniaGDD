@@ -35,6 +35,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
+| ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built (generated 2026-10-21). Also in this folder: `00.0_Pre-Trip_Inspection.md` and `00.2_Position_Coverage_Ledger.md`. ⛔ **Does NOT replace any MUST-OPEN read.** ⚠ *Relung Panen is not in the November run; these exist so its pass can start the day the rulings and the entries listed in `../../../Relung_Panen/ULM_Input_Status.md` are in.* |
 | **Spec** | `../../../Specs/Mirny subnet/Relung_Panen.md` |
 | **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Relung_Panen.md` *(does not exist yet)* ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Relung_Panen.md` *(does not exist yet)* |

@@ -91,7 +91,7 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 **Climate data source:** Schirmacher Oasis microclimate; proxy data drawn from both real sites (Novolazarevskaya, Russia; Maitri, India) plus Neumayer as a regional comparison
 
 **Climate type:** Queen Maud Land oasis — ice-free terrain microclimate; slightly warmer than the surrounding ice sheet in summer due to rock heat absorption; cold continental winters
-**Mean annual temperature:** approximately −17°C
+**Mean annual temperature:** approximately −10°C
 **Prevailing winds:** two distinct regimes — **easterly/southeasterly cyclonic winds** (warming in winter, cooling in summer) and **south-southeasterly katabatic outflow** bringing rapid temperature swings under clear skies *(researched 2026-09-04)*
 **Record extremes:** record high **+10.0 °C** (Nov); record low **-38.0 °C** (Jul) _(NOAA NCEI GHCN-Daily station `AYM00089514` — Maitri, ~1 km; daily observations 1990-2026)_ *(researched 2026-09-04)*
 **Annual precipitation:** **237.7 mm** water equivalent _(Novolazarevskaya; measured monthly normals — see table)_. *A separate station summary gives ~300 mm annually; the monthly normals are used here.* *(researched 2026-09-04; monthly distribution below remains derived)*
@@ -107,7 +107,7 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 > ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-17.0 °C** **12 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
-**Temperature range:** coldest months avg −26°C; warmest month avg −4°C
+**Temperature range:** coldest months avg −17°C; warmest month avg −0.4°C
 **Polar night:** approximately May 22 → Jul 23 (~63 days)
 **Midnight sun:** approximately Nov 16 → Jan 28 (~74 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -115,18 +115,18 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +9.4 | +2.2 | −4 | −2.7 | −11.8 | 2.5 | ~35% | 24* |  |
-| Feb | +7 | −0.8 | −9 | −5.6 | −15.9 | 2.7 | ~33% | 18.0 |  |
-| Mar | +8.8 | −5.3 | −16 | −10.1 | −19.8 | 8.9 | ~31% | 13.3 |  |
-| Apr | +0.3 | −9.1 | −22 | −14.9 | −28.1 | 14.5 | ~0% | 8.6 |  |
-| May | −0.5 | −10.6 | −25 | −17.1 | −30.2 | 29 | ~27% | 3.0 |  |
-| Jun | −1.5 | −12 | −26 | −18.4 | −33.5 | 34.6 | ~0% | 0* |  |
-| Jul | −0.6 | −14 | −26 | −20.8 | −38 | 34.7 | ~26% | 0* |  |
-| Aug | −1 | −14.6 | −24 | −21.6 | −36.2 | 36.3 | ~27% | 6.2 |  |
-| Sep | −0.8 | −13.5 | −19 | −20.4 | −35.3 | 33.1 | ~30% | 11.1 |  |
-| Oct | +1.5 | −9.6 | −12 | −15.7 | −27.2 | 24.8 | ~32% | 15.6 |  |
-| Nov | +10 | −3.2 | −6 | −8.7 | −21.6 | 10.8 | ~34% | 23.2 |  |
-| Dec | +8.8 | +1.5 | −4 | −3.6 | −11.6 | 5.8 | ~35% | 24* |  |
+| Jan | +9.4 | +2.2 | −0.4 | −2.7 | −11.8 | 2.5 | ~35% | 24* |  |
+| Feb | +7 | −0.8 | −3.2 | −5.6 | −15.9 | 2.7 | ~33% | 18.0 |  |
+| Mar | +8.8 | −5.3 | −7.9 | −10.1 | −19.8 | 8.9 | ~31% | 13.3 |  |
+| Apr | +0.3 | −9.1 | −11.8 | −14.9 | −28.1 | 14.5 | ~0% | 8.6 |  |
+| May | −0.5 | −10.6 | −13.5 | −17.1 | −30.2 | 29 | ~27% | 3.0 |  |
+| Jun | −1.5 | −12 | −14.5 | −18.4 | −33.5 | 34.6 | ~0% | 0* |  |
+| Jul | −0.6 | −14 | −17.0 | −20.8 | −38 | 34.7 | ~26% | 0* |  |
+| Aug | −1 | −14.6 | −17.2 | −21.6 | −36.2 | 36.3 | ~27% | 6.2 |  |
+| Sep | −0.8 | −13.5 | −16.5 | −20.4 | −35.3 | 33.1 | ~30% | 11.1 |  |
+| Oct | +1.5 | −9.6 | −12.0 | −15.7 | −27.2 | 24.8 | ~32% | 15.6 |  |
+| Nov | +10 | −3.2 | −5.6 | −8.7 | −21.6 | 10.8 | ~34% | 23.2 |  |
+| Dec | +8.8 | +1.5 | −1.0 | −3.6 | −11.6 | 5.8 | ~35% | 24* |  |
 
 ***Monthly record extremes (MAITRI, `AYM00089514` — Maitri, ~1 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1990-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
 
@@ -134,7 +134,7 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089514** (MAITRI), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (Novolazarevskaya, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089514. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (Novolazarevskaya, added 2026-09-04)** — **Avg Temp:* ⭐ **measured; column replaced 2026-10-21.** BAS Met READER surface station `Novolazarevskaya`, mean of the yearly monthly values 1991–2020 (30–30 years per month; `Climate Data/READER/Lazar.md`). The column held before did not match the station (largest monthly difference 11.5 °C). **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089514. **Avg Daylight:* computed from this city's own latitude.*
 
 
 *Polar night ~May 22–Jul 23 (~63 days); midnight sun ~Nov 16–Jan 28 (~74 days)*

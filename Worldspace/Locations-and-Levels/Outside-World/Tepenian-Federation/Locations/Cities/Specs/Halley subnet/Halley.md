@@ -65,7 +65,7 @@ The Weddell Sea is one of the most ice-choked bodies of water in the world — t
 
 **Climate type:** Coastal ice shelf — Weddell Sea influence; colder and windier than the Peninsula cities; distinct from the katabatic coastal type (Janbogo) due to ice shelf position rather than rocky coast
 **Mean annual temperature:** approximately −19°C (+2°F)
-**Temperature range:** coldest months (July/August) avg −28°C; warmest month (January) avg −5°C
+**Temperature range:** coldest months (July/August) avg −29°C; warmest month (January) avg −5°C
 **Record extremes:** record low approximately −55°C; record high approximately +5°C
 **Prevailing winds:** southerly and southeasterly off the Antarctic continent; average 6–9 m/s; the Weddell Sea area produces significant storm systems; the Brunt Ice Shelf position offers less terrain shelter than a rocky coastal site
 **Annual precipitation:** approximately 300–450 mm water equivalent; predominantly snow; moderate by Antarctic coastal standards
@@ -90,23 +90,23 @@ The Weddell Sea is one of the most ice-choked bodies of water in the world — t
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +7.2 | −2 | −5 | −6.5 | −22.9 | 35 | ~35% | 24 | Midnight sun; warmest period |
-| Feb | +5.3 | −6.7 | −13 | −12.4 | −31.8 | 35 | ~35% | 21.7 | Temperature dropping; days shortening |
-| Mar | +1.1 | −12.9 | −20 | −19.3 | −41 | 30 | ~30% | 13.7 | Autumn; sea ice forming on Weddell Sea |
-| Apr | −1.5 | −19.3 | −24 | −26 | −50.9 | 25 | ~25% | 7.2 | Polar night begins ~May 3 |
-| May | 0 | −22 | −26 | −29 | −54.2 | 22 | ~25% | 0 | Full polar night |
-| Jun | −0.5 | −22.7 | −27 | −29.3 | −54 | 22 | ~25% | 0 | Full polar night; winter solstice |
-| Jul | −5.5 | −25.2 | −28 | −31.7 | −54.4 | 22 | ~25% | 0 | Full polar night; coldest month |
-| Aug | −3.5 | −24.9 | −27 | −31.5 | −53 | 25 | ~25% | 2.8 | Polar night ends ~Aug 11 |
-| Sep | −1.1 | −23.3 | −23 | −30 | −49.4 | 28 | ~30% | 10.7 | Sun returns; still very cold |
-| Oct | −0.9 | −16.9 | −16 | −23.6 | −44.1 | 32 | ~35% | 17.1 | Warming; midnight sun approaching |
-| Nov | +2.2 | −8.9 | −9 | −14.4 | −32 | 35 | ~35% | 24 | Midnight sun approaching |
-| Dec | +6.8 | −2.9 | −5 | −7.1 | −20.6 | 35 | ~35% | 24 | Midnight sun; warmest period |
+| Jan | +7.2 | −2 | −4.7 | −6.5 | −22.9 | 35 | ~35% | 24 | Midnight sun; warmest period |
+| Feb | +5.3 | −6.7 | −10.4 | −12.4 | −31.8 | 35 | ~35% | 21.7 | Temperature dropping; days shortening |
+| Mar | +1.1 | −12.9 | −17.4 | −19.3 | −41 | 30 | ~30% | 13.7 | Autumn; sea ice forming on Weddell Sea |
+| Apr | −1.5 | −19.3 | −23.3 | −26 | −50.9 | 25 | ~25% | 7.2 | Polar night begins ~May 3 |
+| May | 0 | −22 | −25.5 | −29 | −54.2 | 22 | ~25% | 0 | Full polar night |
+| Jun | −0.5 | −22.7 | −27.5 | −29.3 | −54 | 22 | ~25% | 0 | Full polar night; winter solstice |
+| Jul | −5.5 | −25.2 | −29.0 | −31.7 | −54.4 | 22 | ~25% | 0 | Full polar night; coldest month |
+| Aug | −3.5 | −24.9 | −29.1 | −31.5 | −53 | 25 | ~25% | 2.8 | Polar night ends ~Aug 11 |
+| Sep | −1.1 | −23.3 | −26.8 | −30 | −49.4 | 28 | ~30% | 10.7 | Sun returns; still very cold |
+| Oct | −0.9 | −16.9 | −20.2 | −23.6 | −44.1 | 32 | ~35% | 17.1 | Warming; midnight sun approaching |
+| Nov | +2.2 | −8.9 | −11.0 | −14.4 | −32 | 35 | ~35% | 24 | Midnight sun approaching |
+| Dec | +6.8 | −2.9 | −5.3 | −7.1 | −20.6 | 35 | ~35% | 24 | Midnight sun; warmest period |
 
 ***Monthly record extremes (Halley, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
 
 
-***Column provenance (Halley, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (Halley, added 2026-09-04)** — **Avg Temp:* ⭐ **measured; column replaced 2026-10-21.** BAS Met READER surface station `Halley`, mean of the yearly monthly values 1991–2020 (29–30 years per month; `Climate Data/READER/Halley.md`). The column held before did not match the station (largest monthly difference 4.2 °C). **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
 
 
 #### Notable Weather Phenomena

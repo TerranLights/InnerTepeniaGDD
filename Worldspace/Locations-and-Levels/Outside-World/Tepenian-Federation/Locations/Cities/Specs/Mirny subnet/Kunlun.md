@@ -86,8 +86,8 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 *(Research note: Dome Fuji Station (Japan) has the most comparable available climate record; Dome A / Kunlun climate data is limited due to the station's late establishment (2009) and intermittent operation. Cross-reference with Ariun Nuur and Dome Fuji data for plateau interior conditions at comparable or slightly colder parameters.)*
 
 **Climate type:** East Antarctic Plateau polar desert — the most extreme version; higher elevation than Ariun Nuur and Dome Fuji means colder mean temperatures; the highest and potentially coldest sustained environment in Tepenia
-**Mean annual temperature:** approximately −58°C (−72°F) — colder than Ariun Nuur (−55°C) and Dome Fuji (−54°C) due to the highest elevation of any Tepenian city
-**Temperature range:** coldest months (July/August) avg −68°C; warmest month (December/January) avg −29°C
+**Mean annual temperature:** approximately −54°C (−65°F) *(corrected 2026-10-21 from the Dome A record; the earlier −58°C and its comparison with other plateau cities did not match the station)*
+**Temperature range:** coldest months (July/August) avg −64°C; warmest month (December/January) avg −35°C
 **Record extremes:** record high **-31.2 °C** (Jan); record low **-77.0 °C** (Jun) _(NOAA NCEI GHCN-Daily station `AYM00089577` — Dome A, ~7 km; daily observations 1996-2026)_ *(researched 2026-09-04)*
 **Prevailing winds:** among the calmest in Antarctica — Dome A is a wind minimum due to the dome summit position; average winds 3–5 m/s; the defining hazard here is cold and altitude, not wind
 **Annual precipitation:** approximately 15–20 mm water equivalent — the driest location in Tepenia
@@ -112,18 +112,18 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | −31.2 | −40 | −29 | −21 | −41.8 | 2.0 | ~4% | 24 | Midnight sun; least extreme period |
-| Feb | −32.9 | −53 | −41 | −32 | −49.9 | 2.0 | ~4% | 24 | Rapid cooling |
-| Mar | −45.9 | −68 | −56 | −46 | −63.5 | 1.5 | ~4% | 14.6 | Autumn; polar night approaching |
-| Apr | −45.9 | −75 | −63 | −52 | −72 | 1.5 | ~3% | 3.4 | Polar night begins ~Apr 18 |
-| May | −48.9 | −78 | −66 | −55 | −74.4 | 1.5 | ~3% | 0 | Full polar night |
-| Jun | −56.9 | −79 | −67 | −56 | −77 | 1.5 | ~3% | 0 | Full polar night; solstice |
-| Jul | −62.4 | −80 | −68 | −57 | −75 | 1.0 | ~3% | 0 | Full polar night; coldest |
-| Aug | −52.4 | −78 | −66 | −55 | −71.9 | 1.0 | ~3% | 0 | Polar night ends ~Aug 26 |
-| Sep | −55.4 | −70 | −58 | −47 | −69.5 | 1.5 | ~4% | 10.0 | Spring |
-| Oct | −45.9 | −56 | −44 | −34 | −65 | 1.5 | ~4% | 21.4 | Midnight sun approaching |
-| Nov | −43.4 | −42 | −31 | −22 | −54.5 | 2.0 | ~4% | 24 | Midnight sun approaching |
-| Dec | −31.3 | −40 | −29 | −21 | −45.7 | 2.0 | ~4% | 24 | Midnight sun |
+| Jan | −31.2 | −40 | −34.9 | −21 | −41.8 | 2.0 | ~4% | 24 | Midnight sun; least extreme period |
+| Feb | −32.9 | −53 | −44.0 | −32 | −49.9 | 2.0 | ~4% | 24 | Rapid cooling |
+| Mar | −45.9 | −68 | −55.2 | −46 | −63.5 | 1.5 | ~4% | 14.6 | Autumn; polar night approaching |
+| Apr | −45.9 | −75 | −61.4 | −52 | −72 | 1.5 | ~3% | 3.4 | Polar night begins ~Apr 18 |
+| May | −48.9 | −78 | −62.4 | −55 | −74.4 | 1.5 | ~3% | 0 | Full polar night |
+| Jun | −56.9 | −79 | −63.4 | −56 | −77 | 1.5 | ~3% | 0 | Full polar night; solstice |
+| Jul | −62.4 | −80 | −63.7 | −57 | −75 | 1.0 | ~3% | 0 | Full polar night; coldest |
+| Aug | −52.4 | −78 | −64.2 | −55 | −71.9 | 1.0 | ~3% | 0 | Polar night ends ~Aug 26 |
+| Sep | −55.4 | −70 | −62.9 | −47 | −69.5 | 1.5 | ~4% | 10.0 | Spring |
+| Oct | −45.9 | −56 | −55.4 | −34 | −65 | 1.5 | ~4% | 21.4 | Midnight sun approaching |
+| Nov | −43.4 | −42 | −44.3 | −22 | −54.5 | 2.0 | ~4% | 24 | Midnight sun approaching |
+| Dec | −31.3 | −40 | −35.7 | −21 | −45.7 | 2.0 | ~4% | 24 | Midnight sun |
 
 ***Monthly record extremes (DOME PLATEAU DOME A, `AYM00089577` — Dome A, ~7 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1996-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
 
@@ -131,7 +131,7 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089577** (DOME PLATEAU DOME A), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured; column replaced 2026-10-21.** BAS Met READER AWS record `Dome_A`, mean of every full year 1991–2025 (21–21 years per month, so a record-period mean, not a 30-year WMO normal; `Climate Data/READER/Kunlun.md`). The column held before did not match the station (largest monthly difference 13.3 °C). ⚠ **Avg High / Avg Low rows:** derived and, as labeled, inverted (the "high" is colder than the "low"); not corrected here. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 
 
 #### Notable Weather Phenomena

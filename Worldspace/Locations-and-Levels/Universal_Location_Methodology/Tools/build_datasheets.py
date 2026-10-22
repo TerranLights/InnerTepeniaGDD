@@ -332,12 +332,40 @@ def register_cells(lr, i, cells):
     """Label each cell of a Founding Register row with its column header (nearest header row above)."""
     hdr = None
     for j in range(i - 1, 0, -1):
-        if lr[j - 1].startswith("|") and re.search(r"City\s*\|", lr[j - 1]) and "---" not in lr[j - 1]:
+        if lr[j - 1].startswith("| City |") and "---" not in lr[j - 1]:       # the real header row (not a data row ending in "City |")
             hdr = [c.strip().strip("*") for c in lr[j - 1].split("|")[1:-1]]
             break
     if hdr and len(hdr) == len(cells):
         return " · ".join("**%s:** %s" % (a, b) for a, b in zip(hdr, cells) if b)
     return " | ".join(cells)
+
+
+def climate_md_rows(ctx, rl):
+    """Rows for a city with no READER station and its own `Climate.md` (the measured anchors, then the constructed monthly means)."""
+    rows = [("Climate source", "No BAS READER station exists at this coordinate; the city's own `Climate.md` is the climate file (its §4 records the sources tried)", cite(ctx.reader, [1]))]
+    q = next((i for i, x in enumerate(rl, 1) if x.startswith("| Quantity |")), None)
+    if q:
+        for j in range(q + 2, len(rl) + 1):
+            x = rl[j - 1]
+            if not x.startswith("|"):
+                break
+            c = [y.strip() for y in x.strip().strip("|").split("|")]
+            if len(c) >= 3:
+                rows.append(("Climate.md — measured anchor: " + re.sub(r"[*\u2b50\U0001f52c]", "", c[0]).strip(), "%s *(%s)*" % (re.sub(r"\*", "", c[1]).strip(), re.sub(r"\*", "", c[2]).strip()), cite(ctx.reader, [j])))
+    h = next((i for i, x in enumerate(rl, 1) if re.match(r"\|\s*Month\s*\|", x)), None)
+    if h:
+        cols = [y.strip() for y in rl[h - 1].strip().strip("|").split("|")]
+        k = cols.index("Mean")
+        vals, last = [], h
+        for j in range(h + 2, len(rl) + 1):
+            x = rl[j - 1]
+            if not re.match(r"\|\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s*\|", x):
+                break
+            c = [y.strip() for y in x.strip().strip("|").split("|")]
+            vals.append("%s %s" % (c[0], re.sub(r"\*", "", c[k]).replace("-", "\u2212")))
+            last = j
+        rows.append(("Climate.md — monthly mean temperature (\u00b0C), **CONSTRUCTED, not measured**", " \u00b7 ".join(vals) + " *(built from the measured annual anchors; the file records an independent check against measured freezing degree-days)*", cite(ctx.reader, [h, last])))
+    return rows
 
 
 def reader_rows(d):
@@ -346,6 +374,8 @@ def reader_rows(d):
     rl = d.reader
     if rl is None:
         return [("Climate READER file", "⬜ no file at the address (`%s`)" % ctx.reader, "—")]
+    if os.path.basename(ctx.reader) == "Climate.md":        # a city whose climate file is its own constructed block (no READER station exists)
+        return climate_md_rows(ctx, rl)
     has_table = any(re.match(r"\|\s*Jan\s*\|", x) for x in rl)
     if not has_table:
         body = " ".join(x.strip() for x in rl if x.strip() and not x.startswith("#"))

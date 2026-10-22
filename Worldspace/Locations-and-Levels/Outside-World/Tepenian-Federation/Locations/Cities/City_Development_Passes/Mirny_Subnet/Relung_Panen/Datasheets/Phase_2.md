@@ -1,0 +1,22 @@
+# Relung Panen — Datasheet · Phase 2 (Composition & Arrival)
+
+> ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown.
+
+
+| Category | Value | Citation |
+|---|---|---|
+| Composition tier table (spec) | **Primary:** China · **Significant:** Russia, Indonesia, Japan, South Korea, Australia *(founding wave — the gateway and the road)* · **Notable:** Thailand, Vietnam, Malaysia, Philippines, New Zealand *(via the Hobart gateway)* | `Specs/Relung_Panen.md` L35–37 |
+| Annotation in the spec tier table | `(founding wave — the gateway and the road)` — **no date** | `Specs/Relung_Panen.md` L36 |
+| Annotation in the spec tier table | `(via the Hobart gateway)` — **no date** | `Specs/Relung_Panen.md` L37 |
+| Per-nation breakdown (spec) | Present at L53–L75 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Relung_Panen.md` L53 |
+| Census I | **465,147** H / **482,807** R / **947,954** combined | `Official_Population_Census.md` L502 |
+| Census II | **332,844** H / **345,324** R / **678,168** combined | `Official_Population_Census.md` L615 |
+| Retention (computed; cross-ref `Step_0.md`) | combined 71.54% · human 71.56% · robot 71.52% | Computed from the two rows above |
+| Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
+| Falkland Treaty — station assignment is not nationality-based, in the treaty's own words | Art. II.3.3: *"Nothing in this Article requires that a population assigned to a given station share the national origin of the Power that formerly maintained it"* | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
+| Falkland Treaty — the allocation was staged, not instant | Art. II.3.2: populations assigned to stations "in the years following this Treaty's signing" | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
+| GPS law — the operative distinction | The station-builder nation (real-world) is a GPS coordinate only; the population's own origin (canon: this city's census/tier table) is admissible once composition is established | `Corpus_Reference_Sheets/No_National_Stereotypes_Quick_Reference.md` |
+| Founding Register — the city's row | **City:** Relung Panen · **Subnet:** Mirny · **Solar UTC:** +7 · **Status:** ✅ · **Founders:** Indonesia and Malaysia, jointly · **Basis:** Time-zone proximity: gap 0 each; a Southeast-Asian maritime pair whose open-water run crosses the Indian Ocean on the site's meridians. *(Gateway claim not yet researched.) · **Source:** `DR-34` · **Not founders:** — | `Founding_Register.md` L65 |
+| Diaspora / affinity files | `City_Refugee_District_Affinities.md` **resolves to nothing admissible** for a city pass (maps cities to Concordia districts; Law of One Location, `§C.8d`) | `00_RUNBOOK.md` Phase 2 row |
+
+**Not mechanical / not included here:** the seven-mode arrival taxonomy, attract/repel, native/transplanted separation, who-is-not-here, the differentiation axis name — none of this exists until Relung Panen's own pass runs.

@@ -3,6 +3,32 @@
 **Built 2026-09-05** against `Universal_Location_Methodology/ULM_Input_Required_Reference.md`, checked
 mechanically file by file rather than asserted. ✅ **Name ruled 2026-10-03 (`DR-39`): Relung Panen** (this file was built under the placeholder).
 
+> ## ⭐⭐ CURRENT STATE — 2026-10-21 (this block supersedes the dated statements below; they are kept as history)
+>
+> **Done since 2026-09-05**
+> - The spec exists (296 lines): `Specs/Mirny subnet/Relung_Panen.md`.
+> - The name is ruled (`DR-39`) and confirmed official on 2026-10-21: **Relung Panen**.
+> - Founders are ruled: **Indonesia and Malaysia, jointly** (`DR-34`, `Founding_Register.md`).
+> - Census I and II rows, the 11-nation composition and the extent (450 km²) are in place.
+> - The climate block is built: `Climate.md` (on-site measured annual anchors plus a constructed monthly curve, checked against a measured number it was not fitted to).
+> - Network position is ruled and now **written down at the registered addresses** (2026-10-21): `Highways.md` has the Relung Panen Spur; the relationship database, national connections, cross-subnet file, station map and overview all name the city.
+> - **The Pre-Trip sheet, the position-coverage ledger and all 19 datasheets** exist in the pass folder (2026-10-21), plus a concept-art placeholder folder.
+>
+> **Still open**
+>
+> | What | Needs |
+> |---|---|
+> | Inspiration picks (`Inspirational-Influences.md` has no entry) | drafting and your approval; creative work, so 05:00–14:59 |
+> | The port (Ports.md carries a proposal marked not ruled) | **your ruling** |
+> | The founding story: when, how, why, with what and without what | **your ruling** |
+> | Division-of-Industry per-city run (`16` excludes the city "by ruling") | **your ruling** |
+> | Census narrative entry and composition tier table; the census still calls the city by its placeholder name | the rename sweep of the held files, after the Mirny pass finishes |
+> | Local culture, robot-culture, Enneagram, neo-race catalog | later synthesis; not part of the base data |
+> | Planet + Element symbol | correctly last: needs a personality first |
+> | The city is not in the universe-history sources (`G6`) | expected for an unfounded city; a canon decision, later |
+>
+> **Not in the November run.** Relung Panen runs after its specs, culture and rulings are in.
+
 > ## ✅✅✅ RESOLVED 2026-09-05 — **`Specs/Relung_Panen.md` NOW EXISTS. THE PASS IS UNBLOCKED.**
 > **This file previously read: *"one missing file is the only thing blocking a pass."*** ⭐ **That file was
 > written, and it verifies clean:**

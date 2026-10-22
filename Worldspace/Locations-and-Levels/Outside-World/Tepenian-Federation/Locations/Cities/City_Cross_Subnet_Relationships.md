@@ -204,6 +204,7 @@ cross-subnet connection identified yet** — the real priority list for continui
   Halley (the city), Santa Luce, Neumayer, Sanay.
 - **Janbogo (4 of 7 still isolated — Dumont d'Urville, Denison, and Fort McMurdo are covered):**
   Cape Adare, Janbogo (the city), Scott, Zukelli.
+- **Mirny (added 2026-10-21; the counts above predate the 38th city):** Relung Panen. Its only road is a spur to Casey, inside its own subnet, so no cross-subnet connection is identified. Its agricultural role ties it to the whole country's food balance (`Division_of_Industry/13` §7) without naming any other city.
 
 **Palmer subnet is the clear gap** — it has by far the weakest cross-subnet connectivity of any subnet
 (only its one highway gateway city, Marambio, connects outward at all), consistent with its own

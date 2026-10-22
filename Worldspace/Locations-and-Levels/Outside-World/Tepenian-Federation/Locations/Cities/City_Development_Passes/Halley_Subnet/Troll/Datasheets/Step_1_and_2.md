@@ -9,10 +9,10 @@
 | `Access type:` | ON | `Specs/Troll.md` L6 |
 | Spec climate — climate data source | Norwegian Polar Institute (NPI) — Troll Research Station; data via NPI (not in READER surface; available in READER AWS as automatic weather station) | `Specs/Troll.md` L73 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Troll.md` L75 |
-| Spec climate — mean annual temperature | approximately −22°C | `Specs/Troll.md` L76 |
+| Spec climate — mean annual temperature | approximately −17°C | `Specs/Troll.md` L76 |
 | Spec climate — prevailing winds | strong katabatic winds off the plateau; the station sits 235 km inland at Jutulsessen *(researched 2026-09-04)* | `Specs/Troll.md` L77 |
 | Spec climate — record extremes | summer reaches about **0 °C**; winter lows around **−50 °C**, with a winter average near −30 °C *(researched 2026-09-04)* | `Specs/Troll.md` L78 |
-| Spec climate — temperature range | coldest months avg −33°C; warmest month avg −6°C | `Specs/Troll.md` L79 |
+| Spec climate — temperature range | coldest months avg −25°C; warmest month avg −7°C | `Specs/Troll.md` L79 |
 | Spec climate — polar night | approximately May 16 → Jul 29 (~75 days) | `Specs/Troll.md` L80 |
 | Spec climate — midnight sun | approximately Nov 11 → Feb 1 (~83 days) | `Specs/Troll.md` L81 |
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Troll.md` L82 |
@@ -22,10 +22,10 @@
 | Spec climate — falls (reaches the surface) | ~200 mm/yr | `Specs/Troll.md` L89 |
 | Spec climate — lands (accumulates and stays) | **~140 mm/yr** *(~70% retention)* | `Specs/Troll.md` L90 |
 | Spec climate — lost to sublimation and wind transport | ~60 mm/yr | `Specs/Troll.md` L91 |
-| Climate READER file (`Troll.md`) | **An 8-line status stub, not a dataset — no monthly table.** What the file itself says: **READER status:** Not in BAS READER surface station database **Climate authority:** Norwegian Polar Institute (NPI) — Troll Research Station; data via NPI (not in READER surface; available in READER AWS as automatic weather station) **Action required:** Obtain monthly mean temperature normals directly from the listed authority. | `READER/Troll.md` L1–8 |
+| Climate READER file (`Troll.md`) | **Rebuilt 2026-10-21 as a dataset (it had been an 8-line stub).** BAS Met READER AWS record `Troll`; every full year 1991–2025 (automatic weather station; shorter record, a record-period mean); 13–14 years per month. Monthly mean (°C): Jan −6.7 · Feb −10.3 · Mar −14.2 · Apr −19.8 · May −21.1 · Jun −22.8 · Jul −25.2 · Aug −25.3 · Sep −24.0 · Oct −18.5 · Nov −11.4 · Dec −6.9 · annual −17.2 | `READER/Troll.md` L1–18 |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Troll · Subnet: Halley · D: 1.43 · Workforce: 716,590 · base%: 44.4% · MAND%: 16.7% · FREE%: 38.9% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L262 (header L247, row L262) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Troll`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
-| Founding Register — the city's row (founders are decided only here, `DR-19`) | **Palmer City:** Troll · **Palmer:** Halley · **−4:** 0 · **✅:** ✅ · **Three groups united by relationship to robots: exiled robots, human partners, human ideological supporters — **not by nationality:** Norway · **Founding of the Federation itself; settled 2564-06-21 (`DR-16`):** Near-perfect time-zone alignment · **`Specs/Palmer subnet/Palmer_City.md` L218; `DR-16`, `DR-44`:** `DR-22` · **—:** — | `Founding_Register.md` L48 |
+| Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Troll · **Subnet:** Halley · **Solar UTC:** 0 · **Status:** ✅ · **Founders:** Norway · **Basis:** Near-perfect time-zone alignment · **Source:** `DR-22` · **Not founders:** — | `Founding_Register.md` L48 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Troll.md` L129 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | Norwegian exiles, who inherited the physical station and later learned and embraced its historical associations — Queen Maud Land's 1939 territorial claim, Amundsen's expeditions through this landscape — as their own chosen heritage, not as something handed to them by a still-functioning institution. | `Specs/Troll.md` L131 |
 | Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: USA · Significant: Germany, France, UK, Russia, Brazil · Notable: Poland, Netherlands, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia | `Specs/Troll.md` L20–22 |

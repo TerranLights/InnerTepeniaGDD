@@ -73,6 +73,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 | Bharati Station | India (infrastructure only) / Japan (founding population) | **Shirayuki** | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08 |
 | Zhongshan Station | Sinian Federation | Zhongshan | Damaged; partially operational | Sinian Federation station; named after Sun Yat-sen; major highway junction (Hwy 110 × Hwy 22) |
 | Davis Station | Australia | Davis | Damaged; partially operational | Major Australian station |
+| *(none — the Bunger Hills oasis is a coordinate only; no station is mapped to this city)* | — | Relung Panen *(the 38th city, added 2026-10-21)* | ⏸️ Undetermined (not an input) | Founded 2026-09-05 as the census's redistribution pool, not from a station. Founders: Indonesia and Malaysia, jointly (`Founding_Register.md`). One overland spur to Casey; no port as built. |
 
 ---
 

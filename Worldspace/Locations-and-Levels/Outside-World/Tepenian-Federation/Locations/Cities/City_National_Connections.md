@@ -298,6 +298,7 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Scott** (Janbogo) — Medium, Infrastructure. Scott's own precision-calibration expertise, once its national
   reputation spread, drew inquiries from research and industrial staff well beyond the Janbogo subnet,
   including Casey's own technical circles.
+- **Relung Panen** (Mirny) — Strong, Infrastructure. The junction where Relung Panen's only road meets Hwy 110: everything that reaches or leaves that city by land passes through Casey. *(Added 2026-10-21.)*
 
 ### Davis
 - **Mawson** (Mawson) — Medium, Cultural/Historical. Both Australian-founded cities (`DR-19`), and — the
@@ -391,6 +392,10 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
   presence.
 - **Temirötkel** (Mawson) — Medium, Infrastructure. Hwy 4 runs from the Temirötkel Junction to Shirayuki, the same
   Spur/Junction link that reaches Sinheung alongside it.
+
+### Relung Panen
+- **Casey** (Mirny) — Strong, Infrastructure. Casey is the end of Relung Panen's only overland road: the dedicated spur joins Hwy 110 there.
+- *No other connection is asserted.* The city has no culture, economy or personality yet, and this file reasons from those; the empty slots are a result, not a gap, and stay open. Its role in closing the national food deficit ties it to the whole country, not to any one city. *(Added 2026-10-21; grounded in the `Highway access:` field of `Specs/Mirny subnet/Relung_Panen.md`.)*
 
 ---
 

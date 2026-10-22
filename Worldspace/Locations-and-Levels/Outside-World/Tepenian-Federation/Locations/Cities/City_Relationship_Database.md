@@ -25,7 +25,7 @@ All highways are pre-Long Night War infrastructure. Post-war, coastal sections a
 | **22** | Transcontinental Highway | — | Byrd *(Amundsen Sea end)* → South Pole (Amundsen Station) → *(junction with Hwy 175)* → *(dual-junction with Hwy 37, bidirectional)* → *(junction with Hwy 59)* → Zhongshan/Sinheung/Shirayuki tri-junction | **Corrected 2026-07-06:** added a dual-junction with Hwy 37 along the interior stretch; confirmed the eastern end is a genuine tri-junction connecting directly to both Hwy 4's and Hwy 110's endpoints. Byrd end connects directly to Hwy 1's endpoint. Cross-continent spine, West Antarctica to East Antarctic coast; still does not pass through Temirötkel or Mawson directly. |
 | **37** | Mountain Cut Throughway | — | The Temirötkel Junction → Dome Fuji → *(dual-junction with Hwy 22, bidirectional)* → Kunlun → **Mountain Pass Airport** → Ariun Nuur → Concordia | **Corrected 2026-07-06 — this route was badly incomplete and out of order.** Dome Fuji is now a confirmed stop *(its own file's stale "no highway access" claim was fixed the same session — see `Specs/Dome_Fuji.md`)*. Kunlun and Ariun Nuur's order is reversed from the old listing. **Further corrected 2026-07-06, same day:** the northeastern terminus is the Temirötkel Junction, not Temirötkel the city — see Hwy 4/Hwy 7-ext notes above. **Also added, same day: Mountain Pass Airport**, a waypoint (not a city) between Kunlun and Ariun Nuur, confirmed via the developer's own airport-map reference as a genuine functional Tepenian airstrip — reasonably accessible to Kunlun, Dome Fuji, Amundsen Station (via the nearby Hwy 22 dual-junction), and Concordia to an extent. **Confirmed 2026-07-07: a joint Ariun Nuur-Kunlun venture that manufactured fabrication-synthesis chambers**, part of the nationwide Cradle infrastructure, shipped out via this same highway/airport network. **Historical, not current** — the outpost ran on residual overflow from Amundsen Tower's continent-wide regulated grid; the Tower's destruction ended that supply and the outpost's manufacturing capability permanently, though the facility is still standing, simply dark rather than destroyed. Concordia end connects directly to both Hwy 110's and Hwy 183's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts. East Antarctic plateau traverse — not through the Transantarctic Mountains. |
 | **59** | Atlantic Throughway | "Arcanet Line" | *(ramp with Hwy 7, between Halley and Santa Luce)* → *(ramp with Hwy 22, farther from the South Pole than Hwy 175's ramp)* | **Corrected 2026-07-06:** Hwy 7 ramp specifically sits between Halley and Santa Luce, not just "at Halley"; confirmed its Hwy 22 ramp is farther from the South Pole than Hwy 175's own ramp with Hwy 22. Connector highway, not a city-to-city road; also carries the Arcanet cable along its full length. |
-| **110** | Coastal Cut Highway | — | Zhongshan → Davis → Mirny → Casey → Concordia | **Corrected 2026-07-06:** this is a genuine full route to Concordia as a real terminus, not an "inland spur from Casey" as previously described. Zhongshan end sits at a tri-junction with Hwy 4's and Hwy 22's endpoints; Concordia end connects directly to Hwy 37's and Hwy 183's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts. Main East Antarctic coastal route. |
+| **110** | Coastal Cut Highway | — | Zhongshan → Davis → Mirny → Casey → Concordia | **Corrected 2026-07-06:** this is a genuine full route to Concordia as a real terminus, not an "inland spur from Casey" as previously described. Zhongshan end sits at a tri-junction with Hwy 4's and Hwy 22's endpoints; Concordia end connects directly to Hwy 37's and Hwy 183's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts. Main East Antarctic coastal route. **Added 2026-10-21:** a dedicated spur from Relung Panen joins this highway at Casey (Relung Panen is a spur off it, not a stop on it). |
 | **175** | Central Cut Throughway | — | *(ramp with Hwy 183, near Janbogo)* → *(ramp with Hwy 22, closer to the South Pole than Hwy 59's ramp)* | **Corrected 2026-07-06:** the Hwy 183 ramp is located near Janbogo, not near Concordia — Hwy 183 still junctions with Hwy 175, just much farther from Concordia than previously listed. Connects the Janbogo subnet region to the South Pole; its own Hwy 22 ramp sits closer to the Pole than Hwy 59's does. |
 | **183** | Janbogo Highway | — | Concordia → *(junction with Hwy 175, near Janbogo)* → passes near Janbogo/Zukelli *(connecting road, not direct)* → passes near Cape Adare *(connecting road, not direct)* → Denison → Dumont d'Urville | **Corrected 2026-07-06 — this route was wrong.** Concordia end connects directly to Hwy 110's and Hwy 37's endpoints via the outer ring linking Concordia's Capricorn and Sagittarius districts. Janbogo, Zukelli, and Cape Adare are reached via connecting roads rather than being main-line stops — consistent with Fort McMurdo's and Scott's already-established spur-road access, which is unaffected by this correction. Denison is now confirmed on this route (moved from Hwy 2). Dumont d'Urville end connects directly to Hwy 2's endpoint there. |
 | **Neumayer connector** | *(unnamed)* | — | Nearest safe point on Hwy 7 (between Santa Luce and Sanay) → Neumayer | Small connector road; exact organization TBD |
@@ -46,7 +46,7 @@ Six subnets, each named after its hub city. **Official names** are the hub city 
 | **Palmer** | Palmer City | "American" | Palmer City, Rothera, Esperanza, Marambio, Contrapunto, Pergamino, Puerto Abrigo, Signy* |
 | **Halley** | Halley | "Atlantic" | Halley, Belgrano, Neumayer, Sanay, Troll, Santa Luce, Lazar, Utstein |
 | **Mawson** | Mawson | *(none)* | Mawson, Temirötkel, Dome Fuji *(Sinheung and Shirayuki moved to Mirny 2026-07-05 — see below)* |
-| **Mirny** | Mirny | "Australian" | Mirny, Ariun Nuur, Kunlun, Casey, Zhongshan, Davis, Sinheung, Shirayuki *(latter two joined 2026-07-05 — real-world geography places the Larsemann Hills cluster far closer to Davis than to Mawson Station; see `TODO.md`)* |
+| **Mirny** | Mirny | "Australian" | Mirny, Ariun Nuur, Kunlun, Casey, Zhongshan, Davis, Sinheung, Shirayuki *(latter two joined 2026-07-05 — real-world geography places the Larsemann Hills cluster far closer to Davis than to Mawson Station; see `TODO.md`)*, Relung Panen *(the 38th city, added 2026-10-21)* |
 | **Janbogo** | Janbogo | *(none)* | Janbogo, Fort McMurdo, Scott, Zukelli, Cape Adare, Dumont d'Urville, Cape Denison, Concordia |
 | **Byrd** | Byrd | "Pacific" | Byrd *(the subnet's only city)* |
 
@@ -108,6 +108,17 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 
 ---
 
+### Relung Panen *(the 38th city; added 2026-10-21)*
+- **Real site:** the Bunger Hills oasis, Knox Coast (a coordinate only; no station is mapped to this city, see `Station_to_City_Map.md`)
+- **Region:** East Antarctic coast / Knox Coast, Wilkes Land
+- **Status:** ⏸️ Undetermined — no war outcome is ruled (not an input to a Second Interwar pass)
+- **Arcanet subnet:** Mirny ("Australian")
+- **Highways:** a dedicated spur to Casey, joining Hwy 110 there (the city is not on Hwy 110 itself)
+- **Direct highway neighbors:** Casey (east, via the spur). No link west to Mirny — the Denman Glacier crossing is not built
+- **Notes:** Exactly one overland approach, and no port of its own as built (a subglacial approach is proposed, not ruled). Its agricultural sector is sized to close the national food deficit (`Division_of_Industry/13` §7). Founders: Indonesia and Malaysia, jointly (`Founding_Register.md`).
+
+---
+
 ### Byrd
 - **Real station:** Byrd Station (USA)
 - **Region:** West Antarctica — inland
@@ -155,7 +166,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Status:** Destroyed (Long Night War)
 - **Arcanet subnet:** Mirny ("Australian")
 - **Highways:** Hwy 110 (Coastal Cut), Hwy 2 (DCH — western terminus)
-- **Direct highway neighbors:** Mirny (west via Hwy 110), Concordia (inland spur via Hwy 110), Dumont d'Urville (east via Hwy 2)
+- **Direct highway neighbors:** Mirny (west via Hwy 110), Concordia (inland spur via Hwy 110), Dumont d'Urville (east via Hwy 2), Relung Panen (west, via the spur that joins Hwy 110 at Casey; added 2026-10-21)
 - **Notes:** Junction city — where Hwy 110 and Hwy 2 meet; gateway between the Mirny subnet coast and the Dumont d'Urville Sea area. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart) — sits at the overlap of both the Mirny subnet and Dumont d'Urville Sea supply lines, both of which run through Australia.
 
 ---

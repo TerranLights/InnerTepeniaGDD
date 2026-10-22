@@ -61,7 +61,7 @@ Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GP
 
 **Climate type:** Katabatic coastal — continental polar with defining wind events; distinct from both the interior polar desert (Concordia) and the maritime subpolar (Palmer)
 **Mean annual temperature:** approximately −14°C (+7°F)
-**Temperature range:** coldest month (July) avg −27°C; warmest months (December/January) avg 0°C
+**Temperature range:** coldest month (July) avg −22°C; warmest months (December/January) avg −1°C
 **Record extremes:** record low approximately −45°C; record high approximately +5°C (during warm katabatic descent events)
 **Prevailing winds:** strong katabatic winds from the SSW–SW (gravity-driven airflow off the East Antarctic interior ice sheet); average 8–12 m/s; storms regularly reaching 60–100+ km/h; Terra Nova Bay is one of the windiest locations on the entire Ross Sea coast; katabatic winds warm adiabatically as they descend, arriving drier and relatively warmer than ambient air — but wind chill at even moderate speeds creates lethal outdoor conditions
 **Annual precipitation:** **144.7 mm** water equivalent _(proxy: Mario Zucchelli (~8 km, shared microclimate); measured monthly normals — see table)_ *(researched 2026-09-04)*
@@ -86,23 +86,23 @@ Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GP
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +8.3 | +1 | 0 | −2 | −7 | 42.1 | ~25% | 24 | Midnight sun; warmest period; occasional katabatic warming episodes |
-| Feb | +11.4 | −5 | −6 | −8 | −14.7 | 23.5 | ~25% | 20.4 | Days shortening rapidly; temperatures beginning to drop |
-| Mar | −4.5 | −12 | −14 | −16 | −25.8 | 0.7 | ~25% | 13.6 | Autumn; katabatics intensifying as interior plateau cools |
-| Apr | −6.4 | −16 | −21 | −21 | −30.3 | 0.8 | ~20% | 7.5 | Rapid darkening; sustained cold arriving; sea ice forming outside polynya |
-| May | −6.7 | −17 | −25 | −22 | −30.5 | 3.8 | ~20% | 0 | Polar night begins ~May 6; fierce katabatic season begins |
-| Jun | −1.7 | −17 | −27 | −23 | −27.1 | 8.4 | ~20% | 0 | Full polar night; most intense katabatic period of the year |
-| Jul | −5.5 | −20 | −27 | −25 | −32.4 | 13 | ~20% | 0 | Polar night ends ~Aug 8; coldest and windiest month |
-| Aug | −4.9 | −17 | −25 | −23 | −29.2 | 4.7 | ~20% | 3.9 | Light returns; cold and severe wind remain; katabatics still strong |
-| Sep | −12 | −16 | −20 | −22 | −28.2 | 1.6 | ~20% | 10.8 | Spring; katabatics beginning to moderate; sea ice still extensive |
-| Oct | −4.3 | −13 | −13 | −18 | −21.7 | 3 | ~25% | 16.7 | Warming; sea ice breaking up outside the polynya |
-| Nov | +2.5 | −5 | −5 | −9 | −14 | 17.4 | ~25% | 24 | Midnight sun approaching; conditions improving; coast becoming navigable |
-| Dec | +7.7 | +1 | 0 | −3 | −6.7 | 25.7 | ~25% | 24 | Midnight sun; warmest period; polynya at maximum extent |
+| Jan | +8.3 | +1 | −1.2 | −2 | −7 | 42.1 | ~25% | 24 | Midnight sun; warmest period; occasional katabatic warming episodes |
+| Feb | +11.4 | −5 | −6.4 | −8 | −14.7 | 23.5 | ~25% | 20.4 | Days shortening rapidly; temperatures beginning to drop |
+| Mar | −4.5 | −12 | −14.1 | −16 | −25.8 | 0.7 | ~25% | 13.6 | Autumn; katabatics intensifying as interior plateau cools |
+| Apr | −6.4 | −16 | −19.0 | −21 | −30.3 | 0.8 | ~20% | 7.5 | Rapid darkening; sustained cold arriving; sea ice forming outside polynya |
+| May | −6.7 | −17 | −20.0 | −22 | −30.5 | 3.8 | ~20% | 0 | Polar night begins ~May 6; fierce katabatic season begins |
+| Jun | −1.7 | −17 | −20.0 | −23 | −27.1 | 8.4 | ~20% | 0 | Full polar night; most intense katabatic period of the year |
+| Jul | −5.5 | −20 | −21.8 | −25 | −32.4 | 13 | ~20% | 0 | Polar night ends ~Aug 8; coldest and windiest month |
+| Aug | −4.9 | −17 | −21.4 | −23 | −29.2 | 4.7 | ~20% | 3.9 | Light returns; cold and severe wind remain; katabatics still strong |
+| Sep | −12 | −16 | −19.8 | −22 | −28.2 | 1.6 | ~20% | 10.8 | Spring; katabatics beginning to moderate; sea ice still extensive |
+| Oct | −4.3 | −13 | −15.0 | −18 | −21.7 | 3 | ~25% | 16.7 | Warming; sea ice breaking up outside the polynya |
+| Nov | +2.5 | −5 | −7.3 | −9 | −14 | 17.4 | ~25% | 24 | Midnight sun approaching; conditions improving; coast becoming navigable |
+| Dec | +7.7 | +1 | −1.5 | −3 | −6.7 | 25.7 | ~25% | 24 | Midnight sun; warmest period; polynya at maximum extent |
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089662** (BASE BAIA TERRA NOVA), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (PROXY — Mario Zucchelli (~8 km, shared microclimate), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts published. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (PROXY — Mario Zucchelli (~8 km, shared microclimate), researched 2026-09-04)** — **Avg Temp:* ⭐ **measured; column replaced 2026-10-21.** BAS Met READER surface station `Mario_Zucchelli`, mean of the yearly monthly values 1991–2020 (27–30 years per month; `Climate Data/READER/Janbogo.md`). The column held before did not match the station (largest monthly difference 7.0 °C). **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts published. **Avg Daylight:* computed from this city's own latitude.*
 
 
 

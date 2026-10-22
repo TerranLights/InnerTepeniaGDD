@@ -73,10 +73,10 @@ Troll Airfield is the defining infrastructure feature. Real-world Troll Airfield
 **Climate data source:** Norwegian Polar Institute (NPI) — Troll Research Station; data via NPI (not in READER surface; available in READER AWS as automatic weather station)
 
 **Climate type:** Inland Queen Maud Land nunatak — more continental than the coastal cities; katabatic wind exposure; colder winters than the coastal Halley subnet cities
-**Mean annual temperature:** approximately −22°C
+**Mean annual temperature:** approximately −17°C
 **Prevailing winds:** strong katabatic winds off the plateau; the station sits 235 km inland at Jutulsessen *(researched 2026-09-04)*
 **Record extremes:** summer reaches about **0 °C**; winter lows around **−50 °C**, with a winter average near −30 °C *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −33°C; warmest month avg −6°C
+**Temperature range:** coldest months avg −25°C; warmest month avg −7°C
 **Polar night:** approximately May 16 → Jul 29 (~75 days)
 **Midnight sun:** approximately Nov 11 → Feb 1 (~83 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -97,23 +97,23 @@ Troll Airfield is the defining infrastructure feature. Real-world Troll Airfield
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +4.1 | +2 | −6 | −14 | −20.2 | 18 | ~33% | 24* |  |
-| Feb | +3.5 | −4 | −13 | −22 | −21.2 | 16 | ~31% | 18.6 |  |
-| Mar | −0.7 | −11 | −20 | −29 | −28.1 | 13 | ~29% | 13.4 |  |
-| Apr | −3.2 | −18 | −27 | −36 | −30.1 | 11 | ~27% | 8.3 |  |
-| May | −5.2 | −23 | −32 | −41 | −29.9 | 9 | ~25% | 1.0 |  |
-| Jun | −6 | −24 | −33 | −42 | −34.8 | 8 | ~24% | 0* |  |
-| Jul | −4.1 | −24 | −33 | −42 | −34.7 | 8 | ~24% | 0* |  |
-| Aug | −7 | −22 | −31 | −40 | −37.2 | 9 | ~25% | 5.7 |  |
-| Sep | −5.3 | −15 | −24 | −33 | −39.5 | 12 | ~28% | 11.0 |  |
-| Oct | −3.1 | −7 | −16 | −25 | −36.8 | 15 | ~30% | 15.9 |  |
-| Nov | +5 | +1 | −8 | −17 | −25 | 17 | ~32% | 24* |  |
-| Dec | +1.4 | +2 | −6 | −14 | −17.5 | 18 | ~33% | 24* |  |
+| Jan | +4.1 | +2 | −6.7 | −14 | −20.2 | 18 | ~33% | 24* |  |
+| Feb | +3.5 | −4 | −10.3 | −22 | −21.2 | 16 | ~31% | 18.6 |  |
+| Mar | −0.7 | −11 | −14.2 | −29 | −28.1 | 13 | ~29% | 13.4 |  |
+| Apr | −3.2 | −18 | −19.8 | −36 | −30.1 | 11 | ~27% | 8.3 |  |
+| May | −5.2 | −23 | −21.1 | −41 | −29.9 | 9 | ~25% | 1.0 |  |
+| Jun | −6 | −24 | −22.8 | −42 | −34.8 | 8 | ~24% | 0* |  |
+| Jul | −4.1 | −24 | −25.2 | −42 | −34.7 | 8 | ~24% | 0* |  |
+| Aug | −7 | −22 | −25.3 | −40 | −37.2 | 9 | ~25% | 5.7 |  |
+| Sep | −5.3 | −15 | −24.0 | −33 | −39.5 | 12 | ~28% | 11.0 |  |
+| Oct | −3.1 | −7 | −18.5 | −25 | −36.8 | 15 | ~30% | 15.9 |  |
+| Nov | +5 | +1 | −11.4 | −17 | −25 | 17 | ~32% | 24* |  |
+| Dec | +1.4 | +2 | −6.9 | −14 | −17.5 | 18 | ~33% | 24* |  |
 
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089504** (TROLL IN ANTARKTIS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured; column replaced 2026-10-21.** BAS Met READER AWS record `Troll`, mean of every full year 1991–2025 (13–14 years per month, so a record-period mean, not a 30-year WMO normal; `Climate Data/READER/Troll.md`). The column held before did not match the station (largest monthly difference 10.9 °C). ⚠ **Avg High / Avg Low rows:** derived around the old column and no longer fit the corrected Mean in May and June; no measured daily maximum or minimum exists for this station, so they are not corrected here. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 
 
 *Polar night ~May 16–Jul 29 (~75 days); midnight sun ~Nov 11–Feb 1 (~83 days)*
