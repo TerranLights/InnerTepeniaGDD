@@ -77,10 +77,10 @@ Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a name
 **Climate data source:** Finnish Antarctic Research Program (FINNARP) / Swedish Polar Research Secretariat — Aboa/Wasa stations; both seasonal-use only, despite year-round-capable construction (see Geographic Basis above); limited climate record
 
 **Climate type:** Inland Queen Maud Land nunatak, western sector — more continental than coastal; colder than Troll and Sanay on average; Vestfjella/Kraul Mountains weather; katabatic influence
-**Mean annual temperature:** approximately −25°C
+**Mean annual temperature:** approximately −15°C
 **Record extremes:** record high **+4.1 °C** (Jan); record low **-45.4 °C** (Jun) _(IMAU **AWS05**, *Wasa/Aboa Camp Maudheimvida* — ~10 km, 366 m — Aboa sits at ~400 m; **117,567 hourly observations**, 1998-02-02 to 2014-02-07. PANGAEA `10.1594/PANGAEA.974113`)_ *(researched 2026-09-04)*
 **Prevailing winds:** ⭐ **north-easterly, and dominantly so year-round** — a product of local nunatak topography combined with the easterly flow of cyclones tracking eastward parallel to the coast. **Summer mean wind 5.9 m/s** *(Aboa Weather Station, on Basen nunatak itself)*; **summer mean air temperature −5.4 °C.** *Basen sits in the north-eastern part of Vestfjella, a 135 km range of nunataks — the range itself steers the flow.* *(researched 2026-09-04; measured on site, not proxied)*
-**Temperature range:** coldest months avg −36°C; warmest month avg −8°C
+**Temperature range:** coldest months avg −22°C; warmest month avg −5°C
 **Polar night:** approximately May 12 → Aug 2 (~83 days)
 **Midnight sun:** approximately Nov 8 → Feb 5 (~90 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -101,23 +101,23 @@ Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a name
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +4.1 | 0 | −8 | −16 | −20.4 | 15 | ~30% | 24* |  |
-| Feb | +3.1 | −6 | −15 | −24 | −39 | 13 | ~28% | 19.2 |  |
-| Mar | +2.1 | −14 | −23 | −32 | −34.1 | 11 | ~26% | 13.5 |  |
-| Apr | −1.8 | −22 | −31 | −40 | −38.6 | 9 | ~24% | 8.0 |  |
-| May | −4.2 | −26 | −35 | −44 | −42.9 | 7 | ~22% | 0* |  |
-| Jun | −5 | −27 | −36 | −45 | −45.4 | 6 | ~21% | 0* |  |
-| Jul | −8.1 | −27 | −36 | −45 | −43.7 | 6 | ~21% | 0* |  |
-| Aug | −6.7 | −25 | −34 | −43 | −40.7 | 7 | ~22% | 5.1 |  |
-| Sep | −5.9 | −18 | −27 | −36 | −42.4 | 10 | ~25% | 10.9 |  |
-| Oct | −4.9 | −9 | −18 | −27 | −36.5 | 13 | ~28% | 16.2 |  |
-| Nov | +0.3 | −1 | −10 | −19 | −28.9 | 14 | ~29% | 24* |  |
-| Dec | +3.4 | 0 | −8 | −16 | −20 | 15 | ~30% | 24* |  |
+| Jan | +4.1 | 0 | −5.2 | −16 | −20.4 | 15 | ~30% | 24* |  |
+| Feb | +3.1 | −6 | −8.7 | −24 | −39 | 13 | ~28% | 19.2 |  |
+| Mar | +2.1 | −14 | −13.5 | −32 | −34.1 | 11 | ~26% | 13.5 |  |
+| Apr | −1.8 | −22 | −17.5 | −40 | −38.6 | 9 | ~24% | 8.0 |  |
+| May | −4.2 | −26 | −19.0 | −44 | −42.9 | 7 | ~22% | 0* |  |
+| Jun | −5 | −27 | −19.4 | −45 | −45.4 | 6 | ~21% | 0* |  |
+| Jul | −8.1 | −27 | −21.5 | −45 | −43.7 | 6 | ~21% | 0* |  |
+| Aug | −6.7 | −25 | −21.9 | −43 | −40.7 | 7 | ~22% | 5.1 |  |
+| Sep | −5.9 | −18 | −20.8 | −36 | −42.4 | 10 | ~25% | 10.9 |  |
+| Oct | −4.9 | −9 | −16.6 | −27 | −36.5 | 13 | ~28% | 16.2 |  |
+| Nov | +0.3 | −1 | −10.5 | −19 | −28.9 | 14 | ~29% | 24* |  |
+| Dec | +3.4 | 0 | −5.5 | −16 | −20 | 15 | ~30% | 24* |  |
 
 ***Monthly record extremes (IMAU **AWS05**, *Wasa/Aboa Camp Maudheimvida*)** — ⭐ **measured air temperature from 117,567 hourly automatic-weather-station observations** (1998-02-02 to 2014-02-07), ~10 km, 366 m — Aboa sits at ~400 m. **IMAU Antarctic AWS network, archived in PANGAEA** — *Van Tiggelen et al. (2025), `10.1594/PANGAEA.974113`*. **Every calendar month covered.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured; column replaced 2026-10-21.** Aboa weather station (Basen nunatak, 484 m), monthly mean air temperature Feb 1989 – Oct 2001, from Kärkäs (2004), Geophysica 40, Table 2 (`Reference/Real-World/Climate Data/Aboa_Karkas2004_Monthly_Temperature.md`). **A record-period mean of about 12 years, not a WMO normal.** The column held before did not match the station (largest monthly difference 16.6 °C). ⚠ **Avg High / Avg Low rows:** derived around the old column and no longer fit the corrected Mean (from May to September the old "high" is colder than the new Mean); no measured daily maximum or minimum is used here, so they are not corrected. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 
 
 *Polar night ~May 12–Aug 2 (~83 days); midnight sun ~Nov 8–Feb 5 (~90 days)*

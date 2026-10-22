@@ -134,6 +134,7 @@ Produced by `Tools/climate_reader_check.py` (read-only). Source: the BAS Met REA
 | Spec | months | which |
 |---|--:|---|
 | Sanay | 6 | Apr, May, Jun, Jul, Oct, Nov |
+| Santa_Luce | 5 | Apr, May, Jun, Jul, Aug |
 | Troll | 2 | May, Jun |
 | Dome_Fuji | 12 | Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec |
 | Kunlun | 12 | Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec |
