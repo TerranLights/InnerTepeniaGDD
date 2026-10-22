@@ -2,7 +2,9 @@
 
 **Pass:** Mirny · ULM · Step 10 · reading half written 2026-10-12 (three T8 readers A, B, C; Round 2 UNANIMOUS 3/3 files, 9/9 field sets; Round 3 6/6 CONSISTENT), file-system half and the merge on 2026-10-12 evening and 2026-10-13 morning. Round records, raw output and the double-check: `10b_T8_Rounds_Step_10.md`.
 
-**Standing: PROPOSED. Step 10 run; awaiting developer review. This record does NOT declare the Mirny pass complete.** The governing principle is **verify, do not assert** (`00_RUNBOOK.md` Step 10): where a check could not be run, it says so, and where it fired, it says that. Nothing was fixed or banded by this step: every fix below is a proposal for the developer.
+> **REVIEW NOTICE (2026-10-21).** The developer **reviewed this check and accepted it**, with the four cold-run-only fires (items 1, 1a, 8 and the cold half of 10) **parked until a cold run happens**, and item 7 resolved by amending the runbook (scaffolding may be pre-seeded; output may not; `M-299`). Q-145 to Q-149: Q-148 is answered (**Casey** runs next, covered by the scan); the rest are cold-run-only and stay open. **This does NOT declare the Mirny pass complete**: the lived middle is unwritten, the wind re-derivation and the cap-starved research are scheduled, and the Planet symbol is held.
+
+**Standing: PROPOSED. Step 10 run; reviewed 2026-10-21 (see the notice above). This record does NOT declare the Mirny pass complete.** The governing principle is **verify, do not assert** (`00_RUNBOOK.md` Step 10): where a check could not be run, it says so, and where it fired, it says that. Nothing was fixed or banded by this step: every fix below is a proposal for the developer.
 
 **Subject of the contamination checks.** The runbook runs items 1–1c against **the NEXT pass's subject**, and the developer has not named it. The three un-run cities of the Mirny subnet in the tracker are **Casey, Kunlun and Vostok** (Vostok is being renamed Ariun Nuur: both names were scanned). **Mirny is not a subject.** If a different city runs next, items 1, 1a and 7 must be re-run for it.
 

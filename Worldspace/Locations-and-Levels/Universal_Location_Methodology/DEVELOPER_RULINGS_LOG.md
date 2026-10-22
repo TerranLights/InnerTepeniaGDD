@@ -1207,3 +1207,21 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 > a city whose profile points at one of the unsettled Elemental members. **Sequenced as a pre-requisite
 > anyway, developer decision 2026-09-16: settle it before starting the ULM on the next city**, rather than
 > risk hitting it as a mid-pass interruption partway through an otherwise-continuous 11-phase run.
+
+## `DR-59` · ✅ **NOVEMBER DECISIONS D-2/D-3/D-7 AND THE MIRNY PHASE 7 AND 8 QUESTIONS** *(2026-10-21)*
+
+| | |
+|---|---|
+| **Foreign-named cities** | The audit of Rothera, Signy, Neumayer, Scott and Mawson (do their names fit their founders?) is **deferred**: *"I'll need to figure those out later."* Dumont d'Urville and Zukelli still need new names. |
+| **Founders for the three renamed cities** | Found already ruled in the Register (Contrapunto, Pergamino, Temirötkel). One residual line: Temirötkel was first established by the CIN or by Kazakhstan; which of the two stays open. |
+| **CST and RWBEM timing** | **Strictly after** the ULM wave on all cities in scope and its vignette round: ULM, then CST, then RWBEM, with a vignette round after each. No overlap. |
+| **Mirny: Lover faculty row** | **Stays blank.** *"It's not always necessary to have an answer. If no answer naturally appears, then don't force an answer where nothing should be."* (The no-forced-fit law, applied to a ledger cell.) |
+| **Mirny Q-68 (harbor watch and extraction crews)** | *"They're basically essential."* Read as: the work that carries the one inward lifeline is **essential, not free-tier**. Which essential tier (baseline or mandated) was not stated. |
+| **Mirny Q-70 (quarry's two claims)** | *"It's possible that they may draw upon overlapping shares."* The two claims may draw on overlapping portions of the output. |
+| **Mirny Q-74 (Borrowed Form trigger)** | **Held until later.** |
+| **Mirny Q-75 (dress)** | Robots and humans **may dress similarly; it is not obligatory** that they dress the same (they can if they want to). |
+| **Mirny Q-78, Q-79** | Developer has no answer (siligel's behavior below freezing; Mirny's place on the glitch-coolant axis). **Left open**; a derivation from existing robot-biology canon may be proposed later, but nothing is ruled. |
+| **Mirny Phases 7 and 8** | **Ratified** as the working record (developer: "sure, yes"), with the wind-related passages still awaiting the rewrite after `DR-56`/`DR-57`. A ratification notice was added at the top of each file; no text was changed. |
+| **Mirny Step 10 review** | **Accepted** (developer: "sure, yes to both"); the four cold-run-only fires are parked until a cold run. **Runbook Step 10 item 7 amended**: scaffolding (Pre-Trip, ledger, README, datasheets) may be pre-seeded; a city's output files may not; a cold run still delegates the listing (`M-299`). Mirny is still **not** declared complete. |
+| **Not yet done** | The Planet symbol and Q-74 (held), Q-78 and Q-79 (open). |
+

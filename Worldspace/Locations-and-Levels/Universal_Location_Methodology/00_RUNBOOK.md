@@ -3118,8 +3118,13 @@ before handing off to another session.**
 
 6. **Every path named in the handoff exists** — admissible and withheld alike. A withheld path that has moved
    is a quarantine hole.
-7. **The next run's output folder does NOT already exist.** It creates its own; a pre-seeded folder is a
-   contamination risk and a status lie.
+7. **The next run's OUTPUT files do NOT already exist.** A pass creates its own output (`00_Frame.md`, `01`…`10`
+   and their round records). ⭐ **Scaffolding MAY be pre-seeded** *(2026-10-21, developer-approved at the Mirny Step 10
+   review; `M-299`)*: the Pre-Trip sheet, the Position-Coverage ledger, `README.md` and the `Datasheets/` set are
+   inputs, not output, and a warm run needs them. ⛔ **For a COLD run the folder's contents are still a contamination
+   surface** (leak-register row 5, filenames as theses; Step −2 sanitized paths), so a cold run delegates the listing
+   and reads only the sanitized form. A pre-seeded folder that holds *output* is still a contamination risk and a
+   status lie.
 8. **The shared observations file sits OUTSIDE every quarantined folder**, or the next run cannot write to it
    without breaking its own quarantine *(M-0)*.
 
