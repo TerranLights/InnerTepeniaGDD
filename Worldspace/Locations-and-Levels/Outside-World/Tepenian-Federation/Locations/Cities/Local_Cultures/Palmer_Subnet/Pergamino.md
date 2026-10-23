@@ -29,7 +29,7 @@
 | Significant | Germany, France, UK, Italy, Spain |
 | Notable | Mexico, Brazil, Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Spain holds on at Significant tier rather than being diluted all the way to Notable — a similar demographic retention to Rothera's UK, distinct from cities where the founding nation falls further. Argentina and Chile carry the founding-wave flag, the same Drake Passage-proximity pattern seen across the Palmer subnet, though Juan Carlos's own founding population was primarily Spanish rather than South American.*
+*Spain holds on at Significant tier rather than being diluted all the way to Notable — a similar demographic retention to Rothera's UK, distinct from cities where the founding nation falls further. Argentina and Chile carry the founding-wave flag, the same Drake Passage-proximity pattern seen across the Palmer subnet, though Pergamino's own founding population was primarily Spanish rather than South American.*
 
 ---
 
@@ -43,7 +43,7 @@ The city was named after King Juan Carlos I, who reigned over Spain during its t
 
 ## 3. Climate Character
 
-Livingston Island shares King George Island's mild, wet, maritime sub-Antarctic climate — no polar night, no midnight sun, above-freezing summer temperatures a regular occurrence. But the island itself is more glaciated and rugged than King George Island, with more limited accessible coastal terrain, giving Juan Carlos a somewhat harder physical relationship to its own landscape than Contrapunto's more open setting.
+Livingston Island shares King George Island's mild, wet, maritime sub-Antarctic climate — no polar night, no midnight sun, above-freezing summer temperatures a regular occurrence. But the island itself is more glaciated and rugged than King George Island, with more limited accessible coastal terrain, giving Pergamino a somewhat harder physical relationship to its own landscape than Contrapunto's more open setting.
 
 ---
 
@@ -96,7 +96,7 @@ Pergamino developed differently from Contrapunto precisely because it lacked Con
 
 ## 9. Architecture
 
-Built around the inherited Spanish Antarctic program infrastructure, shaped by Livingston Island's genuinely rugged, glaciated terrain — more limited in accessible building area than Contrapunto's more open ground, giving Juan Carlos a more concentrated, coherent built environment than its crowded neighbor.
+Built around the inherited Spanish Antarctic program infrastructure, shaped by Livingston Island's genuinely rugged, glaciated terrain — more limited in accessible building area than Contrapunto's more open ground, giving Pergamino a more concentrated, coherent built environment than its crowded neighbor.
 
 ---
 

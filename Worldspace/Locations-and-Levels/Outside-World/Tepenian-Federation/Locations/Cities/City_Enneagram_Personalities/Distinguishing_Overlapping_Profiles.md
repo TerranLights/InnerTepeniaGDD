@@ -1,6 +1,6 @@
 # Distinguishing Overlapping Profiles
 
-The three-axis Enneagram framework only has 27 possible combinations, and Tepenia has 36 profiled locations (35 cities + Amundsen Station) — so overlap was inevitable. Only **Dome Fuji** (Instinctive/Withdrawn/Positive Outlook) and **Abowasa** (Thinking/Compliant/Positive Outlook) turned out unique. Every other city lands in one of 11 shared groups below, ranging from 2 to 6 cities deep. This file exists specifically to answer: if two cities score identically, what actually tells them apart?
+The three-axis Enneagram framework only has 27 possible combinations, and Tepenia has 36 profiled locations (35 cities + Amundsen Station) — so overlap was inevitable. Only **Dome Fuji** (Instinctive/Withdrawn/Positive Outlook) and **Santa Luce** (Thinking/Compliant/Positive Outlook) turned out unique. Every other city lands in one of 11 shared groups below, ranging from 2 to 6 cities deep. This file exists specifically to answer: if two cities score identically, what actually tells them apart?
 
 The short answer, true across every group below: the three axes describe *how* a city relates to conflict, other cities, and its own inner life in the abstract — they say nothing about *what* a city is actually about. Two cities can withdraw for entirely different reasons, or assert themselves through entirely different means. That's where the real distinguishing detail lives.
 
@@ -25,7 +25,7 @@ The largest overlap in the whole set — six cities that are all self-sufficient
 
 ## Group 2 — Thinking / Compliant / Competency (4 cities)
 
-**Amundsen Station, Halley, Juan Carlos, Sejong**
+**Amundsen Station, Halley, Pergamino, Contrapunto**
 
 *(Esperanza moved out 2026-07-17 — its original placement here was built entirely around a minor
 trans-shipment detail rather than its actual dominant identity; see Group 4 below.)*
@@ -34,10 +34,10 @@ All four are dutiful, analytical, and capable — service-oriented cities whose 
 
 - **Amundsen Station** serves as neutral political mediation ground for the whole Federation, alongside literal technical maintenance of the Arcanet relay and Amundsen Tower — the only city on this list whose duty is explicitly cross-subnet and political-adjacent.
 - **Halley** traded real technical power for naming honor — its own residents built Sanay's nexus by hand, a duty performed specifically *for* someone else's infrastructure.
-- **Juan Carlos** is an information keeper — Tepenia's first bureaucratic archive, tracking immigration and watching for former Upper Earth officials. Its duty is about security and institutional memory, not physical labor or logistics.
-- **Sejong** facilitates constant multilateral coexistence — practiced diplomatic coordination across nearly a dozen immediate national neighbors sharing one small island, a skill built out of necessity rather than institutional assignment *(corrected 2026-07-17 — previously anchored to Sejong's own secondary proximity to Machu Picchu Airport rather than its established primary "City Defined By Its Neighbors" identity; see `Palmer_Subnet/Sejong.md`'s own corrected Enneagram read)*.
+- **Pergamino** is an information keeper — Tepenia's first bureaucratic archive, tracking immigration and watching for former Upper Earth officials. Its duty is about security and institutional memory, not physical labor or logistics.
+- **Contrapunto** facilitates constant multilateral coexistence — practiced diplomatic coordination across nearly a dozen immediate national neighbors sharing one small island, a skill built out of necessity rather than institutional assignment *(corrected 2026-07-17 — previously anchored to Contrapunto's own secondary proximity to Machu Picchu Airport rather than its established primary "City Defined By Its Neighbors" identity; see `Palmer_Subnet/Contrapunto.md`'s own corrected Enneagram read)*.
 
-**The distinguishing axis:** what kind of "on behalf of others" each city practices — political mediation (Amundsen), physical labor traded for credit (Halley), information security (Juan Carlos), and constant multilateral boundary diplomacy (Sejong).
+**The distinguishing axis:** what kind of "on behalf of others" each city practices — political mediation (Amundsen), physical labor traded for credit (Halley), information security (Pergamino), and constant multilateral boundary diplomacy (Contrapunto).
 
 ---
 
@@ -75,28 +75,28 @@ All five are warm, community-first, and optimistic — but each channels that wa
 
 ## Group 5 — Thinking / Withdrawn / Competency (3 cities)
 
-**Neumayer, Princess Elisabeth, Signy**
+**Neumayer, Utstein, Signy**
 
 All three are technical, self-contained, and quietly capable, but the *specialty* differs:
 
 - **Neumayer** specializes in modular, zero-emission engineering precision, positioned off Hwy 7's main line.
-- **Princess Elisabeth** specializes in total off-grid energy self-sufficiency (wind/solar), its very subnet placement settled through careful traverse-corridor geographic analysis.
+- **Utstein** specializes in total off-grid energy self-sufficiency (wind/solar), its very subnet placement settled through careful traverse-corridor geographic analysis.
 - **Signy** has no particular specialty at all — its withdrawal is just modest scale and simple isolation, the least distinguished of the three by design (and the thinnest on established lore).
 
-**The distinguishing axis:** engineering precision (Neumayer) vs. energy self-sufficiency (Princess Elisabeth) vs. plain, unspecialized smallness (Signy).
+**The distinguishing axis:** engineering precision (Neumayer) vs. energy self-sufficiency (Utstein) vs. plain, unspecialized smallness (Signy).
 
 ---
 
 ## Group 6 — Instinctive / Compliant / Competency (2 cities)
 
-**Lazar, Sayowa**
+**Lazar, Temirötkel**
 
 Both are physically functional, service-oriented cities, but at very different scales and roles:
 
 - **Lazar** is a genuine megacity that absorbed and evolved through waves of immigration until even its own name changed — a highway *origin* point (Hwy 7's eastern terminus, the Belgrano Highway Extension's start).
-- **Sayowa** is a dedicated industrial fabrication and dispatch city — a highway *service* node, moving other cities' goods through the network rather than originating routes of its own.
+- **Temirötkel** is a dedicated industrial fabrication and dispatch city — a highway *service* node, moving other cities' goods through the network rather than originating routes of its own.
 
-**The distinguishing axis:** origin point at megacity scale (Lazar) vs. mid-sized service/dispatch node (Sayowa).
+**The distinguishing axis:** origin point at megacity scale (Lazar) vs. mid-sized service/dispatch node (Temirötkel).
 
 ---
 
@@ -149,20 +149,20 @@ aviation-and-port (Marambio) vs. dual physical throughput — industrial-and-sub
 
 ## Group 10 — Feeling / Withdrawn / Positive Outlook (2 cities)
 
-**Scott, Port Lockroy**
+**Scott, Puerto Abrigo**
 
 Both are quiet, warm, and contented at small scale, but oriented toward different points in time:
 
 - **Scott** is present-tense domestic warmth — "a genuinely decent, quiet place to raise a family," explicitly the calm counterpart to Fort McMurdo's loud energy next door.
-- **Port Lockroy** is past-tense heritage warmth — a preserved historic site functioning as a memory-keeper, its fondness aimed backward at what the place once was rather than at ongoing family life.
+- **Puerto Abrigo** is past-tense heritage warmth — a preserved historic site functioning as a memory-keeper, its fondness aimed backward at what the place once was rather than at ongoing family life.
 
-**The distinguishing axis:** present-day domestic life (Scott) vs. historical/heritage memory-keeping (Port Lockroy).
+**The distinguishing axis:** present-day domestic life (Scott) vs. historical/heritage memory-keeping (Puerto Abrigo).
 
 ---
 
 ## Group 11 — Thinking / Withdrawn / Positive Outlook (2 cities)
 
-**Kunlun, Vostok**
+**Kunlun, Ariun Nuur**
 
 Both are isolated, joyful research communities living the exact same "not a job, it's life" ethos — the closest match of any pair in this whole set, and already directly compared to each other in their own individual files. The distinguishing detail is built directly into their subject matter:
 

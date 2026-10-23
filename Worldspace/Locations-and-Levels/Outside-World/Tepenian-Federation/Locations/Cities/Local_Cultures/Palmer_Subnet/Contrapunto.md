@@ -203,7 +203,7 @@ Layered through the city's own founding history against the later USA-Primary de
 ## 23. Relationship to Other Cities
 
 - **Esperanza, Marambio, Pergamino:** Palmer subnet Peninsula cluster neighbors via Hwy 1.
-- **Janbogo (Ross Sea coast):** *(Corrected 2026-07-13: no longer "the other Korean city" in any living sense — Janbogo remains a genuine Korean demographic center, alongside Sinheung in the Mirny subnet; Sejong's own Korean population has diluted to its smallest Significant-tier nation.)* Shares a founding-era naming heritage only — both cities were named after Korean historical figures at founding, but the two communities' paths diverged completely afterward.
+- **Janbogo (Ross Sea coast):** *(Corrected 2026-07-13: no longer "the other Korean city" in any living sense — Janbogo remains a genuine Korean demographic center, alongside Sinheung in the Mirny subnet; Contrapunto's own Korean population has diluted to its smallest Significant-tier nation.)* Shares a founding-era naming heritage only — both cities were named after Korean historical figures at founding, but the two communities' paths diverged completely afterward.
 - **King George Island's other national communities:** A genuinely unique relationship structure — not neighboring cities in the usual sense, but co-resident communities sharing a single island's infrastructure and weather.
 
 ---

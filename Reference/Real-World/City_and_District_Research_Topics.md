@@ -165,7 +165,7 @@ secondary thread if more material surfaces:
 - Ice shelf glaciology — why a station needs to move at all
 - Political science of figurehead/ceremonial authority
 
-**Abowasa** (jointly-founded, two peoples negotiating)
+**Santa Luce (formerly Abowasa)** (jointly-founded, two peoples negotiating)
 - Binational/co-founded settlement history — condominium territories, jointly-administered towns
 - Consociational power-sharing governance models
 - Intercultural neighborhood sociology at the household level
@@ -186,7 +186,7 @@ secondary thread if more material surfaces:
 - History-of-science literature on erased/uncredited contributors
 - Sociology and history of precision/metrology-obsessed institutions
 
-**Princess Elisabeth** (total dependence on maintained engineering, collapsed under war)
+**Utstein (formerly Princess Elisabeth)** (total dependence on maintained engineering, collapsed under war)
 - Zero-emission/passive Antarctic architecture — the real Princess Elisabeth Antarctica station is
   literally a zero-emission building, a direct existing parallel
 - Reliability engineering — single points of failure in fragile systems
@@ -207,7 +207,7 @@ secondary thread if more material surfaces:
 - The real Esperanza Base is the only Antarctic settlement with children actually born there — worth
   pulling real Antarctic-citizenship history directly
 
-**Juan Carlos** (record-keeping origin, destroyed specifically for it)
+**Pergamino (formerly Juan Carlos)** (record-keeping origin, destroyed specifically for it)
 - History of census/vital-records systems and their political weight
 - Real historical cases of record-keeping institutions destroyed specifically to erase what they held
 
@@ -223,7 +223,7 @@ secondary thread if more material surfaces:
 - Historiography of single inciting incidents that trigger wars (comparable to WWI assassination
   literature)
 
-**Port Lockroy** (preserves its own history, postal-hub destiny)
+**Puerto Abrigo (formerly Port Lockroy)** (preserves its own history, postal-hub destiny)
 - Heritage preservation and adaptive reuse of former military sites — the real Port Lockroy is itself an
   actual preserved historic site/museum/post office, worth researching directly as precedent
 - Postal service logistics history
@@ -232,7 +232,7 @@ secondary thread if more material surfaces:
 - Distributed manufacturing and redundant factory siting
 - Subterranean industrial architecture
 
-**Sejong** (dense multinational island settlement)
+**Contrapunto (formerly Sejong)** (dense multinational island settlement)
 - Translation-driven settlement growth — inherited records in one language and newcomers speaking another draw
   translators, who draw their own networks in turn (developer, 2026-10-01: New Amsterdam → New York as a much
   larger precedent)
@@ -275,7 +275,7 @@ secondary thread if more material surfaces:
 - Sociology of communities that existed before being formally named (statelessness/undocumented
   community literature)
 
-**Vostok** (coldest place on Earth, 25-million-year-sealed subglacial lake)
+**Ariun Nuur (formerly Vostok)** (coldest place on Earth, 25-million-year-sealed subglacial lake)
 - Subglacial lake science — the real Lake Vostok is one of the most-studied subglacial lakes on Earth,
   extremely rich source material (extremophile biology, drilling-contamination protocols)
 - Extremophile biology — life in extreme cold, sealed ecosystems
@@ -332,7 +332,7 @@ secondary thread if more material surfaces:
 - Sacralization of scientific/technical sites — real literature on research sites becoming pilgrimage
   destinations
 
-**Sayowa** ("where three roads meet," significant for transit not population)
+**Temirötkel (formerly Sayowa)** ("where three roads meet," significant for transit not population)
 - Crossroads/waystation town sociology
 - Island-junction logistics — East Ongul Island's sea-ice and overland access to the mainland
 

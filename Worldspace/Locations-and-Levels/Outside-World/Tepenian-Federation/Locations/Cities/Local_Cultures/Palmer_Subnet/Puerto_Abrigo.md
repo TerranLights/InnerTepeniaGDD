@@ -25,7 +25,7 @@
 | Significant | Germany, France, UK, Mexico, Brazil |
 | Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
 
-*Port Lockroy's composition is the leanest of the Palmer subnet's founding-institution cities — five Significant-tier nations rather than Rothera's six, no Canada or Spain represented at that tier. UK, the actual founding nation, is diluted to Significant tier by the same American demographic wave seen everywhere in the subnet — but the site's own institutional character, carried forward from a founding progression unlike any other Tepenian city (military installation to heritage museum to living town), remains genuinely distinctive regardless.*
+*Puerto Abrigo's composition is the leanest of the Palmer subnet's founding-institution cities — five Significant-tier nations rather than Rothera's six, no Canada or Spain represented at that tier. UK, the actual founding nation, is diluted to Significant tier by the same American demographic wave seen everywhere in the subnet — but the site's own institutional character, carried forward from a founding progression unlike any other Tepenian city (military installation to heritage museum to living town), remains genuinely distinctive regardless.*
 
 ---
 
@@ -57,7 +57,7 @@ A brief polar night (~14 days) and brief midnight sun (~18 days), among the shor
 
 **Name/concept:** *A City That Remembers Being Something Else*
 
-Port Lockroy's whole civic identity is built on continuous, visible history — a palimpsest where every generation wrote over the last without quite erasing it. Unlike Palmer City's forward-looking spectacle or Rothera's practical productivity, Port Lockroy's defining relationship is with its own past: the wartime buildings, the heritage-museum decades, and now the exile-era community, all physically present at once.
+Puerto Abrigo's whole civic identity is built on continuous, visible history — a palimpsest where every generation wrote over the last without quite erasing it. Unlike Palmer City's forward-looking spectacle or Rothera's practical productivity, Puerto Abrigo's defining relationship is with its own past: the wartime buildings, the heritage-museum decades, and now the exile-era community, all physically present at once.
 
 - **a. Founding tension** — Not the usual founding-nation-vs-majority pattern but a temporal one: a city continuously aware of what it used to be (military installation, then museum, then home), where every era layers rather than replaces the last.
 - **b. Fault lines** — Between treating the city's history as living, accountable memory (per its own established character) versus simply as heritage-tourism spectacle — a tension built into a city that grew up around preserved buildings.
@@ -253,7 +253,7 @@ Given the city's genuinely tiny scale, becoming a local at Puerto Abrigo happens
 
 ## 30. Significant Local Events
 
-- **The Long Night War** — Port Lockroy was damaged but not destroyed, spared not through physical resilience (its tiny island offered none) but through strategic irrelevance — a heritage/museum city with no military or industrial value, plausibly further protected by being conflated with adjacent Palmer City's own, much larger strike zone. Exact extent of damage TBD for DLC 3 design.
+- **The Long Night War** — Puerto Abrigo was damaged but not destroyed, spared not through physical resilience (its tiny island offered none) but through strategic irrelevance — a heritage/museum city with no military or industrial value, plausibly further protected by being conflated with adjacent Palmer City's own, much larger strike zone. Exact extent of damage TBD for DLC 3 design.
 
 ---
 

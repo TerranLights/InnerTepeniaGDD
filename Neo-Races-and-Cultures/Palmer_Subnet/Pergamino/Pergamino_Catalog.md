@@ -451,7 +451,7 @@ match.
 placeholder only, same status as every other city's working name so far).*
 
 **Identity correction, folded in 2026-07-16 from `City_Vision_Notes/Pergamino.md`:** the city's own
-official identity, **"Room to Be Itself,"** frames Juan Carlos as Spanish identity given room to become
+official identity, **"Room to Be Itself,"** frames Pergamino as Spanish identity given room to become
 genuinely coherent through relative isolation — the explicit, deliberate counterpoint to Contrapunto's own
 contrast-defined identity, paired together in a shared faction, "Coherence vs. Contrast." Where Contrapunto
 (this project's other densely multinational Palmer subnet city, also retroactively audited) defines

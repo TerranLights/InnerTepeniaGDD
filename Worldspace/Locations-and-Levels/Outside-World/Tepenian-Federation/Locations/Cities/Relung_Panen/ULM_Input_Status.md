@@ -23,7 +23,7 @@ mechanically file by file rather than asserted. ✅ **Name ruled 2026-10-03 (`DR
 > | The founding story: when, how, why, with what and without what | **your ruling** |
 > | Division-of-Industry per-city run (`16` excludes the city "by ruling") | **your ruling** |
 > | Census narrative entry and composition tier table; the census still calls the city by its placeholder name | the rename sweep of the held files, after the Mirny pass finishes |
-> | Local culture, robot-culture, Enneagram, neo-race catalog | later synthesis; not part of the base data |
+> | Local culture, robot-culture, Enneagram, neo-race catalog | later synthesis; not part of the base data. **Empty stub files exist since 2026-10-23** (`Local_Cultures/Mirny_Subnet/`, `Local_Robot_Culture/Mirny_Subnet/`, `City_Enneagram_Personalities/Mirny_Subnet/`, `City_Vision_Notes/`, `Neo-Races-and-Cultures/Mirny_Subnet/Relung_Panen/`); each is marked STUB and holds only pointers, so a file being present is not evidence the content exists |
 > | Planet + Element symbol | correctly last: needs a personality first |
 > | The city is not in the universe-history sources (`G6`) | expected for an unfounded city; a canon decision, later |
 >

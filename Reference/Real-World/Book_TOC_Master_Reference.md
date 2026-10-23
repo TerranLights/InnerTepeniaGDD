@@ -623,7 +623,7 @@ Research/00_Extraction_Checklist.md`) and now covered: Guyton & Hall's *Textbook
 several Biophysics/Biological Thermodynamics titles, `Computational-Biology.pdf`, molecular biology
 primers — all cataloged in the `STEM/Biology/ top-level files` writeup below.
 
-### Genetics/DNA [Genetic] Computing/ (12 files) — direct continuation of Vostok's DNA-computing grounding
+### Genetics/DNA [Genetic] Computing/ (12 files) — direct continuation of Ariun Nuur (formerly Vostok)'s DNA-computing grounding
 
 - **A Biologist's Guide to Analysis of DNA Microarray Data** — Steen Knudsen (2002) — re-cataloged
   2026-07-23 via `djvutxt`. 1 Introduction (Hybridization, Affymetrix GeneChip Technology, Spotted Arrays,
@@ -643,7 +643,7 @@ primers — all cataloged in the `STEM/Biology/ top-level files` writeup below.
   biology background; word design; non-autonomous models (Adleman, filtering, sticker, splicing systems);
   autonomous models (algorithmic self-assembly, finite-state automaton, hairpin models); cellular DNA
   computing (ciliate computing).
-- **DNA Computing: New Computing Paradigms** — Păun, Rozenberg, Salomaa (1998) — already the core Vostok
+- **DNA Computing: New Computing Paradigms** — Păun, Rozenberg, Salomaa (1998) — already the core Ariun Nuur
   source, see `Vostok_Genetics_Research/02_DNA_Computing.md`.
 - **DNA Microarray Technology and Data Analysis in Cancer Research** — Li & Li (2009). Microarray tech,
   cancer applications, analytical methods incl. a novel SDL global optimization method.
@@ -855,7 +855,7 @@ primers — all cataloged in the `STEM/Biology/ top-level files` writeup below.
 - **The Molecules of Life: DNA, RNA, and Proteins** (Genetics & Evolution series) — Russ Hodge (2009,
   Facts On File), foreword Nadia Rosenthal. 5 chapters: The Physics and Chemistry of Life; How the Cell
   Stores and Uses Information (incl. a dedicated "DNA Computers" sidebar, p.72 — direct further
-  cross-reference to Vostok's DNA-computing thread); Communication Between and Inside Cells; Traffic and
+  cross-reference to Ariun Nuur's DNA-computing thread); Communication Between and Inside Cells; Traffic and
   Cell Architecture; Molecules of Immunity, Health, and Disease (incl. prions/Mad Cow Disease, "Can Cancer
   Be a Transmissible Disease?").
 
@@ -1002,7 +1002,7 @@ already cataloged under `Genetics/identification/` above — not re-listed here.
   public-awareness statistic. Cover art depicts DNA-assisted fabrication of nanometer-scale electronic
   circuits. Epigraphs include Nadrian Seeman's "the exploitation of DNA for material purposes presents a
   new chapter in the history of the molecule" — a strong direct continuation of the DNA-computing/
-  DNA-as-material thread already central to Vostok's grounding.
+  DNA-as-material thread already central to Ariun Nuur's grounding.
 - **DNA Fingerprinting: An Introduction** (Breakthroughs in Molecular Biology series, vol. 2) — Lorne T.
   Kirby (1993, Oxford). 6 chapters: Introduction (definition, history, "a case for DNA," applications),
   Genetic Principles (DNA structure, reproduction, linkage, mutation, restriction endonucleases,
@@ -1059,7 +1059,7 @@ already cataloged under `Genetics/identification/` above — not re-listed here.
   Part II: Case Studies (ancient human pathogens, paleovirology, reconstructing past vegetation from lake-
   sediment aDNA, archaeogenomics/crop adaptation, herbarium genomics, paleogenomics of animal domestication
   — dog/cat/horse chapters, primate paleogenomics, structural variants in ancient genomes, genomics of
-  extinction). Directly, explicitly continues Vostok's own "ancient sealed genetic material revealing
+  extinction). Directly, explicitly continues Ariun Nuur's own "ancient sealed genetic material revealing
   hidden truth once sequenced" premise — a real, current (2019) academic field built on exactly that
   premise, complementing the earlier-found Svante Pääbo Nobel Prize precedent.
 - **Plant Biotechnology and Genetics: Principles, Techniques, and Applications** — ed. C. Neal Stewart Jr.
@@ -1067,7 +1067,7 @@ already cataloged under `Genetics/identification/` above — not re-listed here.
   Genetics and Plant Reproduction, Plant Breeding, Plant Development and Physiology, Tissue Culture,
   Molecular Genetics of Gene Expression, Recombinant DNA/Vector Design, Genes and Traits of Interest for
   Transgenic Plants, Marker Genes and Promoters. A comprehensive plant-biotech textbook, potentially
-  relevant to Davis's agricultural-research identity as well as Vostok's genetics identity.
+  relevant to Davis's agricultural-research identity as well as Ariun Nuur's genetics identity.
 - **RNA and DNA Diagnostics** (RNA Technologies series) — eds. Volker A. Erdmann, Stefan Jurga, Jan
   Barciszewski (2015, Springer). Contents: electrochemical biosensors for miRNA/RNA detection, DNA/PNA
   probes for DNA detection, DNA for non-nucleic-acid sensing, aptamers in oncotherapy, SNP genotyping,
@@ -1221,7 +1221,7 @@ in scope here. Cataloged lightly below since partial data was already gathered, 
   Theoretical/Measurement Issues, Personality Stability/Coherence/Change); The Biological Domain (Genetics
   and Personality, Physiological Approaches, Evolutionary Perspectives on Personality); further domains
   (Intrapsychic, etc.) not fully captured. Genuinely relevant to companion/character-writing generally,
-  not just Vostok.
+  not just Ariun Nuur.
 - ~~The Consuming Instinct — Gad Saad~~ **Removed 2026-07-23, developer's request: "remove anything written
   by Gad Saad. I've decided I don't want his work."** File deleted from `Evolutionary Studies/`; no other
   Gad Saad titles found anywhere in the collection.

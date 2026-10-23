@@ -7,7 +7,7 @@ BUILD PRE-TRIP  —  generates a city's `00.0_Pre-Trip_Inspection.md` and `00.2_
           python3 build_pretrip.py --all --write      (every city in the table; never overwrites without --force)
           python3 build_pretrip.py --list
 
-  <city_key>   the pass-folder name (e.g. Cape_Adare, Abowasa, Princess_Elisabeth). `--list` prints all keys.
+  <city_key>   the pass-folder name (e.g. Cape_Adare, Santa_Luce, Utstein). `--list` prints all keys.
   --out DIR    write the two files into DIR (default: print a summary only; nothing is written)
   --write      write into the city's own pass folder (refuses to overwrite an existing file unless --force)
 
@@ -54,7 +54,7 @@ TODAY = datetime.date.today().isoformat()
 #   former    earlier names still present in the held (not yet swept) files and in records
 #   extra     other strings that name the same place in files (real-station names), searched with the names
 #   reader    stem of the climate READER file (keyed by the real station, which can differ from the city name)
-#   mega      megasheet folder name; concept   concept-art folder name   (both keep the pre-rename names)
+#   mega      megasheet folder name; concept   concept-art folder name   (mega keeps the pre-rename names; the concept-art folders were renamed 2026-10-23)
 #   pat       optional regex that replaces the default name search (for names that are also ordinary words)
 #   ambig     a note printed in §A when the name is shared with a subnet or an ordinary word
 # --------------------------------------------------------------------------------------------------------------------
@@ -70,15 +70,15 @@ CITY = {
     "Byrd": C("Byrd_Subnet", "Byrd", reader="Byrd", pat=r"\bByrd\b",
               ambig="the name is shared with the subnet and with Richard Byrd; hits exclude `Byrd subnet` phrases only"),
     # Halley subnet
-    "Abowasa": C("Halley_Subnet", "Santa Luce", stem="Santa_Luce", former=["Abowasa"], extra=["Aboa Station", "Wasa Research Station"], reader="Aboa", mega="Abowasa",
-                 concept="Abowasa", renamed="`DR-36`: formerly Abowasa (the Aboa + Wasa fusion)"),
+    "Santa_Luce": C("Halley_Subnet", "Santa Luce", stem="Santa_Luce", former=["Abowasa"], extra=["Aboa Station", "Wasa Research Station"], reader="Aboa", mega="Abowasa",
+                 concept="Santa_Luce", renamed="`DR-36`: formerly Abowasa (the Aboa + Wasa fusion)"),
     "Belgrano": C("Halley_Subnet", "Belgrano", reader="Belgrano"),
     "Halley": C("Halley_Subnet", "Halley", reader="Halley",
                 ambig="the city and its subnet share the name; hits exclude `Halley subnet` phrases, but a line may still be about the subnet"),
     "Lazar": C("Halley_Subnet", "Lazar", reader="Lazar", extra=["Novolazarevskaya"]),
     "Neumayer": C("Halley_Subnet", "Neumayer", reader="Neumayer"),
-    "Princess_Elisabeth": C("Halley_Subnet", "Utstein", former=["Princess Elisabeth"], extra=["Utsteinen"],
-                            reader="Princess_Elizabeth", mega="Princess_Elisabeth", concept="Princess_Elisabeth",
+    "Utstein": C("Halley_Subnet", "Utstein", former=["Princess Elisabeth"], extra=["Utsteinen"],
+                            reader="Princess_Elizabeth", mega="Princess_Elisabeth", concept="Utstein",
                             renamed="`DR-38`: formerly Princess Elisabeth"),
     "Sanay": C("Halley_Subnet", "Sanay", reader="Sanay", extra=["SANAE"]),
     "Troll": C("Halley_Subnet", "Troll", reader="Troll", pat=r"\bTroll\b",
@@ -97,18 +97,18 @@ CITY = {
                    ambig="the developer's interim colloquial name `The Temple` is NOT searched (it is an ordinary phrase); the official name is pending"),
     "Mawson": C("Mawson_Subnet", "Mawson", reader="Mawson",
                 ambig="the city and its subnet share the name; hits exclude `Mawson subnet` phrases, but a line may still be about the subnet"),
-    "Sayowa": C("Mawson_Subnet", "Temirotkel", stem="Temirotkel", former=["Sayowa"], extra=["Temirötkel", "Syowa"],
-                reader="Sayowa", mega="Sayowa", concept="Sayowa", renamed="`DR-37`: formerly Sayowa"),
+    "Temirotkel": C("Mawson_Subnet", "Temirotkel", stem="Temirotkel", former=["Sayowa"], extra=["Temirötkel", "Syowa"],
+                reader="Sayowa", mega="Sayowa", concept="Temirotkel", renamed="`DR-37`: formerly Sayowa"),
     # Palmer subnet
     "Esperanza": C("Palmer_Subnet", "Esperanza", reader="Esperanza"),
-    "Juan_Carlos": C("Palmer_Subnet", "Pergamino", former=["Juan Carlos"], reader="Juan_Carlos", mega="Juan_Carlos",
-                     concept="Juan_Carlos", renamed="`DR-41`: formerly Juan Carlos"),
+    "Pergamino": C("Palmer_Subnet", "Pergamino", former=["Juan Carlos"], reader="Juan_Carlos", mega="Juan_Carlos",
+                     concept="Pergamino", renamed="`DR-41`: formerly Juan Carlos"),
     "Marambio": C("Palmer_Subnet", "Marambio", reader="Marambio"),
     "Palmer_City": C("Palmer_Subnet", "Palmer City", extra=["Palmer Station"], reader="Palmer_City"),
-    "Port_Lockroy": C("Palmer_Subnet", "Puerto Abrigo", former=["Port Lockroy"], reader="Port_Lockroy", mega="Port_Lockroy",
-                      concept="Port_Lockroy", renamed="`DR-40`: formerly Port Lockroy"),
+    "Puerto_Abrigo": C("Palmer_Subnet", "Puerto Abrigo", former=["Port Lockroy"], reader="Port_Lockroy", mega="Port_Lockroy",
+                      concept="Puerto_Abrigo", renamed="`DR-40`: formerly Port Lockroy"),
     "Rothera": C("Palmer_Subnet", "Rothera", reader="Rothera"),
-    "Sejong": C("Palmer_Subnet", "Contrapunto", former=["Sejong"], reader="Sejong", mega="Sejong", concept="Sejong",
+    "Contrapunto": C("Palmer_Subnet", "Contrapunto", former=["Sejong"], reader="Sejong", mega="Sejong", concept="Contrapunto",
                 renamed="`DR-43`: formerly Sejong"),
     "Signy": C("Palmer_Subnet", "Signy", reader="Signy"),
     # Mirny subnet, the 38th city (added 2026-10-21; official name confirmed the same day; its pass is not in the November run)
@@ -127,7 +127,7 @@ CITY = {
     "Denison": C("Janbogo_Subnet", "Denison", reader="Denison", existing=True, extra=["Commonwealth Bay"]),
     "Dumont_dUrville": C("Janbogo_Subnet", "Dumont d'Urville", stem="Dumont_dUrville", reader="Dumont_dUrville", existing=True,
                          extra=["Dumont d’Urville", "D10 Skiway", "DdU", "Petrel Island", "Île des Pétrels"]),
-    "Vostok": C("Mirny_Subnet", "Ariun Nuur", stem="Ariun_Nuur", former=["Vostok"], extra=["Vostok Skiway"], reader="Vostok", existing=True,
+    "Ariun_Nuur": C("Mirny_Subnet", "Ariun Nuur", stem="Ariun_Nuur", former=["Vostok"], extra=["Vostok Skiway"], reader="Vostok", existing=True,
                 renamed="`DR-42`: formerly Vostok"),
 }
 for _k, _v in CITY.items():

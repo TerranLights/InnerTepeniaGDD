@@ -130,7 +130,7 @@ Two results kept as findings: **no Western European or American presence at all*
 2. The **only city with no Western European or American presence.**
 3. **One of only two** that fit entirely on rock.
 4. The **emptiest** city in the Federation (2,107/km²), deliberately.
-5. Mirny becomes the largest subnet and holds both extremes: the water-richest and best-fed region alongside the two most marginal settlements (Vostok, Kunlun).
+5. Mirny becomes the largest subnet and holds both extremes: the water-richest and best-fed region alongside the two most marginal settlements (Ariun Nuur (formerly Vostok), Kunlun).
 
 ## 10 · Conflicts and stale lines found (not fixed)
 1. **"Not optional" vs "optional."** Spec Economy/Significance and `Official_Population_Census.md` carry the older `13` §7 framing; `13` (later) and `14` say it is no longer load-bearing but is being founded. See §7.

@@ -17,6 +17,7 @@ not a spec.**
 |---|---|
 | **`Development_Brief.md`** | ⭐ **The substantive document**, assembled 2026-09-01. Site, subnet, the single-approach highway ruling, the food consequence, name candidates, and §5's list of every downstream ripple this city creates. **Read this first.** ⛔ *Its §2 "founding inheritance" was **STRUCK 2026-09-05** — GPS purposes only.* |
 | `README.md` | this index |
+| *(elsewhere)* | Five **stub** files (2026-10-23), pointers only, awaiting the ULM: `City_Vision_Notes/Relung_Panen.md`, `City_Enneagram_Personalities/Mirny_Subnet/Relung_Panen.md`, `Local_Cultures/Mirny_Subnet/Relung_Panen.md`, `Local_Robot_Culture/Mirny_Subnet/Relung_Panen.md`, and the Neo-Races catalog under `Neo-Races-and-Cultures/Mirny_Subnet/Relung_Panen/` |
 
 ---
 

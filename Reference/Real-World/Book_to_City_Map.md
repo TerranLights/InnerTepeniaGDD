@@ -34,7 +34,7 @@ It replaces the old title-based mapping as a *starting list*; it does **not** re
   - 3.88 · Sustainable Supply Chains - [] · {logistics ×260, freight ×67, intermodal ×16, engineering ×35}
   - 3.22 · Global Supply Chain and Operations Management - (2nd Ed) [] · {logistics ×196, freight ×15, intermodal ×5, engineering ×40}
   - 1.38 · Fundamentals of Business Process Management - (2nd Ed) [] · {freight ×7, logistics ×11, engineering ×24}
-- **Sejong** (topics file line 236) — Translation-driven settlement growth — inherited records in one language and newcomers speaking another draw translators, who draw their own networks…
+- **Contrapunto (formerly Sejong)** (topics file line 236) — Translation-driven settlement growth — inherited records in one language and newcomers speaking another draw translators, who draw their own networks…
   - Memes of Translation is wholly about translators and how ideas spread across languages.
   - 3.97 · Memes of Translation - The spread of ideas in translation theory - Andrew Chesterman [1997] · {translators ×247, language ×241, networks ×5, speaking ×11}
   - 2.76 · Forensic DNA Biology-- a Laboratory Manual - Elkins, Kelly M. [2012] · {another draw ×2, inherited ×10, draw ×9, growth ×2}
@@ -101,7 +101,7 @@ It replaces the old title-based mapping as a *starting list*; it does **not** re
 - **Esperanza** (topics file line 206) — Child development in isolated institutional settings
   - 2.73 · Natural Conflict Resolution - Filippo Aureli, Frans De Waal (1st Ed) [2001] · {child development ×49, child ×142, settings ×19, development ×282}
   - 2.68 · Why Chimpanzees Can’t Learn Language And Only Humans Can - Herbert S. Terrace [2019] · {child development ×6, child ×63, settings ×2, development ×50}
-- **Juan Carlos** (topics file line 211) — History of census/vital-records systems and their political weight
+- **Pergamino (formerly Juan Carlos)** (topics file line 211) — History of census/vital-records systems and their political weight
   - 1.73 · Philosophy of Race - Naomi Zack [] · {census ×52, political ×124, weight ×5}
   - 1.62 · Economic Facts and Fallacies - Thomas Sowell (2nd Ed) [2011] · {census ×65, political ×36, weight ×3}
 - **Palmer City** (topics file line 222) — Hedonic/pleasure-city urban planning history
@@ -137,7 +137,7 @@ It replaces the old title-based mapping as a *starting list*; it does **not** re
 - **Dome Fuji** (topics file line 331) — Real Dome Fuji ice-core science — deep ice-core drilling and paleoclimate records, rich source material
   - 3.69 · Food Analysis Laboratory Manual - (3rd Ed) [] · {source material ×26, science ×109, deep ×2, source ×16}
   - 3.23 · Exploration Geophysics (Mamdouh R. Gadallah, Ray Fisher (auth.)) (z-lib.org) · {drilling ×48, dome ×6, records ×47, deep ×28}
-- **Sayowa** (topics file line 337) — Island-junction logistics — East Ongul Island's sea-ice and overland access to the mainland
+- **Temirötkel (formerly Sayowa)** (topics file line 337) — Island-junction logistics — East Ongul Island's sea-ice and overland access to the mainland
   - 2.58 · Global Supply Chain and Operations Management - (2nd Ed) [] · {logistics ×196, mainland ×9, island ×22, east ×18}
   - 2.21 · Ancestral Dna, Human Origins, and Migrations - Rene J Herrera [2018] · {mainland ×29, overland ×3, island ×152, east ×727}
 
@@ -146,29 +146,29 @@ It replaces the old title-based mapping as a *starting list*; it does **not** re
 For these, the top-scoring books are generic hits (e.g., an EU-law text for the Antarctic Treaty, gorilla memoirs for Mount Erebus, a Siberian survival story for Cape Adare and Cape Denison, a relativity manga for the space elevator). Treat these topics as **no book**.
 
 - [Halley] Political science of figurehead/ceremonial authority
-- [Abowasa] Binational/co-founded settlement history — condominium territories, jointly-administered towns
-- [Abowasa] Consociational power-sharing governance models
-- [Abowasa] Intercultural neighborhood sociology at the household level
+- [Santa Luce (formerly Abowasa)] Binational/co-founded settlement history — condominium territories, jointly-administered towns
+- [Santa Luce] Consociational power-sharing governance models
+- [Santa Luce] Intercultural neighborhood sociology at the household level
 - [Belgrano] Rediscovered discipline — newcomers reviving an institution's practices from its surviving records, logs and m
 - [Neumayer] Sociology and history of precision/metrology-obsessed institutions
 - [Princess Elisabeth] Zero-emission/passive Antarctic architecture — the real Princess Elisabeth Antarctica station is literally a z
-- [Princess Elisabeth] Reliability engineering — single points of failure in fragile systems
+- [Utstein (formerly Princess Elisabeth)] Reliability engineering — single points of failure in fragile systems
 - [Sanay] Port/harbor engineering on bedrock vs. ice foundations
 - [Troll] Strategic literature on contested transport chokepoints
 - [Esperanza] Company-town / rotational (FIFO) labor sociology
 - [Esperanza] The real Esperanza Base is the only Antarctic settlement with children actually born there — worth pulling rea
 - [Marambio] Strategic vulnerability of small, concentrated islands
 - [Palmer City] Historiography of single inciting incidents that trigger wars (comparable to WWI assassination literature)
-- [Port Lockroy] Postal service logistics history
+- [Puerto Abrigo (formerly Port Lockroy)] Postal service logistics history
 - [Rothera] Distributed manufacturing and redundant factory siting
 - [Rothera] Subterranean industrial architecture
-- [Sejong] Cohabitation sociology in crowded, multi-national settings
+- [Contrapunto] Cohabitation sociology in crowded, multi-national settings
 - [Signy] Cold-climate bridge engineering
 - [Davis] History of genuinely multi-disciplinary research institutions
 - [Kunlun] High-altitude, extreme-cold engineering — the real Kunlun Station is China's highest Antarctic station
 - [Kunlun] Post-national community formation — craft-guild/professional-identity sociology as a substitute for national i
-- [Vostok] Extremophile biology — life in extreme cold, sealed ecosystems
-- [Vostok] Communities built around inherited records — living with logs, journals and maps left by people they never met
+- [Ariun Nuur (formerly Vostok)] Extremophile biology — life in extreme cold, sealed ecosystems
+- [Ariun Nuur] Communities built around inherited records — living with logs, journals and maps left by people they never met
 - [Janbogo] Katabatic-wind-resistant shielded architecture
 - [Cape Adare] Real Cape Adare/Borchgrevink expedition history — the actual first overwintering site in Antarctica
 - [Cape Adare] Adélie penguin colony ecology — Cape Adare hosts one of the largest real colonies on the continent
@@ -179,7 +179,7 @@ For these, the top-scoring books are generic hits (e.g., an EU-law text for the 
 - [Fort McMurdo] Active-volcano hazard engineering and civil defense — Mt. Erebus is a real, active volcano near the real McMur
 - [Fort McMurdo] Political geography of informal-to-formal capital transitions
 - [Mawson] The real site's physical conditions at Mawson's coordinates — terrain, wind, sea-ice access
-- [Sayowa] Crossroads/waystation town sociology
+- [Temirötkel] Crossroads/waystation town sociology
 - [Byrd] Subterranean/under-ice city engineering
 - [Amundsen-Scott Station] Antarctic Treaty neutrality as a governance model — the treaty's own provisions, not any station's operating h
 - [Amundsen-Scott Station] Space elevator / space-fountain engineering theory — directly ties to the existing Amundsen Tower project note
@@ -201,7 +201,7 @@ For these, the top-scoring books are generic hits (e.g., an EU-law text for the 
 Their own wording describes a war, ruin or destruction, so they sit outside the Second Interwar default scope.
 
 - [Sanay] (line 196) Real case studies of port cities surviving wartime due to geographic/geological advantage
-- [Juan Carlos] (line 212) Real historical cases of record-keeping institutions destroyed specifically to erase what they held
+- [Pergamino] (line 212) Real historical cases of record-keeping institutions destroyed specifically to erase what they held
 - [Janbogo] (line 291) Survivor's-guilt / witness-community trauma — real literature on communities that survive while neighbors are
 - [Zukelli] (line 321) Sanctuary-town history — real case studies of towns destroyed/punished for harboring refugees
 - [Byrd] (line 343) Single-supply-corridor logistics vulnerability — real besieged-city/lifeline-route history
@@ -212,7 +212,7 @@ These need OCR before they can be screened. Most are physics/music/Sowell/Schope
 
 ## 7. Cross-check against `Book_Extraction_Index.md`
 - **Already extracted:** *Environmental Science Demystified* (own file; Davis greenhouse and glaciology topics). Do not re-mine for those topics.
-- **Screened once, not mined:** *Micrometeorology*, *Exploration Geophysics* and *Hydrothermal Processes and Mineral Systems* were looked at inside the Davis geosciences folder as "general-purpose field texts" (Micrometeorology rated low). They were **not** read for Mirny's katabatic winds or Vostok's lake — the leads above are new uses.
+- **Screened once, not mined:** *Micrometeorology*, *Exploration Geophysics* and *Hydrothermal Processes and Mineral Systems* were looked at inside the Davis geosciences folder as "general-purpose field texts" (Micrometeorology rated low). They were **not** read for Mirny's katabatic winds or Ariun Nuur's lake — the leads above are new uses.
 - **Not in the index at all:** every other book named in section 1. None has been mined.
 - The TOC master reference lists the Korea, Shinto, Latin America, Mexico, Sowell and *Maps and Memes* books (table of contents only); it has no entry for the supply-chain, robotics, life-cycle, translation or sustainability texts.
 

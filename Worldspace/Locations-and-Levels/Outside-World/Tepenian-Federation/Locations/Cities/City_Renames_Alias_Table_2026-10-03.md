@@ -42,6 +42,22 @@ Derived names: **the Temirötkel Junction** (was the Sayowa Junction) · **the T
 | `Cities/Bunger_Hills_City/` (README, Development_Brief, Climate, ULM_Input_Status) | `Cities/Relung_Panen/` |
 | `Cities/Bunger_Hills_City_Dossier_2026-10-03.md` | `Cities/Relung_Panen_Dossier_2026-10-03.md` |
 
+### 3b · Pass-record and concept-art folders (renamed 2026-10-23, developer-approved)
+
+Each pair moved with `git mv`; the 22 files inside each pass folder are unchanged except that their own path citations were re-pointed. **Records written before 2026-10-23 may still cite the old paths; use this table.** `Tools/build_pretrip.py` now keys these cities by the new folder names (`--city Santa_Luce`, etc.).
+
+| Old folder (under `City_Development_Passes/` and `City_Concept-Art/`) | New folder |
+|---|---|
+| `Halley_Subnet/Abowasa/` | `Halley_Subnet/Santa_Luce/` |
+| `Halley_Subnet/Princess_Elisabeth/` | `Halley_Subnet/Utstein/` |
+| `Mawson_Subnet/Sayowa/` | `Mawson_Subnet/Temirotkel/` |
+| `Mirny_Subnet/Vostok/` | `Mirny_Subnet/Ariun_Nuur/` |
+| `Palmer_Subnet/Juan_Carlos/` | `Palmer_Subnet/Pergamino/` |
+| `Palmer_Subnet/Port_Lockroy/` | `Palmer_Subnet/Puerto_Abrigo/` |
+| `Palmer_Subnet/Sejong/` | `Palmer_Subnet/Contrapunto/` |
+
+The megasheet folders (`City_Megasheets/...`) and `Background-Lore/Cities/...` keep their old names until the megasheets are rewritten.
+
 File names use plain ASCII (`Temirotkel`); the official romanization in text is **Temirötkel**.
 Path references to these files in the living reference docs were updated (Developer_Ruling_Queue, Extent_and_Density_Per_City, Extent_and_Area_APPROACH). **References in the records below still use the old paths** and will not resolve; use this table.
 
