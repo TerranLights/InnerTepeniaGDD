@@ -3,6 +3,10 @@
 > ⚠ **DRAFT — Tier C + Tier U.** Merged per the Field Guide's consolidation of Step 0 / Phase 0 (identical underlying facts). **Feeds `00_Frame.md` when Scott's own Step 0 runs.** It carries only what a source already states directly.
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+
+
+
 
 | Category | Value | Citation |
 |---|---|---|

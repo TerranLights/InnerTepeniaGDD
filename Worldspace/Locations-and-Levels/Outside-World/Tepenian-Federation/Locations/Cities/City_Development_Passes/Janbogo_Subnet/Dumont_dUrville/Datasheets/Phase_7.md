@@ -31,6 +31,8 @@
 > ⚠ **DRAFT — Tier C.** This city's own §24 section in `16_Per_City_Three_Tier_Run.md` is unusually rich and
 > already-determined — extracted directly, not re-derived.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (13 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `16` §24 — this city's own determined sector breakdown | Baseline 48.0% (163,966 workers) · Mandated **4.3%** (14,799 workers) · **FREE 47.7%** (162,794 workers). Distinctive tier 52.0% (177,593 workers): Marine/resource extraction 25% · Technical/scientific 25% · Commercial 20% · Industrial/manufacturing 15% · Education 8% · Other 7% | `16_Per_City_Three_Tier_Run.md` L2427–2436 |

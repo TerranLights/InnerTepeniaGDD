@@ -4,6 +4,8 @@
 > fully extracted and read firsthand — no re-reading needed.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 9), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (3 directly, 1 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Robot_Universals/` — Kunlun mention | Checked, **zero hits for Kunlun** by name across the whole reference | Re-verified this turn |

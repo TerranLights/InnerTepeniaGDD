@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** ⚠ Thin, same as Phase 6.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (1 directly, 1 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` | Checked by name — **zero hits for Denison** | Verified this turn |

@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C.** ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+
 | Category | Value | Citation |
 |---|---|---|
 | Concept-art directory | **Exists, empty** (`.gitkeep` only) — `City_Concept-Art/Mirny_Subnet/Vostok/`. Opened-and-empty is a result | Directory listed 2026-10-01 |

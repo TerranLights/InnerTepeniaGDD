@@ -5,6 +5,8 @@
 > finding.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+
 | Category | Value | Citation |
 |---|---|---|
 | Concept-art directory status | EMPTY — `.gitkeep` only, 1 file total | Re-verified this turn |
@@ -18,6 +20,7 @@
 | Cold-record texture, stated directly, flagged unresolved in-source | *"satellite measurements have suggested temperatures at Dome A approaching −93°C; whether Kunlun holds or contests the absolute cold record with Ariun Nuur is TBD for Tepenian lore"* | `Specs/Kunlun.md` L141 |
 | Population/species texture, developer vision, stated directly | *"Robot-majority or robot-only city: given the altitude effects on humans, Kunlun may be effectively a robot city… the human population, if any remains, would be at minimum reduced to those few individuals whose physiology has adapted or who are sustained by medical infrastructure."* ⚠ Read this as design/gameplay-note framing, not a settled Second-Interwar civic fact — Kunlun's own settled Second-Interwar population is 0 humans / 123,449 robots per the resolved figures above, not an open question | `Specs/Kunlun.md` L147 |
 | Observatory facility texture, stated directly | *"The exceptional sky stability makes Kunlun's observatory one of the few locations in Tepenia with access to deep space observation"* | `Specs/Kunlun.md` L148 |
+| Concept-art directory status | EMPTY — `.gitkeep` only, 1 file(s) total | Checked 2026-10-23: `City_Concept-Art/` |
 
 **Not mechanical / not included here:** the four sensory sub-fields worked as this phase's own synthesis
 (sound/smell/feel/first impressions, distinct from each other), the public/institutional split, the seam

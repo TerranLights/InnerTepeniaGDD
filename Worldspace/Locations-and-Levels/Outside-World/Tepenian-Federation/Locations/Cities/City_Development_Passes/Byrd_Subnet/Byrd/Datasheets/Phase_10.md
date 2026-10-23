@@ -3,6 +3,8 @@
 > ⚠ **DRAFT — Tier C + Tier U.** A hit in characters canon is a lead, not a verdict: check the actual sentence (a `<City> Subnet` qualifier names a different city).
 > ⚠ **Ambiguous name:** the name is shared with the subnet and with Richard Byrd; hits exclude `Byrd subnet` phrases only. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|

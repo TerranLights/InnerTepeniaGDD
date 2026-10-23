@@ -5,6 +5,10 @@
 > ⚠ **DRAFT — Tier C + Tier U.**
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites).
+
+
+
 
 | Category | Value | Citation |
 |---|---|---|

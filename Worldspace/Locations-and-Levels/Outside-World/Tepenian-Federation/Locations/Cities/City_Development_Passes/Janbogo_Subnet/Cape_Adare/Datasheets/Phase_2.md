@@ -7,6 +7,8 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 4 of 4** — GPS law · Falkland Treaty · Census · the sequencing ruling (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L408–414).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Composition tier table | Primary: China, USA · Significant: Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* · Notable: Philippines, Malaysia, New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)*, Chile | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Janbogo subnet/Cape_Adare.md` L18–22, cross-verified against `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` L262–266 — exact match |

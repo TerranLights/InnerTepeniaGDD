@@ -6,10 +6,21 @@
 > founding narrative, and notable-figures content living in the same Specs file belongs to later phases and is
 > NOT pulled in here.
 
+
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L20 |
+| ↳ README.md | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `…/Worldspace/Locations/README.md` L29 |
 | `Access type:` | `ON` — not yet tested for meaning in contract | `Specs/Casey.md` L6 |
 | Climate — annual mean temperature | **−9.3 °C** (BAS READER, 1991–2020 WMO standard normal, 30 years; full record 1959–2026) | `Specs/Casey.md` L66 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Casey Station Skiway \| Casey Station \| Australia \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L18 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Wilkins Aerodrome (Wilkins Runway) \| Casey Station \| Australia \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L68 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 23 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | Climate — monthly means (°C), from the Monthly Summary table's own "Mean" column | Jan −0.3 · Feb −2.7 · Mar −7.2 · Apr −11.1 · May −14.7 · Jun −14.4 · Jul −14.7 · Aug −14.9 · Sep −13.8 · Oct −11.6 · Nov −5.3 · Dec −1.2 | `Specs/Casey.md` L101–114 |
 | Climate — record extremes | Stated headline: low ≈ **−37 °C**, high ≈ **+9 °C** (rare summer peak) · monthly table's own most extreme values: Rec Low −37.5 °C (Aug), Rec High +9.2 °C (Jan) | `Specs/Casey.md` L68, L103–114 |
 | Climate — winds | Katabatic from the SE (off the interior ice sheet) combined with coastal westerly storm systems; average **7–10 m/s**; strong gust events common; moderate storm frequency | `Specs/Casey.md` L69 |

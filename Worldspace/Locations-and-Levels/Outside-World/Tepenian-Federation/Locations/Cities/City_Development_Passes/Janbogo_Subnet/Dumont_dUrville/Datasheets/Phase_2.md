@@ -4,6 +4,8 @@
 > extractions — see `Corpus_Reference_Sheets/`. No secondhand citation anywhere in this file.
 > ⛔⛔ No Long Night War / post-war content appears below.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Composition tier table | Primary: China, USA · Significant: Japan, France, South Korea, Indonesia, Australia *(founding wave)* · Notable: Thailand, Vietnam, Philippines, Malaysia, New Zealand | `Specs/Dumont_dUrville.md` L46–50, cross-verified against `Official_Population_Census.md` L280–284 — exact match |

@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|

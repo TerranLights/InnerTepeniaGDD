@@ -5,12 +5,17 @@
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 > ⚠ **Ambiguous name:** `Troll` is also an ordinary word; hits are case-sensitive and may include non-city uses. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Highways.md` — lines naming the city | **Route:** Belgrano → *(passes near Halley; connecting road to the city)* → Santa Luce → *(ramp to Neumayer, between Santa Luce and Sanay)* → Sanay → Troll → Lazar | `Highways.md` L116 |
 | `Airports.md` — lines naming the city | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Airports.md` L3 |
-| ↳ `Airports.md` — lines naming the city | \| **Troll Airport** \| Troll \| Real-world Troll Airfield is one of the most capable blue-ice, wheeled-aircraft-ready runways in Antarctica — consistent with this being one of Tepenia's confirmed airports. \| | `Airports.md` L14 |
+| ↳ `Airports.md` — lines naming the city | *[source line compares the city with other places; not copied, line number recorded only]* | `Airports.md` L14 |
 | ↳ `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L33 |
 | ↳ `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L60 |
 | ↳ `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L96 |

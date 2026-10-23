@@ -3,6 +3,10 @@
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Byrd's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 > ⚠ **Ambiguous name:** the name is shared with the subnet and with Richard Byrd; hits exclude `Byrd subnet` phrases only. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
@@ -28,6 +32,10 @@
 | READER — full data range | 1957–2026 | `READER/Byrd.md` L7 |
 | READER — annual mean temperature | N/A°C | `READER/Byrd.md` L8 |
 | READER — monthly table, row 1 | Jan N/A · Feb N/A · Mar N/A · Apr N/A · May N/A · Jun N/A · Jul N/A · Aug N/A · Sep N/A · Oct N/A · Nov N/A · Dec N/A · Annual N/A | `READER/Byrd.md` L12, L14 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Byrd Surface Skiway \| Marie Byrd Land \| United States \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L16 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Siple Dome Skiway \| Marie Byrd Land \| United States \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L60 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Antarctic_Stations_With_Airstrips.md` L95 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 6, 70 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Byrd · Subnet: Byrd · D: 1.67 · Workforce: 283,756 · base%: 36.2% · MAND%: 35.1% · FREE%: 28.7% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L255 (header L247, row L255) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Byrd`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Byrd · **Subnet:** Byrd · **Solar UTC:** −8 · **Status:** ✅ · **Founders:** A joint team of first-wave Tepenians from the Peninsula (the Palmer subnet) and the Halley coast (the Halley subnet)**; **not** founded by any Upper-Earth country · **Basis:** Developer ruling. The zone test does not apply: the founders are Tepenian, not a foreign nation. The spec's "American exiles" is superseded. · **Source:** `DR-44` · **Not founders:** American | `Founding_Register.md` L74 |

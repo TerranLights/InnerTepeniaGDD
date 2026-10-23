@@ -9,6 +9,8 @@
 > ⚠ **DRAFT — Tier C.**
 > ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Halley subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
@@ -16,7 +18,9 @@
 | `16` — other lines naming the city (per-city passages and tables) | 31 line(s): L53, L80, L113, L173, L208, L252, L254, L262, L264, L272, L277, L283, L298, L517, L519, L619, L623, L626–627, L631, L639, L669–670, L869, L890, L930, L1347, L1411, L2302, L2536, L3205 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L53, L80, L113, L173, L208, L252, L254, L262, L264, L272, L277, L283, L298, L517, L519, L619, L623, L626–627, L631, L639, L669–670, L869, L890, L930, L1347, L1411, L2302, L2536, L3205 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Halley \| . \| . \| . \| . \| . \| . \| **6/6** \| | `Division_of_Industry_Sweep_2026-08-31.md` L147 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L187 |
+| `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |
 | `Theoretical-Calculations/` — files naming the city | `Amundsen_Tower_Space_Fountain_Design.md` L970, L972, L1023 *(line numbers only: the lines list other cities too)* | `Theoretical-Calculations/` |
+| `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_Second_Interwar.md` L61, L63, L71, L73, L167, L201; `Cross_City_Cultural_Patterns.md` L24 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
 | MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **11 of 11** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |

@@ -89,7 +89,7 @@ CITY = {
     "Janbogo": C("Janbogo_Subnet", "Janbogo", extra=["Jang Bogo"], reader="Janbogo",
                  ambig="the city and its subnet share the name; hits exclude `Janbogo subnet` phrases, but a line may still be about the subnet"),
     "Scott": C("Janbogo_Subnet", "Scott", extra=["Scott Base"], reader="Scott",
-               pat=r"(?<!Amundsen-)(?<!Captain )(?<!Robert Falcon )\bScott\b(?! Polar)(?!'s [Hh]ut)",
+               pat=r"(?<!Amundsen-)(?<!Amundsen–)(?<!Amundsen—)(?<!Captain )(?<!Robert Falcon )\bScott\b(?! Polar)(?!'s [Hh]ut)",
                ambig="`Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line"),
     "Zukelli": C("Janbogo_Subnet", "Zukelli", extra=["Zucchelli"], reader="Zukelli"),
     # Mawson subnet

@@ -5,6 +5,10 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage (Phase 1): 6 of 6** — location canon · Specs (incl. `Access type:`) · energy grid · climate · stations · `16` Half B (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L327–337).
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Access type:` | `SPUR` | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Janbogo subnet/Zukelli.md` L6 |

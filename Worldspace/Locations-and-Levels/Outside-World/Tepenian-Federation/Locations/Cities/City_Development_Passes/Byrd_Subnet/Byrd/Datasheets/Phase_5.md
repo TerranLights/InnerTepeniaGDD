@@ -5,9 +5,15 @@
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 > ⚠ **Ambiguous name:** the name is shared with the subnet and with Richard Byrd; hits exclude `Byrd subnet` phrases only. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | 3. **Subnet Ultra-Megasheets** (`.../City_Megasheets/<Subnet>/<Subnet>_Subnet_Ultra_Megasheet/`) — one per subnet, synthesizing that subnet's own cities. Byrd is a single-city subnet, so its own City Megasheet stands in for a Subnet Ultra-Megasheet. | `…/Worldspace/Locations/README.md` L11 |
+| ↳ README.md | 5. **Super-Ultra-Megasheet** (`Worldspace/Locations-and-Levels/Super_Ultra_Megasheet/`) — the whole game-world treated as one subject: all 5 Subnet Ultra-Megasheets, Byrd, Concordia's Ultra-Megasheet, Amundsen Station, and nationwide census data, plus cross-regional Patterns/Throughways documents. Marked tentative in places pending still-open city-level decisions (e.g. Byrd's own central conflict). | `…/Worldspace/Locations/README.md` L13 |
+| ↳ README.md | - **Byrd** — single-city subnet | `…/Worldspace/Locations/README.md` L22 |
 | `Highways.md` — lines naming the city | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Highways.md` L5 |
 | ↳ `Highways.md` — lines naming the city | \| **1** \| Esperanza \| Byrd *(connects directly to Hwy 22's endpoint)* \| | `Highways.md` L55 |
 | ↳ `Highways.md` — lines naming the city | \| **22** \| Byrd *(connects directly to Hwy 1's endpoint)* \| Zhongshan/Sinheung/Shirayuki tri-junction *(with Hwy 4 and Hwy 110 endpoints)* \| | `Highways.md` L60 |

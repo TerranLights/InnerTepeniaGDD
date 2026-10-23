@@ -2,9 +2,15 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Temirotkel's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | - **Mawson subnet:** Dome Fuji, Mawson, Sayowa | `…/Worldspace/Locations/README.md` L19 |
 | `Access type:` | SPUR | `Specs/Temirotkel.md` L9 |
 | Spec climate — climate data source | Japanese Antarctic Research Expedition (JARE) / NIPR — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Temirotkel.md` L157 |
 | Spec climate — climate type | East Antarctic island coast — Lützow-Holm Bay influence; sea ice dominant in winter; similar latitude to the Halley subnet coastal cities but slightly different ocean exposure | `Specs/Temirotkel.md` L159 |
@@ -26,6 +32,8 @@
 | READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Sayowa.md` L6 |
 | READER — full data range | 1957–2026 | `READER/Sayowa.md` L7 |
 | READER — annual mean temperature | -10.5°C | `READER/Sayowa.md` L8 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Showa (Syowa) Skiway \| East Ongul Island \| Japan \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L59 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 53 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Sayowa · Subnet: Mawson · D: 1.43 · Workforce: 178,698 · base%: 39.3% · MAND%: 33.4% · FREE%: 27.3% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L253 (header L247, row L253) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Temirotkel`, `Sayowa`, `Temirötkel`, `Syowa`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Temirötkel · **Subnet:** Mawson · **Solar UTC:** +3 · **Status:** ✅ · **Founders:** First established by the CIN or by Kazakhstan** (which of the two: open); then **industrialized primarily by Kazakh industrialists**, who made it the heavy-industry and shipping city it is in the Second Interwar Period · **Basis:** Time-zone proximity: *"near-perfect alignment"* (the CIN ≈ +1…+2, Kazakhstan ≈ +3…+6) · **Source:** `DR-30` · **Not founders:** Japanese | `Founding_Register.md` L55 |

@@ -2,9 +2,17 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Contrapunto's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **2 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ Juan_Carlos.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/Juan_Carlos.md` L13 |
+| ↳ Juan_Carlos.md | Not yet established here. Livingston Island's relative quiet — fewer immediate neighboring cities than its South Shetland neighbor Sejong — plausibly gave its community more room to develop independently, but no specific in-world institution, cuisine, or civic tradition is confirmed canon in this repo. See `Reference/No_National_Stereotypes.md` for why this section stays deliberately minimal rather than porting over InnerTepeniaGDD's own now-corrected Spain-inheritance framing for this city — if this city's own culture is developed later, it should be built from its own established circumstances (isolation, geography, founding-era pressures), not derived from or echoing any real-world national tradition. | `…/Worldspace/Locations/Juan_Carlos.md` L17 |
+| ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Access type:` | NONE | `Specs/Contrapunto.md` L8 |
 | Spec climate — climate data source | Korea Polar Research Institute (KOPRI) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1988–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Contrapunto.md` L79 |
 | Spec climate — climate type | Maritime sub-Antarctic — the mildest Tepenian climate; strong maritime influence; above-freezing temperatures common in summer; significant cloud cover and precipitation | `Specs/Contrapunto.md` L81 |

@@ -9,6 +9,8 @@
 > ⚠ **DRAFT — Tier C.**
 > ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Mawson subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
@@ -18,7 +20,9 @@
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | > (120%)**. **Both were false positives of my own regex** — Mawson's hospitality entry is formatted | `Division_of_Industry_Sweep_2026-08-31.md` L25 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | - **Mawson — `Hospitality / honeymoon tourism: 10%`.** Specific but *sector-shaped*, and sized modestly. | `Division_of_Industry_Sweep_2026-08-31.md` L76 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | \| Mawson \| Y \| . \| . \| . \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L161 |
+| `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |
 | `Theoretical-Calculations/` — files naming the city | `Amundsen_Tower_Space_Fountain_Design.md` L992 *(line numbers only: the lines list other cities too)* | `Theoretical-Calculations/` |
+| `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_Second_Interwar.md` L31, L33, L43, L47, L53, L57, L143, L147, L151; `Cross_City_Cultural_Patterns.md` L61, L68 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
 | MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **11 of 11** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |

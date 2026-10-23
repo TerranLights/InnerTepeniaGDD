@@ -2,9 +2,15 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Santa Luce's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Santa_Luce.md` L8 |
 | Spec climate — climate data source | Finnish Antarctic Research Program (FINNARP) / Swedish Polar Research Secretariat — Aboa/Wasa stations; both seasonal-use only, despite year-round-capable construction (see Geographic Basis above); limited climate record | `Specs/Santa_Luce.md` L77 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Santa_Luce.md` L79 |

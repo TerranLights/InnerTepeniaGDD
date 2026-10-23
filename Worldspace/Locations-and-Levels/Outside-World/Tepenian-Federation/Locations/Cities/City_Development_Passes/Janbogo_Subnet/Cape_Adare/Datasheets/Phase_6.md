@@ -4,6 +4,8 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 4 of 4** — robot religions · National Holidays · Ice-Cold Buddhism research · the mortuary question (RESERVED) (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L759–765).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/Robot_Religions/` — full sweep | **Six folders, six files, enumerated directly** (Cymatics_reverence · God-mind_universe_simulation · Ice-Cold_Buddhism · Polydimensional_Animism · Sylvester_James_Gates_Adinkras · The_Eyes_of_Gold). **Zero hits** for "Cape Adare", "Carsten" or "Borchgrevink" in any of them — a zero match for one city's name is a legitimate result | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/Robot_Religions/` — re-verified 2026-09-30 |

@@ -2,6 +2,10 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Palmer City's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
@@ -27,6 +31,8 @@
 | READER — full data range | 1976–2026 | `READER/Palmer_City.md` L7 |
 | READER — annual mean temperature | -1.7°C | `READER/Palmer_City.md` L8 |
 | READER — monthly table, row 1 | Jan +2.2 · Feb +1.9 · Mar +1.0 · Apr -0.8 · May -2.1 · Jun -4.1 · Jul -5.3 · Aug -5.9 · Sep -4.9 · Oct -2.6 · Nov -0.5 · Dec +1.1 · Annual -1.7 | `READER/Palmer_City.md` L12, L14 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city | Checked by name (`Palmer City`, `Palmer Station`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | Checked by name: **zero pages** | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Palmer City · Subnet: Palmer · D: 1.11 · Workforce: 249,852 · base%: 39.1% · MAND%: 0.0% · FREE%: 60.9% · src: – | `16_Per_City_Three_Tier_Run.md` L247, L284 (header L247, row L284) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Palmer City`, `Palmer Station`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Palmer City · **Subnet:** Palmer · **Solar UTC:** −4 · **Status:** ✅ · **Founders:** Three groups united by relationship to robots: exiled robots, human partners, human ideological supporters — **not by nationality · **Basis:** Founding of the Federation itself; settled 2564-06-21 (`DR-16`) · **Source:** `Specs/Palmer subnet/Palmer_City.md` L218; `DR-16`, `DR-44` · **Not founders:** — | `Founding_Register.md` L38 |

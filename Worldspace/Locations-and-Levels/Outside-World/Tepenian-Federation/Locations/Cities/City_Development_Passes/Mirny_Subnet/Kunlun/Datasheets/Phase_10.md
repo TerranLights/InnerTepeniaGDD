@@ -4,6 +4,8 @@
 > ⛔ **Excluded sections — see `Step_-1.md`.** Calethina's own character file carries substantial excluded
 > later-era content surrounding her build chain — excluded per the row below.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Characters canon — Kunlun-tagged characters | **RUN, not asserted zero. 3 files matched "kunlun":** Calethina's README + Formative_History, and Vosora Lashár Tanslock's README | Re-verified this turn: `grep -rl -i kunlun` against `TepenianUniverseTimeline/Worldspace/Characters/` |

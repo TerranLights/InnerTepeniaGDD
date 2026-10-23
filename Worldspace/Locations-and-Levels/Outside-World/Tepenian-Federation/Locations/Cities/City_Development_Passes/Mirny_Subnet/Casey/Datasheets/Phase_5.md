@@ -3,10 +3,16 @@
 > ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS THE SAME FLAGGED CONTAMINATION RISK ALREADY FOUND INDEPENDENTLY ON A
 > DIFFERENT CITY'S OWN PASS — Casey turns out to be a direct party to it, checked here from scratch.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
+
 ## Clean — relation-legal, no withheld source, sourced to Casey's own file or Casey's own outward role
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L20 |
+| ↳ README.md | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `…/Worldspace/Locations/README.md` L29 |
 | Highway routing | Hwy 110: Zhongshan → Davis → Mirny → Casey → Concordia (bare infrastructure fact, the highway's own stated path). Hwy 2/DCH: junction with Hwy 110, at Casey → Dumont d'Urville — Casey is the route's own western origin point | `Infrastructure/Highways.md` L90–92, L199 |
 | `City_Relationship_Database.md` — Casey's own header | Real station: Casey Station (Australia) · Region: East Antarctic coast / Dumont d'Urville Sea area · Arcanet subnet: Mirny ("Australian") — non-hub member · Direct highway neighbors: one subnet neighbor west via Hwy 110, one inland spur via Hwy 110, one cross-subnet neighbor east via Hwy 2 | `City_Relationship_Database.md` L152–160 |
 | Casey's own outward role, already stated in-source | Junction city where Hwy 110 and Hwy 2 meet; gateway between the Mirny subnet coast and the Dumont d'Urville Sea area. Coastal port receiving Australian freighter shipments (raw materials, staged via Hobart) — sits at the overlap of both the Mirny subnet and the Dumont d'Urville Sea supply lines, both of which run through Australia | `City_Relationship_Database.md` L160 |
@@ -15,6 +21,7 @@
 | Casey's own technical-reputation reach, stated as Casey's relation | One cross-subnet link, rated Medium/Infrastructure: a named other city's precision-calibration reputation drew inquiries reaching *"well beyond the Janbogo subnet, including Casey's own technical circles"* | `City_National_Connections.md`, Casey's own §, L291–293 |
 | Airport | **Casey Airport** — a confirmed airport marker; also named among the stations with a genuine real-world airstrip today | `Infrastructure/Airports.md` L47, L51 |
 | Port | **Newcomb Bay** — a small bay on the northeast of Vincennes Bay itself a V-shaped inlet 105 km wide at its mouth; the station stands on the southern side, on the Windmill Islands' rock. ⭐ **GEOLOGICAL** tier (seasonal, free) | `Infrastructure/Ports.md` L537, L709 |
+| `City_Cross_Subnet_Relationships.md` — lines naming the city | 6 line(s): L42, L54, L94, L99, L128, L207 *(line numbers only: this file builds on material withheld by its own stated method)* | `City_Cross_Subnet_Relationships.md` L42, L54, L94, L99, L128, L207 |
 
 ## ⛔⛔ FLAGGED — found, NOT extracted, do not treat as clean fact
 

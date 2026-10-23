@@ -3,6 +3,8 @@
 > ⚠ **DRAFT — Tier U, near-none Tier C per the Field Guide's own prediction.** All Tier U sources fully
 > extracted and read firsthand this session — no re-reading needed for this or any future city.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 9), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (3 directly, 1 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Robot_Universals/` — Mirny mention | Checked, **zero hits for Mirny** by name across the whole reference | Re-verified this turn |

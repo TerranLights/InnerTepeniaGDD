@@ -7,10 +7,14 @@
 > `City_Relationship_Database.md`'s own Notes field for this city is excluded, not quoted (see the flagged row
 > below).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 ## Clean — relation-legal, no withheld source, sourced to this city's own Specs/highway/infrastructure files
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L18 |
 | Highway routing | Hwy 2 (Dumont Coast Highway, "DCH"): junction with Hwy 110 → Casey → Dumont d'Urville (eastern terminus). Hwy 183 (Janbogo Highway): Concordia → ... → Denison → Dumont d'Urville (northern terminus). **Both highways' endpoints connect directly to each other here** — a genuine two-highway junction | `Infrastructure/Highways.md` L56, 65, 88–97, 226–233, 279 |
 | `City_Cross_Subnet_Relationships.md` — direct cross-subnet link | *"Mirny ↔ Janbogo, direct. Hwy 2 runs Casey (Mirny) → Dumont d'Urville (Janbogo) with no intermediate subnet. A short, direct coastal link between two subnets that otherwise read as fairly distant from each other."* | `City_Cross_Subnet_Relationships.md` L42–43 |
 | `City_Cross_Subnet_Relationships.md` — second cross-subnet link | *"Janbogo ↔ Concordia, direct. Hwy 183 runs Concordia to Dumont d'Urville, passing the Janbogo region (via connecting roads to Janbogo, Zukelli, Cape Adare) and Denison directly."* | `City_Cross_Subnet_Relationships.md` L55 |

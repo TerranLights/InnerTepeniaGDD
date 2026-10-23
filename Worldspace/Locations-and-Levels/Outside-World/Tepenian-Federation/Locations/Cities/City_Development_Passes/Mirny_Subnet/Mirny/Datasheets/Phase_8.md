@@ -3,6 +3,8 @@
 > ⚠ **DRAFT — Tier C + Tier U. Thin, per the Field Guide's own prediction — confirmed genuinely thin for
 > Mirny, not merely unsearched.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` — Mirny mention | Checked, **zero hits for Mirny** by name (73-line file) | Re-verified this turn |

@@ -2,9 +2,15 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Signy's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Access type:` | NONE | `Specs/Signy.md` L6 |
 | Spec climate — climate data source | British Antarctic Survey (BAS) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1947–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Signy.md` L175 |
 | Spec climate — climate type | Maritime sub-Antarctic — north of the Antarctic Circle; the mildest climate in the Palmer subnet; oceanic influence dominant; significant precipitation; fog common; strong westerly winds off the Scotia Sea | `Specs/Signy.md` L177 |
@@ -27,6 +33,8 @@
 | READER — full data range | 1947–2026 | `READER/Signy.md` L7 |
 | READER — annual mean temperature | -3.8°C | `READER/Signy.md` L8 |
 | READER — monthly table, row 1 | Jan +1.7 · Feb +1.4 · Mar -0.4 · Apr -1.8 · May -6.5 · Jun -9.8 · Jul -12.5 · Aug -7.9 · Sep -5.6 · Oct -3.9 · Nov -1.0 · Dec +0.9 · Annual -3.8 | `READER/Signy.md` L12, L14 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city | Checked by name (`Signy`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 80 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Signy · Subnet: Palmer · D: 1.25 · Workforce: 142,127 · base%: 41.1% · MAND%: 17.7% · FREE%: 41.2% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L263 (header L247, row L263) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Signy`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Signy · **Subnet:** Palmer · **Solar UTC:** −3 · **Status:** ✅ · **Founders:** South Africa and **Brazil**, jointly (South Africa partly, as ruled in `DR-22`) · **Basis:** Developer ruling (South Africa ≈ 5 zones; the composition file cites the Cape Town–South Orkneys crossing). Brazil: zone gap 0; the nearest large populous Atlantic coast on the Scotia Sea. *(Gateway claim not yet researched.) · **Source:** `DR-22`, `DR-44` · **Not founders:** — | `Founding_Register.md` L45 |

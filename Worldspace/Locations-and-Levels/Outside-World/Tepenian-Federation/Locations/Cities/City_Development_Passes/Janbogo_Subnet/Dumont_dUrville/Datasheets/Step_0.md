@@ -7,6 +7,8 @@
 > ⛔⛔ No Long Night War / post-war content appears below — this frame is scoped to the Second Interwar Period
 > by corpus-wide default.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 201,194 H / 206,807 R / **408,001** combined | `Official_Population_Census.md` L506 — cross-verified against `Specs/Dumont_dUrville.md` L15, exact match |

@@ -17,6 +17,8 @@
 > separately below.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (11 directly, 2 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `16` §23 — Vostok's own determined sector breakdown | Baseline 37.4% (121,353 workers, D=2.50 — ICE-SHEET FORCED IMPORTER, food term at 10%) · Mandated 20.3% (66,007 workers) · **FREE 42.3%** (137,092 workers). Distinctive tier 62.6% (203,100 workers) | `16_Per_City_Three_Tier_Run.md` §23, L2344–2350 |

@@ -4,6 +4,8 @@
 > commit the column is completed. **Never read another city's row, cell, or column — not even to
 > verify a peer's read.**
 
+> ⚠ **DRAFT — Tier C.** The section inventory below is structure copied from the destination table's headers, not another city's answer; this city's own entry is its fresh output.
+
 | Category | Value | Citation |
 |---|---|---|
 | Governing rule | `04_QA_Gates_and_Differentiation.md` Part III (III.0–III.4), full text | `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`, in full |

@@ -3,10 +3,14 @@
 > ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS A FLAGGED CONTAMINATION RISK, THE SAME CLASS FOUND INDEPENDENTLY ON A
 > DIFFERENT CITY'S OWN PASS — checked here again from scratch, not carried over as an assumption.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 ## Clean — relation-legal, no withheld source, sourced to Mirny's own file or Mirny's own outward role
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L20 |
 | Highway routing | Hwy 110: Zhongshan → Davis → Mirny → Casey → Concordia. Endpoints: Zhongshan (northwest) ↔ Concordia (south). Mirny sits at the **midpoint**; direct highway neighbors are the two adjacent stops in each direction | `Infrastructure/Highways.md` L199–201; `City_Relationship_Database.md` L328–329 |
 | `City_Relationship_Database.md` — Mirny's own header | Region: East Antarctic coast · Arcanet subnet: Mirny ("Australian", a geographic nickname only, `DR-13`) — **hub city**. The source's national label for the city rests on the station and is not carried (`DR-19`) | `City_Relationship_Database.md` L323–330 |
 | Mirny's own outward economic role, already stated in-source | Hub port for Australian freighter shipments (raw materials, staged via Hobart/Fremantle) — the primary receiving point for the Mirny/Mawson subnet coastal supply line | `City_Relationship_Database.md` L330, citing `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md` |

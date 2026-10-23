@@ -3,6 +3,9 @@
 > ⚠ **DRAFT — Tier C + Tier U. Partially thin — music is already substantially covered via Splinters (cross-ref
 > `Phase_3.md`/`Phase_7.md`); cuisine, dress, and craft remain genuinely unstated, verified not assumed.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
+
+
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` — Casey mention | Checked, **zero hits for Casey** by name | Re-verified this turn |

@@ -8,11 +8,17 @@
 > stated fact, and is NOT pulled in here.
 > ⛔⛔ No Long Night War / post-war content appears below.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Access type:` | `ON` — not yet tested for meaning in contract | `Specs/Dumont_dUrville.md` L6 |
 | Climate data source (as stated) | Institut polaire français Paul-Émile Victor (IPEV) — BAS READER, 1991–2020 WMO standard normal (30 years), full record 1956–2026 | `Specs/Dumont_dUrville.md` L89 |
 | Climate — annual mean temperature | **−11.0 °C** | `Specs/Dumont_dUrville.md` L94; cross-verified against `Climate Data/READER/Dumont_dUrville.md` L8 — exact match, both sources |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| D10 Skiway \| Dumont d'Urville Station \| France \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L20 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 46 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | Climate — monthly means (°C) | Jan −1.0 · Feb −4.4 · Mar −9.3 · Apr −13.5 · May −16.1 · Jun −16.7 · Jul −16.9 · Aug −16.6 · Sep −15.8 · Oct −13.2 · Nov −6.4 · Dec −1.6 | `Specs/Dumont_dUrville.md` L120–131 (Monthly Summary table, "Mean" column) |
 | Climate — record extremes | Record low **~−40 °C** · Record high **~+9 °C** | `Specs/Dumont_dUrville.md` L96 |
 | Climate — winds | Katabatic from the south off the East Antarctic plateau; mean annual wind speed **~8–12 m/s** at the island site; frequent severe events **30–50 m/s** | `Specs/Dumont_dUrville.md` L97 |

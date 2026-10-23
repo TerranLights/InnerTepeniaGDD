@@ -3,6 +3,10 @@
 > ⚠ **DRAFT — Tier C.** Every directory actually enumerated, not assumed empty (the Field Guide's warning about unverified "empty" claims).
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+
+
+
 
 | Category | Value | Citation |
 |---|---|---|

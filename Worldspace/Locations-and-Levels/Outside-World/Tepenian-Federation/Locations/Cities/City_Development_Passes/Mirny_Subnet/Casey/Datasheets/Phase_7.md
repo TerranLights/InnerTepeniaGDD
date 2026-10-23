@@ -44,6 +44,9 @@
 > ⚠ **ONE LOCATION:** the Sweep's corpus-wide tallies are not Casey facts. **Use Casey's own row (6 of 6
 > absent) only.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (13 directly, 0 through a shared Tier U sheet it cites).
+
+
 | Category | Value | Citation |
 |---|---|---|
 | `16` §21 — Casey's own determined sector breakdown | Baseline 38.7% (436,698 workers, D=1.11, **GROWER** — Bailey Peninsula-adjacent, Wilkes Land coast) · Mandated 18.4% (207,641 workers) · **FREE 42.9%** (484,495 workers). Distinctive tier 61.3% (692,136 workers), broken down: Transit/logistics/resupply ~30% · Commercial ~20% · Technical/scientific ~15% · Maritime ~15% · Industrial/manufacturing ~10% · Other ~10% | `16_Per_City_Three_Tier_Run.md` L2180–2185 |

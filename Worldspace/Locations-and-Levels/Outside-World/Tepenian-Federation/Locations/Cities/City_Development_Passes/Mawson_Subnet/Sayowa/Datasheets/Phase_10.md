@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** A hit in characters canon is a lead, not a verdict: check the actual sentence (a `<City> Subnet` qualifier names a different city).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|

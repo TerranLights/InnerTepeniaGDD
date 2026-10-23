@@ -4,6 +4,10 @@
 > (Step 1) and `02_Spine.md` (Step 2) when Vostok's own pass actually runs.**
 > ⛔ **Excluded sections — see `Step_-1.md`.** Nothing below cites them.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Access type:` | `ON` | `Specs/Mirny subnet/Ariun_Nuur.md` L8 |

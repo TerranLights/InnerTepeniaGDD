@@ -3,9 +3,17 @@
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Scott's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
+
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L18 |
 | `Access type:` | SPUR | `Specs/Scott.md` L6 |
 | Spec climate — climate data source | Antarctica New Zealand — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Scott.md` L81 |
 | Spec climate — climate type | Continental polar, Ross Ice Shelf exposure — the same island as Fort McMurdo, the colder side of it | `Specs/Scott.md` L92 |
@@ -27,6 +35,11 @@
 | READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Scott.md` L6 |
 | READER — full data range | 1957–2026 | `READER/Scott.md` L7 |
 | READER — annual mean temperature | -19.6°C | `READER/Scott.md` L8 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| McMurdo Ice Runway \| McMurdo Station / Scott Base \| US / New Zealand \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L36 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Pegasus Field \| McMurdo Station / Scott Base \| US / New Zealand \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L45 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Phoenix Airfield \| McMurdo Station / Scott Base \| US / New Zealand \| Compacted Snow \| | `Antarctic_Stations_With_Airstrips.md` L48 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Williams Field \| McMurdo Station / Scott Base \| US / New Zealand \| Snow \| | `Antarctic_Stations_With_Airstrips.md` L69 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 45, 55 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Scott · Subnet: Janbogo · D: 1.25 · Workforce: 291,102 · base%: 41.0% · MAND%: 2.9% · FREE%: 56.0% · src: H | `16_Per_City_Three_Tier_Run.md` L247, L279 (header L247, row L279) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Scott`, `Scott Base`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Scott · **Subnet:** Janbogo · **Solar UTC:** +11 · **Status:** ✅ · **Founders:** New Zealand · **Basis:** Geography/access: zone gap 0; New Zealand's Canterbury coast is the nearest populous gateway to the Ross Sea. *(Gateway claim not yet researched.) · **Source:** `DR-34` · **Not founders:** — | `Founding_Register.md` L70 |

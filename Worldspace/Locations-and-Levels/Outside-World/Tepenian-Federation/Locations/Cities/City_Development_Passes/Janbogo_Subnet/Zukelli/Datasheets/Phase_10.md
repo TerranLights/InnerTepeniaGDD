@@ -5,6 +5,8 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 4 of 4** — Characters canon · Enneagram index · Zodiac Lens (full-attributes file AND substrate folder) · no invented names (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L1109–1115).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Characters canon — a confirmed resident | **TBN [TCY-45 heavenly summertime Momo]** — her Second Interwar history places her in Zukelli (*"Zukelli — where it worked"*). Her later events are **excluded**; her file's description of the city's civic life is drawn from culture material and **not transcribed** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [TCY-45 heavenly summertime Momo]/Personal_Background/PreWar_History.md` L98–100; `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [TCY-45 heavenly summertime Momo]/Personal_Background/Timeline.md` L33 |

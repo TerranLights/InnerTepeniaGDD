@@ -2,6 +2,10 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Pergamino's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
@@ -23,6 +27,8 @@
 | Spec climate — summer solstice daylight maximum | approximately 20.1 hours | `Specs/Pergamino.md` L112 |
 | READER — climate authority | Spanish Antarctic Program — Juan Carlos I Station *(AWS year-round; manual observations in summer)* | `READER/Juan_Carlos.md` L7 |
 | READER — monthly table, row 1 | Jan +1.9 · Feb +1.7 · Mar +0.8 · Apr -1.2 · May -2.7 · Jun -4.9 · Jul -5.5 · Aug -5.3 · Sep -3.9 · Oct -2.1 · Nov -0.4 · Dec +0.8 · Annual -1.7 | `READER/Juan_Carlos.md` L30, L32 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city | Checked by name (`Pergamino`, `Juan Carlos`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 28, 74, 75 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Juan Carlos · Subnet: Palmer · D: 1.15 · Workforce: 291,821 · base%: 39.3% · MAND%: 18.2% · FREE%: 42.5% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L265 (header L247, row L265) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Pergamino`, `Juan Carlos`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Pergamino · **Subnet:** Palmer · **Solar UTC:** −4 · **Status:** ✅ · **Founders:** A primarily Anglo-Latin society of immigrants from the Americas (`DR-20`); **first founders: Uruguay**, with the later Anglo and Latin additions of that ruling · **Basis:** Geography/access: zone gap 0; the Río de la Plata is the Atlantic-side gateway to the South Shetlands. *(Gateway claim not yet researched.) · **Source:** `DR-20`, `DR-34` · **Not founders:** Spanish | `Founding_Register.md` L42 |

@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Characters canon — Mirny-tagged characters | **RUN, not asserted zero. Two files matched "mirny" — both FALSE POSITIVES, and of a different shape than the usual name-collision trap:** Calethina's and Ji-Eun Kim's own background files both say a location is in **"Mirny Subnet"** — but naming a *different* city (Kunlun; Zhongshan) that happens to sit in that subnet, not Mirny the city itself. **Zero actual character-canon hits for Mirny** | Re-verified this turn: `grep -rl -i mirny` against `TepenianUniverseTimeline/Worldspace/Characters/`, both hits checked in full sentence context |

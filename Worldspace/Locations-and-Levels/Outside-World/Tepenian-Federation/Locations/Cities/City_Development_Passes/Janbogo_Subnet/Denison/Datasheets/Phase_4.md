@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (3 directly, 4 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `09` §2 workforce-requirement row | D (difficulty) **2.00** · Census I workforce basis **522,975** · Census I combined **1,066,143** *(pre-15%-reduction figure; the folder's own row predates the 2026-09-05 extent-driven reduction to 906,222 — flagged, not reconciled here)* · burden **357,356** · workforce **804,656** · base% **44.4%** | `Division_of_Industry/09_Per_City_Baseline_Run.md` L56 |

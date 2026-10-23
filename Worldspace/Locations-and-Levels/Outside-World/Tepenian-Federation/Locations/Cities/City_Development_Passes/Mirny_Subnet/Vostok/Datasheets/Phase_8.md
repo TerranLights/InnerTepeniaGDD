@@ -4,6 +4,8 @@
 > Vostok, not merely unsearched.**
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` — Vostok mention | Checked, **zero hits for Vostok** by name (73-line file) | Re-verified this turn |

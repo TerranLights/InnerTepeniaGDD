@@ -5,6 +5,9 @@
 > runs.** Casey's own Frame declaration has not been written; this file carries only what a source already
 > states directly.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+
+
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 733,795 H / 761,936 R / **1,495,731** *(revised 2026-07-04)* | `Official_Population_Census.md` L485 — cross-verified against `Specs/Casey.md`'s own figures, exact match |

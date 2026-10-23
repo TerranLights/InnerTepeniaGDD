@@ -9,6 +9,8 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 6 of 6** — location canon + routes · Highways · Airports/Ports/Geothermal · cross-subnet · relationship database · national connections (flagged) (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L623–633).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 ## Clean — relation-legal, no withheld source
 
 | Category | Value | Citation |

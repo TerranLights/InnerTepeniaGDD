@@ -8,13 +8,17 @@
 
 > ⚠ **DRAFT — Tier C.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
 | `16` Half B — the city's own row | City: Princess Elisabeth · Subnet: Halley · D: 1.43 · Workforce: 861,033 · base%: 43.7% · MAND%: 14.1% · FREE%: 42.3% · src: H | `16_Per_City_Three_Tier_Run.md` L264 |
 | `16` — other lines naming the city (per-city passages and tables) | 23 line(s): L161, L222, L349, L438, L846, L901, L1048, L1394, L1486, L1647, L1704, L1784, L1982, L1984, L2041, L2388, L2485, L2596, L2605, L2773, L2799, L3553–3554 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L161, L222, L349, L438, L846, L901, L1048, L1394, L1486, L1647, L1704, L1784, L1982, L1984, L2041, L2388, L2485, L2596, L2605, L2773, L2799, L3553–3554 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Princess Elisabeth \| . \| . \| . \| Y \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L150 |
+| `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |
 | `Theoretical-Calculations/` — files naming the city | Checked by name: **zero hits** | `Theoretical-Calculations/` |
+| `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_Second_Interwar.md` L119, L121, L133, L135, L137 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
 | MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **11 of 11** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |

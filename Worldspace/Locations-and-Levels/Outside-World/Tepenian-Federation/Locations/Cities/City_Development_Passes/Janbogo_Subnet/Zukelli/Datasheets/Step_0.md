@@ -6,6 +6,8 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage (Phase 0): 2 of 3 resolved** — Repo_Scope ✅ · Timeline eras ✅ · Census ✅ — *the census item's "+ location registries" names no file anywhere* (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L280–285) — recorded as **UNRESOLVED, not guessed**.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 627,584 H / 631,067 R / **1,258,651** combined — the row's inline annotation is later-era and **excluded** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md` L491 — cross-verified against `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Janbogo subnet/Zukelli.md` L15, exact match |

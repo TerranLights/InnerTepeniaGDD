@@ -13,6 +13,8 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 13 of 13** — DoI (via its Tier U carve-out sheet) · `16` Half B · Sweep §4.4 · `01` · `08` · medical institutes · Theoretical-Calculations · Industry Staffing · SOC · national economy · City Logistics · Factions · Megacorps (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L849–873).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (11 directly, 2 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `16` §27 — this city's own determined tiers | Baseline **41.4%** (391,579; D=1.25, *"GROWER — Terra Nova Bay, rock-founded, food term 100%"*) · Mandated **5.9%** (55,328) · **FREE 52.7%** (497,952) | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` L2739–2745 |

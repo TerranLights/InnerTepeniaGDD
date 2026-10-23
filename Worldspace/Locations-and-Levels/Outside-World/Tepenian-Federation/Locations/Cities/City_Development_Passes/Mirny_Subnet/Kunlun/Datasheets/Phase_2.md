@@ -4,6 +4,8 @@
 > `Corpus_Reference_Sheets/`. No secondhand citation anywhere in this file.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Composition tier table | Primary: USA, China, Russia · Significant: Canada, Japan, UK, Intermarium/Intermaria, Italy, South Korea, Germany, France · Notable: New Zealand, Argentina, Sweden, Australia, Chile, Norway, Spain, South Africa, Netherlands | `Specs/Kunlun.md` L38–40; cross-verified `Official_Population_Census.md` L444–452 — exact match |

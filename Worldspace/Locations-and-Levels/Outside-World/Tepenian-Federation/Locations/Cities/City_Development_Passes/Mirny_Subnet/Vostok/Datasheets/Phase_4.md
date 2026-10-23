@@ -4,6 +4,10 @@
 > `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (6 directly, 1 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `09_Per_City_Baseline_Run.md` §2 — Vostok's own row | Mirny subnet · Difficulty 2.50 · Humans 129,617 · Residents 389,261 · Required workforce 134,615 · Workforce 324,453 · **% of workforce required: 41.5%** | `09_Per_City_Baseline_Run.md` L57 |

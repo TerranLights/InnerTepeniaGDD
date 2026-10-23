@@ -7,6 +7,8 @@
 > and general shape noted, but their content is not extracted or quoted here. Only Vostok's own standalone
 > geometric facts are recorded as citable values.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 ## Vostok's own standalone facts — no other city named
 
 | Category | Value | Citation |
@@ -24,6 +26,8 @@
 
 | Source | What it contains | Disposition |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L20 |
 | `Infrastructure/Highways.md` | Vostok's Hwy 37 routing, stated relative to named highway waypoints and neighboring cities; the Mountain Pass Airport waypoint's joint-venture origin | ⛔ Existence noted; route order and venture details not reproduced here (a portion also states a later-era condition, excluded per the standing default-scope rule — see `Step_-1.md`) |
 | `Infrastructure/Airports.md` | The Mountain Pass Airport entry — a regional airfield's founding facts, involving Vostok and other named parties | ⛔ Existence noted; content not reproduced here (a portion also states a later-era condition, excluded per the standing default-scope rule) |
 | `City_Relationship_Database.md` | Vostok's own entry additionally states its direct highway neighbors by name; the file's own top-of-file note states a later-era condition | ⛔ Neighbor names not extracted; the top-of-file note excluded per the standing default-scope rule, never cited |

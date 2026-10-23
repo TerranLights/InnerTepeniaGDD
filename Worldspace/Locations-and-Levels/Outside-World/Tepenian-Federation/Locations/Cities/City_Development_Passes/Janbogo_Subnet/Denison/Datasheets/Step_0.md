@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** Feeds `00_Frame.md` when Denison's own Step 0 actually runs.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 444,529 H / 461,693 R / **906,222** | `Official_Population_Census.md` L498 — cross-verified against `Specs/Denison.md`, exact match |

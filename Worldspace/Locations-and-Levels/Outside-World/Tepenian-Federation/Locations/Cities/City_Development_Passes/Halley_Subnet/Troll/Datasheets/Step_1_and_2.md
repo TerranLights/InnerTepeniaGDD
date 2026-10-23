@@ -3,9 +3,16 @@
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Troll's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 > ⚠ **Ambiguous name:** `Troll` is also an ordinary word; hits are case-sensitive and may include non-city uses. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Troll.md` L6 |
 | Spec climate — climate data source | Norwegian Polar Institute (NPI) — Troll Research Station; data via NPI (not in READER surface; available in READER AWS as automatic weather station) | `Specs/Troll.md` L73 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Troll.md` L75 |
@@ -23,6 +30,9 @@
 | Spec climate — lands (accumulates and stays) | **~140 mm/yr** *(~70% retention)* | `Specs/Troll.md` L90 |
 | Spec climate — lost to sublimation and wind transport | ~60 mm/yr | `Specs/Troll.md` L91 |
 | Climate READER file (`Troll.md`) | **Rebuilt 2026-10-21 as a dataset (it had been an 8-line stub).** BAS Met READER AWS record `Troll`; every full year 1991–2025 (automatic weather station; shorter record, a record-period mean); 13–14 years per month. Monthly mean (°C): Jan −6.7 · Feb −10.3 · Mar −14.2 · Apr −19.8 · May −21.1 · Jun −22.8 · Jul −25.2 · Aug −25.3 · Sep −24.0 · Oct −18.5 · Nov −11.4 · Dec −6.9 · annual −17.2 | `READER/Troll.md` L1–18 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Troll Airfield \| Troll Station \| Norway \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L65 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | *[commentary line in the source, not a table row; not copied, line number recorded only]* | `Antarctic_Stations_With_Airstrips.md` L98 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 56 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Troll · Subnet: Halley · D: 1.43 · Workforce: 716,590 · base%: 44.4% · MAND%: 16.7% · FREE%: 38.9% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L262 (header L247, row L262) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Troll`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Troll · **Subnet:** Halley · **Solar UTC:** 0 · **Status:** ✅ · **Founders:** Norway · **Basis:** Near-perfect time-zone alignment · **Source:** `DR-22` · **Not founders:** — | `Founding_Register.md` L48 |

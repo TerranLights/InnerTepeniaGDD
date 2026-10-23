@@ -8,13 +8,17 @@
 
 > ⚠ **DRAFT — Tier C.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
 | `16` Half B — the city's own row | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,976,818 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – | `16_Per_City_Three_Tier_Run.md` L283 |
 | `16` — other lines naming the city (per-city passages and tables) | 17 line(s): L189, L200, L202, L204, L206–207, L212, L320, L323, L361, L469, L823, L889, L931, L1415, L1583, L2536 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L189, L200, L202, L204, L206–207, L212, L320, L323, L361, L469, L823, L889, L931, L1415, L1583, L2536 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Lazar \| . \| Y \| . \| Y \| . \| . \| 4/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L148 |
+| `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |
 | `Theoretical-Calculations/` — files naming the city | Checked by name: **zero hits** | `Theoretical-Calculations/` |
+| `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_Second_Interwar.md` L225, L227, L231, L233, L235, L263 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
 | MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **11 of 11** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |

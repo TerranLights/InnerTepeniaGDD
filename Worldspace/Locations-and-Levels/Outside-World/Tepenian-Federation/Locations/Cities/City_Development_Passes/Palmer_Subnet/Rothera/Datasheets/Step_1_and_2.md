@@ -2,9 +2,15 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Rothera's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Access type:` | SPUR | `Specs/Rothera.md` L6 |
 | Spec climate — climate data source | British Antarctic Survey (BAS) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1976–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Rothera.md` L93 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Rothera.md` L97 |
@@ -27,6 +33,8 @@
 | READER — full data range | 1976–2026 | `READER/Rothera.md` L7 |
 | READER — annual mean temperature | -4.0°C | `READER/Rothera.md` L8 |
 | READER — monthly table, row 1 | Jan +1.3 · Feb +0.7 · Mar -0.9 · Apr -2.7 · May -4.3 · Jun -7.8 · Jul -9.8 · Aug -9.7 · Sep -8.1 · Oct -5.0 · Nov -2.3 · Dec +0.2 · Annual -4.0 | `READER/Rothera.md` L12, L14 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Rothera Air Facility \| Adelaide Island \| United Kingdom \| Gravel \| | `Antarctic_Stations_With_Airstrips.md` L54 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 54, 79 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Rothera · Subnet: Palmer · D: 1.15 · Workforce: 240,569 · base%: 39.0% · MAND%: 24.4% · FREE%: 36.6% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L260 (header L247, row L260) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Rothera`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Rothera · **Subnet:** Palmer · **Solar UTC:** −5 · **Status:** ✅ · **Founders:** "primarily, most notably established by industrial workers from North America and Argentina, though with other nations being represented" · **Basis:** Geography/access. Argentina stays a founder alongside North America (`DR-44`, closing `FQ-13b`); `DR-22`'s "only Belgrano, Marambio and Esperanza" described the specs as they then stood · **Source:** `DR-20`, `DR-44` · **Not founders:** British | `Founding_Register.md` L39 |

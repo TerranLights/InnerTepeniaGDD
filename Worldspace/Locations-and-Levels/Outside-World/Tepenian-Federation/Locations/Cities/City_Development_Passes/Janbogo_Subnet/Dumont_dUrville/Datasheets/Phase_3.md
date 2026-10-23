@@ -7,6 +7,8 @@
 > the source state later-era conditions and are excluded per the standing default-scope rule, not quoted,
 > described, or summarized.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+
 | Category | Value | Citation |
 |---|---|---|
 | Concept-art directory status | EMPTY — `.gitkeep` only, in both candidate locations checked (`City_Concept-Art/Janbogo_Subnet/Dumont_dUrville/` and the Megasheet's `Questline_Asset_Concept_Art/`) | Re-verified this turn |

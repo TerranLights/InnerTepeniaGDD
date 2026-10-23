@@ -4,6 +4,8 @@
 > bibliographic/census fact only, not the type/modifier/generator declaration itself.
 > ⛔ **Excluded sections — see `Step_-1.md`.** Nothing below cites them.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 0 H / 123,449 R / **123,449** combined — *"entirely robot; re-resolved 2026-07-06 as a curated astronomy/comms-heritage population — no longer entirely Chinese"* | `Specs/Kunlun.md` L33; cross-verified `Official_Population_Census.md` — exact match |

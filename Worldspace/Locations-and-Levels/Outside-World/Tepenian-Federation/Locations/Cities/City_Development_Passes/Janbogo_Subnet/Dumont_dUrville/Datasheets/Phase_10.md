@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Characters canon — confirmed origin | **Pink Lucy (TBN [FW-25])** — origin city confirmed as Dumont d'Urville; migration route resolved: Dumont d'Urville → Janbogo; full name, backstory, and name derivation still TBD | `Specs/Dumont_dUrville.md` L217, L249; `TepenianUniverseTimeline/Worldspace/Characters/Dolls/TBN [FW-25 Pink Lucy]/README.md`, `Personal_Background/Formative_History.md`, `Personal_Background/Timeline.md` |

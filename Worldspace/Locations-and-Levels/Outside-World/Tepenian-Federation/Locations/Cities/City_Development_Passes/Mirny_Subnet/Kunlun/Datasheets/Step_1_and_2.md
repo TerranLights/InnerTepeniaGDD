@@ -5,8 +5,14 @@
 > `02_Spine.md` (Step 2) when Kunlun's own pass actually runs.**
 > ⛔ **Excluded sections — see `Step_-1.md`.** Nothing below cites them.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L20 |
 | `Access type:` | `ON` — not yet tested for meaning in contract | `Specs/Kunlun.md` L23 |
 | Climate — type | East Antarctic Plateau polar desert, the most extreme version | `Specs/Kunlun.md` L88 |
 | Climate — annual mean temperature | **≈ −54 °C** *(corrected 2026-10-21 from the Dome A record; the earlier −58 °C did not match the station)* | `Specs/Kunlun.md` L89 |

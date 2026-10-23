@@ -4,6 +4,8 @@
 > extracted as quotes below, not re-derived. This is existing canon description, not this datasheet's own
 > finding.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+
 | Category | Value | Citation |
 |---|---|---|
 | Concept-art directory status | EMPTY — `.gitkeep` only, 1 file total | Re-verified this turn |
@@ -16,6 +18,7 @@
 | The solstice light | ⚠ L132's "sun-grazing events" is residue of the retracted symmetric light model (ADMITTED-DEMOTED at Step −1, → R-2). The corrected data: **no polar night** — on the winter solstice the sun clears the horizon, low and briefly; **~29 days of midnight sun**, Dec 8 → Jan 5 | `Specs/Mirny.md` L55, L85–86 (corrected 2026-09-04); L132 demoted |
 | Blizzard/visibility conditions, stated directly | *"Blizzards: with katabatic winds and available surface snow, blizzard conditions can develop rapidly; visibility collapses quickly in major events"* · *"Whiteout here routinely occurs under a clear sky, because the snow is lifted, not falling"* | `Specs/Mirny.md` L134, L82 (cross-ref `Phase_1.md`) |
 | Sea ice / maritime texture | *"the Davis Sea freezes seasonally; maritime access windows are limited and wind-dependent; ice conditions can change quickly"* | `Specs/Mirny.md` L133 |
+| Concept-art directory status | EMPTY — `.gitkeep` only, 1 file(s) total | Checked 2026-10-23: `City_Concept-Art/` |
 
 **Not mechanical / not included here:** the four sensory sub-fields worked as this phase's own synthesis
 (sound/smell/feel/first impressions, distinct from each other), the public/institutional split, the seam

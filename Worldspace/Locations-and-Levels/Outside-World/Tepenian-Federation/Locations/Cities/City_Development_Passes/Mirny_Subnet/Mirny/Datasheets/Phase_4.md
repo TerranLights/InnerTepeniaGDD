@@ -11,6 +11,8 @@
 > ⚠ **DRAFT — Tier C + Tier U.** Tier U (Robot Physiology) read firsthand in full this session — see
 > `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `09_Per_City_Baseline_Run.md` §2 — Mirny's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.25 · Humans 665,901 · Residents 1,351,430 · Required workforce 362,213 · Workforce 1,018,480 · **% of workforce required: 35.6%** | `09_Per_City_Baseline_Run.md` L71 |

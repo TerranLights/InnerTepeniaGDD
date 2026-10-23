@@ -3,9 +3,16 @@
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Janbogo's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 > ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Janbogo subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L18 |
+| ↳ README.md | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `…/Worldspace/Locations/README.md` L29 |
 | `Access type:` | SPUR | `Specs/Janbogo.md` L6 |
 | Spec climate — climate type | Katabatic coastal — continental polar with defining wind events; distinct from both the interior polar desert (Concordia) and the maritime subpolar (Palmer) | `Specs/Janbogo.md` L62 |
 | Spec climate — mean annual temperature | approximately −14°C (+7°F) | `Specs/Janbogo.md` L63 |
@@ -22,6 +29,8 @@
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Janbogo.md` L82 |
 | Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Janbogo.md` L83 |
 | Climate READER file (`Janbogo.md`) | **Rebuilt 2026-10-21 as a dataset (it had been an 8-line stub).** BAS Met READER surface station (proxy, ~8 km) `Mario_Zucchelli`; 1991–2020 WMO standard normal; 27–30 years per month. Monthly mean (°C): Jan −1.2 · Feb −6.4 · Mar −14.1 · Apr −19.0 · May −20.0 · Jun −20.0 · Jul −21.8 · Aug −21.4 · Sep −19.8 · Oct −15.0 · Nov −7.3 · Dec −1.5 · annual −14.0 | `READER/Janbogo.md` L1–18 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Antarctic_Stations_With_Airstrips.md` L95 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 60 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Janbogo · Subnet: Janbogo · D: 1.25 · Workforce: 987,240 · base%: 41.1% · MAND%: 29.4% · FREE%: 29.4% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L256 (header L247, row L256) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Janbogo`, `Jang Bogo`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Janbogo · **Subnet:** Janbogo · **Solar UTC:** +11 · **Status:** ✅ · **Founders:** Korea · **Basis:** Two to three time zones · **Source:** `DR-22` · **Not founders:** — | `Founding_Register.md` L66 |

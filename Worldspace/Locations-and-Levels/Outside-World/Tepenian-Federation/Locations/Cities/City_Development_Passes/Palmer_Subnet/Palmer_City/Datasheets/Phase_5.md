@@ -4,9 +4,15 @@
 
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **2 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ Juan_Carlos.md | Juan Carlos was **Tepenia's first bureaucratic archive** — where the young Federation kept its earliest real records: who entered and left, who applied for Palmer City visas or permanent immigration, and specifically a watch on anyone who had once held a position in their home country's Upper Earth government. This function was directly tied to the Machu Picchu Border & Customs Authority (see `Reference/World_History_Reference.md`). | `…/Worldspace/Locations/Juan_Carlos.md` L9 |
+| ↳ Juan_Carlos.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/Juan_Carlos.md` L13 |
+| ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Highways.md` — lines naming the city | **Route:** Esperanza *(northern terminus)* → Marambio → *(ramp: road to Puerto Abrigo; boat to Palmer City)* → *(ramp: road to Rothera)* → Byrd *(western terminus)* | `Highways.md` L75 |
 | ↳ `Highways.md` — lines naming the city | - Puerto Abrigo, Palmer City, and Rothera are **not main-line stops** — all three are reached via connecting ramps. Palmer City specifically requires a **boat crossing** from its ramp, not a road. | `Highways.md` L80 |
 | ↳ `Highways.md` — lines naming the city | ⚠ **All four sea-dependent cities — these three plus Palmer City, whose Hwy 1 ramp *"requires a boat | `Highways.md` L332 |

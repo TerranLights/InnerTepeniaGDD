@@ -4,6 +4,8 @@
 > ⛔ **Excluded sections — see `Step_-1.md`.** Calethina's own character file's Mountain Pass content is
 > excluded wholesale — see the row below.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Characters canon — Vostok-tagged characters | **RUN, not asserted zero. 2 files matched "vostok":** Calethina's README + Formative_History, and Charlene's own character folder README | Re-verified this turn: `grep -rl -i vostok` against `TepenianUniverseTimeline/Worldspace/Characters/` |

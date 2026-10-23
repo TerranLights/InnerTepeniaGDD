@@ -2,9 +2,15 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Esperanza's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Access type:` | ON | `Specs/Esperanza.md` L6 |
 | Spec climate — climate data source | Argentine Antarctic Program (DNA/IAA) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1945–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Esperanza.md` L54 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Esperanza.md` L56 |
@@ -27,6 +33,8 @@
 | READER — full data range | 1945–2026 | `READER/Esperanza.md` L7 |
 | READER — annual mean temperature | -4.5°C | `READER/Esperanza.md` L8 |
 | READER — monthly table, row 1 | Jan +1.5 · Feb +0.9 · Mar -2.0 · Apr -5.4 · May -7.5 · Jun -10.3 · Jul -10.9 · Aug -9.6 · Sep -6.9 · Oct -4.1 · Nov -1.0 · Dec +0.8 · Annual -4.5 | `READER/Esperanza.md` L12, L14 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city | Checked by name (`Esperanza`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 15 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Esperanza · Subnet: Palmer · D: 1.11 · Workforce: 1,400,618 · base%: 39.7% · MAND%: 24.1% · FREE%: 36.2% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L259 (header L247, row L259) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Esperanza`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Esperanza · **Subnet:** Palmer · **Solar UTC:** −4 · **Status:** ✅ · **Founders:** Argentina · **Basis:** "almost immediately accessible"* from Argentina · **Source:** `DR-19`, `DR-22` · **Not founders:** — | `Founding_Register.md` L40 |

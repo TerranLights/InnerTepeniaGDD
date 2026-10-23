@@ -12,6 +12,8 @@
 > `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (6 directly, 1 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `09_Per_City_Baseline_Run.md` §2 — Kunlun's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 2.70 · Humans 0 · Residents 123,449 · Required workforce 35,306 · Workforce 123,449 · **% of workforce required: 28.6%** | `09_Per_City_Baseline_Run.md` L89 |

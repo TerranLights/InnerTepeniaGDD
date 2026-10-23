@@ -4,6 +4,9 @@
 > the source material it sits in is later-era and not admissible to the default frame; only the admissible half
 > is recorded below.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
+
 | Category | Value | Citation |
 |---|---|---|
 | Characters canon — Casey-tagged characters | **RUN, not asserted zero. Four files matched "casey" — all four are the SAME character, Pink Lucy (TBN FW-25), and Casey is named only as her migration route's REJECTED alternative, not her actual path.** Her route was resolved as a different route entirely, explicitly *"not to the city of Casey, the route's previously-considered alternative."* Reason given: a destination city's civic identity (absorbing/re-originating whatever culture reaches it) matched her personality read better than Casey's, whose own civic character is described as *"comparatively muted and function-oriented."* **No character is actually tagged to Casey** | `TepenianUniverseTimeline/Worldspace/Characters/Dolls/TBN [FW-25 Pink Lucy]/README.md`, cross-checked against `Personal_Background/Timeline.md`, `Formative_History.md`, `Conflict_Experiences.md` — same finding in all four |

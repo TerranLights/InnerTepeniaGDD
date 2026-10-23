@@ -4,9 +4,13 @@
 
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Highways.md` — lines naming the city | *[source line compares the city with other places; not copied, line number recorded only]* | `Highways.md` L303 |
 | ↳ `Highways.md` — lines naming the city | \| **Signy** \| Signy Island, South Orkneys \| ⛔ **The South Orkneys have no overland connection to anything.** A significant sea voyage even from the nearest other Palmer-subnet city \| | `Highways.md` L313 |
 | ↳ `Highways.md` — lines naming the city | > ⭐ **This is load-bearing, not trivia.** It is the physical fact underneath Signy's own spec — *"the most | `Highways.md` L327 |

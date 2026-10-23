@@ -3,6 +3,10 @@
 > ⚠ **DRAFT — Tier C.** Feeds `01_Inherited.md` (Step 1) and `02_Spine.md` (Step 2) when Denison's own
 > pass actually runs.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Access type:` | `ON` — not yet tested for meaning in contract | `Specs/Denison.md` L6 |
@@ -13,6 +17,8 @@
 | Climate — record extremes (proxy) | High **+11.0 °C** (Dec) · Low **−37.4 °C** (Aug) | `Specs/Denison.md` L191 |
 | ⭐⭐ Climate — winds, measured at the site (NOT the proxy) | Katabatic, essentially constant, from south/southeast off the ice slope. **Annual mean 19.3 m/s (~69 km/h) — the highest sea-level annual mean wind speed recorded anywhere on Earth.** Gusts well over 300 km/h in the worst events; one recorded instance of 143 km/h sustained for twelve unbroken hours | `Specs/Denison.md` L193; `Climate Data/READER/Denison.md` L20, L27 |
 | ⭐ Why the wind proxy fails | The measured proxy station's own wind (~9.7 m/s) is barely half the site-measured figure. The site sits directly at the foot of the ice slope, at the outflow of a broad drainage basin funneling the interior's cold air down one path — a drain, not merely an exposed coast | `Specs/Denison.md` L177–187; `Climate Data/READER/Denison.md` L23–28 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city | Checked by name (`Denison`, `Commonwealth Bay`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | Checked by name: **zero pages** | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | Climate — precipitation | Falls: **~650 mm/yr** · Lands: **~247 mm/yr (~38% retention)** · Lost to sublimation/wind transport: **~403 mm/yr** — regime named "KATABATIC MARGIN: snow flux, not snowfall" | `Specs/Denison.md` L194, L198–201 |
 | Climate — wind vs. cold, existing canon finding, verbatim | *"WIND, decisively — the cold is NOT what defines this city."* Mean wind 19.3 m/s: up to a third of snowfall evaporates before it lands, most of the remainder is entrained and carried past. Whiteout occurs under a clear sky because the snow is lifted, not falling. Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them | `Specs/Denison.md` L204 |
 | Climate — polar night / midnight sun | Polar night: **NONE**. The site sits only ~48 km inside the Antarctic Circle — a margin smaller than atmospheric refraction, so the midwinter sun clears the horizon for ~1.5 hours even at the solstice. Midnight sun: **~36 days**, approx. Dec 5 → Jan 9 | `Specs/Denison.md` L207–222 |

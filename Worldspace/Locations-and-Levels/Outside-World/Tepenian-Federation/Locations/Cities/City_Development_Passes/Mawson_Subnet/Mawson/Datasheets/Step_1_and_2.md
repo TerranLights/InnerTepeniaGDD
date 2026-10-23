@@ -3,9 +3,15 @@
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Mawson's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 > ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Mawson subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | - **Mawson subnet:** Dome Fuji, Mawson, Sayowa | `…/Worldspace/Locations/README.md` L19 |
 | `Access type:` | ON | `Specs/Mawson.md` L6 |
 | Spec climate — climate data source | Australian Antarctic Division (AAD) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1954–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Mawson.md` L73 |
 | Spec climate — climate type | East Antarctic coastal — similar to Mirny (same latitude, similar Indian Ocean influence); katabatic winds from the ice plateau; coastal, maritime, but with continental cold bleeding through | `Specs/Mawson.md` L75 |
@@ -27,6 +33,10 @@
 | READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Mawson.md` L6 |
 | READER — full data range | 1954–2026 | `READER/Mawson.md` L7 |
 | READER — annual mean temperature | -11.2°C | `READER/Mawson.md` L8 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Mawson Plateau Skiway \| Mac. Robertson Land \| Australia \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L34 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Mawson Sea Ice Skiway \| Mac. Robertson Land \| Australia \| Sea Ice \| | `Antarctic_Stations_With_Airstrips.md` L35 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Rumdoodle Skiway \| Mawson Station \| Australia \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L55 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 25 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Mawson · Subnet: Mawson · D: 1.25 · Workforce: 1,091,868 · base%: 41.0% · MAND%: 14.8% · FREE%: 44.3% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L270 (header L247, row L270) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Mawson`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Mawson · **Subnet:** Mawson · **Solar UTC:** +4 · **Status:** ✅ · **Founders:** Kazakhstan, Russia (the core state) and Australia, jointly.** Australia restored (`DR-53`, reversing `DR-45`) · **Basis:** Kazakhstan: Mawson lies directly south of it (zone gap 0). Russia (core, +2…+3): zone gap 1. **Australia: geography and access (`DR-19`); its nearest zone is +8 against Mawson's +4, a gap of 4, a ruled exception (`DR-33`) · **Source:** `DR-19`, `DR-33`, `DR-45` (reversed), `DR-46`, `DR-53` · **Not founders:** — | `Founding_Register.md` L54 |

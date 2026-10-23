@@ -4,6 +4,8 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 4 of 4** — robot religions · National Holidays · Ice-Cold Buddhism research · the mortuary question (RESERVED) (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L759–765).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Robot religions — full sweep | **Six folders, six files.** **One hit, and it is NOT a religious claim about this city:** Cymatics Reverence's open-questions list names *"Zukelli's structural-language/vibration mechanic"* among things *"not yet cross-referenced"* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/Robot_Religions/Cymatics_reverence/Cymatics_reverence.md` L158 |

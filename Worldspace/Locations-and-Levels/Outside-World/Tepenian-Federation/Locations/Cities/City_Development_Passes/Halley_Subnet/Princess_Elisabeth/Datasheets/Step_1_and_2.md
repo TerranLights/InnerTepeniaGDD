@@ -2,9 +2,15 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Utstein's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Utstein.md` L8 |
 | Spec climate — climate data source | International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record | `Specs/Utstein.md` L82 |
 | Spec climate — climate type | Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; severe katabatic wind exposure (real station: gales to 300 km/h) | `Specs/Utstein.md` L84 |
@@ -22,6 +28,9 @@
 | Spec climate — lands (accumulates and stays) | **~140 mm/yr** *(~70% retention)* | `Specs/Utstein.md` L99 |
 | Spec climate — lost to sublimation and wind transport | ~60 mm/yr | `Specs/Utstein.md` L100 |
 | Climate READER file (`Princess_Elizabeth.md`) | **An 8-line status stub, not a dataset — no monthly table.** What the file itself says: **READER status:** Not in BAS READER surface station database **Climate authority:** International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record **Action required:** Obtain monthly mean temperature normals directly from the listed authority. | `READER/Princess_Elizabeth.md` L1–8 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Perseus Airstrip \| Princess Elisabeth Antarctica \| Belgium \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L46 |
+| ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Princess Elisabeth Skiway \| Utsteinen Nunatak \| Belgium \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L51 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 26, 63 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Princess Elisabeth · Subnet: Halley · D: 1.43 · Workforce: 861,033 · base%: 43.7% · MAND%: 14.1% · FREE%: 42.3% · src: H | `16_Per_City_Three_Tier_Run.md` L247, L264 (header L247, row L264) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Utstein`, `Princess Elisabeth`, `Utsteinen`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Utstein · **Subnet:** Halley · **Solar UTC:** +2 · **Status:** ✅ · **Founders:** The Scandinavian Trade Union nations, jointly · **Basis:** Time-zone proximity; Belgium did not exist in 2564 · **Source:** `DR-22` · **Not founders:** Belgian | `Founding_Register.md` L51 |

@@ -3,6 +3,9 @@
 > ⚠ **DRAFT — Tier C + Tier U.** Both Tier U sources (Falkland Treaty, GPS law) were read firsthand in full
 > earlier this session — see `Corpus_Reference_Sheets/`. No secondhand citation anywhere in this file.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
+
 | Category | Value | Citation |
 |---|---|---|
 | Composition tier table | Primary: China, USA · Significant: Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — on a short, direct sea route from Australia)* · Notable: Thailand, Vietnam, Philippines, Malaysia, New Zealand | `Specs/Casey.md` L19–21, cross-verified against `Official_Population_Census.md` L382–386 — exact match |

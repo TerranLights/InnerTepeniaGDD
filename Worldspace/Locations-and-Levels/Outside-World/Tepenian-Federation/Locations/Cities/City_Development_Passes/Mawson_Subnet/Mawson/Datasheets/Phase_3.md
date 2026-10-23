@@ -3,6 +3,8 @@
 > ⚠ **DRAFT — Tier C.** The spec's sensory and architectural prose is cited by range; it is not copied (Step −1 decides what is admissible).
 > ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Mawson subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+
 
 | Category | Value | Citation |
 |---|---|---|

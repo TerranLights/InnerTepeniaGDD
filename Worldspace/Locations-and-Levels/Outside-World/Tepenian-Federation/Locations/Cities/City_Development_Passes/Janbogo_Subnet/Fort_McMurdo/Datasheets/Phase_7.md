@@ -8,6 +8,8 @@
 
 > ⚠ **DRAFT — Tier C.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
@@ -15,7 +17,9 @@
 | `16` — other lines naming the city (per-city passages and tables) | 30 line(s): L137, L327, L334, L1149, L1202, L1232, L1387, L1582, L2930, L2962, L2969, L2975–2976, L2978, L2985, L2989, L3003, L3051, L3053–3054, L3056, L3061, L3065, L3069, L3074, L3077, L3079, L3087, L3558, L3567 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L137, L327, L334, L1149, L1202, L1232, L1387, L1582, L2930, L2962, L2969, L2975–2976, L2978, L2985, L2989, L3003, L3051, L3053–3054, L3056, L3061, L3065, L3069, L3074, L3077, L3079, L3087, L3558, L3567 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L95 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | \| Fort McMurdo \| . \| . \| . \| Y \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L156 |
+| `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |
 | `Theoretical-Calculations/` — files naming the city | `Amundsen_Tower_Space_Fountain_Design.md` L965, L984, L1036 *(line numbers only: the lines list other cities too)* | `Theoretical-Calculations/` |
+| `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_PostWar_Refugee.md` L109, L111, L113; `City_Origin_Factions_Second_Interwar.md` L157, L159, L163; `Hometown-based_Faction_Possibilities.md` L46 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
 | MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **11 of 11** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |

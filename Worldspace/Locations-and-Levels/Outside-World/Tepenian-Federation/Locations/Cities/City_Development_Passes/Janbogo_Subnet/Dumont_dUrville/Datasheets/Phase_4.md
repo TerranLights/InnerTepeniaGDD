@@ -11,6 +11,8 @@
 > `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`.
 > ⛔⛔ No Long Night War / post-war content appears below.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `09_Per_City_Baseline_Run.md` §2 — this city's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.67 · Humans 223,549 · Residents 453,334 · Required workforce 138,692 · Workforce 341,560 · **% of workforce required: 40.6%** | `09_Per_City_Baseline_Run.md` L60 |

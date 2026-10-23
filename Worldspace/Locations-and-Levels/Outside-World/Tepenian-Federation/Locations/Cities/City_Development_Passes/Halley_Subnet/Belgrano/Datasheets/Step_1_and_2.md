@@ -2,9 +2,15 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Belgrano's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Belgrano.md` L6 |
 | Spec climate — climate data source | Argentine Antarctic Program (DNA/IAA) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1980–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Belgrano.md` L62 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Belgrano.md` L64 |
@@ -26,6 +32,8 @@
 | READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Belgrano.md` L6 |
 | READER — full data range | 1980–2026 | `READER/Belgrano.md` L7 |
 | READER — annual mean temperature | -13.2°C | `READER/Belgrano.md` L8 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Belgrano II Skiway \| Belgrano II Base \| Argentina \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L13 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 10 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 805,928 · base%: 44.3% · MAND%: 30.7% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L252 (header L247, row L252) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Belgrano`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Belgrano · **Subnet:** Halley · **Solar UTC:** −2 · **Status:** ✅ · **Founders:** Argentina · **Basis:** Accessible from Argentina · **Source:** `DR-19`, `DR-22` · **Not founders:** — | `Founding_Register.md` L53 |

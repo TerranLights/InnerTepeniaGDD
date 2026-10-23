@@ -8,6 +8,8 @@
 
 > ⚠ **DRAFT — Tier C.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
@@ -15,7 +17,9 @@
 | `16` — other lines naming the city (per-city passages and tables) | 42 line(s): L164, L316, L349, L394–395, L398, L401, L405, L407, L411, L415, L417, L426, L428, L437, L1042, L1049, L1060, L1071, L1073–1074, L1081, L1106, L1115, L1200, L1206, L1230, L1238, L1406, L1479, L1664, L1709, L1730, L1744, L1896–1897, L1958, L2027, L2799, L3555–3557 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L164, L316, L349, L394–395, L398, L401, L405, L407, L411, L415, L417, L426, L428, L437, L1042, L1049, L1060, L1071, L1073–1074, L1081, L1106, L1115, L1200, L1206, L1230, L1238, L1406, L1479, L1664, L1709, L1730, L1744, L1896–1897, L1958, L2027, L2799, L3555–3557 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Sejong \| . \| . \| . \| Y \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L177 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | - **Two cities name "Diplomatic / inter-community coordination"** as a sector (Sejong 15%, Sinheung 10%) — an | `Division_of_Industry_Sweep_2026-08-31.md` L236 |
+| `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |
 | `Theoretical-Calculations/` — files naming the city | Checked by name: **zero hits** | `Theoretical-Calculations/` |
+| `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_Second_Interwar.md` L77, L79, L81, L85, L87, L89, L91 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
 | MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **11 of 11** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |

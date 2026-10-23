@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Composition tiers | Primary: China, USA · Significant: Japan, South Korea, Indonesia, Australia (founding wave) · Notable: Thailand, Vietnam, Philippines, Malaysia, New Zealand | `Specs/Denison.md` L54–58 |

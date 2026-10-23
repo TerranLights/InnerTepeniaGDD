@@ -41,6 +41,8 @@
 > ⚠ **DRAFT — Tier C.** Mirny's own §20 section in `16_Per_City_Three_Tier_Run.md` is unusually rich and
 > already-determined — extracted directly, not re-derived.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (13 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `16` §20 — Mirny's own determined sector breakdown | Baseline 41.1% (418,565 workers) · Mandated 23.6% (239,966 workers) · **FREE 35.3%** (359,949 workers). Distinctive tier 58.9% (599,914 workers), broken down: Communications/Arcanet ~20% · Technical/scientific ~20% · Industrial/manufacturing ~20% · Maritime ~15% · Commercial ~15% · Other ~10% | `16_Per_City_Three_Tier_Run.md` L2105–2113 |

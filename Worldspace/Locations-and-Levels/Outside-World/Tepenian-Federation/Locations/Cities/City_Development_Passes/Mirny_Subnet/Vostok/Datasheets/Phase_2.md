@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Composition tiers | Primary: USA, Japan · Significant: South Korea, Canada, Indonesia, Australia · Notable: New Zealand, Chile | `Specs/Mirny subnet/Ariun_Nuur.md` L20–24 |

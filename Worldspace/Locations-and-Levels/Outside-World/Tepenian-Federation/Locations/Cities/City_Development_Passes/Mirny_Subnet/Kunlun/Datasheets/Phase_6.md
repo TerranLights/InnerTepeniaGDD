@@ -5,6 +5,8 @@
 > — see below.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+
 ## Source tree 1 — `Factions/Robot_Religions/` (the Tier U roster: Polydimensional Animism + Cymatics Reverence)
 
 | Category | Value | Citation |
@@ -30,6 +32,8 @@
 | Zen aesthetics — the same reconciliation, quoted (own-portion only) | *"…useful for a religion practiced by a devout minority within a science-first city, which must coexist rather than compete for dominance…"* | `Ice-Cold_Buddhism_Research/07_Zen_Aesthetics_and_Philosophy.md` L22–24 |
 | Synthesis doctrine — the same reconciliation again, quoted | *"…This reconciles Kunlun's science-first character with its devout minority population without contradiction: rigorous scientific study is the doctrine's own first stage, not something in tension with faith."* | `Ice-Cold_Buddhism_Research/08_Synthesis_Doctrine_Notes.md` L36–38 |
 | ⚠ Flagged existence only, NOT for this datasheet — the thermal-cycling mortality mechanic | `00_Extraction_Checklist.md` L139 raises repeated cold→warm→cold cycling from pilgrimage travel as a real mechanical-wear hazard for devout practitioners, with open questions about how it's treated in-world. ⛔ **This is adjacent to the RESERVED mortuary question — its existence is noted; it is NOT characterized, resolved, or connected to the mortuary reservation here** | `Ice-Cold_Buddhism_Research/00_Extraction_Checklist.md` L139–142 |
+| `The_True_Believer_Extraction.md` | Checked by name (`Kunlun`, `Kunlun Station`, `Kunlun Skiway`, `Dome A`, `Dome Argus`, `DOME PLATEAU DOME A`, `AYM00089577`): **zero hits** in a 378-line file | `The_True_Believer_Extraction.md` |
+| `The_Meme_Machine_Extraction.md` | Checked by name (`Kunlun`, `Kunlun Station`, `Kunlun Skiway`, `Dome A`, `Dome Argus`, `DOME PLATEAU DOME A`, `AYM00089577`): **zero hits** in a 293-line file | `The_Meme_Machine_Extraction.md` |
 
 ## Kunlun's own status, per its own Specs file
 

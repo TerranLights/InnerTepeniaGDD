@@ -14,6 +14,8 @@
 > already-determined, INCLUDING a flagged pending revision — extracted directly, not re-derived.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (11 directly, 2 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `16` §22 — Kunlun's own determined sector breakdown | Baseline 28.6% (35,306 workers, D=2.70 — highest in roster, but human-keyed term is zero) · Mandated 26.8% (33,054 workers) · **FREE 44.6%** (55,089 workers). Distinctive tier 71.4% (88,143 workers) | `16_Per_City_Three_Tier_Run.md` §22, L2251–2256 |
