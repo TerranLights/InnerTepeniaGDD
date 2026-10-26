@@ -17,6 +17,7 @@ not a spec.**
 |---|---|
 | **`Development_Brief.md`** | ⭐ **The substantive document**, assembled 2026-09-01. Site, subnet, the single-approach highway ruling, the food consequence, name candidates, and §5's list of every downstream ripple this city creates. **Read this first.** ⛔ *Its §2 "founding inheritance" was **STRUCK 2026-09-05** — GPS purposes only.* |
 | `README.md` | this index |
+| `RESEARCH_TO_DO_LATER.md` | Work list (2026-10-26): twelve inspiration-pick candidates and a geology-and-tunnels research note; nothing in it is researched yet |
 | `How_Soil_Is_Made_Plain_Language.md` | Plain-language note on what soil is, how it forms, how people make it fast, and what the Bunger Hills ground has and lacks (2026-10-25; superseded by the sourced spec sheet in the novel repo when it exists) |
 | *(elsewhere)* | Five **stub** files (2026-10-23), pointers only, awaiting the ULM: `City_Vision_Notes/Relung_Panen.md`, `City_Enneagram_Personalities/Mirny_Subnet/Relung_Panen.md`, `Local_Cultures/Mirny_Subnet/Relung_Panen.md`, `Local_Robot_Culture/Mirny_Subnet/Relung_Panen.md`, and the Neo-Races catalog under `Neo-Races-and-Cultures/Mirny_Subnet/Relung_Panen/` |
 
