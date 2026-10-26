@@ -1225,3 +1225,18 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Mirny Step 10 review** | **Accepted** (developer: "sure, yes to both"); the four cold-run-only fires are parked until a cold run. **Runbook Step 10 item 7 amended**: scaffolding (Pre-Trip, ledger, README, datasheets) may be pre-seeded; a city's output files may not; a cold run still delegates the listing (`M-299`). Mirny is still **not** declared complete. |
 | **Not yet done** | The Planet symbol and Q-74 (held), Q-78 and Q-79 (open). |
 
+---
+
+## `DR-60` · ✅ **SANTA LUCE: WHICH ITALY, AND WHAT EACH PART DOES** *(2026-10-23)*
+
+| | |
+|---|---|
+| **The question** | After the 2083 reorganization Italy is two countries (Border B, the developer's map files): **Magna Lombardia** (north, ~33.6M, ~€42,300 per head; Bologna political capital, Milano economic) and **Meridia** (south, ~23.8M without Sardinia, ~€28,000 per head; Rome and the Vatican inside; Sicilia an Autonomous Zone). `DR-22`'s "Italy" for Santa Luce had to be resolved. |
+| **Why proximity could not settle it** | Both fall in the same longitude band, so the time-zone rule cannot separate them. |
+| **Economic capacity (the basis)** | Population × GDP per head, from the developer's Italy table (2023, pre-war): Magna Lombardia ~€1.42T, Meridia ~€0.67T, so Magna Lombardia carries about 2.1 times the weight. Pro rata that illustrates roughly 18M to 9M of Italy's ~27M effective pool; **illustrative, not a ruled ratio.** Meridia is not incapable of sending exiles. |
+| **Ruling** | *"The population comes from both (proportionally, not necessarily equally), but the oversight, coordination, management, and logistics is determined by Magna Lombardia."* |
+| **Recorded as** | Population: **both successor states, proportional** (exact ratio open). Oversight, coordination, management and logistics: **Magna Lombardia**. |
+| **Read, not stated** | The CIN's role is **unchanged** (`DR-22`: Italy and the CIN, jointly); the ruling concerns only the Italian side. If the developer meant otherwise, correct here and in the Register. |
+| **Not changed** | The census and composition files keep pre-war "Italy" (`DR-23`: no census edits until all 38 ULM runs finish). Zukelli's "Italian" heritage tag and its Notable-tier rows are a separate follow-up. |
+| **Follow-up** | Santa Luce's Local Cultures, Enneagram, Vision Notes and Neo-Races catalog still rest on the superseded Finnish-Swedish founding and need the revisit before the robot-culture sheet is written. Planet and Element symbols are still unassigned. |
+

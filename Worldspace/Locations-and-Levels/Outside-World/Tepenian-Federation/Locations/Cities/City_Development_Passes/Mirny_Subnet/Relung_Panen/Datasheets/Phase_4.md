@@ -4,6 +4,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-24:** **7 of 7** addresses are named in this sheet (4 directly, 3 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|

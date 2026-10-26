@@ -2,9 +2,14 @@
 
 > ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidation of Step 1 / Step 2 / Phase 1. **Feeds `01_Inherited.md` and `02_Spine.md` when Relung Panen's own pass runs.** It extracts only what belongs to the physical/environmental capability profile; economy, founding narrative and notable-figure content belong to later phases and are cited by range, not quoted.
 
+> ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-24:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **0 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-24) |
 | `Access type:` | SPUR | `Specs/Relung_Panen.md` L11 |
 | Spec climate — climate data source | *AWS, White Smoke Lake, Bunger Hills oasis (Jan 1992 – Jul 1993) for the annual | `Specs/Relung_Panen.md` L109 |
 | Spec climate — climate type | **East Antarctic coastal OASIS, shelf-sealed** — *ice-free basin terrain; cut off from open | `Specs/Relung_Panen.md` L113 |
@@ -23,6 +28,8 @@
 | Spec climate — lost to sublimation and wind transport | ~32 mm/yr | `Specs/Relung_Panen.md` L140 |
 | Spec climate — hardcore mode influences | ⏸️ **TBD** — *but the distinctive axis is already visible: **wet cold rather | `Specs/Relung_Panen.md` L189 |
 | Climate source | No BAS READER station exists at this coordinate; the city's own `Climate.md` is the climate file (its §4 records the sources tried) | `Climate.md` L1 |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 68 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | Climate.md — measured anchor: Mean annual air temperature | −11.2 °C *(AWS, White Smoke Lake, Jan 1992 – Jul 1993)* | `Climate.md` L20 |
 | Climate.md — measured anchor: Mean wind speed | 4.6 m/s *(same)* | `Climate.md` L21 |
 | Climate.md — measured anchor: Mean annual solar flux | 115 W/m² *(same)* | `Climate.md` L22 |

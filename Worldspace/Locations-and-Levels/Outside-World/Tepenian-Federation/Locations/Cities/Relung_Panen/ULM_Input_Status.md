@@ -19,10 +19,11 @@ mechanically file by file rather than asserted. ✅ **Name ruled 2026-10-03 (`DR
 > | What | Needs |
 > |---|---|
 > | Inspiration picks (`Inspirational-Influences.md` has no entry) | drafting and your approval; creative work, so 05:00–14:59 |
-> | The port (Ports.md carries a proposal marked not ruled) | **your ruling** |
-> | The founding story: when, how, why, with what and without what | **your ruling** |
+> | The port (Ports.md carries a proposal marked not ruled) | **Developer, 2026-10-24: "this sounds like something that we'll need to research."** Not ruled; to be researched first (real-world: the Shackleton Ice Shelf front and its ice conditions, how the Bunger Hills were actually reached, the Casey to Bunger Hills distance and terrain, ice-shelf landing precedents such as Atka Iceport). The three candidate answers are no port (Casey is the only door), a seasonal ice-front landing, or a landing for the founding years only |
+| **Airport(s)** (not in `Infrastructure/Airports.md` yet) | **Developer direction, 2026-10-25 (not yet a ruling):** the city will "fairly obviously" have its own airport, since it almost certainly needs one; because of the shipping-line logistics it may very likely need to be an **international** airport, possibly as **two airports**: one all-purpose airport for passengers and one cargo-only airport (as is common in the USA). **Conflicts to settle before ruling:** `Airports.md` says the Palmer subnet hosts Tepenia's *only* international airport (Machu Picchu, linked to Ushuaia) and calls that asymmetry deliberate; `Airports.md` also requires every city to appear in exactly one of its three lists; and an international airport changes the "exactly one door" reasoning behind the city's composition. The port research (2026-10-25) found all real access to the Bunger Hills has been by air |
+> | The founding story: when, how, why, with what and without what | **Partly ruled 2026-10-24.** *When:* some time shortly after the Falkland Treaty (2564). *How:* depends on the port, which is being researched (logistics of a possible seaport). *Why:* "develops naturally" (not stated; it comes out of the pass). *With what:* seed stock, livestock and equipment, primarily from Southeast Asia and, to a lesser extent, from Australia. *Led by:* primarily Indonesia, with Malaysia providing support. *Without what:* **no pre-existing farmland or soil, so the founders had to establish their own** (developer, 2026-10-24); other candidate absences offered (no second door, no inherited institutions, no immediate neighbor) were not ruled and stay open |
 > | Division-of-Industry per-city run (`16` excludes the city "by ruling") | **your ruling** |
-> | Census narrative entry and composition tier table; the census still calls the city by its placeholder name | the rename sweep of the held files, after the Mirny pass finishes |
+> | Census narrative entry and composition tier table | **Census listing renamed 2026-10-24** (15 lines now read Relung Panen; the developer ordered it). The narrative entry and the tier table: the tier table is **on hold until later** (developer, 2026-10-24); the narrative entry waits with it |
 > | Local culture, robot-culture, Enneagram, neo-race catalog | later synthesis; not part of the base data. **Empty stub files exist since 2026-10-23** (`Local_Cultures/Mirny_Subnet/`, `Local_Robot_Culture/Mirny_Subnet/`, `City_Enneagram_Personalities/Mirny_Subnet/`, `City_Vision_Notes/`, `Neo-Races-and-Cultures/Mirny_Subnet/Relung_Panen/`); each is marked STUB and holds only pointers, so a file being present is not evidence the content exists |
 > | Planet + Element symbol | correctly last: needs a personality first |
 > | The city is not in the universe-history sources (`G6`) | expected for an unfounded city; a canon decision, later |
@@ -181,3 +182,21 @@ input.*
 
 📎 `ULM_Input_Required_Reference.md` · `Development_Brief.md` · `README.md` ·
 `Extent_and_Density_Per_City.md` §11
+
+---
+
+## Research files added 2026-10-25 (real-world only; all in `../Research_Logs/`)
+
+Findings are the agents' own, **not yet reviewed line by line**; each figure is marked SOURCED, COMPUTED or UNVERIFIED in its file.
+
+| File | Covers |
+|---|---|
+| `Relung_Panen_Port_Research_2026-10-25_A_Shackleton_Ice_Shelf.md` | the ice shelf front, sea ice, calving, hazards |
+| `…_B_How_Bunger_Hills_Was_Reached.md` | every recorded access since 1947 (all by air; ships have only stood off) |
+| `…_C_Casey_to_Bunger_Hills_Terrain.md` | distance (about 437 to 446 km straight, about 468 km by land at the least), outlet glaciers, oasis area figures |
+| `…_D_Ice_Front_Landing_Precedents.md` | ice-front unloading at about 20 Antarctic sites, tonnages, failures |
+| `Relung_Panen_Soil_Research_2026-10-25_E_Oasis_Ground_Water_and_Light.md` | rock, till, soils, permafrost, lakes, light, temperature |
+| `…_F_Growing_Without_Soil_Precedents.md` | polar greenhouses, closed-system farming benchmarks, soil-making, energy, failures |
+
+**Universe-wide soil and food spec (novel repo, 2026-10-25, DRAFT):** `/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Soil_and_Food_Production/SPEC_Soil_Crafting_and_Food_Mechanisms_DRAFT.md`, built from three research files in its `research/` folder (soil targets and nutrient budgets, constructed soils and reclamation, soilless systems and closed loops). The founding story's soil and food mechanisms should be derived from it.
+

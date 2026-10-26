@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U. Thin by nature (as the Field Guide predicts).** An absence in the admitted set is a hole, not a finding.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-24:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|

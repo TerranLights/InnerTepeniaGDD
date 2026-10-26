@@ -20,7 +20,7 @@ Detail: `TODO.md`, "Core systems — follow-ups from the 2026-10-18 cleanup". De
 
 ## Held-back uncommitted work *(added 2026-10-18; ✅ committed and pushed the same day)*
 Detail and file counts: `TODO.md`, section "Uncommitted work held back from the 2026-10-13 commit".
-- [x] OOLSD library (4 modified, ~74 new files) — commit or leave local → `Object_Oriented_Location_Synthesis/RESUME_HERE.md`
+- [x] OOLSD library (4 modified, ~74 new files) — commit or leave local → ⏩ moved 2026-10-23: `/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Object_Oriented_Location_Synthesis/``RESUME_HERE.md`
 - [x] PTSD research edits + `11_Dark_Humor_Source_Leads` and `11a`–`11d` — commit or leave local
 - [x] Dark Humor Research folder (65 new files) — commit or leave local
 - [x] Wisconsin oral histories: only the README and `.gitignore` untracked (transcripts already ignored) — commit them

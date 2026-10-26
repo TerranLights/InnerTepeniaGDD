@@ -4,9 +4,12 @@
 
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-24:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **0 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-24) |
 | `Highways.md` — lines naming the city | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 383-line file | `Highways.md` |
 | `Airports.md` — lines naming the city | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 119-line file | `Airports.md` |
 | `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L26 |

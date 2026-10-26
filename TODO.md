@@ -58,7 +58,7 @@ On 2026-10-13 the Mirny/founders/Modern Hawaiian work was committed and pushed (
 they belong to other work streams. **Nothing here is lost; none of it is committed or pushed.** For each: decide
 commit now, commit later, or leave local. The branch has also not been merged to `main`.
 
-- **OOLSD library** (`Worldspace/Locations-and-Levels/Object_Oriented_Location_Synthesis/`): 4 modified files
+- **OOLSD library** (⏩ **moved 2026-10-23** to `/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Object_Oriented_Location_Synthesis/` in the novel repo; was `Worldspace/Locations-and-Levels/Object_Oriented_Location_Synthesis/`): 4 modified files
   (`04_Handwave_Register.md`, `RESUME_HERE.md`, `research/DEFERRED_RESEARCH.md`, `research/waste_heat_utilization.md`)
   and about 74 new files (the starlifting/inner-system research tranches, dispatch prompts, canon-vs-physics
   comparison files, `_calc/`). In-flight work from other sessions. **Resume point:** its `RESUME_HERE.md`.

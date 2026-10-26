@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C.** Every directory actually enumerated, not assumed empty (the Field Guide's warning about unverified "empty" claims).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-24:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|

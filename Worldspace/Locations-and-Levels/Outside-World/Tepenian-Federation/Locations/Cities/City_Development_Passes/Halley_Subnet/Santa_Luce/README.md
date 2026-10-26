@@ -1,4 +1,4 @@
-# Abowasa — development pass
+# Santa Luce (formerly Abowasa) — development pass
 
 **Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
 run — never pre-created.*
@@ -23,6 +23,7 @@ run — never pre-created.*
 | `09_Record.md` · `09.5_Log.md` | ULM Step 9 — and ⚠ **the recording law: snags, dead ends, killed findings, self-corrections** |
 | `10_Readiness_Check.md` | ULM Step 10 — ⚠ **verify, do not assert** |
 | `CST_01…17e_*.md` | Cultural Synthesis — **one file per technique** |
+| `ROBOT_CULTURE_REVISIT_TRACKER_2026-10-23.md` | Work list for the Santa Luce revisit and its robot-culture sheet (founders re-ruled, `DR-60`); research paused until the allotment resets |
 | `RWBEM_A…F_*.md` | Real-World Basis Extrapolation — **one file per step** |
 
 ⭐ **Flat, not foldered by process** — *developer instruction: "organize by subnet/city/city-files, instead of
