@@ -200,3 +200,48 @@ Findings are the agents' own, **not yet reviewed line by line**; each figure is 
 
 **Universe-wide soil and food spec (novel repo, 2026-10-25, DRAFT):** `/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Soil_and_Food_Production/SPEC_Soil_Crafting_and_Food_Mechanisms_DRAFT.md`, built from three research files in its `research/` folder (soil targets and nutrient budgets, constructed soils and reclamation, soilless systems and closed loops). The founding story's soil and food mechanisms should be derived from it.
 
+---
+
+## Developer answers, 2026-10-25 (late evening)
+
+| Item | Answer |
+|---|---|
+| **Extent / ice cover** | **Ruled:** all cities can be built on both rock and ice, so a surface covered in ice is not a restricting factor. What matters is the actual physical and geological makeup of the area. The real ice-free area of the oasis (395 km² of land in the research, against the 450 km² of rock in the spec) is therefore **not a blocking conflict**. Whether to correct the spec's wording is not decided. |
+| **Port** | Needs the soil research results first, then a ruling. Research is in. **Open.** |
+| **Airport(s)** | To be gone over in the morning (2026-10-26). **Open.** |
+| **Division of Industry** | **Ruled:** with a reasonable idea of what the city is now known, the Division-of-Industry specs can start being filled in. The per-city row is to be written; not started. |
+| **Founding story, what remains** | Route (waits on port and airport), soil route choice, power source, first-wave size and timeline, relation to Casey and Davis. **Institutional form ruled 2026-10-26: Indonesia** (the founding was led by Indonesia as a state, with Malaysia in support). The rest is to be worked out later. |
+| **Inspiration picks** | To be gone over in the morning (2026-10-26). **Open.** |
+| **Census narrative entry and tier table** | On hold: the population numbers need to be worked out first. |
+| **Pre-Trip registration of the new research** | Done 2026-10-25 (addendum before section E of the Pre-Trip). |
+| **Mirny quotation audit after the census rename** | To be done later. |
+
+---
+
+## ⭐ WHAT THE ULM ACTUALLY REQUIRES, checked 2026-10-26 against `ULM_Input_Required_Reference.md` (this section supersedes the open-item framing above)
+
+**Earlier in this file, and in the 2026-10-25 sessions, open rulings (port, airport, founding details, extent) were presented as the road to the ULM. They are not requirements.** The reference's own tiers decide what is required; the Pre-Trip's open-rulings table says open rulings do not block; and `DR-16` says the ULM works at full Census I with founding histories and dates coming after it ("do not build a founding history in-run"). Anything the developer has deferred is listed at the head of the pass (Step 0.5).
+
+| Tier | Requirement | Relung Panen |
+|---|---|---|
+| **0 (blocking)** | T0-1 existence and name | ✅ spec and `# Relung Panen` header |
+| | T0-2 position | ✅ `Based on:` coordinates and Geographic Basis |
+| | T0-3 population | ✅ Census I and II rows with figures |
+| | T0-4 parent | ✅ `Arcanet Subnet: Mirny` |
+| **1 (at least 3 of 8, or no capability profile)** | G2 physical and environmental | ✅ present |
+| | G4 founding condition | ✅ Register row and the spec's `**Founding population:**` field |
+| | G5 network position | ✅ `Access type: SPUR` and the Highways entry (no port or airport assigned: open) |
+| | G8 composition | ✅ in the spec (11 nations); the census tier table is missing (on hold) |
+| | G3 function | ⚠ missing: no per-city row in `Division_of_Industry/16`. The pass may proceed but must say so and expect a thinner result. **Developer, 2026-10-24/25: the Division-of-Industry specs can now start being filled in.** |
+| | G7 inspiration designation | ⚠ missing: no tiered picks in `Inspirational-Influences.md`. Same consequence. To be gone over 2026-10-26. |
+| | G1 symbols | by design: determined at Phase 10 (`DR-8`); the symbol files are not opened before then |
+| | G6 defining event | by design: deferred out of input prep |
+| **2 (enriching)** | T2-4 picks | missing (same as G7) |
+| | T2-1 / T2-5 prior material | five stub files only; a warm run reads a city's own culture material last, as a check |
+| | T2-6 relationship files | ✅ updated 2026-10-21 |
+| | T2-7 concept art | placeholder folder only |
+| | T2-8 extent | ✅ declared (~450 km²; ice cover is no restriction, ruled 2026-10-25) |
+
+**Result: nothing blocks the run.** The pass would proceed with G3 and G7 missing and must say so. What would thicken it, not required: (1) the Division-of-Industry per-city row, (2) the inspiration picks, (3) the census tier table (the spec's composition can serve; on hold).
+
+**Not requirements, listed as deferred for Step 0.5:** the port ruling, the airport ruling, and the founding story's remaining details. Run conditions that do apply: ULM only 05:00 to 14:59, three Opus readers per unit, Max 5x allotment until 10-29.

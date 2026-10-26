@@ -1240,3 +1240,21 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Not changed** | The census and composition files keep pre-war "Italy" (`DR-23`: no census edits until all 38 ULM runs finish). Zukelli's "Italian" heritage tag and its Notable-tier rows are a separate follow-up. |
 | **Follow-up** | Santa Luce's Local Cultures, Enneagram, Vision Notes and Neo-Races catalog still rest on the superseded Finnish-Swedish founding and need the revisit before the robot-culture sheet is written. Planet and Element symbols are still unassigned. |
 
+---
+
+## `DR-61` · ✅ **RELUNG PANEN: FOUNDING ROLES AND RELATED ANSWERS** *(2026-10-24 to 2026-10-26)*
+
+| | |
+|---|---|
+| **Who led** | **Indonesia, as a state, led the founding; Malaysia supported.** (Founders themselves are unchanged: Indonesia and Malaysia, `DR-34`.) Developer, 2026-10-26: *"Indonesia."* |
+| **When** | Some time shortly after the signing of the Falkland Treaty (2564). |
+| **With what** | Seed stock, livestock and equipment primarily from Southeast Asia, and to a lesser extent from Australia. |
+| **Without what** | **No pre-existing farmland or soil; the founders had to establish their own.** |
+| **Why** | *"That develops naturally"*: not stated; it comes out of the city's own pass. |
+| **Ice cover and extent** | **All cities can be built on rock or on ice; ice cover is not a restricting factor. What matters is the area's physical and geological makeup.** The research figure for the oasis's ice-free land (395 km²) against the spec's 450 km² is not a blocking conflict. |
+| **Division of Industry** | The city's per-city row may now be written; the specs can start being filled in. Not started. |
+| **Port** | **Open.** Research done 2026-10-25 (six files in `Cities/Research_Logs/`); to be ruled after the developer reviews the soil results. |
+| **Airport(s)** | **Open.** Developer direction: its own airport, likely international, possibly a passenger airport plus a cargo-only one; to be gone over 2026-10-26. Conflicts to settle: `Airports.md` says the Palmer subnet hosts Tepenia's only international airport. |
+| **Inspiration picks** | **Open.** To be gone over 2026-10-26. |
+| **Census narrative entry and tier table** | On hold until the population numbers are worked out. The census listing itself was renamed from the placeholder to Relung Panen on 2026-10-24 (15 lines). |
+
