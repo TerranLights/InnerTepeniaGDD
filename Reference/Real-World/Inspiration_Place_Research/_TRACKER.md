@@ -6,17 +6,17 @@ Developer, 2026-10-26: two rounds at full depth for every city; accuracy and dep
 
 | Unit | City | Subnet | Picks | Round 1 | Round 2 | Note |
 |---|---|---|--:|---|---|---|
-| `Casey` | Casey | Mirny ("Australian") Subnet | 3 | ☐ | ☐ |  |
-| `Mirny` | Mirny | Mirny ("Australian") Subnet | 4 | ☐ | ☐ |  |
-| `Davis` | Davis | Mirny ("Australian") Subnet | 3 | ☐ | ☐ |  |
-| `Ariun_Nuur` | Ariun Nuur | Mirny ("Australian") Subnet | 3 | ☐ | ☐ |  |
-| `Kunlun` | Kunlun | Mirny ("Australian") Subnet | 4 | ☐ | ☐ |  |
-| `Zhongshan` | Zhongshan | Mirny ("Australian") Subnet | 3 | ☐ | ☐ |  |
-| `Sinheung` | Sinheung | Mirny ("Australian") Subnet | 3 | ☐ | ☐ |  |
-| `Shirayuki` | Shirayuki | Mirny ("Australian") Subnet | 4 | ☐ | ☐ |  |
-| `Concordia` | Concordia | Janbogo Subnet | 4 | ☐ | ☐ |  |
-| `Dumont_d_Urville` | Dumont d'Urville | Janbogo Subnet | 3 | ☐ | ☐ |  |
-| `Denison` | Denison | Janbogo Subnet | 4 | ☐ | ☐ |  |
+| `Casey` | Casey | Mirny ("Australian") Subnet | 3 | ✅ | ✅ |  |
+| `Mirny` | Mirny | Mirny ("Australian") Subnet | 4 | ✅ | ✅ |  |
+| `Davis` | Davis | Mirny ("Australian") Subnet | 3 | ✅ | ✅ |  |
+| `Ariun_Nuur` | Ariun Nuur | Mirny ("Australian") Subnet | 3 | ✅ | ✅ |  |
+| `Kunlun` | Kunlun | Mirny ("Australian") Subnet | 4 | ✅ | ✅ |  |
+| `Zhongshan` | Zhongshan | Mirny ("Australian") Subnet | 3 | ✅ | ✅ |  |
+| `Sinheung` | Sinheung | Mirny ("Australian") Subnet | 3 | ✅ | ✅ |  |
+| `Shirayuki` | Shirayuki | Mirny ("Australian") Subnet | 4 | ✅ | ◐ |  |
+| `Concordia` | Concordia | Janbogo Subnet | 4 | ◐ | ☐ |  |
+| `Dumont_d_Urville` | Dumont d'Urville | Janbogo Subnet | 3 | ◐ | ☐ |  |
+| `Denison` | Denison | Janbogo Subnet | 4 | ◐ | ☐ |  |
 | `Cape_Adare` | Cape Adare | Janbogo Subnet | 3 | ☐ | ☐ |  |
 | `Janbogo` | Janbogo | Janbogo Subnet | 5 | ☐ | ☐ |  |
 | `Zukelli` | Zukelli | Janbogo Subnet | 3 | ☐ | ☐ |  |
