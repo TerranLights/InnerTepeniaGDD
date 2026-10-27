@@ -45,3 +45,5 @@ Developer, 2026-10-26: two rounds at full depth for every city; accuracy and dep
 | `Byrd_a` | Byrd | Byrd Subnet | 5 | ☐ | ☐ |  |
 | `Byrd_b` | Byrd | Byrd Subnet | 5 | ☐ | ☐ |  |
 | `Amundsen_Station_Amundsen_Scott_Station_reference_only` | Amundsen Station · Amundsen-Scott Station [reference-only] | South Pole [special case] | 7 | ☐ | ☐ |  |
+
+**Concordia is deferred (developer, 2026-10-26):** its inspirations must be researched per district, separately. Leave its row as it is until the district lists exist.
