@@ -523,7 +523,7 @@ National communities are classified by tier based on long-run population share. 
 
 *Note: Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section C.*
 
-*Scenario note, 2026-10-28 (`DR-68`):* the Santa Luce redistribution is applied. Rows marked ⭐ changed; **national totals are unchanged** (rows plus the maritime fleet sum to the TOTAL). **The Rank column was NOT re-sorted** (it is historical, and datasheets cite these row numbers); Santa Luce now falls below its listed rank. **The National Origin tables below are stale for the changed cities and must be rebuilt** as a direct sum of the Specs files, not patched (the file's own standing rule).
+*Scenario note, 2026-10-28 (`DR-68`):* the Santa Luce redistribution is applied. Rows marked ⭐ changed; **national totals are unchanged** (rows plus the maritime fleet sum to the TOTAL). **The Rank column was NOT re-sorted** (it is historical, and datasheets cite these row numbers); Santa Luce now falls below its listed rank. **The Census I National Origin table below was rebuilt 2026-10-28** as a direct sum of the Specs files, as the file's own standing rule requires.
 
 ### Subnet Totals — Census I
 
@@ -541,11 +541,11 @@ National communities are classified by tier based on long-run population share. 
 | *Non-city: maritime fleet* | 11,205 | 11,777 | **22,982** |
 | **TOTAL** | **15,623,523** | **16,403,077** | **32,026,600** |
 
-*Recomputed 2026-10-28 (`DR-68`) directly from the city rows above (plus the non-city groups), which also pays the subnet-total debt the §D-OVERFLOW ledger marked STILL OWED since 2026-09-05: the old subnet rows had not absorbed the 2026-09-05 trims or the Relung Panen row. **The per-nation National Origin table is still owed.**
+*Recomputed 2026-10-28 (`DR-68`) directly from the city rows above (plus the non-city groups), which also pays the subnet-total debt the §D-OVERFLOW ledger marked STILL OWED since 2026-09-05: the old subnet rows had not absorbed the 2026-09-05 trims or the Relung Panen row. **The per-nation National Origin table was rebuilt 2026-10-28 (`DR-69`).**
 
 ### National Origin Totals — Human Population (Census I)
 
-*Recalculated 2026-07-03. Rebuilt from scratch using each city's actual Gini-adjusted nation weights (see `Upper_Earth_Immigration_Composition.md`), applied proportionally against each city's current Census I human population — not the simplified tier-share approximation. Human exile population only — robot population is distributed in approximate proportion but is not tracked separately by national origin in this registry.*
+*Recalculated 2026-07-03. Rebuilt from scratch using each city's actual Gini-adjusted nation weights (see `Upper_Earth_Immigration_Composition.md`), applied proportionally against each city's current Census I human population — not the simplified tier-share approximation. Human exile population only — robot population is distributed in approximate proportion but is not tracked separately by national origin in this registry.* ***Rebuilt again 2026-10-28 (`DR-69`):*** *as the direct sum of the Census I human column in each of the 38 city Specs files (Kunlun and Dome Fuji have no humans; the "founding wave" annotations on Belgrano's Argentina, Chile and Uruguay rows are folded into those nations), after the Santa Luce population scenario moved humans among 25 cities. The 11,205 humans in the new Census I maritime fleet have no assigned nation and are listed on their own row, so the table total is the sum of its rows; the specs' de-stacked tables differ from the census by +15 in all (a rounding residue, e.g. Sejong and Palmer City), and the national human total is 15,623,523.*
 
 *Kunlun's population remains entirely robot after its 2026-07-06 re-resolution (no longer single-nation Chinese, now a curated 19-nation population), so it does not appear in this humans-only table.*
 
@@ -561,29 +561,29 @@ National communities are classified by tier based on long-run population share. 
 
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| USA | 2,529,222 | | Vietnam | 165,924 |
-| China | 1,674,974 | | Philippines | 163,255 |
-| Japan | 918,227 | | Lithuania | 158,021 |
-| South Korea | 870,260 | | Italy | 157,130 |
-| UK | 873,504 | | Serbia | 156,627 |
-| Brazil | 743,655 | | Poland | 154,447 |
-| Germany | 743,155 | | Slovenia | 154,061 |
-| Australia | 699,743 | | Czech Republic | 151,992 |
-| Indonesia | 550,471 | | Thailand | 149,974 |
-| France | 511,352 | | Slovakia | 144,238 |
-| Russia | 437,358 | | Ukraine | 142,645 |
-| Canada | 324,474 | | Bulgaria | 138,353 |
-| Mexico | 275,257 | | Croatia | 136,798 |
-| Argentina | 248,616 | | Latvia | 134,638 |
-| Chile | 227,669 | | Norway | 126,449 |
-| New Zealand | 227,651 | | Netherlands | 125,467 |
-| Estonia | 189,682 | | Belarus | 121,444 |
-| Malaysia | 184,686 | | Uruguay | 119,037 |
-| Hungary | 177,788 | | Finland | 109,747 |
-| Romania | 171,155 | | Spain | 75,997 |
-| South Africa | 169,774 | | Belgium | 45,000 |
-| | | | Sweden | 43,615 |
-| | | | **TOTAL** | **15,623,521** |
+| USA | 2,465,982 | | Italy | 164,828 |
+| China | 1,660,450 | | South Africa | 162,380 |
+| Japan | 953,710 | | Romania | 157,542 |
+| South Korea | 892,502 | | Poland | 150,532 |
+| UK | 856,776 | | Slovenia | 150,526 |
+| Germany | 735,885 | | Serbia | 148,757 |
+| Australia | 727,081 | | Czech Republic | 144,102 |
+| Brazil | 706,739 | | Slovakia | 140,767 |
+| Indonesia | 606,976 | | Lithuania | 136,787 |
+| Russia | 496,007 | | Bulgaria | 136,340 |
+| France | 491,209 | | Ukraine | 131,409 |
+| Canada | 327,961 | | Croatia | 130,019 |
+| Mexico | 278,536 | | Belarus | 122,235 |
+| Argentina | 240,022 | | Norway | 121,504 |
+| Chile | 229,408 | | Uruguay | 119,026 |
+| New Zealand | 226,668 | | Latvia | 118,395 |
+| Malaysia | 198,508 | | Netherlands | 118,050 |
+| Vietnam | 197,574 | | Finland | 103,624 |
+| Philippines | 196,541 | | Spain | 77,165 |
+| Thailand | 173,181 | | Belgium | 42,852 |
+| Hungary | 167,311 | | Sweden | 39,983 |
+| Estonia | 166,483 | | *Maritime fleet (no nation assigned)* | 11,205 |
+|  |  | | **TOTAL** | **15,623,538** |
 
 *Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. **Resolved 2026-07-13:** this file's own City Populations table (above) previously did not mark Denison as destroyed, despite Section D below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document. Fixed, adding the "(destroyed)" tag to Denison's row to match Zukelli's own already-correct row. The same gap was found, opportunistically, on Cape Adare's row three lines above Denison's — also fixed, matching `Specs/Cape_Adare.md`'s own already-established "Destroyed" status.*
 
@@ -660,7 +660,7 @@ National communities are classified by tier based on long-run population share. 
 | *Non-city: maritime fleet* | 4,053 | 3,869 | **7,922** |
 | **TOTAL (Antarctic)** | **10,486,701** | **11,434,935** | **21,921,636** |
 
-*Recomputed 2026-10-28 (`DR-68`) directly from the city rows above (plus the non-city groups), which also pays the subnet-total debt the §D-OVERFLOW ledger marked STILL OWED since 2026-09-05: the old subnet rows had not absorbed the 2026-09-05 trims or the Relung Panen row. **The per-nation National Origin table is still owed.**
+*Recomputed 2026-10-28 (`DR-68`) directly from the city rows above (plus the non-city groups), which also pays the subnet-total debt the §D-OVERFLOW ledger marked STILL OWED since 2026-09-05: the old subnet rows had not absorbed the 2026-09-05 trims or the Relung Panen row. **The per-nation National Origin table was rebuilt 2026-10-28 (`DR-69`).**
 
 *Corrected 2026-07-05 — this row was stale (see the matching correction note on the City Populations table above). Verified the individual subnet rows above are internally correct and already include Denison (e.g., Janbogo's 2,466,687 sums exactly across its 8 member cities including Denison) — only this summary row itself hadn't been recalculated.*
 
@@ -743,7 +743,7 @@ on the nose:**
 returns to what it was before any of it started, because population was only ever moved between rows on a
 page.* **Verified by summing both tables directly, 2026-09-05; every row also checks H + R = C.**
 
-⚠ **STILL OWED — subnet totals and the per-nation origin table. *(Subnet totals paid 2026-10-28, `DR-68`; the per-nation table is still owed.)*** *The Mirny subnet gains 947,954 and loses
+⚠ **STILL OWED — subnet totals and the per-nation origin table. *(Subnet totals paid and the per-nation table rebuilt 2026-10-28, `DR-68`/`DR-69`.)*** *The Mirny subnet gains 947,954 and loses
 352,710 (net **+595,244**); Halley loses 262,032; Palmer and Janbogo were already short by Port Lockroy,
 Dumont d'Urville and Denison.* ⛔ **The National Origin table must NOT be patched** — *its own notes say to
 rebuild it as a direct sum of the Specs files, and Relung Panen has no Specs file yet.*
