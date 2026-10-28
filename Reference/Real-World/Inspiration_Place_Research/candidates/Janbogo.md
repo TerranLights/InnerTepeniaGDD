@@ -110,12 +110,12 @@
 | 77 | Icelandic volunteer search and rescue (Landsbjörg) | F8 | A national volunteer rescue network funded largely by New Year's fireworks sales [K1, K8, K14]. | PRIMARY | Strong non-obvious funding detail; verify. |
 | 78 | Winter-road dispatch towns (Yellowknife as the base of the winter haul) | F1, F7 | A town whose seasonal work rhythm is set by dispatching supply convoys to sites that cannot be reached otherwise [K7, K5]. | SUPPORTING | Work culture of the town only; corridors take no pick. |
 | 79 | Split and Diocletian's Palace | F11 | A city that grew inside and onto an earlier built structure, reusing its walls as homes and streets [K4]. | SECONDARY | (none) |
-| 80 | Oradour-sur-Glane, France | F13 | A destroyed village left as a memorial, with a new town built beside it whose residents live with the ruin [K9]. | SECONDARY | ⚠ F13 may be post-war material; sensitive history, report plainly. |
-| 81 | Lidice, Czech Republic | F13 | A village destroyed as a deliberate reprisal and warning, now a memorial beside a rebuilt village [K9]. | SUPPORTING | ⚠ As above; sensitive history. |
-| 82 | Belchite, Spain | F13 | A ruined old town kept standing beside the new one [K9]. | SUPPORTING | ⚠ As above. |
-| 83 | Plymouth, Montserrat | F13 | A buried former capital seen across an exclusion zone from the inhabited part of the island [K9, K5]. | SECONDARY | ⚠ As above; a natural disaster, so the "warning" part does not transfer. |
-| 84 | Varosha, seen from Famagusta | F13 | A fenced, empty district visible from a living city for decades [K9]. | SUPPORTING | ⚠ As above; political conflict, report neutrally. |
-| 85 | Hiroshima's Genbaku Dome | F13 | A ruin deliberately kept in view at the center of a rebuilt city [K9]. | SUPPORTING | ⚠ As above; sensitive history. |
+| 80 | Oradour-sur-Glane, France | F13 | A destroyed village left as a memorial, with a new town built beside it whose residents live with the ruin [K9]. | STRUCK (developer 2026-10-27: post-destruction memorials, war material) [was SECONDARY] | ⚠ F13 may be post-war material; sensitive history, report plainly. |
+| 81 | Lidice, Czech Republic | F13 | A village destroyed as a deliberate reprisal and warning, now a memorial beside a rebuilt village [K9]. | STRUCK (developer 2026-10-27: post-destruction memorials, war material) [was SUPPORTING] | ⚠ As above; sensitive history. |
+| 82 | Belchite, Spain | F13 | A ruined old town kept standing beside the new one [K9]. | STRUCK (developer 2026-10-27: post-destruction memorials, war material) [was SUPPORTING] | ⚠ As above. |
+| 83 | Plymouth, Montserrat | F13 | A buried former capital seen across an exclusion zone from the inhabited part of the island [K9, K5]. | STRUCK (developer 2026-10-27: post-destruction memorials, war material) [was SECONDARY] | ⚠ As above; a natural disaster, so the "warning" part does not transfer. |
+| 84 | Varosha, seen from Famagusta | F13 | A fenced, empty district visible from a living city for decades [K9]. | STRUCK (developer 2026-10-27: post-destruction memorials, war material) [was SUPPORTING] | ⚠ As above; political conflict, report neutrally. |
+| 85 | Hiroshima's Genbaku Dome | F13 | A ruin deliberately kept in view at the center of a rebuilt city [K9]. | STRUCK (developer 2026-10-27: post-destruction memorials, war material) [was SUPPORTING] | ⚠ As above; sensitive history. |
 
 ---
 

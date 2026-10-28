@@ -118,6 +118,7 @@ Tier is a **suggestion only**. Kind tags (K1–K14) from `WHAT_TO_LOOK_FOR.md` a
 | 83 | **Tristan da Cunha** | F8, F9 | A remote inhabited island reached only by rare ships, where remoteness itself is part of the island's identity (K5). | SUPPORTING | none |
 | 84 | **Eurasian pole of inaccessibility marker, near Ürümqi** | F8 | A marker for the land point furthest from any ocean, which makes "furthest from everywhere" into a site. | SUPPORTING | Unsure whether the marker exists as described. |
 | 85 | **Agency-owned science towns (e.g., Richland, Washington; Los Alamos before local government)** | F5, F8 | Towns where a government science body owned the houses and ran the services until residents took over, a governance shape built around the work (K1, K8). | SECONDARY | A kind of place. Verify the handover dates. |
+| 86 | **Solo road-travel music** [DEVELOPER-ADDED 2026-10-27, subnet-wide; first framed as truck-driving country music] | (to be set in review) | Music for traveling alone on the road: whatever songs, genres or listening habits belong to long solo drives and the stops along them. The developer says it is not necessarily country music, and that it applies to all the Australian-associated cities. Research the kind of music and listening culture around solo road travel in real places (long-haul and other solo drivers), not one genre. | (tier to be set) | Added from Casey's row 25 by the developer's direction; judge which of this city's facets it speaks to. |
 
 ---
 

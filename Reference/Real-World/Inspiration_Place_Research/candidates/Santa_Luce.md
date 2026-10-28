@@ -37,8 +37,8 @@
 | 7 | San Carlos de Bariloche, Argentina | F2, F6, F7 | An inland mountain city whose identity mixes a physics research center and institute with tourism, settled by many origins [K8, K12, K14] | PRIMARY | Nation irrelevant to the pick |
 | 8 | Winnipeg, Canada | F2, F5, F9 | A cold, isolated interior city of roughly three-quarters of a million, nationally low-profile, with an arts scene often credited to long winters and a winter festival [K3, K13] | PRIMARY | The "winter made the arts" claim is a popular account; verify |
 | 9 | Porto Alegre participatory budgeting | F5, F8 | A city of over a million that ran part of its budget through neighborhood assemblies, putting civic negotiation at neighborhood scale [K1] | PRIMARY | Verify how much of the program survives |
-| 10 | Baarle-Hertog / Baarle-Nassau [EXISTING] | F8 | A town where two administrations interlock street by street, forcing household-scale coordination [K4, K6] | PRIMARY (developer's tier) | Chosen for the old "two peoples" idea; see section 3 |
-| 11 | Sark, Channel Islands [EXISTING] | F8 | Governance at near-household scale in a tiny self-governing community [K1, K6] | PRIMARY (developer's tier) | Scale mismatch with F5; see section 3 |
+| 10 | Baarle-Hertog / Baarle-Nassau [EXISTING] | F8 | A town where two administrations interlock street by street, forcing household-scale coordination [K4, K6] | SUPPORTING (demoted by the developer 2026-10-27, pending the scale ruling) [was PRIMARY (developer's tier)] | Chosen for the old "two peoples" idea; see section 3 |
+| 11 | Sark, Channel Islands [EXISTING] | F8 | Governance at near-household scale in a tiny self-governing community [K1, K6] | SUPPORTING (demoted by the developer 2026-10-27, pending the scale ruling) [was PRIMARY (developer's tier)] | Scale mismatch with F5; see section 3 |
 | 12 | Whittier, Alaska [EXISTING] | F3, F8, F9 | Nearly the whole town lives in one building, making "everyone knows everyone" the organizing fact of civic life in a hard climate [K4, K10] | SECONDARY (developer's tier) | Scale mismatch with F5; see section 3 |
 | 13 | Ny-Ålesund, Svalbard [EXISTING] | F4, F6, F7 | A research settlement where several national programs work side by side in one tiny place [K4, K7] | SUPPORTING (developer's tier) | Station-to-station parallel; see section 3 |
 | 14 | Grímsfjall huts and the Iceland Glaciological Society spring expedition | F1, F7 | A volunteer scientific society that keeps research huts on a nunatak above an ice cap and returns every spring [K2, K14] | SECONDARY | Verify the society's name, the hut location and the expedition's regularity |
@@ -103,6 +103,7 @@
 | 73 | Harbin Ice and Snow Festival | F9 | A festival created to fill the cold season, building a city of ice [K3] | SUPPORTING | |
 | 74 | Sapporo Snow Festival | F9 | A winter festival that grew from a small local start into a civic institution [K3] | SUPPORTING | |
 | 75 | Festival du Voyageur, Winnipeg | F9 | A winter festival in a cold interior city with snow sculpture, music and food [K3, K12] | SUPPORTING | Could fold into row 8 |
+| 76 | **Tromsø International Film Festival** [DEVELOPER-ADDED 2026-10-27, from Sanay row 81] | F4, F9 | A festival placed in the dark season to fill it [K3]. Developer: Santa Luce is a residential city and would likely have something vaguely similar, for similar reasons. | SECONDARY | Tier mirrors Sanay's row; developer to confirm. Row 39 (Tromsø) already mentions this festival inside a wider city entry; this row stands for the dark-season-festival idea on its own. |
 
 ---
 

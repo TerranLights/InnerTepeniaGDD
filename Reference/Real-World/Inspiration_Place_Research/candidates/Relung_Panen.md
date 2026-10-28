@@ -132,6 +132,7 @@ Tier is a **suggestion only**. Kind tags (K1–K14) from `WHAT_TO_LOOK_FOR.md` a
 | 94 | **Fordlândia, Brazil** | F8, F9 | A transplanted company town for one crop that failed in a hostile setting (K9). | SUPPORTING | none |
 | 95 | **Las Vegas and the Southern Nevada Water Authority** | F4, F8, F12 | A large desert city that lives by water rules and a dam's power (K1, K6). | SUPPORTING | none |
 | 96 | **Hungarian agro-towns and their tanya farmsteads (Kecskemét, Hódmezővásárhely)** | F8, F1, F7 | Large towns whose people were farmers, with homesteads scattered across open land (K7, K4). | SUPPORTING | none |
+| 97 | **Solo road-travel music** [DEVELOPER-ADDED 2026-10-27, subnet-wide; first framed as truck-driving country music] | (to be set in review) | Music for traveling alone on the road: whatever songs, genres or listening habits belong to long solo drives and the stops along them. The developer says it is not necessarily country music, and that it applies to all the Australian-associated cities. Research the kind of music and listening culture around solo road travel in real places (long-haul and other solo drivers), not one genre. | (tier to be set) | Added from Casey's row 25 by the developer's direction; judge which of this city's facets it speaks to. |
 
 ---
 

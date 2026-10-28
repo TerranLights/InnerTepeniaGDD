@@ -136,6 +136,7 @@ Tier is a **suggestion only**. Kind tags (K1–K14) from `WHAT_TO_LOOK_FOR.md` a
 | 95 | **Chuño freeze-drying on the Andean altiplano** | F4, F16, F3 | Food preserved by night frost and dry, thin air: the climate itself used as the preserver (K12). | SECONDARY | none |
 | 96 | **Kourou (Guiana Space Center)** | F6, F7 | A spaceport town with a multinational technical staff (K4, K8). | SUPPORTING | Report colonial history neutrally. |
 | 97 | **Woomera, South Australia** | F10, F5 | A rocket range town inside a prohibited area, with entry controlled for safety (K6). | SUPPORTING | none |
+| 98 | **Solo road-travel music** [DEVELOPER-ADDED 2026-10-27, subnet-wide; first framed as truck-driving country music] | (to be set in review) | Music for traveling alone on the road: whatever songs, genres or listening habits belong to long solo drives and the stops along them. The developer says it is not necessarily country music, and that it applies to all the Australian-associated cities. Research the kind of music and listening culture around solo road travel in real places (long-haul and other solo drivers), not one genre. | (tier to be set) | Added from Casey's row 25 by the developer's direction; judge which of this city's facets it speaks to. |
 
 ---
 

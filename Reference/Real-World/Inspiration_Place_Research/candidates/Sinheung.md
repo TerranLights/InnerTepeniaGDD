@@ -115,6 +115,7 @@ Tier is a **suggestion only**. Kind tags (K1–K14) from `WHAT_TO_LOOK_FOR.md` a
 | 79 | **Native-place associations (huiguan) in Qing-era Beijing and Shanghai** | F13 | Halls kept in the capital by people from one home city, giving lodging, meeting space and trade networks (K4). | SECONDARY | Same nation note as #13. |
 | 80 | **Auvergnats in Paris** | F13 | People from one province who ran a whole trade (cafés and coal) in the capital and kept their own associations and newspaper (K4, K10). | SECONDARY | none |
 | 81 | **Oak Ridge, Tennessee, USA** | F12, F7 | A modest town built to produce one foundational material, its national weight hidden behind an ordinary civic profile. | SUPPORTING | Its product was military; take the structure only. |
+| 82 | **Solo road-travel music** [DEVELOPER-ADDED 2026-10-27, subnet-wide; first framed as truck-driving country music] | (to be set in review) | Music for traveling alone on the road: whatever songs, genres or listening habits belong to long solo drives and the stops along them. The developer says it is not necessarily country music, and that it applies to all the Australian-associated cities. Research the kind of music and listening culture around solo road travel in real places (long-haul and other solo drivers), not one genre. | (tier to be set) | Added from Casey's row 25 by the developer's direction; judge which of this city's facets it speaks to. |
 
 **Count: 81 candidates (3 existing + 78 new).**
 

@@ -124,6 +124,7 @@ Tier is a **suggestion only**. Kind tags (K1–K14) from `WHAT_TO_LOOK_FOR.md` a
 | 86 | **Seamen's libraries (kind of place: merchant-marine library associations; ships' book boxes)** | F14, F1 | Port-side lending systems that moved books in and out on ships, so a port's reading came in with its cargo (K10). | SUPPORTING | Confirm one well-documented example. |
 | 87 | **Rjukan's sun mirror, Norway** | F7, F13 | A valley town in seasonal shadow that built mirrors to bring sunlight to its square, a civic answer to a light gap (K3). | SUPPORTING | none |
 | 88 | **Fairbanks Midnight Sun Game, Alaska** | F7, F13 | A baseball game played near midnight on the solstice without lights, a custom running for over a century (K2). | SUPPORTING | none |
+| 89 | **Solo road-travel music** [DEVELOPER-ADDED 2026-10-27, subnet-wide; first framed as truck-driving country music] | (to be set in review) | Music for traveling alone on the road: whatever songs, genres or listening habits belong to long solo drives and the stops along them. The developer says it is not necessarily country music, and that it applies to all the Australian-associated cities. Research the kind of music and listening culture around solo road travel in real places (long-haul and other solo drivers), not one genre. | (tier to be set) | Added from Casey's row 25 by the developer's direction; judge which of this city's facets it speaks to. |
 
 ---
 

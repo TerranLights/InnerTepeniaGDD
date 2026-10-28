@@ -120,6 +120,7 @@ Tier is a **suggestion only**. Kind tags (K1–K14) from `WHAT_TO_LOOK_FOR.md` a
 | 83 | **The rediscovery of Vitruvius (1414)** | F12 | Renaissance builders reconstructing classical architecture from a recovered text rather than from living masters; learning from paper, with its gaps and misreadings. | SECONDARY | none |
 | 84 | **Hohenpeißenberg Observatory, Bavaria** | F12, F14 | One of the longest continuous mountain weather records, begun by monks; pride in an unbroken record kept through changing hands. | SUPPORTING | Verify the start date (~1781). |
 | 85 | **Cornish language revival** | F12 | A tradition reconstructed from written records by people with no living teacher; the results diverge from the original. | SUPPORTING | Language work is not this file's job; take the structure (learning from records), not language material. |
+| 86 | **Solo road-travel music** [DEVELOPER-ADDED 2026-10-27, subnet-wide; first framed as truck-driving country music] | (to be set in review) | Music for traveling alone on the road: whatever songs, genres or listening habits belong to long solo drives and the stops along them. The developer says it is not necessarily country music, and that it applies to all the Australian-associated cities. Research the kind of music and listening culture around solo road travel in real places (long-haul and other solo drivers), not one genre. | (tier to be set) | Added from Casey's row 25 by the developer's direction; judge which of this city's facets it speaks to. |
 
 **Count: 85 candidates (4 existing + 81 new).**
 

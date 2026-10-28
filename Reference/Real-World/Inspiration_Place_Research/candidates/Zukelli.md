@@ -118,6 +118,7 @@ Tags in the "Why" column are hints only (K = kind from `WHAT_TO_LOOK_FOR.md`; `[
 | 82 | **Longyearbyen: Polarjazz and Solfestuka, Svalbard** | F12, F9 | A jazz festival in polar winter and a sun-festival week when the light comes back [K3, K2]. | SUPPORTING | |
 | 83 | **Warsaw Old Town rebuilt from documents** | F14 | A historic core recreated with the help of paintings, drawings and records left behind [K14]. | SUPPORTING | The parallel is documents as a starting point only; the war context is not an input. |
 | 84 | **Hofjes (Dutch almshouse courtyards)** | F4, F15 | Enclosed courtyards of small houses around a shared garden, sheltered from the street [K4]. | SUPPORTING | |
+| 85 | **Melbourne, Australia (laneway café culture)** [ADDED 2026-10-27 after the developer's ruling] | F5, F8, F9 | A large city whose food, coffee and music life grew in narrow back lanes and small venues, not on its main streets [K10, K12, K13]. | SECONDARY | Added back: it had been left out only because it is in the founders' nation, which the neutrality rule forbids. Verify. |
 
 ---
 

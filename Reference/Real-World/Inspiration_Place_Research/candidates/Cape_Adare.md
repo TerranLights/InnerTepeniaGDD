@@ -90,7 +90,7 @@
 | 55 | Guadix cave houses, Spain | F10, F11 | Thousands of residents live in modern cave houses that keep an even temperature year-round [K4]. | SUPPORTING | |
 | 56 | Coober Pedy, South Australia | F10, F11 | A town whose homes, churches and shops are dug underground to escape the climate [K4, K14]. | SUPPORTING | Heat, not cold; the structure carries. Not chosen for nation. |
 | 57 | Reykjavík district heating and public pools | F11, F12 | City-wide heating feeds outdoor public pools whose hot tubs are daily civic meeting places, where people simply talk [K10, K1]. | PRIMARY | |
-| 58 | Holland, Michigan snowmelt system | F11 | A downtown kept clear of snow by pipes carrying waste heat from a power plant, said to be the largest municipal system of its kind [K1, K8]. | SUPPORTING | Verify the "largest" claim; Klamath Falls, Oregon, is an alternative. |
+| 58 | Holland, Michigan snowmelt system | F11 | A downtown kept clear of snow by pipes carrying waste heat from a power plant, said to be the largest municipal system of its kind [K1, K8]. | SUPPORTING | Verify the "largest" claim; Klamath Falls, Oregon, is an alternative. Developer 2026-10-27: keep; also a mechanic that is possible in every city. |
 | 59 | Hveragerði, Iceland | F11, F16 | A small greenhouse town grown on piped heat, with warm-climate horticulture in a cold place [K12, K8]. | SUPPORTING | |
 | 60 | Inuvik Community Greenhouse, Northwest Territories | F11, F12 | A former hockey arena turned into a community-run greenhouse in the far north, a volunteer warm space [K1, K10]. | SECONDARY | |
 | 61 | Kinosaki Onsen, Japan | F11, F12 | A small town whose public baths, linked by walks between them, make warmth the slow center of civic life [K10, K6]. | SUPPORTING | |

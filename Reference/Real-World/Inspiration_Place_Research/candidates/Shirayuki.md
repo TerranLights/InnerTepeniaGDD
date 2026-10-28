@@ -119,6 +119,7 @@ Tier is a **suggestion only**. Kind tags (K1–K14) from `WHAT_TO_LOOK_FOR.md` a
 | 83 | **Ein Hod** | F2, F12 | An artists' village founded in buildings left empty when the earlier residents were displaced. | SUPPORTING | A displacement history; report neutrally and plainly (K9). |
 | 84 | **Taos art colony, New Mexico** | F9, F4, F8 | A high-desert town where painters came for the light, near a later science town (K13). | SUPPORTING | The neighboring Indigenous community's relation to the colony is part of the record. |
 | 85 | **Uppsala student nations** | F7, F13 | Student societies by home region that run clubs, kitchens and balls, so students from everywhere have a home (K4, K10, K12). | SUPPORTING | none |
+| 86 | **Solo road-travel music** [DEVELOPER-ADDED 2026-10-27, subnet-wide; first framed as truck-driving country music] | (to be set in review) | Music for traveling alone on the road: whatever songs, genres or listening habits belong to long solo drives and the stops along them. The developer says it is not necessarily country music, and that it applies to all the Australian-associated cities. Research the kind of music and listening culture around solo road travel in real places (long-haul and other solo drivers), not one genre. | (tier to be set) | Added from Casey's row 25 by the developer's direction; judge which of this city's facets it speaks to. |
 
 ---
 
