@@ -31,10 +31,10 @@ not a spec.**
 
 | | Humans | Robots | **Combined** |
 |---|--:|--:|--:|
-| **Census I** *(Pre-Orbital Era)* | **465,147** | **482,807** | **947,954** |
-| **Census II** *(Orbital Era)* | **332,844** | **345,324** | **678,168** |
+| **Census I** *(Pre-Orbital Era)* | **477,285** | **494,585** | **971,870** |
+| **Census II** *(Orbital Era)* | **340,951** | **353,062** | **694,013** |
 
-**CII/CI retention 71.5%.** **2,107/km² on the oasis's 450 km² of ice-free rock — the emptiest city in the
+*(Raised 2026-10-28 from 465,147 / 482,807 / 947,954 and 332,844 / 345,324 / 678,168 by the Santa Luce scenario; the original pool figures below are the 2026-09-05 record and are left as written.)* **CII/CI retention 71.4%.** **2,160/km² on the oasis's 450 km² of ice-free rock — the emptiest city in the
 Federation, and deliberately so.**
 
 **Its population is the redistribution pool, discharged in full:**
@@ -57,7 +57,7 @@ Federation, and deliberately so.**
 > anything at this site, and never write the reductions as migration, exodus or displacement.**
 > ⭐ *The standing rule: the census is a RECORD, and its editing history is not events.*
 
-### ⭐ Why the number is what it is — and it was not chosen to fit
+### ⭐ Why the number is what it is — and it was not chosen to fit *(⚠ corrected 2026-10-28: the 26.0% deficit and "not optional" cited below were superseded by `Division_of_Industry/13` §15 (2026-09-02), which found a national surplus and made the city optional; its food role is now Strong, 25%, `DR-71`; the pool is now 971,870 / 694,013, `DR-68`)*
 
 **`Division_of_Industry/13_National_Balance_Under_the_Ruling.md` §7 had already found, from human caloric need
 and knowing nothing of any pool, that Tepenia runs a 26.0% NATIONAL FOOD DEFICIT** *(import need 545,902
@@ -96,18 +96,18 @@ are filtered, because there is exactly one door.***
 
 | Tier | Nation | d | Pool | **Share** | CI humans | CI robots | CII humans | CII robots |
 |---|---|:-:|--:|--:|--:|--:|--:|--:|
-| **Primary** | **China** | 1 | 210M | **21.58%** | **100,378** | **104,189** | 71,829 | 74,522 |
-| Significant | **Russia** | **0** | 25M | **12.60%** | 58,609 | 60,834 | 41,938 | 43,511 |
-| Significant | **Indonesia** | **0** | 16M | **12.23%** | 56,887 | 59,047 | 40,707 | 42,233 |
-| Significant | Japan | 2 | 65M | 11.98% | 55,725 | 57,840 | 39,875 | 41,370 |
-| Significant | South Korea | 2 | 26M | 11.22% | 52,189 | 54,171 | 37,345 | 38,745 |
-| Significant | Australia | 1 | 13M | 11.03% | 51,306 | 53,254 | 36,713 | 38,089 |
-| Notable | Thailand | **0** | 8M | 5.15% | 23,955 | 24,865 | 17,141 | 17,784 |
-| Notable | Vietnam | **0** | 5M | 4.76% | 22,141 | 22,982 | 15,843 | 16,437 |
-| Notable | Malaysia | 1 | 5M | 3.30% | 15,350 | 15,933 | 10,984 | 11,396 |
-| Notable | Philippines | 1 | 5M | 3.18% | 14,792 | 15,353 | 10,584 | 10,981 |
-| Notable | New Zealand | *gw* | 2.6M | 2.97% | 13,815 | 14,339 | 9,885 | 10,256 |
-| | **TOTAL** | | | **100.00%** | **465,147** | **482,807** | **332,844** | **345,324** |
+| **Primary** | **China** | 1 | 210M | **21.58%** | **102,997** | **106,731** | 73,579 | 76,192 |
+| Significant | **Russia** | **0** | 25M | **12.60%** | 60,138 | 62,318 | 42,959 | 44,486 |
+| Significant | **Indonesia** | **0** | 16M | **12.23%** | 58,371 | 60,487 | 41,698 | 43,179 |
+| Significant | Japan | 2 | 65M | 11.98% | 57,179 | 59,251 | 40,846 | 42,297 |
+| Significant | South Korea | 2 | 26M | 11.22% | 53,551 | 55,492 | 38,255 | 39,613 |
+| Significant | Australia | 1 | 13M | 11.03% | 52,645 | 54,553 | 37,607 | 38,943 |
+| Notable | Thailand | **0** | 8M | 5.15% | 24,580 | 25,472 | 17,558 | 18,183 |
+| Notable | Vietnam | **0** | 5M | 4.76% | 22,719 | 23,543 | 16,229 | 16,805 |
+| Notable | Malaysia | 1 | 5M | 3.30% | 15,751 | 16,322 | 11,252 | 11,651 |
+| Notable | Philippines | 1 | 5M | 3.18% | 15,178 | 15,727 | 10,842 | 11,227 |
+| Notable | New Zealand | *gw* | 2.6M | 2.97% | 14,176 | 14,689 | 10,126 | 10,486 |
+| | **TOTAL** | | | **100.00%** | **477,285** | **494,585** | **340,951** | **353,062** |
 
 ⭐ **Developer ruling on the Primary share: China reduced 28.58% → 21.58%**, the **7.00 freed points spread
 proportionally across Russia, Indonesia, Australia, Thailand and Vietnam** — *which is exactly **the four

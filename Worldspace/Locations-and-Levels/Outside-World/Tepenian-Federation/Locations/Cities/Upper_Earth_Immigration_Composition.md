@@ -611,18 +611,18 @@ Notable.** ⛔ *This is the only city in the corpus computed that way, and it is
 
 | Tier | Nation | d | Pool | **Share** | CI humans | CI robots | CII humans | CII robots |
 |---|---|:-:|--:|--:|--:|--:|--:|--:|
-| **Primary** | **China** | 1 | 210M | **21.58%** | **100,378** | **104,189** | 71,829 | 74,522 |
-| Significant | **Russia** | **0** | 25M | **12.60%** | 58,609 | 60,834 | 41,938 | 43,511 |
-| Significant | **Indonesia** | **0** | 16M | **12.23%** | 56,887 | 59,047 | 40,707 | 42,233 |
-| Significant | Japan | 2 | 65M | 11.98% | 55,725 | 57,840 | 39,875 | 41,370 |
-| Significant | South Korea | 2 | 26M | 11.22% | 52,189 | 54,171 | 37,345 | 38,745 |
-| Significant | Australia | 1 | 13M | 11.03% | 51,306 | 53,254 | 36,713 | 38,089 |
-| Notable | Thailand | **0** | 8M | 5.15% | 23,955 | 24,865 | 17,141 | 17,784 |
-| Notable | Vietnam | **0** | 5M | 4.76% | 22,141 | 22,982 | 15,843 | 16,437 |
-| Notable | Malaysia | 1 | 5M | 3.30% | 15,350 | 15,933 | 10,984 | 11,396 |
-| Notable | Philippines | 1 | 5M | 3.18% | 14,792 | 15,353 | 10,584 | 10,981 |
-| Notable | New Zealand | *gw* | 2.6M | 2.97% | 13,815 | 14,339 | 9,885 | 10,256 |
-| | **TOTAL** | | | **100.00%** | **465,147** | **482,807** | **332,844** | **345,324** |
+| **Primary** | **China** | 1 | 210M | **21.58%** | **102,997** | **106,731** | 73,579 | 76,192 |
+| Significant | **Russia** | **0** | 25M | **12.60%** | 60,138 | 62,318 | 42,959 | 44,486 |
+| Significant | **Indonesia** | **0** | 16M | **12.23%** | 58,371 | 60,487 | 41,698 | 43,179 |
+| Significant | Japan | 2 | 65M | 11.98% | 57,179 | 59,251 | 40,846 | 42,297 |
+| Significant | South Korea | 2 | 26M | 11.22% | 53,551 | 55,492 | 38,255 | 39,613 |
+| Significant | Australia | 1 | 13M | 11.03% | 52,645 | 54,553 | 37,607 | 38,943 |
+| Notable | Thailand | **0** | 8M | 5.15% | 24,580 | 25,472 | 17,558 | 18,183 |
+| Notable | Vietnam | **0** | 5M | 4.76% | 22,719 | 23,543 | 16,229 | 16,805 |
+| Notable | Malaysia | 1 | 5M | 3.30% | 15,751 | 16,322 | 11,252 | 11,651 |
+| Notable | Philippines | 1 | 5M | 3.18% | 15,178 | 15,727 | 10,842 | 11,227 |
+| Notable | New Zealand | *gw* | 2.6M | 2.97% | 14,176 | 14,689 | 10,126 | 10,486 |
+| | **TOTAL** | | | **100.00%** | **477,285** | **494,585** | **340,951** | **353,062** |
 
 *Tier gaps: China → Russia **1.71×** (T1|T2); Australia → Thailand **2.14×** (T2|T3). Robot figures apply the
 same national proportions as the human population, per standing methodology.*

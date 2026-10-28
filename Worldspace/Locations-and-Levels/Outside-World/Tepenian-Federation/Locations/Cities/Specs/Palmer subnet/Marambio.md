@@ -45,7 +45,7 @@
 > *570,269 on ~78 km² is 7,311/km², inside the band on arrival. It did not need people.* **Bunger Hills was a
 > canon requirement that did not exist** — `Division_of_Industry/13` §7 had already established a **26.0%
 > national food deficit** and that a second agricultural region is *"not optional."* ***The pool does work
-> there that it could not do here.***
+> there that it could not do here.*** *[Corrected 2026-10-28: `13` §15 (2026-09-02) superseded the "26.0% deficit / not optional" finding; Relung Panen is optional, with a Strong 25% food role, `DR-71`.]*
 >
 > ⏸️ **What remains live from that proposal:** *the ~110 km² extent — Seymour plus a ~32 km² bridgehead on
 > Snow Hill's northern lobe across Picnic Passage — is **not needed for capacity** now, but it stands as the

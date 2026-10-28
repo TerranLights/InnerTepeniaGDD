@@ -11,7 +11,7 @@
 **Access type:** SPUR
 **Highway access:** ⭐ **Single-approach — a dedicated spur reaching east to Casey, joining Hwy 110 there** `[CGRM 2026-09-01 · Path 6 · developer ruling]`. ⛔ **The Denman crossing is NOT built; there is no western link to Mirny.** *Hwy 110 itself runs Zhongshan → Davis → Mirny → Casey → Concordia; this city is a spur off it, not a stop on it.* ⚠ **`Division_of_Industry/04`'s description of the site as "sitting naturally on Hwy 110" predates that ruling.**
 **Maritime access:** ⛔⛔ **NONE as built.** *The Shackleton Ice Shelf seals the oasis from open sea by **64–145 km**.* ⏸️ **A subglacial approach is PROPOSED, not ruled** — *Transkriptsii Gulf is a tidal epishelf lake connected to the ocean beneath the ice; the water route exists and is roofed rather than absent. It would be a **fifth port tier**, and it is the developer's call.*
-**Significance:** ⭐⭐ **The Federation's second agricultural region — the city that closes the national food deficit.** *`Division_of_Industry/13` §7 finds Tepenia short of feeding itself by **26.0%** and states outright that **"Relung Panen is not optional."*** **Also the emptiest city in Tepenia by density, and the only one with no port of its own and exactly one land approach.**
+**Significance:** ⭐⭐ **The Federation's second agricultural region, with a Strong (25%) food role (`DR-71`).** *The 2026-09-01 food model found a 26.0% national deficit and called the city "not optional"; `Division_of_Industry/13` §15 (2026-09-02) superseded that with a national surplus, making the city optional but desirable as an uncorrelated second supply.* **Also the emptiest city in Tepenia by density, and the only one with no port of its own and exactly one land approach.**
 
 ---
 
@@ -28,7 +28,7 @@
 > may ever be written.** *The census is a RECORD, and its editing history is not events.*
 
 **Extent band:** ⭐ **~450 km²** — *the ice-free oasis; up to 942 km² including marine areas.* **Density
-2,107/km² — the lowest in the Federation, deliberately.** *(`Extent_and_Density_Per_City.md` §11.)*
+2,160/km² — the lowest in the Federation, deliberately.** *(`Extent_and_Density_Per_City.md` §11, which gave 2,107 on the pre-2026-10-28 population of 947,954.)*
 
 | Tier | Nations |
 |------|---------|
@@ -193,8 +193,8 @@ than dry cold**, saturation and freeze–thaw rather than exposure and scour.*
 
 ## Founding
 
-**Settled:** ⏸️ **Nations ruled (Indonesia and Malaysia, jointly, `DR-34`); when, how and on what the settlement began remain open — developer decision.**
-**Founding population:** Indonesia and Malaysia, jointly (`DR-34`). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
+**Settled:** Some time shortly after the signing of the Falkland Treaty (2564) *(`DR-61`, 2026-10-26)*. **Indonesia, as a state, led the founding; Malaysia supported** *(founders Indonesia and Malaysia, jointly, `DR-34`; roles `DR-61`)*. Seed stock, livestock and equipment came primarily from Southeast Asia and, to a lesser extent, from Australia. **There was no pre-existing farmland or soil; the founders had to establish their own.** ⏸️ *Still open: how the settlement began (it depends on the port, still open), why, and the founding composition (TBD, decided on this city's own terms).*
+**Founding population:** Indonesia and Malaysia, jointly (`DR-34`); **Indonesia led, Malaysia supported** (`DR-61`, added 2026-10-28). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 > ⛔⛔ **TWO CONSTRAINTS BIND WHOEVER WRITES THIS, AND BOTH ARE STANDING:**
 > **1 · Nothing descends from the seven source rows** *(see Population & Composition above)* — **the pool was
@@ -225,11 +225,11 @@ is an equally good reason to build it and to have argued against building it.**
 
 ## Economy & Industry
 
-⭐⭐⭐ **The Federation's second agricultural region.** *`Division_of_Industry/13` §7, working from human
-caloric need and knowing nothing of this city's population, found Tepenia runs a **26.0% national food
-deficit** — import need 545,902 against supply 404,191 — and that a second agricultural region at **~765,007
-residents with a Davis-like 35% agricultural sector** closes it. Its verdict: **"Relung Panen is not
-optional."***
+⭐⭐⭐ **The Federation's second agricultural region, ruled a Strong (25%) food role (`DR-71`, 2026-10-28).** *`Division_of_Industry/13` §7 (2026-09-01), working from human caloric need and knowing nothing of this
+city's population, found a **26.0% national food deficit** (import need 545,902 against supply 404,191) and sized a second region at **~765,007 residents
+with a Davis-like 35% agricultural sector**. **§15 (2026-09-02) superseded that:** with every city classified geologically the nation has a **surplus**, so the city is **optional**, desirable for an uncorrelated second supply. At the current
+population (971,870 in Census I) a 25% share of its distinctive tier is about **108,149 agricultural workers**, feeding about **746,680 people beyond itself** (provisional difficulty D = 1.25; figures in
+`Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md`).*
 
 **Growing here is indoor stacked hydroponics, as everywhere** *(the criterion is power, footprint and
 foundation — **not** soil, sunlight or mild weather)*. ⭐ **This site has the footprint and the foundation in
