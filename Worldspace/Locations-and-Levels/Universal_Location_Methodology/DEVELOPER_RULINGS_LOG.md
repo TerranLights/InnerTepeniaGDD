@@ -1364,3 +1364,15 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Recorded as** | Cape Adare has no station of its own. Its **Mean** column is the **BAS READER 1991–2025 normal of the Possession Island AWS** (71.88 °S, 171.20 °E, 30 m, about 75 km SE; 23 to 34 years per month): annual mean **−11.4 °C**. Adare Hallett (1957–73, annual −15.5 °C) and Cape Ross were considered and not adopted; Hallett stays as the cold-winter sensitivity case in `Climate_Trio_Findings_2026-10-28.md`. |
 | **Not ruled / not measured** | Avg High and Avg Low for Cape Adare: the Possession Island record has daily maxima and minima for only 2025–26, so these two columns stay the earlier derived figures, flagged. Record extremes unchanged (they already use Possession Island and Hallett). A modern record for the cape itself was not found (the 1899 Southern Cross winter observations exist only as archive catalogue entries). |
 | **Files** | `Specs/Janbogo subnet/Cape_Adare.md`, `READER/Cape_Adare.md`, the Cape Adare datasheets and the findings file. The 17.8 MB IMAU AWS16 file is now at `to-be-integrated/climate data CURL/pangaea/` with a README. |
+
+---
+
+## `DR-71` · ✅ **RELUNG PANEN'S FOOD-PRODUCTION ROLE IS "STRONG" (25%)** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"We'll say that Relung Panen's food-production role can be set to Strong (25%)."* |
+| **Recorded as** | Relung Panen devotes **25% of its distinctive tier** (the workforce left after its baseline needs are covered) to agricultural production beyond its own needs. With the current populations and a provisional difficulty D = 1.25 that is **about 108,149 workers (14.7% of its workforce)**, feeding about **746,680 people beyond itself**; about 24.6% of all its workers are in food once its own food growing is counted. It supplies about 22.8% of national export supply (second-method counting) and leaves Davis, with the larger agricultural workforce, as "the city that grows more than anyone." National slack rises to about **12.1% (older counting) or 10.1% (current counting)**. Figures in `Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md` sections 3b and 4. |
+| **Not ruled / not derived** | Relung Panen's difficulty D (the 1.25 is a placeholder); its other mandated roles; the free-tier budget that remains (about 44% of its workforce before any other mandate); the Division of Industry row itself; whether to use the differentiation table; which counting convention the nation adopts for Davis's and Esperanza's farmers (still open). |
+| **Still stale and not edited** | The census row and founding note for Relung Panen that cite a "26.0% national food deficit" and "not optional"; the superseded sizing of about 765,007. |
+| **Files** | This log; `17_National_Balance_Refresh_2026-10-28.md`. |

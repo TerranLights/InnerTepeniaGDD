@@ -1,4 +1,4 @@
-# The National Balance Under the 10/90 Ruling — and the Framing Error It Exposed
+# The National Balance Under the 10/90 Ruling — and the Framing Error It Exposed *(2026-10-28: refreshed for the new populations in `17_National_Balance_Refresh_2026-10-28.md`; the figures below are the 2026-09 originals.)*
 
 > **2026-09-01.** `[CGRM 2026-09-01 · Path 2 · derivation]`
 >
