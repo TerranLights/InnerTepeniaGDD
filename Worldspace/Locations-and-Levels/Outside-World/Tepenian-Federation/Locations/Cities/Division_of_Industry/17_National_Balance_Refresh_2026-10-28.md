@@ -74,3 +74,10 @@ Added to the refreshed national slack: at 35% the slack becomes about **14.0%** 
 2. **The Davis/Esperanza denominator** (conventions A, B, C above) is unresolved and swings the slack by about 9 points.
 3. **The per-city determinations further down `16`** (Neumayer and others) still carry the old populations; they were not recomputed.
 4. **Relung Panen's own row** (D, other mandate roles, free tier) is not derived. **Its food share is now ruled at 25% (`DR-71`)**; the rest waits for D and the differentiation question (`15`, List A item 2).
+
+## 5 · Settled 2026-10-28 (`DR-73`, `DR-72`): convention B, and Relung Panen at D = 1.43
+
+- **Convention B is the national convention** (`DR-73`): mandated-role percentages are shares of the distinctive tier under the three-tier method. Conventions A and C above are retained only as the record of what the other files assumed.
+- **Relung Panen's difficulty is 1.43** (`DR-72`), replacing the placeholder 1.25 in sections 3b and 4. At 1.43 its baseline is 322,197 (43.9%), its distinctive tier 411,031 (56.1%), and the Strong 25% food role is **about 102,758 workers (14.0% of the workforce)**, feeding about 709,459 people beyond itself.
+- **National figures under B with that role:** export supply 468,126; balance about +91%; slack about **9.9%** of national humans (was 10.1% with the placeholder); Relung Panen supplies 22.0%, Davis 39.6%, Davis and Esperanza together 67.0%.
+- **Still open:** the percentages of the new mandated roles (agricultural research, seed breeding, phosphorus and soil recovery; cold-chain logistics pending the port and airport question), the free tier, and the Division of Industry row.

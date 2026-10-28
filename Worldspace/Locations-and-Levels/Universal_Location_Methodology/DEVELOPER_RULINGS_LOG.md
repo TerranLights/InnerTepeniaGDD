@@ -1376,3 +1376,25 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Not ruled / not derived** | Relung Panen's difficulty D (the 1.25 is a placeholder); its other mandated roles; the free-tier budget that remains (about 44% of its workforce before any other mandate); the Division of Industry row itself; whether to use the differentiation table; which counting convention the nation adopts for Davis's and Esperanza's farmers (still open). |
 | **Still stale and not edited** | The census row and founding note for Relung Panen that cite a "26.0% national food deficit" and "not optional"; the superseded sizing of about 765,007. |
 | **Files** | This log; `17_National_Balance_Refresh_2026-10-28.md`. |
+
+---
+
+## `DR-72` · ✅ **RELUNG PANEN: DIFFICULTY D = 1.43; FIRST MANDATED ROLES; THE REST DEFERRED** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"Agreed, let's say Option D (1.43)."* · *"Agricultural research, the city can probably share in a joint-venture ongoing research project with Davis, Ariun Nuur, and Zhongshan. seed breeding, phosphorus and soil recovery, can all be registered as official. Plus, in terms of cold-chain logistics, I'm thinking yes, but that'll get done once we figure out the port and airport question."* · On the free tier: *"As you've suggested"* (derive it after D and the mandates). On the port, airport and founding "how and why": *"we'll do further research first."* On the inspiration picks entry: *"we'll take care of that tomorrow."* |
+| **Recorded as** | **D = 1.43** (weather 15 + site access 5 + logistics minor 10 = 30% loss; 1 ÷ 0.70). Baseline 43.9% of the 733,228 workforce; distinctive tier 56.1% (about 411,031); the Strong 25% food role is then **about 102,758 workers (14.0% of the workforce)**, replacing the 108,149 that used the placeholder 1.25 (`DR-71`). **Official mandated roles, no percentages yet:** agricultural research (as a joint-venture ongoing research project shared with Davis, Ariun Nuur and Zhongshan), seed breeding, phosphorus and soil recovery. **Cold-chain logistics: yes in principle, to be registered once the port and airport question is settled.** |
+| **Not ruled / not derived** | The percentage of the distinctive tier for each new mandate; the free tier; the Division of Industry row itself; the port, airport and founding story (more research first); the census tier table is unaffected. The differentiation table is to be read before any industry is written. |
+| **Files** | This log; the arithmetic is in the session record (Relung Panen workforce 733,228; Census I 477,285 humans / 494,585 robots). |
+
+---
+
+## `DR-73` · ✅ **THE DENOMINATOR: A MANDATED-ROLE PERCENTAGE IS A SHARE OF THE DISTINCTIVE TIER (convention B)** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"sure, let's go with Option B"* |
+| **Recorded as** | Every national-role percentage (agriculture, education, medicine, logistics and the rest) is taken of the city's **distinctive tier** (workforce minus baseline, under the three-tier method), not of the whole workforce and not of the 2026-09-01 tier. This is the convention `16` already uses, so no finished determination changes. Davis agriculture 35% = **185,433** farmers; Esperanza 15% = **128,335**. National slack, before Relung Panen: **5.3%**. With Relung Panen's food role at D = 1.43 (about 102,758 workers, feeding about 709,000 beyond itself): export supply 468,126, balance about +91%, slack about **9.9%**; Relung Panen 22.0% of export supply, Davis 39.6%, Davis and Esperanza together 67.0%. |
+| **Not changed** | `13` §15 (written under convention A), `04` §3 and `National_Medical_and_Care_Institutes.md` (whole-workforce) are **not rewritten**; they state their own conventions and are superseded on this point by this ruling. The register item in `16` is still marked open and has not been annotated. |
+| **Files** | This log; `Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md` section 5. |
