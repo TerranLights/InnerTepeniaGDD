@@ -79,13 +79,13 @@ The station was designed by the International Polar Foundation as the first zero
 
 ### Annual Climate
 
-**Climate data source:** International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record
+**Climate data source:** International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record. **Measured data (added 2026-10-28):** the station's own IMAU AWS16, hourly, 2009-02 to 2020-07 (PANGAEA `10.1594/PANGAEA.974126`; copy in `to-be-integrated/climate data CURL/pangaea/`); the Mean, Avg High and Avg Low columns below are computed from it
 
 **Climate type:** Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; sheltered by the Sør Rondane Mountains, mean wind about 6 m/s; extreme-event gales remain possible (real station: gales to 300 km/h) *(reworded 2026-10-28 to agree with the researched wind line below)*
-**Mean annual temperature:** approximately −18°C
+**Mean annual temperature:** approximately −18°C *(measured at the station's own AWS16: the average of the twelve monthly means, −18.0 °C; confirmed 2026-10-28)*
 **Record extremes:** record high **+4.2 °C** (Dec); record low **-38.5 °C** (Aug) _(IMAU **AWS16**, *Utstein station* — ⭐ **0 km — this IS the station's own AWS**; **92,670 hourly observations**, 2009-02-02 to 2020-07-03. PANGAEA `10.1594/PANGAEA.974126`)_ *(researched 2026-09-04)*
 **Prevailing winds:** ⭐ **sheltered, and unusually so for its latitude.** The **Sør Rondane Mountains shield the Utsteinen ridge from the high-speed katabatic flow**; **mean wind 6 m/s — half that measured at the less-protected Asuka site nearby.** *(The ridge itself is still exposed to gales in extreme events.)* *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −30°C; warmest month avg −5°C
+**Temperature range:** coldest months avg −24°C; warmest month avg −9°C *(measured; corrected 2026-10-28)*
 **Polar night:** approximately May 16 → Jul 29 (~75 days)
 **Midnight sun:** approximately Nov 11 → Feb 1 (~83 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -100,29 +100,29 @@ The station was designed by the International Polar Foundation as the first zero
 **Lost to sublimation and wind transport:** ~60 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **MIXED.** At an annual mean of about **−18 °C** *(the stub climate file's figure, to be confirmed when the SANAE IV study is saved; "11 cities are colder" dropped 2026-10-28 under the law of one location)*, this is an elevated inland site, sheltered from the strongest katabatic flow by the Sør Rondane Mountains, with **low precipitation (~200 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+> ⚠ **MIXED.** At an annual mean of about **−18 °C** *(measured at the station's own AWS16 and confirmed 2026-10-28; the cross-city rank "11 cities are colder" is dropped under the law of one location)*, this is an elevated inland site, sheltered from the strongest katabatic flow by the Sør Rondane Mountains, with **low precipitation (~200 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +3.3 | +3 | −5 | −13 | −23.5 | 18 | ~32% | 24* |  |
-| Feb | 0 | −3 | −12 | −21 | −21.4 | 15 | ~30% | 18.5 |  |
-| Mar | −7.5 | −10 | −19 | −28 | −29 | 13 | ~28% | 13.4 |  |
-| Apr | −8.2 | −17 | −26 | −35 | −32.3 | 11 | ~26% | 8.3 |  |
-| May | −5.1 | −20 | −29 | −38 | −33.8 | 9 | ~24% | 1.2 |  |
-| Jun | −10.3 | −21 | −30 | −39 | −34.8 | 8 | ~23% | 0* |  |
-| Jul | −11 | −21 | −30 | −39 | −38.4 | 8 | ~23% | 0* |  |
-| Aug | −7 | −19 | −28 | −37 | −38.5 | 9 | ~24% | 5.7 |  |
-| Sep | −10.4 | −13 | −22 | −31 | −37.4 | 12 | ~27% | 11.0 |  |
-| Oct | −8 | −5 | −14 | −23 | −32.7 | 15 | ~30% | 15.9 |  |
-| Nov | −2.5 | +1 | −7 | −16 | −26.8 | 17 | ~31% | 24* |  |
-| Dec | +4.2 | +3 | −5 | −13 | −23 | 18 | ~32% | 24* |  |
+| Jan | +3.3 | −6.8 | −9.0 | −11.4 | −23.5 | 18 | ~32% | 24* |  |
+| Feb | 0 | −9.9 | −12.4 | −14.9 | −21.4 | 15 | ~30% | 18.5 |  |
+| Mar | −7.5 | −14.6 | −16.9 | −19.5 | −29 | 13 | ~28% | 13.4 |  |
+| Apr | −8.2 | −17.8 | −19.9 | −22.4 | −32.3 | 11 | ~26% | 8.3 |  |
+| May | −5.1 | −18.4 | −20.6 | −23.2 | −33.8 | 9 | ~24% | 1.2 |  |
+| Jun | −10.3 | −20.0 | −22.3 | −24.9 | −34.8 | 8 | ~23% | 0* |  |
+| Jul | −11 | −22.0 | −24.3 | −26.9 | −38.4 | 8 | ~23% | 0* |  |
+| Aug | −7 | −21.9 | −24.4 | −27.1 | −38.5 | 9 | ~24% | 5.7 |  |
+| Sep | −10.4 | −21.2 | −23.7 | −26.7 | −37.4 | 12 | ~27% | 11.0 |  |
+| Oct | −8 | −16.6 | −19.2 | −22.4 | −32.7 | 15 | ~30% | 15.9 |  |
+| Nov | −2.5 | −10.8 | −13.3 | −16.4 | −26.8 | 17 | ~31% | 24* |  |
+| Dec | +4.2 | −7.0 | −9.3 | −12.0 | −23 | 18 | ~32% | 24* |  |
 
 ***Monthly record extremes (IMAU **AWS16**, *Utstein station*)** — ⭐ **measured air temperature from 92,670 hourly automatic-weather-station observations** (2009-02-02 to 2020-07-03), ⭐ **0 km — this IS the station's own AWS**. **IMAU Antarctic AWS network, archived in PANGAEA** — *Van Tiggelen et al. (2025), `10.1594/PANGAEA.974126`*. **Every calendar month covered.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+***Column provenance (checked 2026-09-04)** — **Avg Temp · Avg High · Avg Low (Temp Range):* ⭐ **measured** — the station's own IMAU AWS16 hourly air temperature, 2009–2020, 8 to 12 years per month: monthly mean, and mean of the daily maximum and minimum *(replaced 2026-10-28; the earlier "BAS READER" claim was wrong, Princess Elisabeth is not in READER)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these two columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 
 
 *Polar night ~May 16–Jul 29 (~75 days); midnight sun ~Nov 11–Feb 1 (~83 days)*

@@ -141,12 +141,12 @@ are internally consistent; they simply produce different cities.
 
 ### Annual Climate
 
-*(Research note: verify all figures against Cape Adare climate data — New Zealand Antarctic Heritage Trust and Antarctica New Zealand maintain records for this region. Cape Adare's climate is coastal Ross Sea, influenced by open ocean exposure from the north.)*
+*(Research note: verify all figures against Cape Adare climate data — New Zealand Antarctic Heritage Trust and Antarctica New Zealand maintain records for this region. Cape Adare's climate is coastal Ross Sea, influenced by open ocean exposure from the north.)* **Proxy ruled 2026-10-28 (`DR-70`):** the Mean column is the BAS READER 1991–2025 normal of the Possession Island AWS (71.88 °S 171.20 °E, 30 m, about 75 km SE).
 
 **Climate type:** Coastal Ross Sea, northern exposure — more maritime influence than Terra Nova Bay cities; open to Southern Ocean weather systems from the north
-**Mean annual temperature:** approximately −12°C
+**Mean annual temperature:** approximately −11°C *(Possession Island AWS proxy: the average of the twelve monthly means, −11.4 °C; `DR-70`, 2026-10-28; was "approximately −12°C")*
 **Record extremes:** record high **+16.0 °C** (Jan); record low **-42.2 °C** (Jul) _(NOAA NCEI GHCN-Daily. **Two proxies — Cape Adare has no station of its own:** `AYM00089879` Possession Is. (~75 km) for eleven months, `AYW00087701` Adare Hallett (~113 km) for July)_ *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −24°C; warmest month avg −2°C
+**Temperature range:** coldest months avg −20°C; warmest month avg +1°C *(Possession Island AWS proxy means; 2026-10-28)*
 **Prevailing winds:** variable; the northern exposure means Cape Adare receives weather systems from the open Southern Ocean as well as katabatics from Victoria Land; exposed and windswept
 **Annual precipitation:** approximately 200–350 mm water equivalent
 
@@ -158,7 +158,7 @@ are internally consistent; they simply produce different cities.
 **Lost to sublimation and wind transport:** ~217 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-12.0 °C** **18 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At an annual mean of about **−11 °C** *(Possession Island AWS proxy, `DR-70`; corrected 2026-10-28 from "-12.0 °C"; the cross-city rank is dropped under the law of one location)*. What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately May 19 → Jul 26 (~69 days)
@@ -170,18 +170,18 @@ are internally consistent; they simply produce different cities.
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +16 | +4 | −2 | −9 | −2.8 | 30 | ~35% | 24 | Midnight sun; warmest period |
-| Feb | +11.4 | −1 | −8 | −15 | −4.6 | 28 | ~33% | 18.2 | Days shortening |
-| Mar | +6.7 | −6 | −14 | −22 | −18.4 | 25 | ~30% | 13.3 | Autumn; sea ice forming |
-| Apr | −7.6 | −11 | −19 | −27 | −31.5 | 22 | ~28% | 8.5 | Darkening; polar night approaching |
-| May | −11.6 | −13 | −22 | −31 | −17.2 | 20 | ~25% | 2.4 | *Polar night begins ~May 19 |
-| Jun | −3.1 | −15 | −24 | −33 | −12.3 | 18 | ~25% | 0 | Full polar night; solstice |
-| Jul | −3.9 | −15 | −24 | −33 | −42.2 | 18 | ~25% | 0 | Full polar night; coldest |
-| Aug | −15.1 | −14 | −22 | −30 | −17.9 | 20 | ~25% | 6.0 | *Polar night ends ~Jul 26 |
-| Sep | −8 | −10 | −18 | −26 | −20.6 | 23 | ~28% | 11.0 | Spring; conditions improving |
-| Oct | +3 | −4 | −12 | −20 | −18.8 | 26 | ~30% | 15.8 | Sea ice breaking up |
-| Nov | +6.7 | +1 | −5 | −12 | −16.1 | 29 | ~33% | 24 | Midnight sun approaching |
-| Dec | +10.7 | +4 | −2 | −9 | −3.1 | 30 | ~35% | 24 | Midnight sun; warmest period |
+| Jan | +16 | +4 | +1.0 | −9 | −2.8 | 30 | ~35% | 24 | Midnight sun; warmest period |
+| Feb | +11.4 | −1 | −2.1 | −15 | −4.6 | 28 | ~33% | 18.2 | Days shortening |
+| Mar | +6.7 | −6 | −8.7 | −22 | −18.4 | 25 | ~30% | 13.3 | Autumn; sea ice forming |
+| Apr | −7.6 | −11 | −16.0 | −27 | −31.5 | 22 | ~28% | 8.5 | Darkening; polar night approaching |
+| May | −11.6 | −13 | −17.9 | −31 | −17.2 | 20 | ~25% | 2.4 | *Polar night begins ~May 19 |
+| Jun | −3.1 | −15 | −17.2 | −33 | −12.3 | 18 | ~25% | 0 | Full polar night; solstice |
+| Jul | −3.9 | −15 | −19.3 | −33 | −42.2 | 18 | ~25% | 0 | Full polar night; coldest |
+| Aug | −15.1 | −14 | −20.0 | −30 | −17.9 | 20 | ~25% | 6.0 | *Polar night ends ~Jul 26 |
+| Sep | −8 | −10 | −18.5 | −26 | −20.6 | 23 | ~28% | 11.0 | Spring; conditions improving |
+| Oct | +3 | −4 | −13.2 | −20 | −18.8 | 26 | ~30% | 15.8 | Sea ice breaking up |
+| Nov | +6.7 | +1 | −5.2 | −12 | −16.1 | 29 | ~33% | 24 | Midnight sun approaching |
+| Dec | +10.7 | +4 | +0.6 | −9 | −3.1 | 30 | ~35% | 24 | Midnight sun; warmest period |
 
 ***Monthly record extremes (POSSESSION IS, `AYM00089879` — Possession Is., ~75 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1994-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
 
@@ -189,7 +189,7 @@ are internally consistent; they simply produce different cities.
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089879** (POSSESSION IS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured at a proxy** — the BAS READER 1991–2025 normal of the Possession Island AWS (`DR-70`, 2026-10-28); Cape Adare has no station of its own. **Avg High · Avg Low:* ⚠ still the earlier derived figures, not measured (the proxy has daily maxima and minima for 2025–26 only). **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
 
 
 #### Notable Weather Phenomena

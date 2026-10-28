@@ -12,12 +12,12 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Utstein.md` L8 |
-| Spec climate — climate data source | International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record | `Specs/Utstein.md` L82 |
+| Spec climate — climate data source | International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record. **Measured data (added 2026-10-28):** the station's own IMAU AWS16, hourly, 2009-02 to 2020-07 (PANGAEA `10.1594/PANGAEA.974126`; copy in `to-be-integrated/climate data CURL/pangaea/`); the Mean, Avg High and Avg Low columns below are computed from it | `Specs/Utstein.md` L82 |
 | Spec climate — climate type | Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; sheltered by the Sør Rondane Mountains, mean wind about 6 m/s; extreme-event gales remain possible (real station: gales to 300 km/h) *(reworded 2026-10-28 to agree with the researched wind line below)* | `Specs/Utstein.md` L84 |
-| Spec climate — mean annual temperature | approximately −18°C | `Specs/Utstein.md` L85 |
+| Spec climate — mean annual temperature | approximately −18°C *(measured at the station's own AWS16: the average of the twelve monthly means, −18.0 °C; confirmed 2026-10-28)* | `Specs/Utstein.md` L85 |
 | Spec climate — record extremes | record high **+4.2 °C** (Dec); record low **-38.5 °C** (Aug) _(IMAU **AWS16**, *Utstein station* — ⭐ **0 km — this IS the station's own AWS**; **92,670 hourly observations**, 2009-02-02 to 2020-07-03. PANGAEA `10.1594/PANGAEA.974126`)_ *(researched 2026-09-04)* | `Specs/Utstein.md` L86 |
 | Spec climate — prevailing winds | ⭐ **sheltered, and unusually so for its latitude.** The **Sør Rondane Mountains shield the Utsteinen ridge from the high-speed katabatic flow**; **mean wind 6 m/s — half that measured at the less-protected Asuka site nearby.** *(The ridge itself is still exposed to gales in extreme events.)* *(researched 2026-09-04)* | `Specs/Utstein.md` L87 |
-| Spec climate — temperature range | coldest months avg −30°C; warmest month avg −5°C | `Specs/Utstein.md` L88 |
+| Spec climate — temperature range | coldest months avg −24°C; warmest month avg −9°C *(measured; corrected 2026-10-28)* | `Specs/Utstein.md` L88 |
 | Spec climate — polar night | approximately May 16 → Jul 29 (~75 days) | `Specs/Utstein.md` L89 |
 | Spec climate — midnight sun | approximately Nov 11 → Feb 1 (~83 days) | `Specs/Utstein.md` L90 |
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Utstein.md` L91 |
@@ -27,7 +27,7 @@
 | Spec climate — falls (reaches the surface) | ~200 mm/yr | `Specs/Utstein.md` L98 |
 | Spec climate — lands (accumulates and stays) | **~140 mm/yr** *(~70% retention)* | `Specs/Utstein.md` L99 |
 | Spec climate — lost to sublimation and wind transport | ~60 mm/yr | `Specs/Utstein.md` L100 |
-| Climate READER file (`Princess_Elizabeth.md`) | **An 8-line status stub, not a dataset — no monthly table.** What the file itself says: **READER status:** Not in BAS READER surface station database **Climate authority:** International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record **Action required:** Obtain monthly mean temperature normals directly from the listed authority. | `READER/Princess_Elizabeth.md` L1–8 |
+| Climate READER file (`Princess_Elizabeth.md`) | **Rebuilt 2026-10-28 as a dataset (it had been an 8-line stub).** Not a READER station: the figures are the monthly means of the station's own IMAU AWS16 hourly record (PANGAEA 10.1594/PANGAEA.974126), 2009–2020, 8 to 12 years per month. Monthly mean (°C): Jan −9.0 · Feb −12.4 · Mar −16.9 · Apr −19.9 · May −20.6 · Jun −22.3 · Jul −24.3 · Aug −24.4 · Sep −23.7 · Oct −19.2 · Nov −13.3 · Dec −9.3 · annual −18.0 | `READER/Princess_Elizabeth.md` L1–16 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Perseus Airstrip \| Princess Elisabeth Antarctica \| Belgium \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L46 |
 | ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Princess Elisabeth Skiway \| Utsteinen Nunatak \| Belgium \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L51 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 26, 63 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |

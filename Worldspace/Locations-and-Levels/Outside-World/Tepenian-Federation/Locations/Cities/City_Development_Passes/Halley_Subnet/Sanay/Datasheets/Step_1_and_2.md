@@ -12,12 +12,12 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Sanay.md` L7 |
-| Spec climate — climate data source | South African National Antarctic Expedition (SANAP / DEA) — SANAE IV; not in READER surface list; climate data available from South African Weather Service (SAWS) | `Specs/Sanay.md` L73 |
+| Spec climate — climate data source | South African National Antarctic Expedition (SANAP / DEA) — SANAE IV; not in READER surface list; climate data available from South African Weather Service (SAWS). **Measured data (added 2026-10-28):** NOAA NCEI Global Summary of the Month, station AYM00089004 (S.A.N.A.E. AWS, 71.70 °S 2.80 °W, 817 m, the SANAE IV nunatak), 2001–2026; the Mean, Avg High and Avg Low columns below are computed from it | `Specs/Sanay.md` L73 |
 | Spec climate — climate type | Queen Maud Land nunatak — elevated position above the surrounding ice sheet; continental influence stronger than coastal cities; katabatic winds channeled by the nunatak terrain; cold, dry winters | `Specs/Sanay.md` L75 |
-| Spec climate — mean annual temperature | approximately −20°C | `Specs/Sanay.md` L76 |
+| Spec climate — mean annual temperature | approximately −16°C *(measured: the average of the twelve monthly means, −16.2 °C; corrected 2026-10-28 from "approximately −20°C", an assumed stub figure)* | `Specs/Sanay.md` L76 |
 | Spec climate — prevailing winds | **dominant easterly**; annual mean **~11 m/s**, with recorded gusts to **61.9 m/s (223 km/h)** *(researched 2026-09-04)* | `Specs/Sanay.md` L77 |
 | Spec climate — record extremes | mean summer air temperature **−8.3 °C**; mean winter **−21.8 °C** *(researched 2026-09-04)* | `Specs/Sanay.md` L78 |
-| Spec climate — temperature range | coldest months avg −30°C; warmest month avg −5°C | `Specs/Sanay.md` L79 |
+| Spec climate — temperature range | coldest months avg −23°C; warmest month avg −7°C *(measured; corrected 2026-10-28)* | `Specs/Sanay.md` L79 |
 | Spec climate — polar night | approximately May 18 → Jul 28 (~72 days) | `Specs/Sanay.md` L80 |
 | Spec climate — midnight sun | approximately Nov 12 → Jan 31 (~81 days) | `Specs/Sanay.md` L81 |
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Sanay.md` L82 |
@@ -27,7 +27,7 @@
 | Spec climate — falls (reaches the surface) | ~200 mm/yr | `Specs/Sanay.md` L89 |
 | Spec climate — lands (accumulates and stays) | **~130 mm/yr** *(~65% retention)* | `Specs/Sanay.md` L90 |
 | Spec climate — lost to sublimation and wind transport | ~70 mm/yr | `Specs/Sanay.md` L91 |
-| Climate READER file (`Sanay.md`) | **An 8-line status stub, not a dataset — no monthly table.** What the file itself says: **READER status:** Not in BAS READER surface station database **Climate authority:** South African National Antarctic Expedition (SANAP / DEA) — SANAE IV; not in READER surface list; climate data available from South African Weather Service (SAWS) **Action required:** Obtain monthly mean temperature normals directly from the listed authority. | `READER/Sanay.md` L1–8 |
+| Climate READER file (`Sanay.md`) | **Rebuilt 2026-10-28 as a dataset (it had been an 8-line stub).** Not a READER station: the figures are the S.A.N.A.E. AWS monthly means (NOAA NCEI AYM00089004), 2001–2026, 16 to 22 years per month. Monthly mean (°C): Jan −6.7 · Feb −10.2 · Mar −14.3 · Apr −17.5 · May −19.4 · Jun −21.3 · Jul −23.2 · Aug −23.0 · Sep −21.7 · Oct −17.8 · Nov −11.7 · Dec −7.3 · annual −16.2 | `READER/Sanay.md` L1–16 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| SANAE IV Skiway \| Queen Maud Land \| South Africa \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L58 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 72 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
 | `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Sanay · Subnet: Halley · D: 1.43 · Workforce: 365,728 · base%: 44.5% · MAND%: 27.8% · FREE%: 27.8% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L254 (header L247, row L254) |

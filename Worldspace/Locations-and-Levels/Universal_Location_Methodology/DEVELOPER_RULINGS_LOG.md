@@ -1353,3 +1353,14 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Synced the same day** | The Census I and II lines and per-nation tables in the specs of the 22 changed cities that have them (shares unchanged, columns rescaled to sum exactly); the census rows, computed shares and retention rows in their datasheets; the Pre-Trip and ledger citations to shifted census lines; `09` section 2 and `16` Half B rows in Division of Industry (workforce, base%, MAND%, FREE%; the mandate shares and difficulty held); the datasheet quotes of those rows. Santa Luce moves from Band 5 (Regional) to **Band 4 (Urban)** under the frame's scale bands. |
 | **Not done (named)** | Division of Industry files `04` and `13` (national food balance) and the per-city determinations further down `16`; `08` section 5.2 and the Extent table in `Extent_and_Density_Per_City.md` (a few datasheet rows quote them and still show the old figures, faithfully); megasheets (never edited); Local Cultures and other prose files that cite the old figures; the per-city "Rank" order. |
 | **Files changed** | This log; the census; specs and datasheets of the changed cities; the two Division of Industry files. |
+
+---
+
+## `DR-70` · ✅ **CAPE ADARE'S CLIMATE PROXY IS THE POSSESSION ISLAND AWS** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"For Cape Adare, I would say, Possession Island AWS."* (Also: the 17.8 MB Utstein AWS download is to be kept in the repo for possible reuse.) |
+| **Recorded as** | Cape Adare has no station of its own. Its **Mean** column is the **BAS READER 1991–2025 normal of the Possession Island AWS** (71.88 °S, 171.20 °E, 30 m, about 75 km SE; 23 to 34 years per month): annual mean **−11.4 °C**. Adare Hallett (1957–73, annual −15.5 °C) and Cape Ross were considered and not adopted; Hallett stays as the cold-winter sensitivity case in `Climate_Trio_Findings_2026-10-28.md`. |
+| **Not ruled / not measured** | Avg High and Avg Low for Cape Adare: the Possession Island record has daily maxima and minima for only 2025–26, so these two columns stay the earlier derived figures, flagged. Record extremes unchanged (they already use Possession Island and Hallett). A modern record for the cape itself was not found (the 1899 Southern Cross winter observations exist only as archive catalogue entries). |
+| **Files** | `Specs/Janbogo subnet/Cape_Adare.md`, `READER/Cape_Adare.md`, the Cape Adare datasheets and the findings file. The 17.8 MB IMAU AWS16 file is now at `to-be-integrated/climate data CURL/pangaea/` with a README. |
