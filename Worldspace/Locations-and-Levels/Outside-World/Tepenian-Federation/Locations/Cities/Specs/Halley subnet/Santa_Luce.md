@@ -95,7 +95,7 @@ Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a name
 **Lost to sublimation and wind transport:** ~45 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **MIXED.** At an annual mean of about **−15 °C** *(measured, Aboa station; corrected 2026-10-28 from "-25.0 °C", a leftover of the monthly column replaced on 2026-10-21; "6 cities are colder" dropped under the law of one location)*, this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~150 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+> ⚠ **MIXED.** At an annual mean of about **−15 °C** *(measured, Aboa station; corrected 2026-10-28 from "-25.0 °C", a leftover of the monthly column replaced on 2026-10-21; "6 cities are colder" dropped under the law of one location)*, this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~150 mm)** and **retention ~70%.** **Cold and wind both matter.** *(clause comparing the city with others dropped 2026-10-28, law of one location)*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

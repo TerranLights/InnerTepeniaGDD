@@ -1315,3 +1315,28 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Numbers (scenario file, section 8; working assumptions)** | Census I: Byrd about 156 at once (was about 505); overflow about 390 workers on leave, about 300 at destinations and about 90 on the road at any moment, about 9 per city across the other 33. Census II: Byrd about 107 (was about 348); overflow about 269, about 207 at destinations, about 62 on the road, about 6 per city. |
 | **Not ruled** | Which other cities receive them or in what proportions (the scenario spreads them evenly over 33, which is only an illustration); the overflow's travel times (an average 7-day round trip assumed); robot-only Kunlun and Dome Fuji cannot host humans, so human space workers cannot rest there. |
 | **Files updated the same day** | This log and the scenario file (section 8). |
+
+---
+
+## `DR-67` · ✅ **SANTA LUCE: THE SCENARIO POPULATION, A "SMALL, COMMUNITY-SCALED" CITY; ITS SIX OLD-FOUNDING CULTURE INPUTS ARE WITHHELD FOR NOVEMBER** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, in substance** | **(1)** Use the scenario population for Santa Luce. There is no need to change the national census over it: **change only Santa Luce's row**, and **the rest of the numbers get their own new category**. It keeps Santa Luce down at a "small," "community-scaled" level. **(2)** Withhold the culture inputs that rest on the old founding for November. |
+| **Recorded as (1)** | Santa Luce takes **the scenario population**: **437,614** in Census I (the 40% it keeps, 413,697, plus its even share of 22,983 and its 934 of the redirected Kunlun and Dome Fuji humans) and **258,821** in Census II (242,976 kept plus its even share of 15,845), as in `Population_Scenario_Santa_Luce_Redistribution_2026-10-28.md`. **The removed 60% is distributed as that scenario worked out:** an even split across the 27 non-island cities (Santa Luce included), with robot-only Kunlun's and Dome Fuji's human shares redirected to the other 24 continental cities; **Amundsen Station's share goes to two new categories, the space workforce (11,492 Census I / 7,923 Census II) and the maritime fleet (11,490 / 7,922)**. **National totals are unchanged.** |
+| **Recorded as (2)** | For the November run, Santa Luce's **Local Cultures, Enneagram, Vision Notes, Neo-Races catalog, inspiration picks and planet/element symbols** (all resting on the superseded Finnish-Swedish founding) are **withheld** and revisited afterward. |
+| **Not ruled** | Whether the other cities' census rows are edited (the developer said the national census needs no change over this; the scenario shows the per-city additions as arithmetic only). The space/sea split (50/50 assumed). **When any census row is actually edited.** |
+| **Files changed** | This log only. **Not edited yet:** the census, Santa Luce's spec and datasheets, the Division of Industry rows. |
+
+**`DR-67` correction, same day.** An earlier version of this entry (and a hostel table in the working chat) treated the whole removed 60% as going into the space workforce and maritime fleet. **That was a misreading.** The developer: *"we already worked out that almost all of those numbers go to other cities in the country."* The two new categories hold only Amundsen Station's share, so the hostel, leave and travel figures in `DR-64` to `DR-66` stand as computed. The new categories are **"space workforce"** and **"maritime fleet"** (developer).
+
+---
+
+## `DR-68` · ✅ **THE SANTA LUCE POPULATION SCENARIO IS ADOPTED AS THE PLAN; HOW THE SPACE AND SEA GROUPS ARE KEPT** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, in substance** | **"We use the scenario numbers."** The census rows for the other cities **become edited**. The space workforce and the maritime fleet: **at any particular moment the split can be any division, and over time it works out to a rough average of 50-50**, which keeps the math easy for accounting and world-building. The overflow of space workers on leave across other cities: **keep the scenario figures, which are mostly negligible.** The maritime fleet's rotation lengths **can be worked out later**. The early-era Rastra's speed, range and capacity **will have to be worked out later and need not be finished now.** |
+| **Recorded as** | **The adopted plan is `Population_Scenario_Santa_Luce_Redistribution_2026-10-28.md`**: Santa Luce 437,614 (Census I) and 258,821 (Census II); the 24 recipient cities, Kunlun, Dome Fuji and Amundsen Station as in its section 2; the space workforce (11,492 / 7,923) and maritime fleet (11,490 / 7,922) as two new non-city groups; national totals unchanged. **The nominal split between the two groups is 50-50 on average** (any division at a given moment); that is the number used for accounting. Leave, hostel and overflow figures are the scenario's (`DR-64` to `DR-66`), kept as working figures. |
+| **Not ruled** | **When the census rows are actually edited.** `DR-23` says census edits wait until all ULM runs finish, and the census rework for Relung Panen is still owed; nothing in the census has been touched. The maritime fleet's rotation lengths. The early-era Rastra speed, range, fuel and capacity. |
+| **Files changed** | This log; the scenario file's status note. **Not edited:** the census, Santa Luce's spec and datasheets, the other cities' rows, the Division of Industry rows. |

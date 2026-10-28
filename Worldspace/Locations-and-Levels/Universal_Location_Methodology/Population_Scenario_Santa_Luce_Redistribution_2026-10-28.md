@@ -1,6 +1,6 @@
 # Population scenario: Santa Luce's 60% redistributed (2026-10-28)
 
-> ## ⛔ STATUS: SCENARIO ONLY. **NOTHING HERE IS APPLIED.** No census row, spec, Division of Industry row or megasheet was changed.
+> ## ✅ ADOPTED AS THE PLAN (developer, 2026-10-28, `DR-68`). ⛔ STATUS: **NOTHING HERE IS APPLIED YET.** No census row, spec, Division of Industry row or megasheet was changed.
 > Recorded at the developer's request ("definitely save this as a scenario file"). It waits for the census rework that accounts for Relung Panen (`DR-23`: no census edits until all ULM runs finish). Every figure is arithmetic on the current census rows. **It is not a migration and claims no one moved.**
 
 ## 1. How the scenario was built (the developer's steps, in order)
@@ -48,7 +48,7 @@ Kunlun and Dome Fuji stay robot-only (0 humans): Kunlun 135,226, Dome Fuji 66,84
 
 ## 3. Amundsen Station's share, placed in two non-city groups
 
-**Pool:** Census I 11,205 humans + 11,777 robots = 22,982; Census II 8,107 + 7,738 = 15,845. **Split used: 50/50 (an assumption; the developer has not set the ratio).** At 60/40 space to sea, Census I would be 13,789 and 9,193.
+**Pool:** Census I 11,205 humans + 11,777 robots = 22,982; Census II 8,107 + 7,738 = 15,845. **Split: 50-50 on average over time (developer, `DR-68`); at any moment it can be any division.** At 60/40 space to sea, Census I would be 13,789 and 9,193.
 
 | | Space workforce | Maritime fleet |
 |---|--:|--:|
