@@ -58,7 +58,7 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 186,268 humans / 190,622 robots / **376,890** combined
+**Census I (Pre-Orbital Era):** 198,406 humans / 202,399 robots / **400,805** combined *(was 186,268 / 190,622 / 376,890; census updated 2026-10-28, `DR-68`)*
 **Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
 
 | Tier | Nations |
@@ -75,48 +75,48 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 13.57% | 25,867 | 25,277 | *(N/A)* | *(N/A)* |
-| Primary | Canada | 11.43% | 21,788 | 21,290 | *(N/A)* | *(N/A)* |
-| Significant | Australia | 6.42% | 12,238 | 11,958 | *(N/A)* | *(N/A)* |
-| Significant | Japan | 6.19% | 11,800 | 11,530 | *(N/A)* | *(N/A)* |
-| Significant | South Korea | 3.19% | 6,081 | 5,942 | *(N/A)* | *(N/A)* |
-| Significant | China | 2.95% | 5,623 | 5,495 | *(N/A)* | *(N/A)* |
-| Notable | Lithuania | 2.27% | 4,327 | 4,228 | *(N/A)* | *(N/A)* |
-| Notable | Philippines | 2.23% | 4,251 | 4,154 | *(N/A)* | *(N/A)* |
-| Notable | Thailand | 2.22% | 4,232 | 4,135 | *(N/A)* | *(N/A)* |
-| Notable | Indonesia | 2.21% | 4,213 | 4,117 | *(N/A)* | *(N/A)* |
-| Notable | Malaysia | 2.20% | 4,194 | 4,098 | *(N/A)* | *(N/A)* |
-| Notable | Brazil | 2.20% | 4,194 | 4,098 | *(N/A)* | *(N/A)* |
-| Notable | Croatia | 2.16% | 4,117 | 4,023 | *(N/A)* | *(N/A)* |
-| Notable | Latvia | 2.15% | 4,098 | 4,005 | *(N/A)* | *(N/A)* |
-| Notable | Netherlands | 2.10% | 4,003 | 3,912 | *(N/A)* | *(N/A)* |
-| Notable | Slovakia | 2.06% | 3,927 | 3,837 | *(N/A)* | *(N/A)* |
-| Notable | South Africa | 2.02% | 3,851 | 3,763 | *(N/A)* | *(N/A)* |
-| Notable | Czech Republic | 1.96% | 3,736 | 3,651 | *(N/A)* | *(N/A)* |
-| Notable | Uruguay | 1.96% | 3,736 | 3,651 | *(N/A)* | *(N/A)* |
-| Notable | Vietnam | 1.94% | 3,698 | 3,614 | *(N/A)* | *(N/A)* |
-| Notable | UK | 1.93% | 3,679 | 3,595 | *(N/A)* | *(N/A)* |
-| Notable | Finland | 1.90% | 3,622 | 3,539 | *(N/A)* | *(N/A)* |
-| Notable | New Zealand | 1.90% | 3,622 | 3,539 | *(N/A)* | *(N/A)* |
-| Notable | Romania | 1.90% | 3,622 | 3,539 | *(N/A)* | *(N/A)* |
-| Notable | Norway | 1.23% | 2,345 | 2,291 | *(N/A)* | *(N/A)* |
-| Notable | Hungary | 1.23% | 2,345 | 2,291 | *(N/A)* | *(N/A)* |
-| Notable | Ukraine | 1.22% | 2,326 | 2,272 | *(N/A)* | *(N/A)* |
-| Notable | Russia | 1.19% | 2,268 | 2,217 | *(N/A)* | *(N/A)* |
-| Notable | Germany | 1.19% | 2,268 | 2,217 | *(N/A)* | *(N/A)* |
-| Notable | Belarus | 1.17% | 2,230 | 2,179 | *(N/A)* | *(N/A)* |
-| Notable | Poland | 1.16% | 2,211 | 2,161 | *(N/A)* | *(N/A)* |
-| Notable | France | 1.11% | 2,116 | 2,068 | *(N/A)* | *(N/A)* |
-| Notable | Bulgaria | 1.06% | 2,021 | 1,974 | *(N/A)* | *(N/A)* |
-| Notable | Chile | 1.02% | 1,944 | 1,900 | *(N/A)* | *(N/A)* |
-| Notable | Argentina | 0.98% | 1,868 | 1,825 | *(N/A)* | *(N/A)* |
-| Notable | Mexico | 0.96% | 1,830 | 1,788 | *(N/A)* | *(N/A)* |
-| Notable | Italy | 0.92% | 1,754 | 1,714 | *(N/A)* | *(N/A)* |
-| Notable | Slovenia | 0.92% | 1,754 | 1,714 | *(N/A)* | *(N/A)* |
-| Notable | Spain | 0.91% | 1,735 | 1,695 | *(N/A)* | *(N/A)* |
-| Notable | Belgium | 0.91% | 1,735 | 1,695 | *(N/A)* | *(N/A)* |
-| Notable | Sweden | 0.90% | 1,716 | 1,676 | *(N/A)* | *(N/A)* |
-| Notable | Serbia | 0.86% | 1,639 | 1,602 | *(N/A)* | *(N/A)* |
+| Primary | USA | 13.57% | 27,465 | 26,924 | *(N/A)* | *(N/A)* |
+| Primary | Canada | 11.43% | 23,134 | 22,677 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 6.42% | 12,994 | 12,737 | *(N/A)* | *(N/A)* |
+| Significant | Japan | 6.19% | 12,529 | 12,281 | *(N/A)* | *(N/A)* |
+| Significant | South Korea | 3.19% | 6,457 | 6,329 | *(N/A)* | *(N/A)* |
+| Significant | China | 2.95% | 5,970 | 5,853 | *(N/A)* | *(N/A)* |
+| Notable | Lithuania | 2.27% | 4,594 | 4,504 | *(N/A)* | *(N/A)* |
+| Notable | Philippines | 2.23% | 4,514 | 4,425 | *(N/A)* | *(N/A)* |
+| Notable | Thailand | 2.22% | 4,493 | 4,404 | *(N/A)* | *(N/A)* |
+| Notable | Indonesia | 2.21% | 4,473 | 4,385 | *(N/A)* | *(N/A)* |
+| Notable | Malaysia | 2.20% | 4,453 | 4,365 | *(N/A)* | *(N/A)* |
+| Notable | Brazil | 2.20% | 4,453 | 4,365 | *(N/A)* | *(N/A)* |
+| Notable | Croatia | 2.16% | 4,371 | 4,285 | *(N/A)* | *(N/A)* |
+| Notable | Latvia | 2.15% | 4,351 | 4,266 | *(N/A)* | *(N/A)* |
+| Notable | Netherlands | 2.10% | 4,250 | 4,167 | *(N/A)* | *(N/A)* |
+| Notable | Slovakia | 2.06% | 4,170 | 4,087 | *(N/A)* | *(N/A)* |
+| Notable | South Africa | 2.02% | 4,089 | 4,008 | *(N/A)* | *(N/A)* |
+| Notable | Czech Republic | 1.96% | 3,967 | 3,889 | *(N/A)* | *(N/A)* |
+| Notable | Uruguay | 1.96% | 3,967 | 3,889 | *(N/A)* | *(N/A)* |
+| Notable | Vietnam | 1.94% | 3,926 | 3,850 | *(N/A)* | *(N/A)* |
+| Notable | UK | 1.93% | 3,906 | 3,829 | *(N/A)* | *(N/A)* |
+| Notable | Finland | 1.90% | 3,846 | 3,770 | *(N/A)* | *(N/A)* |
+| Notable | New Zealand | 1.90% | 3,846 | 3,770 | *(N/A)* | *(N/A)* |
+| Notable | Romania | 1.90% | 3,846 | 3,770 | *(N/A)* | *(N/A)* |
+| Notable | Norway | 1.23% | 2,490 | 2,440 | *(N/A)* | *(N/A)* |
+| Notable | Hungary | 1.23% | 2,490 | 2,440 | *(N/A)* | *(N/A)* |
+| Notable | Ukraine | 1.22% | 2,470 | 2,420 | *(N/A)* | *(N/A)* |
+| Notable | Russia | 1.19% | 2,408 | 2,361 | *(N/A)* | *(N/A)* |
+| Notable | Germany | 1.19% | 2,408 | 2,361 | *(N/A)* | *(N/A)* |
+| Notable | Belarus | 1.17% | 2,368 | 2,321 | *(N/A)* | *(N/A)* |
+| Notable | Poland | 1.16% | 2,348 | 2,302 | *(N/A)* | *(N/A)* |
+| Notable | France | 1.11% | 2,247 | 2,203 | *(N/A)* | *(N/A)* |
+| Notable | Bulgaria | 1.06% | 2,146 | 2,103 | *(N/A)* | *(N/A)* |
+| Notable | Chile | 1.02% | 2,064 | 2,024 | *(N/A)* | *(N/A)* |
+| Notable | Argentina | 0.98% | 1,983 | 1,944 | *(N/A)* | *(N/A)* |
+| Notable | Mexico | 0.96% | 1,943 | 1,905 | *(N/A)* | *(N/A)* |
+| Notable | Italy | 0.92% | 1,862 | 1,826 | *(N/A)* | *(N/A)* |
+| Notable | Slovenia | 0.92% | 1,862 | 1,826 | *(N/A)* | *(N/A)* |
+| Notable | Spain | 0.91% | 1,842 | 1,805 | *(N/A)* | *(N/A)* |
+| Notable | Belgium | 0.91% | 1,842 | 1,805 | *(N/A)* | *(N/A)* |
+| Notable | Sweden | 0.90% | 1,822 | 1,785 | *(N/A)* | *(N/A)* |
+| Notable | Serbia | 0.86% | 1,740 | 1,706 | *(N/A)* | *(N/A)* |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

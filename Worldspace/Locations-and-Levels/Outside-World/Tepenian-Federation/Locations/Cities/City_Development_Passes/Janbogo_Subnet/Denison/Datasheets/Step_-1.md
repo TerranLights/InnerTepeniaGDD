@@ -41,15 +41,15 @@ documentation every other Tepenian city has.
 ## Census I / II — repeated here, full derivation in `Step_0.md`
 
 ```
-Census I (Pre-Orbital Era): 444,529 humans / 461,693 robots / 906,222 combined
-Census II (Orbital Era): 285,085 humans / 338,392 robots / 623,477 combined
+Census I (Pre-Orbital Era): 456,668 humans / 473,471 robots / 930,139 combined
+Census II (Orbital Era): 293,192 humans / 346,130 robots / 639,322 combined
 ```
 — `Specs/Denison.md` L17–18. ⛔ *The tag that follows Census II in the source is excluded per the
 standing default-scope rule.*
 
 Cross-verified against `Official_Population_Census.md`, Denison's own two rows:
 ```
-L500: | 17 | Denison | Janbogo | 444,529 | 461,693 | 906,222 |
+L500: | 17 | Denison | Janbogo | 456,668 | 473,471 | 930,139 |
 L615: | 16 | Denison | Janbogo | 285,085 | 338,392 | 623,477 |
 ```
 — exact match on H/R/combined for both censuses.
@@ -62,7 +62,7 @@ L615: | 16 | Denison | Janbogo | 285,085 | 338,392 | 623,477 |
 | Denison | II | 50,309 | 59,716 | 110,025 | scaled at −15%, retention preserved | ⏸️ HELD —
 unassigned
 ```
-— `Official_Population_Census.md` L703–704. **Denison's own figures only — nothing else from that
+— `Official_Population_Census.md` L717–718. **Denison's own figures only — nothing else from that
 table is reproduced here.**
 
 ## ⛔⛔ LATER-ERA SECTIONS SEEN AND EXCLUDED — per `M-171`, named by line range only, never described

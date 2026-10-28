@@ -17,7 +17,7 @@
 | Coordinates (as written in the same field) | ~67°36'S, 62°53'E | `Specs/Mawson.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Mawson.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L167, L172 — not copied, not described | `Specs/Mawson.md` L167, L172 |
-| Census I (spec's own line) | 709,729 humans / 737,004 robots / **1,446,733** combined | `Specs/Mawson.md` L15 |
-| Census II (spec's own line) | 427,321 humans / 525,125 robots / **952,446** combined | `Specs/Mawson.md` L16 |
+| Census I (spec's own line) | 721,869 humans / 748,782 robots / **1,470,651** combined | `Specs/Mawson.md` L15 |
+| Census II (spec's own line) | 435,429 humans / 532,864 robots / **968,293** combined | `Specs/Mawson.md` L16 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Mawson's own pass runs.

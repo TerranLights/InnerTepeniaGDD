@@ -9,9 +9,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Esperanza · Subnet: Palmer · D: 1.11 · Humans: 955,337 · Residents: 1,878,287 · Required: 483,999 · Workforce: 1,400,619 · % WF: 34.6% | `09_Per_City_Baseline_Run.md` L52, L81 |
+| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Esperanza · Subnet: Palmer · D: 1.11 · Humans: 967,477 · Residents: 1,902,205 · Required: 490,159 · Workforce: 1,418,467 · % WF: 34.6% | `09_Per_City_Baseline_Run.md` L52, L81 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | City: Esperanza · D: 1.11 · OLD: 34.6% · NEW: 39.7% | `11_Caloric_Rebuild_and_Livestock_Tier.md` L326, L332 |
-| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Esperanza · Subnet: Palmer · D: 1.11 · Workforce: 1,400,618 · base%: 39.7% · MAND%: 24.1% · FREE%: 36.2% · src: C | `16_Per_City_Three_Tier_Run.md` L259 |
+| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Esperanza · Subnet: Palmer · D: 1.11 · Workforce: 1,418,466 · base%: 39.7% · MAND%: 24.1% · FREE%: 36.2% · src: C | `16_Per_City_Three_Tier_Run.md` L259 |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | # 1. The Esperanza Institute of Medicine | `National_Medical_and_Care_Institutes.md` L29 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **City:** Esperanza (Hope Bay, Antarctic Peninsula) · **Tradition:** settled medicine | `National_Medical_and_Care_Institutes.md` L31 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **Why Esperanza.** The city's §15 already carries `Education / childcare / family services: ~25%` — *"an | `National_Medical_and_Care_Institutes.md` L36 |

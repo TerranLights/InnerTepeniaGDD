@@ -9,9 +9,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Lazar · Subnet: Halley · D: 1.25 · Humans: 1,287,003 · Residents: 2,620,319 · Required: 701,677 · Workforce: 1,976,818 · % WF: 35.5% | `09_Per_City_Baseline_Run.md` L52, L74 |
+| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Lazar · Subnet: Halley · D: 1.25 · Humans: 1,170,443 · Residents: 2,382,205 · Required: 637,974 · Workforce: 1,796,984 · % WF: 35.5% | `09_Per_City_Baseline_Run.md` L52, L74 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | City: Lazar · D: 1.25 · OLD: 35.5% · NEW: 41.0% | `11_Caloric_Rebuild_and_Livestock_Tier.md` L326, L331 |
-| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,976,818 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – | `16_Per_City_Three_Tier_Run.md` L283 |
+| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,796,984 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – | `16_Per_City_Three_Tier_Run.md` L283 |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | **Casey** *(subnet hubs)*, **Lazar** *(the largest city, and the Halley subnet's center of population)*. | `National_Medical_and_Care_Institutes.md` L225 |
 | Robot Physiology — appearance/clothing baseline (Tier U) | Human-looking, *Ex Machina*-style; clothing ordinary, functional and fashionable; exposure is a preparation problem, never a species-level gate | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"The ordinary condition" |
 | Robot Cold Physiology — the governing mechanic (Tier U) | Recharging is the primary cost (lithium plating below freezing, permanent); the cannot-self-recover threshold; a robot is safer moving than resting | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"What cold actually costs" |

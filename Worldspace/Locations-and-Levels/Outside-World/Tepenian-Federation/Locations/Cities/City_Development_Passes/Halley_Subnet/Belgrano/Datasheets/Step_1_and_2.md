@@ -34,7 +34,7 @@
 | READER — annual mean temperature | -13.2°C | `READER/Belgrano.md` L8 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Belgrano II Skiway \| Belgrano II Base \| Argentina \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L13 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 10 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 805,928 · base%: 44.3% · MAND%: 30.7% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L252 (header L247, row L252) |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 823,775 · base%: 44.3% · MAND%: 30.6% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L252 (header L247, row L252) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Belgrano`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Belgrano · **Subnet:** Halley · **Solar UTC:** −2 · **Status:** ✅ · **Founders:** Argentina · **Basis:** Accessible from Argentina · **Source:** `DR-19`, `DR-22` · **Not founders:** — | `Founding_Register.md` L53 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Belgrano.md` L120 |

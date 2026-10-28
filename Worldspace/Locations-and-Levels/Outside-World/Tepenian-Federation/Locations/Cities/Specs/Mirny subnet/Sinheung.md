@@ -68,8 +68,8 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 467,272 humans / 495,143 robots / **962,415** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 519,191 / 550,159 / **1,069,350***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
-**Census II (Orbital Era):** 394,069 humans / 405,394 robots / **799,463** combined *(damaged; partially operational)* ⭐ **−10% 2026-09-05, developer ruling** — *was 437,854 / 450,438 / **888,292***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census I (Pre-Orbital Era):** 479,411 humans / 506,921 robots / **986,332** combined *(was 467,272 / 495,143 / 962,415; census updated 2026-10-28, `DR-68`)* ⭐ **−10% 2026-09-05, developer ruling** — *was 519,191 / 550,159 / **1,069,350***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 402,176 humans / 413,133 robots / **815,309** combined *(was 394,069 / 405,394 / 799,463)* *(damaged; partially operational)* ⭐ **−10% 2026-09-05, developer ruling** — *was 437,854 / 450,438 / **888,292***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|
@@ -85,23 +85,23 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | South Korea | 34.62% | 171,419 | 161,770 | 140,347 | 136,427 |
-| Significant | China | 9.74% | 48,227 | 45,512 | 39,486 | 38,383 |
-| Significant | Japan | 7.78% | 38,522 | 36,354 | 31,539 | 30,659 |
-| Significant | Germany | 8.64% | 42,781 | 40,372 | 35,026 | 34,048 |
-| Significant | Russia | 6.85% | 33,917 | 32,009 | 27,769 | 26,994 |
-| Significant | Indonesia | 4.41% | 21,836 | 20,607 | 17,878 | 17,378 |
-| Notable | Thailand | 3.65% | 18,073 | 17,055 | 14,797 | 14,384 |
-| Significant | Australia | 3.57% | 17,677 | 16,682 | 14,473 | 14,068 |
-| Notable | Estonia | 3.52% | 17,429 | 16,448 | 14,269 | 13,871 |
-| Notable | Hungary | 3.43% | 16,983 | 16,027 | 13,905 | 13,516 |
-| Notable | Lithuania | 3.11% | 15,399 | 14,532 | 12,608 | 12,255 |
-| Notable | Malaysia | 2.93% | 14,508 | 13,691 | 11,878 | 11,546 |
-| Notable | Vietnam | 1.95% | 9,655 | 9,112 | 7,906 | 7,684 |
-| Notable | Philippines | 1.77% | 8,764 | 8,271 | 7,176 | 6,975 |
-| Notable | Bulgaria | 1.45% | 7,179 | 6,775 | 5,878 | 5,714 |
-| Notable | Latvia | 1.35% | 6,684 | 6,308 | 5,473 | 5,320 |
-| Notable | South Africa | 1.23% | 6,090 | 5,747 | 4,986 | 4,847 |
+| Primary | South Korea | 34.62% | 175,497 | 165,973 | 143,026 | 139,234 |
+| Significant | China | 9.74% | 49,374 | 46,694 | 40,240 | 39,173 |
+| Significant | Japan | 7.78% | 39,438 | 37,298 | 32,141 | 31,290 |
+| Significant | Germany | 8.64% | 43,799 | 41,421 | 35,695 | 34,748 |
+| Significant | Russia | 6.85% | 34,724 | 32,841 | 28,299 | 27,549 |
+| Significant | Indonesia | 4.41% | 22,355 | 21,142 | 18,219 | 17,736 |
+| Notable | Thailand | 3.65% | 18,503 | 17,498 | 15,080 | 14,680 |
+| Significant | Australia | 3.57% | 18,097 | 17,115 | 14,749 | 14,357 |
+| Notable | Estonia | 3.52% | 17,844 | 16,875 | 14,541 | 14,156 |
+| Notable | Hungary | 3.43% | 17,387 | 16,443 | 14,170 | 13,794 |
+| Notable | Lithuania | 3.11% | 15,765 | 14,910 | 12,849 | 12,507 |
+| Notable | Malaysia | 2.93% | 14,853 | 14,047 | 12,105 | 11,784 |
+| Notable | Vietnam | 1.95% | 9,885 | 9,349 | 8,057 | 7,842 |
+| Notable | Philippines | 1.77% | 8,972 | 8,486 | 7,313 | 7,118 |
+| Notable | Bulgaria | 1.45% | 7,350 | 6,951 | 5,990 | 5,832 |
+| Notable | Latvia | 1.35% | 6,843 | 6,472 | 5,578 | 5,429 |
+| Notable | South Africa | 1.23% | 6,235 | 5,896 | 5,081 | 4,947 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

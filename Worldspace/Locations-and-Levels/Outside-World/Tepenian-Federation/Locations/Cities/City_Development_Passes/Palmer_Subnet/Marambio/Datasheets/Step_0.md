@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 283,442 H / 286,827 R / **570,269** combined (status cell: island cap; revised 2026-07-04) | `Official_Population_Census.md` L504 |
-| Census II | 195,623 H / 234,522 R / **430,145** combined (status cell: island cap) | `Official_Population_Census.md` L620 |
+| Census II | 195,623 H / 234,522 R / **430,145** combined (status cell: island cap) | `Official_Population_Census.md` L626 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 75.43% · human 69.02% · robot 81.76% | Computed from the two rows above: 430,145÷570,269 · 195,623÷283,442 · 234,522÷286,827 |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s / early 2700s, onward — properly Tepenian; origin is ancestry, not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |

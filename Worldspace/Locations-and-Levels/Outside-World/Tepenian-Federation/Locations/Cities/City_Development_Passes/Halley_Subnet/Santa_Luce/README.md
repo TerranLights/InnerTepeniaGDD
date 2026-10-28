@@ -36,10 +36,10 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 |---|---|
 | ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built. ⛔ **Does NOT replace any MUST-OPEN read** — Step 4 still opens every primary source in full, per the Field Guide's own guardrail |
 | **Spec** | `../../../Specs/Abowasa.md` |
-| **Local culture** | `../../../Local_Cultures/Halley_Subnet/Abowasa.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
-| **Vision notes** | `../../../City_Vision_Notes/Abowasa.md` |
+| **Local culture** | `../../../Local_Cultures/Halley_Subnet/Abowasa.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* ⛔ *withheld for this pass (`DR-67`, 2026-10-28)* |
+| **Vision notes** | `../../../City_Vision_Notes/Abowasa.md` ⛔ *withheld for this pass (`DR-67`, 2026-10-28)* |
 | **Research log** | `../../../Research_Logs/Abowasa_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
-| **Picks to mine** | `../../../Inspirational-Influences.md` |
+| **Picks to mine** | `../../../Inspirational-Influences.md` ⛔ *withheld for this pass (`DR-67`, 2026-10-28)* |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 
 📎 Progress: `MASTER_Process_Tracker.md` · `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`

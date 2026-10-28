@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 955,337 humans / 922,950 robots / **1,878,287** combined
-**Census II (Orbital Era):** 502,654 humans / 675,385 robots / **1,178,039** combined
+**Census I (Pre-Orbital Era):** 967,477 humans / 934,728 robots / **1,902,205** combined *(was 955,337 / 922,950 / 1,878,287; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 510,762 humans / 683,124 robots / **1,193,886** combined *(was 502,654 / 675,385 / 1,178,039)*
 
 | Tier | Nations |
 |------|---------|
@@ -31,13 +31,13 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 36.36% | 335,618 | 347,395 | 245,595 | 182,783 |
-| Significant | Brazil | 18.92% | 174,661 | 180,790 | 127,812 | 95,123 |
-| Significant | Mexico | 17.45% | 161,018 | 166,669 | 117,828 | 87,693 |
-| Significant | UK | 9.83% | 90,695 | 93,878 | 66,368 | 49,394 |
-| Significant | Argentina | 8.35% | 77,052 | 79,756 | 56,384 | 41,964 |
-| Notable | Uruguay | 6.60% | 60,905 | 63,042 | 44,568 | 33,170 |
-| Notable | Chile | 2.49% | 23,000 | 23,807 | 16,830 | 12,526 |
+| Primary | USA | 36.36% | 339,901 | 351,810 | 248,409 | 185,732 |
+| Significant | Brazil | 18.92% | 176,890 | 183,087 | 129,277 | 96,657 |
+| Significant | Mexico | 17.45% | 163,073 | 168,787 | 119,178 | 89,108 |
+| Significant | UK | 9.83% | 91,853 | 95,071 | 67,128 | 50,191 |
+| Significant | Argentina | 8.35% | 78,035 | 80,769 | 57,030 | 42,641 |
+| Notable | Uruguay | 6.60% | 61,682 | 63,843 | 45,079 | 33,705 |
+| Notable | Chile | 2.49% | 23,294 | 24,110 | 17,023 | 12,728 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

@@ -16,7 +16,7 @@
 | Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L114 |
 | Per-nation breakdown (spec) | Present at L44–L66 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Contrapunto.md` L44 |
 | Census I | 316,691 H / 328,142 R / **644,833** combined | `Official_Population_Census.md` L503 |
-| Census II | 234,304 H / 279,766 R / **514,070** combined | `Official_Population_Census.md` L619 |
+| Census II | 234,304 H / 279,766 R / **514,070** combined | `Official_Population_Census.md` L625 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 79.72% · human 73.99% · robot 85.26% | Computed from the two rows above |
 | Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — station assignment is not nationality-based, in the treaty's own words | Art. II.3.3: *"Nothing in this Article requires that a population assigned to a given station share the national origin of the Power that formerly maintained it"* | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |

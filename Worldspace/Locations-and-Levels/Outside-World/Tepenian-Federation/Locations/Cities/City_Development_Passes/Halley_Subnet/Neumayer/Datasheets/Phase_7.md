@@ -13,7 +13,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Neumayer · Subnet: Halley · D: 2.50 · Workforce: 945,212 · base%: 43.7% · MAND%: 9.4% · FREE%: 46.9% · src: D | `16_Per_City_Three_Tier_Run.md` L272 |
+| `16` Half B — the city's own row | City: Neumayer · Subnet: Halley · D: 2.50 · Workforce: 963,060 · base%: 43.7% · MAND%: 9.4% · FREE%: 46.9% · src: D | `16_Per_City_Three_Tier_Run.md` L272 |
 | `16` — other lines naming the city (per-city passages and tables) | 17 line(s): L80, L114, L185, L222, L231, L491, L498–499, L505–506, L518, L535, L575, L588, L673, L1861, L3377 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L80, L114, L185, L222, L231, L491, L498–499, L505–506, L518, L535, L575, L588, L673, L1861, L3377 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Neumayer \| . \| . \| . \| Y \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L149 |
 | `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |

@@ -14,8 +14,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 444,529 humans / 461,693 robots / **906,222** combined
-**Census II (Orbital Era):** 285,085 humans / 338,392 robots / **623,477** combined *(destroyed)*
+**Census I (Pre-Orbital Era):** 456,668 humans / 473,471 robots / **930,139** combined *(was 444,529 / 461,693 / 906,222; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 293,192 humans / 346,130 robots / **639,322** combined *(was 285,085 / 338,392 / 623,477)* *(destroyed)*
 
 > ### ⭐⭐ RESOLVED 2026-09-05 — **EXTENT DECLARED, POPULATION REDUCED 15%**
 > **`**Extent band:** ~50 km² — TWO ZONES.**
@@ -65,17 +65,17 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 26.19% | 120,921 | 116,425 | 88,627 | 74,666 |
-| Primary | China | 22.29% | 102,931 | 99,104 | 75,442 | 63,558 |
-| Significant | South Korea | 12.31% | 56,847 | 54,733 | 41,665 | 35,102 |
-| Significant | Indonesia | 10.77% | 49,746 | 47,898 | 36,461 | 30,717 |
-| Significant | Japan | 7.41% | 34,197 | 32,926 | 25,065 | 21,116 |
-| Significant | Australia | 5.87% | 27,098 | 26,090 | 19,861 | 16,732 |
-| Notable | New Zealand | 3.92% | 18,107 | 17,434 | 13,271 | 11,181 |
-| Notable | Vietnam | 3.72% | 17,161 | 16,523 | 12,577 | 10,596 |
-| Notable | Philippines | 3.64% | 16,826 | 16,200 | 12,333 | 10,390 |
-| Notable | Malaysia | 2.42% | 11,155 | 10,741 | 8,176 | 6,888 |
-| Notable | Thailand | 1.45% | 6,704 | 6,455 | 4,914 | 4,139 |
+| Primary | USA | 26.19% | 124,006 | 119,604 | 90,654 | 76,789 |
+| Primary | China | 22.29% | 105,557 | 101,810 | 77,167 | 65,365 |
+| Significant | South Korea | 12.31% | 58,297 | 56,228 | 42,618 | 36,100 |
+| Significant | Indonesia | 10.77% | 51,015 | 49,206 | 37,295 | 31,591 |
+| Significant | Japan | 7.41% | 35,069 | 33,825 | 25,638 | 21,717 |
+| Significant | Australia | 5.87% | 27,789 | 26,803 | 20,315 | 17,208 |
+| Notable | New Zealand | 3.92% | 18,569 | 17,910 | 13,574 | 11,499 |
+| Notable | Vietnam | 3.72% | 17,599 | 16,974 | 12,865 | 10,897 |
+| Notable | Philippines | 3.64% | 17,255 | 16,643 | 12,615 | 10,685 |
+| Notable | Malaysia | 2.42% | 11,440 | 11,034 | 8,363 | 7,084 |
+| Notable | Thailand | 1.45% | 6,875 | 6,631 | 5,026 | 4,257 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

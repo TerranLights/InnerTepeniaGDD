@@ -16,7 +16,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 table row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.25 · Humans 563,599 · Residents 1,158,314 · Required workforce 309,368 · Workforce (100% robots + 50% humans) 876,515 · **% of workforce required: 35.3%** | `09_Per_City_Baseline_Run.md` L79, header at L52 |
+| `09_Per_City_Baseline_Run.md` §2 table row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.25 · Humans 575,738 · Residents 1,182,231 · Required workforce 315,832 · Workforce (100% robots + 50% humans) 894,362 · **% of workforce required: 35.3%** | `09_Per_City_Baseline_Run.md` L79, header at L52 |
 | `16_Per_City_Three_Tier_Run.md` — baseline/mandated/FREE (Half B) | Workforce 876,514 · base 40.7% · MAND 20.7% · **FREE 38.5%** · source `C` (canon %) | `16_Per_City_Three_Tier_Run.md` L261, header at L245 |
 | `16` — Davis's own determined Division of Industry entry (§19) | **Option B**: agriculture 35% + HALF technical/scientific 12.5% → Mandate 28.2%, Free 31.1% | `16_Per_City_Three_Tier_Run.md` L3563 |
 | ⚠ Precomputed alternatives, same entry — flagged for post-pass review, not settled | A (agriculture only): mandate 20.7%/free 38.5% · C (+full technical): mandate 35.6%/free 23.7% · D (B+half maritime): mandate 32.6%/free 26.7% | `16_Per_City_Three_Tier_Run.md` L3563, marked ⏸️ *"for review after all cities are determined"* |

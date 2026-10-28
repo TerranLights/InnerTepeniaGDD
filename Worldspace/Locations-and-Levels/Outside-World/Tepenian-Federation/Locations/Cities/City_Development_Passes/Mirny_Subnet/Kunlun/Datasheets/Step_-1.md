@@ -37,9 +37,9 @@
 | Access type | `ON` | `Specs/Kunlun.md` L23 |
 | Highway designation | Hwy 37 (the Mountain Cut Throughway) | `Specs/Kunlun.md` L24 |
 | Significance field | Located at/near Dome A — highest point on the East Antarctic Ice Sheet, ~4,093m — at/beyond the ceiling of sustained human habitation. Re-resolved 2026-07-06: a deliberately curated astronomy-and-comms population drawn from nations with genuine real-world space/astronomy/communications heritage | `Specs/Kunlun.md` L25 |
-| Population field (repeat here, full derivation at `Step_0.md`) | 0 humans / 123,449 robots (Census I) — resolved 2026-07-04 | `Specs/Kunlun.md` L26 |
+| Population field (repeat here, full derivation at `Step_0.md`) | 0 humans / 135,226 robots (Census I) — resolved 2026-07-04 | `Specs/Kunlun.md` L26 |
 | DLC field | Mirny subnet — "extreme altitude and isolation make it a potential endpoint destination rather than a transit location; whether reachable in gameplay is a major design question" | `Specs/Kunlun.md` L27 |
-| Census I (repeat here, full derivation in `Step_0.md`) | 0 H / 123,449 R / **123,449** | `Specs/Kunlun.md` §"Population & Composition"; cross-verified against `Official_Population_Census.md` — exact match |
+| Census I (repeat here, full derivation in `Step_0.md`) | 0 H / 135,226 R / **135,226** | `Specs/Kunlun.md` §"Population & Composition"; cross-verified against `Official_Population_Census.md` — exact match |
 | Census II | ⛔ **DOES NOT EXIST — a verified absence, not a hole.** A source affirms this absence directly | `Official_Population_Census.md`; `Specs/Kunlun.md` L34 |
 
 **Not mechanical / not included here:** the admitted read-range (Step −1's own derivation), the four-category

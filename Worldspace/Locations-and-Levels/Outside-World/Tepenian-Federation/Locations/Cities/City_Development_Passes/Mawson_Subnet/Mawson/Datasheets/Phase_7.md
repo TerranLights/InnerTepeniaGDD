@@ -14,7 +14,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Mawson · Subnet: Mawson · D: 1.25 · Workforce: 1,091,868 · base%: 41.0% · MAND%: 14.8% · FREE%: 44.3% · src: C | `16_Per_City_Three_Tier_Run.md` L270 |
+| `16` Half B — the city's own row | City: Mawson · Subnet: Mawson · D: 1.25 · Workforce: 1,109,716 · base%: 41.0% · MAND%: 14.8% · FREE%: 44.3% · src: C | `16_Per_City_Three_Tier_Run.md` L270 |
 | `16` — other lines naming the city (per-city passages and tables) | 18 line(s): L253, L282, L300, L1305, L1307, L1310–1311, L1571, L3249, L3284, L3288, L3292, L3299, L3316–3317, L3342, L3479, L3571 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L253, L282, L300, L1305, L1307, L1310–1311, L1571, L3249, L3284, L3288, L3292, L3299, L3316–3317, L3342, L3479, L3571 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | > **Instrument note, per standing discipline:** the first automated pass flagged **Mawson (90%)** and **Mirny | `Division_of_Industry_Sweep_2026-08-31.md` L24 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | > (120%)**. **Both were false positives of my own regex** — Mawson's hospitality entry is formatted | `Division_of_Industry_Sweep_2026-08-31.md` L25 |

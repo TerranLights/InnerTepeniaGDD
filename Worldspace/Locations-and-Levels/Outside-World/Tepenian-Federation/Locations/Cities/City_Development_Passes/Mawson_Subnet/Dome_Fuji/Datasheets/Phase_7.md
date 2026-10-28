@@ -15,7 +15,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Dome Fuji · Subnet: Mawson · D: 2.50 · Workforce: 55,072 · base%: 27.3% · MAND%: 14.5% · FREE%: 58.1% · src: H | `16_Per_City_Three_Tier_Run.md` L282 |
+| `16` Half B — the city's own row | City: Dome Fuji · Subnet: Mawson · D: 2.50 · Workforce: 66,849 · base%: 27.3% · MAND%: 14.5% · FREE%: 58.1% · src: H | `16_Per_City_Three_Tier_Run.md` L282 |
 | `16` — other lines naming the city (per-city passages and tables) | 18 line(s): L114, L116, L138, L174, L222, L333, L350, L439, L790, L2310, L3207, L3224, L3228, L3253, L3335, L3342, L3479, L3570 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L114, L116, L138, L174, L222, L333, L350, L439, L790, L2310, L3207, L3224, L3228, L3253, L3335, L3342, L3479, L3570 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | *[source line compares the city with other places; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L92 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L128 |

@@ -11,8 +11,8 @@
 | Annotation in the spec tier table | `(founding wave — the gateway and the road)` — **no date** | `Specs/Relung_Panen.md` L36 |
 | Annotation in the spec tier table | `(via the Hobart gateway)` — **no date** | `Specs/Relung_Panen.md` L37 |
 | Per-nation breakdown (spec) | Present at L53–L75 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Relung_Panen.md` L53 |
-| Census I | **465,147** H / **482,807** R / **947,954** combined | `Official_Population_Census.md` L502 |
-| Census II | **332,844** H / **345,324** R / **678,168** combined | `Official_Population_Census.md` L615 |
+| Census I | **477,285** H / **494,585** R / **971,870** combined | `Official_Population_Census.md` L502 |
+| Census II | **332,844** H / **345,324** R / **678,168** combined | `Official_Population_Census.md` L621 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 71.54% · human 71.56% · robot 71.52% | Computed from the two rows above |
 | Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — station assignment is not nationality-based, in the treaty's own words | Art. II.3.3: *"Nothing in this Article requires that a population assigned to a given station share the national origin of the Power that formerly maintained it"* | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |

@@ -13,7 +13,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Sanay · Subnet: Halley · D: 1.43 · Workforce: 347,881 · base%: 44.5% · MAND%: 27.8% · FREE%: 27.8% · src: C | `16_Per_City_Three_Tier_Run.md` L254 |
+| `16` Half B — the city's own row | City: Sanay · Subnet: Halley · D: 1.43 · Workforce: 365,728 · base%: 44.5% · MAND%: 27.8% · FREE%: 27.8% · src: C | `16_Per_City_Three_Tier_Run.md` L254 |
 | `16` — other lines naming the city (per-city passages and tables) | 34 line(s): L327, L410, L571, L627, L632, L638, L719, L728, L732, L736, L739, L747–749, L752, L783, L796, L823, L853, L930, L992, L1064, L1200, L1206, L1235, L1317, L1409, L1494, L1958, L3112, L3171, L3551–3552, L3555 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L327, L410, L571, L627, L632, L638, L719, L728, L732, L736, L739, L747–749, L752, L783, L796, L823, L853, L930, L992, L1064, L1200, L1206, L1235, L1317, L1409, L1494, L1958, L3112, L3171, L3551–3552, L3555 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L128 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | \| Sanay \| . \| Y \| . \| Y \| Y \| . \| 3/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L151 |

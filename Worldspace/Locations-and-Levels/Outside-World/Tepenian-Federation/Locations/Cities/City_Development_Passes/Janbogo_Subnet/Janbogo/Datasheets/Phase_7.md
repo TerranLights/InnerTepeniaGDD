@@ -14,7 +14,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Janbogo · Subnet: Janbogo · D: 1.25 · Workforce: 987,240 · base%: 41.1% · MAND%: 29.4% · FREE%: 29.4% · src: C | `16_Per_City_Three_Tier_Run.md` L256 |
+| `16` Half B — the city's own row | City: Janbogo · Subnet: Janbogo · D: 1.25 · Workforce: 1,005,088 · base%: 41.1% · MAND%: 29.4% · FREE%: 29.4% · src: C | `16_Per_City_Three_Tier_Run.md` L256 |
 | `16` — other lines naming the city (per-city passages and tables) | 25 line(s): L250, L258, L267–269, L278–279, L301, L328, L1387, L1950, L2501, L2754, L2764, L2812, L2817, L2848, L2853, L2861, L2866, L2895, L2898–2899, L3086, L3415 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L250, L258, L267–269, L278–279, L301, L328, L1387, L1950, L2501, L2754, L2764, L2812, L2817, L2848, L2853, L2861, L2866, L2895, L2898–2899, L3086, L3415 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | - **Janbogo — `Hospitality / communal services: ~15%`.** ⭐ **This is the *correct* version of the pattern and | `Division_of_Industry_Sweep_2026-08-31.md` L71 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | should be the model for fixes.** The developer's own "Janbogo cannot be an entire city of teahouses" concern | `Division_of_Industry_Sweep_2026-08-31.md` L72 |

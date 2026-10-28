@@ -13,8 +13,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 231,576 humans / 232,093 robots / **463,669** combined
-**Census II (Orbital Era):** 145,798 humans / 129,319 robots / **275,117** combined
+**Census I (Pre-Orbital Era):** 243,714 humans / 243,871 robots / **487,585** combined *(was 231,576 / 232,093 / 463,669; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 153,905 humans / 137,057 robots / **290,962** combined *(was 145,798 / 129,319 / 275,117)*
 
 | Tier | Nations |
 |------|---------|
@@ -30,27 +30,27 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Germany | 25.00% | 58,023 | 57,894 | 32,330 | 36,450 |
-| Significant | Brazil | 11.57% | 26,859 | 26,799 | 14,965 | 16,872 |
-| Significant | UK | 7.18% | 16,658 | 16,621 | 9,282 | 10,465 |
-| Notable | Estonia | 4.58% | 10,619 | 10,596 | 5,917 | 6,671 |
-| Notable | Serbia | 4.53% | 10,515 | 10,491 | 5,859 | 6,605 |
-| Notable | South Africa | 4.48% | 10,402 | 10,379 | 5,796 | 6,534 |
-| Notable | Argentina | 4.22% | 9,794 | 9,772 | 5,457 | 6,152 |
-| Notable | Ukraine | 4.21% | 9,764 | 9,742 | 5,440 | 6,133 |
-| Notable | Slovenia | 4.11% | 9,540 | 9,519 | 5,316 | 5,993 |
-| Notable | Hungary | 4.10% | 9,526 | 9,504 | 5,308 | 5,984 |
-| Notable | Bulgaria | 3.95% | 9,177 | 9,156 | 5,113 | 5,765 |
-| Notable | Norway | 3.87% | 8,972 | 8,952 | 4,999 | 5,636 |
-| Notable | Czech Republic | 2.38% | 5,534 | 5,522 | 3,084 | 3,477 |
-| Notable | Romania | 2.30% | 5,329 | 5,317 | 2,969 | 3,348 |
-| Notable | Croatia | 2.15% | 4,980 | 4,969 | 2,775 | 3,128 |
-| Notable | Latvia | 2.14% | 4,965 | 4,954 | 2,767 | 3,119 |
-| Notable | Slovakia | 2.04% | 4,742 | 4,732 | 2,642 | 2,979 |
-| Notable | Poland | 2.03% | 4,712 | 4,701 | 2,625 | 2,960 |
-| Notable | Lithuania | 1.77% | 4,104 | 4,095 | 2,287 | 2,578 |
-| Notable | Belarus | 1.72% | 3,991 | 3,982 | 2,224 | 2,507 |
-| Notable | Chile | 1.67% | 3,886 | 3,878 | 2,165 | 2,441 |
+| Primary | Germany | 25.00% | 60,968 | 60,929 | 34,264 | 38,477 |
+| Significant | Brazil | 11.57% | 28,222 | 28,204 | 15,860 | 17,810 |
+| Significant | UK | 7.18% | 17,503 | 17,492 | 9,837 | 11,047 |
+| Notable | Estonia | 4.58% | 11,158 | 11,151 | 6,271 | 7,042 |
+| Notable | Serbia | 4.53% | 11,049 | 11,041 | 6,210 | 6,972 |
+| Notable | South Africa | 4.48% | 10,930 | 10,923 | 6,143 | 6,897 |
+| Notable | Argentina | 4.22% | 10,291 | 10,284 | 5,783 | 6,494 |
+| Notable | Ukraine | 4.21% | 10,260 | 10,253 | 5,765 | 6,474 |
+| Notable | Slovenia | 4.11% | 10,024 | 10,018 | 5,634 | 6,326 |
+| Notable | Hungary | 4.10% | 10,009 | 10,002 | 5,626 | 6,317 |
+| Notable | Bulgaria | 3.95% | 9,643 | 9,636 | 5,419 | 6,086 |
+| Notable | Norway | 3.87% | 9,427 | 9,421 | 5,298 | 5,950 |
+| Notable | Czech Republic | 2.38% | 5,815 | 5,811 | 3,268 | 3,670 |
+| Notable | Romania | 2.30% | 5,599 | 5,596 | 3,147 | 3,534 |
+| Notable | Croatia | 2.15% | 5,233 | 5,230 | 2,941 | 3,302 |
+| Notable | Latvia | 2.14% | 5,217 | 5,214 | 2,933 | 3,293 |
+| Notable | Slovakia | 2.04% | 4,983 | 4,980 | 2,800 | 3,145 |
+| Notable | Poland | 2.03% | 4,951 | 4,947 | 2,782 | 3,125 |
+| Notable | Lithuania | 1.77% | 4,312 | 4,310 | 2,424 | 2,721 |
+| Notable | Belarus | 1.72% | 4,194 | 4,191 | 2,357 | 2,646 |
+| Notable | Chile | 1.67% | 4,083 | 4,081 | 2,295 | 2,577 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

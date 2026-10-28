@@ -21,8 +21,8 @@
 | Highway access | Hwy 110 (Coastal Cut) — east toward Casey/Concordia, west toward Davis/Zhongshan | `Specs/Mirny.md` L7 |
 | Significance field — contains a dated correction already in the source | *"corrected 2026-07-04 — Mirny is Mirny subnet, Concordia is Janbogo subnet, so the Planetary Split Brain severed their Arcanet connection the same as every other inter-subnet link… the real mechanism is physical highway proximity, not Arcanet"* — also states Mirny sits precisely on the Antarctic Circle | `Specs/Mirny.md` L8 |
 | DLC field | "Mirny is a DLC location… which DLC covers the Mirny subnet is TBD" | `Specs/Mirny.md` L9 |
-| Census I (repeat here, full derivation in `Step_0.md`) | 665,901 H / 685,529 R / 1,351,430 | `Specs/Mirny.md` §"Population & Composition"; cross-verified against `Official_Population_Census.md` L488 — **exact match, no discrepancy** |
-| Census II | 507,344 H / 509,151 R / 1,016,495 | `Specs/Mirny.md` §"Population & Composition"; cross-verified against `Official_Population_Census.md` L603 — **exact match** |
+| Census I (repeat here, full derivation in `Step_0.md`) | 678,041 H / 697,307 R / 1,375,348 | `Specs/Mirny.md` §"Population & Composition"; cross-verified against `Official_Population_Census.md` L488 — **exact match, no discrepancy** |
+| Census II | 515,452 H / 516,890 R / 1,032,342 | `Specs/Mirny.md` §"Population & Composition"; cross-verified against `Official_Population_Census.md` L609 — **exact match** |
 
 **Not mechanical / not included here:** the admitted read-range (Step −1's own derivation), the four-category
 classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

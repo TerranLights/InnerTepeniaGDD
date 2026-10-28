@@ -28,8 +28,8 @@
 | Density (as stated) | 8,681/km² | `Specs/Dumont_dUrville.md` L20 |
 | Island-cap status | Explicitly **not** island-capped — the census annotation removing this label is stated directly in the source | `Specs/Dumont_dUrville.md` L22 |
 | Census I (repeat here, full derivation in `Step_0.md`) | 201,194 H / 206,807 R / **408,001** combined | `Specs/Dumont_dUrville.md` L15; cross-verified against `Official_Population_Census.md` L506 — **exact match, no discrepancy** |
-| Census II | 121,170 H / 159,635 R / **280,805** combined | `Specs/Dumont_dUrville.md` L16; cross-verified against `Official_Population_Census.md` L624 — **exact match** |
-| Population-trim note (bookkeeping fact, not a synthesis) | Population figures reflect a 2026-09-05 developer-ruled 10% trim from prior working figures (was 223,549 H+R I / 453,334 combined); H/R ratio and Census II retention stated as preserved | `Specs/Dumont_dUrville.md` L42–44; cross-verified against `Official_Population_Census.md` L506, L624 |
+| Census II | 121,170 H / 159,635 R / **280,805** combined | `Specs/Dumont_dUrville.md` L16; cross-verified against `Official_Population_Census.md` L630 — **exact match** |
+| Population-trim note (bookkeeping fact, not a synthesis) | Population figures reflect a 2026-09-05 developer-ruled 10% trim from prior working figures (was 223,549 H+R I / 453,334 combined); H/R ratio and Census II retention stated as preserved | `Specs/Dumont_dUrville.md` L42–44; cross-verified against `Official_Population_Census.md` L506, L630 |
 
 **Not mechanical / not included here:** the admitted read-range (Step −1's own derivation), the four-category
 classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

@@ -17,7 +17,7 @@
 | Coordinates (as written in the same field) | ~72°01'S, 2°32'E | `Specs/Troll.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Troll.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L166, L171 — not copied, not described | `Specs/Troll.md` L166, L171 |
-| Census I (spec's own line) | 475,721 humans / 478,729 robots / **954,450** combined | `Specs/Troll.md` L15 |
-| Census II (spec's own line) | 323,650 humans / 348,182 robots / **671,832** combined | `Specs/Troll.md` L16 |
+| Census I (spec's own line) | 487,859 humans / 490,507 robots / **978,366** combined | `Specs/Troll.md` L15 |
+| Census II (spec's own line) | 331,757 humans / 355,920 robots / **687,677** combined | `Specs/Troll.md` L16 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Troll's own pass runs.

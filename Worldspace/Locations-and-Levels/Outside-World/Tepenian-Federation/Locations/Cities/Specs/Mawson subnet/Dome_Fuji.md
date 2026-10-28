@@ -33,14 +33,14 @@
 **Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — Dome Fuji is a confirmed stop on **Hwy 37 (the Mountain Cut Throughway)**, sitting between the highway's junction with Hwy 7-ext (just before Temirötkel) and its dual-junction with Hwy 22, before the road continues on to Kunlun, Ariun Nuur, and Concordia. See `Locations/Infrastructure/Highways.md`. This had been missed in this file — Kunlun's own equivalent "no highway access" claim was already corrected 2026-07-06 for the same reason.
 **Significance:** Tepenian city on the East Antarctic Plateau; among the highest-elevation cities in Tepenia at approximately 3,810 meters — higher than Concordia (3,233m); the altitude causes physiological impairment for any human and rules out human habitation, so the city is robot-only; survived the Long Night War but functions at reduced capacity due to altitude effects
-**Population:** 0 humans / 55,072 robots (Census I) — resolved 2026-07-04, Dome Fuji's first population figures; see Founding Population Resolution, below
+**Population:** 0 humans / 66,849 robots (Census I) — resolved 2026-07-04, Dome Fuji's first population figures; see Founding Population Resolution, below
 **DLC:** Mawson subnet *(corrected 2026-07-03, see above)*; interior plateau location; whether reachable in gameplay is TBD
 
 ---
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 0 humans / 55,072 robots / **55,072** combined *(entirely robot; new 2026-07-04)*
+**Census I (Pre-Orbital Era):** 0 humans / 66,849 robots / **66,849** combined *(was 0 / 55,072 / 55,072; census updated 2026-10-28, `DR-68`)* *(entirely robot; new 2026-07-04)*
 **Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
 
 | Tier | Nations |
@@ -53,7 +53,7 @@
 
 ### Per-Nation Breakdown — Robots (Census I only; no human population)
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method. No human population exists to break down, but the robot population is still nationally diverse per the tier table above, so this breakdown covers robots only, applied to the Census I total of 55,072. Census II not yet computed for this city.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method. No human population exists to break down, but the robot population is still nationally diverse per the tier table above, so this breakdown covers robots only, applied to the Census I total of 66,849. Census II not yet computed for this city.)*
 
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|
@@ -196,7 +196,7 @@ The name was kept.
 
 ## Founding Population Resolution (2026-07-04)
 
-Dome Fuji's population (55,072, entirely robot) is a genuine blend proportional to the whole continent's composition — USA and China lead, followed by Japan, Germany, and UK (see `Official_Population_Census.md`, Section A, for the full breakdown) — each contributor's own original nationality preserved rather than reclassified, unlike Kunlun's own original population resolution (later superseded 2026-07-06 — see `Specs/Kunlun.md`).
+Dome Fuji's population (66,849, entirely robot) is a genuine blend proportional to the whole continent's composition — USA and China lead, followed by Japan, Germany, and UK (see `Official_Population_Census.md`, Section A, for the full breakdown) — each contributor's own original nationality preserved rather than reclassified, unlike Kunlun's own original population resolution (later superseded 2026-07-06 — see `Specs/Kunlun.md`).
 
 This gives Dome Fuji's already-established "Ice Cold Buddhism" pilgrimage lore (see Character & Culture, below) a direct mechanical basis: this population **is** the devotee population the city's own culture section already anticipated — drawn from every corner of Tepenia specifically because devotion to the faith, not national origin, is what brought them here. There is no human population (0 humans) — **resolved 2026-07-05** (see Founding, above): the site sat unoccupied after the Falkland Treaty, and the pilgrimage population later relocated it and moved in fresh, entirely robot from that point on.
 
@@ -212,7 +212,7 @@ Dome Fuji's earliest social character was that of a small, isolated founding com
 
 **Nationally known for:** The altitude. Being alive but compromised. The dome location — one of the flattest, highest, most featureless points in Antarctica. As a pilgrimage site for practitioners of "Ice Cold Buddhism" (placeholder name — see Robot Religions in TODO).
 
-**Religious significance — "Ice Cold Buddhism":** Dome Fuji is one of the two primary sacred sites in Tepenia for this robot religion, which venerates extreme cold as a meditative and spiritual state — the closest approximation to superconducting conditions achievable in a living environment. At −65°C average winter temperatures in a location of extraordinary atmospheric calm, Dome Fuji approaches the conditions practitioners seek. The extreme altitude and isolation compound the pilgrimage character: reaching Dome Fuji requires genuine sacrifice and commitment, which fits the religion's philosophy. **Resolved 2026-07-04 — this is no longer speculative.** Dome Fuji's entire current population (55,072, entirely robot, nationally blended from every Tepenian city) is confirmed to be exactly this devotee population — the reason the city still has any population at all. **Re-resolved 2026-07-06:** Kunlun's own sacred-site population is no longer exclusively Sinian either — both sites' devotee populations now carry no single national character, though Dome Fuji draws from the whole continent while Kunlun's draw is curated specifically around space/astronomy/comms heritage (see `Specs/Kunlun.md`).
+**Religious significance — "Ice Cold Buddhism":** Dome Fuji is one of the two primary sacred sites in Tepenia for this robot religion, which venerates extreme cold as a meditative and spiritual state — the closest approximation to superconducting conditions achievable in a living environment. At −65°C average winter temperatures in a location of extraordinary atmospheric calm, Dome Fuji approaches the conditions practitioners seek. The extreme altitude and isolation compound the pilgrimage character: reaching Dome Fuji requires genuine sacrifice and commitment, which fits the religion's philosophy. **Resolved 2026-07-04 — this is no longer speculative.** Dome Fuji's entire current population (66,849, entirely robot, nationally blended from every Tepenian city) is confirmed to be exactly this devotee population — the reason the city still has any population at all. **Re-resolved 2026-07-06:** Kunlun's own sacred-site population is no longer exclusively Sinian either — both sites' devotee populations now carry no single national character, though Dome Fuji draws from the whole continent while Kunlun's draw is curated specifically around space/astronomy/comms heritage (see `Specs/Kunlun.md`).
 
 ---
 
@@ -260,7 +260,7 @@ Dome Fuji's legacy is endurance under conditions that were never fully hospitabl
 ## Open Questions
 
 - **DLC 4 alternate access route — established 2026-07-04:** alongside the dangerous overland trip, a player with 10 Calculation + 10 Investigation plus a gate item can fix up a broken plane at the Sinheung airstrip and fly to Dome Fuji instead. The gate item is a specifically-shaped aircraft part found through optional side-content in Belgrano (DLC 5) — a player who already has it from that DLC can skip the stat-gate entirely. See `Specs/Sinheung.md`, `Specs/Belgrano.md`, and `TODO.md`'s Decision Required section for the full mechanic.
-- **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (55,072) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage — see Founding Population Resolution, above. **The founding population's fate — RESOLVED 2026-07-05:** no die-off or ambiguous attrition — the site sat unoccupied after the Falkland Treaty, and the pilgrimage population later relocated it via accounts/manifests/maps (paralleling Byrd's own rediscovery) and moved in fresh, robot-only from that point forward. See Founding, above. Human presence at Dome Fuji is also outright forbidden today, alongside Kunlun (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline") — a matter of combined altitude/cold lethality, not any anti-human sentiment.
+- **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (66,849) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage — see Founding Population Resolution, above. **The founding population's fate — RESOLVED 2026-07-05:** no die-off or ambiguous attrition — the site sat unoccupied after the Falkland Treaty, and the pilgrimage population later relocated it via accounts/manifests/maps (paralleling Byrd's own rediscovery) and moved in fresh, robot-only from that point forward. See Founding, above. Human presence at Dome Fuji is also outright forbidden today, alongside Kunlun (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline") — a matter of combined altitude/cold lethality, not any anti-human sentiment.
 - **Robot-to-human demographic shift — RESOLVED 2026-07-04:** fully robot, per the above. The mechanism (altitude attrition vs. deliberate pilgrimage influx) remains an open narrative question even though the end state is now confirmed.
 - **The ice core archive survival** — whether this scientific record survived the Long Night War
 - **Mawson subnet Arcanet connection** *(corrected 2026-07-04 — this line previously said "Halley subnet," another leftover from before the subnet header field was corrected; see Geographic Basis, above)* — is the cable link between Dome Fuji and the Mawson subnet hub intact? Given the distance and the post-war infrastructure damage, this is uncertain

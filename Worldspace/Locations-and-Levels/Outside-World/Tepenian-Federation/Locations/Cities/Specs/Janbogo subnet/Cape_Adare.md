@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 745,967 humans / 753,687 robots / **1,499,654** combined
-**Census II (Orbital Era):** 426,343 humans / 623,708 robots / **1,050,051** combined *(destroyed)*
+**Census I (Pre-Orbital Era):** 758,107 humans / 765,465 robots / **1,523,572** combined *(was 745,967 / 753,687 / 1,499,654; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 434,451 humans / 631,447 robots / **1,065,898** combined *(was 426,343 / 623,708 / 1,050,051)* *(destroyed)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,18 +29,18 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 22.26% | 167,754 | 166,036 | 138,824 | 94,895 |
-| Primary | China | 19.85% | 149,588 | 148,056 | 123,790 | 84,618 |
-| Significant | Australia | 10.76% | 81,081 | 80,251 | 67,098 | 45,866 |
-| Significant | Japan | 10.49% | 79,099 | 78,288 | 65,457 | 44,744 |
-| Significant | Indonesia | 9.28% | 69,933 | 69,217 | 57,873 | 39,560 |
-| Significant | Canada | 6.51% | 49,070 | 48,567 | 40,607 | 27,758 |
-| Significant | South Korea | 5.29% | 39,905 | 39,496 | 33,023 | 22,573 |
-| Significant | UK | 5.03% | 37,922 | 37,533 | 31,382 | 21,451 |
-| Notable | Chile | 3.74% | 28,210 | 27,921 | 23,345 | 15,958 |
-| Notable | New Zealand | 3.19% | 24,014 | 23,768 | 19,873 | 13,584 |
-| Notable | Philippines | 2.08% | 15,653 | 15,493 | 12,954 | 8,855 |
-| Notable | Malaysia | 1.52% | 11,458 | 11,341 | 9,482 | 6,482 |
+| Primary | USA | 22.26% | 170,375 | 168,738 | 140,546 | 96,700 |
+| Primary | China | 19.85% | 151,926 | 150,466 | 125,326 | 86,227 |
+| Significant | Australia | 10.76% | 82,348 | 81,557 | 67,930 | 46,738 |
+| Significant | Japan | 10.49% | 80,335 | 79,562 | 66,269 | 45,595 |
+| Significant | Indonesia | 9.28% | 71,026 | 70,343 | 58,591 | 40,312 |
+| Significant | Canada | 6.51% | 49,837 | 49,357 | 41,111 | 28,286 |
+| Significant | South Korea | 5.29% | 40,528 | 40,139 | 33,433 | 23,002 |
+| Significant | UK | 5.03% | 38,515 | 38,144 | 31,771 | 21,859 |
+| Notable | Chile | 3.74% | 28,651 | 28,375 | 23,635 | 16,262 |
+| Notable | New Zealand | 3.19% | 24,389 | 24,155 | 20,120 | 13,842 |
+| Notable | Philippines | 2.08% | 15,898 | 15,745 | 13,115 | 9,023 |
+| Notable | Malaysia | 1.52% | 11,637 | 11,526 | 9,600 | 6,605 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

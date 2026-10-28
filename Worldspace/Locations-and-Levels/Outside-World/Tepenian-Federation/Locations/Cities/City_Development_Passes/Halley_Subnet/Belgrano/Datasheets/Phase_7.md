@@ -13,7 +13,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 805,928 · base%: 44.3% · MAND%: 30.7% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L252 |
+| `16` Half B — the city's own row | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 823,775 · base%: 44.3% · MAND%: 30.6% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L252 |
 | `16` — other lines naming the city (per-city passages and tables) | 24 line(s): L208, L327, L410, L449, L544, L555, L557, L562, L570, L581, L584, L589, L632, L638, L718, L752, L783, L930, L1425, L1432, L1493, L1886, L3430, L3561 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L208, L327, L410, L449, L544, L555, L557, L562, L570, L581, L584, L589, L632, L638, L718, L752, L783, L930, L1425, L1432, L1493, L1886, L3430, L3561 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L128 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | \| Belgrano \| . \| . \| . \| . \| . \| . \| **6/6** \| | `Division_of_Industry_Sweep_2026-08-31.md` L146 |

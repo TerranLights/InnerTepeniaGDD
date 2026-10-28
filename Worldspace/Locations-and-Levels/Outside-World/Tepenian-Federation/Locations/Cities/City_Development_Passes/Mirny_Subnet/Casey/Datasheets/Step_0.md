@@ -10,9 +10,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 733,795 H / 761,936 R / **1,495,731** *(revised 2026-07-04)* | `Official_Population_Census.md` L485 — cross-verified against `Specs/Casey.md`'s own figures, exact match |
-| Census II | 436,922 H / 605,109 R / **1,042,031** | `Official_Population_Census.md` L602 — cross-verified against `Specs/Casey.md`, exact match |
-| Retention (computed; formula = retained ÷ Census-I count) | combined 69.67% · human 59.54% · robot 79.42% · spread **19.87 pp toward robots** | Computed from the two rows above: 1,042,031÷1,495,731 = 69.667%; 436,922÷733,795 = 59.543%; 605,109÷761,936 = 79.417% — verified via Python this turn |
+| Census I | 745,935 H / 773,714 R / **1,519,649** *(revised 2026-07-04)* | `Official_Population_Census.md` L485 — cross-verified against `Specs/Casey.md`'s own figures, exact match |
+| Census II | 445,030 H / 612,848 R / **1,057,878** | `Official_Population_Census.md` L608 — cross-verified against `Specs/Casey.md`, exact match |
+| Retention (computed; formula = retained ÷ Census-I count) | combined 69.61% · human 59.66% · robot 79.21% · spread **19.55 pp toward robots** | Computed from the two rows above: 1,057,878÷1,519,649 = 69.613%; 445,030÷745,935 = 59.661%; 612,848÷773,714 = 79.209% — verified via Python this turn |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location. Corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s/early 2700s, onward (most of the period) — properly Tepenian, origin is ancestry not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The Act structure" |
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |

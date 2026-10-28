@@ -2,6 +2,8 @@
 
 > ⛔⛔ **DELIBERATELY EMPTY — NOT AN OVERSIGHT.** The one slot in the 19-file inventory that is fully blocked, not merely undone.
 
+> ⛔ **UPDATE 2026-10-28 (`DR-67`):** for this pass the Local Cultures file and the Enneagram file are **WITHHELD** (they rest on the superseded founding), so Step 5 will not open them at all; they are revisited after the November run.
+
 ## Why nothing is staged here
 
 `Local_Cultures/` and `Local_Robot_Culture/` are **read-last, as a CHECK** — the sequencing rule "nothing enforces it mechanically; this file IS the enforcement." Pre-staging their content, however mechanical the transcription, defeats the one thing keeping them from contaminating every earlier phase (Field Guide, sequencing exclusion).

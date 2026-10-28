@@ -11,8 +11,8 @@
 |---|---|---|
 | Composition tier table | Primary: China · Significant: Japan, Germany, UK, South Korea, Russia *(added 2026-09-05)*, Indonesia, Australia *(founding wave)* · Notable (13): Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia | `Official_Population_Census.md` L390–396 |
 | Annotation dating (the discriminator per this session's cross-check) | Two dated annotations in the admitted set: `(added 2026-09-05)` on Russia; `(revised 2026-07-04)` on the Census I row. Two undated: `(founding wave)` on Australia; the L392 geography parenthetical. Dated ⇒ authoring; undated ⇒ content — 2-for-2 both ways | `Official_Population_Census.md` L390, L395, L494 |
-| Census I (governs, `DR-4`) | 563,599 H / 594,715 R / 1,158,314 | `Official_Population_Census.md` L494 |
-| Census II | 437,423 H / 344,173 R / 781,596 (no annotation) | `Official_Population_Census.md` L611 |
+| Census I (governs, `DR-4`) | 575,738 H / 606,493 R / 1,182,231 | `Official_Population_Census.md` L494 |
+| Census II | 445,531 H / 351,912 R / 797,443 (no annotation) | `Official_Population_Census.md` L617 |
 | Retention (computed; formula = retained ÷ Census-I count) | combined 67.48% · human 77.61% · robot 57.87% · spread 19.74 pp | Same two rows above |
 
 ## T8-reported — quoted by today's readers, not yet independently re-confirmed at the byte level by me

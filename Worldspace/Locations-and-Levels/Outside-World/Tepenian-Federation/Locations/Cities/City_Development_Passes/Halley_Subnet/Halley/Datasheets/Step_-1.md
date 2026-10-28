@@ -17,7 +17,7 @@
 | Coordinates (as written in the same field) | ~75°35'S, 26°34'W | `Specs/Halley.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Halley.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L185, L193, L199 — not copied, not described | `Specs/Halley.md` L185, L193, L199 |
-| Census I (spec's own line) | 709,749 humans / 742,596 robots / **1,452,345** combined | `Specs/Halley.md` L15 |
-| Census II (spec's own line) | 509,209 humans / 578,860 robots / **1,088,069** combined | `Specs/Halley.md` L16 |
+| Census I (spec's own line) | 721,889 humans / 754,374 robots / **1,476,263** combined | `Specs/Halley.md` L15 |
+| Census II (spec's own line) | 517,317 humans / 586,599 robots / **1,103,916** combined | `Specs/Halley.md` L16 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Halley's own pass runs.

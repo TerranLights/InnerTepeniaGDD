@@ -38,8 +38,8 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 518,822 humans / 541,660 robots / **1,060,482** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 576,469 / 601,844 / **1,178,313***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
-**Census II (Orbital Era):** 302,512 humans / 352,980 robots / **655,492** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 336,124 / 392,200 / **728,324***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census I (Pre-Orbital Era):** 530,961 humans / 553,438 robots / **1,084,399** combined *(was 518,822 / 541,660 / 1,060,482; census updated 2026-10-28, `DR-68`)* ⭐ **−10% 2026-09-05, developer ruling** — *was 576,469 / 601,844 / **1,178,313***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 310,620 humans / 360,719 robots / **671,339** combined *(was 302,512 / 352,980 / 655,492)* ⭐ **−10% 2026-09-05, developer ruling** — *was 336,124 / 392,200 / **728,324***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|
@@ -55,23 +55,23 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 36.27% | 196,461 | 188,177 | 128,031 | 109,725 |
-| Significant | Australia | 8.76% | 47,450 | 45,449 | 30,924 | 26,503 |
-| Significant | Russia | 8.61% | 46,637 | 44,671 | 30,394 | 26,049 |
-| Significant | South Korea | 7.89% | 42,737 | 40,935 | 27,852 | 23,869 |
-| Significant | China | 7.18% | 38,891 | 37,251 | 25,345 | 21,721 |
-| Significant | Germany | 4.93% | 26,704 | 25,578 | 17,411 | 14,922 |
-| Notable | Romania | 3.54% | 19,175 | 18,366 | 12,485 | 10,701 |
-| Notable | Vietnam | 3.16% | 17,116 | 16,395 | 11,147 | 9,553 |
-| Notable | Ukraine | 3.11% | 16,845 | 16,135 | 10,964 | 9,396 |
-| Notable | Belarus | 3.00% | 16,250 | 15,565 | 10,606 | 9,090 |
-| Notable | Thailand | 2.99% | 16,195 | 15,512 | 10,548 | 9,040 |
-| Notable | New Zealand | 2.97% | 16,087 | 15,409 | 10,480 | 8,981 |
-| Notable | Lithuania | 1.76% | 9,533 | 9,131 | 6,203 | 5,316 |
-| Notable | South Africa | 1.66% | 8,992 | 8,612 | 5,845 | 5,010 |
-| Notable | Bulgaria | 1.60% | 8,667 | 8,302 | 5,662 | 4,853 |
-| Notable | Latvia | 1.35% | 7,312 | 7,004 | 4,759 | 4,078 |
-| Notable | Estonia | 1.22% | 6,608 | 6,330 | 4,324 | 3,705 |
+| Primary | Japan | 36.27% | 200,733 | 192,580 | 130,838 | 112,666 |
+| Significant | Australia | 8.76% | 48,482 | 46,512 | 31,602 | 27,213 |
+| Significant | Russia | 8.61% | 47,651 | 45,716 | 31,060 | 26,747 |
+| Significant | South Korea | 7.89% | 43,666 | 41,893 | 28,463 | 24,509 |
+| Significant | China | 7.18% | 39,737 | 38,123 | 25,901 | 22,303 |
+| Significant | Germany | 4.93% | 27,285 | 26,176 | 17,793 | 15,322 |
+| Notable | Romania | 3.54% | 19,592 | 18,796 | 12,759 | 10,988 |
+| Notable | Vietnam | 3.16% | 17,488 | 16,779 | 11,391 | 9,809 |
+| Notable | Ukraine | 3.11% | 17,211 | 16,512 | 11,204 | 9,648 |
+| Notable | Belarus | 3.00% | 16,603 | 15,929 | 10,839 | 9,334 |
+| Notable | Thailand | 2.99% | 16,547 | 15,875 | 10,779 | 9,282 |
+| Notable | New Zealand | 2.97% | 16,437 | 15,770 | 10,710 | 9,222 |
+| Notable | Lithuania | 1.76% | 9,740 | 9,345 | 6,339 | 5,459 |
+| Notable | South Africa | 1.66% | 9,188 | 8,813 | 5,973 | 5,144 |
+| Notable | Bulgaria | 1.60% | 8,855 | 8,496 | 5,786 | 4,983 |
+| Notable | Latvia | 1.35% | 7,471 | 7,168 | 4,863 | 4,187 |
+| Notable | Estonia | 1.22% | 6,752 | 6,478 | 4,419 | 3,804 |
 
 *Indonesia and UK removed from this table entirely (their shares transferred to Japan or dropped, per the re-derivation above). Sums to exactly 100%.*
 

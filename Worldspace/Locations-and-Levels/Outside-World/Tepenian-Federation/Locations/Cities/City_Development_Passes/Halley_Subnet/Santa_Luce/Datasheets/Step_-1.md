@@ -17,7 +17,7 @@
 | Coordinates (as written in the same field) | ~73°03'S, 13°25'W | `Specs/Santa_Luce.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Santa_Luce.md` L6 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L170, L175, L183 — not copied, not described | `Specs/Santa_Luce.md` L170, L175, L183 |
-| Census I (spec's own line) | 504,237 humans / 530,004 robots / **1,034,241** combined | `Specs/Santa_Luce.md` L17 |
-| Census II (spec's own line) | 310,791 humans / 296,650 robots / **607,441** combined | `Specs/Santa_Luce.md` L18 |
+| Census I (spec's own line) | 213,834 humans / 223,780 robots / **437,614** combined | `Specs/Santa_Luce.md` L17 |
+| Census II (spec's own line) | 132,423 humans / 126,398 robots / **258,821** combined | `Specs/Santa_Luce.md` L18 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Santa Luce's own pass runs.

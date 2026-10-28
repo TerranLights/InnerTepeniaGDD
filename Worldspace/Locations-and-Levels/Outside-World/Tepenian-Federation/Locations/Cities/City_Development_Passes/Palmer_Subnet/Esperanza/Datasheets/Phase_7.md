@@ -13,7 +13,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Esperanza · Subnet: Palmer · D: 1.11 · Workforce: 1,400,618 · base%: 39.7% · MAND%: 24.1% · FREE%: 36.2% · src: C | `16_Per_City_Three_Tier_Run.md` L259 |
+| `16` Half B — the city's own row | City: Esperanza · Subnet: Palmer · D: 1.11 · Workforce: 1,418,466 · base%: 39.7% · MAND%: 24.1% · FREE%: 36.2% · src: C | `16_Per_City_Three_Tier_Run.md` L259 |
 | `16` — other lines naming the city (per-city passages and tables) | 23 line(s): L314, L363, L1146, L1231, L1339, L1345, L1356, L1362, L1370, L1384, L1389, L1400, L1407, L1420, L1424, L1441, L1443, L1511, L1744, L1886, L2799, L3224, L3560 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L314, L363, L1146, L1231, L1339, L1345, L1356, L1362, L1370, L1384, L1389, L1400, L1407, L1420, L1424, L1441, L1443, L1511, L1744, L1886, L2799, L3224, L3560 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | *[source line compares the city with other places; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L121 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | \| **Esperanza** \| Y \| . \| Y \| Y \| Y \| . \| **2/6** \| | `Division_of_Industry_Sweep_2026-08-31.md` L171 |

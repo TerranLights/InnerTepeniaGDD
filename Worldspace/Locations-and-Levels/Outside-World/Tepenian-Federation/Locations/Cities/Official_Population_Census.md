@@ -479,48 +479,51 @@ National communities are classified by tier based on long-run population share. 
 
 | Rank | City | Subnet | Humans | Robots | **Combined** | Status |
 |------|------|--------|--------|--------|-------------|--------|
-| 1 | Lazar | Halley | 1,158,303 | 1,199,984 | **2,358,287** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 1,287,003 / 1,333,316 / **2,620,319**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Still the largest city in the Federation. 69,361/km² on Schirmacher Oasis' 34 km² of rock; **86–90% of the city stands on ice** (`Extent_and_Density_Per_City.md` §10).* |
-| 2 | Esperanza | Palmer | 955,337 | 922,950 | **1,878,287** | *(revised 2026-07-04)* |
-| 3 | Cape Adare | Janbogo | 745,967 | 753,687 | **1,499,654** | *(destroyed; revised 2026-07-04)* |
-| 4 | Casey | Mirny | 733,795 | 761,936 | **1,495,731** | *(revised 2026-07-04)* |
-| 5 | Halley | Halley | 709,749 | 742,596 | **1,452,345** | *(revised 2026-07-04)* |
-| 6 | Mawson | Mawson | 709,729 | 737,004 | **1,446,733** | *(revised 2026-07-04)* |
-| 7 | Mirny | Mirny | 665,901 | 685,529 | **1,351,430** | *(revised 2026-07-04)* |
-| 8 | Janbogo | Janbogo | 646,541 | 663,970 | **1,310,511** | *(revised 2026-07-04)* |
-| 9 | Zhongshan | Mirny | 568,786 | 582,703 | **1,151,489** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 631,985 / 647,448 / **1,279,433**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 1 of 3.* |
-| 10 | Zukelli | Janbogo | 627,584 | 631,067 | **1,258,651** | *(destroyed; revised 2026-07-04)* |
-| 11 | Neumayer | Halley | 613,735 | 638,345 | **1,252,080** | *(revised 2026-07-04)* |
-| 12 | Shirayuki | Mirny | 518,822 | 541,660 | **1,060,482** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 576,469 / 601,844 / **1,178,313**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 2 of 3. (Subnet corrected 2026-07-05 — moved from Mawson.)* |
-| 13 | Davis | Mirny | 563,599 | 594,715 | **1,158,314** | *(revised 2026-07-04)* |
-| 14 | Princess Elisabeth | Halley | 553,768 | 584,149 | **1,137,917** | *(revised 2026-07-04)* |
-| 15 | Belgrano | Halley | 531,925 | 539,965 | **1,071,890** | *(ruins, DLC 5; revised 2026-07-04)* |
-| 16 | Sinheung | Mirny | 467,272 | 495,143 | **962,415** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 519,191 / 550,159 / **1,069,350**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 3 of 3. (Subnet corrected 2026-07-05 — moved from Mawson.)* |
-| 17 | Denison | Janbogo | 444,529 | 461,693 | **906,222** | ⭐ **−15% 2026-09-05, and EXTENT DECLARED at ~50 km² (two-zone)** — *was 522,975 / 543,168 / **1,066,143***. **Core 4.96 km² (cape + Mackellar, the spanned megastructure) @ ~40,000/km²; inland ~45 km² along Hwy 183 @ ~15,700/km². Overall 18,124/km².** ⛔ **OVERFLOW 78,446 H / 81,475 R / 159,921 C HELD — §D-OVERFLOW.** *(Superseded note:* *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* |
-| 18 | Abowasa | Halley | 504,237 | 530,004 | **1,034,241** | *(revised 2026-07-04)* |
-| 19 | Concordia | Janbogo | 504,799 | 511,148 | **1,015,947** | *(unchanged)* |
-| 20 | Troll | Halley | 475,721 | 478,729 | **954,450** | *(revised 2026-07-04)* |
-| — | **Relung Panen** | Mirny | **465,147** | **482,807** | **947,954** | *(Formerly the placeholder Bunger Hills City, `DR-39`.)* ⭐⭐⭐ **FOUNDED 2026-09-05 — the 38th city, and the first added by the extent run.** **Its population IS the redistribution pool, discharged in full:** *Port Lockroy 127,958 · Dumont d'Urville 45,333 · Denison 159,921 · Lazar 262,032 · Zhongshan 127,944 · Shirayuki 117,831 · Sinheung 106,935.* ⭐ **Sized independently by the food model at ~765,007** *(`Division_of_Industry/13` §7: Tepenia runs a **26.0% national food deficit** and *"Relung Panen is not optional"*)* — **this founds it 182,947 over that, which is the margin.** **2,107/km² on 450 km² of ice-free rock — the emptiest city in the Federation, on purpose.** ⛔⛔ **NOT A MIGRATION.** *No one moved here. The H/R split is arithmetic that keeps the national totals reconcilable; it is NOT a claim that these people came from those cities, and this city inherits **no** founding population, national composition, community or memory from any of them — all of that is **TBD**.* ⚠ **Name is a placeholder.** *Candidates in `Relung_Panen/Development_Brief.md` §4; developer rules.* |
+| 1 | Lazar | Halley | 1,170,443 | 1,211,762 | **2,382,205** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 1,287,003 / 1,333,316 / **2,620,319**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Still the largest city in the Federation. 69,361/km² on Schirmacher Oasis' 34 km² of rock; **86–90% of the city stands on ice** (`Extent_and_Density_Per_City.md` §10).* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,140 H / +11,778 R *(was 1,158,303 / 1,199,984 / **2,358,287**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 2 | Esperanza | Palmer | 967,477 | 934,728 | **1,902,205** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,140 H / +11,778 R *(was 955,337 / 922,950 / **1,878,287**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 3 | Cape Adare | Janbogo | 758,107 | 765,465 | **1,523,572** | *(destroyed; revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,140 H / +11,778 R *(was 745,967 / 753,687 / **1,499,654**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 4 | Casey | Mirny | 745,935 | 773,714 | **1,519,649** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,140 H / +11,778 R *(was 733,795 / 761,936 / **1,495,731**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 5 | Halley | Halley | 721,889 | 754,374 | **1,476,263** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,140 H / +11,778 R *(was 709,749 / 742,596 / **1,452,345**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 6 | Mawson | Mawson | 721,869 | 748,782 | **1,470,651** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,140 H / +11,778 R *(was 709,729 / 737,004 / **1,446,733**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 7 | Mirny | Mirny | 678,041 | 697,307 | **1,375,348** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,140 H / +11,778 R *(was 665,901 / 685,529 / **1,351,430**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 8 | Janbogo | Janbogo | 658,680 | 675,748 | **1,334,428** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 646,541 / 663,970 / **1,310,511**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 9 | Zhongshan | Mirny | 580,925 | 594,481 | **1,175,406** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 631,985 / 647,448 / **1,279,433**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 1 of 3.* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 568,786 / 582,703 / **1,151,489**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 10 | Zukelli | Janbogo | 639,723 | 642,845 | **1,282,568** | *(destroyed; revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 627,584 / 631,067 / **1,258,651**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 11 | Neumayer | Halley | 625,874 | 650,123 | **1,275,997** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 613,735 / 638,345 / **1,252,080**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 12 | Shirayuki | Mirny | 530,961 | 553,438 | **1,084,399** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 576,469 / 601,844 / **1,178,313**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 2 of 3. (Subnet corrected 2026-07-05 — moved from Mawson.)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 518,822 / 541,660 / **1,060,482**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 13 | Davis | Mirny | 575,738 | 606,493 | **1,182,231** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 563,599 / 594,715 / **1,158,314**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 14 | Princess Elisabeth | Halley | 565,907 | 595,927 | **1,161,834** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 553,768 / 584,149 / **1,137,917**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 15 | Belgrano | Halley | 544,064 | 551,743 | **1,095,807** | *(ruins, DLC 5; revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 531,925 / 539,965 / **1,071,890**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 16 | Sinheung | Mirny | 479,411 | 506,921 | **986,332** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 519,191 / 550,159 / **1,069,350**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 3 of 3. (Subnet corrected 2026-07-05 — moved from Mawson.)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 467,272 / 495,143 / **962,415**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 17 | Denison | Janbogo | 456,668 | 473,471 | **930,139** | ⭐ **−15% 2026-09-05, and EXTENT DECLARED at ~50 km² (two-zone)** — *was 522,975 / 543,168 / **1,066,143***. **Core 4.96 km² (cape + Mackellar, the spanned megastructure) @ ~40,000/km²; inland ~45 km² along Hwy 183 @ ~15,700/km². Overall 18,124/km².** ⛔ **OVERFLOW 78,446 H / 81,475 R / 159,921 C HELD — §D-OVERFLOW.** *(Superseded note:* *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 444,529 / 461,693 / **906,222**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 18 | Abowasa | Halley | 213,834 | 223,780 | **437,614** | *(revised 2026-07-04)* ⭐ **Scenario `DR-67`/`DR-68`, 2026-10-28:** keeps 40% (201,695 H / 212,002 R) plus its even share of the redistribution; small and community-scaled. *Was 504,237 / 530,004 / **1,034,241**.* Arithmetic, NOT a migration (`Population_Scenario_Santa_Luce_Redistribution_2026-10-28.md`). |
+| 19 | Concordia | Janbogo | 516,937 | 522,926 | **1,039,863** | *(unchanged)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 504,799 / 511,148 / **1,015,947**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 20 | Troll | Halley | 487,859 | 490,507 | **978,366** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 475,721 / 478,729 / **954,450**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| — | **Relung Panen** | Mirny | **477,285** | **494,585** | **971,870** | *(Formerly the placeholder Bunger Hills City, `DR-39`.)* ⭐⭐⭐ **FOUNDED 2026-09-05 — the 38th city, and the first added by the extent run.** **Its population IS the redistribution pool, discharged in full:** *Port Lockroy 127,958 · Dumont d'Urville 45,333 · Denison 159,921 · Lazar 262,032 · Zhongshan 127,944 · Shirayuki 117,831 · Sinheung 106,935.* ⭐ **Sized independently by the food model at ~765,007** *(`Division_of_Industry/13` §7: Tepenia runs a **26.0% national food deficit** and *"Relung Panen is not optional"*)* — **this founds it 182,947 over that, which is the margin.** **2,107/km² on 450 km² of ice-free rock — the emptiest city in the Federation, on purpose.** ⛔⛔ **NOT A MIGRATION.** *No one moved here. The H/R split is arithmetic that keeps the national totals reconcilable; it is NOT a claim that these people came from those cities, and this city inherits **no** founding population, national composition, community or memory from any of them — all of that is **TBD**.* ⚠ **Name is a placeholder.** *Candidates in `Relung_Panen/Development_Brief.md` §4; developer rules.* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 465,147 / 482,807 / **947,954**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 21 | Sejong | Palmer | 316,691 | 328,142 | **644,833** | *(island cap; revised 2026-07-04)* |
 | 22 | Marambio | Palmer | 283,442 | 286,827 | **570,269** | *(island cap; revised 2026-07-04)* |
-| 23 | Sanay | Halley | 231,576 | 232,093 | **463,669** | *(revised 2026-07-04)* |
+| 23 | Sanay | Halley | 243,714 | 243,871 | **487,585** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 231,576 / 232,093 / **463,669**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 24 | Dumont d'Urville | Janbogo | 201,194 | 206,807 | **408,001** | ⭐ **−10% 2026-09-05 — Gate 11.** *Was 223,549 / 229,785 / **453,334**.* ⛔ **`island cap` ANNOTATION REMOVED — this city is NOT island-capped**: it is a two-highway junction whose mainland half sits at the ice-sheet edge *(`Extent_and_Density_Per_City.md` §5)*. ⭐ **Extent declared: 45 km² mainland + ~2 km² archipelago = 47 km² → 8,681/km².** ⛔ **OVERFLOW 22,355 H / 22,978 R / 45,333 C HELD — §D-OVERFLOW** |
 | 25 | Fort McMurdo | Janbogo | 222,190 | 223,120 | **445,310** | *(island cap; revised 2026-07-04)* |
-| 26 | Vostok | Mirny | 129,617 | 259,644 | **389,261** | *(revised 2026-07-04)* |
+| 26 | Vostok | Mirny | 141,755 | 271,422 | **413,177** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 129,617 / 259,644 / **389,261**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 27 | Juan Carlos | Palmer | 189,742 | 196,950 | **386,692** | *(island cap; revised 2026-07-04)* |
 | 28 | Scott | Janbogo | 189,817 | 196,194 | **386,011** | *(island cap; revised 2026-07-04)* |
-| 29 | Byrd | Byrd | 186,268 | 190,622 | **376,890** | *(revised 2026-07-04)* |
+| 29 | Byrd | Byrd | 198,406 | 202,399 | **400,805** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,777 R *(was 186,268 / 190,622 / **376,890**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 30 | Palmer City | Palmer | 165,912 | 166,896 | **332,808** | *(island cap; revised 2026-07-04)* |
 | 31 | Rothera | Palmer | 153,760 | 163,689 | **317,449** | *(island cap; revised 2026-07-04)* |
 | 32 | Sayowa | Mawson | 93,356 | 132,020 | **225,376** | ⭐ **EXTENT DECLARED 2026-09-05 — ~31.5 km², POPULATION UNCHANGED.** *1.5 km² East Ongul + 25 km² mainland ice apron at the Spur landfall + a 10 km × 500 m coastal corridor.* **7,155/km² — inside the band.** ⛔ **`island cap` REMOVED** — *three national highways converge at the Sayowa Junction; the city is not island-confined. No overflow.* |
 | 33 | Signy | Palmer | 93,134 | 95,560 | **188,694** | *(island cap; revised 2026-07-04)* |
 | 34 | Port Lockroy | Palmer | 457 | 472 | **929** | ⭐ **REDUCED 2026-09-05 — Gate 11.** *Was 63,338 / 65,549 / **128,887**, which is **5,370,292/km²** on Goudier Island (200 m × 120 m = 0.024 km²) — **4.3× Kowloon Walled City's historical peak.** New figure drawn 600–1,000 per developer instruction; H/R ratio preserved. **Now 38,708/km², 0.84× Manila — inside the real-world range for the first time.*** ⛔ **OVERFLOW 62,881 H / 65,077 R / 127,958 C is HELD, not deleted — see §D-OVERFLOW** |
-| 35 | Kunlun | Mirny | 0 | 123,449 | **123,449** | *(new 2026-07-04; entirely robot; composition re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population — see `Specs/Kunlun.md`)* |
-| 36 | Dome Fuji | Mawson | 0 | 55,072 | **55,072** | *(new 2026-07-04; entirely robot, national origin preserved from source cities — see composition note)* |
+| 35 | Kunlun | Mirny | 0 | 135,226 | **135,226** | *(new 2026-07-04; entirely robot; composition re-resolved 2026-07-06 to a curated 19-nation space/astronomy/comms-heritage population — see `Specs/Kunlun.md`)* ⭐ **Scenario `DR-68`, 2026-10-28:** +0 H / +11,777 R *(was 0 / 123,449 / **123,449**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 36 | Dome Fuji | Mawson | 0 | 66,849 | **66,849** | *(new 2026-07-04; entirely robot, national origin preserved from source cities — see composition note)* ⭐ **Scenario `DR-68`, 2026-10-28:** +0 H / +11,777 R *(was 0 / 55,072 / **55,072**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 37 | Amundsen Station | Amundsen | 1,121 | 5,736 | **6,857** | *~84% robot; revised 2026-07-04* |
+| — | **Maritime fleet** *(non-city)* | — | 11,205 | 11,777 | **22,982** | ⭐ **NEW 2026-10-28 (`DR-68`, Option A).** Fishing vessels and radio-relay points on the waters around Antarctica (the Drake Passage excluded), crews on rotating tours; crews ashore stay with friends and family in their home cities as guests and remain counted here. This is Amundsen Station's share of the Santa Luce redistribution. **No space workforce appears in Census I:** the shift workers in orbit begin after Amundsen Tower. Arithmetic, NOT a migration. |
 
 | — | **TOTAL** | | **15,623,523** | **16,403,077** | **32,026,600** | *(revised 2026-07-04)* |
 
 *Note: Denison has been added to Census I above; its Census II (Orbital Era) retention rates are pending and it is therefore not yet included in Section C.*
+
+*Scenario note, 2026-10-28 (`DR-68`):* the Santa Luce redistribution is applied. Rows marked ⭐ changed; **national totals are unchanged** (rows plus the maritime fleet sum to the TOTAL). **The Rank column was NOT re-sorted** (it is historical, and datasheets cite these row numbers); Santa Luce now falls below its listed rank. **The National Origin tables below are stale for the changed cities and must be rebuilt** as a direct sum of the Specs files, not patched (the file's own standing rule).
 
 ### Subnet Totals — Census I
 
@@ -528,14 +531,17 @@ National communities are classified by tier based on long-run population share. 
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
-| Halley / Queen Maud Land | 4,907,714 | 5,079,197 | **9,986,911** |
-| Janbogo / Ross Sea | 3,683,422 | 3,752,139 | **7,435,561** |
-| Mawson / Indian Ocean | 803,085 | 924,096 | **1,727,181** |
-| Palmer / Antarctic Peninsula | 2,221,356 | 2,226,563 | **4,447,919** |
-| Mirny / Wilkes Land + Plateau | 3,820,557 | 4,224,724 | **8,045,281** |
-| Byrd / Ross Ice Shelf | 186,268 | 190,622 | **376,890** |
+| Halley / Queen Maud Land | 4,573,584 | 4,722,087 | **9,295,671** |
+| Janbogo / Ross Sea | 3,643,316 | 3,706,576 | **7,349,892** |
+| Mawson / Indian Ocean | 815,225 | 947,651 | **1,762,876** |
+| Palmer / Antarctic Peninsula | 2,170,615 | 2,173,264 | **4,343,879** |
+| Mirny / Wilkes Land + Plateau | 4,210,051 | 4,633,587 | **8,843,638** |
+| Byrd / Ross Ice Shelf | 198,406 | 202,399 | **400,805** |
 | Amundsen / South Pole | 1,121 | 5,736 | **6,857** |
+| *Non-city: maritime fleet* | 11,205 | 11,777 | **22,982** |
 | **TOTAL** | **15,623,523** | **16,403,077** | **32,026,600** |
+
+*Recomputed 2026-10-28 (`DR-68`) directly from the city rows above (plus the non-city groups), which also pays the subnet-total debt the §D-OVERFLOW ledger marked STILL OWED since 2026-09-05: the old subnet rows had not absorbed the 2026-09-05 trims or the Relung Panen row. **The per-nation National Origin table is still owed.**
 
 ### National Origin Totals — Human Population (Census I)
 
@@ -595,43 +601,47 @@ National communities are classified by tier based on long-run population share. 
 
 | Rank | City | Subnet | Humans | Robots | **Combined** | Status |
 |------|------|--------|--------|--------|-------------|--------|
-| 1 | Lazar | Halley | 775,085 | 848,494 | **1,623,579** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 861,206 / 942,771 / **1,803,977**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Retention preserved.* |
-| 2 | Esperanza | Palmer | 502,654 | 675,385 | **1,178,039** | *(revised 2026-07-03)* |
-| 3 | Halley | Halley | 509,209 | 578,860 | **1,088,069** | |
-| 4 | Cape Adare | Janbogo | 426,343 | 623,708 | **1,050,051** | |
-| 5 | Casey | Mirny | 436,922 | 605,109 | **1,042,031** | |
-| 6 | Mirny | Mirny | 507,344 | 509,151 | **1,016,495** | |
-| 7 | Zhongshan | Mirny | 470,135 | 426,881 | **897,016** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 522,372 / 474,312 / **996,684**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* |
-| 8 | Janbogo | Janbogo | 490,564 | 467,006 | **957,570** | *(revised 2026-07-03)* |
-| 9 | Mawson | Mawson | 427,321 | 525,125 | **952,446** | |
-| 10 | Zukelli | Janbogo | 443,754 | 493,905 | **937,659** | *(would not survive the Long Night War that followed; revised 2026-07-03)* |
-| 11 | Sinheung | Mirny | 394,069 | 405,394 | **799,463** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 437,854 / 450,438 / **888,292**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* |
-| 12 | Belgrano | Halley | 429,820 | 407,948 | **837,768** | *(would survive the war but be ruined afterward; DLC 5)* |
-| 13 | Neumayer | Halley | 385,071 | 445,676 | **830,747** | |
-| 14 | Davis | Mirny | 437,423 | 344,173 | **781,596** | |
-| 15 | Princess Elisabeth | Halley | 401,403 | 365,359 | **766,762** | |
-| 16 | Denison | Janbogo | 285,085 | 338,392 | **623,477** | ⭐ **−15% 2026-09-05** — *retention preserved (68.7996%)*. ⛔ **OVERFLOW 50,309 H / 59,716 R / 110,025 C HELD** *(would not survive the Long Night War that followed)* |
-| 17 | Shirayuki | Mirny | 302,512 | 352,980 | **655,492** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 336,124 / 392,200 / **728,324**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* |
-| — | **Relung Panen** | Mirny | **332,844** | **345,324** | **678,168** | *(Formerly the placeholder Bunger Hills City, `DR-39`.)* ⭐⭐⭐ **FOUNDED 2026-09-05 — the 38th city.** *Census II share of the discharged redistribution pool; CII/CI retention 71.5%.* ⛔⛔ **NOT A MIGRATION** — see the Census I row. ⚠ **Placeholder name.** |
-| 18 | Troll | Halley | 323,650 | 348,182 | **671,832** | |
-| 19 | Concordia | Janbogo | 309,068 | 326,234 | **635,302** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section A)* |
-| 20 | Abowasa | Halley | 310,791 | 296,650 | **607,441** | |
+| 1 | Lazar | Halley | 783,193 | 856,233 | **1,639,426** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 861,206 / 942,771 / **1,803,977**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Retention preserved.* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 775,085 / 848,494 / **1,623,579**)*. Arithmetic, NOT a migration. |
+| 2 | Esperanza | Palmer | 510,762 | 683,124 | **1,193,886** | *(revised 2026-07-03)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 502,654 / 675,385 / **1,178,039**)*. Arithmetic, NOT a migration. |
+| 3 | Halley | Halley | 517,317 | 586,599 | **1,103,916** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 509,209 / 578,860 / **1,088,069**)*. Arithmetic, NOT a migration. |
+| 4 | Cape Adare | Janbogo | 434,451 | 631,447 | **1,065,898** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 426,343 / 623,708 / **1,050,051**)*. Arithmetic, NOT a migration. |
+| 5 | Casey | Mirny | 445,030 | 612,848 | **1,057,878** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 436,922 / 605,109 / **1,042,031**)*. Arithmetic, NOT a migration. |
+| 6 | Mirny | Mirny | 515,452 | 516,890 | **1,032,342** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 507,344 / 509,151 / **1,016,495**)*. Arithmetic, NOT a migration. |
+| 7 | Zhongshan | Mirny | 478,243 | 434,620 | **912,863** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 522,372 / 474,312 / **996,684**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 470,135 / 426,881 / **897,016**)*. Arithmetic, NOT a migration. |
+| 8 | Janbogo | Janbogo | 498,672 | 474,745 | **973,417** | *(revised 2026-07-03)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 490,564 / 467,006 / **957,570**)*. Arithmetic, NOT a migration. |
+| 9 | Mawson | Mawson | 435,429 | 532,864 | **968,293** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 427,321 / 525,125 / **952,446**)*. Arithmetic, NOT a migration. |
+| 10 | Zukelli | Janbogo | 451,862 | 501,644 | **953,506** | *(would not survive the Long Night War that followed; revised 2026-07-03)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 443,754 / 493,905 / **937,659**)*. Arithmetic, NOT a migration. |
+| 11 | Sinheung | Mirny | 402,176 | 413,133 | **815,309** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 437,854 / 450,438 / **888,292**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,739 R *(was 394,069 / 405,394 / **799,463**)*. Arithmetic, NOT a migration. |
+| 12 | Belgrano | Halley | 437,927 | 415,687 | **853,614** | *(would survive the war but be ruined afterward; DLC 5)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,739 R *(was 429,820 / 407,948 / **837,768**)*. Arithmetic, NOT a migration. |
+| 13 | Neumayer | Halley | 393,179 | 453,415 | **846,594** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 385,071 / 445,676 / **830,747**)*. Arithmetic, NOT a migration. |
+| 14 | Davis | Mirny | 445,531 | 351,912 | **797,443** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 437,423 / 344,173 / **781,596**)*. Arithmetic, NOT a migration. |
+| 15 | Princess Elisabeth | Halley | 409,511 | 373,098 | **782,609** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 401,403 / 365,359 / **766,762**)*. Arithmetic, NOT a migration. |
+| 16 | Denison | Janbogo | 293,192 | 346,130 | **639,322** | ⭐ **−15% 2026-09-05** — *retention preserved (68.7996%)*. ⛔ **OVERFLOW 50,309 H / 59,716 R / 110,025 C HELD** *(would not survive the Long Night War that followed)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 285,085 / 338,392 / **623,477**)*. Arithmetic, NOT a migration. |
+| 17 | Shirayuki | Mirny | 310,620 | 360,719 | **671,339** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 336,124 / 392,200 / **728,324**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 302,512 / 352,980 / **655,492**)*. Arithmetic, NOT a migration. |
+| — | **Relung Panen** | Mirny | **340,951** | **353,062** | **694,013** | *(Formerly the placeholder Bunger Hills City, `DR-39`.)* ⭐⭐⭐ **FOUNDED 2026-09-05 — the 38th city.** *Census II share of the discharged redistribution pool; CII/CI retention 71.5%.* ⛔⛔ **NOT A MIGRATION** — see the Census I row. ⚠ **Placeholder name.** ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 332,844 / 345,324 / **678,168**)*. Arithmetic, NOT a migration. |
+| 18 | Troll | Halley | 331,757 | 355,920 | **687,677** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 323,650 / 348,182 / **671,832**)*. Arithmetic, NOT a migration. |
+| 19 | Concordia | Janbogo | 317,175 | 333,972 | **651,147** | *(new 2026-07-04 — Concordia's first-ever Census II figures, closing a previously flagged gap; derived using the aggregate Census I→II retention rates (61.23% human, 63.82% robot) computed from every other city's already-established Census I/II pair, applied to Concordia's Census I figure; national composition percentages identical to Census I — see Section A)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 309,068 / 326,234 / **635,302**)*. Arithmetic, NOT a migration. |
+| 20 | Abowasa | Halley | 132,423 | 126,398 | **258,821** | ⭐ **Scenario `DR-67`/`DR-68`, 2026-10-28:** keeps 40% (124,316 H / 118,660 R) plus its even share. *Was 310,791 / 296,650 / **607,441**.* Arithmetic, NOT a migration. |
 | 21 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
 | 22 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
 | 23 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
 | 24 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(revised 2026-07-03)* |
 | 25 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
 | 26 | Dumont d'Urville | Janbogo | 121,170 | 159,635 | **280,805** | ⭐ **−10% 2026-09-05** — *retention preserved (68.8248% → 68.8246%).* ⛔ `island cap` removed. **OVERFLOW 13,464 H / 17,737 R / 31,201 C HELD — §D-OVERFLOW** |
-| 27 | Sanay | Halley | 145,798 | 129,319 | **275,117** | |
+| 27 | Sanay | Halley | 153,905 | 137,057 | **290,962** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 145,798 / 129,319 / **275,117**)*. Arithmetic, NOT a migration. |
 | 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
 | 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
 | 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | ⭐ **unchanged** — *extent declared, no population correction.* ⛔ `island cap` removed |
 | 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** | *(island cap)* |
 | 32 | Port Lockroy | Palmer | 387 | 304 | **691** | ⭐ **REDUCED 2026-09-05** — *scaled from the Census I reduction; Port Lockroy's own CII/CI retention preserved (74.41% → 74.38%) and CII's own H/R split preserved.* ⛔ **OVERFLOW 53,316 H / 41,899 R / 95,215 C HELD — see §D-OVERFLOW** |
 | 33 | Amundsen Station | Amundsen | 913 | 3,978 | **4,891** | *~81% robot; skeleton crew* |
+| — | **Space workforce** *(non-city)* | — | 4,054 | 3,869 | **7,923** | ⭐ **NEW 2026-10-28 (`DR-68`, Option A).** Temporary workers who live and work in orbit in shifts, following the completion of Amundsen Tower (about 87.5% in space and about 12.5% resting on Earth at any moment; leave in the national welcome custom, `DR-64`). **In addition to** the permanent orbital residents counted in the Orbital Population table below, who are NOT part of this surface count. Amundsen Station's share of the Santa Luce redistribution, split 50-50 on average with the maritime fleet. Arithmetic, NOT a migration. |
+| — | **Maritime fleet** *(non-city)* | — | 4,053 | 3,869 | **7,922** | ⭐ **NEW 2026-10-28 (`DR-68`, Option A).** As in Census I; the other half of Amundsen Station's share (50-50 on average, any division at a given moment). Arithmetic, NOT a migration. |
 | — | **TOTAL (Antarctic)** | | **10,486,701** | **11,434,935** | **21,921,636** | *(corrected 2026-07-05 — this row was stale, undercounting by 1,251,617 combined. Verified by summing the 33 rows above directly, twice via independent methods, both agreeing exactly; also cross-checked against the Subnet Totals table below, which independently summed to the same figure. Denison's row (733,502 combined) accounts for part of the gap — it was evidently added to this table at some point without its addition being reflected in this row's own change-log, unlike the Concordia/Palmer City adjustments explicitly tracked below. The remaining ~518,000 gap's exact origin wasn't further traced; this fix corrects the total to match its own table's actual rows rather than reconstructing the full history of how it drifted. This cascades into the Orbital Population and Full Tepenian Population tables below, both updated accordingly.)* |
 
 *Note: Kunlun and Dome Fuji remain without Census II figures for the same reasons given at the Census I table. Byrd and Vostok are also still absent from Census II specifically (their Census I figures are new, but no Census II figures have been computed for them yet) — Concordia's own gap was closed 2026-07-04, see its table row above.*
+
+*Scenario note, 2026-10-28 (`DR-68`):* the Santa Luce redistribution is applied to Census II. **Surface total unchanged**, so the Orbital Population table is unchanged: the space workforce row is a **surface-counted** shift-labor group, distinct from the permanent orbital residents. The Rank column was not re-sorted. Kunlun, Dome Fuji, Byrd and Vostok still have no Census II rows.
 
 ### Antarctic Surface — Subnet Totals (Census II)
 
@@ -639,14 +649,18 @@ National communities are classified by tier based on long-run population share. 
 
 | Subnet | Humans | Robots | Combined |
 |--------|--------|--------|----------|
-| Halley / Queen Maud Land | 3,366,948 | 3,514,765 | **6,881,713** |
-| Janbogo / Ross Sea | 2,466,687 | 2,811,206 | **5,277,893** |
-| Mawson / Indian Ocean | 512,520 | 604,883 | **1,117,403** |
-| Palmer / Antarctic Peninsula | 1,461,594 | 1,724,720 | **3,186,314** |
-| Mirny / Wilkes Land + Plateau | 2,678,039 | 2,775,383 | **5,453,422** |
+| Halley / Queen Maud Land | 3,159,212 | 3,304,407 | **6,463,619** |
+| Janbogo / Ross Sea | 2,443,452 | 2,772,446 | **5,215,898** |
+| Mawson / Indian Ocean | 520,628 | 612,622 | **1,133,250** |
+| Palmer / Antarctic Peninsula | 1,416,386 | 1,690,560 | **3,106,946** |
+| Mirny / Wilkes Land + Plateau | 2,938,003 | 3,043,184 | **5,981,187** |
 | Byrd / Ross Ice Shelf | 0 | 0 | **0** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
+| *Non-city: space workforce* | 4,054 | 3,869 | **7,923** |
+| *Non-city: maritime fleet* | 4,053 | 3,869 | **7,922** |
 | **TOTAL (Antarctic)** | **10,486,701** | **11,434,935** | **21,921,636** |
+
+*Recomputed 2026-10-28 (`DR-68`) directly from the city rows above (plus the non-city groups), which also pays the subnet-total debt the §D-OVERFLOW ledger marked STILL OWED since 2026-09-05: the old subnet rows had not absorbed the 2026-09-05 trims or the Relung Panen row. **The per-nation National Origin table is still owed.**
 
 *Corrected 2026-07-05 — this row was stale (see the matching correction note on the City Populations table above). Verified the individual subnet rows above are internally correct and already include Denison (e.g., Janbogo's 2,466,687 sums exactly across its 8 member cities including Denison) — only this summary row itself hadn't been recalculated.*
 
@@ -729,7 +743,7 @@ on the nose:**
 returns to what it was before any of it started, because population was only ever moved between rows on a
 page.* **Verified by summing both tables directly, 2026-09-05; every row also checks H + R = C.**
 
-⚠ **STILL OWED — subnet totals and the per-nation origin table.** *The Mirny subnet gains 947,954 and loses
+⚠ **STILL OWED — subnet totals and the per-nation origin table. *(Subnet totals paid 2026-10-28, `DR-68`; the per-nation table is still owed.)*** *The Mirny subnet gains 947,954 and loses
 352,710 (net **+595,244**); Halley loses 262,032; Palmer and Janbogo were already short by Port Lockroy,
 Dumont d'Urville and Denison.* ⛔ **The National Origin table must NOT be patched** — *its own notes say to
 rebuild it as a direct sum of the Specs files, and Relung Panen has no Specs file yet.*

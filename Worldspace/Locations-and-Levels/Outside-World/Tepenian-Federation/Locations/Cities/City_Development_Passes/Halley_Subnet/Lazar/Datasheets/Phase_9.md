@@ -12,6 +12,6 @@
 | `Robot_Universals/` Ch. 13 — the identity lens (Tier U) | Identity is seated in city-locality, not origin/Build/Gen-Mark | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |
 | `Robot_Universals/` Ch. 14 — Gen/Mark (Tier U) | Real, structurally independent of city, but carries markedly less cultural weight than locality, and is never a hierarchy | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |
 | Doll Representation Categories (Tier U) | Four total: Robots (the only category in active use, corpus-wide) · Anthros · Elves · Aliens (origin unknown) | `Doll_Representation_Categories.md` |
-| Robots' share of Census I (computed) | 50.88% (1,199,984 of 2,358,287) | Computed from `Step_0.md`'s Census I row |
+| Robots' share of Census I (computed) | 50.87% (1,211,762 of 2,382,205) | Computed from `Step_0.md`'s Census I row |
 
 **Not mechanical / not included here:** the lens decision, per-population culture synthesis, inter-population relations, dual-tagging, swap test — none of this exists until Lazar's own pass runs.

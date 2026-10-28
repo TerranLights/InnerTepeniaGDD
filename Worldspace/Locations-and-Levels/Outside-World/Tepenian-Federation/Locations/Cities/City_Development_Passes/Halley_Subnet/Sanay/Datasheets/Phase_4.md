@@ -9,9 +9,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Sanay · Subnet: Halley · D: 1.43 · Humans: 231,576 · Residents: 463,669 · Required: 132,296 · Workforce: 347,881 · % WF: 38.0% | `09_Per_City_Baseline_Run.md` L52, L63 |
+| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Sanay · Subnet: Halley · D: 1.43 · Humans: 243,714 · Residents: 487,585 · Required: 139,151 · Workforce: 365,728 · % WF: 38.0% | `09_Per_City_Baseline_Run.md` L52, L63 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | No table row for the city found by scan (the file's prose lines that happen to contain the name are not copied: they can be about a person or place of the same name) | `11_Caloric_Rebuild_and_Livestock_Tier.md` |
-| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Sanay · Subnet: Halley · D: 1.43 · Workforce: 347,881 · base%: 44.5% · MAND%: 27.8% · FREE%: 27.8% · src: C | `16_Per_City_Three_Tier_Run.md` L254 |
+| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Sanay · Subnet: Halley · D: 1.43 · Workforce: 365,728 · base%: 44.5% · MAND%: 27.8% · FREE%: 27.8% · src: C | `16_Per_City_Three_Tier_Run.md` L254 |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | Checked by name (`Sanay`, `SANAE`): **zero hits** in a 246-line file | `National_Medical_and_Care_Institutes.md` |
 | Robot Physiology — appearance/clothing baseline (Tier U) | Human-looking, *Ex Machina*-style; clothing ordinary, functional and fashionable; exposure is a preparation problem, never a species-level gate | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"The ordinary condition" |
 | Robot Cold Physiology — the governing mechanic (Tier U) | Recharging is the primary cost (lithium plating below freezing, permanent); the cannot-self-recover threshold; a robot is safer moving than resting | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"What cold actually costs" |

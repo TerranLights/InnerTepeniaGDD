@@ -14,7 +14,7 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 129,617 humans / 259,644 robots / **389,261** combined
+**Census I (Pre-Orbital Era):** 141,755 humans / 271,422 robots / **413,177** combined *(was 129,617 / 259,644 / 389,261; census updated 2026-10-28, `DR-68`)*
 **Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
 
 | Tier | Nations |
@@ -31,14 +31,14 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 28.36% | 73,631 | 36,757 | *(N/A)* | *(N/A)* |
-| Primary | Japan | 24.97% | 64,846 | 32,372 | *(N/A)* | *(N/A)* |
-| Significant | Canada | 13.90% | 36,093 | 18,018 | *(N/A)* | *(N/A)* |
-| Significant | Indonesia | 13.55% | 35,175 | 17,560 | *(N/A)* | *(N/A)* |
-| Significant | Australia | 6.45% | 16,753 | 8,363 | *(N/A)* | *(N/A)* |
-| Significant | South Korea | 6.10% | 15,836 | 7,905 | *(N/A)* | *(N/A)* |
-| Notable | Chile | 4.96% | 12,873 | 6,426 | *(N/A)* | *(N/A)* |
-| Notable | New Zealand | 1.71% | 4,437 | 2,215 | *(N/A)* | *(N/A)* |
+| Primary | USA | 28.36% | 76,971 | 40,199 | *(N/A)* | *(N/A)* |
+| Primary | Japan | 24.97% | 67,788 | 35,404 | *(N/A)* | *(N/A)* |
+| Significant | Canada | 13.90% | 37,730 | 19,706 | *(N/A)* | *(N/A)* |
+| Significant | Indonesia | 13.55% | 36,771 | 19,205 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 6.45% | 17,513 | 9,146 | *(N/A)* | *(N/A)* |
+| Significant | South Korea | 6.10% | 16,554 | 8,645 | *(N/A)* | *(N/A)* |
+| Notable | Chile | 4.96% | 13,457 | 7,028 | *(N/A)* | *(N/A)* |
+| Notable | New Zealand | 1.71% | 4,638 | 2,422 | *(N/A)* | *(N/A)* |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

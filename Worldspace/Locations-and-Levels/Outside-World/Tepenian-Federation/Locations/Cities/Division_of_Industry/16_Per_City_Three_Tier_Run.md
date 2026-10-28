@@ -1,4 +1,4 @@
-# Per-City Three-Tier Run — THE CALCULATION SHEET
+# Per-City Three-Tier Run — THE CALCULATION SHEET *(2026-10-28, `DR-68`: refreshed the Workforce, base%, MAND% and FREE% cells of Half B for the cities whose population changed (mandate shares held; D unchanged), from the adopted Santa Luce population scenario; rows for cities whose population did not change are untouched. The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed.)*
 
 > **Opened 2026-09-02. Results not yet computed — this file currently holds the INPUT
 > REGISTER and the procedure.**
@@ -249,40 +249,40 @@ than as a class.**
 | **Amundsen Station** | Amundsen | 2.50 | 6,296 | 31.8% | **61.4%** | **6.8%** | C |
 | **Fort McMurdo** | Janbogo | 1.25 | 334,215 | 41.5% | 35.1% | **23.4%** | C |
 | **Marambio** | Palmer | 1.25 | 428,548 | 41.3% | 35.2% | **23.5%** | C |
-| **Belgrano** | Halley | 1.43 | 805,928 | 44.3% | 30.7% | **25.1%** | C |
+| **Belgrano** | Halley | 1.43 | 823,775 | 44.3% | 30.6% | **25.1%** | C |
 | **Sayowa** | Mawson | 1.43 | 178,698 | 39.3% | 33.4% | 27.3% | C |
-| **Sanay** | Halley | 1.43 | 347,881 | 44.5% | 27.8% | 27.8% | C |
-| **Byrd** | Byrd | 1.67 | 283,756 | 36.2% | 35.1% | 28.7% | C |
-| **Janbogo** | Janbogo | 1.25 | 987,240 | 41.1% | 29.4% | 29.4% | C |
-| Sinheung | Mirny | 1.25 | 809,754 | 40.7% | 26.7% | 32.6% | C |
-| Denison | Janbogo | **2.00** | 804,656 | **53.2%** | 11.7% | 35.1% | C |
-| Esperanza | Palmer | 1.11 | 1,400,618 | 39.7% | 24.1% | 36.2% | C |
+| **Sanay** | Halley | 1.43 | 365,728 | 44.5% | 27.8% | 27.8% | C |
+| **Byrd** | Byrd | 1.67 | 301,602 | 36.2% | 35.1% | 28.7% | C |
+| **Janbogo** | Janbogo | 1.25 | 1,005,088 | 41.1% | 29.4% | 29.4% | C |
+| Sinheung | Mirny | 1.25 | 746,626 | 40.7% | 26.7% | 32.6% | C |
+| Denison | Janbogo | **2.00** | 701,805 | **53.2%** | 11.7% | 35.1% | C |
+| Esperanza | Palmer | 1.11 | 1,418,466 | 39.7% | 24.1% | 36.2% | C |
 | Rothera | Palmer | 1.15 | 240,569 | 39.0% | 24.4% | 36.6% | C |
-| Davis | Mirny | 1.25 | 876,514 | 40.7% | 20.7% | 38.5% | C |
-| Troll | Halley | 1.43 | 716,590 | 44.4% | 16.7% | 38.9% | C |
+| Davis | Mirny | 1.25 | 894,362 | 40.8% | 20.7% | 38.5% | C |
+| Troll | Halley | 1.43 | 734,436 | 44.4% | 16.7% | 38.9% | C |
 | Signy | Palmer | 1.25 | 142,127 | 41.1% | 17.7% | 41.2% | C |
-| Princess Elisabeth | Halley | 1.43 | 861,033 | 43.7% | 14.1% | 42.3% | H |
+| Princess Elisabeth | Halley | 1.43 | 878,880 | 43.7% | 14.1% | 42.2% | H |
 | Juan Carlos | Palmer | 1.15 | 291,821 | 39.3% | 18.2% | 42.5% | C |
-| Casey | Mirny | 1.11 | 1,128,834 | 38.7% | 18.4% | 42.9% | C |
-| Zukelli | Janbogo | 1.25 | 944,859 | 41.4% | 14.6% | 43.9% | C |
-| Cape Adare | Janbogo | 1.25 | 1,126,670 | 41.4% | 14.7% | 44.0% | C |
-| **Concordia** | Janbogo | 1.67 | 763,548 | 48.3% | 7.8% | **44.0%** | H |
-| Mawson | Mawson | 1.25 | 1,091,868 | 41.0% | 14.8% | 44.3% | C |
+| Casey | Mirny | 1.11 | 1,146,682 | 38.7% | 18.4% | 42.9% | C |
+| Zukelli | Janbogo | 1.25 | 962,706 | 41.5% | 14.6% | 43.9% | C |
+| Cape Adare | Janbogo | 1.25 | 1,144,518 | 41.4% | 14.7% | 44.0% | C |
+| **Concordia** | Janbogo | 1.67 | 781,394 | 48.3% | 7.8% | **44.0%** | H |
+| Mawson | Mawson | 1.25 | 1,109,716 | 41.0% | 14.8% | 44.3% | C |
 | Sejong | Palmer | 1.15 | 486,488 | 39.4% | 15.2% | 45.5% | H |
-| Neumayer | Halley | 2.50 | 945,212 | 43.7% | 9.4% | 46.9% | D |
-| Halley | Halley | 2.50 | 1,097,470 | 43.6% | 9.4% | 47.0% | D |
-| Zhongshan | Mirny | 1.25 | 963,440 | 41.2% | 11.8% | 47.1% | H |
-| Mirny | Mirny | 1.25 | 1,018,480 | 41.1% | 11.8% | 47.1% | C |
-| Shirayuki | Mirny | 1.25 | 890,078 | 40.9% | 11.8% | 47.3% | C |
-| {{Abowasa}} | Halley | 1.54 | 782,122 | 45.5% | 5.4% | 49.0% | H |
+| Neumayer | Halley | 2.50 | 963,060 | 43.7% | 9.4% | 46.9% | D |
+| Halley | Halley | 2.50 | 1,115,318 | 43.7% | 9.4% | 47.0% | D |
+| Zhongshan | Mirny | 1.25 | 884,944 | 41.2% | 11.8% | 47.1% | H |
+| Mirny | Mirny | 1.25 | 1,036,328 | 41.1% | 11.8% | 47.1% | C |
+| Shirayuki | Mirny | 1.25 | 818,918 | 40.9% | 11.8% | 47.3% | C |
+| {{Abowasa}} | Halley | 1.54 | 330,697 | 45.6% | 5.4% | 49.0% | H |
 | Dumont d'Urville | Janbogo | 1.67 | 341,560 | 48.0% | **0.0%** | 52.0% | – |
 | Scott | Janbogo | 1.25 | 291,102 | 41.0% | 2.9% | 56.0% | H |
 | Port Lockroy | Palmer | 1.25 | 97,218 | 41.0% | 2.9% | 56.0% | H |
-| Vostok | Mirny | 2.50 | 324,452 | 37.4% | 5.8% | 56.8% | D |
-| Dome Fuji | Mawson | 2.50 | 55,072 | 27.3% | 14.5% | 58.1% | H |
-| **Lazar** | Halley | 1.25 | **1,976,818** | 41.0% | **0.0% ⚠** | **59.0%** | – |
+| Vostok | Mirny | 2.50 | 342,300 | 37.8% | 5.8% | 56.5% | D |
+| Dome Fuji | Mawson | 2.50 | 66,849 | 27.3% | 14.5% | 58.1% | H |
+| **Lazar** | Halley | 1.25 | **1,796,984** | 41.0% | **0.0% ⚠** | **59.0%** | – |
 | Palmer City | Palmer | 1.11 | 249,852 | 39.1% | **0.0%** | 60.9% | – |
-| **Kunlun** | Mirny | 2.70 | 123,449 | 28.6% | **0.0%** | **71.4%** | – |
+| **Kunlun** | Mirny | 2.70 | 135,226 | 28.6% | **0.0%** | **71.4%** | – |
 | **NATIONAL** | | | **24,214,838** | **42.0%** | **15.2%** | **42.8%** | |
 
 ## What the run says

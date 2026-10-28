@@ -10,7 +10,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — Vostok's own row | Mirny subnet · Difficulty 2.50 · Humans 129,617 · Residents 389,261 · Required workforce 134,615 · Workforce 324,453 · **% of workforce required: 41.5%** | `09_Per_City_Baseline_Run.md` L57 |
+| `09_Per_City_Baseline_Run.md` §2 — Vostok's own row | Mirny subnet · Difficulty 2.50 · Humans 141,755 · Residents 413,177 · Required workforce 143,796 · Workforce 342,300 · **% of workforce required: 42.0%** | `09_Per_City_Baseline_Run.md` L57 |
 | Cross-check against `16`'s own row | Note: `09`'s baseline (41.5%) and `16` §23's baseline (37.4%) differ — both are cited as-stated, not reconciled here; flagging the discrepancy rather than resolving it, per the pure-transcription rule | `16_Per_City_Three_Tier_Run.md` §23 vs `09_Per_City_Baseline_Run.md` L57 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the power-not-labor diagnosis, quoted in full | *"The staple tier is a POWER load before it is a labor pool — which matches `04` §5's Vostok diagnosis exactly: 'not too few farmers but food here costs power the city does not have.' That diagnosis was never Vostok-specific. It is the national condition, and only Vostok was poor enough to show it."* | `11_Caloric_Rebuild_and_Livestock_Tier.md` L142–144 |
 | `National_Medical_and_Care_Institutes.md` — does Vostok appear | **Yes.** Vostok holds NONE of the three national institutes (checked, zero). Additional content found names Vostok alongside other cities and is FLAGGED, not extracted — see the row below | Re-verified this turn |

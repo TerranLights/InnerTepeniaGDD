@@ -8,15 +8,15 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 0 H / 123,449 R / **123,449** combined — *"entirely robot; re-resolved 2026-07-06 as a curated astronomy/comms-heritage population — no longer entirely Chinese"* | `Specs/Kunlun.md` L33; cross-verified `Official_Population_Census.md` — exact match |
+| Census I | 0 H / 135,226 R / **135,226** combined — *"entirely robot; re-resolved 2026-07-06 as a curated astronomy/comms-heritage population — no longer entirely Chinese"* | `Specs/Kunlun.md` L33; cross-verified `Official_Population_Census.md` — exact match |
 | Census II | ⛔ **DOES NOT EXIST — a verified, source-affirmed absence.** Kunlun's population is entirely robot, and the source table generating Census II figures is scoped to cities with a human population | `Official_Population_Census.md` |
 | Retention / Census-II comparison | ⛔ Not computable — no Census II figure exists, so no retention percentage can be derived. This is a formula-blocking absence, not a hole (see Census II row above) | Computed-absent, per the two rows above |
 | Coordinates / real-world basis | Kunlun Station (China / CHINARE), Dome A (Dome Argus), East Antarctic Plateau, ~80°25′S, 77°07′E | `Specs/Kunlun.md` L20 |
 | Timeline Era (Tier U) | The Second Interwar Period, corpus-wide, not a per-city judgment | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | Arcanet Subnet | Mirny ("Australian") | `Specs/Kunlun.md` L22 |
 | Access type | `ON` | `Specs/Kunlun.md` L23 |
-| Population field, as stated in Specs directly | *"0 humans / 123,449 robots (Census I) — resolved 2026-07-04, Kunlun's first population figures"* | `Specs/Kunlun.md` L26 |
-| Human presence | ⛔ **FORBIDDEN, by settled protective policy — the altitude + cold combination would be fatal to a human, harmless to a robot.** Not anti-human sentiment. *"0 humans / 123,449 robots today by settled protective policy, not by ambiguous attrition"* | `Specs/Kunlun.md` L80 |
+| Population field, as stated in Specs directly | *"0 humans / 135,226 robots (Census I) — resolved 2026-07-04, Kunlun's first population figures"* | `Specs/Kunlun.md` L26 |
+| Human presence | ⛔ **FORBIDDEN, by settled protective policy — the altitude + cold combination would be fatal to a human, harmless to a robot.** Not anti-human sentiment. *"0 humans / 135,226 robots today by settled protective policy, not by ambiguous attrition"* | `Specs/Kunlun.md` L80 |
 | Status marker | Human presence is outright forbidden here as a safety measure | `Specs/Kunlun.md` L80; corroborated `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Human-Robot Relations" |
 | `Repo_Scope.md` (Tier U, cross-repo binding law) | This repo answers only *when/where/who* — location facts in scope are geography, founding history (GPS-fact-only), physical routes and infrastructure. Game mechanics, questline structure, and implementation detail are out of scope | `TepenianUniverseTimeline/Reference/Repo_Scope.md`, read in full |
 | `TepenianUniverseTimeline/Worldspace/Locations/README.md` | Checked — a folder index/map to the Megasheet system, not a content cache. Confirms Kunlun's subnet-roster membership (already captured above); states the standing rule that the nation that built or ran the real station (the source's "real-world founding nation") is a GPS fact only | Read in full |

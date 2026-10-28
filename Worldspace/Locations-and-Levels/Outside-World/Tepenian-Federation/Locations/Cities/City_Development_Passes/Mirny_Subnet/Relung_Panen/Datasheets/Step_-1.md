@@ -18,7 +18,7 @@
 | Coordinates (as written in the same field) | ~66°15'S, 100°45'E | `Specs/Relung_Panen.md` L8 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Relung_Panen.md` L9 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L264, L270, L277 — not copied, not described | `Specs/Relung_Panen.md` L264, L270, L277 |
-| Census I (spec's own line) | 465,147 humans / 482,807 robots / **947,954** combined | `Specs/Relung_Panen.md` L20 |
-| Census II (spec's own line) | 332,844 humans / 345,324 robots / **678,168** combined *(retention 71.5%)* | `Specs/Relung_Panen.md` L21 |
+| Census I (spec's own line) | 477,285 humans / 494,585 robots / **971,870** combined | `Specs/Relung_Panen.md` L20 |
+| Census II (spec's own line) | 340,951 humans / 353,062 robots / **694,013** combined *(retention 71.5%)* | `Specs/Relung_Panen.md` L21 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Relung Panen's own pass runs.

@@ -9,9 +9,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Belgrano · Subnet: Halley · D: 1.43 · Humans: 531,925 · Residents: 1,071,890 · Required: 305,283 · Workforce: 805,928 · % WF: 37.9% | `09_Per_City_Baseline_Run.md` L52, L64 |
+| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Belgrano · Subnet: Halley · D: 1.43 · Humans: 544,064 · Residents: 1,095,807 · Required: 312,138 · Workforce: 823,775 · % WF: 37.9% | `09_Per_City_Baseline_Run.md` L52, L64 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | City: Belgrano · §15 marine workers: 98,484 · Would land: 24.6 Mt · vs. the whole sustainable national catch: 7.6× | `11_Caloric_Rebuild_and_Livestock_Tier.md` L95, L99 |
-| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 805,928 · base%: 44.3% · MAND%: 30.7% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L252 |
+| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 823,775 · base%: 44.3% · MAND%: 30.6% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L252 |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | # 2. The Belgrano Institute of Medicine | `National_Medical_and_Care_Institutes.md` L50 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **City:** Belgrano (Halley subnet) · **Tradition:** field medicine | `National_Medical_and_Care_Institutes.md` L52 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **Why Belgrano.** Its §15 leads with `Aviation / logistics: ~35% — the city's defining function, running the | `National_Medical_and_Care_Institutes.md` L57 |

@@ -21,8 +21,8 @@
 | Highway access | Hwy 110 (SW → Concordia; NE → Mirny/coastal chain); Hwy 2/DCH (east → Dumont d'Urville) — Hwy 2's own western endpoint is defined as "junction with Hwy 110," sited at Casey, confirmed 2026-07-06 | `Specs/Casey.md` L7 |
 | Significance field | "Highway junction city — the meeting point of the inland route to Concordia (Hwy 110) and the Dumont coast route (Hwy 2); last coastal city before the long drive to the deep interior" | `Specs/Casey.md` L8 |
 | ⚠ Three further later-era fields present in this Specs file, same exclusion as `Status:` | Three additional named sections of the Specs file, all later-era, none admissible to a Second Interwar pass by default | `Specs/Casey.md`, per the standing four-field default-scope exclusion rule |
-| Census I | 733,795 H / 761,936 R / 1,495,731 | `Specs/Casey.md` L14; cross-verified against `Official_Population_Census.md` L485 — **exact match, no discrepancy** (that row also carries its own *"revised 2026-07-04"* tag, a fact about the census source, not about Casey) |
-| Census II | 436,922 H / 605,109 R / 1,042,031 | `Specs/Casey.md` L15; cross-verified against `Official_Population_Census.md` L602 — **exact match** |
+| Census I | 745,935 H / 773,714 R / 1,519,649 | `Specs/Casey.md` L14; cross-verified against `Official_Population_Census.md` L485 — **exact match, no discrepancy** (that row also carries its own *"revised 2026-07-04"* tag, a fact about the census source, not about Casey) |
+| Census II | 445,030 H / 612,848 R / 1,057,878 | `Specs/Casey.md` L15; cross-verified against `Official_Population_Census.md` L608 — **exact match** |
 
 **Not mechanical / not included here:** the admitted read-range (Step −1's own derivation), the four-category
 classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

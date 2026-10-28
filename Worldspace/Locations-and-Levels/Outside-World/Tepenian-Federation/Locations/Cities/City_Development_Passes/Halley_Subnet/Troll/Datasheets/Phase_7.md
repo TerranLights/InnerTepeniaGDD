@@ -15,7 +15,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Troll · Subnet: Halley · D: 1.43 · Workforce: 716,590 · base%: 44.4% · MAND%: 16.7% · FREE%: 38.9% · src: C | `16_Per_City_Three_Tier_Run.md` L262 |
+| `16` Half B — the city's own row | City: Troll · Subnet: Halley · D: 1.43 · Workforce: 734,436 · base%: 44.4% · MAND%: 16.7% · FREE%: 38.9% · src: C | `16_Per_City_Three_Tier_Run.md` L262 |
 | `16` — other lines naming the city (per-city passages and tables) | 33 line(s): L209, L719, L779, L781, L784, L797, L803, L810–811, L822–823, L825–826, L829, L900, L930, L1003, L1008, L1047, L1123, L1125, L1492, L1729, L1897, L2026, L2806, L2891, L3248, L3274, L3279, L3421, L3552, L3554 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L209, L719, L779, L781, L784, L797, L803, L810–811, L822–823, L825–826, L829, L900, L930, L1003, L1008, L1047, L1123, L1125, L1492, L1729, L1897, L2026, L2806, L2891, L3248, L3274, L3279, L3421, L3552, L3554 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Troll \| . \| . \| . \| Y \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L152 |
 | `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |

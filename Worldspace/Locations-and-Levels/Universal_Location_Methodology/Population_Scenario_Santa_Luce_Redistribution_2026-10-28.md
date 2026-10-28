@@ -1,6 +1,6 @@
 # Population scenario: Santa Luce's 60% redistributed (2026-10-28)
 
-> ## ✅ ADOPTED AS THE PLAN (developer, 2026-10-28, `DR-68`). ⛔ STATUS: **NOTHING HERE IS APPLIED YET.** No census row, spec, Division of Industry row or megasheet was changed.
+> ## ✅ ADOPTED (`DR-68`) AND **APPLIED TO THE CENSUS 2026-10-28 (`DR-69`, Option A).** **Option A changes this file's Census I treatment of the two new groups:** Census I (before Amundsen Tower) has **no space workforce**; Amundsen Station's whole Census I share (22,982) is the **maritime fleet**. The space/sea split and the whole leave/hostel/overflow model (sections 3a, 7, 8) apply to **Census II only** (990 on break at once, about 198 hostel beds); the Census I columns of those sections are superseded. No census row, spec, Division of Industry row or megasheet was changed.
 > Recorded at the developer's request ("definitely save this as a scenario file"). It waits for the census rework that accounts for Relung Panen (`DR-23`: no census edits until all ULM runs finish). Every figure is arithmetic on the current census rows. **It is not a migration and claims no one moved.**
 
 ## 1. How the scenario was built (the developer's steps, in order)

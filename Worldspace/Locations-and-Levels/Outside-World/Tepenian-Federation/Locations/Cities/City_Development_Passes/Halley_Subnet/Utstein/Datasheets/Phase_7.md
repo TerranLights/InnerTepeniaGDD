@@ -13,7 +13,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Princess Elisabeth · Subnet: Halley · D: 1.43 · Workforce: 861,033 · base%: 43.7% · MAND%: 14.1% · FREE%: 42.3% · src: H | `16_Per_City_Three_Tier_Run.md` L264 |
+| `16` Half B — the city's own row | City: Princess Elisabeth · Subnet: Halley · D: 1.43 · Workforce: 878,880 · base%: 43.7% · MAND%: 14.1% · FREE%: 42.2% · src: H | `16_Per_City_Three_Tier_Run.md` L264 |
 | `16` — other lines naming the city (per-city passages and tables) | 23 line(s): L161, L222, L349, L438, L846, L901, L1048, L1394, L1486, L1647, L1704, L1784, L1982, L1984, L2041, L2388, L2485, L2596, L2605, L2773, L2799, L3553–3554 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L161, L222, L349, L438, L846, L901, L1048, L1394, L1486, L1647, L1704, L1784, L1982, L1984, L2041, L2388, L2485, L2596, L2605, L2773, L2799, L3553–3554 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Princess Elisabeth \| . \| . \| . \| Y \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L150 |
 | `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |

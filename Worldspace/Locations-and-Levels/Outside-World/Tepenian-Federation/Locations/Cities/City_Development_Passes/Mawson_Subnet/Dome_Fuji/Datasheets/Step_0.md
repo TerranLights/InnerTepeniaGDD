@@ -9,7 +9,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 0 H / 55,072 R / **55,072** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L518 |
+| Census I | 0 H / 66,849 R / **66,849** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L518 |
 | Census II | ⛔ **No Census II row exists in the census** — an empty slot is a result (`No Forced Fit`) | `Official_Population_Census.md` |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s / early 2700s, onward — properly Tepenian; origin is ancestry, not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |

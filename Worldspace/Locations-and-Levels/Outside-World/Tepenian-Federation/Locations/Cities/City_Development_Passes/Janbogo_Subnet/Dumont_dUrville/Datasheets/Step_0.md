@@ -12,8 +12,8 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 201,194 H / 206,807 R / **408,001** combined | `Official_Population_Census.md` L506 — cross-verified against `Specs/Dumont_dUrville.md` L15, exact match |
-| Census II | 121,170 H / 159,635 R / **280,805** combined | `Official_Population_Census.md` L624 — cross-verified against `Specs/Dumont_dUrville.md` L16, exact match |
-| Retention — combined (source-stated directly) | **68.8246%** *(source also states the pre-trim figure was 68.8248% — an authoring-adjustment artifact of the 2026-09-05 10% trim, not a population event)* | `Official_Population_Census.md` L624 |
+| Census II | 121,170 H / 159,635 R / **280,805** combined | `Official_Population_Census.md` L630 — cross-verified against `Specs/Dumont_dUrville.md` L16, exact match |
+| Retention — combined (source-stated directly) | **68.8246%** *(source also states the pre-trim figure was 68.8248% — an authoring-adjustment artifact of the 2026-09-05 10% trim, not a population event)* | `Official_Population_Census.md` L630 |
 | Retention — human (computed; formula = Census II ÷ Census I) | 121,170 ÷ 201,194 = **60.23%** | Computed from the two rows above |
 | Retention — robot (computed; same formula) | 159,635 ÷ 206,807 = **77.17%** | Computed from the two rows above |
 | Retention spread (computed; robot % − human %) | **16.94 pp toward robots** | Computed from the two rows above |

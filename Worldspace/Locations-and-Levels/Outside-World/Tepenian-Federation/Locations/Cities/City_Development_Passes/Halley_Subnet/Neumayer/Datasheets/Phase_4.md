@@ -9,9 +9,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Neumayer · Subnet: Halley · D: 2.50 · Humans: 613,735 · Residents: 1,252,080 · Required: 475,924 · Workforce: 945,213 · % WF: 50.4% | `09_Per_City_Baseline_Run.md` L52, L54 |
+| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Neumayer · Subnet: Halley · D: 2.50 · Humans: 625,874 · Residents: 1,275,997 · Required: 485,106 · Workforce: 963,060 · % WF: 50.4% | `09_Per_City_Baseline_Run.md` L52, L54 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | City: Neumayer · D: 2.50 · OLD: 50.4% · NEW: 61.3% | `11_Caloric_Rebuild_and_Livestock_Tier.md` L326, L328 |
-| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Neumayer · Subnet: Halley · D: 2.50 · Workforce: 945,212 · base%: 43.7% · MAND%: 9.4% · FREE%: 46.9% · src: D | `16_Per_City_Three_Tier_Run.md` L272 |
+| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Neumayer · Subnet: Halley · D: 2.50 · Workforce: 963,060 · base%: 43.7% · MAND%: 9.4% · FREE%: 46.9% · src: D | `16_Per_City_Three_Tier_Run.md` L272 |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | Checked by name (`Neumayer`): **zero hits** in a 246-line file | `National_Medical_and_Care_Institutes.md` |
 | Robot Physiology — appearance/clothing baseline (Tier U) | Human-looking, *Ex Machina*-style; clothing ordinary, functional and fashionable; exposure is a preparation problem, never a species-level gate | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"The ordinary condition" |
 | Robot Cold Physiology — the governing mechanic (Tier U) | Recharging is the primary cost (lithium plating below freezing, permanent); the cannot-self-recover threshold; a robot is safer moving than resting | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"What cold actually costs" |

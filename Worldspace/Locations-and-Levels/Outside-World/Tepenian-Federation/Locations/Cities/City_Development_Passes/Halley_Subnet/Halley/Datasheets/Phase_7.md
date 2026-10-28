@@ -14,7 +14,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Halley · Subnet: Halley · D: 2.50 · Workforce: 1,097,470 · base%: 43.6% · MAND%: 9.4% · FREE%: 47.0% · src: D | `16_Per_City_Three_Tier_Run.md` L273 |
+| `16` Half B — the city's own row | City: Halley · Subnet: Halley · D: 2.50 · Workforce: 1,115,318 · base%: 43.7% · MAND%: 9.4% · FREE%: 47.0% · src: D | `16_Per_City_Three_Tier_Run.md` L273 |
 | `16` — other lines naming the city (per-city passages and tables) | 31 line(s): L53, L80, L113, L173, L208, L252, L254, L262, L264, L272, L277, L283, L298, L517, L519, L619, L623, L626–627, L631, L639, L669–670, L869, L890, L930, L1347, L1411, L2302, L2536, L3205 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L53, L80, L113, L173, L208, L252, L254, L262, L264, L272, L277, L283, L298, L517, L519, L619, L623, L626–627, L631, L639, L669–670, L869, L890, L930, L1347, L1411, L2302, L2536, L3205 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Halley \| . \| . \| . \| . \| . \| . \| **6/6** \| | `Division_of_Industry_Sweep_2026-08-31.md` L147 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L187 |

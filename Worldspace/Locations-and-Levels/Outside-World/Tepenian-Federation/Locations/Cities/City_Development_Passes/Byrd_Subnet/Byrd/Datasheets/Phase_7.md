@@ -14,7 +14,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Byrd · Subnet: Byrd · D: 1.67 · Workforce: 283,756 · base%: 36.2% · MAND%: 35.1% · FREE%: 28.7% · src: C | `16_Per_City_Three_Tier_Run.md` L255 |
+| `16` Half B — the city's own row | City: Byrd · Subnet: Byrd · D: 1.67 · Workforce: 301,602 · base%: 36.2% · MAND%: 35.1% · FREE%: 28.7% · src: C | `16_Per_City_Three_Tier_Run.md` L255 |
 | `16` — other lines naming the city (per-city passages and tables) | 29 line(s): L114, L303, L328, L505, L1857, L2302, L2617, L2650, L3206, L3242, L3244, L3364, L3369–3370, L3376, L3381, L3387–3388, L3391, L3395, L3406, L3411, L3415, L3434, L3442, L3504, L3568, L3572–3573 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L114, L303, L328, L505, L1857, L2302, L2617, L2650, L3206, L3242, L3244, L3364, L3369–3370, L3376, L3381, L3387–3388, L3391, L3395, L3406, L3411, L3415, L3434, L3442, L3504, L3568, L3572–3573 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L128 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | \| Byrd \| . \| . \| . \| . \| . \| . \| **6/6** \| | `Division_of_Industry_Sweep_2026-08-31.md` L144 |

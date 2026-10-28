@@ -33,8 +33,8 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 1,158,303 humans / 1,199,984 robots / **2,358,287** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 1,287,003 / 1,333,316 / **2,620,319***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
-**Census II (Orbital Era):** 775,085 humans / 848,494 robots / **1,623,579** combined ⭐ **−10% 2026-09-05, developer ruling** — *was 861,206 / 942,771 / **1,803,977***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census I (Pre-Orbital Era):** 1,170,443 humans / 1,211,762 robots / **2,382,205** combined *(was 1,158,303 / 1,199,984 / 2,358,287; census updated 2026-10-28, `DR-68`)* ⭐ **−10% 2026-09-05, developer ruling** — *was 1,287,003 / 1,333,316 / **2,620,319***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 783,193 humans / 856,233 robots / **1,639,426** combined *(was 775,085 / 848,494 / 1,623,579)* ⭐ **−10% 2026-09-05, developer ruling** — *was 861,206 / 942,771 / **1,803,977***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|
@@ -50,31 +50,31 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 19.05% | 228,568 | 220,629 | 161,618 | 147,635 |
-| Significant | UK | 10.08% | 120,903 | 116,704 | 85,489 | 78,093 |
-| Significant | Germany | 9.48% | 113,746 | 109,795 | 80,429 | 73,470 |
-| Significant | Brazil | 9.05% | 108,605 | 104,833 | 76,793 | 70,150 |
-| Significant | Russia | 4.81% | 57,680 | 55,677 | 40,784 | 37,256 |
-| Notable | Norway | 3.42% | 41,038 | 39,613 | 29,018 | 26,507 |
-| Notable | Finland | 3.34% | 40,026 | 38,635 | 28,301 | 25,853 |
-| Notable | Czech Republic | 3.30% | 39,632 | 38,254 | 28,022 | 25,599 |
-| Notable | Estonia | 3.29% | 39,489 | 38,118 | 27,923 | 25,507 |
-| Notable | Poland | 3.21% | 38,552 | 37,214 | 27,260 | 24,902 |
-| Notable | Hungary | 3.08% | 36,931 | 35,647 | 26,113 | 23,854 |
-| Notable | Slovenia | 3.07% | 36,788 | 35,509 | 26,012 | 23,762 |
-| Notable | Slovakia | 3.00% | 36,003 | 34,753 | 25,457 | 23,255 |
-| Notable | Serbia | 2.95% | 35,375 | 34,145 | 25,013 | 22,848 |
-| Notable | Romania | 2.87% | 34,448 | 33,252 | 24,359 | 22,251 |
-| Significant | France | 2.30% | 27,631 | 26,671 | 19,537 | 17,847 |
-| Notable | Belarus | 1.81% | 21,768 | 21,012 | 15,392 | 14,061 |
-| Notable | Lithuania | 1.76% | 21,139 | 20,405 | 14,947 | 13,654 |
-| Notable | Ukraine | 1.70% | 20,354 | 19,648 | 14,393 | 13,147 |
-| Notable | South Africa | 1.55% | 18,590 | 17,943 | 13,145 | 12,007 |
-| Notable | Croatia | 1.47% | 17,653 | 17,040 | 12,482 | 11,402 |
-| Notable | Argentina | 1.46% | 17,511 | 16,903 | 12,381 | 11,310 |
-| Notable | Latvia | 1.43% | 17,116 | 16,522 | 12,103 | 11,056 |
-| Notable | Bulgaria | 1.34% | 16,104 | 15,545 | 11,387 | 10,401 |
-| Notable | Netherlands | 1.19% | 14,334 | 13,836 | 10,136 | 9,258 |
+| Primary | USA | 19.05% | 230,811 | 222,941 | 163,092 | 149,179 |
+| Significant | UK | 10.08% | 122,090 | 117,927 | 86,269 | 78,910 |
+| Significant | Germany | 9.48% | 114,862 | 110,946 | 81,163 | 74,239 |
+| Significant | Brazil | 9.05% | 109,671 | 105,932 | 77,493 | 70,884 |
+| Significant | Russia | 4.81% | 58,246 | 56,261 | 41,156 | 37,646 |
+| Notable | Norway | 3.42% | 41,441 | 40,028 | 29,283 | 26,784 |
+| Notable | Finland | 3.34% | 40,419 | 39,040 | 28,559 | 26,123 |
+| Notable | Czech Republic | 3.30% | 40,021 | 38,655 | 28,278 | 25,867 |
+| Notable | Estonia | 3.29% | 39,877 | 38,517 | 28,178 | 25,774 |
+| Notable | Poland | 3.21% | 38,930 | 37,604 | 27,509 | 25,162 |
+| Notable | Hungary | 3.08% | 37,294 | 36,021 | 26,351 | 24,103 |
+| Notable | Slovenia | 3.07% | 37,149 | 35,881 | 26,249 | 24,011 |
+| Notable | Slovakia | 3.00% | 36,356 | 35,117 | 25,689 | 23,498 |
+| Notable | Serbia | 2.95% | 35,722 | 34,503 | 25,241 | 23,087 |
+| Notable | Romania | 2.87% | 34,786 | 33,600 | 24,581 | 22,484 |
+| Significant | France | 2.30% | 27,902 | 26,951 | 19,715 | 18,034 |
+| Notable | Belarus | 1.81% | 21,982 | 21,232 | 15,532 | 14,208 |
+| Notable | Lithuania | 1.76% | 21,347 | 20,619 | 15,083 | 13,797 |
+| Notable | Ukraine | 1.70% | 20,554 | 19,854 | 14,524 | 13,284 |
+| Notable | South Africa | 1.55% | 18,772 | 18,131 | 13,265 | 12,133 |
+| Notable | Croatia | 1.47% | 17,826 | 17,219 | 12,596 | 11,521 |
+| Notable | Argentina | 1.46% | 17,683 | 17,080 | 12,494 | 11,428 |
+| Notable | Latvia | 1.43% | 17,284 | 16,695 | 12,213 | 11,172 |
+| Notable | Bulgaria | 1.34% | 16,262 | 15,708 | 11,491 | 10,510 |
+| Notable | Netherlands | 1.19% | 14,475 | 13,981 | 10,229 | 9,355 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

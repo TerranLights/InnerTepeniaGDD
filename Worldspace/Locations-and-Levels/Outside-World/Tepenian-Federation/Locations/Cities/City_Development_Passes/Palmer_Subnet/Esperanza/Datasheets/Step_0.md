@@ -7,9 +7,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 955,337 H / 922,950 R / **1,878,287** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L483 |
-| Census II | 502,654 H / 675,385 R / **1,178,039** combined (status cell: revised 2026-07-03) | `Official_Population_Census.md` L599 |
-| Retention (computed; formula = Census II count ÷ Census I count) | combined 62.72% · human 52.62% · robot 73.18% | Computed from the two rows above: 1,178,039÷1,878,287 · 502,654÷955,337 · 675,385÷922,950 |
+| Census I | 967,477 H / 934,728 R / **1,902,205** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L483 |
+| Census II | 510,762 H / 683,124 R / **1,193,886** combined (status cell: revised 2026-07-03) | `Official_Population_Census.md` L605 |
+| Retention (computed; formula = Census II count ÷ Census I count) | combined 62.76% · human 52.79% · robot 73.08% | Computed from the two rows above: 1,193,886÷1,902,205 · 510,762÷967,477 · 683,124÷934,728 |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s / early 2700s, onward — properly Tepenian; origin is ancestry, not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |

@@ -17,8 +17,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 465,147 humans / 482,807 robots / **947,954** combined
-**Census II (Orbital Era):** 332,844 humans / 345,324 robots / **678,168** combined *(retention 71.5%)*
+**Census I (Pre-Orbital Era):** 477,285 humans / 494,585 robots / **971,870** combined *(was 465,147 / 482,807 / 947,954; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 340,951 humans / 353,062 robots / **694,013** combined *(was 332,844 / 345,324 / 678,168)* *(retention 71.5%)*
 
 > ### ⛔⛔ THE FOUNDING RULE — **THIS CITY INHERITS NOTHING FROM ITS SOURCE ROWS.**
 > **Its population is the redistribution pool, discharged in full on 2026-09-05** *(Puerto Abrigo · Dumont
@@ -54,17 +54,17 @@ approach, so distant nations are filtered rather than diluted.* **Full derivatio
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 21.58% | 104,189 | 100,378 | 74,522 | 71,829 |
-| Significant | Russia | 12.60% | 60,834 | 58,609 | 43,511 | 41,938 |
-| Significant | Indonesia | 12.23% | 59,047 | 56,887 | 42,233 | 40,707 |
-| Significant | Japan | 11.98% | 57,840 | 55,725 | 41,370 | 39,875 |
-| Significant | South Korea | 11.22% | 54,171 | 52,189 | 38,745 | 37,345 |
-| Significant | Australia | 11.03% | 53,254 | 51,306 | 38,089 | 36,713 |
-| Notable | Thailand | 5.15% | 24,865 | 23,955 | 17,784 | 17,141 |
-| Notable | Vietnam | 4.76% | 22,982 | 22,141 | 16,437 | 15,843 |
-| Notable | Malaysia | 3.30% | 15,933 | 15,350 | 11,396 | 10,984 |
-| Notable | Philippines | 3.18% | 15,353 | 14,792 | 10,981 | 10,584 |
-| Notable | New Zealand | 2.97% | 14,339 | 13,815 | 10,256 | 9,885 |
+| Primary | China | 21.58% | 106,731 | 102,997 | 76,192 | 73,579 |
+| Significant | Russia | 12.60% | 62,318 | 60,138 | 44,486 | 42,959 |
+| Significant | Indonesia | 12.23% | 60,487 | 58,371 | 43,179 | 41,698 |
+| Significant | Japan | 11.98% | 59,251 | 57,179 | 42,297 | 40,846 |
+| Significant | South Korea | 11.22% | 55,492 | 53,551 | 39,613 | 38,255 |
+| Significant | Australia | 11.03% | 54,553 | 52,645 | 38,943 | 37,607 |
+| Notable | Thailand | 5.15% | 25,472 | 24,580 | 18,183 | 17,558 |
+| Notable | Vietnam | 4.76% | 23,543 | 22,719 | 16,805 | 16,229 |
+| Notable | Malaysia | 3.30% | 16,322 | 15,751 | 11,651 | 11,252 |
+| Notable | Philippines | 3.18% | 15,727 | 15,178 | 11,227 | 10,842 |
+| Notable | New Zealand | 2.97% | 14,689 | 14,176 | 10,486 | 10,126 |
 
 *Shares sum to 100.00%; all four columns sum exactly to the census figures above. **China's Primary share was
 reduced 28.58% → 21.58% by developer ruling**, the 7.00 freed points spread proportionally across Russia,

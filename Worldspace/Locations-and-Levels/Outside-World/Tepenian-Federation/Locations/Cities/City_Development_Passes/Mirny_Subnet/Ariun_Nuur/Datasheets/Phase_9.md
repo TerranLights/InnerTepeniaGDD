@@ -13,7 +13,7 @@
 | `Robot_Universals/` Ch. 13 — the identity lens (Tier U) | Identity is seated in city-locality, not origin/Build/Gen-Mark. The Guadalajara Analogy: four humans of wildly different builds from one city are unambiguously that city's own people | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |
 | `Robot_Universals/` Ch. 14 — Gen/Mark (Tier U) | Real, structurally independent of city, but carries markedly less cultural weight than locality, and is never a hierarchy | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |
 | Doll Representation Categories (Tier U) | Four total: Robots (only category in active use, corpus-wide) · Anthros · Elves · Aliens (origin unknown) | `Doll_Representation_Categories.md`, 35 lines |
-| Robot physiology baseline, applied to Vostok's own census | Robots are **66.7%** of Vostok's Census I population (259,644 of 389,261); humans are 33.3% (129,617) — computed from `Step_0.md`'s own Census I row | Computed from `Step_0.md`'s own Census I row |
+| Robot physiology baseline, applied to Vostok's own census | Robots are **65.7%** of Vostok's Census I population (271,422 of 413,177); humans are 34.3% (141,755) — computed from `Step_0.md`'s own Census I row | Computed from `Step_0.md`'s own Census I row |
 | Human presence at Vostok | Not forbidden — Vostok's Specs and census figures state an ordinary mixed human/robot population, no protective-policy exclusion stated anywhere in the admitted range | `Specs/Mirny subnet/Ariun_Nuur.md` L17, full file checked |
 
 **Not mechanical / not included here:** the lens decision, per-population culture synthesis, inter-population

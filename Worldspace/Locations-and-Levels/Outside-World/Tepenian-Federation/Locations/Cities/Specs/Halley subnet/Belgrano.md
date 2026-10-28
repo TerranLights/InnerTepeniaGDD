@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 531,925 humans / 539,965 robots / **1,071,890** combined *(ruins, DLC 5)*
-**Census II (Orbital Era):** 429,820 humans / 407,948 robots / **837,768** combined *(ruins, DLC 5)*
+**Census I (Pre-Orbital Era):** 544,064 humans / 551,743 robots / **1,095,807** combined *(was 531,925 / 539,965 / 1,071,890; census updated 2026-10-28, `DR-68`)* *(ruins, DLC 5)*
+**Census II (Orbital Era):** 437,927 humans / 415,687 robots / **853,614** combined *(was 429,820 / 407,948 / 837,768)* *(ruins, DLC 5)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,21 +29,21 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 28.57% | 154,276 | 151,979 | 116,557 | 122,806 |
-| Significant | Brazil | 13.73% | 74,120 | 73,017 | 55,998 | 59,001 |
-| Significant | Germany | 13.44% | 72,578 | 71,497 | 54,833 | 57,773 |
-| Notable | Hungary | 5.32% | 28,734 | 28,306 | 21,709 | 22,872 |
-| Notable | Poland | 5.18% | 27,989 | 27,572 | 21,146 | 22,279 |
-| Significant | UK | 4.97% | 26,862 | 26,462 | 20,294 | 21,382 |
-| Notable | Uruguay | 4.91% | 26,539 | 26,144 | 20,051 | 21,126 |
-| Notable | Slovakia | 4.66% | 25,187 | 24,812 | 19,029 | 20,049 |
-| Notable | Argentina | 4.40% | 23,756 | 23,402 | 17,947 | 18,910 |
-| Notable | Chile | 4.34% | 23,458 | 23,108 | 17,722 | 18,673 |
-| Notable | Czech Republic | 2.80% | 15,111 | 14,886 | 11,417 | 12,029 |
-| Notable | Slovenia | 2.74% | 14,813 | 14,593 | 11,192 | 11,792 |
-| Notable | South Africa | 2.48% | 13,382 | 13,183 | 10,110 | 10,652 |
-| Notable | Serbia | 1.82% | 9,835 | 9,689 | 7,431 | 7,829 |
-| Notable | Croatia | 0.62% | 3,325 | 3,276 | 2,512 | 2,647 |
+| Primary | USA | 28.57% | 157,641 | 155,447 | 118,768 | 125,122 |
+| Significant | Brazil | 13.73% | 75,737 | 74,683 | 57,060 | 60,114 |
+| Significant | Germany | 13.44% | 74,161 | 73,128 | 55,873 | 58,863 |
+| Notable | Hungary | 5.32% | 29,361 | 28,952 | 22,121 | 23,303 |
+| Notable | Poland | 5.18% | 28,599 | 28,201 | 21,547 | 22,699 |
+| Significant | UK | 4.97% | 27,448 | 27,066 | 20,679 | 21,785 |
+| Notable | Uruguay | 4.91% | 27,118 | 26,741 | 20,431 | 21,525 |
+| Notable | Slovakia | 4.66% | 25,736 | 25,378 | 19,390 | 20,427 |
+| Notable | Argentina | 4.40% | 24,274 | 23,936 | 18,288 | 19,267 |
+| Notable | Chile | 4.34% | 23,970 | 23,635 | 18,058 | 19,025 |
+| Notable | Czech Republic | 2.80% | 15,441 | 15,226 | 11,634 | 12,256 |
+| Notable | Slovenia | 2.74% | 15,136 | 14,926 | 11,404 | 12,014 |
+| Notable | South Africa | 2.48% | 13,674 | 13,484 | 10,302 | 10,853 |
+| Notable | Serbia | 1.82% | 10,049 | 9,910 | 7,572 | 7,977 |
+| Notable | Croatia | 0.62% | 3,398 | 3,351 | 2,560 | 2,697 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 

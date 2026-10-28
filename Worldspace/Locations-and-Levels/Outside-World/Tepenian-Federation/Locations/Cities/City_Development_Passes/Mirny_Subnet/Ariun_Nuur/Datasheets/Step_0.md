@@ -8,8 +8,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 129,617 H / 259,644 R / **389,261** combined | `Specs/Mirny subnet/Ariun_Nuur.md` L17; cross-verified `Official_Population_Census.md` L508 — exact match |
-| Census II | **Not yet computed for this city** — Vostok's Census I figures are new, but no Census II figures have been computed for it yet. ⚠ A genuine not-yet-done gap, not a structural non-applicability | `Official_Population_Census.md` L634 |
+| Census I | 141,755 H / 271,422 R / **413,177** combined | `Specs/Mirny subnet/Ariun_Nuur.md` L17; cross-verified `Official_Population_Census.md` L508 — exact match |
+| Census II | **Not yet computed for this city** — Vostok's Census I figures are new, but no Census II figures have been computed for it yet. ⚠ A genuine not-yet-done gap, not a structural non-applicability | `Official_Population_Census.md` L642 |
 | Coordinates / real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, near the Southern Pole of Inaccessibility, elevation 3,488m | `Specs/Mirny subnet/Ariun_Nuur.md` L5, L49 |
 | Timeline Era (Tier U) | The Second Interwar Period, corpus-wide, not a per-city judgment | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | Arcanet Subnet | Mirny ("Australian") | `Specs/Mirny subnet/Ariun_Nuur.md` L7 |

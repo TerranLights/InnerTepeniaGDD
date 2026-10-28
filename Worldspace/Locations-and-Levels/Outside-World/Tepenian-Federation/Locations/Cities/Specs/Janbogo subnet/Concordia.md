@@ -11,8 +11,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 504,799 humans / 511,148 robots / **1,015,947** combined
-**Census II (Orbital Era):** 309,068 humans / 326,234 robots / **635,302** combined
+**Census I (Pre-Orbital Era):** 516,937 humans / 522,926 robots / **1,039,863** combined *(was 504,799 / 511,148 / 1,015,947; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 317,175 humans / 333,972 robots / **651,147** combined *(was 309,068 / 326,234 / 635,302)*
 
 | Tier | Nations |
 |------|---------|
@@ -28,44 +28,44 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 9.32% | 47,662 | 47,070 | 30,420 | 28,819 |
-| Primary | South Korea | 9.31% | 47,568 | 46,977 | 30,360 | 28,762 |
-| Primary | Russia | 9.20% | 47,039 | 46,455 | 30,022 | 28,442 |
-| Primary | Australia | 7.82% | 39,965 | 39,468 | 25,507 | 24,165 |
-| Primary | Indonesia | 7.72% | 39,436 | 38,946 | 25,169 | 23,845 |
-| Primary | China | 7.70% | 39,342 | 38,853 | 25,110 | 23,788 |
-| Significant | USA | 4.43% | 22,661 | 22,380 | 14,463 | 13,702 |
-| Significant | Vietnam | 4.23% | 21,601 | 21,333 | 13,787 | 13,061 |
-| Significant | Belarus | 3.77% | 19,259 | 19,020 | 12,292 | 11,645 |
-| Significant | New Zealand | 3.76% | 19,243 | 19,004 | 12,281 | 11,635 |
-| Significant | Philippines | 2.62% | 13,367 | 13,201 | 8,532 | 8,083 |
-| Significant | Malaysia | 1.95% | 9,965 | 9,842 | 6,360 | 6,026 |
-| Notable | Serbia | 1.59% | 8,135 | 8,034 | 5,192 | 4,919 |
-| Significant | Thailand | 1.58% | 8,096 | 7,995 | 5,167 | 4,895 |
-| Notable | Estonia | 1.55% | 7,932 | 7,834 | 5,063 | 4,796 |
-| Notable | Belgium | 1.54% | 7,867 | 7,769 | 5,021 | 4,757 |
-| Notable | France | 1.51% | 7,732 | 7,636 | 4,935 | 4,675 |
-| Notable | Spain | 1.47% | 7,506 | 7,413 | 4,791 | 4,538 |
-| Notable | Croatia | 1.44% | 7,357 | 7,265 | 4,695 | 4,448 |
-| Notable | Hungary | 1.43% | 7,335 | 7,244 | 4,681 | 4,435 |
-| Notable | Finland | 1.41% | 7,198 | 7,109 | 4,594 | 4,352 |
-| Notable | Czech Republic | 1.38% | 7,063 | 6,975 | 4,508 | 4,271 |
-| Notable | Norway | 1.38% | 7,040 | 6,953 | 4,493 | 4,257 |
-| Notable | UK | 1.32% | 6,746 | 6,662 | 4,305 | 4,079 |
-| Notable | Poland | 1.32% | 6,735 | 6,652 | 4,299 | 4,073 |
-| Notable | Mexico | 1.29% | 6,579 | 6,497 | 4,199 | 3,978 |
-| Notable | Lithuania | 0.84% | 4,296 | 4,243 | 2,742 | 2,598 |
-| Notable | Latvia | 0.81% | 4,130 | 4,078 | 2,636 | 2,497 |
-| Notable | Italy | 0.75% | 3,813 | 3,765 | 2,433 | 2,305 |
-| Notable | Sweden | 0.75% | 3,835 | 3,788 | 2,448 | 2,319 |
-| Notable | Bulgaria | 0.72% | 3,677 | 3,632 | 2,347 | 2,224 |
-| Notable | Ukraine | 0.69% | 3,541 | 3,497 | 2,260 | 2,141 |
-| Notable | Romania | 0.69% | 3,519 | 3,475 | 2,246 | 2,128 |
-| Notable | Slovakia | 0.66% | 3,370 | 3,328 | 2,151 | 2,037 |
-| Notable | Canada | 0.61% | 3,143 | 3,104 | 2,006 | 1,901 |
-| Notable | Netherlands | 0.59% | 3,008 | 2,971 | 1,920 | 1,819 |
-| Notable | Germany | 0.58% | 2,943 | 2,907 | 1,878 | 1,780 |
-| Notable | Slovenia | 0.28% | 1,443 | 1,425 | 921 | 872 |
+| Primary | Japan | 9.32% | 48,760 | 48,202 | 31,141 | 29,575 |
+| Primary | South Korea | 9.31% | 48,664 | 48,107 | 31,080 | 29,517 |
+| Primary | Russia | 9.20% | 48,123 | 47,572 | 30,734 | 29,188 |
+| Primary | Australia | 7.82% | 40,886 | 40,417 | 26,112 | 24,799 |
+| Primary | Indonesia | 7.72% | 40,345 | 39,882 | 25,766 | 24,471 |
+| Primary | China | 7.70% | 40,249 | 39,787 | 25,706 | 24,412 |
+| Significant | USA | 4.43% | 23,183 | 22,918 | 14,806 | 14,061 |
+| Significant | Vietnam | 4.23% | 22,099 | 21,846 | 14,114 | 13,404 |
+| Significant | Belarus | 3.77% | 19,703 | 19,477 | 12,584 | 11,950 |
+| Significant | New Zealand | 3.76% | 19,686 | 19,461 | 12,572 | 11,940 |
+| Significant | Philippines | 2.62% | 13,675 | 13,518 | 8,734 | 8,295 |
+| Significant | Malaysia | 1.95% | 10,195 | 10,079 | 6,511 | 6,184 |
+| Notable | Serbia | 1.59% | 8,322 | 8,227 | 5,315 | 5,048 |
+| Significant | Thailand | 1.58% | 8,283 | 8,187 | 5,290 | 5,023 |
+| Notable | Estonia | 1.55% | 8,115 | 8,022 | 5,183 | 4,922 |
+| Notable | Belgium | 1.54% | 8,048 | 7,956 | 5,140 | 4,882 |
+| Notable | France | 1.51% | 7,910 | 7,820 | 5,052 | 4,798 |
+| Notable | Spain | 1.47% | 7,679 | 7,591 | 4,905 | 4,657 |
+| Notable | Croatia | 1.44% | 7,527 | 7,440 | 4,806 | 4,565 |
+| Notable | Hungary | 1.43% | 7,504 | 7,418 | 4,792 | 4,551 |
+| Notable | Finland | 1.41% | 7,364 | 7,280 | 4,703 | 4,466 |
+| Notable | Czech Republic | 1.38% | 7,226 | 7,143 | 4,615 | 4,383 |
+| Notable | Norway | 1.38% | 7,202 | 7,120 | 4,600 | 4,369 |
+| Notable | UK | 1.32% | 6,901 | 6,822 | 4,407 | 4,186 |
+| Notable | Poland | 1.32% | 6,890 | 6,812 | 4,401 | 4,180 |
+| Notable | Mexico | 1.29% | 6,731 | 6,653 | 4,299 | 4,082 |
+| Notable | Lithuania | 0.84% | 4,395 | 4,345 | 2,807 | 2,666 |
+| Notable | Latvia | 0.81% | 4,225 | 4,176 | 2,698 | 2,563 |
+| Notable | Italy | 0.75% | 3,901 | 3,856 | 2,491 | 2,365 |
+| Notable | Sweden | 0.75% | 3,923 | 3,879 | 2,506 | 2,380 |
+| Notable | Bulgaria | 0.72% | 3,762 | 3,719 | 2,403 | 2,282 |
+| Notable | Ukraine | 0.69% | 3,623 | 3,581 | 2,314 | 2,197 |
+| Notable | Romania | 0.69% | 3,600 | 3,559 | 2,299 | 2,184 |
+| Notable | Slovakia | 0.66% | 3,448 | 3,408 | 2,202 | 2,090 |
+| Notable | Canada | 0.61% | 3,215 | 3,179 | 2,054 | 1,951 |
+| Notable | Netherlands | 0.59% | 3,077 | 3,042 | 1,965 | 1,867 |
+| Notable | Germany | 0.58% | 3,011 | 2,977 | 1,922 | 1,827 |
+| Notable | Slovenia | 0.28% | 1,476 | 1,459 | 943 | 895 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
 
@@ -186,7 +186,7 @@ Concordia was not built in a moment. It grew as everything else shrank. It was n
 
 Concordia is not the city Tepenia chose — it is the city Tepenia has left. Its character is defined by what it outlasted: every coastal city, every more accessible settlement, every more comfortable place to live. What remains is what the war could not reach.
 
-The twelve districts, organized by zodiac name, each developed distinct identities as the city absorbed successive waves of refugees with different backgrounds, cultures, and needs. The result is the most culturally diverse place in Tepenia — not by design, but by attrition. Everyone who made it here from anywhere is here, alongside everyone who was always here.
+The twelve zodiac-named districts (with the Central Hub, the thirteenth district at the city's center) each developed distinct identities as the city absorbed successive waves of refugees with different backgrounds, cultures, and needs. The result is the most culturally diverse place in Tepenia — not by design, but by attrition. Everyone who made it here from anywhere is here, alongside everyone who was always here.
 
 Within the districts, subnet identities persist. Gemini is identifiably Janbogo. Refugees from the Atlantic coast congregate differently from refugees from the Indian Ocean coast. The city holds all of it simultaneously without having resolved it.
 
@@ -208,7 +208,7 @@ District economies vary by zodiac specialization and are documented in full in `
 
 ## Notable Locations
 
-- **The twelve districts** — Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces; each with distinct character and function; the majority are enclosed within the dome-and-corridor system — see district documentation
+- **The twelve zodiac-named districts, plus the Central Hub (Axis Mundi) as the thirteenth** — Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces; each with distinct character and function; the majority are enclosed within the dome-and-corridor system — see district documentation
 - **Janbogo subnet nexus (Gemini district)** — the physical Arcanet hardware of the Janbogo subnet; the Janbogo diaspora enclave is built around it
 - **Red Spiral base/clinic** — the Red Spiral faction's operational headquarters and primary medical facility; district TBD
 - **Calethina's lab** — site of the player's activation; a personal, singular facility tied to Calethina specifically, not an industrial-scale Cradle site; located at the outer edge of Cancer district, at the corner where Cancer, Taurus, and Capricorn meet (confirmed against the developer's own district map — see `TODO.md`)
@@ -263,11 +263,11 @@ TBD — most characters currently in Concordia arrived as refugees or exiles fro
 
 ## Current Status
 
-Concordia is the last functioning major city in the Tepenian Federation. It is not thriving — the energy grid is failing, district tensions are high, and the city's long-term viability is the central question of the main game. The twelve districts are in various states of internal conflict and inter-district tension. No single faction controls the city. The player arrives into this instability.
+Concordia is the last functioning major city in the Tepenian Federation. It is not thriving — the energy grid is failing, district tensions are high, and the city's long-term viability is the central question of the main game. The twelve zodiac-named districts are in various states of internal conflict and inter-district tension. No single faction controls the city. The player arrives into this instability.
 
 **Vision session, 2026-07-06:** despite the struggle, Concordia is genuinely surviving, not merely persisting. There's a real sense of community here, among people who wanted the chance to see what a city can truly be — not a collection of buildings, not a smattering of offices, but an actual city. This is the animating spirit behind Concordia's post-war identity: a population that consciously wants to build and hold onto something more than a functional settlement.
 
-**Follow-up, same session:** this feeling is shared across all twelve districts — every district genuinely wants Concordia to be a true city, not a collection of buildings. What divides them isn't the goal but the method: each district holds a differing, and sometimes flatly conflicting, belief system, viewpoint, and opinion on how to actually accomplish it. This reframes the established district tensions above — they aren't factions pulling toward different end states, but factions united on the end state and at odds over the path there, a meaningfully different kind of conflict than a simple values clash.
+**Follow-up, same session:** this feeling is shared across all twelve zodiac-named districts — every district genuinely wants Concordia to be a true city, not a collection of buildings. What divides them isn't the goal but the method: each district holds a differing, and sometimes flatly conflicting, belief system, viewpoint, and opinion on how to actually accomplish it. This reframes the established district tensions above — they aren't factions pulling toward different end states, but factions united on the end state and at odds over the path there, a meaningfully different kind of conflict than a simple values clash.
 
 Full city logistics: `to-be-integrated/city-logistics/Concordia_City_Logistics.md`
 Full district documentation: `Worldspace/Locations-and-Levels/Concordia-City/Districts/`
