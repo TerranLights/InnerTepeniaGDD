@@ -95,7 +95,7 @@ Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a name
 **Lost to sublimation and wind transport:** ~45 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **MIXED.** At **-25.0 °C** (6 cities are colder), this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~150 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+> ⚠ **MIXED.** At an annual mean of about **−15 °C** *(measured, Aboa station; corrected 2026-10-28 from "-25.0 °C", a leftover of the monthly column replaced on 2026-10-21; "6 cities are colder" dropped under the law of one location)*, this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~150 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 
@@ -130,9 +130,9 @@ Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a name
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, on the combined Aboa and Wasa station infrastructure. Italy and the Confederacy of Intermarium Nations (CIN) founded it jointly (Founding Register, `DR-22`); the earlier Finnish and Swedish founding is superseded.
+**Settled:** Post-Falkland Treaty, on the combined Aboa and Wasa station infrastructure. Italy's two successor states, Magna Lombardia and Meridia, and the Confederacy of Intermarium Nations (CIN) founded it jointly (Founding Register, `DR-22`, `DR-60`); the earlier Finnish and Swedish founding is superseded.
 
-**Founding population:** Italy and the Confederacy of Intermarium Nations (CIN), jointly (`DR-22`). The earlier Finnish and Swedish founding and its two-stations-200-m-apart reasoning are superseded. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
+**Founding population:** Italy's two successor states and the Confederacy of Intermarium Nations (CIN), jointly (`DR-22`, `DR-60`). The Italian population comes from both Magna Lombardia and Meridia, in proportion to their economic weight (not equally; exact ratio open); oversight, coordination, management and logistics are Magna Lombardia's. The earlier Finnish and Swedish founding and its two-stations-200-m-apart reasoning are superseded. *(Updated 2026-10-13 to match `Founding_Register.md`; updated again 2026-10-28 for the two-Italys ruling `DR-60`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 Formerly named "Abowasa" for the two real stations: Aboa (Latin for Turku, Finland's oldest city) and Wasa. A namesake is flavor only (`DR-32`); the earlier claim that a Finnish community chose the Turku reference is withdrawn.
 

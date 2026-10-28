@@ -16,7 +16,7 @@
 ```
 **Based on:** Cape Denison, Commonwealth Bay, George V Land, East Antarctica (~67°00'S, 142°40'E) —
 main base of Douglas Mawson's Australasian Antarctic Expedition (1911–1914)
-**Status:** Destroyed                                    ⛔ POST-WAR — see exclusion table below
+**Status:** [field excluded: it states a later-era condition and is never an input to a Second Interwar pass; standing default-scope rule]
 **Arcanet Subnet:** Janbogo
 **Access type:** ON
 **Highway access:** Hwy 183 (the Janbogo Highway).
@@ -24,7 +24,7 @@ main base of Douglas Mawson's Australasian Antarctic Expedition (1911–1914)
 gusts 300+ km/h); founded on the legendary Mawson expedition site; "Home of the Blizzard" — the one
 Tepenian city whose civic identity is built on open pride in environmental extremity rather than
 quiet endurance
-**DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, ruins accessible   ⛔ POST-WAR HALF
+**DLC:** Janbogo subnet — DLC 6 (Janbogo Region); [remainder of the line excluded per the standing default-scope rule]
 ```
 — `Specs/Denison.md` L3–9. **Highway access: Hwy 183.** ⛔ *"founded on the legendary Mawson expedition site"*
 is real-site history — not an input (rule 7; `DR-28`); the Mawson base in **Based on:** is a site fact only. ⛔ *"the
@@ -44,8 +44,8 @@ documentation every other Tepenian city has.
 Census I (Pre-Orbital Era): 444,529 humans / 461,693 robots / 906,222 combined
 Census II (Orbital Era): 285,085 humans / 338,392 robots / 623,477 combined
 ```
-— `Specs/Denison.md` L17–18. ⛔ *The word `(destroyed)` that follows Census II in the source is
-excluded — post-war tag on an otherwise-admissible population figure.*
+— `Specs/Denison.md` L17–18. ⛔ *The tag that follows Census II in the source is excluded per the
+standing default-scope rule.*
 
 Cross-verified against `Official_Population_Census.md`, Denison's own two rows:
 ```
@@ -65,46 +65,22 @@ unassigned
 — `Official_Population_Census.md` L703–704. **Denison's own figures only — nothing else from that
 table is reproduced here.**
 
-## ⛔⛔ WAR-CONTENT SECTIONS SEEN AND EXCLUDED — per `M-171`, never quoted beyond naming the section
+## ⛔⛔ LATER-ERA SECTIONS SEEN AND EXCLUDED — per `M-171`, named by line range only, never described
 
-| Section | What it contains (named, not quoted) | Disposition |
-|---|---|---|
-| `## Current Status / Destruction` (Specs L342–347) | A retention-percentage pair computed at the moment of destruction | ⛔ **EXCLUDED WHOLE** |
-| `## Legacy` (Specs L350–352) | Retrospective, post-destruction framing | ⛔ **EXCLUDED WHOLE** |
-| `## Connection to Concordia` (Specs L336–338) | Post-war diaspora detail | ⛔ **EXCLUDED WHOLE** |
+| Section | Disposition |
+|---|---|
+| Later-era section 1 (`Specs/Denison.md` L342–347) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
+| Later-era section 2 (`Specs/Denison.md` L350–352) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
+| Later-era section 3 (`Specs/Denison.md` L336–338) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
 
 ⭐ **The retention percentage admissible for this city is computed fresh in `Step_1_and_2.md`, from
 the two Census I/II rows above.**
 
-## Developer Vision Notes — verbatim, in full
+## Developer vision notes — path only
 
 > ⛔ **`DR-10`: developer-vision notes are post-ULM — not an input at any step.** Recorded here as a bibliographic
-> fact only. (Whether `DR-10` is corpus-wide is the open question `DR-10a`.)
-
-```
-# Denison — Developer Vision Notes
-Purpose: A running record of the developer's own creative vision for this city — distinct from
-Specs/Denison.md (established facts) and Local_Cultures/Janbogo_Subnet/Denison.md (32-section
-post-culture spec). This file captures open questions asked, answers given, and anything newly
-established through direct conversation.
-Session date: 2026-07-05
-
-## The developer's vision
-The city functions as one continuous, interlinked structure rather than separate buildings —
-comprehensively joined throughout — with a handful of landmark structures recognizable even at a
-distance through blowing snow. The most extreme wind-engineering identity of any Tepenian city.
-
-## Corrections/additions applied directly to other files this session
-- Specs/Denison.md and Local_Cultures/Janbogo_Subnet/Denison.md — the fully-interlinked
-single-structure city concept and the wind-engineering identity.
-- This session flagged that Denison had no Specs/ file at all — created immediately after.
-- A second flagged gap — no post-war refugee faction — was explicitly confirmed by the developer as
-not obligatory, so it's left open, not tracked as a to-do.
-
-## Still open
-- No post-war refugee faction (confirmed not obligatory, left open by choice)   ⛔ POST-WAR
-```
-— `City_Vision_Notes/Denison.md`, full 25 lines.
+> fact only; the notes are not copied into this sheet (trimmed 2026-10-27, developer-approved: vision material stays
+> out of frame, and no other city's datasheet carries a copy). File: `City_Vision_Notes/Denison.md` (25 lines).
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification
 (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

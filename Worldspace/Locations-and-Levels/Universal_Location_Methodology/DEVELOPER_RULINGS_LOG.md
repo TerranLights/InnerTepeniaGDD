@@ -1258,3 +1258,15 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Inspiration picks** | **Open.** To be gone over 2026-10-26. |
 | **Census narrative entry and tier table** | On hold until the population numbers are worked out. The census listing itself was renamed from the placeholder to Relung Panen on 2026-10-24 (15 lines). |
 
+---
+
+## `DR-62` · ✅ **TEMIRÖTKEL: THE FIRST ESTABLISHER IS KAZAKHSTAN, WITH A LATER CIN JOINT VENTURE** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"I'd say that Temirötkel was founded and established by Kazakhstan, and was later assisted in a joint venture with the CIN providing follow-up support."* |
+| **Recorded as** | **Founded and established by Kazakhstan.** Later assisted in a joint venture, with **the CIN providing follow-up support**. Then **industrialized primarily by Kazakh industrialists** (`DR-30`, unchanged). |
+| **Closes** | The open question left by `DR-30`: CIN or Kazakhstan as the first establisher. |
+| **Not ruled** | When "later" was; what the joint venture covered. Not invented. |
+| **Files updated the same day** | `Founding_Register.md` (row and change log), `Specs/Mawson subnet/Temirotkel.md` (`Founding population:`), and the Temirötkel datasheets `Step_1_and_2.md` and `Phase_2.md`. **Not touched:** `Local_Robot_Culture/Mawson_Subnet/Temirotkel.md` (withheld; still carries the open wording, for the post-ULM rewrite) and the historical records that quote the old wording. |
+

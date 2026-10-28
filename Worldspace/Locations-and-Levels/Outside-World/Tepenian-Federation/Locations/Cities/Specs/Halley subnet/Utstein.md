@@ -6,7 +6,7 @@
 **Status:** Destroyed *(finalized 2026-07-03, after two earlier revisions the same day — see Open Questions/history note below)* — ruins, explorable for loot/data/audio logs/lore, with straggling survivors who can anchor questline content
 **Arcanet Subnet:** Halley ("Atlantic")
 **Access type:** ON
-**Highway access:** Hwy 7-ext / Belgrano Highway Extension (eastern Halley subnet; Sør Rondane nunatak position); connection to Dome Fuji corridor TBD
+**Highway access:** Hwy 7-ext / Belgrano Highway Extension (eastern Halley subnet; Sør Rondane nunatak position); route: Lazar → Utstein → the Temirötkel Junction; Dome Fuji is reached from that junction by Hwy 37 *(`Highways.md`; corrected 2026-10-28 from "connection to Dome Fuji corridor TBD")*
 **Significance:** Named **Utstein** (native form **Utsteinen**), "the outer stone", the nunatak's own name (`DR-38`, 2026-10-03); the former name Princess Elisabeth was given for Princess Elisabeth of Belgium (born 2001), a namesake that is flavor only (`DR-32`); the most recently built of the Tepenian founding stations (opened 2009); designed from inception as a zero-emissions station — the first Antarctic station built to zero-waste, minimal-impact design principles; on Utsteinen nunatak in the Sør Rondane Mountains; the real station is famously exposed to gales up to 300 km/h, surviving only through deliberate aerodynamic engineering and deep permafrost anchoring rather than any natural shelter — a fact that directly informed this city's eventual destruction; the eastern position in Queen Maud Land puts it closer to Dome Fuji than to the western Halley subnet cities
 **DLC:** Halley subnet — DLC 5 (Atlantic Coastal Region); destroyed, ruins accessible with a small straggling survivor population
 
@@ -81,7 +81,7 @@ The station was designed by the International Polar Foundation as the first zero
 
 **Climate data source:** International Polar Foundation (IPF, Belgium) — Princess Elisabeth Antarctica; station opened 2009; limited climate record
 
-**Climate type:** Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; severe katabatic wind exposure (real station: gales to 300 km/h)
+**Climate type:** Inland Queen Maud Land nunatak, eastern sector — continental; Sør Rondane mountain position; cold, dry winters; sheltered by the Sør Rondane Mountains, mean wind about 6 m/s; extreme-event gales remain possible (real station: gales to 300 km/h) *(reworded 2026-10-28 to agree with the researched wind line below)*
 **Mean annual temperature:** approximately −18°C
 **Record extremes:** record high **+4.2 °C** (Dec); record low **-38.5 °C** (Aug) _(IMAU **AWS16**, *Utstein station* — ⭐ **0 km — this IS the station's own AWS**; **92,670 hourly observations**, 2009-02-02 to 2020-07-03. PANGAEA `10.1594/PANGAEA.974126`)_ *(researched 2026-09-04)*
 **Prevailing winds:** ⭐ **sheltered, and unusually so for its latitude.** The **Sør Rondane Mountains shield the Utsteinen ridge from the high-speed katabatic flow**; **mean wind 6 m/s — half that measured at the less-protected Asuka site nearby.** *(The ridge itself is still exposed to gales in extreme events.)* *(researched 2026-09-04)*
@@ -100,7 +100,7 @@ The station was designed by the International Polar Foundation as the first zero
 **Lost to sublimation and wind transport:** ~60 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **MIXED.** At **-18.0 °C** (11 cities are colder), this is an elevated inland site (**persistent katabatic drainage**) with **low precipitation (~200 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
+> ⚠ **MIXED.** At an annual mean of about **−18 °C** *(the stub climate file's figure, to be confirmed when the SANAE IV study is saved; "11 cities are colder" dropped 2026-10-28 under the law of one location)*, this is an elevated inland site, sheltered from the strongest katabatic flow by the Sør Rondane Mountains, with **low precipitation (~200 mm)** and **retention ~70%.** **Cold and wind both matter; neither is extreme by Tepenian standards.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

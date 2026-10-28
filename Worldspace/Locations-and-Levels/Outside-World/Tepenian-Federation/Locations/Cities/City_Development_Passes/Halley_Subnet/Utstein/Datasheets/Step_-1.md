@@ -12,7 +12,7 @@
 | Real-world basis | Princess Elisabeth Antarctica (Belgium / International Polar Foundation), Utsteinen nunatak, Sør Rondane Mountains, Queen Maud Land (~71°57'S, 23°21'E) | `Specs/Utstein.md` L5 |
 | Arcanet Subnet | Halley ("Atlantic") | `Specs/Utstein.md` L7 |
 | Access type | ON | `Specs/Utstein.md` L8 |
-| Highway access | Hwy 7-ext / Belgrano Highway Extension (eastern Halley subnet; Sør Rondane nunatak position); connection to Dome Fuji corridor TBD | `Specs/Utstein.md` L9 |
+| Highway access | Hwy 7-ext / Belgrano Highway Extension (eastern Halley subnet; Sør Rondane nunatak position); route: Lazar → Utstein → the Temirötkel Junction; Dome Fuji is reached from that junction by Hwy 37 *(`Highways.md`; corrected 2026-10-28 from "connection to Dome Fuji corridor TBD")* | `Specs/Utstein.md` L9 |
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Utstein.md` L10 |
 | Coordinates (as written in the same field) | ~71°57'S, 23°21'E | `Specs/Utstein.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Utstein.md` L6 |

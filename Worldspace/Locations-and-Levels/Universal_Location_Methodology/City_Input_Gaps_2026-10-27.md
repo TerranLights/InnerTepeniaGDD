@@ -1,0 +1,90 @@
+# What is still missing before each city's ULM run (2026-10-27)
+
+> ## ⏭️ TOMORROW (2026-10-29) — REMIND THE DEVELOPER OF ALL OF THESE
+> *(Developer, 2026-10-28: "make sure to remind me about Relung Panen, Amundsen Station and the Mirny leftovers.")*
+> 1. **Santa Luce:** scale ruling (small and intimate, or 0.6 to 1.0 million); whether it runs with its six old-founding culture inputs withheld or waits for their revisit; whether the MIXED label survives at −15 °C.
+> 2. **Climate:** Utstein (the SANAE IV PDF must be saved by hand from a browser), Sanay (monthly source), Cape Adare (proxy research).
+> 3. **Relung Panen** (not in the November run; four open fields, own status file), **Amundsen Station** (waits for its expansion; fails the sheet verifier by design) and the **Mirny leftovers** (finished pass, older-format sheet): the developer asked to be reminded of these three.
+> 4. **End-of-walk-through passes (not tomorrow unless asked):** README source-pointer sweep, Register gateway-label refresh, Dumont d'Urville and Zukelli names, census rework for Relung Panen then composition mismatches (Palmer City, Contrapunto, Byrd).
+> 5. **Uncommitted:** Casey, Denison, Janbogo, Temirötkel, Byrd, Utstein, Santa Luce edits and this report.
+
+
+**What this is.** A second look at every city against the ULM's own list of required inputs (`ULM_Input_Required_Reference.md`, read in full tonight), done at the developer's request ("see if there's absolutely any other information that the ULM requires… for any of the cities"). It builds on `City_Input_Audit_2026-10-21.md`. **Nothing here is a ruling; nothing was changed.**
+
+**How it was checked.**
+1. `Tools/audit_city_inputs.py --scope all` re-run tonight (40 presence tests per city, 34 cities).
+2. `Tools/verify_city_sheets.py` re-run for every city (20 checks on each city's datasheets and Pre-Trip sheet).
+3. Git diff of the widely cited files since the sheets were last verified (2026-10-23): only `Founding_Register.md` (two rows rewritten in place, two log lines appended at the end, no line shifted) and `Official_Population_Census.md` (note text only, no figure changed) moved.
+4. Each Pre-Trip sheet's "open rulings" section compared across cities (to separate city-specific rows from template rows).
+5. Reading, not searching: the Founding Register table, the November To-Do, Relung Panen's status file, the spec fields that can hold placeholders, the 2026-10-03 gateway research files, and the READMEs' source pointers.
+
+**What it cannot tell you.** Whether any value is *right* (that is the three-reader checks), and whether a spec contradicts itself in its prose (a presence test cannot see that). Items marked *(reported earlier, not re-measured)* come from the 2026-10-21 and 2026-10-23 reports and were not re-checked tonight.
+
+## Result in one paragraph
+
+**No city is missing a blocking input.** All 34 cities have Tier 0 complete, and every one clears the Tier 1 threshold (three of eight generators) with room to spare. The fresh audit's only GAP rows are: Santa Luce (no robot-culture sheet), Utstein, Sanay and Cape Adare (climate reader file is a stub), Relung Panen (four open fields, covered in its own status file), Amundsen Station (one row, a false positive: the picks entry exists under a double-name heading), and Davis (a finished city). **Every city still to run passes the sheet verifier** (the only two failures are Amundsen Station, which waits for its expansion, and Mirny, whose older-format sheet belongs to a finished pass). What is left is a short list of stale or unfinished items, below. Three of them are new tonight: **Santa Luce's spec and datasheets still carry the founders from before the two-Italys ruling**, **24 city READMEs point at a spec path that no longer exists**, and **Zukelli and Scott have no gateway research behind their founding rows.**
+
+## A · Applies to many or all cities
+
+| # | Item | Cities | Blocks? | What would fix it |
+|--:|---|---|---|---|
+| A1 | ⏸️ **DEFERRED TO THE END (developer, 2026-10-27: "we'll save the relabeling passes till the end").** **The READMEs' source pointers are stale.** 24 pass-folder READMEs list the spec as `Specs/<City>.md`; the files live in `Specs/<Subnet> subnet/<City>.md` (Casey's README has the right form). Seven renamed cities' READMEs also point their culture and vision files at the old names (Santa Luce, Utstein, Temirötkel, Ariun Nuur, Contrapunto, Pergamino, Puerto Abrigo). The Pre-Trip sheets and datasheets resolve correctly, so this bites only a session that follows the README. | 24 + 7 | No (the Pre-Trip is the working address book) | One sweep of the README tables. Needs your OK (existing files). |
+| A2 | **Template open row in every Pre-Trip sheet:** the Founding Register is not in the Phase 2 table. Founders come only from the Register, but the template's Phase 2 rows predate it. | all sheets | No | Your decision: add it to the Phase 2 rows, then a regenerate. |
+| A3 | **Alias set in each sheet is a mechanical draft.** The developer or the first pass confirms it before the hit lists are relied on. | all except the hand-built | No | Confirmed at each city's first step. |
+| A4 | **"Gateway claim not yet researched"** still appears on 9 Register rows. Research exists for 7 of them (the Peninsula four: Pergamino, Puerto Abrigo, Contrapunto, Signy; and Adélie/Commonwealth Bay/Bunger Hills: Dumont d'Urville, Denison, Relung Panen, in the 2026-10-03 gateway files, port ruled Ushuaia and Hobart). **Zukelli and Scott have no gateway research at all.** The label is stale for 7 and true for 2. | 9 | No (founders are ruled) | Research for the Ross Sea two; refresh the label. |
+| A5 | **The inspiration picks.** Every city has a tiered picks entry (T2-4, 37/37). The 3,271 new candidates are drafted and reviewed with you but **not merged or tiered into `Inspirational-Influences.md`**, and the two research rounds are done only for the eight Mirny-subnet units (Shirayuki's second round partial; Dumont d'Urville and Denison first round partial). **About 27 city units have had no research round.** The ULM treats the research as its own Step 3 work, so this is not a required input; it is your plan's pre-staging. | all | No | Your decision on merging/tiering; research rounds under the search budget. |
+| A6 | **Known and ruled non-blocking (do not re-raise):** Economy & Industry sections that say "TBD for DLC N" (25 cities; the real source is the Division-of-Industry row); named in neither history source (Santa Luce, Utstein, Sanay, Troll, Mirny, Relung Panen: a canon gap deferred out of input prep); no Census II row (Byrd, Dome Fuji, Kunlun, Ariun Nuur: by design); concept art folders without images (27 of 30: optional). | various | No | Nothing. |
+
+## B · City by city (the 30 November cities, in run order)
+
+| City | Missing or unfinished | Source | Blocks? |
+|---|---|---|---|
+| **Casey** | ✅ **Done 2026-10-27 (developer-approved):** six Phase 7 rows trimmed to value + citation; the Phase 3 ruin row kept and relabeled as a separate category. Verifier: 0 FAIL. Nothing else. | 10-23 coverage report | No |
+| **Kunlun** | Nothing found. | audit + verifier | No |
+| **Ariun Nuur** | Nothing found. README still names Vostok in three pointers (A1). | audit | No |
+| **Dumont d'Urville** | **Needs a new name** (`D-2`; developer 2026-10-27: "I'll figure out a new name later"); its datasheets are to be rebuilt at the rename. Gateway research exists, label stale (A4). First research round partial. | November To-Do D-2 | No |
+| **Denison** | ✅ **Done 2026-10-28 (developer-approved):** the Step −1 datasheet no longer quotes or describes later-era content (header fields neutralized, exclusion table names sections by line range only, the copied vision notes removed, path kept). Verifier: 0 FAIL. Gateway label stale (A4, at the end). First research round partial. | 10-23 coverage report | No |
+| **Cape Adare** | **Climate reader file is an 8-line stub: no real station at the cape, so it needs a proxy ruling.** ⏸️ **SAVED FOR REAL RESEARCH 2026-10-28 (developer: "This is something that will require research before we sign off on it").** Candidates so far: Possession Island AWS (~75 km SE), Cape Ross AWS, others to be researched; nothing changed in the spec. The spec's `Founding population:` line still ends "TBD", while the Register says "mixed, empty slot by ruling" (spec wording stale). | audit; spec L213; Register | No |
+| **Janbogo** | ✅ **Done 2026-10-28 (developer-approved):** the spec's design note (L122) said polar night ~64 days; corrected to ~95 days (May 6 → Aug 8) to match the climate block, the monthly table and Zukelli's spec. One line replaced in place, so no citation moved. **Left for the post-ULM culture-sheet rewrite:** `Local_Cultures/Janbogo_Subnet/Janbogo.md` L54 still says "May 20 to July 23, about 64 days" (withheld material). | audit; spec L80, L122 | No |
+| **Fort McMurdo** | Nothing found. | audit | No |
+| **Scott** | **No gateway research** (A4). Name audit deferred. | Register; To-Do D-2 | No |
+| **Zukelli** | **Needs a new name** (D-2); datasheets rebuilt at the rename. **No gateway research** (A4). The Register keeps a note that Zukelli *may* be re-founded by a different nation (`FQ-20`, undecided). | Register; To-Do D-2 | No |
+| **Mawson** | Name audit deferred (D-2). Nothing else. | To-Do | No |
+| **Temirötkel** | ✅ **Done 2026-10-28 (developer ruling `DR-62`):** founded and established by Kazakhstan, later assisted in a joint venture with the CIN providing follow-up support, then industrialized by Kazakh industrialists. Register row, spec `Founding population:` and the two datasheet quotes updated; the robot-culture sheet (withheld) still carries the old open wording for the post-ULM rewrite. | Register; `DR-62` | No |
+| **Dome Fuji** | **Official name pending** (in-world, a Modern Hawaiian term; "The Temple" until the language exists). No Census II row (by design). | rulings; To-Do | No |
+| **Esperanza** | Nothing found. | audit | No |
+| **Pergamino** | Nothing found. | audit | No |
+| **Marambio** | Nothing found. | audit | No |
+| **Palmer City** | The spec's composition table disagrees with the census table ⏸️ **DEFERRED (developer, 2026-10-28): the census is to be reworked later to account for Relung Panen, which was not in the repo when the census was done.** *(reported 10-21, not re-measured; both are quoted, the census governs)*. Concept-art filenames carry later-era words *(reported)*. | 10-21 audit | No |
+| **Puerto Abrigo** | Nothing found. | audit | No |
+| **Rothera** | Name audit deferred. Concept-art filenames carry later-era words *(reported)*. | To-Do | No |
+| **Contrapunto** | The spec's composition table disagrees with the census table ⏸️ **DEFERRED (developer, 2026-10-28): the census is to be reworked later to account for Relung Panen, which was not in the repo when the census was done.** *(reported)*. | 10-21 audit | No |
+| **Signy** | Name audit deferred. | To-Do | No |
+| **Byrd** | The spec's composition table disagrees with the census table ⏸️ **DEFERRED (developer, 2026-10-28): the census is to be reworked later to account for Relung Panen, which was not in the repo when the census was done.** *(reported)*. ✅ **FIXED 2026-10-28:** spec polar night "~108 days" → "~129 days" and midnight sun "~128" → "~131" (both now match the spec's own climate table and the geometry at 80° S; cross-city comparisons dropped; line numbers unchanged, datasheet citations hold). The aviation "contradiction" is a frame question: the airport was operational in the Second Interwar (`Airports.md`); the grounded-fleet prose is post-war and the datasheets already exclude it. Per-level research for its DLC comes later, not a ULM input. | 10-21 audit; item 13 | No |
+| **Halley** | **The Register marks it "✅ (partial)": the UK in a central role is ruled, the rest of the founding is not.** ✅ **CONFIRMED 2026-10-28 (developer): the UK-central founding holds; the time zones are aligned enough that it makes geographical sense.** "Partial" means Halley was partially founded by the UK (one founder among others, the others unnamed); the label is accurate and is not a relabeling item. Nothing further is needed as an input. | Register | No |
+| **Belgrano** | Nothing found. | audit | No |
+| **Lazar** | Standing caveat: do not cite a mandate figure from its Division-of-Industry row. | audit | No |
+| **Neumayer** | **Its motion or relocation is deferred** (parked 2026-10-27; the real station is raised vertically and drifts with the shelf). Name audit deferred. | deferred list | No |
+| **Santa Luce** | ⏸️ **PARKED UNTIL THE MORNING (developer, 2026-10-28) for the two items needing a decision.** ✅ **FIXED 2026-10-28 (no decision needed; developer asked what could be fixed without one):** (1) founding lines in spec L133/L135 and datasheets `Phase_2` L22 and `Step_1_and_2` L33–35 now carry the two-Italys wording (`DR-60`) and the Register's current row, verbatim; (2) spec L98 "-25.0 °C (6 cities are colder)" → "an annual mean of about −15 °C" (matches L80 and the measured Aboa record). Line counts unchanged, verifier 0 FAIL. Open on (2): whether the MIXED label survives at −15. Still needs the developer's call: (3) scale, (4) whether Santa Luce runs with its six old-founding culture inputs withheld or waits for their revisit. **Original entry:** **(1) Stale founders: the spec (`Settled:` L133, `Founding population:` L135) and the datasheets (`Phase_2` L22, `Step_1_and_2` L33–35) still say "Italy and the CIN, jointly, time-zone proximity", from before the two-Italys ruling (`DR-60`, Magna Lombardia and Meridia, management from Magna Lombardia).** The Register is current. **(2) No robot-culture sheet** (read at Step 5): the revisit tracker is paused. **(3) Scale ruling open** (small and intimate, or 0.6 to 1.0 million). **(4) A spec contradiction on your list** (annual temperature −15 vs −25 °C, item 13). | spec; datasheets; audit; item 12–13 | No |
+| **Utstein** | ✅ **Highway line and wind contradiction FIXED 2026-10-28 (developer-approved):** spec L9 now gives the Hwy 7-ext route and says Dome Fuji is reached from the Temirötkel Junction by Hwy 37 (`Highways.md`); L84 reworded to agree with the researched "sheltered, ~6 m/s" line; L103 callout lost "11 cities are colder" and "persistent katabatic drainage" (its −18 °C is the stub file's figure, flagged provisional). Datasheets `Step_-1` L15 and `Step_1_and_2` L16 updated to match; line counts unchanged; verifier 0 FAIL. ⏸️ **Climate file still waits for the SANAE IV PDF (developer, tomorrow).** **Original entry:** **Climate reader file is a stub** (its annual and February figures agree with a Belgian catalogue; July is 5 °C colder; a SANAE IV study PDF is still to be saved from a browser). **The spec's `Highway access:` says "connection to Dome Fuji corridor TBD".** A spec-prose contradiction on your list (wind, item 13). | audit; spec L9 | No |
+| **Sanay** | ⏸️ **SAVED FOR TOMORROW (developer, 2026-10-28), together with Utstein's SANAE IV file and Cape Adare's proxy research.** Only gap. **Climate reader file is a stub; no monthly source found** (the Stellenbosch archive hangs; the open-access thesis has only an assumed −20 °C average). | audit; To-Do log | No |
+| **Troll** | Nothing found. | audit | No |
+
+## C · Not in the November run
+
+| City | State |
+|---|---|
+| **Relung Panen** | Per its own status file: nothing blocks. Open: the Division-of-Industry per-city row, the picks entry, the census narrative entry and tier table (on hold for the population work); port, airport and founding-story details are deferred rulings, not requirements. Its spec `Settled:` line still says when and how the settlement began remain open. |
+| **Amundsen Station** | Waits for the developer's expansion. Its datasheets were built before the 10-23 completion pass and **fail two verifier checks** (coverage lines on the phase sheets; the Division-of-Industry reliability sheet citation). No nested concept-art folder. The audit's picks GAP is a false positive (the entry exists under "Amundsen Station · Amundsen-Scott Station [reference-only]"). |
+| **Concordia** | District method; the per-district inspiration lists are in progress (pilot tomorrow morning). |
+| **Mirny** | Finished pass awaiting your declaration; leftover blocks (wind re-derivation, cap-starved research, the "lived middle"), the Planet symbol (held). Its older-format Pre-Trip sheet fails the verifier's spine-address check. |
+
+## D · The short list I would take to the developer
+
+1. **Santa Luce:** update the spec's founding lines and the datasheet rows to the two-Italys ruling (the Register already has it). The only item where a pass would read wrong founders.
+2. **Climate:** Cape Adare proxy ruling; Sanay and Utstein monthly tables (Utstein needs the SANAE IV PDF saved by hand).
+3. **Zukelli and Scott gateway research;** refresh the "not yet researched" label on the other seven.
+4. **The README pointer sweep** (A1) and the template's Phase 2 decision (A2).
+5. **Your calls on already-listed items:** Casey's six Phase 7 rows and the ruin row; Denison's 11 Step −1 lines; Temirötkel's first establisher; Halley's partial founding; Cape Adare's "TBD" wording; Utstein's Dome Fuji corridor line; Santa Luce's scale.
+6. **Names:** Dumont d'Urville and Zukelli still need new names; the audit of Rothera, Signy, Neumayer, Scott and Mawson is deferred.
+7. **The inspiration picks:** whether to merge and tier the new candidates before the ULM, and when to run the ~27 research units.

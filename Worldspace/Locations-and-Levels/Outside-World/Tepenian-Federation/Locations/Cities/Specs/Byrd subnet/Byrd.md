@@ -194,7 +194,7 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 
 - **Buried infrastructure:** snow accumulation is a persistent reality; structures that are not actively maintained against snow loading eventually become submerged; this is not a dramatic event but a slow constant pressure on the city's surface architecture
 - **West Antarctic Ice Sheet dynamics:** the ground beneath Byrd is not geologically stable in the way East Antarctic bedrock is; slow subsurface movement and ice sheet dynamics create long-term structural concerns that the city has always had to manage
-- **Polar night (~108 days):** long, though slightly shorter than Fort McMurdo's 118 days; the absence of coastal aurora-generating factors means the Aurora Australis displays at Byrd are excellent but the atmospheric context is starker than a coastal site
+- **Polar night (~129 days, about Apr 19 → Aug 25):** long and unbroken *(corrected 2026-10-28 from "~108 days, slightly shorter than Fort McMurdo's 118", which contradicted this file's own climate table above and the sun's geometry at 80° S; the cross-city comparison is dropped under the law of one location)*; the absence of coastal aurora-generating factors means the Aurora Australis displays at Byrd are excellent but the atmospheric context is starker than a coastal site
 - **Precipitation:** higher than the polar desert conditions of Concordia; Byrd gets meaningful snowfall, which combined with the burial dynamics makes snow management an ongoing civic concern
 
 #### Gameplay Notes
@@ -202,7 +202,7 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 - **The buried city:** the layered stratigraphy of Byrd — surface city above, older buried sections accessible by tunnel — is a major environmental design asset; the buried sections are a dungeon-like underworld of older Tepenian construction, abandoned equipment, and sealed-off history
 - **Structural precarity:** West Antarctic Ice Sheet instability could manifest as a slow-burn environmental threat in DLC 2 — not a sudden disaster, but a city that is aware its foundations are not entirely trustworthy; some sections may have already been evacuated due to structural concerns
 - **Isolation character:** Byrd's poor road/highway connection means the DLC 2 setting would feel more genuinely cut off than Concordia does; getting there is part of the challenge
-- **Midnight sun (~128 days):** the longest midnight sun period of any Tepenian city; the DLC 2 setting could lean heavily into the psychologically strange quality of months of unbroken daylight in an isolated struggling city
+- **Midnight sun (~131 days, about Oct 18 → Feb 25):** *(corrected 2026-10-28 from "~128 days, the longest of any Tepenian city", to match the climate table above; the cross-city superlative is dropped under the law of one location)* the DLC 2 setting could lean heavily into the psychologically strange quality of months of unbroken daylight in an isolated struggling city
 - **Hardcore Mode influences:**
   - Snow management as an active mechanic: accumulation on exposed equipment, blocked pathways, buried access points are ongoing practical problems in Byrd rather than occasional events
   - Structural hazard zones: sections of the city condemned due to ice sheet movement would be off-limits or dangerous to enter — a Hardcore Mode player pushing into condemned areas faces structural collapse risk
