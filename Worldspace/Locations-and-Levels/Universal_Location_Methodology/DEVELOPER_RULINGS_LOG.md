@@ -1270,3 +1270,48 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Not ruled** | When "later" was; what the joint venture covered. Not invented. |
 | **Files updated the same day** | `Founding_Register.md` (row and change log), `Specs/Mawson subnet/Temirotkel.md` (`Founding population:`), and the Temirötkel datasheets `Step_1_and_2.md` and `Phase_2.md`. **Not touched:** `Local_Robot_Culture/Mawson_Subnet/Temirotkel.md` (withheld; still carries the open wording, for the post-ULM rewrite) and the historical records that quote the old wording. |
 
+
+---
+
+## `DR-63` · ✅ **THE RASTRA: THE LATER-ERA WORKING SPEED IS 45 KM/H** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"I think that 'Advanced tracked/hybrid' (45 km/h) is a reasonably good metric to establish as a base-of-reference. Let's go with that, as being official for later-era Rastras (i.e., once Tepenians have gotten the hang of actually building them)."* |
+| **Recorded as** | **A later-era Rastra (the mature design, after Tepenians had learned to build them) cruises at about 45 km/h: the "advanced tracked or hybrid" tier.** It is the base of reference for overland travel times. |
+| **Why that number** | Real-world anchors (general research, 2026-10-28): the Kharkovchanka cruises at 30 km/h (56 max) with about 1,500 km of fuel range; common tracked Antarctic vehicles run about 15 km/h; Ivan the Terra Bus topped out near 40 km/h; Arctic Trucks AT44s averaged about 21 km/h over a 2,308 km run to the Pole; China's Snow Leopard 6x6 does 28 to 42 km/h on snow and 65 km/h on solid ice (about 700 km range). 45 km/h is better than the old design without making a 3,000 km trip a day-and-a-half drive. |
+| **Not ruled** | The early Arrastradoras and first-generation Rastras (slower; the Kharkovchanka-class 30 km/h figure is only a stand-in); range and fuel; passenger or cargo capacity; whether 45 km/h is a cruise or an all-in average (the working assumption is cruise, with a 10 to 15% allowance for stops, which is not ruled). `City_Logistics.md` still lists "full Rastra fleet details" as open. |
+| **Derived travel times (road lengths estimated, not canon)** | From Amundsen Station at 45 km/h, 20 h/day driving: Byrd (Hwy 22, ~1,277 km) ~28 h / 1.4 days; Janbogo or Zukelli (Hwy 175, ~1,960 km) ~44 h / 2.2 days; Concordia (Hwy 175 then Hwy 183, ~3,306 km) ~73 h / 3.7 days. Saved in `Population_Scenario_Santa_Luce_Redistribution_2026-10-28.md`, section 6. |
+| **Files changed** | Only this log and the scenario file. No spec, logistics file or megasheet was edited. |
+
+---
+
+## `DR-64` · ✅ **SPACE WORKERS ON LEAVE: A NATIONAL CUSTOM OF WELCOME, AND WHERE THEY REST** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, in substance** | Workers on leave from outer space generally take trips to **Byrd, Concordia, or Janbogo/Zukelli** and rest there. In those four cities **a culture of welcoming space workers exists**. **That culture exists throughout the entire country**; space workers usually take leave in those four only because they are the fastest cities to reach from Amundsen Station. They often stay with friends and family there. |
+| **Recorded as** | **A national custom: space workers on leave are welcomed everywhere in Tepenia.** In practice most go to **Byrd, Concordia, Janbogo or Zukelli** (the nearest by road from Amundsen Station) and often stay with friends and family. Guests, not residents: they stay counted in the space-workforce group, not in the city they visit. |
+| **Amundsen Station's role** | It keeps **hostel- or barracks-style infrastructure, not homes**, only for the **share of workers on leave who have no friends or family to go to**. That keeps the station's scientists, engineers, cooks, chefs and other staff a **solid majority** of its population at any time. |
+| **Not ruled** | Why the custom exists or what it is called; its form (meals, hospitality, honors); whether it applies to the maritime fleet (their shore leave is already ruled as staying with friends and family in their home cities, in the scenario file); the exact destination split (the scenario file's inverse-travel-time split is illustrative). |
+| **Files updated the same day** | This log; `Population_Scenario_Santa_Luce_Redistribution_2026-10-28.md` (section 7). **Not touched:** `Specs/Amundsen_Station.md`, the Byrd, Janbogo, Zukelli and Concordia specs, `Local_Cultures`, `Local_Robot_Culture`, megasheets, the census. The custom is not yet in any city's culture file. |
+
+## `DR-65` · ✅ **THE WORKING SHARE OF SPACE WORKERS ON LEAVE WHO STAY AT AMUNDSEN STATION IS 20%** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"I would say the 20% staying share should be the working number, indeed."* |
+| **Recorded as** | **A working number, not a final figure:** about **20%** of space workers on leave stay in Amundsen Station's hostel. |
+| **What it gives (scenario file, section 7)** | With the scenario's assumptions (30-day break at 12.5% resting, 45 km/h): about **287 hostel beds** in Census I (about 330 with a 15% surge allowance) and about **198** in Census II (about 228 with surge). About 4% of Amundsen Station's 6,857 (Census I) or 4,891 (Census II) residents. |
+| **Depends on assumptions not ruled** | The space/sea split (50/50 assumed), the resting share (12.5%), the break length, and the surge allowance. If any change, the bed count changes with it. |
+| **Files updated the same day** | This log and the scenario file only. |
+
+## `DR-66` · ✅ **BYRD'S SHARE OF SPACE WORKERS ON LEAVE IS HELD NEAR THE OTHERS'; THE OVERFLOW GOES TO OTHER CITIES** *(2026-10-28)*
+
+| | |
+|---|---|
+| **Developer, in substance** | Keep Byrd's number down to roughly the same range as the others (Janbogo, Zukelli, Concordia). Whatever overflow that produces, those workers spend their resting periods in **other cities throughout the country**. |
+| **Recorded as** | Space workers on leave at Byrd at any moment stay in the same range as at each of Janbogo, Zukelli and Concordia (about 155 in Census I, about 107 in Census II). The rest of what would have gone to Byrd rests in **other cities across the country**, under the national welcoming custom (`DR-64`). |
+| **Numbers (scenario file, section 8; working assumptions)** | Census I: Byrd about 156 at once (was about 505); overflow about 390 workers on leave, about 300 at destinations and about 90 on the road at any moment, about 9 per city across the other 33. Census II: Byrd about 107 (was about 348); overflow about 269, about 207 at destinations, about 62 on the road, about 6 per city. |
+| **Not ruled** | Which other cities receive them or in what proportions (the scenario spreads them evenly over 33, which is only an illustration); the overflow's travel times (an average 7-day round trip assumed); robot-only Kunlun and Dome Fuji cannot host humans, so human space workers cannot rest there. |
+| **Files updated the same day** | This log and the scenario file (section 8). |
