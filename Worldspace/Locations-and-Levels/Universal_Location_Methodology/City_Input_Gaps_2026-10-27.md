@@ -5,6 +5,7 @@
 > 1. **Santa Luce:** scale ruling (small and intimate, or 0.6 to 1.0 million); whether it runs with its six old-founding culture inputs withheld or waits for their revisit; whether the MIXED label survives at −15 °C.
 > 2. **Climate:** Utstein (the SANAE IV PDF must be saved by hand from a browser), Sanay (monthly source), Cape Adare (proxy research).
 > 3. **Relung Panen** (not in the November run; four open fields, own status file), **Amundsen Station** (waits for its expansion; fails the sheet verifier by design) and the **Mirny leftovers** (finished pass, older-format sheet): the developer asked to be reminded of these three.
+> 3b. **ALSO TOMORROW (developer, 2026-10-28, before bed): research, design & development, and determination for Relung Panen and Amundsen-Scott** *(Amundsen Station, the city: confirmed by the developer, 2026-10-28)*. **Among other things, both still need their Division of Industry established.** Relung Panen's own status file and `RESEARCH_TO_DO_LATER.md` hold its open fields, the geology and tunnel research, and its pending port/airport/picks items.
 > 4. **End-of-walk-through passes (not tomorrow unless asked):** README source-pointer sweep, Register gateway-label refresh, Dumont d'Urville and Zukelli names, census rework for Relung Panen then composition mismatches (Palmer City, Contrapunto, Byrd).
 > 5. **Uncommitted:** Casey, Denison, Janbogo, Temirötkel, Byrd, Utstein, Santa Luce edits and this report.
 
