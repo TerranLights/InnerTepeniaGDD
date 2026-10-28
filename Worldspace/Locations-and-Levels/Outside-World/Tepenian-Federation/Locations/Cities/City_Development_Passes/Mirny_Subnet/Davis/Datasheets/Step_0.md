@@ -9,7 +9,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Type + modifiers | Settlement, NO MODIFIERS ASSIGNED (zero modifiers is a ruled result, not a gap) | `00_Frame.md` §0.1, L60–63 |
-| Population band | 5 — Regional (~1M–50M), 1,182,231 | `00_Frame.md` §0.1, L65–67; ruled by `DR-4` |
+| Population band | 5 — Regional (~1M–50M), 1,158,314 | `00_Frame.md` §0.1, L65–67; ruled by `DR-4` |
 | Extent band | UNDETERMINED — blocked check, filed `REQUESTED` | `00_Frame.md` §0.1, L75–81 |
 | Status | LIVING (explicitly not `Declining`) | `00_Frame.md` §0.1, L83–90 |
 | Temporal frame | Second Interwar, 2564–2812 (248 years); Act 1 is the earlier part, a hazy range not yet dated | `00_Frame.md` §0.1, L92–105 |
@@ -20,7 +20,7 @@
 | Generators available (6 of 8 countable) | G1 lopsided (0) · G2 ✅ · G3 ✅ (one line) · G4 ✅ · G5 ⚠ · G6 ⛔ recorded null · G7 ⚠ · G8 ✅ (richest) | `00_Frame.md` §0.1, L145–149 |
 | Generators selected | G2, G4, G8 primary; G3 carried as a fourth deliberately (fragile, must be exercised) | `00_Frame.md` §0.1, L150–152 |
 | Run mode | WARM | `00_Frame.md` §0.1, L157 |
-| Census I / II (repeat of Step −1's, kept for this file's own completeness) | I: 575,738 H / 606,493 R / 1,182,231 · II: 445,531 H / 351,912 R / 797,443 | `00_Frame.md` L89–90; `Official_Population_Census.md` L494/L613 |
+| Census I / II (repeat of Step −1's, kept for this file's own completeness) | I: 563,599 H / 594,715 R / 1,158,314 · II: 437,423 H / 344,173 R / 781,596 | `00_Frame.md` L89–90; `Official_Population_Census.md` L494/L613 |
 | Retention (computed; formula = retained ÷ Census-I count) | combined 67.48% · human 77.61% · robot 57.87% · spread 19.74 pp | `00_Frame.md` §0.6, L344–347 |
 | Symbol pair standing | Planet half (Earth) RATIFIED, readable · Element half (Earth) RESERVED under `DR-1`, no finding may rest on its meaning | `00_Frame.md` §0.1 Configuration note; `01_Inherited.md` (Davis's own pair, `City_Symbol_Assignments.md` L92) |
 | Robot physiology governing fact | Robots are 51.34% of Census I — every phase is about them | `00_Frame.md` §0.2, L238 |
@@ -41,7 +41,7 @@ by Phase 0's contract rather than by the declaration block.)*
 |---|---|---|
 | **U** `Repo_Scope.md` | Tier U — this project's repo-boundary statement (this repo holds what happened and why, never what a player does about it) | `00_Frame.md` §0.5 item 3, cites `Repo_Scope.md` |
 | **U** Timeline Eras | Second Interwar (2564–2812), 248 years | `00_Frame.md` §0.1, L92 |
-| **P** Census + location registries | Census I: 575,738 H / 606,493 R / 1,182,231 · Census II: 445,531 H / 351,912 R / 797,443 | `Official_Population_Census.md` L494, L617 (via `00_Frame.md` L89–90) |
+| **P** Census + location registries | Census I: 563,599 H / 594,715 R / 1,158,314 · Census II: 437,423 H / 344,173 R / 781,596 | `Official_Population_Census.md` L494, L611 (via `00_Frame.md` L89–90) |
 | `## Canon opened` receipt | Present at `00_Frame.md` — see its own §0.4 mandated-read-order table | `00_Frame.md` §0.4 |
 
 **Not mechanical / not included here:** the Type+modifiers declaration, generator selection, the asymmetry

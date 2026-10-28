@@ -15,7 +15,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — Mirny's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.25 · Humans 678,041 · Residents 1,375,348 · Required workforce 368,677 · Workforce 1,036,328 · **% of workforce required: 35.6%** | `09_Per_City_Baseline_Run.md` L71 |
+| `09_Per_City_Baseline_Run.md` §2 — Mirny's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.25 · Humans 665,901 · Residents 1,351,430 · Required workforce 362,213 · Workforce 1,018,480 · **% of workforce required: 35.6%** | `09_Per_City_Baseline_Run.md` L71 |
 | Cross-check against `16`'s own row (cross-ref `Phase_1.md`) | Workforce figure matches exactly (1,018,480 / 1,018,480) — no discrepancy between the two sources | `16_Per_City_Three_Tier_Run.md` L275 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` | Checked, **zero hits for Mirny** by name | Re-verified this turn |
 | `National_Medical_and_Care_Institutes.md` | Checked, **zero hits for Mirny** by name — this city is not one of the three national institute sites | Re-verified this turn |

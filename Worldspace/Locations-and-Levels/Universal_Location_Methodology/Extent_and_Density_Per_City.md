@@ -628,7 +628,7 @@ Foothills. *Same shape, one subnet over.*
 | **Dome Fuji** | Mawson | 55,072 | 6 | 8 | **Dome F** |
 | **Amundsen Station** | Amundsen | 6,857 | 1 | 1 | **South Pole** |
 
-**26,880,794 people needing 2,688–3,840 km² between them.** ✅ **All of it available.**
+**26,880,794 people needing 2,688–3,840 km² between them.** ✅ **All of it available.** *(Snapshot note, 2026-10-28: the table above records the 2026-09-05 populations, several of which predate that day's trims; the current Census I for the same 25 cities sums to 26,195,237, needing 2,620–3,742 km², still all available. The table was left as the dated record; the census is the live source.)*
 
 ## ⛔ A CORRECTION TO §8, SAME DAY
 
