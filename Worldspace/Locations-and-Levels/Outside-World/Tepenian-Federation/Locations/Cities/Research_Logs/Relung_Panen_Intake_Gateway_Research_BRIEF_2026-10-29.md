@@ -1,0 +1,51 @@
+# International intake for the Australian side: the agent briefs (saved 2026-10-29 so an interrupted agent can be re-dispatched)
+
+**Why this research exists.** The developer ruled (2026-10-29, `DR-82` in `ULM/DEVELOPER_RULINGS_LOG.md`): in **summer**, international immigration and supply shipping from or via Australia run through a **seasonal sea gateway that goes out to meet the arrivals**; in **winter**, immigration only, by air, to a **separate coastal airport that is fully isolated and reachable only by air**, where customs and immigration processing happen; processed arrivals **fly on to Mirny**; the summer supply ship **stocks the winter airport** for the winter. Developer: *"go ahead and do whatever research is necessary."* Site, name, runway type, months, the gateway's form and passenger numbers are **not decided**. **The agents research the real world only: real conditions, real places, real precedents. They do not design the fictional gateway or airport and make no recommendation.**
+
+**Four units, run in parallel, each with its own output file (this folder):**
+
+| Unit | Output file |
+|---|---|
+| A · Winter aviation and the short onward hop | `Relung_Panen_Intake_A_Winter_Aviation_2026-10-29.md` |
+| B · Candidate sites for an isolated coastal winter airfield | `Relung_Panen_Intake_B_Airfield_Sites_2026-10-29.md` |
+| C · Processing arrivals at an isolated place or at sea | `Relung_Panen_Intake_C_Processing_Precedents_2026-10-29.md` |
+| D · Running a seasonal sea gateway | `Relung_Panen_Intake_D_Sea_Gateway_Operations_2026-10-29.md` |
+
+**Dispatch settings:** `general-purpose`, `model: opus`; at most four research agents at once; the WebSearch budget is 1,000 per session shared by all agents. Each agent edits only its own output file; no sub-agents; on a refused search it stops and writes a STOP note; on a blocked page it notes it and moves on. An interrupted agent is resumed by dispatching the same unit again: it reads its file and skips ticked items.
+
+## Already known (read first; do not repeat)
+- `Casey_Mirny_Airport_Operations_Research_2026-10-29.md` and `Casey_Mirny_Airport_Geology_Research_2026-10-29.md` (Wilkins runway, its melt closure and temperature limit, Australian "isolated destination aerodrome" fuel rules, Hobart-Wilkins A319, Mirny's 1.3 km snow strip, Mirny and Casey winds, Progress "Zenit" runway, real passenger processing at Hobart, Christchurch, Punta Arenas), and the summary `Casey_Mirny_Airport_Comparison_2026-10-29.md`.
+- `Relung_Panen_Ocean_Research_2026-10-29.md` (sea state, waves, sea-ice cover by month, tides) and `Relung_Panen_Ocean_Research_2026-10-29_items3-8.md` (currents, sea ice, icebergs, wind over the water, ship access and the pack-ice belt, floating and moored precedents).
+- `Relung_Panen_Port_Research_2026-10-25_A…` to `…_D…` (the Shackleton Ice Shelf, how the Bunger Hills have been reached, ice-front landings).
+Units read only the parts that bear on their own items.
+
+## Unit A · Winter aviation in Antarctica and the short onward hop
+1. **Real winter (roughly April to October) flights into Antarctica by jets or heavy aircraft:** the McMurdo winter fly-in (WINFLY) and winter medical evacuations (McMurdo, Rothera, Davis/Casey, South Pole), Russian, Norwegian and other winter flights (Novo, Troll, Progress), and how often each is planned, flown, delayed or canceled. Aircraft used, distances, round-trip fuel practice.
+2. **Flying and landing in darkness and low light:** night-vision and lighting methods used on Antarctic ice and snow runways, approach aids, and the weather minimums actually applied.
+3. **Cold limits:** what temperatures aircraft, fuel and ground equipment are rated for, and what real operations do at −20 to −40 °C.
+4. **Keeping an ice, snow or sea-ice runway open through winter:** grooming, snow removal, staff numbers, equipment, and how surfaces behave in winter versus summer (Pegasus, Phoenix, Wilkins, Zenit, Troll, Novo, Union Glacier, and sea-ice runways such as the McMurdo annual sea-ice runway and the Mario Zucchelli sea-ice landing).
+5. **The short onward hop to Mirny:** what short-haul Antarctic aircraft (Basler BT-67, Twin Otter, others in use) can do in winter (range, payload, passenger seats, crosswind and temperature limits, skis versus wheels); the history of Mirny's airfields (the Soviet runway and the present strip), Mirny's wind direction and crosswind exposure, and any record of winter flights at Mirny.
+FINAL: what the sources support and do not support about winter air intake on this coast; NOT FOUND list. No recommendation.
+
+## Unit B · Candidate sites for an isolated coastal winter airfield
+Survey real places on the East Antarctic coast **from about 85°E to about 115°E** that could hold a runway long enough for a long-range jet (about 3 km), and report facts for each. **Exclude** the immediate surroundings of Mirny station, the Bunger Hills oasis, Casey station and the Windmill Islands, and Davis station and the Vestfold Hills. Candidates to check (add others found): Drygalski Island, Mill Island and other ice-capped islands; Haswell and the other Haswell Islands; the Davis Sea fast ice off Mirny (as a winter sea-ice runway); the Shackleton Ice Shelf and West Ice Shelf surfaces; blue-ice areas near the coast; ice domes and slow-ice areas such as Law Dome's western slope.
+For each: position; distance to Mirny; size and shape of usable flat area; surface (blue ice, compacted snow, firn, rock, sea ice); ice speed; elevation and slope; crevassing; snow accumulation and surface melt; wind (speed, direction, katabatic exposure) and visibility; how a summer ship could reach it (depth, fast ice, ice front height); any past landings, surveys or proposals (for example the 2019 Russian airfield survey by Polyakov, Martyanov and Sukhanova, *Russian Polar Research* 3(37), and Australia's proposed Bunger Hills alternate). State NOT FOUND for every missing value.
+FINAL: a factual table of the candidates and what is and is not known. No recommendation.
+
+## Unit C · Processing arrivals at an isolated place, or at sea
+1. **Island and isolated immigration and quarantine stations:** Ellis Island, Angel Island, Grosse Île, Partridge Island, Australia's quarantine stations (North Head, Point Nepean, Woodman Point, Torrens Island and others): how arrivals were transferred there, what processing consisted of (documents, medical inspection, quarantine, detention, appeals), throughput, staff, how long people stayed, what happened to those refused, and what daily life was like for arrivals and staff.
+2. **Present-day remote or transit-only border processing:** small island or remote airports where all international processing happens before onward travel; pre-clearance arrangements (for example US preclearance abroad, juxtaposed controls); how entry works in Antarctica today (Australian Antarctic Territory and the Migration Act, treaty permits, national program clearances).
+3. **Processing at sea:** customs, immigration and biosecurity done on board ships in transit (cruise ships, ferries with on-board passport control, historical shipboard medical inspection), how long it takes, staffing, and what happens to people refused on board.
+4. **Biosecurity and medical screening for remote arrivals:** what the Antarctic programs and remote islands require, and quarantine practice for isolated communities.
+FINAL: what the precedents show about processing everyone at one isolated point or at sea, and what was NOT FOUND. No recommendation.
+
+## Unit D · Running a seasonal sea gateway
+1. **Moving passengers between ships, and from ship to shore, in rough water and ice:** transfer methods (gangways including motion-compensated ones, boats, crane baskets, helicopters), the sea-state and wind limits actually used, and how transfers are done at an ice edge or alongside ice.
+2. **Ship-based helicopter operations in Antarctica:** aircraft used from Nuyina, Akademik Fedorov, Xue Long 2, Shirase and others; range, payload, passenger seats, weather limits, sorties per day, and the distances flown from ship to shore on this coast.
+3. **Antarctic expedition passenger ships:** season length, numbers carried (IAATO statistics), sailings from Hobart and Fremantle, Polar Code requirements for passenger ships, life-saving and evacuation rules in ice.
+4. **Icebreaker escort and seasonal ice shipping:** how escorted convoys work (Northern Sea Route, Baltic winter navigation), passenger icebreaker voyages, and what fraction of a season such routes stay usable.
+5. **Annual resupply of an Antarctic station for winter:** how much fuel and cargo real stations take in one summer (Casey, Davis, Mirny, McMurdo), how it is landed (hoses, barges, over fast ice, by air), how long it takes, and what happens when the resupply fails.
+FINAL: what the sources support and do not support about a seasonal sea gateway on this coast, and what was NOT FOUND. No recommendation.
+
+## Agent rules (full text as sent)
+Research FULLY and by the book: there is no speed credit and no search budget to save; query every topic from more than one angle; a recalled fact is a guess; open and read primary pages (WebFetch) rather than reporting from snippets; a wrong fact is worse than a missing one; mark every claim SOURCED, UNVERIFIED, DERIVED or NOT FOUND; log exact search strings and dead ends, saying whether each died at the query or at the sources. Create the output file FIRST with a PROGRESS block (one `- [ ] <n> <item>` line per item plus `- [ ] FINAL`); tick an item only when its section is fully written; if the file exists, resume (skip ticked items, add a `RESUMED <date> <time>` line). Do not compare places to each other except as the unit's items ask; do not write about any fictional setting; American English; no slang collection (anything found by chance goes to `Reference/Real-World/Inspiration_Place_Research/slang_found/Relung_Panen_Intake_<unit>_slang.md`). Do not commit. If a search tool says the budget is used up or a search is refused, STOP: write a STOP note giving exactly where you stopped, and do not work around it (downloading a specific document from a URL already found is fine). Final reply under 300 words: boxes ticked, key finding per item, what is left.

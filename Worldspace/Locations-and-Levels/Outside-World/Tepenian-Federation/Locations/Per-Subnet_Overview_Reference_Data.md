@@ -49,7 +49,7 @@ The labels are the developer's and are kept exactly as written. The right-hand c
 | Census I | 2,158,475 humans / 2,161,486 robots / **4,319,961** (robots 50.03 %); largest city Esperanza 1,878,287; smallest Puerto Abrigo 929 | CEN §B |
 | Setting | The Antarctic Peninsula; mostly island and coastal sites; **Signy** is on the South Orkney Islands, reachable by sea alone (peripheral, intermittent Arcanet link) | CEN §A; CRD §2; AIR/PRT |
 | Highways | **Hwy 1** (Esperanza → Marambio → ramps to Puerto Abrigo, Rothera → Byrd); Palmer City is reached by boat from its ramp. The **only land route** between the Peninsula and the rest of Tepenia; one overland thread shared with Byrd and the Mirny subnet | HWY; CRD §1; Cross-Subnet Part 1 |
-| Airports | Rothera · Marambio (domestic) · Machu Picchu (the only international airport; near Contrapunto, connects to Ushuaia); Palmer City is air-disconnected by design | AIR |
+| Airports | Rothera · Marambio (domestic) · Machu Picchu (the only year-round international passenger airport; near Contrapunto, connects to Ushuaia); Palmer City is air-disconnected by design. *(Updated 2026-10-29: it was "the only international airport"; Relung Panen's freight-only international airport, `DR-81`, and the Australian side's winter-only Winter Intake Airport, `DR-82`, now exist elsewhere.)* | AIR |
 | Geothermal heat | Pergamino and Contrapunto (with Scott/Fort McMurdo and Janbogo/Zukelli: the six volcanic cities) | GEO |
 | Upper Earth gateway | South America → Marambio's port; **Ushuaia** is the primary port for Pergamino, Puerto Abrigo, Contrapunto and Signy (`DR-48`); Ushuaia is the port of transfer for people bound for the Peninsula (`DR-50`) | PRT §3, §3b–3d |
 | Arcanet | Hub Palmer City; Amundsen Station was the inter-subnet relay pre-war | CRD §2 |
@@ -109,7 +109,7 @@ The labels are the developer's and are kept exactly as written. The right-hand c
 | Census I | 4,112,939 / 4,527,586 / **8,640,525** (robots 52.40 %); Kunlun is entirely robot (123,449) and Ariun Nuur is robot-heavy | CEN §B |
 | Setting | The Prydz Bay, Davis Coast and Wilkes Land coast, with the high plateau (Kunlun, Ariun Nuur). **Davis is the principal Indian-Ocean-sector import port** (`PRT`); the Tri-Cities (Zhongshan, Sinheung, Shirayuki) share one port, one airport and one oasis | PRT §5.6c; UEIC; AIR |
 | Highways | **Hwy 110** (Zhongshan → Davis → Mirny → Casey → Concordia), the Zhongshan/Sinheung/Shirayuki tri-junction (Hwy 4, 22, 110 meet), **Hwy 37**'s Kunlun and Ariun Nuur stretch | HWY |
-| Airports | Mirny · Tri-Cities (shared) (2), plus the Mountain Pass outpost airstrip on Hwy 37 | AIR |
+| Airports | Mirny · Tri-Cities (shared) · Relung Panen (two: a domestic passenger airport and an international freight-only airport, `DR-81`) (4), plus the Mountain Pass outpost airstrip on Hwy 37. *(Updated 2026-10-29.)* **International intake for the Australian side (`DR-82`):** a seasonal sea gateway in summer; in winter, an isolated, air-only **Winter Intake Airport** (serves no city; site not ruled) where customs and immigration happen, with onward flights to **Mirny** | AIR; PRT §3e |
 | Upper Earth gateway | Australia → Mirny, Mawson, Dumont d'Urville; **Hobart** is the primary port for Relung Panen (`DR-48`) and Hobart/Fremantle the people port of transfer for the Asian span (`DR-50`) | PRT §3, §3d |
 | Arcanet | Hub Mirny; **nine members routed through its relay** | CEN; Mirny pass |
 | Other | Sinheung is one of only two chamber manufacturers; Mirny supplies its raw material | CRD; AIR; Mirny pass |

@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C.** Sourced to the city's own entries and outward role.
 
+> 📌 **SOURCE CHANGED AFTER THIS SHEET WAS BUILT (note added 2026-10-29; no row below was edited).** `Airports.md` and `Ports.md` changed on 2026-10-29 (`DR-81`, `DR-82`): Machu Picchu is no longer described as Tepenia's only international airport but as its only **year-round international passenger** airport; Relung Panen has an international freight-only airport; the Australian side has a seasonal intake (a sea gateway in summer, an isolated, air-only Winter Intake Airport in winter, `Ports.md` §3e). **None of this changes a Marambio fact quoted below**, but the `Airports.md` and `Ports.md` **line numbers cited in this sheet have shifted** (lines were added to both files). Re-point them with `Universal_Location_Methodology/Tools/remap_line_citations.py` (one run per file per base commit; read its header first) before the sheet is used.
+
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
