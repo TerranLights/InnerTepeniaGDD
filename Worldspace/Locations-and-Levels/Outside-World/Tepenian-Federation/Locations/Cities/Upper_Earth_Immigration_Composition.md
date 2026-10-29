@@ -578,7 +578,7 @@ Same geographic cluster as Davis.
 
 ### Relung Panen *(Bunger Hills oasis, Knox Coast, ~66°17'S 100°47'E — the 38th city, populated 2026-09-05)*
 
-⚠ **Placeholder name.** ⭐⭐ **Computed PROXIMITY-FIRST at the developer's direction** — *"what we really care
+⚠ **Name ruled 2026-10-03 (`DR-39`): Relung Panen** *(this section was written under the placeholder name; text below that says "placeholder" predates the ruling).* ⭐⭐ **Computed PROXIMITY-FIRST at the developer's direction** — *"what we really care
 about the most is time-zone proximity"* — **so the ±3 window above is applied to EVERY tier here, not only to
 Notable.** ⛔ *This is the only city in the corpus computed that way, and it is **not** a general method change.*
 
@@ -588,6 +588,8 @@ Notable.** ⛔ *This is the only city in the corpus computed that way, and it is
 > Shackleton Ice Shelf and reachable **only through Casey** — `[CGRM 2026-09-01 · Path 6 · developer ruling]`,
 > 300+ km overland, at the far end of the Australian corridor.* **Distant nations are not diluted here; they
 > are filtered, because there is exactly one door.** *(`Relung_Panen/Development_Brief.md` §3.5.)*
+>
+> ⚠ **UPDATE 2026-10-29 (`DR-81`, `DR-82`):** the city now hosts two airports, a domestic passenger airport and an international **freight-only** cargo airport, so the door for PEOPLE is unchanged (the cargo airport carries no passengers). The Australian side also has a seasonal international intake (a sea gateway in summer, an isolated air-only winter airport with onward flights to Mirny); **whether that changes this city's one door is not ruled.** The proximity-first computation above is not re-run.
 
 **Solar UTC +7** *(100.78 ÷ 15 = 6.72)* — **the same as Casey.** **Window: UTC+4 … +10.**
 

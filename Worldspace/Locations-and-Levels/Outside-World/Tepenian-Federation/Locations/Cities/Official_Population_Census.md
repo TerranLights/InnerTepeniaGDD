@@ -746,7 +746,7 @@ page.* **Verified by summing both tables directly, 2026-09-05; every row also ch
 ⚠ **STILL OWED — subnet totals and the per-nation origin table. *(Subnet totals paid and the per-nation table rebuilt 2026-10-28, `DR-68`/`DR-69`.)*** *The Mirny subnet gains 947,954 and loses
 352,710 (net **+595,244**); Halley loses 262,032; Palmer and Janbogo were already short by Port Lockroy,
 Dumont d'Urville and Denison.* ⛔ **The National Origin table must NOT be patched** — *its own notes say to
-rebuild it as a direct sum of the Specs files, and Relung Panen has no Specs file yet.*
+rebuild it as a direct sum of the Specs files, and Relung Panen has no Specs file yet.* ⚠ **UPDATE 2026-10-29: that clause is out of date.** *`Specs/Mirny subnet/Relung_Panen.md` has existed since 2026-10-21; the figures in this paragraph (947,954; net +595,244) are the 2026-09-05 record, Relung Panen's pool is now 971,870 (`DR-68`), and the subnet totals were recomputed on 2026-10-28. The rule not to patch the table stands.*
 
 ### ✅ REDISTRIBUTION — **RESOLVED 2026-09-05. The pool founded a city.**
 

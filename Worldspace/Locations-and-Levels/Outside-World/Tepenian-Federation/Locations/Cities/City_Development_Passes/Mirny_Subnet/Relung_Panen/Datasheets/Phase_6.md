@@ -2,14 +2,14 @@
 
 > ⚠ **DRAFT — Tier C.** Every directory actually enumerated, not assumed empty (the Field Guide's warning about unverified "empty" claims).
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-24:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-29:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
 |---|---|---|
-| `Factions/Robot_Religions/` — directory enumerated | 6 `.md` files read; **0 name the city** | `Worldspace/Factions/Robot_Religions/` (enumerated 2026-10-21) |
+| `Factions/Robot_Religions/` — directory enumerated | 6 `.md` files read; **0 name the city** | `Worldspace/Factions/Robot_Religions/` (enumerated 2026-10-29) |
 | `National_Holidays.md` | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 166-line file | `National_Holidays.md` |
-| `Ice-Cold_Buddhism_Research/` — directory enumerated | 7 `.md` files read; **0 name the city** | `Reference/Real-World/Ice-Cold_Buddhism_Research/` (enumerated 2026-10-21) |
+| `Ice-Cold_Buddhism_Research/` — directory enumerated | 7 `.md` files read; **0 name the city** | `Reference/Real-World/Ice-Cold_Buddhism_Research/` (enumerated 2026-10-29) |
 | `The_Meme_Machine_Extraction.md` | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 293-line file | `The_Meme_Machine_Extraction.md` |
 | `The_True_Believer_Extraction.md` | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 378-line file | `The_True_Believer_Extraction.md` |
 | The RESERVED mortuary question | Not dispatched: RESERVED means RESERVED regardless of mechanical-ness | `Mechanical_Extraction_Field_Guide.md`, the sequencing-exclusion table |

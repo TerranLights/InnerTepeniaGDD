@@ -2,12 +2,12 @@
 
 > ⚠ **DRAFT — Tier U, near-none Tier C (the Field Guide's own prediction).**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 9), checked 2026-10-24:** **4 of 4** addresses are named in this sheet (3 directly, 1 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 9), checked 2026-10-29:** **4 of 4** addresses are named in this sheet (3 directly, 1 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
 |---|---|---|
-| `Robot_Universals/` — directory enumerated | 33 `.md` files read; **0 name the city** | `Reference/Robot_Universals/` (enumerated 2026-10-21) |
+| `Robot_Universals/` — directory enumerated | 33 `.md` files read; **0 name the city** | `Reference/Robot_Universals/` (enumerated 2026-10-29) |
 | Laws of Robotics (Tier U) | 1. A robot will have full capacity to make decisions to maximize her own future possibilities. 2. A robot will understand that anything she is capable of doing to others is realistically possible for others to do to her. *(list explicitly not yet complete)* | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
 | `Robot_Universals/` Ch. 13 — the identity lens (Tier U) | Identity is seated in city-locality, not origin/Build/Gen-Mark | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |
 | `Robot_Universals/` Ch. 14 — Gen/Mark (Tier U) | Real, structurally independent of city, but carries markedly less cultural weight than locality, and is never a hierarchy | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |

@@ -5,7 +5,7 @@
 > (`Dobrowolski` · `Oazis` · `Bunger` · `Figurnoye` · `Edgeworth David`) are the historical candidate list and were **not** chosen.
 > The oasis itself is still "the Bunger Hills oasis". Text below that says "placeholder" or "name unresolved" predates the ruling.
 
-**Based on:** Bunger Hills oasis, Knox Coast, Wilkes Land, East Antarctica (~66°15'S, 100°45'E) *(corrected 2026-10-03: the Australian Antarctic Data Centre gazetteer places the oasis "at the western end of Knox Coast in Wilkes Land"; "Queen Mary" belongs only to the Shackleton Ice Shelf in front of it)*
+**Based on:** Bunger Hills oasis, Knox Coast, Wilkes Land, East Antarctica (~66°15'S, 100°45'E) *(corrected 2026-10-03: the Australian Antarctic Data Center gazetteer places the oasis "at the western end of Knox Coast in Wilkes Land"; "Queen Mary" belongs only to the Shackleton Ice Shelf in front of it)*
 **Status:** ⏸️ **UNDETERMINED — this city has no war outcome because only the founding nations are ruled (Indonesia and Malaysia, jointly, `DR-34`); the rest of the founding is open.** ⛔ *`NOT-AN-INPUT` for a Second Interwar pass, as at every other city*
 **Arcanet Subnet:** Mirny ("Australian")
 **Access type:** SPUR
@@ -92,7 +92,7 @@ level***; and the **Shackleton Ice Shelf** seals the whole northern approach fro
 > ### ⭐⭐⭐ THE TWO FACTS THAT DEFINE THE SITE, AND THEY PULL AGAINST EACH OTHER
 > **1 · It has more usable ground than anywhere else in the Federation.** *At the comfortable band it could
 > hold 3,375,000 people; at Manila's density, 20,780,100 — **two-thirds of the entire country, on bare
-> rock**.* **It carries 947,954, which is 28% of what it could take comfortably.**
+> rock**.* **It carries 971,870 *(947,954 before 2026-10-28)*, which is about 29% of what it could take comfortably.**
 >
 > **2 · It is the hardest place in the Federation to reach.** *No sea access, one road, and the road runs
 > 300+ km east to Casey before it meets anything.* ***Land to spare and no way to ship — the exact inverse of
@@ -227,17 +227,16 @@ is an equally good reason to build it and to have argued against building it.**
 
 ⭐⭐⭐ **The Federation's second agricultural region, ruled a Strong (25%) food role (`DR-71`, 2026-10-28).** *`Division_of_Industry/13` §7 (2026-09-01), working from human caloric need and knowing nothing of this
 city's population, found a **26.0% national food deficit** (import need 545,902 against supply 404,191) and sized a second region at **~765,007 residents
-with a Davis-like 35% agricultural sector**. **§15 (2026-09-02) superseded that:** with every city classified geologically the nation has a **surplus**, so the city is **optional**, desirable for an uncorrelated second supply. At the current
-population (971,870 in Census I) a 25% share of its distinctive tier is about **108,149 agricultural workers**, feeding about **746,680 people beyond itself** (provisional difficulty D = 1.25; figures in
-`Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md`).*
+with a Davis-like 35% agricultural sector**. **§15 (2026-09-02) superseded that:** with every city classified geologically the nation has a **surplus**, so the city is **optional**, desirable for an uncorrelated second supply. At the current population (971,870 in Census I), with difficulty **D = 1.43** (`DR-72`) and the shares of the distinctive tier ruled in `DR-71` and `DR-75`, the city's mandated roles are food production 25% (**102,758 workers**), agricultural research 4% (16,441), seed breeding 3% (12,331) and phosphorus and soil recovery 6% (24,662): **156,192 workers in all, 21.3% of a workforce of 733,228**. The baseline load is 43.9% and the free tier 34.8% before cold-chain logistics (`Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md`; national figures at D = 1.43 in `Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md` section 5). (Updated 2026-10-29: this passage earlier gave a provisional D = 1.25, 108,149 workers and a "feeds N people" figure. All three are superseded, and a "feeds N people" claim is not citable under `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`.)*
 
 **Growing here is indoor stacked hydroponics, as everywhere** *(the criterion is power, footprint and
 foundation — **not** soil, sunlight or mild weather)*. ⭐ **This site has the footprint and the foundation in
 overwhelming surplus.** ⚠ **Power is the open question and the binding constraint** — *no geothermal, no
 measured wind resource, off-grid.*
 
-⚠ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` explicitly EXCLUDES this city** *("deferred by
-ruling")*, **so its three-tier split is unwritten.** ⏸️ *Un-deferring it is a developer decision.*
+✅ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` carries this city's row since 2026-10-29** *(Half B: D 1.43, workforce 733,228, baseline 43.9%, mandated 21.3%, free 34.8% before cold-chain; it was excluded there as "deferred by ruling" until the developer un-deferred it)*. ⏸️ **Not yet set:** the cold-chain logistics share, which waits on the port and airport questions.
+
+**Air links (ruled 2026-10-29, `DR-81`):** two airports within the Bunger Hills, a **domestic passenger airport** and an **international, freight-only cargo airport**; siting, the cargo airport's customs presence and its link to any ice-front landing are not ruled (`Infrastructure/Airports.md`). People still arrive overland through Casey. **Australian-side international intake (`DR-82`):** a seasonal sea gateway in summer and an isolated, air-only winter intake airport with onward flights to Mirny; whether this changes this city's one door is not ruled (`Infrastructure/Ports.md` section 3e).
 
 ⏸️ **Proposed, not ruled — the chain, rather than a generic industrial hub:** *phosphorus arrives → fertilizer
 → food → food ships out.* **Port, farm and processing would be one system, not three functions.**
