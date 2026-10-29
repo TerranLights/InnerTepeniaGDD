@@ -2,9 +2,10 @@
 
 > ## ⭐ UPDATE 2026-10-29 — several rows below are now OUT OF DATE (rows left as written)
 > - **Inspiration picks: DONE.** 28 picks (2 PRIMARY, 17 SECONDARY, 9 SUPPORTING) added to `Inspirational-Influences.md` under the Mirny subnet; the developer accepted the seven tier changes and kept two PRIMARY. Draft and reasoning: `Reference/Real-World/Inspiration_Place_Research/outputs/Relung_Panen_Picks_Entry_DRAFT_2026-10-29.md`. The other 71 candidates await approval and research.
-> - **Division of Industry row: DRAFTED.** D = 1.43 (`DR-72`), farmer-count convention B (`DR-73`), shares for agricultural research 4%, seed breeding 3%, phosphorus and soil recovery 6% (`DR-75`): `Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md`; draft column added to the differentiation table. Cold-chain logistics share still pending the port and airport question. `09` §2 and `16` Half B not yet updated (existing files, awaiting OK).
+> - **Division of Industry row: DRAFTED.** D = 1.43 (`DR-72`), farmer-count convention B (`DR-73`), shares for agricultural research 4%, seed breeding 3%, phosphorus and soil recovery 6% (`DR-75`): `Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md`; draft column added to the differentiation table. Cold-chain logistics share still pending the port and airport question. `09` §2 and `16` Half B **updated 2026-10-29** at the developer's OK (row values, an added Half B row, exclusion notes).
 > - **Composition tier table: DONE** (new totals 477,285 / 494,585 and 340,951 / 353,062 applied in the README, the spec and the Immigration Composition reference).
-> - **Still open:** the port, the airport, the founding "how and why" (research first); the census narrative entry (to be checked); cold-chain share.
+> - **Airports: RULED 2026-10-29 (`DR-81`):** two airports, one passenger (domestic) and one cargo (international, freight only); `Airports.md` and both airport maps updated (copies). Siting, customs presence and the link to the port are open.
+> - **Still open:** the port, the founding "how and why" (research first); the census narrative entry (to be checked); cold-chain share.
 
 
 **Built 2026-09-05** against `Universal_Location_Methodology/ULM_Input_Required_Reference.md`, checked

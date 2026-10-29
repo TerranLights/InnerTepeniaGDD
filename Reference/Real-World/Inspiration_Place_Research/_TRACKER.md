@@ -54,15 +54,15 @@ Developer, 2026-10-26: two rounds at full depth for every city; accuracy and dep
 
 | Unit | City | Subnet | Picks | Round 1 | Round 2 | Note |
 |---|---|---|--:|---|---|---|
-| `Relung_Panen_B01` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ☐ | State-mobilized farm settlement and megaproject labor (#27 to #32) |
-| `Relung_Panen_B02` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ☐ | Enclosed growing as national food policy; supply by a few lines (#33 to #38) |
-| `Relung_Panen_B03` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ☐ | Made ground: land built where there was none (#39 to #44) |
-| `Relung_Panen_B04` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ☐ | Water as the governing institution (#45 to #50) |
-| `Relung_Panen_B05` | Relung Panen | Mirny ("Australian") Subnet | 6 | ☐ | ☐ | Ice, lakes, and places reached by one route (#51 to #56) |
-| `Relung_Panen_B06` | Relung Panen | Mirny ("Australian") Subnet | 6 | ☐ | ☐ | Enclosed growing, power and civic greenhouses (#57 to #62) |
-| `Relung_Panen_B07` | Relung Panen | Mirny ("Australian") Subnet | 6 | ☐ | ☐ | Greenhouse and highland export regions (#63 to #68) |
-| `Relung_Panen_B08` | Relung Panen | Mirny ("Australian") Subnet | 6 | ☐ | ☐ | Cold chain, plantations and assembling a community from arrivals (#69 to #74) |
-| `Relung_Panen_B09` | Relung Panen | Mirny ("Australian") Subnet | 6 | ☐ | ☐ | Phosphorus, seeds, breeding research and cooperatives (#75 to #80) |
-| `Relung_Panen_B10` | Relung Panen | Mirny ("Australian") Subnet | 6 | ☐ | ☐ | Farm-region civic life: halls, co-ops, shows and ice-break events (#81 to #86) |
-| `Relung_Panen_B11` | Relung Panen | Mirny ("Australian") Subnet | 6 | ☐ | ☐ | The ice calendar, and what happens when farming water is taken (#87 to #92) |
-| `Relung_Panen_B12` | Relung Panen | Mirny ("Australian") Subnet | 5 | ☐ | ☐ | Remote farming schemes and failures; solo road-travel music (#93 to #97) |
+| `Relung_Panen_B01` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | State-mobilized farm settlement and megaproject labor (#27 to #32) |
+| `Relung_Panen_B02` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Enclosed growing as national food policy; supply by a few lines (#33 to #38) |
+| `Relung_Panen_B03` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Made ground: land built where there was none (#39 to #44) |
+| `Relung_Panen_B04` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Water as the governing institution (#45 to #50) |
+| `Relung_Panen_B05` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Ice, lakes, and places reached by one route (#51 to #56) |
+| `Relung_Panen_B06` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Enclosed growing, power and civic greenhouses (#57 to #62) |
+| `Relung_Panen_B07` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Greenhouse and highland export regions (#63 to #68) |
+| `Relung_Panen_B08` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Cold chain, plantations and assembling a community from arrivals (#69 to #74) |
+| `Relung_Panen_B09` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Phosphorus, seeds, breeding research and cooperatives (#75 to #80) |
+| `Relung_Panen_B10` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Farm-region civic life: halls, co-ops, shows and ice-break events (#81 to #86) |
+| `Relung_Panen_B11` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ◐ | The ice calendar, and what happens when farming water is taken (#87 to #92) |
+| `Relung_Panen_B12` | Relung Panen | Mirny ("Australian") Subnet | 5 | ✅ | ◐ | Remote farming schemes and failures; solo road-travel music (#93 to #97) |

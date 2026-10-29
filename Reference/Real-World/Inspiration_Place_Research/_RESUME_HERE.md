@@ -1,5 +1,7 @@
 # RESUME HERE: inspiration place research (all cities)
 
+> ## ⭐ 2026-10-29 (latest): read `_SESSION_RESUME_2026-10-29.md` FIRST (same folder). It lists what was running, what to check, the dispatch templates (`_DISPATCH_TEMPLATES.md`) and the open airport decision. The older notes below are history.
+
 **Written 2026-10-26, at the moment this session's web search budget ran out.** A new session should read this file first, then `_TRACKER.md` (the truth about each unit), then `_PROTOCOL_AND_BRIEFS.md`.
 
 ## The web search budget (verified from the tool's own message, 2026-10-26)

@@ -1,6 +1,6 @@
 # Relung Panen: Division of Industry determination (2026-10-29)
 
-> **Status: a new file. Nothing existing in this folder was rewritten.** `09` §2 still carries the old placeholder row for this city and `16` Half B still excludes it; both are left as written and are pointed at from here. Written at the developer's rulings `DR-71` (food role), `DR-72` (difficulty and first mandated roles), `DR-73` (shares are taken of the distinctive tier) and `DR-75` (the shares below). **Cold-chain logistics is not included and is explicitly pending** (section 5). **Not a ULM pass:** this city's pass has not run, so nothing here is a ULM finding.
+> **Status: a new file.** *(Update 2026-10-29, later the same day, with the developer's OK: `09` §2 and `16` Half B now carry this city's row; see open item 3.)* Written at the developer's rulings `DR-71` (food role), `DR-72` (difficulty and first mandated roles), `DR-73` (shares are taken of the distinctive tier) and `DR-75` (the shares below). **Cold-chain logistics is not included and is explicitly pending** (section 5). **Not a ULM pass:** this city's pass has not run, so nothing here is a ULM finding.
 
 ## 1 · Inputs
 
@@ -51,6 +51,6 @@ Each additional point of the distinctive tier given to a role is about 4,110 wor
 
 1. **Cold-chain logistics.** Yes in principle (developer, `DR-72`); to be registered once the port and airport question is settled. Needs a share.
 2. **Sourced staffing ratios** for seed breeding and nutrient recovery would sharpen the 3% and 6%; none were found. The shares are judgment calls, recorded as such.
-3. **Edits not made, awaiting the developer's OK:** `09` §2 (the placeholder row currently reads D 1.43 with TBD values, which now has values) and `16` Half B (add the row). Both are existing files.
+3. **`09` §2 and `16` Half B: DONE 2026-10-29** at the developer's OK. `09` §2's row now holds the figures (Required 275,990 under that section's old model, 37.6%); `16` Half B has the row (D 1.43, workforce 733,228, 43.9% / 21.3% / 34.8% before cold-chain), the exclusion note and Still-open item 20 are updated, and the national row was not recomputed.
 4. **The differentiation table column** is drafted in `02_Cross_City_Industry_Differentiation_Table.md` as a separate subsection, from this determination and not from a ULM pass.
 5. **Power remains the binding constraint** for the stacked hydroponics (the spec says: no geothermal, no measured wind resource, off-grid). That is an input to the food role that the determination does not resolve.

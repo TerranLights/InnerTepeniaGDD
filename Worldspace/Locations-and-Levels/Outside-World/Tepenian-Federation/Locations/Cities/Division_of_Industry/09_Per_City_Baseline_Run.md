@@ -88,7 +88,9 @@ excluded — deferred pending the duty-cycle ruling.**
 | 35 | **Amundsen Station** | Amundsen | 2.50 | 1,121 | 6,857 | **2,118** | 6,297 | **33.6%** |
 | 36 | **Kunlun** | Mirny | 2.70 | **0** | 135,226 | **38,674** | 135,226 | **28.6%** |
 | 37 | **Dome Fuji** | Mawson | 2.50 | **0** | 66,849 | **18,264** | 66,849 | **27.3%** |
-| — | **{{Bunger Hills City}}** | Mirny | 1.43 | *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
+| — | **Relung Panen** | Mirny | 1.43 | 477,285 | 971,870 | **275,990** | 733,228 | **37.6%** |
+
+*Relung Panen row filled 2026-10-29 (it was `{{Bunger Hills City}}` with TBD values; the name was ruled in `DR-39`). Humans and robots are Census I (477,285 and 494,585); D = 1.43 (`DR-72`); Required uses this section's own formula, the superseded old-B1 model, so it is comparable with the other rows and is not the three-tier result. The row stays unranked (`—`): the numbering above was not renumbered. 37.6% lies inside the range below, which is unchanged. The three-tier result is in `18_Relung_Panen_Determination_2026-10-29.md`.*
 
 **Range: 27.3% → 50.4%. Spread 23.1 points.**
 

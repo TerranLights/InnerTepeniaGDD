@@ -1478,3 +1478,15 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Not ruled** | AQ-15 (the highway rule "whoever is there" never read onto the relay or a weather hazard) and AQ-16 (Phase 7's description of Q-72 against `DR-55`'s); the strongest-finding form; the requests AR-17 to AR-27. |
 | **Files** | This log; `Mirny/Amendment_Rederivation_P07_Order_2026-10-29.md` (section 11 added, AQ-11 to AQ-14 marked); `Mirny/DR-56_Amendment_Register_2026-10-13.md` (section 2b added, old Phase 7 rows removed, axis row corrected, status lines updated). |
 
+---
+
+## `DR-81` · ✅ **RELUNG PANEN HOSTS TWO AIRPORTS: ONE PASSENGER (DOMESTIC), ONE CARGO (INTERNATIONAL FREIGHT)** *(2026-10-29)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"yes, go with your suggestion on the airports (one passenger and one cargo). This means that the file and the map both need to be updated."* (the suggestion: two airports, the passenger airport domestic, the cargo airport international and freight-only; people keep arriving through Casey) |
+| **Recorded as** | Relung Panen hosts **two airports**: a **passenger airport (domestic)** and a **cargo airport (international, freight only)**, both within the Bunger Hills. It is added to the **Confirmed Airports** list of `Infrastructure/Airports.md` (12 hosts; the three lists now total 38). The cargo airport carries no passengers, so the city's "exactly one door, through Casey" composition reasoning is unchanged. Siting within the oasis, customs presence for the freight airport, its relation to the still-unruled ice-front landing for ships, and the cold-chain logistics share are **not ruled**. |
+| **Not decided** | `DR-51` (three international airports, deferred on purpose) is **not** closed: `Airports.md` says Machu Picchu is the only international airport that carries passengers *on the maps as they stand* and leaves the later-era count open. The port itself. |
+| **Files** | This log; `Infrastructure/Airports.md` (two rows, header, counts, wording); new map copies `Reference/Images/Maps/Tepenian airport and flight map - with Relung Panen.jpeg` and `… - highway overlay - with Relung Panen.jpeg` (a copy of the overlay is also in `Infrastructure/`, as with the original); the developer's two original images are untouched. Positions of the two markers are illustrative. |
+| **Other files that still say Machu Picchu is the only international airport, not edited** | `Infrastructure/Ports.md` (§3d, the `DR-51` block), `Per-Subnet_Overview_Reference_Data.md` (Palmer subnet row, and the Mirny subnet row lists two airports), `Cities/City_Development_Passes/follow-up_questions.md`, Marambio's `Datasheets/Phase_5.md`. |
+
