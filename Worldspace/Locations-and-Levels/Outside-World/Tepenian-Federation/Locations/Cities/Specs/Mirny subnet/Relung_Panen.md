@@ -113,11 +113,11 @@ anchors; monthly distribution constructed against Mirny and Davis — full resea
 **Climate type:** **East Antarctic coastal OASIS, shelf-sealed** — *ice-free basin terrain; cut off from open
 sea by 64–145 km of ice shelf, so it carries a continental temperature range at a coastal latitude.*
 ⭐ **Warm by Antarctic standards** *(−11.2 °C against −17.3 °C in the McMurdo Dry Valleys)*
-**Mean annual temperature:** **−11.2 °C** 🔬 *measured on site*
+**Mean annual temperature:** **−11.2 °C** 🔬 *measured on site* ⚠ *(2026-10-29 note: this is the White Smoke Lake station, which stood on an ice-covered lake against Apfel Glacier, a spot the Russian arctic institute puts almost 2 °C colder than the rest of the oasis. The central-oasis station of 1956–58 reads −9.0 °C, and a Russian summary gives −8.8 °C; neither record is a full normal. Which figure belongs to the city depends on where in the oasis it stands, which is not yet ruled. Source: `Research_Logs/Relung_Panen_Soil_Research_2026-10-25_E_Oasis_Ground_Water_and_Light.md`.)*
 **Prevailing winds:** ⭐⭐ **EASTERLY, and fierce in event — but the annual mean is only 4.6 m/s.** *The basin
 sits **out of the katabatic drainage**.* ⚠ **Compare its neighbors: Mirny 10–14 m/s and "one of the windiest
 coastal stations in Antarctica," Casey 7–10 m/s.** ***One of the calmest coastal sites in the Federation; its
-nearest analog is Davis at ~5.6 m/s — the other oasis city out of the katabatic regime.***
+nearest analog is Davis at ~5.6 m/s — the other oasis city out of the katabatic regime.*** ⚠ *(2026-10-29 note: the central-oasis station of 1956–58 reads a 6.8 m/s mean, with 122 days a year at 15 m/s or more, blizzards on 53 days, a peak of 56 m/s, and calms in 39% of observations. The wind is two-sided: mostly still, with sharp storm episodes. Same source as above.)*
 **Record extremes:** ⚠ **ESTIMATED — record high approximately +12 °C; record low approximately −39 °C**
 *(bracketed against Davis, Mirny and Casey; not measured)*
 **Temperature range:** coldest month **−18.7 °C**; warmest month **+0.6 °C**; **annual amplitude 19.3 K**

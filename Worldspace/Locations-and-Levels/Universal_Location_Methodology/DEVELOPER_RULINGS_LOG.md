@@ -1398,3 +1398,83 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Recorded as** | Every national-role percentage (agriculture, education, medicine, logistics and the rest) is taken of the city's **distinctive tier** (workforce minus baseline, under the three-tier method), not of the whole workforce and not of the 2026-09-01 tier. This is the convention `16` already uses, so no finished determination changes. Davis agriculture 35% = **185,433** farmers; Esperanza 15% = **128,335**. National slack, before Relung Panen: **5.3%**. With Relung Panen's food role at D = 1.43 (about 102,758 workers, feeding about 709,000 beyond itself): export supply 468,126, balance about +91%, slack about **9.9%**; Relung Panen 22.0% of export supply, Davis 39.6%, Davis and Esperanza together 67.0%. |
 | **Not changed** | `13` §15 (written under convention A), `04` §3 and `National_Medical_and_Care_Institutes.md` (whole-workforce) are **not rewritten**; they state their own conventions and are superseded on this point by this ruling. The register item in `16` is still marked open and has not been annotated. |
 | **Files** | This log; `Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md` section 5. |
+
+---
+
+## `DR-74` · ✅ **MIRNY AMENDMENT RE-DERIVATION: RUN AS SUBAGENT PIECES; PIECES 2 ONWARD USE TRIMMED READING LISTS** *(2026-10-29)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"set up some subagents to do go back and do whatever re-analysis is necessary on Mirny, and we'll work on the Relung Panen items in parallel"* · *"if the other data from Phase 6 is mostly the same, then is it really necessary to re-do the entire thing, or can it be appended with the new Phase 6 edits?"* · *"sure, go ahead and use trimmed lists for pieces 2 onward"* |
+| **Recorded as** | The Mirny re-derivation of findings that rested on the old wind wording (`DR-56`, `DR-57`; November file section 3, "Mirny's leftovers", item 1) runs as a series of pieces, one per phase or step, each with three Opus readers and the usual rounds, in hours. Each piece's output is an **amendment file that is appended beside the pass, never a rewrite**; the pass files stay as they are. **Piece 1 (Phase 6) runs at the full original reading list** (38 entries, about 7,830 lines per reader) as the pattern-setter. **Pieces 2 onward use trimmed lists**: the clarified Phase 6 result, the phase or step's own file, the register rows for it, the rulings, and only the earlier files it directly cites. Readers per piece, rounds and the one-piece-at-a-time clarification loop are unchanged. |
+| **Scope of the trimming** | This applies to the Mirny amendment pieces only. It is **not** a change to the November city runs, where the standing ruling (three Opus readers, full lists, nothing cut to save cost) stands. |
+| **Order** | This block was started before Casey (which the November plan put first); the developer asked for it directly. Casey's cost measurement is therefore no longer clean of Mirny work; note this when Casey's cost is reported. |
+| **Files** | `Mirny_Subnet/Mirny/.t8_amend_P6_CHECKPOINT.md` (live state); this log. |
+
+---
+
+## `DR-75` · ✅ **RELUNG PANEN: SHARES FOR THE FIRST THREE NEW MANDATED ROLES; PHOSPHORUS AND SEED ARE NATIONAL** *(2026-10-29)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"if all that's the case (so far as reasoning, etc), then yeah, I'd say your table of figures is a good one."* · On whether phosphorus and soil recovery is national: *"I imagine that the phosphorus and soil recovery will probably be national. I can't really see any reason why it wouldn't be"* · On whether seed goes to other cities: *"to other cities, yes. That makes the most sense"* |
+| **Recorded as** | Shares of Relung Panen's distinctive tier (411,031 workers at D = 1.43, `DR-72`): **agricultural research 4%** (16,441; a partner's stake in the joint research project with Davis, Ariun Nuur and Zhongshan), **seed breeding 3%** (12,331; **supplies seed to other cities**), **phosphorus and soil recovery 6%** (24,662; **a national role**, also serving other cities' waste streams). New mandates **13% = 53,434 workers (7.3% of the 733,228 workforce)**. With the Strong 25% food role (102,758) the mandate is 38% of the distinctive tier (156,192 workers). **Free tier 254,839 workers (34.8% of the workforce)**, before any cold-chain logistics share. |
+| **Not ruled** | Cold-chain logistics (yes in principle; waits for the port and airport question; each point of the distinctive tier is about 4,110 workers, 0.56% of the workforce). The shares are judgment calls with no sourced staffing ratio behind them; real ratios for seed breeding and nutrient recovery would be a research task. |
+| **Files** | This log; `Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md`; `Division_of_Industry/02_Cross_City_Industry_Differentiation_Table.md` (the city's column added as a separate subsection). `09` §2's placeholder row and `16` Half B were **not** edited. |
+
+---
+
+## `DR-76` · ✅ **MIRNY: THE WEATHER WARNINGS TRAVEL ON THE RELAY; "BEST PLACED" MEANS STRATEGICALLY ABLE; THE REGISTER IS REWRITTEN** *(2026-10-29, Piece 1 clarifications)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | **Weather system rides the relay:** *"I've thought about it, and it makes sense that it does. The people would have to communicate hazards to each other"* · **What the warning looks like and who runs it:** *"don't know yet"* · **The signifiers:** *"we'll need to look into actual real-world research for that"* · **Whether residents feel a debt to the first generation:** *"that can depend on a person-by-person basis"* · **Who is "best placed":** *"whoever's most strategically able to address a weather hazard"* · **The register:** *"no, rewrite the register. We can't take the risk of lingering false data corrupting the repo"* · **Axis (a question, not yet a ruling):** *"how would it work as, 'Learned once; those who can, answer'"* |
+| **Recorded as** | (1) **The weather warnings travel on the relay** (read as: the relay or subnet network that carries Mirny's communication, the reading `DR-56` left to confirm). This answers request AR-4. The earlier statement in the single-reader register that the warning system rides the relay was undecided when it was written and is ruled now. (2) **The form of the warning and who runs it: not known yet** (AR-1, AR-2 stay open). (3) **The signifiers: to be researched in real-world sources** (AR-3 becomes a research task, later; nothing is invented meanwhile). (4) **Whether residents feel a debt to the first generation varies from person to person**: it is not a uniform trait of the city; written as a spread, never as a rule (AR-12 answered in form, the debt stays a candidate per person). (5) **"Best placed" = whoever is most strategically able to address a weather hazard** (answers AR-8): capability and position for the hazard at hand, not nearness; applies to either body. (6) **The `DR-56` amendment register is rewritten** (see `Mirny/DR-56_Amendment_Register_2026-10-13.md`); Phase 6 rows replaced by the three-reader verified result; rows for later phases kept but marked unverified until their pieces run. |
+| **Not ruled** | The axis wording (the question was asked; assessment given 2026-10-29); the strongest-finding form; the organization's name; AR-5 to AR-7, AR-9 to AR-11, AR-13 to AR-16. |
+| **Files** | This log; `Mirny/Amendment_Rederivation_P06_Meaning_2026-10-29.md` (clarifications section added); `Mirny/DR-56_Amendment_Register_2026-10-13.md` (rewritten). |
+
+---
+
+## `DR-77` · ✅ **MIRNY MEANING: THE AXIS IS "LEARNED ONCE; THOSE WHO CAN, RESPOND"** *(2026-10-29)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"how about, 'Learned once; those who can, respond'? How would that work?"* (asked as a proposal, after the assistant's assessment of *"Learned once; those who can, answer"*) · on being told it would be adopted as written if confirmed: *"Awesome. Do that, and then continue with Phase 7"* |
+| **Recorded as** | The Mirny Phase 6 (Meaning) axis, replacing *"The medium holds; the person answers."* (`P6` L57), is **"Learned once; those who can, respond."** Reading: *learned once* = the first generation learned the wind alone and paid for it, and everyone after is taught (Act 1 limit kept); *those who can, respond* = the duty falls on whoever is most strategically able to address a weather hazard (`DR-76`), uncompelled, either body, in response to a hazard or a failure; **not** answering *for* a loss. Peer-free: half of it is national; what passes is the pairing at Mirny's own values. |
+| **Not changed** | `04_Phase_06_Meaning.md` itself (the old axis stays in the file with its amendment notice; the replacement lives in `Amendment_Rederivation_P06_Meaning_2026-10-29.md`). The strongest-finding form recommended in that file (updated for `DR-76`) is not yet explicitly ruled. |
+| **Files** | This log; the amendment file §7 (axis marked CHOSEN). |
+
+---
+
+## `DR-78` · ✅ **RELUNG PANEN: THE 28-PICK ENTRY, ITS TIERS, AND THE 71 FURTHER CANDIDATES QUEUED FOR RESEARCH** *(2026-10-29)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | On the draft entry: *"oh actually, yeah, these are really good results"* · tiers, via the three questions asked 2026-10-29: the seven research-based changes **accepted**; the PRIMARY tier **kept at two**; the entry **to be added** to the live picks file once the tiers are settled · on the further candidates: *"dispatch separate subagents to research batches of those 71 candidates"* |
+| **Recorded as** | The Relung Panen picks entry (**28 lines**, 26 researched candidates with #2 and #12 each split in two) is in `Inspirational-Influences.md` under the Mirny subnet: **2 PRIMARY** (the Dutch polders and their water boards; the Westland greenhouse cluster), **17 SECONDARY**, **9 SUPPORTING**. Tier changes from the first pass accepted: Turpan and Al-Ahsa PRIMARY to SECONDARY; the Negev SECONDARY to SUPPORTING; Rehovot (split from Wageningen) SUPPORTING; Baracoa, Greenland and Lüderitz up to SECONDARY. The **71 further candidates (#27 to #97)** are queued for two research rounds as units `Relung_Panen_B01` to `B12` (`Inspiration_Place_Research/_TRACKER.md`); tiers for them are not set and are the developer's after the research. |
+| **Held, not ruled** | Whether the slang and nicknames the second research round wrote into the place logs are moved out to the separate slang file (the logs are untouched). |
+| **Files** | This log; `Cities/Inspirational-Influences.md`; `Reference/Real-World/Inspiration_Place_Research/outputs/Relung_Panen_Picks_Entry_DRAFT_2026-10-29.md`, `inputs/Relung_Panen_B01.md` to `B12.md`, `_TRACKER.md`, `_RESUME_HERE.md`. |
+
+---
+
+## `DR-79` · ✅ **MIRNY ORDER (PHASE 7): THE AXIS IS THE SAME LINE, "LEARNED ONCE; THOSE WHO CAN, RESPOND"** *(2026-10-29)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"yeah, \"Learned once; those who can, respond.\" I thought we had that settled"* (answering the question of which axis Phase 7 should carry) |
+| **Recorded as** | Mirny's Phase 7 (Order) axis is **"Learned once; those who can, respond."**, the same wording as Phase 6 (`DR-77`); no separate Order wording is written. The earlier Phase 7 axis ("Claims without an arbiter" / "calls by position") is not replaced by a new phrase. Read this way by the assistant: the developer's reply was taken as choosing the existing line for Phase 7, not as a mistake about which phase was asked. |
+| **Kept as a finding, not the axis** | That the admitted lines name no decider between the claims Mirny's work owes outward (contact, eastern roads, chamber chain, sea supply, the quarry) stays a finding in `Amendment_Rederivation_P07_Order_2026-10-29.md`. |
+| **Not ruled** | The other Phase 7 questions (AQ-11 to AQ-16), the strongest-finding form. |
+| **Files** | This log; `Mirny/Amendment_Rederivation_P07_Order_2026-10-29.md` (§7 and AQ-10 marked). |
+
+---
+
+## `DR-80` · ✅ **MIRNY PHASE 7: GUILT OUTSIDE THE SANCTION CHECK; THE STALE-STATEMENT DOCKET; THE REGISTER'S PHASE 7 ROWS; THE NON-WIND RULINGS** *(2026-10-29)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"yes, go ahead on all four."* (answering the four items offered after `DR-79`) |
+| **Recorded as** | (1) **Guilt is not a sanction** under the proportionality check; no court, penalty, rota or rule follows (AQ-11). (2) **A docket of stale statements** is written in the Phase 7 amendment file (section 11); **nothing in any pass file was marked or changed** (AQ-12). (3) **The register's Phase 7 rows are replaced** by the verified result, and its Phase 6 axis row now carries the ruled wording (AQ-13). (4) **The non-wind rulings** (`DR-55` Q-66; `DR-59` Q-68, Q-70) are applied in the amendment layer, labeled non-wind (AQ-14). |
+| **Not ruled** | AQ-15 (the highway rule "whoever is there" never read onto the relay or a weather hazard) and AQ-16 (Phase 7's description of Q-72 against `DR-55`'s); the strongest-finding form; the requests AR-17 to AR-27. |
+| **Files** | This log; `Mirny/Amendment_Rederivation_P07_Order_2026-10-29.md` (section 11 added, AQ-11 to AQ-14 marked); `Mirny/DR-56_Amendment_Register_2026-10-13.md` (section 2b added, old Phase 7 rows removed, axis row corrected, status lines updated). |
+

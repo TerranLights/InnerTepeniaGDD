@@ -52,3 +52,10 @@ Developer: the lists of 3 or 4 picks per city are far too small. **Target: 30 to
 **Concordia (developer, 2026-10-26):** its inspiration work is deferred and must be done **per district** (13 districts, researched separately, district method). `candidates/Concordia.md` is a city-level first pass only. Do not queue Concordia's research units (`Concordia` in `_TRACKER.md`) until the district lists exist. Its Round 1 file (`Research_Logs/Concordia_Inspiration_Place_Research_R1.md`, Moscow and Los Angeles ticked) is kept as it is.
 
 **Ruling (developer, 2026-10-26):** the no-South-Asians rule means no South Asians in Antarctica; it does not forbid South Asian places as inspirations. Jamshedpur, Leh and the Ladakh ice stupas are acceptable. Nothing needs striking for that reason.
+
+
+## ⭐ 2026-10-29 — Relung Panen second list (71 picks) is QUEUED and Round 1 of the first four units is RUNNING
+- Developer: *"dispatch separate subagents to research batches of those 71 candidates."* The 71 (#27 to #97 in `candidates/Relung_Panen.md`) were split into 12 units, `inputs/Relung_Panen_B01.md` to `B12.md`, rows in `_TRACKER.md` (section at the foot). Tiers are NOT set; the developer sets them after the research.
+- **Wave 1 dispatched 09:10:** Round 1 of B01 (agent `a8a41892adcb13437`), B02 (`a6c400eb243bc59cc`), B03 (`a6abe0f5cd77159de`), B04 (`a482fb4cd506800c9`). Outputs: `Cities/Research_Logs/Relung_Panen_B0n_Inspiration_Place_Research_R1.md`; slang (only if found): `slang_found/Relung_Panen_B0n_R1_slang.md`.
+- **Next:** check each file's PROGRESS block (every pick and FINAL ticked) before marking a tracker row; then Round 2 of each finished unit; then B05 to B12 as the search budget allows (about 45 searches per pick per round; 71 picks x 2 rounds is roughly 6,000 searches against 1,000 at session start and about 100 per hour after). Never work around a refused search.
+- The Round 2 brief in `_PROTOCOL_AND_BRIEFS.md` still lists slang and nicknames under subcultures; `WHAT_TO_LOOK_FOR.md` overrides it (slang goes to `slang_found/` only). Tell Round 2 agents so explicitly.

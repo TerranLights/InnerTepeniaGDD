@@ -97,3 +97,30 @@ get a row only where a city surfaces them.
 
 > **An empty collisions section after a full pass is not a clean result; it is an unrun guard.** The district
 > table's own history says collisions are found when the table is used honestly.
+
+---
+
+## ⭐ Relung Panen's column *(added 2026-10-29; DRAFT from a determination, not from a ULM pass)*
+
+> Added as a separate subsection because the main table's cells are hand-aligned and two columns are interleaved. **Read before writing:** the A1 to LAW G rows above (Sinheung, Shirayuki) were read for every row below. Cells hold the local form in one phrase, never the percentage. Source: `18_Relung_Panen_Determination_2026-10-29.md` and the research logs it cites; the city's ULM pass has not run, so these cells are provisional and are to be replaced by the pass's own entry when it runs.
+
+| Industry | ⭐ **Relung Panen** |
+|---|---|
+| **A1 Thermal & power** | **off-grid, and power is the binding constraint** *(no geothermal, no measured wind resource; spec Economy text)* |
+| **A2 Water & sanitation** | **lake water, not ice-melt, with a salt line through the oasis** *(hundreds of lakes; fresh to hypersaline; sea-spray salts north of the line, carbonates and gypsum south of it)* |
+| **A3 Enclosure & atmosphere** | ordinary *(indoor stacked hydroponics, as everywhere)* |
+| **A4 Construction & maintenance** | **frost-heave on thawing till over permafrost** *(table 82 to 106 cm; a real thaw season)*, **not ice flow: the foundation is rock** |
+| **B1 Food production** | ⭐ **the second, uncorrelated region** *(indoor stacked hydroponics plus an outdoor belt on made ground; ruled Strong)* |
+| **B2 Human healthcare** | ordinary |
+| **B3 Robot maintenance & parts** | ordinary |
+| **C1 Education & training** | ordinary |
+| **C3 Administration & records** | ordinary |
+| **C4 Materials recovery** | ⭐⭐ **THE NATIONAL PHOSPHORUS-RECOVERY ROLE** *(recovery as the infrastructure the whole food system stands on; also takes other cities' waste streams)* |
+| **D1 Transport & logistics** | **one spur, no port** *(about 470 km round the head of Vincennes Bay to the single gateway; food goes out and phosphorus comes in on the same road)* |
+| **⭐ LAW G — the weird slot** | ⭐ **A PHOSPHORUS LEDGER.** *Derangement: the oasis keeps its mineral as capital, counting every kilogram that leaves a farm and every kilogram it gets back. Inevitability: the nation cannot manufacture phosphorus and this is its largest consumer, so the biggest eater must be the biggest keeper.* |
+
+### Collision check, run before the cells were written
+
+- **A2:** Sinheung reads *"meltwater, not ice-melt"* and Shirayuki *"oasis meltwater, shared with the cluster."* **Near-collision, resolved by form:** Relung Panen's water is standing lake water, and the form that sets it apart is the salt line, not melt.
+- **D1:** Shirayuki reads *"NO SHORE"* (about 8 km inland of a harbor it cannot see). **Near-collision, resolved by form:** Relung Panen's is a single long spur through one gateway, with no harbor within reach.
+- **LAW G:** the two filled columns share one family ("a practice that is not what its label says"). Relung Panen's is a different shape: **a ledger kept over a mineral, not a misfiled practice.** If a later city also keeps a ledger over a mineral, that is the collision to catch.

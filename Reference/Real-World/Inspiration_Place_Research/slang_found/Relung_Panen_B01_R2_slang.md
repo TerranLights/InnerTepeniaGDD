@@ -1,0 +1,14 @@
+# Slang and colloquial expressions found by chance · unit `Relung_Panen_B01` · Round 2
+
+Found while researching the kinds in `../WHAT_TO_LOOK_FOR.md`; not hunted. Not an input to any city pass. Format per `README.md`. Created 2026-10-29.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Virgin Lands, northern Kazakhstan (pick 1) | "kalbit" | Russian-language Soviet usage (as transliterated by the source) | pejorative nickname for Kazakhs, glossed "ignorant, uncultured" | children (and in everyday communication) in Soviet multiethnic Kazakhstan | Mazhitova et al., "The Baltic Peoples in the Development of Virgin Lands in Kazakhstan," Journal of Ecohumanism 3(6), pp. 1960–1972 (citing Raudvere 2020) | 2024 | SOURCED |
+| Virgin Lands, northern Kazakhstan (pick 1) | "mambet" | as transliterated by the source | pejorative nickname for Kazakhs, glossed "from the countryside" | same | same | 2024 | SOURCED |
+| Virgin Lands, northern Kazakhstan (pick 1) | "Fritz", "fascist" | as given by the source | pejorative nicknames for Germans | same; an Estonian informant says he and a German schoolfriend were both called "fascist" | same | 2024 | SOURCED |
+| Virgin Lands, northern Kazakhstan (pick 1) | "dog-eater" | English gloss given by the source | pejorative nickname for Koreans | same | same | 2024 | SOURCED |
+| Virgin Lands, northern Kazakhstan (pick 1) | "Khachik" | as transliterated by the source | pejorative nickname for representatives of Caucasian peoples | same | same | 2024 | SOURCED |
+| Virgin Lands, northern Kazakhstan (pick 1) | "rusish schweine"; "ak kulak" | German-derived; Kazakh (as transliterated by the source) | pejorative nicknames for Russians; source glosses "Russian pig" and "pig ear" respectively | same | same | 2024 | SOURCED |
+| Virgin Lands, northern Kazakhstan (pick 1) | "Losharik" | Russian (as transliterated by the source) | nickname an Estonian informant was called at school; source context: classmates laughed at Estonian pronunciation | schoolchildren, northern Kazakhstan | same (informant 9) | 2024 | SOURCED |
+| Virgin Lands, northern Kazakhstan (pick 1) | "Lithuanian fascist" | English rendering by the source | name a Lithuanian informant was called as a child at school, which the informant traces to parents' wartime memories | schoolchildren, northern Kazakhstan | same (informant 8) | 2024 | SOURCED |
