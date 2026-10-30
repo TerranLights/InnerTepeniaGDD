@@ -44,5 +44,6 @@
 | ↳ entry line | *[source line compares the city with other places; not copied, line number recorded only]* | `City_Relationship_Database.md` L74 |
 | `City_Cross_Subnet_Relationships.md` — lines naming the city | 2 line(s): L62, L204 *(line numbers only)* | `City_Cross_Subnet_Relationships.md` L62, L204 |
 | `City_National_Connections.md` — lines naming the city | 13 line(s): L88, L106, L108, L110, L112, L117, L120, L131, L158, L233, L283–284, L594 *(line numbers only)* | `City_National_Connections.md` L88, L106, L108, L110, L112, L117, L120, L131, L158, L233, L283–284, L594 |
+| `Upper_Earth_Immigration_Composition.md` — the gateway-corridor row naming Santa Luce | *[source line is a multi-city list; not copied, line number recorded only]* | `Upper_Earth_Immigration_Composition.md` L138 |
 
 **Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis — none of this exists until Santa Luce's own pass runs.

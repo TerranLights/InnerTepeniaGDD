@@ -12,6 +12,7 @@
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21; re-compared 2026-10-29 after `DR-83` (Magna Lombardia and Meridia added to both): identical |
 | Annotations in the tier tables | None | Read 2026-10-21 |
 | Per-nation breakdown (spec) | Present at L28–L66 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Santa_Luce.md` L28 |
+| `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L288–L296: the tier table and key note (updated 2026-10-29, `DR-83`). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L288–L296 |
 | Census I | 213,834 H / 223,780 R / **437,614** combined | `Official_Population_Census.md` L499 |
 | Census II | 132,423 H / 126,398 R / **258,821** combined | `Official_Population_Census.md` L624 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 58.73% · human 61.64% · robot 55.97% | Computed from the two rows above |
