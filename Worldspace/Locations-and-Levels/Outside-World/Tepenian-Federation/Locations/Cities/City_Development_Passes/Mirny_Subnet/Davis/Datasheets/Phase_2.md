@@ -1,6 +1,6 @@
 # Davis — Datasheet · Phase 2 (Composition & Arrival)
 
-> ⚠ **DRAFT — Tier C.** Built ahead of `04_Phase_02_Composition_and_Arrival.md` *(since written, T8-verified,
+> ⚠ **DRAFT — Tier C.** Built ahead of `04_Phase_02_Composition_and_Arrival.md` *(since written, T8-verified, 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > 2026-09-16)*. Safe to build ahead of the phase, since it is mechanical fact only, no synthesis. Two provenance tiers below: **directly verified** (I
 > read the cited lines myself, this session) vs. **T8-reported** (quoted by today's three Round 1/Round 3
 > readers; not yet independently re-confirmed by me against the primary text at its exact byte range).

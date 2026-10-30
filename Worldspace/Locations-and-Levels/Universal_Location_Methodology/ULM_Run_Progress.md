@@ -471,3 +471,5 @@ one-piece-at-a-time work is actually logged.*
 | **Step 2 · generators** | ✅ **G2 · G3 · G4 · G5 · G8 present at 38/38.** `G7` 37/38, `G1` 36/38 — *the threshold is 3, so no city is short* |
 | **`G6`** | ⏸️ **Deferred out of input prep corpus-wide.** ⛔ **Do not report it as a gap** |
 | **Gate 11 denominator** | ⚠ *Only meaningful where there is a coastline* |
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/ULM_Run_Progress.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

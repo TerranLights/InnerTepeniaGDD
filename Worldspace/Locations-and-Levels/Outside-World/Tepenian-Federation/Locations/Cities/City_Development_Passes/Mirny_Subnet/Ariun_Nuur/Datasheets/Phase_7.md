@@ -11,7 +11,7 @@
 > **How each area's criminal-justice system works is UNDEVELOPED, NOT ABSENT.** Do not derive one, and do not
 > read the silence as a characterization.
 
-> ⚠ **DRAFT — Tier C.** Vostok's own §23 section in `16_Per_City_Three_Tier_Run.md` is the actual determined
+> ⚠ **DRAFT — Tier C.** Vostok's own §23 section in `16_Per_City_Three_Tier_Run.md` is the actual determined 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > figure — extracted directly, not re-derived. `01_Burden_Scoring_Model.md` §6 carries a SEPARATE, explicitly
 > illustrative worked example using Vostok's own data; the two are not the same thing and are recorded
 > separately below.

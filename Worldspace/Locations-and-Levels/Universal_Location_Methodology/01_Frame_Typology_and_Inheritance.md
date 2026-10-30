@@ -586,3 +586,5 @@ Goes at the head of every pass, before any content.
 **The block is not bureaucracy.** Every line of it changes a later question, and four of the seven substantive
 errors the developer has caught in this project were scale, scope, or frame errors that a declaration block
 would have made visible before the writing started.
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/01_Frame_Typology_and_Inheritance.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

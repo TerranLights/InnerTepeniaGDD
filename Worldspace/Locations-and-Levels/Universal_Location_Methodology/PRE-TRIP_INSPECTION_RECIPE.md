@@ -1,7 +1,7 @@
 # THE PRE-TRIP INSPECTION — **a RECIPE for generating one location's own address book**
 
 **Written 2026-09-07, from the measured failures of city 2 (`Sinheung`).**
-**Applies to any location of any type, in any setting that uses this methodology.**
+**Applies to any location of any type, in any setting that uses this methodology.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > # ⛔ THIS FILE IS A GENERATOR, NOT A LIST.
 > **It does not tell you where anything is.** ***It tells you how to WRITE, for one named location, a file that
@@ -245,3 +245,5 @@ block produce familiarity without knowledge, and `grep` returns exactly what you
 > itself, never only in a log.** ⛔ ***A source read but cited only in a log is invisible to everything
 > downstream.*** ⭐ **That converts "did you open it" from a claim into an artifact, which is the only form of
 > this instruction that has ever held.**
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/PRE-TRIP_INSPECTION_RECIPE.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

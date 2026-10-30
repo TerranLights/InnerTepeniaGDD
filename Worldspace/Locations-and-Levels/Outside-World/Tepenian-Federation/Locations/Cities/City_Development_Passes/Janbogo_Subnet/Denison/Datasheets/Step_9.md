@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step 9 (Record)
 
-> **Tier U — the fixed procedure text, corpus-wide.**
+> **Tier U — the fixed procedure text, corpus-wide.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 Citation: `Corpus_Reference_Sheets/Step_9_Record_Full_Text_Quick_Reference.md`, in full — carries
 `00_RUNBOOK.md` §Step 9 and §9.5's fixed procedure text: append the QA block and Review Panel block,

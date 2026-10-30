@@ -1,6 +1,6 @@
 # Denison — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C.** ⛔ **This phase's subject matter is inherently about what connects to what,
+> ⚠ **DRAFT — Tier C.** ⛔ **This phase's subject matter is inherently about what connects to what, 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > which routinely requires naming another location. This datasheet records ONLY Denison's own
 > infrastructure facts, standing alone. Any content that would require naming a neighboring city by
 > name is deferred to the real Phase 5 pass, where the one-sentence relation-vs-comparison test can

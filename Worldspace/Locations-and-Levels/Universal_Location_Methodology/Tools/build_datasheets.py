@@ -873,7 +873,7 @@ def main():
                 if B.ex(p) and "--force" not in argv:
                     print("   REFUSED (exists):", p)
                     continue
-                open(p, "w", encoding="utf-8").write(t)
+                open(p, "w", encoding="utf-8").write((lambda u: u if u != t else re.sub(r"(?m)^(>[^\n]*)$", lambda m: m.group(1) + " 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*", t, count=1))(re.sub(r"(?m)^(> ⚠[^\n]*)$", lambda m: m.group(1) + " 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*", t, count=1)))
     return 0
 
 

@@ -1,6 +1,6 @@
 # Santa Luce — Datasheet · Step 3 (Research)
 
-> ⚠ **DRAFT.** Genuinely thin, as the Field Guide predicts: "the deficits Step 2 named" do not exist before Santa Luce's own Step 2 runs. This file is a status check.
+> ⚠ **DRAFT.** Genuinely thin, as the Field Guide predicts: "the deficits Step 2 named" do not exist before Santa Luce's own Step 2 runs. This file is a status check. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 
 | Category | Value | Citation |

@@ -1,6 +1,6 @@
 # Davis — Datasheet · Phase 3 (Surface & Texture)
 
-> ⚠ **DRAFT — Tier C.** Most of this phase's mechanical content was already established during earlier work
+> ⚠ **DRAFT — Tier C.** Most of this phase's mechanical content was already established during earlier work 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > and is cross-referenced here, not re-derived. `Specs/Davis.md` re-verified this turn at its new path
 > `Specs/Mirny subnet/Davis.md` (181 lines) — see Davis's own README for the reorg note.
 

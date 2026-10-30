@@ -6,7 +6,7 @@
 
 > ⛔ **NOT CARRIED:** cross-city sentences in `16` §27 (the scope-word table, L2768–2774) · the later-era passages
 > of §27 (L2783–2800 and L2815–2822) · the Factions material (flagged below).
-> ⚠ **`H42` — criminal justice is UNDEVELOPED, not absent, corpus-wide.**
+> ⚠ **`H42` — criminal justice is UNDEVELOPED, not absent, corpus-wide.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > ⚠ **DRAFT — Tier C.**
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.

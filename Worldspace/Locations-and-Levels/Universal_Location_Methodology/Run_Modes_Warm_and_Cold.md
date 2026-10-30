@@ -176,3 +176,5 @@ readiness check · `§C.8a`'s exclusion list · `§C.8d` — Concordia is not a 
 
 > ## **A warm run is not a lesser run. It is the same instrument with a different admissible input set, and
 > it is the one that produces cities.**
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Run_Modes_Warm_and_Cold.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

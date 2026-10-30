@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Phase 6 (Meaning)
 
-> ⚠ **DRAFT — Tier C + Tier U.** ⛔ **Excluded sections — see `Step_-1.md`.**
+> ⚠ **DRAFT — Tier C + Tier U.** ⛔ **Excluded sections — see `Step_-1.md`.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Thin, per the Field Guide's own prediction — confirmed genuinely thin for Vostok, not merely
 > unsearched.**
 

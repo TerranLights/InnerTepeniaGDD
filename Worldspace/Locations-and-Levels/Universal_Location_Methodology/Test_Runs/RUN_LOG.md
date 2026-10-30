@@ -501,3 +501,5 @@ reader)*.
 > ***Every arithmetic error in this run was the consumer's.*** **`§C.2`'s controls all point at the readers.**
 
 ---
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Test_Runs/RUN_LOG.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

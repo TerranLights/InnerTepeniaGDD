@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
 
-> ⚠ **DRAFT — Tier C + Tier U.** Feeds `00_Frame.md` when Denison's own Step 0 actually runs.
+> ⚠ **DRAFT — Tier C + Tier U.** Feeds `00_Frame.md` when Denison's own Step 0 actually runs. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 

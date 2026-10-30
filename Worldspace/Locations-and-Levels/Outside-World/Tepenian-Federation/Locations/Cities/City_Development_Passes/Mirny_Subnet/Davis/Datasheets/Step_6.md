@@ -6,7 +6,7 @@
 > **Do not consult this file for Davis's differentiation work — it is retained only as a record of what a
 > pre-staged datasheet looked like before the pass overtook it.**
 
-> ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.**
+> ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Nothing about Step 6 differs by city — the governing rule, Part III's full text (III.0–III.4), and the
 > destination addresses are all corpus-wide constants, already pasted in full there. No need to re-extract.
 > ⛔⛔ **CORRECTED 2026-09-15** — this file previously claimed Davis's differentiation axis "cannot exist before

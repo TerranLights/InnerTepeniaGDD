@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step 3 (Research)
 
-> ⚠ **DRAFT — Tier C.** No new mechanical content — "the deficits Step 2 named" are this city's own
+> ⚠ **DRAFT — Tier C.** No new mechanical content — "the deficits Step 2 named" are this city's own 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > prior output, which does not exist until Step 2 actually runs.
 
 | Category | Value | Citation |

@@ -26,7 +26,7 @@
 >    extract.*** Found and flagged only. **Route to the terminal differentiation check.**
 > 3. ⛔ **`Factions/Cross_City_Cultural_Patterns.md` L149 also names this city, inside an explicitly cross-city
 >    list** (cities grouped "for function/scale"). Same treatment — found, not extracted.
-> ⚠ **`H42` — criminal justice is UNDEVELOPED, not absent, corpus-wide. Do not derive one for this city.**
+> ⚠ **`H42` — criminal justice is UNDEVELOPED, not absent, corpus-wide. Do not derive one for this city.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > ⚠ **DRAFT — Tier C.** This city's own §24 section in `16_Per_City_Three_Tier_Run.md` is unusually rich and
 > already-determined — extracted directly, not re-derived.

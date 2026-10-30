@@ -1,6 +1,6 @@
 # Dome Fuji — Datasheet · Phase 8 (Making)
 
-> ⚠ **DRAFT — Tier C + Tier U. Thin by nature (as the Field Guide predicts).** An absence in the admitted set is a hole, not a finding.
+> ⚠ **DRAFT — Tier C + Tier U. Thin by nature (as the Field Guide predicts).** An absence in the admitted set is a hole, not a finding. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** the developer's interim colloquial name `The Temple` is NOT searched (it is an ordinary phrase); the official name is pending. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).

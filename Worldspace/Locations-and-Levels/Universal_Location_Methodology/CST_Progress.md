@@ -233,3 +233,5 @@ deeper now that Phases 0–10 are all closed?**
 **0 / 38 cities have any technique run.**
 
 📎 `Cultural_Synthesis_Input_Availability.md` · `MASTER_Process_Tracker.md`
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/CST_Progress.md`; also at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/CST [Culture Synthesis T]/from InnerTepeniaGDD/CST_Progress.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

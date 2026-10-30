@@ -1,6 +1,6 @@
 # Cape Adare — Datasheet · Phase 3 (Surface & Texture)
 
-> ⚠ **DRAFT — Tier C.** Cape Adare's Specs file states physical/sensory content directly — extracted as quotes
+> ⚠ **DRAFT — Tier C.** Cape Adare's Specs file states physical/sensory content directly — extracted as quotes 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > below, not re-derived. This is existing canon description, not this datasheet's own finding.
 > ⛔⛔ No later-era content appears below — the spec's Gameplay Notes (L201–205), the later-era clauses inside
 > L198, L241 and L243–244, and the three later-era sections (L256–277) are excluded per the standing

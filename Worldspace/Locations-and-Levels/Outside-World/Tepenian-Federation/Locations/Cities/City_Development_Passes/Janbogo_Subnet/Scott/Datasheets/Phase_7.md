@@ -4,7 +4,7 @@
 >
 > ⛔ **Three things that may not be carried, wherever they appear:** (1) any statement of what the national currency is backed by (`DR-3`: nothing about the money's backing is settled); (2) `16`'s per-city Notes that read real-world site NAMESAKES as character (GPS law: a namesake is a coordinate only); (3) `Factions/City_Origin_Factions_Second_Interwar.md` is an explicitly comparative grouping — ONE LOCATION: do not open it in a city pass.
 >
-> ⚠ **`H42` — developer ruling 2026-09-16:** how each area's criminal-justice system works is UNDEVELOPED, NOT ABSENT. Do not derive one and do not read the silence as a characterization.
+> ⚠ **`H42` — developer ruling 2026-09-16:** how each area's criminal-justice system works is UNDEVELOPED, NOT ABSENT. Do not derive one and do not read the silence as a characterization. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > ⚠ **DRAFT — Tier C.**
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.

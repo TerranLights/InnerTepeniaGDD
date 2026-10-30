@@ -1,6 +1,6 @@
 # Mawson — Datasheet · Phase 9 (Populations)
 
-> ⚠ **DRAFT — Tier U, near-none Tier C (the Field Guide's own prediction).**
+> ⚠ **DRAFT — Tier U, near-none Tier C (the Field Guide's own prediction).** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Mawson subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 9), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (3 directly, 1 through a shared Tier U sheet it cites).

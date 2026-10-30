@@ -4,7 +4,7 @@
 > commit the column is completed. **Never read another city's row, cell, or column — not even to
 > verify a peer's read.**
 
-> ⚠ **DRAFT — Tier C.** The section inventory below is structure copied from the destination table's headers, not another city's answer; this city's own entry is its fresh output.
+> ⚠ **DRAFT — Tier C.** The section inventory below is structure copied from the destination table's headers, not another city's answer; this city's own entry is its fresh output. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Category | Value | Citation |
 |---|---|---|

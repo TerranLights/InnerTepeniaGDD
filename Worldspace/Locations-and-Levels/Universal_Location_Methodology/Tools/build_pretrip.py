@@ -617,7 +617,7 @@ def build(key):
     # ---- title, header, provenance -------------------------------------------------------------------------------
     put(1, "# %s — Pre-Trip Inspection" % ctx.name)
     put(3, "**Generated per `%s/PRE-TRIP_INSPECTION_RECIPE.md`, %s, by `Tools/build_pretrip.py`** — Casey's sheet is the template; "
-           "every city-specific row was computed fresh for this city (see ⚙ below)." % (ULM, TODAY))
+           "every city-specific row was computed fresh for this city (see ⚙ below)." % (ULM, TODAY) + " 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*")
     put(11, "*(Developer, 2026-09-29/30.)* Every standard `T8` list in §C and §D below was resolved from the runbook's own step text and")
     put(12, "its REQUIRED READING boxes (on Casey's sheet, 2026-09-30) and is **carried unchanged** here; every city-specific row was computed "
             "for this city. ⛔ **Three measured failures of the copied-list")

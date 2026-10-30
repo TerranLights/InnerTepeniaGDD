@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step 8 (The Review Panel)
 
-> **Tier U — the panel-position roster and disposition definitions, fixed corpus-wide.**
+> **Tier U — the panel-position roster and disposition definitions, fixed corpus-wide.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 Citation: `Corpus_Reference_Sheets/Review_Panel_Full_Text_Quick_Reference.md`, in full — carries
 `Disciplines/00f_Review_Panel.md`'s panel-position roster (Six Flat Archetypes plus the mandatory

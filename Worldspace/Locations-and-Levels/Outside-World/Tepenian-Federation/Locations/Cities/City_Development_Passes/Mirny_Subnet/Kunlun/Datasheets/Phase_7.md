@@ -10,7 +10,7 @@
 > **How each area's criminal-justice system works is UNDEVELOPED, NOT ABSENT.** Do not derive one, and do not
 > read the silence as a characterization.
 
-> ⚠ **DRAFT — Tier C.** Kunlun's own §22 section in `16_Per_City_Three_Tier_Run.md` is unusually rich and
+> ⚠ **DRAFT — Tier C.** Kunlun's own §22 section in `16_Per_City_Three_Tier_Run.md` is unusually rich and 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > already-determined, INCLUDING a flagged pending revision — extracted directly, not re-derived.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 

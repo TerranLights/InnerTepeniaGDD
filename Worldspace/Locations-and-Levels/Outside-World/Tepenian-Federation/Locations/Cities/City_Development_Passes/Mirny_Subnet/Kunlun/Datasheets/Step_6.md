@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Step 6 (Differentiate — WRITE-ONLY)
 
-> ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.**
+> ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Nothing about Step 6 differs by city — the governing rule, Part III's full text (III.0–III.4), and the
 > destination addresses are all corpus-wide constants, already pasted in full there. No need to re-extract.
 > ✅ **In-run: III.4's four substitutes are the ordinary path.** III.2 steps 1–2 (read-a-sibling's-row) are

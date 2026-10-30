@@ -1,6 +1,6 @@
 # Zukelli — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
 
-> ⚠ **DRAFT — Tier C + Tier U.** Step 0 and Phase 0 draw on identical underlying facts — merged per the Field
+> ⚠ **DRAFT — Tier C + Tier U.** Step 0 and Phase 0 draw on identical underlying facts — merged per the Field 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Guide's consolidated 19-file convention. **Feeds `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/00_Frame.md` when Zukelli's own Step 0 runs.**
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.

@@ -1,6 +1,6 @@
 # Cape Adare — Datasheet · Step 3 (Research)
 
-> ⚠ **DRAFT.** Genuinely thin, per the Field Guide's own prediction — "the deficits Step 2 named" don't exist
+> ⚠ **DRAFT.** Genuinely thin, per the Field Guide's own prediction — "the deficits Step 2 named" don't exist 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > yet, since Cape Adare's own Step 2 hasn't run. This file is a status check, not a findings summary.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 

@@ -439,3 +439,5 @@ not in it** — and that transition is where Run 14 died. **It does not announce
 **Full reasoning for every rule above: `OBSERVATIONS_and_Methodology_Findings.md`, M-87 – M-109.**
 **The governing law is M-104: *the protection operates at level N; the leak arrives at level N+1.*
 `00_RUNBOOK.md` `Step −2` carries the twelve-row leak register. Check it; do not re-derive it.**
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Test_Runs/COLD_RUN_CHECKLIST.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

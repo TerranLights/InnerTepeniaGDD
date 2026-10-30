@@ -120,3 +120,5 @@ re-count before relying on a row.
 | 2026-09-30 | Tracker drafted from live folder counts. |
 | 2026-09-30 | Cape Adare: 19 datasheets built (DRAFT), per `Mechanical_Extraction_Field_Guide.md`. |
 | 2026-09-30 | Zukelli: 19 datasheets built (DRAFT). ±3 window ruled Notable-only, as written (developer; `DR-19`). |
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Datasheet_and_PreTrip_Tracker.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

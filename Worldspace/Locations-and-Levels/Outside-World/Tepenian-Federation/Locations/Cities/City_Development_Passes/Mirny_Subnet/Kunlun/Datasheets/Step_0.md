@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
 
-> ⚠ **DRAFT — Tier C.** Kunlun's own ULM pass has NOT started; no Step 0 declaration exists. This is
+> ⚠ **DRAFT — Tier C.** Kunlun's own ULM pass has NOT started; no Step 0 declaration exists. This is 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > bibliographic/census fact only, not the type/modifier/generator declaration itself.
 > ⛔ **Excluded sections — see `Step_-1.md`.** Nothing below cites them.
 

@@ -123,7 +123,7 @@ content early would violate that rule regardless of how simple the content is to
 
 ## Two further standing rules
 
-- **A datasheet entry is a value + its citation** (source file, exact line/range) — nothing else. No adjectives,
+- **A datasheet entry is a value + its citation** (source file, exact line/range) — nothing else. No adjectives, 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
   no synthesis, no cross-city comparison, ever, at either tier.
 - **A computed value states its formula and both input citations**, so a later reader can verify the arithmetic
   rather than trust it — the same discipline `DR-6`/T8 already apply to reading.
@@ -501,3 +501,5 @@ off-hours sessions.
 ---
 
 *First applied: Davis, 2026-09-15 — see `City_Development_Passes/Mirny_Subnet/Davis/Datasheets/`.*
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Mechanical_Extraction_Field_Guide.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

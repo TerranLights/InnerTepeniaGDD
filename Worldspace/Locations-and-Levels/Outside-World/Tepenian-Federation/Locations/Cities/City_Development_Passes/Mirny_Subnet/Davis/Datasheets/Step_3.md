@@ -1,6 +1,6 @@
 # Davis — Datasheet · Step 3 (Research, aimed at what Step 2 named)
 
-> ⚠ **DRAFT — Tier C.** Built by citing INTO `Davis/03_Research.md` (already T8-verified). ⛔ **Note per the
+> ⚠ **DRAFT — Tier C.** Built by citing INTO `Davis/03_Research.md` (already T8-verified). ⛔ **Note per the 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Field Guide: Step 3 has near-zero NEW mechanical content of its own — "the deficits Step 2 named" are this
 > city's own prior output, and the research log's raw material overlaps the already-queued eBook pre-staging
 > tally.** What follows is a status table, not a findings summary.

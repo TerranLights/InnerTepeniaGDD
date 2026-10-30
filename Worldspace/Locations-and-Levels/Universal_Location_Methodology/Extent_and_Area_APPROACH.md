@@ -371,3 +371,5 @@ extent, and the other 25 are closed by the coastline ruling, not pending** *(`Ex
 `ULM_Input_Required_Reference.md` → `T2-8` · `ULM_Input_Available_Audit.md` §2 *(the headline gap)* ·
 `Location_Data-Input_To-Do.md` §1 *(ranked #1)* ·
 `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md` *(retention, per city)*
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Extent_and_Area_APPROACH.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

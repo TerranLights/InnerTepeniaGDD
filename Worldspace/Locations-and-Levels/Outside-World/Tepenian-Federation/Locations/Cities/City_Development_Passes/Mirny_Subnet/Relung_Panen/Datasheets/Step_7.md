@@ -1,6 +1,6 @@
 # Relung Panen — Datasheet · Step 7 (QA, 17 gates)
 
-> ⚠ **DRAFT — Tier U.** Full operative text for every gate (definitions, checklists, load-bearing warnings) is
+> ⚠ **DRAFT — Tier U.** Full operative text for every gate (definitions, checklists, load-bearing warnings) is 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > pasted in full at ⭐ `Corpus_Reference_Sheets/QA_Gates_Full_Text_Quick_Reference.md`. The index below is kept
 > here too, inline, so a gate can be located at a glance without an extra hop.
 

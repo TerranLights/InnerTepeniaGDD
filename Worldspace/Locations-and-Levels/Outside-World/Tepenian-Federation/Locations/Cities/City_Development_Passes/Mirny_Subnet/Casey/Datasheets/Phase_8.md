@@ -1,6 +1,6 @@
 # Casey — Datasheet · Phase 8 (Making)
 
-> ⚠ **DRAFT — Tier C + Tier U. Partially thin — music is already substantially covered via Splinters (cross-ref
+> ⚠ **DRAFT — Tier C + Tier U. Partially thin — music is already substantially covered via Splinters (cross-ref 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `Phase_3.md`/`Phase_7.md`); cuisine, dress, and craft remain genuinely unstated, verified not assumed.**
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).

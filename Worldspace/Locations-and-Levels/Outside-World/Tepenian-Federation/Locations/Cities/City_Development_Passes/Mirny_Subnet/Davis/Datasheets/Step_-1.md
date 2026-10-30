@@ -1,6 +1,6 @@
 # Davis — Datasheet · Step −1 (Input Contract)
 
-> ⚠ **DRAFT — Tier C.** Built by citing INTO `Davis/00.1_Step_MINUS-1_Input_Contract.md` (itself an already
+> ⚠ **DRAFT — Tier C.** Built by citing INTO `Davis/00.1_Step_MINUS-1_Input_Contract.md` (itself an already 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > T8-verified pass output, unanimous, `triple_read_verify.py` 15/15). **Not yet independently re-verified via a
 > fresh 3-reader T8 dispatch of its own**, per `Mechanical_Extraction_Field_Guide.md`'s standing note. A value +
 > its citation, nothing else — no synthesis added here.

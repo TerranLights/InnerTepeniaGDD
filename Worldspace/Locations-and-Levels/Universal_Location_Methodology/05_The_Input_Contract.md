@@ -819,3 +819,5 @@ that got filled and then cited.**
 **An explicit input contract is what stops that.** It converts *"I don't know, so I'll write something
 plausible"* into *"I don't know, so I'll write a request" —* and a request is visible, answerable, and cannot be
 mistaken for canon by the next reader.
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/05_The_Input_Contract.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

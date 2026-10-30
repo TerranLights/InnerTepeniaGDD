@@ -66,3 +66,12 @@ Developer, 2026-10-26: two rounds at full depth for every city; accuracy and dep
 | `Relung_Panen_B10` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | Farm-region civic life: halls, co-ops, shows and ice-break events (#81 to #86) |
 | `Relung_Panen_B11` | Relung Panen | Mirny ("Australian") Subnet | 6 | ✅ | ✅ | The ice calendar, and what happens when farming water is taken (#87 to #92) |
 | `Relung_Panen_B12` | Relung Panen | Mirny ("Australian") Subnet | 5 | ✅ | ✅ | Remote farming schemes and failures; solo road-travel music (#93 to #97) |
+
+## Santa Luce, candidate list (13 places; added 2026-10-29)
+
+*Developer, 2026-10-29: dispatch Santa Luce's inspiration research. The candidate list (`candidates/Santa_Luce.md`, 76 rows, drafted from knowledge on 2026-10-26) is researched in priority order within the session's web-search budget: the 11 rows suggested PRIMARY plus the four existing picks (#10 to #13) = 13 places in two units. **The remaining 63 candidates (31 suggested SECONDARY and 32 SUPPORTING; #14 to #76) are NOT researched yet**; they wait for a fresh session. The old four-pick unit `Santa_Luce` above is superseded by these two units (it holds the same four picks). Tiers are the developer's.*
+
+| Unit | City | Subnet | Picks | Round 1 | Round 2 | Note |
+|---|---|---|--:|---|---|---|
+| `Santa_Luce_C01` | Santa Luce | Halley ("Atlantic") Subnet | 7 | ✅ | ✅ | Candidates #1 to #7 |
+| `Santa_Luce_C02` | Santa Luce | Halley ("Atlantic") Subnet | 6 | ✅ | ✅ | Candidates #8 to #13 (includes the four existing picks) |

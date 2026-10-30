@@ -1,6 +1,6 @@
 # Neumayer — Datasheet · Phase 9 (Populations)
 
-> ⚠ **DRAFT — Tier U, near-none Tier C (the Field Guide's own prediction).**
+> ⚠ **DRAFT — Tier U, near-none Tier C (the Field Guide's own prediction).** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 9), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (3 directly, 1 through a shared Tier U sheet it cites).
 

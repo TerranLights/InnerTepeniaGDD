@@ -1,6 +1,6 @@
 # Cape Adare — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
 
-> ⚠ **DRAFT — Tier C + Tier U.** Step 0 and Phase 0 draw on identical underlying facts (census, coordinates,
+> ⚠ **DRAFT — Tier C + Tier U.** Step 0 and Phase 0 draw on identical underlying facts (census, coordinates, 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > timeline era) — merged per the Field Guide's consolidated 19-file convention. **Feeds `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/00_Frame.md` when
 > Cape Adare's own Step 0 actually runs.** Its own Frame declaration has not been written; this file carries
 > only what a source already states directly.

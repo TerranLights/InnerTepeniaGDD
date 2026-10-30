@@ -487,3 +487,5 @@ reference entry.** *(`City_Vision_Notes/` exists for all 37 but is struck corpus
 > ***That is not thirty-seven separate oversights. It is one structural fact: a missing ROW in a shared table
 > is visible, and a FILE that was never created is not.*** **`05` §7's pre-flight is run BY a pass ABOUT the
 > single city it is writing, so nothing in the methodology has ever asked this question across the corpus.**
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Location_Data-Input_To-Do.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

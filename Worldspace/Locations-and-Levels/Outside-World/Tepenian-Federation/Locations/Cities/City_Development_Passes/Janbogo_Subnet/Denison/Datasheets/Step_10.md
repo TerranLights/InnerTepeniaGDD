@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step 10 (The Readiness Check)
 
-> **Tier U — `06_Worked_Example_Provenance.md`'s stated content.** The memory index and
+> **Tier U — `06_Worked_Example_Provenance.md`'s stated content.** The memory index and 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `00_RUNBOOK.md` §Step 10 change too often / require too much judgment to pre-stage.
 
 Citation: `Corpus_Reference_Sheets/Step_10_Readiness_Check_Full_Text_Quick_Reference.md`, in full.

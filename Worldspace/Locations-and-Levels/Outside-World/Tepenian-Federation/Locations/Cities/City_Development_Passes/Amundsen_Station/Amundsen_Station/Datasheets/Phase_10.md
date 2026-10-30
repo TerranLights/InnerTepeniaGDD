@@ -1,6 +1,6 @@
 # Amundsen Station — Datasheet · Phase 10 (Catalog)
 
-> ⚠ **DRAFT — Tier C + Tier U.** A hit in characters canon is a lead, not a verdict: check the actual sentence (a `<City> Subnet` qualifier names a different city).
+> ⚠ **DRAFT — Tier C + Tier U.** A hit in characters canon is a lead, not a verdict: check the actual sentence (a `<City> Subnet` qualifier names a different city). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 
 | Category | Value | Citation |

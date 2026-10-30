@@ -1,6 +1,6 @@
 # Zukelli — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C. ⛔ CONTAINS A FLAGGED CONTAMINATION RISK** — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_National_Connections.md`'s own Method
+> ⚠ **DRAFT — Tier C. ⛔ CONTAINS A FLAGGED CONTAMINATION RISK** — `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_National_Connections.md`'s own Method 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > draws on withheld/read-last sources for every city.
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.

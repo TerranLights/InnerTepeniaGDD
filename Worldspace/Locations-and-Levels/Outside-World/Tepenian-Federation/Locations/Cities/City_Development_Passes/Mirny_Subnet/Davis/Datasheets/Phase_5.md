@@ -1,6 +1,6 @@
 # Davis — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS A FLAGGED CONTAMINATION RISK — read the box below before using this file's
+> ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS A FLAGGED CONTAMINATION RISK — read the box below before using this file's 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > "flagged, not extracted" section for anything.**
 
 ## Clean — relation-legal, no withheld source, no reserved-person content

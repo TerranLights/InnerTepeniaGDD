@@ -1,6 +1,6 @@
 # Mirny — Datasheet · Phase 3 (Surface & Texture)
 
-> ⚠ **DRAFT — Tier C.** Mirny's Specs file already states substantial sensory/architectural content directly —
+> ⚠ **DRAFT — Tier C.** Mirny's Specs file already states substantial sensory/architectural content directly — 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > extracted as quotes below, not re-derived. This is existing canon description, not this datasheet's own
 > finding.
 

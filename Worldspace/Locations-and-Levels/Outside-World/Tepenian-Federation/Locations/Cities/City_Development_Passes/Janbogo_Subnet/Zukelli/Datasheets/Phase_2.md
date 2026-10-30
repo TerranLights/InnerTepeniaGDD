@@ -1,6 +1,6 @@
 # Zukelli — Datasheet · Phase 2 (Composition & Arrival)
 
-> ⚠ **DRAFT — Tier C + Tier U.**
+> ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 4 of 4** — GPS law · Falkland Treaty · Census · the sequencing ruling (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L408–414).

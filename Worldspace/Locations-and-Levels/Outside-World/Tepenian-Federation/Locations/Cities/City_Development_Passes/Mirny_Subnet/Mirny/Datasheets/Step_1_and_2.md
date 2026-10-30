@@ -1,6 +1,6 @@
 # Mirny — Datasheet · Step 1, Step 2 & Phase 1 (Constraint & Capability) — MERGED
 
-> ⚠ **DRAFT — Tier C.** Merged 2026-09-15: Step 1, Step 2, and Phase 1 all draw on the identical physical/
+> ⚠ **DRAFT — Tier C.** Merged 2026-09-15: Step 1, Step 2, and Phase 1 all draw on the identical physical/ 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > climate/capability facts — kept as three files they were near-total duplicates. **Feeds `01_Inherited.md`
 > (Step 1) and `02_Spine.md` (Step 2) when Mirny's own pass actually runs.** Mirny's Specs file is unusually
 > detailed (230 lines) — this table extracts only what belongs to the physical/environmental capability

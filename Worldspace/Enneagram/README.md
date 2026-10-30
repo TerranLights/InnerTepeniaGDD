@@ -68,3 +68,5 @@ requested — see the Weekly To-Do).
 **Undercurrents (secondary Enneagram profiles) established 2026-08-11** — see `Undercurrents.md`. A
 developer-originated concept, not sourced from the mined books; first confirmed use is a still-unlocked
 Undercurrent for TCY-45 "Momo."
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Enneagram/from InnerTepeniaGDD/`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

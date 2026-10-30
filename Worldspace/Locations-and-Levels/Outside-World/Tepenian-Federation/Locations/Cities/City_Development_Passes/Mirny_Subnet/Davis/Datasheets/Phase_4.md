@@ -8,7 +8,7 @@
 > withdrawn `53` rate, `DRQ-08`'s rebuilt `120.7`, and Finding 2's zero-subtraction reading.
 > ⛔ **Nor is any *"feeds N people"* claim** — Finding 3's units error. **See Tier U §2a.**
 
-> ⚠ **DRAFT — Tier C + Tier U.** ⭐ **One correction to the Field Guide, found while extracting this:** the
+> ⚠ **DRAFT — Tier C + Tier U.** ⭐ **One correction to the Field Guide, found while extracting this:** the 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Guide names "`09` §3.5" as Davis's Freedom Gradient source, but the actual per-city figures live in `09`'s
 > **§2 "RESULTS — all 38 cities"** table. §3.5 itself is titled *"THE FREEDOM MARGIN. A worldbuilding finding,
 > not a calculation"* — explicit comparative analysis across cities, NOT a per-city mechanical fact. Only the

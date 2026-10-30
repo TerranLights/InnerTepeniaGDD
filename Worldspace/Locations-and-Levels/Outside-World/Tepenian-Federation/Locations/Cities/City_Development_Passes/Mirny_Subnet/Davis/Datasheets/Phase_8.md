@@ -1,6 +1,6 @@
 # Davis — Datasheet · Phase 8 (Making)
 
-> ⚠ **DRAFT — Tier C + Tier U. Thin, per the Field Guide's own prediction.**
+> ⚠ **DRAFT — Tier C + Tier U. Thin, per the Field Guide's own prediction.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Category | Value | Citation |
 |---|---|---|

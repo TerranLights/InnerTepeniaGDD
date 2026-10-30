@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step 7 (QA, 17 gates)
 
-> **Tier U — fixed, corpus-wide, reused unchanged by every city's Step 7 forever.**
+> **Tier U — fixed, corpus-wide, reused unchanged by every city's Step 7 forever.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Gate | Name | In one line |
 |---|---|---|

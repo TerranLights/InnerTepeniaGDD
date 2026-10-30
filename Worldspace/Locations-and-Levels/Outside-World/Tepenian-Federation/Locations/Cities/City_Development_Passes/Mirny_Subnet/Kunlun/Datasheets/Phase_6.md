@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Phase 6 (Meaning)
 
-> ⚠⚠ **DRAFT — Tier C + Tier U. KUNLUN HAS GENUINE, RICH RELIGIOUS CONTENT — do not assume this phase is
+> ⚠⚠ **DRAFT — Tier C + Tier U. KUNLUN HAS GENUINE, RICH RELIGIOUS CONTENT — do not assume this phase is 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > thin.** Two separate religion source trees both contain real Kunlun content, and they must not be conflated
 > — see below.
 > ⛔ **Excluded sections — see `Step_-1.md`.**

@@ -371,3 +371,5 @@ revisit once the tracking checklist (`02_City_Tracking_Checklist.md`) is closer 
 - This file itself is expected to be reorganized or split further as more real cities get run — treat it as a
   working draft, not a stable reference, until a handful of cities have gone through without further process
   changes.
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/Local_Robot_Culture_Methodology/from InnerTepeniaGDD/`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

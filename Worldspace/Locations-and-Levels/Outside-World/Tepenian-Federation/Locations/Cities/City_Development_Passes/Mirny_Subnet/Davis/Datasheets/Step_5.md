@@ -20,7 +20,7 @@
 > done
 > ```
 >
-> ⚠⚠ **DAVIS FAILED THIS 8/8 ON FIRST RUN** — **no phase file carried a `Generators used:` line at all**, and
+> ⚠⚠ **DAVIS FAILED THIS 8/8 ON FIRST RUN** — **no phase file carried a `Generators used:` line at all**, and 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Step 4 had already been declared complete. ***A receipting defect, not a coverage one.***
 > ✅ **RESOLVED 2026-09-16:** receipts added to Phases 6–10; **7 of 8 now `OK`**; **`G6`'s legitimate-null
 > disposition written once into `09.5_Log.md` §1.3**, so the check passes clean on re-run.

@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Step 3 (Research)
 
-> ⚠ **DRAFT — Tier C.** No new mechanical content exists yet — "the deficits Step 2 names" are Step 2's own
+> ⚠ **DRAFT — Tier C.** No new mechanical content exists yet — "the deficits Step 2 names" are Step 2's own 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > prior output, which hasn't run. This file records the research-infrastructure facts that ARE mechanical:
 > what picks exist, and whether a log exists.
 > ⛔ **Excluded sections — see `Step_-1.md`.**

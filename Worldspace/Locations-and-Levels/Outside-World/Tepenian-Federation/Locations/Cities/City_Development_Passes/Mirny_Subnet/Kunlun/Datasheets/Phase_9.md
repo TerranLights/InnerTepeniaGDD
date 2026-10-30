@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Phase 9 (Populations)
 
-> ⚠ **DRAFT — Tier U, near-none Tier C per the Field Guide's own prediction.** All Tier U sources already
+> ⚠ **DRAFT — Tier U, near-none Tier C per the Field Guide's own prediction.** All Tier U sources already 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > fully extracted and read firsthand — no re-reading needed.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 

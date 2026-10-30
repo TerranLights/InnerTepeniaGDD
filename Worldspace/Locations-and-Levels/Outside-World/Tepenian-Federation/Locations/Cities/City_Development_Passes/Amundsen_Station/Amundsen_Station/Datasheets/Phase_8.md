@@ -1,6 +1,6 @@
 # Amundsen Station — Datasheet · Phase 8 (Making)
 
-> ⚠ **DRAFT — Tier C + Tier U. Thin by nature (as the Field Guide predicts).** An absence in the admitted set is a hole, not a finding.
+> ⚠ **DRAFT — Tier C + Tier U. Thin by nature (as the Field Guide predicts).** An absence in the admitted set is a hole, not a finding. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 
 | Category | Value | Citation |

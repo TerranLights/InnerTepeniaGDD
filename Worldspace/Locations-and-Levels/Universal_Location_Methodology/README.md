@@ -239,3 +239,5 @@ equipment and techniques are facts it may build on (`DR-19`, `DR-24`–`DR-26`).
 And **LAW 0 — depth over speed** applies here exactly as it does in the district runbook, and is restated in
 full at the head of `00_RUNBOOK.md` rather than cross-referenced, because a procedure that cites its governing
 law instead of stating it will be run without it.
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/README.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

@@ -4,7 +4,7 @@
 > difficulty, baseline load, distinctive tier and a city's own SECTOR SIZES are citable. ⛔ An EXPORT headcount
 > is not, nor any *"feeds N people"* claim.
 
-> ⚠ **DRAFT — Tier C + Tier U.**
+> ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 7 of 7** — Robot Physiology · Cold Physiology · `16` Half B · `09` §3.5 *(listed by the spine; not transcribed — see its row)* · `11` · medical institutes · national economy. *(`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/City_Logistics.md` is listed as REMOVED from this phase.)* (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L542–556)

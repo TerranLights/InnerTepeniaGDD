@@ -1,6 +1,6 @@
 # Marambio — Datasheet · Step 8 (The Review Panel)
 
-> ⚠ **DRAFT — Tier U.** Full operative text — every panel, every question, the casting table, the six
+> ⚠ **DRAFT — Tier U.** Full operative text — every panel, every question, the casting table, the six 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > dispositions, and the output-block template — is pasted in full at
 > ⭐ `Corpus_Reference_Sheets/Review_Panel_Full_Text_Quick_Reference.md`. The index below is kept here too,
 > inline, so a panel can be located at a glance without an extra hop.

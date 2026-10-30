@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Step 5 (Reconciliation)
 
-> ⛔ **STRUCTURALLY BLOCKED, not merely unfinished.** `Local_Cultures/Mirny_Subnet/Ariun_Nuur.md` and
+> ⛔ **STRUCTURALLY BLOCKED, not merely unfinished.** `Local_Cultures/Mirny_Subnet/Ariun_Nuur.md` and 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `Local_Robot_Culture/Mirny_Subnet/Ariun_Nuur.md` are **READ-LAST, as a CHECK** — pre-staging their content at
 > any tier defeats the sequencing rule that is the actual enforcement mechanism.
 

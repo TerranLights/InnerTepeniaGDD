@@ -1,6 +1,6 @@
 # Davis — Datasheet · Phase 6 (Meaning)
 
-> ⚠ **DRAFT — Tier C. ⛔⛔ CORRECTED 2026-09-15, caught on a later city's own equivalent check.**
+> ⚠ **DRAFT — Tier C. ⛔⛔ CORRECTED 2026-09-15, caught on a later city's own equivalent check.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > **This file previously claimed `Factions/Robot_Religions/` was an empty directory — that was FALSE, and the
 > error survived unnoticed until a fresh check on a different city's Phase 6 turned up 6 real files.** Whatever
 > command produced the original "0 files" claim did not actually enumerate that directory correctly. Fixed

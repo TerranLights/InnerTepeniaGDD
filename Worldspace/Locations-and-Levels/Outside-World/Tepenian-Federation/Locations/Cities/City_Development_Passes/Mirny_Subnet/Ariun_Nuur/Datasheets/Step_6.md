@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Step 6 (Differentiate, write-only)
 
-> ⚠ **DRAFT — Tier U.** Built in full 2026-09-15, corpus-wide, identical for every city.
+> ⚠ **DRAFT — Tier U.** Built in full 2026-09-15, corpus-wide, identical for every city. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Category | Value | Citation |
 |---|---|---|

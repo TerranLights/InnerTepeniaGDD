@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Phase 10 (Catalog)
 
-> ⚠ **DRAFT — Tier C + Tier U.**
+> ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔ **Excluded sections — see `Step_-1.md`.** Calethina's own character file carries substantial excluded
 > later-era content surrounding her build chain — excluded per the row below.
 

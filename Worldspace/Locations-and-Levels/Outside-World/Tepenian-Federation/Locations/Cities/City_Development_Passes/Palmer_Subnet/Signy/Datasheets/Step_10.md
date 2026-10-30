@@ -1,6 +1,6 @@
 # Signy — Datasheet · Step 10 (The Readiness Check)
 
-> ⚠ **DRAFT — Tier U at ⭐ `Corpus_Reference_Sheets/Step_10_Readiness_Check_Full_Text_Quick_Reference.md` (full §10.1–10.3 text).** Tier C below is the one place `06` can name this city.
+> ⚠ **DRAFT — Tier U at ⭐ `Corpus_Reference_Sheets/Step_10_Readiness_Check_Full_Text_Quick_Reference.md` (full §10.1–10.3 text).** Tier C below is the one place `06` can name this city. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Category | Value | Citation |
 |---|---|---|

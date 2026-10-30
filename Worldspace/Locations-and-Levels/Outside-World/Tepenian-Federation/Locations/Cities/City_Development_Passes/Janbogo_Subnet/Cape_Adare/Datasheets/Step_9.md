@@ -1,6 +1,6 @@
 # Cape Adare — Datasheet · Step 9 (Record)
 
-> ⚠ **DRAFT — Tier U.** Full text — the four required actions, the §9.5 recording law, and the three
+> ⚠ **DRAFT — Tier U.** Full text — the four required actions, the §9.5 recording law, and the three 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > procedural rules — is pasted in full at ⭐ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Step_9_Record_Full_Text_Quick_Reference.md`.
 
 **Quick index:** (1) append QA + Review Panel blocks · (2) add this location's differentiation column, same

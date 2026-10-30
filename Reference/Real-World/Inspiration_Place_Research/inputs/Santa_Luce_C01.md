@@ -1,0 +1,12 @@
+# Research unit `Santa_Luce_C01`: Santa Luce, candidate list (rock-and-ice settlements, field stations and quiet-zone towns)
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-10-26 and have NOT been verified. Each line gives the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note. Tiers are not set yet and are the developer's; do not judge them.
+
+- Gibraltar // claim to test: A dense town built on and into one rock, with tunnels cut through it, whose population descends from many origins with none dominant and lives at close quarters [K4, K11 loose] // care: Language note stays loose (K11); any local speech found goes to `slang_found/` only
+- Juneau Icefield Research Program (Alaska and British Columbia) // claim to test: A long-running summer field school whose camps sit on nunataks inside an icefield, so research life is literally lived on rock islands in ice [K7, K14] // care: Seasonal camps, not a town; verify which camps are on nunataks
+- Kangerlussuaq, Greenland // claim to test: An inland settlement at the ice-sheet edge that exists as a logistics and science gateway for a coastal country [K5, K7] // care: Former air base; site history is context, not a driver
+- Fairbanks, Alaska // claim to test: An interior, dry, cold research-university city reached by road from the coast, with an ice-art championship that fills the cold season [K3, K13, K14] // care: Far smaller than Santa Luce; parallel is function, not scale
+- Akademgorodok (Novosibirsk) // claim to test: A research town living inside a million-plus interior city, with its own neighborhood identity and institutions [K8, K10] // care: Verify present-day state of the science center
+- Los Alamos, New Mexico // claim to test: A research town built across rock mesas, reached historically by one road, whose civic life grew around the laboratory [K4, K8] // care: Weapons history is reported neutrally, not as material
+- San Carlos de Bariloche, Argentina // claim to test: An inland mountain city whose identity mixes a physics research center and institute with tourism, settled by many origins [K8, K12, K14] // care: Nation irrelevant to the pick

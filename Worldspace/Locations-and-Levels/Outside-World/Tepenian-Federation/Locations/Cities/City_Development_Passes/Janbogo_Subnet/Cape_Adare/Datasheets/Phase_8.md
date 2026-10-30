@@ -1,6 +1,6 @@
 # Cape Adare — Datasheet · Phase 8 (Making)
 
-> ⚠ **DRAFT — Tier C + Tier U.** Thin, per the Field Guide's own prediction.
+> ⚠ **DRAFT — Tier C + Tier U.** Thin, per the Field Guide's own prediction. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 2 of 2 items addressed** — Robot_Biology mandatory facts ✅ · weapons philosophy ✅ and gear catalog ✅ — ⚠ **the item's "slang" names no file**: no file with "slang" in its name exists in either repo — recorded as **UNRESOLVED, not guessed** (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L963–965).
 

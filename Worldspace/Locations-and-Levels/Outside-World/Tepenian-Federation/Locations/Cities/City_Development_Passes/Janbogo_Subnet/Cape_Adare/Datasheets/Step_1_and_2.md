@@ -1,6 +1,6 @@
 # Cape Adare — Datasheet · Step 1, Step 2 & Phase 1 (Constraint & Capability) — MERGED
 
-> ⚠ **DRAFT — Tier C.** Step 1, Step 2, and Phase 1 all draw on the identical physical/climate/capability
+> ⚠ **DRAFT — Tier C.** Step 1, Step 2, and Phase 1 all draw on the identical physical/climate/capability 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > facts — merged per the Field Guide's consolidated convention. **Feeds `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/01_Inherited.md` (Step 1) and
 > `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/02_Spine.md` (Step 2) when Cape Adare's own pass actually runs.** This table extracts only what belongs to
 > the physical/environmental capability profile and founding/composition bibliography.

@@ -92,3 +92,5 @@
 5. **Your calls on already-listed items:** Casey's six Phase 7 rows and the ruin row; Denison's 11 Step −1 lines; Temirötkel's first establisher; Halley's partial founding; Cape Adare's "TBD" wording; Utstein's Dome Fuji corridor line; Santa Luce's scale.
 6. **Names:** Dumont d'Urville and Zukelli still need new names; the audit of Rothera, Signy, Neumayer, Scott and Mawson is deferred.
 7. **The inspiration picks:** whether to merge and tier the new candidates before the ULM, and when to run the ~27 research units.
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/City_Input_Gaps_2026-10-27.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

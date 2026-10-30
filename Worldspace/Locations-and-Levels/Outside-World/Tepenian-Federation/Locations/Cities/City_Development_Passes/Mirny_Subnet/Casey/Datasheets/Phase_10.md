@@ -1,6 +1,6 @@
 # Casey — Datasheet · Phase 10 (Catalog)
 
-> ⚠ **DRAFT — Tier C + Tier U.** Characters canon returned a real hit for Casey — not a false positive — though
+> ⚠ **DRAFT — Tier C + Tier U.** Characters canon returned a real hit for Casey — not a false positive — though 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > the source material it sits in is later-era and not admissible to the default frame; only the admissible half
 > is recorded below.
 

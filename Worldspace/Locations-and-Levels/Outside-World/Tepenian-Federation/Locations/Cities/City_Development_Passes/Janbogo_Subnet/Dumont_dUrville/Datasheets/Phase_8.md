@@ -1,6 +1,6 @@
 # Dumont d'Urville — Datasheet · Phase 8 (Making)
 
-> ⚠ **DRAFT — Tier C + Tier U. Thinner than most, but not empty** — unlike Mirny, this city's own Specs file
+> ⚠ **DRAFT — Tier C + Tier U. Thinner than most, but not empty** — unlike Mirny, this city's own Specs file 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > does carry direct music content.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).

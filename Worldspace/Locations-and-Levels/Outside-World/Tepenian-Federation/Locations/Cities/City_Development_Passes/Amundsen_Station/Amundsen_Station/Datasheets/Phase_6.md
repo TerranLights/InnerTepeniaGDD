@@ -1,6 +1,6 @@
 # Amundsen Station — Datasheet · Phase 6 (Meaning)
 
-> ⚠ **DRAFT — Tier C.** Every directory actually enumerated, not assumed empty (the Field Guide's warning about unverified "empty" claims).
+> ⚠ **DRAFT — Tier C.** Every directory actually enumerated, not assumed empty (the Field Guide's warning about unverified "empty" claims). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 
 | Category | Value | Citation |

@@ -13,7 +13,7 @@
 > 2. ⛔ **Both `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Factions/` files that name Cape Adare do so inside explicitly CROSS-CITY sections** — see the
 >    flagged rows at the bottom. ***ONE LOCATION: not opened for content, not extracted.***
 > 3. ⛔ **Cross-city sentences inside `16` and the Sweep** (comparisons with other named cities) — not transcribed.
-> ⚠ **`H42` — criminal justice is UNDEVELOPED, not absent, corpus-wide. Do not derive one for this city.**
+> ⚠ **`H42` — criminal justice is UNDEVELOPED, not absent, corpus-wide. Do not derive one for this city.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > ⚠ **DRAFT — Tier C.** This city's own §26 in `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md` is already determined — extracted
 > directly, not re-derived. ⛔⛔ No later-era content appears below — §26's sentence about the hut's later fate

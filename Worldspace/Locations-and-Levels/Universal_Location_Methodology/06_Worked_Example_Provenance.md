@@ -427,3 +427,5 @@ which are not locations)*. ***The general form of every rule was retained; only 
 > `^[\s>]*`-stripped normalization.** ⭐ **`M-162`. Normalize before you claim a manifest is complete.**
 
 ## *(Add further locations here as they are absorbed into the methodology.)*
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/06_Worked_Example_Provenance.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

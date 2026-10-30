@@ -7,7 +7,7 @@
 > ⛔ **An EXPORT headcount is not** — `export = sector − own need`, and the own-need term is unstable across
 > this corpus's own withdrawn/rebuilt rates. ⛔ **Nor is any *"feeds N people"* claim.** **See Tier U §2a.**
 
-> ⚠ **DRAFT — Tier C + Tier U.** Tier U (Robot Physiology) already exists as a full-text extraction — see
+> ⚠ **DRAFT — Tier C + Tier U.** Tier U (Robot Physiology) already exists as a full-text extraction — see 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`.
 > ⛔⛔ No later-era content appears below.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.

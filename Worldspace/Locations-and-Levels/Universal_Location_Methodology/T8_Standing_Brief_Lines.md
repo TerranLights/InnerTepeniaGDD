@@ -36,3 +36,5 @@ Where a line is addressed to the readers it is written in the second person; whe
 | Founders check | `python3 Tools/check_founders_against_register.py --city <name>` | Reads only the city's own files and the shared files; other cities' files and withheld material are skipped and only counted. |
 
 **The Step 8 brief template must now ask for the late T5 line** (`T5 - LATE LOVER FACULTY:`), and Phase 6 keeps its `T5 - EARLY LOVER FACULTY:` line.
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/T8_Standing_Brief_Lines.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

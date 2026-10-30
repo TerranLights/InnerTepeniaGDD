@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Step 1, Step 2 & Phase 1 (Constraint & Capability) — MERGED
 
-> ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidated 19-file shape. **Feeds `01_Inherited.md`
+> ⚠ **DRAFT — Tier C.** Merged per the Field Guide's consolidated 19-file shape. **Feeds `01_Inherited.md` 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > (Step 1) and `02_Spine.md` (Step 2) when Vostok's own pass actually runs.**
 > ⛔ **Excluded sections — see `Step_-1.md`.** Nothing below cites them.
 

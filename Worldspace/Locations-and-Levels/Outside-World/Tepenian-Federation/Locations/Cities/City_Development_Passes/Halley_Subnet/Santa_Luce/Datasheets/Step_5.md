@@ -1,6 +1,6 @@
 # Santa Luce — Datasheet · Step 5 (Reconciliation)
 
-> ⛔⛔ **DELIBERATELY EMPTY — NOT AN OVERSIGHT.** The one slot in the 19-file inventory that is fully blocked, not merely undone.
+> ⛔⛔ **DELIBERATELY EMPTY — NOT AN OVERSIGHT.** The one slot in the 19-file inventory that is fully blocked, not merely undone. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > ⛔ **UPDATE 2026-10-28 (`DR-67`):** for this pass the Local Cultures file and the Enneagram file are **WITHHELD** (they rest on the superseded founding), so Step 5 will not open them at all; they are revisited after the November run.
 

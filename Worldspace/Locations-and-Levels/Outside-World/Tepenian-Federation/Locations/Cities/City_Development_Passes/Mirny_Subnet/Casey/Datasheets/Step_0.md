@@ -1,6 +1,6 @@
 # Casey — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
 
-> ⚠ **DRAFT — Tier C + Tier U.** Merged per the Field Guide's consolidation of Step 0/Phase 0 (identical
+> ⚠ **DRAFT — Tier C + Tier U.** Merged per the Field Guide's consolidation of Step 0/Phase 0 (identical 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > underlying facts — census, coordinates, timeline era). **Feeds `00_Frame.md` when Casey's own Step 0 actually
 > runs.** Casey's own Frame declaration has not been written; this file carries only what a source already
 > states directly.

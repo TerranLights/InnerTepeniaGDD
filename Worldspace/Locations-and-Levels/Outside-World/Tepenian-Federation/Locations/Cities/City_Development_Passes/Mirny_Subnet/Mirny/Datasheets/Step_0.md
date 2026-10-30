@@ -1,6 +1,6 @@
 # Mirny — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
 
-> ⚠ **DRAFT — Tier C + Tier U.** Merged 2026-09-15: Step 0 and Phase 0 draw on identical underlying facts
+> ⚠ **DRAFT — Tier C + Tier U.** Merged 2026-09-15: Step 0 and Phase 0 draw on identical underlying facts 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > (census, coordinates, timeline era) and had no genuine difference between them — kept separate they were
 > pure duplication. **Feeds `00_Frame.md` when Mirny's own Step 0 actually runs.** Mirny's own Frame
 > declaration has not been written; this file carries only what a source already states directly.

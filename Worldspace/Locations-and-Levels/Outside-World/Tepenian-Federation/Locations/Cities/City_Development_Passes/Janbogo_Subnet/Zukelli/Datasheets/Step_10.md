@@ -1,6 +1,6 @@
 # Zukelli — Datasheet · Step 10 (The Readiness Check)
 
-> ⚠ **DRAFT — Tier U at ⭐ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Step_10_Readiness_Check_Full_Text_Quick_Reference.md` (full §10.1–10.3 text).
+> ⚠ **DRAFT — Tier U at ⭐ `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Step_10_Readiness_Check_Full_Text_Quick_Reference.md` (full §10.1–10.3 text). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Tier C below is Zukelli-specific.**
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 

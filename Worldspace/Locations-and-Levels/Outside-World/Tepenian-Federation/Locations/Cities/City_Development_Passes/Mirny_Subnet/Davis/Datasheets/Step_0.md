@@ -1,6 +1,6 @@
 # Davis — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
 
-> ⚠ **DRAFT — Tier C.** Built by citing INTO `Davis/00_Frame.md` (already T8-verified, unanimous Round 2 on
+> ⚠ **DRAFT — Tier C.** Built by citing INTO `Davis/00_Frame.md` (already T8-verified, unanimous Round 2 on 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > re-verified count 44/45 clean). Not yet independently re-verified via a fresh 3-reader T8 dispatch of its own.
 > ⭐ **Merged 2026-09-22** per `Mechanical_Extraction_Field_Guide.md`'s 19-file manifest — **Step 0 and Phase 0
 > draw on the identical fact set and both feed `00_Frame.md`**, so kept apart they were near-total duplicates.

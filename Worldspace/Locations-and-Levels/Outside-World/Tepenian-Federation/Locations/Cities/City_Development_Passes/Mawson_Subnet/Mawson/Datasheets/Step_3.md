@@ -1,6 +1,6 @@
 # Mawson — Datasheet · Step 3 (Research)
 
-> ⚠ **DRAFT.** Genuinely thin, as the Field Guide predicts: "the deficits Step 2 named" do not exist before Mawson's own Step 2 runs. This file is a status check.
+> ⚠ **DRAFT.** Genuinely thin, as the Field Guide predicts: "the deficits Step 2 named" do not exist before Mawson's own Step 2 runs. This file is a status check. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Mawson subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
 

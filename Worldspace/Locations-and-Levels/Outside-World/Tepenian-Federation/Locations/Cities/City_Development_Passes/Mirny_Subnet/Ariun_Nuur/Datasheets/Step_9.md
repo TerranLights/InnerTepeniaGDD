@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Step 9 (Record)
 
-> ⚠ **DRAFT — Tier U.** Fixed procedure text, corpus-wide.
+> ⚠ **DRAFT — Tier U.** Fixed procedure text, corpus-wide. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Category | Value | Citation |
 |---|---|---|

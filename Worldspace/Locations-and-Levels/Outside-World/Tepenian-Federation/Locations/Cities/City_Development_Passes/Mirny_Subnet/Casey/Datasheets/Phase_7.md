@@ -40,7 +40,7 @@
 > scoped to one other location and self-declares as *"a working design… not a finished or fully decided
 > system."*** ⛔ **Do not derive one, and do not read the silence as a characterization.**
 
-> ⚠ **DRAFT — Tier C.** Casey's own §21 section in `16_Per_City_Three_Tier_Run.md` is unusually rich and
+> ⚠ **DRAFT — Tier C.** Casey's own §21 section in `16_Per_City_Three_Tier_Run.md` is unusually rich and 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > already-determined — extracted directly, not re-derived.
 
 > ⚠ **ONE LOCATION:** the Sweep's corpus-wide tallies are not Casey facts. **Use Casey's own row (6 of 6

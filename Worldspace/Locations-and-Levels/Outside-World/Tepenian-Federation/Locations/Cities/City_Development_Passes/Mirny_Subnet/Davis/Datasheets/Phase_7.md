@@ -13,7 +13,7 @@
 > question and `16` Register item 11 settles it.** ***What is unresolved is the OWN-NEED SUBTRACTION*** — see
 > row 2.
 
-> ⚠ **Tier C.** Davis's core Division-of-Industry percentages live in `Phase_4.md` — cross-ref rather than
+> ⚠ **Tier C.** Davis's core Division-of-Industry percentages live in `Phase_4.md` — cross-ref rather than 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > duplicate. **This file covers Phase 7's OWN additional sources.**
 > ⭐ **REBUILT 2026-09-16** against `03_The_Phase_Spine.md`'s own MUST-OPEN list. **The prior version listed 6
 > of 13** and omitted the carve-out entirely.

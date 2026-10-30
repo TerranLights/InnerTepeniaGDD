@@ -1,3 +1,5 @@
 # Moved: the off-world library (OOLSD)
 
 **Moved 2026-10-23** to `/home/kuroskalacs/Documents/Doll-Fi/media/Literature/books/CurrentNovelDocs/worldbuilding/Object_Oriented_Location_Synthesis/` (the novel repo), at the developer's direction. All non-city worldbuilding now lives in that repo's `worldbuilding/` folder; this repo runs the 35+ cities' ULM, CST and RWBEM. Start at that folder's `RESUME_HERE.md`. Earlier versions remain in this repo's git history.
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/OOLSD [Object-Oriented Location Synthesis and Derivation]/`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

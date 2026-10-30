@@ -1,6 +1,6 @@
 # Amundsen Station — Datasheet · Phase 3 (Surface & Texture)
 
-> ⚠ **DRAFT — Tier C.** The spec's sensory and architectural prose is cited by range; it is not copied (Step −1 decides what is admissible).
+> ⚠ **DRAFT — Tier C.** The spec's sensory and architectural prose is cited by range; it is not copied (Step −1 decides what is admissible). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 
 | Category | Value | Citation |

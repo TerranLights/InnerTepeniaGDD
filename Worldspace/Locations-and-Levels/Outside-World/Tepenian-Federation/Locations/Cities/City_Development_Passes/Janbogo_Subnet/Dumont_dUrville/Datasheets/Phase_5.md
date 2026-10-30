@@ -1,6 +1,6 @@
 # Dumont d'Urville — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS A FLAGGED CONTAMINATION RISK, checked here from scratch for this city —
+> ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS A FLAGGED CONTAMINATION RISK, checked here from scratch for this city — 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `City_National_Connections.md`'s own stated Method draws on withheld/excluded sources for every city entry,
 > not only Dumont d'Urville's.**
 > ⛔⛔ No Long Night War / post-war content appears below — a refugee-related clause in

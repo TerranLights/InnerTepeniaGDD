@@ -1,6 +1,6 @@
 # Troll — Datasheet · Step 3 (Research)
 
-> ⚠ **DRAFT.** Genuinely thin, as the Field Guide predicts: "the deficits Step 2 named" do not exist before Troll's own Step 2 runs. This file is a status check.
+> ⚠ **DRAFT.** Genuinely thin, as the Field Guide predicts: "the deficits Step 2 named" do not exist before Troll's own Step 2 runs. This file is a status check. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** `Troll` is also an ordinary word; hits are case-sensitive and may include non-city uses. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
 

@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step 5 (Reconciliation)
 
-> ⛔⛔ **STRUCTURALLY BLOCKED, NOT MERELY UNFINISHED.** This slot deliberately carries no real content.
+> ⛔⛔ **STRUCTURALLY BLOCKED, NOT MERELY UNFINISHED.** This slot deliberately carries no real content. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 `Local_Cultures/Janbogo_Subnet/Denison.md` and `Local_Robot_Culture/Janbogo_Subnet/Denison.md` are
 **READ-LAST, as a CHECK** (`05_The_Input_Contract.md` §6.1 · `00_RUNBOOK.md` Step 0.4 item 6). In a

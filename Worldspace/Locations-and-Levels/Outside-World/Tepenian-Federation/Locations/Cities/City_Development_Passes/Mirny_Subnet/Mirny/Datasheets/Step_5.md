@@ -1,6 +1,6 @@
 # Mirny — Datasheet · Step 5 (Reconciliation)
 
-> ⛔⛔ **DELIBERATELY EMPTY — NOT AN OVERSIGHT.** The one slot in the full 19-file inventory that is fully
+> ⛔⛔ **DELIBERATELY EMPTY — NOT AN OVERSIGHT.** The one slot in the full 19-file inventory that is fully 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > blocked, not merely undone.
 
 ## Why nothing is staged here

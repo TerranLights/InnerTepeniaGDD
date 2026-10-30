@@ -1,6 +1,6 @@
 # Denison — Datasheet · Phase 6 (Meaning)
 
-> ⚠ **DRAFT — Tier C + Tier U.** ⚠ Thin on mechanical content beyond the roster — most of this phase
+> ⚠ **DRAFT — Tier C + Tier U.** ⚠ Thin on mechanical content beyond the roster — most of this phase 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > is interpretive by design.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).

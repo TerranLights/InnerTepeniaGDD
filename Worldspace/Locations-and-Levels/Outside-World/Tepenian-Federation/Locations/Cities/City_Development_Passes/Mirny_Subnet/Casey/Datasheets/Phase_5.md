@@ -1,6 +1,6 @@
 # Casey — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS THE SAME FLAGGED CONTAMINATION RISK ALREADY FOUND INDEPENDENTLY ON A
+> ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS THE SAME FLAGGED CONTAMINATION RISK ALREADY FOUND INDEPENDENTLY ON A 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > DIFFERENT CITY'S OWN PASS — Casey turns out to be a direct party to it, checked here from scratch.**
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
@@ -19,7 +19,7 @@
 | Casey's own strongest outward connection, stated as Casey's relation | One cross-subnet link, rated Strong/Infrastructure, via a direct highway with no intermediate subnet *(the source's superlative about this link is not carried)* | `City_National_Connections.md`, Casey's own §, L285–286 |
 | Casey's own dispatch-discipline parallel, stated as Casey's relation | One cross-subnet link, rated Medium/Cultural: *"two cities whose entire civic identity runs on route-safety dispatch discipline — Casey's wind-window certification"* against the other city's own monitoring-bulletin tradition | `City_National_Connections.md`, Casey's own §, L289–290 |
 | Casey's own technical-reputation reach, stated as Casey's relation | One cross-subnet link, rated Medium/Infrastructure: a named other city's precision-calibration reputation drew inquiries reaching *"well beyond the Janbogo subnet, including Casey's own technical circles"* | `City_National_Connections.md`, Casey's own §, L291–293 |
-| Airport | **Casey Airport** — a confirmed airport marker; also named among the stations with a genuine real-world airstrip today | `Infrastructure/Airports.md` L47, L51 |
+| Airport | **No airport in Tepenia.** Casey is on `Airports.md`'s "Everything Else Has No Air Access" list, which also notes that many of those cities have a real-world station with a genuine airstrip today and that none has one in Tepenia; access is by the highway network only. `DR-82` (2026-10-29) keeps Casey's no-air-access status (onward flights go to Mirny). *(Row corrected 2026-10-29: it earlier read "a confirmed airport marker", which the file does not say.)* | `Infrastructure/Airports.md` L12, L50, L54 |
 | Port | **Newcomb Bay** — a small bay on the northeast of Vincennes Bay itself a V-shaped inlet 105 km wide at its mouth; the station stands on the southern side, on the Windmill Islands' rock. ⭐ **GEOLOGICAL** tier (seasonal, free) | `Infrastructure/Ports.md` L537, L709 |
 | `City_Cross_Subnet_Relationships.md` — lines naming the city | 6 line(s): L42, L54, L94, L99, L128, L207 *(line numbers only: this file builds on material withheld by its own stated method)* | `City_Cross_Subnet_Relationships.md` L42, L54, L94, L99, L128, L207 |
 

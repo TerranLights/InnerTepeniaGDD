@@ -1,6 +1,6 @@
 # Cape Adare — Datasheet · Phase 2 (Composition & Arrival)
 
-> ⚠ **DRAFT — Tier C + Tier U.** Both Tier U sources (Falkland Treaty, GPS law) already exist as full-text
+> ⚠ **DRAFT — Tier C + Tier U.** Both Tier U sources (Falkland Treaty, GPS law) already exist as full-text 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > extractions — see `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/`. No secondhand citation anywhere in this file.
 > ⛔⛔ No later-era content appears below — the Census II line's own inline annotation and the Census I row's
 > annotation are later-era and **excluded, not quoted**.

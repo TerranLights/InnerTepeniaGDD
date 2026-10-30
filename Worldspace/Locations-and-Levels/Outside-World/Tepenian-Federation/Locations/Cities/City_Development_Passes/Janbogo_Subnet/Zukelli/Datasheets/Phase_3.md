@@ -1,6 +1,6 @@
 # Zukelli — Datasheet · Phase 3 (Surface & Texture)
 
-> ⚠ **DRAFT — Tier C.** Quotes from the spec — existing canon description, not this datasheet's finding.
+> ⚠ **DRAFT — Tier C.** Quotes from the spec — existing canon description, not this datasheet's finding. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 5 of 5** — climate (cross-ref) · Specs · concept art · per-city research folder (*"where applicable"* — none exists) · Physical Infrastructure file (existence only, withheld) (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L480–488).

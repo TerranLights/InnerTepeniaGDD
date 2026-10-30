@@ -961,3 +961,5 @@ checkbox in `TODO.md` — has been moved to `DONE.md`.
   "centerless" neutral relay. Still open: in-game display, whether the Planetary Split Brain disrupted
   timekeeping consistency across subnets, and how ATC relates to polar night/midnight sun.
 
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** The derivation methods (the ULM, CST, RWBEM and OOLSD location methods, the character methodology, the Enneagram and the symbolism data) are also **copied** into the universe-wide methods repo `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/` (see its `COPY_MANIFEST (2026-10-29).md`). **The files in this repo stay the working copies;** methods belong there, and results and tracking stay here. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

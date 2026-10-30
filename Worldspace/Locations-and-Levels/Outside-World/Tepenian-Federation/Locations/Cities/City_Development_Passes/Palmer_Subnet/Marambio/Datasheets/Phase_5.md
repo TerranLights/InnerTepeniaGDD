@@ -1,6 +1,6 @@
 # Marambio — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C.** Sourced to the city's own entries and outward role.
+> ⚠ **DRAFT — Tier C.** Sourced to the city's own entries and outward role. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > 📌 **SOURCE CHANGED AFTER THIS SHEET WAS BUILT (note added 2026-10-29; no row below was edited).** `Airports.md` and `Ports.md` changed on 2026-10-29 (`DR-81`, `DR-82`): Machu Picchu is no longer described as Tepenia's only international airport but as its only **year-round international passenger** airport; Relung Panen has an international freight-only airport; the Australian side has a seasonal intake (a sea gateway in summer, an isolated, air-only Winter Intake Airport in winter, `Ports.md` §3e). **None of this changes a Marambio fact quoted below**, but the `Airports.md` and `Ports.md` **line numbers cited in this sheet have shifted** (lines were added to both files). Re-point them with `Universal_Location_Methodology/Tools/remap_line_citations.py` (one run per file per base commit; read its header first) before the sheet is used.
 

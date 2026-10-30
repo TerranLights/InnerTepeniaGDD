@@ -1,6 +1,6 @@
 # Davis — Datasheet · Step 1, Step 2 & Phase 1 (Constraint & Capability) — MERGED
 
-> ⚠ **DRAFT — Tier C.** **Merged 2026-09-22** per `Mechanical_Extraction_Field_Guide.md`'s 19-file manifest,
+> ⚠ **DRAFT — Tier C.** **Merged 2026-09-22** per `Mechanical_Extraction_Field_Guide.md`'s 19-file manifest, 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > which recorded Davis's early files as *"NOT yet retrofitted to this shape — flagged, not silently left
 > inconsistent; consolidate on request."* **Consolidated on request.**
 > ⭐ **This file FEEDS TWO real output files — `01_Inherited.md` (Step 1) and `02_Spine.md` (Step 2)** — stated

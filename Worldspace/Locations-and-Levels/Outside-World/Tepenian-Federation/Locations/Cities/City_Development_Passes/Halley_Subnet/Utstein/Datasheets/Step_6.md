@@ -1,6 +1,6 @@
 # Utstein — Datasheet · Step 6 (Differentiate — WRITE-ONLY)
 
-> ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.** Nothing about Step 6 differs by city — the governing rule, Part III's full text (III.0–III.4) and the destination addresses are corpus-wide constants already pasted there.
+> ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.** Nothing about Step 6 differs by city — the governing rule, Part III's full text (III.0–III.4) and the destination addresses are corpus-wide constants already pasted there. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 > ### ⭐⭐ THE TABLE HAS 10 SECTIONS, NOT ONE — copied from the destination file's own headers (structure, not another city's answer)
 > Full statement of why this note exists: `Mechanical_Extraction_Field_Guide.md`, Step 6 entry. Read from `Cross_City_Culture_Differentiation_Table.md` on 2026-10-21; the section headers and column names only.

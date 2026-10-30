@@ -10,7 +10,7 @@
 > ⭐ **Row 10's OLD/NEW 33.8% → 38.7% pair is the `DRQ-08` rebuild and is SOUND** — it is a baseline figure,
 > not an export one.
 
-> ⚠ **DRAFT — Tier C + Tier U.** Tier U (Robot Physiology) read firsthand in full earlier this session — see
+> ⚠ **DRAFT — Tier C + Tier U.** Tier U (Robot Physiology) read firsthand in full earlier this session — see 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites).

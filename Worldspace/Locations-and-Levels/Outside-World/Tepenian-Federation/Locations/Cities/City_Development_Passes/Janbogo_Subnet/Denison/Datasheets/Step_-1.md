@@ -1,6 +1,6 @@
 # Denison — Datasheet · Step −1 (Input Contract)
 
-> ⚠⚠ **DRAFT — Tier C.** Denison's own ULM pass has NOT started. No admissibility ruling exists on
+> ⚠⚠ **DRAFT — Tier C.** Denison's own ULM pass has NOT started. No admissibility ruling exists on 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > the Specs read-range — that is Step −1's own derivation work, not a mechanical lookup.
 
 ## Specs file — bibliographic facts

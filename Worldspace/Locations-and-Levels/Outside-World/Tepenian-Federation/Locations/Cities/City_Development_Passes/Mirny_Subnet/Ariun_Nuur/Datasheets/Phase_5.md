@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C.** ⛔ **Excluded sections — see `Step_-1.md`.**
+> ⚠ **DRAFT — Tier C.** ⛔ **Excluded sections — see `Step_-1.md`.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔⛔ **No other city is named anywhere in this file.** Vostok's own character is exceptionally relational
 > (the Mountain Pass joint venture, the "two loneliest outposts" partnership) — sources describing those
 > relations necessarily name other cities to do so. Those sources are recorded as FOUND, with their existence

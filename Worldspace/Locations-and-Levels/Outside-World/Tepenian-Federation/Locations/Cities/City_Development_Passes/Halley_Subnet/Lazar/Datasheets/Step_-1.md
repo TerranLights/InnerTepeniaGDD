@@ -1,6 +1,6 @@
 # Lazar — Datasheet · Step −1 (Input Contract)
 
-> ⚠⚠ **DRAFT — Tier C. READ THIS BOX BEFORE USING THE FILE.** Lazar's own pass has **not** started: no Step −1 has run and no admissibility ruling exists. ⛔ **This file CANNOT pre-stage an admitted read-range** — deciding which lines of the Specs file are admissible is Step −1's own derivation work (Field Guide, Step −1 entry). **It gives bibliographic facts and the spec's own structured fields only.**
+> ⚠⚠ **DRAFT — Tier C. READ THIS BOX BEFORE USING THE FILE.** Lazar's own pass has **not** started: no Step −1 has run and no admissibility ruling exists. ⛔ **This file CANNOT pre-stage an admitted read-range** — deciding which lines of the Specs file are admissible is Step −1's own derivation work (Field Guide, Step −1 entry). **It gives bibliographic facts and the spec's own structured fields only.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 
 | Category | Value | Citation |

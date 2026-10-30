@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Phase 2 (Composition & Arrival)
 
-> ⚠ **DRAFT — Tier C + Tier U.** Both Tier U sources (Falkland Treaty, GPS law) already fully extracted — see
+> ⚠ **DRAFT — Tier C + Tier U.** Both Tier U sources (Falkland Treaty, GPS law) already fully extracted — see 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `Corpus_Reference_Sheets/`. No secondhand citation anywhere in this file.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 

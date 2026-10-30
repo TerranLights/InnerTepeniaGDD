@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Phase 5 (Relation & Geometry)
 
-> ⚠ **DRAFT — Tier C.** ⛔ **Excluded sections — see `Step_-1.md`.**
+> ⚠ **DRAFT — Tier C.** ⛔ **Excluded sections — see `Step_-1.md`.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔⛔ **No other city is named anywhere in this file.** Sources that describe Kunlun's relations necessarily
 > name other cities to do so — those sources are recorded as FOUND, with their existence and general shape
 > noted, but their content is not extracted or quoted here. Only Kunlun's own standalone geometric facts are

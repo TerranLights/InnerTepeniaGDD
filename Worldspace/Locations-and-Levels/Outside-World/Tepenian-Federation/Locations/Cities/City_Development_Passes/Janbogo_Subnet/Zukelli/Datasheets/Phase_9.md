@@ -1,6 +1,6 @@
 # Zukelli — Datasheet · Phase 9 (Populations)
 
-> ⚠ **DRAFT — Tier U, near-none Tier C.**
+> ⚠ **DRAFT — Tier U, near-none Tier C.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 4 of 4** — Laws of Robotics · Robot_Universals (Ch. 13, Ch. 14) · Doll Representation Categories · human-robot baseline (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L1034–1040).
 

@@ -1,6 +1,6 @@
 # Vostok — Datasheet · Step 10 (Readiness Check)
 
-> ⚠ **DRAFT — Tier U + Tier C.** *"Verify, do not assert."*
+> ⚠ **DRAFT — Tier U + Tier C.** *"Verify, do not assert."* 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Category | Value | Citation |
 |---|---|---|

@@ -54,3 +54,5 @@ inevitable — see `City_Symbol_Assignments.md`'s own distribution notes for the
 Zodiac substrate's own overlap cases, a handful of repeats are flagged as deliberate echoes of already-
 established kinship rather than coincidence (Kunlun, Ariun Nuur, and Dome Fuji all sharing Pluto mirrors their
 already-established extreme-isolation kinship and Ice-Cold Buddhism connection).
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Data_Reference/Symbolism/`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

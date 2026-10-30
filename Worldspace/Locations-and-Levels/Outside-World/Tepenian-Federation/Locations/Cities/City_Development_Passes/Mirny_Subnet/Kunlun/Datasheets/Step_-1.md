@@ -1,6 +1,6 @@
 # Kunlun — Datasheet · Step −1 (Input Contract)
 
-> ⚠⚠ **DRAFT — Tier C. READ THIS BOX BEFORE USING THE FILE.**
+> ⚠⚠ **DRAFT — Tier C. READ THIS BOX BEFORE USING THE FILE.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > **Kunlun's own ULM pass has NOT started.** No Step −1 has run; no admissibility ruling exists. ⛔ **This file
 > CANNOT pre-stage an admitted read-range** — deciding which lines of the Specs file are admissible (later-era
 > fields excluded, corpus superlatives struck, GPS violations removed) is Step −1's own derivation work, not a

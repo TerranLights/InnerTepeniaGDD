@@ -7,7 +7,7 @@
 > ⛔ **An EXPORT headcount is not** — `export = sector − own need`, and the own-need term is unstable across
 > this corpus's own withdrawn/rebuilt rates. ⛔ **Nor is any *"feeds N people"* claim.** **See Tier U §2a.**
 
-> ⚠ **DRAFT — Tier C + Tier U.** Tier U (Robot Physiology) already exists as a full-text extraction — see
+> ⚠ **DRAFT — Tier C + Tier U.** Tier U (Robot Physiology) already exists as a full-text extraction — see 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`.
 > ⛔⛔ No Long Night War / post-war content appears below.
 

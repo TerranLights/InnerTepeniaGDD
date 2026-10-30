@@ -651,3 +651,5 @@ is unruled. Tracked as three columns so either reading works.**
 
 📎 Per-process detail: `ULM_Run_Progress.md` · `CST_Progress.md` · `RWBEM_Progress.md`
 📎 What the pieces are: `ULM_Piece_Index.md` · input availability: `Cultural_Synthesis_Input_Availability.md` · `RealWorld_Basis_Input_Availability.md`
+
+> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/MASTER_Process_Tracker.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

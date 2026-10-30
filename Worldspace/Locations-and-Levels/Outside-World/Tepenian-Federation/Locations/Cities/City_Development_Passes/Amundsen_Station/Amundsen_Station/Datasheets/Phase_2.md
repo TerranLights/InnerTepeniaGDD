@@ -1,6 +1,6 @@
 # Amundsen Station — Datasheet · Phase 2 (Composition & Arrival)
 
-> ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown.
+> ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 
 | Category | Value | Citation |
