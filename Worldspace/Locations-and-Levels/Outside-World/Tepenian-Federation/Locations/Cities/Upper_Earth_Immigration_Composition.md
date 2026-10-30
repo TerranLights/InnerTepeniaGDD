@@ -290,10 +290,10 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **USA** | 155M Gini-adjusted effective |
-| 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Russia** (25M), **Brazil** (17M) | Same Cape Town/Novo cluster as Troll |
-| 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Santa Luce's UTC-1); Finland and Sweden are founding nations at Santa Luce — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
+| 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Russia** (25M), **Magna Lombardia** (≈18M, illustrative), **Brazil** (17M) | Same Cape Town/Novo cluster as Troll |
+| 3 — Notable | **Poland** (12M), **Meridia** (≈9M, illustrative), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Santa Luce's UTC-1); Finland and Sweden are founding nations at Santa Luce — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
 
-*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective. Santa Luce's founders are Italy and the CIN (Founding Register, `DR-22`); the earlier Finnish-Swedish co-founding note is superseded.*
+*Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective. Santa Luce's founders are Italy and the CIN (Founding Register, `DR-22`); the earlier Finnish-Swedish co-founding note is superseded. **Updated 2026-10-29 (`DR-83`, developer): the Italian share is the two post-war states, Magna Lombardia (Significant) and Meridia (Notable), not a single "Italy"; their pools (≈18M and ≈9M) are illustrative, from the `DR-60` basis of about 2.1:1 on a pre-split ≈27M, and are to be replaced by the post-war national data when it exists.***
 
 ---
 

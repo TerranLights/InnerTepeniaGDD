@@ -7,11 +7,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Composition tier table (spec) | **Primary:** USA · **Significant:** Germany, France, UK, Russia, Brazil · **Notable:** Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia | `Specs/Santa_Luce.md` L22–24 |
-| Composition tier table (census Section A entry) | **Primary:** USA · **Significant:** Germany, France, UK, Russia, Brazil · **Notable:** Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia | `Official_Population_Census.md` L170–172 |
-| Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
+| Composition tier table (spec) | **Primary:** USA · **Significant:** Germany, France, UK, Russia, Brazil, Magna Lombardia · **Notable:** Meridia, Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia | `Specs/Santa_Luce.md` L22–24 |
+| Composition tier table (census Section A entry) | **Primary:** USA · **Significant:** Germany, France, UK, Russia, Brazil, Magna Lombardia · **Notable:** Meridia, Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia | `Official_Population_Census.md` L170–172 |
+| Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21; re-compared 2026-10-29 after `DR-83` (Magna Lombardia and Meridia added to both): identical |
 | Annotations in the tier tables | None | Read 2026-10-21 |
-| Per-nation breakdown (spec) | Present at L28–L64 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Santa_Luce.md` L28 |
+| Per-nation breakdown (spec) | Present at L28–L66 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Santa_Luce.md` L28 |
 | Census I | 213,834 H / 223,780 R / **437,614** combined | `Official_Population_Census.md` L499 |
 | Census II | 132,423 H / 126,398 R / **258,821** combined | `Official_Population_Census.md` L624 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 58.73% · human 61.64% · robot 55.97% | Computed from the two rows above |

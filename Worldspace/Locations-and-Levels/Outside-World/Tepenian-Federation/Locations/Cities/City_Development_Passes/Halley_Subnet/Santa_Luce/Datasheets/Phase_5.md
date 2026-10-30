@@ -24,14 +24,14 @@
 | ↳ `Highways.md` — lines naming the city | - Hwy 59's ramp with Hwy 7 stays **between Halley and Santa Luce** *(Halley's road leaves Hwy 7 on the Belgrano side of that ramp, or at it; the exact order of the two junctions is not set)*. | `Highways.md` L256 |
 | ↳ `Highways.md` — lines naming the city | \| Between Halley and Santa Luce \| Hwy 7, Hwy 59 \| — \| | `Highways.md` L284 |
 | ↳ `Highways.md` — lines naming the city | \| Between Santa Luce and Sanay \| Hwy 7, Neumayer connector \| — \| | `Highways.md` L285 |
-| `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L33 |
-| ↳ `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L41 |
-| ↳ `Airports.md` — lines naming the city | > \| **Served, Not Host** \| **3** — Pergamino · Contrapunto · Santa Luce \| | `Airports.md` L97 |
-| ↳ `Airports.md` — lines naming the city | > `Santa Luce` (2026-09-03) is the member that made that obvious. | `Airports.md` L114 |
+| `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L36 |
+| ↳ `Airports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Airports.md` L44 |
+| ↳ `Airports.md` — lines naming the city | > \| **Served, Not Host** \| **3** — Pergamino · Contrapunto · Santa Luce \| | `Airports.md` L100 |
+| ↳ `Airports.md` — lines naming the city | > `Santa Luce` (2026-09-03) is the member that made that obvious. | `Airports.md` L119 |
 | `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L26 |
 | ↳ `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L182 |
-| ↳ `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L460 |
-| ↳ `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L717 |
+| ↳ `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L483 |
+| ↳ `Ports.md` — lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Ports.md` L740 |
 | `Geothermal_Heating.md` — lines naming the city | Checked by name (`Santa Luce`, `Abowasa`, `Aboa Station`, `Wasa Research Station`): **zero hits** in a 199-line file | `Geothermal_Heating.md` |
 | `Arcanet.md` — lines naming the city | Checked by name (`Santa Luce`, `Abowasa`, `Aboa Station`, `Wasa Research Station`): **zero hits** in a 28-line file | `Arcanet.md` |
 | `City_Relationship_Database.md` — the city's own entry | Entry at L67–L77 (`Santa Luce`); lines below are copied as written, relation-legal | `City_Relationship_Database.md` L67 |

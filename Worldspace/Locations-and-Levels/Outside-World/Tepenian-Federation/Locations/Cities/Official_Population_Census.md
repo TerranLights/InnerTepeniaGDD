@@ -168,8 +168,8 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Significant | Germany, France, UK, Russia, Brazil, Magna Lombardia |
+| Notable | Meridia, Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 ---
 
@@ -561,34 +561,34 @@ National communities are classified by tier based on long-run population share. 
 
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| USA | 2,465,982 | | Italy | 164,828 |
-| China | 1,660,450 | | South Africa | 162,380 |
-| Japan | 953,710 | | Romania | 157,542 |
-| South Korea | 892,502 | | Poland | 150,532 |
-| UK | 856,776 | | Slovenia | 150,526 |
-| Germany | 735,885 | | Serbia | 148,757 |
-| Australia | 727,081 | | Czech Republic | 144,102 |
-| Brazil | 706,739 | | Slovakia | 140,767 |
-| Indonesia | 606,976 | | Lithuania | 136,787 |
-| Russia | 496,007 | | Bulgaria | 136,340 |
-| France | 491,209 | | Ukraine | 131,409 |
-| Canada | 327,961 | | Croatia | 130,019 |
-| Mexico | 278,536 | | Belarus | 122,235 |
-| Argentina | 240,022 | | Norway | 121,504 |
-| Chile | 229,408 | | Uruguay | 119,026 |
-| New Zealand | 226,668 | | Latvia | 118,395 |
-| Malaysia | 198,508 | | Netherlands | 118,050 |
-| Vietnam | 197,574 | | Finland | 103,624 |
-| Philippines | 196,541 | | Spain | 77,165 |
-| Thailand | 173,181 | | Belgium | 42,852 |
-| Hungary | 167,311 | | Sweden | 39,983 |
-| Estonia | 166,483 | | *Maritime fleet (no nation assigned)* | 11,205 |
+| USA | 2,462,596 | | South Africa | 162,098 |
+| China | 1,660,450 | | Romania | 157,022 |
+| Japan | 953,710 | | Poland | 150,296 |
+| South Korea | 892,502 | | Slovenia | 150,283 |
+| UK | 855,222 | | Serbia | 148,201 |
+| Germany | 735,406 | | Czech Republic | 143,563 |
+| Australia | 727,081 | | Slovakia | 140,484 |
+| Brazil | 704,963 | | Lithuania | 136,473 |
+| Indonesia | 606,976 | | Bulgaria | 136,049 |
+| Russia | 494,209 | | Ukraine | 130,844 |
+| France | 490,468 | | Croatia | 129,454 |
+| Canada | 327,961 | | Belarus | 122,235 |
+| Mexico | 278,536 | | Norway | 121,223 |
+| Argentina | 239,412 | | Uruguay | 119,026 |
+| Chile | 229,408 | | Latvia | 117,792 |
+| New Zealand | 226,668 | | Netherlands | 117,470 |
+| Malaysia | 198,508 | | Finland | 103,357 |
+| Vietnam | 197,574 | | Spain | 77,165 |
+| Philippines | 196,541 | | Belgium | 42,545 |
+| Thailand | 173,181 | | Sweden | 39,657 |
+| Hungary | 166,778 | | Magna Lombardia | 13,649 |
+| Estonia | 165,919 | | Meridia | 4,550 |
+| Italy | 164,828 | | *Maritime fleet (no nation assigned)* | 11,205 |
 |  |  | | **TOTAL** | **15,623,538** |
 
-*Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. **Resolved 2026-07-13:** this file's own City Populations table (above) previously did not mark Denison as destroyed, despite Section D below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document. Fixed, adding the "(destroyed)" tag to Denison's row to match Zukelli's own already-correct row. The same gap was found, opportunistically, on Cape Adare's row three lines above Denison's — also fixed, matching `Specs/Cape_Adare.md`'s own already-established "Destroyed" status.*
+*Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. **Resolved 2026-07-13:** this file's own City Populations table (above) previously did not mark Denison as destroyed, despite Section D below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document. Fixed, adding the "(destroyed)" tag to Denison's row to match Zukelli's own already-correct row. The same gap was found, opportunistically, on Cape Adare's row three lines above Denison's — also fixed, matching `Specs/Cape_Adare.md`'s own already-established "Destroyed" status.* *Updated 2026-10-29 (`DR-83`): Santa Luce's composition now names the post-war states Magna Lombardia and Meridia, so the table lists them as separate nations; the other cities still list "Italy" until the post-war nation reorganization, and the three rows sit side by side.*
 
 ---
-
 ---
 
 ## Section C — Population Figures: Orbital Era (Census II)

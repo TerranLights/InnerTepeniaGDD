@@ -6,11 +6,11 @@
 | Category | Value | Citation |
 |---|---|---|
 | Research log | Checked, **does not exist yet** — created at Step 3 when it runs, same convention corpus-wide | Checked 2026-10-21: `Cities/Research_Logs/` |
-| `Inspirational-Influences.md` — the city's own picks section | Section at L158–L163; **lines NOT copied: withheld for this pass (`DR-67`)** | `Inspirational-Influences.md` L158 |
-| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L159 |
-| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L160 |
-| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L161 |
-| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L162 |
+| `Inspirational-Influences.md` — the city's own picks section | Section at L158–L163; **lines NOT copied: withheld for this pass (`DR-67`)** | `Inspirational-Influences.md` L189 |
+| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L190 |
+| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L191 |
+| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L192 |
+| ↳ picks line | *[withheld for this pass, `DR-67`: the pick rests on the superseded founding; line not copied]* | `Inspirational-Influences.md` L193 |
 | `Inspirational-Influences.md` status | ⚠ **Not a ratified root, demoted corpus-wide** (status already established elsewhere) | Corpus-wide standing note |
 | Overlap with the eBook pre-staging queue | This step's real work (search strings, book-extraction checklists) is the any-hour mechanical prep already queued corpus-wide (November item N-6); not duplicated here | Cross-link |
 

@@ -13,8 +13,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Abowasa · Subnet: Halley · D: 1.54 · Workforce: 330,697 · base%: 45.6% · MAND%: 5.4% · FREE%: 49.0% · src: H | `16_Per_City_Three_Tier_Run.md` L277 |
-| `16` — other lines naming the city (per-city passages and tables) | 14 line(s): L173, L221, L352, L436, L623, L632, L649, L664, L669–670, L689, L811, L930, L3550 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L173, L221, L352, L436, L623, L632, L649, L664, L669–670, L689, L811, L930, L3550 |
+| `16` Half B — the city's own row | City: Abowasa · Subnet: Halley · D: 1.54 · Workforce: 330,697 · base%: 45.6% · MAND%: 5.4% · FREE%: 49.0% · src: H | `16_Per_City_Three_Tier_Run.md` L278 |
+| `16` — other lines naming the city (per-city passages and tables) | 14 line(s): L173, L221, L352, L436, L623, L632, L649, L664, L669–670, L689, L811, L930, L3550 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L173, L221, L355, L439, L628, L637, L654, L669, L674–675, L694, L816, L935, L3555 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Abowasa \| . \| . \| . \| Y \| . \| . \| 5/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L145 |
 | `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |
 | `Theoretical-Calculations/` — files naming the city | Checked by name: **zero hits** | `Theoretical-Calculations/` |

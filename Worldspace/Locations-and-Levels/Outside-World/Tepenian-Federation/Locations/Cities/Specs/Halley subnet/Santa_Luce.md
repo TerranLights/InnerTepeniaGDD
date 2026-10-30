@@ -20,8 +20,8 @@
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Significant | Germany, France, UK, Russia, Brazil, Magna Lombardia |
+| Notable | Meridia, Poland, Netherlands, Belgium, Sweden, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -31,34 +31,36 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 18.60% | 41,634 | 39,783 | 23,516 | 24,637 |
-| Significant | Russia | 9.88% | 22,111 | 21,128 | 12,489 | 13,084 |
-| Significant | Brazil | 9.76% | 21,844 | 20,873 | 12,338 | 12,927 |
-| Significant | UK | 8.54% | 19,107 | 18,258 | 10,792 | 11,307 |
-| Significant | France | 4.07% | 9,115 | 8,709 | 5,148 | 5,393 |
-| Notable | Argentina | 3.35% | 7,505 | 7,172 | 4,239 | 4,441 |
-| Notable | Latvia | 3.32% | 7,421 | 7,091 | 4,192 | 4,392 |
-| Notable | Netherlands | 3.18% | 7,125 | 6,809 | 4,025 | 4,216 |
-| Notable | Ukraine | 3.10% | 6,947 | 6,638 | 3,924 | 4,111 |
-| Notable | Croatia | 3.10% | 6,947 | 6,638 | 3,924 | 4,111 |
-| Notable | Estonia | 3.10% | 6,930 | 6,622 | 3,914 | 4,101 |
-| Notable | Serbia | 3.05% | 6,835 | 6,532 | 3,861 | 4,045 |
-| Notable | Czech Republic | 2.96% | 6,629 | 6,334 | 3,744 | 3,923 |
-| Notable | Hungary | 2.93% | 6,551 | 6,260 | 3,700 | 3,876 |
-| Notable | Romania | 2.86% | 6,395 | 6,111 | 3,612 | 3,784 |
-| Significant | Germany | 2.63% | 5,887 | 5,625 | 3,325 | 3,484 |
-| Notable | Sweden | 1.79% | 4,014 | 3,835 | 2,267 | 2,375 |
-| Notable | Lithuania | 1.72% | 3,857 | 3,686 | 2,179 | 2,283 |
-| Notable | Belgium | 1.69% | 3,779 | 3,611 | 2,135 | 2,236 |
-| Notable | Bulgaria | 1.60% | 3,573 | 3,414 | 2,018 | 2,114 |
-| Notable | Norway | 1.55% | 3,461 | 3,307 | 1,955 | 2,048 |
-| Notable | South Africa | 1.55% | 3,461 | 3,308 | 1,955 | 2,048 |
-| Notable | Slovakia | 1.55% | 3,479 | 3,324 | 1,965 | 2,058 |
-| Notable | Finland | 1.47% | 3,283 | 3,137 | 1,854 | 1,943 |
-| Notable | Slovenia | 1.33% | 2,987 | 2,855 | 1,687 | 1,768 |
-| Notable | Poland | 1.30% | 2,903 | 2,774 | 1,640 | 1,718 |
+| Primary | USA | 17.02% | 38,091 | 36,397 | 21,515 | 22,540 |
+| Significant | Russia | 9.04% | 20,229 | 19,330 | 11,426 | 11,970 |
+| Significant | Brazil | 8.93% | 19,985 | 19,097 | 11,288 | 11,827 |
+| Significant | UK | 7.81% | 17,481 | 16,704 | 9,874 | 10,345 |
+| Significant | Magna Lombardia | 6.38% | 14,284 | 13,649 | 8,068 | 8,453 |
+| Significant | France | 3.72% | 8,339 | 7,968 | 4,710 | 4,934 |
+| Notable | Argentina | 3.06% | 6,866 | 6,562 | 3,878 | 4,063 |
+| Notable | Latvia | 3.04% | 6,789 | 6,488 | 3,835 | 4,018 |
+| Notable | Netherlands | 2.91% | 6,519 | 6,229 | 3,683 | 3,857 |
+| Notable | Croatia | 2.84% | 6,356 | 6,073 | 3,590 | 3,761 |
+| Notable | Estonia | 2.84% | 6,340 | 6,058 | 3,581 | 3,752 |
+| Notable | Ukraine | 2.84% | 6,356 | 6,073 | 3,590 | 3,761 |
+| Notable | Serbia | 2.79% | 6,253 | 5,976 | 3,532 | 3,701 |
+| Notable | Czech Republic | 2.71% | 6,065 | 5,795 | 3,425 | 3,589 |
+| Notable | Hungary | 2.68% | 5,994 | 5,727 | 3,385 | 3,546 |
+| Notable | Romania | 2.62% | 5,851 | 5,591 | 3,305 | 3,462 |
+| Significant | Germany | 2.41% | 5,386 | 5,146 | 3,042 | 3,187 |
+| Notable | Meridia | 2.13% | 4,761 | 4,550 | 2,689 | 2,818 |
+| Notable | Sweden | 1.64% | 3,672 | 3,509 | 2,074 | 2,173 |
+| Notable | Lithuania | 1.57% | 3,529 | 3,372 | 1,994 | 2,089 |
+| Notable | Belgium | 1.55% | 3,457 | 3,304 | 1,953 | 2,046 |
+| Notable | Bulgaria | 1.46% | 3,269 | 3,123 | 1,846 | 1,934 |
+| Notable | Norway | 1.42% | 3,166 | 3,026 | 1,789 | 1,874 |
+| Notable | Slovakia | 1.42% | 3,183 | 3,041 | 1,798 | 1,883 |
+| Notable | South Africa | 1.42% | 3,166 | 3,026 | 1,789 | 1,874 |
+| Notable | Finland | 1.34% | 3,004 | 2,870 | 1,696 | 1,777 |
+| Notable | Slovenia | 1.22% | 2,733 | 2,612 | 1,543 | 1,617 |
+| Notable | Poland | 1.19% | 2,656 | 2,538 | 1,500 | 1,572 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology. **Rescaled 2026-10-28 (`DR-68`) to the adopted scenario population; each share is unchanged and each column was scaled so it sums exactly to the new city total.***
+*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology. **Rescaled 2026-10-28 (`DR-68`) to the adopted scenario population; each share is unchanged and each column was scaled so it sums exactly to the new city total.*** **Updated 2026-10-29 (`DR-83`, developer):** the Italian share is two rows, the post-war states **Magna Lombardia** (Significant, weight 3) and **Meridia** (Notable, weight 1), added on the standard weights (43 → 47 total); every existing share is multiplied by 43/47 and each column re-summed exactly (the shares are re-normalized to 100.00; the old table's displayed shares summed to 99.98 from rounding). **The tiers rest on ILLUSTRATIVE effective pools (about 18M and 9M, from the `DR-60` basis of about 2.1:1 on a pre-split figure of about 27M), not on ruled figures.**
 
 ---
 

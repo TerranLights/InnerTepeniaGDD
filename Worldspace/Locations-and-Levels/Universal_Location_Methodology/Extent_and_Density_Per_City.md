@@ -618,7 +618,7 @@ Foothills. *Same shape, one subnet over.*
 | Princess Elisabeth | Halley | 1,137,917 | 114 | 163 | Utsteinen ridge |
 | Belgrano | Halley | 1,071,890 | 107 | 153 | Bertrab nunatak |
 | Sinheung | Mirny | 1,069,350 | 107 | 153 | Larsemann Hills |
-| Abowasa | Halley | 1,034,241 | 103 | 148 | Basen nunatak |
+| Abowasa *(now Santa Luce)* | Halley | 437,614 *(was 1,034,241; scenario `DR-67`/`DR-68`, 2026-10-28)* | 44 *(was 103)* | 63 *(was 148)* | Basen nunatak |
 | **Concordia** | Janbogo | 1,015,947 | 102 | 145 | **Dome C plateau — 0% rock** |
 | Troll | Halley | 954,450 | 95 | 136 | Jutulsessen |
 | Sanay | Halley | 463,669 | 46 | 66 | inland bedrock + coastal port |
