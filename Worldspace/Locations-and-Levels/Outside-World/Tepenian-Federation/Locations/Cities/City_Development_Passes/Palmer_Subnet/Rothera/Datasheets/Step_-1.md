@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Rothera.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 245 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 244 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Rothera | `Specs/Rothera.md` L1 |
 | Real-world basis | Rothera Research Station (UK / British Antarctic Survey), Rothera Point, Adelaide Island, Marguerite Bay, Antarctic Peninsula (~67°34'S, 68°07'W) | `Specs/Rothera.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Rothera.md` L5 |

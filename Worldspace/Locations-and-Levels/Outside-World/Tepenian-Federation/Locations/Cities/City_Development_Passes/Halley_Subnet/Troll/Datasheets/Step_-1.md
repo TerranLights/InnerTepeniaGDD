@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Troll.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 182 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 181 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Troll | `Specs/Troll.md` L1 |
 | Real-world basis | Troll Research Station (Norway / Norwegian Polar Institute), Jutulsessen nunatak, Queen Maud Land (~72°01'S, 2°32'E) | `Specs/Troll.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") | `Specs/Troll.md` L5 |

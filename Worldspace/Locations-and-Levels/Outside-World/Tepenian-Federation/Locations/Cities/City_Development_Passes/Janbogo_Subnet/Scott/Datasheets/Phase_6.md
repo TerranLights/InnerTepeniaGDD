@@ -3,7 +3,7 @@
 > ⚠ **DRAFT — Tier C.** Every directory actually enumerated, not assumed empty (the Field Guide's warning about unverified "empty" claims). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), recounted by hand 2026-10-30:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
 
 
 
@@ -19,8 +19,8 @@
 | ↳ `National_Holidays.md` | - **St. Robert** — Robert Falcon Scott (city of Scott) | `National_Holidays.md` L39 |
 | ↳ `National_Holidays.md` | stay unique to Scott/Fort McMurdo while other cities mark the day differently? | `National_Holidays.md` L164 |
 | `Ice-Cold_Buddhism_Research/` — directory enumerated | 7 `.md` files read; **0 name the city** | `Reference/Real-World/Ice-Cold_Buddhism_Research/` (enumerated 2026-10-21) |
-| `The_Meme_Machine_Extraction.md` | Checked by name (`Scott`, `Scott Base`): **zero hits** in a 293-line file | `The_Meme_Machine_Extraction.md` |
-| `The_True_Believer_Extraction.md` | Checked by name (`Scott`, `Scott Base`): **zero hits** in a 378-line file | `The_True_Believer_Extraction.md` |
+| `The_Meme_Machine_Extraction.md` | Checked by name (`Scott`, `Scott Base`): **zero hits** in a 292-line file | `The_Meme_Machine_Extraction.md` |
+| `The_True_Believer_Extraction.md` | Checked by name (`Scott`, `Scott Base`): **zero hits** in a 377-line file | `The_True_Believer_Extraction.md` |
 | The RESERVED mortuary question | Not dispatched: RESERVED means RESERVED regardless of mechanical-ness | `Mechanical_Extraction_Field_Guide.md`, the sequencing-exclusion table |
 
 **Not mechanical / not included here:** the Naming technique, belief landscape, death and the dead, the Failure State of the Core Value, Observance generation — none of this exists until Scott's own pass runs.

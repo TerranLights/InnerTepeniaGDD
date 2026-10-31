@@ -1,7 +1,8 @@
 # Rothera — development pass
 
-**Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
-run — never pre-created.*
+**Folder opened 2026-09-05.** The folder holds the Pre-Trip Inspection, the Position-Coverage Ledger and the 19
+`Datasheets/` files (listing checked 2026-10-30). *The numbered pass files in the table below appear here **one at a
+time**, as each piece is run — never pre-created.*
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -34,7 +35,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 | | |
 |---|---|
 | ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built. ⛔ **Does NOT replace any MUST-OPEN read** — Step 4 still opens every primary source in full, per the Field Guide's own guardrail |
-| **Spec** | `../../../Specs/Rothera.md` |
+| **Spec** | `../../../Specs/Palmer subnet/Rothera.md` |
 | **Local culture** | `../../../Local_Cultures/Palmer_Subnet/Rothera.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Rothera.md` |
 | **Research log** | `../../../Research_Logs/Rothera_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |

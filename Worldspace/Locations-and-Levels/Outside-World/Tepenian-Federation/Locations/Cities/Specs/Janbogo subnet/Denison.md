@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Janbogo
 **Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — Denison is on **Hwy 183 (the Janbogo Highway)**, between the Cape Adare connecting road and Dumont d'Urville. See `Locations/Infrastructure/Highways.md`.
-**Significance:** Among the windiest permanent habitation sites at sea level on Earth (avg ~80 km/h, gusts 300+ km/h); founded on the legendary Mawson expedition site; "Home of the Blizzard" — the one Tepenian city whose civic identity is built on open pride in environmental extremity rather than quiet endurance
+**Significance:** Among the windiest permanent habitation sites at sea level on Earth (avg ~69 km/h (19.3 m/s measured), gusts 300+ km/h); founded on the legendary Mawson expedition site; "Home of the Blizzard" — the one Tepenian city whose civic identity is built on open pride in environmental extremity rather than quiet endurance
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); Destroyed city, ruins accessible
 
 **Note (created 2026-07-05):** This file did not previously exist — all of Denison's established lore lived only in `Local_Cultures/Janbogo_Subnet/Denison.md`, which remains the authoritative source for its culture. This file exists to give Denison the same Specs-level population/geography documentation every other Tepenian city has, and to close a real gap flagged during the earlier project-wide population sweep (see `Official_Population_Census.md` and `TODO.md` for the history of Denison's missing-Specs-file accounting gap).
@@ -17,8 +17,8 @@
 **Census I (Pre-Orbital Era):** 456,668 humans / 473,471 robots / **930,139** combined *(was 444,529 / 461,693 / 906,222; census updated 2026-10-28, `DR-68`)*
 **Census II (Orbital Era):** 293,192 humans / 346,130 robots / **639,322** combined *(was 285,085 / 338,392 / 623,477)* *(destroyed)*
 
-> ### ⭐⭐ RESOLVED 2026-09-05 — **EXTENT DECLARED, POPULATION REDUCED 15%**
-> **`**Extent band:** ~50 km² — TWO ZONES.**
+> ### ⭐⭐ RESOLVED 2026-09-05 — **EXTENT DECLARED, POPULATION REDUCED 15%** *(2026-09-05 snapshot. At 2026-10-30 the live total is 930,139 people, 18,603/km² over ~50 km²; the "15%" headline is 12.8% at the live total, which is 87.2% of 1,066,143. The zones below were not re-split.)*
+> **Extent band: ~50 km² — TWO ZONES.**
 >
 > | Zone | Area | Population | Density |
 > |---|--:|--:|--:|
@@ -162,7 +162,7 @@
 
 ## Geographic Basis
 
-Cape Denison sits on Commonwealth Bay, George V Land, East Antarctica — a rare stretch of exposed bedrock on an otherwise ice-buried coast, which is precisely why Douglas Mawson chose it as his expedition's main base in 1911. He had no way of knowing until it was too late to relocate that he'd picked what may be the windiest permanent habitation site at sea level on the planet: average wind speeds around 80 km/h, with recorded gusts well over 300 km/h during the worst katabatic events. His own account of the ordeal was titled *Home of the Blizzard*, and the name outlasted the expedition itself.
+Cape Denison sits on Commonwealth Bay, George V Land, East Antarctica — a rare stretch of exposed bedrock on an otherwise ice-buried coast, which is precisely why Douglas Mawson chose it as his expedition's main base in 1911. He had no way of knowing until it was too late to relocate that he'd picked what may be the windiest permanent habitation site at sea level on the planet: average wind speeds around 69 km/h (19.3 m/s measured), with recorded gusts well over 300 km/h during the worst katabatic events. His own account of the ordeal was titled *Home of the Blizzard*, and the name outlasted the expedition itself.
 
 The wind here is close to constant rather than episodic — more extreme than Janbogo's already-formidable Terra Nova Bay katabatics, and dramatically more extreme than Casey's comparatively moderate coastal regime. Denison's founders inherited no equivalent of Casey's substantial modern station infrastructure to build on; the only prior human history on the site was a small, legendary expedition hut and generations of scientific reputation as one of the most hostile inhabited points on the continent. They built a genuine city there anyway.
 
@@ -175,7 +175,7 @@ Antarctic Expedition 1912–14. *(Researched 2026-09-04; the "verify against exp
 section used to carry is now discharged.)*
 
 > ### ⚠ Why the wind may NOT be taken from the temperature proxy
-> Dumont d'Urville is **~120 km west along the same Adélie Land coast** and is a sound proxy for
+> Dumont d'Urville is **~120 km west along the same coast (Adélie Land, the next land to the west)** and is a sound proxy for
 > *temperature*. **It is not one for wind, and the reason is the single most important geographic fact
 > about this city.** DDU's annual mean wind is **~9.7 m/s**; Cape Denison's, measured across the 1912–14
 > expedition, is **19.3 m/s — very nearly double.**
@@ -341,7 +341,7 @@ Via Hwy 183 *(corrected 2026-07-13 — this line still said the connection was u
 
 ## Current Status / Destruction
 
-Destroyed in the Long Night War, alongside Zukelli. At the time of destruction, human retention was 63.7% and robot retention was 72.8% — a mid-tier coastal city, not a city already in decline.
+Destroyed in the Long Night War, alongside Zukelli. At the time of destruction, human retention was 64.20% and robot retention was 73.10% — a mid-tier coastal city, not a city already in decline.
 
 **Note:** `Official_Population_Census.md`'s City Populations table previously did not mark Denison as destroyed, despite its own Section IV explicitly stating Denison was destroyed during the Long Night War — an internal inconsistency. **Resolved 2026-07-13**, adding the missing "(destroyed)" tag to Denison's row (and, opportunistically, to Cape Adare's own row, which had the same gap).
 

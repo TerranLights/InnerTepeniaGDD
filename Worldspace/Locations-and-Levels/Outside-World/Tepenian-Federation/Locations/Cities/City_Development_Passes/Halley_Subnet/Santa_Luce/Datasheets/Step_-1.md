@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Santa_Luce.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 192 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 193 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Santa Luce | `Specs/Santa_Luce.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Santa_Luce.md` L3 |
 | Real-world basis | Aboa Station (Finland, est. 1988) and Wasa Research Station (Sweden, est. 1989) — two genuinely separate national stations only ~200m apart, Basen nunatak, Kraul Mountains (= Vestfjella — same range, Norwegian vs. English naming), Queen Maud Land (~73°03'S, 13°25'W) | `Specs/Santa_Luce.md` L5 |

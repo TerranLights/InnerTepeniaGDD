@@ -80,7 +80,7 @@ Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a name
 
 **Climate type:** Inland Queen Maud Land nunatak, western sector — more continental than coastal; colder than Troll and Sanay on average; Vestfjella/Kraul Mountains weather; katabatic influence
 **Mean annual temperature:** approximately −15°C
-**Record extremes:** record high **+4.1 °C** (Jan); record low **-45.4 °C** (Jun) _(IMAU **AWS05**, *Wasa/Aboa Camp Maudheimvida* — ~10 km, 366 m — Aboa sits at ~400 m; **117,567 hourly observations**, 1998-02-02 to 2014-02-07. PANGAEA `10.1594/PANGAEA.974113`)_ *(researched 2026-09-04)*
+**Record extremes:** record high **+4.1 °C** (Jan); record low **-45.4 °C** (Jun) _(IMAU **AWS05**, *Wasa/Aboa Camp Maudheimvida* — ~10 km, 366 m — Aboa sits at 484 m; **117,567 hourly observations**, 1998-02-02 to 2014-02-07. PANGAEA `10.1594/PANGAEA.974113`)_ *(researched 2026-09-04)*
 **Prevailing winds:** ⭐ **north-easterly, and dominantly so year-round** — a product of local nunatak topography combined with the easterly flow of cyclones tracking eastward parallel to the coast. **Summer mean wind 5.9 m/s** *(Aboa Weather Station, on Basen nunatak itself)*; **summer mean air temperature −5.4 °C.** *Basen sits in the north-eastern part of Vestfjella, a 135 km range of nunataks — the range itself steers the flow.* *(researched 2026-09-04; measured on site, not proxied)*
 **Temperature range:** coldest months avg −22°C; warmest month avg −5°C
 **Polar night:** approximately May 12 → Aug 2 (~83 days)

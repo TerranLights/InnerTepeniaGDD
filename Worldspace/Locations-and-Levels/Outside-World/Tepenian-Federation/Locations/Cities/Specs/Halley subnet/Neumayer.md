@@ -76,7 +76,7 @@ Named for Georg von Neumayer — not an Antarctic explorer himself, but the man 
 **Mean annual temperature:** -16.0°C  _(READER station: Neumayer; 1991–2020 WMO standard normal)_
 **Prevailing winds:** strong katabatic winds; an observed case put −22 °C air at a felt temperature of **−47 °C** *(researched 2026-09-04)*
 **Record extremes:** record low **−50 °C** (8 July 2010) *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −26°C; warmest month avg −4°C
+**Temperature range:** coldest months (July/August) mean −25.3°C / −24.6°C; warmest months (December/January) mean −4.7°C / −4.1°C
 **Polar night:** approximately May 22 → Jul 23 (~63 days)
 **Midnight sun:** approximately Nov 16 → Jan 27 (~73 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -88,7 +88,7 @@ Named for Georg von Neumayer — not an Antarctic explorer himself, but the man 
 **Regime:** **ICE SHELF** — *flat, exposed, heavily redistributed*
 **Falls (reaches the surface):** ~396 mm/yr
 **Lands (accumulates and stays):** **~257 mm/yr** *(~65% retention)*
-**Lost to sublimation and wind transport:** ~138 mm/yr
+**Lost to sublimation and wind transport:** ~139 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
 > ⚠ **BOTH — and wind is the sharper of the two.** At **-16.0 °C** (14 cities are colder), the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**persistent katabatic drainage**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous, and the surface itself moves with the shelf.**

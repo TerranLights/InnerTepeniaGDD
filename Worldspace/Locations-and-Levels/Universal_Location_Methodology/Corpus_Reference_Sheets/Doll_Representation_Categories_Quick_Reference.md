@@ -1,6 +1,6 @@
 # Doll Representation Categories — Quick Reference
 
-**Tier U — identical for every city.** Extracted 2026-10-21 from: `Doll_Representation_Categories.md` (36 lines). A quick reference: it copies the sources' words, it adds no finding, and it names no city's answer.
+**Tier U — identical for every city.** Extracted 2026-10-21 from: `Doll_Representation_Categories.md` (35 lines). A quick reference: it copies the sources' words, it adds no finding, and it names no city's answer.
 
 Pasted in full, verbatim, from `TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md` L1–L36. **Phase 9 may cite this sheet instead of re-opening the 35-line source for each city.**
 

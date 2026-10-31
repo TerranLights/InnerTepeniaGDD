@@ -19,6 +19,14 @@ WHAT IT DOES
 
 WHAT "NOT NAMED" MEANS: the datasheet does not mention the item by name. It is a lead, not a verdict: the content may be carried by a
 shared (Tier U) sheet the datasheet cites. Each distinct NOT NAMED item is therefore listed once, for a human to judge.
+
+DEVELOPER RULING 2026-10-30 (manual input audit, walk-through; the two rules for what counts as covered):
+  1. HONEST COUNTS STAND. An address no row transcribes or cites is counted as not covered, and the sheet's header says so
+     ("6 of 13"). No "nothing for this city" row is added to close a count; the Pre-Trip still lists every address. A row is
+     added only where a file really holds content for the city.
+  2. A TIER U EXTRACT COUNTS AS COVERAGE for a file only if (a) the city's sheet cites the extract AND (b) the extract's own
+     source list names that file. A mention of a file inside an extract's body (a pointer, a "see" line, a read-order table) is
+     not coverage. Header form: "N of M addresses are named in this sheet (X directly, Y through a shared Tier U sheet it cites)".
 """
 import argparse
 import glob
@@ -90,9 +98,14 @@ def tier_u_text(ds_text):
 
 
 def named(text, req):
+    """SH-008 (manual audit 2026-10-29): a FILE address counts only when the sheet carries its full file name (`Casey.md`), not
+    its bare stem or a spaced form, which also match the spec, the climate reader and prose. LIMITS THAT REMAIN: this still
+    counts a name that appears only inside a 'known missing' / 'not copied' list, and a base name shared by two files (the spec
+    and the climate reader are both `<City>.md`); a count written by this function must be confirmed by hand against the rows."""
     t = text.lower()
     r = req.lower().rstrip("/")
-    r = r[:-3] if r.endswith(".md") else r
+    if r.endswith(".md"):
+        return r in t
     return r in t.replace("_", " ").replace("\\", "") or r in t or r.replace("_", " ") in t.replace("_", " ")
 
 

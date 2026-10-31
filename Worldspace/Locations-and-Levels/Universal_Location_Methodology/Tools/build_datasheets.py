@@ -36,6 +36,14 @@ TODAY = datetime.date.today().isoformat()
 R, C, U = B.REPO, B.CITIES, B.ULM
 UNIV = "/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline"
 DI = os.path.join(C, "Division_of_Industry")
+
+
+def wc_l(lines):
+    """Line count as `wc -l` reports it (developer ruling 2026-10-30, SH-009): `read_lines` splits on "\\n", so a file that
+    ends with a newline yields one empty trailing element that is not a line."""
+    return len(lines) - 1 if lines and lines[-1] == "" else len(lines)
+
+
 WAR = re.compile(r"\b(war|wartime|post-war|postwar|destroyed|destruction|ruin|ruins|ruined|damaged|refugees?|casualt\w+|abandon\w*|surviv\w+|apocalyptic|Long Night)\b", re.I)
 COMPARE = re.compile(r"(\b(?:one of|only)\s+(?:the\s+)?(?:\w+\s+)?(?:\d+|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\b|\bof\s+(?:all\s+)?(?:37|38)\b|\brank(?:ed)?\b|\bunlike\b|"
                      r"\bany other (?:city|cities)\b|\bevery other\b|\bthan any\b|\b(?:most|least|largest|smallest|highest|lowest|coldest|warmest|windiest) of\b|\bcompared (?:to|with)\b|\bin the (?:country|corpus)\b|\bin (?:all of )?Tepenia\b|\b(?:version|type|variant|analog\w*|counterpart|equivalent)\s+of\s+[A-Z][\w']+'s\b|\b(?:most|least|only|first|last)\s+(?:\w+\s+){0,2}(?:city|cities|place|site)\b|"
@@ -207,7 +215,7 @@ def hits_rows(d, path, label, allow_multi=False, allow_compare=False, cap=40, in
     if h is None:
         return [(label, "⬜ source file not found", cite(path))]
     if not h:
-        return [(label, "Checked by name (%s): **zero hits** in a %d-line file" % (", ".join("`%s`" % n for n in ctx.names), len(B.read_lines(path))), cite(path))]
+        return [(label, "Checked by name (%s): **zero hits** in a %d-line file" % (", ".join("`%s`" % n for n in ctx.names), wc_l(B.read_lines(path))), cite(path))]
     ls = B.read_lines(path)
     rows = []
     for n in h[:cap]:
@@ -238,7 +246,7 @@ def f_step_m1(d):
     ctx = d.ctx
     ls = d.spec_lines
     rows = [("Specs file location", "`Cities/Specs/%s/%s.md` — %s" % (ctx.specsub, ctx.stem, "confirmed on disk" if ls else "⬜ NOT FOUND"), "Checked %s" % TODAY),
-            ("Specs file length", "%d lines total (bound for any future read-spec computation)" % len(ls), "Counted %s" % TODAY),
+            ("Specs file length", "%d lines total (bound for any future read-spec computation)" % wc_l(ls), "Counted %s" % TODAY),
             ("Identity / designation", d.sh.safe(ls[0].lstrip("# ").strip(), ctx.stem, 1), cite(ctx.spec, [1]))]
     notice = [(i, l) for i, l in enumerate(ls[:30], 1) if "RENAMED" in l or "NAME RULED" in l]
     for i, l in notice:
@@ -524,6 +532,8 @@ def f_step_8(d):
 
 def f_step_9(d):
     t = tieru_copy("Step_9.md", d.ctx)
+    if "Item 5" in t:  # the template (Casey's sheet) carries item 5 itself since 2026-10-30; inserting it again would duplicate it
+        return t
     t = t.replace("\n⛔ **Not staged:**", "\n⭐ **Item 5 (added 2026-10-21): discharge every deferral to \"the pass's close\".** At Step 9, sweep the pass's own files for each phase's \"sweep at the close\" deferral and discharge it; a deferral no step names is a hole (`00_RUNBOOK.md`, Step 9 item 5). *(A pure lookup; the list of this city's deferrals does not exist until its phases are written.)*\n\n⛔ **Not staged:**", 1)
     return t
 
@@ -784,7 +794,7 @@ def f_phase_8(d):
                     ("music", r"\bmusic\b"), ("craft", r"\bcraft\w*\b")):
         n = len(re.findall(rx, txt, re.I))
         counts.append("%s — %d hit(s)" % (lab, n))
-    rows.append(("The city's own spec — term check for cuisine / dress / music / craft", "Counted by pattern against the full %d-line file: %s" % (len(d.spec_lines), " · ".join(counts)), "Counted %s: %s" % (TODAY, cite(ctx.spec))))
+    rows.append(("The city's own spec — term check for cuisine / dress / music / craft", "Counted by pattern against the full %d-line file: %s" % (wc_l(d.spec_lines), " · ".join(counts)), "Counted %s: %s" % (TODAY, cite(ctx.spec))))
     rows.append(("`Robot_Biology_and_Culture/` mandatory facts (Tier U, cross-ref `Phase_4.md`)", "Siligel / coolant / smoking canon, thermal-cost mechanics — mandatory before any siligel or coolant claim", "`Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`"))
     rows.append(("Gear catalogs, slang", "No path resolved: gear-catalog work is **gated until the 38-city corpus is done**; slang has no path (a hole, flagged, not guessed)", "`03_The_Phase_Spine.md`, Phase 8 block"))
     return header(ctx, "Phase 8 (Making)", "> ⚠ **DRAFT — Tier C + Tier U. Thin by nature (as the Field Guide predicts).** An absence in the admitted set is a hole, not a finding.\n"
@@ -796,7 +806,7 @@ def f_phase_9(d):
     ru = UNIV + "/Reference/Robot_Universals"
     rows = dir_hit_rows(d, ru, "`Robot_Universals/`")
     rp = "`Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`"
-    rows += [("Laws of Robotics (Tier U)", "1. A robot will have full capacity to make decisions to maximize her own future possibilities. 2. A robot will understand that anything she is capable of doing to others is realistically possible for others to do to her. *(list explicitly not yet complete)*", rp),
+    rows += [("Laws of Robotics (quoted word for word from the source file)", "*\"1. A robot will have the full capacity to make decisions to maximize her own future possibilities.\"* · *\"2. A robot will understand that anything she is capable of doing to others, it is also realistically possible for others to do to her.\"* · *\"(this list is subject to extension)\"*", "`" + UNIV + "/Reference/Laws_of_Robotics.md` L3–6"),
              ("`Robot_Universals/` Ch. 13 — the identity lens (Tier U)", "Identity is seated in city-locality, not origin/Build/Gen-Mark", rp + " §\"Robot creation, identity, and culture\""),
              ("`Robot_Universals/` Ch. 14 — Gen/Mark (Tier U)", "Real, structurally independent of city, but carries markedly less cultural weight than locality, and is never a hierarchy", rp + " §\"Robot creation, identity, and culture\""),
              ("Doll Representation Categories (Tier U)", "Four total: Robots (the only category in active use, corpus-wide) · Anthros · Elves · Aliens (origin unknown)", "`Doll_Representation_Categories.md`")]

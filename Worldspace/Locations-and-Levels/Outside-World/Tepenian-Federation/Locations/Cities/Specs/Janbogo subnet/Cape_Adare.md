@@ -68,7 +68,7 @@ run because no area figure existed anywhere)*:
 | Ridley Beach *(site of Borchgrevink's hut)* | a triangle roughly **1.9 km per side**, ~1.6 km SW of the cape |
 
 **The derived constraint — Cape Adare cannot be confined to the cape proper.** Checked against every other
-Tepenian city whose own Spec states the ice-free terrain it occupies:
+Tepenian city whose own Spec states the ice-free terrain it occupies: *(Added 2026-10-30: the Census II figure in the last row of this table, 1,050,051, and the density figures in the table at L127–131 were computed on pre-change values — the census file now lists 1,065,898 for Cape Adare (Census II, L607). The comparison frame itself is superseded at L83–98; the datasheets do not carry either table.)*
 
 | City | Ice-free terrain | km² | Census II | People per km² |
 |---|---|---|---|---|
@@ -189,7 +189,7 @@ are internally consistent; they simply produce different cities.
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089879** (POSSESSION IS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured at a proxy** — the BAS READER 1991–2025 normal of the Possession Island AWS (`DR-70`, 2026-10-28); Cape Adare has no station of its own. **Avg High · Avg Low:* ⚠ still the earlier derived figures, not measured (the proxy has daily maxima and minima for 2025–26 only). **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)*
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured at a proxy** — the BAS READER 1991–2025 normal of the Possession Island AWS (`DR-70`, 2026-10-28); Cape Adare has no station of its own. **Avg High · Avg Low:* ⚠ still the earlier derived figures, not measured (the proxy has daily maxima and minima for 2025–26 only). **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)* ⚠ *(Added 2026-10-30: in nine months — Jan, Feb, Mar, May, Jun, Aug, Sep, Oct, Dec — the Avg Low column sits below the Rec Low column, and in August the Avg High sits above the Rec High. The record extremes come from two proxy stations (L148: Possession Is. for eleven months, Adare Hallett for July), while Avg High and Avg Low are the earlier derived figures, so the three columns cannot be read together as one record. No figures were re-derived; the columns are design-grade estimates, as the line above says.)*
 
 
 #### Notable Weather Phenomena

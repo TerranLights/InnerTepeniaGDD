@@ -4,7 +4,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -31,8 +31,10 @@
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Perseus Airstrip \| Princess Elisabeth Antarctica \| Belgium \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L46 |
 | ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Princess Elisabeth Skiway \| Utsteinen Nunatak \| Belgium \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L51 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 26, 63 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Princess Elisabeth · Subnet: Halley · D: 1.43 · Workforce: 878,880 · base%: 43.7% · MAND%: 14.1% · FREE%: 42.2% · src: H | `16_Per_City_Three_Tier_Run.md` L247, L264 (header L247, row L264) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Utstein`, `Princess Elisabeth`, `Utsteinen`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| Extent (2026-09-05 snapshot; the census is live — note L631) | City: Princess Elisabeth *(the file's live label)* · Subnet: Halley · Census I (snapshot): 1,137,917 · @10,000/km²: 114 km² · @7,000/km²: 163 km² · Site: Utsteinen ridge | `Extent_and_Density_Per_City.md` L618 (header L603; snapshot note L631) |
+| Extent at the live Census I (computed) | @10,000/km²: 116.2 km² · @7,000/km²: 166.0 km² | Computed: 1,161,834 (`Official_Population_Census.md` L495) ÷ 10,000 = 116.1834 → 116.2; ÷ 7,000 = 165.9763 → 166.0 |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Princess Elisabeth · Subnet: Halley · D: 1.43 · Workforce: 878,880 · base%: 43.7% · MAND%: 14.1% · FREE%: 42.2% · src: H *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16_Per_City_Three_Tier_Run.md` L1287–L1304)* *[The city's own determination, `16` §7 (L838, "PRINCESS ELISABETH — DETERMINED"), gives the same shares as Half B within 0.1 point: baseline 375,938 (43.7%) · mandated 121,274 (14.1%) · FREE 363,821 (42.3%), 861,033 workers, on the population before `DR-68` (the Half B workforce is the current one; `16` L1 says the determinations were not recomputed). §7 governs.]* | `16_Per_City_Three_Tier_Run.md` L247, L265 (header L247, row L265); L838 (§7) |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Utstein`, `Princess Elisabeth`, `Utsteinen`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Utstein · **Subnet:** Halley · **Solar UTC:** +2 · **Status:** ✅ · **Founders:** The Scandinavian Trade Union nations, jointly · **Basis:** Time-zone proximity; Belgium did not exist in 2564 · **Source:** `DR-22` · **Not founders:** Belgian | `Founding_Register.md` L51 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Utstein.md` L139 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | The Scandinavian Trade Union nations, jointly (`DR-22`). The earlier Belgian founding is superseded. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Utstein.md` L141 |

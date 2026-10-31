@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Janbogo subnet/Janbogo.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 220 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 219 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Janbogo | `Specs/Janbogo.md` L1 |
 | Real-world basis | Jang Bogo Station (Unified Korea), Terra Nova Bay, Ross Sea (~74°37'S, 164°13'E) | `Specs/Janbogo.md` L3 |
 | Arcanet Subnet | Janbogo — subnet hub | `Specs/Janbogo.md` L5 |

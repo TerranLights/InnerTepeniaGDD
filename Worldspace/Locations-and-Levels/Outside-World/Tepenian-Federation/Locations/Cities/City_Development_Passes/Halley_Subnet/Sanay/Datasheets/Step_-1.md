@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Sanay.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 203 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 202 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Sanay | `Specs/Sanay.md` L1 |
 | Real-world basis | SANAE IV (South Africa / South African National Antarctic Expedition), Vesleskarvet nunatak, Ahlmannryggen, Queen Maud Land (~71°40'S, 2°51'W) | `Specs/Sanay.md` L3 |
 | Arcanet Subnet | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Sanay.md` L6 |

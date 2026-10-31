@@ -5,7 +5,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 
@@ -14,17 +14,17 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | - **Mawson subnet:** Dome Fuji, Mawson, Sayowa | `…/Worldspace/Locations/README.md` L19 |
 | `Access type:` | ON | `Specs/Dome_Fuji.md` L33 |
-| Spec climate — climate type | East Antarctic Plateau polar desert — nearly identical to Concordia and Ariun Nuur; high elevation, extreme cold, minimal precipitation, calm winds | `Specs/Dome_Fuji.md` L123 |
+| Spec climate — climate type | East Antarctic Plateau polar desert; high elevation, extreme cold, minimal precipitation, calm winds *[the source's comparison clause with other places is not copied]* | `Specs/Dome_Fuji.md` L123 |
 | Spec climate — mean annual temperature | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Dome_Fuji.md` L124 |
 | Spec climate — temperature range | coldest months (July/August) avg −65°C; warmest month (December/January) avg −30°C | `Specs/Dome_Fuji.md` L125 |
 | Spec climate — record extremes | ⚠ **extreme daily MEANS, not true max/min** — warmest **-16.9 °C**, coldest **-79.1 °C** _(NOAA NCEI GHCN-Daily station `AYM00089734` DOME FUJI, on site; daily 1997-2021. **This station reports `TAVG` only — no daily max/min exists.**)_ *The coldest figure is consistent with Dome Fuji's separately published record near −79.7 °C.* *(researched 2026-09-04)* | `Specs/Dome_Fuji.md` L126 |
-| Spec climate — prevailing winds | calm plateau interior; average 4–6 m/s; same pattern as Concordia and Ariun Nuur — the plateau dome location dampens wind | `Specs/Dome_Fuji.md` L127 |
+| Spec climate — prevailing winds | calm plateau interior; average 4–6 m/s; the plateau dome location dampens wind *[the source's comparison clause with other places is not copied]* | `Specs/Dome_Fuji.md` L127 |
 | Spec climate — annual precipitation | **~25 mm** water equivalent annually — **falling entirely as ice crystals**, not snowfall *(researched 2026-09-04; monthly distribution below remains derived)* | `Specs/Dome_Fuji.md` L128 |
 | Spec climate — regime | **PLATEAU** — *snow is a deposit, not weather* | `Specs/Dome_Fuji.md` L132 |
 | Spec climate — falls (reaches the surface) | ~25 mm/yr | `Specs/Dome_Fuji.md` L133 |
 | Spec climate — lands (accumulates and stays) | **~22 mm/yr** *(~90% retention)* | `Specs/Dome_Fuji.md` L134 |
 | Spec climate — lost to sublimation and wind transport | ~3 mm/yr | `Specs/Dome_Fuji.md` L135 |
-| Spec climate — polar night | approximately Apr 27 → Aug 17 (~113 days — shorter than Ariun Nuur and Concordia due to slightly lower latitude) | `Specs/Dome_Fuji.md` L141 |
+| Spec climate — polar night | approximately Apr 27 → Aug 17 (~113 days) *[the source's comparison clause with other places is not copied]* | `Specs/Dome_Fuji.md` L141 |
 | Spec climate — midnight sun | approximately Oct 26 → Feb 18 (~116 days) | `Specs/Dome_Fuji.md` L142 |
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Dome_Fuji.md` L143 |
 | Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Dome_Fuji.md` L144 |
@@ -32,8 +32,13 @@
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Dome Fuji Skiway \| Queen Maud Land \| Japan \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L24 |
 | ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | *[commentary line in the source, not a table row; not copied, line number recorded only]* | `Antarctic_Stations_With_Airstrips.md` L97 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | Checked by name: **zero pages** | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Dome Fuji · Subnet: Mawson · D: 2.50 · Workforce: 66,849 · base%: 27.3% · MAND%: 14.5% · FREE%: 58.1% · src: H | `16_Per_City_Three_Tier_Run.md` L247, L282 (header L247, row L282) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Dome Fuji`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Dome Fuji · Subnet: Mawson · D: 2.50 · Workforce: 66,849 · base%: 27.3% · MAND%: 14.5% · FREE%: 58.1% · src: H *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16` L1287–1304)* | `16_Per_City_Three_Tier_Run.md` L247, L283 (header L247, row L283) |
+| `16_Per_City_Three_Tier_Run.md` §32 — the city's own "DETERMINED" section (upper-case heading `## 32. ✅ DOME FUJI — DETERMINED`); it supersedes Half B's first-pass split, and here the shares are equal | Baseline 15,046 (27.3%) · Mandated 8,005 (14.5%) · FREE 32,021 (58.1%) *(the three counts sum to 55,072 = 15,046 + 8,005 + 32,021, the Census I figure before the 2026-10-28 scenario `DR-68`; Census I now reads 66,849; `16` L1: "The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed")* *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16` L1287–1304)* | `16_Per_City_Three_Tier_Run.md` L3186 (heading), L3188–3192 (table) |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Dome Fuji`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
+| `Extent_and_Density_Per_City.md` — the city's own row in "THE TABLE — required area at the band, all 25" (**2026-09-05 snapshot; the census is live — note L631**) | Dome Fuji · Mawson · Census I 55,072 · @10k 6 · @7k 8 · Site **Dome F** *(column names as in the table header, L603)* | `Extent_and_Density_Per_City.md` L628 (table heading L601, header L603, note L631) |
+| ↳ `Extent_and_Density_Per_City.md` — other lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Extent_and_Density_Per_City.md` L249 |
+| ↳ `Extent_and_Density_Per_City.md` — other lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Extent_and_Density_Per_City.md` L578 |
+| ↳ `Extent_and_Density_Per_City.md` — other lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Extent_and_Density_Per_City.md` L588 |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Dome Fuji · **Subnet:** Mawson · **Solar UTC:** +3 · **Status:** ✅ · **Founders:** "devout religious disciples, and not associated with any particular country"* (the Ice Cold Buddhism pilgrims) · **Basis:** Developer ruling · **Source:** `DR-20` · **Not founders:** Japanese | `Founding_Register.md` L56 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | Post-Falkland Treaty, on the Dome Fuji Station infrastructure. Japan's Antarctic research program had operated in this region since the 1960s; by 2564, the station was mature. The exile settlement inherited it and the altitude problem simultaneously. | `Specs/Dome_Fuji.md` L187 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | Devout religious disciples (the Ice Cold Buddhism pilgrims), not associated with any particular country (`DR-20`). The founding generation discovered the altitude effects directly — people who had lived at sea level or moderate elevation arrived at 3,810 m and discovered what that meant for their daily function. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Dome_Fuji.md` L189 |

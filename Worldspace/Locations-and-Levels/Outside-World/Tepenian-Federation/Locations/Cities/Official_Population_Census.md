@@ -292,8 +292,8 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | Philippines, Malaysia, New Zealand, Chile |
+| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia |
+| Notable | Philippines, Malaysia, New Zealand *(founding wave)*, Chile |
 
 *Note: New Zealand is Scott's founding nation. Long-run primary is China and USA.*
 
@@ -382,7 +382,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — shortest Australia-to-Antarctica route of any Tepenian city)* |
+| Significant | Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — a direct sea route from Australia)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
 ---
@@ -413,9 +413,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+| Primary | South Korea *(re-tiered 2026-07-06, strengthened further same day)* |
+| Significant | China, Japan, Germany, Russia, Indonesia, Australia *(founding wave)* |
+| Notable | Thailand, Estonia, Hungary, Lithuania, Malaysia, Vietnam, Philippines, Bulgaria, Latvia, South Africa |
 
 ---
 
@@ -423,9 +423,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan *(founding population — Jeju-do diplomatic allocation)*, Germany, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia |
+| Primary | Japan *(founding population — Jeju-do diplomatic allocation; re-tiered 2026-07-06)* |
+| Significant | Australia, Russia, South Korea, China, Germany |
+| Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
 
 ---
 
@@ -495,7 +495,7 @@ National communities are classified by tier based on long-run population share. 
 | 14 | Princess Elisabeth | Halley | 565,907 | 595,927 | **1,161,834** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 553,768 / 584,149 / **1,137,917**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 15 | Belgrano | Halley | 544,064 | 551,743 | **1,095,807** | *(ruins, DLC 5; revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 531,925 / 539,965 / **1,071,890**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 16 | Sinheung | Mirny | 479,411 | 506,921 | **986,332** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 519,191 / 550,159 / **1,069,350**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* *Tri-Cities, 3 of 3. (Subnet corrected 2026-07-05 — moved from Mawson.)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 467,272 / 495,143 / **962,415**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
-| 17 | Denison | Janbogo | 456,668 | 473,471 | **930,139** | ⭐ **−15% 2026-09-05, and EXTENT DECLARED at ~50 km² (two-zone)** — *was 522,975 / 543,168 / **1,066,143***. **Core 4.96 km² (cape + Mackellar, the spanned megastructure) @ ~40,000/km²; inland ~45 km² along Hwy 183 @ ~15,700/km². Overall 18,124/km².** ⛔ **OVERFLOW 78,446 H / 81,475 R / 159,921 C HELD — §D-OVERFLOW.** *(Superseded note:* *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 444,529 / 461,693 / **906,222**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
+| 17 | Denison | Janbogo | 456,668 | 473,471 | **930,139** | ⭐ **−15% 2026-09-05, and EXTENT DECLARED at ~50 km² (two-zone)** — *was 522,975 / 543,168 / **1,066,143***. **Core 4.96 km² (cape + Mackellar, the spanned megastructure) @ ~40,000/km²; inland ~45 km² along Hwy 183 @ ~15,700/km². Overall 18,124/km².** *(2026-09-05 snapshot; at the live total of 930,139: 18,603/km².)* ⛔ **OVERFLOW 78,446 H / 81,475 R / 159,921 C HELD — §D-OVERFLOW.** *(Superseded note:* *(destroyed; revised 2026-07-04)* — **developer: mark for future number-reduction once other cities' extents are better understood.** *At its ~4.96 km² buildable envelope this is **~215,000/km²**, 4.7× the densest real city; on the cape alone it is 960,489/km². **Do not reduce yet** — the figure is deliberately held until the corpus has comparison cases.* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,139 H / +11,778 R *(was 444,529 / 461,693 / **906,222**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 18 | Abowasa | Halley | 213,834 | 223,780 | **437,614** | *(revised 2026-07-04)* ⭐ **Scenario `DR-67`/`DR-68`, 2026-10-28:** keeps 40% (201,695 H / 212,002 R) plus its even share of the redistribution; small and community-scaled. *Was 504,237 / 530,004 / **1,034,241**.* Arithmetic, NOT a migration (`Population_Scenario_Santa_Luce_Redistribution_2026-10-28.md`). |
 | 19 | Concordia | Janbogo | 516,937 | 522,926 | **1,039,863** | *(unchanged)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 504,799 / 511,148 / **1,015,947**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 20 | Troll | Halley | 487,859 | 490,507 | **978,366** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 475,721 / 478,729 / **954,450**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
@@ -504,7 +504,7 @@ National communities are classified by tier based on long-run population share. 
 | 22 | Marambio | Palmer | 283,442 | 286,827 | **570,269** | *(island cap; revised 2026-07-04)* |
 | 23 | Sanay | Halley | 243,714 | 243,871 | **487,585** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 231,576 / 232,093 / **463,669**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 24 | Dumont d'Urville | Janbogo | 201,194 | 206,807 | **408,001** | ⭐ **−10% 2026-09-05 — Gate 11.** *Was 223,549 / 229,785 / **453,334**.* ⛔ **`island cap` ANNOTATION REMOVED — this city is NOT island-capped**: it is a two-highway junction whose mainland half sits at the ice-sheet edge *(`Extent_and_Density_Per_City.md` §5)*. ⭐ **Extent declared: 45 km² mainland + ~2 km² archipelago = 47 km² → 8,681/km².** ⛔ **OVERFLOW 22,355 H / 22,978 R / 45,333 C HELD — §D-OVERFLOW** |
-| 25 | Fort McMurdo | Janbogo | 222,190 | 223,120 | **445,310** | *(island cap; revised 2026-07-04)* |
+| 25 | Fort McMurdo | Janbogo | 222,190 | 223,120 | **445,310** | *(revised 2026-07-04)* |
 | 26 | Vostok | Mirny | 141,755 | 271,422 | **413,177** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 129,617 / 259,644 / **389,261**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 27 | Juan Carlos | Palmer | 189,742 | 196,950 | **386,692** | *(island cap; revised 2026-07-04)* |
 | 28 | Scott | Janbogo | 189,817 | 196,194 | **386,011** | *(island cap; revised 2026-07-04)* |
@@ -616,7 +616,7 @@ National communities are classified by tier based on long-run population share. 
 | 13 | Neumayer | Halley | 393,179 | 453,415 | **846,594** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 385,071 / 445,676 / **830,747**)*. Arithmetic, NOT a migration. |
 | 14 | Davis | Mirny | 445,531 | 351,912 | **797,443** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 437,423 / 344,173 / **781,596**)*. Arithmetic, NOT a migration. |
 | 15 | Princess Elisabeth | Halley | 409,511 | 373,098 | **782,609** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 401,403 / 365,359 / **766,762**)*. Arithmetic, NOT a migration. |
-| 16 | Denison | Janbogo | 293,192 | 346,130 | **639,322** | ⭐ **−15% 2026-09-05** — *retention preserved (68.7996%)*. ⛔ **OVERFLOW 50,309 H / 59,716 R / 110,025 C HELD** *(would not survive the Long Night War that followed)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 285,085 / 338,392 / **623,477**)*. Arithmetic, NOT a migration. |
+| 16 | Denison | Janbogo | 293,192 | 346,130 | **639,322** | ⭐ **−15% 2026-09-05** — *retention preserved (68.7996% at the 2026-09-05 reduction; 68.73% at the live rows)*. ⛔ **OVERFLOW 50,309 H / 59,716 R / 110,025 C HELD** *(would not survive the Long Night War that followed)* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 285,085 / 338,392 / **623,477**)*. Arithmetic, NOT a migration. |
 | 17 | Shirayuki | Mirny | 310,620 | 360,719 | **671,339** | ⭐ **−10% 2026-09-05 — developer ruling.** *Was 336,124 / 392,200 / **728,324**.* ⛔ **Released to Relung Panen — §D-OVERFLOW. H/R ratio preserved.** ⚠ *An authoring adjustment, NOT a migration — nobody left this city.* ⭐ **Scenario `DR-68`, 2026-10-28:** +8,108 H / +7,739 R *(was 302,512 / 352,980 / **655,492**)*. Arithmetic, NOT a migration. |
 | — | **Relung Panen** | Mirny | **340,951** | **353,062** | **694,013** | *(Formerly the placeholder Bunger Hills City, `DR-39`.)* ⭐⭐⭐ **FOUNDED 2026-09-05 — the 38th city.** *Census II share of the discharged redistribution pool; CII/CI retention 71.4% now (71.5% before the 2026-10-28 scenario).* ⛔⛔ **NOT A MIGRATION** — see the Census I row. ⚠ **Placeholder name.** ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 332,844 / 345,324 / **678,168**)*. Arithmetic, NOT a migration. |
 | 18 | Troll | Halley | 331,757 | 355,920 | **687,677** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 323,650 / 348,182 / **671,832**)*. Arithmetic, NOT a migration. |
@@ -624,7 +624,7 @@ National communities are classified by tier based on long-run population share. 
 | 20 | Abowasa | Halley | 132,423 | 126,398 | **258,821** | ⭐ **Scenario `DR-67`/`DR-68`, 2026-10-28:** keeps 40% (124,316 H / 118,660 R) plus its even share. *Was 310,791 / 296,650 / **607,441**.* Arithmetic, NOT a migration. |
 | 21 | Sejong | Palmer | 234,304 | 279,766 | **514,070** | *(island cap)* |
 | 22 | Marambio | Palmer | 195,623 | 234,522 | **430,145** | *(island cap)* |
-| 23 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** | *(island cap)* |
+| 23 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** |  |
 | 24 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(revised 2026-07-03)* |
 | 25 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
 | 26 | Dumont d'Urville | Janbogo | 121,170 | 159,635 | **280,805** | ⭐ **−10% 2026-09-05** — *retention preserved (68.8248% → 68.8246%).* ⛔ `island cap` removed. **OVERFLOW 13,464 H / 17,737 R / 31,201 C HELD — §D-OVERFLOW** |
@@ -784,7 +784,7 @@ Destroyed during the Long Night War. At time of destruction, Zukelli's combined 
 Reclassified 2026-07-03 from "Destroyed" to damaged/partially operational — Sinheung sits at effectively identical real-world coordinates to Zhongshan (a few hundred meters apart), and Zhongshan was already established as damaged, not destroyed; a differing outcome for Sinheung made no physical sense. Resolved consistently alongside Zhongshan and the Larsemann Hills' Japanese city (now Shirayuki). See `Specs/Sinheung.md`. No longer counted in the combined-losses total below.
 
 **Denison** *(Cape Denison, George V Land, Janbogo Subnet)*
-Destroyed during the Long Night War. At time of destruction, Denison's combined population was approximately **734,000** — a mid-tier coastal city founded on Douglas Mawson's 1912 expedition base. Human retention rate immediately before the war was 63.7%; robot retention was 72.8%. Census I figures: 526,521 humans / 546,852 robots.
+Destroyed during the Long Night War. At time of destruction, Denison's combined population was approximately **734,000** — a mid-tier coastal city founded on Douglas Mawson's 1912 expedition base. Human retention rate immediately before the war was 64.20%; robot retention was 73.10%. Census I figures: 526,521 humans / 546,852 robots. *(Dated 2026-10-30: the two retention percentages above were updated to the live rows (L498, L619). The Census I figures and the "approximately 734,000" in this paragraph are older values that the live rows do not reproduce; use L498 and L619.)*
 
 **Belgrano** *(Confín Coast, Weddell Sea, Halley Subnet)*
 Belgrano survived the Long Night War but became ruined in the subsequent period. Its Orbital Era population was approximately **838,000** combined *(corrected 2026-07-14 — this line previously said "837,000," inconsistent with the precise Census II figure (837,768, which rounds to 838,000) and with the combined-losses total below, which was already computed using 838,000)*. The ruins are accessible in DLC 5. Belgrano was among the larger Halley subnet cities before the war, and its ruins represent one of the most significant urban corpses in post-war Tepenia.

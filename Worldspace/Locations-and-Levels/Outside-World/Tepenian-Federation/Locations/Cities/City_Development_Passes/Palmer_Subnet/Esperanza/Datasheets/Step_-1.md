@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Esperanza.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 174 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 173 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Esperanza | `Specs/Esperanza.md` L1 |
 | Real-world basis | Esperanza Base (Argentina), Hope Bay, Trinity Peninsula, Antarctic Peninsula (~63°24'S, 56°59'W) | `Specs/Esperanza.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Esperanza.md` L5 |

@@ -5,12 +5,11 @@
 > finding.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **3 of 4** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites). **Not covered:** the Climate READER address (`Reference/Real-World/Climate Data/READER/`) — no row of this sheet names it (it is carried in `Step_1_and_2.md`). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
 | Category | Value | Citation |
 |---|---|---|
-| Concept-art directory status | EMPTY — `.gitkeep` only, 1 file total | Re-verified this turn |
-| Megasheet Physical Infrastructure file | EXISTS — `Kunlun_Physical_Infrastructure_Attributes.md`, inside the Kunlun Megasheet folder alongside `Kunlun_Full_Extrapolation.md`, `Kunlun_Mega_Init.md`, `Kunlun_Community_Infrastructure.md`, `Kunlun_Cross_Reference_Synthesis.md`, and a `Questline_Asset_Concept_Art` subfolder | ⛔ **WITHHELD corpus-wide — record the conflict, never open.** Re-verified to exist this turn |
+| Megasheet Physical Infrastructure file | EXISTS — `Kunlun_Physical_Infrastructure_Attributes.md`, inside the Kunlun Megasheet folder (the folder's other entries are counted, not named) | ⛔ **WITHHELD corpus-wide — record the conflict, never open.** Re-verified to exist this turn |
 | Per-city research folder — the direct-named analog | Checked, **none exists** for Kunlun (no `Kunlun_Geosciences_Research/`-shaped folder) | Re-verified this turn |
 | ⭐ Per-city research folder — the actual topic analog, flagged so it is not missed at Phase 6 | `Reference/Real-World/Ice-Cold_Buddhism_Research/` is NOT named after Kunlun but is Kunlun's major research input — 4 of its 7 files directly discuss Kunlun (`00_Extraction_Checklist.md`, `01_Metaphysics_of_Matter.md`, `07_Zen_Aesthetics_and_Philosophy.md`, `08_Synthesis_Doctrine_Notes.md`). A city-name-keyed search alone would miss this folder | Re-verified this turn: `grep -rl -i kunlun` against the folder |
 | Altitude/environment texture, stated directly | *"Dome A is one of the best sites on Earth for optical astronomy (the air is calm, dry, and exceptionally stable), for ice core drilling (the ice sheet here is among the oldest and deepest on the continent), and for the study of conditions at the extreme edge of Earth's habitability."* | `Specs/Kunlun.md` L78 |

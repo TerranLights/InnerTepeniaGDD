@@ -13,7 +13,7 @@
 >
 > | § | Section | Columns beyond `City` |
 > |--:|---|---|
-> | 1 | Capability shape & deficit address | Shape · Deficit address · Pass |
+> | 1 | Capability shape & deficit address | Subnet · Shape · Deficit address · Pass |
 > | 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis |
 > | 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point |
 > | 4 | Phase 4 — Ordinary Life | Axis |

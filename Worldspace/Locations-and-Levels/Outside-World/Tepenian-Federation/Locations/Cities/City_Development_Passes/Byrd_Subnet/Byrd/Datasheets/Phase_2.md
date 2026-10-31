@@ -3,7 +3,7 @@
 > ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** the name is shared with the subnet and with Richard Byrd; hits exclude `Byrd subnet` phrases only. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (1 directly, 2 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -14,6 +14,8 @@
 | Annotation in the spec tier table | `(re-tiered 2026-07-06)` — **carries a date** | `Specs/Byrd.md` L66 |
 | Per-nation breakdown (spec) | Present at L72–L122 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Byrd.md` L72 |
 | Census I | 198,406 H / 202,399 R / **400,805** combined | `Official_Population_Census.md` L511 |
+| `Upper_Earth_Immigration_Composition.md` — the section for the city's subnet (the registered composition address; Byrd is a single-city subnet and the file has no city-level heading for it) | Present at L381–L385: the section heading (`## BYRD SUBNET ("Pacific") — West Antarctica / Ross Ice Shelf`, L381), the corridor line (L383) and the key-finding line (L385). **Cited by range, not quoted**: the section reads the nations against one another, so which spans are admissible is Step −1's ruling. The file's subnet-total rows labeled "Byrd / Ross Ice Shelf": L804, L900, L1019, L1267 (line numbers only) | `Upper_Earth_Immigration_Composition.md` L381–L385 |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how Factor 1 is measured) | Heading at L21 (`### ⭐ HOW FACTOR 1 IS MEASURED — the ±3 solar-UTC window`); the list "Recording it so it stops being reconstructed from examples" at L26–L33 (rule 1 at L28); the refinement box at L35–L63. **Cited by range, not quoted**: the list's worked examples name other cities | `Upper_Earth_Immigration_Composition.md` L21, L26–L33 |
 | Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — station assignment is not nationality-based, in the treaty's own words | Art. II.3.3: *"Nothing in this Article requires that a population assigned to a given station share the national origin of the Power that formerly maintained it"* | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — the allocation was staged, not instant | Art. II.3.2: populations assigned to stations "in the years following this Treaty's signing" | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |

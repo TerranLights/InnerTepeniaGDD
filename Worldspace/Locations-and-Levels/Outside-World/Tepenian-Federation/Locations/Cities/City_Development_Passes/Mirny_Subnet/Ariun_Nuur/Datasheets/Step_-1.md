@@ -1,5 +1,7 @@
 # Vostok — Datasheet · Step −1 (Input Contract)
 
+> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+
 > ⚠ **DRAFT — Tier C.** Vostok's own ULM pass has NOT started; this is bibliographic fact plus the admitted- 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > range and exclusion map only, not the ratified Step −1 declaration itself.
 
@@ -7,8 +9,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Specs file | `Specs/Mirny subnet/Ariun_Nuur.md`, 203 lines | Read in full |
-| Real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, Southern Pole of Inaccessibility | `Specs/Mirny subnet/Ariun_Nuur.md` L5 |
+| Specs file | `Specs/Mirny subnet/Ariun_Nuur.md`, 205 lines | Read in full |
+| Real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, Southern Pole of Inaccessibility | `Specs/Mirny subnet/Ariun_Nuur.md` L5 (station name); L49 (the Pole of Inaccessibility) |
 | Coordinates | ~78°28′S, 106°52′E | `Specs/Mirny subnet/Ariun_Nuur.md` L5 |
 | Admitted range | Not pre-staged — Step −1's own ruling. The exclusions below are the standing default-scope fields only. Spec founding line (now `Ariun_Nuur.md` L130, rewritten 2026-10-13): founders are ruled in the Founding Register, Künnarantaiga and Mongolia jointly (`DR-35`). (Refreshed 2026-10-21 against the corrected spec and the Founding Register.) | This datasheet set; `Founding_Register.md` |
 

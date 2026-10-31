@@ -120,12 +120,12 @@ collected together specifically as the country's cross-subnet fabric.
   Dome Fuji supplied through a substantial stretch of its history — two separate routes converging on one
   city, not a relay chain. Already written into `Specs/Troll.md`, `Specs/Dome_Fuji.md`, `Specs/
   Sinheung.md`, `Local_Cultures/Halley_Subnet/Troll.md`.
-- **Davis (Mirny) ↔ Mawson (Mawson).** Shared Australian Antarctic naming heritage; confirmed
-  administratively separate, symbolic-only connection (occasional ceremonial/national-holiday
-  acknowledgment, not genuine operational ties) — established in `Davis_Full_Extrapolation.md` Section
-  IV, low-cost severance under the Planetary Split Brain since there was never a deep working
-  relationship to lose.
-- **Mirny subnet's internal Australian-heritage network (Davis, Casey, Mirny) survives the Split Brain**,
+- **Davis (Mirny) ↔ Mawson (Mawson).** Australia is among the founders of both (Founding Register: Davis,
+  Australia; Mawson, Kazakhstan, Russia and Australia jointly); confirmed administratively separate,
+  symbolic-only connection (occasional ceremonial/national-holiday acknowledgment, not genuine
+  operational ties) — established in `Davis_Full_Extrapolation.md` Section IV, low-cost severance under
+  the Planetary Split Brain since there was never a deep working relationship to lose.
+- **Mirny subnet's internal links (Davis, Casey, Mirny — Hwy 110 runs through all three) survive the Split Brain**,
   per the same Full_Extrapolation finding — genuinely relevant here because it's the explicit contrast
   case proving intra-subnet links survive while inter-subnet links (like the Davis-Mawson one above) were
   actually severed.

@@ -1,8 +1,8 @@
 # Differentiation Instrument — Quick Reference
 
 > ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 6. Extracted in full from
-> `04_QA_Gates_and_Differentiation.md` Part III (L417–517) and `00_RUNBOOK.md` §"Step 6" (L2843–2892), both
-> re-read in full 2026-09-15. **Nothing below is Casey-specific, Davis-specific, or Mirny-specific — it is the
+> `04_QA_Gates_and_Differentiation.md` Part III (L420–L526) and `00_RUNBOOK.md` §"Step 6" (L2886–L2921), both
+> re-read 2026-10-30 (the earlier version cited L417–517 and L2843–2892). **Nothing below is Casey-specific, Davis-specific, or Mirny-specific — it is the
 > same for all 38 cities and does not need re-extraction per city.**
 
 ## Governing rule — Part III is WRITE-ONLY during a per-location pass, ruled 2026-09-06
@@ -14,7 +14,7 @@
 
 | | During a per-location pass | At the TERMINAL check |
 |---|---|---|
-| Adding this location's column | ✅ REQUIRED, same commit as the finding (Step 9, unchanged) | — |
+| Adding this location's own entry — a ROW in the city table, a COLUMN in the district table | ✅ REQUIRED, same commit as the finding (Step 9, unchanged) | — |
 | Reading another location's row | ⛔⛔ FORBIDDEN | ✅ this is the whole job |
 | "Before writing a category, read its row" (III.2 step 1) | ⛔ REVOKED in-run | ✅ restored |
 | III.4 substitutes | ✅ the ordinary path, for EVERY location | — |
@@ -23,6 +23,8 @@
 construction... the table is FILLED DURING synthesis… it contributes nothing to the first city and everything
 to the thirty-seventh."* A pass that reads a neighbor's row writes AROUND that neighbor — writing-around-a-
 neighbor is still a neighbor-shaped decision, convergence arriving by the door marked anti-convergence.
+
+**Row or column — by the table's own shape** *(`00_RUNBOOK.md` Step 9 item 2; `M-298`; Step 6 made to agree 2026-10-30)*: the CITY table (`Cross_City_Culture_Differentiation_Table.md`) holds one ROW per city; the DISTRICT table holds one COLUMN per district. Never mix the two words inside one table. `04` Part III was written for both tables and says "column" throughout; for a city read "row".
 
 **Scope:** `ULM/CST/RWBEM` only. The district instrument (`Cross_District_Differentiation_Table.md`) is
 untouched and keeps read-before-write on its already-complete 13-district corpus.
@@ -38,7 +40,7 @@ was keeping them apart did not know.
 Checklist when an instrument exists: (1) has anything been established about these locations since the
 instrument was last updated — symbol assignments, census revisions, founding corrections, renames are the usual
 stragglers; (2) a finding recorded in a file nobody consults during differentiation is not doing differentiation
-work; (3) **propagation is part of the finding, not a follow-up** — the column goes in the same commit as the
+work; (3) **propagation is part of the finding, not a follow-up** — the entry goes in the same commit as the
 finding, and so does anything discovered about a sibling along the way.
 
 ## III.1 — What the instrument is
@@ -57,7 +59,7 @@ because it already failed once, when two districts were given nearly the same fo
    look identical.
 3. **Name the axis the category answers on**, in bold, and confirm no completed sibling already uses it —
    *"different content is not differentiation; a different question is."*
-4. After completing a location, add its column in the same commit.
+4. After completing a location, add its entry (a row for a city, a column for a district) in the same commit.
 
 ## III.3 — Sibling sets of different sizes
 
@@ -82,11 +84,12 @@ because it already failed once, when two districts were given nearly the same fo
 
 ## Destination addresses
 
-- The 38 cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md` (created 2026-09-04)
-- The 13 districts → `…/Concordia-City/Districts/Cross_District_Differentiation_Table.md`
+- The 38 cities → `…/Cities/Cross_City_Culture_Differentiation_Table.md` (created 2026-09-04) — one ROW per city
+- The 13 districts → `…/Concordia-City/Districts/Cross_District_Differentiation_Table.md` — one COLUMN per district
 - ⚠ NOT this instrument: `…/Cities/Division_of_Industry/02_Cross_City_Industry_Differentiation_Table.md` — a
   different guard for a different pass (the necessary-industries bulk run); both exist, neither replaces the
   other
 
-**⛔ Cells hold the AXIS, never the content.** No Step 9 dependency exists for when the axis becomes namable —
-it's namable once Step 4's phases are written, per `00_RUNBOOK.md` §"Step 6" L2876–2877.
+**⛔ Cells hold the AXIS, never the content** (`00_RUNBOOK.md` §"Step 6" L2917–L2918). The table is FILLED DURING synthesis, not before it; it is not a prerequisite and its emptiness is not a gap (`00_RUNBOOK.md` L2919–L2920).
+
+*(Removed 2026-10-30: a closing sentence that said the axis "becomes namable once Step 4's phases are written, per Step 6 L2876–2877." No line of the live Step 6 or of Part III says this, so the claim had no source.)*

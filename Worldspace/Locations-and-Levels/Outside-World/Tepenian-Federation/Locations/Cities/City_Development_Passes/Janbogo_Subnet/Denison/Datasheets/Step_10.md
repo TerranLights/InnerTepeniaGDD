@@ -11,7 +11,7 @@ handing off.
 | Section | What it checks |
 |---|---|
 | 10.1 Contamination surface | Scan auto-loaded memory, required reading, and the file tree for the NEXT location's name — not this one's |
-| 10.2 Path and structure integrity | Every path named in the handoff exists; the next run's output folder does not already exist |
+| 10.2 Path and structure integrity | Every path named in the handoff exists; the next run's output files do not already exist (the Pre-Trip, the Position-Coverage ledger, `README.md` and the `Datasheets/` set may be pre-seeded; a cold run still treats the folder as a contamination surface — `M-299`) |
 | 10.3 Record integrity | Gate 0 outward: does every tracker's completion claim match what the files actually contain? |
 
 **Denison-specific check to run when this step fires:** confirm `06_Worked_Example_Provenance.md`

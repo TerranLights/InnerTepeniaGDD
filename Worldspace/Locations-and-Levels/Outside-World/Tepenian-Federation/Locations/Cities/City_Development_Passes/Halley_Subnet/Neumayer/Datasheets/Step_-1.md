@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Neumayer.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 187 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 186 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Neumayer | `Specs/Neumayer.md` L1 |
 | Real-world basis | Neumayer Station III (Germany / Alfred Wegener Institute), Ekström Ice Shelf, Queen Maud Land (~70°41'S, 8°16'W) | `Specs/Neumayer.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") | `Specs/Neumayer.md` L5 |

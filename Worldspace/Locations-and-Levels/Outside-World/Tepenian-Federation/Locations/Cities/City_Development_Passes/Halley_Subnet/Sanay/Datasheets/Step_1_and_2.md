@@ -4,7 +4,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -16,22 +16,24 @@
 | Spec climate — climate type | Queen Maud Land nunatak — elevated position above the surrounding ice sheet; continental influence stronger than coastal cities; katabatic winds channeled by the nunatak terrain; cold, dry winters | `Specs/Sanay.md` L75 |
 | Spec climate — mean annual temperature | approximately −16°C *(measured: the average of the twelve monthly means, −16.2 °C; corrected 2026-10-28 from "approximately −20°C", an assumed stub figure)* | `Specs/Sanay.md` L76 |
 | Spec climate — prevailing winds | **dominant easterly**; annual mean **~11 m/s**, with recorded gusts to **61.9 m/s (223 km/h)** *(researched 2026-09-04)* | `Specs/Sanay.md` L77 |
-| Spec climate — record extremes | mean summer air temperature **−8.3 °C**; mean winter **−21.8 °C** *(researched 2026-09-04)* | `Specs/Sanay.md` L78 |
+| Spec climate — mean summer and winter temperatures *(the spec labeled this line "Record extremes" until 2026-10-30)* | mean summer air temperature **−8.3 °C**; mean winter **−21.8 °C** *(researched 2026-09-04)* | `Specs/Sanay.md` L78 |
 | Spec climate — temperature range | coldest months avg −23°C; warmest month avg −7°C *(measured; corrected 2026-10-28)* | `Specs/Sanay.md` L79 |
 | Spec climate — polar night | approximately May 18 → Jul 28 (~72 days) | `Specs/Sanay.md` L80 |
 | Spec climate — midnight sun | approximately Nov 12 → Jan 31 (~81 days) | `Specs/Sanay.md` L81 |
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Sanay.md` L82 |
 | Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Sanay.md` L83 |
 | Spec climate — annual precipitation | **under 200 mm** water equivalent annually — polar desert; falls mainly as snow in the November–February window *(researched 2026-09-04; monthly distribution below remains derived)* | `Specs/Sanay.md` L84 |
-| Spec climate — regime | **ICE SHELF** — *flat, exposed, heavily redistributed* | `Specs/Sanay.md` L88 |
+| Spec climate — regime | **ICE SHEET** (inland, around a bedrock nunatak) — *flat, exposed, heavily redistributed* *(the spec said "ICE SHELF" until 2026-10-30; Sanay stands on rock, spec L61)* | `Specs/Sanay.md` L88 |
 | Spec climate — falls (reaches the surface) | ~200 mm/yr | `Specs/Sanay.md` L89 |
 | Spec climate — lands (accumulates and stays) | **~130 mm/yr** *(~65% retention)* | `Specs/Sanay.md` L90 |
 | Spec climate — lost to sublimation and wind transport | ~70 mm/yr | `Specs/Sanay.md` L91 |
 | Climate READER file (`Sanay.md`) | **Rebuilt 2026-10-28 as a dataset (it had been an 8-line stub).** Not a READER station: the figures are the S.A.N.A.E. AWS monthly means (NOAA NCEI AYM00089004), 2001–2026, 16 to 22 years per month. Monthly mean (°C): Jan −6.7 · Feb −10.2 · Mar −14.3 · Apr −17.5 · May −19.4 · Jun −21.3 · Jul −23.2 · Aug −23.0 · Sep −21.7 · Oct −17.8 · Nov −11.7 · Dec −7.3 · annual −16.2 | `READER/Sanay.md` L1–16 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| SANAE IV Skiway \| Queen Maud Land \| South Africa \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L58 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 72 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Sanay · Subnet: Halley · D: 1.43 · Workforce: 365,728 · base%: 44.5% · MAND%: 27.8% · FREE%: 27.8% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L254 (header L247, row L254) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Sanay`, `SANAE`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| **Extent (2026-09-05 snapshot; the census is live — note L631)** | Sanay · Subnet Halley · Census I (snapshot) 463,669 · @10,000/km² 46 km² · @7,000/km² 66 km² · Site: inland bedrock + coastal port | `Extent_and_Density_Per_City.md` L624 (header L603; snapshot note L631) |
+| **Extent at the live Census I (computed)** | 487,585 ÷ 10,000 = 48.8 km² · 487,585 ÷ 7,000 = 69.7 km² | Computed from the Census I figure (`Official_Population_Census.md` L505; see `Step_0.md`) |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Sanay · Subnet: Halley · D: 1.43 · Workforce: 365,728 · base%: 44.5% · MAND%: 27.8% · FREE%: 27.8% · src: C *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16_Per_City_Three_Tier_Run.md` L1287–L1304)* *[Superseded for Sanay: the city's own determination, `16` §5 (L707, "SANAY — DETERMINED"), governs: baseline 154,715 (44.5%) · mandated 140,045 (40.3%) · FREE 53,121 (15.3%), 347,881 workers, on the population before `DR-68` (the Half B workforce, 365,728, is the current one; `16` L1 says the determinations were not recomputed). Half B (27.8% / 27.8%) is the first-pass split.]* | `16_Per_City_Three_Tier_Run.md` L247, L254 (header L247, row L254); L707 (§5) |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Sanay`, `SANAE`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Sanay · **Subnet:** Halley · **Solar UTC:** 0 · **Status:** ✅ · **Founders:** South Africa · **Basis:** Developer ruling (the one African founder besides part of Signy) · **Source:** `DR-22` · **Not founders:** — | `Founding_Register.md` L50 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Sanay.md` L131 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | South African exiles — the only major South African community in Tepenia. The SANAE station's original physical infrastructure, kept functional across the interwar handoffs, carried into the exile city; nothing institutional did. | `Specs/Sanay.md` L133 |

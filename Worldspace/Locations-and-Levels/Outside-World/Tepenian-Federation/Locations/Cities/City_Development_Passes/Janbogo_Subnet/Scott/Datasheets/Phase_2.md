@@ -3,19 +3,22 @@
 > ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (1 directly, 2 through a shared Tier U sheet it cites).
 
 
 
 
 | Category | Value | Citation |
 |---|---|---|
-| Composition tier table (spec) | **Primary:** China, USA · **Significant:** Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* · **Notable:** Philippines, Malaysia, New Zealand, Chile | `Specs/Scott.md` L42–44 |
-| Composition tier table (census Section A entry) | **Primary:** China, USA · **Significant:** Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* · **Notable:** Philippines, Malaysia, New Zealand, Chile | `Official_Population_Census.md` L294–296 |
+| Composition tier table (spec) | **Primary:** China, USA · **Significant:** Japan, UK, South Korea, Canada, Indonesia, Australia · **Notable:** Philippines, Malaysia, New Zealand *(founding wave)*, Chile | `Specs/Scott.md` L42–44 |
+| Composition tier table (census Section A entry) | **Primary:** China, USA · **Significant:** Japan, UK, South Korea, Canada, Indonesia, Australia · **Notable:** Philippines, Malaysia, New Zealand *(founding wave)*, Chile | `Official_Population_Census.md` L294–296 |
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
-| Annotation in the spec tier table | `(founding wave)` — **no date** | `Specs/Scott.md` L43 |
-| Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L295 |
+| Annotation in the spec tier table | `(founding wave)` — **no date**; on the New Zealand row (moved from Australia on 2026-10-30: the Founding Register rules New Zealand) | `Specs/Scott.md` L44 |
+| Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L296 (moved from the Australia row, L295, on 2026-10-30) |
+| Census note on the founding nation, stated directly | *"New Zealand is Scott's founding nation. Long-run primary is China and USA."* | `Official_Population_Census.md` L298 |
 | Per-nation breakdown (spec) | Present at L48–L70 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Scott.md` L48 |
+| `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L443–L449: the section heading (`### Scott`) and the tier table. **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L443–L449 |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how Factor 1 is measured) | Heading at L21 (`### ⭐ HOW FACTOR 1 IS MEASURED — the ±3 solar-UTC window`); the list "Recording it so it stops being reconstructed from examples" at L26–L33 (rule 1 at L28); the refinement box at L35–L63. **Cited by range, not quoted**: the list's worked examples name other cities | `Upper_Earth_Immigration_Composition.md` L21, L26–L33 |
 | Census I | 189,817 H / 196,194 R / **386,011** combined | `Official_Population_Census.md` L510 |
 | Census II | 153,382 H / 160,252 R / **313,634** combined | `Official_Population_Census.md` L629 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 81.25% · human 80.81% · robot 81.68% | Computed from the two rows above |

@@ -64,8 +64,8 @@ The Argentine Air Force operated here because of the runway — flat coastal ice
 **Climate type:** Weddell Sea maritime-continental transition — colder than the Queen Maud Land coastal cities; strong winter sea ice; katabatic wind exposure
 **Mean annual temperature:** -13.2°C  _(READER station: Belgrano_II; 1991–2020 WMO standard normal)_
 **Prevailing winds:** frontal passages bring **winds exceeding 200 km/h**, sharply increasing the chill factor *(researched 2026-09-04)*
-**Record extremes:** record high **+11.4 °C** (January); record low **−58.9 °C** (May) *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −30°C; warmest month avg −5°C
+**Record extremes:** record high **+12.1 °C** (December); record low **−58.9 °C** (May) *(researched 2026-09-04)*
+**Temperature range:** coldest months (July/August) mean −20.9°C / −20.7°C; warmest months (December/January) mean −2.6°C / −2.4°C
 **Polar night:** approximately Apr 26 → Aug 19 (~116 days)
 **Midnight sun:** approximately Oct 24 → Feb 19 (~119 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -77,7 +77,7 @@ The Argentine Air Force operated here because of the runway — flat coastal ice
 **Regime:** **ICE SHELF** — *flat, exposed, heavily redistributed*
 **Falls (reaches the surface):** ~300 mm/yr
 **Lands (accumulates and stays):** **~195 mm/yr** *(~65% retention)*
-**Lost to sublimation and wind transport:** ~104 mm/yr
+**Lost to sublimation and wind transport:** ~105 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
 > ⚠ **BOTH — and wind is the sharper of the two.** At **-13.2 °C** (17 cities are colder), the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**persistent katabatic drainage**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous, and the surface itself moves with the shelf.**
@@ -119,7 +119,7 @@ The Argentine Air Force operated here because of the runway — flat coastal ice
 
 **Settled:** Post-Falkland Treaty, on Belgrano II Base infrastructure. The Argentine Air Force operated here from 1979. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the base was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. No continuous military chain of command survived that gap — there is no institutional line running from 1979 into the 2564 exile settlement. But preserved journals, logs, and orientation manuals did survive, giving the exiles a real documentary starting point. See the Character & Culture note below for the corrected framing.)* The runway itself — genuinely functional infrastructure, kept maintained across the centuries — gave Belgrano its Halley subnet role as the primary aviation hub, paralleling Marambio's role in the Palmer subnet.
 
-**Founding population:** Argentine exiles. The Argentine community in Tepenia extended across three cities in three different subnets: Esperanza and Marambio in the Palmer subnet, Belgrano in the Halley subnet. The shared Argentine identity across subnets was one of the larger distributed national presences in Tepenia.
+**Founding population:** Argentine exiles. The Argentine community in Tepenia extended across three cities in two subnets: Esperanza and Marambio in the Palmer subnet, Belgrano in the Halley subnet. The shared Argentine identity across subnets was one of the larger distributed national presences in Tepenia.
 
 Named after Manuel Belgrano (1770–1820) — Argentine independence general, economist, and creator of the Argentine flag. A founding figure, not an Antarctic figure: the Argentine exile community chose to honor their national history rather than Antarctic exploration history.
 

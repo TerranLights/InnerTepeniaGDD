@@ -12,6 +12,26 @@ file and start a fresh one for the next stretch of work).
 Tracking file and guide: `Dev-Road-Map/November_To-Do.md` (checklist, decisions needed, run plan).
 - [ ] Work through the preparation checklist (N-1 to N-12) and take the developer's decisions (D-1 to D-8)
 
+## FIRST, 2026-10-31 from 05:00: Janbogo teahouse-wording fixes *(added 2026-10-30; must happen before Zukelli resumes)*
+Plan, inventory and drafted replacements: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Janbogo_Teahouse_Wording_Plan_2026-10-30.md`. Author's instruction (binding): `media/y-files/session-instructions/Janbogo - not a city of teahouses.md`.
+- [ ] Read the instruction file; confirm the open questions in the plan (2: remove the quoted "entire city of teahouses" example from four lists; 3: leave the chaykhana pick; 4: files outside the Janbogo run)
+- [ ] Apply in order: `Local_Cultures/Janbogo_Subnet/Janbogo.md` and `Local_Robot_Culture/Janbogo_Subnet/Janbogo.md` (read last, Step 5), then the spec (10 lines drafted, stays 220 lines), `16` §28, the Division of Industry sweep, `OBSERVATIONS` and `00b`, then the pass sheets' counts (`Phase_8`, `Phase_7`); clean removals, no changelog notes; megasheets, Background-Lore and the Run 9 archive are not edited
+- [ ] Re-run the author's grep and the sheet verifier; report which files changed
+
+## Finished cities: Pre-Trips, datasheets and a fresh analysis *(added 2026-10-30)*
+Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Shirayuki); plan in memory `project_reanalyze_finished_cities`.
+- [ ] Create the Pre-Trip and datasheet files for the cities that have none: Shirayuki and Sinheung (neither), Zhongshan Opus and Sonnet (Pre-Trip exists, no datasheets), Concordia (neither; it uses the district method, confirm first)
+- [ ] **2026-10-31, 05:00–14:59:** Concordia's cultural sheet: restate the census (L11–12) and the polar-night figure (L57); draft the eight founding rewrites and show them before editing (`Concordia-City/Amendment_Notes_2026-10-30_Manual_Input_Audit.md`)
+- [ ] Re-analyze the finished cities (Shirayuki, Sinheung, Zhongshan) with the current, field-tested methods and look for ways to improve them; the amendment notes filed 2026-10-30 are the interim record
+
+## Possible: full, more thorough inspiration-pick research for the cities *(added 2026-10-30)*
+Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Denison item 1); memory `project_inspiration_place_research_all_cities`.
+- [ ] Developer, Denison walk-through: "there's a moderately decent chance that we may need to go through the cities and do full, more thorough researches for inspiration picks, similarly to the way we did for Relung Panen, Amundsen Station, and so on." A possibility, not a ruling. Decide at the end of the walk-through, once it shows how many cities' picks files are partial (Denison's first research file stopped at the search limit)
+
+## City specs: sentences that compare a city to other cities *(added 2026-10-30)*
+Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Relung Panen item 6; Mirny item 6).
+- [ ] Decide what to do with the comparison sentences inside the city specs (e.g. Mirny spec L82 "20 of the 37 cities are colder", which also has the wrong city count; Relung Panen spec L14, L31, L93). They stay for now; address them when the comparison stage begins
+
 ## Core systems follow-ups *(added 2026-10-18)*
 Detail: `TODO.md`, "Core systems — follow-ups from the 2026-10-18 cleanup". Decisions: `Game-Mechanics/Core-Mechanics/Core_Systems_Cleanup_Decisions_2026-10-18.md`.
 - [ ] Consolidate the three Neural Overclock documents into one; revisit the name "Hyperthread"

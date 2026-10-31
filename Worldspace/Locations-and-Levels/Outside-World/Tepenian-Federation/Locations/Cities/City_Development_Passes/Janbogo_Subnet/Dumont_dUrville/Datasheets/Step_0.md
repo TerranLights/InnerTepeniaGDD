@@ -7,7 +7,7 @@
 > ⛔⛔ No Long Night War / post-war content appears below — this frame is scoped to the Second Interwar Period
 > by corpus-wide default.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -15,8 +15,8 @@
 | Census II | 121,170 H / 159,635 R / **280,805** combined | `Official_Population_Census.md` L630 — cross-verified against `Specs/Dumont_dUrville.md` L16, exact match |
 | Retention — combined (source-stated directly) | **68.8246%** *(source also states the pre-trim figure was 68.8248% — an authoring-adjustment artifact of the 2026-09-05 10% trim, not a population event)* | `Official_Population_Census.md` L630 |
 | Retention — human (computed; formula = Census II ÷ Census I) | 121,170 ÷ 201,194 = **60.23%** | Computed from the two rows above |
-| Retention — robot (computed; same formula) | 159,635 ÷ 206,807 = **77.17%** | Computed from the two rows above |
-| Retention spread (computed; robot % − human %) | **16.94 pp toward robots** | Computed from the two rows above |
+| Retention — robot (computed; same formula) | 159,635 ÷ 206,807 = **77.19%** | Computed from the two rows above |
+| Retention spread (computed; robot % − human %) | **16.96 pp toward robots** | Computed from the two rows above |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location. Corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → early 2600s — national-ethnic-origin cultures still fresh. Act 2: ~late 2600s/early 2700s onward — properly Tepenian, origin is ancestry not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The Act structure" |
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |

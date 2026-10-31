@@ -238,6 +238,14 @@ METHOD_FILES = ("00_RUNBOOK.md", "03_The_Phase_Spine.md", "04_QA_Gates_and_Diffe
 _TOK = re.compile(r"[A-Za-z0-9_.\-]+\.md")
 _GRP = re.compile(r"(?:\blines?\s+|(?<![A-Za-z0-9§])L)(\d+(?:[–-]\d+)?(?:(?:,\s*|\s+and\s+|\s*\+\s*)(?:lines?\s+)?L?\d+(?:[–-]\d+)?)*)")
 _maps, _base = {}, [None]
+# {file: {number as written in the Casey template -> line where its text is TODAY}}, for the positions the difflib match misses.
+# Anchors (read 2026-10-30): trial recipe L682-684 = "Round 3's prompt now carries a fifth section"; L667 = the box
+# "AMENDED 2026-09-28 - THE WRITTEN CONTENT IS A MERGE, NOT A PICK"; 02 section 5.3 ("## 5.3 The both-are-true test") ends at
+# L636, because "# 6. Symbol binding" starts at L637.
+FORCED_MAP = {
+    "PRE-TRIP_INSPECTION_RECIPE_TRIAL.md": {681: 682, 682: 683, 683: 684, 649: 667},
+    "02_Generators_Capability_and_Symbols.md": {665: 636},
+}
 REMAP_LOG = []
 
 
@@ -265,6 +273,10 @@ def method_map(fname):
         if tag == "equal" or (tag == "replace" and i2 - i1 == j2 - j1):
             for k in range(i2 - i1):
                 mp[i1 + k + 1] = j1 + k + 1
+    # Positions the difflib match gets wrong; each forced entry was located by ANCHOR TEXT in today's file
+    # (manual audit 2026-10-29, XS-3 / XS-4 / SH-003 / SH-004; re-check the anchors if either file is edited again).
+    for old_n, new_n in FORCED_MAP.get(fname, {}).items():
+        mp[old_n] = new_n
     _maps[fname] = (mp, len(old))
     return _maps[fname]
 
@@ -273,9 +285,15 @@ def live_ranges():
     """(runbook step ranges, spine phase ranges) recomputed from today's headings: start = heading, end = line before the next."""
     rb = read_lines(os.path.join(ULM, "00_RUNBOOK.md"))
     heads = [(i, m.group(1)) for i, ln in enumerate(rb, 1) for m in [re.match(r"^# Step (−1|\d+) —", ln)] if m]
+    # the LAST step ends before the next top-level heading ("# Where everything lives", the file index), not at end of file
+    # (manual audit 2026-10-29, XS-5 / SH-005: the sheets cited Step 10 as 3057-3172; the section is 3057-3152)
+    top_rb = [i for i, ln in enumerate(rb, 1) if ln.startswith("# ") and not re.match(r"^# Step (−1|\d+) —", ln)]
     steps = []
     for k, (i, nm) in enumerate(heads):
-        end = heads[k + 1][0] - 1 if k + 1 < len(heads) else len([l for l in rb if True]) - (1 if rb and rb[-1] == "" else 0)
+        if k + 1 < len(heads):
+            end = heads[k + 1][0] - 1
+        else:
+            end = next((t - 1 for t in top_rb if t > i), len(rb) - (1 if rb and rb[-1] == "" else 0))
         steps.append((nm, i, end))
     sp = read_lines(os.path.join(ULM, "03_The_Phase_Spine.md"))
     ph = [(i, int(m.group(1))) for i, ln in enumerate(sp, 1) for m in [re.match(r"^# PHASE (\d+) —", ln)] if m]
@@ -376,7 +394,7 @@ def method_fixes(T):
     law0r = f(rb, r"GOVERNING\. Added 2026-09-06", law0r_h)
     nff = f(rb, r"^# ⛔⛔⛔ THE LAW OF NO FORCED FIT")
     one = f(rb, r"^# ⛔⛔⛔ THE LAW OF ONE LOCATION")
-    div = f(rb, r"Refusing all ethnic material", 2000)
+    div = f(rb, r"^### .*THE DIVERGENCE OPERATOR")      # was "Refusing all ethnic material" (L2178, mid-text); SH-002
     c9b = f(rb, r"^## C\.9b ")
     c9d = f(rb, r"^## .*C\.9d ")
     c9tab = f(rb, r"^\|", f(rb, r"^## C\.9 "))
@@ -391,7 +409,11 @@ def method_fixes(T):
     neo = f(rb, r"^\| `Neo-Races-and-Cultures/`")
     p06 = f(rb, r"06_Worked_Example_Provenance\.md` still applies in warm mode")
     reg = f(sp, r"location registries", 250)
-    sp10 = f(sp, r"^\| \*\*10\*\* Catalog")
+    # SH-001: the first "| **10** Catalog" row is the applicability table (L127), not the rule; the rule's three statements are:
+    sp10 = f(sp, r"and the no-invented-person-names rule")
+    sp10b = f(sp, r"NO INVENTED PERSON NAMES — role placeholders permanently")
+    sp10c = f(sp, r"People as role-archetypes\*\* — \*\*binding rule")
+    s10 = [(nm, a, b) for nm, a, b in live_ranges()[0] if nm == "10"][0]       # SH-005: Step 10's own section, for the card note
     pairs = [
         ("00_RUNBOOK.md` L2696–2698", "00_RUNBOOK.md` L%d–%d" % (t18, t18 + 2)),
         ("00_RUNBOOK.md` L307 ", "00_RUNBOOK.md` L%d " % law0),
@@ -402,7 +424,8 @@ def method_fixes(T):
         ("`§C.9b` L2088", "`§C.9b` L%d" % c9b),
         ("`§C.9d` L2147", "`§C.9d` L%d" % c9d),
         ("00_RUNBOOK.md` L1980 (per-phase table, Phase 10)", "00_RUNBOOK.md` L%d (per-phase table, Phase 10)" % row10),
-        ("03_The_Phase_Spine.md` L219 ", "03_The_Phase_Spine.md` L%d " % sp10),
+        ("03_The_Phase_Spine.md` L219 ", "03_The_Phase_Spine.md` L%d, L%d, L%d " % (sp10, sp10b, sp10c)),
+        ("live lines 3045–3161 govern", "live lines %d–%d govern" % (s10[1], s10[2])),
         ("00_RUNBOOK.md` L215 ", "00_RUNBOOK.md` L%d " % lay),
         ("**L1968–1980**", "**L%d–%d**" % (c8c + 2, row10)),
         ("Phase 0 row (L1970)", "Phase 0 row (L%d)" % row0),
@@ -630,7 +653,7 @@ def build(key):
     based_places = split_places(sh["based"]) if sh and sh["based"] else []
     if sh and sh["based"]:
         A.append("| **Real-world basis** | Spec header L%d, *\"Based on:\"* — raw text: `%s`. Station/place names drafted from it: %s — ⚠ **mechanical split; the developer confirms which are aliases and which are different places** |"
-                 % (sh["based_n"], sh["based"].replace("|", "/"), " · ".join("**%s**" % p for p in based_places) or "none parsed"))
+                 % (sh["based_n"], sh["based"].replace("|", "/"), " · ".join("**%s**" % p.strip().strip("*").strip() for p in based_places) or "none parsed"))
     else:
         A.append("| **Real-world basis** | ⚠ No `**Based on:**` line in the first 60 lines of the spec — not found, **not guessed** (developer supplies) |")
     A.append("| Climate READER key | the file is keyed `%s` — %s |" % (
@@ -862,7 +885,11 @@ def build(key):
     # ---- §J: add rename and developer items ----------------------------------------------------------------------
     extraJ = []
     if c["renamed"]:
-        extraJ.append("| **Rename — %s** | ✅ Ruled 2026-10-03 | Files that still carry the old name are read through `%s/City_Renames_Alias_Table_2026-10-03.md`; the pass folder and megasheet/concept-art folders keep the old name by design (nothing was moved) |" % (c["renamed"], CITIES))
+        if c.get("mega") and c["mega"] != c.get("concept"):
+            folders = "the pass folder and the concept-art folder are `%s/` (renamed 2026-10-23, Alias Table §3b); only the megasheet folder `City_Megasheets/%s/%s/` keeps the old name" % (c["concept"], c["sub"], c["mega"])
+        else:
+            folders = "the pass folder is `%s/`, the new name (this city is not in the Alias Table's §3b list of renamed pass folders)" % c["concept"]
+        extraJ.append("| **Rename — %s** | ✅ Ruled 2026-10-03 | Files that still carry the old name are read through `%s/City_Renames_Alias_Table_2026-10-03.md`; %s |" % (c["renamed"], CITIES, folders))
     reg = os.path.join(CITIES, "Founding_Register.md")
     rh = ctx.hits(reg) or []
     extraJ.append("| **Founding Register not in the Phase 2 table** — `%s` %s | ⏸️ Raised %s | ⛔ Does not block. Founders come only from the Register (`DR-19`), but the template's Phase 2 rows (resolved 2026-09-30, before the Register existed) do not list it. **Not added to any read list** — the developer decides whether Phase 2 should open it, and at which row |" % (

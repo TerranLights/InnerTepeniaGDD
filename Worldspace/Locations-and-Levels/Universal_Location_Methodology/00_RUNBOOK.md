@@ -468,7 +468,7 @@ it rigorous; it makes it a guess wearing a table.**
 |---|---|---|
 | **`03` Phase 5 §5b — the three-way differentiation set** | *"this location plus its two hardest frictions"* — **mandatory for clustered locations** | ⏸️ **TERMINAL.** Phase 5 writes RELATION only — mechanism, dependency, direction, flow |
 | **`04` Gate 6 — duplicate institutions** | needs siblings' completed material; already deferred to Step 7 | ⏸️ **TERMINAL.** *(It was already the closest to correct — it deferred by itself.)* |
-| **`Step 6` — Differentiate** + the `Cross_City_Culture_Differentiation_Table` | **read the row BEFORE writing a category** | ⭐ **WRITE-ONLY during the run.** ***A pass ADDS its own column and never READS another's.*** The read happens at the terminal check |
+| **`Step 6` — Differentiate** + the `Cross_City_Culture_Differentiation_Table` | **read the row BEFORE writing a category** | ⭐ **WRITE-ONLY during the run.** ***A pass ADDS its own row and never READS another's.*** The read happens at the terminal check |
 | **`02` §4's three-step rule** | *"where the shape repeats a sibling…"* | ⏸️ **TERMINAL.** In-run, the shape is tested against **`02` §4.0's double reading** — the same input set read twice — not against a sibling |
 | **`02` §G8's retention rule 1** | *"score against the full set, never the local group — report the z-score"* | ⛔ **NO SCORE OF ANY KIND in-run.** Report **the location's own percentage**. Ranking is terminal |
 
@@ -2901,7 +2901,7 @@ citations only. **Sweep with word boundaries on every alternative and inspect ev
 > | *Differentiate inline in the finding itself* | ⛔ **Revoked** — there is nothing in-run to differentiate against |
 > | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — this was the sharpest form of the forbidden move |
 > | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes ALWAYS, for every location, and say in the pass that you did** |
-> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN COLUMN, same commit** *(Step 9.2, unchanged)* |
+> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN ROW, same commit** *(Step 9.2, unchanged; the city table holds one row per city, the district table one column per district)* |
 >
 > ⏸️ **The reading half returns at the TERMINAL differentiation check**, run once on the finished corpus.
 > **See `00_RUNBOOK.md` → THE LAW OF ONE LOCATION.** ⚠ **District passes are out of scope and keep

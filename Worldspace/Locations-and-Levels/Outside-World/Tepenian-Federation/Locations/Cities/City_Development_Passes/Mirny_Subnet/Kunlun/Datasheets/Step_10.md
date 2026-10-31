@@ -7,6 +7,6 @@
 
 **ZERO hits.** Kunlun is not the trial's worked example (that is `Zhongshan_Opus`); no skip rule applies to it.
 
-Re-verified fresh this turn: `06_Worked_Example_Provenance.md` (429 lines), `grep -in "kunlun"` → 0 matches.
+Re-verified fresh this turn: `06_Worked_Example_Provenance.md` (431 lines), `grep -in "kunlun"` → 0 matches.
 
 **Not mechanical / not included here:** the actual readiness verdict — cannot exist before Steps 4–9 close.

@@ -1,7 +1,7 @@
 # Tier U Reference — No National Stereotypes (GPS Law)
 
 > **Corpus-wide binding rule, identical for every city, every project.** Source:
-> `Reference/No_National_Stereotypes.md` (172 lines), read in full 2026-09-15.
+> `Reference/No_National_Stereotypes.md` (174 lines; was 172 when extracted), read in full 2026-09-15.
 
 ## The rule itself
 

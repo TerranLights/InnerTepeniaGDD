@@ -1,7 +1,7 @@
-# Princess Elisabeth — development pass
+# Utstein (formerly Princess Elisabeth) — development pass
 
-**Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
-run — never pre-created.*
+**Folder opened 2026-09-05.** *Files appear here **one at a time**, as each piece is run. On 2026-10-30 it holds the Pre-Trip,
+the Position-Coverage ledger and the 19 datasheets (inputs, not output); the pass's own output files do not exist yet.*
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -34,10 +34,10 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 | | |
 |---|---|
 | ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built. ⛔ **Does NOT replace any MUST-OPEN read** — Step 4 still opens every primary source in full, per the Field Guide's own guardrail |
-| **Spec** | `../../../Specs/Princess_Elisabeth.md` |
-| **Local culture** | `../../../Local_Cultures/Halley_Subnet/Princess_Elisabeth.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
-| **Vision notes** | `../../../City_Vision_Notes/Princess_Elisabeth.md` |
-| **Research log** | `../../../Research_Logs/Princess_Elisabeth_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
+| **Spec** | `../../../Specs/Halley subnet/Utstein.md` |
+| **Local culture** | `../../../Local_Cultures/Halley_Subnet/Utstein.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
+| **Vision notes** | `../../../City_Vision_Notes/Utstein.md` |
+| **Research log** | `../../../Research_Logs/Utstein_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 

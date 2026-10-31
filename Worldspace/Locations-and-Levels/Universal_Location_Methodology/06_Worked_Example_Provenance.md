@@ -289,7 +289,7 @@ Sanay must skip the example content in the rows below.** The rules stand without
 | `Archive/ULM_Records/Test_Runs/SanayShipyard_ColdRun_Prep_2026-08-31.md` | **the descriptive "not a virgin location" section specifically** (NOT its own 22-step line-ranged reading sequence, which remains safe and is the intended path) | Quotes withheld-file conclusion fragments directly — "a Guangzhou-Canton-System bounded-contact zone," "'function over sentiment'... a defended civic value" — flagged as M-85; **a future session should follow this document's own numbered reading sequence, never its descriptive framing prose, if picking up Sanay again** |
 | `Archive/ULM_Records/Test_Runs/2026-08-31_SanayMaritimeShippingPort_Run11_Cold/` | **all of it** | The port's complete Phase 0-10 content, all seventeen gates, the full base Zodiac Lens (all twelve signs) with its cross-sign synthesis, and the full Review Panel |
 
-## Casey — added 2026-09-02 from Run 12 *(cold run ABANDONED before Phase 0 — contaminated at the starting line; the session continued as a map-builder, not a deriver)*
+## Casey — added 2026-09-02 from Run 12 *(cold run ABANDONED before Phase 0 — contaminated at the starting line; the session continued as a map-builder, not a deriver)* *(2026-10-30: Casey's current pass is a WARM run, developer ruling — its own section of `16` is read; the skip rule below is for a cold pass)*
 
 > ### ⚠⚠ A FUTURE COLD PASS ON CASEY MUST SKIP THE LINES BELOW. **They were live and un-manifested when Run 12
 > read them as `CLAUDE.md`-mandated required reading, and they are two of the four vectors that burned it.**
@@ -307,7 +307,7 @@ Sanay must skip the example content in the rows below.** The rules stand without
 | File | Coordinate | Tier of what sits there | Action |
 |---|--:|---|---|
 | `00_RUNBOOK.md` | **§C.2, return-contract table** | **Conclusion — a civic-character claim, in the form of an illustrative section title** | ✅ **NEUTRALIZED 2026-09-02** — replaced with a bracketed generic placeholder. **No longer a leak; row retained as the record** |
-| `01_Frame_Typology_and_Inheritance.md` | **§1, line 65** *(the Status-modifier table, `Resettled` row)* | **Frame-tier, with an evaluative gloss** — a Type modifier, plus a judgment about the corpus rather than about the city | ⚠ **RETAINED DELIBERATELY.** Genuinely useful methodology guidance, and a modifier a cold pass declares from `Specs/` at Step 0.1 anyway. **Skip line 65; do not delete** |
+| `01_Frame_Typology_and_Inheritance.md` | **§1, the `Resettled` row of the Status-modifier table** *(named by row, not by line number — it sat at line 65 until the file grew and is at L137 on 2026-10-30)* | **Frame-tier, with an evaluative gloss** — a Type modifier, plus a judgment about the corpus rather than about the city | ⚠ **RETAINED DELIBERATELY.** Genuinely useful methodology guidance, and a modifier a cold pass declares from `Specs/` at Step 0.1 anyway. **Skip the `Resettled` row; do not delete** |
 | `00_RUNBOOK.md` | **§C.3** | **None** — names Casey only as the subject of the contamination anecdote | No action |
 | `Archive/ULM_Records/Test_Runs/Casey_ColdRun_Prep_2026-09-02.md` | **all of it** | **None — verified.** The prep document is coordinates and rules throughout and leaked nothing. **It was written against M-85 and it held** | **Safe. It remains the intended entry path** |
 | `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` | **M-87 – M-92** | **Names the vectors and the classes; states no Casey finding** | Safe |

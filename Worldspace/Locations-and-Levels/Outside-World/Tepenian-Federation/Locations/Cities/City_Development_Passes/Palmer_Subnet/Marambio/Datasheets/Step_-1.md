@@ -6,12 +6,12 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Marambio.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 233 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 232 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Marambio | `Specs/Marambio.md` L1 |
 | Real-world basis | Marambio Base (Argentina), Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W) | `Specs/Marambio.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Marambio.md` L5 |
 | Access type | ON | `Specs/Marambio.md` L6 |
-| Highway access | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Marambio.md` L7 |
+| Highway access | Hwy 1 waypoint, not the terminus *(corrected 2026-07-06, as the line states)*; reached via the causeway/bridge chain: Marambio → across Picnic Passage to Snow Hill Island → James Ross Island → across the Prince Gustav Channel to the Trinity Peninsula mainland. *[The line's other clauses name other places; not copied, line number recorded.]* | `Specs/Marambio.md` L7, L208; `Highways.md` L81 |
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Marambio.md` L8 |
 | Coordinates (as written in the same field) | ~64°14'S, 56°37'W | `Specs/Marambio.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Marambio.md` L4 |

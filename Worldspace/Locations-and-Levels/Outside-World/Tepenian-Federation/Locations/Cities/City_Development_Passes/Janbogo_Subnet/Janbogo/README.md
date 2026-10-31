@@ -1,7 +1,7 @@
 # Janbogo — development pass
 
-**Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
-run — never pre-created.*
+**Folder opened 2026-09-05.** *Files appear here **one at a time**, as each piece is run. On 2026-10-30 it holds the Pre-Trip,
+the Position-Coverage ledger and the 19 datasheets (inputs, not output); the pass's own output files do not exist yet.*
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -37,7 +37,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 | **Spec** | `../../../Specs/Janbogo.md` |
 | **Local culture** | `../../../Local_Cultures/Janbogo_Subnet/Janbogo.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Janbogo.md` |
-| **Research log** | `../../../Research_Logs/Janbogo_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
+| **Research log** | `../../../Research_Logs/Janbogo_Research_Log.md` ⚠ *exists — Session 1, 2026-08-31 (Run 9, a cold test run)* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 

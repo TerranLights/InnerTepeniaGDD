@@ -4,13 +4,15 @@
 
 Citation: `Corpus_Reference_Sheets/Step_9_Record_Full_Text_Quick_Reference.md`, in full — carries
 `00_RUNBOOK.md` §Step 9 and §9.5's fixed procedure text: append the QA block and Review Panel block,
-add the location's row to the differentiation set in the same commit, update whatever tracker claims
+confirm the location's own row in the differentiation set (written at Step 6) and commit it in the same commit, update whatever tracker claims
 completion (listing what the file actually contains, never a summary claim), and — if this pass
 changed the methodology — update the runbook and disciplines in the same commit.
 
 **§9.5 — the recording law, not optional:** log every finding, snag, dead end, killed finding,
 self-correction and contradiction between instructions, as it happens, never compressed into a
 positive-only summary.
+
+⭐ **Item 5 (added 2026-10-21, `M-291`): discharge every deferral to "the pass's close."** At Step 9, run the stale-anchor and span sweep over the pass's own files — every citation by line number or span is re-checked against the file as it now stands, because edits shift lines — and discharge each phase's "sweep at the close" deferral; a deferral no step names is a hole (`00_RUNBOOK.md`, Step 9 item 5, L3011–L3015). *(A pure lookup; the list of this city's deferrals does not exist until its phases are written.)*
 
 ⚠ **The "next `M-` number" lookup is mechanical but not stable enough for a static datasheet** — a
 single live-maintained counter file is the right instrument, not a per-city artifact. Not built here.

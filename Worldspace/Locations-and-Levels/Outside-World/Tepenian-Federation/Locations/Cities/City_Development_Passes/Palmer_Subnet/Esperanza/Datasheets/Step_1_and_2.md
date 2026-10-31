@@ -4,7 +4,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -33,10 +33,12 @@
 | READER — full data range | 1945–2026 | `READER/Esperanza.md` L7 |
 | READER — annual mean temperature | -4.5°C | `READER/Esperanza.md` L8 |
 | READER — monthly table, row 1 | Jan +1.5 · Feb +0.9 · Mar -2.0 · Apr -5.4 · May -7.5 · Jun -10.3 · Jul -10.9 · Aug -9.6 · Sep -6.9 · Oct -4.1 · Nov -1.0 · Dec +0.8 · Annual -4.5 | `READER/Esperanza.md` L12, L14 |
-| `Antarctic_Stations_With_Airstrips.md` — lines naming the city | Checked by name (`Esperanza`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city | Checked by name (`Esperanza`): **zero hits** in a 99-line file | `Antarctic_Stations_With_Airstrips.md` |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 15 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Esperanza · Subnet: Palmer · D: 1.11 · Workforce: 1,418,466 · base%: 39.7% · MAND%: 24.1% · FREE%: 36.2% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L259 (header L247, row L259) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Esperanza`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row (the first-pass split of 2026-09-02; the city's own determination, next row, supersedes its MAND% / FREE%) | City: Esperanza · Subnet: Palmer · D: 1.11 · Workforce: 1,418,466 · base%: 39.7% · MAND%: 24.1% · FREE%: 36.2% · src: C — on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) | `16_Per_City_Three_Tier_Run.md` L247, L260 (header L247, row L260) |
+| `16_Per_City_Three_Tier_Run.md` §11 — the city's own determination (upper-case heading `## 11. ✅ ESPERANZA — DETERMINED`) | Baseline 555,826 (**39.7%**) · Mandated **359,037 (25.6%)** · FREE **485,756 (34.7%)** · distinctive tier 844,793 (60.3%). Mandate, as shares of the distinctive tier: education/childcare/family HALF 12.5% (105,599) · agricultural/food production FULL 15% (126,719) · maritime/harbor trade HALF 10% (84,479) · other/administrative HALF 5% (42,240; the birth registry). The counts sum to 1,400,619 = 922,950 + 0.5 × 955,337, the workforce on the Census I before `DR-68` (the workforce above is 1,418,466). On the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) | `16_Per_City_Three_Tier_Run.md` L1332–L1457 (heading L1332) |
+| Extent table — the city's own row | Esperanza · Palmer · Census I cell 1,878,287 · @10k 188 · @7k 268 · Site: Hope Bay | `Extent_and_Density_Per_City.md` L606 *(2026-09-05 snapshot; the census is live — note L631)*. The Site cell's ⚠ annotation is not copied here: it is held with the open extent question |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Esperanza`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Esperanza · **Subnet:** Palmer · **Solar UTC:** −4 · **Status:** ✅ · **Founders:** Argentina · **Basis:** "almost immediately accessible"* from Argentina · **Source:** `DR-19`, `DR-22` · **Not founders:** — | `Founding_Register.md` L40 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Esperanza.md` L109 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | Multinational rather than purely Argentine — Esperanza's founding principle made it a city that claimed human children broadly, not only Argentine ones. Any human who had made the permanent sacrifice of exile was part of the community Esperanza was built to protect. | `Specs/Esperanza.md` L115 |

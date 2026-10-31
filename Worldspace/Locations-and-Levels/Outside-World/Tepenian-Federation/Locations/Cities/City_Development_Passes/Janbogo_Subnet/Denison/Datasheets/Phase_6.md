@@ -3,7 +3,7 @@
 > ⚠ **DRAFT — Tier C + Tier U.** ⚠ Thin on mechanical content beyond the roster — most of this phase 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > is interpretive by design.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), recounted by hand 2026-10-30:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -11,7 +11,7 @@
 | **U** Robot religions, current roster | Two religions with content — Polydimensional Animism and Cymatics Reverence — each with its status and identity summary; the roster is OPEN | `Corpus_Reference_Sheets/Robot_Religions_Roster_Quick_Reference.md`, in full |
 | National_Holidays.md | Checked by name — **zero hits for Denison** | Verified this turn |
 | `Ice-Cold_Buddhism_Research/` — directory enumerated | 7 `.md` files read; **0 name the city** | `Reference/Real-World/Ice-Cold_Buddhism_Research/` (enumerated 2026-10-23) |
-| `The_True_Believer_Extraction.md` | Checked by name (`Denison`, `Commonwealth Bay`): **zero hits** in a 378-line file | `The_True_Believer_Extraction.md` |
+| `The_True_Believer_Extraction.md` | Checked by name (`Denison`, `Commonwealth Bay`): **zero hits** in a 377-line file | `The_True_Believer_Extraction.md` |
 | `The_Meme_Machine_Extraction.md` | most sharply, the Frostlands' distinction between a recited, rigid form (Denison's wind-statistic recitation, | `The_Meme_Machine_Extraction.md` L21 |
 | ↳ `The_Meme_Machine_Extraction.md` | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `The_Meme_Machine_Extraction.md` L74 |
 | Named-faction content — a genuine, own-terms entry | Denison's civic identity is built on a specific relationship to environmental extremity: pride in the specific, named severity of its own environment, performed openly rather than endured quietly. Residents know the site's own wind statistics the way other places know their founding dates, and reciting them to visitors functions as a local social ritual | `Specs/Denison.md` L304 |

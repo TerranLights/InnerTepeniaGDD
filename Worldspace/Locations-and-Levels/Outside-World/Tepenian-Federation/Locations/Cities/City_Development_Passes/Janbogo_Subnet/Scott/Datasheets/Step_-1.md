@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Janbogo subnet/Scott.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 230 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 229 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Scott | `Specs/Scott.md` L1 |
 | Real-world basis | Scott Base (New Zealand), Hut Point Peninsula, Ross Island (~77°51'S, 166°46'E) | `Specs/Scott.md` L3 |
 | Arcanet Subnet | Janbogo | `Specs/Scott.md` L5 |

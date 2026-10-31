@@ -4,12 +4,12 @@
 > Kunlun, not merely unsearched.**
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), recounted by hand 2026-10-30:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` — Kunlun mention | Checked, **zero hits for Kunlun** by name (73-line file) | Re-verified this turn |
-| Kunlun's own Specs file — cuisine/dress/music/craft check | Checked directly for these terms, **zero hits** — the Specs file states scientific/observatory content extensively but nothing about what Kunlun cooks, wears, or plays | Re-verified this turn against the full 251-line file |
+| Kunlun's own Specs file — cuisine/dress/music/craft check | Checked directly for these terms, **zero hits** — the Specs file states scientific/observatory content extensively but nothing about what Kunlun cooks, wears, or plays | Re-verified this turn against the full 250-line file |
 | Robot_Biology_and_Culture/ mandatory facts (Tier U, cross-ref `Phase_4.md`) | Siligel/coolant/smoking canon, hands-and-fire theory, thermal-cost mechanics — mandatory before any siligel/coolant claim | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
 | Adjacent Second-Interwar engineering fact, flagged for completeness (own-portion only) | *"Unmarked background lore, 2026-07-16: Kunlun's own engineering capacity was also where \[a character's\] spec and schematic design got turned into an actual, buildable schematic. Consistent with Kunlun's own established science-first character: the city as a whole is not religiously or narratively invested in this project, this was simply engineering work its capable, credentialed population was well-suited to do."* Discoverable-only lore, no in-game quest markers. ⛔ **The other locations named in the source's own account of this chain are not extracted here** | `Specs/Kunlun.md` L196 |
 

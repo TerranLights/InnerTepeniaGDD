@@ -4,7 +4,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -16,8 +16,8 @@
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Belgrano.md` L64 |
 | Spec climate — mean annual temperature | -13.2°C  _(READER station: Belgrano_II; 1991–2020 WMO standard normal)_ | `Specs/Belgrano.md` L65 |
 | Spec climate — prevailing winds | frontal passages bring **winds exceeding 200 km/h**, sharply increasing the chill factor *(researched 2026-09-04)* | `Specs/Belgrano.md` L66 |
-| Spec climate — record extremes | record high **+11.4 °C** (January); record low **−58.9 °C** (May) *(researched 2026-09-04)* | `Specs/Belgrano.md` L67 |
-| Spec climate — temperature range | coldest months avg −30°C; warmest month avg −5°C | `Specs/Belgrano.md` L68 |
+| Spec climate — record extremes | record high **+12.1 °C** (December); record low **−58.9 °C** (May) *(researched 2026-09-04)* *(the spec said +11.4 °C (January) until 2026-10-30; its table has December +12.1 °C)* | `Specs/Belgrano.md` L67 |
+| Spec climate — temperature range | coldest months (July/August) mean −20.9°C / −20.7°C; warmest months (December/January) mean −2.6°C / −2.4°C *(the spec line read "avg −30°C" and "avg −5°C" until 2026-10-30, when it was restated as the table's means)* | `Specs/Belgrano.md` L68 |
 | Spec climate — polar night | approximately Apr 26 → Aug 19 (~116 days) | `Specs/Belgrano.md` L69 |
 | Spec climate — midnight sun | approximately Oct 24 → Feb 19 (~119 days) | `Specs/Belgrano.md` L70 |
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Belgrano.md` L71 |
@@ -26,7 +26,7 @@
 | Spec climate — regime | **ICE SHELF** — *flat, exposed, heavily redistributed* | `Specs/Belgrano.md` L77 |
 | Spec climate — falls (reaches the surface) | ~300 mm/yr | `Specs/Belgrano.md` L78 |
 | Spec climate — lands (accumulates and stays) | **~195 mm/yr** *(~65% retention)* | `Specs/Belgrano.md` L79 |
-| Spec climate — lost to sublimation and wind transport | ~104 mm/yr | `Specs/Belgrano.md` L80 |
+| Spec climate — lost to sublimation and wind transport | ~105 mm/yr *(the spec said ~104 until 2026-10-30; 300 − 195 = 105)* | `Specs/Belgrano.md` L80 |
 | READER — climate authority | Argentine Antarctic Program (DNA/IAA) | `READER/Belgrano.md` L4 |
 | READER — station notes | Belgrano II Base | `READER/Belgrano.md` L5 |
 | READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Belgrano.md` L6 |
@@ -34,11 +34,12 @@
 | READER — annual mean temperature | -13.2°C | `READER/Belgrano.md` L8 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Belgrano II Skiway \| Belgrano II Base \| Argentina \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L13 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 10 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 823,775 · base%: 44.3% · MAND%: 30.6% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L252 (header L247, row L252) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Belgrano`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| Extent and density — the city's row *(2026-09-05 snapshot; the census is live — note L631)* | Belgrano · Halley · Census I as tabled: 1,071,890 · required area 107 km² at 10,000 people/km² · 153 km² at 7,000 people/km² · Site: Bertrab nunatak. At the live Census I (1,095,807) the same division gives 109.6 km² and 156.5 km² *(computed: 1,095,807 ÷ 10,000 = 109.58 · 1,095,807 ÷ 7,000 = 156.54)* | `Extent_and_Density_Per_City.md` L619; snapshot note L631 |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 823,775 · base%: 44.3% · MAND%: 30.6% · FREE%: 25.1% · src: C *(on the flat ABCC working value; counts re-run when per-city ABCC values are set, `16` L1287–1304)* *[Superseded for Belgrano: the city's own determination, `16` §2 (L546, "BELGRANO — DETERMINED (and its geology corrected)"), governs: baseline 274,151 (34.0%) · mandated 345,654 (42.9%) · FREE 186,122 (23.1%), 805,927 workers, distinctive tier 531,776 (66.0%); "Effect: baseline 44.3% → 34.0%" after the geology correction (ice shelf, not rock; forced importer). §2's counts predate `DR-68` (`16` L1). Half B is the first-pass split.]* | `16_Per_City_Three_Tier_Run.md` L247, L252 (header L247, row L252); L546 (§2) |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Belgrano`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Belgrano · **Subnet:** Halley · **Solar UTC:** −2 · **Status:** ✅ · **Founders:** Argentina · **Basis:** Accessible from Argentina · **Source:** `DR-19`, `DR-22` · **Not founders:** — | `Founding_Register.md` L53 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Belgrano.md` L120 |
-| Spec — `Founding population:` (as stated; the Founding Register governs) | Argentine exiles. The Argentine community in Tepenia extended across three cities in three different subnets: Esperanza and Marambio in the Palmer subnet, Belgrano in the Halley subnet. The shared Argentine identity across subnets was one of the larger distributed national presences in Tepenia. | `Specs/Belgrano.md` L122 |
+| Spec — `Founding population:` (as stated; the Founding Register governs) | Argentine exiles. The Argentine community in Tepenia extended across three cities in two subnets: Esperanza and Marambio in the Palmer subnet, Belgrano in the Halley subnet. The shared Argentine identity across subnets was one of the larger distributed national presences in Tepenia. | `Specs/Belgrano.md` L122 *("three different subnets" until 2026-10-30; Esperanza and Marambio are both Palmer subnet)* |
 | Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: USA · Significant: Germany, UK, Brazil · Notable: Poland, Argentina *(founding wave)*, Czech Republic, Hungary, South Africa, Slovakia, Chile, Croatia, Serbia, Slovenia, Uruguay | `Specs/Belgrano.md` L20–22 |
 | Spec — Economy & Industry section | Present at L136–L140; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Belgrano.md` L136 |
 

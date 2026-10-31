@@ -191,7 +191,7 @@ you to §1.1's recurring cost, with a larger number.**
 | Distance | Tepenian city | §5 port | Coast / how it connects | Realistic role |
 |--:|---|---|---|---|
 | **2,682 km** | ✅ **Dumont d'Urville** *(canon node)* | tier not established *(§5.1)* | Adélie Land, Île des Pétrels | ⭐⭐ **The nearest Tepenian port to Hobart.** **5 to 7 days** by icebreaker; the last stretch through pack ice early in the season |
-| **2,697 km** | **Denison** | Boat Harbor *(§5.6; "barely works")* | Cape Denison, Commonwealth Bay | ⭐ **Direct but intermittent:** the **windiest place** (mean about 70 to 75 km/h); **6 days** to the shelf off the bay in an open-water year; since 2010 a grounded iceberg and fast ice have blocked some summers |
+| **2,697 km** | **Denison** | Boat Harbor *(§5.6; "barely works")* | Cape Denison, Commonwealth Bay | ⭐ **Direct but intermittent:** the **windiest place** (mean about 69 km/h, 19.3 m/s); **6 days** to the shelf off the bay in an open-water year; since 2010 a grounded iceberg and fast ice have blocked some summers |
 | **3,398 km** | **Cape Adare** | Ridley Beach, a **landing only** *(§5.6)* | the Ross Sea's northern entrance | ⛔ **No harbor.** Beach landing only, weather-dependent |
 | **3,423 km** | **Casey** | Newcomb Bay *(§5.6)* | Windmill Islands, Vincennes Bay | ⭐ **Direct, seasonal.** *(The published Hobart–Casey distance is 3,443 km; Casey is the closest permanent Antarctic station to Australia.)* |
 | **3,629 / 3,635 km** | **Janbogo / Zukelli** | the shared **semi-domed year-round port** *(§4)* | Terra Nova Bay, the Drygalski Ice Tongue's polynya | ⭐ **Direct, the long Ross Sea reach:** a documented ship route of about **8 to 11 days**, and a documented **Hobart air link** (about 5.5 h each way) |
@@ -757,7 +757,7 @@ city.** ***They inherited two-century-old sealing and whaling anchorages and pay
 | City | What it is | What its harbor costs |
 |---|---|---|
 | **Fort McMurdo** | ***the Federation's largest industrial city*** | ⛔ **a floating ice pier, rebuilt** |
-| **Sanay** | ***"first and foremost, a major shipping and transportation port city"*** | ⛔ **a coastal offload 160 km from the city, and a convoy chain** |
+| **Sanay** | ***"first and foremost, a major shipping and transportation port city"*** | ⛔ **a coastal offload ~200 km from the city, and a convoy chain** |
 | **The Tri-Cities** | **the Larsemann industrial cluster** | ⛔ **a seasonal window, Nov–Mar** |
 | **Temirötkel** | — | ⛔ **an icebreaker, every visit** |
 

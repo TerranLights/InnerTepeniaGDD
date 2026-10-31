@@ -49,7 +49,7 @@
 > | *Differentiate inline in the finding itself* | ⛔ **Revoked** — there is nothing in-run to differentiate against |
 > | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — this was the sharpest form of the forbidden move |
 > | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes ALWAYS, for every location, and say in the pass that you did** |
-> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN COLUMN, same commit** *(Step 9.2, unchanged)* |
+> | — | ✅ ⭐ **ADD THIS LOCATION'S OWN ROW, same commit** *(Step 9.2, unchanged; the city table holds one row per city, the district table one column per district)* |
 >
 > ⏸️ **The reading half returns at the TERMINAL differentiation check**, run once on the finished corpus.
 > **See `00_RUNBOOK.md` → THE LAW OF ONE LOCATION.** ⚠ **District passes are out of scope and keep

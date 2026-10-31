@@ -1,12 +1,14 @@
 # Vostok — Datasheet · Step 6 (Differentiate, write-only)
 
+> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+
 > ⚠ **DRAFT — Tier U.** Built in full 2026-09-15, corpus-wide, identical for every city. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
 | Category | Value | Citation |
 |---|---|---|
 | Governing rule, `04` Part III's full text, destination addresses | All pasted verbatim, identical for every city — cite this sheet, do not re-extract from `04`/`00_RUNBOOK.md` per city | `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md` |
 | Dependency | Depends on Step 4's phases being written, nothing later. The table is *"FILLED DURING synthesis, not before it."* | `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md` |
-| Vostok's own column | **Not pre-extractable** — this city's own fresh output, does not exist until Vostok's own Step 6 actually runs | N/A |
+| Vostok's own row | **Not pre-extractable** — this city's own fresh output, does not exist until Vostok's own Step 6 actually runs | N/A |
 
 ⛔ **WRITE-ONLY.** Never read another city's cell, mechanical or not — this applies to Vostok's own Step 6 the
 same as every other city's.
@@ -18,7 +20,7 @@ same as every other city's.
 >
 > | § | Section | Columns beyond `City` |
 > |--:|---|---|
-> | 1 | Capability shape & deficit address | Shape · Deficit address · Pass |
+> | 1 | Capability shape & deficit address | Subnet · Shape · Deficit address · Pass |
 > | 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis |
 > | 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point |
 > | 4 | Phase 4 — Ordinary Life | Axis |
@@ -32,5 +34,5 @@ same as every other city's.
 > ⛔ **A completed Step 6 must add a row to ALL TEN, in the same commit.** Fewer than ten is an under-fill,
 > not a smaller city's exemption.
 
-**Not mechanical / not included here:** Vostok's own actual differentiation column — this phase's actual
+**Not mechanical / not included here:** Vostok's own actual differentiation row — this phase's actual
 content, none of which exists yet.

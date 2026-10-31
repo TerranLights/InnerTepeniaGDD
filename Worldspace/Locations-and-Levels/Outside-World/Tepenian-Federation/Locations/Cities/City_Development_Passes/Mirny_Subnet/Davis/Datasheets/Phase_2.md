@@ -10,10 +10,17 @@
 | Category | Value | Citation |
 |---|---|---|
 | Composition tier table | Primary: China · Significant: Japan, Germany, UK, South Korea, Russia *(added 2026-09-05)*, Indonesia, Australia *(founding wave)* · Notable (13): Thailand, Ukraine, Vietnam, Philippines, Malaysia, Romania, South Africa, New Zealand, Belarus, Bulgaria, Lithuania, Latvia, Estonia | `Official_Population_Census.md` L390–396 |
-| Annotation dating (the discriminator per this session's cross-check) | Two dated annotations in the admitted set: `(added 2026-09-05)` on Russia; `(revised 2026-07-04)` on the Census I row. Two undated: `(founding wave)` on Australia; the L392 geography parenthetical. Dated ⇒ authoring; undated ⇒ content — 2-for-2 both ways | `Official_Population_Census.md` L390, L395, L494 |
-| Census I (governs, `DR-4`) | 563,599 H / 594,715 R / 1,158,314 | `Official_Population_Census.md` L494 |
-| Census II | 437,423 H / 344,173 R / 781,596 (no annotation) | `Official_Population_Census.md` L611 |
-| Retention (computed; formula = retained ÷ Census-I count) | combined 67.48% · human 77.61% · robot 57.87% · spread 19.74 pp | Same two rows above |
+| Annotation dating (the discriminator per this session's cross-check) | Two dated annotations in the admitted set: `(added 2026-09-05)` on Russia; `(revised 2026-07-04)` on the Census I row. Two undated: `(founding wave)` on Australia; the L390 geography parenthetical *(L392 when the pass ran; the census lost two lines on 2026-10-01)*. Dated ⇒ authoring; undated ⇒ content — 2-for-2 both ways | `Official_Population_Census.md` L390, L395, L494 |
+| Census I (governs, `DR-4`) | 563,599 H / 594,715 R / 1,158,314 *[as recorded at the pass (2026-09-16); live since `DR-68` (2026-10-28): 575,738 H / 606,493 R / 1,182,231]* | `Official_Population_Census.md` L494 |
+| Census II | 437,423 H / 344,173 R / 781,596 (no annotation at the pass; the live row now carries a `DR-68` note and reads 445,531 H / 351,912 R / 797,443) | `Official_Population_Census.md` L617 *(re-pointed 2026-10-30 from L611)* |
+| Retention (computed; formula = retained ÷ Census-I count) | combined 67.48% · human 77.61% · robot 57.87% · spread 19.74 pp *[as recorded at the pass (2026-09-16); live since `DR-68`, derived by hand 2026-10-30: combined 67.45% · human 77.38% · robot 58.02% · spread 19.36 pp]* | Same two rows above |
+
+## Added 2026-10-30 — the composition file (located by range this sweep; no pass file cites it)
+
+| Category | Value | Citation |
+|---|---|---|
+| `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L537–L543: the heading `### Davis` (L537) and the tier table (L539–543). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L537–L543 |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule | Present at L26–L33: the list headed "Recording it so it stops being reconstructed from examples" (rule 1, a city's solar UTC = round(longitude ÷ 15), at L28), under the heading at L21. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L21, L26–L33 |
 
 ## T8-reported — quoted by today's readers, not yet independently re-confirmed at the byte level by me
 

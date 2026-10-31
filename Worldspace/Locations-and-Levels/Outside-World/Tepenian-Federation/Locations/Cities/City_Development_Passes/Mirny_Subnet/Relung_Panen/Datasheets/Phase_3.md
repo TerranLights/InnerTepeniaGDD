@@ -2,7 +2,7 @@
 
 > ⚠ **DRAFT — Tier C.** The spec's sensory and architectural prose is cited by range; it is not copied (Step −1 decides what is admissible). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-29:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **2 of 4** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites). **Not covered:** the Climate `READER/` folder (no row names it; the Pre-Trip says "as Phase 1") and `City_Megasheets/` (the row "Megasheet Physical Infrastructure file" records the conflict by title only, with no path). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
 
 | Category | Value | Citation |

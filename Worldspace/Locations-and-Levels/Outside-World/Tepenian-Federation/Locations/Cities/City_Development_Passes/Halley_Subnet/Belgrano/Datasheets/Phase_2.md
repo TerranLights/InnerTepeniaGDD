@@ -2,7 +2,7 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (1 directly, 2 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -13,9 +13,11 @@
 | Annotation in the spec tier table | `(founding wave)` — **no date** | `Specs/Belgrano.md` L22 |
 | Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L216 |
 | Per-nation breakdown (spec) | Present at L26–L51 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Belgrano.md` L26 |
+| `Upper_Earth_Immigration_Composition.md` — the city's own section (the composition file's section for this city) | Present at L369–L377: the section heading (L369), the tier table with its key drivers (L371–L375) and the founding note (L377). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L369–L377 |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how a city's solar UTC and a nation's distance are measured) | Section heading L21 (*"HOW FACTOR 1 IS MEASURED — the ±3 solar-UTC window"*); the list headed *"Recording it so it stops being reconstructed from examples"* runs L26–L33: four numbered rules (1 at L28, 2 at L29, 3 at L30–L31, 4 at L32–L33). Rule 1 as written: *"A city's solar UTC = round(longitude ÷ 15)."* The other rules are **cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L21, L26–L33 |
 | Census I | 544,064 H / 551,743 R / **1,095,807** combined | `Official_Population_Census.md` L496 |
 | Census II | 437,927 H / 415,687 R / **853,614** combined | `Official_Population_Census.md` L615 |
-| Retention (computed; cross-ref `Step_0.md`) | combined 78.16% · human 80.80% · robot 75.55% | Computed from the two rows above |
+| Retention (computed; cross-ref `Step_0.md`) | combined 77.90% · human 80.49% · robot 75.34% | Computed from the two rows above: 853,614÷1,095,807 · 437,927÷544,064 · 415,687÷551,743 |
 | Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — station assignment is not nationality-based, in the treaty's own words | Art. II.3.3: *"Nothing in this Article requires that a population assigned to a given station share the national origin of the Power that formerly maintained it"* | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — the allocation was staged, not instant | Art. II.3.2: populations assigned to stations "in the years following this Treaty's signing" | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |

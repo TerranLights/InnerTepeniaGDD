@@ -1,5 +1,7 @@
 # Vostok — Datasheet · Phase 7 (Order)
 
+> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+
 > ⛔⛔⛔ **READ FIRST — THE CITATION GATE.**
 > **`Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`**
 > ✅ **THE SECTOR SIZE IS CITABLE** — *"sector X = N% of distinctive = M workers"* is a **governing** figure.
@@ -17,14 +19,14 @@
 > separately below.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (11 directly, 2 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), recounted by hand 2026-10-30:** **13 of 13** addresses are named in this sheet (11 directly, 2 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` §23 — Vostok's own determined sector breakdown | Baseline 37.4% (121,353 workers, D=2.50 — ICE-SHEET FORCED IMPORTER, food term at 10%) · Mandated 20.3% (66,007 workers) · **FREE 42.3%** (137,092 workers). Distinctive tier 62.6% (203,100 workers) | `16_Per_City_Three_Tier_Run.md` §23, L2344–2350 |
-| ⚠ National Half B summary table — a pre-determination snapshot, superseded by §23 above | Vostok's row at the time of the Half B run: Baseline 37.4%, Mandate **5.8%**, Free 56.8%, letter code D. §23's own individual determination (Mandate 20.3% / Free 42.3%) ran later and is the governing figure — record this row only so the table's own 5.8% is not misread as current | `16_Per_City_Three_Tier_Run.md` L281 |
+| `16` §23 — Vostok's own determined sector breakdown | Baseline 37.4% (121,353 workers, D=2.50 — ICE-SHEET FORCED IMPORTER, food term at 10%) · Mandated 20.3% (66,007 workers) · **FREE 42.3%** (137,092 workers). Distinctive tier 62.6% (203,100 workers). *Baseline % and counts are on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–1304)* | `16_Per_City_Three_Tier_Run.md` §23, L2349–2355 |
+| ⚠ National Half B summary table — a pre-determination snapshot, superseded by §23 above | Vostok's row in the Half B table (workforce 342,300; refreshed 2026-10-28 under `DR-68` — the Workforce, base%, MAND% and FREE% cells, mandate shares held): Baseline 37.8%, Mandate **5.8%**, Free 56.5%, letter code D. §23's own individual determination (Mandate 20.3% / Free 42.3%) ran later and is the governing figure — record this row only so the table's own 5.8% is not misread as current. *Baseline % is on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–1304)* | `16_Per_City_Three_Tier_Run.md` L282; refresh note L1 |
 | Canon §15 sector breakdown | Science (Lake Vostok research program) 65% · Self-sufficiency/survival infrastructure 25% · Other 10% | `16_Per_City_Three_Tier_Run.md` §23 |
-| The mandate, quoted (own-value portion) | 32.5% of distinctive (66,007 workers) = **HALF of the 65% Science sector.** ⚠ The source's own label for this mechanism is comparative phrasing naming another city; the mechanism itself (half a dominant science sector mandated) is recorded here without that name | `16_Per_City_Three_Tier_Run.md` §23 |
+| The mandate, quoted (own-value portion) | 32.5% of distinctive (66,007 workers; *on the flat ABCC working value, counts re-run when per-city ABCC values are set — `16` L1287–1304*) = **HALF of the 65% Science sector.** ⚠ The source's own label for this mechanism is comparative phrasing naming another city; the mechanism itself (half a dominant science sector mandated) is recorded here without that name | `16_Per_City_Three_Tier_Run.md` §23 |
 | ⭐ The previous 9.2% was a FLOOR, quoted | *"Half B's mandate came from the reciprocal-obligation work: Vostok owes 18,774 food-worker-years as a geologically forced importer, and its ruled export — scientific research, the bioinformatics/Cryptograph Helix basis — was set at 'minimum 9.2% of distinctive tier.' That figure was sized to match the DEBT, not to measure the SECTOR'S NATIONAL ROLE. It was a floor, and it was never revisited."* | `16_Per_City_Three_Tier_Run.md` §23 |
 | The national argument, quoted in full | *"Tepenia is a CLOSED POPULATION — one-way exile, no meaningful inflow, sustained across ~250 years by artificial wombs. Accumulated mutation and genetic drift in a closed gene pool of ~15 million is a real biological problem — and Vostok's research sits exactly there. Canon gives it DNA computing/bioinformatics as the ruled export... Cataloging a sealed lake is discretionary. Understanding mutation rates in a closed human population is not."* | `16_Per_City_Three_Tier_Run.md` §23 |
 | ⚠ Scope caution, quoted directly | *"Charlene's breakthrough is DLC-present. During the Second Interwar the PROGRAM exists; the RESULT may not have landed yet. The mandate rests on the program, not on the discovery."* | `16_Per_City_Three_Tier_Run.md` §23 |
@@ -44,7 +46,7 @@
 | `08_Volume_Based_Requirement_Reference.md` — autonomy-duration assumption, quoted (own-value portion) | *"the trial model's assumed 270 days for Ariun Nuur and 330 for Kunlun"* — a supply-interruption horizon assumption, contrasted against a real-world Nunavut anchor of up to 365 days | `08_Volume_Based_Requirement_Reference.md` L605 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — see `Phase_4.md` | Cross-referenced, not duplicated | `Phase_4.md` |
 | `Division_of_Industry_Sweep_2026-08-31.md` — top-sector entry, quoted | *"Vostok \| Science 65% \| … Plus 25% self-sufficiency = 90% in two sectors. Extreme-outpost profile; plausible, but leaves almost nothing for ordinary life."* | `Division_of_Industry_Sweep_2026-08-31.md` L90 |
-| Sweep — 6-industry matrix, Vostok's row | All six necessary industries absent (`.`) — 6/6 missing | `Division_of_Industry_Sweep_2026-08-31.md` L169, legend elsewhere in file |
+| Sweep — 6-industry matrix, Vostok's row | All six necessary industries absent (`.`) — 6/6 missing | `Division_of_Industry_Sweep_2026-08-31.md` L169; legend at L139 |
 | Sweep — closing-items flag | Vostok named among "four purpose-dominant cities" flagged for review against "could a person live an entire life here?" — recorded as a found flag, not a verdict | `Division_of_Industry_Sweep_2026-08-31.md` L249–250 |
 | `Theoretical-Calculations/` | Checked, **zero hits for Vostok** | Re-verified this turn |
 | `Industry_Staffing_and_Productivity/`, `jobs_professions_and_fields/`, `Megacorps/` | Checked, **zero hits for Vostok** in all three | Re-verified this turn |

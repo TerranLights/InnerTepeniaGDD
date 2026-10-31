@@ -53,7 +53,7 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and its order within the tier. See `TODO.md` for the full method.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -92,8 +92,8 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 
 **Climate type:** Coastal polar with extreme katabatic influence — Adélie Land is among the windiest regions on Earth; wind is even more defining here than at Mirny
 **Mean annual temperature:** -11.0°C  _(READER station: Dumont_Durville; 1991–2020 WMO standard normal)_
-**Temperature range:** coldest months (July/August) avg −22°C; warmest month (January) avg −1°C
-**Record extremes:** record low approximately −40°C; record high approximately +9°C
+**Temperature range:** coldest months (July/August) mean about −17°C (night low about −20°C); warmest month (January) avg −1°C
+**Record extremes:** record low approximately −37°C (August); record high approximately +11°C (December)
 **Prevailing winds:** katabatic from the south off the East Antarctic plateau; mean annual wind speed approximately 8–12 m/s at the island site; frequent severe events 30–50 m/s; the nearby George V Land coast holds records for the highest sustained mean wind speeds ever documented on Earth's surface; Adélie Land as a region is in a class of its own for persistent wind intensity
 **Annual precipitation:** **~655 mm** water equivalent (ERA-Interim reanalysis) / **~679 mm** (climatology). ⚠ **A large fraction sublimates in the dry katabatic surface layer before reaching the ground** — measured by profiling radar during the APRES3 campaigns, so the falling total substantially exceeds the accumulating total *(researched 2026-09-04; monthly distribution below remains derived)*
 
@@ -142,7 +142,7 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 - **Island exposure:** being on Petrel Island rather than the mainland removes any terrain buffer from the continental plateau winds; the channels between the island and the mainland can accelerate wind; the sea around the island behaves differently from open ocean depending on ice conditions
 - **Adélie penguins:** the Géologie Archipelago is one of the largest Adélie penguin breeding grounds in Antarctica; the penguin colonies are an unavoidable presence at this location — a significant local food source (eggs, supplementary protein) and a constant, loud, olfactorily distinctive environmental feature
 - **Pack ice dynamics:** the Adélie coast has variable pack ice coverage; in heavy years, maritime access is difficult or impossible; in light years, the channels between islands open up; the variability is significant year to year
-- **Solstice events:** like Mirny, Dumont d'Urville experiences polar night and midnight sun in near-minimal form — roughly ten days of each; the solstice observations would have been a cultural feature of the city similar to Mirny's, with the added context of the penguin colonies as witnesses
+- **Solstice events:** Dumont d'Urville has no polar night and about 31 days of midnight sun (L111–112); the solstice observations would have been a cultural feature of the city similar to Mirny's, with the added context of the penguin colonies as witnesses
 
 #### Gameplay Notes
 

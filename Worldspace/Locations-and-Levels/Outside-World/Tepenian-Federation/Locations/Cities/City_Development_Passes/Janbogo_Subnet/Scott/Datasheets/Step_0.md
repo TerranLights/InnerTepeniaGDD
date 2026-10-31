@@ -3,7 +3,7 @@
 > ⚠ **DRAFT — Tier C + Tier U.** Merged per the Field Guide's consolidation of Step 0 / Phase 0 (identical underlying facts). **Feeds `00_Frame.md` when Scott's own Step 0 runs.** It carries only what a source already states directly. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** `Scott` is also a person's name and part of `Amundsen-Scott`; the search excludes those forms, but read each line. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
 
 
@@ -18,5 +18,10 @@
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |
 | **U** `Repo_Scope.md` | Tier U — corpus-wide boundary statement, fixed | — |
 | Real-world basis | Scott Base (New Zealand), Hut Point Peninsula, Ross Island (~77°51'S, 166°46'E) | `Specs/Scott.md` L3 |
+| Extent — declared in the spec | **~45 km²**, declared 2026-09-05, population unchanged; 386,011 ÷ 45 km² = **8,578/km²**; the spec gives 157/km² as the earlier figure, measured against Ross Island entire | `Specs/Scott.md` L18–L19 |
+| Terrain — as stated in the spec's extent block | Stands on rock; its own (geothermal) heat keeps the ground bare | `Specs/Scott.md` L21–L24 |
+| Site — as stated in the spec's extent block | Hut Point Peninsula, 3.7–5.6 km wide by 28 km long, ≈ 104–157 km² (site-derived); the peninsula is shared with Fort McMurdo | `Specs/Scott.md` L30–L38 |
+| Extent file — the city's row *(2026-09-05 snapshot; the census is live — note L631)* | Ross I. *(shared)* · 2,460 km² · 386,011 · **157/km²** · rural | `Extent_and_Density_Per_City.md` L64 |
+| Extent file — the declaration row *(2026-09-05 snapshot; the census is live — note L631)* | "DECLARED 2026-09-05" — the row is a two-city row; this city's pair is the second: **45 km² → 8,578/km²**; populations unchanged | `Extent_and_Density_Per_City.md` L509 |
 
 **Not mechanical / not included here:** the Type + modifiers declaration, Band assignment, extent band, Status declaration, Configuration, generator selection, the asymmetry check on inherited material — none of this exists until Scott's own pass runs.

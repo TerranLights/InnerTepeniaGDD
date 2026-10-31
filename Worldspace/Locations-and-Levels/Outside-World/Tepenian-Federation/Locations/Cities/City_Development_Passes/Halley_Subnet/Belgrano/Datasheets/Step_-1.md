@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Belgrano.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 170 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 169 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Belgrano | `Specs/Belgrano.md` L1 |
 | Real-world basis | Belgrano II Base (Argentina), Coats Land coast / Weddell Sea sector, Queen Maud Land (~77°52'S, 34°38'W) | `Specs/Belgrano.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") | `Specs/Belgrano.md` L5 |

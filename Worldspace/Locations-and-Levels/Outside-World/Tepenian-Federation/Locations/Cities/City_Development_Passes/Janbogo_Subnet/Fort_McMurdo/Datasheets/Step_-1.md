@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Janbogo subnet/Fort_McMurdo.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 247 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 246 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Fort McMurdo | `Specs/Fort_McMurdo.md` L1 |
 | Real-world basis | McMurdo Station (USA), Ross Island, Ross Sea (~77°51'S, 166°40'E) | `Specs/Fort_McMurdo.md` L3 |
 | Arcanet Subnet | Janbogo | `Specs/Fort_McMurdo.md` L5 |
@@ -16,7 +16,7 @@
 | Coordinates (as written in the same field) | ~77°51'S, 166°40'E | `Specs/Fort_McMurdo.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Fort_McMurdo.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L209, L217, L227 — not copied, not described | `Specs/Fort_McMurdo.md` L209, L217, L227 |
-| Census I (spec's own line) | 222,190 humans / 223,120 robots / **445,310** combined *(island cap)* | `Specs/Fort_McMurdo.md` L15 |
-| Census II (spec's own line) | 173,548 humans / 164,621 robots / **338,169** combined *(island cap)* | `Specs/Fort_McMurdo.md` L16 |
+| Census I (spec's own line) | 222,190 humans / 223,120 robots / **445,310** combined *(the spec's "island cap" tag was removed 2026-10-30)* | `Specs/Fort_McMurdo.md` L15 |
+| Census II (spec's own line) | 173,548 humans / 164,621 robots / **338,169** combined *(the spec's "island cap" tag was removed 2026-10-30)* | `Specs/Fort_McMurdo.md` L16 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Fort McMurdo's own pass runs.

@@ -2,7 +2,7 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (1 directly, 2 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -21,6 +21,8 @@
 | Falkland Treaty — the allocation was staged, not instant | Art. II.3.2: populations assigned to stations "in the years following this Treaty's signing" | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | GPS law — the operative distinction | The station-builder nation (real-world) is a GPS coordinate only; the population's own origin (canon: this city's census/tier table) is admissible once composition is established | `Corpus_Reference_Sheets/No_National_Stereotypes_Quick_Reference.md` |
 | Founding Register — the city's row | **City:** Signy · **Subnet:** Palmer · **Solar UTC:** −3 · **Status:** ✅ · **Founders:** South Africa and **Brazil**, jointly (South Africa partly, as ruled in `DR-22`) · **Basis:** Developer ruling (South Africa ≈ 5 zones; the composition file cites the Cape Town–South Orkneys crossing). Brazil: zone gap 0; the nearest large populous Atlantic coast on the Scotia Sea. *(Gateway claim not yet researched.) · **Source:** `DR-22`, `DR-44` · **Not founders:** — | `Founding_Register.md` L45 |
+| `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L234–L242: the section heading (`### Signy`, L234), the tier table and the key note. **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L234–L242 |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L21–L63: the section heading at L21, the list "Recording it so it stops being reconstructed from examples" at L26–L33 (rule 1 at L28), and the refinement box at L35–L63. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L21–L63 |
 | Diaspora / affinity files | `City_Refugee_District_Affinities.md` **resolves to nothing admissible** for a city pass (maps cities to Concordia districts; Law of One Location, `§C.8d`) | `00_RUNBOOK.md` Phase 2 row |
 
 **Not mechanical / not included here:** the seven-mode arrival taxonomy, attract/repel, native/transplanted separation, who-is-not-here, the differentiation axis name — none of this exists until Signy's own pass runs.

@@ -1,5 +1,7 @@
 # Vostok — Datasheet · Step 5 (Reconciliation)
 
+> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+
 > ⛔ **STRUCTURALLY BLOCKED, not merely unfinished.** `Local_Cultures/Mirny_Subnet/Ariun_Nuur.md` and 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > `Local_Robot_Culture/Mirny_Subnet/Ariun_Nuur.md` are **READ-LAST, as a CHECK** — pre-staging their content at
 > any tier defeats the sequencing rule that is the actual enforcement mechanism.

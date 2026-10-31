@@ -6,7 +6,7 @@
 
 ## `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/06_Worked_Example_Provenance.md` — this city's own status
 
-**ZERO hits, genuinely.** A search of the full 428-line file for "Zukelli" and "Zucchelli" returns nothing —
+**ZERO hits, genuinely.** A search of the full 431-line file for "Zukelli" and "Zucchelli" returns nothing —
 Zukelli has no worked-example manifest section, so no rule file needs its example content skipped for this city.
 Re-verified 2026-09-30.
 

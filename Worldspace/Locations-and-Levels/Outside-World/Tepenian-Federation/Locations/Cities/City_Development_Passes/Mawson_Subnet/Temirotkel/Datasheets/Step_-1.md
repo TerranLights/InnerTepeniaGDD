@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mawson subnet/Temirotkel.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 271 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 270 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Temirötkel | `Specs/Temirotkel.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Temirotkel.md` L3 |
 | Real-world basis | Syowa Station (Japan / Japanese Antarctic Research Expedition — JARE), East Ongul Island, Prince Harald Coast (~69°00'S, 39°35'E) | `Specs/Temirotkel.md` L5 |

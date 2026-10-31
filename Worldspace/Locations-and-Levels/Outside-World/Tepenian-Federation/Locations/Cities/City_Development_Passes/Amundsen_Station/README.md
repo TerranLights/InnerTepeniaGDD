@@ -1,6 +1,6 @@
 # Amundsen Station — development pass
 
-**Folder opened 2026-09-05.** ⚠ **No subnet layer** — *Amundsen Station is "a facility, not a city" and belongs to no subnet, so it sits one level shallower than every other entry, matching `Local_Cultures/`.* ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
+**Folder opened 2026-09-05.** ⚠ **No subnet layer** — *Amundsen Station is "a facility, not a city" and belongs to no subnet, so the folder that holds it takes the station's own name where the other cities have a subnet folder, matching `Local_Cultures/`: the pass itself is at `Amundsen_Station/Amundsen_Station/` (this README is one level up).* ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
 run — never pre-created.*
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
@@ -33,7 +33,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 
 | | |
 |---|---|
-| **Spec** | `../../Specs/Amundsen_Station.md` |
+| **Spec** | `../../Specs/Amundsen-Scott subnet/Amundsen_Station.md` |
 | **Local culture** | `../../Local_Cultures/Amundsen_Station/Amundsen_Station.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../City_Vision_Notes/Amundsen_Station.md` |
 | **Research log** | `../../Research_Logs/Amundsen_Station_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |

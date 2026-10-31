@@ -1,5 +1,7 @@
 # Vostok — Datasheet · Step 7 (QA, 17 gates)
 
+> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+
 > ⚠ **DRAFT — Tier U.** Full operative text for every gate (definitions, checklists, load-bearing warnings) is 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > pasted in full at ⭐ `Corpus_Reference_Sheets/QA_Gates_Full_Text_Quick_Reference.md`. The index below is kept
 > here too, inline, so a gate can be located at a glance without an extra hop.
@@ -28,11 +30,11 @@
 specific place — without being constrained to repeat what already exists?"*
 
 ⚠ **Note for the future Step 7 author, specific to Vostok:** Gate 11's mechanical density sub-check will need
-Vostok's own extent/area figure — not yet located in this research pass; check `03_The_Phase_Spine.md`'s Phase
-1 `MUST OPEN` list and the Specs file's own stated area (if any) when Step 7 actually runs. Gate F's temporal
+Vostok's own extent/area figure — located: `Extent_and_Density_Per_City.md` row L625 (2026-09-05 snapshot; the
+census is live — note L631), recorded in `Step_0.md` and `Step_1_and_2.md`. Gate F's temporal
 sweep will need to specifically verify the `Step_-1.md` excluded-section boundaries were honored throughout
 Step 4. ⚠ **Gate 4's swap test will have unusual material to work with here** — Vostok's `09` and `16` §23
-baseline figures genuinely disagree (41.5% vs 37.4%, both cited as-stated in `Step_1_and_2.md`), which Step 7
+baseline figures genuinely disagree (42.0% vs 37.4%, both cited as-stated in `Step_1_and_2.md` and `Phase_4.md`; `16` §23's counts are pre-`DR-68`, sum 324,452, so the two also rest on different workforce denominators), which Step 7
 will need to actually reconcile or explicitly leave open, not silently pick one.
 
 **Not mechanical / not included here:** each gate's actual pass/fail verdict for Vostok — that's Step 7's own

@@ -4,7 +4,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `06_Worked_Example_Provenance.md` (430 lines) — lines naming the city | Checked by name: **zero hits** (a genuine zero, not a false positive) | `06_Worked_Example_Provenance.md` |
+| `06_Worked_Example_Provenance.md` (431 lines) — lines naming the city | Checked by name: **zero hits** (a genuine zero, not a false positive) | `06_Worked_Example_Provenance.md` |
 
 ## Item 1a's contamination scan
 

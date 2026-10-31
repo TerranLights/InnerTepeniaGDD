@@ -1,7 +1,7 @@
 # Step 10 (The Readiness Check) — Full Text Quick Reference
 
-> ⭐ **Tier U — corpus-wide, identical for every city.** Extracted in full from `00_RUNBOOK.md` §"Step 10"
-> (L3001–3089), read in full 2026-09-15. **Nothing below is city-specific** — the actual scans (item 1's memory/
+> ⭐ **Tier U — corpus-wide, identical for every city.** Extracted from `00_RUNBOOK.md` §"Step 10"
+> (L3057–L3152), re-read against the live text 2026-10-30 (the earlier version cited L3001–3089 and carried the superseded item 7). **Nothing below is city-specific** — the actual scans (item 1's memory/
 > reading/filename checks) are run against the NEXT city, not the one whose datasheet cites this sheet.
 
 **Standing step, added 2026-08-30 at the developer's direction. Run before declaring a pass complete and before
@@ -24,7 +24,8 @@ handing off to another session.**
    **1a. Scan the REQUIRED READING for the next subject's name** — `00`–`06`, `README`, and everything in
    `Disciplines/` (the ULM's own copies — originals withheld). Return line numbers, band or neutralize every
    hit, manifest it in `06`. `CLAUDE.md` mandates these files be read in full, so a worked example naming the
-   next subject is a guaranteed leak with a mandatory delivery mechanism.
+   next subject is a guaranteed leak with a mandatory delivery mechanism. This has now failed three times —
+   M-82 (Sanay), and twice more on Run 12 — which is why Step −2 has a reader scan them rather than trusting `06`.
 
    **1b. Sanitize the file tree.** Check whether any file or folder the next run must navigate is *titled* with
    a claim about the location. If so, the handoff carries sanitized paths — directory, file count, line counts
@@ -32,14 +33,19 @@ handing off to another session.**
 
    **1c. Grep your own new prose for the subject's name, before committing.** For every hit ask: does this
    state the leak's SHAPE, or its CONTENT? Shape is the lesson; content is the leak. *"Eleven titles, four
-   naming civic facts"* teaches everything; the four facts teach nothing and contaminate.
+   naming civic facts"* teaches everything; the four facts teach nothing and contaminate. (M-97 — the rule
+   against vector 1 recreated vector 1, inside the section documenting vector 1, in the same session that
+   fixed it. No gate caught it; it surfaced only because the developer asked the session to account for its own
+   exposure.) Why this needs to be mechanical rather than an exhortation: a rule that leaks is more persuasive
+   than one that does not, because it shows its evidence. The incentive runs toward contamination.
 
 2. **Update `06_Worked_Example_Provenance.md`** with any worked examples this pass added to the methodology. An
    unmanifested example is invisible contamination for the next same-location run.
 3. **Confirm the quarantine list was built by RULE, not by recall** — `05` §6.1's content split applied section
    by section. A list assembled from memory is written by the one person who has already read everything.
 4. **Open the header of every file on the admissible list and check its own cited sources.** A file that cites
-   a withheld document is downstream of it, whatever its filename says.
+   a withheld document is downstream of it, whatever its filename says. Seconds per file, and it would have
+   caught both of Run 3's contamination events.
 5. **Confirm any corpus-wide retrieval layer is flagged as unusable** — a graph, an embedding index, a
    full-text search cannot honor a quarantine, because quarantine is provenance and retrieval is content.
 
@@ -47,10 +53,15 @@ handing off to another session.**
 
 6. **Every path named in the handoff exists** — admissible and withheld alike. A withheld path that has moved
    is a quarantine hole.
-7. **The next run's output folder does NOT already exist.** It creates its own; a pre-seeded folder is a
-   contamination risk and a status lie.
+7. **The next run's OUTPUT files do NOT already exist.** A pass creates its own output (`00_Frame.md`, `01`…`10`
+   and their round records). **Scaffolding MAY be pre-seeded** *(2026-10-21, developer-approved at the Mirny Step 10
+   review; `M-299`)*: the Pre-Trip sheet, the Position-Coverage ledger, `README.md` and the `Datasheets/` set are
+   inputs, not output, and a warm run needs them. **For a COLD run the folder's contents are still a contamination
+   surface** (leak-register row 5, filenames as theses; Step −2 sanitized paths), so a cold run delegates the listing
+   and reads only the sanitized form. A pre-seeded folder that holds *output* is still a contamination risk and a
+   status lie.
 8. **The shared observations file sits OUTSIDE every quarantined folder**, or the next run cannot write to it
-   without breaking its own quarantine.
+   without breaking its own quarantine *(M-0)*.
 
 ## 10.3 — Record integrity
 

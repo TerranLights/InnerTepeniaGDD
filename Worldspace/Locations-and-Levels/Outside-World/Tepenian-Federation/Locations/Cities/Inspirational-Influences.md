@@ -117,7 +117,7 @@
 - Novosibirsk, Russia [SECONDARY]
 
 ##### Relung Panen
-*Researched in two rounds on 2026-10-26 (26 candidate places, split into 28 lines here); tiers set by the developer on 2026-10-29. Further candidates (#27 to #97 in `Reference/Real-World/Inspiration_Place_Research/candidates/Relung_Panen.md`) await approval and research.*
+*Researched in two rounds on 2026-10-26 (26 candidate places, split into 28 lines here); tiers set by the developer on 2026-10-29. Further candidates (#27 to #97 in `Reference/Real-World/Inspiration_Place_Research/candidates/Relung_Panen.md`) were researched in two rounds on 2026-10-29; their tiers await the developer.*
 - Dutch polders and their water boards, Netherlands [PRIMARY] // seabed pumped dry and kept dry by an elected water board with its own tax; the state chose who could farm it (3,018 applicants for 135 farms in 1951) and placed village churches at the edges so no faith dominated
 - Westland greenhouse cluster, Netherlands [PRIMARY] // the world's largest connected glasshouse region, about 2,300 ha, grew from fruit walls on ground built up with shipped-in manure and dune sand; nearly half the regional workforce is in horticulture, with about 17,000 migrant workers in summer
 - Turpan's karez water system, Xinjiang, China [SECONDARY] // desert oasis watered by underground channels that carry mountain meltwater by gravity; working channels fell from 1,084 in 1949 to 169 in 2023 as electric wells took over, while raisins dry for weeks in perforated mud-brick houses

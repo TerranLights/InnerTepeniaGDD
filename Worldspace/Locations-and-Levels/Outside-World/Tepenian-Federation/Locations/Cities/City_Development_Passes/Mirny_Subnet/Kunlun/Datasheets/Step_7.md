@@ -28,8 +28,9 @@
 specific place — without being constrained to repeat what already exists?"*
 
 ⚠ **Note for the future Step 7 author, specific to Kunlun:** Gate 11's mechanical density sub-check will need
-Kunlun's own extent/area figure — not yet located in this research pass; check `03_The_Phase_Spine.md`'s Phase
-1 `MUST OPEN` list and the Specs file's own stated area (if any) when Step 7 actually runs. Gate F's temporal
+Kunlun's own extent/area figure — located: `Extent_and_Density_Per_City.md` L627 (2026-09-05 snapshot; the census is
+live — note L631), recorded in `Step_0.md` and `Step_1_and_2.md`; also check the Specs file's own stated area (if any)
+when Step 7 actually runs. Gate F's temporal
 sweep will need to specifically verify the `Step_-1.md` excluded-section boundaries were honored throughout
 Step 4.
 

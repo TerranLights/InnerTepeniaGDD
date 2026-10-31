@@ -1,14 +1,15 @@
 # Mirny — Datasheet · Phase 3 (Surface & Texture)
 
+> ⚙ **Pass run: this sheet is the pre-run record.** Wording below such as "has NOT started" or "none of this exists until Mirny's own … actually runs" speaks from before the pass and is kept as written.
+
 > ⚠ **DRAFT — Tier C.** Mirny's Specs file already states substantial sensory/architectural content directly — 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > extracted as quotes below, not re-derived. This is existing canon description, not this datasheet's own
 > finding.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **3 of 4** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites). **Not covered:** the Climate `READER/` directory (no row of this sheet names it; the climate rows are in `Step_1_and_2.md`). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
 | Category | Value | Citation |
 |---|---|---|
-| Concept-art directory status | EMPTY — `.gitkeep` only, 1 file total | Re-verified this turn |
 | Megasheet Physical Infrastructure file | EXISTS — `Mirny_Physical_Infrastructure_Attributes.md` (15,462 bytes), inside the Mirny Megasheet folder alongside `Mirny_Full_Extrapolation.md`, `Mirny_Mega_Init.md`, and others | ⛔ **WITHHELD corpus-wide — record the conflict, never open.** Re-verified to exist this turn |
 | Per-city research folder | Checked, **none exists** for Mirny (no analogue to a dedicated geosciences/topic research folder) | Re-verified this turn |
 | Coastal terrain, stated directly | *"The coast here is rocky and exposed. Katabatic winds off the East Antarctic ice sheet funnel toward the coast with significant force"* | `Specs/Mirny.md` L57 |

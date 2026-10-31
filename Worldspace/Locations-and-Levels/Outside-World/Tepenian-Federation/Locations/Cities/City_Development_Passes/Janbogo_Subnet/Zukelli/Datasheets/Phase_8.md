@@ -5,7 +5,7 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 2 of 2 items addressed** — Robot_Biology mandatory facts ✅ · weapons philosophy ✅ and gear catalog ✅ — ⚠ **the item's "slang" names no file**: none exists in either repo — **UNRESOLVED, not guessed** (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L963–965).
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), recounted by hand 2026-10-30:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|

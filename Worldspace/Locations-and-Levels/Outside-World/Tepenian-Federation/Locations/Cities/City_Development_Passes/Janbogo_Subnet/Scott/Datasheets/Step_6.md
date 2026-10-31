@@ -7,16 +7,16 @@
 
 | § | Section | Columns beyond `City` | Header line |
 |---|---|---|---|
-| 1 | Capability Shape & Deficit Address | Subnet · Shape · Deficit address · Pass | L44 |
-| 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis | L56 |
-| 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point | L68 |
-| 4 | Phase 4 — Ordinary Life | Axis | L80 |
-| 5 | Phase 6 — Meaning | The unnamed load-bearing thing · Observance axis · Death & the dead · Phase axis | L93 |
-| 6 | Phase 7 — Order | Governance: what is UNADMINISTRABLE · Transmission: how skill passes · Counterculture axis · Phase axis | L106 |
-| 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker · Phase axis | L116 |
-| 8 | Phase 5 — Relation & Geometry | Named relational axis · What it refuses to develop, and who supplies it | L128 |
-| 9 | Phase 9 — Populations | Lens · Is there a category here that matters MORE than kind? | L138 |
-| 10 | Phase 10 — Catalog | Catalog axis · Pass | L153 |
+| 1 | Capability Shape & Deficit Address | Subnet · Shape · Deficit address · Pass | L48 |
+| 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis | L60 |
+| 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point | L72 |
+| 4 | Phase 4 — Ordinary Life | Axis | L85 |
+| 5 | Phase 6 — Meaning | The unnamed load-bearing thing · Observance axis · Death & the dead · Phase axis | L98 |
+| 6 | Phase 7 — Order | Governance: what is UNADMINISTRABLE · Transmission: how skill passes · Counterculture axis · Phase axis | L108 |
+| 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker · Phase axis | L120 |
+| 8 | Phase 5 — Relation & Geometry | Named relational axis · What it refuses to develop, and who supplies it | L130 |
+| 9 | Phase 9 — Populations | Lens · Is there a category here that matters MORE than kind? | L143 |
+| 10 | Phase 10 — Catalog | Catalog axis · Pass | L160 |
 
 > ⛔ **A completed Step 6 must add a row to ALL 10 sections, in the same commit.** Fewer is an under-fill, not a smaller city's exemption.
 

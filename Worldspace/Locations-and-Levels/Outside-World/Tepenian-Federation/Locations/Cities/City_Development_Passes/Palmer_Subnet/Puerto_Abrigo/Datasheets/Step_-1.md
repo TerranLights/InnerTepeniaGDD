@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Puerto_Abrigo.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 245 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 244 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Puerto Abrigo | `Specs/Puerto_Abrigo.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Puerto_Abrigo.md` L3 |
 | Real-world basis | Port Lockroy (UK Antarctic Heritage Trust / Operation Tabarin), Goudier Island, Port Lockroy harbor, Wiencke Island, Antarctic Peninsula (~64°49'S, 63°29'W) | `Specs/Puerto_Abrigo.md` L5 |

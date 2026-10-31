@@ -3,14 +3,14 @@
 > ⚠ **DRAFT — Tier C + Tier U. Thin by nature (as the Field Guide predicts).** An absence in the admitted set is a hole, not a finding. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** the developer's interim colloquial name `The Temple` is NOT searched (it is an ordinary phrase); the official name is pending. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), checked 2026-10-23:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 8), recounted by hand 2026-10-30:** **2 of 2** addresses are named in this sheet (2 directly, 0 through a shared Tier U sheet it cites).
 
 
 
 | Category | Value | Citation |
 |---|---|---|
-| `Weapons_and_Tools_Philosophy.md` | Checked by name (`Dome Fuji`): **zero hits** in a 74-line file | `Weapons_and_Tools_Philosophy.md` |
-| The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 270-line file: cuisine / food / dish / drink — 0 hit(s) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s) | Counted 2026-10-21: `Specs/Dome_Fuji.md` |
+| `Weapons_and_Tools_Philosophy.md` | Checked by name (`Dome Fuji`): **zero hits** in a 73-line file | `Weapons_and_Tools_Philosophy.md` |
+| The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 269-line file: cuisine / food / dish / drink — 0 hit(s) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s) | Counted 2026-10-21: `Specs/Dome_Fuji.md` |
 | `Robot_Biology_and_Culture/` mandatory facts (Tier U, cross-ref `Phase_4.md`) | Siligel / coolant / smoking canon, thermal-cost mechanics — mandatory before any siligel or coolant claim | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
 | Gear catalogs, slang | No path resolved: gear-catalog work is **gated until the 38-city corpus is done**; slang has no path (a hole, flagged, not guessed) | `03_The_Phase_Spine.md`, Phase 8 block |
 

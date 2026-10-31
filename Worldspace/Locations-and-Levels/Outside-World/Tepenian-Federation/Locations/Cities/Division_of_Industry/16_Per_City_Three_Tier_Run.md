@@ -276,7 +276,7 @@ than as a class.**
 | Mirny | Mirny | 1.25 | 1,036,328 | 41.1% | 11.8% | 47.1% | C |
 | Shirayuki | Mirny | 1.25 | 818,918 | 40.9% | 11.8% | 47.3% | C |
 | {{Abowasa}} | Halley | 1.54 | 330,697 | 45.6% | 5.4% | 49.0% | H |
-| Dumont d'Urville | Janbogo | 1.67 | 341,560 | 48.0% | **0.0%** | 52.0% | – |
+| Dumont d'Urville | Janbogo | 1.67 | 341,560 *(pre-trim; the live workforce is 307,404)* | 48.0% | **0.0%** | 52.0% | – |
 | Scott | Janbogo | 1.25 | 291,102 | 41.0% | 2.9% | 56.0% | H |
 | Port Lockroy | Palmer | 1.25 | 97,218 | 41.0% | 2.9% | 56.0% | H |
 | Vostok | Mirny | 2.50 | 342,300 | 37.8% | 5.8% | 56.5% | D |
@@ -2238,7 +2238,7 @@ actual defining fact, rather than smoothed over.**
 ### Notes
 
 - **⭐ A threshold city:** sits **just north of the Antarctic Circle** — the sun never fully sets, but winter
-  days shrink to **~5 hours.**
+  days shrink to **~2.5 hours.**
 - **⭐ Robot kinship is the shared, ongoing condition of *being the last stop*** — a repeating daily rhythm
   rather than a converging settled community. **Glitch-Coolant here fits neither canon category: its variety
   is TRANSIENCE-DRIVEN**, tracking whichever traveler population is passing through in concentration.
@@ -2429,7 +2429,7 @@ Casey · Kunlun · Vostok.*
 
 ---
 
-## 24. ✅ DUMONT D'URVILLE — DETERMINED
+## 24. ✅ DUMONT D'URVILLE — DETERMINED *(2026-10-30: computed on the pre-trim population, workforce 341,560; the live workforce is 307,404 = 206,807 + 0.5 × 201,194 (census L506). Not recomputed.)*
 
 | Tier | Workers | Share |
 |---|--:|--:|
@@ -2613,7 +2613,7 @@ both masters, and the existing 25% has a real basis.**
 
 ### ⭐⭐ But the standing mandate was missing the LARGER claim entirely
 
-> **`Specs/Denison.md` L97:** ***"Confirmed 2026-07-07: Denison was a historical fabrication-synthesis chamber
+> **`Specs/Denison.md` L316:** ***"Confirmed 2026-07-07: Denison was a historical fabrication-synthesis chamber
 > manufacturer — a legitimate producer of the individual apparatus at the heart of the NATIONWIDE CRADLE
 > INFRASTRUCTURE during its LIVING SECOND INTERWAR PERIOD, lost when the city was destroyed."***
 
@@ -2636,7 +2636,7 @@ function; only the sector was open.**
 
 ### ⭐ A structural note — over half this city is spent on being there
 
-**Denison carries D = 2.00 at the windiest permanent sea-level habitation on Earth** — average ~80 km/h,
+**Denison carries D = 2.00 at the windiest permanent sea-level habitation on Earth** — average ~69 km/h (19.3 m/s),
 **gusts 300+ km/h**, near-constant katabatic. *"Home of the Blizzard."*
 
 > **Baseline 53.2%.** **More than half the workforce goes to simply existing at that address**, which is why
@@ -3537,7 +3537,7 @@ survived in the ruins — *"the only place all six subnets' histories can be rec
   - **⭐ Consequence: every overland approach ends with a final leg along Hwy 22.** *(Hwy 59 additionally
     doubles as the Arcanet cable corridor to the Pole relay — road and signal ran the same line.)*
 - **No airport** *(`Airports.md` L25)*.
-- **St. Roald (Amundsen) is venerated Federation-wide**, complementing St. Richard (Scott): ***Amundsen has
+- **St. Roald (Amundsen) is venerated Federation-wide**, complementing St. Robert (Scott): ***Amundsen has
   the Pole, Scott has the city.***
 - **⚠ Post-war, NOT an input:** **destroyed; the most significant ruins in Tepenia; the DLC 1 setting.**
   **Kendra Heinrich — robot, "goddess of war" — is the sole occupant.**

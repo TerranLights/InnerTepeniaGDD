@@ -101,7 +101,7 @@ Two districts break significantly from this pattern: **Capricorn** (the industri
 
 **Climate type:** Polar desert — East Antarctic Plateau
 **Mean annual temperature:** -52.7°C  _(READER station: Concordia; 1991–2020 WMO standard normal)_
-**Temperature range:** coldest month (August) avg −65°C; warmest month (December/January) avg −27°C
+**Temperature range:** coldest months (June/July/August) mean −64.1°C / −63.2°C / −63.3°C; warmest months (December/January) mean −30.7°C / −31.3°C
 **Record extremes:** record high **−5.4 °C** (January); record low **−84.6 °C** (August 2010) — *among the coldest temperatures ever recorded on Earth* *(researched 2026-09-04)*
 **Prevailing winds:** ⭐ **typical winter wind only ~2.8 m/s** — the Dome C plateau sits *above* the katabatic regime that scours the coast, making this the calmest city in Tepenia despite being the coldest *(researched 2026-09-04)*
 **Annual precipitation:** **~25 mm** water equivalent annually — among the driest inhabited places on Earth; the plateau receives almost no moisture-bearing air *(researched 2026-09-04; monthly distribution below remains derived)*

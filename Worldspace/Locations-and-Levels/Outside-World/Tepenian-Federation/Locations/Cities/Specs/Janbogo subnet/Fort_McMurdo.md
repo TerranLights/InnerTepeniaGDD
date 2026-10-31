@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 222,190 humans / 223,120 robots / **445,310** combined *(island cap)*
-**Census II (Orbital Era):** 173,548 humans / 164,621 robots / **338,169** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 222,190 humans / 223,120 robots / **445,310** combined
+**Census II (Orbital Era):** 173,548 humans / 164,621 robots / **338,169** combined
 
 > ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **population UNCHANGED per developer ruling.**
 > **`**Extent band:** ~55 km².`** **445,310 ÷ 55 km² = 8,097/km²** — *inside the 7,000–10,000 band.* *Was 181/km² measured against Ross Island entire.*
@@ -89,8 +89,8 @@ Scott Base — New Zealand's Antarctic station, now the Tepenian city of **Scott
 
 **Climate type:** Continental polar with Ross Sea coastal influence; significant katabatic wind component from the polar plateau
 **Mean annual temperature:** -16.2°C  _(READER station: McMurdo; 1991–2020 WMO standard normal)_
-**Temperature range:** coldest months (July/August) avg −28°C; warmest month (January) avg −3°C
-**Record extremes:** record low approximately −54°C; record high approximately +8°C (rare summer peak)
+**Temperature range:** coldest months (July/August) mean about −25°C (night low about −28 to −29°C); warmest month (December) mean about −3°C
+**Record extremes:** record low approximately −51°C (July); record high approximately +11°C (December, rare summer peak)
 **Prevailing winds:** katabatic winds from the south and southwest (off the polar plateau, channeled through McMurdo Sound); average 6–9 m/s; significant storm events; the area is also subject to strong winds off the Ross Ice Shelf
 **Annual precipitation:** **213 mm** water equivalent _(McMurdo; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
@@ -138,14 +138,14 @@ Scott Base — New Zealand's Antarctic station, now the Tepenian city of **Scott
 - **Katabatic winds:** strong and persistent, channeled down from the polar plateau through McMurdo Sound; create dangerous wind-chill conditions even at relatively moderate ambient temperatures
 - **Erebus weather effects:** Mount Erebus generates its own localized weather — ash falls during periods of heightened volcanic activity; volcanic gas plumes; occasional sulfur smell in the city during certain wind directions; the volcano is a constant atmospheric presence
 - **Sea ice dynamics:** McMurdo Sound freezes solid in winter and breaks up in summer; the sea ice road across the Sound (to the Dry Valleys and mainland) is usable only during the solid-freeze period; summer breakup opens maritime access but closes the overland crossing
-- **Polar night duration:** at ~118 days, Fort McMurdo's polar night is among the longest of any inhabited Tepenian city — roughly six weeks longer than Janbogo's; this significantly shapes the city's culture and industrial rhythms
+- **Polar night duration:** at ~116 days, Fort McMurdo's polar night is among the longest of any inhabited Tepenian city — roughly six weeks longer than Janbogo's; this significantly shapes the city's culture and industrial rhythms
 - **Ice crystals and auroras:** as with other high-latitude cities, the polar night brings spectacular Aurora Australis displays; diamond dust and ice crystal phenomena common in clear cold conditions
 
 #### Gameplay Notes
 
 - **Erebus as environmental presence:** the volcano is not just scenery — ash fall events, volcanic tremors, gas plumes, and the perpetual summit glow at night create a dynamic environmental backdrop for the DLC 6 setting; the lava lake visible from the summit (accessible by Rastra to the flanks, by foot to the crater rim) is one of the most extraordinary locations in all of Tepenia
 - **The Dry Valleys crossing:** the sea ice road across McMurdo Sound — usable only in winter during the solid-freeze period — creates a seasonal access mechanic; the Dry Valleys are only reachable overland in winter; in summer, only by sea
-- **Polar night (~118 days):** the longest polar night of any major coastal city; industrial operations would have adapted around it; ruins exploration in DLC 6 during the polar night period offers a very different atmosphere from summer
+- **Polar night (~116 days):** the longest polar night of any major coastal city; industrial operations would have adapted around it; ruins exploration in DLC 6 during the polar night period offers a very different atmosphere from summer
 - **Scale of ruins:** as the city with Tepenia's largest industrial/physical footprint, Fort McMurdo's ruins would be enormous — multiple km² of damaged and collapsed structures; significant portions may still be partially standing; the scale itself is a design asset
 - **Hardcore Mode influences:**
   - The long polar night creates the most extended period of artificial-light dependence of any coastal city; power for lighting becomes a resource concern during the ~118-day darkness

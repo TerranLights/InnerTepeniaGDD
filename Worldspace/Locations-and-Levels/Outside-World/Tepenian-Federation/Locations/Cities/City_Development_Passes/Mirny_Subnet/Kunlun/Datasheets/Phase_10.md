@@ -4,7 +4,7 @@
 > ⛔ **Excluded sections — see `Step_-1.md`.** Calethina's own character file carries substantial excluded
 > later-era content surrounding her build chain — excluded per the row below.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|

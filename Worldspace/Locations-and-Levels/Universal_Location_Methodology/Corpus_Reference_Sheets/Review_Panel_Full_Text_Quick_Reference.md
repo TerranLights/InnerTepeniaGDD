@@ -1,7 +1,7 @@
 # Review Panel — Full Text Quick Reference (Step 8 / Gate 10)
 
 > ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 8. Extracted in full from
-> `Disciplines/00f_Review_Panel.md` (832 lines), read in full 2026-09-15. **Nothing below is city-specific — it
+> `Disciplines/00f_Review_Panel.md` (834 lines; was 832 when extracted), read in full 2026-09-15. **Nothing below is city-specific — it
 > is the same panel roster and procedure for all 38 cities.** Only the actual casting and objections raised for
 > a given city are Tier C — that's Step 8's own future content, not this sheet.
 

@@ -1,6 +1,6 @@
 # Founders and Renames — Quick Reference
 
-**Tier U — identical for every city.** Extracted 2026-10-21 from: `Founding_Register.md` (95 lines) · `City_Renames_Alias_Table_2026-10-03.md` (100 lines) · the project `CLAUDE.md` (211 lines) · `DEVELOPER_RULINGS_LOG.md`. A quick reference: it copies the sources' words, it adds no finding, and it names no city's answer.
+**Tier U — identical for every city.** Extracted 2026-10-21 (§C corrected 2026-10-30 against the live Alias Table) from: `Founding_Register.md` (97 lines) · `City_Renames_Alias_Table_2026-10-03.md` (115 lines) · the project `CLAUDE.md` (212 lines) · `DEVELOPER_RULINGS_LOG.md`. A quick reference: it copies the sources' words, it adds no finding, and it names no city's answer.
 
 > ⛔ **What this sheet deliberately does NOT hold:** any city's founders. Founders are per city, and the Law of One Location says a pass reads its own row only. **A city's founders are its row in `Founding_Register.md`** (read at that row), and its datasheet (`Step_1_and_2.md`, `Phase_2.md`) copies that row.
 
@@ -60,11 +60,11 @@
 >   2026-09-07: the citation named the full statement of a binding law and gave no way to open it. Same convention
 >   already used by `Worldspace/World_History_Reference.md` and `Real-World_Basis_Extrapolation_Method.md` L111.)*
 
-## C · The eight renames — verbatim, `City_Renames_Alias_Table_2026-10-03.md`
+## C · The eight renames and the folder renames of 2026-10-23 — verbatim, `City_Renames_Alias_Table_2026-10-03.md`
 
-**Read this first if a file still says an old name** *(the table's own first line, L3)*. Files that are records, quotes or frozen inputs were deliberately left with the old names; the table is how to read them. Pass folders, megasheet folders and concept-art folders keep the old names by design.
+**Read this first if a file still says an old name** *(the table's own first line, L3)*. Files that are records, quotes or frozen inputs were deliberately left with the old names; the table is how to read them. Since 2026-10-23 the pass-record and concept-art folders of seven of the eight cities carry the NEW names (§3b, quoted after Batch 2 below); only the megasheet folders (`City_Megasheets/…`) and `Background-Lore/Cities/…` keep the old names, until the megasheets are rewritten. *(The sentence this sheet carried before 2026-10-30 — that pass folders keep the old names by design — stopped being true on 2026-10-23.)*
 
-### Batch 1 (L5–L17)
+### Batch 1 (L5–L16)
 
 > ## 1 · The four names
 >
@@ -80,7 +80,7 @@
 > **In-game use of Utstein vs Utsteinen** is not ruled; the sweep used **Utstein** everywhere.
 >
 
-### Batch 2 (L82–L100)
+### Batch 2 (L98–L115)
 
 > ## 7 · BATCH 2 (`DR-40`–`DR-43`, same day): four more names
 >
@@ -101,6 +101,24 @@
 >
 > **Open items from batch 2:** demonyms (Pergamino, Puerto Abrigo, Contrapunto, Ariun Nuur; "Sejongite" and "Vostokan/Vostokian" belonged to the old names); native-speaker checks of Chilean and Rioplatense slang for *abrigo*, *pergamino* and *contrapunto*; whether "Ariun Nuur" is written with or without a hyphen; the district's boundaries; the cities' founding and namesake text written around the old names (revisit items); Mirny's own rename ("eventually").
 >
+
+### Folder renames, 2026-10-23 — §3b (L45–L59)
+
+> ### 3b · Pass-record and concept-art folders (renamed 2026-10-23, developer-approved)
+>
+> Each pair moved with `git mv`; the 22 files inside each pass folder are unchanged except that their own path citations were re-pointed. **Records written before 2026-10-23 may still cite the old paths; use this table.** `Tools/build_pretrip.py` now keys these cities by the new folder names (`--city Santa_Luce`, etc.).
+>
+> | Old folder (under `City_Development_Passes/` and `City_Concept-Art/`) | New folder |
+> |---|---|
+> | `Halley_Subnet/Abowasa/` | `Halley_Subnet/Santa_Luce/` |
+> | `Halley_Subnet/Princess_Elisabeth/` | `Halley_Subnet/Utstein/` |
+> | `Mawson_Subnet/Sayowa/` | `Mawson_Subnet/Temirotkel/` |
+> | `Mirny_Subnet/Vostok/` | `Mirny_Subnet/Ariun_Nuur/` |
+> | `Palmer_Subnet/Juan_Carlos/` | `Palmer_Subnet/Pergamino/` |
+> | `Palmer_Subnet/Port_Lockroy/` | `Palmer_Subnet/Puerto_Abrigo/` |
+> | `Palmer_Subnet/Sejong/` | `Palmer_Subnet/Contrapunto/` |
+>
+> The megasheet folders (`City_Megasheets/...`) and `Background-Lore/Cities/...` keep their old names until the megasheets are rewritten.
 
 ## D · Names under consideration — NOT rulings
 

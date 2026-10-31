@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Halley.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 218 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 217 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Halley | `Specs/Halley.md` L1 |
 | Real-world basis | Halley Stations I–VI (UK), Brunt Ice Shelf, Coats Land, Weddell Sea (~75°35'S, 26°34'W) | `Specs/Halley.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") — subnet namesake, *not* the technical nexus *(corrected 2026-07-04 — developer vision session, see `Cities/City_Vision_Notes/Halley.md`: the subnet is named after Halley for historical/founding reasons, but the actual Arcanet relay nexus is deliberately kept at a different, more geologically stable Halley subnet city, precisely because Halley itself risks eventually calving off into the ocean. **The nexus's location was resolved the same session: it sits at Sanay**, on Vesleskarvet's stable bedrock — built there by Halley's own residents, who traveled to Sanay to do the hands-on construction labor personally, while Sanay's own residents kept running the ports and shipping lanes. This line previously still said "not yet decided," a stale leftover never updated to match the resolution already correctly written into `Specs/Sanay.md` — corrected 2026-07-13.)* | `Specs/Halley.md` L5 |

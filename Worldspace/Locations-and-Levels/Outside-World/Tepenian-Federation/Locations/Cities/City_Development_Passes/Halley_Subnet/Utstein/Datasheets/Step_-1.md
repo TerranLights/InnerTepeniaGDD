@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Utstein.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 206 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 205 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Utstein | `Specs/Utstein.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Utstein.md` L3 |
 | Real-world basis | Princess Elisabeth Antarctica (Belgium / International Polar Foundation), Utsteinen nunatak, Sør Rondane Mountains, Queen Maud Land (~71°57'S, 23°21'E) | `Specs/Utstein.md` L5 |

@@ -5,7 +5,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 
@@ -15,10 +15,15 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L18 |
 | `Access type:` | SPUR | `Specs/Scott.md` L6 |
+| Extent — declared in the spec | **~45 km²**, declared 2026-09-05, population unchanged; 386,011 ÷ 45 km² = **8,578/km²**; the spec gives 157/km² as the earlier figure, measured against Ross Island entire | `Specs/Scott.md` L18–L19 |
+| Terrain — as stated in the spec's extent block | Stands on rock; its own (geothermal) heat keeps the ground bare | `Specs/Scott.md` L21–L24 |
+| Site — as stated in the spec's extent block | Hut Point Peninsula, 3.7–5.6 km wide by 28 km long, ≈ 104–157 km² (site-derived); the peninsula is shared with Fort McMurdo | `Specs/Scott.md` L30–L38 |
+| Extent file — the city's row *(2026-09-05 snapshot; the census is live — note L631)* | Ross I. *(shared)* · 2,460 km² · 386,011 · **157/km²** · rural | `Extent_and_Density_Per_City.md` L64 |
+| Extent file — the declaration row *(2026-09-05 snapshot; the census is live — note L631)* | "DECLARED 2026-09-05" — the row is a two-city row; this city's pair is the second: **45 km² → 8,578/km²**; populations unchanged | `Extent_and_Density_Per_City.md` L509 |
 | Spec climate — climate data source | Antarctica New Zealand — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Scott.md` L81 |
-| Spec climate — climate type | Continental polar, Ross Ice Shelf exposure — the same island as Fort McMurdo, the colder side of it | `Specs/Scott.md` L92 |
+| Spec climate — climate type | Continental polar, Ross Ice Shelf exposure *(the rest of the spec's phrase compares the city with another and is not carried)* | `Specs/Scott.md` L92 |
 | Spec climate — mean annual temperature | -19.6°C  _(READER station: Scott_Base; 1991–2020 WMO standard normal)_ | `Specs/Scott.md` L93 |
-| Spec climate — record extremes | record high **+6.8 °C**; record low **−57 °C** *(researched 2026-09-04)* | `Specs/Scott.md` L94 |
+| Spec climate — record extremes | record high **+10 °C** (November); record low **−51 °C** (July) *(researched 2026-09-04)* | `Specs/Scott.md` L94 |
 | Spec climate — temperature range | coldest month (August) avg −29.5°C; warmest month (January) avg −4.6°C | `Specs/Scott.md` L95 |
 | Spec climate — prevailing winds | katabatic from the south/southwest off the Ross Ice Shelf; **blizzard mean winds 95–115 km/h, gusts to 185 km/h** *(researched 2026-09-04)* | `Specs/Scott.md` L96 |
 | Spec climate — annual precipitation | **184 mm** water equivalent _(Scott Base (1991-2020); measured monthly normals — see table)_ *(researched 2026-09-04)* | `Specs/Scott.md` L97 |
@@ -39,13 +44,13 @@
 | ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Pegasus Field \| McMurdo Station / Scott Base \| US / New Zealand \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L45 |
 | ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Phoenix Airfield \| McMurdo Station / Scott Base \| US / New Zealand \| Compacted Snow \| | `Antarctic_Stations_With_Airstrips.md` L48 |
 | ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | \| Williams Field \| McMurdo Station / Scott Base \| US / New Zealand \| Snow \| | `Antarctic_Stations_With_Airstrips.md` L69 |
-| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 45, 55 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Scott · Subnet: Janbogo · D: 1.25 · Workforce: 291,102 · base%: 41.0% · MAND%: 2.9% · FREE%: 56.0% · src: H | `16_Per_City_Three_Tier_Run.md` L247, L279 (header L247, row L279) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Scott`, `Scott Base`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8 (the index) and 55 (the station's entry) *(page 45 excluded: it names only Amundsen-Scott South Pole Station, in another station's entry)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Scott · Subnet: Janbogo · D: 1.25 · Workforce: 291,102 · base%: 41.0% · MAND%: 2.9% · FREE%: 56.0% · src: H *(`H` = Half A estimate, per the file's legend)*. **The city's own determination, §30 "SCOTT — DETERMINED", supersedes this row's MAND% / FREE%:** baseline 119,464 (41.0%) · mandated 42,910 (14.7%) · FREE 128,729 (44.2%) · distinctive tier 171,638 (59.0%); counts on the current workforce 291,103. On the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) | `16_Per_City_Three_Tier_Run.md` L247, L280 (header L247, row L280); §30 L3019–L3085 (heading L3019, tier table L3021–L3025, distinctive tier L3027); legend L244–L245 |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Scott`, `Scott Base`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Scott · **Subnet:** Janbogo · **Solar UTC:** +11 · **Status:** ✅ · **Founders:** New Zealand · **Basis:** Geography/access: zone gap 0; New Zealand's Canterbury coast is the nearest populous gateway to the Ross Sea. *(Gateway claim not yet researched.) · **Source:** `DR-34` · **Not founders:** — | `Founding_Register.md` L70 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | Shortly after the Falkland Treaty (June 21, 2564). Scott Base had been New Zealand's Antarctic presence from 1957. *(Refined 2026-07-25, GPS-purposes-only pass:* through the First Interwar Period, the station was continuously maintained by a rotating succession of national operators — which nations held it, and in what order, isn't relevant to the story. Preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point, distinct from being taught by any living institution.)* The infrastructure was modest by McMurdo's standards, but genuinely functional. New Zealand exiles settled into it and kept it modest by choice. | `Specs/Scott.md` L143 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | New Zealand exiles primarily, alongside a broader Pacific-region community. | `Specs/Scott.md` L145 |
-| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: China, USA · Significant: Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* · Notable: Philippines, Malaysia, New Zealand, Chile | `Specs/Scott.md` L42–44 |
+| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: China, USA · Significant: Japan, UK, South Korea, Canada, Indonesia, Australia · Notable: Philippines, Malaysia, New Zealand *(founding wave)*, Chile | `Specs/Scott.md` L42–44 |
 | Spec — Economy & Industry section | Present at L173–L182; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Scott.md` L173 |
 
 **Not mechanical / not included here:** the Gate 9 asymmetry audit, the inheritance classification, the shape reading, generator selection, the spine sentence, the three-generator four-quadrant capability profile — none of this exists until Scott's own pass runs.

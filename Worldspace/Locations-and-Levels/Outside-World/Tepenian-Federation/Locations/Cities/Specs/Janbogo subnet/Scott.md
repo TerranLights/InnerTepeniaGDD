@@ -40,8 +40,8 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | Philippines, Malaysia, New Zealand, Chile |
+| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia |
+| Notable | Philippines, Malaysia, New Zealand *(founding wave)*, Chile |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -83,7 +83,7 @@ The proximity to Fort McMurdo was both the defining fact of Scott's existence an
 > **⚠ Corrected 2026-09-04.** This section previously read *"essentially identical to Fort McMurdo's … see
 > `Specs/Fort_McMurdo.md` for full data"* and carried no table of its own. **The two are not identical.**
 > READER gives **Scott_Base −19.6 °C** against **McMurdo −16.2 °C** — a **3.4 °C** annual gap between
-> stations three kilometers apart, and a gap that widens to **4.6 °C in March** and **4.3 °C in August**.
+> stations three kilometers apart, and a gap that widens to **4.7 °C in May** and **4.3 °C in August**.
 > The cause is siting, not distance: Scott Base sits on the *southern*, ice-shelf side of Hut Point
 > Peninsula with the Ross Ice Shelf outflow across it, while McMurdo faces north into the Sound. **Scott is
 > the colder city, and it is colder for a reason its own geography supplies.** Full table below; the
@@ -91,7 +91,7 @@ The proximity to Fort McMurdo was both the defining fact of Scott's existence an
 
 **Climate type:** Continental polar, Ross Ice Shelf exposure — the same island as Fort McMurdo, the colder side of it
 **Mean annual temperature:** -19.6°C  _(READER station: Scott_Base; 1991–2020 WMO standard normal)_
-**Record extremes:** record high **+6.8 °C**; record low **−57 °C** *(researched 2026-09-04)*
+**Record extremes:** record high **+10 °C** (November); record low **−51 °C** (July) *(researched 2026-09-04)*
 **Temperature range:** coldest month (August) avg −29.5°C; warmest month (January) avg −4.6°C
 **Prevailing winds:** katabatic from the south/southwest off the Ross Ice Shelf; **blizzard mean winds 95–115 km/h, gusts to 185 km/h** *(researched 2026-09-04)*
 **Annual precipitation:** **184 mm** water equivalent _(Scott Base (1991-2020); measured monthly normals — see table)_ *(researched 2026-09-04)*

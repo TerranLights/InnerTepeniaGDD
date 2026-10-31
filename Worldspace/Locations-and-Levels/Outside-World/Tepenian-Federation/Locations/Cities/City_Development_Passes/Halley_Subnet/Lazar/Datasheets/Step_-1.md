@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Lazar.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 217 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 216 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Lazar | `Specs/Lazar.md` L1 |
 | Real-world basis | Two adjacent real-world sites in the Schirmacher Oasis, Queen Maud Land — Novolazarevskaya Station (Russia, continuously operated since 1961) and the Maitri Station site (originally India, but see canon note below) (~70°46'S, 11°44'E) | `Specs/Lazar.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") | `Specs/Lazar.md` L6 |

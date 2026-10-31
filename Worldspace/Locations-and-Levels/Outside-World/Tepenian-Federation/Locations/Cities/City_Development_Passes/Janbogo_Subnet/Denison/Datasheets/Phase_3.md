@@ -2,7 +2,7 @@
 
 > ⚠ **DRAFT — Tier C.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites); the Climate READER file is named in the row "Climate READER, full monthly table" (path added 2026-10-30). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -13,7 +13,7 @@
 | Snow behavior, verbatim | *"a wet place on paper and a scoured one in fact — precipitation arrives constantly and accumulates poorly, and what does land is immediately redistributed by 19 m/s wind. Snow does not pile up here; it travels. Anything built at Denison is subject not to snow load but to snow flux — a continuous horizontal river of ice crystals seeking every gap."* | `Specs/Denison.md` L256–261 |
 | Notable weather phenomena, verbatim | *"Near-constant katabatic wind: wind here doesn't fully respect season — events occur year-round, intensifying further in winter."* *"Wind-window logistics: movement, construction, and outdoor activity happen in the gaps between wind events rather than on a clean day/night or seasonal schedule."* | `Specs/Denison.md` L265–266 |
 | Notable location, verbatim | *"The exposed bedrock outcrop: the rare rock exposure that made settlement possible at all remains a literal and symbolic anchor point."* | `Specs/Denison.md` L271 |
-| Climate READER, full monthly table | See `Step_1_and_2.md` for the complete monthly-means table and precipitation regime figures | `Specs/Denison.md` L224–237 |
+| Climate READER, full monthly table | The climate file `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Denison.md` (the temperature series is taken from a neighboring real station, spec L173–192). See `Step_1_and_2.md` for the complete monthly-means table and precipitation regime figures | `Specs/Denison.md` L224–237 |
 
 **Not mechanical / not included here:** all four sensory sub-fields, the public/institutional split,
 the seam, seasonal variance, Retroactive Mechanism — none of this exists until Denison's own Phase 3

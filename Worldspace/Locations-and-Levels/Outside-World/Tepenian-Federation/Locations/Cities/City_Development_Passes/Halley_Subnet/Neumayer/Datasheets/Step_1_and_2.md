@@ -4,7 +4,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -17,7 +17,7 @@
 | Spec climate — mean annual temperature | -16.0°C  _(READER station: Neumayer; 1991–2020 WMO standard normal)_ | `Specs/Neumayer.md` L76 |
 | Spec climate — prevailing winds | strong katabatic winds; an observed case put −22 °C air at a felt temperature of **−47 °C** *(researched 2026-09-04)* | `Specs/Neumayer.md` L77 |
 | Spec climate — record extremes | record low **−50 °C** (8 July 2010) *(researched 2026-09-04)* | `Specs/Neumayer.md` L78 |
-| Spec climate — temperature range | coldest months avg −26°C; warmest month avg −4°C | `Specs/Neumayer.md` L79 |
+| Spec climate — temperature range | coldest months (July/August) mean −25.3°C / −24.6°C; warmest months (December/January) mean −4.7°C / −4.1°C *(the spec line read "avg −26°C" and "avg −4°C" until 2026-10-30, when it was restated as the table's means)* | `Specs/Neumayer.md` L79 |
 | Spec climate — polar night | approximately May 22 → Jul 23 (~63 days) | `Specs/Neumayer.md` L80 |
 | Spec climate — midnight sun | approximately Nov 16 → Jan 27 (~73 days) | `Specs/Neumayer.md` L81 |
 | Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Neumayer.md` L82 |
@@ -26,7 +26,7 @@
 | Spec climate — regime | **ICE SHELF** — *flat, exposed, heavily redistributed* | `Specs/Neumayer.md` L88 |
 | Spec climate — falls (reaches the surface) | ~396 mm/yr | `Specs/Neumayer.md` L89 |
 | Spec climate — lands (accumulates and stays) | **~257 mm/yr** *(~65% retention)* | `Specs/Neumayer.md` L90 |
-| Spec climate — lost to sublimation and wind transport | ~138 mm/yr | `Specs/Neumayer.md` L91 |
+| Spec climate — lost to sublimation and wind transport | ~139 mm/yr *(the spec said ~138 until 2026-10-30; 396 − 257 = 139)* | `Specs/Neumayer.md` L91 |
 | READER — climate authority | Alfred Wegener Institute (AWI, Germany) | `READER/Neumayer.md` L4 |
 | READER — station notes | Neumayer Station III | `READER/Neumayer.md` L5 |
 | READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Neumayer.md` L6 |
@@ -34,8 +34,10 @@
 | READER — annual mean temperature | -16.0°C | `READER/Neumayer.md` L8 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Neumayer III Skiway \| Ekström Ice Shelf \| Germany \| Ice \| | `Antarctic_Stations_With_Airstrips.md` L39 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 49, 76 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Neumayer · Subnet: Halley · D: 2.50 · Workforce: 963,060 · base%: 43.7% · MAND%: 9.4% · FREE%: 46.9% · src: D | `16_Per_City_Three_Tier_Run.md` L247, L272 (header L247, row L272) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Neumayer`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| **Extent (2026-09-05 snapshot; census is live — note L631)** | City: Neumayer · Subnet: Halley · Census I (snapshot): 1,252,080 · @10,000/km²: 125 km² · @7,000/km²: 179 km² · Site: Ekström ice shelf | `Extent_and_Density_Per_City.md` L615 (header L603; snapshot note L631) |
+| **Extent at the live Census I (computed)** | 127.6 km² @10,000/km² · 182.3 km² @7,000/km² | Computed: 1,275,997 ÷ 10,000 · 1,275,997 ÷ 7,000 (Census I, `Official_Population_Census.md` L492) |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Neumayer · Subnet: Halley · D: 2.50 · Workforce: 963,060 · base%: 43.7% · MAND%: 9.4% · FREE%: 46.9% · src: D *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16_Per_City_Three_Tier_Run.md` L1287–L1304)* *[Superseded for Neumayer: the city's own determination, `16` §1 (L481, "NEUMAYER — DETERMINED"), governs: baseline 413,123 (43.7%) · mandated 181,974 (19.3%) · FREE 350,115 (37.0%), 945,212 workers, distinctive tier 532,089 (56.3%). §1's counts are on the workforce before `DR-68` (the Half B workforce, 963,060, is the current one; `16` L1 says the determinations were not recomputed). Half B is the first-pass split.]* | `16_Per_City_Three_Tier_Run.md` L247, L273 (header L247, row L273); L481 (§1) |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Neumayer`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Neumayer · **Subnet:** Halley · **Solar UTC:** −1 · **Status:** ✅ · **Founders:** The Netherlands and Austro-Bavaria, jointly · **Basis:** Time-zone proximity: the Netherlands gap 1, Austro-Bavaria gap 2. Developer: they *"would be able to make the quickest re-upstart of the setting" · **Source:** `DR-35` · **Not founders:** — | `Founding_Register.md` L47 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Neumayer.md` L129 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | The Netherlands and Austro-Bavaria, jointly (`DR-35`), who settled and inherited the station's physical infrastructure. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Neumayer.md` L133 |

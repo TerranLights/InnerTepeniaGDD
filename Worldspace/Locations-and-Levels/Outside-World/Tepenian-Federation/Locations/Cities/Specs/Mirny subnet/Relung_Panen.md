@@ -18,7 +18,7 @@
 ## Population & Composition
 
 **Census I (Pre-Orbital Era):** 477,285 humans / 494,585 robots / **971,870** combined *(was 465,147 / 482,807 / 947,954; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 340,951 humans / 353,062 robots / **694,013** combined *(was 332,844 / 345,324 / 678,168)* *(retention 71.5%)*
+**Census II (Orbital Era):** 340,951 humans / 353,062 robots / **694,013** combined *(was 332,844 / 345,324 / 678,168)* *(retention 71.4%)*
 
 > ### ⛔⛔ THE FOUNDING RULE — **THIS CITY INHERITS NOTHING FROM ITS SOURCE ROWS.**
 > **Its population is the redistribution pool, discharged in full on 2026-09-05** *(Puerto Abrigo · Dumont
@@ -40,7 +40,7 @@
 every tier rather than to Notable alone. **Solar UTC +7; window UTC+4 … +10.** ⛔ **The only city in the corpus
 computed that way** — *justified by a fact unique to this site: no port of its own and a single overland
 approach, so distant nations are filtered rather than diluted.* **Full derivation:
-`Upper_Earth_Immigration_Composition.md` (Mirny subnet) and `../Relung_Panen/README.md` §4.**
+`Upper_Earth_Immigration_Composition.md` (Mirny subnet) and `../../Relung_Panen/README.md` §4.**
 
 > **Two results worth keeping:** ⭐ **the only Tepenian city with no Western European or American presence at
 > all** *(Germany d=6, France d=6, UK d=7, USA d=13, South Africa d=5 — all outside the window)*; and ⭐⭐ **its
@@ -108,7 +108,7 @@ its ground.**
 
 **Climate data source:** *AWS, White Smoke Lake, Bunger Hills oasis (Jan 1992 – Jul 1993) for the annual
 anchors; monthly distribution constructed against Mirny and Davis — full research record and provenance in
-`../Relung_Panen/Climate.md`*
+`../../Relung_Panen/Climate.md`*
 
 **Climate type:** **East Antarctic coastal OASIS, shelf-sealed** — *ice-free basin terrain; cut off from open
 sea by 64–145 km of ice shelf, so it carries a continental temperature range at a coastal latitude.*
@@ -212,13 +212,13 @@ than dry cold**, saturation and freeze–thaw rather than exposure and scour.*
 
 ## Character & Culture
 
-⏸️ **TBD** — *no pass run. `T2-5` records no `Local_Cultures`, `City_Vision_Notes`, `City_Enneagram_Personalities`
-or `City_Megasheets` entry for this city.*
+⏸️ **TBD** — *no pass run. Four stub files exist (2026-10-23): `Local_Cultures`, `Local_Robot_Culture`, `City_Vision_Notes` and
+`City_Enneagram_Personalities`; there is no `City_Megasheets` entry for this city.*
 
 ⭐ **What is already load-bearing and should anchor any pass:** **this is the country's breadbasket, reached
 through one door, dependent on an input Upper Earth controls.** *Phosphorus cannot be manufactured; a national
-agricultural region is where phosphorus physically lands; and so **whoever holds this city holds the food
-supply of 31.7 million people.*** **That is the most concentrated point of failure in the Federation, and it
+agricultural region is where phosphorus physically lands; and so **whoever controls that input controls what
+this city can grow.*** **That is a real point of exposure, and it
 is an equally good reason to build it and to have argued against building it.**
 
 ---
@@ -292,4 +292,4 @@ measured wind resource, off-grid.*
 - ⚠ **Coordinate reconciliation** — *this file uses 66°15'S 100°45'E; the oasis center is also cited as
   66°17'S 100°47'E. Both round to solar UTC+7, so nothing downstream changes*
 - ⚠ **Record extremes and precipitation are ESTIMATED** — *Gregorczuk 1980's monthly series would upgrade
-  them, and is obtainable by hand where tooling cannot reach it (`../Relung_Panen/Climate.md` §4)*
+  them, and is obtainable by hand where tooling cannot reach it (`../../Relung_Panen/Climate.md` §4)*

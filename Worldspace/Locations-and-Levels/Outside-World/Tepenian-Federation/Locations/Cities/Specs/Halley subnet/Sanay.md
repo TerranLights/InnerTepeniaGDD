@@ -75,7 +75,7 @@ The position is inland from the coast — the Weddell Sea is accessible but not 
 **Climate type:** Queen Maud Land nunatak — elevated position above the surrounding ice sheet; continental influence stronger than coastal cities; katabatic winds channeled by the nunatak terrain; cold, dry winters
 **Mean annual temperature:** approximately −16°C *(measured: the average of the twelve monthly means, −16.2 °C; corrected 2026-10-28 from "approximately −20°C", an assumed stub figure)*
 **Prevailing winds:** **dominant easterly**; annual mean **~11 m/s**, with recorded gusts to **61.9 m/s (223 km/h)** *(researched 2026-09-04)*
-**Record extremes:** mean summer air temperature **−8.3 °C**; mean winter **−21.8 °C** *(researched 2026-09-04)*
+**Mean summer and winter temperatures:** mean summer air temperature **−8.3 °C**; mean winter **−21.8 °C** *(researched 2026-09-04)*
 **Temperature range:** coldest months avg −23°C; warmest month avg −7°C *(measured; corrected 2026-10-28)*
 **Polar night:** approximately May 18 → Jul 28 (~72 days)
 **Midnight sun:** approximately Nov 12 → Jan 31 (~81 days)
@@ -85,13 +85,13 @@ The position is inland from the coast — the Weddell Sea is accessible but not 
 
 #### ⭐ Precipitation regime — what falls vs what lands
 
-**Regime:** **ICE SHELF** — *flat, exposed, heavily redistributed*
+**Regime:** **ICE SHEET** (inland, around a bedrock nunatak) — *flat, exposed, heavily redistributed*
 **Falls (reaches the surface):** ~200 mm/yr
 **Lands (accumulates and stays):** **~130 mm/yr** *(~65% retention)*
 **Lost to sublimation and wind transport:** ~70 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **BOTH — and wind is the sharper of the two.** At an annual mean of about **−16 °C** *(measured, SANAE AWS; corrected 2026-10-28 from "-20.0 °C", the stub's assumed figure; the cross-city rank is dropped under the law of one location)*, the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**mean wind 11.0 m/s**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous, and the surface itself moves with the shelf.**
+> ⚠ **BOTH — and wind is the sharper of the two.** At an annual mean of about **−16 °C** *(measured, SANAE AWS; corrected 2026-10-28 from "-20.0 °C", the stub's assumed figure; the cross-city rank is dropped under the law of one location)*, the defining feature is **flat, unobstructed exposure** with no terrain to break the flow (**mean wind 11.0 m/s**). **Retention ~65%**: substantial snow arrives and a third of it leaves again. **Drift management is continuous: the snow around the rock is redistributed all the time, but the rock itself does not move.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

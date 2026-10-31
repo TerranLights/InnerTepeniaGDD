@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Byrd subnet/Byrd.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 330 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 329 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Byrd | `Specs/Byrd.md` L1 |
 | Real-world basis | Byrd Station (USA), Marie Byrd Land, West Antarctica (~80°01'S, 119°31'W) | `Specs/Byrd.md` L49 |
 | Arcanet Subnet | Byrd ("Pacific") — subnet hub | `Specs/Byrd.md` L51 |

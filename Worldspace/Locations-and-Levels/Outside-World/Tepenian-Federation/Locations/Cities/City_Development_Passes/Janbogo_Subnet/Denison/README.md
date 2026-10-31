@@ -1,7 +1,7 @@
 # Denison — development pass
 
-**Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
-run — never pre-created.*
+**Folder opened 2026-09-05.** *Files appear here **one at a time**, as each piece is run. On 2026-10-30 it holds the Pre-Trip,
+the Position-Coverage ledger and the 19 datasheets (inputs, not output); the pass's own output files do not exist yet.*
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result

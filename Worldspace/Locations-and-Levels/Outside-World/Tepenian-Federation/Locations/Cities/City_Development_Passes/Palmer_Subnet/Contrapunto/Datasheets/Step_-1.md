@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Contrapunto.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 190 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 189 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Contrapunto | `Specs/Contrapunto.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Contrapunto.md` L3 |
 | Real-world basis | King Sejong Station (South Korea / KOPRI), King George Island (Isla 25 de Mayo), South Shetland Islands (~62°13'S, 58°47'W) | `Specs/Contrapunto.md` L5 |

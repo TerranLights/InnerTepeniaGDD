@@ -1,5 +1,7 @@
 # Mirny — Datasheet · Step 8 (The Review Panel)
 
+> ⚙ **Pass run: this sheet is the pre-run record.** Wording below such as "has NOT started" or "none of this exists until Mirny's own … actually runs" speaks from before the pass and is kept as written.
+
 > ⚠ **DRAFT — Tier U.** Full operative text — every panel, every question, the casting table, the six 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > dispositions, and the output-block template — is pasted in full at
 > ⭐ `Corpus_Reference_Sheets/Review_Panel_Full_Text_Quick_Reference.md`. The index below is kept here too,

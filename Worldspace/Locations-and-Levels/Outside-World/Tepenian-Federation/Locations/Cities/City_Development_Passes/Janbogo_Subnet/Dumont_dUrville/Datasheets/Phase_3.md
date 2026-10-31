@@ -7,7 +7,7 @@
 > the source state later-era conditions and are excluded per the standing default-scope rule, not quoted,
 > described, or summarized.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-10-23:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites); the climate file got a row on 2026-10-30. Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -22,6 +22,7 @@
 | The channel crossing, stated directly | *"the route between Petrel Island and the continental coast, approximately 5km across; in winter, crossable on sea ice; in summer, by boat; the crossing is the main entry point to the city"* | `Specs/Dumont_dUrville.md` L194 |
 | Downtown / spatial-economics texture, developer vision, stated directly | *"A tight, bustling, spatially stratified city. The downtown core on Petrel Island proper is dense, expensive, and genuinely alive... Dedicated heating units run between buildings downtown, not just inside them, keeping the spaces between structures livable against the wind. Live music inside almost every eatery is an ordinary, expected feature of downtown life — described by the developer as 'New Orleans scaled down to 1/20th the size'... The bridge to the mainland is the island's most visually prominent feature outside downtown itself, and the city's spatial economics run outward from it: expensive downtown → cheaper residential territory on the far side of the bridge → the highway network beyond that."* | `Specs/Dumont_dUrville.md` L180 |
 | ⚠ Internal tension flagged, not resolved | The passage above treats the mainland bridge as an established fact of the city's spatial layout, while the source's own "Notable Locations" section explicitly marks "permanent bridge vs. seasonal crossing" as an **open question, NOT yet resolved** (engineering feasibility genuinely undetermined) — both passages are directly quoted from the same source; this datasheet records the conflict rather than resolving it | `Specs/Dumont_dUrville.md` L180 vs. L196 |
+| Climate file | The climate file `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Dumont_dUrville.md` (its header spells the station key `Dumont_Durville`); the full monthly table is in `Step_1_and_2.md`; not duplicated here | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Dumont_dUrville.md` |
 
 **Not mechanical / not included here:** the four sensory sub-fields worked as this phase's own synthesis
 (sound/smell/feel/first impressions, distinct from each other), the public/institutional split, the seam

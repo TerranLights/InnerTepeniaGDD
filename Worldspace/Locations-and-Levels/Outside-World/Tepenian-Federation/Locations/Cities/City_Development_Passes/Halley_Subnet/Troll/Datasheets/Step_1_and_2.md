@@ -5,7 +5,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 
@@ -33,8 +33,9 @@
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Troll Airfield \| Troll Station \| Norway \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L65 |
 | ↳ `Antarctic_Stations_With_Airstrips.md` — lines naming the city | *[commentary line in the source, not a table row; not copied, line number recorded only]* | `Antarctic_Stations_With_Airstrips.md` L98 |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 56 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Troll · Subnet: Halley · D: 1.43 · Workforce: 734,436 · base%: 44.4% · MAND%: 16.7% · FREE%: 38.9% · src: C | `16_Per_City_Three_Tier_Run.md` L247, L262 (header L247, row L262) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Troll`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Troll · Subnet: Halley · D: 1.43 · Workforce: 734,436 · base%: 44.4% · MAND%: 16.7% · FREE%: 38.9% · src: C — on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) *[The city's own determination, `16` §6 (L761, "TROLL — DETERMINED (provisionally — Option A, flagged for review)"), gives the same shares as Half B: baseline 318,227 (44.4%) · mandated 119,509 (16.7%) · FREE 278,854 (38.9%), 716,590 workers, on the population before `DR-68` (the Half B workforce is the current one; `16` L1 says the determinations were not recomputed). §6 is provisional.]* | `16_Per_City_Three_Tier_Run.md` L247, L263 (header L247, row L263); L761 (§6) |
+| Extent — Troll's row in the required-area table *(the table is the 2026-09-05 snapshot; the census is live — note L631)* | Troll · Census I 954,450 · required area **95 km²** at 10,000/km² · **136 km²** at 7,000/km² · site: Jutulsessen. The same arithmetic at the live Census I 978,366: 97.8 km² at 10,000/km² · 139.8 km² at 7,000/km² | `Extent_and_Density_Per_City.md` L623 (table header L603; snapshot note L631) · live figures computed from `Official_Population_Census.md` L501: 978,366÷10,000 · 978,366÷7,000 |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Troll`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Troll · **Subnet:** Halley · **Solar UTC:** 0 · **Status:** ✅ · **Founders:** Norway · **Basis:** Near-perfect time-zone alignment · **Source:** `DR-22` · **Not founders:** — | `Founding_Register.md` L48 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Troll.md` L129 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | Norwegian exiles, who inherited the physical station and later learned and embraced its historical associations — Queen Maud Land's 1939 territorial claim, Amundsen's expeditions through this landscape — as their own chosen heritage, not as something handed to them by a still-functioning institution. | `Specs/Troll.md` L131 |

@@ -411,7 +411,7 @@ made.
    a city built on a floating shelf, which should carry the opposite penalty.
 
 2. **⚠ DENISON'S WIND IS BADLY UNDER-SCORED.** Cape Denison, Commonwealth Bay is **the windiest place on Earth
-   at sea level** — Mawson's *"Home of the Blizzard,"* mean annual winds around 22 m/s with gusts far beyond.
+   at sea level** — Mawson's *"Home of the Blizzard,"* mean annual winds about 19.3 m/s with gusts far beyond.
    The pilot's highest wind multiplier was **Casey at 1.45 for 7–10 m/s.** **Denison should sit at the corpus
    maximum, roughly 2.0**, and its §15's unusual `Structural/wind engineering: ~25%` is not an eccentricity —
    **it is the correct response to a real place, and the model must be able to reproduce it.**

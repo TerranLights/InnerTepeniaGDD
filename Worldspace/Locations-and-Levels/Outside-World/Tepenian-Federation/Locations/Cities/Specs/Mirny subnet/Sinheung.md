@@ -1,7 +1,7 @@
 # Sinheung
 
 **Based on:** Progress Station (built by Russia / Arctic and Antarctic Research Institute — physical infrastructure only, a GPS fact; see Founding, below, for the city's actual founding population), Larsemann Hills, Prydz Bay (~69°22'S, 76°22'E)
-**Tepenian name:** **Sinheung (신흥, 新興 — "newly rising/emerging")** — officially named 2026-07-14, selected from the candidate list built 2026-07-07/08 (see below, kept as an archived record). "Sinheung," the old working label tied to the physical station's Russian namesake, was never a name the city's founders chose and is now fully retired.
+**Tepenian name:** **Sinheung (신흥, 新興 — "newly rising/emerging")** — officially named 2026-07-14, selected from the candidate list built 2026-07-07/08 (see below, kept as an archived record). "Soyuz," the old working label tied to the physical station's Russian namesake, was never a name the city's founders chose and is now fully retired.
 **Status:** Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — Sinheung and Zhongshan sit at effectively identical real-world coordinates (69°22'S, 76°22'E), only a few hundred meters apart in reality; one being destroyed while the other was merely damaged made no physical sense. Resolved alongside Zhongshan and Shirayuki as all three "damaged, yet functional" — see the Larsemann Hills Cluster Status Note below.)*
 **Arcanet Subnet:** Mirny *(corrected 2026-07-05 — the developer determined real-world geography places the Larsemann Hills cluster, ~110km from Davis, much closer to the Mirny subnet's own Prydz Bay anchor than to Mawson Station (~570km away); Sinheung and Shirayuki move to Mirny to join Zhongshan, already assigned there. See `TODO.md` for the full reasoning. Highway network implications for Hwy 4/Hwy 110 not yet resolved — flagged separately.)*
 **Access type:** ON
@@ -125,7 +125,7 @@ Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 �
 
 ### Annual Climate
 
-**Climate data source:** Based on Progress Station (AARI, Russia) — not in READER surface list; climate data via AARI
+**Climate data source:** the monthly Mean column is the BAS READER `Zhongshan` surface series, 1991–2020 (replaced 2026-10-21; see the column provenance note below); Progress Station (AARI, Russia) is the site's real-world basis
 
 **Climate type:** East Antarctic coastal oasis — Prydz Bay influence; ice-free terrain microclimate (slightly warmer than surrounding ice sheet in summer); cold continental winters; Larsemann Hills moderating effect
 **Mean annual temperature:** approximately −10°C

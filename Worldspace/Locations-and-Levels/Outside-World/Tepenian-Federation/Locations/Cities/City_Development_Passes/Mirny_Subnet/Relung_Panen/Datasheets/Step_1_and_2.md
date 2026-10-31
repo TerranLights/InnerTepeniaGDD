@@ -4,35 +4,37 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-29:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **5 of 6** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites). **Not covered:** the Climate `READER/` folder (the row "Climate source" records the lookup result in words, with no path).
 
 
 | Category | Value | Citation |
 |---|---|---|
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **0 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-29) |
 | `Access type:` | SPUR | `Specs/Relung_Panen.md` L11 |
-| Spec climate — climate data source | *AWS, White Smoke Lake, Bunger Hills oasis (Jan 1992 – Jul 1993) for the annual | `Specs/Relung_Panen.md` L109 |
-| Spec climate — climate type | **East Antarctic coastal OASIS, shelf-sealed** — *ice-free basin terrain; cut off from open | `Specs/Relung_Panen.md` L113 |
+| Spec climate — climate data source | *AWS, White Smoke Lake, Bunger Hills oasis (Jan 1992 – Jul 1993) for the annual anchors; monthly distribution constructed against [two other cities named in the source: not copied] — full research record and provenance in `../../Relung_Panen/Climate.md`* *(link corrected in the source 2026-10-30)* | `Specs/Relung_Panen.md` L109–L111 |
+| Spec climate — climate type | **East Antarctic coastal OASIS, shelf-sealed** — *ice-free basin terrain; cut off from open sea by 64–145 km of ice shelf, so it carries a continental temperature range at a coastal latitude.* | `Specs/Relung_Panen.md` L113–L114 |
 | Spec climate — mean annual temperature | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L116 |
 | Spec climate — prevailing winds | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L117 |
 | Spec climate — record extremes | ⚠ **ESTIMATED — record high approximately +12 °C; record low approximately −39 °C** | `Specs/Relung_Panen.md` L121 |
 | Spec climate — temperature range | coldest month **−18.7 °C**; warmest month **+0.6 °C**; **annual amplitude 19.3 K** | `Specs/Relung_Panen.md` L123 |
 | Spec climate — polar night | ⛔ **none** — *at 66°15'S the sun rises every day of the year; the June minimum is ~2.7 h* | `Specs/Relung_Panen.md` L125 |
-| Spec climate — midnight sun | ⚠ **in minimal form only** — *the site lies **18 arcmin NORTH of the Antarctic Circle**, so | `Specs/Relung_Panen.md` L126 |
+| Spec climate — midnight sun | ⚠ **in minimal form only** — *the site lies **18 arcmin NORTH of the Antarctic Circle**, so geometrically it gets none; with atmospheric refraction and the sun's upper limb the December disc does not quite set for a few days around the solstice* | `Specs/Relung_Panen.md` L126–L128 |
 | Spec climate — winter solstice daylight minimum | approximately **2.7 hours** | `Specs/Relung_Panen.md` L129 |
 | Spec climate — summer solstice daylight maximum | approximately **24 hours** *(refracted; ~22.4 h geometric)* | `Specs/Relung_Panen.md` L130 |
-| Spec climate — annual precipitation | ⚠ **~92 mm water equivalent — ESTIMATED**, anchored between Davis's measured 72.8 mm | `Specs/Relung_Panen.md` L131 |
+| Spec climate — annual precipitation | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L131 |
 | Spec climate — regime | **POLAR ARID (oasis)** — *dry, and what falls is largely redistributed rather than retained* | `Specs/Relung_Panen.md` L137 |
 | Spec climate — falls (reaches the surface) | ~92 mm/yr | `Specs/Relung_Panen.md` L138 |
 | Spec climate — lands (accumulates and stays) | **~60 mm/yr** *(~65% retention)* | `Specs/Relung_Panen.md` L139 |
 | Spec climate — lost to sublimation and wind transport | ~32 mm/yr | `Specs/Relung_Panen.md` L140 |
-| Spec climate — hardcore mode influences | ⏸️ **TBD** — *but the distinctive axis is already visible: **wet cold rather | `Specs/Relung_Panen.md` L189 |
+| Spec climate — hardcore mode influences | ⏸️ **TBD** — *but the distinctive axis is already visible: **wet cold rather than dry cold**, saturation and freeze–thaw rather than exposure and scour.* | `Specs/Relung_Panen.md` L189–L190 |
 | Climate source | No BAS READER station exists at this coordinate; the city's own `Climate.md` is the climate file (its §4 records the sources tried) | `Climate.md` L1 |
 | ⚠ Second station record — the Oasis station, 1956–58 (a different record from the White Smoke Lake AWS above) | Mean annual air temperature is −9.0 °C. Monthly means are above 0 °C only in December (+1.7 °C) and January (+1.8 °C). | `Relung_Panen_Soil_Research_2026-10-25_E_Oasis_Ground_Water_and_Light.md` L26 |
 | ↳ Oasis station, 1956–58 — precipitation | Precipitation is 204 mm a year from an uncorrected gauge, which the source says overstates the true amount. Potential evaporation is 450–600 mm a year. | `Relung_Panen_Soil_Research_2026-10-25_E_Oasis_Ground_Water_and_Light.md` L27 |
 | ↳ Oasis station, 1956–58 — wind | Relative humidity averages 56%. Mean wind speed is 6.8 m/s; on 122 days a year the wind reaches 15 m/s or more, and the peak recorded speed is 56 m/s. | `Relung_Panen_Soil_Research_2026-10-25_E_Oasis_Ground_Water_and_Light.md` L28 |
-| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 100-line file | `Antarctic_Stations_With_Airstrips.md` |
+| `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 99-line file | `Antarctic_Stations_With_Airstrips.md` |
 | `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 68 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
+| Extent band (as stated in the spec; the sentence's comparison with other places is not copied) | **~450 km²** — the ice-free oasis; up to **942 km²** including marine areas · density **2,160/km²** *(971,870 ÷ 450 = 2,159.7)* | `Specs/Relung_Panen.md` L30–L31 |
+| Extent record — `Extent_and_Density_Per_City.md` §11 (**2026-09-05 snapshot; the census is live — note L631**) | §11 heading at L642; "2,107/km² on the oasis's 450 km² of ice-free rock" *(on the 2026-09-05 founding population of 947,954; 947,954 ÷ 450 = 2,106.6)* — the rest of that sentence compares the city with other places: not copied | `Extent_and_Density_Per_City.md` L642, L660 (snapshot note L631) |
 | Climate.md — measured anchor: Mean annual air temperature | −11.2 °C *(AWS, White Smoke Lake, Jan 1992 – Jul 1993)* | `Climate.md` L20 |
 | Climate.md — measured anchor: Mean wind speed | 4.6 m/s *(same)* | `Climate.md` L21 |
 | Climate.md — measured anchor: Mean annual solar flux | 115 W/m² *(same)* | `Climate.md` L22 |
@@ -41,8 +43,8 @@
 | Climate.md — measured anchor: Prevailing wind | ⭐ EASTERLY, and described as fierce *(oasis climatology literature)* | `Climate.md` L25 |
 | Climate.md — measured anchor: Summer peak days | can exceed +10 °C *(same)* | `Climate.md` L26 |
 | Climate.md — monthly mean temperature (°C), **CONSTRUCTED, not measured** | Jan +0.6 · Feb −2.1 · Mar −9.4 · Apr −14.9 · May −17.3 · Jun −17.2 · Jul −18.1 · Aug −18.7 · Sep −17.7 · Oct −13.7 · Nov −5.7 · Dec −0.0 *(built from the measured annual anchors; the file records an independent check against measured freezing degree-days)* | `Climate.md` L101, L114 |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Relung Panen · Subnet: Mirny · D: 1.43 · Workforce: 733,228 · base%: 43.9% · MAND%: 21.3% · FREE%: 34.8% · src: R | `16_Per_City_Three_Tier_Run.md` L247, L258 (header L247, row L258) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Relung Panen · Subnet: Mirny · D: 1.43 · Workforce: 733,228 · base%: 43.9% · MAND%: 21.3% · FREE%: 34.8%\* · src: R — the `*` means **before the cold-chain logistics share, which is still pending** (`16` L289: "the free tier will fall by that share") *(on the flat ABCC working value; counts re-run when per-city ABCC values are set)* | `16_Per_City_Three_Tier_Run.md` L247, L258 (header L247, row L258); asterisk note L289; ABCC working value L1287–L1304 |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Relung Panen`, `Bunger Hills City`, `Bunger Hills`, `Bunger Hills oasis`, `Knox Coast`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Relung Panen · **Subnet:** Mirny · **Solar UTC:** +7 · **Status:** ✅ · **Founders:** Indonesia and Malaysia, jointly. Indonesia led the founding as a state, with Malaysia in support** (`DR-61`) · **Basis:** Time-zone proximity: gap 0 each; a Southeast-Asian maritime pair whose open-water run crosses the Indian Ocean on the site's meridians. *(Gateway claim not yet researched.) · **Source:** `DR-34`, `DR-61` · **Not founders:** — | `Founding_Register.md` L65 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | Some time shortly after the signing of the Falkland Treaty (2564) *(`DR-61`, 2026-10-26)*. **Indonesia, as a state, led the founding; Malaysia supported** *(founders Indonesia and Malaysia, jointly, `DR-34`; roles `DR-61`)*. Seed stock, livestock and equipment came primarily from Southeast Asia and, to a lesser extent, from Australia. **There was no pre-existing farmland or soil; the founders had to establish their own.** ⏸️ *Still open: how the settlement began (it depends on the port, still open), why, and the founding composition (TBD, decided on this city's own terms).* | `Specs/Relung_Panen.md` L196 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | Indonesia and Malaysia, jointly (`DR-34`); **Indonesia led, Malaysia supported** (`DR-61`, added 2026-10-28). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Relung_Panen.md` L197 |

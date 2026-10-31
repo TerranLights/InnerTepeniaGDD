@@ -1,8 +1,8 @@
 # Division of Industry — RELIABILITY & CITATION GATE · Quick Reference
 
 > **Tier U — identical for every city.** Extracted 2026-09-16 from
-> `…/Cities/Division_of_Industry/README.md` *(223 lines)* and
-> `…/Cities/Division_of_Industry/10_Validation_Findings_2026-09-01.md` *(483 lines)*.
+> `…/Cities/Division_of_Industry/README.md` *(227 lines; was 223 when extracted)* and
+> `…/Cities/Division_of_Industry/10_Validation_Findings_2026-09-01.md` *(486 lines; was 483 when extracted)*.
 > ⛔ **Single-reader; NOT yet T8-verified.** *Queued for the post-15:00 audit.*
 
 > ## ⛔⛔⛔ WHY THIS SHEET EXISTS
@@ -41,6 +41,7 @@
 | **The freedom margin** | ✅ **RELIABLE** | ⚠ **But see §5 — the DISTRIBUTIONAL reading of it is `DR-4`-blocked and cross-city** |
 | **The other 21 industries** | ✅ **RELIABLE** | ⚠ **C6, C7, C8 and D4 rates are ESTIMATED, not sourced** |
 | ⭐ **A city's own §15 sector shares, AND the headcount they yield** | ✅ **RELIABLE AND CITABLE** | ⭐⭐ **Under `16`'s convention — see §3. *The SECTOR SIZE is not blocked.*** e.g. *"agriculture = 35% of the distinctive tier = N workers"* is a governing figure |
+| ⭐ **`16` Half B's MAND% / FREE% split** | ✅ **CITABLE AS THE FIRST-PASS SPLIT ONLY** *(written 2026-09-02)* | **The city's own "DETERMINED" section of `16` (upper-case heading, §1 … §35) supersedes it — quote both and say which governs. A case-sensitive name search misses that heading.** |
 | ⛔⛔ **Any EXPORT or DEFICIT headcount** | ⛔ **NOT CITABLE — but not for the reason `README` gives** | ⭐ **See §2a. The denominator is settled; the OWN-NEED SUBTRACTION is not** |
 | ⛔⛔ **"Feeds N people" · "supplies X% of the country"** | ⛔ **NOT CITABLE — fails twice over** | **See §2a.3** |
 | ⛔ **The national food balance · the B1 rate as `53` · `README`'s "First results" block** | ⛔ **WITHDRAWN** | **`53` has no independent derivation — it is a SUPPLY figure inverted into a DEMAND rate and compared back against its own source** |
@@ -128,7 +129,7 @@ figure is not citable in a city pass, even where a canon file states it.**
 
 ---
 
-# 6 · 📂 READ ORDER — `README.md` L25–44, for when a phase genuinely needs the folder
+# 6 · 📂 READ ORDER — `README.md` L30–49 (heading "Read in this order"; was L25–44), for when a phase genuinely needs the folder
 
 | File | What it is |
 |---|---|

@@ -14,7 +14,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Janbogo subnet/Dumont_dUrville.md` — confirmed on disk at the current path | Re-verified this turn |
-| Specs file length | 256 lines total (bound for any future read-spec computation) | Re-verified this turn |
+| Specs file length | 255 lines total (bound for any future read-spec computation) | Re-verified this turn |
 | Identity / designation | Dumont d'Urville | `Specs/Dumont_dUrville.md` L1 |
 | Real-world basis | Dumont d'Urville Station (France), Petrel Island, Géologie Archipelago, Adélie Land, East Antarctica | `Specs/Dumont_dUrville.md` L3 |
 | Coordinates | ~66°40′S, 140°01′E | `Specs/Dumont_dUrville.md` L3 |
@@ -29,7 +29,15 @@
 | Island-cap status | Explicitly **not** island-capped — the census annotation removing this label is stated directly in the source | `Specs/Dumont_dUrville.md` L22 |
 | Census I (repeat here, full derivation in `Step_0.md`) | 201,194 H / 206,807 R / **408,001** combined | `Specs/Dumont_dUrville.md` L15; cross-verified against `Official_Population_Census.md` L506 — **exact match, no discrepancy** |
 | Census II | 121,170 H / 159,635 R / **280,805** combined | `Specs/Dumont_dUrville.md` L16; cross-verified against `Official_Population_Census.md` L630 — **exact match** |
-| Population-trim note (bookkeeping fact, not a synthesis) | Population figures reflect a 2026-09-05 developer-ruled 10% trim from prior working figures (was 223,549 H+R I / 453,334 combined); H/R ratio and Census II retention stated as preserved | `Specs/Dumont_dUrville.md` L42–44; cross-verified against `Official_Population_Census.md` L506, L630 |
+| Population-trim note (bookkeeping fact, not a synthesis) | Population figures reflect a 2026-09-05 developer-ruled 10% trim from prior working figures (was 223,549 H / 229,785 R / 453,334 combined); H/R ratio and Census II retention stated as preserved | `Specs/Dumont_dUrville.md` L42–44; cross-verified against `Official_Population_Census.md` L506, L630 |
+| Census overflow row, Census I (the trim's held balance) | 22,355 H / 22,978 R / **45,333** combined; the row's status cell reads ⏸️ HELD — unassigned | `Official_Population_Census.md` L715 (§D-OVERFLOW, heading L693) |
+| Census overflow row, Census II | 13,464 H / 17,737 R / **31,201** combined; the row's status cell reads ⏸️ HELD — unassigned | `Official_Population_Census.md` L716 |
+| Later-era spec section — `## Connection to Concordia` | **Line range only.** The section states later-era conditions: **excluded, not quoted or described**, per the standing default-scope rule | `Specs/Dumont_dUrville.md` L221–225 |
+| Later-era clause — `## Notable Figures` | **Line range only.** The last clause of the Pink Lucy line states a later-era condition: **excluded, not quoted or described**, per the standing default-scope rule (added 2026-10-30) | `Specs/Dumont_dUrville.md` L217 |
+| Later-era questions — `## Open Questions` | **Line range only.** This section carries later-era questions: **excluded, not quoted or described**, per the standing default-scope rule (added 2026-10-30) | `Specs/Dumont_dUrville.md` L247–255 |
+| Later-era spec section — `## Current Status / Damage` | **Line range only.** Excluded, same rule | `Specs/Dumont_dUrville.md` L229–235 |
+| Later-era spec section — `## Legacy` | **Line range only.** Excluded, same rule | `Specs/Dumont_dUrville.md` L239–243 |
+| Vision-notes file (path and length only) | `City_Vision_Notes/Dumont_dUrville.md` — 34 lines (`wc -l`, 2026-10-30). ⛔ Not an input at any step (Pre-Trip §F; `DR-10`); **not opened** | `City_Vision_Notes/Dumont_dUrville.md` (path only) |
 
 **Not mechanical / not included here:** the admitted read-range (Step −1's own derivation), the four-category
 classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

@@ -1,6 +1,6 @@
 # Phase 7 — Corporation Roster and Model Files — Quick Reference
 
-**Tier U — identical for every city.** Extracted 2026-10-21 from: `TepenianUniverseTimeline/Megacorps/` · `Division_of_Industry/01_Burden_Scoring_Model.md` (311 lines) · `Division_of_Industry/08_Volume_Based_Requirement_Reference.md` (776 lines) · `Reference/Real-World/Industry_Staffing_and_Productivity/` · `Reference/Real-World/jobs_professions_and_fields/`. A quick reference: it copies the sources' words, it adds no finding, and it names no city's answer.
+**Tier U — identical for every city.** Extracted 2026-10-21 from: `TepenianUniverseTimeline/Megacorps/` · `Division_of_Industry/01_Burden_Scoring_Model.md` (310 lines) · `Division_of_Industry/08_Volume_Based_Requirement_Reference.md` (775 lines) · `Reference/Real-World/Industry_Staffing_and_Productivity/` · `Reference/Real-World/jobs_professions_and_fields/`. A quick reference: it copies the sources' words, it adds no finding, and it names no city's answer.
 
 > ⚠⚠ **PRELIMINARY AND RUDIMENTARY — a first draft, at the developer's direction (2026-10-21).** The corporations have not really been worked out yet, so the roster below is only what the folder says today. **This sheet is an index with line numbers and the sources' own header words. It summarizes nothing and decides nothing.** The citation gate on food and industry figures lives in `Division_of_Industry_Reliability_Quick_Reference.md`; read it before citing any figure from the model files.
 
@@ -15,7 +15,7 @@
 
 **What the folder does not say — open, not absent:** the top-level README states the era of these corporations as the First Interwar Period (L3); **it does not say whether either corporation exists in the Second Interwar default frame**, how large or what they make, or which cities they touch; the third roster slot is `[TBD]`. Treat all of that as undeveloped.
 
-## B1 · `01_Burden_Scoring_Model.md` — 311 lines
+## B1 · `01_Burden_Scoring_Model.md` — 310 lines
 
 Built 2026-09-01 (L3). Its own banner (L6–L8) calls it an INSTANCE, not a method: nothing in it generalizes beyond the Tepenian city set. **Section 0 (L15–L36) is the period-scope box — read it first.**
 
@@ -38,7 +38,7 @@ Built 2026-09-01 (L3). Its own banner (L6–L8) calls it an INSTANCE, not a meth
 | L278 | ## The pilot, and its falsification test — declared in advance |
 | L303 | # 9. Honest status |
 
-## B2 · `08_Volume_Based_Requirement_Reference.md` — 776 lines
+## B2 · `08_Volume_Based_Requirement_Reference.md` — 775 lines
 
 Its own banner (L3–L5) calls it the developer-specified method of 2026-09-01 that supersedes both earlier sizing attempts; L5: basis Census I, period Second Interwar.
 

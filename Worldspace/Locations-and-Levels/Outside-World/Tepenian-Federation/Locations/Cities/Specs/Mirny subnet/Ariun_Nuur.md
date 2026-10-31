@@ -46,7 +46,7 @@
 
 ## Geographic Basis
 
-Ariun Nuur sits near the Southern Pole of Inaccessibility — the point on the Antarctic continent furthest from any coast — on the East Antarctic Plateau at 3,488 meters elevation. It is approximately 1,260 kilometers from Mirny on the coast. There are no highways, no coastal access, no neighboring cities. The nearest anything is a very long way away.
+Ariun Nuur sits near the Southern Pole of Inaccessibility — the point on the Antarctic continent furthest from any coast — on the East Antarctic Plateau at 3,488 meters elevation. It is approximately 1,260 kilometers from Mirny on the coast. There is no coastal access; Hwy 37, the only highway, runs through it, and the nearest city, Kunlun, is a very long way away.
 
 The East Antarctic Plateau at Ariun Nuur's location is flat, featureless, and among the most hostile environments on Earth's surface. The record low temperature of −89.2°C, recorded here on July 21, 1983, is the lowest air temperature ever measured at a surface station on the planet. That record was set before the exile era and remains unbroken. No city in Tepenia is colder.
 
@@ -60,7 +60,7 @@ What makes Ariun Nuur more than simply the coldest and most isolated place in an
 
 **Climate type:** East Antarctic Plateau polar desert — the most extreme version of the continental polar type; the coldest mean annual temperature of any Tepenian city
 **Mean annual temperature:** -54.8°C  _(READER station: Ariun Nuur; 1991–2020 WMO standard normal)_
-**Temperature range:** coldest months (July/August) avg −66°C; warmest month (December/January) avg −28°C
+**Temperature range:** coldest months (July/August) mean −65.9°C / −66.9°C; warmest months (December/January) mean −31.3°C / −31.9°C
 **Record extremes:** record high **−14.0 °C**; record low **−89.2 °C** — *the lowest reliably measured natural temperature on Earth* *(researched 2026-09-04)*
 **Prevailing winds:** average **~5 m/s**, rising to **27 m/s** in the strongest events — light by Antarctic coastal standards *(researched 2026-09-04)*
 **Annual precipitation:** **22 mm** water equivalent _(Ariun Nuur; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
@@ -70,10 +70,10 @@ What makes Ariun Nuur more than simply the coldest and most isolated place in an
 **Regime:** **PLATEAU** — *snow is a deposit, not weather*
 **Falls (reaches the surface):** ~25 mm/yr
 **Lands (accumulates and stays):** **~22 mm/yr** *(~90% retention)*
-**Lost to sublimation and wind transport:** ~2 mm/yr
+**Lost to sublimation and wind transport:** ~3 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-54.8 °C** it is the **#2 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**mean wind 5.0 m/s**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **−54.8 °C** (the annual mean) it is bitterly cold, but it sits *above* the katabatic regime rather than in it (**mean wind 5.0 m/s**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately Apr 24 → Aug 21 (~120 days)
@@ -139,7 +139,7 @@ Ariun Nuur developed the culture of a city at the end of the world. Not metaphor
 
 The Lake Vostok scientific program gave the city its purpose beyond survival — generations of researchers working on a subglacial lake that had been sealed for millions of years, studying what evolved in isolation beneath kilometers of ice. The scientific culture of Ariun Nuur was quiet, long-term, and intensely focused. Results came slowly, in years and decades rather than months.
 
-The relationship with the Mirny subnet — the 1,260km of plateau between Ariun Nuur and its nearest subnet city — was always more theoretical than practical. Ariun Nuur was in the Mirny subnet on paper. In reality, it was alone.
+The relationship with the Mirny subnet — the 1,260km of plateau between Ariun Nuur and the subnet hub, Mirny — was always more theoretical than practical. Ariun Nuur was in the Mirny subnet on paper. In reality, it was alone.
 
 **Nationally known for:** The cold record. Lake Vostok. The extreme isolation. Being the city at the end of everything.
 
@@ -166,7 +166,7 @@ Science, almost entirely. Ariun Nuur's economy was the Lake Vostok research prog
 
 ## Notable Figures
 
-- **"Charlene" (model designation XT-17)** *("Charlene" is a working/folder-reference name only — her actual personal name is still TBD)* — Robot; confirmed 2026-07-07 as this section's central figure. A resident geneticist who discovered a cost-effective method for working with genetics with significantly reduced mutation rates — a major breakthrough in the field. Her own character folder (`Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [XT-17 unorthodox science teacher Charlene]/`) confirms she lives and works at Ariun Nuur in the present day — a potentially-recruitable companion the player can meet here directly. Her work is almost certainly connected to Lake Vostok: a 25-million-year-isolated subglacial ecosystem is one of the most extraordinary genetic research opportunities in the known world. Full backstory and the specific nature of her Lake Vostok research still TBD. She is the primary reason to come to Ariun Nuur in the DLC beyond the city itself.
+- **"Charlene" (model designation XT-17)** *("Charlene" is a working/folder-reference name only — her actual personal name is still TBD)* — Robot; confirmed 2026-07-07 as this section's central figure. A resident geneticist who discovered a cost-effective method for working with genetics with significantly reduced mutation rates — a major breakthrough in the field. Her own character folder (`TepenianUniverseTimeline/Worldspace/Characters/Dolls/TBN [XT-17 unorthodox science teacher Charlene]/`) confirms she lives and works at Ariun Nuur in the present day — a potentially-recruitable companion the player can meet here directly. Her work is almost certainly connected to Lake Vostok: a 25-million-year-isolated subglacial ecosystem is one of the most extraordinary genetic research opportunities in the known world. Full backstory and the specific nature of her Lake Vostok research still TBD. She is the primary reason to come to Ariun Nuur in the DLC beyond the city itself.
 
 ---
 

@@ -5,7 +5,7 @@
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
 > 📂 **Spine MUST OPEN coverage: 4 of 4** — Characters canon · Enneagram index · Zodiac Lens (full-attributes file AND substrate folder) · no invented names (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L1109–1115).
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -18,7 +18,7 @@
 | Zodiac Lens — all 12 signs (Tier U) | Cite directly | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Zodiac_Signs_Quick_Reference.md` |
 | Zodiac Lens — the full-attributes file | **267** lines; **zero hits** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Zodiac_Signs_Full_Attributes.md` |
 | Zodiac Lens — the substrate folder | **22** files; one mention, later-era in context — **excluded** | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Concordia-City/Districts/Zodiac_Personality_Substrate/` |
-| No invented person names | RESERVED — role-archetypes only | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` L1980 · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L219 |
+| No invented person names | RESERVED — role-archetypes only | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md` L1982 · `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L220 |
 | Symbol files (`DR-8`) | **Not opened** — determined at Phase 10 §B3 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md` (`DR-8`/`DR-8a`) |
 
 **Not mechanical / not included here:** the catalog synthesis, the Zodiac Lens's application, border-adjacency

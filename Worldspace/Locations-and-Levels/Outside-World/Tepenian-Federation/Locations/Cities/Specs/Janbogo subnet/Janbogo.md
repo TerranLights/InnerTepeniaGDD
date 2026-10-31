@@ -62,7 +62,7 @@ Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GP
 **Climate type:** Katabatic coastal — continental polar with defining wind events; distinct from both the interior polar desert (Concordia) and the maritime subpolar (Palmer)
 **Mean annual temperature:** approximately −14°C (+7°F)
 **Temperature range:** coldest month (July) avg −22°C; warmest months (December/January) avg −1°C
-**Record extremes:** record low approximately −45°C; record high approximately +5°C (during warm katabatic descent events)
+**Record extremes:** record low approximately −32°C (July); record high approximately +11°C (February, during warm katabatic descent events)
 **Prevailing winds:** strong katabatic winds from the SSW–SW (gravity-driven airflow off the East Antarctic interior ice sheet); average 8–12 m/s; storms regularly reaching 60–100+ km/h; Terra Nova Bay is one of the windiest locations on the entire Ross Sea coast; katabatic winds warm adiabatically as they descend, arriving drier and relatively warmer than ambient air — but wind chill at even moderate speeds creates lethal outdoor conditions
 **Annual precipitation:** **144.7 mm** water equivalent _(proxy: Mario Zucchelli (~8 km, shared microclimate); measured monthly normals — see table)_ *(researched 2026-09-04)*
 

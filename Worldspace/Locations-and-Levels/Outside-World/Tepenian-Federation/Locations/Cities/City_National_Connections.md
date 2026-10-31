@@ -271,11 +271,11 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Sinheung** (Mirny) — Strong, Industrial. Mirny is Sinheung's own raw-material quarry-and-supply feeder, and
   Mirny's Windwright Guildhall has directly consulted on Sinheung's own structural engineering — a genuine,
   tested working relationship.
-- **Casey** (Mirny) — Strong, Cultural/Infrastructure. Part of the intra-subnet Australian-heritage network —
-  the one cross-city cultural link the Planetary Split Brain never severed — and connected through Mirny's own
-  Relay Hardware Vaults, the intra-subnet Arcanet hub.
-- **Davis** (Mirny) — Strong, Cultural/Infrastructure. The same Australian-heritage network and Relay Vaults
-  connection.
+- **Casey** (Mirny) — Strong, Cultural/Infrastructure. Casey's founder, Australia, is among the exile groups
+  present at Mirny (Founding Register), and Hwy 110 joins the two; the intra-subnet link the Planetary Split Brain
+  never severed, and connected through Mirny's own Relay Hardware Vaults, the intra-subnet Arcanet hub.
+- **Davis** (Mirny) — Strong, Cultural/Infrastructure. Davis's founder, Australia, is among the exile groups
+  present at Mirny (Founding Register); Hwy 110 and the same Relay Vaults connection.
 - **Zhongshan** (Mirny) — Strong, Infrastructure. Connected through Mirny's own Relay Hardware Vaults, the
   intra-subnet Arcanet hub whose failure would cut Arcanet contact across the whole cluster at once.
 - **Ariun Nuur** (Mirny) — Strong, Infrastructure. The same Relay Vaults connection.
@@ -290,9 +290,9 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 ### Casey
 - **Dumont d'Urville** (Janbogo) — Strong, Infrastructure. Hwy 2 connects the two directly, no intermediate
   subnet — the shortest, most direct cross-subnet highway link in the country.
-- **Mirny** (Mirny) — Strong, Cultural/Infrastructure. Part of the intra-subnet Australian-heritage network and
-  Mirny's own Relay Hardware Vaults.
-- **Davis** (Mirny) — Strong, Cultural. The same Australian-heritage network, all three cities together.
+- **Mirny** (Mirny) — Strong, Cultural/Infrastructure. Australia (Casey's founder) is among the exile groups
+  present at Mirny (Founding Register); Hwy 110 joins them, plus Mirny's own Relay Hardware Vaults.
+- **Davis** (Mirny) — Strong, Cultural. Both founded by Australia (Founding Register), on the same highway, Hwy 110.
 - **Fort McMurdo** (Janbogo) — Medium, Cultural. Two cities whose entire civic identity runs on route-safety
   dispatch discipline — Casey's wind-window certification, Fort McMurdo's Erebus monitoring bulletins.
 - **Scott** (Janbogo) — Medium, Infrastructure. Scott's own precision-calibration expertise, once its national
@@ -301,11 +301,11 @@ complete and self-contained on its own. **Strength key:** **Strong** = load-bear
 - **Relung Panen** (Mirny) — Strong, Infrastructure. The junction where Relung Panen's only road meets Hwy 110: everything that reaches or leaves that city by land passes through Casey. *(Added 2026-10-21.)*
 
 ### Davis
-- **Mawson** (Mawson) — Medium, Cultural/Historical. Both Australian-founded cities (`DR-19`), and — the
-  deeper, undeveloped thread — Davis's own real-world namesake personally captained the rescue voyage that
-  saved Mawson's own real-world namesake's stranded expedition party.
-- **Casey** (Mirny) — Strong, Cultural. Part of the intra-subnet Australian-heritage network.
-- **Mirny** (Mirny) — Strong, Cultural/Infrastructure. The same network, plus Mirny's own Relay Vaults link.
+- **Mawson** (Mawson) — Medium, Cultural/Historical. Australia is among the founders of both cities
+  (`DR-19`; Founding Register). *(The real-world namesake thread that stood here is removed: namesakes
+  are never a basis, `DR-32`.)*
+- **Casey** (Mirny) — Strong, Cultural. Both founded by Australia (`DR-19`; Founding Register), on the same highway, Hwy 110.
+- **Mirny** (Mirny) — Strong, Cultural/Infrastructure. Australia is among the exile groups present at Mirny (Founding Register); Hwy 110, plus Mirny's own Relay Vaults link.
 - **Kunlun** (Mirny) — Medium, Scientific. Davis's paleoclimate lake-sediment methodology and Kunlun's own
   ice-core archive are two independently developed long-term climate-record traditions — a natural first-time
   cross-reference once full connectivity exists.

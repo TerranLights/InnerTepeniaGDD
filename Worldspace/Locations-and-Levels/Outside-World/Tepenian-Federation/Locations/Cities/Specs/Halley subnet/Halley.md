@@ -66,7 +66,7 @@ The Weddell Sea is one of the most ice-choked bodies of water in the world — t
 **Climate type:** Coastal ice shelf — Weddell Sea influence; colder and windier than the Peninsula cities; distinct from the katabatic coastal type (Janbogo) due to ice shelf position rather than rocky coast
 **Mean annual temperature:** approximately −19°C (+2°F)
 **Temperature range:** coldest months (July/August) avg −29°C; warmest month (January) avg −5°C
-**Record extremes:** record low approximately −55°C; record high approximately +5°C
+**Record extremes:** record low approximately −55°C; record high approximately +7°C
 **Prevailing winds:** southerly and southeasterly off the Antarctic continent; average 6–9 m/s; the Weddell Sea area produces significant storm systems; the Brunt Ice Shelf position offers less terrain shelter than a rocky coastal site
 **Annual precipitation:** approximately 300–450 mm water equivalent; predominantly snow; moderate by Antarctic coastal standards
 

@@ -467,8 +467,8 @@ Same geographic position as Janbogo.
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** (210M), **USA** (155M) | The two largest Gini-adjusted effective pools globally; both reach Cape Denison via Pacific routes (~14,000–15,000km); natural gap of ~3× separates this pair from the next cluster |
-| 2 — Significant | **Japan** (65M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Pacific corridor nations 13–65M; Australia (~3,400km via Hobart — one of the shorter Australia-to-East-Antarctic routes) sets the founding wave character |
-| 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor (UTC+7–8, all within ±3 of Denison's UTC+9); NZ via Christchurch/Hobart |
+| 2 — Significant | **Japan** (65M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Pacific corridor nations 13–65M; Australia (~2,700km via Hobart — one of the shorter Australia-to-East-Antarctic routes) sets the founding wave character |
+| 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor (UTC+7–8, all within ±3 of Denison's UTC+10); NZ via Christchurch/Hobart |
 
 *Founding note: Australia and New Zealand arrive first and set Denison's founding wave character; China and USA dominate long-run composition.*
 
@@ -561,7 +561,7 @@ Same geographic cluster as Davis.
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** | 210M Gini-adjusted effective; sole T1 |
-| 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Australia (~3,500–4,000km Hobart — one of the shortest Australia-to-Antarctica routes) sets founding wave character |
+| 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Australia (~3,500–4,000km Hobart — a direct sea route from Australia) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M) | SE Asian corridor (all UTC+7–8, within ±3 of Mirny's UTC+6) is the dominant T3 presence; Belarus (UTC+3, distance=3) just qualifies; Romania/Ukraine outside ±3 window; SA via Cape Town long at 93°E |
 
 ---
@@ -571,7 +571,7 @@ Same geographic cluster as Davis.
 | Tier | Nations | Key drivers |
 |------|---------|-------------|
 | 1 — Primary | **China** (210M), **USA** (155M) | Casey sits at the boundary between Ross Sea and East Antarctic corridors; the Pacific approach from USA (~12,000km) is shorter here than at deeper East Antarctic stations, bringing USA into T1 co-primary alongside China |
-| 2 — Significant | **Japan** (65M), **France** (35M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; France at 35M; Australia (~3,400km Hobart — shortest Australia-to-Antarctica route of any Tepenian city) sets founding wave character |
+| 2 — Significant | **Japan** (65M), **France** (35M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; France at 35M; Australia (~3,400km Hobart — a direct sea route from Australia) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor (UTC+7–8) dominant in T3; Thailand and Vietnam share the same solar UTC as Casey; Philippines and Malaysia one step east; NZ via Hobart elevated by Casey's boundary position between Ross Sea and East Antarctic corridors |
 
 ---

@@ -1,5 +1,7 @@
 # Vostok — Datasheet · Phase 5 (Relation & Geometry)
 
+> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+
 > ⚠ **DRAFT — Tier C.** ⛔ **Excluded sections — see `Step_-1.md`.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔⛔ **No other city is named anywhere in this file.** Vostok's own character is exceptionally relational
 > (the Mountain Pass joint venture, the "two loneliest outposts" partnership) — sources describing those
@@ -7,14 +9,14 @@
 > and general shape noted, but their content is not extracted or quoted here. Only Vostok's own standalone
 > geometric facts are recorded as citable values.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 ## Vostok's own standalone facts — no other city named
 
 | Category | Value | Citation |
 |---|---|---|
 | Highway designation | Hwy 37 (the Mountain Cut Throughway) | `Specs/Mirny subnet/Ariun_Nuur.md` L9 |
-| Port status | **LANDLOCKED** | `Infrastructure/Ports.md` L459, L717 |
+| Port status | **LANDLOCKED** | `Infrastructure/Ports.md` L482, L740 |
 | Distance from its own Arcanet subnet's coastal hub | ~1,260 km overland | `Specs/Mirny subnet/Ariun_Nuur.md` L49 |
 | Region | East Antarctic Plateau, inland — near the Southern Pole of Inaccessibility | `Specs/Mirny subnet/Ariun_Nuur.md` L49; `City_Relationship_Database.md` — Vostok's own header |
 | Altitude | 3,488 m | `Specs/Mirny subnet/Ariun_Nuur.md` L49; `City_Relationship_Database.md` — Vostok's own header |
@@ -26,7 +28,7 @@
 
 | Source | What it contains | Disposition |
 |---|---|---|
-| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read (2 at the top level, 2 in a subfolder; re-enumerated 2026-10-30); **1 names the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23, re-enumerated 2026-10-30) |
 | ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L20 |
 | `Infrastructure/Highways.md` | Vostok's Hwy 37 routing, stated relative to named highway waypoints and neighboring cities; the Mountain Pass Airport waypoint's joint-venture origin | ⛔ Existence noted; route order and venture details not reproduced here (a portion also states a later-era condition, excluded per the standing default-scope rule — see `Step_-1.md`) |
 | `Infrastructure/Airports.md` | The Mountain Pass Airport entry — a regional airfield's founding facts, involving Vostok and other named parties | ⛔ Existence noted; content not reproduced here (a portion also states a later-era condition, excluded per the standing default-scope rule) |

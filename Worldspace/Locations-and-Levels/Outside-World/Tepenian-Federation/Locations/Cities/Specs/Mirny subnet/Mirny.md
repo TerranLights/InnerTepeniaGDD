@@ -66,7 +66,7 @@ The station is named after the sloop *Mirny* — one of the two ships in Fabian 
 
 **Climate type:** Coastal polar with strong katabatic influence — among the windiest of all Antarctic stations; the katabatic wind regime here is notably severe
 **Mean annual temperature:** -11.2°C  _(READER station: Mirny; 1991–2020 WMO standard normal)_
-**Temperature range:** coldest months (July/August) avg −22°C; warmest month (January) avg +1°C
+**Temperature range:** coldest months (July/August) mean −16.3°C / −16.4°C; warmest month (January) mean −2.0°C
 **Record extremes:** record high **+8.7 °C** (Dec); record low **-36.5 °C** (Aug) _(NOAA NCEI GHCN-Daily station `AYM00089592` — direct, 0 km; daily observations 1973-2026)_ *(researched 2026-09-04)*
 **Prevailing winds:** katabatic from the south and southeast (off the East Antarctic plateau); Mirny is one of the windiest coastal stations in Antarctica; average wind speeds 10–14 m/s; sustained storms exceeding 40 m/s (144 km/h) have been recorded; wind is the dominant environmental feature of this city
 **Annual precipitation:** **527.1 mm** water equivalent _(Mirny; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
@@ -109,13 +109,13 @@ The station is named after the sloop *Mirny* — one of the two ships in Fabian 
 | Mar | +4 | −6.9 | -10.5 | −13 | −25.1 | 31.2 | ~21% | 13.0 | Autumn; sea ice beginning to form |
 | Apr | −2 | −10.8 | -13.9 | −16.7 | −27.5 | 43.5 | ~34% | 9.3 | Rapid darkening; cold arriving |
 | May | 0 | −12.3 | -15.8 | −18.5 | −35.1 | 57.3 | ~40% | 5.6 | Near-darkness; strong katabatic season |
-| Jun | −2.6 | −12.2 | -15.4 | −18.3 | −33.2 | 70.3 | ~44% | 2.4 | *Winter solstice: sun grazes horizon; polar night in minimal form |
+| Jun | −2.6 | −12.2 | -15.4 | −18.3 | −33.2 | 70.3 | ~44% | 2.4 | *Winter solstice: sun grazes horizon; no polar night |
 | Jul | −3.1 | −13.3 | -16.3 | −19.6 | −34.3 | 71.7 | ~25% | 3.8 | Coldest month; intense katabatic winds |
 | Aug | −3.1 | −13.8 | -16.4 | −20.2 | −36.5 | 62.1 | ~30% | 7.6 | Cold and windy; days beginning to lengthen |
 | Sep | −0.3 | −13.2 | -15.9 | −19.3 | −36.3 | 57.9 | ~34% | 11.2 | Spring; katabatics moderating |
 | Oct | 0 | −9.8 | -13.4 | −16.6 | −30.9 | 43.5 | ~32% | 14.9 | Warming; sea ice breaking up |
 | Nov | +3.9 | −3.7 | -6.8 | −10.3 | −21 | 34 | ~29% | 19.1 | Long days; conditions improving |
-| Dec | +8.7 | +0.4 | -2.7 | −5.5 | −14.6 | 23.7 | ~22% | 24* | *Summer solstice: sun grazes horizon at midnight; midnight sun in minimal form |
+| Dec | +8.7 | +0.4 | -2.7 | −5.5 | −14.6 | 23.7 | ~22% | 24* | *Summer solstice: sun grazes horizon at midnight; midnight sun (nearly a month around the solstice) |
 
 ***Monthly record extremes (MIRNYJ, `AYM00089592` — direct, 0 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1973-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
 

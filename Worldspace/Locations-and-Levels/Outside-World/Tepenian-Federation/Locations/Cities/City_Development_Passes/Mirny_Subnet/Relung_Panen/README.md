@@ -2,8 +2,8 @@
 
 > **Renamed 2026-10-21 (developer): this folder was `Bunger_Hills_City/`; the city's official name is Relung Panen.** Its own specs, details and culture sheets are still to be synthesized.
 
-**Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
-run — never pre-created.*
+**Folder opened 2026-09-05.** *Files appear here **one at a time**, as each piece is run. On 2026-10-30 it holds the Pre-Trip,
+the Position-Coverage ledger and the 19 datasheets (inputs, not output); the pass's own output files do not exist yet.*
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -37,8 +37,8 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 |---|---|
 | ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built (generated 2026-10-21). Also in this folder: `00.0_Pre-Trip_Inspection.md` and `00.2_Position_Coverage_Ledger.md`. ⛔ **Does NOT replace any MUST-OPEN read.** ⚠ *Relung Panen is not in the November run; these exist so its pass can start the day the rulings and the entries listed in `../../../Relung_Panen/ULM_Input_Status.md` are in.* |
 | **Spec** | `../../../Specs/Mirny subnet/Relung_Panen.md` |
-| **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Relung_Panen.md` *(does not exist yet)* ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
-| **Vision notes** | `../../../City_Vision_Notes/Relung_Panen.md` *(does not exist yet)* |
+| **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Relung_Panen.md` *(a small stub file has existed since 2026-10-23; read last, at Step 5, never as an input)* ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
+| **Vision notes** | `../../../City_Vision_Notes/Relung_Panen.md` *(a small stub file has existed since 2026-10-23)* ⛔ **Not an input at any step** (`DR-10`: developer-vision notes are post-ULM); listed only so the address is known |
 | **Research log** | `../../../Research_Logs/Relung_Panen_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |

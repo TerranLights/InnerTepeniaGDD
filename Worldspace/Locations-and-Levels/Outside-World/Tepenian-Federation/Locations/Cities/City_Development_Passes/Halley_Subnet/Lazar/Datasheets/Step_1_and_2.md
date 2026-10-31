@@ -4,7 +4,7 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -12,7 +12,7 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Lazar.md` L7 |
-| Spec climate — climate data source | Schirmacher Oasis microclimate; proxy data drawn from both real sites (Novolazarevskaya, Russia; Maitri, India) plus Neumayer as a regional comparison | `Specs/Lazar.md` L91 |
+| Spec climate — climate data source | Schirmacher Oasis microclimate; proxy data drawn from both real sites (Novolazarevskaya, Russia; Maitri, India) *[comparison not carried]* | `Specs/Lazar.md` L91 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Lazar.md` L93 |
 | Spec climate — mean annual temperature | approximately −10°C | `Specs/Lazar.md` L94 |
 | Spec climate — prevailing winds | two distinct regimes — **easterly/southeasterly cyclonic winds** (warming in winter, cooling in summer) and **south-southeasterly katabatic outflow** bringing rapid temperature swings under clear skies *(researched 2026-09-04)* | `Specs/Lazar.md` L95 |
@@ -29,9 +29,14 @@
 | Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Lazar.md` L114 |
 | Climate READER file (`Lazar.md`) | **Rebuilt 2026-10-21 as a dataset (it had been an 8-line stub).** BAS Met READER surface station (spec proxy) `Novolazarevskaya`; 1991–2020 WMO standard normal; 30–30 years per month. Monthly mean (°C): Jan −0.4 · Feb −3.2 · Mar −7.9 · Apr −11.8 · May −13.5 · Jun −14.5 · Jul −17.0 · Aug −17.2 · Sep −16.5 · Oct −12.0 · Nov −5.6 · Dec −1.0 · annual −10.1 | `READER/Lazar.md` L1–18 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Novo Runway \| Novolazarevskaya / Maitri \| Russia / India \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L40 |
-| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 67 *(page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
-| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,796,984 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – | `16_Per_City_Three_Tier_Run.md` L247, L283 (header L247, row L283) |
-| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Lazar`, `Novolazarevskaya`): **zero hits** in a 146-line file | `Energy_Grid_Failure_Rationale.md` |
+| `Antarctic_Stations_With_Airstrips.md` — the Maitri side (added 2026-10-30, found through the Maitri names; the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Maitri Helipad \| Schirmacher Oasis \| India \| Concrete \| | `Antarctic_Stations_With_Airstrips.md` L83 |
+| `COMNAP_Antarctic_Station_Catalogue.pdf` — pages naming the city (86 pages read) | pages 8, 50, 51, 67 *(50 and 51 added 2026-10-30: found through the Maitri names; page numbers only: the catalogue's index and entry pages are not separated here)* | `COMNAP_Antarctic_Station_Catalogue.pdf` |
+| `16_Per_City_Three_Tier_Run.md` Half B — the city's own row | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,796,984 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16` L1287–L1304)* | `16_Per_City_Three_Tier_Run.md` L247, L284 (header L247, row L284); ABCC note L1287–L1304 |
+| Extent table — the city's row (the table is titled *"required area at the band"*; columns: City · Subnet · Census I · @10k · @7k · Site) | Lazar · Halley · 2,620,319 · 262 · 374 · Schirmacher Oasis ~34 km² | `Extent_and_Density_Per_City.md` L605 (title L601, header L603) — 2026-09-05 snapshot; the census is live — note L631 |
+| Extent — the −10% discharge row (columns: Source · Why reduced · Census I · Census II) | Lazar · **−10%** — *34 km² of Schirmacher carrying **87–91% of the city on ice*** · **262,032** · **180,398** | `Extent_and_Density_Per_City.md` L654 (header L649) — 2026-09-05 snapshot; the census is live — note L631 |
+| Required area at the live Census I (computed; formula = Census I ÷ the table's band density, 10,000/km² and 7,000/km²) | 2,382,205÷10,000 = 238.2 km² · 2,382,205÷7,000 = 340.3 km² | Computed from the Census I figure in `Step_0.md` and the @10k / @7k columns of `Extent_and_Density_Per_City.md` L603 |
+| ↳ other lines naming the city | *[source lines are a multi-city list, a comparison, and another city's founding rule; not copied, line numbers recorded only]* | `Extent_and_Density_Per_City.md` L577, L593, L683 — 2026-09-05 snapshot; the census is live — note L631 |
+| `Energy_Grid_Failure_Rationale.md` | Checked by name (`Lazar`, `Novolazarevskaya`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Lazar · **Subnet:** Halley · **Solar UTC:** +1 · **Status:** ✅ · **Founders:** Russia (the core state) and the CIN, as two communities that coalesced** (the second community replaces the spec's Indian half: no South Asian population ever came to Tepenia, `NNS` L44) · **Basis:** Time-zone proximity: the CIN gap 0, Russia's core (+2…+3) gap 1 · **Source:** `DR-34` · **Not founders:** — | `Founding_Register.md` L52 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | Post-Falkland Treaty, in three stages: | `Specs/Lazar.md` L155 |
 | Spec — `Founding population:` (as stated; the Founding Register governs) | Russia (the core state) and the CIN, as two communities that coalesced (`DR-34`); later demographically overtaken by USA (Primary), and Germany, France, UK, and Brazil (Significant tier) — see full composition in `Official_Population_Census.md`. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Lazar.md` L161 |

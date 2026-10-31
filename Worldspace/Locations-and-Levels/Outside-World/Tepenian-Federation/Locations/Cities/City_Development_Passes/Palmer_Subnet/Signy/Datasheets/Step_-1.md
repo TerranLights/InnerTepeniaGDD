@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Signy.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 298 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 297 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Signy | `Specs/Signy.md` L1 |
 | Real-world basis | Signy Research Station (UK / British Antarctic Survey), Signy Island, South Orkney Islands, Scotia Sea (~60°43'S, 45°36'W) | `Specs/Signy.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Signy.md` L5 |

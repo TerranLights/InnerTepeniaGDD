@@ -4,14 +4,14 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), checked 2026-10-23:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), recounted by hand 2026-10-30:** **6 of 7** addresses are named in this sheet (4 directly, 2 through a shared Tier U sheet it cites). **Not named:** `National_Economy_and_Currency.md`.
 
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Belgrano · Subnet: Halley · D: 1.43 · Humans: 544,064 · Residents: 1,095,807 · Required: 312,138 · Workforce: 823,775 · % WF: 37.9% | `09_Per_City_Baseline_Run.md` L52, L64 |
+| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Belgrano · Subnet: Halley · D: 1.43 · Humans: 544,064 · Residents: 1,095,807 · Required: 312,138 · Workforce: 823,775 · % WF: 37.9% *[`09` L1: only Humans, Residents and Workforce were refreshed on 2026-10-28; its Required and % WF columns remain the superseded old-B1 model]* | `09_Per_City_Baseline_Run.md` L52, L64 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | City: Belgrano · §15 marine workers: 98,484 · Would land: 24.6 Mt · vs. the whole sustainable national catch: 7.6× | `11_Caloric_Rebuild_and_Livestock_Tier.md` L95, L99 |
-| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 823,775 · base%: 44.3% · MAND%: 30.6% · FREE%: 25.1% · src: C | `16_Per_City_Three_Tier_Run.md` L252 |
+| `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Belgrano · Subnet: Halley · D: 1.43 · Workforce: 823,775 · base%: 44.3% · MAND%: 30.6% · FREE%: 25.1% · src: C *(on the flat ABCC working value; counts re-run when per-city ABCC values are set, `16` L1287–1304)* *[Superseded for Belgrano: the city's own determination, `16` §2 (L546, "BELGRANO — DETERMINED (and its geology corrected)"), governs: baseline 274,151 (34.0%) · mandated 345,654 (42.9%) · FREE 186,122 (23.1%), 805,927 workers, distinctive tier 531,776 (66.0%); "Effect: baseline 44.3% → 34.0%" after the geology correction (ice shelf, not rock; forced importer). §2's counts predate `DR-68` (`16` L1). Half B is the first-pass split.]* | `16_Per_City_Three_Tier_Run.md` L252; L546 (§2) |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | # 2. The Belgrano Institute of Medicine | `National_Medical_and_Care_Institutes.md` L50 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **City:** Belgrano (Halley subnet) · **Tradition:** field medicine | `National_Medical_and_Care_Institutes.md` L52 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **Why Belgrano.** Its §15 leads with `Aviation / logistics: ~35% — the city's defining function, running the | `National_Medical_and_Care_Institutes.md` L57 |

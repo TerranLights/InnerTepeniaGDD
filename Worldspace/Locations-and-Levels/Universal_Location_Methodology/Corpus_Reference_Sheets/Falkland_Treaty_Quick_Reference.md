@@ -1,7 +1,7 @@
 # Tier U Reference — The Falkland Treaty
 
 > **Corpus-wide constant. Identical for every city, every pass.** Source: `Reference/Falkland_Treaty/
-> Falkland_Treaty_Draft_v1.md` (141 lines) + `Scaffold.md` (93 lines) + `Real_World_Influences.md` (68 lines),
+> Falkland_Treaty_Draft_v1.md` (140 lines) + `Scaffold.md` (93 lines) + `Real_World_Influences.md` (68 lines),
 > all read in full 2026-09-15. **Status: first full draft, not locked canon** — treat article text as
 > citable working canon, not as finalized law. Signed at Stanley, Falkland Islands, **21 June 2564**.
 
@@ -54,10 +54,11 @@ history.** Confirmed 2026-07-11: Maggie Aarden did not volunteer — the Assembl
   whatever pace and by whatever internal process its own population determines."
 
 **Title III — Regional Governance Framework.**
-- **Art. III.1:** Settlements may associate into regional groupings for local questions, shared infrastructure,
-  order — before escalating to Tepenia's national government. This is the treaty-level basis for the six-subnet
-  system (Halley, Palmer, Janbogo/Ross, Mirny, Mawson, Byrd) as structural, not merely an emergent map
-  convention.
+- **Art. III.1 (Regional Arrangements):** The settlements "may, at their own initiative, associate into regional groupings"
+  for local questions, shared infrastructure and order among themselves, "before any such question is referred to the
+  government of the Federation of Tepenia as a whole." "Nothing in this Article shall be read to define what authority sits
+  above such regional groupings." *(This sheet's own gloss, not treaty text: the article is read as the treaty-level basis for
+  the six-subnet system — Halley, Palmer, Janbogo/Ross, Mirny, Mawson, Byrd — the article itself names no subnets.)*
 
 **Title IV — Rights, Restrictions & Peaceful Use.**
 - **Art. IV.1 (Status of Robot Persons):**
@@ -94,7 +95,7 @@ real force so that its eventual violation reads as the treaty's actual failure p
 **Title VII — Amendment, Review & Withdrawal.**
 - **Art. VII.1:** Disputes go to judicial determination (rights questions) or joint conciliation (everything
   else), escalating to the full Assembly if conciliation fails.
-- **Art. VII.2:** Review conference at least every 30 years — no party is obliged to accept any amendment.
+- **Art. VII.2 (Periodic Review):** "Not later than thirty years from the date of this Treaty's entry into force, and at intervals of not less than thirty years thereafter, either Party may call for a conference of both Parties to review the operation of this Treaty" — a conference is at either Party's call, not automatic. "Neither Party is obliged to propose or accept any amendment considered at such a conference."
 - **Art. VII.3 (Withdrawal) — the treaty's most dangerous clause:** Either Party may withdraw upon its own
   determination that continuation "has come to threaten its own vital interests." Three months' notice, no
   committee approval required. **The scaffold names this the candidate mechanical origin of the Long Night

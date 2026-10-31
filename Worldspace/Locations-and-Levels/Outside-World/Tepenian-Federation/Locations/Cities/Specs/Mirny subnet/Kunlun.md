@@ -31,7 +31,7 @@
 ## Population & Composition
 
 **Census I (Pre-Orbital Era):** 0 humans / 135,226 robots / **135,226** combined *(was 0 / 123,449 / 123,449; census updated 2026-10-28, `DR-68`)* *(entirely robot; re-resolved 2026-07-06 as a curated astronomy/comms-heritage population — no longer entirely Chinese)*
-**Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
+**Census II (Orbital Era):** No Census II row exists for this city (the census lists Kunlun as remaining without Census II figures; see `Official_Population_Census.md`)
 
 | Tier | Nations |
 |------|---------|
@@ -47,28 +47,28 @@
 
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|
-| Primary | USA | 15.43% | 19,053 |
-| Primary | China | 15.22% | 18,789 |
-| Primary | Russia | 11.45% | 14,136 |
-| Significant | Canada | 7.19% | 8,879 |
-| Significant | Japan | 6.75% | 8,334 |
-| Significant | UK | 6.48% | 7,999 |
-| Significant | Intermarium/Intermaria | 6.38% | 7,882 |
-| Significant | Italy | 5.26% | 6,497 |
-| Significant | South Korea | 4.05% | 4,996 |
-| Significant | Germany | 3.33% | 4,116 |
-| Significant | France | 2.65% | 3,276 |
-| Notable | New Zealand | 2.47% | 3,045 |
-| Notable | Argentina | 2.44% | 3,012 |
-| Notable | Sweden | 2.37% | 2,921 |
-| Notable | Australia | 2.35% | 2,900 |
-| Notable | Chile | 2.14% | 2,636 |
-| Notable | Norway | 1.75% | 2,166 |
-| Notable | Spain | 1.16% | 1,431 |
-| Notable | South Africa | 1.07% | 1,319 |
-| Notable | Netherlands | 0.05% | 62 |
+| Primary | USA | 15.43% | 20,865 |
+| Primary | China | 15.22% | 20,581 |
+| Primary | Russia | 11.45% | 15,483 |
+| Significant | Canada | 7.19% | 9,723 |
+| Significant | Japan | 6.75% | 9,128 |
+| Significant | UK | 6.48% | 8,763 |
+| Significant | Intermarium/Intermaria | 6.38% | 8,627 |
+| Significant | Italy | 5.26% | 7,113 |
+| Significant | South Korea | 4.05% | 5,477 |
+| Significant | Germany | 3.33% | 4,503 |
+| Significant | France | 2.65% | 3,583 |
+| Notable | New Zealand | 2.47% | 3,340 |
+| Notable | Argentina | 2.44% | 3,300 |
+| Notable | Sweden | 2.37% | 3,205 |
+| Notable | Australia | 2.35% | 3,178 |
+| Notable | Chile | 2.14% | 2,894 |
+| Notable | Norway | 1.75% | 2,366 |
+| Notable | Spain | 1.16% | 1,569 |
+| Notable | South Africa | 1.07% | 1,447 |
+| Notable | Netherlands | 0.05% | 68 |
 
-*Tiering rationale: **Primary** (8 shares) — the only nations with genuinely comprehensive, independent human spaceflight programs (USA, Russia, China). **Significant** (3 shares) — substantial national space agencies with real mission heritage but not full independent crewed spaceflight capability (Japan, Germany, France, UK, Italy, Canada, South Korea), plus **Intermarium/Intermaria** representing the unified political bloc's own collective space program — built on Ukraine's real Soviet-era rocket heritage (Yuzhmash), recast as a joint "Intermarian Space Program" credit rather than a solo Ukrainian one, consistent with Intermarium's established status elsewhere in the project as a unified meta-nation. **Notable** (1 share) — relevance from hosting a specific major facility (Chile: ALMA/VLT/Vera Rubin Observatory; South Africa: the Square Kilometer Array; Australia: Parkes Observatory and the Canberra Deep Space Communication Complex — directly relevant to Kunlun's comms function specifically; Spain: NASA's Madrid Deep Space Communications Complex, also comms-relevant) or a smaller-but-real national program (New Zealand: Rocket Lab; Netherlands: ASTRON/LOFAR; Norway: Andøya/Svalbard ground stations; Sweden: Esrange; Argentina: CONAE).*
+*Tiering rationale: **Primary** (8 shares) — the only nations with genuinely comprehensive, independent human spaceflight programs (USA, Russia, China). **Significant** (3 shares) — substantial national space agencies with real mission heritage but not full independent crewed spaceflight capability (Japan, Germany, France, UK, Italy, Canada, South Korea), plus **Intermarium/Intermaria** representing the unified political bloc's own collective space program — built on Ukraine's real Soviet-era rocket heritage (Yuzhmash), recast as a joint "Intermarian Space Program" credit rather than a solo Ukrainian one, consistent with Intermarium's established status elsewhere in the project as a unified meta-nation. **Notable** (1 share) — relevance from hosting a specific major facility (Chile: ALMA/VLT/Vera Rubin Observatory; South Africa: the Square Kilometer Array; Australia: Parkes Observatory and the Canberra Deep Space Communication Complex — directly relevant to Kunlun's comms function specifically; Spain: NASA's Madrid Deep Space Communications Complex, also comms-relevant) or a smaller-but-real national program (New Zealand: Rocket Lab; Netherlands: ASTRON/LOFAR; Norway: Andøya/Svalbard ground stations; Sweden: Esrange; Argentina: CONAE).* *Counts recomputed 2026-10-30 as share × 135,226 (Kunlun's Census I after `DR-68`; the shares are unchanged). The shares sum to 99.99%, so the counts total 135,213, a rounding gap of 13.*
 
 
 ---
@@ -79,7 +79,7 @@ Dome A — Dome Argus — is the highest point on the Antarctic Ice Sheet, at ap
 
 At 4,093 meters geometric elevation, with a physiological effective altitude approaching 5,000 meters due to polar atmospheric compression, Dome A / Kunlun is at the absolute limit of what sustained human habitation can support. Chronic mountain sickness at this altitude is not a manageable condition — it is the permanent baseline. The human founding population would have faced continuous physiological stress that compounds over years. **Resolved 2026-07-05** (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline"): no human population has survived at Kunlun, and human presence is now outright forbidden — not out of any anti-human sentiment, but as a genuine safety measure, since the combined altitude and cold would kill a human where a robot is unaffected. Kunlun is 0 humans / 135,226 robots today by settled protective policy, not by ambiguous attrition.
 
-**Re-resolved 2026-07-06:** Kunlun is no longer Tepenia's "exclusively Sinian" city — China remains a genuine, substantial Primary-tier presence, but sits alongside the USA and Russia as one of three space-superpower nations, with a further sixteen nations represented across the Significant and Notable tiers by real astronomy/space/communications credentials. See Population & Composition, above.
+**Re-resolved 2026-07-06:** Kunlun is no longer Tepenia's "exclusively Sinian" city — China remains a genuine, substantial Primary-tier presence, but sits alongside the USA and Russia as one of three space-superpower nations, with a further seventeen nations represented across the Significant and Notable tiers by real astronomy/space/communications credentials. See Population & Composition, above.
 
 ### Annual Climate
 
@@ -100,10 +100,10 @@ At 4,093 meters geometric elevation, with a physiological effective altitude app
 **Lost to sublimation and wind transport:** ~2 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-58.0 °C** it is the **#1 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **−54 °C** (the annual mean given above) it is bitterly cold, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
-**Polar night:** approximately Apr 18 → Aug 26 (~131 days — longer than Dome Fuji due to more southerly latitude; similar to Concordia's ~82 days... wait, at 80°25'S this would be longer)
+**Polar night:** approximately Apr 18 → Aug 26 (~131 days)
 **Midnight sun:** approximately Oct 17 → Feb 26 (~133 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours

@@ -1,5 +1,7 @@
 # Mirny — Datasheet · Step 6 (Differentiate — WRITE-ONLY)
 
+> ⚙ **Pass run: this sheet is the pre-run record.** Wording below such as "has NOT started" or "none of this exists until Mirny's own … actually runs" speaks from before the pass and is kept as written.
+
 > ⚠ **DRAFT — Tier U, in full at ⭐ `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md`.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > Nothing about Step 6 differs by city — the governing rule, Part III's full text (III.0–III.4), and the
 > destination addresses are all corpus-wide constants, already pasted in full there. No need to re-extract.
@@ -15,7 +17,7 @@
 >
 > | § | Section | Columns beyond `City` |
 > |--:|---|---|
-> | 1 | Capability shape & deficit address | Shape · Deficit address · Pass |
+> | 1 | Capability shape & deficit address | Subnet · Shape · Deficit address · Pass *(live table header L48: City · Subnet · Shape · Deficit address · Pass)* |
 > | 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis |
 > | 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point |
 > | 4 | Phase 4 — Ordinary Life | Axis |

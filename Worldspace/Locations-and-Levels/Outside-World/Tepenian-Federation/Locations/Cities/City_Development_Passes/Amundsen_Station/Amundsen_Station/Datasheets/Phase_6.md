@@ -8,8 +8,8 @@
 | `Factions/Robot_Religions/` — directory enumerated | 6 `.md` files read; **0 name the city** | `Worldspace/Factions/Robot_Religions/` (enumerated 2026-10-21) |
 | `National_Holidays.md` | - **St. Roald** — Roald Amundsen (Amundsen Station) | `National_Holidays.md` L41 |
 | `Ice-Cold_Buddhism_Research/` — directory enumerated | 7 `.md` files read; **0 name the city** | `Reference/Real-World/Ice-Cold_Buddhism_Research/` (enumerated 2026-10-21) |
-| `The_Meme_Machine_Extraction.md` | Checked by name (`Amundsen Station`, `Amundsen-Scott`): **zero hits** in a 293-line file | `The_Meme_Machine_Extraction.md` |
-| `The_True_Believer_Extraction.md` | Checked by name (`Amundsen Station`, `Amundsen-Scott`): **zero hits** in a 378-line file | `The_True_Believer_Extraction.md` |
+| `The_Meme_Machine_Extraction.md` | Checked by name (`Amundsen Station`, `Amundsen-Scott`): **zero hits** in a 292-line file | `The_Meme_Machine_Extraction.md` |
+| `The_True_Believer_Extraction.md` | Checked by name (`Amundsen Station`, `Amundsen-Scott`): **zero hits** in a 377-line file | `The_True_Believer_Extraction.md` |
 | The RESERVED mortuary question | Not dispatched: RESERVED means RESERVED regardless of mechanical-ness | `Mechanical_Extraction_Field_Guide.md`, the sequencing-exclusion table |
 
 **Not mechanical / not included here:** the Naming technique, belief landscape, death and the dead, the Failure State of the Core Value, Observance generation — none of this exists until Amundsen Station's own pass runs.

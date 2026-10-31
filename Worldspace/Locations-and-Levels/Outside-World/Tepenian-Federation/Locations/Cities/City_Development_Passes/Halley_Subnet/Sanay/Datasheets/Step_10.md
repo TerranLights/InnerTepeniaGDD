@@ -4,7 +4,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `06_Worked_Example_Provenance.md` (430 lines) — lines naming the city | **8 line(s): L270, L274–275, L278, L284, L286–287, L289** — ⛔ a future cold pass must skip these lines; their content is not copied here | `06_Worked_Example_Provenance.md` L270, L274–275, L278, L284, L286–287, L289 |
+| `06_Worked_Example_Provenance.md` (431 lines) — the city's section | **The Sanay section, L270–L290 — the whole section, from its heading to its last table row** (L291 is blank; L292 begins the next section). **9 line(s)** in it name the city: L270, L274–275, L278, L284, L286–287, L289, L290. The other lines of the section (L271–273, L276–277, L279–283, L285, L288) carry no city name but belong to the same section — ⛔ a future cold pass must skip the **whole section**, not only the lines that name the city; its content is not copied here | `06_Worked_Example_Provenance.md` L270–L290 |
 
 ## Item 1a's contamination scan
 

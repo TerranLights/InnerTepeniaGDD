@@ -3,7 +3,7 @@
 > ⚠ **DRAFT — Tier C + Tier U.** A hit in characters canon is a lead, not a verdict: check the actual sentence (a `<City> Subnet` qualifier names a different city). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** the name is shared with the subnet and with Richard Byrd; hits exclude `Byrd subnet` phrases only. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -16,7 +16,7 @@
 | ↳ Dolls/Maggie Aarden/Personal_Background/Timeline.md | * 28XX: Presumed to have first settled in Rothera, then relocated permanently to Byrd, her confirmed present-day home. | `…/Worldspace/Characters/Dolls/Maggie Aarden/Personal_Background/Timeline.md` L19 |
 | ↳ Dolls/Calethina/README.md | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `…/Worldspace/Characters/Dolls/Calethina/README.md` L58 |
 | ↳ Dolls/Calethina/Personal_Background/Formative_History.md | Her construction and shipping origin is deliberately unmarked in-world lore rather than an openly documented history: she passed through seven locations across six subnets plus the South Pole before reaching her lab. The chain ran request work at Mawson and design work at Neumayer (Halley subnet, confirmed 2026-07-12), engineering at Kunlun/Mirny, construction at Byrd, stress-testing near Palmer, shipping routed through Port Lockroy, a reroute personally ordered from Fort McMurdo (Tepenia's historical capital, for reasons left unexplained), and a final leg forward-shipped via the Amundsen-Scott Station — passing through the Amundsen Tower's own site before it later caused her defining trauma. | `…/Worldspace/Characters/Dolls/Calethina/Personal_Background/Formative_History.md` L5 |
-| `Enneagram_Character_Index.md` | Checked by name (`Byrd`): **zero hits** in a 36-line file | `Enneagram_Character_Index.md` |
+| `Enneagram_Character_Index.md` | Checked by name (`Byrd`): **zero hits** in a 35-line file | `Enneagram_Character_Index.md` |
 | Zodiac Lens — all 12 signs' full attributes (Tier U) | Element/modality/planet, positive and negative traits, for all 12 signs | `Corpus_Reference_Sheets/Zodiac_Signs_Quick_Reference.md`, in full |
 | No invented person names | RESERVED, permanently — role-archetypes only. Spec `## Notable Figures` at L276–L283; lines mentioning a placeholder: L279–280 | `Specs/Byrd.md` L276, L279–280 |
 | Symbol files (Planet / Element) | ⛔ **Not opened as datasheet input** (symbol deferral, `DR-8` / `DR-8a`): reconciled only at Phase 10 §B3 | `Mechanical_Extraction_Field_Guide.md`, symbol deferral box |

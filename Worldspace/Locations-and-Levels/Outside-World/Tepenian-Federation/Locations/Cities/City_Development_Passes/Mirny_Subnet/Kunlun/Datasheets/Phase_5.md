@@ -6,7 +6,7 @@
 > noted, but their content is not extracted or quoted here. Only Kunlun's own standalone geometric facts are
 > recorded as citable values.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), checked 2026-10-23:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites).
 
 ## Kunlun's own standalone facts — no other city named
 
@@ -25,7 +25,7 @@
 
 | Source | What it contains | Disposition |
 |---|---|---|
-| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23; re-enumerated 2026-10-30: 4 `.md` files in the tree, 2 of them at the top level, 1 names the city — unchanged) |
 | ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L20 |
 | `Infrastructure/Highways.md` | Kunlun's Hwy 37 routing, stated relative to named highway waypoints and neighboring cities | ⛔ Existence noted; route order not reproduced here |
 | `Infrastructure/Airports.md` | A regional airfield's founding facts, involving Kunlun and other named parties | ⛔ Existence noted; content not reproduced here |

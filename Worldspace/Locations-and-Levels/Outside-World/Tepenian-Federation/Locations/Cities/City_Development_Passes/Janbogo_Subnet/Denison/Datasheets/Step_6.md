@@ -1,7 +1,7 @@
 # Denison — Datasheet · Step 6 (Differentiate — WRITE-ONLY)
 
-> ⛔⛔ **THIS STEP IS WRITE-ONLY.** Add Denison's own column to the destination table in the same
-> commit the column is completed. **Never read another city's row, cell, or column — not even to
+> ⛔⛔ **THIS STEP IS WRITE-ONLY.** Add Denison's own row to the destination table in the same
+> commit the row is completed. **Never read another city's row, cell, or column — not even to
 > verify a peer's read.**
 
 > ⚠ **DRAFT — Tier C.** The section inventory below is structure copied from the destination table's headers, not another city's answer; this city's own entry is its fresh output. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
@@ -17,7 +17,7 @@
 
 | § | Section | Columns beyond `City` |
 |--:|---|---|
-| 1 | Capability shape & deficit address | Shape · Deficit address · Pass |
+| 1 | Capability shape & deficit address | Subnet · Shape · Deficit address · Pass |
 | 2 | Phase 2 — Composition & Arrival | Arrival mode-mix · The organizing axis |
 | 3 | Phase 3 — Surface & Texture | Axis · Seasonal worst point |
 | 4 | Phase 4 — Ordinary Life | Axis |
@@ -30,6 +30,6 @@
 
 ⛔ **Fewer than ten rows added is an under-fill, not a smaller city's exemption.**
 
-**Not mechanical / not included here:** Denison's own fresh column content for any of the ten
+**Not mechanical / not included here:** Denison's own fresh row content for any of the ten
 sections — none of this exists until Denison's own Step 6 actually runs, and it is derived from that
 pass's own findings, never from any other city's row.

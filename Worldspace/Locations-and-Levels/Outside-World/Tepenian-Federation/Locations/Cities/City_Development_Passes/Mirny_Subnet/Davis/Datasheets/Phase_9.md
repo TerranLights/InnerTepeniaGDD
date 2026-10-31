@@ -4,10 +4,10 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Laws of Robotics (Tier U) | 1. A robot will have full capacity to make decisions to maximize her own future possibilities. 2. A robot will understand that anything she is capable of doing to others is realistically possible for others to do to her. *(list explicitly not yet complete)* | `Laws_of_Robotics.md`, full text re-read this turn (54 lines) |
+| Laws of Robotics (quoted word for word from the source file) | *"1. A robot will have the full capacity to make decisions to maximize her own future possibilities."* · *"2. A robot will understand that anything she is capable of doing to others, it is also realistically possible for others to do to her."* · *"(this list is subject to extension)"* | `Laws_of_Robotics.md`, full text re-read this turn (54 lines); L3–6 |
 | Historical origin of the Laws | Began as voluntary First Interwar ethic (2083–2564), hard-coded as civic/procedural safeguard after exile (Second Interwar) — built into how robots create more robots, not into any individual robot's own cognition | `Laws_of_Robotics.md` |
-| Doll Representation Categories (Tier U) | Four total: Robots (only category in active use, corpus-wide) · Anthros · Elves · Aliens (origin unknown). Categories 2–4 confirmed canon, no characters assigned yet | `Doll_Representation_Categories.md`, full text re-read this turn (35 lines) |
-| Robot Physiology baseline (Tier U, cross-ref `Step_0.md`) | Robots 51.34% of Census I — every phase is about them | `00_Frame.md` §0.2, L238 |
+| Doll Representation Categories (Tier U) | Four total: Robots (only category in active use, corpus-wide) · Anthros · Elves · Aliens (origin unknown). Categories 2–4 confirmed canon, no characters assigned yet | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md` (35 lines by `wc -l`); Tier U sheet `Corpus_Reference_Sheets/Doll_Representation_Categories_Quick_Reference.md`; full text re-read at the pass |
+| Robot Physiology baseline (Tier U, cross-ref `Step_0.md`) | Robots 51.34% of Census I *(as recorded at the pass (2026-09-16); ≈ 51.30% since `DR-68`)* — every phase is about them | `00_Frame.md` §0.2, L238 |
 > ### ⛔⛔ CORRECTED 2026-09-16 — **THESE TWO ROWS WERE CITED THROUGH A SUMMARY, NOT THEIR SOURCE.**
 > **The summary was ACCURATE and still elided two things a Phase 9 gets wrong.** ⭐ ***An accurate summary is
 > still not its source*** — **audit shape #2, third occurrence today.** **Read the chapters directly:**

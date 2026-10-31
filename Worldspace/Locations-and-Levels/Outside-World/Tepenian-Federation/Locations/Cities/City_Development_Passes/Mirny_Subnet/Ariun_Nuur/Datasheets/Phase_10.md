@@ -1,14 +1,16 @@
 # Vostok — Datasheet · Phase 10 (Catalog)
 
+> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+
 > ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⛔ **Excluded sections — see `Step_-1.md`.** Calethina's own character file's Mountain Pass content is
 > excluded wholesale — see the row below.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
-| Characters canon — Vostok-tagged characters | **RUN, not asserted zero. 2 files matched "vostok":** Calethina's README + Formative_History, and Charlene's own character folder README | Re-verified this turn: `grep -rl -i vostok` against `TepenianUniverseTimeline/Worldspace/Characters/` |
+| Characters canon — Vostok-tagged characters | **RUN, not asserted zero. 3 files matched "vostok":** Calethina's README + Formative_History, and Charlene's own character folder README | Re-verified this turn: `grep -rl -i vostok` against `TepenianUniverseTimeline/Worldspace/Characters/` |
 | Calethina — checked, not a build-chain stage | ⚠ **Vostok is NOT one of Calethina's nine named build-chain stages** — confirmed by reading the full chain directly. Vostok appears only in connection with her lab's fabrication-chamber equipment, sourced to the Mountain Pass outpost | `Characters/Dolls/Calethina/README.md` L56; `Characters/Dolls/Calethina/Personal_Background/Formative_History.md` L7 |
 | Calethina — excluded content | ⛔ **The Mountain Pass equipment-origin content is excluded wholesale**, per the standing default-scope rule and the standing no-comparison rule | `Characters/Dolls/Calethina/README.md` L56; `Formative_History.md` L7 — read in full, excluded per the standing rules |
 | Charlene — the admissible professional facts | Working name "Charlene" (a working/folder-reference name only, actual personal name TBD); model designation XT-17; role: resident geneticist; discovery: a cost-effective method for working with genetics with significantly reduced mutation rates, "a major breakthrough in the field" | `Characters/Dolls/TBN [XT-17 unorthodox science teacher Charlene]/README.md`; corroborated `Specs/Mirny subnet/Ariun_Nuur.md` L169 |

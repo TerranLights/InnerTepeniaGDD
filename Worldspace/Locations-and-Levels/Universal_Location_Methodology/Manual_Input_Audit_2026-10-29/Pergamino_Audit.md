@@ -1,0 +1,101 @@
+# Pergamino — manual input audit (2026-10-29)
+
+Method: `README.md` in this folder. Read by hand: the spec in full (208 lines), the whole Pre-Trip (567 lines; the standard text compared line for line with Contrapunto's — same subnet, same builder form, same kind of rename — and only the differing lines re-read), all 19 datasheets, the pass README and coverage ledger; every cited line opened against the live file. **Nothing was edited**; the edits are in `FIX_LEDGER.md` (entries `PG-…`). Pass folder: `City_Development_Passes/Palmer_Subnet/Pergamino/` (already renamed). `LOC` = `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations`, `CITIES` = `LOC/Cities`. **Renamed 2026-10-03 (`DR-41`): formerly Juan Carlos.** The real station (Juan Carlos I), the real king and the pre-rename text keep "Juan Carlos"; most shared files, the READER key, the megasheet folder and the timeline repo's own file still say "Juan Carlos"; the Pre-Trip searches under both names.
+
+**Verdict.** **Nothing blocks a run.** The spec's census rows, per-nation table (shares sum 100.01%; the Census I columns and the Census II humans column sum **exactly**), tier model and climate table are clean, and the city's own `09`, `16`, census and Register rows are current (the city was not touched by the 2026-10-28 scenario); `Step_0` and `Phase_2` retention agree and are right. What is left: **(1)** `Step_3` cites the picks 31 lines early (XS-15); **(2)** the sheets quote `16` Half B (mandate 18.2%, free 42.5%) and never mention the city's own determination **§10 (L1090–1142, heading "JUAN CARLOS — DETERMINED": 24.3 / 36.4)** or its three-city border system; **(3)** the city's own port row (Ports L502, "**PERGAMINO**") and the precipitation row spelled `Juan_Carlos` are missed by the name search; **(4)** the climate rows present the proxy station's values (King Sejong) as if they were the site's — the sheet cuts the spec's PROXY sentence in half and omits the −1.2 °C cross-check, the Byers Peninsula trap and the admission that the precipitation total is the weakest number in the file; **(5)** the timeline repo's own `Worldspace/Locations/Juan_Carlos.md` is in no sheet; **(6)** "datasheets not yet built" in three places, a rename row that is wrong about which folders were renamed, stale lists for eight shared files, `Geothermal_Heating.md` in no read row, and a pass README whose title and four pointers still say Juan Carlos; **(7)** the extent pointer is the first-pass whole-island row; **(8)** the spec's precipitation provenance contradicts itself.
+
+---
+
+## PART 1 — ACCESS
+
+### 1a. Checked and right
+| Check | Result |
+|---|---|
+| Spec `CITIES/Specs/Palmer subnet/Pergamino.md` (208 lines; `Step_-1` says 209, builder's convention SH-009). Spec L1, L3, L5–12, L18–19, L36–40, L44, L65, L73, L91–96, L109–112, L150, L152, L158, L170, L175, L182, later-era headings **L187, L192, L197** all land on what the sheets say | ✅ |
+| Census Section A heading **L88**, entry L90–94 (identical to the spec's tier table); Census I row **L509** (189,742 / 196,950 / **386,692**, "island cap; revised 2026-07-04"); Census II row **L633** (118,910 / 127,462 / **246,372**, "island cap"); no `DR-68` note | ✅ unchanged |
+| Spec arithmetic by hand: 189,742 + 196,950 = 386,692 ✓; 118,910 + 127,462 = 246,372 ✓; the 10 per-nation shares sum **100.01%** (rounding); tier lists equal the table (1 / 5 / 4) and the census entry; tier totals are exactly the 8 : 3 : 1 model (Primary 29.63 = 8/27; Significant 55.56 = 15/27; Notable 14.82 = 4/27); the four count columns sum **196,950 · 189,742 · 127,464 · 118,910** against 196,950 · 189,742 · 127,462 · 118,910 (0, 0, +2, 0) | ✅ |
+| Retention by hand: 246,372 ÷ 386,692 = **63.71%**, 118,910 ÷ 189,742 = **62.67%**, 127,462 ÷ 196,950 = **64.72%** — `Step_0` and `Phase_2` agree and are right; robots' share of Census I 196,950 ÷ 386,692 = **50.93%** (`Phase_9`) | ✅ |
+| The city's own rows: `09` header L52, row **L84** (as "Juan Carlos": D 1.15 · 189,742 · 386,692 · required **100,041** · workforce **291,821** · **34.3%**; required recomputed 27,807 + 72,234 = 100,041 ✓; workforce = 196,950 + 0.5 × 189,742 = 291,821 ✓); `16` Half B header L247, row **L265 → L266** ("Juan Carlos": 291,821 · 39.3 / 18.2 / 42.5 · src C); Register row **L42** (Uruguay first; `DR-20`, `DR-34`; "Not founders: Spanish"); `11`: no hit; NMCI: no hit | ✅ |
+| Spec climate by hand: the twelve monthly means (the King Sejong proxy, unmodified) sum −20.8 (÷ 12 = −1.73); Avg High > Mean > Avg Low in all twelve months; Avg Low > Rec Low and Avg High < Rec High in all twelve; record high +6.5 (Jan) and record low −22.6 (Aug) are the table's extremes (Arturo Prat proxy); precipitation column sums **702.2** exactly; falls 702 / lands 562 (80%) / lost 140 ✓; `Precipitation_Falls_vs_Lands.md` L170 carries the same; solstice daylight recomputed at 62°39'S with refraction: **4.9 h** and **20.05 h** (L111–112 right); "roughly 435 km north of the Antarctic Circle" = (66.56° − 62.65°) × 111 ✓ | ✅ |
+| Extent arithmetic: 386,692 ÷ 48 = 8,056/km² ✓; ÷ 798 (Livingston Island) = 485/km² ✓; 39–55 km² = the 7,000–10,000/km² band ✓ | ✅ |
+| Lines found to be unchanged: Highways L303 → live (+15 only); CrossSub L86, 202; RelDB L46; NatConn L172, 216–217, 228, 252–253, 262; Ports L5, 148, 173; Extent L14, 20, 62, 510, 700; Register L42, 83, 92, 94; Topics L210; Sweep L129, L172, L188; Factions (`Second_Interwar` L77–91; `Cross_City_Cultural_Patterns` L79); Geothermal L8, 22, 32, 153, 188 | ✅ |
+| Zero-hit claims re-run (both names, both cases): Energy grid, Meme Machine, True Believer, Weapons, Arcanet, Holidays, NMCI, `11`, Stations, `Theoretical-Calculations`, Robot Religions (6 files), Ice-Cold folder (7), jobs folder (4), `Robot_Universals` (33), Enneagram Character Index (35), `06`; the timeline-repo `Worldspace/Characters/` tree: 0 hits ✓. Concept-art folder: `.gitkeep` only ✓. Megasheet folder `City_Megasheets/Palmer_Subnet/Juan_Carlos/`: 7 items ✓ (not opened). Culture, robot-culture, Enneagram and vision-note files exist ✓ (not opened). No research log exists ✓. No `ULM/Test_Runs` file names the city ✓. Picks (live): heading **L268**, picks **L269–271** (St. Gallen [PRIMARY], Hay-on-Wye, Wolfenbüttel); text equals the sheet's. `Step_5` … `Step_10` equal Contrapunto's | ✅ |
+
+### 1b. Findings
+| ID | Sev | Finding | Evidence | Fix |
+|---|---|---|---|---|
+| **A-01** | STALE | **Line lists after later edits** (Pre-Trip §C Step 2, §D, §E, `Phase_5`, `Phase_7`, vs live). Highways L303, 311, 323 → **L318, L326, L338**. Airports L27, 31, 97, 106, 111 → **L30, L34, L100, L111, L116** (L17 same). Ports L471, 474, 497, 710, 837 → **L494, L497, L520, L733, L860** (L5, 148, 173 same). RelDB L213, 215, 254–255, 257, 259, 296, 416–417, 501 → **L224, L226, L265–266, L268, L270, L307, L427–428, L512** (L46 same); the city's entry L254–264 → **L265–275**, its lines L255–261 → **L266–272**. NatConn L351 → **L352** (the other 7 same). `09` L103, L208 → **L105, L210** (L84 same). `16`: row L265 → **L266**; the other lines L315, 426–429, 1072, 1079–1081, 1106–1107, 1116, 1119, 1200, 1206, 1229, 1406, 1545, 1547–1548, 1710, 1744, 1958, 2623, 2799, 2952, 3520, 3559 → **L318, 429–432, 1077, 1084–1086, 1111–1112, 1121, 1124, 1205, 1211, 1234, 1411, 1550, 1552–1553, 1715, 1749, 1963, 2628, 2804, 2957, 3525, 3564**. Unchanged: CrossSub, census, Extent, Register, Topics. | greps | Re-point per `PG-001` |
+| **A-02** | WRONG | **The name search misses the city's own lines.** (a) Ports **L502** — the city's port row "| **PERGAMINO** | **Española Cove**, in South Bay, Hurd Peninsula | … Johnsons Dock lies adjacent … Ojeda Beach …" (upper-case); (b) `16` **L1090** — the §10 heading "## 10. ✅ **JUAN CARLOS** — DETERMINED" (upper-case, and under the old name); (c) `Precipitation_Falls_vs_Lands.md` **L170** — "| Juan_Carlos | 702 | **562** | 140 |" (underscore; the Pre-Trip's "named in other files" list has no precipitation row). | live greps | Add |
+| **A-03** | WRONG | **"Datasheets not yet built" in three places** (2026-10-21 builder text): §C intro (Pre-Trip L54), §I `DATASHEET-NOT-YET-BUILT(N-5)=20` (L484, with `RESOLVE=119`), and a §J row (L530). All 19 files exist. | `Datasheets/` | Reword all three |
+| **A-04** | STALE | **The §J rename row (L527) says "the pass folder and megasheet/concept-art folders keep the old name by design (nothing was moved)".** Live: the pass folder, the concept-art folder and the culture / robot-culture / Enneagram / vision-note files are all **`Pergamino`**; only `City_Megasheets/Palmer_Subnet/Juan_Carlos/` and the climate READER key `Juan_Carlos.md` keep the old name. (As UT-004, TK-003, CP-003.) | live `ls` | Reword |
+| **A-05** | STALE | **The extent pointer is the first-pass table.** Pre-Trip "Pergamino's row **62**" is the whole-island row (Livingston Island 798 km², 386,692, 485/km²); the declaration is Extent **L510** ("DECLARED 2026-09-05 — 48 and 80 km² → 8,056 and 8,060/km². Populations UNCHANGED. BAND-derived") and the spec L21–34; the island-area check is L700. **No sheet carries an extent row** (D-07). | Extent L62, L510, L700 | Re-point; add the row |
+| **A-06** | NOTE | **Geothermal.** The spec makes the city's ground depend on `Geothermal_Heating.md` (L25–31, "one of the six geothermal cities"); the file names it at L8, L22, L32, L153, L188 (the sheet `Phase_5` carries them), yet the Pre-Trip lists the file in **no** read row (only the open item at §J, L523). (As CP / A-06.) | spec L25–31 | DECIDE |
+| **A-07** | NOTE | **Alias set** (mechanical draft: Juan Carlos I Antarctic Station · Livingston Island · South Shetland Islands). Not listed: **Española Cove**, **Johnsons Dock**, **Ojeda Beach**, **Hurd Peninsula**, **Byers Peninsula** (the spec's "sourcing trap"), **Base Arturo Prat** (the records proxy), **the Machu Picchu Border & Customs Authority** and **"The Archivist's Trail"** (spec L164–166, L177), **Amundsen Station's archive** (the successor), the former demonym (open, L207), and `Station_to_City_Map.md` **L37, L136** (in no phase list). | live | Add to §A; DECIDE the set |
+| **A-08** | NOTE | **The pass `README.md` still says "Juan Carlos"** in its title and all four pointers: spec `../../../Specs/Juan_Carlos.md` (the file is `Specs/Palmer subnet/Pergamino.md`), local culture `Local_Cultures/Palmer_Subnet/Juan_Carlos.md`, vision notes `City_Vision_Notes/Juan_Carlos.md` (both are `Pergamino.md`), research log `Research_Logs/Juan_Carlos_Research_Log.md`. | `README.md` | Re-point |
+| **A-09** | NOTE | **The timeline repo holds the city's own file.** `TepenianUniverseTimeline/Worldspace/Locations/Juan_Carlos.md` (35 lines: Significance — first bureaucratic archive; the immigration corridor to Palmer City; Destruction; Open Questions) and the `README.md` list (L21, old names) are in **no** Pergamino sheet — the sheets for Contrapunto, Esperanza, Marambio, Byrd, Temirötkel and Palmer City each carry a "Universe repo `Worldspace/Locations/`" row. Timeline repo: flag only. | `Worldspace/Locations/` | Add the row |
+| **A-10** | NOTE | **Characters.** The timeline-repo tree names neither name (the sheet's "0" is right). The GDD `Worldspace/Characters/` tree names the city in 4 files, all the recruitable Shuchar Vaszyong's (README, `Relationships`, `Timeline`, `Loyalties`). | grep | Register (XS-17) |
+| **A-11** | NOTE | Shared items SH-001 … SH-007, SH-010, SH-011, SH-013. | live | shared |
+
+### 1c. Required inputs
+T0-1…4 ✅ · G1 symbol pair present (not opened) · G2 climate ⚠ (`READER/Juan_Carlos.md` is a proxy-resolution file, not a station table, **D-05**) · G3 `16` Half B ✅ (§10 not listed, **D-02**) · G4 Register row ✅ (L42) · G5 `Access type: NONE` + Highways/Airports/Ports ✅ (Ports row L502 not listed, **A-02**) · G6 defining event: none (non-blocking) · G7 picks ✅ in `Step_3` (cited at the wrong lines, **D-01**) · G8 census tier table ✅ (spec and census identical) · T2-8 extent ✅ in the Pre-Trip only as the first-pass row (**A-05**), ❌ not in the sheets (**D-07**). **Nothing blocks.**
+
+---
+
+## PART 2 — ACCURACY
+
+### 2a. The spec (read in full)
+Checked right: see 1a (census, tiers, per-nation table, climate, extent arithmetic, founding line vs Register). What is left:
+
+| ID | Sev | Source-level finding | Evidence |
+|---|---|---|---|
+| **S-01** | WRONG | **Precipitation provenance contradicts itself.** L96 and L132 call the table's Avg Precip column "**measured** monthly normals" (Bellingshausen proxy); L135–140 say Avg Temp / Daylight are proxied and "**Temp Range · Avg Precip · Precip Probability: derived, not measured — design-grade estimates; the precipitation total is a regional maritime estimate, not a station measurement**"; `READER/Juan_Carlos.md` says "No station figure obtained … ~600–700 mm … the weakest number in this file — an open item, not a measurement" (anchored on Palmer Station's 658). The total 702.2 is Contrapunto's figure unchanged. | spec L96, L132, L135–140; READER L36–38 |
+| **S-02** | NOTE | **Two proxies, two distances.** L92: the READER proxy is King Sejong "~95 km"; L93: the records proxy is Base Arturo Prat "~40 km"; L96: precipitation proxy Bellingshausen "~95 km". Records (Rec High / Rec Low) therefore come from a different station than the means. | spec L92–96 |
+| **S-03** | NOTE | **Founders absent from the composition.** The Register and L152 say Uruguay founded the city; **Uruguay is not in the per-nation table** (nor the tier lists). Recorded so the absence is not read as a mistake (like Mawson S-06). | spec L36–60, L152; Register L42 |
+| **S-04** | NOTE | **Germany (Significant) at 5.03%** sits below Argentina (Notable, 5.04%) and next to Chile (4.76%); the table lists Argentina above Germany. De-stacking artifact. | spec L55–57 |
+| **S-05** | STALE | **Peer-relative lines:** L11 (shares the cluster with Contrapunto), L67 ("shares the sub-Antarctic maritime character of Contrapunto … more glaciated and rugged than King George Island"), L91 ("among the mildest in Tepenia"), L106 ("**33** of the 37 are colder" — Contrapunto's spec says 36, Palmer City's 34, all three at −1.7 °C), and **L160–162** — the whole Character paragraph is defined against Contrapunto ("developed differently from Contrapunto precisely because it didn't have as many immediate neighbors"). The sheets withhold L9 and L91. | spec |
+| **S-06** | NOTE | **Where is the international airport?** Spec L205 and `Airports.md` L17 / L35: Machu Picchu Airport sits "near Contrapunto"; `Airports.md` L31 and the timeline `Juan_Carlos.md` L13: the developer's own map puts its marker "right at Pergamino's label — same airport, not a separate one". `16` §9 says "closest to Sejong". | spec L205; Airports L17, L31, L35 |
+| **S-07** | NOTE | **Pointers to storyline files** (L143, L177: `Storyline/DLC_01_Echoes_of_Amundsen.md`, "The Archivist's Trail"); L6's long Status note cites the same reasoning as L166 and L199 (the targeting of an archive) — three copies of one passage. | spec L6, L143, L166, L177, L199 |
+| **S-08** | NOTE | **Food.** L160 ("language, food tradition, particular social temperament") is the spec's one culinary line; the `Phase_8` count says none (**D-10**). | spec L160 |
+
+### 2b. Datasheet rows
+| File | Result |
+|---|---|
+| `Step_-1` | ✅ headings, header fields, census I, later-era headings L187 / 192 / 197; length 209 (SH-009); NOTE **D-09** (Census II excluded) |
+| `Step_0` | ✅ census, retention; ❌ **D-07** (extent) |
+| `Step_1_and_2` | ✅ composition, Register, COMNAP (8, 28, 74, 75); ❌ **D-02** (`16` row), **D-05** (proxy), **D-06**, **D-07** |
+| `Step_3` | ❌ **D-01** (picks +31) |
+| `Step_5`–`Step_10` | ✅ (`Step_10`: **D-08**) |
+| `Phase_2` | ✅ composition, retention; NOTE **D-11** (duplicate rows) |
+| `Phase_3` | ✅ spec ranges, folders |
+| `Phase_4` | ✅ `09` L52 / L84, NMCI; ❌ **D-02** |
+| `Phase_5` | ❌ **D-03** (lines; port row missing) |
+| `Phase_6` | ✅ zero-hit claims |
+| `Phase_7` | ❌ **D-02**, **D-04** (list; §10 missing); NOTE **D-12** |
+| `Phase_8` | ❌ **D-10** |
+| `Phase_9` | ✅ robot share 50.93% |
+| `Phase_10` | ✅ spec L182–186; NOTE **A-10** |
+
+### 2c. Datasheet findings
+| ID | Sev | File · row | Finding | Fix |
+|---|---|---|---|---|
+| **D-01** | WRONG | `Step_3` · picks rows | "section at **L237–L241**, picks L238–240": those lines are Signy's section. The city's heading is **L268**, picks **L269–271**. (XS-15.) | Re-point |
+| **D-02** | STALE | `Step_1_and_2` row 32; `Phase_4` row 3; `Phase_7` row 1 | All quote `16` Half B (as "Juan Carlos"; mandated **18.2%**, free **42.5%**, src C). The city's own determination **§10 (L1090–1142)** is in no sheet: baseline 114,813 (**39.3%**) · mandated **70,803 (24.3%)** · FREE **106,205 (36.4%)** · distinctive tier 177,008 (60.7%); mandate = maritime/fishing 30% (53,102) + half of commercial/trade, "the federal immigration archive and processing", 10% (17,701); the counts sum to 291,821 = the **current** workforce; the section's "three-city system" (Sejong = arrival and the Authority's seat; this city = immigration processing and the records archive; Palmer City = where non-immigrant visitors are routed) is canon about this city that no sheet carries. (SH-013.) | Quote §10 and the system beside Half B |
+| **D-03** | STALE | `Phase_5` | Line numbers per **A-01** (Highways ×3, Airports ×5, Ports ×5, RelDB entry and lines, NatConn ×1); add Ports **L502**. | Re-point and add |
+| **D-04** | STALE | `Phase_7` · `16` "other lines" row | 28 lines → live numbers per **A-01**; add L1090. | Re-point and add |
+| **D-05** | WRONG | `Step_1_and_2` rows 13, 15, 28–29 | Row 13 stops at "⚠ **PROXY.** The Juan Carlos I site is not in the BAS READER surface station" (a paragraph cut after its first physical line; defect pattern 4) — the proxy station (`King_Sejong`, 1991–2020), the −1.2 °C cross-check, the Byers Peninsula trap (L77–89) and the precipitation caveat (S-01) are missing. Row 29 prints King Sejong's monthly means as "READER — monthly table" with no PROXY label; a reader will take them for the site's. | Complete row 13; label rows 28–29 PROXY |
+| **D-06** | GAP | `Step_1_and_2`, `Phase_5` | No "Universe repo `Worldspace/Locations/`" row (see **A-09**): the timeline repo's own `Juan_Carlos.md` L9 / L13 / L17 and README L21 are missing. | Add |
+| **D-07** | GAP | `Step_0`, `Step_1_and_2` | No extent row. Extent **L510** (declared 48 km² → 8,056/km² — "BAND-derived"), the spec L21–34 (39–55 km² equally defensible), L700; label as the snapshot (SH-011). | Add |
+| **D-08** | STALE | counts | `Step_10` "(430 lines)" → **431** (`wc -l`; builder convention 432). The other "N-line" counts follow the builder convention (spec 209 / 208, Stations 100 / 99, Holidays 166 / 165, Meme 293 / 292, True Believer 378 / 377, Geothermal 199 / 198, Arcanet 28 / 27, Weapons 74 / 73, Enneagram 36 / 35, Energy 146 / 145, NMCI 246 / 245) — SH-009. | per SH-009 |
+| **D-09** | NOTE | `Step_-1` row 22 | The spec's Census II line is "excluded: later-era content" because its status cell says "(island cap; destroyed)"; the numbers (118,910 / 127,462 / 246,372) are admissible and appear in `Step_0` and `Phase_2`. | Copy with the word dropped |
+| **D-10** | WRONG | `Phase_8` · term check | "cuisine / food / dish / drink — 0": the spec has "food tradition" at **L160**. | Correct to 1 |
+| **D-11** | NOTE | `Phase_2` · rows 5–8 | The two annotation rows (spec `(founding wave)` at L40, census at L94) each appear twice. | Delete the duplicates |
+| **D-12** | NOTE | `Phase_7` · header "13 of 13" vs last row "11 of 11" | disagree (SH-008). | per SH-008 |
+
+### 2d. DECIDE items (collected)
+1. **D-02** Whether the sheets must carry §10 and the three-city system and say Half B is superseded (SH-013).
+2. **A-02 / A-09** Whether the lists get the port row, the §10 heading and the precipitation row, and the sheets the timeline file.
+3. **D-05 / S-01** How the proxy climate and the precipitation caveat are worded.
+4. **A-06** Whether `Geothermal_Heating.md` is added to Phase 1 for the six geothermal cities.
+5. **S-05** The peer lines (shared with Contrapunto and Palmer City).
+6. **S-06** Where the international airport stands (near Contrapunto, or marked at Pergamino).
+7. **A-07** The alias set.

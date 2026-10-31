@@ -1,7 +1,7 @@
 # Santa Luce (formerly Abowasa) — development pass
 
-**Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
-run — never pre-created.*
+**Folder opened 2026-09-05.** *Files appear here **one at a time**, as each piece is run. On 2026-10-30 it holds the Pre-Trip,
+the Position-Coverage ledger and the 19 datasheets (inputs, not output); the pass's own output files do not exist yet.*
 
 > ## ⭐ THE PROTOCOL, IN ONE LINE
 > **One piece at a time · displayed AND written in the same turn · developer clarifies · the clarified result
@@ -23,6 +23,7 @@ run — never pre-created.*
 | `09_Record.md` · `09.5_Log.md` | ULM Step 9 — and ⚠ **the recording law: snags, dead ends, killed findings, self-corrections** |
 | `10_Readiness_Check.md` | ULM Step 10 — ⚠ **verify, do not assert** |
 | `CST_01…17e_*.md` | Cultural Synthesis — **one file per technique** |
+| `HANDOVER_to_Worldbuilding_Session_Two_Italys_2026-10-23.md` | Hand-over note (2026-10-23) from the GDD session to the novel repo's worldbuilding session: Santa Luce and the "two Italys" — a record, not a pass output |
 | `ROBOT_CULTURE_REVISIT_TRACKER_2026-10-23.md` | Work list for the Santa Luce revisit and its robot-culture sheet (founders re-ruled, `DR-60`); research paused until the allotment resets |
 | `RWBEM_A…F_*.md` | Real-World Basis Extrapolation — **one file per step** |
 
@@ -35,10 +36,10 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 | | |
 |---|---|
 | ⭐⭐⭐ **Datasheets** | `Datasheets/` — **READ FIRST, before Step −1.** Pre-staged, copy-pasted input (value + citation only, no synthesis) for every step/phase already built. ⛔ **Does NOT replace any MUST-OPEN read** — Step 4 still opens every primary source in full, per the Field Guide's own guardrail |
-| **Spec** | `../../../Specs/Abowasa.md` |
-| **Local culture** | `../../../Local_Cultures/Halley_Subnet/Abowasa.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* ⛔ *withheld for this pass (`DR-67`, 2026-10-28)* |
-| **Vision notes** | `../../../City_Vision_Notes/Abowasa.md` ⛔ *withheld for this pass (`DR-67`, 2026-10-28)* |
-| **Research log** | `../../../Research_Logs/Abowasa_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
+| **Spec** | `../../../Specs/Halley subnet/Santa_Luce.md` |
+| **Local culture** | `../../../Local_Cultures/Halley_Subnet/Santa_Luce.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* ⛔ *withheld for this pass (`DR-67`, 2026-10-28)* |
+| **Vision notes** | `../../../City_Vision_Notes/Santa_Luce.md` ⛔ *not an input at any step, corpus-wide (`DR-10`); also withheld for this pass (`DR-67`, 2026-10-28)* |
+| **Research log** | `../../../Research_Logs/Santa_Luce_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` ⛔ *withheld for this pass (`DR-67`, 2026-10-28)* |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 

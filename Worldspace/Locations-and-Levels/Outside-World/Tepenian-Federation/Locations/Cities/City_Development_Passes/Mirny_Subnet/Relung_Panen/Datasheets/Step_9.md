@@ -1,10 +1,10 @@
 # Relung Panen — Datasheet · Step 9 (Record)
 
-> ⚠ **DRAFT — Tier U.** Full text — the four required actions, the §9.5 recording law, and the three 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
+> ⚠ **DRAFT — Tier U.** Full text — the five required actions (four numbered, plus the item 5 paragraph below), the §9.5 recording law, and the three 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > procedural rules — is pasted in full at ⭐ `Corpus_Reference_Sheets/Step_9_Record_Full_Text_Quick_Reference.md`.
 
-**Quick index:** (1) append QA + Review Panel blocks · (2) add this location's differentiation column, same
-commit, and record anything noticed about ANOTHER city too · (3) update the tracker per Gate 0 — but the
+**Quick index:** (1) append QA + Review Panel blocks · (2) confirm this location's own differentiation entry (a row in the city table, written at Step 6), same
+commit, and record anything noticed about ANOTHER city too · (3) update the tracker per Gate 0 (its row carries each phase's status, proposed or confirmed — `M-287`) — but the
 finding itself goes to `OBSERVATIONS_and_Methodology_Findings.md`, never the tracker · (4) if the pass changed
 the methodology, update it in the same commit. §9.5: log everything that happened, not everything that worked
 — snags, dead ends, killed findings, self-corrections, all of it, written when it happens.

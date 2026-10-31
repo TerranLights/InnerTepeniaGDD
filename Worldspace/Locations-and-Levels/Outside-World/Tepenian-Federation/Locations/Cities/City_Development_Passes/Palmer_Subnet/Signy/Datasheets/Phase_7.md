@@ -8,13 +8,14 @@
 
 > ⚠ **DRAFT — Tier C.**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-10-23:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), recounted by hand 2026-10-30:** **8 of 13** addresses are named in this sheet (7 directly, 1 through a shared Tier U sheet it cites). Not covered: `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Industry_Staffing_and_Productivity/`, `National_Economy_and_Currency.md`, `Megacorps/`.
 
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Signy · Subnet: Palmer · D: 1.25 · Workforce: 142,127 · base%: 41.1% · MAND%: 17.7% · FREE%: 41.2% · src: C | `16_Per_City_Three_Tier_Run.md` L263 |
-| `16` — other lines naming the city (per-city passages and tables) | 21 line(s): L315, L950, L952, L958, L963, L968, L982, L990, L993, L1004, L1011–1012, L1015, L1649, L1709, L1744, L2018, L2021, L2031, L3560, L3563 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L315, L950, L952, L958, L963, L968, L982, L990, L993, L1004, L1011–1012, L1015, L1649, L1709, L1744, L2018, L2021, L2031, L3560, L3563 |
+| `16` Half B — the city's own row (the first-pass split, written 2026-09-02; the city's own determination in the next row supersedes it) | City: Signy · Subnet: Palmer · D: 1.25 · Workforce: 142,127 · base%: 41.1% · MAND%: 17.7% · FREE%: 41.2% · src: C — on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) | `16_Per_City_Three_Tier_Run.md` L264 |
+| `16` §8 — the city's own determination (`## 8. ✅ SIGNY — DETERMINED`); supersedes the Half B split above (manual-input audit, 2026-10-30) | Baseline 58,480 workers (41.1%) · Mandated 46,006 (32.4%) · FREE 37,641 (26.5%) · 58,480 + 46,006 + 37,641 = 142,127 · Distinctive tier 83,647 (58.9%) · Mandate itemized: Marine/fishing, FULL, 30% of the distinctive tier = 25,094 · Biological/ecological research, HALF, 15% = 12,547 · Maritime trade, HALF, 10% = 8,365 · 25,094 + 12,547 + 8,365 = 46,006 (55%) — on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) | `16_Per_City_Three_Tier_Run.md` L940–L1022 (heading L940; table L942–L946; distinctive tier L948; mandate L953–L958) |
+| `16` — other lines naming the city (per-city passages and tables) | 22 line(s): L318, L940, L955, L957, L963, L968, L973, L987, L995, L998, L1009, L1016–1017, L1020, L1654, L1714, L1749, L2023, L2026, L2036, L3565, L3568 *(line numbers only; L940 is the city's own upper-case heading, the §8 row above; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L318, L940, L955, L957, L963, L968, L973, L987, L995, L998, L1009, L1016–1017, L1020, L1654, L1714, L1749, L2023, L2026, L2036, L3565, L3568 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L129 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | \| Signy \| . \| . \| . \| . \| . \| . \| **6/6** \| | `Division_of_Industry_Sweep_2026-08-31.md` L178 |
 | ↳ `Division_of_Industry_Sweep_2026-08-31.md` | *[source line is a multi-city list; not copied, line number recorded only]* | `Division_of_Industry_Sweep_2026-08-31.md` L188 |
@@ -24,6 +25,6 @@
 | `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_Second_Interwar.md` L191, L193, L195, L197, L199, L203 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
-| MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **11 of 11** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |
+| MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **13 of 13** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |
 
 **Not mechanical / not included here:** governance/succession analysis, knowledge-transmission analysis, counterculture derivation, sanction-proportionality pricing — none of this exists until Signy's own pass runs.

@@ -2,7 +2,7 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** Feeds `00_Frame.md` when Denison's own Step 0 actually runs. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -17,6 +17,7 @@
 | Real-world basis | Cape Denison, Commonwealth Bay, George V Land, East Antarctica — Douglas Mawson's Australasian Antarctic Expedition (1911–1914) main base | `Specs/Denison.md` L3 |
 | Coordinates | ~67°00′S, 142°40′E | `Specs/Denison.md` L3 |
 | Extent — declared, two-zone | ⭐⭐ **~50 km² total.** Zone 1: cape + Mackellar (the spanned megastructure) — **4.96 km²**, ~198,400 people, ~40,000/km². Zone 2: inland corridor along Hwy 183 — **~45 km²**, ~707,800 people, ~15,700/km². Overall ~18,124/km² | `Specs/Denison.md` L20–27, ruling dated 2026-09-05 |
+| Extent file — Denison's own rows (two) | Row L210 (table under "THE PAIR THIS CREATES", L206): Denison · 1,066,143 · **~5 km²** · **214,948/km²** · "height". Re-address note L217: *"two-zone, ~50 km², −15% → 906,222 at 18,124/km²"*. Row L653 (table under "The discharge", L647): Denison · "−15%, extent declared ~50 km²" · Census I 159,921 · Census II 110,025. The pass reconciles the rows | `Extent_and_Density_Per_City.md` L210, L217, L653 *(2026-09-05 snapshot; the census is live — note L631)* |
 | ⏸️ **Density problem — DEFERRED, developer ruling 2026-09-02** | Naive surface density on the exposed cape alone (1.11 km², using the pre-reduction Census I figure of 1,066,143) computes to ~960,489/km². **Deferred** — *"it sounds like this will take many, many hours of research and creativity."* Not resolved. The two-zone extent declaration above (2026-09-05) addresses total city extent but the cape-specific density figure remains an open research item in its own right | `Specs/Denison.md` L84–161, full research and five options recorded there |
 | Cape Denison's own physical description | *"a rugged, 1.5 km wide tongue of ice, snow, rock and moraine"* — four rocky ridges running SSE–NNW, separated by three valleys filled with ice, snow and glacial moraine, plus six meltwater lakes and boulder fields. Ice cliffs at both ends and to seaward; the ice cap behind terminates in cliffs that periodically calve into the sea | `Specs/Denison.md` L103–114, sourced to AAD *Mawson's Huts — Cape Denison landscape* and Wikipedia *Cape Denison*/*Commonwealth Bay* |
 | Leading structural candidate (unresolved) | The city's own canon already states it is built as *"one continuous, interlinked, load-sharing structure rather than separate buildings."* The four rock ridges read as piers; the structure as the span, crossing the three ice-filled valleys. Usable footprint at real-world dense-city floor densities: full 1.11 km² spanning the valleys needs ~34 levels; ridges-only (~half the cape) needs ~69 levels | `Specs/Denison.md` L116–138 |

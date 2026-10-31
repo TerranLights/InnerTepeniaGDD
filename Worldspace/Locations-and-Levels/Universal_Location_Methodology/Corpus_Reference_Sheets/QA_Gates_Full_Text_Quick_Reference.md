@@ -1,7 +1,7 @@
 # QA Gates — Full Text Quick Reference (Step 7, 17 gates)
 
 > ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 7. Extracted in full from
-> `04_QA_Gates_and_Differentiation.md` Parts I–II (L96–414), read in full 2026-09-15. **Nothing below is
+> `04_QA_Gates_and_Differentiation.md` Parts I–II (L96–419; the sheet said L96–414 before later edits to that file), read in full 2026-09-15. **Nothing below is
 > city-specific — it is the same 17-gate checklist for all 38 cities and does not need re-extraction per city.**
 > ⚠ Only the ACTUAL pass/fail verdict for a given city is Tier C — that is Step 7's own future content, not this
 > sheet.

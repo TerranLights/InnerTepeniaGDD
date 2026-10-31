@@ -1,7 +1,7 @@
 # Tier U Reference — The Second Interwar Period
 
 > **Corpus-wide constant. Identical for every city, every pass. Not a per-city judgment call.**
-> Source: `Timeline Eras/2 The Second Interwar Period/README.md` (71 lines), extracted in full 2026-09-15.
+> Source: `Timeline Eras/2 The Second Interwar Period/README.md` (70 lines), extracted in full 2026-09-15.
 > Re-verify against the source if this file's own date changes; otherwise cite this file directly and stop.
 
 ## The frame

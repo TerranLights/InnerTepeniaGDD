@@ -7,11 +7,11 @@
 | Category | Value | Citation |
 |---|---|---|
 | Research log | **Exists** | Checked 2026-10-21: `Cities/Research_Logs/` |
-| `Inspirational-Influences.md` — the city's own picks section | Section at L121–L126; lines copied as written (cap 40) | `Inspirational-Influences.md` L121 |
-| ↳ picks line | - Odessa, Ukraine [PRIMARY] | `Inspirational-Influences.md` L122 |
-| ↳ picks line | - Varna, Bulgaria [SECONDARY] | `Inspirational-Influences.md` L123 |
-| ↳ picks line | - Trogir, Croatia [SECONDARY] | `Inspirational-Influences.md` L124 |
-| ↳ picks line | - Jeju City, Korea [SECONDARY] | `Inspirational-Influences.md` L125 |
+| `Inspirational-Influences.md` — the city's own picks section | Section at L152–L156 (heading `##### Mawson` at L152); lines copied as written (cap 40) | `Inspirational-Influences.md` L152 |
+| ↳ picks line | - Odessa, Ukraine [PRIMARY] | `Inspirational-Influences.md` L153 |
+| ↳ picks line | - Varna, Bulgaria [SECONDARY] | `Inspirational-Influences.md` L154 |
+| ↳ picks line | - Trogir, Croatia [SECONDARY] | `Inspirational-Influences.md` L155 |
+| ↳ picks line | - Jeju City, Korea [SECONDARY] | `Inspirational-Influences.md` L156 |
 | `Inspirational-Influences.md` status | ⚠ **Not a ratified root, demoted corpus-wide** (status already established elsewhere) | Corpus-wide standing note |
 | Overlap with the eBook pre-staging queue | This step's real work (search strings, book-extraction checklists) is the any-hour mechanical prep already queued corpus-wide (November item N-6); not duplicated here | Cross-link |
 

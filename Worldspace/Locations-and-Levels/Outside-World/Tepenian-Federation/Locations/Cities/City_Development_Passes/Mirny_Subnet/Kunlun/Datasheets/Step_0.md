@@ -4,13 +4,14 @@
 > bibliographic/census fact only, not the type/modifier/generator declaration itself.
 > ⛔ **Excluded sections — see `Step_-1.md`.** Nothing below cites them.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-10-23:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 0 H / 135,226 R / **135,226** combined — *"entirely robot; re-resolved 2026-07-06 as a curated astronomy/comms-heritage population — no longer entirely Chinese"* | `Specs/Kunlun.md` L33; cross-verified `Official_Population_Census.md` — exact match |
-| Census II | ⛔ **DOES NOT EXIST — a verified, source-affirmed absence.** Kunlun's population is entirely robot, and the source table generating Census II figures is scoped to cities with a human population | `Official_Population_Census.md` |
+| Census II | ⛔ **DOES NOT EXIST — a verified, source-affirmed absence.** Kunlun's population is entirely robot, and the source table generating Census II figures is scoped to cities with a human population | `Official_Population_Census.md` L642, L644 |
 | Retention / Census-II comparison | ⛔ Not computable — no Census II figure exists, so no retention percentage can be derived. This is a formula-blocking absence, not a hole (see Census II row above) | Computed-absent, per the two rows above |
+| Extent — Kunlun's row in the extent table *(2026-09-05 snapshot; the census is live — note L631)* | Census I of that date (pre-`DR-68`) 123,449 · required area **12 km²** at 10,000/km² (the table's `@10k` column) · **18 km²** at 7,000/km² (`@7k`) · Site: **Dome A**. Same arithmetic on the live Census I 135,226 *(computed here, not in the source)*: 135,226 ÷ 10,000 = **13.5 km²**; 135,226 ÷ 7,000 = **19.3 km²** | `Extent_and_Density_Per_City.md` L627 (table header L603–604; the 7,000–10,000/km² band L84); other lines naming Kunlun: L249, L578, L587 |
 | Coordinates / real-world basis | Kunlun Station (China / CHINARE), Dome A (Dome Argus), East Antarctic Plateau, ~80°25′S, 77°07′E | `Specs/Kunlun.md` L20 |
 | Timeline Era (Tier U) | The Second Interwar Period, corpus-wide, not a per-city judgment | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | Arcanet Subnet | Mirny ("Australian") | `Specs/Kunlun.md` L22 |

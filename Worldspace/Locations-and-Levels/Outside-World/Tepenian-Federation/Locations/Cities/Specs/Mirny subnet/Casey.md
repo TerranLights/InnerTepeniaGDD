@@ -17,7 +17,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | China, USA |
-| Significant | Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — shortest Australia-to-Antarctica route of any Tepenian city)* |
+| Significant | Japan, France, South Korea, Russia, Indonesia, Australia *(founding wave — a direct sea route from Australia)* |
 | Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -48,7 +48,7 @@
 
 ## Geographic Basis
 
-Casey sits on the Budd Coast of Wilkes Land, at Vincennes Bay — an inlet of the Southern Ocean on the East Antarctic coast. Its latitude of 66°16'S places it just north of the Antarctic Circle (66°33'S), which means it sits almost exactly on the threshold of the polar zone. The sun rises every day of the year, but winter days are very short — barely five hours of light around the solstice, with the sun tracking low across the horizon before disappearing again. In summer, the inverse: nearly nineteen hours of daylight.
+Casey sits on the Budd Coast of Wilkes Land, at Vincennes Bay — an inlet of the Southern Ocean on the East Antarctic coast. Its latitude of 66°16'S places it just north of the Antarctic Circle (66°33'S), which means it sits almost exactly on the threshold of the polar zone. The sun rises every day of the year, but winter days are very short — barely two and a half hours of light around the solstice, with the sun tracking low across the horizon before disappearing again. In summer, the inverse: the sun does not set at all for about three weeks around the solstice.
 
 The coast here is accessible by sea during the navigable season, with the Budd Coast offering reasonably sheltered anchorage by Antarctic standards. This made Casey a viable destination for incoming ships during the exile period.
 
@@ -64,7 +64,7 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 
 **Climate type:** Coastal polar — milder than the interior plateau; moderate maritime influence; stronger katabatic component than Palmer
 **Mean annual temperature:** -9.3°C  _(READER station: Casey; 1991–2020 WMO standard normal)_
-**Temperature range:** coldest months (July/August) avg −16°C; warmest month (January) avg +1°C
+**Temperature range:** coldest months (July/August) mean −14.7°C / −14.9°C; warmest month (January) mean −0.3°C
 **Record extremes:** record low approximately −37°C; record high approximately +9°C (rare summer peak)
 **Prevailing winds:** katabatic from the SE (off the interior ice sheet) combined with coastal westerly storm systems; average 7–10 m/s; strong gust events common; moderate storm frequency
 **Annual precipitation:** **225.1 mm** water equivalent _(Casey; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
@@ -93,8 +93,8 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 > when the sun fails to rise.** *A city of bright midsummer nights and dim-but-real midwinter days.* **The
 > "no polar night" half of the old entry was right; the "no midnight sun" half was wrong.**
 > *(Mirny, Dumont d'Urville and Denison are the other three cities in this band.)*
-**Winter solstice daylight minimum:** approximately 5–6 hours (June 21)
-**Summer solstice daylight maximum:** approximately 18–19 hours (December 21)
+**Winter solstice daylight minimum:** approximately 2.5 hours (June 21)
+**Summer solstice daylight maximum:** 24 hours — midnight sun (December 21)
 
 #### Monthly Summary
 
@@ -105,7 +105,7 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 | Mar | +5.6 | −4.1 | -7.2 | −9.8 | −25.1 | 18 | ~29% | 13.0 | Autumn; katabatic winds increasing |
 | Apr | +3 | −7.5 | -11.1 | −14.6 | −31.3 | 20.6 | ~31% | 9.3 | Rapid darkening; sea ice forming |
 | May | +4.5 | −11.1 | -14.7 | −18.5 | −34.4 | 25.6 | ~31% | 5.7 | Winter; very short days |
-| Jun | +4.2 | −10.4 | -14.4 | −18.3 | −34.1 | 27.5 | ~37% | 2.7 | Darkest period; ~5 hours daylight |
+| Jun | +4.2 | −10.4 | -14.4 | −18.3 | −34.1 | 27.5 | ~37% | 2.7 | Darkest period; ~2.5 hours at the solstice |
 | Jul | +3 | −10.2 | -14.7 | −18.4 | −36.4 | 28.5 | ~33% | 4.0 | Coldest month; katabatic season peak |
 | Aug | +5.8 | −10.2 | -14.9 | −18 | −37.5 | 21 | ~27% | 7.6 | Still cold; days beginning to lengthen |
 | Sep | +3.9 | −9.7 | -13.8 | −17.1 | −33.8 | 17.3 | ~29% | 11.3 | Spring; katabatics moderating |
@@ -124,12 +124,12 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 - **Katabatic winds:** less extreme than Janbogo but a persistent presence; the cold interior air from the plateau funnels toward the coast and creates strong, dry wind events that feel distinctly different from the maritime storm systems arriving off the sea
 - **Sea ice:** forms seasonally; the Budd Coast is accessible to shipping during the navigable season (roughly November–March) but ice-locked in winter; this directly determined Casey's supply windows
 - **Rapid condition shifts:** the combination of interior katabatics and maritime storm tracks means Casey's weather could change quickly; a mild coast-facing day could be followed immediately by a katabatic event off the plateau
-- **The Antarctic Circle effect:** at Casey's latitude, the winter solstice produces approximately 5 hours of very low-angle daylight; the sun barely clears the horizon, casting long shadows across the ice for a few hours before setting again; this "liminal" lighting quality — never quite dark, never quite bright in winter — is atmospherically distinct from both the full polar night cities further south and the longer-day maritime cities further north
+- **The Antarctic Circle effect:** at Casey's latitude, the winter solstice produces approximately 2.5 hours of very low-angle daylight; the sun barely clears the horizon, casting long shadows across the ice for a few hours before setting again; this "liminal" lighting quality — never quite dark, never quite bright in winter — is atmospherically distinct from both the full polar night cities further south and the longer-day maritime cities further north
 
 #### Gameplay Notes
 
 - **The threshold city:** Casey's position at the Antarctic Circle — the literal geographic edge of the polar zone — gives it a specific atmospheric quality; it is the last place that feels "connected" to the outside before the deep interior; travelers arriving from or departing to Concordia would have experienced a qualitative shift at Casey
-- **No polar night, barely:** the short winter days (5–6 hours) create a dim, liminal winter light rather than full darkness; ruins exploration in a Casey DLC or side-content setting would use low-angle winter light as an atmospheric tool rather than full polar night
+- **No polar night, barely:** the short winter days (about 2.5 to 4 hours in midwinter) create a dim, liminal winter light rather than full darkness; ruins exploration in a Casey DLC or side-content setting would use low-angle winter light as an atmospheric tool rather than full polar night
 - **Seasonal maritime access:** the sea ice cycle directly determined Casey's supply windows and visitor patterns; the city's destruction and its timing in the war should be considered in relation to whether Upper Earth forces arrived by sea
 - **Hardcore Mode influences:**
   - Cold exposure is significant but not at Concordia's extreme; travelers arriving from Upper Earth (or from Palmer City's milder Peninsula climate) would experience Casey as genuinely cold; travelers from Concordia might find it relatively mild

@@ -221,8 +221,8 @@ later pass will need to answer:
 - **How many, and at what level?** One per subnet? One per institute per subnet? A single shared foundational
   campus per region serving all three disciplines?
 - **⭐ Which cities host them** — and on what basis. Candidates suggest themselves from existing canon:
-  **Shirayuki** *(the second education-export city, educ 20% against a 2.0% own need)*, **Mawson** and
-  **Casey** *(subnet hubs)*, **Lazar** *(the largest city, and the Halley subnet's center of population)*.
+  **Shirayuki** *(the second education-export city, educ 20% against a 2.0% own need)*, **Mawson** *(a subnet hub)* and
+  **Casey**, **Lazar** *(the largest city, and the Halley subnet's center of population)*.
 - **Do the three disciplines co-locate or separate?** A shared satellite is cheaper; separate ones preserve
   the distinct traditions the main institutes are built on.
 - **⚠ Does a satellite dilute the bond?** If foundational training happens locally, the cohort-forged identity

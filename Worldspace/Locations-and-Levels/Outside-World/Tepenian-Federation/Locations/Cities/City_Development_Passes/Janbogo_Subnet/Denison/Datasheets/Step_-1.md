@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Location | `Cities/Specs/Janbogo subnet/Denison.md` — ⛔ folder is `Janbogo subnet`, space + lowercase `s` | Verified this turn |
-| Length | 362 lines total | `wc -l`, verified this turn |
+| Length | 361 lines total | `wc -l`, verified this turn |
 | Identity | Denison | `Specs/Denison.md` L1 |
 
 ## Verbatim header fields — admissibility is Step −1's own ruling
@@ -20,7 +20,7 @@ main base of Douglas Mawson's Australasian Antarctic Expedition (1911–1914)
 **Arcanet Subnet:** Janbogo
 **Access type:** ON
 **Highway access:** Hwy 183 (the Janbogo Highway).
-**Significance:** Among the windiest permanent habitation sites at sea level on Earth (avg ~80 km/h,
+**Significance:** Among the windiest permanent habitation sites at sea level on Earth (avg ~69 km/h (19.3 m/s measured),
 gusts 300+ km/h); founded on the legendary Mawson expedition site; "Home of the Blizzard" — the one
 Tepenian city whose civic identity is built on open pride in environmental extremity rather than
 quiet endurance
@@ -49,8 +49,8 @@ standing default-scope rule.*
 
 Cross-verified against `Official_Population_Census.md`, Denison's own two rows:
 ```
-L500: | 17 | Denison | Janbogo | 456,668 | 473,471 | 930,139 |
-L615: | 16 | Denison | Janbogo | 285,085 | 338,392 | 623,477 |
+L498: | 17 | Denison | Janbogo | 456,668 | 473,471 | 930,139 |
+L619: | 16 | Denison | Janbogo | 293,192 | 346,130 | 639,322 |
 ```
 — exact match on H/R/combined for both censuses.
 
@@ -80,7 +80,7 @@ the two Census I/II rows above.**
 
 > ⛔ **`DR-10`: developer-vision notes are post-ULM — not an input at any step.** Recorded here as a bibliographic
 > fact only; the notes are not copied into this sheet (trimmed 2026-10-27, developer-approved: vision material stays
-> out of frame, and no other city's datasheet carries a copy). File: `City_Vision_Notes/Denison.md` (25 lines).
+> out of frame, and no other city's datasheet carries a copy). File: `City_Vision_Notes/Denison.md` (27 lines).
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification
 (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

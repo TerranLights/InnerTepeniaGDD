@@ -7,10 +7,10 @@
 | Category | Value | Citation |
 |---|---|---|
 | Research log | Checked, **does not exist yet** — created at Step 3 when it runs, same convention corpus-wide | Checked 2026-10-21: `Cities/Research_Logs/` |
-| `Inspirational-Influences.md` — the city's own picks section | Section at L134–L138; lines copied as written (cap 40) | `Inspirational-Influences.md` L134 |
-| ↳ picks line | - Paro Taktsang, Bhutan [PRIMARY] | `Inspirational-Influences.md` L135 |
-| ↳ picks line | - Potala Palace, Tibet [SECONDARY] | `Inspirational-Influences.md` L136 |
-| ↳ picks line | - Angkor Wat, Cambodia [SECONDARY] | `Inspirational-Influences.md` L137 |
+| `Inspirational-Influences.md` — the city's own picks section | Section at L165–L168 (heading L165, picks L166–L168); lines copied as written (cap 40) | `Inspirational-Influences.md` L165 |
+| ↳ picks line | - Paro Taktsang, Bhutan [PRIMARY] | `Inspirational-Influences.md` L166 |
+| ↳ picks line | - Potala Palace, Tibet [SECONDARY] | `Inspirational-Influences.md` L167 |
+| ↳ picks line | - Angkor Wat, Cambodia [SECONDARY] | `Inspirational-Influences.md` L168 |
 | `Inspirational-Influences.md` status | ⚠ **Not a ratified root, demoted corpus-wide** (status already established elsewhere) | Corpus-wide standing note |
 | Overlap with the eBook pre-staging queue | This step's real work (search strings, book-extraction checklists) is the any-hour mechanical prep already queued corpus-wide (November item N-6); not duplicated here | Cross-link |
 

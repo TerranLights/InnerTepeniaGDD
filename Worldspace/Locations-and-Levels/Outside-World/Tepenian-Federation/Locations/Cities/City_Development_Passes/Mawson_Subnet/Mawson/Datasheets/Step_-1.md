@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mawson subnet/Mawson.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 185 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 184 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Mawson | `Specs/Mawson.md` L1 |
 | Real-world basis | Mawson Station (Australia / Australian Antarctic Division), Horseshoe Harbor, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E) | `Specs/Mawson.md` L3 |
 | Arcanet Subnet | Mawson (hub city) | `Specs/Mawson.md` L5 |

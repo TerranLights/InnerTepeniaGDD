@@ -5,7 +5,7 @@
 > — see below.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-10-23:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), recounted by hand 2026-10-30:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
 
 ## Source tree 1 — `Factions/Robot_Religions/` (the Tier U roster: Polydimensional Animism + Cymatics Reverence)
 
@@ -26,14 +26,14 @@
 | Category | Value | Citation |
 |---|---|---|
 | Ice-Cold Buddhism — Kunlun-specific hits | **4 of 7 files**, enumerated: `00_Extraction_Checklist.md`, `01_Metaphysics_of_Matter.md`, `07_Zen_Aesthetics_and_Philosophy.md`, `08_Synthesis_Doctrine_Notes.md` | Re-verified this turn: `grep -rln -i kunlun` against the folder |
-| Sacred sites — Kunlun's own status, quoted (own-portion only) | *"Kunlun (a science-first city with a genuine devout minority, not itself a religious city — this proportion must be preserved in any future writing)."* Placeholder faith name, not confirmed final | `Ice-Cold_Buddhism_Research/00_Extraction_Checklist.md` L6–9 |
+| Sacred sites — Kunlun's own status, quoted (own-portion only) | *"Kunlun (a science-first city with a genuine devout minority, not itself a religious city — this proportion must be preserved in any future writing)."* Placeholder faith name, not confirmed final | `Ice-Cold_Buddhism_Research/00_Extraction_Checklist.md` L7–9 |
 | ⭐⭐⭐ THE LOAD-BEARING CORRECTION — quoted verbatim in full | *"Important correction, confirmed by the developer 2026-07-16: Kunlun itself is not a fundamentally 'Ice-Cold Buddhist city.' It's a city of science first."* | `Factions/basis collection - robot religions/Analysis_Notes.md` L594–596 |
 | Metaphysics — the science/faith reconciliation, quoted | *"This gives a real, textually-grounded reason a devout adherent would value rigorous physical/scientific study as a genuine stage of the path, not a distraction from it — directly useful for reconciling Kunlun's established science-first character with its devout minority population without contradiction: serious science IS the first stage of the path in this doctrine, not opposed to it."* | `Ice-Cold_Buddhism_Research/01_Metaphysics_of_Matter.md` L77–80 |
 | Zen aesthetics — the same reconciliation, quoted (own-portion only) | *"…useful for a religion practiced by a devout minority within a science-first city, which must coexist rather than compete for dominance…"* | `Ice-Cold_Buddhism_Research/07_Zen_Aesthetics_and_Philosophy.md` L22–24 |
 | Synthesis doctrine — the same reconciliation again, quoted | *"…This reconciles Kunlun's science-first character with its devout minority population without contradiction: rigorous scientific study is the doctrine's own first stage, not something in tension with faith."* | `Ice-Cold_Buddhism_Research/08_Synthesis_Doctrine_Notes.md` L36–38 |
 | ⚠ Flagged existence only, NOT for this datasheet — the thermal-cycling mortality mechanic | `00_Extraction_Checklist.md` L139 raises repeated cold→warm→cold cycling from pilgrimage travel as a real mechanical-wear hazard for devout practitioners, with open questions about how it's treated in-world. ⛔ **This is adjacent to the RESERVED mortuary question — its existence is noted; it is NOT characterized, resolved, or connected to the mortuary reservation here** | `Ice-Cold_Buddhism_Research/00_Extraction_Checklist.md` L139–142 |
-| `The_True_Believer_Extraction.md` | Checked by name (`Kunlun`, `Kunlun Station`, `Kunlun Skiway`, `Dome A`, `Dome Argus`, `DOME PLATEAU DOME A`, `AYM00089577`): **zero hits** in a 378-line file | `The_True_Believer_Extraction.md` |
-| `The_Meme_Machine_Extraction.md` | Checked by name (`Kunlun`, `Kunlun Station`, `Kunlun Skiway`, `Dome A`, `Dome Argus`, `DOME PLATEAU DOME A`, `AYM00089577`): **zero hits** in a 293-line file | `The_Meme_Machine_Extraction.md` |
+| `The_True_Believer_Extraction.md` | Checked by name (`Kunlun`, `Kunlun Station`, `Kunlun Skiway`, `Dome A`, `Dome Argus`, `DOME PLATEAU DOME A`, `AYM00089577`): **zero hits** in a 377-line file | `The_True_Believer_Extraction.md` |
+| `The_Meme_Machine_Extraction.md` | Checked by name (`Kunlun`, `Kunlun Station`, `Kunlun Skiway`, `Dome A`, `Dome Argus`, `DOME PLATEAU DOME A`, `AYM00089577`): **zero hits** in a 292-line file | `The_Meme_Machine_Extraction.md` |
 
 ## Kunlun's own status, per its own Specs file
 

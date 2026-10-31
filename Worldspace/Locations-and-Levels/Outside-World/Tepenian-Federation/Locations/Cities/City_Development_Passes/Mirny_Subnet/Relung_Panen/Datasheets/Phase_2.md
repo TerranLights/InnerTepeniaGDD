@@ -2,7 +2,7 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** Tier U sources are cited at `Corpus_Reference_Sheets/`; nothing is re-quoted from the primary treaty here beyond the clauses shown. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-10-29:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (1 directly, 2 through a shared Tier U sheet it cites).
 
 
 | Category | Value | Citation |
@@ -12,6 +12,7 @@
 | Annotation in the spec tier table | `(via the Hobart gateway)` — **no date** | `Specs/Relung_Panen.md` L37 |
 | Per-nation breakdown (spec) | Present at L53–L75 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Relung_Panen.md` L53 |
 | `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L579–L642: the section heading, the method statement for this city, the tier table with its key drivers and the result block. **Cited by range, not quoted**: the section states a method specific to this city and makes first/only claims about other places, so which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L579–L642 |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how Factor 1 is measured) | Heading at L21 (`### ⭐ HOW FACTOR 1 IS MEASURED — the ±3 solar-UTC window`); the list "Recording it so it stops being reconstructed from examples" at L26–L33 (rule 1 at L28); the refinement box at L35–L63. **Cited by range, not quoted**: the list's worked examples name other cities | `Upper_Earth_Immigration_Composition.md` L21, L26–L33 |
 | Census I | **477,285** H / **494,585** R / **971,870** combined | `Official_Population_Census.md` L502 |
 | Census II | **340,951** H / **353,062** R / **694,013** combined | `Official_Population_Census.md` L621 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 71.41% · human 71.44% · robot 71.39% | Computed from the two rows above |

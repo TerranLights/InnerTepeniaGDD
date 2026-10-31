@@ -71,7 +71,7 @@ Organized alphabetically. Each profile contains the data needed to verify lore c
 - **Arcanet subnet:** Halley ("Atlantic")
 - **Highways:** Hwy 7
 - **Direct highway neighbors:** Belgrano (west; Halley's connecting road leaves Hwy 7 along this stretch), Sanay (east)
-- **Notes:** Finnish-Swedish joint founding, the only dual-national founding in Tepenia; seasonal in real life — smaller settlement than year-round stations; Neumayer is nearby but off Hwy 7 (connector road)
+- **Notes:** Founded by Italy's two successor states and the CIN, jointly (Founding Register; `DR-22`, `DR-60`); seasonal in real life — smaller settlement than year-round stations; Neumayer is nearby but off Hwy 7 (connector road)
 
 ---
 

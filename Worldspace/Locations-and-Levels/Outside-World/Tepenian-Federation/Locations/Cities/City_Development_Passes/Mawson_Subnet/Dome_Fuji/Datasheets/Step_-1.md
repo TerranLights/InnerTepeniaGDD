@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mawson subnet/Dome_Fuji.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 270 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+| Specs file length | 269 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
 | Identity / designation | Dome Fuji | `Specs/Dome_Fuji.md` L1 |
 | Real-world basis | Dome Fuji Station (Japan / JARE), East Antarctic Plateau, near Valkyrie Dome (~77°19'S, 39°42'E) | `Specs/Dome_Fuji.md` L30 |
 | Arcanet Subnet | Mawson *(corrected 2026-07-03 — this file previously said "Halley," conflicting with `City_Relationship_Database.md` and `Overview.md`, both of which agree on Mawson — connected via Arcanet cable, not road, despite the geographic distance from the Mawson subnet's coastal cities; subnets were organized by cable routing, not strict geographic proximity)* | `Specs/Dome_Fuji.md` L32 |
