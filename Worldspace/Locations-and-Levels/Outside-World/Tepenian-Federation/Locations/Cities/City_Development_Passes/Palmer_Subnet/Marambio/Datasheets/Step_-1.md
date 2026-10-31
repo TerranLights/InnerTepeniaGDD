@@ -16,7 +16,7 @@
 | Coordinates (as written in the same field) | ~64°14'S, 56°37'W | `Specs/Marambio.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Marambio.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L218, L223 — not copied, not described | `Specs/Marambio.md` L218, L223 |
-| Census I (spec's own line) | 283,442 humans / 286,827 robots / **570,269** combined *(island cap)* | `Specs/Marambio.md` L15 |
-| Census II (spec's own line) | 195,623 humans / 234,522 robots / **430,145** combined *(island cap)* | `Specs/Marambio.md` L16 |
+| Census I (spec's own line) | 283,442 humans / 286,827 robots / **570,269** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Marambio.md` L15 |
+| Census II (spec's own line) | 195,623 humans / 234,522 robots / **430,145** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Marambio.md` L16 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Marambio's own pass runs.

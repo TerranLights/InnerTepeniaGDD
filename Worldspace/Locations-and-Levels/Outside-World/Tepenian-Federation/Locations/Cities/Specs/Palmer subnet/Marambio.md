@@ -5,15 +5,15 @@
 **Arcanet Subnet:** Palmer ("American")
 **Access type:** ON
 **Highway access:** Confirmed 2026-07-03 as Hwy 1's northern terminus; **corrected 2026-07-06 — Marambio is actually a waypoint, not the terminus.** Esperanza is Hwy 1's true northern terminus; Marambio sits just south of it, reached via the causeway/bridge chain described below. Real-world verification confirmed Seymour Island sits in a tight island chain right off the Peninsula's tip — separated from Snow Hill Island by Picnic Passage (a strait only about 1 mile wide), with James Ross Island beyond that and the Prince Gustav Channel crossing to the Trinity Peninsula mainland. From Marambio, Hwy 1 continues to a ramp junction offering a road to Puerto Abrigo and a boat crossing to Palmer City, then a further ramp to Rothera, before the highway itself terminates at Byrd in West Antarctica. See `Locations/Infrastructure/Highways.md`.
-**Significance:** Argentine-founded city on Seymour Island; the most significant aviation hub in the Palmer subnet — had the most developed airstrip infrastructure of any Peninsula city. **Scope clarified 2026-07-16:** the airfield serves internal Tepenian traffic specifically — moving people and goods between Tepenian cities, not receiving Upper Earth arrivals, which route instead through Machu Picchu Base (King George Island, the dedicated Upper Earth customs/immigration gateway established for Palmer City). **Equally central, per the 2026-07-04 Vision Notes session (folded in here 2026-07-16): a working port on the island's inner side, facing the mainland** — unlike the airfield, the port serves everywhere: Marambio is the confirmed receiving node for South America, Tepenia's Palmer-subnet Upper Earth shipping partner (the fourth and final piece of the established framework alongside South Africa/Halley, New Zealand/Ross, Australia/Dumont d'Urville-Mirny-Mawson), *and* ships onward across the Weddell Sea to the Atlantic coastal cities (including Belgrano and Sanay) as part of Tepenia's own internal network — the port, not the airfield, is Marambio's actual link to both worlds at once. Named after Vicecomodoro Gustavo Marambio
+**Significance:** Argentine-founded city on Seymour Island; the most significant aviation hub in the Palmer subnet — had the most developed airstrip infrastructure of any Peninsula city. **Scope clarified 2026-07-16:** the airfield serves internal Tepenian traffic specifically — moving people and goods between Tepenian cities, not receiving Upper Earth arrivals, which route instead through Machu Picchu Base (King George Island, the dedicated Upper Earth customs/immigration gateway established for Palmer City). **Equally central, per the 2026-07-04 Vision Notes session (folded in here 2026-07-16): a working port on the island's inner side, facing the mainland** — unlike the airfield, the port serves everywhere: Marambio is the confirmed receiving node for South America, Tepenia's Palmer-subnet Upper Earth shipping partner (the fourth and final piece of the established framework alongside South Africa/Halley, New Zealand/Ross, Australia/Dumont d'Urville-Mirny-Mawson), *and* ships onward across the Weddell Sea to the Atlantic coastal cities (including Belgrano and Sanay) as part of Tepenia's own internal network — the port, not the airfield, is Marambio's actual link to both worlds at once. Named after Vicecomodoro Gustavo Marambio.
 **DLC:** Palmer subnet — DLC 3 (Antarctic Peninsula); destroyed — part of the Peninsula's dominant ruin landscape, alongside Palmer City and Contrapunto
 
 ---
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 283,442 humans / 286,827 robots / **570,269** combined *(island cap)*
-**Census II (Orbital Era):** 195,623 humans / 234,522 robots / **430,145** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 283,442 humans / 286,827 robots / **570,269** combined
+**Census II (Orbital Era):** 195,623 humans / 234,522 robots / **430,145** combined
 
 > ### ⭐⭐⭐ EXTENT — worked 2026-09-05. *City #5 of 11.* **This city arrived ALREADY CORRECT.**
 > **570,269 on Seymour Island's ~78 km² = 7,311/km²** — ⭐ *inside the 7,000–10,000/km² band that Signy,
@@ -33,7 +33,7 @@
 > > ⭐ **The two are opposite kinds of site — a wholly snow-free island, versus the largest coastal oasis.**
 > > **Everywhere else in the corpus builds on ice, on a rock scrap, or on stilts. This one has ground —
 > > bare, flat, drained, and 78 km² of it.** ⭐⭐ ***And that is the same fact as the airfield.*** *The real
-> > runway here is the only one in Antarctica needing no snow or ice preparation, for exactly this reason.*
+> > runway here sits on bare ground and needs no snow or ice preparation, for exactly this reason.*
 > > **The aviation identity is not sited on the geology; it IS the geology.**
 >
 > #### ⛔ SUPERSEDED — **the pool did NOT come here. Marambio is unchanged at 570,269.**
@@ -107,7 +107,7 @@
 
 Marambio sits on Seymour Island — Isla Marambio in Argentine notation — off the eastern coast of the Antarctic Peninsula, in the Weddell Sea. The island is separated from Snow Hill Island by the narrow Picnic Passage *(corrected — this line previously said "Herbert Sound," a real but unrelated strait separating Vega Island from James Ross Island; see Notable Locations, below, for the full causeway/bridge chain to the mainland)*. At 64°14'S, it is south of Esperanza but still north of the Antarctic Circle; no polar night, no midnight sun.
 
-The Argentine Air Force chose Seymour Island for the runway — flat terrain, reasonable approach corridors, and a strategic eastern Peninsula position. In the exile era, this runway infrastructure made Marambio the Palmer subnet's primary aviation hub, distinct from Rothera's paved runway but serving a different operational role. Where Rothera's runway connected the western coast to the Peninsula network, Marambio's eastern position connected to the Weddell Sea region.
+The Argentine Air Force chose Seymour Island for the runway — flat terrain, reasonable approach corridors, and a strategic eastern Peninsula position. In the exile era, this runway infrastructure made Marambio the Palmer subnet's primary aviation hub, distinct from Rothera's gravel runway but serving a different operational role. Where Rothera's runway connected the western coast to the Peninsula network, Marambio's eastern position connected to the Weddell Sea region.
 
 ### Annual Climate
 
@@ -117,9 +117,9 @@ The Argentine Air Force chose Seymour Island for the runway — flat terrain, re
 **Mean annual temperature:** -8.0°C  _(READER station: Marambio; 1991–2020 WMO standard normal)_
 **Prevailing winds:** ⭐ **NW and SW, with a monthly mean vector near 270° (west) — but the storms arrive on the SOUTHWESTERLIES.** **Gusts to 220 km/h** during the winter months. ⭐⭐ **Two opposing air masses meet on this one site, because it sits on the Peninsula's EASTERN side:** *the mountain spine blocks the Southern Ocean westerlies and delivers them over the top as a **föhn** — warm and dry — while the **Weddell Sea Low** pushes cold, dry **southerly barrier winds** up the same coast.* ⚠ *The föhn is the mechanism behind the disputed +20.75 °C reading recorded below; it is also why the eastern Peninsula is colder and drier than the western in the mean, yet holds the sharper warm spikes.* *(researched 2026-09-04; direction and mechanism added 2026-09-05)*
 **Record extremes:** record high **+17.4 °C** (23 March 2015); record low **−38.3 °C**. ⚠ *A reading of +20.75 °C was reported here on 9 February 2020 and widely circulated, but **WMO rejected it** — the sensor was a permafrost monitoring unit under an improvised radiation shield. The mainland record belongs to Esperanza's 18.3 °C.* *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −17°C; warmest month avg 0°C
-**No polar night; no midnight sun** — at 64°14'S; winter minimum daylight ~4–5 hours; summer maximum ~19–20 hours
-**Polar night:** ⛔ **none** — at 64°14'S the city lies roughly ~415 km north of the Antarctic Circle; the sun rises every day of the year
+**Temperature range:** coldest months (June/July) mean −14.8°C and −14.9°C; warmest month (January) mean −0.8°C
+**No polar night; no midnight sun** — at 64°14'S; winter minimum daylight approximately 4.1 hours; summer maximum approximately 21.2 hours
+**Polar night:** ⛔ **none** — at 64°14'S the city lies roughly ~260 km north of the Antarctic Circle; the sun rises every day of the year
 **Midnight sun:** ⛔ **none** — the sun sets every night of the year
 **Winter solstice daylight minimum:** approximately 4.1 hours
 **Summer solstice daylight maximum:** approximately 21.2 hours

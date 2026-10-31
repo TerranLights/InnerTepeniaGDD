@@ -693,3 +693,29 @@ Developer: *"for Items #7 and #12, that's something that we'll need to look into
 Open note (not asked): Rothera's spec tags both Argentina and Chile "(founding wave)" while the Register's founders there are North America and Argentina; not raised at the time; the developer has not ruled.
 
 Check: spec 173 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing lines); coverage check 0 gaps.
+
+## Marambio (done 2026-10-31) — fourth Palmer-subnet city
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."* (Geographic order: Signy, Rothera (out of order by mistake), Esperanza, Marambio; next Contrapunto, Pergamino, Puerto Abrigo, Palmer City, then Byrd and Amundsen Station.)
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Temperature (spec L120) | June/July means −14.8 and −14.9 °C; January mean −0.8 °C; sheet mirrors it |
+| 2 | Daylight (L121) | 4.1 and 21.2 hours (calculated 4.05 and 21.21) |
+| 3 | Distance north of the Antarctic Circle (L122) | roughly ~260 km (calculated 258); sheet mirrors it |
+| 4 | "Colder and drier" vs "genuinely wet" (L116, L130) | left (comparison clause) |
+| 5 | Rothera's runway (L110) | "paved" → "gravel" |
+| 6 | "The only runway in Antarctica needing no snow or ice preparation" (spec L36; extent file L423–L424) | reworded to "sits on bare ground and needs no snow or ice preparation" (Marambio's runway is unpaved compacted rock and gravel on permafrost, about 1,200–1,260 m; Rothera's crushed-rock runway needs none either) |
+| 7 | Extent file heading (L421) | "ONE OF ONLY TWO TEPENIAN CITIES THAT NEVER HAD TO BUILD ON ICE" (Davis is the other) |
+| 8 | "(island cap)" | removed from spec and census; sheets say so |
+| 9 | Esperanza's old population in spec L58 | HELD for the Esperanza research of 2026-11-01 (Weekly To-Do entry extended) |
+| 10 | Alias set | confirmed as listed in MB-005; Pre-Trip §A and §J updated; James Ross Island recorded as the ground reserved for Esperanza |
+| 11 | Spec L8 | closed with a period only |
+| 12 | "(founding wave)" tags | left as they are at Marambio, Rothera and Esperanza (Argentina and Chile both tagged; Register founders are Argentina, or North America and Argentina at Rothera); **question for the developer, unanswered:** does the tag mean "Register founder" or "founding-era arrival"? |
+| 13 | Machu Picchu gateway "established for Palmer City" (L8, L190) vs the airports file "near Contrapunto" | cross-city; to raise at Contrapunto and Palmer City |
+| 14 | `Settled:` and `Founding population:` rows | copied as stated (Marambio rows 43–44); catch-up at Esperanza row 43 (Background-Lore pointer clause bracketed) |
+| 15 | Sheet gaps | `Phase_4` national economy (7 of 7); five `Phase_7` rows (13 of 13); `Phase_5` `Worldspace/Locations/` rows (6 of 6); timeline-repo lines (Timeline.md L264, L266–267, L320, L444; Amundsen archive L41) flagged in the Pre-Trip and `Phase_5` |
+
+Noted, no action: peer lines; the `16` §12 one-unit rounding (428,549 vs 428,548); the audit's "airfield maintenance" text does not exist in the spec.
+
+Check: spec 232 lines, census 810, extent file 709 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE: the copied rows' "survive" words, read); coverage check 0 gaps.

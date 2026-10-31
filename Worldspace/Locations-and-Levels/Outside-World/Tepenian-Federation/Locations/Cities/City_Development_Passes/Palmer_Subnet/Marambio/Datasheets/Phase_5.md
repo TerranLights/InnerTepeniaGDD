@@ -6,11 +6,13 @@
 
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **5 of 6** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites). Not named in any row: the universe repo's `Worldspace/Locations/` (location canon and routes).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites). The universe repo's `Worldspace/Locations/` got its rows on 2026-10-31.
 
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Highways.md` — lines naming the city | **Route:** Esperanza *(northern terminus)* → Marambio → *(ramp: road to Puerto Abrigo; boat to Palmer City)* → *(ramp: road to Rothera)* → Byrd *(western terminus)* | `Highways.md` L75 |
 | ↳ `Highways.md` — lines naming the city | - Northern terminus is **Esperanza**, not Marambio. | `Highways.md` L79 |
 | ↳ `Highways.md` — lines naming the city | - Marambio itself sits on the main line, reached via a causeway/bridge chain across the Seymour Island / Snow Hill Island / James Ross Island group and the Prince Gustav Channel. | `Highways.md` L81 |
@@ -54,5 +56,6 @@
 | ↳ entry line | *[source line compares the city with other places; not copied, line number recorded only]* | `City_Relationship_Database.md` L308 |
 | `City_Cross_Subnet_Relationships.md` — lines naming the city | 5 line(s): L36, L83, L93, L201, L210 *(line numbers only)* | `City_Cross_Subnet_Relationships.md` L36, L83, L93, L201, L210 |
 | `City_National_Connections.md` — lines naming the city | 5 line(s): L77, L184, L186, L207, L555 *(line numbers only)* | `City_National_Connections.md` L77, L184, L186, L207, L555 |
+| Timeline repo — lines naming the city *(flag only)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/2 The Second Interwar Period/Timeline.md` L264, L266–L267 (distance-table lines), L320 (a composition line) and L444 (a station-siting line); `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Amundsen_Station_Archive_and_Trucking_Network.md` L41 (a roster line). Context lines in a repo that takes no worldbuilding edits: **found, not extracted** | the two files, checked 2026-10-31 |
 
 **Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis — none of this exists until Marambio's own pass runs.
