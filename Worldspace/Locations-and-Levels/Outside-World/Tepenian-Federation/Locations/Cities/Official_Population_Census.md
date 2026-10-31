@@ -227,9 +227,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA, Japan |
-| Significant | South Korea, Canada, Indonesia, Australia |
-| Notable | Germany, France, UK, New Zealand, Mexico, Chile, Czech Republic, Brazil, Slovakia, Thailand, Russia, Serbia, Belgium, Italy, Norway, Croatia, South Africa, China, Slovenia, Romania, Philippines, Netherlands, Poland, Bulgaria, Vietnam, Spain, Latvia, Argentina, Sweden, Belarus, Ukraine, Finland, Lithuania, Malaysia, Hungary, Uruguay |
+| Primary | USA, Canada |
+| Significant | Australia, Japan, South Korea, China |
+| Notable | Germany, France, UK, New Zealand, Mexico, Chile, Czech Republic, Brazil, Slovakia, Thailand, Russia, Serbia, Belgium, Italy, Norway, Croatia, South Africa, Indonesia, Slovenia, Romania, Philippines, Netherlands, Poland, Bulgaria, Vietnam, Spain, Latvia, Argentina, Sweden, Belarus, Ukraine, Finland, Lithuania, Malaysia, Hungary, Uruguay |
 
 ---
 
@@ -536,7 +536,7 @@ National communities are classified by tier based on long-run population share. 
 | Mawson / Indian Ocean | 815,225 | 947,651 | **1,762,876** |
 | Palmer / Antarctic Peninsula | 2,170,615 | 2,173,264 | **4,343,879** |
 | Mirny / Wilkes Land + Plateau | 4,210,051 | 4,633,587 | **8,843,638** |
-| Byrd / Ross Ice Shelf | 198,406 | 202,399 | **400,805** |
+| Byrd / West Antarctic Ice Sheet | 198,406 | 202,399 | **400,805** |
 | Amundsen / South Pole | 1,121 | 5,736 | **6,857** |
 | *Non-city: maritime fleet* | 11,205 | 11,777 | **22,982** |
 | **TOTAL** | **15,623,523** | **16,403,077** | **32,026,600** |
@@ -654,7 +654,7 @@ National communities are classified by tier based on long-run population share. 
 | Mawson / Indian Ocean | 520,628 | 612,622 | **1,133,250** |
 | Palmer / Antarctic Peninsula | 1,416,386 | 1,690,560 | **3,106,946** |
 | Mirny / Wilkes Land + Plateau | 2,938,003 | 3,043,184 | **5,981,187** |
-| Byrd / Ross Ice Shelf | 0 | 0 | **0** |
+| Byrd / West Antarctic Ice Sheet | 0 | 0 | **0** |
 | Amundsen / South Pole | 913 | 3,978 | **4,891** |
 | *Non-city: space workforce* | 4,054 | 3,869 | **7,923** |
 | *Non-city: maritime fleet* | 4,053 | 3,869 | **7,922** |

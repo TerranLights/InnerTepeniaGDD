@@ -23,7 +23,7 @@
 > heat comes out.***
 >
 > **It also explains something otherwise odd:** **Byrd is an ICE-SHEET city with bedrock 2,164 m down, and it
-> holds one of only ten airports in Tepenia.** **A city with no rock has a working airstrip because its
+> holds one of Tepenia's thirteen airports.** **A city with no rock has a working airstrip because its
 > industry is what maintains it.**
 >
 > ### Engineering notes, recorded honestly
@@ -138,7 +138,7 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 
 ### Annual Climate
 
-**Climate data source:** NSF / US Antarctic Program (USAP, historical) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_
+**Climate data source:** NSF / US Antarctic Program (USAP, historical) — historical Byrd Station record, 1957–1969 (the station closed about 1969; BAS READER lists the station but holds no monthly means for it, and no 1991–2020 normal exists)  _https://legacy.bas.ac.uk/met/READER/_
 
 *(Research note: verify all figures against Byrd Station climate records — NOAA and USAP have historical data. Note that Byrd Station operated intermittently and was buried; some records are discontinuous.)*
 
@@ -161,7 +161,7 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately Apr 19 → Aug 25 (~129 days)
-**Midnight sun:** approximately Oct 18 → Feb 25 (~131 days — one of the longer midnight sun periods in Tepenia due to high latitude)
+**Midnight sun:** approximately Oct 18 → Feb 25 (~131 days — due to the high latitude)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
 **Summer solstice daylight maximum:** N/A — midnight sun in effect; 24 hours
 
@@ -185,7 +185,7 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 ***Monthly record extremes (Byrd Station, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
 
 
-***Column provenance (Byrd Station (1961-1990), researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⚠ derived — station publishes daily means and record extremes but no mean daily max/min. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (Byrd Station (1961-1990), researched 2026-09-04)** — **Avg Temp:* ⚠ historical Byrd Station record (1957–1969), rounded to whole degrees, **not checked against a data file**: the BAS READER file for Byrd holds no monthly means (N/A) and no 1991–2020 normal exists. A reconstructed 1957–2025 record (Ohio State) exists and is queued for research. **Temp Range:* ⚠ derived — station publishes daily means and record extremes but no mean daily max/min. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
 
 
 
@@ -286,7 +286,7 @@ West Antarctic geology offers mineral resources distinct from the eastern statio
 Byrd is the most geographically distant surviving city from Concordia. Communication between them is limited by the Planetary Split Brain (Byrd is a different subnet) and by physical distance. Concordia knows Byrd is struggling; Byrd knows Concordia is the last major city. What either city can actually do for the other, given the distance and the infrastructure situation, is an open question that DLC 2 will need to address.
 
 **How Byrd refugees reached Concordia — the aviation route:**
-Byrd refugees who made it to Concordia did not travel overland across the continent. They flew. Byrd maintained aviation infrastructure — the only city in Tepenia to do so — and the distance from Byrd to Janbogo, while substantial, was within the operational range of the aircraft.
+Byrd refugees who made it to Concordia did not travel overland across the continent. They flew. Byrd maintained aviation infrastructure — one of the few cities in Tepenia to do so — and the distance from Byrd to Janbogo, while substantial, was within the operational range of the aircraft.
 
 From Janbogo, passengers made the rest of the journey to Concordia by road via Hwy 183. The aviation route's purpose was simply to bridge the gap between Byrd and the Tepenian road network; Janbogo was the point where that bridge landed.
 

@@ -5,13 +5,17 @@
 
 > ⛔⛔ **DoI CITATION GATE — binds every Division-of-Industry figure below.** `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`: workforce, difficulty, baseline load, distinctive tier and a city's own sector sizes are citable; an export headcount is not; nor is any "feeds N people" claim.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **5 of 6** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites; `Specs/`, `READER/` and `Stations/` are counted through the rows that cite a file inside each). Not named in this sheet: the universe repo's `Worldspace/Locations/` (`/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/`; it is named in `Phase_5.md`).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 1), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites; `Specs/`, `READER/` and `Stations/` are counted through the rows that cite a file inside each). The universe repo's `Worldspace/Locations/` got its rows here on 2026-10-31.
 
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ README.md | 3. **Subnet Ultra-Megasheets** (`.../City_Megasheets/<Subnet>/<Subnet>_Subnet_Ultra_Megasheet/`) — one per subnet, synthesizing that subnet's own cities. Byrd is a single-city subnet, so its own City Megasheet stands in for a Subnet Ultra-Megasheet. | `…/Worldspace/Locations/README.md` L11 |
+| ↳ README.md | 5. **Super-Ultra-Megasheet** (`Worldspace/Locations-and-Levels/Super_Ultra_Megasheet/`) — the whole game-world treated as one subject: all 5 Subnet Ultra-Megasheets, Byrd, Concordia's Ultra-Megasheet, Amundsen Station, and nationwide census data, plus cross-regional Patterns/Throughways documents. Marked tentative in places pending still-open city-level decisions (e.g. Byrd's own central conflict). | `…/Worldspace/Locations/README.md` L13 |
+| ↳ README.md | - **Byrd** — single-city subnet | `…/Worldspace/Locations/README.md` L22 |
 | `Access type:` | ON | `Specs/Byrd.md` L52 |
-| Spec climate — climate data source | NSF / US Antarctic Program (USAP, historical) — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Byrd.md` L141 |
+| Spec climate — climate data source | NSF / US Antarctic Program (USAP, historical) — historical Byrd Station record, 1957–1969 (the station closed about 1969; BAS READER lists the station but holds no monthly means for it, and no 1991–2020 normal exists)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Byrd.md` L141 |
 | Spec climate — climate type | Continental polar — West Antarctic interior; [...] deep inland; [...] · elevation: approximately 1,530 meters above sea level *(the elevation sentence's comparison with another place is not copied)* *([...] = a clause comparing the city with another place, not copied)* | `Specs/Byrd.md` L145; elevation `Specs/Byrd.md` L131 |
 | Spec climate — mean annual temperature | approximately −28°C  _(historical; Byrd Station operational period 1957–1969; no 1991–2020 data — station not active in that period)_ | `Specs/Byrd.md` L146 |
 | Spec climate — temperature range | coldest months (July/August) avg −40°C; warmest month (January) avg −12°C | `Specs/Byrd.md` L147 |

@@ -3366,7 +3366,7 @@ Salvage/grounded aviation fleet maintenance 10% · Other 5%.
 |--:|--:|---|---|
 | **30%** | 54,333 | **Mechanized fabrication — FULL** | ✅ One of only **two** current chamber-manufacturing cities |
 | **25%** | 45,278 | **Import/export & dispatch — FULL** | ✅ **Both ends of the chain in one sector**; double main-line terminus |
-| **5%** | 18,111 ÷ 2 = **9,056** | **Half of aviation fleet maintenance** | ✅ Byrd holds one of only **ten** airports in Tepenia |
+| **5%** | 18,111 ÷ 2 = **9,056** | **Half of aviation fleet maintenance** | ✅ Byrd holds one of **thirteen** airports in Tepenia |
 | **60%** | **108,667** | | |
 
 ### ⚠ A stale figure corrected before calculating
@@ -3404,7 +3404,7 @@ and then established the infrastructure that makes it work:**
 cannot dump waste heat locally without melting the structure it lives in. The heat has to leave.**
 
 **And it explains something otherwise odd:** **an ice-sheet city with bedrock 2,164 m down holds one of only
-ten airports in Tepenia** — **because its industry is what maintains the strip.** ***That physical coupling
+thirteen airports in Tepenia** — **because its industry is what maintains the strip.** ***That physical coupling
 is the argument for mandating the aviation sector: the airfield is not adjacent to the industrial complex, it
 is downstream of it.***
 

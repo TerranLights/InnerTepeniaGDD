@@ -805,3 +805,27 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits as
 Noted, no action: peer lines; `16` §13's quote of the withheld Vision Notes; L216 (settled the day of the treaty) vs the treaty sheet, the Register agreeing with the spec.
 
 Check: spec 327 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE on two older lines: `Step_-1.md` L15 "pre-war" in the copied Significance text, `Step_7.md` L13); coverage check 0 gaps.
+
+## Byrd (done 2026-10-31) — the Byrd subnet's only city
+
+Developer: *"For Item #1, those records from Ohio State's reconstructed Byrd temperature record (1957–2025), let's research as soon as we can (ideally after 11pm tonight, but in all likelihood, probably tomorrow). Everything else looks right. Go ahead and make all the necessary edits as you've suggested."*
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Climate source (spec L141, L188) | relabeled: the historical Byrd Station record, 1957–1969; the READER file has N/A for every month; the table's Mean column marked not checked against a data file; `Phase_3` now carries the twelve means labeled unchecked. **Research queued** on the Ohio State reconstructed record (1957–2025): tonight after 23:00 or, more likely, tomorrow |
+| 2 | Polar night and midnight sun (L163–L164; table daylight) | checked by calculation (129 and 131 days): right |
+| 3 | Superlative on L164 | trimmed |
+| 4 | Wind line (L149) vs the box (L160) | left (comparison clause) |
+| 5 | "One of only ten airports" (spec L26; `16` L3369, L3407) and "the only city ... to do so" (L289) | thirteen; "one of the few cities" |
+| 6 | Census Section A entry | brought to the spec's 2026-07-06 re-tiering; `Phase_2` row "Agree" |
+| 7 | Four cross-city lines on the old "USA + Japan" pairing | left for the comparison stage |
+| 8 | Label "Byrd / Ross Ice Shelf" | census rows corrected to "West Antarctic Ice Sheet"; composition-file spots queued |
+| 9 | Russia share and the missing city-level composition section | carried to the population work; the 577-line research log recorded as not an input |
+| 10 | Alias set | confirmed as listed in BY-005 |
+| 11 | Spec L251 and L278 | recorded in the Pre-Trip: Step −1 must not admit them |
+| 12 | Labels and care-notes | `Phase_6` St. Richard row care-note added (the `Phase_4` `09` row was already labeled) |
+| 13 | Sheet gaps | `Step_1_and_2` `Worldspace/Locations/` rows (6 of 6); `Phase_4` national economy (7 of 7); five `Phase_7` rows (13 of 13); timeline-repo lines flagged in the Pre-Trip and `Phase_5` |
+
+Noted, no action: the other peer lines; the Register says Byrd was founded by a joint team of first-wave Tepenians (no founding-wave tags to question).
+
+Check: spec 329 lines, census 810, `16` 3578 unchanged by `wc -l`; verifier 0 FAIL (2 NOTES, both on rows not edited: later-era words in `Step_3.md` L17 and `Step_7.md` L13; an inference marker in `Step_1_and_2.md` L41, read); coverage check 0 gaps.
