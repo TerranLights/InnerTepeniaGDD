@@ -506,7 +506,7 @@ National communities are classified by tier based on long-run population share. 
 | 24 | Dumont d'Urville | Janbogo | 201,194 | 206,807 | **408,001** | ⭐ **−10% 2026-09-05 — Gate 11.** *Was 223,549 / 229,785 / **453,334**.* ⛔ **`island cap` ANNOTATION REMOVED — this city is NOT island-capped**: it is a two-highway junction whose mainland half sits at the ice-sheet edge *(`Extent_and_Density_Per_City.md` §5)*. ⭐ **Extent declared: 45 km² mainland + ~2 km² archipelago = 47 km² → 8,681/km².** ⛔ **OVERFLOW 22,355 H / 22,978 R / 45,333 C HELD — §D-OVERFLOW** |
 | 25 | Fort McMurdo | Janbogo | 222,190 | 223,120 | **445,310** | *(revised 2026-07-04)* |
 | 26 | Vostok | Mirny | 141,755 | 271,422 | **413,177** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,778 R *(was 129,617 / 259,644 / **389,261**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
-| 27 | Juan Carlos | Palmer | 189,742 | 196,950 | **386,692** | *(island cap; revised 2026-07-04)* |
+| 27 | Juan Carlos | Palmer | 189,742 | 196,950 | **386,692** | *(revised 2026-07-04)* |
 | 28 | Scott | Janbogo | 189,817 | 196,194 | **386,011** | *(island cap; revised 2026-07-04)* |
 | 29 | Byrd | Byrd | 198,406 | 202,399 | **400,805** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,777 R *(was 186,268 / 190,622 / **376,890**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 30 | Palmer City | Palmer | 165,912 | 166,896 | **332,808** | *(island cap; revised 2026-07-04)* |
@@ -630,7 +630,7 @@ National communities are classified by tier based on long-run population share. 
 | 26 | Dumont d'Urville | Janbogo | 121,170 | 159,635 | **280,805** | ⭐ **−10% 2026-09-05** — *retention preserved (68.8248% → 68.8246%).* ⛔ `island cap` removed. **OVERFLOW 13,464 H / 17,737 R / 31,201 C HELD — §D-OVERFLOW** |
 | 27 | Sanay | Halley | 153,905 | 137,057 | **290,962** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 145,798 / 129,319 / **275,117**)*. Arithmetic, NOT a migration. |
 | 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** |  |
-| 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
+| 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** |  |
 | 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | ⭐ **unchanged** — *extent declared, no population correction.* ⛔ `island cap` removed |
 | 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** |  |
 | 32 | Port Lockroy | Palmer | 387 | 304 | **691** | ⭐ **REDUCED 2026-09-05** — *scaled from the Census I reduction; Port Lockroy's own CII/CI retention preserved (74.41% → 74.38%) and CII's own H/R split preserved.* ⛔ **OVERFLOW 53,316 H / 41,899 R / 95,215 C HELD — see §D-OVERFLOW** |

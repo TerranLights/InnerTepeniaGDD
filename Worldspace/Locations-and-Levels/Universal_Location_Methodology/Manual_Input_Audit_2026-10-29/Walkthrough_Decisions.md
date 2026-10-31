@@ -741,3 +741,24 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits as
 Noted, no action: peer lines; revisit passages; tier percentages vs the 8:3:1 model; the Machu Picchu gateway sits on King George Island (consistent with the airports file); "established for Palmer City" goes to Palmer City.
 
 Check: spec 189 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing line); coverage check 0 gaps.
+
+## Pergamino (done 2026-10-31) — sixth Palmer-subnet city
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."*
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Temperature, polar-night distance, daylight (spec L94, L109, L111–112) | checked against the station means and calculation (435 km; 4.86 and 20.09 hours): fine |
+| 2 | Precipitation labels (L96, L132; sheet rows 17 and 19) | "measured" relabeled as measured at the proxy station (Bellingshausen) and design-grade for this site; the older block at L135–L140 noted as superseded where it differs |
+| 3 | De-stacking note (L46) | "each tier's total and its order within the tier" |
+| 4 | Uruguay absent from the composition although the Register's first founder | not edited; carried to the composition re-derivation (Weekly To-Do) |
+| 5 | Founding-wave tags | left; the question about what the tag means is still open |
+| 6 | "(island cap)" | removed from spec and census (L19 keeps "destroyed"); sheets say so |
+| 7 | Alias set | confirmed as listed in PG-006; Byers Peninsula recorded as the sourcing trap; Ports L508–L509 added |
+| 8 | Geothermal heating file | named Phase 3 input, own-lines only (Pre-Trip row and `Phase_3` row) |
+| 9 | The Machu Picchu airport (spec L205; Airports L17, L34, L35; timeline `Juan_Carlos.md` L13) | no conflict; no change; also settles Marambio's "established for Palmer City" |
+| 10 | Sheet gaps | `Phase_4` national economy (7 of 7); five `Phase_7` rows (13 of 13); timeline-repo lines (Amundsen archive L9, L11, L13, L112; `World_History_Reference.md` L134, L136, L140; Timeline.md L265, L267, L322; `No_National_Stereotypes.md` L172–L174) flagged in the Pre-Trip and `Phase_5` |
+
+Noted, no action: peer lines; the repeated targeting passage; four Division-of-Industry files name the city but no sheet lists them (names only).
+
+Check: spec 208 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (2 NOTES, both on rows not edited: later-era words in `Step_7.md` L13; inference markers in `Step_-1.md` L17, read); coverage check 0 gaps.

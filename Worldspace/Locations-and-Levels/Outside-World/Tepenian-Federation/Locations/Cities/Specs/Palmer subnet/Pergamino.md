@@ -15,8 +15,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 189,742 humans / 196,950 robots / **386,692** combined *(island cap)*
-**Census II (Orbital Era):** 118,910 humans / 127,462 robots / **246,372** combined *(island cap; destroyed)*
+**Census I (Pre-Orbital Era):** 189,742 humans / 196,950 robots / **386,692** combined
+**Census II (Orbital Era):** 118,910 humans / 127,462 robots / **246,372** combined *(destroyed)*
 
 > ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **population UNCHANGED per developer ruling.**
 > **`**Extent band:** ~48 km².`** **386,692 ÷ 48 km² = 8,056/km²** — *inside the 7,000–10,000 band.* *Was 485/km² measured against Livingston Island entire (798 km²).*
@@ -43,7 +43,7 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and its order within the tier. See `TODO.md` for the full method.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -93,7 +93,7 @@ database *(seasonal station; no continuous 30-year normal)*. **Proxy station: `K
 **Record extremes:** record high **+6.5 °C** (Jan); record low **-22.6 °C** (Aug) _(derived from the monthly record columns below — proxy: `AYM00089057` Base Arturo Prat, ~40 km)_ *(added 2026-09-04)*
 **Temperature range:** coldest month (July) avg −5.5°C; warmest month (January) avg +1.9°C; **Nov–Mar above or at freezing in the mean**
 **Prevailing winds:** westerly/northwesterly off the Drake Passage; frequent gales; no katabatic regime
-**Annual precipitation:** **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~95 km); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
+**Annual precipitation:** **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~95 km); monthly normals measured at that station, not at this site — a design-grade estimate for Pergamino: the Juan Carlos I station has no precipitation record, and the regional estimate is about 600–700 mm; see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
 #### ⭐ Precipitation regime — what falls vs what lands
 
@@ -129,7 +129,7 @@ database *(seasonal station; no continuous 30-year normal)*. **Proxy station: `K
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089057** (BASE ARTURO PRAT), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (PROXY — Bellingshausen, King George I. (~95 km), added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089057. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (PROXY — Bellingshausen, King George I. (~95 km), added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals at the proxy station (Bellingshausen), **design-grade for this site** (the Juan Carlos I station has no precipitation record; regional estimate ~600–700 mm). **Precip Probability:* ⭐ **measured** — NOAA NCEI GSOM `DP01` (days ≥0.1 mm) at station AYM00089057. **Avg Daylight:* computed from this city's own latitude. The older provenance block below (L135–L140) calls the Temp Range, Avg Precip and Precip Probability columns derived; both hold: measured at the proxy stations, design-grade for this site.*
 
 
 ***Provenance of each column** — **Avg Temp:* **proxied**, BAS READER station `King_Sejong` (~95 km, same

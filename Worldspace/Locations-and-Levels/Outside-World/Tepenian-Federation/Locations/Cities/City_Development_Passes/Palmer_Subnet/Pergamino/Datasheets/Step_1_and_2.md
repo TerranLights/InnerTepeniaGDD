@@ -14,9 +14,9 @@
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Pergamino.md` L91 |
 | Spec climate — mean annual temperature | -1.7°C  _(proxy: READER station `King_Sejong`, ~95 km; station's own reported annual mean −1.2 °C)_ | `Specs/Pergamino.md` L92 |
 | Spec climate — record extremes | record high **+6.5 °C** (Jan); record low **-22.6 °C** (Aug) _(derived from the monthly record columns below — proxy: `AYM00089057` Base Arturo Prat, ~40 km)_ *(added 2026-09-04)* | `Specs/Pergamino.md` L93 |
-| Spec climate — temperature range | coldest month (July) avg −5.5°C; warmest month (January) avg +1.9°C; **Nov–Mar above or at freezing in the mean** | `Specs/Pergamino.md` L94 |
+| Spec climate — temperature range | coldest month (July) avg −5.5°C; warmest month (January) avg +1.9°C *(proxy: `King_Sejong` monthly means)*; **Nov–Mar above or at freezing in the mean** | `Specs/Pergamino.md` L94 |
 | Spec climate — prevailing winds | westerly/northwesterly off the Drake Passage; frequent gales; no katabatic regime | `Specs/Pergamino.md` L95 |
-| Spec climate — annual precipitation | **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~95 km); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)* | `Specs/Pergamino.md` L96 |
+| Spec climate — annual precipitation | **702.2 mm** water equivalent _(proxy: Bellingshausen, King George I. (~95 km); monthly normals measured at that station, not at this site — a design-grade estimate for Pergamino: the Juan Carlos I station has no precipitation record, and the regional estimate is about 600–700 mm; see table)_ *(corrected 2026-09-04 from an estimated figure)* | `Specs/Pergamino.md` L96 |
 | Spec climate — regime | **MARITIME** — *genuinely wet; precipitation behaves temperately* | `Specs/Pergamino.md` L100 |
 | Spec climate — falls (reaches the surface) | ~702 mm/yr | `Specs/Pergamino.md` L101 |
 | Spec climate — lands (accumulates and stays) | **~562 mm/yr** *(~80% retention)* | `Specs/Pergamino.md` L102 |
