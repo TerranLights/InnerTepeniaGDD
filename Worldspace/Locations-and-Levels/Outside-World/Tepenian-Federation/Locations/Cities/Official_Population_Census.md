@@ -510,7 +510,7 @@ National communities are classified by tier based on long-run population share. 
 | 28 | Scott | Janbogo | 189,817 | 196,194 | **386,011** | *(island cap; revised 2026-07-04)* |
 | 29 | Byrd | Byrd | 198,406 | 202,399 | **400,805** | *(revised 2026-07-04)* ⭐ **Scenario `DR-68`, 2026-10-28:** +12,138 H / +11,777 R *(was 186,268 / 190,622 / **376,890**)*. Arithmetic from the Santa Luce redistribution, NOT a migration. |
 | 30 | Palmer City | Palmer | 165,912 | 166,896 | **332,808** | *(island cap; revised 2026-07-04)* |
-| 31 | Rothera | Palmer | 153,760 | 163,689 | **317,449** | *(island cap; revised 2026-07-04)* |
+| 31 | Rothera | Palmer | 153,760 | 163,689 | **317,449** | *(revised 2026-07-04)* |
 | 32 | Sayowa | Mawson | 93,356 | 132,020 | **225,376** | ⭐ **EXTENT DECLARED 2026-09-05 — ~31.5 km², POPULATION UNCHANGED.** *1.5 km² East Ongul + 25 km² mainland ice apron at the Spur landfall + a 10 km × 500 m coastal corridor.* **7,155/km² — inside the band.** ⛔ **`island cap` REMOVED** — *three national highways converge at the Sayowa Junction; the city is not island-confined. No overflow.* |
 | 33 | Signy | Palmer | 93,134 | 95,560 | **188,694** | *(revised 2026-07-04)* |
 | 34 | Port Lockroy | Palmer | 457 | 472 | **929** | ⭐ **REDUCED 2026-09-05 — Gate 11.** *Was 63,338 / 65,549 / **128,887**, which is **5,370,292/km²** on Goudier Island (200 m × 120 m = 0.024 km²) — **4.3× Kowloon Walled City's historical peak.** New figure drawn 600–1,000 per developer instruction; H/R ratio preserved. **Now 38,708/km², 0.84× Manila — inside the real-world range for the first time.*** ⛔ **OVERFLOW 62,881 H / 65,077 R / 127,958 C is HELD, not deleted — see §D-OVERFLOW** |
@@ -629,7 +629,7 @@ National communities are classified by tier based on long-run population share. 
 | 25 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
 | 26 | Dumont d'Urville | Janbogo | 121,170 | 159,635 | **280,805** | ⭐ **−10% 2026-09-05** — *retention preserved (68.8248% → 68.8246%).* ⛔ `island cap` removed. **OVERFLOW 13,464 H / 17,737 R / 31,201 C HELD — §D-OVERFLOW** |
 | 27 | Sanay | Halley | 153,905 | 137,057 | **290,962** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 145,798 / 129,319 / **275,117**)*. Arithmetic, NOT a migration. |
-| 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** | *(island cap)* |
+| 28 | Rothera | Palmer | 121,784 | 134,073 | **255,857** |  |
 | 29 | Juan Carlos | Palmer | 118,910 | 127,462 | **246,372** | *(island cap)* |
 | 30 | Sayowa | Mawson | 85,199 | 79,758 | **164,957** | ⭐ **unchanged** — *extent declared, no population correction.* ⛔ `island cap` removed |
 | 31 | Signy | Palmer | 53,928 | 79,827 | **133,755** |  |

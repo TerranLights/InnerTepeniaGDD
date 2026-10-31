@@ -1703,12 +1703,12 @@ City."* **The Palmer subnet's industrial center, listed as such in `04` §3.**
 **§15's annotation explains both halves of the sector's own name:** *"Marine / resource extraction: 20% —
 Adelaide Island's mountainous terrain **and** maritime trade"* — *resource extraction* ← the terrain;
 *marine* ← maritime trade. **The extraction half feeds the mandate**, since Adelaide Island is the subnet's
-largest and most mountainous landmass *(~120 km, peaks >2,500 m)* and Rothera turns raw materials into
+largest and most mountainous landmass *(~139 km, peaks ~2,300 m)* and Rothera turns raw materials into
 components.
 
 **The analyst proposed HALF, on the Princess Elisabeth split rule. The developer ruled a QUARTER, which is
 better:** **conceding that the island's extraction is *an* input to fabrication is not the same as claiming
-the entire terrain half of that sector exists to feed it.** **120 km of mountains produces plenty that is not
+the entire terrain half of that sector exists to feed it.** **139 km of mountains produces plenty that is not
 feedstock for national infrastructure components.**
 
 **⏸️ The case for the FULL 20%, recorded and not taken:** most of this subnet is islands — Signy, Sejong,
@@ -1723,8 +1723,8 @@ anything.**
 FUNCTIONAL."*** **The analyst read the first half of that annotation and left the sector entirely free.**
 
 **The developer's third takes the second half seriously:** **a deliberately DECENTRALIZED industrial base
-spread across 120 km of mountainous island needs internal air movement**, and Rothera holds **one of only ten
-airports in the country** *(`Airports.md` L15 — the rare paved Bonner airstrip, 900 m, inherited from BAS)*.
+spread across 139 km of mountainous island needs internal air movement**, and Rothera holds **one of only thirteen
+airports in the country** *(`Airports.md` L15 — the Rothera airstrip, gravel, 900 m, inherited from BAS)*.
 
 **Two-thirds stay free**, consistent with canon calling it secondary — and with the fact that **heavy
 infrastructure components do not fly.** Rothera's fabrication output leaves by the **Hwy 1 ramp** and by sea.

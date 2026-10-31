@@ -307,8 +307,8 @@ This file's own header states it deliberately **does not** build culture content
 | DoI | `04` §3 (FABRICATION provider, 40%); `12`/`13`/`14` livestock/food-basis work | ✅ |
 
 ### Canon facts (✅)
-- **Why it survived (established 2026-07-03):** Adelaide Island is by far the largest, most mountainous Palmer subnet landmass (~120 km, peaks >2,500 m) — the industrial base is genuinely decentralized across it rather than concentrated, so no single strike could erase it, unlike Palmer City/Contrapunto's concentrated small islands. **Also has genuine large-scale underground vault sections**, a compounding third layer of resilience.
-- **Founding:** inherited the rare paved Bonner airstrip (900 m).
+- **Why it survived (established 2026-07-03):** Adelaide Island is by far the largest, most mountainous Palmer subnet landmass (~139 km, peaks ~2,300 m) — the industrial base is genuinely decentralized across it rather than concentrated, so no single strike could erase it, unlike Palmer City/Contrapunto's concentrated small islands. **Also has genuine large-scale underground vault sections**, a compounding third layer of resilience.
+- **Founding:** inherited the Rothera airstrip (gravel, 900 m).
 - **Economy §15:** Industrial/manufacturing 40% (defining) + Marine/resource extraction 20% + Aviation/logistics 15% + Technical/scientific 10% + Commercial/trade 10% + Other 5%.
 - **⭐ National role:** the Palmer subnet's industrial center — raw materials → finished infrastructure components used across the whole subnet, plausibly reaching every subnet city including Palmer City. Listed FABRICATION provider at "industrial 40%" in `04` §3.
 
@@ -327,7 +327,7 @@ One-liner: a Rothera robot's real "home" is her specific work site on Adelaide I
 - Notable figures: TBD. What Rothera is specifically famous for within its broad fabrication catalog: undecided. Underground vault scale/age/function: TBD. Runway's current operational status: open. St. Ernest/Shackleton patron-saint claim contested with other Peninsula cities.
 
 ### ✈️🛣️ Infrastructure cross-references
-- **Airports.md L15 — Rothera Airport, confirmed.** No shared-city note or further detail given — matches this file's own note that Rothera inherited the rare paved Bonner airstrip.
+- **Airports.md L15 — Rothera Airport, confirmed.** No shared-city note or further detail given — matches this file's own note that Rothera inherited the Rothera airstrip (gravel, 900 m).
 - **Highways.md L74, L79, L83** — reached via a **RAMP off Hwy 1**, not a main-line stop. **This ramp segment (Marambio–Rothera) is one of only five Hitchhiking-Valid stretches in the whole national network** (L287).
 
 ---

@@ -646,3 +646,26 @@ Developer: *"The climate data should always, always, always be written into the 
 - Signy was the first (written with the spec-table cross-check).
 - Standing rule saved: `feedback_datasheets_carry_the_data_not_pointers.md`.
 - **Flagged, not changed:** (1) `Phase_3` carries the spec's Geographic Basis / Character & Culture / Notable Locations prose by line range only (75 rows) because what is admissible is Step −1's ruling; (2) `Step_3` has 30 "not duplicated here" research-pointer rows; (3) `Step_1_and_2`'s composition rows say "full detail in Phase_2".
+
+## Rothera (done 2026-10-31) — second Palmer-subnet city
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."* Also: asked why the walk went from Signy straight to Rothera (answer: no geographic reason; the ledger's order was followed by mistake); confirmed that the megasheets are redone from the beginning once all 38 cities are finished with the ULM, CST and RWBEM.
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Temperature lines (spec L85, L99) | mean annual −4.0 °C; coldest July/August (−9.8, −9.7), warmest January (+1.3) |
+| 2 | Monthly table's Avg High / Avg Low columns | marked as estimates not to be cited (note at L143); no figures invented |
+| 3 | Polar night / midnight sun | checked by calculation, spec right (15 and 44 days); L117–L118 reworded with the computed figures; table notes L129 and L135 corrected (not on the list shown to the developer; two small consistency fixes) |
+| 4 | Precipitation text vs column | left; recurring-pattern decision at the end |
+| 5 | Runway | gravel Rothera airstrip (not paved, not "Bonner"): spec L8, L89, L156, L170, L178, L196, L224; `16` L1727; Palmer reference copy; Step −1 sheet |
+| 6 | `Airports.md` L15 | notes cell filled; `16` "one of only ten" → thirteen; `Phase_5` row re-copied |
+| 7 | Island size and peaks | 139 × 37 km; peaks roughly 2,300 m (one source says 2,560 m): spec (L15, L83, L87, L200), `16`, reference copy |
+| 8 | "(island cap)" | removed from spec and census; sheets say so |
+| 9 | Alias set | confirmed as listed in RO-004; Pre-Trip §A and §J updated |
+| 10 | Timeline-repo lines | registered as flagged addresses (Pre-Trip Phase 5 table, `Phase_5`) |
+| 11 | Step 0 foreign extent ranges | L522–540 and L601–604 dropped from the Pre-Trip |
+| 12 | Sheet gaps | `Phase_4` national economy (7 of 7); five `Phase_7` rows (13 of 13); Phase_3 climate already written |
+| 13 | Left open | `16` calls the baseline "rock-founded" while the spec says the city stands on essentially no rock; recorded as an open question in `Step_1_and_2` and `Phase_4`; neither file changed |
+| 14 | Noted, no action | megasheet "7 files" (6 files + 1 subfolder); megasheets are redone from the beginning after all 38 cities are done |
+
+Check: spec 244 lines, census 810, `16` 3578, `Airports.md` 123, Palmer reference 401, all unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing lines); coverage check 0 gaps.

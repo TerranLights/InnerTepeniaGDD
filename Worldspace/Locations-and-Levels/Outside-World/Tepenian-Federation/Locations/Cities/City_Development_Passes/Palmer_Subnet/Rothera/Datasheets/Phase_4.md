@@ -4,7 +4,7 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), recounted by hand 2026-10-30:** **6 of 7** addresses are named in this sheet (4 directly, 2 through a shared Tier U sheet it cites); not named in this sheet: `National_Economy_and_Currency.md`.
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), recounted by hand 2026-10-30:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites). `National_Economy_and_Currency.md` got a row on 2026-10-31.
 
 
 | Category | Value | Citation |
@@ -13,9 +13,11 @@
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | No table row for the city found by scan (the file's prose lines that happen to contain the name are not copied: they can be about a person or place of the same name) | `11_Caloric_Rebuild_and_Livestock_Tier.md` |
 | `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Rothera · Subnet: Palmer · D: 1.15 · Workforce: 240,569 · base%: 39.0% · MAND%: 24.4% · FREE%: 36.6% · src: C — on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) — ⚠ the first-pass split, superseded by the city's own determination (next row) | `16_Per_City_Three_Tier_Run.md` L261 |
 | `16` §15 — the city's own determination (cross-ref `Step_1_and_2.md`, `Phase_7.md`; upper-case heading `## 15. ✅ ROTHERA — DETERMINED`); supersedes the Half B MAND% / FREE% above (rule: `Division_of_Industry_Reliability_Quick_Reference.md` §2) | Baseline 93,804 (39.0%) · Mandated 73,382 (30.5%) · FREE 73,382 (30.5%) · distinctive tier 146,765 (61.0%) · the three tier counts sum to 240,568 against the workforce 240,569 (1 rounding) — on the flat ABCC working value; counts re-run when per-city ABCC values are set (`16` L1287–L1304) | `16_Per_City_Three_Tier_Run.md` L1673 (section L1673–L1744; tier table L1675–L1679) |
+| Open question — the ground under the city | `16` §15 labels the baseline *"Adelaide I., rock-founded, food term 100%"*; the spec's extent finding states that the city stands on essentially no rock, about 100% on flowing ice. The two statements disagree. Left open by the developer on 2026-10-31; neither file was changed | `16_Per_City_Three_Tier_Run.md` L1677; `Specs/Palmer subnet/Rothera.md` L33–L45 |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | Checked by name (`Rothera`): **zero hits** in a 245-line file | `National_Medical_and_Care_Institutes.md` |
 | Robot Physiology — appearance/clothing baseline (Tier U) | Human-looking, *Ex Machina*-style; clothing ordinary, functional and fashionable; exposure is a preparation problem, never a species-level gate | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"The ordinary condition" |
 | Robot Cold Physiology — the governing mechanic (Tier U) | Recharging is the primary cost (lithium plating below freezing, permanent); the cannot-self-recover threshold; a robot is safer moving than resting | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"What cold actually costs" |
 | Siligel / coolant / smoking, leisure, human-robot baseline (Tier U) | Full content available; not re-derived per city | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md` | Checked 2026-10-31 (`grep -n -i`: Rothera · Ryder Bay · Wormald · Wright Peninsula · Gullet · Lemaire · Bonner · Dirck Gerritsz · Adelaide Island · Marguerite Bay), **zero hits**; see `Phase_7.md` | Verified 2026-10-31 |
 
 **Not mechanical / not included here:** headline-function-then-write-away-from-it, the four ordinary-life elements, population-specific days, what the rhythm fails to provide — none of this exists until Rothera's own pass runs.
