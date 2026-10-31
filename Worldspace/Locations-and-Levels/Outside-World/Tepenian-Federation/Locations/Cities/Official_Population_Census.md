@@ -49,7 +49,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | USA |
 | Significant | Germany, France, UK, Canada, Mexico, Brazil |
-| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
+| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay, plus all 33 additional master-list nations added 2026-07-03: Italy, Spain, Russia, Poland, Czech Republic, Ukraine, Romania, Hungary, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia, China, Japan, South Korea, Indonesia, Thailand, Vietnam, Philippines, Malaysia, Australia, New Zealand, South Africa, Sweden, Belgium, Netherlands, Norway, Finland *(census entry brought to the spec's 43-nation roster 2026-10-31; it listed only the original ten)* |
 
 ---
 

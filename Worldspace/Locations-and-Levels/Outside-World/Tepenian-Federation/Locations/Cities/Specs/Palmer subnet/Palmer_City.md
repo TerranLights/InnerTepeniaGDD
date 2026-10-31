@@ -125,7 +125,7 @@
 
 ## Geographic Basis
 
-Palmer Station sits on Anvers Island off the Antarctic Peninsula — the northernmost finger of the continent, reaching toward South America. Of all the Antarctic stations, Palmer is the most temperate and the most accessible from the outside world. Temperatures rarely drop below −20°C in winter and occasionally rise above freezing in summer. The surrounding sea is navigable for longer periods than most Antarctic waters.
+Palmer Station sits on Anvers Island off the Antarctic Peninsula — the northernmost finger of the continent, reaching toward South America. Of all the Antarctic stations, Palmer is the most temperate and the most accessible from the outside world. Temperatures typically stay above −20°C in winter (the record low is −40.8°C) and occasionally rise above freezing in summer. The surrounding sea is navigable for longer periods than most Antarctic waters.
 
 This accessibility is precisely why Palmer became the first point of arrival. When the Falkland Treaty exiles departed Upper Earth for Antarctica in 2564, ships put them ashore here first. They found an abandoned research station and made it home.
 
@@ -139,7 +139,7 @@ The same accessibility that made it Tepenia's beginning made it Tepenia's first 
 
 **Climate type:** Maritime subpolar — the most temperate climate of any Tepenian city; the only one where above-freezing temperatures are a regular occurrence
 **Mean annual temperature:** -1.7°C  _(READER station: Palmer; 1991–2020 WMO standard normal)_
-**Temperature range:** coldest months (July/August) avg −8°C; warmest month (January) avg +2°C
+**Temperature range:** coldest months (July/August) mean −5.3°C and −5.9°C; warmest month (January) mean +2.2°C
 **Record extremes:** record high **+14.8 °C**; record low **−40.8 °C** *(researched 2026-09-04)*
 **Prevailing winds:** strong westerlies off the Drake Passage; average 7–9 m/s; intense Southern Ocean low-pressure systems are frequent; gusts regularly exceeding 60–80 km/h during storm events; the Peninsula is one of the windiest Antarctic regions despite being the mildest in temperature
 **Annual precipitation:** **657 mm** water equivalent _(Palmer; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
@@ -157,8 +157,8 @@ The same accessibility that made it Tepenia's beginning made it Tepenia's first 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** None — Palmer Station (64°46'S) is north of the Antarctic Circle (66°33'S); the sun rises every day of the year regardless of season
 **Midnight sun:** None — the sun sets every night of the year at this latitude
-**Winter solstice daylight minimum:** approximately 6–7 hours (June 21)
-**Summer solstice daylight maximum:** approximately 17–18 hours (December 21)
+**Winter solstice daylight minimum:** approximately 3.7 hours (June 21)
+**Summer solstice daylight maximum:** approximately 21.7 hours (December 21)
 
 #### Monthly Summary
 

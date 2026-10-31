@@ -781,3 +781,27 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits as
 | 10 | Left | post office "TBD" (spec L219, L241) for the 05:00–14:59 window; "intelligence base" vs "territorial-claim mission"; peer lines; the Kyoto pick's tail clause stays excluded; PA-029 stays as applied; Rothera "~330 km south" |
 
 Check: spec 244 lines and `Ports.md` 881 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing line); coverage check 0 gaps.
+
+## Palmer City (done 2026-10-31) — eighth and last Palmer-subnet city; completes the Palmer subnet (8 of 8)
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."*
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Temperature range (spec L142) | July/August means −5.3 and −5.9 °C, January mean +2.2 °C; the table's Mean column checked equal to the station |
+| 2 | Solstice daylight (L160–L161) | 3.7 and 21.7 hours (calculated 3.72 and 21.74) |
+| 3 | "Rarely drop below −20°C" (L128) | "typically stay above −20°C in winter (the record low is −40.8°C)" |
+| 4 | Comparison clauses (L140, L201) | left in the spec; the sheet row trims them with the standard marker |
+| 5 | "(island cap)" | **kept** — developer ruling 2026-09-05: the 364,000 cap stays as a design limit |
+| 6 | Census Section A entry (L52) | brought to the spec's 43-nation roster; `Phase_2` row now "Agree"; the pipe artifact in the sheets' copies removed |
+| 7 | Duplicate Phase 2 annotation rows | one row per source ("two: Argentina, Chile") |
+| 8 | Founding-wave tags | left; the Register says Palmer City is not nation-based; the question about what the tag means is still open |
+| 9 | Census II humans above Census I humans (108.91%) | not explained, not invented; carried to the population work |
+| 10 | Alias set | confirmed as listed in PC-006; "Palmer" alone is not an alias |
+| 11 | Spec pointers (L66, L227) | recorded in the Pre-Trip as not an input |
+| 12 | Stations row | replaced "zero hits" with the airstrips file's "Palmer Skiway | Anvers Island" line (L43); the COMNAP row (pages 8 and 83) was already right |
+| 13 | Sheet gaps | `Step_1_and_2` `Worldspace/Locations/` rows (6 of 6); `Phase_7` staffing and Megacorps rows (13 of 13); timeline-repo lines (Timeline.md L87, L136, L139, L265, L267, L321, L625, L631, L679; `World_History_Reference.md` L134, L136, L248, L272; Amundsen archive L21, L41; timeline `TODO.md` L38) flagged in the Pre-Trip and `Phase_5` |
+
+Noted, no action: peer lines; `16` §13's quote of the withheld Vision Notes; L216 (settled the day of the treaty) vs the treaty sheet, the Register agreeing with the spec.
+
+Check: spec 327 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE on two older lines: `Step_-1.md` L15 "pre-war" in the copied Significance text, `Step_7.md` L13); coverage check 0 gaps.

@@ -8,7 +8,7 @@
 
 > ⚠ **DRAFT — Tier C.**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), recounted by hand 2026-10-30:** **11 of 13** addresses are named in this sheet (8 directly, 3 through a shared Tier U sheet it cites; `Division_of_Industry/` is counted through the rows that cite files inside the folder). Not named here: `Industry_Staffing_and_Productivity/` and `Megacorps/` (no row of this sheet and no cited shared sheet names them).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), recounted by hand 2026-10-30:** **13 of 13** addresses are named in this sheet (10 directly, 3 through a shared Tier U sheet it cites; `Division_of_Industry/` is counted through the rows that cite files inside the folder); the last two got their rows, with the hit searches, on 2026-10-31.
 
 
 | Category | Value | Citation |
@@ -24,6 +24,8 @@
 | `jobs_professions_and_fields/` — directory enumerated | 4 `.md` files read; **0 name the city** | `Reference/Real-World/jobs_professions_and_fields/` (enumerated 2026-10-23) |
 | `City_Logistics.md` — scope | Scoped to Concordia (the file's own title line: `Concordia — City Logistics Reference`); only its Dual-Economy and currency-pointer sections generalize | `City_Logistics.md` L1 |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_PostWar_Refugee.md` L89, L91, L103; `City_Origin_Factions_Second_Interwar.md` L13, L15, L19, L21, L25, L27, L97, L105, L107, L111, L113; `Cross_City_Cultural_Patterns.md` L27 — ⛔ multi-city taxonomy files are not extracted; flagged for a fresh three-reader check | `Factions/` (enumerated 2026-10-21) |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Industry_Staffing_and_Productivity/` | 4 files enumerated: `README.md` and three real-world staffing and productivity papers (PDF). `README.md` searched for the same terms: **zero hits**. The PDFs cannot be searched with this tool and are not city-keyed | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Industry_Staffing_and_Productivity/` — enumerated 2026-10-31 |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Megacorps/` | 3 files enumerated (the roster `README.md` and one `README.md` in each of the two corporations' folders); **zero hits** for the same terms (`grep -n -i`: Palmer City · Palmer Station · Anvers · Gamage · Hero Inlet · Arthur Harbor · Palmerian · Miles Davis) | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Megacorps/` — verified 2026-10-31 |
 | MUST-OPEN coverage (spine, Phase 7) | Addresses of the spine's Phase 7 block that exist on disk: **13 of 13** — this sheet extracts only the city-specific lookups above; **every one of these is still opened in full by the phase's three readers** | `03_The_Phase_Spine.md`, Phase 7 MUST OPEN; the Pre-Trip sheet's Phase 7 rows |
 
 **Not mechanical / not included here:** governance/succession analysis, knowledge-transmission analysis, counterculture derivation, sanction-proportionality pricing — none of this exists until Palmer City's own pass runs.
