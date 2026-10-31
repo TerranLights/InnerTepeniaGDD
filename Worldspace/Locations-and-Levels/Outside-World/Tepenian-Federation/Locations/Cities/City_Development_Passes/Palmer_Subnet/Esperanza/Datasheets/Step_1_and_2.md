@@ -17,7 +17,7 @@
 | Spec climate — mean annual temperature | -4.5°C  _(READER station: Esperanza; 1991–2020 WMO standard normal)_ | `Specs/Esperanza.md` L57 |
 | Spec climate — prevailing winds | winds can exceed **250 km/h** *(researched 2026-09-04)* | `Specs/Esperanza.md` L58 |
 | Spec climate — record extremes | record high **+18.3 °C** (6 February 2020) — ⭐ *the WMO-ratified highest temperature ever recorded on the Antarctic mainland*; record low **−38.4 °C** (18 July 1994) *(researched 2026-09-04)* | `Specs/Esperanza.md` L59 |
-| Spec climate — temperature range | coldest months avg −15°C; warmest month avg +1°C; above-freezing temperatures possible in summer | `Specs/Esperanza.md` L60 |
+| Spec climate — temperature range | coldest month (July) mean −10.9°C; warmest month (January) mean +1.5°C; above-freezing temperatures possible in summer | `Specs/Esperanza.md` L60 |
 | Spec climate — annual precipitation | **726.4 mm** water equivalent _(Esperanza (1991-2020); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)* | `Specs/Esperanza.md` L62 |
 | Spec climate — regime | **MARITIME** — *genuinely wet; precipitation behaves temperately* | `Specs/Esperanza.md` L66 |
 | Spec climate — falls (reaches the surface) | ~726 mm/yr | `Specs/Esperanza.md` L67 |
@@ -41,8 +41,8 @@
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Esperanza`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Esperanza · **Subnet:** Palmer · **Solar UTC:** −4 · **Status:** ✅ · **Founders:** Argentina · **Basis:** "almost immediately accessible"* from Argentina · **Source:** `DR-19`, `DR-22` · **Not founders:** — | `Founding_Register.md` L40 |
 | Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Esperanza.md` L109 |
-| Spec — `Founding population:` (as stated; the Founding Register governs) | Multinational rather than purely Argentine — Esperanza's founding principle made it a city that claimed human children broadly, not only Argentine ones. Any human who had made the permanent sacrifice of exile was part of the community Esperanza was built to protect. | `Specs/Esperanza.md` L115 |
-| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: USA · Significant: UK, Mexico, Brazil, Argentina · Notable: Chile *(founding wave)*, Uruguay | `Specs/Esperanza.md` L20–22 |
+| Spec — `Founding population:` (as stated; the Founding Register governs) | Argentina — the city was almost immediately accessible from Argentina (`Founding_Register.md`). Esperanza's founding principle made it a city that claimed human children broadly, not only Argentine ones. Any human who had made the permanent sacrifice of exile was part of the community Esperanza was built to protect. *(Updated 2026-10-31 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Esperanza.md` L115 |
+| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: USA · Significant: UK, Mexico, Brazil, Argentina *(founding wave)* · Notable: Chile *(founding wave)*, Uruguay | `Specs/Esperanza.md` L20–22 |
 | Spec — Economy & Industry section | Present at L135–L141; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Esperanza.md` L135 |
 
 **Not mechanical / not included here:** the Gate 9 asymmetry audit, the inheritance classification, the shape reading, generator selection, the spine sentence, the three-generator four-quadrant capability profile — none of this exists until Esperanza's own pass runs.

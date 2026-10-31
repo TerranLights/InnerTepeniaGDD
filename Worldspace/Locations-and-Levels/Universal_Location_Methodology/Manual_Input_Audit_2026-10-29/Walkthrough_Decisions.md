@@ -669,3 +669,27 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits as
 | 14 | Noted, no action | megasheet "7 files" (6 files + 1 subfolder); megasheets are redone from the beginning after all 38 cities are done |
 
 Check: spec 244 lines, census 810, `16` 3578, `Airports.md` 123, Palmer reference 401, all unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing lines); coverage check 0 gaps.
+
+## Esperanza (done 2026-10-31, with two items deferred) — third Palmer-subnet city
+
+Developer: *"for Items #7 and #12, that's something that we'll need to look into and do full research on and calculations for tomorrow morning. So there's a possibility that perhaps maybe we might need to make some population adjustments and relocate numbers elsewhere. Other than that, everything else looks right. Go ahead and make all the necessary edits as you've suggested."* (The Palmer subnet is walked geographically: Signy, Rothera (out of order by mistake), Esperanza; next Marambio, Contrapunto, Pergamino, Puerto Abrigo, Palmer City, then Byrd and Amundsen Station.)
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Temperature line (spec L60) | July mean −10.9 °C, January mean +1.5 °C; sheet row mirrors it |
+| 2 | Daylight (spec L61) | 4.5 and 20.6 hours, matching L77–78 and the table (calculated 4.51 and 20.56) |
+| 3 | "Colder and drier" vs "genuinely wet" (L48, L56, L66) | left (comparison clause) |
+| 4 | Record extremes and the 250 km/h wind claim (L58–59) | record high and low confirmed; the wind claim could not be found on the web; left as researched |
+| 5 | Founding-wave tag | added to Argentina (spec L21, census L71, `Phase_2`, `Step_1_and_2`); Chile's tag kept (L24 explains it) |
+| 6 | Founding population (spec L115) | rewritten to the Founding Register: Argentina; the founding-principle sentences kept; dated note added |
+| 7 | **DEFERRED** — extent | no declared extent; research and calculations on the morning of 2026-11-01; possible population adjustments; not added to the sheets; Weekly To-Do |
+| 8 | Pre-Trip extent ranges | L522–540 and L601–604 dropped (they hold no Esperanza row) |
+| 9 | Alias set | confirmed as listed; Pre-Trip §A and §J updated |
+| 10 | Story file `Esperanza_09_…` | not an alias; the clause calling it canon removed from the `Phase_5` Ports row; `Ports.md` not edited |
+| 11 | Spec pointers (L109, L138) | recorded in the Pre-Trip as not an input; spec unchanged |
+| 12 | **DEFERRED** — medical-institutes figures | `National_Medical_and_Care_Institutes.md` L173–L177 (1.88 M; 350,155 workers; "four million students") not edited; research on 2026-11-01 |
+| 13 | Sheet gaps | `Phase_4` national economy (7 of 7) and NMCI L37; five `Phase_7` rows (13 of 13); timeline-repo lines L265, L320 and the Amundsen archive L41 flagged in the Pre-Trip and `Phase_5` |
+
+Open note (not asked): Rothera's spec tags both Argentina and Chile "(founding wave)" while the Register's founders there are North America and Argentina; not raised at the time; the developer has not ruled.
+
+Check: spec 173 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing lines); coverage check 0 gaps.

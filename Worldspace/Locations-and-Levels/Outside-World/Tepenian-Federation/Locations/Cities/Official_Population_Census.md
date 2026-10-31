@@ -68,7 +68,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | UK, Mexico, Brazil, Argentina |
+| Significant | UK, Mexico, Brazil, Argentina *(founding wave)* |
 | Notable | Chile *(founding wave)*, Uruguay |
 
 *Note: Argentina set the founding wave character of Esperanza — the city closest to Buenos Aires embarkation ports. Argentine cultural identity is strongest here of any Peninsula city.*

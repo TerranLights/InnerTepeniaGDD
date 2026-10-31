@@ -4,7 +4,7 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), recounted by hand 2026-10-30:** **6 of 7** addresses are named in this sheet (4 directly, 2 through a shared Tier U sheet it cites). Not covered: `National_Economy_and_Currency.md`.
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), recounted by hand 2026-10-30:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites). `National_Economy_and_Currency.md` got a row on 2026-10-31.
 
 
 | Category | Value | Citation |
@@ -16,6 +16,7 @@
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | # 1. The Esperanza Institute of Medicine | `National_Medical_and_Care_Institutes.md` L29 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **City:** Esperanza (Hope Bay, Antarctic Peninsula) · **Tradition:** settled medicine | `National_Medical_and_Care_Institutes.md` L31 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **Why Esperanza.** The city's §15 already carries `Education / childcare / family services: ~25%` — *"an | `National_Medical_and_Care_Institutes.md` L36 |
+| ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | unusually large formal sector, reflecting the founding charter"* — together with the **civic birth registry**. | `National_Medical_and_Care_Institutes.md` L37 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | Esperanza is where Tepenians are born and where the record of being born is kept. | `National_Medical_and_Care_Institutes.md` L38 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | **The two institutes are complements, not rivals.** Esperanza treats the life; Belgrano treats the emergency. | `National_Medical_and_Care_Institutes.md` L69 |
 | ↳ `National_Medical_and_Care_Institutes.md` — lines naming the city | 1. **A national alumni network the setting otherwise lacks.** Every city holds people trained at Esperanza, | `National_Medical_and_Care_Institutes.md` L136 |
@@ -29,5 +30,6 @@
 | Robot Physiology — appearance/clothing baseline (Tier U) | Human-looking, *Ex Machina*-style; clothing ordinary, functional and fashionable; exposure is a preparation problem, never a species-level gate | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"The ordinary condition" |
 | Robot Cold Physiology — the governing mechanic (Tier U) | Recharging is the primary cost (lithium plating below freezing, permanent); the cannot-self-recover threshold; a robot is safer moving than resting | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"What cold actually costs" |
 | Siligel / coolant / smoking, leisure, human-robot baseline (Tier U) | Full content available; not re-derived per city | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md` | Checked 2026-10-31 (`grep -n -i`: Esperanza · Hope Bay · Trinity Peninsula · Emilio Marcos Palma · birth registry · esperanzeño · esperante · Esperanzan), **zero hits**; see `Phase_7.md` | Verified 2026-10-31 |
 
 **Not mechanical / not included here:** headline-function-then-write-away-from-it, the four ordinary-life elements, population-specific days, what the rhythm fails to provide — none of this exists until Esperanza's own pass runs.

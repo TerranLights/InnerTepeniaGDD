@@ -18,7 +18,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | UK, Mexico, Brazil, Argentina |
+| Significant | UK, Mexico, Brazil, Argentina *(founding wave)* |
 | Notable | Chile *(founding wave)*, Uruguay |
 
 *(Argentina is the founding nation per the Founding section below, while Chile's presence reflects independent geographic-proximity early arrival, the same distinction already established at Signy for South Africa.)*
@@ -57,8 +57,8 @@ The name the Argentine military gave this station — Esperanza, Hope — was ch
 **Mean annual temperature:** -4.5°C  _(READER station: Esperanza; 1991–2020 WMO standard normal)_
 **Prevailing winds:** winds can exceed **250 km/h** *(researched 2026-09-04)*
 **Record extremes:** record high **+18.3 °C** (6 February 2020) — ⭐ *the WMO-ratified highest temperature ever recorded on the Antarctic mainland*; record low **−38.4 °C** (18 July 1994) *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −15°C; warmest month avg +1°C; above-freezing temperatures possible in summer
-**No polar night; no midnight sun** — at 63°24'S, north of the Antarctic Circle; winter minimum daylight ~5–6 hours; summer maximum ~19–20 hours
+**Temperature range:** coldest month (July) mean −10.9°C; warmest month (January) mean +1.5°C; above-freezing temperatures possible in summer
+**No polar night; no midnight sun** — at 63°24'S, north of the Antarctic Circle; winter minimum daylight approximately 4.5 hours; summer maximum approximately 20.6 hours
 **Annual precipitation:** **726.4 mm** water equivalent _(Esperanza (1991-2020); measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
 #### ⭐ Precipitation regime — what falls vs what lands
@@ -112,7 +112,7 @@ What distinguished Esperanza's founding from every other Tepenian city was the d
 
 The founding population understood that humans who had chosen to follow the robots into exile had sacrificed everything — separated from their birth homelands forever, cut off from their genetic relatives for life. They had made the most absolute personal sacrifice the Falkland Treaty era could ask of a human being. The founding council of Esperanza resolved that those humans deserved to have their own children looked after. The city was established with that principle as its foundational charter.
 
-**Founding population:** Multinational rather than purely Argentine — Esperanza's founding principle made it a city that claimed human children broadly, not only Argentine ones. Any human who had made the permanent sacrifice of exile was part of the community Esperanza was built to protect.
+**Founding population:** Argentina — the city was almost immediately accessible from Argentina (`Founding_Register.md`). Esperanza's founding principle made it a city that claimed human children broadly, not only Argentine ones. Any human who had made the permanent sacrifice of exile was part of the community Esperanza was built to protect. *(Updated 2026-10-31 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 The name was kept. The word "esperanza" — hope — fit what the city was being built to be: not just a shelter, but a commitment to the humans who had given everything.
 

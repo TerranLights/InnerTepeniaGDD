@@ -7,11 +7,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Composition tier table (spec) | **Primary:** USA · **Significant:** UK, Mexico, Brazil, Argentina · **Notable:** Chile *(founding wave)*, Uruguay | `Specs/Esperanza.md` L20–22 |
-| Composition tier table (census Section A entry) | **Primary:** USA · **Significant:** UK, Mexico, Brazil, Argentina · **Notable:** Chile *(founding wave)*, Uruguay | `Official_Population_Census.md` L70–72 |
+| Composition tier table (spec) | **Primary:** USA · **Significant:** UK, Mexico, Brazil, Argentina *(founding wave)* · **Notable:** Chile *(founding wave)*, Uruguay | `Specs/Esperanza.md` L20–22 |
+| Composition tier table (census Section A entry) | **Primary:** USA · **Significant:** UK, Mexico, Brazil, Argentina *(founding wave)* · **Notable:** Chile *(founding wave)*, Uruguay | `Official_Population_Census.md` L70–72 |
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
-| Annotation in the spec tier table | `(founding wave)` — **no date** | `Specs/Esperanza.md` L22 |
-| Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L72 |
+| Annotation in the spec tier table | `(founding wave)` on Chile — **no date**; on Argentina — added 2026-10-31 (the Founding Register's founder) | `Specs/Esperanza.md` L21–L22 |
+| Annotation in the census tier table | `(founding wave)` on Chile — **no date**; on Argentina — added 2026-10-31 (the Founding Register's founder) | `Official_Population_Census.md` L71–L72 |
 | Per-nation breakdown (spec) | Present at L28–L45 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Esperanza.md` L28 |
 | Census I | 967,477 H / 934,728 R / **1,902,205** combined | `Official_Population_Census.md` L483 |
 | Census II | 510,762 H / 683,124 R / **1,193,886** combined | `Official_Population_Census.md` L605 |
