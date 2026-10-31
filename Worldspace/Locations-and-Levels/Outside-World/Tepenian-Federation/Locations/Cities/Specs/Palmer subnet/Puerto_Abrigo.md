@@ -14,7 +14,7 @@
 
 ## Population / Destructibility Note (2026-07-03)
 
-Puerto Abrigo is Tepenia's second-smallest city by population (rank 34th of ~35, *corrected 2026-07-03*, smaller than Marambio and Rothera both) on a genuinely tiny island (Goudier Island, inside a small natural harbor) — smaller than Marambio's Seymour Island, with no mountainous terrain, no room to decentralize, and no realistic underground vault potential. On pure physical-resilience grounds, this argues against survival even more strongly than Marambio's case did.
+Puerto Abrigo is Tepenia's smallest settlement by population (929 since the 2026-09-05 reduction, below Amundsen Station's 6,857; it ranked second-smallest, 34th of ~35, at the 2026-07-03 figure) on a genuinely tiny island (Goudier Island, inside a small natural harbor) — smaller than Marambio's Seymour Island, with no mountainous terrain, no room to decentralize, and no realistic underground vault potential. On pure physical-resilience grounds, this argues against survival even more strongly than Marambio's case did.
 
 What resolves it instead is strategic irrelevance, not physical resilience — the same mechanism that saved Santa Luce earlier this session. Puerto Abrigo's actual character was never military or industrial: a small harbor city with a maritime-trade niche, built around older structures it kept, nothing resembling Marambio's high-value airfield or Rothera's industrial base. There was no strategic reason to target it. Compounding this, Puerto Abrigo sits immediately adjacent to Palmer City on the highway network (its direct northern neighbor) — a real, plausible possibility that Upper Earth's targeting or reconnaissance conflated the two, assuming Puerto Abrigo's tiny footprint was simply part of Palmer City's strike zone rather than a distinct target requiring its own attention. Missed by insignificance and by proximity-driven misidentification, rather than surviving by resilience.
 
@@ -22,8 +22,8 @@ What resolves it instead is strategic irrelevance, not physical resilience — t
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 457 humans / 472 robots / **929** combined *(island cap)*
-**Census II (Orbital Era):** 387 humans / 304 robots / **691** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 457 humans / 472 robots / **929** combined
+**Census II (Orbital Era):** 387 humans / 304 robots / **691** combined
 
 **Extent band:** ⭐ **0.024 km² — Goudier Island entire.** *200 m × 120 m, inside the natural harbor.*
 **Density 38,708/km² — 0.84× Manila, the densest city in the Federation and the smallest.** ⛔ **No spanning
@@ -68,7 +68,7 @@ so a mechanical sweep read this city as having no declared extent.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and its order within the tier. See `TODO.md` for the full method.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|

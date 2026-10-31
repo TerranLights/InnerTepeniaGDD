@@ -17,7 +17,7 @@
 | Coordinates (as written in the same field) | ~64°49'S, 63°29'W | `Specs/Puerto_Abrigo.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Puerto_Abrigo.md` L6 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L229, L234 — not copied, not described | `Specs/Puerto_Abrigo.md` L229, L234 |
-| Census I (spec's own line) | 457 humans / 472 robots / **929** combined *(island cap)* | `Specs/Puerto_Abrigo.md` L25 |
-| Census II (spec's own line) | 387 humans / 304 robots / **691** combined *(island cap)* | `Specs/Puerto_Abrigo.md` L26 |
+| Census I (spec's own line) | 457 humans / 472 robots / **929** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Puerto_Abrigo.md` L25 |
+| Census II (spec's own line) | 387 humans / 304 robots / **691** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Puerto_Abrigo.md` L26 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Puerto Abrigo's own pass runs.

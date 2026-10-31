@@ -749,7 +749,7 @@ Sanay* **(§5.4)**.
 > ### THE FREE HARBORS ARE IN THE PENINSULA. THE PAID HARBORS SERVE THE INDUSTRY.
 
 **Six of the ten free rock harbors are Peninsula and South Shetland cities** — *Puerto Abrigo, Signy, Juan
-Carlos, Contrapunto, Esperanza, Palmer City* — **and canon calls Puerto Abrigo the Federation's second-smallest
+Carlos, Contrapunto, Esperanza, Palmer City* — **and canon calls Puerto Abrigo the Federation's smallest
 city.** ***They inherited two-century-old sealing and whaling anchorages and pay nothing to keep them.***
 
 **Meanwhile the cities that move the most freight pay every year:**

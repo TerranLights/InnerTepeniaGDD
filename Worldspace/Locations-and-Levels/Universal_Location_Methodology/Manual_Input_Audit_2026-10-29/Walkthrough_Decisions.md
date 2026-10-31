@@ -762,3 +762,22 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits as
 Noted, no action: peer lines; the repeated targeting passage; four Division-of-Industry files name the city but no sheet lists them (names only).
 
 Check: spec 208 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (2 NOTES, both on rows not edited: later-era words in `Step_7.md` L13; inference markers in `Step_-1.md` L17, read); coverage check 0 gaps.
+
+## Puerto Abrigo (done 2026-10-31, with the population rows deferred) — seventh Palmer-subnet city
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."*
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Temperature, distance to the Antarctic Circle, daylight (spec L131, L146, L148–149) | checked against the proxy station and calculation: fine (solstice minimum 3.7 h by calculation vs 3.6 in the spec: left, within rounding) |
+| 2 | **DEFERRED** — Division-of-Industry rows on the old 128,887 population (`09` L77, `16` L281, L184, §14; later tables in the composition file) and the held overflow (127,958 Census I; 95,215 Census II) | not refreshed; to be settled with the population redistribution work; Weekly To-Do entry added |
+| 3 | "Second-smallest" (spec L17; `Ports.md` L752) | updated to smallest (929 people) |
+| 4 | De-stacking note (spec L71) | "each tier's total and its order within the tier" |
+| 5 | "(island cap)" (spec L25–L26) | removed; sheets say so |
+| 6 | Founding-wave tags | left; Chile is the Register's first founder here; the question about what the tag means is still open |
+| 7 | Alias set | confirmed as listed in PA-006; new wrapped hit Sweep L60–L61 added to the Phase 7 sheet |
+| 8 | Sheet fixes | `Phase_5` Ports L176 quote updated to the new name; care-notes on the two stale relationship-database rows |
+| 9 | Sheet gaps | `Phase_4` national economy (7 of 7); `Phase_5` `Worldspace/Locations/` rows (6 of 6) and timeline-repo lines (Amundsen archive L41, L76–78, L113; Timeline.md L321, L817–818; timeline `TODO.md` L28, L89) flagged in the Pre-Trip and `Phase_5`; five `Phase_7` rows (13 of 13) |
+| 10 | Left | post office "TBD" (spec L219, L241) for the 05:00–14:59 window; "intelligence base" vs "territorial-claim mission"; peer lines; the Kyoto pick's tail clause stays excluded; PA-029 stays as applied; Rothera "~330 km south" |
+
+Check: spec 244 lines and `Ports.md` 881 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing line); coverage check 0 gaps.
