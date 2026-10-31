@@ -9,7 +9,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` | Checked by name (`Janbogo`, `Jang Bogo`): **zero hits** in a 73-line file | `Weapons_and_Tools_Philosophy.md` |
-| The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 219-line file: cuisine / food / dish / drink — 1 hit(s) (L149, "places to drink tea", in the teahouse paragraph at L147–L149; the teahouse is also named at `## Notable Locations` L167) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s) | Counted 2026-10-21; the food / drink count re-run by hand 2026-10-30: `Specs/Janbogo.md` L147–L149, L167 |
+| The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 219-line file: cuisine / food / dish / drink — 0 hit(s) (the teahouse Majyao ran is named at `## Notable Locations` L167) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s) | Counted 2026-10-21; the food / drink count re-run by hand 2026-10-31 after the spec's L149 was reworded: `Specs/Janbogo.md` L147–L149, L167 |
 | `Robot_Biology_and_Culture/` mandatory facts (Tier U, cross-ref `Phase_4.md`) | Siligel / coolant / smoking canon, thermal-cost mechanics — mandatory before any siligel or coolant claim | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
 | Gear catalogs, slang | No path resolved: gear-catalog work is **gated until the 38-city corpus is done**; slang has no path (a hole, flagged, not guessed) | `03_The_Phase_Spine.md`, Phase 8 block |
 

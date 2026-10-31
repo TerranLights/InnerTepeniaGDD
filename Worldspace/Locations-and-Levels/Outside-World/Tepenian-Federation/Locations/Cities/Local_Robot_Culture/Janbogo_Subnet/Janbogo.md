@@ -35,7 +35,7 @@ recognizable regardless of who built her or when.*
   (Jang Bogo → Janbogo phonetic drift).
 - **Input C — Local Infrastructure:** `Janbogo_Physical_Infrastructure_Attributes.md` (14 attributes, 7
   cross-referenced Findings) and `Janbogo_Community_Infrastructure.md` (Additions + Social Cohesion
-  Mechanisms). Katabatic Warning Towers, the Great Shielded Commercial Halls, Majyao's Original Teahouse, the
+  Mechanisms). Katabatic Warning Towers, the Great Shielded Commercial Halls, the teahouse Majyao ran, the
   Teaware & Coffee Craft Ateliers, and threshold infrastructure did the most work.
 - **Input D — Source Inspirations:** all three sub-sources used. `Inspirational-Influences.md` (chaykhana
   [PRIMARY], Dubai mall culture [PRIMARY], Murmansk [SECONDARY], Ottoman/kahvehane tradition [SECONDARY], New
@@ -54,7 +54,7 @@ recognizable regardless of who built her or when.*
   (Feeling/Compliant/Reactive) — informed tone, not cited as a standalone finding source. City Vision Notes
   ("The Crossroads People" faction tag; Chinese-French fusion fashion vision) — fed §10's fashion finding.
   Historical Vignettes & Course of Events — Han Soo-jin's Warning System origin story, the hall-fire→
-  compartmentalization chain, and Wu Lian-Marchetti's teahouse-to-hall scaling decision all fed specific
+  compartmentalization chain, and Wu Lian-Marchetti's interior-to-hall scaling decision all fed specific
   findings below; flagged there as non-canon candidate material, not locked fact. District Refugee Diaspora
   Composition not used — Janbogo is a standalone subnet city, not a Concordia district.
 - **Concentric rings actually widened to:** own file set (Specs, Local_Cultures, Physical Infrastructure,
@@ -69,7 +69,7 @@ recognizable regardless of who built her or when.*
 
 | Universal / Canon Item | Localizes Here? | Reasoning |
 |---|---|---|
-| Kinship, Clan & Mentor/Mentee Institution | **Yes** | Teahouse-keeping apprenticeship is a literal, concrete local instance of the only real robot kinship mechanism — see §1 below. |
+| Kinship, Clan & Mentor/Mentee Institution | **Yes** | Hosting-craft apprenticeship (tea and coffee service) is a literal, concrete local instance of the only real robot kinship mechanism — see §1 below. |
 | Cooperation, Morality & Emergent Social Convention | **Yes** | §6's entire Social Contract ("hosting says what words don't") is already the city's own emergent convention; robot angle sharpens it into a checkable behavioral norm — see §2. |
 | City/Locality as the Seat of Identity | **Yes** | Definitionally always localizes (dominant axis per Weighing the Axes) — the finding is *what specifically* marks a Janbogo robot; see §3. |
 | Generational Identity (Gen/Mark) | **No — genuine null result** | Nothing in Janbogo's gathered material suggests an atypical Gen/Mark distribution or local meaning. Janbogo has its own fabrication chamber (per Ch.14, true of nearly every city except Dome Fuji) but no evidence this carries distinct local weight beyond the universal baseline ("real but lightest-weighted"). Recorded as a legitimate Honesty Check outcome, not a gap. |
@@ -97,14 +97,14 @@ localize per city.*
   predates.** Leading with the actual shared *life* experience, not a teaching relationship: §6's own citywide
   rule — "hosting is how you say things you don't say out loud," extended to essentially anyone, "no one sits
   alone" — describes an ongoing, everyday, genuinely horizontal practice that every Janbogo resident lives,
-  regardless of which teahouse trained her or when she arrived. That daily condition of hosting-as-communication
-  is Janbogo's real kinship floor; it holds between two robots who never worked the same teahouse, as long as
+  regardless of where she trained or when she arrived. That daily condition of hosting-as-communication
+  is Janbogo's real kinship floor; it holds between two robots who never trained in the same place, as long as
   both actually practice hosting the way this city does.
-- **[Adapted, Deep]** One specific shape that shared life takes: teahouse-keeping and coffee-service craft
+- **[Adapted, Deep]** One specific shape that shared life takes: tea and coffee-service craft
   function as a professional, teaching-lineage version of the same underlying practice. Since robots here
   concentrate heavily in hospitality work (§17, existing), the Teaware & Coffee Craft Ateliers plausibly
   function as where the hosting practice gets formally taught, not a separate institution from it. The city's
-  already-established "old teahouse families" fault line (§5) is, for robots specifically, quite literally a
+  already-established "old hosting families" fault line (§5) is, for robots specifically, quite literally a
   teaching-lineage — who apprenticed under whom — but one particular professional shape the broader shared
   hosting life takes, not a competing mechanism from it.
 
@@ -181,7 +181,7 @@ localize per city.*
 
 - **[Adapted, Surface]** §8 already establishes that Korean hosting-phrases survive as ancestry-independent
   linguistic fossils, with correct usage marking a "true local" more than which daily language someone speaks.
-  The robot-specific angle: teahouse/coffee-service apprentices (per §1's kinship finding) plausibly retain
+  The robot-specific angle: tea/coffee-service apprentices (per §1's kinship finding) plausibly retain
   and actively use the *fuller* hosting-phrase vocabulary as living trade language, not just the thinned common
   subset most residents know — meaning Janbogo's professional hospitality workforce, robot and human alike,
   functions as the vocabulary's actual preservation mechanism, precisely because their work requires it.
@@ -227,11 +227,11 @@ localize per city.*
   material) is ever formally adopted, this is a natural place for a robot figure to have played a confirming or
   central role.
 
-- **[Adapted, Deep]** — *Input categories combined: A (§5's "old teahouse families" fault line, §8's language
+- **[Adapted, Deep]** — *Input categories combined: A (§5's "old hosting families" fault line, §8's language
   material) + Robot Universals Ch.11 (mentor/mentee) + Ch.20 (vernacular language condition/expression)*
   The reason Janbogo's Korean hosting-vocabulary survives as a living professional register rather than fading
   into pure fossil status is, at its most literal level, the mentor/mentee teaching-lineage inside
-  teahouse-keeping (§1's finding) — meaning the "old teahouse families" fault line isn't really about bloodline
+  tea-and-coffee service craft (§1's finding) — meaning the "old hosting families" fault line isn't really about bloodline
   or even tenure in the city; it's about who taught whom the complete vocabulary. This reframes an
   already-established fault line through the robot-kinship lens for the first time, since robots' *only* real
   kinship mechanism makes the teaching-lineage reading unusually literal and load-bearing for them specifically.
@@ -241,7 +241,7 @@ localize per city.*
   parallel, explicitly the tradition that became genuinely ethnicity-agnostic — "café culture" — per its own
   source note) + E (Janbogo's canon-confirmed Glitch-Coolant bohemian/cosmopolitan-variety status)*
   A genuine local Glitch-Coolant tasting-house culture, most plausibly located in dedicated back-rooms or
-  after-hours space within the Halls or teahouses, modeled directly on the kahvehane's specific historical
+  after-hours space within the Halls or other shared interior spaces, modeled directly on the kahvehane's specific historical
   trajectory: variety-forward, refinement-over-intensity (already the canon-confirmed bohemian/cosmopolitan
   pattern), and — per the mandatory Category D translation rule — genuinely origin-agnostic in the same way the
   kahvehane itself crossed from the Ottoman world into completely unrelated cultures (Venice, Vienna) and
@@ -270,7 +270,7 @@ localize per city.*
 ### Notable Local Robot Figures
 
 - None proposed distinct from `Local_Cultures` §31's existing list. Whether any of the existing placeholder
-  figures (the founding-era Korean community figure, the first non-Korean-descended teahouse keeper, Han
+  figures (the founding-era Korean community figure, the first non-Korean-descended host of note, Han
   Soo-jin, Wu Lian-Marchetti) are robot or human isn't yet specified anywhere in the source material — flagged
   as an open question worth resolving when those placeholders get real names, not answered here.
 

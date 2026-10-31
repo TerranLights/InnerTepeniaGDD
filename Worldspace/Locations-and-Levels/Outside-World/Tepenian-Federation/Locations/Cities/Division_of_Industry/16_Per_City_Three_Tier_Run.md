@@ -2879,15 +2879,15 @@ sector.**
 ### ⭐ Hospitality 15% stays FREE — the most interesting call here
 
 **§15 goes out of its way to pre-empt the objection:** *"an unusually large sector for any Tepenian city,
-reflecting the centrality of teahouses and hosting institutions **to the local economy, not just the
+reflecting the centrality of hospitality and hosting institutions **to the local economy, not just the
 culture**."* **Canon is insisting the sector is economic.**
 
-> **But ECONOMIC is not the test. NATIONAL is.** The teahouse tradition is *"nationally famous"* — **the same
+> **But ECONOMIC is not the test. NATIONAL is.** Janbogo's warmth and hospitality are *"nationally known"* — **the same
 > reputation construction that did not carry a mandate at Denison or Zukelli.**
 >
 > ***A city can have a large, genuinely commercial sector that the nation would not materially miss.***
 
-*(Majyao's Teahouse has since relocated to Concordia/Aquarius — **the export was the institution itself, not
+*(The teahouse Majyao ran has since relocated to Concordia/Taurus — **the export was the institution itself, not
 a supply.**)*
 
 ### What else stays FREE — all unannotated, per developer ruling

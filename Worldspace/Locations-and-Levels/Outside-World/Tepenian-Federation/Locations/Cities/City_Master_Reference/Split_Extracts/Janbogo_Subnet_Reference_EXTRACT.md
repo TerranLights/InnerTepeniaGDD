@@ -420,14 +420,14 @@ Exact extraction materials TBD; what "partially operational" means today; demony
 
 > ⋯ lines 303–303 withheld ⋯
 
-- Teahouse culture nationally famous (Majyao's Teahouse, since relocated to Concordia/Aquarius).
+- Nationally known for its warmth and communal hospitality; the teahouse Majyao ran, famous throughout Tepenia, has since relocated to Concordia/Taurus.
 
 > ⋯ lines 305–307 withheld ⋯
 
 ### Economy §15 (canon)
 Commercial/logistics ~30% (port, polynya, Hwy 183 make it a supply hub first) · marine/resource extraction
 ~20% (year-round polynya fishing/bay industry) · industrial/manufacturing ~15% · hospitality/communal services
-~15% (unusually large — teahouses/hosting institutions) · technical/scientific ~10% · education ~5% · other ~5%.
+~15% (unusually large — hospitality/hosting institutions) · technical/scientific ~10% · education ~5% · other ~5%.
 
 > ⋯ lines 312–312 withheld ⋯
 

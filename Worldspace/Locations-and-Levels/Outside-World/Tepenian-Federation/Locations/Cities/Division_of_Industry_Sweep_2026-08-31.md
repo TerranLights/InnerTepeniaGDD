@@ -69,10 +69,10 @@ better excuse? **Flagged for a judgment call, explicitly not diagnosed as a bug.
 ## 2.3 Checked and cleared — instances that look like the pattern but are not
 
 - **Janbogo — `Hospitality / communal services: ~15%`.** ⭐ **This is the *correct* version of the pattern and
-  should be the model for fixes.** The developer's own "Janbogo cannot be an entire city of teahouses" concern
-  is already answered in the file: it names a **broad sector** (hospitality/communal services) and cites
-  teahouses as *what drives it* — *"reflecting the centrality of teahouses… to the local economy, not just the
-  culture."* **Sector named broadly; signature instance named as its driver. Exactly right.**
+  should be the model for fixes.** It names a **broad sector** (hospitality/communal services) and cites
+  hosting institutions as *what drives it* — *"reflecting the centrality of hospitality and hosting
+  institutions to the local economy, not just the
+  culture."* **Sector named broadly, with what drives it named beside it. Exactly right.**
 - **Mawson — `Hospitality / honeymoon tourism: 10%`.** Specific but *sector-shaped*, and sized modestly.
 - **Amundsen Station — Arcanet 60% / Tower ops 30%.** **Self-caveated in the file itself:** *"Division of
   Industry as a category assumes a civic economy; Amundsen Station had no economy in the conventional sense."*

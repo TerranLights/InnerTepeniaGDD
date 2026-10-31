@@ -120,7 +120,7 @@ Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GP
 - **Katabatic winds as the primary outdoor hazard:** unlike Concordia, where the cold is the constant threat, Janbogo's outdoor lethality comes from the combination of cold + wind force; an environment that is manageable in calm conditions at −5°C becomes impassable in a katabatic event at the same temperature; wind chill, not ambient temperature, is the design parameter
 - **The polynya as strategic asset:** maritime access to Janbogo is year-round — supply ships and travelers can arrive by sea even in the depths of winter; this is a major strategic differentiator and should be mechanically reflected in DLC 6 (things that other coastal cities can only receive in summer, Janbogo can receive year-round)
 - **Polar night (~95 days, May 6 → Aug 8):** present, and it coincides with the year's most intense katabatic season; faction behaviors and outdoor event availability shift during the darkness period *(corrected 2026-10-28 from "~64 days", an old figure already fixed in the climate block above and in Zukelli's spec on 2026-09-04)*
-- **The communal warmth design tension:** the violent outdoor environment versus Janbogo's renowned interior culture (teahouses, shared warmth) is the defining design contrast of the setting — sheltered interior spaces are survival, not luxury; transitioning between exterior and interior is a constant mechanical and atmospheric rhythm
+- **The communal warmth design tension:** the violent outdoor environment versus Janbogo's interior culture of tea, hospitality and togetherness is the defining design contrast of the setting — sheltered interior spaces are survival, not luxury; transitioning between exterior and interior is a constant mechanical and atmospheric rhythm
 - **Wind warning system:** katabatic events as a dynamic weather mechanic — the game signals incoming events; outdoor activity windows are time-limited; characters and NPCs may have routines that adjust to katabatic event patterns
 - **Hardcore Mode influences:**
   - Wind chill tracking: ambient temperature alone is insufficient — wind speed must factor into exposure calculations; a katabatic event at "merely" −10°C ambient can generate effective wind-chill temperatures below −40°C
@@ -146,11 +146,11 @@ Janbogo developed its own reputation for warmth and community, independently of 
 
 The communal culture was strong: shared spaces, hospitality traditions, an emphasis on the quality of everyday experience even in a difficult environment. The city produced people whose instinct, wherever they ended up, was to build something that made the people around them feel more at home.
 
-The teahouse culture was its most nationally visible expression. Janbogo teahouses were not simply places to drink tea; they were social institutions, community anchors, places where the texture of daily life was deliberately made worth living. This tradition was strong enough that at least one Janbogo teahouse was famous throughout Tepenia — known to people who had never been to Janbogo and would never go.
+Tea, hospitality and togetherness are part of its culture. At least one Janbogo teahouse was famous throughout Tepenia — known to people who had never been to Janbogo and would never go.
 
-**Tepenia's Korean-founded cities:** Janbogo is not the only Korean city in Tepenia. Sinheung, in the Mirny subnet's Larsemann Hills cluster, is singularly Korean-founded via the same Jeju-do diplomatic partition that allocated Zhongshan to China and Shirayuki to Japan, and remains genuinely Korean-**Primary** today at 34.62% — by current population, the most heavily Korean city in Tepenia, more so than Janbogo itself. Janbogo's own claim to being "Korea's primary Tepenian city" rests on a different foundation than raw population share: South Korea is still Janbogo's largest Significant-tier nation (10.23%, ahead of even Australia's 9.99%), and Janbogo's founding-era civic template — the teahouse tradition, communal warmth — was never displaced or diluted even as the population that carries it forward diversified (see `Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1). Both cities carry genuine Korean cultural identity, by different mechanisms: Sinheung by demographic dominance, Janbogo by cultural/institutional depth despite demographic dilution. Contrapunto, founded by immigrants from the Americas, also has a Korean community at Significant tier (5.79%). Whether the Korean communities of these cities had meaningful contact pre-Split Brain, and what the current relationship between surviving diaspora members might be, is a lore thread running through all three.
+**Tepenia's Korean-founded cities:** Janbogo is not the only Korean city in Tepenia. Sinheung, in the Mirny subnet's Larsemann Hills cluster, is singularly Korean-founded via the same Jeju-do diplomatic partition that allocated Zhongshan to China and Shirayuki to Japan, and remains genuinely Korean-**Primary** today at 34.62% — by current population, the most heavily Korean city in Tepenia, more so than Janbogo itself. Janbogo's own claim to being "Korea's primary Tepenian city" rests on a different foundation than raw population share: South Korea is still Janbogo's largest Significant-tier nation (10.23%, ahead of even Australia's 9.99%), and Janbogo's founding-era civic template — tea, hospitality and communal warmth — was never displaced or diluted even as the population that carries it forward diversified (see `Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1). Both cities carry genuine Korean cultural identity, by different mechanisms: Sinheung by demographic dominance, Janbogo by cultural/institutional depth despite demographic dilution. Contrapunto, founded by immigrants from the Americas, also has a Korean community at Significant tier (5.79%). Whether the Korean communities of these cities had meaningful contact pre-Split Brain, and what the current relationship between surviving diaspora members might be, is a lore thread running through all three.
 
-**Nationally known for:** Its teahouse culture and the quality of warmth and communal hospitality its people carried with them; being the last active coastal link to Concordia.
+**Nationally known for:** The quality of warmth and communal hospitality its people carried with them; being the last active coastal link to Concordia.
 
 ---
 
@@ -164,7 +164,7 @@ Since the war, its economic function has narrowed to what it can still perform i
 
 ## Notable Locations
 
-- **Majyao's Teahouse** — the establishment famous throughout Tepenia; Majyao has since relocated to Concordia; what remains of the teahouse in Janbogo's current damaged state is TBD
+- **The teahouse Majyao ran** *(no name yet)* — one of the city's founding-era landmarks, famous throughout Tepenia; Majyao has since relocated to Concordia; what remains of the teahouse in Janbogo's current damaged state is TBD
 - **The Zukelli view** — the waterfront sight line north to Zukelli's ruins, approximately 8km away; unique in Tepenia; the ruins are visible on clear days and during midnight sun; how Janbogo residents relate to this view — whether they avoid it, mark it, or simply live with it — is a DLC 6 character and cultural detail. **Established 2026-07-05:** the view is now understood as a deliberate, intended warning — see Geographic Basis, above, and `Specs/Zukelli.md`.
 - Additional named locations: TBD — to be developed during DLC 6 design
 
@@ -172,10 +172,10 @@ Since the war, its economic function has narrowed to what it can still perform i
 
 ## Notable Figures
 
-- **Majyao Bisyugota** — Robot — Teahouse keeper whose establishment was famous throughout Tepenia; relocated to Concordia (Aquarius district) before or during the Long Night War; her teahouse was a defining landmark of Janbogo's cultural identity and the most nationally recognized symbol of the city's character
+- **Majyao Bisyugota** — Robot — Teahouse keeper whose establishment was famous throughout Tepenia; relocated to Concordia (Taurus district) before or during the Long Night War; her teahouse was one of the city's founding-era landmarks
 - **TBN Pink Lucy (FW-25)** *(added 2026-07-13 — migration route resolved 2026-07-12, previously an open question below)* — Robot — Dumont d'Urville native who relocated to Janbogo pre-war and settled there for a time, on strong personality-match grounds (Janbogo's own hospitality-and-synthesis civic identity closely mirrors her established character read); whether she subsequently fled to Concordia or remained in Janbogo through the war is still open — see `Worldspace/Characters/Dolls/Still-Present_-_In-Game/recruitable/TBN [FW-25 Pink Lucy]/README.md`
 - **Meteorologist Han Soo-jin** *(placeholder, added 2026-07-17, proposed `Janbogo_Full_Extrapolation.md` Section III)* — credited with formalizing Janbogo's katabatic wind-warning system, the practical originator behind "the game signals incoming events" mechanic.
-- **Architect Wu Lian-Marchetti** *(placeholder, added 2026-07-17, same section)* — credited with designing the great shielded commercial halls, translating the teahouse-scale interior-warmth principle into large-scale civic architecture.
+- **Architect Wu Lian-Marchetti** *(placeholder, added 2026-07-17, same section)* — credited with designing the great shielded commercial halls, translating the interior-warmth principle into large-scale civic architecture.
 
 ---
 
@@ -188,7 +188,7 @@ Janbogo's connection to Concordia is the most direct and most operational of any
 - **The Janbogo Arcanet subnet nexus** — the physical relay hardware for the Janbogo subnet sits inside Concordia's Gemini district; this is unusual (most subnet nexuses would be in their hub city) and reflects the depth and longevity of the Janbogo-Concordia relationship
 
 **Characters from Janbogo currently in Concordia:**
-- **Majyao Bisyugota** — Aquarius district; runs a teahouse; relocated from Janbogo
+- **Majyao Bisyugota** — Taurus district; runs a teahouse; relocated from Janbogo
 
 ---
 
@@ -202,7 +202,7 @@ The city's strategic importance as Concordia's supply lifeline means it has like
 
 ## Legacy
 
-In Concordia, Janbogo's legacy is not historical — it is present-tense. The Gemini district enclave is a living piece of Janbogo culture, maintained by the diaspora community. The teahouse tradition survives through Majyao's establishment in Aquarius. The supply relationship is ongoing.
+In Concordia, Janbogo's legacy is not historical — it is present-tense. The Gemini district enclave is a living piece of Janbogo culture, maintained by the diaspora community. Majyao's teahouse continues in Taurus. The supply relationship is ongoing.
 
 What Janbogo means to Concordia residents is not primarily "a city that was lost" but "the place our supplies come from" and "where the Gemini people are from." It is the most present of all the damaged cities.
 
@@ -211,7 +211,7 @@ What Janbogo means to Concordia residents is not primarily "a city that was lost
 ## Open Questions
 
 - Population and governance of current Janbogo — who is running the city, and under what arrangement? (DLC 6 central question)
-- What does Majyao's original teahouse in Janbogo look like now — preserved, looted, repurposed, partially destroyed?
+- What does the teahouse Majyao ran in Janbogo look like now — preserved, looted, repurposed, partially destroyed?
 - Other named cultural institutions or landmarks that existed at peak: TBD
 - Other notable figures from Janbogo beyond Majyao: TBD
 - Why the Janbogo subnet nexus sits inside Concordia's Gemini district rather than in Janbogo itself — political arrangement, wartime emergency measure, or something else? (flagged for Gemini district design)

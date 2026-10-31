@@ -1423,7 +1423,7 @@ preservation and civic memory-keeping together account for **35% of the city's e
 **That number is a canon defect.** 35% of 1,050,051 is **~367,500 people maintaining one 1899 wooden hut** —
 roughly **36,000×** the real-world conservation effort at the actual site. **Developer:** *"Cape Adare cannot be
 a city that's entirely based around maintaining a tent"* — explicitly the same failure class as *"Zhongshan
-entirely based around managing the lake"* and *"Janbogo an entire city of teahouses."*
+entirely based around managing the lake."*
 
 **The failure is specifically the warm pass's, and it is diagnosable.** Run 7 (cold) never saw the number and
 cannot be faulted. **Run 8 saw it, treated it as authoritative, and reasoned from it — without running Gate 11
@@ -1700,8 +1700,8 @@ Run 7's self-caught contamination) — and it fired again, on the same file-type
 
 `Specs/Janbogo.md` carries a **"Character & Culture" section** (lines 124–134) — the exact header §6.1d names
 as suspect by default. It states, as settled fact: Janbogo's "reputation for warmth and community," a "strong"
-communal culture, the teahouse tradition as "the district's most nationally visible expression" of that
-temperament — and it **directly cites `Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1 by name** as the
+communal culture, and a national reputation for that temperament — and it **directly cites
+`Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1 by name** as the
 source for one of its own claims. That is the §6.1a citation-check catching the file downstream of a withheld
 document, inside the one tier (`Specs/`) the reading order still lists first as safest.
 

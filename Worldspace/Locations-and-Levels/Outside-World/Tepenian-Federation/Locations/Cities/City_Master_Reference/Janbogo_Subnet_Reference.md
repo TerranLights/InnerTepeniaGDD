@@ -301,14 +301,14 @@ Exact extraction materials TBD; what "partially operational" means today; demony
 - **Subnet hub.** Sits on Terra Nova Bay; the **Terra Nova Bay polynya gives year-round maritime access** — unique strategic asset (other coastal cities only receive summer shipping).
 - **Hwy 183 is Concordia's most critical supply artery** — "whatever enters or exits Concordia by ground moves through Janbogo."
 - **Janbogo Arcanet subnet nexus physically sits in Concordia's Gemini district** (unusual — most nexuses sit in their hub city) — reflects depth of the relationship. Gemini is the largest, most established diaspora enclave in Concordia.
-- Teahouse culture nationally famous (Majyao's Teahouse, since relocated to Concordia/Aquarius).
+- Nationally known for its warmth and communal hospitality; the teahouse Majyao ran, famous throughout Tepenia, has since relocated to Concordia/Taurus.
 - **One of Tepenia's two Korean-founded cities** (with Sinheung) — Janbogo's claim rests on institutional/cultural depth despite demographic dilution, not raw population share (South Korea is still its largest Significant-tier nation at 10.23%).
 - ~8 km south of Zukelli's ruins, visible from the waterfront — understood since 2026-07-05 as a deliberate "living witness" arrangement, not incidental proximity.
 
 ### Economy §15 (canon)
 Commercial/logistics ~30% (port, polynya, Hwy 183 make it a supply hub first) · marine/resource extraction
 ~20% (year-round polynya fishing/bay industry) · industrial/manufacturing ~15% · hospitality/communal services
-~15% (unusually large — teahouses/hosting institutions) · technical/scientific ~10% · education ~5% · other ~5%.
+~15% (unusually large — hospitality/hosting institutions) · technical/scientific ~10% · education ~5% · other ~5%.
 
 ### Division-of-Industry status
 D=1.25 · workforce 987,241 (also cited as 987,240 in `16`) · three-tier: baseline 41.1% / mandated **29.4%**

@@ -31,7 +31,7 @@ Counts only for the next three; their lines were not printed:
 | `City_Vision_Notes/Janbogo.md` | 5 | Not an input at any step. **Question 4** |
 | `Neo-Races-and-Cultures/Janbogo_Subnet/Janbogo/Janbogo_Catalog.md` | 26 | Downstream neo-race project, not an input. **Question 4** |
 
-## B · Drafted spec edits (all within existing lines, so the spec stays 220 lines)
+## B · Drafted spec edits (all within existing lines, so the spec stays 219 lines)
 
 | Line | Replace | With |
 |---|---|---|

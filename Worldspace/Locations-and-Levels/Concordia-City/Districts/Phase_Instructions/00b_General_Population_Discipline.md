@@ -94,7 +94,7 @@ whole **sector**.
 1899 hut. In a city of 1,050,051 that reads as **~367,500 people maintaining one small wooden structure**,
 roughly **36,000×** the real-world conservation effort at the actual site. Developer's flag: *"Cape Adare
 cannot be a city that's entirely based around maintaining a tent"* — explicitly the same class as *"Zhongshan
-entirely based around managing the lake"* or *"Janbogo an entire city of teahouses."*
+entirely based around managing the lake."*
 
 > ### ⭐ The correction that matters, because the obvious fix is the wrong one
 >

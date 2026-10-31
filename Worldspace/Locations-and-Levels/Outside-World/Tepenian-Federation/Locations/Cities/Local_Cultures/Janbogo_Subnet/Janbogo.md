@@ -23,7 +23,7 @@
 | Significant | Japan, Germany, Italy, South Korea, Canada, Indonesia, Australia *(founding wave)* |
 | Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
 
-*Janbogo is Tepenia's clearest case of a founding-era civic template surviving its own demographic minority status. Unified Korea founded the city, gave it its name, and set its earliest civic institutions in place — teahouses, communal warmth, the instinct to make daily life worth living under difficult conditions, all worked out independently by the founding population out of the city's own circumstances. But over roughly two and a half centuries, the sheer scale of Chinese and American emigration potential outweighed Korea's smaller founding population, and China and USA became the numerically dominant lineages. The culture did not follow the numbers. It stayed exactly as it was built. People whose ancestry is Chinese, American, Japanese, German — the demographic majority of the city — grew up inside a civic identity that was never theirs by blood and is now inarguably theirs by practice.*
+*Janbogo is Tepenia's clearest case of a founding-era civic template surviving its own demographic minority status. Unified Korea founded the city, gave it its name, and set its earliest civic institutions in place — tea, hospitality, communal warmth, the instinct to make daily life worth living under difficult conditions, all worked out independently by the founding population out of the city's own circumstances. But over roughly two and a half centuries, the sheer scale of Chinese and American emigration potential outweighed Korea's smaller founding population, and China and USA became the numerically dominant lineages. The culture did not follow the numbers. It stayed exactly as it was built. People whose ancestry is Chinese, American, Japanese, German — the demographic majority of the city — grew up inside a civic identity that was never theirs by blood and is now inarguably theirs by practice.*
 
 ---
 
@@ -33,7 +33,7 @@ The real Jang Bogo Station was Unified Korea's Antarctic presence, established w
 
 The phonetic drift from *Jang Bogo* to *Janbogo* was not an erasure. It was the opposite: a name worn down by daily use into something that belonged to everyone who said it, without ever stopping being Korean. Janbogo kept what it was without needing to perform it — a phrase that would come to describe the entire city, not just its name.
 
-The founding population built the teahouse tradition almost immediately, developing it independently out of the environment's own harsh demands: a reason to gather, warmth that had to be built rather than assumed, care expressed through the ritual of hosting rather than through words. *(The form happens to echo real-world Korean tea-house tradition — a coincidence of convergent development given the founding population's own background, not a direct transplant.)* This was the template. Every later arrival — Chinese, American, Japanese, German, Italian, Southeast Asian — arrived into a city where the answer to "how do we survive this place together" had already been worked out, and it looked like a teahouse.
+The founding population built its tradition of tea, hospitality and togetherness almost immediately, developing it independently out of the environment's own harsh demands: a reason to gather, warmth that had to be built rather than assumed, care expressed through the ritual of hosting rather than through words. *(The form happens to echo real-world Korean tea and hosting traditions — a coincidence of convergent development given the founding population's own background, not a direct transplant.)* This was the template. Every later arrival — Chinese, American, Japanese, German, Italian, Southeast Asian — arrived into a city where the answer to "how do we survive this place together" had already been worked out, and it looked like hosting.
 
 By the time Chinese and American emigration reached the scale that would make them the long-run demographic majority, Janbogo's civic culture was no longer something the Korean founders had to defend. It was simply how the city worked. Newcomers did not assimilate into a numerical majority — for most of the city's history, there wasn't one. They assimilated into an *institution*.
 
@@ -43,7 +43,7 @@ By the time Chinese and American emigration reached the scale that would make th
 
 Janbogo's defining climate feature is not cold — it's wind. Katabatic winds, gravity-driven air pouring off the East Antarctic interior ice sheet, make Terra Nova Bay one of the windiest locations on the entire Ross Sea coast, with storms regularly reaching 60–100+ km/h and extreme events beyond 150 km/h. The wind warms adiabatically as it descends, arriving drier and relatively less cold than ambient air — a cruel trick, since wind chill at even moderate katabatic speeds still creates lethal outdoor conditions. Janbogo's relationship with the outdoors is not "it's cold out there." It's "the air itself is trying to kill you, and it isn't even that cold."
 
-This produces a specific psychology: the sharp, immediate line between exterior danger and interior sanctuary. Unlike Concordia, where cold is a constant, ambient pressure, Janbogo's threat is episodic and violent — a katabatic event can turn a manageable walk into an emergency in minutes. The result is a culture that takes shelter seriously not as comfort but as the precondition for being alive at all. The teahouse tradition is, at its root, a response to this: if the outside world is going to try to kill you without warning, the inside world had better be worth surviving for.
+This produces a specific psychology: the sharp, immediate line between exterior danger and interior sanctuary. Unlike Concordia, where cold is a constant, ambient pressure, Janbogo's threat is episodic and violent — a katabatic event can turn a manageable walk into an emergency in minutes. The result is a culture that takes shelter seriously not as comfort but as the precondition for being alive at all. The culture of hospitality and togetherness is, at its root, a response to this: if the outside world is going to try to kill you without warning, the inside world had better be worth surviving for.
 
 The Terra Nova Bay polynya — a persistent open-water area the katabatics themselves maintain by blowing sea ice clear — gives Janbogo something almost no other coastal Tepenian city has: genuine year-round maritime access. The same wind that makes the surface lethal is the reason ships can reach Janbogo in the dead of winter when every other coastal city is locked in ice. The city's relationship to its own weather is accordingly complicated — the wind is an enemy and also, structurally, the reason Janbogo matters as much as it does.
 
@@ -51,7 +51,7 @@ The Terra Nova Bay polynya — a persistent open-water area the katabatics thems
 
 ## 4. Seasonal Rhythms
 
-Polar night runs roughly May 20 to July 23 — about 64 days, shorter than Concordia's 82, but coinciding with the year's most intense katabatic season. This is Janbogo's hardest stretch: total darkness layered on top of the worst wind of the year. The teahouses fill. Outdoor life effectively stops except for what the supply route to Concordia demands, and even that runs on tight, wind-monitored windows.
+Polar night runs roughly May 20 to July 23 — about 64 days, shorter than Concordia's 82, but coinciding with the year's most intense katabatic season. This is Janbogo's hardest stretch: total darkness layered on top of the worst wind of the year. The shared interior spaces fill. Outdoor life effectively stops except for what the supply route to Concordia demands, and even that runs on tight, wind-monitored windows.
 
 Midnight sun (mid-November to late January) is the city's productive, outward-facing season — the polynya at its most navigable, Hwy 183 traffic at its heaviest, the waterfront genuinely pleasant by Antarctic standards. Janbogo does not slow down for summer the way some cities do; it speeds up, because the weather finally allows it to.
 
@@ -65,16 +65,16 @@ The transition seasons are when the katabatics are most unpredictable — buildi
 
 ## 5. Post-Culture Identity
 
-**Name/concept:** *Inherited Warmth, Owned Completely* — colloquially, *the Teahouse City*
+**Name/concept:** *Inherited Warmth, Owned Completely*
 
-Janbogo's culture is built on an inversion most cities never have to reckon with: the people who founded it are no longer most of the people who live there, and the culture never noticed the difference. The teahouse as social infrastructure, hospitality as the highest form of care, the instinct to make ordinary life worth living under hard conditions — the founding population's own institution was so completely internalized by every wave of arrivals that it was never anyone's borrowed tradition to begin with. It simply became "Janbogo." A fourth-generation Chinese-descended Janbogo resident does not feel like a guest in someone else's tradition. They feel like they're home, because they are.
+Janbogo's culture is built on an inversion most cities never have to reckon with: the people who founded it are no longer most of the people who live there, and the culture never noticed the difference. Tea and hosting as social infrastructure, hospitality as the highest form of care, the instinct to make ordinary life worth living under hard conditions — the founding population's own tradition was so completely internalized by every wave of arrivals that it was never anyone's borrowed tradition to begin with. It simply became "Janbogo." A fourth-generation Chinese-descended Janbogo resident does not feel like a guest in someone else's tradition. They feel like they're home, because they are.
 
 This is the opposite of Zhongshan's relationship to its own demography, where the founding nation and the long-run majority are the same and the tension is about *other* people's private heritage surviving under a stable dominant culture. In Janbogo, the dominant culture's *originators* are the minority, and the majority has no separate "public face" to maintain — the city's own warmth culture simply is the public face, for everyone, regardless of ancestry.
 
-- **a. Founding tension** — Korean identity is Janbogo's origin and template, but not its numbers. The tension isn't Koreans defending their culture from dilution — it's the reverse: descendants of the Korean founding population are keenly aware that the institution they originated is now carried forward mostly by people who aren't Korean at all, and there's a quiet, rarely-voiced question running underneath the city's warmth: *does it still count as ours if almost none of us are left to keep it?* The teahouse tradition answers this by simply continuing, unbothered by the question — which some Korean-descended residents find comforting and others find a little bit like grief.
+- **a. Founding tension** — Korean identity is Janbogo's origin and template, but not its numbers. The tension isn't Koreans defending their culture from dilution — it's the reverse: descendants of the Korean founding population are keenly aware that the institution they originated is now carried forward mostly by people who aren't Korean at all, and there's a quiet, rarely-voiced question running underneath the city's warmth: *does it still count as ours if almost none of us are left to keep it?* The tradition answers this by simply continuing, unbothered by the question — which some Korean-descended residents find comforting and others find a little bit like grief.
 
 - **b. Fault lines**
-  - The most visible fault line is invisible to outsiders: within Janbogo, there's a quiet, informal distinction between "old teahouse families" (regardless of ethnicity, families whose hosting lineage goes back to the founding generation or close to it) and everyone else. It has nothing to do with blood and everything to do with how many generations your family has been *making* the warmth rather than just receiving it.
+  - The most visible fault line is invisible to outsiders: within Janbogo, there's a quiet, informal distinction between "old hosting families" (regardless of ethnicity, families whose hosting lineage goes back to the founding generation or close to it) and everyone else. It has nothing to do with blood and everything to do with how many generations your family has been *making* the warmth rather than just receiving it.
   - The question of Tepenia's other Korean-founded cities sits under the surface for Korean-descended residents specifically *(corrected 2026-07-13: there are two, not one)*: Contrapunto exists on the far side of the continent, its own Korean population long since diluted to its smallest Significant-tier nation; Sinheung, in the Mirny subnet, is the one genuinely Korean-Primary city left in Tepenia today (34.62%), a fact most Janbogo residents — even Korean-descended ones — likely don't know, given how little contact the Larsemann Hills cluster has with the Ross Sea coast. What relationship, if any, any of these communities maintained before the Planetary Split Brain severed easy contact is genuinely unresolved. Some Korean-descended Janbogo families treat the Contrapunto question specifically as an old wound; most others in the city have never thought about either connection at all.
 
 ---
@@ -87,7 +87,7 @@ This is the opposite of Zhongshan's relationship to its own demography, where th
 
 - **c. Time moves for the weather, not the clock.** Janbogo's pace is genuinely dictated by katabatic conditions — plans bend around wind windows without apology or explanation needed. A meeting that doesn't happen because of a wind warning is not a broken commitment; it's simply what the day required.
 
-- **d. Public/private divide** — Comparatively thin. Janbogo's warmth culture extends deep into what other cities would consider private — neighbors check on neighbors, teahouse keepers know regulars' troubles, community involvement in individual hardship is expected rather than intrusive. This is not gossip culture; it's care culture, and the city genuinely does not experience the two as the same thing.
+- **d. Public/private divide** — Comparatively thin. Janbogo's warmth culture extends deep into what other cities would consider private — neighbors check on neighbors, hosts know regulars' troubles, community involvement in individual hardship is expected rather than intrusive. This is not gossip culture; it's care culture, and the city genuinely does not experience the two as the same thing.
 
 - **e. Privacy as civic value** — Present but narrow: financial and political matters are kept close, but personal wellbeing is treated as a shared civic concern rather than an individual's private business. The Janbogo Arcanet subnet reflects this — heavily used for practical coordination (supply routes, wind warnings, community check-ins), lightly used for anything resembling gossip, because gossip has less function in a culture that already checks on people directly.
 
@@ -99,13 +99,13 @@ This is the opposite of Zhongshan's relationship to its own demography, where th
 
 - **The type this city repels:** People who need formal privacy and find constant communal attention smothering rather than caring. People who process life through solitude rather than company. Anyone whose instinct is to disappear when things are hard — Janbogo will not let you.
 
-- **Case study — Majyao Bisyugota:** Ran the single most famous teahouse in Tepenia, out of Janbogo, for years before relocating to Concordia. She is Chinese-descended, not Korean — her aesthetic is explicitly Chinese (qipao, Chinese lanterns, a musical sensibility built on Chinese traditional folk fused with Scandinavian avant-garde jazz), and her establishment served coffee alongside tea, not tea alone. She is, in one person, the entire thesis of Janbogo's culture: the demographic majority made itself the custodian of a founding tradition that was never its own by blood, and did it so completely that "Majyao's teahouse" became the nationally recognized symbol of Janbogo's own founding-era warmth tradition. Nobody in Tepenia who knew the teahouse thought to question that its keeper wasn't Korean. That is exactly how thoroughly the culture transcended its founding ethnicity.
+- **Case study — Majyao Bisyugota:** Ran the single most famous teahouse in Tepenia, out of Janbogo, for years before relocating to Concordia. She is Chinese-descended, not Korean — her aesthetic is explicitly Chinese (qipao, Chinese lanterns, a musical sensibility built on Chinese traditional folk fused with Scandinavian avant-garde jazz), and her establishment served coffee alongside tea, not tea alone. She is, in one person, a clear example of how Janbogo's culture works: the demographic majority made itself the custodian of a founding tradition that was never its own by blood, and did it so completely that her teahouse became one of the city's founding-era landmarks. Nobody in Tepenia who knew the teahouse thought to question that its keeper wasn't Korean. That is exactly how thoroughly the culture transcended its founding ethnicity.
 
 ---
 
 ## 8. Language
 
-- **a. Primary language(s):** Korean persists as a heritage and ceremonial language, spoken fluently within old teahouse families and used in specific hosting rituals regardless of the host's ancestry. Mandarin and English (American-inflected) are the most widely spoken daily languages, reflecting the long-run demographic majority. Japanese, German, and Indonesian are meaningfully present within their communities.
+- **a. Primary language(s):** Korean persists as a heritage and ceremonial language, spoken fluently within old hosting families and used in specific hosting rituals regardless of the host's ancestry. Mandarin and English (American-inflected) are the most widely spoken daily languages, reflecting the long-run demographic majority. Japanese, German, and Indonesian are meaningfully present within their communities.
 
 - **b. Linguistic character:** Janbogo speech is warm and direct, without Zhongshan's deliberate slowness or performative ceremony. Korean hosting phrases — untranslated, understood by everyone regardless of their own ancestry — are woven into everyday speech the way loanwords settle into any living language: not as foreign insertions but as simply the correct word for the situation. A Chinese-descended fourth-generation Janbogo resident uses these phrases with the same unselfconsciousness as a Korean-descended one.
 
@@ -119,13 +119,13 @@ This is the opposite of Zhongshan's relationship to its own demography, where th
 
 Janbogo's built environment answers directly to the katabatic wind: low profiles, wind-shedding angles, minimal exposed surface facing the prevailing SSW–SW flow, heavy structural icing resistance on anything that does face the bay. The city reads, from outside, as defensive and practical — a place built by people who took the wind seriously from the first structure onward.
 
-Inside, the character inverts completely. Teahouses and communal interior spaces are where Janbogo's aesthetic investment concentrates: warm lighting, textiles, the deliberate softening of every hard edge the exterior architecture had to accept. Interior design principles established early by the founding population — low seating, warm wood tones where wood can be afforded, an emphasis on threshold spaces that transition gradually from outside to in rather than a single hard door — persist in teahouse design specifically, even in buildings built and run by non-Korean-descended families. *(The approach happens to echo real-world Korean domestic design — a coincidence of convergent development given the founders' own background, not a direct import.)* The threshold matters more in Janbogo than almost anywhere else in Tepenia: the physical and emotional distance between "the wind that wants to kill you" and "the warmth that's waiting" is the entire architectural point.
+Inside, the character inverts completely. Communal interior spaces are where Janbogo's aesthetic investment concentrates: warm lighting, textiles, the deliberate softening of every hard edge the exterior architecture had to accept. Interior design principles established early by the founding population — low seating, warm wood tones where wood can be afforded, an emphasis on threshold spaces that transition gradually from outside to in rather than a single hard door — persist in communal interior design specifically, even in buildings built and run by non-Korean-descended families. *(The approach happens to echo real-world Korean domestic design — a coincidence of convergent development given the founders' own background, not a direct import.)* The threshold matters more in Janbogo than almost anywhere else in Tepenia: the physical and emotional distance between "the wind that wants to kill you" and "the warmth that's waiting" is the entire architectural point.
 
 ---
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** The founding population's own foodways form the base layer — communal stews, shared small dishes, and above all tea culture, later joined by coffee culture as the population diversified — developed independently out of the city's own founding-era needs for warmth and gathering. Later arrivals' own culinary traditions, reflecting the long-run demographic majority, sit alongside rather than displacing this — Janbogo's food culture is genuinely layered rather than fused into something new the way Zhongshan's own cuisine became one thing. You can get a meal built around the founding tea-and-stew tradition and one reflecting the city's demographic majority in the same neighborhood, sometimes the same establishment, and nobody considers this unusual. *(The layering happens to echo real-world Korean and Chinese foodways specifically, given the population's own origins — a coincidence of convergent development, not a direct transplant.)*
+- **a. Human cuisine:** The founding population's own foodways form the base layer — communal stews, shared small dishes, and tea culture, later joined by coffee culture as the population diversified — developed independently out of the city's own founding-era needs for warmth and gathering. Later arrivals' own culinary traditions, reflecting the long-run demographic majority, sit alongside rather than displacing this — Janbogo's food culture is genuinely layered rather than fused into something new the way Zhongshan's own cuisine became one thing. You can get a meal built around the founding tea-and-stew tradition and one reflecting the city's demographic majority in the same neighborhood, sometimes the same establishment, and nobody considers this unusual. *(The layering happens to echo real-world Korean and Chinese foodways specifically, given the population's own origins — a coincidence of convergent development, not a direct transplant.)*
 
 - **b. Social context of eating:** Central to the city's entire social contract. Sharing food and drink is how Janbogo says the things it doesn't say in words — hosting is care, and every hosting act runs through food or drink. A Janbogo resident who has had a hard week will simply find themselves fed, without having to ask.
 
@@ -135,23 +135,23 @@ Inside, the character inverts completely. Teahouses and communal interior spaces
 
 ## 11. Fashion
 
-Practical, layered, wind-resistant — Janbogo clothing has to survive katabatic conditions, and the city's fashion sensibility treats function and warmth as inseparable from style rather than opposed to it. Layering principles established early by the founding population (functional under-layers, a more expressive and warmer outer layer meant to be seen once you're inside) persist broadly. *(The approach happens to echo real-world Korean layering traditions — a coincidence of convergent development, not a direct import.)* Interior wear, specifically teahouse and hosting attire, is where aesthetic expression concentrates — soft fabrics, warm colors, garments meant to be comfortable for long unhurried hours indoors. A Janbogo local's "good clothes" are almost always their indoor clothes, not their outdoor ones.
+Practical, layered, wind-resistant — Janbogo clothing has to survive katabatic conditions, and the city's fashion sensibility treats function and warmth as inseparable from style rather than opposed to it. Layering principles established early by the founding population (functional under-layers, a more expressive and warmer outer layer meant to be seen once you're inside) persist broadly. *(The approach happens to echo real-world Korean layering traditions — a coincidence of convergent development, not a direct import.)* Interior wear, specifically hosting attire, is where aesthetic expression concentrates — soft fabrics, warm colors, garments meant to be comfortable for long unhurried hours indoors. A Janbogo local's "good clothes" are almost always their indoor clothes, not their outdoor ones.
 
-*(Established 2026-07-05, developer vision session — see `City_Vision_Notes/Janbogo.md`.)* This same insulated-but-vivid principle extends across the whole city, not just teahouses: fashionable residents fill Janbogo's huge shielded indoor commercial and social spaces in richly colored, insulated outfits, developed independently out of the city's own indoor-warmth civic instinct rather than imported from anywhere in particular. *(The resulting look happens to echo real-world Chinese and French design sensibilities — a coincidence of convergent development given the population's own composition, not a direct import from either.)*
+*(Established 2026-07-05, developer vision session — see `City_Vision_Notes/Janbogo.md`.)* This same insulated-but-vivid principle extends across the whole city, not just hosting settings: fashionable residents fill Janbogo's huge shielded indoor commercial and social spaces in richly colored, insulated outfits, developed independently out of the city's own indoor-warmth civic instinct rather than imported from anywhere in particular. *(The resulting look happens to echo real-world Chinese and French design sensibilities — a coincidence of convergent development given the population's own composition, not a direct import from either.)*
 
 ---
 
 ## 12. Music
 
-Warm, communal, meant to be experienced together rather than performed at a distance — folk traditions across the city's many communities (Korean, Chinese, Japanese, Indonesian, and others) are kept alive specifically as teahouse and hosting music, genres meant to accompany gathering rather than demand attention. Fusion is common and unforced: Majyao Bisyugota's own musical signature — Chinese traditional folk fused with Scandinavian avant-garde jazz — is a genuinely Janbogo phenomenon, sophisticated without losing its rootedness, experimental without abandoning warmth. The city produces music built to be played while people are talking to each other, not instead of it.
+Warm, communal, meant to be experienced together rather than performed at a distance — folk traditions across the city's many communities (Korean, Chinese, Japanese, Indonesian, and others) are kept alive specifically as hosting music, genres meant to accompany gathering rather than demand attention. Fusion is common and unforced: Majyao Bisyugota's own musical signature — Chinese traditional folk fused with Scandinavian avant-garde jazz — is a genuinely Janbogo phenomenon, sophisticated without losing its rootedness, experimental without abandoning warmth. The city produces music built to be played while people are talking to each other, not instead of it.
 
 ---
 
 ## 13. Arts & Aesthetics
 
-- **Visual arts:** Domestic and craft-oriented rather than gallery-oriented — textiles, ceramics (particularly teaware), and interior design are where Janbogo's visual culture concentrates its seriousness, consistent with a city whose aesthetic center of gravity is the inside of a teahouse rather than a museum wall.
+- **Visual arts:** Domestic and craft-oriented rather than gallery-oriented — textiles, ceramics (particularly teaware), and interior design are where Janbogo's visual culture concentrates its seriousness, consistent with a city whose aesthetic center of gravity is the inside of a shared interior rather than a museum wall.
 
-- **Literature:** A strong oral and anecdotal tradition — stories about specific teahouses, specific hosts, specific acts of unexpected kindness during hard winters — carried forward more through speech and community memory than published work. What written literature exists tends toward the personal and warm rather than the abstract. **Confirmed 2026-07-05:** Janbogo is also one of the Tepenian cities whose libraries openly welcome smuggled Upper Earth books, part of a broader national practice (also confirmed at Zukelli and Esperanza).
+- **Literature:** A strong oral and anecdotal tradition — stories about specific places, specific hosts, specific acts of unexpected kindness during hard winters — carried forward more through speech and community memory than published work. What written literature exists tends toward the personal and warm rather than the abstract. **Confirmed 2026-07-05:** Janbogo is also one of the Tepenian cities whose libraries openly welcome smuggled Upper Earth books, part of a broader national practice (also confirmed at Zukelli and Esperanza).
 
 - **Crafts & material culture:** Teaware and coffee service craft is taken seriously as a genuine artisan tradition — a good Janbogo teapot or coffee set is a respected, valuable object, and the craftspeople who make them are recognized figures within their neighborhoods.
 
@@ -161,7 +161,7 @@ Warm, communal, meant to be experienced together rather than performed at a dist
 
 - **Sound:** The wind, constantly, as background — a near-permanent low roar during katabatic season that residents stop consciously hearing. Inside, low conversation, the specific sounds of tea and coffee preparation, warm ambient music.
 
-- **Smell:** Brewing tea and coffee everywhere, layered with the cold mineral smell of the bay and sea spray; woodsmoke or heating elements in older teahouse buildings; the specific ozone-and-ice smell that follows a katabatic event once it passes.
+- **Smell:** Brewing tea and coffee everywhere, layered with the cold mineral smell of the bay and sea spray; woodsmoke or heating elements in older buildings; the specific ozone-and-ice smell that follows a katabatic event once it passes.
 
 - **Feel:** A city defined by contrast — the physical violence of the exterior air against the deliberate, almost exaggerated softness of interior spaces. Moving through Janbogo means constantly crossing that threshold, and the crossing itself becomes a felt part of daily life.
 
@@ -179,7 +179,7 @@ Warm, communal, meant to be experienced together rather than performed at a dist
 - Marine / resource extraction: ~20% — fishing and bay-based industry, enabled by year-round polynya access
 - Industrial / manufacturing: ~15%
 - Technical / scientific: ~10%
-- Hospitality / communal services: ~15% — an unusually large sector for any Tepenian city, reflecting the centrality of teahouses and hosting institutions to the local economy, not just the culture
+- Hospitality / communal services: ~15% — an unusually large sector for any Tepenian city, reflecting the centrality of hospitality and hosting institutions to the local economy, not just the culture
 - Education: ~5%
 - Other: ~5%
 
@@ -195,7 +195,7 @@ Roughly two and a half centuries on, human-robot relations in Janbogo are unusua
 
 ## 17. Robot-Specific Culture
 
-Robot residents gravitate toward the hospitality and logistics sectors that define the city's economy — teahouse keeping, coffee service, and the supply/shipping work tied to the polynya and Hwy 183. The warmth-through-action ethos suits robot residents particularly well: care expressed through competent, attentive service rather than through emotionally demonstrative language maps naturally onto how many robots already prefer to express solidarity and affection.
+Robot residents gravitate toward the hospitality and logistics sectors that define the city's economy — tea and coffee service, and the supply/shipping work tied to the polynya and Hwy 183. The warmth-through-action ethos suits robot residents particularly well: care expressed through competent, attentive service rather than through emotionally demonstrative language maps naturally onto how many robots already prefer to express solidarity and affection.
 
 Robot philosophical life leans practical and relational rather than abstract — less drawn to Zhongshan-style contemplative simulation theory, more oriented toward philosophies of service, care, and communal responsibility. Ice-Cold Buddhism has some presence but is a minority current here; Janbogo's spiritual and philosophical center of gravity is warmer and more relational than the coldest-and-calmest traditions.
 
@@ -236,7 +236,7 @@ Practical and consensus-driven, oriented around keeping the supply lifeline to C
 
 ## 22. Relationship to Upper Earth
 
-Complicated by a layered history rather than a single clean grievance. The founding exile population carries the accumulated weight of the anti-robot sentiment that produced the Falkland Treaty exile in the first place. Later Chinese and American-descended residents carry their own, separate relationships to whatever drove their ancestors' emigration. The city's dominant public attitude is less about Upper Earth directly and more about defiant continuation — the teahouse tradition, deliberately kept alive and deliberately shared regardless of ancestry, reads as an implicit answer to exile: *you tried to erase where we came from; we made it something everyone wanted to keep.*
+Complicated by a layered history rather than a single clean grievance. The founding exile population carries the accumulated weight of the anti-robot sentiment that produced the Falkland Treaty exile in the first place. Later Chinese and American-descended residents carry their own, separate relationships to whatever drove their ancestors' emigration. The city's dominant public attitude is less about Upper Earth directly and more about defiant continuation — the tradition of tea, hospitality and togetherness, deliberately kept alive and deliberately shared regardless of ancestry, reads as an implicit answer to exile: *you tried to erase where we came from; we made it something everyone wanted to keep.*
 
 ---
 
@@ -258,7 +258,7 @@ Practically oriented — the Janbogo subnet Arcanet is used heavily for wind war
 
 ## 25. Export Culture
 
-- Hosting culture itself — Janbogo-trained or Janbogo-influenced teahouse and hospitality keepers are recognizable and respected across Tepenia, Majyao Bisyugota being the most famous example
+- Hosting culture itself — Janbogo-trained or Janbogo-influenced hosts and hospitality keepers are recognizable and respected across Tepenia, Majyao Bisyugota being the most famous example
 - Coffee and tea service traditions, exported wherever Janbogo diaspora settle
 - Supply logistics expertise, tied to generations of polynya and Hwy 183 operations
 - Fusion folk-and-jazz musical sensibilities
@@ -294,10 +294,10 @@ There's no formal ceremony, but the marker is specific and well understood: you 
 
 ## 29. Notable Local Landmarks
 
-- **The site of Majyao's original teahouse** — the establishment famous throughout Tepenia before its keeper relocated to Concordia; current state (preserved, repurposed, damaged) is a DLC 6 open question
+- **The site of the teahouse Majyao ran** — the establishment famous throughout Tepenia before its keeper relocated to Concordia; current state (preserved, repurposed, damaged) is a DLC 6 open question
 - **The Zukelli view** — the waterfront sightline north to Zukelli's ruins, ~8km distant; visible on clear days and during midnight sun; unique in Tepenia. **Established 2026-07-05:** not incidental — Zukelli was destroyed in a deliberate strike meant to guarantee the death of AWOL Upper Earth defectors it had sheltered, and to send a message to the rest of Tepenia about harboring them; Janbogo surviving close enough to see it was very likely the intended point. See `Specs/Zukelli.md`.
 - **The Hwy 183 terminus / port complex** — the operational heart of Janbogo's supply relationship with Concordia
-- **The great shielded commercial halls** *(established 2026-07-05)* — huge indoor shopping and social districts, brightly lit and constantly active, where most of daily Janbogo life actually happens; the direct architectural fulfillment of the outside-hostile/inside-warm design principle already established in Section 9, at a genuinely large civic scale rather than just individual teahouses
+- **The great shielded commercial halls** *(established 2026-07-05)* — huge indoor shopping and social districts, brightly lit and constantly active, where most of daily Janbogo life actually happens; the direct architectural fulfillment of the outside-hostile/inside-warm design principle already established in Section 9, at a genuinely large civic scale rather than just individual interiors
 - Additional named locations: TBD — DLC 6 design work
 
 ---
@@ -305,16 +305,16 @@ There's no formal ceremony, but the marker is specific and well understood: you 
 ## 30. Significant Local Events
 
 - **[Placeholder — the Jang Bogo–to–Janbogo naming drift]** — not a single event but a gradual linguistic transition, remembered as the moment the name stopped being "the Korean station's name" and became simply "the city's name"
-- **[Placeholder — the founding teahouse tradition's spread beyond Korean-descended families]** — the period in which the hosting tradition became genuinely city-wide rather than ethnically specific; likely gradual, not a single event, but culturally significant enough to be remembered as an era
+- **[Placeholder — the founding tradition of tea, hospitality and togetherness spreading beyond Korean-descended families]** — the period in which the hosting tradition became genuinely city-wide rather than ethnically specific; likely gradual, not a single event, but culturally significant enough to be remembered as an era
 - **Long Night War damage** — Janbogo was hit but not destroyed; specifics of the attack, casualties, and immediate aftermath are TBD (DLC 6)
 
 ---
 
 ## 31. Notable Figures
 
-- **Majyao Bisyugota** — Robot; kept the most nationally famous teahouse in Tepenia in Janbogo before relocating to Concordia's Aquarius district; Chinese-descended, embodying the city's central cultural inversion; her Concordia establishment carries the tradition forward in diaspora
-- **[Placeholder — founding-era Korean community figure]** — the person most associated with establishing the original teahouse tradition that the entire city's culture eventually grew from
-- **[Placeholder — first non-Korean-descended teahouse keeper of note]** — whoever first proved the tradition could be carried by someone outside its founding ethnicity; likely a culturally significant, semi-legendary figure in Janbogo's own self-understanding
+- **Majyao Bisyugota** — Robot; kept the most nationally famous teahouse in Tepenia in Janbogo before relocating to Concordia's Taurus district; Chinese-descended, embodying the city's central cultural inversion; her Concordia establishment carries the tradition forward in diaspora
+- **[Placeholder — founding-era Korean community figure]** — the person most associated with establishing the founding tradition of tea, hospitality and togetherness that the city's culture eventually grew from
+- **[Placeholder — first non-Korean-descended host of note]** — whoever first proved the tradition could be carried by someone outside its founding ethnicity; likely a culturally significant, semi-legendary figure in Janbogo's own self-understanding
 - **Meteorologist Han Soo-jin** *(placeholder, added 2026-07-17, proposed `Janbogo_Full_Extrapolation.md` §III)* — credited with formalizing Janbogo's katabatic wind-warning system.
 - **Architect Wu Lian-Marchetti** *(placeholder, added 2026-07-17, same section)* — credited with designing the great shielded commercial halls.
 - **TBN Pink Lucy (FW-25)** *(corrected 2026-07-13 — migration route resolved 2026-07-12, previously listed here as unconfirmed)* — Dumont d'Urville native who relocated to Janbogo pre-war and settled there for a time, a strong personality match with the city's own hospitality-and-synthesis civic identity; whether she subsequently fled to Concordia or remained through the war is still open
@@ -327,4 +327,4 @@ Janbogo people in Concordia are the warmest presence in the room, and usually th
 
 The Gemini district enclave is the largest, most established non-native community in Concordia, organized in part around the physical presence of the Janbogo Arcanet subnet nexus itself — an unusual arrangement that gives the diaspora a literal piece of home infrastructure inside the capital. For Gemini residents, Janbogo's ongoing damaged-but-functioning status is a specific, present-tense worry rather than settled grief: their supply lifeline back home is also everyone's supply lifeline, and its fragility is felt doubly.
 
-Majyao Bisyugota's Concordia teahouse is the diaspora's most visible cultural anchor — proof, replicated in the capital, that the tradition travels intact regardless of who's carrying it.
+Majyao Bisyugota's Concordia teahouse is one of the diaspora's most visible cultural anchors — proof, replicated in the capital, that the tradition travels intact regardless of who's carrying it.
