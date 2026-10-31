@@ -553,3 +553,62 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits."*
 Check: spec 216 lines, census 810 and `16` 3,578 unchanged in length; verifier 0 FAIL (1 NOTE); coverage check 0 gaps.
 
 **That completes the Janbogo subnet's walk-through (all 7 cities).**
+
+## Mawson (done 2026-10-31)
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits."*
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Lists mixing in other cities' and the explorer's lines | own-lines statements in the Pre-Trip's census, Extent, `16`, `09` and Register rows (own: census L328–334, L487, L612; `09` L75; `16` L271 and §33; Extent L610; Register L54) |
+| 2 | Earlier warm run's research log | 170 lines, three sessions: zero-intake (same ruling as Janbogo's earlier run); a new run appends its own session and never reads the old content |
+| 3 | Alias set | Mawson, Mawson Station, Horseshoe Harbor; places Holme Bay, Mac.Robertson Land, Prince Charles Mountains; search aids Rumdoodle and the skiways; Douglas Mawson / St. Douglas a naming fact; "Sayowa" remnants flagged for the rename sweep |
+| 4 | Spec L79 temperature | aligned to the table |
+| 5 | Precip Probability column | provenance note extended (six ~0% values not usable; design-grade); no figures re-derived |
+| 6 | De-stacking note (spec L28) | "total and its order within the tier" |
+| 7 | Pass README | Spec pointer fixed to `Specs/Mawson subnet/Mawson.md` |
+| 8 | Sheet gaps | rows added: climate file (`Phase_3`, 4 of 4), national economy (`Phase_4`, 7 of 7), timeline Locations (`Phase_5`, 6 of 6), five `Phase_7` rows (13 of 13; the medical institutes file names the city once, at L224, in a multi-city line) |
+| 9 | Kept | the sweep's judgment calls: §33 supersedes Half B's mandated/free shares, the computed-extent row, the extra `16` hits, the ten character files as coordinates only |
+| 10 | Left | monthly precipitation column vs text (recurring), §33's one-person rounding, peer lines, founders absent from the tier table, Pre-Trip §I |
+
+Check: spec still 184 lines (`wc -l`); verifier 0 FAIL (2 NOTEs); coverage check 0 gaps.
+
+## Dome Fuji (done 2026-10-31)
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."* (Official name still pending; "The Temple" interim; no name invented.)
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Seed-vault block and `15` Resolution 3 | registered as named addresses (Pre-Trip Phase 1 and Phase 7 tables, `Step_-1`); whether they are admissible is Step −1's call |
+| 2 | Alias set and pending name | Dome Fuji, Dome Fuji Station, Dome F; the station ID a search aid; East Antarctic Plateau and Valkyrie Dome places; Pre-Trip row OFFICIAL NAME PENDING |
+| 3 | Per-nation counts | 43 counts refreshed to Census I 66,849 (shares unchanged, sum exact) |
+| 4 | Temperature | spec L8 and `15` L174 ~−53 °C; L138 −52.7 °C, rank clause dropped |
+| 5 | Human-resident wording | L171 reworded; L177, L180, L230 carry a dated revisit note; design questions stay the developer's |
+| 6 | Sheet gaps | rows added: climate file (`Phase_3`, 4 of 4), national economy (`Phase_4`, 7 of 7), timeline Locations (`Phase_5`, 6 of 6), five `Phase_7` rows (13 of 13; the medical institutes file names the city once, at L231, in a plateau-cities line) |
+| 7 | Flag only | `16` §32 L3234 (55,072) and L3258 ("Sayowa Junction"), RelDB L204 and L512, timeline `Locations/README.md` L19 ("Sayowa") |
+| 8 | Left | peer lines, the "aircraft" hit, Half B's "Half A estimate" tag, Pre-Trip §I, the `Phase_3` four-address convention |
+
+Check: spec still 269 lines, `15` 528 lines; verifier 0 FAIL (2 NOTEs); coverage check 0 gaps.
+
+## Temirötkel (done 2026-10-31) — completes the Mawson subnet
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."* (Formerly Sayowa; renamed 2026-10-03; the single rename sweep still waits for the other names.)
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Alias set | Temirötkel, Sayowa (former), Syowa / Showa Station, East Ongul Island; search aids and places as listed in the ledger |
+| 2 | Hits in no phase list | recorded in the Pre-Trip §A (Station_to_City_Map = not an input) |
+| 3 | Freighter-route conflict | care-note in `Phase_5`, recorded not resolved |
+| 4 | "Population cap is KEPT" | dated superseded note at spec L136 and `16` L3161 |
+| 5 | East Ongul's size | dated note (about 1.5 km²) at spec L113, L119 and `16` L3157 |
+| 6 | Junction wording | one three-way Temirötkel Junction (spec L235, L247; Station_to_City_Map L70, L155) |
+| 7 | "Japan founded this city" in `16` | dated superseded note at `16` L3182 (Register: Kazakhstan founded; "Not founders: Japanese") |
+| 8 | Spec L163 temperature | aligned to the table |
+| 9 | De-stacking note (spec L68) | "total and its order within the tier" |
+| 10 | Sheet gaps | rows added: climate file (`Phase_3`, 4 of 4; keyed `Sayowa.md`), national economy (`Phase_4`, 7 of 7), timeline Locations (`Phase_5`, 6 of 6), five `Phase_7` rows (13 of 13, all zero hits) |
+| 11 | Flag only | composition file's older Temirötkel rows with "(island cap)" and old totals (L841, L886, L1002, L1137, L1250 …); timeline `Locations/README.md` L19 ("Sayowa") |
+| 12 | Left | monthly precipitation column vs text, peer lines, the spec's revisit items, Pre-Trip §I |
+
+Check: spec still 270 lines, `16` 3,578 and Station_to_City_Map 157 unchanged in length; verifier 0 FAIL (1 NOTE); coverage check 0 gaps.
+
+**That completes the Mawson subnet's walk-through (3 of 3).**

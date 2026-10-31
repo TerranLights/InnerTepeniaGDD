@@ -31,6 +31,10 @@ Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthroug
 Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Denison item 1); memory `project_inspiration_place_research_all_cities`.
 - [ ] Developer, Denison walk-through: "there's a moderately decent chance that we may need to go through the cities and do full, more thorough researches for inspiration picks, similarly to the way we did for Relung Panen, Amundsen Station, and so on." A possibility, not a ruling. Decide at the end of the walk-through, once it shows how many cities' picks files are partial (Denison's first research file stopped at the search limit)
 
+## Composition file: older Temirötkel rows *(added 2026-10-31)*
+Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Temirötkel item 11).
+- [ ] `Upper_Earth_Immigration_Composition.md` still carries older Temirötkel rows with "(island cap)" and pre-ruling totals (L841, L886, L1002 (123,656 / 256,100), L1137, L1250 (85,199 / 164,957), and others); L1002's combined 256,100 differs from the census's 225,376. Address in the composition-file rework
+
 ## City specs: sentences that compare a city to other cities *(added 2026-10-30)*
 Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Relung Panen item 6; Mirny item 6).
 - [ ] Decide what to do with the comparison sentences inside the city specs (e.g. Mirny spec L82 "20 of the 37 cities are colder", which also has the wrong city count; Relung Panen spec L14, L31, L93). They stay for now; address them when the comparison stage begins

@@ -65,7 +65,7 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and its order within the tier. See `TODO.md` for the full method.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -110,13 +110,13 @@
 >
 > | Feature | Measurement |
 > |---|--:|
-> | **East Ongul Island** | **~2 km long** (~4–5 km²) |
+> | **East Ongul Island** | **~2 km long** (~4–5 km²) *(2026-09-05 extent file: ~1.5 km²; the earlier figure may include West Ongul)* |
 > | **Ongul Strait** *(island ↔ mainland)* | **~4 km** |
 > | **Langhovde** *(ice-free, Sôya Coast)* | **50 km²**, ~30 km south |
 > | **Skarvsnes** *(ice-free)* | **the largest ice-free area in the Lützow-Holm Bay region** |
 >
 > 1. **Density.** 225,376 people on ~4–5 km² is **~50,000/km²** — the implausibility class that forced the
->    Cape Adare core/outer correction.
+>    Cape Adare core/outer correction. *(2026-09-05 extent file: ~1.5 km², ~150,251/km² on the island alone.)*
 > 2. **⭐ Highway geography.** **Hwy 4, Hwy 7-ext and Hwy 37 converge at the Temirötkel Junction. Highways are
 >    land routes; they cannot converge on a 2 km island.** A mainland city makes the junction — already
 >    canon as sitting *near* the city, linked by the Temirötkel Spur — natural rather than awkward.
@@ -133,7 +133,7 @@
 >
 > **⚠ THE POPULATION CAP IS KEPT** *(developer ruling, same date)*. **Temirötkel is not a large city that happens
 > to have a port — it is a small population running an enormous industrial port.** The cap is now a *choice
-> about what the city is*, not a consequence of island area.
+> about what the city is*, not a consequence of island area. *(Superseded 2026-09-05: the extent ruling removed the "island cap" label; population unchanged at 225,376 / 164,957.)*
 >
 > ### ⭐⭐⭐ WHAT TEMIRÖTKEL MAKES — the open question, answered
 >
@@ -160,7 +160,7 @@ The former name "Sayowa" came from the real station's name Syowa (昭和, Shōwa
 **Mean annual temperature:** -10.5°C  _(READER station: Syowa; 1991–2020 WMO standard normal)_
 **Prevailing winds:** **maximum instantaneous wind 61.2 m/s (220 km/h)**, recorded 27 May 1996 *(researched 2026-09-04)*
 **Record extremes:** record high **+10.0 °C** (January); record low **−45.3 °C** (September) *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −22°C; warmest month avg −1°C
+**Temperature range:** coldest months (August/September) mean about −19°C (night low about −22 to −23°C); warmest month (January) mean about −1°C
 **Polar night:** approximately Jun 1 → Jul 13 (~43 days)
 **Midnight sun:** approximately Nov 23 → Jan 20 (~59 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -232,7 +232,7 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ## Notable Locations
 - **Lützow-Holm Bay harbor** — the primary maritime entry; sea ice conditions define the seasonal access window
 - **East Ongul Island terrain** — the island geography and the bay it sits in
-- **The Hwy 4 / Hwy 7-ext junction** — the critical infrastructure node itself, damaged but functioning, connecting the Mawson subnet to the Halley subnet (via Utstein and Lazar); a short distance away, Hwy 7-ext also junctions with Hwy 37 (**corrected 2026-07-06** — Hwy 37 runs to Concordia via Dome Fuji, Kunlun, and Ariun Nuur, in that order from Temirötkel's side, not directly terminating at Temirötkel itself)
+- **The Temirötkel Junction** — the critical infrastructure node itself, where Hwy 4, Hwy 7-ext and Hwy 37 meet in one three-way crossing, damaged but functioning, connecting the Mawson subnet to the Halley subnet (via Utstein and Lazar) (**corrected 2026-07-06** — Hwy 37 runs to Concordia via Dome Fuji, Kunlun, and Ariun Nuur, in that order from Temirötkel's side, not directly terminating at Temirötkel itself)
 - Additional locations: TBD for DLC 4
 
 ---
@@ -244,7 +244,7 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ---
 
 ## Connection to Concordia
-Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (36.27% Japan-Primary), not Temirötkel's (Japan diluted to 2.71%). Any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Temirötkel's proximity to Hwy 37's junction (just off Hwy 7-ext) gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Ariun Nuur — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
+Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (36.27% Japan-Primary), not Temirötkel's (Japan diluted to 2.71%). Any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Temirötkel's proximity to the Temirötkel Junction, where Hwy 37 begins its run toward Concordia, gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Ariun Nuur — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
 
 ---
 

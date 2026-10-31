@@ -67,7 +67,7 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 
 | Real Station | Country | Tepenian City Name | Status | Notes |
 |---|---|---|---|---|
-| Syowa Station | Japan | Temirötkel | Damaged; partially operational | Major highway junction (Hwy 37 × Hwy 7-ext); critical infrastructure node; DLC 4 |
+| Syowa Station | Japan | Temirötkel | Damaged; partially operational | Major highway junction (Temirötkel Junction: Hwy 4 × Hwy 7-ext × Hwy 37); critical infrastructure node; DLC 4 |
 | Progress Station | Russia | Sinheung | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed" — effectively co-located with Zhongshan, a few hundred meters apart in reality; differing outcomes made no physical sense)* | Russian station, East Antarctic coast |
 | Mawson's Huts / Mawson Station | Australia | Mawson | Damaged; partially operational | Confirmed Arcanet subnet hub; DLC 4 anchor |
 | Bharati Station | India (infrastructure only) / Japan (founding population) | **Shirayuki** | Damaged; partially operational *(corrected 2026-07-03 from "Destroyed")* | Founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08 |
@@ -152,6 +152,6 @@ Every Antarctic research station became a Tepenian city or settlement as the exi
 - **Lazar** *(formerly "Maitri" placeholder, finalized 2026-07-03)* — founded as two coalesced settlements (Russian-run Novolazarevskaya, non-Indian-repopulated Maitri site); marks the eastern terminus of Hwy 7 proper and the origin point of the Belgrano Highway Extension (built 2611–2614). See `Specs/Lazar.md`.
 - **Shirayuki (Bharati Station location)** — founding population and story resolved 2026-07-03: Japanese, via a pre-exile Jeju-do court allocation; named Shirayuki (白雪) 2026-07-08. Damaged but partially operational (corrected 2026-07-03 from "Destroyed").
 - **Zhongshan** — named after Sun Yat-sen; name retained under the Sinian Federation.
-- **Temirötkel** — major highway junction (Hwy 37 × Hwy 7-ext); significant pre-war transfer point between the Atlantic coast highway system and the inland route to Concordia.
+- **Temirötkel** — major highway junction (Temirötkel Junction: Hwy 4 × Hwy 7-ext × Hwy 37); significant pre-war transfer point between the Atlantic coast highway system and the inland route to Concordia.
 - **Signy** — northernmost Tepenian outpost; South Orkney Islands; maritime access only; peripheral Arcanet connectivity. Confirmed overlooked entirely by Upper Earth targeting due to its marginal status — the one Palmer subnet city that survived the Long Night War fully untouched, though its robot population now faces a real siligel shortage from cut supply lines.
 - **DLC coverage by subnet:** *(corrected 2026-07-04 — this line previously said "Mirny subnet covered by main game (Concordia)" and omitted DLC 7 entirely. Concordia is a Janbogo subnet city, not Mirny subnet; the main game covers Concordia itself, with the broader Janbogo subnet as DLC 6 and the separate Mirny subnet as its own DLC 7, same pattern as every other subnet.)* DLC 1 = South Pole (inter-subnet relay); DLC 2 = Byrd ("Pacific"); DLC 3 = Palmer ("American"); DLC 4 = Mawson; DLC 5 = Halley ("Atlantic"); DLC 6 = broader Janbogo subnet (Concordia itself covered by main game); DLC 7 = Mirny subnet.

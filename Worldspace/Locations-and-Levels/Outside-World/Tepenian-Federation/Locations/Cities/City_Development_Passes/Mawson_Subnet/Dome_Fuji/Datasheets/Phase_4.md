@@ -5,7 +5,7 @@
 > ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > ⚠ **Ambiguous name:** the developer's interim colloquial name `The Temple` is NOT searched (it is an ordinary phrase); the official name is pending. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), recounted by hand 2026-10-30:** **6 of 7** addresses are named in this sheet (4 directly, 2 through a shared Tier U sheet it cites). **Not named by any row:** `Worldspace/National_Economy_and_Currency.md`.
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 4), recounted by hand 2026-10-30:** **7 of 7** addresses are named in this sheet (5 directly, 2 through a shared Tier U sheet it cites). `Worldspace/National_Economy_and_Currency.md` got a row on 2026-10-31.
 
 
 
@@ -19,5 +19,6 @@
 | Robot Physiology — appearance/clothing baseline (Tier U) | Human-looking, *Ex Machina*-style; clothing ordinary, functional and fashionable; exposure is a preparation problem, never a species-level gate | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"The ordinary condition" |
 | Robot Cold Physiology — the governing mechanic (Tier U) | Recharging is the primary cost (lithium plating below freezing, permanent); the cannot-self-recover threshold; a robot is safer moving than resting | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"What cold actually costs" |
 | Siligel / coolant / smoking, leisure, human-robot baseline (Tier U) | Full content available; not re-derived per city | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/National_Economy_and_Currency.md` | Checked 2026-10-31 (`grep -n -i`: Dome Fuji · Dome F · Valkyrie · AYM00089734; "The Temple" is not searched), **zero hits**; see `Phase_7.md` | Verified 2026-10-31 |
 
 **Not mechanical / not included here:** headline-function-then-write-away-from-it, the four ordinary-life elements, population-specific days, what the rhythm fails to provide — none of this exists until Dome Fuji's own pass runs.

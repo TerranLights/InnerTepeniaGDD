@@ -3154,11 +3154,11 @@ than its peers:**
 225,376 people on that island is **~50,000/km²**, the implausibility class that forced the Cape Adare
 correction. **Three highways — Hwy 4, Hwy 7-ext, Hwy 37 — converge at the Sayowa Junction, and highways
 cannot converge on a 2 km island.** The mainland shore carries **Langhovde (50 km²)** and **Skarvsnes (the
-largest ice-free area in the Lützow-Holm Bay region)**.
+largest ice-free area in the Lützow-Holm Bay region)**. *(2026-09-05 extent file: East Ongul is about 1.5 km², ~150,251/km² on the island alone; the earlier ~4–5 km² figure may include West Ongul.)*
 
 **⚠ The population cap is KEPT.** ***Sayowa is not a large city with a port — it is a small population running
 an enormous industrial port.*** **The cap is now a statement about what the city is, not a consequence of
-island area.**
+island area.** *(Superseded 2026-09-05: the extent ruling removed the "island cap" label; population unchanged at 225,376 / 164,957.)*
 
 *(Full record, with the four supporting arguments and the crossing analysis, in `Specs/Sayowa.md`'s Geographic
 Basis.)*
@@ -3179,7 +3179,7 @@ Basis.)*
 - **⚠ Founding-nation dilution:** **Japan founded this city and is down to 2.71%**, while **China is Primary
   at 17.39%.** Canon reads Shirayuki's Japan-Primary status *(36.27%)* as *"plausibly a deliberate diplomatic
   hedge by Japan anticipating Sayowa's dilution"* — **a founding nation that saw it coming and planted a
-  second city.**
+  second city.** *(Superseded 2026-10-28: the Founding Register rules Kazakhstan the founder and "Not founders: Japanese"; this bullet's premise is withdrawn.)*
 
 ---
 

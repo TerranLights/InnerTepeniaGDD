@@ -5,7 +5,7 @@
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 > ⚠ **Ambiguous name:** the developer's interim colloquial name `The Temple` is NOT searched (it is an ordinary phrase); the official name is pending. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **5 of 6** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites). **Not named by any row:** the universe repo's `Worldspace/Locations/` (**U** Location canon + routes; it is enumerated in `Step_1_and_2.md`).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites); the timeline repo's location canon and routes got a row on 2026-10-31.
 
 
 
@@ -37,5 +37,6 @@
 | ↳ entry line | - **Notes:** Japanese inland station; altitude too extreme for population growth; in Mawson subnet — connected via Arcanet cable, not road, but a real physical highway link exists via Hwy 37 (between the Temirötkel Junction and Kunlun); an interior plateau highway crossing this distance doesn't make overland resupply practical, so the established aviation lifeline remains the real explanation for how Dome Fuji stayed supplied | `City_Relationship_Database.md` L204 |
 | `City_Cross_Subnet_Relationships.md` — lines naming the city | 9 line(s): L47, L75, L78, L97, L113–114, L118, L120, L121 *(line numbers only)* | `City_Cross_Subnet_Relationships.md` L47, L75, L78, L97, L113–114, L118, L120, L121 |
 | `City_National_Connections.md` — lines naming the city | 23 line(s): L95, L99–100, L137, L312, L318–319, L342, L369, L371, L492–493, L503–504, L506, L508, L511–512, L516, L518, L523, L530, L598 *(line numbers only)* | `City_National_Connections.md` L95, L99–100, L137, L312, L318–319, L342, L369, L371, L492–493, L503–504, L506, L508, L511–512, L516, L518, L523, L530, L598 |
+| **U** Location canon + routes | The timeline repo's `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/` folder — **10** files (4 notes, 6 map images; `Earth/Antarctica/` empty); the only Dome Fuji mention is inside a subnet roster line (relation only) | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Worldspace/Locations/README.md` L19 — enumerated 2026-10-31 |
 
 **Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis — none of this exists until Dome Fuji's own pass runs.

@@ -171,7 +171,7 @@ shipping · marine science · **strategic mineral city with a decision to make.*
 | Site | Annual mean |
 |---|--:|
 | **Kunlun** *(Dome A, ~4,090 m)* | coldest in the roster |
-| **Dome Fuji** *(~3,810 m)* | ~−54 °C |
+| **Dome Fuji** *(~3,810 m)* | ~−53 °C |
 | Ariun Nuur | ~−55 °C |
 | Concordia *(Dome C)* | **−52.7 °C** *(canon)* |
 

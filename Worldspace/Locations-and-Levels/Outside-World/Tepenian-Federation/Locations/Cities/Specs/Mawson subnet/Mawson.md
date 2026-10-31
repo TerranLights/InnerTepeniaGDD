@@ -25,7 +25,7 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and its order within the tier. See `TODO.md` for the full method.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -76,7 +76,7 @@ St. Douglas (Mawson) is the patron Saint of this city and subnet. His connection
 **Mean annual temperature:** -11.2°C  _(READER station: Mawson; 1991–2020 WMO standard normal)_
 **Prevailing winds:** fierce katabatic winds off the plateau — the real station is the only one in Antarctica to run **wind generators**, siting its power supply on the wind rather than merely enduring it *(researched 2026-09-04)*
 **Record extremes:** record high **+10.6 °C** (January); record low **−36.0 °C** (July) *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −20°C; warmest month avg −1°C
+**Temperature range:** coldest months (July/August) mean about −18°C (night low about −21°C); warmest month (January) mean about −0.3°C
 **Polar night:** approximately Jun 14 → Jun 30 (~17 days — relatively brief for this latitude; the Mac.Robertson Land coastal position moderates)
 **Midnight sun:** approximately Dec 1 → Jan 13 (~44 days)
 **Winter solstice daylight minimum:** N/A — polar night in effect; 0 hours
@@ -113,7 +113,7 @@ St. Douglas (Mawson) is the patron Saint of this city and subnet. His connection
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089564** (MAWSON), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (Australian Bureau of Meteorology station 300001, 72-year record 1954–2026; researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — BoM mean daily maximum and minimum, taken from the operating met service directly rather than a secondary summary. **Avg Precip · Precip Probability:* ⚠ derived — BoM's rainfall statistics sit on a separate page not yet retrieved. **Avg Daylight:* computed from this city's own latitude. *(BoM also records mean daily sunshine of 0.0 hours in June, independently confirming the computed polar night.)**
+***Column provenance (Australian Bureau of Meteorology station 300001, 72-year record 1954–2026; researched 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — BoM mean daily maximum and minimum, taken from the operating met service directly rather than a secondary summary. **Avg Precip · Precip Probability:* ⚠ derived — BoM's rainfall statistics sit on a separate page not yet retrieved. **Avg Daylight:* computed from this city's own latitude. *(BoM also records mean daily sunshine of 0.0 hours in June, independently confirming the computed polar night.)** ⚠ *(Added 2026-10-31: the Precip Probability column shows ~0% in February, March, May, June, September and October beside 15–28 mm of precipitation in each of those months; those values are not usable. Avg Precip and Precip Probability are design-grade estimates, not data, and no figures were re-derived.)*
 
 
 

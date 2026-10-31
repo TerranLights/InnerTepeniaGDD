@@ -5,7 +5,7 @@
 > **Dome Fuji holds one of Tepenia's two deep seed archives** *(the other is Kunlun; the warm working
 > collection is at Esperanza — see `Division_of_Industry/15` Resolution 3)*.
 >
-> **The site reason is passive and obvious:** **~−54 °C annual mean means keeping seeds cold costs nothing,
+> **The site reason is passive and obvious:** **~−53 °C annual mean means keeping seeds cold costs nothing,
 > indefinitely, with no refrigeration.**
 >
 > ### **But the CITY's reason is not logistical.**
@@ -57,49 +57,49 @@
 
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|
-| Primary | USA | 11.20% | 6,169 |
-| Primary | China | 10.13% | 5,579 |
-| Significant | Indonesia | 5.51% | 3,037 |
-| Significant | Australia | 5.16% | 2,839 |
-| Significant | France | 5.00% | 2,755 |
-| Significant | Germany | 4.83% | 2,658 |
-| Significant | South Korea | 4.78% | 2,631 |
-| Significant | Brazil | 3.17% | 1,748 |
-| Significant | Japan | 2.84% | 1,567 |
-| Significant | UK | 2.49% | 1,369 |
-| Significant | Russia | 2.22% | 1,223 |
-| Notable | Malaysia | 1.91% | 1,052 |
-| Notable | Netherlands | 1.90% | 1,046 |
-| Notable | Spain | 1.89% | 1,043 |
-| Notable | Mexico | 1.89% | 1,038 |
-| Notable | Slovenia | 1.87% | 1,030 |
-| Notable | Belarus | 1.83% | 1,008 |
-| Notable | Croatia | 1.82% | 1,005 |
-| Notable | Romania | 1.82% | 1,005 |
-| Notable | Hungary | 1.81% | 999 |
-| Notable | Czech Republic | 1.74% | 961 |
-| Notable | Latvia | 1.73% | 952 |
-| Notable | Canada | 1.73% | 950 |
-| Notable | Serbia | 1.72% | 948 |
-| Notable | Philippines | 1.71% | 941 |
-| Notable | Estonia | 1.69% | 930 |
-| Notable | Norway | 1.67% | 922 |
-| Notable | Chile | 0.99% | 546 |
-| Notable | Finland | 0.98% | 538 |
-| Notable | Slovakia | 0.96% | 527 |
-| Notable | Bulgaria | 0.95% | 521 |
-| Notable | Sweden | 0.94% | 519 |
-| Notable | Vietnam | 0.94% | 516 |
-| Notable | Ukraine | 0.92% | 508 |
-| Notable | New Zealand | 0.85% | 469 |
-| Notable | Thailand | 0.84% | 464 |
-| Notable | Belgium | 0.84% | 464 |
-| Notable | Argentina | 0.84% | 461 |
-| Notable | South Africa | 0.80% | 438 |
-| Notable | Italy | 0.78% | 430 |
-| Notable | Uruguay | 0.77% | 426 |
-| Notable | Poland | 0.77% | 422 |
-| Notable | Lithuania | 0.76% | 416 |
+| Primary | USA | 11.20% | 7,487 |
+| Primary | China | 10.13% | 6,772 |
+| Significant | Indonesia | 5.51% | 3,683 |
+| Significant | Australia | 5.16% | 3,450 |
+| Significant | France | 5.00% | 3,343 |
+| Significant | Germany | 4.83% | 3,229 |
+| Significant | South Korea | 4.78% | 3,196 |
+| Significant | Brazil | 3.17% | 2,119 |
+| Significant | Japan | 2.84% | 1,899 |
+| Significant | UK | 2.49% | 1,665 |
+| Significant | Russia | 2.22% | 1,484 |
+| Notable | Malaysia | 1.91% | 1,277 |
+| Notable | Netherlands | 1.90% | 1,270 |
+| Notable | Spain | 1.89% | 1,264 |
+| Notable | Mexico | 1.89% | 1,264 |
+| Notable | Slovenia | 1.87% | 1,250 |
+| Notable | Belarus | 1.83% | 1,223 |
+| Notable | Croatia | 1.82% | 1,217 |
+| Notable | Romania | 1.82% | 1,217 |
+| Notable | Hungary | 1.81% | 1,210 |
+| Notable | Czech Republic | 1.74% | 1,163 |
+| Notable | Latvia | 1.73% | 1,157 |
+| Notable | Canada | 1.73% | 1,157 |
+| Notable | Serbia | 1.72% | 1,150 |
+| Notable | Philippines | 1.71% | 1,143 |
+| Notable | Estonia | 1.69% | 1,130 |
+| Notable | Norway | 1.67% | 1,116 |
+| Notable | Chile | 0.99% | 662 |
+| Notable | Finland | 0.98% | 655 |
+| Notable | Slovakia | 0.96% | 642 |
+| Notable | Bulgaria | 0.95% | 635 |
+| Notable | Sweden | 0.94% | 628 |
+| Notable | Vietnam | 0.94% | 628 |
+| Notable | Ukraine | 0.92% | 615 |
+| Notable | New Zealand | 0.85% | 568 |
+| Notable | Thailand | 0.84% | 562 |
+| Notable | Belgium | 0.84% | 562 |
+| Notable | Argentina | 0.84% | 562 |
+| Notable | South Africa | 0.80% | 535 |
+| Notable | Italy | 0.78% | 522 |
+| Notable | Uruguay | 0.77% | 515 |
+| Notable | Poland | 0.77% | 515 |
+| Notable | Lithuania | 0.76% | 508 |
 
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method described above. Percentages are of this city's own robot population, not Tepenia-wide.*
 
@@ -135,7 +135,7 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 **Lost to sublimation and wind transport:** ~3 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-54.0 °C** it is the **#3 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-52.7 °C** it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately Apr 27 → Aug 17 (~113 days — shorter than Ariun Nuur and Concordia due to slightly lower latitude)
@@ -168,16 +168,16 @@ The location is in the sector between the Weddell Sea (Halley subnet) and the In
 
 #### Notable Weather Phenomena
 
-- **Physiological altitude effects:** the defining feature of Dome Fuji as a human environment is not cold (which it shares with other plateau cities) but altitude; at effective physiological altitude of ~4,500m, chronic mountain sickness, impaired cognition, and reduced endurance are ongoing concerns for any human residents
+- **Physiological altitude effects:** altitude, not cold (which it shares with other plateau cities), is what rules out human habitation at Dome Fuji and makes it robot-only; at effective physiological altitude of ~4,500m, chronic mountain sickness, impaired cognition, and reduced endurance would be ongoing concerns for any human
 - **Polar plateau calm:** like Concordia and Ariun Nuur, Dome Fuji's dome location means wind is not the primary hazard; the cold is the defining environmental challenge
 - **Diamond dust and optical phenomena:** same as other plateau locations; ice crystal optics are a constant visual feature
 
 #### Gameplay Notes
 
-- **Altitude as a status effect:** unlike the main game (Concordia at 3,233m, acclimatizable) and Ariun Nuur (same altitude category), Dome Fuji's effective ~4,500m altitude would impose a persistent altitude sickness debuff on any human characters; robot characters would not be affected respiratorily but may have system stress from thin-air cooling conditions
+- **Altitude as a status effect:** unlike the main game (Concordia at 3,233m, acclimatizable) and Ariun Nuur (same altitude category), Dome Fuji's effective ~4,500m altitude would impose a persistent altitude sickness debuff on any human characters; robot characters would not be affected respiratorily but may have system stress from thin-air cooling conditions *(Revisit, 2026-10-31: the city is robot-only and human presence is forbidden; this item predates that ruling.)*
 - **Reduced-capacity surviving city:** Dome Fuji is alive but not at full function; this creates a specific kind of location — not ruins, not thriving, but something in between; a city where some things still work and others don't
 - **Hardcore Mode influences:**
-  - Altitude sickness as a persistent condition requiring management — acclimatization time, medication, or acceptance of impaired stats
+  - Altitude sickness as a persistent condition requiring management — acclimatization time, medication, or acceptance of impaired stats *(Revisit, 2026-10-31: the city is robot-only and human presence is forbidden; this item predates that ruling.)*
   - Severe supply isolation, comparable to Ariun Nuur — **note 2026-07-06:** Hwy 37 does technically run through Dome Fuji now (see Highway access, above), but an interior plateau highway crossing this distance doesn't make overland resupply practical; the established aviation lifeline (see Founding, below) remains the real explanation for how Dome Fuji stayed supplied
 
 ---
@@ -227,7 +227,7 @@ Ice core science — Dome Fuji is one of the best locations on Earth for deep ic
 ## Notable Locations
 
 - **The ice core archive** — the physical ice cores drilled at Dome Fuji, preserving climate records spanning hundreds of thousands of years; whether this archive survived the Long Night War and remains accessible is TBD
-- **The altitude medical center** — the infrastructure developed to manage altitude effects for the human population; one of the most specialized medical facilities in the Mawson subnet *(corrected 2026-07-04 — was "Halley subnet," the same leftover subnet-correction gap found elsewhere in this file)*
+- **The altitude medical center** — the infrastructure developed to manage altitude effects for the human population; one of the most specialized medical facilities in the Mawson subnet *(corrected 2026-07-04 — was "Halley subnet," the same leftover subnet-correction gap found elsewhere in this file)* *(Revisit, 2026-10-31: the city is robot-only and human presence is forbidden; this item predates that ruling.)*
 - Additional locations: TBD
 
 ---
