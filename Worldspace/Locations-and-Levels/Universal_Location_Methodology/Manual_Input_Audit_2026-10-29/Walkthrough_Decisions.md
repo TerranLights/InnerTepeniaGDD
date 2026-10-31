@@ -829,3 +829,31 @@ Developer: *"For Item #1, those records from Ohio State's reconstructed Byrd tem
 Noted, no action: the other peer lines; the Register says Byrd was founded by a joint team of first-wave Tepenians (no founding-wave tags to question).
 
 Check: spec 329 lines, census 810, `16` 3578 unchanged by `wc -l`; verifier 0 FAIL (2 NOTES, both on rows not edited: later-era words in `Step_3.md` L17 and `Step_7.md` L13; an inference marker in `Step_1_and_2.md` L41, read); coverage check 0 gaps.
+
+## Amundsen Station (done 2026-10-31) — the last city of the walk-through (38 of 38)
+
+Developer: *"Other than that, everything else looks right. Go ahead and make all the necessary edits as you've suggested."* Two messages during the walk-through changed the plan: the decision to turn Amundsen Station into a proper town (research from 2026-11-01), and the correction that the population does not change ("It would still be a very small population. It's simply that it's not exclusively computer scientists and computer server managers."). A third corrected the Ice-Cold Buddhism note.
+
+| # | Item | Done |
+|---|---|---|
+| 1 | The town decision | recorded in the Weekly To-Do and memory; the "skeleton crew" lines (L15, L150, L158) not edited; the six research files of 2026-10-29 recorded as not inputs until tomorrow |
+| 2 | Highways (spec L7, L227; `City_Relationship_Database.md` L83) | one highway (Hwy 22) reaches the station; Hwy 175 and Hwy 59 end at ramps with Hwy 22 |
+| 3 | Precipitation (L94, L95, L98) | falls ≈ lands, ~70–80 mm/yr, retention ~100% |
+| 4 | L98 parenthetical | removed |
+| 5 | Twilight (L131, L139) | about seven weeks at each end; astronomical darkness about May 13 to Aug 1 |
+| 6 | Ice thickness (L50) | 2,700–2,850 m (sources differ) |
+| 7 | L84, L5 | the nonexistent "Session 6" pointer dropped; sort-label clause added |
+| 8 | Non-city census rows (L520, L638, L639) | labeled rows in `Step_0` and `Phase_2`; Pre-Trip census list extended |
+| 9 | `16` §35 | quoted in `Phase_7`, flagged expected to change; `16` not edited |
+| 10 | Alias set | confirmed as listed in AS-006 |
+| 11 | READMEs | outer and inner research-log rows extended; outer opener fixed |
+| 12 | Timeline-repo lines | flagged in the Pre-Trip and `Phase_5` |
+| 13 | Ice-Cold Buddhism | **developer ruling:** a modest number live and work at the station; it is not a center of the religion; ruling row in `Phase_6.md`; the research files' "centered at the South Pole" phrasing flagged (Weekly To-Do) |
+| 14 | Sheets built without coverage lines | the standard coverage line added to all 11 sheets (honest counts); the Division-of-Industry gate added to `Step_1_and_2`; `Worldspace/Locations/` rows (Step 1-and-2, Phase 5); `Phase_4` national economy; seven `Phase_7` rows; the `Phase_7` meta row updated |
+| 15 | Left | peer lines; the "former relay" wording in L8; the daylight-column convention |
+
+Check: spec 230 lines and `City_Relationship_Database.md` 543 unchanged by `wc -l`; verifier **0 FAIL (was 3)**, 2 NOTES on older lines (`Step_3.md` L15 and `Step_7.md` L13 later-era words; inference markers in `Step_1_and_2.md` L38–L39 and `Step_3.md` L11, read); coverage check 0 gaps and 11 of 11 sheets carry the count.
+
+## Walk-through status: all 38 cities walked (2026-10-30 to 2026-10-31)
+
+Remaining from the walk-through: the end-of-walk-through "recurring patterns" decisions (monthly precipitation column vs annual text; spec comparison sentences; "column" vs "row" harmonization of method files), the open "(founding wave)" question, and the Pergamino/Esperanza/Byrd/Amundsen follow-ups filed in the Weekly To-Do.

@@ -37,7 +37,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 | **Spec** | `../../../Specs/Amundsen-Scott subnet/Amundsen_Station.md` |
 | **Local culture** | `../../../Local_Cultures/Amundsen_Station/Amundsen_Station.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Amundsen_Station.md` |
-| **Research log** | `../../../Research_Logs/Amundsen_Station_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
+| **Research log** | `../../../Research_Logs/Amundsen_Station_Research_Log.md` ⚠ *may not exist yet — Step F creates it*; six research files of 2026-10-29 exist in the same folder (`Amundsen_Station_Canon_Inventory`, `…_Real_World_Research`, `…_Surface_and_Subsurface_Town_Precedents`, `Amundsen_Town_Precedents_BRIEF`, `…_Developer_Framing`, `Evening_Wave_Briefs_Amundsen_and_Ethnic_Origin`); not inputs until the town research of 2026-11-01 |
 | **Picks to mine** | `../../../Inspirational-Influences.md` |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 

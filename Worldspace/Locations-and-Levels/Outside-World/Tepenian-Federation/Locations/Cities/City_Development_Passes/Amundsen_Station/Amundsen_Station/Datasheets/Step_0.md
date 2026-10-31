@@ -2,12 +2,15 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** Merged per the Field Guide's consolidation of Step 0 / Phase 0 (identical underlying facts). **Feeds `00_Frame.md` when Amundsen Station's own Step 0 runs.** It carries only what a source already states directly. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), recounted by hand 2026-10-31:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
+
 
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 1,121 H / 5,736 R / **6,857** combined (status cell: ~84% robot; revised 2026-07-04) | `Official_Population_Census.md` L519 |
 | Census II | 913 H / 3,978 R / **4,891** combined (status cell: ~81% robot; skeleton crew) | `Official_Population_Census.md` L637 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 71.33% · human 81.45% · robot 69.35% | Computed from the two rows above: 4,891÷6,857 · 913÷1,121 · 3,978÷5,736 |
+| Non-city rows labeled "Amundsen Station's share of the Santa Luce redistribution" | Census I `Official_Population_Census.md` L520: **Maritime fleet** *(non-city)* 11,205 H / 11,777 R / **22,982**; Census II L638: **Space workforce** *(non-city)* 4,054 H / 3,869 R / **7,923**; Census II L639: **Maritime fleet** *(non-city)* 4,053 H / 3,869 R / **7,922** — "Amundsen Station's share of the Santa Luce redistribution", 2026-10-28; arithmetic, not a migration. **These are not the station's own rows**: the retention and robot share in this sheet use the station's own rows only. The rows cite one ruling number while the log records Option A under another | `Official_Population_Census.md` L520, L638, L639 |
 | Extent — required area at the band (table row; **2026-09-05 snapshot**, the census is live — note L631) | City: Amundsen Station · Subnet: Amundsen · Census I (snapshot): 6,857 · @10k: 1 km² · @7k: 1 km² · Site: South Pole | `Extent_and_Density_Per_City.md` L629 (header L603; snapshot note L631) |
 | Extent — other line naming the city | *[source line compares the city with other places; not copied, line number recorded only]* | `Extent_and_Density_Per_City.md` L136 |
 | Extent — the spec's own figure | None: a search of the spec for `km`, `kilomet`, `square`, `extent`, `footprint`, `hectare`, `acre`, `area` returned **zero hits** | Searched 2026-10-30: `Specs/Amundsen_Station.md` |

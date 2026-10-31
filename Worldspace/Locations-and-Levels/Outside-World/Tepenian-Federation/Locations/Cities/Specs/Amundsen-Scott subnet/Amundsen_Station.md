@@ -2,9 +2,9 @@
 
 **Based on:** Amundsen-Scott South Pole Station (USA), Geographic South Pole (90°00'S)
 **Status:** Destroyed (Long Night War) — most significant ruins in Tepenia; DLC 1 setting
-**Arcanet Subnet:** Inter-subnet relay — not a member of any subnet; served as the neutral switching point connecting all six subnets before its destruction
+**Arcanet Subnet:** Inter-subnet relay — not a member of any subnet; served as the neutral switching point connecting all six subnets before its destruction *(the data tables use "Amundsen" as a one-line sort label)*
 **Access type:** ON
-**Highway access:** **Corrected 2026-07-06** — a genuine three-highway node: **Hwy 22** (Transcontinental Highway) passes directly through; **Hwy 175** (Central Cut Throughway) terminates here, connecting toward the Janbogo subnet region; **Hwy 59** (Atlantic Throughway / Arcanet Line) also terminates here, at a ramp farther from the Pole than Hwy 175's own ramp with Hwy 22. See `Locations/Infrastructure/Highways.md`.
+**Highway access:** **Corrected 2026-07-06, and again 2026-10-31 to match `Locations/Infrastructure/Highways.md`** — one highway reaches the station: **Hwy 22** (Transcontinental Highway) passes directly through. **Hwy 175** (Central Cut Throughway, toward the Janbogo subnet region) and **Hwy 59** (Atlantic Throughway / Arcanet Line) are connector highways that end at ramps with Hwy 22, not at the station: Hwy 175's ramp is closer to the Pole and Hwy 59's farther. See `Locations/Infrastructure/Highways.md`.
 **Significance:** The geographic South Pole; former inter-subnet Arcanet relay; site of the Planetary Split Brain; site of the Amundsen Tower (space elevator); the only location where the six subnets' divergent post-Split-Brain histories can be reconciled; home to Kendra Heinrich
 
 ---
@@ -47,7 +47,7 @@
 
 ## Geographic Basis
 
-The South Pole is the southernmost point on Earth — 90°00'S, where all lines of longitude converge and the concept of "direction" collapses into a single word: north. Everything from the South Pole is north. The pole sits on the East Antarctic Plateau at an elevation of approximately 2,835 meters above sea level, on ice approximately 2,850 meters thick. The ice itself moves — the geographic pole is fixed, but the station built on the ice drifts roughly ten meters per year, requiring periodic repositioning of the ceremonial pole marker.
+The South Pole is the southernmost point on Earth — 90°00'S, where all lines of longitude converge and the concept of "direction" collapses into a single word: north. Everything from the South Pole is north. The pole sits on the East Antarctic Plateau at an elevation of approximately 2,835 meters above sea level, on ice approximately 2,700–2,850 meters thick (sources differ). The ice itself moves — the geographic pole is fixed, but the station built on the ice drifts roughly ten meters per year, requiring periodic repositioning of the ceremonial pole marker.
 
 The real Amundsen-Scott South Pole Station was named jointly for Roald Amundsen, who reached the pole first in December 1911, and Robert Falcon Scott, who reached it second in January 1912 and died on the return. In Tepenia, the station carries only Amundsen's name. Scott has his city. Amundsen has the Pole.
 
@@ -81,7 +81,7 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 **Mean annual temperature:** -49.1°C  _(READER station: Amundsen_Scott; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest months (July/August) avg −60°C; warmest month (December/January) avg −28°C
 **Record extremes:** record high **−12.3 °C** (December); record low **−82.8 °C** (June) _(Amundsen-Scott station record; monthly breakdown in the table)_ *(tightened 2026-09-04 from "approximately −82 / −14")*
-⚠ **Note on the precipitation figure below:** 2.1 mm is the **gauge-caught** total. Actual annual accumulation at this site is roughly **70–80 mm** water equivalent — blowing snow largely does not enter the gauge. **This is the most extreme instance in the corpus of the falls-vs-caught-vs-accumulates distinction**, and the convention question is still open; see the research log, Session 6.
+⚠ **Note on the precipitation figure below:** 2.1 mm is the **gauge-caught** total. Actual annual accumulation at this site is roughly **70–80 mm** water equivalent — blowing snow largely does not enter the gauge. **This is the most extreme instance in the corpus of the falls-vs-caught-vs-accumulates distinction**, and the convention question is still open.
 **Prevailing winds:** moderate by Antarctic standards; average 5–7 m/s; the South Pole dome site is calm relative to slope and coastal stations; storms occur but are less frequent than at exposed coastal or slope sites
 **Annual precipitation:** **2.1 mm** water equivalent _(Amundsen-Scott South Pole; measured monthly normals — see table)_ *(corrected 2026-09-04 from an estimated figure)*
 
@@ -91,11 +91,11 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 > ⛔ **The `Annual precipitation` figure above is the GAUGE-CAUGHT total and is NOT what falls.** **The gauge catches roughly 3% of the snow here.** Use the falls/lands figures below.
 **Regime:** **PLATEAU** — *snow is a deposit, not weather*
 **Falls (reaches the surface):** ~70 mm/yr
-**Lands (accumulates and stays):** **~75 mm/yr** *(~90% retention)*
-**Lost to sublimation and wind transport:** ~-5 mm/yr
+**Lands (accumulates and stays):** **~70–80 mm/yr** *(falls ≈ lands: no wind removes it; measured stake-farm accumulation)*
+**Lost to sublimation and wind transport:** ~0 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-49.1 °C** it is the **#5 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**persistent katabatic drainage**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-49.1 °C** it is the **#5 coldest of the 37**, but it sits *above* the katabatic regime rather than in it. **Retention is ~100%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately Mar 24 → Sep 21 (~182 days — six months of continuous darkness; the South Pole has the longest polar night of any location on Earth)
@@ -128,7 +128,7 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 
 #### Notable Weather Phenomena
 
-- **Six-month polar night / six-month midnight sun:** at 90°S, the transition between darkness and light is binary — there is no gradual shortening or lengthening of days, only the long darkness and the long light, with brief transitional twilight periods at the equinoxes; the psychological and practical implications of this for anyone stationed here are extreme
+- **Six-month polar night / six-month midnight sun:** at 90°S, the transition between darkness and light is binary — there is no gradual shortening or lengthening of days, only the long darkness and the long light, with long twilights of about seven weeks after the sun sets (Mar 24 to about May 12) and before it returns (about Aug 2 to Sep 21), and full astronomical darkness only from about May 13 to Aug 1 (calculated for a flat horizon); the psychological and practical implications of this for anyone stationed here are extreme
 - **The equinox sunrise:** when the sun returns after six months of darkness, it rises all the way around the horizon simultaneously — a 360° sunrise with no directional component, because at the South Pole every direction is north; this is one of the most extraordinary visual phenomena in all of Tepenia
 - **Diamond dust and ice halos:** common in clear conditions; with no moisture source, precipitation almost never falls in the conventional sense; the ice crystals present in the air are simply there
 - **Extreme isolation:** the South Pole is the most difficult location in Tepenia to reach; there are no nearby cities, no coastal access, no external reference points; in DLC 1, the journey is the challenge before the destination is encountered
@@ -136,7 +136,7 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 #### Gameplay Notes
 
 - **The equinox sunrise as a narrative event:** the 360° simultaneous sunrise after six months of darkness is one of the most visually distinctive moments achievable in any Antarctic setting; worth building a DLC 1 story beat around
-- **Six-month polar night:** the DLC 1 setting during polar night means the ruins are encountered in complete darkness broken only by artificial light and aurora; during midnight sun, the same ruins feel entirely different — exposed, bright, no shadows to hide in
+- **Six-month polar night:** the DLC 1 setting during polar night means the ruins are encountered in darkness (full astronomical darkness only from about May 13 to Aug 1, with twilight on either side) broken only by artificial light and aurora; during midnight sun, the same ruins feel entirely different — exposed, bright, no shadows to hide in
 - **Every direction is north:** the directional collapse at the South Pole is a genuine navigational and psychological fact; compass-based navigation doesn't work at the magnetic pole (which is nearby but not identical to the geographic pole); the player's spatial orientation systems may behave unusually here
 - **Hardcore Mode influences:**
   - The most extreme cold of any location in Tepenia; even Concordia's winters are mild by comparison; protection requirements here exceed anything in the main game
@@ -224,7 +224,7 @@ The station is also the clearest example of what Tepenia lost when the war reach
 - **Is the Split Brain reversible?** — can the archive alone reconcile the subnets, or would physical infrastructure need to be rebuilt? (central Planetary Split Brain questline question)
 - **Kendra Heinrich's full story** — how did she come to be at the South Pole, why is she still there, what has she been doing, and what does she know? (DLC 1 content)
 - **The pre-Split-Brain archive** — what exactly does it contain, and what does accessing it enable? (Planetary Split Brain questline)
-- **Highway connections to Amundsen Station** — *(resolved 2026-07-06, see Highway access field above; this line was never swept afterward)* a confirmed three-highway node: Hwy 22 (Transcontinental Highway) passes directly through, Hwy 175 (Central Cut Throughway) terminates here toward the Janbogo subnet, and Hwy 59 (Atlantic Throughway/Arcanet Line) also terminates here. See `Locations/Infrastructure/Highways.md`.
+- **Highway connections to Amundsen Station** — *(resolved 2026-07-06; corrected 2026-10-31, see the Highway access field above)* Hwy 22 (Transcontinental Highway) reaches the station; Hwy 175 (Central Cut Throughway, toward the Janbogo subnet) and Hwy 59 (Atlantic Throughway/Arcanet Line) end at ramps with Hwy 22. See `Locations/Infrastructure/Highways.md`.
 - **The Amundsen Tower** — what was it used for beyond Arcanet relay? (space elevator implies cargo or passenger capability; who used it and for what?)
 - **The Geographic South Pole marker** — what form did Tepenia give it, and does it survive?
 - **St. Roald's civic observance** — is there a Tepenian Independence Day tradition at Amundsen Station, analogous to Hut Point in Scott? If so, who maintains it, given the station is destroyed and Kendra is the only known current occupant?
