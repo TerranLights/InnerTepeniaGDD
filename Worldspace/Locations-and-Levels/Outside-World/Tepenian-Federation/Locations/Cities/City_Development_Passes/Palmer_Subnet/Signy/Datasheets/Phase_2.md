@@ -7,11 +7,12 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Composition tier table (spec) | **Primary:** USA · **Significant:** Germany, France, UK, Brazil · **Notable:** Argentina, South Africa *(founding wave)*, Chile, Uruguay | `Specs/Signy.md` L133–135 |
-| Composition tier table (census Section A entry) | **Primary:** USA · **Significant:** Germany, France, UK, Brazil · **Notable:** Argentina, South Africa *(founding wave)*, Chile, Uruguay | `Official_Population_Census.md` L122–124 |
+| Composition tier table (spec) | **Primary:** USA · **Significant:** Germany, France, UK, Brazil *(founding wave)* · **Notable:** Argentina, South Africa *(founding wave)*, Chile, Uruguay | `Specs/Signy.md` L133–135 |
+| Composition tier table (census Section A entry) | **Primary:** USA · **Significant:** Germany, France, UK, Brazil *(founding wave)* · **Notable:** Argentina, South Africa *(founding wave)*, Chile, Uruguay | `Official_Population_Census.md` L122–124 |
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
-| Annotation in the spec tier table | `(founding wave)` — **no date** | `Specs/Signy.md` L135 |
-| Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L124 |
+| Annotation in the spec tier table | `(founding wave)` — **no date** | `Specs/Signy.md` L134–135 *(Brazil added 2026-10-31: the Founding Register rules South Africa and Brazil joint founders)* |
+| Annotation in the census tier table | `(founding wave)` — **no date** | `Official_Population_Census.md` L123–124 *(Brazil added 2026-10-31)* |
+| Census note on South Africa's founding presence, stated directly | *"South Africa's geographic advantage via the Cape Town–South Orkneys crossing gave it an outsized founding presence at Signy."* | `Official_Population_Census.md` L126 |
 | Per-nation breakdown (spec) | Present at L139–L158 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Signy.md` L139 |
 | Census I | 93,134 H / 95,560 R / **188,694** combined | `Official_Population_Census.md` L515 |
 | Census II | 53,928 H / 79,827 R / **133,755** combined | `Official_Population_Census.md` L635 |

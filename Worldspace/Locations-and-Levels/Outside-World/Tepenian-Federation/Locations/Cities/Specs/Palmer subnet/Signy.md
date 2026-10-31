@@ -23,8 +23,8 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 93,134 humans / 95,560 robots / **188,694** combined *(island cap)*
-**Census II (Orbital Era):** 53,928 humans / 79,827 robots / **133,755** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 93,134 humans / 95,560 robots / **188,694** combined
+**Census II (Orbital Era):** 53,928 humans / 79,827 robots / **133,755** combined
 
 > ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **THE FLEET.** *Population UNCHANGED.*
 > **`**Extent band:** Signy Island 19 km² + a moored floating settlement around Coronation Island.**
@@ -131,7 +131,7 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 | Tier | Nations |
 |------|---------|
 | Primary | USA |
-| Significant | Germany, France, UK, Brazil |
+| Significant | Germany, France, UK, Brazil *(founding wave)* |
 | Notable | Argentina, South Africa *(founding wave)*, Chile, Uruguay |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -158,7 +158,7 @@ This is a strong candidate for a DLC 3 questline — Signy as the untouched city
 
 ## Geographic Basis
 
-Signy Island is one of the smaller South Orkney Islands, a group of islands in the Scotia Sea approximately 500km east of the Antarctic Peninsula tip and roughly 1,700km south of the Falkland Islands. The South Orkney Islands are geographically isolated — no land connection to anything. At 60°43'S, Signy technically sits north of the 60° parallel that commonly marks the informal boundary of "Antarctica" in political and environmental terms, though it is administered under the Antarctic Treaty.
+Signy Island is one of the smaller South Orkney Islands, a group of islands in the Scotia Sea approximately 670km east-northeast of the Antarctic Peninsula tip and roughly 1,250km east-southeast of the Falkland Islands. The South Orkney Islands are geographically isolated — no land connection to anything. At 60°43'S, Signy sits just south of the 60° parallel that marks the boundary of the Antarctic Treaty area, and is administered under the Antarctic Treaty.
 
 The sub-Antarctic character of the South Orkney Islands means the biology is richer and more diverse than the Peninsula proper. Fur seals, elephant seals, multiple penguin species, abundant seabirds — Signy is one of the most biologically productive locations in Tepenia. The BAS has maintained a long-running biological research program here precisely for this reason.
 
@@ -166,9 +166,9 @@ The Scotia Sea itself is biologically extraordinary — the meeting of Atlantic,
 
 The isolation is absolute in one direction and total in another. Signy is far from everything. It is closer to the South Atlantic than to any Tepenian city. The Arcanet link to the Palmer subnet hub (Palmer City) spans hundreds of kilometers of open ocean — it works, but it is weaker and more vulnerable than any other intra-subnet link in Tepenia.
 
-The Shackleton connection: the Endurance expedition (1914–1916) made its historic open-boat journey from Elephant Island — approximately 300km from the South Orkney Islands — to South Georgia. The South Orkney Islands lie along the historical route of multiple pre-exile Antarctic expeditions operating in the Scotia Sea. St. Ernest (Shackleton) has a geographic claim on this region that no other Tepenian Saint can quite match.
+The Shackleton connection: the Endurance expedition (1914–1916) made its historic open-boat journey from Elephant Island — approximately 520km from the South Orkney Islands — to South Georgia. The South Orkney Islands lie along the historical route of multiple pre-exile Antarctic expeditions operating in the Scotia Sea. St. Ernest (Shackleton) has a geographic claim on this region that no other Tepenian Saint can quite match.
 
-**Added 2026-07-17, propagating an established 2026-07-04 Vision Notes fact never previously reflected here:** Signy is not one island but two working together, using real South Orkney geography. The smaller **Signy Island** itself hosts the city's one shipping dock (on its east side) and a substantial radio comms setup — confirmed as radio, not Arcanet, since digital networking physically can't reach this far, reinforcing rather than contradicting the "weakest Arcanet link in the Federation" status. The much larger **Coronation Island**, connected by a high bridge, holds most of the city's actual residential living and leisure infrastructure. Daily rhythm: residents travel to the docking island to fish, returning to Coronation Island for downtime. The bridge itself has no confirmed canon name; `Signy_Full_Extrapolation.md` Section III proposes "the Endurance Span," tying it to Signy's own St. Ernest veneration — proposed, not yet locked.
+**Added 2026-07-17, propagating an established 2026-07-04 Vision Notes fact never previously reflected here:** Signy is not one island but two working together, using real South Orkney geography. The smaller **Signy Island** itself hosts the city's one shipping dock (on its east side) and a substantial radio comms setup — confirmed as radio, not Arcanet, since digital networking physically can't reach this far, reinforcing rather than contradicting the "weakest Arcanet link in the Federation" status. The much larger **Coronation Island**, connected by a high bridge, holds most of the city's actual residential living and leisure infrastructure. Daily rhythm: residents travel to the docking island to fish, returning to Coronation Island for downtime. The bridge itself has no confirmed canon name; `Signy_Full_Extrapolation.md` Section III proposes "the Endurance Span," tying it to Signy's own St. Ernest veneration — proposed, not yet locked. *(2026-09-05 extent ruling, L29–76: the living on Coronation Island is the moored floating settlement around its coast; the bridge joins the two islands.)*
 
 ### Annual Climate
 
@@ -176,12 +176,12 @@ The Shackleton connection: the Endurance expedition (1914–1916) made its histo
 
 **Climate type:** Maritime sub-Antarctic — north of the Antarctic Circle; the mildest climate in the Palmer subnet; oceanic influence dominant; significant precipitation; fog common; strong westerly winds off the Scotia Sea
 **Mean annual temperature:** -3.8°C  _(READER station: Signy; 1991–2020 WMO standard normal)_
-**Record extremes:** record high **+19.8 °C** — *the Antarctic region record high, 30 January 1982* — record low **−39.3 °C** *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −10°C; warmest month avg +3°C; above-freezing temperatures common in summer; liquid precipitation (rain) frequent
+**Record extremes:** record high **+19.8 °C** — *the Antarctic region record high, 30 January 1982* — record low **−39.3 °C** *(researched 2026-09-04; the station's own records — the table's Rec High and Rec Low columns come from the Orcadas proxy station)*
+**Temperature range:** coldest month (July) mean about −12.5°C; warmest month (January) mean about +1.7°C; above-freezing temperatures common in summer; liquid precipitation (rain) frequent
 **Polar night:** ⛔ **none** — at 60°43'S, the northernmost city in the Federation
 **Midnight sun:** ⛔ **none**
 *(Combined line retained below for context.)*
-**No polar night; no midnight sun** — at 60°43'S; winter minimum daylight ~6–7 hours; summer maximum ~18–19 hours
+**No polar night; no midnight sun** — at 60°43'S
 **Winter solstice daylight minimum:** approximately 5.6 hours
 **Summer solstice daylight maximum:** approximately 19.1 hours
 **Annual precipitation:** **663 mm** water equivalent _(proxy: Orcadas, Laurie Island (~48 km, same South Orkney group); measured monthly normals — see table)_ *(researched 2026-09-04)*
@@ -240,7 +240,7 @@ The Shackleton connection: the Endurance expedition (1914–1916) made its histo
 
 **Founding population:** South Africa and Brazil, jointly (South Africa partly, as ruled in `DR-22`) (`DR-22`, `DR-44`). The founding community independently developed a biological science focus, arriving at it by studying the islands themselves rather than by inheriting any operator's mission or methodology. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
-The South Orkney Islands had also been the site of a brief Argentine occupation in 1976 — a political act under the Antarctic Treaty — which contributed to pre-exile Antarctic sovereignty tensions. The exile era resolved those tensions under the Falkland Treaty's broader framework, but the history remained.
+The South Orkney Islands had also been the site of an Argentine presence: Argentina has kept Orcadas Base on Laurie Island since 1904, a political act under the Antarctic Treaty that contributed to pre-exile Antarctic sovereignty tensions. The exile era resolved those tensions under the Falkland Treaty's broader framework, but the history remained.
 
 ---
 
@@ -288,7 +288,7 @@ Signy's legacy is endurance of a specific kind — not the survival of direct di
 
 ## Open Questions
 - **St. Ernest (Shackleton) veneration** — the South Orkney Islands are closest to the Endurance expedition region; is Signy the primary Tepenian Saints site for St. Ernest? Does Signy have a specific relationship to Shackleton's memory?
-- **The Argentine occupation history** — does the 1976 Argentine occupation of the South Orkney Islands figure in Signy's pre-exile history at all? Does it complicate the Palmer/Argentine subnet relations?
+- **The Argentine presence history** — does Argentina's Orcadas Base on Laurie Island (since 1904) figure in Signy's pre-exile history at all? Does it complicate the Palmer/Argentine subnet relations?
 - **Ice Cold Buddhism at Signy** — is there any Ice Cold Buddhism presence at one of the warmer and biologically rich Tepenian sites? Or does the religion concentrate at the colder, more extreme locations only?
 - **DLC 3 access** — how does the player reach Signy? It is the most difficult Palmer subnet location to reach; the journey itself may be significant gameplay
 - **Post-war communication** — can Signy reach Concordia or any other city at all, given the weak Arcanet link and the Planetary Split Brain?

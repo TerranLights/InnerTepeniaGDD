@@ -5,7 +5,7 @@
 > finding.
 > ⛔ **Excluded sections — see `Step_-1.md`.**
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **3 of 4** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites). **Not covered:** the Climate READER address (`Reference/Real-World/Climate Data/READER/`) — no row of this sheet names it (it is carried in `Step_1_and_2.md`). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). The Climate `READER/` file got its rows, with the data, on 2026-10-31. Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -20,6 +20,8 @@
 | Population/species texture, developer vision, stated directly | *"Robot-majority or robot-only city: given the altitude effects on humans, Kunlun may be effectively a robot city… the human population, if any remains, would be at minimum reduced to those few individuals whose physiology has adapted or who are sustained by medical infrastructure."* ⚠ Read this as design/gameplay-note framing, not a settled Second-Interwar civic fact — Kunlun's own settled Second-Interwar population is 0 humans / 135,226 robots per the resolved figures above, not an open question | `Specs/Kunlun.md` L147 |
 | Observatory facility texture, stated directly | *"The exceptional sky stability makes Kunlun's observatory one of the few locations in Tepenia with access to deep space observation"* | `Specs/Kunlun.md` L148 |
 | Concept-art directory status | EMPTY — `.gitkeep` only, 1 file(s) total | Checked 2026-10-23: `City_Concept-Art/` |
+| Climate file — station, authority and period | **READER station:** Dome_A (AWS) · **Climate authority:** Chinese Arctic and Antarctic Administration (automatic weather station) · **Station notes:** Dome A AWS (READER AWS record), ~7 km from Kunlun Station · **Data period:** every full year 1991–2025 (automatic weather station; shorter record, a record-period mean) · **Full data range:** 2005–2026 · **Annual mean temperature:** -53.9°C · **Rebuilt:** 2026-10-21 (this file was an 8-line "not in READER" stub; the station is in READER). Years per month in the normal: 21–21. | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Kunlun.md` L1–L10 |
+| Climate file — Monthly Mean Temperatures (°C) — 1991–2025 record-period mean | Jan **-34.9** · Feb **-44.0** · Mar **-55.2** · Apr **-61.4** · May **-62.4** · Jun **-63.4** · Jul **-63.7** · Aug **-64.2** · Sep **-62.9** · Oct **-55.4** · Nov **-44.3** · Dec **-35.7** · Annual **-53.9** _Source: BAS READER (Reference Antarctic Data for Environmental Research), https://legacy.bas.ac.uk/met/READER/aws/Dome_A.All.temperature.html — cite as Turner et al. (2004), Int. J. Climatol. 24, 191–211. Raw page archived in `to-be-integrated/climate data CURL/reader_2026-10-21/`._ | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Kunlun.md` L11–L17 |
 
 **Not mechanical / not included here:** the four sensory sub-fields worked as this phase's own synthesis
 (sound/smell/feel/first impressions, distinct from each other), the public/institutional split, the seam

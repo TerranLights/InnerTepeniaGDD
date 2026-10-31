@@ -612,3 +612,37 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits as
 Check: spec still 270 lines, `16` 3,578 and Station_to_City_Map 157 unchanged in length; verifier 0 FAIL (1 NOTE); coverage check 0 gaps.
 
 **That completes the Mawson subnet's walk-through (3 of 3).**
+
+## Signy (done 2026-10-31) — first Palmer-subnet city, in geographic order
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."* Also, mid-turn: *"make sure to include the climate data for Phase 3."* (The Palmer subnet is walked geographically, starting with Signy; Palmer City's list was drafted but nothing was changed for it.)
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Alias set | Signy, Signy Research Station, Signy Island, Coronation Island; search aids and places as listed; megasheet-only names not carried |
+| 2 | Timeline-repo lines | registered as flagged addresses, not extracted |
+| 3 | Factual error (spec L243, L291) | the 1976 Argentine occupation was Southern Thule (South Sandwich Islands); the South Orkneys have Orcadas Base (Laurie Island, since 1904) |
+| 4 | Geography (spec L161, L169) | south of 60°S; about 670 km from the Peninsula tip; about 1,250 km from the Falklands; Elephant Island about 520 km |
+| 5 | Record extremes (L179) and temperature (L180) | the station's own records labeled; July −12.5 °C and January +1.7 °C |
+| 6 | Stale daylight hours (L184) | trimmed in place |
+| 7 | Founding annotation | "(founding wave)" added to Brazil (spec, census, sheets) |
+| 8 | Two-island arrangement and "(island cap)" | dated note at spec L171; tag removed from spec and census |
+| 9 | Peer clauses in the sheets | trimmed; `Phase_5` multi-city fragments replaced with the standard marker |
+| 10 | Sheet gaps | **climate data written into `Phase_3`** (station, period, annual mean, all twelve monthly means, with the spec-table cross-check), national economy (`Phase_4`, 7 of 7), five `Phase_7` rows (13 of 13); Step 0's two foreign extent ranges dropped |
+| 11 | Left | peer lines, megasheet-only names, Pre-Trip §I |
+
+Check: spec 297 lines and census 810 unchanged in length; verifier 0 FAIL (1 NOTE, pre-existing lines); coverage check 0 gaps.
+
+**Open follow-up (developer's call):** the `Phase_3` sheets of the cities walked earlier in this stretch (Cape Adare, Denison, Dumont d'Urville, Fort McMurdo, Scott, Zukelli, Mawson, Dome Fuji, Temirötkel) carry a climate-file row that points to the data, not the data itself.
+
+## Climate data written into every Phase 3 sheet (2026-10-31) — corpus-wide, from the developer's standing rule
+
+Developer: *"The climate data should always, always, always be written into the instant reference data sheets. That's the whole reason why I get you to make them. So that during the synthesis and derivation periods ... you don't need to go searching and looking for shit."*
+
+- **Done for all 34 pass folders' `Phase_3.md`** (rows built from each city's climate file, with the file and line range cited): station, authority, data period and range, annual mean, and all twelve monthly means; for the proxy cities (Pergamino, Puerto Abrigo) also the proxy resolution, precipitation and daylight sections.
+- **Pointer-only rows replaced** (Cape Adare, Denison, Dumont d'Urville, Fort McMurdo, Scott, Zukelli, Dome Fuji, Mawson, Temirötkel, Ariun Nuur, Zukelli's cross-ref row).
+- **Relung Panen** has no READER file (a documented absence): its own measured anchors, constructed monthly means, range, light, precipitation regime and second station record were written from `Climate.md` and its spec lines, with the other-city comparisons left out (one-location law).
+- **Coverage headers** rewritten to 4 of 4 (Casey 3 of 4, Relung Panen 3 of 4); fragments left by the first pass were cleaned.
+- Signy was the first (written with the spec-table cross-check).
+- Standing rule saved: `feedback_datasheets_carry_the_data_not_pointers.md`.
+- **Flagged, not changed:** (1) `Phase_3` carries the spec's Geographic Basis / Character & Culture / Notable Locations prose by line range only (75 rows) because what is admissible is Step −1's ruling; (2) `Step_3` has 30 "not duplicated here" research-pointer rows; (3) `Step_1_and_2`'s composition rows say "full detail in Phase_2".

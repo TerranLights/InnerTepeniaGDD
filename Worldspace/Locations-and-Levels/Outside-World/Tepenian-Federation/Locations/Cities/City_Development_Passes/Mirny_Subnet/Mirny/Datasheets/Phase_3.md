@@ -6,7 +6,7 @@
 > extracted as quotes below, not re-derived. This is existing canon description, not this datasheet's own
 > finding.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **3 of 4** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites). **Not covered:** the Climate `READER/` directory (no row of this sheet names it; the climate rows are in `Step_1_and_2.md`). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). The Climate `READER/` file got its rows, with the data, on 2026-10-31. Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
 | Category | Value | Citation |
 |---|---|---|
@@ -20,6 +20,8 @@
 | Blizzard/visibility conditions, stated directly | *"Blizzards: with katabatic winds and available surface snow, blizzard conditions can develop rapidly; visibility collapses quickly in major events"* · *"Whiteout here routinely occurs under a clear sky, because the snow is lifted, not falling"* | `Specs/Mirny.md` L134, L82 (cross-ref `Phase_1.md`) |
 | Sea ice / maritime texture | *"the Davis Sea freezes seasonally; maritime access windows are limited and wind-dependent; ice conditions can change quickly"* | `Specs/Mirny.md` L133 |
 | Concept-art directory status | EMPTY — `.gitkeep` only, 1 file(s) total | Checked 2026-10-23: `City_Concept-Art/` |
+| Climate file — station, authority and period | **READER station:** Mirny · **Climate authority:** Arctic and Antarctic Research Institute (AARI, Russia) · **Station notes:** Mirny Station · **Data period:** 1991–2020 WMO standard normal (30 years in normal period) · **Full data range:** 1956–2026 · **Annual mean temperature:** -11.2°C | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Mirny.md` L1–L9 |
+| Climate file — Monthly Mean Temperatures (°C) — 1991–2020 WMO Normal | Jan **-2.0** · Feb **-5.2** · Mar **-10.5** · Apr **-13.9** · May **-15.8** · Jun **-15.4** · Jul **-16.3** · Aug **-16.4** · Sep **-15.9** · Oct **-13.4** · Nov **-6.8** · Dec **-2.7** · Annual **-11.2** _Source: BAS READER (Reference Antarctic Data for Environmental Research), https://legacy.bas.ac.uk/met/READER/ — cite as Turner et al. (2004), Int. J. Climatol. 24, 191–211._ | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Mirny.md` L10–L16 |
 
 **Not mechanical / not included here:** the four sensory sub-fields worked as this phase's own synthesis
 (sound/smell/feel/first impressions, distinct from each other), the public/institutional split, the seam
