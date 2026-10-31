@@ -15,8 +15,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 316,691 humans / 328,142 robots / **644,833** combined *(island cap)*
-**Census II (Orbital Era):** 234,304 humans / 279,766 robots / **514,070** combined *(island cap)*
+**Census I (Pre-Orbital Era):** 316,691 humans / 328,142 robots / **644,833** combined
+**Census II (Orbital Era):** 234,304 humans / 279,766 robots / **514,070** combined
 
 > ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **population UNCHANGED per developer ruling.**
 > **`**Extent band:** ~80 km².`** **644,833 ÷ 80 km² = 8,060/km²** — *inside the 7,000–10,000 band.* *Was 561/km² measured against King George Island entire (1,150 km²).*
@@ -82,9 +82,9 @@ The Janbogo connection is withdrawn: Contrapunto was settled first by Chile (`DR
 **Mean annual temperature:** -1.7°C  _(READER station: King_Sejong; 1991–2020 WMO standard normal)_
 **Prevailing winds:** sub-Antarctic maritime — **strong, highly variable, and directionally mixed**; the four dominant directions over King George Island are **NW, W, N and SE**, varying by peninsula. **Mean monthly wind 4.6–6.7 m/s** *(Arctowski, same island)*, with **gale events exceeding 22 m/s 10-minute average** *(recorded at King Sejong, 7 January 2013)*. ⭐ *No katabatic regime — these are cyclonic winds off the Drake Passage, which is why they shift direction rather than always draining one way* *(researched 2026-09-04)*
 **Record extremes:** record high **+11.3 °C** (Mar); record low **-24.2 °C** (Jul) _(NOAA NCEI GHCN-Daily station `AYM00089251` — direct, ~2 km; daily observations 1991-2026)_ *(researched 2026-09-04)*
-**Temperature range:** coldest months avg −8°C; warmest month avg +3°C; above-freezing temperatures frequent in summer
-**No polar night; no midnight sun** — at 62°13'S; winter minimum daylight ~6–7 hours; summer maximum ~18–19 hours
-**Polar night:** ⛔ **none** — at 62°13'S the city lies roughly ~475 km north of the Antarctic Circle; the sun rises every day of the year
+**Temperature range:** coldest months (July/August) mean −5.5°C and −5.3°C; warmest month (January) mean +1.9°C; above-freezing temperatures frequent in summer
+**No polar night; no midnight sun** — at 62°13'S; winter minimum daylight approximately 5.0 hours; summer maximum approximately 19.9 hours
+**Polar night:** ⛔ **none** — at 62°13'S the city lies roughly ~480 km north of the Antarctic Circle; the sun rises every day of the year
 **Midnight sun:** ⛔ **none** — the sun sets every night of the year
 **Winter solstice daylight minimum:** approximately 5.0 hours
 **Summer solstice daylight maximum:** approximately 19.9 hours
@@ -117,10 +117,10 @@ The Janbogo connection is withdrawn: Contrapunto was settled first by Chile (`DR
 | Nov | +9.6 | +0.4 | -0.4 | −2.7 | −8.7 | 46.7 | ~56% | 17.5 |  |
 | Dec | +9.6 | +2 | +0.8 | −1 | −8.1 | 46 | ~58% | 19.7 |  |
 
-***Monthly record extremes (KING CONTRAPUNTO, `AYM00089251` — direct, ~2 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1991-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
+***Monthly record extremes (KING SEJONG, `AYM00089251` — direct, ~2 km)** — ⭐ **computed from DAILY observations** *(`TMAX`/`TMIN`, 1991-2026)*, not from monthly summaries, so every calendar month is covered. **NOAA NCEI GHCN-Daily.** ⚠ *Values are stored in tenths of a degree and were converted; readings beyond 20 °C past this station's own 1st/99th percentile were rejected as instrument error.**
 
 
-***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089251** (KING CONTRAPUNTO), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
+***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089251** (KING SEJONG), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
 ***Column provenance (PROXY — Bellingshausen, King George I. (~25 km), added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*

@@ -4,11 +4,15 @@
 
 > ⛔⛔ **FLAGGED — recorded by line number only, NOT copied.** `City_Cross_Subnet_Relationships.md` and `City_National_Connections.md` build on material that is withheld corpus-wide by their own stated method (the National Connections header says so; open it first). A line from either is a lead for a three-reader check, never a clean fact here.
 
-> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **5 of 6** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites). **Not named by any row:** the universe repo's `Worldspace/Locations/` (location canon and routes; its rows are in `Step_1_and_2.md`).
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 5), recounted by hand 2026-10-30:** **6 of 6** addresses are named in this sheet (6 directly, 0 through a shared Tier U sheet it cites). The universe repo's `Worldspace/Locations/` got its rows here on 2026-10-31.
 
 
 | Category | Value | Citation |
 |---|---|---|
+| Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **2 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
+| ↳ Juan_Carlos.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/Juan_Carlos.md` L13 |
+| ↳ Juan_Carlos.md | *[source line is about another city; not copied, line number recorded only]* | `…/Worldspace/Locations/Juan_Carlos.md` L17 |
+| ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Highways.md` — lines naming the city | *[source line compares the city with other places; not copied, line number recorded only]* | `Highways.md` L318 |
 | ↳ `Highways.md` — lines naming the city | *[source line compares the city with other places; not copied, line number recorded only]* | `Highways.md` L326 |
 | ↳ `Highways.md` — lines naming the city | \| **Contrapunto** \| King George Island, South Shetlands \| **160–177 km** from the mainland Peninsula and from Marambio's own causeway landing point \| | `Highways.md` L327 |
@@ -42,5 +46,6 @@
 | ↳ entry line | - **Notes:** Named after King Sejong the Great (Hangul alphabet creator). Founded as a primarily Anglo-Latin society by immigrants from North, Central and South America (`DR-20`); who first established it is open (`DR-20a`). Tepenia's living Korean centers are Janbogo and Sinheung (Mirny subnet, 34.62% Primary); King George Island = slightly off the peninsula proper | `City_Relationship_Database.md` L429 |
 | `City_Cross_Subnet_Relationships.md` — lines naming the city | 2 line(s): L86, L202 *(line numbers only)* | `City_Cross_Subnet_Relationships.md` L86, L202 |
 | `City_National_Connections.md` — lines naming the city | 14 line(s): L109–110, L155–156, L170–171, L225, L229, L232, L235, L257, L381, L407, L599 *(line numbers only)* | `City_National_Connections.md` L109–110, L155–156, L170–171, L225, L229, L232, L235, L257, L381, L407, L599 |
+| Timeline repo — lines naming the city *(flag only)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Amundsen_Station_Archive_and_Trucking_Network.md` L13, L41, L76–L78, L113 (Calethina's shipping and stress-testing notes and a roster line); `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/World_History_Reference.md` L138 (a Machu Picchu gateway line); `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/TODO.md` L27 (a to-do line, not canon). Context lines in a repo that takes no worldbuilding edits: **found, not extracted** | the three files, checked 2026-10-31 |
 
 **Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis — none of this exists until Contrapunto's own pass runs.

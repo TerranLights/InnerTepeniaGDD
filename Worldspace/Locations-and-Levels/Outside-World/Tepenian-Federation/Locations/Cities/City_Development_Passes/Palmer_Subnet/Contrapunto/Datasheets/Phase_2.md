@@ -8,8 +8,8 @@
 | Category | Value | Citation |
 |---|---|---|
 | Composition tier table (spec) | **Primary:** USA · **Significant:** France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea · **Notable:** Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay | `Specs/Contrapunto.md` L38–40 |
-| Composition tier table (census Section A entry) | **Primary:** China, USA · **Significant:** Germany, France, UK, Italy, South Korea, Russia, Mexico, Brazil · **Notable:** Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay | `Official_Population_Census.md` L112–114 |
-| Spec table vs census table (nation lists, annotations ignored) | ⚠ **Differ** — both are quoted above; the census governs (`DR-4`) | Compared 2026-10-21 |
+| Composition tier table (census Section A entry) | **Primary:** USA · **Significant:** Germany, France, UK, Italy, South Korea, Russia, Mexico, Brazil · **Notable:** Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay | `Official_Population_Census.md` L112–114 |
+| Spec table vs census table (nation lists, annotations ignored) | **Agree** — the census entry was brought to the spec on 2026-10-31 (China was removed from the spec on 2026-07-13 and the census still listed it as Primary; the composition file agrees with the spec) | Compared 2026-10-21; re-compared 2026-10-31 |
 | Annotations in the spec tier table (two: Argentina, Chile) | `(founding wave)` on each — **no date** | `Specs/Contrapunto.md` L40 |
 | Annotations in the census tier table (two: Argentina, Chile) | `(founding wave)` on each — **no date** | `Official_Population_Census.md` L114 |
 | Per-nation breakdown (spec) | Present at L44–L66 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Contrapunto.md` L44 |

@@ -719,3 +719,25 @@ Developer: *"yup, that looks right. Go ahead and make all the necessary edits as
 Noted, no action: peer lines; the `16` §12 one-unit rounding (428,549 vs 428,548); the audit's "airfield maintenance" text does not exist in the spec.
 
 Check: spec 232 lines, census 810, extent file 709 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE: the copied rows' "survive" words, read); coverage check 0 gaps.
+
+## Contrapunto (done 2026-10-31) — fifth Palmer-subnet city
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits as you've suggested."* Also: tonight, after 23:00, real research on the new populations (China is the Sinian Federation in the Interwar timelines; territories fragmented away); filed in the Weekly To-Do and in memory.
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Temperature (spec L85) | July/August means −5.5 and −5.3 °C, January mean +1.9 °C; the table's Mean column checked equal to the station's monthly means |
+| 2 | Daylight (L86) | 5.0 and 19.9 hours (calculated 5.05 and 19.85) |
+| 3 | Distance north of the Antarctic Circle (L87) | roughly ~480 km (calculated 483) |
+| 4 | 120 km vs 160–177 km (L69, L9) | left; both hold for different reference points |
+| 5 | Real station's name (L120, L123) | restored to "KING SEJONG" |
+| 6 | Alias set | confirmed as listed in CP-006 |
+| 7 | "(island cap)" | removed from spec and census; sheets say so |
+| 8 | Census Section A Primary tier | "China, USA" → "USA" (spec and composition file agree; `Phase_2` rows updated) |
+| 9 | Founding-wave tags | left; the question about what the tag means is still open |
+| 10 | Geothermal heating file | named Phase 3 input, own-lines only (Pre-Trip row and `Phase_3` row) |
+| 11 | Sheet gaps | `Step_1_and_2` Stations rows (6 of 6); `Phase_4` national economy (7 of 7); `Phase_5` `Worldspace/Locations/` rows (6 of 6) and timeline-repo lines (Amundsen archive L13, L41, L76–78, L113; `World_History_Reference.md` L138; timeline `TODO.md` L27) flagged in the Pre-Trip and `Phase_5`; five `Phase_7` rows (13 of 13) |
+
+Noted, no action: peer lines; revisit passages; tier percentages vs the 8:3:1 model; the Machu Picchu gateway sits on King George Island (consistent with the airports file); "established for Palmer City" goes to Palmer City.
+
+Check: spec 189 lines and census 810 unchanged by `wc -l`; verifier 0 FAIL (1 NOTE, pre-existing line); coverage check 0 gaps.
