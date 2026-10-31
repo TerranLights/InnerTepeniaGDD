@@ -531,3 +531,25 @@ Developer: *"yup, all as recommended."*
 Check: spec still 229 lines (`wc -l`); census 810 and `16` 3,578 unchanged in length; verifier 0 FAIL (1 NOTE).
 
 **That completes the Janbogo subnet's walk-through.**
+
+## Zukelli (done 2026-10-31)
+
+Developer: *"yup, that looks right. Go ahead and make all the necessary edits."* (New name still not chosen; every fix is written against the current name; no sweep.)
+
+| # | Item | Done |
+|---|---|---|
+| 1 | Rename wording | Pre-Trip §A "No rename flagged" → RENAME PENDING; dated note appended to spec L57 (founders Australian, new name in line with them, none chosen) |
+| 2 | Alias set | Zukelli, Mario Zucchelli Station, Zucchelli alone; Boulder Clay, Enigma Lake, Mount Melbourne are search aids; Terra Nova Bay (shared with Janbogo), Victoria Land, Ross Sea are places |
+| 3 | Geothermal heating file | named Phase 3 input, own-lines only (the lines pairing the city with Janbogo are relation, not compared) |
+| 4 | "10 files" | parenthetical added (4 notes, 6 map images; Antarctica empty) |
+| 5 | Spec L95–97 | stale warning about Janbogo's spec blanked in place (spec still 216 lines) |
+| 6 | Shared station value | left; Zukelli matches its own climate file; the 0.1 difference with the neighbor is rounding, for the comparison stage |
+| 7 | Retention | live values (human 70.63%, robot 78.03%) in spec L158, census L781, `16` L2822; census L781's older total and rank dated, not replaced |
+| 8 | My audit slip | ledger and audit text corrected to 78.03% and 7.40 points |
+| 9 | Counts and ranges | spine ranges corrected in ten sheets; `Phase_3` "5 of 5" labeled as the old wording; `Phase_5` Method line L19 → L25 |
+| 10 | Sheet gaps | rows added: climate file and geothermal (`Phase_3`, 4 of 4), connections file (`Phase_5`, 6 of 6), medical institutes (zero hits) and factions files (found, not extracted) in `Phase_7` (13 of 13); `Phase_7` §27 counts labeled as pre-rescale (workforce 944,859; live about 962,707) |
+| 11 | Left | peer lines, Italy at Significant, daylight rounding, `Step_9` "column" wording, Pre-Trip §I; the teahouse framing in Zukelli's culture files (noted in the Weekly To-Do) |
+
+Check: spec 216 lines, census 810 and `16` 3,578 unchanged in length; verifier 0 FAIL (1 NOTE); coverage check 0 gaps.
+
+**That completes the Janbogo subnet's walk-through (all 7 cities).**

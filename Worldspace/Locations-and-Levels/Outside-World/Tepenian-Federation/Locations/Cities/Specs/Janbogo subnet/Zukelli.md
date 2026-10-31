@@ -54,7 +54,7 @@ Zukelli was not a suburb of Janbogo or a satellite settlement. It was a distinct
 
 The Terra Nova Bay polynya — the persistent stretch of open water maintained by katabatic winds — was a shared resource and a shared landmark. Both cities built around it. Both depended on it. When the Long Night War came, the polynya kept running regardless.
 
-The city is named for Zucchelli — specifically Mario Zucchelli, the Italian Antarctic program director who shaped Italy's presence on the Ross Sea over generations. The Tepenian name is a simplified phonetic adaptation of the original.
+The city is named for Zucchelli — specifically Mario Zucchelli, the Italian Antarctic program director who shaped Italy's presence on the Ross Sea over generations. The Tepenian name is a simplified phonetic adaptation of the original. *(2026-10-13: the developer ruled that the city's founders are Australian, not Italian, and that it will be given a new name in line with them; the name is not yet chosen.)*
 
 ### Annual Climate
 
@@ -92,9 +92,9 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 > polar night to within one day)*. **The `~64` figure corresponds to a latitude near 71°S — about 400 km
 > north of where this city actually is.**
 >
-> ⚠ **`Specs/Janbogo.md` carries the identical wrong pair and is NOT corrected here** — Jang Bogo is at
-> 74°37'S, four minutes of latitude away, so its true figures are the same 95/101. **That file is outside
-> this pass's scope; the error is logged, not fixed.**
+
+
+
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
@@ -155,7 +155,7 @@ The katabatic winds and the polynya were understood as connected phenomena — t
 
 **Nationally known for:** The food culture. The relationship with Janbogo. The polynya. Being the city 8km from the one that survived.
 
-**Developer vision, established 2026-07-05:** A tangled, organically-grown city — built as its needs arose rather than to any master plan, navigable on sight only to people who actually lived there. Beneath the heating infrastructure, elaborate plantlines and elevated "bridger-footroads" gave residents something resembling equatorial nature to walk among, much of it artificial or genetically engineered for the cold but real in effect. A huge, genre-diverse music scene grew out of the city's own food-and-hospitality civic core, with most entertainment happening among friends and in restaurants with dedicated performance stages rather than at standalone venues. Above all else, people describe it as a place with a *soul* — a description that lands with real weight given it was destroyed at 72.5% human retention, near peak, not in decline. Full detail in `Local_Cultures/Janbogo_Subnet/Zukelli.md`.
+**Developer vision, established 2026-07-05:** A tangled, organically-grown city — built as its needs arose rather than to any master plan, navigable on sight only to people who actually lived there. Beneath the heating infrastructure, elaborate plantlines and elevated "bridger-footroads" gave residents something resembling equatorial nature to walk among, much of it artificial or genetically engineered for the cold but real in effect. A huge, genre-diverse music scene grew out of the city's own food-and-hospitality civic core, with most entertainment happening among friends and in restaurants with dedicated performance stages rather than at standalone venues. Above all else, people describe it as a place with a *soul* — a description that lands with real weight given it was destroyed at 70.63% human retention, near peak, not in decline. Full detail in `Local_Cultures/Janbogo_Subnet/Zukelli.md`.
 
 ---
 

@@ -2819,7 +2819,7 @@ recorded here because this is where it surfaced.**
   provider depends on**, without claiming the provider role itself.
 - **⚠ Post-war, NOT an input:** **Zukelli was destroyed for what it SHELTERED, not what it produced** —
   AWOL Upper Earth defectors, *"a deliberate total-obliteration order both to guarantee their deaths and to
-  send a deterrent message, **with Janbogo left standing specifically to witness it**."* **Destroyed at 72.5%
+  send a deterrent message, **with Janbogo left standing specifically to witness it**."* **Destroyed at 70.63%
   human retention — near peak, not in decline.**
 - **The only Tepenian ruin visible from a living city** — ~8 km across the shared Terra Nova Bay polynya.
 - **⏸️ The "Zukelli Native" perk mechanic** *(decoded structural language; 10 Calculation / 10 Investigation /

@@ -4,7 +4,7 @@
 > Guide's consolidated 19-file convention. **Feeds `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/00_Frame.md` when Zukelli's own Step 0 runs.**
 > ⛔⛔ No later-era content appears below — later-era fields, clauses and sections are **excluded, not quoted**.
 > ⚠ **Built 2026-09-30 directly from the primary sources, not through a T8 dispatch** — DRAFT until verified.
-> 📂 **Spine MUST OPEN coverage (Phase 0): 2 of 3 resolved** — Repo_Scope ✅ · Timeline eras ✅ · Census ✅ — *the census item's "+ location registries" names no file anywhere* (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L280–285) — recorded as **UNRESOLVED, not guessed**.
+> 📂 **Spine MUST OPEN coverage (Phase 0): 2 of 3 resolved** — Repo_Scope ✅ · Timeline eras ✅ · Census ✅ — *the census item's "+ location registries" names no file anywhere* (`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md` L281–286) — recorded as **UNRESOLVED, not guessed**.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), recounted by hand 2026-10-30:** **3 of 3** addresses are named in this sheet (2 directly, 1 through a shared Tier U sheet it cites).
 
