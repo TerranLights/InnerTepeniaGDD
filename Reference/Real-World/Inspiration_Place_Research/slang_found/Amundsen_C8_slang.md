@@ -11,3 +11,9 @@ Real-world terms only; collected, not researched. Sources are in the C8 file.
 - McMurdo Sometimez: joking name of the irregular McMurdo newspaper 1960-1980 (search summary; unverified).
 - Baby Seagulls: name of the Mawson 2012 winter band.
 - Solskinnsboller / solboller: sun buns eaten for the sun-return day in Longyearbyen and Tromsø.
+- Afternoon session additions (2026-11-01):
+- spike room: North Slope (Alaska) camp snack room open 24 hours, "stocked with snacks, drinks, pastries" (Alaska Business, August 2020).
+- hitch: a worker's stint of weeks on site at a North Slope camp ("once this hitch"; Alaska Business, August 2020).
+- cookee: cook's helper in a logging camp, "always young males" (Millinocket Historical Society).
+- dingle: unheated shed attached to a logging-camp kitchen for freeze-proof supplies (Millinocket Historical Society).
+- "pass the meat" / "shoot the beans": the only talk allowed at a silent logging-camp table (Wisconsin account, via search summary; unverified).
