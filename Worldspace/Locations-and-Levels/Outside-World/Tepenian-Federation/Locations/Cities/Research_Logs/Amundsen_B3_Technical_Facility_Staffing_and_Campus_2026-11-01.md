@@ -17,7 +17,7 @@ Real-world research only. Claim marks: SOURCED (URL + figure), UNVERIFIED, DERIV
 Note: item 1 queries are listed here; each later item carries its own search log at the end of its section (items 2-8), and the Addendum lists the second-angle queries.
 ### Item 1 queries
 - "CERN personnel statistics 2024 staff fellows users associates number" - found listing only (CDS record CERN-HR-STAFF-STAT-2024 exists); PDF behind bot-protection wall. Died at the SOURCE.
-- "CERN Control Centre operators shift pattern accelerator operation crew size" - useful.
+- "CERN Control Center operators shift pattern accelerator operation crew size" - useful.
 - "CERN Hostel restaurant 1 restaurant 2 restaurant 3 Meyrin site housing hostel rooms"
 - "CERN Fire and Rescue Service number of firefighters shifts Meyrin Prévessin" - FAQ docx found; read in full via local unzip.
 - "CERN Annual Personnel Statistics 2024 CERN-HR-STAFF-STAT-2024 ..." - 2024 PDF unreachable (Anubis); used the 2019 report instead (Indico PDF, read with pdftotext).
@@ -58,8 +58,8 @@ Note: item 1 queries are listed here; each later item carries its own search log
 ### 1.4 On-site life
 - SOURCED (https://campus.web.cern.ch/?p=337): "Three main restaurants (R1 and R2 in Meyrin, R3 in Prévessin)"; a large cafeteria in building 774 plus smaller ones; vending machines and coffee corners at all sites; a campus app shows menus and occupancy.
 - SOURCED (https://campus.web.cern.ch/campus-life/housing/): CERN Hotel "provides 450 rooms in three separate buildings" (38, 39, 41) on the Meyrin site; Foyer Résidence Schuman with "151 individual rooms for CERN users" in Saint-Genis-Pouilly, open to the public; 12-13 CERN apartments restricted to users with a CERN guarantor.
-- SOURCED (https://staff-association.web.cern.ch/clubs): 49 clubs (amateur radio, astronomy, basketball, billiards, canoe-kayak, choir, cinema, climbing, cricket, croquet, dance, drama, fly fishing, football, frisbee, golf, ice hockey, jazz, martial arts, orienteering, rugby, running, ski, softball, squash, scuba, table tennis, volleyball, yachting, yoga, bees and nature, welcome club, and others); "subsidised by the Association and the CERN Administration"; membership numbers NOT given.
-- SOURCED (campus navigation list): Community Support Centre, CERN Library, Well-being, Nursery and School, Staff Association, Post, Stores, Cleaning, Waste Management, Dosimetry, Site Access.
+- SOURCED (https://staff-association.web.cern.ch/clubs): 49 clubs (amateur radio, astronomy, basketball, billiards, canoe-kayak, choir, cinema, climbing, cricket, croquet, dance, drama, fly fishing, football, frisbee, golf, ice hockey, jazz, martial arts, orienteering, rugby, running, ski, softball, squash, scuba, table tennis, volleyball, yachting, yoga, bees and nature, welcome club, and others); "subsidized by the Association and the CERN Administration"; membership numbers NOT given.
+- SOURCED (campus navigation list): Community Support Center, CERN Library, Well-being, Nursery and School, Staff Association, Post, Stores, Cleaning, Waste Management, Dosimetry, Site Access.
 - SOURCED (CERN Bulletin 2011, via search summary): nursery school 28 qualified staff and about 142 children. Older, UNVERIFIED as current. Clubs "around 50" (2011) and "52" (2014).
 - Firefighter FAQ note: CERN "does not support individuals and families in finding accommodation in the area", so the host towns (France and Switzerland) supply housing, schools beyond the nursery, public transport. Population of Meyrin / Saint-Genis-Pouilly / Pays de Gex: NOT YET LOOKED UP (see Unresolved).
 - What failed: no failure of the campus model located in the sources read; the only noted friction items are (a) the CERN rule that firefighters must live near the laboratory and (b) hotel/foyer capacity being separate buildings across a border. NOT FOUND: any documented shortage or revolt.
@@ -306,7 +306,7 @@ Source-quality note: this subject has few primary staffing disclosures. Headcoun
 - What failed: SOURCED (news via search summary, UNVERIFIED in primary text): in May 2017 meltwater entered the access tunnel and froze there (no seeds damaged) because permafrost "had not developed as projected"; officials said it was meant to operate "without the help of humans but now we are watching the seed vault 24 hours a day"; upgrade (about 4.4 million USD per a WorldArchitecture headline) removed heat sources (transformer moved outside the tunnel), added drainage and waterproof walls, and "additional security".
 
 ### 7.2 Arctic World Archive (Svalbard)
-- SOURCED (Wikipedia, secondary): opened 27 March 2017 in a disused coal mine (Store Norske Gruve 3) a few hundred meters from the seed vault; a steel vault 150-300 m below ground, behind a concrete wall and steel gate; run as a profit-making business by Piql and Store Norske Spitsbergen Kulkompani; data on film with stated life of at least 500 years; retrieval requires manual retrieval of the reel then upload by fibre to Piql in Drammen: "fastest possible retrieval time is 20-30 minutes, but it can take up to 24 hours with an active subscription and up to 72 hours without".
+- SOURCED (Wikipedia, secondary): opened 27 March 2017 in a disused coal mine (Store Norske Gruve 3) a few hundred meters from the seed vault; a steel vault 150-300 m below ground, behind a concrete wall and steel gate; run as a profit-making business by Piql and Store Norske Spitsbergen Kulkompani; data on film with stated life of at least 500 years; retrieval requires manual retrieval of the reel then upload by fiber to Piql in Drammen: "fastest possible retrieval time is 20-30 minutes, but it can take up to 24 hours with an active subscription and up to 72 hours without".
 - SOURCED (press via search summary, UNVERIFIED in primary text): visitors to Mine 3 get helmets, headlamps and protective suits and can approach the entrance, but "direct access to the archive is prohibited"; a guide quoted runs mine tours. Resident staff count: NOT FOUND (no source says anyone lives or works permanently at the vault; operations are by Piql from the mainland and local tour staff).
 
 ### 7.3 Granite Mountain Records Vault (Utah)
@@ -327,7 +327,7 @@ Source-quality note: this subject has few primary staffing disclosures. Headcoun
 - Library of Congress Packard Campus (Culpeper) / Fort Meade: NOT FOUND (query returned nothing for them).
 
 ### 7.6 Item 7 search log
-- "Svalbard Global Seed Vault staff on site no permanent staff Statsbygg Nordic Genetic Resource Centre Crop Trust access rules who has keys opening days per year"
+- "Svalbard Global Seed Vault staff on site no permanent staff Statsbygg Nordic Genetic Resource Center Crop Trust access rules who has keys opening days per year"
 - "Iron Mountain Underground Boyers Pennsylvania limestone mine facility employees tenants workers underground cafeteria ..."
 - "Granite Mountain Records Vault FamilySearch staff employees number Little Cottonwood Canyon access rules who can enter vault employees"
 - "National Library of Norway Mo i Rana depot staff employees number Arctic Circle library storage facility"

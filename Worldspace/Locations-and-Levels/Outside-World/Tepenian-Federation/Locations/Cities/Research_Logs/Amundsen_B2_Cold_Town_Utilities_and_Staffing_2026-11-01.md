@@ -121,7 +121,7 @@ Dead ends / failed fetches:
 
 ### 1.5 Ny-Alesund (Svalbard) - research village run by a company
 - SOURCED (Svalbardposten, 4 Sept 2015, https://svalbardposten.no/environment-kings-bay-ny-alesund/spending-millions-for-the-environment/141047): "123 people currently", community maximum 200; sewage plant costs about 1.5 million NOK, capacity 10,000 liters a day; sewage no longer discharged to the fjord; sludge pumped out and composted; energy-saving cut diesel use by about 200,000 liters; 12 to 15 million NOK spent on environment since 2013.
-- SOURCED (Wikipedia Kings Bay (company), fetched): 32 employees in 2007 (infobox). UNVERIFIED (search summary): "permanent staff of 20-25 employees" depending on season. The company supplies power, water, district heating, fire protection, housing, catering and airport/harbour.
+- SOURCED (Wikipedia Kings Bay (company), fetched): 32 employees in 2007 (infobox). UNVERIFIED (search summary): "permanent staff of 20-25 employees" depending on season. The company supplies power, water, district heating, fire protection, housing, catering and airport/harbor.
 - CONFLICT noted: sewage plant capacity is described as 10,000 L/day (Svalbardposten) vs 65 population equivalents and 10 m3/day (manufacturer page, search summary); same figure in different units, not a true conflict.
 
 ### 1.6 CFS Alert (Nunavut) and Pituffik (Greenland)
