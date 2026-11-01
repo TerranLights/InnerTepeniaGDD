@@ -1,0 +1,22 @@
+# Amundsen B1: terms found by chance (not researched; no meanings beyond the context seen)
+
+Found 2026-11-01 while researching Antarctic stations as communities. Each is a term used in a source; none was searched for.
+
+- house mouse (USAP, Pole and McMurdo: rotating shared cleaning duty; Participant Guide ch. 6 and 7)
+- freshies (Pole winter: fresh food; brr.fyi "The last egg")
+- Do Not Freeze / DNF storage (Pole food storage; brr.fyi)
+- fuelies (McMurdo/Pole: fuels department staff; contractor blog 2019)
+- stewies (McMurdo galley stewards; same blog)
+- MidRats (McMurdo midnight meal for night shift; same blog)
+- Mainbody (McMurdo summer season, October to February) and WINFLY (mid-August flight; Participant Guide ch. 7)
+- Mactown / MCM (McMurdo nicknames; Wikipedia)
+- slushy duty (AAD stations: rostered help to the chef)
+- Woolies / Woollies (AAD stations: the walk-in store cupboard)
+- dongas (Mawson single-room accommodation)
+- Red Shed (Casey and Mawson main living building)
+- Splinters (Casey bar name)
+- Club 90 South (Pole bar name in the 2002 account)
+- Dome Brewers Association (Pole homebrew group)
+- Polies (Pole residents; southpolestation.com)
+- Hoosh (heroic-era Antarctic stew; title of a 2012 book used for a 2019 Pole midwinter menu)
+- polar T3 syndrome, winter-over syndrome, "long-eye" (psychology terms; prior file)
