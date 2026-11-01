@@ -857,3 +857,6 @@ Check: spec 230 lines and `City_Relationship_Database.md` 543 unchanged by `wc -
 ## Walk-through status: all 38 cities walked (2026-10-30 to 2026-10-31)
 
 Remaining from the walk-through: the end-of-walk-through "recurring patterns" decisions (monthly precipitation column vs annual text; spec comparison sentences; "column" vs "row" harmonization of method files), the open "(founding wave)" question, and the Pergamino/Esperanza/Byrd/Amundsen follow-ups filed in the Weekly To-Do.
+
+## Esperanza follow-up research (2026-11-01)
+Research log: `Locations/Cities/Research_Logs/Esperanza_Site_Size_and_Education_Figures_2026-11-01.md`. Hope Bay's own ice-free ground is about 4 km² (Poeiras et al. 2026); required area is 190–272 km² at 1,902,205; no ice-speed data found; the Ulu Peninsula (about 250 km²) is 62–92 km away. **Developer chose Option D (combination: smaller Esperanza on Hope Bay plus Tabarin plus ice, some population relocated).** Held until the population work: NMCI L173/L176, DoI README L189 ("twelve times" → 7.1× on the §11 basis), `Phase_4` NMCI row, Marambio spec L58, Esperanza extent declaration.
